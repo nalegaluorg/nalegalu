@@ -1,7 +1,7 @@
 # Test Results
 
 **Status:** PASSED
-**Run:** 2026-06-14 11:46 UTC
+**Run:** 2026-06-14 13:26 UTC
 **Scope:** unit
 **Total:** 208 tests — 208 passed, 0 failed, 0 errors, 33 skipped
 
@@ -300,5 +300,5 @@ tests/test_saos.py::TestCrossRef::test_render_crossref_md PASSED         [ 99%]
 tests/test_sync_selected_acts.py::test_parse_addresses_from_regression_output PASSED [ 99%]
 tests/test_sync_selected_acts.py::test_build_commands_groups_by_publisher_and_year PASSED [100%]
 
-======================= 208 passed, 33 skipped in 0.27s ========================
+======================= 208 passed, 33 skipped in 0.25s ========================
 ```

@@ -1,14 +1,14 @@
 # Publish Summary
 
-Generated: 2026-06-14 11:50 UTC
+Generated: 2026-06-14 13:29 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
 | Published | 18095 |
-| Updated/new | 28 |
-| Unchanged | 12946 |
+| Updated/new | 6 |
+| Unchanged | 12968 |
 | Skipped incomplete orzeczenia | 0 |
 | Skipped regressions | 5121 |
 | Blocked by quality gate | 818 |
@@ -94,14 +94,6 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | Issue | Count |
 |-------|------:|
 | Original PDF candidate for unified act | 4937 |
-
-## Newly rejected (3)
-
-| Address | Reason |
-|---------|--------|
-| WDU20140000221 | ELI placeholder original content — ELI HTML contains 'patrz  |
-| WDU20230000035 | processing failed without diagnostic (stage=error; stale ren |
-| WDU20240000402 | processing failed without diagnostic (stage=error; stale ren |
 
 ## Blocked acts (818)
 
