@@ -8,7 +8,7 @@ pos: 1079
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o cudzoziemcach
@@ -37,7 +37,71 @@ Art. 466–506. (pominięte)
 
 **Art. 2.** Ustawy nie stosuje się do:
 
+- **1)** członków misji dyplomatycznych i urzędów konsularnych państw obcych oraz innych osób zrównanych z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych pod warunkiem wzajemności i posiadania przez te osoby dokumentów potwierdzających pełnienie przez nie funkcji uprawniających do wjazdu na terytorium Rzeczypospolitej Polskiej i pobytu na tym terytorium, z wyjątkiem art. 23, art. 32, art. 58, art. 58a, art. 60– 63, art. 66 ust. 4 i 5, art. 67–74, art. 78 ust. 1, art. 79 ust. 1 i 2, art. 80, art. 90–92 oraz art. 96 i art. 97;
+- **2)** obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członków ich rodzin, którzy do nich dołączają lub z nimi przebywają;
+- **3)** członków rodzin obywateli Rzeczypospolitej Polskiej w rozumieniu art. 2 pkt 4 lit. b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633 i 1688 oraz z 2025 r. poz. 619), którzy do nich dołączają lub z nimi przebywają;
+- **4)** obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. b i d Umowy o Wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7), zwanej dalej „Umową Wystąpienia”, oraz członków ich rodzin, o których mowa w art. 10 ust. 1 lit. e i f Umowy Wystąpienia, chyba że ustawa stanowi inaczej.
+
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** azyl – azyl w rozumieniu art. 90 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389, 619 i 621);
+- **2)** cudzoziemiec – każdego, kto nie posiada obywatelstwa polskiego; <2a) członek rodziny rozdzielonej – cudzoziemca zamieszkującego na terytorium Rzeczypospolitej Polskiej, który występuje z wnioskiem o udzielenie zezwolenia na pobyt czasowy w celu połączenia się z rodziną cudzoziemcowi przebywającemu poza granicami Rzeczypospolitej Polskiej, lub obywatela polskiego, obywatela innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub obywatela Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b i d Umowy Wystąpienia, zamieszkującego na terytorium Rzeczypospolitej Polskiej, który występuje z wnioskiem o udzielenie zezwolenia na pobyt czasowy, o którym mowa w art. 160 pkt 1, 3, 4 lub 6, cudzoziemcowi przebywającemu poza granicami Rzeczypospolitej Polskiej;>
+- **3)** dokument podróży – dokument uznany przez Rzeczpospolitą Polską, uprawniający do przekroczenia granicy, wydany cudzoziemcowi przez organ państwa obcego, organ polski lub organizację międzynarodową albo podmiot upoważniony przez organ państwa obcego lub obcą władzę o charakterze państwowym;
+- **4)** doświadczenie zawodowe – doświadczenie uzyskane w trakcie zatrudnienia, wykonywania innej pracy zarobkowej lub prowadzenia działalności gospodarczej w danym zawodzie;
+- **4a)** działalność zawodowa – krótkoterminową działalność cudzoziemca, związaną bezpośrednio z interesami gospodarczymi podmiotu powierzającego mu pracę w zawodzie wymagającym wysokich kwalifikacji i obowiązkami zawodowymi tego cudzoziemca, będącego posiadaczem ważnego dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającego jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 3, z późn. zm.), zwanego dalej „rozporządzeniem nr 1030/2002”, z adnotacją „Niebieska Karta UE” lub z adnotacją „Były posiadacz Niebieskiej Karty UE”, wydanego przez inne państwo członkowskie Unii Europejskiej, wykonywaną na podstawie umowy zawartej z tym podmiotem w innym państwie członkowskim Unii Europejskiej, obejmującą udział w wewnętrznych lub zewnętrznych spotkaniach służbowych, udział w konferencjach lub seminariach, negocjowanie umów handlowych, podejmowanie działalności związanej ze sprzedażą lub marketingiem, rozeznawanie możliwości biznesowych lub udział w szkoleniach i korzystanie z nich;
+- **5)** granica – granicę Rzeczypospolitej Polskiej w rozumieniu art. 1–3 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2025 r. poz.
+- **184)** ;
+- **5a)** grupa przedsiębiorstw – co najmniej dwie osoby prawne lub jednostki organizacyjne niebędące osobami prawnymi, którym ustawa przyznaje zdolność prawną, prowadzące działalność gospodarczą, które:
+    - **a)** są powiązane ze sobą w sposób odpowiadający relacji spółki dominującej i spółki zależnej w rozumieniu art. 4 § 1 pkt 4 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) lub
+    - **b)** pozostają z inną osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną, w takich stosunkach prawnych, że wynika z nich podstawa do wywierania przez tę osobę prawną lub jednostkę organizacyjną decydującego wpływu na ich działalność, z użyciem tożsamych wzorców i prawideł zarządzania;
+
+- **5b)** jednostka przyjmująca – osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną, do której jest przenoszony pracownik wewnątrz przedsiębiorstwa, i która:
+    - **a)** jest w szczególności oddziałem lub przedstawicielstwem pracodawcy macierzystego będącego przedsiębiorcą zagranicznym lub
+    - **b)** należy do tej samej grupy przedsiębiorstw co pracodawca macierzysty;
+
+- **5c)** jednostka naukowa – podmiot, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ); <5d) kraj pochodzenia – państwo, którego cudzoziemiec jest obywatelem, a w przypadku cudzoziemca, którego obywatelstwa nie da się ustalić lub który nie posiada obywatelstwa żadnego państwa – państwo, w którym stale zamieszkuje;>
+- **6)** kwalifikacje uzyskane w wyniku ukończenia studiów wyższych – kwalifikacje uzyskane w wyniku ukończenia z wynikiem pozytywnym, poświadczonego dyplomem, świadectwem lub innym dokumentem wydanym przez właściwy organ programu studiów wyższych, czyli cyklu zajęć prowadzonych przez instytucję edukacyjną uznaną za instytucję szkolnictwa wyższego przez państwo, w którym ma ona siedzibę, pod warunkiem że czas trwania studiów niezbędny do ich uzyskania wynosi co najmniej 3 lata;
+- **6a)** kwalifikacje uzyskane w wyniku doświadczenia zawodowego – kwalifikacje uzyskane w wyniku:
+    - **a)** trzyletniego doświadczenia zawodowego na poziomie porównywalnym z poziomem kwalifikacji uzyskanych w wyniku ukończenia studiów wyższych, niezbędnego do wykonywania pracy określonej w umowie, w okresie nie dłuższym niż 7 lat poprzedzających złożenie wniosku o udzielenie zezwolenia, o którym mowa w art. 127 lub art. 137a, jeżeli cudzoziemiec wykonuje zawód wymieniony w obwieszczeniu, o którym mowa w art. 138a,
+    - **b)** pięcioletniego doświadczenia zawodowego na poziomie porównywalnym z poziomem kwalifikacji uzyskanych w wyniku ukończenia studiów wyższych, niezbędnego do wykonywania pracy określonej w umowie, jeżeli cudzoziemiec nie wykonuje zawodu wymienionego w obwieszczeniu, o którym mowa w art. 138a;
+
+- **7)** mały ruch graniczny – wjazd cudzoziemców na terytorium Rzeczypospolitej Polskiej, do których stosuje się rozporządzenie (WE) nr 1931/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. ustanawiające przepisy dotyczące małego ruchu granicznego na zewnętrznych granicach lądowych państw członkowskich i zmieniające postanowienia Konwencji z Schengen (Dz. Urz. UE L 405 z 30.12.2006, str. 1, z późn. zm.), i ich pobyt na tym terytorium;
+- **7a)** mobilność – uprawnienie cudzoziemca do wjazdu i pobytu na terytorium państw członkowskich Unii Europejskiej, wynikające z posiadania ważnego dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, lub z posiadania ważnej wizy długoterminowej, o której mowa w art. 18 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach (Dz. Urz. UE L 239 z 22.09.2000, str. 19, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 2, str. 9, z późn. zm.), zwanej dalej „Konwencją Wykonawczą Schengen”, albo wydanej zgodnie z prawem państwa członkowskiego Unii Europejskiej, niebędącego państwem obszaru Schengen, wydanych przez inne państwo członkowskie Unii Europejskiej niż to, w którym cudzoziemiec korzysta z tego uprawnienia;
+- **7b)** (uchylony) 7c) (uchylony) 7d) mobilność długoterminowa członka rodziny naukowca – mobilność członka rodziny naukowca przez okres przekraczający 180 dni w danym państwie członkowskim Unii Europejskiej;
+- **7e)** mobilność długoterminowa naukowca – mobilność naukowca przez okres przekraczający 180 dni w danym państwie członkowskim Unii Europejskiej; 7ea) mobilność długoterminowa posiadacza Niebieskiej Karty UE – mobilność posiadacza dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, z adnotacją „Niebieska Karta UE”, przez okres przekraczający 90 dni w danym państwie członkowskim Unii Europejskiej;
+- **7f)** mobilność długoterminowa pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż, w ramach przeniesienia wewnątrz przedsiębiorstwa – mobilność pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż, w ramach przeniesienia wewnątrz przedsiębiorstwa, przez okres przekraczający 90 dni w danym państwie członkowskim Unii Europejskiej;
+- **7g)** mobilność krótkoterminowa członka rodziny naukowca – mobilność członka rodziny naukowca przez okres nieprzekraczający 180 dni w dowolnym okresie liczącym 360 dni w każdym państwie członkowskim Unii Europejskiej;
+- **7h)** mobilność krótkoterminowa naukowca – mobilność naukowca przez okres nieprzekraczający 180 dni w dowolnym okresie liczącym 360 dni w każdym państwie członkowskim Unii Europejskiej; 7ha) mobilność krótkoterminowa posiadacza Niebieskiej Karty UE – mobilność posiadacza dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, z adnotacją „Niebieska Karta UE” lub z adnotacją „Były posiadacz Niebieskiej Karty UE”, przez okres nieprzekraczający 90 dni w dowolnym okresie liczącym 180 dni w każdym państwie członkowskim Unii Europejskiej w celu wykonywania działalności zawodowej;
+- **7i)** mobilność krótkoterminowa pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż, w ramach przeniesienia wewnątrz przedsiębiorstwa – mobilność pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż, w ramach przeniesienia wewnątrz przedsiębiorstwa, przez okres nieprzekraczający 90 dni w dowolnym okresie liczącym 180 dni w każdym państwie członkowskim Unii Europejskiej;
+- **7j)** mobilność studenta – mobilność studenta lub doktoranta objętego programem unijnym lub programem wielostronnym obejmującym środki w zakresie mobilności lub porozumieniem między przynajmniej dwiema instytucjami szkolnictwa wyższego, przewidującym mobilność wewnątrzunijną przez okres nieprzekraczający 360 dni w każdym państwie członkowskim;
+- **8)** naukowiec – cudzoziemca posiadającego co najmniej tytuł zawodowy odpowiadający w Rzeczypospolitej Polskiej tytułowi zawodowemu magistra lub równorzędnemu, umożliwiający ubieganie się o nadanie stopnia doktora;
+- **9)** ochrona czasowa – ochronę w rozumieniu art. 106 ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej;
+- **10)** ochrona uzupełniająca – ochronę w rozumieniu art. 15 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej;
+- **10a)** organizator stażu – osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną, w której odbywa się staż, mającą siedzibę na terytorium Rzeczypospolitej Polskiej;
+- **11)** państwa obszaru Schengen – państwa, które w pełni stosują dorobek Schengen;
+- **11a)** pierwsza karta pobytu – kartę pobytu wydaną cudzoziemcowi bezpośrednio po udzieleniu zezwolenia na pobyt czasowy, zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zgody na pobyt ze względów humanitarnych albo po uzyskaniu statusu uchodźcy lub ochrony uzupełniającej;
+- **12)** powrót – powrót cudzoziemca do kraju jego pochodzenia, państwa tranzytu lub innego państwa trzeciego, do którego zdecydował się powrócić i przez które został przyjęty;
+- **12a)** pracodawca macierzysty – osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną, posiadającą siedzibę poza terytorium państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia Wolnego Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, która zatrudnia pracownika przenoszonego do jednostki przyjmującej przed jego przeniesieniem wewnątrz przedsiębiorstwa i w czasie tego przeniesienia;
+- **13)** pracodawca użytkownik – pracodawcę użytkownika w rozumieniu art. 2 pkt 1 ustawy z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych (Dz. U. z 2025 r. poz. 236);
+- **13a)** pracownik odbywający staż – cudzoziemca posiadającego dyplom ukończenia studiów wyższych, który zostaje przeniesiony do jednostki przyjmującej w celu rozwoju zawodowego, w tym związanego z przygotowaniem do objęcia w przyszłości stanowiska u pracodawcy macierzystego lub w grupie przedsiębiorstw, lub odbycia szkolenia w zakresie technik lub metod prowadzenia działalności gospodarczej i który w czasie trwania przeniesienia otrzymuje wynagrodzenie;
+- **13b)** przeniesienie wewnątrz przedsiębiorstwa – czasowe oddelegowanie cudzoziemca, którego miejsce pobytu w chwili składania wniosku o udzielenie zezwolenia, o którym mowa w art. 139a ust. 1, znajduje się poza terytorium państw członkowskich Unii Europejskiej, przez pracodawcę macierzystego do jednostki przyjmującej oraz korzystanie z mobilności;
+- **14)** przewoźnik – osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej zajmującą się zarobkowo przewozem osób drogą powietrzną, morską lub lądową;
+- **15)** sieć telekomunikacyjna – sieć telekomunikacyjną w rozumieniu art. 2 pkt 58 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820);
+- **15a)** specjalista – cudzoziemca pracującego w ramach grupy przedsiębiorstw, posiadającego kluczową i specyficzną wiedzę dla obszarów działania jednostki przyjmującej, jej technik lub zarządzania nią, opartą na wysokich kwalifikacjach, w tym odpowiednim doświadczeniu zawodowym;
+- **16)** status uchodźcy – status w rozumieniu art. 13 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej;
+- **16a)** staż – niestanowiące wykonywania pracy wykonywanie przez cudzoziemca zadań w celu nabycia wiedzy, umiejętności praktycznych i doświadczenia zawodowego na podstawie umowy z organizatorem stażu;
+- **16b)** stażysta – cudzoziemca, który ukończył studia wyższe lub odbywa poza granicami Unii Europejskiej studia wyższe, odbywającego staż;
+- **17)** strefa tranzytowa lotniska międzynarodowego – teren lotniska międzynarodowego położonego na terytorium Rzeczypospolitej Polskiej rozciągający się między pokładem statku powietrznego a stanowiskiem kontroli granicznej, obejmujący także płytę oraz pomieszczenia lotniska;
+- **18)** szkolenie zawodowe – zorganizowany proces dydaktyczny mający na celu uzyskanie, uzupełnienie lub doskonalenie umiejętności, kwalifikacji zawodowych lub ogólnych, potrzebnych do wykonywania pracy, w tym umiejętności poszukiwania zatrudnienia;
+- **18a)** unijny program lub program wielostronny obejmujący środki w zakresie mobilności – program finansowany przez Unię Europejską lub przez państwa członkowskie Unii Europejskiej, który promuje przemieszczanie się obywateli państw trzecich w Unii Europejskiej lub w państwach członkowskich Unii Europejskiej uczestniczących w tym programie;
+- **19)** urządzenia telekomunikacyjne – urządzenia telekomunikacyjne w rozumieniu art. 2 pkt 74 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
+- **20)** wiza – wizę Schengen lub wizę krajową;
+- **21)** wiza krajowa – wizę, o której mowa w art. 18 Konwencji Wykonawczej Schengen, wydaną przez organ polski;
+- **22)** wiza Schengen – wizę, o której mowa w art. 2 pkt 2–5 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1, z późn. zm.);
+- **22a)** wolontariusz – cudzoziemca, który ochotniczo i bez wynagrodzenia, z wyjątkiem zwrotu kosztów lub kieszonkowego, wykonuje świadczenia w ramach udziału w programie wolontariatu europejskiego;
+- **23)** wykonywanie pracy – wykonywanie pracy przez cudzoziemca w związku z powierzeniem mu pracy w rozumieniu art. 2 pkt 9 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621);
+- **24)** wykonywanie pracy w zawodzie wymagającym wysokich kwalifikacji – wykonywanie pracy przez cudzoziemca posiadającego kompetencje potwierdzone wyższymi kwalifikacjami zawodowymi, który, niezależnie od zachodzącego między stronami stosunku prawnego, wykonuje pracę na rzecz lub pod kierownictwem innej osoby za wynagrodzeniem;
+- **25)** wyższe kwalifikacje zawodowe – kwalifikacje uzyskane w wyniku ukończenia studiów wyższych albo kwalifikacje uzyskane w wyniku doświadczenia zawodowego.
 
 **Art. 4.** W sprawach uregulowanych w ustawie, należących do właściwości wojewody, w których wojewoda jest organem właściwym do rozpatrzenia odwołania lub w których organem wyższego stopnia jest Szef Urzędu do Spraw Cudzoziemców, nie stosuje się przepisu art. 20 ustawy z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie (Dz. U. z 2025 r. poz. 428).
 
@@ -161,6 +225,70 @@ Art. 466–506. (pominięte)
 
 **Art. 13.** W rejestrach i ewidencji prowadzonych na podstawie ustawy mogą być przetwarzane następujące dane lub informacje dotyczące cudzoziemca:
 
+- **1)** imię (imiona) i nazwisko;
+- **2)** imię (imiona) i nazwiska poprzednie;
+- **3)** nazwisko rodowe;
+- **4)** płeć;
+- **5)** imię ojca;
+- **6)** imię i nazwisko rodowe matki;
+- **7)** data urodzenia, a w razie braku dokumentu potwierdzającego datę urodzenia prawdopodobny rok urodzenia;
+- **8)** miejsce i państwo urodzenia;
+- **9)** rysopis:
+    - **a)** wzrost w centymetrach,
+    - **b)** kolor oczu,
+    - **c)** znaki szczególne;
+
+- **10)** odciski linii papilarnych; [11) obywatelstwo;] <11) obywatelstwo (obywatelstwa);>
+- **12)** narodowość;
+- **13)** stan cywilny;
+- **14)** wykształcenie;
+- **15)** zawód wykonywany;
+- **16)** krajowy numer identyfikacyjny; [17) numer dokumentu podróży;] <17) dane dotyczące dokumentu podróży:
+    - **a)** seria i numer,
+    - **b)** data wydania i data upływu ważności,
+    - **c)** nazwa i kraj organu wydającego,
+    - **d)** liczba osób wpisanych do dokumentu podróży;> <17a) dane dotyczące dokumentu tożsamości lub innego dokumentu potwierdzającego tożsamość:
+    - **a)** seria i numer,
+    - **b)** data wydania i data upływu ważności,
+    - **c)** nazwa i kraj organu wydającego;
+
+- **17b)** dane dotyczące dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej:
+    - **a)** seria i numer,
+    - **b)** data wydania i data upływu ważności,
+    - **c)** okres pobytu,
+    - **d)** nazwa i kraj organu wydającego;> [18) oznaczenie podmiotu powierzającego pracę cudzoziemcowi;] <18) oznaczenie podmiotu powierzającego pracę cudzoziemcowi lub pracodawcy użytkownika:
+    - **a)** nazwa lub imię i nazwisko,
+    - **b)** adres siedziby lub miejsce zamieszkania,
+    - **c)** podstawa prawna działalności, nazwa rejestru i numer wpisu w rejestrze, a w przypadku osób fizycznych nieprowadzących działalności gospodarczej – nazwa dokumentu tożsamości, seria i numer,
+    - **d)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL),
+    - **e)** numer REGON,
+    - **f)** NIP,
+    - **g)** numer wpisu do rejestru podmiotów prowadzących agencje zatrudnienia,
+    - **h)** numer telefonu,
+    - **i)** adres poczty elektronicznej;> 18a) nazwa, adres siedziby, podstawa prawna działalności, nazwa rejestru i numer wpisu w rejestrze, numer REGON, <adres poczty elektronicznej i numer telefonu> organizatora stażu;
+
+- **18b)** nazwa, adres siedziby, podstawa prawna działalności, nazwa rejestru i numer wpisu w rejestrze, numer REGON, <adres poczty elektronicznej i numer telefonu> jednostki organizacyjnej, na rzecz której cudzoziemiec ma wykonywać świadczenia jako wolontariusz;
+- **18c)** nazwa, adres siedziby, podstawa prawna działalności, nazwa rejestru i numer wpisu w rejestrze, numer REGON jednostki naukowej;
+- **18d)** [nazwa i adres siedziby] <nazwa, adres siedziby, numer REGON, adres poczty elektronicznej i numer telefonu> jednostki prowadzącej studia pierwszego stopnia, studia drugiego stopnia lub jednolite studia magisterskie albo kształcenie w szkole doktorskiej; [19) miejsce zamieszkania lub pobytu;] <19) adres miejsca zamieszkania lub pobytu;> <19a) adres zamierzonego miejsca pobytu w Rzeczypospolitej Polskiej;>
+- **20)** numer telefonu;
+- **21)** adres poczty elektronicznej;
+- **22)** informacje o karalności, o prowadzonych przeciwko cudzoziemcowi postępowaniach karnych i postępowaniach w sprawach o wykroczenia oraz o wydanych w stosunku do niego orzeczeniach w postępowaniu sądowym lub administracyjnym;
+- **23)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL);
+- **24)** wizerunek twarzy;
+- **25)** informacja o zamieszkiwaniu na terytorium innego państwa członkowskiego Unii Europejskiej co najmniej przez okres 18 miesięcy na podstawie wydanego przez to państwo dokumentu pobytowego z adnotacją „Niebieska Karta UE”;
+- **26)** dane zapraszającego, o których mowa w art. 54 pkt 1; <27) adres w kraju pochodzenia;
+- **28)** adres w kraju poprzedniego zamieszkania;
+- **29)** wzór podpisu;
+- **30)** dane i informacje dotyczące członków rodziny cudzoziemca:
+    - **a)** imię,
+    - **b)** nazwisko,
+    - **c)** data urodzenia,
+    - **d)** płeć,
+    - **e)** obywatelstwo (obywatelstwa),
+    - **f)** miejsce zamieszkania,
+    - **g)** stopień pokrewieństwa,
+    - **h)** informacja o tym, czy pozostają na utrzymaniu cudzoziemca.>
+
 **Art. 14.** Odciski linii papilarnych pobiera się od cudzoziemca za pomocą kart daktyloskopijnych lub urządzenia do elektronicznego pobierania odcisków.
 
 **Art. 15.**
@@ -189,6 +317,9 @@ Art. 466–506. (pominięte)
 3. W przypadku skazania prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe pracownik nie może zajmować stanowiska związanego z wykonywaniem obowiązków, o których mowa w ust. 1, a jeżeli temu pracownikowi wydano upoważnienie, o którym mowa w art. 268a Kodeksu postępowania administracyjnego, do załatwiania spraw uregulowanych w ustawie, zostaje ono cofnięte.
 
 **Art. 15b.** Zadania określone w:
+
+- **1)** art. 32a, art. 72a, art. 83a, art. 96a ust. 2–4, art. 109a, art. 109b ust. 2–4, art. 208a, art. 208b ust. 2–4, art. 347b, art. 347f, art. 359a, art. 359b ust. 2–4 oraz art. 393c– 393e – dotyczące wpisów danych cudzoziemca w Systemie Informacyjnym Schengen do celów, o których mowa w art. 3 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1860 z dnia 28 listopada 2018 r. w sprawie użytkowania Systemu Informacyjnego Schengen do celów powrotu nielegalnie przebywających obywateli państw trzecich (Dz. Urz. UE L 312 z 07.12.2018, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2018/1860”,
+- **2)** art. 72, art. 83, art. 90 ust. 2–2c, art. 100 ust. 1b, art. 111 ust. 2–4, art. 198 ust. 2, art. 208, art. 214a ust. 2, art. 359c ust. 2, art. 443a, art. 448a oraz art. 448b – dotyczące wpisów danych cudzoziemca w Systemie Informacyjnym Schengen do celów odmowy wjazdu i pobytu na podstawie przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 (Dz. Urz. UE L 312 z 07.12.2018, str. 14, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2018/1861” – Komendant Główny Policji realizuje przy udziale funkcjonariuszy Straży Granicznej pełniących służbę w biurze SIRENE, o którym mowa w art. 35 ust. 1 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2023 r. poz. 1355 oraz z 2024 r. poz. 1688).
 
 **Art. 15c.**
 
@@ -228,6 +359,14 @@ Art. 466–506. (pominięte)
 4. Minister właściwy do spraw wewnętrznych odwołuje zastępców Szefa Urzędu, na wniosek Szefa Urzędu.
 
 **Art. 18.** Stanowisko Szefa Urzędu może zajmować osoba, która:
+
+- **1)** posiada tytuł zawodowy magistra lub równorzędny;
+- **2)** jest obywatelem polskim;
+- **3)** korzysta z pełni praw publicznych;
+- **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **5)** posiada kompetencje kierownicze;
+- **6)** posiada co najmniej 6-letni staż pracy, w tym co najmniej 3-letni staż pracy na stanowisku kierowniczym;
+- **7)** posiada wiedzę z zakresu spraw należących do właściwości Szefa Urzędu.
 
 **Art. 19.**
 
@@ -354,6 +493,10 @@ Art. 466–506. (pominięte)
 #### Rozdział 1 Zasady przekraczania granicy
 
 **Art. 23.** Cudzoziemiec, który przekracza granicę, jest obowiązany posiadać:
+
+- **1)** ważny dokument podróży;
+- **2)** ważną wizę lub inny ważny dokument uprawniający go do wjazdu na terytorium Rzeczypospolitej Polskiej i do pobytu na tym terytorium, jeżeli są wymagane;
+- **3)** zezwolenie na wjazd do innego państwa lub zezwolenie na pobyt w innym państwie, jeżeli zezwolenia takie są wymagane w przypadku przejazdu tranzytem.
 
 **Art. 24.**
 
@@ -541,6 +684,9 @@ Art. 466–506. (pominięte)
 
 **Art. 39.** Zezwolenie na przekraczanie granicy w ramach małego ruchu granicznego cofa się cudzoziemcowi, jeżeli:
 
+- **1)** zostało udzielone z naruszeniem art. 9 rozporządzenia nr 1931/2006 lub
+- **2)** cudzoziemiec przestał spełniać warunki do jego udzielenia.
+
 **Art. 40.**
 
 1. Zezwolenie na przekraczanie granicy w ramach małego ruchu granicznego unieważnia się, gdy cudzoziemiec, który wjechał na jego podstawie na terytorium Rzeczypospolitej Polskiej:
@@ -619,6 +765,13 @@ Art. 466–506. (pominięte)
 
 **Art. 46.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zagranicznych określi, w drodze rozporządzenia:
 
+- **1)** wzór formularza wniosku o udzielenie cudzoziemcowi zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego,
+- **2)** liczbę fotografii dołączanych do wniosku, o którym mowa w pkt 1,
+- **3)** szczegółowe wymogi techniczne dotyczące fotografii dołączanych do wniosku, o którym mowa w pkt 1,
+- **4)** wzór zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego,
+- **5)** sposób pobierania odcisków linii papilarnych w celu udzielenia cudzoziemcowi zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego,
+- **6)** sposób utrwalania danych umieszczanych w zezwoleniu na przekraczanie granicy w ramach małego ruchu granicznego i przekazywania ich do spersonalizowania zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego – mając na uwadze potrzebę zapewnienia sprawności prowadzonego postępowania oraz możliwości kontroli przekraczania granicy w ramach małego ruchu granicznego.
+
 **Art. 47.**
 
 1. Komendant placówki Straży Granicznej zatrzymuje zezwolenie na przekraczanie granicy w ramach małego ruchu granicznego, jeżeli podczas kontroli granicznej stwierdzi, że zostało ono cofnięte lub unieważnione, i wydaje cudzoziemcowi zaświadczenie o zatrzymaniu zezwolenia.
@@ -628,6 +781,13 @@ Art. 466–506. (pominięte)
 3. W rozporządzeniu, o którym mowa w ust. 2, minister właściwy do spraw wewnętrznych uwzględni liczbę niezbędnych egzemplarzy zaświadczenia o zatrzymaniu zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego oraz formę przekazania zaświadczenia właściwemu organowi, a także konieczność umieszczenia we wzorze zaświadczenia informacji o okoliczności stanowiącej podstawę zatrzymania zezwolenia.
 
 **Art. 48.** Szef Urzędu przekazuje właściwym organom państw stosujących rozporządzenie nr 1931/2006 informacje o:
+
+- **1)** decyzjach o unieważnieniu zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego;
+- **2)** grzywnach nałożonych na cudzoziemca za przebywanie:
+    - **a)** poza strefą przygraniczną, w której zgodnie z zezwoleniem na przekraczanie granicy w ramach małego ruchu granicznego mógł przebywać, lub
+    - **b)** na terytorium Rzeczypospolitej Polskiej po upływie okresu pobytu określonego w zezwoleniu na przekraczanie granicy w ramach małego ruchu granicznego;
+
+- **3)** decyzjach o zobowiązaniu cudzoziemca do powrotu wydanych z przyczyn, o których mowa w art. 302 ust. 1 pkt 12 lub 13.
 
 #### Rozdział 3 Zaproszenia
 
@@ -703,6 +863,18 @@ Art. 466–506. (pominięte)
 2. Obowiązek potwierdzenia możliwości pokrycia kosztów podróży powrotnej zapraszanego cudzoziemca do państwa pochodzenia lub zamieszkania, o którym mowa w ust. 1 pkt 2, uważa się za spełniony, także gdy zapraszający wykaże, że cudzoziemiec ma bilet powrotny do państwa pochodzenia lub zamieszkania.
 
 **Art. 54.** W zaproszeniu umieszcza się:
+
+- **1)** imię (imiona), nazwisko, datę i miejsce urodzenia, obywatelstwo, adres zamieszkania, numer telefonu, rodzaj, serię i numer dokumentu tożsamości zapraszającego, a w przypadku gdy zapraszającym jest osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej – firmę albo nazwę, numer REGON, adres siedziby i numer telefonu kontaktowego;
+- **2)** imię (imiona), nazwisko, datę i miejsce urodzenia, płeć, obywatelstwo, adres zamieszkania, serię i numer dokumentu podróży zapraszanego cudzoziemca oraz stopień pokrewieństwa z zapraszającym;
+- **3)** informację o zobowiązaniu się zapraszającego do pokrycia kosztów, o których mowa w art. 51 ust. 2 pkt 3;
+- **4)** adres miejsca zakwaterowania zapraszanego cudzoziemca na terytorium Rzeczypospolitej Polskiej;
+- **5)** określenie okresu, na który zapraszający zaprasza cudzoziemca, wyrażone datami;
+- **6)** określenie celu pobytu zapraszanego cudzoziemca na terytorium Rzeczypospolitej Polskiej;
+- **7)** nazwę organu, który wpisał zaproszenie do ewidencji zaproszeń;
+- **8)** datę i numer wpisu zaproszenia do ewidencji zaproszeń;
+- **9)** okres ważności zaproszenia;
+- **10)** informację, czy zapraszający zapewnia cudzoziemcowi zakwaterowanie w swoim lokalu mieszkalnym;
+- **11)** informacje o zasadach przetwarzania danych zapraszającego w Wizowym Systemie Informacyjnym, o których mowa w art. 37 ust. 1 rozporządzenia nr 767/2008.
 
 **Art. 55.** Odbioru zaproszenia może dokonać pełnomocnik legitymujący się pełnomocnictwem szczególnym do dokonania jego odbioru.
 
@@ -823,6 +995,10 @@ Art. 466–506. (pominięte)
 
 **Art. 63.** Minister właściwy do spraw zagranicznych w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** dokumenty potwierdzające pełnienie funkcji członków misji dyplomatycznych i urzędów konsularnych państw obcych oraz innych osób zrównanych z nimi pod względem przywilejów i immunitetów na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, a także dokumenty potwierdzające status członków ich rodzin, uprawniające do wjazdu na terytorium Rzeczypospolitej Polskiej i pobytu na tym terytorium,
+- **2)** wzory dokumentów, o których mowa w pkt 1,
+- **3)** oznaczenie wiz Schengen lub wiz krajowych wydawanych osobom, o których mowa w pkt 1 – uwzględniając obowiązujące w tym zakresie umowy lub powszechnie ustalone zwyczaje międzynarodowe.
+
 **Art. 64.**
 
 1. Wiza w celu, o którym mowa w art. 60 ust. 1 pkt 6, może być wydana cudzoziemcowi, który przedstawi zezwolenie na pracę, o którym mowa w art. 32, art. 37 lub art. 42 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, chyba że zezwolenie to nie jest wymagane.
@@ -840,6 +1016,42 @@ Art. 466–506. (pominięte)
 7. W przypadku wizy wydawanej w celu, o którym mowa w art. 60 ust. 1 pkt 5a, okres pobytu, na który się ją wydaje, nie może być dłuższy niż 9 miesięcy w roku kalendarzowym, z uwzględnieniem ograniczeń wynikających dla wiz Schengen.
 
 **Art. 64a.** [1. Wiza krajowa w celu, o którym mowa w art. 60 ust. 1 pkt 9, z adnotacją „student”, może być wydana cudzoziemcowi, który spełnia warunki, o których mowa w art. 144 ust. 1 pkt 1 oraz pkt 2 lit. b, jeżeli jednostka prowadząca studia, która podlega obowiązkowi zatwierdzenia, została zatwierdzona przez ministra właściwego do spraw wewnętrznych na podstawie art. 144 ust. 4–9, 13 i 14, albo w stosunku do jednostki prowadzącej studia, która nie podlega obowiązkowi zatwierdzenia, nie została wydana decyzja o zakazie przyjmowania cudzoziemców, o której mowa w art. 144a ust. 1.] <1. Wiza krajowa w celu, o którym mowa w art. 60 ust. 1 pkt 9, z adnotacją „student”, może być wydana cudzoziemcowi, który:
+
+- **1)** spełnia warunki, o których mowa w art. 144 ust. 1 pkt 1 oraz pkt 2 lit. b,
+- **2)** przedłoży zaświadczenie jednostki prowadzącej studia o przyjęciu na studia lub o kontynuacji studiów – jeżeli jednostka prowadząca studia, która podlega obowiązkowi zatwierdzenia, została zatwierdzona przez ministra właściwego do spraw wewnętrznych na podstawie art. 144 ust. 4–9, 13 i 14 albo w stosunku do jednostki prowadzącej studia, która nie podlega obowiązkowi zatwierdzenia, nie została wydana decyzja o zakazie przyjmowania cudzoziemców, o której mowa w art. 144a ust. 1.> 1a. Cudzoziemcowi, który został przyjęty na studia pierwszego stopnia lub jednolite studia magisterskie na podstawie świadectwa lub innego dokumentu niebędącego dokumentem, o którym mowa w art. 326a ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, wiza krajowa w celu, o którym mowa w art. 60 ust. 1 pkt 9, z adnotacją „student”, może być wydana po przedłożeniu przez tego cudzoziemca pisemnej informacji, o której mowa w art. 326a ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
+
+1b. Organ, który wydał wizę krajową w celu, o którym mowa w art. 60 ust. 1 pkt 9, z adnotacją „student”, zawiadamia o tym pisemnie rektora uczelni lub kierownika innej jednostki prowadzącej studia, w której cudzoziemiec zamierza podjąć lub kontynuować kształcenie.
+
+2. Wiza krajowa w celu, o którym mowa w art. 60 ust. 1 pkt 13, może być wydana cudzoziemcowi, który przedstawi umowę, o której mowa w art. 151 ust. 1 pkt 2, zawartą z jednostką naukową mającą siedzibę na terytorium Rzeczypospolitej Polskiej, zatwierdzoną przez ministra właściwego do spraw wewnętrznych na podstawie przepisów art. 151 ust. 4–5, oraz spełnia warunki, o których mowa w art. 151 ust. 1 pkt 1 lit. b i c.
+
+3. Wiza krajowa w celu, o którym mowa w art. 60 ust. 1 pkt 13a, może być wydana cudzoziemcowi, który spełnia warunki, o których mowa w art. 157a ust. 1 pkt 1 lit. a, c, d i e oraz pkt 2–4, jeżeli organizator stażu został zatwierdzony przez ministra właściwego do spraw wewnętrznych na podstawie art. 157a ust. 6–15.
+
+4. Wizę krajową w celu, o którym mowa w art. 60 ust. 1 pkt 13a, wydaje się na okres pobytu niezbędny do realizacji umowy, na podstawie której cudzoziemiec będzie odbywał staż, nie dłuższy niż 6 miesięcy.
+
+5. Wiza krajowa w celu, o którym mowa w art. 60 ust. 1 pkt 13b, może być wydana cudzoziemcowi, który spełnia warunki, o których mowa w art. 157g ust. 1 pkt 1 lit. b i c oraz pkt 2, jeżeli jednostka organizacyjna, na rzecz której cudzoziemiec ma wykonywać świadczenia jako wolontariusz, została zatwierdzona przez ministra właściwego do spraw wewnętrznych na podstawie art. 157g ust. 5–14.
+
+6. Cudzoziemiec, któremu przed dniem, o którym mowa w art. 144b ust. 1, została wydana wiza krajowa, o której mowa w art. 60 ust. 1 pkt 9, z adnotacją „student”, może kontynuować kształcenie w jednostce prowadzącej studia, w stosunku do której została wydana decyzja, o której mowa w art. 144b ust. 1.
+
+7. W postępowaniach w sprawie wydania wizy krajowej, o której mowa w art. 60 ust. 1 pkt 9, z adnotacją „student”, cudzoziemcowi kontynuującemu kształcenie w jednostce prowadzącej studia, w stosunku do której została wydana decyzja, o której mowa w art. 144b ust. 1, nie stosuje się wymogu związanego z obowiązkiem zatwierdzenia jednostki prowadzącej studia.
+
+8. Cudzoziemiec, któremu przed dniem, o którym mowa w art. 151a ust. 1, wydano wizę krajową, o której mowa w art. 60 ust. 1 pkt 13, może kontynuować badania naukowe lub prace rozwojowe w jednostce, w stosunku do której została wydana decyzja, o której mowa w art. 151a ust. 1.
+
+9. W postępowaniu w sprawie wydania kolejnej wizy krajowej, o której mowa w art. 60 ust. 1 pkt 13, cudzoziemcowi kontynuującemu odpowiednio badania naukowe lub korzystanie z mobilności długoterminowej naukowca w jednostce naukowej, w stosunku do której została wydana decyzja, o której mowa w art. 151a ust. 1, nie stosuje się jednorazowo wymogu związanego z obowiązkiem zatwierdzania jednostki naukowej. <10. Zaświadczenie, o którym mowa w ust. 1 pkt 2, zawiera następujące dane oraz informacje dotyczące cudzoziemca:
+
+- **1)** dane, o których mowa w art. 13 pkt 1, 7 i 11;
+- **2)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość oraz nazwę państwa, które go wydało;
+- **3)** informacje dotyczące jednostki prowadzącej studia, o których mowa w art. 13 pkt 18d;
+- **4)** datę rozpoczęcia kształcenia na studiach;
+- **5)** planowaną datę ukończenia studiów zgodnie z programem studiów;
+- **6)** kierunek studiów, a w przypadku szkoły doktorskiej – dyscypliny naukowe albo artystyczne;
+- **7)** określenie poziomu studiów i informację o ich odpłatności;
+- **8)** informację, w jakim języku odbywają się studia, oraz o poziomie biegłości językowej wymaganym do ich odbycia;
+- **9)** informację, czy cudzoziemiec jest objęty programem unijnym lub programem wielostronnym obejmującym środki w zakresie mobilności lub porozumieniem między przynajmniej dwiema instytucjami szkolnictwa wyższego przewidującym mobilność wewnątrzunijną, oraz nazwę programu lub porozumienia i nazwę oraz adres jednostek prowadzących studia objętych tym porozumieniem;
+- **10)** informację dotyczącą dotychczasowej realizacji toku studiów i zaliczenia przez niego wymaganych programem studiów zajęć lub grupy zajęć – jeżeli zaświadczenie dotyczy kontynuacji studiów.
+
+11. Jednostka prowadząca studia, wydając zaświadczenie, o którym mowa w ust. 1 pkt 2, dołącza wydruk karty okresowych osiągnięć studenta, o której mowa w przepisach wydanych na podstawie art. 81 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, lub potwierdzoną za zgodność z oryginałem kopię tej karty, obrazujące dotychczasowy przebieg procesu kształcenia cudzoziemca w tej jednostce, jeżeli dotyczy ono kontynuacji studiów.
+
+12. Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w ust. 1 pkt 2, uwzględniając dane i informacje, o których mowa w ust. 10, oraz konieczność zapewnienia czytelności zaświadczenia.>
 
 **Art. 65.**
 
@@ -1015,6 +1227,10 @@ Art. 466–506. (pominięte)
 **Art. 72.** Jeżeli dane cudzoziemca ubiegającego się o wydanie wizy krajowej znajdują się w Systemie Informacyjnym Schengen do celów odmowy wjazdu i pobytu i zachodzą przyczyny uzasadniające wydanie tej wizy, minister właściwy do spraw zagranicznych albo konsul rozpatrujący wniosek o wydanie wizy krajowej przeprowadza, za pośrednictwem Komendanta Głównego Policji, z właściwym organem państwa obszaru Schengen, które dokonało wpisu do Systemu Informacyjnego Schengen, konsultacje, o których mowa w art. 27 rozporządzenia nr 2018/1861, i informuje, za pośrednictwem Komendanta Głównego Policji, właściwy organ tego państwa obszaru Schengen o decyzji wydanej w sprawie wydania wizy krajowej lub o zamiarze wydania takiej wizy.
 
 **Art. 72a.** Jeżeli dane cudzoziemca zostały umieszczone w Systemie Informacyjnym Schengen do celów, o których mowa w art. 3 ust. 1 rozporządzenia nr 2018/1860, minister właściwy do spraw zagranicznych albo konsul, za pośrednictwem Komendanta Głównego Policji:
+
+- **1)** zwraca się do właściwego organu państwa obszaru Schengen, które umieściło dane, o przeprowadzenie konsultacji, o których mowa w art. 9 ust. 1 rozporządzenia nr 2018/1860, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **2)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o decyzji wydanej w sprawie wydania wizy krajowej, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **3)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o zamiarze wydania wizy krajowej lub o jej wydaniu, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której nie towarzyszy zakaz ponownego wjazdu.
 
 **Art. 73.**
 
@@ -1316,7 +1532,14 @@ Art. 466–506. (pominięte)
 
 **Art. 83.** Jeżeli dane cudzoziemca ubiegającego się o przedłużenie wizy krajowej znajdują się w Systemie Informacyjnym Schengen do celów odmowy wjazdu i pobytu i zachodzą przyczyny uzasadniające przedłużenie tej wizy, wojewoda lub Szef Urzędu w drugiej instancji, za pośrednictwem Komendanta Głównego Policji:
 
+- **1)** przeprowadza z właściwym organem państwa, które dokonało wpisu do Systemu Informacyjnego Schengen, konsultacje, o których mowa w art. 27 rozporządzenia nr 2018/1861;
+- **2)** informuje właściwy organ tego państwa obszaru Schengen o decyzji wydanej w sprawie przedłużenia wizy krajowej lub o zamiarze przedłużenia takiej wizy.
+
 **Art. 83a.** Jeżeli dane cudzoziemca zostały umieszczone w Systemie Informacyjnym Schengen do celów, o których mowa w art. 3 ust. 1 rozporządzenia nr 2018/1860, wojewoda lub Szef Urzędu w drugiej instancji, za pośrednictwem Komendanta Głównego Policji:
+
+- **1)** zwraca się do właściwego organu państwa obszaru Schengen, które umieściło dane, o przeprowadzenie konsultacji, o których mowa w art. 9 ust. 1 rozporządzenia nr 2018/1860, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **2)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o decyzji wydanej w sprawie przedłużenia wizy krajowej, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **3)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o zamiarze przedłużenia wizy krajowej lub o jej przedłużeniu, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której nie towarzyszy zakaz ponownego wjazdu.
 
 **Art. 84.**
 
@@ -1610,11 +1833,242 @@ Art. 466–506. (pominięte)
 
 **Art. 101.** Zezwolenie na pobyt czasowy cofa się cudzoziemcowi, gdy:
 
+- **1)** ustał cel pobytu, który był powodem udzielenia zezwolenia na pobyt czasowy, lub
+- **2)** przestał on spełniać wymogi udzielenia mu zezwolenia na pobyt czasowy ze względu na deklarowany cel pobytu, lub
+- **3)** wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 100 ust. 1 pkt 2 lub 4–8.
+
 **Art. 102.** Zezwolenie na pobyt czasowy wygasa z mocy prawa z dniem uzyskania przez cudzoziemca kolejnego zezwolenia na pobyt czasowy, zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego UE lub obywatelstwa polskiego.
 
 **Art. 103.** W postępowaniu w sprawie udzielenia cudzoziemcowi lub cofnięcia mu zezwolenia na pobyt czasowy przy wykonywaniu czynności mających na celu ustalenie okoliczności, o których mowa w art. 100 ust. 1 pkt 5, nie stosuje się przepisu art. 79 Kodeksu postępowania administracyjnego.
 
 **Art. 104.** [1. Zezwolenia na pobyt czasowy, z wyjątkiem zezwoleń, o których mowa w art. 139a ust. 1 i art. 139o ust. 1, udziela lub odmawia jego udzielenia wojewoda właściwy ze względu na miejsce pobytu cudzoziemca, w drodze decyzji.] <1. Zezwolenia na pobyt czasowy udziela lub odmawia jego udzielenia wojewoda właściwy ze względu na miejsce pobytu cudzoziemca, w drodze decyzji.> <1a. Zezwolenia na pobyt czasowy, o którym mowa w art. 139a ust. 1 i art. 139o ust. 1, udziela lub odmawia jego udzielenia wojewoda właściwy ze względu na siedzibę jednostki przyjmującej, w drodze decyzji. 1b. Zezwolenia na pobyt czasowy, o którym mowa w art. 159 ust. 1 lub art. 160 pkt 1, 3, 4 lub 6, cudzoziemcowi przebywającemu poza granicami Rzeczypospolitej Polskiej, udziela lub odmawia jego udzielenia wojewoda właściwy ze względu na miejsce pobytu członka rodziny rozdzielonej, w drodze decyzji.> 2. Zezwolenie na pobyt czasowy cofa wojewoda, który go udzielił, w drodze decyzji. 3. Jeżeli zezwolenia na pobyt czasowy udzielił Szef Urzędu w drugiej instancji, zezwolenie to cofa wojewoda, który orzekał w sprawie udzielenia tego zezwolenia w pierwszej instancji. [Art. 105. 1. Cudzoziemiec, z wyjątkami określonymi w art. 139l ust. 1 i art. 139t ust. 1, składa wniosek o udzielenie mu zezwolenia na pobyt czasowy osobiście, nie później niż w ostatnim dniu jego legalnego pobytu na terytorium Rzeczypospolitej Polskiej. 2. Jeżeli wniosek o udzielenie zezwolenia na pobyt czasowy nie został złożony przez cudzoziemca osobiście, wojewoda wzywa go do osobistego stawiennictwa w terminie nie krótszym niż 7 dni pod rygorem pozostawienia wniosku bez rozpoznania. 3. W przypadku cudzoziemca będącego:
+
+- **1)** osobą małoletnią – wniosek o udzielenie mu zezwolenia na pobyt czasowy składają rodzice lub ustanowieni przez sąd opiekunowie albo jedno z rodziców lub jeden z ustanowionych przez sąd opiekunów;
+- **2)** osobą ubezwłasnowolnioną całkowicie – wniosek o udzielenie mu zezwolenia na pobyt czasowy składa opiekun ustanowiony przez sąd;
+- **3)** osobą małoletnią bez opieki – wniosek o udzielenie mu zezwolenia na pobyt czasowy składa kurator.
+
+4. Przy składaniu wniosku o udzielenie zezwolenia na pobyt czasowy cudzoziemcowi będącemu osobą małoletnią, która do dnia złożenia wniosku ukończyła
+
+6. rok życia, jest wymagana jego obecność. Przepis ust. 2 stosuje się odpowiednio.
+
+5. Wymogu osobistego stawiennictwa nie stosuje się w przypadkach, o których mowa w art. 168 ust. 1 lub art. 168a ust. 1. W takich przypadkach przepisów art. 106 ust. 4 i 5 nie stosuje się.] <Art. 105. 1. Cudzoziemiec składa wniosek o udzielenie mu zezwolenia na pobyt czasowy nie później niż w ostatnim dniu jego legalnego pobytu na terytorium Rzeczypospolitej Polskiej.
+
+2. W przypadku cudzoziemca będącego:
+
+- **1)** osobą małoletnią – wniosek o udzielenie mu zezwolenia na pobyt czasowy składają rodzice lub opiekunowie albo jedno z rodziców lub jeden z opiekunów;
+- **2)** osobą ubezwłasnowolnioną całkowicie – wniosek o udzielenie mu zezwolenia na pobyt czasowy składa opiekun;
+- **3)** osobą małoletnią bez opieki – wniosek o udzielenie mu zezwolenia na pobyt czasowy składa kurator.> [Art. 106. 1. Wniosek o udzielenie zezwolenia na pobyt czasowy, z wyjątkiem zezwoleń, o których mowa w art. 139a ust. 1 i art. 139o ust. 1, cudzoziemiec składa na formularzu zawierającym:
+- **1)** dane cudzoziemca lub informacje, o których mowa w art. 13, w zakresie niezbędnym do wydania zezwolenia;
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** (uchylony)
+- **5)** (uchylony)
+- **6)** imię, nazwisko, datę urodzenia oraz informacje o płci, obywatelstwie i miejscu zamieszkania członków rodziny cudzoziemca zamieszkałych na terytorium Rzeczypospolitej Polskiej, z określeniem stopnia pokrewieństwa, a także informację o ubieganiu się przez nich o zezwolenie na pobyt czasowy oraz o tym, czy pozostają na utrzymaniu cudzoziemca;
+- **7)** informację o poprzednich pobytach oraz aktualnym pobycie cudzoziemca na terytorium Rzeczypospolitej Polskiej;
+- **8)** informację o podróżach i pobytach zagranicznych cudzoziemca w okresie ostatnich 5 lat;
+- **9)** (uchylony)
+- **10)** informację o środkach finansowych na pokrycie kosztów utrzymania cudzoziemca;
+- **11)** informację o posiadanym przez cudzoziemca ubezpieczeniu zdrowotnym;
+- **12)** informację o deklarowanym celu pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej;
+- **13)** informację o zatrzymaniu cudzoziemca, umieszczeniu go w strzeżonym ośrodku lub w areszcie dla cudzoziemców, zakazie opuszczania przez niego kraju, odbywaniu kary pozbawienia wolności lub jego tymczasowym aresztowaniu;
+- **14)** informację o zobowiązaniach cudzoziemca wynikających z orzeczeń sądowych, postanowień i decyzji administracyjnych, w tym o zobowiązaniach alimentacyjnych na terytorium Rzeczypospolitej Polskiej lub poza tym terytorium;
+- **15)** wzór podpisu cudzoziemca;
+- **16)** pisemne oświadczenie pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że dane zawarte we wniosku są prawdziwe.
+
+1a. Cudzoziemiec ubiegający się o udzielenie zezwolenia na pobyt czasowy i pracę, zezwolenia na pobyt czasowy w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji albo zezwolenia na pobyt czasowy w celu prowadzenia działalności gospodarczej, jeżeli celem jego pobytu jest wykonywanie pracy przez pełnienie funkcji w zarządzie spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, którą utworzył lub której udziały lub akcje objął lub nabył, lub prowadzenie spraw spółki komandytowej lub komandytowo-akcyjnej przez komplementariusza, lub działanie w charakterze prokurenta, składając wniosek o udzielenie zezwolenia na pobyt czasowy dołącza do niego wypełniony przez podmiot powierzający pracę cudzoziemcowi załącznik zawierający:
+
+- **1)** informacje dotyczące podmiotu powierzającego pracę cudzoziemcowi i pracodawcy użytkownika:
+    - **a)** nazwę lub imię i nazwisko,
+    - **b)** adres siedziby lub miejsce zamieszkania,
+    - **c)** podstawę prawną działalności, nazwę rejestru i numer wpisu w rejestrze, a w przypadku osób fizycznych nieprowadzących działalności gospodarczej – nazwę dokumentu tożsamości, serię i numer,
+    - **d)** numer PESEL,
+    - **e)** numer REGON;
+
+- **2)** informacje na temat pracy, która ma być powierzona cudzoziemcowi:
+    - **a)** stanowisko lub rodzaj pracy, aa) zawód, zgodny z klasyfikacją zawodów i specjalności na potrzeby rynku pracy,
+    - **b)** miejsce wykonywania pracy,
+    - **c)** podstawę prawną wykonywania pracy,
+    - **d)** wymiar czasu pracy,
+    - **e)** wysokość wynagrodzenia,
+    - **f)** zakres podstawowych obowiązków na stanowisku pracy,
+    - **g)** okres, na jaki podmiot powierzający pracę cudzoziemcowi lub pracodawca użytkownik chce powierzyć cudzoziemcowi wykonywanie pracy;
+
+- **3)** oświadczenie podmiotu powierzającego pracę cudzoziemcowi, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, w przedmiocie niekaralności za przestępstwa i wykroczenia, o których mowa w art. 117 pkt 1.
+
+1b. W przypadku podmiotu powierzającego pracę cudzoziemcowi będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, oświadczenie, o którym mowa w ust. 1a pkt 3, składa osoba działająca w imieniu i na rzecz tego podmiotu.
+
+1c. Cudzoziemiec ubiegający się o udzielenie zezwolenia na pobyt czasowy w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji lub zezwolenia na pobyt czasowy w celu mobilności długoterminowej posiadacza Niebieskiej Karty UE, składając wniosek o udzielenie zezwolenia na pobyt czasowy, dołącza do niego załącznik zawierający:
+
+- **1)** informacje dotyczące cudzoziemca:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** datę urodzenia,
+    - **c)** obywatelstwo;
+
+- **2)** informację o:
+    - **a)** posiadanych przez cudzoziemca wyższych kwalifikacjach zawodowych niezbędnych do wykonywania pracy w przypadku zamiaru wykonywania pracy w zawodzie niebędącym zawodem regulowanym w rozumieniu art. 5 pkt 4 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334 oraz z 2025 r. poz. 619),
+    - **b)** posiadanych przez cudzoziemca formalnych kwalifikacjach i spełnieniu innych warunków, które są wymagane, w przypadku zamiaru wykonywania pracy w zawodzie regulowanym w rozumieniu art. 5 pkt 4 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej,
+    - **c)** zamieszkiwaniu przez cudzoziemca w innym państwie członkowskim Unii Europejskiej co najmniej przez okres 12 miesięcy na podstawie wydanego przez to państwo dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, z adnotacją „Niebieska Karta UE”,
+    - **d)** zamieszkiwaniu przez cudzoziemca w innym państwie członkowskim Unii Europejskiej co najmniej przez okres 6 miesięcy na podstawie wydanego przez to państwo dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, z adnotacją „Niebieska Karta UE”, w związku z korzystaniem z mobilności długoterminowej posiadacza Niebieskiej Karty UE.
+
+1d. Cudzoziemiec ubiegający się o udzielenie zezwolenia na pobyt czasowy dla stażysty lub zezwolenia na pobyt czasowy dla wolontariusza, składając wniosek o udzielenie zezwolenia na pobyt czasowy, dołącza do niego załącznik zawierający następujące informacje dotyczące organizatora stażu albo jednostki organizacyjnej, na rzecz której cudzoziemiec ma wykonywać świadczenia jako wolontariusz:
+
+- **1)** nazwę;
+- **2)** adres siedziby;
+- **3)** podstawę prawną działalności, nazwę rejestru i numer wpisu w rejestrze;
+- **4)** numer REGON.
+
+1e. Cudzoziemiec ubiegający się o udzielenie zezwolenia na pobyt czasowy w celu prowadzenia badań naukowych lub zezwolenia na pobyt czasowy w celu mobilności długoterminowej naukowca, składając wniosek o udzielenie zezwolenia na pobyt czasowy, dołącza do niego załącznik zawierający:
+
+- **1)** informacje dotyczące jednostki naukowej, mającej siedzibę na terytorium Rzeczypospolitej Polskiej:
+    - **a)** nazwę,
+    - **b)** adres siedziby,
+    - **c)** podstawę prawną działalności, nazwę rejestru i numer wpisu w rejestrze,
+    - **d)** numer REGON;
+
+- **2)** informację, czy cudzoziemiec jest objęty programem unijnym lub programem wielostronnym obejmującym środki w zakresie mobilności lub porozumieniem między przynajmniej dwiema instytucjami szkolnictwa wyższego przewidującym mobilność wewnątrzunijną, oraz informacje dotyczące tego programu lub porozumienia.
+
+2. Składając wniosek o udzielenie zezwolenia na pobyt czasowy, cudzoziemiec przedstawia ważny dokument podróży i dołącza do wniosku:
+
+- **1)** aktualne fotografie;
+- **2)** dokumenty niezbędne do potwierdzenia danych zawartych we wniosku i okoliczności uzasadniających ubieganie się o udzielenie zezwolenia na pobyt czasowy.
+
+2a. Jeżeli do wniosku o udzielenie zezwolenia na pobyt czasowy nie zostały dołączone dokumenty, o których mowa w ust. 2, wojewoda wzywa cudzoziemca do ich przedłożenia w terminie nie krótszym niż 14 dni. Określając termin, wojewoda ocenia czas niezbędny do uzyskania przez cudzoziemca określonego dokumentu.
+
+2b. Wezwanie, o którym mowa w ust. 2a, może nastąpić jednocześnie z wezwaniem do osobistego stawiennictwa na podstawie art. 105 ust. 2, wezwaniem do złożenia odcisków linii papilarnych lub wezwaniem do uzupełnienia braków formalnych wniosku o udzielenie zezwolenia na pobyt czasowy na podstawie art. 64 § 2 Kodeksu postępowania administracyjnego. W tym przypadku termin wyznaczony przez wojewodę na podstawie ust. 2a nie może być krótszy od najdłuższego z terminów określonych w tych wezwaniach.
+
+3. W szczególnie uzasadnionym przypadku, gdy cudzoziemiec nie posiada ważnego dokumentu podróży i nie ma możliwości jego uzyskania, może przedstawić inny dokument potwierdzający tożsamość.
+
+4. Od cudzoziemca ubiegającego się o udzielenie zezwolenia na pobyt czasowy pobiera się odciski linii papilarnych.
+
+5. W przypadku gdy z przyczyn zależnych od wojewody nie jest możliwe pobranie odcisków linii papilarnych od cudzoziemca w dniu, w którym nastąpiło jego osobiste stawiennictwo, wojewoda wyznacza termin na ich złożenie, nie krótszy niż 7 dni.] <Art. 106. 1. Cudzoziemiec składa wniosek o udzielenie zezwolenia na pobyt czasowy na formularzu zawierającym:
+
+- **1)** dane cudzoziemca lub informacje, o których mowa w art. 13 pkt 1–9, 11–14, 17, 17a, 19, 20–23, 27 i 28;
+- **2)** informacje, o których mowa w art. 13 pkt 30, dotyczące członków rodziny cudzoziemca zamieszkałych na terytorium Rzeczypospolitej Polskiej, oraz informację o ubieganiu się przez nich o zezwolenie na pobyt czasowy;
+- **3)** informację o poprzednich pobytach oraz aktualnym pobycie cudzoziemca na terytorium Rzeczypospolitej Polskiej;
+- **4)** informację o podróżach i pobytach zagranicznych cudzoziemca w okresie ostatnich 5 lat;
+- **5)** informację o środkach finansowych na pokrycie kosztów utrzymania cudzoziemca;
+- **6)** informację o posiadanym przez cudzoziemca ubezpieczeniu zdrowotnym;
+- **7)** informację o deklarowanym celu pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej;
+- **8)** informację o zatrzymaniu cudzoziemca, umieszczeniu go w strzeżonym ośrodku lub w areszcie dla cudzoziemców, zakazie opuszczania przez niego kraju, odbywaniu kary pozbawienia wolności lub jego tymczasowym aresztowaniu;
+- **9)** informację o zobowiązaniach cudzoziemca wynikających z orzeczeń sądowych, postanowień i decyzji administracyjnych, w tym o zobowiązaniach alimentacyjnych, na terytorium Rzeczypospolitej Polskiej lub poza tym terytorium;
+- **10)** uzasadnienie;
+- **11)** oświadczenie o prawdziwości danych zawartych we wniosku.
+
+2. Cudzoziemiec ubiegający się o udzielenie zezwolenia na pobyt czasowy i pracę, zezwolenia na pobyt czasowy w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji, zezwolenia na pobyt czasowy w celu mobilności długoterminowej posiadacza Niebieskiej Karty UE albo zezwolenia na pobyt czasowy w celu prowadzenia działalności gospodarczej, jeżeli celem pobytu cudzoziemca jest wykonywanie pracy przez pełnienie funkcji w zarządzie spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, którą utworzył lub której udziały lub akcje objął lub nabył, lub prowadzenie spraw spółki komandytowej lub komandytowo-akcyjnej przez komplementariusza, lub działanie w charakterze prokurenta, dołącza do wniosku o udzielenie zezwolenia na pobyt czasowy wypełniony przez podmiot powierzający mu pracę załącznik zawierający:
+
+- **1)** dane dotyczące cudzoziemca, o których mowa w art. 13 pkt 1, 7 i 11;
+- **2)** informacje dotyczące podmiotu powierzającego pracę cudzoziemcowi i pracodawcy użytkownika, o których mowa w art. 13 pkt 18;
+- **3)** informacje na temat pracy, która ma być powierzona cudzoziemcowi:
+    - **a)** stanowisko lub rodzaj pracy,
+    - **b)** zawód zgodny z klasyfikacją zawodów i specjalności na potrzeby rynku pracy,
+    - **c)** miejsce wykonywania pracy,
+    - **d)** podstawę prawną wykonywania pracy,
+    - **e)** wymiar czasu pracy,
+    - **f)** wysokość wynagrodzenia,
+    - **g)** zakres podstawowych obowiązków na stanowisku pracy,
+    - **h)** okres, na jaki podmiot powierzający pracę cudzoziemcowi lub pracodawca użytkownik chce powierzyć cudzoziemcowi pracę,
+    - **i)** podklasę działalności według Polskiej Klasyfikacji Działalności (PKD), w ramach której praca ma być powierzona cudzoziemcowi;
+
+- **4)** oświadczenie podmiotu powierzającego pracę cudzoziemcowi w przedmiocie niekaralności za przestępstwa i wykroczenia, o których mowa w art. 117 pkt 1 – w przypadku ubiegania się o udzielenie zezwolenia na pobyt czasowy i pracę albo zezwolenia na pobyt czasowy w celu prowadzenia działalności gospodarczej;
+- **5)** oświadczenie podmiotu powierzającego pracę cudzoziemcowi w przedmiocie niekaralności za przestępstwa i wykroczenia, o których mowa w art. 132 pkt 3 lit. b – w przypadku ubiegania się o udzielenie zezwolenia na pobyt czasowy w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji;
+- **6)** oświadczenie o prawdziwości danych zawartych w załączniku.
+
+3. W przypadku podmiotu powierzającego pracę cudzoziemcowi będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej oświadczenia, o których mowa w ust. 2 pkt 4–6, składa osoba działająca w imieniu i na rzecz tego podmiotu.
+
+4. Cudzoziemiec ubiegający się o udzielenie zezwolenia na pobyt czasowy w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji lub zezwolenia na pobyt czasowy w celu mobilności długoterminowej posiadacza Niebieskiej Karty UE dołącza do wniosku o udzielenie zezwolenia na pobyt czasowy załącznik zawierający:
+
+- **1)** dane dotyczące cudzoziemca, o których mowa w art. 13 pkt 1, 7 i 11;
+- **2)** informację o: z 2023 r. poz. 334 oraz z 2025 r. poz. 619),
+    - **a)** posiadanych przez cudzoziemca wyższych kwalifikacjach zawodowych niezbędnych do wykonywania pracy w przypadku zamiaru wykonywania pracy w zawodzie niebędącym zawodem regulowanym,
+    - **b)** posiadanych formalnych kwalifikacjach i spełnieniu innych warunków, które są wymagane, w przypadku zamiaru wykonywania pracy w zawodzie regulowanym w rozumieniu art. 5 pkt 4 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U.
+    - **c)** zamieszkiwaniu przez cudzoziemca w innym państwie członkowskim Unii Europejskiej co najmniej przez okres 12 miesięcy na podstawie wydanego przez to państwo dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, z adnotacją „Niebieska Karta UE”,
+    - **d)** zamieszkiwaniu przez cudzoziemca w innym państwie członkowskim Unii Europejskiej co najmniej przez okres 6 miesięcy na podstawie wydanego przez to państwo dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, z adnotacją „Niebieska Karta UE” w związku z korzystaniem z mobilności długoterminowej posiadacza Niebieskiej Karty UE.
+
+5. Cudzoziemiec ubiegający się o udzielenie zezwolenia na pobyt czasowy dla stażysty lub zezwolenia na pobyt czasowy dla wolontariusza dołącza do wniosku o udzielenie zezwolenia na pobyt czasowy wypełniony przez organizatora stażu lub jednostkę organizacyjną, na rzecz której cudzoziemiec ma wykonywać świadczenia jako wolontariusz, załącznik zawierający:
+
+- **1)** dane dotyczące cudzoziemca, o których mowa w art. 13 pkt 1, 7 i 11;
+- **2)** informacje dotyczące organizatora stażu, o których mowa w art. 13 pkt 18a, albo jednostki organizacyjnej, na rzecz której cudzoziemiec ma wykonywać świadczenia jako wolontariusz, o których mowa w art. 13 pkt 18b.
+
+6. Cudzoziemiec ubiegający się o udzielenie zezwolenia na pobyt czasowy w celu prowadzenia badań naukowych lub zezwolenia na pobyt czasowy w celu mobilności długoterminowej naukowca dołącza do wniosku o udzielenie zezwolenia na pobyt czasowy załącznik zawierający:
+
+- **1)** dane dotyczące cudzoziemca, o których mowa w art. 13 pkt 1, 7 i 11;
+- **2)** informacje dotyczące jednostki naukowej mającej siedzibę na terytorium Rzeczypospolitej Polskiej, o których mowa w art. 13 pkt 18c;
+- **3)** informację, czy cudzoziemiec jest objęty programem unijnym lub programem wielostronnym obejmującym środki w zakresie mobilności lub porozumieniem między przynajmniej dwiema instytucjami szkolnictwa wyższego przewidującym mobilność wewnątrzunijną, oraz informacje dotyczące tego programu lub porozumienia.
+
+7. Cudzoziemiec ubiegający się o udzielenie zezwolenia na pobyt czasowy w celu kształcenia się na studiach dołącza do wniosku o udzielenie zezwolenia na pobyt czasowy wypełniony przez jednostkę prowadzącą studia załącznik zawierający:
+
+- **1)** dane dotyczące cudzoziemca, o których mowa w art. 13 pkt 1, 7 i 11;
+- **2)** informacje dotyczące jednostki prowadzącej studia, o których mowa w art. 13 pkt 18d;
+- **3)** datę rozpoczęcia przez cudzoziemca kształcenia na studiach;
+- **4)** datę zakończenia studiów, na jakie cudzoziemiec został przyjęty;
+- **5)** kierunek studiów, a w przypadku szkoły doktorskiej – dyscypliny naukowe albo artystyczne;
+- **6)** określenie poziomu studiów i informację o ich odpłatności;
+- **7)** informację, w jakim języku odbywają się studia, oraz o poziomie biegłości językowej wymaganym do ich odbycia;
+- **8)** informację, czy cudzoziemiec jest objęty programem unijnym lub programem wielostronnym obejmującym środki w zakresie mobilności lub porozumieniem między przynajmniej dwiema instytucjami szkolnictwa wyższego przewidującym mobilność wewnątrzunijną oraz nazwę programu lub porozumienia i nazwę oraz adres jednostek prowadzących studia, objętych tym porozumieniem;
+- **9)** informację dotyczącą dotychczasowej realizacji toku studiów i zaliczenia przez cudzoziemca wymaganych programem studiów zajęć lub grupy zajęć – jeżeli wniosek o udzielenie zezwolenia na pobyt czasowy dotyczy kontynuacji studiów.
+
+8. Oświadczenia, o których mowa w ust. 1 pkt 11 oraz ust. 2 pkt 6, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera w nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.> [Art. 106a. 1. Wniosek o udzielenie zezwolenia, o którym mowa w art. 139a ust. 1 lub art. 139o ust. 1, jednostka przyjmująca składa na formularzu zawierającym:
+
+- **1)** dane cudzoziemca lub informacje, o których mowa w art. 13, w zakresie niezbędnym do wydania zezwolenia;
+- **2)** imię, nazwisko, datę urodzenia oraz informacje o płci, miejscu zamieszkania i obywatelstwie członków rodziny cudzoziemca zamieszkałych na terytorium Rzeczypospolitej Polskiej lub zamierzających zamieszkiwać na tym terytorium, z określeniem stopnia pokrewieństwa, a także informację o tym, czy pozostają na utrzymaniu cudzoziemca;
+- **3)** informację o zamierzonym miejscu pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej;
+- **4)** informację o aktualnym miejscu pobytu cudzoziemca;
+- **5)** informację o poprzednich pobytach cudzoziemca na terytorium Rzeczypospolitej Polskiej oraz innych państw członkowskich Unii Europejskiej;
+- **6)** informację o posiadanym przez cudzoziemca ubezpieczeniu zdrowotnym;
+- **7)** informacje dotyczące jednostki przyjmującej:
+    - **a)** nazwę,
+    - **b)** adres siedziby,
+    - **c)** podstawę prawną działalności, nazwę rejestru i numer wpisu w rejestrze,
+    - **d)** numer REGON;
+
+- **8)** informacje dotyczące pracodawcy macierzystego:
+    - **a)** nazwę,
+    - **b)** adres siedziby,
+    - **c)** formę prawną działalności;
+
+- **9)** informację o powiązaniach między pracodawcą macierzystym a jednostką przyjmującą;
+- **10)** informacje na temat pracy, która ma być powierzona cudzoziemcowi:
+    - **a)** stanowisko,
+    - **b)** miejsce wykonywania pracy,
+    - **c)** podstawę prawną wykonywania pracy,
+    - **d)** wymiar czasu pracy,
+    - **e)** wysokość wynagrodzenia,
+    - **f)** zakres podstawowych obowiązków na stanowisku pracy,
+    - **g)** okres, w jakim cudzoziemiec będzie wykonywał pracę w jednostce przyjmującej;
+
+- **11)** informację o planowanym czasie trwania przeniesienia wewnątrz przedsiębiorstwa w poszczególnych państwach członkowskich Unii Europejskiej;
+- **12)** informację o posiadaniu dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, z adnotacją „ICT”, wydanego przez inne państwo członkowskie Unii Europejskiej;
+- **13)** informację o przeniesieniach wewnątrz przedsiębiorstwa na terytorium Unii Europejskiej w okresie ostatnich 3 lat;
+- **14)** informację o posiadanych przez cudzoziemca kwalifikacjach zawodowych i doświadczeniu, niezbędnych do wykonywania pracy w jednostce przyjmującej, oraz spełnianiu wymagań kwalifikacyjnych i innych warunków w przypadku pracy w zawodzie regulowanym lub – w przypadku pracy w charakterze pracownika odbywającego staż – informację o posiadanym dyplomie ukończenia studiów wyższych;
+- **15)** informację o dotychczasowym zatrudnieniu w ramach tego samego przedsiębiorstwa lub tej samej grupy przedsiębiorstw przed przeniesieniem wewnątrz przedsiębiorstwa;
+- **16)** oświadczenie jednostki przyjmującej dotyczące okoliczności, o których mowa w art. 139a ust. 1 pkt 1 lit. f lub art. 139o ust. 1 pkt 1 lit. d;
+- **17)** informacje o okolicznościach, o których mowa w art. 139e pkt 2 lit. c–e lub art. 139r ust. 1 pkt 3–5;
+- **18)** oświadczenie jednostki przyjmującej o okolicznościach, o których mowa w art. 139f ust. 1 pkt 4 lub art. 139s ust. 1 pkt 3, dotyczące pracodawcy macierzystego lub jednostki przyjmującej;
+- **19)** pisemne oświadczenie, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że dane zawarte we wniosku są prawdziwe.
+
+2. Jednostka przyjmująca, składając wniosek o udzielenie zezwolenia, o którym mowa w art. 139a ust. 1 lub art. 139o ust. 1, przedstawia kopię ważnego dokumentu podróży cudzoziemca i dołącza do wniosku:
+
+- **1)** aktualne fotografie cudzoziemca;
+- **2)** dokumenty niezbędne do potwierdzenia danych zawartych we wniosku i okoliczności uzasadniających ubieganie się o udzielenie zezwolenia, o którym mowa w art. 139a ust. 1 lub art. 139o ust. 1.
+
+3. Jeżeli do wniosku o udzielenie zezwolenia na pobyt czasowy, o którym mowa w art. 139a ust. 1 lub art. 139o ust. 1, nie zostały dołączone dokumenty, o których mowa w ust. 2, wojewoda wzywa jednostkę przyjmującą do ich przedłożenia w terminie nie krótszym niż 14 dni. Przepis art. 106 ust. 2a zdanie drugie stosuje się.
+
+4. Wezwanie, o którym mowa w ust. 3, może nastąpić jednocześnie z wezwaniem do uzupełnienia braków formalnych wniosku na podstawie art. 64 § 2 Kodeksu postępowania administracyjnego. W tym przypadku termin wyznaczony przez wojewodę na podstawie ust. 3 nie może być krótszy od terminu określonego do uzupełnienia braków formalnych wniosku.] <Art. 106a. 1. Cudzoziemiec ubiegający się o udzielenie zezwolenia na pobyt czasowy przedstawia ważny dokument podróży.
+
+2. W szczególnie uzasadnionym przypadku, gdy cudzoziemiec nie posiada ważnego dokumentu podróży i nie ma możliwości jego uzyskania, może przedstawić inny dokument potwierdzający tożsamość.> <Art. 106b. 1. Od cudzoziemca ubiegającego się o udzielenie zezwolenia na pobyt czasowy pobiera się odciski linii papilarnych i wzór podpisu.
+
+2. Nie pobiera się odcisków linii papilarnych od cudzoziemca ubiegającego się o udzielenie zezwolenia na pobyt czasowy:
+
+- **1)** który do dnia złożenia wniosku o udzielenie zezwolenia na pobyt czasowy nie ukończył 6. roku życia;
+- **2)** od którego pobranie odcisków linii papilarnych jest fizycznie niemożliwe;
+- **3)** który z powodu choroby lub niepełnosprawności, potwierdzonych zaświadczeniem lekarskim wystawionym nie wcześniej niż na 3 miesiące przed złożeniem wniosku przez właściwego lekarza specjalistę mającego prawo wykonywania zawodu lekarza w rozumieniu ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2024 r. poz. 1287 i 1897 oraz z 2025 r. poz. 619, 769 i 1301), nie może stawić się osobiście na wezwanie wojewody.
+
+3. Nie pobiera się wzoru podpisu od cudzoziemca ubiegającego się o udzielenie zezwolenia na pobyt czasowy, który:
+
+- **1)** do dnia złożenia wniosku o udzielenie zezwolenia na pobyt czasowy nie ukończył 13. roku życia;
+- **2)** z powodu choroby lub niepełnosprawności, potwierdzonych zaświadczeniem lekarskim wystawionym nie wcześniej niż na 3 miesiące przed złożeniem wniosku przez właściwego lekarza specjalistę mającego prawo wykonywania zawodu lekarza w rozumieniu ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, nie może złożyć podpisu samodzielnie.
+
+4. Cudzoziemiec składa wzór podpisu na formularzu według wzoru określonego w przepisach wydanych na podstawie art. 107 ust. 1 lub za pomocą udostępnionego przez wojewodę urządzenia umożliwiającego złożenie i odwzorowanie podpisu.
 
 **Art. 106c.**
 
@@ -1798,6 +2252,29 @@ Art. 466–506. (pominięte)
 
 **Art. 107.** [1. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** wzór formularza wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy, o którym mowa w art. 106 ust. 1;
+- **1a)** wzór załączników do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy, o których mowa w art. 106 ust. 1a i 1c–1e;
+- **1b)** wzór formularza wniosków o udzielenie cudzoziemcowi zezwoleń na pobyt czasowy, o których mowa w art. 139a ust. 1 oraz art. 139o ust. 1;
+- **2)** liczbę fotografii dołączanych do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy i szczegółowe wymogi techniczne dotyczące fotografii dołączanych do wniosku;
+- **3)** wzór stempla potwierdzającego złożenie wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy;
+- **4)** sposób pobierania odcisków linii papilarnych w celu wydania karty pobytu;
+- **5)** sposób utrwalania danych umieszczanych w karcie pobytu i przekazywania ich do spersonalizowania karty pobytu.] <1. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+- **1)** wzór formularza wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy, o którym mowa w art. 106 ust. 1;
+- **2)** wzory załączników do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy, o których mowa w art. 106 ust. 2 i 4–7;
+- **3)** wzór formularza wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy, o którym mowa w art. 106k ust. 1;
+- **4)** wzór formularza wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy, o którym mowa w art. 106l ust. 1;
+- **5)** wzór formularza zgody, o którym mowa w art. 106l ust. 3;
+- **6)** szczegółowe wymogi techniczne dotyczące fotografii dołączanej do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy;
+- **7)** szczegółowe wymogi dotyczące dołączania fotografii do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy składanego w sposób, o którym mowa w art. 106c ust. 1;
+- **8)** liczbę fotografii dołączanych do wniosków o udzielenie cudzoziemcowi zezwoleń na pobyt czasowy, o których mowa w art. 139a ust. 1 i art. 139o ust. 1, oraz zezwoleń, o których mowa w art. 159 ust. 1 lub art. 160 pkt 1, 3, 4 lub 6, cudzoziemcowi przebywającemu poza granicami Rzeczypospolitej Polskiej;
+- **9)** wymogi dotyczące dołączania dokumentów w postaci dokumentów elektronicznych lub odwzorowań cyfrowych dokumentów w postaci papierowej, w tym dokumentów niezbędnych do potwierdzenia danych zawartych we wniosku o udzielenie zezwolenia na pobyt czasowy i okoliczności uzasadniających ubieganie się o udzielenie tego zezwolenia, dołączanych do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy składanego w sposób, o którym mowa w art. 106c ust. 1;
+- **10)** sposób pobierania odcisków linii papilarnych w celu wydania karty pobytu;
+- **11)** sposób utrwalania danych umieszczanych w karcie pobytu i przekazywania ich do spersonalizowania karty pobytu;
+- **12)** wzór informacji o pobranych odciskach linii papilarnych cudzoziemca lub ich braku;
+- **13)** wzór formularza, na którym cudzoziemiec składa wzór podpisu.>
+
+2. W rozporządzeniu, o którym mowa w ust. 1, minister właściwy do spraw wewnętrznych uwzględni potrzebę zapewnienia sprawności postępowania w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt czasowy i możliwości skutecznej weryfikacji przesłanek udzielenia tego zezwolenia.
+
 **Art. 108.**
 
 1. Jeżeli termin na złożenie wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy został zachowany i wniosek nie zawiera braków formalnych lub braki formalne zostały uzupełnione w terminie: [1) wojewoda umieszcza w dokumencie podróży cudzoziemca odcisk stempla potwierdzającego złożenie wniosku o udzielenie zezwolenia na pobyt czasowy;] <1) wojewoda wydaje cudzoziemcowi zaświadczenie potwierdzające złożenie wniosku o udzielenie zezwolenia na pobyt czasowy;>
@@ -1855,6 +2332,10 @@ Art. 466–506. (pominięte)
 5. Przepisu ust. 1 nie stosuje się do cudzoziemca, który w dniu złożenia wniosku nie ukończył 13. roku życia.
 
 **Art. 109a.** Jeżeli dane cudzoziemca zostały umieszczone w Systemie Informacyjnym Schengen do celów, o których mowa w art. 3 ust. 1 rozporządzenia nr 2018/1860, wojewoda lub Szef Urzędu w drugiej instancji, za pośrednictwem Komendanta Głównego Policji:
+
+- **1)** zwraca się do właściwego organu państwa obszaru Schengen, które umieściło dane, o przeprowadzenie konsultacji, o których mowa w art. 9 ust. 1 rozporządzenia nr 2018/1860, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **2)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o decyzji wydanej w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt czasowy, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **3)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o zamiarze udzielenia zezwolenia na pobyt czasowy lub o jego udzieleniu, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której nie towarzyszy zakaz ponownego wjazdu.
 
 **Art. 109b.**
 
@@ -1953,9 +2434,43 @@ Art. 466–506. (pominięte)
 
 **Art. 116.** Poza przypadkami, o których mowa w art. 99, odmawia się wszczęcia postępowania w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt czasowy i pracę, gdy w dniu składania wniosku o udzielenie mu tego zezwolenia:
 
+- **1)** jest pracownikiem delegowanym do pracy na terytorium Rzeczypospolitej Polskiej na określony czas przez pracodawcę mającego siedzibę poza granicami Rzeczypospolitej Polskiej – przez cały okres delegowania lub
+- **2)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie zobowiązań określonych w umowach międzynarodowych dotyczących ułatwienia wjazdu i czasowego pobytu niektórych kategorii osób fizycznych zajmujących się wymianą handlową lub inwestycjami, lub
+- **3)** prowadzi działalność gospodarczą na terytorium Rzeczypospolitej Polskiej, lub
+- **4)** przebywa na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy w zakresie działalności określonych w przepisach wydanych na podstawie art. 45 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub
+- **5)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie wizy wydanej w celu, o którym mowa w art. 60 ust. 1 pkt 1–3, 7, 9–11, 14–16 lub 18, lub
+- **6)** przebywa na terytorium Rzeczypospolitej Polskiej w celu turystycznym lub w celu odwiedzin u rodziny lub przyjaciół, na podstawie wizy wydanej przez inne państwo obszaru Schengen, lub
+- **7)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie wizy długoterminowej, o której mowa w art. 18 Konwencji Wykonawczej Schengen, wydanej przez inne państwo obszaru Schengen, chyba że przebywając na podstawie tej wizy korzysta na terytorium Rzeczypospolitej Polskiej z mobilności, lub
+- **8)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie dokumentu pobytowego, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, wydanego przez inne państwo obszaru Schengen, chyba że przebywając na podstawie tego dokumentu korzysta na terytorium Rzeczypospolitej Polskiej z mobilności, lub
+- **9)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na wjazd, o którym mowa w art. 32 ust. 1.
+
 **Art. 117.** Poza przypadkami, o których mowa w art. 100 ust. 1, udzielenia zezwolenia na pobyt czasowy i pracę cudzoziemcowi odmawia się, gdy:
 
+- **1)** podmiot powierzający pracę cudzoziemcowi lub podmiot zarządzający nim lub kontrolujący go: o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej, lub (Dz. U. z 2005 r. poz. 160), lub
+    - **a)** został prawomocnie ukarany za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, i w ciągu 2 lat od ukarania został ponownie ukarany za podobne wykroczenie lub
+    - **b)** został prawomocnie ukarany za wykroczenia, o których mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub
+    - **c)** jest osobą fizyczną skazaną prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 218–221, art. 270, art. 271, art. 272, art. 273 lub art. 275 Kodeksu karnego, lub
+    - **d)** (uchylona)
+    - **e)** jest osobą fizyczną skazaną prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 9 lub art. 10 ustawy z dnia 15 czerwca 2012 r.
+    - **f)** został prawomocnie ukarany za wykroczenie, o którym mowa w art. 11 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej, lub
+    - **g)** jest osobą fizyczną prawomocnie skazaną za przestępstwo, o którym mowa w art. 189a Kodeksu karnego, lub skazaną w innym państwie za przestępstwo, o którym mowa w Protokole o zapobieganiu, zwalczaniu oraz karaniu za handel ludźmi, w szczególności kobietami i dziećmi, uzupełniającym Konwencję Narodów Zjednoczonych przeciwko międzynarodowej przestępczości zorganizowanej, przyjętym przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 15 listopada 2000 r.
+    - **h)** nie dopełnia obowiązku opłacania składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Emerytur Pomostowych oraz Fundusz Solidarnościowy albo nie dopełnia obowiązku opłacania składek na ubezpieczenie społeczne rolników, z wyjątkiem przypadków, gdy uzyskał przewidziane prawem odroczenie terminu płatności lub rozłożenie na raty zaległych płatności lub gdy wysokość nieopłaconej składki nie przekracza kwoty kosztów upomnienia w postępowaniu egzekucyjnym, lub
+    - **i)** nie dopełnia obowiązku zgłoszenia do ubezpieczenia społecznego pracowników lub innych osób objętych obowiązkowym ubezpieczeniem społecznym, lub
+    - **j)** zalega z uiszczeniem podatku dochodowego od osób fizycznych lub podatku dochodowego od osób prawnych, z wyjątkiem przypadków, gdy uzyskał przewidziane prawem zwolnienie, odroczenie, rozłożenie na raty zaległych płatności lub wstrzymanie w całości wykonania decyzji właściwego organu;
+
+- **2)** cudzoziemiec:
+    - **a)** nie posiada formalnych kwalifikacji lub nie spełnia innych warunków, które są wymagane, w przypadku zamiaru powierzenia mu wykonywania pracy w zawodzie regulowanym w rozumieniu art. 5 pkt 4 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, lub
+    - **b)** został skazany prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 270–275 Kodeksu karnego, popełnione w związku z postępowaniem w sprawie wydania zezwolenia na pracę lub udzielenia mu zezwolenia na pobyt czasowy i pracę;
+    - **c)** (uchylona)
+
+- **3)** w danym roku kalendarzowym został osiągnięty dotyczący tego cudzoziemca limit udzielonych zezwoleń na pobyt czasowy i pracę, określony w przepisach wydanych na podstawie art. 114a ust. 1.
+
 **Art. 117a.** Udzielenia zezwolenia na pobyt czasowy i pracę odmawia się, jeżeli:
+
+- **1)** podmiot powierzający pracę cudzoziemcowi lub pracodawca użytkownik nie prowadzi działalności uzasadniającej zatrudnienie danego cudzoziemca w danym okresie, w tym ma zawieszoną działalność gospodarczą, został wykreślony z właściwego rejestru lub jego działalność jest w okresie likwidacji lub
+- **2)** podmiot powierzający pracę cudzoziemcowi nie posiada środków finansowych ani źródeł dochodu niezbędnych do pokrycia zobowiązań wynikających z zatrudnienia cudzoziemca, lub
+- **3)** podmiot powierzający pracę cudzoziemcowi został ustanowiony lub działa głównie w celu ułatwiania cudzoziemcom wjazdu na terytorium Rzeczypospolitej Polskiej, lub
+- **4)** z okoliczności sprawy wynika, że cudzoziemiec byłby zatrudniony przez podmiot, który nie jest agencją pracy tymczasowej działającą na terytorium Rzeczypospolitej Polskiej zgodnie z obowiązującymi przepisami, a praca byłaby wykonywana na rzecz osoby trzeciej.
 
 **Art. 117b.** W postępowaniu o udzielenie zezwolenia na pobyt czasowy i pracę stosuje się odpowiednio przepis art. 27 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.
 
@@ -2031,6 +2546,24 @@ Art. 466–506. (pominięte)
 
 **Art. 120a.** [1. Wniosek o zmianę zezwolenia na pobyt czasowy i pracę cudzoziemiec składa na formularzu zawierającym:
 
+- **1)** dane cudzoziemca lub informacje, o których mowa w art. 13, w zakresie niezbędnym do zmiany tego zezwolenia;
+- **2)** imię, nazwisko, datę urodzenia oraz informacje o płci, obywatelstwach i miejscu zamieszkania członków rodziny cudzoziemca zamieszkałych na terytorium Rzeczypospolitej Polskiej, z określeniem stopnia pokrewieństwa, a także informację o ubieganiu się przez nich o zezwolenie na pobyt czasowy oraz o tym, czy pozostają na utrzymaniu cudzoziemca;
+- **3)** informację o posiadanym przez cudzoziemca ubezpieczeniu zdrowotnym;
+- **4)** pisemne oświadczenie, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że dane zawarte we wniosku są prawdziwe.] <1. Wniosek o zmianę zezwolenia na pobyt czasowy i pracę cudzoziemiec składa w postaci papierowej na formularzu zawierającym:
+- **1)** dane cudzoziemca lub informacje, o których mowa w art. 13 pkt 1–4, 7, 8, 11, 14, 19, 20, 21, 23, 27 i 28;
+- **2)** informacje, o których mowa w art. 13 pkt 30, dotyczące członków rodziny cudzoziemca zamieszkałych na terytorium Rzeczypospolitej Polskiej oraz informację o ubieganiu się przez nich o zezwolenie na pobyt czasowy;
+- **3)** wskazanie powodu wystąpienia o zmianę zezwolenia na pobyt czasowy i pracę;
+- **4)** informację o posiadanym przez cudzoziemca ubezpieczeniu zdrowotnym;
+- **5)** informacje o karalności i o prowadzonych przeciwko cudzoziemcowi postępowaniach karnych na terytorium Rzeczypospolitej Polskiej o przestępstwo, o którym mowa w art. 270–275 Kodeksu karnego, popełnione w związku z postępowaniem w sprawie wydania zezwolenia na pracę lub udzielenia zezwolenia na pobyt czasowy i pracę;
+- **6)** oświadczenie o prawdziwości danych zawartych we wniosku.>
+
+2. Cudzoziemiec ubiegający się o zmianę zezwolenia na pobyt czasowy i pracę, składając wniosek o zmianę zezwolenia na pobyt czasowy i pracę, dołącza do niego:
+
+- **1)** wypełniony przez podmiot powierzający pracę cudzoziemcowi załącznik, o którym mowa w [art. 106 ust. 1a] < art. 106 ust. 2>;
+- **2)** dokumenty niezbędne do potwierdzenia danych zawartych we wniosku i okoliczności uzasadniających zmianę zezwolenia na pobyt czasowy i pracę. <2a. Oświadczenie, o którym mowa w ust. 1 pkt 6, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera w nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.>
+
+3. W postępowaniu w sprawie zmiany zezwolenia na pobyt czasowy i pracę stosuje się odpowiednio przepisy [art. 106 ust. 2a i 2b] <art. 106f> oraz art. 112a ust. 1, 2, 4 i 5.
+
 **Art. 120b.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór formularza wniosku o zmianę zezwolenia na pobyt czasowy i pracę, o którym mowa w art. 120a ust. 1, uwzględniając potrzebę zapewnienia sprawności postępowania w sprawie zmiany zezwolenia na pobyt czasowy i pracę oraz możliwości skutecznej weryfikacji przesłanek zmiany tego zezwolenia.
 
 **Art. 120c.** W przypadku wydania przez wojewodę decyzji o odmowie zmiany zezwolenia na pobyt czasowy i pracę lub decyzji o umorzeniu postępowania w sprawie zmiany zezwolenia na pobyt czasowy i pracę, uiszczona należna opłata skarbowa za zmianę zezwolenia na pobyt czasowy i pracę nie podlega zwrotowi.
@@ -2046,6 +2579,9 @@ Art. 466–506. (pominięte)
 4. Podmiot powierzający pracę cudzoziemcowi wymieniony w zezwoleniu na pobyt czasowy i pracę zawiadamia pisemnie wojewodę, który udzielił tego zezwolenia, a w przypadku gdy zezwolenia na pobyt czasowy i pracę udzielił Szef Urzędu w drugiej instancji – wojewodę, który orzekał w sprawie udzielenia zezwolenia na pobyt czasowy i pracę w pierwszej instancji, o utracie pracy u niego przez cudzoziemca, któremu udzielono tego zezwolenia, w terminie 15 dni od tego zdarzenia.
 
 **Art. 122.** Poza przypadkami, o których mowa w art. 101, wojewoda cofa zezwolenie na pobyt czasowy i pracę, jeżeli:
+
+- **1)** stanowisko określone w zezwoleniu uległo zmianie lub wysokość wynagrodzenia została obniżona, a zezwolenie to nie zostało zmienione lub
+- **2)** podmiot powierzający pracę cudzoziemcowi nie prowadzi działalności gospodarczej, rolniczej lub statutowej, w szczególności zawiesił działalność, został wykreślony z właściwego rejestru lub jest w okresie likwidacji.
 
 **Art. 123.**
 
@@ -2078,6 +2614,16 @@ Art. 466–506. (pominięte)
 
 **Art. 127.** Zezwolenia na pobyt czasowy w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji udziela się, gdy celem pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej jest wykonywanie pracy w zawodzie wymagającym wysokich kwalifikacji oraz spełnione są łącznie następujące warunki:
 
+- **1)** cudzoziemiec:
+    - **a)** zawarł, na okres przynajmniej 6 miesięcy, umowę o pracę, umowę o pracę nakładczą, umowę cywilnoprawną, na podstawie której wykonuje pracę, świadczy usługi lub pozostaje w stosunku służbowym,
+    - **b)** posiada formalne kwalifikacje i spełnia inne warunki, które są wymagane, w przypadku zamiaru wykonywania pracy w zawodzie regulowanym w rozumieniu art. 5 pkt 4 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej,
+    - **c)** posiada wyższe kwalifikacje zawodowe niezbędne do wykonywania pracy w tym zawodzie, w przypadku zamiaru wykonywania pracy w zawodzie niebędącym zawodem regulowanym w rozumieniu art. 5 pkt 4 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej,
+    - **d)** posiada ubezpieczenie zdrowotne w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub potwierdzenie pokrycia przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej;
+    - **e)** (uchylona)
+
+- **2)** cudzoziemiec będzie wykonywał pracę w zawodzie, który nie znajduje się na liście zawodów, o której mowa w art. 31 ust. 3 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej;
+- **3)** roczne wynagrodzenie brutto wynikające z miesięcznego lub rocznego wynagrodzenia wskazane w umowie nie jest niższe niż równowartość 150 % kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym złożenie wniosku o udzielenie zezwolenia na pobyt czasowy w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718 i 769).
+
 **Art. 127a.**
 
 1. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw gospodarki może określić, w drodze rozporządzenia, limit udzielanych w danym roku kalendarzowym po raz pierwszy zezwoleń na pobyt czasowy w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji, który może obejmować poszczególne województwa, zawody, rodzaje umów, na podstawie których cudzoziemcowi może zostać powierzone wykonywanie pracy, lub rodzaje działalności podmiotu powierzającego pracę cudzoziemcowi według klasyfikacji określonej w przepisach wydanych na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej.
@@ -2090,11 +2636,35 @@ Art. 466–506. (pominięte)
 
 **Art. 129.** Przepisu art. 127 pkt 2 nie stosuje się, gdy:
 
+- **1)** cudzoziemiec, bezpośrednio przed złożeniem wniosku, posiadał zezwolenie na pracę lub zezwolenie na pobyt czasowy i pracę, lub zezwolenie, o którym mowa w art. 127, u tego samego podmiotu powierzającego mu pracę na tym samym stanowisku lub
+- **2)** cudzoziemiec był już legalnie zatrudniony na terytorium Rzeczypospolitej Polskiej przez okres 2 lat na podstawie zezwolenia, o którym mowa w art. 127, lub
+- **3)** cudzoziemiec spełnia warunki zwolnienia z obowiązku posiadania zezwolenia na pracę określone odrębnymi przepisami.
+
 **Art. 130.** Uzyskanie zezwolenia, o którym mowa w art. 127, nie zwalnia od spełnienia określonych odrębnymi przepisami wymogów dotyczących wykonywania zawodów regulowanych lub działalności.
 
 **Art. 131.** Poza przypadkami, o których mowa w art. 99 ust. 1 pkt 1–3 i 5–10 [oraz ust. 1a] , odmawia się wszczęcia postępowania w sprawie udzielenia cudzoziemcowi zezwolenia, o którym mowa w art. 127, gdy w dniu złożenia wniosku o udzielenie tego zezwolenia cudzoziemiec:
 
+- **1)** ubiega się o zezwolenie, o którym mowa w art. 151, lub posiada takie zezwolenie lub 1a) ubiega się o zezwolenie, o którym mowa w art. 151b, lub posiada takie zezwolenie, lub
+- **2)** jest pracownikiem przedsiębiorstwa prowadzącego działalność gospodarczą w innym państwie członkowskim Unii Europejskiej i jest czasowo oddelegowany przez pracodawcę w celu świadczenia usług na terytorium Rzeczypospolitej Polskiej, lub
+- **3)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie zobowiązań określonych w umowie międzynarodowej dotyczącej ułatwienia wjazdu i czasowego pobytu niektórych kategorii osób fizycznych zajmujących się wymianą handlową lub inwestycjami, lub
+- **4)** posiada zezwolenie, o którym mowa w art. 186 ust. 1 pkt 3 lit. a, lub
+- **5)** (uchylony)
+- **6)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie wizy wydanej w celu, o którym mowa w art. 60 ust. 1 pkt 1 lub 2, lub
+- **7)** przebywa na terytorium Rzeczypospolitej Polskiej w celu turystycznym lub w celu odwiedzin u rodziny lub przyjaciół, na podstawie wizy wydanej przez inne państwo obszaru Schengen, lub
+- **8)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie zgody na pobyt tolerowany lub zgody na pobyt ze względów humanitarnych albo w związku z udzieleniem mu azylu lub ochrony czasowej w Rzeczypospolitej Polskiej.
+
 **Art. 132.** Poza przypadkami, o których mowa w art. 100 ust. 1 pkt 1–5, 8 i 9, udzielenia zezwolenia, o którym mowa w art. 127, cudzoziemcowi odmawia się, gdy:
+
+- **1)** (uchylony)
+- **2)** w danym roku kalendarzowym został osiągnięty dotyczący tego cudzoziemca limit udzielonych zezwoleń, o których mowa w art. 127, określony w przepisach wydanych na podstawie art. 127a ust. 1;
+- **3)** podmiot powierzający pracę cudzoziemcowi:
+    - **a)** został ustanowiony lub działa głównie w celu ułatwiania cudzoziemcom wjazdu na terytorium Rzeczypospolitej Polskiej lub
+    - **b)** jest zarządzany lub kontrolowany przez osobę fizyczną prawomocnie: – ukaraną za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz.
+
+- **621)** , która w ciągu 2 lat od ukarania została ponownie ukarana za podobne wykroczenie, lub – ukaraną za wykroczenia, o których mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub – skazaną za przestępstwo, o którym mowa w art. 218–221 Kodeksu karnego, lub – skazaną za przestępstwo, o którym mowa w art. 9 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej, lub – ukaraną za wykroczenie, o którym mowa w art. 11 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej, lub
+    - **c)** nie dopełnia obowiązku opłacania składek na ubezpieczenia społeczne, lub
+    - **d)** zalega z uiszczeniem podatków, z wyjątkiem przypadków, gdy uzyskał przewidziane prawem zwolnienie, odroczenie, rozłożenie na raty zaległych płatności lub wstrzymanie w całości wykonania decyzji właściwego organu, lub
+    - **e)** nie prowadzi działalności gospodarczej albo została ogłoszona jego upadłość.
 
 **Art. 133.**
 
@@ -2152,6 +2722,14 @@ Art. 466–506. (pominięte)
 **Art. 137.** W decyzji o udzieleniu cudzoziemcowi zezwolenia, o którym mowa w art. 127, określa się okres ważności tego zezwolenia i wskazuje się, że cudzoziemiec może wykonywać pracę w zawodzie wymagającym wysokich kwalifikacji za wynagrodzeniem nie niższym niż wynagrodzenie ustalone na podstawie art. 127 pkt 3.
 
 **Art. 137a.** Zezwolenia na pobyt czasowy w celu mobilności długoterminowej posiadacza Niebieskiej Karty UE udziela się, gdy celem pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej jest wykonywanie pracy w zawodzie wymagającym wysokich kwalifikacji oraz są spełnione łącznie następujące warunki:
+
+- **1)** cudzoziemiec:
+    - **a)** zawarł na okres przynajmniej 6 miesięcy umowę o pracę, umowę o pracę nakładczą lub umowę cywilnoprawną, na podstawie której wykonuje pracę, świadczy usługi lub pozostaje w stosunku służbowym,
+    - **b)** posiada formalne kwalifikacje i spełnia inne warunki, które są wymagane, w przypadku zamiaru wykonywania pracy w zawodzie regulowanym w rozumieniu art. 5 pkt 4 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej,
+    - **c)** posiada dokument pobytowy, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, z adnotacją „Niebieska Karta UE”, wydany przez inne państwo członkowskie Unii Europejskiej, i bezpośrednio przed wjazdem na terytorium Rzeczypospolitej Polskiej przebywał w tym państwie członkowskim Unii Europejskiej na podstawie tego dokumentu przez okres co najmniej 12 miesięcy lub w przypadku korzystania w tym państwie z mobilności długoterminowej posiadacza Niebieskiej Karty UE – przez okres co najmniej 6 miesięcy,
+    - **d)** posiada ubezpieczenie zdrowotne w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub potwierdzenie pokrycia przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej;
+
+- **2)** roczne wynagrodzenie brutto wynikające z miesięcznego lub rocznego wynagrodzenia wskazane w umowie nie jest niższe niż równowartość 150 % kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym złożenie wniosku o udzielenie zezwolenia na pobyt czasowy w celu mobilności długoterminowej posiadacza Niebieskiej Karty UE ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 **Art. 137b.** Uzyskanie zezwolenia, o którym mowa w art. 137a, nie zwalnia od spełnienia określonych odrębnymi przepisami wymogów dotyczących wykonywania zawodów regulowanych lub działalności.
 
@@ -2232,6 +2810,16 @@ Art. 466–506. (pominięte)
 
 **Art. 139e.** Odmawia się wszczęcia postępowania w sprawie udzielenia cudzoziemcowi zezwolenia, o którym mowa w art. 139a ust. 1, gdy:
 
+- **1)** pierwszy lub najdłuższy pobyt cudzoziemca na terytorium Unii Europejskiej w ramach przeniesienia wewnątrz przedsiębiorstwa ma mieć miejsce na terytorium innego państwa członkowskiego Unii Europejskiej lub
+- **2)** cudzoziemiec w dniu złożenia wniosku o udzielenie tego zezwolenia:
+    - **a)** ubiega się o zezwolenie, o którym mowa w art. 144, lub posiada takie zezwolenie lub
+    - **b)** ubiega się o zezwolenie, o którym mowa w art. 151, lub posiada takie zezwolenie, lub ba) ubiega się o zezwolenie, o którym mowa w art. 151b, lub posiada takie zezwolenie, lub
+    - **c)** jest pracownikiem przedsiębiorstwa mającego siedzibę w innym państwie członkowskim Unii Europejskiej i jest czasowo oddelegowany przez pracodawcę w celu świadczenia usług na terytorium Rzeczypospolitej Polskiej, lub
+    - **d)** prowadzi działalność gospodarczą, lub
+    - **e)** jest zatrudniony przez agencję pracy tymczasowej lub inne przedsiębiorstwo zajmujące się udostępnianiem pracowników do pracy pod nadzorem i kierownictwem innego przedsiębiorstwa lub jest przenoszony wewnątrz przedsiębiorstwa przy udziale podmiotu prowadzącego działalność gospodarczą w zakresie świadczenia usług pośrednictwa pracy, lub
+    - **f)** przebywa na terytorium Rzeczypospolitej Polskiej, chyba że ubiega się o udzielenie kolejnego zezwolenia, o którym mowa w art. 139a ust. 1, i bezpośrednio przed złożeniem wniosku o jego udzielenie przebywał na terytorium Rzeczypospolitej Polskiej na podstawie tego zezwolenia, lub
+    - **g)** przebywa na terytorium innego państwa członkowskiego Unii Europejskiej.
+
 **Art. 139f.**
 
 1. Poza przypadkami, o których mowa w art. 100 ust. 1 pkt 1–4, udzielenia zezwolenia, o którym mowa w art. 139a ust. 1, odmawia się, gdy:
@@ -2261,7 +2849,20 @@ Art. 466–506. (pominięte)
 
 **Art. 139g.** Poza przypadkami, o których mowa w art. 101 pkt 1 lub 2, zezwolenie, o którym mowa w art. 139a ust. 1, cofa się, gdy:
 
+- **1)** okoliczności sprawy wskazują, że jest wykorzystywane w innym celu niż cel, w jakim zostało udzielone, lub
+- **2)** wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 100 ust. 1 pkt 2, 4 lub 8, lub
+- **3)** wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 139f ust. 1 pkt 1, 3 lub 4.
+
 **Art. 139h.** W decyzji o udzieleniu cudzoziemcowi zezwolenia, o którym mowa w art. 139a ust. 1, określa się okres ważności tego zezwolenia i wskazuje się:
+
+- **1)** jednostkę przyjmującą;
+- **2)** stanowisko, na jakim cudzoziemiec ma wykonywać pracę;
+- **3)** najniższe wynagrodzenie, jakie może otrzymywać cudzoziemiec na danym stanowisku, określone w umowie lub w dokumencie, o których mowa w art. 139a ust. 1 pkt 2;
+- **4)** wymiar czasu pracy cudzoziemca. [Art. 139i. 1. Zezwolenia, o którym mowa w art. 139a ust. 1, udziela lub odmawia jego udzielenia wojewoda właściwy ze względu na siedzibę jednostki przyjmującej, w drodze decyzji.
+
+2. (uchylony)
+
+3. (uchylony)]
 
 **Art. 139j.**
 
@@ -2671,6 +3272,9 @@ Art. 466–506. (pominięte)
 
 **Art. 145a.** Poza przypadkami, o których mowa w art. 99, odmawia się wszczęcia postępowania w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt czasowy w celu kształcenia się na studiach, gdy cudzoziemiec w dniu złożenia wniosku o udzielenie tego zezwolenia:
 
+- **1)** posiada zezwolenie, o którym mowa w art. 139a ust. 1, udzielone w celu wykonywania pracy na terytorium Rzeczypospolitej Polskiej w charakterze pracownika odbywającego staż lub
+- **2)** ubiega się o zezwolenie, o którym mowa w art. 127, lub posiada takie zezwolenie.
+
 **Art. 146.** (uchylony)
 
 **Art. 147.**
@@ -2820,6 +3424,9 @@ Art. 466–506. (pominięte)
 
 **Art. 150.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** minimalną wysokość środków finansowych, jakie musi posiadać cudzoziemiec podejmujący lub kontynuujący studia na terytorium Rzeczypospolitej Polskiej dla siebie i członków rodziny pozostających na jego utrzymaniu, na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, uwzględniając zróżnicowanie wysokości tych środków w zależności od państwa, z którego cudzoziemiec przybył;
+- **2)** dokumenty mogące potwierdzić możliwość uzyskania środków finansowych, o których mowa w pkt 1, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny, o których mowa w art. 144 ust. 1 pkt 2 lit. b, zgodnie z prawem, uwzględniając potrzebę skutecznej weryfikacji możliwości uzyskania tych środków.
+
 #### Rozdział 7 Zezwolenie na pobyt czasowy w celu prowadzenia badań naukowych.
 
 **Art. 151.**
@@ -2952,6 +3559,10 @@ Art. 466–506. (pominięte)
 
 **Art. 154a.** Poza przypadkami, o których mowa w art. 101 pkt 1 lub 2, zezwolenie na pobyt czasowy w celu prowadzenia badań naukowych albo zezwolenie na pobyt czasowy w celu mobilności długoterminowej naukowca cofa się, gdy:
 
+- **1)** okoliczności sprawy wskazują, że jest wykorzystywane w innym celu niż cel, w jakim zostało udzielone lub
+- **2)** wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 100 ust. 1 pkt 2, 4, 5 lub 8, lub
+- **3)** jednostka naukowa działa głównie w celu ułatwiania naukowcom niezgodnego z prawem wjazdu lub pobytu na terytorium Rzeczypospolitej Polskiej.
+
 **Art. 155.**
 
 1. Poza przypadkami, o których mowa w art. 99, odmawia się wszczęcia postępowania w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt czasowy w celu prowadzenia badań naukowych lub zezwolenia na pobyt czasowy w celu mobilności długoterminowej naukowca, gdy cudzoziemiec w dniu złożenia wniosku o udzielenie tego zezwolenia:
@@ -3055,6 +3666,10 @@ Art. 466–506. (pominięte)
 
 **Art. 157.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** minimalną wysokość środków finansowych, jakie musi posiadać cudzoziemiec prowadzący na terytorium Rzeczypospolitej Polskiej badania naukowe lub prace rozwojowe dla siebie i członków rodziny pozostających na jego utrzymaniu, na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, uwzględniając zróżnicowanie wysokości tych środków w zależności od państwa, z którego cudzoziemiec przybył;
+- **2)** minimalną wysokość środków finansowych, jakie musi posiadać cudzoziemiec korzystający na terytorium Rzeczypospolitej Polskiej z mobilności długoterminowej naukowca dla siebie i członków rodziny pozostających na jego utrzymaniu, na pokrycie kosztów podróży powrotnej do państwa członkowskiego Unii Europejskiej, które wydało cudzoziemcowi dokument pobytowy, o którym mowa w art. 1 ust. 2 lit. a rozporządzenia nr 1030/2002, lub wizę długoterminową, z adnotacją „naukowiec”, uwzględniając konieczność posiadania przez cudzoziemca tych środków w wysokości zapewniającej rzeczywistą możliwość odbycia podróży powrotnej do tego państwa członkowskiego Unii Europejskiej;
+- **3)** dokumenty mogące potwierdzić możliwość uzyskania środków finansowych, o których mowa w pkt 1 i 2, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny, o których mowa w art. 151 ust. 1 pkt 1 lit. b i art. 151b ust. 1 pkt 1 lit. d, zgodnie z prawem, uwzględniając potrzebę skutecznej weryfikacji możliwości uzyskania tych środków.
+
 #### Rozdział 7a Zezwolenie na pobyt czasowy dla stażysty
 
 **Art. 157a.**
@@ -3132,6 +3747,9 @@ Art. 466–506. (pominięte)
 
 **Art. 157c.** Poza przypadkami, o których mowa w art. 99, odmawia się wszczęcia postępowania w sprawie udzielenia cudzoziemcowi zezwolenia, o którym mowa w art. 157a ust. 1, gdy cudzoziemiec w dniu złożenia wniosku o udzielenie tego zezwolenia:
 
+- **1)** posiada zezwolenie, o którym mowa w art. 139a ust. 1, udzielone w celu wykonywania pracy w charakterze pracownika odbywającego staż lub
+- **2)** ubiega się o zezwolenie, o którym mowa w art. 127, lub posiada takie zezwolenie.
+
 **Art. 157d.**
 
 1. Poza przypadkami, o których mowa w art. 100 ust. 1 pkt 1–5, 8 i 9, cudzoziemcowi odmawia się udzielenia zezwolenia, o którym mowa w art. 157a ust. 1, gdy:
@@ -3150,7 +3768,14 @@ Art. 466–506. (pominięte)
 
 **Art. 157e.** Poza przypadkami, o których mowa w art. 101 pkt 1 lub 2, zezwolenie, o którym mowa w art. 157a ust. 1, cofa się, gdy:
 
+- **1)** okoliczności sprawy wskazują, że jest wykorzystywane w innym celu niż cel, w jakim zostało udzielone, lub
+- **2)** wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 100 ust. 1 pkt 2, 4, 5 lub 8, lub
+- **3)** wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 157d ust. 1 pkt 1–3.
+
 **Art. 157f.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+- **1)** minimalną wysokość środków finansowych, jakie musi posiadać cudzoziemiec odbywający staż na terytorium Rzeczypospolitej Polskiej dla siebie i członków rodziny pozostających na jego utrzymaniu, na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, uwzględniając zróżnicowanie wysokości tych środków w zależności od państwa, z którego cudzoziemiec przybył;
+- **2)** dokumenty mogące potwierdzić możliwość uzyskania środków finansowych, o których mowa w pkt 1, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny, o których mowa w art. 157a ust. 1 pkt 1 lit. d, zgodnie z prawem, uwzględniając potrzebę skutecznej weryfikacji możliwości uzyskania tych środków.
 
 #### Rozdział 7b Zezwolenie na pobyt czasowy dla wolontariusza
 
@@ -3222,6 +3847,9 @@ Art. 466–506. (pominięte)
 
 **Art. 157i.** Poza przypadkami, o których mowa w art. 99, odmawia się wszczęcia postępowania w sprawie udzielenia cudzoziemcowi zezwolenia, o którym mowa w art. 157g ust. 1, gdy cudzoziemiec w dniu złożenia wniosku o udzielenie tego zezwolenia:
 
+- **1)** posiada zezwolenie, o którym mowa w art. 139a ust. 1, udzielone w celu wykonywania pracy w charakterze pracownika odbywającego staż lub
+- **2)** ubiega się o zezwolenie, o którym mowa w art. 127, lub posiada takie zezwolenie.
+
 **Art. 157j.**
 
 1. Poza przypadkami, o których mowa w art. 100 ust. 1 pkt 1–5, 8 i 9, cudzoziemcowi odmawia się udzielenia zezwolenia, o którym mowa w art. 157g ust. 1, gdy:
@@ -3239,7 +3867,14 @@ Art. 466–506. (pominięte)
 
 **Art. 157k.** Poza przypadkami, o których mowa w art. 101 pkt 1 lub 2, zezwolenie, o którym mowa w art. 157g ust. 1, cofa się, gdy:
 
+- **1)** okoliczności sprawy wskazują, że jest wykorzystywane w innym celu niż cel, w jakim zostało udzielone, lub
+- **2)** wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 100 ust. 1 pkt 2, 4, 5 lub 8, lub
+- **3)** wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 157j ust. 1 pkt 1–3.
+
 **Art. 157l.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+- **1)** minimalną wysokość środków finansowych, jakie musi posiadać cudzoziemiec wykonujący świadczenia jako wolontariusz na terytorium Rzeczypospolitej Polskiej dla siebie i członków rodziny pozostających na jego utrzymaniu, na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, uwzględniając zróżnicowanie wysokości tych środków w zależności od państwa, z którego cudzoziemiec przybył;
+- **2)** dokumenty mogące potwierdzić możliwość uzyskania środków finansowych, o których mowa w pkt 1, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny, o których mowa w art. 157g ust. 1 pkt 1 lit. c, zgodnie z prawem, uwzględniając potrzebę skutecznej weryfikacji możliwości uzyskania tych środków.
 
 #### Rozdział 8 Zezwolenie na pobyt czasowy dla członków rodzin obywateli Rzeczypospolitej Polskiej oraz członków rodzin cudzoziemców. Mobilność krótkoterminowa i długoterminowa członków rodzin naukowców
 
@@ -3259,6 +3894,9 @@ Art. 466–506. (pominięte)
 3. Zezwolenia na pobyt czasowy w przypadkach, o których mowa w ust. 2, udziela się jednorazowo na okres nie dłuższy niż 3 lata.
 
 **Art. 158a.** Zezwolenia na pobyt czasowy dla członka rodziny obywatela Rzeczypospolitej Polskiej udziela się cudzoziemcowi także wówczas, gdy jest:
+
+- **1)** dzieckiem obywatela polskiego lub jego małżonka, które nie ukończyło 21. roku życia lub które pozostaje na utrzymaniu obywatela polskiego lub jego małżonka, lub
+- **2)** rodzicem obywatela polskiego lub jego małżonka pozostającym na utrzymaniu obywatela polskiego lub jego małżonka – jeżeli obywatel polski zamieszkuje na terytorium Rzeczypospolitej Polskiej i regularnie przemieszcza się z tego terytorium na terytorium innego państwa członkowskiego Unii Europejskiej w celu wykonywania pracy na terytorium tego państwa, a brak tego zezwolenia uniemożliwiałby korzystanie przez niego ze swobody przepływu pracowników.
 
 **Art. 159.**
 
@@ -3309,6 +3947,19 @@ Art. 466–506. (pominięte)
 - **2)** brata lub siostrę tego cudzoziemca, jeżeli ten brat lub ta siostra z powodu poważnej choroby są całkowicie i trwale zależni od pomocy swoich rodziców, o ile ci rodzice są członkami rodziny cudzoziemca, o których mowa w pkt 1, i udzielono im zezwoleń na pobyt czasowy w celu połączenia się z rodziną.
 
 **Art. 160.** Zezwolenia na pobyt czasowy można udzielić:
+
+- **1)** cudzoziemcowi będącemu członkiem rodziny zamieszkującego na terytorium Rzeczypospolitej Polskiej obywatela polskiego lub obywatela innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej innym niż ten, o którym mowa w art. 2 pkt 4 lit. a i b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin, który przebywa na terytorium Rzeczypospolitej Polskiej wspólnie z tym obywatelem – ze względu na:
+    - **a)** zależność finansową od niego lub pozostawanie z nim w gospodarstwie domowym, w kraju, z którego przybył cudzoziemiec, lub
+    - **b)** poważne względy zdrowotne wymagające osobistej opieki ze strony tego obywatela – jeżeli cudzoziemiec spełnia wymogi, o których mowa w art. 159 ust. 1 pkt 2;
+
+- **2)** małoletniemu dziecku cudzoziemca, który przebywa na terytorium Rzeczypospolitej Polskiej na podstawie wizy krajowej lub zezwolenia na pobyt czasowy, jeżeli dziecko to urodziło się w okresie ważności tej wizy krajowej lub zezwolenia na pobyt czasowy, a cudzoziemiec spełnia wymogi, o których mowa w art. 159 ust. 1 pkt 2 i 3;
+- **3)** cudzoziemcowi prowadzącemu życie rodzinne w rozumieniu Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. poz. 284, z późn. zm. ), z zamieszkującym na terytorium Rzeczypospolitej Polskiej obywatelem polskim lub obywatelem innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, z którym przebywa wspólnie na tym terytorium, jeżeli cudzoziemiec spełnia wymogi, o których mowa w art. 159 ust. 1 pkt 2;
+- **4)** cudzoziemcowi będącemu członkiem rodziny zamieszkującego na terytorium Rzeczypospolitej Polskiej obywatela Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b i d Umowy Wystąpienia, innym niż ten, o którym mowa w art. 2 pkt 4 lit. b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin, który przebywa na terytorium Rzeczypospolitej Polskiej wspólnie z tym obywatelem – ze względu na:
+    - **a)** zależność finansową od niego lub pozostawanie z nim w gospodarstwie domowym w kraju, z którego przybył cudzoziemiec, lub
+    - **b)** poważne względy zdrowotne wymagające osobistej opieki ze strony tego obywatela – jeżeli temu cudzoziemcowi udzielono zezwolenia, o którym mowa w pkt 1, przed zakończeniem okresu przejściowego, o którym mowa w art. 126 Umowy Wystąpienia, albo po jego zakończeniu w związku z wnioskiem złożonym przed zakończeniem tego okresu jako członkowi rodziny obywatela Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz gdy spełnia on wymogi, o których mowa w art. 159 ust. 1 pkt 2;
+
+- **5)** cudzoziemcowi prowadzącemu życie rodzinne w rozumieniu Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r., z zamieszkującym na terytorium Rzeczypospolitej Polskiej obywatelem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b i d Umowy Wystąpienia, z którym przebywa wspólnie na tym terytorium, jeżeli temu cudzoziemcowi udzielono zezwolenia, o którym mowa w pkt 3, przed zakończeniem okresu przejściowego, o którym mowa w art. 126 Umowy Wystąpienia, albo po jego zakończeniu w związku z wnioskiem złożonym przed zakończeniem tego okresu z uwagi na prowadzenie życia rodzinnego z obywatelem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz gdy spełnia on wymogi, o których mowa w art. 159 ust. 1 pkt 2;
+- **6)** cudzoziemcowi prowadzącemu życie rodzinne w rozumieniu Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r., z zamieszkującym na terytorium Rzeczypospolitej Polskiej obywatelem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b i d Umowy Wystąpienia, z którym przebywa wspólnie na tym terytorium, jeżeli cudzoziemiec spełnia warunki, o których mowa w art. 10 ust. 4 Umowy Wystąpienia, oraz wymogi, o których mowa w art. 159 ust. 1 pkt 2.
 
 **Art. 161.**
 
@@ -3397,6 +4048,9 @@ Art. 466–506. (pominięte)
 
 **Art. 166a.** Poza przypadkami, o których mowa w art. 99, odmawia się wszczęcia postępowania w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt czasowy, o którym mowa w art. 161b ust. 1, gdy cudzoziemiec będący członkiem rodziny naukowca w dniu złożenia wniosku o udzielenie tego zezwolenia:
 
+- **1)** posiada zezwolenie, o którym mowa w art. 139a ust. 1, udzielone w celu wykonywania pracy w charakterze pracownika odbywającego staż lub
+- **2)** ubiega się o zezwolenie, o którym mowa w art. 127, lub posiada takie zezwolenie.
+
 **Art. 166b.**
 
 1. Decyzję w sprawie udzielenia zezwolenia na pobyt czasowy w celu połączenia się z rodziną cudzoziemcowi będącemu członkiem rodziny cudzoziemca zamieszkującego na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt czasowy w celu mobilności długoterminowej posiadacza Niebieskiej Karty UE wydaje się w terminie 30 dni. Do ustalania biegu tego terminu stosuje się przepis art. 112a ust. 2.
@@ -3404,6 +4058,11 @@ Art. 466–506. (pominięte)
 2. Postępowanie odwoławcze w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt czasowy w celu połączenia się z rodziną kończy się w terminie 60 dni. Przepis art. 112a ust. 5 stosuje się.
 
 **Art. 167.** W postępowaniu w sprawie udzielenia lub cofnięcia cudzoziemcowi zezwolenia, o którym mowa w art. 159 ust. 1, uwzględnia się:
+
+- **1)** interes małoletniego dziecka;
+- **2)** charakter i trwałość więzi rodzinnych na terytorium Rzeczypospolitej Polskiej;
+- **3)** okres pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej;
+- **4)** istnienie więzi rodzinnych, kulturowych i społecznych z państwem pochodzenia.
 
 **Art. 168.**
 
@@ -3547,6 +4206,10 @@ Art. 466–506. (pominięte)
 
 **Art. 176.** Zezwolenia na pobyt czasowy dla ofiar handlu ludźmi udziela się cudzoziemcowi, jeżeli łącznie spełnia następujące warunki:
 
+- **1)** przebywa na terytorium Rzeczypospolitej Polskiej;
+- **2)** podjął współpracę z organem właściwym do prowadzenia postępowania w sprawie o przestępstwo, o którym mowa w art. 189a § 1 Kodeksu karnego, a w przypadku małoletniego cudzoziemca – otrzymał status pokrzywdzonego w postępowaniu w sprawie o przestępstwo, o którym mowa w art. 189a § 1 Kodeksu karnego;
+- **3)** zerwał kontakty z osobami podejrzanymi o popełnienie przestępstwa, o którym mowa w art. 189a § 1 Kodeksu karnego.
+
 **Art. 177.** Zezwolenia na pobyt czasowy dla ofiar handlu ludźmi udziela się na okres co najmniej 6 miesięcy.
 
 **Art. 178.** W postępowaniu w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt czasowy dla ofiar handlu ludźmi nie stosuje się przepisów art. 99 ust. 1 pkt 2 i 4–6 oraz art. 100 ust. 1 pkt 2, 3 i 6–9.
@@ -3554,6 +4217,9 @@ Art. 466–506. (pominięte)
 **Art. 179.** Organ prowadzący postępowanie w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt czasowy dla ofiar handlu ludźmi zapewnia cudzoziemcowi, który nie włada w wystarczającym stopniu językiem polskim, możliwość korzystania z pomocy tłumacza.
 
 **Art. 180.** Zezwolenie na pobyt czasowy dla ofiar handlu ludźmi cofa się cudzoziemcowi:
+
+- **1)** w przypadkach, o których mowa w art. 101 pkt 1 lub 2, w szczególności gdy cudzoziemiec zaprzestał współpracy z organem właściwym do prowadzenia postępowania w sprawie o przestępstwo, o którym mowa w art. 189a § 1 Kodeksu karnego, lub jeżeli postępowanie to zostało zakończone, lub
+- **2)** gdy wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 100 ust. 1 pkt 4 lub 5.
 
 #### Rozdział 10 Zezwolenie na pobyt czasowy ze względu na okoliczności wymagające krótkotrwałego pobytu
 
@@ -3651,6 +4317,18 @@ Art. 466–506. (pominięte)
 
 **Art. 187.** Zezwolenia na pobyt czasowy ze względu na inne okoliczności można udzielić cudzoziemcowi, jeżeli:
 
+- **1)** zamierza na terytorium Rzeczypospolitej Polskiej podjąć lub kontynuować:
+    - **a)** naukę lub
+    - **b)** szkolenie zawodowe, lub
+
+- **2)** (uchylony)
+- **3)** jest duchownym, członkiem zakonu lub osobą pełniącą funkcję religijną w kościele lub związku wyznaniowym, którego status jest uregulowany umową międzynarodową, przepisami obowiązującego na terytorium Rzeczypospolitej Polskiej prawa lub który działa na podstawie wpisu do rejestru kościołów i innych związków wyznaniowych, i jeżeli jego pobyt na terytorium Rzeczypospolitej Polskiej jest związany z pełnioną funkcją lub przygotowaniem do jej pełnienia, lub
+- **4)** jest pokrzywdzonym, o którym mowa w art. 7 ust. 2 pkt 2, lub
+- **5)** bezpośrednio przed złożeniem wniosku o udzielenie zezwolenia przebywał na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia, o którym mowa w pkt 4, do czasu otrzymania zaległego wynagrodzenia od podmiotu powierzającego pracę cudzoziemcowi albo podmiotu, o którym mowa w art. 6 lub art. 7 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej, lub
+- **6)** jego pobyt na terytorium Rzeczypospolitej Polskiej jest niezbędny z uwagi na konieczność poszanowania prawa do życia rodzinnego w rozumieniu Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r., a cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej nielegalnie, lub
+- **7)** jego wyjazd z terytorium Rzeczypospolitej Polskiej naruszałby prawa dziecka, określone w Konwencji o prawach dziecka, przyjętej przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 20 listopada 1989 r. (Dz. U. z 1991 r. poz. 526, z 2000 r. poz. 11 oraz z 2013 r. poz. 677), w stopniu istotnie zagrażającym jego rozwojowi psychofizycznemu, a cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej nielegalnie, lub
+- **8)** wykazał, że zachodzą okoliczności inne niż określone w pkt 1–7, rozdziałach 2– 10 i art. 186 ust. 1, uzasadniające jego pobyt na terytorium Rzeczypospolitej Polskiej.
+
 **Art. 188.**
 
 1. W przypadkach, o których mowa w art. 186 ust. 1 pkt 1, 3, 4 lub 8, zezwolenia na pobyt czasowy ze względu na inne okoliczności udziela się cudzoziemcowi, jeżeli posiada:
@@ -3692,7 +4370,16 @@ Art. 466–506. (pominięte)
 
 **Art. 190.** Zezwolenia na pobyt czasowy ze względu na inne okoliczności cudzoziemcowi udziela się na okres:
 
+- **1)** ważności zezwolenia na pobyt czasowy udzielonego cudzoziemcowi, któremu cudzoziemiec ubiegający się o zezwolenie na pobyt czasowy ze względu na inne okoliczności towarzyszy lub z którym zamierza się połączyć – w przypadku, o którym mowa w art. 186 ust. 1 pkt 4;
+- **2)** nauki lub szkolenia zawodowego, nie na dłużej jednak niż na okres 1 roku – w przypadku, o którym mowa w art. 187 pkt 1;
+- **3)** 9 miesięcy – jednorazowo, bezpośrednio po zakończeniu studiów lub prowadzenia badań naukowych lub prac rozwojowych, w przypadku, o którym mowa w art. 186 ust. 1 pkt 6 i 7;
+- **4)** 5 lat – jednorazowo, w przypadku, o którym mowa w art. 186 ust. 1 pkt 8;
+- **5)** 3 lat – jednorazowo, w przypadku, o którym mowa w art. 186 ust. 1 pkt 9.
+
 **Art. 190a.** Poza przypadkami, o których mowa w art. 99, odmawia się wszczęcia postępowania w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt czasowy ze względu na inne okoliczności, o których mowa w art. 186 ust. 1 pkt 6 lub 7, gdy cudzoziemiec w dniu złożenia wniosku o udzielenie tego zezwolenia:
+
+- **1)** posiada zezwolenie, o którym mowa w art. 139a ust. 1, udzielone w celu wykonywania pracy w charakterze pracownika odbywającego staż lub
+- **2)** ubiega się o zezwolenie, o którym mowa w art. 127, lub posiada takie zezwolenie.
 
 **Art. 191.**
 
@@ -3717,7 +4404,13 @@ Art. 466–506. (pominięte)
 
 **Art. 193.** Wojewoda informuje Szefa Urzędu o:
 
+- **1)** udzieleniu cudzoziemcowi, o którym mowa w art. 186 ust. 1 pkt 3, zezwolenia na pobyt czasowy ze względu na inne okoliczności, o cofnięciu mu takiego zezwolenia lub o odmowie udzielenia kolejnego takiego zezwolenia;
+- **2)** cofnięciu cudzoziemcowi, o którym mowa w art. 186 ust. 1 pkt 4, zezwolenia na pobyt czasowy udzielonego ze względu na inne okoliczności lub o odmowie udzielenia mu kolejnego takiego zezwolenia.
+
 **Art. 194.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+- **1)** minimalną wysokość środków finansowych, jakie będzie musiał posiadać cudzoziemiec, o którym mowa w art. 186 ust. 1 pkt 6 lub 7 lub art. 187 pkt 1 lit. a, dla siebie i członków rodziny pozostających na jego utrzymaniu, na pokrycie kosztów podróży powrotnej do państwa pochodzenia lub zamieszkania albo kosztów tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, uwzględniając zróżnicowanie wysokości tych środków w zależności od państwa, z którego cudzoziemiec przybył;
+- **2)** dokumenty mogące potwierdzić możliwość uzyskania środków finansowych, o których mowa w pkt 1, oraz środków finansowych na pokrycie kosztów utrzymania cudzoziemca oraz członków jego rodziny, o których mowa w art. 188 ust. 1a pkt 3 lub ust. 3 pkt 3, zgodnie z prawem, uwzględniając potrzebę skutecznej weryfikacji możliwości uzyskania tych środków.
 
 ### DZIAŁ VI Zezwolenie na pobyt stały i zezwolenie na pobyt rezydenta długoterminowego UE
 
@@ -3850,6 +4543,9 @@ Art. 466–506. (pominięte)
 4. Do ustalenia okoliczności, o których mowa w ust. 1 pkt 3, nie stosuje się przepisu art. 79 Kodeksu postępowania administracyjnego.
 
 **Art. 200.** Zezwolenie na pobyt stały wygasa z mocy prawa z dniem:
+
+- **1)** udzielenia cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE albo
+- **2)** nabycia przez cudzoziemca obywatelstwa polskiego.
 
 **Art. 201.**
 
@@ -4027,6 +4723,22 @@ Art. 466–506. (pominięte)
 
 **Art. 204.** [1. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** wzór formularza wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt stały;
+- **2)** liczbę fotografii dołączanych do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt stały i szczegółowe wymogi techniczne dotyczące tych fotografii;
+- **3)** wzór stempla potwierdzającego złożenie wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt stały;
+- **4)** sposób pobierania odcisków linii papilarnych w celu wydania karty pobytu;
+- **5)** sposób utrwalania danych umieszczanych w karcie pobytu i przekazywania ich do spersonalizowania karty pobytu.] <1. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+- **1)** wzór formularza wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt stały;
+- **2)** szczegółowe wymogi techniczne dotyczące fotografii dołączanej do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt stały;
+- **3)** szczegółowe wymogi dotyczące dołączania fotografii do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt stały składanego w sposób, o którym mowa w art. 203c ust. 1;
+- **4)** wymogi dotyczące dołączania dokumentów w postaci dokumentów elektronicznych lub odwzorowań cyfrowych dokumentów w postaci papierowej, w tym dokumentów niezbędnych do potwierdzenia danych zawartych we wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt stały i okoliczności uzasadniających ubieganie się o udzielenie tego zezwolenia, dołączanych do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt stały składanego w sposób, o którym mowa w art. 203c ust. 1;
+- **5)** sposób pobierania odcisków linii papilarnych w celu wydania karty pobytu;
+- **6)** sposób utrwalania danych umieszczanych w karcie pobytu i przekazywania ich do spersonalizowania karty pobytu;
+- **7)** wzór informacji o pobranych odciskach linii papilarnych cudzoziemca lub ich braku;
+- **8)** wzór formularza, na którym cudzoziemiec składa wzór podpisu.>
+
+2. W rozporządzeniu, o którym mowa w ust. 1, minister właściwy do spraw wewnętrznych uwzględni potrzebę zapewnienia sprawności postępowania w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt stały i możliwości skutecznej weryfikacji przesłanek udzielenia tego zezwolenia.
+
 **Art. 205.**
 
 1. W postępowaniu w sprawie udzielenia zezwolenia na pobyt stały cudzoziemcowi będącemu małżonkiem obywatela polskiego organ, który prowadzi to postępowanie, ustala, czy związek małżeński został zawarty lub istnieje w celu obejścia przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego.
@@ -4104,6 +4816,10 @@ Art. 466–506. (pominięte)
 4. Komendant Główny Policji przekazuje właściwemu organowi innego państwa obszaru Schengen otrzymaną od wojewody informację, o której mowa w ust. 2, w terminie 14 dni od dnia wystąpienia o przeprowadzenie konsultacji, o których mowa w art. 28 lub art. 29 rozporządzenia nr 2018/1861, a w przypadku przedłużenia tego terminu – w terminie przedłużonym.
 
 **Art. 208a.** Jeżeli dane cudzoziemca zostały umieszczone w Systemie Informacyjnym Schengen do celów, o których mowa w art. 3 ust. 1 rozporządzenia nr 2018/1860, wojewoda lub Szef Urzędu w drugiej instancji, za pośrednictwem Komendanta Głównego Policji:
+
+- **1)** zwraca się do właściwego organu państwa obszaru Schengen, które umieściło dane, o przeprowadzenie konsultacji, o których mowa w art. 9 ust. 1 rozporządzenia nr 2018/1860, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **2)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o decyzji wydanej w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt stały, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **3)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o zamiarze udzielenia zezwolenia na pobyt stały lub o jego udzieleniu, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której nie towarzyszy zakaz ponownego wjazdu.
 
 **Art. 208b.**
 
@@ -4453,6 +5169,51 @@ Art. 466–506. (pominięte)
 
 **Art. 222.** [1. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** wzór formularza wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE;
+- **2)** liczbę fotografii dołączanych do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE i szczegółowe wymogi techniczne dotyczące tych fotografii;
+- **3)** wzór stempla potwierdzającego złożenie wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE;
+- **4)** sposób pobierania odcisków linii papilarnych w celu wydania karty pobytu;
+- **5)** sposób utrwalania danych umieszczanych w karcie pobytu i przekazywania ich do spersonalizowania karty pobytu.] <1. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+- **1)** wzór formularza wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE;
+- **2)** szczegółowe wymogi techniczne dotyczące fotografii dołączanej do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE;
+- **3)** szczegółowe wymogi dotyczące dołączania fotografii do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE składanego w sposób, o którym mowa w art. 219c ust. 1;
+- **4)** wymogi dotyczące dołączania dokumentów w postaci dokumentów elektronicznych lub odwzorowań cyfrowych dokumentów w postaci papierowej, w tym dokumentów niezbędnych do potwierdzenia danych zawartych we wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego UE i okoliczności uzasadniających ubieganie się o udzielenie tego zezwolenia, dołączanych do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE składanego w sposób, o którym mowa w art. 219c ust. 1;
+- **5)** sposób pobierania odcisków linii papilarnych w celu wydania karty pobytu;
+- **6)** sposób utrwalania danych umieszczanych w karcie pobytu i przekazywania ich do spersonalizowania karty pobytu;
+- **7)** wzór informacji o pobranych odciskach linii papilarnych cudzoziemca lub ich braku;
+- **8)** wzór formularza, na którym cudzoziemiec składa wzór podpisu.>
+
+2. W rozporządzeniu, o którym mowa w ust. 1, minister właściwy do spraw wewnętrznych uwzględni potrzebę zapewnienia sprawności postępowania w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE i możliwości skutecznej weryfikacji przesłanek udzielenia tego zezwolenia. <Art. 222a. 1. Jeżeli wniosek o udzielenie cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE został złożony w czasie jego legalnego pobytu na terytorium Rzeczypospolitej Polskiej i nie zawiera braków formalnych lub braki formalne zostały uzupełnione w terminie:
+
+- **1)** wojewoda wydaje cudzoziemcowi zaświadczenie potwierdzające złożenie wniosku o udzielenie mu zezwolenia na pobyt rezydenta długoterminowego UE;
+- **2)** pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej uważa się za legalny od dnia złożenia wniosku do dnia, w którym decyzja w sprawie udzielenia mu zezwolenia na pobyt rezydenta długoterminowego UE stanie się ostateczna.
+
+2. Przepisu ust. 1 pkt 2 nie stosuje się w razie zawieszenia postępowania w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE na wniosek strony.
+
+3. Zaświadczenie, o którym mowa w ust. 1 pkt 1, zawiera:
+
+- **1)** imię (imiona), nazwisko, datę urodzenia oraz informację o płci i obywatelstwie cudzoziemca;
+- **2)** serię i numer dokumentu podróży cudzoziemca lub innego dokumentu potwierdzającego tożsamość w przypadku, o którym mowa w art. 219a ust. 3;
+- **3)** informację, że wniosek o udzielenie cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE został złożony, oraz datę złożenia wniosku;
+- **4)** treść ust. 1 pkt 2 i ust. 2;
+- **5)** nazwę organu wydającego zaświadczenie;
+- **6)** miejsce i datę wydania zaświadczenia;
+- **7)** numer zaświadczenia;
+- **8)** podpis pracownika działającego w imieniu wojewody z podaniem imienia i nazwiska;
+- **9)** kod QR.
+
+4. Zaświadczenie, o którym mowa w ust. 1 pkt 1, jest opatrywane kwalifikowaną pieczęcią elektroniczną Szefa Urzędu.
+
+5. Za wydanie zaświadczenia, o którym mowa w ust. 1 pkt 1, nie pobiera się opłaty skarbowej.
+
+6. Zaświadczenie, o którym mowa w ust. 1 pkt 1, doręcza się za pośrednictwem MOS.
+
+7. Zaświadczenie, o którym mowa w ust. 1 pkt 1, może zostać również przekazane cudzoziemcowi podczas jego osobistego stawiennictwa, o którym mowa w art. 219e ust. 1.
+
+8. Do zaświadczenia, o którym mowa w ust. 1 pkt 1, nie stosuje się przepisów działu VII Kodeksu postępowania administracyjnego.
+
+9. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w ust. 1 pkt 1, uwzględniając dane i informacje, o których mowa w ust. 3, oraz konieczność zapewnienia czytelności zaświadczenia.
+
 **Art. 222b.**
 
 1. Przed wydaniem decyzji o udzieleniu cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE wojewoda zasięga informacji, czy wjazd na terytorium Rzeczypospolitej Polskiej i pobyt na tym terytorium stanowią zagrożenie dla obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego.
@@ -4505,6 +5266,10 @@ Art. 466–506. (pominięte)
 4. Komendant Główny Policji przekazuje właściwemu organowi innego państwa obszaru Schengen otrzymaną od wojewody informację, o której mowa w ust. 2, w terminie 14 dni od dnia wystąpienia o przeprowadzenie konsultacji, o których mowa w art. 28 lub art. 29 rozporządzenia nr 2018/1861, a w przypadku przedłużenia tego terminu – w terminie przedłużonym.
 
 **Art. 222f.** Jeżeli dane cudzoziemca zostały umieszczone w Systemie Informacyjnym Schengen do celów, o których mowa w art. 3 ust. 1 rozporządzenia nr 2018/1860, wojewoda lub Szef Urzędu w drugiej instancji, za pośrednictwem Komendanta Głównego Policji:
+
+- **1)** zwraca się do właściwego organu państwa obszaru Schengen, które umieściło dane, o przeprowadzenie konsultacji, o których mowa w art. 9 ust. 1 rozporządzenia nr 2018/1860, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **2)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o decyzji wydanej w sprawie udzielenia cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego UE, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **3)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o zamiarze udzielenia zezwolenia na pobyt rezydenta długoterminowego UE lub o jego udzieleniu, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której nie towarzyszy zakaz ponownego wjazdu.
 
 **Art. 222g.**
 
@@ -4570,6 +5335,20 @@ Art. 466–506. (pominięte)
 
 **Art. 225d.** W MOS przetwarza się do celów:
 
+- **1)** identyfikacji i uwierzytelniania posiadacza indywidualnego konta w MOS – dane, o których mowa w art. 225b ust. 3, oraz dane użyte do uwierzytelnienia, o którym mowa w art. 225b ust. 2;
+- **2)** złożenia wniosku o udzielenie zezwolenia na pobyt czasowy:
+    - **a)** dane cudzoziemców lub informacje, o których mowa w art. 13 pkt 1–9, 11–14, 17, 17a, 19, 20–23, 27 i 28,
+    - **b)** dane i informacje, o których mowa w art. 106 ust. 1 pkt 2–11, ust. 2 i 4– 7;
+
+- **3)** złożenia wniosku o udzielenie zezwolenia na pobyt stały:
+    - **a)** dane cudzoziemców lub informacje, o których mowa w art. 13 pkt 1–9, 11–15, 17, 17a, 19, 20–23, 27 i 28,
+    - **b)** dane oraz informacje dotyczące małżonków cudzoziemców, o których mowa w art. 13 pkt 1–4, 7, 11 i 19,
+    - **c)** dane i informacje, o których mowa w art. 203 ust. 1 pkt 3–7;
+
+- **4)** złożenia wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego UE:
+    - **a)** dane cudzoziemców lub informacje, o których mowa w art. 13 pkt 1–9, 11–15, 17, 17a, 19, 20–23, 27 i 28,
+    - **b)** dane i informacje, o których mowa w art. 219 ust. 1 pkt 2–10.
+
 **Art. 225e.**
 
 1. Szef Urzędu prowadzi Bazę Wstępną MOS w systemie teleinformatycznym, o którym mowa w art. 449 ust. 1.
@@ -4597,6 +5376,25 @@ Art. 466–506. (pominięte)
 
 **Art. 225f.** W Bazie Wstępnej MOS przetwarza się w przypadku:
 
+- **1)** złożenia wniosku o udzielenie zezwolenia na pobyt czasowy:
+    - **a)** dane cudzoziemców lub informacje, o których mowa w art. 13 pkt 1–9, 11–14, 17, 17a, 19–23, 27 i 28,
+    - **b)** dane i informacje, o których mowa w art. 106 ust. 1 pkt 2–11, ust. 2 i 4– 7,
+    - **c)** dane i informacje wynikające z dokumentów, o których mowa w art. 106d ust. 2,
+    - **d)** metadane podpisów zaufanych, podpisów osobistych lub kwalifikowanych podpisów elektronicznych użytych do podpisania wniosku o udzielenie zezwolenia oraz do podpisania załączników, o których mowa w art. 106 ust. 2 i 4–7;
+
+- **2)** złożenia wniosku o udzielenie zezwolenia na pobyt stały:
+    - **a)** dane cudzoziemców lub informacje, o których mowa w art. 13 pkt 1–9, 11–15, 17, 17a, 19, 20–23, 27 i 28,
+    - **b)** dane oraz informacje dotyczące małżonków cudzoziemców, o których mowa w art. 13 pkt 1–4, 7, 11 i 19,
+    - **c)** dane i informacje, o których mowa w art. 203 ust. 1 pkt 3–7,
+    - **d)** dane i informacje wynikające z dokumentów, o których mowa w art. 203d ust. 2,
+    - **e)** metadane podpisów zaufanych, podpisów osobistych lub kwalifikowanych podpisów elektronicznych użytych do podpisania wniosku o udzielenie zezwolenia;
+
+- **3)** złożenia wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego UE:
+    - **a)** dane cudzoziemców lub informacje, o których mowa w art. 13 pkt 1–9, 11–15, 17, 17a, 19, 20–23, 27 i 28,
+    - **b)** dane i informacje, o których mowa w art. 219 ust. 1 pkt 2–10,
+    - **c)** dane i informacje wynikające z dokumentów, o których mowa w art. 219d ust. 2,
+    - **d)** metadane podpisów zaufanych, podpisów osobistych lub kwalifikowanych podpisów elektronicznych użytych do podpisania wniosku o udzielenie zezwolenia.
+
 **Art. 225g.**
 
 1. Dane i informacje, o których mowa w art. 225d pkt 1, przechowuje się w MOS przez okres 12 lat od dnia przeprowadzenia przez posiadacza indywidualnego konta w MOS ostatniej operacji teleinformatycznej w MOS. Po upływie tego okresu indywidualne konto w MOS jest usuwane automatycznie.
@@ -4612,13 +5410,28 @@ Art. 466–506. (pominięte)
 
 **Art. 225i.** Dane osobowe przetwarzane w MOS i Bazie Wstępnej MOS podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu, polegającym co najmniej na:
 
+- **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych – w przypadku MOS albo współadministratora danych – w przypadku Bazy Wstępnej MOS;
+- **2)** pisemnym zobowiązaniu się osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.>
+
 ### DZIAŁ VII Dokumenty wydawane cudzoziemcom
 
 **Art. 226.** Cudzoziemcowi mogą być wydane następujące dokumenty:
 
+- **1)** karta pobytu;
+- **2)** polski dokument podróży dla cudzoziemca;
+- **3)** polski dokument tożsamości cudzoziemca;
+- **4)** tymczasowy polski dokument podróży dla cudzoziemca;
+- **5)** dokument potwierdzający posiadanie zgody na pobyt tolerowany o nazwie „zgoda na pobyt tolerowany”;
+- **6)** europejski dokument podróży do celów powrotu nielegalnie przebywających obywateli państw trzecich, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/1953 z dnia 26 października 2016 r. w sprawie ustanowienia europejskiego dokumentu podróży do celów powrotu nielegalnie przebywających obywateli państw trzecich oraz uchylającym zalecenie Rady z dnia 30 listopada 1994 r. (Dz. Urz. UE L 311 z 17.11.2016, str. 13), zwany dalej „europejskim dokumentem podróży do celów powrotu”.
+
 **Art. 227.** W przypadku gdy którykolwiek z dokumentów, o których mowa w art. 226 pkt 1–5, został wydany osobie nieuprawnionej, organ wydający ten dokument stwierdza, w drodze decyzji, jego nieważność.
 
 **Art. 228.** W dokumentach, o których mowa w art. 226 pkt 1–5, nie umieszcza się podpisu ich posiadacza, gdy są one wydawane:
+
+- **1)** osobie małoletniej, która nie ukończyła 13. roku życia do dnia:
+    - **a)** złożenia wniosku o wydanie lub wymianę dokumentu, o którym mowa w art. 226, lub
+    - **b)** złożenia wniosku o udzielenie zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE – w przypadku wydawania pierwszej karty pobytu, lub
+    - **c)** wydania z urzędu polskiego dokumentu tożsamości cudzoziemca lub tymczasowego polskiego dokumentu podróży dla cudzoziemca, lub [2) osobie, która z powodu swojej niepełnosprawności nie może złożyć podpisu samodzielnie.] <2) osobie, która z powodu choroby lub niepełnosprawności potwierdzonych zaświadczeniem lekarskim wystawionym nie wcześniej niż na 3 miesiące przed złożeniem wniosku o wydanie lub wymianę dokumentu, o którym mowa w art. 226 pkt 1–5, przez właściwego lekarza specjalistę mającego prawo wykonywania zawodu lekarza w rozumieniu ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty nie może złożyć podpisu samodzielnie.>
 
 **Art. 229.**
 
@@ -4747,7 +5560,20 @@ Art. 466–506. (pominięte)
 
 **Art. 240.** Kartę pobytu wydaje się cudzoziemcowi, któremu udzielono:
 
+- **1)** zezwolenia na pobyt czasowy;
+- **2)** zezwolenia na pobyt stały;
+- **3)** zezwolenia na pobyt rezydenta długoterminowego UE;
+- **4)** zgody na pobyt ze względów humanitarnych.
+
 **Art. 241.** Kartę pobytu wymienia się w przypadku:
+
+- **1)** zmiany danych umieszczonych w dotychczasowej karcie pobytu;
+- **2)** zmiany wizerunku twarzy posiadacza karty pobytu w stosunku do wizerunku twarzy umieszczonego w tej karcie w stopniu utrudniającym lub uniemożliwiającym identyfikację posiadacza karty;
+- **3)** jej utraty;
+- **4)** jej uszkodzenia;
+- **5)** przejęcia przez Rzeczpospolitą Polską odpowiedzialności za ochronę międzynarodową posiadacza karty pobytu wydanej w związku z udzieleniem zezwolenia na pobyt rezydenta długoterminowego UE z adnotacją, o której mowa w art. 244 ust. 1 pkt 18;
+- **6)** przejęcia przez inne państwo członkowskie Unii Europejskiej odpowiedzialności za ochronę międzynarodową posiadacza karty pobytu wydanej w związku z udzieleniem zezwolenia na pobyt rezydenta długoterminowego UE;
+- **7)** przejęcia przez Rzeczpospolitą Polską odpowiedzialności za ochronę międzynarodową posiadacza karty pobytu wydanej w związku z udzieleniem zezwolenia, o którym mowa w art. 127 lub art. 137a, z adnotacją, o której mowa w art. 244 ust. 1 pkt 10 lit. a.
 
 **Art. 242.** Karta pobytu w okresie swojej ważności potwierdza tożsamość cudzoziemca podczas jego pobytu na terytorium Rzeczypospolitej Polskiej oraz uprawnia go, wraz z dokumentem podróży, do wielokrotnego przekraczania granicy bez konieczności uzyskania wizy.
 
@@ -4847,6 +5673,16 @@ Art. 466–506. (pominięte)
 
 **Art. 248.** [1. Cudzoziemiec odbiera kartę pobytu osobiście.] <1. Cudzoziemiec odbiera kartę pobytu osobiście, chyba że w stosunku do tego cudzoziemca odstąpiono od wezwania do osobistego stawiennictwa na podstawie art. 106h ust. 1, art. 203h ust. 1 lub art. 219h ust. 1.> [2. W przypadku gdy karta pobytu została wydana cudzoziemcowi, który nie ukończył 13. roku życia do dnia jej odbioru, odbiera tę kartę jego przedstawiciel ustawowy lub kurator.] <2. W przypadku gdy karta pobytu została wydana cudzoziemcowi będącemu osobą małoletnią, która nie ukończyła 13. roku życia do dnia jej odbioru, albo osobą ubezwłasnowolnioną całkowicie, odbioru karty pobytu dokonuje odpowiednio rodzic, opiekun albo kurator, po okazaniu ważnego dokumentu potwierdzającego jego tożsamość.> <2a. Odbiór karty pobytu wydanej cudzoziemcowi będącemu:
 
+- **1)** osobą małoletnią, która ukończyła 6. rok życia do dnia złożenia wniosku o:
+    - **a)** wydanie lub wymianę karty pobytu,
+    - **b)** udzielenie zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE – w przypadku wydawania z urzędu pierwszej karty pobytu,
+
+- **2)** osobą ubezwłasnowolnioną całkowicie – wymaga obecności tej osoby.>
+
+3. Cudzoziemcowi odbierającemu kartę pobytu udostępnia się czytnik elektroniczny w celu sprawdzenia, czy jego dane osobowe umieszczone w karcie są zgodne ze stanem faktycznym. <4. Cudzoziemiec, odbierając kartę pobytu, okazuje ważny dokument podróży.
+
+5. W szczególnie uzasadnionym przypadku, gdy cudzoziemiec nie posiada ważnego dokumentu podróży ani nie ma możliwości jego uzyskania, może okazać inny dokument potwierdzający tożsamość.>
+
 **Art. 248a.**
 
 - **12)** Organ, który wydał lub wymienił kartę pobytu, w terminie 5 dni roboczych od wydania lub wymiany kolejnej karty pobytu usuwa dane tego cudzoziemca zarejestrowane w EES, zgodnie z art. 35 ust. 6 rozporządzenia nr 2017/2226.
@@ -4875,9 +5711,38 @@ Art. 466–506. (pominięte)
 
 **Art. 250.** Kartę pobytu unieważnia się w przypadku:
 
+- **1)** jej utraty albo uszkodzenia – z dniem zgłoszenia utraty albo uszkodzenia do właściwego organu;
+- **2)** jej wymiany z powodu zmiany:
+    - **a)** wizerunku twarzy posiadacza karty w stosunku do wizerunku twarzy umieszczonego w tej karcie w stopniu utrudniającym lub uniemożliwiającym identyfikację posiadacza karty,
+    - **b)** danych w niej umieszczonych – z dniem odbioru nowej karty;
+
+- **3)** nabycia przez cudzoziemca obywatelstwa polskiego – z dniem upływu terminu zwrotu karty;
+- **4)** zgonu posiadacza karty pobytu – z dniem uzyskania informacji przez organ o zgonie cudzoziemca;
+- **5)** gdy cudzoziemiec nie zwróci jej, gdy wydano mu decyzję, o której mowa w art. 249 ust. 1 pkt 2–8 – z dniem, w którym decyzja ta stała się ostateczna albo wygasła.
+
 **Art. 251.** Kartę pobytu unieważnia:
 
+- **1)** organ, który tę kartę wydał, w przypadku:
+    - **a)** nabycia przez posiadacza karty pobytu obywatelstwa polskiego albo jego zgonu,
+    - **b)** gdy decyzja o cofnięciu zezwolenia na pobyt czasowy, zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego UE, zgody na pobyt ze względów humanitarnych, decyzja o zobowiązaniu cudzoziemca do powrotu lub decyzja o stwierdzeniu nieważności karty pobytu stała się ostateczna,
+    - **c)** przekazania cudzej karty pobytu przez osobę, która ją znalazła, chyba że karta ta została już unieważniona,
+    - **d)** zwrócenia przez cudzoziemca odzyskanej karty pobytu w przypadku, o którym mowa w art. 233 ust. 2, chyba że karta ta została już unieważniona,
+    - **e)** wygaśnięcia decyzji o udzieleniu zezwolenia na pobyt czasowy w związku z uzyskaniem przez cudzoziemca zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE,
+    - **f)** wygaśnięcia decyzji o udzieleniu zezwolenia na pobyt stały w związku z uzyskaniem przez cudzoziemca zezwolenia na pobyt rezydenta długoterminowego UE,
+    - **g)** wygaśnięcia decyzji o udzieleniu zgody na pobyt ze względów humanitarnych w związku z uzyskaniem przez cudzoziemca statusu uchodźcy lub ochrony uzupełniającej, lub zezwolenia na pobyt stały,
+    - **h)** wygaśnięcia decyzji o udzieleniu zgody na pobyt ze względów humanitarnych w związku z zawiadomieniem o zrzeczeniu się prawa do korzystania z tej zgody lub powrotem do kraju pochodzenia;
+
+- **2)** organ, który wymienia kartę pobytu, w przypadku:
+    - **a)** zgłoszenia do właściwego organu utraty lub uszkodzenia karty pobytu,
+    - **b)** odbioru nowej karty pobytu w przypadkach, o których mowa w art. 241 pkt 1 i 2.
+
 **Art. 252.** Polski dokument podróży dla cudzoziemca wydaje się cudzoziemcowi, który utracił swój dokument podróży albo którego dokument podróży uległ zniszczeniu bądź utracił ważność, a nie jest możliwe otrzymanie przez cudzoziemca nowego dokumentu podróży, gdy cudzoziemcowi udzielono:
+
+- **1)** zezwolenia na pobyt stały;
+- **2)** zezwolenia na pobyt rezydenta długoterminowego UE;
+- **2a)** zezwolenia na pobyt czasowy, o którym mowa w art. 186 ust. 1 pkt 9;
+- **3)** ochrony uzupełniającej;
+- **4)** zgody na pobyt ze względów humanitarnych.
 
 **Art. 252a.**
 
@@ -4929,6 +5794,11 @@ Art. 466–506. (pominięte)
 2. Polski dokument podróży dla cudzoziemca zawiera podpis posiadacza i może zawierać zakodowany zapis danych, o których mowa w ust. 1 pkt 1–4 lub 7.
 
 **Art. 256.** Wymiana polskiego dokumentu podróży dla cudzoziemca następuje w przypadku:
+
+- **1)** zmiany danych umieszczonych w dotychczasowym dokumencie;
+- **2)** zmiany wizerunku twarzy posiadacza dokumentu w stosunku do wizerunku twarzy umieszczonego w dokumencie w stopniu utrudniającym lub uniemożliwiającym identyfikację posiadacza dokumentu;
+- **3)** utraty dokumentu;
+- **4)** uszkodzenia dokumentu.
 
 **Art. 257.**
 
@@ -5072,9 +5942,23 @@ Art. 466–506. (pominięte)
 
 **Art. 267.** Tymczasowy polski dokument podróży dla cudzoziemca wydaje się cudzoziemcowi zamierzającemu powrócić na terytorium Rzeczypospolitej Polskiej, który podczas pobytu za granicą utracił swój dokument podróży albo którego dokument podróży uległ zniszczeniu bądź utracił ważność, a nie jest możliwe otrzymanie przez niego nowego dokumentu podróży, gdy:
 
+- **1)** cudzoziemcowi udzielono:
+    - **a)** zezwolenia na pobyt stały,
+    - **b)** zezwolenia na pobyt rezydenta długoterminowego UE,
+    - **c)** ochrony uzupełniającej,
+    - **d)** zgody na pobyt ze względów humanitarnych;
+
+- **2)** cudzoziemcowi nadano status uchodźcy.
+
 **Art. 268.** Tymczasowy polski dokument podróży dla cudzoziemca może być wydany cudzoziemcowi, który nie posiada dokumentu podróży i nie jest możliwe otrzymanie przez niego nowego dokumentu podróży, gdy cudzoziemiec:
 
+- **1)** podlega relokacji lub przesiedleniu;
+- **2)** zamierza opuścić terytorium Rzeczypospolitej Polskiej lub został zobowiązany do opuszczenia tego terytorium.
+
 **Art. 269.** Tymczasowy polski dokument podróży dla cudzoziemca w okresie swojej ważności uprawnia cudzoziemca:
+
+- **1)** o którym mowa w art. 267 i art. 268 pkt 1 – do jednokrotnego wjazdu na terytorium Rzeczypospolitej Polskiej;
+- **2)** o którym mowa w art. 268 pkt 2 – do wyjazdu z terytorium Rzeczypospolitej Polskiej.
 
 **Art. 270.** Tymczasowy polski dokument podróży dla cudzoziemca jest ważny przez okres w nim oznaczony, nie dłuższy jednak niż 7 dni.
 
@@ -5245,6 +6129,11 @@ Art. 466–506. (pominięte)
 
 **Art. 283.** W przypadku gdy organ prowadzący kontrolę graniczną lub kontrolę legalności pobytu cudzoziemca ustali, że cudzoziemiec posługuje się którymkolwiek z dokumentów, które był obowiązany zwrócić na podstawie art. 233 ust. 2, art. 249 ust. 1, art. 258 ust. 1, art. 265 ust. 2 lub art. 280 ust. 2, organ ten:
 
+- **1)** zatrzymuje taki dokument;
+- **2)** wydaje nieodpłatnie zaświadczenie potwierdzające zatrzymanie takiego dokumentu;
+- **3)** przesyła zatrzymany dokument organowi, który go wydał;
+- **4)** dokumentuje realizację czynności, o których mowa w pkt 1–3.
+
 **Art. 284.**
 
 1. W przypadku gdy cudzoziemiec, mimo ciążącego na nim obowiązku zwrotu któregokolwiek z dokumentów, o których mowa w art. 226 pkt 1–3 i 5, takiego dokumentu nie zwrócił lub w przypadku gdy cudzoziemiec zawiadomił o utracie takiego dokumentu, organ, do którego należało zwrócić dokument, lub organ, który został zawiadomiony o utracie dokumentu, umieszcza informacje o takim dokumencie w Systemie Informacyjnym Schengen w celu jego zajęcia.
@@ -5349,6 +6238,16 @@ Art. 466–506. (pominięte)
 
 **Art. 293.** W trakcie kontroli funkcjonariusz lub pracownik mogą żądać okazania:
 
+- **1)** dokumentu podróży i dokumentów uprawniających cudzoziemca do pobytu na terytorium Rzeczypospolitej Polskiej;
+- **2)** środków finansowych przeznaczonych na pokrycie kosztów:
+    - **a)** utrzymania cudzoziemca w trakcie jego pobytu na terytorium Rzeczypospolitej Polskiej,
+    - **b)** podróży powrotnej cudzoziemca do państwa pochodzenia lub zamieszkania,
+    - **c)** tranzytu cudzoziemca przez terytorium Rzeczypospolitej Polskiej do państwa trzeciego, które udzieli pozwolenia na wjazd;
+
+- **3)** dokumentu potwierdzającego możliwość uzyskania środków, o których mowa w pkt 2, zgodnie z prawem;
+- **4)** dokumentów uprawniających cudzoziemca do wykonywania pracy, prowadzenia działalności gospodarczej lub powierzenia wykonywania pracy;
+- **5)** dokumentów potwierdzających cel i warunki pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej.
+
 **Art. 294.**
 
 1. Cudzoziemiec poddany kontroli jest obowiązany okazać dokumenty, o których mowa w art. 293 pkt 1, 4 i 5, oraz środki finansowe albo dokument potwierdzający możliwość uzyskania takich środków zgodnie z prawem, o których mowa w art. 293 pkt 2 i 3, jeżeli są wymagane.
@@ -5396,6 +6295,14 @@ Art. 466–506. (pominięte)
 3. W przypadku gdy cudzoziemiec odmawia podpisania protokołu, pozostawia mu się odpis tego protokołu podpisany przez funkcjonariusza lub pracownika.
 
 **Art. 298.** Notatka służbowa, o której mowa w art. 296 ust. 1 pkt 2, zawiera:
+
+- **1)** datę i miejsce sporządzenia notatki;
+- **2)** datę i godzinę rozpoczęcia i zakończenia kontroli;
+- **3)** imię i nazwisko, datę urodzenia oraz obywatelstwo kontrolowanego cudzoziemca;
+- **4)** miejsce pobytu i adres zamieszkania cudzoziemca na terytorium Rzeczypospolitej Polskiej;
+- **5)** wynik kontroli;
+- **6)** podpis funkcjonariusza lub pracownika sporządzającego notatkę;
+- **7)** imię i nazwisko tłumacza, w przypadku gdy brał udział w przeprowadzaniu kontroli.
 
 #### Rozdział 2 Zobowiązanie cudzoziemca do powrotu
 
@@ -5569,6 +6476,12 @@ Art. 466–506. (pominięte)
 
 **Art. 306.** Decyzja o zobowiązaniu cudzoziemca do powrotu wygasa z mocy prawa, jeżeli cudzoziemiec:
 
+- **1)** posiada status uchodźcy lub korzysta z ochrony uzupełniającej;
+- **1a)** posiada zezwolenie na pobyt stały lub zezwolenie na pobyt rezydenta długoterminowego UE na terytorium Rzeczypospolitej Polskiej;
+- **2)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia, o którym mowa w art. 176 lub art. 187 pkt 6 lub 7;
+- **2a)** otrzymał decyzję, o której mowa w art. 393b ust. 1;
+- **3)** otrzymał decyzję o umorzeniu postępowania w sprawie udzielenia ochrony międzynarodowej i o przekazaniu do odpowiedzialnego państwa członkowskiego – w przypadku, o którym mowa w art. 37 ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej.
+
 **Art. 307.**
 
 1. W dniu, w którym decyzja o zobowiązaniu cudzoziemca do powrotu stanie się ostateczna, z mocy prawa następuje unieważnienie wizy krajowej, wygaśnięcie zezwolenia na pobyt czasowy, wygaśnięcie zezwolenia na pracę lub unieważnienie wpisu oświadczenia o powierzeniu pracy cudzoziemcowi do ewidencji oświadczeń o powierzeniu pracy cudzoziemcowi, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.
@@ -5576,6 +6489,9 @@ Art. 466–506. (pominięte)
 2. W dniu, w którym decyzja o zobowiązaniu cudzoziemca do powrotu wydana na podstawie art. 302 ust. 1 pkt 12 lub 13 stanie się ostateczna, z mocy prawa następuje unieważnienie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego.
 
 **Art. 308.** Do cudzoziemców oraz członków ich rodzin uprawnionych do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na zasadach określonych w decyzji nr 1/80 Rady Stowarzyszenia Republiki Tureckiej i EWG z dnia 19 września 1980 r. w sprawie rozwoju Stowarzyszenia, która to Rada została powołana na podstawie Układu ustanawiającego stowarzyszenie między Europejską Wspólnotą Gospodarczą a Turcją, podpisanego w Ankarze dnia 12 września 1963 r.:
+
+- **1)** nie stosuje się przepisów art. 299–307, art. 310–321, art. 329 ani art. 334–335;
+- **2)** stosuje się przepisy rozdziału 5 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin.
 
 **Art. 308a.** Do członków rodzin obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej, obywateli Rzeczypospolitej Polskiej lub obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 1 pkt 4–6 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin, którzy przestali przebywać na tym terytorium z tymi obywatelami, stosuje się przepisy rozdziału 5 tej ustawy.
 
@@ -5597,6 +6513,9 @@ Art. 466–506. (pominięte)
 **Art. 311.** (uchylony)
 
 **Art. 312.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+- **1)** treść wniosku o wydanie decyzji o zobowiązaniu cudzoziemca do powrotu, uwzględniając potrzebę zapewnienia sprawności i prawidłowości postępowania, a w szczególności konieczność uzyskania informacji niezbędnych do wydania decyzji o zobowiązaniu cudzoziemca do powrotu;
+- **2)** sposób odnotowywania w dokumencie podróży wydania decyzji o zobowiązaniu cudzoziemca do powrotu, uwzględniając zapewnienie możliwości ustalenia podczas kontroli dokumentu podróży cudzoziemca, że decyzja ta została wydana.
 
 **Art. 313.** (uchylony)
 
@@ -5750,6 +6669,10 @@ Art. 466–506. (pominięte)
 
 **Art. 324.** Organ, który wydaje decyzję o zobowiązaniu cudzoziemca do powrotu:
 
+- **1)** pobiera od cudzoziemca odciski linii papilarnych, jeżeli nie zostały pobrane po jego zatrzymaniu;
+- **2)** przekazuje Komendantowi Głównemu Policji obraz linii papilarnych, dane osobowe cudzoziemca oraz informacje, które umieszcza się w rejestrze, o którym mowa w art. 428 ust. 1 pkt 4;
+- **3)** sporządza fotografię cudzoziemca.
+
 **Art. 325.**
 
 1. W przypadku gdy cudzoziemiec nie posiada dokumentu podróży, Komendant Główny Straży Granicznej składa do właściwego przedstawicielstwa dyplomatycznego lub urzędu konsularnego państwa pochodzenia cudzoziemca wniosek o wydanie takiego dokumentu.
@@ -5845,6 +6768,9 @@ Art. 466–506. (pominięte)
 **Art. 331.** (uchylony)
 
 **Art. 332.** Decyzję o zobowiązaniu cudzoziemca do powrotu wydaną małoletniemu cudzoziemcowi wykonuje się jeżeli:
+
+- **1)** cudzoziemiec ten ma w państwie, do którego został zobowiązany powrócić, zapewnioną opiekę rodziców, innych osób pełnoletnich lub instytucji opiekuńczych, zgodnie ze standardami określonymi w Konwencji o prawach dziecka, przyjętej przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 20 listopada 1989 r.;
+- **2)** powrót odbywa się pod opieką przedstawiciela ustawowego lub cudzoziemca tego przekaże się jego przedstawicielowi ustawowemu albo przedstawicielowi właściwych władz państwa, do którego nastąpi powrót.
 
 **Art. 333.**
 
@@ -6120,6 +7046,11 @@ Art. 466–506. (pominięte)
 
 **Art. 347d.** Komendant Główny Straży Granicznej usuwa dane cudzoziemca umieszczone w Systemie Informacyjnym Schengen na podstawie art. 347a w przypadku:
 
+- **1)** wydania przez ten organ decyzji o uchyleniu w całości decyzji komendanta oddziału Straży Granicznej lub komendanta placówki Straży Granicznej o zobowiązaniu cudzoziemca do powrotu;
+- **2)** wydania przez ten organ decyzji o stwierdzeniu nieważności decyzji komendanta oddziału Straży Granicznej lub decyzji komendanta placówki Straży Granicznej o zobowiązaniu cudzoziemca do powrotu;
+- **3)** uchylenia lub stwierdzenia nieważności decyzji komendanta oddziału Straży Granicznej lub komendanta placówki Straży Granicznej o zobowiązaniu cudzoziemca do powrotu przez sąd administracyjny;
+- **4)** wykonania decyzji tego organu lub decyzji komendanta oddziału Straży Granicznej lub komendanta placówki Straży Granicznej o zobowiązaniu cudzoziemca do powrotu.
+
 **Art. 347e.**
 
 1. Komendant Główny Straży Granicznej jest organem właściwym do przyjęcia informacji, o których mowa w art. 6 ust. 1 i art. 8 rozporządzenia nr 2018/1860.
@@ -6149,6 +7080,15 @@ Art. 466–506. (pominięte)
 
 **Art. 348.** Cudzoziemcowi udziela się zgody na pobyt ze względów humanitarnych na terytorium Rzeczypospolitej Polskiej, jeżeli zobowiązanie go do powrotu:
 
+- **1)** może nastąpić jedynie do państwa, w którym, w rozumieniu Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r.:
+    - **a)** zagrożone byłoby jego prawo do życia, wolności i bezpieczeństwa osobistego lub
+    - **b)** mógłby on zostać poddany torturom albo nieludzkiemu lub poniżającemu traktowaniu albo karaniu, lub
+    - **c)** mógłby być zmuszony do pracy, lub
+    - **d)** mógłby być pozbawiony prawa do rzetelnego procesu sądowego albo być ukarany bez podstawy prawnej, lub
+
+- **2)** naruszałoby jego prawo do życia rodzinnego lub prywatnego, w rozumieniu przepisów Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r., lub
+- **3)** naruszałoby prawa dziecka, określone w Konwencji o prawach dziecka, przyjętej przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 20 listopada 1989 r., w stopniu istotnie zagrażającym jego rozwojowi psychofizycznemu.
+
 **Art. 349.**
 
 1. Cudzoziemcowi odmawia się udzielenia zgody na pobyt ze względów humanitarnych, jeżeli istnieją poważne podstawy, aby sądzić, że:
@@ -6175,9 +7115,23 @@ Art. 466–506. (pominięte)
 
 **Art. 351.** Zgody na pobyt tolerowany na terytorium Rzeczypospolitej Polskiej udziela się cudzoziemcowi, jeżeli zobowiązanie go do powrotu:
 
+- **1)** może nastąpić jedynie do państwa, w którym, w rozumieniu Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r.:
+    - **a)** zagrożone byłoby jego prawo do życia, wolności i bezpieczeństwa osobistego lub
+    - **b)** mógłby zostać poddany torturom albo nieludzkiemu lub poniżającemu traktowaniu albo karaniu, lub
+    - **c)** mógłby on być zmuszony do pracy, lub
+    - **d)** mógłby być pozbawiony prawa do rzetelnego procesu sądowego albo być ukarany bez podstawy prawnej – w przypadku gdy zachodzą okoliczności do odmowy udzielenia zgody na pobyt ze względów humanitarnych, o których mowa w art. 349, lub
+
+- **2)** jest niewykonalne z przyczyn niezależnych od organu właściwego do przymusowego wykonania decyzji o zobowiązaniu cudzoziemca do powrotu i od cudzoziemca, lub
+- **3)** może nastąpić jedynie do państwa, do którego wydanie go jest niedopuszczalne na mocy orzeczenia sądu albo z uwagi na rozstrzygnięcie Ministra Sprawiedliwości w przedmiocie odmowy wydania cudzoziemca.
+
 **Art. 352.** Udzielenia zgody na pobyt tolerowany odmawia się cudzoziemcowi w przypadkach, o których mowa w art. 351 pkt 2 lub 3, jeżeli jego pobyt na terytorium Rzeczypospolitej Polskiej może stanowić zagrożenie dla obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego.
 
 **Art. 353.** Zgodę na pobyt tolerowany cofa się, w drodze decyzji, gdy:
+
+- **1)** ustanie przyczyna udzielenia zgody, lub
+- **2)** cudzoziemiec opuścił terytorium Rzeczypospolitej Polskiej, lub
+- **3)** dalszy pobyt cudzoziemca może stanowić zagrożenie dla obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego – w przypadku zgody na pobyt tolerowany udzielonej na podstawie art. 351 pkt 2 lub 3, lub
+- **4)** cudzoziemiec uchyla się od nałożonych na niego w decyzji o udzieleniu zgody obowiązków, o których mowa w art. 358 – w przypadku zgody na pobyt tolerowany udzielonej na podstawie art. 351 pkt 2 lub 3.
 
 **Art. 354.**
 
@@ -6249,6 +7203,10 @@ Art. 466–506. (pominięte)
 
 **Art. 359a.** Jeżeli dane cudzoziemca zostały umieszczone w Systemie Informacyjnym Schengen do celów, o których mowa w art. 3 ust. 1 rozporządzenia nr 2018/1860, komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, lub Komendant Główny Straży Granicznej w drugiej instancji, za pośrednictwem Komendanta Głównego Policji:
 
+- **1)** zwraca się do właściwego organu państwa obszaru Schengen, które umieściło dane, o przeprowadzenie konsultacji, o których mowa w art. 9 ust. 1 rozporządzenia nr 2018/1860, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **2)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o decyzji wydanej w postępowaniu w sprawie zobowiązania cudzoziemca do powrotu lub w postępowaniu w sprawie udzielenia cudzoziemcowi zgody na pobyt ze względów humanitarnych, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której towarzyszy zakaz ponownego wjazdu;
+- **3)** informuje właściwy organ państwa obszaru Schengen, które umieściło dane, o zamiarze udzielenia cudzoziemcowi zgody na pobyt ze względów humanitarnych lub o jej udzieleniu, w przypadku gdy dane zostały umieszczone w związku z decyzją właściwego organu tego państwa obszaru Schengen, której nie towarzyszy zakaz ponownego wjazdu.
+
 **Art. 359b.**
 
 1. Jeżeli właściwy organ innego państwa obszaru Schengen występuje o przeprowadzenie konsultacji, o których mowa w art. 10 lub art. 11 rozporządzenia nr 2018/1860, a cudzoziemiec posiada zgodę na pobyt ze względów humanitarnych, komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, który udzielił tej zgody, a w przypadku gdy zgody udzielił Komendant Główny Straży Granicznej w drugiej instancji – komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, który orzekał w sprawie w pierwszej instancji, ustala, czy zachodzą przesłanki cofnięcia tej zgody.
@@ -6274,11 +7232,20 @@ Art. 466–506. (pominięte)
 
 **Art. 361.** W przypadku gdy organ centralny innego państwa członkowskiego Unii Europejskiej nie udzieli zezwolenia na tranzyt w odpowiedzi na wniosek złożony w trybie art. 365 ust. 2:
 
+- **1)** w ciągu 2 dni od przekazania wniosku centralnemu organowi innego państwa członkowskiego Unii Europejskiej lub
+- **2)** w ciągu 48 godzin po upływie terminu, o którym mowa w pkt 1, jeżeli termin na rozpatrzenie wniosku został przedłużony przez centralny organ innego państwa członkowskiego Unii Europejskiej – tranzyt może rozpocząć się na podstawie notyfikacji Komendanta Głównego Straży Granicznej.
+
 **Art. 362.** Postępowanie w sprawie udzielenia przez centralny organ innego państwa członkowskiego Unii Europejskiej zezwolenia na tranzyt cudzoziemca drogą powietrzną przez obszar portu lotniczego tego państwa wszczyna się w celu wykonania decyzji o zobowiązaniu cudzoziemca do powrotu, w przypadku gdy doprowadzenie go do portu lotniczego państwa przeznaczenia nie jest możliwe z wykorzystaniem bezpośredniego połączenia lotniczego z terytorium Rzeczypospolitej Polskiej.
 
 **Art. 363.** W uzasadnionych przypadkach wnioskiem o udzielenie zezwolenia na tranzyt drogą powietrzną można objąć również osoby odpowiedzialne za cudzoziemca podczas tego tranzytu, w tym osoby sprawujące nad nim opiekę medyczną i tłumaczy, zwane dalej „eskortą”.
 
 **Art. 364.** Cudzoziemcowi, który opuścił terytorium Rzeczypospolitej Polskiej w związku z przeprowadzaniem tranzytu drogą powietrzną, zezwala się na ponowny wjazd na to terytorium, gdy:
+
+- **1)** centralny organ innego państwa członkowskiego Unii Europejskiej cofnął zezwolenie na tranzyt drogą powietrzną lub
+- **2)** centralny organ innego państwa członkowskiego Unii Europejskiej odmówił zezwolenia na tranzyt drogą powietrzną, a tranzyt rozpoczął się na podstawie notyfikacji Komendanta Głównego Straży Granicznej, lub
+- **3)** podczas tranzytu drogą powietrzną cudzoziemiec wjechał bez zezwolenia na terytorium państwa członkowskiego Unii Europejskiej, na którego obszarze znajduje się port lotniczy, przez który jest przeprowadzany tranzyt, lub
+- **4)** przymusowe wykonanie decyzji o zobowiązaniu cudzoziemca do powrotu lub wejście cudzoziemca na pokład statku powietrznego okazało się bezskuteczne, lub
+- **5)** przeprowadzenie tranzytu jest niemożliwe z innego powodu.
 
 **Art. 365.**
 
@@ -6329,6 +7296,9 @@ Art. 466–506. (pominięte)
 
 **Art. 372.** W trakcie przeprowadzania tranzytu drogą powietrzną funkcjonariusze innego państwa członkowskiego Unii Europejskiej należący do eskorty, w przypadku:
 
+- **1)** zagrożenia bezpośrednim i bezprawnym zamachem na życie, zdrowie lub wolność funkcjonariusza,
+- **2)** bezpośredniego i poważnego zagrożenia, że cudzoziemiec podejmie ucieczkę, okaleczy siebie lub osoby trzecie lub zniszczy mienie, w sytuacji gdy brak jest funkcjonariuszy Straży Granicznej lub Policji albo w celu ich wsparcia – są uprawnieni do noszenia środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 2, 7, pkt 12 lit. a i d oraz pkt 13 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2025 r. poz. 555 i 820), oraz do użycia lub wykorzystania środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, 2, 7, pkt 12 lit. a i d oraz pkt 13 tej ustawy, odpowiednio na zasadach dotyczących funkcjonariuszy Straży Granicznej.
+
 **Art. 373.**
 
 1. Komendant Główny Straży Granicznej zawiadamia centralny organ innego państwa członkowskiego Unii Europejskiej o udzieleniu lub odmowie udzielenia zezwolenia na tranzyt drogą powietrzną w terminie 48 godzin od otrzymania wniosku, o którym mowa w art. 369.
@@ -6337,7 +7307,18 @@ Art. 466–506. (pominięte)
 
 **Art. 374.** Komendant Główny Straży Granicznej zawiadamia centralny organ innego państwa członkowskiego Unii Europejskiej o:
 
+- **1)** odmowie udzielenia zezwolenia na tranzyt drogą powietrzną lub cofnięciu tego zezwolenia;
+- **2)** najbliższym terminie, w którym przeprowadzenie tranzytu drogą powietrzną będzie możliwe – w przypadku odmowy udzielenia zezwolenia na tranzyt drogą powietrzną lub cofnięcia tego zezwolenia ze względu na brak możliwości udzielenia pomocy innemu państwu członkowskiemu Unii Europejskiej w przeprowadzaniu tranzytu.
+
 **Art. 375.** Komendant Główny Straży Granicznej, na wniosek centralnego organu innego państwa członkowskiego Unii Europejskiej, może udzielić pomocy w tranzycie drogą powietrzną przez obszar polskiego lotniska, polegającej w szczególności na:
+
+- **1)** przejęciu cudzoziemca z pokładu statku powietrznego i konwojowaniu go na obszarze lotniska lub
+- **2)** zapewnieniu cudzoziemcowi oraz jego eskorcie niezbędnej opieki medycznej oraz wyżywienia, lub
+- **3)** odbiorze, przechowywaniu i przekazywaniu dokumentów podróży cudzoziemca, lub
+- **4)** powiadamianiu centralnego organu innego państwa członkowskiego Unii Europejskiej o miejscu i czasie odlotu cudzoziemca, jeżeli tranzyt odbywa się bez eskorty, lub
+- **5)** przekazywaniu centralnemu organowi innego państwa członkowskiego Unii Europejskiej istotnych informacji dotyczących przeprowadzania tranzytu, lub
+- **6)** zapewnieniu cudzoziemcowi zakwaterowania w czasie przeprowadzania tranzytu, lub
+- **7)** przeciwdziałaniu próbom uniemożliwienia przeprowadzenia tranzytu podejmowanym przez cudzoziemca.
 
 **Art. 376.**
 
@@ -6358,6 +7339,11 @@ Art. 466–506. (pominięte)
 
 **Art. 377.** W trakcie przeprowadzania tranzytu drogą powietrzną przez obszar polskiego lotniska funkcjonariusze innego państwa członkowskiego Unii Europejskiej należący do eskorty:
 
+- **1)** posiadają zezwolenie na przeprowadzanie tranzytu drogą powietrzną lub notyfikację;
+- **2)** posiadają legitymację służbową;
+- **3)** noszą ubranie cywilne;
+- **4)** są nieuzbrojeni.
+
 **Art. 378.** Po zakończeniu tranzytu drogą powietrzną przez obszar polskiego lotniska Komendant Główny Straży Granicznej występuje do centralnego organu innego państwa członkowskiego Unii Europejskiej o pokrycie kosztów udzielonej pomocy.
 
 **Art. 379.** Komendant Główny Straży Granicznej wyznacza punkty kontaktowe, z którymi funkcjonariusze innego państwa członkowskiego Unii Europejskiej w trakcie przeprowadzania tranzytu drogą powietrzną mogą współpracować w zakresie wymiany informacji dotyczących przeprowadzania tego tranzytu.
@@ -6365,6 +7351,12 @@ Art. 466–506. (pominięte)
 #### Rozdział 5 Wykonanie decyzji o zobowiązaniu cudzoziemca do powrotu wydanej przez organ innego państwa członkowskiego Unii Europejskiej
 
 **Art. 380.** Ostateczną decyzję o zobowiązaniu cudzoziemca do powrotu wydaną przez organ innego państwa członkowskiego Unii Europejskiej stosującego dyrektywę Rady 2001/40/WE z dnia 28 maja 2001 r. w sprawie wzajemnego uznawania decyzji o wydalaniu obywateli państw trzecich, zwanego dalej „wydającym państwem członkowskim”, wykonują organy Straży Granicznej obowiązane do jej wykonania w związku z:
+
+- **1)** poważnym i aktualnym zagrożeniem dla porządku publicznego lub bezpieczeństwa narodowego wydającego państwa członkowskiego w przypadkach:
+    - **a)** skazania cudzoziemca przez to państwo za przestępstwo zagrożone karą co najmniej 1 roku pozbawienia wolności lub
+    - **b)** uzasadnionego podejrzenia popełnienia lub zamiaru popełnienia przez cudzoziemca przestępstwa zagrożonego karą co najmniej 1 roku pozbawienia wolności na terytorium wydającego państwa członkowskiego, lub
+
+- **2)** naruszeniem przepisów prawa wydającego państwa członkowskiego dotyczących wjazdu cudzoziemców na jego terytorium lub ich pobytu na tym terytorium.
 
 **Art. 381.** Wykonanie decyzji o zobowiązaniu cudzoziemca do powrotu wydanej przez organ wydającego państwa członkowskiego powoduje unieważnienie z mocy prawa wizy krajowej, zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego lub wpisu oświadczenia o powierzeniu pracy cudzoziemcowi do ewidencji oświadczeń o powierzeniu pracy cudzoziemcowi, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, lub wygaśnięcie z mocy prawa zezwolenia na pracę.
 
@@ -6374,9 +7366,25 @@ Art. 466–506. (pominięte)
 
 **Art. 384.** Komendant Główny Straży Granicznej przeprowadza za pośrednictwem Biura SIRENE, o którym mowa w art. 35 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym, lub z wykorzystaniem innych dostępnych środków współpracy i wymiany informacji konsultacje z właściwym organem:
 
+- **1)** wydającego państwa członkowskiego – w celu potwierdzenia, że decyzja o zobowiązaniu cudzoziemca do powrotu jest w dalszym ciągu wykonalna;
+- **2)** państwa członkowskiego Unii Europejskiej, które udzieliło zezwolenia pobytowego cudzoziemcowi zobowiązanemu do powrotu – w celu ustalenia, czy zachodzą przesłanki do cofnięcia cudzoziemcowi tego zezwolenia.
+
 **Art. 385.** Do wykonania decyzji o zobowiązaniu cudzoziemca do powrotu wydanej przez organ wydającego państwa członkowskiego stosuje się przepisy art. 360–379 i art. 394–427.
 
 **Art. 386.** Decyzja o zobowiązaniu cudzoziemca do powrotu wydana przez organ wydającego państwa członkowskiego nie podlega wykonaniu, gdy:
+
+- **1)** wobec cudzoziemca toczy się postępowanie w sprawie udzielenia ochrony międzynarodowej lub
+- **2)** wobec cudzoziemca toczy się postępowanie w sprawie udzielenia zgody na pobyt tolerowany lub zezwolenia, o którym mowa w art. 176, art. 181 ust. 1 lub art. 187 pkt 6 lub 7, lub
+- **3)** cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej na podstawie:
+    - **a)** wizy Schengen upoważniającej tylko do wjazdu na terytorium Rzeczypospolitej Polskiej wydanej w celu, o którym mowa w art. 60 ust. 1 pkt 23, lub
+    - **b)** zaświadczenia, o którym mowa w art. 170, lub
+
+- **4)** cudzoziemcowi udzielono zezwolenia na pobyt czasowy, zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE, nadano mu status uchodźcy lub udzielono mu ochrony uzupełniającej, zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany, lub
+- **5)** cudzoziemiec jest małżonkiem obywatela polskiego albo cudzoziemca, któremu udzielono zezwolenia na pobyt stały lub zezwolenia na pobyt rezydenta długoterminowego UE na terytorium Rzeczypospolitej Polskiej, i nie sprzeciwiają się temu względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, chyba że celem zawarcia związku małżeńskiego lub jego istnienia jest obejście przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego, lub
+- **6)** cudzoziemiec jest pozbawiony wolności na skutek wykonania orzeczenia sądu lub zastosowano wobec niego środek zapobiegawczy w postaci zakazu opuszczania kraju, lub
+- **7)** właściwy organ wydającego państwa członkowskiego:
+    - **a)** nie przekazał dokumentów niezbędnych do potwierdzenia, że decyzja o zobowiązaniu cudzoziemca do powrotu jest w dalszym ciągu wykonalna, lub
+    - **b)** nie potwierdził gotowości zwrotu kosztów wykonania decyzji o zobowiązaniu cudzoziemca do powrotu.
 
 **Art. 387.** Decyzję o zobowiązaniu cudzoziemca do powrotu wydaną przez organ wydającego państwa członkowskiego cudzoziemcowi lub członkom rodziny cudzoziemca, którzy posiadają uprawnienie do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na zasadach określonych w decyzji nr 1/80 Rady Stowarzyszenia Republiki Tureckiej i EWG z dnia 19 września 1980 r. w sprawie rozwoju Stowarzyszenia, która to Rada została powołana na podstawie Układu ustanawiającego stowarzyszenie między Europejską Wspólnotą Gospodarczą a Turcją, podpisanego w Ankarze dnia 12 września 1963 r., można wykonać tylko wtedy, gdy zachodzą wszystkie przesłanki do wydalenia cudzoziemca z terytorium Rzeczypospolitej Polskiej określone w przepisach rozdziału 5 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin.
 
@@ -6449,6 +7457,9 @@ Art. 466–506. (pominięte)
 #### Rozdział 7 Postępowanie dotyczące cudzoziemca, którego dane zostały umieszczone w Systemie Informacyjnym Schengen do celów, o których mowa w art. 3 ust. 1 rozporządzenia nr 2018/1860, w razie wyjazdu z terytorium państw obszaru Schengen oraz w trakcie pobytu na terytorium Rzeczypospolitej Polskiej
 
 **Art. 393c.** Komendant placówki Straży Granicznej, który ustalił, że dane cudzoziemca opuszczającego terytorium Rzeczypospolitej Polskiej przez granicę zewnętrzną, o której mowa w art. 2 pkt 2 kodeksu granicznego Schengen, zostały umieszczone przez inne państwo obszaru Schengen w Systemie Informacyjnym Schengen do celów, o których mowa w art. 3 ust. 1 rozporządzenia nr 2018/1860, za pośrednictwem Komendanta Głównego Policji:
+
+- **1)** przekazuje informacje, o których mowa w art. 6 ust. 1 rozporządzenia nr 2018/1860, właściwemu organowi tego państwa;
+- **2)** kontaktuje się z właściwym organem tego państwa w celu określenia środków, które należy podjąć wobec cudzoziemca.
 
 **Art. 393d.** W przypadku ujawnienia w trakcie pobytu na terytorium Rzeczypospolitej Polskiej cudzoziemca, którego dane zostały umieszczone przez inne państwo obszaru Schengen w Systemie Informacyjnym Schengen do celów, o których mowa w art. 3 ust. 1 rozporządzenia nr 2018/1860, komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej kontaktuje się, za pośrednictwem Komendanta Głównego Policji, z właściwym organem tego państwa w celu określenia środków, które należy podjąć wobec cudzoziemca.
 
@@ -6561,6 +7572,13 @@ Art. 466–506. (pominięte)
 
 **Art. 398a.** Cudzoziemca umieszcza się w strzeżonym ośrodku, jeżeli:
 
+- **1)** istnieje prawdopodobieństwo wydania decyzji o zobowiązaniu cudzoziemca do powrotu bez określenia terminu dobrowolnego wyjazdu i wynika ono z okoliczności, o której mowa w art. 315 ust. 2 pkt 2, lub
+- **2)** wydano decyzję o zobowiązaniu cudzoziemca do powrotu bez określenia terminu dobrowolnego wyjazdu i istnieje konieczność zabezpieczenia jej wykonania, a wydanie tej decyzji wynika z okoliczności, o której mowa w art. 315 ust. 2 pkt 2, lub
+- **3)** istnieje konieczność zabezpieczenia przekazania cudzoziemca do państwa trzeciego na podstawie umowy międzynarodowej o przekazywaniu i przyjmowaniu osób, a jego natychmiastowe przekazanie do tego państwa nie jest możliwe, lub
+- **4)** wystąpił przynajmniej jeden z przypadków, o których mowa w art. 398 ust. 1, oraz:
+    - **a)** zastosowanie środków, o których mowa w art. 398 ust. 2, nie jest możliwe,
+    - **b)** cudzoziemiec nie wywiązuje się z obowiązków określonych w postanowieniu o zastosowaniu wobec niego środków, o których mowa w art. 398 ust. 2.
+
 **Art. 399.**
 
 1. Areszt dla cudzoziemców stosuje się w przypadkach, o których mowa w art. 398a, gdy istnieje ryzyko, że cudzoziemiec nie podporządkuje się zasadom pobytu obowiązującym w strzeżonym ośrodku.
@@ -6568,6 +7586,9 @@ Art. 466–506. (pominięte)
 2. Areszt dla cudzoziemców wykonuje się w pomieszczeniach strzeżonych ośrodków lub w pomieszczeniach Straży Granicznej przeznaczonych dla osób zatrzymanych.
 
 **Art. 400.** Postanowienia o umieszczeniu cudzoziemca w strzeżonym ośrodku lub o zastosowaniu wobec niego aresztu dla cudzoziemców nie wydaje się, jeżeli:
+
+- **1)** mogłoby to spowodować niebezpieczeństwo dla życia lub zdrowia cudzoziemca;
+- **2)** stan psychofizyczny cudzoziemca może uzasadniać domniemanie, że cudzoziemiec był poddany przemocy.
 
 **Art. 400a.**
 
@@ -6877,6 +7898,15 @@ Art. 466–506. (pominięte)
 
 **Art. 419.** Cudzoziemiec umieszczony w strzeżonym ośrodku lub przebywający w areszcie dla cudzoziemców jest obowiązany:
 
+- **1)** przestrzegać regulaminu pobytu w ośrodku lub areszcie;
+- **2)** wykonywać polecenia administracji ośrodka lub funkcjonariusza pełniącego służbę w areszcie;
+- **3)** przestrzegać ciszy nocnej w godzinach od 22 do 7 , a w dni świąteczne do godziny 8 ;
+- **4)** przestrzegać zasad współżycia społecznego;
+- **5)** dbać o higienę osobistą i utrzymywać w czystości pomieszczenia, z których korzysta;
+- **6)** korzystać z wyposażenia ośrodka lub aresztu w sposób zgodny z jego przeznaczeniem;
+- **7)** w przypadku wystąpienia objawów choroby niezwłocznie powiadomić o tym administrację ośrodka albo funkcjonariusza pełniącego służbę w areszcie;
+- **8)** w przypadku groźnego w skutkach zdarzenia niezwłocznie powiadomić o tym administrację ośrodka albo funkcjonariusza pełniącego służbę w areszcie.
+
 **Art. 420.**
 
 1. Cudzoziemcowi umieszczonemu w strzeżonym ośrodku lub przebywającemu w areszcie dla cudzoziemców zabrania się:
@@ -6915,6 +7945,14 @@ Art. 466–506. (pominięte)
 - **6)** cele wychowawcze.
 
 **Art. 422.** Decyzja o ukaraniu cudzoziemca karą dyscyplinarną zawiera:
+
+- **1)** oznaczenie organu wydającego decyzję;
+- **2)** datę wydania decyzji;
+- **3)** imię i nazwisko cudzoziemca;
+- **4)** podstawę prawną wymierzenia kary dyscyplinarnej;
+- **5)** rodzaj nałożonej kary dyscyplinarnej;
+- **6)** opis naruszenia przez cudzoziemca nakazów i zakazów wynikających z niniejszej ustawy;
+- **7)** podpis z podaniem imienia i nazwiska oraz stopnia służbowego komendanta oddziału Straży Granicznej albo komendanta placówki Straży Granicznej albo upoważnionego przez niego funkcjonariusza.
 
 **Art. 423.** W postępowaniu w sprawie wymierzenia kary dyscyplinarnej stosuje się odpowiednio przepisy Kodeksu karnego wykonawczego.
 
@@ -7037,7 +8075,111 @@ Art. 466–506. (pominięte)
 
 **Art. 430.** [1. W rejestrach prowadzonych w sprawach z zakresu wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, pobytu na tym terytorium i wyjazdu z niego, o których mowa w art. 428 ust. 1 pkt 2 lit. a–k oraz m–o, a także w ewidencji zaproszeń przechowuje się informacje o wnioskach, postanowieniach, decyzjach administracyjnych, orzeczeniach sądu oraz dane osobowe przetwarzane zgodnie z niniejszą ustawą, dotyczące cudzoziemców objętych postępowaniami w sprawach, których te rejestry i ewidencja dotyczą.] <1. W rejestrach prowadzonych w sprawach z zakresu wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, pobytu na tym terytorium i wyjazdu z niego, o których mowa w art. 428 ust. 1 pkt 2 lit. a–k oraz m–p, a także w ewidencji zaproszeń przechowuje się informacje o wnioskach, postanowieniach, decyzjach administracyjnych, orzeczeniach sądu oraz dane osobowe przetwarzane zgodnie z niniejszą ustawą, dotyczące cudzoziemców objętych postępowaniami w sprawach, których te rejestry i ewidencja dotyczą.> 2. [W rejestrach, o których mowa w art. 428 ust. 1 pkt 2 lit. b–k oraz m–o, a także w ewidencji zaproszeń oprócz informacji i danych, o których mowa w ust. 1, przechowuje się: ] <W rejestrach, o których mowa w art. 428 ust. 1 pkt 2 lit. b– k oraz m–p, a także w ewidencji zaproszeń oprócz informacji i danych, o których mowa w ust. 1, przechowuje się: >
 
+- **1)** w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. b, informacje o:
+    - **a)** dacie wydania, numerze, serii oraz terminie upływu ważności zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego,
+    - **b)** utraconych, uszkodzonych lub zniszczonych zezwoleniach na przekraczanie granicy w ramach małego ruchu granicznego,
+    - **c)** przebywaniu cudzoziemca na terytorium Rzeczypospolitej Polskiej poza strefą przygraniczną, w której – zgodnie z zezwoleniem – mógł przebywać, lub o przebywaniu na tym terytorium po upływie okresu, w którym był do tego uprawniony na podstawie zezwolenia,
+    - **d)** decyzjach o unieważnieniu zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego,
+    - **e)** grzywnach nałożonych na cudzoziemca za przebywanie: – poza strefą przygraniczną, w której zgodnie z zezwoleniem na przekraczanie granicy w ramach małego ruchu granicznego mógł przebywać, lub – na terytorium Rzeczypospolitej Polskiej po upływie okresu pobytu określonego w zezwoleniu na przekraczanie granicy w ramach małego ruchu granicznego,
+    - **f)** decyzjach o cofnięciu zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego;
+
+- **2)** w rejestrach, o których mowa w art. 428 ust. 1 pkt 2 lit. d–f:
+    - **a)** informacje o dokumentach, na podstawie których została potwierdzona tożsamość cudzoziemca,
+    - **b)** informacje o wydanej cudzoziemcowi karcie pobytu, o jej utracie, uszkodzeniu lub unieważnieniu,
+    - **c)** obraz linii papilarnych cudzoziemca;
+
+- **3)** w rejestrach, o których mowa w art. 428 ust. 1 pkt 2 lit. g–i:
+    - **a)** informacje o wydanym cudzoziemcowi: – polskim dokumencie tożsamości cudzoziemca, – tymczasowym polskim dokumencie podróży dla cudzoziemca, – polskim dokumencie podróży dla cudzoziemca,
+    - **b)** informacje o utracie, uszkodzeniu lub unieważnieniu dokumentów, o których mowa w lit. a,
+    - **c)** dane cudzoziemca zawarte w dokumentach, o których mowa w lit. a;
+
+- **3a)** w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. ia:
+    - **a)** informacje o wydanym cudzoziemcowi europejskim dokumencie podróży do celów powrotu oraz o jego unieważnieniu,
+    - **b)** dane cudzoziemca zawarte w europejskim dokumencie podróży do celów powrotu;
+
+- **4)** w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. j, fotografię cudzoziemca, obraz jego linii papilarnych, kopię jego dokumentu podróży lub dokumentu tożsamości oraz informacje o:
+    - **a)** miejscu i dniu opuszczenia przez cudzoziemca terytorium Rzeczypospolitej Polskiej lub innego państwa obszaru Schengen,
+    - **b)** decyzjach w sprawie wysokości kosztów przymusowego wykonania decyzji o zobowiązaniu cudzoziemca do powrotu;
+
+- **5)** w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. k, informację o dniu opuszczenia przez cudzoziemca terytorium Rzeczypospolitej Polskiej;
+- **6)** w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. m:
+    - **a)** informacje o wydanej cudzoziemcowi karcie pobytu, o jej utracie, uszkodzeniu lub unieważnieniu,
+    - **b)** informacje o wydanym cudzoziemcowi dokumencie „zgoda na pobyt tolerowany”, o jego utracie, uszkodzeniu lub unieważnieniu,
+    - **c)** obraz linii papilarnych cudzoziemca;
+
+- **6a)** w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. n, fotografię cudzoziemca oraz informacje o:
+    - **a)** dniu opuszczenia przez cudzoziemca terytorium Rzeczypospolitej Polskiej,
+    - **b)** decyzjach w sprawie wysokości kosztów wydania i przymusowego wykonania decyzji, o której mowa w art. 303a ust. 1;
+
+- **6b)** w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. o:
+    - **a)** informacje o zawiadomieniach jednostek przyjmujących mających siedziby w innych państwach członkowskich Unii Europejskiej, jednostek prowadzących studia mających siedziby na terytorium Rzeczypospolitej Polskiej i zawiadomieniach jednostek naukowych mających siedziby na terytorium Rzeczypospolitej Polskiej, w tym informacje o planowanych okresach korzystania przez cudzoziemca z mobilności,
+    - **b)** informacje o dokumentach załączonych do zawiadomień, o których mowa w lit. a,
+    - **c)** informacje o decyzjach Szefa Urzędu o sprzeciwie;
+
+- **6c)** w rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. p:
+    - **a)** informacje o dacie wjazdu na terytorium Rzeczypospolitej Polskiej,
+    - **b)** informacje o umieszczeniu w dokumencie podróży cudzoziemca odcisku stempla potwierdzającego przedłużenie okresu pobytu w ramach ruchu bezwizowego,
+    - **c)** informacje o podstawie prawnej przedłużenia okresu pobytu w ramach ruchu bezwizowego,
+    - **d)** informacje, na jaki okres oraz do jakiej daty przedłużono okres pobytu w ramach ruchu bezwizowego;
+
+- **7)** w ewidencji zaproszeń informacje o zaproszeniu, w tym:
+    - **a)** dane osobowe zapraszającego,
+    - **b)** inne informacje umieszczone w zaproszeniu,
+    - **c)** dane osobowe pełnomocnika ustanowionego do odbioru zaproszenia.
+
+3. W rejestrze, o którym mowa w art. 428 ust. 1 pkt 1 lit. a, przechowuje się dane osobowe cudzoziemców, którym udzielono zezwolenia na wjazd, o którym mowa w art. 32 ust. 1.
+
+4. W rejestrze, o którym mowa w art. 428 ust. 1 pkt 1 lit. b, przechowuje się dane cudzoziemców zatrzymanych w strefie nadgranicznej i doprowadzonych do granicy.
+
+5. W rejestrze, o którym mowa w art. 428 ust. 1 pkt 2 lit. l, przechowuje się informację o dniu opuszczenia przez cudzoziemca terytorium Rzeczypospolitej Polskiej.
+
+6. W rejestrze, o którym mowa w art. 428 ust. 1 pkt 3, przechowuje się:
+
+- **1)** następujące dane osobowe cudzoziemca, od którego pobrano odciski linii papilarnych:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** datę i miejsce urodzenia,
+    - **c)** obywatelstwo;
+
+- **2)** informacje o:
+    - **a)** podstawie prawnej pobrania odcisków linii papilarnych,
+    - **b)** stopniu służbowym osoby pobierającej odciski linii papilarnych oraz jej imieniu i nazwisku.
+
+7. W rejestrze, o którym mowa w art. 428 ust. 1 pkt 4, przechowuje się:
+
+- **1)** obraz linii papilarnych cudzoziemca;
+- **2)** informację o podstawie prawnej pobrania odcisków linii papilarnych od cudzoziemca;
+- **3)** informację o dacie pobrania odcisków linii papilarnych od cudzoziemca;
+- **4)** informację o kartach daktyloskopijnych lub o pobraniu od cudzoziemca odcisków linii papilarnych za pomocą urządzenia do ich elektronicznego pobierania;
+- **5)** następujące dane osobowe cudzoziemca:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** datę i miejsce urodzenia,
+    - **c)** obywatelstwo.
+
+8. W rejestrze, o którym mowa w art. 428 ust. 1 pkt 6, przechowuje się dane cudzoziemców, którzy zostali pouczeni o obowiązku niezwłocznego wyjazdu z terytorium Rzeczypospolitej Polskiej na terytorium państwa członkowskiego Unii Europejskiej, które udzieliło im zezwolenia na pobyt lub innego zezwolenia uprawniającego do pobytu.
+
+8a. W rejestrze, o którym mowa w art. 428 ust. 1 pkt 6a, przechowuje się dane cudzoziemców, którym została wydana decyzja nakazująca powrót przez organ innego państwa stosującego dyrektywę 2008/115/WE, o obowiązku niezwłocznego wyjazdu do państwa, do którego cudzoziemiec się udaje, wykonując decyzję nakazującą powrót wydaną przez organ państwa stosującego dyrektywę 2008/115/WE.
+
+9. W rejestrze, o którym mowa w art. 428 ust. 1 pkt 7, przechowuje się:
+
+- **1)** następujące dane osobowe cudzoziemca, któremu zostało wydane zaświadczenie, o którym mowa w art. 170:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** datę i miejsce urodzenia,
+    - **c)** obywatelstwo,
+    - **d)** płeć;
+
+- **2)** informację o organie, który wydał zaświadczenie, o którym mowa w art. 170;
+- **3)** informację o dacie wydania zaświadczenia, o którym mowa w art. 170;
+- **4)** informacje o tym, że cudzoziemiec aktywnie, dobrowolnie i z własnej inicjatywy ponownie nawiązał kontakt z osobami podejrzanymi o popełnienie przestępstwa, o którym mowa w art. 189a § 1 Kodeksu karnego, lub o tym, że przekroczył lub usiłował przekroczyć granicę wbrew przepisom prawa, a także o dacie odnotowania informacji.
+
 **Art. 430a.** Dane w rejestrach, o których mowa w art. 428 ust. 1 pkt 2 lit. c, przechowuje się przez okres 10 lat następujących po:
+
+- **1)** ostatnim dniu okresu ważności wizy – w przypadku gdy wiza została wydana;
+- **2)** dniu złożenia wniosku o wydanie wizy – w przypadku uznania wniosku za niedopuszczalny, jego cofnięcia lub jego nierozpatrywania co do istoty z innych przyczyn;
+- **3)** dniu wydania ostatecznej decyzji o odmowie wydania wizy, a w przypadku zaskarżenia tej decyzji do sądu administracyjnego – od dnia wydania prawomocnego orzeczenia w tej sprawie;
+- **4)** dniu wydania ostatecznej decyzji w sprawie:
+    - **a)** przedłużenia wizy,
+    - **b)** cofnięcia wizy,
+    - **c)** unieważnienia wizy – a w przypadku zaskarżenia tej decyzji do sądu administracyjnego – od dnia wydania prawomocnego orzeczenia w tej sprawie.
 
 **Art. 431.**
 
@@ -7496,6 +8638,12 @@ Art. 466–506. (pominięte)
 
 **Art. 458.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** tryb i sposób przydzielania, zmiany i cofania uprawnień do dostępu do krajowego zbioru rejestrów, ewidencji i wykazu w sprawach cudzoziemców za pomocą urządzeń telekomunikacyjnych oraz warunki techniczne tego dostępu,
+- **2)** wzór upoważnienia do dostępu do krajowego zbioru rejestrów, ewidencji i wykazu w sprawach cudzoziemców oraz wykorzystywania danych z tego rejestru,
+- **3)** wzór wniosku o wyrażenie zgody na udostępnienie danych przetwarzanych w krajowym zbiorze rejestrów, ewidencji i wykazu w sprawach cudzoziemców za pomocą urządzeń telekomunikacyjnych,
+- **4)** wzór wniosku o wyrażenie zgody na udostępnienie danych przetwarzanych w krajowym zbiorze rejestrów, ewidencji i wykazu w sprawach cudzoziemców za pomocą urządzeń telekomunikacyjnych, składanego w trybie art. 453 ust. 2,
+- **5)** wzór oświadczenia podmiotu, o którym mowa w art. 453 ust. 3 – uwzględniając konieczność zapewnienia bezpieczeństwa przetwarzanych danych, sprawności przydzielania, zmiany i cofania uprawnień do dostępu do krajowego zbioru rejestrów, ewidencji i wykazu w sprawach cudzoziemców oraz czytelności danych i informacji przekazywanych Szefowi Urzędu przez podmioty, o których mowa w art. 450.
+
 ### DZIAŁ XI Odpowiedzialność przewoźnika
 
 **Art. 459.**
@@ -7558,9 +8706,26 @@ Art. 466–506. (pominięte)
 
 **Art. 461c.** Cudzoziemiec przebywający w pomieszczeniach przeznaczonych dla cudzoziemców, którym odmówiono wjazdu na terytorium Rzeczypospolitej Polskiej, jest obowiązany:
 
+- **1)** przestrzegać regulaminu pobytu w pomieszczeniach;
+- **2)** wykonywać polecenia funkcjonariusza Straży Granicznej pełniącego służbę w pomieszczeniach;
+- **3)** przestrzegać ciszy nocnej w godzinach od 22.00 do 7.00;
+- **4)** korzystać z wyposażenia pomieszczeń w sposób zgodny z ich przeznaczeniem;
+- **5)** w przypadku wystąpienia objawów choroby niezwłocznie powiadomić o tym funkcjonariusza Straży Granicznej pełniącego służbę w pomieszczeniach;
+- **6)** powstrzymać się od samowolnego oddalania się poza obszar pomieszczeń lub przebywania w miejscach, do których cudzoziemiec ma zakaz wstępu;
+- **7)** w przypadku groźnego w skutkach zdarzenia niezwłocznie powiadomić o tym funkcjonariusza Straży Granicznej pełniącego służbę w pomieszczeniach.
+
 **Art. 461d.** Cudzoziemcowi przebywającemu w pomieszczeniach przeznaczonych dla cudzoziemców, którym odmówiono wjazdu na terytorium Rzeczypospolitej Polskiej, zabrania się:
 
+- **1)** zakłócania spokoju i porządku w pomieszczeniach;
+- **2)** posiadania przedmiotów, które mogą stanowić zagrożenie porządku lub bezpieczeństwa w pomieszczeniach;
+- **3)** spożywania alkoholu oraz przyjmowania środków odurzających lub substancji psychotropowych;
+- **4)** palenia wyrobów tytoniowych;
+- **5)** powodowania u siebie uszkodzeń ciała lub rozstroju zdrowia, jak również nakłaniania do takich czynów lub pomagania w dokonywaniu takich czynów.
+
 **Art. 461e.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+- **1)** warunki, jakim odpowiadają pomieszczenia przeznaczone dla cudzoziemców, którym odmówiono wjazdu na terytorium Rzeczypospolitej Polskiej, w tym wyposażenie tych pomieszczeń, uwzględniając konieczność zapewnienia poszanowania praw cudzoziemców przebywających w tych pomieszczeniach;
+- **2)** regulamin pobytu w pomieszczeniach przeznaczonych dla cudzoziemców, którym odmówiono wjazdu na terytorium Rzeczypospolitej Polskiej, uwzględniając konieczność zapewnienia porządku wewnętrznego i bezpieczeństwa w tych pomieszczeniach oraz sprawnego ich funkcjonowania.
 
 **Art. 462.**
 
@@ -7651,6 +8816,9 @@ Art. 466–506. (pominięte)
 
 **Art. 507.** Z dniem wejścia w życie ustawy udzielone na podstawie dotychczasowych przepisów zezwolenia:
 
+- **1)** na zamieszkanie na czas oznaczony – stają się zezwoleniami na pobyt czasowy i zachowują ważność przez okres, na który zostały wydane;
+- **2)** na osiedlenie – stają się zezwoleniami na pobyt stały.
+
 **Art. 508.**
 
 1. Z dniem wejścia w życie ustawy wydane na podstawie dotychczasowych przepisów decyzje:
@@ -7675,6 +8843,11 @@ Art. 466–506. (pominięte)
 6. Cudzoziemcowi przebywającemu na terytorium Rzeczypospolitej Polskiej na podstawie decyzji o udzieleniu zgody na pobyt tolerowany, która stała się tą decyzją na podstawie ust. 1 pkt 1 lit. b, po upływie okresu ważności posiadanej przez niego karty pobytu komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej właściwy ze względu na miejsce pobytu cudzoziemca wydaje dokument „zgoda na pobyt tolerowany”.
 
 **Art. 509.** Jeżeli przepisy niniejszej ustawy uzależniają udzielenie cudzoziemcowi zezwolenia na pobyt na terytorium Rzeczypospolitej Polskiej od okresu jego pobytu na tym terytorium na podstawie:
+
+- **1)** zezwolenia na pobyt czasowy – do tego okresu pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej zalicza się okres pobytu cudzoziemca na tym terytorium na podstawie zezwolenia na zamieszkanie na czas oznaczony;
+- **2)** zezwolenia na pobyt czasowy wydanego w określonym celu – do tego okresu pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej zalicza się okres pobytu cudzoziemca na tym terytorium na podstawie zezwolenia na zamieszkanie na czas oznaczony, wydanego ze względu na ten sam cel;
+- **3)** zgody na pobyt ze względów humanitarnych – do tego okresu pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej zalicza się okres pobytu cudzoziemca na tym terytorium na podstawie decyzji o udzieleniu zgody na pobyt tolerowany, wydanej ze względu na przesłanki, o których mowa w art. 97 ust. 1 pkt 1 lub 1a ustawy zmienianej w art. 484 niniejszej ustawy, lub zgody na pobyt tolerowany, o której mowa w art. 141 ust. 2 ustawy zmienianej w art. 484 niniejszej ustawy;
+- **4)** ochrony uzupełniającej – do tego okresu zalicza się okres pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej na podstawie decyzji o udzieleniu zgody na pobyt tolerowany, wydanej ze względu na przesłanki, o których mowa w art. 97 ust. 1 pkt 1 ustawy zmienianej w art. 484 niniejszej ustawy.
 
 **Art. 510.** Zaproszenia wpisane do ewidencji zaproszeń na podstawie dotychczasowych przepisów, zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego oraz wizy i dokumenty wydane cudzoziemcom na podstawie przepisów rozdziału 6 ustawy, o której mowa w art. 521, zachowują ważność przez okres, na który zostały wydane.
 
@@ -7730,6 +8903,11 @@ Art. 466–506. (pominięte)
 
 **Art. 516.** Cudzoziemcom, którzy ukończyli 6. rok życia i:
 
+- **1)** którym udzielono zezwolenia na zamieszkanie na czas oznaczony albo zezwolenia na osiedlenie, które stały się na podstawie art. 507 i art. 513 ust. 2 odpowiednio zezwoleniem na pobyt czasowy albo zezwoleniem na pobyt stały, albo
+- **2)** którym udzielono zezwolenia na pobyt rezydenta długoterminowego UE na podstawie wniosku złożonego przed dniem wejścia w życie ustawy, albo
+- **3)** którzy przed dniem wejścia w życie ustawy złożyli wniosek o wymianę karty pobytu, albo
+- **4)** którym wydano decyzję o udzieleniu zgody na pobyt tolerowany, która stała się na podstawie art. 508 ust. 1 pkt 1 lit. a lub ust. 2 decyzją o udzieleniu zgody na pobyt ze względów humanitarnych – kartę pobytu wydaje się po pobraniu odcisków linii papilarnych, chyba że ich pobranie jest fizycznie niemożliwe.
+
 **Art. 517.**
 
 1. Wpisy danych cudzoziemców zgromadzone w wykazie na podstawie dotychczasowych przepisów z dniem wejścia w życie ustawy stają się wpisami do wykazu prowadzonego na podstawie niniejszej ustawy i przechowuje się je przez okres, na który zostały umieszczone w tym wykazie.
@@ -7741,6 +8919,11 @@ Art. 466–506. (pominięte)
 **Art. 519.** Szef Urzędu do Spraw Cudzoziemców powołany na podstawie ustawy uchylonej w art. 521 jest Szefem Urzędu do Spraw Cudzoziemców w rozumieniu niniejszej ustawy.
 
 **Art. 520.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 11c ust. 8, art. 15 ust. 4, art. 20 ust. 1, art. 21 ust. 7, art. 23 ust. 5, art. 24j ust. 2, art. 24k, art. 48f, art. 48g ust. 1, art. 53b ust. 6, art. 63 ust. 1 i 2, art. 63o, art. 71d, art. 83 ust. 4, art. 84 ust. 1, art. 84a ust. 3, art. 100 ust. 1 i 2, art. 100a ust. 6, art. 101 ust. 7, art. 109 ust. 2 i 3, art. 118 ust. 2, art. 123 ust. 1 i art. 142 ust. 4 ustawy, o której mowa w art. 521, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 12 ust. 1 i 3, art. 21 ust. 3, art. 26 ust. 1, art. 33 ust. 5, art. 36 ust. 1, art. 46, art. 47 ust. 2, art. 57 ust. 1, art. 63, art. 80 ust. 1, art. 89 ust. 1, art. 97 ust. 1, art. 107 ust. 1, art. 139, art. 146, art. 150 ust. 1, art. 157 ust. 1, art. 204 ust. 1, art. 222 ust. 1, art. 239 ust. 1, art. 285 ust. 1, art. 287 ust. 1, art. 312, art. 339 ust. 1, art. 365 ust. 4, art. 394 ust. 6, art. 409 i art. 427 ust. 1 niniejszej ustawy,
+- **2)** art. 10 ust. 5a ustawy zmienianej w art. 467 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 5a ustawy zmienianej w art. 467 w brzmieniu nadanym niniejszą ustawą,
+- **3)** art. 94a ust. 6 ustawy zmienianej w art. 474 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 94a ust. 6 ustawy zmienianej w art. 474 w brzmieniu nadanym niniejszą ustawą,
+- **4)** art. 90 ust. 1 i 4 ustawy zmienianej w art. 488 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 90 ust. 1 i 4 ustawy zmienianej w art. 488 w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 521.** Traci moc ustawa z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2011 r. poz. 1573, z 2012 r. poz. 589 i 769 oraz z 2013 r. poz. 628).
 

@@ -98,7 +98,7 @@ e) państwo;
 2) odmowę przyznania stypendium.
 6. Dyrektor Centrum, na wniosek komisji ekspertów, może przedłużyć termin, o którym mowa w ust. 1.
 7. W przypadku nieprzedstawienia przez komisję ekspertów opinii w terminie określonym w ust. 1 lub 6, Dyrektor Centrum rozstrzyga o przyznaniu stypendium albo odmowie przyznania stypendium z pominięciem opinii komisji ekspertów.
-8. Dyrektor Centrum nie przekazuje do zaopiniowania komisji ekspertów wniosku, który nie spełnia wymagań określonych w § 7.
+8. Dyrektor Centrum nie przekazuje do zaopiniowania komisji ekspertów wniosku, który nie spełnia wymagań określonych § 7.
 § 9. 1. Wniosek pozostawia się bez rozpatrzenia, w przypadku gdy:
 1) nie spełnia wymagań określonych w § 7;
 2) został złożony po upływie terminu składania wniosków – w przypadku naboru wniosków w trybie konkursowym;

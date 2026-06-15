@@ -8,7 +8,7 @@ pos: 791
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz o zmianie niektórych innych ustaw
@@ -28,6 +28,168 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071150791) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/791/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. Nr 123, poz. 776, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 pkt 4 otrzymuje brzmienie: „4) przeciętnym wynagrodzeniu – oznacza to przeciętne miesięczne wynagrodzenie w gospodarce narodowej w poprzednim kwartale od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Głównego Urzędu Statystycznego w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm. ),”;
+- **2)** w art. 5 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) niezdolności do samodzielnej egzystencji, ustalone na podstawie art. 13 ust. 5 ustawy wymienionej w pkt 1, jest traktowane na równi z orzeczeniem o znacznym stopniu niepełnosprawności,”;
+- **3)** w art. 5a ust. 1 otrzymuje brzmienie: „1. Osoby posiadające ważne orzeczenia o zaliczeniu do jednej z grup inwalidów, niezdolności do pracy w gospodarstwie rolnym, o których mowa w art. 62, oraz orzeczenia, o których mowa w art. 5, mogą składać do zespołu do spraw orzekania o niepełnosprawności wniosek o ustalenie stopnia niepełnosprawności i wskazań, o których mowa w art. 6b ust. 3, dla celów korzystania z ulg i uprawnień na podstawie odrębnych przepisów.”;
+- **4)** po art. 6b dodaje się art. 6b w brzmieniu: „Art. 6b 1. W wojewódzkim zespole przeprowadza się specjalistyczne badania, w tym psychologiczne, zwane dalej „badaniami”, osób ubiegających się o wydanie orzeczenia o niepełnosprawności lub stopniu niepełnosprawności, na podstawie skierowań wystawionych odpowiednio przez lekarzy lub psychologów członków zespołów orzekających o niepełnosprawności.
+
+2. Skierowanie powinno zawierać:
+
+- **1)** nazwę zespołu, którego lekarz lub psycholog kieruje na badania,
+- **2)** rodzaj badania, na które jest kierowana osoba zainteresowana,
+- **3)** imię (imiona) i nazwisko osoby skierowanej,
+- **4)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) lub cechy dokumentu potwierdzającego obywatelstwo, w przypadku cudzoziemca nieposiadającego numeru PESEL,
+- **5)** datę urodzenia,
+- **6)** miejsce zameldowania albo pobytu,
+- **7)** datę wystawienia skierowania,
+- **8)** uzasadnienie do skierowania na badania,
+- **9)** podpis i pieczątkę osoby kierującej i akceptującej przeprowadzenie badania.
+
+3. Wyniki badań są sporządzane w formie pisemnej na formularzu badania, do którego dołącza się wydruki komputerowe lub wykonane zdjęcia.
+
+4. Formularz badania zawiera następujące dane:
+
+- **1)** numer ewidencyjny badania,
+- **2)** nazwę wojewódzkiego zespołu, w którym badanie zostało wykonane,
+- **3)** imię (imiona) i nazwisko osoby badanej,
+- **4)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) lub cechy dokumentu potwierdzającego obywatelstwo, w przypadku cudzoziemca nieposiadającego numeru PESEL,
+- **5)** datę urodzenia,
+- **6)** miejsce zameldowania albo pobytu,
+- **7)** datę wykonania badania,
+- **8)** wynik badania wraz z opisem,
+- **9)** informację o załącznikach,
+- **10)** podpis i pieczątkę odpowiednio lekarza lub psychologa wykonującego badanie.
+
+5. Wyniki badań są przesyłane do zespołu, którego lekarz lub psycholog wystawił skierowanie, w terminie 3 dni roboczych od daty ich sporządzenia; drugi egzemplarz wyników jest przechowywany w wojewódzkim zespole łącznie z wydrukiem komputerowym lub wykonanymi zdjęciami.
+
+6. Na wniosek osoby badanej lub jej przedstawiciela ustawowego wydaje się kopie wyników badań.
+
+7. W wojewódzkim zespole prowadzi się rejestr badań w formie dokumentu pisemnego i elektronicznego. Rejestr ten powinien zawierać:
+
+- **1)** numer ewidencyjny badania,
+- **2)** dane osobowe osoby badanej, o których mowa w ust. 2 pkt 36,
+- **3)** datę skierowania na badania,
+- **4)** datę wykonania badania,
+- **5)** imię i nazwisko lekarza lub psychologa wykonującego badania.
+
+8. Wojewódzki zespół jest uprawniony do przetwarzania danych osobowych osób badanych w celu wydania orzeczenia o niepełnosprawności lub stopniu niepełnosprawności.
+
+9. Dane zgromadzone w formularzu badania lub załączniki udostępnia się, o ile są one niezbędne, do realizacji zadań określonych w ustawie:
+
+- **1)** Pełnomocnikowi Rządu do Spraw Osób Niepełnosprawnych,
+- **2)** powiatowym zespołom.
+
+10. Formularz badania i załączniki ulegają zniszczeniu po upływie 50 lat od dnia sporządzenia formularza badania.
+
+11. Wojewódzki zespół jest obowiązany prowadzić odpowiednią ewidencję oraz zapewnić przechowywanie i ochronę przed uszkodzeniem, zniszczeniem bądź utratą dokumentacji dotyczącej badań.
+
+12. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** zakres wykonywanych badań oraz tryb i warunki kierowania na te badania,
+- **2)** warunki organizacyjne wykonywania badań,
+- **3)** warunki techniczne pomieszczeń, w których są wykonywane badania – mając na względzie zapewnienie sprawnego przebiegu procesu orzekania o niepełnosprawności lub stopniu niepełnosprawności.”;
+- **5)** po art. 6c dodaje się art. 6d w brzmieniu: „Art. 6d. 1. Tworzy się Elektroniczny Krajowy System Monitoringu Orzekania o Niepełnosprawności, zwany dalej „systemem”, w którym przetwarza się dane w celu usprawnienia i podniesienia jakości orzekania o niepełnosprawności.
+
+2. Powiatowe zespoły i wojewódzkie zespoły oraz Pełnomocnik są administratorami danych w prowadzonych przez siebie bazach danych systemu.
+
+3. W systemie gromadzi się dane dotyczące:
+
+- **1)** osób, które złożyły wniosek o ustalenie niepełnosprawności albo o ustalenie stopnia niepełnosprawności,
+- **2)** przedstawicieli ustawowych osób, o których mowa w pkt 1,
+- **3)** członków powiatowych zespołów i wojewódzkich zespołów,
+- **4)** innych osób zatrudnionych w zespołach,
+- **5)** kosztów funkcjonowania powiatowych zespołów i wojewódzkich zespołów, w tym:
+    - **a)** amortyzacji,
+    - **b)** zużycia materiałów i energii,
+    - **c)** wynagrodzeń, obowiązkowych składek i innych świadczeń, w tym na pracowników wykonujących badania lub wykonujących czynności pomocnicze przy wykonywaniu tych badań,
+    - **d)** umów cywilnoprawnych, w tym umów zawartych z osobami wykonującymi badania lub wykonujących czynności pomocnicze przy wykonywaniu tych badań,
+    - **e)** pozostałych rodzajowo wyżej niewymienionych, w podziale na finansowane z budżetu państwa i budżetu jednostki samorządu terytorialnego.
+
+4. Dane gromadzone w systemie obejmują:
+
+- **1)** dane dotyczące osób, o których mowa w ust. 3 pkt 1-3:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** datę i miejsce urodzenia,
+    - **c)** płeć,
+    - **d)** adres miejsca zameldowania,
+    - **e)** adres miejsca pobytu,
+    - **f)** cechy dokumentów tożsamości: rodzaj dokumentu, numer i serię dokumentu,
+    - **g)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) lub obywatelstwo w przypadku cudzoziemca nieposiadającego numeru PESEL,
+
+- **2)** dane dotyczące wykształcenia i zawodu osób, o których mowa w ust. 3 pkt 1 i 3,
+- **3)** dane dotyczące formy zatrudnienia i wymiaru czasu pracy osób, o których mowa w ust. 3 pkt 3,
+- **4)** dane dotyczące liczby osób, o których mowa w ust. 3 pkt 4, formy ich zatrudnienia i wymiaru czasu pracy,
+- **5)** dane dotyczące daty i rodzaju wydanego orzeczenia, symbolu przyczyny niepełnosprawności, daty powstania niepełnosprawności lub stopnia niepełnosprawności, okresu, na jaki zostało wydane orzeczenie, wskazań, o których mowa w art. 6b ust. 3.
+
+5. Minister właściwy do spraw zabezpieczenia społecznego zapewnia warunki organizacyjno-techniczne funkcjonowania systemu.
+
+6. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowe warunki, w tym techniczne i organizacyjne, sposób oraz tryb gromadzenia i usuwania danych z systemu, mając na względzie ich zabezpieczenie przed dostępem lub wykorzystywaniem przez osoby nieuprawnione.”;
+
+- **6)** w art. 10b po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Powiatowe centra pomocy rodzinie przeprowadzają co najmniej raz w roku kontrolę warsztatów.”;
+- **7)** w art. 10e ust. 1 otrzymuje brzmienie: „1. Osoba niepełnosprawna może ubiegać się o dofinansowanie ze środków Funduszu uczestnictwa w turnusie, jeżeli przeciętny miesięczny dochód, w rozumieniu przepisów o świadczeniach rodzinnych, podzielony przez liczbę osób we wspólnym gospodarstwie domowym, obliczony za kwartał poprzedzający miesiąc złożenia wniosku, nie przekracza kwoty:
+- **1)** 50% przeciętnego wynagrodzenia na osobę we wspólnym gospodarstwie domowym,
+- **2)** 65% przeciętnego wynagrodzenia w przypadku osoby samotnej.”;
+- **8)** w art. 10f ust. 2 otrzymuje brzmienie: „2. Podmiot zamierzający zorganizować lub prowadzący warsztat przyjmuje i zatwierdza, w uzgodnieniu z powiatowym centrum pomocy rodzinie, zgłoszenie osób do uczestnictwa w warsztacie.”;
+- **9)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Osoba niepełnosprawna zarejestrowana w powiatowym urzędzie pracy jako bezrobotna albo poszukująca pracy niepozostająca w zatrudnieniu ma prawo korzystać z usług lub instrumentów rynku pracy na zasadach określonych w ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm. ), zwanej dalej „ustawą o promocji”.
+
+2. Osoba niepełnosprawna zarejestrowana w powiatowym urzędzie pracy jako poszukująca pracy niepozostająca w zatrudnieniu może również korzystać na zasadach takich jak bezrobotni z następujących usług lub instrumentów określonych w ustawie o promocji:
+
+- **1)** szkoleń,
+- **2)** stażu,
+- **3)** prac interwencyjnych,
+- **4)** przygotowania zawodowego w miejscu pracy,
+- **5)** badań lekarskich, o których mowa w art. 2 ust. 3 ustawy o promocji,
+- **6)** zwrotu kosztów, o których mowa w art. 45 ust. 1, 2 i 4 ustawy o promocji,
+- **7)** finansowania kosztów, o których mowa w art. 45 ust. 3 ustawy o promocji.
+
+3. Wydatki na instrumenty lub usługi rynku pracy, o których mowa w ust. 1 i 2, są finansowane w odniesieniu do osób niepełnosprawnych zarejestrowanych jako:
+
+- **1)** bezrobotne – ze środków Funduszu Pracy,
+- **2)** poszukujące pracy niepozostające w zatrudnieniu – ze środków Funduszu.”;
+- **10)** uchyla się art. 12;
+- **11)** po art. 12 dodaje się art. 12a w brzmieniu: „Art. 12a. 1. Osoba niepełnosprawna, o której mowa w art. 11 ust. 1, może otrzymać ze środków Funduszu jednorazowo środki na podjęcie działalności gospodarczej, rolniczej albo na wniesienie wkładu do spółdzielni socjalnej w wysokości określonej w umowie zawartej ze starostą, nie więcej jednak niż do wysokości piętnastokrotnego przeciętnego wynagrodzenia, jeżeli nie otrzymała środków publicznych na ten cel.
+
+2. Osoba niepełnosprawna, która otrzymała jednorazowo środki na podjęcie działalności gospodarczej, rolniczej albo na wniesienie wkładu do spółdzielni socjalnej, jest obowiązana do zwrotu otrzymanych środków wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, jeżeli z przyczyn leżących po jej stronie zostały naruszone warunki umowy, o której mowa w ust.
+
+1.
+
+3. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia:
+
+- **1)** warunki oraz tryb przyznawania i zwrotu środków, o których mowa w ust. 1,
+- **2)** formy zabezpieczenia zwrotu środków, o których mowa w ust. 1, w przypadku naruszenia warunków umowy dotyczącej ich przyznania,
+- **3)** wzór wniosku i niezbędne elementy umowy dotyczącej przyznania środków określonych w ust. 1 – mając na względzie zwiększenie aktywności zawodowej osób niepełnosprawnych, zapewnienie zgodności udzielanej pomocy z regułami przyznawania pomocy publicznej w ramach zasady de minimis oraz racjonalne gospodarowanie środkami Funduszu.”;
+- **12)** w art. 13 ust. 1 otrzymuje brzmienie: „1. Osoba niepełnosprawna prowadząca działalność gospodarczą albo własne lub dzierżawione gospodarstwo rolne może otrzymać, ze środków Funduszu, dofinansowanie do wysokości 50% oprocentowania kredytu bankowego zaciągniętego na kontynuowanie tej działalności, jeżeli:
+- **1)** nie korzystała z pożyczki z Funduszu na rozpoczęcie działalności gospodarczej albo rolniczej oraz z Funduszu Pracy na rozpoczęcie działalności gospodarczej albo
+- **2)** pożyczka została spłacona lub w całości umorzona.”;
+- **13)** w art. 17 zdanie trzecie otrzymuje brzmienie: „Nie narusza to przepisu art. 134 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ).”;
+- **14)** uchyla się art. 25;
+- **15)** po art. 25 dodaje się art. 25a-25d w brzmieniu: „Art. 25a. 1. Składki na ubezpieczenia społeczne:
+- **1)** zatrudnionych osób niepełnosprawnych oraz osób niepełnosprawnych prowadzących działalność gospodarczą nalicza się i opłaca na zasadach określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, Nr 17, poz. 95, Nr 21, poz. 125 i Nr 112, poz. 769),
+- **2)** niepełnosprawnych rolników oraz niepełnosprawnych domowników nalicza się i opłaca na zasadach określonych w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 1998 r. Nr 7, poz. 25, z późn. zm. ).
+
+2. Fundusz refunduje pracodawcy zatrudniającemu mniej niż 25 osób w przeliczeniu na pełny wymiar czasu pracy, w stosunku do zatrudnionych osób niepełnosprawnych zaliczonych do znacznego lub do umiarkowanego stopnia niepełnosprawności:
+
+- **1)** część wynagrodzenia odpowiadającą składce należnej od zatrudnionego na ubezpieczenie emerytalne,
+- **2)** część kosztów osobowych pracodawcy odpowiadającą składce należnej od pracodawcy na ubezpieczenie emerytalne – pod warunkiem terminowego opłacenia przez pracodawcę tych składek w całości.
+
+3. Fundusz refunduje pracodawcy prowadzącemu zakład pracy chronionej lub zakład aktywności zawodowej w stosunku do zatrudnionych osób niepełnosprawnych:
+
+- **1)** część wynagrodzenia odpowiadającą składce należnej od pracownika na ubezpieczenia emerytalne i chorobowe,
+- **2)** część kosztów osobowych pracodawcy odpowiadającą składce należnej od pracodawcy na ubezpieczenia:
+    - **a)** emerytalne,
+    - **b)** rentowe,
+    - **c)** wypadkowe – pod warunkiem terminowego opłacenia przez pracodawcę tych składek w całości.
+
+4. Fundusz refunduje pracodawcy zatrudniającemu co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy, osiągającemu wskaźnik zatrudnienia osób niepełnosprawnych ogółem w wysokości co najmniej 6%, w stosunku do zatrudnionych osób niepełnosprawnych:
+
+- **1)** zaliczonych do znacznego i umiarkowanego stopnia niepełnosprawności – część wynagrodzenia odpowiadającą składce należnej od pracownika na ubezpieczenie emerytalne oraz część kosztów osobowych pracodawcy odpowiadającą składce należnej od pracodawcy na ubezpieczenie emerytalne,
+- **2)** zaliczonych do lekkiego stopnia niepełnosprawności – część kosztów osobowych pracodawcy odpowiadającą składce należnej od pracodawcy na ubezpieczenie wypadkowe – pod warunkiem terminowego opłacenia przez pracodawcę tych składek w całości.
+
+5. Fundusz refunduje:
+
+- **1)** osobie niepełnosprawnej prowadzącej działalność gospodarczą obowiązkowe składki na ubezpieczenie emerytalne i rentowe do wysokości odpowiadającej wysokości składki, której podstawą wymiaru jest kwota stanowiąca 60% przeciętnego miesięcznego wynagrodzenia w poprzednim kwartale,
+- **2)** niepełnosprawnemu rolnikowi lub rolnikowi zobowiązanemu do opłacania składek za niepełnosprawnego domownika, składki na ubezpieczenia społeczne rolników – wypadkowe, chorobowe, macierzyńskie oraz emerytalno-rentowe – pod warunkiem terminowego opłacenia tych składek w całości.
 
 **Art. 25b.**
 
@@ -52,7 +214,7 @@ source: "isap-pdf"
 
 3. Informacje, o których mowa w ust. 1 pkt 3, składa pracodawca wykonujący działalność gospodarczą, w rozumieniu przepisów o swobodzie działalności gospodarczej.
 
-4. Informacje i wniosek, o których mowa w ust. 1, pracodawca, osoba wykonująca działalność gospodarczą oraz niepełnosprawny rolnik lub rolnik zobowiązany do opłacania składek za niepełnosprawnego domownika zwany dalej „wnioskodawcą”, przekazują w formie dokumentu elektronicznego przez teletransmisję danych formacji lub wniosku. Wnioskodawca może przekazywać informacje i wniosek również w formie dokumentu pisemnego.
+4. Informacje i wniosek, o których mowa w ust. 1, pracodawca, osoba wykonująca działalność gospodarczą oraz niepełnosprawny rolnik lub rolnik zobowiązany do opłacania składek za niepełnosprawnego domownika zwany dalej „wnioskodawcą”, przekazują w formie dokumentu elektronicznego przez teletransmisję danych oraz pobierają drogą elektroniczną potwierdzenie wysłanej informacji lub wniosku. Wnioskodawca może przekazywać informacje i wniosek również w formie dokumentu pisemnego.
 
 5. W terminie 7 dni od dnia otrzymania wniosku Fundusz przekazuje na rachunek bankowy wnioskodawcy kwoty refundacji składek na ubezpieczenia społeczne w wysokości ustalonej na podstawie ust. 1-4, art. 25a i 25b oraz informuje wnioskodawcę o sposobie jej ustalenia.
 
@@ -72,7 +234,7 @@ source: "isap-pdf"
 
 2. Od decyzji Prezesa Zarządu Funduszu, o których mowa w ust. 1 i art. 25c ust. 6-8, przysługuje odwołanie do ministra właściwego do spraw zabezpieczenia społecznego.
 
-3. W przypadku konieczności przeprowadzenia kontroli, o której mowa w ust. 1, Fundusz może nieodpłatnie korzystać z danych Rolniczego Ubezpieczenia Społecznego.
+3. W przypadku konieczności przeprowadzenia kontroli, o której mowa w ust. 1, Fundusz może nieodpłatnie korzystać z danych zgromadzonych przez Zakład Ubezpieczeń Społecznych lub Kasę Rolniczego Ubezpieczenia Społecznego.
 
 4. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia:
 
@@ -87,7 +249,7 @@ source: "isap-pdf"
 - **1)** 130% najniższego wynagrodzenia – w przypadku osób niepełnosprawnych zaliczonych do znacznego stopnia niepełnosprawności,
 - **2)** 110% najniższego wynagrodzenia – w przypadku osób niepełnosprawnych zaliczonych do umiarkowanego stopnia niepełnosprawności,
 - **3)** 50% najniższego wynagrodzenia – w przypadku osób niepełnosprawnych zaliczonych do lekkiego stopnia niepełnosprawności.”,
-    - **b)** ust. 8 otrzymuje brzmienie: szu przekraczające ogółem kwotę 100 złotych, Prezes Zarządu Funduszu wydaje decyzję o wstrzymaniu miesięcznego dofinansowania do czasu uregulowania zaległości przez pracodawcę. Decyzja podlega wykonaniu z dniem wydania.”,
+    - **b)** ust. 8 otrzymuje brzmienie: „8. Jeżeli pracodawca posiada zaległości w zobowiązaniach wobec Funduszu przekraczające ogółem kwotę 100 złotych, Prezes Zarządu Funduszu wydaje decyzję o wstrzymaniu miesięcznego dofinansowania do czasu uregulowania zaległości przez pracodawcę. Decyzja podlega wykonaniu z dniem wydania.”,
     - **c)** po ust. 8 dodaje się ust. 9-12 w brzmieniu: „9. W przypadku nieuregulowania przez pracodawcę zaległości wobec Funduszu do dnia 31 stycznia roku następującego po roku, za który pracodawcy przysługuje miesięczne dofinansowanie, Prezes Zarządu Funduszu wydaje decyzję o odmowie wypłaty miesięcznego dofinansowania za okres wskazany w decyzji, o której mowa w ust. 8.
 
 10. Prezes Zarządu Funduszu może przeprowadzać kontrole pracodawcy w zakresie miesięcznego dofinansowania, w szczególności dotyczące ustalania wysokości miesięcznego dofinansowania i wypłaty wynagrodzeń pracowników niepełnosprawnych.
@@ -108,7 +270,7 @@ source: "isap-pdf"
 1b. Informacje, o których mowa w ust. 1 pkt 3, składa pracodawca wykonują cy działalność gospodarczą, w rozumieniu przepisów o swobodzie działalności gospodarczej.”,
 
 - **b)** uchyla się ust. 2,
-- **c)** ust. 3 i 4 otrzymują brzmienie: „3. W terminie 7 dni od dnia otrzymania wniosku Fundusz przekazuje na rachunek bankowy pracodawcy dofinansowanie w kwocie ustalonej na lenia.
+- **c)** ust. 3 i 4 otrzymują brzmienie: „3. W terminie 7 dni od dnia otrzymania wniosku Fundusz przekazuje na rachunek bankowy pracodawcy dofinansowanie w kwocie ustalonej na podstawie art. 26a i 26b oraz informuje pracodawcę o sposobie jej ustalenia.
 
 4. W przypadku gdy ustalona przez Fundusz kwota dofinansowania jest inna niż kwota dofinansowania wykazana we wniosku pracodawcy, Prezes Zarządu Funduszu wydaje decyzję o wysokości dofinansowania, na wniosek pracodawcy złożony w terminie 14 dni od dnia otrzymania informacji o ustaleniu wysokości przysługującego dofinansowania do wynagrodzenia.”,
 
@@ -120,7 +282,9 @@ source: "isap-pdf"
 - **3)** wzór formularza rozliczenia, o którym mowa w ust. 5,
 - **4)** wymogi, jakie muszą spełniać pracodawcy przekazując dokumenty w formie elektronicznej przez teletransmisję danych – uwzględniając potrzebę zapewnienia jednolitych warunków niezbędnych dla prawidłowego przekazywania dokumentów oraz racjonalne gospodarowanie środkami Funduszu.”;
 - **19)** po art. 26c dodaje się art. 26c w brzmieniu: „Art. 26c . Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowe warunki udzielania pomocy określonej w art. 25a ust. 2-5 oraz art. 26a ust. 2 i 3, pracodawcom wykonującym działalność gospodarczą, w rozumieniu przepisów o swobodzie działalności gospodarczej, mając na uwadze konieczność zapewnienia zgodności udzielania pomocy z warunkami dopuszczalności pomocy na zatrudnienie, oraz osobom niepełnosprawnym wykonującym działalność gospodarczą lub niepełnosprawnym rolnikom albo rolnikom zobowiązanym do opłacania składek za niepełnosprawnego domownika w ramach zasady de minimis, w tym także sposób przedstawiania informacji o otrzymanej pomocy publicznej lub zaświadczeń o pomocy de minimis.”;
-- **20)** po art. 26d dodaje się art. 26e i 26f w brzmieniu: „Art. 26e. 1. Pracodawca, który przez okres co najmniej 36 miesięcy zatrudni osobę niepełnosprawną zarejestrowaną w powiatowym urzędzie pracy jako bezrobotna albo poszukująca pracy niepozostającą w zatrudnieniu, może otrzymać, na wniosek, ze środków Funduszu zwrot kosztów wyposażenia stanowiska pracy do wysokości piętnastokrotnego przeciętnego wynagrodzenia. warunkach i w wysokości określonych umową zawartą z pracodawcą, z tym że zwrotowi nie podlegają koszty poniesione przed dniem zawarcia umowy.
+- **20)** po art. 26d dodaje się art. 26e i 26f w brzmieniu: „Art. 26e. 1. Pracodawca, który przez okres co najmniej 36 miesięcy zatrudni osobę niepełnosprawną zarejestrowaną w powiatowym urzędzie pracy jako bezrobotna albo poszukująca pracy niepozostającą w zatrudnieniu, może otrzymać, na wniosek, ze środków Funduszu zwrot kosztów wyposażenia stanowiska pracy do wysokości piętnastokrotnego przeciętnego wynagrodzenia.
+
+2. Zwrotu kosztów, o których mowa w ust. 1, dokonuje starosta na warunkach i w wysokości określonych umową zawartą z pracodawcą, z tym że zwrotowi nie podlegają koszty poniesione przed dniem zawarcia umowy.
 
 3. Umowy z pracodawcą, którym jest starosta, zawiera Prezes Zarządu Funduszu.
 
@@ -141,7 +305,7 @@ source: "isap-pdf"
 
 **Art. 26f.**
 
-1. Pracodawca, który zatrudni przez okres co najmniej 12 miesięcy osobę niepełnosprawną zarejestrowaną w powiatowym urzędzie zatrudnieniu, może otrzymać, na wniosek, ze środków Funduszu zwrot 60%:
+1. Pracodawca, który zatrudni przez okres co najmniej 12 miesięcy osobę niepełnosprawną zarejestrowaną w powiatowym urzędzie pracy jako bezrobotna albo poszukująca pracy niepozostającą w zatrudnieniu, może otrzymać, na wniosek, ze środków Funduszu zwrot 60%:
 
 - **1)** jej wynagrodzenia przed opodatkowaniem podatkiem dochodowym oraz
 - **2)** obowiązkowych składek na ubezpieczenia społeczne od tego wynagrodzenia – za okres jednego roku od dnia jej zatrudnienia.
@@ -161,7 +325,9 @@ source: "isap-pdf"
 - **3)** sposób i terminy rozpatrywania wniosków, o których mowa w ust. 1,
 - **4)** formy zabezpieczenia zwrotu otrzymanej refundacji w przypadku niedotrzymania warunków umowy dotyczącej ich przyznania – mając na względzie zwiększenie poziomu zatrudnienia osób niepełnosprawnych, racjonalne gospodarowanie środkami Funduszu oraz prawidłowe dokonywanie zwrotu wynagrodzenia i obowiązkowych składek na ubezpieczenia społeczne, zgodnie z warunkami dopuszczalności pomocy na zatrudnienie.”;
 - **21)** w art. 29:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Gmina, powiat oraz fundacja, stowarzyszenie lub inna organizacja społeczna, której statutowym zadaniem jest rehabilitacja zawodowa i społeczna osób niepełnosprawnych, może utworzyć wyodrębnioną organizacyjnie i finansowo jednostkę i uzyskać dla tej jednostki status zakładu aktywności zawodowej, jeżeli: nowią osoby niepełnosprawne, w szczególności skierowane do pracy przez powiatowe urzędy pracy:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Gmina, powiat oraz fundacja, stowarzyszenie lub inna organizacja społeczna, której statutowym zadaniem jest rehabilitacja zawodowa i społeczna osób niepełnosprawnych, może utworzyć wyodrębnioną organizacyjnie i finansowo jednostkę i uzyskać dla tej jednostki status zakładu aktywności zawodowej, jeżeli:
+
+- **1)** co najmniej 70% ogółu osób zatrudnionych w tej jednostce stanowią osoby niepełnosprawne, w szczególności skierowane do pracy przez powiatowe urzędy pracy:
     - **a)** zaliczone do znacznego stopnia niepełnosprawności,
     - **b)** zaliczone do umiarkowanego stopnia niepełnosprawności, u których stwierdzono autyzm, upośledzenie umysłowe lub chorobę psychiczną, w tym osób, w stosunku do których rada programowa, o której mowa w art. 10a ust. 4, zajęła stanowisko uzasadniające podjęcie zatrudnienia i kontynuowanie rehabilitacji zawodowej w warunkach pracy chronionej,
 
@@ -180,7 +346,7 @@ source: "isap-pdf"
 - **2)** do dnia 20 lutego – za drugie półrocze.”;
 - **23)** w art. 33:
     - **a)** w ust. 3 pkt 3 otrzymuje brzmienie: „3) przekazywania środków funduszu rehabilitacji na rachunek, o którym mowa w pkt 2, w terminie 7 dni od dnia, w którym środki te uzyskano,”,
-    - **b)** ust. 4 otrzymuje brzmienie: tacji zawodowej, społecznej i leczniczej, w tym na indywidualne programy rehabilitacji osób niepełnosprawnych opracowywane przez powołane przez pracodawców komisje rehabilitacyjne oraz ubezpieczenie osób niepełnosprawnych, zgodnie z zakładowym regulaminem wykorzystania tych środków.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Środki funduszu rehabilitacji są przeznaczane na finansowanie rehabilitacji zawodowej, społecznej i leczniczej, w tym na indywidualne programy rehabilitacji osób niepełnosprawnych opracowywane przez powołane przez pracodawców komisje rehabilitacyjne oraz ubezpieczenie osób niepełnosprawnych, zgodnie z zakładowym regulaminem wykorzystania tych środków.”,
     - **c)** w ust. 4a pkt 2 otrzymuje brzmienie: „2) wpłaty w wysokości 30% tych środków na Fundusz w terminie do 20 dnia miesiąca następującego po miesiącu, w którym nastąpiło ujawnienie niezgodnego z ustawą przeznaczenia środków funduszu rehabilitacji, a także niedotrzymanie terminu, o którym mowa w ust. 3 pkt 3.”,
     - **d)** ust. 7b otrzymuje brzmienie: „7b. W przypadku utraty statusu zakładu pracy chronionej i osiągania stanu zatrudnienia ogółem w wysokości co najmniej 15 pracowników w przeliczeniu na pełny wymiar czasu pracy oraz wskaźnika zatrudnienia osób niepełnosprawnych w wysokości co najmniej 25%, pracodawca zachowuje fundusz rehabilitacji i niewykorzystane środki tego funduszu.”,
     - **e)** uchyla się ust. 7c i 7d,
@@ -193,7 +359,7 @@ source: "isap-pdf"
 - **5)** warunki tworzenia indywidualnych programów rehabilitacji, w tym skład i zakres działania komisji rehabilitacyjnej tworzącej te programy – mając na względzie prawidłowe wykorzystanie środków tego funduszu.”;
 - **24)** w art. 34 ust. 9 otrzymuje brzmienie: „9. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, tryb i sposób przeprowadzania kontroli przez organy upoważnione do kontroli na podstawie art. 6c ust. 2 pkt 1 i 2, art. 25d ust. 1, art. 26a ust. 10, art. 30 ust. 3b i art. 34 ust. 5, uwzględniając potrzebę zapewnienia jednolitej procedury kontroli oraz prawidłowego przebiegu kontroli.”;
 - **25)** w art. 35a w ust. 1:
-    - **a)** po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) finansowanie z Funduszu wydatków na instrumenty lub usługi rynku pracy określone w ustawie o promocji, w odniesieniu do osób niepełnozatrudnieniu,”,
+    - **a)** po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) finansowanie z Funduszu wydatków na instrumenty lub usługi rynku pracy określone w ustawie o promocji, w odniesieniu do osób niepełnosprawnych zarejestrowanych jako poszukujące pracy niepozostające w zatrudnieniu,”,
     - **b)** po pkt 9 dodaje się pkt 9a-9c w brzmieniu: „9a) przyznawanie środków, o których mowa w art. 12a, 9b) realizacja zadań, o których mowa w art. 26 i art. 26d-26f, 9c) zlecanie zadań zgodnie z art. 36,”;
 
 - **26)** art. 36 otrzymuje brzmienie: „Art. 36. 1. Zadania z zakresu rehabilitacji zawodowej i społecznej osób niepełnosprawnych mogą być realizowane na zlecenie Funduszu przez fundacje oraz organizacje pozarządowe.
@@ -210,7 +376,8 @@ source: "isap-pdf"
     - **c)** po ust. 4 dodaje się ust. 5 w brzmieniu: „5. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, warunki i tryb dokonywania refundacji kosztów szkolenia, mając na względzie zapewnienie skuteczności udzielanej pomocy oraz prawidłowe dokonywanie refundacji zgodnie z warunkami dopuszczalności pomocy na szkolenia.”;
 
 - **28)** w art. 42 ust. 3 otrzymuje brzmienie: „3. Do zakresu działania Rady należy:
-- **1)** przedstawianie Pełnomocnikowi: pełnosprawnych,
+- **1)** przedstawianie Pełnomocnikowi:
+    - **a)** propozycji przedsięwzięć zmierzających do integracji osób niepełnosprawnych,
     - **b)** propozycji rozwiązań w zakresie zaspokajania potrzeb osób niepełnosprawnych, wynikających z niepełnosprawności,
     - **c)** opinii do dokumentów przedkładanych Radzie przez Pełnomocnika, w tym do projektów: – aktów prawnych mających lub mogących mieć wpływ na sytuację osób niepełnosprawnych, planów finansowych oraz sprawozdań Funduszu, – rządowych programów działań na rzecz osób niepełnosprawnych oraz informacji o ich realizacji,
     - **d)** rocznych informacji o działalności Rady,
@@ -225,7 +392,7 @@ source: "isap-pdf"
     - **a)** ust. 1 otrzymuje brzmienie: „1. Wydatki związane z obsługą Rady są finansowane ze środków urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, sposób i tryb działania Rady, w tym jej organizację, mając na względzie zapewnienie sprawnego funkcjonowania Rady.”;
 
-- **31)** w art. 44c ust. 9 otrzymuje brzmienie: mogą być finansowane, odpowiednio z budżetu samorządu województwa i powiatu, koszty ich przejazdów publicznymi środkami komunikacji, na zasadach określonych w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.”;
+- **31)** w art. 44c ust. 9 otrzymuje brzmienie: „9. Na wniosek członków rad zamieszkałych poza miejscem obrad rady mogą być finansowane, odpowiednio z budżetu samorządu województwa i powiatu, koszty ich przejazdów publicznymi środkami komunikacji, na zasadach określonych w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.”;
 - **32)** w art. 45 ust. 1 otrzymuje brzmienie: „1. Fundusz jest państwowym funduszem celowym, w rozumieniu przepisów o finansach publicznych.”;
 - **33)** w art. 46 pkt 7 otrzymuje brzmienie: „7) wpłaty, o których mowa w art. 12a ust. 2, art. 26 ust. 7, art. 26e ust. 6, art. 26f ust. 3 oraz spłaty pożyczek udzielonych z Funduszu na rozpoczęcie działalności gospodarczej albo rolniczej, wraz z oprocentowaniem, a także zwroty środków pobranych przez pracodawców z Funduszu na szkolenie osoby niepełnosprawnej, która z przyczyn dotyczących pracodawcy nie będzie zatrudniona zgodnie z kierunkiem szkolenia lub będzie zatrudniana przez okres krótszy niż 24 miesiące, wraz z odsetkami,”;
 - **34)** w art. 46a w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) na zadanie, o którym mowa w art. 25a ust. 2 pkt 2 i ust. 3 pkt 2 lit. a i b – w wysokości zapewniającej jego realizację,”;
@@ -238,7 +405,7 @@ source: "isap-pdf"
     - **c)** uchyla się ust. 4 i 6;
 
 - **36)** w art. 49:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Do wpłat, o których mowa w art. 21 ust. 1, art. 23, art. 31 ust. 3 pkt 1 i art. 33 ust. 4a, 7 i 7a, stosuje się odpowiednio, z zastrzeżeniem ust. 5a5d oraz art. 49a i 49b, przepisy ustawy z dnia 29 sierpnia 1997 r. – Ornej dalej „Ordynacją podatkową”, z tym że uprawnienia organów podatkowych określone w tej ustawie przysługują Prezesowi Zarządu Funduszu.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Do wpłat, o których mowa w art. 21 ust. 1, art. 23, art. 31 ust. 3 pkt 1 i art. 33 ust. 4a, 7 i 7a, stosuje się odpowiednio, z zastrzeżeniem ust. 5a5d oraz art. 49a i 49b, przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm. ), zwanej dalej „Ordynacją podatkową”, z tym że uprawnienia organów podatkowych określone w tej ustawie przysługują Prezesowi Zarządu Funduszu.”,
     - **b)** uchyla się ust. 5,
     - **c)** po ust. 5 dodaje się ust. 5a-5d w brzmieniu: „5a. Zaległości z tytułu wpłat, odsetki za zwłokę lub opłata prolongacyjna, mogą być umarzane w całości lub w części decyzją Prezesa Zarządu Funduszu wyłącznie w przypadku ich całkowitej nieściągalności.
 
@@ -254,7 +421,8 @@ source: "isap-pdf"
 
 5c. Prezes Zarządu Funduszu, w drodze decyzji, na wniosek pracodawcy, w przypadku uzasadnionym ważnym interesem pracodawcy lub interesem publicznym może:
 
-- **1)** odroczyć termin płatności należności lub roz łożyć ich zapłatę na raty, zwłokę lub rozłożyć ich zapłatę na raty – uwzględniając możliwości płatnicze pracodawcy oraz stan finansów Funduszu.
+- **1)** odroczyć termin płatności należności lub roz łożyć ich zapłatę na raty,
+- **2)** odroczyć termin płatności zaległości z tytułu wpłat, odsetek za zwłokę lub rozłożyć ich zapłatę na raty – uwzględniając możliwości płatnicze pracodawcy oraz stan finansów Funduszu.
 
 5d. W przypadku wydania decyzji, o której mowa w ust. 5c, naliczana jest opłata prolongacyjna, na zasadach określonych w Ordynacji podatkowej.”;
 
@@ -266,9 +434,19 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ) w art. 17 ust. 3a otrzymuje brzmienie: „3a. Obowiązkiem gminy jest:
 
+- **1)** zapewnienie uczniom niepełnosprawnym, których kształcenie i wychowanie odbywa się na podstawie art. 71b, bezpłatnego transportu i opieki w czasie przewozu do najbliższej szkoły podstawowej i gimnazjum, a uczniom z niepełnosprawnością ruchową, upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym - także do najbliższej szkoły ponadgimnazjalnej, nie dłużej jednak niż do ukończenia 21 roku życia;
+- **2)** zapewnienie dzieciom i młodzieży, o których mowa w art. 16 ust. 7, a także dzieciom i młodzieży z upośledzeniem umysłowym ze sprzężonymi niepełnosprawnościami, bezpłatnego transportu i opieki w czasie przewozu do ośrodka umożliwiającego tym dzieciom i młodzieży realizację obowiązku szkolnego i obowiązku nauki, nie dłużej jednak niż do ukończenia 25 roku życia;
+- **3)** zwrot kosztów przejazdu ucznia, o którym mowa w pkt 1 i 2, oraz jego opiekuna do szkoły lub ośrodka, wymienionych w pkt 1 i 2, na zasadach określonych w umowie zawartej między wójtem, burmistrzem, prezydentem miasta i rodzicami, opiekunami lub opiekunami prawnymi ucznia, jeżeli dowożenie i opiekę zapewniają rodzice, opiekunowie lub opiekunowie prawni.”.
+
 **Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz.U. z 2007 r. Nr 11, poz. 74, Nr 17, poz. 95, Nr 21, poz. 125 i Nr 112, poz. 769) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm. ) wprowadza się następujące zmiany: „2a) otrzymał jednorazowo środki z Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych lub instytucji z udziałem środków publicznych na podjęcie działalności gospodarczej, rolniczej lub na wniesienie wkładu do spółdzielni socjalnej;”;
+- **1)** w art. 16 uchyla się ust. 13 i 14,
+- **2)** w art. 17 ust. 1 otrzymuje brzmienie: „1. Składki na ubezpieczenia emerytalne, rentowe, wypadkowe oraz chorobowe za ubezpieczonych, o których mowa w art. 16 ust. 1-3, 5, 6 i 9-12, obliczają, rozliczają i przekazują co miesiąc do Zakładu w całości płatnicy składek.”.
+
+**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 33 w ust. 4 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) otrzymał jednorazowo środki z Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych lub instytucji z udziałem środków publicznych na podjęcie działalności gospodarczej, rolniczej lub na wniesienie wkładu do spółdzielni socjalnej;”;
+- **2)** art. 105 otrzymuje brzmienie: „Art. 105. Przedsiębiorcy Polskiego Związku Głuchych i Polskiego Związku Niewidomych oraz Związku Ociemniałych Żołnierzy Rzeczypospolitej Polskiej, Towarzystwo Opieki nad Ociemniałymi, Zakład Opieki dla Niewidomych w Laskach oraz zakłady aktywności zawodowej nie opłacają składek na Fundusz Pracy za zatrudnionych pracowników o znacznym lub umiarkowanym stopniu niepełnosprawności.”.
 
 **Art. 7.** W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm. ) w art. 22 w ust. 6 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) sfinansowanie wydatków stanowiących koszty, o których mowa w art. 26 ust. 1 pkt 1-2 oraz w art. 26e ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. Nr 123, poz. 776, z późn. zm. ).”.
 
@@ -277,6 +455,9 @@ source: "isap-pdf"
 **Art. 9.** Orzeczenie o niezdolności do samodzielnej egzystencji wydane przed dniem wejścia w życie niniejszej ustawy, ustalone na podstawie art. 13 ust. 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm. ), jest traktowane na równi z orzeczeniem o znacznym stopniu niepełnosprawności.
 
 **Art. 10.** Na wniosek osoby, która otrzymała pożyczkę na rozpoczęcie działalności gospodarczej albo rolniczej ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, starosta może:
+
+- **1)** umorzyć do 50% kwoty pożyczki – pod warunkiem prowadzenia przez dłużnika działalności gospodarczej albo rolniczej przez okres co najmniej 24 miesięcy oraz po spełnieniu pozostałych warunków umowy,
+- **2)** odroczyć termin spłaty pożyczki, rozłożyć jej spłatę na raty lub umorzyć spłatę w części albo w całości, jeżeli pożyczka stała się wymagalna – w przypadku uzasadnionym trudną sytuacją materialną lub losową dłużnika – zgodnie z warunkami dopuszczalności pomocy de minimis.
 
 **Art. 11.**
 
@@ -289,6 +470,9 @@ source: "isap-pdf"
 **Art. 13.** W 2007 r. Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych otrzymuje dotację celową z budżetu państwa na realizację zadania, o którym mowa w art. 26a ustawy wymienionej w art. 1, w wysokości do 25% środków zapewniających jego realizację.
 
 **Art. 14.** W zakresie dofinansowania do wynagrodzeń pracowników niepełnosprawnych, o którym mowa w art. 26a ustawy wymienionej w art. 1, przysługującego za okres do dnia 31 grudnia 2007 r., pracodawcy składają:
+
+- **1)** miesięczne informacje, o których mowa w art. 26c ust. 1 pkt 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą - w terminie do 20 dnia miesiąca następującego po miesiącu, którego informacja dotyczy;
+- **2)** wniosek, o którym mowa w art. 26c ust. 1 pkt 2 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, za dwa miesiące - w terminie do 20 dnia miesiąca następującego po miesiącach, których wniosek dotyczy.
 
 **Art. 15.**
 
@@ -307,4 +491,9 @@ source: "isap-pdf"
 **Art. 20.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 26c ust. 6, art. 29 ust. 2 i 4, art. 30 ust. 8, art. 33 ust. 11, art. 34 ust. 9, art. 36 ust. 2 i art. 44 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 26c ust. 6, art. 29 ust. 4, art. 30 ust. 8, art. 33 ust. 11, art. 34 ust. 9, art. 36 ust. 4 i art. 44 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 21.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 5 i art. 13, które wchodzą w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2007 r.,
+- **2)** art. 1 pkt 14, 15, 17 lit. a i pkt 34 oraz art. 5, 11 i 12, które wchodzą w życie z dniem 1 stycznia 2008 r.,
+- **3)** art. 8, który wchodzi w życie z dniem 30 czerwca 2007 r.
+
 

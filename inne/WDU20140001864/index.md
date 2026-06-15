@@ -84,7 +84,7 @@ b) w przypadku gdy stawka WIBID nie jest publikowana dla danego okresu depozytu 
 § 16. 1. W przypadku wolnych środków, które nie zostały przekazane w zarządzanie terminowe i nie zostały wydatkowane w danym dniu do godz. 15 , dysponent przekazuje BGK stałe zlecenie przekazywania każdego dnia roboczego z rachunku państwowego funduszu celowego w BGK takich środków w zarządzanie overnight.
 2. Przekazanie wolnych środków w zarządzanie overnight nie wymaga złożenia dyspozycji.
 § 17. 1. Wolne środki przekazane Ministrowi Finansów w zarządzanie terminowe są oprocentowane na zasadach, o których mowa w § 7.
-2. Wolne środki przekazane Ministrowi Finansów w zarządzanie overnight są oprocentowane na zasadach, o których mowa w § 8.
+2. Wolne środki przekazane Ministrowi Finansów w zarządzanie overnight są oprocentowane na zasadach, o których mowa § 8.
 3. Odsetki od środków przekazanych w zarządzanie terminowe i zarządzanie overnight nie podlegają kapitalizacji.
 § 18. 1. Minister Finansów zwraca środki przekazane w zarządzanie terminowe wraz z odsetkami do godz. 9 w dniu zwrotu środków przekazanych w zarządzanie określonym w dyspozycji przekazania środków w zarządzanie terminowe, na rachunek państwowego funduszu celowego w BGK, z którego te środki zostały przekazane w zarządzanie.
 2. W przypadku gdy dzień zwrotu środków przekazanych w zarządzanie nie jest dniem roboczym, środki są zwracane przez Ministra Finansów w pierwszym dniu roboczym następującym po tym dniu.

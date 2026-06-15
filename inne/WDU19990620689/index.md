@@ -8,7 +8,7 @@ pos: 689
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Polskiej Organizacji Turystycznej
@@ -112,6 +112,9 @@ Art. 21–23. (pominięte)
 #### Rozdział 2 Organy Polskiej Organizacji Turystycznej
 
 **Art. 5.** Organami Polskiej Organizacji Turystycznej są:
+
+- **1)** Rada Polskiej Organizacji Turystycznej;
+- **2)** Prezes Polskiej Organizacji Turystycznej.
 
 **Art. 6.**
 

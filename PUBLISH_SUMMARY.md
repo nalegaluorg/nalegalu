@@ -1,52 +1,51 @@
 # Publish Summary
 
-Generated: 2026-06-14 20:33 UTC
+Generated: 2026-06-15 18:50 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
-| Published | 18095 |
-| Updated/new | 7 |
-| Unchanged | 12967 |
+| Published | 18553 |
+| Updated/new | 566 |
+| Unchanged | 12857 |
 | Skipped incomplete orzeczenia | 0 |
-| Skipped regressions | 5121 |
-| Blocked by quality gate | 819 |
-| Rejected (total incl. errors) | 443 |
-| Total in DB | 19453 |
+| Skipped regressions | 5130 |
+| Blocked by quality gate | 668 |
+| Rejected (total incl. errors) | 414 |
+| Total in DB | 19455 |
 
 ## Changes vs previous publish
 
 | Metric | Previous | Current | Delta |
 |--------|----------|---------|-------|
-| Published | 13591 | 18095 | +4504 |
-| Rejected | 495 | 443 | -52 |
-| Articles | 192290 | 123869 | -68421 |
-| Body chars | 458,239,478 | 459,762,225 | +1522747 |
+| Published | 18095 | 18553 | +458 |
+| Rejected | 443 | 414 | -29 |
+| Articles | 123869 | 171975 | +48106 |
+| Body chars | 459,762,225 | 537,534,130 | +77771905 |
 
 ## Quality gate breakdown
 
 | Issue type | Count |
 |------------|-------|
-| pipeline error | 317 |
-| character-spaced | 245 |
+| character-spaced | 246 |
+| pipeline error | 167 |
 | repetition | 117 |
-| article structure | 80 |
+| article structure | 79 |
 | CID font | 71 |
 | PostScript CE | 5 |
 | other | 2 |
 | missing diacritics | 1 |
 | ELI placeholder | 1 |
-| round-trip | 1 |
 
 ## Act type breakdown
 
 | Value | Count |
 |-------|------:|
-| Rozporządzenie | 10269 |
-| Ustawa | 4238 |
-| Obwieszczenie | 2033 |
-| Orzeczenie | 1161 |
+| Rozporządzenie | 10270 |
+| Ustawa | 4568 |
+| Obwieszczenie | 2112 |
+| Orzeczenie | 1209 |
 | Umowa międzynarodowa | 329 |
 | Protokół | 18 |
 | Uchwała | 10 |
@@ -63,10 +62,10 @@ Generated: 2026-06-14 20:33 UTC
 
 | Value | Count |
 |-------|------:|
-| obowiązujący | 10812 |
-| akt objęty tekstem jednolitym | 5051 |
-| akt posiada tekst jednolity | 1713 |
-| nieobowiązujący - uchylona podstawa prawna | 513 |
+| obowiązujący | 11091 |
+| akt objęty tekstem jednolitym | 5079 |
+| akt posiada tekst jednolity | 1863 |
+| nieobowiązujący - uchylona podstawa prawna | 514 |
 | wygaśnięcie aktu | 4 |
 | uznany za uchylony | 2 |
 
@@ -76,27 +75,61 @@ PDF type counts come from the local/candidate document metadata. If a regression
 
 | Value | Count |
 |-------|------:|
-| O | 11966 |
-| T | 4829 |
-| U | 1281 |
-| unknown | 19 |
+| O | 11972 |
+| T | 4984 |
+| U | 1584 |
+| unknown | 13 |
 
 ## Unified text candidate PDF type breakdown
 
 | Value | Count |
 |-------|------:|
-| O | 4937 |
-| T | 1138 |
-| U | 680 |
-| unknown | 9 |
+| O | 4943 |
+| T | 1162 |
+| U | 834 |
+| unknown | 3 |
 
 ## Source downgrade skips
 
 | Issue | Count |
 |-------|------:|
-| Original PDF candidate for unified act | 4937 |
+| Original PDF candidate for unified act | 4943 |
 
-## Blocked acts (819)
+## Fixed — no longer rejected (29)
+
+| Address |
+|---------|
+| WDU19961520723 |
+| WDU19981170759 |
+| WDU20010040031 |
+| WDU20021080945 |
+| WDU20021351144 |
+| WDU20021521265 |
+| WDU20030060064 |
+| WDU20030520452 |
+| WDU20031371301 |
+| WDU20031921873 |
+| WDU20031931884 |
+| WDU20050940786 |
+| WDU20051411183 |
+| WDU20060520378 |
+| WDU20060660473 |
+| WDU20071230848 |
+| WDU20071360958 |
+| WDU20080470273 |
+| WDU20090690593 |
+| WDU20090950792 |
+| WDU20092141658 |
+| WDU20101480990 |
+| WDU20102471650 |
+| WDU20110060019 |
+| WDU20111090627 |
+| WDU20111681001 |
+| WDU20112301372 |
+| WDU20150001615 |
+| WDU20240000558 |
+
+## Blocked acts (668)
 
 | Address | Issues |
 |---------|--------|
@@ -128,7 +161,6 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU19740240142 | missing article structure — act type requires Art. |
 | WDU19820110081 | missing article structure — act type requires Art. |
 | WDU19820110082 | missing article structure — act type requires Art. |
-| WDU19830380173 | rendered round-trip failed: AST=109 rendered=109 l |
 | WDU19830440203 | rendered round-trip failed: AST=5 rendered=6 missi |
 | WDU19840340184 | missing article structure — act type requires Art. |
 | WDU19840350187 | missing article structure — act type requires Art. |
@@ -175,7 +207,6 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU19900730431 | missing article structure — act type requires Art. |
 | WDU19900790466 | character-spaced text — 1 line(s) with >30% single |
 | WDU19900870505 | rendered round-trip failed: AST=7 rendered=6 low_s |
-| WDU19910220091 | rendered round-trip failed: AST=189 rendered=189 l |
 | WDU19910750329 | rendered round-trip failed: AST=16 rendered=0 miss |
 | WDU19911030448 | missing article structure — act type requires Art. |
 | WDU19911100475 | missing article structure — act type requires Art. |
@@ -188,7 +219,6 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU19940680294 | missing article structure — act type requires Art. |
 | WDU19940870406 | missing article structure — act type requires Art. |
 | WDU19941360704 | character-spaced text — 1 line(s) with >30% single |
-| WDU19950130060 | rendered round-trip failed: AST=15 rendered=0 miss |
 | WDU19950160079 | missing article structure — act type requires Art. |
 | WDU19950280143 | missing article structure — act type requires Art. |
 | WDU19950500261 | missing article structure — act type requires Art. |
@@ -196,7 +226,6 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU19950850426 | missing article structure — act type requires Art. |
 | WDU19950950473 | missing article structure — act type requires Art. |
 | WDU19950960478 | rendered round-trip failed: AST=27 rendered=59 mis |
-| WDU19951040515 | rendered round-trip failed: AST=13 rendered=46 mis |
 | WDU19951110539 | character-spaced text — 1 line(s) with >30% single |
 | WDU19960010001 | missing article structure — act type requires Art. |
 | WDU19960060041 | character-spaced text — 1 line(s) with >30% single |
@@ -208,19 +237,15 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU19961270593 | rendered round-trip failed: AST=11 rendered=19 mis |
 | WDU19961470686 | missing article structure — act type requires Art. |
 | WDU19961490704 | character-spaced text — 2 line(s) with >30% single; missing article structure — act type requires Art. |
-| WDU19961520723 | rendered round-trip failed: AST=48 rendered=48 mis |
 | WDU19970300165 | missing article structure — act type requires Art. |
 | WDU19970430271 | missing article structure — act type requires Art. |
 | WDU19970800494 | missing article structure — act type requires Art. |
 | WDU19970800508 | missing article structure — act type requires Art. |
-| WDU19970900557 | rendered round-trip failed: AST=408 rendered=408 m |
 | WDU19970930569 | missing article structure — act type requires Art. |
 | WDU19971010628 | rendered round-trip failed: AST=12 rendered=12 low |
 | WDU19971020642 | character-spaced text — 2 line(s) with >30% single; missing article structure — act type requires Art. |
 | WDU19971100715 | missing article structure — act type requires Art. |
 | WDU19971110726 | character-spaced text — 1 line(s) with >30% single |
-| WDU19971240782 | rendered round-trip failed: AST=11 rendered=7 miss |
-| WDU19971370926 | rendered round-trip failed: AST=627 rendered=627 m |
 | WDU19971581042 | missing article structure — act type requires Art. |
 | WDU19971601079 | missing article structure — act type requires Art. |
 | WDU19980460293 | character-spaced text — 1 line(s) with >30% single |
@@ -228,203 +253,77 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU19981080683 | missing article structure — act type requires Art. |
 | WDU19981130714 | missing article structure — act type requires Art. |
 | WDU19981130715 | missing article structure — act type requires Art. |
-| WDU19981170756 | rendered round-trip failed: AST=22 rendered=74 mis |
-| WDU19981170757 | rendered round-trip failed: AST=3 rendered=23 extr |
 | WDU19981170758 | missing article structure — act type requires Art. |
-| WDU19981170759 | rendered round-trip failed: AST=10 rendered=10 low |
 | WDU19990130114 | character-spaced text — 1 line(s) with >30% single |
 | WDU19990410418 | excessive repetition — '.......................... |
-| WDU19990490484 | rendered round-trip failed: AST=13 rendered=20 mis |
 | WDU19991011182 | character-spaced text — 1 line(s) with >30% single |
-| WDU20000190238 | rendered round-trip failed: AST=21 rendered=8 miss |
 | WDU20000480552 | rendered round-trip failed: AST=13 rendered=0 miss |
 | WDU20000600702 | rendered round-trip failed: AST=18 rendered=22 mis |
-| WDU20000860958 | rendered round-trip failed: AST=28 rendered=29 mis |
-| WDU20001071127 | rendered round-trip failed: AST=13 rendered=12 mis |
 | WDU20001141190 | rendered round-trip failed: AST=7 rendered=9 extra |
-| WDU20001141193 | rendered round-trip failed: AST=23 rendered=43 mis |
 | WDU20001201268 | rendered round-trip failed: AST=82 rendered=27 mis |
-| WDU20010040031 | rendered round-trip failed: AST=384 rendered=384 l |
-| WDU20010420474 | rendered round-trip failed: AST=16 rendered=32 mis |
-| WDU20010840907 | rendered round-trip failed: AST=38 rendered=0 miss |
-| WDU20011021116 | rendered round-trip failed: AST=26 rendered=8 miss |
-| WDU20011061148 | rendered round-trip failed: AST=133 rendered=124 m |
-| WDU20011061150 | rendered round-trip failed: AST=29 rendered=7 miss |
 | WDU20011251372 | rendered round-trip failed: AST=13 rendered=1 miss |
 | WDU20011381565 | character-spaced text — 1 line(s) with >30% single |
 | WDU20011541794 | rendered round-trip failed: AST=3 rendered=2 missi |
 | WDU20020250253 | rendered round-trip failed: AST=84 rendered=72 mis |
-| WDU20020410365 | rendered round-trip failed: AST=41 rendered=52 mis |
 | WDU20020780717 | CID font encoding failure — unreadable glyphs (4 o; character-spaced text — 1 line(s) with >30% single |
-| WDU20021080945 | rendered round-trip failed: AST=24 rendered=12 mis |
 | WDU20021090966 | character-spaced text — 1 line(s) with >30% single |
-| WDU20021351144 | rendered round-trip failed: AST=13 rendered=17 mis |
 | WDU20021411183 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20021521265 | rendered round-trip failed: AST=7 rendered=15 miss |
-| WDU20021531270 | rendered round-trip failed: AST=337 rendered=337 m |
 | WDU20021561306 | character-spaced text — 1 line(s) with >30% single |
 | WDU20021691384 | CID font encoding failure — unreadable glyphs (1 o |
 | WDU20021861560 | CID font encoding failure — unreadable glyphs (4 o |
 | WDU20022001680 | rendered round-trip failed: AST=6 rendered=8 extra |
 | WDU20022131803 | missing article structure — act type requires Art. |
 | WDU20022382025 | character-spaced text — 1 line(s) with >30% single |
-| WDU20030060065 | rendered round-trip failed: AST=8 rendered=16 miss |
-| WDU20030520452 | rendered round-trip failed: AST=2 rendered=5 extra |
-| WDU20030560498 | rendered round-trip failed: AST=14 rendered=17 ext |
-| WDU20030840774 | rendered round-trip failed: AST=22 rendered=33 mis |
-| WDU20030900845 | rendered round-trip failed: AST=11 rendered=10 mis |
 | WDU20031701652 | rendered round-trip failed: AST=35 rendered=24 mis |
-| WDU20031921873 | rendered round-trip failed: AST=32 rendered=13 mis |
-| WDU20031931884 | rendered round-trip failed: AST=27 rendered=25 mis |
-| WDU20032132081 | rendered round-trip failed: AST=80 rendered=104 mi |
-| WDU20032282256 | rendered round-trip failed: AST=21 rendered=33 mis |
 | WDU20040430412 | character-spaced text — 1 line(s) with >30% single |
-| WDU20040620576 | rendered round-trip failed: AST=12 rendered=21 mis |
-| WDU20040620577 | rendered round-trip failed: AST=11 rendered=14 mis |
 | WDU20040700632 | rendered round-trip failed: AST=31 rendered=39 mis |
-| WDU20040910875 | rendered round-trip failed: AST=6 rendered=5 missi |
-| WDU20040910877 | rendered round-trip failed: AST=19 rendered=19 low |
-| WDU20040920882 | rendered round-trip failed: AST=39 rendered=22 mis |
-| WDU20040930891 | rendered round-trip failed: AST=12 rendered=30 mis |
-| WDU20040930895 | rendered round-trip failed: AST=14 rendered=18 mis |
-| WDU20041451537 | rendered round-trip failed: AST=14 rendered=11 mis |
 | WDU20041521597 | rendered round-trip failed: AST=2 rendered=2 extra |
-| WDU20041621693 | rendered round-trip failed: AST=3 rendered=6 extra |
 | WDU20042042091 | CID font encoding failure — unreadable glyphs (1 o |
 | WDU20042222249 | rendered round-trip failed: AST=10 rendered=16 ext |
-| WDU20042402407 | rendered round-trip failed: AST=16 rendered=20 mis |
 | WDU20042542533 | missing article structure — act type requires Art. |
 | WDU20042682662 | ELI placeholder original content — ELI HTML contai; rendered round-trip failed: AST=24 rendered=12 low |
-| WDU20042812781 | rendered round-trip failed: AST=26 rendered=8 miss |
-| WDU20050220185 |  |
-| WDU20050230188 | rendered round-trip failed: AST=19 rendered=20 mis |
-| WDU20050230192 |  |
-| WDU20050250216 |  |
-| WDU20050300262 |  |
-| WDU20050330290 | rendered round-trip failed: AST=4 rendered=5 extra |
-| WDU20050410400 |  |
-| WDU20050590517 |  |
 | WDU20050620552 | rendered round-trip failed: AST=39 rendered=28 mis |
-| WDU20050680609 |  |
-| WDU20050720643 |  |
 | WDU20050850727 | rendered round-trip failed: AST=39 rendered=12 mis |
-| WDU20050860742 |  |
 | WDU20050860744 | PostScript CE garbled diacritics — unrepaired enco |
-| WDU20050940786 | rendered round-trip failed: AST=4 rendered=3 missi |
-| WDU20050940788 | rendered round-trip failed: AST=50 rendered=50 mis |
-| WDU20051281076 |  |
 | WDU20051321110 | rendered round-trip failed: AST=118 rendered=29 mi |
-| WDU20051391172 |  |
-| WDU20051411183 | rendered round-trip failed: AST=6 rendered=6 low_s |
 | WDU20051641366 | rendered round-trip failed: AST=38 rendered=48 mis |
 | WDU20051781480 | rendered round-trip failed: AST=14 rendered=18 mis |
-| WDU20051791487 | rendered round-trip failed: AST=4 rendered=8 extra |
-| WDU20051811526 |  |
-| WDU20051861566 |  |
-| WDU20052011677 |  |
-| WDU20052011678 |  |
-| WDU20052101758 |  |
-| WDU20052221914 |  |
-| WDU20052502118 |  |
-| WDU20052602183 |  |
-| WDU20052602184 |  |
-| WDU20060060042 |  |
-| WDU20060380268 |  |
-| WDU20060450322 |  |
-| WDU20060490359 |  |
-| WDU20060640457 |  |
-| WDU20060660473 | rendered round-trip failed: AST=24 rendered=16 mis |
-| WDU20060750529 |  |
-| WDU20061070721 | rendered round-trip failed: AST=18 rendered=16 mis |
-| WDU20061431032 | rendered round-trip failed: AST=15 rendered=23 mis |
-| WDU20061491074 | rendered round-trip failed: AST=22 rendered=24 mis |
-| WDU20061861380 |  |
-| WDU20062061521 |  |
 | WDU20062081532 | rendered round-trip failed: AST=7 rendered=6 extra |
-| WDU20062271665 |  |
-| WDU20062291675 |  |
-| WDU20062351699 | rendered round-trip failed: AST=6 rendered=19 miss |
 | WDU20062451775 | rendered round-trip failed: AST=16 rendered=22 mis |
-| WDU20062491832 | rendered round-trip failed: AST=42 rendered=47 mis |
-| WDU20070070058 |  |
 | WDU20070250162 | rendered round-trip failed: AST=51 rendered=4 miss |
-| WDU20070470319 |  |
-| WDU20070480326 |  |
-| WDU20070590405 |  |
-| WDU20070610418 |  |
-| WDU20070610419 |  |
-| WDU20070690467 |  |
-| WDU20070820557 |  |
-| WDU20070980656 |  |
-| WDU20070990661 | rendered round-trip failed: AST=12 rendered=14 mis |
-| WDU20071150791 | rendered round-trip failed: AST=25 rendered=23 mis |
-| WDU20071240871 |  |
-| WDU20071240872 |  |
 | WDU20071280903 | character-spaced text — 1 line(s) with >30% single |
-| WDU20071330933 |  |
 | WDU20071360956 | rendered round-trip failed: AST=3 rendered=13 extr |
-| WDU20071360958 | rendered round-trip failed: AST=25 rendered=29 mis |
-| WDU20071360959 |  |
-| WDU20071380977 |  |
 | WDU20071711208 | rendered round-trip failed: AST=8 rendered=13 extr |
 | WDU20071761240 | rendered round-trip failed: AST=4 rendered=5 extra |
 | WDU20071761242 | rendered round-trip failed: AST=10 rendered=34 mis |
-| WDU20071811290 | rendered round-trip failed: AST=14 rendered=9 miss |
 | WDU20071811291 | rendered round-trip failed: AST=3 rendered=6 missi |
 | WDU20071811292 | rendered round-trip failed: AST=2 rendered=11 extr |
-| WDU20071911371 | rendered round-trip failed: AST=5 rendered=5 low_s |
-| WDU20071951413 |  |
-| WDU20072111548 |  |
-| WDU20072111549 |  |
-| WDU20072251670 |  |
 | WDU20072311704 | character-spaced text — 1 line(s) with >30% single |
-| WDU20072351735 |  |
-| WDU20072451816 |  |
 | WDU20080540326 | rendered round-trip failed: AST=4 rendered=5 missi |
 | WDU20080700416 | rendered round-trip failed: AST=124 rendered=80 mi |
 | WDU20080960606 | missing article structure — act type requires Art. |
 | WDU20080960621 | character-spaced text — 1 line(s) with >30% single |
 | WDU20081340850 | known PDF extraction failure — article structure i |
 | WDU20081410888 | rendered round-trip failed: AST=17 rendered=21 mis |
-| WDU20082101321 | rendered round-trip failed: AST=7 rendered=9 missi |
 | WDU20082141346 | rendered round-trip failed: AST=9 rendered=12 extr |
 | WDU20082161369 | rendered round-trip failed: AST=3 rendered=4 extra |
-| WDU20082311546 | rendered round-trip failed: AST=20 rendered=46 ext |
-| WDU20090200105 | rendered round-trip failed: AST=11 rendered=13 mis |
 | WDU20090200106 | rendered round-trip failed: AST=35 rendered=25 mis |
-| WDU20090370286 | rendered round-trip failed: AST=36 rendered=41 mis |
-| WDU20090690593 |  |
 | WDU20090970803 | rendered round-trip failed: AST=15 rendered=15 mis |
 | WDU20091180989 | rendered round-trip failed: AST=18 rendered=18 mis |
-| WDU20091411149 | rendered round-trip failed: AST=16 rendered=19 mis |
-| WDU20091611281 | rendered round-trip failed: AST=15 rendered=13 mis |
-| WDU20091951504 | rendered round-trip failed: AST=22 rendered=10 mis |
 | WDU20092011542 | PostScript CE garbled diacritics — unrepaired enco |
-| WDU20092151664 | rendered round-trip failed: AST=42 rendered=39 mis |
 | WDU20092191706 | rendered round-trip failed: AST=29 rendered=13 mis |
-| WDU20092231778 | rendered round-trip failed: AST=38 rendered=2 miss |
+| WDU20100110066 | character-spaced text — 2 line(s) with >30% single |
 | WDU20100210109 | character-spaced text — 1 line(s) with >30% single |
-| WDU20100280145 | rendered round-trip failed: AST=27 rendered=34 mis |
 | WDU20100280146 | rendered round-trip failed: AST=51 rendered=6 miss |
 | WDU20101250842 | rendered round-trip failed: AST=26 rendered=21 mis |
 | WDU20101250852 | character-spaced text — 1 line(s) with >30% single |
-| WDU20101260853 | rendered round-trip failed: AST=68 rendered=21 mis |
 | WDU20101480993 | rendered round-trip failed: AST=6 rendered=6 extra |
 | WDU20101490996 | rendered round-trip failed: AST=22 rendered=2 miss |
-| WDU20101971306 | rendered round-trip failed: AST=6 rendered=6 low_s |
-| WDU20102261475 | rendered round-trip failed: AST=14 rendered=14 wor |
 | WDU20102291494 | known two-column PDF extraction failure — Art. 2 i |
 | WDU20102441636 | character-spaced text — 1 line(s) with >30% single |
-| WDU20102471650 | rendered round-trip failed: AST=2 rendered=3 extra |
-| WDU20110060019 | rendered round-trip failed: AST=4 rendered=13 miss |
 | WDU20110640342 | character-spaced text — 1 line(s) with >30% single |
-| WDU20110850459 | rendered round-trip failed: AST=13 rendered=23 mis |
-| WDU20111090627 | rendered round-trip failed: AST=2 rendered=0 missi |
-| WDU20111320766 | rendered round-trip failed: AST=77 rendered=42 mis |
-| WDU20111681001 | rendered round-trip failed: AST=7 rendered=3 missi |
 | WDU20111711016 | rendered round-trip failed: AST=82 rendered=79 mis |
 | WDU20112031192 | rendered round-trip failed: AST=37 rendered=51 mis |
-| WDU20112301372 | rendered round-trip failed: AST=17 rendered=17 wor |
 | WDU20112401429 | rendered round-trip failed: AST=30 rendered=53 mis |
 | WDU20112401437 | character-spaced text — 1 line(s) with >30% single |
 | WDU20120000013 | character-spaced text — 1 line(s) with >30% single |
@@ -443,12 +342,10 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20120000496 | excessive repetition — '.......................... |
 | WDU20120000566 | character-spaced text — 1 line(s) with >30% single |
 | WDU20120000571 | excessive repetition — '.......................... |
-| WDU20120000611 | rendered round-trip failed: AST=4 rendered=4 low_s |
 | WDU20120000638 | character-spaced text — 4 line(s) with >30% single |
 | WDU20120000663 | excessive repetition — '.......................... |
 | WDU20120000664 | rendered round-trip failed: AST=28 rendered=14 mis |
 | WDU20120000837 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20120000892 | rendered round-trip failed: AST=6 rendered=8 missi |
 | WDU20120000916 | excessive repetition — '.......................... |
 | WDU20120000925 | character-spaced text — 1 line(s) with >30% single; excessive repetition — '.......................... |
 | WDU20120000943 | excessive repetition — '.......................... |
@@ -474,7 +371,6 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20130001413 | character-spaced text — 1 line(s) with >30% single |
 | WDU20130001576 | character-spaced text — 1 line(s) with >30% single |
 | WDU20130001619 | character-spaced text — 1 line(s) with >30% single |
-| WDU20130001639 | rendered round-trip failed: AST=5 rendered=8 extra |
 | WDU20130001674 | excessive repetition — '.......................... |
 | WDU20140000221 | ELI placeholder original content — ELI HTML contai |
 | WDU20140000242 | excessive repetition — '.......................... |
@@ -551,14 +447,12 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20170000721 | excessive repetition — '…………………………………………………………………… |
 | WDU20170000822 | character-spaced text — 1 line(s) with >30% single |
 | WDU20170000852 | character-spaced text — 1 line(s) with >30% single |
-| WDU20170000933 | rendered round-trip failed: AST=52 rendered=52 wor |
 | WDU20170001008 | rendered round-trip failed: AST=16 rendered=15 mis |
 | WDU20170001118 | character-spaced text — 7 line(s) with >30% single; excessive repetition — '............... .......... |
 | WDU20170001155 | character-spaced text — 106 line(s) with >30% sing |
 | WDU20170001162 | excessive repetition — '.......................... |
 | WDU20170001302 | excessive repetition — '…………………………………………………………………… |
 | WDU20170001357 | rendered round-trip failed: AST=17 rendered=21 mis |
-| WDU20170001428 | rendered round-trip failed: AST=45 rendered=51 mis |
 | WDU20170001452 | rendered round-trip failed: AST=42 rendered=37 mis |
 | WDU20170001548 | excessive repetition — 'Objaśnienia i informacje d |
 | WDU20170001567 | rendered round-trip failed: AST=19 rendered=19 mis |
@@ -614,7 +508,6 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20190000121 | CID font encoding failure — unreadable glyphs (1 o |
 | WDU20190000163 | character-spaced text — 2 line(s) with >30% single |
 | WDU20190000184 | character-spaced text — 1 line(s) with >30% single |
-| WDU20190000201 | rendered round-trip failed: AST=5 rendered=3 missi |
 | WDU20190000247 | character-spaced text — 1 line(s) with >30% single |
 | WDU20190000259 | excessive repetition — '.......................... |
 | WDU20190000279 | character-spaced text — 1 line(s) with >30% single |
@@ -627,7 +520,6 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20190000846 | character-spaced text — 1 line(s) with >30% single |
 | WDU20190000851 | excessive repetition — '.......................... |
 | WDU20190000991 | excessive repetition — '5) powiadamia odpowiednie  |
-| WDU20190001043 | rendered round-trip failed: AST=9 rendered=8 missi |
 | WDU20190001104 | character-spaced text — 2 line(s) with >30% single |
 | WDU20190001105 | character-spaced text — 2 line(s) with >30% single |
 | WDU20190001112 | character-spaced text — 1 line(s) with >30% single |
@@ -640,12 +532,10 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20190001443 | rendered round-trip failed: AST=19 rendered=19 mis |
 | WDU20190001478 | character-spaced text — 2 line(s) with >30% single |
 | WDU20190001522 | excessive repetition — '5) zużycie materiałów i en |
-| WDU20190001553 | rendered round-trip failed: AST=16 rendered=15 mis |
 | WDU20190001578 | character-spaced text — 2 line(s) with >30% single |
 | WDU20190001601 | excessive repetition — '.......................... |
 | WDU20190001637 | excessive repetition — 'CELE KSZTAŁCENIA - WYMAGAN |
 | WDU20190001645 | excessive repetition — '.......................... |
-| WDU20190001712 | rendered round-trip failed: AST=11 rendered=9 miss |
 | WDU20190001735 | excessive repetition — '.......................... |
 | WDU20190001745 | character-spaced text — 1 line(s) with >30% single |
 | WDU20190001747 | character-spaced text — 1 line(s) with >30% single |
@@ -660,7 +550,6 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20200000049 | character-spaced text — 2 line(s) with >30% single |
 | WDU20200000063 | excessive repetition — '.......................... |
 | WDU20200000150 | missing article structure — act type requires Art. |
-| WDU20200000164 | rendered round-trip failed: AST=109 rendered=109 l |
 | WDU20200000189 | excessive repetition — '.......................... |
 | WDU20200000202 | character-spaced text — 1 line(s) with >30% single |
 | WDU20200000227 | rendered round-trip failed: AST=20 rendered=13 mis |
@@ -764,7 +653,6 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20230000181 | rendered round-trip failed: AST=28 rendered=28 mis |
 | WDU20230000244 | character-spaced text — 1 line(s) with >30% single |
 | WDU20230000339 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230000403 | rendered round-trip failed: AST=11 rendered=6 miss |
 | WDU20230000425 | excessive repetition — '1. Dane binarne / nazwa pl |
 | WDU20230000427 | character-spaced text — 11 line(s) with >30% singl |
 | WDU20230000437 | rendered round-trip failed: AST=85 rendered=71 mis |
@@ -781,7 +669,6 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20230001045 | character-spaced text — 1 line(s) with >30% single |
 | WDU20230001112 | character-spaced text — 1 line(s) with >30% single |
 | WDU20230001154 | rendered round-trip failed: AST=58 rendered=52 mis |
-| WDU20230001170 | rendered round-trip failed: AST=412 rendered=89 mi |
 | WDU20230001220 | CID font encoding failure — unreadable glyphs (4 o |
 | WDU20230001236 | rendered round-trip failed: AST=37 rendered=47 mis |
 | WDU20230001293 | character-spaced text — 1 line(s) with >30% single |
@@ -813,7 +700,6 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20230002056 | CID font encoding failure — unreadable glyphs (1 o |
 | WDU20230002093 | excessive repetition — '.......................... |
 | WDU20230002127 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230002151 | rendered round-trip failed: AST=95 rendered=79 mis |
 | WDU20230002337 | excessive repetition — '.......................... |
 | WDU20230002358 | CID font encoding failure — unreadable glyphs (1 o |
 | WDU20230002471 | excessive repetition — 'b) 0,057 zł za 1 m pobrany |
@@ -909,16 +795,12 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20240001954 | CID font encoding failure — unreadable glyphs (2 o |
 | WDU20250000204 | rendered round-trip failed: AST=74 rendered=63 mis |
 | WDU20250000383 | rendered round-trip failed: AST=458 rendered=433 m |
-| WDU20250000718 | missing article structure — act type requires Art. |
-| WDU20250000860 | rendered round-trip failed: AST=133 rendered=126 m |
-| WDU20250000911 | rendered round-trip failed: AST=408 rendered=408 m |
+| WDU20250000759 | rendered round-trip failed: AST=29 rendered=27 mis |
 | WDU20250001454 | rendered round-trip failed: AST=57 rendered=0 miss |
 | WDU20250001691 | rendered round-trip failed: AST=306 rendered=289 m |
 | WDU20260000236 | rendered round-trip failed: AST=248 rendered=0 mis |
 | WDU20260000377 | rendered round-trip failed: AST=29 rendered=0 miss |
-| WDU20260000468 | rendered round-trip failed: AST=1169 rendered=1640 |
 | WDU20260000521 | rendered round-trip failed: AST=250 rendered=0 mis |
-| WDU20260000549 | rendered round-trip failed: AST=43 rendered=45 ext |
 
 ## Removed — no longer in force (6)
 

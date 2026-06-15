@@ -8,7 +8,7 @@ pos: 712
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Centralnym Biurze Antykorupcyjnym
@@ -795,7 +795,7 @@ Art. 141–210. (pominięte)
 
 2. Kontrolowany lub osoba przez niego upoważniona, z zachowaniem przepisów o ochronie informacji niejawnych, zapewnia kontrolującemu warunki i środki niezbędne do sprawnego przeprowadzenia kontroli, w szczególności przez niezwłoczne przedstawianie do kontroli żądanych dokumentów i materiałów oraz udzielanie ustnych i pisemnych wyjaśnień przez pracowników jednostki.
 
-3. Kontrola lub poszczególne jej czynności przeprowadzane w obiektach pozostających w zarządzie Kancelarii i Kancelarii Senatu mogą być przeprowadzane w uzgodnieniu odpowiednio z Marszałkiem Rzeczypospolitej Polskiej lub Marszałkiem Senatu Rzeczypospolitej Polskiej. Uzgodnienia dokonuje Prezes Rady Ministrów, a w przypadku braku uzgodnienia czynność nie może być wykonana.
+3. Kontrola lub poszczególne jej czynności przeprowadzane w obiektach pozostających w zarządzie Kancelarii Sejmu i Kancelarii Senatu mogą być przeprowadzane w uzgodnieniu odpowiednio z Marszałkiem Sejmu Rzeczypospolitej Polskiej lub Marszałkiem Senatu Rzeczypospolitej Polskiej. Uzgodnienia dokonuje Prezes Rady Ministrów, a w przypadku braku uzgodnienia czynność nie może być wykonana.
 
 **Art. 37.**
 

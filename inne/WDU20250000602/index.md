@@ -8,7 +8,7 @@ pos: 602
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o promowaniu energii elektrycznej z wysokosprawnej kogeneracji
@@ -34,6 +34,92 @@ Art. 95–98. (pominięte)
 **Art. 1.** Ustawa określa zasady udzielania wsparcia dla energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w jednostkach kogeneracji oraz wydawania gwarancji pochodzenia energii elektrycznej z wysokosprawnej kogeneracji.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** biomasa – biomasę w rozumieniu art. 2 pkt 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2024 r. poz. 1361, 1847 i 1881 oraz z 2025 r. poz. 303);
+- **2)** ciepło – ciepło w rozumieniu art. 3 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303);
+- **3)** ciepło użytkowe w kogeneracji – ciepło użytkowe w kogeneracji w rozumieniu art. 3 pkt 34 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, z wyłączeniem ciepła użytkowego w kogeneracji wytworzonego w jednostce kogeneracji opalanej paliwami węglowymi;
+- **3a)** decyzja inwestycyjna – rozpoczęcie robót budowlanych związanych z inwestycją albo podjęcie wiążącego zobowiązania do zamówienia urządzeń lub inne zobowiązanie, które sprawia, że inwestycja staje się nieodwracalna, z wyłączeniem zakupu gruntów oraz prac przygotowawczych, polegających na uzyskiwaniu zezwoleń i wykonywaniu wstępnych studiów wykonalności, w zależności od tego, które zdarzenie nastąpi wcześniej;
+- **4)** dystrybucja – dystrybucję w rozumieniu art. 3 pkt 5 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **5)** energia elektryczna z kogeneracji – energię elektryczną z kogeneracji w rozumieniu art. 3 pkt 36 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, z wyłączeniem energii elektrycznej wytworzonej w jednostce kogeneracji opalanej paliwami węglowymi;
+- **6)** energia elektryczna z wysokosprawnej kogeneracji – energię elektryczną z kogeneracji wytworzoną w wysokosprawnej kogeneracji w rozumieniu art. 3 pkt 38 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, z wyłączeniem energii elektrycznej wytworzonej w jednostce kogeneracji opalanej paliwami węglowymi;
+- **7)** instalacja odnawialnego źródła energii – instalację odnawialnego źródła energii w rozumieniu art. 2 pkt 13 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **8)** istniejąca jednostka kogeneracji – jednostkę kogeneracji, w której wytworzenie energii elektrycznej po raz pierwszy nastąpiło przed dniem 1 stycznia 2019 r. i zostało potwierdzone wydanym świadectwem pochodzenia z kogeneracji;
+- **9)** istniejąca mała jednostka kogeneracji – małą jednostkę kogeneracji, w której wytworzenie energii elektrycznej po raz pierwszy nastąpiło przed dniem 1 stycznia 2019 r. i zostało potwierdzone wydanym świadectwem pochodzenia z kogeneracji;
+- **10)** jednostka kogeneracji – jednostkę kogeneracji w rozumieniu art. 3 pkt 35 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, z wyłączeniem jednostki kogeneracji opalanej paliwami węglowymi;
+- **11)** mała jednostka kogeneracji – jednostkę kogeneracji o mocy zainstalowanej elektrycznej mniejszej niż 1 MW;
+- **12)** moc zainstalowana elektryczna – moc znamionową czynną:
+    - **a)** generatora,
+    - **b)** ogniwa paliwowego – wyrażoną w [W] lub wielokrotnościach tej jednostki miary, osiąganą przy znamionowym współczynniku mocy cos φ ;
+
+- **13)** modernizacja – proces inwestycyjny, którego celem jest odtworzenie stanu pierwotnego lub zmiana parametrów użytkowych lub technicznych jednostki kogeneracji, w czasie którego zainstalowano urządzenia wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w zmodernizowanej jednostce kogeneracji, wiążący się z poniesieniem kosztów inwestycyjnych nie mniejszych niż 25 %, ale nie większych niż 50 % jak na nową porównywalną jednostkę kogeneracji;
+- **14)** nowa jednostka kogeneracji – jednostkę kogeneracji, w czasie budowy której zainstalowano wyłącznie urządzenia wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w tej jednostce, co do której decyzję inwestycyjną podjęto:
+    - **a)** dla jednostek o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW – po dniu wygrania aukcji,
+    - **b)** dla jednostek o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW – po dniu wygrania naboru;
+
+- **15)** nowa mała jednostka kogeneracji – małą jednostkę kogeneracji, w czasie budowy której zainstalowano wyłącznie urządzenia wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w tej jednostce, przy czym wytworzenie po raz pierwszy energii elektrycznej nastąpiło nie wcześniej niż w dniu 1 stycznia 2019 r.;
+- **16)** odbiorca – odbiorcę w rozumieniu art. 3 pkt 13 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **17)** odbiorca końcowy – odbiorcę końcowego w rozumieniu art. 3 pkt 13a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **18)** odnawialne źródło energii – odnawialne źródło energii w rozumieniu art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **19)** operator rozliczeń – podmiot, o którym mowa w art. 47 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2022 r. poz. 311);
+- **20)** operator systemu dystrybucyjnego – operatora systemu dystrybucyjnego w rozumieniu art. 3 pkt 25 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **21)** operator systemu przesyłowego – operatora systemu przesyłowego w rozumieniu art. 3 pkt 24 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **22)** paliwa – paliwa w rozumieniu art. 3 pkt 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **23)** paliwa gazowe – paliwa gazowe w rozumieniu art. 3 pkt 3a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, z wyłączeniem gazów:
+    - **a)** powstałych w wyniku procesów zgazowania stałych nośników energii chemicznej,
+    - **b)** pozyskanych z odmetanowania kopalń,
+    - **c)** koksowniczych,
+    - **d)** innych odpadowych z procesów technologicznych;
+
+- **24)** paliwa węglowe:
+    - **a)** węgiel kamienny, brykiety lub pelety zawierające co najmniej 85 % węgla kamiennego,
+    - **b)** produkty w postaci stałej otrzymywane w procesie przeróbki termicznej węgla kamiennego lub węgla brunatnego przeznaczone do spalania,
+    - **c)** torf,
+    - **d)** muły węglowe, flotokoncentraty,
+    - **e)** węgiel brunatny,
+    - **f)** dowolną mieszaninę paliw, o których mowa w lit. a–e, z dodatkiem lub bez dodatku innych substancji, zawierającą mniej niż 85 % węgla kamiennego;
+
+- **25)** płatnik opłaty kogeneracyjnej – operatora systemu dystrybucyjnego elektroenergetycznego obliczającego opłatę kogeneracyjną;
+- **26)** premia gwarantowana – dopłatę do:
+    - **a)** wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę w: – zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW, – istniejącej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW,
+    - **b)** wytworzonej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę w: – nowej małej jednostce kogeneracji, – znacznie zmodernizowanej małej jednostce kogeneracji, – istniejącej małej jednostce kogeneracji, – zmodernizowanej małej jednostce kogeneracji, – istniejącej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego, – zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego;
+
+- **27)** premia gwarantowana indywidualna – dopłatę do wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę w:
+    - **a)** istniejącej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW,
+    - **b)** zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW;
+
+- **28)** premia kogeneracyjna – dopłatę do wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę w:
+    - **a)** nowej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW,
+    - **b)** znacznie zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW – który wygrał aukcję;
+
+- **29)** premia kogeneracyjna indywidualna – dopłatę do wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę w:
+    - **a)** nowej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW,
+    - **b)** znacznie zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW – który wygrał nabór;
+
+- **30)** przedsiębiorstwo energetyczne – przedsiębiorstwo energetyczne w rozumieniu art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **31)** przesyłanie – przesyłanie w rozumieniu art. 3 pkt 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **32)** publiczna sieć ciepłownicza – sieć ciepłowniczą służącą do przesyłania i dystrybucji ciepła, które w ciągu roku kalendarzowego w co najmniej 50 % wykorzystywane jest do ogrzewania lub chłodzenia budynków i przygotowania ciepłej wody użytkowej, do której przyłączona może zostać nieokreślona liczba odbiorców końcowych i do której jest już przyłączony co najmniej jeden odbiorca końcowy niebędący właścicielem, współwłaścicielem lub eksploatującym jednostkę kogeneracji przyłączonej i wprowadzającej ciepło do tej sieci ciepłowniczej;
+- **33)** referencyjna wartość sprawności dla wytwarzania rozdzielonego – referencyjną wartość sprawności dla wytwarzania rozdzielonego w rozumieniu art. 3 pkt 37 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **34)** sieci – sieci w rozumieniu art. 3 pkt 11 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **35)** sieć ciepłownicza – należące do przedsiębiorstwa energetycznego instalacje połączone i współpracujące ze sobą, służące do przesyłania lub dystrybucji ciepła;
+- **36)** sieć dystrybucyjna – sieć dystrybucyjną w rozumieniu art. 3 pkt 11b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **37)** sieć przesyłowa – sieć przesyłową w rozumieniu art. 3 pkt 11a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **38)** świadectwo efektywności energetycznej – świadectwo efektywności energetycznej w rozumieniu art. 20 ust. 1 i art. 57 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2024 r. poz. 1047 i 1946) oraz art. 20 ustawy z dnia 15 kwietnia 2011 r. o efektywności energetycznej (Dz. U. z 2015 r. poz. 2167 i 2359 oraz z 2016 r. poz. 266 i 1250) ;
+- **39)** świadectwo pochodzenia – świadectwo pochodzenia w rozumieniu art. 44 ust. 1 oraz art. 186 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **40)** świadectwo pochodzenia biogazu rolniczego – świadectwo pochodzenia w rozumieniu art. 48 ust. 1 oraz art. 186 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **41)** świadectwo pochodzenia z kogeneracji – potwierdzenie przez Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”, na podstawie przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne wytworzenia do dnia 31 grudnia 2018 r. energii elektrycznej w wysokosprawnej kogeneracji w jednostce kogeneracji:
+    - **a)** opalanej paliwami gazowymi lub o łącznej mocy zainstalowanej elektrycznej źródła poniżej 1 MW,
+    - **b)** opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego lub gazem uzyskiwanym z przetwarzania biomasy w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2024 r. poz. 20, 834 i 1946 oraz z 2025 r. poz. 303),
+    - **c)** innej niż wymieniona w lit. a i b;
+
+- **42)** wytwórca – podmiot, który ma siedzibę lub miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, wytwarzający energię elektryczną w jednostce kogeneracji;
+- **43)** zmodernizowana jednostka kogeneracji – jednostkę kogeneracji, która została poddana modernizacji i w której wytworzenie po raz pierwszy energii elektrycznej w zmodernizowanej jednostce nastąpiło nie wcześniej niż w dniu 1 stycznia 2019 r.;
+- **44)** zmodernizowana mała jednostka kogeneracji – małą jednostkę kogeneracji, która została poddana modernizacji i w której wytworzenie po raz pierwszy energii elektrycznej w zmodernizowanej jednostce nastąpiło nie wcześniej niż w dniu 1 stycznia 2019 r.;
+- **45)** znaczna modernizacja – proces inwestycyjny, którego celem jest odtworzenie stanu pierwotnego lub zmiana parametrów użytkowych lub technicznych jednostki kogeneracji, w czasie którego zainstalowano urządzenia wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w znacznie zmodernizowanej jednostce kogeneracji, wiążące się z poniesieniem kosztów inwestycyjnych powyżej 50 % jak na nową porównywalną jednostkę kogeneracji;
+- **46)** znacznie zmodernizowana jednostka kogeneracji – jednostkę kogeneracji, która została poddana znacznej modernizacji, co do której decyzję inwestycyjną podjęto:
+    - **a)** dla jednostek o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW – po dniu wygrania aukcji,
+    - **b)** dla jednostek o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW – po dniu wygrania naboru;
+
+- **47)** znacznie zmodernizowana mała jednostka kogeneracji – małą jednostkę kogeneracji, która została poddana znacznej modernizacji i w której wytworzenie po raz pierwszy energii elektrycznej w znacznie zmodernizowanej małej jednostce kogeneracji nastąpiło nie wcześniej niż w dniu 1 stycznia 2019 r.
 
 **Art. 3.**
 
@@ -125,6 +211,11 @@ Art. 95–98. (pominięte)
 
 **Art. 7.** Wytwórca energii elektrycznej wytworzonej w wysokosprawnej kogeneracji w:
 
+- **1)** nowej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 300 MW,
+- **2)** znacznie zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 300 MW,
+- **3)** istniejącej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 300 MW,
+- **4)** zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 300 MW – może uzyskać wsparcie na zasadach określonych w rozdziale 5, na podstawie art. 108 ust. 3 Traktatu o funkcjonowaniu Unii Europejskiej, po ogłoszeniu przez Komisję Europejską decyzji o zgodności pomocy indywidualnej dla wytwórcy energii elektrycznej w tej jednostce kogeneracji z rynkiem wewnętrznym.
+
 **Art. 8.** Wytwórca energii elektrycznej wytworzonej w jednostce kogeneracji, w której do wytworzenia energii elektrycznej i ciepła zużywa się więcej niż jeden rodzaj paliwa, o którym mowa w art. 15 ust. 5, wsparcie, o którym mowa w rozdziałach 4 i 5, przysługuje w wysokości obliczonej proporcjonalnie do procentowego udziału energii chemicznej danego paliwa w łącznej ilości energii chemicznej paliw zużywanych do wytwarzania energii elektrycznej i ciepła w tej jednostce.
 
 **Art. 9.** Wsparcie, o którym mowa w rozdziałach 3 i 5, nie przysługuje dla nowej jednostki kogeneracji, jeżeli ciepło wytworzone w tej jednostce będzie wprowadzane do publicznej sieci ciepłowniczej zasilanej przez istniejącą jednostkę kogeneracji, z wyłączeniem przypadku, gdy nowa jednostka kogeneracji zastępuje jedną lub więcej jednostek wytwórczych lub stanowi niezbędną rozbudowę jednostek wytwórczych, w celu zapewnienia dostarczania ciepła do tej sieci ciepłowniczej.
@@ -139,6 +230,16 @@ Art. 95–98. (pominięte)
 - **2)** uniemożliwiający ustalenie ilości wytworzonej energii elektrycznej w przedziałach godzinowych – w takim przypadku do ustalenia wielkości przysługującego wsparcia przyjmuje się ilość energii elektrycznej, jaka mogłaby zostać wytworzona w tej jednostce w godzinach, o których mowa w ust. 1, przy założeniu, że jednostka ta pracowała w tym czasie z mocą równą mocy zainstalowanej elektrycznej.
 
 **Art. 11.** Wsparcie, o którym mowa w rozdziałach 3–5, nie przysługuje:
+
+- **1)** wytwórcy energii elektrycznej wytworzonej w wysokosprawnej kogeneracji dla ilości energii elektrycznej, w odniesieniu do której korzysta on z prawa do wynagrodzenia z tytułu świadczenia na rzecz operatora systemu przesyłowego elektroenergetycznego usługi, o której mowa w art. 16 ust. 2 pkt 3 ustawy z dnia 8 grudnia 2017 r. o rynku mocy (Dz. U. z 2023 r. poz. 2131 oraz z 2025 r. poz. 159 i 290);
+- **2)** instalacji odnawialnego źródła energii, w odniesieniu do której wytwórca energii elektrycznej z odnawialnych źródeł energii w tej instalacji korzysta z:
+    - **a)** systemu wsparcia świadectw pochodzenia, o którym mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, albo
+    - **b)** systemu wsparcia świadectw pochodzenia biogazu rolniczego, o którym mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, albo
+    - **c)** systemu wsparcia, o którym mowa w art. 70a–70f ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, albo
+    - **d)** aukcyjnego systemu wsparcia, o którym mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+
+- **3)** wytwórcy energii elektrycznej wytworzonej w wysokosprawnej kogeneracji w nowej małej jednostce kogeneracji, znacznie zmodernizowanej małej jednostce kogeneracji, istniejącej małej jednostce kogeneracji lub zmodernizowanej małej jednostce kogeneracji, opalanej wyłącznie paliwem, o którym mowa w art. 3 pkt 3b lit. i lub j ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **4)** wytwórcy energii elektrycznej z wysokosprawnej kogeneracji w stosunku do energii elektrycznej wytworzonej w okresach, o których mowa w art. 33b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
 
 **Art. 12.** Na nabywcę jednostki kogeneracji uczestniczącej w systemie wsparcia, o którym mowa w rozdziałach 3–5, z dniem nabycia tej jednostki, przechodzą wszystkie prawa i obowiązki zbywcy jednostki kogeneracji, wynikające z przepisów ustawy dotyczących wsparcia udzielonego tej jednostce.
 
@@ -170,7 +271,7 @@ Art. 95–98. (pominięte)
 
 4. Wartość pomocy inwestycyjnej, o której mowa w ust. 1, oblicza się na dzień złożenia oferty, o której mowa w art. 21 ust. 1, albo wniosku, o którym mowa w art. 30 ust. 1, według następującego wzoru: PI = ∑(PI ∗∏(1+r )) gdzie poszczególne symbole oznaczają: PI – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, PI – wartość w roku „i” pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, udzieloną w danym roku „i”, j – rok kalendarzowy, w którym wytwórca złożył ofertę, o której mowa w art. 21 ust. 1, albo wniosek, o którym mowa w art. 30 ust. 1, i – kolejne lata kalendarzowe liczone od roku kalendarzowego „u” do roku kalendarzowego „j”, u – rok kalendarzowy, w którym wytwórcy po raz pierwszy udzielono pomocy inwestycyjnej dla danej jednostki kogeneracji, oznaczonej symbolem PI , r – stopę referencyjną, wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, zwanego dalej „Prezesem GUS”, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość r dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia oferty, o której mowa w art. 21 ust. 1, albo wniosku, o którym mowa w art. 30 ust. 1, stopa referencyjna w roku „i” nie została ogłoszona, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i”, w ujęciu rok do roku.
 
-5. Wytwórcy, o których mowa w ust. 1, dokonują obliczenia premii kogeneracyjnej skorygowanej albo premii gwarantowanej skorygowanej według następującego wzoru: C = C PI − I gdzie poszczególne symbole oznaczają: C – premię kogeneracyjną skorygowaną albo premię gwarantowaną skorygowaną, wyrażoną w zł/MWh; w przypadku wytwórcy, który nie otrzymał pomocy inwestycyjnej, o której mowa w ust. 1, wartość C jest równa wartości C , C – premię kogeneracyjną wynikającą z oferty złożonej przez wytwórcę albo premię gwarantowaną przed skorygowaniem, wyrażoną w zł/MWh, PI – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 4, I – ilość energii elektrycznej, wyrażoną w MWh, zaoferowanej przez wytwórcę w ofercie, o której mowa w art. 21 ust. 1, albo co do której wytwórca zobowiązał się, we wniosku, o którym mowa w art. 30 ust. 1, do sprzedaży albo wytworzenia.
+5. Wytwórcy, o których mowa w ust. 1, dokonują obliczenia premii kogeneracyjnej skorygowanej albo premii gwarantowanej skorygowanej według następującego wzoru: PI C = C − I gdzie poszczególne symbole oznaczają: C – premię kogeneracyjną skorygowaną albo premię gwarantowaną skorygowaną, wyrażoną w zł/MWh; w przypadku wytwórcy, który nie otrzymał pomocy inwestycyjnej, o której mowa w ust. 1, wartość C jest równa wartości C , C – premię kogeneracyjną wynikającą z oferty złożonej przez wytwórcę albo premię gwarantowaną przed skorygowaniem, wyrażoną w zł/MWh, PI – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 4, I – ilość energii elektrycznej, wyrażoną w MWh, zaoferowanej przez wytwórcę w ofercie, o której mowa w art. 21 ust. 1, albo co do której wytwórca zobowiązał się, we wniosku, o którym mowa w art. 30 ust. 1, do sprzedaży albo wytworzenia.
 
 6. Oświadczenie zawarte w ofercie, o której mowa w art. 21 ust. 1, albo wniosku, o którym mowa w art. 30 ust. 1, zawiera informację o wartości udzielonej pomocy inwestycyjnej, o której mowa w ust. 1, oraz o wysokości premii kogeneracyjnej skorygowanej albo premii gwarantowanej skorygowanej, obliczonej zgodnie z ust. 5.
 
@@ -179,7 +280,7 @@ Art. 95–98. (pominięte)
 - **1)** wartość tej pomocy inwestycyjnej przeliczoną zgodnie z ust. 3;
 - **2)** datę udzielenia tej pomocy inwestycyjnej;
 - **3)** wskazanie podmiotu udzielającego tej pomocy inwestycyjnej;
-- **4)** wartość nowej premii kogeneracyjnej skorygowanej albo nowej premii gwarantowanej skorygowanej, obliczonej według następującego wzoru: C = C PI − I gdzie poszczególne symbole oznaczają: C – nową premię kogeneracyjną skorygowaną albo nową premię gwarantowaną skorygowaną, wyrażoną w zł/MWh, która staje się premią kogeneracyjną skorygowaną albo premią gwarantowaną skorygowaną (C ) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w ust. 6, C – premię kogeneracyjną skorygowaną albo premię gwarantowaną skorygowaną, wyrażoną w zł/MWh, obowiązującą do końca miesiąca, w którym złożono oświadczenie, PI – wartość udzielonej pomocy inwestycyjnej lub wzrost wartości tej pomocy, wyrażoną w złotych, o której mowa w ust. 1, udzielonej po dniu złożenia oświadczenia, o którym mowa w art. 21 ust. 3 pkt 10 albo w art. 30 ust. 3 pkt 14, przeliczoną zgodnie z ust. 3, I – ilość energii elektrycznej, wyrażoną w MWh, zawartą w ofercie, o której mowa w art. 21 ust. 1, albo co do której wytwórca zobowiązał się we wniosku, o którym mowa w art. 30 ust. 1, do sprzedaży albo wytworzenia, pomniejszoną o ilość energii elektrycznej wytworzonej, wprowadzonej do sieci i sprzedanej w ramach aukcji albo w związku z przyznaną premią gwarantowaną do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy inwestycyjnej PI; w przypadku nowej małej jednostki kogeneracji, znacznie zmodernizowanej małej jednostki kogeneracji, zmodernizowanej małej jednostki kogeneracji oraz jednostki kogeneracji, o której mowa w art. 5 ust. 1 pkt 1, opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego, przyjmuje się ilość energii elektrycznej wytworzonej w danej jednostce.
+- **4)** wartość nowej premii kogeneracyjnej skorygowanej albo nowej premii gwarantowanej skorygowanej, obliczonej według następującego wzoru: PI C = C − I gdzie poszczególne symbole oznaczają: C – nową premię kogeneracyjną skorygowaną albo nową premię gwarantowaną skorygowaną, wyrażoną w zł/MWh, która staje się premią kogeneracyjną skorygowaną albo premią gwarantowaną skorygowaną (C ) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w ust. 6, C – premię kogeneracyjną skorygowaną albo premię gwarantowaną skorygowaną, wyrażoną w zł/MWh, obowiązującą do końca miesiąca, w którym złożono oświadczenie, PI – wartość udzielonej pomocy inwestycyjnej lub wzrost wartości tej pomocy, wyrażoną w złotych, o której mowa w ust. 1, udzielonej po dniu złożenia oświadczenia, o którym mowa w art. 21 ust. 3 pkt 10 albo w art. 30 ust. 3 pkt 14, przeliczoną zgodnie z ust. 3, I – ilość energii elektrycznej, wyrażoną w MWh, zawartą w ofercie, o której mowa w art. 21 ust. 1, albo co do której wytwórca zobowiązał się we wniosku, o którym mowa w art. 30 ust. 1, do sprzedaży albo wytworzenia, pomniejszoną o ilość energii elektrycznej wytworzonej, wprowadzonej do sieci i sprzedanej w ramach aukcji albo w związku z przyznaną premią gwarantowaną do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy inwestycyjnej PI; w przypadku nowej małej jednostki kogeneracji, znacznie zmodernizowanej małej jednostki kogeneracji, zmodernizowanej małej jednostki kogeneracji oraz jednostki kogeneracji, o której mowa w art. 5 ust. 1 pkt 1, opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego, przyjmuje się ilość energii elektrycznej wytworzonej w danej jednostce.
 
 8. O wysokości nowej premii kogeneracyjnej skorygowanej albo nowej premii gwarantowanej skorygowanej (C ), o której mowa w ust. 7, wytwórca powiadamia operatora rozliczeń, w terminie wskazanym w ust. 7.
 
@@ -1119,6 +1220,17 @@ Art. 95–98. (pominięte)
 
 **Art. 58.** Minister właściwy do spraw energii określi, w drodze rozporządzenia:
 
+- **1)** sposób obliczania:
+    - **a)** średniorocznej sprawności przemiany energii chemicznej paliwa w energię elektryczną lub mechaniczną i ciepło użytkowe w kogeneracji,
+    - **b)** ilości energii elektrycznej z wysokosprawnej kogeneracji,
+    - **c)** ilości ciepła użytkowego w kogeneracji,
+    - **d)** oszczędności energii pierwotnej uzyskanej w wyniku zastosowania kogeneracji w porównaniu z wytwarzaniem energii elektrycznej i ciepła w układach rozdzielonych o referencyjnych wartościach sprawności dla wytwarzania rozdzielonego,
+
+- **2)** referencyjne wartości sprawności dla wytwarzania rozdzielonego, oddzielnie dla energii elektrycznej i ciepła, służące do obliczania oszczędności energii pierwotnej uzyskanej w wyniku zastosowania kogeneracji,
+- **3)** metodę proporcjonalną określania ilości energii elektrycznej wprowadzonej do sieci, o której mowa w art. 26 ust. 2, art. 33 ust. 2, art. 41 ust. 2 i art. 54 ust. 2,
+- **4)** wymagania dotyczące pomiarów, rejestracji i sposobu obliczania ilości energii elektrycznej i ciepła użytkowego w jednostkach kogeneracji oraz ilości paliw zużywanych do ich wytwarzania,
+- **5)** sposób obliczania jednostkowego wskaźnika emisji dwutlenku węgla – biorąc pod uwagę politykę energetyczną państwa, ocenę potencjału wytwarzania energii elektrycznej z wysokosprawnej kogeneracji oraz efektywnych energetycznie systemów ciepłowniczych, istotne parametry techniczne funkcjonowania jednostek kogeneracji oraz uzasadnione technicznie i ekonomicznie możliwości wykorzystania krajowego potencjału wysokosprawnej kogeneracji.
+
 **Art. 59.**
 
 1. Do katalogu kwalifikowanych kosztów inwestycyjnych nowej porównywalnej jednostki kogeneracji zalicza się w szczególności koszty poniesione na:
@@ -1248,6 +1360,15 @@ Art. 95–98. (pominięte)
 
 **Art. 67.** Okresem rozliczeniowym dla rozliczeń dokonywanych między:
 
+- **1)** operatorem systemu przesyłowego elektroenergetycznego a:
+    - **a)** płatnikiem opłaty kogeneracyjnej,
+    - **b)** odbiorcą końcowym przyłączonym bezpośrednio do sieci przesyłowej elektroenergetycznej,
+    - **c)** wytwórcą i przedsiębiorstwem energetycznym, wykonującym działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej, niebędącym płatnikiem opłaty kogeneracyjnej, przyłączonym bezpośrednio do sieci przesyłowej elektroenergetycznej – jest miesiąc kalendarzowy;
+
+- **2)** płatnikiem opłaty kogeneracyjnej a:
+    - **a)** odbiorcą końcowym,
+    - **b)** wytwórcą i przedsiębiorstwem energetycznym, wykonującym działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej, niebędącym płatnikiem opłaty kogeneracyjnej przyłączonym do sieci dystrybucyjnej elektroenergetycznej płatnika opłaty kogeneracyjnej – jest okres, w którym są dokonywane rozliczenia za energię elektryczną i są świadczone usługi przesyłania lub dystrybucji tej energii.
+
 **Art. 68.**
 
 1. Operator systemu przesyłowego elektroenergetycznego przekazuje operatorowi rozliczeń informacje o środkach zgromadzonych z tytułu opłaty kogeneracyjnej za dany okres rozliczeniowy, z uwzględnieniem dokonanych korekt rozliczeń za okresy poprzednie na rachunku, o którym mowa w art. 66 ust. 6, oraz o wysokości odsetek od tych środków, w terminie do dwudziestego trzeciego dnia miesiąca następującego po zakończeniu okresu rozliczeniowego.
@@ -1308,6 +1429,15 @@ Art. 95–98. (pominięte)
 2. Termin wymagalności lokat, o których mowa w ust. 1, operator rozliczeń dostosowuje do terminu wypłat premii kogeneracyjnej, premii gwarantowanej, premii gwarantowanej indywidualnej oraz premii kogeneracyjnej indywidualnej.
 
 **Art. 73.** Do zadań operatora rozliczeń wynikających z ustawy należy wyłącznie:
+
+- **1)** gromadzenie środków pieniężnych na potrzeby wypłaty:
+    - **a)** premii kogeneracyjnej,
+    - **b)** premii gwarantowanej,
+    - **c)** premii gwarantowanej indywidualnej,
+    - **d)** premii kogeneracyjnej indywidualnej;
+
+- **2)** dokonywanie rozliczeń premii, o których mowa w pkt 1;
+- **3)** zarządzanie środkami pieniężnymi zgromadzonymi na rachunku opłaty kogeneracyjnej, na zasadach określonych w ustawie.
 
 **Art. 74.**
 
@@ -1494,6 +1624,9 @@ Art. 95–98. (pominięte)
 10. Podmiot, o którym mowa w ust. 1, może organizować obrót gwarancjami pochodzenia.
 
 **Art. 86.** Prezes URE, w drodze postanowienia, odmawia:
+
+- **1)** wydania gwarancji pochodzenia – w przypadku gdy wniosek o wydanie gwarancji pochodzenia został złożony operatorowi systemu dystrybucyjnego lub operatorowi systemu przesyłowego po upływie terminu, o którym mowa w art. 82 ust. 2;
+- **2)** uznania gwarancji pochodzenia, o której mowa w art. 84 ust. 1, w przypadku, o którym mowa w art. 84 ust. 2.
 
 #### Rozdział 10 Kary pieniężne
 

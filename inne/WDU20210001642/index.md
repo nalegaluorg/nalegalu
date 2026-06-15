@@ -8,7 +8,7 @@ pos: 1642
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz niektórych innych ustaw
@@ -28,6 +28,84 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001642) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1642/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2021 r. poz. 133, 694 i 1093) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 1:
+    - **a)** pkt 3 otrzymuje brzmienie: „3) paliwa – paliwa ciekłe, biopaliwa ciekłe lub inne paliwa odnawialne, gaz skroplony (LPG), sprężony gaz ziemny (CNG), skroplony gaz ziemny (LNG), lekki olej opałowy, ciężki olej opałowy, olej do silników statków żeglugi śródlądowej oraz wodór;”,
+    - **b)** pkt 8 i 9 otrzymują brzmienie: „8) lekki olej opałowy – olej napędowy stosowany do celów opałowych w instalacjach energetycznego spalania paliw oznaczony kodami CN ex 2710 19 43, ex 2710 19 46, ex 2710 19 47, ex 2710 19 48, ex 2710 20 11, ex 2710 20 16 oraz ex 2710 20 19;
+
+- **9)** ciężki olej opałowy – olej stosowany do celów opałowych w instalacjach energetycznego spalania paliw, w tym w okresach eksploatacji instalacji odbiegających od normalnych, w szczególności w okresach rozruchu i wyłączania instalacji, klasyfikowany do kodów CN od 2710 19 51 do 2710 19 67 i od 2710 20 32 do 2710 20 38;”, o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2021 r. poz. 514 i 925), do wykonywania badań jakości paliw lub paliw stałych, przy czym wymóg niezależności nie dotyczy laboratorium wykonującego badania wodoru;
+    - **c)** po pkt 10 dodaje się pkt 10a w brzmieniu: „10a) wodór – wodór przeznaczony do napędu pojazdu wykorzystującego energię elektryczną wytworzoną z wodoru w zainstalowanych w nim ogniwach paliwowych, oznaczony kodem CN 2804 10 00;”,
+    - **d)** pkt 14 otrzymuje brzmienie: „14) wprowadzanie do obrotu – rozporządzenie paliwami na terytorium Rzeczypospolitej Polskiej przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych paliw, poza procedurą zawieszenia poboru akcyzy w rozumieniu przepisów o podatku akcyzowym;”,
+    - **e)** pkt 20 i 21 otrzymują brzmienie: „20) akredytowane laboratorium – laboratorium niezależne od przedsiębiorców wykonujących działalność gospodarczą w zakresie wytwarzania, magazynowania lub wprowadzania do obrotu paliw albo wprowadzania do obrotu paliw stałych, które uzyskało akredytację, na zasadach określonych w ustawie z dnia 13 kwietnia 2016 r.
+
+- **21)** próbka – paliwo, z wyłączeniem wodoru, pobrane do badań przez inspektora;”,
+    - **f)** po pkt 21a dodaje się pkt 21b w brzmieniu: „21b) próbka wodoru – paliwo w postaci wodoru pobrane do badań przez pracownika akredytowanego laboratorium;”,
+    - **g)** pkt 28 otrzymuje brzmienie: „28) Narodowy Cel Redukcyjny – minimalną wartość ograniczenia emisji gazów cieplarnianych w cyklu życia paliw ciekłych, biopaliw ciekłych, gazu skroplonego (LPG), sprężonego gazu ziemnego (CNG), skroplonego gazu ziemnego (LNG), oleju do silników statków żeglugi śródlądowej lub wodoru stosowanych w transporcie oraz energii elektrycznej stosowanej w pojazdach samochodowych, w przeliczeniu na jednostkę energii;”,
+    - **h)** w pkt 29: – w lit. a: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „każdy podmiot, w tym mający siedzibę lub miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej, dokonujący, samodzielnie lub za pośrednictwem innego podmiotu, wytwarzania, importu lub nabycia wewnątrzwspólnotowego paliw ciekłych, biopaliw ciekłych, gazu skroplonego (LPG), oleju do silników statków żeglugi śródlądowej lub wodoru, który:”, – – tiret pierwsze otrzymuje brzmienie: „– rozporządza nimi na terytorium Rzeczypospolitej Polskiej przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych paliw lub”, – po lit. a dodaje się lit. aa w brzmieniu: „aa) przedsiębiorca wykonujący działalność gospodarczą w zakresie wprowadzania do obrotu sprężonego gazu ziemnego (CNG) lub skroplonego gazu ziemnego (LNG) na stacji paliwowej lub stacji zakładowej,”, – w lit. b wyrazy „art. 30b ust. 1” zastępuje się wyrazami „art. 30b ust. 1 i 2”, – w lit. c: – – we wprowadzeniu do wyliczenia wyrazy „art. 30b ust. 1” zastępuje się wyrazami „art. 30b ust. 1 i 2”, – – tiret pierwsze otrzymuje brzmienie: „– rozporządza nimi na terytorium Rzeczypospolitej Polskiej przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych paliw lub”;
+
+- **2)** w art. 3 w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) wodoru, biorąc pod uwagę wartości parametrów jakościowych określone w odpowiednich normach w tym zakresie.”;
+- **3)** w art. 7 dodaje się ust. 10 w brzmieniu: „10. Zabrania się transportowania, magazynowania, wprowadzania do obrotu wodoru oraz jego gromadzenia w stacjach zakładowych, jeżeli nie spełnia wymagań jakościowych określonych w przepisach wydanych na podstawie art. 3 ust. 2 pkt 7.”;
+- **4)** w art. 9b uchyla się ust. 2–4;
+- **5)** w art. 9d w ust. 1 wyrazy „art. 9b ust. 1–3” zastępuje się wyrazami „art. 9b ust. 1”;
+- **6)** w art. 10 pkt 1 otrzymuje brzmienie: „1) biopaliw ciekłych oraz innych paliw odnawialnych, a także wodoru niespełniających wymagań jakościowych określonych w przepisach wydanych na podstawie art. 3 ust. 2 pkt 2, 6 i 7 oraz art. 4 ust. 2;”;
+- **7)** w art. 11 ust. 3 otrzymuje brzmienie: „3. Kontrola u przedsiębiorców wykonujących działalność gospodarczą w zakresie wytwarzania paliw, z wyłączeniem wodoru, polega na kontroli paliw magazynowanych w celu wprowadzania ich do obrotu.”;
+- **8)** w art. 12 w ust. 2 pkt 7 i 8 otrzymują brzmienie: „7) określanie minimalnej liczby przedsiębiorców wykonujących działalność gospodarczą w zakresie wytwarzania i magazynowania paliw, z wyłączeniem wodoru, oraz wprowadzania do obrotu paliw stałych, u których będzie dokonywana kontrola jakości paliw lub paliw stałych;
+- **8)** określanie minimalnej liczby hurtowni paliw, z wyłączeniem hurtowni wodoru, w których będzie dokonywana kontrola jakości paliw;”;
+- **9)** po art. 13 dodaje się art. 13a w brzmieniu: „Art. 13a. 1. Kontrolę jakości wodoru u przedsiębiorców wytwarzających, magazynujących, wprowadzających do obrotu, gromadzących w stacjach zakładowych wodór, a także prowadzących hurtownie wodoru przeprowadza się raz na kwartał roku kalendarzowego.
+
+2. W przypadku uzyskania informacji o niewłaściwej jakości wodoru lub zaistnienia okoliczności wskazujących na możliwość wystąpienia niewłaściwej jakości wodoru Zarządzający może wyznaczyć do kontroli przedsiębiorców wytwarzających, magazynujących, wprowadzających do obrotu, gromadzących w stacjach zakładowych wodór, a także prowadzących hurtownie wodoru, poza częstotliwością określoną w ust. 1.”;
+
+- **10)** w art. 16:
+    - **a)** w ust. 1 wyrazy „art. 9b ust. 1–3” zastępuje się wyrazami „art. 9b ust. 1”,
+    - **b)** po ust. 4a dodaje się ust. 4b i 4c w brzmieniu: „4b. Inspektor, w przypadku przedsiębiorców wytwarzających wodór, jest uprawniony do kontroli dokumentacji potwierdzającej spełnienie przez wodór wymagań jakościowych określonych w przepisach wydanych na podstawie art. 3 ust. 2 pkt 7 oraz do kontroli dokumentacji potwierdzającej pobranie i zbadanie próbki wodoru zgodnie z przepisami wydanymi na podstawie art. 25c i art. 25d.
+
+4c. Inspektor, w przypadku kontroli przedsiębiorców transportujących, magazynujących, wprowadzających do obrotu oraz gromadzących w stacjach zakładowych wodór, a także przedsiębiorców prowadzących hurtownie wodoru, jest uprawniony do kontroli certyfikatu jakości wodoru lub jego kopii.”;
+
+- **11)** po art. 17 dodaje się art. 17a w brzmieniu: „Art. 17a. W toku kontroli inspektor dokonuje kontroli dokumentacji z badań, o których mowa w art. 25a ust. 3–3b, albo certyfikatu jakości wodoru lub jego kopii, w celu stwierdzenia, czy wodór spełnia wymagania określone w przepisach wydanych na podstawie art. 3 ust. 2 pkt 7 oraz, w przypadku badania, o którym mowa w art. 25a ust. 3, czy próbkę wodoru pobrano i zbadano zgodnie z przepisami wydanymi na podstawie art. 25c i art. 25d.”;
+- **12)** w art. 23 ust. 1 otrzymuje brzmienie: „1. W przypadku stwierdzenia, w wyniku kontroli, niewłaściwej jakości paliwa, z wyłączeniem wodoru, Zarządzający niezwłocznie wyznacza, z uwzględnieniem ust. 2, przedsiębiorcę, który dostarczył paliwo do przedsiębiorcy, u którego stwierdzono paliwo niewłaściwej jakości, w celu przeprowadzenia kontroli.”;
+- **13)** w art. 24:
+    - **a)** w ust. 1 wyraz „Zarządzający” zastępuje się wyrazami „wojewódzki inspektor Inspekcji Handlowej”,
+    - **b)** w ust. 1a wyraz „Zarządzający” zastępuje się wyrazami „wojewódzki inspektor Inspekcji Handlowej”,
+    - **c)** w ust. 4 wyraz „Zarządzający” zastępuje się wyrazami „Wojewódzki inspektor Inspekcji Handlowej”,
+    - **d)** w ust. 4a wyraz „Zarządzający” zastępuje się wyrazami „Wojewódzki inspektor Inspekcji Handlowej”,
+    - **e)** w ust. 5 wyrazy „Urzędu Ochrony Konkurencji i Konsumentów” zastępuje się wyrazami „właściwego wojewódzkiego inspektoratu Inspekcji Handlowej”;
+
+- **14)** po art. 25 dodaje się art. 25a–25d w brzmieniu: „Art. 25a. 1. (uchylony)
+
+2. (uchylony)
+
+3. Przedsiębiorca wytwarzający wodór, w trakcie procesu jego wytwarzania, bada jakość wodoru pod kątem spełnienia wymagań jakościowych określonych w przepisach wydanych na podstawie art. 3 ust. 2 pkt 7, co najmniej raz na 30 dni w akredytowanym laboratorium.
+
+3a. W przypadku gdy w danym okresie 30 dni, w danej instalacji służącej do wytwarzania wodoru, wytworzono powyżej 50 ton wodoru, wówczas w tym okresie, po wytworzeniu każdych 50 ton wodoru, przeprowadza się dodatkowe badanie jakości wodoru.
+
+3b. Badanie jakości wodoru, o którym mowa w ust. 3, przeprowadza się rzadziej niż raz na 30 dni, ale co najmniej raz na kwartał, jeżeli:
+
+- **1)** wodór jest wytwarzany w procesie elektrolizy i
+- **2)** przedsiębiorca wytwarzający ten wodór w trakcie procesu jego wytwarzania kontroluje w sposób przepływowy zgodność z wymaganiami określonymi w przepisach wydanych na podstawie art. 3 ust. 2 pkt 7 dla następujących parametrów: woda, węglowodory ogółem, metan, tlen, hel, azot, argon, ditlenek węgla, tlenek węgla, związki siarki ogółem, formaldehyd, kwas mrówkowy, amoniak, związki halogenowe ogółem.
+
+4. Przedsiębiorca wytwarzający wodór jest obowiązany posiadać dokumentację z badań, o których mowa w ust. 3–3b, zawierającą co najmniej informacje na temat terminu przeprowadzenia badania oraz wartości badanych parametrów. Dokumentacja z badania, o którym mowa w ust. 3, potwierdza, że próbkę wodoru pobrano zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 25c i akredytowane laboratorium zbadało taką próbkę zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 25d.
+
+5. Przedsiębiorca wytwarzający wodór wystawia certyfikat jakości wodoru w oparciu o dokumenty z badań, o których mowa w ust. 3–3b, które przeprowadzono w okresie, w którym został wytworzony wodór podlegający rozporządzeniu przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tego paliwa.
+
+6. Certyfikat jakości wodoru przedsiębiorca wytwarzający wodór wystawia przed wydaniem wodoru podlegającego rozporządzeniu przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tego paliwa.
+
+7. Certyfikat jakości wodoru zawiera:
+
+- **1)** oznaczenie przedsiębiorcy wystawiającego certyfikat jakości wodoru, jego siedziby i adresu;
+- **2)** numer identyfikacji podatkowej (NIP) przedsiębiorcy wystawiającego certyfikat jakości wodoru oraz numer identyfikacyjny tego przedsiębiorcy w odpowiednim rejestrze państwa obcego, jeżeli został nadany;
+- **3)** indywidualny numer certyfikatu jakości wodoru;
+- **4)** określenie ilości wodoru objętego certyfikatem jakości wodoru, podanej w kilogramach [kg];
+- **5)** wskazanie okresu, w którym wytworzono wodór objęty certyfikatem jakości wodoru;
+- **6)** nazwę akredytowanego laboratorium, które przeprowadziło badanie, o którym mowa w ust. 3;
+- **6a)** informację o terminach przeprowadzenia badań jakości wodoru;
+- **6b)** oświadczenie, o spełnieniu warunków, o których mowa w ust. 3b, w przypadku przeprowadzenia badań jakości wodoru w terminie, o którym mowa w ust. 3b;
+- **7)** oświadczenie przedsiębiorcy wystawiającego certyfikat jakości wodoru o następującej treści: „Oświadczam, że wodór, dla którego jest wystawiany ten certyfikat, spełnia wymagania jakościowe określone w przepisach wydanych na podstawie art. 3 ust. 2 pkt 7 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2021 r. poz. 133, z późn. zm.) oraz że próbkę wodoru pobrano i zbadano zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 25c i art. 25d tej ustawy.”;
+- **8)** oznaczenie miejsca i datę wystawienia certyfikatu jakości wodoru;
+- **9)** podpis przedsiębiorcy wystawiającego certyfikat jakości wodoru albo osoby uprawnionej do jego reprezentowania.
+
+8. W przypadku rozporządzenia wodorem objętym certyfikatem jakości wodoru na terytorium Rzeczypospolitej Polskiej przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tego paliwa należy łącznie z tym wodorem przekazać przedsiębiorcy, który transportuje, magazynuje, wprowadza do obrotu lub gromadzi w stacjach zakładowych wodór lub prowadzi hurtownię wodoru, oryginał lub kopię tego certyfikatu poświadczoną za zgodność z oryginałem przez przedsiębiorcę, który rozporządził tym wodorem. Jeżeli rozporządzenie, o którym mowa w zdaniu pierwszym, dotyczy wodoru objętego certyfikatem jakości wodoru w ilości mniejszej niż określona w tym certyfikacie lub jego kopii, należy ten certyfikat lub kopię opatrzyć adnotacją określającą w szczególności ilość wodoru, która została rozporządzona danemu przedsiębiorcy.
+
+9. Certyfikat jakości wodoru może mieć formę pisemną lub elektroniczną. Certyfikat w formie elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym i przesyła za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344).
 
 **Art. 25b.**
 
@@ -59,7 +137,104 @@ source: "isap-pdf"
 
 **Art. 25d.** Minister właściwy do spraw energii określi, w drodze rozporządzenia, metody badania jakości wodoru przez akredytowane laboratorium, biorąc pod uwagę stan wiedzy technicznej, metody określone w odpowiednich normach lub doświadczenie w stosowaniu tego paliwa.”;
 
+- **15)** po art. 27a dodaje się art. 27b w brzmieniu: „Art. 27b. 1. Przedsiębiorca wytwarzający, transportujący, magazynujący, wprowadzający do obrotu lub gromadzący w stacji zakładowej wodór, a także przedsiębiorca prowadzący hurtownię wodoru przekazują ministrowi właściwemu do spraw energii informację na temat prowadzonej w tym zakresie działalności w terminie 14 dni od dnia jej faktycznego rozpoczęcia.
+
+2. W przypadku zmiany rodzaju wykonywanej działalności przedsiębiorca, o którym mowa w ust. 1, przekazuje ministrowi właściwemu do spraw energii zaktualizowaną informację, o której mowa w ust. 1, w terminie 14 dni od dnia faktycznego dokonania zmiany.
+
+3. Informacja, o której mowa w ust. 1, zawiera:
+
+- **1)** oznaczenie przedsiębiorcy, który składa informację, jego siedziby i adresu;
+- **2)** numer identyfikacji podatkowej (NIP) przedsiębiorcy składającego informację oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany, albo numer identyfikacyjny w odpowiednim rejestrze państwa obcego;
+- **3)** wskazanie rodzaju i miejsca wykonywania działalności;
+- **4)** datę i podpis przedsiębiorcy albo osoby uprawnionej do jego reprezentowania.”;
+- **16)** w art. 29 w ust. 1 wyrazy „i skroplonego gazu ziemnego (LNG)” zastępuje się wyrazami „ , skroplonego gazu ziemnego (LNG) i wodoru”;
+- **17)** w art. 30b ust. 1 i 2 otrzymują brzmienie: „1. Podmiot realizujący Narodowy Cel Redukcyjny jest obowiązany, z uwzględnieniem art. 30e, zapewnić w danym roku kalendarzowym minimalną wartość ograniczenia emisji gazów cieplarnianych w cyklu życia paliw ciekłych, biopaliw ciekłych, gazu skroplonego (LPG), sprężonego gazu ziemnego (CNG), skroplonego gazu ziemnego (LNG), oleju do silników statków żeglugi śródlądowej lub wodoru, stosowanych w transporcie, w przeliczeniu na jednostkę energii rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych paliw na terytorium Rzeczypospolitej Polskiej, lub zużywanych przez ten podmiot na potrzeby własne, oraz energii elektrycznej stosowanej w pojazdach samochodowych, sprzedawanej odbiorcy końcowemu lub zużywanej przez ten podmiot na potrzeby własne.
+
+2. Wartość ograniczenia, o którym mowa w ust. 1:
+
+- **1)** wynosi 6%;
+- **2)** oblicza się na podstawie wskaźników emisji gazów cieplarnianych dla poszczególnych paliw lub energii i wartości energetycznych tych paliw lub energii, określonych w przepisach wydanych na podstawie art. 30h i art. 30ha, w stosunku do emisji gazów cieplarnianych w przeliczeniu na jednostkę energii z 2010 r.”;
+- **18)** użyte w art. 30d w ust. 1, w art. 30e w ust. 1 i 2 oraz w ust. 4 w pkt 1 w treści oświadczenia w pkt 3, w art. 30f w ust. 1 i w ust. 5 w pkt 1 oraz w art. 35a w pkt 7 wyrazy „art. 30b ust. 1” zastępuje się wyrazami „art. 30b ust. 1 i 2”;
+- **19)** w art. 30d uchyla się ust. 2–6;
+- **20)** w art. 30f w ust. 5 w pkt 2 wyrazy „art. 30b ust. 2” zastępuje się wyrazami „art. 30b ust. 2 pkt 2”;
+- **21)** w art. 30g:
+    - **a)** ust. 1 i 1a otrzymują brzmienie: „1. Szef Krajowej Administracji Skarbowej przekazuje Prezesowi Urzędu Regulacji Energetyki sprawozdanie roczne zawierające informacje dotyczące ilości gazu skroplonego (LPG), oleju do silników statków żeglugi śródlądowej, benzyn lotniczych, paliw typu benzyny lub nafty do silników odrzutowych oraz wodoru importowanych oraz sprowadzonych w ramach nabycia wewnątrzwspólnotowego, sporządzone według kodów CN na podstawie danych z systemów Krajowej Administracji Skarbowej prowadzonych na podstawie odrębnych przepisów, w terminie do 45 dni po zakończeniu roku kalendarzowego.
+
+1a. Sprawozdanie, o którym mowa w ust. 1, zawiera informacje dotyczące podmiotu, który dokonał importu lub nabycia wewnątrzwspólnotowego gazu skroplonego (LPG), oleju do silników statków żeglugi śródlądowej, benzyn lotniczych, paliw typu benzyny lub nafty do silników odrzutowych oraz wodoru, oraz informacje dotyczące podmiotu będącego właścicielem tego gazu skroplonego (LPG), oleju do silników statków żeglugi śródlądowej, benzyn lotniczych, paliw typu benzyny lub nafty do silników odrzutowych oraz wodoru.”,
+
+- **b)** w ust. 2 wyrazy „15 lipca” zastępuje się wyrazami „31 października”,
+- **c)** w ust. 3 wyrazy „31 sierpnia” zastępuje się wyrazami „31 grudnia”;
+- **22)** w art. 30h pkt 2 otrzymuje brzmienie: „2) wskaźnik emisji gazów cieplarnianych dla poszczególnych paliw,”;
+- **23)** po art. 30h dodaje się art. 30ha w brzmieniu: „Art. 30ha. Minister właściwy do spraw klimatu określa do dnia 31 grudnia każdego roku, w drodze rozporządzenia, przy uwzględnieniu danych zgromadzonych przez Krajowy ośrodek bilansowania i zarządzania emisjami w Krajowej bazie o emisjach gazów cieplarnianych i innych substancji, prowadzonej na podstawie art. 3 ust. 2 pkt 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2020 r. poz. 1077 i 2320 oraz z 2021 r. poz. 1047), a także innych dostępnych danych naukowych, wskaźnik emisji gazów cieplarnianych dla energii elektrycznej na następny rok kalendarzowy.”;
+- **24)** w art. 30i:
+    - **a)** w ust. 1 wyrazy „31 marca” zastępuje się wyrazami „30 czerwca”,
+    - **b)** po ust. 1 dodaje się ust. 1a–1d w brzmieniu: „1a. Podmiot wspólnie realizujący Narodowy Cel Redukcyjny na podstawie art. 30d ust. 1, do sprawozdania rocznego dołącza informację o podmiotach, z którymi wspólnie zrealizował ten obowiązek.
+
+1b. W informacji, o której mowa w ust. 1a, wskazuje się:
+
+- **1)** nazwy i adresy siedzib podmiotów, o których mowa w art. 30d ust. 1, oraz ich adresy do doręczeń, w przypadku gdy są inne niż adresy ich siedzib, z uwzględnieniem art. 30c;
+- **2)** numery identyfikacji podatkowej (NIP) podmiotów, o których mowa w art. 30d ust. 1, oraz numery identyfikacyjne tych podmiotów w odpowiednich rejestrach państwa obcego, jeżeli zostały nadane.
+
+1c. Do informacji, o której mowa w ust. 1a, dołącza się oświadczenie osoby uprawnionej do reprezentowania podmiotu składającego tę informację o następującej treści: „Oświadczam, że:
+
+- **1)** dane zawarte w informacji są kompletne i zgodne z prawdą;
+- **2)** obowiązek, o którym mowa w art. 30b ust. 1 i 2 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2021 r. poz. 133, z późn. zm.), został wspólnie zrealizowany z następującymi podmiotami: …;
+- **3)** znane mi są warunki określone w art. 30b ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw.”.
+
+1d. Oświadczenie, o którym mowa w ust. 1c, zawiera oznaczenie miejsca i datę złożenia oraz podpis składającego, a także klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.”;
+
+- **25)** po art. 30i dodaje się art. 30j i art. 30k w brzmieniu: „Art. 30j. 1. Na potrzeby ewidencji, o której mowa w ust. 4, podmiot realizujący Narodowy Cel Redukcyjny, który zamierza w danym roku kalendarzowym wykorzystać do realizacji obowiązku, o którym mowa w art. 30b ust. 1 i 2, redukcję emisji gazów cieplarnianych pochodzącą z projektu redukcji emisji gazów cieplarnianych w segmencie wydobywczym, osiągniętą w roku kalendarzowym, za który realizowany jest obowiązek, może poinformować o tym zamiarze Prezesa Urzędu Regulacji Energetyki nie później niż do dnia 1 czerwca roku następującego po tym roku kalendarzowym.
+
+2. Informacja, o której mowa w ust. 1, zawiera:
+
+- **1)** nazwę projektu redukcji emisji gazów cieplarnianych w segmencie wydobywczym, z którego pochodzi redukcja emisji gazów cieplarnianych;
+- **2)** informację, czego dotyczy projekt redukcji emisji gazów cieplarnianych w segmencie wydobywczym, z którego pochodzi redukcja emisji gazów cieplarnianych;
+- **3)** jednorazowy numer certyfikatu, o którym mowa w części 2 pkt 1 lit. f załącznika I do dyrektywy Rady (UE) 2015/652 z dnia 20 kwietnia 2015 r. ustanawiającej metody obliczania i wymogi w zakresie sprawozdawczości zgodnie z dyrektywą 98/70/WE Parlamentu Europejskiego i Rady odnoszącą się do jakości benzyny i olejów napędowych (Dz. Urz. UE L 107 z 25.04.2015, str. 26, z późn. zm. ), jednoznacznie identyfikujący projekt redukcji emisji gazów cieplarnianych w segmencie wydobywczym, z którego pochodzi redukcja emisji gazów cieplarnianych;
+- **4)** numer, o którym mowa w części 2 pkt 1 lit. g załącznika I do dyrektywy Rady (UE) 2015/652 z dnia 20 kwietnia 2015 r. ustanawiającej metody obliczania i wymogi w zakresie sprawozdawczości zgodnie z dyrektywą 98/70/WE Parlamentu Europejskiego i Rady odnoszącą się do jakości benzyny i olejów napędowych, jednoznacznie identyfikujący metodę obliczania i związany z nią schemat;
+- **5)** datę rozpoczęcia projektu redukcji emisji gazów cieplarnianych w segmencie wydobywczym, z którego pochodzi redukcja emisji gazów cieplarnianych, późniejszą niż dzień 1 stycznia 2011 r.;
+- **6)** osiągniętą roczną wartość redukcji emisji gazów cieplarnianych pochodzącą z projektu redukcji emisji gazów cieplarnianych w segmencie wydobywczym, wyrażoną w tonach ekwiwalentu dwutlenku węgla;
+- **7)** wartość redukcji emisji gazów cieplarnianych pochodzącej z projektu redukcji emisji gazów cieplarnianych w segmencie wydobywczym, którą podmiot realizujący Narodowy Cel Redukcyjny zamierza wykorzystać do realizacji obowiązku, o którym mowa w art. 30b ust. 1 i 2, wyrażoną w tonach ekwiwalentu dwutlenku węgla;
+- **8)** określenie przedziału czasowego, w którym osiągnięto redukcję emisji gazów cieplarnianych pochodzącą z projektu redukcji emisji gazów cieplarnianych w segmencie wydobywczym, którą podmiot realizujący Narodowy Cel Redukcyjny zamierza wykorzystać do realizacji obowiązku, o którym mowa w art. 30b ust. 1 i 2;
+- **9)** współrzędne geograficzne projektu redukcji emisji gazów cieplarnianych w segmencie wydobywczym, z którego pochodzi redukcja emisji gazów cieplarnianych, wyrażone w stopniach z dokładnością do czwartego miejsca po przecinku;
+- **10)** określenie tytułu prawnego, z którego wynika możliwość dysponowania przez podmiot realizujący Narodowy Cel Redukcyjny redukcją emisji gazów cieplarnianych pochodzącą z projektu redukcji emisji gazów cieplarnianych w segmencie wydobywczym, którą ten podmiot zamierza wykorzystać do realizacji obowiązku, o którym mowa w art. 30b ust. 1 i 2.
+
+3. Do informacji, o której mowa w ust. 1, podmiot realizujący Narodowy Cel Redukcyjny dołącza dokumenty, z których wynika tytuł prawny, o którym mowa w ust. 2 pkt 10.
+
+4. W celu poprawy przejrzystości obrotu redukcjami emisji gazów cieplarnianych pochodzącymi z projektów redukcji emisji gazów cieplarnianych w segmencie wydobywczym, wykorzystywanymi do rozliczenia Narodowego Celu Redukcyjnego, Prezes Urzędu Regulacji Energetyki, korzystając z kompletnych informacji, o których mowa w ust. 1, oraz sprawozdań rocznych, prowadzi ewidencję projektów redukcji emisji gazów cieplarnianych w segmencie wydobywczym, z których pochodzą redukcje emisji gazów cieplarnianych wykorzystywane do realizacji obowiązku, o którym mowa w art. 30b ust. 1 i 2.
+
+5. Ewidencja, o której mowa w ust. 4, zawiera dane, o których mowa w ust. 2 pkt 1–9.
+
+6. Ewidencja, o której mowa w ust. 4, ma charakter informacyjny i podlega publikacji w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki.
+
 **Art. 30k.** Prezes Urzędu Regulacji Energetyki może żądać od podmiotu realizującego Narodowy Cel Redukcyjny przedstawienia dokumentów lub informacji dotyczących realizacji Narodowego Celu Redukcyjnego, z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.”;
+
+- **26)** w art. 31 ust. 1 otrzymuje brzmienie: „1. Kto wytwarza, transportuje, magazynuje lub wprowadza do obrotu paliwa ciekłe, biopaliwa ciekłe lub inne paliwa odnawialne, gaz skroplony (LPG), sprężony gaz ziemny (CNG), skroplony gaz ziemny (LNG), lekki olej opałowy lub wodór niespełniające wymagań jakościowych określonych w ustawie, podlega grzywnie od 50 000 zł do 500 000 zł lub karze pozbawienia wolności do lat 3.”;
+- **27)** w art. 35 ust. 1 otrzymuje brzmienie: „1. Kto uniemożliwia lub utrudnia inspektorowi przeprowadzenie kontroli lub usuwa paliwo z wyłączeniem wodoru, zabezpieczone w wyniku kontroli, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.”;
+- **28)** w art. 35a:
+    - **a)** w pkt 6 skreśla się wyrazy „w art. 9b ust. 2 lub”,
+    - **b)** w pkt 11 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 12–14 w brzmieniu: „12) podmiot realizujący Narodowy Cel Redukcyjny, który odmawia przedstawienia dokumentów lub informacji, o których mowa w art. 30k;
+
+- **13)** podmiot realizujący Narodowy Cel Redukcyjny, który wprowadza w błąd Prezesa Urzędu Regulacji Energetyki w zakresie przedstawianych dokumentów lub informacji, o których mowa w art. 30k;
+- **14)** przedsiębiorca wytwarzający, transportujący, magazynujący, wprowadzający do obrotu lub gromadzący w stacji zakładowej wodór, a także przedsiębiorca prowadzący hurtownię wodoru, który nie przekazał w terminie informacji, o której mowa w art. 27b ust. 1 lub 2, lub podał w tej informacji nieprawdziwe dane.”;
+- **29)** w art. 35b:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W przypadku niewykonania obowiązku, o którym mowa w art. 30b ust. 1 i 2, przez podmioty wspólnie realizujące ten obowiązek, karze pieniężnej podlegają te podmioty, które nie zrealizowały tego obowiązku w przypadku rozliczania samodzielnej jego realizacji.”,
+    - **b)** uchyla się ust. 2;
+
+- **30)** w art. 35c:
+    - **a)** w ust. 1 wyrazy „ i 11” zastępuje się wyrazami „ i 11–14”,
+    - **b)** w ust. 3: – objaśnienie symbolu „S” otrzymuje brzmienie: „S – 215,00 złotych za tonę ekwiwalentu dwutlenku węgla [zł/tCO ],”, – objaśnienie symbolu „O” otrzymuje brzmienie: „O – wartość niewykonanego obowiązku, o którym mowa w art. 30b ust. 1 i 2, wyrażoną w tonach ekwiwalentu dwutlenku węgla w przeliczeniu na jednostkę energii [tCO /MJ], z dokładnością do dziesięciu miejsc po przecinku,”, – objaśnienie symbolu „W” otrzymuje brzmienie: „W – odpowiednio wartość opałową lub energetyczną paliw ciekłych, biopaliw ciekłych, gazu skrop-lonego (LPG), sprężonego gazu ziemnego (CNG), skroplonego gazu ziemnego (LNG) lub wodoru, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych paliw na terytorium Rzeczypospolitej Polskiej lub zużytych na potrzeby własne na tym terytorium, oraz energii elektrycznej sprzedawanej odbiorcy końcowemu lub zużywanej na potrzeby własne, liczoną za rok, w którym podmiot ten nie wykonał obowiązku, o którym mowa w art. 30b ust. 1 i 2, wyrażoną w jednostkach energii [MJ].”;
+
+- **31)** w art. 35d:
+    - **a)** w ust. 1: – pkt 2 otrzymuje brzmienie: „2) podmiotom, o których mowa w art. 35a pkt 7, 8, 12 i 13, Prezes Urzędu Regulacji Energetyki,”, – dodaje się pkt 3 w brzmieniu: „3) przedsiębiorcom, o których mowa w art. 35a pkt 14, minister właściwy do spraw energii”,
+    - **b)** w ust. 2 wyrazy „art. 9b ust. 2 i art. 9c” zastępuje się wyrazami „art. 9c i art. 9ca ust. 1”;
+
+- **32)** w art. 35e:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Wpływy z kar pieniężnych wymierzanych na podstawie art. 35a pkt 1–3, 5, 6 oraz 9–14 stanowią dochód budżetu państwa.”,
+    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Wpływy z kar pieniężnych wymierzanych na podstawie art. 35a pkt 7 i 8 stanowią przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+
+1b. Karę pieniężną, o której mowa w art. 35a pkt 7, uiszcza się na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej w terminie 14 dni od dnia, w którym decyzja o wymierzeniu kary pieniężnej stała się prawomocna.”;
+
+- **33)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „Rozdział 4a Przepisy epizodyczne
 
 **Art. 37a.**
 
@@ -87,9 +262,25 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, 868, 1093 i 1505) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 w pkt 11i wyrazy „art. 2 pkt 7” zastępuje się wyrazami „art. 2 ust. 1 pkt 7”;
+- **2)** po art. 62d dodaje się art. 62da w brzmieniu: „Art. 62da. Od dnia 1 lipca 2021 r. do dnia 30 czerwca 2023 r.:
+- **1)** przedsiębiorstwo energetyczne świadczące usługi, o których mowa w art. 4ba ust. 1, przekazuje Prezesowi URE miesięczne sprawozdanie zawierające informacje o podmiotach zlecających usługi, o których mowa w art. 4ba ust. 1, w terminie 14 dni od dnia zakończenia miesiąca, którego dotyczy to sprawozdanie;
+- **2)** na wniosek Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych lub ministra właściwego do spraw energii Prezes URE przekazuje kopie sprawozdań, o których mowa w pkt 1, do wnioskującego organu;
+- **3)** Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienie danych, o których mowa w art. 4ba ust. 8, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych;
+- **4)** przedsiębiorstwo energetyczne posiadające koncesję na wytwarzanie paliw ciekłych lub koncesję na obrót paliwami ciekłymi z zagranicą, a także podmiot przywożący stosownie do swojej działalności przekazuje Prezesowi URE miesięczne sprawozdanie o rodzajach oraz ilości wytworzonych, przywiezionych i wywiezionych paliw ciekłych, a także ich przeznaczeniu – w terminie 20 dni od dnia zakończenia miesiąca, którego dotyczy to sprawozdanie;
+- **5)** na wniosek Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych lub ministra właściwego do spraw energii Prezes URE przekazuje kopie sprawozdań, o których mowa w pkt 4, do wnioskującego organu;
+- **6)** Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienia danych, o których mowa w art. 43d ust. 5, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych.”.
+
 **Art. 3.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 401 w ust. 7 w pkt 17 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 18 i 19 w brzmieniu: „18) wpływy z tytułu opłaty zastępczej, o której mowa w art. 37a ust. 1 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2021 r. poz. 133, 694, 1093 i 1642);
+- **19)** wpływy z kar pieniężnych wymierzanych na podstawie art. 35a pkt 7 i 8 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw.”;
+- **2)** w art. 401c w ust. 9c wprowadzenie do wyliczenia otrzymuje brzmienie: „Środki Narodowego Funduszu w wysokości nie mniejszej niż 15% kwoty przychodów, o których mowa w art. 401 ust. 7 pkt 15, i kwota przychodów, o których mowa w art. 401 ust. 7 pkt 16–19, po pomniejszeniu o koszty obsługi tych przychodów, jednak nie więcej niż o 2% tych przychodów, przeznacza się na:”.
+
 **Art. 4.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2021 r. poz. 1355) wprowadza się następujące zmiany:
+
+- **1)** w art. 28ba w ust. 1 w pkt 2 w lit. b po wyrazach „dyrektywy 2009/28/WE” dodaje się wyrazy „lub art. 30 ust. 4 akapit pierwszy dyrektywy Parlamentu Europejskiego i Rady (UE) 2018/2001 z dnia 11 grudnia 2018 r. w sprawie promowania stosowania energii ze źródeł odnawialnych (Dz. Urz. UE L 328 z 21.12.2018, str. 82)”;
+- **2)** w art. 28l w ust. 1 w pkt 1 po wyrazach „dyrektywie 2009/28/WE” dodaje się wyrazy „dla decyzji Komisji Europejskiej wydanych przed dniem 1 lipca 2021 r. lub dyrektywie Parlamentu Europejskiego i Rady (UE) 2018/2001 z dnia 11 grudnia 2018 r. w sprawie promowania stosowania energii ze źródeł odnawialnych dla decyzji Komisji Europejskiej wydanych po dniu 30 czerwca 2021 r.”.
 
 **Art. 5.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2020 r. poz. 411 oraz z 2021 r. poz. 255 i 1093) w art. 3 w ust. 2 w pkt 2 wyrazy „Agencję Rezerw Materiałowych” zastępuje się wyrazami „Rządową Agencję Rezerw Strategicznych”.
 
@@ -98,6 +289,14 @@ source: "isap-pdf"
 **Art. 7.** W ustawie z dnia 30 marca 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 694) w art. 9 w pkt 3 w lit. a w art. 24 w ust. 1 wyraz „Zarządzający” zastępuje się wyrazami „wojewódzki inspektor Inspekcji Handlowej”.
 
 **Art. 8.** W ustawie z dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne (Dz. U. poz. 1093 i 1505) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w pkt 51 w lit. a w tiret czwartym:
+    - **a)** polecenie nowelizacyjne otrzymuje brzmienie: „po pkt 6a dodaje się pkt 6aa–6e w brzmieniu:”,
+    - **b)** pkt 6a oznacza się jako pkt 6aa;
+
+- **2)** w art. 37: 56 ust. 1 pkt 6aa–6c”, 56 ust. 1 pkt 30u i lit. b”.
+    - **a)** w pkt 2 wyrazy „art. 56 ust. 1 pkt 6a–6c” zastępuje się wyrazami „art.
+    - **b)** w pkt 5 wyrazy „art. 56 ust. 1 pkt 30u i lit. d” zastępuje się wyrazami „art.
 
 **Art. 9.** Do postępowań w sprawie zwrotu kosztów badań, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 24 ust. 1, 1a, 4, 4a i 5 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
@@ -155,4 +354,10 @@ source: "isap-pdf"
 **Art. 21.** Przepisy art. 2 ust. 1 pkt 29 lit. a, art. 30b ust. 1, art. 30g ust. 1 i 1a, art. 35c ust. 3 oraz art. 37a ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się, w zakresie dotyczącym wodoru, od dnia 1 stycznia 2023 r.
 
 **Art. 22.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 2 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2021 r.;
+- **2)** art. 4 oraz art. 17, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **3)** art. 1 pkt 4 i 5, pkt 10 lit. a, pkt 28 lit. a oraz pkt 31 lit. b, które wchodzą w życie z dniem 1 stycznia 2022 r.;
+- **4)** art. 1 pkt 1 lit. a, c, e–g, pkt 2 i 3, pkt 6–9, pkt 10 lit. b, pkt 11 i 12, pkt 14–16, pkt 26 i 27, pkt 28 w zakresie art. 35a pkt 14, oraz pkt 31 lit. a tiret drugie, które wchodzą w życie z dniem 1 stycznia 2023 r.
+
 

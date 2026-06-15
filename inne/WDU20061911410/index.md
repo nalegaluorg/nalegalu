@@ -8,7 +8,7 @@ pos: 1410
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Państwowym Ratownictwie Medycznym
@@ -47,6 +47,45 @@ Art. 51–56. (pominięte)
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
 
+- **1)** dysponent jednostki – podmiot leczniczy w rozumieniu przepisów o działalności leczniczej, w którego skład wchodzi jednostka systemu, o której mowa w art. 32 ust. 1;
+- **2)** kwalifikowana pierwsza pomoc – czynności podejmowane wobec osoby w stanie nagłego zagrożenia zdrowotnego przez ratownika, o którym mowa w art. 13 ust. 1;
+- **3)** lekarz systemu:
+    - **a)** lekarza posiadającego specjalizację I lub II stopnia lub tytuł specjalisty w dziedzinie: anestezjologii i intensywnej terapii lub medycyny ratunkowej albo lekarza po drugim roku specjalizacji w jednej z tych dziedzin, który jest w trakcie szkolenia specjalizacyjnego w tej dziedzinie, lub
+    - **b)** lekarza posiadającego tytuł specjalisty w dziedzinie intensywnej terapii albo lekarza w trakcie szkolenia specjalizacyjnego w tej dziedzinie, lub
+    - **c)** lekarza posiadającego specjalizację I lub II stopnia lub tytuł specjalisty w dziedzinie: chorób wewnętrznych, kardiologii, neurologii, chirurgii ogólnej, chirurgii dziecięcej, ortopedii i traumatologii narządu ruchu, ortopedii i traumatologii lub pediatrii, który ukończył kurs, o którym mowa w art. 38a ust. 1, lub
+    - **d)** lekarza, który w ramach szkolenia specjalizacyjnego ukończył moduł podstawowy w dziedzinie: chorób wewnętrznych, pediatrii lub chirurgii ogólnej i jest w trakcie tego szkolenia specjalizacyjnego oraz ukończył kurs, o którym mowa w art. 38a ust. 1, lub
+    - **e)** lekarza po drugim roku specjalizacji w dziedzinie neurologii, który jest w trakcie szkolenia specjalizacyjnego w tej dziedzinie i ukończył kurs, o którym mowa w art. 38a ust. 1, lub
+    - **f)** lekarza, który ukończył szkolenie specjalizacyjne w dziedzinie: chorób wewnętrznych, pediatrii lub chirurgii ogólnej i uzyskał potwierdzenie zakończenia tego szkolenia specjalizacyjnego, o którym mowa w art. 16r ust. 6 pkt 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2024 r. poz. 1287 i 1897 oraz z 2025 r. poz. 619, 769 i
+
+- **1301)** , albo uzyskał decyzję, o której mowa w art. 16 ust. 7 pkt 1 albo ust. 9 tej ustawy, jednak niedłużej niż przez 5 lat od dnia uzyskania potwierdzenia zakończenia szkolenia specjalizacyjnego albo od dnia uzyskania decyzji, oraz ukończył kurs, o którym mowa w art. 38a ust. 1;
+- **3a)** lekarz w trakcie szkolenia specjalizacyjnego – lekarza, który realizuje program szkolenia specjalizacyjnego albo uzyskał potwierdzenie zakończenia szkolenia specjalizacyjnego, o którym mowa w art. 16r ust. 6 pkt 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, albo uzyskał decyzję, o której mowa w art. 16 ust. 7 pkt 1 albo ust. 9 tej ustawy, jednak niedłużej niż przez 5 lat od dnia uzyskania potwierdzenia zakończenia szkolenia specjalizacyjnego albo od dnia uzyskania decyzji;
+- **3b)** lekarz po drugim roku specjalizacji – lekarza, który co najmniej od 2 lat odbywa szkolenie specjalizacyjne i uzyskał od kierownika specjalizacji potwierdzenie, że posiada wiedzę i umiejętności umożliwiające wykonywanie zadań lekarza systemu;
+- **4)** medyczne czynności ratunkowe – świadczenia opieki zdrowotnej w rozumieniu przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, udzielane przez jednostkę systemu, o której mowa w art. 32 ust. 1 pkt 2, w warunkach pozaszpitalnych, w celu ratowania osoby w stanie nagłego zagrożenia zdrowotnego;
+- **5)** miejsce zdarzenia – miejsce, w którym nastąpiło zdarzenie powodujące stan nagłego zagrożenia zdrowotnego, i obszar, na który rozciągają się jego skutki;
+- **6)** pielęgniarka systemu:
+    - **a)** pielęgniarkę posiadającą tytuł specjalisty lub będącą w trakcie szkolenia specjalizacyjnego w dziedzinie pielęgniarstwa ratunkowego lub anestezjologicznego i intensywnej opieki lub
+    - **b)** pielęgniarkę posiadającą tytuł specjalisty lub będącą w trakcie szkolenia specjalizacyjnego w dziedzinie pielęgniarstwa chirurgicznego lub pediatrycznego i ukończony kurs, o którym mowa w art. 38a ust. 2, lub
+    - **c)** pielęgniarkę posiadającą ukończony kurs kwalifikacyjny w dziedzinie pielęgniarstwa ratunkowego, anestezjologicznego i intensywnej opieki, chirurgicznego, kardiologicznego lub pediatrycznego oraz co najmniej 3-letni staż pracy w oddziałach tych specjalności, szpitalnym oddziale ratunkowym, izbie przyjęć lub zespole ratownictwa medycznego i ukończony kurs, o którym mowa w art. 38a ust. 2, lub
+    - **d)** pielęgniarkę posiadającą tytuł specjalisty w dziedzinie pielęgniarstwa kardiologicznego i ukończony kurs, o którym mowa w art. 38a ust. 2;
+
+- **7)** pierwsza pomoc – zespół czynności podejmowanych w celu ratowania osoby w stanie nagłego zagrożenia zdrowotnego wykonywanych przez osobę znajdującą się w miejscu zdarzenia, w tym z wykorzystaniem wyrobu medycznego, wyposażenia wyrobu medycznego, zestawu zabiegowego i systemu w rozumieniu odpowiednio art. 2 pkt 1, 2, 10 i 11 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ) oraz produktów leczniczych dostępnych na miejscu zdarzenia, dopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej;
+- **8)** stan nagłego zagrożenia zdrowotnego – stan polegający na nagłym lub przewidywanym w krótkim czasie pojawieniu się objawów pogarszania zdrowia, którego bezpośrednim następstwem może być poważne uszkodzenie funkcji organizmu lub uszkodzenie ciała lub utrata życia, wymagający podjęcia natychmiastowych medycznych czynności ratunkowych i leczenia;
+- **9)** szpitalny oddział ratunkowy – komórkę organizacyjną szpitala w rozumieniu przepisów o działalności leczniczej, stanowiącą jednostkę systemu, o której mowa w art. 32 ust. 1 pkt 1, udzielającą świadczeń opieki zdrowotnej osobom w stanie nagłego zagrożenia zdrowotnego, spełniającą wymagania określone w ustawie, wpisaną do ewidencji, o której mowa w art. 23a ust. 1;
+- **9a)** jednostka organizacyjna szpitala wyspecjalizowana w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego – jednostkę organizacyjną szpitala udzielającą świadczeń opieki zdrowotnej osobom w stanie nagłego zagrożenia zdrowotnego, wpisaną do ewidencji, o której mowa w art. 23a ust. 1;
+- **10)** zespół ratownictwa medycznego – jednostkę systemu, o której mowa w art. 32 ust. 1 pkt 2, podejmującą medyczne czynności ratunkowe w warunkach pozaszpitalnych, spełniającą wymagania określone w ustawie;
+- **11)** centrum urazowe – wydzieloną funkcjonalnie część szpitala, w rozumieniu przepisów o działalności leczniczej, w którym działa szpitalny oddział ratunkowy, w której to części specjalistyczne oddziały są powiązane ze sobą organizacyjnie oraz zakresem zadań, w sposób pozwalający na szybkie diagnozowanie i leczenie pacjenta urazowego, spełniającą wymagania określone w ustawie, wpisaną do ewidencji, o której mowa w art. 23a ust. 1;
+- **11a)** centrum urazowe dla dzieci – wydzieloną funkcjonalnie część szpitala, w rozumieniu przepisów o działalności leczniczej, w którym działa szpitalny oddział ratunkowy, w której to części specjalistyczne oddziały są powiązane ze sobą organizacyjnie oraz zakresem zadań, w sposób pozwalający na szybkie diagnozowanie i leczenie pacjenta urazowego dziecięcego, spełniającą wymagania określone w ustawie, wpisaną do ewidencji, o której mowa w art. 23a ust. 1;
+- **12)** pacjent urazowy – osobę w stanie nagłego zagrożenia zdrowotnego spowodowanego działaniem czynnika zewnętrznego, którego następstwem są ciężkie, mnogie lub wielonarządowe obrażenia ciała;
+- **12a)** pacjent urazowy dziecięcy – osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego spowodowanego działaniem czynnika zewnętrznego, którego następstwem są ciężkie, mnogie lub wielonarządowe obrażenia ciała;
+- **13)** obszar działania – obszar działania zespołu ratownictwa medycznego, określony w sposób zapewniający realizację parametrów czasów dotarcia, o których mowa w art. 24, w ramach którego zespół ten będzie dysponowany na miejsce zdarzenia w pierwszej kolejności;
+- **14)** rejon operacyjny – rejon działania dyspozytorni medycznej określony w wojewódzkim planie działania systemu;
+- **14a)** dyspozytornia medyczna – komórkę organizacyjną urzędu wojewódzkiego wskazaną w wojewódzkim planie działania systemu, utworzoną w celu przyjmowania i obsługi zgłoszeń alarmowych przekazywanych z centrów powiadamiania ratunkowego, o których mowa w art. 3 ust. 2 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. z 2025 r. poz.
+- **1354)** , przyjmowania powiadomień o zdarzeniach oraz wykonywania zadań przez dyspozytorów medycznych;
+- **14b)** segregacja medyczna – proces ustalenia kolejności udzielania świadczeń opieki zdrowotnej w szpitalnych oddziałach ratunkowych oraz w zespołach ratownictwa medycznego, realizowany wobec osób w stanie nagłego zagrożenia zdrowotnego, uwzględniający stan zdrowia tych osób;
+- **15)** System Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego – system, na który składają się:
+    - **a)** system teleinformatyczny umożliwiający przyjmowanie zgłoszeń alarmowych z centrów powiadamiania ratunkowego, o których mowa w art. 3 ust. 2 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego, oraz powiadomień o zdarzeniach, dysponowanie zespołów ratownictwa medycznego, rejestrowanie zdarzeń medycznych, prezentację położenia geograficznego miejsca zdarzenia, pozycjonowanie zespołów ratownictwa medycznego oraz wsparcie realizacji zadań przez zespoły ratownictwa medycznego, dyspozytorów medycznych, wojewódzkiego koordynatora ratownictwa medycznego i krajowego koordynatora ratownictwa medycznego oraz
+    - **b)** Podsystem Zintegrowanej Łączności Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego umożliwiający w warstwie telekomunikacyjnej łączności głosowej obsługę zgłoszeń alarmowych i powiadomień o zdarzeniach, współpracę na potrzeby systemu z systemami łączności radiowej funkcjonującymi w województwach, zapewniający rejestrowanie i przechowywanie nagrań rozmów oraz korespondencji radiowej.
+
 **Art. 4.** Kto zauważy osobę lub osoby znajdujące się w stanie nagłego zagrożenia zdrowotnego lub jest świadkiem zdarzenia powodującego taki stan, w miarę posiadanych możliwości i umiejętności ma obowiązek niezwłocznego podjęcia działań zmierzających do skutecznego powiadomienia o tym zdarzeniu podmiotów ustawowo powołanych do niesienia pomocy osobom w stanie nagłego zagrożenia zdrowotnego.
 
 **Art. 5.**
@@ -58,6 +97,8 @@ Art. 51–56. (pominięte)
 **Art. 6.**
 
 1. Osobie, która poniosła szkodę na mieniu powstałą w następstwie udzielania przez nią pierwszej pomocy, przysługuje roszczenie o naprawienie tej szkody od Skarbu Państwa reprezentowanego przez wojewodę właściwego ze względu na miejsce powstania szkody.
+
+2. Naprawienie szkody, o którym mowa w ust. 1, obejmuje szkodę rzeczywistą.
 
 3. Naprawienie szkody, o którym mowa w ust. 1, nie przysługuje, jeżeli szkoda powstała wyłącznie z winy osoby, o której mowa w ust. 1, lub osoby trzeciej, za którą Skarb Państwa nie ponosi odpowiedzialności.
 
@@ -77,7 +118,9 @@ Art. 51–56. (pominięte)
 
 3. Wysokość stawki godzinowej dla lekarzy systemu, pielęgniarek systemu oraz ratowników medycznych, biorących udział w zajęciach edukacyjnych w zakresie udzielania pierwszej pomocy ustala dyrektor szkoły w ramach posiadanych środków finansowych, z tym że wysokość tej stawki nie może być niższa niż wysokość stawki godzinowej dla nauczyciela posiadającego stopień nauczyciela kontraktowego oraz tytuł zawodowy magistra z przygotowaniem pedagogicznym, realizującego tygodniowy obowiązkowy wymiar godzin, określony w art. 42 ust. 3 lp. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986, z późn. zm. ) ustalonej na podstawie przepisów, o których mowa w art. 30 ust. 5 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 
-4. Zajęcia edukacyjne w zakresie udzielania pierwszej pomocy mogą być realizowane przez nauczycieli posiadających odpowiednie przygotowanie. właściwym do spraw oświaty i wychowania, określi, w drodze rozporządzenia, zakres wiedzy i umiejętności niezbędnych do prowadzenia zajęć edukacyjnych w zakresie udzielania pierwszej pomocy, tryb ich nabywania oraz wzór zaświadczenia potwierdzającego posiadanie przygotowania do prowadzenia zajęć w zakresie udzielania pierwszej pomocy, mając na celu zapewnienie właściwej ich realizacji.
+4. Zajęcia edukacyjne w zakresie udzielania pierwszej pomocy mogą być realizowane przez nauczycieli posiadających odpowiednie przygotowanie.
+
+5. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, określi, w drodze rozporządzenia, zakres wiedzy i umiejętności niezbędnych do prowadzenia zajęć edukacyjnych w zakresie udzielania pierwszej pomocy, tryb ich nabywania oraz wzór zaświadczenia potwierdzającego posiadanie przygotowania do prowadzenia zajęć w zakresie udzielania pierwszej pomocy, mając na celu zapewnienie właściwej ich realizacji.
 
 **Art. 9.** Ustanawia się dzień 13 października Dniem Ratownictwa Medycznego.
 
@@ -119,6 +162,8 @@ Art. 51–56. (pominięte)
 
 **Art. 12e.** (uchylony)
 
+**Art. 12f.** (uchylony)
+
 **Art. 12g.** (uchylony)
 
 **Art. 12h.** (uchylony)
@@ -142,8 +187,9 @@ Art. 51–56. (pominięte)
 
 3. Program kursu zatwierdza wojewoda właściwy ze względu na siedzibę podmiotu prowadzącego kurs.
 
-4. Wojewoda zatwierdza program kursu po: w przepisach wydanych na podstawie ust. 8 pkt 1;
+4. Wojewoda zatwierdza program kursu po:
 
+- **1)** stwierdzeniu jego zgodności z ramowym programem, o którym mowa w przepisach wydanych na podstawie ust. 8 pkt 1;
 - **2)** przeprowadzeniu weryfikacji kwalifikacji kadry dydaktycznej w zakresie ich zgodności z przepisami wydanymi na podstawie ust. 8 pkt 2.
 
 5. Wojewoda odmawia zatwierdzenia albo cofa zatwierdzenie programu kursu, jeżeli program nie spełnia wymagań określonych w przepisach wydanych na podstawie ust. 8 pkt 1 lub podmiot prowadzący kurs nie zapewnia kadry dydaktycznej o kwalifikacjach określonych w przepisach wydanych na podstawie ust. 8 pkt 2.
@@ -159,6 +205,16 @@ Art. 51–56. (pominięte)
 - **3)** sposób przeprowadzania egzaminu kończącego kurs, skład, tryb powoływania i odwoływania komisji egzaminacyjnej, okres ważności oraz wzór zaświadczenia o ukończeniu kursu i uzyskaniu tytułu ratownika, mając na celu uwzględnienie obiektywnych kryteriów weryfikacji wiedzy i umiejętności zdobytych podczas kursu.
 
 **Art. 14.** Zakres czynności wykonywanych przez ratownika w ramach kwalifikowanej pierwszej pomocy obejmuje:
+
+- **1)** resuscytację krążeniowo-oddechową, bezprzyrządową i przyrządową, z podaniem tlenu oraz zastosowaniem według wskazań defibrylatora zautomatyzowanego;
+- **2)** tamowanie krwotoków zewnętrznych i opatrywanie ran;
+- **3)** unieruchamianie złamań i podejrzeń złamań kości oraz zwichnięć;
+- **4)** ochronę przed wychłodzeniem lub przegrzaniem;
+- **5)** prowadzenie wstępnego postępowania przeciwwstrząsowego poprzez właściwe ułożenie osób w stanie nagłego zagrożenia zdrowotnego, ochronę termiczną osób w stanie nagłego zagrożenia zdrowotnego;
+- **6)** stosowanie tlenoterapii biernej;
+- **7)** ewakuację z miejsca zdarzenia osób w stanie nagłego zagrożenia zdrowotnego;
+- **8)** wsparcie psychiczne osób w stanie nagłego zagrożenia zdrowotnego.
+- **9)** (uchylony)
 
 **Art. 15.**
 
@@ -178,7 +234,10 @@ Art. 51–56. (pominięte)
 
 - **1)** zapewniają gotowość do działań ratowniczych w czasie nieprzekraczającym 30 minut od przekazania powiadomienia o zdarzeniu przez dyspozytora medycznego;
 - **2)** dysponują ratownikami w liczbie niezbędnej do zapewnienia gotowości do działań ratowniczych, o której mowa w pkt 1;
-- **3)** dysponują wyposażeniem i środkami łączności niezbędnymi do zapewnienia gotowości do działań ratowniczych, o której mowa w pkt 1, oraz wyposażeniem niezbędnym do udzielania kwalifikowanej pierwszej pomocy. jednostki organizacyjne:
+- **3)** dysponują wyposażeniem i środkami łączności niezbędnymi do zapewnienia gotowości do działań ratowniczych, o której mowa w pkt 1, oraz wyposażeniem niezbędnym do udzielania kwalifikowanej pierwszej pomocy.
+
+1b. W przypadku jednostki, o której mowa w ust. 1 pkt 3–7 i 9, posiadającej jednostki organizacyjne:
+
 - **1)** wpisowi do rejestru jednostek współpracujących z systemem podlegają jej poszczególne jednostki organizacyjne;
 - **2)** warunki wymienione w ust. 1a stosuje się do każdej jednostki organizacyjnej odrębnie.
 
@@ -199,7 +258,8 @@ Art. 51–56. (pominięte)
 1. Szkolenie w zakresie kwalifikowanej pierwszej pomocy na potrzeby szkolenia policjantów, funkcjonariuszy, strażaków i pracowników służb podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych, zwane dalej „szkoleniem KPP MSWiA”, lub egzamin z zakresu wiedzy i umiejętności objętych programem tego szkolenia przeprowadzają jednostka organizacyjna, jednostka szkoleniowa, ośrodek lub centrum szkolenia lub kształcenia służb podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych, lub inny podmiot wybrany przez te służby, zwane dalej „podmiotami szkolącymi”, które:
 
 - **1)** realizują program szkolenia KPP MSWiA;
-- **2)** zapewniają kadrę dydaktyczną posiadającą kwalifikacje niezbędne do prowadzenia szkolenia KPP MSWiA lub przeprowadzenia egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia; MSWiA lub przeprowadzenia egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia zgodnie z przepisami wydanymi na podstawie art. 13 ust. 8, w tym do szkolenia praktycznego;
+- **2)** zapewniają kadrę dydaktyczną posiadającą kwalifikacje niezbędne do prowadzenia szkolenia KPP MSWiA lub przeprowadzenia egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia;
+- **3)** zapewniają bazę dydaktyczną niezbędną do przeprowadzenia szkolenia KPP MSWiA lub przeprowadzenia egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia zgodnie z przepisami wydanymi na podstawie art. 13 ust. 8, w tym do szkolenia praktycznego;
 - **4)** prowadzą dokumentację związaną z organizacją i przebiegiem szkolenia KPP MSWiA lub egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia, w szczególności sporządzają regulaminy organizacyjne szkolenia KPP MSWiA, protokoły postępowania kwalifikacyjnego oraz protokoły przebiegu egzaminów;
 - **5)** prowadzą ewidencję wydanych zaświadczeń o ukończeniu szkolenia KPP MSWiA i uzyskaniu tytułu ratownika lub zaświadczeń potwierdzających kwalifikacje ratownika.
 
@@ -211,7 +271,7 @@ Art. 51–56. (pominięte)
 
 5. Komendant Główny Policji, Komendant Główny Państwowej Straży Pożarnej, Komendant Główny Straży Granicznej oraz Komendant Służby Ochrony Państwa powołują koordynatorów szkolenia KPP MSWiA dla każdej ze służb, zwanych dalej „koordynatorami szkolenia KPP służby”, którzy w ich imieniu sprawują nadzór nad realizacją i jakością szkolenia KPP MSWiA oraz egzaminów z zakresu wiedzy i umiejętności objętych programem tego szkolenia w tych służbach.
 
-6. Komendant Centralnego Biura Śledczego Policji, komendanci wojewódzcy, powiatowi, miejscy lub rejonowi Policji, Komendant-Rektor Akademii Policji w Szczytnie, komendanci szkół policyjnych, komendanci wojewódzcy, powiatowi, miejscy Państwowej Straży Pożarnej, Rektor-Komendant Akademii Pożarniczej, komendanci szkół Państwowej Straży Pożarnej, komendanci oddziałów, placówek i dywizjonów Straży Granicznej, Rektor-Komendant Wyższej Szkoły Straży powoływać koordynatorów szkolenia KPP MSWiA w jednostkach sobie podległych, zwanych dalej „koordynatorami szkolenia w jednostkach”, którzy w ich imieniu sprawują nadzór nad realizacją i jakością szkolenia KPP MSWiA oraz egzaminów z zakresu wiedzy i umiejętności objętych programem tego szkolenia w tych jednostkach.
+6. Komendant Centralnego Biura Śledczego Policji, komendanci wojewódzcy, powiatowi, miejscy lub rejonowi Policji, Komendant-Rektor Akademii Policji w Szczytnie, komendanci szkół policyjnych, komendanci wojewódzcy, powiatowi, miejscy Państwowej Straży Pożarnej, Rektor-Komendant Akademii Pożarniczej, komendanci szkół Państwowej Straży Pożarnej, komendanci oddziałów, placówek i dywizjonów Straży Granicznej, Rektor-Komendant Wyższej Szkoły Straży Granicznej, komendanci ośrodków szkolenia oraz ośrodków Straży Granicznej mogą powoływać koordynatorów szkolenia KPP MSWiA w jednostkach sobie podległych, zwanych dalej „koordynatorami szkolenia w jednostkach”, którzy w ich imieniu sprawują nadzór nad realizacją i jakością szkolenia KPP MSWiA oraz egzaminów z zakresu wiedzy i umiejętności objętych programem tego szkolenia w tych jednostkach.
 
 7. Koordynator szkolenia KPP MSWiA:
 
@@ -229,7 +289,10 @@ Art. 51–56. (pominięte)
 - **2)** przewodniczy komisjom egzaminacyjnym;
 - **3)** analizuje oceny jakości szkoleń KPP MSWiA przeprowadzanych przez koordynatorów szkolenia w jednostkach;
 - **4)** współpracuje z koordynatorem szkolenia KPP MSWiA w zakresie aktualizacji materiałów i pomocy szkoleniowych;
-- **5)** nadzoruje działania koordynatorów szkolenia w jednostkach. komendzie wojewódzkiej Policji, Akademii Policji w Szczytnie, w szkołach Policji, w komendach wojewódzkich Państwowej Straży Pożarnej, Akademii Pożarniczej, szkołach Państwowej Straży Pożarnej, w oddziałach, placówkach i dywizjonach Straży Granicznej, Wyższej Szkole Straży Granicznej, ośrodkach szkolenia oraz ośrodkach Straży Granicznej:
+- **5)** nadzoruje działania koordynatorów szkolenia w jednostkach.
+
+9. Koordynator szkolenia w jednostce w Centralnym Biurze Śledczym Policji, komendzie wojewódzkiej Policji, Akademii Policji w Szczytnie, w szkołach Policji, w komendach wojewódzkich Państwowej Straży Pożarnej, Akademii Pożarniczej, szkołach Państwowej Straży Pożarnej, w oddziałach, placówkach i dywizjonach Straży Granicznej, Wyższej Szkole Straży Granicznej, ośrodkach szkolenia oraz ośrodkach Straży Granicznej:
+
 - **1)** odpowiada za organizację i przebieg szkoleń KPP MSWiA i przeprowadzanych egzaminów z zakresu wiedzy i umiejętności objętych programem tych szkoleń;
 - **2)** przygotowuje roczny terminarz szkoleń KPP MSWiA i egzaminów z zakresu wiedzy i umiejętności objętych programem tych szkoleń oraz przedkłada go do zatwierdzenia koordynatorowi szkolenia KPP służby w terminie do dnia 31 stycznia, niepóźniej jednak niż do początku pierwszego przeprowadzanego szkolenia KPP MSWiA;
 - **3)** dokonuje oceny jakości prowadzonych szkoleń KPP MSWiA i przeprowadzanych egzaminów z zakresu wiedzy i umiejętności objętych programem tych szkoleń;
@@ -241,8 +304,9 @@ Art. 51–56. (pominięte)
 - **2)** organizują i prowadzą doskonalenie zawodowe w zakresie kwalifikowanej pierwszej pomocy;
 - **3)** przedstawiają koordynatorowi szkolenia w jednostce w komendzie wojewódzkiej, w terminie do dnia 31 stycznia za rok poprzedni, coroczne sprawozdanie dotyczące realizacji szkoleń KPP MSWiA oraz egzaminów z zakresu wiedzy i umiejętności objętych programem szkoleń KPP MSWiA i oceny jakości tych szkoleń i egzaminów organizowanych przez podmioty szkolące.
 
-11. Koordynatorem szkolenia KPP MSWiA, koordynatorem szkolenia KPP służby lub koordynatorem szkolenia w jednostkach może być lekarz, pielęgniarka lub ratownik medyczny, którzy: licencjata lub równorzędny;
+11. Koordynatorem szkolenia KPP MSWiA, koordynatorem szkolenia KPP służby lub koordynatorem szkolenia w jednostkach może być lekarz, pielęgniarka lub ratownik medyczny, którzy:
 
+- **1)** posiadają tytuł zawodowy magistra lub równorzędny albo tytuł zawodowy licencjata lub równorzędny;
 - **2)** posiadają co najmniej 3-letnie doświadczenie w udzielaniu świadczeń zdrowotnych w jednostkach systemu, o których mowa w art. 32 ust. 1, lub 5-letnie doświadczenie w wykonywaniu zawodu medycznego w zakresie udzielania świadczeń zdrowotnych w służbach podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych;
 - **3)** posiadają aktualną wiedzę i umiejętności z zakresu objętego programem szkolenia KPP MSWiA;
 - **4)** realizują obowiązek doskonalenia zawodowego, aktualizacji wiedzy albo ustawicznego rozwoju zawodowego.
@@ -261,10 +325,11 @@ Art. 51–56. (pominięte)
 
 2. Egzamin, o którym mowa w ust. 1, jest przeprowadzany przez komisję egzaminacyjną powoływaną przez kierownika podmiotu szkolącego, składającą się z 3 osób:
 
-- **1)** przewodniczącego komisji egzaminacyjnej, którym jest koordynator szkolenia KPP służby albo wskazani przez niego: względu na siedzibę podmiotu szkolącego albo wskazanej przez niego osoby będącej lekarzem systemu, pielęgniarką systemu albo ratownikiem medycznym, która posiada co najmniej 5-letnie doświadczenie w udzielaniu świadczeń zdrowotnych w jednostkach systemu, o których mowa w art. 32 ust. 1;
+- **1)** przewodniczącego komisji egzaminacyjnej, którym jest koordynator szkolenia KPP służby albo wskazani przez niego:
     - **a)** koordynator szkolenia w jednostce albo
     - **b)** osoba będąca lekarzem systemu, pielęgniarką systemu albo ratownikiem medycznym, która posiada co najmniej 5-letnie doświadczenie w udzielaniu świadczeń zdrowotnych w jednostkach systemu, o których mowa w art. 32 ust. 1;
 
+- **2)** konsultanta wojewódzkiego w dziedzinie medycyny ratunkowej właściwego ze względu na siedzibę podmiotu szkolącego albo wskazanej przez niego osoby będącej lekarzem systemu, pielęgniarką systemu albo ratownikiem medycznym, która posiada co najmniej 5-letnie doświadczenie w udzielaniu świadczeń zdrowotnych w jednostkach systemu, o których mowa w art. 32 ust. 1;
 - **3)** przedstawiciela podmiotu szkolącego, którym jest lekarz, pielęgniarka, ratownik medyczny albo ratownik, wskazanego przez kierownika podmiotu szkolącego.
 
 3. Do składu komisji egzaminacyjnej nie może zostać powołana osoba, która jest małżonkiem, krewnym albo powinowatym do drugiego stopnia włącznie osoby, która przystępuje do egzaminu, o którym mowa w ust. 1.
@@ -284,7 +349,9 @@ Art. 51–56. (pominięte)
 
 7. Przewodniczący wyklucza z egzaminu teoretycznego osobę, która postąpiła wbrew zakazowi, o którym mowa w ust. 6. Informację o wykluczeniu osoby z egzaminu zamieszcza się w protokole egzaminu.
 
-8. Pozytywny wynik egzaminu teoretycznego stanowi warunek konieczny dopuszczenia do egzaminu praktycznego. jego części albo nie przystąpi do części egzaminu, może przystąpić do egzaminu lub jego części w następnym terminie, niewięcej jednak niż 2 razy w okresie 12 miesięcy od dnia egzaminu. Po upływie tego okresu osoba ta jest obowiązana powtórzyć szkolenie KPP MSWiA w całości.
+8. Pozytywny wynik egzaminu teoretycznego stanowi warunek konieczny dopuszczenia do egzaminu praktycznego.
+
+9. W przypadku gdy osoba, o której mowa w ust. 5, nie zda całości egzaminu lub jego części albo nie przystąpi do części egzaminu, może przystąpić do egzaminu lub jego części w następnym terminie, niewięcej jednak niż 2 razy w okresie 12 miesięcy od dnia egzaminu. Po upływie tego okresu osoba ta jest obowiązana powtórzyć szkolenie KPP MSWiA w całości.
 
 10. W przypadku dwukrotnego niezdania egzaminu, o którym mowa w ust. 1, przez osobę, o której mowa w ust. 5 pkt 2, zaświadczenie, o którym mowa w art. 16c ust. 1, traci ważność. Okoliczność dwukrotnego niezdania egzaminu jest odnotowywana w protokole egzaminu, a fakt utraty ważności zaświadczenia jest odnotowywany w ewidencji wydanych zaświadczeń. O utracie ważności zaświadczenia kierownik podmiotu szkolącego zawiadamia niezwłocznie komendanta jednostki kierującej na szkolenie KPP MSWiA, w której ta osoba pełni służbę, lub pracodawcę, u którego ta osoba jest zatrudniona. Utrata ważności zaświadczenia następuje z dniem niezdania egzaminu.
 
@@ -292,7 +359,7 @@ Art. 51–56. (pominięte)
 
 12. Do czasu usunięcia stwierdzonych nieprawidłowości podmiot szkolący nie może prowadzić szkolenia KPP MSWiA lub przeprowadzać egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia. Koordynator szkolenia KPP MSWiA nie wstrzymuje prowadzenia szkolenia KPP MSWiA lub egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia w przypadku możliwości usunięcia stwierdzonych nieprawidłowości bez szkody dla jakości szkolenia.
 
-13. Po usunięciu stwierdzonych nieprawidłowości kierownik podmiotu szkolącego po uzyskaniu zgody koordynatora szkolenia KPP MSWiA może wznowić szkolenie lub przeprowadzić egzamin z zakresu wiedzy i umiejętności objętych programem tego szkolenia, pisemnie informując: Komendanta Głównego Policji, Granicznej albo Komendanta Służby Ochrony Państwa.
+13. Po usunięciu stwierdzonych nieprawidłowości kierownik podmiotu szkolącego po uzyskaniu zgody koordynatora szkolenia KPP MSWiA może wznowić szkolenie lub przeprowadzić egzamin z zakresu wiedzy i umiejętności objętych programem tego szkolenia, pisemnie informując: Komendanta Głównego Policji, Komendanta Głównego Państwowej Straży Pożarnej, Komendanta Głównego Straży Granicznej albo Komendanta Służby Ochrony Państwa.
 
 14. Osoby uczestniczące w szkoleniu KPP MSWiA lub egzaminie z zakresu wiedzy i umiejętności objętych programem tego szkolenia, prowadzonych w podmiotach szkolących, w stosunku do których wstrzymano prowadzenie tego szkolenia lub egzaminu, odbywają to szkolenie lub zdają ten egzamin ponownie, niezależnie od etapu, na którym to szkolenie lub egzamin zostały wstrzymane.
 
@@ -316,10 +383,16 @@ Art. 51–56. (pominięte)
 - **8)** datę zdania egzaminu z zakresu wiedzy i umiejętności objętych programem szkolenia KPP MSWiA;
 - **9)** okres ważności zaświadczenia;
 - **10)** imię (imiona) i nazwisko oraz podpis kierownika podmiotu szkolącego;
+- **11)** imiona i nazwiska oraz podpisy członków komisji egzaminacyjnej.
 
 **Art. 16d.** Ratownik pełniący służbę albo wykonujący zadania zawodowe w służbach podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych ma obowiązek aktualizacji wiedzy i umiejętności ratownika w zakresie kwalifikowanej pierwszej pomocy.
 
 **Art. 16e.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** kwalifikacje kadry dydaktycznej prowadzącej szkolenie KPP MSWiA – mając na celu zapewnienie odpowiedniego poziomu zdobywanej wiedzy i umiejętności;
+- **2)** sposób przeprowadzania oraz organizację egzaminu z zakresu wiedzy i umiejętności objętych programem szkolenia KPP MSWiA – mając na celu uwzględnienie obiektywnych kryteriów weryfikacji wiedzy i umiejętności;
+- **3)** wzór zaświadczenia o ukończeniu szkolenia KPP MSWiA i uzyskaniu tytułu ratownika oraz wzór zaświadczenia potwierdzającego kwalifikacje ratownika – mając na celu zapewnienie przejrzystości dokumentowania potwierdzenia uzyskania tych kwalifikacji;
+- **4)** formy i sposoby aktualizacji wiedzy i umiejętności ratownika w zakresie kwalifikowanej pierwszej pomocy – mając na celu właściwą realizację zadań ratownika na zajmowanym stanowisku służbowym lub jego zadań zawodowych.
 
 **Art. 16f.**
 
@@ -327,7 +400,8 @@ Art. 51–56. (pominięte)
 
 - **1)** realizują program szkolenia KPP MON opracowany na podstawie ramowego programu kursu określonego w przepisach wydanych na podstawie art. 13 ust. 8;
 - **2)** zapewniają kadrę dydaktyczną posiadającą kwalifikacje niezbędne do prowadzenia szkolenia KPP MON lub przeprowadzania egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia;
-- **3)** zapewniają bazę dydaktyczną niezbędną do prowadzenia szkolenia KPP MON, zgodnie z przepisami wydanymi na podstawie art. 13 ust. 8, w tym do prowadzenia zajęć praktycznych, lub przeprowadzania egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia; MON lub egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia, w szczególności sporządzają regulaminy organizacyjne szkolenia KPP MON, protokoły postępowania kwalifikacyjnego oraz protokoły przebiegu egzaminów;
+- **3)** zapewniają bazę dydaktyczną niezbędną do prowadzenia szkolenia KPP MON, zgodnie z przepisami wydanymi na podstawie art. 13 ust. 8, w tym do prowadzenia zajęć praktycznych, lub przeprowadzania egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia;
+- **4)** prowadzą dokumentację związaną z organizacją i przebiegiem szkolenia KPP MON lub egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia, w szczególności sporządzają regulaminy organizacyjne szkolenia KPP MON, protokoły postępowania kwalifikacyjnego oraz protokoły przebiegu egzaminów;
 - **5)** prowadzą ewidencję wydanych zaświadczeń o ukończeniu szkolenia KPP MON i uzyskaniu tytułu ratownika lub zaświadczeń potwierdzających kwalifikacje ratownika.
 
 2. Minister Obrony Narodowej może zlecić w trybie, o którym mowa w art. 38 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211) albo art. 37 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080), prowadzenie szkolenia KPP MON lub przeprowadzenie egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia dla żołnierzy i pracowników resortu obrony narodowej jednostkom przez siebie nadzorowanym.
@@ -342,7 +416,8 @@ Art. 51–56. (pominięte)
 
 - **1)** posiadają tytuł zawodowy magistra lub równorzędny albo tytuł zawodowy licencjata lub równorzędny;
 - **2)** posiadają co najmniej 3-letnie doświadczenie w udzielaniu świadczeń zdrowotnych w jednostkach systemu, o których mowa w art. 32 ust. 1, lub 5-letnie doświadczenie w wykonywaniu zawodu medycznego w jednostkach podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych;
-- **3)** posiadają aktualną wiedzę i umiejętności z zakresu objętego programem szkolenia KPP MON; ustawicznego rozwoju zawodowego.
+- **3)** posiadają aktualną wiedzę i umiejętności z zakresu objętego programem szkolenia KPP MON;
+- **4)** realizują obowiązek doskonalenia zawodowego, aktualizacji wiedzy albo ustawicznego rozwoju zawodowego.
 
 7. Koordynator szkolenia KPP MON:
 
@@ -352,7 +427,8 @@ Art. 51–56. (pominięte)
 - **4)** analizuje i zatwierdza coroczne sprawozdania z realizacji szkoleń KPP MON oraz przeprowadzonych egzaminów z zakresu wiedzy i umiejętności objętych programem tych szkoleń sporządzane przez jednostki organizacyjne, o których mowa w ust. 1;
 - **5)** współpracuje z kierownikiem komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw zdrowia w zakresie opracowywania i opiniowania projektów aktów prawnych, instrukcji, wytycznych i innych dokumentów związanych z organizacją i prowadzeniem szkoleń KPP MON oraz przeprowadzaniem egzaminów z zakresu wiedzy i umiejętności objętych programem tych szkoleń w jednostkach organizacyjnych, o których mowa w ust. 1;
 - **6)** opracowuje projekty koncepcji rozwoju w zakresie specjalności wojskowej ratownik, z uwzględnieniem aktualnych potrzeb Sił Zbrojnych Rzeczypospolitej Polskiej i wniosków z realizacji szkolenia KPP MON, w uzgodnieniu z kierownikiem komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw zdrowia;
-- **7)** sporządza coroczne sprawozdanie z realizacji szkoleń KPP MON w jednostkach organizacyjnych, o których mowa w ust. 1, i przedstawia je Ministrowi Obrony Narodowej za pośrednictwem kierownika komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw zdrowia w terminie do dnia 31 marca roku następującego po roku, za który jest sporządzane sprawozdanie; MON oraz przeprowadzania egzaminów z zakresu wiedzy i umiejętności objętych programem tych szkoleń, w tym dotyczące ewaluacji tych szkoleń i egzaminów, w jednostkach organizacyjnych, o których mowa w ust. 1, w uzgodnieniu z kierownikiem komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw zdrowia;
+- **7)** sporządza coroczne sprawozdanie z realizacji szkoleń KPP MON w jednostkach organizacyjnych, o których mowa w ust. 1, i przedstawia je Ministrowi Obrony Narodowej za pośrednictwem kierownika komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw zdrowia w terminie do dnia 31 marca roku następującego po roku, za który jest sporządzane sprawozdanie;
+- **8)** wydaje wytyczne i zalecenia dotyczące organizacji i przebiegu szkoleń KPP MON oraz przeprowadzania egzaminów z zakresu wiedzy i umiejętności objętych programem tych szkoleń, w tym dotyczące ewaluacji tych szkoleń i egzaminów, w jednostkach organizacyjnych, o których mowa w ust. 1, w uzgodnieniu z kierownikiem komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw zdrowia;
 - **9)** opracowuje i aktualizuje materiały i pomoce szkoleniowe w zakresie szkolenia KPP MON w oparciu o wytyczne i zalecenia krajowych i międzynarodowych towarzystw naukowych w obszarze ratownictwa medycznego i medycyny ratunkowej;
 - **10)** organizuje odprawy, konferencje i seminaria w zakresie organizacji i przebiegu szkoleń KPP MON oraz przeprowadzania egzaminów z zakresu wiedzy i umiejętności objętych programem tych szkoleń, a także aktualizacji wiedzy i umiejętności praktycznych ratowników w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych.
 
@@ -370,8 +446,9 @@ Art. 51–56. (pominięte)
 
 1. Szkolenie KPP MON kończy się egzaminem z zakresu wiedzy i umiejętności objętych programem tego szkolenia.
 
-2. Egzamin, o którym mowa w ust. 1, jest przeprowadzany przez komisję egzaminacyjną powoływaną przez kierownika jednostki organizacyjnej, o której mowa w art. 16f ust. 1, składającą się z 3 osób: organizacyjnej, o której mowa w art. 16f ust. 1, albo wskazani przez niego lekarz, pielęgniarka albo ratownik medyczny;
+2. Egzamin, o którym mowa w ust. 1, jest przeprowadzany przez komisję egzaminacyjną powoływaną przez kierownika jednostki organizacyjnej, o której mowa w art. 16f ust. 1, składającą się z 3 osób:
 
+- **1)** przewodniczącego komisji egzaminacyjnej, którym jest kierownik jednostki organizacyjnej, o której mowa w art. 16f ust. 1, albo wskazani przez niego lekarz, pielęgniarka albo ratownik medyczny;
 - **2)** dwóch członków komisji egzaminacyjnej, którymi są:
     - **a)** konsultant wojewódzki w dziedzinie medycyny ratunkowej właściwy ze względu na siedzibę jednostki organizacyjnej, o której mowa w art. 16f ust. 1, albo wskazana przez niego osoba będąca lekarzem systemu, pielęgniarką systemu albo ratownikiem medycznym, która posiada co najmniej 5-letnie doświadczenie w udzielaniu świadczeń zdrowotnych w jednostkach systemu, o których mowa w art. 32 ust. 1, albo konsultant wojskowej służby zdrowia w dziedzinie medycyny ratunkowej albo wskazana przez niego osoba będąca lekarzem systemu, pielęgniarką systemu albo ratownikiem medycznym, która posiada co najmniej 5-letnie doświadczenie w udzielaniu świadczeń zdrowotnych w jednostkach systemu, o których mowa w art. 32 ust. 1,
     - **b)** przedstawiciel jednostki organizacyjnej, o której mowa w art. 16f ust. 1, którym jest lekarz, pielęgniarka, ratownik medyczny albo ratownik, wskazany przez kierownika jednostki organizacyjnej, o której mowa w art. 16f ust. 1.
@@ -385,8 +462,9 @@ Art. 51–56. (pominięte)
 - **1)** odbyła szkolenie KPP MON i uzyskała pozytywny wynik ze wszystkich zajęć teoretycznych i praktycznych – w przypadku osoby, która nie posiada ważnego zaświadczenia o ukończeniu szkolenia KPP MON i uzyskaniu tytułu ratownika albo ważnego zaświadczenia potwierdzającego kwalifikacje ratownika, albo
 - **2)** posiada ważne zaświadczenie o ukończeniu szkolenia KPP MON i uzyskaniu tytułu ratownika albo ważne zaświadczenie potwierdzające kwalifikacje ratownika – w przypadku osoby, która potwierdza te kwalifikacje.
 
-6. W trakcie egzaminu teoretycznego jest zabronione: lub fotografowanie pytań zawartych w karcie testowej;
+6. W trakcie egzaminu teoretycznego jest zabronione:
 
+- **1)** wynoszenie karty testowej z sali egzaminacyjnej oraz kopiowanie, spisywanie lub fotografowanie pytań zawartych w karcie testowej;
 - **2)** posiadanie urządzeń służących do przekazu lub odbioru informacji;
 - **3)** korzystanie z pomocy innej osoby.
 
@@ -400,7 +478,7 @@ Art. 51–56. (pominięte)
 
 11. W przypadku stwierdzenia, w ramach oceny jakości, o której mowa w art. 16f ust. 7 pkt 1, nieprawidłowości w prowadzeniu szkoleń KPP MON lub w przeprowadzaniu egzaminów z zakresu wiedzy i umiejętności objętych programem tych szkoleń, prowadzonych przez jednostki organizacyjne, o których mowa w art. 16f ust. 1, ustalonych na podstawie kryteriów, o których mowa w art. 16f ust. 9, koordynator szkolenia KPP MON może wstrzymać jego prowadzenie lub przerwać egzamin i przekazać kierownikowi danej jednostki organizacyjnej zalecenia dotyczące usunięcia stwierdzonych nieprawidłowości.
 
-12. Do czasu usunięcia stwierdzonych nieprawidłowości jednostka organizacyjna, o której mowa w art. 16f ust. 1, nie może prowadzić szkolenia KPP MON lub przeprowadzać egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia. Koordynator szkolenia KPP MON nie wstrzymuje objętych programem tego szkolenia w przypadku możliwości usunięcia stwierdzonych nieprawidłowości bez szkody dla jakości szkolenia KPP MON.
+12. Do czasu usunięcia stwierdzonych nieprawidłowości jednostka organizacyjna, o której mowa w art. 16f ust. 1, nie może prowadzić szkolenia KPP MON lub przeprowadzać egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia. Koordynator szkolenia KPP MON nie wstrzymuje prowadzenia szkolenia KPP MON lub egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia w przypadku możliwości usunięcia stwierdzonych nieprawidłowości bez szkody dla jakości szkolenia KPP MON.
 
 13. Zgody na wznowienie prowadzenia szkolenia KPP MON lub przeprowadzania egzaminu z zakresu wiedzy i umiejętności objętych programem tego szkolenia w jednostce organizacyjnej, o której mowa w art. 16f ust. 1, po ponownej ocenie, udziela koordynator szkolenia KPP MON.
 
@@ -417,7 +495,8 @@ Art. 51–56. (pominięte)
 - **1)** oznaczenie jednostki organizacyjnej podległej Ministrowi Obrony Narodowej lub przez niego nadzorowanej prowadzącej szkolenie KPP MON lub przeprowadzającej egzamin z zakresu wiedzy i umiejętności objętych programem tego szkolenia;
 - **2)** datę i miejsce wydania zaświadczenia;
 - **3)** numer zaświadczenia;
-- **4)** nazwę ukończonego szkolenia KPP MON; wiedzy i umiejętności objętych programem szkolenia KPP MON, albo osoby, która zdała egzamin z zakresu wiedzy i umiejętności objętych programem tego szkolenia:
+- **4)** nazwę ukończonego szkolenia KPP MON;
+- **5)** dane osoby, która ukończyła szkolenie KPP MON i zdała egzamin z zakresu wiedzy i umiejętności objętych programem szkolenia KPP MON, albo osoby, która zdała egzamin z zakresu wiedzy i umiejętności objętych programem tego szkolenia:
     - **a)** imię (imiona) i nazwisko,
     - **b)** numer PESEL, a w przypadku jego braku – serię i numer paszportu albo innego dokumentu potwierdzającego tożsamość,
     - **c)** stopień wojskowy;
@@ -432,6 +511,11 @@ Art. 51–56. (pominięte)
 **Art. 16i.** Ratownik pełniący służbę albo wykonujący zadania zawodowe w jednostce organizacyjnej podległej Ministrowi Obrony Narodowej lub przez niego nadzorowanej ma obowiązek aktualizacji wiedzy i umiejętności ratownika w zakresie kwalifikowanej pierwszej pomocy.
 
 **Art. 16j.** Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** kwalifikacje kadry dydaktycznej prowadzącej szkolenie KPP MON – mając na celu zapewnienie odpowiedniego poziomu wyszkolenia ratowników;
+- **2)** sposób przeprowadzania oraz organizację egzaminu z zakresu wiedzy i umiejętności objętych programem szkolenia KPP MON – mając na celu uwzględnienie obiektywnych kryteriów weryfikacji wiedzy i umiejętności;
+- **3)** wzór zaświadczenia o ukończeniu szkolenia KPP MON i uzyskaniu tytułu ratownika oraz wzór zaświadczenia potwierdzającego kwalifikacje ratownika – mając na celu zapewnienie przejrzystości dokumentowania potwierdzenia uzyskania tych kwalifikacji;
+- **4)** formy i sposoby aktualizacji wiedzy i umiejętności ratownika w zakresie kwalifikowanej pierwszej pomocy – mając na celu właściwą realizację zadań ratownika na zajmowanym stanowisku służbowym lub jego zadań zawodowych.
 
 **Art. 17.**
 
@@ -455,6 +539,7 @@ Art. 51–56. (pominięte)
 - **3)** liczbę ratowników;
 - **4)** wykaz wyposażenia niezbędnego do udzielania kwalifikowanej pierwszej pomocy;
 - **5)** maksymalny czas osiągnięcia gotowości do działań ratowniczych, licząc od chwili przekazania powiadomienia o zdarzeniu przez dyspozytora medycznego;
+- **6)** numery telefonów kontaktowych;
 - **7)** wskazanie rodzaju wykonywanych działań ratowniczych;
 - **8)** współrzędne geograficzne;
 - **9)** czas pozostawania w gotowości do działań ratowniczych w ciągu doby i w ciągu roku.
@@ -481,6 +566,17 @@ Art. 51–56. (pominięte)
 
 **Art. 18.** Organami administracji rządowej właściwymi w zakresie wykonywania zadań systemu są:
 
+- **1)** minister właściwy do spraw zdrowia;
+- **2)** wojewoda.
+
+**Art. 19.**
+
+1. Nadzór nad systemem na terenie kraju sprawuje minister właściwy do spraw zdrowia.
+
+2. Planowanie, organizowanie, koordynowanie systemu oraz nadzór nad systemem na terenie województwa jest zadaniem wojewody.
+
+3. Minister właściwy do spraw zdrowia do realizacji zadania, o którym mowa w ust. 1, oraz wojewoda do realizacji zadań, o których mowa w ust. 2, wykorzystują System Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego, zwany dalej „SWD PRM”.
+
 **Art. 20.**
 
 1. W ramach nadzoru, o którym mowa w art. 19 ust. 1, minister właściwy do spraw zdrowia:
@@ -502,6 +598,8 @@ Art. 51–56. (pominięte)
 - **3)** oceny realizacji zadań określonych w regulaminie organizacyjnym dyspozytorni medycznej w zakresie dostępności i jakości udzielanych świadczeń zdrowotnych.
 
 1d. Czynności wymienione w ust. 1c mogą być realizowane wyłącznie przez osobę wykonującą zawód medyczny.
+
+2. W ramach nadzoru, o którym mowa w art. 19 ust. 2, wojewoda może:
 
 - **1)** żądać informacji, wyjaśnień oraz dokumentów od dysponentów jednostek;
 - **2)** przeprowadzać kontrolę, o której mowa w art. 31.
@@ -533,6 +631,7 @@ Art. 51–56. (pominięte)
 7. Krajowy koordynator ratownictwa medycznego wykonuje zadania, o których mowa w ust. 3, we współpracy z zespołem, w skład którego wchodzi 5 członków będących przedstawicielami:
 
 - **1)** Ministra Obrony Narodowej,
+- **2)** ministra właściwego do spraw zdrowia,
 - **3)** ministra właściwego do spraw wewnętrznych,
 - **4)** Narodowego Funduszu Zdrowia,
 - **5)** dysponenta lotniczych zespołów ratownictwa medycznego będącego jednostką nadzorowaną przez ministra właściwego do spraw zdrowia – powoływanych i odwoływanych przez ministra właściwego do spraw zdrowia.
@@ -555,7 +654,7 @@ Art. 51–56. (pominięte)
 
 - **1)** (uchylony)
 - **2)** liczbę i rozmieszczenie na obszarze województwa funkcjonujących oraz planowanych do utworzenia:
-    - **a)** zespołów ratownictwa medycznego, kierując się parametrami czasu dotarcia na miejsce zdarzenia określonymi w art. 24 oraz liczbą zdarzeń w obszarze działania, przyjmując, że: – na każde rozpoczęte 10 podstawowych zespołów ratownictwa medycznego, o których mowa w art. 36 ust. 1 pkt 2, przypada niemniej niż 1 specjalistyczny zespół ratownictwa medycznego, o którym mowa w art. 36 ust. 1 pkt 1, niewięcej niż jedna motocyklowa jednostka ratunkowa, o której mowa w art. 36 ust. 1 pkt 3, a czas działania tej jednostki mieści się w okresie od dnia 1 maja do dnia 30 września w roku kalendarzowym i nie przekracza 12 godzin w ciągu doby,
+    - **a)** zespołów ratownictwa medycznego, kierując się parametrami czasu dotarcia na miejsce zdarzenia określonymi w art. 24 oraz liczbą zdarzeń w obszarze działania, przyjmując, że: – na każde rozpoczęte 10 podstawowych zespołów ratownictwa medycznego, o których mowa w art. 36 ust. 1 pkt 2, przypada niemniej niż 1 specjalistyczny zespół ratownictwa medycznego, o którym mowa w art. 36 ust. 1 pkt 1, – na każde rozpoczęte 400 tys. mieszkańców w województwie przypada niewięcej niż jedna motocyklowa jednostka ratunkowa, o której mowa w art. 36 ust. 1 pkt 3, a czas działania tej jednostki mieści się w okresie od dnia 1 maja do dnia 30 września w roku kalendarzowym i nie przekracza 12 godzin w ciągu doby,
     - **b)** szpitalnych oddziałów ratunkowych, przyjmując, że jeden szpitalny oddział ratunkowy zabezpiecza obszar, na którym zamieszkuje niewięcej niż 200 tys. mieszkańców oraz którego wielkość pozwala dotrzeć zespołowi ratownictwa medycznego z miejsca zdarzenia do tego oddziału w czasie niedłuższym niż 45 minut,
     - **c)** centrów urazowych, kierując się kryterium określonym w art. 39b pkt 1,
     - **d)** centrów urazowych dla dzieci, kierując się kryterium określonym w art. 39f pkt 1,
@@ -567,7 +666,8 @@ Art. 51–56. (pominięte)
 - **5)** (uchylony)
 - **6)** sposób współpracy z organami administracji publicznej i jednostkami systemu, o których mowa w art. 32 ust. 1, z innych województw, zapewniający sprawne i skuteczne ratowanie życia i zdrowia, bez względu na przebieg granic województw;
 - **7)** sposób współpracy jednostek systemu, o których mowa w art. 32 ust. 1, z jednostkami współpracującymi z systemem, o których mowa w art. 15, ze szczególnym uwzględnieniem sposobu powiadamiania, alarmowania i dysponowania jednostek, o których mowa w art. 15 oraz art. 32 ust. 1, organizacji działań ratowniczych na miejscu zdarzenia, analizy działań ratowniczych oraz organizacji wspólnych ćwiczeń, w szczególności obejmujących przypadki, o których mowa w art. 30 ust. 1;
-- **8)** informacje o lokalizacji centrów powiadamiania ratunkowego w rozumieniu ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego; zdrowotnego w celu dokonania przez przedsiębiorców telekomunikacyjnych zestawienia koniecznych łączy telekomunikacyjnych, zapewniających możliwość niezbędnych przekierowań połączeń z centrum powiadamiania ratunkowego do właściwych dyspozytorni medycznych;
+- **8)** informacje o lokalizacji centrów powiadamiania ratunkowego w rozumieniu ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego;
+- **9)** opis struktury systemu powiadamiania o stanach nagłego zagrożenia zdrowotnego w celu dokonania przez przedsiębiorców telekomunikacyjnych zestawienia koniecznych łączy telekomunikacyjnych, zapewniających możliwość niezbędnych przekierowań połączeń z centrum powiadamiania ratunkowego do właściwych dyspozytorni medycznych;
 - **10)** dane dotyczące:
     - **a)** dyspozytorni medycznej, obejmujące: – lokalizację dyspozytorni medycznej, – liczbę stanowisk dyspozytorów medycznych w poszczególnych dyspozytorniach medycznych, przyjmując za kryterium, że jedno stanowisko dyspozytora medycznego przypada na każde rozpoczęte 200 tys. mieszkańców; do kryterium nie wlicza się stanowiska głównego dyspozytora medycznego, – sposób współpracy między dyspozytorniami medycznymi, – liczbę i kwalifikacje zawodowe dyspozytorów medycznych,
     - **b)** wyjazdów zespołów ratownictwa medycznego, obejmujące: – medianę czasu dotarcia na miejsce zdarzenia, – maksymalny czas dotarcia na miejsce zdarzenia, – średni i maksymalny czas trwania akcji medycznej, – liczbę wyjazdów przekraczających maksymalny czas dotarcia na miejsce zdarzenia,
@@ -575,7 +675,7 @@ Art. 51–56. (pominięte)
     - **d)** liczby pacjentów urazowych oraz liczby pacjentów urazowych dziecięcych,
     - **e)** liczby osób wykonujących zawód medyczny w jednostkach systemu, o których mowa w art. 32 ust. 1;
 
-- **11)** sposób organizacji i działania łączności radiowej, w tym z wykorzystaniem przydzielonych numerów identyfikacyjnych zespołów ratownictwa medycznego i dyspozytorni medycznych, zapewniający sprawną komunikację między zespołami ratownictwa medycznego, dyspozytorami medycznymi, wojewódzkim koordynatorem ratownictwa medycznego a szpitalnymi oddziałami ratunkowymi, izbami przyjęć szpitali, centrami urazowymi, centrami urazowymi dla dzieci, jednostkami organizacyjnymi szpitali wyspecjalizowanymi w zakresie udzielania świadczeń zdrowotnych niezbędnych których mowa w art. 15.
+- **11)** sposób organizacji i działania łączności radiowej, w tym z wykorzystaniem przydzielonych numerów identyfikacyjnych zespołów ratownictwa medycznego i dyspozytorni medycznych, zapewniający sprawną komunikację między zespołami ratownictwa medycznego, dyspozytorami medycznymi, wojewódzkim koordynatorem ratownictwa medycznego a szpitalnymi oddziałami ratunkowymi, izbami przyjęć szpitali, centrami urazowymi, centrami urazowymi dla dzieci, jednostkami organizacyjnymi szpitali wyspecjalizowanymi w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego oraz jednostkami współpracującymi z systemem, o których mowa w art. 15.
 
 3a. (uchylony) 3b. Po dokonaniu przez wojewodę analizy liczby, natężenia i czasu obsługi zgłoszeń jest możliwe dostosowanie liczby stanowisk dyspozytorów medycznych, o której mowa w ust. 3 pkt 10 lit. a tiret drugie, do aktualnych potrzeb systemu.
 
@@ -598,7 +698,7 @@ Art. 51–56. (pominięte)
 
 8. Organy jednostek samorządu terytorialnego, podmioty lecznicze oraz inne podmioty są obowiązane dostarczyć, na żądanie wojewody, wszelkich informacji niezbędnych do sporządzenia projektu aktualizacji planu.
 
-8a. Do aktualizacji planu obejmującej wyłącznie zmianę nazwy jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń planu, przepisów ust. 5–8 nie stosuje się.
+8a. Do aktualizacji planu obejmującej wyłącznie zmianę nazwy jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego, która jest już wpisana do planu, przepisów ust. 5–8 nie stosuje się.
 
 9. Wojewoda przekazuje projekt aktualizacji planu, w postaci elektronicznej, ministrowi właściwemu do spraw zdrowia w celu zatwierdzenia.
 
@@ -623,6 +723,7 @@ Art. 51–56. (pominięte)
 
 17. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy zakres danych objętych planem,
 - **2)** ramowy wzór planu,
 - **3)** zakres danych podlegających upublicznieniu w Biuletynie Informacji Publicznej – mając na względzie potrzebę zapewnienia sprawnego planowania i nadzoru nad systemem oraz utrzymania przejrzystości i jednolitej konstrukcji planów tworzonych w poszczególnych województwach.
 
@@ -636,7 +737,9 @@ Art. 51–56. (pominięte)
 
 **Art. 22.**
 
-1. Zatwierdzony plan jest podstawą do zawierania przez dyrektorów oddziałów wojewódzkich Narodowego Funduszu Zdrowia umów na wykonywanie medycznych czynności ratunkowych i umów na świadczenia opieki zdrowotnej udzielane przez szpitalne oddziały ratunkowe. o zawarcie umowy na wykonywanie medycznych czynności ratunkowych, o której mowa w ust. 1.
+1. Zatwierdzony plan jest podstawą do zawierania przez dyrektorów oddziałów wojewódzkich Narodowego Funduszu Zdrowia umów na wykonywanie medycznych czynności ratunkowych i umów na świadczenia opieki zdrowotnej udzielane przez szpitalne oddziały ratunkowe.
+
+2. Dysponenci zespołów ratownictwa medycznego mogą wspólnie ubiegać się o zawarcie umowy na wykonywanie medycznych czynności ratunkowych, o której mowa w ust. 1.
 
 **Art. 22a.**
 
@@ -657,7 +760,7 @@ Art. 51–56. (pominięte)
 - **1)** numer kolejny wpisu do ewidencji;
 - **2)** daty wpisu i wykreślenia z ewidencji;
 - **3)** nazwę, adres siedziby, numer księgi rejestrowej i kod określający formę organizacyjno-prawną podmiotu leczniczego ustalony zgodnie z przepisami wydanymi na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, w którego strukturze działa szpitalny oddział ratunkowy, centrum urazowe, centrum urazowe dla dzieci lub jednostka organizacyjna szpitala wyspecjalizowana w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego;
-- **3a)** numer telefonu i adres poczty elektronicznej podmiotu leczniczego, w którego strukturze działa szpitalny oddział ratunkowy, centrum urazowe, centrum urazowe dla dzieci lub jednostka organizacyjna szpitala wyspecjalizowana medycznego;
+- **3a)** numer telefonu i adres poczty elektronicznej podmiotu leczniczego, w którego strukturze działa szpitalny oddział ratunkowy, centrum urazowe, centrum urazowe dla dzieci lub jednostka organizacyjna szpitala wyspecjalizowana w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego;
 - **4)** numer REGON zakładu leczniczego podmiotu leczniczego, w strukturze którego działa szpitalny oddział ratunkowy, centrum urazowe, centrum urazowe dla dzieci lub jednostka organizacyjna szpitala wyspecjalizowana w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego;
 - **5)** (uchylony)
 - **6)** adres szpitalnego oddziału ratunkowego, centrum urazowego, centrum urazowego dla dzieci lub jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego;
@@ -667,7 +770,7 @@ Art. 51–56. (pominięte)
 - **9)** (uchylony)
 - **10)** identyfikator terytorialny gminy, miejscowości lub dzielnicy oraz współrzędne geograficzne lokalizacji szpitalnego oddziału ratunkowego, centrum urazowego, centrum urazowego dla dzieci lub jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego;
 - **11)** nazwę własną szpitalnego oddziału ratunkowego, centrum urazowego, centrum urazowego dla dzieci lub jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego;
-- **12)** kod charakteryzujący specjalność komórki organizacyjnej zakładu leczniczego podmiotu leczniczego ustalony zgodnie z przepisami wydanymi na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – w przypadku szpitalnego oddziału ratunkowego lub jednostki organizacyjnej niezbędnych dla ratownictwa medycznego;
+- **12)** kod charakteryzujący specjalność komórki organizacyjnej zakładu leczniczego podmiotu leczniczego ustalony zgodnie z przepisami wydanymi na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – w przypadku szpitalnego oddziału ratunkowego lub jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego;
 - **12a)** niepowtarzalny kod identyfikujący komórkę organizacyjną zakładu leczniczego podmiotu leczniczego w strukturze organizacyjnej podmiotu leczniczego ustalony zgodnie z przepisami wydanymi na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – w przypadku szpitalnego oddziału ratunkowego lub jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego;
 - **13)** datę rozpoczęcia, zmiany i zakończenia realizacji umów o udzielanie świadczeń opieki zdrowotnej zawartych zgodnie z art. 47 oraz numery tych umów, ich rodzaj i zakres.
 
@@ -679,7 +782,17 @@ Art. 51–56. (pominięte)
 
 4. Administratorem systemu teleinformatycznego ewidencji, o której mowa w ust. 1, jest jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych w ochronie zdrowia.
 
-**Art. 23b.** Wojewoda przekazuje do systemu informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2025 r. poz. 302, 779, 1537 i 1705) dane, o których mowa w art. 17 i art. 23a. zapewnienia następujących parametrów czasu dotarcia na miejsce zdarzenia dla zespołu ratownictwa medycznego od chwili przyjęcia zgłoszenia przez dyspozytora medycznego:
+**Art. 23b.** Wojewoda przekazuje do systemu informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2025 r. poz. 302, 779, 1537 i 1705) dane, o których mowa w art. 17 i art. 23a.
+
+**Art. 24.**
+
+1. Wojewoda podejmuje działania organizacyjne zmierzające do zapewnienia następujących parametrów czasu dotarcia na miejsce zdarzenia dla zespołu ratownictwa medycznego od chwili przyjęcia zgłoszenia przez dyspozytora medycznego:
+
+- **1)** mediana czasu dotarcia – w skali każdego miesiąca – jest niewiększa niż 8 minut w mieście powyżej 10 tysięcy mieszkańców i 15 minut poza miastem powyżej 10 tysięcy mieszkańców;
+- **2)** (uchylony)
+- **3)** maksymalny czas dotarcia nie może być dłuższy niż 15 minut w mieście powyżej 10 tysięcy mieszkańców i 20 minut poza miastem powyżej 10 tysięcy mieszkańców.
+
+2. Przyjmuje się, że 0,5 % przypadków o najdłuższych czasach dotarcia w skali każdego miesiąca nie bierze się pod uwagę w naliczaniu parametrów określonych w ust. 1, z zastrzeżeniem, że przypadki te nie podlegają kumulacji pomiędzy miesiącami.
 
 **Art. 24a.**
 
@@ -699,7 +812,9 @@ Art. 51–56. (pominięte)
 
 3a. Wojewodowie i dysponenci zespołów ratownictwa medycznego są obowiązani do zapewnienia integracji systemów łączności radiowej wykorzystywanych w systemie na terenie województwa z Podsystemem Zintegrowanej Łączności Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego.
 
-4. Zadania, o których mowa w ust. 1 pkt 3 i 4, minister właściwy do spraw zdrowia powierza dysponentowi lotniczych zespołów ratownictwa medycznego będącemu jednostką nadzorowaną przez ministra właściwego do spraw zdrowia. porozumienia, ministrowi właściwemu do spraw finansów publicznych lub Komendantowi Głównemu Policji wykonywanie czynności związanych z utrzymaniem i funkcjonowaniem SWD PRM w zakresie zapewnienia utrzymania powierzchni serwerowej.
+4. Zadania, o których mowa w ust. 1 pkt 3 i 4, minister właściwy do spraw zdrowia powierza dysponentowi lotniczych zespołów ratownictwa medycznego będącemu jednostką nadzorowaną przez ministra właściwego do spraw zdrowia.
+
+5. Minister właściwy do spraw zdrowia może powierzyć, w drodze porozumienia, ministrowi właściwemu do spraw finansów publicznych lub Komendantowi Głównemu Policji wykonywanie czynności związanych z utrzymaniem i funkcjonowaniem SWD PRM w zakresie zapewnienia utrzymania powierzchni serwerowej.
 
 6. Realizacja zadania, o którym mowa w ust. 5, jest finansowana z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw finansów publicznych lub minister właściwy do spraw wewnętrznych.
 
@@ -713,7 +828,7 @@ Art. 51–56. (pominięte)
 
 1. Dysponent lotniczych zespołów ratownictwa medycznego będący jednostką nadzorowaną przez ministra właściwego do spraw zdrowia administruje SWD PRM, który umożliwia bezpieczne przetwarzanie danych, w tym kontrolę dostępu użytkowników do danych, oraz dokumentuje dokonywane przez nich zmiany, umożliwiając w szczególności odtworzenie historii każdego zgłoszenia alarmowego i powiadomienia o zdarzeniu.
 
-2. Minister właściwy do spraw zdrowia, wojewodowie, dysponent lotniczych zespołów ratownictwa medycznego będący jednostką nadzorowaną przez ministra właściwego do spraw zdrowia i dysponenci zespołów ratownictwa medycznego przetwarzają dane zarejestrowane w SWD PRM, w tym nagrania rozmów, dane osobowe osoby zgłaszającej, dane innych osób wskazanych w trakcie przyjmowania zgłoszenia, pozycje geograficzne, dane teleadresowe lub opis zdarzenia, i udostępniają Funduszu Zdrowia.
+2. Minister właściwy do spraw zdrowia, wojewodowie, dysponent lotniczych zespołów ratownictwa medycznego będący jednostką nadzorowaną przez ministra właściwego do spraw zdrowia i dysponenci zespołów ratownictwa medycznego przetwarzają dane zarejestrowane w SWD PRM, w tym nagrania rozmów, dane osobowe osoby zgłaszającej, dane innych osób wskazanych w trakcie przyjmowania zgłoszenia, pozycje geograficzne, dane teleadresowe lub opis zdarzenia, i udostępniają je na wniosek sądu, prokuratury, Policji, Rzecznika Praw Pacjenta lub Narodowego Funduszu Zdrowia.
 
 3. Mechanizmy, w które jest wyposażony SWD PRM, zapewniają zachowanie ciągłości jego funkcjonowania.
 
@@ -736,7 +851,8 @@ Art. 51–56. (pominięte)
 3. Wojewodowie:
 
 - **1)** wydają i cofają upoważnienia do przetwarzania danych osobowych w SWD PRM osobom, które zawarły z urzędem wojewódzkim umowę o pracę lub umowę cywilnoprawną;
-- **2)** nadają i cofają uprawnienia w SWD PRM; w art. 19 ust. 2;
+- **2)** nadają i cofają uprawnienia w SWD PRM;
+- **3)** przetwarzają dane w SWD PRM niezbędne do realizacji zadań, o których mowa w art. 19 ust. 2;
 - **4)** realizują obowiązki wynikające z art. 15 i art. 16 rozporządzenia 2016/679 w zakresie wprowadzonych przez nich danych do SWD PRM;
 - **5)** realizują obowiązki wynikające z art. 19 i art. 34 rozporządzenia 2016/679.
 
@@ -756,7 +872,10 @@ Art. 51–56. (pominięte)
 - **2)** nadają i cofają uprawnienia w SWD PRM;
 - **3)** przetwarzają dane w SWD PRM w celu i zakresie niezbędnym do prawidłowej realizacji zadań wynikających z przepisów ustawy;
 - **4)** realizują obowiązki wynikające z art. 15 i art. 16 rozporządzenia 2016/679 w zakresie wprowadzonych przez nich danych do SWD PRM;
-- **5)** realizują obowiązki wynikające z art. 19 i art. 34 rozporządzenia 2016/679. zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
+- **5)** realizują obowiązki wynikające z art. 19 i art. 34 rozporządzenia 2016/679.
+
+6. Dane osobowe, o których mowa w ust. 1, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
+
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie;
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
 
@@ -777,7 +896,7 @@ Art. 51–56. (pominięte)
 
 10. W przypadku zaistnienia okoliczności skutkujących zaprzestaniem przetwarzania danych przetwarzanych w SWD PRM przez podmioty wyspecjalizowane w zapewnianiu obsługi technicznej systemów teleinformatycznych, podmioty te są obowiązane, w terminie 3 dni od dnia zaistnienia okoliczności skutkujących zaprzestaniem przetwarzania danych, do przekazania przetwarzanych danych administratorowi SWD PRM.
 
-11. Podmioty, o których mowa w ust. 2–5, realizują obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, w związku z przetwarzaniem danych Publicznej na swojej stronie podmiotowej lub na swojej stronie internetowej.
+11. Podmioty, o których mowa w ust. 2–5, realizują obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, w związku z przetwarzaniem danych osobowych w SWD PRM, przez udostępnienie informacji w Biuletynie Informacji Publicznej na swojej stronie podmiotowej lub na swojej stronie internetowej.
 
 12. Osoba zwracająca się z żądaniem na podstawie art. 15 rozporządzenia 2016/679 obowiązana jest do podania informacji o okolicznościach zdarzenia, którego to żądanie dotyczy, w tym daty i miejsca zdarzenia oraz numeru telefonu, z którego zostało wykonane połączenie dotyczące powiadomienia o zdarzeniu.
 
@@ -797,7 +916,8 @@ Art. 51–56. (pominięte)
 
 2. Minister właściwy do spraw zdrowia, wojewodowie, dysponent lotniczych zespołów ratownictwa medycznego będący jednostką nadzorowaną przez ministra właściwego do spraw zdrowia oraz dysponenci zespołów ratownictwa medycznego przy użyciu SWD PRM przetwarzają i udostępniają dane:
 
-- **1)** dotyczące usługobiorców w rozumieniu art. 2 pkt 16 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w zakresie określonym w art. 4 ust. 3 tej ustawy; koordynatorów ratownictwa medycznego;
+- **1)** dotyczące usługobiorców w rozumieniu art. 2 pkt 16 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w zakresie określonym w art. 4 ust. 3 tej ustawy;
+- **2)** obejmujące dane osobowe osób wykonujących zadania wojewódzkich koordynatorów ratownictwa medycznego;
 - **2a)** obejmujące dane osobowe osób wykonujących zadania krajowego koordynatora ratownictwa medycznego;
 - **3)** obejmujące dane osobowe osób wykonujących zadania dyspozytora medycznego;
 - **4)** obejmujące dane osobowe osób wykonujących zadania członków zespołów ratownictwa medycznego;
@@ -815,7 +935,7 @@ Art. 51–56. (pominięte)
 - **3a)** organom samorządu zawodowego w ramach postępowania w zakresie odpowiedzialności zawodowej;
 - **4)** w postaci zanonimizowanej podmiotom, o których mowa w art. 39, w zakresie określonym przez ministra właściwego do spraw zdrowia zgodnie z art. 24c ust. 2 pkt 2.
 
-3a. Udostępnienie danych, o których mowa w ust. 2 pkt 1–5, 7 i 8, podmiotom, o których mowa w ust. 3 pkt 2–4, odbywa się na uzasadniony wniosek tych bezpieczeństwa i integralności udostępnianych danych.
+3a. Udostępnienie danych, o których mowa w ust. 2 pkt 1–5, 7 i 8, podmiotom, o których mowa w ust. 3 pkt 2–4, odbywa się na uzasadniony wniosek tych podmiotów, zawierający cel przetwarzania udostępnionych danych, przy zachowaniu bezpieczeństwa i integralności udostępnianych danych.
 
 3b. Narodowy Fundusz Zdrowia wykorzystuje dane, o których mowa w ust. 2 pkt 1–5, 7 i 8, do monitorowania i kontroli wykonania umów zawartych z dysponentami zespołów ratownictwa medycznego na wykonywanie medycznych czynności ratunkowych.
 
@@ -839,7 +959,8 @@ Art. 51–56. (pominięte)
 
 1a. Nagrania, o których mowa w ust. 1, mogą zostać udostępnione przez:
 
-- **1)** właściwego dysponenta zespołów ratownictwa medycznego, w zakresie rozmów i korespondencji radiowej prowadzonych przez zespoły ratownictwa medycznego z dyspozytorem medycznym oraz wojewódzkim koordynatorem ratownictwa medycznego, prowadzonych przez dyspozytorów medycznych oraz wojewódzkiego koordynatora ratownictwa medycznego,
+- **1)** właściwego dysponenta zespołów ratownictwa medycznego, w zakresie rozmów i korespondencji radiowej prowadzonych przez zespoły ratownictwa medycznego z dyspozytorem medycznym oraz wojewódzkim koordynatorem ratownictwa medycznego,
+- **2)** właściwego wojewodę, w zakresie rozmów i korespondencji radiowej prowadzonych przez dyspozytorów medycznych oraz wojewódzkiego koordynatora ratownictwa medycznego,
 - **3)** dysponenta lotniczych zespołów ratownictwa medycznego będącego jednostką nadzorowaną przez ministra właściwego do spraw zdrowia, w zakresie rozmów i korespondencji radiowej:
     - **a)** o których mowa w pkt 1 i 2,
     - **b)** prowadzonych przez krajowego koordynatora ratownictwa medycznego – podmiotom, o których mowa w art. 24b ust. 2.
@@ -853,6 +974,12 @@ Art. 51–56. (pominięte)
 5. Wojewoda niszczy nagrania, o których mowa w ust. 4, po upływie terminu, o którym mowa w tym przepisie.
 
 **Art. 24g.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** minimalne funkcjonalności SWD PRM,
+- **2)** sposób utrzymania SWD PRM,
+- **3)** sposób zarządzania SWD PRM,
+- **4)** sposób działania systemu w sytuacji awarii SWD PRM,
+- **5)** minimalne wyposażenie stanowisk pracy SWD PRM w dyspozytorni medycznej, w miejscu stacjonowania zespołów ratownictwa medycznego, w specjalistycznym środku transportu sanitarnego wykorzystywanym przez zespół ratownictwa medycznego i na stanowisku wojewódzkiego koordynatora ratownictwa medycznego – mając na uwadze potrzebę zapewnienia sprawnego działania SWD PRM, realizacji zadań przez dyspozytorów medycznych, zespoły ratownictwa medycznego, wojewódzkich koordynatorów ratownictwa medycznego oraz współpracy SWD PRM z systemem teleinformatycznym w rozumieniu art. 2 pkt 4 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego.
 
 **Art. 24h.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, rodzaje dokumentacji dyspozytorni medycznej prowadzonej w SWD PRM, mając na uwadze potrzebę zapewnienia sprawnej realizacji zadań przez dyspozytorów medycznych oraz współpracy SWD PRM z systemem teleinformatycznym w rozumieniu art. 2 pkt 4 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego.
 
@@ -877,12 +1004,14 @@ Art. 51–56. (pominięte)
 
 1. Osobą odpowiedzialną za funkcjonowanie dyspozytorni medycznej, zatrudnioną na podstawie stosunku pracy, jest kierownik dyspozytorni medycznej, zwany dalej „kierownikiem dyspozytorni”.
 
-2. Kierownikiem dyspozytorni może być osoba, która: i posiada kwalifikacje wymagane dla pielęgniarki systemu lub uzyskała co najmniej tytuł zawodowy licencjata wymagany dla ratownika medycznego, posiadająca łącznie co najmniej 3-letnie doświadczenie w zakresie realizacji zadań na stanowisku:
+2. Kierownikiem dyspozytorni może być osoba, która:
 
-- **a)** dyspozytora medycznego,
-- **b)** zastępcy głównego dyspozytora medycznego,
-- **c)** głównego dyspozytora medycznego,
-- **d)** zastępcy kierownika dyspozytorni medycznej.
+- **1)** ukończyła co najmniej studia pierwszego stopnia na kierunku pielęgniarstwo i posiada kwalifikacje wymagane dla pielęgniarki systemu lub uzyskała co najmniej tytuł zawodowy licencjata wymagany dla ratownika medycznego, posiadająca łącznie co najmniej 3-letnie doświadczenie w zakresie realizacji zadań na stanowisku:
+    - **a)** dyspozytora medycznego,
+    - **b)** zastępcy głównego dyspozytora medycznego,
+    - **c)** głównego dyspozytora medycznego,
+    - **d)** zastępcy kierownika dyspozytorni medycznej.
+
 - **2)** (uchylony)
 
 3. Do zadań kierownika dyspozytorni należy:
@@ -896,7 +1025,7 @@ Art. 51–56. (pominięte)
 
 4. Na podstawie stosunku pracy można zatrudnić zastępcę kierownika dyspozytorni, którym może być osoba, która:
 
-- **1)** ukończyła co najmniej studia pierwszego stopnia na kierunku pielęgniarstwo i posiada kwalifikacje wymagane dla pielęgniarki systemu lub uzyskała co najmniej tytuł zawodowy licencjata wymagany dla ratownika medycznego, stanowisku dyspozytora medycznego.
+- **1)** ukończyła co najmniej studia pierwszego stopnia na kierunku pielęgniarstwo i posiada kwalifikacje wymagane dla pielęgniarki systemu lub uzyskała co najmniej tytuł zawodowy licencjata wymagany dla ratownika medycznego, posiadająca co najmniej 2-letnie doświadczenie w zakresie realizacji zadań na stanowisku dyspozytora medycznego.
 - **2)** (uchylony)
 
 5. Dyspozytornie medyczne współpracują z innymi podmiotami, w szczególności z Policją, Państwową Strażą Pożarną i centrami powiadamiania ratunkowego, o których mowa w art. 3 ust. 2 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego, w celu podjęcia działań ratowniczych w związku z realizacją zadań dyspozytora medycznego, przy wykorzystaniu systemu teleinformatycznego i sieci teleinformatycznej na potrzeby obsługi numerów alarmowych w rozumieniu odpowiednio art. 2 pkt 4 i 5 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego, na potrzeby przyjmowania i obsługi powiadomień o zdarzeniach oraz zgłoszeń alarmowych przekazywanych z centrum powiadamiania ratunkowego przez dyspozytora medycznego.
@@ -912,7 +1041,7 @@ Art. 51–56. (pominięte)
 - **1)** w podmiocie leczniczym utworzonym przez ministra właściwego do spraw zdrowia w celu realizacji zadań lotniczych zespołów ratownictwa medycznego na stanowisku dyspozytora medycznego związanym z dysponowaniem i koordynacją działalności lotniczych zespołów ratownictwa medycznego oraz innych statków powietrznych będących na wyposażeniu podmiotu, w tym lotniczego zespołu transportu sanitarnego;
 - **2)** na stanowisku dyspozytora medycznego w lokalizacji wskazanej w planie.
 
-1a. (uchylony) 1b. Do dyspozytorów medycznych, o których mowa w ust. 1, pracowników zatrudnionych w Centrum Operacyjnym, o którym mowa w art. 26d, oraz wojewódzkich koordynatorów ratownictwa medycznego może być stosowany system równoważnego czasu pracy, w którym jest dopuszczalne przedłużenie dobowego wymiaru czasu pracy do 24 godzin, w okresie rozliczeniowym nieprzekraczającym 1 miesiąca. Przepisy art. 135 § 2 i 3 oraz art. 136 § 2 ustawy z dnia 26 czerwca odpowiednio.
+1a. (uchylony) 1b. Do dyspozytorów medycznych, o których mowa w ust. 1, pracowników zatrudnionych w Centrum Operacyjnym, o którym mowa w art. 26d, oraz wojewódzkich koordynatorów ratownictwa medycznego może być stosowany system równoważnego czasu pracy, w którym jest dopuszczalne przedłużenie dobowego wymiaru czasu pracy do 24 godzin, w okresie rozliczeniowym nieprzekraczającym 1 miesiąca. Przepisy art. 135 § 2 i 3 oraz art. 136 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661) stosuje się odpowiednio.
 
 1c. Osoba, z którą zawarto umowę na wykonywanie zadań dyspozytora medycznego, jest obowiązana przed rozpoczęciem realizacji tych zadań przedstawić podmiotowi, z którym zawarła tę umowę, zaświadczenie o ukończeniu kursu uprawniającego do pracy na tym stanowisku.
 
@@ -938,7 +1067,8 @@ Art. 51–56. (pominięte)
 
 2d. Do zadań głównego dyspozytora medycznego należy:
 
-- **1)** koordynowanie funkcjonowania dyspozytorni medycznej; krajowym koordynatorem ratownictwa medycznego;
+- **1)** koordynowanie funkcjonowania dyspozytorni medycznej;
+- **2)** współpraca z wojewódzkim koordynatorem ratownictwa medycznego oraz krajowym koordynatorem ratownictwa medycznego;
 - **3)** koordynacja współpracy dyspozytorów medycznych w przypadku zdarzeń z dużą liczbą poszkodowanych w obrębie jednej dyspozytorni medycznej;
 - **4)** bieżąca analiza zadań realizowanych przez dyspozytorów medycznych;
 - **5)** bieżąca analiza optymalnego wykorzystania zespołów ratownictwa medycznego;
@@ -971,7 +1101,9 @@ Art. 51–56. (pominięte)
 
 **Art. 26a.**
 
-1. Wojewoda zapewnia dostęp do wsparcia psychologicznego dyspozytorów medycznych udzielanego przez psychologów zatrudnionych na podstawie stosunku pracy w urzędzie wojewódzkim. spełnia następujące wymagania:
+1. Wojewoda zapewnia dostęp do wsparcia psychologicznego dyspozytorów medycznych udzielanego przez psychologów zatrudnionych na podstawie stosunku pracy w urzędzie wojewódzkim.
+
+2. Wsparcia psychologicznego udziela dyspozytorowi medycznemu osoba, która spełnia następujące wymagania:
 
 - **1)** ukończyła 5-letnie jednolite studia magisterskie na kierunku psychologia;
 - **2)** posiada co najmniej 2-letnie doświadczenie zawodowe w:
@@ -997,7 +1129,8 @@ Art. 51–56. (pominięte)
 
 1. Stroną umowy o pracę zawartej z:
 
-- **1)** dyspozytorem medycznym, o którym mowa w art. 26 ust. 1: jednostką nadzorowaną przez ministra właściwego do spraw zdrowia,
+- **1)** dyspozytorem medycznym, o którym mowa w art. 26 ust. 1:
+    - **a)** pkt 1, jest dysponent lotniczych zespołów ratownictwa medycznego będący jednostką nadzorowaną przez ministra właściwego do spraw zdrowia,
     - **b)** pkt 2, jest urząd wojewódzki;
 
 - **2)** psychologiem, o którym mowa w art. 26a ust. 1, jest urząd wojewódzki.
@@ -1018,7 +1151,8 @@ Art. 51–56. (pominięte)
 
 2. W Centrum Operacyjnym zadania wykonują dyspozytorzy medyczni, o których mowa w art. 26 ust. 1 pkt 1, oraz dyspozytorzy lotniczy, którzy spełniają wymagania określone w art. 94 ust. 6 pkt 5 oraz art. 96 ust. 1 i ust. 2 pkt 11 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668), w zakresie niezbędnym do realizacji celów statutowych dysponenta lotniczych zespołów ratownictwa medycznego będącego jednostką nadzorowaną przez ministra właściwego do spraw zdrowia, z tym że:
 
-- **1)** dyspozytor medyczny, o którym mowa w art. 26 ust. 1 pkt 1 – dysponuje lotnicze zespoły ratownictwa medycznego i lotnicze zespoły transportu sanitarnego oraz koordynuje realizację ich zadań; i zapewnieniem realizacji zadań przez lotnicze zespoły ratownictwa medycznego oraz lotnicze zespoły transportu sanitarnego zgodnie z ustawą z dnia 3 lipca 2002 r. – Prawo lotnicze i przepisami prawa międzynarodowego, a także współpracuje z dyspozytorem medycznym w zakresie realizacji jego zadań, które nie wymagają wiedzy medycznej, w tym przez dysponowanie statków powietrznych.
+- **1)** dyspozytor medyczny, o którym mowa w art. 26 ust. 1 pkt 1 – dysponuje lotnicze zespoły ratownictwa medycznego i lotnicze zespoły transportu sanitarnego oraz koordynuje realizację ich zadań;
+- **2)** dyspozytor lotniczy – wykonuje zadania związane z koordynacją i zapewnieniem realizacji zadań przez lotnicze zespoły ratownictwa medycznego oraz lotnicze zespoły transportu sanitarnego zgodnie z ustawą z dnia 3 lipca 2002 r. – Prawo lotnicze i przepisami prawa międzynarodowego, a także współpracuje z dyspozytorem medycznym w zakresie realizacji jego zadań, które nie wymagają wiedzy medycznej, w tym przez dysponowanie statków powietrznych.
 
 **Art. 26e.**
 
@@ -1039,7 +1173,9 @@ Art. 51–56. (pominięte)
 
 - **1)** zgłoszenia przez członka zespołu ratownictwa medycznego problemów psychicznych mogących wpływać na poziom jego funkcjonowania psychicznego;
 - **2)** zaobserwowanych albo zgłoszonych przez dysponenta zespołów ratownictwa medycznego trudności członków tych zespołów w pracy zespołowej lub indywidualnej;
-- **3)** stwierdzenia u członka zespołu ratownictwa medycznego symptomów świadczących o trudnościach psychicznych. zespołu ratownictwa medycznego, z zachowaniem zasad etyki zawodowej psychologa.
+- **3)** stwierdzenia u członka zespołu ratownictwa medycznego symptomów świadczących o trudnościach psychicznych.
+
+5. Zadania, o których mowa w ust. 3, są realizowane wyłącznie za zgodą członka zespołu ratownictwa medycznego, z zachowaniem zasad etyki zawodowej psychologa.
 
 6. Psycholog udzielający wsparcia psychicznego członkom zespołów ratownictwa medycznego opracowuje i przekazuje dysponentowi zespołów ratownictwa medycznego, do dnia 31 marca, raport roczny za rok poprzedni z realizacji zadań, o których mowa w ust. 3, obejmujący wskazanie liczby i rodzaju zrealizowanych zadań oraz liczby osób, wobec których te zadania zostały zrealizowane.
 
@@ -1053,7 +1189,8 @@ Art. 51–56. (pominięte)
 - **4)** zbieranie aktualnych informacji o dostępnych w rejonie operacyjnym jednostkach systemu, o których mowa w art. 32 ust. 1, i ich gotowości oraz przekazywanie tych informacji wojewódzkiemu koordynatorowi ratownictwa medycznego;
 - **5)** zbieranie i archiwizowanie bieżących informacji o zdarzeniach i prowadzonych medycznych czynnościach ratunkowych;
 - **6)** powiadamianie o zdarzeniu szpitalnych oddziałów ratunkowych lub, jeżeli wymaga tego sytuacja na miejscu zdarzenia, centrów urazowych lub jednostek organizacyjnych szpitali wyspecjalizowanych w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego;
-- **7)** powiadamianie o zdarzeniu jednostek współpracujących z systemem, o których mowa w art. 15, jeżeli wymaga tego sytuacja na miejscu zdarzenia; których mowa w art. 13 ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122, z późn. zm. );
+- **7)** powiadamianie o zdarzeniu jednostek współpracujących z systemem, o których mowa w art. 15, jeżeli wymaga tego sytuacja na miejscu zdarzenia;
+- **8)** współpraca oraz wymiana informacji z centrami zarządzania kryzysowego, o których mowa w art. 13 ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122, z późn. zm. );
 - **9)** współpraca oraz wymiana informacji z Krajowym Centrum Monitorowania Ratownictwa Medycznego, o którym mowa w art. 27a ust. 1.
 
 1a. Wykonywanie zadań dyspozytora medycznego, o których mowa w ust. 1, stanowi udzielanie świadczeń zdrowotnych w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
@@ -1074,7 +1211,7 @@ Art. 51–56. (pominięte)
 5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, ramowe procedury:
 
 - **1)** przyjmowania oraz obsługi zgłoszeń alarmowych i powiadomień o zdarzeniach przez dyspozytora medycznego,
-- **2)** dysponowania zespołami ratownictwa medycznego – mając na względzie potrzebę jak najszybszego ustalenia istotnych elementów stanu faktycznego w trakcie przyjmowania zgłoszenia alarmowego lub powiadomienia o zdarzeniu oraz zapewnienia odpowiedniego sposobu obsługi tego zgłoszenia lub zespołu ratownictwa medycznego.
+- **2)** dysponowania zespołami ratownictwa medycznego – mając na względzie potrzebę jak najszybszego ustalenia istotnych elementów stanu faktycznego w trakcie przyjmowania zgłoszenia alarmowego lub powiadomienia o zdarzeniu oraz zapewnienia odpowiedniego sposobu obsługi tego zgłoszenia lub powiadomienia, a także zapewnienie wysłania na miejsce zdarzenia właściwego zespołu ratownictwa medycznego.
 
 6. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii ekspertów właściwych w zakresie medycyny ratunkowej i ratownictwa medycznego, ogłasza, w drodze obwieszczenia, algorytm zbierania wywiadu medycznego przez dyspozytora medycznego, stanowiący zbiór pytań kierowanych do osoby dokonującej zgłoszenia, opracowany z uwzględnieniem ramowych procedur, o których mowa w przepisach wydanych na podstawie ust. 5, zgodnie z aktualną wiedzą w zakresie medycyny ratunkowej.
 
@@ -1090,7 +1227,8 @@ Art. 51–56. (pominięte)
 - **4)** uczestniczenie w postępowaniach o udzielenie zamówienia publicznego na zakup sprzętu do obsługi SWD PRM w specjalistycznych środkach transportu sanitarnego wykorzystywanych przez zespoły ratownictwa medycznego, na stanowiskach pracy wojewódzkich koordynatorów ratownictwa medycznego i na stanowiskach pracy dyspozytorów medycznych;
 - **5)** opracowanie kryteriów oceny pracy dyspozytora medycznego;
 - **6)** całodobowe monitorowanie przebiegu zdarzeń obsługiwanych przez dyspozytorów medycznych oraz zespoły ratownictwa medycznego, w tym zdarzeń, których skutki spowodowały stan nagłego zagrożenia zdrowotnego znacznej liczby osób, oraz współpraca i wspomaganie realizacji zadań przez krajowego koordynatora ratownictwa medycznego oraz wojewódzkich koordynatorów ratownictwa medycznego;
-- **7)** przygotowywanie i prowadzenie: koordynatora ratownictwa medycznego,
+- **7)** przygotowywanie i prowadzenie:
+    - **a)** kursu uprawniającego do pracy na stanowisku wojewódzkiego koordynatora ratownictwa medycznego,
     - **b)** kursu uprawniającego do pracy na stanowisku dyspozytora medycznego,
     - **c)** kursu doskonalącego dla dyspozytora medycznego, odbywanego w ramach rozwoju zawodowego dyspozytora medycznego;
 
@@ -1116,7 +1254,9 @@ Art. 51–56. (pominięte)
 - **4)** szczegółowy program kursów;
 - **5)** wskazówki metodyczne.
 
-2. Ukończenie kursu uprawniającego do pracy na stanowisku dyspozytora medycznego ma na celu uzyskanie umiejętności niezbędnych do realizacji przez dyspozytora medycznego zadań, o których mowa w art. 27 ust. 1. aktualizację i doskonalenie posiadanych umiejętności umożliwiających realizację przez dyspozytora medycznego zadań, o których mowa w art. 27 ust. 1.
+2. Ukończenie kursu uprawniającego do pracy na stanowisku dyspozytora medycznego ma na celu uzyskanie umiejętności niezbędnych do realizacji przez dyspozytora medycznego zadań, o których mowa w art. 27 ust. 1.
+
+3. Ukończenie kursu doskonalącego dla dyspozytora medycznego ma na celu aktualizację i doskonalenie posiadanych umiejętności umożliwiających realizację przez dyspozytora medycznego zadań, o których mowa w art. 27 ust. 1.
 
 4. Ukończenie kursu uprawniającego do pracy na stanowisku wojewódzkiego koordynatora ratownictwa medycznego ma na celu uzyskanie niezbędnych umiejętności do realizacji przez wojewódzkiego koordynatora ratownictwa medycznego zadań, o których mowa w art. 29 ust. 5.
 
@@ -1140,7 +1280,9 @@ Art. 51–56. (pominięte)
 
 9. Wojewoda, w terminie do dnia 15 października każdego roku, powiadamia KCMRM o liczbie uczestników, którzy zostaną w roku następnym skierowani na kurs uprawniający do pracy na stanowisku dyspozytora medycznego.
 
-10. Do dnia 20 listopada każdego roku KCMRM informuje wojewodę, o którym mowa w ust. 9, o terminie kursu uprawniającego do pracy na stanowisku dyspozytora medycznego w roku kolejnym. kursu uprawniającego do pracy na stanowisku dyspozytora medycznego zawierającą:
+10. Do dnia 20 listopada każdego roku KCMRM informuje wojewodę, o którym mowa w ust. 9, o terminie kursu uprawniającego do pracy na stanowisku dyspozytora medycznego w roku kolejnym.
+
+11. Wojewoda, o którym mowa w ust. 9, przekazuje KCMRM listę uczestników kursu uprawniającego do pracy na stanowisku dyspozytora medycznego zawierającą:
 
 - **1)** imię i nazwisko uczestnika,
 - **2)** numer telefonu kontaktowego uczestnika,
@@ -1164,7 +1306,9 @@ Art. 51–56. (pominięte)
 - **2)** przedstawiciela KCMRM;
 - **3)** jednej z osób prowadzących zajęcia na kursie uprawniającym do pracy na stanowisku dyspozytora medycznego.
 
-19. Członków komisji, o której mowa w ust. 18, powołuje i odwołuje dysponent lotniczych zespołów ratownictwa medycznego będący jednostką nadzorowaną przez ministra właściwego do spraw zdrowia. która jest małżonkiem, krewnym lub powinowatym do drugiego stopnia włącznie osoby zdającej egzamin.
+19. Członków komisji, o której mowa w ust. 18, powołuje i odwołuje dysponent lotniczych zespołów ratownictwa medycznego będący jednostką nadzorowaną przez ministra właściwego do spraw zdrowia.
+
+20. Do składu komisji, o której mowa w ust. 18, nie może być powołana osoba, która jest małżonkiem, krewnym lub powinowatym do drugiego stopnia włącznie osoby zdającej egzamin.
 
 21. Do kursu uprawniającego do pracy na stanowisku wojewódzkiego koordynatora ratownictwa medycznego oraz kursu doskonalącego dla dyspozytora medycznego przepisy ust. 9–20 stosuje się odpowiednio.
 
@@ -1183,7 +1327,9 @@ Art. 51–56. (pominięte)
 
 **Art. 29.**
 
-1. W urzędzie wojewódzkim działają wojewódzcy koordynatorzy ratownictwa medycznego, zatrudnieni przez wojewodę na podstawie stosunku pracy, w liczbie niezbędnej do zapewnienia całodobowej realizacji zadań, o których mowa w ust. 5. urząd wojewódzki.
+1. W urzędzie wojewódzkim działają wojewódzcy koordynatorzy ratownictwa medycznego, zatrudnieni przez wojewodę na podstawie stosunku pracy, w liczbie niezbędnej do zapewnienia całodobowej realizacji zadań, o których mowa w ust. 5.
+
+2. Pracodawcą dla wojewódzkich koordynatorów ratownictwa medycznego jest urząd wojewódzki.
 
 3. (uchylony)
 
@@ -1207,7 +1353,7 @@ Art. 51–56. (pominięte)
 
 7. Zadania wojewódzkiego koordynatora ratownictwa medycznego, o których mowa w ust. 5, uwzględniają postanowienia umów międzynarodowych dotyczących współpracy transgranicznej w zakresie ratownictwa medycznego.
 
-8. Wojewódzki koordynator ratownictwa medycznego w celu realizacji zadań, o których mowa w ust. 5, może żądać od kierownika podmiotu leczniczego lub osoby go zastępującej informacji dotyczących funkcjonowania podmiotu leczniczego, w skład którego wchodzi jednostka systemu, o której mowa w art. 32 ust. 1, oraz zdrowotnych niezbędnych dla ratownictwa medycznego, o której mowa w art. 32 ust.
+8. Wojewódzki koordynator ratownictwa medycznego w celu realizacji zadań, o których mowa w ust. 5, może żądać od kierownika podmiotu leczniczego lub osoby go zastępującej informacji dotyczących funkcjonowania podmiotu leczniczego, w skład którego wchodzi jednostka systemu, o której mowa w art. 32 ust. 1, oraz jednostka organizacyjna szpitala wyspecjalizowana w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego, o której mowa w art. 32 ust.
 
 2.
 
@@ -1231,7 +1377,9 @@ Art. 51–56. (pominięte)
 
 2. W przypadku, o którym mowa w ust. 1, wojewoda może nałożyć, w drodze decyzji administracyjnej, na podmioty wykonujące działalność leczniczą określone w ust. 1 obowiązek pozostawania w stanie podwyższonej gotowości w celu przyjęcia osób znajdujących się w stanie nagłego zagrożenia zdrowotnego.
 
-3. Decyzji, o której mowa w ust. 2, nadaje się rygor natychmiastowej wykonalności. medycznego do wydawania decyzji, o których mowa w ust. 2.
+3. Decyzji, o której mowa w ust. 2, nadaje się rygor natychmiastowej wykonalności.
+
+4. Wojewoda może upoważnić wojewódzkiego koordynatora ratownictwa medycznego do wydawania decyzji, o których mowa w ust. 2.
 
 5. Jeżeli świadczenia opieki zdrowotnej udzielane przez podmioty wykonujące działalność leczniczą w ramach wykonania obowiązku, o którym mowa w ust. 2, nie są finansowane przez Narodowy Fundusz Zdrowia na podstawie umowy o udzielanie świadczeń opieki zdrowotnej, przepisy art. 19 ust. 2–6 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739) stosuje się odpowiednio.
 
@@ -1255,7 +1403,7 @@ Art. 51–56. (pominięte)
 1. Jednostkami systemu są:
 
 - **1)** szpitalne oddziały ratunkowe,
-- **2)** zespoły ratownictwa medycznego, w tym lotnicze zespoły ratownictwa medycznego oraz motocyklowe jednostki ratunkowe, wchodzące w skład podmiotu leczniczego będącego samodzielnym publicznym zakładem opieki zdrowotnej albo jednostką budżetową, albo spółką kapitałową, w której co najmniej 51 % udziałów albo akcji należy do Skarbu Państwa lub jednostki samorządu terytorialnego o udzielanie świadczeń opieki zdrowotnej.
+- **2)** zespoły ratownictwa medycznego, w tym lotnicze zespoły ratownictwa medycznego oraz motocyklowe jednostki ratunkowe, wchodzące w skład podmiotu leczniczego będącego samodzielnym publicznym zakładem opieki zdrowotnej albo jednostką budżetową, albo spółką kapitałową, w której co najmniej 51 % udziałów albo akcji należy do Skarbu Państwa lub jednostki samorządu terytorialnego – zwane dalej „jednostkami systemu”, na których świadczenia zawarto umowy o udzielanie świadczeń opieki zdrowotnej.
 
 2. Z systemem współpracują centra urazowe oraz jednostki organizacyjne szpitali wyspecjalizowane w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego, które zostały ujęte w planie.
 
@@ -1273,7 +1421,9 @@ Art. 51–56. (pominięte)
 
 **Art. 33a.**
 
-1. W szpitalnym oddziale ratunkowym jest prowadzona segregacja medyczna. Segregację medyczną przeprowadza pielęgniarka systemu, ratownik medyczny lub lekarz systemu. zagrożenia zdrowotnego jest przydzielana jedna z kategorii w pięciostopniowej skali.
+1. W szpitalnym oddziale ratunkowym jest prowadzona segregacja medyczna. Segregację medyczną przeprowadza pielęgniarka systemu, ratownik medyczny lub lekarz systemu.
+
+2. W wyniku przeprowadzonej segregacji medycznej osobie w stanie nagłego zagrożenia zdrowotnego jest przydzielana jedna z kategorii w pięciostopniowej skali.
 
 3. Informacja o czasie oczekiwania na udzielenie świadczeń zdrowotnych osobom, o których mowa w ust. 2, jest podawana na wyświetlaczu zbiorczym umieszczonym w obszarze segregacji medycznej, rejestracji i przyjęć.
 
@@ -1292,7 +1442,7 @@ Art. 51–56. (pominięte)
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora TOPSOR;
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy.
 
-9. Administrator TOPSOR jest uprawniony do przechowywania danych osobowych przez okres niezbędny do realizacji zadań wynikających z ustawy, administrator TOPSOR niszczy przechowywane dane osobowe w sposób uniemożliwiający ich odczyt.
+9. Administrator TOPSOR jest uprawniony do przechowywania danych osobowych przez okres niezbędny do realizacji zadań wynikających z ustawy, niedłużej jednak niż przez okres 20 lat od ich uzyskania. Po upływie tego terminu administrator TOPSOR niszczy przechowywane dane osobowe w sposób uniemożliwiający ich odczyt.
 
 10. Administrator TOPSOR podejmuje działania mające na celu:
 
@@ -1312,6 +1462,10 @@ Art. 51–56. (pominięte)
 - **2)** warunki organizacyjno-techniczne gromadzenia, przetwarzania i pobierania danych zgromadzonych w TOPSOR – uwzględniając konieczność zapewnienia współpracy systemu informatycznego wykorzystywanego przez dysponenta jednostki z TOPSOR oraz umożliwienia powszechnej dostępności danych, przy zachowaniu odpowiedniego poziomu bezpieczeństwa tych danych. <13. Zadania administratora TOPSOR mogą być finansowane w formie dotacji celowej z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia, na podstawie umowy zawartej między ministrem właściwym do spraw zdrowia a Narodowym Funduszem Zdrowia.>
 
 **Art. 34.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe zadania szpitalnych oddziałów ratunkowych, 1a) szczegółowe warunki prowadzenia segregacji medycznej w szpitalnych oddziałach ratunkowych,
+- **2)** szczegółowe wymagania dotyczące lokalizacji szpitalnych oddziałów ratunkowych w strukturze szpitala oraz warunków technicznych,
+- **3)** minimalne wyposażenie, organizację oraz minimalne zasoby kadrowe szpitalnych oddziałów ratunkowych – uwzględniając konieczność zapewnienia osobom w stanie nagłego zagrożenia zdrowotnego odpowiednich świadczeń opieki zdrowotnej.
 
 **Art. 35.** (uchylony)
 
@@ -1334,7 +1488,11 @@ Art. 51–56. (pominięte)
 
 5. Kierownikiem zespołu ratownictwa medycznego, o którym mowa w ust. 1 pkt 2, jest osoba wskazana przez dysponenta jednostki, będąca ratownikiem medycznym lub pielęgniarką systemu.
 
-6. Kierownikiem motocyklowej jednostki ratunkowej, o której mowa w ust. 1 pkt 3, jest osoba wskazana przez dysponenta tej jednostki, będąca lekarzem systemu, pielęgniarką systemu lub ratownikiem medycznym. epidemii w skład zespołu specjalistycznego mogą wchodzić trzy osoby posiadające kwalifikacje wymagane dla ratownika medycznego lub pielęgniarki systemu.
+6. Kierownikiem motocyklowej jednostki ratunkowej, o której mowa w ust. 1 pkt 3, jest osoba wskazana przez dysponenta tej jednostki, będąca lekarzem systemu, pielęgniarką systemu lub ratownikiem medycznym.
+
+**Art. 36a.**
+
+1. W okresie ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii w skład zespołu specjalistycznego mogą wchodzić trzy osoby posiadające kwalifikacje wymagane dla ratownika medycznego lub pielęgniarki systemu.
 
 2. W okresie ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii kierownikiem zespołu, o którym mowa w ust. 1, jest osoba wskazana przez dysponenta jednostki, będąca ratownikiem medycznym lub pielęgniarką systemu.
 
@@ -1363,7 +1521,9 @@ Art. 51–56. (pominięte)
 
 **Art. 38a.**
 
-1. Lekarze, o których mowa w art. 3 pkt 3 lit. c–f, są obowiązani do ukończenia kursu w zakresie postępowania z osobami w stanie nagłego zagrożenia zdrowotnego nierzadziej niż raz na 48 miesięcy. ukończenia kursu w zakresie postępowania z osobami w stanie nagłego zagrożenia zdrowotnego nierzadziej niż raz na 48 miesięcy.
+1. Lekarze, o których mowa w art. 3 pkt 3 lit. c–f, są obowiązani do ukończenia kursu w zakresie postępowania z osobami w stanie nagłego zagrożenia zdrowotnego nierzadziej niż raz na 48 miesięcy.
+
+2. Pielęgniarki, o których mowa w art. 3 pkt 6 lit. b–d, są obowiązane do ukończenia kursu w zakresie postępowania z osobami w stanie nagłego zagrożenia zdrowotnego nierzadziej niż raz na 48 miesięcy.
 
 3. Kursy, o których mowa w ust. 1 i 2, zwane dalej „kursami stanów nagłych”, prowadzą:
 
@@ -1394,7 +1554,8 @@ Art. 51–56. (pominięte)
 
 11. Zaświadczenie, o którym mowa w ust. 10, zawiera następujące dane:
 
-- **1)** imię (imiona) i nazwisko uczestnika kursu stanów nagłych; serię i numer paszportu albo innego dokumentu potwierdzającego tożsamość;
+- **1)** imię (imiona) i nazwisko uczestnika kursu stanów nagłych;
+- **2)** numer PESEL uczestnika kursu stanów nagłych, a w przypadku jego braku – serię i numer paszportu albo innego dokumentu potwierdzającego tożsamość;
 - **3)** numer zaświadczenia;
 - **4)** zakres problematyki kursu stanów nagłych;
 - **5)** nazwę i siedzibę podmiotu prowadzącego kurs stanów nagłych;
@@ -1418,7 +1579,8 @@ Art. 51–56. (pominięte)
 2. Przeszkolenie, o którym mowa w ust. 1, obejmuje co najmniej:
 
 - **1)** podstawy prawne związane z samoobroną, w tym omówienie granicy obrony koniecznej oraz stosowania przymusu bezpośredniego;
-- **2)** stosowanie zasad i technik samoobrony w sytuacji zagrożenia oraz stosowanie przymusu bezpośredniego; intensywności agresywnych zachowań oraz zapobieganie eskalacji konfliktów.
+- **2)** stosowanie zasad i technik samoobrony w sytuacji zagrożenia oraz stosowanie przymusu bezpośredniego;
+- **3)** stosowanie technik deeskalacyjnych mających na celu zmniejszenie intensywności agresywnych zachowań oraz zapobieganie eskalacji konfliktów.
 
 3. Przeszkolenie, o którym mowa w ust. 1:
 
@@ -1442,17 +1604,48 @@ Art. 51–56. (pominięte)
 
 **Art. 39b.** Centrum urazowe:
 
+- **1)** zabezpiecza, w zakresie świadczeń zdrowotnych, o których mowa w art. 39c ust. 1, populację niemniejszą niż 1 mln mieszkańców, zamieszkującą obszar pozwalający na dotarcie zespołu ratownictwa medycznego z miejsca zdarzenia do centrum urazowego w ciągu 1,5 godziny;
+- **2)** współpracuje z uczelnią medyczną w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce lub inną uczelnią publiczną, która utworzyła lub prowadzi podmiot leczniczy prowadzący szpital;
+- **3)** zapewnia działanie w swojej strukturze specjalistycznych oddziałów zabiegowych i pracowni diagnostycznych:
+    - **a)** oddziału anestezjologii i intensywnej terapii, zapewniającego gotowość co najmniej dwóch stanowisk intensywnej terapii do udzielania świadczeń zdrowotnych pacjentowi urazowemu,
+    - **b)** bloku operacyjnego, zapewniającego stałą gotowość co najmniej jednej sali operacyjnej do udzielania świadczeń zdrowotnych pacjentowi urazowemu,
+    - **c)** pracowni endoskopii diagnostycznej i zabiegowej, czynnej całą dobę,
+    - **d)** oddziałów, w szczególności: – chirurgii ogólnej lub obrażeń wielonarządowych, – ortopedii i traumatologii narządu ruchu, – neurochirurgii lub chirurgii ogólnej z profilem neurotraumatologii, – chirurgii naczyń lub chirurgii ogólnej z profilem chirurgii naczyń;
+
+- **4)** zapewnia dostęp do pracowni diagnostyki laboratoryjnej i obrazowej, czynnej całą dobę;
+- **5)** zapewnia dostępność do świadczeń zdrowotnych udzielanych przez lekarza posiadającego tytuł specjalisty w dziedzinie kardiochirurgii lub torakochirurgii w czasie niedłuższym niż 30 minut od chwili stwierdzenia okoliczności uzasadniających udzielanie takich świadczeń;
+- **6)** dysponuje lądowiskiem lub lotniskiem dla śmigłowca ratunkowego, zlokalizowanym w takiej odległości, aby możliwe było przyjęcie pacjenta urazowego, bez pośrednictwa specjalistycznych środków transportu sanitarnego.
+
 **Art. 39c.**
 
 1. Centrum urazowe przyjmuje, kompleksowo diagnozuje i wielospecjalistycznie leczy pacjenta urazowego, zgodnie z aktualną wiedzą medyczną w zakresie leczenia ciężkich, mnogich lub wielonarządowych obrażeń ciała.
 
-2. Centrum urazowe, po zakończeniu udzielania świadczeń zdrowotnych, o których mowa w ust. 1, kieruje pacjenta urazowego do innego oddziału szpitala, w którym znajduje się centrum urazowe lub do zakładu leczniczego innego podmiotu leczniczego w celu kontynuowania leczenia lub rehabilitacji. pacjenta urazowego w oddziale szpitala lub w zakładzie leczniczym podmiotu leczniczego, o których mowa w ust. 2, właściwych ze względu na jego stan zdrowia.
+2. Centrum urazowe, po zakończeniu udzielania świadczeń zdrowotnych, o których mowa w ust. 1, kieruje pacjenta urazowego do innego oddziału szpitala, w którym znajduje się centrum urazowe lub do zakładu leczniczego innego podmiotu leczniczego w celu kontynuowania leczenia lub rehabilitacji.
+
+3. Zespół urazowy zaleca wskazania co do dalszego leczenia lub rehabilitacji pacjenta urazowego w oddziale szpitala lub w zakładzie leczniczym podmiotu leczniczego, o których mowa w ust. 2, właściwych ze względu na jego stan zdrowia.
 
 **Art. 39d.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe wymagania organizacyjne centrum urazowego, w zakresie minimalnego wyposażenia diagnostycznego oraz technicznego,
+- **2)** minimalne zasoby kadrowe zespołu urazowego,
+- **3)** kryteria kwalifikacji osoby w stanie nagłego zagrożenia zdrowotnego do leczenia w centrum urazowym,
+- **4)** sposób postępowania z pacjentem urazowym – uwzględniając konieczność zapewnienia pacjentowi urazowemu odpowiednich świadczeń opieki zdrowotnej.
 
 **Art. 39e.** W centrum urazowym dla dzieci świadczenia zdrowotne, o których mowa w art. 39g ust. 1, są udzielane pacjentowi urazowemu dziecięcemu przez zespół lekarzy posiadających tytuł specjalisty, zwany dalej „zespołem urazowym dziecięcym”, określony w przepisach wydanych na podstawie art. 39h.
 
 **Art. 39f.** Centrum urazowe dla dzieci:
+
+- **1)** zabezpiecza, w zakresie świadczeń zdrowotnych, o których mowa w art. 39g ust. 1, populację niemniejszą niż 1 mln mieszkańców, zamieszkującą obszar pozwalający na dotarcie zespołu ratownictwa medycznego z miejsca zdarzenia do centrum urazowego dla dzieci w ciągu 1,5 godziny;
+- **2)** współpracuje z uczelnią medyczną w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce lub inną uczelnią publiczną, która utworzyła lub prowadzi podmiot leczniczy prowadzący szpital;
+- **3)** zapewnia działanie w swojej strukturze specjalistycznych oddziałów zabiegowych:
+    - **a)** oddziału anestezjologii i intensywnej terapii, zapewniającego gotowość co najmniej dwóch stanowisk intensywnej terapii do udzielania świadczeń zdrowotnych pacjentowi urazowemu dziecięcemu,
+    - **b)** bloku operacyjnego, zapewniającego stałą gotowość co najmniej jednej sali operacyjnej do udzielania świadczeń zdrowotnych pacjentowi urazowemu dziecięcemu,
+    - **c)** oddziału chirurgii dziecięcej oraz oddziałów lub specjalistów neurochirurgii lub neurotraumatologii, ortopedii i traumatologii narządu ruchu;
+
+- **4)** zapewnia dostęp do pracowni diagnostyki laboratoryjnej i obrazowej, endoskopii diagnostycznej i zabiegowej czynnej całą dobę;
+- **5)** zapewnia dostępność do świadczeń zdrowotnych udzielanych przez lekarza posiadającego specjalizację II stopnia lub tytuł specjalisty w dziedzinie kardiochirurgii lub chirurgii klatki piersiowej w czasie niedłuższym niż 30 minut od chwili stwierdzenia okoliczności uzasadniających udzielanie takich świadczeń;
+- **6)** zapewnia dostępność do świadczeń zdrowotnych udzielanych przez lekarza posiadającego specjalizację II stopnia lub tytuł specjalisty w dziedzinie chirurgii szczękowo-twarzowej w czasie niedłuższym niż 12 godzin od chwili stwierdzenia okoliczności uzasadniających udzielanie takich świadczeń;
+- **7)** dysponuje lądowiskiem lub lotniskiem dla śmigłowca ratunkowego, zlokalizowanym w takiej odległości, aby możliwe było przyjęcie pacjenta urazowego dziecięcego, bez pośrednictwa specjalistycznego środka transportu sanitarnego.
 
 **Art. 39g.**
 
@@ -1463,6 +1656,11 @@ Art. 51–56. (pominięte)
 3. Zespół urazowy dziecięcy zaleca wskazania co do dalszego leczenia lub rehabilitacji pacjenta urazowego dziecięcego w oddziale szpitala lub w zakładzie leczniczym podmiotu leczniczego, o których mowa w ust. 2, właściwych ze względu na jego stan zdrowia.
 
 **Art. 39h.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe wymagania organizacyjne centrum urazowego dla dzieci, w zakresie minimalnego wyposażenia diagnostycznego oraz technicznego,
+- **2)** minimalne zasoby kadrowe zespołu urazowego dziecięcego,
+- **3)** kryteria kwalifikacji osoby do ukończenia 18. roku życia będącej w stanie nagłego zagrożenia zdrowotnego do leczenia w centrum urazowym dla dzieci,
+- **4)** sposób postępowania z pacjentem urazowym dziecięcym – uwzględniając konieczność zapewnienia pacjentowi urazowemu dziecięcemu odpowiednich świadczeń opieki zdrowotnej.
 
 #### Rozdział 5 Akcja medyczna
 
@@ -1484,7 +1682,7 @@ Art. 51–56. (pominięte)
 
 - **1)** w przypadku nieobecności na miejscu zdarzenia podmiotów krajowego systemu ratowniczo-gaśniczego, o których mowa w przepisach wydanych na podstawie art. 14 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2025 r. poz. 188), dokonanie weryfikacji warunków panujących na miejscu zdarzenia ze szczególnym uwzględnieniem zagrożeń panujących na miejscu zdarzenia;
 - **2)** koordynowanie działań realizowanych przez osoby wykonujące medyczne czynności ratunkowe oraz udzielające kwalifikowanej pierwszej pomocy na miejscu zdarzenia;
-- **3)** współpraca z dyspozytorem medycznym w zakresie ustalania kierunku transportu osób w stanie nagłego zagrożenia zdrowotnego z miejsca zdarzenia zdarzenia;
+- **3)** współpraca z dyspozytorem medycznym w zakresie ustalania kierunku transportu osób w stanie nagłego zagrożenia zdrowotnego z miejsca zdarzenia oraz zapotrzebowania na zespoły ratownictwa medycznego na miejscu zdarzenia;
 - **4)** współpraca z kierującym działaniem ratowniczym, o którym mowa w art. 25 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej;
 - **5)** współpraca z koordynatorem zabezpieczenia pod względem medycznym imprezy masowej, o którym mowa w przepisach wydanych na podstawie art. 5 ust. 4 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych;
 - **6)** współpraca z kierującym działaniami antyterrorystycznymi, o którym mowa w art. 18 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2025 r. poz. 194).
@@ -1501,7 +1699,15 @@ Art. 51–56. (pominięte)
 
 4. Do członków zespołów ratownictwa medycznego udzielających świadczeń czasowo i okazjonalnie wyłącznie w ramach umów międzynarodowych zawartych z państwem członkowskim Unii Europejskiej w celu współpracy transgranicznej w zakresie ratownictwa medycznego nie stosuje się przepisów art. 31–38 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334 oraz z 2025 r. poz. 619).
 
-**Art. 43.** (uchylony) zagrożenia zdrowotnego do najbliższego, pod względem czasu dotarcia, szpitalnego oddziału ratunkowego lub do szpitala wskazanego przez dyspozytora medycznego, wojewódzkiego koordynatora ratownictwa medycznego albo krajowego koordynatora ratownictwa medycznego. 2. (uchylony) 3. Zespół ratownictwa medycznego nie transportuje osoby w stanie nagłego zagrożenia zdrowotnego do jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego, która zgodnie z harmonogramem, o którym mowa w art. 21a ust. 1, nie udziela świadczeń w warunkach zwiększonej gotowości.
+**Art. 43.** (uchylony)
+
+**Art. 44.**
+
+1. Zespół ratownictwa medycznego transportuje osobę w stanie nagłego zagrożenia zdrowotnego do najbliższego, pod względem czasu dotarcia, szpitalnego oddziału ratunkowego lub do szpitala wskazanego przez dyspozytora medycznego, wojewódzkiego koordynatora ratownictwa medycznego albo krajowego koordynatora ratownictwa medycznego.
+
+2. (uchylony)
+
+3. Zespół ratownictwa medycznego nie transportuje osoby w stanie nagłego zagrożenia zdrowotnego do jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego, która zgodnie z harmonogramem, o którym mowa w art. 21a ust. 1, nie udziela świadczeń w warunkach zwiększonej gotowości.
 
 **Art. 45.** W przypadku gdy u osoby w stanie nagłego zagrożenia zdrowotnego zostanie stwierdzony stan, który wymaga transportu z miejsca zdarzenia bezpośrednio do szpitala, w którym znajduje się centrum urazowe lub centrum urazowe dla dzieci, albo do jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego, lub gdy tak zadecyduje kierownik zespołu ratownictwa medycznego, osobę w stanie nagłego zagrożenia zdrowotnego transportuje się bezpośrednio do szpitala, w którym znajduje się odpowiednie centrum albo jednostka organizacyjna szpitala wyspecjalizowana w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego, wskazanego przez dyspozytora medycznego, wojewódzkiego koordynatora ratownictwa medycznego lub krajowego koordynatora ratownictwa medycznego. W przypadku transportu poza obszar działania dyspozytorni medycznej transport koordynuje odpowiednio wojewódzki koordynator ratownictwa medycznego albo krajowy koordynator ratownictwa medycznego.
 
@@ -1509,7 +1715,9 @@ Art. 51–56. (pominięte)
 
 **Art. 45b.**
 
-1. Odmowa przyjęcia przez szpital osoby w stanie nagłego zagrożenia zdrowotnego, pacjenta urazowego lub pacjenta urazowego dziecięcego od jednostek systemu albo niewykonanie decyzji, o których mowa w art. 20a ust. 4 lub art. 29 ust. 9a, skutkuje zastosowaniem kary umownej określonej w umowie o udzielanie świadczeń opieki zdrowotnej lub niezwłocznym rozwiązaniem tej umowy. zagrożenia zdrowotnego, pacjenta urazowego lub pacjenta urazowego dziecięcego od jednostek systemu albo o niewykonaniu decyzji, o których mowa w art. 20a ust. 4 lub art. 29 ust. 9a, jest przekazywana przez dysponenta jednostki albo przez krajowego koordynatora ratownictwa medycznego lub wojewódzkiego koordynatora ratownictwa medycznego do dyrektora właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia w terminie 7 dni od dnia udzielenia tej odmowy albo dnia niewykonania decyzji.
+1. Odmowa przyjęcia przez szpital osoby w stanie nagłego zagrożenia zdrowotnego, pacjenta urazowego lub pacjenta urazowego dziecięcego od jednostek systemu albo niewykonanie decyzji, o których mowa w art. 20a ust. 4 lub art. 29 ust. 9a, skutkuje zastosowaniem kary umownej określonej w umowie o udzielanie świadczeń opieki zdrowotnej lub niezwłocznym rozwiązaniem tej umowy.
+
+2. Informacja o odmowie przyjęcia przez szpital osoby w stanie nagłego zagrożenia zdrowotnego, pacjenta urazowego lub pacjenta urazowego dziecięcego od jednostek systemu albo o niewykonaniu decyzji, o których mowa w art. 20a ust. 4 lub art. 29 ust. 9a, jest przekazywana przez dysponenta jednostki albo przez krajowego koordynatora ratownictwa medycznego lub wojewódzkiego koordynatora ratownictwa medycznego do dyrektora właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia w terminie 7 dni od dnia udzielenia tej odmowy albo dnia niewykonania decyzji.
 
 **Art. 45c.**
 
@@ -1523,7 +1731,9 @@ Art. 51–56. (pominięte)
 
 5. Podmiot, o którym mowa w ust. 1 i 2, jest obowiązany przyjąć zwłoki pacjenta albo martwo urodzonego dziecka i wykonać czynności, o których mowa w art. 28 ust. 1 pkt 2 i ust. 4 oraz art. 28a ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, a także w przepisach wydanych na podstawie art. 28 ust. 7 tej ustawy. Przepisy art. 28 ust. 3, 5 i 6 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej stosuje się odpowiednio.
 
-**Art. 45d.** Przepisów art. 44–45c nie stosuje się do motocyklowych jednostek ratunkowych. Finansowanie jednostek systemu
+**Art. 45d.** Przepisów art. 44–45c nie stosuje się do motocyklowych jednostek ratunkowych.
+
+#### Rozdział 6 Finansowanie jednostek systemu
 
 **Art. 46.**
 
@@ -1555,7 +1765,9 @@ Art. 51–56. (pominięte)
 
 1. Działalność lotniczych zespołów ratownictwa medycznego jest finansowana w formie dotacji podmiotowej z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia.
 
-2. Do zadań lotniczego zespołu ratownictwa medycznego należy wykonywanie medycznych czynności ratunkowych. gotowości lotniczego zespołu ratownictwa medycznego do wykonywania medycznych czynności ratunkowych w zakresie określonym w umowie, o której mowa w ust. 5.
+2. Do zadań lotniczego zespołu ratownictwa medycznego należy wykonywanie medycznych czynności ratunkowych.
+
+3. Warunkiem finansowania, o którym mowa w ust. 1, jest zapewnienie ciągłej gotowości lotniczego zespołu ratownictwa medycznego do wykonywania medycznych czynności ratunkowych w zakresie określonym w umowie, o której mowa w ust. 5.
 
 4. Kalkulacja kosztów działalności lotniczych zespołów ratownictwa medycznego dokonywana jest z uwzględnieniem kosztów bezpośrednich i pośrednich, a w szczególności:
 
@@ -1580,7 +1792,9 @@ Art. 51–56. (pominięte)
 
 **Art. 49a.**
 
-1. W przypadku stanu zagrożenia epidemicznego, stanu epidemii albo niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, w szczególności wystąpienia choroby szczególnie niebezpiecznej lub wysoce zakaźnej, o których mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia może zawrzeć z dysponentem zespołów ratownictwa medycznego dodatkową umowę na finansowanie zadań zespołów ratownictwa medycznego związanych z zabezpieczeniem wybranych miejsc lub dokonaniem czynności wykraczających poza zadania określone w planie. mowa w art. 143 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+1. W przypadku stanu zagrożenia epidemicznego, stanu epidemii albo niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, w szczególności wystąpienia choroby szczególnie niebezpiecznej lub wysoce zakaźnej, o których mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia może zawrzeć z dysponentem zespołów ratownictwa medycznego dodatkową umowę na finansowanie zadań zespołów ratownictwa medycznego związanych z zabezpieczeniem wybranych miejsc lub dokonaniem czynności wykraczających poza zadania określone w planie.
+
+2. Umowa, o której mowa w ust. 1, jest zawierana w trybie rokowań, o których mowa w art. 143 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 **Art. 50.**
 
@@ -1604,7 +1818,7 @@ Art. 51–56. (pominięte)
 
 **Art. 56a.**
 
-1. W 2009 r. na podstawie założeń, o których mowa w art. 46 ust. 3, minister właściwy do spraw zdrowia, do dnia 15 stycznia 2009 r., przedstawia sowanie zadań, o których mowa w art. 46 ust. 1, wraz z podziałem tych środków pomiędzy poszczególne województwa.
+1. W 2009 r. na podstawie założeń, o których mowa w art. 46 ust. 3, minister właściwy do spraw zdrowia, do dnia 15 stycznia 2009 r., przedstawia ministrowi właściwemu do spraw finansów publicznych wysokość środków na finansowanie zadań, o których mowa w art. 46 ust. 1, wraz z podziałem tych środków pomiędzy poszczególne województwa.
 
 2. W celu ustalenia wysokości środków na finansowanie zespołów ratownictwa medycznego pomiędzy poszczególne województwa należy kolejno obliczyć:
 
@@ -1635,6 +1849,7 @@ Art. 51–56. (pominięte)
 1. Osoby, które przed dniem:
 
 - **1)** wejścia w życie ustawy uzyskały tytuł zawodowy:
+    - **a)** „ratownik medyczny”,
     - **b)** licencjata na kierunku (specjalności) ratownictwo medyczne,
 
 - **2)** 1 października 2008 r. rozpoczęły studia wyższe na kierunku innym niż ratownictwo medyczne i uzyskały tytuł zawodowy licencjata w zakresie (specjalności) ratownictwa medycznego – stają się z dniem wejścia w życie ustawy ratownikami medycznymi w rozumieniu niniejszej ustawy. Przepisy art. 12 stosuje się odpowiednio.
@@ -1659,5 +1874,14 @@ Art. 51–56. (pominięte)
 
 **Art. 66.** Tracą moc ustawy:
 
+- **1)** z dnia 25 lipca 2001 r. o Państwowym Ratownictwie Medycznym (Dz. U. poz. 1207, z późn. zm. );
+- **2)** z dnia 6 grudnia 2002 r. o świadczeniu usług ratownictwa medycznego (Dz. U. poz. 2073, z 2003 r. poz. 920 oraz z 2004 r. poz. 2135).
+
 **Art. 67.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r., z wyjątkiem:
+
+- **1)** art. 64, który wchodzi w życie z dniem ogłoszenia ;
+- **2)** art. 18–22, 49 i 60, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **3)** art. 8, który wchodzi w życie z dniem 1 września 2009 r.;
+- **4)** art. 52 pkt 2, który wchodzi w życie z dniem 2 stycznia 2008 r.
+
 

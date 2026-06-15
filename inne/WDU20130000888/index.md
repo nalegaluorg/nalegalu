@@ -8,7 +8,7 @@ pos: 888
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o gospodarce opakowaniami i odpadami opakowaniowymi
@@ -83,6 +83,10 @@ Art. 63–71. (pominięte)
 
 **Art. 4.** Wyróżnia się następujące kategorie opakowań:
 
+- **1)** opakowania jednostkowe – służące do przekazywania produktu użytkownikowi w miejscu zakupu;
+- **2)** opakowania zbiorcze – zawierające wielokrotność opakowań jednostkowych produktów, niezależnie od tego, czy są one przekazywane użytkownikowi, czy też służą zaopatrywaniu punktów sprzedaży i które można zdjąć z produktu bez naruszania cech produktu;
+- **3)** opakowania transportowe – służące do transportu produktów w opakowaniach jednostkowych lub zbiorczych w celu zapobiegania uszkodzeniom produktów, z wyłączeniem kontenerów do transportu drogowego, kolejowego, wodnego lub lotniczego.
+
 **Art. 5.** Przepisy ustawy stosuje się do wszystkich opakowań, niezależnie od zastosowanego do ich wykonania materiału, oraz do powstałych z nich odpadów opakowaniowych.
 
 **Art. 6.**
@@ -113,6 +117,78 @@ Art. 63–71. (pominięte)
 4. Zaświadczenia lub oświadczenie, o których mowa w ust. 1 pkt 1 lit. a, oraz informacje, o których mowa w ust. 1 pkt 1 lit. b, przekazuje się za pośrednictwem Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami, o której mowa w art. 79 ustawy z dnia 14 grudnia 2012 r. o odpadach, zwanej dalej „BDO”.
 
 **Art. 8.** Ilekroć w ustawie jest mowa o:
+
+- **1)** dokumencie:
+    - **a)** DPR – rozumie się przez to dokument potwierdzający recykling odpadów opakowaniowych, w tym określający masę tych odpadów i sposób ich recyklingu,
+    - **b)** (uchylona)
+    - **c)** EDPR – rozumie się przez to dokument potwierdzający odpowiednio eksport odpadów opakowaniowych albo wewnątrzwspólnotową dostawę odpadów opakowaniowych w celu poddania ich recyklingowi, w tym określający masę tych odpadów;
+    - **d)** (uchylona)
+
+- **2)** eksporcie odpadów opakowaniowych – rozumie się przez to wywóz odpadów opakowaniowych z terytorium kraju na terytorium państwa niebędącego państwem członkowskim Unii Europejskiej w celu poddania ich recyklingowi;
+- **3)** eksporcie opakowań – rozumie się przez to wywóz opakowań z terytorium kraju na terytorium państwa niebędącego państwem członkowskim Unii Europejskiej;
+- **4)** eksporcie produktów w opakowaniach – rozumie się przez to wywóz produktów w opakowaniach z terytorium kraju na terytorium państwa niebędącego państwem członkowskim Unii Europejskiej;
+- **5)** imporcie opakowań – rozumie się przez to przywóz opakowań na terytorium kraju z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej w celu wprowadzenia do obrotu;
+- **6)** imporcie produktów w opakowaniach – rozumie się przez to przywóz produktów w opakowaniach na terytorium kraju z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej w celu wprowadzenia do obrotu;
+- **6a)** kaucji – rozumie się przez to określoną kwotę pieniężną pobieraną w momencie sprzedaży produktu w opakowaniu na napoje jednorazowego albo wielokrotnego użytku, o których mowa w załączniku nr 1a do ustawy, będącego napojem, zwracaną w momencie zwrotu odpowiednio opakowania objętego systemem kaucyjnym albo odpadu opakowaniowego powstałego z opakowania objętego systemem kaucyjnym;
+- **7)** marszałku województwa – rozumie się przez to:
+    - **a)** marszałka województwa właściwego ze względu na siedzibę lub miejsce zamieszkania odpowiednio przedsiębiorcy: – wprowadzającego opakowania, – wprowadzającego produkty w opakowaniach, – eksportującego opakowania, – dokonującego wewnątrzwspólnotowej dostawy opakowań, – eksportującego produkty w opakowaniach, – dokonującego wewnątrzwspólnotowej dostawy produktów w opakowaniach, – będącego organizacją odzysku opakowań, – eksportującego odpady opakowaniowe, – dokonującego wewnątrzwspólnotowej dostawy odpadów opakowaniowych, – będącego podmiotem reprezentującym,
+    - **b)** marszałka województwa właściwego ze względu na miejsce prowadzenia działalności w zakresie recyklingu odpadów opakowaniowych przez przedsiębiorcę prowadzącego recykling odpadów opakowaniowych, ba) marszałka województwa właściwego ze względu na miejsce pobrania opłaty recyklingowej, o której mowa w art. 40a,
+    - **c)** Marszałka Województwa Mazowieckiego – w przypadku gdy przedsiębiorca, o którym mowa w lit. a, nie posiada siedziby lub miejsca zamieszkania na terytorium kraju;
+
+- **7a)** nieodebranej kaucji – rozumie się przez to różnicę między kaucją pobraną a kaucją zwróconą, obliczoną na ostatni dzień danego roku kalendarzowego;
+- **8)** odpadach opakowaniowych – rozumie się przez to opakowania lub materiały opakowaniowe, stanowiące odpady w rozumieniu przepisów ustawy z dnia 14 grudnia 2012 r. o odpadach, z wyjątkiem pozostałości powstających w procesie produkcji;
+- **8a)** oksydegradowalnych torbach na zakupy z tworzywa sztucznego – rozumie się przez to torby na zakupy wykonane z tworzyw sztucznych zawierających dodatki, które katalizują rozpadanie się tworzywa sztucznego na mikrofragmenty;
+- **9)** opakowaniu wielokrotnego użytku – rozumie się przez to opakowanie przeznaczone, zaprojektowane i wprowadzone do obrotu tak, aby osiągnąć w ramach jednego cyklu życia wielokrotną rotację przez powtórne napełnianie lub ponowne użycie do tego samego celu, do którego było pierwotnie przeznaczone; opakowanie to staje się odpadem opakowaniowym, gdy przestaje być opakowaniem wielokrotnego użytku;
+- **10)** opakowaniu wielomateriałowym – rozumie się przez to opakowanie wykonane co najmniej z dwóch warstw różnych materiałów, które nie mogą być ręcznie oddzielone i które tworzą integralną całość, która składa się z pojemnika wewnętrznego i obudowy zewnętrznej oraz którą napełnia się, przechowuje, transportuje i opróżnia w takiej formie;
+- **10a)** powierzchni sprzedaży – rozumie się przez to powierzchnię sprzedaży w rozumieniu art. 2 pkt 19 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2026 r. poz. 538);
+- **11)** przedsiębiorcy – rozumie się przez to przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826 oraz z 2026 r. poz. 507);
+- **12)** przedsiębiorcy:
+    - **a)** dokonującym wewnątrzwspólnotowej dostawy odpadów opakowaniowych – rozumie się przez to przedsiębiorcę wykonującego działalność gospodarczą w zakresie wewnątrzwspólnotowej dostawy odpadów opakowaniowych, który w ramach tej działalności wystawia dokumenty EDPR,
+    - **b)** eksportującym odpady opakowaniowe – rozumie się przez to przedsiębiorcę wykonującego działalność gospodarczą w zakresie eksportu odpadów opakowaniowych, który w ramach tej działalności wystawia dokumenty EDPR,
+    - **c)** prowadzącym recykling odpadów opakowaniowych – rozumie się przez to przedsiębiorcę wykonującego działalność gospodarczą w zakresie recyklingu odpadów opakowaniowych, który w ramach tej działalności wystawia dokumenty DPR;
+
+- **13)** publicznej kampanii edukacyjnej – rozumie się przez to każde działanie mające na celu poprawę stanu świadomości ekologicznej społeczeństwa, obejmujące informowanie o prawidłowym postępowaniu z odpadami opakowaniowymi, możliwym wpływie odpadów opakowaniowych, w tym odpadów powstałych z toreb na zakupy z tworzywa sztucznego, na środowisko i zdrowie ludzi, dostępnych systemach zwrotu, zbierania i odzysku, w tym recyklingu, odpadów opakowaniowych, w tym kampanie prowadzone w środkach masowego przekazu, ulotki i broszury informacyjne, plakaty, konkursy, konferencje oraz imprezy o charakterze informacyjno-edukacyjnym, a w odniesieniu do opakowań wymienionych w pkt 1–4 załącznika nr 10 do ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2024 r. poz. 433 oraz z 2026 r. poz. 176) oraz odpadów z nich powstających obejmujące również informowanie o:
+    - **a)** dostępności alternatywnych produktów wielokrotnego użytku, systemów ponownego użycia oraz najlepszych praktykach w zakresie należytego gospodarowania odpadami,
+    - **b)** wpływie zaśmiecania oraz nieodpowiedniego unieszkodliwiania odpadów na środowisko, w szczególności środowisko morskie,
+    - **c)** wpływie nieodpowiednich sposobów unieszkodliwiania odpadów na sieci kanalizacyjne;
+
+- **13a)** systemie kaucyjnym – rozumie się przez to system, w którym przy sprzedaży produktów w opakowaniach na napoje jednorazowego albo wielokrotnego użytku, o których mowa w załączniku nr 1a do ustawy, będących napojami, pobierana jest kaucja, która jest zwracana użytkownikowi końcowemu w momencie zwrotu odpowiednio opakowania objętego systemem kaucyjnym albo odpadu opakowaniowego powstałego z opakowania objętego systemem kaucyjnym;
+- **14)** środkach niebezpiecznych – rozumie się przez to:
+    - **a)** (uchylona)
+    - **b)** substancje chemiczne i ich mieszaniny zaklasyfikowane na podstawie przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, str. 1, z późn. zm.) w klasie toksyczności ostrej w kategorii 1, 2 lub 3 lub jako rakotwórcze kategorii 1A lub 1B, mutagenne kategorii 1A lub 1B, działające szkodliwie na rozrodczość kategorii 1A lub 1B lub jako stwarzające zagrożenie dla środowiska wodnego ze względu na toksyczność ostrą w kategorii 1 lub ze względu na toksyczność przewlekłą w kategorii 1 i 2, lub
+    - **c)** środki ochrony roślin zaklasyfikowane w klasie toksyczności ostrej w kategorii 1, 2 lub 3 lub jako stwarzające zagrożenie dla środowiska wodnego ze względu na toksyczność ostrą w kategorii 1 lub ze względu na toksyczność przewlekłą w kategoriach 1 i 2 na podstawie przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006;
+
+- **15)** terytorium kraju – rozumie się przez to terytorium Rzeczypospolitej Polskiej;
+- **15a)** torbach na zakupy z tworzywa sztucznego – rozumie się przez to torby na zakupy, z uchwytami lub bez uchwytów, wykonane z tworzywa sztucznego, które są oferowane w jednostkach handlu detalicznego lub hurtowego, do których zalicza się:
+    - **a)** lekkie torby na zakupy z tworzywa sztucznego o grubości materiału poniżej 50 mikrometrów,
+    - **b)** bardzo lekkie torby na zakupy z tworzywa sztucznego o grubości materiału poniżej 15 mikrometrów, które są wymagane ze względów higienicznych lub oferowane jako podstawowe opakowanie żywności luzem, gdy pomaga to w zapobieganiu marnowaniu żywności,
+    - **c)** pozostałe torby na zakupy z tworzywa sztucznego o grubości materiału równej 50 mikrometrów i większej;
+
+- **15b)** tworzywie sztucznym – rozumie się przez to polimer w rozumieniu art. 3 pkt 5 rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm. ), do którego mogły zostać dodane dodatki lub inne substancje i który może funkcjonować jako główny strukturalny składnik toreb na zakupy; 15ba) uruchomieniu systemu kaucyjnego – rozumie się przez to dzień, od którego system kaucyjny jest prowadzony przez podmiot reprezentujący zgodnie z zasadami określonymi w art. 40g ust. 1, jednak niewcześniejszy niż dzień 1 października 2025 r.;
+- **15c)** użytkowniku końcowym – rozumie się przez to użytkownika produktów w opakowaniach na napoje jednorazowego albo wielokrotnego użytku, o których mowa w załączniku nr 1a do ustawy, będących napojami, który nabywa je w celu spożycia przez siebie lub inne osoby, a nie dalszej sprzedaży;
+- **16)** wewnątrzwspólnotowej dostawie odpadów opakowaniowych – rozumie się przez to wywóz odpadów opakowaniowych z terytorium kraju na terytorium innego państwa członkowskiego Unii Europejskiej w celu poddania ich recyklingowi;
+- **17)** wewnątrzwspólnotowej dostawie opakowań – rozumie się przez to wywóz opakowań z terytorium kraju na terytorium innego państwa członkowskiego Unii Europejskiej;
+- **18)** wewnątrzwspólnotowej dostawie produktów w opakowaniach – rozumie się przez to wywóz produktów w opakowaniach z terytorium kraju na terytorium innego państwa członkowskiego Unii Europejskiej;
+- **19)** wewnątrzwspólnotowym nabyciu opakowań – rozumie się przez to przywóz opakowań na terytorium kraju z terytorium innego państwa członkowskiego Unii Europejskiej w celu wprowadzenia do obrotu;
+- **20)** wewnątrzwspólnotowym nabyciu produktów w opakowaniach – rozumie się przez to przywóz produktów w opakowaniach na terytorium kraju z terytorium innego państwa członkowskiego Unii Europejskiej w celu wprowadzenia do obrotu;
+- **21)** (uchylony) 21a) wprowadzającym produkty w opakowaniach na napoje – rozumie się przez to przedsiębiorcę wykonującego działalność gospodarczą w zakresie wprowadzania do obrotu produktów w opakowaniach na napoje jednorazowego albo wielokrotnego użytku, o których mowa w załączniku nr 1a do ustawy, będących napojami, z wyłączeniem sprzedaży bezpośredniej polegającej na dostarczaniu napojów w opakowaniach przez wprowadzającego bezpośrednio produkty w opakowaniach na napoje;
+- **21b)** wprowadzającym bezpośrednio produkty w opakowaniach na napoje – rozumie się przez to przedsiębiorcę wykonującego działalność gospodarczą w zakresie wprowadzania do obrotu produktów w opakowaniach na napoje wielokrotnego użytku, o których mowa w poz. 3 załącznika nr 1a do ustawy, będących napojami, dokonującego wyłącznie sprzedaży bezpośredniej polegającej na dostarczaniu napojów w opakowaniach przez wprowadzającego bezpośrednio produkty w opakowaniach na napoje do miejsca ustalonego między tym wprowadzającym a nabywającym i jednocześnie odbieraniu przez tego wprowadzającego opakowań po produktach tego samego rodzaju, wprowadzonych do obrotu przez tego samego wprowadzającego;
+- **22)** wprowadzającym opakowania – rozumie się przez to przedsiębiorcę:
+    - **a)** wytwarzającego opakowania,
+    - **b)** importującego opakowania,
+    - **c)** dokonującego wewnątrzwspólnotowego nabycia opakowań,
+    - **d)** dokonującego wewnątrzwspólnotowej dostawy opakowań;
+
+- **23)** wprowadzającym produkty w opakowaniach – rozumie się przez to przedsiębiorcę wykonującego działalność gospodarczą w zakresie wprowadzania do obrotu produktów w opakowaniach, w szczególności: z 2023 r. poz. 1170), lub pod własnym imieniem i nazwiskiem lub nazwą, których wytworzenie zlecił innemu przedsiębiorcy,
+    - **a)** wprowadzającego do obrotu produkty w opakowaniach pod własnym oznaczeniem rozumianym jako znak towarowy, o którym mowa w art. 120 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U.
+    - **b)** pakującego produkty wytworzone przez innego przedsiębiorcę i wprowadzającego je do obrotu,
+    - **c)** prowadzącego: – jednostkę lub jednostki handlu detalicznego o powierzchni sprzedaży powyżej 500 m , sprzedającego produkty pakowane w tych jednostkach, – więcej niż jedną jednostkę handlu detalicznego o łącznej powierzchni sprzedaży powyżej 5000 m , sprzedającego produkty pakowane w tych jednostkach;
+
+- **24)** wprowadzeniu do obrotu – rozumie się przez to odpłatne albo nieodpłatne udostępnienie opakowań lub produktów w opakowaniach po raz pierwszy na terytorium kraju w celu używania lub dystrybucji; za wprowadzenie do obrotu uważa się także:
+    - **a)** import opakowań,
+    - **b)** import produktów w opakowaniach,
+    - **c)** wewnątrzwspólnotowe nabycie opakowań,
+    - **d)** wewnątrzwspólnotowe nabycie produktów w opakowaniach – dokonywane na potrzeby wykonywanej działalności gospodarczej.
 
 **Art. 8a.** Oksydegradowalne torby na zakupy z tworzywa sztucznego zalicza się do lekkich toreb na zakupy z tworzywa sztucznego, bardzo lekkich toreb na zakupy z tworzywa sztucznego lub pozostałych toreb na zakupy z tworzywa sztucznego, zgodnie z kryteriami określonymi w art. 8 pkt 15a.
 
@@ -572,6 +648,11 @@ Art. 63–71. (pominięte)
 
 **Art. 27.** Organizacja odzysku opakowań jest obowiązana spełniać następujące warunki:
 
+- **1)** wykonywać działalność gospodarczą w formie spółki akcyjnej;
+- **2)** wykonywać wyłącznie działalność gospodarczą związaną z organizowaniem, zarządzaniem lub prowadzeniem przedsięwzięć związanych z odzyskiem, w tym recyklingiem odpadów, oraz finansowaniem publicznych kampanii edukacyjnych;
+- **3)** zawierać w swej nazwie oznaczenie „organizacja odzysku opakowań”;
+- **4)** posiadać wymagany przepisami ustawy kapitał zakładowy.
+
 **Art. 28.**
 
 1. Organizacja odzysku opakowań może działać także jako organizacja, o której mowa w przepisach ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej.
@@ -594,6 +675,9 @@ Art. 63–71. (pominięte)
 6. Organizacja odzysku opakowań nie może wydawać akcji uprzywilejowanych.
 
 **Art. 30.** Organizacja odzysku opakowań jest obowiązana:
+
+- **1)** w terminie do dnia 15 marca każdego roku przedstawić marszałkowi województwa za poprzedni rok kalendarzowy zaświadczenie wydane przez bank o utrzymywaniu przez nią na odrębnym rachunku bankowym lub w formie lokaty terminowej środków, o których mowa w art. 29 ust. 4 pkt 1, albo dokument potwierdzający wysokość gwarancji bankowej lub gwarancji ubezpieczeniowej, wydany przez gwaranta wskazanego w art. 29 ust. 4 pkt 2;
+- **2)** przedstawić, na każde żądanie marszałka województwa, w terminie 14 dni od dnia wpływu żądania, zaświadczenie wydane przez bank o aktualnie utrzymywanych przez organizację odzysku opakowań na odrębnym rachunku bankowym lub w formie lokaty terminowej środkach, o których mowa w art. 29 ust. 4 pkt 1, albo dokument potwierdzający wysokość gwarancji, o której mowa w art. 29 ust. 4 pkt 2.
 
 **Art. 31.**
 
@@ -1062,6 +1146,10 @@ Art. 63–71. (pominięte)
 
 **Art. 51.** Minister właściwy do spraw klimatu określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy zakres i sposób przeprowadzania audytu,
+- **2)** szczegółowy zakres sprawozdania z przeprowadzonego audytu,
+- **3)** termin przekazywania sprawozdania z przeprowadzonego audytu – kierując się potrzebą sprawdzenia wiarygodności informacji zawartych w dokumentach objętych audytem oraz ujednoliceniem sprawozdań z przeprowadzonego audytu.
+
 #### Rozdział 10 Obowiązki organów administracji publicznej
 
 **Art. 52.**
@@ -1103,6 +1191,9 @@ Art. 63–71. (pominięte)
 6. Marszałek województwa sporządza i przekazuje ministrowi właściwemu do spraw klimatu oraz Głównemu Inspektorowi Ochrony Środowiska, w terminie do dnia 15 lutego każdego roku, informację o wynikach kontroli przeprowadzonych w poprzednim roku kalendarzowym wraz z wnioskami, w tym planowanymi działaniami zmierzającymi do usunięcia stwierdzonych naruszeń.
 
 **Art. 53a.** Marszałkowie województw współpracują ze sobą przy wykonywaniu przepisów ustawy, w szczególności marszałek województwa, który nie jest właściwy do:
+
+- **1)** przeprowadzenia kontroli przestrzegania i stosowania przepisów ustawy, może zwrócić się do właściwego marszałka województwa o przeprowadzenie kontroli przedsiębiorcy;
+- **2)** wykreślenia z rejestru, może zwrócić się do właściwego marszałka województwa o wykreślenie przedsiębiorcy z rejestru.
 
 **Art. 53b.**
 
@@ -1205,6 +1296,13 @@ Art. 63–71. (pominięte)
 
 **Art. 57.** Kary pieniężne wynoszą:
 
+- **1)** w przypadkach, o których mowa w art. 56 ust. 1 pkt 1–4, 4b, 5–10 i 14–14b – od 10 000 zł do 500 000 zł;
+- **2)** w przypadkach, o których mowa w art. 56 ust. 1 pkt 4a, 10d–10g, 10l–10q, 14c– 14f oraz 14h–14j – od 10 000 zł do 50 000 zł;
+- **3)** w przypadkach, o których mowa w art. 56 ust. 1 pkt 10a, 10b, 10h–10k, 13 i 14g – od 10 000 zł do 1 000 000 zł;
+- **4)** w przypadkach, o których mowa w art. 56 ust. 1 pkt 10c i 11–12a – od 500 zł do 20 000 zł;
+- **5)** w przypadkach, o których mowa w art. 56 ust. 1 pkt 15 i 16 – od 40 000 zł do 750 000 zł;
+- **6)** w przypadkach, o których mowa w art. 56 ust. 2 – od 20 000 zł do 750 000 zł.
+
 **Art. 58.**
 
 1. Kary pieniężne za czyny, o których mowa w art. 56 ust. 1 pkt 1–10b, 10d–10q i 12a–16 oraz w ust. 2, wymierza, w drodze decyzji, właściwy wojewódzki inspektor ochrony środowiska.
@@ -1299,7 +1397,15 @@ Art. 63–71. (pominięte)
 
 **Art. 81.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
+- **1)** art. 3 ust. 8 i art. 14 ust. 4 ustawy zmienianej w art. 68 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 3 ust. 8 i art. 14 ust. 4 ustawy zmienianej w art. 68 , w brzmieniu nadanym niniejszą ustawą,
+- **2)** art. 11 ust. 7 ustawy zmienianej w art. 68 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11 ust. 7 ustawy zmienianej w art. 68 ,
+- **3)** art. 5 ust. 2 i 3 oraz art. 6 ust. 5 ustawy, o której mowa w art. 82, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11 ust. 4 i 5 oraz art. 15 ust. 4 niniejszej ustawy – jednak niedłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
 **Art. 82.** Traci moc ustawa z dnia 11 maja 2001 r. o opakowaniach i odpadach opakowaniowych (Dz. U. poz. 638, z późn. zm. ).
 
 **Art. 83.** Ustawa wchodzi w życie z dniem 1 stycznia 2014 r., z wyjątkiem:
+
+- **1)** art. 66, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia ;
+- **2)** art. 46–51, które wchodzą w życie z dniem 1 stycznia 2016 r.
+
 

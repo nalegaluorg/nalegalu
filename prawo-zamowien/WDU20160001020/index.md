@@ -8,7 +8,7 @@ pos: 1020
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw
@@ -28,6 +28,88 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1020/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164 oraz z 2016 r. poz. 831 i 996) wprowadza się następujące zmiany:
+
+- **1)** w art. 2:
+    - **a)** pkt 1a–2a otrzymują brzmienie: „1a) cyklu życia – należy przez to rozumieć wszelkie możliwe kolejne lub powiązane fazy istnienia przedmiotu dostawy, usługi lub roboty budowlanej, w szczególności badanie, rozwój, projektowanie przemysłowe, testowanie, produkcję, transport, używanie, naprawę, modernizację, zmianę, utrzymanie przez okres istnienia, logistykę, szkolenie, zużycie, wyburzenie, wycofanie i usuwanie;
+
+- **2)** dostawach – należy przez to rozumieć nabywanie rzeczy oraz innych dóbr, w szczególności na podstawie umowy sprzedaży, dostawy, najmu, dzierżawy oraz leasingu z opcją lub bez opcji zakupu, które może obejmować dodatkowo rozmieszczenie lub instalację;
+- **2a)** dynamicznym systemie zakupów – należy przez to rozumieć ograniczony w czasie elektroniczny proces udzielania zamówień publicznych, których przedmiotem są powszechnie dostępne usługi, dostawy lub roboty budowlane;”,
+    - **b)** pkt 5 otrzymuje brzmienie: „5) najkorzystniejszej ofercie – należy przez to rozumieć ofertę:
+    - **a)** która przedstawia najkorzystniejszy bilans ceny lub kosztu i innych kryteriów odnoszących się do przedmiotu zamówienia publicznego w szczególności w przypadku zamówień w zakresie działalności twórczej lub naukowej, których przedmiotu nie można z góry opisać w sposób jednoznaczny i wyczerpujący lub która najlepiej spełnia kryteria inne niż cena lub koszt, gdy cena lub koszt jest stała albo
+    - **b)** z najniższą ceną lub kosztem, gdy jedynym kryterium oceny jest cena lub koszt;”,
+    - **c)** po pkt 7a dodaje się pkt 7b w brzmieniu: „7b) protokole – należy przez to rozumieć dokument sporządzany przez zamawiającego w formie pisemnej, który potwierdza przebieg postępowania o udzielenie zamówienia publicznego;”,
+    - **d)** pkt 10 otrzymuje brzmienie: „10) usługach – należy przez to rozumieć wszelkie świadczenia, których przedmiotem nie są roboty budowlane lub dostawy;”,
+    - **e)** w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14–17 w brzmieniu: „14) zamówieniach sektorowych – należy przez to rozumieć zamówienia, o których mowa w art. 132 ust. 1;
+
+- **15)** zamówieniach w dziedzinach obronności i bezpieczeństwa – należy przez to rozumieć zamówienia, o których mowa w art. 131a ust. 1;
+- **16)** oznakowaniu – należy przez to rozumieć zaświadczenie, poświadczenie lub każdy inny dokument, potwierdzający, że obiekt budowlany, produkt, usługa, proces lub procedura spełniają określone wymogi;
+- **17)** środkach komunikacji elektronicznej – należy przez to rozumieć środki komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422, z 2015 r. poz. 1844 oraz z 2016 r. poz. 147 i 615) lub faks.”;
+- **2)** uchyla się art. 2a i art. 2b;
+- **3)** art. 2c otrzymuje brzmienie: „Art. 2c. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wykaz robót budowlanych, z uwzględnieniem postanowień dyrektywy Parlamentu Europejskiego i Rady 2014/24/UE z dnia 26 lutego 2014 r. w sprawie zamówień publicznych, uchylającej dyrektywę 2004/18/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 65, z późn. zm.), zwanej dalej „dyrektywą 2014/24/UE”, oraz dyrektywy Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych, uchylającej dyrektywę 2004/17/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 243, z późn. zm.), zwanej dalej „dyrektywą 2014/25/UE”.”;
+- **4)** w art. 3:
+    - **a)** w ust. 1: – w pkt 3 w lit. d skreśla się średnik i dodaje się część wspólną w brzmieniu: „– o ile osoba prawna nie działa w zwykłych warunkach rynkowych, jej celem nie jest wypracowanie zysku i nie ponosi strat wynikających z prowadzenia działalności;”, – w pkt 4: – – uchyla się lit. a, – – lit. b otrzymuje brzmienie: „b) posiadają ponad połowę udziałów albo akcji lub”, – – uchyla się lit. d, – – lit. e otrzymuje brzmienie: „e) mają prawo do powoływania ponad połowy składu organu nadzorczego lub zarządzającego;”, – w pkt 5: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „inne niż określone w pkt 1–4 podmioty, jeżeli zachodzą następujące okoliczności:”, – – lit. c otrzymuje brzmienie: „c) przedmiotem zamówienia są roboty budowlane w zakresie inżynierii lądowej lub wodnej określone w załączniku II do dyrektywy 2014/24/UE, budowy szpitali, obiektów sportowych, rekreacyjnych lub wypoczynkowych, budynków szkolnych, budynków szkół wyższych lub budynków wykorzystywanych przez administrację publiczną lub usługi związane z takimi robotami budowlanymi;”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Prawami szczególnymi lub wyłącznymi w rozumieniu ust. 1 pkt 4 są prawa przyznane w drodze ustawy lub decyzji administracyjnej, polegające na zastrzeżeniu wykonywania określonej działalności dla jednego lub większej liczby podmiotów, wywierające istotny wpływ na możliwość wykonywania tej działalności przez inne podmioty, z wyłączeniem praw przyznanych w drodze ogłoszonego publicznie postępowania na podstawie obiektywnych i niedyskryminujących kryteriów, w szczególności postępowania:
+
+- **1)** obejmującego ogłoszenie o zamówieniu lub wszczęcie postępowania o udzielenie koncesji na roboty budowlane lub usługi;
+- **2)** prowadzonego na podstawie przepisów, o których mowa w ust. 2a.”,
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Prezes Urzędu Zamówień Publicznych podaje w drodze obwieszczenia ogłaszanego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” oraz zamieszcza na stronie internetowej Urzędu Zamówień Publicznych, zwanego dalej „Urzędem”, wykaz aktów prawnych wdrażających przepisy określone w załączniku II do dyrektywy 2014/25/UE.”;
+
+- **5)** w art. 4:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) zamówień lub konkursów, których zamawiający jest obowiązany udzielić lub które ma obowiązek przeprowadzić na podstawie innej, niż określona ustawą, procedury:
+    - **a)** organizacji międzynarodowej,
+    - **b)** wynikającej z porozumienia tworzącego zobowiązanie prawnomiędzynarodowe, jak umowa międzynarodowa zawarta między Rzecząpospolitą Polską a jednym lub wieloma państwami niebędącymi członkami Unii Europejskiej, w celu pozyskania dostaw, usług lub robót budowlanych na potrzeby zrealizowania lub prowadzenia wspólnego przedsięwzięcia;”,
+    - **b)** po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „1a) zamówień lub konkursów w całości finansowanych przez organizację międzynarodową lub międzynarodową instytucję finansującą, jeżeli zamawiający stosuje do tych zamówień lub konkursów inną, niż określona ustawą, procedurę organizacji międzynarodowej lub międzynarodowej instytucji finansującej;
+
+- **1b)** zamówień lub konkursów w ponad 50% finansowanych przez organizację międzynarodową lub międzynarodową instytucję finansującą, jeżeli uzgodniono z nimi zastosowanie do tych zamówień lub konkursów innej, niż określona ustawą, procedury organizacji międzynarodowej lub międzynarodowej instytucji finansującej;”, w sprawie Wspólnego Słownika Zamówień (CPV) (Dz. Urz. WE L 340 z 16.12.2002, str. 0001–0562; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 5, str. 3, z późn. zm.), zwanym dalej „Wspólnym Słownikiem Zamówień”, oraz jeżeli spełnione są łącznie następujące warunki: – korzyści z tych usług przypadają wyłącznie zamawiającemu na potrzeby jego własnej działalności, – całość wynagrodzenia za świadczoną usługę wypłaca zamawiający,”, – po lit. e dodaje się lit. ea w brzmieniu: „ea) usługi prawne: – zastępstwa procesowego wykonywanego przez adwokata, radcę prawnego lub prawnika zagranicznego w rozumieniu ustawy z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 134, z 2015 r. poz. 1311 oraz z 2016 r. poz. 65), w postępowaniu arbitrażowym lub pojednawczym, lub przed sądami, trybunałami lub innymi organami publicznymi państwa członkowskiego Unii Europejskiej, państw trzecich lub przed międzynarodowymi sądami, trybunałami, instancjami arbitrażowymi lub pojednawczymi, – doradztwa prawnego wykonywanego przez adwokata, radcę prawnego lub prawnika zagranicznego w rozumieniu ustawy z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej, w zakresie przygotowania postępowań, o których mowa w tiret pierwsze, lub gdy zachodzi wysokie prawdopodobieństwo, że sprawa, której dotyczy to doradztwo, stanie się przedmiotem tych postępowań, – notarialnego poświadczania i uwierzytelniania dokumentów, – świadczone przez pełnomocników lub inne usługi prawne, których wykonawcy są wyznaczani przez sąd lub trybunał danego państwa członkowskiego Unii Europejskiej, lub wyznaczani z mocy prawa w celu wykonania konkretnych zadań pod nadzorem takich trybunałów lub sądów, – związane z wykonywaniem władzy publicznej,”, – lit. g–j otrzymują brzmienie: „g) nabycie audycji i materiałów do audycji lub ich opracowanie, produkcja lub koprodukcja, jeżeli są przeznaczone na potrzeby świadczenia audiowizualnych usług medialnych lub radiowych usług medialnych – udzielanych przez dostawców audiowizualnych lub radiowych usług medialnych, o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94, z późn. zm. ), oraz operacje przeprowadzane z Europejskim Instrumentem Stabilności Finansowej i Europejskim Mechanizmem Stabilności,”, – po lit. j dodaje się lit. ja i jb w brzmieniu: „ja) pożyczki lub kredyty, bez względu na to, czy wiążą się one z emisją, sprzedażą, kupnem lub zbyciem papierów wartościowych lub innych instrumentów finansowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, z wyjątkiem kredytów zaciąganych przez jednostki samorządu terytorialnego w granicach upoważnień zawartych w uchwale budżetowej, jb) usługi w dziedzinie obrony cywilnej, ochrony ludności i zapobiegania niebezpieczeństwom, świadczone przez organizacje lub stowarzyszenia o charakterze niekomercyjnym i objęte kodami CPV 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9 oraz 85143000-3 określonymi we Wspólnym Słowniku Zamówień, z wyjątkiem usług transportu sanitarnego pacjentów,”,
+    - **c)** w pkt 3: – lit. e otrzymuje brzmienie: „e) usługi badawcze i rozwojowe, chyba że są one objęte kodami CPV od 73000000-2 do 73120000-9, 73300000-5, 73420000-2 i 73430000-5, określonymi w rozporządzeniu (WE) Parlamentu Europejskiego i Rady nr 2195/2002 z dnia 5 listopada 2002 r.
+    - **h)** zakup czasu antenowego lub audycji od dostawców audiowizualnych lub radiowych usług medialnych,
+    - **i)** nabycie własności lub innych praw do istniejących budynków lub nieruchomości,
+    - **j)** usługi finansowe związane z emisją, sprzedażą, kupnem lub zbyciem papierów wartościowych lub innych instrumentów finansowych, w rozumieniu ustawy z dnia 29 lipca 2005 r.
+    - **d)** pkt 5 otrzymuje brzmienie: „5) zamówień lub konkursów:
+    - **a)** którym nadano klauzulę zgodnie z przepisami o ochronie informacji niejawnych lub
+    - **b)** jeżeli wymaga tego istotny interes bezpieczeństwa państwa, lub
+    - **c)** jeżeli wymaga tego ochrona bezpieczeństwa publicznego, lub
+    - **d)** którym muszą towarzyszyć, na podstawie odrębnych przepisów, szczególne środki bezpieczeństwa – w zakresie, w jakim ochrona istotnych interesów dotyczących bezpieczeństwa państwa określonych w lit. a–d nie może zostać zagwarantowana w inny sposób niż udzielenie zamówienia bez zastosowania ustawy;”,
+    - **e)** uchyla się pkt 5a,
+    - **f)** po pkt 5b dodaje się pkt 5c w brzmieniu: „5c) zamówień dotyczących wytwarzania i dystrybucji:
+    - **a)** dokumentów publicznych i ich personalizacji,
+    - **b)** druków o strategicznym znaczeniu dla bezpieczeństwa państwa,
+    - **c)** znaków akcyzy;”,
+    - **g)** pkt 6 otrzymuje brzmienie: „6) zamówień na usługi udzielane innemu zamawiającemu, o którym mowa w art. 3 ust. 1 pkt 1–3a, któremu wyłączne prawo do świadczenia tych usług przyznano w drodze ustawy lub innego aktu normatywnego, który podlega publikacji;”,
+    - **h)** uchyla się pkt 8a–8d,
+    - **i)** w pkt 10 wprowadzenie do wyliczenia otrzymuje brzmienie: „zamówień i konkursów, udzielanych przez zamawiających, o których mowa w art. 3 ust. 1 pkt 1–3a, których głównym celem jest:”,
+    - **j)** po pkt 12 dodaje się pkt 12a w brzmieniu: „12a) zamówień udzielanych i konkursów organizowanych przez podmioty wykonujące działalność, o której mowa w art. 132 ust. 1 pkt 7, w celu świadczenia usług:
+    - **a)** o wartości dodanej związanych z systemami teleinformatycznymi w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, wyłącznie za pomocą takich systemów, w tym bezpiecznego przesyłania kodowanych dokumentów za pomocą systemów teleinformatycznych, usług zarządzania adresami i przesyłania poleconej poczty elektronicznej,
+    - **b)** finansowych, objętych kodami CPV od 66100000-1 do 66720000-3, określonymi we Wspólnym Słowniku Zamówień, w szczególności przekazów pocztowych i pocztowych przelewów na konto,
+    - **c)** filatelistycznych lub logistycznych;”,
+    - **k)** w pkt 13 lit. a i b otrzymują brzmienie: „a) ponad 80% działalności instytucji gospodarki budżetowej dotyczy wykonywania zadań publicznych na rzecz tego organu władzy publicznej,
+    - **b)** organ władzy publicznej sprawuje nad instytucją gospodarki budżetowej kontrolę odpowiadającą kontroli sprawowanej nad własnymi jednostkami nieposiadającymi osobowości prawnej, polegającą na wpływie na cele strategiczne oraz istotne decyzje dotyczące zarządzania sprawami instytucji,”,
+    - **l)** uchyla się pkt 14 i 15;
+
+- **6)** po art. 4a dodaje się art. 4aa w brzmieniu: „Art. 4aa. Rada Ministrów określi, w drodze rozporządzenia, wykaz dokumentów i druków, o których mowa w art. 4 pkt 5c lit. a i b, mając na względzie konieczność zapewnienia bezpieczeństwa obrotu tymi dokumentami oraz drukami, a także ochronę podstawowych interesów bezpieczeństwa państwa.”;
+- **7)** w art. 4b po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Ustawy nie stosuje się do zamówień lub konkursów w dziedzinach obronności i bezpieczeństwa:
+- **1)** w całości finansowanych przez organizację międzynarodową lub międzynarodową instytucję finansującą, jeżeli zamawiający stosuje do nich inną, niż określona ustawą, procedurę organizacji międzynarodowej lub międzynarodowej instytucji finansującej;
+- **2)** w ponad 50% finansowanych przez organizację międzynarodową lub międzynarodową instytucję finansującą, jeżeli uzgodniono z nimi zastosowanie do tych zamówień lub konkursów innej, niż określona ustawą, procedury organizacji międzynarodowej lub międzynarodowej instytucji finansującej.”;
+- **8)** po art. 4c dodaje się art. 4d w brzmieniu: „Art. 4d. 1. Ustawy nie stosuje się do zamówień o wartości mniejszej niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8:
+- **1)** których przedmiotem są dostawy lub usługi służące wyłącznie do celów prac badawczych, eksperymentalnych, naukowych lub rozwojowych, które nie służą prowadzeniu przez zamawiającego produkcji masowej służącej osiągnięciu rentowności rynkowej lub pokryciu kosztów badań lub rozwoju;
+- **2)** których przedmiotem są dostawy lub usługi z zakresu działalności kulturalnej związanej z organizacją wystaw, koncertów, konkursów, festiwali, widowisk, spektakli teatralnych, przedsięwzięć z zakresu edukacji kulturalnej lub z gromadzeniem materiałów bibliotecznych przez biblioteki lub muzealiów, a także z zakresu działalności archiwalnej związanej z gromadzeniem materiałów archiwalnych, jeżeli zamówienia te nie służą wyposażaniu zamawiającego w środki trwałe przeznaczone do bieżącej obsługi jego działalności;
+- **3)** udzielanych przez inne niż określone w art. 4 pkt 3 lit. g podmioty, których przedmiotem działalności jest produkcja i koprodukcja audycji i materiałów do audycji lub ich opracowanie, jeżeli zamówienia te są przeznaczone na potrzeby świadczenia audiowizualnych usług medialnych lub radiowych usług medialnych;
+- **4)** których przedmiotem są dostawy lub usługi z zakresu działalności oświatowej związanej z gromadzeniem w bibliotekach szkolnych podręczników, materiałów edukacyjnych i materiałów ćwiczeniowych, o których mowa w ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2015 r. poz. 2156 oraz z 2016 r. poz. 35, 64, 195, 668 i 1010), jeżeli zamówienia te nie służą wyposażaniu zamawiającego w środki trwałe przeznaczone do bieżącej obsługi jego działalności;
+- **5)** których przedmiotem są usługi lub roboty budowlane realizujące przedsięwzięcia rewitalizacyjne zawarte w gminnym programie rewitalizacji oraz wykonywane na obszarze Specjalnej Strefy Rewitalizacji, o których mowa odpowiednio w rozdziałach 4 i 5 ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. poz. 1777), jeżeli zamówienia te udzielane są:
+    - **a)** przez gminę lub gminne jednostki organizacyjne organizacjom pozarządowym lub spółdzielniom socjalnym, a przedmiot zamówienia należy do działalności statutowej wykonawcy lub
+    - **b)** w celu aktywizacji osób mających miejsce zamieszkania na obszarze Specjalnej Strefy Rewitalizacji;
+
+- **6)** których przedmiotem są usługi z zakresu leśnictwa, objęte kodami CPV 77200000-2, 77210000-5, 77211000-2, 77211100-3, 77211200-4, 77211300-5, 77211400-6, 77211500-7, 77211600-8, 77220000-8, 77230000-1, 77231000-8, 77231200-0, 77231600-4 oraz 77231700-5 określonymi we Wspólnym Słowniku Zamówień;
+- **7)** udzielanych w ramach realizacji współpracy rozwojowej przez jednostki wojskowe, o których mowa w ustawie z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. z 2014 r. poz. 1510);
+- **8)** udzielanych przez Ministra Sprawiedliwości – Prokuratora Generalnego albo jednostki organizacyjne mu podległe lub przez niego nadzorowane przywięziennym zakładom pracy, prowadzonym jako przedsiębiorstwa państwowe albo instytucje gospodarki budżetowej, związanych z zatrudnieniem osób pozbawionych wolności, jeżeli zasadnicza część działalności przywięziennego zakładu pracy dotyczy wykonywania zadań powierzonych mu przez Ministra Sprawiedliwości – Prokuratora Generalnego lub jednostki organizacyjne mu podległe lub przez niego nadzorowane;
+- **9)** udzielanych przez zarządzającego specjalną strefą ekonomiczną, o którym mowa w ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2015 r. poz. 282), będącego podmiotem, o którym mowa w art. 3 ust. 1 pkt 3.
+
+2. Do zasadniczej części działalności przywięziennego zakładu pracy, o której mowa w ust. 1 pkt 8, wlicza się działalność związaną z realizacją zamówień w związku ze społeczną i zawodową integracją osób, o których mowa w art. 22 ust. 2 pkt 3.”;
+
+- **9)** uchyla się art. 5 i art. 5a;
+- **10)** po art. 5a dodaje się art. 5b–5g w brzmieniu: „Art. 5b. Zamawiający nie może w celu uniknięcia stosowania przepisów ustawy:
+- **1)** łączyć zamówień, które odrębnie udzielane wymagają zastosowania różnych przepisów ustawy;
+- **2)** dzielić zamówienia na odrębne zamówienia, w celu uniknięcia łącznego szacowania ich wartości.
 
 **Art. 5c.**
 
@@ -66,6 +148,25 @@ source: "isap-pdf"
 **Art. 5f.** Jeżeli przedmiot zamówienia nie może zostać podzielony, w szczególności ze względów technicznych, organizacyjnych, ekonomicznych lub celowościowych, do udzielenia zamówienia stosuje się przepisy dotyczące tego rodzaju zamówienia, który odpowiada jego głównemu przedmiotowi.
 
 **Art. 5g.** Jeżeli zamawiający, z uzasadnionych obiektywnie powodów, udziela jednego zamówienia, którego przedmiot może być podzielony, albo przedmiot zamówienia nie może być podzielony, i to zamówienie obejmuje zamówienie, do którego stosuje się:
+
+- **1)** art. 346 Traktatu o funkcjonowaniu Unii Europejskiej, do udzielenia zamówienia zamawiający może nie zastosować przepisów ustawy;
+- **2)** przepisy ustawy dotyczące zamówień w dziedzinach obronności i bezpieczeństwa, do udzielenia zamówienia zamawiający stosuje przepisy ustawy dotyczące zamówień w dziedzinach obronności i bezpieczeństwa.”;
+- **11)** uchyla się art. 6;
+- **12)** w art. 7:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zamawiający przygotowuje i przeprowadza postępowanie o udzielenie zamówienia w sposób zapewniający zachowanie uczciwej konkurencji i równe traktowanie wykonawców oraz zgodnie z zasadami proporcjonalności i przejrzystości.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Zamawiający, w zakresie określonym w Porozumieniu Światowej Organizacji Handlu w sprawie zamówień rządowych i w innych umowach międzynarodowych, których stroną jest Unia Europejska, zapewnia wykonawcom z państw-stron tego porozumienia i wykonawcom z państw-stron tych umów oraz robotom budowlanym, dostawom i usługom pochodzącym z tych państw, traktowanie nie mniej korzystne niż traktowanie wykonawców pochodzących z Unii Europejskiej oraz robót budowlanych, dostaw i usług pochodzących z Unii Europejskiej.”;
+
+- **13)** w art. 8:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Zamawiający może określić w specyfikacji istotnych warunków zamówienia wymogi dotyczące zachowania poufnego charakteru informacji przekazanych wykonawcy w toku postępowania.”,
+    - **b)** w ust. 4: – pkt 2 otrzymuje brzmienie: „2) wysokości wynagrodzenia, w przypadku zamówienia udzielonego na podstawie art. 67 ust. 1 pkt 1a”, – część wspólna otrzymuje brzmienie: „– w zakresie dostaw lub usług z zakresu działalności kulturalnej związanej z organizacją wystaw, koncertów, konkursów, festiwali, widowisk, spektakli teatralnych, przedsięwzięć z zakresu edukacji kulturalnej lub z gromadzeniem materiałów bibliotecznych przez biblioteki lub muzealiów, a także z zakresu działalności archiwalnej związanej z gromadzeniem materiałów archiwalnych, jeżeli zamówienia te nie służą wyposażaniu zamawiającego w środki trwałe przeznaczone do bieżącej obsługi jego działalności, o ile wykonawca, przed podpisaniem umowy w sprawie zamówienia publicznego, zastrzegł, że dane te nie mogą być udostępniane.”;
+
+- **14)** w art. 9 dodaje się ust. 4 w brzmieniu: „4. W szczególnie uzasadnionych przypadkach zamawiający może sporządzać dokumenty oraz dokonywać niektórych czynności w postępowaniu o udzielenie zamówienia, w szczególności prowadzić dialog, dodatkowo również w jednym z języków powszechnie używanych w handlu międzynarodowym lub języku kraju, w którym zamówienie jest udzielane.”;
+- **15)** po art. 9 dodaje się art. 9a w brzmieniu: „Art. 9a. 1. Wyznaczając terminy składania wniosków o dopuszczenie do udziału w postępowaniu lub ofert, zamawiający uwzględnia złożoność zamówienia oraz, w przypadku ofert, czas potrzebny na sporządzenie ofert, z zachowaniem określonych w ustawie minimalnych terminów składania wniosków o dopuszczenie do udziału w postępowaniu lub ofert.
+
+2. W przypadku gdy oferty mogą zostać złożone jedynie po odbyciu przez wykonawcę wizji lokalnej albo po sprawdzeniu przez niego dokumentów niezbędnych do realizacji zamówienia, zamawiający wyznacza terminy składania ofert z uwzględnieniem czasu niezbędnego do zapoznania się przez wykonawców z informacjami koniecznymi do przygotowania oferty, z tym że terminy te muszą być dłuższe od minimalnych terminów składania ofert określonych w ustawie.”;
+
+- **16)** w art. 10 ust. 2 otrzymuje brzmienie: „2. Zamawiający może udzielić zamówienia w trybie negocjacji z ogłoszeniem, dialogu konkurencyjnego, negocjacji bez ogłoszenia, zamówienia z wolnej ręki, zapytania o cenę, partnerstwa innowacyjnego albo licytacji elektronicznej tylko w przypadkach określonych w ustawie.”;
+- **17)** w dziale I po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „Rozdział 2a Komunikacja zamawiającego z wykonawcami
 
 **Art. 10a.**
 
@@ -114,6 +215,27 @@ source: "isap-pdf"
 
 **Art. 10g.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
+- **1)** wymagania techniczne i organizacyjne użycia środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia,
+- **2)** sposób sporządzania i przechowywania dokumentów elektronicznych oraz sposób i tryb ich przekazywania, udostępniania i usuwania – mając na względzie konieczność zapewnienia konkurencji oraz potrzebę zapewnienia sprawności postępowania o udzielenie zamówienia, otwartego dostępu wykonawców do postępowania o udzielenie zamówienia oraz bezpieczeństwa przetwarzanych danych.”;
+- **18)** w art. 11:
+    - **a)** w ust. 1 w pkt 1 skreśla się wyrazy „ , zwanego dalej „Urzędem” ”,
+    - **b)** uchyla się ust. 4,
+    - **c)** ust. 7 otrzymuje brzmienie: „7. Zamawiający przygotowuje ogłoszenia zgodnie z wzorami standardowych formularzy, określonymi w akcie wykonawczym Komisji Europejskiej ustanawiającym standardowe formularze do publikacji ogłoszeń w ramach procedur udzielania zamówień wydanym na podstawie art. 51 ust. 1, art. 75 ust. 3 i art. 79 ust. 3 dyrektywy 2014/24/UE, art. 71 ust. 1, art. 92 ust. 3 i art. 96 ust. 2 dyrektywy 2014/25/UE oraz art. 3a dyrektywy 2007/66/WE Parlamentu Europejskiego i Rady z dnia 11 grudnia 2007 r. zmieniającej dyrektywy Rady 89/665/EWG i 92/13/EWG w zakresie poprawy skuteczności procedur odwoławczych w dziedzinie udzielania zamówień publicznych (Dz. Urz. UE L 335 z 20.12.2007, str. 31), jeżeli wartość zamówienia jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie ust. 8.”,
+    - **d)** po ust. 7 dodaje się ust. 7a–7e w brzmieniu: „7a. Ogłoszenia przekazuje się Urzędowi Publikacji Unii Europejskiej zgodnie z formatem i procedurami elektronicznego przesyłania ogłoszeń wskazanymi na stronie internetowej, o której mowa w ust. 3 załącznika VIII do dyrektywy 2014/24/UE i ust. 3 załącznika IX do dyrektywy 2014/25/UE, zwanej dalej „stroną internetową określoną w dyrektywach”.
+
+7b. Ogłoszenia w Biuletynie Zamówień Publicznych zamieszcza się przy użyciu środków komunikacji elektronicznej za pomocą formularzy umieszczonych na stronach portalu internetowego Urzędu.
+
+7c. Zamawiający może dodatkowo zamieścić ogłoszenie w inny sposób niż określony w ust. 1, w szczególności w prasie o zasięgu ogólnopolskim.
+
+7d. Zamieszczenie ogłoszeń w sposób, określony w ust. 5, w zakresie ogłoszeń podlegających obowiązkowi publikacji w Dzienniku Urzędowym Unii Europejskiej, oraz ogłoszeń, o których mowa w ust. 7c, nie może nastąpić przed ich publikacją w Dzienniku Urzędowym Unii Europejskiej albo upływem 48 godzin od potwierdzenia otrzymania ogłoszenia przez Urząd Publikacji Unii Europejskiej.
+
+7e. Ogłoszenia, o których mowa w ust. 7d, nie mogą zawierać innych informacji niż informacje zawarte w ogłoszeniach przekazanych Urzędowi Publikacji Unii Europejskiej. W ogłoszeniach tych należy wskazać datę przekazania ogłoszenia Urzędowi Publikacji Unii Europejskiej.”;
+
+- **19)** użyte w art. 11 w ust. 6 i 8, w art. 91 w ust. 8, w art. 96 w ust. 5, w art. 152 w ust. 2 i 4, w art. 153 w ust. 1, w art. 154 w pkt 17 i 17a, w art. 155 w ust. 2, w art. 158 w ust. 1, 3 i 4, w art. 159 w ust. 3, w art. 160 w ust. 2, w art. 173 w ust. 1, 3, 3a i 5, w art. 174 w ust. 5, w art. 175 w ust. 5, w art. 176 w ust. 1 oraz w art. 176a w ust. 2, 5 i 6 w różnych przypadkach wyrazy „Prezes Rady Ministrów” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw gospodarki”;
+- **20)** po art. 11 dodaje się art. 11a–11c w brzmieniu: „Art. 11a. Zamawiający jest obowiązany udokumentować:
+- **1)** zamieszczenie ogłoszenia w Biuletynie Zamówień Publicznych, w szczególności przechowywać dowód jego zamieszczenia;
+- **2)** publikację ogłoszenia w Dzienniku Urzędowym Unii Europejskiej, w szczególności przechowywać dowód przekazania tego ogłoszenia Urzędowi Publikacji Unii Europejskiej.
+
 **Art. 11b.**
 
 1. Zamawiający może przekazać do Urzędu Publikacji Unii Europejskiej ogłoszenie, którego publikacja w Dzienniku Urzędowym Unii Europejskiej ze względu na wartość zamówienia lub konkursu nie jest obowiązkowe. Przepisy art. 11 ust. 7 i 7a stosuje się odpowiednio.
@@ -122,7 +244,72 @@ source: "isap-pdf"
 
 **Art. 11c.** Zamawiający może zmienić ogłoszenie, zamieszczając sprostowanie lub ogłoszenie zmian. Przepisy art. 11 ust. 7–7d i art. 11a stosuje się odpowiednio.”;
 
+- **21)** uchyla się art. 12;
+- **22)** w art. 12a:
+    - **a)** w ust. 2 pkt 1 i 2 otrzymują brzmienie: „1) ofert nie może być krótszy niż 15 dni od dnia przekazania zmiany ogłoszenia Urzędowi Publikacji Unii Europejskiej – w trybie przetargu nieograniczonego;
+
+- **2)** wniosków o dopuszczenie do udziału w postępowaniu nie może być krótszy niż 30 dni, a jeżeli zachodzi pilna potrzeba udzielenia zamówienia niż 15 dni od dnia przekazania zmiany ogłoszenia Urzędowi Publikacji Unii Europejskiej – w trybie przetargu ograniczonego lub negocjacji z ogłoszeniem.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Zamawiający niezwłocznie po zamieszczeniu zmiany treści ogłoszenia o zamówieniu w Biuletynie Zamówień Publicznych lub jej przekazaniu Urzędowi Publikacji Unii Europejskiej zamieszcza informację o zmianach na stronie internetowej.”;
+
+- **23)** w art. 13:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Zamawiający po zatwierdzeniu albo uchwaleniu planu finansowego zgodnie z obowiązującymi zamawiającego przepisami, statutem lub umową, a w przypadku zamawiających, którzy nie sporządzają planu finansowego – raz w roku, może przekazać Urzędowi Publikacji Unii Europejskiej lub zamieścić na stronie internetowej w miejscu wyodrębnionym dla zamówień, zwanym dalej „profilem nabywcy”, wstępne ogłoszenie informacyjne o planowanych w terminie następnych 12 miesięcy zamówieniach lub umowach ramowych, których wartość jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8.
+
+2. Ogłoszenie, o którym mowa w ust. 1, zamawiający może zamieścić w profilu nabywcy po upływie 48 godzin od przekazania ogłoszenia Urzędowi Publikacji Unii Europejskiej.”,
+
+- **b)** uchyla się ust. 3;
+- **24)** w dziale I w rozdziale 3 po art. 13 dodaje się art. 13a w brzmieniu: „Art. 13a. 1. Zamawiający, o których mowa w art. 3 ust. 1 pkt 1 i 2, oraz ich związki, nie później niż 30 dni od dnia przyjęcia budżetu lub planu finansowego przez uprawniony organ, sporządzają plany postępowań o udzielenie zamówień, jakie przewidują przeprowadzić w danym roku finansowym oraz zamieszczają je na stronie internetowej.
+
+2. Plan postępowań o udzielenie zamówień zawiera w szczególności informacje dotyczące:
+
+- **1)** przedmiotu zamówienia;
+- **2)** rodzaju zamówienia według podziału na zamówienia na roboty budowlane, dostawy lub usługi;
+- **3)** przewidywanego trybu lub innej procedury udzielenia zamówienia;
+- **4)** orientacyjnej wartości zamówienia;
+- **5)** przewidywanego terminu wszczęcia postępowania w ujęciu kwartalnym lub miesięcznym.
+
+3. Zamawiający, inni niż wymienieni w ust. 1, mogą zamieszczać na stronie internetowej plany postępowań o udzielenie zamówień.
+
+4. Zamawiający mogą nie zamieszczać na stronie internetowej informacji o postępowaniach o udzielenie zamówień, jeżeli wymaga tego ochrona informacji niejawnych.”;
+
+- **25)** w art. 14 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Jeżeli koniec terminu do wykonania czynności przypada na sobotę lub dzień ustawowo wolny od pracy, termin upływa dnia następnego po dniu lub dniach wolnych od pracy.”;
+- **26)** w art. 15:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Zamawiający może powierzyć pomocnicze działania zakupowe własnej jednostce organizacyjnej lub osobie trzeciej.”,
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Pomocnicze działania zakupowe polegają na zapewnieniu wsparcia dla działań zakupowych, w szczególności przez:
+
+- **1)** zapewnienie infrastruktury technicznej umożliwiającej zamawiającemu udzielanie zamówień lub zawieranie umów ramowych;
+- **2)** doradztwo dotyczące przeprowadzania lub planowania postępowań o udzielenie zamówienia;
+- **3)** przygotowanie postępowań o udzielenie zamówienia i przeprowadzanie ich, w imieniu i na rzecz zamawiającego.”;
+- **27)** w art. 15a uchyla się ust. 1–3;
+- **28)** po art. 15a dodaje się art. 15b–15f w brzmieniu: „Art. 15b. 1. Centralnym zamawiającym jest zamawiający, o którym mowa w art. 3 ust. 1 pkt 1–4, prowadzący działalność w zakresie:
+- **1)** nabywania dostaw lub usług z przeznaczeniem dla zamawiających;
+- **2)** udzielania zamówień lub zawierania umów ramowych, których przedmiotem są roboty budowlane, dostawy lub usługi z przeznaczeniem dla zamawiających;
+- **3)** pomocniczych działań zakupowych.
+
+2. Postępowanie o udzielenie zamówienia przeprowadzane przez centralnego zamawiającego odbywa się wyłącznie przy użyciu środków komunikacji elektronicznej.
+
+3. Zamawiający, o których mowa w art. 3 ust. 1 pkt 1–4, mogą nabywać:
+
+- **1)** dostawy lub usługi od centralnego zamawiającego lub
+- **2)** dostawy, usługi lub roboty budowlane za pomocą dynamicznych systemów zakupów obsługiwanych przez centralnego zamawiającego lub na podstawie umowy ramowej zawartej przez centralnego zamawiającego.
+
+4. Centralny zamawiający wskazuje w ogłoszeniu o ustanowieniu dynamicznego systemu zakupów, czy z obsługiwanego przez niego dynamicznego systemu zakupów mogą korzystać inni zamawiający.
+
+5. Centralny zamawiający może zawrzeć umowę ramową, na mocy której zamawiający, o których mowa w ust. 1, będą uprawnieni do:
+
+- **1)** ponownego przeprowadzenia postępowania konkurencyjnego wśród wykonawców objętych tą umową i dokonania wyboru najkorzystniejszej oferty;
+- **2)** wskazania, którzy wykonawcy wśród wykonawców objętych tą umową będą realizować składane przez nich zamówienie.
+
+6. Zamawiający ponosi odpowiedzialność za wypełnienie obowiązków wynikających z ustawy w zakresie części postępowania, które przeprowadza samodzielnie, w szczególności:
+
+- **1)** za udzielanie zamówień objętych dynamicznym systemem zakupów obsługiwanym przez centralnego zamawiającego;
+- **2)** za udzielenie zamówień na podstawie umowy ramowej zawartej przez centralnego zamawiającego.
+
 **Art. 15c.** Organ stanowiący jednostki samorządu terytorialnego może, w drodze uchwały:
+
+- **1)** wskazać albo powołać podmiot wykonujący zadania centralnego zamawiającego, albo określić sposób powoływania takich podmiotów,
+- **2)** określić zakres działania tych podmiotów,
+- **3)** oznaczyć zamawiających obowiązanych do nabywania określonych rodzajów zamówień od centralnego zamawiającego, udzielania zamówień na podstawie umowy ramowej zawartej przez centralnego zamawiającego lub objętych dynamicznym systemem zakupów obsługiwanym przez centralnego zamawiającego,
+- **4)** określić sposób współdziałania z centralnym zamawiającym – mając na względzie zapewnienie większej efektywności, profesjonalizacji udzielania zamówień oraz zwiększenie konkurencji.
 
 **Art. 15d.**
 
@@ -944,6 +1131,96 @@ source: "isap-pdf"
 
 **Art. 91e.** Zamawiający zamyka aukcję elektroniczną:
 
+- **1)** w terminie określonym w zaproszeniu do udziału w aukcji elektronicznej;
+- **2)** jeżeli w ustalonym terminie nie zostaną zgłoszone nowe postąpienia;
+- **3)** po zakończeniu ostatniego, ustalonego etapu.”;
+- **99)** w art. 92:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zamawiający informuje niezwłocznie wszystkich wykonawców o:
+
+- **1)** wyborze najkorzystniejszej oferty, podając nazwę albo imię i nazwisko, siedzibę albo miejsce zamieszkania i adres, jeżeli jest miejscem wykonywania działalności wykonawcy, którego ofertę wybrano, oraz nazwy albo imiona i nazwiska, siedziby albo miejsca zamieszkania i adresy, jeżeli są miejscami wykonywania działalności wykonawców, którzy złożyli oferty, a także punktację przyznaną ofertom w każdym kryterium oceny ofert i łączną punktację,
+- **2)** wykonawcach, którzy zostali wykluczeni,
+- **3)** wykonawcach, których oferty zostały odrzucone, powodach odrzucenia oferty, a w przypadkach, o których mowa w art. 89 ust. 4 i 5, braku równoważności lub braku spełniania wymagań dotyczących wydajności lub funkcjonalności,
+- **4)** wykonawcach, którzy złożyli oferty niepodlegające odrzuceniu, ale nie zostali zaproszeni do kolejnego etapu negocjacji albo dialogu,
+- **5)** dopuszczeniu do dynamicznego systemu zakupów,
+- **6)** nieustanowieniu dynamicznego systemu zakupów,
+- **7)** unieważnieniu postępowania – podając uzasadnienie faktyczne i prawne.”,
+    - **b)** po ust 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadkach, o których mowa w art. 24 ust. 8, informacja, o której mowa w ust. 1 pkt 2, zawiera wyjaśnienie powodów, dla których dowody przedstawione przez wykonawcę, zamawiający uznał za niewystarczające.”,
+    - **c)** ust. 2 otrzymuje brzmienie: „2. Zamawiający udostępnia informacje, o których mowa w ust. 1 pkt 1 i 5–7, na stronie internetowej.”,
+    - **d)** dodaje się ust. 3 w brzmieniu: „3. Zamawiający może nie ujawniać informacji, o których mowa w ust. 1, jeżeli ich ujawnienie byłoby sprzeczne z ważnym interesem publicznym.”;
+
+- **100)** w art. 93:
+    - **a)** w ust. 1a pkt 1 otrzymuje brzmienie: „1) ogłoszeniu o zamówieniu – w postępowaniu prowadzonym w trybie przetargu nieograniczonego, przetargu ograniczonego, negocjacji z ogłoszeniem, dialogu konkurencyjnego, partnerstwa innowacyjnego albo licytacji elektronicznej albo”,
+    - **b)** w ust. 1b pkt 1 otrzymuje brzmienie: „1) ogłoszeniu o zamówieniu – w postępowaniu prowadzonym w trybie przetargu nieograniczonego, przetargu ograniczonego, negocjacji z ogłoszeniem, dialogu konkurencyjnego, partnerstwa innowacyjnego albo licytacji elektronicznej albo”,
+    - **c)** po ust. 1c dodaje się ust. 1d w brzmieniu: „1d. Zamawiający może unieważnić postępowanie o udzielenie zamówienia, jeżeli liczba wykonawców, którzy spełniają warunki udziału w postępowaniu jest mniejsza niż określona w ogłoszeniu o zamówieniu liczba wykonawców, których zamawiający zamierzał zaprosić do składania ofert, ofert wstępnych, dialogu konkurencyjnego albo negocjacji.”;
+
+- **101)** w art. 94:
+    - **a)** w ust. 1 pkt 1 i 2 otrzymują brzmienie: „1) nie krótszym niż 10 dni od dnia przesłania zawiadomienia o wyborze najkorzystniejszej oferty, jeżeli zawiadomienie to zostało przesłane przy użyciu środków komunikacji elektronicznej, albo 15 dni – jeżeli zostało przesłane w inny sposób – w przypadku zamówień, których wartość jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8;
+
+- **2)** nie krótszym niż 5 dni od dnia przesłania zawiadomienia o wyborze najkorzystniejszej oferty, jeżeli zawiadomienie to zostało przesłane przy użyciu środków komunikacji elektronicznej, albo 10 dni – jeżeli zostało przesłane w inny sposób – w przypadku zamówień, których wartość jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8.”,
+    - **b)** w ust. 2: – pkt 3 otrzymuje brzmienie: „3) w postępowaniu o udzielenie zamówienia o wartości mniejszej niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 upłynął termin do wniesienia odwołania na czynności zamawiającego wymienione w art. 180 ust. 2 lub w następstwie jego wniesienia Izba ogłosiła wyrok lub postanowienie kończące postępowanie odwoławcze.”, – uchyla się pkt 4;
+
+- **102)** w art. 95:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Jeżeli wartość zamówienia lub umowy ramowej jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8, zamawiający nie później niż w terminie 30 dni od dnia zawarcia umowy w sprawie zamówienia publicznego albo umowy ramowej zamieszcza ogłoszenie o udzieleniu zamówienia w Biuletynie Zamówień Publicznych.
+
+2. Jeżeli wartość zamówienia albo umowy ramowej jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8, zamawiający nie później niż w terminie 30 dni od dnia zawarcia umowy w sprawie zamówienia publicznego albo umowy ramowej, przekazuje ogłoszenie o udzieleniu zamówienia Urzędowi Publikacji Unii Europejskiej.”,
+
+- **b)** uchyla się ust. 3 i 4,
+- **c)** dodaje się ust. 5–7 w brzmieniu: „5. Zamawiający przekazuje do publikacji ogłoszenie o udzieleniu zamówienia w terminie 30 dni od dnia udzielenia każdego zamówienia objętego dynamicznym systemem zakupów. Ogłoszenia o udzieleniu zamówienia można grupować kwartalnie i przekazywać do publikacji w terminie 30 dni od ostatniego dnia każdego kwartału. W ogłoszeniu o udzieleniu zamówienia zamawiający zawiera informację o zakończeniu dynamicznego systemu zakupów, jeżeli okres ważności systemu upłynął lub uległ skróceniu.
+
+6. W przypadku umów ramowych zamawiający może nie publikować ogłoszenia o udzieleniu zamówienia dla każdego zamówienia opartego na umowie ramowej.
+
+7. W ogłoszeniu o udzieleniu zamówienia zamawiający może nie ujawniać niektórych informacji, jeżeli ich ujawnienie mogłoby utrudnić stosowanie prawa lub byłoby sprzeczne z interesem publicznym, lub mogłoby naruszyć uzasadnione interesy gospodarcze wykonawców, lub mogłoby zakłócić konkurencję pomiędzy nimi.”;
+
+- **103)** w art. 96:
+    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „W trakcie prowadzenia postępowania o udzielenie zamówienia zamawiający sporządza protokół, zawierający co najmniej:”, – uchyla się pkt 3 i 4, – pkt 5 otrzymuje brzmienie: „5) imię i nazwisko albo nazwę wykonawcy, którego oferta została wybrana jako najkorzystniejsza, oraz powody wyboru jego oferty, a także, jeśli jest to wiadome, wskazanie części zamówienia lub umowy ramowej, którą ten wykonawca zamierza zlecić do wykonania osobom trzecim, i jeśli jest to wiadome w danym momencie – imiona i nazwiska albo nazwy ewentualnych podwykonawców;”, – dodaje się pkt 6–14 w brzmieniu: „6) nazwę i adres zamawiającego, przedmiot i wartość umowy w sprawie zamówienia publicznego, umowy ramowej lub dynamicznego systemu zakupów;
+
+- **7)** w stosownych przypadkach, wyniki badania podstaw wykluczenia, oceny spełniania warunków udziału w postępowaniu lub kryteriów selekcji, w tym:
+    - **a)** imię i nazwisko albo nazwę wykonawców, którzy nie podlegają wykluczeniu, wykazali spełnianie warunków udziału w postępowaniu lub kryteriów selekcji oraz powody wyboru tych wykonawców,
+    - **b)** imię i nazwisko albo nazwę wykonawców, którzy podlegają wykluczeniu, nie wykazali spełniania warunków udziału w postępowaniu lub kryteriów selekcji oraz powody ich niezaproszenia do udziału w postepowaniu;
+
+- **8)** powody odrzucenia ofert;
+- **9)** w przypadku negocjacji z ogłoszeniem, dialogu konkurencyjnego, negocjacji bez ogłoszenia albo zamówienia z wolnej ręki wskazanie okoliczności uzasadniających zastosowanie wybranego trybu;
+- **10)** powody, z których zamawiający postanowił nie udzielać zamówienia, nie zawierać umowy ramowej albo nie ustanawiać dynamicznego systemu zakupów;
+- **11)** powody niedokonania podziału zamówienia na części;
+- **12)** powody odstąpienia od wymogu użycia środków komunikacji elektronicznej do składania ofert;
+- **13)** w przypadku gdy wykonawca lub osoby uprawnione do reprezentowania wykonawcy pozostają z zamawiającym lub osobami uprawnionymi do reprezentowania zamawiającego w relacjach określonych w art. 17 ust. 1 pkt 1–4, informację na temat tych relacji i podjęte w związku z tym środki;
+- **14)** informacje dotyczące osób wykonujących czynności związane z przygotowaniem postępowania o udzielenie zamówienia oraz osób wykonujących czynności w postępowaniu o udzielenie zamówienia pozostających w relacjach określonych w art. 17 ust. 1 pkt 1–4 i złożenia przez nie oświadczenia, o którym mowa w art. 17 ust. 2.”,
+    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Protokołu nie sporządza się w przypadku zamówień udzielanych na podstawie umów ramowych zawartych z jednym wykonawcą lub z kilkoma wykonawcami zgodnie z warunkami umowy, bez ponownego poddania zamówienia procedurze konkurencyjnej.
+
+1b. W przypadku gdy zamawiający opublikował ogłoszenie o udzieleniu zamówienia, które zawiera wszystkie informacje, o których mowa w ust. 1, zamawiający może w protokole powołać się na to ogłoszenie.”;
+
+- **104)** w art. 97 w ust. 1 dodaje się zdanie drugie w brzmieniu: „Jeżeli czas trwania umowy przekracza 4 lata, zamawiający przechowuje umowę przez cały czas trwania umowy.”;
+- **105)** w art. 98 ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, zakres informacji zawartych w sprawozdaniu, jego wzór oraz sposób przekazywania, mając na względzie wymagania dotyczące treści sprawozdania przekazywanego Komisji Europejskiej oraz potrzebę zapewnienia aktualnych informacji w celu monitorowania systemu zamówień publicznych, a także zasadność wykorzystania środków komunikacji elektronicznej.”;
+- **106)** art. 99 otrzymuje brzmienie: „Art. 99. Zamawiający może zawrzeć umowę ramową po przeprowadzeniu postępowania, stosując odpowiednio przepisy dotyczące udzielania zamówienia w trybie przetargu nieograniczonego, przetargu ograniczonego, negocjacji z ogłoszeniem, dialogu konkurencyjnego, negocjacji bez ogłoszenia, zamówienia z wolnej ręki lub partnerstwa innowacyjnego.”;
+- **107)** w art. 100 uchyla się ust. 3;
+- **108)** uchyla się art. 101;
+- **109)** w dziale III w rozdziale 1 po art. 101 dodaje się art. 101a i art. 101b w brzmieniu: „Art. 101a. 1. Zamawiający udziela zamówień, których przedmiot jest objęty umową ramową:
+- **1)** wykonawcy, z którym zawarł umowę ramową, na warunkach określonych w umowie ramowej;
+- **2)** wykonawcom, z którymi zawarł umowę ramową:
+    - **a)** zgodnie z warunkami umowy ramowej, bez ponownego zwracania się do wykonawców o składanie ofert, w przypadku gdy w umowie tej określono wszystkie warunki dotyczące realizacji robót budowlanych, usług lub dostaw oraz warunki wyłonienia wykonawców będących stroną umowy ramowej, którzy zrealizują roboty budowlane, usługi lub dostawy,
+    - **b)** zwracając się o złożenie ofert, w przypadku gdy nie wszystkie warunki realizacji robót budowlanych, usług lub dostaw lub nie wszystkie warunki wyłonienia wykonawców będących stroną umowy ramowej określono w umowie ramowej,
+    - **c)** w odniesieniu do niektórych zamówień zgodnie z lit. a, a w odniesieniu do innych zgodnie z lit. b, o ile taka możliwość została przez zamawiającego przewidziana w ogłoszeniu o zamówieniu, w przypadku gdy umowa ramowa określa wszystkie warunki regulujące realizację robót budowlanych, usług lub dostaw.
+
+2. Zamówień w sposób, o którym mowa w ust. 1, mogą udzielać tylko zamawiający wskazani w ogłoszeniu o zamówieniu, w zaproszeniu do potwierdzenia zainteresowania, a jeżeli ogłoszenie o zamówieniu nie było wymagane – w specyfikacji istotnych warunków zamówienia.
+
+3. Zamawiający, udzielając zamówienia na podstawie umowy ramowej, nie może dokonywać istotnych zmian warunków zamówienia określonych w umowie ramowej, w szczególności w przypadku udzielania zamówienia na zasadach określonych w ust. 1 pkt 1.
+
+4. W przypadku udzielania zamówienia na zasadach określonych w ust. 1 pkt 1, zamawiający, jeżeli dokonano zmiany umowy ramowej, może wezwać wykonawcę będącego stroną umowy ramowej do uzupełnienia oferty, w terminie określonym przez zamawiającego.
+
+5. Zamawiający w postępowaniu mającym na celu zawarcie umowy ramowej określa w specyfikacji istotnych warunków zamówienia lub zaproszeniu do negocjacji warunki na jakich będą udzielane zamówienia wykonawcom, którzy zrealizują roboty budowlane, usługi lub dostawy w przypadku, o którym w ust. 1 pkt 2 lit. a.
+
+6. Zamawiający określa w specyfikacji istotnych warunków zamówienia lub ogłoszeniu o zamówieniu dotyczących umowy ramowej kryteria wyboru, wskazujące które roboty budowlane, dostawy lub usługi będą nabywane po ponownym poddaniu zamówienia procedurze konkurencyjnej lub bezpośrednio zgodnie z warunkami umowy ramowej w przypadku udzielania zamówienia na zasadach określonych w ust. 1 pkt 2 lit. c. W tych dokumentach określa się również, które warunki mogą być przedmiotem ponownego poddania zamówienia procedurze konkurencyjnej.
+
+7. Przepis ust. 1 pkt 2 lit. c stosuje się również do tych części umowy ramowej, dla których określono wszystkie warunki dotyczące realizacji robót budowlanych, usług lub dostaw, niezależnie od tego, czy w umowie ramowej określono wszystkie warunki dotyczące realizacji robót budowlanych, usług lub dostaw dla pozostałych części tej umowy.
+
+8. W przypadkach, o których mowa w ust. 1 pkt 2 lit. b lub c, wybór najkorzystniejszej oferty może być dokonany z zastosowaniem aukcji elektronicznej.
+
+9. W przypadku zaproszenia wykonawców będących stronami umowy ramowej do składania ofert, o których mowa w ust. 1 pkt 2 lit. b lub c, zamawiający:
+
+- **1)** stosuje te same warunki udziału w postępowaniu i warunki realizacji zamówienia, które stosowano przy zawarciu umowy ramowej, i, w razie potrzeby, bardziej sprecyzowane warunki, oraz, w stosownych przypadkach, inne warunki wskazane w specyfikacji istotnych warunków zamówienia lub ogłoszeniu o zamówieniu dotyczących umowy ramowej oraz
+- **2)** zaprasza do składania ofert wykonawców zdolnych do wykonania zamówienia, oraz
+- **3)** wyznacza termin składania ofert z uwzględnieniem złożoności przedmiotu zamówienia oraz czasu niezbędnego do przygotowania i złożenia ofert w odniesieniu do każdego zamówienia.
+
 **Art. 101b.**
 
 1. Zamawiający może dopuścić lub wymagać złożenia ofert na potrzeby umowy ramowej w postaci katalogów elektronicznych lub dołączenia katalogów elektronicznych do oferty.
@@ -1214,6 +1491,9 @@ source: "isap-pdf"
 
 **Art. 138j.** W przypadku zamówień sektorowych na usługi społeczne, wszczęcie postępowania, o którym mowa w art. 138i ust. 1, następuje za pomocą:
 
+- **1)** ogłoszenia o zamówieniu;
+- **2)** okresowego ogłoszenia informacyjnego lub ogłoszenia o ustanowieniu systemu kwalifikowania wykonawców.
+
 **Art. 138k.** Zamawiający określa sposób przeprowadzenia postępowania o udzielenie zamówienia na usługi społeczne z uwzględnieniem obowiązkowych elementów postępowania określonych w niniejszym rozdziale oraz zasad równego traktowania i konkurencji, przejrzystości, proporcjonalności, a także przepisów art. 17 i art. 18. Przepis art. 93 stosuje się odpowiednio.
 
 **Art. 138l.** Postępowanie o udzielenie zamówienia na usługi społeczne jest prowadzone z zastosowaniem przepisów działu I rozdziału 2a, działu II rozdziału 5, działu V rozdziału 3 oraz działu VI.
@@ -1221,6 +1501,10 @@ source: "isap-pdf"
 **Art. 138m.** Do zamówień na usługi społeczne przepisy art. 22–22d, art. 24, art. 29–30b oraz art. 32–35 stosuje się odpowiednio.
 
 **Art. 138n.** Zamawiający może przeprowadzić postępowanie o udzielenie zamówienia na usługi społeczne, w którym:
+
+- **1)** w odpowiedzi na ogłoszenie wszyscy zainteresowani wykonawcy składają oferty wraz z informacjami potwierdzającymi, że nie podlegają wykluczeniu oraz spełniają warunki udziału w postępowaniu albo
+- **2)** w odpowiedzi na ogłoszenie wszyscy zainteresowani wykonawcy składają wnioski o dopuszczenie do udziału w postępowaniu wraz z informacjami potwierdzającymi, że nie podlegają wykluczeniu oraz spełniają warunki udziału w postępowaniu, albo
+- **3)** przeprowadza negocjacje z wykonawcami dopuszczonymi do udziału w postępowaniu.
 
 **Art. 138o.**
 
@@ -1322,6 +1606,72 @@ source: "isap-pdf"
 
 **Art. 145b.** W przypadku, o którym mowa w art. 145a, wykonawca może żądać wyłącznie wynagrodzenia należnego z tytułu wykonania części umowy.”;
 
+- **150)** w art. 146:
+    - **a)** w ust. 1 pkt 4 i 5 otrzymują brzmienie: „4) uniemożliwił składanie wniosków o dopuszczenie do udziału w dynamicznym systemie zakupów wykonawcom niedopuszczonym dotychczas do udziału w dynamicznym systemie zakupów lub uniemożliwił wykonawcom dopuszczonym do udziału w dynamicznym systemie zakupów złożenie ofert w postępowaniu o udzielenie zamówienia objętego tym systemem;
+
+- **5)** uniemożliwił wykonawcom, z którymi została zawarta umowa ramowa, złożenie ofert w procedurze konkurencyjnej o udzielenie zamówienia na podstawie umowy ramowej, o ile nie wszystkie warunki zamówienia zostały określone w umowie ramowej;”,
+    - **b)** w pkt 6 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) zawarł umowę przed upływem terminu, o którym mowa w art. 67 ust. 12.”;
+
+- **151)** po art. 146 dodaje się art. 146a w brzmieniu: „Art. 146a. Umowa zawarta w trybie art. 67 ust. 1 pkt 12–14 wygasa z upływem 3 miesięcy od dnia, w którym w kontrolowanej osobie prawnej, o której mowa w art. 67 ust. 1 pkt 12 lit. c, pkt 13 lub 14 lit. c, udział uzyskał kapitał prywatny, z wyjątkiem przypadków, o których mowa w art. 67 ust. 10.”;
+- **152)** w art. 150:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Zabezpieczenie ustala się w wysokości do 10% ceny całkowitej podanej w ofercie albo maksymalnej wartości nominalnej zobowiązania zamawiającego wynikającego z umowy.”,
+    - **b)** dodaje się ust. 7–10 w brzmieniu: „7. Jeżeli okres na jaki ma zostać wniesione zabezpieczenie przekracza 5 lat, zabezpieczenie w pieniądzu wnosi się na cały ten okres, a zabezpieczenie w innej formie wnosi się na okres nie krótszy niż 5 lat, z jednoczesnym zobowiązaniem się wykonawcy do przedłużenia zabezpieczenia lub wniesienia nowego zabezpieczenia na kolejne okresy.
+
+8. W przypadku nieprzedłużenia lub niewniesienia nowego zabezpieczenia najpóźniej na 30 dni przed upływem terminu ważności dotychczasowego zabezpieczenia wniesionego w innej formie niż w pieniądzu, zamawiający zmienia formę na zabezpieczenie w pieniądzu, poprzez wypłatę kwoty z dotychczasowego zabezpieczenia.
+
+9. Wypłata, o której mowa w ust. 8, następuje nie później niż w ostatnim dniu ważności dotychczasowego zabezpieczenia.
+
+10. Przepis art. 149 stosuje się.”;
+
+- **153)** w art. 151a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zamawiający może udzielić zaliczek na poczet wykonania zamówienia, jeżeli możliwość taka została przewidziana w ogłoszeniu o zamówieniu lub w specyfikacji istotnych warunków zamówienia.”,
+    - **b)** uchyla się ust. 2,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Zamawiający nie może udzielić zaliczki, jeżeli wykonawca został wybrany w trybie negocjacji bez ogłoszenia lub zamówienia z wolnej ręki, chyba że zamówienie jest udzielane na podstawie art. 67 ust. 1 pkt 10.”;
+
+- **154)** w art. 153:
+    - **a)** w ust. 5 zdanie pierwsze otrzymuje brzmienie: „Nabór na stanowisko Prezesa Urzędu przeprowadza zespół, powołany przez ministra właściwego do spraw gospodarki, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów.”,
+    - **b)** ust. 8 otrzymuje brzmienie: „8. W toku naboru zespół wyłania nie więcej niż 3 kandydatów, których przedstawia ministrowi właściwemu do spraw gospodarki.”;
+
+- **155)** w art. 154 po pkt 16 dodaje się pkt 16a w brzmieniu: „16a) przekazuje co trzy lata Komisji Europejskiej sprawozdanie z monitorowania funkcjonowania systemu zamówień oraz sprawozdanie statystyczne dotyczące zamówień, których wartość jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8;”;
+- **156)** po art. 154b dodaje się art. 154c w brzmieniu: „Art. 154c. 1. Prezes Urzędu dąży do zapewnienia jednolitego stosowania przepisów ustawy przez zamawiających, wydając w szczególności – z urzędu lub na wniosek – opinie, w których przedstawia interpretację przepisów ustawy budzących poważne wątpliwości lub wywołujących rozbieżności w orzecznictwie, przy uwzględnieniu orzecznictwa sądów, Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
+
+2. Opinia, o której mowa w ust. 1, zawiera w szczególności:
+
+- **1)** opis zagadnienia prawnego, w związku z którym jest dokonywana interpretacja przepisów ustawy;
+- **2)** wyjaśnienie zakresu oraz sposobu stosowania interpretowanych przepisów ustawy wraz z uzasadnieniem prawnym.
+
+3. Wniosek o wydanie opinii, o której mowa w ust. 1, zawiera uzasadnienie, w którym w szczególności:
+
+- **1)** przedstawia się istotę zagadnienia prawnego oraz wskazuje przepisy ustawy wymagające wydania opinii;
+- **2)** uzasadnia się potrzebę wydania opinii.
+
+4. Prezes Urzędu pozostawia wniosek o wydanie opinii, o której mowa w ust. 1, bez rozpatrzenia, jeżeli nie są spełnione warunki, o których mowa w ust. 1 i 3, lub wniosek został złożony przez podmiot świadczący profesjonalne usługi prawne.
+
+5. Prezes Urzędu zamieszcza opinie, o których mowa w ust. 1, wydane z urzędu na stronie internetowej Urzędu.”;
+
+- **157)** w art. 158 ust. 2 otrzymuje brzmienie: „2. Uprawnionymi do zgłaszania kandydatów są w szczególności kluby parlamentarne, ogólnokrajowe organizacje samorządu terytorialnego, ogólnokrajowe organizacje przedsiębiorców oraz Rada Dialogu Społecznego.”;
+- **158)** w art. 176a ust. 3 otrzymuje brzmienie: „3. Ogłoszenie, o którym mowa w ust. 2, zamieszcza się w Biuletynie Informacji Publicznej Urzędu oraz Kancelarii Prezesa Rady Ministrów, a także w prasie o zasięgu ogólnopolskim.”;
+- **159)** w art. 180:
+    - **a)** w ust. 2: – pkt 2 otrzymuje brzmienie: „2) określenia warunków udziału w postępowaniu;”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) opisu przedmiotu zamówienia;
+
+- **6)** wyboru najkorzystniejszej oferty.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Odwołanie wnosi się do Prezesa Izby w formie pisemnej lub w postaci elektronicznej, podpisane bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu lub równoważnego środka, spełniającego wymagania dla tego rodzaju podpisu.”,
+    - **c)** w ust. 5 zdanie drugie otrzymuje brzmienie: „Domniemywa się, iż zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przesłanie jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej.”;
+
+- **160)** w art. 182 w ust. 1 pkt 1 i 2 otrzymują brzmienie: „1) w terminie 10 dni od dnia przesłania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia – jeżeli zostały przesłane w sposób określony w art. 180 ust. 5 zdanie drugie albo w terminie 15 dni – jeżeli zostały przesłane w inny sposób – w przypadku gdy wartość zamówienia jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8;
+- **2)** w terminie 5 dni od dnia przesłania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia – jeżeli zostały przesłane w sposób określony w art. 180 ust. 5 zdanie drugie albo w terminie 10 dni – jeżeli zostały przesłane w inny sposób – w przypadku gdy wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8.”;
+- **161)** w art. 183 ust. 6 otrzymuje brzmienie: „6. Wniosek, o którym mowa w ust. 2, zamawiający może złożyć za pośrednictwem operatora pocztowego, w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, osobiście, za pośrednictwem posłańca albo w postaci elektronicznej, podpisany bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu lub równoważnego środka, spełniającego wymagania dla tego rodzaju podpisu.”;
+- **162)** w art. 185 dodaje się ust. 8 w brzmieniu: „8. Jeżeli koniec terminu do wykonania czynności przypada na sobotę lub dzień ustawowo wolny od pracy, termin upływa dnia następnego po dniu lub dniach wolnych od pracy.”;
+- **163)** w art. 186:
+    - **a)** w ust. 1 wyrazy „na piśmie” zastępuje się wyrazami „w formie pisemnej”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku uwzględnienia przez zamawiającego części zarzutów przedstawionych w odwołaniu i wycofania pozostałych zarzutów przez odwołującego, Izba może umorzyć postępowanie na posiedzeniu niejawnym bez obecności stron oraz uczestników postępowania odwoławczego, którzy przystąpili do postępowania po stronie wykonawcy, pod warunkiem że w postępowaniu odwoławczym po stronie zamawiającego nie przystąpił w terminie żaden wykonawca albo wykonawca, który przystąpił po stronie zamawiającego nie wniósł sprzeciwu wobec uwzględnienia części zarzutów. W takim przypadku zamawiający wykonuje, powtarza lub unieważnia czynności w postępowaniu o udzielenie zamówienia zgodnie z żądaniem zawartym w odwołaniu w zakresie uwzględnionych zarzutów.”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Jeżeli uczestnik postępowania odwoławczego, który przystąpił do postępowania po stronie zamawiającego, wniesie sprzeciw wobec uwzględnienia zarzutów przedstawionych w odwołaniu w całości albo w części, gdy odwołujący nie wycofa pozostałych zarzutów odwołania, Izba rozpoznaje odwołanie.”,
+    - **d)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W przypadku uwzględnienia przez zamawiającego zarzutów w części, gdy po jego stronie do postępowania odwoławczego nie przystąpił w terminie żaden wykonawca, a odwołujący nie wycofał pozostałych zarzutów, Izba rozpoznaje odwołanie w zakresie pozostałych zarzutów.”,
+    - **e)** w ust. 5 wyrazy „na piśmie” zastępuje się wyrazami „w formie pisemnej”,
+    - **f)** w ust. 6: – pkt 1 otrzymuje brzmienie: „1) w okolicznościach, o których mowa w ust. 2 i 3a, znosi się wzajemnie;”, – w pkt 2 lit. b otrzymuje brzmienie: „b) znosi się wzajemnie, jeżeli zamawiający uwzględnił w całości lub w części zarzuty przedstawione w odwołaniu przed otwarciem rozprawy;”, – w pkt 3 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) w okolicznościach, o których mowa w ust. 4a, ponosi:
+    - **a)** odwołujący, jeżeli odwołanie, w części zarzutów, których zamawiający nie uwzględnił, zostało oddalone przez Izbę,
+    - **b)** zamawiający, jeżeli odwołanie, w części zarzutów, których zamawiający nie uwzględnił, zostało uwzględnione przez Izbę.”.
+
 **Art. 2.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2015 r. poz. 1446 oraz z 2016 r. poz. 352) po art. 23 dodaje się art. 23a–23d w brzmieniu: „Art. 23a. Podmiot prowadzący działalność archiwalną, udzielając zamówienia, o którym mowa w art. 4d ust. 1 pkt 2 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164 oraz z 2016 r. poz. 831, 996 i 1020), którego wartość przekracza wyrażoną w złotych równowartość kwoty 30 000 euro, zamieszcza ogłoszenie o zamówieniu na swojej stronie podmiotowej Biuletynu Informacji Publicznej.
 
 **Art. 23b.** Zamówienie, o którym mowa w art. 23a, jest udzielane w sposób zapewniający przejrzystość, równe traktowanie podmiotów zainteresowanych wykonaniem zamówienia oraz z uwzględnieniem okoliczności mogących mieć wpływ na jego udzielenie.
@@ -1336,23 +1686,84 @@ source: "isap-pdf"
 
 **Art. 5.** W ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2015 r. poz. 282) wprowadza się następujące zmiany:
 
+- **1)** w art. 8 ust. 3 otrzymuje brzmienie: „3. Zarządzający realizując zadania określone planem rozwoju strefy, o którym mowa w art. 9, może zlecać osobom trzecim wykonanie niektórych zadań, o których mowa w ust. 1.”;
+- **2)** po art. 8 dodaje się art. 8a w brzmieniu: „Art. 8a. 1. Zarządzający będący podmiotem, o którym mowa w art. 3 ust. 1 pkt 3 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164 oraz z 2016 r. poz. 831, 996 i 1020), udzielając zamówienia, o którym mowa w art. 4d ust. 1 pkt 9 tej ustawy, którego wartość przekracza wyrażoną w złotych równowartość kwoty 30 000 euro, zamieszcza ogłoszenie o udzielanym zamówieniu na swojej stronie podmiotowej Biuletynu Informacji Publicznej.
+
+2. Zamówienie, o którym mowa w ust. 1, jest udzielane w sposób zapewniający zachowanie przejrzystości i równego traktowania podmiotów zainteresowanych wykonaniem zamówienia oraz z uwzględnieniem okoliczności mogących mieć wpływ na jego udzielenie.
+
+3. Zarządzający nie udostępnia informacji związanych z zamówieniem, o którym mowa w ust. 1, stanowiących tajemnicę przedsiębiorstwa w rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm. ), jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zawarciem umowy o wykonanie tego zamówienia, zastrzegł, że nie mogą być one udostępniane.
+
+4. Zarządzający zamieszcza niezwłocznie na swojej stronie podmiotowej Biuletynu Informacji Publicznej informację o udzieleniu zamówienia, o którym mowa w ust. 1, podając nazwę albo imię i nazwisko podmiotu, z którym zawarł umowę o wykonanie zamówienia, albo informację o nieudzieleniu tego zamówienia.”.
+
 **Art. 6.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2015 r. poz. 641 i 901 oraz z 2016 r. poz. 615 i 770) w art. 1a ust. 4 otrzymuje brzmienie: „4. Spółka jest związana ofertą do upływu terminu określonego w opisie warunków koncesji, w ogłoszeniu o zamówieniu w przypadku przetargu nieograniczonego, albo w zaproszeniu do składania ofert, w przypadku pozostałych trybów udzielania zamówień publicznych.”.
 
 **Art. 7.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2016 r. poz. 250) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 w ust. 2 w pkt 9 lit. c otrzymuje brzmienie: „c) osiągniętych przez gminę oraz podmioty odbierające odpady komunalne na podstawie umowy z właścicielem nieruchomości, w danym roku kalendarzowym, wymaganych poziomach recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami oraz ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania,”;
+- **2)** uchyla się art. 3a;
+- **3)** w art. 6c po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku gdy rada gminy w drodze uchwały, o której mowa w ust. 2, postanowi o odbieraniu odpadów komunalnych od właścicieli nieruchomości, na których nie zamieszkują mieszkańcy, wójt, burmistrz lub prezydent miasta jest obowiązany zorganizować przetarg w trybie ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164 oraz z 2016 r. poz. 831, 996 i 1020) na odbieranie odpadów komunalnych od właścicieli tych nieruchomości albo na odbieranie i zagospodarowanie takich odpadów.”;
+- **4)** w art. 6d:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Wójt, burmistrz lub prezydent miasta jest obowiązany udzielić zamówienia publicznego na odbieranie odpadów komunalnych od właścicieli nieruchomości, o których mowa w art. 6c, albo zamówienia publicznego na odbieranie i zagospodarowanie tych odpadów.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. W przypadku gdy gmina jest podzielona na sektory, postępowanie o udzielenie zamówienia publicznego, o którym mowa w ust. 1, przeprowadza się odrębnie dla każdego z wyznaczonych sektorów.”,
+    - **c)** w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wójt, burmistrz lub prezydent miasta w przypadku sporządzania specyfikacji istotnych warunków zamówienia określa w niej w szczególności:”;
+
+- **5)** uchyla się art. 6e;
+- **6)** w art. 6f:
+    - **a)** uchyla się ust. 1,
+    - **b)** ust. 1a otrzymuje brzmienie: „1a. Umowa w sprawie zamówienia publicznego na odbieranie albo odbieranie i zagospodarowanie odpadów komunalnych od właścicieli nieruchomości określa instalację lub instalacje, w tym regionalne instalacje do przetwarzania odpadów komunalnych, do których podmiot odbierający odpady komunalne od właścicieli nieruchomości jest obowiązany przekazać odebrane odpady. W przypadku niewielkich ilości odebranych odpadów selektywnie zbieranych niepodlegających przekazaniu do regionalnej instalacji do przetwarzania odpadów komunalnych możliwe jest wskazanie podmiotu zbierającego te odpady.”,
+    - **c)** uchyla się ust. 2;
+
+- **7)** uchyla się art. 6g;
+- **8)** art. 9g i art. 9h otrzymują brzmienie: „Art. 9g. Podmiot odbierający odpady komunalne na podstawie umowy z właścicielem nieruchomości jest obowiązany do osiągnięcia w danym roku kalendarzowym w odniesieniu do masy odebranych przez siebie odpadów komunalnych poziomów recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami oraz ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania, określonych w przepisach wydanych na podstawie art. 3b ust. 2 i art. 3c ust. 2.
+
 **Art. 9h.** Podmiot odbierający odpady komunalne na podstawie umowy z właścicielem nieruchomości jest obowiązany przekazać właścicielowi nieruchomości, od którego odbiera odpady komunalne, rachunek, w którym są wyszczególnione koszty odbierania i zagospodarowania odpadów komunalnych.”;
+
+- **9)** w art. 9j w ust. 2 pkt 5 otrzymuje brzmienie: „5) przedsiębiorca odbierający odpady komunalne na podstawie umowy z właścicielem nieruchomości w kolejnym roku kalendarzowym nie osiągnął poziomów recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami oraz ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania, określonych w przepisach wydanych na podstawie art. 3b ust. 2 i art. 3c ust. 2.”;
+- **10)** w art. 9n ust. 4 otrzymuje brzmienie: „4. Podmiot odbierający odpady komunalne na podstawie umowy z właścicielem nieruchomości jest obowiązany zamieścić w sprawozdaniu także informacje o osiągniętych poziomach recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami oraz ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania w ostatnim sprawozdaniu składanym za dany rok.”;
+- **11)** w art. 9x w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Przedsiębiorca odbierający odpady komunalne na podstawie umowy z właścicielem nieruchomości, który nie wykonuje obowiązku określonego w art. 9g – podlega karze pieniężnej, obliczonej odrębnie dla wymaganego poziomu:”;
 
 **Art. 8.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. poz. 555, z późn. zm. ) art. 276 otrzymuje brzmienie: „Art. 276. Tytułem środka zapobiegawczego można zawiesić oskarżonego w czynnościach służbowych lub w wykonywaniu zawodu albo nakazać powstrzymanie się od określonej działalności lub od prowadzenia określonego rodzaju pojazdów, lub zakazać ubiegania się o zamówienia publiczne na czas trwania postępowania.”.
 
 **Art. 9.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543 i 749) wprowadza się następujące zmiany:
 
+- **1)** w art. 9 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw gospodarki sprawuje nadzór nad Prezesem Głównego Urzędu Miar i Prezesem Urzędu Zamówień Publicznych oraz nad działalnością Urzędu Patentowego Rzeczypospolitej Polskiej.”;
+- **2)** w art. 33a w ust. 1 uchyla się pkt 13.
+
 **Art. 10.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2015 r. poz. 1212, 1844 i 1855 oraz z 2016 r. poz. 437 i 544) w art. 26a:
 
+- **1)** ust. 1 otrzymuje brzmienie: „1. W postępowaniu w sprawie odpowiedzialności podmiotu zbiorowego lub w postępowaniu karnym albo postępowaniu w sprawie o przestępstwo skarbowe przeciwko osobie, o której mowa w art. 3, o czyn zabroniony określony w art. 16, sąd może zastosować wobec podmiotu zbiorowego środek zapobiegawczy w postaci zakazu łączenia się, podziału lub przekształcenia się podmiotu zbiorowego, zakazu ubiegania się o zamówienia publiczne na czas trwania tych postępowań, a także obciążania w tym czasie bez zgody sądu swojego majątku lub zbywania bez takiej zgody określonych przez sąd składników majątkowych.”;
+- **2)** dodaje się ust. 3 i 4 w brzmieniu: „3. Okres wykonywania środka zapobiegawczego w postaci zakazu ubiegania się o zamówienia publiczne na czas trwania postępowania zalicza się do okresu, na który orzeczono zakaz, o którym mowa w art. 9 ust. 1 pkt 4.
+
+4. W przypadku zastosowania środka zapobiegawczego w postaci zakazu ubiegania się o zamówienia publiczne na czas trwania postępowania, przy orzekaniu zakazu, o którym mowa w art. 9 ust. 1 pkt 4, nie stosuje się przepisu art. 14.”.
+
 **Art. 11.** W ustawie z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2013 r. poz. 168 oraz z 2012 r. poz. 1529) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 ust. 2 otrzymuje brzmienie: „2. W przypadku naruszenia dyscypliny finansów publicznych określonego w art. 17, osoba obowiązana lub upoważniona do działania w imieniu podmiotu publicznego lub prywatnego, który oferuje pomocnicze działania zakupowe na rynku, któremu kierownik zamawiającego powierzył przygotowanie lub przeprowadzenie postępowania o udzielenie zamówienia publicznego, podlega odpowiedzialności za to naruszenie, jeżeli zamawiający jest jednostką sektora finansów publicznych lub udzielane zamówienie publiczne jest finansowane ze środków publicznych.”;
+- **2)** w art. 17:
+    - **a)** w ust. 1: – pkt 3 otrzymuje brzmienie: „3) określenie warunków udziału w postępowaniu o udzielenie zamówienia publicznego lub wymaganych od wykonawców środków dowodowych w sposób niezwiązany z przedmiotem zamówienia lub nieproporcjonalny do przedmiotu zamówienia;”, – pkt 5 otrzymuje brzmienie: „5) nieprzekazanie do publikacji w Dzienniku Urzędowym Unii Europejskiej lub niezamieszczenie w Biuletynie Zamówień Publicznych ogłoszenia o zamówieniu, ogłoszenia o ustanowieniu systemu kwalifikowania wykonawców, ogłoszenia o sprostowaniu, zmianach lub dodatkowych informacjach odnośnie do takich ogłoszeń lub ogłoszenia o udzieleniu zamówienia;”, – po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „5a) niezamieszczenie specyfikacji istotnych warunków zamówienia na stronie internetowej;
+
+- **5b)** łączenie zamówień albo dzielenie zamówienia na odrębne zamówienia publiczne w celu uniknięcia stosowania przepisów o zamówieniach publicznych;”,
+    - **b)** po ust. 1b dodaje się ust. 1ba w brzmieniu: „1ba. Naruszeniem dyscypliny finansów publicznych jest zawarcie umowy ramowej:
+
+- **1)** bez przeprowadzenia postępowania w trybie określonym w przepisach o zamówieniach publicznych;
+- **2)** z naruszeniem przepisów o zamówieniach publicznych dotyczących przesłanek stosowania trybu negocjacji bez ogłoszenia lub trybu zamówienia z wolnej ręki.”,
+    - **c)** ust. 1c otrzymuje brzmienie: „1c. Naruszeniem dyscypliny finansów publicznych jest naruszenie przepisów o zamówieniach publicznych w inny sposób niż określony w ust. 1, 1b i 1ba, jeżeli miało ono wpływ odpowiednio na wynik postępowania o udzielenie zamówienia publicznego lub zawarcie umowy ramowej, chyba że nie doszło do udzielenia zamówienia lub zawarcia umowy ramowej.”,
+    - **d)** po ust. 1c dodaje się ust. 1d w brzmieniu: „1d. Naruszeniem dyscypliny finansów publicznych jest zawarcie umowy ramowej w sposób, który mógłby zakłócać konkurencję.”,
+    - **e)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Naruszeniem dyscypliny finansów publicznych jest zawarcie umowy w sprawie zamówienia publicznego lub umowy ramowej:”,
+    - **f)** ust. 4 otrzymuje brzmienie: „4. Naruszeniem dyscypliny finansów publicznych jest niezłożenie przez kierownika zamawiającego, członka komisji przetargowej oraz inne osoby wykonujące czynności w postępowaniu o udzielenie zamówienia publicznego po stronie zamawiającego lub mogące mieć wpływ na wynik tego postępowania oświadczenia o braku lub istnieniu okoliczności powodujących wyłączenie z tego postępowania.”,
+    - **g)** ust. 6 otrzymuje brzmienie: „6. Naruszeniem dyscypliny finansów publicznych jest zmiana umowy w sprawie zamówienia publicznego lub umowy ramowej z naruszeniem przepisów o zamówieniach publicznych.”,
+    - **h)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Naruszeniem dyscypliny finansów publicznych jest udzielenie zamówienia publicznego na podstawie umowy ramowej z istotną zmianą warunków udzielenia zamówienia publicznego określonych w umowie ramowej.”;
+
+- **3)** w art. 18c w ust. 1:
+    - **a)** po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) zawarcie umowy ramowej bez przeprowadzenia postępowania w trybie określonym w przepisach o zamówieniach publicznych;”,
+    - **b)** pkt 6 otrzymuje brzmienie: „6) zawarcie umowy w sprawie zamówienia publicznego lub umowy ramowej z naruszeniem przepisów o zamówieniach publicznych dotyczących formy pisemnej umowy, okresu, na który umowa może być zawarta, lub w przypadku wniesienia odwołania, terminu jej zawarcia;”.
 
 **Art. 12.** W ustawie z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2014 r. poz. 1620 oraz z 2015 r. poz. 249 i 1268) w art. 1 pkt 2 otrzymuje brzmienie: „2) udzielania zamówień, o których mowa w art. 4d ust. 1 pkt 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164 oraz z 2016 r. poz. 831, 996 i 1020), jeżeli ich wartość przekracza wyrażoną w złotych równowartość kwoty 30 000 euro, zwanych dalej „zamówieniami z dziedziny nauki”, przez podmioty określone w art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, do których stosuje się przepisy ustawy, zwane dalej „podmiotami zamawiającymi”.”.
 
 **Art. 13.** W ustawie z dnia 9 października 2015 r. o rewitalizacji (Dz. U. poz. 1777) w art. 36:
+
+- **1)** ust. 1 otrzymuje brzmienie: „1. Podmiot, udzielając zamówienia, o którym mowa w art. 4d ust. 1 pkt 5 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164 oraz z 2016 r. poz. 831, 996 i 1020), zamieszcza ogłoszenie o udzielanym zamówieniu na swojej stronie podmiotowej Biuletynu Informacji Publicznej.”;
+- **2)** uchyla się ust. 6.
 
 **Art. 14.** Przepis art. 13a ustawy zmienianej w art. 1 w zakresie zamieszczania planów postępowań o udzielenie zamówień publicznych na stronie internetowej ma zastosowanie po raz pierwszy do planów sporządzanych na 2017 r.
 
@@ -1376,7 +1787,21 @@ source: "isap-pdf"
 
 **Art. 18.** W postępowaniach o udzielenie zamówienia publicznego prowadzonych przez innych zamawiających niż centralny zamawiający, których wartość zamówienia jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem 18 października 2018 r., a w przypadku postępowań prowadzonych przez centralnego zamawiającego, przed dniem 18 kwietnia 2017 r.:
 
+- **1)** komunikacja między zamawiającym a wykonawcami odbywa się zgodnie z wyborem zamawiającego za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529 oraz z 2015 r. poz. 1830), osobiście, za pośrednictwem posłańca, faksu lub przy użyciu środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422, z 2015 r. poz. 1844 oraz z 2016 r. poz. 147 i 615);
+- **2)** jeżeli zamawiający lub wykonawca przekazują oświadczenia, wnioski, zawiadomienia oraz informacje za pośrednictwem faksu lub przy użyciu środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, każda ze stron na żądanie drugiej strony niezwłocznie potwierdza fakt ich otrzymania;
+- **3)** w przypadku zamówień na roboty budowlane lub konkursów zamawiający może wymagać użycia narzędzi elektronicznego modelowania danych budowlanych lub podobnych narzędzi, jeżeli takie narzędzia są ogólnie dostępne lub zamawiający zapewnia alternatywne środki dostępu do takich narzędzi;
+- **4)** oferty i wnioski o dopuszczenie do udziału w postępowaniu o udzielenie zamówienia publicznego składa się pod rygorem nieważności w formie pisemnej albo – za zgodą zamawiającego – w postaci elektronicznej, podpisane odpowiednio własnoręcznym podpisem albo kwalifikowanym podpisem elektronicznym;
+- **5)** termin, o którym mowa w:
+    - **a)** art. 43 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, wynosi 40 dni,
+    - **b)** art. 52 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, wynosi 35 dni.”.
+
 **Art. 18a.** W postępowaniach o udzielenie zamówienia publicznego prowadzonych przez innych zamawiających niż centralny zamawiający, których wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem 1 stycznia 2021 r.:
+
+- **1)** komunikacja między zamawiającym a wykonawcami odbywa się zgodnie z wyborem zamawiającego za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, osobiście, za pośrednictwem posłańca, faksu lub przy użyciu środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną;
+- **2)** wybrany przez zamawiającego sposób przekazywania oświadczeń, wniosków, zawiadomień oraz informacji nie może ograniczać konkurencji;
+- **3)** jeżeli zamawiający lub wykonawca przekazują oświadczenia, wnioski, zawiadomienia oraz informacje za pośrednictwem faksu lub przy użyciu środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, każda ze stron na żądanie drugiej strony niezwłocznie potwierdza fakt ich otrzymania;
+- **4)** oferty i wnioski o dopuszczenie do udziału w postępowaniu o udzielenie zamówienia publicznego oraz oświadczenie, o którym mowa w art. 25a ustawy zmienianej w art. 1, składa się, pod rygorem nieważności, w formie pisemnej, albo – za zgodą zamawiającego – w postaci elektronicznej, opatrzone odpowiednio własnoręcznym podpisem albo kwalifikowanym podpisem elektronicznym;
+- **5)** w przypadku zamówień na roboty budowlane lub konkursów zamawiający może wymagać użycia narzędzi elektronicznego modelowania danych budowlanych lub podobnych narzędzi, jeżeli takie narzędzia są ogólnie dostępne lub zamawiający zapewnia alternatywne środki dostępu do takich narzędzi.
 
 **Art. 19.**
 
@@ -1428,4 +1853,9 @@ source: "isap-pdf"
 4. Organem właściwym do monitorowania wykorzystania limitu wydatków, o których mowa w ust. 1, oraz odpowiedzialnym za wdrożenie mechanizmu korygującego, o którym mowa w ust. 3, jest Prezes Urzędu Zamówień Publicznych.
 
 **Art. 22.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 31, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia;
+- **2)** art. 1 pkt 52 lit. a, pkt 85 lit. a tiret szóste i lit. d w zakresie ust. 8–13, pkt 147, pkt 150 lit. b, pkt 151 oraz art. 7, które wchodzą w życie z dniem 1 stycznia 2017 r.;
+- **3)** art. 1 pkt 94 lit. g w zakresie ust. 7c, który wchodzi w życie po upływie 24 miesięcy od dnia ogłoszenia.
+
 

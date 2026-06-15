@@ -8,7 +8,7 @@ pos: 1070
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o systemie zarządzania emisjami gazów cieplarnianych i innych substancji
@@ -53,6 +53,48 @@ source: "isap-pdf"
 2. Wykaz gazów cieplarnianych i innych substancji wprowadzanych do powietrza, objętych systemem zarządzania emisjami gazów cieplarnianych i innych substancji, określa załącznik nr 1 do ustawy.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** akredytowanej niezależnej jednostce – rozumie się przez to jednostkę upoważnioną do oceny dokumentacji projektowej, o której mowa w art. 40 ust. 7 pkt 1, oraz weryfikacji wielkości jednostek redukcji emisji uzyskanych w wyniku realizacji projektu wspólnych wdrożeń, wyłonioną lub wskazaną przez Komitet Nadzorujący;
+- **2)** aktywności – rozumie się przez to parametry charakteryzujące działalność, której skutkiem jest emisja, takie jak: wielkość produkcji, wielkość zużycia surowców lub paliw, ilość wytworzonych odpadów;
+- **3)** bilansowaniu emisji – rozumie się przez to określanie i prognozowanie wielkości emisji, emisji unikniętej, emisji zredukowanej oraz gromadzenie i przetwarzanie informacji o tych wielkościach, przy wykorzystaniu danych gromadzonych na potrzeby polityki krajowej oraz na potrzeby wypełnienia zobowiązań międzynarodowych; 3 ) certyfikacie CBAM – rozumie się przez to certyfikat CBAM w rozumieniu art. 3 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956;
+- **3a)** długoterminowej jednostce poświadczonej redukcji emisji – rozumie się przez to jednostkę, o której mowa w art. 3 pkt 9 rozporządzenia Komisji (UE) nr 389/2013 z dnia 2 maja 2013 r. ustanawiającego rejestr Unii zgodnie z dyrektywą 2003/87/WE Parlamentu Europejskiego i Rady, decyzjami nr 280/2004/WE i nr 406/2009/WE Parlamentu Europejskiego i Rady oraz uchylającego rozporządzenia Komisji (UE) nr 920/2010 i nr 1193/2011 (Dz. Urz. UE L 122 z 03.05.2013, str. 1), zwanego dalej „rozporządzeniem Komisji (UE) nr 389/2013”;
+- **4)** ekwiwalencie – rozumie się przez to jeden megagram (1 Mg) dwutlenku węgla (CO ) albo ilość innego gazu cieplarnianego stanowiącą odpowiednik jednego megagrama (1 Mg) dwutlenku węgla (CO ), obliczoną z wykorzystaniem odpowiedniego współczynnika ocieplenia;
+- **5)** emisji – rozumie się przez to wprowadzane w wyniku działalności człowieka, bezpośrednio lub pośrednio do powietrza, gazy cieplarniane lub inne substancje;
+- **6)** emisji unikniętej – rozumie się przez to wielkość emisji, jaka mogłaby zostać wprowadzona do powietrza w danym roku z instalacji w ramach technologii stosowanych powszechnie do wytwarzania określonego produktu na terytorium Rzeczypospolitej Polskiej, a na skutek zastosowania innego rozwiązania technicznego lub technologicznego albo innych surowców lub paliw w nowej instalacji nie została wprowadzona do powietrza;
+- **6a)** emisjach wbudowanych – rozumie się przez to emisje wbudowane w rozumieniu art. 3 pkt 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956;
+- **7)** emisji zredukowanej – rozumie się przez to niewynikającą z obniżenia produkcji wielkość emisji, jaka nie została wprowadzona do powietrza w danym roku z instalacji istniejącej wskutek podjętych działań modernizacyjnych, mających na celu obniżenie wielkości emisji przypadającej na jednostkę powstającego produktu lub jednostkę wykorzystywanego surowca, materiału lub paliwa w zakładzie, na którego terenie jest położona instalacja;
+- **8)** gospodarce leśnej – rozumie się przez to działalność w zakresie urządzania, ochrony i zagospodarowywania lasu, utrzymywania i powiększania zasobów i upraw leśnych oraz pozyskiwania, z wyjątkiem skupu, drewna, żywicy, choinek, karpiny, kory, igliwia i płodów runa leśnego;
+- **9)** instalacji – rozumie się przez to instalację w rozumieniu art. 3 pkt 6 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176);
+- **10)** jednostce Kioto – rozumie się przez to jednostkę poświadczonej redukcji emisji, jednostkę przyznanej emisji, jednostkę redukcji emisji lub jednostkę pochłaniania;
+- **11)** jednostce pochłaniania – rozumie się przez to jeden megagram (1 Mg) dwutlenku węgla (CO ) pochłonięty w wyniku:
+    - **a)** działalności człowieka mającej na celu zwiększenie pochłaniania dwutlenku węgla (CO ) przez gleby użytkowane rolniczo,
+    - **b)** zmian sposobów użytkowania gruntów rolnych lub leśnych, w tym w zakresie zalesiania, ponownego zalesiania i wylesiania,
+    - **c)** prowadzonej gospodarki leśnej;
+
+- **12)** jednostce poświadczonej redukcji emisji – rozumie się przez to wyrażoną w ekwiwalencie emisję zredukowaną gazów cieplarnianych lub emisję unikniętą gazów cieplarnianych, otrzymaną w wyniku realizacji projektu mechanizmu czystego rozwoju;
+- **13)** jednostce przyznanej emisji – rozumie się przez to wyrażoną w ekwiwalencie emisję gazów cieplarnianych przyznaną państwu uprawnionemu zgodnie z Protokołem z Kioto do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, sporządzonym w Kioto dnia 11 grudnia 1997 r. (Dz. U. z 2005 r. poz. 1684), zwanym dalej „Protokołem z Kioto”;
+- **14)** jednostce redukcji emisji – rozumie się przez to wyrażoną w ekwiwalencie emisję zredukowaną gazów cieplarnianych lub emisję unikniętą gazów cieplarnianych lub jeden megagram (1 Mg) pochłoniętego dwutlenku węgla (CO ), otrzymane w wyniku realizacji projektu wspólnych wdrożeń;
+- **14a)** jednostce rocznych limitów emisji – rozumie się przez to jednostkę rocznych limitów emisji w rozumieniu art. 3 pkt 24 rozporządzenia delegowanego Komisji (UE) 2019/1122 z dnia 12 marca 2019 r. uzupełniającego dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do funkcjonowania rejestru Unii (Dz. Urz. UE L 177 z 02.07.2019, str. 3 oraz Dz. Urz. UE L 177 z 02.07.2019, str. 66);
+- **15)** Komitecie Nadzorującym – rozumie się przez to organ wykonawczy Protokołu z Kioto powołany w celu nadzorowania realizacji projektów wspólnych wdrożeń realizowanych w ramach ścieżki drugiej, o której mowa w art. 37 ust. 3;
+- **16)** Krajowej rezerwie jednostek Kioto – rozumie się przez to ilość jednostek Kioto, jaką Rzeczpospolita Polska jest obowiązana utrzymywać w Krajowym rejestrze jednostek Kioto w danym okresie rozliczeniowym zgodnie z przepisami prawa międzynarodowego lub przepisami prawa Unii Europejskiej;
+- **17)** krajowym pułapie emisji – rozumie się przez to maksymalną wielkość emisji, jaka może być wyemitowana na terytorium Rzeczypospolitej Polskiej w danym okresie rozliczeniowym, wynikającą z przepisów prawa międzynarodowego lub przepisów prawa Unii Europejskiej;
+- **17a)** mechanizmie CBAM – rozumie się przez to mechanizm dostosowywania cen na granicach z uwzględnieniem emisji CO w rozumieniu art. 1 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956;
+- **17b)** okresie przejściowym – rozumie się przez to okres przejściowy, o którym mowa w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956;
+- **18)** okresie rozliczeniowym – rozumie się przez to przedział czasu, w którym są określane emisje w celu uzyskania informacji niezbędnych do wsparcia działań zmierzających do wywiązania się Rzeczypospolitej Polskiej z zobowiązań międzynarodowych w zakresie redukcji emisji;
+- **19)** państwach uprawnionych – rozumie się przez to państwa wymienione w Załączniku I do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, sporządzonej w Nowym Jorku dnia 9 maja 1992 r. (Dz. U. z 1996 r. poz. 238 i 239), zwanej dalej „Konwencją Klimatyczną”, które ratyfikowały Protokół z Kioto, zgodnie z art. 1 ust. 7 Protokołu z Kioto;
+- **20)** podmiocie korzystającym ze środowiska – rozumie się przez to podmiot korzystający ze środowiska w rozumieniu art. 3 pkt 20 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **20a)** (uchylony)
+- **21)** poziomie bazowym – rozumie się przez to szacunkową, określoną z największym prawdopodobieństwem, wielkość emisji gazów cieplarnianych, jaka miałaby miejsce w przypadku, gdyby projekt wspólnych wdrożeń lub projekt mechanizmu czystego rozwoju nie został zrealizowany, stanowiącą poziom odniesienia pozwalający określić emisję zredukowaną lub emisję unikniętą;
+- **22)** projekcie mechanizmu czystego rozwoju – rozumie się przez to przedsięwzięcie realizowane przez państwo uprawnione na terytorium innego państwa niż państwo uprawnione, które ma na celu redukcję lub uniknięcie emisji gazów cieplarnianych, a także pochłanianie dwutlenku węgla (CO ) będące następstwem zalesiania lub ponownego zalesiania;
+- **23)** projekcie wspólnych wdrożeń – rozumie się przez to przedsięwzięcie realizowane przez państwo uprawnione na terytorium innego państwa uprawnionego, które ma na celu redukcję, uniknięcie emisji gazów cieplarnianych lub pochłanianie dwutlenku węgla (CO );
+- **24)** prowadzącym instalację – rozumie się przez to prowadzącego instalację w rozumieniu art. 3 pkt 31 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska; 24 ) rejestrze CBAM – rozumie się przez to elektroniczną bazę danych, o której mowa w art. 14 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956; 24 ) rejestrze przejściowym CBAM – rozumie się przez to rejestr przejściowy CBAM, o którym mowa w art. 10 ust. 1 rozporządzenia wykonawczego Komisji (UE) 2023/1773; 24 ) sprawozdaniu CBAM – rozumie się przez to sprawozdanie kwartalne w rozumieniu art. 35 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956;
+- **24a)** tymczasowej jednostce poświadczonej redukcji emisji – rozumie się przez to jednostkę, o której mowa w art. 3 pkt 11 rozporządzenia Komisji (UE) nr 389/2013;
+- **24b)** upoważnionym zgłaszającym CBAM – rozumie się przez to upoważnionego zgłaszającego CBAM w rozumieniu art. 3 pkt 17 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956;
+- **25)** uprawnieniu do emisji – rozumie się przez to uprawnienie do emisji w rozumieniu przepisów o systemie handlu uprawnieniami do emisji gazów cieplarnianych;
+- **26)** urządzeniu – rozumie się przez to urządzenie w rozumieniu art. 3 pkt 42 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **27)** zakładzie – rozumie się przez to zakład w rozumieniu art. 3 pkt 48 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **27a)** zgłaszającym – rozumie się przez to zgłaszającego objętego obowiązkiem sprawozdawczym w rozumieniu art. 2 pkt 1 rozporządzenia wykonawczego Komisji (UE) 2023/1773;
+- **28)** źródle emisji – rozumie się przez to instalację lub jej część, której eksploatacja powoduje emisję.
 
 #### Rozdział 2 Krajowy ośrodek bilansowania i zarządzania emisjami
 
@@ -185,6 +227,11 @@ source: "isap-pdf"
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
 
 **Art. 6a.** Informacje jednostkowe zawarte w:
+
+- **1)** raporcie, o którym mowa w art. 7 ust. 1,
+- **2)** raporcie, o którym mowa w art. 64 ust. 1 pkt 1 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, oraz w sprawozdaniu z weryfikacji tego raportu,
+- **3)** raporcie, o którym mowa w art. 5 ust. 2 rozporządzenia delegowanego Komisji (UE) 2019/331 z dnia 19 grudnia 2018 r. w sprawie ustanowienia przejściowych zasad dotyczących zharmonizowanego przydziału bezpłatnych uprawnień do emisji w całej Unii na podstawie art. 10a dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 59 z 27.02.2019, str. 8), oraz w sprawozdaniu z weryfikacji tego raportu,
+- **4)** zestawieniach informacji i raportach, o których mowa w art. 3 ust. 3–5 – nie są informacjami publicznymi w rozumieniu przepisów o dostępie do informacji publicznej.
 
 **Art. 7.**
 
@@ -1222,6 +1269,9 @@ source: "isap-pdf"
 
 **Art. 47.** Minister właściwy do spraw klimatu określi, w drodze rozporządzenia, dla projektów wspólnych wdrożeń realizowanych w ramach ścieżki pierwszej:
 
+- **1)** formę i układ sprawozdania z monitorowania, o którym mowa w art. 45 ust. 3, oraz zakres zawartych w nim informacji,
+- **2)** formę i układ raportu z weryfikacji, o którym mowa w art. 45 ust. 6, oraz zakres zawartych w nim informacji – kierując się potrzebą zapewnienia jednolitości, spójności i wiarygodności informacji oraz danych o uzyskanych w wyniku realizacji tych projektów jednostkach redukcji emisji, pozwalających na ocenę prawidłowości wykonania projektów oraz ocenę osiągniętych efektów.
+
 **Art. 48.**
 
 1. Krajowy ośrodek prowadzi wykaz projektów wspólnych wdrożeń realizowanych na terytorium Rzeczypospolitej Polskiej posiadających listy popierające lub listy zatwierdzające.
@@ -1305,6 +1355,11 @@ source: "isap-pdf"
 3. Kopię decyzji udzielającej zgody lub decyzji odmawiającej jej udzielenia minister właściwy do spraw klimatu przekazuje Krajowemu ośrodkowi w terminie 14 dni od dnia ich wydania.
 
 **Art. 53.** Decyzja udzielająca zgody na udział w projekcie powinna zawierać:
+
+- **1)** imię i nazwisko oraz adres zamieszkania albo nazwę, oznaczenie siedziby i adres zgłaszającego projekt;
+- **2)** określenie lokalizacji projektu;
+- **3)** nazwę projektu, dla którego jest wydana;
+- **4)** upoważnienie do udziału w projekcie wspólnych wdrożeń lub projekcie mechanizmu czystego rozwoju.
 
 **Art. 54.** Jednostkami redukcji emisji i jednostkami poświadczonej redukcji emisji uzyskanymi w wyniku realizacji projektów poza terytorium Rzeczypospolitej Polskiej można swobodnie rozporządzać.
 

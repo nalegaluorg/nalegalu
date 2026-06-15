@@ -94,7 +94,11 @@ Minister właściwy do spraw pracy potwierdza prawidłowe dokonanie zgłoszenia 
 
 2. Jeżeli strony sporu zbiorowego nie porozumieją się w ciągu 5 dni w sprawie wyboru mediatora, dalsze postępowanie jest prowadzone z udziałem mediatora wskazanego, na wniosek jednej ze stron, przez ministra właściwego do spraw pracy z listy, o której mowa w ust. 1.
 
-3. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, warunki wynagradzania mediatorów z listy, o której mowa w ust. 1, uwzględniając czas trwania mediacji. Art. 11 [1] . 1. Mediatorom na czas prowadzenia mediacji przysługuje zwolnienie od pracy. Łączny wymiar tego zwolnienia w roku kalendarzowym nie może przekraczać 30 dni.
+3. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, warunki wynagradzania mediatorów z listy, o której mowa w ust. 1, uwzględniając czas trwania mediacji.
+
+**Art. 11¹.**
+
+1. Mediatorom na czas prowadzenia mediacji przysługuje zwolnienie od pracy. Łączny wymiar tego zwolnienia w roku kalendarzowym nie może przekraczać 30 dni.
 
 2. Wynagrodzenie należne mediatorowi oraz zwrot poniesionych kosztów przejazdu i zakwaterowania określa umowa zawarta przez mediatora ze stronami sporu zbiorowego.
 

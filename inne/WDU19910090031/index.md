@@ -8,7 +8,7 @@ pos: 31
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o podatkach i opłatach lokalnych
@@ -30,6 +30,16 @@ source: "isap-pdf"
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa normuje:
+
+- **1)** podatek od nieruchomości;
+- **2)** podatek od środków transportowych;
+- **3)** (uchylony)
+- **4)** opłatę targową;
+- **5)** opłatę miejscową;
+- **5a)** opłatę uzdrowiskową;
+- **5b)** opłatę reklamową;
+- **6)** (uchylony)
+- **7)** opłatę od posiadania psów.
 
 **Art. 1a.**
 
@@ -369,6 +379,14 @@ source: "isap-pdf"
 
 **Art. 8.** Opodatkowaniu podatkiem od środków transportowych podlegają:
 
+- **1)** samochody ciężarowe o dopuszczalnej masie całkowitej powyżej 3,5 tony i poniżej 12 ton;
+- **2)** samochody ciężarowe o dopuszczalnej masie całkowitej równej lub wyższej niż 12 ton;
+- **3)** ciągniki siodłowe i balastowe przystosowane do używania łącznie z naczepą lub przyczepą o dopuszczalnej masie całkowitej zespołu pojazdów od 3,5 tony i poniżej 12 ton;
+- **4)** ciągniki siodłowe i balastowe przystosowane do używania łącznie z naczepą lub przyczepą o dopuszczalnej masie całkowitej zespołu pojazdów równej lub wyższej niż 12 ton;
+- **5)** przyczepy i naczepy, które łącznie z pojazdem silnikowym posiadają dopuszczalną masę całkowitą od 7 ton i poniżej 12 ton, z wyjątkiem związanych wyłącznie z działalnością rolniczą prowadzoną przez podatnika podatku rolnego;
+- **6)** przyczepy i naczepy, które łącznie z pojazdem silnikowym posiadają dopuszczalną masę całkowitą równą lub wyższą niż 12 ton, z wyjątkiem związanych wyłącznie z działalnością rolniczą prowadzoną przez podatnika podatku rolnego;
+- **7)** autobusy.
+
 **Art. 9.**
 
 1. Obowiązek podatkowy w zakresie podatku od środków transportowych, z zastrzeżeniem ust. 2, ciąży na osobach fizycznych i osobach prawnych będących właścicielami środków transportowych. Jak właścicieli traktuje się również jednostki organizacyjne nieposiadające osobowości prawnej, na które środek transportowy jest zarejestrowany, oraz posiadaczy środków transportowych zarejestrowanych na terytorium Rzeczypospolitej Polskiej jako powierzone przez zagraniczną osobę fizyczną lub prawną podmiotowi polskiemu.
@@ -509,6 +527,9 @@ source: "isap-pdf"
 
 **Art. 16.** Zwalnia się od opłaty targowej:
 
+- **1)** osoby i jednostki wymienione w art. 15 ust. 1, które są podatnikami podatku od nieruchomości w związku z przedmiotami opodatkowania położonymi na targowiskach;
+- **2)** rolników i ich domowników prowadzących w piątki i soboty handel w rozumieniu art. 2 pkt 4 ustawy z dnia 29 października 2021 r. o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników (Dz. U. poz. 2290).
+
 **Art. 17.**
 
 1. Rada gminy może wprowadzić opłatę miejscową. Opłatę miejscową pobiera się od osób fizycznych przebywających dłużej niż dobę w celach turystycznych, wypoczynkowych lub szkoleniowych:
@@ -593,6 +614,22 @@ source: "isap-pdf"
 
 **Art. 19.** Rada gminy, w drodze uchwały:
 
+- **1)** określa zasady ustalania i poboru oraz terminy płatności i wysokość stawek opłat określonych w ustawie, z tym że:
+    - **a)** stawka opłaty targowej nie może przekroczyć 597,86 zł dziennie,
+    - **b)** stawka opłaty miejscowej w miejscowościach, o których mowa w art. 17 ust. 1 pkt 1, nie może przekroczyć 1,67 zł dziennie,
+    - **c)** stawka opłaty miejscowej w miejscowościach posiadających status obszaru ochrony uzdrowiskowej nie może przekroczyć 2,40 zł dziennie,
+    - **d)** stawka opłaty uzdrowiskowej nie może przekroczyć 3,33 zł dziennie,
+    - **e)** (uchylona)
+    - **f)** stawka opłaty od posiadania psów nie może przekroczyć 100 zł rocznie od jednego psa,
+    - **g)** stawka części stałej opłaty reklamowej nie może przekroczyć 2,50 zł dziennie,
+    - **h)** stawka części zmiennej opłaty reklamowej nie może przekroczyć 0,20 zł od 1 m pola powierzchni tablicy reklamowej lub urządzenia reklamowego służących ekspozycji reklamy dziennie;
+
+- **2)** może zarządzić pobór tych opłat w drodze inkasa oraz określić inkasentów i wysokość wynagrodzenia za inkaso, a także może wprowadzić obowiązek prowadzenia przez inkasentów ewidencji osób zobowiązanych do uiszczania opłaty miejscowej lub opłaty uzdrowiskowej oraz określić szczegółowy zakres danych zawartych w tych ewidencjach, uwzględniając konieczność zapewnienia prawidłowego poboru tych opłat;
+- **3)** może wprowadzać inne niż wymienione w ustawie zwolnienia przedmiotowe od opłat lokalnych;
+- **4)** może różnicować wysokość stawek opłaty reklamowej uwzględniając lokalizację oraz wielkość lub rodzaj tablicy reklamowej lub urządzenia reklamowego;
+- **5)** może wprowadzić obowiązek składania organowi podatkowemu właściwemu ze względu na miejsce położenia tablic reklamowych lub urządzeń reklamowych, deklaracji na opłatę reklamową, a także określić termin, warunki i tryb składania tych deklaracji; w tym przypadku rada gminy określa wzór formularza deklaracji na opłatę reklamową, w którym zawarte będą dane dotyczące podmiotu i przedmiotu opodatkowania niezbędne do wymiaru i poboru opłaty reklamowej.
+- **6)** (uchylony)
+
 **Art. 19a.**
 
 1. Deklaracje na opłatę reklamową, o których mowa w art. 19 pkt 5, mogą być składane za pomocą środków komunikacji elektronicznej.
@@ -643,4 +680,7 @@ source: "isap-pdf"
 **Art. 23.** Traci moc ustawa z dnia 14 marca 1985 r. o podatkach i opłatach lokalnych (Dz. U. poz. 50, z 1988 r. poz. 132, z 1989 r. poz. 192 i 443 oraz z 1990 r. poz. 198).
 
 **Art. 24.** Ustawa wchodzi w życie z dniem ogłoszenia i ma zastosowanie do opłat należnych po tym dniu oraz poczynając od roku podatkowego 1991 do należnych podatków. Załączniki do ustawy z dnia 12 stycznia 1991 r. (Dz. U. z 2025 r. poz.
+
+- **707)** Załącznik nr 1 Załącznik nr 2 Załącznik nr 3 Załącznik nr 4
+
 

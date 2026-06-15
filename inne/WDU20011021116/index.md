@@ -8,7 +8,7 @@ pos: 1116
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o finansach publicznych, ustawy o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów, ustawy o działach administracji rządowej oraz ustawy o służbie cywilnej
@@ -28,6 +28,11 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011021116) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1116/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. Nr 155, poz. 1014, z 1999 r. Nr 38, poz. 360, Nr 49, poz. 485, Nr 70, poz. 778 i Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69, Nr 12, poz. 136, Nr 48, poz. 550, Nr 95, poz. 1041, Nr 119, poz. 1251 i Nr 122, poz. 1315 oraz z 2001 r. Nr 45, poz. 497, Nr 46, poz. 499, Nr 88, poz. 961, Nr 98, poz. 1070 i Nr 100, poz. 1082) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) zasady kontroli finansowej i audytu wewnętrznego w jednostkach sektora finansów publicznych,”;
+- **2)** art. 28a i art. 28b otrzymują brzmienie: „Art. 28a. 1. Kierownik jednostki sektora finansów publicznych, zwany dalej „kierownikiem jednostki”, jest odpowiedzialny za całość gospodarki finansowej, w tym za wykonywanie określonych ustawą obowiązków w zakresie kontroli finansowej.
+
+2. Kierownik jednostki może powierzyć określone obowiązki w zakresie gospodarki finansowej pracownikom jednostki. Przyjęcie obowiązków przez te osoby powinno być stwierdzone dokumentem.
 
 **Art. 28b.**
 
@@ -191,6 +196,12 @@ source: "isap-pdf"
 
 **Art. 35k.** Audytorem wewnętrznym może być osoba, która:
 
+- **1)** ma obywatelstwo polskie,
+- **2)** ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych,
+- **3)** nie była karana za przestępstwo popełnione z winy umyślnej,
+- **4)** posiada wyższe wykształcenie,
+- **5)** złożyła z pozytywnym wynikiem egzamin przed Komisją Egzaminacyjną, zwaną dalej „Komisją”.
+
 **Art. 35l.**
 
 1. Komisję powołuje na czteroletnią kadencję Minister Finansów spośród pracowników Ministerstwa Finansów, pracowników naukowych lub naukowo-dydaktycznych w dziedzinach objętych zakresem tematycznym egzaminu. W skład Komisji mogą wchodzić także przedstawiciele organizacji, których celem jest promowanie i rozwój audytu wewnętrznego.
@@ -265,6 +276,10 @@ source: "isap-pdf"
 
 **Art. 35s.** Upoważnieni pracownicy, w zakresie przeprowadzanej oceny, mają prawo do:
 
+- **1)** wstępu do obiektów i pomieszczeń jednostki, w której przeprowadza się ocenę,
+- **2)** wglądu do dokumentów i innych materiałów,
+- **3)** uzyskania od pracowników jednostki, w której przeprowadza się ocenę, ustnych i pisemnych wyjaśnień.
+
 **Art. 35t.**
 
 1. Po zakończeniu oceny upoważniony pracownik przedstawia na piśmie wyniki oceny kierownikowi jednostki, w której przeprowadzono ocenę, oraz, za pośrednictwem Głównego Inspektora Audytu Wewnętrznego, Ministrowi Finansów.
@@ -279,6 +294,16 @@ source: "isap-pdf"
 **Art. 3.** W ustawie z dnia z dnia 4 września 1997 r. o działach administracji rządowej (Dz.U. z 1999 r. Nr 82, poz. 928, z 2000 r. Nr 12, poz. 136, Nr 43, poz. 489, Nr 48, poz. 550, Nr 62, poz. 718, Nr 70, poz. 816, Nr 73, poz. 852, Nr 109, poz. 1158 i Nr 122, poz. 1314 i 1321 oraz z 2001 r. Nr 3, poz. 18, Nr 5, poz. 43 i 44, Nr 42, poz. 475, Nr 63, poz. 634, Nr 73, poz. 761, Nr 76, poz. 811 i Nr 87, poz. 954) w art. 8 w ust. 2 po pkt 10 dodaje się pkt 10a w brzmieniu: „10a) koordynację kontroli finansowej i audytu wewnętrznego w jednostkach sektora finansów publicznych,”.
 
 **Art. 4.** W ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej (Dz.U. z 1999 r. Nr 49, poz. 483, Nr 70, poz. 778 i Nr 110, poz. 1255) wprowadza się następujące zmiany:
+
+- **1)** w art. 41 w ust. 1 w pkt 1 po wyrazach „dyrektora generalnego urzędu” dodaje się wyrazy „oraz Głównego Inspektora Audytu Wewnętrznego”;
+- **2)** w art. 59 ust. 5 otrzymuje brzmienie: „5. W stosunku do Sekretarza Rady Ministrów, Głównego Inspektora Audytu Wewnętrznego i dyrektora generalnego urzędu czynności, o których mowa w ust. 1, dokonuje Szef Służby Cywilnej.”;
+- **3)** w art. 64 ust. 2 otrzymuje brzmienie: „2. W stosunku do Sekretarza Rady Ministrów, Głównego Inspektora Audytu Wewnętrznego i dyrektora generalnego urzędu czynności, o których mowa w ust. 1, dokonuje Szef Służby Cywilnej.”;
+- **4)** w art. 72 w ust. 2 dodaje się zdanie drugie w brzmieniu: „Urzędnikowi służby cywilnej zajmującemu stanowisko, o którym mowa w art. 41 ust. 1 pkt 1, zgody udziela Szef Służby Cywilnej.”;
+- **5)** w art. 73 w ust. 2 wyrazy „Dyrektora generalnego urzędu” zastępuje się wyrazami „Głównego Inspektora Audytu Wewnętrznego i dyrektora generalnego urzędu”;
+- **6)** w art. 74 dodaje się ust. 1a w brzmieniu: „1a. W stosunku do Głównego Inspektora Audytu Wewnętrznego i dyrektora generalnego urzędu ocenę, o której mowa w ust. 1, sporządza Szef Służby Cywilnej w porozumieniu z właściwym ministrem, kierownikiem urzędu centralnego lub wojewodą, a w stosunku do Sekretarza Rady Ministrów - Prezes Rady Ministrów.”;
+- **7)** w art. 75 w ust. 1 dodaje się zdanie drugie w brzmieniu: „Od oceny sporządzonej na podstawie art. 74 ust. 1a sprzeciw służy odpowiednio do Szefa Służby Cywilnej i Prezesa Rady Ministrów.”;
+- **8)** w art. 90 w ust. 5 po wyrazach „Prezes Rady Ministrów, a” dodaje się wyrazy „Głównemu Inspektorowi Audytu Wewnętrznego,”;
+- **9)** w art. 106 w ust. 2 w zdaniu drugim, w art. 108 w ust. 4, w art. 114 w ust. 2, w art. 117 w ust. 1 i 2 po wyrazach „Sekretarza Rady Ministrów” dodaje się przecinek i wyrazy „Głównego Inspektora Audytu Wewnętrznego”.
 
 **Art. 5.**
 

@@ -8,7 +8,7 @@ pos: 1448
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
@@ -116,7 +116,70 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 **Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137) wprowadza się następujące zmiany:
 
+- **1)** odnośnik nr 1 otrzymuje brzmienie: „Niniejsza ustawa wdraża postanowienia następujących dyrektyw Unii Europejskiej:
+- **1)** dyrektywy Rady z dnia 16 grudnia 1991 r. odnoszącej się do obowiązkowego stosowania pasów bezpieczeństwa i urządzeń przytrzymujących dla dzieci w pojazdach (91/671/EWG) (Dz. Urz. WE L 373 z 31.12.1991, str. 26, z późn. zm; Dz. Urz. UE Polskie wydanie specjalne rozdz. 7, t. 1, str. 353, z późn. zm.),
+- **2)** dyrektywy Rady 92/6/EWG z dnia 10 lutego 1992 r. w sprawie montowania i zastosowania urządzeń ograniczenia prędkości w niektórych kategoriach pojazdów silnikowych we Wspólnocie (Dz. Urz. WE L 57 z 02.03.1992, str. 27, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne rozdz. 7, t. 1, str. 359, z późn. zm.),
+- **3)** dyrektywy Rady 96/53/WE z dnia 25 lipca 1996 r. ustanawiającej dla niektórych pojazdów drogowych poruszających się na terytorium Wspólnoty maksymalne dopuszczalne wymiary w ruchu krajowym i międzynarodowym oraz maksymalne dopuszczalne obciążenia w ruchu międzynarodowym (Dz. Urz. WE L 235 z 17.09.1996, str. 59, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne rozdz. 7, t. 2, str. 478, z późn. zm.),
+- **4)** dyrektywy 97/27/WE Parlamentu Europejskiego i Rady z dnia 22 lipca 1997 r. odnoszącej się do mas i wymiarów niektórych kategorii pojazdów silnikowych i ich przyczep oraz zmieniającej dyrektywę 70/156/EWG (Dz. Urz. WE L 233 z 25.08.1997, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne rozdz. 13, t.19, str. 200, z późn. zm.),
+- **5)** dyrektywy Rady 1999/37/WE z dnia 29 kwietnia 1999 r. w sprawie dokumentów rejestracyjnych pojazdów (Dz. Urz. WE L 138 z 01.06.1999, str. 57, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne rozdz. 7, t. 4, str. 351, z późn. zm.),
+- **6)** dyrektywy 2000/30/WE Parlamentu Europejskiego i Rady z dnia 6 czerwca 2000 r. w sprawie drogowej kontroli przydatności do ruchu pojazdów użytkowych poruszających się we Wspólnocie (Dz. Urz. WE L 203 z
+
+10. 08.2000, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne rozdz. 7, t. 5 str. 80, z późn. zm.),
+
+- **7)** dyrektywy 2002/24/WE Parlamentu Europejskiego i Rady z dnia 18 marca 2002 r. w sprawie homologacji typu dwu- lub trzykołowych pojazdów mechanicznych i uchylającej dyrektywę Rady 92/61/EWG (Dz. Urz. WE L 124 z 09.05.2002, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne rozdz. 13, t. 29, str. 399, z późn. zm.),
+- **8)** dyrektywy 2003/20/WE Parlamentu Europejskiego i Rady z dnia 8 kwietnia 2003 r. zmieniającej dyrektywę Rady 91/671/EWG w sprawie zbliżenia ustawodawstw Państw Członkowskich odnoszących się do obowiązkowego stosowania pasów bezpieczeństwa w pojazdach poniżej 3,5 tony (Dz. Urz. UE L 115 z 09.05.2003, str. 63; Dz. Urz. UE Polskie wydanie specjalne rozdz. 7, t. 7, str. 277),
+- **9)** dyrektywy 2003/37/WE Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie homologacji typu ciągników rolniczych lub leśnych, ich przyczep i wymiennych holowanych maszyn, łącznie z ich układami, częściami i oddzielnymi zespołami technicznymi oraz uchylającej dyrektywę 74/150/EWG (Dz. Urz. UE L 171 z 09.07.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne rozdz. 13, t. 31, str. 311, z późn. zm.),
+- **10)** dyrektywy 2007/46/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. ustanawiającej ramy dla homologacji pojazdów silnikowych i ich przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów („dyrektywa ramowa”) (Dz. Urz. UE L 263 z 09.10.2007, str. 1, z późn. zm.),
+- **11)** dyrektywy Parlamentu Europejskiego i Rady 2009/40/WE z dnia 6 maja 2009 r. w sprawie badań zdatności do ruchu drogowego pojazdów silnikowych i ich przyczep (Dz. Urz. UE L 141 z 06.06.2009, str. 12, z późn. zm.). Dane odnoszące się do aktów prawa Unii Europejskiej, ogłoszone przed dniem 1 maja 2004 r., zamieszczone w niniejszej ustawie, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej Polskie wydanie specjalne.”;
+- **2)** w art. 1 w ust. 1 pkt 2 otrzymuje brzmienie: „2) zasady i warunki dopuszczenia pojazdów do tego ruchu, a także działalność właściwych organów i podmiotów w tym zakresie;”;
+- **3)** w art. 2:
+    - **a)** pkt 44 otrzymuje brzmienie: „44) ciągnik rolniczy – pojazd silnikowy, którego konstrukcja umożliwia rozwijanie prędkości nie mniejszej niż 6 km/h, skonstruowany do używania łącznie ze sprzętem do prac rolnych, leśnych lub ogrodniczych; ciągnik taki może być również przystosowany do ciągnięcia przyczep oraz do prac ziemnych;”,
+    - **b)** w pkt 59 kropkę zastępuje się średnikiem i dodaje pkt 60–82 w brzmieniu: „60) kategoria pojazdu – klasyfikację pojazdu według wymagań homologacyjnych;
+
+- **61)** maksymalna masa całkowita – największą masę pojazdu obciążonego osobami i ładunkiem, określoną przez producenta pojazdu;
+- **62)** nowy pojazd – pojazd fabrycznie nowy, który nie był zarejestrowany;
+- **63)** państwo członkowskie – państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+- **64)** pojazd kompletny – pojazd, który w celu spełnienia wymagań technicznych oraz uzyskania założonych cech użytkowych nie wymaga kompletacji;
+- **65)** pojazd marki „SAM” – pojazd zbudowany przy wykorzystaniu nadwozia, podwozia lub ramy, konstrukcji własnej;
+- **66)** pojazd produkowany w małych seriach – pojazd produkowany w limitowanej liczbie, określonej w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 3;
+- **67)** pojazd niekompletny – pojazd, który w celu spełnienia wymagań technicznych oraz uzyskania założonych cech użytkowych powinien przejść co najmniej jeden etap kompletacji;
+- **68)** pojazd skompletowany – pojazd, który w celu spełnienia wymagań technicznych oraz uzyskania założonych cech użytkowych powstał w wyniku co najmniej jednego etapu kompletacji;
+- **69)** pojazd z końcowej partii produkcji – pojazd będący częścią zapasów producenta, który nie spełnia wymagań technicznych z powodu zmiany warunków stanowiących podstawę do wydania świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu, a świadectwo to utraciło ważność;
+- **70)** przedmiot wyposażenia lub część – rozumie się przez to układ, oddzielny zespół techniczny lub część, podlegające wymaganiom technicznym określonym w dziale III, rozdziale 1a i 1b, przepisach Unii Europejskiej dotyczących badań homologacyjnych lub regulaminach EKG ONZ, przeznaczone do zastosowania w pojeździe;
+- **71)** świadectwo homologacji typu – świadectwo homologacji typu EKG ONZ, świadectwo homologacji typu pojazdu, świadectwo homologacji typu WE;
+- **72)** świadectwo homologacji typu EKG ONZ – dokument wydany przez właściwy organ państwa – strony Porozumienia dotyczącego przyjęcia jednolitych wymagań technicznych dla pojazdów kołowych, wyposażenia i części, które mogą być stosowane w tych pojazdach, oraz wzajemnego uznawania homologacji udzielonych na podstawie tych wymagań, sporządzonego w Genewie dnia 20 marca 1958 r. (Dz. U. z 2001 r. Nr 104, poz. 1135 i 1136), zwanego dalej „Porozumieniem”, stwierdzający, że typ przedmiotu wyposażenia lub części spełnia wymagania procedury homologacji typu EKG ONZ określone w regulaminach Europejskiej Komisji Gospodarczej Organizacji Narodów Zjednoczonych (EKG ONZ) stanowiących załączniki do tego Porozumienia;
+- **73)** świadectwo homologacji typu pojazdu – dokument wydany przez właściwy organ Rzeczypospolitej Polskiej stwierdzający, że typ pojazdu spełnia wymagania procedury homologacji typu pojazdu;
+- **74)** świadectwo homologacji typu WE – dokument wydany przez właściwy organ państwa członkowskiego Unii Europejskiej stwierdzający, że typ pojazdu, typ przedmiotu jego wyposażenia lub części, spełnia wymagania procedury homologacji typu WE;
+- **75)** typ przedmiotu wyposażenia lub części – oznaczenie przedmiotów wyposażenia lub części, spełniających tę samą funkcję w pojeździe, które nie różnią się od siebie pod względem istotnych cech mających wpływ na bezpieczeństwo ruchu drogowego lub ochronę środowiska, jeżeli wymagania określone w przepisach UE dotyczących badań homologacyjnych lub regulaminy EKG ONZ nie stanowią inaczej;
+- **76)** świadectwo dopuszczenia indywidualnego WE pojazdu – dokument wydany przez właściwy organ państwa członkowskiego Unii Europejskiej stwierdzający, że pojazd spełnia odpowiednie warunki lub wymagania techniczne procedury dopuszczenia indywidualnego WE pojazdu;
+- **77)** świadectwo homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem – dokument wydany przez właściwy organ Rzeczypospolitej Polskiej stwierdzający, że sposób montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem oraz elementy tej instalacji spełniają wymagania procedury homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem;
+- **78)** typ pojazdu – oznaczenie pojazdów jednej kategorii pojazdu, które nie różnią się od siebie pod względem istotnych cech, określonych w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 5;
+- **79)** wprowadzenie do obrotu – odpłatne albo nieodpłatne przekazanie pojazdu, przedmiotu wyposażenia lub części po raz pierwszy na terytorium Rzeczypospolitej Polskiej użytkownikowi;
+- **80)** wariant pojazdu – oznaczenie pojazdów jednego typu, które nie różnią się od siebie co najmniej pod względem istotnych cech, określonych w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 5;
+- **81)** wersja pojazdu – oznaczenie pojazdów jednego wariantu, o kompletacji określonej w opisie technicznym typu pojazdu w świadectwie homologacji typu pojazdu albo świadectwie homologacji typu WE pojazdu;
+- **82)** tramwaj – pojazd przeznaczony do przewozu osób lub rzeczy zasilany energią elektryczną, poruszający się po szynach na drogach publicznych;
+- **83)** trolejbus – autobus przystosowany do zasilania energią elektryczną z sieci trakcyjnej.”;
+- **4)** w art. 64 ust. 3 otrzymuje brzmienie: „3. Wymiary, masa, naciski osi pojazdów nienormatywnych uprawnionych do poruszania się na podstawie zezwoleń kategorii I–VII oraz drogi, po których pojazdy te mogą się poruszać, są określone w tabeli stanowiącej załącznik nr 1 do ustawy.”;
+- **5)** w art. 66: 70k ust. 1, art. 70o ust. 1, art. 70zo ust. 1, art. 70zp ust. 1 albo art. 70zu ust. 1,”,
+    - **a)** w ust. 4 w pkt 6 lit. a otrzymuje brzmienie: „a) pojazdu, na którego typ zostało wydane świadectwo homologacji typu lub inny równoważny dokument, o którym mowa w art. 70j ust. 1, art.
+    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Przepis ust. 4 nie dotyczy pojazdu zabytkowego – w zakresie pkt 1–3, z zastrzeżeniem, że w przypadku pkt 3 obowiązuje zakaz korzystania z tych urządzeń podczas jazdy i postoju.”;
+
+- **6)** uchyla się art. 68–70;
+- **7)** w dziale III po rozdziale 1 dodaje się rozdziały 1a–1c w brzmieniu: „Rozdział 1a Homologacja
+
 **Art. 70a.** Ilekroć w rozdziale jest mowa o:
+
+- **1)** oryginalnym przedmiocie wyposażenia lub części - rozumie się przez to przedmiot wyposażenia lub część, które wyprodukowano zgodnie ze specyfikacjami i normami produkcyjnymi przewidzianymi przez producenta pojazdów dla produkcji przedmiotu wyposażenia lub części pojazdu, którego to dotyczy, oraz przedmiot wyposażenia lub część, które wyprodukowano na tej samej linii produkcyjnej; obejmuje to również przedmiot wyposażenia lub część dla których ich producent zaświadczy, że ten przedmiot wyposażenia lub część odpowiadają jakością przedmiotowi wyposażenia lub części, używanym do montażu pojazdu, którego to dotyczy, i zostały wyprodukowane zgodnie ze specyfikacjami i normami produkcyjnymi producenta pojazdu;
+- **2)** procedurze homologacji typu WE pojazdu albo procedurze homologacji typu pojazdu – rozumie się przez to jedną z następujących procedur:
+    - **a)** krok po kroku – procedurę homologacji typu, w ramach której producent uzyskuje wszystkie wymagane świadectwa homologacji typu WE przedmiotu wyposażenia lub części albo świadectwa homologacji typu EKG ONZ, na podstawie których jednostka uprawniona, o której mowa w art. 70y ust. 1, przeprowadza badanie homologacyjne typu pojazdu będące podstawą do wydania świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu,
+    - **b)** jednostopniową – procedurę homologacji typu, w ramach której jednostka uprawniona, o której mowa w art. 70y ust. 1, przeprowadza badanie homologacyjne dla wszystkich wymaganych przedmiotów wyposażenia lub części oraz badanie homologacyjne typu pojazdu, będące podstawą do wydania świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu,
+    - **c)** mieszaną – procedurę homologacji typu krok po kroku, podczas której producent może nie przedstawić jednego lub kilku świadectw homologacji typu WE przedmiotu wyposażenia lub części albo świadectw homologacji typu EKG ONZ, do badania homologacyjnego typu pojazdu pod warunkiem zastąpienia ich sprawozdaniami zawierającymi wyniki badań homologacyjnych tych przedmiotów wyposażenia lub części;
+
+- **3)** wirtualnej metodzie testowania – rozumie się przez to symulacje komputerowe, w tym obliczenia potwierdzające, że typ pojazdu, typ przedmiotu wyposażenia lub części spełnia odpowiednie wymagania techniczne, w zakresie określonym w załączniku XVI do dyrektywy 2007/46/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. ustanawiającej ramy dla homologacji pojazdów silnikowych i przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów („dyrektywa ramowa”) (Dz. Urz. UE L 263 z
+
+09. 10.2007, str. 1, z późn. zm.), zwanej dalej „dyrektywą 2007/46/WE”;
+
+- **4)** zgodności produkcji pojazdu, przedmiotu wyposażenia lub części albo zgodności montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem – rozumie się przez to produkcję pojazdu, przedmiotu wyposażenia lub części zgodnie z wymaganiami dla typu, który uzyskał odpowiednie świadectwo homologacji typu albo zezwolenie na dopuszczenie do obrotu oraz stosowanie metod produkcji zapewniających spełnienie tych wymagań; w przypadku montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem – rozumie się przez to montaż zgodnie z wymaganiami dla typu, który uzyskał świadectwo homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem oraz stosowanie metod montażu zapewniających spełnienie tych wymagań.
 
 **Art. 70b.**
 
@@ -138,6 +201,16 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 6. Jeżeli homologacja typu przedmiotu wyposażenia lub części obejmuje przedmioty wyposażenia lub części niezależnie od tego, czy są przeznaczone do napraw, przeglądów lub konserwacji pojazdów, nie wymaga się dodatkowej homologacji typu tych przedmiotów wyposażenia lub części, jeżeli ustawa nie przewiduje dla nich obowiązku uzyskania odrębnego świadectwa homologacji typu.
 
 **Art. 70c.** Potwierdzenie spełnienia wymagań technicznych następuje przez wydanie dla:
+
+- **1)** pojazdu:
+    - **a)** świadectwa homologacji typu WE pojazdu,
+    - **b)** świadectwa homologacji typu pojazdu;
+
+- **2)** przedmiotu wyposażenia lub części:
+    - **a)** świadectwa homologacji typu WE przedmiotu wyposażenia lub części,
+    - **b)** świadectwa homologacji typu EKG ONZ;
+
+- **3)** sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem – świadectwa homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem.
 
 **Art. 70d.**
 
@@ -177,6 +250,15 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 9. Przepisu ust. 6 pkt 1 lit. a nie stosuje się do pojazdów specjalnych.
 
 **Art. 70e.** Obowiązek uzyskania świadectwa homologacji typu nie dotyczy pojazdu:
+
+- **1)** kategorii M , przeznaczonego do zawodów sportowych;
+- **2)** kategorii L:
+    - **a)** przystosowanego do używania przez osoby niepełnosprawne,
+    - **b)** przeznaczonego do zawodów sportowych;
+
+- **3)** kategorii T przeznaczonego do prac leśnych obejmującej:
+    - **a)** ciągnik zrywkowy i ciągnik z przednim systemem załadowczym,
+    - **b)** pojazd skonstruowany na ramie sprzętu do prac ziemnych.
 
 **Art. 70f.**
 
@@ -823,8 +905,8 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 6. Do kar pieniężnych, o których mowa w art. 140m, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, 1101 i 1342).”;
 
-- **18)** w załączniku do ustawy pozycja 6 otrzymuje brzmienie: „6 kategorii a) o szerokości nieprzekraczającej: VI – 3,4 m dla drogi jednojezdniowej, – 4 m dla drogi dwujezdniowej klasy A, S i GP,
-    - **b)** o długości nieprzekraczającej: – 15 m dla pojedynczego pojazdu, – 23 m dla zespołu pojazdów, – 30 m dla zespołu pojazdów o skrętnych osiach, krajowe - zgodnie z wykazem dróg, o którym mowa w art. 64c ust. 8”
+- **18)** w załączniku do ustawy pozycja 6 otrzymuje brzmienie: „6 kategorii a) o szerokości nieprzekraczającej: krajowe - zgodnie VI – 3,4 m dla drogi jednojezdniowej, z wykazem dróg, o – 4 m dla drogi dwujezdniowej klasy A, S i którym mowa w GP, art. 64c ust. 8”
+    - **b)** o długości nieprzekraczającej: – 15 m dla pojedynczego pojazdu, – 23 m dla zespołu pojazdów, – 30 m dla zespołu pojazdów o skrętnych osiach,
     - **c)** o wysokości nieprzekraczającej 4,3 m,
     - **d)** o rzeczywistej masie całkowitej nieprzekraczającej 60 t,
     - **e)** o naciskach osi nieprzekraczających wielkości przewidzianych dla dróg o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t;
@@ -833,7 +915,13 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 **Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 5a w pkt 19a lit. e otrzymuje brzmienie: „e) pojazdu samochodowego będącego pojazdem specjalnym – jeżeli z dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym, lub z innych dokumentów określonych w przepisach wydanych na podstawie art. 86a ust. 10 ustawy o podatku od towarów i usług, wynika, że jest to pojazd specjalny,”;
+- **2)** w art. 5d ust. 2 otrzymuje brzmienie: „2. Dopuszczalna ładowność pojazdów oraz liczba miejsc (siedzeń), o których mowa w art. 5a pkt 19a lit. f, określona jest na podstawie dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym. Pojazdy, które w dokumentach, o których mowa w zdaniu pierwszym, nie mają określonej dopuszczalnej ładowności lub liczby miejsc, uznaje się również za samochody osobowe.”.
+
 **Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. 2011 r. Nr 74, poz. 397, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 4a w pkt 9a lit. e otrzymuje brzmienie: „e) pojazdu samochodowego będącego pojazdem specjalnym – jeżeli z dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym, lub z innych dokumentów określonych w przepisach wydanych na podstawie art. 86a ust. 10 ustawy o podatku od towarów i usług, wynika, że jest to pojazd specjalny,”;
+- **2)** w art. 4c ust. 2 otrzymuje brzmienie: „2. Dopuszczalna ładowność pojazdów oraz liczba miejsc (siedzeń), o których mowa w art. 4a pkt 9a lit. f, określona jest na podstawie dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym. Pojazdy, które w dokumentach, o których mowa w zdaniu pierwszym, nie mają określonej dopuszczalnej ładowności lub liczby miejsc, uznaje się również za samochody osobowe.”.
 
 **Art. 4.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2009 r. Nr 151, poz. 1219, z późn. zm. ) w art. 3 w ust. 1 po pkt 1d dodaje się pkt 1e w brzmieniu: „1e) kontrola pojazdów, przedmiotów wyposażenia lub części przeznaczonych dla konsumentów w zakresie uzyskania przez producenta potwierdzenia spełnienia wymagań technicznych, o których mowa w art. 70c ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 i 1448 oraz z 2013 r. poz. 700);”.
 
@@ -841,11 +929,26 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 **Art. 6.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054 oraz z 2012 r. poz. 1342) w art. 86a:
 
+- **1)** w ust. 2 pkt 5 otrzymuje brzmienie: „5) pojazdów specjalnych – jeżeli z dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym wynika, że jest to pojazd specjalny;”;
+- **2)** ust. 4 otrzymuje brzmienie: „4. Dopuszczalna ładowność pojazdu oraz liczba miejsc (siedzeń), o których mowa w ust. 2 pkt 6, określona jest na podstawie dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym. Pojazdy, które w dokumentach, o których mowa w zdaniu pierwszym, nie mają określonej dopuszczalnej ładowności lub liczby miejsc, uznaje się również za samochody osobowe, o których mowa w ust. 1 pkt 1.”.
+
 **Art. 7.** W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. Nr 25, poz. 202, z późn. zm. ) w art. 28 ust. 2a otrzymuje brzmienie: „2a. Przepisów ust. 1 nie stosuje się do niektórych pojazdów specjalnych, o których mowa w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.”.
 
 **Art. 8.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2012 r. poz.
 
+- **1282)** w załączniku do ustawy:
+- **1)** w części I uchyla się ust. 38;
+- **2)** w części III:
+    - **a)** ust. 13 otrzymuje brzmienie: 1 2 3 4 ,,13. Zezwolenia oraz upoważnienia wydane na podstawie przepisów o ruchu drogowym, z zastrzeżeniem ust. 13a:
+
+- **1)** na wykonywanie działalności go- 433 zł spodarczej,
+- **2)** pozostałe 48 zł”
+    - **b)** po ust. 13 dodaje się ust. 13a w brzmieniu: „13a. Zezwolenie na dopuszczenie do ruchu drogowego pojazdu z końcowej partii 1537 zł” produkcji
+
 **Art. 9.** Obowiązek, o którym mowa w art. 70d ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą uznaje się za spełniony, jeżeli producent pojazdów kategorii:
+
+- **1)** M ,M , M , N , N , N , O , O , O , O uzyskał w odniesieniu do tych pojazdów – świadectwo homologacji typu pojazdu przed upływem terminu określonego w załączniku XIX do dyrektywy 2007/46/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. ustanawiającej ramy dla homologacji pojazdów silnikowych i ich przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów („dyrektywa ramowa”) (Dz. Urz. UE L 263 z 09.10.2007, str. 1, z późn. zm.);
+- **2)** T uzyskał w odniesieniu do tych pojazdów świadectwo homologacji typu pojazdu przed upływem terminów określonych w art. 6 ust. 2 dyrektywy Komisji 2010/62/UE z dnia 8 września 2010 r. zmieniającej dyrektywy Rady 80/720/EWG i 86/297/EWG oraz dyrektywy Parlamentu Europejskiego i Rady 2003/37/WE, 2009/60/WE i 2009/144/WE, odnoszących się do homologacji typu ciągników rolniczych lub leśnych, w celu dostosowania ich przepisów technicznych (Dz. Urz. UE L 238 z 09.09.2010, str. 7).
 
 **Art. 10.**
 
@@ -875,5 +978,54 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 2. Dotychczasowe upoważnienia do przeprowadzania badań homologacyjnych oraz kontroli zgodności produkcji lub montażu, udzielone przez ministra właściwego do spraw transportu na podstawie dotychczasowych przepisów, zachowują ważność do czasu uzyskania nowych uprawnień, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 13.** Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia. „Załącznik nr 2 KATEGORIE POJAZDÓW 1. Kategoria M: pojazdy samochodowe przeznaczone do przewozu osób mające co najmniej cztery koła, w tym:
+**Art. 13.** Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia. Załącznik do ustawy z dnia 10 października 2012 r. (poz. 1448) „Załącznik nr 2 KATEGORIE POJAZDÓW 1. Kategoria M: pojazdy samochodowe przeznaczone do przewozu osób mające co najmniej cztery koła, w tym:
+
+- **1)** kategoria M : pojazdy do przewozu osób, mające nie więcej niż osiem miejsc oprócz siedzenia kierowcy;
+- **2)** kategoria M : pojazdy zaprojektowane i wykonane do przewozu osób, mające więcej niż osiem miejsc oprócz siedzenia kierowcy i mające maksymalną masę całkowitą nieprzekraczającą 5 t;
+- **3)** kategoria M : pojazdy zaprojektowane i wykonane do przewozu osób, mające więcej niż osiem miejsc oprócz siedzenia kierowcy i mające maksymalna masę całkowitą przekraczającą 5 t.
+
+2. Kategoria N: pojazdy samochodowe mające co najmniej cztery koła i zaprojektowane i wykonane do przewozu ładunków, w tym:
+
+- **1)** kategoria N : pojazdy zaprojektowane i wykonane do przewozu ładunków i mające maksymalną masę całkowitą nieprzekraczającą 3,5 t;
+- **2)** kategoria N : pojazdy zaprojektowane i wykonane do przewozu ładunków i mające maksymalną masę całkowitą przekraczającą 3,5 t, ale nieprzekraczającą 12 t;
+- **3)** kategoria N : pojazdy zaprojektowane i wykonane do przewozu ładunków i mające maksymalną masę całkowitą przekraczającą 12 t.
+
+3. Kategoria O: przyczepy, w tym:
+
+- **1)** kategoria O : przyczepy o maksymalnej masie całkowitej nieprzekraczającej 750 kg;
+- **2)** kategoria O : przyczepy o maksymalnej masie całkowitej przekraczającej 750 kg, ale nieprzekraczającej 3,5 t;
+- **3)** kategoria O : przyczepy o maksymalnej masie całkowitej przekraczającej 3,5 t, ale nieprzekraczającej 10 t;
+- **4)** kategoria O : przyczepy o maksymalnej masie całkowitej przekraczającej 10 t.
+
+4. Kategoria L: pojazdy dwukołowe lub trójkołowe, niektóre pojazdy czterokołowe, w tym:
+
+- **1)** kategoria L1e – motorowery dwukołowe;
+- **2)** kategoria L2e – motorowery trójkołowe;
+- **3)** kategoria L3e – motocykle dwukołowe bez bocznego wózka;
+- **4)** kategoria L4e – motocykle dwukołowe z bocznym wózkiem;
+- **5)** kategoria L5e – motocykle trójkołowe;
+- **6)** kategoria L6e – czterokołowce lekkie;
+- **7)** kategoria L7e– czterokołowce. Do kategorii L nie mogą być zaliczone pojazdy:
+    - **a)** których maksymalna prędkość konstrukcyjna nie przekracza 6 km/h,
+    - **b)** przeznaczone do kierowania przez osobę pieszą,
+    - **c)** ciągniki i maszyny używane do celów rolniczych lub podobnych,
+    - **d)** rowery i wózki rowerowe.
+
+5. Kategoria T: ciągniki rolnicze, w tym:
+
+- **1)** kategoria T : ciągniki kołowe o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h, mające oś położoną najbliżej kierowcy, o minimalnym rozstawie kół nie mniejszym niż 1 150 mm, masę własną, w stanie gotowości do jazdy, przekraczającą 600 kg i prześwit nie większy niż 1 000 mm. W przypadku ciągników ze zmianą pozycji kierowcy (zmiana położenia siedzenia i koła kierownicy), osią położoną najbliżej kierowcy musi być oś z zamontowanymi oponami o największej średnicy;
+- **2)** kategoria T : ciągniki kołowe o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h, mające minimalny rozstaw kół mniejszy niż 1 150 mm, masę własną, w stanie gotowości do jazdy, przekraczającą 600 kg i prześwit nie większy niż 600 mm. W przypadku gdy wysokość środka ciężkości ciągnika (mierzona względem podłoża) podzielona przez minimalny rozstaw kół każdej osi przekracza 0,90, maksymalna prędkość konstrukcyjna jest ograniczona do 30 km/h;
+- **3)** kategoria T : ciągniki kołowe o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h i masie własnej, w stanie gotowości do jazdy, nieprzekraczającej 600 kg;
+- **4)** kategoria T : ciągniki kołowe specjalnej konstrukcji o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h, w ramach której ze względu na prześwit i szerokość wyróżnia się kategorie T T oraz T ;
+- **5)** kategoria T : ciągniki kołowe o maksymalnej prędkości konstrukcyjnej przekraczającej 40 km/h.
+
+6. Kategoria C: Ciągniki gąsienicowe, w tym ciągniki kategorii C , C , C , C , C – według kryteriów podziału jak dla kategorii T. W ramach kategorii C wyróżnia się kategorie C C oraz C według podziału jak dla kategorii T T oraz T .
+
+7. Kategoria R: przyczepy rolnicze, w tym:
+
+- **1)** kategoria R : przyczepy o maksymalnej masie całkowitej nieprzekraczającej 1,5 t;
+- **2)** kategoria R : przyczepy o maksymalnej masie całkowitej przekraczającej 1,5 t, ale nieprzekraczającej 3,5 t;
+- **3)** kategoria R : przyczepy o maksymalnej masie całkowitej przekraczającej 3,5 t, ale nieprzekraczającej 21 t;
+- **4)** kategoria R : przyczepy o maksymalnej masie całkowitej przekraczającej 21 t. Każda kategoria przyczep oznaczona jest także indeksem „a” lub „b”, zależnie od jej konstrukcyjnej prędkości: – „a” dla przyczep o maksymalnej prędkości konstrukcyjnej mniejszej lub równej 40 km/h, – „b” dla przyczep o maksymalnej prędkości konstrukcyjnej większej niż 40 km/h.”.
+
 

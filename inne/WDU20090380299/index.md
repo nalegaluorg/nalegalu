@@ -8,7 +8,7 @@ pos: 299
 act_type: Ustawa
 status: akt objęty tekstem jednolitym
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych

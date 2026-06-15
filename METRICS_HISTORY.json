@@ -99,5 +99,45 @@
       "T": 1138,
       "unknown": 9
     }
+  },
+  {
+    "date": "2026-06-15",
+    "published": 18553,
+    "rejected": 414,
+    "total_body_chars": 537534130,
+    "total_articles": 171975,
+    "sources": {
+      "pdf": 18349,
+      "eli-html": 204
+    },
+    "act_types": {
+      "Ustawa": 4568,
+      "Dekret": 8,
+      "Rozporządzenie": 10270,
+      "Obwieszczenie": 2112,
+      "Umowa międzynarodowa": 329,
+      "Uchwała": 10,
+      "Konwencja": 8,
+      "Orzeczenie": 1209,
+      "Traktat": 1,
+      "Postanowienie": 6,
+      "Protokół": 18,
+      "Porozumienie": 8,
+      "Decyzja": 1,
+      "Oświadczenie": 1,
+      "Oświadczenie rządowe": 4
+    },
+    "pdf_types": {
+      "U": 1584,
+      "O": 11972,
+      "T": 4984,
+      "unknown": 13
+    },
+    "unified_text_pdf_types": {
+      "U": 834,
+      "O": 4943,
+      "T": 1162,
+      "unknown": 3
+    }
   }
 ]

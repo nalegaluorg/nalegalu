@@ -8,7 +8,7 @@ pos: 7
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
@@ -29,6 +29,60 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 3:
+    - **a)** pkt 2b otrzymuje brzmienie: „2b) oddziale dwujęzycznym – należy przez to rozumieć oddział szkolny, w którym nauczanie jest prowadzone w dwóch językach: polskim oraz obcym nowożytnym będącym drugim językiem nauczania, przy czym prowadzone w dwóch językach są co najmniej dwa zajęcia edukacyjne, z wyjątkiem zajęć obejmujących język polski, część historii dotyczącą historii Polski i część geografii dotyczącą geografii Polski, w tym co najmniej jedne zajęcia edukacyjne wybrane spośród zajęć obejmujących: biologię, chemię, fizykę, część geografii odnoszącą się do geografii ogólnej, część historii odnoszącą się do historii powszechnej, matematykę lub spośród przedmiotów uzupełniających;”,
+    - **b)** pkt 10 otrzymuje brzmienie: „10) rodzicach – należy przez to rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem;”;
+
+- **2)** w art. 5 w ust. 5h pkt 1 otrzymuje brzmienie: „1) w przypadku szkoły podstawowej i gimnazjum – wskazanie, czy szkole ustala się obwód;”;
+- **3)** w art. 6:
+    - **a)** w ust. 1 pkt 4 otrzymuje brzmienie: „4) zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem ust. 6.”,
+    - **b)** dodaje się ust. 5 i 6 w brzmieniu: „5. Niepubliczne przedszkole:
+
+- **1)** realizuje programy wychowania przedszkolnego uwzględniające podstawę programową wychowania przedszkolnego;
+- **2)** zatrudnia nauczycieli posiadających kwalifikacje określone dla nauczycieli przedszkoli publicznych; przepisy ust. 6 i art. 7 ust. 1ba stosuje się odpowiednio.
+
+6. W uzasadnionych przypadkach w przedszkolu publicznym może być, za zgodą kuratora oświaty, zatrudniona osoba niebędąca nauczycielem do prowadzenia zajęć rozwijających zainteresowania, posiadająca przygotowanie uznane przez dyrektora przedszkola za odpowiednie do prowadzenia danych zajęć. Przepisy art. 7 ust. 1b i 1ba stosuje się odpowiednio.”;
+
+- **4)** w art. 7: 674, z późn. zm. ). W celu potwierdzenia spełnienia warunku, o którym mowa w art. 10 ust. 5 pkt 4 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, osoba ta, przed nawiązaniem stosunku pracy, jest obowiązana przedstawić dyrektorowi szkoły informację z Krajowego Rejestru Karnego.”,
+    - **a)** po ust. 1b dodaje się ust. 1ba w brzmieniu: „1ba. Osoba, o której mowa w ust. 1a, może być zatrudniona w szkole, jeżeli spełnia warunki, o których mowa w art. 10 ust. 5 pkt 3 i 4 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz.
+    - **b)** ust. 1c i 1d otrzymują brzmienie: „1c. Przepisy ust. 1a, 1b i 1ba stosuje się odpowiednio do placówek artystycznych, placówek, o których mowa w art. 2 pkt 7, dla uczniów szkół artystycznych i placówek doskonalenia nauczycieli szkół artystycznych, z tym że zgodę na zatrudnienie osoby niebędącej nauczycielem wyraża minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
+
+1d. Przepisy ust. 1a, 1b i 1ba stosuje się również w przypadku zatrudnienia osoby posiadającej przygotowanie zawodowe uznane przez dyrektora szkoły lub placówki za odpowiednie do prowadzenia zajęć z zakresu kształcenia zawodowego, z tym że zatrudnienie tej osoby następuje za zgodą organu prowadzącego.”,
+
+- **c)** ust. 3 otrzymuje brzmienie: „3. Szkoła niepubliczna może uzyskać uprawnienia szkoły publicznej wymienione w ust. 2, jeżeli:
+- **1)** realizuje programy nauczania uwzględniające podstawy programowe wymienione w ust. 1 pkt 4 lit. a;
+- **2)** realizuje zajęcia edukacyjne w cyklu nie krótszym oraz w wymiarze nie niższym niż łączny wymiar obowiązkowych zajęć edukacyjnych określony w ramowym planie nauczania szkoły publicznej danego typu;
+- **3)** stosuje zasady klasyfikowania i promowania uczniów oraz przeprowadzania egzaminów i sprawdzianów, o których mowa w ust. 1 pkt 5, z wyjątkiem egzaminów wstępnych;
+- **4)** prowadzi dokumentację przebiegu nauczania ustaloną dla szkół publicznych;
+- **5)** w przypadku szkoły prowadzącej kształcenie zawodowe – kształci w zawodach określonych w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w art. 24 ust. 1;
+- **6)** zatrudnia nauczycieli obowiązkowych zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy ust. 1a, 1ba i 1d stosuje się odpowiednio.”;
+- **5)** w art. 7b:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Do klasy pierwszej oddziału międzynarodowego w publicznej szkole podstawowej ogólnodostępnej przyjmuje się kandydatów, którzy uzyskali pozytywny wynik sprawdzianu predyspozycji językowych przeprowadzanego na warunkach ustalonych przez radę pedagogiczną.”,
+    - **b)** po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. W przypadku większej liczby kandydatów spełniających warunek, o którym mowa w ust. 1, niż liczba wolnych miejsc w oddziale, o którym mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego jest brany pod uwagę wynik sprawdzianu predyspozycji językowych, o którym mowa w ust. 1.
+
+1b. W przypadku równorzędnych wyników uzyskanych przez kandydatów na pierwszym etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie kryteria, o których mowa w art. 20c ust. 2. Przepis art. 20c ust. 3 stosuje się.
+
+1c. Do przyjmowania kandydatów do oddziału międzynarodowego w publicznym gimnazjum ogólnodostępnym i publicznej szkole ponadgimnazjalnej ogólnodostępnej, stosuje się odpowiednio przepisy art. 20i i art. 20j.”;
+
+- **6)** w art. 14:
+    - **a)** uchyla się ust. 2,
+    - **b)** uchyla się ust. 4c;
+
+- **7)** w art. 14a ust. 6 i 6a otrzymują brzmienie: „6. Nauczyciela oraz osobę, o której mowa w art. 6 ust. 6, prowadzących zajęcia w innej formie wychowania przedszkolnego prowadzonej przez gminę, zatrudnia dyrektor przedszkola lub szkoły podstawowej prowadzonych przez tę gminę.
+
+6a. Zajęcia w innych formach wychowania przedszkolnego prowadzą nauczyciele posiadający kwalifikacje wymagane od nauczycieli przedszkoli. Przepisy art. 6 ust. 6 i art. 7 ust. 1b i 1ba stosuje się odpowiednio.”;
+
+- **8)** art. 14c otrzymuje brzmienie: „Art. 14c. Osoby prawne i fizyczne mogą prowadzić inne formy wychowania przedszkolnego, o których mowa w przepisach wydanych na podstawie art. 14a ust. 7. Zajęcia w innej formie wychowania przedszkolnego prowadzi nauczyciel posiadający kwalifikacje wymagane od nauczycieli przedszkoli. Przepisy art. 6 ust. 6 i art. 7 ust. 1ba stosuje się odpowiednio.”;
+- **9)** w art. 14d dodaje się ust. 11 i 12 w brzmieniu: „11. Informacje dotyczące dzieci nieprzyjętych w danym roku szkolnym do przedszkola i innej formy wychowania przedszkolnego, przekazywane przez dyrektora przedszkola lub szkoły, wójta (burmistrza, prezydenta miasta) i wojewodę, zgodnie z przepisami wydanymi na podstawie ust. 10, zawierają:
+- **1)** imię, nazwisko, datę urodzenia dziecka oraz numer PESEL dziecka, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
+- **2)** imiona i nazwiska rodziców;
+- **3)** adres miejsca zamieszkania rodziców i dziecka.
+
+12. Zgromadzone dane, o których mowa w ust. 11, są przechowywane przez okres dwóch lat od dnia przekazania tych informacji.”;
+
+- **10)** w art. 17 w ust. 3 pkt 1 otrzymuje brzmienie: „1) przekracza odległości wymienione w ust. 2, obowiązkiem gminy jest zapewnienie bezpłatnego transportu i opieki w czasie przewozu dziecka albo zwrot kosztów przejazdu dziecka środkami komunikacji publicznej, jeżeli dowożenie zapewniają rodzice, a do ukończenia przez dziecko 7 lat – także zwrot kosztów przejazdu opiekuna dziecka środkami komunikacji publicznej;”;
+- **11)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „Rozdział 2a Przyjmowanie do publicznych przedszkoli, publicznych innych form wychowania przedszkolnego, publicznych szkół i publicznych placówek
+
 **Art. 20a.**
 
 1. Dzieci, młodzież oraz osoby pełnoletnie przyjmuje się odpowiednio do publicznych przedszkoli, publicznych innych form wychowania przedszkolnego i publicznych placówek, o których mowa w art. 2 pkt 3–3b i 7, oraz do klas pierwszych szkół wszystkich typów po przeprowadzeniu postępowania rekrutacyjnego.
@@ -46,6 +100,9 @@ source: "isap-pdf"
 7. Przepisy niniejszego rozdziału stosuje się także do dzieci i młodzieży posiadających orzeczenie o potrzebie kształcenia specjalnego, którzy ubiegają się o przyjęcie do publicznego przedszkola i publicznej szkoły ogólnodostępnej.
 
 **Art. 20b.** Ilekroć w niniejszym rozdziale jest mowa o:
+
+- **1)** wielodzietności rodziny – oznacza to rodzinę wychowującą troje i więcej dzieci;
+- **2)** samotnym wychowywaniu dziecka – oznacza to wychowywanie dziecka przez pannę, kawalera, wdowę, wdowca, osobę pozostającą w separacji orzeczonej prawomocnym wyrokiem sądu, osobę rozwiedzioną, chyba że osoba taka wychowuje wspólnie co najmniej jedno dziecko z jego rodzicem.
 
 **Art. 20c.**
 
@@ -233,6 +290,10 @@ source: "isap-pdf"
 
 **Art. 20l.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
+- **1)** sposób przeliczania na punkty poszczególnych kryteriów, o których mowa w art. 20f ust. 2 pkt 1–4, art. 20h ust. 6, art. 20i ust. 2 pkt 1, 3 i 4 oraz art. 20j ust. 2 pkt 1, 3, 4 i 5,
+- **2)** sposób ustalania punktacji w przypadku osób zwolnionych odpowiednio ze sprawdzianu lub egzaminu gimnazjalnego,
+- **3)** skład i szczegółowe zadania komisji rekrutacyjnej, szczegółowy tryb i terminy przeprowadzania postępowania rekrutacyjnego oraz postępowania uzupełniającego, a także terminy składania dokumentów – uwzględniając konieczność zapewnienia przyjmowania kandydatów do wybranych szkół na równych i przejrzystych zasadach oceny ich wiedzy, umiejętności i osiągnięć.
+
 **Art. 20m.** Kurator oświaty corocznie do końca lutego podaje do publicznej wiadomości wykaz zawodów wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty lub inne podmioty działające na terenie szkoły, które mogą być wymienione na świadectwie ukończenia szkoły podstawowej i gimnazjum, o których mowa w art. 20f ust. 2 pkt 4 lit. a, art. 20h ust. 6 pkt 5 lit. a, art. 20i ust. 2 pkt 4 lit. a i art. 20j ust. 2 pkt 5 lit. a, oraz określa miejsca uznane za wysokie w tych zawodach.
 
 **Art. 20n.**
@@ -323,6 +384,13 @@ source: "isap-pdf"
 
 **Art. 20s.** Wniosek o przyjęcie do publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub kwalifikacyjny kurs zawodowy, zwany dalej „wnioskiem”, składa się odpowiednio do dyrektora:
 
+- **1)** wybranego publicznego przedszkola lub wybranej publicznej szkoły, a w przypadku wyboru publicznej innej formy wychowania przedszkolnego – do dyrektora publicznego przedszkola lub publicznej szkoły podstawowej;
+- **2)** publicznej placówki oświatowo-wychowawczej – na wybrane zajęcia w tej placówce;
+- **3)** publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania;
+- **4)** publicznej placówki lub publicznego ośrodka, o których mowa w art. 2 pkt 3a, prowadzących kształcenie ustawiczne w formach pozaszkolnych – na wybraną formę pozaszkolną kształcenia ustawicznego;
+- **5)** publicznej szkoły, publicznej placówki lub publicznego ośrodka, o których mowa w art. 2 pkt 3a, prowadzących kwalifikacyjne kursy zawodowe – na wybrany kwalifikacyjny kurs zawodowy;
+- **6)** wybranej publicznej szkoły lub publicznej placówki artystycznej.
+
 **Art. 20t.**
 
 1. Wniosek zawiera:
@@ -397,13 +465,103 @@ source: "isap-pdf"
 
 **Art. 20z.** W celu zapewnienia dziecku podczas pobytu w publicznym przedszkolu, publicznej innej formie wychowania przedszkolnego, publicznej szkole i publicznej placówce, o której mowa w art. 2 pkt 7, odpowiedniej opieki, odżywiania oraz metod opiekuńczo-wychowawczych rodzic dziecka przekazuje dyrektorowi przedszkola, szkoły lub placówki uznane przez niego za istotne dane o stanie zdrowia, stosowanej diecie i rozwoju psychofizycznym dziecka. Art. 20za. 1. Wniosek o przyjęcie do publicznego przedszkola, publicznej innej formy wychowania przedszkolnego oraz publicznej szkoły może być złożony do nie więcej niż trzech wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół, chyba że organ prowadzący dopuści możliwość składania wniosku do więcej niż trzech wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół. 2. We wniosku, o którym mowa w ust. 1, określa się kolejność wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół w porządku od najbardziej do najmniej preferowanych. Art. 20zb. 1. Postępowanie rekrutacyjne do publicznych przedszkoli, publicznych innych form wychowania przedszkolnego, publicznych szkół i publicznych placówek przeprowadza komisja rekrutacyjna powołana przez dyrektora przedszkola, szkoły lub placówki. Dyrektor wyznacza przewodniczącego komisji rekrutacyjnej. 2. Do zadań komisji rekrutacyjnej należy w szczególności:
 
+- **1)** ustalenie wyników postępowania rekrutacyjnego i podanie do publicznej wiadomości listy kandydatów zakwalifikowanych i kandydatów niezakwalifikowanych, o której mowa w art. 20zc ust.1;
+- **2)** ustalenie i podanie do publicznej wiadomości listy kandydatów przyjętych i kandydatów nieprzyjętych, o której mowa w art. 20zc ust. 3;
+- **3)** przeprowadzenie sprawdzianu uzdolnień kierunkowych, prób sprawności fizycznej, sprawdzianu predyspozycji językowych, sprawdzianu kompetencji językowych, badania przydatności, egzaminu wstępnego lub badania uzdolnień kierunkowych – w przypadkach, o których mowa w art. 7b ust. 1, art. 20f ust. 5, art. 20h ust. 1 pkt 3, art. 20i ust. 1, art. 20j ust. 1, art. 20n ust. 4 i art. 20o ust. 2;
+- **4)** przeprowadzenie rozmowy kwalifikacyjnej, o której mowa w art. 20k ust. 5;
+- **5)** sporządzenie protokołu postępowania rekrutacyjnego. Art. 20zc. 1. Wyniki postępowania rekrutacyjnego podaje się do publicznej wiadomości w formie listy kandydatów zakwalifikowanych i kandydatów niezakwalifikowanych, zawierającej imiona i nazwiska kandydatów oraz informację o zakwalifikowaniu albo niezakwalifikowaniu kandydata do danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy.
+
+2. Komisja rekrutacyjna przyjmuje kandydata do danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowowychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy, jeżeli w wyniku postępowania rekrutacyjnego kandydat został zakwalifikowany oraz złożył wymagane dokumenty.
+
+3. Komisja rekrutacyjna podaje do publicznej wiadomości listę kandydatów przyjętych i kandydatów nieprzyjętych do danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowowychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy. Lista zawiera imiona i nazwiska kandydatów przyjętych i kandydatów nieprzyjętych lub informację o liczbie wolnych miejsc.
+
+4. Listy, o których mowa w ust. 1 i 3, podaje się do publicznej wiadomości poprzez umieszczenie w widocznym miejscu w siedzibie danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły lub publicznej placówki. Listy zawierają imiona i nazwiska kandydatów uszeregowane w kolejności alfabetycznej oraz najniższą liczbę punktów, która uprawnia do przyjęcia.
+
+5. Dzień podania do publicznej wiadomości listy, o której mowa w ust. 3, jest określany w formie adnotacji umieszczonej na tej liście, opatrzonej podpisem przewodniczącego komisji rekrutacyjnej.
+
+6. W terminie 7 dni od dnia podania do publicznej wiadomości listy kandydatów przyjętych i kandydatów nieprzyjętych, rodzic kandydata lub kandydat pełnoletni może wystąpić do komisji rekrutacyjnej z wnioskiem o sporządzenie uzasadnienia odmowy przyjęcia kandydata do danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowowychowawczej, na kwalifikacyjny kurs zawodowy lub na kształcenie ustawiczne w formach pozaszkolnych.
+
+7. Uzasadnienie sporządza się w terminie 5 dni od dnia wystąpienia przez rodzica kandydata lub kandydata pełnoletniego z wnioskiem, o którym mowa w ust. 6. Uzasadnienie zawiera przyczyny odmowy przyjęcia, w tym najniższą liczbę punktów, która uprawniała do przyjęcia, oraz liczbę punktów, którą kandydat uzyskał w postępowaniu rekrutacyjnym.
+
+8. Rodzic kandydata lub kandydat pełnoletni może wnieść do dyrektora publicznego przedszkola, publicznej szkoły lub publicznej placówki odwołanie od rozstrzygnięcia komisji rekrutacyjnej, w terminie 7 dni od dnia otrzymania uzasadnienia.
+
+9. Dyrektor publicznego przedszkola, publicznej szkoły lub publicznej placówki rozpatruje odwołanie od rozstrzygnięcia komisji rekrutacyjnej, o którym mowa w ust. 8, w terminie 7 dni od dnia otrzymania odwołania. Na rozstrzygnięcie dyrektora danego publicznego przedszkola, publicznej szkoły lub publicznej placówki służy skarga do sądu administracyjnego. Art. 20zd. 1. Jeżeli po przeprowadzeniu postępowania rekrutacyjnego publiczne przedszkole, publiczna inna forma wychowania przedszkolnego, publiczna szkoła lub publiczna placówka nadal dysponuje wolnymi miejscami, dyrektor przedszkola, szkoły lub placówki przeprowadza postępowanie uzupełniające.
+
+2. Postępowanie uzupełniające powinno zakończyć się do końca sierpnia roku szkolnego poprzedzającego rok szkolny, na który jest przeprowadzane postępowanie rekrutacyjne.
+
+3. Do postępowania uzupełniającego przepisy niniejszego rozdziału stosuje się odpowiednio. Art. 20ze. 1. Dane osobowe kandydatów zgromadzone w celach postępowania rekrutacyjnego oraz dokumentacja postępowania rekrutacyjnego są przechowywane nie dłużej niż do końca okresu, w którym uczeń korzysta z wychowania przedszkolnego w danym publicznym przedszkolu lub publicznej innej formie wychowania przedszkolnego albo uczęszcza do danej publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowowychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy.
+
+2. Dane osobowe kandydatów nieprzyjętych zgromadzone w celach postępowania rekrutacyjnego są przechowywane w publicznym przedszkolu, publicznej innej formie wychowania przedszkolnego, publicznej szkole lub publicznej placówce, które przeprowadzały postępowanie rekrutacyjne, przez okres roku, chyba że na rozstrzygnięcie dyrektora przedszkola, szkoły lub placówki została wniesiona skarga do sądu administracyjnego i postępowanie nie zostało zakończone prawomocnym wyrokiem. Art. 20zf. W przypadku publicznych przedszkoli, publicznych szkół i publicznych placówek prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje określone w:
+
+- **1)** art. 20c ust. 4–6, art. 20e ust. 3 i 4, art. 20o ust. 4, art. 20p ust. 1 pkt 3 i ust. 3, art. 20r ust. 6 i art. 20za ust. 1 – wykonuje odpowiednio rada gminy, rada powiatu, sejmik województwa;
+- **2)** art. 20a ust. 3, art. 20f ust. 5, art. 20v i art. 20w ust. 5 – wykonuje odpowiednio wójt (burmistrz, prezydent miasta), starosta, marszałek województwa. Art. 20zg. 1. Przepisów niniejszego rozdziału nie stosuje się do szkół prowadzonych przez ministra właściwego do spraw wewnętrznych, o których mowa w przepisach wydanych na podstawie art. 29.
+
+2. Warunki i tryb przyjmowania do szkół, o których mowa w ust. 1, określają przepisy wydane na podstawie art. 112 ust. 4 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340 i
+
+- **1351)** . Art. 20zh. 1. W przypadku przechodzenia ucznia z jednego typu publicznej szkoły do innego typu publicznej szkoły o przyjęciu ucznia do innego typu publicznej szkoły decyduje dyrektor szkoły. Przepis art. 20a ust. 3 stosuje się.
+
+2. Uczeń, o którym mowa w ust. 1, jest przyjmowany do innego typu publicznej szkoły na podstawie świadectwa ukończenia klasy programowo niższej.
+
+3. W przypadku przechodzenia ucznia z jednego typu publicznej szkoły do innego typu publicznej szkoły, przyjmując ucznia do innego typu publicznej szkoły, można przeprowadzić egzamin klasyfikacyjny przeprowadzany na podstawie przepisów w sprawie oceniania, klasyfikowania i promowania uczniów.
+
+4. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki przechodzenia ucznia z jednego typu publicznej szkoły do innego typu publicznej szkoły, a także przypadki, w których uczeń przechodzący z jednego typu publicznej szkoły do innego typu publicznej szkoły może być przyjęty do klasy programowo wyższej, niż to wynika z ostatniego świadectwa szkolnego, uwzględniając potrzebę uzupełnienia różnic programowych przez uczniów, w tym kontynuowania nauki języka obcego nowożytnego.”;
+
+- **12)** w art. 60 w ust. 1 uchyla się pkt 6;
+- **13)** w art. 71b:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Kształceniem specjalnym obejmuje się dzieci i młodzież, o których mowa w art. 1 pkt 5 i 5a, wymagające stosowania specjalnej organizacji nauki i metod pracy. Kształcenie to może być prowadzone w formie nauki w przedszkolach i szkołach ogólnodostępnych, przedszkolach i szkołach lub oddziałach integracyjnych, przedszkolach i szkołach lub oddziałach specjalnych, innych formach wychowania przedszkolnego i ośrodkach, o których mowa w art. 2 pkt 5.”,
+    - **b)** w ust. 7 pkt 3 otrzymuje brzmienie: „3) warunki organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży, o których mowa w ust. 1, w innych formach wychowania przedszkolnego, przedszkolach i szkołach ogólnodostępnych oraz przedszkolach i szkołach lub oddziałach integracyjnych, uwzględniając rodzaje niepełnosprawności wymagające stosowania specjalnej organizacji nauki i metod pracy, konieczność dostosowania odpowiednio programów wychowania przedszkolnego i programów nauczania oraz warunków i form przeprowadzania egzaminów i sprawdzianów do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych uczniów, a także zatrudnienia specjalistów do realizacji tych potrzeb.”;
+
+- **14)** w art. 80:
+    - **a)** ust. 2c i 2d otrzymują brzmienie: „2c. Prowadzone przez osoby prawne inne niż jednostki samorządu terytorialnego i osoby fizyczne publiczne przedszkola, inne formy wychowania przedszkolnego, szkoły podstawowe oraz ośrodki, o których mowa w art. 2 pkt 5, a także publiczne poradnie psychologicznopedagogiczne, które zgodnie z art. 71b ust. 2a prowadzą wczesne wspomaganie rozwoju dziecka, otrzymują dotację z budżetu odpowiednio gminy lub powiatu w wysokości nie niższej niż kwota przewidziana na jedno dziecko objęte wczesnym wspomaganiem rozwoju w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego, pod warunkiem że osoba prowadząca przedszkole, inną formę wychowania przedszkolnego, szkołę, ośrodek lub poradnię przedstawi organowi właściwemu do udzielenia dotacji informację o planowanej liczbie dzieci, które mają być objęte wczesnym wspomaganiem rozwoju, nie później niż do dnia 30 września roku poprzedzającego rok udzielenia dotacji.
+
+2d. Jeżeli do publicznej innej formy wychowania przedszkolnego, o której mowa w ust. 2b, uczęszcza uczeń niebędący mieszkańcem gminy dotującej tę formę wychowania przedszkolnego, gmina, której mieszkańcem jest ten uczeń, pokrywa koszty dotacji udzielonej zgodnie z ust. 2b, do wysokości iloczynu kwoty wydatków bieżących stanowiących w gminie dotującej podstawę ustalenia wysokości dotacji dla form wychowania przedszkolnego w przeliczeniu na jednego ucznia, pomniejszonych o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, a także o kwotę dotacji, o której mowa w art. 14d ust. 1, otrzymanej na ucznia przez gminę dotującą inną formę wychowania przedszkolnego, do której uczęszcza uczeń, i wskaźnika procentowego ustalonego na potrzeby dotowania form wychowania przedszkolnego w gminie zobowiązanej do pokrycia kosztów udzielonej dotacji. W przypadku braku innej formy wychowania przedszkolnego, o której mowa w ust. 2b, na terenie gminy zobowiązanej do pokrycia kosztów udzielonej dotacji, gmina ta pokrywa koszty udzielonej dotacji w wysokości równej 50% wydatków bieżących, pomniejszonych o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, a także o kwotę dotacji, o której mowa w art. 14d ust. 1, otrzymanej na ucznia przez gminę dotującą inną formę wychowania przedszkolnego, do której uczęszcza uczeń, stanowiących w gminie dotującej podstawę udzielenia dotacji dla form wychowania przedszkolnego w przeliczeniu na jednego ucznia.”,
+
+- **b)** ust. 3 i 3a otrzymują brzmienie: „3. Szkoły, o których mowa w ust. 1, otrzymują na każdego ucznia dotację z budżetu jednostki samorządu terytorialnego obowiązanej do prowadzenia odpowiedniego typu i rodzaju szkół w wysokości równej wydatkom bieżącym przewidzianym na jednego ucznia w szkołach tego samego typu i rodzaju prowadzonych przez tę jednostkę samorządu terytorialnego, nie niższej jednak niż kwota przewidziana na jednego ucznia szkoły publicznej danego typu i rodzaju w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego. W przypadku nieprowadzenia przez jednostkę samorządu terytorialnego szkoły tego samego typu i rodzaju podstawą ustalenia wysokości dotacji jest kwota przewidziana na jednego ucznia szkoły publicznej danego typu i rodzaju w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego.
+
+3a. Placówki publiczne, o których mowa w art. 2 pkt 5 i 7, prowadzone przez osoby prawne i fizyczne otrzymują na każdego wychowanka dotację z budżetu powiatu w wysokości równej wydatkom bieżącym przewidzianym na jednego wychowanka w placówkach tego samego rodzaju prowadzonych przez powiat, jednak nie niższej od kwoty przewidzianej na jednego wychowanka placówki tego rodzaju w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego. W przypadku nieprowadzenia przez powiat placówki publicznej danego rodzaju podstawą ustalenia wysokości dotacji jest kwota przewidziana na jednego wychowanka placówki tego rodzaju w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego.”,
+
+- **c)** w ust. 8 wprowadzenie do wyliczenia otrzymuje brzmienie: „Prowadzone przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną szkoły publiczne prowadzące kwalifikacyjne kursy zawodowe otrzymują na każdego słuchacza kursu, który zdał egzamin potwierdzający kwalifikacje w zawodzie w zakresie danej kwalifikacji, dotację z budżetu powiatu w wysokości nie niższej niż kwota przewidziana na jednego słuchacza kwalifikacyjnego kursu zawodowego w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego, jeżeli osoba prowadząca szkołę:”,
+- **d)** po ust. 8 dodaje się ust. 8a w brzmieniu: „8a. Wysokość dotacji, o której mowa w ust. 8, określa organ stanowiący jednostki samorządu terytorialnego.”;
+- **15)** w art. 84 w ust. 2 pkt 7 otrzymuje brzmienie: „7) zasady przyjmowania uczniów do szkoły lub placówki – z tym że statut uwzględnia warunki, o których mowa w:
+    - **a)** art. 20e ust. 2 – w przypadku gimnazjum, w tym dwujęzycznego, sportowego i mistrzostwa sportowego,
+    - **b)** art. 20f ust. 1 i art. 20g ust. 1 – w przypadku szkoły ponadgimnazjalnej, w tym dwujęzycznej, sportowej i mistrzostwa sportowego,
+    - **c)** art. 20k ust. 1, 5 i 6 – w przypadku szkół dla dorosłych.”;
+
+- **16)** art. 85a otrzymuje brzmienie: „Art. 85a. Przepisy art. 71b ust. 1 i 1a stosuje się odpowiednio do przedszkoli niepublicznych, niepublicznych innych form wychowania przedszkolnego i szkół niepublicznych.”;
+- **17)** w art. 90:
+    - **a)** ust. 1a otrzymuje brzmienie: „1a. Niepubliczne przedszkola, inne formy wychowania przedszkolnego, szkoły podstawowe oraz ośrodki, o których mowa w art. 2 pkt 5, a także niepubliczne poradnie psychologiczno-pedagogiczne, które, zgodnie z art. 71b ust. 2a, prowadzą wczesne wspomaganie rozwoju dziecka, otrzymują dotację z budżetu odpowiednio gminy lub powiatu w wysokości nie niższej niż kwota przewidziana na jedno dziecko objęte wczesnym wspomaganiem rozwoju w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego, pod warunkiem że osoba prowadząca przedszkole, inną formę wychowania przedszkolnego, szkołę, ośrodek lub poradnię poda organowi właściwemu do udzielania dotacji planowaną liczbę dzieci, które mają być objęte wczesnym wspomaganiem rozwoju, nie później niż do dnia 30 września roku poprzedzającego rok udzielania dotacji.”,
+    - **b)** ust. 3a otrzymuje brzmienie: „3a. Placówki niepubliczne, o których mowa w art. 2 pkt 5 i 7, otrzymują na każdego wychowanka dotację z budżetu powiatu w wysokości nie niższej niż kwota przewidziana na jednego wychowanka tego rodzaju placówki w części oświatowej subwencji ogólnej dla danej jednostki samorządu terytorialnego, a w przypadku niepublicznych ośrodków umożliwiających realizację obowiązku, o którym mowa w art. 14 ust. 3, obowiązku szkolnego i obowiązku nauki dzieciom i młodzieży, o których mowa w art. 16 ust. 7, a także dzieciom i młodzieży z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi, w wysokości nie niższej niż kwota przewidziana na jednego wychowanka tego rodzaju ośrodków w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego, pod warunkiem że osoba prowadząca placówkę przedstawi planowaną liczbę wychowanków organowi właściwemu do udzielenia dotacji, nie później niż do dnia 30 września roku poprzedzającego rok udzielenia dotacji.”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Organ stanowiący jednostki samorządu terytorialnego ustala tryb udzielania i rozliczania dotacji, o których mowa w ust. 1a–1c i 2–3b, oraz tryb i zakres kontroli prawidłowości ich pobrania i wykorzystywania, uwzględniając w szczególności podstawę obliczania dotacji, zakres danych, które powinny być zawarte we wniosku o udzielenie dotacji i w rozliczeniu jej wykorzystania, oraz termin i sposób rozliczenia dotacji.”,
+    - **d)** w ust. 8 wprowadzenie do wyliczenia otrzymuje brzmienie: „Niepubliczne szkoły ponadgimnazjalne prowadzące kwalifikacyjne kursy zawodowe otrzymują na każdego słuchacza kursu, który zdał egzamin potwierdzający kwalifikacje w zawodzie w zakresie danej kwalifikacji, dotację z budżetu powiatu w wysokości nie niższej niż kwota przewidziana na jednego słuchacza kwalifikacyjnego kursu zawodowego w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego, jeżeli osoba prowadząca szkołę:”,
+    - **e)** po ust. 8 dodaje się ust. 8a w brzmieniu: „8a. Wysokość dotacji, o której mowa w ust. 8, określa organ stanowiący jednostki samorządu terytorialnego.”;
+
+- **18)** w art. 94a w ust. 6 pkt 1 otrzymuje brzmienie: „1) warunki i tryb przyjmowania do publicznych przedszkoli, szkół, w tym szkół artystycznych, zakładów kształcenia nauczycieli, placówek oraz na kształcenia ustawiczne w formie kwalifikacyjnych kursów zawodowych osób niebędących obywatelami polskimi oraz obywateli polskich, którzy pobierali naukę w szkołach funkcjonujących w systemach oświaty innych państw, a także rodzaje dokumentów potwierdzających poziom wykształcenia i stan zdrowia tych osób oraz sposób kwalifikowania do odpowiedniej klasy lub na odpowiedni semestr, uwzględniając brak znajomości języka polskiego przez kandydata lub brak możliwości przedłożenia przez kandydata dokumentów stwierdzających ukończenie za granicą szkoły lub kolejnego etapu edukacji ;”;
+- **19)** po art. 94a dodaje się art. 94b w brzmieniu: „Art. 94b. Minister właściwy do spraw oświaty i wychowania może zlecić Fundacji Rozwoju Systemu Edukacji, będącej fundacją Skarbu Państwa, realizację zadań w zakresie oświaty i wychowania w ramach programów Unii Europejskiej dotyczących kształcenia, szkolenia, młodzieży i sportu. Na realizację tych zadań Fundacja Rozwoju Systemu Edukacji otrzymuje dotację celową z części budżetu państwa, której dysponentem jest minister właściwy do spraw oświaty i wychowania.”.
+
 **Art. 2.** W ustawie z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2004 r. Nr 125, poz. 1317, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 5:
+    - **a)** w ust. 1 pkt 4 otrzymuje brzmienie: „4) kandydatów do szkół ponadgimnazjalnych lub wyższych i na kwalifikacyjne kursy zawodowe, uczniów tych szkół, studentów oraz słuchaczy kwalifikacyjnych kursów zawodowych, którzy w trakcie praktycznej nauki zawodu są narażeni na działanie czynników szkodliwych, uciążliwych lub niebezpiecznych dla zdrowia;”,
+    - **b)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) szkole, szkole wyższej lub organizatorze kwalifikacyjnych kursów zawodowych – w odniesieniu do osób wymienionych w ust. 1 pkt 4;”;
+
+- **2)** w art. 21 w ust. 1 pkt 2 otrzymuje brzmienie: „2) zadania służby medycyny pracy wykonywane zgodnie z art. 6 ust. 3, z zastrzeżeniem art. 21a;”;
+- **3)** po art. 21 dodaje się art. 21a w brzmieniu: „Art. 21a. Pełnoletni kandydaci na kwalifikacyjne kursy zawodowe oraz pełnoletni słuchacze kwalifikacyjnych kursów zawodowych ponoszą koszty przeprowadzonych badań oceny możliwości pobierania nauki uwzględniającej stan zdrowia i zagrożenia występujące w miejscu nauki.”.
 
 **Art. 3.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm. ) po art. 15 dodaje się art. 15a w brzmieniu: „Art. 15a. Minister właściwy do spraw szkolnictwa wyższego może zlecić Fundacji Rozwoju Systemu Edukacji, będącej fundacją Skarbu Państwa, realizację zadań w zakresie szkolnictwa wyższego w ramach programów Unii Europejskiej dotyczących kształcenia, szkolenia, młodzieży i sportu. Na realizację tych zadań Fundacja Rozwoju Systemu Edukacji otrzymuje dotację celową z części budżetu państwa, której dysponentem jest minister właściwy do spraw szkolnictwa wyższego.”.
 
 **Art. 4.** W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857, z późn. zm. ) po art. 29 dodaje się art. 29a w brzmieniu: „Art. 29a. Minister właściwy do spraw kultury fizycznej może zlecić Fundacji Rozwoju Systemu Edukacji, będącej fundacją Skarbu Państwa, realizację zadań w zakresie kultury fizycznej w ramach programów Unii Europejskiej dotyczących kształcenia, szkolenia, młodzieży i sportu. Na realizację tych zadań Fundacja Rozwoju Systemu Edukacji otrzymuje dotację celową z części budżetu państwa, której dysponentem jest minister właściwy do spraw kultury fizycznej.”.
 
 **Art. 5.** W ustawie z dnia 13 czerwca 2013 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 827) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w pkt 4 w lit. f ust. 4b otrzymuje brzmienie: „4b. Jeżeli liczba dzieci, którym gmina ma obowiązek zapewnić możliwość korzystania z wychowania przedszkolnego, zamieszkałych na obszarze danej gminy, zgłoszonych podczas rekrutacji do publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, niepublicznego przedszkola, o którym mowa w art. 90 ust. 1b, lub niepublicznej innej formy wychowania przedszkolnego, o której mowa w art. 90 ust. 1c, przewyższy liczbę miejsc w tym przedszkolu lub tej innej formie wychowania przedszkolnego, dyrektor przedszkola, a w przypadku innej formy wychowania przedszkolnego prowadzonej przez gminę – także dyrektor szkoły, informuje o nieprzyjęciu dziecka do przedszkola lub innej formy wychowania przedszkolnego wójta (burmistrza, prezydenta miasta). W tym przypadku wójt (burmistrz, prezydent miasta) jest obowiązany pisemnie wskazać rodzicom inne publiczne przedszkole albo publiczną inną formę wychowania przedszkolnego, albo niepubliczne przedszkole, o którym mowa w art. 90 ust. 1b, albo niepubliczną inną formę wychowania przedszkolnego, o której mowa w art. 90 ust. 1c, które mogą przyjąć dziecko. Czas pracy wskazanego przez wójta (burmistrza, prezydenta miasta) innego publicznego przedszkola albo publicznej innej formy wychowania przedszkolnego, albo niepublicznego przedszkola, o którym mowa w art. 90 ust. 1b, albo niepublicznej innej formy wychowania przedszkolnego, o której mowa w art. 90 ust. 1c, powinien być zbliżony do czasu pracy odpowiednio przedszkola lub innej formy wychowania przedszkolnego, o przyjęcie do których ubiegali się rodzice dziecka.”;
+- **2)** w art. 1 w pkt 20: 14d ust. 1, otrzymanej na ucznia przez gminę dotującą przedszkole, do którego uczęszcza uczeń.
+    - **a)** w lit. b: – w ust. 1b po pkt 5 dodaje się przecinek i pkt 6 w brzmieniu: „6) stosuje zasady przyjmowania do publicznych przedszkoli, określone w rozdziale 2a”, – w ust. 1c po pkt 2 dodaje się przecinek i pkt 3 w brzmieniu: „3) stosuje zasady przyjmowania do publicznych innych form wychowania przedszkolnego określone w rozdziale 2a”, – ust. 1k i 1l otrzymują brzmienie: „1k. Jeżeli do przedszkola, o którym mowa w ust. 1b, uczęszcza uczeń niebędący mieszkańcem gminy dotującej to przedszkole, gmina, której mieszkańcem jest ten uczeń, pokrywa koszty dotacji udzielonej zgodnie z ust. 1b do wysokości kwoty wydatków bieżących stanowiących w gminie dotującej podstawę ustalenia wysokości dotacji dla przedszkoli niepublicznych, o których mowa w ust. 1b lub 1j, w przeliczeniu na jednego ucznia, pomniejszonych o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, a także o kwotę dotacji, o której mowa w art.
+
+1l. Jeżeli do niepublicznej innej formy wychowania przedszkolnego, o której mowa w ust. 1c, uczęszcza uczeń niebędący mieszkańcem gminy dotującej tę formę, gmina, której mieszkańcem jest ten uczeń, pokrywa koszty dotacji udzielonej zgodnie z ust. 1c, do wysokości iloczynu kwoty wydatków bieżących stanowiących w gminie dotującej podstawę ustalenia wysokości dotacji dla przedszkoli niepublicznych, o których mowa w ust. 1c, w przeliczeniu na jednego ucznia, pomniejszonych o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, a także o kwotę dotacji, o której mowa w art. 14d ust. 1, otrzymanej na ucznia przez gminę dotującą inną formę wychowania przedszkolnego, do której uczęszcza uczeń, i wskaźnika procentowego ustalonego na potrzeby dotowania niepublicznych form wychowania przedszkolnego w gminie zobowiązanej do pokrycia kosztów udzielonej dotacji.”,
+
+- **b)** w lit. d ust. 2g otrzymuje brzmienie: „2g. Na wniosek osoby prowadzącej odpowiednio niepubliczne przedszkole, inną formę wychowania przedszkolnego, szkołę, ośrodek lub niepubliczną poradnię psychologiczno-pedagogiczną, a także placówkę, o których mowa w ust. 1a, 2a, 2b, 2d, 3 i 3a, organ wykonawczy jednostki samorządu terytorialnego właściwej do udzielenia dotacji może wyrazić zgodę na odstąpienie od terminu, o którym mowa w ust. 1a, 2a, 2b, 2d, 3 i 3a, lub na udzielenie dotacji w terminie wcześniejszym niż od początku następnego roku budżetowego.”;
+- **3)** art. 6 otrzymuje brzmienie: „Art. 6. Do dnia 31 sierpnia 2016 r. przepisy art. 3 pkt 22, art. 6 ust. 2a, art. 14 ust. 1, 4b, 4c, 5–5i i 8, art. 14a ust. 4a, art. 14d ust. 4 i 6, art. 20 ust. 2 pkt 1, art. 79a, art. 80 ust. 2, 2a, 2e i 3d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, art. 80 ust. 3e–3g i 4 ustawy zmienianej w art. 1, art. 90 ust. 1b, 1d–1f, 1h–1k, 1m–1o, 2b, 2c, 2g i 3d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, art. 90 ust. 3e–3g i 4 ustawy zmienianej w art. 1, art. 7 ust. 4 pkt 3, art. 12, art. 13, art. 14 ust. 1 i 2 oraz art. 15 stosuje się także odpowiednio do oddziałów przedszkolnych w szkołach podstawowych.”;
+- **4)** art. 15 otrzymuje brzmienie: „Art. 15. Do dnia 31 sierpnia 2015 r. na wniosek osoby prowadzącej odpowiednio niepubliczne przedszkole, inną formę wychowania przedszkolnego, szkołę, ośrodek lub niepubliczną poradnię psychologicznopedagogiczną, a także placówkę, o których mowa w art. 90 ust. 1a, 2a, 2b, 2d, 3 i 3a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz w art. 14, organ wykonawczy jednostki samorządu terytorialnego właściwej do udzielenia dotacji może wyrazić zgodę na odstąpienie od terminu, o którym mowa w art. 90 ust. 1a, 2a, 2b, 2d, 3 i 3a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 14, lub na udzielenie dotacji w terminie wcześniejszym niż od początku następnego roku budżetowego.”.
 
 **Art. 6.**
 
@@ -539,6 +697,9 @@ source: "isap-pdf"
 
 **Art. 14.** W postępowaniu rekrutacyjnym na rok szkolny 2014/2015:
 
+- **1)** na zajęcia rozwijające uzdolnienia oraz zajęcia rozwijające zainteresowania organizowane w publicznej placówce oświatowo-wychowawczej,
+- **2)** do publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania – kryteria, terminy postępowania rekrutacyjnego i terminy postępowania uzupełniającego, w tym terminy składania dokumentów, wymagane dokumenty oraz sposób przeliczania punktów określa dyrektor placówki w uzgodnieniu z organem prowadzącym. Organ prowadzący może określić kryterium dochodu na osobę w rodzinie kandydata, o którym mowa w art. 20c ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Spełnianie przez kandydata kryteriów potwierdza się odpowiednimi oświadczeniami. Przepisy art. 20a ust. 1, 4 i 6, art. 20c ust. 9 i 10, art. 20s, art. 20t ust. 1, art. 20v i art. 20z–20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+
 **Art. 15.**
 
 1. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do oddziału międzynarodowego w publicznej szkole podstawowej ogólnodostępnej, oddziału międzynarodowego w publicznym gimnazjum ogólnodostępnym i publicznej szkole ponadgimnazjalnej ogólnodostępnej przyjmuje się kandydatów na warunkach i w trybie określonych odpowiednio w statucie danej publicznej szkoły podstawowej, publicznego gimnazjum i publicznej szkoły ponadgimnazjalnej.
@@ -559,5 +720,15 @@ source: "isap-pdf"
 
 **Art. 19.** Dotychczasowe przepisy wykonawcze wydane na podstawie: [1) art. 60 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 60 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 1 września 2019 r.;]
 
+- **2)** art. 71b ust. 7 pkt 3 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 71b ust. 7 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 1 stycznia 2016 r.;
+- **3)** art. 94a ust. 6 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 94a ust. 6 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 1 stycznia 2015 r.;
+- **4)** art. 6 ust. 5 ustawy zmienianej w art. 2 zachowują moc, nie dłużej jednak niż do dnia 1 września 2014 r.
+
 **Art. 20.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów:
+
+- **1)** art. 1 pkt 18, który wchodzi w życie z dniem 1 maja 2014 r.;
+- **2)** art. 1 pkt 9, który wchodzi w życie z dniem 1 stycznia 2015 r.;
+- **3)** art. 1 pkt 17 lit. c, który wchodzi w życie z dniem 31 marca 2015 r.;
+- **4)** art. 1 pkt 11 w zakresie art. 20l ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, który wchodzi w życie z dniem 1 stycznia 2016 r.
+
 

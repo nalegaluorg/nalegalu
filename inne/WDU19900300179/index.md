@@ -8,7 +8,7 @@ pos: 179
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Policji
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1990-04-06 |
 | Data wydania | 1990-05-10 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900300179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/179/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -60,6 +60,10 @@ source: "isap-pdf"
 **Art. 3.** Wojewoda oraz wójt (burmistrz, prezydent miasta) lub starosta sprawujący władzę administracji ogólnej oraz organy gminy, powiatu i samorządu województwa wykonują zadania w zakresie ochrony bezpieczeństwa lub porządku publicznego na zasadach określonych w ustawach.
 
 **Art. 3a.** Obowiązku doręczenia korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej, o których mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), nie stosuje się:
+
+- **1)** w sprawach osobowych funkcjonariuszy Policji;
+- **2)** w sprawach osobowych byłych funkcjonariuszy Policji;
+- **3)** jeżeli doręczenie korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej mogłoby istotnie utrudniać lub uniemożliwić realizację zadań Policji.
 
 #### Rozdział 2 Organizacja Policji
 
@@ -316,6 +320,20 @@ source: "isap-pdf"
 **Art. 6h.** (uchylony)
 
 **Art. 6i.** Kierownicy jednostek organizacyjnych Policji są obowiązani współdziałać z Biurem Nadzoru Wewnętrznego w zakresie realizacji jego zadań, w szczególności:
+
+- **1)** udostępniać, na wniosek Inspektora Nadzoru Wewnętrznego, niezbędne uzbrojenie, wyposażenie, urządzenia i środki techniczne;
+- **2)** zapewniać warunki niezbędne do sprawnej realizacji zadań przez inspektorów Biura Nadzoru Wewnętrznego, w szczególności przez zapewnienie swobodnego wstępu na teren jednostki organizacyjnej Policji, niezwłocznego przedstawiania żądanych informacji i dokumentów, terminowego udzielania ustnych i pisemnych wyjaśnień, a także udostępnianie niezbędnych urządzeń technicznych i zapewnienie dostępu do Internetu oraz, w miarę możliwości, oddzielnego pomieszczenia z odpowiednim wyposażeniem;
+- **3)** przekazywać dane policjantów objętych weryfikacją, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, najpóźniej w terminie 14 dni przed planowanym:
+    - **a)** powołaniem na stanowiska komendantów i ich zastępców, dowódców jednostek organizacyjnych i ich zastępców, Dyrektora CLKP i jego zastępców, dyrektorów i ich zastępców oraz naczelników,
+    - **b)** oddelegowaniem do pełnienia służby lub wykonywaniem zadań poza granicami kraju na okres przekraczający 14 dni, z wyłączeniem oddelegowania do pełnienia służby poza granicami państwa w kontyngencie policyjnym, o którym mowa w art. 145a ust. 1 pkt 2 i 3,
+    - **c)** wystąpieniem o mianowanie na stopnie generalnego inspektora Policji i nadinspektora Policji,
+    - **d)** wystąpieniem o przedterminowe mianowanie w korpusie oficerów młodszych i starszych w Policji,
+    - **e)** wystąpieniem o wyróżnienie, na wniosek ministra właściwego do spraw wewnętrznych, orderami i odznaczeniami, o których mowa w ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2023 r. poz.
+
+- **2053)** ,
+    - **f)** oddelegowaniem do wykonywania zadań w Biurze Nadzoru Wewnętrznego;
+
+- **4)** udostępniać dokumentację z kontroli, o której mowa w art. 12 ust. 3 pkt 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222).
 
 **Art. 7.**
 
@@ -838,6 +856,9 @@ source: "isap-pdf"
 13. Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej Policji właściwej według miejsca dokonania czynności określonych w ust. 1. Jednostka organizacyjna Policji, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
 
 **Art. 15f.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób:
+
+- **1)** sporządzania dokumentów, o których mowa w art. 15d ust. 10 i 13 oraz art. 15e ust. 10 i 12, a także wzory protokołów, o których mowa w art. 15d ust. 9 i art. 15e ust. 9, z uwzględnieniem informacji niezbędnych do udokumentowania podstaw prawnych, celu i zakresu dokonanej kontroli osobistej, przeglądania zawartości bagaży i sprawdzania ładunków w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących w tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności;
+- **2)** postępowania w jednostkach organizacyjnych Policji ze złożonym zażaleniem, o którym mowa w art. 15d i art. 15e, celem nadania mu biegu, a także sposób postępowania z protokołami i dokumentacją służbową sporządzonymi w wyniku dokonania tych czynności.
 
 **Art. 15g.**
 
@@ -1596,6 +1617,11 @@ source: "isap-pdf"
 
 **Art. 21j.** Informacje, w tym dane osobowe, przetwarzane w zbiorach danych daktyloskopijnych oraz uzyskane w wyniku ich przetwarzania są udzielane bezpłatnie organom prowadzącym:
 
+- **1)** postępowanie karne;
+- **2)** postępowanie w sprawach nieletnich;
+- **3)** czynności wykrywcze lub identyfikacyjne;
+- **4)** czynności związane z wprowadzaniem danych daktyloskopijnych do innych zbiorów danych na podstawie odrębnych przepisów.
+
 **Art. 21k.**
 
 1. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. a–h oraz k, są przechowywane w zbiorach danych daktyloskopijnych w celu prowadzenia czynności identyfikacyjnych.
@@ -1636,6 +1662,17 @@ source: "isap-pdf"
 2. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. h, usuwa się ze zbiorów danych daktyloskopijnych, w przypadku odnalezienia lub ustalenia miejsca pobytu osoby zaginionej lub po upływie 55 lat od dnia rozpoczęcia ich przetwarzania w zbiorach danych daktyloskopijnych. Informacje te, w tym dane osobowe, usuwa się na wniosek jednostki organizacyjnej, służby, instytucji państwowej lub organu władzy publicznej prowadzącej poszukiwanie.
 
 **Art. 21n.** Usunięcia informacji, w tym danych osobowych, ze zbioru danych daktyloskopijnych, w tym zniszczenia kart daktyloskopijnych i chejroskopijnych, dokonuje komisja powołana przez Komendanta Głównego Policji, sporządzając z tych czynności protokół. Art. 21na. Zadania, o których mowa w art. 21a–21e oraz art. 21h–21n, Komendant Główny Policji realizuje przy pomocy CLKP. Art. 21nb. 1. Komendant Główny Policji prowadzi Krajowy System Informacyjny Policji, zwany dalej „KSIP”, będący zestawem zbiorów danych, w którym przetwarza się informacje, w tym dane osobowe, w związku z realizacją zadań ustawowych. 1a. W KSIP Policja może przetwarzać dane biometryczne w postaci:
+
+- **1)** wizerunków osób w celu realizacji zadań, o których mowa w art. 1 ust. 2, w zakresie celów identyfikacyjnych lub weryfikacji tożsamości osób, której dotyczą realizowane zadania lub wykonywane czynności, o których mowa w art. 14 ust. 1 i 2, oraz jeżeli zadania Policji dotyczą celów określonych w art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości, także w zakresie realizacji celów wykrywczych lub dowodowych;
+- **2)** danych daktyloskopijnych w zakresie niezbędnym do powiązania informacji, w tym danych osobowych dotyczących osób lub śladów, o których mowa w art. 21h ust. 2 pkt 1, z danymi przetwarzanymi w zbiorach danych daktyloskopijnych, o których mowa w art. 21h w zakresie danych określonych w art. 21h ust. 2 pkt 2–5.
+
+1b. Dane osobowe zgromadzone w KSIP w celu realizacji zadań ustawowych, o których mowa w art. 1 ust. 1 i ust. 2 pkt 1–4, Policja przechowuje przez okres niezbędny do realizacji ustawowych zadań Policji. Organy Policji dokonują weryfikacji tych danych po zakończeniu sprawy, w ramach której dane te zostały wprowadzone do zbioru, a ponadto nie rzadziej niż co 10 lat od dnia uzyskania lub pobrania informacji usuwają zbędne dane.
+
+2. W odniesieniu do informacji, w tym danych osobowych, przetwarzanych w KSIP Komendant Główny Policji jest administratorem w rozumieniu przepisów o ochronie danych osobowych.
+
+3. Komendant Główny Policji zapewnia utrzymanie, rozbudowę oraz modyfikację KSIP.
+
+4. Utrzymanie, rozbudowa i modyfikacja KSIP są finansowane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw wewnętrznych.
 
 **Art. 21o.**
 
@@ -2370,6 +2407,15 @@ source: "isap-pdf"
 
 **Art. 34k.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** formy, tryb, organizację, sposób odbywania i dokumentowania szkoleń, o których mowa w art. 34 ust. 8 pkt 1,
+- **2)** sposób oceniania policjanta w trakcie szkoleń, o których mowa w art. 34 ust. 8 pkt 1, oraz zakres, tryb, formy i terminy składania egzaminów końcowych z tych szkoleń,
+- **3)** sposób oceniania policjanta w trakcie egzaminów końcowych, o których mowa w art. 34 ust. 10, oraz zakres, tryb, formy i terminy składania tych egzaminów,
+- **4)** sposób powoływania komisji egzaminacyjnej,
+- **5)** sposób dokumentowania szkoleń, o których mowa w art. 28a ust. 9 i art. 30 ust. 2a, oraz jednostki organizacyjne Policji właściwe do ich organizowania,
+- **6)** formy, organizację, sposób odbywania i dokumentowania doskonalenia zawodowego oraz sposób oceniania policjanta w trakcie jego trwania,
+- **7)** sposób sprawowania nadzoru nad realizacją szkoleń, o których mowa w art. 28a ust. 9, art. 30 ust. 2a i art. 34 ust. 8 pkt 1, oraz doskonalenia zawodowego,
+- **8)** wzory świadectwa ukończenia szkolenia zawodowego, świadectwa ukończenia szkolenia zawodowego z wyróżnieniem, świadectwa zdania egzaminu końcowego, świadectwa zdania egzaminu końcowego z wyróżnieniem, świadectwa ukończenia szkolenia dla policjantów w służbie kandydackiej, świadectwa ukończenia szkolenia dla policjantów w służbie kontraktowej oraz świadectwa ukończenia doskonalenia zawodowego centralnego – mając na uwadze zapewnienie właściwego przygotowania policjantów do wykonywania zadań służbowych oraz konieczność zapewnienia właściwej realizacji oraz prawidłowego dokumentowania szkoleń, o których mowa w art. 28a ust. 9, art. 30 ust. 2a oraz art. 34 ust. 8 pkt 1, i doskonalenia zawodowego oraz przebiegu egzaminów końcowych.
+
 **Art. 35.**
 
 1. Policjant podlega okresowemu opiniowaniu służbowemu.
@@ -2521,6 +2567,8 @@ source: "isap-pdf"
 - **3)** nagrody motywacyjne;
 - **4)** należności z tytułu podróży służbowych oraz oddelegowania, o którym mowa w ust. 2.
 
+3a. W przypadku policjantów oddelegowanych do wykonywania zadań służbowych w urzędzie obsługującym ministra właściwego do spraw wewnętrznych albo w jednostce podległej lub nadzorowanej przez ministra właściwego do spraw wewnętrznych, należności, o których mowa w ust. 3, wypłaca jednostka organizacyjna Policji, w której policjant pełnił służbę bezpośrednio przed oddelegowaniem, w uzgodnieniu z kierownikiem urzędu albo jednostki, do której policjant został oddelegowany.
+
 4. Świadczenia i należności pieniężne niewymienione w ust. 3 przyznaje i wypłaca jednostka organizacyjna Policji, w której policjant pełnił służbę bezpośrednio przed oddelegowaniem.
 
 **Art. 36l.** Do policjanta oddelegowanego do wykonywania zadań służbowych w instytucji krajowej stosuje się przepisy, które mają zastosowanie do pracowników zatrudnionych na stanowiskach analogicznych do zajmowanego przez niego stanowiska służbowego, w szczególności dotyczące obowiązków pracodawcy i pracownika, regulaminów pracy, wyróżnień, odpowiedzialności materialnej pracowników, czasu pracy, bezpieczeństwa i higieny pracy, a także funduszu nagród, z wyłączeniem pozostałych przepisów w sprawie wynagrodzeń oraz innych świadczeń i należności pieniężnych wynikających ze stosunku pracy.
@@ -2560,6 +2608,10 @@ source: "isap-pdf"
 **Art. 37.** Policjantowi można powierzyć pełnienie obowiązków służbowych na innym stanowisku w tej samej miejscowości na czas nieprzekraczający 12 miesięcy; w takim przypadku uposażenie policjanta nie może być obniżone.
 
 **Art. 37a.** Policjanta w przypadku zwolnienia z dotychczas zajmowanego stanowiska służbowego można przenieść do dyspozycji przełożonego właściwego w sprawach osobowych, na okres:
+
+- **1)** poprzedzający powołanie lub mianowanie na inne stanowisko służbowe albo zwolnienie ze służby, nie dłuższy niż 12 miesięcy;
+- **2)** zwolnienia z obowiązku wykonywania zadań służbowych, udzielonego na zasadach określonych w przepisach o związkach zawodowych;
+- **3)** delegowania do pełnienia zadań służbowych poza Policją w kraju lub za granicą.
 
 **Art. 38.**
 
@@ -2681,6 +2733,9 @@ source: "isap-pdf"
 
 **Art. 40.** Policjant może być skierowany do komisji lekarskiej podległej ministrowi właściwemu do spraw wewnętrznych:
 
+- **1)** z urzędu lub na jego wniosek – w celu określenia stanu zdrowia oraz ustalenia zdolności fizycznej i psychicznej do służby, jak również związku poszczególnych chorób ze służbą;
+- **2)** z urzędu – w celu sprawdzenia prawidłowości orzekania o czasowej niezdolności do służby z powodu choroby lub prawidłowości wykorzystania zwolnienia lekarskiego.
+
 **Art. 40a.**
 
 1. Funkcjonariusz jest obowiązany poddać się badaniom zleconym przez komisję lekarską, w tym również badaniom specjalistycznym, psychologicznym i dodatkowym.
@@ -2760,6 +2815,9 @@ source: "isap-pdf"
 2. W razie zwolnienia policjanta ze służby na podstawie art. 41 ust. 2 pkt 5 i 6 w okresie ciąży, w czasie urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu ojcowskiego lub urlopu rodzicielskiego przysługuje mu uposażenie do końca okresu ciąży oraz trwania wymienionego urlopu.
 
 **Art. 44a.** Policjantowi zwolnionemu na podstawie art. 41 ust. 2 pkt 5 i 6 w czasie urlopu wychowawczego przysługują do końca okresu, na który ten urlop został udzielony:
+
+- **1)** świadczenie pieniężne, wypłacane na zasadach obowiązujących przy wypłacaniu zasiłku wychowawczego;
+- **2)** inne uprawnienia przewidziane dla pracowników zwalnianych z pracy w czasie urlopu wychowawczego z przyczyn niedotyczących pracowników.
 
 **Art. 45.**
 
@@ -3614,7 +3672,17 @@ source: "isap-pdf"
 
 **Art. 88b.** Prawo do zakwaterowania nie przysługuje policjantowi:
 
+- **1)** który nabył lokal mieszkalny od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielony w trybie administracyjnym w związku z pełnioną służbą;
+- **2)** od dnia przyjęcia do służby do dnia ukończenia szkolenia zawodowego podstawowego;
+- **3)** od dnia przyjęcia do służby do dnia ukończenia studiów pierwszego stopnia o profilu praktycznym na kierunku nauka o Policji w Akademii Policji w Szczytnie;
+- **4)** w służbie kandydackiej.
+
 **Art. 89.** Członkami rodziny policjanta, których uwzględnia się przy przydziale lokalu mieszkalnego albo kwatery tymczasowej, są pozostający z policjantem we wspólnym gospodarstwie domowym:
+
+- **1)** małżonek;
+- **2)** dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie w ramach rodziny zastępczej, pozostające na jego utrzymaniu, nie dłużej jednak niż do dnia zawarcia przez nie związku małżeńskiego, które:
+    - **a)** nie ukończyły 18. roku życia, a w przypadku uczęszczania do szkoły lub odbywania studiów w uczelni – 26. roku życia, albo
+    - **b)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w lit. a.
 
 **Art. 90.**
 
@@ -4459,6 +4527,9 @@ source: "isap-pdf"
 
 **Art. 132a.** Przewinienie dyscyplinarne jest zawinione wtedy, gdy policjant:
 
+- **1)** ma zamiar jego popełnienia, to jest chce je popełnić albo przewidując możliwość jego popełnienia, na to się godzi;
+- **2)** nie mając zamiaru jego popełnienia, popełnia je jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość taką przewidywał albo mógł i powinien przewidzieć.
+
 **Art. 132b.**
 
 1. Policjant odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie i w porozumieniu z inną osobą, a także w przypadku gdy kieruje popełnieniem przez innego policjanta przewinienia dyscyplinarnego albo poleca jego popełnienie.
@@ -4500,6 +4571,14 @@ source: "isap-pdf"
 - **3)** Komendant Główny Policji – w stosunku do Komendanta CBŚP, Komendanta CBZC, Dyrektora CLKP, komendanta wojewódzkiego Policji, Komendanta Stołecznego Policji, komendanta szkoły policyjnej, dowódcy kontyngentu policyjnego oraz policjantów, których przełożonym dyscyplinarnym jest Komendant BSWP albo Komendant-Rektor Akademii Policji w Szczytnie.
 
 **Art. 134.** Karami dyscyplinarnymi są:
+
+- **1)** upomnienie;
+- **2)** nagana;
+- **3)** ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku;
+- **4)** wyznaczenie na niższe stanowisko służbowe;
+- **5)** obniżenie stopnia;
+- **6)** ostrzeżenie o niepełnej przydatności do służby;
+- **7)** wydalenie ze służby.
 
 **Art. 134a.** Kara upomnienia i kara nagany oznaczają wytknięcie ukaranemu przez przełożonego dyscyplinarnego niewłaściwego postępowania.
 
@@ -5134,6 +5213,12 @@ source: "isap-pdf"
 
 **Art. 145f.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** warunki otrzymywania, rodzaj waluty oraz wysokość dodatków, świadczeń i należności, o których mowa w art. 145e ust. 2, uwzględniając ich rodzaje i zakres przyznawania z uwagi na występujące zagrożenia, uciążliwość lub miejsce pełnienia służby oraz sprawowaną przez policjanta funkcję;
+- **2)** uprawnienia i obowiązki policjantów delegowanych do pełnienia służby poza granicami państwa, z uwzględnieniem warunków i trybu delegowania policjantów, przypadków ich odwoływania przed wyznaczonym terminem oraz przedłużania czasu delegowania, a także przełożonych właściwych w tych sprawach;
+- **3)** szczegółowe zasady zatrudniania w kontyngentach policyjnych pracowników, o których mowa w art. 145c, i ich wynagradzania, z uwzględnieniem postanowień zawartych w przepisach prawa pracy oraz specyfiki związanej z wykonywaniem pracy w kontyngencie policyjnym realizującym zadania poza granicami państwa, a w szczególności prawa do dodatku zagranicznego, świadczeń z tytułu podróży i przejazdów oraz innych należności pieniężnych związanych z delegowaniem, a także świadczeń odszkodowawczych wynikających z odrębnych ustaw;
+- **4)** warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ), przez policjantów i pracowników, o których mowa w art. 145c, w związku z urazami nabytymi podczas wykonywania przez nich zadań poza granicami państwa oraz sposób i tryb finansowania kosztów, uwzględniając zasady i sposób wydatkowania środków publicznych;
+- **5)** szczegółowe zasady i tryb finansowania i działania kontyngentu policyjnego, w tym jego wyposażenia i przewozu, z uwzględnieniem przepisów o finansach publicznych.
+
 **Art. 145g.**
 
 1. Wydatki związane z udziałem kontyngentów policyjnych poza granicami państwa finansowane są z budżetu państwa, w części ministra właściwego do spraw wewnętrznych.
@@ -5189,7 +5274,14 @@ source: "isap-pdf"
 
 **Art. 145h.** Policjanci i pracownicy Policji są uprawnieni do wykonywania obowiązków służbowych na terytorium innego państwa członkowskiego Unii Europejskiej, w celu realizacji zadań:
 
+- **1)** w formie wspólnych patroli lub innego rodzaju wspólnych operacji w celu ochrony porządku i bezpieczeństwa publicznego oraz zapobiegania przestępczości, o których mowa w art. 17 decyzji Rady 2008/615/WSiSW z dnia 23 czerwca 2008 r. w sprawie intensyfikacji współpracy transgranicznej, szczególnie w zwalczaniu terroryzmu i przestępczości transgranicznej (Dz. Urz. UE L 210 z 06.08.2008, str. 1), zwanej dalej „decyzją Rady 2008/615/WSiSW”;
+- **2)** w formie udzielania wsparcia w związku ze zgromadzeniami, imprezami masowymi lub podobnymi wydarzeniami, klęskami żywiołowymi oraz poważnymi wypadkami w celu ochrony porządku i bezpieczeństwa publicznego oraz zapobiegania przestępczości, o którym mowa w art. 18 decyzji Rady 2008/615/WSiSW;
+- **3)** w ramach udzielania pomocy przez specjalną jednostkę interwencyjną, o której mowa w decyzji Rady 2008/617/WSiSW z dnia 23 czerwca 2008 r. w sprawie usprawnienia współpracy pomiędzy specjalnymi jednostkami interwencyjnymi państw członkowskich Unii Europejskiej w sytuacjach kryzysowych (Dz. Urz. UE L 210 z 06.08.2008, str. 73).
+
 **Art. 145i.** O wykonywaniu obowiązków służbowych przez policjantów lub pracowników Policji na terytorium innego państwa członkowskiego Unii Europejskiej, oraz określeniu warunków wykonywania tych obowiązków postanawia:
+
+- **1)** Komendant Główny Policji – decyzją, w przypadku, o którym mowa w art. 145h pkt 1;
+- **2)** minister właściwy do spraw wewnętrznych – zarządzeniem, w przypadkach, o których mowa w art. 145h pkt 2 i 3.
 
 #### Rozdział 10c Punkty kontaktowe wymiany informacji z państwami członkowskimi Unii Europejskiej oraz krajowe biuro do spraw odzyskiwania mienia
 
@@ -5304,6 +5396,11 @@ source: "isap-pdf"
 
 **Art. 145o.** Opiekun psa służbowego, opiekun konia służbowego, opiekun psa służbowego wycofanego z użycia i opiekun konia służbowego wycofanego z użycia, zwani dalej „opiekunem”, oraz organizacja, o której mowa w art. 145n ust. 9, zapewniają prawidłowe utrzymanie zwierzęcia obejmujące w szczególności:
 
+- **1)** racjonalne żywienie oraz stały dostęp do czystej i świeżej wody;
+- **2)** dbanie o stan zdrowia i kondycję, w tym poddawanie terminowym szczepieniom i zabiegom profilaktycznym oraz zapewnienie możliwości codziennego ruchu;
+- **3)** pielęgnację i utrzymanie w czystości;
+- **4)** warunki utrzymania dostosowane do potrzeb biologicznych.
+
 **Art. 145p.**
 
 1. Żywienie psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia jest dostosowane do potrzeb jego organizmu, wagi, wieku, stanu zdrowia, warunków klimatycznych, funkcji fizjologicznych oraz wysiłku fizycznego lub wskazań lekarza weterynarii.
@@ -5342,6 +5439,10 @@ source: "isap-pdf"
 6. W sprawach, o których mowa w ust. 4 i 5, właściwy jest kierownik jednostki organizacyjnej Policji, na której stanie znajduje się zwierzę. W przypadku odbywania szkolenia przez psa służbowego w szkole policyjnej właściwy w sprawach, o których mowa w ust. 1–4, jest komendant szkoły policyjnej.
 
 **Art. 145r.** Opiekunowi oraz organizacji, o której mowa w art. 145n ust. 9, zabrania się:
+
+- **1)** zbywania zwierzęcia;
+- **2)** rozmnażania zwierzęcia, z wyjątkiem psów będących na stanie szkoły policyjnej;
+- **3)** wykorzystywania zwierzęcia w celach zarobkowych.
 
 **Art. 145s.**
 
@@ -5393,6 +5494,17 @@ source: "isap-pdf"
 4. W przypadku czasowego braku możliwości sprawowania opieki nad psem służbowym lub koniem służbowym przez opiekuna kierownik jednostki organizacyjnej Policji, na której stanie znajduje się zwierzę, może wyznaczyć czasowego opiekuna psa służbowego lub konia służbowego. Do czasowego opiekuna stosuje się odpowiednio przepisy dotyczące opiekuna psa służbowego lub konia służbowego, z zastrzeżeniem, że ryczałt na pokrycie kosztów wyżywienia zwierzęcia wypłaca się co miesiąc z góry, proporcjonalnie do okresu sprawowania opieki nad psem służbowym lub koniem służbowym.
 
 **Art. 145w.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+- **1)** tryb przydzielania opiekunowi psa służbowego i konia służbowego,
+- **2)** tryb rekrutacji kandydatów, którzy mogą zostać opiekunami psów służbowych wycofanych z użycia i koni służbowych wycofanych z użycia,
+- **3)** tryb wycofywania z użycia psa służbowego i konia służbowego,
+- **4)** sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych, koni służbowych, psów służbowych wycofanych z użycia i koni służbowych wycofanych z użycia,
+- **5)** sposób wyżywienia, wysokość normy wyżywienia psa służbowego i konia służbowego oraz normy wyżywienia psa służbowego wycofanego z użycia i konia służbowego wycofanego z użycia, w tym maksymalną wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia,
+- **6)** tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia,
+- **7)** tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia,
+- **8)** sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi, końmi służbowymi, psami służbowymi wycofanymi z użycia lub końmi służbowymi wycofanymi z użycia,
+- **9)** tryb odbierania psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia opiekunowi lub organizacji, o której mowa w art. 145n ust. 9,
+- **10)** wzory dokumentów stosowanych w tych sprawach – uwzględniając potrzebę zapewnienia prawidłowej realizacji zadań związanych z użyciem psa służbowego lub konia służbowego, prawidłowej opieki nad zwierzęciem, racjonalnego wydatkowania środków finansowych, prawidłowego dokumentowania realizowanych czynności oraz to, że wysokość dziennej stawki pieniężnej na wyżywienie zwierząt jest uzależniona od wagi, okresu roku i zadań wykonywanych przez psa służbowego, okresu roku i zadań wykonywanych przez konia służbowego, a także że nie może ona przekroczyć 1/30 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
 
 #### Rozdział 11 Przepisy przejściowe i końcowe
 

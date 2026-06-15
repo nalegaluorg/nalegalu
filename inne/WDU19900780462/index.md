@@ -8,7 +8,7 @@ pos: 462
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Straży Granicznej
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1990-10-12 |
 | Data wydania | 1990-11-19 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900780462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/462/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -99,6 +99,10 @@ source: "isap-pdf"
 
 **Art. 2a.** Obowiązku doręczenia korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej, o których mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3), nie stosuje się:
 
+- **1)** w sprawach osobowych funkcjonariuszy i pracowników Straży Granicznej;
+- **2)** w sprawach osobowych byłych funkcjonariuszy i pracowników Straży Granicznej;
+- **3)** jeżeli doręczenie korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej mogłoby istotnie utrudniać lub uniemożliwić realizację zadań Straży Granicznej.
+
 **Art. 2b.**
 
 1. Straż Graniczna realizuje ustawowe zadania wymagające wprowadzenia danych do systemów teleinformatycznych – w tym z zakresu dokonywania kontroli ruchu granicznego i odpraw granicznych, zapobiegania i przeciwdziałania nielegalnej migracji, zapobiegania i przeciwdziałania przestępczości, a także innych czynności dokonywanych na podstawie niniejszej ustawy lub przepisów odrębnych, które wiążą się z przetwarzaniem danych, w tym danych biometrycznych, w szczególności w oparciu o posiadany Centralny System Informatyczny Straży Granicznej (CSI SG).
@@ -130,6 +134,15 @@ source: "isap-pdf"
 6. W razie czasowej niemożności sprawowania funkcji przez Komendanta Głównego Straży Granicznej minister właściwy do spraw wewnętrznych, do czasu ustania przeszkody w sprawowaniu tej funkcji przez dotychczasowego komendanta, niedłużej jednak niż na 6 miesięcy, powierza pełnienie obowiązków Komendanta Głównego Straży Granicznej jednemu z jego zastępców.
 
 **Art. 3a.** Do zakresu działania Komendanta Głównego Straży Granicznej należy w szczególności:
+
+- **1)** kierowanie prowadzonymi przez Straż Graniczną działaniami w zakresie ochrony granicy państwowej, kontroli ruchu granicznego oraz zapobiegania i przeciwdziałania nielegalnej migracji;
+- **2)** analizowanie zagrożeń bezpieczeństwa granicy państwowej i zagrożeń migracyjnych;
+- **3)** nadawanie regulaminów organizacyjnych komendom oddziałów Straży Granicznej oraz komórkom organizacyjnym Komendy Głównej Straży Granicznej, a także nadawanie statutów ośrodkom szkolenia Straży Granicznej i ośrodkom Straży Granicznej;
+- **4)** organizowanie i określanie zasad szkolenia zawodowego funkcjonariuszy oraz pracowników Straży Granicznej;
+- **5)** sprawowanie nadzoru nad terenowymi organami Straży Granicznej oraz nad ośrodkami szkolenia Straży Granicznej i ośrodkami Straży Granicznej;
+- **6)** udział w przygotowaniu projektu budżetu państwa w zakresie dotyczącym Straży Granicznej, zgodnie z odrębnymi przepisami;
+- **7)** współdziałanie w zakresie realizowanych zadań z właściwymi organami państwowymi, jednostkami samorządu terytorialnego i organizacjami społecznymi;
+- **8)** prowadzenie współpracy z organami i instytucjami Unii Europejskiej oraz organami i instytucjami innych państw właściwymi w sprawach określonych w art. 1 ust. 2 i 2a.
 
 **Art. 3b.** Funkcjonariusze Straży Granicznej oraz osoby powoływane na stanowiska, o których mowa w art. 3 ust. 2 i 3, art. 3c ust. 2 i 5 oraz art. 5 ust. 2 i 5, a także mianowane na stanowiska dyrektora i zastępcy dyrektora komórki organizacyjnej oraz naczelnika, mogą zostać poddani weryfikacji, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych. Weryfikacja, o której mowa w zdaniu pierwszym, może być prowadzona także wobec funkcjonariuszy Straży Granicznej oraz osób zajmujących te stanowiska.
 
@@ -204,6 +217,18 @@ source: "isap-pdf"
 
 **Art. 5b.** Kierownicy jednostek organizacyjnych Straży Granicznej są obowiązani współdziałać z Biurem Nadzoru Wewnętrznego w zakresie realizacji jego zadań, w szczególności:
 
+- **1)** udostępniać, na wniosek Inspektora Nadzoru Wewnętrznego, niezbędne uzbrojenie, wyposażenie, urządzenia i środki techniczne;
+- **2)** zapewniać warunki niezbędne do sprawnej realizacji zadań przez inspektorów Biura Nadzoru Wewnętrznego, w szczególności przez zapewnienie swobodnego wstępu na teren jednostki organizacyjnej Straży Granicznej, niezwłocznego przedstawiania żądanych informacji i dokumentów, terminowego udzielania ustnych i pisemnych wyjaśnień, a także udostępnianie niezbędnych urządzeń technicznych i zapewnienie dostępu do Internetu oraz, w miarę możliwości, oddzielnego pomieszczenia z odpowiednim wyposażeniem;
+- **3)** przekazywać dane funkcjonariuszy Straży Granicznej objętych weryfikacją, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, najpóźniej w terminie 14 dni przed planowanym: z 2023 r. poz. 2053),
+    - **a)** powołaniem na stanowiska komendantów i ich zastępców, dyrektorów i zastępców dyrektorów komórek organizacyjnych oraz naczelników,
+    - **b)** oddelegowaniem do pełnienia służby lub wykonywaniem zadań poza granicami kraju na okres przekraczający 14 dni, z wyłączeniem oddelegowania do pełnienia służby poza granicami państwa w kontyngencie Straży Granicznej, o którym mowa w art. 147c pkt 3a,
+    - **c)** wystąpieniem o mianowanie na stopnie generała brygady Straży Granicznej (kontradmirała Straży Granicznej) oraz generała dywizji Straży Granicznej (wiceadmirała Straży Granicznej),
+    - **d)** wystąpieniem o przedterminowe mianowanie w korpusie oficerów w Straży Granicznej,
+    - **e)** wystąpieniem o wyróżnienie, na wniosek ministra właściwego do spraw wewnętrznych, orderami i odznaczeniami, o których mowa w ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U.
+    - **f)** oddelegowaniem do wykonywania zadań w Biurze Nadzoru Wewnętrznego;
+
+- **4)** udostępniać dokumentację z kontroli, o której mowa w art. 12 ust. 3 pkt 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209).
+
 **Art. 6.**
 
 1. Minister właściwy do spraw wewnętrznych, w drodze rozporządzenia, tworzy i znosi oddziały Straży Granicznej, uwzględniając nadanie im nazwy, określenie siedziby oraz terytorialnego zasięgu działania.
@@ -224,6 +249,10 @@ source: "isap-pdf"
 
 **Art. 6a.** W postępowaniu administracyjnym w sprawach związanych z wykonywaniem zadań i kompetencji Straży Granicznej, jeżeli ustawy nie stanowią inaczej, organami wyższego stopnia są:
 
+- **1)** w stosunku do komendanta placówki oraz dywizjonu Straży Granicznej – komendant oddziału Straży Granicznej;
+- **2)** (uchylony)
+- **3)** w stosunku do komendanta oddziału Straży Granicznej – Komendant Główny Straży Granicznej.
+
 **Art. 6b.**
 
 1. W skład Straży Granicznej wchodzi Wyższa Szkoła Straży Granicznej, zwana dalej „WSSG”.
@@ -237,6 +266,9 @@ source: "isap-pdf"
 **Art. 7.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i sposób naliczeń etatowych w Straży Granicznej, uwzględniając terytorialny zasięg działania jednostek organizacyjnych oraz organizację i specyfikę pełnienia służby w tych jednostkach.
 
 **Art. 7a.** Minister właściwy do spraw wewnętrznych określa, w drodze rozporządzenia:
+
+- **1)** wzór i tryb nadawania sztandaru jednostkom organizacyjnym Straży Granicznej oraz tryb nadawania tym jednostkom imion;
+- **2)** wzór odznak resortowych oraz szczegółowe zasady i tryb ich nadawania funkcjonariuszom.
 
 **Art. 7b.** Dzień 16 maja ustanawia się Świętem Straży Granicznej.
 
@@ -948,6 +980,115 @@ source: "isap-pdf"
 
 **Art. 11a.** (uchylony) Art. 11aa. 1. Kontrola osobista polega na sprawdzeniu:
 
+- **1)** zawartości odzieży i obuwia osoby poddawanej kontroli osobistej, zwanej dalej „osobą kontrolowaną”, i przedmiotów, które znajdują się na jej ciele, bez odsłaniania przykrytej odzieżą powierzchni ciała;
+- **1a)** zawartości podręcznego bagażu oraz innych przedmiotów, które posiada przy sobie osoba kontrolowana;
+- **2)** zawartości odzieży i obuwia osoby kontrolowanej oraz przedmiotów, które znajdują się na ciele tej osoby, z odsłonięciem przykrytych odzieżą powierzchni ciała, w celu oraz w zakresie niezbędnym do odebrania broni lub przedmiotów, o których mowa w art. 11 ust. 1 pkt 2 lit. b–d, w przypadku gdy ujawniono ich posiadanie przez osobę kontrolowaną podczas sprawdzenia, o którym mowa w pkt 1 lub 1a, i gdy do ich odebrania nie jest wystarczające zastosowanie czynności, o których mowa w pkt 1 i 1a;
+- **3)** jamy ustnej, nosa, uszu oraz włosów osoby kontrolowanej;
+- **4)** miejsc intymnych osoby kontrolowanej, w szczególnie uzasadnionych przypadkach.
+
+2. Funkcjonariusz dokonuje kontroli osobistej w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej oraz w zakresie niezbędnym w danych okolicznościach do realizowania celu dokonywanej kontroli.
+
+3. Podczas sprawdzenia, o którym mowa w ust. 1 pkt 2 i 4, osoba kontrolowana powinna być częściowo ubrana. Funkcjonariusz najpierw sprawdza część odzieży, a przed sprawdzeniem kolejnej części umożliwia osobie kontrolowanej włożenie odzieży już sprawdzonej.
+
+4. Sprawdzenia, o którym mowa w ust. 1 pkt 1–2, można dokonać wzrokowo, manualnie lub z wykorzystaniem psa służbowego lub środków technicznych niezbędnych do wykrywania materiałów i urządzeń, których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, a sprawdzenia, o którym mowa w ust. 1 pkt 3 lub 4 – wzrokowo lub manualnie.
+
+5. Osoba kontrolowana jest obowiązana umożliwić funkcjonariuszom dokonanie czynności, o których mowa w ust. 1.
+
+6. Kontrolę osobistą przeprowadza funkcjonariusz tej samej płci, co osoba kontrolowana, w miejscu niedostępnym w czasie dokonywania kontroli dla osób postronnych.
+
+7. Jeżeli kontrola osobista musi być przeprowadzona niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może jej dokonać funkcjonariusz płci odmiennej niż osoba kontrolowana, także w miejscu niespełniającym warunku, o którym mowa w ust. 6, w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej.
+
+8. Podczas kontroli osobistej może być obecna osoba przybrana przez dokonującego czynności, a w przypadku gdy nie uniemożliwi to przeprowadzenia kontroli osobistej albo nie utrudni jej przeprowadzenia w istotny sposób, podczas kontroli może być obecna także osoba wskazana przez osobę kontrolowaną.
+
+9. Funkcjonariusz dokonujący kontroli osobistej:
+
+- **1)** podaje swój stopień, imię i nazwisko w sposób umożliwiający odnotowanie tych danych, jeżeli wcześniej nie wykonał tych czynności;
+- **2)** podaje podstawę prawną oraz przyczynę podjęcia czynności;
+- **3)** legitymuje osobę kontrolowaną oraz inne osoby, jeżeli uczestniczą w czynności;
+- **4)** może wezwać osobę kontrolowaną do dobrowolnego wydania broni lub przedmiotów, o których mowa w art. 11 ust. 1 pkt 2 lit. b–d;
+- **5)** może żądać:
+    - **a)** opróżnienia przez osobę kontrolowaną kieszeni, innych części odzieży, przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych,
+    - **b)** zdjęcia odzieży, obuwia lub bielizny przez osobę kontrolowaną,
+    - **c)** przyjęcia przez osobę kontrolowaną odpowiednej pozycji ciała w sposób umożliwiający sprawdzenie miejsc intymnych;
+
+- **6)** odbiera osobie kontrolowanej broń lub przedmioty, o których mowa w art. 11 ust. 1 pkt 2 lit. b–d;
+- **7)** sprawdza czy informacje o osobie kontrolowanej, przedmiotach lub dokumentach posiadanych przez tę osobę są przetwarzane w zbiorach danych prowadzonych przez Straż Graniczną lub w dostępnych Straży Granicznej krajowych i międzynarodowych systemach informacyjnych, w których przetwarza się informacje, w tym dane osobowe, o osobach podejrzanych o popełnienie przestępstw, osobach zaginionych lub osobach poszukiwanych w związku z ochroną bezpieczeństwa i porządku publicznego lub w których przetwarza się informacje o skradzionych lub utraconych dokumentach lub przedmiotach w celu ich odnalezienia.
+
+10. Po zakończeniu kontroli osobistej funkcjonariusz:
+
+- **1)** odnotowuje dokonanie kontroli osobistej w dokumentacji służbowej, określając datę, miejsce, czas i przyczynę jej przeprowadzenia, zakres przeprowadzonych czynności oraz dane osoby kontrolowanej i osób w niej uczestniczących – jeżeli w toku kontroli nie ujawniono przedmiotów, o których mowa w art. 11 ust. 1 pkt 2 lit. b–d;
+- **2)** sporządza protokół z kontroli osobistej – jeżeli w toku kontroli osobistej ujawniono przedmioty, o których mowa w art. 11 ust. 1 pkt 2 lit. b–d.
+
+11. Funkcjonariusz poucza osobę kontrolowaną o prawie do złożenia zażalenia, o którym mowa w ust. 13, oraz o możliwości żądania sporządzenia protokołu z kontroli osobistej. Funkcjonariusz sporządza protokół z kontroli osobistej, jeżeli osoba kontrolowana zgłosiła takie żądanie bezpośrednio po jej dokonaniu.
+
+12. Protokół z kontroli osobistej zawiera w szczególności:
+
+- **1)** oznaczenie czynności, podstawy prawnej jej podjęcia, jej miejsca oraz danych osoby kontrolowanej i osób w niej uczestniczących, obejmujących imię, nazwisko, numer PESEL lub datę urodzenia oraz rodzaj i cechy identyfikacyjne dokumentu, na podstawie którego ustalono tożsamość osoby;
+- **2)** datę i godzinę rozpoczęcia i zakończenia czynności;
+- **3)** dane funkcjonariusza dokonującego kontroli obejmujące stopień, imię i nazwisko oraz nazwę jednostki organizacyjnej Straży Granicznej, w której pełni służbę;
+- **4)** przebieg kontroli, oświadczenia i wnioski osoby kontrolowanej i osób w niej uczestniczących;
+- **5)** spis znalezionych i odebranych przedmiotów oraz w miarę potrzeby ich opis;
+- **6)** pouczenie osoby kontrolowanej o jej prawach;
+- **7)** w miarę potrzeby opis innych okoliczności dotyczących przebiegu kontroli.
+
+13. Osobie kontrolowanej przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce przeprowadzenia czynności, w terminie 7 dni od dokonania kontroli osobistej, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego.
+
+14. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania kontroli osobistej sąd zawiadamia o tym prokuratora oraz kierownika jednostki organizacyjnej Straży Granicznej nadrzędnej nad jednostką, w której pełni służbę funkcjonariusz, który dokonał kontroli osobistej.
+
+15. W przypadku gdy przedmioty ujawnione w wyniku czynności, o których mowa w ust. 1, stwarzają niebezpieczeństwo dla życia, zdrowia lub mienia, funkcjonariusz, w granicach dostępnych środków, niezwłocznie podejmuje czynności ochronne.
+
+16. Zażalenie, o którym mowa w ust. 13, składa się za pośrednictwem jednostki organizacyjnej Straży Granicznej właściwej według miejsca dokonania kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego. Art. 11ab. 1. Przeglądanie zawartości bagaży lub sprawdzanie ładunków w portach i na dworcach oraz w środkach komunikacji lotniczej, drogowej, kolejowej i wodnej polega na:
+
+- **1)** wzrokowej kontroli zawartości bagaży lub ładunków;
+- **2)** manualnym sprawdzeniu elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów;
+- **3)** manualnym sprawdzeniu ładunków;
+- **4)** sprawdzenie bagaży lub ładunków z wykorzystaniem psa służbowego;
+- **5)** sprawdzeniu bagaży lub ładunków z wykorzystaniem psa służbowego lub urządzeń i sprzętu specjalistycznego, w szczególności służącego do wykrywania przedmiotów, których posiadanie jest zabronione, materiałów wybuchowych, środków odurzających lub substancji psychotropowych i ich prekursorów.
+
+2. Funkcjonariusz realizuje czynności, o których mowa w ust. 1, w zakresie, w jakim jest to niezbędne w danych okolicznościach.
+
+3. Funkcjonariusz realizuje czynności, o których mowa w ust. 1, w obecności osoby posiadającej bagaż lub przewożącej ładunek albo przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+
+4. W przypadku braku możliwości zapewnienia natychmiastowej obecności osób, o których mowa w ust. 3, funkcjonariusz może przejrzeć zawartość bagaży lub sprawdzić ładunek bez ich obecności, jeżeli z posiadanych informacji wynika, że zwłoka może spowodować zagrożenie życia lub zdrowia ludzkiego lub mienia, lub gdy istnieje uzasadniona obawa zniszczenia bądź utracenia przedmiotów mogących stanowić dowód w sprawie albo podlegających zajęciu w postępowaniu karnym.
+
+5. Funkcjonariusz, w związku z realizacją czynności, o których mowa w ust. 1, ma prawo żądania udostępnienia bagaży lub przewożonych ładunków, w tym otwarcia bagażnika oraz udostępnienia przestrzeni bagażowej w środkach komunikacji do przejrzenia, wyjęcia przewożonych bagaży lub ładunków oraz otwarcia i pokazania ich zawartości.
+
+6. Osoby, o których mowa w ust. 3, są obowiązane udostępnić bagaż lub ładunek funkcjonariuszowi do przejrzenia lub sprawdzenia, w tym wykonać czynności, o których mowa w ust. 5.
+
+7. Funkcjonariusz realizujący czynności, o których mowa w ust. 1:
+
+- **1)** podaje swój stopień, imię i nazwisko w sposób umożliwiający odnotowanie tych danych, jeżeli wcześniej nie wykonał tych czynności;
+- **2)** podaje podstawę prawną oraz przyczynę podjęcia czynności;
+- **3)** legitymuje osoby uczestniczące w czynności;
+- **4)** może żądać wydania przez osoby, o których mowa w ust. 3, przedmiotów, o których mowa w art. 11 ust. 1 pkt 2 lit. b–d;
+- **5)** odbiera od osób, o których mowa w ust. 3, przedmioty, o których mowa w art. 11 ust. 1 pkt 2 lit. b–d.
+
+8. Sprawdzenia ładunku znajdującego się pod zamknięciem urzędowym dokonuje się w obecności funkcjonariusza Służby Celno-Skarbowej.
+
+9. Przeglądania zawartości bagaży lub sprawdzania ładunków dokonuje się w miarę możliwości w sposób niepowodujący ich uszkodzenia.
+
+10. Po zakończeniu realizacji czynności, o których mowa w ust. 1, funkcjonariusz poucza osoby, o których mowa w ust. 3, o prawie do złożenia zażalenia, o którym mowa w ust. 12, oraz o prawie do żądania sporządzenia protokołu z dokonanej czynności.
+
+11. Funkcjonariusz sporządza protokół, jeżeli osoby, o których mowa w ust. 3, zgłosiły takie żądanie bezpośrednio po dokonaniu czynności oraz gdy w toku czynności ujawniono przedmioty, o których mowa w art. 11 ust. 1 pkt 2 lit. b–d. Do sporządzenia protokołu stosuje się odpowiednio przepis art. 11aa ust. 12.
+
+12. Posiadaczowi bagaży lub ładunków lub przedstawicielowi przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano czynności określonych w ust. 1, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce przeprowadzenia czynności, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego.
+
+13. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania kontroli osobistej sąd zawiadamia o tym prokuratora oraz kierownika jednostki organizacyjnej Straży Granicznej nadrzędnej nad jednostką, w której pełni służbę funkcjonariusz, który dokonał kontroli osobistej.
+
+14. Zażalenie, o którym mowa w ust. 12, składa się za pośrednictwem jednostki organizacyjnej Straży Granicznej właściwej według miejsca dokonania kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego. Art. 11ac. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory protokołów, o których mowa w art. 11aa ust. 10 pkt 2 i art. 11ab ust. 10, uwzględniając konieczność zawarcia informacji dotyczących czasu, miejsca i przyczyny dokonania kontroli osobistej albo przeglądania zawartości bagaży lub sprawdzania ładunków, danych osobowych osoby, w stosunku do której zostały wykonane czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności. Art. 11ad. 1. Sprawdzenie prewencyjne, o którym mowa w art. 11 ust. 1 pkt 13, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym lub z wykorzystaniem psa służbowego w zakresie niezbędnym do realizacji celu podejmowanych czynności w danych okolicznościach oraz w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane.
+
+2. Sprawdzenie prewencyjne, o którym mowa w art. 11 ust. 1 pkt 13, może polegać również na:
+
+- **1)** żądaniu zdjęcia przez osobę odzieży i obuwia;
+- **2)** zdjęciu osobie odzieży i obuwia w przypadku niewykonania żądania, o którym mowa w pkt 1;
+- **3)** sprawdzeniu ciała osoby oraz zdjętej odzieży i obuwia, w tym z wykorzystaniem środków, o których mowa w ust. 1.
+
+3. Czynności, o których mowa w ust. 2, wykonuje się w sposób umożliwiający osobie pozostawienie części odzieży na ciele, a po sprawdzeniu zdjętej odzieży – jej włożenie przed zdjęciem pozostałej niesprawdzonej części odzieży oraz w warunkach zapewniających poszanowanie intymności.
+
+4. Do sprawdzenia prewencyjnego, o którym mowa w art. 11 ust. 1 pkt 13, przepisy art. 11aa ust. 6, 7 i 15 stosuje się odpowiednio.
+
+5. W przypadku gdy w toku sprawdzenia prewencyjnego, o którym mowa w art. 11 ust. 1 pkt 13, ujawniono przedmioty, o których mowa w art. 11 ust. 1 pkt 2 lit. b–d, sprawdzenie to traktuje się jako kontrolę osobistą oraz stosuje się odpowiednio przepisy art. 11aa.
+
 **Art. 11b.**
 
 1. W przypadku gdy wymagają tego względy bezpieczeństwa państwa, zapewnienia nienaruszalności granicy państwowej, zagrożenia bezpieczeństwa publicznego lub zakłócenia porządku publicznego w zasięgu terytorialnym przejścia granicznego oraz w strefie nadgranicznej lub na polskich obszarach morskich, w szczególności:
@@ -1054,6 +1195,11 @@ source: "isap-pdf"
 4. Uprawnienia, o których mowa w ust. 1, przysługują również w stosunku do statków przepływających przez strefę przyległą przy wykonywaniu zadań mających na celu zapobieganie naruszaniu na terytorium Rzeczypospolitej Polskiej przepisów, o których mowa w art. 1 ust. 2 pkt 4 lit. a–d.
 
 **Art. 15.** Uprawnienia określone w art. 14 ust. 1 przysługują dowódcom jednostek pływających Straży Granicznej również w stosunku do statków przepływających przez morze terytorialne, gdy zachodzi uzasadnione podejrzenie popełnienia przestępstwa na ich pokładzie lub na skutek zawiadomienia o popełnieniu na nim przestępstwa, podczas ich przepływu przez to morze, jeżeli:
+
+- **1)** skutki przestępstwa rozciągają się na terytorium Rzeczypospolitej Polskiej;
+- **2)** przestępstwo narusza spokój lub porządek publiczny na morzu terytorialnym;
+- **3)** jest to konieczne do zwalczania nielegalnego handlu środkami odurzającymi lub substancjami psychotropowymi;
+- **4)** kapitan statku, przedstawiciel dyplomatyczny lub urzędnik konsularny państwa bandery statku zwróci się do właściwych organów polskich o pomoc.
 
 **Art. 16.**
 
@@ -1856,7 +2002,9 @@ source: "isap-pdf"
 - **2a)** świadczenie motywacyjne;
 - **2b)** świadczenie za długoletnią służbę;
 - **3)** należności z tytułu doznania uszczerbku na zdrowiu i należności pośmiertne;
-- **4)** wyrównanie, o którym mowa w art. 41h ust. 3. Art. 41ia. Kierownik lub dyrektor generalny urzędu, jednostki organizacyjnej lub służby, do których oddelegowano funkcjonariusza, na wniosek Komendanta Głównego Straży Granicznej lub upoważnionej przez niego osoby przesyła informacje dotyczące oceny wykonywania przez funkcjonariusza zadań i obowiązków w czasie trwania oddelegowania, w celu i zakresie niezbędnym do sporządzenia opinii służbowej.
+- **4)** wyrównanie, o którym mowa w art. 41h ust. 3.
+
+3. W przypadku funkcjonariuszy oddelegowanych do wykonywania zadań służbowych w urzędzie obsługującym ministra właściwego do spraw wewnętrznych albo w jednostce podległej lub nadzorowanej przez ministra właściwego do spraw wewnętrznych, należności, o których mowa w ust. 1, wypłaca jednostka organizacyjna, w której funkcjonariusz pełnił służbę przed oddelegowaniem, w uzgodnieniu z kierownikiem urzędu albo jednostki, do której funkcjonariusz został oddelegowany. Art. 41ia. Kierownik lub dyrektor generalny urzędu, jednostki organizacyjnej lub służby, do których oddelegowano funkcjonariusza, na wniosek Komendanta Głównego Straży Granicznej lub upoważnionej przez niego osoby przesyła informacje dotyczące oceny wykonywania przez funkcjonariusza zadań i obowiązków w czasie trwania oddelegowania, w celu i zakresie niezbędnym do sporządzenia opinii służbowej.
 
 **Art. 41j.** Oddelegowanemu funkcjonariuszowi urlopów udziela właściwy przełożony w urzędzie państwowym, do którego oddelegowano funkcjonariusza, na zasadach i w wymiarze określonych w ustawie.
 
@@ -2124,6 +2272,34 @@ source: "isap-pdf"
 #### Rozdział 10 Korpusy i stopnie funkcjonariuszy Straży Granicznej
 
 **Art. 51.** W Straży Granicznej obowiązują następujące korpusy i stopnie służbowe:
+
+- **1)** korpus szeregowych:
+    - **a)** szeregowy Straży Granicznej (marynarz Straży Granicznej),
+    - **b)** starszy szeregowy Straży Granicznej (starszy marynarz Straży Granicznej);
+
+- **2)** korpus podoficerów:
+    - **a)** kapral Straży Granicznej (mat Straży Granicznej),
+    - **b)** plutonowy Straży Granicznej (bosmanmat Straży Granicznej),
+    - **c)** sierżant Straży Granicznej (bosman Straży Granicznej),
+    - **d)** starszy sierżant Straży Granicznej (starszy bosman Straży Granicznej),
+    - **e)** sierżant sztabowy Straży Granicznej (bosman sztabowy Straży Granicznej);
+
+- **3)** korpus chorążych:
+    - **a)** młodszy chorąży Straży Granicznej,
+    - **b)** chorąży Straży Granicznej,
+    - **c)** starszy chorąży Straży Granicznej,
+    - **d)** chorąży sztabowy Straży Granicznej,
+    - **e)** starszy chorąży sztabowy Straży Granicznej;
+
+- **4)** korpus oficerów:
+    - **a)** podporucznik Straży Granicznej,
+    - **b)** porucznik Straży Granicznej,
+    - **c)** kapitan Straży Granicznej,
+    - **d)** major Straży Granicznej (komandor podporucznik Straży Granicznej),
+    - **e)** podpułkownik Straży Granicznej (komandor porucznik Straży Granicznej),
+    - **f)** pułkownik Straży Granicznej (komandor Straży Granicznej),
+    - **g)** generał brygady Straży Granicznej (kontradmirał Straży Granicznej),
+    - **h)** generał dywizji Straży Granicznej (wiceadmirał Straży Granicznej).
 
 **Art. 52.**
 
@@ -2734,6 +2910,9 @@ source: "isap-pdf"
 
 **Art. 90.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe warunki i sposób udzielania funkcjonariuszowi urlopu wypoczynkowego oraz urlopów, o których mowa w art. 87b ust. 1, 3 i 4, w tym ustalania planu urlopów oraz przełożonych właściwych do jego ustalania, kierując się koniecznością zagwarantowania przysługującego funkcjonariuszowi prawa do wypoczynku oraz zapewnienia właściwej organizacji służby;
+- **2)** warunki szczególnie uciążliwe lub szkodliwe dla zdrowia dla każdego stopnia szkodliwości, o którym mowa w art. 87b ust. 4, oraz podmioty dokonujące oceny tych warunków, uwzględniając szczególne właściwości oraz miejsca pełnienia służby.
+
 **Art. 90a.**
 
 1. Funkcjonariusza można skierować do szkoły, na przeszkolenie lub na studia wyższe albo podyplomowe w kraju albo za granicą.
@@ -2924,7 +3103,17 @@ source: "isap-pdf"
 
 **Art. 92b.** Prawo do zakwaterowania nie przysługuje funkcjonariuszowi:
 
+- **1)** który nabył lokal mieszkalny od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielony w trybie administracyjnym w związku z pełnioną służbą;
+- **2)** od dnia przyjęcia do służby do dnia ukończenia szkolenia podstawowego, a w przypadku następującego bezpośrednio po tym szkoleniu szkolenia w zakresie szkoły podoficerskiej – do dnia jego ukończenia;
+- **3)** od dnia przyjęcia do służby do dnia ukończenia studiów stacjonarnych w WSSG;
+- **4)** w służbie kandydackiej.
+
 **Art. 93.** Członkami rodziny funkcjonariusza, których uwzględnia się przy przydziale lokalu mieszkalnego albo kwatery tymczasowej, są pozostający z funkcjonariuszem we wspólnym gospodarstwie domowym:
+
+- **1)** małżonek;
+- **2)** dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie w ramach rodziny zastępczej, pozostające na jego utrzymaniu, niedłużej jednak niż do dnia zawarcia przez nie związku małżeńskiego, które:
+    - **a)** nie ukończyły 18. roku życia, a w przypadku uczęszczania do szkoły lub odbywania studiów w uczelni – 26. roku życia, albo
+    - **b)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w lit. a.
 
 **Art. 94.**
 
@@ -3787,6 +3976,9 @@ source: "isap-pdf"
 
 **Art. 135a.** Przewinienie dyscyplinarne jest zawinione wtedy, gdy funkcjonariusz:
 
+- **1)** ma zamiar jego popełnienia, to jest chce je popełnić albo, przewidując możliwość jego popełnienia, na to się godzi;
+- **2)** nie ma zamiaru jego popełnienia, popełnia je jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość taką przewidywał albo mógł i powinien przewidzieć.
+
 **Art. 135b.**
 
 1. Funkcjonariusz odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie i w porozumieniu z inną osobą, a także w przypadku, gdy kieruje popełnieniem przez innego funkcjonariusza przewinienia dyscyplinarnego albo poleca jego popełnienie.
@@ -3869,6 +4061,421 @@ source: "isap-pdf"
 **Art. 136a.** (uchylony) Art. 136aa. 1. Podstawę wszelkich rozstrzygnięć w postępowaniach dyscyplinarnych stanowią ustalenia faktyczne. 2. Przełożony dyscyplinarny i rzecznik dyscyplinarny kształtują swoje przekonanie na podstawie wszystkich przeprowadzonych dowodów ocenianych swobodnie z uwzględnieniem zasad prawidłowego rozumowania oraz wskazań wiedzy i doświadczenia życiowego. 3. Przełożony dyscyplinarny i rzecznik dyscyplinarny rozstrzygają samodzielnie zagadnienia faktyczne i prawne oraz nie są związani rozstrzygnięciem sądu lub innego organu. Prawomocne rozstrzygnięcia sądu kształtujące prawo lub stosunek prawny są jednak wiążące.
 
 **Art. 136b.** Kary dyscyplinarne wymierza:
+
+- **1)** minister właściwy do spraw wewnętrznych – w zakresie kar dyscyplinarnych, o których mowa w art. 136 ust. 1;
+- **2)** Komendant Główny Straży Granicznej, Rektor-Komendant WSSG, Komendant BSWSG, komendant oddziału Straży Granicznej, komendant ośrodka szkolenia Straży Granicznej i komendant ośrodka Straży Granicznej – w zakresie kar dyscyplinarnych, o których mowa w art. 136 ust. 1 i 3;
+- **3)** dowódca kontyngentu – w zakresie kar dyscyplinarnych, o których mowa w art. 136 ust. 1 pkt 1 i 2. Art. 136ba. 1. Jeżeli zachodzą wątpliwości co do popełnienia przewinienia dyscyplinarnego, jego kwalifikacji prawnej albo osoby sprawcy, przed wszczęciem postępowania dyscyplinarnego przełożony dyscyplinarny zleca przeprowadzenie czynności wyjaśniających.
+
+2. Rozpoczęcie czynności wyjaśniających następuje w drodze postanowienia.
+
+3. Postanowienie, o którym mowa w ust. 2, zawiera:
+
+- **1)** stopień, imię, nazwisko i stanowisko służbowe przełożonego dyscyplinarnego;
+- **2)** datę i miejsce wydania;
+- **3)** podstawę prawną;
+- **4)** datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniających przeprowadzenie czynności wyjaśniających;
+- **5)** określenie okoliczności stanowiących przedmiot czynności wyjaśniających;
+- **6)** wskazanie rzecznika dyscyplinarnego do prowadzenia czynności wyjaśniających;
+- **7)** podpis przełożonego dyscyplinarnego i urzędową pieczęć jednostki organizacyjnej Straży Granicznej albo urzędową pieczęć ministra właściwego do spraw wewnętrznych.
+
+4. Jeżeli w toku czynności wyjaśniających zostały ujawnione inne okoliczności wskazujące na możliwość popełnienia przewinienia dyscyplinarnego, rzecznik dyscyplinarny za zgodą przełożonego dyscyplinarnego może poszerzyć zakres okoliczności stanowiących przedmiot czynności wyjaśniających, o których mowa w ust. 3 pkt 5.
+
+5. Czynności wyjaśniające kończy się w terminie 30 dni od dnia wydania postanowienia, a w szczególnych przypadkach ze względu na charakter sprawy czynności wyjaśniające za zgodą przełożonego dyscyplinarnego mogą być kontynuowane w terminie niedłuższym niż 60 dni od dnia wydania postanowienia, o którym mowa w ust. 2.
+
+6. W toku czynności wyjaśniających nie przeprowadza się dowodu z opinii biegłego ani czynności wymagających spisania protokołu.
+
+7. Z przeprowadzonych czynności wyjaśniających rzecznik dyscyplinarny sporządza sprawozdanie, w którym w szczególności przedstawia wnioski dotyczące wszczęcia postępowania dyscyplinarnego, odstąpienia od wszczęcia postępowania dyscyplinarnego albo odstąpienia od wszczęcia postępowania dyscyplinarnego i przeprowadzenia rozmowy dyscyplinującej ze sprawcą przewinienia dyscyplinarnego.
+
+8. W przypadku wszczęcia postępowania dyscyplinarnego materiały zebrane podczas przeprowadzania czynności wyjaśniających stają się materiałami postępowania dyscyplinarnego. Art. 136bb. 1. Postępowanie dyscyplinarne wszczyna się niezwłocznie, jeżeli zachodzi uzasadnione podejrzenie popełnienia przez funkcjonariusza czynu stanowiącego przewinienie dyscyplinarne.
+
+2. Postępowanie dyscyplinarne wszczyna się z dniem wydania postanowienia o wszczęciu postępowania dyscyplinarnego. Funkcjonariusza, w przypadku którego wydano postanowienie o wszczęciu postępowania dyscyplinarnego, uważa się za obwinionego.
+
+3. Celem postępowania dyscyplinarnego jest w szczególności:
+
+- **1)** ustalenie, czy czyn, którego popełnienie zarzucono obwinionemu, został popełniony i czy obwiniony jest jego sprawcą;
+- **2)** wyjaśnienie przyczyn i okoliczności popełnienia czynu, o którym mowa w pkt 1;
+- **3)** zebranie i utrwalenie dowodów w sprawie.
+
+4. Postępowanie dyscyplinarne wszczyna przełożony dyscyplinarny:
+
+- **1)** z urzędu;
+- **2)** na wniosek przełożonego funkcjonariusza;
+- **3)** na polecenie przełożonego, któremu podlega służbowo przełożony dyscyplinarny;
+- **4)** na żądanie sądu lub prokuratora;
+- **5)** wskutek wniesienia sprzeciwu, o którym mowa w art. 136bf ust. 1.
+
+5. Przełożony dyscyplinarny może wszcząć postępowanie dyscyplinarne także na wniosek innego zainteresowanego organu, instytucji lub pokrzywdzonego.
+
+6. Pokrzywdzonym jest osoba, której dobro prawne zostało bezpośrednio naruszone zachowaniem funkcjonariusza stanowiącym przewinienie dyscyplinarne. Art. 136bc. 1. Nie można wszcząć postępowania dyscyplinarnego po upływie 90 dni od dnia powzięcia przez przełożonego dyscyplinarnego wiadomości o popełnieniu przewinienia dyscyplinarnego.
+
+2. Jeżeli funkcjonariusz z powodu nieobecności w służbie nie ma możliwości złożenia wyjaśnień, bieg terminu, o którym mowa w ust. 1, nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia stawienia się funkcjonariusza do służby.
+
+3. Nie można wymierzyć funkcjonariuszowi kary dyscyplinarnej po upływie 2 lat od dnia popełnienia przewinienia dyscyplinarnego.
+
+4. Zawieszenie postępowania dyscyplinarnego wstrzymuje bieg terminu, o którym mowa w ust. 3.
+
+5. W przypadku gdy przewinienie dyscyplinarne stanowi jednocześnie przestępstwo lub wykroczenie albo przestępstwo skarbowe lub wykroczenie skarbowe, przedawnienie karalności dyscyplinarnej następuje z upływem okresu przedawnienia ich karalności. Art. 136bd. Postępowania dyscyplinarnego nie wszczyna się, jeżeli:
+
+- **1)** czynności wyjaśniające nie potwierdziły popełnienia czynu stanowiącego przewinienie dyscyplinarne;
+- **2)** upłynęły terminy określone w art. 136bc ust. 1, 3 lub 5;
+- **3)** postępowanie dyscyplinarne w sprawie tego samego czynu i tego samego funkcjonariusza zostało prawomocnie zakończone lub wszczęte wcześniej toczy się. Art. 136be. 1. Przełożony dyscyplinarny może wydać orzeczenie bez wszczynania postępowania dyscyplinarnego, jeżeli okoliczności popełnionego czynu i wina funkcjonariusza nie budzą wątpliwości oraz nie zachodzi potrzeba wymierzenia kary dyscyplinarnej surowszej niż nagana.
+
+2. W przypadkach, o których mowa w ust. 1, orzeczenie wydaje się po wysłuchaniu funkcjonariusza i złożeniu przez niego wyjaśnienia na piśmie oraz wyrażeniu pisemnej zgody na poddanie się karze dyscyplinarnej bez prowadzenia postępowania dyscyplinarnego.
+
+3. Po wszczęciu postępowania dyscyplinarnego do czasu zakończenia pierwszego przesłuchania w charakterze obwinionego obwiniony może złożyć wniosek o dobrowolne poddanie się karze dyscyplinarnej.
+
+4. Przełożony dyscyplinarny może uwzględnić wniosek o dobrowolne poddanie się karze dyscyplinarnej, jeżeli okoliczności popełnienia przewinienia dyscyplinarnego i wina obwinionego nie budzą wątpliwości, a charakter popełnionego przewinienia nie uzasadnia wymierzenia kary dyscyplinarnej surowszej niż nagana. Czynności, o których mowa w art. 136bs, nie przeprowadza się.
+
+5. W przypadku uwzględnienia wniosku o dobrowolne poddanie się karze dyscyplinarnej przełożony dyscyplinarny wydaje orzeczenie.
+
+6. Od orzeczeń, o których mowa w ust. 1 lub 5, funkcjonariuszowi przysługuje odwołanie na zasadach dotyczących odwołań od orzeczeń wydanych po przeprowadzeniu postępowania dyscyplinarnego.
+
+7. Jeżeli odwołanie od orzeczenia, o którym mowa w ust. 5, dotyczy kontynuacji postępowania dyscyplinarnego, przełożony dyscyplinarny, który wydał orzeczenie, uchyla wydane orzeczenie i kontynuuje postępowanie, o którym mowa w ust. 3.
+
+8. W przypadku uchylenia w postępowaniu odwoławczym orzeczenia, o którym mowa w ust. 5, i przekazania sprawy do ponownego rozpatrzenia, przełożony dyscyplinarny kontynuuje postępowanie dyscyplinarne, o którym mowa w ust. 3.
+
+9. Cofnięcie odwołania, o którym mowa w ust. 6, jest niedopuszczalne. Art. 136bf. 1. Jeżeli funkcjonariusz nie zgadza się z wytkniętym mu niewłaściwym postępowaniem podczas rozmowy dyscyplinującej, o której mowa w art. 134aa ust. 2, w terminie 5 dni od dnia zapoznania się z notatką z tej rozmowy może wnieść do przełożonego dyscyplinarnego pisemny sprzeciw, zwany dalej „sprzeciwem”. O prawie do wniesienia sprzeciwu funkcjonariusza poucza się podczas rozmowy dyscyplinującej, a treść pouczenia zawiera się w notatce z tej rozmowy. Przepis art. 136bz ust. 1 stosuje się odpowiednio.
+
+2. Wniesienie sprzeciwu powoduje wszczęcie postępowania dyscyplinarnego. Przepisy art. 136bk ust. 1 i 2 stosuje się odpowiednio.
+
+3. Brak wniesienia sprzeciwu powoduje włączenie notatki z przeprowadzonej rozmowy dyscyplinującej do akt osobowych funkcjonariusza, z którym była przeprowadzona ta rozmowa. W przypadku wniesienia sprzeciwu notatkę z przeprowadzonej rozmowy dyscyplinującej włącza się do akt postępowania dyscyplinarnego.
+
+4. W przypadku wniesienia sprzeciwu i braku możliwości wszczęcia postępowania dyscyplinarnego w związku z upływem terminów określonych w art. 136bc ust. 1, 3 lub 5 notatka z przeprowadzonej rozmowy dyscyplinującej podlega zniszczeniu.
+
+5. W przypadku wniesienia sprzeciwu po upływie terminu, o którym mowa w ust. 1, przełożony dyscyplinarny wydaje postanowienie o odmowie przyjęcia sprzeciwu. Na postanowienie przysługuje zażalenie w terminie 7 dni od dnia doręczenia postanowienia. Zażalenie wnosi się za pośrednictwem przełożonego dyscyplinarnego do Komendanta Głównego Straży Granicznej. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant Główny Straży Granicznej, przysługuje wniosek o ponowne rozpatrzenie sprawy. Przepis art. 136bz ust. 1 stosuje się odpowiednio.
+
+6. Rozmowę dyscyplinującą przeprowadza przełożony dyscyplinarny. W uzasadnionym przypadku przełożony dyscyplinarny może na piśmie upoważnić do przeprowadzenia w jego imieniu rozmowy dyscyplinującej funkcjonariusza w stopniu nieniższym od stopnia posiadanego przez funkcjonariusza, z którym ma być prowadzona ta rozmowa, lub zajmującego co najmniej równorzędne z tym funkcjonariuszem stanowisko służbowe.
+
+7. Upoważnienie do przeprowadzenia rozmowy dyscyplinującej zawiera:
+
+- **1)** podstawę prawną;
+- **2)** stopień, imię, nazwisko i stanowisko służbowe upoważnionego funkcjonariusza;
+- **3)** stopień, imię, nazwisko i stanowisko służbowe funkcjonariusza, z którym ma być prowadzona rozmowa dyscyplinująca;
+- **4)** określenie czynu, w związku z którym rozmowa dyscyplinująca ma być prowadzona, wraz z jego kwalifikacją prawną;
+- **5)** określenie przesłanek, jakie spowodowały podjęcie przez przełożonego dyscyplinarnego rozstrzygnięcia o przeprowadzeniu w danym przypadku rozmowy dyscyplinującej;
+- **6)** określenie terminu, w jakim przeprowadza się rozmowę dyscyplinującą.
+
+8. Przełożony dyscyplinarny, jednocześnie z upoważnieniem do przeprowadzenia w jego imieniu rozmowy dyscyplinującej, udziela funkcjonariuszowi upoważnionemu do jej przeprowadzenia pisemnych wytycznych dotyczących przeprowadzenia rozmowy, a w szczególności wskazuje informacje lub okoliczności, jakie podnosi się, wytykając niewłaściwe postępowanie funkcjonariuszowi, z którym rozmowa dyscyplinująca ma być prowadzona.
+
+9. Notatkę z rozmowy dyscyplinującej funkcjonariusz upoważniony do jej przeprowadzenia przedstawia przełożonemu dyscyplinarnemu przed jej przekazaniem do akt osobowych funkcjonariusza, z którym była przeprowadzona rozmowa. Art. 136bg. 1. Postępowanie dyscyplinarne oraz czynności wyjaśniające, o których mowa w art. 136ba, prowadzi rzecznik dyscyplinarny.
+
+2. Przełożony dyscyplinarny powołuje rzeczników dyscyplinarnych na okres 4 lat spośród funkcjonariuszy w służbie stałej.
+
+3. Przełożony dyscyplinarny do prowadzenia postępowania dyscyplinarnego oraz czynności wyjaśniających, o których mowa w art. 136ba, wyznacza rzecznika dyscyplinarnego w stopniu co najmniej:
+
+- **1)** młodszego chorążego Straży Granicznej – jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień w korpusie szeregowych, podoficerów lub chorążych;
+- **2)** podporucznika Straży Granicznej – jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień podporucznika, porucznika lub kapitana Straży Granicznej;
+- **3)** majora Straży Granicznej – jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień majora Straży Granicznej lub wyższy. Art. 136bh. 1. Przełożony dyscyplinarny odwołuje rzecznika dyscyplinarnego w przypadkach:
+- **1)** zaistnienia okoliczności, które stanowią podstawę zwolnienia go ze służby w Straży Granicznej;
+- **2)** prawomocnego wymierzenia mu kary dyscyplinarnej;
+- **3)** przeniesienia go do innej jednostki organizacyjnej Straży Granicznej niepodlegającej bezpośrednio przełożonemu dyscyplinarnemu.
+
+2. Przełożony dyscyplinarny może odwołać rzecznika dyscyplinarnego na jego uzasadniony wniosek.
+
+3. Rzecznik dyscyplinarny za zgodą przełożonego dyscyplinarnego może skorzystać z pomocy innego rzecznika dyscyplinarnego przy przeprowadzaniu czynności dowodowych. Art. 136bi. 1. Przełożony dyscyplinarny lub rzecznik dyscyplinarny podlegają wyłączeniu z udziału w postępowaniu dyscyplinarnym, jeżeli:
+
+- **1)** sprawa dotyczy ich bezpośrednio;
+- **2)** są małżonkami obwinionego, jego obrońcy lub pokrzywdzonego albo pozostają we wspólnym pożyciu z jedną z tych osób;
+- **3)** są krewnymi lub powinowatymi obwinionego lub pokrzywdzonego w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa osób wymienionych w pkt 2, albo są związani z jedną z tych osób węzłem przysposobienia, opieki lub kurateli;
+- **4)** byli świadkami zdarzenia lub w tej sprawie byli przesłuchani w charakterze świadka;
+- **5)** między nimi a obwinionym lub pokrzywdzonym zachodzi stosunek osobisty mogący wywołać wątpliwości co do bezstronności prowadzącego postępowanie;
+- **6)** są podwładnymi obwinionego, jego obrońcy lub pokrzywdzonego.
+
+2. Przełożonego dyscyplinarnego i rzecznika dyscyplinarnego można wyłączyć z udziału w postępowaniu dyscyplinarnym także z innych uzasadnionych przyczyn.
+
+3. Przełożony dyscyplinarny i rzecznik dyscyplinarny badają z urzędu, czy nie zachodzą okoliczności uzasadniające ich wyłączenie z udziału w postępowaniu dyscyplinarnym.
+
+4. Wyłączenie rzecznika dyscyplinarnego lub przełożonego dyscyplinarnego z udziału w postępowaniu dyscyplinarnym może nastąpić również na wniosek obwinionego lub jego obrońcy, jeżeli został ustanowiony.
+
+5. O zaistnieniu okoliczności, o których mowa w ust. 1 lub 2, przełożony dyscyplinarny, o którym mowa w art. 135d ust. 1 pkt 3–7, i rzecznik dyscyplinarny zawiadamiają niezwłocznie pisemnie odpowiednio Komendanta Głównego Straży Granicznej albo przełożonego dyscyplinarnego.
+
+6. O wyłączeniu albo odmowie wyłączenia rzecznika dyscyplinarnego rozstrzyga przełożony dyscyplinarny w drodze postanowienia. Do dnia wydania tego postanowienia rzecznik dyscyplinarny podejmuje czynności niecierpiące zwłoki.
+
+7. Komendant Główny Straży Granicznej wydaje postanowienie o wyłączeniu albo odmowie wyłączenia przełożonego dyscyplinarnego, o którym mowa w art. 135d ust. 1 pkt 2–7. Do dnia wydania postanowienia przełożony dyscyplinarny podejmuje czynności niecierpiące zwłoki. Art. 136bj. 1. W przypadku wyłączenia przełożonego dyscyplinarnego z udziału w postępowaniu dyscyplinarnym, postępowanie dyscyplinarne przejmuje Komendant Główny Straży Granicznej albo wyznacza przełożonego dyscyplinarnego z równorzędnej jednostki organizacyjnej Straży Granicznej.
+
+2. W przypadku wyłączenia Komendanta Głównego Straży Granicznej z udziału w postępowaniu dyscyplinarnym, postępowanie dyscyplinarne przejmuje jeden z jego zastępców.
+
+3. W przypadku wyłączenia rzecznika dyscyplinarnego z udziału w postępowaniu dyscyplinarnym, postępowanie dyscyplinarne przejmuje do prowadzenia inny wyznaczony rzecznik dyscyplinarny. Art. 136bk. 1. Wszczęcie postępowania dyscyplinarnego następuje w drodze postanowienia, którego odpis niezwłocznie doręcza się obwinionemu. Zawiadomienie o wszczęciu postępowania dyscyplinarnego doręcza się także sądowi, prokuratorowi oraz organowi, instytucji lub pokrzywdzonemu, jeżeli postępowanie dyscyplinarne zostało wszczęte na ich wniosek.
+
+2. Postanowienie zawiera:
+
+- **1)** stopień, imię, nazwisko i stanowisko służbowe przełożonego dyscyplinarnego;
+- **2)** datę i miejsce wydania;
+- **3)** stopień, imię, nazwisko i stanowisko służbowe obwinionego;
+- **4)** podstawę prawną;
+- **5)** datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniającej podejrzenie popełnienia przez funkcjonariusza zarzucanego mu czynu;
+- **6)** określenie czynu zarzucanego obwinionemu, wraz z jego kwalifikacją prawną;
+- **7)** uzasadnienie faktyczne czynu zarzucanego obwinionemu;
+- **8)** wyznaczenie rzecznika dyscyplinarnego do prowadzenia postępowania dyscyplinarnego z podaniem stopnia, imienia, nazwiska i stanowiska służbowego;
+- **9)** podpis przełożonego dyscyplinarnego i urzędową pieczęć jednostki organizacyjnej Straży Granicznej albo urzędową pieczęć ministra właściwego do spraw wewnętrznych;
+- **10)** pouczenie o uprawnieniach przysługujących obwinionemu w toku postępowania dyscyplinarnego.
+
+3. Jeżeli w toku postępowania dyscyplinarnego okaże się, że obwinionemu należy zarzucić ponadto czyn nieobjęty postanowieniem o wszczęciu postępowania dyscyplinarnego albo czyn w zmienionej w istotny sposób postaci, wydaje się postanowienie o zmianie lub uzupełnieniu zarzutów. Przepisy ust. 1 i 2 stosuje się odpowiednio.
+
+4. W przypadku uchylenia w postępowaniu odwoławczym orzeczenia, o którym mowa w art. 136be ust. 1, i przekazania sprawy do ponownego rozpatrzenia za dzień wszczęcia postępowania dyscyplinarnego przyjmuje się dzień wydania orzeczenia, o którym mowa w art. 136be ust. 1.
+
+5. W przypadku przywrócenia do służby funkcjonariusza, wobec którego prowadzone w dniu jego zwolnienia ze służby postępowanie dyscyplinarne zostało umorzone na podstawie art. 136bv ust. 1 pkt 5, przełożony dyscyplinarny wydaje postanowienie o uchyleniu orzeczenia o umorzeniu tego postępowania dyscyplinarnego, o ile nie nastąpiło przedawnienie wymierzenia kary dyscyplinarnej za czyn będący przedmiotem tego postępowania, oraz wyznacza rzecznika dyscyplinarnego do prowadzenia postępowania dyscyplinarnego. Art. 136bl. 1. Rzecznik dyscyplinarny zbiera dowody i podejmuje czynności niezbędne do wyjaśnienia sprawy, w szczególności przesłuchuje obwinionego, świadków i pokrzywdzonego, dokonuje oględzin, konfrontacji, okazania oraz dokonuje odtworzenia przebiegu stanowiących przedmiot rozpoznania zdarzeń lub ich fragmentów. Zleca lub występuje do przełożonego dyscyplinarnego o zlecenie przeprowadzenia odpowiednich badań, ekspertyz i tłumaczeń oraz zasięga niezbędnych opinii.
+
+2. Otrzymane przez Straż Graniczną w związku z realizacją jej ustawowych zadań pisma sporządzone w języku obcym włącza się do akt postępowania dyscyplinarnego łącznie z tłumaczeniami wykonanymi przez komórki organizacyjne wyodrębnione w strukturze jednostek organizacyjnych Straży Granicznej sporządzające tego rodzaju tłumaczenia na potrzeby Straży Granicznej.
+
+3. O przeprowadzenie czynności poza miejscowością, w której toczy się postępowanie, przełożony dyscyplinarny lub rzecznik dyscyplinarny może zwrócić się do kierownika jednostki organizacyjnej Straży Granicznej właściwego dla miejsca, w którym czynność ta ma być dokonana. Czynność przeprowadza rzecznik dyscyplinarny wyznaczony przez kierownika tej jednostki organizacyjnej.
+
+4. Z czynności, o których mowa w ust. 1 zdanie pierwsze, sporządza się protokół. Z innych czynności sporządza się protokół, jeżeli przepis szczególny tego wymaga albo przełożony dyscyplinarny lub rzecznik dyscyplinarny uzna to za potrzebne. W pozostałych przypadkach można ograniczyć się do sporządzenia notatki urzędowej. Protokół sporządza rzecznik dyscyplinarny lub funkcjonariusz wyznaczony do protokołowania, a w przypadku, o którym mowa w ust. 3 – rzecznik dyscyplinarny wyznaczony przez kierownika tej jednostki organizacyjnej.
+
+5. Protokół zawiera:
+
+- **1)** oznaczenie czynności, jej czasu i miejsca, osób w niej uczestniczących lub przy niej obecnych oraz charakteru ich uczestnictwa;
+- **2)** opis przebiegu czynności;
+- **3)** w miarę potrzeby:
+    - **a)** stwierdzenie innych okoliczności dotyczących przebiegu czynności,
+    - **b)** oświadczenia i wnioski uczestników czynności,
+    - **c)** pouczenie o uprawnieniach i obowiązkach.
+
+6. Jeżeli czyn będący przedmiotem postępowania dyscyplinarnego jest lub był przedmiotem innego postępowania, w tym postępowania przygotowawczego, przełożony dyscyplinarny lub rzecznik dyscyplinarny może zwrócić się do właściwego organu o udostępnienie akt tego postępowania w całości lub w części. Za zgodą tego organu, potrzebne odpisy lub wyciągi z udostępnionych akt włącza się do akt postępowania dyscyplinarnego.
+
+7. Rzecznik dyscyplinarny, w razie ustalenia w toku postępowania dyscyplinarnego, że obwinionemu należy zarzucić czyn, który nie był objęty postanowieniem o wszczęciu postępowania dyscyplinarnego, albo czyn w zmienionej w istotny sposób postaci, występuje do przełożonego dyscyplinarnego z wnioskiem o zmianę lub uzupełnienie zarzutów.
+
+8. Rzecznik dyscyplinarny w toku postępowania dyscyplinarnego wydaje postanowienia, jeżeli ich wydanie nie jest zastrzeżone do kompetencji przełożonego dyscyplinarnego.
+
+9. Rzecznik dyscyplinarny prowadzi spis akt postępowania dyscyplinarnego zawierający:
+
+- **1)** liczbę porządkową;
+- **2)** numer arkusza;
+- **3)** nazwę dokumentu;
+- **4)** datę wykonania dokumentu;
+- **5)** uwagi. Art. 136bm. 1. W toku postępowania dyscyplinarnego obwiniony ma prawo do:
+- **1)** odmowy składania wyjaśnień;
+- **2)** zgłaszania wniosków dowodowych;
+- **3)** przeglądania akt postępowania dyscyplinarnego oraz sporządzania z nich notatek, fotokopii lub odpisów;
+- **4)** korzystania z pomocy obrońcy, którym może być wskazany przez obwinionego funkcjonariusz Straży Granicznej, adwokat albo radca prawny;
+- **5)** wnoszenia zażaleń na postanowienia, o których mowa w ust. 3, art. 136bp ust. 3, art. 136bs ust. 5 i art. 137c ust. 7.
+
+2. Uprawnienia, o których mowa w ust. 1 pkt 2, 3 i 5, przysługują również obrońcy obwinionego.
+
+3. Rzecznik dyscyplinarny może, w drodze postanowienia, odmówić udostępnienia akt, jeżeli sprzeciwia się temu dobro postępowania dyscyplinarnego. Na postanowienie przysługuje zażalenie.
+
+4. Ustanowienie obrońcy uprawnia go do działania w całym postępowaniu dyscyplinarnym, nie wyłączając czynności po uprawomocnieniu się orzeczenia, jeżeli nie zawiera ograniczeń. O zmianie zakresu pełnomocnictwa uprawniającego do działania w postępowaniu dyscyplinarnym lub o jego cofnięciu obwiniony niezwłocznie zawiadamia obrońcę oraz rzecznika dyscyplinarnego.
+
+5. Obrońca nie może podejmować czynności na niekorzyść obwinionego. Może on zrezygnować z reprezentowania obwinionego w toku postępowania dyscyplinarnego, zawiadamiając o tym obwinionego oraz rzecznika dyscyplinarnego. Do czasu ustanowienia nowego obrońcy, jednak niedłużej niż przez 14 dni od dnia zawiadomienia obwinionego, obrońca jest obowiązany podejmować niezbędne czynności.
+
+6. Udział obrońcy w postępowaniu dyscyplinarnym nie wyłącza osobistego działania w nim obwinionego.
+
+7. Orzeczenia, postanowienia, zawiadomienia i inne pisma, wydane w toku postępowania, doręcza się niezwłocznie obwinionemu i jego obrońcy. Postanowienie doręcza się również pokrzywdzonemu w przypadku, o którym mowa w art. 136bp ust. 3.
+
+8. W razie doręczenia obwinionemu i obrońcy w różnych terminach pisma, od którego przysługuje odwołanie lub zażalenie, termin do złożenia odwołania lub zażalenia liczy się od dnia doręczenia, które nastąpiło wcześniej.
+
+9. Zażalenie na postanowienie wnosi się za pośrednictwem rzecznika dyscyplinarnego do przełożonego dyscyplinarnego, a jeżeli postanowienie wydał ten przełożony dyscyplinarny – do Komendanta Głównego Straży Granicznej za pośrednictwem tego przełożonego. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant Główny Straży Granicznej, zażalenie nie przysługuje, jednak obwiniony może zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta Głównego Straży Granicznej z wnioskiem o ponowne rozpatrzenie sprawy.
+
+10. Na postanowienia, o których mowa w ust. 9, zażalenia oraz wniosek o ponowne rozpatrzenie sprawy wnosi się w terminie 3 dni od dnia doręczenia postanowienia, z zastrzeżeniem art. 137c ust. 7. Przepis art. 136bz ust. 1 stosuje się odpowiednio. Art. 136bn. 1. Wnioski dowodowe zgłasza się na piśmie rzecznikowi dyscyplinarnemu, ze wskazaniem okoliczności, które mają być udowodnione.
+
+2. Wniosek dowodowy oddala się, jeżeli:
+
+- **1)** przeprowadzenie dowodu jest niedopuszczalne;
+- **2)** okoliczność, która ma zostać udowodniona, jest już udowodniona zgodnie z twierdzeniem wnioskodawcy;
+- **3)** okoliczności nie mają znaczenia dla rozstrzygnięcia sprawy lub dowodu nie da się przeprowadzić;
+- **4)** wniosek dowodowy w sposób oczywisty zmierza do przedłużenia postępowania;
+- **5)** wniosek dowodowy został złożony po zakreślonym terminie, o którym wnioskodawca został zawiadomiony.
+
+3. Oddalenie wniosku dowodowego następuje w drodze postanowienia. Art. 136bo. 1. Postępowanie dowodowe zamyka się w terminie 30 dni od dnia wszczęcia postępowania.
+
+2. W uzasadnionych przypadkach przełożony dyscyplinarny może, w drodze postanowienia, przedłużyć termin prowadzenia postępowania dowodowego do 3 miesięcy.
+
+3. Komendant Główny Straży Granicznej, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony dłuższy niż 3 miesiące.
+
+4. Wniosek o przedłużenie terminu prowadzenia postępowania dowodowego w postępowaniu dyscyplinarnym składa się niepóźniej niż 5 dni przed upływem tego terminu. Przed wydaniem postanowienia o przedłużeniu terminu prowadzenia postępowania dowodowego przełożony dyscyplinarny może zażądać niezwłocznego przekazania akt postępowania. Art. 136bp. 1. Przełożony dyscyplinarny może zawiesić postępowanie dyscyplinarne, w drodze postanowienia, gdy zachodzi długotrwała przeszkoda uniemożliwiająca prowadzenie postępowania.
+
+2. Przełożony dyscyplinarny zawiesza postępowanie dyscyplinarne z dniem przeniesienia obwinionego do innej jednostki organizacyjnej Straży Granicznej i przekazuje materiały postępowania dyscyplinarnego przełożonemu dyscyplinarnemu w nowym miejscu służby obwinionego.
+
+3. Na postanowienie o zawieszeniu postępowania dyscyplinarnego obwinionemu i pokrzywdzonemu przysługuje zażalenie, z wyjątkiem postanowienia, o którym mowa w ust. 2. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant Główny Straży Granicznej, zażalenie nie przysługuje, jednak obwiniony i pokrzywdzony mogą zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta Głównego Straży Granicznej z wnioskiem o ponowne rozpatrzenie sprawy.
+
+4. Zawieszenie postępowania dyscyplinarnego wstrzymuje bieg terminów.
+
+5. Po ustaniu przyczyn uzasadniających zawieszenie postępowania dyscyplinarnego przełożony dyscyplinarny wydaje postanowienie o podjęciu zawieszonego postępowania.
+
+6. Postanowienie o podjęciu zawieszonego postępowania dyscyplinarnego w sprawie obwinionego przeniesionego do innej jednostki organizacyjnej Straży Granicznej wydaje się niezwłocznie po otrzymaniu materiałów postępowania dyscyplinarnego wszczętego w poprzednim miejscu służby obwinionego. Art. 136bq. 1. Jeżeli przeciwko obwinionemu jest prowadzone postępowanie dyscyplinarne obejmujące zarzuty popełnienia dwóch lub więcej czynów, a zebrane na danym etapie postępowania dowody dają podstawy do uznania obwinionego winnym popełnienia jednego z zarzuconych mu czynów, przełożony dyscyplinarny może, w drodze postanowienia, wyłączyć ten czyn do odrębnego postępowania dyscyplinarnego, bez względu na to, czy wyjaśniono wszystkie okoliczności dotyczące pozostałych czynów objętych postępowaniem.
+
+2. W przypadku, o którym mowa w ust. 1, zebrane w toku postępowania dyscyplinarnego dowody dotyczące wyłączonego czynu stają się dowodami odrębnego postępowania dyscyplinarnego. Art. 136br. Choroba obwinionego, świadka i innego uczestnika postępowania dyscyplinarnego stwierdzona zwolnieniem lekarskim usprawiedliwia nieobecność tych osób podczas czynności objętych danym postępowaniem przez okresy niedłuższe niż łącznie 14 dni w ciągu całego postępowania dyscyplinarnego. Usprawiedliwienie nieobecności z powodu choroby za każdy następny jej okres wymaga przedstawienia zaświadczenia wystawionego przez lekarza uprawnionego do wystawiania zaświadczeń potwierdzających niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie karne. Art. 136bs. 1. Jeżeli rzecznik dyscyplinarny uzna, że zostały wyjaśnione wszystkie okoliczności sprawy, zapoznaje obwinionego i jego obrońcę z aktami postępowania dyscyplinarnego.
+
+2. Obrońca może zapoznać się z aktami postępowania dyscyplinarnego niepóźniej niż do dnia zapoznania obwinionego z tymi aktami.
+
+3. Z czynności zapoznania obwinionego i jego obrońcy z aktami postępowania dyscyplinarnego sporządza się protokół.
+
+4. Odmowa obwinionego lub jego obrońcy zapoznania się z aktami postępowania dyscyplinarnego lub złożenia podpisu stwierdzającego tę okoliczność nie wstrzymuje postępowania. Rzecznik dyscyplinarny dokonuje w aktach postępowania dyscyplinarnego wzmianki o odmowie obwinionego lub jego obrońcy zapoznania się z tymi aktami. Nieusprawiedliwione niestawienie się obwinionego lub jego obrońcy na czynność zapoznania się z aktami postępowania dyscyplinarnego jest równoznaczne z odmową zapoznania się z tymi aktami.
+
+5. Obwiniony ma prawo w terminie 3 dni od dnia zapoznania się z aktami postępowania dyscyplinarnego zgłosić wniosek o ich uzupełnienie. Przepis art. 136bn stosuje się odpowiednio. Wniosek o uzupełnienie akt postępowania dyscyplinarnego rozpatruje rzecznik dyscyplinarny. Na postanowienie o odmowie uzupełnienia akt postępowania dyscyplinarnego obwinionemu przysługuje zażalenie.
+
+6. Rzecznik dyscyplinarny po zapoznaniu obwinionego z aktami postępowania dyscyplinarnego wydaje postanowienie o zamknięciu postępowania dowodowego i sporządza w terminie 7 dni sprawozdanie z przeprowadzonego postępowania oraz przekazuje akta postępowania dyscyplinarnego przełożonemu dyscyplinarnemu.
+
+7. Sprawozdanie, o którym mowa w ust. 6, zawiera:
+
+- **1)** stopień, imię, nazwisko i stanowisko służbowe rzecznika dyscyplinarnego;
+- **2)** stopień, imię, nazwisko i stanowisko służbowe przełożonego dyscyplinarnego;
+- **3)** stopień, imię, nazwisko i stanowisko służbowe obwinionego;
+- **4)** określenie czynu zarzucanego obwinionemu, ze wskazaniem kwalifikacji prawnej;
+- **5)** opis ustalonego stanu faktycznego;
+- **6)** wnioski dotyczące orzeczenia dyscyplinarnego lub umorzenia postępowania dyscyplinarnego, z uzasadnieniem i ze wskazaniem okoliczności łagodzących lub obciążających. Art. 136bt. Jeżeli przełożony dyscyplinarny uzna, że w przekazanych mu aktach postępowania dyscyplinarnego są istotne braki, w terminie 14 dni od dnia przekazania mu akt wydaje postanowienie o uchyleniu postanowienia o zakończeniu czynności dowodowych i zwraca sprawę rzecznikowi dyscyplinarnemu w celu usunięcia stwierdzonych braków w materiale dowodowym. Art. 136bu. 1. Na podstawie zebranego w postępowaniu materiału dowodowego przełożony dyscyplinarny wydaje orzeczenie o:
+- **1)** uniewinnieniu, jeżeli przeprowadzone postępowanie nie potwierdziło zarzutów stawianych obwinionemu;
+- **2)** uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o wymierzeniu kary dyscyplinarnej;
+- **3)** uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o odstąpieniu od wymierzenia kary dyscyplinarnej;
+- **4)** umorzeniu postępowania.
+
+2. Przełożony dyscyplinarny w orzeczeniu może zmienić opis czynu lub jego kwalifikację prawną w granicach czynu zarzucanego obwinionemu i jego kwalifikacji prawnej.
+
+3. Jeżeli w dniu wydania orzeczenia zachodzi okoliczność uzasadniająca umorzenie postępowania w części, o umorzeniu rozstrzyga się w tym orzeczeniu.
+
+4. Przełożony dyscyplinarny może odstąpić od ukarania, jeżeli stopień winy lub stopień szkodliwości przewinienia dyscyplinarnego dla służby nie jest znaczny, a właściwości i warunki osobiste obwinionego oraz dotychczasowy przebieg służby uzasadniają przypuszczenie, że mimo odstąpienia od ukarania będzie on przestrzegał dyscypliny służbowej oraz zasad etyki zawodowej.
+
+5. Orzeczenie, o którym mowa w ust. 1, wydaje się niepóźniej niż w terminie 14 dni od dnia zamknięcia postępowania dowodowego.
+
+6. W przypadku gdy dowódca kontyngentu uzna, że należy wymierzyć karę dyscyplinarną inną niż określona w art. 136 ust. 1 pkt 1 lub 2, akta postępowania dyscyplinarnego przesyła niezwłocznie właściwemu przełożonemu dyscyplinarnemu z wnioskiem o wymierzenie określonej kary dyscyplinarnej. Wniosek nie wiąże przełożonego dyscyplinarnego. Orzeczenie przełożony dyscyplinarny wydaje niepóźniej niż w terminie 14 dni od dnia otrzymania akt. Art. 136bv. 1. Postępowanie dyscyplinarne umarza się, jeżeli:
+
+- **1)** nastąpiło przedawnienie wymierzenia kary dyscyplinarnej;
+- **2)** postępowanie dyscyplinarne wszczęto po upływie terminu, o którym mowa w art. 136bc ust. 1;
+- **3)** ustalono, że czyn stanowiący przewinienie dyscyplinarne przypisany obwinionemu nie wypełnia znamion czynu stanowiącego przewinienie dyscyplinarne;
+- **4)** obwiniony zmarł lub został uznany za zaginionego;
+- **5)** obwiniony przestał podlegać orzecznictwu dyscyplinarnemu;
+- **6)** postępowanie dyscyplinarne w sprawie tego samego czynu zarzuconego obwinionemu zostało prawomocnie zakończone albo, wszczęte wcześniej, toczy się.
+
+2. Postępowanie dyscyplinarne można umorzyć w przypadku:
+
+- **1)** długotrwałej choroby obwinionego;
+- **2)** wycofania wniosku, o którym mowa w art. 136bb ust. 5.
+
+3. Orzeczenia o umorzeniu postępowania z uwagi na przedawnienie karalności nie wydaje się, w przypadku gdy zebrane dowody uzasadniają uniewinnienie obwinionego od popełnienia zarzuconego mu czynu. Art. 136bw. 1. Obwinionemu wymierza się karę dyscyplinarną współmierną do popełnionego przewinienia dyscyplinarnego oraz stopnia zawinienia.
+
+2. Przy wymierzaniu kary dyscyplinarnej uwzględnia się rodzaj i wagę czynu, skutki i okoliczności jego popełnienia, pobudki działania obwinionego, następstwa negatywne dla służby, dotychczasowe wyniki w służbie, opinię służbową, okres pozostawania w służbie oraz zachowanie się obwinionego przed popełnieniem i po popełnieniu zarzuconego mu czynu, a także okoliczności, zarówno łagodzące, jak i obciążające, istotne w sprawie.
+
+3. Na zaostrzenie wymiaru kary dyscyplinarnej ma wpływ w szczególności popełnienie przez obwinionego przewinienia dyscyplinarnego:
+
+- **1)** z motywacji zasługującej na szczególne potępienie, albo w stanie nietrzeźwości albo po użyciu alkoholu lub po użyciu podobnie działającego środka;
+- **2)** w czasie odbywania uprzednio wymierzonej kary dyscyplinarnej, jak również w czasie próby określonej w orzeczeniu o warunkowym zawieszeniu wykonania kary lub warunkowym umorzeniu postępowania karnego;
+- **3)** wywołującego poważne skutki, zwłaszcza istotne zakłócenia realizacji zadań Straży Granicznej lub naruszenie dobrego imienia Straży Granicznej;
+- **4)** w obecności podwładnego, wspólnie z nim lub na jego szkodę.
+
+4. Na złagodzenie wymiaru kary dyscyplinarnej mają wpływ następujące okoliczności popełnienia przewinienia dyscyplinarnego:
+
+- **1)** nieumyślność jego popełnienia;
+- **2)** podjęcie przez funkcjonariusza starań o zmniejszenie jego skutków;
+- **3)** brak należytego doświadczenia zawodowego lub dostatecznych umiejętności zawodowych;
+- **4)** dobrowolne poinformowanie przełożonego dyscyplinarnego o popełnieniu przewinienia dyscyplinarnego przed wszczęciem postępowania dyscyplinarnego.
+
+5. Przełożony dyscyplinarny uwzględnia okoliczności, o których mowa w ust. 1–4, wyłącznie w odniesieniu do funkcjonariusza, którego one dotyczą. Art. 136bx. 1. Orzeczenie dyscyplinarne zawiera:
+
+- **1)** stopień, imię, nazwisko i stanowisko przełożonego dyscyplinarnego, który wydaje orzeczenie;
+- **2)** datę i miejsce wydania;
+- **3)** stopień, imię i nazwisko oraz stanowisko służbowe obwinionego;
+- **4)** określenie czynu zarzuconego obwinionemu wraz z jego kwalifikacją prawną;
+- **5)** rozstrzygnięcie w sprawie;
+- **6)** uzasadnienie faktyczne i prawne;
+- **7)** pouczenie o prawie do wniesienia odwołania;
+- **8)** podpis przełożonego dyscyplinarnego i urzędową pieczęć jednostki organizacyjnej Straży Granicznej albo pieczęć ministra właściwego do spraw wewnętrznych.
+
+2. Uzasadnienie faktyczne orzeczenia zawiera w szczególności wskazanie faktów, które uznano za udowodnione, dowodów, na których się oparto, oraz przyczyn, dla których innym dowodom odmówiono wiarygodności i mocy dowodowej. W uzasadnieniu prawnym wyjaśnia się podstawy prawne orzeczenia z przytoczeniem przepisów prawa. W uzasadnieniu faktycznym przytacza się ponadto okoliczności, które wpłynęły na wymiar kary dyscyplinarnej lub na odstąpienie od wymierzenia kary dyscyplinarnej.
+
+3. Orzeczenie doręcza się niezwłocznie obwinionemu oraz jego obrońcy.
+
+4. Oczywiste omyłki pisarskie i rachunkowe w orzeczeniu lub postanowieniu można sprostować w każdym czasie w drodze postanowienia.
+
+5. Sprostowanie oczywistych omyłek pisarskich i rachunkowych w protokołach sporządzanych w toku postępowania dyscyplinarnego wymaga opisania tych omyłek przez osobę sporządzającą protokół przed jego podpisaniem. W przypadku ujawnienia omyłek pisarskich lub rachunkowych po podpisaniu protokołu prostuje się je w drodze postanowienia.
+
+6. Od postanowień, o których mowa w ust. 4 i 5, zażalenie nie przysługuje.
+
+7. Sprostowanie omyłek pisarskich i rachunkowych następuje z urzędu albo na wniosek pokrzywdzonego, ukaranego lub obwinionego albo, w przypadku jego śmierci, na wniosek jego małżonka, krewnych w linii prostej, rodzeństwa, przysposabiającego lub przysposobionego.
+
+8. Sprostowania dokonuje przełożony dyscyplinarny lub rzecznik dyscyplinarny, który popełnił omyłkę. Art. 136by. 1. Postępowanie dyscyplinarne jest postępowaniem dwuinstancyjnym. Obwiniony może wnieść na piśmie odwołanie od orzeczenia w terminie 7 dni od dnia doręczenia orzeczenia, za pośrednictwem przełożonego dyscyplinarnego.
+
+2. Od orzeczenia wydanego w pierwszej instancji przez przełożonych dyscyplinarnych, o których mowa w art. 135d ust. 1 pkt 2a–7, przysługuje odwołanie do Komendanta Głównego Straży Granicznej.
+
+3. Od orzeczenia wydanego w pierwszej instancji przez ministra właściwego do spraw wewnętrznych albo Komendanta Głównego Straży Granicznej odwołanie nie przysługuje. Obwiniony może jednak zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta Głównego Straży Granicznej z wnioskiem o ponowne rozpatrzenie sprawy. Do wniosku stosuje się odpowiednio przepisy dotyczące odwołań od orzeczeń dyscyplinarnych.
+
+4. Minister właściwy do spraw wewnętrznych albo Komendant Główny Straży Granicznej odmawia przyjęcia odwołania albo wniosku o ponowne rozpatrzenie sprawy, w drodze postanowienia, jeżeli odwołanie lub wniosek są niedopuszczalne lub zostały wniesione po terminie. Postanowienie w tej sprawie jest ostateczne. Przepis ten stosuje się odpowiednio do odmowy przywrócenia terminu.
+
+5. Od orzeczeń, o których mowa w art. 136bze ust. 1 pkt 1, 2 i 4, oraz postanowienia kończącego postępowanie dyscyplinarne funkcjonariuszowi przysługuje prawo wniesienia skargi do sądu administracyjnego. Art. 136bz. 1. Termin do wniesienia odwołania, o którym mowa w art. 136by ust. 1, uważa się za zachowany, jeżeli przed jego upływem pismo zostało:
+
+- **1)** nadane w polskiej placówce pocztowej operatora publicznego;
+- **2)** złożone w jednostce organizacyjnej Straży Granicznej;
+- **3)** złożone przez obwinionego pozbawionego wolności w administracji zakładu karnego.
+
+2. Wniesienie odwołania w terminie wstrzymuje wykonanie orzeczenia.
+
+3. Orzeczenie, od którego nie wniesiono odwołania, staje się po upływie terminu, o którym mowa w art. 136by ust. 1, prawomocne i podlega wykonaniu. Art. 136bza. 1. Przełożony dyscyplinarny, który wydał orzeczenie, przesyła odwołanie w terminie 7 dni Komendantowi Głównemu Straży Granicznej, załączając akta osobowe i akta postępowania dyscyplinarnego.
+
+2. Jeżeli przełożony dyscyplinarny, który wydał orzeczenie, uzna, że odwołanie zasługuje w całości na uwzględnienie, wydaje nowe orzeczenie, w którym uchyla lub zmienia zaskarżone orzeczenie.
+
+3. Od nowego orzeczenia obwinionemu przysługuje odwołanie na zasadach dotyczących odwołań od orzeczeń wydanych po przeprowadzeniu postępowania dyscyplinarnego. Art. 136bzb. 1. W postępowaniu odwoławczym rozpoznanie sprawy następuje na podstawie materiału dowodowego zebranego w postępowaniu zakończonym zaskarżonym orzeczeniem. Jeżeli jest to potrzebne do wydania prawidłowego orzeczenia, przełożony dyscyplinarny właściwy do rozpatrzenia odwołania może uzupełnić materiał dowodowy, zlecając rzecznikowi dyscyplinarnemu prowadzącemu postępowanie dyscyplinarne przeprowadzenie czynności dowodowych, określając ich zakres i termin ich przeprowadzenia.
+
+2. Z materiałami uzyskanymi w wyniku czynności dowodowych, o których mowa w ust. 1, rzecznik dyscyplinarny zapoznaje obwinionego. W terminie 3 dni od dnia zapoznania obwiniony ma prawo zgłoszenia przełożonemu dyscyplinarnemu, o którym mowa w ust. 1, uwag dotyczących przeprowadzonych czynności dowodowych. Przepisy art. 136bs ust. 1–4 stosuje się odpowiednio. Art. 136bzc. 1. Komendant Główny Straży Granicznej w terminie 7 dni od dnia wniesienia odwołania może powołać komisję do zbadania zaskarżonego orzeczenia, zwaną dalej „komisją”. W przypadku orzeczenia o wymierzeniu kary dyscyplinarnej, o której mowa w art. 136 ust. 1 pkt 6–9, jest obowiązany powołać komisję.
+
+2. Komisja składa się z trzech funkcjonariuszy w służbie stałej w stopniu co najmniej podporucznika, z których jednego wyznacza wskazana przez obwinionego zakładowa organizacja związkowa.
+
+3. O wyznaczeniu przedstawiciela związku zawodowego do składu komisji zakładowa organizacja związkowa zawiadamia Komendanta Głównego Straży Granicznej w terminie 7 dni od dnia otrzymania zawiadomienia o powołaniu takiej komisji. W przypadku niewyznaczenia przedstawiciela związku zawodowego trzeciego członka komisji wyznacza Komendant Główny Straży Granicznej.
+
+4. Komendant Główny Straży Granicznej wyznacza przewodniczącego spośród członków komisji.
+
+5. Przepisy art. 136bi ust. 1–3 i 5 stosuje się odpowiednio do członków komisji.
+
+6. Komisja może wysłuchać rzecznika dyscyplinarnego, obwinionego lub jego obrońcy.
+
+7. Niestawiennictwo prawidłowo zawiadomionych: rzecznika dyscyplinarnego, obwinionego lub jego obrońcy nie wstrzymuje rozpoznania sprawy.
+
+8. Komisja może wystąpić do Komendanta Głównego Straży Granicznej o uzupełnienie materiału dowodowego w trybie art. 136bzb ust. 1. Art. 136bzd. 1. Z przeprowadzonych czynności komisja sporządza sprawozdanie wraz z wnioskiem dotyczącym sposobu załatwienia sprawy.
+
+2. Komisja przedstawia Komendantowi Głównemu Straży Granicznej sprawozdanie, o którym mowa w ust. 1, w terminie 21 dni od dnia jej powołania. Art. 136bze. 1. Komendant Główny Straży Granicznej po rozpatrzeniu odwołania albo wniosku o ponowne rozpatrzenie sprawy, a w przypadku powołania komisji – po otrzymaniu sprawozdania, o którym mowa w art. 136bzd ust. 1, wydaje orzeczenie o:
+
+- **1)** utrzymaniu w mocy orzeczenia wydanego w pierwszej instancji albo
+- **2)** uchyleniu w całości lub w części orzeczenia wydanego w pierwszej instancji i w tym zakresie orzeczeniu co do istoty sprawy lub uchyleniu tego orzeczenia i umorzeniu postępowania w pierwszej instancji, albo
+- **3)** uchyleniu orzeczenia wydanego w pierwszej instancji i przekazaniu sprawy do ponownego rozpatrzenia, ze wskazaniem stwierdzonych uchybień, albo
+- **4)** umorzeniu postępowania odwoławczego.
+
+2. Do orzeczeń, o których mowa w ust. 1 pkt 2, przepis art. 136bu ust. 2 stosuje się odpowiednio. W postępowaniu odwoławczym nie można wymierzyć kary dyscyplinarnej surowszej niż orzeczona w zaskarżonym orzeczeniu, chyba że wymierzona kara dyscyplinarna rażąco narusza prawo lub interes służby.
+
+3. W przypadku, o którym mowa w ust. 1 pkt 3, można w dalszym postępowaniu orzec karę dyscyplinarną surowszą niż orzeczona w uchylonym orzeczeniu.
+
+4. Orzeczenie, o którym mowa w ust. 1, wydaje się w terminie 30 dni od dnia wpływu odwołania wraz z aktami osobowymi i aktami postępowania dyscyplinarnego, a w przypadku powołania komisji – w terminie 14 dni od dnia otrzymania sprawozdania, o którym mowa w art. 136bzd ust. 1.
+
+5. Orzeczenie, o którym mowa w ust. 1, zawiera:
+
+- **1)** oznaczenie przełożonego dyscyplinarnego wydającego orzeczenie;
+- **2)** datę i miejsce wydania;
+- **3)** stopień, imię, nazwisko i stanowisko służbowe obwinionego;
+- **4)** wskazanie orzeczenia, od którego zostało złożone odwołanie;
+- **5)** rozstrzygnięcie w sprawie;
+- **6)** uzasadnienie faktyczne i prawne;
+- **7)** pouczenie o prawie wniesienia skargi do sądu administracyjnego;
+- **8)** podpis przełożonego dyscyplinarnego i urzędową pieczęć jednostki organizacyjnej Straży Granicznej.
+
+6. Do orzeczenia wydanego przez ministra właściwego do spraw wewnętrznych przepisy ust. 1–5 stosuje się odpowiednio. Art. 136bzf. 1. Prawomocne staje się:
+
+- **1)** orzeczenie dyscyplinarne:
+    - **a)** z upływem terminu do wniesienia odwołania albo wniosku o ponowne rozpatrzenie sprawy, jeżeli go nie wniesiono,
+    - **b)** w dniu jego wydania przez przełożonego dyscyplinarnego właściwego do rozpatrzenia odwołania;
+
+- **2)** postanowienie kończące postępowanie dyscyplinarne o:
+    - **a)** niedopuszczalności wniesienia odwołania,
+    - **b)** uchybieniu terminu do wniesienia odwołania,
+    - **c)** odmowie przywrócenia terminu do wniesienia odwołania.
+
+2. Po uprawomocnieniu się orzeczenia lub postanowienia, o których mowa w ust. 1, przełożony dyscyplinarny zarządza wykonanie orzeczonej kary dyscyplinarnej. Art. 136bzg. 1. Egzemplarz orzeczenia włącza się do akt osobowych funkcjonariusza, a jeżeli w danej sprawie prowadzone było postępowanie dyscyplinarne – również do akt postępowania dyscyplinarnego. Orzeczenie, o którym mowa w art. 136bu ust. 1 pkt 3, przechowuje się w aktach osobowych funkcjonariusza przez okres 5 miesięcy od dnia jego uprawomocnienia się.
+
+2. Jeżeli postępowanie dyscyplinarne zostało wszczęte na wniosek pokrzywdzonego, sądu, prokuratora, organu lub instytucji, przełożony dyscyplinarny informuje pokrzywdzonego, sąd, prokuratora, organ lub instytucję o wydanym orzeczeniu. Art. 136bzh. 1. Wykonanie kary dyscyplinarnej polega na:
+
+- **1)** przeprowadzeniu rozmowy i wytknięciu niewłaściwego postępowania – w przypadku wymierzenia kar upomnienia lub nagany;
+- **2)** przeprowadzeniu rozmowy, wytknięciu niewłaściwego postępowania i uprzedzeniu ukaranego o możliwości wymierzenia kary przeniesienia na niższe stanowisko służbowe lub kary dyscyplinarnej surowszej, jeżeli ponownie dopuści się czynu rodzącego odpowiedzialność dyscyplinarną – w przypadku wymierzenia kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku;
+- **3)** przeniesieniu na niższe stanowisko służbowe – w przypadku kary wyznaczenia na niższe stanowisko służbowe, zgodnie ze wskazaniami zawartymi w uzasadnieniu orzeczenia;
+- **4)** wydaniu rozkazu personalnego o obniżeniu stopnia lub wystąpieniu do właściwego organu z wnioskiem o obniżenie stopnia – w przypadku kary obniżenia stopnia;
+- **5)** przeprowadzeniu rozmowy, wytknięciu niewłaściwego postępowania i ostrzeżeniu, że za ponowne popełnienie czynu rodzącego odpowiedzialność dyscyplinarną ukarany może być wydalony ze służby – w przypadku wymierzenia kary ostrzeżenia o niepełnej przydatności do służby;
+- **6)** zwolnieniu funkcjonariusza ze służby – w przypadku wymierzenia kary wydalenia ze służby;
+- **7)** zakazaniu ukaranemu opuszczania miejsca zakwaterowania w czasie wolnym od zajęć przez czas trwania kary dyscyplinarnej oraz nałożeniu obowiązku meldowania się, nieczęściej niż trzykrotnie w ciągu dnia, na wezwanie dyżurnego lub innego wyznaczonego funkcjonariusza – w przypadku wymierzenia kary zakazu opuszczania miejsca zakwaterowania.
+
+2. Rozmowy, o których mowa w ust. 1 pkt 1, 2 i 5, przeprowadza przełożony dyscyplinarny. W uzasadnionym przypadku przełożony dyscyplinarny może na piśmie upoważnić do przeprowadzenia w jego imieniu rozmowy funkcjonariusza w stopniu nieniższym od stopnia posiadanego przez funkcjonariusza, z którym ma być prowadzona ta rozmowa, lub zajmującego co najmniej równorzędne z tym funkcjonariuszem stanowisko służbowe.
+
+3. Przełożony dyscyplinarny, udzielając upoważnienia do przeprowadzenia w jego imieniu rozmów, o których mowa w ust. 1 pkt 1, 2 i 5, podaje do wiadomości funkcjonariusza upoważnionego do ich przeprowadzenia treść orzeczenia, w celu wykonania którego ma być przeprowadzona rozmowa, określa termin, w jakim przeprowadza się rozmowę, a także udziela temu funkcjonariuszowi pisemnych wytycznych dotyczących prowadzenia rozmowy, w szczególności wskazuje informacje lub okoliczności, jakie należy podnieść, wytykając niewłaściwe postępowanie ukaranemu.
+
+4. Funkcjonariusz upoważniony do przeprowadzenia rozmów, o których mowa w ust. 1 pkt 1, 2 i 5, sporządza z rozmowy notatkę. Notatkę z rozmowy funkcjonariusz upoważniony do jej przeprowadzenia przedstawia przełożonemu dyscyplinarnemu.
+
+5. Przełożony dyscyplinarny może w przypadku, o którym mowa w ust. 1 pkt 1 lub 2, uznać uprawomocnienie się orzeczenia za równoznaczne z wykonaniem kary dyscyplinarnej, jeżeli jest to wystarczające dla zapewnienia prawidłowej realizacji celów wychowawczych lub prewencyjnych wydanego orzeczenia. O uznaniu uprawomocnienia się orzeczenia za równoznaczne z wykonaniem kary dyscyplinarnej informuje się obwinionego w formie pisemnej. Art. 136bzi. 1. W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy Kodeksu postępowania karnego dotyczące porządku czynności procesowych, z wyjątkiem art. 117 i art. 117a, wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz konfrontacji, okazania, oględzin i eksperymentu procesowego. W postępowaniu dyscyplinarnym do świadków nie stosuje się przepisu art. 184 Kodeksu postępowania karnego.
+
+2. O zwolnieniu od złożenia zeznania lub odpowiedzi na pytania osoby pozostającej z obwinionym w szczególnie bliskim stosunku osobistym rozstrzyga rzecznik dyscyplinarny. Na odmowę zwolnienia od złożenia zeznania lub odpowiedzi na pytania przysługuje zażalenie w terminie 3 dni od dnia doręczenia postanowienia w tej sprawie.
 
 **Art. 136c.** (uchylony)
 
@@ -3991,6 +4598,13 @@ source: "isap-pdf"
 
 **Art. 147c.** Do realizacji zadań poza granicami państwa może zostać wydzielony kontyngent Straży Granicznej, zwany dalej „kontyngentem”, w celu udziału w:
 
+- **1)** organizowaniu i kontroli ruchu granicznego;
+- **2)** organizowaniu ochrony granicy państwowej;
+- **3)** zapewnieniu bezpieczeństwa w komunikacji międzynarodowej;
+- **3a)** rozpoznawaniu i przeciwdziałaniu zagrożeniom terroryzmem;
+- **4)** szkoleniu i ćwiczeniach służb granicznych;
+- **5)** przedsięwzięciach reprezentacyjnych.
+
 **Art. 147d.**
 
 1. O utworzeniu kontyngentu postanawia, w drodze decyzji:
@@ -4038,6 +4652,11 @@ source: "isap-pdf"
 2. Funkcjonariuszowi, o którym mowa w ust. 1, mogą być przyznawane dodatki do uposażenia, świadczenia z tytułu uszczerbku na zdrowiu, należności z tytułu krajowej lub zagranicznej podróży służbowej oraz inne należności pieniężne związane z delegowaniem, wypłacane w walucie polskiej lub obcej.
 
 **Art. 147i.** Funkcjonariuszowi delegowanemu do pełnienia służby w kontyngencie oraz osobie, o której mowa w art. 147f, przysługują w szczególności następujące uprawnienia i świadczenia:
+
+- **1)** bezpłatne zakwaterowanie i wyżywienie;
+- **2)** bezpłatne świadczenia zdrowotne oraz bezpłatne zaopatrzenie w leki i artykuły sanitarne;
+- **3)** bezpłatny przewóz do miejsca pełnienia służby lub wykonywania pracy na obszarze działania kontyngentu i z powrotem do kraju, w związku z rozpoczęciem i zakończeniem pełnienia służby lub wykonywania pracy w kontyngencie;
+- **4)** ubezpieczenie od następstw nieszczęśliwych wypadków zaistniałych w czasie pełnienia służby lub pracy w kontyngencie, wskutek których nastąpiło uszkodzenie ciała, rozstrój zdrowia lub śmierć.
 
 **Art. 147j.**
 
@@ -4112,6 +4731,13 @@ source: "isap-pdf"
 
 **Art. 147m.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** warunki otrzymywania, rodzaj waluty oraz wysokość dodatków, świadczeń i należności, o których mowa w art. 147h ust. 2, uwzględniając ich rodzaje i zakres przyznawania z uwagi na występujące zagrożenia, uciążliwość lub miejsce pełnienia służby oraz sprawowaną przez funkcjonariusza funkcję;
+- **2)** warunki i tryb delegowania funkcjonariuszy do pełnienia służby w kontyngencie poza granicami państwa oraz odwoływania do kraju, a także przedłużania czasu delegowania, warunki pełnienia służby, w tym zakres podległości służbowej, uwzględniając specyfikę wykonywanych zadań;
+- **3)** dodatkowe świadczenia przysługujące funkcjonariuszom w związku z delegowaniem do pełnienia służby w kontyngencie poza granicami państwa, uwzględniając ich zróżnicowanie związane z zakresem zadań kontyngentu oraz obszarem jego działania;
+- **4)** tryb i warunki zatrudniania w kontyngentach pracowników, o których mowa w art. 147f, i ich wynagradzania, z uwzględnieniem specyfiki związanej z wykonywaniem pracy w kontyngencie realizującym zadania poza granicami państwa, a w szczególności otrzymywania dodatku zagranicznego, świadczeń z tytułu podróży i przejazdów oraz innych należności pieniężnych związanych z delegowaniem;
+- **5)** szczegółowy sposób realizacji uprawnień, o których mowa w art. 147i pkt 1, 3 i 4, przysługujących funkcjonariuszom delegowanym do pełnienia służby w kontyngencie oraz pracownikom zatrudnionym w kontyngencie, uwzględniając konieczność zapewnienia niezbędnych świadczeń w okresie przygotowań do pełnienia służby oraz wykonywania pracy w kontyngencie;
+- **6)** szczegółowe zasady i tryb finansowania kontyngentu, w tym jego przewozu, oraz podmiot właściwy w sprawach obsługi finansowej, uwzględniając możliwość finansowania kontyngentu ze środków pochodzących ze źródeł zagranicznych, możliwość przekazywania zaliczek na wydatki związane z przygotowaniem w kraju kontyngentu do wykonywania zadań poza granicami państwa oraz rodzaje wydatków, na które mogą być przeznaczone.
+
 **Art. 147n.** Wydatki związane z utworzeniem kontyngentów i ich użyciem poza granicami państwa finansowane są z budżetu państwa, w części, której dysponentem jest minister właściwy do spraw wewnętrznych.
 
 #### Rozdział 14b Udział Straży Granicznej we wspólnych działaniach koordynowanych przez Europejską Agencję Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej
@@ -4144,6 +4770,9 @@ source: "isap-pdf"
 #### Rozdział 14c Udział Straży Granicznej we współpracy transgranicznej państw członkowskich Unii Europejskiej
 
 **Art. 147s.** Funkcjonariusze i pracownicy Straży Granicznej mogą zostać delegowani do wykonywania obowiązków służbowych na terytorium innego państwa członkowskiego Unii Europejskiej w celu realizacji zadań:
+
+- **1)** w formie wspólnych patroli i innego rodzaju wspólnych operacji służących ochronie porządku i bezpieczeństwa publicznego oraz zapobieganiu przestępczości, o których mowa w art. 17 ust. 1 decyzji Rady 2008/615/WSiSW z dnia 23 czerwca 2008 r. w sprawie intensyfikacji współpracy transgranicznej, szczególnie w zwalczaniu terroryzmu i przestępczości transgranicznej (Dz. Urz. UE L 210 z 06.08.2008, str. 1), zwanej dalej „decyzją Rady 2008/615/WSiSW”;
+- **2)** w formie udzielania wsparcia w związku ze zgromadzeniami, imprezami masowymi lub podobnymi wydarzeniami, klęskami żywiołowymi oraz poważnymi wypadkami, w celu ochrony porządku i bezpieczeństwa publicznego oraz zapobiegania przestępczości, o których mowa w art. 18 decyzji Rady 2008/615/WSiSW.
 
 **Art. 147t.**
 
@@ -4182,6 +4811,13 @@ source: "isap-pdf"
 4. Psy służbowe wycofane z użycia i konie służbowe wycofane z użycia pozostają na stanie jednostki organizacyjnej Straży Granicznej, o której mowa w ust. 3, albo jednostki organizacyjnej Straży Granicznej wskazanej przez Komendanta Głównego Straży Granicznej.
 
 **Art. 147x.** Opiekunem psa służbowego lub opiekunem konia służbowego jest odpowiednio:
+
+- **1)** przewodnik – funkcjonariusz, któremu przydzielono pod opiekę psa służbowego i który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 9 ust. 7 pkt 7;
+- **2)** kandydat na przewodnika – funkcjonariusz, któremu przydzielono pod opiekę psa służbowego i którego wytypowano lub skierowano po raz pierwszy na szkolenie, o którym mowa w przepisach wydanych na podstawie art. 9 ust. 7 pkt 7;
+- **3)** jeździec – funkcjonariusz, któremu przydzielono pod opiekę konia służbowego i który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 9 ust. 7 pkt 7;
+- **4)** kandydat na jeźdźca – funkcjonariusz, któremu przydzielono pod opiekę konia służbowego i którego wytypowano lub skierowano po raz pierwszy na szkolenie, o którym mowa w przepisach wydanych na podstawie art. 9 ust. 7 pkt 7;
+- **5)** przechowawca – podmiot, z którym zawarto umowę dotyczącą przechowywania koni służbowych;
+- **6)** pomocnik przewodnika – funkcjonariusz wykonujący zadania w zakresie opieki nad psem służbowym w przypadku, gdy zadań tych nie może wykonywać przewodnik.
 
 **Art. 147y.**
 

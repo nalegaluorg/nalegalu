@@ -143,7 +143,11 @@ source: pdf
     - **a)** ust. 1a otrzymuje brzmienie: „1a. Radcowie prawni objęci umową, o której mowa w art. 22 ust. 3, podlegają odpowiedzialności dyscyplinarnej za nieopłacanie w terminie przypadającej na radcę prawnego części składki z tytułu zawartej umowy ubezpieczenia.”,
     - **b)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Radcowie prawni, którzy złożyli oświadczenie o rezygnacji z objęcia umową, o której mowa w art. 22 ust. 3, podlegają odpowiedzialności dyscyplinarnej za niespełnienie obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 22 ust. 1, zgodnie z przepisami wydanymi na podstawie art. 22 .”;
 
-- **23)** po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „Rozdział 6a Przepis karny Art. 74 [2] . 1. Kto, nie będąc uprawnionym posługuje się tytułem zawodowym „radca prawny” lub oznaczeniem „kancelaria radcy prawnego” lub „kancelaria radców prawnych” podlega grzywnie od 5000 do 200 000 złotych albo karze ograniczenia wolności albo obu tym karom łącznie.
+- **23)** po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „Rozdział 6a Przepis karny
+
+**Art. 74².**
+
+1. Kto, nie będąc uprawnionym posługuje się tytułem zawodowym „radca prawny” lub oznaczeniem „kancelaria radcy prawnego” lub „kancelaria radców prawnych” podlega grzywnie od 5000 do 200 000 złotych albo karze ograniczenia wolności albo obu tym karom łącznie.
 
 2. Tej samej karze podlega, kto dopuszcza się̨ czynu określonego w ust. 1 działając w imieniu lub w interesie innego podmiotu.
 

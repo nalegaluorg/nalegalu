@@ -65,7 +65,8 @@ f) działań na rzecz oświaty w wymiarze co najmniej regionalnym.
 2) organ prowadzący szkołę – dla dyrektora szkoły.
 § 7. Nagrody są przyznawane w terminie do dnia 14 października każdego roku z okazji Dnia Edukacji Narodowej.
 § 8. Nauczyciel, któremu została przyznana nagroda, otrzymuje dyplom, którego odpis włącza się do jego akt osobowych.
-§ 9. Minister może z własnej inicjatywy przyznać nagrodę nauczycielowi spełniającemu kryteria, o których mowa w § 2. Przepisów § 5 i 7 nie stosuje się.
+§ 9. Minister może z własnej inicjatywy przyznać nagrodę nauczycielowi spełniającemu kryteria, o których mowa
+§ 2. Przepisów § 5 i 7 nie stosuje się.
 § 9a. Kurator oświaty lub organ sprawujący nadzór pedagogiczny może z własnej inicjatywy przyznać nagrodę nauczycielowi spełniającemu kryteria, o których mowa w § 2. Przepisów § 6 i § 7 nie stosuje się.
 § 10. W 2009 r. wnioski, o których mowa w § 5, przekazuje się ministrowi w terminie do dnia 7 września.
 § 11. Rozporządzenie wchodzi w życie z dniem ogłoszenia .

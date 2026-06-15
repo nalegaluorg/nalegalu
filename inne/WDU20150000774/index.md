@@ -8,10 +8,12 @@ pos: 774
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o zmianie niektórych ustaw związku ze wzmocnieniem narzędzi ochrony krajobrazu
+# o zmianie niektórych ustaw w związku ze wzmocnieniem narzędzi ochrony krajobrazu
+
+*USTAWA z dnia 24 kwietnia 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +27,96 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000774) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/774/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm. ) art. 121 § 4 otrzymuje brzmienie: „§ 4. Jeżeli egzekucja dotyczy spełnienia przez zobowiązanego obowiązku wynikającego z przepisów prawa budowlanego, grzywna celu przymuszenia jest jednorazowa, chyba że dotyczy obowiązku utrzymania obiektu budowlanego stanie nieoszpecającym otoczenia.”.
+**Art. 1.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm. ) w art. 121 § 4 otrzymuje brzmienie: „§ 4. Jeżeli egzekucja dotyczy spełnienia przez zobowiązanego obowiązku wynikającego z przepisów prawa budowlanego, grzywna w celu przymuszenia jest jednorazowa, chyba że dotyczy obowiązku utrzymania obiektu budowlanego w stanie nieoszpecającym otoczenia.”.
 
 **Art. 2.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2013 r. poz. 482, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 63a:
+    - **a)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Podżeganie i pomocnictwo są karalne.”,
+    - **b)** § 2 otrzymuje brzmienie: „§ 2. W razie popełnienia wykroczenia można orzec przepadek przedmiotów służących lub przeznaczonych do popełnienia wykroczenia, choćby nie stanowiły własności sprawcy, oraz nawiązkę w wysokości do 1500 złotych lub obowiązek przywrócenia do stanu poprzedniego.”;
+
+- **2)** po art. 63a dodaje się art. 63b w brzmieniu: „Art. 63b. § 1. Kto umieszcza reklamę, o której mowa w art. 4 pkt 23 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460 i 774) z naruszeniem warunków jej sytuowania określonych w art. 42a tej ustawy, o gabarytach większych niż dopuszczalne lub wykonane z wyrobów innych niż dopuszczalne, podlega karze ograniczenia wolności albo grzywny.
+
+§ 2. Podżeganie i pomocnictwo są karalne.
+
+§ 3. W razie popełnienia wykroczenia można orzec przepadek przedmiotów służących lub przeznaczonych do popełnienia wykroczenia, choćby nie stanowiły własności sprawcy, lub obowiązek przywrócenia do stanu poprzedniego.”.
+
 **Art. 3.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460) wprowadza się następujące zmiany:
 
+- **1)** w art. 4:
+    - **a)** pkt 23 otrzymuje brzmienie: „23) reklama – umieszczone w polu widzenia użytkownika drogi tablica reklamowa lub urządzenie reklamowe w rozumieniu art. 2 pkt 16b i 16c ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, 443 i
+
+- **774)** , a także każdy inny nośnik informacji wizualnej, wraz z jej elementami konstrukcyjnymi i zamocowaniami, niebędący znakiem drogowym, o którym mowa w przepisach wydanych na podstawie art. 7 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm. ), ustawionym przez gminę znakiem informującym o obiektach zlokalizowanych przy drodze, w tym obiektach użyteczności publicznej, znakiem informującym o formie ochrony zabytków lub tablicą informacyjną o nazwie formy ochrony przyrody w rozumieniu art. 115 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm. );”,
+    - **b)** pkt 25 otrzymuje brzmienie: „25) pojazd nienormatywny – pojazd lub zespół pojazdów w rozumieniu art. 2 pkt 35a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;”;
+
+- **2)** w art. 22 po ust. 2b dodaje się ust. 2c i 2d w brzmieniu: „2c. W granicach miast na prawach powiatu tablice reklamowe i urządzenia reklamowe mogą być umieszczane na gruntach, o których mowa w ust. 1, na podstawie odpłatnej umowy cywilnoprawnej w wypadkach uzasadnionych względami funkcjonalnymi, w szczególności wówczas gdy takie tablice lub urządzenia są umieszczone na wiatach przystankowych lub obiektach małej architektury.
+
+2d. Wartość świadczeń pieniężnych lub niepieniężnych przysługujących zarządowi dróg w sytuacji, o której mowa w ust. 2c, nie może być niższa niż wysokość opłaty za zajęcie pasa drogowego, która miałaby zastosowanie w przypadku danej tablicy reklamowej lub urządzenia reklamowego umieszczanych na podstawie decyzji, o której mowa w art. 40 ust. 1.”;
+
+- **3)** art. 36 otrzymuje brzmienie: „Art. 36. W przypadku zajęcia pasa drogowego bez zezwolenia zarządcy drogi lub niezgodnie z warunkami podanymi w tym zezwoleniu, lub bez zawarcia odpłatnej umowy cywilnoprawnej, o której mowa w art. 22 ust. 2, 2a lub 2c, lub niezgodnie z warunkami tej umowy, właściwy zarządca drogi orzeka, w drodze decyzji administracyjnej, o jego przywróceniu do stanu poprzedniego. Przepisu tego nie stosuje się w przypadku zajęcia pasa drogowego bez zezwolenia zarządcy drogi lub niezgodnie z warunkami podanymi w tym zezwoleniu, wymagającego podjęcia przez właściwy organ nadzoru budowlanego decyzji o rozbiórce obiektu budowlanego.”;
+- **4)** w art. 39:
+    - **a)** w ust. 1 pkt 5 otrzymuje brzmienie: „5) umieszczania reklam:
+    - **a)** imitujących znaki i sygnały drogowe oraz urządzenia bezpieczeństwa ruchu drogowego,
+    - **b)** poza obszarem zabudowanym, z wyłączeniem parkingów i miejsc obsługi podróżnych;”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. W szczególnie uzasadnionych przypadkach lokalizowanie w pasie drogowym obiektów budowlanych lub urządzeń niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego oraz reklam, może nastąpić wyłącznie za zezwoleniem właściwego zarządcy drogi, wydawanym w drodze decyzji administracyjnej – zezwolenie nie jest wymagane w przypadku zawarcia umowy, o której mowa w ust. 7 lub w art. 22 ust. 2, 2a lub 2c. Jednakże właściwy zarządca drogi:
+
+- **1)** może odmówić wydania zezwolenia na umieszczenie w pasie drogowym urządzeń i infrastruktury, o których mowa w ust. 1a, wyłącznie, jeżeli ich umieszczenie spowodowałoby zagrożenie bezpieczeństwa ruchu drogowego, naruszenie wymagań wynikających z przepisów odrębnych lub miałoby doprowadzić do utraty uprawnień z tytułu gwarancji lub rękojmi w zakresie budowy, przebudowy lub remontu dróg;
+- **2)** odmawia wydania zezwolenia na umieszczenie w pasie drogowym reklam, jeżeli ich umieszczenie mogłoby powodować niszczenie lub uszkodzenie drogi i jej urządzeń, lub zmniejszenie jej trwałości, lub zagrażać bezpieczeństwu ruchu drogowego oraz w przypadkach, gdy reklamy nie spełniają warunków, o których mowa w art. 42a.”;
+- **5)** w art. 40:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zajęcie pasa drogowego na cele niezwiązane z budową, przebudową, remontem, utrzymaniem i ochroną dróg, wymaga zezwolenia zarządcy drogi, wydanego w drodze decyzji administracyjnej – zezwolenie nie jest wymagane w przypadku zawarcia umowy, o której mowa w art. 22 ust. 2, 2a lub 2c.”,
+    - **b)** po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „6a. Nie pobiera się opłaty za zajęcie pasa drogowego w związku z umieszczaniem w pasie drogowym tablic informujących o nazwie formy ochrony przyrody, o których mowa w art. 115 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody oraz znaków informujących o formie ochrony zabytków.
+
+6b. Opłatę za zajęcie pasa drogowego, o której mowa w ust. 6, powiększa się, od dnia wprowadzenia opłaty reklamowej przez radę gminy, o wysokość opłaty reklamowej, o której mowa w art. 17a ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2014 r. poz. 849, z późn. zm. ).”,
+
+- **c)** ust. 12 otrzymuje brzmienie: „12. Za zajęcie pasa drogowego:
+- **1)** bez zezwolenia zarządcy drogi lub bez zawarcia umowy, o której mowa w art. 22 ust. 2, 2a lub 2c,
+- **2)** z przekroczeniem terminu zajęcia określonego w zezwoleniu zarządcy drogi lub w umowie, o której mowa w art. 22 ust. 2, 2a lub 2c,
+- **3)** o powierzchni większej niż określona w zezwoleniu zarządcy drogi lub w umowie, o której mowa w art. 22 ust. 2, 2a lub 2c – zarządca drogi wymierza, w drodze decyzji administracyjnej, karę pieniężną w wysokości 10-krotności opłaty ustalanej zgodnie z ust. 4–6.”;
+- **6)** po art. 42 dodaje się art. 42a w brzmieniu: „Art. 42a. 1. Widoczna z jezdni przez kierującego pojazdem reklama emitująca światło, umieszczona w pasie drogowym lub w odległości od zewnętrznej krawędzi jezdni, o której mowa w art. 43 ust. 1, musi spełniać wymagania określone w ust. 2 oraz w przepisach wydanych na podstawie ust.
+
+3.
+
+2. W przypadku reklam umożliwiających bieżącą zmianę informacji wizualnej:
+
+- **1)** niedopuszczalne jest wyświetlanie ruchomych obrazów;
+- **2)** niedopuszczalne jest stosowanie efektów wizualnych i przerw pomiędzy kolejno wyświetlanymi informacjami;
+- **3)** minimalny czas prezentacji informacji wizualnej musi być dłuższy niż 10 sekund.
+
+3. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, maksymalną luminancję powierzchni informacji wizualnej umieszczonej na reklamie emitującej światło, w ciągu dnia i w ciągu nocy, w terenie zabudowy i poza terenem zabudowy, mając na względzie zachowanie bezpieczeństwa ruchu drogowego.
+
+4. Przepisów wydanych na podstawie ust. 3 nie stosuje się do umieszczania w pasie drogowym lub w odległościach od zewnętrznej krawędzi jezdni, o których mowa w art. 43 ust. 1, widocznych z jezdni przez kierującego pojazdem szyldów w rozumieniu art. 2 pkt 16d ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, o ile pole powierzchni bocznej prostopadłościanu opisanego na danej tablicy lub urządzeniu reklamowym emitującym światło jest mniejsze niż 2 m , a najdłuższy bok nie jest dłuższy niż 3 m.”;
+
+- **7)** w art. 43 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Obiekty budowlane przy drogach oraz niebędące obiektami budowlanymi reklamy umieszczone przy drogach poza obszarami zabudowanymi, powinny być usytuowane w odległości od zewnętrznej krawędzi jezdni co najmniej:”.
+
 **Art. 4.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2014 r. poz. 849 oraz z 2015 r. poz. 528 i 699) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 po pkt 5a dodaje się pkt 5b w brzmieniu: „5b) opłatę reklamową;”;
+- **2)** w art. 1a w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) reklama, tablica reklamowa, urządzenie reklamowe, szyld – odpowiednio reklamę, tablicę reklamową, urządzenie reklamowe, szyld w rozumieniu przepisów ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, 443 i 774);”;
+- **3)** po art. 17 dodaje się art. 17a i art. 17b w brzmieniu: „Art. 17a. 1. Rada gminy może wprowadzić opłatę reklamową od umieszczonych tablic reklamowych lub urządzeń reklamowych.
+
+2. Opłata reklamowa może być pobierana jedynie na obszarach, dla których obowiązują zasady i warunki sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń.
+
+3. Opłatę reklamową pobiera się od:
+
+- **1)** właścicieli nieruchomości lub obiektów budowlanych, z wyłączeniem nieruchomości gruntowych oddanych w użytkowanie wieczyste,
+- **2)** użytkowników wieczystych nieruchomości gruntowych,
+- **3)** posiadaczy samoistnych nieruchomości lub obiektów budowlanych,
+- **4)** posiadaczy nieruchomości lub ich części albo obiektów budowlanych lub ich części, stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego, jeżeli posiadanie:
+    - **a)** wynika z umowy zawartej z właścicielem, Agencją Nieruchomości Rolnych lub z innego tytułu prawnego,
+    - **b)** jest bez tytułu prawnego – jeżeli na tych nieruchomościach lub obiektach budowlanych znajdują się tablice reklamowe lub urządzenia reklamowe, niezależnie od tego czy na tablicy reklamowej lub urządzeniu reklamowym eksponowana jest reklama.
+
+4. Jeżeli nieruchomość lub obiekt budowlany, na których zlokalizowana jest tablica reklamowa lub urządzenie reklamowe, jest przedmiotem współwłasności lub pozostaje w posiadaniu dwóch lub więcej osób obowiązek w zakresie wniesienia opłaty reklamowej ciąży solidarnie odpowiednio na wszystkich współwłaścicielach lub współposiadaczach.
+
+5. Opłaty reklamowej nie pobiera się jeżeli tablice reklamowe lub urządzenia reklamowe, o których mowa w ust. 2:
+
+- **1)** nie są widoczne z przestrzeni dostępnych publicznie;
+- **2)** stanowią szyld, o ile jest on zgodny z zasadami i warunkami sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń;
+- **3)** są realizacją obowiązku nałożonego przepisami prawa;
+- **4)** służą wyłącznie do upowszechniania informacji:
+    - **a)** trwale upamiętniającej osoby, instytucje lub wydarzenia,
+    - **b)** o charakterze religijnym, związanym z działalnością kościołów lub innych związków wyznaniowych, jeżeli tablica reklamowa lub urządzenie reklamowe sytuowane są w granicach terenów użytkowanych jako miejsca kultu i działalności religijnej oraz cmentarzy.
+
+6. Kwotę zapłaconego podatku od nieruchomości od tablicy reklamowej lub urządzenia reklamowego, zalicza się na poczet opłaty reklamowej należnej od tej tablicy reklamowej lub urządzenia reklamowego.
 
 **Art. 17b.**
 
@@ -41,73 +126,162 @@ source: "isap-pdf"
 
 3. Część zmienna zależy od wielkości pola powierzchni tablicy lub urządzenia reklamowego służących ekspozycji reklamy.
 
-4. Jeśli kształt urządzenia reklamowego uniemożliwia wyznaczenie pola powierzchni służącej ekspozycji reklamy, o którym mowa ust. 3, wysokość opłaty zależy od pola powierzchni bocznej prostopadłościanu opisanego na urządzeniu reklamowym.”;
+4. Jeśli kształt urządzenia reklamowego uniemożliwia wyznaczenie pola powierzchni służącej ekspozycji reklamy, o którym mowa w ust. 3, wysokość opłaty zależy od pola powierzchni bocznej prostopadłościanu opisanego na urządzeniu reklamowym.”;
 
-- **4)** art. 19:
-    - **a)** pkt 1 lit. f średnik zastępuje się przecinkiem i dodaje się lit. g i h brzmieniu: „g) stawka części stałej opłaty reklamowej nie może przekroczyć 2,50 zł dziennie,
+- **4)** w art. 19:
+    - **a)** w pkt 1 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g i h w brzmieniu: „g) stawka części stałej opłaty reklamowej nie może przekroczyć 2,50 zł dziennie,
     - **h)** stawka części zmiennej opłaty reklamowej nie może przekroczyć 0,20 zł od 1 m pola powierzchni tablicy reklamowej lub urządzenia reklamowego służących ekspozycji reklamy dziennie;”,
-    - **b)** pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4–6 brzmieniu: „4) może różnicować wysokość stawek opłaty reklamowej uwzględniając lokalizację oraz wielkość lub rodzaj tablicy reklamowej lub urządzenia reklamowego;
+    - **b)** w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4–6 w brzmieniu: „4) może różnicować wysokość stawek opłaty reklamowej uwzględniając lokalizację oraz wielkość lub rodzaj tablicy reklamowej lub urządzenia reklamowego;
 
-- **5)** może wprowadzić obowiązek składania organowi podatkowemu właściwemu ze względu na miejsce położenia tablic reklamowych lub urządzeń reklamowych, deklaracji na opłatę reklamową, a także przedmiotu opodatkowania niezbędne do wymiaru i poboru opłaty reklamowej;
-- **6)** może wprowadzić możliwość składania deklaracji na opłatę reklamową za pomocą środków komunikacji elektronicznej; tym przypadku przepisy art. 6 ust. 14–16 stosuje się odpowiednio.”.
+- **5)** może wprowadzić obowiązek składania organowi podatkowemu właściwemu ze względu na miejsce położenia tablic reklamowych lub urządzeń reklamowych, deklaracji na opłatę reklamową, a także określić termin, warunki i tryb składania tych deklaracji; w tym przypadku rada gminy określa wzór formularza deklaracji na opłatę reklamową, w którym zawarte będą dane dotyczące podmiotu i przedmiotu opodatkowania niezbędne do wymiaru i poboru opłaty reklamowej;
+- **6)** może wprowadzić możliwość składania deklaracji na opłatę reklamową za pomocą środków komunikacji elektronicznej; w tym przypadku przepisy art. 6 ust. 14–16 stosuje się odpowiednio.”.
 
 **Art. 5.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm. ) art. 400a ust. 1 po pkt 25 dodaje się pkt 25a brzmieniu: „25a) opracowywanie audytów krajobrazowych;”.
+- **1)** w art. 3 pkt 3 otrzymuje brzmienie: „3) budowli – należy przez to rozumieć każdy obiekt budowlany niebędący budynkiem lub obiektem małej architektury, jak: obiekty liniowe, lotniska, mosty, wiadukty, estakady, tunele, przepusty, sieci techniczne, wolno stojące maszty antenowe, wolno stojące trwale związane z gruntem tablice reklamowe i urządzenia reklamowe, budowle ziemne, obronne (fortyfikacje), ochronne, hydrotechniczne, zbiorniki, wolno stojące instalacje przemysłowe lub urządzenia techniczne, oczyszczalnie ścieków, składowiska odpadów, stacje uzdatniania wody, konstrukcje oporowe, nadziemne i podziemne przejścia dla pieszych, sieci uzbrojenia terenu, budowle sportowe, cmentarze, pomniki, a także części budowlane urządzeń technicznych (kotłów, pieców przemysłowych, elektrowni wiatrowych, elektrowni jądrowych i innych urządzeń) oraz fundamenty pod maszyny i urządzenia, jako odrębne pod względem technicznym części przedmiotów składających się na całość użytkową;”;
+- **2)** w art. 30 w ust. 6 pkt 2 otrzymuje brzmienie: „2) budowa lub wykonywanie robót budowlanych objętych zgłoszeniem narusza ustalenia miejscowego planu zagospodarowania przestrzennego, decyzji o warunkach zabudowy, inne akty prawa miejscowego lub inne przepisy;”;
+- **3)** w art. 35 w ust. 1 pkt 1 otrzymuje brzmienie: „1) zgodność projektu budowlanego z ustaleniami miejscowego planu zagospodarowania przestrzennego i innymi aktami prawa miejscowego albo decyzji o warunkach zabudowy i zagospodarowania terenu w przypadku braku miejscowego planu, a także wymaganiami ochrony środowiska, w szczególności określonymi w decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko;”;
+- **4)** w art. 48 w ust. 2 w pkt 1 lit. a otrzymuje brzmienie: „a) ustaleniami obowiązującego miejscowego planu zagospodarowania przestrzennego i innymi aktami prawa miejscowego albo”;
+- **5)** w art. 71 w ust. 5 pkt 2 otrzymuje brzmienie: „2) narusza ustalenia obowiązującego miejscowego planu zagospodarowania przestrzennego i innych aktów prawa miejscowego albo decyzji o warunkach budowy i zagospodarowania terenu, w przypadku braku obowiązującego miejscowego planu zagospodarowania przestrzennego;”.
+
+**Art. 6.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm. ) w art. 400a w ust. 1 po pkt 25 dodaje się pkt 25a w brzmieniu: „25a) opracowywanie audytów krajobrazowych;”.
 
 **Art. 7.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199 i 443) wprowadza się następujące zmiany:
 
+- **1)** w art. 2:
+    - **a)** po pkt 16 dodaje się pkt 16a–16f w brzmieniu: „16a) „reklamie” – należy przez to rozumieć upowszechnianie w jakiejkolwiek wizualnej formie informacji promującej osoby, przedsiębiorstwa, towary, usługi, przedsięwzięcia lub ruchy społeczne;
+
+- **16b)** „tablicy reklamowej” – należy przez to rozumieć przedmiot materialny przeznaczony lub służący ekspozycji reklamy wraz z jego elementami konstrukcyjnymi i zamocowaniami, o płaskiej powierzchni służącej ekspozycji reklamy, w szczególności baner reklamowy, reklamę naklejaną na okna budynków i reklamy umieszczane na rusztowaniu, ogrodzeniu lub wyposażeniu placu budowy, z wyłączeniem drobnych przedmiotów codziennego użytku wykorzystywanych zgodnie z ich przeznaczeniem;
+- **16c)** „urządzeniu reklamowym” – należy przez to rozumieć przedmiot materialny przeznaczony lub służący ekspozycji reklamy wraz z jego elementami konstrukcyjnymi i zamocowaniami, inny niż tablica reklamowa, z wyłączeniem drobnych przedmiotów codziennego użytku wykorzystywanych zgodnie z ich przeznaczeniem;
+- **16d)** „szyldzie” – należy przez to rozumieć tablicę reklamową lub urządzenie reklamowe informującą o działalności prowadzonej na nieruchomości, na której ta tablica reklamowa lub urządzenie reklamowe się znajdują;
+- **16e)** „krajobrazie” – należy przez to rozumieć postrzeganą przez ludzi przestrzeń, zawierającą elementy przyrodnicze lub wytwory cywilizacji, ukształtowaną w wyniku działania czynników naturalnych lub działalności człowieka;
+- **16f)** „krajobrazie priorytetowym” – należy przez to rozumieć krajobraz szczególnie cenny dla społeczeństwa ze względu na swoje wartości przyrodnicze, kulturowe, historyczne, architektoniczne, urbanistyczne, ruralistyczne lub estetyczno-widokowe, i jako taki wymagający zachowania lub określenia zasad i warunków jego kształtowania;”;
+- **2)** w art. 10:
+    - **a)** w ust. 1: – pkt 3 otrzymuje brzmienie: „3) stanu środowiska, w tym stanu rolniczej i leśnej przestrzeni produkcyjnej, wielkości i jakości zasobów wodnych oraz wymogów ochrony środowiska, przyrody i krajobrazu, w tym krajobrazu kulturowego;”, – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) rekomendacji i wniosków zawartych w audycie krajobrazowym lub określenia przez audyt krajobrazowy granic krajobrazów priorytetowych;”,
+    - **b)** w ust. 2: – pkt 1 otrzymuje brzmienie: „1) kierunki zmian w strukturze przestrzennej gminy oraz w przeznaczeniu terenów, w tym wynikające z audytu krajobrazowego;”, – pkt 3 otrzymuje brzmienie: „3) obszary oraz zasady ochrony środowiska i jego zasobów, ochrony przyrody, krajobrazu, w tym krajobrazu kulturowego i uzdrowisk;”;
+
+- **3)** w art. 15:
+    - **a)** w ust. 2: – pkt 3 otrzymuje brzmienie: „3) zasady ochrony środowiska, przyrody i krajobrazu;”, – po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) zasady kształtowania krajobrazu;”, – pkt 4 otrzymuje brzmienie: „4) zasady ochrony dziedzictwa kulturowego i zabytków, w tym krajobrazów kulturowych, oraz dóbr kultury współczesnej;”, – pkt 7 otrzymuje brzmienie: „7) granice i sposoby zagospodarowania terenów lub obiektów podlegających ochronie, na podstawie odrębnych przepisów, terenów górniczych, a także obszarów szczególnego zagrożenia powodzią, obszarów osuwania się mas ziemnych, krajobrazów priorytetowych określonych w audycie krajobrazowym oraz w planach zagospodarowania przestrzennego województwa;”,
+    - **b)** w ust. 3 uchyla się pkt 9;
+
+- **4)** w art. 17 w pkt 6 w lit. b:
+    - **a)** tiret ósme otrzymuje brzmienie: „– właściwym wojewódzkim konserwatorem zabytków w zakresie kształtowania zabudowy i zagospodarowania terenu,”,
+    - **b)** dodaje się tiret dziewiąte w brzmieniu: „– zarządem województwa w zakresie uwzględnienia wyników audytu krajobrazowego, o którym mowa w art. 38a, oraz”;
+
+- **5)** po art. 37 dodaje się art. 37a–37e w brzmieniu: „Art. 37a. 1. Rada gminy może ustalić w formie uchwały zasady i warunki sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabaryty, standardy jakościowe oraz rodzaje materiałów budowlanych, z jakich mogą być wykonane.
+
+2. W odniesieniu do szyldów w uchwale, o której mowa w ust. 1, określa się zasady i warunki ich sytuowania, gabaryty oraz liczbę szyldów, które mogą być umieszczone na danej nieruchomości przez podmiot prowadzący na niej działalność.
+
+3. W uchwale, o której mowa w ust. 1, rada gminy może ustalić zakaz sytuowania ogrodzeń oraz tablic reklamowych i urządzeń reklamowych, z wyłączeniem szyldów.
+
+4. Uchwała, o której mowa w ust. 1, jest aktem prawa miejscowego.
+
+5. Uchwała, o której mowa w ust. 1, dotyczy całego obszaru gminy, z wyłączeniem terenów zamkniętych ustalonych przez inne organy niż ministra właściwego do spraw transportu.
+
+6. Uchwała, o której mowa w ust. 1, może przewidywać różne regulacje dla różnych obszarów gminy określając w sposób jednoznaczny granice tych obszarów.
+
+7. W przypadku, o którym mowa w ust. 6, uchwała, o której mowa w ust. 1, może zawierać załącznik graficzny wraz z opisem, jednoznacznie określającym ich granice.
+
+8. Uchwała, o której mowa w ust. 1, w zakresie dotyczącym ogrodzeń, nie ma zastosowania do ogrodzeń autostrad i dróg ekspresowych oraz ogrodzeń linii kolejowych.
+
+9. Uchwała, o której mowa w ust. 1, określa warunki i termin dostosowania istniejących w dniu jej wejścia w życie obiektów małej architektury, ogrodzeń oraz tablic reklamowych i urządzeń reklamowych do zakazów, zasad i warunków w niej określonych, nie krótszy niż 12 miesięcy od dnia wejścia w życie uchwały.
+
+10. Uchwała, o której mowa w ust. 1, może:
+
+- **1)** wskazywać rodzaje obiektów małej architektury, które nie wymagają dostosowania do zakazów, zasad lub warunków określonych w uchwale;
+- **2)** wskazywać obszary oraz rodzaje ogrodzeń dla których następuje zwolnienie z obowiązku dostosowania ogrodzeń istniejących w dniu jej wejścia w życie do zakazów, zasad lub warunków określonych w uchwale.
+
 **Art. 37b.**
 
-1. Przed podjęciem uchwały, o której mowa art. 37a ust. 1, rada gminy podejmuje uchwałę o przygotowaniu przez wójta (burmistrza, prezydenta miasta) projektu uchwały, o której mowa art. 37a ust. 1.
+1. Przed podjęciem uchwały, o której mowa w art. 37a ust. 1, rada gminy podejmuje uchwałę o przygotowaniu przez wójta (burmistrza, prezydenta miasta) projektu uchwały, o której mowa w art. 37a ust. 1.
 
 2. Wójt (burmistrz, prezydent miasta) niezwłocznie:
 
-- **1)** podaje do publicznej wiadomości informację o podjęciu przez radę gminy uchwały, o której mowa ust. 1;
-- **2)** sporządza projekt uchwały, o której mowa art. 37a ust. 1;
-- **3)** zasięga opinii regionalnego dyrektora ochrony środowiska o projekcie uchwały, o której mowa art. 37a ust. 1;
-- **4)** uzgadnia projekt uchwały, o której mowa art. 37a ust. 1, z wojewódzkim konserwatorem zabytków zakresie kształtowania zabudowy i zagospodarowania terenu;
-- **5)** uzgadnia projekt uchwały, o której mowa art. 37a ust. 1, z ministrem właściwym do spraw zdrowia zakresie zagospodarowania obszarów ochrony uzdrowiskowej;
-- **6)** zasięga opinii właściwego organu Państwowej Straży Pożarnej o projekcie uchwały, o której mowa art. 37a ust. 1;
-- **7)** zasięga opinii marszałka województwa o projekcie uchwały, o której mowa art. 37a ust. 1;
-- **8)** ogłasza prasie lokalnej oraz przez obwieszczenie, a także sposób zwyczajowo przyjęty na danym terenie o wyłożeniu projektu uchwały, o której mowa art. 37a ust. 1, do publicznego wglądu na co najmniej 7 dni przed terminem wyłożenia i wykłada ten projekt do publicznego wglądu uwagi przez podmioty, o których mowa ust. 2, i sporządza listę nieuwzględnionych uwag.
+- **1)** podaje do publicznej wiadomości informację o podjęciu przez radę gminy uchwały, o której mowa w ust. 1;
+- **2)** sporządza projekt uchwały, o której mowa w art. 37a ust. 1;
+- **3)** zasięga opinii regionalnego dyrektora ochrony środowiska o projekcie uchwały, o której mowa w art. 37a ust. 1;
+- **4)** uzgadnia projekt uchwały, o której mowa w art. 37a ust. 1, z wojewódzkim konserwatorem zabytków w zakresie kształtowania zabudowy i zagospodarowania terenu;
+- **5)** uzgadnia projekt uchwały, o której mowa w art. 37a ust. 1, z ministrem właściwym do spraw zdrowia w zakresie zagospodarowania obszarów ochrony uzdrowiskowej;
+- **6)** zasięga opinii właściwego organu Państwowej Straży Pożarnej o projekcie uchwały, o której mowa w art. 37a ust. 1;
+- **7)** zasięga opinii marszałka województwa o projekcie uchwały, o której mowa w art. 37a ust. 1;
+- **8)** ogłasza w prasie lokalnej oraz przez obwieszczenie, a także w sposób zwyczajowo przyjęty na danym terenie o wyłożeniu projektu uchwały, o której mowa w art. 37a ust. 1, do publicznego wglądu na co najmniej 7 dni przed terminem wyłożenia i wykłada ten projekt do publicznego wglądu na okres co najmniej 21 dni; w czasie wyłożenia i przez okres 14 dni po zakończeniu okresu wyłożenia zbiera uwagi do tego projektu.
 
-4. Brak zajęcia stanowiska terminie miesiąca od dnia otrzymania projektu uchwały, o której mowa art. 37a ust. 1, przez organy wymienione ust. 2 pkt 4 i 5 uznaje się za uzgodnienie projektu uchwały przedłożonym brzmieniu.
+3. Wójt (burmistrz, prezydent miasta) niezwłocznie rozpatruje zgłoszone uwagi przez podmioty, o których mowa w ust. 2, i sporządza listę nieuwzględnionych uwag.
 
-5. W przypadku niewyrażenia opinii terminie miesiąca od dnia otrzymania projektu uchwały, o której mowa art. 37a ust. 1, przez organy wymienione ust. 2 pkt 3, 6 i 7 wymóg zasięgnięcia opinii uznaje się za spełniony.
+4. Brak zajęcia stanowiska w terminie miesiąca od dnia otrzymania projektu uchwały, o której mowa w art. 37a ust. 1, przez organy wymienione w ust. 2 pkt 4 i 5 uznaje się za uzgodnienie projektu uchwały w przedłożonym brzmieniu.
 
-6. Rada gminy uchwalając uchwałę, o której mowa art. 37a ust. 1, rozstrzyga jednocześnie o sposobie rozpatrzenia uwag nieuwzględnionych przez wójta (burmistrza, prezydenta miasta).
+5. W przypadku niewyrażenia opinii w terminie miesiąca od dnia otrzymania projektu uchwały, o której mowa w art. 37a ust. 1, przez organy wymienione w ust. 2 pkt 3, 6 i 7 wymóg zasięgnięcia opinii uznaje się za spełniony.
+
+6. Rada gminy uchwalając uchwałę, o której mowa w art. 37a ust. 1, rozstrzyga jednocześnie o sposobie rozpatrzenia uwag nieuwzględnionych przez wójta (burmistrza, prezydenta miasta).
 
 **Art. 37c.** Przepisów dotyczących reklam nie stosuje się do upowszechniania informacji wyłącznie:
 
+- **1)** trwale upamiętniającej osoby, instytucje lub wydarzenia;
+- **2)** o charakterze religijnym, związanym z działalnością kościołów lub innych związków wyznaniowych, jeżeli tablica reklamowa lub urządzenie reklamowe sytuowane są w granicach terenów użytkowanych jako miejsca kultu i działalności religijnej oraz cmentarzy.
+
 **Art. 37d.**
 
-1. Podmiot, który umieścił tablicę reklamową lub urządzenie reklamowe niezgodne z przepisami uchwały, o której mowa art. 37a ust. 1, podlega karze pieniężnej.
+1. Podmiot, który umieścił tablicę reklamową lub urządzenie reklamowe niezgodne z przepisami uchwały, o której mowa w art. 37a ust. 1, podlega karze pieniężnej.
 
-2. Jeżeli nie jest możliwe ustalenie podmiotu, o którym mowa ust. 1, karę pieniężną wymierza się odpowiednio właścicielowi, użytkownikowi wieczystemu lub posiadaczowi samoistnemu nieruchomości lub obiektu budowlanego, na których umieszczono tablicę reklamową lub urządzenie reklamowe.
+2. Jeżeli nie jest możliwe ustalenie podmiotu, o którym mowa w ust. 1, karę pieniężną wymierza się odpowiednio właścicielowi, użytkownikowi wieczystemu lub posiadaczowi samoistnemu nieruchomości lub obiektu budowlanego, na których umieszczono tablicę reklamową lub urządzenie reklamowe.
 
-3. Karę pieniężną wymierza, drodze decyzji, wójt (burmistrz, prezydent miasta). usunięcia tablicy lub urządzenia.
+3. Karę pieniężną wymierza, w drodze decyzji, wójt (burmistrz, prezydent miasta).
 
-5. W przypadku, gdy dniu wydania decyzji, o której mowa ust. 3, tablica reklamowa lub urządzenie reklamowe nie są zgodne z przepisami, o których mowa ust. 1, decyzji tej określa się:
+4. Karę pieniężną wymierza się od dnia, w którym organ wszczął postępowanie w sprawie, do dnia dostosowania tablicy reklamowej lub urządzenia reklamowego do przepisów, o których mowa w ust. 1, albo usunięcia tablicy lub urządzenia.
 
-- **1)** wysokość kary pieniężnej za okres od dnia wszczęcia postępowania sprawie do dnia wydania decyzji, oraz
-- **2)** obowiązek dostosowania tablicy reklamowej lub urządzenia reklamowego do przepisów, o których mowa ust. 1, albo usunięcia tablicy lub urządzenia.
+5. W przypadku, gdy w dniu wydania decyzji, o której mowa w ust. 3, tablica reklamowa lub urządzenie reklamowe nie są zgodne z przepisami, o których mowa w ust. 1, w decyzji tej określa się:
 
-6. Decyzja, o której mowa ust. 5, podlega natychmiastowemu wykonaniu części dotyczącej obowiązku, o którym mowa ust. 5 pkt 2.
+- **1)** wysokość kary pieniężnej za okres od dnia wszczęcia postępowania w sprawie do dnia wydania decyzji, oraz
+- **2)** obowiązek dostosowania tablicy reklamowej lub urządzenia reklamowego do przepisów, o których mowa w ust. 1, albo usunięcia tablicy lub urządzenia.
 
-7. Po wykonaniu obowiązku, o którym mowa ust. 5 pkt 2, organ określa, drodze decyzji, wysokość kary pieniężnej za okres od dnia wydania decyzji, o której mowa ust. 5, odpowiednio do dnia dostosowania tablicy reklamowej lub urządzenia reklamowego do przepisów, o których mowa ust. 1, albo usunięcia tablicy lub urządzenia.
+6. Decyzja, o której mowa w ust. 5, podlega natychmiastowemu wykonaniu w części dotyczącej obowiązku, o którym mowa w ust. 5 pkt 2.
 
-8. Wysokość kary pieniężnej ustala się jako iloczyn pola powierzchni tablicy reklamowej lub urządzenia reklamowego służącej ekspozycji reklamy, wyrażonej metrach kwadratowych oraz 40-krotności uchwalonej przez radę gminy stawki części zmiennej opłaty reklamowej, o której mowa art. 17a ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2014 r. poz. 849, z późn. zm. ), powiększony o 40-krotność uchwalonej przez radę gminy stawki części stałej tej opłaty, za każdy dzień niezgodności tablicy reklamowej lub urządzenia reklamowego z przepisami, o których mowa ust.
+7. Po wykonaniu obowiązku, o którym mowa w ust. 5 pkt 2, organ określa, w drodze decyzji, wysokość kary pieniężnej za okres od dnia wydania decyzji, o której mowa w ust. 5, odpowiednio do dnia dostosowania tablicy reklamowej lub urządzenia reklamowego do przepisów, o których mowa w ust. 1, albo usunięcia tablicy lub urządzenia.
+
+8. Wysokość kary pieniężnej ustala się jako iloczyn pola powierzchni tablicy reklamowej lub urządzenia reklamowego służącej ekspozycji reklamy, wyrażonej w metrach kwadratowych oraz 40-krotności uchwalonej przez radę gminy stawki części zmiennej opłaty reklamowej, o której mowa w art. 17a ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2014 r. poz. 849, z późn. zm. ), powiększony o 40-krotność uchwalonej przez radę gminy stawki części stałej tej opłaty, za każdy dzień niezgodności tablicy reklamowej lub urządzenia reklamowego z przepisami, o których mowa w ust.
 
 1.
 
-9. Jeżeli rada gminy nie określiła wysokości stawek opłaty reklamowej, o których mowa ust. 1, wysokość kary pieniężnej ustala się jako iloczyn pola powierzchni tablicy reklamowej lub urządzenia reklamowego służącej lokalnych, powiększony o 40-krotność maksymalnej stawki części stałej opłaty reklamowej, o której mowa art. 19 pkt 1 lit. g tej ustawy, za każdy dzień niezgodności tablicy reklamowej lub urządzenia reklamowego z przepisami, o których mowa ust. 1.
+9. Jeżeli rada gminy nie określiła wysokości stawek opłaty reklamowej, o których mowa w ust. 1, wysokość kary pieniężnej ustala się jako iloczyn pola powierzchni tablicy reklamowej lub urządzenia reklamowego służącej ekspozycji reklamy, wyrażonej w metrach kwadratowych oraz 40-krotności maksymalnej stawki części zmiennej opłaty reklamowej, o której mowa w art. 19 pkt 1 lit. h ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych, powiększony o 40-krotność maksymalnej stawki części stałej opłaty reklamowej, o której mowa w art. 19 pkt 1 lit. g tej ustawy, za każdy dzień niezgodności tablicy reklamowej lub urządzenia reklamowego z przepisami, o których mowa w ust. 1.
 
-10. Jeśli kształt urządzenia reklamowego uniemożliwia wyznaczenie pola powierzchni służącej ekspozycji reklamy, o którym mowa ust. 8 lub 9, wysokość kary pieniężnej zależy od pola powierzchni bocznej prostopadłościanu opisanego na urządzeniu reklamowym.
+10. Jeśli kształt urządzenia reklamowego uniemożliwia wyznaczenie pola powierzchni służącej ekspozycji reklamy, o którym mowa w ust. 8 lub 9, wysokość kary pieniężnej zależy od pola powierzchni bocznej prostopadłościanu opisanego na urządzeniu reklamowym.
 
 11. Kara pieniężna stanowi dochód gminy.
 
-**Art. 37e.** W sprawach nieuregulowanych, dotyczących kar pieniężnych, o których mowa art. 37d, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613 i
+**Art. 37e.** W sprawach nieuregulowanych, dotyczących kar pieniężnych, o których mowa w art. 37d, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613 i
+
+- **699)** , z tym że uprawnienia organów podatkowych przysługują wójtowi (burmistrzowi, prezydentowi miasta).”;
+- **6)** art. 38 otrzymuje brzmienie: „Art. 38. Organy samorządu województwa sporządzają plan zagospodarowania przestrzennego województwa, prowadzą analizy i studia oraz opracowują koncepcje i programy, odnoszące się do obszarów i problemów zagospodarowania przestrzennego odpowiednio do potrzeb i celów podejmowanych w tym zakresie prac, a także sporządzają audyt krajobrazowy.”;
+- **7)** po art. 38 dodaje się art. 38a i art. 38b w brzmieniu: „Art. 38a. 1. Dla obszaru województwa sporządza się, nie rzadziej niż raz na 20 lat, audyt krajobrazowy.
+
+2. Audyt krajobrazowy identyfikuje krajobrazy występujące na całym obszarze województwa, określa ich cechy charakterystyczne oraz dokonuje oceny ich wartości.
+
+3. Audyt krajobrazowy, w szczególności:
+
+- **1)** określa:
+    - **a)** krajobrazy występujące na obszarze danego województwa,
+    - **b)** lokalizację krajobrazów priorytetowych;
+
+- **2)** wskazuje lokalizację i granice:
+    - **a)** parków kulturowych,
+    - **b)** parków narodowych, rezerwatów przyrody, parków krajobrazowych, obszarów chronionego krajobrazu,
+    - **c)** obiektów znajdujących się na listach Światowego Dziedzictwa UNESCO, obszarów Sieci Rezerwatów Biosfery UNESCO (MaB) lub obszarów i obiektów proponowanych do umieszczenia na tych listach;
+
+- **3)** wskazuje: U. z 2013 r. poz. 627, z późn. zm. ),
+    - **a)** zagrożenia dla możliwości zachowania wartości krajobrazów, o których mowa w pkt 1 lit. b, oraz wartości krajobrazów w obrębie obszarów lub obiektów, o których mowa w pkt 2,
+    - **b)** rekomendacje i wnioski dotyczące kształtowania i ochrony krajobrazów, o których mowa w pkt 1 lit. b, oraz krajobrazów w obrębie obszarów lub obiektów, o których mowa w pkt 2, w szczególności poprzez wskazanie obszarów, które powinny zostać objęte formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 3, 4 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz.
+    - **c)** lokalne formy architektoniczne zabudowy w obrębie krajobrazów, o których mowa w pkt 1 lit. b.
+
+4. Rekomendacje i wnioski, o których mowa w ust. 3 pkt 3 lit. b, nie mogą być sprzeczne z celami i sposobami ochrony obszarów i obiektów, o których mowa w ust. 3 pkt 2, określonymi na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody lub ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami.
+
+5. Audyt krajobrazowy może wskazywać te obszary objęte formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 3, 4 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, które ze względu na znaczący spadek wartości krajobrazu wymagają pogłębionej analizy zasadności ich dalszej ochrony.
+
+6. Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** stosowaną przy sporządzaniu audytów krajobrazowych klasyfikację krajobrazów opracowaną w oparciu w szczególności o takie kryteria jak charakter dominujących w krajobrazie czynników, rzeźba terenu i pokrycie terenu,
+- **2)** sposób oceny zidentyfikowanych krajobrazów oraz wskazywania krajobrazów priorytetowych,
+- **3)** sposób uwzględnienia w audycie krajobrazowym obiektów, w tym krajobrazów, wpisanych na listę Światowego Dziedzictwa UNESCO, obszarów Sieci Rezerwatów Biosfery UNESCO (MaB), parków narodowych, rezerwatów i innych form ochrony przyrody wskazanych w art. 6 ust. 1 pkt 1–9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, obiektów wskazanych w art. 6 ust. 1 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami,
+- **4)** szczegółowy zakres i metodologię audytu krajobrazowego – mając na względzie zapewnienie właściwej ochrony krajobrazów i możliwości ich kształtowania oraz konieczność zachowania krajobrazów będących źródłem tożsamości narodu polskiego, a także mając na uwadze, by krajobraz był oceniany w szczególności z punktu widzenia przyrodniczego i kulturowego znaczenia danego krajobrazu, częstości występowania na obszarze kraju oraz stanu zachowania.
 
 **Art. 38b.**
 
@@ -115,47 +289,216 @@ source: "isap-pdf"
 
 2. Zarząd województwa przed przedłożeniem projektu audytu krajobrazowego do uchwalenia przez sejmik województwa:
 
-- **1)** informuje drodze obwieszczenia o przystąpieniu do sporządzania projektu audytu krajobrazowego;
+- **1)** informuje w drodze obwieszczenia o przystąpieniu do sporządzania projektu audytu krajobrazowego;
 - **2)** zasięga opinii o projekcie od:
     - **a)** regionalnego dyrektora ochrony środowiska,
-    - **b)** dyrektorów parków narodowych i krajobrazowych położonych granicach województwa, otrzymania projektu audytu krajobrazowego uznaje się za wyrażenie pozytywnej opinii o projekcie przedłożonym brzmieniu;
+    - **b)** dyrektorów parków narodowych i krajobrazowych położonych w granicach województwa,
+    - **c)** wojewódzkiego konserwatora zabytków,
+    - **d)** rad gmin położonych na terenie województwa – z zastrzeżeniem, że brak zajęcia stanowiska w terminie 30 dni od dnia otrzymania projektu audytu krajobrazowego uznaje się za wyrażenie pozytywnej opinii o projekcie w przedłożonym brzmieniu;
 
 - **3)** może wprowadzić zmiany wynikające z uzyskanych opinii;
-- **4)** ogłasza prasie regionalnej oraz przez obwieszczenia urzędzie marszałkowskim o wyłożeniu projektu do publicznego wglądu na co najmniej 7 dni przed dniem wyłożenia i wykłada ten projekt do publicznego wglądu na okres co najmniej 30 dni;
-- **5)** czasie wyłożenia i przez okres 14 dni po zakończeniu okresu wyłożenia zbiera uwagi do projektu;
+- **4)** ogłasza w prasie regionalnej oraz przez obwieszczenia w urzędzie marszałkowskim o wyłożeniu projektu do publicznego wglądu na co najmniej 7 dni przed dniem wyłożenia i wykłada ten projekt do publicznego wglądu na okres co najmniej 30 dni;
+- **5)** w czasie wyłożenia i przez okres 14 dni po zakończeniu okresu wyłożenia zbiera uwagi do projektu;
 - **6)** rozpatruje zgłoszone uwagi sporządzając listę nieuwzględnionych uwag.
 
-3. Na zgłoszone przed uchwaleniem audytu krajobrazowego żądanie gminy, której opinia nie została uwzględniona projekcie audytu krajobrazowego, sejmik województwa rozstrzyga formie uchwały o zasadności nieuwzględnienia opinii przez zarząd województwa; rozstrzygnięcie sejmiku województwa jest wiążące.
+3. Na zgłoszone przed uchwaleniem audytu krajobrazowego żądanie gminy, której opinia nie została uwzględniona w projekcie audytu krajobrazowego, sejmik województwa rozstrzyga w formie uchwały o zasadności nieuwzględnienia opinii przez zarząd województwa; rozstrzygnięcie sejmiku województwa jest wiążące.
 
 4. Audyt krajobrazowy uchwala sejmik województwa, rozstrzygając jednocześnie o sposobie rozpatrzenia uwag nieuwzględnionych przez zarząd województwa.
 
-5. Zmiana audytu krajobrazowego następuje takim trybie, jakim jest on uchwalany.”;
+5. Zmiana audytu krajobrazowego następuje w takim trybie, w jakim jest on uchwalany.”;
 
-- **8)** art. 39 ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „W planie zagospodarowania przestrzennego województwa uwzględnia się ustalenia strategii rozwoju województwa oraz rekomendacje i wnioski zawarte audycie krajobrazowym, oraz określa się szczególności:”.
+- **8)** w art. 39 w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „W planie zagospodarowania przestrzennego województwa uwzględnia się ustalenia strategii rozwoju województwa oraz rekomendacje i wnioski zawarte w audycie krajobrazowym, oraz określa się w szczególności:”.
 
 **Art. 8.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446 oraz z 2015 r. poz. 397) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 pkt 14 otrzymuje brzmienie: „14) krajobraz kulturowy – postrzegana przez ludzi przestrzeń, zawierająca elementy przyrodnicze i wytwory cywilizacji, historycznie ukształtowana w wyniku działania czynników naturalnych i działalności człowieka;”;
+- **2)** w art. 16 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Rada gminy ogłasza w prasie miejscowej oraz przez obwieszczenie, a także w sposób zwyczajowo przyjęty w danej miejscowości, o podjęciu prac nad utworzeniem parku kulturowego, określając formę, miejsce i termin składania wniosków dotyczących projektu uchwały o utworzeniu parku kulturowego, nie krótszy jednak niż 21 dni od dnia ogłoszenia.”;
+- **3)** w art. 17 w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) zasad i warunków sytuowania obiektów małej architektury;”;
+- **4)** w art. 19 po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. W uchwale określającej zasady i warunki sytuowania obiektów małej architektury, tablic i urządzeń reklamowych oraz ogrodzeń uwzględnia się w szczególności:
+- **1)** ochronę zabytków nieruchomych wpisanych do rejestru i ich otoczenia;
+- **2)** ochronę zabytków nieruchomych, innych niż wymienione w pkt 1, znajdujących się w gminnej ewidencji zabytków;
+- **3)** wnioski i rekomendacje audytów krajobrazowych oraz plany ochrony parków krajobrazowych.”;
+- **5)** w art. 36 w ust. 1 pkt 10 otrzymuje brzmienie: „10) umieszczanie na zabytku wpisanym do rejestru: urządzeń technicznych, tablic reklamowych lub urządzeń reklamowych w rozumieniu art. 2 pkt 16b i 16c ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, 443 i 774) oraz napisów, z zastrzeżeniem art. 12 ust. 1;”;
+- **6)** art. 118 otrzymuje brzmienie: „Art. 118. 1. Kto bez pozwolenia umieszcza na zabytku wpisanym do rejestru: urządzenie techniczne, tablicę reklamową lub urządzenie reklamowe w rozumieniu art. 2 pkt 16b i 16c ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, lub napis, podlega karze ograniczenia wolności albo grzywny.
+
+2. Podżeganie i pomocnictwo są karalne.
+
+3. W razie popełnienia wykroczenia można orzec przepadek przedmiotów służących lub przeznaczonych do popełnienia wykroczenia, choćby nie stanowiły własności sprawcy, lub obowiązek przywrócenia do stanu poprzedniego.”.
+
 **Art. 9.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 5: U. z 2015 r. poz. 199, 443 i 774);
+    - **a)** po pkt 2d dodaje się pkt 2e i 2f w brzmieniu: „2e) krajobraz – krajobraz w rozumieniu art. 2 pkt 16e ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz.
+
+- **2f)** krajobraz kulturowy – krajobraz kulturowy w rozumieniu art. 3 pkt 14 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446 oraz z 2015 r. poz. 397 i
+- **774)** ;”,
+    - **b)** po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) oś widokowa – wyobrażalna prosta kierująca wzrok na charakterystyczne elementy zagospodarowania terenu lub terenów;”,
+    - **c)** po pkt 15a dodaje się pkt 15b i 15c w brzmieniu: „15b) przedpole ekspozycji – rozległe poziome płaszczyzny, w szczególności zbiorniki wodne, zbocza lub płaskie dna dolin, umożliwiające ekspozycję panoram;
+
+- **15c)** punkt widokowy – miejsce lub punkt topograficznie wyniesiony w terenie, z którego układ wizualny obszaru widzenia dla obserwatora jest szeroki i daleki;”,
+    - **d)** po pkt 16 dodaje się pkt 16a w brzmieniu: „16a) rzeka – każdy ciek naturalny w rozumieniu art. 9 ust. 1 pkt 1c ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2015 r. poz. 469);”,
+    - **e)** pkt 23 otrzymuje brzmienie: „23) walory krajobrazowe – wartości przyrodnicze, kulturowe, historyczne, estetyczno-widokowe obszaru oraz związane z nimi rzeźbę terenu, twory i składniki przyrody oraz elementy cywilizacyjne, ukształtowane przez siły przyrody lub działalność człowieka;”,
+    - **f)** po pkt 23 dodaje się pkt 23a w brzmieniu: „23a) krajobraz priorytetowy – krajobraz priorytetowy w rozumieniu art. 2 pkt 16f ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;”;
+
+- **2)** w art. 16: 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm. ), z zastrzeżeniem że brak przedstawienia stanowiska w terminie miesiąca od dnia otrzymania projektu uchwały, jest uważane za uzgodnienie projektu.
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Utworzenie parku krajobrazowego lub powiększenie jego obszaru następuje w drodze uchwały sejmiku województwa, która określa jego nazwę, obszar, przebieg granicy i otulinę, jeżeli została wyznaczona, szczególne cele ochrony oraz zakazy właściwe dla danego parku krajobrazowego lub jego części, wybrane spośród zakazów, o których mowa w art. 17 ust. 1, wynikające z potrzeb jego ochrony. Likwidacja lub zmniejszenie obszaru parku krajobrazowego następuje w drodze uchwały sejmiku województwa wyłącznie z powodu bezpowrotnej utraty wartości przyrodniczych, historycznych i kulturowych oraz walorów krajobrazowych na obszarach projektowanych do wyłączenia spod ochrony.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Utworzenie parku krajobrazowego położonego na terenie więcej niż jednego województwa następuje w drodze podjęcia jednobrzmiącej uchwały właściwych sejmików województw.”,
+    - **c)** po ust. 4 dodaje się ust. 4a–4e w brzmieniu: „4a. Uzgodnień, o których mowa w ust. 4, dokonuje się w trybie art.
+
+4b. Rada gminy może odmówić uzgodnienia projektu uchwały, o której mowa w ust. 3, wyłącznie w przypadku, gdy przyjęcie tej uchwały prowadziłoby do ograniczenia możliwości rozwojowych gminy wynikających z ustaleń studium uwarunkowań i kierunków zagospodarowania przestrzennego lub miejscowego planu zagospodarowania przestrzennego w stopniu nieproporcjonalnym do wartości jakie park krajobrazowy ma chronić.
+
+4c. Rada gminy nie może odmówić uzgodnienia projektu uchwały, o której mowa w ust. 3, w przypadku, gdy podjęcie tej uchwały jest konsekwencją rekomendacji dotyczącej utworzenia lub powiększenia obszaru parku krajobrazowego zawartej w audycie krajobrazowym, o którym mowa w art. 38a ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
+
+4d. Utworzenie parku krajobrazowego lub powiększenie jego obszaru może nastąpić również na wniosek rady gminy, na obszarze której park krajobrazowy miałby być utworzony lub powiększony.
+
+4e. Wniosek, o którym mowa w ust. 4d, rozpatrywany jest nie później niż w terminie 3 miesięcy od dnia otrzymania wniosku przez sejmik właściwego województwa.”,
+
+- **d)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Statut parku krajobrazowego położonego na terenie więcej niż jednego województwa nadaje w drodze uchwały sejmik województwa, na którego obszarze działania znajduje się większa część parku, w porozumieniu z pozostałymi sejmikami województw.”;
+- **3)** w art. 17:
+    - **a)** w ust. 1 pkt 7 otrzymuje brzmienie: „7) budowania nowych obiektów budowlanych w pasie szerokości 100 m od:
+    - **a)** linii brzegów rzek, jezior i innych naturalnych zbiorników wodnych,
+    - **b)** zasięgu lustra wody w sztucznych zbiornikach wodnych usytuowanych na wodach płynących przy normalnym poziomie piętrzenia określonym w pozwoleniu wodnoprawnym, o którym mowa w art. 122 ust. 1 pkt 1 ustawy z dnia 18 lipca 2001 r. – Prawo wodne – z wyjątkiem obiektów służących turystyce wodnej, gospodarce wodnej lub rybackiej;”,
+    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. W parku krajobrazowym, w strefach, o których mowa w art. 20 ust. 4 pkt 7, dla terenów:
+
+- **1)** objętych miejscowym planem zagospodarowania przestrzennego wprowadza się zakazy:
+    - **a)** lokalizowania nowych obiektów budowlanych,
+    - **b)** zalesiania;
+
+- **2)** nieobjętych miejscowym planem zagospodarowania przestrzennego wprowadza się zakazy:
+    - **a)** lokalizowania nowych obiektów budowlanych,
+    - **b)** lokalizowania nowych obiektów budowlanych odbiegających od lokalnej formy architektonicznej,
+    - **c)** lokalizowania nowych obiektów budowlanych o wysokości przekraczającej 2 kondygnacje lub 7 m,
+    - **d)** zalesiania.
+
+1b. W parku krajobrazowym zakazuje się niszczenia i uszkadzania obiektów o istotnym znaczeniu historycznym i kulturowym wskazanych w planie ochrony dla parku krajobrazowego.”,
+
+- **c)** w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Zakazy, o których mowa w ust. 1–1b, nie dotyczą:”, – pkt 1 otrzymuje brzmienie: „1) wykonywania zadań wynikających z planu ochrony, zadań ochronnych lub planu zadań ochronnych;”,
+- **d)** ust. 3 otrzymuje brzmienie: „3. Zakaz, o którym mowa w ust. 1 pkt 1, nie dotyczy realizacji przedsięwzięć mogących znacząco oddziaływać na środowisko, dla których sporządzenie raportu o oddziaływaniu na środowisko nie jest obowiązkowe i przeprowadzona procedura oceny oddziaływania na środowisko wykazała brak niekorzystnego wpływu na przyrodę i krajobraz parku krajobrazowego.”,
+- **e)** dodaje się ust. 5 w brzmieniu: „5. Uchwała, o której mowa w art. 16 ust. 3, może określać odległości mniejsze niż określone w ust. 1 pkt 7 i 8, w sposób prowadzący do zwiększenia swobody w zakresie zagospodarowania i użytkowania terenu.”;
+- **4)** w art. 19:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Projekt planu ochrony, o którym mowa w ust. 1 pkt 1 i 2, wymaga zaopiniowania przez właściwe miejscowo rady gmin.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Przepisy ust. 1a, 2, 6b–6e stosuje się odpowiednio w przypadku dokonywania zmiany planu ochrony.”,
+    - **c)** ust. 6b otrzymuje brzmienie: „6b. Projekt uchwały, o której mowa w ust. 6a, wymaga uzgodnienia z właściwym regionalnym dyrektorem ochrony środowiska i zaopiniowania przez właściwego wojewódzkiego konserwatora zabytków.”,
+    - **d)** po ust. 6b dodaje się ust. 6c–6e w brzmieniu: „6c. Projekt uchwały, o której mowa w ust. 6a, w części dotyczącej wprowadzenia zakazów, wymienionych w art. 17 ust. 1a, wymaga uzgodnienia z właściwą miejscowo radą gminy.
+
+6d. Uzgodnienia, o którym mowa w ust. 6c, dokonuje się w trybie art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z zastrzeżeniem że brak przedstawienia stanowiska w terminie miesiąca od dnia otrzymania projektu uchwały, jest uważane za uzgodnienie projektu.
+
+6e. Rada gminy może odmówić uzgodnienia projektu uchwały, o której mowa w ust. 6a, wyłącznie w przypadku, gdy wprowadzenie zakazów, wymienionych w art. 17 ust. 1a, prowadziłoby do ograniczenia możliwości rozwojowych gminy wynikających z ustaleń studium uwarunkowań i kierunków zagospodarowania przestrzennego lub miejscowego planu zagospodarowania przestrzennego w stopniu nieproporcjonalnym do wartości jakie park krajobrazowy ma chronić.”;
+
+- **5)** w art. 20:
+    - **a)** w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) wyników audytu krajobrazowego, o którym mowa w art. 38a ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.”,
+    - **b)** w ust. 4 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 i 8 w brzmieniu: „7) określenie granic stref ochrony krajobrazów stanowiących w szczególności przedpola ekspozycji, osie widokowe, punkty widokowe oraz obszary zabudowane wyróżniające się lokalną formą architektoniczną, wyznaczonych w obrębie krajobrazów priorytetowych, zidentyfikowanych w ramach audytu krajobrazowego, o którym mowa w art. 38a ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, istotnych dla zachowania walorów krajobrazowych parku krajobrazowego, wraz ze wskazaniem które z zakazów, wymienionych w art. w art. 17 ust. 1a, obowiązują w danej strefie;
+
+- **8)** wykaz obiektów o istotnym znaczeniu historycznym i kulturowym.”,
+    - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Plan ochrony dla parku krajobrazowego, w części dotyczącej:
+
+- **1)** określenia granic stref, o których mowa w art. 20 ust. 4 pkt 7,
+- **2)** wykazu obiektów o istotnym znaczeniu historycznym i kulturowym, o których mowa w art. 20 ust. 4 pkt 8,
+- **3)** wprowadzenia zakazów, o których mowa w art. 17 ust. 1a – jest aktem prawa miejscowego.”,
+    - **d)** dodaje się ust. 6 w brzmieniu: „6. Przepisu ust. 5 nie stosuje się względem planów ochrony dla parku narodowego, rezerwatu przyrody lub parku krajobrazowego pokrywających się w całości lub w części z obszarem Natura 2000, dla którego ustanowiono plan zadań ochronnych, o którym mowa w art. 28, albo plan ochrony, o którym mowa w art. 29, obejmujące obszar parku narodowego, rezerwatu przyrody lub parku krajobrazowego.”;
+
+- **6)** w art. 23:
+    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Wyznaczenie obszaru chronionego krajobrazu następuje w drodze uchwały sejmiku województwa, która określa jego nazwę, położenie, obszar, sprawującego nadzór, ustalenia dotyczące czynnej ochrony ekosystemów oraz zakazy właściwe dla danego obszaru chronionego krajobrazu lub jego części, wybrane spośród zakazów wymienionych w art. 24 ust. 1, wynikające z potrzeb jego ochrony. Likwidacja lub zmniejszenie obszaru chronionego krajobrazu następuje w drodze uchwały sejmiku województwa, wyłącznie z powodu bezpowrotnej utraty wyróżniającego się krajobrazu o zróżnicowanych ekosystemach i możliwości zaspokajania potrzeb związanych z turystyką i wypoczynkiem.
+
+3. Projekty uchwał sejmiku województwa, o których mowa w ust. 2, wymagają uzgodnienia z właściwą miejscowo radą gminy oraz właściwym regionalnym dyrektorem ochrony środowiska.”, 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z zastrzeżeniem że brak przedstawienia stanowiska w terminie miesiąca od dnia otrzymania projektu uchwały, jest uważane za uzgodnienie projektu.
+
+- **b)** po ust. 3 dodaje się ust. 3a–3e w brzmieniu: „3a. Uzgodnień, o których mowa w ust. 3, dokonuje się w trybie art.
+
+3b. Rada gminy może odmówić uzgodnienia projektu uchwały, o której mowa w ust. 2, wyłącznie w przypadku, gdy przyjęcie tej uchwały prowadziłoby do ograniczenia możliwości rozwojowych gminy wynikających z ustaleń studium uwarunkowań i kierunków zagospodarowania przestrzennego lub miejscowego planu zagospodarowania przestrzennego w stopniu nieproporcjonalnym do wartości jakie obszar chronionego krajobrazu ma chronić.
+
+3c. Rada gminy nie może odmówić uzgodnienia projektu uchwały, o której mowa w ust. 2, w przypadku, gdy podjęcie tej uchwały jest konsekwencją rekomendacji dotyczącej utworzenia lub powiększenia obszaru chronionego krajobrazu zawartej w audycie krajobrazowym, o którym mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
+
+3d. Utworzenie obszaru chronionego krajobrazu lub jego powiększenie może nastąpić również na wniosek rady gminy, na obszarze której obszar chronionego krajobrazu miałby być utworzony lub powiększony.
+
+3e. Wniosek, o którym mowa w ust. 3d, rozpatrywany jest nie później niż w terminie 3 miesięcy od dnia otrzymania wniosku przez sejmik właściwego województwa.”;
+
+- **7)** po art. 23 dodaje się art. 23a w brzmieniu: „Art. 23a. 1. Na obszarze chronionego krajobrazu sejmik województwa, w drodze uchwały stanowiącej akt prawa miejscowego:
+- **1)** wyznacza, w granicach krajobrazów priorytetowych zidentyfikowanych w ramach audytu krajobrazowego, o którym mowa w art. 38a ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, strefy ochrony krajobrazu stanowiące w szczególności przedpola ekspozycji, osie widokowe, punkty widokowe oraz obszary zabudowane wyróżniające się lokalną formą architektoniczną, istotne dla zachowania walorów krajobrazowych obszaru chronionego krajobrazu, wraz ze wskazaniem które z zakazów, wymienionych w art. 24 ust. 1a, obowiązują w danej strefie;
+- **2)** określa wykaz obiektów o istotnym znaczeniu historycznym i kulturowym.
+
+2. Projekt uchwały, o której mowa w ust. 1, opracowuje zarząd województwa.
+
+3. Zarząd województwa, sporządzając projekt uchwały, o której mowa w ust. 1, zapewnia możliwość udziału społeczeństwa, na zasadach i w trybie określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, w postępowaniu, którego przedmiotem jest sporządzenie projektu.
+
+4. Projekt uchwały, o której mowa w ust. 1, wymaga uzgodnienia z właściwym regionalnym dyrektorem ochrony środowiska i zaopiniowania przez właściwego wojewódzkiego konserwatora zabytków.
+
+5. Projekt uchwały, o której mowa w ust. 1, w części dotyczącej wprowadzenia zakazów, wymienionych w art. 24 ust. 1a, wymaga uzgodnienia z właściwą miejscowo radą gminy.
+
+6. Uzgodnienia, o którym mowa w ust. 5, dokonuje się w trybie art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z zastrzeżeniem że brak przedstawienia stanowiska w terminie miesiąca od dnia otrzymania projektu uchwały, jest uważane za uzgodnienie projektu.
+
+7. Rada gminy może odmówić uzgodnienia projektu uchwały, o której mowa w ust. 1, wyłącznie w przypadku, gdy wprowadzenie zakazów, wymienionych w art. 24 ust. 1a, prowadziłoby do ograniczenia możliwości rozwojowych gminy wynikających z ustaleń studium uwarunkowań i kierunków zagospodarowania przestrzennego lub miejscowego planu zagospodarowania przestrzennego w stopniu nieproporcjonalnym do wartości jakie obszar chronionego krajobrazu ma chronić.
+
+8. Zmiana uchwały, o której mowa w ust. 1, następuje w takim trybie, w jakim jest ona uchwalana.”;
+
+- **8)** w art. 24:
+    - **a)** w ust. 1 pkt 8 otrzymuje brzmienie: „8) budowania nowych obiektów budowlanych w pasie szerokości 100 m od:
+    - **a)** linii brzegów rzek, jezior i innych naturalnych zbiorników wodnych,
+    - **b)** zasięgu lustra wody w sztucznych zbiornikach wodnych usytuowanych na wodach płynących przy normalnym poziomie piętrzenia określonym w pozwoleniu wodnoprawnym, o którym mowa w art. 122 ust. 1 pkt 1 ustawy z dnia 18 lipca 2001 r. – Prawo wodne – z wyjątkiem urządzeń wodnych oraz obiektów służących prowadzeniu racjonalnej gospodarki rolnej, leśnej lub rybackiej;”,
+    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Na obszarze chronionego krajobrazu, dla terenów:
+
+- **1)** objętych miejscowym planem zagospodarowania przestrzennego i położonych w strefach, o których mowa w art. 23a ust. 1 pkt 1, wprowadza się zakazy:
+    - **a)** lokalizowania nowych obiektów budowlanych,
+    - **b)** zalesiania;
+
+- **2)** nieobjętych miejscowym planem zagospodarowania przestrzennego położonych w strefach, o których mowa w art. 23a ust. 1 pkt 1, wprowadza się zakazy:
+    - **a)** lokalizowania nowych obiektów budowlanych,
+    - **b)** lokalizowania nowych obiektów budowlanych odbiegających od lokalnej formy architektonicznej,
+    - **c)** lokalizowania nowych obiektów budowlanych o wysokości przekraczającej 2 kondygnacje lub 7 m,
+    - **d)** zalesiania.
+
+1b. Na obszarze chronionego krajobrazu zakazuje się niszczenia i uszkadzania obiektów o istotnym znaczeniu historycznym i kulturowym wskazanych w uchwale, o której mowa w art. 23a ust. 1.”,
+
+- **c)** w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Zakazy, o których mowa w ust. 1–1b, nie dotyczą:”, – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) wykonywania zadań wynikających z planu ochrony, zadań ochronnych lub planu zadań ochronnych;”,
+- **d)** ust. 3 otrzymuje brzmienie: „3. Zakaz, o którym mowa w ust. 1 pkt 2, nie dotyczy realizacji przedsięwzięć mogących znacząco oddziaływać na środowisko, dla których przeprowadzona ocena oddziaływania na środowisko wykazała brak negatywnego wpływu na ochronę przyrody i ochronę krajobrazu obszaru chronionego krajobrazu.”,
+- **e)** dodaje się ust. 4 w brzmieniu: „4. Uchwała, o której mowa w art. 23 ust. 2, może określać odległości mniejsze niż określone w ust. 1 pkt 8 i 9, w sposób prowadzący do zwiększenia swobody w zakresie zagospodarowania i użytkowania terenu.”;
+- **9)** po art. 24 dodaje się art. 24a w brzmieniu: „Art. 24a. 1. Właściciele obiektów budowlanych wzniesionych przed dniem wejścia w życie planu ochrony dla parku krajobrazowego oraz uchwały, o której mowa w art. 23a ust. 1, naruszających przepisy tych aktów nie są zobowiązani do ich dostosowania.
+
+2. Samorząd województwa, na wniosek właściciela obiektu budowlanego, wzniesionego przed dniem wejścia w życie aktów, o których mowa w ust. 1, rażąco naruszającego ich przepisy, może pokryć koszty dostosowania tego obiektu budowlanego do wymagań tych aktów.”;
+
+- **10)** w art. 44:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Podejmując uchwałę w sprawie ustanowienia zespołu przyrodniczo-krajobrazowego rada gminy uwzględnia istniejące na tym terenie obszary parków kulturowych.”,
+    - **b)** po ust. 3a dodaje się ust. 3b w brzmieniu: „3b. Uzgodnienia, o którym mowa w ust. 3a, dokonuje się w trybie art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z zastrzeżeniem że brak przedstawienia stanowiska w terminie miesiąca od dnia otrzymania projektu uchwały, jest uważane za uzgodnienie projektu.”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Zniesienie formy ochrony przyrody, o której mowa w ust. 1, następuje w razie utraty wartości przyrodniczych i krajobrazowych, ze względu na które ustanowiono formę ochrony przyrody, lub w razie konieczności realizacji inwestycji celu publicznego w przypadku braku rozwiązań alternatywnych lub zapewnienie bezpieczeństwa powszechnego.”,
+    - **d)** dodaje się ust. 5 brzmieniu: „5. Zniesienie zespołu przyrodniczo-krajobrazowego następuje również w przypadku ustanowienia parku kulturowego.”;
+
+- **11)** w art. 45 w ust. 2 pkt 2 otrzymuje brzmienie: „2) realizacji inwestycji celu publicznego w przypadku braku rozwiązań alternatywnych, po uzgodnieniu z organem ustanawiającym daną formę ochrony przyrody;”;
+- **12)** po art. 45 dodaje się art. 45a w brzmieniu: „Art. 45a. 1. Generalny Dyrektor Ochrony Środowiska koordynuje funkcjonowanie form ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 2–4 i 6–9.
+
+2. Koordynacja, o której mowa w ust. 1, polega w szczególności na prawie żądania informacji dotyczących funkcjonowania form ochrony przyrody wskazanych w ust. 1 i publikowaniu rekomendacji w tym zakresie.”.
+
+**Art. 10.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 62 w ust. 1 w pkt 1: a–ca,”;
+    - **a)** po lit. c dodaje się lit. ca w brzmieniu: „ca) krajobraz, w tym krajobraz kulturowy,”,
+    - **b)** lit. d otrzymuje brzmienie: „d) wzajemne oddziaływanie między elementami, o których mowa w lit.
+
+- **2)** w art. 66 w ust. 1:
+    - **a)** po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) opis krajobrazu, w którym dane przedsięwzięcie ma być zlokalizowane;”,
+    - **b)** w pkt 7: – po lit. d dodaje się lit. da w brzmieniu: „da) krajobraz,”, – lit. e otrzymuje brzmienie: „e) wzajemne oddziaływanie między elementami, o których mowa w lit. a–da,”.
+
+**Art. 11.** Podmiot, który umieścił tablicę reklamową lub urządzenie reklamowe w rozumieniu art. 2 pkt 16b lub 16c ustawy zmienianej w art. 7, niespełniające warunków, o których mowa w art. 42a ustawy zmienianej w art. 3, dostosuje je do tych warunków w terminie sześciu miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 12.**
 
-1. Miejscowe plany zagospodarowania przestrzennego obowiązujące dniu wejścia życie ustawy zachowują moc.
+1. Miejscowe plany zagospodarowania przestrzennego obowiązujące w dniu wejścia w życie ustawy zachowują moc.
 
-2. Regulacje miejscowych planów zagospodarowania przestrzennego obowiązujących dniu wejścia życie ustawy i przyjętych na podstawie art. 15 ust. 3 pkt 9 ustawy zmienianej art. 7, brzmieniu dotychczasowym, obowiązują do dnia wejścia życie uchwały, o której mowa art. 37a ust. 1 ustawy zmienianej art. 7, brzmieniu nadanym niniejszą ustawą.
+2. Regulacje miejscowych planów zagospodarowania przestrzennego obowiązujących w dniu wejścia w życie ustawy i przyjętych na podstawie art. 15 ust. 3 pkt 9 ustawy zmienianej w art. 7, w brzmieniu dotychczasowym, obowiązują do dnia wejścia w życie uchwały, o której mowa w art. 37a ust. 1 ustawy zmienianej w art. 7, w brzmieniu nadanym niniejszą ustawą.
 
-3. Do projektów miejscowych planów zagospodarowania przestrzennego, stosunku do których podjęto uchwałę o przystąpieniu do sporządzania lub zmiany planu, nieuchwalonych przez radę gminy do dnia wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+3. Do projektów miejscowych planów zagospodarowania przestrzennego, w stosunku do których podjęto uchwałę o przystąpieniu do sporządzania lub zmiany planu, nieuchwalonych przez radę gminy do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-4. Dotychczasowe przepisy wykonawcze wydane przez wojewodów lub sejmiki województw na podstawie art. 16 ust. 3 oraz art. 23 ust. 2 ustawy zmienianej art. 9 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 16 ust. 3 oraz art. 23 ust. 2 ustawy zmienianej art. 9 brzmieniu nadanym niniejszą ustawą.
+4. Dotychczasowe przepisy wykonawcze wydane przez wojewodów lub sejmiki województw na podstawie art. 16 ust. 3 oraz art. 23 ust. 2 ustawy zmienianej w art. 9 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 16 ust. 3 oraz art. 23 ust. 2 ustawy zmienianej w art. 9 w brzmieniu nadanym niniejszą ustawą.
 
-5. Plany ochrony parków krajobrazowych obowiązujące dniu wejścia życie ustawy zachowują moc do czasu wejścia życie planów ochrony wydanych na podstawie ustawy zmienianej art. 9 brzmieniu nadanym niniejszą ustawą.
+5. Plany ochrony parków krajobrazowych obowiązujące w dniu wejścia w życie ustawy zachowują moc do czasu wejścia w życie planów ochrony wydanych na podstawie ustawy zmienianej w art. 9 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 13.**
 
-1. Sejmiki poszczególnych województw uchwalą audyty krajobrazowe terminie 3 lat od dnia wejścia życie niniejszej ustawy.
+1. Sejmiki poszczególnych województw uchwalą audyty krajobrazowe w terminie 3 lat od dnia wejścia w życie niniejszej ustawy.
 
-2. W przypadku bezskutecznego upływu terminu, o którym mowa ust. 1, wojewoda wezwie sejmik województwa do uchwalenia audytu krajobrazowego wyznaczonym terminie. właściwy samorząd województwa.
+2. W przypadku bezskutecznego upływu terminu, o którym mowa w ust. 1, wojewoda wezwie sejmik województwa do uchwalenia audytu krajobrazowego w wyznaczonym terminie.
 
-**Art. 14.** Ustawa wchodzi życie po upływie trzech miesięcy od dnia ogłoszenia.
+3. Po bezskutecznym upływie terminu, o którym mowa w ust. 2, audyt krajobrazowy opracowuje i przyjmuje w drodze zarządzenia zastępczego wojewoda.
+
+4. Koszty sporządzenia audytu krajobrazowego przez wojewodę ponosi właściwy samorząd województwa.
+
+**Art. 14.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.
 

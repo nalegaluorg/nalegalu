@@ -8,7 +8,7 @@ pos: 239
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Karta Nauczyciela oraz o zmianie niektórych innych ustaw
@@ -27,7 +27,70 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000190239) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/239/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz.U. z 1997 r. Nr 56, poz. 357, z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1118 oraz z 2000 r. Nr 12, poz.
+**Art. 1.** 137, W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz.U. z 1997 r. Nr 56, poz. 357, z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1118 oraz z 2000 r. Nr 12, poz.
+
+- **136)** wprowadza się następujące zmiany:
+- **1)** art. 1 otrzymuje brzmienie: „Art. 1. 1. Ustawie podlegają nauczyciele, wychowawcy i inni pracownicy pedagogiczni zatrudnieni w:
+- **1)** publicznych przedszkolach, szkołach i placówkach oraz zakładach kształcenia i placówkach doskonalenia nauczycieli działających na podstawie ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz.U. z 1996 r. Nr 67, poz. 329 i Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126 oraz z 2000 r. Nr 12, poz. 136), z zastrzeżeniem ust. 2 pkt 2 lit. a),
+- **2)** zakładach poprawczych, schroniskach dla nieletnich oraz rodzinnych ośrodkach diagnostyczno-konsultacyjnych działających na podstawie ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz.U. Nr 35, poz. 228, z 1992 r. Nr 24, poz. 101, z 1995 r. Nr 89, poz. 443, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 83, poz. 931 oraz z 2000 r. Nr 12, poz. 136),
+- **3)** publicznych placówkach opiekuńczo-wychowawczych oraz ośrodkach adopcyjno-opiekuńczych działających na podstawie ustawy z dnia 29 listopada 1990 r. o pomocy społecznej (Dz.U. z 1998 r. Nr 64, poz. 414, Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 20, poz. 170, Nr 79, poz. 885 i Nr 90, poz. 1001 oraz z 2000 r. Nr 12, poz. 136 i Nr 19, poz. 238).
+
+2. Ustawie podlegają również, w zakresie określonym ustawą:
+
+- **1)** nauczyciele mianowani lub dyplomowani zatrudnieni na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w:
+    - **a)** urzędach organów administracji rządowej,
+    - **b)** kuratoriach oświaty,
+    - **c)** specjalistycznej jednostce nadzoru,
+    - **d)** Centralnej Komisji Egzaminacyjnej oraz okręgowych komisjach egzaminacyjnych,
+    - **e)** organach sprawujących nadzór pedagogiczny nad zakładami poprawczymi, schroniskami dla nieletnich oraz ośrodkami diagnostyczno-konsultacyjnymi,
+
+- **2)** nauczyciele zatrudnieni w:
+    - **a)** przedszkolach publicznych i szkołach publicznych prowadzonych przez osoby fizyczne oraz osoby prawne nie będące jednostkami samorządu terytorialnego,
+    - **b)** przedszkolach niepublicznych, placówkach niepublicznych oraz szkołach niepublicznych o uprawnieniach szkół publicznych,
+
+- **3)** nauczyciele urlopowani na podstawie przepisów ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz.U. Nr 55, poz. 234, z 1994 r. Nr 43, poz. 163, z 1996 r. Nr 1, poz. 2, Nr 24, poz. 110, Nr 61, poz. 283, Nr 75, poz. 355 i Nr 152, poz. 723, z 1997 r. Nr 82, poz. 518, Nr 88, poz. 554, Nr 96, poz. 589 i Nr 121, poz. 769 oraz z 1999 r. Nr 1, poz. 6),
+- **4)** pracownicy zatrudnieni u pracodawców nie wymienionych w ust. 1 i ust. 2 pkt 1-3, pełniący funkcję instruktorów praktycznej nauki zawodu oraz kierowników praktycznej nauki zawodu, posiadający kwalifikacje określone dla nauczycieli praktycznej nauki zawodu oraz wykonujący pracę dydaktyczną i wychowawczą w wymiarze przewidzianym dla tych nauczycieli,
+- **5)** pracownicy zatrudnieni w Ochotniczych Hufcach Pracy na stanowiskach wychowawców, pedagogów oraz na stanowiskach kierowniczych, posiadający kwalifikacje, o których mowa w art. 9 ust. 1 pkt 1, wykonujący pracę dydaktyczną i wychowawczą co najmniej w połowie obowiązującego ich czasu pracy.”;
+- **2)** w art. 2 w zdaniu wstępnym skreśla się wyrazy „art. 50 i”;
+- **3)** w art. 3:
+    - **a)** w pkt 2 wyrazy „inne placówki” zastępuje się wyrazami „placówki oraz inne jednostki organizacyjne”,
+    - **b)** pkt 3 otrzymuje brzmienie: „3) sta żu - rozumie się przez to okres zatrudnienia nauczyciela w przedszkolach, szkołach, placówkach i innych jednostkach organizacyjnych, o których mowa w art. 1 ust. 1 oraz ust 2 pkt 2, w wymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć, rozpoczętego i realizowanego w trybie i na zasadach określonych w przepisach rozdziału 3a,”,
+    - **c)** w pkt 5 wyrazy „z dnia 7 września 1991 r. o systemie oświaty (Dz.U. z 1996 r. Nr 67, poz. 329 i Nr 106, poz. 496 oraz z 1997 r. Nr 28, poz. 153)” zastępuje się wyrazami „ , o której mowa w art. 1 ust. 1 pkt 1”;
+
+- **4)** w art. 9 w ust. 2, w art. 47 w ust. 2, w art. 51 w ust. 2, w art. 72 w ust. 2, w art. 77 w ust. 2 oraz w art. 85 użyte w różnych przypadkach wyrazy „Minister Edukacji Narodowej”, „Minister Kultury i Sztuki”, „Minister Pracy i Polityki Społecznej”, „Minister Zdrowia i Opieki Społecznej” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw oświaty i wychowania”, „minister właściwy do spraw kultury i ochrony dziedzictwa narodowego”, „minister właściwy do spraw pracy”, „minister właściwy do spraw zdrowia”;
+- **5)** skreśla się art. 5;
+- **6)** art. 6 otrzymuje brzmienie: „Art. 6. Nauczyciel obowiązany jest rzetelnie realizować zadania związane z powierzonym mu stanowiskiem oraz podstawowymi funkcjami szkoły: dydaktyczną, wychowawczą i opiekuńczą; wspierać każdego ucznia w jego rozwoju oraz dążyć do pełni własnego rozwoju osobowego. Nauczyciel obowiązany jest kształcić i wychowywać młodzież w umiłowaniu Ojczyzny, w poszanowaniu Konstytucji Rzeczypospolitej Polskiej, w atmosferze wolności sumienia i szacunku dla każdego człowieka; dbać o kształtowanie u uczniów postaw moralnych i obywatelskich zgodnie z ideą demokracji, pokoju i przyjaźni między ludźmi różnych narodów, ras i światopoglądów.”;
+- **7)** w art. 6a:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Praca nauczyciela, z wyjątkiem pracy nauczyciela stażysty, podlega ocenie. Ocena pracy nauczyciela może być dokonana w każdym czasie, nie wcześniej jednak niż po upływie roku od dokonania oceny poprzedniej lub oceny dorobku zawodowego, o której mowa w art. 9c ust. 6, z inicjatywy dyrektora szkoły lub na wniosek:
+
+- **1)** nauczyciela,
+- **2)** organu sprawującego nadzór pedagogiczny,
+- **3)** organu prowadzącego szkołę,
+- **4)** rady szkoły,
+- **5)** rady rodziców.
+
+2. Dyrektor szkoły jest obowiązany dokonać oceny pracy nauczyciela w okresie nie dłuższym niż 3 miesiące od dnia złożenia wniosku, z zastrzeżeniem terminu określonego w ust. 1.”,
+
+- **b)** skreśla się ust. 3,
+- **c)** ust. 4-6 otrzymują brzmienie: „4. Ocena pracy nauczyciela ma charakter opisowy i jest zakończona stwierdzeniem uogólniającym:
+- **1)** ocena wyróżniająca,
+- **2)** ocena dobra,
+- **3)** ocena negatywna.
+
+5. Oceny pracy nauczyciela dokonuje dyrektor szkoły, który przy jej dokonywaniu może zasięgnąć opinii samorządu uczniowskiego.
+
+6. Oceny pracy nauczyciela, któremu powierzono stanowisko dyrektora szkoły, dokonuje:
+
+- **1)** organ prowadzący szkołę w porozumieniu z organem sprawującym nadzór pedagogiczny nad szkołą, jeżeli organ prowadzący szkołę nie sprawuje nadzoru pedagogicznego, albo
+- **2)** organ prowadzący szkołę, jeżeli równocześnie sprawuje nadzór pedagogiczny nad szkołą.”;
+    - **d)** w ust. 7 dodaje się zdanie drugie w brzmieniu: „Przy ocenie pracy dyrektora przepis ust. 2 stosuje się odpowiednio.”,
+    - **e)** skreśla się ust. 11;
+    - **f)** ust. 12 otrzymuje brzmienie: „12. Minister właściwy do spraw oświaty i wychowania, a w stosunku do nauczycieli szkół artystycznych, zakładów poprawczych, schronisk dla nieletnich, rodzinnych ośrodków diagnostycznokonsultacyjnych, placówek opiekuńczo-wychowawczych oraz ośrodków adopcyjno-opiekuńczych odpowiednio - minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, minister właściwy do spraw zabezpieczenia społecznego oraz Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, określą, w drodze rozporządzeń, kryteria i tryb dokonywania oceny pracy nauczyciela, tryb postępowania odwoławczego oraz skład i sposób powoływania zespołu oceniającego.”,
+    - **g)** po ust. 12 dodaje się ust. 13 w brzmieniu: „13. Praca nauczyciela zatrudnionego w przedszkolu, placówce lub szkole, o których mowa w art. 1 ust. 2 pkt 2, w tym nauczyciela, któremu powierzono stanowisko dyrektora przedszkola, placówki lub szkoły, podlega ocenie w każdym czasie na jego wniosek. W przypadku gdy dyrektorem przedszkola, placówki lub szkoły jest osoba nie posiadająca kwalifikacji pedagogicznych, oceny pracy nauczycieli dokonuje nauczyciel upoważniony przez organ prowadzący. Przepisy ust. 4-10 i 12 stosuje się odpowiednio.”;
+
+- **8)** w art. 7 skreśla się ust. 3;
+- **9)** w art. 9 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może określić, w drodze rozporządzenia, szkoły artystyczne i placówki kształcenia artystycznego, w których stanowiska nauczycieli mogą zajmować osoby mające ukończoną szkołę artystyczną II stopnia w zakresie kierunku odpowiadającego nauczanym przedmiotom, uwzględniając w szczególności rodzaje szkół i placówek kształcenia artystycznego, w których możliwe będzie zatrudnienie nauczycieli mających ukończoną szkołę artystyczną II stopnia.”;
+- **10)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Awans zawodowy nauczycieli
 
 **Art. 9a.**
 
@@ -35,6 +98,7 @@ source: "isap-pdf"
 
 - **1)** nauczyciel stażysta,
 - **2)** nauczyciel kontraktowy,
+- **3)** nauczyciel mianowany,
 - **4)** nauczyciel dyplomowany.
 
 2. Osoba nie posiadająca stopnia awansu zawodowego z dniem nawiązania stosunku pracy w szkole uzyskuje stopień nauczyciela stażysty, z zastrzeżeniem ust. 3.
@@ -60,7 +124,7 @@ source: "isap-pdf"
 - **3)** nauczycielowi mianowanemu stopień nauczyciela dyplomowanego - organ sprawujący nadzór pedagogiczny,
 - **4)** nauczycielom, o których mowa w art. 1 ust. 2 pkt 1 oraz art. 9e ust. 3, odpowiedni stopień - właściwy minister.
 
-5. Akt nadania stopnia awansu zawodowego zawiera w szczególności: nazwę komisji kwalifikacyjnej lub egzaminacyjnej, numer i datę wydania zaświadczenia o uzyskaniu akceptacji lub zdaniu egzaminu, stopień awansu zawodowego, a także wymienia kwalifikacje nauczyciela oraz typy i rodzaje szkół, w których nauczyciel może być zatrudniony. Akt nadania stopnia nauczyciela konuzyskany z mocy prawa nie zawiera odpowiednio nazwy komisji kwalifikacyjnej lub egzaminacyjnej ani numeru i daty wydania zaświadczenia o akceptacji lub zdaniu egzaminu.
+5. Akt nadania stopnia awansu zawodowego zawiera w szczególności: nazwę komisji kwalifikacyjnej lub egzaminacyjnej, numer i datę wydania zaświadczenia o uzyskaniu akceptacji lub zdaniu egzaminu, stopień awansu zawodowego, a także wymienia kwalifikacje nauczyciela oraz typy i rodzaje szkół, w których nauczyciel może być zatrudniony. Akt nadania stopnia nauczyciela kontraktowego uzyskany w sposób określony w art. 9a ust. 3 oraz uzyskany z mocy prawa nie zawiera odpowiednio nazwy komisji kwalifikacyjnej lub egzaminacyjnej ani numeru i daty wydania zaświadczenia o akceptacji lub zdaniu egzaminu.
 
 6. W przypadku niespełnienia przez nauczyciela warunków, o których mowa w ust. 1, dyrektor szkoły lub właściwy organ, o którym mowa w ust. 4 pkt 2-4, odmawia nauczycielowi, w drodze decyzji administracyjnej, nadania stopnia awansu zawodowego.
 
@@ -85,8 +149,9 @@ source: "isap-pdf"
 
 5. Zadaniem opiekuna stażu, o którym mowa w ust. 4, jest udzielanie nauczycielowi pomocy, w szczególności w przygotowaniu i realizacji w okresie stażu planu rozwoju zawodowego nauczyciela, oraz opracowanie projektu oceny dorobku zawodowego nauczyciela za okres stażu.
 
-6. Ocenę dorobku zawodowego nauczyciela za okres stażu ustala, z uwzględnieniem stopnia realizacji planu rozwoju zawodowego nauczyciela, dyrektor szkoły: wego - po zapoznaniu się z projektem oceny opracowanym przez opiekuna stażu i po zasięgnięciu opinii rady rodziców,
+6. Ocenę dorobku zawodowego nauczyciela za okres stażu ustala, z uwzględnieniem stopnia realizacji planu rozwoju zawodowego nauczyciela, dyrektor szkoły:
 
+- **1)** w przypadku nauczyciela stażysty i nauczyciela kontraktowego - po zapoznaniu się z projektem oceny opracowanym przez opiekuna stażu i po zasięgnięciu opinii rady rodziców,
 - **2)** w przypadku nauczyciela mianowanego - po zasięgnięciu opinii rady rodziców.
 
 7. Rada rodziców powinna przedstawić swoją opinię w terminie 14 dni od dnia otrzymania zawiadomienia o dokonywanej ocenie dorobku zawodowego nauczyciela. Nieprzedstawienie opinii rady rodziców nie wstrzymuje postępowania, o którym mowa w ust. 6.
@@ -107,7 +172,7 @@ source: "isap-pdf"
 
 3. Staż, o którym mowa w art. 9c ust. 1, przerywa się w przypadku nieobecności nauczyciela w szkole z powodu: czasowej niezdolności do pracy wskutek choroby, zwolnienia z obowiązku świadczenia pracy oraz urlopu innego niż urlop wypoczynkowy, trwającej łącznie dłużej niż 3 miesiące.
 
-4. Po ustaniu przyczyny przerwania stażu nauczyciel może złożyć wniosek o kontynuację stażu. W przypadku złożenia wniosku w okresu stażu zalicza się okres stażu odbytego przed przerwą, z wyłączeniem okresu nieobecności. W razie złożenia wniosku po upływie 6 miesięcy od dnia przerwania stażu, nauczyciel obowiązany jest odbyć staż ponownie w pełnym wymiarze.
+4. Po ustaniu przyczyny przerwania stażu nauczyciel może złożyć wniosek o kontynuację stażu. W przypadku złożenia wniosku w terminie 6 miesięcy od dnia przerwania stażu, do wymaganego okresu stażu zalicza się okres stażu odbytego przed przerwą, z wyłączeniem okresu nieobecności. W razie złożenia wniosku po upływie 6 miesięcy od dnia przerwania stażu, nauczyciel obowiązany jest odbyć staż ponownie w pełnym wymiarze.
 
 5. Nauczyciel kontraktowy i nauczyciel mianowany mogą przerwać staż z przyczyn nie wymienionych w ust. 3 na swój wniosek w każdym czasie. W przypadku ponownego rozpoczęcia stażu, odbywają staż w pełnym wymiarze.
 
@@ -125,7 +190,11 @@ source: "isap-pdf"
 
 2. Nauczycielowi kontraktowemu i nauczycielowi mianowanemu, którzy w okresie trwania stażu zmienili miejsce zatrudnienia, do stażu, o którym mowa w art. 9c ust. 1 pkt 2, zalicza się okres dotychczas odbytego stażu, jeżeli podjęli zatrudnienie w szkole nie później niż 3 miesiące po ustaniu poprzedniego stosunku pracy i za okres dotychczas odbytego stażu otrzymali pozytywną ocenę dorobku zawodowego.
 
-3. Ocenę, o której mowa w ust. 2, uwzględnia się przy dokonywaniu oceny dorobku zawodowego nauczyciela za okres całego stażu. na stopień nauczyciela kontraktowego powołuje dyrektor szkoły. W skład komisji wchodzą:
+3. Ocenę, o której mowa w ust. 2, uwzględnia się przy dokonywaniu oceny dorobku zawodowego nauczyciela za okres całego stażu.
+
+**Art. 9g.**
+
+1. Komisję kwalifikacyjną dla nauczycieli ubiegających się o awans na stopień nauczyciela kontraktowego powołuje dyrektor szkoły. W skład komisji wchodzą:
 
 - **1)** dyrektor (wicedyrektor), jako jej przewodniczący,
 - **2)** przewodniczący zespołu przedmiotowego (wychowawczego), a jeżeli zespół taki nie został w tej szkole powołany – nauczyciel mianowany lub dyplomowany zatrudniony w szkole, a w przypadku przedszkola, szkoły lub placówki, o których mowa w art. 1 ust. 2 pkt 2, w których nie są zatrudnieni nauczyciele mianowani lub dyplomowani – nauczyciel kontraktowy,
@@ -150,7 +219,7 @@ source: "isap-pdf"
 6. Komisję kwalifikacyjną dla nauczycieli mianowanych, o których mowa w art. 9e ust. 2, ubiegających się o awans na stopień nauczyciela dyplomowanego powołuje w przypadku nauczycieli zatrudnionych w:
 
 - **1)** urzędzie ministra właściwego do spraw oświaty i wychowania, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych - minister właściwy do spraw oświaty i wychowania,
-- **2)** urzędzie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego i w specjalistycznej jednostce naddzictwa narodowego,
+- **2)** urzędzie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego i w specjalistycznej jednostce nadzoru – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego,
 - **3)** organach sprawujących nadzór pedagogiczny nad zakładami poprawczymi, schroniskami dla nieletnich oraz ośrodkami diagnostyczno-konsultacyjnymi - Minister Sprawiedliwości,
 - **4)** urzędzie ministra właściwego do spraw zabezpieczenia społecznego i urzędach wojewódzkich - minister właściwy do spraw zabezpieczenia społecznego.
 
@@ -167,7 +236,7 @@ source: "isap-pdf"
 
 11. Listę ekspertów, o której mowa w ust. 2 pkt 3 i ust. 3 pkt 3, prowadzi minister właściwy do spraw oświaty i wychowania.
 
-12. Minister wła ściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wymagania, jakim powinni odpowiadać eksperci, o których mowa w ust. 2 pkt 3 i ust. 3 pkt 3, oraz warunki wpisywania ekspertów na listę ekspertów i skreślania ich z niej, z uwzględnieniem, iż ekspert powinien w szczególności mieć co najmniej wyższe wykształcenie ust. 5 pkt 1-4, a także uzyskać rekomendację instytucji lub stowarzyszenia działających w systemie oświaty i wychowania, szkolnictwa wyższego i nauki albo nauczycielskiego związku zawodowego.
+12. Minister wła ściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wymagania, jakim powinni odpowiadać eksperci, o których mowa w ust. 2 pkt 3 i ust. 3 pkt 3, oraz warunki wpisywania ekspertów na listę ekspertów i skreślania ich z niej, z uwzględnieniem, iż ekspert powinien w szczególności mieć co najmniej wyższe wykształcenie magisterskie oraz spełniać warunki, o których mowa w art. 10 ust. 5 pkt 1-4, a także uzyskać rekomendację instytucji lub stowarzyszenia działających w systemie oświaty i wychowania, szkolnictwa wyższego i nauki albo nauczycielskiego związku zawodowego.
 
 **Art. 9h.**
 
@@ -190,7 +259,7 @@ source: "isap-pdf"
 
 2. Z osobą posiadającą wymagane kwalifikacje, z zastrzeżeniem ust. 3, i rozpoczynającą pracę w szkole stosunek pracy nawiązuje się na podstawie umowy o pracę na czas określony na jeden rok szkolny w celu odbycia stażu wymaganego do uzyskania awansu na stopień nauczyciela kontraktowego. W przypadkach, o których mowa w art. 9c ust. 11 i art. 9g ust. 8, w razie ustalenia dodatkowego stażu, z nauczycielem stażystą nawiązuje się stosunek pracy na czas określony na kolejny jeden rok szkolny.
 
-3. W szczególnych przypadkach uzasadnionych potrzebami szkoły z osobą, o której mowa w ust. 2, legitymującą się wymaganym poziomem wykształcenia, lecz nie posiadającą przygotowania pedaosoba ta zobowiąże się do uzyskania przygotowania pedagogicznego w trakcie odbywania stażu. W przypadku gdy nauczyciel w ciągu pierwszego roku pracy w szkole nie uzyska przygotowania pedagogicznego z przyczyn od niego niezależnych, z nauczycielem może być zawarta umowa o pracę na kolejny jeden rok szkolny. Staż wymagany do ubiegania się o awans na stopień nauczyciela kontraktowego przedłuża się do czasu uzyskania przygotowania pedagogicznego.
+3. W szczególnych przypadkach uzasadnionych potrzebami szkoły z osobą, o której mowa w ust. 2, legitymującą się wymaganym poziomem wykształcenia, lecz nie posiadającą przygotowania pedagogicznego, dopuszczalne jest nawiązanie stosunku pracy, o ile osoba ta zobowiąże się do uzyskania przygotowania pedagogicznego w trakcie odbywania stażu. W przypadku gdy nauczyciel w ciągu pierwszego roku pracy w szkole nie uzyska przygotowania pedagogicznego z przyczyn od niego niezależnych, z nauczycielem może być zawarta umowa o pracę na kolejny jeden rok szkolny. Staż wymagany do ubiegania się o awans na stopień nauczyciela kontraktowego przedłuża się do czasu uzyskania przygotowania pedagogicznego.
 
 4. Stosunek pracy z nauczycielem kontraktowym nawiązuje się na podstawie umowy o pracę zawieranej na:
 
@@ -212,7 +281,7 @@ source: "isap-pdf"
 
 8. Nie można nawiązać stosunku pracy z nauczycielem, który nie spełnia warunków, o których mowa w ust. 5 pkt 2-5.”;
 
-- **12)** art. 11 otrzymuje brzmienie: „Art. 11. Dyrektor szkoły nawiązuje z nauczycielem stosunek pracy odpowiednio na podstawie umowy o pracę lub mianowania na stanowisku zgodnym z posiadanymi przez nauczyciela kwalifikacjami oraz wego.”;
+- **12)** art. 11 otrzymuje brzmienie: „Art. 11. Dyrektor szkoły nawiązuje z nauczycielem stosunek pracy odpowiednio na podstawie umowy o pracę lub mianowania na stanowisku zgodnym z posiadanymi przez nauczyciela kwalifikacjami oraz zgodnie z posiadanym przez nauczyciela stopniem awansu zawodowego.”;
 - **13)** w art. 12 w ust. 1, w art. 18 w ust. 1 i 4, w art. 19 w ust. 1, w art. 20 w ust. 2, w art. 22 w ust. 2, w art. 23 w ust. 1, 2 i 4, w art. 28 w ust. 1-3 oraz w art. 70 w ust. 1 użyte w różnych liczbach i przypadkach wyrazy „nauczyciel mianowany” zastępuje się użytymi w odpowiednich liczbach i przypadkach wyrazami „nauczyciel zatrudniony na podstawie mianowania”;
 - **14)** w art. 15:
     - **a)** wyrazy „Przy mianowaniu na stanowisko nauczyciela osoba mianowana składa ślubowanie przed dyrektorem szkoły” zastępuje się wyrazami „Przy nadawaniu stopnia nauczyciela mianowanego nauczyciel składa ślubowanie, potwierdzając je podpisem,”,
@@ -230,7 +299,8 @@ source: "isap-pdf"
     - **b)** skreśla się ust. 3,
     - **c)** w ust. 5 wyrazy „mianowanego nauczyciela religii” zastępuje się wyrazami „nauczyciela religii zatrudnionego na podstawie mianowania”;
 
-- **18)** w art. 20 ust. 1 otrzymuje brzmienie: „1. Dyrektor szkoły w razie: pracy,
+- **18)** w art. 20 ust. 1 otrzymuje brzmienie: „1. Dyrektor szkoły w razie:
+- **1)** całkowitej likwidacji szkoły rozwiązuje z nauczycielem stosunek pracy,
 - **2)** częściowej likwidacji szkoły albo w razie zmian organizacyjnych powodujących zmniejszenie liczby oddziałów w szkole lub zmian planu nauczania uniemożliwiających dalsze zatrudnianie nauczyciela w pełnym wymiarze zajęć rozwiązuje z nim stosunek pracy lub, na wniosek nauczyciela, przenosi go w stan nieczynny. Nauczyciel zatrudniony na podstawie mianowania może wyrazić zgodę na ograniczenie zatrudnienia w trybie określonym w art. 22 ust. 2.”;
 - **19)** w art. 22:
     - **a)** w ust. 1 po wyrazie „szkole” dodaje się wyrazy „lub szkołach” oraz skreśla się wyrazy „w tej samej miejscowości”,
@@ -242,7 +312,7 @@ source: "isap-pdf"
     - **a)** w ust. 1: - w pkt 2 po wyrazach „jeżeli okres tej niezdolności przekracza rok” dodaje się przecinek oraz wyrazy „przy czym do okresu niezdolności do pracy wlicza się również przypadające w tym okresie przerwy obejmujące dni, w których w szkole, zgodnie z odrębnymi przepisami, nie odbywają się zajęcia”, - pkt 3 otrzymuje brzmienie: „3) w razie orzeczenia przez lekarza przeprowadzającego badanie okresowe lub kontrolne o niezdolności nauczyciela do wykonywania dotychczasowej pracy,”,
     - **b)** w ust. 2 pkt 3 otrzymuje brzmienie: „3) z końcem miesiąca, w którym dyrektor szkoły otrzymał ostateczne orzeczenie lekarskie o niezdolności nauczyciela do wykonywania dotychczasowej pracy,”,
     - **c)** w ust. 4 pkt 2 otrzymuje brzmienie: „2) w razie nieusprawiedliwionego niezgłoszenia się nauczyciela na badanie okresowe lub kontrolne, z końcem miesiąca, w którym dyrektor otrzymał o tym informację, z zastrzeżeniem ust. 5.”,
-    - **d)** ust. 5 otrzymuje brzmienie: okresowe lub kontrolne z własnej inicjatywy w każdym czasie. W przypadku dwukrotnego nieusprawiedliwionego niezgłoszenia się nauczyciela na badanie ust. 4 pkt 2 stosuje się odpowiednio.”;
+    - **d)** ust. 5 otrzymuje brzmienie: „5. Dyrektor szkoły może skierować nauczyciela mianowanego na badanie okresowe lub kontrolne z własnej inicjatywy w każdym czasie. W przypadku dwukrotnego nieusprawiedliwionego niezgłoszenia się nauczyciela na badanie ust. 4 pkt 2 stosuje się odpowiednio.”;
 
 - **21)** art. 26 otrzymuje brzmienie: „Art. 26. 1. Stosunek pracy nauczyciela wygasa z mocy prawa odpowiednio w razie:
 - **1)** prawomocnego ukarania w postępowaniu dyscyplinarnym karą dyscyplinarną zwolnienia z pracy oraz karą dyscyplinarną zwolnienia z pracy z zakazem przyjmowania ukaranego do pracy w zawodzie nauczycielskim w okresie trzech lat od ukarania lub karą wydalenia z zawodu nauczycielskiego,
@@ -259,7 +329,9 @@ source: "isap-pdf"
 - **1)** wynagrodzenia zasadniczego,
 - **2)** dodatków: za wysługę lat, motywacyjnego, funkcyjnego oraz za warunki pracy,
 - **3)** wynagrodzenia za godziny ponadwymiarowe i godziny doraźnych zastępstw,
-- **4)** nagród i innych świadczeń wynikających ze stosunku pracy, z wyłączeniem świadczeń z zakładowego funduszu świadczeń socjalnych i dodatków socjalnych określonych w art. 54. jest od stopnia awansu zawodowego, posiadanych kwalifikacji oraz wymiaru zajęć obowiązkowych, a wysokość dodatków odpowiednio od okresu zatrudnienia, jakości świadczonej pracy, wykonywania dodatkowych zadań lub zajęć, powierzonego stanowiska oraz trudnych, uciążliwych lub szkodliwych dla zdrowia warunków pracy.
+- **4)** nagród i innych świadczeń wynikających ze stosunku pracy, z wyłączeniem świadczeń z zakładowego funduszu świadczeń socjalnych i dodatków socjalnych określonych w art. 54.
+
+2. Wysokość wynagrodzenia zasadniczego nauczyciela uzależniona jest od stopnia awansu zawodowego, posiadanych kwalifikacji oraz wymiaru zajęć obowiązkowych, a wysokość dodatków odpowiednio od okresu zatrudnienia, jakości świadczonej pracy, wykonywania dodatkowych zadań lub zajęć, powierzonego stanowiska oraz trudnych, uciążliwych lub szkodliwych dla zdrowia warunków pracy.
 
 3. Średnie wynagrodzenie nauczyciela stażysty stanowi 82% kwoty bazowej określanej dla pracowników państwowej sfery budżetowej na podstawie art. 5 pkt 1 lit. a) i art. 6 ust. 1 pkt 2 ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz.U. Nr 110, poz. 1255), ustalanej corocznie w ustawie budżetowej.
 
@@ -278,7 +350,8 @@ source: "isap-pdf"
 6. Organ prowadzący szkołę będący jednostką samorządu terytorialnego określa dla nauczycieli poszczególnych stopni awansu zawodowego, w drodze regulaminu:
 
 - **1)** wysokość stawek dodatków, o których mowa w ust. 1 pkt 2, oraz szczegółowe warunki przyznawania tych dodatków, z zastrzeżeniem art. 33 i 34,
-- **2)** szczegółowy sposób obliczania wynagrodzenia za godziny ponadwymiarowe, z zastrzeżeniem art. 35 ust. 3, oraz za godziny doraźnych zastępstw, o których mowa w ust. 1 pkt 4, o ile nie zostały one określone w ustawie lub w odrębnych przepisach, w taki sposób, aby średnie wynagrodzenia nauczycieli, składające się z wynagrodzenia zasadniczego i składników, o których mowa w pkt 1-3, odpowiadały na obszarze działania danej jednostki samorządu terytorialnego co najmniej średnim wynagrodzeniom nauczycieli, o których mowa odpowiednio w ust. 3 i 4.
+- **2)** szczegółowy sposób obliczania wynagrodzenia za godziny ponadwymiarowe, z zastrzeżeniem art. 35 ust. 3, oraz za godziny doraźnych zastępstw,
+- **3)** wysokość i warunki wypłacania składników wynagrodzenia, o których mowa w ust. 1 pkt 4, o ile nie zostały one określone w ustawie lub w odrębnych przepisach, w taki sposób, aby średnie wynagrodzenia nauczycieli, składające się z wynagrodzenia zasadniczego i składników, o których mowa w pkt 1-3, odpowiadały na obszarze działania danej jednostki samorządu terytorialnego co najmniej średnim wynagrodzeniom nauczycieli, o których mowa odpowiednio w ust. 3 i 4.
 
 7. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z właściwymi ministrami, uwzględniając wysokości średniego wynagrodzenia nauczycieli, o których mowa w ust. 3 i 4, określa, w drodze rozporządzenia, dla nauczycieli poszczególnych stopni awansu zawodowego zatrudnionych w szkołach prowadzonych przez organy administracji rządowej wysokość stawek dodatków, o których mowa w ust. 1 pkt 2, oraz szczegółowe warunki przyznawania tych dodatków, z zastrzeżeniem art. 33, a także szczegółowy sposób obliczania wynagrodzenia za godziny ponadwymiarowe i godziny doraźnych zastępstw oraz wysokość i warunki wypłacania składników wynagrodzenia, o których mowa w ust. 1 pkt 4, o ile nie zostały one określone w przepisach ustawy lub w odrębnych przepisach.
 
@@ -294,7 +367,9 @@ source: "isap-pdf"
 
 **Art. 32.**
 
-1. Nauczycielom, o których mowa w art. 1 ust. 2 pkt 1, oprócz wynagrodzenia zasadniczego przysługują dodatki: za wysługę lat, motywacyjny oraz służbowy. mieniu z ministrem właściwym do spraw pracy, określa, w drodze rozporządzenia, wysokość dodatków motywacyjnego i służbowego oraz szczegółowe zasady przyznawania tych dodatków.”;
+1. Nauczycielom, o których mowa w art. 1 ust. 2 pkt 1, oprócz wynagrodzenia zasadniczego przysługują dodatki: za wysługę lat, motywacyjny oraz służbowy.
+
+2. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw pracy, określa, w drodze rozporządzenia, wysokość dodatków motywacyjnego i służbowego oraz szczegółowe zasady przyznawania tych dodatków.”;
 
 - **25)** w art. 33:
     - **a)** w ust. 1 wyrazy „dodatek za staż pracy” zastępuje się wyrazami „dodatek za wysługę lat”,
@@ -310,7 +385,10 @@ source: "isap-pdf"
     - **a)** w ust. 3 wyrazy „z uwzględnieniem dodatków, o których mowa w art. 34” zastępuje się wyrazami „z uwzględnieniem dodatku za warunki pracy”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Kobiety w ciąży, osoby wychowującej dziecko do lat 4 oraz nauczyciela w trakcie odbywania stażu będącego warunkiem uzyskania stopnia nauczyciela kontraktowego, mianowanego lub dyplomowanego nie wolno zatrudniać w godzinach ponadwymiarowych bez ich zgody.”;
 
-- **28)** art. 36 otrzymuje brzmienie: „Art. 36. 1. Układy zbiorowe pracy dla nauczycieli mogą być zawierane na zasadach określonych w dziale jedenastym Kodeksu pracy, z zastrzeżeniem ust. 2. mowa w ust. 1, nie może powodować dodatkowych skutków finansowych dla budżetu państwa.”;
+- **28)** art. 36 otrzymuje brzmienie: „Art. 36. 1. Układy zbiorowe pracy dla nauczycieli mogą być zawierane na zasadach określonych w dziale jedenastym Kodeksu pracy, z zastrzeżeniem ust. 2.
+
+2. Zawieranie układów zbiorowych pracy dla nauczycieli, o których mowa w ust. 1, nie może powodować dodatkowych skutków finansowych dla budżetu państwa.”;
+
 - **29)** w art. 39 ust. 1 otrzymuje brzmienie: „1. Zmiana wysokości wynagrodzenia w czasie trwania stosunku pracy w związku z uzyskaniem kolejnego stopnia awansu zawodowego nauczyciela lub z innych przyczyn następuje z dniem pierwszym najbliższego miesiąca kalendarzowego, jeżeli awans lub inne przyczyny nie nastąpiły od dnia pierwszego danego miesiąca kalendarzowego.”;
 - **30)** w art. 42:
     - **a)** ust. 2 otrzymuje brzmienie: „2. W ramach czasu pracy, o którym mowa w ust. 1, oraz ustalonego wynagrodzenia nauczyciel obowiązany jest realizować:
@@ -320,7 +398,7 @@ source: "isap-pdf"
 - **3)** zajęcia i czynności związane z przygotowaniem się do zajęć, samokształceniem i doskonaleniem zawodowym.”,
     - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Nauczyciel, na swój wniosek złożony na piśmie do dyrektora szkoły przed rozpoczęciem zajęć w danym roku szkolnym, może realizować zajęcia dydaktyczne, wychowawcze i opiekuńcze w wymiarze określonym w ust. 4a. Dyrektor szkoły może wyrazić zgodę na realizację zajęć w danym roku szkolnym w ustalonym z nauczycielem wymiarze określonym w ust. 4a, jeżeli taka możliwość wynika z zatwierdzonego przez organ prowadzący szkołę arkusza organizacyjnego szkoły.”,
     - **c)** w ust. 3: - zdanie wstępne otrzymuje brzmienie: „Tygodniowy obowiązkowy wymiar godzin zajęć dydaktycznych, wychowawczych i opiekuńczych, prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz, nauczycieli zatrudnionych w pełnym wymiarze zajęć ustala się, z zastrzeżeniem ust. 2a i 4a, według następujących norm:”, - w tabeli w rubryce: stanowisko - typ (rodzaj) szkoły, w lp. 3 wyrazy „zakładach dla nieletnich” zastępuje się wyrazami „schroniskach dla nieletnich oraz zakładach poprawczych”, - w tabeli w rubryce: stanowisko - typ (rodzaj) szkoły, w lp. 4 skreśla się wyrazy „oraz nauczyciele przedmiotów teoretycznych w pedagogicznych studiach technicznych”, - w tabeli w rubryce: stanowisko - typ (rodzaj) szkoły, w lp. 9 w lit. c) skreśla się wyrazy „zakładach rehabilitacji zawodowej inwalidów,”,
-    - **d)** po ust. 4 dodaje się ust. 4a w brzmieniu: zowane, z zastrzeżeniem ust. 2a, w wymiarze:
+    - **d)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Zajęcia dydaktyczne, opiekuńcze i wychowawcze mogą być realizowane, z zastrzeżeniem ust. 2a, w wymiarze:
 
 - **1)** od 18 do 27 godzin - przez nauczycieli, o których mowa w ust. 3 w tabeli w rubryce: stanowisko - typ (rodzaj) szkoły, w lp. 3 i 10,
 - **2)** od 22 do 26 godzin - przez nauczycieli, o których mowa w ust. 3 w tabeli w rubryce: stanowisko - typ (rodzaj) szkoły, w lp. 5.”,
@@ -340,6 +418,7 @@ source: "isap-pdf"
 - **1)** konieczność zapewnienia opieki w porze nocnej w placówkach świadczących opiekę całkowitą lub przyjmujących dzieci także w nocy,
 - **2)** zapobieganie zagrożeniom dla wychowanków ze strony środowiska lokalnego,
 - **3)** warunki lokalowe szkół,
+- **4)** równomierne obciążenie nauczycieli pracą w porze nocnej.”;
 - **32)** skreśla się art. 46;
 - **33)** art. 48 otrzymuje brzmienie: „Art. 48. Nauczycielowi przysługuje dodatkowe wynagrodzenie roczne na zasadach i w wysokości określonych w ustawie z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz.U. Nr 160, poz. 1080, z 1998 r Nr 155, poz. 1014, oraz z 1999 r. Nr 72, poz. 802 i Nr 110, poz. 1255).”;
 - **34)** art. 49 otrzymuje brzmienie: „Art. 49. 1. Zachowuje się specjalny fundusz nagród dla nauczycieli za ich osiągnięcia dydaktyczno-wychowawcze:
@@ -353,7 +432,7 @@ source: "isap-pdf"
 - **36)** w art. 51 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe zasady nadawania „Medalu Komisji Edukacji Narodowej”, tryb przedstawiania wniosków, wzór medalu, tryb jego wręczania i sposób noszenia, z uwzględnieniem wymogów, jakie powinny spełniać wnioski o nadanie medalu.”;
 - **37)** w art. 53:
     - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Z odpisu na zakładowy fundusz świadczeń socjalnych, o którym mowa w ust. 1, wypłacane jest nauczycielowi do końca sierpnia każdego roku świadczenie urlopowe w wysokości odpisu podstawowego, o którym mowa w przepisach o zakładowym funduszu świadczeń socjalnych, ustalonego proporcjonalnie do wymiaru czasu pracy i okresu zatrudnienia nauczyciela w danym roku szkolnym.”,
-    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: zany wskazać inną szkołę, w której będzie naliczany odpis na zakładowy fundusz świadczeń socjalnych na każdego nauczyciela będącego emerytem lub rencistą zlikwidowanej szkoły. Osoby te korzystają z usług i świadczeń finansowanych z zakładowego funduszu świadczeń socjalnych na zasadach i warunkach ustalonych w regulaminie obowiązującym we wskazanej szkole.”;
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku likwidacji szkoły organ prowadzący szkołę jest obowiązany wskazać inną szkołę, w której będzie naliczany odpis na zakładowy fundusz świadczeń socjalnych na każdego nauczyciela będącego emerytem lub rencistą zlikwidowanej szkoły. Osoby te korzystają z usług i świadczeń finansowanych z zakładowego funduszu świadczeń socjalnych na zasadach i warunkach ustalonych w regulaminie obowiązującym we wskazanej szkole.”;
 
 - **38)** w art. 54:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Nauczyciel zatrudniony na terenie wiejskim oraz w mieście liczącym do 5000 mieszkańców ma prawo do lokalu mieszkalnego na terenie gminy, w której położona jest szkoła.”,
@@ -368,7 +447,7 @@ source: "isap-pdf"
 2. Zasiłek, o którym mowa w ust. 1, podlega zwrotowi, jeżeli nauczyciel nie przepracuje trzech lat w szkole. W uzasadnionych przypadkach organ prowadzący szkołę może zwolnić nauczyciela w całości lub w części od obowiązku zwrotu zasiłku.”;
 
 - **42)** w art. 64:
-    - **a)** w ust. 2: się pkt 3 w brzmieniu: „3) opracowywania szkolnego zestawu programów oraz uczestniczenia w doskonaleniu zawodowym w określonej formie.”, - zdanie drugie otrzymuje brzmienie: „Czynności, o których mowa w pkt 1-3, nie mogą łącznie zająć nauczycielowi więcej niż 7 dni.”,
+    - **a)** w ust. 2: - w pkt 2 kropkę na końcu zdania zastępuje się przecinkiem oraz dodaje się pkt 3 w brzmieniu: „3) opracowywania szkolnego zestawu programów oraz uczestniczenia w doskonaleniu zawodowym w określonej formie.”, - zdanie drugie otrzymuje brzmienie: „Czynności, o których mowa w pkt 1-3, nie mogą łącznie zająć nauczycielowi więcej niż 7 dni.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Nauczycielom zatrudnionym w szkołach, w których nie są przewidziane ferie szkolne, przysługuje prawo do urlopu wypoczynkowego w wymiarze 35 dni roboczych w czasie ustalonym w planie urlopów.”,
     - **c)** w ust. 4 skreśla się wyrazy „i 3”,
     - **d)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Nauczyciel zatrudniony w szkole, w której nie są przewidziane ferie szkolne, w przypadku nawiązania lub ustania stosunku pracy w trakcie roku kalendarzowego, ma prawo do urlopu wypoczynkowego w wymiarze proporcjonalnym do okresu przepracowanego, zgodnie z odrębnymi przepisami.”;
@@ -381,7 +460,7 @@ source: "isap-pdf"
 - **3)** udzielanie nauczycielom kształcącym się poza miejscem zamieszkania świadczeń związanych z przejazdami, zakwaterowaniem i wyżywieniem.”;
 - **46)** w art. 70a:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Wysokość wyodrębnionych środków stanowi nie mniej niż 2,5% planowanych wydatków na wynagrodzenie osobowe nauczycieli.”,
-    - **b)** po ust. 2 dodaje się ust. 3 i 4 w brzmieniu: finansowe przekazywane przez jednostki samorządu terytorialnego, dotacje i darowizny.
+    - **b)** po ust. 2 dodaje się ust. 3 i 4 w brzmieniu: „3. Środki, o których mowa w ust. 1, mogą być zwiększane o środki finansowe przekazywane przez jednostki samorządu terytorialnego, dotacje i darowizny.
 
 4. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, formy realizacji zadań, o których mowa w ust. 1, tryb podziału środków, o których mowa w ust. 2, z uwzględnieniem kompetencji kuratorów oświaty, organów prowadzących szkoły i placówki oraz dyrektorów szkół i placówek w zakresie dokształcania i doskonalenia zawodowego nauczycieli.”;
 
@@ -396,7 +475,8 @@ source: "isap-pdf"
 
 1b. W przypadku stwierdzenia, iż w okresie płatnego urlopu dla poratowania zdrowia nauczyciel wykonuje zatrudnienie lub prowadzi działalność sprzeczną z celami udzielonego urlopu, dyrektor szkoły odwo łuje nauczyciela z urlopu, określając termin, w którym nauczyciel obowiązany jest do powrotu do pracy.”,
 
-- **c)** ust. 2 otrzymuje brzmienie: „2. Okres pięcioletniej pracy w szkole, uzasadniający prawo do urlopu, powinien przypadać bezpośrednio przed datą rozpoczęcia urlopu dla poratowania zdrowia. Wymóg pięcioletniego okresu pracy w szkole dotyczy udzielenia pierwszego urlopu dla poratowania zdrowia.”, „3a. Nauczyciel nie ponosi kosztów związanych z orzekaniem o stanie jego zdrowia w związku z potrzebą udzielenia urlopu dla poratowania zdrowia.”,
+- **c)** ust. 2 otrzymuje brzmienie: „2. Okres pięcioletniej pracy w szkole, uzasadniający prawo do urlopu, powinien przypadać bezpośrednio przed datą rozpoczęcia urlopu dla poratowania zdrowia. Wymóg pięcioletniego okresu pracy w szkole dotyczy udzielenia pierwszego urlopu dla poratowania zdrowia.”,
+- **d)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Nauczyciel nie ponosi kosztów związanych z orzekaniem o stanie jego zdrowia w związku z potrzebą udzielenia urlopu dla poratowania zdrowia.”,
 - **e)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, określi, w drodze rozporządzenia, tryb orzekania o potrzebie udzielenia nauczycielowi urlopu, o którym mowa w ust. 1, uwzględniając w szczególności:
 - **1)** podmiot uprawniony do orzekania o stanie zdrowia i sposób prowadzenia dokumentacji,
 - **2)** rodzaje zatrudnienia i działalności sprzecznych z celami urlopu.”;
@@ -409,7 +489,7 @@ source: "isap-pdf"
 - **52)** w art. 79 ust. 1 otrzymuje brzmienie: „1. Organ, przy którym została powołana komisja dyscyplinarna, wyznaczy, w drodze zarządzenia, dla każdej komisji dyscyplinarnej rzecznika dyscyplinarnego i odpowiednią liczbę jego zastępców z grona podległych sobie pracowników.”;
 - **53)** w art. 86 wyrazy „przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin” zastępuje się wyrazami „przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych”;
 - **54)** w art. 87 w ust. 1 i 2 wyrazy „Nauczycielowi przechodzącemu na emeryturę lub rentę inwalidzką” zastępuje się wyrazami „Nauczycielowi spełniającemu warunki uprawniające do emerytury lub renty z tytułu niezdolności do pracy, którego stosunek pracy ustał w związku z przejściem na emeryturę lub rentę z tytułu niezdolności do pracy”;
-- **55)** w art. 88 w ust. 2 wyrazy „rentę inwalidzką” zastępuje się wyrazami „rentę z tytułu niezdolności do pracy”, a wyrazy „przepisach o zaopatrzeniu emerytalrach i rentach z Funduszu Ubezpieczeń Społecznych”;
+- **55)** w art. 88 w ust. 2 wyrazy „rentę inwalidzką” zastępuje się wyrazami „rentę z tytułu niezdolności do pracy”, a wyrazy „przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin” zastępuje się wyrazami „przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych”;
 - **56)** skreśla się art. 91;
 - **57)** art. 91a otrzymuje brzmienie: „Art. 91a. 1. Nauczycielom:
 - **1)** mianowanym lub dyplomowanym, przechodzącym do pracy w urzędach organów administracji rządowej, kuratoriach oświaty oraz w organach sprawujących nadzór pedagogiczny nad zakładami poprawczymi, schroniskami dla nieletnich oraz ośrodkami diagnostyczno-konsultacyjnymi na stanowisko wymagające kwalifikacji pedagogicznych, przysługują uprawnienia wynikające z art. 9a-9i, 30-33, 51, 58-60, 86, 88 i 90,
@@ -428,7 +508,11 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz.U. z 1998 r. Nr 21, poz. 94, Nr 106, poz. 668 i Nr 113, poz. 717 oraz z 1999 r. Nr 99, poz. 1152) w art. 241 skreśla się § 3.
 
-**Art. 3.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz.U. z 1996 r. Nr 67, poz. 329 i Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, z 1998 r. Nr następujące zmiany:
+**Art. 3.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz.U. z 1996 r. Nr 67, poz. 329 i Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126 oraz z 2000 r. Nr 12, poz. 136) wprowadza się następujące zmiany:
+
+- **1)** w art. 30 w ust. 2 wyrazy „spośród nauczycieli” zastępuje się wyrazami „spośród nauczycieli mianowanych lub dyplomowanych”;
+- **2)** w art. 36 ust. 1 otrzymuje brzmienie: „1. Szkołą lub placówką kieruje nauczyciel mianowany lub dyplomowany, któremu powierzono stanowisko dyrektora.”;
+- **3)** w art. 38 w pkt 1 lit. b) otrzymuje brzmienie: „b) ustalenia przez organ prowadzący negatywnej oceny pracy lub negatywnej oceny wykonywania zadań wymienionych w art. 34a ust. 2 w trybie określonym przepisami w sprawie oceny pracy nauczycieli - bez wypowiedzenia.”.
 
 **Art. 4.** W ustawie z dnia 13 października 1998 r. – Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz.U. Nr 133, poz. 872 i Nr 162, poz. 1126 oraz z 2000 r. Nr 6, poz. 70 i Nr 12, poz. 136) skreśla się art. 51.
 
@@ -444,7 +528,7 @@ source: "isap-pdf"
 
 2. Pracownicy zatrudnieni w dniu wejścia w życie ustawy:
 
-- **1)** na stanowiskach nauczycieli w ośrodkach szkolenia i doskonalenia kadr, w ośrodkach szkolenia zawodowego oraz w prowadzonych przez organizacje mach pozaszkolnych – na zasadach określonych w ustawie o systemie oświaty,
+- **1)** na stanowiskach nauczycieli w ośrodkach szkolenia i doskonalenia kadr, w ośrodkach szkolenia zawodowego oraz w prowadzonych przez organizacje spółdzielcze i społeczne placówkach kształcących i doskonalących w formach pozaszkolnych – na zasadach określonych w ustawie o systemie oświaty,
 - **2)** w placówkach zbiorowego zakwaterowania, prowadzący pracę wychowawczą z młodocianymi pracownikami (uczniami), dla których praca dydaktyczna i wychowawcza stanowi podstawowe zajęcie, zachowują do dnia rozwiązania lub wygaśnięcia stosunku pracy uprawnienia wynikające z art. 51, 64 ust. 3, art. 86-88 i 90 ustawy, o której mowa w art. 1.
 
 **Art. 7.**
@@ -460,7 +544,7 @@ source: "isap-pdf"
 
 4. Nauczyciele, o których mowa w ust. 3, zatrudnieni w:
 
-- **1)** przedszkolach, szkołach, placówkach oraz innych jednostkach organizacyjnych, o których mowa w art. 1 ust. 1 ustawy, o której mowa w art. 1, mogą złożyć wniosek o podjęcie postępowania egzaminacyjnego na stopień nauczyciela mianowanego po odbyciu stażu trwającego co najmniej 9 mieku zawodowego oraz oceny pracy, dyrektor szkoły.
+- **1)** przedszkolach, szkołach, placówkach oraz innych jednostkach organizacyjnych, o których mowa w art. 1 ust. 1 ustawy, o której mowa w art. 1, mogą złożyć wniosek o podjęcie postępowania egzaminacyjnego na stopień nauczyciela mianowanego po odbyciu stażu trwającego co najmniej 9 miesięcy. Okres stażu dla tych nauczycieli ustala, z uwzględnieniem ich dorobku zawodowego oraz oceny pracy, dyrektor szkoły.
 
 5. Nauczyciele, o których mowa w ust. 2 i 3, mogą składać wnioski, o których mowa w ust. 2 i 4, w terminie trzech lat od dnia wejścia w życie ustawy.
 
@@ -480,7 +564,7 @@ source: "isap-pdf"
 
 - **1)** nauczycielowi akademickiemu, posiadającemu stopień naukowy oraz co najmniej trzyletni okres pracy pedagogicznej w szkole w wymiarze nie ni ższym niż 1/2 obowiązkowego wymiaru zajęć,
 - **2)** nauczycielowi szkoły artystycznej posiadającemu wybitny i uznany dorobek w zakresie nauczanej przez niego dziedziny sztuki,
-- **3)** nauczycielowi, który w dniu 5 kwietnia 2000 r. był zatrudniony w szkole w wymiarze nie niższym niż 1/2 obowiązkowego wymiaru zajęć oraz spełniał obowiązujące w tym dniu warunki wymagane do zatrudnienia na podstawie mianowania, z wyjątkiem warunku określonego w art. 10 ust. 2 pkt 6, a w przypadku nauczyciela posiadającego obywatelstwo państwa Unii Europejktórej mowa w art. 1 niniejszej ustawy, w brzmieniu obowiązującym w tym dniu.
+- **3)** nauczycielowi, który w dniu 5 kwietnia 2000 r. był zatrudniony w szkole w wymiarze nie niższym niż 1/2 obowiązkowego wymiaru zajęć oraz spełniał obowiązujące w tym dniu warunki wymagane do zatrudnienia na podstawie mianowania, z wyjątkiem warunku określonego w art. 10 ust. 2 pkt 6, a w przypadku nauczyciela posiadającego obywatelstwo państwa Unii Europejskiej, z wyjątkiem warunku, o którym mowa w art. 10 ust. 2 pkt 1 ustawy, o której mowa w art. 1 niniejszej ustawy, w brzmieniu obowiązującym w tym dniu.
 
 2. Minister właściwy do spraw oświaty i wychowania, na wniosek nauczyciela złoży nie później niż do dnia 31 grudnia 2001 r., po zasięgnięciu opinii kuratora oświaty, w szczególnie uzasadnionych przypadkach, innych niż wymienione w ust. 1, może zwolnić z obowiązku odbycia stażu i postępowania egzaminacyjnego oraz nadać stopień nauczyciela mianowanego zatrudnionemu w szkole nauczycielowi posiadającemu znaczny dorobek zawodowy oraz wymagane kwalifikacje.
 
@@ -496,7 +580,8 @@ source: "isap-pdf"
 
 3. Nauczyciele spełniający wymagania kwalifikacyjne, o których mowa w art. 9 ust. 1 pkt 1 ustawy wymienionej w art. 1, zatrudnieni na podstawie mianowania przed dniem wejścia w życie ustawy, uzyskują z mocy prawa stopień nauczyciela mianowanego:
 
-- **1)** z dniem ponownego zatrudnienia w przedszkolu, szkole, placówce oraz innej jednostce organizacyjnej wymienionej w art. 1 ust. 1 i w ust. 2 pkt 1 i 2 ustawy, o której mowa w art. 1, jeżeli przerwa w zatrudnieniu nie przekracza 5 lat, placówce oraz innej jednostce organizacyjnej, wymienionej w art. 1 ustawy, o której mowa w art. 1, [w wymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć,] W art. 10 w ust. 3 pkt 2 niezgodny z Konstytucją w zaznaczonej części wyrok TK (Dz.U. z 2004 r. Nr 257, poz. 2579).
+- **1)** z dniem ponownego zatrudnienia w przedszkolu, szkole, placówce oraz innej jednostce organizacyjnej wymienionej w art. 1 ust. 1 i w ust. 2 pkt 1 i 2 ustawy, o której mowa w art. 1, jeżeli przerwa w zatrudnieniu nie przekracza 5 lat,
+- **2)** z dniem wejścia w życie ustawy, jeżeli są zatrudnieni w przedszkolu, szkole, placówce oraz innej jednostce organizacyjnej, wymienionej w art. 1 ustawy, o której mowa w art. 1, [w wymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć,] W art. 10 w ust. 3 pkt 2 niezgodny z Konstytucją w zaznaczonej części wyrok TK (Dz.U. z 2004 r. Nr 257, poz. 2579).
 - **3)** z dniem wejścia w życie ustawy, jeżeli są zatrudnieni w Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych albo specjalistycznej jednostce nadzoru na stanowiskach wymagających kwalifikacji pedagogicznych.
 
 4. Nauczyciele, o których mowa w art. 7 ust. 10, zatrudnieni w dniu wejścia w życie ustawy, posiadający kwalifikacje, o których mowa w art. 9 ust. 1 pkt 1 ustawy wymienionej w art. 1, oraz co najmniej 5-letni okres pracy pedagogicznej odpowiednio w przedszkolu, szkole, placówce lub innej jednostce organizacyjnej, o której mowa w art. 1 ustawy wymienionej w art. 1, w tym co najmniej 3letni nieprzerwany okres pracy w pełnym wymiarze zajęć zgodnie z wymaganymi kwalifikacjami w przedszkolu, szkole, placówce wymienionej w art. 1 ust. 2 pkt 2 ustawy, o której mowa w art. 1, z tym dniem uzyskują z mocy prawa stopień nauczyciela mianowanego.
@@ -540,4 +625,9 @@ source: "isap-pdf"
 **Art. 17.** Minister właściwy do spraw oświaty i wychowania ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy - Karta Nauczyciela, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
 
 **Art. 18.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 42 lit. b) i d) oraz pkt 43, które wchodzą w życie z dniem 1 stycznia 2001 r.,
+- **2)** art. 1 pkt 24 w zakresie dotyczącym art. 30 ust. 4, który wchodzi w życie z dniem 1 października 2002 r.,
+- **3)** art. 3 pkt 2, który wchodzi w życie z dniem 1 września 2002 r.
+
 

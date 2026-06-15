@@ -8,7 +8,7 @@ pos: 164
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o narodowym zasobie archiwalnym i archiwach
@@ -102,7 +102,7 @@ source: "isap-pdf"
 3. Tryb brakowania dokumentacji niearchiwalnej oraz sposób postępowania z materiałami archiwalnymi i dokumentacją niearchiwalną w przypadku trwałego zaprzestania działalności przez organy lub jednostki organizacyjne, w tym podległych i nadzorowanych, określają, w drodze zarządzenia, w odniesieniu do:
 
 - **1)** Prezydenta Rzeczypospolitej Polskiej – Szef Kancelarii Prezydenta Rzeczypospolitej Polskiej;
-- **2)** Rzeczypospolitej Polskiej – Szef Kancelarii Rzeczypospolitej Polskiej;
+- **2)** Sejmu Rzeczypospolitej Polskiej – Szef Kancelarii Sejmu Rzeczypospolitej Polskiej;
 - **3)** Senatu Rzeczypospolitej Polskiej – Szef Kancelarii Senatu Rzeczypospolitej Polskiej;
 - **4)** Rady Ministrów – Szef Kancelarii Prezesa Rady Ministrów;
 - **4a)** Biura Bezpieczeństwa Narodowego – Szef Biura Bezpieczeństwa Narodowego;
@@ -642,6 +642,9 @@ source: "isap-pdf"
 
 **Art. 22d.** Jednostki wymienione w art. 22 ust. 1 pkt 1 i 2 oraz w ust. 2 pkt 2 przetwarzają dane osobowe, odpowiednio:
 
+- **1)** wieczyście;
+- **2)** przez okres wynikający z art. 5 ust. 1 pkt 2.
+
 **Art. 23.** Działalność archiwalna obejmuje gromadzenie, ewidencjonowanie, przechowywanie, opracowanie, zabezpieczenie i udostępnianie materiałów archiwalnych oraz prowadzenie działalności informacyjnej.
 
 **Art. 23a.** Podmiot prowadzący działalność archiwalną, udzielając zamówienia, o którym mowa w art. 11 ust. 5 pkt 2 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019), którego wartość jest równa lub przekracza kwotę 170 000 zł, zamieszcza ogłoszenie o zamówieniu na swojej stronie podmiotowej w Biuletynie Informacji Publicznej.
@@ -702,7 +705,7 @@ source: "isap-pdf"
 
 1. Archiwami wyodrębnionymi są:
 
-- **1)** archiwum Rzeczypospolitej Polskiej;
+- **1)** archiwum Sejmu Rzeczypospolitej Polskiej;
 - **2)** archiwum Senatu Rzeczypospolitej Polskiej;
 - **3)** archiwum Prezydenta Rzeczypospolitej Polskiej;
 - **4)** archiwum Rady Ministrów;
@@ -730,7 +733,7 @@ source: "isap-pdf"
 
 **Art. 30.**
 
-1. Zasób archiwalny archiwów: Rzeczypospolitej Polskiej, Senatu Rzeczypospolitej Polskiej i Prezydenta Rzeczypospolitej Polskiej stanowią materiały archiwalne powstałe i powstające w toku ich działalności, a także ich zasób historyczny.
+1. Zasób archiwalny archiwów: Sejmu Rzeczypospolitej Polskiej, Senatu Rzeczypospolitej Polskiej i Prezydenta Rzeczypospolitej Polskiej stanowią materiały archiwalne powstałe i powstające w toku ich działalności, a także ich zasób historyczny.
 
 2. Zasób archiwalny archiwum Rady Ministrów stanowią materiały archiwalne Prezesa Rady Ministrów, Rady Ministrów oraz Kancelarii Prezesa Rady Ministrów, powstałe i powstające w toku ich działalności, a także zasób historyczny Rady Ministrów.
 
@@ -801,6 +804,10 @@ source: "isap-pdf"
 
 **Art. 36a.** Jeżeli jednostka, o której mowa w art. 33 i art. 36, posiada struktury terenowe, archiwum zakładowe lub składnicę akt można utworzyć odrębnie dla każdej takiej struktury, o ile spełnia ona co najmniej jedno z następujących kryteriów:
 
+- **1)** jest zorganizowaną, wyodrębnioną i samodzielną całością położoną w miejscu zidentyfikowanym odrębnym adresem, pod którym lub z którego prowadzona jest działalność;
+- **2)** prowadzi działalność o zasięgu regionalnym i dla potrzeb regionalnych;
+- **3)** posiada dokumentację przydatną dla potrzeb określonych w art. 16 ust. 1 na terenie, na którym jest ona wytwarzana i gromadzona.
+
 **Art. 37.** (uchylony)
 
 **Art. 38.** Jednostkom organizacyjnym, z uwagi na ich szczególny charakter lub zadania, na ich wniosek, Naczelny Dyrektor Archiwów Państwowych może powierzyć na stałe lub na czas określony gromadzenie i przechowywanie materiałów archiwalnych, określając przy tym warunki powierzenia.
@@ -831,6 +838,11 @@ source: "isap-pdf"
 3. (uchylony)
 
 **Art. 42.** Ewidencjonowany niepaństwowy zasób archiwalny tworzą materiały archiwalne powstałe i powstające w wyniku działalności:
+
+- **1)** partii politycznych,
+- **2)** organizacji politycznych, spółdzielczych i innych organizacji społecznych,
+- **3)** kościołów i związków wyznaniowych,
+- **4)** innych niż wymienione w pkt 2 niepaństwowych jednostek organizacyjnych oraz stanowiące ich własność.
 
 **Art. 43.**
 
@@ -1012,6 +1024,11 @@ source: "isap-pdf"
 
 **Art. 51i.** Uprawnienia wynikające z wpisu do rejestru:
 
+- **1)** są niezbywalne;
+- **2)** spółki przejmowanej albo którejkolwiek ze spółek łączących się przez zawiązanie nowej spółki, a także spółki podlegającej podziałowi, nie przechodzą na spółkę przejmującą lub nowo zawiązaną;
+- **3)** spółdzielni podlegającej podziałowi lub połączeniu z inną spółdzielnią, nie przechodzą na spółdzielnie powstałe w wyniku podziału lub połączenia;
+- **4)** przedsiębiorcy niewymienionego w pkt 2 lub 3 podlegającego podziałowi lub połączeniu, nie przechodzą na podmiot powstały w wyniku podziału lub połączenia.
+
 **Art. 51j.**
 
 1. Kontrolę działalności gospodarczej w zakresie objętym wpisem do rejestru przeprowadza marszałek województwa.
@@ -1035,7 +1052,9 @@ source: "isap-pdf"
 
 2. Regulamin, o którym mowa w ust. 1, przedsiębiorca udostępnia w lokalu, w którym przyjmowani są interesanci.
 
-**Art. 51l.** Do wykonywania działalności objętej wpisem do rejestru stosuje się przepisy Kodeksu cywilnego dotyczące przechowania, z wyłączeniem art. 844 § 2.
+**Art. 51l.** Do wykonywania działalności objętej wpisem do rejestru stosuje się przepisy Kodeksu cywilnego dotyczące przechowania, z wyłączeniem art. 844
+
+§ 2
 
 **Art. 51m.**
 

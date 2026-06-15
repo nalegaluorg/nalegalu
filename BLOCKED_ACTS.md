@@ -2,10 +2,12 @@
 
 Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów z jakością ekstrakcji tekstu z PDF. Pracujemy nad ich naprawą.
 
-**Łącznie:** 438 aktów
+**Łącznie:** 411 aktów
 
 | Adres | Tytuł | Problem |
 |-------|-------|---------|
+| WDU19480270183 | Ustawa z dnia 28 kwietnia 1948 r. o zmianie ustawy z dnia 28… |  |
+| WDU19490410294 | Ustawa z dnia 1 lipca 1949 r. o obowiązku uczestniczenia w o… | rendered round-trip failed: AST=14 rendered=0 missing_render |
 | WDU19570390174 | Ustawa z dnia 13 lipca 1957 r. o zmianie dekretu z dnia 18 k… | rendered round-trip failed: AST=7 rendered=0 missing_rendere |
 | WDU19600290167 | Ustawa z dnia 14 czerwca 1960 r. o zmianie dekretu z dnia 26… | missing article structure — act type requires Art. markers b |
 | WDU19710270252 | Ustawa z dnia 26 października 1971 r. zmieniająca ustawę Kod… | rendered round-trip failed: AST=4 rendered=13 missing_render |
@@ -48,77 +50,50 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19960450198 | Ustawa z dnia 15 marca 1996 r. o zmianie ustawy o nabywaniu … | rendered round-trip failed: AST=11 rendered=8 missing_render |
 | WDU19961270593 | Ustawa z dnia 12 września 1996 r. o zmianie ustawy o wychowa… | rendered round-trip failed: AST=11 rendered=19 missing_rende |
 | WDU19961490704 | Ustawa z dnia 6 grudnia 1996 r. o zmianie ustawy o podatkach… | character-spaced text — 2 line(s) with >30% single-letter wo… |
-| WDU19961520723 | Ustawa z dnia 8 listopada 1996 r. o zmianie ustawy o Państwo… | rendered round-trip failed: AST=48 rendered=48 missing_rende |
 | WDU19970430271 | Ustawa z dnia 20 lutego 1997 r. o zmianie ustawy o ochronie … | missing article structure — act type requires Art. markers b |
 | WDU19970800508 | Ustawa z dnia 17 lipca 1997 r. o zmianie ustawy o pomocy pań… | missing article structure — act type requires Art. markers b |
 | WDU19971020642 | Ustawa z dnia 19 czerwca 1997 r. o utworzeniu Uniwersytetu w… | character-spaced text — 2 line(s) with >30% single-letter wo… |
 | WDU19971100715 | Ustawa z dnia 27 sierpnia 1997 r. o zmianie ustawy - Prawo ł… | missing article structure — act type requires Art. markers b |
 | WDU19971110726 | Ustawa z dnia 22 sierpnia 1997 r. o zmianie ustawy - Prawo b… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19980460293 | Wyrok Trybunału Konstytucyjnego z dnia 31 marca 1998 r. - sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU19981060668 | Ustawa z dnia 24 lipca 1998 r. o zmianie niektórych ustaw ok… | source article inventory failed: eli-html=0 AST=237 dup_ast=… |
+| WDU19981060668 | Ustawa z dnia 24 lipca 1998 r. o zmianie niektórych ustaw ok… | rendered round-trip failed: AST=237 rendered=237 dup_rendere… |
 | WDU19981130714 | Ustawa z dnia 23 lipca 1998 r. o zmianie ustawy o usługach t… | missing article structure — act type requires Art. markers b |
-| WDU19981170759 | Ustawa z dnia 25 lipca 1998 r. o zmianie ustawy o systemie o… | rendered round-trip failed: AST=10 rendered=10 low_sim=3 wor |
 | WDU19981621124 | Ustawa z dnia 18 grudnia 1998 r. o zmianie ustawy o samorząd… | source article inventory failed: eli-html=0 AST=11 dup_ast=1… |
 | WDU19990130114 | Rozporządzenie Rady Ministrów z dnia 2 lutego 1999 r. w spra… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19990400401 | Ustawa z dnia 10 kwietnia 1999 r. o zmianie ustawy o usługac… | source article inventory failed: eli-html=0 AST=14 dup_ast=3… |
 | WDU19990410418 | Rozporządzenie Ministra Finansów z dnia 7 maja 1999 r. w spr… | excessive repetition — '.................................... |
 | WDU19991011182 | Wyrok Trybunału Konstytucyjnego z dnia 14 grudnia 1999 r. sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20001131186 | Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy o rachunk… | rendered round-trip failed: AST=47 rendered=47 low_sim=1 mis… |
+| WDU20001131186 | Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy o rachunk… | rendered round-trip failed: AST=47 rendered=47 low_sim=1 FAI… |
 | WDU20001141190 | Ustawa z dnia 16 listopada 2000 r. o zmianie ustawy o gwaran… | rendered round-trip failed: AST=7 rendered=9 extra_rendered= |
-| WDU20010040031 | Rozporządzenie Rady Ministrów z dnia 9 stycznia 2001 r. w sp… | rendered round-trip failed: AST=384 rendered=384 low_sim=28  |
 | WDU20011101190 | Ustawa z dnia 27 lipca 2001 r. o zmianie ustawy - Prawo geol… | source article inventory failed: eli-html=0 AST=30 dup_ast=2… |
 | WDU20011251372 | Ustawa z dnia 6 września 2001 r. o zmianie ustawy o Trybunal… | rendered round-trip failed: AST=13 rendered=1 missing_render |
 | WDU20011381565 | Wyrok Trybunału Konstytucyjnego z dnia 20 listopada 2001 r. … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20020780717 | Wyrok Trybunału Konstytucyjnego z dnia 29 maja 2002 r. sygn.… | CID font encoding failure — unreadable glyphs (4 occurrence(… |
-| WDU20021080945 | Ustawa z dnia 6 czerwca 2002 r. o zmianie ustawy - Prawo wła… | rendered round-trip failed: AST=24 rendered=12 missing_rende |
 | WDU20021090966 | Wyrok Trybunału Konstytucyjnego z dnia 3 lipca 2002 r. sygn.… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20021351144 | Ustawa z dnia 24 lipca 2002 r. o zmianie ustawy - Prawo ener… | rendered round-trip failed: AST=13 rendered=17 missing_rende |
 | WDU20021411183 | Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o zryczałtow… | CID font encoding failure — unreadable glyphs (1 occurrence( |
-| WDU20021521265 | Ustawa z dnia 30 sierpnia 2002 r. o zmianie ustawy - Prawo f… | rendered round-trip failed: AST=7 rendered=15 missing_render |
 | WDU20021561306 | Wyrok Trybunału Konstytucyjnego z dnia 16 września 2002 r. s… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20021861560 | Wyrok Trybunału Konstytucyjnego z dnia 29 października 2002 … | CID font encoding failure — unreadable glyphs (4 occurrence( |
 | WDU20022001680 | Ustawa z dnia 10 października 2002 r. o zmianie ustawy o pod… | rendered round-trip failed: AST=6 rendered=8 extra_rendered= |
 | WDU20022382025 | Wyrok Trybunału Konstytucyjnego z dnia 12 grudnia 2002 r. sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20030060064 | Ustawa z dnia 20 grudnia 2002 r. o zmianie ustawy o gospodar… | rendered round-trip failed: AST=22 rendered=22 missing_child… |
-| WDU20030520452 | Ustawa z dnia 27 lutego 2003 r. o zmianie ustawy o ochronie … | rendered round-trip failed: AST=2 rendered=5 extra_rendered= |
-| WDU20031371301 | Ustawa z dnia 26 czerwca 2003 r. o zmianie ustawy o wykonywa… | rendered round-trip failed: AST=15 rendered=15 missing_child… |
-| WDU20031921873 | Ustawa z dnia 29 października 2003 r. o zmianie ustawy o Pol… | rendered round-trip failed: AST=32 rendered=13 missing_rende |
-| WDU20031931884 | Ustawa z dnia 10 września 2003 r. o zmianie ustawy o postępo… | rendered round-trip failed: AST=27 rendered=25 missing_rende |
 | WDU20040430412 | Wyrok Trybunału Konstytucyjnego z dnia 8 marca 2004 r. sygn.… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20041521597 | Ustawa z dnia 27 maja 2004 r. o zmianie ustawy o wychowaniu … | rendered round-trip failed: AST=2 rendered=2 extra_rendered= |
 | WDU20042042091 | Wyrok Trybunału Konstytucyjnego z dnia 7 września 2004 r. sy… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20050860744 | Wyrok Trybunału Konstytucyjnego z dnia 11 maja 2005 r. sygn.… | PostScript CE garbled diacritics — unrepaired encoding (1 oc |
-| WDU20050940786 | Ustawa z dnia 21 kwietnia 2005 r. o zmianie ustawy o pomocy … | rendered round-trip failed: AST=4 rendered=3 missing_rendere |
-| WDU20051411183 | Ustawa z dnia 1 lipca 2005 r. o zmianie ustawy o ochronie zd… | rendered round-trip failed: AST=6 rendered=6 low_sim=3 word_ |
-| WDU20060520378 | Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy - Prawo ato… | rendered round-trip failed: AST=24 rendered=24 missing_child… |
-| WDU20060660473 | Ustawa z dnia 10 marca 2006 r. o zmianie ustawy o organizacj… | rendered round-trip failed: AST=24 rendered=16 missing_rende |
-| WDU20071230848 | Ustawa z dnia 14 czerwca 2007 r. o zmianie ustawy o orderach… | rendered round-trip failed: AST=4 rendered=4 missing_child_m… |
 | WDU20071280903 | Wyrok Trybunału Konstytucyjnego z dnia 10 lipca 2007 r. sygn… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20071360956 | Ustawa z dnia 29 czerwca 2007 r. o zmianie ustawy o muzeach | rendered round-trip failed: AST=3 rendered=13 extra_rendered |
-| WDU20071360958 | Ustawa z dnia 29 czerwca 2007 r. o zmianie ustawy - Prawo wł… | rendered round-trip failed: AST=25 rendered=29 missing_rende |
 | WDU20071811291 | Ustawa z dnia 7 września 2007 r. o zmianie ustawy o Państwow… | rendered round-trip failed: AST=3 rendered=6 missing_rendere |
 | WDU20071811292 | Ustawa z dnia 7 września 2007 r. o zmianie ustawy o systemie… | rendered round-trip failed: AST=2 rendered=11 extra_rendered |
 | WDU20072311704 | Wyrok Trybunału Konstytucyjnego z dnia 5 grudnia 2007 r. syg… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20080470273 | Ustawa z dnia 10 stycznia 2008 r. o zmianie ustawy o izbach … | rendered round-trip failed: AST=15 rendered=15 missing_child… |
 | WDU20080540326 | Ustawa z dnia 12 marca 2008 r. o zmianie ustawy o drogach pu… | rendered round-trip failed: AST=4 rendered=5 missing_rendere |
 | WDU20080960621 | Wyrok Trybunału Konstytucyjnego z dnia 27 maja 2008 r. sygn.… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20081180746 | Ustawa z dnia 30 maja 2008 r. o zmianie ustawy o specjalnych… | source article inventory failed: eli-html=0 AST=7 dup_ast=1 … |
 | WDU20082161369 | Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o izbach … | rendered round-trip failed: AST=3 rendered=4 extra_rendered= |
-| WDU20090690593 | Ustawa z dnia 19 marca 2009 r. o zmianie ustawy - Kodeks pos… |  |
-| WDU20090950792 | Ustawa z dnia 22 maja 2009 r. o zmianie ustawy o Agencji Ryn… | rendered round-trip failed: AST=25 rendered=25 missing_child… |
 | WDU20092011542 | Ustawa z dnia 23 października 2009 r. zmieniająca ustawę o z… | PostScript CE garbled diacritics — unrepaired encoding (3 oc |
-| WDU20092141658 | Ustawa z dnia 25 czerwca 2009 r. o zmianie ustawy o transpor… | rendered round-trip failed: AST=10 rendered=10 missing_child… |
-| WDU20100110066 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=323 rendered=323 missing_chi… |
+| WDU20100110066 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20100210109 | Wyrok Trybunału Konstytucyjnego z dnia 26 stycznia 2010 r. s… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20101250852 | Wyrok Trybunału Konstytucyjnego z dnia 22 czerwca 2010 r. sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20101480990 | Ustawa z dnia 24 czerwca 2010 r. o zmianie ustawy o organiza… | rendered round-trip failed: AST=16 rendered=16 missing_child… |
 | WDU20102441636 | Wyrok Trybunału Konstytucyjnego z dnia 14 grudnia 2010 r. sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20102471650 | Ustawa z dnia 22 października 2010 r. o zmianie ustawy o Age… | rendered round-trip failed: AST=2 rendered=3 extra_rendered= |
-| WDU20110060019 | Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy o ochronie … | rendered round-trip failed: AST=4 rendered=13 missing_render |
 | WDU20110640342 | Wyrok Trybunału Konstytucyjnego z dnia 16 marca 2011 r. sygn… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20111090627 | Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy - Prawo o… | rendered round-trip failed: AST=2 rendered=0 missing_rendere |
-| WDU20111681001 | Ustawa z dnia 10 czerwca 2011 r. o zmianie ustawy o emerytur… | rendered round-trip failed: AST=7 rendered=3 missing_rendere |
-| WDU20112301372 | Ustawa z dnia 16 września 2011 r. o zmianie ustawy o transpo… | rendered round-trip failed: AST=17 rendered=17 word_loss=2 m |
 | WDU20112401437 | Wyrok Trybunału Konstytucyjnego z dnia 18 października 2011 … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20120000066 | Rozporządzenie Ministra Sprawiedliwości z dnia 3 stycznia 20… | excessive repetition — '.................................... |
 | WDU20120000070 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | excessive repetition — '.................................... |
@@ -181,7 +156,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20150001170 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 li… | excessive repetition — '5) zużycie materiałów i energia' app |
 | WDU20150001209 | Rozporządzenie Ministra Sprawiedliwości z dnia 19 sierpnia 2… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20150001314 | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 3 li… | excessive repetition — 'a) dla kierujących wszystkimi pojazd |
-| WDU20150001615 | Ustawa z dnia 11 września 2015 r. o zmianie ustawy - Prawo w… | rendered round-trip failed: AST=12 rendered=11 missing_rende… |
 | WDU20150001783 | Rozporządzenie Ministra Sprawiedliwości z dnia 20 październi… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20160000357 | Obwieszczenie Ministra Zdrowia z dnia 25 stycznia 2016 r. w … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20160000369 | Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia … | excessive repetition — '.................................... |
@@ -233,7 +207,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20180000546 | Rozporządzenie Ministra Sprawiedliwości z dnia 9 marca 2018 … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180000605 | Obwieszczenie Ministra Zdrowia z dnia 27 lutego 2018 r. w sp… | excessive repetition — '.................................... |
 | WDU20180000640 | Rozporządzenie Ministra Energii z dnia 15 marca 2018 r. w sp… | CID font encoding failure — unreadable glyphs (3 occurrence( |
-| WDU20180000650 | Ustawa z dnia 6 marca 2018 r. - Przepisy wprowadzające ustaw… | source article inventory failed: eli-html=0 AST=280 dup_ast=… |
+| WDU20180000650 | Ustawa z dnia 6 marca 2018 r. - Przepisy wprowadzające ustaw… | rendered round-trip failed: AST=280 rendered=280 dup_rendere… |
 | WDU20180000888 | Rozporządzenie Ministra Obrony Narodowej z dnia 28 marca 201… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180000898 | Rozporządzenie Ministra Sprawiedliwości z dnia 30 kwietnia 2… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180001237 | Wyrok Trybunału Konstytucyjnego z dnia 20 czerwca 2018 r. sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
@@ -408,7 +382,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20240000453 | Obwieszczenie Ministra Nauki z dnia 9 lutego 2024 r. w spraw… | CID font encoding failure — unreadable glyphs (2 occurrence( |
 | WDU20240000458 | Rozporządzenie Ministra Obrony Narodowej z dnia 25 marca 202… | character-spaced text — 2 line(s) with >30% single-letter wo… |
 | WDU20240000515 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | character-spaced text — 2 line(s) with >30% single-letter wo |
-| WDU20240000558 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=82 rendered=81 missing_rende… |
 | WDU20240000569 | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20240000611 | Obwieszczenie Ministra Edukacji z dnia 19 marca 2024 r. w sp… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20240000648 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | character-spaced text — 1 line(s) with >30% single-letter wo |

@@ -8,7 +8,7 @@ pos: 230
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obywateli w trzeźwości za niezbędny warunek moralnego i materialnego dobra Narodu, stanowi się, co następuje:
@@ -334,6 +334,16 @@ source: "isap-pdf"
 6. Prezes Narodowego Funduszu Zdrowia nie później niż do dnia 15 kwietnia przedstawia ministrowi właściwemu do spraw zdrowia informację o sposobie wykorzystania środków, o których mowa w ust. 3 pkt 2, w poprzednim roku kalendarzowym.
 
 **Art. 9⁴.** Warunkiem prowadzenia działalności na podstawie zezwoleń, o których mowa w art. 9 ust. 1, jest:
+
+- **1)** (uchylony)
+- **2)** sprzedaż napojów alkoholowych, wymienionych w zezwoleniu, wyłącznie przedsiębiorcom posiadającym zezwolenie na obrót hurtowy tymi napojami lub zezwolenie na sprzedaż detaliczną napojów alkoholowych;
+- **3)** prowadzenie obrotu hurtowego tylko napojami alkoholowymi oznaczonymi znakami akcyzy, o ile wymóg oznaczania tymi znakami wynika z innych przepisów;
+- **4)** zaopatrywanie się w napoje alkoholowe, wymienione w zezwoleniu, u producentów oraz u przedsiębiorców posiadających zezwolenie na obrót hurtowy tymi napojami;
+- **5)** posiadanie tytułu prawnego do korzystania ze stacjonarnego magazynu dostosowanego do przechowywania napojów alkoholowych, o ile przedsiębiorca z takiego magazynu korzysta;
+- **6)** (uchylony)
+- **7)** wykonywanie działalności gospodarczej w zakresie objętym zezwoleniem tylko przez przedsiębiorcę w nim oznaczonego i wyłącznie w miejscach wymienionych w zezwoleniu;
+- **8)** zgłaszanie ministrowi właściwemu do spraw gospodarki lub właściwemu marszałkowi województwa zmian stanu faktycznego i prawnego przedsiębiorcy, w stosunku do danych zawartych w zezwoleniu, w terminie 14 dni od dnia powstania zmiany.
+- **9)** (uchylony)
 
 **Art. 9⁵.**
 
@@ -707,6 +717,9 @@ source: "isap-pdf"
 **Art. 18¹a.** Wydawanie zezwoleń na podstawie art. 18 oraz art. 18 należy do zadań własnych gminy.
 
 **Art. 18².** Dochody z opłat za zezwolenia wydane na podstawie art. 18 i art. 18 oraz dochody z opłat określonych w art. 11 będą wykorzystywane na realizację:
+
+- **1)** gminnych programów profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o których mowa w art. 4 ust. 2,
+- **2)** zadań realizowanych przez placówkę wsparcia dziennego, w której mowa w art. 9 pkt 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, w ramach gminnego programu profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o którym mowa w art. 4 ust. 2 – i nie mogą być przeznaczone na inne cele.
 
 **Art. 18³.** Do kontroli działalności gospodarczej przedsiębiorcy, o której mowa w art. 9, art. 18 i art. 18 , stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414).
 
@@ -1247,6 +1260,9 @@ source: "isap-pdf"
 **Art. 44.** Kto wbrew szczególnemu obowiązkowi nadzoru dopuszcza do sprzedawania, podawania lub spożywania napojów alkoholowych na terenie zakładu pracy, jak również powziąwszy wiadomość o sprzedawaniu, podawaniu lub spożywaniu na terenie zakładu pracy takich napojów nie podejmie prawem przewidzianego postępowania, podlega karze grzywny.
 
 **Art. 45.** Kto wbrew postanowieniom zawartym w art. 13 ust. 1 i 2:
+
+- **1)** dostarcza napoje alkoholowe do miejsc sprzedaży lub
+- **2)** nie uwidacznia informacji o szkodliwości spożywania alkoholu, podlega karze grzywny.
 
 **Art. 45¹.** Orzekanie w sprawach o czyny wymienione w art. 43 –45 następuje na podstawie przepisów o postępowaniu w sprawach o wykroczenia.
 

@@ -8,7 +8,7 @@ pos: 1505
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o służbie cywilnej
@@ -53,7 +53,16 @@ Art. 132–190. (pominięte)
 
 **Art. 3.** W rozumieniu ustawy:
 
+- **1)** pracownik służby cywilnej oznacza osobę zatrudnioną na podstawie umowy o pracę zgodnie z zasadami określonymi w ustawie;
+- **2)** urzędnik służby cywilnej oznacza osobę zatrudnioną na podstawie mianowania zgodnie z zasadami określonymi w ustawie;
+- **3)** członek korpusu służby cywilnej oznacza osobę, o której mowa w pkt 1 i 2, oraz osobę zatrudnioną na wyższym stanowisku w służbie cywilnej.
+
 **Art. 4.** W służbie cywilnej może być zatrudniona osoba, która: [1) jest obywatelem polskim, z zastrzeżeniem art. 5;] <1) jest obywatelem Unii Europejskiej lub obywatelem państwa, którego obywatelom na podstawie umów międzynarodowych lub przepisów prawa Unii Europejskiej przysługuje prawo podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej, lub posiada ważną Kartę Polaka;>
+
+- **2)** korzysta z pełni praw publicznych;
+- **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **4)** posiada kwalifikacje wymagane na dane stanowisko pracy;
+- **5)** cieszy się nieposzlakowaną opinią.
 
 **Art. 4a.** W służbie cywilnej nie może być zatrudniona osoba, która w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. pracowała lub pełniła służbę w organach bezpieczeństwa państwa lub była współpracownikiem tych organów w rozumieniu przepisów ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2025 r. poz. 1519).
 
@@ -243,6 +252,14 @@ Art. 132–190. (pominięte)
 
 **Art. 23c.** Odznakę nadaje Prezes Rady Ministrów:
 
+- **1)** z własnej inicjatywy lub
+- **2)** na pisemny wniosek Szefa Służby Cywilnej, lub
+- **3)** na pisemny wniosek:
+    - **a)** Szefa Kancelarii Prezesa Rady Ministrów,
+    - **b)** członka Rady Ministrów,
+    - **c)** kierownika centralnego organu administracji rządowej,
+    - **d)** wojewody – po zasięgnięciu opinii Szefa Służby Cywilnej.
+
 **Art. 23d.**
 
 1. Wniosek o nadanie odznaki zawiera:
@@ -291,6 +308,13 @@ Art. 132–190. (pominięte)
 **Art. 23g.** W przypadku utraty odznaki lub dyplomu potwierdzającego jej nadanie, na wniosek osoby wyróżnionej wydaje się wtórny egzemplarz odpowiednio odznaki lub dyplomu potwierdzającego jej nadanie, za zwrotem kosztów ich wytworzenia.
 
 **Art. 23h.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
+
+- **1)** wzór:
+    - **a)** wniosku o nadanie odznaki,
+    - **b)** odznaki,
+    - **c)** dyplomu potwierdzającego nadanie odznaki,
+
+- **2)** sposób noszenia odznaki – mając na uwadze konieczność ujednolicenia składanych wniosków, wzornictwo stosowane w polskiej falerystyce oraz potrzebę zapewnienia jednolitego sposobu noszenia odznaki.
 
 **Art. 24.** (uchylony)
 
@@ -569,6 +593,12 @@ Art. 132–190. (pominięte)
 
 **Art. 40.** O uzyskanie mianowania w służbie cywilnej może ubiegać się osoba, która:
 
+- **1)** jest pracownikiem służby cywilnej;
+- **2)** posiada co najmniej trzyletni staż pracy w służbie cywilnej lub uzyskała zgodę dyrektora generalnego urzędu na przystąpienie do postępowania kwalifikacyjnego przed upływem tego terminu, jednak niewcześniej niż po upływie dwóch lat od nawiązania stosunku pracy w służbie cywilnej;
+- **3)** posiada tytuł zawodowy magistra lub równorzędny;
+- **4)** zna co najmniej jeden język obcy spośród języków roboczych Unii Europejskiej lub jeden z następujących języków obcych: arabski, białoruski, chiński, islandzki, japoński, norweski, rosyjski, ukraiński;
+- **5)** jest żołnierzem rezerwy lub nie podlega obowiązkowi obrony Ojczyzny.
+
 **Art. 41.**
 
 1. Szef Służby Cywilnej określa i publikuje w Biuletynie Kancelarii wzór zgłoszenia do postępowania kwalifikacyjnego dla pracowników służby cywilnej ubiegających się o mianowanie oraz wzór wniosku o mianowanie dla absolwentów Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego.
@@ -615,6 +645,12 @@ Art. 132–190. (pominięte)
 
 **Art. 47.** Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób przeprowadzania postępowania kwalifikacyjnego w służbie cywilnej, ustalając:
 
+- **1)** zakres tematyczny postępowania kwalifikacyjnego,
+- **2)** organizację i sposób prowadzenia postępowania kwalifikacyjnego oraz szczegółowe zasady przyznawania punktów, o których mowa w art. 43 ust. 5,
+- **3)** minimalne liczby punktów, o których mowa w art. 43 ust. 6,
+- **4)** rodzaje dokumentów potwierdzających spełnianie warunku określonego w art. 40 pkt 4,
+- **5)** wysokość i sposób wnoszenia opłaty, o której mowa w art. 45 – biorąc pod uwagę konieczność sprawdzenia w postępowaniu kwalifikacyjnym wiedzy i umiejętności wymaganych od urzędnika służby cywilnej.
+
 **Art. 48.**
 
 1. Mianowań dokonuje się w ramach limitu, o którym mowa w art. 7 ust. 1.
@@ -650,6 +686,14 @@ Art. 132–190. (pominięte)
 #### Rozdział 4 Wyższe stanowiska w służbie cywilnej
 
 **Art. 52.** Wyższymi stanowiskami w służbie cywilnej są stanowiska:
+
+- **1)** dyrektora generalnego urzędu;
+- **2)** kierującego departamentem lub komórką równorzędną w Kancelarii Prezesa Rady Ministrów, urzędzie ministra, urzędzie obsługującym przewodniczącego komitetu wchodzącego w skład Rady Ministrów, urzędzie centralnego organu administracji rządowej oraz kierującego wydziałem lub komórką równorzędną w urzędzie wojewódzkim, a także zastępcy tych osób;
+- **3)** wojewódzkiego lekarza weterynarii i jego zastępcy;
+- **3a)** powiatowego lekarza weterynarii i jego zastępcy;
+- **3b)** wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych i jego zastępcy;
+- **4)** kierującego komórką organizacyjną w Biurze Nasiennictwa Leśnego, a także zastępcy tej osoby;
+- **5)** dyrektora Krajowej Informacji Skarbowej, dyrektora izby administracji skarbowej, naczelnika urzędu skarbowego, naczelnika urzędu celno-skarbowego, a także zastępcy tych osób.
 
 **Art. 53.**
 
@@ -782,6 +826,13 @@ Art. 132–190. (pominięte)
 **Art. 69a.** Stosunek pracy członka korpusu służby cywilnej wygasa z dniem doręczenia kierownikowi urzędu zatrudniającemu członka korpusu służby cywilnej prawomocnego orzeczenia stwierdzającego fakt złożenia przez tę osobę niezgodnego z prawdą oświadczenia, o którym mowa w art. 7 ust. 1 i art. 11 ust. 4 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów.
 
 **Art. 70.** Stosunek pracy urzędnika służby cywilnej wygasa w razie:
+
+- **1)** odmowy złożenia ślubowania; [2) utraty obywatelstwa państwa należącego do Unii Europejskiej lub innego państwa, którego obywatelom na podstawie umów międzynarodowych lub przepisów prawa wspólnotowego przysługuje prawo do podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej;] <2) utraty obywatelstwa Unii Europejskiej lub obywatelstwa państwa, którego obywatelom na podstawie umów międzynarodowych lub przepisów prawa Unii Europejskiej przysługuje prawo podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej, lub utraty ważności albo unieważnienia Karty Polaka, jeżeli urzędnikowi służby cywilnej nie przysługuje prawo podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej na innej podstawie;>
+- **3)** prawomocnego orzeczenia kary dyscyplinarnej wydalenia ze służby cywilnej;
+- **4)** prawomocnego skazania za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **5)** prawomocnego orzeczenia utraty praw publicznych lub zakazu wykonywania zawodu urzędnika w służbie cywilnej;
+- **6)** upływu trzech miesięcy nieobecności w pracy z powodu tymczasowego aresztowania;
+- **7)** odmowy wykonania decyzji w sprawie przeniesienia, o którym mowa w art. 62 i 63, lub niepodjęcia pracy w urzędzie, do którego urzędnik został przeniesiony w trybie art. 66.
 
 **Art. 71.**
 
@@ -1095,9 +1146,19 @@ Art. 132–190. (pominięte)
 
 **Art. 99.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
+- **1)** wykaz stanowisk urzędniczych, z podziałem na grupy stanowisk,
+- **2)** kwalifikacje zawodowe pracowników wymagane do wykonywania pracy na stanowiskach urzędniczych, w zakresie nieuregulowanym w przepisach szczególnych,
+- **3)** mnożniki do ustalenia wynagrodzenia zasadniczego członków korpusu służby cywilnej,
+- **4)** stopnie służbowe urzędników służby cywilnej i mnożnik dodatku służby cywilnej dla każdego stopnia służbowego, 4a) mnożniki do ustalania dodatku funkcyjnego, o którym mowa w art. 85 ust. 3,
+- **5)** warunki przyznawania i wypłacania dodatku, o którym mowa w art. 90 ust. 1,
+- **6)** warunki ustalania prawa do nagrody jubileuszowej i jej wypłacania – kierując się charakterem pracy wykonywanej przez członków korpusu służby cywilnej i potrzebą zapewnienia odpowiedniego poziomu wykonywania przez nich zadań.
+
 **Art. 100.** Prezes Rady Ministrów może określić, w drodze zarządzenia, sposób uwzględniania wyników wartościowania stanowisk pracy przy ustalaniu wynagrodzenia zasadniczego członków korpusu służby cywilnej w urzędach.
 
 **Art. 101.** Prezes Rady Ministrów, mając na względzie szczególny charakter wykonywanych zadań i warunki ich wykonywania, może określać, w drodze rozporządzenia:
+
+- **1)** uprawnienia szczególne w zakresie płac i innych świadczeń przysługujących niektórym kategoriom członków korpusu służby cywilnej oraz zasady przyznawania tych świadczeń i ich wysokość,
+- **2)** inne dodatki do wynagrodzenia niż przewidziane w ustawie – jeżeli te świadczenia i dodatki były przewidziane w przepisach obowiązujących w dniu wejścia w życie ustawy.
 
 **Art. 102.** W rozporządzeniu, o którym mowa w art. 101, Prezes Rady Ministrów może określić także inne świadczenia i dodatki oraz warunki i tryb ich przyznawania, kierując się potrzebą zwiększenia efektywności wykonywanych zadań przez członków korpusu służby cywilnej.
 
@@ -1167,7 +1228,13 @@ Art. 132–190. (pominięte)
 
 **Art. 111.** Koszty szkoleń w służbie cywilnej są pokrywane ze środków:
 
+- **1)** wyodrębnionych w budżetach poszczególnych urzędów dla finansowania szkoleń powszechnych, szkoleń w ramach indywidualnego programu rozwoju zawodowego urzędnika służby cywilnej oraz szkoleń specjalistycznych;
+- **2)** rezerwy budżetowej przeznaczonej na szkolenia członków korpusu służby cywilnej dla finansowania szkoleń centralnych.
+
 **Art. 112.** Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowe warunki organizowania i prowadzenia szkoleń w służbie cywilnej obejmujące w szczególności:
+
+- **1)** kryteria, jakie muszą spełniać podmioty, którym powierza się prowadzenie szkoleń,
+- **2)** sposób i warunki oceny prowadzonych szkoleń – kierując się potrzebą zapewnienia skutecznego procesu szkolenia i rozwoju w służbie cywilnej.
 
 #### Rozdział 9 Odpowiedzialność dyscyplinarna członka korpusu służby cywilnej
 
@@ -1351,6 +1418,12 @@ Art. 132–190. (pominięte)
 
 **Art. 130.** Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób prowadzenia postępowania wyjaśniającego i dyscyplinarnego, w tym:
 
+- **1)** warunki powoływania i odwoływania członka komisji dyscyplinarnej, rzecznika dyscyplinarnego i jego zastępcy,
+- **2)** sposób dokonywania zmian w składzie komisji dyscyplinarnej,
+- **3)** zakres czynności rzecznika dyscyplinarnego i jego zastępcy, służących wyjaśnieniu sprawy,
+- **4)** organizację i funkcjonowanie komisji dyscyplinarnych oraz tryb prowadzenia postępowania dyscyplinarnego,
+- **5)** warunki i sposób ustalania należności przysługujących członkom komisji dyscyplinarnych, rzecznikom dyscyplinarnym i ich zastępcom, świadkom, obrońcom i biegłym – kierując się potrzebą rzetelnego i sprawnego prowadzenia tych postępowań.
+
 **Art. 131.**
 
 1. Koszty obrońcy z wyboru ponosi obwiniony.
@@ -1473,7 +1546,14 @@ Art. 132–190. (pominięte)
 
 **Art. 201.** Członkowi korpusu służby cywilnej, o którym mowa w art. 193 ust. 4, art. 194 ust. 4, oraz osobie, o której mowa w art. 195 ust. 3, przysługuje prawo do wynagrodzenia w dotychczasowej wysokości, jeżeli byłoby ono wyższe od przysługującego na nowym stanowisku, przez okres:
 
+- **1)** jednego miesiąca – jeżeli na stanowisku, zajmowanym w dniu wejścia w życie ustawy, byli zatrudnieni niedłużej niż 3 miesiące;
+- **2)** dwóch miesięcy – jeżeli na stanowisku, zajmowanym w dniu wejścia w życie ustawy, byli zatrudnieni dłużej niż 3 miesiące i niedłużej niż 12 miesięcy;
+- **3)** trzech miesięcy – jeżeli na stanowisku, zajmowanym w dniu wejścia w życie ustawy, byli zatrudnieni dłużej niż 12 miesięcy.
+
 **Art. 202.** W okresie 10 lat od dnia wejścia w życie ustawy warunek posiadania kompetencji kierowniczych na stanowiskach, o których mowa w art. 52 oraz w ustawach zmienianych w art. 135–139 , 141–143 , 145–147 , 149–156 , 158 , 159 , 161–185 oraz 187–189 , uważa się za spełniony przez osoby, które:
+
+- **1)** uzyskały świadectwo potwierdzające kwalifikacje do pracy na wysokim stanowisku państwowym, wydane na podstawie art. 7 ust. 5 lub art. 8 ust. 7 ustawy uchylanej w art. 214;
+- **2)** w wyniku postępowania kwalifikacyjnego dla pracowników służby cywilnej ubiegających się o mianowanie w służbie cywilnej osiągnęły miejsce uprawniające do mianowania na podstawie ustawy uchylanej w art. 215.
 
 **Art. 203.** W okresie 1 roku od dnia wejścia w życie ustawy, przy przeprowadzaniu naboru na wyższe stanowiska w służbie cywilnej, do osób, o których mowa w art. 202, nie stosuje się warunków określonych w art. 53 pkt 4 i 5.
 
@@ -1513,11 +1593,14 @@ Art. 132–190. (pominięte)
 
 **Art. 209.** Z dniem wejścia w życie ustawy:
 
+- **1)** stosunek pracy osoby powołanej na stanowisko Sekretarza Rady Ministrów wygasa;
+- **2)** osoba zajmująca stanowisko Sekretarza Rady Ministrów obejmuje funkcję Sekretarza Rady Ministrów.
+
 **Art. 210.**
 
 1. Do pierwszego składu Rady Służby Cywilnej Prezes Rady Ministrów powołuje 4 członków Rady, o których mowa w art. 20 ust. 2 – na 3 lata, a pozostałych 4 członków – na 6 lat.
 
-2. Do pierwszego składu Rady Służby Cywilnej Prezes Rady Ministrów powołuje członków Rady, o których mowa w art. 20 ust. 3, na okres pozostały do czasu zakończenia kadencji wybranego w dniu 21 października 2007 r.
+2. Do pierwszego składu Rady Służby Cywilnej Prezes Rady Ministrów powołuje członków Rady, o których mowa w art. 20 ust. 3, na okres pozostały do czasu zakończenia kadencji Sejmu wybranego w dniu 21 października 2007 r.
 
 **Art. 211.** Do czasu powołania Szefa Służby Cywilnej, jednak niedłużej niż przez 3 miesiące od dnia wejścia w życie ustawy, zadania Szefa Służby Cywilnej wykonuje Szef Kancelarii Prezesa Rady Ministrów.
 

@@ -8,7 +8,7 @@ pos: 35
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
@@ -28,6 +28,79 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000035) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/35/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2:
+    - **a)** pkt 7 i 8 otrzymują brzmienie: „7) imporcie towarów – rozumie się przez to przywóz towarów z terytorium państwa trzeciego na terytorium Unii Europejskiej;
+
+- **8)** eksporcie towarów – rozumie się przez to dostawę towarów wysyłanych lub transportowanych z terytorium kraju poza terytorium Unii Europejskiej przez:
+    - **a)** dostawcę lub na jego rzecz, lub
+    - **b)** nabywcę mającego siedzibę poza terytorium kraju lub na jego rzecz, z wyłączeniem towarów wywożonych przez samego nabywcę do celów wyposażenia lub zaopatrzenia statków rekreacyjnych oraz turystycznych statków powietrznych lub innych środków transportu służących do celów prywatnych – jeżeli wywóz towarów poza terytorium Unii Europejskiej jest potwierdzony przez urząd celny określony w przepisach celnych;”,
+    - **b)** w pkt 30 kropkę zastępuje się średnikiem i dodaje się pkt 31–33 w brzmieniu: „31) fakturze – rozumie się przez to dokument w formie papierowej lub w formie elektronicznej zawierający dane wymagane ustawą i przepisami wydanymi na jej podstawie;
+
+- **32)** fakturze elektronicznej – rozumie się przez to fakturę w formie elektronicznej wystawioną i otrzymaną w dowolnym formacie elektronicznym;
+- **33)** terenach budowlanych – rozumie się przez to grunty przeznaczone pod zabudowę zgodnie z miejscowym planem zagospodarowania przestrzennego, a w przypadku braku takiego planu – zgodnie z decyzją o warunkach zabudowy i zagospodarowania terenu, o których mowa w przepisach o planowaniu i zagospodarowaniu przestrzennym.”;
+- **2)** art. 2a otrzymuje brzmienie: „Art. 2a. 1. W przypadku umów zawartych między Rzecząpospolitą Polską a państwem członkowskim lub państwem trzecim w sprawie budowy lub utrzymania mostów transgranicznych lub wspólnych odcinków dróg, za terytorium kraju uznaje się most lub wspólny odcinek drogi oraz miejsce ich budowy, położone poza terytorium kraju, za które, zgodnie z umową, jest odpowiedzialna Rzeczpospolita Polska, jeżeli w odniesieniu do tej umowy została wydana decyzja Rady upoważniająca do stosowania środków stanowiących odstępstwo od art. 5 dyrektywy 2006/112/WE Rady z dnia 28 listopada 2006 r. w sprawie wspólnego systemu podatku od wartości dodanej (Dz. Urz. UE L 347 z 11.12.2006, str. 1, z późn. zm.), zwanej dalej „dyrektywą 2006/112/WE”.
+
+2. W przypadku umów zawartych między Rzecząpospolitą Polską a państwem członkowskim w sprawie budowy lub utrzymania mostów transgranicznych lub wspólnych odcinków dróg, za terytorium tego państwa członkowskiego uznaje się most lub wspólny odcinek drogi oraz miejsce ich budowy, położone na terytorium kraju, za które, zgodnie z umową, jest odpowiedzialne to państwo członkowskie, jeżeli w odniesieniu do tej umowy została wydana decyzja Rady upoważniająca do stosowania środków stanowiących odstępstwo od art. 5 dyrektywy 2006/112/WE.
+
+3. W przypadku umów zawartych między Rzecząpospolitą Polską a państwem trzecim w sprawie budowy lub utrzymania mostów transgranicznych lub wspólnych odcinków dróg, za terytorium tego państwa trzeciego uznaje się most lub wspólny odcinek drogi oraz miejsce ich budowy, położone na terytorium kraju, za które, zgodnie z umową, jest odpowiedzialne to państwo trzecie, jeżeli w odniesieniu do tej umowy została wydana decyzja Rady upoważniająca do stosowania środków stanowiących odstępstwo od art. 5 dyrektywy 2006/112/WE.”;
+
+- **3)** w art. 5 w ust. 1 pkt 3 otrzymuje brzmienie: „3) import towarów na terytorium kraju;”;
+- **4)** w art. 7:
+    - **a)** w ust. 2 część wspólna otrzymuje brzmienie: „– jeżeli podatnikowi przysługiwało, w całości lub w części, prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego z tytułu nabycia, importu lub wytworzenia tych towarów lub ich części składowych.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Przepisu ust. 2 nie stosuje się do przekazywanych prezentów o małej wartości i próbek, jeżeli przekazanie to następuje na cele związane z działalnością gospodarczą podatnika.”,
+    - **c)** ust. 7 otrzymuje brzmienie: „7. Przez próbkę, o której mowa w ust. 3, rozumie się identyfikowalne jako próbka egzemplarz towaru lub jego niewielką ilość, które pozwalają na ocenę cech i właściwości towaru w jego końcowej postaci, przy czym ich przekazanie (wręczenie) przez podatnika:
+
+- **1)** ma na celu promocję tego towaru oraz
+- **2)** nie służy zasadniczo zaspokojeniu potrzeb odbiorcy końcowego w zakresie danego towaru, chyba że zaspokojenie potrzeb tego odbiorcy jest nieodłącznym elementem promocji tego towaru i ma skłaniać tego odbiorcę do zakupu promowanego towaru.”;
+- **5)** w art. 8 w ust. 2 pkt 1 otrzymuje brzmienie: „1) użycie towarów stanowiących część przedsiębiorstwa podatnika do celów innych niż działalność gospodarcza podatnika, w tym w szczególności do celów osobistych podatnika lub jego pracowników, w tym byłych pracowników, wspólników, udziałowców, akcjonariuszy, członków spółdzielni i ich domowników, członków organów stanowiących osób prawnych, członków stowarzyszenia, jeżeli podatnikowi przysługiwało, w całości lub w części, prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego z tytułu nabycia, importu lub wytworzenia tych towarów lub ich części składowych;”;
+- **6)** w art. 10 w ust. 1:
+    - **a)** w pkt 2 lit. c otrzymuje brzmienie: „c) podatników, u których sprzedaż jest zwolniona od podatku na podstawie art. 113 ust. 1 i 9,”,
+    - **b)** w pkt 3 lit. a otrzymuje brzmienie: „a) nie stanowiła u podatnika, o którym mowa w art. 15, albo nie stanowiłaby u podatnika podatku od wartości dodanej dostawy towarów, o której mowa w art. 7, lub stanowiła albo stanowiłaby taką dostawę towarów, ale dokonywaną przez podatnika, u którego sprzedaż jest zwolniona od podatku na podstawie art. 113 ust. 1 i 9, albo podatnika podatku od wartości dodanej, do którego miałyby zastosowanie podobne zwolnienia, z wyjątkiem przypadku, gdy przedmiotem dostawy są nowe środki transportu, lub”;
+
+- **7)** w art. 12 w ust. 1 pkt 4–7 otrzymują brzmienie: „4) towary mają być przedmiotem czynności odpowiadającej eksportowi towarów dokonanej przez tego podatnika na terytorium państwa członkowskiego, z którego są przemieszczane na terytorium kraju;
+- **5)** towary mają być przedmiotem czynności odpowiadającej wewnątrzwspólnotowej dostawie towarów, o której mowa w art. 13 ust. 1 i 2, dokonanej przez tego podatnika na terytorium państwa członkowskiego, z którego są przemieszczane na terytorium kraju;
+- **6)** towary mają być przedmiotem wykonanych na terytorium kraju na rzecz tego podatnika usług polegających na ich wycenie lub wykonaniu na nich prac, pod warunkiem że towary po wykonaniu tych usług zostaną z powrotem przemieszczone na terytorium państwa członkowskiego, z którego zostały pierwotnie wywiezione;
+- **7)** towary mają być czasowo używane na terytorium kraju w celu świadczenia usług przez tego podatnika posiadającego siedzibę działalności gospodarczej na terytorium państwa członkowskiego rozpoczęcia wysyłki lub transportu;”;
+- **8)** w art. 13:
+    - **a)** w ust. 4: – pkt 4 otrzymuje brzmienie: „4) towary mają być przedmiotem eksportu towarów przez tego podatnika;”, – pkt 6 i 7 otrzymują brzmienie: „6) towary mają być przedmiotem wykonanych na terytorium państwa członkowskiego innym niż terytorium kraju na rzecz tego podatnika usług polegających na ich wycenie lub wykonaniu na nich prac, pod warunkiem że towary po wykonaniu tych usług zostaną z powrotem przemieszczone na terytorium kraju;
+
+- **7)** towary mają być czasowo używane na terytorium państwa członkowskiego innym niż terytorium kraju, w celu świadczenia usług przez podatnika posiadającego siedzibę działalności gospodarczej na terytorium kraju, który przemieścił lub na rzecz którego przemieszczono te towary;”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Wewnątrzwspólnotowa dostawa towarów występuje, jeżeli dokonującym dostawy jest podatnik, o którym mowa w art. 15, u którego sprzedaż nie jest zwolniona od podatku na podstawie art. 113 ust. 1 i 9, z zastrzeżeniem ust. 7.”;
+
+- **9)** w art. 14:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Przepisu ust. 1 nie stosuje się do podatników, u których sprzedaż jest zwolniona od podatku na podstawie art. 113 ust. 1 i 9.”,
+    - **b)** ust. 8 otrzymuje brzmienie: „8. Podstawą opodatkowania jest wartość towarów podlegających spisowi z natury, ustalona zgodnie z art. 29a ust. 2.”;
+
+- **10)** tytuł działu III otrzymuje brzmienie: „Podatnicy, płatnicy i przedstawiciele podatkowi”;
+- **11)** po tytule działu III dodaje się oznaczenie i tytuł rozdziału 1 w brzmieniu: „Rozdział 1 Podatnicy i płatnicy”;
+- **12)** w art. 15:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Działalność gospodarcza obejmuje wszelką działalność producentów, handlowców lub usługodawców, w tym podmiotów pozyskujących zasoby naturalne oraz rolników, a także działalność osób wykonujących wolne zawody. Działalność gospodarcza obejmuje w szczególności czynności polegające na wykorzystywaniu towarów lub wartości niematerialnych i prawnych w sposób ciągły dla celów zarobkowych.”,
+    - **b)** uchyla się ust. 7–10;
+
+- **13)** art. 16 otrzymuje brzmienie: „Art.16. Podatnikami są również osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz osoby fizyczne, niebędące podatnikami, o których mowa w art. 15, dokonujące okazjonalnie wewnątrzwspólnotowej dostawy nowych środków transportu.”;
+- **14)** w art. 17:
+    - **a)** w ust. 1: – pkt 4 i 5 otrzymują brzmienie: „4) nabywające usługi, jeżeli łącznie spełnione są następujące warunki:
+    - **a)** usługodawcą jest podatnik nieposiadający siedziby działalności gospodarczej oraz stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju, a w przypadku usług, do których stosuje się art. 28e, podatnik ten nie jest zarejestrowany zgodnie z art. 96 ust. 4,
+    - **b)** usługobiorcą jest: – w przypadku usług, do których stosuje się art. 28b – podatnik, o którym mowa w art. 15, lub osoba prawna niebędąca podatnikiem, o którym mowa w art. 15, zarejestrowana lub obowiązana do zarejestrowania zgodnie z art. 97 ust. 4, – w pozostałych przypadkach – podatnik, o którym mowa w art. 15, posiadający siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej na terytorium kraju lub osoba prawna niebędąca podatnikiem, o którym mowa w art. 15, posiadająca siedzibę na terytorium kraju i zarejestrowana lub obowiązana do zarejestrowania zgodnie z art. 97 ust. 4;
+
+- **5)** nabywające towary, jeżeli łącznie spełnione są następujące warunki: 15, u którego sprzedaż nie jest zwolniona od podatku na podstawie art. 113 ust. 1 i 9,
+    - **a)** dokonującym ich dostawy na terytorium kraju jest podatnik nieposiadający siedziby działalności gospodarczej oraz stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju, a w przypadku dostawy towarów innych niż gaz w systemie gazowym, energia elektryczna w systemie elektroenergetycznym, energia cieplna lub chłodnicza przez sieci dystrybucji energii cieplnej lub chłodniczej, podatnik ten nie jest zarejestrowany zgodnie z art. 96 ust. 4,
+    - **b)** nabywcą jest: – w przypadku nabycia gazu w systemie gazowym, energii elektrycznej w systemie elektroenergetycznym, energii cieplnej lub chłodniczej przez sieci dystrybucji energii cieplnej lub chłodniczej – podmiot zarejestrowany zgodnie z art. 96 ust. 4 lub art. 97 ust. 4, – w pozostałych przypadkach – podatnik, o którym mowa w art. 15, posiadający siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej na terytorium kraju lub osoba prawna niebędąca podatnikiem, o którym mowa w art. 15, posiadająca siedzibę na terytorium kraju i zarejestrowana zgodnie z art. 97 ust. 4,
+    - **c)** dostawa towarów nie jest dokonywana w ramach sprzedaży wysyłkowej na terytorium kraju;”, – pkt 7 i 8 otrzymują brzmienie: „7) nabywające towary wymienione w załączniku nr 11 do ustawy, jeżeli łącznie spełnione są następujące warunki:
+    - **a)** dokonującym ich dostawy jest podatnik, o którym mowa w art.
+    - **b)** nabywcą jest podatnik, o którym mowa w art. 15,
+    - **c)** dostawa nie jest objęta zwolnieniem, o którym mowa w art. 43 ust. 1 pkt 2;
+
+- **8)** nabywające usługi w zakresie przenoszenia uprawnień do emisji gazów cieplarnianych, o których mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. Nr 122, poz. 695), jeżeli łącznie spełnione są następujące warunki: 113 ust. 1 i 9,
+    - **a)** usługodawcą jest podatnik, o którym mowa w art. 15, u którego sprzedaż nie jest zwolniona od podatku na podstawie art.
+    - **b)** usługobiorcą jest podatnik, o którym mowa w art. 15;”,
+    - **b)** ust. 1a otrzymuje brzmienie: „1a. Przepisy ust. 1 pkt 4 i 5 oraz ust. 2 stosuje się również, w przypadku gdy usługodawca lub dokonujący dostawy towarów posiada stałe miejsce prowadzenia działalności gospodarczej na terytorium kraju, przy czym to stałe miejsce prowadzenia działalności gospodarczej lub inne miejsce prowadzenia działalności gospodarczej usługodawcy lub dokonującego dostawy towarów, jeżeli usługodawca lub dokonujący dostawy towarów posiada takie inne miejsce prowadzenia działalności gospodarczej na terytorium kraju, nie uczestniczy w tych transakcjach.”,
+    - **c)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. W przypadku gdy podmioty, o których mowa w ust. 1 pkt 1, ustanowiły przedstawiciela podatkowego, o którym mowa w art. 18d ust. 1, podatnikiem jest ten przedstawiciel podatkowy – w zakresie, w jakim działa w imieniu własnym na rzecz tych podmiotów.”,
+    - **d)** uchyla się ust. 3 i 3a,
+    - **e)** uchyla się ust. 5–7;
+
+- **15)** po art. 18 dodaje się rozdział 2 w brzmieniu: „Rozdział 2 Przedstawiciele podatkowi
 
 **Art. 18a.**
 
@@ -415,6 +488,9 @@ source: "isap-pdf"
 
 **Art. 106c.** Faktury dokumentujące dostawę towarów, o której mowa w art. 18, z tytułu której na dłużniku ciąży obowiązek podatkowy, wystawiają w imieniu i na rzecz dłużnika:
 
+- **1)** organy egzekucyjne określone w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji;
+- **2)** komornicy sądowi wykonujący czynności egzekucyjne w rozumieniu przepisów Kodeksu postępowania cywilnego.
+
 **Art. 106d.**
 
 1. Podmiot, o którym mowa w art. 106b ust. 1 pkt 1, nabywający towary lub usługi od podatnika może wystawiać w imieniu i na rzecz tego podatnika faktury:
@@ -497,7 +573,7 @@ source: "isap-pdf"
 
 - **1)** dane, o których mowa w art. 106e ust. 1 pkt 1–6;
 - **2)** otrzymaną kwotę zapłaty;
-- **3)** kwotę podatku wyliczoną według wzoru: ZB x SP KP = ------------------100 + SP gdzie: KP ZB SP – oznacza kwotę podatku, – oznacza kwotę otrzymanej całości lub części zapłaty, – oznacza stawkę podatku;
+- **3)** kwotę podatku wyliczoną według wzoru: ZB x SP KP = ------------------100 + SP gdzie: KP – oznacza kwotę podatku, ZB – oznacza kwotę otrzymanej całości lub części zapłaty, SP – oznacza stawkę podatku;
 - **4)** dane dotyczące zamówienia lub umowy, a w szczególności: nazwę (rodzaj) towaru lub usługi, cenę jednostkową netto, ilość zamówionych towarów, wartość zamówionych towarów lub usług bez kwoty podatku, stawki podatku, kwoty podatku oraz wartość zamówienia lub umowy z uwzględnieniem kwoty podatku.
 
 2. Przepisy art. 106e ust. 1 pkt 16–21 i 24 oraz ust. 2–6, 10 i 11 stosuje się odpowiednio.
@@ -646,19 +722,156 @@ source: "isap-pdf"
 
 **Art. 106o.** Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, przypadki, w których faktury mogą zawierać zakres danych węższy niż określony w art. 106e, oraz zakres tych danych, uwzględniając:
 
+- **1)** konieczność zapewnienia odpowiedniego dokumentowania dostawy towarów lub świadczenia usług i identyfikacji czynności dokonanych przez niektóre kategorie podatników;
+- **2)** niską wartość transakcji lub specyfikę niektórych rodzajów działalności związaną z liczbą lub rodzajem wykonywanych czynności.
+
 **Art. 106p.** Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, w odniesieniu do niektórych rodzajów towarów lub usług, inny niż określony w art. 31a ust. 1 sposób przeliczania wykazywanych na fakturach kwot w walutach obcych, stosowanych do określenia podstawy opodatkowania, z uwzględnieniem specyfiki rozliczania należności z tytułu dostaw tych towarów lub świadczenia tych usług.
 
 **Art. 106q.** Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, późniejsze niż określone w art. 106i terminy wystawiania faktur, uwzględniając specyfikę niektórych rodzajów działalności związaną z liczbą lub rodzajem wykonywanych czynności.”;
 
+- **51)** w art. 109:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Podatnicy, u których sprzedaż jest zwolniona od podatku na podstawie art. 113 ust. 1 i 9, są obowiązani prowadzić ewidencję sprzedaży za dany dzień, nie później jednak niż przed dokonaniem sprzedaży w dniu następnym.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Podatnicy, z wyjątkiem podatników wykonujących wyłącznie czynności zwolnione od podatku na podstawie art. 43 ust. 1 lub przepisów wydanych na podstawie art. 82 ust. 3 oraz podatników, u których sprzedaż jest zwolniona od podatku na podstawie art. 113 ust. 1 i 9, są obowiązani prowadzić ewidencję zawierającą: kwoty określone w art. 90, dane niezbędne do określenia przedmiotu i podstawy opodatkowania, wysokość podatku należnego, kwoty podatku naliczonego obniżające kwotę podatku należnego oraz kwotę podatku podlegającą wpłacie do urzędu skarbowego lub zwrotowi z tego urzędu oraz inne dane służące do prawidłowego sporządzenia deklaracji podatkowej, a w przypadkach określonych w art. 120 ust. 15, art. 125, art. 134 oraz art. 138 – dane określone tymi przepisami niezbędne do prawidłowego sporządzenia deklaracji podatkowej.”,
+    - **c)** w ust. 3a zdanie drugie otrzymuje brzmienie: „W przypadku usług, do których stosuje się art. 28b, stosuje się odpowiednio przepisy art. 19a ust. 1–3 i 8.”;
+
+- **52)** w art. 111:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Do obrotu wykazywanego w ewidencji, o której mowa w ust. 1, nie wlicza się kwoty podatku należnego.”,
+    - **b)** w ust. 3a: – pkt 1 otrzymuje brzmienie: „1) dokonywać wydruku paragonu fiskalnego lub faktury z każdej sprzedaży oraz wydawać wydrukowany dokument nabywcy;”, – pkt 8 otrzymuje brzmienie: „8) dokonywać wydruku emitowanych przez kasę rejestrującą dokumentów i ich kopii;”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. W przypadku gdy podatnik rozpoczął ewidencjonowanie obrotu w obowiązujących terminach i wykonuje wyłącznie czynności zwolnione od podatku lub jest podatnikiem, u którego sprzedaż jest zwolniona od podatku na podstawie art. 113 ust. 1 i 9, urząd skarbowy dokonuje zwrotu kwoty określonej w ust. 4 na rachunek bankowy podatnika w banku mającym siedzibę na terytorium kraju lub na rachunek podatnika w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem, w terminie do 25. dnia od dnia złożenia wniosku przez podatnika.”,
+    - **d)** ust. 6c otrzymuje brzmienie: „6c. Potwierdzenie, o którym mowa w ust. 6b, wydaje się na czas określony i może być ono cofnięte w przypadku wprowadzenia do obrotu kas rejestrujących niespełniających funkcji, kryteriów i warunków technicznych, które muszą spełniać kasy rejestrujące, lub niezgodnych z egzemplarzem wzorcowym kasy lub dokumentami dołączanymi do wniosku o wydanie tego potwierdzenia.”;
+
+- **53)** art. 112 otrzymuje brzmienie: „Art.112. Podatnicy są obowiązani przechowywać ewidencje prowadzone dla celów rozliczania podatku oraz wszystkie dokumenty, w szczególności faktury, związane z tym rozliczaniem do czasu upływu terminu przedawnienia zobowiązania podatkowego.”;
+- **54)** po art. 112 dodaje się art. 112a w brzmieniu: „Art. 112a. 1. Podatnicy przechowują:
+- **1)** wystawione przez siebie lub w swoim imieniu faktury, w tym faktury wystawione ponownie,
+- **2)** otrzymane faktury, w tym faktury wystawione ponownie – w podziale na okresy rozliczeniowe, w sposób zapewniający łatwe ich odszukanie oraz autentyczność pochodzenia, integralność treści i czytelność tych faktur od momentu ich wystawienia lub otrzymania do czasu upływu terminu przedawnienia zobowiązania podatkowego.
+
+2. Podatnicy posiadający siedzibę działalności gospodarczej na terytorium kraju są obowiązani do przechowywania faktur na terytorium kraju.
+
+3. Przepisu ust. 2 nie stosuje się, jeżeli faktury są przechowywane poza terytorium kraju w formie elektronicznej w sposób umożliwiający organowi podatkowemu lub organowi kontroli skarbowej, za pomocą środków elektronicznych, dostęp on-line do tych faktur.
+
+4. Podatnicy zapewniają organowi podatkowemu lub organowi kontroli skarbowej na żądanie, zgodnie z odrębnymi przepisami, bezzwłoczny dostęp do faktur, o których mowa w ust. 1, a w przypadku faktur przechowywanych w formie elektronicznej – również bezzwłoczny ich pobór i przetwarzanie danych w nich zawartych.”;
+
+- **55)** w art. 113:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Zwalnia się od podatku sprzedaż dokonywaną przez podatników, u których wartość sprzedaży nie przekroczyła łącznie w poprzednim roku podatkowym kwoty 150 000 zł. Do wartości sprzedaży nie wlicza się kwoty podatku.
+
+2. Do wartości sprzedaży, o której mowa w ust. 1, nie wlicza się:
+
+- **1)** wewnątrzwspólnotowej dostawy towarów oraz sprzedaży wysyłkowej z terytorium kraju oraz sprzedaży wysyłkowej na terytorium kraju;
+- **2)** odpłatnej dostawy towarów i odpłatnego świadczenia usług, zwolnionych od podatku na podstawie art. 43 ust. 1 lub przepisów wydanych na podstawie art. 82 ust. 3, z wyjątkiem:
+    - **a)** transakcji związanych z nieruchomościami,
+    - **b)** usług, o których mowa w art. 43 ust. 1 pkt 7, 12 i 38–41,
+    - **c)** usług ubezpieczeniowych – jeżeli czynności te nie mają charakteru transakcji pomocniczych;
+
+- **3)** odpłatnej dostawy towarów, które na podstawie przepisów o podatku dochodowym są zaliczane przez podatnika do środków trwałych oraz wartości niematerialnych i prawnych podlegających amortyzacji.”,
+    - **b)** uchyla się ust. 3,
+    - **c)** ust. 4 i 5 otrzymują brzmienie: „4. Podatnicy, o których mowa w ust. 1 i 9, mogą zrezygnować ze zwolnienia określonego w ust. 1 i 9 pod warunkiem pisemnego zawiadomienia o tym zamiarze naczelnika urzędu skarbowego przed początkiem miesiąca, w którym rezygnują ze zwolnienia, a w przypadku podatników rozpoczynających w trakcie roku podatkowego wykonywanie czynności określonych w art. 5, którzy chcą zrezygnować ze zwolnienia od pierwszej wykonanej czynności – przed dniem wykonania tej czynności.
+
+5. Jeżeli wartość sprzedaży zwolnionej od podatku na podstawie ust. 1 przekroczy kwotę, o której mowa w ust. 1, zwolnienie traci moc począwszy od czynności, którą przekroczono tę kwotę.”,
+
+- **d)** uchyla się ust. 6 i 7,
+- **e)** ust. 9–11 otrzymują brzmienie: „9. Zwalnia się od podatku sprzedaż dokonywaną przez podatnika rozpoczynającego w trakcie roku podatkowego wykonywanie czynności określonych w art. 5, jeżeli przewidywana przez niego wartość sprzedaży nie przekroczy, w proporcji do okresu prowadzonej działalności gospodarczej w roku podatkowym, kwoty określonej w ust. 1.
+
+10. Jeżeli faktyczna wartość sprzedaży zwolnionej od podatku na podstawie ust. 9, w proporcji do okresu prowadzonej działalności gospodarczej, przekroczy w trakcie roku podatkowego kwotę określoną w ust. 1, zwolnienie traci moc począwszy od czynności, którą przekroczono tę kwotę.
+
+11. Podatnik, który utracił prawo do zwolnienia sprzedaży od podatku lub zrezygnował z tego zwolnienia, może, nie wcześniej niż po upływie roku, licząc od końca roku, w którym utracił prawo do zwolnienia lub zrezygnował z tego zwolnienia, ponownie skorzystać ze zwolnienia określonego w ust. 1.”,
+
+- **f)** po ust. 11 dodaje się ust. 11a w brzmieniu: „11a. Przepis ust. 11 stosuje się odpowiednio do podatnika będącego osobą fizyczną, który przed zakończeniem działalności gospodarczej utracił prawo do zwolnienia od podatku lub zrezygnował z tego zwolnienia, a następnie rozpoczął ponownie wykonywanie czynności, o których mowa w art. 5.”,
+- **g)** ust. 13 otrzymuje brzmienie: „13. Zwolnień, o których mowa w ust. 1 i 9, nie stosuje się do podatników:
+- **1)** dokonujących dostaw:
+    - **a)** towarów wymienionych w załączniku nr 12 do ustawy,
+    - **b)** towarów opodatkowanych podatkiem akcyzowym, w rozumieniu przepisów o podatku akcyzowym, z wyjątkiem: – energii elektrycznej (PKWiU 35.11.10.0), – wyrobów tytoniowych, – samochodów osobowych, innych niż wymienione w lit. e, zaliczanych przez podatnika, na podstawie przepisów o podatku dochodowym, do środków trwałych podlegających amortyzacji,
+    - **c)** budynków, budowli lub ich części, w przypadkach, o których mowa w art. 43 ust. 1 pkt 10 lit. a i b,
+    - **d)** terenów budowlanych,
+    - **e)** nowych środków transportu;
+
+- **2)** świadczących usługi:
+    - **a)** prawnicze,
+    - **b)** w zakresie doradztwa, z wyjątkiem doradztwa rolniczego związanego z uprawą i hodowlą roślin oraz chowem i hodowlą zwierząt, a także związanego ze sporządzaniem planu zagospodarowania i modernizacji gospodarstwa rolnego,
+    - **c)** jubilerskie;
+
+- **3)** nieposiadających siedziby działalności gospodarczej na terytorium kraju.”,
+    - **h)** uchyla się ust. 14;
+
+- **56)** w art. 117 pkt 1 otrzymuje brzmienie: „1) wystawiania faktur;”;
+- **57)** w art. 119:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Przez marżę, o której mowa w ust. 1, rozumie się różnicę między kwotą, którą ma zapłacić nabywca usługi, a faktycznymi kosztami poniesionymi przez podatnika z tytułu nabycia towarów i usług od innych podatników dla bezpośredniej korzyści turysty; przez usługi dla bezpośredniej korzyści turysty rozumie się usługi stanowiące składnik świadczonej usługi turystyki, a w szczególności transport, zakwaterowanie, wyżywienie, ubezpieczenie.”,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. W przypadku gdy przy świadczeniu usługi turystyki, oprócz usług nabywanych od innych podatników dla bezpośredniej korzyści turysty, podatnik wykonuje we własnym zakresie część świadczeń w ramach tej usługi, zwanych dalej „usługami własnymi”, odrębnie ustala się podstawę opodatkowania dla usług własnych i odrębnie w odniesieniu do usług nabytych od innych podatników dla bezpośredniej korzyści turysty. W celu określenia podstawy opodatkowania dla usług własnych stosuje się odpowiednio przepisy art. 29a.”,
+    - **c)** uchyla się ust. 10;
+
+- **58)** w art. 120: 29a ust. 7;
+    - **a)** w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–8 w brzmieniu: „5) przez kwotę sprzedaży rozumie się całkowitą kwotę, którą podatnik otrzymał lub ma otrzymać z tytułu dostawy towarów od nabywcy lub osoby trzeciej, wliczając w to otrzymane dotacje, subwencje i inne dopłaty bezpośrednio związane z tą dostawą, podatki, cła, opłaty i inne należności o podobnym charakterze oraz koszty dodatkowe, takie jak prowizje, koszty opakowania, transportu i ubezpieczenia, którymi podatnik obciąża nabywcę, z wyłączeniem kwot, o których mowa w art.
+
+- **6)** przez kwotę nabycia rozumie się wszystkie składniki wynagrodzenia, o których mowa w pkt 5, które dostawca towarów otrzymał lub ma otrzymać od podatnika;
+- **7)** przez łączną wartość dostaw rozumie się sumę poszczególnych kwot sprzedaży;
+- **8)** przez łączną wartość nabyć rozumie się sumę poszczególnych kwot nabycia.”, Podatnik może ubiegać się ponownie o skorzystanie z obliczania marży zgodnie z ust. 5 po upływie roku od utraty tego prawa, licząc od końca miesiąca, w którym utracił prawo do rozliczania tą metodą.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. W przypadku podatnika dokonującego dostawy towarów używanych, dzieł sztuki, przedmiotów kolekcjonerskich lub antyków nabytych uprzednio przez tego podatnika w ramach prowadzonej działalności, w celu odprzedaży, podstawą opodatkowania podatkiem jest marża stanowiąca różnicę między kwotą sprzedaży a kwotą nabycia, pomniejszona o kwotę podatku.”,
+    - **c)** uchyla się ust. 6,
+    - **d)** ust. 9 otrzymuje brzmienie: „9. Jeżeli różnica, o której mowa w ust. 7, utrzymuje się przez okres 12 miesięcy, to podatnik traci prawo do obliczania marży zgodnie z ust. 5.
+    - **e)** uchyla się ust. 16;
+
+- **59)** w art. 127 ust. 3 otrzymuje brzmienie: „3. Sprzedawcami nie mogą być podatnicy, u których sprzedaż jest zwolniona od podatku na podstawie art. 113 ust. 1 i 9.”;
+- **60)** w art. 128 ust. 3 otrzymuje brzmienie: „3. Urząd celny potwierdza wywóz towaru na dokumencie, o którym mowa w ust. 2, po sprawdzeniu zgodności danych dotyczących podróżnego zawartych w tym dokumencie z danymi zawartymi w przedstawionym paszporcie lub innym dokumencie stwierdzającym tożsamość.”;
+- **61)** w art. 136 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku gdy w procedurze uproszczonej drugim w kolejności podatnikiem, o którym mowa w art. 135 ust. 1 pkt 4 lit. b i c, jest podatnik wymieniony w art. 15, uznaje się, że wewnątrzwspólnotowe nabycie towarów zostało u niego opodatkowane, jeżeli wystawił on ostatniemu w kolejności podatnikowi VAT fakturę zawierającą, oprócz danych wymienionych w art. 106e, następujące informacje:”;
+- **62)** w art. 138 w ust. 1 w pkt 2 lit. a otrzymuje brzmienie: „a) obrót (bez kwoty podatku) z tytułu dokonania na jego rzecz dostawy w rozumieniu art. 135 ust. 1 pkt 4 lit. a oraz kwotę podatku przypadającą na tę dostawę, która stanowi u niego wewnątrzwspólnotowe nabycie towarów,”;
+- **63)** art. 146c otrzymuje brzmienie: „Art.146c. W okresie, o którym mowa w art. 146a, na potrzeby art. 86 ust. 2 pkt 7, kwotą podatku naliczonego jest kwota stanowiąca równowartość 23% kwoty należnej z tytułu dostawy nowego środka transportu, nie wyższa jednak niż kwota podatku zawartego w fakturze stwierdzającej nabycie tego środka lub dokumencie celnym, albo podatku zapłaconego przez podatnika od wewnątrzwspólnotowego nabycia tego środka.”;
+- **64)** w art. 146h wprowadzenie do wyliczenia otrzymuje brzmienie: „Na potrzeby art. 86 ust. 2 pkt 7 kwotą podatku naliczonego jest kwota stanowiąca równowartość:”;
+- **65)** w załączniku nr 3 do ustawy:
+    - **a)** poz. 24 otrzymuje brzmienie: „24 ex 10.1 Mięso i wyroby z mięsa, zakonserwowane, z wyłączeniem:
+
+- **1)** tłuszczów technicznych,
+- **2)** produktów ubocznych garbarń,
+- **3)** skór i skórek, niejadalnych,
+- **4)** piór, puchu, pierza i skórek ptaków,
+- **5)** wełny szarpanej,
+- **6)** odpadów zwierzęcych surowych, niejadalnych (PKWiU ex
+
+10. 11.60.0) – z wyjątkiem jelit, pęcherzy i żołądków”
+
+- **b)** poz. 52 otrzymuje brzmienie: „52 ex 11.07.19.0 Pozostałe napoje bezalkoholowe – wyłącznie niegazowane napoje:
+- **1)** w których udział masowy soku owocowego, warzywnego lub owocowo-warzywnego wynosi nie mniej niż 20% składu surowcowego,
+- **2)** zawierające tłuszcz mlekowy, z wyłączeniem napojów, przy przygotowywaniu których wykorzystywany jest napar z kawy lub herbaty, niezależnie od udziału procentowego tego naparu w przygotowywanym napoju”
+    - **c)** uchyla się poz. 108–128,
+    - **d)** uchyla się poz. 164–168,
+    - **e)** poz. 169 otrzymuje brzmienie: „169 bez względu na Usługi, inne niż usługi elektroniczne, polegające na umożsymbol PKWiU liwieniu odbioru programów telewizyjnych i radiowych w rozumieniu przepisów o radiofonii i telewizji za pomocą urządzeń odbiorczych, z wyłączeniem usług polegających na wypożyczaniu filmów i audycji w wybranym przez korzystającego z usługi czasie ”
+    - **f)** uchyla się poz. 170–172;
+
+- **66)** w załączniku nr 7 do ustawy w kolumnie pierwszej:
+    - **a)** wyrazy „ex 3706 90 51” zastępuje się wyrazami „ex 3706 90 52”,
+    - **b)** wyrazy „ex 8524” zastępuje się wyrazami „ex 8523”;
+
+- **67)** w załączniku nr 10 do ustawy:
+    - **a)** poz. 17 otrzymuje brzmienie: „17 ex 10.1 Mięso i wyroby z mięsa, zakonserwowane, z wyłączeniem:
+
+- **1)** tłuszczów technicznych,
+- **2)** produktów ubocznych garbarń,
+- **3)** skór i skórek, niejadalnych,
+- **4)** piór, puchu, pierza i skórek ptaków,
+- **5)** wełny szarpanej,
+- **6)** odpadów zwierzęcych surowych, niejadalnych (PKWiU ex 10.11.60.0) – z wyjątkiem jelit, pęcherzy i żołądków”
+    - **b)** poz. 31 otrzymuje brzmienie: „31 ex 11.07.19.0 Pozostałe napoje bezalkoholowe – wyłącznie niegazowane napoje:
+
+- **1)** w których udział masowy soku owocowego, warzywnego lub owocowo-warzywnego wynosi nie mniej niż 20% składu surowcowego,
+- **2)** zawierające tłuszcz mlekowy, z wyłączeniem napojów, przy przygotowywaniu których wykorzystywany jest napar z kawy lub herbaty, niezależnie od udziału procentowego tego naparu w przygotowywanym napoju”
+- **68)** dodaje się załącznik nr 12 do ustawy w brzmieniu określonym w załączniku do niniejszej ustawy.
+
 **Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm. ) w art. 87 § 1 otrzymuje brzmienie: „§1. Jeżeli z odrębnych przepisów nie wynika obowiązek wystawienia faktury, podatnicy prowadzący działalność gospodarczą są obowiązani, na żądanie kupującego lub usługobiorcy, wystawić rachunek potwierdzający dokonanie sprzedaży lub wykonanie usługi.”.
 
 **Art. 3.** W ustawie z dnia 16 grudnia 2010 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy o transporcie drogowym (Dz. U. Nr 247, poz. 1652, z 2011 r. Nr 102, poz. 585 oraz z 2012 r. poz. 1456) wprowadza się następujące zmiany:
+
+- **1)** w art. 1:
+    - **a)** w art. 1 w pkt 9, w art. 32 w ust. 1 zdanie końcowe otrzymuje brzmienie: „– organ podatkowy określa podstawę opodatkowania zgodnie z wartością rynkową, jeżeli okaże się, że związek ten miał wpływ na ustalenie wynagrodzenia z tytułu dostawy towarów lub świadczenia usług.”,
+    - **b)** w pkt 13 uchyla się lit. b;
+
+- **2)** w art. 9 w pkt 2 skreśla się wyrazy „ , pkt 13 lit. b”.
 
 **Art. 4.** Ustanowienie przedstawiciela podatkowego zgodnie z przepisami dotychczasowymi zachowuje ważność.
 
 **Art. 5.** W okresie od dnia 1 kwietnia 2013 r. do dnia 31 grudnia 2013 r. wewnątrzwspólnotowa dostawa towarów, o której mowa w art. 13 ust. 6 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, występuje, jeżeli dokonującym dostawy jest podatnik, o którym mowa w art. 15 ustawy zmienianej w art. 1, niekorzystający ze zwolnienia od podatku na podstawie art. 113 ust. 1 i 9 tej ustawy.
 
 **Art. 6.** W okresie od dnia 1 kwietnia 2013 r. do dnia 31 grudnia 2013 r.:
+
+- **1)** warunek, o którym mowa w art. 17 ust. 1 pkt 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jest spełniony, jeżeli dokonującym dostawy jest podatnik, o którym mowa w art. 15 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, niekorzystający ze zwolnienia, o którym mowa w art. 113 ust. 1 i 9 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym;
+- **2)** warunek, o którym mowa w art. 17 ust. 1 pkt 8 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jest spełniony, jeżeli usługodawcą jest podatnik, o którym mowa w art. 15 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, niekorzystający ze zwolnienia na podstawie art. 113 ust. 1 i 9 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
 **Art. 7.**
 
@@ -701,5 +914,43 @@ source: "isap-pdf"
 
 **Art. 14.** Ilekroć w odrębnych przepisach jest mowa o „fakturze VAT” lub „fakturze VAT w rozumieniu przepisów o podatku od towarów i usług”, należy przez to rozumieć fakturę, o której mowa w art. 2 pkt 31 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 15.** Ustawa wchodzi w życie z dniem 1 kwietnia 2013 r., z wyjątkiem art. 1 pkt 1 lit. b – w zakresie art. 2 pkt 31 i 32, pkt 6, pkt 8 lit. b, pkt 9, pkt 16–18, 23–28, 31, pkt 32 lit. b, d–f, pkt 33 lit. e–h, pkt 34 lit. a tiret pierwsze, drugie, piąte, siódme i ósme, lit. b, c i e, pkt 37 lit. a tiret drugie, pkt 38 lit. a tiret pierwsze, trzecie, czwarte i piąte oraz lit. b–l, pkt 39, pkt 40 lit. b i d, pkt 41, 42, pkt 43 lit. a, c i d, pkt 44 lit. b–d, pkt 45, pkt 46 lit. a, pkt 47 lit. a i b, pkt 48–51, pkt 52 lit. a i c, pkt 54–56, pkt 57 lit. b i c, pkt 58 lit. a–c i lit. e, pkt 59, pkt 61–64 i 68 oraz art. 2, art. 3, art. 7, art. 8, art. 11 ust. 1, art. 12 i art. 14, które wchodzą w życie z dniem 1 stycznia 2014 r. z dnia 7 grudnia 2012 r. (poz. 35) „Załącznik nr 12 Lista towarów, do których nie mają zastosowania zwolnienia od podatku określone w art. 113 ust. 1 i 9 ustawy Poz. Symbol PKWiU Nazwa towaru (grupy towarów) 1 2 3 Wyroby (złom) z metali szlachetnych lub z udziałem tych metali 1 ex 24.41.10.0 Srebro nieobrobione plastycznie lub w postaci półproduktu, postaci proszku – wyłącznie:
+**Art. 15.** Ustawa wchodzi w życie z dniem 1 kwietnia 2013 r., z wyjątkiem art. 1 pkt 1 lit. b – w zakresie art. 2 pkt 31 i 32, pkt 6, pkt 8 lit. b, pkt 9, pkt 16–18, 23–28, 31, pkt 32 lit. b, d–f, pkt 33 lit. e–h, pkt 34 lit. a tiret pierwsze, drugie, piąte, siódme i ósme, lit. b, c i e, pkt 37 lit. a tiret drugie, pkt 38 lit. a tiret pierwsze, trzecie, czwarte i piąte oraz lit. b–l, pkt 39, pkt 40 lit. b i d, pkt 41, 42, pkt 43 lit. a, c i d, pkt 44 lit. b–d, pkt 45, pkt 46 lit. a, pkt 47 lit. a i b, pkt 48–51, pkt 52 lit. a i c, pkt 54–56, pkt 57 lit. b i c, pkt 58 lit. a–c i lit. e, pkt 59, pkt 61–64 i 68 oraz art. 2, art. 3, art. 7, art. 8, art. 11 ust. 1, art. 12 i art. 14, które wchodzą w życie z dniem 1 stycznia 2014 r. Załącznik do ustawy z dnia 7 grudnia 2012 r. (poz. 35) „Załącznik nr 12 Lista towarów, do których nie mają zastosowania zwolnienia od podatku określone w art. 113 ust. 1 i 9 ustawy Poz. Symbol PKWiU Nazwa towaru (grupy towarów) 1 2 3 Wyroby (złom) z metali szlachetnych lub z udziałem tych metali 1 ex 24.41.10.0 Srebro nieobrobione plastycznie lub w postaci półproduktu, postaci proszku – wyłącznie:
+
+- **1)** proszek srebra,
+- **2)** srebro technicznie czyste,
+- **3)** srebro o wysokiej czystości,
+- **4)** stopy srebra,
+- **5)** srebro (łącznie z pokrytym złotem lub platyną), w postaci produktu, z wyłączeniem srebra (także pokrytego złotem platyną) w postaci folii ze srebra i stopów srebra (w tym pokrytych złotem lub platyną) i półproduktów ze srebra lub ze stopów srebra innych niż w postaci taśm, pasów, blach, drutów, prętów, kształtowników, rur 2 ex 24.41.20.0 Złoto nieobrobione plastycznie lub w postaci półproduktu, postaci proszku – wyłącznie:
+- **1)** proszek złota,
+- **2)** złoto technicznie czyste,
+- **3)** złoto o wysokiej czystości,
+- **4)** złoto (także pokryte platyną), w postaci półproduktu, z wyłączeniem złota (także pokrytego platyną) w postaci folii ze złota stopów złota (także pokrytych platyną) i półproduktów ze lub ze stopów złota innych niż w postaci blach, taśm, pasów, drutów, prętów, rur 3 ex 24.41.30.0 Platyna nieobrobiona plastycznie lub w postaci półproduktu, postaci proszku – wyłącznie:
+- **1)** proszek platyny,
+- **2)** proszek palladu,
+- **3)** proszek irydu,
+- **4)** proszek rodu,
+- **5)** platyna technicznie czysta,
+- **6)** pallad technicznie czysty,
+- **7)** iryd technicznie czysty,
+- **8)** rod technicznie czysty,
+- **9)** platyna o wysokiej czystości,
+- **10)** pallad o wysokiej czystości,
+- **11)** iryd o wysokiej czystości,
+- **12)** rod o wysokiej czystości,
+- **13)** platyna w postaci półproduktu, z wyłączeniem platyny staci folii z platyny, palladu, irydu, osmu, rodu i rutenu stopów tych metali, oraz półproduktów z tych metali i ich pów innych niż w postaci blach, taśm, pasów, drutów, prętów, rur 4 ex 25.71.11.0 Noże (z wyłączeniem noży do maszyn) i nożyczki oraz ostrza nich – wyłącznie: noże stołowe z ostrzami stałymi, srebrzone czej niż platerowane 5 ex 25.71.14.0 Łyżki, widelce, łyżki wazowe, cedzaki, łopatki do nakładania tów, noże do ryb, noże do masła, szczypce do cukru i podobne tykuły kuchenne lub stołowe – wyłącznie nakrycia stołowe brzone inaczej niż platerowane 6 32.11.10.0 Monety 7 ex 32.12 Wyroby jubilerskie i podobne, z wyłączeniem:
+- **1)** kamieni syntetycznych, szlachetnych lub półszlachetnych, bionych, lecz nieoprawionych (PKWiU ex 32.12.11.0),
+- **2)** pyłu i proszku z pozostałych naturalnych lub syntetycznych mieni szlachetnych lub półszlachetnych (PKWiU
+
+32. 12.12.0),
+
+- **3)** dewocjonaliów wykonanych z metali innych niż metale chetne,
+- **4)** wyrobów kultu religijnego 8 ex 32.99.59.0 Pozostałe różne wyroby, gdzie indziej niesklasyfikowane – łącznie wyroby z bursztynu 9 ex 38.11.58.0 Odpady inne niż niebezpieczne zawierające metal – wyłącznie:
+- **1)** złom złota i stopy złota,
+- **2)** odpady srebra,
+- **3)** złom srebra,
+- **4)** stopy srebra,
+- **5)** złom platyny i stopy platyny,
+- **6)** złom palladu i stopy palladu,
+- **7)** złom irydu i stopy irydu 10 ex 91.02.20.0 Zbiory muzealne – wyłącznie dawna biżuteria artystyczna”
+
 

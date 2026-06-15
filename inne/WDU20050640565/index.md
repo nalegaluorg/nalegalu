@@ -8,7 +8,7 @@ pos: 565
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o informatyzacji działalności podmiotów realizujących zadania publiczne
@@ -33,6 +33,21 @@ Art. 53–60. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady:
+
+- **1)** (uchylony) 1a) funkcjonowania Architektury Informacyjnej Państwa, 1b) funkcjonowania repozytorium interoperacyjności,
+- **2)** zapewniania warunków sprawnego funkcjonowania oraz współdziałania systemów teleinformatycznych używanych do realizacji zadań publicznych – w sposób gwarantujący neutralność technologiczną i otwartość używanych standardów i specyfikacji, w tym wynikających z:
+    - **a)** Krajowych Ram Interoperacyjności,
+    - **b)** minimalnych wymagań dla systemów teleinformatycznych używanych do realizacji zadań publicznych i wymiany danych z podmiotami publicznymi,
+    - **c)** minimalnych wymagań dla rejestrów publicznych,
+
+- **3)** dostosowywania systemów teleinformatycznych używanych do realizacji zadań publicznych do Krajowych Ram Interoperacyjności oraz do minimalnych wymagań dla systemów teleinformatycznych używanych do realizacji zadań publicznych i wymiany danych z podmiotami publicznymi – w sposób gwarantujący neutralność technologiczną i otwartość używanych standardów i specyfikacji,
+- **4)** dostosowywania rejestrów publicznych do Krajowych Ram Interoperacyjności oraz do minimalnych wymagań dla rejestrów publicznych – w sposób gwarantujący neutralność technologiczną i otwartość używanych standardów i specyfikacji,
+- **5)** kontroli realizacji przedsięwzięć informatycznych o publicznym zastosowaniu, systemów teleinformatycznych używanych do realizacji zadań publicznych i wymiany danych z podmiotami publicznymi oraz rejestrów publicznych,
+- **6)** wymiany danych między podmiotami publicznymi a podmiotami niebędącymi podmiotami publicznymi,
+- **7)** ustalania i publikacji specyfikacji rozwiązań stosowanych w oprogramowaniu umożliwiającym łączenie i wymianę informacji, w tym przesłanie dokumentów elektronicznych, pomiędzy systemami teleinformatycznymi podmiotów publicznych a systemami podmiotów niebędącymi podmiotami publicznymi,
+- **8)** funkcjonowania elektronicznej platformy usług administracji publicznej, zwanej dalej „ePUAP”,
+- **9)** funkcjonowania centralnego repozytorium wzorów dokumentów elektronicznych, 9a) funkcjonowania publicznego systemu identyfikacji elektronicznej, 9b) świadczenia usługi podpisu zaufanego, 9c) funkcjonowania zintegrowanej platformy analitycznej, 9d) funkcjonowania Komitetu do spraw Cyfryzacji, 9e) inwentaryzacji systemów teleinformatycznych używanych do realizacji zadań publicznych
+- **10)** (uchylony) – w celu ochrony interesu publicznego, w tym zachowania przez Państwo możliwości swobody wyboru technologii w procesach informatyzacji realizacji zadań publicznych.
 
 **Art. 2.**
 
@@ -61,7 +76,77 @@ Art. 53–60. (pominięte)
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
 
+- **1)** informatyczny nośnik danych – materiał lub urządzenie służące do zapisywania, przechowywania i odczytywania danych w postaci cyfrowej;
+- **2)** dokument elektroniczny – stanowiący odrębną całość znaczeniową zbiór danych uporządkowanych w określonej strukturze wewnętrznej i zapisany na informatycznym nośniku danych;
+- **3)** system teleinformatyczny – zespół współpracujących ze sobą urządzeń informatycznych i oprogramowania zapewniający przetwarzanie, przechowywanie, a także wysyłanie i odbieranie danych przez sieci telekomunikacyjne za pomocą właściwego dla danego rodzaju sieci telekomunikacyjnego urządzenia końcowego w rozumieniu przepisów ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
+- **4)** środki komunikacji elektronicznej – środki komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513);
+- **5)** rejestr publiczny – uporządkowany zbiór danych służący do realizacji zadań publicznych, prowadzony na podstawie przepisów ustawowych przez podmiot realizujący zadania publiczne;
+- **6)** przedsięwzięcie informatyczne o publicznym zastosowaniu – zespół działań organizacyjnych i technicznych służących do realizacji zadań publicznych za pomocą środków komunikacji elektronicznej, obejmujących co najmniej jedno z następujących działań:
+    - **a)** budowę systemu teleinformatycznego używanego do realizacji zadania publicznego, w tym umożliwiającego wymianę danych z podmiotami publicznymi,
+    - **b)** utworzenie rejestru publicznego,
+    - **c)** udostępnianie w postaci elektronicznej zasobu informacyjnego podmiotu publicznego,
+    - **d)** wdrożenie usługi służącej do realizacji zadań publicznych,
+    - **e)** budowę infrastruktury teleinformatycznej, w tym telekomunikacyjnej,
+    - **f)** rozszerzenie zakresu, zmianę funkcjonalności lub zmianę technologiczną produktów powstałych w wyniku działań, o których mowa w lit. a–e,
+    - **g)** utrzymanie produktów powstałych w wyniku działań, o których mowa w lit. a–e,
+    - **h)** wsparcie rozwoju społeczeństwa informacyjnego;
+
+- **6a)** założenia przedsięwzięcia informatycznego o publicznym zastosowaniu – ogólny plan przedsięwzięcia informatycznego o publicznym zastosowaniu zawierający w szczególności informacje o:
+    - **a)** zakresie przedsięwzięcia, w tym produktach powstałych w wyniku działań przedsięwzięcia,
+    - **b)** harmonogramie realizacji przedsięwzięcia,
+    - **c)** kosztach i planowanych źródłach finansowania przedsięwzięcia,
+    - **d)** uwarunkowaniach i otoczeniu związanych z realizacją przedsięwzięcia,
+    - **e)** ryzyku związanym z realizacją przedsięwzięcia,
+    - **f)** sposobie i kosztach utrzymania produktów powstałych w wyniku działań przedsięwzięcia oraz ryzyku związanym z tym utrzymaniem;
+
+- **7)** (uchylony)
+- **8)** (uchylony)
+- **9)** minimalne wymagania dla systemów teleinformatycznych używanych do realizacji zadań publicznych i wymiany danych z podmiotami publicznymi – zespół wymagań, których spełnienie przez system teleinformatyczny używany do realizacji zadań publicznych umożliwia wymianę danych z innymi systemami teleinformatycznymi używanymi do realizacji zadań publicznych oraz zapewnia dostęp do danych udostępnianych za pomocą tego systemu;
+- **10)** minimalne wymagania dla rejestrów publicznych – zespół wymagań służących do zapewnienia spójności prowadzenia rejestrów publicznych, a także zapewnienia wiarygodności, jednoznaczności, aktualności, kompletności i dostępności danych gromadzonych w tych rejestrach;
+- **11)** oprogramowanie interfejsowe – oprogramowanie umożliwiające łączenie i wymianę danych w komunikacji pomiędzy systemami teleinformatycznymi;
+- **11a)** interfejs programistyczny aplikacji – interfejs programistyczny aplikacji, o którym mowa w art. 2 pkt 9 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524);
+- **12)** testy akceptacyjne – udokumentowane wartości danych wejściowych wprowadzanych do systemu teleinformatycznego i powiązanych z nimi wartości oczekiwanych danych wyjściowych, opisujące zestawy poprawnych odpowiedzi systemu teleinformatycznego na podawane dane wejściowe, pozwalające na sprawdzenie poprawności wdrożenia oprogramowania interfejsowego;
+- **13)** elektroniczna platforma usług administracji publicznej – system teleinformatyczny, w którym instytucje publiczne udostępniają usługi przez pojedynczy punkt dostępowy w sieci Internet;
+- **14)** profil zaufany – środek identyfikacji elektronicznej zawierający zestaw danych identyfikujących i opisujących osobę fizyczną, która posiada pełną albo ograniczoną zdolność do czynności prawnych, który został wydany w sposób, o którym mowa w art. 20c albo art. 20cb;
+- **14a)** podpis zaufany – podpis elektroniczny, którego autentyczność i integralność są zapewniane przy użyciu pieczęci elektronicznej ministra właściwego do spraw informatyzacji, zawierający:
+    - **a)** dane identyfikujące osobę, ustalone na podstawie środka identyfikacji elektronicznej wydanego w systemie, o którym mowa w art. 20aa ust. 1 pkt 1, obejmujące: – imię (imiona), – nazwisko, – numer PESEL,
+    - **b)** identyfikator środka identyfikacji elektronicznej, przy użyciu którego został złożony,
+    - **c)** czas jego złożenia;
+
+- **14b)** profil osobisty – środek identyfikacji elektronicznej, o którym mowa w art. 2 ust. 1 pkt 10 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2022 r. poz. 671, z 2023 r. poz. 1234 i 1941 oraz z 2025 r. poz. 1006 i 1077);
+- **14c)** profil mObywatel – środek identyfikacji elektronicznej, o którym mowa w art. 2 pkt 11 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019);
+- **15)** (uchylony)
+- **16)** (uchylony) [17) elektroniczna skrzynka podawcza – dostępny publicznie środek komunikacji elektronicznej służący do przekazywania dokumentu elektronicznego do podmiotu publicznego przy wykorzystaniu powszechnie dostępnego systemu teleinformatycznego;]
+- **18)** interoperacyjność – zdolność podmiotów do współdziałania przez wymianę danych za pomocą środków komunikacji elektronicznej;
+- **19)** neutralność technologiczna – zasada równego traktowania przez władze publiczne technologii teleinformatycznych i tworzenia warunków do ich uczciwej konkurencji, w tym zapobiegania możliwości eliminacji technologii konkurencyjnych przy rozbudowie i modyfikacji eksploatowanych systemów teleinformatycznych lub przy tworzeniu konkurencyjnych produktów i rozwiązań; [20) urzędowe poświadczenie odbioru – dane elektroniczne powiązane z dokumentem elektronicznym doręczonym podmiotowi publicznemu lub przez niego doręczanym w sposób zapewniający rozpoznawalność późniejszych zmian dokonanych w tych danych, określające:
+    - **a)** pełną nazwę podmiotu publicznego, któremu doręczono dokument elektroniczny lub który doręcza dokument,
+    - **b)** datę i godzinę wprowadzenia albo przeniesienia dokumentu elektronicznego do systemu teleinformatycznego podmiotu publicznego – w odniesieniu do dokumentu doręczanego podmiotowi publicznemu,
+    - **c)** datę i godzinę podpisania urzędowego poświadczenia odbioru przez adresata z użyciem mechanizmów, o których mowa w art. 20a ust. 1 albo 2 – w odniesieniu do dokumentu doręczanego przez podmiot publiczny,
+    - **d)** datę i godzinę wytworzenia urzędowego poświadczenia odbioru;]
+
+- **21)** Krajowe Ramy Interoperacyjności – zestaw wymagań organizacyjnych, semantycznych oraz technicznych dotyczących interoperacyjności;
+- **22)** użytkownik – osobę fizyczną korzystającą z systemów teleinformatycznych;
+- **23)** katalog usług – rejestr, udostępniony na elektronicznej platformie usług administracji publicznej, zawierający informacje o usługach udostępnianych przez podmioty publiczne;
+- **24)** wzór dokumentu elektronicznego – zbiór danych określających zestaw, sposób oznaczania oraz wymagalność elementów treści i metadanych dokumentu elektronicznego, a także mogących określać sposób zapisu danych dla wskazanych elementów oraz kolejność i sposób wyświetlania na ekranie lub drukowania poszczególnych elementów (wizualizacji);
+- **25)** formularz elektroniczny – oprogramowanie służące do przygotowania i wygenerowania dokumentu elektronicznego zgodnego z odpowiadającym mu wzorem dokumentu elektronicznego, mogące stanowić część usługi udostępnionej na ePUAP lub w innym systemie teleinformatycznym;
+- **26)** zakres użytkowy dokumentu elektronicznego – dane zawarte w dokumencie elektronicznym niezbędne do załatwienia określonego rodzaju spraw za pośrednictwem usługi udostępnionej na ePUAP lub w innym systemie teleinformatycznym;
+- **27)** autoryzacja – przydzielenie osobie fizycznej lub prawnej, uprawnień w systemie teleinformatycznym po jej pozytywnym uwierzytelnieniu lub potwierdzenie woli realizacji czynności w postaci elektronicznej przez uwierzytelnionego użytkownika za pomocą dodatkowych danych;
+- **28)** model architektoniczny – odwzorowanie obiektów, w szczególności usług, procesów, systemów, danych oraz sposobów ich powiązania, identyfikujące kluczowe komponenty funkcjonalne, które zapewniają realizację zadań publicznych za pomocą środków komunikacji elektronicznej;
+- **29)** Architektura Informacyjna Państwa – metodę zarządzania informatyzacją państwa realizującą cele strategii, o której mowa w art. 12aa ust. 1, opartą na modelach architektonicznych i obejmującą zasady podstawowe, zwane dalej „pryncypiami”, standardy, wytyczne i rekomendacje architektoniczne;
+- **30)** metadane – metadane, o których mowa w art. 2 pkt 10 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego;
+- **31)** środki Unii Europejskiej – środki, o których mowa w:
+    - **a)** art. 5 ust. 3 pkt 1, 2, 4, 5 i 6 oraz art. 202 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych,
+    - **b)** art. 3b oraz art. 14ll ust. 1 i 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198);
+
+- **32)** środki z innych źródeł zagranicznych – środki, o których mowa w art. 5 ust. 1 pkt 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
 **Art. 4.** Przepisy ustawy nie naruszają:
+
+- **1)** przepisów o ochronie danych osobowych;
+- **2)** ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209);
+- **2a)** obowiązku korzystania przy realizacji zadań publicznych z poczty elektronicznej wykorzystującej mechanizmy, o których mowa w art. 24 ust. 1 ustawy z dnia 28 lipca 2023 r. o zwalczaniu nadużyć w komunikacji elektronicznej (Dz. U. z 2024 r. poz. 1803);
+- **3)** obowiązków wynikających z potrzeby współpracy z systemami teleinformatycznymi i rejestrami organów innych państw lub organizacji międzynarodowych;
+- **4)** obowiązków wynikających z umów międzynarodowych, jak również umów o członkostwo w instytucjach międzynarodowych, w przypadku gdy prawo danego podmiotu do członkostwa w instytucjach międzynarodowych zostało zagwarantowane aktem prawnym o mocy ustawy.
 
 **Art. 4a.**
 
@@ -130,6 +215,51 @@ Art. 53–60. (pominięte)
 
 **Art. 12a.** (uchylony) Art. 12aa. 1. Rada Ministrów przyjmuje, w drodze uchwały, strategię dotyczącą informatyzacji państwa, zwaną dalej „strategią”. 2. Strategia określa:
 
+- **1)** aktualny stan informatyzacji państwa;
+- **2)** wizję informatyzacji państwa;
+- **3)** cele informatyzacji państwa;
+- **4)** środki i działania służące do realizacji celów informatyzacji państwa;
+- **5)** sposoby i zasady współpracy podmiotów, których dotyczy informatyzacja państwa;
+- **6)** możliwości finansowania działań, o których mowa w pkt 4. Art. 12ab. Strategia jest przyjmowana na okres dziesięcioletni. Art. 12ac. 1. Strategię realizują członkowie Rady Ministrów.
+
+2. Minister właściwy do spraw informatyzacji monitoruje realizację strategii. Art. 12ad. 1. Minister właściwy do spraw informatyzacji we współpracy z innymi członkami Rady Ministrów dokonuje przeglądu strategii co 2 lata.
+
+2. Minister właściwy do spraw informatyzacji sporządza sprawozdanie z przeglądu strategii i przedkłada je Radzie Ministrów w terminie 2 miesięcy od dnia zakończenia przeglądu. Art. 12ae. 1. W urzędzie obsługującym ministra kierującego działem administracji rządowej oraz w Kancelarii Prezesa Rady Ministrów powołuje się pełnomocnika do spraw informatyzacji, zwanego dalej „pełnomocnikiem”. Przepisów art. 4a ust. 1 i 6 nie stosuje się.
+
+2. Pełnomocnika można powołać w urzędzie innym niż urzędy wymienione w ust. 1, w szczególności w urzędzie obsługującym organ jednostki samorządu terytorialnego.
+
+3. Do zadań pełnomocnika należy:
+
+- **1)** koordynowanie realizacji strategii w zakresie spraw objętych działem administracji rządowej kierowanym przez właściwego ministra, w tym w zakresie spraw należących do właściwości jednostek organizacyjnych lub organów podległych temu ministrowi lub przez niego nadzorowanych, albo w zakresie spraw należących do właściwości Kancelarii Prezesa Rady Ministrów, w tym w zakresie spraw należących do właściwości jednostek organizacyjnych lub organów podległych Prezesowi Rady Ministrów lub przez niego nadzorowanych;
+- **2)** diagnozowanie obszaru, w którym jest konieczne wprowadzenie zmian w zakresie spraw objętych działem administracji rządowej kierowanym przez właściwego ministra, w tym w zakresie spraw należących do właściwości jednostek organizacyjnych lub organów podległych temu ministrowi lub przez niego nadzorowanych, albo w zakresie spraw należących do właściwości Kancelarii Prezesa Rady Ministrów, w tym w zakresie spraw należących do właściwości jednostek organizacyjnych lub organów podległych Prezesowi Rady Ministrów lub przez niego nadzorowanych – pod względem realizacji strategii oraz wprowadzania nowych technologii cyfrowych;
+- **3)** wsparcie merytoryczne w procesie uzgadniania projektów aktów normatywnych kierowanych do właściwego ministra w ramach rządowego procesu legislacyjnego;
+- **4)** diagnozowanie potrzeb pracowników zatrudnionych w urzędzie, o którym mowa w ust. 1, w którym powołano pełnomocnika, lub pracowników organów lub jednostek organizacyjnych podległych właściwemu ministrowi albo Prezesowi Rady Ministrów lub przez niego nadzorowanych, przygotowywanie materiałów szkoleniowych i organizowanie szkoleń, a także rozpowszechnianie materiałów szkoleniowych i informacji o dostępnych szkoleniach – w obszarze kompetencji cyfrowych;
+- **5)** tworzenie i upowszechnianie dobrych praktyk wspierających podnoszenie kompetencji cyfrowych pracowników, o których mowa w pkt 4;
+- **6)** przygotowywanie bieżących informacji na temat postępów w realizacji strategii oraz związanego z tym ryzyka i ich przedkładanie ministrowi właściwemu do spraw informatyzacji w celu, o którym mowa w art. 12ac ust. 2;
+- **7)** przygotowywanie informacji z realizacji strategii w celu dokonania przeglądu, o którym mowa w art. 12ad ust. 1;
+- **8)** uczestnictwo we współpracy z innymi podmiotami w zakresie zadań związanych z realizacją strategii;
+- **9)** wspieranie kierownika urzędu, o którym mowa w ust. 1, w którym powołano pełnomocnika, w zakresie zapewnienia zgodności przedsięwzięć informatycznych o publicznym zastosowaniu, które są realizowane przez ten urząd, z pryncypiami, standardami, wytycznymi i rekomendacjami architektonicznymi Architektury Informacyjnej Państwa, Krajowymi Ramami Interoperacyjności, minimalnymi wymaganiami dla systemów teleinformatycznych używanych do realizacji zadań publicznych i wymiany danych z podmiotami publicznymi oraz minimalnymi wymaganiami dla rejestrów publicznych;
+- **10)** koordynowanie przeprowadzania ocen interoperacyjności krajowej, o których mowa w art. 12n ust. 1, oraz ocen interoperacyjności, o których mowa w art. 3 ust. 1 rozporządzenia 2024/903, oraz koordynowanie udostępniania i ponownego wykorzystywania rozwiązań interoperacyjnych, o których mowa w art. 4 ust. 1 rozporządzenia 2024/903, w ramach urzędu, o którym mowa w ust. 1, w którym powołano pełnomocnika;
+- **11)** wykonywanie innych zadań wspierających realizację dokumentów o charakterze strategicznym, polityk i programów rozwoju, związanych z informatyzacją państwa.
+
+4. Do zadań pełnomocnika powołanego w urzędzie innym niż urzędy wymienione w ust. 1 należy:
+
+- **1)** diagnozowanie potrzeb pracowników zatrudnionych w urzędzie innym niż urzędy wymienione w ust. 1, w którym powołano pełnomocnika, przygotowywanie materiałów szkoleniowych i organizowanie szkoleń, a także rozpowszechnianie materiałów szkoleniowych i informacji o dostępnych szkoleniach – w obszarze kompetencji cyfrowych;
+- **2)** tworzenie i upowszechnianie dobrych praktyk wspierających podnoszenie kompetencji cyfrowych pracowników, o których mowa w pkt 1;
+- **3)** wspieranie kierownika urzędu innego niż urzędy wymienione w ust. 1, w którym powołano pełnomocnika, w zakresie zapewnienia zgodności przedsięwzięć informatycznych o publicznym zastosowaniu, które są realizowane przez ten urząd, z pryncypiami, standardami, wytycznymi i rekomendacjami architektonicznymi Architektury Informacyjnej Państwa, Krajowymi Ramami Interoperacyjności, minimalnymi wymaganiami dla systemów teleinformatycznych używanych do realizacji zadań publicznych i wymiany danych z podmiotami publicznymi oraz minimalnymi wymaganiami dla rejestrów publicznych;
+- **4)** koordynowanie przeprowadzania ocen interoperacyjności krajowej, o których mowa w art. 12n ust. 1, oraz ocen interoperacyjności, o których mowa w art. 3 ust. 1 rozporządzenia 2024/903, oraz koordynowanie udostępniania i ponownego wykorzystywania rozwiązań interoperacyjnych, o których mowa w art. 4 ust. 1 rozporządzenia 2024/903, w ramach urzędu innego niż urzędy wymienione w ust. 1, w którym powołano pełnomocnika;
+- **5)** wykonywanie innych zadań związanych z informatyzacją, wskazanych przez kierownika urzędu innego niż urzędy wymienione w ust. 1, w którym powołano pełnomocnika.
+
+5. Pełnomocnika powołuje i odwołuje kierownik urzędu, o którym mowa w ust. 1, albo innego urzędu niż urzędy wymienione w ust. 1, w którym powołano pełnomocnika, spośród osób zatrudnionych w tym urzędzie, które posiadają kompetencje, wiedzę i doświadczenie z zakresu informatyzacji niezbędne do realizacji zadań pełnomocnika.
+
+6. W zakresie wykonywanych zadań pełnomocnik podlega bezpośrednio kierownikowi urzędu, o którym mowa w ust. 1, albo innego urzędu niż urzędy wymienione w ust. 1, w którym powołano pełnomocnika.
+
+7. Obsługę merytoryczną, organizacyjno-prawną, techniczną i kancelaryjno-biurową pełnomocnika zapewnia urząd, o którym mowa w ust. 1, albo inny urząd niż urzędy wymienione w ust. 1, w którym powołano pełnomocnika.
+
+8. Pełnomocnicy są obowiązani do współdziałania oraz współpracy z innymi podmiotami w zakresie realizacji swoich zadań.
+
+9. Pełnomocnik za zgodą kierownika urzędu, o którym mowa w ust. 1, albo innego urzędu niż urzędy wymienione w ust. 1, w którym powołano pełnomocnika, może tworzyć spośród pracowników, o których mowa w ust. 3 pkt 4 lub ust. 4 pkt 1, zespoły do opracowania określonych zagadnień lub wykonania określonych czynności oraz może zlecać przeprowadzanie badań i ekspertyz.
+
 **Art. 12b.** (uchylony)
 
 **Art. 12c.** (uchylony)
@@ -190,6 +320,11 @@ Art. 53–60. (pominięte)
 
 **Art. 12m.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe funkcjonalności repozytorium interoperacyjności,
+- **2)** sposób kategoryzacji informacji przeznaczonych do udostępniania w repozytorium interoperacyjności, w tym kategorie przedmiotowe i statusy funkcjonowania rejestru publicznego w repozytorium interoperacyjności,
+- **3)** szczegółowy sposób prowadzenia repozytorium interoperacyjności,
+- **4)** szczegółowy sposób wykonywania obowiązków przez podmioty realizujące zadania publiczne w zakresie udostępniania danych i informacji w repozytorium interoperacyjności – mając na uwadze potrzebę zapewnienia interoperacyjności, zachowania spójnych standardów prezentacji danych w repozytorium interoperacyjności oraz zapewnienia informacji o danych gromadzonych w rejestrach publicznych i sposobie dostępu do tych danych przetwarzanych w systemach teleinformatycznych używanych do realizacji zadań publicznych.
+
 **Art. 12n.**
 
 1. Podmiot realizujący zadania publiczne przeprowadza ocenę interoperacyjności krajowej każdorazowo przed wprowadzeniem zmian w systemie teleinformatycznym używanym do realizacji zadań publicznych lub w rejestrze publicznym.
@@ -205,6 +340,38 @@ Art. 53–60. (pominięte)
 4. Przepisu ust. 1 nie stosuje się do działań prowadzonych w stosunku do systemów teleinformatycznych używanych do realizacji zadań publicznych oraz do rejestrów publicznych niewpływających na ich interoperacyjność, w szczególności do konserwacji oprogramowania, aktualizacji w zakresie bezpieczeństwa lub aktualizacji technicznych.>
 
 **Art. 13.** [1. Podmiot publiczny używa do realizacji zadań publicznych systemów teleinformatycznych spełniających minimalne wymagania dla systemów teleinformatycznych oraz zapewniających interoperacyjność systemów na zasadach określonych w Krajowych Ramach Interoperacyjności.] <1. Podmiot realizujący zadania publiczne używa do ich realizacji systemów teleinformatycznych:
+
+- **1)** spełniających minimalne wymagania dla systemów teleinformatycznych używanych do realizacji zadań publicznych i wymiany danych z podmiotami publicznymi:
+    - **a)** zapewniających spójność działania tych systemów,
+    - **b)** określających model architektury oraz specyfikacje interfejsu programistycznego aplikacji, zwanego dalej „API”, tych systemów,
+    - **c)** określających formaty danych oraz protokoły komunikacyjne i szyfrujące, przy zachowaniu możliwości nieodpłatnego ich wykorzystania,
+    - **d)** zapewniających sprawną i bezpieczną wymianę danych między podmiotami publicznymi oraz między podmiotami publicznymi a organami innych państw lub organizacji międzynarodowych;
+
+- **2)** zapewniających interoperacyjność zgodnie z Krajowymi Ramami Interoperacyjności obejmującymi zagadnienia dotyczące:
+    - **a)** sposobu postępowania podmiotu realizującego zadania publiczne w zakresie stosowania i wyboru norm, standardów, metod oraz formatów,
+    - **b)** sposobu jej osiągania,
+    - **c)** ocen interoperacyjności krajowej, o których mowa w art. 12n ust. 1;
+
+- **3)** zgodnych z pryncypiami, standardami, wytycznymi i rekomendacjami architektonicznymi Architektury Informacyjnej Państwa.> 1a. Postanowienia ust. 1 nie stosuje się do systemów teleinformatycznych używanych do celów naukowych i dydaktycznych.
+
+2. Podmiot realizujący zadania publiczne z wykorzystaniem systemu teleinformatycznego albo za pomocą środków komunikacji elektronicznej do przekazywania danych między tym podmiotem a podmiotem niebędącym organem administracji rządowej:
+
+- **1)** zapewnia spełnianie przez system teleinformatyczny służący do wymiany danych, poza wymaganiami, o których mowa w ust. 1, wymogu równego traktowania rozwiązań informatycznych;
+- **2)** udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej:
+    - **a)** (uchylona)
+    - **b)** testy akceptacyjne, z zastrzeżeniem ust. 4.
+
+3. (uchylony)
+
+4. Podmiot realizujący zadania publiczne może nie udostępniać testów akceptacyjnych, jeżeli w oprogramowaniu interfejsowym mają być stosowane wyłącznie formaty danych oraz protokoły komunikacyjne i szyfrujące określone w przepisach wydanych na podstawie art. 18. <5. Podmiot realizujący zadania publiczne przygotowuje następujące informacje o API systemu teleinformatycznego używanego do realizacji zadań publicznych:
+
+- **1)** informacje o punktach dostępowych API,
+- **2)** skrócony opis API,
+- **3)** dokumentację API, zawierającą w szczególności opis struktur dokumentów elektronicznych, formatów danych oraz protokołów komunikacyjnych i szyfrujących,
+- **4)** opis sposobów integracji z API,
+- **5)** informację o gwarantowanym poziomie dostępności API,
+- **6)** informację o sposobie dostępu do danych w przypadku czasowej niedostępności API dłuższej niż wynikająca z informacji, o której mowa w pkt 5,
+- **7)** statystyki użycia API – i zapewnia ich aktualność.>
 
 **Art. 13a.** Podmioty publiczne, o których mowa w art. 2 ust. 1, służby specjalne w rozumieniu art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, Kancelaria Sejmu, Kancelaria Senatu, Kancelaria Prezydenta Rzeczypospolitej Polskiej, Narodowy Bank Polski, agencje wykonawcze w rozumieniu art. 18 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz podmioty, o których mowa w art. 2 ust. 4, niewskazane wprost w art. 2 ust. 1, uprawnione do wykonywania praw majątkowych do programu komputerowego stworzonego przez pracowników w ramach wykonywania obowiązków ze stosunku pracy świadczonej na rzecz tych podmiotów, mogą umożliwić sobie wzajemnie nieodpłatne korzystanie z tego programu komputerowego. Art. 13aa. (uchylony)
 
@@ -428,6 +595,16 @@ Art. 53–60. (pominięte)
 2. Przepisu ust. 1 nie stosuje się do przedsięwzięcia informatycznego o publicznym zastosowaniu, które nie rozszerza zakresu produktów działań przedsięwzięcia informatycznego, które uzyskało pozytywną opinię Komitetu, o której mowa w ust. 1, nie zmienia funkcjonalności tych produktów lub nie wprowadza w nich zmiany technologicznej oraz którego koszty różnią się o nie więcej niż 15 % od kosztów przyjętych w ramach tego przedsięwzięcia.
 
 **Art. 17c.** Błąd! Komitet realizuje zadania, o których mowa w art. 17a ust. 1, mając na uwadze zapewnienie w szczególności:
+
+- **1)** zgodności ze strategią;
+- **2)** zgodności ze Strategią Cyberbezpieczeństwa Rzeczypospolitej Polskiej, o której mowa w ustawie z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2024 r. poz. 1077 i 1222 oraz z 2025 r. poz. 1017 i 1069);
+- **3)** zgodności z pryncypiami, standardami, wytycznymi i rekomendacjami architektonicznymi Architektury Informacyjnej Państwa;
+- **4)** zgodności z Krajowymi Ramami Interoperacyjności;
+- **5)** zgodności z minimalnymi wymaganiami dla systemów teleinformatycznych używanych do realizacji zadań publicznych i wymiany danych z podmiotami publicznymi;
+- **6)** zgodności z minimalnymi wymaganiami dla rejestrów publicznych;
+- **7)** optymalizacji warunków udostępniania danych z rejestrów publicznych innym podmiotom publicznym;
+- **8)** zgodności z zasadami doręczania korespondencji określonymi w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841);
+- **9)** zgodności z zasadami otwartości danych określonymi w ustawie z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego.
 
 **Art. 17d.** Komitet, w celu realizacji zadań, o których mowa w art. 17a ust. 1, może podejmować uchwały, w tym uchwały w sprawie rekomendacji i wytycznych dotyczących realizacji przedsięwzięć informatycznych o publicznym zastosowaniu.
 
@@ -757,6 +934,19 @@ Art. 53–60. (pominięte)
 
 **Art. 20d.** Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, warunki:
 
+- **1)** wydawania, przedłużania ważności, wykorzystywania i unieważniania profilu zaufanego, w tym:
+    - **a)** okres ważności profilu zaufanego,
+    - **b)** zbiór danych zawartych w profilu zaufanym, o których mowa w art. 20ad ust. 5,
+    - **c)** przypadki, w których nie dokonuje się potwierdzenia profilu zaufanego,
+    - **d)** przypadki, w których profil zaufany traci ważność,
+    - **e)** warunki przechowywania oraz archiwizowania dokumentów i danych bezpośrednio związanych z potwierdzeniem profilu zaufanego,
+    - **f)** dane i dokumenty wymagane w procedurze potwierdzania, przedłużania ważności i unieważnienia profilu zaufanego,
+    - **g)** warunki, które powinien spełniać punkt potwierdzający profil zaufany,
+    - **h)** warunki organizacyjne i techniczne potwierdzenia profilu zaufanego oraz uwierzytelnień i autoryzacji przy nieodpłatnym wykorzystaniu środka identyfikacji elektronicznej stosowanego do uwierzytelniania w systemie teleinformatycznym banku krajowego lub innego przedsiębiorcy,
+    - **i)** sposób potwierdzania spełniania warunków, o których mowa w lit. h,
+
+- **2)** składania podpisu zaufanego – biorąc pod uwagę konieczność zapewnienia bezpieczeństwa i pewności w procesie uwierzytelnienia i składania podpisu oraz poufności kluczowych elementarnych czynności.
+
 **Art. 20e.**
 
 1. Minister właściwy do spraw informatyzacji przyłącza system teleinformatyczny, w którym są udostępniane usługi online, do systemu, o którym mowa w art. 20aa ust. 1, na wniosek podmiotu odpowiedzialnego za ten system teleinformatyczny, w celu wykorzystywania:
@@ -773,6 +963,19 @@ Art. 53–60. (pominięte)
 **Art. 20f.** (uchylony)
 
 **Art. 20g.** Do systemu, o którym mowa w art. 20aa ust. 1, przyłącza się elektroniczną platformę usług administracji publicznej. Art. 20ga. 1. Minister właściwy do spraw informatyzacji prowadzi inwentaryzację systemów teleinformatycznych używanych do realizacji zadań publicznych oraz inwentaryzację rejestrów publicznych, z wyłączeniem systemów teleinformatycznych i rejestrów publicznych wykorzystywanych do celów zapewnienia bezpieczeństwa narodowego i bezpieczeństwa publicznego. 2. Inwentaryzacja jest przeprowadzana co najmniej raz w roku i obejmuje zbieranie informacji o istniejących i planowanych systemach teleinformatycznych przeznaczonych do realizacji zadań publicznych, o rejestrach publicznych, a także o wymianie danych między tymi systemami. 3. Inwentaryzacja jest przeprowadzana z wykorzystaniem Systemu Inwentaryzacji Systemów Teleinformatycznych, zwanego dalej „SIST”, prowadzonego przez ministra właściwego do spraw informatyzacji. 4. Minister właściwy do spraw informatyzacji może powierzyć zadania związane z utrzymaniem i rozwojem SIST jednostce mu podległej lub przez niego nadzorowanej. 5. Zadania powierzone do realizacji jednostce, o której mowa w ust. 4, mogą być finansowane w formie dotacji celowej z budżetu państwa z części, której dysponentem jest minister właściwy do spraw informatyzacji. Art. 20gb. 1. Do wprowadzania danych w SIST są obowiązane podmioty realizujące zadania publiczne, które otrzymały zawiadomienie od ministra właściwego do spraw informatyzacji o prowadzonej inwentaryzacji. 2. W zawiadomieniu minister właściwy do spraw informatyzacji określa zakres danych objętych inwentaryzacją oraz termin wprowadzania tych danych w SIST nie krótszy niż 14 dni od dnia otrzymania zawiadomienia. 3. Podmiot, o którym mowa w ust. 1, po otrzymaniu zawiadomienia jest obowiązany do założenia konta w SIST, do administrowania tym kontem oraz do bieżącej aktualizacji w SIST danych podmiotu prowadzącego system teleinformatyczny używany do realizacji zadań publicznych lub rejestr publiczny. Art. 20gc. 1. W SIST są przetwarzane w szczególności dane dotyczące:
+
+- **1)** systemów teleinformatycznych używanych do realizacji zadań publicznych,
+- **2)** rejestrów publicznych,
+- **3)** aktów prawnych stanowiących podstawę prawną prowadzenia systemów teleinformatycznych i rejestrów publicznych – oraz podmiotów prowadzących te systemy lub rejestry.
+
+2. W SIST są przetwarzane dane osobowe osób fizycznych, które:
+
+- **1)** administrują kontem podmiotu realizującego zadania publiczne w SIST,
+- **2)** zostały wskazane do kontaktu w zakresie danych wpisanych do SIST – obejmujące imię, nazwisko, adres poczty elektronicznej oraz numer telefonu.
+
+3. Minister właściwy do spraw informatyzacji jest administratorem danych przetwarzanych w SIST.
+
+4. Dane osobowe przetwarzane w SIST są wykorzystywane wyłącznie w celu realizacji zadań związanych z inwentaryzacją oraz z funkcjonowaniem w SIST konta podmiotu, o którym mowa w art. 20gb ust. 1, i przechowywane przez okres niezbędny do realizacji tych zadań. Art. 20gd. Minister właściwy do spraw informatyzacji sporządza roczne sprawozdanie z wykonania przez podmioty realizujące zadania publiczne obowiązków, o których mowa w art. 20gb ust. 1, i przedkłada je Radzie Ministrów w terminie do dnia 30 kwietnia roku następującego po roku, którego dotyczy sprawozdanie.
 
 #### Rozdział 3a Rejestr danych kontaktowych osób fizycznych
 
@@ -845,6 +1048,11 @@ Art. 53–60. (pominięte)
 4. Przekazywane dane są wprowadzane do rejestru danych kontaktowych po potwierdzeniu ich poprawności oraz przyporządkowaniu do osoby, której dane dotyczą, realizowanym przy użyciu jednorazowego kodu wysłanego odpowiednio na przekazany do tego rejestru adres poczty elektronicznej lub numer telefonu komórkowego.
 
 **Art. 20l.** Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+
+- **1)** sposób wprowadzania, zapisu, aktualizacji oraz potwierdzania danych kontaktowych,
+- **2)** sposób prowadzenia rejestru danych kontaktowych,
+- **3)** wzór wniosku w postaci papierowej, o którym mowa w art. 20k ust. 2 pkt 2 oraz w art. 20j ust. 8,
+- **4)** wzór uproszczonego wniosku o udostępnianie danych z rejestru danych kontaktowych, o którym mowa w art. 20m ust. 2 – uwzględniając konieczność zapewnienia sprawności, prawidłowości i bezpieczeństwa funkcjonowania systemu teleinformatycznego, przy użyciu którego prowadzony jest rejestr danych kontaktowych, oraz prawidłowości danych przetwarzanych w tym rejestrze.
 
 **Art. 20m.**
 
@@ -937,6 +1145,29 @@ Art. 53–60. (pominięte)
 
 **Art. 21.** [1. W celu zapewnienia interoperacyjności systemów teleinformatycznych używanych do realizacji zadań publicznych przeprowadza się, z zastrzeżeniem art. 24, badanie poprawności wdrożenia rozwiązań, o których mowa w art. 13 ust. 2 pkt 2 lit. a, w oprogramowaniu interfejsowym przy wykorzystaniu testów akceptacyjnych udostępnionych przez podmiot publiczny, zgodnie z art. 13 ust. 2 pkt 2 lit. b, zwane dalej „badaniem”.] <1. W celu zapewnienia interoperacyjności systemów teleinformatycznych używanych do realizacji zadań publicznych przeprowadza się, z zastrzeżeniem art. 24, badanie poprawności wdrożenia API systemu teleinformatycznego używanego do realizacji zadań publicznych, z uwzględnieniem informacji, o których mowa w art. 13 ust. 5 pkt 3, w oprogramowaniu interfejsowym z wykorzystaniem testów akceptacyjnych udostępnionych przez podmiot realizujący zadania publiczne, zgodnie z art. 13 ust. 2 pkt 2 lit. b, zwane dalej „badaniem”.> 2. Badanie przeprowadza, na własny koszt, twórca oprogramowania interfejsowego albo inny podmiot posiadający autorskie prawa majątkowe do oprogramowania interfejsowego, które ma być wykorzystywane do realizacji zadania publicznego, zwany dalej „podmiotem uprawnionym”:
 
+- **1)** przed udostępnieniem po raz pierwszy oprogramowania interfejsowego do realizacji tego zadania; [2) po modyfikacji oprogramowania interfejsowego w zakresie, o którym mowa w art. 13 ust. 2 pkt 2 lit. a, dokonanej od czasu poprzedniego badania.] <2) po modyfikacji oprogramowania interfejsowego w zakresie struktur dokumentów elektronicznych, formatów danych oraz protokołów komunikacyjnych i szyfrujących, o których mowa w art. 13 ust. 5 pkt 3, dokonanej od czasu poprzedniego badania.>
+
+3. Podmiot uprawniony:
+
+- **1)** informuje podmiot publiczny o rodzaju, wersji, dacie wytworzenia i charakterystyce techniczno-funkcjonalnej oprogramowania interfejsowego poddawanego badaniu;
+- **2)** składa podmiotowi publicznemu oświadczenie o wyniku badania.
+
+4. W celu potwierdzenia wyniku badania podmiot publiczny może przeprowadzić weryfikację tego badania, wykorzystując testy akceptacyjne udostępnione podmiotowi uprawnionemu. Podmiot publiczny informuje podmiot uprawniony o wyniku weryfikacji.
+
+5. W razie niezgodności wyniku weryfikacji z wynikiem badania dokonanego przez podmiot uprawniony rozstrzyga wynik weryfikacji. W tym przypadku koszty weryfikacji ponosi podmiot uprawniony.
+
+5a. W celu zapewnienia interoperacyjności systemów teleinformatycznych używanych do realizacji zadań publicznych z innymi systemami teleinformatycznymi podmiot publiczny może udostępnić testowy system teleinformatyczny, funkcjonalnie odpowiadający systemowi produkcyjnemu, w celu dokonywania sprawdzenia poprawności wdrożenia rozwiązań pod względem organizacyjnym, semantycznym i technologicznym.
+
+5b. W przypadku udostępnienia przez podmiot publiczny systemu testowego nie jest wymagane udostępnienie testów akceptacyjnych.
+
+6. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+
+- **1)** metodykę, warunki i tryb sporządzania testów akceptacyjnych,
+- **2)** sposób postępowania w zakresie badania oraz weryfikacji badania, w tym sposób dokumentowania wyników badania oraz weryfikacji badania,
+- **3)** rodzaje oprogramowania interfejsowego podlegającego badaniu,
+- **4)** szczegółowy zakres informacji, o których mowa w ust. 3 pkt 1, oraz sposób i tryb przekazywania tych informacji,
+- **5)** wzór oświadczenia o wyniku badania oraz wyniku weryfikacji badania – uwzględniając konieczność wprowadzenia jednolitych warunków przygotowania rzetelnego zestawu testów akceptacyjnych oraz dokonania obiektywnej oceny oprogramowania interfejsowego.
+
 **Art. 22.**
 
 1. Oprogramowanie interfejsowe może być używane do realizacji zadań publicznych, jeżeli uzyskało pozytywny wynik badania.
@@ -959,6 +1190,12 @@ Art. 53–60. (pominięte)
 
 **Art. 24.** Przepisów art. 21–23 nie stosuje się w przypadku, o którym mowa w art. 13 ust. 4, chyba że:
 
+- **1)** podmiot publiczny udostępnił testy akceptacyjne;
+- **2)** podmiot uprawniony wystąpił o udostępnienie testów akceptacyjnych w celu przeprowadzenia badania;
+- **3)** podmiot publiczny udostępnił system testowy, o którym mowa w art. 21 ust.
+
+5a.
+
 **Art. 25.**
 
 1. Kontroli:
@@ -977,6 +1214,8 @@ Art. 53–60. (pominięte)
 4. (uchylony)
 
 **Art. 25a.** Do kontroli stosuje się przepisy ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224 oraz z 2025 r. poz.
+
+- **1158)** określające zasady i tryb przeprowadzania kontroli.
 
 **Art. 26.** (uchylony)
 
@@ -1034,4 +1273,10 @@ Art. 53–60. (pominięte)
 **Art. 63.** (pominięty)
 
 **Art. 64.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 17 oraz 54, które wchodzą w życie z dniem ogłoszenia;
+- **2)** art. 36 i 37, które wchodzą w życie po upływie 7 miesięcy od dnia ogłoszenia;
+- **3)** art. 40, który wchodzi w życie po upływie 27 miesięcy od dnia ogłoszenia;
+- **4)** art. 42 pkt 1, 4 i 7, które wchodzą w życie z dniem 1 lipca 2006 r.
+
 

@@ -8,7 +8,7 @@ pos: 1158
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
@@ -611,6 +611,9 @@ source: "isap-pdf"
 **Art. 11g.** Jeżeli stosunek pracy osoby wyłonionej w drodze naboru ustał w ciągu 3 miesięcy od dnia nawiązania stosunku pracy, można zatrudnić na tym samym stanowisku kolejną osobę spośród najlepszych kandydatów wymienionych w protokole tego naboru. Przepisy art. 11f stosuje się odpowiednio.
 
 **Art. 11h.** W Agencji może być zatrudniona osoba, która:
+
+- **1)** korzysta z pełni praw publicznych;
+- **2)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
 
 **Art. 12.** (uchylony)
 

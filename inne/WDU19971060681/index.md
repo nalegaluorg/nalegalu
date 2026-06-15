@@ -8,7 +8,7 @@ pos: 681
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o publicznej służbie krwi
@@ -31,7 +31,28 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** organizację i zadania publicznej służby krwi;
+- **2)** zasady:
+    - **a)** oddawania oraz pobierania krwi i jej składników w celach określonych w ustawie,
+    - **b)** badania i preparatyki pobranej krwi i jej składników,
+    - **c)** zapewnienia jakości pobranej krwi i jej składników,
+    - **d)** czuwania nad bezpieczeństwem krwi i jej składników,
+    - **e)** przechowywania, wydawania, zbywania oraz przywozu na terytorium Rzeczypospolitej Polskiej krwi i jej składników;
+
+- **3)** organizację krwiolecznictwa.
+
 **Art. 1a.** Przepisów ustawy nie stosuje się do:
+
+- **1)** pobierania, przechowywania i przeszczepiania tkanek pochodzących od żywego dawcy lub ze zwłok oraz komórek pochodzących od żywego dawcy, w tym komórek krwiotwórczych:
+    - **a)** szpiku,
+    - **b)** krwi obwodowej,
+    - **c)** krwi pępowinowej;
+
+- **2)** testowania, przetwarzania, przechowywania i dystrybucji komórek i tkanek ludzkich;
+- **3)** pobierania krwi i jej składników w celu:
+    - **a)** wykonywania czynności diagnostycznych,
+    - **b)** naukowo-badawczym,
+    - **c)** leczniczym innym niż do przetoczenia biorcy krwi.
 
 **Art. 2.** Krew i jej składniki są pobierane, na zasadach określonych w ustawie, w celach leczniczych do przetoczenia biorcy krwi, przetworzenia w produkty krwiopochodne, o których mowa w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686), lub jako materiał wyjściowy do produkcji wyrobów medycznych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), oraz rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanych dalej „wyrobami medycznymi”.
 
@@ -55,6 +76,31 @@ source: "isap-pdf"
 - **4)** Centrum Krwiodawstwa i Krwiolecznictwa utworzone przez ministra właściwego do spraw wewnętrznych, zwane dalej „Centrum MSWiA”.
 
 **Art. 5.** Użyte w ustawie określenia oznaczają:
+
+- **1)** bank krwi – jednostkę lub komórkę organizacyjną przedsiębiorstwa podmiotu leczniczego w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799), w której przechowuje się i wydaje krew i jej składniki wyłącznie dla potrzeb podmiotów leczniczych do przetoczeń w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne;
+- **2)** biorca krwi – osobę, której przetoczono krew lub jej składniki;
+- **3)** dawca krwi – osobę, która oddała krew lub jej składniki do celów innych niż badania diagnostyczne;
+- **4)** dobra praktyka pobierania krwi i jej składników, badania, preparatyki, przechowywania, wydawania i transportu – wszystkie elementy ustalonych procedur, które łącznie pozwalają uzyskać produkt w postaci krwi lub jej składników, zgodny z ustaloną specyfikacją i spełniający określone normy;
+- **5)** kandydat na dawcę krwi – osobę, która zgłosiła się do jednostki organizacyjnej publicznej służby krwi, o której mowa w art. 4 ust. 3 pkt 2–4, po raz pierwszy, z zamiarem oddania krwi lub jej składników do celów innych niż badania diagnostyczne lub przetoczenia autologiczne;
+- **6)** kontrola jakości – element systemu jakości dotyczący spełniania norm jakości krwi lub jej składników;
+- **7)** krew – krew pełną przygotowywaną z przeznaczeniem do celów określonych w ustawie;
+- **8)** krew rzadkiej grupy – krew, na której składnikach morfotycznych nie występują antygeny stwierdzane u więcej niż 99 % populacji ludzkiej i przez to trudno osiągalna dla biorców z alloprzeciwciałami skierowanymi do tych antygenów, a także krew dla pacjentów z przeciwciałami skierowanymi do kilku antygenów, której częstotliwość występowania jest niższa niż 1 %;
+- **9)** niepożądana reakcja – niezamierzoną i niekorzystną reakcję u dawcy krwi lub biorcy krwi, związaną czasowo z przetoczeniem lub pobraniem krwi lub jej składników;
+- **10)** niepożądane zdarzenie – niezamierzone i niekorzystne zdarzenie związane z pobieraniem, badaniem, preparatyką, przechowywaniem, wydawaniem i transportem krwi lub jej składników, mające miejsce przed, w trakcie, lub po przetoczeniu krwi lub jej składnika, mogące prowadzić do wystąpienia niepożądanej reakcji;
+- **11)** norma – wymagania będące podstawą do porównań;
+- **12)** państwo członkowskie – państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+- **13)** pobranie allogeniczne – pobranie krwi lub jej składników od jednej osoby z przeznaczeniem do przetoczenia wyłącznie innej osobie, wykorzystania w wyrobach medycznych albo jako materiał wyjściowy do wytwarzania produktów krwiopochodnych;
+- **14)** pobranie autologiczne – pobranie krwi lub jej składników od danej osoby z przeznaczeniem do przetoczenia wyłącznie tej osobie lub innego zastosowania u tej osoby;
+- **15)** poważna niepożądana reakcja – niezamierzoną reakcję organizmu dawcy krwi lub biorcy krwi, związaną z oddawaniem krwi lub jej składników lub ich przetoczeniem, prowadzącą do śmierci, zagrożenia życia, utraty sprawności, pogorszenia stanu zdrowia lub powodującą hospitalizację lub chorobę albo ich przedłużenie;
+- **16)** poważne niepożądane zdarzenie – zdarzenie związane z pobieraniem, badaniem, preparatyką, przechowywaniem, wydawaniem i transportem krwi lub jej składników lub ich przetoczeniem, które mogłoby doprowadzić do śmierci, stanowić zagrożenie życia, spowodować utratę sprawności, pogorszenie stanu zdrowia lub hospitalizację lub chorobę albo ich przedłużenie;
+- **17)** pracownia immunologii transfuzjologicznej – jednostkę lub komórkę organizacyjną przedsiębiorstwa podmiotu leczniczego, w której wykonuje się badania z zakresu immunologii transfuzjologicznej, w tym badania grup krwi, wykrywanie przeciwciał oraz próby zgodności serologicznej krwi i jej składników;
+- **18)** preparatyka – każdy etap przygotowywania składnika krwi, od pobrania krwi do wydania jej składnika, polegający na rozdzieleniu krwi na składniki lub wykonaniu czynności, podczas których niezbędna jest ingerencja w zamknięty układ danego składnika krwi, skutkujący koniecznością zmiany etykiety ostatecznej lub koniecznością wykonania i oznakowania nowych próbek pilotujących;
+- **19)** składniki krwi – frakcje krwi o właściwościach leczniczych uzyskiwane różnymi metodami, w szczególności: krwinki czerwone, krwinki białe, krwinki płytkowe, osocze, krioprecypitat;
+- **20)** SOP – standardowe procedury operacyjne zawierające pisemne instrukcje opisujące sposób przeprowadzania lub przebieg określonych procesów;
+- **21)** specyfikacja – opis kryteriów, które muszą być spełnione w celu osiągnięcia wymaganej normy;
+- **22)** system e-krew – system teleinformatyczny publicznej służby krwi;
+- **23)** system zapewnienia jakości – działania, od pobrania krwi lub jej składników do ich wydania, mające na celu zagwarantowanie, że jakość krwi i jej składników odpowiada wymaganym normom;
+- **24)** zarządzanie jakością – skoordynowane działania polegające na kierowaniu organizacją systemu jakości w jednostkach organizacyjnych publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4, oraz nadzorowaniu tych jednostek.
 
 #### Rozdział 2 Dawcy krwi
 
@@ -529,6 +575,16 @@ source: "isap-pdf"
 
 **Art. 24.** Minister właściwy do spraw zdrowia:
 
+- **1)** koordynuje działalność w zakresie organizacji pobierania krwi i jej składników, preparatyki oraz zaopatrzenia w krew i jej składniki;
+- **2)** zatwierdza i ogłasza, po uzyskaniu pozytywnej opinii Krajowej Rady do Spraw Krwiodawstwa i Krwiolecznictwa, w formie obwieszczenia, w Dzienniku Urzędowym Ministra Zdrowia wymagania:
+    - **a)** dobrej praktyki pobierania krwi i jej składników, badania, preparatyki, przechowywania, wydawania i transportu dla jednostek organizacyjnych publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4,
+    - **b)** dobrej praktyki przechowywania i wydawania krwi i jej składników dla banków krwi oraz badań z zakresu immunologii transfuzjologicznej wykonywanych w przedsiębiorstwach podmiotów leczniczych innych niż regionalne centra, Wojskowe Centrum lub Centrum MSWiA;
+
+- **3)** przedkłada Komisji Europejskiej corocznie, do dnia 30 czerwca, roczne sprawozdania dotyczące powiadamiania o poważnych niepożądanych zdarzeniach i poważnych niepożądanych reakcjach związanych z pobieraniem, badaniem, przetwarzaniem, przechowywaniem i wydawaniem, a także przetaczaniem krwi i jej składników;
+- **4)** przedkłada Komisji Europejskiej, raz na 3 lata, sprawozdania dotyczące propagowania honorowego krwiodawstwa w Rzeczypospolitej Polskiej;
+- **5)** zatwierdza plany działania w dziedzinie krwiodawstwa i krwiolecznictwa przygotowywane przez Instytut;
+- **6)** przeprowadza lub zleca przeprowadzenie postępowania o udzielenie zamówienia publicznego w sprawie zakupu produktów krwiopochodnych, rekombinowanych koncentratów czynników krzepnięcia oraz desmopresyny, finansowanych z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
+
 **Art. 24a.**
 
 1. Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4, są obowiązane stosować wymagania dobrej praktyki pobierania krwi i jej składników, badania, preparatyki, przechowywania, wydawania i transportu.
@@ -536,6 +592,20 @@ source: "isap-pdf"
 2. Banki krwi oraz pracownie serologii lub pracownie immunologii transfuzjologicznej są obowiązane stosować wymagania dobrej praktyki przechowywania i wydawania krwi i jej składników dla banków krwi oraz badań z zakresu immunologii transfuzjologicznej wykonywanych w przedsiębiorstwach podmiotów leczniczych innych niż regionalne centra, Wojskowe Centrum lub Centrum MSWiA.
 
 **Art. 25.** Do zadań Instytutu w zakresie publicznej służby krwi należy w szczególności:
+
+- **1)** przygotowywanie raportu, o którym mowa w art. 14 ust. 1d;
+- **2)** przeprowadzanie kontroli w jednostkach organizacyjnych publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4, oraz wydawanie zaleceń pokontrolnych;
+- **3)** propagowanie honorowego krwiodawstwa we współdziałaniu z Polskim Czerwonym Krzyżem i organizacjami pozarządowymi;
+- **4)** ocenianie potrzeb w zakresie zaopatrzenia w krew i jej składniki oraz planowanie związanych z tym zadań i sposobów ich realizacji;
+- **5)** przekazywanie ministrowi właściwemu do spraw zdrowia danych i informacji niezbędnych do dokonywania ogólnokrajowych ocen zaopatrzenia w krew oraz opracowywania bieżących i perspektywicznych programów w tym zakresie;
+- **6)** opracowywanie i przedstawianie ministrowi właściwemu do spraw zdrowia propozycji w sprawach, o których mowa w art. 16;
+- **7)** organizowanie pomocy w sytuacjach wymagających dodatkowego zaopatrzenia w krew;
+- **8)** zasilanie systemu e-krew danymi wynikającymi z zadań określonych w ustawie;
+- **9)** opracowywanie programów szkolenia w dziedzinach krwiodawstwa i krwiolecznictwa;
+- **10)** udzielanie konsultacji związanych z leczeniem krwią, jej składnikami i produktami krwiopochodnymi;
+- **11)** udział w wyjaśnianiu i analizie poważnych niepożądanych zdarzeń i poważnych niepożądanych reakcji oraz gromadzenie danych o niepożądanych zdarzeniach i niepożądanych reakcjach;
+- **12)** opracowanie i aktualizacja wymagań dobrej praktyki pobierania krwi i jej składników, badania, preparatyki, przechowywania, wydawania i transportu dla jednostek organizacyjnych publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4;
+- **13)** opracowanie i aktualizacja wymagań dobrej praktyki przechowywania i wydawania krwi i jej składników dla banków krwi oraz badań z zakresu immunologii transfuzjologicznej wykonywanych w przedsiębiorstwach podmiotów leczniczych innych niż regionalne centra, Wojskowe Centrum lub Centrum MSWiA.
 
 **Art. 25a.**
 

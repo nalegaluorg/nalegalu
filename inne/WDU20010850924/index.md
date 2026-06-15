@@ -8,7 +8,7 @@ pos: 924
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych oraz o zmianie niektórych innych ustaw
@@ -28,6 +28,19 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010850924) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/924/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz. 385, z 1991 r. Nr 104, poz. 450, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118 oraz z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 skreśla się ust. 5;
+- **2)** po art. 4 dodaje się art. 4a i 4b w brzmieniu: „Art. 4a. 1. Nauczanie w uczelni odbywa się w ramach kierunków studiów, zgodnie z ustalonymi standardami nauczania.
+
+2. Minister właściwy do spraw szkolnictwa wyższego, w porozumieniu z ministrami właściwymi do spraw: zdrowia, kultury i ochrony dziedzictwa narodowego oraz transportu i gospodarki morskiej, określa, w drodze rozporządzenia:
+
+- **1)** warunki, jakie powinna spełniać uczelnia, aby utworzyć i prowadzić kierunek studiów na określonym poziomie kształcenia, uwzględniając w szczególności liczbę nauczycieli akademickich posiadających tytuł naukowy lub stopień naukowy, zaliczanych do minimum kadrowego - wraz z formą zatrudnienia, a także proporcje tych pracowników do liczby studentów na danym kierunku studiów,
+- **2)** nazwy kierunków studiów,
+- **3)** standardy nauczania dla poszczególnych kierunków studiów i poziomów kształcenia, uwzględniając sylwetkę absolwenta, ramowe treści nauczania dla poszczególnych przedmiotów, zarówno w grupie przedmiotów ogólnych, podstawowych, jak i kierunkowych,
+- **4)** standardy kształcenia nauczycieli, uwzględniając sylwetkę absolwenta, przedmioty kształcenia nauczycielskiego, wymiar praktyk oraz treści programowe i wymagane umiejętności,
+- **5)** szczegółowe warunki tworzenia filii lub wydziału zamiejscowego uczelni, uwzględniając obowiązek spełnienia przez tę jednostkę, odrębnie dla każdego kierunku studiów, wymagań co do jego utworzenia i prowadzenia na określonym poziomie kształcenia.
+
+3. Senat uczelni, o której mowa w art. 12 ust. 1, po uzyskaniu zgody Państwowej Komisji Akredytacyjnej, może podjąć uchwałę o utworzeniu i prowadzeniu kierunku studiów innego niż określone w przepisach wydanych na podstawie ust. 2.
 
 **Art. 4b.**
 
@@ -238,6 +251,71 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. Nr 96, poz. 590, z 1998 r. Nr 106, poz. 668 oraz z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314) wprowadza się następujące zmiany:
 
+- **1)** po art. 4 dodaje się art. 4a w brzmieniu: „Art. 4a. 1. Minister właściwy do spraw szkolnictwa wyższego określa, w drodze rozporządzenia:
+- **1)** warunki, jakie powinna spełniać uczelnia zawodowa, aby utworzyć i prowadzić kierunek lub specjalność zawodową, uwzględniając w szczególności proporcje nauczycieli akademickich do liczby studentów,
+- **2)** wymagania kadrowe niezbędne do prowadzenia kierunku lub specjalności zawodowej, uwzględniają c liczbę nauczycieli akademickich posiadających tytuł naukowy profesora lub stopień naukowy, zatrudnionych w pełnym wymiarze czasu pracy.
+
+2. Minister właściwy do spraw szkolnictwa wyższego, w drodze decyzji administracyjnej, nadaje uczelni zawodowej uprawnienie do prowadzenia studiów wyższych na określonym kierunku lub specjalności zawodowej. Przy nadawaniu uprawnień stosuje się odpowiednio art. 4b ustawy o szkolnictwie wyższym.”;
+
+- **2)** w art. 10:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Utworzenie, zniesienie i łączenie państwowej uczelni zawodowej następuje na wniosek:
+
+- **1)** ministra właściwego do spraw szkolnictwa wyższego,
+- **2)** sejmiku województwa, w uzgodnieniu z ministrem właściwym do spraw szkolnictwa wyższego, zaopiniowany przez Państwową Komisję Akredytacyjną, powołaną na podstawie art. 38 ustawy o szkolnictwie wyższym.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przepisy art. 38 ust. 2–4 ustawy o szkolnictwie wyższym stosuje się odpowiednio.”;
+
+- **3)** w art. 11:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Niepaństwową uczelnię zawodową może założyć osoba fizyczna lub osoba prawna, zwana dalej „założycielem”, na podstawie pozwolenia udzielonego przez ministra właściwego do spraw szkolnictwa wyższego, po zasięgnięciu opinii Państwowej Komisji Akredytacyjnej.”,
+    - **b)** w ust. 3 wyrazy „kierunki i (lub) specjalności zawodowe” zastępuje się wyrazami „ogólny kierunek działalności”;
+
+- **4)** po art. 11 dodaje się art. 11a w brzmieniu: „Art. 11a. 1. Niepaństwowa uczelnia zawodowa spełniająca warunki do prowadzenia studiów na poziomie magisterskim określonych w przepisach ustawy o szkolnictwie wyższym, może ubiegać się o przekształcenie w uczelnię działającą na podstawie ustawy o szkolnictwie wyższym.
+
+2. Do przekształcenia, o którym mowa w ust. 1, stosuje się odpowiednio art. 15 i 16 ustawy o szkolnictwie wyższym.”;
+
+- **5)** w art. 24 w ust. 3 skreśla się wyrazy „i Komisji Akredytacyjnej Wyższego Szkolnictwa Zawodowego”;
+- **6)** w art. 27: 3, minister właściwy do spraw szkolnictwa wyższego wzywa do usunięcia tych niezgodności w oznaczonym terminie, a w razie ich nieusunięcia może, uwzględniając w szczególności rodzaj i zakres stwierdzonych naruszeń, zawiesić uprawnienia do prowadzenia studiów lub cofnąć pozwolenie, określają szczegółowe zasady kontynuowania kształcenia przez studentów oraz przeprowadzania egzaminów dyplomowych.”,
+    - **a)** w ust. 3 wyrazy „Komisji Akredytacyjnej Wyższego Szkolnictwa Zawodowego” zastępuje się wyrazami „Rady Głównej Szkolnictwa Wyższego”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Jeżeli uczelnia niepaństwowa prowadzi działalność niezgodną z przepisami ustawy, statutem albo pozwoleniem, o którym mowa w art. 11 ust.
+    - **c)** po ust. 4 dodaje się ust. 4a, 4b i 4c w brzmieniu: „4a. Jeżeli uczelnia niepaństwowa lub jej założyciel rażąco naruszają przepisy ustawy, statutu albo pozwolenie, o którym mowa w art. 11 ust. 3, minister właściwy do spraw szkolnictwa wyższego podejmuje decyzję o cofnięciu pozwolenia.
+
+4b. W przypadku stwierdzenia, że studia wyższe prowadzone są bez pozwolenia, o którym mowa w art. 11 ust. 3, minister właściwy do spraw szkolnictwa wyższego, w drodze decyzji, zakazuje ich prowadzenia. Przepisy o postępowaniu egzekucyjnym w administracji stosuje się odpowiednio.
+
+4c. Minister właściwy do spraw szkolnictwa wyższego ogłasza w wydawanym przez siebie dzienniku urzędowym obwieszczenia o utworzeniu lub likwidacji uczelni niepaństwowych, a także informacje o zawieszeniu lub cofnięciu uprawnień do prowadzenia studiów.”,
+
+- **d)** ust. 6 otrzymuje brzmienie: „6. Wniosek o przekazanie i cofnięcie uprawnień, o których mowa w ust. 5, wymaga opinii Rady Głównej Szkolnictwa Wyższego.”;
+- **7)** skreśla się wyrazy „Dział III Komisja Akredytacyjna Wyższego Szkolnictwa Zawodowego” oraz art. 29 i 30;
+- **8)** w art. 35 w pkt 10 kropkę zastępuje się przecinkiem i dodaje się pkt 11 w brzmieniu: „11) przedstawianie ministrowi właściwemu do spraw szkolnictwa wyższego kandydatów do Państwowej Komisji Akredytacyjnej.”;
+- **9)** w art. 44 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Uczelnia zawodowa może tworzyć zamiejscowe jednostki organizacyjne na zasadach i w trybie określonych w ustawie o szkolnictwie wyższym.”;
+- **10)** w art. 59 skreśla się ust. 3 i 4;
+- **11)** skreśla się art. 64;
+- **12)** w dziale IV w rozdziale 4 dodaje się art. 66a w brzmieniu: „Art. 66a. 1. Warunki wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w państwowej uczelni zawodowej, do czasu objęcia ich układem zbiorowym pracy lub regulaminem wynagradzania, określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego, w porozumieniu z ministrem właś ciwym do spraw pracy, ustalając w szczególności:
+- **1)** wysokość minimalnej i maksymalnej stawki wynagrodzenia zasadniczego w odniesieniu do poszczególnych stanowisk oraz wysokość i warunki przyznawania innych składników wynagrodzenia tak, aby wysokość przeciętnego miesięcznego wynagrodzenia w szkolnictwie wyższym, w poszczególnych grupach pracowników, w relacji do kwoty bazowej, określanej w ustawie budżetowej dla pracowników wymienionych w art. 5 pkt 1 lit. a) ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz.U. Nr 110, poz. 1255 i z 2000 r. Nr 19, poz. 239), nie była niższa: - w grupie stanowisk profesorów od 343,1% - w grupie stanowisk asystentów i wykładowców od 117,7% - w grupie pracowników niebędących nauczycielami akademickimi od 117,3% kwoty bazowej, określanej w ustawie budżetowej na 2002 r., - w grupie stanowisk profesorów od 391,8% - w grupie stanowisk asystentów i wykładowców od 130,6% - w grupie pracowników niebędących nauczycielami akademickimi od 130,6% kwoty bazowej, określanej w ustawie budżetowej na 2003 r.
+    - **a)** od dnia 1 września 2001 r.: - w grupie stanowisk profesorów od 294,3% - w grupie stanowisk asystentów i wykładowców od 104,8% - w grupie pracowników niebędących nauczycielami akademickimi od 104,1% kwoty bazowej, określanej w ustawie budżetowej na 2001 r.,
+    - **b)** od dnia 1 września 2002 r.
+    - **c)** od dnia 1 września 2003 r.
+
+- **2)** składniki wynagrodzenia, które wypłacane są miesięcznie z góry z uwzględnieniem zasady, że prawo do wypłacanego z góry wynagrodzenia wygasa z ostatnim dniem miesiąca, w którym ustał stosunek pracy, a nauczyciel akademicki zachowuje wypłacone za ten miesiąc wynagrodzenie,
+- **3)** wysokość i warunki ustalania wynagrodzenia za prowadzenie działalności, o której mowa w art. 100 ust. 2 ustawy o szkolnictwie wyższym,
+- **4)** wykaz podstawowych stanowisk pracy i wymagania kwalifikacyjne dla pracowników niebędących nauczycielami akademickimi.
+
+2. Z dniem wejścia w życie układu zbiorowego pracy lub regulaminu wynagradzania, do pracowników państwowej uczelni zawodowej objętych układem zbiorowym pracy lub regulaminem wynagradzania nie mają zastosowania przepisy rozporządzenia, o którym mowa w ust. 1.
+
+3. Wynagrodzenie przysługujące rektorowi ustala właściwy minister.
+
+4. Wynagrodzenia rektorów, prorektorów, kanclerzy i kwestorów są jawne i nie podlegają ochronie danych osobowych oraz tajemnicy handlowej.
+
+5. Senat państwowej uczelni zawodowej może przeznaczyć dodatkowe środki na zwiększenie wysokości wynagrodzeń, w tym także ponad wysokość ustaloną na podstawie rozporządzenia, o którym mowa w ust. 1, jeżeli uczelnia posiada na ten cel środki pochodzące z innych źródeł niż określone w art. 23 ust. 1 oraz ust.
+
+1a. Zasady podziału tych środków są ustalane z zachowaniem uprawnień związków zawodowych.”;
+
+- **13)** w art. 67:
+    - **a)** skreśla się pkt 3,
+    - **b)** w pkt 5 kropkę zastępuje się przecinkiem i dodaje się wyrazy „oraz do dodatkowego wynagrodzenia rocznego na zasadach określonych w przepisach odrębnych.”;
+
+- **14)** w art. 91 skreśla się ust. 3;
+- **15)** użyty w ustawie w różnych przypadkach wyraz „zezwolenie” zastępuje się użytym w odpowiednich przypadkach wyrazem „pozwolenie”;
+- **16)** użyte w ustawie w różnych przypadkach wyrazy „Minister Edukacji Narodowej” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw szkolnictwa wyższego”.
+
 **Art. 3.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz.U. Nr 162, poz. 1118, z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774, Nr 72, poz. 801 i poz. 802 i Nr 106, poz. 1215, z 2000 r. Nr 2, poz. 26, Nr 9, poz. 118, Nr 19, poz. 238, Nr 56, poz. 678 i Nr 84, poz. 948 oraz z 2001 r. Nr 8, poz. 64 i Nr 27, poz. 298) w art. 7 po pkt 9 dodaje się pkt 9a i 9b w brzmieniu: „9a) studiów doktoranckich i aspirantury naukowej w wymiarze określonym w decyzji o ich utworzeniu, 9b) asystenckich studiów przygotowawczych,”.
 
 **Art. 4.** W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz.U. Nr 110, poz. 1255 i z 2000 r. Nr 19, poz. 239) w art. 9 w ust. 3 w pkt 3 wyrazy „art. 24 ust. 1 pkt 1 i 2” zastępuje się wyrazami „art. 24 ust. 1 pkt 1, 1a i 2”.
@@ -245,6 +323,10 @@ source: "isap-pdf"
 **Art. 5.** W ustawie z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz.U. Nr 26, poz. 306) w art. 1 pkt 2 otrzymuje brzmienie: „2) państwowych jednostek organizacyjnych posiadających osobowość prawną, które nie są jednocześnie podmiotami, o których mowa w pkt 8, 9 i 11, oraz nie są szkołami wyższymi,”.
 
 **Art. 6.** W ustawie z dnia 8 grudnia 2000 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o transporcie kolejowym i ustawy o usługach turystycznych oraz ustawy - Kodeks postępowania cywilnego, ustawy Prawo o ustroju sądów powszechnych i ustawy o działach administracji rządowej - w związku z dostosowaniem do prawa Unii Europejskiej (Dz.U. Nr 122, poz. 1314) art. 17 otrzymuje brzmienie: „Art. 17. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 1 i pkt 2 w zakresie dotyczącym art. 33a ust. 1, ust. 2 pkt 1, ust. 3-5 i art. 33b, które wchodzą w życie z dniem 1 sierpnia 2001 r.,
+- **2)** art. 1 pkt 2 w zakresie dotyczącym art. 33a ust. 2 pkt 2 i 3 oraz art. 1 pkt 5, art. 3 pkt 2, 4-7, art. 7 i art. 10-13, które wchodzą w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej,
+- **3)** art. 3 pkt 8 i 9, art. 4-6 i art. 8, które wchodzą w życie z dniem 1 stycznia 2001 r.”.
 
 **Art. 7.**
 
@@ -281,4 +363,8 @@ source: "isap-pdf"
 **Art. 12.** Do czasu wydania przepisów wykonawczych na podstawie upoważnień przewidzianych w ustawach zmienianych w art. 1 i 2 niniejszej ustawy, nie dłużej jednak niż do dnia 30 czerwca 2002 r., pozostają w mocy przepisy dotychczasowych aktów wykonawczych, jeżeli nie są sprzeczne z ustawami zmienianymi w art. 1 i 2.
 
 **Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 18 i 21 oraz art. 2 pkt 10 i 11, które wchodzą w życie z dniem 1 września 2001 r.,
+- **2)** art. 1 pkt 20 oraz art. 2 pkt 1-3, 5, 6 lit. a) i pkt 7, które wchodzą w życie z dniem 1 stycznia 2002 r.
+
 

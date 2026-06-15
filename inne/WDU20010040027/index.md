@@ -8,7 +8,7 @@ pos: 27
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o spółdzielniach mieszkaniowych
@@ -208,6 +208,12 @@ Art. 28–34. (pominięte)
 4. Przepis ust. 1 stosuje się odpowiednio w wypadku wygaśnięcia tytułu prawnego do korzystania z lokalu o innym przeznaczeniu, o ile umowa nie stanowi inaczej.
 
 **Art. 8.** W sprawach nieuregulowanych w ustawie prawa i obowiązki członków spółdzielni dotyczące w szczególności:
+
+- **1)** zawierania umów w sprawie budowy lokali, 1 ) (uchylony)
+- **2)** zawierania z członkami, którym przysługują spółdzielcze prawa do lokali, umów o przeniesienie własności lokali,
+- **3)** wnoszenia, ustalania i waloryzacji wkładu mieszkaniowego i budowlanego,
+- **4)** rozliczeń z tytułu dodatkowego wyposażenia lokalu,
+- **5)** uprawnień członka spółdzielni do zamiany lokalu określają postanowienia statutu.
 
 #### Rozdział 1 Prawa członków spółdzielni mieszkaniowej
 
@@ -640,6 +646,9 @@ Art. 28–34. (pominięte)
 
 **Art. 27³.** Kto, będąc członkiem zarządu spółdzielni mieszkaniowej, pełnomocnikiem, albo likwidatorem, wbrew obowiązkowi dopuszcza do tego, że spółdzielnia:
 
+- **1)** nie udostępnia członkowi spółdzielni mieszkaniowej odpisów oraz kopii dokumentów, o których mowa w art. 8 ,
+- **2)** nie rozlicza kosztów budowy lokalu w terminach, o których mowa w art. 10 ust. 3 albo art. 18 ust. 4 – podlega karze grzywny.
+
 **Art. 27³a.** Kto składa fałszywe oświadczenie, o którym mowa w art. 8 ust. 1 zdanie pierwsze, podlega karze grzywny.
 
 **Art. 27⁴.** W sprawach o czyny, o których mowa w art. 27 i art. 27 , orzekanie następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
@@ -679,6 +688,10 @@ Art. 28–34. (pominięte)
 3. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, wynosi 1/4 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
 
 **Art. 40.** Spółdzielnia pozostaje właścicielem lub współwłaścicielem nieruchomości i użytkownikiem lub współużytkownikiem wieczystym gruntu w takim zakresie, w jakim nie narusza to przysługującej członkom i właścicielom lokali niebędącym członkami spółdzielni odrębnej własności lokali lub praw z nią związanych. W szczególności mieniem spółdzielni pozostają:
+
+- **1)** nieruchomości służące prowadzeniu przez spółdzielnię działalności wytwórczej, budowlanej, handlowej, usługowej, społecznej, oświatowo-kulturalnej, administracyjnej i innej, zabudowane budynkami i innymi urządzeniami;
+- **2)** nieruchomości zabudowane urządzeniami infrastruktury technicznej, w tym urządzeniami i sieciami technicznego uzbrojenia terenu związanymi z funkcjonowaniem budynków lub osiedli, z zastrzeżeniem art. 49 Kodeksu cywilnego;
+- **3)** nieruchomości niezabudowane.
 
 **Art. 41.**
 
@@ -809,6 +822,12 @@ Art. 28–34. (pominięte)
 **Art. 49¹.** Jeżeli spółdzielnia uchyla się jedynie od złożenia oświadczenia woli o ustanowieniu albo przeniesieniu odrębnej własności lokalu na rzecz osoby, o której mowa w art. 49 ust. 1, osoba ta może wystąpić do sądu z powództwem o zobowiązanie spółdzielni do złożenia odpowiedniego oświadczenia woli. Art. 50–51. (uchylone)
 
 **Art. 52.** Do istniejących w dniu wejścia ustawy w życie praw do domów jednorodzinnych i lokali mieszkalnych budowanych w celu przeniesienia ich własności na rzecz członków stosuje się odpowiednio przepisy rozdziału 2 ustawy. Do czasu przeniesienia własności na rzecz członka spółdzielni mają zastosowanie zasady:
+
+- **1)** jeżeli prawo do domu jednorodzinnego przeszło na kilku spadkobierców, powinni oni, w terminie jednego roku od dnia otwarcia spadku, wyznaczyć spośród siebie pełnomocnika w celu dokonywania czynności prawnych związanych z wykonywaniem tego prawa, włącznie z zawarciem w ich imieniu umowy o przeniesienie własności domu. W razie bezskutecznego upływu tego terminu, na wniosek spadkobierców lub spółdzielni, sąd w postępowaniu nieprocesowym wyznaczy przedstawiciela. Pełnomocnik (przedstawiciel) uprawniony jest do udziału w walnym zgromadzeniu;
+- **2)** w razie śmierci jednego z małżonków, którym prawo do domu jednorodzinnego przysługiwało wspólnie, przepis pkt 1 stosuje się odpowiednio;
+- **3)** po przeprowadzeniu rozliczenia kosztów budowy i ostatecznym ustaleniu wkładów budowlanych, wniesieniu przez członków tych wkładów bądź też ich części i przejęciu zobowiązań spółdzielni pokrywających resztę należności z tytułu wkładów spółdzielnia przenosi na członków własność przydzielonych domów wraz z prawami do działek;
+- **4)** przeniesienie własności domu może nastąpić także na rzecz spadkobierców członka lub małżonków, jeżeli prawo do domu przysługuje im obojgu;
+- **5)** członkowie, oprócz wkładu budowlanego, obowiązani są pokryć koszty przeniesienia własności domu, a także udział w kosztach likwidacji spółdzielni, o ile przeniesienie własności następuje w ramach postępowania likwidacyjnego.
 
 **Art. 53.**
 

@@ -8,7 +8,7 @@ pos: 1947
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Krajowej Administracji Skarbowej Uznając doniosłość konstytucyjnego obowiązku ponoszenia ciężarów i świadczeń publicznych, w szczególności podatków i należności celnych, troszcząc się o bezpieczeństwo finansowe Rzeczypospolitej Polskiej oraz chroniąc bezpieczeństwo obszaru celnego Unii Europejskiej, w celu zapewnienia nowoczesnego i przyjaznego wykonywania obowiązków podatkowych i celnych, a także efektywnego poboru danin publicznych, uchwala się, co następuje:
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-11-16 |
 | Data wydania | 2016-12-02 |
-| Ostatnia zmiana | 2026-04-15 |
+| Ostatnia zmiana | 2026-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001947) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1947/text.pdf) |
 
 Art. 94ze. Wszczęcie kontroli ex post następuje z chwilą doręczenia unijnemu importerowi w rozumieniu art. 2 lit. l rozporządzenia 2017/821, zwanemu dalej „unijnym importerem”, upoważnienia do przeprowadzenia kontroli ex post udzielonego kontrolującemu przez Szefa Krajowej Administracji Skarbowej oraz wezwania do przedłożenia, w terminie 30 dni od dnia doręczenia unijnemu importerowi tego wezwania, dokumentów potwierdzających spełnienie obowiązków, o których mowa w art. 4–7 rozporządzenia 2017/821.
@@ -336,6 +336,12 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 12f.** Minister właściwy do spraw finansów publicznych, we współpracy z Szefem Krajowej Administracji Skarbowej, w zakresie zadań i usług informatycznych w KAS:
 
+- **1)** wyznacza strategię oraz kierunki działania w zakresie rozwoju i utrzymania;
+- **2)** zarządza w szczególności:
+    - **a)** bezpieczeństwem infrastruktury teleinformatycznej,
+    - **b)** projektami i inicjatywami informatycznymi, w tym weryfikuje zasadność ich realizacji pod kątem biznesowym, architektonicznym, finansowym oraz spójności z innymi inicjatywami realizowanymi w obszarze budżet, finanse publiczne i instytucje finansowe,
+    - **c)** systemami informatycznymi w zakresie infrastruktury, aplikacji oraz nadzoru nad kontraktami z dostawcami zewnętrznymi.
+
 **Art. 13.**
 
 1. Szef Krajowej Administracji Skarbowej podlega ministrowi właściwemu do spraw finansów publicznych.
@@ -451,6 +457,9 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 4.
 
 **Art. 16b.** W zakresie nieuregulowanym w art. 16 i art. 16a oraz w rozporządzeniu (UE) nr 1306/2013 i rozporządzeniu 2021/2116 do przeprowadzania kontroli transakcji, o których mowa w tytule V rozdziale III rozporządzenia (UE) nr 1306/2013 oraz w tytule IV rozdziale III rozporządzenia 2021/2116, stosuje się odpowiednio przepisy:
+
+- **1)** art. 62 ust. 1–2b, 8 i 10, art. 64 ust. 1 pkt 1–5, 7–11 i 17, ust. 3, 4 i 8, art. 72 ust. 1 pkt 1–6 i 8–11 oraz ust. 2, art. 73, art. 76 ust. 1–5, art. 79 ust. 1–3 oraz art. 81 ust. 1–3 i 6;
+- **2)** art. 12, art. 143, art. 168 § 3a, art. 180–181a, art. 193a § 1 i 2, art. 194–195, art. 196 § 1–3, art. 197, art. 199 i działu IV rozdziałów 2, 3a, 5, 6, 9, z wyjątkiem art. 171a § 1–3, oraz rozdziałów 14, 16, 22 i 23 Ordynacji podatkowej.
 
 **Art. 17.** Szef Krajowej Administracji Skarbowej wykonuje zadania na całym terytorium Rzeczypospolitej Polskiej.
 
@@ -1049,6 +1058,14 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 47e.** Dane osobowe przetwarzane w celu wykonywania zadań wynikających z ustawy podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
 
+- **1)** dopuszczeniu przez administratora danych do przetwarzania danych osobowych wyłącznie osób do tego uprawnionych;
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy;
+- **3)** regularnym testowaniu i doskonaleniu stosowanych środków technicznych i organizacyjnych;
+- **4)** zapewnieniu bezpiecznej komunikacji w sieciach teleinformatycznych, w szczególności poprzez zagwarantowanie, by proces pozyskiwania i przekazywania danych osobowych podmiotom zewnętrznym wykorzystywał techniki kryptograficzne;
+- **5)** zapewnieniu ochrony przed nieuprawnionym dostępem do systemów informatycznych KAS;
+- **6)** zapewnieniu integralności danych w systemach informatycznych KAS;
+- **7)** określeniu zasad bezpieczeństwa przetwarzanych danych osobowych.
+
 **Art. 48.**
 
 1. Na sporządzone na piśmie żądanie Szefa Krajowej Administracji Skarbowej, naczelnika urzędu celno-skarbowego lub naczelnika urzędu skarbowego wydane w związku z wszczętym postępowaniem przygotowawczym lub czynnościami wyjaśniającymi odpowiednio w sprawie o przestępstwa lub wykroczenia oraz przestępstwa skarbowe lub wykroczenia skarbowe, bank jest obowiązany do sporządzania i przekazywania informacji dotyczących osoby fizycznej lub osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej lub danych pełnomocników wskazanego w żądaniu rachunku bankowego w przypadku, gdy postępowanie przygotowawcze lub czynności wyjaśniające są prowadzone w związku z czynami popełnionymi w zakresie działalności osoby fizycznej, osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej, w zakresie:
@@ -1088,6 +1105,10 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 3. Przepisy art. 48 ust. 7–10 stosuje się odpowiednio.
 
 **Art. 49.** Podmioty, o których mowa w art. 48 ust. 1–6, są obowiązane na sporządzone na piśmie żądanie:
+
+- **1)** naczelnika urzędu celno-skarbowego, w związku z wszczętą kontrolą celno-skarbową w zakresie, o którym mowa w art. 54 ust. 1 pkt 1–3, lub prowadzonym postępowaniem podatkowym,
+- **2)** naczelnika urzędu skarbowego, w związku z wszczętą kontrolą podatkową lub prowadzonym postępowaniem podatkowym,
+- **3)** Szefa Krajowej Administracji Skarbowej w toku postępowania podatkowego – do sporządzenia i przekazania posiadanych informacji dotyczących kontrolowanego lub strony postępowania, o których mowa w art. 48 ust. 1–6, przy czym przepisy art. 48 ust. 7–10 stosuje się odpowiednio.
 
 **Art. 49a.**
 
@@ -1247,6 +1268,25 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 6. Szef Krajowej Administracji Skarbowej nie udostępnia na podstawie ust. 1 i 3 danych osobowych wskazanych w art. 9 ust. 1 rozporządzenia 2016/679, chyba że podmiot, o którym mowa w ust. 1, jest ustawowo upoważniony do przetwarzania tych danych.
 
 **Art. 52.** Szef Krajowej Administracji Skarbowej, w celu wykonywania ustawowych zadań przez Zakład Ubezpieczeń Społecznych w zakresie opracowywania aktuarialnych analiz i prognoz w zakresie ubezpieczeń społecznych oraz weryfikacji danych własnych Zakładu Ubezpieczeń Społecznych zmierzającej do skutecznego poboru należności z tytułu składek, udostępnia Zakładowi Ubezpieczeń Społecznych na jego żądanie:
+
+- **1)** następujące dane dotyczące podatników lub płatników:
+    - **a)** NIP, numer PESEL, numer REGON, numer w Krajowym Rejestrze Sądowym,
+    - **b)** adres zamieszkania albo adres siedziby, adres do korespondencji, adresy miejsca prowadzenia działalności, wraz z datą ich aktualizacji,
+    - **c)** imiona i nazwiska oraz dane, o których mowa w lit. a i b, wspólników spółek,
+    - **d)** informacje o współmałżonkach w zakresie, o którym mowa w lit. a, b, g, h, k, l,
+    - **e)** kwoty nadpłaty,
+    - **f)** liczbę osób, za które płatnik przekazuje zaliczki,
+    - **g)** informacje o okresach, za które zostały złożone deklaracje podatkowe,
+    - **h)** kwoty przychodów w podziale na źródła przychodów, koszty ich uzyskania oraz dochody, w tym kwoty rocznego przychodu i rocznego dochodu uzyskanego przez podatnika będącego ubezpieczonym, o którym mowa w art. 18c ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, 620, 622, 769 i 820),
+    - **i)** wysokość podstawy opodatkowania,
+    - **j)** kwoty podatku należnego i podatku do zapłaty,
+    - **k)** kwoty składek na ubezpieczenia społeczne i na ubezpieczenie zdrowotne wykazanych w deklaracjach podatkowych,
+    - **l)** identyfikator miejscowości według krajowego rejestru urzędowego podziału terytorialnego kraju (TERYT) adresu zamieszkania – do najniższego posiadanego poziomu,
+    - **m)** wybór formy lub sposobu opodatkowania,
+    - **n)** kwoty przysługujących odliczeń według ich rodzajów,
+    - **o)** kwoty ryczałtu od przychodów ewidencjonowanych obliczone po odliczeniach od przychodów w podziale na stawki ryczałtu;
+
+- **2)** informacje o emeryturach oraz innych świadczeniach przysługujących podatnikom w sytuacji, gdy organem rentowym nie jest Zakład Ubezpieczeń Społecznych.
 
 **Art. 52a.**
 
@@ -1517,6 +1557,9 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 9. Do przeszukania, o którym mowa w ust. 1 pkt 6, przepisy Kodeksu postępowania karnego stosuje się odpowiednio.
 
 **Art. 64a.** Na potrzeby kontroli celno-skarbowej w zakresie, o którym mowa w art. 54 ust. 2 pkt 11a, kontrolującemu przysługują również:
+
+- **1)** uprawnienie do rewizji towarów i środków przewozowych;
+- **2)** uprawnienia, o których mowa w pkt 1 i art. 64, w stosunku do kontrahenta podmiotu, którego dotyczą ograniczenia lub zakazy określone w przepisach wydanych na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi w zakresie ograniczeń lub zakazów obrotu i używania określonych przedmiotów lub produktów spożywczych, o których mowa w art. 46 ust. 4 pkt 2 tej ustawy, jeżeli towary będące ich przedmiotem są przedmiotem dostawy do tego podmiotu lub mają zostać wydane z magazynu kontrahenta.
 
 **Art. 65.**
 
@@ -1959,7 +2002,14 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 91a.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
+- **1)** rodzaje dokumentów mających znaczenie dla kontroli celno-skarbowej w zakresie produkcji automatów do gier hazardowych i obrotu tymi automatami,
+- **2)** szczegółowy sposób i tryb kontroli celno-skarbowej w zakresie produkcji automatów do gier hazardowych i obrotu tymi automatami,
+- **3)** tryb przekazywania i zakres zgłoszeń i informacji – uwzględniając potrzebę zapewnienia skuteczności i sprawności wykonywania kontroli celno-skarbowej w zakresie produkcji automatów do gier hazardowych i obrotu tymi automatami.
+
 **Art. 92.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** formę i sposób wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa podatkowego w zakresie wydobycia urobku rudy miedzi, produkcji koncentratu, wydobycia gazu ziemnego lub ropy naftowej,
+- **2)** rodzaje prowadzonej dokumentacji, jej wzory, a także sposób jej prowadzenia – uwzględniając potrzebę zapewnienia skuteczności i sprawności wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa podatkowego w zakresie wydobycia urobku rudy miedzi, produkcji koncentratu, wydobycia gazu ziemnego lub ropy naftowej.
 
 **Art. 93.** Do kontroli celno-skarbowej nie stosuje się przepisów rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
@@ -1977,7 +2027,28 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 94a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
+- **1)** jednostkach organizacyjnych – rozumie się przez to:
+    - **a)** jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane,
+    - **b)** Policję, Państwową Straż Pożarną, Straż Graniczną i Służbę Ochrony Państwa,
+    - **c)** jednostki organizacyjne Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego;
+
+- **2)** organach kontroli – rozumie się przez to:
+    - **a)** Ministra Obrony Narodowej w przypadku jednostek mu podległych lub przez niego nadzorowanych,
+    - **b)** ministra właściwego do spraw wewnętrznych w przypadku Policji, Państwowej Straży Pożarnej, Straży Granicznej oraz Służby Ochrony Państwa,
+    - **c)** Szefa Agencji Bezpieczeństwa Wewnętrznego w przypadku jednostek organizacyjnych Agencji Bezpieczeństwa Wewnętrznego,
+    - **d)** Szefa Agencji Wywiadu w przypadku jednostek organizacyjnych Agencji Wywiadu,
+    - **e)** Szefa Centralnego Biura Antykorupcyjnego w przypadku jednostek organizacyjnych Centralnego Biura Antykorupcyjnego.
+
 **Art. 94b.** Celami specjalnymi, na które są przeznaczane wyroby akcyzowe w jednostkach organizacyjnych, są:
+
+- **1)** mobilizacyjne zabezpieczenie jednostek organizacyjnych oraz zapasy nienaruszalne wynikające z planów obronnych;
+- **2)** zadania wykonywane w formie czynności operacyjno-rozpoznawczych oraz zadania finansowane z funduszu operacyjnego;
+- **3)** budowa, eksploatacja lub remont:
+    - **a)** obiektów, lokali i terenów przeznaczonych na stanowiska dowodzenia i stanowiska kierowania,
+    - **b)** obiektów służących do wykonywania czynności operacyjno-rozpoznawczych;
+
+- **4)** przechowywanie i eksploatacja uzbrojenia, amunicji, sprzętu wojskowego oraz sprzętu i materiałów służących do wykonywania czynności operacyjno-rozpoznawczych, w tym pojazdów samochodowych;
+- **5)** prace badawczo-rozwojowe i wdrożeniowe dotyczące uzbrojenia, amunicji i sprzętu wojskowego, sprzętu i materiałów służących do wykonywania czynności operacyjno-rozpoznawczych, systemów telekomunikacyjnych i teleinformatycznych, kryptografii, kryptoanalizy i deszyfrażu oraz rozpoznania i zabezpieczenia inżynieryjnego.
 
 **Art. 94c.**
 
@@ -2093,7 +2164,18 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 94k.** Nabycie sprawdzające polega na nabyciu towarów lub usług w celu sprawdzenia wywiązywania się przez sprawdzanego z obowiązków wynikających z przepisów prawa podatkowego, w zakresie:
 
+- **1)** ewidencjonowania sprzedaży przy zastosowaniu kasy rejestrującej;
+- **2)** wydawania nabywcy paragonu fiskalnego.
+
 **Art. 94l.** Ilekroć w niniejszym rozdziale jest mowa o:
+
+- **1)** sprawdzanym – rozumie się przez to:
+    - **a)** podatnika dokonującego sprzedaży towarów lub usług, u którego jest dokonywane nabycie sprawdzające, albo
+    - **b)** osobę dokonującą w imieniu i na rzecz podatnika, o którym mowa w lit. a, sprzedaży towarów lub usług;
+
+- **2)** sprawdzającym – rozumie się przez to:
+    - **a)** osobę zatrudnioną w jednostce organizacyjnej KAS wykonującą czynności służbowe w jednostce organizacyjnej, o której mowa w art. 36 ust. 1 pkt 4 albo 5,
+    - **b)** funkcjonariusza pełniącego służbę w jednostce organizacyjnej, o której mowa w art. 36 ust. 1 pkt 5 – dokonujących nabycia sprawdzającego.
 
 **Art. 94m.**
 
@@ -2136,6 +2218,12 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 - **3)** odstąpienia od zwrotu towaru.
 
 **Art. 94q.** Sprawdzany jest obowiązany do:
+
+- **1)** przyjęcia zwracanego towaru;
+- **2)** przyjęcia paragonu fiskalnego dokumentującego sprzedaż zwracanego towaru;
+- **3)** zwrotu zapłaty otrzymanej za:
+    - **a)** zwracany towar,
+    - **b)** towar, o którym mowa w art. 94p ust. 3.
 
 **Art. 94r.**
 
@@ -2352,11 +2440,39 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 98.** W zakresie nieregulowanym w niniejszym rozdziale do audytu stosuje się odpowiednio:
 
+- **1)** przepisy art. 62 ust. 1–2b, 8 i 10, art. 64 ust. 1 pkt 1–5, 7–11 i 17, ust. 3, 4 i 8, art. 72 ust. 1 pkt 1–6 i 8–11 oraz ust. 2, art. 73, art. 76, art. 79, art. 81 ust. 1– 6, a w zakresie audytu, o którym mowa w art. 95 ust. 1 pkt 2–7 – również przepisy art. 63 ust. 1 i 2;
+- **2)** przepisy art. 12, art. 143, art. 180–181a, art. 193a–197, art. 199 oraz działu IV rozdziałów 2, 3a, 5, 6, 9, z wyjątkiem art. 171a, oraz rozdziałów 22 i 23 Ordynacji podatkowej, a w zakresie audytu, o którym mowa w art. 95 ust. 1 pkt 2–7 – również przepisy działu IV rozdziałów 14 i 16 Ordynacji podatkowej.
+
 #### Rozdział 2a Ocena wykorzystania środków budżetowych i mienia państwowego przeznaczonych na cele specjalne
 
 **Art. 98a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
+- **1)** jednostkach organizacyjnych – rozumie się przez to:
+    - **a)** jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane,
+    - **b)** Biuro Nadzoru Wewnętrznego, Policję, Państwową Straż Pożarną, Straż Graniczną i Służbę Ochrony Państwa,
+    - **c)** jednostki organizacyjne Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego;
+
+- **2)** organach przeprowadzających ocenę – rozumie się przez to:
+    - **a)** Ministra Obrony Narodowej w przypadku jednostek mu podległych lub przez niego nadzorowanych,
+    - **b)** ministra właściwego do spraw wewnętrznych w przypadku Biura Nadzoru Wewnętrznego, Policji, Państwowej Straży Pożarnej, Straży Granicznej oraz Służby Ochrony Państwa,
+    - **c)** Szefa Agencji Bezpieczeństwa Wewnętrznego w przypadku jednostek organizacyjnych Agencji Bezpieczeństwa Wewnętrznego,
+    - **d)** Szefa Agencji Wywiadu w przypadku jednostek organizacyjnych Agencji Wywiadu,
+    - **e)** Szefa Centralnego Biura Antykorupcyjnego w przypadku jednostek organizacyjnych Centralnego Biura Antykorupcyjnego.
+
 **Art. 98b.** Celami specjalnymi, na które są przeznaczane środki budżetowe i mienie państwowe w jednostkach organizacyjnych, są:
+
+- **1)** mobilizacyjne zabezpieczenie jednostek organizacyjnych oraz zapasy nienaruszalne wynikające z planów obronnych;
+- **2)** zadania wykonywane w formie czynności operacyjno-rozpoznawczych oraz zadania finansowane z funduszu operacyjnego;
+- **3)** uposażenie i pozostałe świadczenia dla żołnierzy i funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz Centralnego Biura Antykorupcyjnego uprawnionych do wykonywania czynności operacyjno-rozpoznawczych;
+- **4)** nabycie, budowa, eksploatacja i remonty obiektów, lokali i terenów przeznaczonych na stanowiska dowodzenia i stanowiska kierowania organów określonych w odrębnych przepisach oraz obiektów służących do wykonywania czynności operacyjno-rozpoznawczych;
+- **5)** nabycie, przechowywanie i eksploatacja uzbrojenia, amunicji, sprzętu wojskowego oraz sprzętu i materiałów używanych w celu wykonywania czynności operacyjno-rozpoznawczych, w tym pojazdów samochodowych;
+- **6)** organizowanie, utrzymywanie i rozwój sieci telekomunikacyjnych oraz systemów teleinformatycznych służących ochronie informacji niejawnych przesyłanych, przechowywanych lub przetwarzanych w tych systemach, w tym sieci telekomunikacyjnych oraz systemów teleinformatycznych służących do wykonywania czynności operacyjno-rozpoznawczych;
+- **7)** organizowanie, utrzymywanie i rozwój metod i środków kryptografii, kryptoanalizy i deszyfrażu;
+- **8)** organizowanie, utrzymywanie i rozwój systemów rozpoznania i przeciwdziałania radioelektronicznego;
+- **9)** prace badawczo-rozwojowe i wdrożeniowe dotyczące uzbrojenia, amunicji i sprzętu wojskowego, sprzętu i materiałów służących do wykonywania czynności operacyjno-rozpoznawczych, systemów telekomunikacyjnych i teleinformatycznych, kryptografii, kryptoanalizy i deszyfrażu oraz rozpoznania i zabezpieczenia inżynieryjnego;
+- **10)** współpraca z właściwymi organami i służbami innych państw, związana z dostępem do informacji niejawnych na podstawie umowy międzynarodowej albo porozumienia międzynarodowego;
+- **11)** działalność o szczególnie ważnym znaczeniu dla Sił Zbrojnych Rzeczypospolitej Polskiej, obronności i bezpieczeństwa państwa, o której informacje stanowią informacje niejawne o klauzuli „ściśle tajne”;
+- **12)** organizowanie, utrzymywanie i rozwój systemów teleinformatycznych służących do ochrony cyberprzestrzeni jednostek organizacyjnych.
 
 **Art. 98c.**
 
@@ -2479,6 +2595,9 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 99a.** Czynności audytowe przeprowadza się również w celu ustalenia, czy:
 
+- **1)** przedsiębiorca telekomunikacyjny wykonuje obowiązki, o których mowa w art. 15f ust. 5 ustawy z dnia 19 listopada 2009 r. o grach hazardowych;
+- **2)** dostawca usług płatniczych wykonuje obowiązki, o których mowa w art. 15g ust. 2 ustawy z dnia 19 listopada 2009 r. o grach hazardowych.
+
 **Art. 100.**
 
 1. Czynności audytowe, o których mowa w art. 99, polegają w szczególności na:
@@ -2571,6 +2690,12 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 #### Rozdział 4 Urzędowe sprawdzenie
 
 **Art. 106.** Naczelnik urzędu celno-skarbowego:
+
+- **1)** może przeprowadzić urzędowe sprawdzenie:
+    - **a)** przed rozpoczęciem działalności, o której mowa w art. 74 ust. 1–4,
+    - **b)** w przypadku weryfikacji dalszego spełniania warunków i środków do sprawnego przeprowadzenia kontroli, a w szczególności warunków i środków, o których mowa w art. 72 ust. 1 pkt 2, 4, 7, 8 i 10, art. 74 ust. 1 pkt 1–4 i 7, ust. 2 pkt 1, 2 i 4, ust. 3, ust. 3a pkt 1–3 i 5 oraz ust. 4 pkt 1 i 3;
+
+- **2)** przeprowadza urzędowe sprawdzenie w przypadku, gdy przepisy o podatku akcyzowym uzależniają wydanie decyzji od wyniku urzędowego sprawdzenia.
 
 **Art. 107.** Urzędowe sprawdzenie polega na wykonaniu czynności w celu ustalenia, czy w miejscu prowadzenia działalności podlegającej kontroli celno-skarbowej są zapewnione warunki i środki do sprawnego przeprowadzenia kontroli celno-skarbowej, a w szczególności warunki i środki, o których mowa w art. 72 ust. 1 pkt 2, 4, 7, 8 i 10, art. 74 ust. 1 pkt 1–4, ust. 2 pkt 1 i 2, ust. 3, ust. 3a pkt 1–3 oraz ust. 4 pkt 1, a w przypadku, o którym mowa w art. 106 pkt 2, również na wykonaniu czynności w celu ustalenia, czy miejsce prowadzenia działalności spełnia warunki określone w przepisach o podatku akcyzowym.
 
@@ -2969,6 +3094,9 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 132a.** Naczelnik urzędu celno-skarbowego może upoważnić swojego zastępcę do:
 
+- **1)** zarządzania czynności, o których mowa w art. 120 ust. 1;
+- **2)** wykonywania innych czynności związanych z realizacją uprawnień określonych w art. 113–117, art. 118 ust. 1–17, art. 120 ust. 2–6, art. 122– 126, art. 127 ust. 1–5, art. 127a ust. 1, 2 i 6–12, art. 128 ust. 1 oraz art. 131 ust. 2 i 5.
+
 **Art. 133.**
 
 1. Funkcjonariusze w związku z realizacją zadań, o których mowa w art. 2 ust. 1 pkt 1, 2, 13–16a i 16c, art. 14 ust. 1 pkt 7 i 19 oraz art. 33 ust. 1 pkt 15, oprócz uprawnień określonych w art. 64 mają prawo do:
@@ -3069,6 +3197,11 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 140.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
+- **1)** rodzaje broni palnej przysługującej osobom, o których mowa w art. 138;
+- **2)** kryteria i tryb przydziału broni palnej, normy uzbrojenia oraz sposób jej magazynowania, przechowywania i zapewniania właściwego stanu technicznego, biorąc pod uwagę konieczność zapewnienia bezpieczeństwa i uniemożliwienie użycia broni palnej przez osobę nieuprawnioną;
+- **3)** normy wyposażenia niezbędnego do wykonywania czynności służbowych, zasady jego przyznawania i użytkowania, biorąc pod uwagę zakres wykonywanych zadań;
+- **4)** warunki przyznawania środków przymusu bezpośredniego, o których mowa w art. 139 ust. 1, uwzględniając zakres zadań wykonywanych przez funkcjonariuszy lub rodzaje stanowisk.
+
 **Art. 141.** W urzędzie obsługującym ministra właściwego do spraw finansów publicznych może działać wyodrębniona komórka organizacyjna, w której funkcjonariusze są uprawnieni do wykonywania czynności, o których mowa w art. 133 ust. 1, właściwa do prowadzenia działań na całym terytorium Rzeczypospolitej Polskiej.
 
 **Art. 142.** W przypadku bezpośredniego zagrożenia przejęciem jednostki pływającej przez załogę innego statku przepisy art. 139 ust. 1 i 3 stosuje się odpowiednio.
@@ -3099,9 +3232,21 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 143b.** Szef Krajowej Administracji Skarbowej przekazuje:
 
+- **1)** ministrowi właściwemu do spraw zagranicznych informacje niezbędne do realizacji obowiązku, o którym mowa w art. 7 rozporządzenia 765/2006, art. 12 rozporządzenia 269/2014 oraz art. 3m ust. 11, art. 6, art. 6a, art. 6b ust. 2 i art. 12c ust. 1 rozporządzenia 833/2014;
+- **2)** ministrowi właściwemu do spraw wewnętrznych informacje niezbędne do realizacji zadań określonych w ustawie z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego;
+- **3)** właściwemu marszałkowi województwa informacje niezbędne do realizacji zadań określonych w art. 6e ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego.
+
 **Art. 143c.** Kontrolę przestrzegania środków ograniczających określonych w rozporządzeniu 765/2006, rozporządzeniu 269/2014, rozporządzeniu 833/2014 oraz w ustawie z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego, w ramach sprawowanego nadzoru lub kontroli, sprawują także, na zasadach określonych w przepisach odrębnych:
 
+- **1)** Generalny Inspektor Informacji Finansowej – w odniesieniu do instytucji obowiązanych, o których mowa w ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+- **2)** Komisja Nadzoru Finansowego – w odniesieniu do podmiotów przez nią nadzorowanych, które są instytucjami obowiązanymi, o których mowa w ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+
 **Art. 143d.** Osoba lub podmiot, które:
+
+- **1)** nie dopełniają obowiązku zamrożenia środków finansowych, funduszy lub zasobów gospodarczych lub zakazu udostępniania środków finansowych, funduszy lub zasobów gospodarczych, określonego w art. 2 rozporządzenia 765/2006 lub art. 2 rozporządzenia 269/2014,
+- **2)** naruszają zakaz, o którym mowa w art. 1a ust. 1, art. 1b ust. 1, art. 1ba, art. 1bb ust. 1–3, art. 1c ust. 1, art. 1d ust. 1, art. 1e ust. 1–2, art. 1f ust. 1–2, art. 1fd ust. 1 lub 2, art. 1g ust. 1 lub 1a, art. 1ga ust. 1 lub 2, art. 1gb ust. 1, art. 1gc ust. 1 lub 2, art. 1h ust. 1 i 2, art. 1i ust. 1 lub 1a, art. 1j, art. 1ja ust. 1, art. 1jb, art. 1jc ust. 1–5, art. 1k ust. 1, art. 1l ust. 1, art. 1o ust. 1, art. 1p ust. 1, art. 1q ust. 1, art. 1r ust. 1, art. 1ra ust. 1 lub 2, art. 1rb ust. 1–4, art. 1rc ust. 1– 3, art. 1s ust. 1 lub 1a, art. 1sa ust. 1–4, art. 1t ust. 1, art. 1u ust. 1, art. 1x ust. 1, art. 1y ust. 1, art. 1za ust. 1, art. 1zb ust. 1 lub art. 1zc ust. 1–1c rozporządzenia 765/2006 lub art. 2 ust. 1–2, art. 2a ust. 1–2, art. 2aa, art. 2e ust. 1 lub 3, art. 2f ust. 1 lub ust. 3, art. 3 ust. 1 lub 2, art. 3a ust. 1 lub 2, art. 3b ust. 1 lub 2, art. 3c ust. 1–4, art. 3d ust. 1, art. 3ea ust. 1 lub 1a, art. 3eb ust. 1, art. 3ec ust. 1, art. 3f ust. 1 lub 2, art. 3g ust. 1, art. 3h ust. 1 lub 2, art. 3i ust. 1 lub 2, art. 3k ust. 1–2, art. 3l ust. 1–1c, art. 3m ust. 1, 2 lub 8, art. 3n ust. 1 lub 4, art. 3o ust. 1–4, art. 3p ust. 1–5, art. 3q ust. 1, art. 3r ust. 1 lub 2, art. 3s ust. 1, art. 3t ust. 1 lub 2, art. 3u ust. 1 lub 2, art. 3v ust. 1 lub 2, art. 4 ust. 1, art. 5 ust. 1–6, art. 5a ust. 1, 2 lub 4, art. 5aa ust. 1–1b, art. 5ab ust. 1, art. 5ac ust. 1–2, art. 5ad ust. 1, art. 5b ust. 1–2a, art. 5e ust. 1, art. 5f ust. 1, art. 5h ust. 1, art. 5i ust. 1, art. 5j ust. 1 lub 2, art. 5k ust. 1, art. 5l ust. 1, art. 5m ust. 1 lub 2, art. 5n ust. 1–2b lub 3a, art. 5o ust. 1, art. 5p ust. 1, art. 5t ust. 1, art. 12f ust. 1 lub 2 lub art. 12g ust. 1 rozporządzenia 833/2014,
+- **3)** nie dopełniają obowiązku niezwłocznego przekazywania informacji wymaganych na podstawie art. 1z, art. 5 lub art. 8j ust. 1 rozporządzenia 765/2006, art. 7, art. 8 lub art. 9 ust. 2 rozporządzenia 269/2014 lub art. 3d ust. 1a lub 5, art. 3l ust. 1d, art. 3m ust. 11, art. 5a ust. 4a lub 4b, art. 5g, art. 5r ust. 1 lub 2 lub art. 6b ust. 1 rozporządzenia 833/2014,
+- **4)** nie stosują się do zakazu świadomego i celowego udziału w działaniach, których celem lub skutkiem jest ominięcie stosowania art. 2 rozporządzenia 765/2006, art. 2 rozporządzenia 269/2014 oraz art. 2e ust. 1 lub 3, art. 3 ust. 1 lub 2, art. 3a ust. 1 lub 2, art. 3g ust. 1, art. 3h ust. 1, art. 3u ust. 1, art. 5 ust. 1– 6, art. 5a ust. 1, 2 lub 4, art. 5aa ust. 1, art. 5ab ust. 1, art. 5ad ust. 1, art. 5b ust. 1, art. 5f ust. 1, art. 5h, art. 5i ust. 1 lub art. 5j ust. 1 lub 2 rozporządzenia 833/2014 – podlegają karze pieniężnej.
 
 **Art. 143e.**
 
@@ -3483,6 +3628,10 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 167.** Nie można bez zgody zainteresowanego przenieść do pełnienia służby w innej miejscowości:
 
+- **1)** funkcjonariusza-kobiety w ciąży;
+- **2)** funkcjonariusza samodzielnie sprawującego opiekę nad dzieckiem do lat 18.
+- **3)** (uchylony)
+
 **Art. 168.**
 
 1. Przeniesienie funkcjonariusza do innej miejscowości, z której dojazd do miejsca zamieszkania jest znacznie utrudniony, wymaga zapewnienia funkcjonariuszowi odpowiednich warunków mieszkaniowych, z uwzględnieniem jego sytuacji rodzinnej.
@@ -3681,6 +3830,14 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 182.** Stosunek służbowy funkcjonariusza wygasa:
 
+- **1)** z dniem śmierci funkcjonariusza;
+- **2)** w przypadku niezgłoszenia się funkcjonariusza do służby – z upływem 7 dni od dnia:
+    - **a)** doręczenia decyzji o uchyleniu decyzji o zwolnieniu ze służby albo
+    - **b)** doręczenia decyzji o stwierdzeniu nieważności decyzji o zwolnieniu ze służby, albo
+    - **c)** doręczenia prawomocnego wyroku sądu uchylającego decyzję o zwolnieniu ze służby albo orzeczenie dyscyplinarne o wydaleniu ze Służby Celno-Skarbowej;
+
+- **3)** w przypadku stwierdzenia przez Szefa Krajowej Administracji Skarbowej zaginięcia funkcjonariusza na podstawie informacji przekazanej przez właściwe organy.
+
 **Art. 183.**
 
 1. W przypadkach, o których mowa w art. 179 ust. 1 pkt 10 i 11 oraz w art. 180 ust. 1 pkt 1, 4, 7 i 8, zwolnienie ze służby następuje po upływie odpowiednio:
@@ -3725,6 +3882,11 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 3. Przepisy art. 184 ust. 1, 2, 4 i 5 oraz art. 185 ust. 2 stosuje się odpowiednio.
 
 **Art. 187.** W przypadku uchylenia kary dyscyplinarnej:
+
+- **1)** przeniesienia na niższe stanowisko służbowe,
+- **2)** obniżenia stopnia służbowego,
+- **3)** pozbawienia stopnia oficerskiego lub generalskiego,
+- **4)** wydalenia ze Służby Celno-Skarbowej – przepis art. 184 stosuje się odpowiednio.
 
 **Art. 188.**
 
@@ -3938,6 +4100,11 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 194.** Utrata stopnia służbowego następuje w przypadku:
 
+- **1)** zrzeczenia się obywatelstwa polskiego;
+- **2)** orzeczenia prawomocnym wyrokiem sądu pozbawienia praw publicznych;
+- **3)** skazania prawomocnym wyrokiem sądu za przestępstwo umyślne lub umyślne przestępstwo skarbowe;
+- **4)** prawomocnego orzeczenia kary dyscyplinarnej wydalenia ze Służby Celno-Skarbowej.
+
 **Art. 195.**
 
 1. Prezydent Rzeczypospolitej Polskiej, na wniosek ministra właściwego do spraw finansów publicznych, pozbawia stopnia służbowego nadinspektora i generała w korpusie generałów Służby Celno-Skarbowej.
@@ -4031,6 +4198,12 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 199.** Funkcjonariusz jest obowiązany:
 
+- **1)** dochować obowiązków wynikających ze złożonego ślubowania;
+- **2)** rzetelnie i terminowo wykonywać powierzone zadania;
+- **3)** racjonalnie gospodarować środkami publicznymi;
+- **4)** podnosić kwalifikacje zawodowe;
+- **5)** godnie zachowywać się w służbie oraz poza nią.
+
 **Art. 200.**
 
 1. Funkcjonariusz jest obowiązany składać oświadczenie o swoim stanie majątkowym:
@@ -4056,6 +4229,10 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, tryb postępowania w sprawach oświadczeń o stanie majątkowym, sposób ich analizy, a także wzór oświadczenia o stanie majątkowym, wraz z pouczeniem o odpowiedzialności za podanie informacji niezgodnych ze stanem faktycznym, uwzględniając zakres danych objętych oświadczeniem. Wydając rozporządzenie, minister właściwy do spraw finansów publicznych uwzględni potrzebę zapewnienia prawidłowego składania i przechowywania oświadczeń o stanie majątkowym oraz ograniczenia dostępu do tych oświadczeń.
 
 **Art. 201.** Funkcjonariusz przy wykonywaniu obowiązków służbowych nie może:
+
+- **1)** kierować się interesem jednostkowym lub grupowym;
+- **2)** uczestniczyć w strajku, a także w działalności zakłócającej normalną pracę jednostki organizacyjnej KAS;
+- **3)** publicznie manifestować poglądów politycznych.
 
 **Art. 202.**
 
@@ -4209,6 +4386,9 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, przypadki, w których funkcjonariusz otrzymuje wyżywienie lub równoważnik pieniężny w zamian za wyżywienie, normy wyżywienia i wysokość równoważnika pieniężnego, sposób ustalania wartości pieniężnej równoważnika, warunki i tryb jego wypłacania, a także organy właściwe w tych sprawach, uwzględniając zakres i specyfikę zadań służbowych wykonywanych przez funkcjonariuszy.
 
 **Art. 214.** Do funkcjonariusza stosuje się przepisy Kodeksu pracy dotyczące uprawnień pracowników związanych z:
+
+- **1)** rodzicielstwem, chyba że przepisy ustawy są korzystniejsze;
+- **2)** równym traktowaniem w zatrudnieniu.
 
 **Art. 215.** Jeżeli zachodzi konieczność zastępstwa funkcjonariusza, z wyłączeniem funkcjonariusza wykonującego czynności operacyjno-rozpoznawcze, w czasie jego nieobecności w służbie w związku z przebywaniem na urlopie macierzyńskim, urlopie na warunkach urlopu macierzyńskiego, uzupełniającym urlopie macierzyńskim, urlopie ojcowskim, urlopie rodzicielskim lub urlopie wychowawczym, można w tym celu zatrudnić osobę na podstawie umowy o pracę na czas określony, obejmujący okres tej nieobecności.
 
@@ -4797,6 +4977,18 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 #### Rozdział 2 Odpowiedzialność dyscyplinarna funkcjonariuszy
 
 **Art. 254.** Funkcjonariusze podlegają odpowiedzialności dyscyplinarnej za naruszenie obowiązków służbowych, w szczególności za:
+
+- **1)** niedopełnienie obowiązków służbowych lub wynikających ze złożonego ślubowania oraz przepisów prawa;
+- **2)** przekroczenie uprawnień określonych w przepisach prawa;
+- **3)** odmowę wykonania lub niewykonanie polecenia, z wyjątkiem przypadków wskazanych w art. 204 ust. 2 i 3;
+- **4)** zaniechanie czynności służbowej albo wykonanie jej w sposób niedbały lub nieprawidłowy;
+- **5)** wprowadzenie w błąd przełożonego lub innego funkcjonariusza, jeżeli spowodowało to lub mogło spowodować szkodę służbie, funkcjonariuszowi lub innej osobie;
+- **6)** nadużycie zajmowanego stanowiska dla osiągnięcia korzyści majątkowej lub osobistej;
+- **7)** nieusprawiedliwione niestawienie się lub opuszczenie miejsca pełnienia służby;
+- **8)** wprowadzenie się w stan ograniczający zdolność wykonywania zadania służbowego albo uniemożliwiający jego wykonanie;
+- **9)** utratę uzbrojenia służbowego;
+- **10)** umyślne naruszenie dóbr osobistych innego funkcjonariusza w czasie pełnienia służby;
+- **11)** stosowanie dyskryminacji, molestowania oraz mobbingu w rozumieniu przepisów Kodeksu pracy.
 
 **Art. 255.**
 

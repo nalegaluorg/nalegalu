@@ -8,7 +8,7 @@ pos: 780
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Radzie Ministrów
@@ -131,11 +131,11 @@ source: "isap-pdf"
 
 **Art. 9b.**
 
-1. Koordynację realizacji obowiązków Rządu wobec Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej oraz uczestnictwa przedstawicieli Rządu w pracach parlamentarnych zapewnia Sekretarz do Spraw Parlamentarnych w Kancelarii Prezesa Rady Ministrów.
+1. Koordynację realizacji obowiązków Rządu wobec Sejmu Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej oraz uczestnictwa przedstawicieli Rządu w pracach parlamentarnych zapewnia Sekretarz do Spraw Parlamentarnych w Kancelarii Prezesa Rady Ministrów.
 
 2. Funkcję Sekretarza do Spraw Parlamentarnych pełni wyznaczony przez Prezesa Rady Ministrów minister, sekretarz stanu albo podsekretarz stanu w Kancelarii Prezesa Rady Ministrów albo pracownik Kancelarii Prezesa Rady Ministrów.
 
-3. Do zadań Sekretarza do Spraw Parlamentarnych należy w szczególności monitorowanie terminowej realizacji obowiązków Rządu wobec Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej, przygotowania i przedstawiania stanowiska Rządu, a także zapewnienia właściwej reprezentacji Rządu w pracach parlamentarnych.
+3. Do zadań Sekretarza do Spraw Parlamentarnych należy w szczególności monitorowanie terminowej realizacji obowiązków Rządu wobec Sejmu Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej, przygotowania i przedstawiania stanowiska Rządu, a także zapewnienia właściwej reprezentacji Rządu w pracach parlamentarnych.
 
 **Art. 10.**
 

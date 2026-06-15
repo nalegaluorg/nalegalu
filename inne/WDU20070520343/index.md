@@ -8,7 +8,7 @@ pos: 343
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-02-16 |
 | Data wydania | 2007-03-23 |
-| Ostatnia zmiana | 2026-05-15 |
+| Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070520343) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/343/text.pdf) |
 
 Art. 68-70. (pominięte)
@@ -32,6 +32,13 @@ Art. 68-70. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady:
+
+- **1)** tworzenia, utrzymywania i finansowania zapasów ropy naftowej, produktów naftowych i gazu ziemnego;
+- **2)** przeprowadzania kontroli u podmiotów objętych obowiązkiem tworzenia i utrzymywania zapasów, o których mowa w pkt 1, a także u przedsiębiorców świadczących usługi magazynowania oraz którym zlecono tworzenie i utrzymywanie zapasów;
+- **3)** postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i bezpieczeństwa gazowego państwa oraz wypełniania zobowiązań międzynarodowych dotyczących zaopatrzenia rynku w ropę naftową, produkty naftowe i gaz ziemny, w tym:
+    - **a)** dysponowania zapasami, o których mowa w pkt 1,
+    - **b)** warunki zaopatrzenia w ropę naftową, produkty naftowe i gaz ziemny,
+    - **c)** zakres wprowadzanych ograniczeń w dostarczaniu, poborze i zużyciu produktów naftowych i gazu ziemnego.
 
 **Art. 2.**
 
@@ -178,6 +185,14 @@ Art. 68-70. (pominięte)
 
 **Art. 4.** Minister właściwy do spraw gospodarki surowcami energetycznymi corocznie, w terminie do dnia 15 marca, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
 
+- **1)** wielkości:
+    - **a)** średniego dziennego przywozu netto ekwiwalentu ropy naftowej,
+    - **b)** średniego dziennego zużycia krajowego brutto ekwiwalentu ropy naftowej,
+    - **c)** średniej dziennej produkcji netto gazu płynnego (LPG),
+    - **d)** średniego dziennego przywozu gazu płynnego (LPG) – w poprzednim roku kalendarzowym, na podstawie danych statystycznych przekazywanych lub zebranych w ramach badań statystyki publicznej określanych corocznie w programach badań statystycznych statystyki publicznej, oraz
+
+- **2)** wartości współczynników określających gęstość produktów naftowych służących do ich przeliczenia z jednostek objętościowych na jednostki wagowe, stosowanych w okresie od dnia 30 czerwca danego roku kalendarzowego do dnia 29 czerwca następnego roku kalendarzowego.
+
 **Art. 5.**
 
 1. Producenci i handlowcy są obowiązani do tworzenia i utrzymywania zapasów obowiązkowych ropy naftowej lub paliw.
@@ -203,9 +218,9 @@ Art. 68-70. (pominięte)
 
 3b. Producenci i handlowcy tworzą zapasy obowiązkowe ropy naftowej lub paliw, z wyłączeniem gazu płynnego (LPG), obliczając ich ilość na dany rok kalendarzowy na podstawie wielkości produkcji paliw, z wyłączeniem gazu płynnego (LPG), lub przywozu ropy naftowej lub paliw, z wyłączeniem gazu płynnego (LPG), na terytorium Rzeczypospolitej Polskiej w poprzednim roku kalendarzowym, przy czym:
 
-- **1)** w przypadku ropy naftowej – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw, z wyłączaniem gazu płynnego (LPG), w zakresie ropy naftowej oblicza się według wzoru: ZO P−G−O = [ ×H] ×W R gdzie poszczególne symbole oznaczają: ZO – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie ropy naftowej wyrażoną w jednostkach wagowych, P – wielkość przywozu ropy naftowej i ilość ropy naftowej wprowadzonej na rynek krajowy z zapasów obowiązkowych w wyniku ich interwencyjnego uwolnienia w poprzednim roku kalendarzowym, wyrażoną w jednostkach wagowych, G – ilość ropy naftowej wykorzystanej do produkcji paliw w poprzednim roku kalendarzowym, wyrażoną w jednostkach wagowych, O – pomniejszenia odnoszące się do poprzedniego roku kalendarzowego, o których mowa w ust. 6, wyrażone w jednostkach wagowych, R – liczbę dni w poprzednim roku kalendarzowym, H – wielkość zapasów obowiązkowych ropy naftowej lub paliw, z wyłączeniem gazu płynnego (LPG), wyrażoną w liczbie dni średniej dziennej wielkości przywozu ropy naftowej, określonej w ust. 3 dla danego roku kalendarzowego, W – współczynnik powiększenia zapasów obowiązkowych ropy naftowej lub paliw w zakresie ropy naftowej o rezerwę określoną w art. 3 ust. 4, wynoszący 1,1;
+- **1)** w przypadku ropy naftowej – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw, z wyłączaniem gazu płynnego (LPG), w zakresie ropy naftowej oblicza się według wzoru: P−G−O ZO = [ ×H] ×W R gdzie poszczególne symbole oznaczają: ZO – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie ropy naftowej wyrażoną w jednostkach wagowych, P – wielkość przywozu ropy naftowej i ilość ropy naftowej wprowadzonej na rynek krajowy z zapasów obowiązkowych w wyniku ich interwencyjnego uwolnienia w poprzednim roku kalendarzowym, wyrażoną w jednostkach wagowych, G – ilość ropy naftowej wykorzystanej do produkcji paliw w poprzednim roku kalendarzowym, wyrażoną w jednostkach wagowych, O – pomniejszenia odnoszące się do poprzedniego roku kalendarzowego, o których mowa w ust. 6, wyrażone w jednostkach wagowych, R – liczbę dni w poprzednim roku kalendarzowym, H – wielkość zapasów obowiązkowych ropy naftowej lub paliw, z wyłączeniem gazu płynnego (LPG), wyrażoną w liczbie dni średniej dziennej wielkości przywozu ropy naftowej, określonej w ust. 3 dla danego roku kalendarzowego, W – współczynnik powiększenia zapasów obowiązkowych ropy naftowej lub paliw w zakresie ropy naftowej o rezerwę określoną w art. 3 ust. 4, wynoszący 1,1;
 - **2)** ilość ropy naftowej, oznaczonej symbolem „G”, o której mowa w pkt 1, oblicza się według wzoru: G = P × U gdzie poszczególne symbole oznaczają: P – wielkość przywozu ropy naftowej i ilość ropy naftowej wprowadzonej na rynek krajowy z zapasów obowiązkowych w wyniku ich interwencyjnego uwolnienia w poprzednim roku kalendarzowym, wyrażoną w jednostkach wagowych, U – współczynnik uzysku paliw z ropy naftowej przerobionej przez poszczególnych producentów w poprzednim roku kalendarzowym;
-- **3)** w przypadku paliw, z wyłączeniem gazu płynnego (LPG) – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie paliw, z wyłączeniem gazu płynnego (LPG), oblicza się według wzoru: ZO P−O = [ ×H] ×W R gdzie poszczególne symbole oznaczają: ZO – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie paliw, z wyłączeniem gazu płynnego (LPG), wyrażoną w jednostkach objętościowych, w temperaturze referencyjnej 15 °C (288 °K), P – wielkość produkcji i przywozu paliw oraz ilość paliw wprowadzonych na rynek krajowy z zapasów obowiązkowych w wyniku ich interwencyjnego uwolnienia, z wyłączeniem gazu płynnego (LPG), wyrażoną w jednostkach objętościowych, w temperaturze referencyjnej 15 °C (288 °K) w poprzednim roku kalendarzowym, O – pomniejszenia odnoszące się do poprzedniego roku kalendarzowego, o których mowa w ust. 6, wyrażone w jednostkach objętościowych, w temperaturze referencyjnej 15 °C (288 °K), R – liczbę dni w poprzednim roku kalendarzowym, H – wielkość zapasów obowiązkowych ropy naftowej lub paliw, z wyłączeniem gazu płynnego (LPG), wyrażoną w liczbie dni średniej dziennej produkcji lub przywozu paliw, określonej w ust. 3 dla danego roku kalendarzowego, W – współczynnik powiększenia zapasów obowiązkowych ropy naftowej lub paliw w zakresie paliw, z wyłączeniem gazu płynnego (LPG), o rezerwę określoną w art. 3 ust. 4, wynoszący 1,1.
+- **3)** w przypadku paliw, z wyłączeniem gazu płynnego (LPG) – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie paliw, z wyłączeniem gazu płynnego (LPG), oblicza się według wzoru: P−O ZO = [ ×H] ×W R gdzie poszczególne symbole oznaczają: ZO – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie paliw, z wyłączeniem gazu płynnego (LPG), wyrażoną w jednostkach objętościowych, w temperaturze referencyjnej 15 °C (288 °K), P – wielkość produkcji i przywozu paliw oraz ilość paliw wprowadzonych na rynek krajowy z zapasów obowiązkowych w wyniku ich interwencyjnego uwolnienia, z wyłączeniem gazu płynnego (LPG), wyrażoną w jednostkach objętościowych, w temperaturze referencyjnej 15 °C (288 °K) w poprzednim roku kalendarzowym, O – pomniejszenia odnoszące się do poprzedniego roku kalendarzowego, o których mowa w ust. 6, wyrażone w jednostkach objętościowych, w temperaturze referencyjnej 15 °C (288 °K), R – liczbę dni w poprzednim roku kalendarzowym, H – wielkość zapasów obowiązkowych ropy naftowej lub paliw, z wyłączeniem gazu płynnego (LPG), wyrażoną w liczbie dni średniej dziennej produkcji lub przywozu paliw, określonej w ust. 3 dla danego roku kalendarzowego, W – współczynnik powiększenia zapasów obowiązkowych ropy naftowej lub paliw w zakresie paliw, z wyłączeniem gazu płynnego (LPG), o rezerwę określoną w art. 3 ust. 4, wynoszący 1,1.
 
 3c. Producent dokonuje obliczeń wymaganej ilości zapasów obowiązkowych ropy naftowej lub paliw, z wyłączeniem gazu płynnego (LPG), w zakresie ropy naftowej, stosując własne współczynniki uzysku paliw z poprzedniego roku kalendarzowego.
 
@@ -236,7 +251,7 @@ Art. 68-70. (pominięte)
 - **3)** określenie ilości odsprzedanej ropy naftowej lub paliw, od której producent lub handlowiec dokonujący odsprzedaży paliw utworzy zapasy obowiązkowe ropy naftowej lub paliw;
 - **4)** zobowiązanie do utworzenia zapasów obowiązkowych ropy naftowej lub paliw od ilości paliw lub komponentów odsprzedanych w celu dalszego ich przetwarzania.
 
-3k. Producenci i handlowcy tworzą zapasy obowiązkowe ropy naftowej lub paliw w zakresie gazu płynnego (LPG), ustalając ich ilość na dany rok kalendarzowy na podstawie wielkości produkcji gazu płynnego (LPG) lub jego przywozu na terytorium Rzeczypospolitej Polskiej w poprzednim roku kalendarzowym. Minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie gazu płynnego (LPG) oblicza się według wzoru: ZO P−O = [ ×30] ×W R gdzie poszczególne symbole oznaczają: ZO – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie gazu płynnego (LPG), wyrażoną w jednostkach wagowych, P – wielkość produkcji i przywozu gazu płynnego (LPG) oraz ilość gazu płynnego (LPG) wprowadzonego na rynek krajowy z zapasów obowiązkowych w wyniku ich interwencyjnego uwolnienia w poprzednim roku kalendarzowym, wyrażoną w jednostkach wagowych, O – pomniejszenia odnoszące się do poprzedniego roku kalendarzowego, o których mowa w ust. 6, wyrażone w jednostkach wagowych, R – liczbę dni w poprzednim roku kalendarzowym, W – współczynnik powiększenia zapasów obowiązkowych ropy naftowej lub paliw w zakresie gazu płynnego (LPG), o rezerwę określoną w art. 3 ust. 4, wynoszący 1,1.
+3k. Producenci i handlowcy tworzą zapasy obowiązkowe ropy naftowej lub paliw w zakresie gazu płynnego (LPG), ustalając ich ilość na dany rok kalendarzowy na podstawie wielkości produkcji gazu płynnego (LPG) lub jego przywozu na terytorium Rzeczypospolitej Polskiej w poprzednim roku kalendarzowym. Minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie gazu płynnego (LPG) oblicza się według wzoru: P−O ZO = [ ×30] ×W R gdzie poszczególne symbole oznaczają: ZO – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie gazu płynnego (LPG), wyrażoną w jednostkach wagowych, P – wielkość produkcji i przywozu gazu płynnego (LPG) oraz ilość gazu płynnego (LPG) wprowadzonego na rynek krajowy z zapasów obowiązkowych w wyniku ich interwencyjnego uwolnienia w poprzednim roku kalendarzowym, wyrażoną w jednostkach wagowych, O – pomniejszenia odnoszące się do poprzedniego roku kalendarzowego, o których mowa w ust. 6, wyrażone w jednostkach wagowych, R – liczbę dni w poprzednim roku kalendarzowym, W – współczynnik powiększenia zapasów obowiązkowych ropy naftowej lub paliw w zakresie gazu płynnego (LPG), o rezerwę określoną w art. 3 ust. 4, wynoszący 1,1.
 
 3l. Przy obliczaniu ilości zapasów obowiązkowych ropy naftowej lub paliw uwzględnia się tylko dodatki dodane do paliw lub z nimi zmieszane.
 
@@ -295,7 +310,7 @@ Art. 68-70. (pominięte)
 
 5. Producenci i handlowcy mogą utrzymywać zapasy obowiązkowe ropy naftowej lub paliw tworzone w zakresie gazu płynnego (LPG) zamiennie w postaci benzyn silnikowych, w ilości równoważnej pod względem wartości opałowej. Przepisy art. 11 ust. 3 i 4 stosuje się odpowiednio.
 
-5a. Ilość równoważną pod względem wartości opałowej, o której mowa w ust. 5, oblicza się według wzoru: P = P ×Q Q gdzie poszczególne symbole oznaczają: P – wielkość zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie gazu płynnego (LPG) utrzymywaną w postaci benzyn silnikowych, wyrażoną w jednostkach wagowych, P – wielkość zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie gazu płynnego (LPG), obliczoną zgodnie z art. 5 ust. 3k, wyrażoną w jednostkach wagowych, Q – średnią wartość opałową benzyn silnikowych wynoszącą 29 MJ/litr, Q – średnią wartość opałową gazu płynnego (LPG) wynoszącą 19,90 MJ/litr.
+5a. Ilość równoważną pod względem wartości opałowej, o której mowa w ust. 5, oblicza się według wzoru: P ×Q P = Q gdzie poszczególne symbole oznaczają: P – wielkość zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie gazu płynnego (LPG) utrzymywaną w postaci benzyn silnikowych, wyrażoną w jednostkach wagowych, P – wielkość zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie gazu płynnego (LPG), obliczoną zgodnie z art. 5 ust. 3k, wyrażoną w jednostkach wagowych, Q – średnią wartość opałową benzyn silnikowych wynoszącą 29 MJ/litr, Q – średnią wartość opałową gazu płynnego (LPG) wynoszącą 19,90 MJ/litr.
 
 5b. Obliczoną wielkość zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie gazu płynnego (LPG) utrzymywaną w postaci benzyn silnikowych, wyrażoną w jednostkach wagowych, należy przeliczyć na jednostki objętościowe, w temperaturze referencyjnej 15 °C (288 °K), stosując współczynnik określający gęstość benzyny silnikowej określony w obwieszczeniu, o którym mowa w art. 4.
 
@@ -754,6 +769,15 @@ Art. 68-70. (pominięte)
 
 **Art. 21c.** [1. Zapasy agencyjne mogą być utrzymywane w postaci:
 
+- **1)** ropy naftowej;
+- **2)** paliw.] <1. Zapasy agencyjne są utrzymywane co najmniej w 75 % w postaci paliw, w pozostałej części zapasy te mogą być utrzymywane w postaci ropy naftowej.>
+
+2. W przypadku niewydania na okres całego danego roku kalendarzowego decyzji o nadaniu paliwom utrzymywanym w ramach zapasów agencyjnych statusu zapasów specjalnych, o której mowa w art. 21e ust. 1, Agencja poprzez zmianę struktury zapasów agencyjnych zapewnia, aby co najmniej jedna trzecia zapasów interwencyjnych była utrzymywana w postaci tych paliw, których suma dostaw krajowych brutto w poprzednim roku kalendarzowym, przeliczona na ekwiwalent ropy naftowej współczynnikiem 1,2 stanowiła 75 % zużycia krajowego brutto ekwiwalentu ropy naftowej. Każde z tych paliw powinno być utrzymywane w ilości odpowiadającej co najmniej jego 30-dniowemu średniemu dziennemu zużyciu krajowemu brutto ekwiwalentu ropy naftowej w poprzednim roku kalendarzowym.
+
+3. Szczegółową strukturę zapasów agencyjnych określa plan rzeczowy Funduszu Zapasów Agencyjnych.
+
+4. Utworzone i utrzymywane przez Agencję zapasy agencyjne stanowią majątek Skarbu Państwa, chyba że z umowy, o której mowa w art. 21d ust. 2, wynika, że zapasy te stanowią majątek przyjmującego zlecenie.
+
 **Art. 21d.**
 
 1. Prezes Agencji może zlecić, na podstawie umowy, magazynowanie zapasów agencyjnych przedsiębiorcom świadczącym usługi magazynowania ropy naftowej lub paliw. Przepisy art. 10 ust. 1a i 2 stosuje się odpowiednio.
@@ -1042,6 +1066,15 @@ Art. 68-70. (pominięte)
 
 **Art. 28b.** Środki Funduszu pochodzą z:
 
+- **1)** opłaty zapasowej, o której mowa w art. 21b ust. 1;
+- **2)** wpływów związanych z interwencyjnym uwolnieniem zapasów agencyjnych oraz z ich wymianą i zamianą;
+- **3)** odszkodowań z tytułu ubezpieczenia zapasów agencyjnych;
+- **4)** odsetek z tytułu oprocentowania środków Funduszu oraz odsetek od lokat okresowo wolnych środków Funduszu;
+- **5)** wpływów z kar, o których mowa w art. 63 ust. 1 pkt 1–5a, 7, 8, 18–18b i 20;
+- **6)** darowizn i zapisów;
+- **7)** pożyczek z budżetu państwa;
+- **8)** wpływów z innych tytułów.
+
 **Art. 28c.**
 
 1. Środki Funduszu przeznacza się na realizację zadań Agencji w zakresie zapasów interwencyjnych w szczególności na:
@@ -1073,6 +1106,9 @@ Art. 68-70. (pominięte)
 4. Projekt zmiany planu finansowego w zakresie kwot przychodów i kosztów funduszu jest sporządzany przez Prezesa Agencji i wymaga uzgodnienia z ministrem właściwym do spraw gospodarki surowcami energetycznymi.
 
 **Art. 28e.** Prezes Agencji składa ministrowi właściwemu do spraw gospodarki surowcami energetycznymi:
+
+- **1)** w terminie do końca miesiąca następującego po każdym kwartale – informację o realizacji planu finansowego Funduszu;
+- **2)** niepóźniej niż do końca marca po zakończeniu roku finansowego – roczne sprawozdanie z wykonania planu finansowego Funduszu.
 
 **Art. 28f.** Pożyczki, o których mowa w art. 28b pkt 7, mogą zostać zaciągnięte przez Prezesa Agencji po uzyskaniu zgody ministra właściwego do spraw gospodarki surowcami energetycznymi oraz ministra właściwego do spraw finansów publicznych, pod warunkiem ich spłaty do końca roku kalendarzowego, w którym zostały zaciągnięte.
 
@@ -1306,6 +1342,13 @@ Art. 68-70. (pominięte)
 
 **Art. 34.** W sytuacji, o której mowa w art. 32 ust. 1 pkt 2, minister właściwy do spraw gospodarki surowcami energetycznymi może:
 
+- **1)** w drodze rozporządzenia, zezwolić producentom lub handlowcom na obniżenie ilości zapasów obowiązkowych ropy naftowej lub paliw przez ich wprowadzenie na rynek na terytorium Rzeczypospolitej Polskiej lub jego części, określając wielkość obniżenia tych zapasów oraz termin ich odtworzenia, biorąc pod uwagę ustalenia organów organizacji międzynarodowych, wobec których Rzeczpospolita Polska ma wiążące zobowiązania lub uzgodnienia dokonane z takimi organizacjami;
+- **2)** w drodze decyzji:
+    - **a)** (uchylona)
+    - **b)** zezwolić na obniżenie ilości zapasów obowiązkowych ropy naftowej lub paliw przez ich wprowadzenie na rynek przez określonych producentów lub handlowców, określając wielkość obniżenia oraz termin odtworzenia tych zapasów, lub
+    - **c)** nakazać producentom lub handlowcom przedstawienie oferty sprzedaży określonej ilości ropy naftowej lub paliw z zapasów obowiązkowych ropy naftowej lub paliw, określając termin jej obowiązywania,
+    - **d)** obniżyć zapasy agencyjne przez ich wprowadzenie na rynek, określając wielkości obniżenia tych zapasów, sposób dokonania sprzedaży ropy naftowej lub paliw, podstawę ustalenia ceny sprzedaży ropy naftowej i paliw oraz termin odtworzenia tych zapasów, biorąc pod uwagę ustalenia organów organizacji międzynarodowych, wobec których Rzeczpospolita Polska ma wiążące zobowiązania lub uzgodnienia dokonane z takimi organizacjami.
+
 **Art. 34a.**
 
 1. W okresie obowiązywania obniżonych stawek podatku od towarów i usług określonych w przepisach wydanych na podstawie art. 146ej ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, z późn. zm. ) dla paliw ciekłych w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2025 r. poz. 1529) obowiązuje cena maksymalna paliw ciekłych w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw na stacji paliw. Podmioty dokonujące sprzedaży paliwa są obowiązane do stosowania ceny sprzedaży niewyższej niż cena maksymalna, o której mowa w zdaniu pierwszym.
@@ -1347,6 +1390,10 @@ Art. 68-70. (pominięte)
 **Art. 36.** W przypadku konieczności podjęcia działań, o których mowa w art. 33 ust. 1 lub w art. 34, minister właściwy do spraw gospodarki surowcami energetycznymi może, w drodze rozporządzenia, dopuścić do obrotu paliwa, które nie spełniają określonych w przepisach wymagań jakościowych, po uzyskaniu zgody Komisji Europejskiej, w trybie określonym w art. 6 ust. 2 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw, w odniesieniu do paliw, w zakresie których taka zgoda jest wymagana.
 
 **Art. 37.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia, szczegółowy sposób obniżania ilości zapasów obowiązkowych ropy naftowej lub paliw, w szczególności:
+
+- **1)** tryb postępowania przy wydawaniu decyzji, o których mowa w art. 33 ust. 1 pkt 3 oraz w art. 34 pkt 2 lit. b i c,
+- **2)** dane, które powinny być zawarte we wnioskach o wydanie decyzji, o których mowa w art. 33 ust. 1 pkt 3,
+- **3)** kategorie podmiotów o szczególnym znaczeniu dla funkcjonowania państwa lub gospodarki, ochrony życia, zdrowia lub bezpieczeństwa obywateli, mające prawo do pierwszeństwa zaopatrzenia w paliwa pochodzące z zapasów obowiązkowych ropy naftowej lub paliw oraz ich miejsce w systemie priorytetowego zaopatrzenia w ropę naftową i paliwa – biorąc pod uwagę konieczność zapewnienia sprawnego procesu podejmowania decyzji oraz konieczność zapewnienia priorytetowego zaopatrzenia w paliwa wymienionych podmiotów.
 
 **Art. 38.**
 
@@ -1428,6 +1475,11 @@ Art. 68-70. (pominięte)
 **Art. 45.** Do informacji zawartych w dokumentach, o których mowa w art. 31, oraz planach, o których mowa w art. 44 ust. 1 pkt 4, stosuje się odpowiednio przepisy ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
 
 **Art. 46.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia:
+
+- **1)** organy uprawnione do wydawania odbiorcom upoważnień, o których mowa w art. 41 ust. 1 pkt 1,
+- **2)** wzory upoważnień do:
+    - **a)** zakupu określonej ilości paliw, o których mowa w art. 41 ust. 1 pkt 1,
+    - **b)** przeprowadzenia kontroli przestrzegania ograniczeń, o których mowa w art. 44 ust. 1 – uwzględniając konieczność zapewnienia sprawności wydawania tych upoważnień.
 
 **Art. 47.**
 
@@ -1545,7 +1597,11 @@ Art. 68-70. (pominięte)
 
 8. (uchylony)
 
-9. (uchylony) Art. 52 [1] . 1. W dobach gazowych, w których zostały uruchomione zapasy obowiązkowe gazu ziemnego lub zostały wprowadzone ograniczenia w stopniu zasilania wyższym niż pierwszy, operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych dokonują bilansowania systemu przesyłowego gazowego z uwzględnieniem art. 2 rozporządzenia Komisji (UE) nr 312/2014 z dnia 26 marca 2014 r. ustanawiającego kodeks sieci dotyczący bilansowania gazu w sieciach przesyłowych (Dz. Urz. UE L 91 z 27.03.2014, str. 15). Przez dobę gazową rozumie się okres od godziny 6.00 danego dnia do godziny
+9. (uchylony)
+
+**Art. 52¹.**
+
+1. W dobach gazowych, w których zostały uruchomione zapasy obowiązkowe gazu ziemnego lub zostały wprowadzone ograniczenia w stopniu zasilania wyższym niż pierwszy, operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych dokonują bilansowania systemu przesyłowego gazowego z uwzględnieniem art. 2 rozporządzenia Komisji (UE) nr 312/2014 z dnia 26 marca 2014 r. ustanawiającego kodeks sieci dotyczący bilansowania gazu w sieciach przesyłowych (Dz. Urz. UE L 91 z 27.03.2014, str. 15). Przez dobę gazową rozumie się okres od godziny 6.00 danego dnia do godziny
 
 6. 00 następnego dnia.
 

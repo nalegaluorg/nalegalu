@@ -2,10 +2,12 @@
 
 Akty prawne z dziedziny: **Inne**.
 
-Łącznie: **18350** aktów
+Łącznie: **18376** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
+| [WDU20260000760](WDU20260000760/index.md) | Ustawa z dnia 15 maja 2026 r. o udziale Rzeczypospolitej Polskiej w systemi | Ustawa | obowiązujący |  |
+| [WDU20260000759](WDU20260000759/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 maja 2026 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000756](WDU20260000756/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2026 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000755](WDU20260000755/index.md) | Ustawa z dnia 15 maja 2026 r. o Krajowym Rejestrze Oznakowanych Psów i Kotó | Ustawa | obowiązujący |  |
 | [WDU20260000753](WDU20260000753/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 maja 2026 | Obwieszczenie | obowiązujący |  |
@@ -1658,6 +1660,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000567](WDU20240000567/index.md) | Poprawki do załączników A, B i C do Konwencji Sztokholmskiej w sprawie trwa | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20240000562](WDU20240000562/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20240000561](WDU20240000561/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 202 | Obwieszczenie | obowiązujący |  |
+| [WDU20240000558](WDU20240000558/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 202 | Obwieszczenie | akt objęty tekstem jednolitym |  |
 | [WDU20240000557](WDU20240000557/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 10 kwietnia 2024 r. zmienia | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240000556](WDU20240000556/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000554](WDU20240000554/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 10 kwietnia 2024 r. zmienia | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -15193,6 +15196,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20112331382](WDU20112331382/index.md) | Ustawa z dnia 16 września 2011 r. o zmianie ustawy o gospodarowaniu nieruch | Ustawa | obowiązujący | [tak](WDU20112331382/orzecznictwo.md) |
 | [WDU20112321378](WDU20112321378/index.md) | Ustawa z dnia 16 września 2011 r. o redukcji niektórych obowiązków obywatel | Ustawa | obowiązujący | [tak](WDU20112321378/orzecznictwo.md) |
 | [WDU20112301373](WDU20112301373/index.md) | Ustawa z dnia 16 września 2011 r. o zmianie ustawy o ochronie zwierząt oraz | Ustawa | obowiązujący | [tak](WDU20112301373/orzecznictwo.md) |
+| [WDU20112301372](WDU20112301372/index.md) | Ustawa z dnia 16 września 2011 r. o zmianie ustawy o transporcie kolejowym | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20112301371](WDU20112301371/index.md) | Ustawa z dnia 16 września 2011 r. o wymianie informacji z organami ścigania | Ustawa | akt posiada tekst jednolity | [tak](WDU20112301371/orzecznictwo.md) |
 | [WDU20112301370](WDU20112301370/index.md) | Ustawa z dnia 16 września 2011 r. o timeshare | Ustawa | obowiązujący | [tak](WDU20112301370/orzecznictwo.md) |
 | [WDU20112281368](WDU20112281368/index.md) | Ustawa z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim | Ustawa | akt posiada tekst jednolity | [tak](WDU20112281368/orzecznictwo.md) |
@@ -15258,6 +15262,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20111681004](WDU20111681004/index.md) | Ustawa z dnia 15 lipca 2011 r. o zmianie ustawy o Rzeczniku Praw Obywatelsk | Ustawa | obowiązujący |  |
 | [WDU20111681003](WDU20111681003/index.md) | Ustawa z dnia 10 czerwca 2011 r. o zmianie ustawy o żegludze śródlądowej or | Ustawa | obowiązujący |  |
 | [WDU20111681002](WDU20111681002/index.md) | Ustawa z dnia 10 czerwca 2011 r. o zmianie ustawy o komercjalizacji, restru | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU20111681001](WDU20111681001/index.md) | Ustawa z dnia 10 czerwca 2011 r. o zmianie ustawy o emeryturach i rentach z | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20111630981](WDU20111630981/index.md) | Ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze | Ustawa | akt posiada tekst jednolity | [tak](WDU20111630981/orzecznictwo.md) |
 | [WDU20111610966](WDU20111610966/index.md) | Ustawa z dnia 13 maja 2011 r. o zmianie ustawy o działalności lobbingowej w | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20111600965](WDU20111600965/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 21 lipca 2011 r. sygn. akt K 23/08 | Orzeczenie | obowiązujący |  |
@@ -15312,6 +15317,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20111130657](WDU20111130657/index.md) | Ustawa z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia | Ustawa | akt posiada tekst jednolity | [tak](WDU20111130657/orzecznictwo.md) |
 | [WDU20111120654](WDU20111120654/index.md) | Ustawa z dnia 15 kwietnia 2011 r. o działalności leczniczej | Ustawa | akt posiada tekst jednolity | [tak](WDU20111120654/orzecznictwo.md) |
 | [WDU20111090640](WDU20111090640/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 maja 2011 r. sygn. akt P 38/08 | Orzeczenie | obowiązujący |  |
+| [WDU20111090627](WDU20111090627/index.md) | Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy - Prawo o ustroju sądów  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20111060622](WDU20111060622/index.md) | Ustawa z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla  | Ustawa | obowiązujący | [tak](WDU20111060622/orzecznictwo.md) |
 | [WDU20111050621](WDU20111050621/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 maja 2011 r. sygn. akt SK 11/09 | Orzeczenie | obowiązujący |  |
 | [WDU20111050614](WDU20111050614/index.md) | Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy o przeciwdziałaniu narko | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20111050614/orzecznictwo.md) |
@@ -15373,6 +15379,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20110210112](WDU20110210112/index.md) | Ustawa z dnia 5 stycznia 2011 r. - Kodeks wyborczy | Ustawa | akt posiada tekst jednolity | [tak](WDU20110210112/orzecznictwo.md) |
 | [WDU20110180089](WDU20110180089/index.md) | Ustawa z dnia 16 grudnia 2010 r. o zmianie ustawy o stosunku Państwa do Koś | Ustawa | obowiązujący | [tak](WDU20110180089/orzecznictwo.md) |
 | [WDU20110170079](WDU20110170079/index.md) | Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy o świadczeniach przedemery | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU20110060019](WDU20110060019/index.md) | Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy o ochronie zdrowia psychic | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20110060017](WDU20110060017/index.md) | Ustawa z dnia 26 listopada 2010 r. o zmianie ustawy o usługach detektywisty | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20110050013](WDU20110050013/index.md) | Ustawa z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym | Ustawa | akt posiada tekst jednolity | [tak](WDU20110050013/orzecznictwo.md) |
 | [WDU20102571726](WDU20102571726/index.md) | Ustawa z dnia 16 grudnia 2010 r. o zmianie ustawy o finansach publicznych o | Ustawa | obowiązujący | [tak](WDU20102571726/orzecznictwo.md) |
@@ -15385,6 +15392,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20102491656](WDU20102491656/index.md) | Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy o transporcie drogowym | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20102471653](WDU20102471653/index.md) | Obwieszczenie Państwowej Komisji Wyborczej z dnia 20 grudnia 2010 r. uzupeł | Obwieszczenie | obowiązujący |  |
 | [WDU20102471651](WDU20102471651/index.md) | Ustawa z dnia 29 października 2010 r. o zmianie ustawy o komercjalizacji, r | Ustawa | obowiązujący |  |
+| [WDU20102471650](WDU20102471650/index.md) | Ustawa z dnia 22 października 2010 r. o zmianie ustawy o Agencji Rynku Roln | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20102401603](WDU20102401603/index.md) | Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy o utworzeniu Polskiej Agen | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20102401601](WDU20102401601/index.md) | Ustawa z dnia 26 listopada 2010 r. o zmianie ustawy o powszechnym obowiązku | Ustawa | obowiązujący |  |
 | [WDU20102401600](WDU20102401600/index.md) | Ustawa z dnia 29 października 2010 r. o zmianie ustawy o zarządzaniu kryzys | Ustawa | akt objęty tekstem jednolitym |  |
@@ -15478,6 +15486,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20101480993](WDU20101480993/index.md) | Ustawa z dnia 12 sierpnia 2010 r. o zmianie ustawy o szczególnych rozwiązan | Ustawa | obowiązujący | [tak](WDU20101480993/orzecznictwo.md) |
 | [WDU20101480992](WDU20101480992/index.md) | Ustawa z dnia 12 sierpnia 2010 r. o wspieraniu przedsiębiorców dotkniętych  | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20101480991](WDU20101480991/index.md) | Ustawa z dnia 5 sierpnia 2010 r. o zmianie ustawy o systemie oświaty | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU20101480990](WDU20101480990/index.md) | Ustawa z dnia 24 czerwca 2010 r. o zmianie ustawy o organizacji rynku mleka | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20101430963](WDU20101430963/index.md) | Ustawa z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do real | Ustawa | akt posiada tekst jednolity | [tak](WDU20101430963/orzecznictwo.md) |
 | [WDU20101430962](WDU20101430962/index.md) | Ustawa z dnia 10 czerwca 2010 r. o zmianie ustawy o przeciwdziałaniu narkom | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20101430962/orzecznictwo.md) |
 | [WDU20101420961](WDU20101420961/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 21 lipca 2010 r. sygn. akt SK 21/08 | Orzeczenie | obowiązujący |  |
@@ -15617,6 +15626,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20092151667](WDU20092151667/index.md) | Ustawa z dnia 2 grudnia 2009 r. o zmianie ustawy o podatku akcyzowym | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20092151663](WDU20092151663/index.md) | Ustawa z dnia 20 listopada 2009 r. o zmianie ustawy o zastawie rejestrowym  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20092151662](WDU20092151662/index.md) | Ustawa z dnia 20 listopada 2009 r. o zmianie ustawy o gwarantowanych przez  | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU20092141658](WDU20092141658/index.md) | Ustawa z dnia 25 czerwca 2009 r. o zmianie ustawy o transporcie kolejowym | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20092131652](WDU20092131652/index.md) | Ustawa z dnia 19 listopada 2009 r. o zmianie ustawy o wyborze Prezydenta Rz | Ustawa | obowiązujący | [tak](WDU20092131652/orzecznictwo.md) |
 | [WDU20092131650](WDU20092131650/index.md) | Ustawa z dnia 19 listopada 2009 r. o zmianie ustawy - Karta Nauczyciela | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20092131650/orzecznictwo.md) |
 | [WDU20092101629](WDU20092101629/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 2 grudnia 2009 r. sygn. akt U 10/07 | Orzeczenie | obowiązujący |  |
@@ -15706,6 +15716,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20090970802](WDU20090970802/index.md) | Ustawa z dnia 22 maja 2009 r. o zmianie ustawy - Prawo o ruchu drogowym ora | Ustawa | obowiązujący | [tak](WDU20090970802/orzecznictwo.md) |
 | [WDU20090970800](WDU20090970800/index.md) | Ustawa z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjny | Ustawa | akt posiada tekst jednolity | [tak](WDU20090970800/orzecznictwo.md) |
 | [WDU20090970799](WDU20090970799/index.md) | Ustawa z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywc | Ustawa | akt posiada tekst jednolity | [tak](WDU20090970799/orzecznictwo.md) |
+| [WDU20090950792](WDU20090950792/index.md) | Ustawa z dnia 22 maja 2009 r. o zmianie ustawy o Agencji Rynku Rolnego i or | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20090950790](WDU20090950790/index.md) | Ustawa z dnia 21 maja 2009 r. o zmianie ustawy o udzielaniu cudzoziemcom oc | Ustawa | obowiązujący |  |
 | [WDU20090950788](WDU20090950788/index.md) | Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy - Prawo farmaceutyczne | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20090950787](WDU20090950787/index.md) | Ustawa z dnia 23 kwietnia 2009 r. o zmianie ustawy o ustroju miasta stołecz | Ustawa | akt objęty tekstem jednolitym |  |
@@ -16020,6 +16031,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20080510293](WDU20080510293/index.md) | Ustawa z dnia 29 lutego 2008 r. o zmianie ustawy o lekarzu sądowym | Ustawa | obowiązujący |  |
 | [WDU20080480289](WDU20080480289/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 marca 2008 r. sygn. akt SK 58/06 | Orzeczenie | obowiązujący |  |
 | [WDU20080470274](WDU20080470274/index.md) | Ustawa z dnia 23 stycznia 2008 r. o przenoszeniu praw emerytalnych urzędnik | Ustawa | obowiązujący |  |
+| [WDU20080470273](WDU20080470273/index.md) | Ustawa z dnia 10 stycznia 2008 r. o zmianie ustawy o izbach aptekarskich | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20080440262](WDU20080440262/index.md) | Ustawa z dnia 29 lutego 2008 r. o zmianie ustawy o płatnościach do gruntów  | Ustawa | obowiązujący |  |
 | [WDU20080430258](WDU20080430258/index.md) | Ustawa z dnia stycznia 2008 r. o zmianie ustawy o zawodzie lekarza weteryna | Ustawa | obowiązujący |  |
 | [WDU20080410251](WDU20080410251/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 marca sygn. akt SK 3/07 | Orzeczenie | obowiązujący |  |
@@ -16141,6 +16153,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20071230851](WDU20071230851/index.md) | Ustawa z dnia 15 czerwca 2007 r. o zmianie ustawy o gospodarowaniu nierucho | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20071230851/orzecznictwo.md) |
 | [WDU20071230850](WDU20071230850/index.md) | Ustawa z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego | Ustawa | akt posiada tekst jednolity | [tak](WDU20071230850/orzecznictwo.md) |
 | [WDU20071230849](WDU20071230849/index.md) | Ustawa z dnia 15 czerwca 2007 r. o lekarzu sądowym | Ustawa | obowiązujący | [tak](WDU20071230849/orzecznictwo.md) |
+| [WDU20071230848](WDU20071230848/index.md) | Ustawa z dnia 14 czerwca 2007 r. o zmianie ustawy o orderach i odznaczeniac | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20071230847](WDU20071230847/index.md) | Ustawa z dnia 11 maja 2007 r. o zmianie ustawy o państwowym zasobie kadrowy | Ustawa | obowiązujący |  |
 | [WDU20071230846](WDU20071230846/index.md) | Ustawa z dnia 11 maja 2007 r. o zmianie ustawy o żegludze śródlądowej | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20071230845](WDU20071230845/index.md) | Ustawa z dnia 11 maja 2007 r. o zmianie ustawy - Prawo o ruchu drogowym | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20071230845/orzecznictwo.md) |
@@ -16413,6 +16426,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20060730501](WDU20060730501/index.md) | Ustawa z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowe | Ustawa | obowiązujący |  |
 | [WDU20060720500](WDU20060720500/index.md) | Obwieszczenie Ministra Finansów z dnia 23 marca 2006 r. w sprawie ogłoszeni | Obwieszczenie | nieobowiązujący - uchylona podstawa prawna |  |
 | [WDU20060660474](WDU20060660474/index.md) | Ustawa z dnia 23 marca 2006 r. o zmianie ustawy o prawie autorskim i prawac | Ustawa | obowiązujący | [tak](WDU20060660474/orzecznictwo.md) |
+| [WDU20060660473](WDU20060660473/index.md) | Ustawa z dnia 10 marca 2006 r. o zmianie ustawy o organizacji rynków owoców | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20060660471](WDU20060660471/index.md) | Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy o zatrudnianiu osób pozbaw | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20060660469](WDU20060660469/index.md) | Ustawa z dnia 17 lutego 2006 r. o zmianie ustawy o przeciwdziałaniu narkoma | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20060660468](WDU20060660468/index.md) | Ustawa z dnia 17 lutego 2006 r. o zmianie ustawy o ustanowieniu programu wi | Ustawa | obowiązujący |  |
@@ -16426,6 +16440,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20060610436](WDU20060610436/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 kwietnia 2006 r. sygn. akt SK 46/0 | Orzeczenie | obowiązujący |  |
 | [WDU20060530385](WDU20060530385/index.md) | Ustawa z dnia 23 marca 2006 r. o zmianie ustawy o pomocy państwa w spłacie  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20060520379](WDU20060520379/index.md) | Ustawa z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cen | Ustawa | akt posiada tekst jednolity | [tak](WDU20060520379/orzecznictwo.md) |
+| [WDU20060520378](WDU20060520378/index.md) | Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy - Prawo atomowe | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20060510377](WDU20060510377/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 23 marca 2006 r. sygn. akt K 4/06 | Orzeczenie | obowiązujący |  |
 | [WDU20060500363](WDU20060500363/index.md) | Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy o organizacji rynku mleka  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20060500362](WDU20060500362/index.md) | Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy o ochronie zabytków i opie | Ustawa | akt objęty tekstem jednolitym |  |
@@ -16540,6 +16555,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20051431200](WDU20051431200/index.md) | Ustawa z dnia 1 lipca 2005 r. o ustanowieniu programu wieloletniego \"Narod | Ustawa | obowiązujący | [tak](WDU20051431200/orzecznictwo.md) |
 | [WDU20051431198](WDU20051431198/index.md) | Ustawa z dnia 3 czerwca 2005 r. o wyłączeniu bezprawności posiadania bez wy | Ustawa | obowiązujący |  |
 | [WDU20051411184](WDU20051411184/index.md) | Ustawa z dnia 1 lipca 2005 r. o zmianie ustawy o przewozie drogowym towarów | Ustawa | obowiązujący |  |
+| [WDU20051411183](WDU20051411183/index.md) | Ustawa z dnia 1 lipca 2005 r. o zmianie ustawy o ochronie zdrowia psychiczn | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20051411182](WDU20051411182/index.md) | Ustawa z dnia 3 czerwca 2005 r. o zmianie ustawy o organizacji niektórych r | Ustawa | obowiązujący |  |
 | [WDU20051391172](WDU20051391172/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 lipca 2005 r. sygn. akt P 11/03 | Orzeczenie | obowiązujący |  |
 | [WDU20051381154](WDU20051381154/index.md) | Ustawa z dnia 1 lipca 2005 r. o zmianie ustawy o świadczeniach opieki zdrow | Ustawa | akt objęty tekstem jednolitym |  |
@@ -16575,6 +16591,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20050940796](WDU20050940796/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 17 maja 2005 r. sygn. akt P 6/04 | Orzeczenie | obowiązujący | [tak](WDU20050940796/orzecznictwo.md) |
 | [WDU20050940788](WDU20050940788/index.md) | Ustawa z dnia 22 kwietnia 2005 r. o zmianie ustawy o cudzoziemcach i ustawy | Ustawa | obowiązujący | [tak](WDU20050940788/orzecznictwo.md) |
 | [WDU20050940787](WDU20050940787/index.md) | Ustawa z dnia 21 kwietnia 2005 r. o zmianie ustawy - Prawo farmaceutyczne | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU20050940786](WDU20050940786/index.md) | Ustawa z dnia 21 kwietnia 2005 r. o zmianie ustawy o pomocy państwa w spłac | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20050940784](WDU20050940784/index.md) | Ustawa z dnia 4 marca 2005 r. o ustanowieniu programu wieloletniego \"Progr | Ustawa | obowiązujący |  |
 | [WDU20050900759](WDU20050900759/index.md) | Ustawa z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytoria | Ustawa | akt posiada tekst jednolity | [tak](WDU20050900759/orzecznictwo.md) |
 | [WDU20050900758](WDU20050900758/index.md) | Ustawa z dnia 22 kwietnia 2005 r. o zmianie ustawy - Prawo geologiczne i gó | Ustawa | obowiązujący |  |
@@ -16887,6 +16904,8 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20031991936](WDU20031991936/index.md) | Ustawa z dnia 17 października 2003 r. o wykonywaniu prac podwodnych | Ustawa | akt posiada tekst jednolity | [tak](WDU20031991936/orzecznictwo.md) |
 | [WDU20031941907](WDU20031941907/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 listopada 2003 r. sygn. akt K 1/03 | Orzeczenie | obowiązujący |  |
 | [WDU20031941906](WDU20031941906/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 listopada 2003 r. sygn. akt SK 30/ | Orzeczenie | obowiązujący |  |
+| [WDU20031931884](WDU20031931884/index.md) | Ustawa z dnia 10 września 2003 r. o zmianie ustawy o postępowaniu egzekucyj | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU20031921873](WDU20031921873/index.md) | Ustawa z dnia 29 października 2003 r. o zmianie ustawy o Policji | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20031901864](WDU20031901864/index.md) | Ustawa z dnia 12 września 2003 r. o zmianie ustawy o zasadach uznawania nab | Ustawa | obowiązujący |  |
 | [WDU20031891852](WDU20031891852/index.md) | Ustawa z dnia 17 października 2003 r. o zmianie ustawy o substancjach i pre | Ustawa | obowiązujący |  |
 | [WDU20031881840](WDU20031881840/index.md) | Ustawa z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefac | Ustawa | obowiązujący | [tak](WDU20031881840/orzecznictwo.md) |
@@ -16920,6 +16939,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20031391324](WDU20031391324/index.md) | Ustawa z dnia 26 czerwca 2003 r. o zmianie ustawy o rachunkowości | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20031371304](WDU20031371304/index.md) | Ustawa z dnia 27 czerwca 2003 r. o zmianie ustawy o systemie oświaty oraz o | Ustawa | obowiązujący | [tak](WDU20031371304/orzecznictwo.md) |
 | [WDU20031371303](WDU20031371303/index.md) | Ustawa z dnia 27 czerwca 2003 r. o zmianie ustawy o funkcjonowaniu banków s | Ustawa | obowiązujący |  |
+| [WDU20031371301](WDU20031371301/index.md) | Ustawa z dnia 26 czerwca 2003 r. o zmianie ustawy o wykonywaniu mandatu pos | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20031371300](WDU20031371300/index.md) | Ustawa z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin | Ustawa | akt posiada tekst jednolity | [tak](WDU20031371300/orzecznictwo.md) |
 | [WDU20031351268](WDU20031351268/index.md) | Ustawa z dnia 27 czerwca 2003 r. o rencie socjalnej | Ustawa | akt posiada tekst jednolity | [tak](WDU20031351268/orzecznictwo.md) |
 | [WDU20031341267](WDU20031341267/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 14 lipca 2003 r. sygn. akt K 35/01 | Orzeczenie | obowiązujący |  |
@@ -16997,6 +17017,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20030560498](WDU20030560498/index.md) | Ustawa z dnia 27 marca 2003 r. o zmianie ustawy o emeryturach i rentach z F | Ustawa | obowiązujący | [tak](WDU20030560498/orzecznictwo.md) |
 | [WDU20030560495](WDU20030560495/index.md) | Ustawa z dnia 12 lutego 2003 r. o zmianie ustawy o restrukturyzacji hutnict | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20030520468](WDU20030520468/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 marca 2003 r. sygn. akt SK 8/02 | Orzeczenie | obowiązujący |  |
+| [WDU20030520452](WDU20030520452/index.md) | Ustawa z dnia 27 lutego 2003 r. o zmianie ustawy o ochronie przeciwpożarowe | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20030520451](WDU20030520451/index.md) | Ustawa z dnia 14 lutego 2003 r. o zmianie ustawy o broni i amunicji oraz o  | Ustawa | obowiązujący |  |
 | [WDU20030520450](WDU20030520450/index.md) | Ustawa z dnia 14 lutego 2003 r. o zmianie ustawy o zwalczaniu chorób zakaźn | Ustawa | obowiązujący |  |
 | [WDU20030520449](WDU20030520449/index.md) | Ustawa z dnia 14 lutego 2003 r. o stopniach górniczych, honorowych szpadach | Ustawa | akt posiada tekst jednolity |  |
@@ -17017,6 +17038,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20030070079](WDU20030070079/index.md) | Ustawa z dnia 20 grudnia 2002 r. o zmianie ustawy o rehabilitacji zawodowej | Ustawa | obowiązujący | [tak](WDU20030070079/orzecznictwo.md) |
 | [WDU20030070078](WDU20030070078/index.md) | Ustawa z dnia 19 grudnia 2002 r. o zmianie ustawy o odpadach oraz niektóryc | Ustawa | obowiązujący |  |
 | [WDU20030060065](WDU20030060065/index.md) | Ustawa z dnia 20 grudnia 2002 r. o zmianie ustawy o zatrudnieniu i przeciwd | Ustawa | obowiązujący | [tak](WDU20030060065/orzecznictwo.md) |
+| [WDU20030060064](WDU20030060064/index.md) | Ustawa z dnia 20 grudnia 2002 r. o zmianie ustawy o gospodarowaniu nierucho | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20030060063](WDU20030060063/index.md) | Ustawa z dnia 22 listopada 2002 r. o zmianie ustawy o negocjacyjnym systemi | Ustawa | obowiązujący |  |
 | [WDU20030050061](WDU20030050061/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 6 stycznia 2003 r. sygn. akt K. 24/0 | Orzeczenie | obowiązujący |  |
 | [WDU20030010015](WDU20030010015/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 19 grudnia 2002 r. sygn. akt K. 33/0 | Orzeczenie | obowiązujący | [tak](WDU20030010015/orzecznictwo.md) |
@@ -17080,6 +17102,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20021531269](WDU20021531269/index.md) | Ustawa z dnia 25 lipca 2002 r. Prawo o ustroju sądów administracyjnych. | Ustawa | akt posiada tekst jednolity | [tak](WDU20021531269/orzecznictwo.md) |
 | [WDU20021521267](WDU20021521267/index.md) | Ustawa z dnia 12 września 2002 r. zmieniająca ustawę o zmianie ustawy - Kar | Ustawa | obowiązujący |  |
 | [WDU20021521266](WDU20021521266/index.md) | Ustawa z dnia 30 sierpnia 2002 r. o zmianie ustawy - Przepisy wprowadzające | Ustawa | obowiązujący |  |
+| [WDU20021521265](WDU20021521265/index.md) | Ustawa z dnia 30 sierpnia 2002 r. o zmianie ustawy - Prawo farmaceutyczne. | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20021441204](WDU20021441204/index.md) | Ustawa z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną. | Ustawa | akt posiada tekst jednolity | [tak](WDU20021441204/orzecznictwo.md) |
 | [WDU20021411185](WDU20021411185/index.md) | Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o systemie oświaty. | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20021411185/orzecznictwo.md) |
 | [WDU20021411184](WDU20021411184/index.md) | Ustawa z dnia 27 lipca 2002 r. o utworzeniu Uniwersytetu Medycznego w Łodzi | Ustawa | obowiązujący | [tak](WDU20021411184/orzecznictwo.md) |
@@ -17334,6 +17357,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20010050043](WDU20010050043/index.md) | Ustawa z dnia 21 grudnia 2000 r. o żegludze śródlądowej. | Ustawa | akt posiada tekst jednolity | [tak](WDU20010050043/orzecznictwo.md) |
 | [WDU20010050042](WDU20010050042/index.md) | Ustawa z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów oraz  | Ustawa | akt posiada tekst jednolity | [tak](WDU20010050042/orzecznictwo.md) |
 | [WDU20010050040](WDU20010050040/index.md) | Ustawa z dnia 6 grudnia 2000 r. o zmianie ustawy o świadku koronnym. | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU20010040031](WDU20010040031/index.md) | Rozporządzenie Rady Ministrów z dnia 9 stycznia 2001 r. w sprawie zasad fin | Rozporządzenie | nieobowiązujący - uchylona podstawa prawna |  |
 | [WDU20010040027](WDU20010040027/index.md) | Ustawa z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych. | Ustawa | akt posiada tekst jednolity | [tak](WDU20010040027/orzecznictwo.md) |
 | [WDU20010040025](WDU20010040025/index.md) | Ustawa z dnia 15 grudnia 2000 r. o Inspekcji Handlowej. | Ustawa | akt posiada tekst jednolity | [tak](WDU20010040025/orzecznictwo.md) |
 | [WDU20010040024](WDU20010040024/index.md) | Ustawa z dnia 15 grudnia 2000 r. o zasadach zbywania mieszkań będących włas | Ustawa | akt posiada tekst jednolity | [tak](WDU20010040024/orzecznictwo.md) |
@@ -17791,6 +17815,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19981310861](WDU19981310861/index.md) | Obwieszczenie Państwowej Komisji Wyborczej z dnia 23 października 1998 r. | Obwieszczenie | obowiązujący |  |
 | [WDU19981310860](WDU19981310860/index.md) | Ustawa z dnia 18 czerwca 1998 r. o zmianie ustawy o ujawnieniu pracy lub sł | Ustawa | obowiązujący | [tak](WDU19981310860/orzecznictwo.md) |
 | [WDU19981200786](WDU19981200786/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 1 września 1998 r. sygn. akt U. 1/98 | Orzeczenie | obowiązujący |  |
+| [WDU19981170759](WDU19981170759/index.md) | Ustawa z dnia 25 lipca 1998 r. o zmianie ustawy o systemie oświaty. | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19981170756](WDU19981170756/index.md) | Ustawa z dnia 18 lipca 1998 r. o zmianie ustawy o powszechnym ubezpieczeniu | Ustawa | obowiązujący | [tak](WDU19981170756/orzecznictwo.md) |
 | [WDU19981130716](WDU19981130716/index.md) | Ustawa z dnia 24 lipca 1998 r. zmieniająca ustawę o zmianie ustawy o ewiden | Ustawa | obowiązujący |  |
 | [WDU19981080683](WDU19981080683/index.md) | Ustawa z dnia 16 lipca 1998 r. o zmianie ustawy o waloryzacji udziałów czło | Ustawa | obowiązujący | [tak](WDU19981080683/orzecznictwo.md) |
@@ -17931,6 +17956,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19961560776](WDU19961560776/index.md) | Ustawa z dnia 20 grudnia 1996 r. o zasadach realizacji przedpłat na samocho | Ustawa | obowiązujący |  |
 | [WDU19961560775](WDU19961560775/index.md) | Ustawa z dnia 20 grudnia 1996 r. o zmianie niektórych ustaw związanych z re | Ustawa | obowiązujący |  |
 | [WDU19961520724](WDU19961520724/index.md) | Ustawa z dnia 20 listopada 1996 r. o zmianie ustawy o regulacji rynku cukru | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU19961520723](WDU19961520723/index.md) | Ustawa z dnia 8 listopada 1996 r. o zmianie ustawy o Państwowej Straży Poża | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19961520722](WDU19961520722/index.md) | Ustawa z dnia 7 listopada 1996 r. o obowiązkowych egzemplarzach biblioteczn | Ustawa | akt posiada tekst jednolity | [tak](WDU19961520722/orzecznictwo.md) |
 | [WDU19961520721](WDU19961520721/index.md) | Ustawa z dnia 7 listopada 1996 r. o zmianie ustawy o podatku od spadków i d | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19961520720](WDU19961520720/index.md) | Ustawa z dnia 7 listopada 1996 r. o zmianie ustawy o kontroli skarbowej i n | Ustawa | obowiązujący |  |
@@ -18357,4 +18383,4 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19310380294](WDU19310380294/index.md) | Ustawa z dnia 17 marca 1931 r. w sprawie przystąpienia Polski do traktatu,  | Ustawa | obowiązujący |  |
 | [WDU19200310178](WDU19200310178/index.md) | Ustawa z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców | Ustawa | akt posiada tekst jednolity | [tak](WDU19200310178/orzecznictwo.md) |
 
-*18350 aktów • [← Powrót do spisu głównego](../README.md)*
+*18376 aktów • [← Powrót do spisu głównego](../README.md)*

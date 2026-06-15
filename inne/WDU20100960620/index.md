@@ -8,7 +8,7 @@ pos: 620
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Przepisy wprowadzające ustawy reformujące system nauki
@@ -39,6 +39,9 @@ source: "isap-pdf"
 
 **Art. 5.** Ustawa z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. Nr 96, poz. 619) wchodzi w życie z dniem 1 października 2010 r., z wyjątkiem:
 
+- **1)** art. 45, art. 71 ust. 3 i 4, art. 72 ust. 3 i 5, które wchodzą w życie z dniem 1 lipca 2010 r.;
+- **2)** art. 5 i art. 78–86, które wchodzą w życie z dniem 1 stycznia 2011 r.
+
 **Art. 6.** Z dniem wejścia w życie ustawy wymienionej w art. 1 traci moc ustawa z dnia 8 października 2004 r. o zasadach finansowania nauki (Dz. U. z 2008 r. Nr 169, poz. 1049), z wyjątkiem art. 16 i art. 21–31, które tracą moc z dniem 31 grudnia 2010 r.
 
 **Art. 7.** Z dniem wejścia w życie ustawy wymienionej w art. 2 traci moc ustawa z dnia 15 czerwca 2007 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. Nr 115, poz. 789 oraz z 2009 r. Nr 157, poz. 1241).
@@ -51,21 +54,57 @@ source: "isap-pdf"
 
 **Art. 10.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2006 r. Nr 136, poz. 969, z późn. zm. ) w art. 12 w ust. 2:
 
+- **1)** w pkt 3:
+    - **a)** wyrazy „placówki naukowe” zastępuje się wyrazami „instytuty naukowe i pomocnicze jednostki naukowe”,
+    - **b)** po wyrazach „Polskiej Akademii Nauk” dodaje się wyrazy „ , w odniesieniu do gruntów, które są niezbędne do realizacji zadań, o których mowa w art. 2 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. Nr 96, poz. 619)”;
+
+- **2)** pkt 5 otrzymuje brzmienie: „5) instytuty badawcze;”.
+
 **Art. 11.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, z późn. zm. ) w art. 4 w ust. 3 pkt 3 otrzymuje brzmienie: „3) instytuty badawcze.”.
 
 **Art. 12.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2010 r. Nr 95, poz. 613) w art. 7 w ust. 2:
 
+- **1)** w pkt 3:
+    - **a)** wyrazy „placówki naukowe” zastępuje się wyrazami „instytuty naukowe i pomocnicze jednostki naukowe”,
+    - **b)** po wyrazach „Polskiej Akademii Nauk” dodaje się wyrazy „ , w odniesieniu do nieruchomości lub ich części, które są niezbędne do realizacji zadań, o których mowa w art. 2 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. Nr 96, poz. 619)”;
+
+- **2)** pkt 5 otrzymuje brzmienie: „5) instytuty badawcze, z wyjątkiem przedmiotów opodatkowania zajętych na działalność gospodarczą;”.
+
 **Art. 13.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** art. 8a otrzymuje brzmienie: „Art. 8a. Do publicznego zakładu opieki zdrowotnej prowadzonego przez instytut badawczy stosuje się przepisy niniejszej ustawy, z zachowaniem przepisów o instytutach badawczych.”;
+- **2)** w art. 43e ust. 1 i 2 otrzymują brzmienie: „1. Szpital może udostępniać publicznej uczelni medycznej, uczelni publicznej prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, Polskiej Akademii Nauk, instytutowi badawczemu prowadzącemu publiczny zakład opieki zdrowotnej lub Centrum Medycznego Kształcenia Podyplomowego oddział szpitalny, zwany dalej „oddziałem klinicznym”, na potrzeby wykonywania zadań dydaktycznych i badawczych w powiązaniu z udzielaniem świadczeń zdrowotnych.
+
+2. Udostępnianie oddziału klinicznego następuje na podstawie umowy cywilnoprawnej zawartej przez kierownika zakładu opieki zdrowotnej (szpitala) odpowiednio z publiczną uczelnią medyczną, uczelnią publiczną prowadzącą działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, Polską Akademią Nauk, instytutem badawczym prowadzącym publiczny zakład opieki zdrowotnej lub Centrum Medycznego Kształcenia Podyplomowego. Zawarcie umowy wymaga zgody podmiotu, który utworzył zakład opieki zdrowotnej (szpital).”;
+
+- **3)** art. 54a otrzymuje brzmienie: „Art. 54a. Do instytutów badawczych będących publicznymi zakładami opieki zdrowotnej w rozumieniu art. 35d stosuje się odpowiednio przepisy art.
+
+54. ”;
+
+- **4)** w art. 66 w ust. 1 pkt 5 otrzymuje brzmienie: „5) medycznym instytutom badawczym,”.
 
 **Art. 14.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 29 w ust. 3 pkt 8 otrzymuje brzmienie: „8) pracowników leśnych jednostek naukowych, instytutów badawczych i doświadczalnych, w związku z wykonywaniem badań naukowych i doświadczeń z zakresu leśnictwa i ochrony przyrody;”;
+- **2)** w art. 35a w ust. 2 pkt 4 otrzymuje brzmienie: „4) pracownikom leśnych zakładów doświadczalnych szkół wyższych oraz pracownikom instytutów badawczych statutowo działających na rzecz leśnictwa.”.
+
 **Art. 15.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2007 r. Nr 231, poz. 1700, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 17b ust. 2 otrzymuje brzmienie: „2. Polska Akademia Nauk, szkoły wyższe oraz instytuty badawcze wnoszą z tytułu użytkowania wieczystego opłaty roczne równe cenie 20 kg żyta z hektara przeliczeniowego w rozumieniu przepisów o podatku rolnym. Opłaty te wnosi się bez uprzedniego wezwania, na rachunek Agencji do dnia 15 lutego każdego roku za poprzedni rok kalendarzowy.”;
+- **2)** w art. 24 w ust. 5 pkt 2 otrzymuje brzmienie: „2) Polskiej Akademii Nauk, izbie rolniczej, Krajowej Radzie Izb Rolniczych, publicznej szkole wyższej lub instytutowi badawczemu – na cele służące wykonywaniu ich zadań statutowych;”.
+
 **Art. 16.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 17 w ust. 1a pkt 1 otrzymuje brzmienie: „1) dochodów uzyskanych z działalności polegającej na wytwarzaniu wyrobów przemysłu elektronicznego, paliwowego, tytoniowego, spirytusowego, winiarskiego, piwowarskiego, a także pozostałych wyrobów alkoholowych o zawartości alkoholu powyżej 1,5 %, oraz wyrobów z metali szlachetnych albo z udziałem tych metali lub dochodów uzyskanych z handlu tymi wyrobami; zwolnieniem objęte są jednak dochody jednostek naukowych i instytutów badawczych, w rozumieniu odrębnych przepisów, uzyskane z działalności polegającej na wytwarzaniu wyrobów przemysłu elektronicznego,”;
+- **2)** w art. 18b ust. 2 otrzymuje brzmienie: „2. Za nowe technologie, w rozumieniu ust. 1, uważa się wiedzę technologiczną w postaci wartości niematerialnych i prawnych, w szczególności wyniki badań i prac rozwojowych, która umożliwia wytwarzanie nowych lub udoskonalanie wyrobów lub usług i która nie jest stosowana na świecie przez okres dłuższy niż ostatnich 5 lat, co potwierdza opinia niezależnej od podatnika jednostki naukowej w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615).”.
 
 **Art. 17.** W ustawie z dnia 20 grudnia 1996 r. o Polskim Instytucie Spraw Międzynarodowych (Dz. U. Nr 156, poz. 777, z 2001 r. Nr 128, poz. 1403, z 2006 r. Nr 170, poz. 1217 oraz z 2008 r. Nr 227, poz. 1505) art. 12 otrzymuje brzmienie: „Art. 12. W sprawach nieuregulowanych niniejszą ustawą do Instytutu stosuje się odpowiednio przepisy dotyczące instytutów badawczych. Ministrem właściwym w rozumieniu tych przepisów jest minister właściwy do spraw zagranicznych.”.
 
 **Art. 18.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2007 r. Nr 168, poz. 1186, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 36 pkt 10 otrzymuje brzmienie: „10) instytutów badawczych;”;
+- **2)** w art. 38 pkt 11 otrzymuje brzmienie: „11) w przypadku instytutu badawczego – minister nadzorujący instytut;”;
+- **3)** w art. 39 pkt 3a otrzymuje brzmienie: „3a) dotyczące pełnomocników spółdzielni, przedsiębiorstw państwowych oraz instytutów badawczych i zakresu ich pełnomocnictwa;”.
 
 **Art. 19.** W ustawie z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. Nr 106, poz. 681, z późn. zm. ) w art. 23 ust. 1 otrzymuje brzmienie: „1. Instytut jest instytutem badawczym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618), nadzorowanym przez ministra właściwego do spraw zdrowia, i jest dofinansowywany w formie dotacji z budżetu państwa, z części będącej w dyspozycji ministra właściwego do spraw zdrowia, w zakresie zadań określonych w ustawie.”.
 
@@ -75,17 +114,87 @@ source: "isap-pdf"
 
 **Art. 22.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 102 ust. 5 otrzymuje brzmienie: „5. Instytut Meteorologii i Gospodarki Wodnej oraz Państwowy Instytut Geologiczny są instytutami badawczymi w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618).”;
+- **2)** w art. 155 ust. 1 otrzymuje brzmienie: „1. Organy administracji publicznej, instytuty badawcze, a także zakłady oraz właściciele urządzeń wodnych obowiązani są do nieodpłatnego przekazywania danych niezbędnych do prowadzenia katastru wodnego.”.
+
 **Art. 23.** W ustawie z dnia 30 października 2002 r. o podatku leśnym (Dz. U. Nr 200, poz. 1682, z późn. zm. ) w art. 7 w ust. 2:
+
+- **1)** pkt 3 otrzymuje brzmienie: „3) instytuty naukowe i pomocnicze jednostki naukowe Polskiej Akademii Nauk;”;
+- **2)** pkt 5 otrzymuje brzmienie: „5) instytuty badawcze;”.
 
 **Art. 24.** W ustawie z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. Nr 65, poz. 595 oraz z 2005 r. Nr 164, poz. 1365) wprowadza się następujące zmiany:
 
+- **1)** w art. 37 ust. 1 otrzymuje brzmienie: „1. Studia doktoranckie określone w niniejszej ustawie, zwane dalej „studiami doktoranckimi”, mogą prowadzić placówki naukowe niebędące szkołami wyższymi, posiadające uprawnienie do nadawania stopnia naukowego doktora habilitowanego. Przez placówki naukowe niebędące szkołami wyższymi rozumie się instytuty naukowe Polskiej Akademii Nauk, instytuty badawcze i międzynarodowe instytuty naukowe utworzone na podstawie odrębnych przepisów, działające na terytorium Rzeczypospolitej Polskiej.”;
+- **2)** po art. 41 dodaje się art. 41a w brzmieniu: „Art. 41a. 1. Uczestnicy studiów doktoranckich prowadzonych w instytutach naukowych Polskiej Akademii Nauk, instytutach badawczych lub międzynarodowych instytutach naukowych mogą tworzyć samorząd doktorantów.
+
+2. Do samorządu, o którym mowa w ust. 1, stosuje się odpowiednio przepisy dotyczące samorządu doktorantów działającego w uczelniach na zasadach określonych w ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365, z późn. zm. ).”.
+
 **Art. 25.** W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 4:
+    - **a)** pkt 8 otrzymuje brzmienie: „8) badania naukowe – badania naukowe i prace rozwojowe w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615);”,
+    - **b)** w pkt 10 lit. a otrzymuje brzmienie: „a) uczelnię lub jednostkę naukową, o której mowa w art. 2 pkt 9 lit. b–e ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki,”;
+
+- **2)** w art. 60a ust. 5 otrzymuje brzmienie: „5. Uczelnie, jednostki naukowe wymienione w art. 2 pkt 9 lit. b–e ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki oraz centra badawczo-rozwojowe, o których mowa w ustawie z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej, są zwolnione z obowiązku, o którym mowa w ust. 4.”.
 
 **Art. 26.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** art. 97 otrzymuje brzmienie: „Art. 97. Zasady i tryb finansowania badań naukowych i prac rozwojowych prowadzonych w uczelni, zakwalifikowanych do finansowania ze środków przewidzianych w budżecie państwa na naukę, określa ustawa z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615).”;
+- **2)** w art. 143 ust. 4 otrzymuje brzmienie: „4. Komisje dyscyplinarne, o których mowa w art. 142 ust. 1, rozstrzygają samodzielnie wszelkie zagadnienia faktyczne oraz prawne i nie są związane rozstrzygnięciami innych organów stosujących prawo, z wyjątkiem prawomocnego skazującego wyroku sądu oraz opinii komisji do spraw etyki w nauce.”;
+- **3)** po art. 144 dodaje się art. 144a w brzmieniu: „Art. 144a. W sprawach naruszeń dyscyplinarnych, które stanowią jednocześnie naruszenie zasad etyki w nauce, w szczególności określonych w art. 144 ust. 3 pkt 1–5, komisja dyscyplinarna może zwrócić się o wydanie opinii do komisji do spraw etyki w nauce, o której mowa w art. 39 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. Nr 96, poz. 619). Opinia komisji do spraw etyki w nauce wiąże komisję dyscyplinarną w ustaleniu treści naruszenia.”;
+- **4)** art. 146 otrzymuje brzmienie: „Art. 146. 1. Obwiniony ma prawo do korzystania z pomocy wybranego przez siebie obrońcy. W przypadku gdy rzecznik dyscyplinarny wnosi o orzeczenie kary, o której mowa w art. 140 ust. 1 pkt 4, a obwiniony nie ma obrońcy z wyboru, przewodniczący składu orzekającego wyznacza obrońcę z urzędu spośród nauczycieli akademickich uczelni.
+
+2. W przypadku gdy obwiniony uchyla się od uczestnictwa w postępowaniu, postępowanie może toczyć się pod jego nieobecność.
+
+3. Od orzeczenia uczelnianej komisji dyscyplinarnej do spraw nauczycieli akademickich strony mogą się odwołać do komisji, o której mowa w art. 142 ust. 1 pkt 2, w terminie czternastu dni od dnia doręczenia orzeczenia wraz z uzasadnieniem.
+
+4. Od prawomocnego orzeczenia komisji dyscyplinarnej, o której mowa w art. 142 ust. 1 pkt 2, stronom służy odwołanie do Sądu Apelacyjnego w Warszawie – Sądu Pracy i Ubezpieczeń Społecznych. Do odwołania stosuje się przepisy Kodeksu postępowania cywilnego dotyczące apelacji. Od orzeczenia sądu apelacyjnego nie służy skarga kasacyjna.
+
+5. Informację o prawomocnym orzeczeniu w sprawach naruszeń, o których mowa w art. 144 ust. 3 pkt 1–5, komisja dyscyplinarna przekazuje do wiadomości organu przyznającego środki finansowe na naukę.
+
+6. Postępowanie dyscyplinarne zakończone prawomocnym orzeczeniem można wznowić, jeżeli:
+
+- **1)** w związku z postępowaniem dopuszczono się rażącego naruszenia prawa, a istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia;
+- **2)** po wydaniu orzeczenia ujawniono nowe fakty lub dowody nieznane w chwili jego wydania, wskazujące na to, że obwiniony jest niewinny, skazano go za popełnienie innego czynu lub komisja bezpodstawnie umorzyła postępowanie;
+- **3)** w trakcie postępowania naruszono przepisy, przez co uniemożliwiono lub w poważnym stopniu utrudniono obwinionemu korzystanie z prawa do obrony, albo skład komisji nie odpowiadał warunkom określonym w art. 142, albo zasiadała w niej osoba podlegająca wyłączeniu.
+
+7. Wznowienie nie może nastąpić z przyczyny wymienionej w ust. 6 pkt 1, jeżeli była ona przedmiotem rozpoznania przez sąd apelacyjny w trybie określonym w ust. 4.
+
+8. Wznowienie postępowania dyscyplinarnego na niekorzyść obwinionego nie jest dopuszczalne po jego śmierci albo po upływie trzech lat od popełnienia czynu będącego podstawą orzeczenia, a gdy czyn stanowił przestępstwo – po upływie okresu przedawnienia ścigania tego przestępstwa lub w razie wykonania kary i jej zatarcia.
+
+9. Wniosek o wznowienie postępowania dyscyplinarnego mogą składać, w terminie trzydziestu dni od dnia powzięcia wiadomości o przyczynie uzasadniającej wznowienie: obwiniony, obrońca, rzecznik dyscyplinarny, a po śmierci obwinionego lub gdy zachodzą uzasadnione wątpliwości co do jego poczytalności – także jego małżonek, krewny w linii prostej, brat lub siostra.”.
+
 **Art. 27.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2007 r. Nr 63, poz. 425, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 4:
+    - **a)** w pkt 44 lit. b i c otrzymują brzmienie: „b) osoba zajmująca w publicznej szkole wyższej, w Polskiej Akademii Nauk lub w instytucie badawczym stanowisko kierownika lub zastępcy kierownika podstawowej jednostki organizacyjnej, w szczególności dziekana albo prodziekana wydziału,
+    - **c)** osoba zajmująca w publicznej szkole wyższej, w Polskiej Akademii Nauk lub w instytucie badawczym stanowisko dyrektora instytutu, wicedyrektora instytutu, kanclerza, kwestora, prezesa, wiceprezesa, sekretarza naukowego;”,
+    - **b)** pkt 54 dodany przez art. 28 pkt 1 ustawy z dnia 15 czerwca 2007 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. Nr 115, poz. 789 oraz z 2009 r. Nr 157, poz. 1241) otrzymuje brzmienie: „54) dyrektor i zastępcy dyrektora Narodowego Centrum Badań i Rozwoju;”,
+    - **c)** pkt 54 dodany przez art. 9 pkt 1 ustawy z dnia 24 sierpnia 2007 r. o zmianie ustawy o służbie wojskowej żołnierzy zawodowych oraz o zmianie niektórych innych ustaw (Dz. U. Nr 176, poz. 1242) oznacza się jako pkt 55,
+    - **d)** dodaje się pkt 56 w brzmieniu: „56) dyrektor i zastępcy dyrektora Narodowego Centrum Nauki.”;
+
+- **2)** w art. 8:
+    - **a)** pkt 51 dodany przez art. 28 pkt 2 ustawy z dnia 15 czerwca 2007 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. Nr 115, poz. 789 oraz z 2009 r. Nr 157, poz. 1241) otrzymuje brzmienie: „51) pkt 54 i 56 – minister właściwy do spraw nauki;”,
+    - **b)** pkt 51 dodany przez art. 9 pkt 3 ustawy z dnia 24 sierpnia 2007 r. o zmianie ustawy o służbie wojskowej żołnierzy zawodowych oraz o zmianie niektórych innych ustaw (Dz. U. Nr 176, poz. 1242) oznacza się jako pkt 52, który otrzymuje brzmienie: „52) pkt 55 – Minister Obrony Narodowej.”;
+
+- **3)** w art. 21a ust. 2b otrzymuje brzmienie: „2b. Wydając orzeczenie stwierdzające fakt złożenia niezgodnego z prawdą oświadczenia lustracyjnego, sąd orzeka zakaz pełnienia funkcji publicznej, o której mowa w art. 4 pkt 2-56, na okres od 3 do 10 lat.”;
+- **4)** w art. 21e ust. 1 otrzymuje brzmienie: „1. Prawomocne orzeczenie sądu, stwierdzające fakt złożenia przez osobę lustrowaną niezgodnego z prawdą oświadczenia lustracyjnego, traktuje się jako obligatoryjną przesłankę pozbawienia tej osoby pełnionej przez nią funkcji publicznej, o której mowa w art. 4 pkt 2-54 i 56, z zastrzeżeniem art. 21f.”.
+
 **Art. 28.** W ustawie z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. Nr 116, poz. 730 oraz z 2010 r. Nr 75, poz. 473) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 1:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) badania – badania naukowe w rozumieniu art. 2 pkt 3 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615);”,
+    - **b)** pkt 5 otrzymuje brzmienie: „5) jednostka naukowa – jednostkę naukową w rozumieniu art. 2 pkt 9 lit. a–e ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki;”,
+    - **c)** pkt 10 otrzymuje brzmienie: „10) prace rozwojowe – prace rozwojowe w rozumieniu art. 2 pkt 4 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki;”;
+
+- **2)** w art. 17:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Przedsiębiorca niebędący instytutem badawczym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618), prowadzący badania lub prace rozwojowe, może uzyskać status centrum badawczo-rozwojowego, z zastrzeżeniem ust. 2.”,
+    - **b)** w ust. 6 pkt 8 otrzymuje brzmienie: „8) w przypadku spółki handlowej powstałej w wyniku komercjalizacji lub prywatyzacji instytutu badawczego – informację o wysokości ulg podatkowych przysługujących temu instytutowi badawczemu w ostatnim roku obrotowym jego działalności.”,
+    - **c)** dodaje się ust. 7 i 8 w brzmieniu: „7. Spółka handlowa powstała w wyniku komercjalizacji lub prywatyzacji instytutu badawczego otrzymuje status centrum badawczorozwojowego na okres do dnia rozpatrzenia jej wniosku o nadanie tego statusu, bez konieczności zachowania warunków określonych w ust. 2.
+
+8. Przepis ust. 7 stosuje się pod warunkiem złożenia przez spółkę wniosku w terminie 15 miesięcy od dnia przekształcenia. W przypadku gdy wniosek nie zostanie uwzględniony, spółka jest obowiązana do zapłaty podatków i opłat należnych za okres zwolnienia w terminie miesiąca od dnia uprawomocnienia się decyzji w sprawie wniosku.”;
+
+- **3)** w art. 35 uchyla się ust. 1 i 2.
 
 **Art. 29.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2009 r. Nr 52, poz. 417 i Nr 76, poz. 641) w art. 26 ust. 4 otrzymuje brzmienie: „4. Dokumentacja medyczna może być udostępniona także szkole wyższej lub instytutowi badawczemu do wykorzystania w celach naukowych, bez ujawniania nazwiska i innych danych umożliwiających identyfikację osoby, której dokumentacja dotyczy.”.
 
@@ -319,6 +428,9 @@ source: "isap-pdf"
 
 **Art. 74.** Do stosunków pracy nawiązanych przed dniem wejścia w życie ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk stosuje się przepisy tej ustawy, z zastrzeżeniem że:
 
+- **1)** dotychczasowi profesorowie uzyskują stanowisko profesora zwyczajnego;
+- **2)** dotychczasowi docenci uzyskują stanowisko profesora nadzwyczajnego.
+
 **Art. 75.** Do maksymalnego okresu zatrudnienia na stanowiskach asystenta lub adiunkta osób, z którymi nawiązano stosunek pracy na tych stanowiskach przed dniem wejścia w życie ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk, stosuje się przepisy dotychczasowe.
 
 **Art. 76.**
@@ -342,4 +454,8 @@ source: "isap-pdf"
 #### Rozdział 8 Przepis końcowy
 
 **Art. 81.** Ustawa wchodzi w życie z dniem 1 października 2010 r., z wyjątkiem:
+
+- **1)** art. 5 pkt 1, który wchodzi w życie z dniem 1 lipca 2010 r.;
+- **2)** art. 10 pkt 1 lit. b oraz art. 12 pkt 1 lit. b, które wchodzą w życie z dniem 1 stycznia 2011 r.
+
 

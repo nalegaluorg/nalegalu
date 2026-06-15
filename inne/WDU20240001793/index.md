@@ -39,7 +39,7 @@ a) ust. 1 otrzymuje brzmienie: „1. Legitymacja zawiera:
 8) nr legitymacji.”,
 b) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W legitymacji w polu „dodatkowe informacje” zamieszcza się informację o niezdolności do samodzielnej egzystencji.”;
 2) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. W okresie swojej ważności legitymacje emeryta‑rencisty policyjnego wydane przed dniem wejścia w życie niniej‑ szego rozporządzenia nie podlegają wymianie na legitymacje emeryta‑rencisty policyjnego wydawane według wzoru okreś‑ lonego w niniejszym rozporządzeniu, chyba że wystąpią przesłanki określone w § 41 pkt 1, 2 lub 4 rozporządzenia zmienia‑ nego w § 1.
+§ 2. W okresie swojej ważności legitymacje emeryta‑rencisty policyjnego wydane przed dniem wejścia w życie niniej‑ szego rozporządzenia nie podlegają wymianie na legitymacje emeryta‑rencisty policyjnego wydawane według wzoru okreś‑ lonego w niniejszym rozporządzeniu, chyba że wystąpią przesłanki określone w § 41 pkt 1, 2 lub 4 rozporządzenia zmienia‑ nego § 1.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Spraw Wewnętrznych i Administracji: wz. W. Szczepański Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji Załącznik z dnia 2 grudnia do rozporządzenia 2024 r. (Dz. Ministra U. poz.
 Spraw …) Wewnętrznych i Administracji z dnia 2 grudnia 2024 r. (Dz. U. poz.

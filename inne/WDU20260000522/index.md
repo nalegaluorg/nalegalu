@@ -8,7 +8,7 @@ pos: 522
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rachunkowości
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-30 |
 | Data wydania | 2026-04-16 |
-| Ostatnia zmiana | 2026-05-18 |
+| Ostatnia zmiana | 2026-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000522) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/522/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -207,7 +207,7 @@ source: "isap-pdf"
 
 1g. Na potrzeby ust. 1 pkt 36 lit. f oraz pkt 37 lit. a, b i d łączne prawa głosu udziałowców w jednostce zależnej są pomniejszane o prawa głosu związane z udziałami posiadanymi przez tę jednostkę zależną, jej jednostkę zależną lub osobę działającą w imieniu własnym, ale na rzecz tych jednostek.
 
-1h. Dla celów ust. 6, art. 7 ust. 2b, art. 28 ust. 4a, art. 28a, art. 28b, art. 32 ust. 7, art. 37 ust. 10, art. 39 ust. 6, art. 46 ust. 5 pkt 4 i 5, art. 47 ust. 4 pkt 4 i 5, art. 48 ust. 3 i 4, art. 49 ust. 4 i 5 oraz art. 56 ust. 1 następujące jednostki traktuje się jak jednostki duże bez względu na ich sumę aktywów bilansu, przychody netto ze sprzedaży towarów i produktów oraz średnioroczne zatrudnienie w roku obrotowym:
+1h. Dla celów ust. 6, art. 7 ust. 2b, art. 28 ust. 4a, art. 28a, art. 28b, art. 32 ust. 7, art. 37 ust. 10, art. 39 ust. 6, art. 45 ust. 3 pkt 1, art. 46 ust. 5 pkt 4 i 5, art. 47 ust. 4 pkt 4 i 5, art. 48 ust. 3 i 4, art. 49 ust. 4–6 oraz art. 56 ust. 1 następujące jednostki traktuje się jak jednostki duże bez względu na ich sumę aktywów bilansu, przychody netto ze sprzedaży towarów i produktów oraz średnioroczne zatrudnienie w roku obrotowym:
 
 - **1)** jednostki, o których mowa w art. 2 ust. 1 pkt 3;
 - **2)** jednostki zamierzające ubiegać się albo ubiegające się o zezwolenie na wykonywanie działalności na podstawie przepisów, o których mowa w art. 2 ust. 1 pkt 3, lub wpis do rejestru zarządzających ASI na podstawie przepisów o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi;
@@ -343,6 +343,9 @@ source: "isap-pdf"
 - **2)** w przypadku jednostek sektora finansów publicznych – innej jednostce sektora finansów publicznych, na zasadach określonych w przepisach odrębnych.
 
 **Art. 11a.** W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub miejscem sprawowania zarządu, kierownik jednostki jest obowiązany:
+
+- **1)** powiadomić właściwy urząd skarbowy o miejscu prowadzenia ksiąg rachunkowych w terminie 15 dni od dnia ich wydania;
+- **2)** zapewnić dostępność ksiąg rachunkowych wraz z dowodami księgowymi uprawnionym organom zewnętrznej kontroli lub nadzoru w siedzibie jednostki lub w miejscu sprawowania zarządu albo w innym miejscu za zgodą organu kontroli lub nadzoru.
 
 **Art. 12.**
 
@@ -1157,7 +1160,7 @@ source: "isap-pdf"
 
 - **1)** jednostki innej niż jednostka mikro i jednostka mała oraz jednostka, o której mowa w art. 80 ust. 4,
 - **2)** jednostki sektora finansów publicznych, która w poprzedzającym roku obrotowym, za który sporządzono sprawozdania finansowe, spełniła co najmniej dwa warunki, o których mowa w art. 64 ust. 1 pkt 4,
-- **3)** alternatywnej spółki inwestycyjnej – obejmuje ponadto zestawienie zmian w kapitale (funduszu) własnym oraz rachunek przepływów pieniężnych.
+- **3)** (uchylony) – obejmuje ponadto zestawienie zmian w kapitale (funduszu) własnym oraz rachunek przepływów pieniężnych.
 
 3a. Sprawozdanie finansowe funduszu inwestycyjnego obejmuje ponadto zestawienie zmian w aktywach netto, a w przypadku sprawozdania finansowego funduszu inwestycyjnego zamkniętego – również rachunek przepływów pieniężnych.
 
@@ -1635,6 +1638,23 @@ source: "isap-pdf"
 
 **Art. 63e.** Ilekroć w rozdziale jest mowa o:
 
+- **1)** jednostce działającej w przemyśle wydobywczym – rozumie się przez to jednostkę prowadzącą działalność polegającą na eksploracji, poszukiwaniu, odkrywaniu, eksploatacji i wydobywaniu złóż minerałów, ropy, gazu ziemnego lub innych surowców, w ramach rodzajów działalności gospodarczej wymienionych w sekcji B w działach 05-08 Polskiej Klasyfikacji Działalności;
+- **2)** jednostce zajmującej się wyrębem lasów pierwotnych – rozumie się przez to jednostkę prowadzącą działalność, o której mowa w sekcji A w dziale 02, w grupie 02.2 Polskiej Klasyfikacji Działalności, na obszarach lasów pierwotnych;
+- **3)** lesie pierwotnym – rozumie się przez to las z gatunkami rodzimymi, gdzie nie istnieją wyraźnie widoczne ślady działalności człowieka, a procesy ekologiczne nie zostały w istotny sposób zaburzone;
+- **4)** administracji publicznej – rozumie się przez to organy administracji rządowej lub samorządowej oraz jednostki nadzorowane lub kontrolowane przez te organy, a w przypadku pozostałych państw Europejskiego Obszaru Gospodarczego lub państw spoza Europejskiego Obszaru Gospodarczego – organy administracji państwowej, regionalnej lub lokalnej państwa Europejskiego Obszaru Gospodarczego lub państwa spoza Europejskiego Obszaru Gospodarczego oraz jednostki nadzorowane lub kontrolowane przez te organy;
+- **5)** projekcie – rozumie się przez to działalność operacyjną prowadzoną na podstawie umowy, w szczególności najmu, dzierżawy, licencji lub koncesji, stanowiącej podstawę zobowiązań płatniczych wobec administracji publicznej poszczególnych państw; jeżeli kilka tego rodzaju umów jest ze sobą znacząco powiązanych, to działalność operacyjną prowadzoną na ich podstawie uznaje się je za jeden projekt;
+- **6)** płatności – rozumie się przez to zapłaconą kwotę, w gotówce lub w naturze, z działalności określonej w pkt 1 lub 2, z tytułu:
+    - **a)** należności z tytułu produkcji,
+    - **b)** podatków pobieranych od dochodu, produkcji lub zysków spółek, z wyłączeniem podatku od konsumpcji, takiego jak podatek od towarów i usług, podatku dochodowego od osób fizycznych lub podatku od sprzedaży,
+    - **c)** tantiem,
+    - **d)** dywidend,
+    - **e)** opłat koncesyjnych oraz premii za odkrycie i produkcję,
+    - **f)** opłat licencyjnych, opłat dzierżawnych, opłat za rozpoczęcie działalności oraz innych świadczeń z tytułu przyznania licencji lub koncesji,
+    - **g)** płatności za ulepszenia w zakresie infrastruktury;
+
+- **7)** płatnościach powiązanych – rozumie się przez to przewidziane umową płatności okresowe lub ratalne;
+- **8)** sprawozdaniu z płatności – rozumie się przez to sprawozdanie z płatności na rzecz administracji publicznej.
+
 **Art. 63f.**
 
 1. Jednostka działająca w przemyśle wydobywczym lub jednostka zajmująca się wyrębem lasów pierwotnych sporządza na dzień bilansowy, wraz z rocznym sprawozdaniem finansowym, sprawozdanie z płatności, jeżeli jest:
@@ -1836,6 +1856,10 @@ source: "isap-pdf"
 
 **Art. 63p.** Ilekroć w rozdziale jest mowa o:
 
+- **1)** kwestiach zrównoważonego rozwoju – rozumie się przez to czynniki środowiskowe, czynniki społeczne i z zakresu praw człowieka oraz czynniki zarządcze, w tym czynniki zrównoważonego rozwoju określone w art. 2 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, z późn. zm. );
+- **2)** standardach sprawozdawczości zrównoważonego rozwoju – rozumie się przez to standardy określone przez Komisję Europejską w drodze aktów delegowanych wydanych na podstawie art. 29b ust. 1 dyrektywy Parlamentu Europejskiego i Rady 2013/34/UE z dnia 26 czerwca 2013 r. w sprawie rocznych sprawozdań finansowych, skonsolidowanych sprawozdań finansowych i powiązanych sprawozdań niektórych rodzajów jednostek, zmieniającej dyrektywę Parlamentu Europejskiego i Rady 2006/43/WE oraz uchylającej dyrektywy Rady 78/660/EWG i 83/349/EWG (Dz. Urz. UE L 182 z 29.06.2013, str. 19, z późn. zm. );
+- **3)** standardach sprawozdawczości zrównoważonego rozwoju dla małych i średnich jednostek – rozumie się przez to standardy określone przez Komisję Europejską w drodze aktów delegowanych wydanych na podstawie art. 29c ust. 1 dyrektywy Parlamentu Europejskiego i Rady 2013/34/UE z dnia 26 czerwca 2013 r. w sprawie rocznych sprawozdań finansowych, skonsolidowanych sprawozdań finansowych i powiązanych sprawozdań niektórych rodzajów jednostek, zmieniającej dyrektywę Parlamentu Europejskiego i Rady 2006/43/WE oraz uchylającej dyrektywy Rady 78/660/EWG i 83/349/EWG.
+
 **Art. 63q.**
 
 1. Przepisy niniejszego rozdziału stosuje się do jednostek będących:
@@ -1935,6 +1959,15 @@ source: "isap-pdf"
 2. W przypadku gdy jednostka dominująca ma siedzibę lub miejsce sprawowania zarządu w państwie innym niż Rzeczpospolita Polska, ujawnienie, o którym mowa w ust. 1 pkt 2 lit. c, obejmuje również ujawnienie przez jednostkę zależną w jej sprawozdaniu z działalności adresu strony internetowej, na której zostaną udostępnione tłumaczenia dokumentów, o których mowa w ust. 1 pkt 2 lit. c, na język polski.
 
 **Art. 63v.** Jednostka zależna od jednostki dominującej mającej siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, w tym jednostka dominująca niższego szczebla, jest zwolniona z obowiązku sporządzenia sprawozdawczości zrównoważonego rozwoju, jeżeli są spełnione łącznie następujące warunki:
+
+- **1)** informacje dotyczące tej jednostki zależnej i jej jednostek zależnych zostaną zawarte w sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63x ust. 1, tej jednostki dominującej, sporządzonej zgodnie ze standardami sprawozdawczości zrównoważonego rozwoju lub standardami uznanymi za równoważne zgodnie z aktem wykonawczym w sprawie równoważności standardów sprawozdawczości w zakresie zrównoważonego rozwoju przyjętym zgodnie z art. 23 ust. 4 akapit trzeci dyrektywy 2004/109/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 2004 r. w sprawie harmonizacji wymogów dotyczących przejrzystości informacji o emitentach, których papiery wartościowe dopuszczane są do obrotu na rynku regulowanym oraz zmieniającej dyrektywę 2001/34/WE (Dz. Urz. UE L 390 z 31.12.2004, str. 38–57, z późn. zm. ), zwanej dalej „dyrektywą 2004/109/WE”;
+- **2)** ta jednostka zależna ujawnia w swoim sprawozdaniu z działalności:
+    - **a)** informację, że skorzystała ze zwolnienia ze sporządzenia sprawozdawczości zrównoważonego rozwoju,
+    - **b)** nazwę i siedzibę jednostki dominującej, która sporządzi sprawozdawczość zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63x ust. 1,
+    - **c)** adres strony internetowej, na której zostanie udostępniona w terminie 12 miesięcy od dnia bilansowego jednostki zależnej sprawozdawczość zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63x ust. 1, wraz ze sprawozdaniem z atestacji tej sprawozdawczości oraz tłumaczenia tych dokumentów na język polski, przy czym dokumenty te są udostępniane na stronie internetowej przez okres co najmniej 5 lat;
+
+- **3)** kierownik tej jednostki zależnej złoży we właściwym rejestrze sądowym, w terminie 12 miesięcy od dnia bilansowego, sprawozdawczość zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63x ust. 1, jednostki dominującej wraz ze sprawozdaniem z atestacji tej sprawozdawczości wydanym przez podmiot upoważniony do wydawania opinii z atestacji sprawozdawczości zrównoważonego rozwoju na podstawie prawa krajowego, któremu podlega jednostka dominująca, oraz tłumaczenia tych dokumentów na język polski;
+- **4)** informacje określone w art. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088 (Dz. Urz. UE L 198 z 22.06.2020, str. 13, z późn. zm. ), dotyczące działalności prowadzonej przez korzystającą ze zwolnienia jednostkę zależną i jej jednostki zależne, zostaną zawarte w sprawozdaniu z działalności tej jednostki zależnej lub w sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63x ust. 1, sporządzonej przez jednostkę dominującą.
 
 **Art. 63w.**
 
@@ -2058,7 +2091,33 @@ source: "isap-pdf"
 - **1)** sprawozdawczość zrównoważonego rozwoju jednostek z państw spoza Europejskiego Obszaru Gospodarczego sporządzoną odpowiednio przez jednostkę dominującą najwyższego szczebla albo jednostkę samodzielną wraz ze sprawozdaniem z atestacji tej sprawozdawczości, o którym mowa w ust. 6, albo z oświadczeniem, o którym mowa w ust. 7, albo
 - **2)** sprawozdawczość zrównoważonego rozwoju, o której mowa w ust. 5 pkt 1, wraz z oświadczeniem, o którym mowa w ust. 5 pkt 2.
 
-9. Sprawozdawczość zrównoważonego rozwoju, o której mowa w ust. 5 pkt 1, oświadczenie, o którym mowa w ust. 5 pkt 2, oraz oświadczenie, o którym mowa w ust. 7, sporządza się w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+9. Sprawozdawczość zrównoważonego rozwoju, o której mowa w ust. 5 pkt 1, oświadczenie, o którym mowa w ust. 5 pkt 2, oraz oświadczenie, o którym mowa w ust. 7, sporządza się w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. <Rozdział 6d Informacje przekazywane do europejskiego pojedynczego punktu dostępu Art. 63ze. Ilekroć w niniejszym rozdziale jest mowa o:
+
+- **1)** europejskim pojedynczym punkcie dostępu – rozumie się przez to europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
+- **2)** metadanych – rozumie się przez to metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;
+- **3)** rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ). Art. 63zf. 1. Kierownik jednostki, o której mowa w art. 63r ust. 1, art. 63x ust. 1 oraz art. 63zd ust. 1 pkt 1 i 2, zapewnia przekazywanie do właściwego rejestru sądowego, w celu udostępnienia w europejskim pojedynczym punkcie dostępu, następujących informacji:
+- **1)** sprawozdania z działalności;
+- **2)** sprawozdania z działalności grupy kapitałowej;
+- **3)** rocznego sprawozdania finansowego;
+- **4)** skonsolidowanego sprawozdania finansowego;
+- **5)** sprawozdania z badania;
+- **6)** sprawozdania z atestacji sprawozdawczości zrównoważonego rozwoju;
+- **7)** sprawozdawczości zrównoważonego rozwoju jednostek z państw spoza Europejskiego Obszaru Gospodarczego dotyczącej odpowiednio grupy kapitałowej jednostki dominującej najwyższego szczebla albo jednostki samodzielnej wraz ze sprawozdaniem z atestacji tej sprawozdawczości;
+- **8)** oświadczenia, o którym mowa w art. 63zd ust. 5 pkt 2;
+- **9)** sprawozdania z płatności na rzecz administracji publicznej;
+- **10)** skonsolidowanego sprawozdania z płatności na rzecz administracji publicznej.
+
+2. Informacje, o których mowa w ust. 1, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą jednostki, której dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego jednostki, której dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości jednostki, której dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** sektorem przemysłu, w którym jednostka, której dotyczą informacje, prowadzi działalność gospodarczą, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **6)** wskazaniem, czy informacje zawierają dane osobowe;
+- **7)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 33a ust. 5 dyrektywy Parlamentu Europejskiego i Rady 2013/34/UE z dnia 26 czerwca 2013 r. w sprawie rocznych sprawozdań finansowych, skonsolidowanych sprawozdań finansowych i powiązanych sprawozdań niektórych rodzajów jednostek, zmieniającej dyrektywę Parlamentu Europejskiego i Rady 2006/43/WE oraz uchylającej dyrektywy Rady 78/660/EWG i 83/349/EWG.
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, jednostka występuje o nadanie jej identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.>
 
 #### Rozdział 7 Badanie sprawozdań finansowych, atestacja sprawozdawczości zrównoważonego rozwoju, składanie do właściwego rejestru sądowego, udostępnianie i ogłaszanie sprawozdań
 
@@ -2282,6 +2341,9 @@ source: "isap-pdf"
 
 **Art. 75.** Udostępnienie osobie trzeciej zbiorów lub ich części:
 
+- **1)** do wglądu na terenie jednostki – wymaga zgody kierownika jednostki lub osoby przez niego upoważnionej,
+- **2)** poza siedzibą zarządu (oddziału) jednostki – wymaga pisemnej zgody kierownika jednostki oraz pozostawienia w jednostce potwierdzonego spisu przejętych dokumentów, chyba że odrębne przepisy stanowią inaczej.
+
 **Art. 76.**
 
 1. Zbiory jednostek, które:
@@ -2336,6 +2398,9 @@ source: "isap-pdf"
 
 **Art. 77.** Kto wbrew przepisom ustawy dopuszcza do:
 
+- **1)** nieprowadzenia ksiąg rachunkowych, prowadzenia ich wbrew przepisom ustawy lub podawania w tych księgach nierzetelnych danych,
+- **2)** niesporządzenia sprawozdania finansowego, skonsolidowanego sprawozdania finansowego, sprawozdania z działalności, sprawozdania z działalności grupy kapitałowej, sprawozdania z płatności na rzecz administracji publicznej, skonsolidowanego sprawozdania z płatności na rzecz administracji publicznej, sprawozdania o podatku dochodowym, sporządzenia ich niezgodnie z przepisami ustawy lub zawarcia w tych sprawozdaniach nierzetelnych danych – podlega grzywnie albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+
 **Art. 78.**
 
 1. Biegły rewident, który sporządza niezgodną ze stanem faktycznym opinię o:
@@ -2348,6 +2413,28 @@ source: "isap-pdf"
 2. Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie, podlega grzywnie albo karze ograniczenia wolności.
 
 **Art. 79.** Kto wbrew przepisom ustawy:
+
+- **1)** nie poddaje sprawozdania finansowego lub skonsolidowanego sprawozdania finansowego badaniu przez biegłego rewidenta, 1a) nie poddaje sprawozdawczości zrównoważonego rozwoju lub sprawozdawczości zrównoważonego rozwoju grupy kapitałowej atestacji przez biegłego rewidenta uprawnionego do atestacji sprawozdawczości zrównoważonego rozwoju,
+- **2)** nie udziela lub udziela niezgodnych ze stanem faktycznym informacji, wyjaśnień, oświadczeń biegłemu rewidentowi albo nie dopuszcza go do pełnienia obowiązków,
+- **3)** nie składa sprawozdania finansowego do ogłoszenia,
+- **4)** nie składa we właściwym rejestrze sądowym:
+    - **a)** sprawozdania finansowego lub skonsolidowanego sprawozdania finansowego,
+    - **b)** sprawozdania z działalności lub sprawozdania z działalności grupy kapitałowej,
+    - **c)** sprawozdania z płatności na rzecz administracji publicznej lub skonsolidowanego sprawozdania z płatności na rzecz administracji publicznej,
+    - **d)** sprawozdania o podatku dochodowym,
+    - **e)** sprawozdawczości zrównoważonego rozwoju grupy kapitałowej jednostki dominującej wraz ze sprawozdaniem z atestacji tej sprawozdawczości zgodnie z art. 63v pkt 3 lub sprawozdawczości zrównoważonego rozwoju grupy kapitałowej jednostki dominującej wyższego szczebla wraz ze sprawozdaniem z atestacji tej sprawozdawczości zgodnie z art. 63za pkt 3,
+    - **f)** sprawozdawczości zrównoważonego rozwoju dotyczącej grupy kapitałowej jednostki dominującej najwyższego szczebla z państwa spoza Europejskiego Obszaru Gospodarczego lub dotyczącej jednostki samodzielnej z państwa spoza Europejskiego Obszaru Gospodarczego, o których mowa w art. 63zd, oświadczenia, o którym mowa w art. 63zd ust. 5 pkt 2, sprawozdania z atestacji, o którym mowa w art. 63zd ust. 6, lub oświadczenia, o którym mowa w art. 63zd ust. 7,
+    - **g)** sprawozdania z badania sprawozdania finansowego, jeżeli podlegało ono badaniu, lub sprawozdania z badania skonsolidowanego sprawozdania finansowego,
+    - **h)** sprawozdania z atestacji sprawozdawczości zrównoważonego rozwoju – w przypadku jednostki, o której mowa w art. 63r ust. 1, i jednostki, o której mowa w art. 63x ust. 1, 4a) nie zamieszcza na stronie internetowej jednostki:
+    - **a)** sprawozdania o podatku dochodowym lub oświadczenia, o którym mowa w art. 63n ust. 4 pkt 2,
+    - **b)** sprawozdania z działalności lub sprawozdania z działalności grupy kapitałowej – w przypadku jednostki, o której mowa w art. 63r ust. 1, i jednostki, o której mowa w art. 63x ust. 1,
+
+- **5)** nie udostępnia sprawozdania finansowego i innych dokumentów, o których mowa w art. 68,
+- **6)** prowadzi działalność gospodarczą w zakresie usługowego prowadzenia ksiąg rachunkowych bez spełnienia warunków, o których mowa w art. 76a ust. 3,
+- **7)** prowadzi działalność gospodarczą w zakresie usługowego prowadzenia ksiąg rachunkowych bez spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 76h ust. 1,
+- **8)** rozwiązuje umowę o badanie sprawozdania finansowego lub skonsolidowanego sprawozdania finansowego, bez uzasadnionej podstawy, lub nie informuje Polskiej Agencji Nadzoru Audytowego lub Komisji Nadzoru Finansowego o rozwiązaniu tej umowy, 8a) rozwiązuje umowę o atestację sprawozdawczości zrównoważonego rozwoju, bez uzasadnionej podstawy, lub nie informuje Polskiej Agencji Nadzoru Audytowego lub Komisji Nadzoru Finansowego o rozwiązaniu tej umowy,
+- **9)** zawiera z firmą audytorską umowę o badanie ustawowe w rozumieniu art. 2 pkt 1 ustawy o biegłych rewidentach, na okres krótszy niż dwa lata,
+- **10)** stosuje klauzule umowne, o których mowa w art. 66 ust. 5a lub 5c – podlega grzywnie albo karze ograniczenia wolności.
 
 #### Rozdział 10 Przepisy szczególne i przejściowe
 
@@ -2400,6 +2487,12 @@ source: "isap-pdf"
 - **10)** (uchylony)
 
 **Art. 82.** Minister właściwy do spraw finansów publicznych może w drodze rozporządzenia:
+
+- **1)** (uchylony)
+- **2)** po zasięgnięciu opinii Przewodniczącego Komisji Nadzoru Finansowego, określić szczególne zasady rachunkowości Krajowego Depozytu Papierów Wartościowych oraz funduszu rozliczeniowego, o którym mowa w przepisach o obrocie papierami wartościowymi, w tym zakres informacji wykazywanych w sprawozdaniu finansowym oraz odpowiednio w skonsolidowanym sprawozdaniu finansowym grupy kapitałowej, a także w sprawozdaniach z działalności;
+- **3)** po zasięgnięciu opinii Przewodniczącego Komisji Nadzoru Finansowego, określić szczególne zasady rachunkowości funduszu gwarancyjnego, o którym mowa w przepisach o obrocie papierami wartościowymi, w tym zakres informacji wykazywanych w sprawozdaniu finansowym;
+- **4)** po zasięgnięciu opinii Przewodniczącego Komisji Nadzoru Finansowego, określić szczególne zasady rachunkowości spółek prowadzących rynek regulowany, w tym zakres informacji wykazywanych w sprawozdaniu finansowym, odpowiednio w skonsolidowanym sprawozdaniu finansowym grupy kapitałowej oraz sprawozdaniach z działalności;
+- **5)** po zasięgnięciu opinii Przewodniczącego Komisji Nadzoru Finansowego, określić szczególne zasady rachunkowości krajowych instytucji płatniczych, w tym zakres informacji wykazywanych w sprawozdaniu finansowym, odpowiednio w skonsolidowanym sprawozdaniu finansowym grupy kapitałowej oraz sprawozdaniach z działalności.
 
 **Art. 83.**
 

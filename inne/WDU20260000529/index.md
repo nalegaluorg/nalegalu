@@ -1590,7 +1590,11 @@ Art. 131–141. (pominięte)
 
 14. O wejściu w życie rozporządzeń, o których mowa w ust. 10 i 12, a także ich zmian, minister właściwy do spraw gospodarki morskiej informuje Komisję Europejską.
 
-15. Pokładowe i osobiste nadajniki sygnału niebezpieczeństwa będące na wyposażeniu statków podlegają ewidencjonowaniu na zasadach określonych w art. 140e ust. 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176). Przepisy wydane na podstawie art. 140e ust. 3 ustawy wymienionej w zdaniu pierwszym stosuje się odpowiednio. Art. 86 [1] . 1. Statek o obcej przynależności niepodlegający Konwencji SOLAS może być eksploatowany w żegludze regularnej pomiędzy portem położonym na terytorium Rzeczypospolitej Polskiej a miejscami przeznaczenia położonymi w polskich obszarach morskich w okresie dłuższym niż 14 dni w ciągu roku kalendarzowego pod warunkiem uzyskania pozwolenia na eksploatację.
+15. Pokładowe i osobiste nadajniki sygnału niebezpieczeństwa będące na wyposażeniu statków podlegają ewidencjonowaniu na zasadach określonych w art. 140e ust. 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176). Przepisy wydane na podstawie art. 140e ust. 3 ustawy wymienionej w zdaniu pierwszym stosuje się odpowiednio.
+
+**Art. 86¹.**
+
+1. Statek o obcej przynależności niepodlegający Konwencji SOLAS może być eksploatowany w żegludze regularnej pomiędzy portem położonym na terytorium Rzeczypospolitej Polskiej a miejscami przeznaczenia położonymi w polskich obszarach morskich w okresie dłuższym niż 14 dni w ciągu roku kalendarzowego pod warunkiem uzyskania pozwolenia na eksploatację.
 
 2. Pozwolenie na eksploatację, o którym mowa w ust. 1, wydaje, w drodze decyzji, dyrektor urzędu morskiego właściwy dla portu, z którego prowadzona jest żegluga, o której mowa w ust. 1, na wniosek armatora.
 

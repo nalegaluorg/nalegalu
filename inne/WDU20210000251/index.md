@@ -54,7 +54,7 @@ w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowyc
 § 5. Biblioteka naukowa, co trzy lata, podlega ocenie przez Krajową Radę Biblioteczną w zakresie spełniania wymogów i kryteriów, o których mowa w § 2.
 § 6. 1. W przypadku gdy biblioteka naukowa nie spełnia wymogów i kryteriów, o których mowa w § 2, Krajowa Rada Biblioteczna występuje do Ministra z wnioskiem o wykreślenie biblioteki z wykazu, o którym mowa w § 8.
 2. W przypadku likwidacji biblioteki naukowej z wnioskiem o wykreślenie biblioteki z wykazu, o którym mowa w § 8, występuje organizator biblioteki.
-§ 7. 1. W przypadku wniosku, o którym mowa w § 6 ust. 1, Minister może wykreślić bibliotekę z wykazu, o którym mowa w § 8.
+§ 7. 1. W przypadku wniosku, o którym mowa w § 6 ust. 1, Minister może wykreślić bibliotekę z wykazu, o którym mowa § 8.
 2. W przypadku wniosku, o którym mowa w § 6 ust. 2, Minister wykreśla bibliotekę z wykazu, o którym mowa w § 8.
 § 8. Wykaz bibliotek naukowych stanowi załącznik do rozporządzenia.
 § 9. Do wniosków o zaliczenie biblioteki do bibliotek naukowych złożonych i nierozpatrzonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.

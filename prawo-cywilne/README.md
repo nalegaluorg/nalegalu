@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo cywilne**.
 
-Łącznie: **138** aktów
+Łącznie: **142** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -55,6 +55,7 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU20160000406](WDU20160000406/index.md) | Ustawa z dnia 18 marca 2016 r. o zmianie ustawy - Kodeks rodzinny i opiekuń | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20160000394](WDU20160000394/index.md) | Ustawa z dnia 17 marca 2016 r. o zmianie ustawy o pracownikach sądów i prok | Ustawa | obowiązujący |  |
 | [WDU20150001830](WDU20150001830/index.md) | Ustawa z dnia 9 października 2015 r. o zmianie ustawy o terminach zapłaty w | Ustawa | obowiązujący |  |
+| [WDU20150001615](WDU20150001615/index.md) | Ustawa z dnia 11 września 2015 r. o zmianie ustawy - Prawo własności przemy | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20150001587](WDU20150001587/index.md) | Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o państwowej kompensacie  | Ustawa | obowiązujący |  |
 | [WDU20150001311](WDU20150001311/index.md) | Ustawa z dnia 10 lipca 2015 r. o zmianie ustawy - Kodeks cywilny, ustawy -  | Ustawa | obowiązujący |  |
 | [WDU20150001266](WDU20150001266/index.md) | Ustawa z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo własności przemysło | Ustawa | obowiązujący |  |
@@ -84,6 +85,7 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU20100400222](WDU20100400222/index.md) | Ustawa z dnia 8 stycznia 2010 r. o zmianie ustawy - Kodeks cywilny | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20100400222/orzecznictwo.md) |
 | [WDU20100070045](WDU20100070045/index.md) | Ustawa z dnia 17 grudnia 2009 r. o zmianie ustawy - Kodeks postępowania cyw | Ustawa | obowiązujący | [tak](WDU20100070045/orzecznictwo.md) |
 | [WDU20090790662](WDU20090790662/index.md) | Ustawa z dnia 2 kwietnia 2009 r. o zmianie ustawy - Kodeks cywilny | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20090790662/orzecznictwo.md) |
+| [WDU20090690593](WDU20090690593/index.md) | Ustawa z dnia 19 marca 2009 r. o zmianie ustawy - Kodeks postępowania cywil | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20090690592](WDU20090690592/index.md) | Ustawa z dnia 19 marca 2009 r. o zmianie ustawy - Kodeks postępowania cywil | Ustawa | obowiązujący | [tak](WDU20090690592/orzecznictwo.md) |
 | [WDU20090260156](WDU20090260156/index.md) | Ustawa z dnia 9 stycznia 2009 r. o zmianie ustawy - Kodeks postępowania cyw | Ustawa | obowiązujący | [tak](WDU20090260156/orzecznictwo.md) |
 | [WDU20082341571](WDU20082341571/index.md) | Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy - Kodeks postępowania cywi | Ustawa | obowiązujący | [tak](WDU20082341571/orzecznictwo.md) |
@@ -93,6 +95,7 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU20081631012](WDU20081631012/index.md) | Ustawa z dnia 23 lipca 2008 r. o zmianie ustawy - Kodeks cywilny oraz ustaw | Ustawa | obowiązujący |  |
 | [WDU20081160731](WDU20081160731/index.md) | Ustawa z dnia 30 maja 2008 r. o zmianie ustawy - Kodeks cywilny oraz niektó | Ustawa | obowiązujący | [tak](WDU20081160731/orzecznictwo.md) |
 | [WDU20080960609](WDU20080960609/index.md) | Ustawa z dnia 9 maja 2008 r. o zmianie ustawy - Kodeks postępowania cywilne | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU20071360958](WDU20071360958/index.md) | Ustawa z dnia 29 czerwca 2007 r. o zmianie ustawy - Prawo własności przemys | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20071210831](WDU20071210831/index.md) | Ustawa z dnia 9 maja 2007 r. o zmianie ustawy - Kodeks postępowania cywilne | Ustawa | obowiązujący | [tak](WDU20071210831/orzecznictwo.md) |
 | [WDU20071120766](WDU20071120766/index.md) | Ustawa z dnia 15 marca 2007 r. o zmianie ustawy - Kodeks postępowania cywil | Ustawa | obowiązujący | [tak](WDU20071120766/orzecznictwo.md) |
 | [WDU20070820557](WDU20070820557/index.md) | Ustawa z dnia 13 kwietnia 2007 r. o zmianie ustawy - Kodeks cywilny oraz o  | Ustawa | obowiązujący | [tak](WDU20070820557/orzecznictwo.md) |
@@ -113,6 +116,7 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU20030490408](WDU20030490408/index.md) | Ustawa z dnia 14 lutego 2003 r. o zmianie ustawy - Kodeks cywilny oraz niek | Ustawa | obowiązujący | [tak](WDU20030490408/orzecznictwo.md) |
 | [WDU20021291102](WDU20021291102/index.md) | Ustawa z dnia 5 lipca 2002 r. o zmianie ustawy o ochronie konkurencji i kon | Ustawa | obowiązujący | [tak](WDU20021291102/orzecznictwo.md) |
 | [WDU20021130983](WDU20021130983/index.md) | Ustawa z dnia 20 czerwca 2002 r. o zmianie ustawy - Prawo własności przemys | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU20021080945](WDU20021080945/index.md) | Ustawa z dnia 6 czerwca 2002 r. o zmianie ustawy - Prawo własności przemysł | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20010981069](WDU20010981069/index.md) | Ustawa z dnia 19 lipca 2001 r. o zmianie ustawy - Kodeks postępowania cywil | Ustawa | obowiązujący |  |
 | [WDU20010630635](WDU20010630635/index.md) | Ustawa z dnia 11 maja 2001 r. o zmianie ustawy o księgach wieczystych i hip | Ustawa | obowiązujący | [tak](WDU20010630635/orzecznictwo.md) |
 | [WDU20010490508](WDU20010490508/index.md) | Ustawa z dnia 30 czerwca 2000 r. Prawo własności przemysłowej. | Ustawa | akt posiada tekst jednolity | [tak](WDU20010490508/orzecznictwo.md) |
@@ -145,4 +149,4 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU19640090060](WDU19640090060/index.md) | Ustawa z dnia 25 lutego 1964 r. - Przepisy wprowadzające kodeks rodzinny i  | Ustawa | obowiązujący | [tak](WDU19640090060/orzecznictwo.md) |
 | [WDU19640090059](WDU19640090059/index.md) | Ustawa z dnia 25 lutego 1964 r. - Kodeks rodzinny i opiekuńczy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640090059/orzecznictwo.md) |
 
-*138 aktów • [← Powrót do spisu głównego](../README.md)*
+*142 aktów • [← Powrót do spisu głównego](../README.md)*

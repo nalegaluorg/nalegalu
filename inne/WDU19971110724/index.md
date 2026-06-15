@@ -8,7 +8,7 @@ pos: 724
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie zwierząt
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1997-08-21 |
 | Data wydania | 1997-09-23 |
-| Ostatnia zmiana | 2026-03-30 |
+| Ostatnia zmiana | 2026-06-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971110724) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/724/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -35,7 +35,11 @@ source: "isap-pdf"
 
 2. W sprawach nieuregulowanych w ustawie do zwierząt stosuje się odpowiednio przepisy dotyczące rzeczy.
 
-3. Organy administracji publicznej podejmują działania na rzecz ochrony zwierząt, współdziałając w tym zakresie z odpowiednimi instytucjami i organizacjami krajowymi i międzynarodowymi. zwierzętami kręgowymi wykorzystywanymi w celach naukowych lub edukacyjnych w zakresie nieuregulowanym w ustawie z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. z 2023 r. poz.
+3. Organy administracji publicznej podejmują działania na rzecz ochrony zwierząt, współdziałając w tym zakresie z odpowiednimi instytucjami i organizacjami krajowymi i międzynarodowymi.
+
+**Art. 2.**
+
+1. Ustawa reguluje postępowanie ze zwierzętami kręgowymi, w tym zwierzętami kręgowymi wykorzystywanymi w celach naukowych lub edukacyjnych w zakresie nieuregulowanym w ustawie z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. z 2023 r. poz.
 
 - **465)** .
 
@@ -45,7 +49,36 @@ source: "isap-pdf"
 
 **Art. 3a.** Do postępowań w sprawach:
 
+- **1)** o których mowa w art. 10, art. 13 oraz art. 24a,
+- **2)** dotyczących uchylenia, zmiany lub stwierdzenia nieważności decyzji wydanej na podstawie art. 10, art. 13 lub art. 24a oraz w sprawach wznowienia postępowania zakończonego wydaniem takiej decyzji – nie stosuje się przepisów art. 29 i art. 32 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641 i 803) oraz działu III ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541).
+
 **Art. 4.** Ilekroć w ustawie jest mowa o:
+
+- **1)** (uchylony)
+- **2)** „humanitarnym traktowaniu zwierząt” – rozumie się przez to traktowanie uwzględniające potrzeby zwierzęcia i zapewniające mu opiekę i ochronę;
+- **3)** „konieczności bezzwłocznego uśmiercenia” – rozumie się przez to obiektywny stan rzeczy stwierdzony, w miarę możliwości, przez lekarza weterynarii, polegający na tym, że zwierzę może dalej żyć jedynie cierpiąc i znosząc ból, a moralnym obowiązkiem człowieka staje się skrócenie cierpień zwierzęcia;
+- **4)** „menażerii objazdowej” – rozumie się przez to przedsiębiorcę wykonującego działalność w zakresie organizowania obwoźnych wystaw zwierząt;
+- **5)** (uchylony)
+- **6)** „ogłuszaniu zwierzęcia” – rozumie się przez to metodę profesjonalnego całkowitego wyłączenia świadomości zwierzęcia, trwającego aż do jego śmierci;
+- **7)** „okrutnych metodach w chowie lub hodowli zwierząt” – rozumie się przez to działania lub zaniechania człowieka prowadzące w sposób oczywisty do zmian patologicznych w organizmie zwierzęcia (somatycznych lub psychicznych), zwłaszcza w postaci skutków znoszenia dotkliwego bólu, przymuszania do określonego zachowania się (uległości) głodem, pragnieniem, działaniem prądu elektrycznego (z wyjątkiem używania pastuchów elektrycznych, treserów oraz urządzeń elektrycznych służących do przepędu zwierząt) bądź innymi zabiegami tego rodzaju, w szczególności karmienie i pojenie zwierząt przemocą;
+- **8)** „okrutnym traktowaniu” – rozumie się przez to wymienione w ustawie przypadki znęcania się nad zwierzętami oraz inne postępowanie właściciela bądź innej osoby, prowadzące do skutków porównywalnych ze skutkami znęcania się;
+- **9)** „pielęgnacji” – rozumie się przez to wszystkie aspekty relacji pomiędzy człowiekiem a zwierzęciem, w szczególności uruchamiane przez człowieka zasoby materialne i niematerialne, aby uzyskać i utrzymać u zwierzęcia stan fizyczny i psychiczny, w którym najlepiej ono znosi warunki bytowania narzucone przez człowieka;
+- **10)** „przeciążaniu zwierząt” – rozumie się przez to zmuszanie do nadmiernego wysiłku energetycznego, nieodpowiadającego możliwościom kondycyjnym zwierzęcia ze względu na jego stan fizyczny i zdrowotny;
+- **11)** „rażącym zaniedbaniu” – rozumie się przez to drastyczne odstępstwo od określonych w ustawie norm postępowania ze zwierzęciem, a w szczególności w zakresie utrzymywania zwierzęcia w stanie zagłodzenia, brudu, nieleczonej choroby, w niewłaściwym pomieszczeniu i nadmiernej ciasnocie;
+- **12)** „szczególnym okrucieństwie” – rozumie się przez to przedsiębranie przez sprawcę działań charakteryzujących się drastycznością form i metod, a zwłaszcza działanie w sposób wyszukany lub powolny, obliczony z premedytacją na zwiększenie rozmiaru cierpień i czasu ich trwania;
+- **13)** „ubojni” – rozumie się przez to każdy zakład pozostający pod państwową kontrolą sanitarną i weterynaryjną, przeznaczony do wykonywania uboju zwierząt;
+- **14)** „uwięzi” – rozumie się przez to wszelkie urządzenia mechaniczne krępujące swobodę ruchów zwierzęcia, w zakresie możliwości przemieszczania się ponad ustalony zakres, jak też niektóre urządzenia do kierowania ruchami zwierzęcia w sposób zamierzony przez człowieka;
+- **15)** „właściwych warunkach bytowania” – rozumie się przez to zapewnienie zwierzęciu możliwości egzystencji, zgodnie z potrzebami danego gatunku, rasy, płci i wieku;
+- **16)** „zwierzętach bezdomnych” – rozumie się przez to zwierzęta domowe lub gospodarskie, które uciekły, zabłąkały się lub zostały porzucone przez człowieka, a nie ma możliwości ustalenia ich właściciela lub innej osoby, pod której opieką trwale dotąd pozostawały;
+- **17)** „zwierzętach domowych” – rozumie się przez to zwierzęta tradycyjnie przebywające wraz z człowiekiem w jego domu lub innym odpowiednim pomieszczeniu, utrzymywane przez człowieka w charakterze jego towarzysza;
+- **18)** „zwierzętach gospodarskich” – rozumie się przez to zwierzęta gospodarskie w rozumieniu przepisów o organizacji hodowli i rozrodzie zwierząt gospodarskich;
+- **19)** „zwierzętach laboratoryjnych” – rozumie się przez to zwierzęta laboratoryjne w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych;
+- **20)** „zwierzętach wykorzystywanych do celów specjalnych” – rozumie się przez to zwierzęta, których profesjonalna tresura oraz używanie odbywa się na podstawie odrębnych przepisów, regulujących szczegółowe zasady działania jednostek Sił Zbrojnych Rzeczypospolitej Polskiej, Agencji Wywiadu, Policji, Straży Granicznej i innych formacji podległych ministrowi właściwemu do spraw wewnętrznych, Krajowej Administracji Skarbowej, ratownictwa oraz regulujących zasady szkolenia i wykorzystania psów – przewodników osób ociemniałych;
+- **21)** „zwierzętach wolno żyjących (dzikich)” – rozumie się przez to zwierzęta nieudomowione żyjące w warunkach niezależnych od człowieka;
+- **22)** (uchylony)
+- **23)** (uchylony)
+- **24)** „kurczętach brojlerach” – rozumie się przez to ptaki z gatunku Gallus gallus utrzymywane w celu pozyskania mięsa;
+- **25)** „schronisku dla zwierząt” – rozumie się przez to zakład w rozumieniu art. 4 pkt 27 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/429 z dnia 9 marca 2016 r. w sprawie przenośnych chorób zwierząt oraz zmieniającego i uchylającego niektóre akty w dziedzinie zdrowia zwierząt („Prawo o zdrowiu zwierząt”) (Dz. Urz. UE L 84 z 31.03.2016, str. 1, z późn. zm. ), w którym są utrzymywane zwierzęta bezdomne inne niż zwierzęta gospodarskie.
 
 **Art. 5.** Każde zwierzę wymaga humanitarnego traktowania.
 
@@ -61,9 +94,9 @@ source: "isap-pdf"
 - **6)** polowań, odstrzałów i ograniczania populacji zwierząt łownych,
 - **7)** usypiania ślepych miotów,
 - **8)** czynności podlegających zakazom w stosunku do gatunków chronionych, określonym w ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726, 2185 i 2375) wykonywanych na podstawie właściwych zezwoleń,
-- **9)** uśmiercania zwierząt należących do:
+- **9)** uśmiercania zwierząt należących do: poz. 1718 oraz z 2022 r. poz. 2375),
     - **a)** inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii w rozumieniu art. 3 pkt 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn. zm. ),
-    - **b)** inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski, umieszczonych na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski określonej w przepisach wydanych na podstawie poz. 1718 oraz z 2022 r. poz. 2375),
+    - **b)** inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski, umieszczonych na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski określonej w przepisach wydanych na podstawie art. 23 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U.
     - **c)** inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za inwazyjne gatunki obce stwarzające zagrożenie dla Unii, umieszczonych na liście inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za inwazyjne gatunki obce stwarzające zagrożenie dla Unii, określonej w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych – prowadzonych zgodnie z art. 33 oraz przepisami odrębnymi.
 
 1a. Zabrania się znęcania nad zwierzętami.
@@ -76,7 +109,8 @@ source: "isap-pdf"
 - **3)** używanie do pracy albo w celach sportowych lub rozrywkowych zwierząt chorych, a także zbyt młodych lub starych oraz zmuszanie ich do czynności, których wykonywanie może spowodować ból;
 - **4)** bicie zwierząt przedmiotami twardymi i ostrymi lub zaopatrzonymi w urządzenia obliczone na sprawianie specjalnego bólu, bicie po głowie, dolnej części brzucha, dolnych częściach kończyn;
 - **5)** przeciążanie zwierząt pociągowych i jucznych ładunkami w oczywisty sposób nieodpowiadającymi ich sile i kondycji lub stanowi dróg lub zmuszanie takich zwierząt do zbyt szybkiego biegu;
-- **6)** transport zwierząt, w tym zwierząt hodowlanych, rzeźnych i przewożonych na targowiska, przenoszenie lub przepędzanie zwierząt w sposób powodujący ich zbędne cierpienie i stres; zwierzę do przebywania w nienaturalnej pozycji, powodujących zbędny ból, uszkodzenia ciała albo śmierć;
+- **6)** transport zwierząt, w tym zwierząt hodowlanych, rzeźnych i przewożonych na targowiska, przenoszenie lub przepędzanie zwierząt w sposób powodujący ich zbędne cierpienie i stres;
+- **7)** używanie uprzęży, pęt, stelaży, więzów lub innych urządzeń zmuszających zwierzę do przebywania w nienaturalnej pozycji, powodujących zbędny ból, uszkodzenia ciała albo śmierć;
 - **8)** dokonywanie na zwierzętach zabiegów i operacji chirurgicznych przez osoby nieposiadające wymaganych uprawnień bądź niezgodnie z zasadami sztuki lekarsko-weterynaryjnej, bez zachowania koniecznej ostrożności i oględności oraz w sposób sprawiający ból, któremu można było zapobiec;
 - **9)** złośliwe straszenie lub drażnienie zwierząt;
 - **10)** utrzymywanie zwierząt w niewłaściwych warunkach bytowania, w tym utrzymywanie ich w stanie rażącego zaniedbania lub niechlujstwa, bądź w pomieszczeniach albo klatkach uniemożliwiających im zachowanie naturalnej pozycji;
@@ -96,7 +130,7 @@ source: "isap-pdf"
 
 - **1)** schronisku dla zwierząt, jeżeli jest to zwierzę domowe lub laboratoryjne, lub
 - **2)** gospodarstwu rolnemu wskazanemu przez wójta (burmistrza, prezydenta miasta), jeżeli jest to zwierzę gospodarskie, lub
-- **3)** ogrodowi zoologicznemu, schronisku dla zwierząt, azylowi dla zwierząt lub Centralnemu Azylowi dla Zwierząt, o którym mowa w ustawie z dnia 4 listopada 2022 r. o Centralnym Azylu dla Zwierząt (Dz. U. poz. 2375), jeżeli jest to zwierzę sportowych lub utrzymywane w ogrodach zoologicznych.
+- **3)** ogrodowi zoologicznemu, schronisku dla zwierząt, azylowi dla zwierząt lub Centralnemu Azylowi dla Zwierząt, o którym mowa w ustawie z dnia 4 listopada 2022 r. o Centralnym Azylu dla Zwierząt (Dz. U. poz. 2375), jeżeli jest to zwierzę wykorzystywane do celów rozrywkowych, widowiskowych, filmowych, sportowych lub utrzymywane w ogrodach zoologicznych.
 
 1a. Decyzja, o której mowa w ust. 1, podejmowana jest z urzędu po uzyskaniu informacji od Policji, straży gminnej, lekarza weterynarii lub upoważnionego przedstawiciela organizacji społecznej, której statutowym celem działania jest ochrona zwierząt.
 
@@ -120,7 +154,9 @@ source: "isap-pdf"
 
 1. (uchylony)
 
-2. Minister właściwy do spraw oświaty i wychowania uwzględni problematykę ochrony zwierząt w podstawie programowej kształcenia ogólnego. znajomości przepisów ustawy wśród rolników przez wojewódzkie ośrodki doradztwa rolniczego.
+2. Minister właściwy do spraw oświaty i wychowania uwzględni problematykę ochrony zwierząt w podstawie programowej kształcenia ogólnego.
+
+3. Zarząd województwa przygotowuje i wykonuje program upowszechniania znajomości przepisów ustawy wśród rolników przez wojewódzkie ośrodki doradztwa rolniczego.
 
 4. (uchylony)
 
@@ -146,7 +182,9 @@ source: "isap-pdf"
 
 2b. W razie zmiany miejsca prowadzenia hodowli lub utrzymywania psa właściwy organ dokonuje zmiany zezwolenia, o którym mowa w ust. 1.
 
-2c. Rozstrzygnięcia w sprawie wydania zezwolenia oraz cofnięcia zezwolenia, o którym mowa w ust. 1, są podejmowane w formie decyzji administracyjnej. Związku Kynologicznego w Polsce, ustala, w drodze rozporządzenia, wykaz ras psów uznawanych za agresywne, biorąc pod uwagę konieczność zapewnienia bezpieczeństwa ludzi i zwierząt.
+2c. Rozstrzygnięcia w sprawie wydania zezwolenia oraz cofnięcia zezwolenia, o którym mowa w ust. 1, są podejmowane w formie decyzji administracyjnej.
+
+3. Minister właściwy do spraw administracji publicznej, po zasięgnięciu opinii Związku Kynologicznego w Polsce, ustala, w drodze rozporządzenia, wykaz ras psów uznawanych za agresywne, biorąc pod uwagę konieczność zapewnienia bezpieczeństwa ludzi i zwierząt.
 
 **Art. 10a.**
 
@@ -181,7 +219,7 @@ source: "isap-pdf"
 
 2. Minister właściwy do spraw administracji publicznej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, zasady i warunki wyłapywania bezdomnych zwierząt.
 
-3. Zabrania się odławiania zwierząt bezdomnych bez zapewnienia im miejsca w schronisku dla zwierząt, chyba że zwierzę stwarza poważne zagrożenie dla ludzi lub podstawie uchwały rady gminy, o której mowa w art. 11a.
+3. Zabrania się odławiania zwierząt bezdomnych bez zapewnienia im miejsca w schronisku dla zwierząt, chyba że zwierzę stwarza poważne zagrożenie dla ludzi lub innych zwierząt. Odławianie bezdomnych zwierząt odbywa się wyłącznie na podstawie uchwały rady gminy, o której mowa w art. 11a.
 
 4. Organizacje społeczne, których statutowym celem działania jest ochrona zwierząt, mogą zapewniać bezdomnym zwierzętom opiekę i w tym celu prowadzić schroniska dla zwierząt, w porozumieniu z właściwymi organami samorządu terytorialnego.
 
@@ -212,7 +250,8 @@ source: "isap-pdf"
 
 7. Projekt programu, o którym mowa w ust. 1, wójt (burmistrz, prezydent miasta) najpóźniej do dnia 1 lutego przekazuje do zaopiniowania:
 
-- **1)** właściwemu powiatowemu lekarzowi weterynarii; zwierząt, działającym na obszarze gminy;
+- **1)** właściwemu powiatowemu lekarzowi weterynarii;
+- **2)** organizacjom społecznym, których statutowym celem działania jest ochrona zwierząt, działającym na obszarze gminy;
 - **3)** dzierżawcom lub zarządcom obwodów łowieckich, działających na obszarze gminy.
 
 8. Podmioty, o których mowa w ust. 7, w terminie 21 dni od dnia otrzymania projektu programu, o którym mowa w ust. 1, wydają opinie o projekcie. Niewydanie opinii w tym terminie uznaje się za akceptację przesłanego programu.
@@ -235,7 +274,7 @@ source: "isap-pdf"
 - **1)** minimalne warunki utrzymywania psów i kotów w schronisku dla zwierząt, w tym minimalne warunki dotyczące lokalizacji schroniska dla zwierząt,
 - **2)** zakres opieki sprawowanej nad psami i kotami utrzymywanymi w schronisku dla zwierząt, wymagania dotyczące osoby sprawującej tę opiekę, sposób dokumentowania tej opieki oraz wymagania dotyczące osoby, która odpowiada za przestrzeganie przepisów dotyczących minimalnych warunków utrzymywania psów i kotów w schronisku dla zwierząt oraz przepisów o ochronie zwierząt,
 - **3)** sposób i termin oznakowania psów i kotów utrzymywanych w schronisku dla zwierząt,
-- **4)** szczegółowy zakres informacji niebędących danymi osobowymi, jakie są zawarte w dokumentacji dotyczącej zwierząt utrzymywanych w schronisku dla przechowywania – mając na względzie liczbę zwierząt utrzymywanych w schronisku dla zwierząt, zapewnienie tym zwierzętom opieki i właściwych warunków bytowania, w tym potrzebę ograniczenia negatywnego wpływu lokalizacji schroniska dla zwierząt na stan fizyczny i psychiczny utrzymywanych zwierząt, w którym najlepiej znoszą warunki bytowania narzucone przez człowieka, zapewnienie kontroli stanu zdrowia tych zwierząt i profilaktyki chorób, możliwości identyfikacji tych zwierząt i ograniczenia ich rozmnażania się oraz umożliwienie organom Inspekcji Weterynaryjnej sprawowania nadzoru nad schroniskami dla zwierząt.
+- **4)** szczegółowy zakres informacji niebędących danymi osobowymi, jakie są zawarte w dokumentacji dotyczącej zwierząt utrzymywanych w schronisku dla zwierząt, sposób prowadzenia lub udostępniania tej dokumentacji oraz okres jej przechowywania – mając na względzie liczbę zwierząt utrzymywanych w schronisku dla zwierząt, zapewnienie tym zwierzętom opieki i właściwych warunków bytowania, w tym potrzebę ograniczenia negatywnego wpływu lokalizacji schroniska dla zwierząt na stan fizyczny i psychiczny utrzymywanych zwierząt, w którym najlepiej znoszą warunki bytowania narzucone przez człowieka, zapewnienie kontroli stanu zdrowia tych zwierząt i profilaktyki chorób, możliwości identyfikacji tych zwierząt i ograniczenia ich rozmnażania się oraz umożliwienie organom Inspekcji Weterynaryjnej sprawowania nadzoru nad schroniskami dla zwierząt.
 
 **Art. 11c.**
 
@@ -253,7 +292,7 @@ source: "isap-pdf"
 5. Powiatowy lekarz weterynarii w przypadku stwierdzenia, że:
 
 - **1)** pierwsze zwierzę zostało wprowadzone do schroniska dla zwierząt niezgodnie z ust. 2,
-- **2)** podmiot prowadzący schronisko dla zwierząt nie zastosował się do nakazu lub zakazu określonego w decyzji, o której mowa w ust. 4 – w drodze decyzji, zakazuje prowadzenia schroniska dla zwierząt i skreśla podmiot prowadzący schronisko dla zwierząt z rejestru, o którym mowa (Dz. U. poz. 1795).
+- **2)** podmiot prowadzący schronisko dla zwierząt nie zastosował się do nakazu lub zakazu określonego w decyzji, o której mowa w ust. 4 – w drodze decyzji, zakazuje prowadzenia schroniska dla zwierząt i skreśla podmiot prowadzący schronisko dla zwierząt z rejestru, o którym mowa w art. 55 pkt 2 lit. a oraz b ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795).
 
 6. Powiatowy lekarz weterynarii niezwłocznie informuje o wydaniu decyzji zakazującej prowadzenia schroniska dla zwierząt, o której mowa w ust. 5, Głównego Lekarza Weterynarii za pośrednictwem wojewódzkiego lekarza weterynarii.
 
@@ -282,7 +321,9 @@ source: "isap-pdf"
 
 5. Obsada zwierząt ponad ustalone normy powierzchni dla danego gatunku, wieku i stanu fizjologicznego jest zabroniona.
 
-6. Zabrania się importu zwierząt i produktów zwierzęcych uzyskanych w wyniku chowu lub hodowli z naruszeniem przepisów niniejszej ustawy. dokumentację weterynaryjną dotyczącą przebiegu leczenia, przeprowadzonych zabiegów weterynaryjnych oraz padłych zwierząt.
+6. Zabrania się importu zwierząt i produktów zwierzęcych uzyskanych w wyniku chowu lub hodowli z naruszeniem przepisów niniejszej ustawy.
+
+6a. Utrzymujący zwierzęta gospodarskie przechowuje przez okres 3 lat dokumentację weterynaryjną dotyczącą przebiegu leczenia, przeprowadzonych zabiegów weterynaryjnych oraz padłych zwierząt.
 
 7. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wymagania i sposób postępowania przy utrzymywaniu gatunków zwierząt gospodarskich, dla których normy ochrony zostały określone w przepisach Unii Europejskiej obowiązujących w tym zakresie, mając na względzie zapewnienie tym zwierzętom właściwych warunków bytowania i opieki oraz wpływ tych warunków na zdrowie i dobrostan zwierząt.
 
@@ -298,7 +339,7 @@ source: "isap-pdf"
 - **4)** są absolwentami szkół prowadzących kształcenie: – związanych z chowem lub hodowlą zwierząt, lub
     - **a)** w zawodach ujętych w klasyfikacji zawodów szkolnictwa branżowego określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900), lub
     - **b)** w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe w brzmieniu obowiązującym przed dniem 1 września 2019 r., lub
-    - **c)** w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego określonej w przepisach wydanych na podstawie art. 24 ust. 1 ustawy z dnia w brzmieniu obowiązującym przed dniem 1 września 2017 r.
+    - **c)** w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego określonej w przepisach wydanych na podstawie art. 24 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230) w brzmieniu obowiązującym przed dniem 1 września 2017 r.
 
 - **5)** są absolwentami szkół wyższych na kierunku weterynaria, zootechnika lub rolnictwo – zwane dalej „opiekunami”.
 
@@ -320,7 +361,9 @@ source: "isap-pdf"
 - **2)** plan realizacji (harmonogram) szkolenia;
 - **3)** listę osób, które będą prowadziły szkolenie.
 
-3. Podmioty upoważnione do prowadzenia szkolenia, o którym mowa w art. 12a ust. 1 pkt 1, wydają zaświadczenia o jego ukończeniu osobom, które uczestniczyły we wszystkich zajęciach objętych programem szkolenia, co zostało potwierdzone na liście obecności. upoważnionego do prowadzenia szkolenia, o którym mowa w art. 12a ust. 1 pkt 1, w zakresie spełniania wymagań kadrowych, organizacyjnych i technicznych umożliwiających przeprowadzenie tego szkolenia i prowadzenia tego szkolenia zgodnie z jego szczegółowym programem.
+3. Podmioty upoważnione do prowadzenia szkolenia, o którym mowa w art. 12a ust. 1 pkt 1, wydają zaświadczenia o jego ukończeniu osobom, które uczestniczyły we wszystkich zajęciach objętych programem szkolenia, co zostało potwierdzone na liście obecności.
+
+4. Wojewódzki lekarz weterynarii przeprowadza kontrole podmiotu upoważnionego do prowadzenia szkolenia, o którym mowa w art. 12a ust. 1 pkt 1, w zakresie spełniania wymagań kadrowych, organizacyjnych i technicznych umożliwiających przeprowadzenie tego szkolenia i prowadzenia tego szkolenia zgodnie z jego szczegółowym programem.
 
 5. Wojewódzki lekarz weterynarii może cofnąć, w drodze decyzji, upoważnienie, o którym mowa w ust. 2, jeżeli w wyniku przeprowadzonej kontroli stwierdzi, że podmiot nie spełnia warunków kadrowych, organizacyjnych i technicznych umożliwiających prowadzenie szkolenia, o którym mowa w art. 12a ust. 1 pkt 1, lub prowadzi to szkolenie niezgodnie z jego szczegółowym programem.
 
@@ -333,7 +376,31 @@ source: "isap-pdf"
 
 **Art. 12d.** Posiadacz kurnika lub opiekunowie mogą zwiększyć obsadę kurcząt brojlerów w kurniku, w którym są utrzymywane te kurczęta, jeżeli:
 
-**Art. 12e.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, sposób ustalania poziomu obsady kurcząt brojlerów w kurniku, w którym są utrzymywane te kurczęta, mając na względzie ujednolicenie sposobu obliczania łącznej masy żywych kurcząt brojlerów w przeliczeniu na 1 m dostępnej im powierzchni użytkowej. w którym są utrzymywane kurczęta brojlery, dokumentację zawierającą:
+- **1)** są spełnione wymagania dotyczące zwiększenia obsady kurcząt brojlerów w kurniku, określone w przepisach wydanych na podstawie art. 12 ust. 7;
+- **2)** powiadomią o takim zamiarze powiatowego lekarza weterynarii właściwego ze względu na lokalizację kurnika, w którym są utrzymywane kurczęta brojlery, co najmniej 15 dni przed umieszczeniem stada w tym kurniku, podając planowany poziom obsady.
+
+**Art. 12e.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, sposób ustalania poziomu obsady kurcząt brojlerów w kurniku, w którym są utrzymywane te kurczęta, mając na względzie ujednolicenie sposobu obliczania łącznej masy żywych kurcząt brojlerów w przeliczeniu na 1 m dostępnej im powierzchni użytkowej.
+
+**Art. 12f.**
+
+1. Posiadacz kurnika lub opiekunowie prowadzą dla każdego kurnika, w którym są utrzymywane kurczęta brojlery, dokumentację zawierającą:
+
+- **1)** informacje o:
+    - **a)** liczbie wprowadzonych kurcząt brojlerów,
+    - **b)** powierzchni użytkowej,
+    - **c)** liczbie padłych kurcząt brojlerów stwierdzonej podczas każdej kontroli i przyczynach ich śmierci,
+    - **d)** liczbie kurcząt brojlerów uśmierconych i przyczynach ich uśmiercenia,
+    - **e)** liczbie kurcząt brojlerów pozostałych w stadzie po sprzedaży lub po uśmierceniu;
+
+- **2)** nazwę mieszańca kurcząt brojlerów, jeżeli jest znana.
+
+2. Dokumentacja, o której mowa w ust. 1, jest przechowywana przez 3 lata od dnia umieszczenia kurcząt brojlerów w kurniku, w którym są one utrzymywane, i udostępniana powiatowemu lekarzowi weterynarii.
+
+3. Posiadacz kurnika lub opiekunowie zaopatrują wysyłane do ubojni kurczęta brojlery, pochodzące z kurnika o zwiększonej obsadzie, w informację zawierającą:
+
+- **1)** nazwę mieszańca kurcząt brojlerów, jeżeli jest znana;
+- **2)** wskaźnik śmiertelności dziennej, który oblicza się dzieląc liczbę kurcząt brojlerów padłych w kurniku tego samego dnia, w tym uśmierconych z powodu choroby lub z innych przyczyn, przez liczbę kurcząt brojlerów znajdujących się w kurniku w tym dniu, i mnożąc otrzymaną wartość przez 100;
+- **3)** skumulowany wskaźnik śmiertelności dziennej, będący sumą wskaźników śmiertelności dziennej.
 
 **Art. 12g.**
 
@@ -341,7 +408,7 @@ source: "isap-pdf"
 
 2. Urzędowy lekarz weterynarii określa na podstawie wyników badania poubojowego, określa poziom dobrostanu kurcząt brojlerów, w tym częstotliwość występowania przypadków kontaktowego zapalenia skóry, zarobaczenia i chorób ogólnoustrojowych w kurniku, w którym są utrzymywane kurczęta brojlery, lub w gospodarstwie, z którego pochodziły kurczęta brojlery poddane ubojowi.
 
-3. W przypadku gdy wyniki badania poubojowego lub dane i informacje, o których mowa w art. 12f ust. 3 pkt 2 i 3, wskazują na niski poziom dobrostanu, ubojowego posiadaczowi kurnika lub opiekunom oraz powiatowemu lekarzowi weterynarii, właściwemu ze względu na lokalizację kurnika, w którym są utrzymywane kurczęta brojlery.
+3. W przypadku gdy wyniki badania poubojowego lub dane i informacje, o których mowa w art. 12f ust. 3 pkt 2 i 3, wskazują na niski poziom dobrostanu, urzędowy lekarz weterynarii przekazuje informacje zawierające wyniki badania poubojowego posiadaczowi kurnika lub opiekunom oraz powiatowemu lekarzowi weterynarii, właściwemu ze względu na lokalizację kurnika, w którym są utrzymywane kurczęta brojlery.
 
 4. Posiadacz kurnika lub opiekunowie podejmują, pod nadzorem powiatowego lekarza weterynarii właściwego ze względu na lokalizację kurnika, działania mające na celu poprawę dobrostanu kurcząt brojlerów.
 
@@ -365,6 +432,13 @@ source: "isap-pdf"
 
 **Art. 12j.** Przepisów art. 12a–12i nie stosuje się do:
 
+- **1)** gospodarstw, w których liczba utrzymywanych kurcząt brojlerów jest mniejsza niż 500 sztuk;
+- **2)** gospodarstw utrzymujących wyłącznie stada hodowlane;
+- **3)** stad hodowlanych w gospodarstwach utrzymujących zarówno stada hodowlane, jak i stada produkcyjne;
+- **4)** zakładów wylęgu drobiu;
+- **5)** kurcząt utrzymywanych w systemie ekstensywnego chowu ściółkowego z dostępem do wolnego wybiegu, o których mowa w rozporządzeniu Komisji (WE) nr 543/2008 z dnia 16 czerwca 2008 r. wprowadzającym szczegółowe przepisy wykonawcze do rozporządzenia Rady (WE) nr 1243/2007 w sprawie niektórych norm handlowych w odniesieniu do mięsa drobiowego (Dz. Urz. UE L 157 z 17.06.2008, str. 46, z późn. zm.) w załączniku V, w lit. b–e;
+- **6)** kurcząt utrzymywanych zgodnie z metodami produkcji ekologicznej w sposób określony w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/848 z dnia 30 maja 2018 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie Rady (WE) nr 834/2007 (Dz. Urz. UE L 150 z 14.06.2018, str. 1, z późn. zm. ).
+
 **Art. 13.**
 
 1. Wprowadzenie dotychczas niestosowanej na terytorium Rzeczypospolitej Polskiej technologii chowu zwierząt wymaga uzyskania zezwolenia marszałka województwa stwierdzającego, że technologia spełnia wymogi określone ustawą.
@@ -384,7 +458,9 @@ source: "isap-pdf"
 - **3)** używania uprzęży, wędzideł, rzędów wierzchowych, juków, podków, pojazdów lub narzędzi mogących, ze względu na zły stan techniczny lub niewłaściwą konstrukcję, spowodować obrażenia ciała lub śmierć zwierzęcia;
 - **4)** używania do popędzania zwierząt przedmiotów lub narzędzi, które mogą spowodować okaleczenie zwierzęcia;
 - **5)** zmuszania do wyczerpującego kłusu lub galopu zwierząt ciągnących ładunek;
-- **6)** używania do zrywki drewna koni poniżej piątego roku życia. ciągu każdej doby, wypoczynek dla regeneracji sił, właściwy dla danego gatunku.
+- **6)** używania do zrywki drewna koni poniżej piątego roku życia.
+
+3. Osoba wykorzystująca zwierzęta do pracy ma obowiązek zapewnić im, w ciągu każdej doby, wypoczynek dla regeneracji sił, właściwy dla danego gatunku.
 
 #### Rozdział 4 Zwierzęta wykorzystywane do celów rozrywkowych, widowiskowych, filmowych, sportowych i specjalnych
 
@@ -414,6 +490,8 @@ source: "isap-pdf"
 
 4. Zabrania się zmuszania zwierząt do wykonywania czynności, które powodują ból lub są sprzeczne z ich naturą.
 
+5. Zabrania się działalności menażerii objazdowych.
+
 6. Zabrania się propagowania lub upowszechniania drastycznych scen zabijania, zadawania cierpienia lub innej przemocy, ze strony człowieka, której ofiarami są zwierzęta, chyba że sceny te mają na celu napiętnowanie okrutnego zachowania wobec zwierząt.
 
 7. Do zwierząt, o których mowa w ust. 2, stosuje się odpowiednio przepisy art.
@@ -440,7 +518,9 @@ source: "isap-pdf"
 
 1. Pozyskiwanie zwierząt wolno żyjących (dzikich) w celu preparowania ich zwłok wymaga zezwolenia marszałka województwa właściwego ze względu na miejsce wykonywania eksponatów.
 
-2. Zezwolenie, o którym mowa w ust. 1, wydaje się, jeżeli zwłoki zwierząt będą preparowane wyłącznie w celu naukowym, dydaktycznym lub edukacyjnym. mowa w ust. 1, po uzyskaniu opinii starosty właściwego ze względu na miejsce pozyskiwania tych zwierząt.
+2. Zezwolenie, o którym mowa w ust. 1, wydaje się, jeżeli zwłoki zwierząt będą preparowane wyłącznie w celu naukowym, dydaktycznym lub edukacyjnym.
+
+3. W zezwoleniu ustala się warunki i sposób pozyskiwania zwierząt, o których mowa w ust. 1, po uzyskaniu opinii starosty właściwego ze względu na miejsce pozyskiwania tych zwierząt.
 
 4. Przepisów ust. 1–3 nie stosuje się do zwierząt wolno żyjących (dzikich), których pozyskiwanie regulują odrębne przepisy.
 
@@ -459,7 +539,23 @@ source: "isap-pdf"
 
 **Art. 24a.** Powiatowy lekarz weterynarii wykonuje zadania i uprawnienia właściwej władzy określone w rozporządzeniu nr 1/2005, w tym:
 
-**Art. 24b.** Powiatowy lekarz weterynarii prowadzi rejestry, o których mowa w art. 13 ust. 3 i 4, art. 18 ust. 3 i art. 19 ust. 3 i 4 rozporządzenia nr 1/2005, oraz przekazuje Głównemu Lekarzowi Weterynarii, za pośrednictwem wojewódzkiego lekarza weterynarii, informacje zawarte w tych rejestrach, w tym informacje o każdej zmianie stanu faktycznego lub prawnego w nich ujawnionego. lit. a rozporządzenia nr 1/2005, prowadzi się po uzyskaniu upoważnienia powiatowego lekarza weterynarii właściwego ze względu na miejsce prowadzenia szkolenia. 2. Powiatowy lekarz weterynarii, w drodze decyzji, udziela upoważnienia do prowadzenia szkolenia osób, o których mowa w art. 6 ust. 4 lub 5 lub art. 9 ust. 2 lit. a rozporządzenia nr 1/2005, jeżeli podmiot zamierzający je prowadzić przedstawi:
+- **1)** przeprowadza kontrole;
+- **2)** wydaje, na wniosek, decyzje w sprawach:
+    - **a)** zezwoleń, o których mowa w art. 10 i 11 rozporządzenia nr 1/2005,
+    - **b)** licencji, o których mowa w art. 17 ust. 2 rozporządzenia nr 1/2005,
+    - **c)** świadectw zatwierdzenia, o których mowa w art. 18 ust. 1 i art. 19 ust. 1 rozporządzenia nr 1/2005.
+
+**Art. 24b.** Powiatowy lekarz weterynarii prowadzi rejestry, o których mowa w art. 13 ust. 3 i 4, art. 18 ust. 3 i art. 19 ust. 3 i 4 rozporządzenia nr 1/2005, oraz przekazuje Głównemu Lekarzowi Weterynarii, za pośrednictwem wojewódzkiego lekarza weterynarii, informacje zawarte w tych rejestrach, w tym informacje o każdej zmianie stanu faktycznego lub prawnego w nich ujawnionego.
+
+**Art. 24c.**
+
+1. Szkolenia osób, o których mowa w art. 6 ust. 4 i 5 oraz art. 9 ust. 2 lit. a rozporządzenia nr 1/2005, prowadzi się po uzyskaniu upoważnienia powiatowego lekarza weterynarii właściwego ze względu na miejsce prowadzenia szkolenia.
+
+2. Powiatowy lekarz weterynarii, w drodze decyzji, udziela upoważnienia do prowadzenia szkolenia osób, o których mowa w art. 6 ust. 4 lub 5 lub art. 9 ust. 2 lit. a rozporządzenia nr 1/2005, jeżeli podmiot zamierzający je prowadzić przedstawi:
+
+- **1)** program szkolenia uwzględniający zakres określony w załącznikach I, II lub IV do rozporządzenia nr 1/2005;
+- **2)** plan realizacji szkolenia;
+- **3)** listę osób wyznaczonych do prowadzenia szkolenia.
 
 **Art. 24d.** W przypadku szkolenia osób, o których mowa w art. 6 ust. 5 rozporządzenia nr 1/2005, powiatowy lekarz weterynarii właściwy ze względu na miejsce prowadzenia szkolenia powołuje komisję egzaminacyjną w celu przeprowadzenia egzaminu kończącego szkolenie.
 
@@ -473,6 +569,11 @@ source: "isap-pdf"
 - **2)** licencje – w przypadku osób, o których mowa w art. 6 ust. 5 rozporządzenia nr 1/2005 – potwierdzające kwalifikacje w zakresie transportu lub obsługi zwierząt.
 
 **Art. 24f.** Minister właściwy do spraw rolnictwa, w drodze rozporządzenia, określi:
+
+- **1)** tryb powoływania komisji egzaminacyjnej, o której mowa w art. 24d, oraz kwalifikacje osób wchodzących w jej skład,
+- **2)** sposób przeprowadzania egzaminu kończącego szkolenie osób, o których mowa w art. 6 ust. 5 rozporządzenia nr 1/2005,
+- **3)** zakres informacji zawartych w protokole, o którym mowa w art. 24e ust. 1,
+- **4)** wzory zaświadczeń, o których mowa w art. 24e ust. 2 pkt 1 – mając na względzie zapewnienie uzyskania odpowiednich kwalifikacji w zakresie ochrony zwierząt w czasie transportu, w tym uzyskanie przez osoby przeszkolone wiedzy i umiejętności w zakresie, o którym mowa w załącznikach I, II lub IV do rozporządzenia nr 1/2005.
 
 **Art. 24g.** Koszty szkolenia ponoszą odpowiednio przewoźnicy, o których mowa w art. 6 ust. 4 rozporządzenia nr 1/2005, albo operatorzy punktów gromadzenia, o których mowa w art. 9 ust. 2 rozporządzenia nr 1/2005.
 
@@ -498,7 +599,7 @@ source: "isap-pdf"
 
 1. (uchylony) 1a. Uśmiercanie zwierząt może odbywać się wyłącznie w sposób humanitarny polegający na zadawaniu przy tym minimum cierpienia fizycznego i psychicznego.
 
-1b. Jeżeli Generalny Dyrektor Ochrony Środowiska lub regionalny dyrektor ochrony środowiska wydał zezwolenie na zabicie zwierząt objętych ochroną uprawnione do posiadania tej broni.
+1b. Jeżeli Generalny Dyrektor Ochrony Środowiska lub regionalny dyrektor ochrony środowiska wydał zezwolenie na zabicie zwierząt objętych ochroną gatunkową, mogą one być uśmiercone przy użyciu broni myśliwskiej przez osoby uprawnione do posiadania tej broni.
 
 2. Jeżeli zachodzą przyczyny, o których mowa w art. 6 ust. 1 pkt 4, zwierzę może być uśmiercone bez zgody właściciela na podstawie orzeczenia lekarza weterynarii. Ustalenie właściciela i uzyskanie jego zgody nie dotyczy zwierząt chorych na choroby podlegające likwidacji na podstawie przepisów o zdrowiu zwierząt.
 
@@ -519,7 +620,8 @@ source: "isap-pdf"
 
 3. Dzierżawca lub zarządca obwodu łowieckiego może podjąć działania zapobiegające wałęsaniu się psów na terenie obwodu poprzez:
 
-- **1)** pouczenie właściciela psa o obowiązku sprawowania kontroli nad zwierzęciem; jest możliwe dostarczenie do schroniska dla zwierząt; odłowienie i dostarczenie psa odbywa się na koszt właściciela.
+- **1)** pouczenie właściciela psa o obowiązku sprawowania kontroli nad zwierzęciem;
+- **2)** odłowienie psa i dostarczenie go właścicielowi, a jeżeli ustalenie tej osoby nie jest możliwe dostarczenie do schroniska dla zwierząt; odłowienie i dostarczenie psa odbywa się na koszt właściciela.
 
 **Art. 33b.**
 
@@ -541,7 +643,8 @@ source: "isap-pdf"
 
 - **1)** uśmiercania zwierząt w okresie stanowiącym 10% czasu trwania ciąży dla danego gatunku, bezpośrednio poprzedzającym planowany termin porodu, oraz 48 godzin po porodzie, z wyjątkiem:
     - **a)** uśmiercania zwierząt w przypadkach określonych w ustawie z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych,
-    - **b)** konieczności bezzwłocznego uśmiercenia, lub ubój zwierząt na podstawie art. 25 ust. 2 pkt 3 i art. 36 ust. 1 i 3 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt;
+    - **b)** konieczności bezzwłocznego uśmiercenia,
+    - **c)** wydania przez powiatowego lekarza weterynarii decyzji nakazującej zabicie lub ubój zwierząt na podstawie art. 25 ust. 2 pkt 3 i art. 36 ust. 1 i 3 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt;
 
 - **2)** uboju lub uśmiercania zwierząt kręgowych przy udziale dzieci lub w ich obecności;
 - **3)** wytrzewiania (patroszenia), oparzania, zdejmowania skóry, wędzenia i oddzielania części zwierząt stałocieplnych, przed ustaniem odruchów oddechowych i mięśniowych.
@@ -566,7 +669,9 @@ source: "isap-pdf"
 
 4. (uchylony)
 
-5. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców. Przepisy karne
+5. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+
+#### Rozdział 11 Przepisy karne
 
 **Art. 35.**
 
@@ -594,7 +699,9 @@ source: "isap-pdf"
 - **2)** prowadzenia wszelkiej lub określonej działalności lub
 - **3)** wykonywania wszelkich lub określonych czynności wymagających zezwolenia – które są związane z wykorzystywaniem zwierząt lub oddziaływaniem na nie.
 
-4b. Zakazy wymienione w ust. 3a–4a orzeka się w latach, od roku do lat 15. do popełnienia przestępstwa, chociażby nie stanowiły one własności sprawcy, jeżeli ich właściciel lub inna osoba uprawniona do dysponowania nimi na podstawie towarzyszących okoliczności przewidywała albo mogła przewidzieć, że mogą one zostać użyte do popełnienia przestępstwa.
+4b. Zakazy wymienione w ust. 3a–4a orzeka się w latach, od roku do lat 15.
+
+4c. Sąd może orzec przepadek przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstwa, chociażby nie stanowiły one własności sprawcy, jeżeli ich właściciel lub inna osoba uprawniona do dysponowania nimi na podstawie towarzyszących okoliczności przewidywała albo mogła przewidzieć, że mogą one zostać użyte do popełnienia przestępstwa.
 
 5. W razie skazania za przestępstwo określone w ust. 1, 1a lub 2, sąd orzeka nawiązkę w wysokości od 1000 zł do 100 000 zł na wskazany cel związany z ochroną zwierząt.
 
@@ -624,7 +731,8 @@ source: "isap-pdf"
 
 1. Kto, będąc przewoźnikiem w rozumieniu art. 2 lit. x rozporządzenia nr 1/2005:
 
-- **1)** transportuje zwierzęta bez dokumentów, o których mowa w art. 4, art. 10 i art. 11 rozporządzenia nr 1/2005, lub nr 1/2005, lub
+- **1)** transportuje zwierzęta bez dokumentów, o których mowa w art. 4, art. 10 i art. 11 rozporządzenia nr 1/2005, lub
+- **2)** transportuje zwierzęta bez licencji, o której mowa w art. 17 ust. 2 rozporządzenia nr 1/2005, lub
 - **3)** transportuje zwierzęta bez świadectw zatwierdzenia, o których mowa w art. 18 ust. 1 albo art. 19 ust. 1 rozporządzenia nr 1/2005, lub
 - **4)** nie zapewnia transportowanym zwierzętom warunków, o których mowa w załączniku I do rozporządzenia nr 1/2005, lub
 - **5)** nie wypełnia obowiązku określonego w art. 6 ust. 4 i 6 rozporządzenia nr 1/2005, podlega karze aresztu lub grzywny.
@@ -646,7 +754,11 @@ source: "isap-pdf"
 - **4)** nie przechowuje lub nie udostępnia dokumentacji, o której mowa w art. 12f ust. 1, zgodnie z przepisem art. 12f ust. 2,
 - **5)** nie zaopatruje wysyłanych do ubojni kurcząt brojlerów pochodzących z kurnika o zwiększonej obsadzie w informacje, o których mowa w art. 12f ust. 3 – podlega karze grzywny.
 
-2. Orzekanie w sprawach, o których mowa w ust. 1, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia. grzywny.
+2. Orzekanie w sprawach, o których mowa w ust. 1, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
+
+**Art. 37e.**
+
+1. Kto narusza zakazy określone w art. 10b ust. 1 podlega karze grzywny.
 
 2. Orzekanie w sprawach, o których mowa w ust. 1, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
@@ -673,6 +785,7 @@ source: "isap-pdf"
 - **1)** datę przekazania zwierzęcia;
 - **2)** nazwę, siedzibę i adres organizacji społecznej przekazującej zwierzę;
 - **3)** nazwę i siedzibę osoby prawnej lub innej jednostki organizacyjnej albo imię, nazwisko, miejsce zamieszkania i adres osoby fizycznej, której zwierzę jest przekazywane;
+- **4)** określenie gatunku, wieku i płci zwierzęcia;
 - **5)** informację o stanie zdrowia zwierzęcia.
 
 8. Koszty wykonania orzeczenia o przepadku zwierzęcia ponosi skazany.
@@ -699,7 +812,7 @@ source: "isap-pdf"
 
 2. W razie orzeczenia zakazu wykonywania określonych zawodów, prowadzenia określonej działalności lub wykonywania określonych czynności, o którym mowa w art. 35 ust. 4 lub 4a, sąd przesyła odpis wyroku także powiatowemu lekarzowi weterynarii, właściwemu dla miejsca zamieszkania skazanego.
 
-**Art. 39.** W sprawach o przestępstwa określone w art. 35 ust. 1, 1a lub 2 oraz wykroczenia określone w art. 37, a także w postępowaniu w sprawach nieletnich o wykonywać organizacja społeczna, której statutowym celem działania jest ochrona zwierząt.
+**Art. 39.** W sprawach o przestępstwa określone w art. 35 ust. 1, 1a lub 2 oraz wykroczenia określone w art. 37, a także w postępowaniu w sprawach nieletnich o czyn karalny określony w art. 35 ust. 1, 1a lub 2, prawa pokrzywdzonego może wykonywać organizacja społeczna, której statutowym celem działania jest ochrona zwierząt.
 
 **Art. 40.** Organizacje społeczne, których statutowym celem działania jest ochrona zwierząt, mogą współdziałać z właściwymi instytucjami państwowymi i samorządowymi w ujawnianiu oraz ściganiu przestępstw i wykroczeń określonych w ustawie.
 

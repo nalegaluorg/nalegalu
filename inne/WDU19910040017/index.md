@@ -8,7 +8,7 @@ pos: 17
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego
@@ -44,7 +44,7 @@ source: "isap-pdf"
 - **1)** w odniesieniu do związków zawodowych - w dniu 12 grudnia 1981 r.,
 - **2)** w odniesieniu do organizacji społecznych - w dniu faktycznego pozbawienia majątku.
 
-2. Jeżeli jednostki organizacyjne, o których mowa w ust. 1, nie istnieją w dniu wejścia w życie ustawy bądź po tym dniu przestały istnieć, to zwrot składników majątkowych następuje na rzecz ogólnokrajowej organizacji związków zawodowych lub organizacji społecznej, w której była zrzeszona obecnie nie istniejąca jednostka organizacyjna, chyba że organizacje te na podstawie szczebla, na rzecz których należy dokonać zwrotu majątku. W tym przypadku zwrot majątku następuje na rzecz tych jednostek.
+2. Jeżeli jednostki organizacyjne, o których mowa w ust. 1, nie istnieją w dniu wejścia w życie ustawy bądź po tym dniu przestały istnieć, to zwrot składników majątkowych następuje na rzecz ogólnokrajowej organizacji związków zawodowych lub organizacji społecznej, w której była zrzeszona obecnie nie istniejąca jednostka organizacyjna, chyba że organizacje te na podstawie stosownych uchwał lub decyzji wskażą jednostki organizacyjne niższego szczebla, na rzecz których należy dokonać zwrotu majątku. W tym przypadku zwrot majątku następuje na rzecz tych jednostek.
 
 2a. Przepis ust. 2 stosuje się także wobec związków zawodowych i ich ogólnokrajowych organizacji oraz organizacji społecznych uznawanych za tożsame ze związkami i ich ogólnokrajowymi organizacjami oraz organizacjami społecznymi rozwiązanymi w wyniku wprowadzenia stanu wojennego.
 
@@ -61,6 +61,8 @@ source: "isap-pdf"
 2. Waluta obca, która znajdowała się na rachunkach bankowych, podlega zwrotowi na rzecz podmiotów określonych w art. 2 ust. 1, 2 i 2a po naliczeniu odsetek w wysokości 3% w skali rocznej, liczonych odpowiednio od dnia 12 grudnia 1981 r. lub dnia faktycznego pozbawienia majątku. Zwrot tak oprocentowanej waluty obcej może nastąpić również w walucie polskiej przy zastosowaniu kursu dewizowego ogłaszanego przez Prezesa Narodowego Banku Polskiego, obowiązującego w dniu wydania orzeczenia.
 
 3. W sprawach, o których mowa w ust. 1 i 2, stosuje się odpowiednio przepisy art. 2 ust. 3a.
+
+**Art. 3¹.**
 
 1. Związki zawodowe i organizacje społeczne, którym przekazano składniki majątkowe podlegające zwrotowi na podstawie art. 1 ust. 1, w przypadku ich zniszczenia, zaginięcia lub zużycia w stopniu uniemożliwiającym dalsze użytkowanie, obowiązane są do wypłaty odszkodowania w wysokości odpowiadającej wartości poszczególnych składników majątkowych według stanu na dzień ich przejęcia, powiększonej o kwotę odsetek obliczonych w sposób określony w ust.
 
@@ -83,7 +85,7 @@ source: "isap-pdf"
 - **1)** przeniesienia praw do składników majątkowych stanowiących własność Skarbu Państwa albo przeniesienia - w porozumieniu z właściwym organem gminy - praw do składników majątkowych stanowiących własność komunalną, za którą odpłatność pokryje Skarb Państwa,
 - **2)** obligacji Skarbu Państwa.
 
-2. Przepisy ust. 1, a także art. 2 ust. 4 stosuje się do zobowiązań Skarbu Państwa z tytułu odpowiednio różnicy, wyrównania nadpłaty lub odszkodowania, jeżeli ich wartość przekracza 10 000 złotych wobec zakładowej organizacji związkowej wego i organizacji społecznych, w stosunku do nadwyżki ponad tę kwotę.
+2. Przepisy ust. 1, a także art. 2 ust. 4 stosuje się do zobowiązań Skarbu Państwa z tytułu odpowiednio różnicy, wyrównania nadpłaty lub odszkodowania, jeżeli ich wartość przekracza 10 000 złotych wobec zakładowej organizacji związkowej oraz 100 000 złotych wobec organizacji związkowych szczebla ponadzakładowego i organizacji społecznych, w stosunku do nadwyżki ponad tę kwotę.
 
 3. (skreślony).
 
@@ -109,7 +111,9 @@ source: "isap-pdf"
 
 1. W przypadku wyboru przez uprawnionego kompensaty w formie określonej w art. 3 ust. 1 pkt 1 wojewoda, z zastrzeżeniem ust. 3 zdanie drugie i ust. 5 zdanie drugie, przedstawia, nie więcej niż dwukrotnie, oferty przeniesienia praw do określonych składników majątkowych mienia Skarbu Państwa lub komunalnego, wycenionych zgodnie z zasadami określonymi w odrębnych przepisach.
 
-2. Oferta może dotyczyć tylko składników majątkowych o wartości nie przewyższającej łącznej wartości zgłoszonego przez uprawnionego zobowiązania oraz należnych odsetek ustawowych naliczonych do przewidywanego dnia przeniesienia na uprawnionego praw do składników majątkowych. do składników majątkowych, nie później niż w terminie 7 dni od dnia dokonania zgłoszenia, o którym mowa w art. 3 ust. 1. Jeżeli wojewoda nie dysponuje składnikami majątkowymi umożliwiającymi złożenie oferty, w tym samym terminie zawiadamia o tym uprawnionego, a kompensata następuje w formie obligacji.
+2. Oferta może dotyczyć tylko składników majątkowych o wartości nie przewyższającej łącznej wartości zgłoszonego przez uprawnionego zobowiązania oraz należnych odsetek ustawowych naliczonych do przewidywanego dnia przeniesienia na uprawnionego praw do składników majątkowych.
+
+3. Wojewoda przedstawia pierwszą ofertę kompensaty w formie przeniesienia praw do składników majątkowych, nie później niż w terminie 7 dni od dnia dokonania zgłoszenia, o którym mowa w art. 3 ust. 1. Jeżeli wojewoda nie dysponuje składnikami majątkowymi umożliwiającymi złożenie oferty, w tym samym terminie zawiadamia o tym uprawnionego, a kompensata następuje w formie obligacji.
 
 4. Uprawniony jest obowiązany do złożenia oświadczenia o przyjęciu bądź odrzuceniu oferty, o której mowa w ust. 3, w terminie 7 dni od dnia jej przedstawienia; brak oświadczenia uprawnionego w tym terminie jest jednoznaczny z odrzuceniem oferty.
 
@@ -132,7 +136,7 @@ source: "isap-pdf"
 
 1. W przypadku wyboru przez uprawnionego kompensaty w formie obligacji Skarbu Państwa, ma on obowiązek wskazać rachunek papierów wartościowych otwarty w ramach umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych. Kompensata zobowiązań Skarbu Państwa w formie obligacji następuje wyłącznie poprzez przekazanie ich na wskazany rachunek.
 
-2. Brak wskazania przez uprawnionego rachunku papierów wartościowych na który mają być przekazane obligacje, upoważnia właściwego wojewodę do wszczęcia postępowania egzekucyjnego w administracji w celu doprowadzenia do wskazania przez uprawnionego odpowiedniego rachunku papierów wartościowych i nie formie obligacji.
+2. Brak wskazania przez uprawnionego rachunku papierów wartościowych na który mają być przekazane obligacje, upoważnia właściwego wojewodę do wszczęcia postępowania egzekucyjnego w administracji w celu doprowadzenia do wskazania przez uprawnionego odpowiedniego rachunku papierów wartościowych i nie powoduje po stronie Skarbu Państwa zwłoki w uregulowaniu zobowiązania w formie obligacji.
 
 3. Kompensata w formie obligacji następuje, z zastrzeżeniem art. 3 :
 
@@ -144,9 +148,27 @@ source: "isap-pdf"
 
 **Art. 3⁸.** Minister Finansów może odstąpić od emisji obligacji, o których mowa w art. 3 ust. 1 pkt 2, jeżeli taka emisja byłaby niecelowa ze względu na zbyt niską łączną wartość zobowiązań Skarbu Państwa zgłoszonych w którymkolwiek z terminów określonych w art. 3 ust. 2 oraz zobowiązań regulowanych na zasadach określonych w art. 3 ust. 2 oraz art. 3 ust. 3 zdanie drugie i ust. 5 zdanie drugie. W takim przypadku uregulowanie powyższych zobowiązań nastąpi w formie gotówkowej, także przez złożenie przedmiotu świadczenia do depozytu sądowego w okolicznościach określonych w art. 3 , w terminie odpowiednio:
 
+- **1)** do dnia 31 grudnia 1999 r. dla zgłoszeń, o których mowa w art. 3 ust. 2 pkt 1,
+- **2)** do dnia 31 grudnia 2000 r. dla zgłoszeń, o których mowa w art. 3 ust. 2 pkt 2,
+- **3)** do dnia 31 grudnia 2001 r. dla zgłoszeń, o których mowa w art. 3 ust. 2 pkt
+
+3.
+
 **Art. 3⁹.** Wojewoda składa należną na podstawie przepisów niniejszej ustawy kwotę gotówki do depozytu sądowego, jeżeli:
 
+- **1)** uprawniony podmiot odmawia jej przyjęcia albo wypłata należności natrafia na trudne do przezwyciężenia przeszkody,
+- **2)** należność dotyczy podmiotu, który przestał istnieć po ustaleniu zobowiązania.
+
 **Art. 3¹⁰.** Rada Ministrów określi w drodze rozporządzenia:
+
+- **1)** szczegółowe zasady i tryb regulowania zobowiązań Skarbu Państwa w formach określonych w art. 3 ust. 1, w tym:
+    - **a)** dane dotyczące treści zgłoszenia wyboru formy kompensaty oraz formy i treści ofert, o których mowa w art. 3 ust. 1; rozporządzenie powinno wymieniać takie rodzaje danych podlegających przedstawieniu w ofertach, które pozwolą uprawnionym na właściwe ustosunkowanie się do tych ofert oraz rodzaje danych, jakie powinno zawierać zgłoszenie wyboru formy kompensaty, aby mogło dojść do realizacji zobowiązania Skarbu Państwa,
+    - **b)** tryb ustalania składników majątkowych, o których mowa w art. 3 ust. 1 pkt 1; rozporządzenie powinno określać sposób ich ustalania oraz gromadzenia i udostępniania danych dotyczących tych składników tak, aby zapewnić uprawnionym zapoznanie się z rzeczywistymi możliwościami kompensowania zobowiązań Skarbu Państwa w tej formie,
+    - **c)** zasady przekazywania przez wojewodów Ministrowi Finansów informacji o zobowiązaniach Skarbu Państwa, w tym przeznaczonych do skompensowania w formie obligacji; rozporządzenie powinno określać terminy przekazywania informacji o zobowiązaniach Skarbu Państwa oraz formę i zakres takich informacji tak, aby umożliwić Ministrowi Finansów sprawdzenie zgodności tych informacji z treścią orzeczeń Społecznej Komisji Rewizyjnej, mających być źródłem zobowiązań Skarbu Państwa oraz weryfikację prawidłowości naliczania odsetek ustawowych, a także ocenę aktualnego stanu realizacji zobowiązań Skarbu Państwa i zaplanowanie środków budżetowych na pokrycie zobowiązań pozostałych do uregulowania,
+    - **d)** szczegółowe zasady realizacji obowiązku wskazania rachunku papierów wartościowych, na który mają być przekazane obligacje; rozporządzenie powinno określać terminy i tryb ustalania przez wojewodów rachunków papierów wartościowych, na które miałyby być przekazane obligacje, w sposób zapewniający uregulowanie zobowiązań Skarbu Państwa w tej formie w terminach przewidzianych w art.3 ust. 3,
+
+- **2)** zasady regulowania zobowiązań Skarbu Państwa w formie gotówkowej, a w szczególności obowiązki wojewodów w zakresie ustalania rachunku bankowego, na który ma być przekazana równowartość zobowiązania wraz z odsetkami ustawowymi,
+- **3)** szczegółowe zasady prowadzenia ewidencji zobowiązań Skarbu Państwa, o których mowa w art. 3 ust. 4 i 5, obowiązki sprawozdawcze związane z tą ewidencją, a w szczególności dane podlegające wpisowi do ewidencji, w tym dotyczące powstania, wysokości i sposobu uregulowania zobowiązania Skarbu Państwa, tak, aby mogły one stanowić podstawę do sporządzania przez wojewodów informacji dla Ministra Finansów, o których mowa w pkt 1 lit. c, oraz corocznych ogólnych informacji dla Przewodniczącego Społecznej Komisji Rewindykacyjnej o stanie i formach realizacji zobowiązań Skarbu Państwa.
 
 **Art. 3¹¹.**
 
@@ -154,7 +176,8 @@ source: "isap-pdf"
 
 2. Wpisowi do ewidencji podlegają w szczególności informacje:
 
-- **1)** dotyczące kwoty zobowiązań, o których mowa w ust. 1, form kompensaty, o których mowa w art. 3 ust. 1,
+- **1)** dotyczące kwoty zobowiązań, o których mowa w ust. 1,
+- **2)** dotyczące dotrzymania lub braku dotrzymania terminu zgłoszenia wyboru form kompensaty, o których mowa w art. 3 ust. 1,
 - **3)** dotyczące formy, w której nastąpiło uregulowanie zobowiązania Skarbu Państwa i jego wartość.
 
 3. Ewidencja, o której mowa w ust. 1, jest jawna i ogólnie dostępna w siedzibie urzędu wojewody.
@@ -187,7 +210,7 @@ source: "isap-pdf"
 
 2. Orzeczenie Komisji jest ostateczne z dniem jego wydania i stanowi tytuł do wszczęcia postępowania egzekucyjnego w administracji.
 
-3. Na orzeczenie Komisji przysługuje skarga do sądu administracyjnego. Przed wniesieniem skargi należy w terminie 21 dni od dnia doręczenia orzeczenia zwrócić się do Komisji z wezwaniem do usunięcia naruszenia prawa. Skarga doręczenia wezwania, z zastrzeżeniem ust. 4.
+3. Na orzeczenie Komisji przysługuje skarga do sądu administracyjnego. Przed wniesieniem skargi należy w terminie 21 dni od dnia doręczenia orzeczenia zwrócić się do Komisji z wezwaniem do usunięcia naruszenia prawa. Skarga może być wniesiona po upływie 30 dni a przed upływem 60 dni od dnia doręczenia wezwania, z zastrzeżeniem ust. 4.
 
 4. W terminie 30 dni od dnia wpływu wezwania Komisja może je uwzględnić przez uchylenie lub zmianę dotychczasowego orzeczenia. Od orzeczenia Komisji uwzględniającego wezwanie służy skarga do sądu administracyjnego w terminie 30 dni od dnia doręczenia orzeczenia, z pominięciem trybu wezwania.
 
@@ -210,6 +233,8 @@ source: "isap-pdf"
 3. Rada Ministrów, w drodze rozporządzenia, określi zasady współdziałania, o którym mowa w ust. 2; w szczególności rozporządzenie powinno określać terminy i przedmiot weryfikacji informacji przesyłanych przez wojewodów tak, aby ograniczyć ryzyko wypłacania przez Skarb Państwa nienależnych świadczeń oraz formę przedstawiania przez Przewodniczącego Społecznej Komisji Rewindykacyjnej - w oparciu o dane tej Komisji - wyników badania zgodności informacji wojewody z treścią orzeczenia Społecznej Komisji Rewindykacyjnej mającego być źródłem danego zobowiązania z zaznaczeniem czy nie istnieją okoliczności mogące uzasadniać zaniechanie wykonania lub wstrzymanie się z wykonaniem określonego zobowiązania przez Skarb Państwa.
 
 **Art. 8.** W sprawach nie uregulowanych w niniejszej ustawie stosuje się przepisy Kodeksu postępowania administracyjnego.
+
+**Art. 9.** (pominięty).
 
 **Art. 10.**
 

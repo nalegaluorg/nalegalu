@@ -63,7 +63,7 @@ wy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności 
 2. Wykreślenie w wpisu z rejestru polega na przekreśleniu poziomą linią wpisu podlegającego wykreśleniu.
 3. Wykreślenia wpisu z rejestru dokonuje się z urzędu.
 § 8. Wpisów, zmian wpisów oraz wykreśleń wpisów w rejestrze dokonuje osoba upoważniona przez organizatora.
-w § 9. 1. Dla każdej instytucji kultury prowadzi się przy rejestrze akta rejestrowe obejmujące dokumenty stanowiące podstawę wpisu instytucji kultury do rejestru oraz dokumenty dotyczące postępowania rejestrowego.
+§ 9. 1. Dla każdej instytucji kultury prowadzi się przy rejestrze akta rejestrowe obejmujące dokumenty stanowiące podstawę wpisu instytucji kultury do rejestru oraz dokumenty dotyczące postępowania rejestrowego.
 2. Organizator może w treści wpisu powołać się na dokument złożony do akt rejestrowych. Powołane dokumenty uważa się za objęte treścią wpisu.
 w 3. Akta rejestrowe nie mogą być wynoszone poza miejsce ich przechowywania.
 4. Akta rejestrowe, obejmujące dokumenty stanowiące podstawę wpisu do rejestru oraz dokumenty dotyczące postępowania rejestrowego, gromadzi się i przechowuje zgodnie z przepisami ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698 i Nr 171, poz. 1016).

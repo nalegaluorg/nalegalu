@@ -8,7 +8,7 @@ pos: 1309
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o komornikach sądowych i egzekucji
@@ -637,6 +637,10 @@ Art. 95–98. (pominięte)
 
 **Art. 29k.** Do obowiązków aplikanta należy, w szczególności:
 
+- **1)** uczestniczenie w przewidzianych programem aplikacji zajęciach seminaryjnych oraz w praktykach;
+- **2)** samodzielne pogłębianie wiedzy prawniczej i praktycznych umiejętności niezbędnych do zajmowania stanowiska komornika;
+- **3)** przystępowanie, w wyznaczonym terminie, do sprawdzianów wiedzy oraz kolokwium, przeprowadzanych w czasie aplikacji, a także do egzaminu komorniczego.
+
 **Art. 29l.**
 
 1. Aplikacja komornicza jest odpłatna.
@@ -822,6 +826,15 @@ Art. 95–98. (pominięte)
 
 **Art. 31i.** Minister Sprawiedliwości określi, w drodze rozporządzenia, po zasięgnięciu opinii Krajowej Rady Komorniczej:
 
+- **1)** wzór zgłoszenia i wniosku, mając na względzie konieczność wykazania ustawowych wymagań niezbędnych do przystąpienia do egzaminów konkursowego i komorniczego;
+- **2)** tryb i sposób powoływania i działania komisji egzaminacyjnych oraz przeprowadzania egzaminów konkursowego i komorniczego, mając na względzie konieczność zapewnienia odpowiedniej sprawności działania komisji egzaminacyjnych oraz zapewnienia bezstronności i jednolitego poziomu oceny wiedzy kandydatów oraz zdających;
+- **3)** tryb i sposób działania zespołu egzaminacyjnego, tryb i sposób ustalenia wykazu tytułów aktów prawnych, o którym mowa w art. 29b ust. 10, tryb i sposób zgłaszania propozycji pytań testowych i prawidłowych odpowiedzi na egzamin konkursowy oraz propozycji zadań wraz z opisami istotnych zagadnień na egzamin komorniczy, sposób zapewnienia zgodności wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym, mając na względzie potrzebę obiektywnego sprawdzenia poziomu wiedzy osób egzaminowanych oraz konieczność zabezpieczenia pytań i zadań przed nieuprawnionym wglądem;
+- **4)** organizację i przebieg aplikacji komorniczej, mając na względzie konieczność zapewnienia odpowiednio wysokiego poziomu szkolenia aplikantów oraz właściwego przygotowania do zawodu komornika;
+- **5)** wysokość wynagrodzenia przewodniczącego i członków komisji egzaminacyjnej, mając na uwadze nakład ich pracy i zakres obowiązków, z tym, że: – wynagrodzenie przewodniczącego komisji egzaminacyjnej za przeprowadzenie egzaminu konkursowego nie może przekroczyć 400% kwoty przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w roku poprzedzającym przeprowadzenie egzaminu konkursowego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanego dalej „przeciętnym wynagrodzeniem”, – wynagrodzenie przewodniczącego komisji egzaminacyjnej za przeprowadzenie egzaminu komorniczego nie może przekroczyć 500% przeciętnego wynagrodzenia, – wynagrodzenie członka komisji egzaminacyjnej za przeprowadzenie egzaminu konkursowego nie może przekroczyć 200% przeciętnego wynagrodzenia, – wynagrodzenie członka komisji egzaminacyjnej za przeprowadzenie egzaminu komorniczego nie może przekroczyć 400% przeciętnego wynagrodzenia, a także tryb jego wypłacania, uwzględniając nakład ich pracy i zakres obowiązków oraz mając na uwadze dokonanie wypłaty tego wynagrodzenia po złożeniu przez przewodniczącego protokołu z prac komisji egzaminacyjnej;
+- **6)** wysokość wynagrodzenia przewodniczącego i członków zespołu egzaminacyjnego, mając na względzie, że wynagrodzenie z tego tytułu nie powinno przekraczać 350% przeciętnego wynagrodzenia, a także tryb jego wypłacania, uwzględniając nakład ich pracy i zakres obowiązków oraz mając na uwadze dokonanie wypłaty tego wynagrodzenia po złożeniu przez przewodniczącego protokołu z prac zespołu egzaminacyjnego;
+- **7)** tryb i termin zgłaszania przez Krajową Radę Komorniczą kandydatów na członków komisji odwoławczej oraz tryb i sposób działania komisji odwoławczej, mając na uwadze zapewnienie prawidłowego funkcjonowania komisji odwoławczej, konieczność prawidłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej;
+- **8)** wysokość wynagrodzenia przewodniczącego i członków komisji odwoławczej, uwzględniając nakład ich pracy i zakres obowiązków oraz to, że wynagrodzenie z tego tytułu nie powinno przekraczać 400% przeciętnego wynagrodzenia, a także tryb jego wypłacania, mając na uwadze, że dokonanie wypłaty tego wynagrodzenia następuje po złożeniu przez przewodniczącego protokołu z prac komisji odwoławczej.
+
 **Art. 32.**
 
 1. Na stanowisko asesora komorniczego może zostać powołana osoba odpowiadająca wymogom:
@@ -908,6 +921,12 @@ Art. 95–98. (pominięte)
 #### Rozdział 5 Koszty działalności egzekucyjnej komornika i zasady prowadzenia kancelarii
 
 **Art. 34.** Koszty działalności egzekucyjnej komornika obejmują:
+
+- **1)** koszty osobowe i rzeczowe ponoszone w związku z prowadzoną działalnością egzekucyjną;
+- **2)** koszty ochrony zajętego mienia i niezbędnej ochrony osobistej oraz ubezpieczenia mienia kancelarii i własnego ubezpieczenia odpowiedzialności cywilnej;
+- **3)** koszty przejazdów w miejscowości będącej siedzibą komornika, korespondencji, obrotu pieniężnego, przewozu drobnych ruchomości niewymagających transportu specjalistycznego;
+- **4)** obowiązkowe opłaty na samorząd komorniczy ponoszone zgodnie z przepisami ustawy;
+- **5)** inne koszty niezbędne do wykonywania czynności egzekucyjnych oraz czynności przewidziane przepisami ustawy, jeżeli nie są pokrywane w trybie określonym w art. 39.
 
 **Art. 35.** Koszty, o których mowa w art. 34, komornik pokrywa z uzyskanych opłat egzekucyjnych.
 
@@ -1194,6 +1213,13 @@ Art. 95–98. (pominięte)
 #### Rozdział 10 Odpowiedzialność dyscyplinarna
 
 **Art. 71.** Komornik odpowiada dyscyplinarnie za zawinione działania lub zaniechania, a w szczególności za:
+
+- **1)** naruszenie powagi i godności urzędu;
+- **2)** rażącą obrazę przepisów prawa;
+- **3)** niewykonanie poleceń powizytacyjnych;
+- **4)** wydatkowanie środków podlegających dokumentacji na działalność rażąco niezgodną z ich przeznaczeniem;
+- **5)** podejmowanie czynności z nieuzasadnioną zwłoką;
+- **6)** naruszenie właściwości określonej w art. 8.
 
 **Art. 72.**
 
@@ -1558,6 +1584,10 @@ Art. 95–98. (pominięte)
 3. Członkostwo w izbie komorniczej powstaje z mocy prawa z dniem uzyskania przez komornika prawa wykonywania czynności, o których mowa w art. 2, i ustaje z dniem odwołania komornika albo wygaśnięcia powołania na stanowisko komornika z mocy prawa. Z dniem odwołania komornika albo wygaśnięcia powołania na stanowisko komornika z mocy prawa komornik przestaje pełnić wszelkie funkcje w organach samorządu komorniczego.
 
 **Art. 87.** Organami izby komorniczej są:
+
+- **1)** walne zgromadzenie komorników izby komorniczej;
+- **2)** rada izby komorniczej;
+- **3)** komisja rewizyjna.
 
 **Art. 88.**
 

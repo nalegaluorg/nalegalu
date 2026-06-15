@@ -8,7 +8,7 @@ pos: 1033
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nawozach i nawożeniu
@@ -217,7 +217,19 @@ Art. 43–47. (pominięte)
 
 **Art. 5.** Do obrotu można wprowadzać także nawozy oraz środki wspomagające uprawę roślin, o których mowa w art. 3 ust. 2, dopuszczone do obrotu w innym państwie członkowskim Unii Europejskiej lub Republice Turcji, jeżeli:
 
+- **1)** przepisy krajowe, na podstawie których są one wprowadzane do obrotu, zapewniają ochronę zdrowia ludzi, zwierząt i ochronę środowiska oraz przydatność do stosowania w zakresie odpowiadającym wymaganiom określonym w art. 4 ust. 6 lub
+- **2)** spełniają wymagania określone w przepisach dotyczących rolnictwa ekologicznego i są przeznaczone na potrzeby własne.
+
 **Art. 6.** Pozwolenie na wprowadzenie do obrotu nawozu albo środka wspomagającego uprawę roślin, o którym mowa w art. 4 ust. 1, zawiera:
+
+- **1)** nazwę nawozu albo środka wspomagającego uprawę roślin, imię i nazwisko oraz miejsce zamieszkania i adres albo nazwę oraz siedzibę i adres:
+    - **a)** producenta – dla nawozu albo środka wspomagającego uprawę roślin, wyprodukowanych na terytorium Rzeczypospolitej Polskiej,
+    - **b)** importera – dla nawozu albo środka wspomagającego uprawę roślin, przywiezionych z terytorium państw trzecich,
+    - **c)** producenta lub innego podmiotu wprowadzającego nawóz albo środek wspomagający uprawę roślin na terytorium Rzeczypospolitej Polskiej – dla nawozu albo środka wspomagającego uprawę roślin, wyprodukowanych lub wprowadzonych do obrotu na terytorium innego państwa członkowskiego Unii Europejskiej;
+
+- **2)** określenie wymagań jakościowych;
+- **3)** informację, że nawóz albo środek wspomagający uprawę roślin został wytworzony z produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych lub zawiera w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne – dla nawozu albo środka wspomagającego uprawę roślin, które zostały wytworzone z produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych, lub zawierają w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne;
+- **4)** instrukcję stosowania i przechowywania nawozu albo środka poprawiającego właściwości gleby, albo stymulatora wzrostu, sporządzoną w języku polskim.
 
 **Art. 7.**
 
@@ -317,11 +329,30 @@ Art. 43–47. (pominięte)
 
 **Art. 10.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
+- **1)** jednostki organizacyjne upoważnione do przeprowadzania badań nawozów lub wydawania opinii, o której mowa w art. 4 ust. 6 pkt 1 lit. a oraz pkt 2, biorąc pod uwagę obiekty i wyposażenie, jakimi powinna dysponować jednostka organizacyjna, aby zapewnić właściwe przeprowadzenie badań, stosowane przez tę jednostkę procedury badawcze oraz kwalifikacje i doświadczenie zawodowe osób zatrudnionych w tych jednostkach, zgodne z zakresem przeprowadzanych badań;
+- **2)** szczegółowy zakres badań nawozów i elementy, jakie powinna zawierać opinia o nawozach, wymienione w art. 4 ust. 6 pkt 1 lit. a oraz pkt 2, kierując się koniecznością stwierdzenia, czy nawozy te spełniają warunki niezbędne do wydania pozwolenia na wprowadzenie ich do obrotu, określone w art. 4 ust. 6;
+- **3)** szczegółowy zakres dokumentacji dotyczącej nawozów, mając na względzie konieczność ustalenia na tej podstawie właściwego zakresu badań, jakim należy poddać dany nawóz, i wydania opinii, o której mowa w art. 4 ust. 6 pkt 1 lit. a oraz pkt 2;
+- **4)** jakie wymagania ma spełniać treść instrukcji stosowania i przechowywania nawozów, mając na względzie zapewnienie bezpiecznego ich stosowania i przechowywania;
+- **5)** dopuszczalne rodzaje zanieczyszczeń występujących w nawozach i ich wartości, mając na względzie zapewnienie ochrony zdrowia ludzi lub zwierząt lub ochrony środowiska;
+- **6)** minimalne wymagania jakościowe, jakie powinny spełniać nawozy, o których mowa w art. 3 ust. 2, mając na względzie potrzebę zapewnienia ich skutecznego działania.
+
 **Art. 11.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
+
+- **1)** jednostki organizacyjne upoważnione do przeprowadzenia badań środków wspomagających uprawę roślin lub wydawania opinii, o której mowa w art. 4 ust. 6 pkt 1 lit. b–e oraz pkt 2, biorąc pod uwagę obiekty i wyposażenie, jakimi powinna dysponować jednostka organizacyjna, aby zapewnić właściwe przeprowadzenie badań, stosowane przez tę jednostkę procedury badawcze oraz kwalifikacje i doświadczenie zawodowe osób zatrudnionych w tych jednostkach, zgodne z zakresem przeprowadzanych badań;
+- **2)** szczegółowy zakres badań środków wspomagających uprawę roślin i elementy, jakie powinna zawierać opinia o środkach wspomagających uprawę roślin, wymienione w art. 4 ust. 6 pkt 1 lit. b–e oraz pkt 2, kierując się koniecznością stwierdzenia, czy środki te spełniają warunki niezbędne do wydania pozwolenia na wprowadzenie ich do obrotu, określone w art. 4 ust. 6;
+- **3)** szczegółowy zakres dokumentacji dotyczącej środków wspomagających uprawę roślin, mając na względzie konieczność ustalenia na tej podstawie właściwego zakresu badań, jakim należy poddać dany środek, i wydania opinii, o której mowa w art. 4 ust. 6 pkt 1 lit. b–e oraz pkt 2;
+- **4)** jakie wymagania ma spełniać treść instrukcji stosowania i przechowywania środków poprawiających właściwości gleby oraz stymulatorów wzrostu, mając na względzie zapewnienie bezpiecznego ich stosowania i przechowywania;
+- **5)** dopuszczalne rodzaje zanieczyszczeń występujących w środkach wspomagających uprawę roślin i ich wartości, mając na względzie zapewnienie ochrony zdrowia ludzi lub zwierząt lub ochrony środowiska.
 
 **Art. 11a.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, dopuszczalne rodzaje i wartości zanieczyszczeń, które mogą występować w produktach pofermentacyjnych otrzymywanych z biogazu rolniczego wytwarzanego z substratów, o których mowa w art. 2 ust. 1 pkt 10b lit. b, lub wytworzonych z ich mieszanin z substratami, o których mowa w art. 2 ust. 1 pkt 10b lit. a, mając na względzie zapewnienie ochrony zdrowia ludzi i zwierząt oraz ochrony środowiska.
 
 **Art. 12.** Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy sposób umieszczania informacji umożliwiającej identyfikację nawozów, o której mowa w art. 9 ust. 2 pkt 1, mając na względzie zapewnienie właściwej informacji o tych nawozach oraz zapobieganie niekorzystnemu wpływowi nawozu na zdrowie ludzi lub zwierząt lub na środowisko;
+- **2)** sposób pakowania nawozów, mając na względzie zapewnienie właściwej ich jakości oraz zapobieganie niekorzystnemu wpływowi nawozu na zdrowie ludzi lub zwierząt lub na środowisko;
+- **3)** dopuszczalne tolerancje zawartości składników nawozowych, biorąc pod uwagę ograniczenia wynikające z technologii ich produkcji;
+- **4)** sposób pobierania próbek i metody badań nawozów mineralnych w celu kontroli ich jakości, mając na względzie zapewnienie spełniania przez nawóz parametrów chemicznych, fizycznych i fizykochemicznych oraz wartości zanieczyszczeń zawartych w tych nawozach;
+- **5)** typy wapna nawozowego oraz szczegółowe wymagania jakościowe dla tych typów, mając na względzie zapewnienie właściwej ich jakości.
 
 **Art. 13.** (uchylony)
 
@@ -334,6 +365,10 @@ Art. 43–47. (pominięte)
 **Art. 16a.** Organem notyfikującym, o którym mowa w art. 21 ust. 1 rozporządzenia nr 2019/1009, jest minister właściwy do spraw gospodarki.
 
 **Art. 16b.** Do wykonywania zadań określonych w rozdziale IV rozporządzenia nr 2019/1009 w zakresie nieuregulowanym w rozporządzeniu nr 2019/1009 stosuje się przepisy art. 24 ust. 2a, art. 27 ust. 1–3 i 5 oraz art. 29 ust. 5 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854), z tym że:
+
+- **1)** właściwym ministrem, o którym mowa w art. 27 ust. 1 tej ustawy, jest minister właściwy do spraw gospodarki;
+- **2)** wniosek, o którym mowa w art. 27 ust. 2 tej ustawy, oprócz wymagań określonych w art. 27 ust. 3 tej ustawy spełnia ponadto wymagania dotyczące wniosku o notyfikację, o którym mowa w art. 27 rozporządzenia nr 2019/1009;
+- **3)** ograniczenia zakresu, zawieszenia lub cofnięcia autoryzacji, o których mowa w art. 27 ust. 5 tej ustawy, dokonuje się w przypadku stwierdzenia naruszenia warunków określonych w art. 24 i art. 26 rozporządzenia nr 2019/1009 lub niewypełniania obowiązków określonych w art. 32 i art. 34 rozporządzenia nr 2019/1009.
 
 **Art. 16c.** Minister właściwy do spraw gospodarki wykonuje zadania państwa członkowskiego Unii Europejskiej określone w art. 23 i art. 31 ust. 2 rozporządzenia nr 2019/1009.
 
@@ -372,6 +407,10 @@ Art. 43–47. (pominięte)
 
 **Art. 19.** Do stosowania nawozów mineralnych może być użyty sprzęt agrolotniczy, jeżeli:
 
+- **1)** sprzęt ten jest wyposażony w urządzenia służące do tego celu;
+- **2)** prędkość wiatru nie przekracza 3 m/s, a wilgotność względna powietrza wynosi co najmniej 60%;
+- **3)** powierzchnia upraw, do nawożenia których stosuje się sprzęt agrolotniczy, wynosi co najmniej 30 ha i uprawy te są położone w odległości co najmniej 500 m od dróg publicznych, budynków, obiektów, w których są utrzymywane zwierzęta, pasiek, upraw zielarskich, ogrodów działkowych, cieków, zbiorników wodnych, rezerwatów przyrody, parków narodowych, uzdrowisk oraz obszarów ochrony uzdrowiskowej, a także innych obiektów i obszarów chronionych na podstawie przepisów odrębnych.
+
 **Art. 20.**
 
 1. Zabrania się stosowania:
@@ -394,6 +433,9 @@ Art. 43–47. (pominięte)
 2. Szkolenie w zakresie, o którym mowa w ust. 1, prowadzą jednostki organizacyjne upoważnione przez ministra właściwego do spraw rolnictwa.
 
 **Art. 22.** Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw klimatu, ministrem właściwym do spraw środowiska oraz ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy sposób stosowania nawozów, mając na względzie zapewnienie ochrony zdrowia ludzi lub zwierząt lub ochrony środowiska;
+- **2)** jednostki organizacyjne upoważnione do prowadzenia szkoleń z zakresu stosowania nawozów, biorąc pod uwagę obiekty i wyposażenie, jakimi powinna dysponować jednostka organizacyjna, aby zapewnić właściwą jakość prowadzonych szkoleń, oraz kwalifikacje i doświadczenie zawodowe w zakresie prowadzonych szkoleń osób zatrudnionych w tych jednostkach.
 
 **Art. 22a.**
 
@@ -475,6 +517,18 @@ Art. 43–47. (pominięte)
 5. Dyrektor Stacji nadzoruje i koordynuje działalność okręgowych stacji, w tym w zakresie gospodarowania środkami publicznymi i realizowania planów dochodów i wydatków.
 
 **Art. 27.** Do zadań Stacji należy:
+
+- **1)** określanie sposobu prowadzenia badań agrochemicznych, w tym dobór metod badawczych;
+- **2)** ustalanie zakresu zadań wykonywanych przez okręgowe stacje;
+- **3)** kontrola działalności okręgowych stacji, w tym stosowania przez nie metod badawczych i terminowości wykonywania przez te stacje badań;
+- **4)** podejmowanie działań w zakresie udziału laboratoriów okręgowych stacji w badaniach dokładności wykonywania analiz chemicznych;
+- **5)** organizacja szkoleń dla pracowników okręgowych stacji;
+- **6)** tworzenie i prowadzenie bazy danych dotyczących zasobności gleb w azot i fosfor oraz zanieczyszczenia azotanami wód w profilu glebowym do 90 cm od powierzchni gruntu;
+- **7)** prowadzenie obsługi finansowej okręgowych stacji, w tym:
+    - **a)** opracowywanie planów dochodów i wydatków dla poszczególnych okręgowych stacji,
+    - **b)** przekazywanie środków finansowych na działalność bieżącą okręgowych stacji;
+
+- **8)** wykonywanie innych zadań z zakresu agrochemicznej obsługi rolnictwa, powierzonych przez ministra właściwego do spraw rolnictwa.
 
 **Art. 28.**
 
@@ -617,6 +671,9 @@ Art. 43–47. (pominięte)
 
 **Art. 37.** Kto wprowadza do obrotu:
 
+- **1)** nawozy lub środki wspomagające uprawę roślin niezgodnie z warunkami określonymi w art. 3 lub art. 5,
+- **2)** produkty pofermentacyjne niezgodnie z warunkami określonymi w art. 3 – wycofuje je z obrotu na własny koszt oraz podlega karze pieniężnej w wysokości do 100% kwoty należnej za sprzedane nawozy, środki wspomagające uprawę roślin lub produkty pofermentacyjne, a w przypadku innej formy zbycia nawozów, środków wspomagających uprawę roślin lub produktów pofermentacyjnych – do 100% wartości korzyści majątkowej, którą uzyskał lub którą mógłby uzyskać za wprowadzone do obrotu nawozy, środki wspomagające uprawę roślin lub produkty pofermentacyjne, jednak nie mniej niż 5000 zł.
+
 **Art. 37a.**
 
 1. Kto, wprowadzając do obrotu nawozy lub środki wspomagające uprawę roślin:
@@ -715,6 +772,21 @@ Art. 43–47. (pominięte)
 **Art. 40.** (uchylony)
 
 **Art. 41.** Kto:
+
+- **1)** (uchylony)
+- **2)** stosuje nawozy, środki wspomagające uprawę roślin i produkty pofermentacyjne niezgodnie z zasadami i warunkami określonymi w art. 17–20 oraz w przepisach wydanych na podstawie art. 22, powodując zagrożenie zdrowia ludzi lub zwierząt lub środowiska, lub
+- **3)** stosuje nawozy, środki wspomagające uprawę roślin, produkty pofermentacyjne i produkty nawozowe UE niedopuszczone do obrotu, lub
+- **4)** stosuje środki poprawiające właściwości gleby albo stymulatory wzrostu niezgodnie z ich instrukcją stosowania i przechowywania, lub
+- **5)** wykonuje czynności polegające na świadczeniu usług w zakresie stosowania nawozów, nie posiadając uprawnień w tym zakresie, określonych w art. 21 ust. 1, lub
+- **6)** przewozi lub przechowuje nawozy, środki wspomagające uprawę roślin lub produkty pofermentacyjne w sposób niezgodny z art. 23 lub 24, powodując zagrożenie zdrowia ludzi lub zwierząt lub środowiska, lub
+- **7)** (uchylony)
+- **8)** (uchylony)
+- **9)** (uchylony)
+- **10)** (uchylony)
+- **11)** (uchylony)
+- **12)** wbrew zakazowi określonemu w art. 20a stosuje nawozy amonowo-węglanowe, lub
+- **13)** wbrew zakazowi określonemu w art. 20b stosuje mocznik w formie granulowanej niezawierający inhibitora ureazy albo powłoki biodegradowalnej, lub
+- **14)** stosuje, przechowuje lub transportuje produkty nawozowe UE niezgodnie z zaleceniami producenta, powodując zagrożenie dla zdrowia ludzi lub zwierząt lub środowiska – podlega karze grzywny.
 
 **Art. 42.** Orzekanie w sprawach określonych w art. 41 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 

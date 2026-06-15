@@ -8,7 +8,7 @@ pos: 1832
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
@@ -29,9 +29,82 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** art. 2 otrzymuje brzmienie: „Art. 2. Ilekroć w ustawie jest mowa o:
+- **1)** Ministrze Finansów – rozumie się przez to odpowiednio ministra właściwego do spraw budżetu, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw instytucji finansowych;
+- **2)** zarządzie jednostki samorządu terytorialnego – rozumie się przez to również wójta, burmistrza i prezydenta miasta;
+- **3)** programach operacyjnych – rozumie się przez to programy operacyjne, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. Nr 227, poz. 1658), zwanej dalej „ustawą o zasadach prowadzenia polityki rozwoju”.”;
+- **2)** w art. 4 w ust. 1 pkt 5 otrzymuje brzmienie: „5) uczelnie publiczne;”;
+- **3)** w art. 5:
+    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) środki pochodzące z budżetu Unii Europejskiej oraz niepodlegające zwrotowi środki z pomocy udzielonej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA);”,
+    - **b)** w ust. 3: - zdanie wstępne otrzymuje brzmienie: „Do środków, o których mowa w ust. 1 pkt 2, zalicza się:”, - pkt 2 otrzymuje brzmienie: „2) środki pochodzące z funduszy strukturalnych, Funduszu Spójności i Europejskiego Funduszu Rybołówstwa;”, - po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) niepodlegające zwrotowi środki z pomocy udzielonej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA):
+    - **a)** Norweskiego Mechanizmu Finansowego,
+    - **b)** Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego,
+    - **c)** Szwajcarskiego Mechanizmu Finansowego;”,
+    - **c)** dodaje się ust. 4 w brzmieniu: „4. Rada Ministrów może określić, w drodze rozporządzenia, wykaz środków publicznych niezaliczanych do środków, o których mowa w ust. 3 pkt 3a i 4, biorąc pod uwagę źródło pochodzenia, przeznaczenie oraz beneficjentów tych środków.”;
+
+- **4)** w art. 6 w ust. 2 uchyla się pkt 5;
+- **5)** w art. 9 uchyla się pkt 5;
+- **6)** w art. 13: 67a § 1 pkt 3, art. 67b, art. 67c § 2 oraz w art. 67d ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm. ), zwanej dalej „Ordynacją podatkową”.”,
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Minister Finansów podaje do publicznej wiadomości, w terminie, o którym mowa w art. 15 ust. 2, informacje obejmujące wykaz udzielonych przez Skarb Pań stwa poręczeń i gwarancji, wskazując osoby prawne i fizyczne oraz jednostki organizacyjne nieposiadające osobowości prawnej, których te poręczenia i gwarancje dotyczą.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Minister Finansów podaje do publicznej wiadomości wykaz osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym umorzono zaległości podatkowe, odsetki za zwłokę lub opłaty prolongacyjne w kwocie przewyższającej 5 000 zł, wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia, w terminie 3 miesięcy od dnia wydania przez naczelnika urzędu skarbowego lub dyrektora izby skarbowej oraz naczelnika urzędu celnego lub dyrektora izby celnej decyzji, o których mowa w art.
+    - **c)** ust. 3 i 4 otrzymują brzmienie: „3. Podanie do publicznej wiadomości wykazu, o którym mowa w ust. 2a, nie narusza przepisów o tajemnicy skarbowej.
+
+4. Rada Ministrów określi, w drodze rozporządzenia, sposób ustalania kwot oraz sposób podawania do publicznej wiadomości wykazu, o którym mowa w ust. 2a, uwzględniając rodzaje podmiotów, których informacje dotyczą, organy obowiązane do przekazywania Ministrowi Finansów wykazu oraz terminy przekazywania wykazu przez te organy.”;
+
+- **7)** w art. 14 w pkt 2 lit. e otrzymuje brzmienie: „e) wykaz osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym w zakresie podatków lub opłat udzielono ulg, odroczeń, umorzeń lub rozłożono spłatę na raty w kwocie przewyższającej 500 zł, wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia,”;
+- **8)** w art. 17 uchyla się ust. 5;
+- **9)** w art. 18 ust. 4 otrzymuje brzmienie: „ 4. Minister Finansów, wydając rozporządzenia, o których mowa w ust. 2 i 3, uwzględni konieczność określenia wzorów formularzy sprawozdań i szczegółowość danych, umożliwiających podanie do publicznej wiadomości informacji, o których mowa w art. 13 ust. 1-2a oraz w art. 15, a także sporządzenie informacji z wykonania budżetu państwa.”;
+- **10)** w art. 22 w ust. 2 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu: „15) z tytułu odpłatności za wyżywienie i zakwaterowanie uczniów i młodzieży w bursach i internatach, ponoszonych przez rodziców lub opiekunów.”;
+- **11)** w art. 24:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Do przychodów własnych nie zalicza się dochodów z najmu i dzierżawy oraz innych umów o podobnym charakterze dotyczących składników majątkowych Skarbu Państwa.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Zakład budżetowy prowadzący działalność w zakresie administrowania i zarządzania nieruchomościami, obejmującą najem lub dzierżawę składników majątkowych Skarbu Państwa, do przychodów własnych zalicza przychody z tytułu świadczonych usług związanych z tą działalnością.”;
+
+- **12)** w art. 26:
+    - **a)** w ust. 2 zdanie drugie otrzymuje brzmienie: „Do przychodów własnych nie zalicza się dochodów z najmu lub dzierżawy oraz innych umów o podobnym charakterze dotyczących składników majątkowych Skarbu Państwa.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku gdy gospodarstwo pomocnicze prowadzi działalność w zakresie administrowania i zarządzania nieruchomościami, obejmującą najem lub dzierżawę składników majątkowych Skarbu Państwa, do przychodów własnych gospodarstwa pomocniczego zalicza się przychody z tytułu świadczonych usług związanych z tą działalnością.”;
+
+- **13)** uchyla się art. 39;
+- **14)** po art. 41 dodaje się art. 41a w brzmieniu: „Art. 41a. 1. Jednostki podsektora rządowego, o których mowa w art. 4 ust. 1 pkt 12, sporządzają projekty rocznych planów finansowych, zgodnie z przepisami stanowiącymi podstawę ich utworzenia, z uwzględnieniem przepisów niniejszej ustawy.
+
+2. Projekty, o których mowa w ust. 1, są przekazywane Ministrowi Finansów w trybie i terminach określonych w rozporządzeniu wydanym na podstawie art. 120 ust. 5.”;
+
+- **15)** art. 42 i 43 otrzymują brzmienie: „Art. 42. 1. Należności pieniężne, do których nie stosuje się przepisów Ordynacji podatkowej, przypadające państwowym jednostkom budżetowym, państwowym zakładom budżetowym, państwowym gospodarstwom pomocniczym i państwowym funduszom celowym, mogą być umarzane w całości lub w części, a ich spłata odraczana lub rozkładana na raty, z zastrzeżeniem ust. 7, gdy:
+- **1)** osoba fizyczna – zmarła, nie pozostawiając żadnego majątku lub pozostawiła ruchomości niepodlegające egzekucji na podstawie odrębnych przepisów, albo pozostawiła przedmioty codziennego użytku domowego, których łączna wartość nie przekracza kwoty stanowiącej wysokość 6 000 zł;
+- **2)** osoba prawna – została wykreślona z właściwego rejestru osób prawnych przy jednoczesnym braku majątku, z którego można by egzekwować należność, a odpowiedzialność z tytułu należności nie przechodzi z mocy prawa na osoby trzecie;
+- **3)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się kwoty wyższej od kosztów dochodzenia i egzekucji tej należności lub postępowanie egzekucyjne okazało się nieskuteczne;
+- **4)** jednostka organizacyjna nieposiadająca osobowości prawnej uległa likwidacji.
+
+2. W przypadku gdy oprócz dłużnika głównego są zobowiązane inne osoby, umarzanie należności, o których mowa w ust. 1, mających charakter cywilnoprawny, może nastąpić tylko wtedy, gdy warunki umarzania zachodzą wobec wszystkich zobowiązanych.
+
+3. W przypadkach uzasadnionych względami społecznymi lub gospodarczymi, w szczególności możliwościami płatniczymi dłużnika oraz uzasadnionym interesem Skarbu Państwa, na wniosek dłużnika, mogą zostać odroczone terminy spłaty całości lub części należności albo rozłożona płatność całości lub części należności na raty.
+
+4. Do umarzania, odraczania lub rozkładania na raty spłat należności, o których mowa w ust. 1, są uprawnieni:
+
+- **1)** minister właściwy do spraw Skarbu Państwa – w odniesieniu do należności Skarbu Państwa o charakterze cywilnoprawnym, wynikających ze stosunków prawnych, w zakresie których jest on właściwy;
+- **2)** kierownik państwowej jednostki budżetowej, kierownik państwowego zakładu budżetowego – w odniesieniu do pozostałych należności przypadających jednostce budżetowej, jeżeli wartość należności głównej nie przekracza kwoty 40 000 zł;
+- **3)** dysponent funduszu – w odniesieniu do należności państwowego funduszu celowego;
+- **4)** dysponent główny – w pozostałych wypadkach .
+
+5. Umorzenie należności oraz odroczenie terminu spłaty całości lub części należności albo rozłożenie płatności całości lub części należności na raty następuje:
+
+- **1)** w odniesieniu do należności o charakterze administracyjnoprawnym – na podstawie decyzji uprawnionego organu;
+- **2)** w odniesieniu do należności o charakterze cywilnoprawnym – na podstawie przepisów prawa cywilnego, w formie pisemnej.
+
+6. Przepisy ust. 1-5 stosuje się odpowiednio do umarzania, odraczania lub rozkładania na raty spłat odsetek od tych należności oraz do umarzania, odraczania lub rozkładania na raty spłat innych należności ubocznych.
+
+7. Przepisów ust. 1-6 nie stosuje się do należności, których umarzanie spłaty, odraczania spłaty oraz rozkładania na raty określają odrębne przepisy.
+
+8. Przepisów ust. 1 nie stosuje się do należności związanych z realizacją programów operacyjnych, projektów i zadań finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 1, 2, 3a i
+
+4.
+
+9. Egzekucja należności, o których mowa w ust. 1, z wyjątkiem należności o charakterze cywilnoprawnym, następuje w trybie i na zasadach określonych w przepisach o postępowaniu egzekucyjnym w administracji.
+
 **Art. 43.**
 
-1. W przypadkach uzasadnionych ważnym interesem dłużnika lub interesem publicznym należności pieniężne, do których nie stosuje się przepisów Ordynacji podatkowej, przypadające jednostce samorządu terytorialnego lub jej jednostkom organizacyjnym mogą być umarzane, a ich spłata odraczana lub rozkładana na raty, na zasadach określonych przez organ stanowiący jednostki samorządu terytorialnego, z zastrzeżeniem ust. 3. szczegółowe zasady, sposób i tryb udzielania ulg, o których mowa w ust. 1, oraz wskaże organ lub osobę do tego uprawnioną.
+1. W przypadkach uzasadnionych ważnym interesem dłużnika lub interesem publicznym należności pieniężne, do których nie stosuje się przepisów Ordynacji podatkowej, przypadające jednostce samorządu terytorialnego lub jej jednostkom organizacyjnym mogą być umarzane, a ich spłata odraczana lub rozkładana na raty, na zasadach określonych przez organ stanowiący jednostki samorządu terytorialnego, z zastrzeżeniem ust. 3.
+
+2. Organ stanowiący jednostki samorządu terytorialnego określi szczegółowe zasady, sposób i tryb udzielania ulg, o których mowa w ust. 1, oraz wskaże organ lub osobę do tego uprawnioną.
 
 3. Do przypadających jednostkom samorządu terytorialnego należności pieniężnych z tytułu realizacji zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostkom samorządu terytorialnego ustawami, stosuje się przepisy art. 42, z tym że uprawnienia kierownika państwowej jednostki budżetowej przysługują zarządowi jednostki samorządu terytorialnego.”;
 
@@ -49,7 +122,7 @@ source: "isap-pdf"
 - **20)** w art. 52 zdanie pierwsze otrzymuje brzmienie: „Kierownik jednostki sektora finansów publicznych może utworzyć komórkę audytu wewnętrznego, w której są zatrudnieni audytorzy i inne osoby.”;
 - **21)** w art. 53 w ust. 5:
     - **a)** zdanie wstępne otrzymuje brzmienie: „Audytor wewnętrzny przedstawia kierownikowi jednostki i Ministrowi Finansów:”,
-    - **b)** w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: dytach wewnętrznych.”;
+    - **b)** w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) w każdym czasie, na ich wniosek, informację o przeprowadzanych audytach wewnętrznych.”;
 
 - **22)** w art. 56:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Sprawozdanie z przeprowadzenia audytu wewnętrznego jest przekazywane kierownikowi jednostki oraz Ministrowi Finansów na jego wniosek.”,
@@ -67,7 +140,7 @@ source: "isap-pdf"
 - **24)** uchyla się art. 59-61;
 - **25)** w art. 62:
     - **a)** uchyla się ust. 2-4,
-    - **b)** ust. 5 otrzymuje brzmienie: Ministra Finansów w zakresie audytu wewnętrznego, z wyłączeniem wyrażania zgody na rozwiązanie stosunku pracy z audytorem wewnętrznym, wykonują odpowiednio wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa.”,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. W odniesieniu do jednostek podsektora samorządowego kompetencje Ministra Finansów w zakresie audytu wewnętrznego, z wyłączeniem wyrażania zgody na rozwiązanie stosunku pracy z audytorem wewnętrznym, wykonują odpowiednio wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa.”,
     - **c)** uchyla się ust. 6;
 
 - **26)** w art. 63:
@@ -85,7 +158,7 @@ source: "isap-pdf"
 - **30)** w art. 97 w ust. 1 pkt 10 otrzymuje brzmienie: „10) finansowanie programów i projektów, na których realizację uzyskano środki, o których mowa w art. 5 ust. 3 pkt 2-4;”;
 - **31)** w art. 99:
     - **a)** w ust. 1 w pkt 2 uchyla się lit. d,
-    - **b)** w ust. 2: – pkt 3 otrzymuje brzmienie: mowa w art. 4 ust. 1 pkt 12;”, – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) wykaz programów operacyjnych oraz wykaz programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2-4;”, – pkt 6 otrzymuje brzmienie: „6) limity wydatków budżetu państwa przeznaczonych na finansowanie programów operacyjnych oraz programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2-4;”, – pkt 8 i 9 otrzymują brzmienie: „8) wykaz wieloletnich limitów zobowiązań w kolejnych latach realizacji Narodowego Planu Rozwoju 2004-2006 oraz programów operacyjnych wraz z wykazem wieloletnich limitów wydatków realizowanych w ich ramach;
+    - **b)** w ust. 2: – pkt 3 otrzymuje brzmienie: „3) plany finansowe jednostek podsektora rządowego, o których mowa w art. 4 ust. 1 pkt 12;”, – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) wykaz programów operacyjnych oraz wykaz programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2-4;”, – pkt 6 otrzymuje brzmienie: „6) limity wydatków budżetu państwa przeznaczonych na finansowanie programów operacyjnych oraz programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2-4;”, – pkt 8 i 9 otrzymują brzmienie: „8) wykaz wieloletnich limitów zobowiązań w kolejnych latach realizacji Narodowego Planu Rozwoju 2004-2006 oraz programów operacyjnych wraz z wykazem wieloletnich limitów wydatków realizowanych w ich ramach;
 
 - **9)** zestawienie programów i projektów realizowanych ze środków, o których mowa w art. 5 ust. 1 pkt 3 i ust. 3 pkt 1, 3a i 4, w podziale na poszczególne okresy realizacji;”;
 - **32)** w art. 100 ust. 2 otrzymuje brzmienie: „2. Wydatki budżetu państwa ujmuje się w ustawie budżetowej w podziale na: części, działy, rozdziały klasyfikacji wydatków oraz kategorie (grupy) wydatków, z wyodrębnieniem wydatków przeznaczonych na finansowanie programów operacyjnych, Wspólnej Polityki Rolnej oraz innych programów i projektów realizowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2-4.”;
@@ -98,7 +171,7 @@ source: "isap-pdf"
 - **36)** uchyla się art. 118;
 - **37)** w art. 120:
     - **a)** uchyla się ust. 2,
-    - **b)** ust. 3 otrzymuje brzmienie: Ministrowi Finansów dysponenci części budżetowych, z zastrzeżeniem ust. 3a.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Materiały do projektu ustawy budżetowej opracowują i przedstawiają Ministrowi Finansów dysponenci części budżetowych, z zastrzeżeniem ust. 3a.”,
     - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Materiały do projektu ustawy budżetowej w zakresie środków, o których mowa w art. 5 ust. 3 pkt 2, z wyłączeniem środków pochodzących z Europejskiego Funduszu Rybołówstwa, przygotowuje i przedstawia Ministrowi Finansów minister właściwy do spraw rozwoju regionalnego, z uwzględnieniem wieloletnich limitów wydatków, o których mowa w art. 99 ust. 2 pkt 8.”,
     - **d)** w ust. 5: - zdanie wstępne otrzymuje brzmienie: „Minister Finansów określa, w drodze rozporządzenia, szczegółowy sposób, tryb i terminy opracowania materiałów, o których mowa w ust. 3 i 3a oraz w art. 41a, w tym:”, - w pkt 6 na końcu dodaje się średnik oraz pkt 7 w brzmieniu: „7) projektów rocznych planów finansowych jednostek podsektora rządowego, o których mowa w art. 4 ust. 1 pkt 12”;
 
@@ -109,7 +182,7 @@ source: "isap-pdf"
 
 - **40)** w art. 137 w ust. 1:
     - **a)** pkt 5 otrzymuje brzmienie: „5) tryb i zasady wydawania decyzji dotyczących zapewnienia finansowania z budżetu państwa projektów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2;”,
-    - **b)** dodaje się pkt 6 w brzmieniu: nia z budżetu państwa inwestycji wieloletnich, programów wieloletnich oraz innych wydatków majątkowych.”;
+    - **b)** dodaje się pkt 6 w brzmieniu: „6) tryb i zasady wydawania decyzji dotyczących zapewnienia finansowania z budżetu państwa inwestycji wieloletnich, programów wieloletnich oraz innych wydatków majątkowych.”;
 
 - **41)** uchyla się art. 142;
 - **42)** w art. 144 ust. 1 otrzymuje brzmienie: „1. Dotacje udzielone z budżetu państwa w części niewykorzystanej do końca roku budżetowego lub w terminie określonym w rozporządzeniu, wydanym na podstawie art. 157, podlegają zwrotowi do budżetu państwa odpowiednio do dnia 15 lutego następnego roku albo w terminie 21 dni od dnia określonego w tym rozporządzeniu.”;
@@ -124,7 +197,7 @@ source: "isap-pdf"
 - **45)** w art. 150 ust. 1 otrzymuje brzmienie: „1. Środki z budżetu państwa, przeznaczone na finansowanie inwestycji i programów wieloletnich, ujętych w wykazach, o których mowa w art. 99 ust. 2 pkt 4 i 5, nie mogą być, z zastrzeżeniem ust. 2, wykorzystane na inne cele.”;
 - **46)** w art. 151 ust. 2 i 3 otrzymują brzmienie: „2. Wydatki wyższe niż planowane mogą być dokonywane bez zmiany planu, jeżeli znajdują pokrycie w ponadplanowych przychodach i pozostałości środków z okresów poprzednich, po uzyskaniu zgody ministra nadzorującego państwowy fundusz celowy lub dysponującego nim.
 
-3. Przeniesienia wydatków pomiędzy poszczególnymi pozycjami planu mogą być dokonywane, przez organy lub dysponenta funduszu, po uzyskaniu skaniu opinii komisji sejmowej właściwej do spraw budżetu.”;
+3. Przeniesienia wydatków pomiędzy poszczególnymi pozycjami planu mogą być dokonywane, przez organy lub dysponenta funduszu, po uzyskaniu zgody ministra nadzorującego państwowy fundusz celowy wydanej po uzyskaniu opinii komisji sejmowej właściwej do spraw budżetu.”;
 
 - **47)** w art. 153 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Minister właściwy do spraw rozwoju regionalnego sprawuje nadzór i kontrolę nad realizacją programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2.”;
 - **48)** w art. 154:
@@ -141,7 +214,7 @@ source: "isap-pdf"
 
 8b. Środki finansowe, o których mowa w ust. 8a, pozostają na rachunkach beneficjentów programów operacyjnych realizowanych z udziałem Europejskiego Funduszu Społecznego i mogą być wydatkowane w terminie określonym w rozporządzeniu, o którym mowa w ust. 3.”,
 
-- **c)** ust. 9 otrzymuje brzmienie: Ministrów podlegają przekazaniu na dochody budżetu państwa na wyodrębniony rachunek dochodów centralnego rachunku bieżącego budżetu państwa w terminie 21 dni od dnia określonego w rozporządzeniu wydanym na podstawie ust. 3.”;
+- **c)** ust. 9 otrzymuje brzmienie: „9. Środki finansowe niewykorzystane w terminie określonym przez Radę Ministrów podlegają przekazaniu na dochody budżetu państwa na wyodrębniony rachunek dochodów centralnego rachunku bieżącego budżetu państwa w terminie 21 dni od dnia określonego w rozporządzeniu wydanym na podstawie ust. 3.”;
 - **50)** w art. 158 w ust. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) informacje o wykonaniu zadań, w ramach planowanych kwot wydatków, wraz z opisem celów tych zadań, mierników wykonania oraz przewidywanych wieloletnich kosztów finansowych związanych z ich realizacją, a także o wydatkach poniesionych na ich realizację.”;
 - **51)** po art. 165 dodaje się art. 165a w brzmieniu: „Art. 165a. 1. Dochody budżetu jednostki samorządu terytorialnego ujmuje się w podziale na dochody bieżące i dochody majątkowe.
 
@@ -166,7 +239,8 @@ source: "isap-pdf"
 - **52)** w art. 168 w ust. 2 pkt 6 otrzymuje brzmienie: „6) wolnych środków jako nadwyżki środków pieniężnych na rachunku bieżącym budżetu jednostki samorządu terytorialnego, wynikających z rozliczeń kredytów i pożyczek z lat ubiegłych.”;
 - **53)** w art. 169 ust. 3 otrzymuje brzmienie: „3. Ograniczeń określonych w ust. 1 nie stosuje się do:
 - **1)** emitowanych papierów wartościowych, kredytów i pożyczek zaciągniętych w związku z umową zawartą z podmiotem dysponującym środkami, o których mowa w art. 5 ust. 3;
-- **2)** poręczeń i gwarancji udzielonych samorządowym osobom prawnym realizującym zadania jednostki samorządu terytorialnego z wykorzystaniem środków, o których mowa w art. 5 ust. 3.”; „3. Ograniczeń, o których mowa w ust. 1 i 2, nie stosuje się do emitowanych papierów wartościowych, kredytów i pożyczek zaciąganych w związku z umową zawartą z podmiotem dysponującym środkami, o których mowa w art. 5 ust. 3.
+- **2)** poręczeń i gwarancji udzielonych samorządowym osobom prawnym realizującym zadania jednostki samorządu terytorialnego z wykorzystaniem środków, o których mowa w art. 5 ust. 3.”;
+- **54)** w art. 170 ust. 3-5 otrzymują brzmienie: „3. Ograniczeń, o których mowa w ust. 1 i 2, nie stosuje się do emitowanych papierów wartościowych, kredytów i pożyczek zaciąganych w związku z umową zawartą z podmiotem dysponującym środkami, o których mowa w art. 5 ust. 3.
 
 4. Przepisu ust. 3 nie stosuje się po zakończeniu programu, projektu lub zadania realizowanych ze środków, o których mowa w art. 5 ust. 3, oraz otrzymaniu refundacji dokonanych wydatków.
 
@@ -182,6 +256,7 @@ source: "isap-pdf"
     - **b)** pkt 6 otrzymuje brzmienie: „6) wydatki na programy i projekty realizowane ze środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, w części związanej z realizacją zadań jednostki samorządu terytorialnego;”;
 
 - **58)** w art. 186 w ust. 8:
+    - **a)** uchyla się pkt 3,
     - **b)** pkt 4 otrzymuje brzmienie: „4) terminy odprowadzania dochodów budżetu państwa, pobranych przez jednostki samorządu terytorialnego.”;
 
 - **59)** w art. 188:
@@ -197,7 +272,7 @@ source: "isap-pdf"
 
 - **62)** w art. 195 ust. 1 otrzymuje brzmienie: „1. Bankową obsługę budżetu jednostki samorządu terytorialnego wykonuje bank wybrany na zasadach określonych w przepisach o zamówieniach publicznych.”;
 - **63)** w art. 196 ust. 1 otrzymuje brzmienie: „1. Jednostka samorządu terytorialnego składa sprawozdanie o stanie środków finansowych na rachunkach bankowych jednostki.”;
-- **64)** w art. 198 ust. 1 otrzymuje brzmienie: cemu jednostki samorządu terytorialnego i regionalnej izbie obrachunkowej informację o przebiegu wykonania budżetu jednostki samorządu terytorialnego za pierwsze półrocze, w szczegółowości nie mniejszej niż w uchwale budżetowej oraz informację, o której mowa w art. 197 pkt 1, w terminie do dnia 31 sierpnia.”;
+- **64)** w art. 198 ust. 1 otrzymuje brzmienie: „1. Zarząd jednostki samorządu terytorialnego przedstawia organowi stanowiącemu jednostki samorządu terytorialnego i regionalnej izbie obrachunkowej informację o przebiegu wykonania budżetu jednostki samorządu terytorialnego za pierwsze półrocze, w szczegółowości nie mniejszej niż w uchwale budżetowej oraz informację, o której mowa w art. 197 pkt 1, w terminie do dnia 31 sierpnia.”;
 - **65)** Dział V otrzymuje brzmienie: „Dział V. Środki pochodzące z budżetu Unii Europejskiej i inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi.
 
 **Art. 200.**
@@ -219,7 +294,9 @@ source: "isap-pdf"
 2. Środki, o których mowa w art. 5 ust. 1 pkt 3, są:
 
 - **1)** przeznaczone wyłącznie na cele okreś lone w umowie międzynarodowej, przepisach odrębnych lub deklaracji dawcy;
-- **2)** wydatkowane zgodnie z procedurami zawartymi w umowie, o której mowa w pkt 1, lub innymi procedurami obowiązującymi przy ich wykorzystywaniu. wyodrębnionych rachunkach bankowych i mogą być wydatkowane do wysokości kwot zgromadzonych na tych rachunkach.
+- **2)** wydatkowane zgodnie z procedurami zawartymi w umowie, o której mowa w pkt 1, lub innymi procedurami obowiązującymi przy ich wykorzystywaniu.
+
+3. Środki, o których mowa w art. 5 ust. 1 pkt 3, są gromadzone na wyodrębnionych rachunkach bankowych i mogą być wydatkowane do wysokości kwot zgromadzonych na tych rachunkach.
 
 4. Przy wydatkowaniu środków, o których mowa w art. 5 ust. 1 pkt 3, a także środków przeznaczonych na finansowanie programów i projektów realizowanych z tych środków, stosuje się odpowiednio zasady rozliczania określone dla dotacji z budżetu państwa.
 
@@ -258,6 +335,7 @@ source: "isap-pdf"
 2. Dla każdego programu operacyjnego w załączniku, o którym mowa w ust. 1, określa się:
 
 - **1)** instytucję zarządzającą;
+- **2)** środki na realizację programu, w tym:
     - **a)** środki pochodzące z budżetu Unii Europejskiej,
     - **b)** środki pochodzące z budżetu państwa,
     - **c)** środki pochodzące z budżetów jednostek samorządu terytorialnego,
@@ -282,7 +360,7 @@ source: "isap-pdf"
 
 **Art. 208.**
 
-1. Wydatki związane z realizacją programów finansowanych ze środków, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 3 pkt 2, 3a i 4, są dokonywane zgodnie z procedurami określonymi w umoprzy ich wykorzystaniu.
+1. Wydatki związane z realizacją programów finansowanych ze środków, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 3 pkt 2, 3a i 4, są dokonywane zgodnie z procedurami określonymi w umowie międzynarodowej lub innymi procedurami obowiązującymi przy ich wykorzystaniu.
 
 2. Minister właściwy do spraw rozwoju regionalnego może określić, w drodze rozporządzenia, szczegółowy sposób dokonywania wydatków związanych z realizacją programów operacyjnych, w tym sposób i tryb udzielania zaliczek beneficjentom lub wykonawcom, mając na względzie:
 
@@ -312,7 +390,7 @@ source: "isap-pdf"
 
 **Art. 210.**
 
-1. Dotacje przekazane na finansowanie projektów realizowanych w ramach programów finansowanych z udziałem środków, o któpóźniej niż w terminie 30 dni od zakończenia realizacji projektu.
+1. Dotacje przekazane na finansowanie projektów realizowanych w ramach programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2, 3a i 4, podlegają rozliczeniu, nie później niż w terminie 30 dni od zakończenia realizacji projektu.
 
 2. Dotacje przekazane na finansowanie programów operacyjnych podlegają rozliczeniu w terminie określonym w umowie z dysponentem tych środków, nie później jednak niż w terminie 90 dni od dnia zakończenia programu.
 
@@ -339,7 +417,7 @@ source: "isap-pdf"
 
 7. Do egzekucji należności, o których mowa w ust. 1, mają zastosowanie przepisy o postępowaniu egzekucyjnym w administracji.
 
-**Art. 212.** Środki budżetu państwa przeznaczone na realizację Wspólnej Polityki Rolnej są wydatkowane przez agencje płatnicze, o których mi.
+**Art. 212.** Środki budżetu państwa przeznaczone na realizację Wspólnej Polityki Rolnej są wydatkowane przez agencje płatnicze, o których mowa w odrębnych przepisach, zgodnie z ustalonymi procedurami.
 
 **Art. 213.** Minister Finansów sprawuje nadzór finansowy nad agencjami płatniczymi, o których mowa w art. 212.
 
@@ -355,45 +433,132 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 r. Nr 208, poz. 2128, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 10 w ust. 10 pkt 2 otrzymuje brzmienie: „2) opiniuje projekty rocznych planów finansowych, o których mowa w art. 20 ust. 2;”;
+- **2)** w art. 20:
+    - **a)** w ust. 2 pkt 1 i 2 otrzymują brzmienie: „1) projekt rocznego planu finansowego Agencji;
+
+- **2)** projekt rocznego planu finansowego Zasobu.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Projekty rocznych planów finansowych, o których mowa w ust. 2, zatwierdza minister właściwy do spraw Skarbu Państwa w porozumieniu z ministrem właściwym do spraw rozwoju wsi i przekazuje ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. W projekcie rocznego planu finansowego, o którym mowa w ust. 2 pkt 2, ustala się limit wydatków przeznaczonych na funkcjonowanie Biura Prezesa Agencji i jej oddziałów terenowych.”;
+
+- **3)** w art. 21 ust. 1 otrzymuje brzmienie: „1. Kierunki rozdysponowania środków finansowych, stanowiących mienie Zasobu, określa się w projekcie rocznego planu finansowego, o którym mowa w art. 20 ust. 2 pkt 2.”;
+- **4)** w art. 23 ust. 1 i 2 otrzymują brzmienie: „1. Agencja może udzielać poręczeń i gwarancji kredytowych, w tym dewizowych, do wysokości określonej w rocznym planie finansowym Agencji.
+
+2. Agencja może udzielać poręczeń i gwarancji kredytowych, w tym dewizowych, obciążających mienie Zasobu, wyłącznie za zgodą ministra właściwego do spraw Skarbu Państwa i do wysokości określonej w rocznym planie finansowym Zasobu.”.
+
 **Art. 3.** W ustawie z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2005 r. Nr 31, poz. 264, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 3a w ust. 3 pkt 3 otrzymuje brzmienie: „3) kontroluje realizację planów finansowych Agencji w zakresie gospodarowania środkami, o których mowa w pkt 1,”;
+- **2)** w art. 7 ust. 3 otrzymuje brzmienie: „3. Projekt rocznego planu finansowego Agencji ustala jej Prezes, w porozumieniu z ministrem właściwym do spraw rozwoju wsi, i przekazuje ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”.
 
 **Art. 4.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2005 r. Nr 41, poz. 398, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 11 w ust. 3 pkt 3 otrzymuje brzmienie: „3) ocenia projekty rocznych planów finansowych oraz sprawozdania z rocznej działalności Agencji;”;
+- **2)** w art. 12 w ust. 2 pkt 3 otrzymuje brzmienie: „3) ustalanie, w porozumieniu z Ministrem Obrony Narodowej, projektu rocznego planu finansowego Agencji, który następnie jest przekazywany ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”.
+
 **Art. 5.** W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. z 2004 r. Nr 163, poz. 1711, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 14:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Prezes Agencji sporządza:
+
+- **1)** projekt rocznego planu finansowego, który przekazuje ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej;
+- **2)** roczne sprawozdanie finansowe Agencji, w tym bilans, rachunek zysków i strat, informację dodatkową oraz sprawozdanie z przepływu środków pieniężnych.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Minister Obrony Narodowej przedstawia Radzie Ministrów, do zatwierdzenia, roczne sprawozdanie finansowe Agencji wraz z opinią i raportem biegłego rewidenta.”;
+
+- **2)** w art. 16:
+    - **a)** w ust. 2: – pkt 1 otrzymuje brzmienie: „1) opiniowanie projektu rocznego planu finansowego;”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) opiniowanie rocznego sprawozdania finansowego Agencji;”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Rada Nadzorcza Agencji przedstawia opinie, o których mowa w ust. 2 pkt 1 i 1a, Ministrowi Obrony Narodowej i ministrowi właściwemu do spraw Skarbu Państwa.”;
+
+- **3)** w art. 26 ust. 2 otrzymuje brzmienie: „2. Rada Ministrów określa, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Agencji, uwzględniając sposób opracowania projektu planu finansowego Agencji, dysponowania jej dochodami oraz gospodarowania środkami finansowymi.”.
 
 **Art. 6.** W ustawie z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej (Dz. U. Nr 62, poz. 689, z 2000 r. Nr 22, poz. 273, z 2001 r. Nr 22, poz. 249 oraz z 2006 r. Nr 170, poz. 1217) wprowadza się następujące zmiany:
 
+- **1)** w art. 6 w ust. 2 pkt 1 otrzymuje brzmienie: „1) przyjmowanie przedstawionych przez Prezesa Polskiej Organizacji Turystycznej projektów rocznych planów finansowych,”;
+- **2)** w art. 15 ust. 2 otrzymuje brzmienie: „2. Projekt rocznego planu finansowego Polskiej Organizacji Turystycznej, po przyjęciu przez Radę Polskiej Organizacji Turystycznej i zatwierdzeniu przez właściwego ministra, jest przekazywany ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”.
+
 **Art. 7.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 109, poz. 1158, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 9 w ust. 3 pkt 1 otrzymuje brzmienie: „1) opracowywanie projektów rocznych planów działania Agencji;”;
+- **2)** w art. 12 w ust. 1 pkt 1 otrzymuje brzmienie: „1) opiniowanie projektów rocznych planów działania Agencji;”;
+- **3)** w art. 14: zm. ).”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Agencja działa zgodnie z rocznym planem działania, w którego skład wchodzi plan finansowy, o którym mowa w ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz.U. Nr 249, poz. 2104, z późn.
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Projekt rocznego planu działania, wraz z opinią Rady oraz po uzgodnieniu z ministrem właściwym do spraw gospodarki, Prezes Agencji przekazuje ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”,
+    - **c)** uchyla się ust. 5 i 5a,
+    - **d)** ust. 6a otrzymuje brzmienie: „6a. Minister właściwy do spraw gospodarki przed dokonaniem czynności, o których mowa w ust. 6, zasięga opinii ministra właściwego do spraw pracy i ministra właściwego do spraw finansów publicznych. Minister właściwy do spraw pracy i minister właściwy do spraw finansów publicznych przedstawiają swoje opinie w terminie 7 dni.”.
+
 **Art. 8.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. Nr 122, poz. 1321, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 56 ust. 1 otrzymuje brzmienie: „1. Podstawą gospodarki finansowej UDT jest roczny plan finansowy UDT, którego projekt zatwierdza Prezes UDT w porozumieniu z ministrem właściwym do spraw gospodarki i przekazuje ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”;
+- **2)** w art. 61:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Podstawą gospodarki finansowej TDT jest roczny plan finansowy, którego projekt zatwierdza minister właściwy do spraw transportu i przekazuje ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”,
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Minister właściwy do spraw transportu zatwierdza wynik finansowy i jego podział.”.
 
 **Art. 9.** W ustawie z dnia 18 stycznia 2001 r. o wyścigach konnych (Dz. U. Nr 11, poz. 86, z 2003 r. Nr 84, poz. 774 oraz z 2004 r. Nr 173, poz. 1808) w art. 13 ust. 2 otrzymuje brzmienie: „2. Klub prowadzi samodzielną gospodarkę finansową w oparciu o roczny plan finansowy, którego projekt zatwierdza minister właściwy do spraw rolnictwa i przekazuje ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”.
 
 **Art. 10.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2006 r. Nr 129, poz. 902, Nr 169, poz. 1199 i Nr 170, poz. 1217) w art. 417:
 
+- **1)** w ust. 2 pkt 2 i 3 otrzymują brzmienie: „2) zawartość projektów rocznych planów finansowych;
+- **3)** terminy opracowywania projektów rocznych planów finansowych.”;
+- **2)** po ust. 3 dodaje się ust. 4 w brzmieniu: „4. Minister właściwy do spraw środowiska przekazuje projekt rocznego planu finansowego Narodowego Funduszu ministrowi właściwemu do spraw finansów publicznych, w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”.
+
 **Art. 11.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 27 w ust. 6 pkt 4 otrzymuje brzmienie: „4) zatwierdzanie projektów rocznych planów finansowych Centrum Akredytacji;”;
+- **2)** w art. 30 ust. 1 otrzymuje brzmienie: „1. Podstawą gospodarki finansowej Centrum Akredytacji jest roczny plan finansowy, którego projekt zatwierdza Dyrektor Centrum i przekazuje ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”.
 
 **Art. 12.** W ustawie z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych (Dz. U. Nr 124, poz. 1153, z późn. zm. ) po art. 22 dodaje się art. 22a w brzmieniu: „Art. 22a. Podstawą gospodarki finansowej Biura jest roczny plan finansowy, którego projekt sporządza Rzecznik i wraz z opinią Rady Ubezpieczonych przekazuje ministrowi właściwemu do spraw finansów publicznych, w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”.
 
 **Art. 13.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. Nr 42, poz. 386, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 5 w ust. 2 pkt 3 otrzymuje brzmienie: „3) szczegółowe zasady gospodarki finansowej oraz sporządzania projektu planu finansowego Agencji.”;
+- **2)** w art. 8 ust. 3 otrzymuje brzmienie: „3. Projekt rocznego planu finansowego Agencji, Prezes Agencji, po uzgodnieniu z ministrem właściwym do spraw rynków rolnych, przekazuje ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”.
+
 **Art. 14.** W ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206, z 2005 r. Nr 90, poz. 759 i Nr 267, poz. 2251 oraz z 2006 r. Nr 149, poz.
+
+- **1074)** w art. 56b ust. 4 otrzymuje brzmienie: „4. W posiedzeniach komitetu, o którym mowa w ust. 1, mogą uczestniczyć w charakterze obserwatorów przedstawiciele Prezesa Najwyższej Izby Kontroli oraz ministra właściwego do spraw finansów publicznych.”.
 
 **Art. 15.** W ustawie z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. Nr 251, poz. 2507) wprowadza się następujące zmiany:
 
+- **1)** w art. 8:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) opracowuje roczny program działalności jednostki doradztwa rolniczego;”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) opracowuje projekt rocznego planu finansowego;”,
+    - **b)** uchyla się ust. 2;
+
+- **2)** w art. 9 w ust. 3 pkt 1 otrzymuje brzmienie: „1) opiniowanie rocznego programu działalności jednostki doradztwa rolniczego i projektu rocznego planu finansowego oraz sprawozdania z realizacji rocznego programu działalności jednostki doradztwa rolniczego i rocznego planu finansowego;”;
+- **3)** w art. 12:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Dyrektor jednostki doradztwa rolniczego przedkłada do zatwierdzenia organowi, któremu ta jednostka podlega:
+
+- **1)** roczny program działalności jednostki doradztwa rolniczego, o którym mowa w art. 8 ust. 1 pkt 1 – w terminie do dnia 30 listopada roku poprzedzającego rok, na który ten program został sporządzony;
+- **2)** sprawozdanie z realizacji rocznego programu działalności jednostki doradztwa rolniczego, o którym mowa w art. 8 ust. 1 pkt 1 – w terminie do dnia 31 stycznia roku następującego po roku, który sprawozdanie obejmuje.”, Po zatwierdzeniu projekt zostaje przekazany ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”.
+    - **b)** po ust.1 dodaje się ust. 1a w brzmieniu: „1a. Dyrektor jednostki doradztwa rolniczego przedkłada do zatwierdzenia organowi, któremu ta jednostka podlega, projekt planu finansowego jednostki doradztwa rolniczego, o którym mowa w art. 8 ust. 1 pkt 1a.
+
 **Art. 16.** W ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. Nr 132, poz. 1111) wprowadza się następujące zmiany:
 
+- **1)** w art. 10 ust. 3 otrzymuje brzmienie: „3. Minister zatwierdza roczny plan działalności oraz projekt rocznego planu finansowego Instytutu; zatwierdzony projekt rocznego planu finansowego Instytutu jest przekazywany ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.”;
+- **2)** w art. 13 w ust. 2 pkt 1 otrzymuje brzmienie: „1) opracowanie rocznego planu działalności oraz projektu rocznego planu finansowego Instytutu, a także występowanie do ministra z wnioskami w sprawie wysokości dotacji na realizację zadań Instytutu;”;
+- **3)** w art. 17 w ust. 1 pkt 2 otrzymuje brzmienie: „2) opiniowanie rocznego planu działalności oraz projektu rocznego planu finansowego Instytutu;”.
+
 **Art. 17.** W ustawie z dnia 24 sierpnia 2006 r. o państwowym zasobie kadrowym i wysokich stanowiskach państwowych (Dz. U. Nr 170, poz. 1217) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 uchyla się pkt 6;
+- **2)** w art. 10 uchyla się ust. 3.
 
 **Art. 18.** W ustawie z dnia 24 sierpnia 2006 r. o służbie cywilnej (Dz. U. Nr 170, poz. 1218 i Nr 218, poz. 1592) po art. 8 dodaje się art. 8a w brzmieniu: „Art. 8a. Minister właściwy do spraw finansów publicznych, na wniosek Szefa Kancelarii Prezesa Rady Ministrów, zleca wykonanie audytu wewnętrznego w zakresie zadań wynikających z ustawy.”.
 
 **Art. 19.** W ustawie z dnia 18 października 2006 r. o ujawnieniu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów (Dz.U. Nr 218, poz. 1592) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w ust. 2 w pkt 23 kropkę zastępuje się średnikiem i dodaje się pkt 24 w brzmieniu: „24) audytor wewnętrzny w rozumieniu ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz.U. Nr 249, poz. 2104, z późn. zm. ).”;
+- **2)** w art. 5 w ust. 7 w pkt 23 kropkę zastępuje się średnikiem i dodaje się pkt 24 w brzmieniu: „24) pkt 24 - kierownik jednostki sektora finansów publicznych.”.
 
 **Art. 20.** W odniesieniu do programów i projektów realizowanych w ramach Narodowego Planu Rozwoju, o którym mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206, z 2005 r. Nr 90, poz. 759 i Nr 267, poz. 2251 oraz z 2006 r. Nr 149, poz. 1074), środków przedakcesyjnych i środków przejściowych stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, a w zakresie prefinansowania programów i projektów współfinansowanych środkami pochodzącymi z budżetu Unii Europejskiej - także akty wykonawcze wydane na ich podstawie, z wyjątkiem art. 42, art. 43, art. 97 ust. 1 pkt 10, art. 100 ust. 2, art. 120 ust. 3, 3a i 5, art. 124 pkt 9, art. 133 ust. 1 i 2a, art. 137 ust. 1 pkt 5 i 6, art. 144 ust. 1, art. 148 ust. 1a, art. 157 ust. 8a i 8b i art. 208 ust. 3 ustawy zmienianej w art. 1, które stosuje się w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 21.** Do środków, o których mowa w art. 5 ust. 3 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stanowiących rozliczenie pożyczek, o których mowa w art. 209 ust. 2 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, na prefinansowanie Wspólnej Polityki Rolnej, udzielonych do dnia 31 grudnia 2006 r., stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, nie dłużej jednak niż do dnia 31 grudnia 2011 r.
 
 **Art. 22.** Do czasu zakończenia realizacji:
+
+- **1)** programów finansowanych z udziałem Środków Przejściowych, o których mowa w art. 34 Aktu dotyczącego warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej oraz dostosowań w Traktatach stanowiących podstawę Unii Europejskiej (Dz. Urz. UE L 236 z 23.09.2003, str. 33),
+- **2)** programów realizowanych w ramach Narodowego Planu Rozwoju, o którym mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju - z budżetu państwa mogą być udzielane nieoprocentowane pożyczki na zapewnienie płynności finansowej przy realizacji tych programów.
+
+**Art. 23.** Osoby, które przed dniem wejścia w życie niniejszej ustawy złożyły z wynikiem pozytywnym egzamin, o którym mowa w art. 60 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, stają się audytorami wewnętrznymi w rozumieniu ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jeżeli spełniają kryteria określone w art. 58 pkt 1-4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 24.**
 

@@ -8,12 +8,10 @@ pos: 806
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o ekonomii społecznej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 czerwca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -53,11 +51,11 @@ Art. 67–77. (pominięte)
 
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
 
-- **1)** ekonomii społecznej należy przez to rozumieć działalność podmiotów ekonomii społecznej na rzecz społeczności lokalnej w zakresie reintegracji społecznej i zawodowej, tworzenia miejsc pracy dla osób zagrożonych wykluczeniem społecznym oraz świadczenia usług społecznych, realizowaną w formie działalności gospodarczej, działalności pożytku publicznego i innej działalności o charakterze odpłatnym;
-- **2)** innej działalności o charakterze odpłatnym należy przez to rozumieć działalność, o której mowa w art. 170 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm. ), działalność kulturalną w rozumieniu art. 1 ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2024 r. poz. 87) oraz działalność zarobkową kół gospodyń wiejskich, o której mowa w art. 22 ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich (Dz. U. z 2025 r. poz. 310), jeżeli nie jest działalnością gospodarczą;
-- **3)** jednostce tworzącej podmiot ekonomii społecznej należy przez to rozumieć podmiot, o którym mowa w art. 10b ust. 1 i art. 29 ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, z późn. zm. ) lub art. 3 ust. 2 i art. 18 ust. 1 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2025 r. poz. 83 i 620), który odpowiednio zorganizował warsztat terapii zajęciowej, utworzył zakład aktywności zawodowej lub centrum integracji społecznej lub prowadzi klub integracji społecznej;
-- **4)** osobach prawnych organizacyjnie powiązanych należy przez to rozumieć co najmniej dwie osoby prawne, z których jedna posiada kontrolę w rozumieniu art. 4 pkt 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616) nad pozostałą osobą prawną lub pozostałymi osobami prawnymi;
-- **5)** podmiocie ekonomii społecznej należy przez to rozumieć:
+- **1)** ekonomii społecznej – należy przez to rozumieć działalność podmiotów ekonomii społecznej na rzecz społeczności lokalnej w zakresie reintegracji społecznej i zawodowej, tworzenia miejsc pracy dla osób zagrożonych wykluczeniem społecznym oraz świadczenia usług społecznych, realizowaną w formie działalności gospodarczej, działalności pożytku publicznego i innej działalności o charakterze odpłatnym;
+- **2)** innej działalności o charakterze odpłatnym – należy przez to rozumieć działalność, o której mowa w art. 170 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm. ), działalność kulturalną w rozumieniu art. 1 ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2024 r. poz. 87) oraz działalność zarobkową kół gospodyń wiejskich, o której mowa w art. 22 ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich (Dz. U. z 2025 r. poz. 310), jeżeli nie jest działalnością gospodarczą;
+- **3)** jednostce tworzącej podmiot ekonomii społecznej – należy przez to rozumieć podmiot, o którym mowa w art. 10b ust. 1 i art. 29 ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, z późn. zm. ) lub art. 3 ust. 2 i art. 18 ust. 1 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2025 r. poz. 83 i 620), który odpowiednio zorganizował warsztat terapii zajęciowej, utworzył zakład aktywności zawodowej lub centrum integracji społecznej lub prowadzi klub integracji społecznej;
+- **4)** osobach prawnych organizacyjnie powiązanych – należy przez to rozumieć co najmniej dwie osoby prawne, z których jedna posiada kontrolę w rozumieniu art. 4 pkt 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616) nad pozostałą osobą prawną lub pozostałymi osobami prawnymi;
+- **5)** podmiocie ekonomii społecznej – należy przez to rozumieć:
     - **a)** spółdzielnię socjalną,
     - **b)** warsztat terapii zajęciowej i zakład aktywności zawodowej,
     - **c)** centrum integracji społecznej i klub integracji społecznej,
@@ -65,10 +63,10 @@ Art. 67–77. (pominięte)
     - **e)** organizację pozarządową, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940), z wyjątkiem partii politycznych, europejskich partii politycznych, związków zawodowych i organizacji pracodawców, samorządów zawodowych, fundacji utworzonych przez partie polityczne i europejskich fundacji politycznych,
     - **f)** podmiot, o którym mowa w art. 3 ust. 3 pkt 1, 2 lub 4 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie;
 
-- **6)** osobie zagrożonej wykluczeniem społecznym należy przez to rozumieć:
+- **6)** osobie zagrożonej wykluczeniem społecznym – należy przez to rozumieć:
     - **a)** bezrobotnego, o którym mowa w art. 2 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
     - **b)** długotrwale bezrobotnego, o którym mowa w art. 2 pkt 4 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
-    - **c)** poszukującego pracy, o którym mowa w art. 2 pkt 24 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, bez zatrudnienia: w wieku do 30. roku życia oraz po ukończeniu 50. roku życia lub niewykonującego innej pracy zarobkowej, o której mowa w art. 2 pkt 9 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
+    - **c)** poszukującego pracy, o którym mowa w art. 2 pkt 24 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, bez zatrudnienia: – w wieku do 30. roku życia oraz po ukończeniu 50. roku życia lub – niewykonującego innej pracy zarobkowej, o której mowa w art. 2 pkt 9 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
     - **d)** osobę niepełnosprawną w rozumieniu art. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
     - **e)** absolwenta centrum integracji społecznej oraz absolwenta klubu integracji społecznej, o których mowa w art. 2 pkt 1a i 1b ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym,
     - **f)** osobę spełniającą kryteria, o których mowa w art. 8 ust. 1 pkt 1 i 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572 oraz z 2025 r. poz. 620 i 718),
@@ -79,10 +77,10 @@ Art. 67–77. (pominięte)
     - **k)** osobę starszą, o której mowa w art. 4 pkt 1 ustawy z dnia 11 września 2015 r. o osobach starszych (Dz. U. poz. 1705 oraz z 2024 r. poz. 834),
     - **l)** osobę, która uzyskała w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą;
 
-- **7)** reintegracji społecznej należy przez to rozumieć działania służące odbudowaniu lub nabyciu i podtrzymaniu umiejętności uczestniczenia w życiu społeczności lokalnej i pełnienia ról społecznych w miejscu pracy, zamieszkania lub pobytu, w tym rehabilitację społeczną osób niepełnosprawnych;
-- **8)** reintegracji zawodowej należy przez to rozumieć działania służące zdobyciu nowych kwalifikacji, kompetencji, wiedzy i umiejętności w celu odbudowania lub uzyskania i podtrzymania zdolności do samodzielnego świadczenia pracy na rynku pracy i awansu zawodowego, w tym rehabilitację zawodową osób niepełnosprawnych;
-- **9)** usługach społecznych należy przez to rozumieć działania z zakresu, o którym mowa w art. 2 ust. 1 pkt 1–14 ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818 oraz z 2025 r. poz. 620);
-- **10)** zatrudnieniu należy przez to rozumieć zatrudnienie, o którym mowa w art. 2 pkt 51 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
+- **7)** reintegracji społecznej – należy przez to rozumieć działania służące odbudowaniu lub nabyciu i podtrzymaniu umiejętności uczestniczenia w życiu społeczności lokalnej i pełnienia ról społecznych w miejscu pracy, zamieszkania lub pobytu, w tym rehabilitację społeczną osób niepełnosprawnych;
+- **8)** reintegracji zawodowej – należy przez to rozumieć działania służące zdobyciu nowych kwalifikacji, kompetencji, wiedzy i umiejętności w celu odbudowania lub uzyskania i podtrzymania zdolności do samodzielnego świadczenia pracy na rynku pracy i awansu zawodowego, w tym rehabilitację zawodową osób niepełnosprawnych;
+- **9)** usługach społecznych – należy przez to rozumieć działania z zakresu, o którym mowa w art. 2 ust. 1 pkt 1–14 ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818 oraz z 2025 r. poz. 620);
+- **10)** zatrudnieniu – należy przez to rozumieć zatrudnienie, o którym mowa w art. 2 pkt 51 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
 
 ### DZIAŁ II Przedsiębiorstwo społeczne
 
@@ -93,8 +91,8 @@ Art. 67–77. (pominięte)
 1. Status przedsiębiorstwa społecznego mogą posiadać podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a oraz d–f, oraz jednostka tworząca podmiot ekonomii społecznej, prowadzące:
 
 - **1)** działalność odpłatną pożytku publicznego, o której mowa w art. 8 ust. 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie,
-- **2)** działalność gospodarczą, o której mowa w art. 3 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222, 621 i 622),
-- **3)** inną działalność o charakterze odpłatnym jeżeli spełniają warunki określone w ust. 2, art. 4 ust. 1 oraz art. 5–9.
+- **2)** działalność gospodarczą, o której mowa w art. 3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222, 621 i 622),
+- **3)** inną działalność o charakterze odpłatnym – jeżeli spełniają warunki określone w ust. 2, art. 4 ust. 1 oraz art. 5–9.
 
 2. Status przedsiębiorstwa społecznego mogą posiadać podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a oraz d–f, oraz jednostka tworząca podmiot ekonomii społecznej, jeżeli Skarb Państwa, jednostka samorządu terytorialnego, państwowa albo samorządowa osoba prawna nie posiadają nad podmiotem ekonomii społecznej kontroli w rozumieniu art. 4 pkt 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, z wyłączeniem spółdzielni socjalnych założonych przez osoby, o których mowa w art. 4 ust. 2 pkt 2 ustawy z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych.
 
@@ -164,7 +162,7 @@ Art. 67–77. (pominięte)
 
 1. Przedsiębiorstwo społeczne nie przeznacza zysku albo nadwyżki bilansowej uzyskanych z wykonywanej działalności, o której mowa w art. 3 ust. 1, do podziału między swoich członków, udziałowców, akcjonariuszy i osoby w nim zatrudnione.
 
-2. Do podmiotów ekonomii społecznej, o których mowa w art. 2 pkt 5 lit. d, które uzyskały status przedsiębiorstwa społecznego, przepisu art. 183 ustawy z dnia 16 września 1982 r. Prawo spółdzielcze nie stosuje się w zakresie udziału w części nadwyżki bilansowej przeznaczonej do podziału między członków zgodnie z zasadami ustalonymi w statucie.
+2. Do podmiotów ekonomii społecznej, o których mowa w art. 2 pkt 5 lit. d, które uzyskały status przedsiębiorstwa społecznego, przepisu art. 183 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze nie stosuje się w zakresie udziału w części nadwyżki bilansowej przeznaczonej do podziału między członków zgodnie z zasadami ustalonymi w statucie.
 
 **Art. 10.**
 
@@ -313,15 +311,15 @@ Art. 67–77. (pominięte)
 
 **Art. 26.**
 
-1. Jednostka sektora finansów publicznych, udzielając zamówienia publicznego, do którego ze względu na jego wartość nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620), może zastrzec, że o udzielenie zamówienia publicznego mogą ubiegać się wyłącznie przedsiębiorstwa społeczne działające na podstawie ustawy lub właściwych przepisów państw członkowskich Unii Europejskiej lub Europejskiego Obszaru Gospodarczego, z uwzględnieniem art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+1. Jednostka sektora finansów publicznych, udzielając zamówienia publicznego, do którego ze względu na jego wartość nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620), może zastrzec, że o udzielenie zamówienia publicznego mogą ubiegać się wyłącznie przedsiębiorstwa społeczne działające na podstawie ustawy lub właściwych przepisów państw członkowskich Unii Europejskiej lub Europejskiego Obszaru Gospodarczego, z uwzględnieniem art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 2. Informację o zastrzeżeniu, o którym mowa w ust. 1, zamieszcza się we wniosku o uruchomienie procedury udzielenia zamówienia publicznego oraz odpowiednich dokumentach postępowania o udzielenie zamówienia publicznego.
 
 **Art. 27.**
 
-1. Wojewoda na wniosek, niezwłocznie, nie później jednak niż w terminie 3 dni roboczych od dnia złożenia wniosku, wydaje przedsiębiorstwu społecznemu na podstawie wykazu, o którym mowa w art. 19 ust. 1, oraz posiadanych informacji zaświadczenie o spełnianiu przez przedsiębiorstwo społeczne warunków, o których mowa w art. 361 ust. 1 pkt 1–3 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych, albo odmawia wydania zaświadczenia w przypadku niespełniania przez przedsiębiorstwo społeczne tych warunków.
+1. Wojewoda na wniosek, niezwłocznie, nie później jednak niż w terminie 3 dni roboczych od dnia złożenia wniosku, wydaje przedsiębiorstwu społecznemu na podstawie wykazu, o którym mowa w art. 19 ust. 1, oraz posiadanych informacji zaświadczenie o spełnianiu przez przedsiębiorstwo społeczne warunków, o których mowa w art. 361 ust. 1 pkt 1–3 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, albo odmawia wydania zaświadczenia w przypadku niespełniania przez przedsiębiorstwo społeczne tych warunków.
 
-2. Wojewoda na wniosek zamawiającego, o którym mowa w art. 7 pkt 31 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych, potwierdza w terminie określonym w ust. 1 aktualność wydanego zaświadczenia.
+2. Wojewoda na wniosek zamawiającego, o którym mowa w art. 7 pkt 31 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, potwierdza w terminie określonym w ust. 1 aktualność wydanego zaświadczenia.
 
 ### DZIAŁ III Wsparcie rozwoju ekonomii społecznej przez organy administracji publicznej
 
@@ -442,7 +440,7 @@ Art. 67–77. (pominięte)
 - **2)** żadna wskazana osoba nie weźmie udziału w pracach zespołu, lub
 - **3)** wszystkie osoby powołane w skład zespołu podlegają wyłączeniu na podstawie ust. 1 lub 3.
 
-3. Do członków zespołu, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) dotyczące wyłączenia pracownika.
+3. Do członków zespołu, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) dotyczące wyłączenia pracownika.
 
 **Art. 35.**
 
@@ -611,7 +609,7 @@ Art. 67–77. (pominięte)
 
 2. Koszty, o których mowa w ust. 1, mogą być finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2–3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-3. Za udział w pracach Krajowego Komitetu ekspertom, członkom Krajowego Komitetu, o których mowa w art. 48 ust. 1 pkt 4, oraz osobom niebędącym jego członkami przysługuje zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277).
+3. Za udział w pracach Krajowego Komitetu ekspertom, członkom Krajowego Komitetu, o których mowa w art. 48 ust. 1 pkt 4, oraz osobom niebędącym jego członkami przysługuje zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277).
 
 **Art. 52.** Obsługę administracyjno-biurową Krajowego Komitetu zapewnia urząd obsługujący ministra właściwego do spraw zabezpieczenia społecznego.
 
@@ -745,7 +743,7 @@ Art. 67–77. (pominięte)
 
 - **1)** art. 21 ust. 2f i art. 26g ust. 5 ustawy zmienianej w art. 68 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 21 ust. 2f i art. 26g ust. 7 ustawy zmienianej w art. 68 , w brzmieniu nadanym niniejszą ustawą,
 - **2)** art. 32 ust. 3 ustawy zmienianej w art. 68 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 32 ust. 3 ustawy zmienianej w art. 68 , w brzmieniu nadanym niniejszą ustawą,
-- **3)** art. 46 ust. 6a ustawy zmienianej w art. 72 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 ust. 6a ustawy zmienianej w art. 72 , w brzmieniu nadanym niniejszą ustawą jednak nie dłużej niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy oraz mogą być zmieniane na podstawie tych przepisów w brzmieniu dotychczasowym.
+- **3)** art. 46 ust. 6a ustawy zmienianej w art. 72 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 ust. 6a ustawy zmienianej w art. 72 , w brzmieniu nadanym niniejszą ustawą – jednak nie dłużej niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy oraz mogą być zmieniane na podstawie tych przepisów w brzmieniu dotychczasowym.
 
 **Art. 82.** Samorząd województwa opracowuje regionalny program rozwoju ekonomii społecznej, o którym mowa w art. 54 ust. 1 pkt 1, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -767,16 +765,16 @@ Art. 67–77. (pominięte)
 
 1. Maksymalny limit wydatków budżetu państwa będący skutkiem finansowania ustawy na lata 2022–2031 wyniesie 2944 tys. zł, z tego w roku:
 
-- **1)** 2022 72 tys. zł;
-- **2)** 2023 72 tys. zł;
-- **3)** 2024 350 tys. zł;
-- **4)** 2025 350 tys. zł;
-- **5)** 2026 350 tys. zł;
-- **6)** 2027 350 tys. zł;
-- **7)** 2028 350 tys. zł;
-- **8)** 2029 350 tys. zł;
-- **9)** 2030 350 tys. zł;
-- **10)** 2031 350 tys. zł.
+- **1)** 2022 – 72 tys. zł;
+- **2)** 2023 – 72 tys. zł;
+- **3)** 2024 – 350 tys. zł;
+- **4)** 2025 – 350 tys. zł;
+- **5)** 2026 – 350 tys. zł;
+- **6)** 2027 – 350 tys. zł;
+- **7)** 2028 – 350 tys. zł;
+- **8)** 2029 – 350 tys. zł;
+- **9)** 2030 – 350 tys. zł;
+- **10)** 2031 – 350 tys. zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków, o których mowa w ust. 1, stosuje się mechanizm korygujący polegający na zmniejszeniu kosztów rzeczowych związanych z obsługą realizacji zadań wynikających z ustawy.
 

@@ -8,7 +8,7 @@ pos: 491
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o stosowaniu szczególnych rozwiązań w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r.
@@ -47,6 +47,8 @@ source: "isap-pdf"
 
 3. Jednorazowe świadczenie pieniężne wypłaca Zakład Ubezpieczeń Społecznych ze środków przyznanych z budżetu państwa.
 
+**Art. 3.**
+
 1. W przypadku jeżeli dla ratowania szczególnie ważnych obszarów zagrożonych powodzią podjęto decyzję o skierowaniu wód zalewowych w inny obszar, to osobom, które w wyniku tej decyzji poniosły straty, przysługuje pełne odszkodowanie.
 
 2. Rada Ministrów określi, w drodze rozporządzenia, zasady i tryb udzielania odszkodowań, o których mowa w ust. 1.
@@ -70,7 +72,7 @@ source: "isap-pdf"
 - **1)** czas niewykonywania pracy, jeżeli pracownik był gotów do jej wykonywania, a doznał przeszkód z przyczyn dotyczących pracodawcy, które zostały bezpośrednio spowodowane powodzią,
 - **2)** wykonaną pracę, polegającą na ochronie zakładu pracy przed powodzią lub na usuwaniu skutków powodzi, mającą na celu utrzymanie lub przywrócenie prowadzenia przez pracodawcę działalności gospodarczej - przez pracodawcę, który wskutek powodzi przejściowo zaprzestał prowadzenia działalności gospodarczej lub istotnie ograniczył jej prowadzenie, Minister Pracy i Polityki Socjalnej może zarządzić przekazanie pracodawcy brakujących środków w formie nie oprocentowanej pożyczki z Funduszu Gwarantowanych Świadczeń Pracowniczych.
 
-2. Wynagrodzenie, o którym mowa w ust. 1 pkt 1, może podlegać zaspokojeniu ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych do wysokości określonej w art. 81 § 1 Kodeksu pracy, nie wyższej jednak niż 3 zł za godzinę, pracy w okresie, o którym mowa w ust. 4.
+2. Wynagrodzenie, o którym mowa w ust. 1 pkt 1, może podlegać zaspokojeniu ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych do wysokości określonej w art. 81 § 1 Kodeksu pracy, nie wyższej jednak niż 3 zł za godzinę, 24 zł za dzień lub 600 zł za miesiąc - odpowiednio do czasu niewykonywania pracy w okresie, o którym mowa w ust. 4.
 
 3. Wynagrodzenie, o którym mowa w ust. 1 pkt 2, może podlegać zaspokojeniu ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych w wysokości nie wyższej niż 5 zł za godzinę, 40 zł za dzień lub 1.000 zł za miesiąc - odpowiednio do czasu wykonywania pracy w okresie, o którym mowa w ust. 4.
 
@@ -94,11 +96,16 @@ source: "isap-pdf"
 - **1)** utrzymanie zagrożonych likwidacją, z powodu powodzi, miejsc pracy osób niepełnosprawnych,
 - **2)** pożyczki zakładom pracy chronionej, które poniosły straty w wyniku powodzi,
 - **3)** utrzymanie zagrożonych likwidacją warsztatów terapii zajęciowej z powodu powodzi,
-- **4)** zakup sprzętu rehabilitacyjnego utraconego w wyniku powodzi. we warunki i tryb realizacji przepisów ust. 1.
+- **4)** zakup sprzętu rehabilitacyjnego utraconego w wyniku powodzi.
+
+2. Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, szczegółowe warunki i tryb realizacji przepisów ust. 1.
 
 **Art. 8.** Zakład pracy chronionej może przekazać środki zakładowego funduszu rehabilitacji na rzecz innego zakładu pracy chronionej, który poniósł straty w wyniku powodzi, z przeznaczeniem na pomoc dla osób niepełnosprawnych zatrudnionych w tym zakładzie.
 
 **Art. 9.** Pożyczki przyznane przed powodzią ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych:
+
+- **1)** osobom niepełnosprawnym na działalność gospodarczą,
+- **2)** zakładom pracy chronionej - mogą być umarzane w 100%, jeżeli w związku z powodzią nastąpiła utrata możliwości spłaty pożyczki.
 
 **Art. 10.** Pracodawca może polecić pracownikowi wykonywanie pracy nie objętej treścią umowy o pracę, jeżeli jest to konieczne w związku z usuwaniem skutków powodzi u tego pracodawcy, a praca ta nie zagraża zdrowiu pracownika. W takim wypadku pracownik zachowuje prawo do dotychczasowego wynagrodzenia.
 
@@ -110,7 +117,7 @@ source: "isap-pdf"
 
 2. W wypadku gdy pracodawca nie dotrzyma warunku określonego w ust. 1, kierownik rejonowego urzędu pracy może zmniejszyć kwotę refundacji proporcjonalnie do zmniejszenia liczby zatrudnionych pracowników.
 
-3. Zasady, o których mowa w ust. 1 i 2, stosuje się odpowiednio do pracodawcy, którego zakład pracy jest zlokalizowany w gminie wymienionej w wykazie, o dawcy tego nie stosuje się warunku zatrudnienia bezrobotnych, o których mowa w ust. 1.
+3. Zasady, o których mowa w ust. 1 i 2, stosuje się odpowiednio do pracodawcy, którego zakład pracy jest zlokalizowany w gminie wymienionej w wykazie, o którym mowa w ust. 7, na obszarze której wystąpiła powódź, z tym że do pracodawcy tego nie stosuje się warunku zatrudnienia bezrobotnych, o których mowa w ust. 1.
 
 4. Na wniosek organizatora robót publicznych wykonywanych w gminie wymienionej w wykazie, o którym mowa w ust. 7, kierownik rejonowego urzędu pracy może wyrazić zgodę na refundowanie z Funduszu Pracy rzeczowych kosztów organizacji robót publicznych, jednakże w wysokości nie wyższej niż 35% kwoty wynagrodzeń, nagród i składek na ubezpieczenia społeczne finansowanych z Funduszu Pracy.
 
@@ -130,7 +137,9 @@ source: "isap-pdf"
 
 **Art. 11c.**
 
-1. Kierownik rejonowego urzędu pracy może, na wniosek osoby uprawnionej, przyznać jej prawo do zasiłku dla bezrobotnego lub zasiłku przedemerytalnego albo świadczenia przedemerytalnego - za okres poprzedzający dzień zarejestrowania się tej osoby w rejonowym urzędzie pracy, jeżeli opóźnienie w rejestracji było spowodowane powodzią. mowa w art. 11a ust. 7, którzy w okresie od dnia 7 lipca 1997 r. do dnia 31 lipca 1997 r. utracili prawo do zasiłku dla bezrobotnych z powodu upływu okresu jego pobierania, przysługuje od dnia wejścia w życie niniejszej ustawy prawo do zasiłku dla bezrobotnych przez okres 30 dni.
+1. Kierownik rejonowego urzędu pracy może, na wniosek osoby uprawnionej, przyznać jej prawo do zasiłku dla bezrobotnego lub zasiłku przedemerytalnego albo świadczenia przedemerytalnego - za okres poprzedzający dzień zarejestrowania się tej osoby w rejonowym urzędzie pracy, jeżeli opóźnienie w rejestracji było spowodowane powodzią.
+
+2. Bezrobotnym zamieszkałym w gminach wymienionych w wykazie, o którym mowa w art. 11a ust. 7, którzy w okresie od dnia 7 lipca 1997 r. do dnia 31 lipca 1997 r. utracili prawo do zasiłku dla bezrobotnych z powodu upływu okresu jego pobierania, przysługuje od dnia wejścia w życie niniejszej ustawy prawo do zasiłku dla bezrobotnych przez okres 30 dni.
 
 **Art. 11d.**
 
@@ -150,7 +159,7 @@ source: "isap-pdf"
 
 7. Specjalne świadczenie, o którym mowa w ust. 3 i 4, nie przysługuje osobie, która ma prawo do zasiłku dla bezrobotnego lub utraciła prawo do tego zasiłku z innego powodu niż wyczerpanie okresu jego pobierania albo podjęła zatrudnienie lub inną pracę zarobkową w rozumieniu ustawy o zatrudnieniu.
 
-**Art. 11e.** Rada Ministrów, określając, na podstawie art. 37i ust. 1 ustawy o zatrudnieniu, województwa lub rejony administracyjne (gminy), w których regionalne programy mające na celu restrukturyzację gospodarki mogą być wspierane środkami budżetu pańwojewództwa lub rejony, na obszarze których wystąpiła powódź.
+**Art. 11e.** Rada Ministrów, określając, na podstawie art. 37i ust. 1 ustawy o zatrudnieniu, województwa lub rejony administracyjne (gminy), w których regionalne programy mające na celu restrukturyzację gospodarki mogą być wspierane środkami budżetu państwa określonymi na ten cel w ustawie budżetowej, może uwzględnić również te województwa lub rejony, na obszarze których wystąpiła powódź.
 
 **Art. 12.**
 
@@ -181,7 +190,8 @@ source: "isap-pdf"
 
 1. Wojewoda, w razie zagrożenia epizootycznego lub epidemicznego, może:
 
-- **1)** nakazywać lekarzom weterynarii wykonywanie czynności koniecznych do likwidacji zagrożenia, niektórych czynności pomocniczych - określając rodzaj i zakres czynności do wykonania.
+- **1)** nakazywać lekarzom weterynarii wykonywanie czynności koniecznych do likwidacji zagrożenia,
+- **2)** wyznaczyć osoby posiadające odpowiednie kwalifikacje do wykonywania niektórych czynności pomocniczych - określając rodzaj i zakres czynności do wykonania.
 
 2. Wykonanie czynności, o których mowa w ust. 1, jest odpłatne i nie jest zatrudnieniem w rozumieniu Kodeksu pracy.
 
@@ -205,7 +215,8 @@ source: "isap-pdf"
 
 4. Zwalnia się z opłaty skarbowej:
 
-- **1)** podania i załączniki do podań składanych przez osoby i jednostki poszkodowane w wyniku powodzi w lipcu 1997 r., dokumentów utraconych lub zniszczonych w powodzi, o której mowa w pkt
+- **1)** podania i załączniki do podań składanych przez osoby i jednostki poszkodowane w wyniku powodzi w lipcu 1997 r.,
+- **2)** czynności urzędowe, zaświadczenia i zezwolenia związane z odtwarzaniem dokumentów utraconych lub zniszczonych w powodzi, o której mowa w pkt
 
 1.
 
@@ -238,11 +249,15 @@ source: "isap-pdf"
 - **4)** teren, na którym ma być wydobywana kopalina,
 - **5)** wymagania dotyczące wydobywania kopaliny, a w szczególności w zakresie bezpieczeństwa powszechnego i ochrony środowiska.
 
-5. W wypadku wykorzystania kopaliny na inne cele niż określone w ust. 1, podmiot wydobywający kopalinę na podstawie decyzji, o której mowa w ust. 2, podlega Prawo geologiczne i górnicze.
+5. W wypadku wykorzystania kopaliny na inne cele niż określone w ust. 1, podmiot wydobywający kopalinę na podstawie decyzji, o której mowa w ust. 2, podlega odpowiedzialności na zasadach określonych w ustawie z dnia 4 lutego 1994 r. Prawo geologiczne i górnicze.
 
 6. Podmioty gospodarcze wydobywające kopalinę pospolitą na obszarach dotkniętych powodzią na podstawie koncesji udzielonych przed dniem wejścia w życie ustawy zachowują prawo do wydobywania tych kopalin na warunkach określonych w tych koncesjach.
 
 **Art. 18.** W okresie od dnia wejścia w życie ustawy do dnia 31 lipca 1998 r. na terenach objętych powodzią:
+
+- **1)** nie stosuje się przepisów art. 82 ust. 1 pkt 1-3 ustawy z dnia 24 października 1974 r. - Prawo wodne (Dz.U. Nr 38, poz. 230, z 1980 r. Nr 3, poz. 6, z 1983 r. Nr 44, poz. 201, z 1989 r. Nr 26, poz. 139 i Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 i Nr 39, poz. 222, z 1991 r. Nr 32, poz. 131 i Nr 77, poz. 335, z 1993 r. Nr 40, poz. 183, z 1994 r. Nr 27, poz. 96, z 1995 r. Nr 47, poz. 243, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 47, poz. 299),
+- **2)** odwołania od decyzji o pozwoleniach wodnoprawnych, o których mowa w art. 82 ust. 1 pkt 4-12 ustawy, o której mowa w pkt 1, nie wstrzymują wykonania tych decyzji,
+- **3)** odwołania od decyzji, o których mowa w art. 68 ust. 5 ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz.U. z 1994 r. Nr 49, poz. 196, z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 132, poz. 622 oraz z 1997 r. Nr 46, poz. 296), nie wstrzymują wykonania tych decyzji.
 
 **Art. 19.**
 
@@ -268,7 +283,9 @@ source: "isap-pdf"
 
 **Art. 23.**
 
-1. Należności Zakładu Ubezpieczeń Społecznych z tytułu składek na ubezpieczenie społeczne pracowników oraz odsetek za zwłokę za czerwiec, lipiec i sierpień 1997 r. od zakładów pracy, które doznały szkód wskutek powodzi w lipcu 1997 r., mogą być umorzone na wniosek tych zakładów, umotywowany doznaniem wskutek powodzi poważnych szkód majątkowych. dek na ubezpieczenie społeczne oraz składek na zaopatrzenie emerytalne osób nie będących pracownikami.
+1. Należności Zakładu Ubezpieczeń Społecznych z tytułu składek na ubezpieczenie społeczne pracowników oraz odsetek za zwłokę za czerwiec, lipiec i sierpień 1997 r. od zakładów pracy, które doznały szkód wskutek powodzi w lipcu 1997 r., mogą być umorzone na wniosek tych zakładów, umotywowany doznaniem wskutek powodzi poważnych szkód majątkowych.
+
+2. Przepis ust. 1 stosuje się do należnych, na podstawie odrębnych przepisów, składek na ubezpieczenie społeczne oraz składek na zaopatrzenie emerytalne osób nie będących pracownikami.
 
 3. Przepisy ust. 1 i 2 stosuje się odpowiednio do składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych oraz wpłat na Fundusz Rehabilitacji Osób Niepełnosprawnych.
 

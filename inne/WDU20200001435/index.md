@@ -188,7 +188,8 @@ b) nadaniem temu instytutowi statusu państwowego instytutu badawczego;
 4. Jeżeli przewidywanym skutkiem reorganizacji instytutu badawczego będą istotne zmiany w zatrudnieniu lub mieniu tego instytutu, warunkiem jej dokonania jest dodatkowo zabezpieczenie roszczeń pracowniczych lub wskazanie sposobu zagospodarowania mienia tego instytutu.
 § 17. Rada naukowa i dyrektor instytutu badawczego, po zasięgnięciu opinii zakładowych organizacji związkowych, mogą złożyć do ministra nadzorującego ten instytut wniosek o jego reorganizację, który zawiera:
 1) wskazanie proponowanego sposobu reorganizacji;
-2) uzasadnienie potrzeby jej dokonania, w tym odnoszące się do spełnienia odpowiednich warunków, o których mowa w § 16.
+2) uzasadnienie potrzeby jej dokonania, w tym odnoszące się do spełnienia odpowiednich warunków, o których mowa
+§ 16.
 § 18. Jeżeli minister nadzorujący instytut badawczy planuje dokonanie w nim reorganizacji, o której mowa w § 16 ust. 1, występuje o opinie w tej sprawie do zakładowych organizacji związkowych działających w tym instytucie.
 § 19. 1. Jeżeli minister nadzorujący instytut badawczy uzna wniosek, o którym mowa w § 17, za zasadny albo stwierdzi, że reorganizacja instytutu badawczego jest uzasadniona merytorycznie, organizacyjnie i finansowo, przygotowuje wniosek, o którym mowa w art. 7 ust. 3 ustawy, zawierający:
 1) nazwę i siedzibę tego instytutu;

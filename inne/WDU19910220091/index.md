@@ -8,7 +8,7 @@ pos: 91
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo o notariacie
@@ -108,6 +108,15 @@ source: "isap-pdf"
 § 3. Minister Sprawiedliwości może odmówić powołania na stanowisko notariusza osoby, o której mowa w § 1, tylko wtedy, gdy kandydat nie spełnia wymogów, o których mowa w art. 11–13, a także jeżeli dotychczasowe postępowanie kandydata budzi wątpliwości co do jego rzetelności, uczciwości lub przestrzegania wartości demokratycznego państwa prawnego. Ministrowi Sprawiedliwości oraz organom samorządu notarialnego opiniującym kandydata na notariusza przysługuje prawo wglądu do akt osobowych i dyscyplinarnych osoby składającej wniosek.
 
 **Art. 11.** Notariuszem może być powołany ten, kto:
+
+- **1)** posiada obywatelstwo polskie, obywatelstwo innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, albo obywatelstwo innego państwa, jeżeli na podstawie przepisów prawa Unii Europejskiej przysługuje mu prawo podjęcia zatrudnienia lub samozatrudnienia na terytorium Rzeczypospolitej Polskiej na zasadach określonych w tych przepisach;
+- **1a)** korzysta w pełni z praw publicznych i ma pełną zdolność do czynności prawnych;
+- **2)** jest nieskazitelnego charakteru i daje rękojmię prawidłowego wykonywania zawodu notariusza;
+- **3)** ukończył wyższe studia prawnicze w Rzeczypospolitej Polskiej i uzyskał tytuł magistra lub zagraniczne studia prawnicze uznane w Rzeczypospolitej Polskiej;
+- **4)** odbył aplikację notarialną w Rzeczypospolitej Polskiej;
+- **5)** złożył egzamin notarialny w Rzeczypospolitej Polskiej;
+- **6)** (uchylony)
+- **7)** ukończył 26 lat.
 
 **Art. 12.**
 
@@ -236,7 +245,9 @@ source: "isap-pdf"
 
 § 1. Jeżeli notariusz nie może pełnić swych obowiązków, wyznacza na ten czas zastępstwo spośród zastępców notarialnych zatrudnionych w jego kancelarii oraz notariuszy ze wspólnej kancelarii prowadzonej w trybie art. 4 § 3 informując o tym prezesa rady właściwej izby albo spośród zastępców notarialnych z wykazu właściwej izby notarialnej oraz notariuszy mających siedzibę kancelarii notarialnej w tej izbie, w porozumieniu z prezesem rady właściwej izby.
 
-§ 2. (uchylony) § 3. Jeżeli z powodu nieobecności notariusza wynikłej z nieprzewidzianych przyczyn notariusz nie wyznaczył w kancelarii zastępstwa na czas swej nieobecności, zastępstwo wyznacza prezes rady właściwej izby notarialnej. Zastępstwo obejmuje wyłącznie dokonywanie czynności notarialnych, o których mowa w art. 79 pkt 6a i 7, oraz wydawanie przyjętych na przechowanie pieniędzy, papierów wartościowych, dokumentów oraz danych na informatycznym nośniku danych, o którym mowa w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne.
+§ 2. (uchylony)
+
+§ 3. Jeżeli z powodu nieobecności notariusza wynikłej z nieprzewidzianych przyczyn notariusz nie wyznaczył w kancelarii zastępstwa na czas swej nieobecności, zastępstwo wyznacza prezes rady właściwej izby notarialnej. Zastępstwo obejmuje wyłącznie dokonywanie czynności notarialnych, o których mowa w art. 79 pkt 6a i 7, oraz wydawanie przyjętych na przechowanie pieniędzy, papierów wartościowych, dokumentów oraz danych na informatycznym nośniku danych, o którym mowa w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 § 4. W wypadkach, o których mowa w § 1 i 3 do zastępstwa notariusza może być także wyznaczony notariusz emerytowany.
 
@@ -273,6 +284,9 @@ source: "isap-pdf"
 § 3. Izby notarialne i Krajowa Rada Notarialna posiadają osobowość prawną.
 
 **Art. 27.** Organami izby notarialnej są:
+
+- **1)** walne zgromadzenie notariuszy izby;
+- **2)** rada izby notarialnej.
 
 **Art. 28.**
 
@@ -332,6 +346,15 @@ source: "isap-pdf"
 
 **Art. 35.** Do zakresu działania rady izby notarialnej należy:
 
+- **1)** opiniowanie wniosków w przedmiocie powoływania i odwoływania notariuszy;
+- **2)** nadzór nad wykonywaniem obowiązków przez notariuszy, zastępców notarialnych i aplikantów notarialnych oraz nad przestrzeganiem przez nich powagi i godności właściwej dla notariusza;
+- **2a)** nadzór nad wykonaniem obowiązkowego ubezpieczenia, o którym mowa w art. 19a;
+- **3)** organizowanie szkolenia aplikantów notarialnych;
+- **4)** zarząd i rozporządzanie majątkiem izby;
+- **5)** zwoływanie walnych zgromadzeń notariuszy izby i wykonywanie uchwał tych zgromadzeń;
+- **6)** prowadzenie wykazów notariuszy, zastępców notarialnych i aplikantów notarialnych izby;
+- **7)** wykonywanie innych czynności przewidzianych prawem.
+
 **Art. 36.**
 
 § 1. Do ważności uchwał rady izby notarialnej jest wymagana obecność co najmniej połowy jej członków.
@@ -378,6 +401,19 @@ source: "isap-pdf"
 **Art. 41.** Krajowa Rada Notarialna może zwołać kongres notariuszy w celu zasięgnięcia opinii w istotnych sprawach notariatu.
 
 **Art. 41a.** § [1. Krajowa Rada Notarialna na podstawie informacji przekazywanych przez rady izb notarialnych, prowadzi w systemie teleinformatycznym listę notariuszy oraz zastępców notarialnych, która zawiera imię i nazwisko, właściwą izbę notarialną, datę i numer decyzji o powołaniu notariusza lub o jego odwołaniu, datę umieszczenia w wykazie zastępców notarialnych lub skreślenia z tego wykazu, a także informacje o zawieszeniu w czynnościach zawodowych.] <§ 1. Krajowa Rada Notarialna na podstawie informacji przekazywanych przez rady izb notarialnych prowadzi w systemie teleinformatycznym listę notariuszy, zastępców notarialnych oraz notariuszy emerytowanych, jeżeli zostali wyznaczeni do zastępstwa notariusza, która zawiera:
+
+- **1)** imię i nazwisko;
+- **2)** numer PESEL;
+- **3)** numer identyfikacji podatkowej (NIP), o ile posiada;
+- **4)** właściwą izbę notarialną;
+- **5)** datę i numer decyzji o powołaniu notariusza lub o jego odwołaniu;
+- **6)** datę umieszczenia w wykazie zastępców notarialnych lub skreślenia z tego wykazu;
+- **7)** datę wyznaczenia notariusza emerytowanego do zastępstwa notariusza lub datę zakończenia zastępstwa;
+- **8)** informacje o zawieszeniu w czynnościach zawodowych> [§ 2. Krajowa Rada Notarialna zapewnia sądom prowadzącym księgi wieczyste dostęp do listy, o której mowa w § 1, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji notariuszy i zastępców notarialnych.] <§ 2. Krajowa Rada Notarialna zapewnia sądom prowadzącym księgi wieczyste dostęp do listy, o której mowa w § 1, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji notariuszy, zastępców notarialnych oraz notariuszy emerytowanych, jeżeli zostali wyznaczeni do zastępstwa notariusza.>
+
+§ 3. Krajowa Rada Notarialna zapewnia Ministrowi Sprawiedliwości dostęp do listy, o której mowa w § 1, za pośrednictwem systemu teleinformatycznego. [§ 3a. Krajowa Rada Notarialna zapewnia Szefowi Krajowej Administracji Skarbowej dostęp do listy, o której mowa w § 1, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji notariuszy i zastępców notarialnych.] <§ 3a. Krajowa Rada Notarialna zapewnia Szefowi Krajowej Administracji Skarbowej dostęp do listy, o której mowa w § 1, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji notariuszy, zastępców notarialnych oraz notariuszy emerytowanych, jeżeli zostali wyznaczeni do zastępstwa notariusza.>
+
+§ 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, minimalną funkcjonalność oraz warunki organizacyjno-techniczne funkcjonowania systemu teleinformatycznego, o którym mowa w § 1, uwzględniając zgodność z minimalnymi wymaganiami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160) oraz zapewnienie bezpieczeństwa danych, w tym ochronę przed nieuprawnionym ujawnieniem i dostępem.
 
 #### Rozdział 5 Nadzór nad notariatem i odpowiedzialność notariuszy za szkody
 
@@ -757,7 +793,9 @@ source: "isap-pdf"
 
 § 4. Wygaśnięcie członkostwa lub odwołanie członka ze składu komisji kwalifikacyjnej w czasie trwania postępowania konkursowego nie wstrzymuje prac komisji kwalifikacyjnej.
 
-§ 5. W wypadku wygaśnięcia członkostwa lub odwołania członka komisji kwalifikacyjnej przed upływem kadencji, Minister Sprawiedliwości powołuje w terminie 7 dni nowego członka na okres do końca kadencji, z zastrzeżeniem art. 71f § 2.
+§ 5. W wypadku wygaśnięcia członkostwa lub odwołania członka komisji kwalifikacyjnej przed upływem kadencji, Minister Sprawiedliwości powołuje w terminie 7 dni nowego członka na okres do końca kadencji, z zastrzeżeniem art. 71f
+
+§ 2
 
 § 6. (uchylony)
 
@@ -855,6 +893,10 @@ source: "isap-pdf"
 
 **Art. 72c.** Do obowiązków aplikanta należy:
 
+- **1)** sumienne wykonywanie powierzonych obowiązków, w tym poleceń przełożonego lub patrona;
+- **2)** uczestniczenie w przewidzianych programem aplikacji zajęciach seminaryjnych oraz w praktykach;
+- **3)** samodzielne pogłębianie wiedzy prawniczej i praktycznych umiejętności niezbędnych do zajmowania stanowiska notariusza.
+
 **Art. 73.** Aplikację notarialną organizuje i prowadzi rada izby notarialnej na podstawie programu ustalonego przez Krajową Radę Notarialną.
 
 **Art. 74.**
@@ -881,7 +923,11 @@ source: "isap-pdf"
 
 § 11. Przewodniczącemu i członkom zespołu przysługuje wynagrodzenie.
 
-§ 12. (uchylony) § 13. (uchylony) § 14. Na każdą z części egzaminu notarialnego zespół sporządza zadania wraz z opisami istotnych zagadnień.
+§ 12. (uchylony)
+
+§ 13. (uchylony)
+
+§ 14. Na każdą z części egzaminu notarialnego zespół sporządza zadania wraz z opisami istotnych zagadnień.
 
 § 15. Ostateczną treść zadań wraz z opisami istotnych zagadnień ustala zespół większością głosów w obecności co najmniej pięciu członków zespołu. W razie równej liczby głosów rozstrzyga głos przewodniczącego zespołu.
 
@@ -971,7 +1017,9 @@ source: "isap-pdf"
 
 **Art. 74e.**
 
-§ 1. (uchylony) § 2. Oceny rozwiązania każdego z zadań z części egzaminu notarialnego dokonują niezależnie od siebie dwaj członkowie komisji, biorąc pod uwagę w szczególności zachowanie wymogów formalnych, zastosowanie właściwych przepisów prawa i umiejętność ich interpretacji, poprawność zaproponowanego przez zdającego sposobu rozstrzygnięcia problemu.
+§ 1. (uchylony)
+
+§ 2. Oceny rozwiązania każdego z zadań z części egzaminu notarialnego dokonują niezależnie od siebie dwaj członkowie komisji, biorąc pod uwagę w szczególności zachowanie wymogów formalnych, zastosowanie właściwych przepisów prawa i umiejętność ich interpretacji, poprawność zaproponowanego przez zdającego sposobu rozstrzygnięcia problemu.
 
 § 3. Każdy z członków komisji sprawdzających pracę pisemną wystawia ocenę cząstkową i sporządza pisemne uzasadnienie wystawionej oceny cząstkowej i przekazuje je niezwłocznie przewodniczącemu komisji, który załącza wszystkie uzasadnienia ocen cząstkowych dotyczące prac zdającego do protokołu z przebiegu egzaminu notarialnego.
 
@@ -1044,6 +1092,13 @@ source: "isap-pdf"
 
 **Art. 75.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Notarialnej, określi, w drodze rozporządzenia, organizację i przebieg aplikacji notarialnej, w tym:
 
+- **1)** zadania aplikanta notarialnego i sposób ich wykonywania,
+- **2)** termin rozpoczęcia i zakończenia zajęć seminaryjnych oraz przerwy w ich odbywaniu, a także tryb wyznaczenia dodatkowego terminu rozpoczęcia zajęć seminaryjnych,
+- **3)** tryb i sposób organizacji zajęć seminaryjnych i praktycznych oraz ich rodzaj,
+- **4)** sposób odbywania aplikacji w przypadku aplikanta notarialnego niebędącego zatrudnionym przez notariusza lub radę izby notarialnej,
+- **5)** okres niemożności pełnienia przez aplikanta notarialnego jego obowiązków wliczany do okresu aplikacji oraz tryb postępowania w przypadku jego przekroczenia, a także tryb i sposób usprawiedliwiania braku możliwości pełnienia obowiązków aplikanta notarialnego,
+- **6)** tryb, formę i sposób przeprowadzenia kolokwium, o którym mowa w art. 71 § 12 oraz skład i tryb powołania komisji przeprowadzającej kolokwium – mając na względzie konieczność zapewnienia właściwego prowadzenia aplikacji, odpowiedniego poziomu szkolenia aplikantów notarialnych, sprawdzenie praktycznego przygotowania aplikanta notarialnego do samodzielnego wykonywania czynności notarialnych, o których mowa w art. 79 pkt 2, 4, 7 i 8, oraz właściwego przygotowania do zawodu notariusza, a także mając na uwadze ustawowy czas trwania aplikacji oraz biorąc pod uwagę możliwość zaistnienia szczególnych sytuacji uniemożliwiających rozpoczęcie zajęć seminaryjnych w wyznaczonym terminie.
+
 **Art. 76.**
 
 § 1. Zastępcą notarialnym jest osoba, która uzyskała pozytywny wynik z egzaminu notarialnego i złożyła ślubowanie.
@@ -1075,6 +1130,19 @@ source: "isap-pdf"
 **Art. 77.** Aplikanci notarialni i zastępcy notarialni mają prawo uczestniczyć w walnych zgromadzeniach notariuszy izby notarialnej; mogą oni zabierać głos w obradach, jednakże bez prawa składania wniosków i brania udziału w głosowaniu.
 
 **Art. 78.** Do aplikantów notarialnych i zastępców notarialnych stosuje się przepisy art. 18 i art. 19 oraz przepisy o odpowiedzialności dyscyplinarnej notariuszy z następującymi zmianami:
+
+- **1)** aplikant notarialny odpowiada dyscyplinarnie również za niewypełnianie ustawowych obowiązków aplikanta notarialnego, o których mowa w art. 72c;
+- **2)** karami dyscyplinarnymi są:
+    - **a)** upomnienie,
+    - **b)** nagana,
+    - **c)** kara pieniężna do wysokości określonej w art. 51 § 1 pkt 3,
+    - **d)** skreślenie z wykazu zastępców notarialnych,
+    - **e)** skreślenie z listy aplikantów notarialnych;
+
+- **3)** skazany na karę nagany nie może być powołany na notariusza w terminie roku od dnia uprawomocnienia się orzeczenia, a skazany na karę pieniężną nie może być również w tym okresie wyznaczony do zastępowania notariusza;
+- **4)** osoba skreślona z wykazu zastępców notarialnych w związku z orzeczeniem kary dyscyplinarnej, o której mowa w pkt 2 lit. d, może ubiegać się o powołanie na notariusza po upływie 10 lat od dnia uprawomocnienia się orzeczenia kary skreślenia z wykazu zastępców notarialnych;
+- **5)** osoba skreślona z listy aplikantów notarialnych w związku z orzeczeniem kary dyscyplinarnej, o której mowa w pkt 2 lit. e, może ubiegać się o ponowny wpis na listę aplikantów po upływie 5 lat od dnia uprawomocnienia się orzeczenia kary skreślenia z listy aplikantów notarialnych;
+- **6)** po upływie 7 lat i 6 miesięcy od dnia uprawomocnienia się orzeczenia o skreśleniu z listy aplikantów notarialnych oraz po upływie 15 lat od dnia uprawomocnienia się orzeczenia o skreśleniu z wykazu zastępców notarialnych, Minister Sprawiedliwości zarządza usunięcie odpisu orzeczenia z akt osobowych, jeżeli w tym okresie nie wydano przeciwko ukaranemu innego orzeczenia o nałożeniu kary dyscyplinarnej.
 
 **Art. 78a.**
 
@@ -1112,6 +1180,21 @@ source: "isap-pdf"
 
 **Art. 79.** Notariusz dokonuje następujących czynności:
 
+- **1)** sporządza akty notarialne;
+- **1a)** sporządza akty poświadczenia dziedziczenia;
+- **1b)** podejmuje czynności dotyczące europejskiego poświadczenia spadkowego;
+- **1c)** podejmuje czynności związane z zarządem sukcesyjnym przedsiębiorstwem osoby fizycznej i z tymczasowym przedstawicielem w zakresie udziału małżonka przedsiębiorcy w przedsiębiorstwie, na zasadach określonych w ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170 oraz z 2026 r. poz. 507);
+- **2)** sporządza poświadczenia;
+- **3)** (uchylony)
+- **4)** spisuje protokoły;
+- **5)** sporządza protesty weksli i czeków;
+- **6)** przyjmuje na przechowanie pieniądze, papiery wartościowe, dokumenty, dane na informatycznym nośniku danych, o którym mowa w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne;
+- **6a)** prowadzi rejestry akcjonariuszy prostych spółek akcyjnych oraz podejmuje związane z tym czynności;
+- **7)** sporządza wypisy, odpisy i wyciągi dokumentów;
+- **8)** sporządza, na żądanie stron, projekty aktów, oświadczeń i innych dokumentów;
+- **8a)** składa wnioski o wpis w księdze wieczystej wraz z dokumentami stanowiącymi podstawę wpisu w księdze wieczystej;
+- **9)** sporządza inne czynności wynikające z odrębnych przepisów.
+
 **Art. 80.**
 
 § 1. Akty i dokumenty powinny być sporządzone przez notariusza w sposób zrozumiały i przejrzysty.
@@ -1124,7 +1207,9 @@ source: "isap-pdf"
 
 **Art. 81.** Notariusz odmówi dokonania czynności notarialnej sprzecznej z prawem.
 
-**Art. 81a.** Odmowę dokonania czynności notarialnej notariusz stwierdza w protokole. Do protokołu nie stosuje się przepisów art. 92 § 1 pkt 7 i 8 oraz art. 94 § 1.
+**Art. 81a.** Odmowę dokonania czynności notarialnej notariusz stwierdza w protokole. Do protokołu nie stosuje się przepisów art. 92 § 1 pkt 7 i 8 oraz art. 94
+
+§ 1
 
 **Art. 82.** Osobę, której odmówiono dokonania czynności notarialnej, poucza się o prawie i trybie zaskarżenia odmowy. Osoba ta w terminie tygodnia od dnia odmowy dokonania czynności notarialnej może żądać na piśmie sporządzenia i doręczenia uzasadnienia odmowy. Notariusz sporządza uzasadnienie w terminie tygodnia od dnia otrzymania żądania.
 
@@ -1240,7 +1325,9 @@ source: "isap-pdf"
 
 § 4. Złożenie wniosku o wpis w księdze wieczystej przez notariusza za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe uważa się za złożenie wniosku przez stronę czynności notarialnej.
 
-§ 5. (uchylony) § 6. Jeżeli akt notarialny w swej treści zawiera przeniesienie własności nieruchomości dokonane przez osobę, na rzecz której zostało przekształcone prawo użytkowania wieczystego w prawo własności nieruchomości na podstawie art. 1 ust. 1, 2 albo ust. 3 ustawy z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. z 2024 r. poz.
+§ 5. (uchylony)
+
+§ 6. Jeżeli akt notarialny w swej treści zawiera przeniesienie własności nieruchomości dokonane przez osobę, na rzecz której zostało przekształcone prawo użytkowania wieczystego w prawo własności nieruchomości na podstawie art. 1 ust. 1, 2 albo ust. 3 ustawy z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. z 2024 r. poz.
 
 - **900)** , przed upływem 5 lat, licząc od dnia przekształcenia, notariusz, który sporządził ten akt, jest obowiązany przesłać z urzędu jego wypis organowi, który wydał decyzję o przekształceniu.
 
@@ -1288,6 +1375,8 @@ source: "isap-pdf"
 
 **Art. 95a.** Notariusz sporządza akt poświadczenia dziedziczenia ustawowego lub testamentowego, z wyłączeniem dziedziczenia na podstawie testamentów szczególnych. Art. 95aa. § 1. Osobami zainteresowanymi w rozumieniu niniejszego rozdziału są osoby, które mogą wchodzić w rachubę jako spadkobiercy ustawowi i testamentowi, a także osoby, na których rzecz spadkodawca uczynił zapisy windykacyjne.
 
+§ 2. Odrzucenie spadku lub zapisu windykacyjnego oraz uznanie za niegodnego powoduje utratę statusu osoby zainteresowanej.
+
 **Art. 95b.** Przed sporządzeniem aktu poświadczenia dziedziczenia notariusz spisuje protokół dziedziczenia przy udziale wszystkich osób zainteresowanych, z uwzględnieniem art. 95ca.
 
 **Art. 95c.**
@@ -1327,6 +1416,8 @@ source: "isap-pdf"
 § 6. Osoby zainteresowane, które nie złożyły wcześniej oświadczenia, o którym mowa w § 3, mogą złożyć takie oświadczenie, uczestnicząc w spisaniu protokołu dziedziczenia.
 
 **Art. 95d.** W razie złożenia testamentu notariusz dokonuje jego otwarcia i ogłoszenia, chyba że otwarcie i ogłoszenie testamentu już nastąpiło. Z otwarcia i ogłoszenia testamentu sporządza się protokół. Art. 95da. § 1. Notariusz może zwracać się do organów administracji publicznej oraz organów wykonujących zadania z zakresu administracji publicznej o udzielenie informacji lub wydanie dokumentów stanowiących dowód faktu istotnego dla sporządzenia aktu poświadczenia dziedziczenia.
+
+§ 2. Notariusz może zwrócić się do Ministra Sprawiedliwości o udzielenie tekstu właściwego prawa obcego. Celem ustalenia treści właściwego prawa obcego notariusz może zastosować także inne odpowiednie środki.
 
 **Art. 95e.**
 
@@ -1471,9 +1562,94 @@ source: "isap-pdf"
 
 **Art. 95z.** Notariusz sporządza akt powołania zarządcy sukcesyjnego albo akt odwołania zarządcy sukcesyjnego w przypadkach wskazanych w ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, zwanej dalej „ustawą o zarządzie sukcesyjnym”. Art. 95za. Przed sporządzeniem aktu powołania zarządcy sukcesyjnego albo aktu odwołania zarządcy sukcesyjnego notariusz spisuje protokół powołania zarządcy sukcesyjnego albo protokół odwołania zarządcy sukcesyjnego. Art. 95zb. Przystępując do spisania protokołu powołania zarządcy sukcesyjnego albo protokołu odwołania zarządcy sukcesyjnego, notariusz poucza osoby biorące udział w spisywaniu protokołu o obowiązku ujawnienia wszelkich okoliczności objętych treścią protokołu oraz odpowiedzialności karnej za złożenie fałszywych oświadczeń. Art. 95zc. § 1. W protokole powołania zarządcy sukcesyjnego zamieszcza się:
 
+- **1)** żądanie sporządzenia aktu powołania zarządcy sukcesyjnego złożone przez:
+    - **a)** małżonka spadkodawcy, któremu przysługuje udział w przedsiębiorstwie w spadku, lub spadkobiercę ustawowego, który przyjął spadek, albo spadkobiercę testamentowego, który przyjął spadek, albo zapisobiercę windykacyjnego, który przyjął zapis windykacyjny, jeżeli zgodnie z ogłoszonym testamentem przysługuje mu udział w przedsiębiorstwie w spadku – w przypadku gdy nie zostało wydane prawomocne postanowienie o stwierdzeniu nabycia spadku, nie został zarejestrowany akt poświadczenia dziedziczenia ani nie zostało wydane europejskie poświadczenie spadkowe,
+    - **b)** właściciela przedsiębiorstwa w spadku w rozumieniu ustawy o zarządzie sukcesyjnym – w przypadku gdy zostało wydane prawomocne postanowienie o stwierdzeniu nabycia spadku, został zarejestrowany akt poświadczenia dziedziczenia, albo zostało wydane europejskie poświadczenie spadkowe;
+
+- **2)** oświadczenie osoby, o której mowa w pkt 1, o:
+    - **a)** powołaniu zarządcy sukcesyjnego,
+    - **b)** przysługującym jej udziale w przedsiębiorstwie w spadku oraz znanych jej innych osobach, którym przysługuje udział w przedsiębiorstwie w spadku;
+
+- **3)** oświadczenia osoby, o której mowa w pkt 1 lit. a, o:
+    - **a)** istnieniu lub nieistnieniu osób, które wyłączałyby znanych spadkobierców od dziedziczenia lub dziedziczyłyby wraz z nimi,
+    - **b)** znanych jej testamentach spadkodawcy lub braku takich testamentów;
+
+- **4)** oświadczenia osób, którym łącznie przysługuje udział w przedsiębiorstwie w spadku większy niż 85/100, o zgodzie na powołanie zarządcy sukcesyjnego, a jeżeli oświadczenia te zostały już uprzednio złożone – informację o dacie, miejscu i treści złożonych oświadczeń;
+- **5)** oświadczenie osoby powołanej na zarządcę sukcesyjnego o wyrażeniu zgody na pełnienie tej funkcji oraz braku prawomocnie orzeczonych wobec niej zakazów, o których mowa w art. 8 ust. 2 ustawy o zarządzie sukcesyjnym, a jeżeli oświadczenia te zostały już uprzednio złożone – informację o dacie, miejscu i treści złożonych oświadczeń;
+- **6)** inne dane wymagane do zgłoszenia powołania zarządcy sukcesyjnego do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
+- **7)** wzmiankę o pouczeniu przez notariusza o odpowiedzialności karnej za złożenie fałszywych oświadczeń.
+
+§ 2. Do protokołu powołania zarządcy sukcesyjnego notariusz załącza:
+
+- **1)** odpis aktu zgonu spadkodawcy – w przypadku, o którym mowa w § 1 pkt 1 lit. a;
+- **2)** odpis prawomocnego postanowienia o stwierdzeniu nabycia spadku albo wypis zarejestrowanego aktu poświadczenia dziedziczenia albo europejskiego poświadczenia spadkowego – w przypadku, o którym mowa w § 1 pkt 1 lit. b;
+- **3)** wypisy aktów notarialnych obejmujących oświadczenia, o których mowa w § 1 pkt 4 lub 5, jeżeli oświadczenia te nie zostały zawarte w protokole powołania zarządcy sukcesyjnego. Art. 95zd. § 1. Akt powołania zarządcy sukcesyjnego powinien zawierać:
+- **1)** dzień, miesiąc i rok oraz miejsce sporządzenia aktu;
+- **2)** imię i nazwisko notariusza oraz siedzibę jego kancelarii, a jeżeli akt sporządziła osoba wyznaczona do zastępstwa notariusza lub upoważniona do dokonywania czynności notarialnych – ponadto imię i nazwisko tej osoby;
+- **3)** imię i nazwisko spadkodawcy, firmę spadkodawcy i miejsce wykonywania przez niego działalności gospodarczej wpisane do Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz jego numer identyfikacji podatkowej (NIP);
+- **4)** imię i nazwisko oraz imiona rodziców osoby powołującej zarządcę sukcesyjnego, a także jej numer PESEL, jeżeli został nadany, a także wysokość przysługującego tej osobie udziału w przedsiębiorstwie w spadku;
+- **5)** imiona i nazwiska oraz imiona rodziców osób, które wyraziły zgodę na powołanie zarządcy sukcesyjnego, oraz ich numery PESEL, jeżeli zostały nadane, a także wysokość przysługujących tym osobom udziałów w przedsiębiorstwie w spadku;
+- **6)** wskazanie powołanego zarządcy sukcesyjnego przez podanie jego imienia i nazwiska, imion jego rodziców, numeru PESEL, jeżeli został nadany, albo daty urodzenia osoby nieposiadającej numeru PESEL, oraz adresu do doręczeń;
+- **7)** powołanie protokołu powołania zarządcy sukcesyjnego;
+- **8)** adnotację o zgłoszeniu powołania zarządcy sukcesyjnego do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
+- **9)** podpis notariusza.
+
+§ 2. Przepisy art. 93 i art. 94 stosuje się odpowiednio. Art. 95ze. Notariusz odmawia sporządzenia aktu powołania zarządcy sukcesyjnego, jeżeli w toku sporządzania protokołu powołania zarządcy sukcesyjnego ujawnią się okoliczności wskazujące na uzasadnione wątpliwości co do kręgu osób, którym przysługuje udział w przedsiębiorstwie w spadku, powodujące brak możliwości stwierdzenia, że wymagana większość tych osób wyraziła zgodę na powołanie zarządcy sukcesyjnego. Art. 95zf. § 1. W protokole odwołania zarządcy sukcesyjnego zamieszcza się:
+
+- **1)** żądanie sporządzenia aktu odwołania zarządcy sukcesyjnego złożone przez:
+    - **a)** małżonka spadkodawcy, któremu przysługuje udział w przedsiębiorstwie w spadku, lub spadkobiercę ustawowego, który przyjął spadek, albo spadkobiercę testamentowego, który przyjął spadek, albo zapisobiercę windykacyjnego, który przyjął zapis windykacyjny, jeżeli zgodnie z ogłoszonym testamentem przysługuje mu udział w przedsiębiorstwie w spadku – w przypadku gdy nie zostało wydane prawomocne postanowienie o stwierdzeniu nabycia spadku, nie został zarejestrowany akt poświadczenia dziedziczenia ani nie zostało wydane europejskie poświadczenie spadkowe,
+    - **b)** właściciela przedsiębiorstwa w spadku w rozumieniu ustawy o zarządzie sukcesyjnym – w przypadku gdy zostało wydane prawomocne postanowienie o stwierdzeniu nabycia spadku, został zarejestrowany akt poświadczenia dziedziczenia albo zostało wydane europejskie poświadczenie spadkowe;
+
+- **2)** oświadczenie osoby, o której mowa w pkt 1, o:
+    - **a)** odwołaniu zarządcy sukcesyjnego,
+    - **b)** przysługującym jej udziale w przedsiębiorstwie w spadku oraz znanych jej innych osobach, którym przysługuje udział w przedsiębiorstwie w spadku;
+
+- **3)** oświadczenia osoby, o której mowa w pkt 1 lit. a, o:
+    - **a)** istnieniu lub nieistnieniu osób, które wyłączałyby znanych spadkobierców od dziedziczenia lub dziedziczyłyby wraz z nimi,
+    - **b)** znanych jej testamentach spadkodawcy lub braku takich testamentów;
+
+- **4)** oświadczenia osób, którym łącznie przysługuje udział w przedsiębiorstwie w spadku większy niż 1/2, o zgodzie na odwołanie zarządcy sukcesyjnego, a jeżeli oświadczenia te zostały już uprzednio złożone – informację o dacie, miejscu i treści złożonych oświadczeń;
+- **5)** inne dane wymagane do zgłoszenia odwołania zarządcy sukcesyjnego do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
+- **6)** wzmiankę o pouczeniu przez notariusza o odpowiedzialności karnej za złożenie fałszywych oświadczeń.
+
+§ 2. Do protokołu odwołania zarządcy sukcesyjnego notariusz załącza wypisy aktów notarialnych obejmujących oświadczenia, o których mowa w § 1 pkt 4, jeżeli oświadczenia te nie zostały zawarte w protokole odwołania zarządcy sukcesyjnego. Art. 95zg. § 1. Akt odwołania zarządcy sukcesyjnego powinien zawierać:
+
+- **1)** dzień, miesiąc i rok oraz miejsce sporządzenia aktu;
+- **2)** imię i nazwisko notariusza oraz siedzibę jego kancelarii, a jeżeli akt sporządziła osoba wyznaczona do zastępstwa notariusza lub upoważniona do dokonywania czynności notarialnych – ponadto imię i nazwisko tej osoby;
+- **3)** imię i nazwisko spadkodawcy, firmę spadkodawcy i miejsce wykonywania przez niego działalności gospodarczej wpisane do Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz jego NIP;
+- **4)** imię i nazwisko oraz imiona rodziców osoby odwołującej zarządcę sukcesyjnego, a także jej numer PESEL, jeżeli został nadany, a także wysokość przysługującego tej osobie udziału w przedsiębiorstwie w spadku;
+- **5)** imiona i nazwiska oraz imiona rodziców osób, które wyraziły zgodę na odwołanie zarządcy sukcesyjnego, oraz ich numery PESEL, jeżeli zostały nadane, a także wysokość przysługujących tym osobom udziałów w przedsiębiorstwie w spadku;
+- **6)** wskazanie odwołanego zarządcy sukcesyjnego przez podanie jego imienia i nazwiska, imion jego rodziców oraz numeru PESEL, jeżeli został nadany, albo daty urodzenia osoby nieposiadającej numeru PESEL;
+- **7)** powołanie protokołu odwołania zarządcy sukcesyjnego;
+- **8)** adnotację o zgłoszeniu odwołania zarządcy sukcesyjnego do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
+- **9)** podpis notariusza.
+
+§ 2. Przepisy art. 93 i art. 94 stosuje się odpowiednio. Art. 95zh. Notariusz odmawia sporządzenia aktu odwołania zarządcy sukcesyjnego, jeżeli w toku sporządzania protokołu odwołania zarządcy sukcesyjnego ujawnią się okoliczności wskazujące na uzasadnione wątpliwości co do kręgu osób, którym przysługuje udział w przedsiębiorstwie w spadku, powodujące brak możliwości stwierdzenia, że wymagana większość tych osób wyraziła zgodę na odwołanie zarządcy sukcesyjnego. Art. 95zi. § 1. Zarządca sukcesyjny składa przed notariuszem do protokołu oświadczenie o rezygnacji z pełnienia tej funkcji.
+
+§ 2. Protokół rezygnacji zarządcy sukcesyjnego powinien zawierać:
+
+- **1)** imię i nazwisko spadkodawcy, firmę spadkodawcy i miejsce wykonywania przez niego działalności gospodarczej wpisane do Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz jego NIP;
+- **2)** imię i nazwisko oraz imiona rodziców zarządcy sukcesyjnego, a także jego numer PESEL, jeżeli został nadany;
+- **3)** oświadczenie zarządcy sukcesyjnego o rezygnacji z pełnienia tej funkcji;
+- **4)** oświadczenie zarządcy sukcesyjnego o znanych mu osobach, którym przysługuje udział w przedsiębiorstwie w spadku, i adresach ich zamieszkania;
+- **5)** inne dane wymagane do zgłoszenia rezygnacji zarządcy sukcesyjnego do Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+
+§ 3. O złożeniu oświadczenia o rezygnacji zarządcy sukcesyjnego z pełnienia tej funkcji notariusz niezwłocznie zawiadamia osoby, o których mowa w § 2 pkt 4, przesyłając im wypis protokołu rezygnacji zarządcy sukcesyjnego. Art. 95zj. Do czynności, o których mowa w niniejszym rozdziale, stosuje się odpowiednio przepis art. 95da. Art. 95zk. § 1. Oryginały aktów powołania zarządcy sukcesyjnego i aktów odwołania zarządcy sukcesyjnego nie mogą być wydawane poza miejsce ich przechowywania.
+
+§ 2. Do aktów powołania zarządcy sukcesyjnego i aktów odwołania zarządcy sukcesyjnego stosuje się odpowiednio przepisy rozdziału 9.
+
+§ 3. Notariusz na żądanie sądu, prokuratora, dyrektora izby administracji skarbowej oraz naczelnika urzędu skarbowego przesyła wypis aktu powołania zarządcy sukcesyjnego albo aktu odwołania zarządcy sukcesyjnego.
+
+§ 4. Wypis aktu powołania zarządcy sukcesyjnego albo aktu odwołania zarządcy sukcesyjnego może być wydany ponadto osobie, która wykaże istnienie interesu prawnego. Art. 83 stosuje się odpowiednio. Art. 95zl. Przepisy niniejszego rozdziału, z wyłączeniem art. 95zc § 1 pkt 6, art. 95zd § 1 pkt 8, art. 95zf § 1 pkt 5, art. 95zg § 1 pkt 8 i art. 95zi § 2 pkt 5, stosuje się odpowiednio do powołania, odwołania i rezygnacji tymczasowego przedstawiciela, o którym mowa w przepisach rozdziału 11a ustawy o zarządzie sukcesyjnym.
+
 #### Rozdział 4 Poświadczenia
 
 **Art. 96.** Notariusz poświadcza:
+
+- **1)** własnoręczność podpisu;
+- **2)** zgodność odpisu, wyciągu lub kopii z okazanym dokumentem;
+- **3)** datę okazania dokumentu;
+- **4)** pozostawanie osoby przy życiu lub w określonym miejscu.
 
 **Art. 97.**
 

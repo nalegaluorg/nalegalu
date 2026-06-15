@@ -8,7 +8,7 @@ pos: 1368
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o bezpieczeństwie morskim
@@ -66,6 +66,87 @@ Art. 131–141. (pominięte)
 4. Rada Ministrów, kierując się względami bezpieczeństwa uprawianej żeglugi, może, w drodze rozporządzenia, poddać odpowiednim przepisom ustawy jednostki pływające Sił Zbrojnych Rzeczypospolitej Polskiej, Straży Granicznej, Policji i Służby Ochrony Państwa.
 
 **Art. 5.** Ilekroć w ustawie jest mowa o:
+
+- **1)** statku – należy przez to rozumieć urządzenie pływające używane w środowisku morskim, w tym również: wodoloty, poduszkowce, statki podwodne i ruchome platformy wiertnicze, chyba że powołane w ustawie umowy międzynarodowe stanowią inaczej;
+- **2)** statku o wartości historycznej – należy przez to rozumieć statki zabytkowe i ich repliki, w tym również statki przeznaczone do wspierania i promocji rzemiosł tradycyjnych i umiejętności żeglarskich używane zgodnie z zasadami tradycyjnego żeglarstwa i tradycyjnych technik;
+- **3)** statku rybackim – należy przez to rozumieć statek rybacki w rozumieniu art. 8 ust. 1 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2025 r. poz. 590);
+- **4)** statku pasażerskim – należy przez to rozumieć statek przeznaczony lub używany do przewozu więcej niż 12 pasażerów;
+- **5)** statku pasażerskim typu ro-ro – należy przez to rozumieć statek pasażerski przystosowany do wtaczania na statek i wytaczania ze statku pojazdów drogowych lub szynowych;
+- **5a)** szybkim statku pasażerskim – należy przez to rozumieć jednostkę szybką w rozumieniu prawidła 1/3 rozdziału X Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 2016 r. poz. 869 oraz z 2017 r. poz. 142), zwanej dalej „Konwencją SOLAS”, przewożącą więcej niż 12 pasażerów;
+- **6)** statkach służby państwowej specjalnego przeznaczenia – należy przez to rozumieć statki używane wyłącznie do:
+    - **a)** inspekcji i pomiarów hydrograficznych,
+    - **b)** ratowania życia na morzu,
+    - **c)** zwalczania rozlewów olejów i substancji szkodliwych lub zanieczyszczających środowisko naturalne,
+    - **d)** obsługi oznakowania nawigacyjnego,
+    - **e)** wykonywania ustawowych zadań Krajowej Administracji Skarbowej,
+    - **f)** zabezpieczenia przeciwpożarowego i zwalczania pożarów,
+    - **g)** łamania lodów;
+
+- **7)** jachcie morskim – należy przez to rozumieć jacht rekreacyjny lub jacht komercyjny, przeznaczony lub używany do celów sportowych lub rekreacyjnych na wodach morskich;
+- **8)** jachcie rekreacyjnym – należy przez to rozumieć statek przeznaczony lub używany wyłącznie do uprawiania sportu lub rekreacji, inny niż jacht komercyjny;
+- **9)** jachcie komercyjnym – należy przez to rozumieć statek przeznaczony lub używany wyłącznie do uprawiania sportu lub rekreacji, w ramach prowadzenia działalności polegającej na:
+    - **a)** odpłatnym przewozie osób,
+    - **b)** odpłatnym wykonywaniu rejsów szkoleniowych,
+    - **c)** odpłatnym udostępnianiu statku w celach połowu organizmów morskich na podstawie sportowego zezwolenia połowowego zgodnie z przepisami o rybołówstwie,
+    - **d)** odpłatnym udostępnianiu statku obsadzonego załogą,
+    - **e)** każdym innym odpłatnym wykorzystaniu lub udostępnianiu statku – o ile w ramach tej działalności nie jest używany do przewozu więcej niż 12 pasażerów;
+
+- **10)** jachcie śródlądowym – należy przez to rozumieć statek żeglugi śródlądowej o napędzie żaglowym lub mechanicznym przeznaczony lub używany wyłącznie do uprawiania sportu lub rekreacji, w rozumieniu przepisów ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2025 r. poz. 18);
+- **10a)** długości statku – należy przez to rozumieć 96 % całkowitej długości kadłuba mierzonej w płaszczyźnie wodnicy równoległej do płaszczyzny podstawowej na wysokości równej 85 % wysokości bocznej lub długość mierzoną od przedniej krawędzi dziobnicy do osi trzonu sterowego w płaszczyźnie tej wodnicy, jeżeli długość ta jest większa;
+- **10b)** długości jachtu morskiego – należy przez to rozumieć długość kadłuba mierzoną między skrajnymi punktami kadłuba na rufie i dziobie, z pominięciem części należących do wyposażenia kadłuba, w szczególności: steru, bukszprytu i odbojnic; w przypadku gdy tak określona długość jachtu morskiego wynosi 24 m albo powyżej, długość jachtu morskiego określa się jak długość statku;
+- **10c)** pasażerze – należy przez to rozumieć każdą osobę, z wyjątkiem:
+    - **a)** kapitana i członków załogi, innych osób zatrudnionych na statku lub wykonujących zadania na statku dla jego potrzeb oraz personelu przemysłowego,
+    - **b)** dziecka w wieku poniżej jednego roku życia;
+
+- **10d)** personel przemysłowy – należy przez to rozumieć personel przemysłowy, o którym mowa w prawidle 1 rozdziału XV Konwencji SOLAS;
+- **11)** działaniach statek-port – należy przez to rozumieć działania wywołujące bezpośredni wpływ na statek związane z przemieszczaniem osób, ładunku lub zaopatrzenia;
+- **12)** żegludze na linii regularnej – należy przez to rozumieć żeglugę obejmującą serię podróży statku wykonywanych w celu obsługi ruchu między tymi samymi dwoma portami lub większą liczbą tych samych portów lub serię podróży statku z tego samego portu i z powrotem bez zawijania do portów pośrednich, wykonywanych:
+    - **a)** zgodnie z opublikowanym rozkładem rejsów albo
+    - **b)** w taki sposób, że podróże te są na tyle regularne lub częste, że stanowią dający się wyróżnić systematyczny szereg połączeń;
+
+- **13)** pasażerskiej żegludze krajowej – należy przez to rozumieć żeglugę na wodach morskich uprawianą przez statki pasażerskie pomiędzy portami morskimi Rzeczypospolitej Polskiej;
+- **14)** międzynarodowej żegludze pasażerskiej – należy przez to rozumieć żeglugę na wodach morskich statkiem pasażerskim inną niż pasażerska żegluga krajowa;
+- **15)** informacji dotyczącej identyfikacji statku – należy przez to rozumieć podstawowe informacje o statku, takie jak nazwa oraz, o ile statek posiada, sygnał rozpoznawczy oraz numer IMO statku nadany przez Międzynarodową Organizację Morską (IMO) lub morski radiowy numer identyfikacyjny MMSI;
+- **16)** organizacji – należy przez to rozumieć instytucję klasyfikacyjną wykonującą zadania w zakresie nadzoru technicznego nad statkami;
+- **17)** uznanej organizacji – należy przez to rozumieć organizację uznaną przez Komisję Europejską zgodnie z przepisami Unii Europejskiej w zakresie wspólnych reguł i norm dotyczących organizacji dokonujących inspekcji i przeglądów statków;
+- **18)** przepisach klasyfikacyjnych – należy przez to rozumieć wymagania uznanej organizacji w zakresie budowy statku, jego stałych urządzeń oraz wyposażenia, a także utrzymania statku oraz procedur przeprowadzania przeglądów statku;
+- **19)** przeglądzie statku – należy przez to rozumieć kontrolę przeprowadzaną przez organizację w celu potwierdzenia zgodności z przepisami klasyfikacyjnymi dla wydania świadectwa klasy;
+- **20)** świadectwie klasy – należy przez to rozumieć dokument wydany przez uznaną organizację potwierdzający zdolność lub przystosowanie statku do określonego używania zgodnie z przepisami klasyfikacyjnymi tej uznanej organizacji;
+- **21)** certyfikacie – należy przez to rozumieć dokument bezpieczeństwa wydany dla statku zgodnie z przepisami ustawy oraz postanowieniami umów międzynarodowych, w tym kartę bezpieczeństwa;
+- **22)** dacie rocznicowej – należy przez to rozumieć dzień i miesiąc każdego roku, taki sam jak w dacie upływu ważności danego certyfikatu;
+- **23)** inspekcji – należy przez to rozumieć kontrolę przeprowadzaną przez:
+    - **a)** państwo bandery, inne państwo na zlecenie państwa bandery lub uznaną organizację w imieniu państwa bandery, w celu potwierdzenia, że statek i jego załoga spełniają wymagania określone w przepisach krajowych i międzynarodowych,
+    - **b)** państwo portu – zgodnie z postanowieniami porozumień międzynarodowych w sprawie inspekcji państwa portu;
+
+- **24)** Memorandum Paryskim – należy przez to rozumieć międzynarodowe porozumienie państw Europy i Kanady w sprawie regionalnego systemu portowej kontroli statków obcych bander zawijających do ich portów, podpisane w Paryżu dnia 26 stycznia 1982 r. (Dz. Urz. MIiR z 2014 r. poz. 61);
+- **25)** regionie Memorandum Paryskiego – należy przez to rozumieć obszar geograficzny, w którym państwa-strony Memorandum Paryskiego przeprowadzają inspekcje na podstawie postanowień tego Memorandum;
+- **26)** systemie THETIS – należy przez to rozumieć system informacyjny wspomagający realizację zadań inspekcji państwa portu, zawierający dane dotyczące inspekcji państwa portu przeprowadzanych w regionie Memorandum Paryskiego;
+- **26a)** systemie THETIS EU – należy przez to rozumieć system informacyjny opracowany i obsługiwany przez Europejską Agencję Bezpieczeństwa Morskiego, zwaną dalej „EMSA”, wspomagający realizację zadań inspekcji państwa portu oraz inspekcji państwa bandery, w szczególności w zakresie inspekcji statków pasażerskich typu ro-ro oraz szybkich statków pasażerskich, będący platformą do wymiany informacji i raportowania o wynikach inspekcji i kontroli przeprowadzonych zgodnie z przepisami ustawy;
+- **27)** priorytecie I lub priorytecie II – należy przez to rozumieć element opisujący status statku w systemie THETIS, określający obowiązek przeprowadzenia inspekcji statku, zależny od profilu ryzyka statku, a także czasu jaki upłynął od ostatniej inspekcji oraz zaistnienia czynników nadrzędnych lub nieoczekiwanych okoliczności;
+- **28)** profilu wysokiego, profilu średniego lub profilu niskiego ryzyka – należy przez to rozumieć element systemu THETIS opisujący statek w zależności od parametrów określonych w przepisach Unii Europejskiej w sprawie kontroli przeprowadzanej przez państwo portu, decydujący o priorytecie inspekcji statku, zakresie i częstotliwości jej przeprowadzania;
+- **29)** zatrzymaniu statku – należy przez to rozumieć decyzję zakazującą wyjścia statku w morze z powodu wykrytych uchybień, które pojedynczo lub razem czynią statek niezdatny do żeglugi morskiej;
+- **30)** wstrzymaniu operacji – należy przez to rozumieć decyzję zakazującą kontynuowania pracy statku ze względu na wykazane uchybienia, które pojedynczo lub razem mogłyby uczynić dalszą pracę statku niebezpieczną;
+- **31)** zakazie wejścia do portu – należy przez to rozumieć decyzję wydaną kapitanowi lub armatorowi statku skutkującą, zgodnie z przepisami Unii Europejskiej dotyczącymi inspekcji państwa portu, zakazem wejścia do wszystkich portów i kotwicowisk państw członkowskich Unii Europejskiej;
+- **32)** (uchylony)
+- **33)** umowach międzynarodowych – należy przez to rozumieć: poz. 106), zwaną dalej „Konwencją o zapobieganiu zderzeniom”, poz. 1679 i 1680), zwaną dalej „Konwencją MARPOL”, z 1983 r. poz. 247 i 248), zwaną dalej „Konwencją TONNAGE”,
+    - **a)** Konwencję SOLAS,
+    - **b)** Międzynarodową konwencję o liniach ładunkowych, sporządzoną w Londynie dnia 5 kwietnia 1966 r. (Dz. U. z 1969 r. poz. 282) wraz z Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o liniach ładunkowych, 1966, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2009 r. poz. 372 i 373), zwaną dalej „Konwencją o liniach ładunkowych”,
+    - **c)** Konwencję w sprawie międzynarodowych przepisów o zapobieganiu zderzeniom na morzu z 1972 roku, sporządzoną w Londynie dnia 20 października 1972 r. (Dz. U. z 1977 r. poz. 61 i 62 oraz z 1984 r.
+    - **d)** Międzynarodową konwencję o zapobieganiu zanieczyszczaniu morza przez statki, 1973, sporządzoną w Londynie dnia 2 listopada 1973 r., oraz Protokół z 1978 r. dotyczący tej konwencji, sporządzony w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1987 r. poz. 101, z późn. zm. ) oraz Protokołem z 1997 r. uzupełniającym Międzynarodową konwencję o zapobieganiu zanieczyszczaniu morza przez statki, 1973, zmodyfikowaną przynależnym do niej Protokółem z 1978 r., sporządzonym w Londynie dnia 26 września 1997 r. (Dz. U. z 2005 r.
+    - **e)** Międzynarodową konwencję o pomierzaniu pojemności statków z 1969 r., sporządzoną w Londynie dnia 23 czerwca 1969 r. (Dz. U.
+    - **f)** Międzynarodową konwencję w sprawie kontroli szkodliwych systemów przeciwporostowych na statkach, podpisaną w Londynie dnia 5 października 2001 r. (Dz. U. z 2008 r. poz. 851 i 852 oraz z 2022 r. poz.
+
+- **2636)** , (Dz. U. z 2013 r. poz. 845, z 2017 r. poz. 512, z 2019 r. poz. 962, z 2021 r. poz. 707 oraz z 2025 r. poz. 1129), zwaną dalej „Konwencją MLC”,
+    - **g)** Konwencję o pracy na morzu, przyjętą przez Konferencję Ogólną Międzynarodowej Organizacji Pracy w Genewie dnia 23 lutego 2006 r.
+    - **h)** Międzynarodową konwencję o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzoną w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201, z późn. zm. ), zwaną dalej „Konwencją STCW”,
+    - **i)** Międzynarodową konwencję o wymaganiach w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht dla załóg statków rybackich, sporządzoną w Londynie dnia 7 lipca 1995 r. (Dz. U. z 2015 r. poz. 1654 i 1655), zwaną dalej „Konwencją STCW-F”,
+    - **j)** Międzynarodową konwencję o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzoną w dniu 13 lutego 2004 r. w Londynie;
+
+- **34)** Kodeksie ISM – należy przez to rozumieć Międzynarodowy kodeks zarządzania bezpieczną eksploatacją statków i zapobieganiem zanieczyszczaniu, określony w rozdziale IX Konwencji SOLAS;
+- **34a)** Kodeksie ISPS – należy przez to rozumieć Międzynarodowy kodeks ochrony statków i obiektów portowych, określony w rozdziale XI-2 Konwencji SOLAS;
+- **35)** państwie członkowskim Unii Europejskiej – należy przez to rozumieć również państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+- **36)** państwie trzecim – należy przez to rozumieć państwo niebędące państwem członkowskim Unii Europejskiej;
+- **37)** stałej platformie wiertniczej – należy przez to rozumieć jednostkę górniczą, przeznaczoną do wydobycia i przetwarzania węglowodorów, osadzoną na dnie morskim na stałe, stanowiącą morską budowlę hydrotechniczną.
 
 **Art. 6.**
 
@@ -997,6 +1078,19 @@ Art. 131–141. (pominięte)
 
 **Art. 58.** Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia:
 
+- **1)** sposób funkcjonowania inspekcji państwa portu,
+- **2)** tryb przeprowadzania inspekcji przez inspektora inspekcji państwa portu,
+- **3)** zakres i sposób przeprowadzania poszczególnych rodzajów inspekcji,
+- **4)** listę dokumentów podlegających inspekcji,
+- **5)** czynniki nadrzędne i nieprzewidziane okoliczności uzasadniające przeprowadzenie inspekcji dodatkowej,
+- **6)** sposób kwalifikowania statków do inspekcji,
+- **7)** okoliczności przeprowadzania inspekcji bardziej szczegółowej,
+- **8)** szczegółowe kryteria uzasadniające zatrzymanie statku i wstrzymanie operacji,
+- **9)** szczegółowe kwalifikacje wymagane od inspektora inspekcji państwa portu,
+- **10)** wzór dokumentu identyfikacyjnego inspektora inspekcji państwa portu,
+- **11)** sposób przekazywania informacji, o których mowa w art. 60,
+- **12)** wzory decyzji, o których mowa w art. 43 ust. 1 i 6, art. 45 ust. 1, art. 48 ust. 1, art. 49 ust. 9, art. 50 ust. 1 i 6 oraz art. 54 ust. 1 – kierując się koniecznością realizacji zadań organów inspekcyjnych określonych w ustawie, Memorandum Paryskim oraz w przepisach Unii Europejskiej dotyczących inspekcji państwa portu, a także potrzebą podniesienia poziomu bezpieczeństwa morskiego, ochrony środowiska morskiego oraz warunków życia i pracy na statkach morskich.
+
 **Art. 59.**
 
 1. W celu zapewnienia właściwej koordynacji funkcjonowania inspekcji państwa portu minister właściwy do spraw gospodarki morskiej powołuje, spośród osób posiadających doświadczenie w zakresie inspekcji państwa portu, Koordynatora do Spraw Inspekcji Państwa Portu, zwanego dalej „Koordynatorem PSC”. Minister właściwy do spraw gospodarki morskiej odwołuje Koordynatora PSC.
@@ -1052,6 +1146,12 @@ Art. 131–141. (pominięte)
 5. Nie wymaga posiadania dokumentu kwalifikacyjnego, o którym mowa w ust. 3, uprawianie żeglugi na morskich wodach wewnętrznych na jachtach motorowych o mocy silnika do 75 kW i o długości kadłuba do 13 m, których prędkość maksymalna jest ograniczona konstrukcyjnie do 15 km/h. W przypadku jachtów komercyjnych odpłatnie udostępnianych bez załogi uprawianie żeglugi wymaga odbycia przez prowadzącego jacht szkolenia z zakresu bezpieczeństwa na wodzie, zgodnie z art. 37a ust. 4 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej.
 
 **Art. 63.** Potwierdzeniem posiadania kwalifikacji zawodowych niezbędnych do zajmowania stanowisk na statku są następujące dokumenty kwalifikacyjne:
+
+- **1)** dyplom – dla stanowisk oficerskich;
+- **2)** świadectwo – dla stanowisk nieoficerskich;
+- **3)** świadectwo przeszkolenia;
+- **4)** zezwolenie;
+- **5)** potwierdzenie uznania.
 
 **Art. 64.**
 
@@ -1117,6 +1217,11 @@ Art. 131–141. (pominięte)
 5. Minister właściwy do spraw gospodarki morskiej, może przedłożyć Komisji Europejskiej uzasadniony wniosek o uznanie państwa trzeciego innego niż dotychczas uznane.
 
 **Art. 68.** Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzeń:
+
+- **1)** szczegółowe wymagania kwalifikacyjne do zajmowania stanowisk na statkach morskich, w tym również na statkach nieobjętych umowami, o których mowa w art. 62 ust. 1 pkt 1–4, warunki przyznawania i odnawiania dokumentów, o których mowa w art. 63, wzory tych dokumentów i sposób ich ewidencji, a także sposób obliczania czasu praktyki pływania na statkach,
+- **2)** warunki, jakie powinny spełniać osoby posiadające zagraniczne dyplomy lub świadectwa wydane na podstawie umów międzynarodowych, ubiegające się o stanowiska oficerskie lub nieoficerskie na statkach o polskiej przynależności,
+- **3)** wzory zaświadczeń o pełnieniu wachty nawigacyjnej lub maszynowej, wzór zaświadczenia o ukończeniu szkolenia, o którym mowa w art. 64 ust. 1 pkt 3, wzory zaświadczeń potwierdzających odbycie lub zaliczenie praktyki pływania,
+- **4)** rodzaje uprawnień zawodowych wynikających z poszczególnych dokumentów kwalifikacyjnych – mając na względzie postanowienia umów międzynarodowych oraz przepisy Unii Europejskiej w zakresie bezpieczeństwa statków rybackich.
 
 **Art. 68a.**
 
@@ -1443,6 +1548,9 @@ Art. 131–141. (pominięte)
 
 **Art. 85.** Kapitan statku znajdującego się w morzu jest obowiązany w szczególności:
 
+- **1)** skutecznie, za pomocą dostępnych środków łączności, przekazywać statkom znajdującym się w pobliżu, a także właściwym władzom państwa nadbrzeżnego ostrzeżenia nawigacyjne o zauważonych niebezpieczeństwach dla żeglugi;
+- **2)** po otrzymaniu z jakiegokolwiek źródła informacji, że statkowi, statkowi powietrznemu lub pochodzącym z nich środkom ratunkowym grozi niebezpieczeństwo – postępować zgodnie z postanowieniami Konwencji SOLAS oraz przepisami IMO w sprawie poszukiwania i ratownictwa morskiego .
+
 **Art. 86.**
 
 1. Wymagania w zakresie bezpiecznego uprawiania żeglugi przez statki określają postanowienia wiążących Rzeczpospolitą Polską umów międzynarodowych, w tym Konwencji SOLAS.
@@ -1479,7 +1587,11 @@ Art. 131–141. (pominięte)
 
 14. O wejściu w życie rozporządzeń, o których mowa w ust. 10 i 12, a także ich zmian, minister właściwy do spraw gospodarki morskiej informuje Komisję Europejską.
 
-15. Pokładowe i osobiste nadajniki sygnału niebezpieczeństwa będące na wyposażeniu statków podlegają ewidencjonowaniu na zasadach określonych w art. 140e ust. 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176). Przepisy wydane na podstawie art. 140e ust. 3 ustawy wymienionej w zdaniu pierwszym stosuje się odpowiednio. Art. 86 [1] . 1. Statek o obcej przynależności niepodlegający Konwencji SOLAS może być eksploatowany w żegludze regularnej pomiędzy portem położonym na terytorium Rzeczypospolitej Polskiej a miejscami przeznaczenia położonymi w polskich obszarach morskich w okresie dłuższym niż 14 dni w ciągu roku kalendarzowego pod warunkiem uzyskania pozwolenia na eksploatację.
+15. Pokładowe i osobiste nadajniki sygnału niebezpieczeństwa będące na wyposażeniu statków podlegają ewidencjonowaniu na zasadach określonych w art. 140e ust. 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176). Przepisy wydane na podstawie art. 140e ust. 3 ustawy wymienionej w zdaniu pierwszym stosuje się odpowiednio.
+
+**Art. 86¹.**
+
+1. Statek o obcej przynależności niepodlegający Konwencji SOLAS może być eksploatowany w żegludze regularnej pomiędzy portem położonym na terytorium Rzeczypospolitej Polskiej a miejscami przeznaczenia położonymi w polskich obszarach morskich w okresie dłuższym niż 14 dni w ciągu roku kalendarzowego pod warunkiem uzyskania pozwolenia na eksploatację.
 
 2. Pozwolenie na eksploatację, o którym mowa w ust. 1, wydaje, w drodze decyzji, dyrektor urzędu morskiego właściwy dla portu, z którego prowadzona jest żegluga, o której mowa w ust. 1, na wniosek armatora.
 
@@ -1651,6 +1763,9 @@ Art. 131–141. (pominięte)
 3. Dyrektorzy urzędów morskich współpracują z Koordynatorem SafeSeaNet w zakresie realizowanych przez niego zadań.
 
 **Art. 93.** Użytkownicy systemu SafeSeaNet Unii Europejskiej i Narodowego Systemu SafeSeaNet podejmują środki niezbędne do zapewnienia:
+
+- **1)** ochrony przed nieuprawnionym dostępem do danych i informacji wymienianych za pomocą systemu SafeSeaNet;
+- **2)** wykorzystywania danych i informacji wymienianych za pomocą systemu SafeSeaNet, z zachowaniem poufności i zgodnie z przepisami Unii Europejskiej w zakresie monitorowania i wymiany informacji o ruchu statków.
 
 **Art. 94.**
 
@@ -1897,6 +2012,9 @@ Art. 131–141. (pominięte)
 **Art. 105.** W przypadku gdy armator nie jest przewoźnikiem, przepisy art. 103 i art. 104 stosuje się odpowiednio do przewoźnika.
 
 **Art. 106.** Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia:
+
+- **1)** sposób liczenia osób odbywających podróż morską na statkach, o których mowa w art. 103 ust. 1,
+- **2)** warunki udzielania zwolnień z obowiązku przekazywania informacji o liczbie pasażerów lub rejestracji osób odbywających podróż morską na statkach, o których mowa w art. 103 ust. 1 – kierując się koniecznością zwiększenia bezpieczeństwa oraz skuteczności ratowania pasażerów i członków załogi oraz prowadzenia akcji poszukiwawczych i ratowniczych, z uwzględnieniem przepisów Unii Europejskiej w zakresie rejestracji osób podróżujących na statkach pasażerskich.
 
 **Art. 107.**
 
@@ -2351,6 +2469,16 @@ Art. 131–141. (pominięte)
 #### Rozdział 7 Kary pieniężne
 
 **Art. 126.** Armator, który narusza przepisy w zakresie:
+
+- **1)** spełniania przez statek wymagań ustawy w zakresie budowy statku, jego stałych urządzeń i wyposażenia,
+- **2)** wymogu poddania statku inspekcjom przeprowadzanym przez organy inspekcyjne w zakresie, terminach i trybie określonych w ustawie, umowach międzynarodowych oraz przepisach ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej,
+- **3)** obsady statku załogą o właściwych kwalifikacjach i wymaganym składzie,
+- **4)** wymogów bezpieczeństwa dla statków pasażerskich w pasażerskiej żegludze krajowej,
+- **5)** spełniania przez statek pasażerski typu ro-ro szczególnych wymogów stateczności obowiązujących w żegludze na wyznaczonym obszarze morza,
+- **6)** przewożenia statkiem ładunków masowych, w tym ziarna luzem,
+- **7)** przewożenia statkiem towarów niebezpiecznych,
+- **8)** przewożenia statkiem kontenerów,
+- **9)** przewożenia statkiem przedmiotów o masie brutto co najmniej tysiąca kilogramów – podlega karze pieniężnej o równowartości do 1 000 000 jednostek obliczeniowych, zwanych Specjalnym Prawem Ciągnienia (SDR), określanych przez Międzynarodowy Fundusz Walutowy.
 
 **Art. 127.**
 

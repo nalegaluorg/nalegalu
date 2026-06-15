@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2023-12-05 |
 | Data wydania | 2024-01-09 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000028) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/28/text.pdf) |
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi

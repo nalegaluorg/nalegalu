@@ -8,7 +8,7 @@ pos: 911
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Kodeks karny wykonawczy
@@ -125,17 +125,33 @@ Art. 43zf. (uchylony)
 
 **Art. 2.** Organami postępowania wykonawczego są:
 
+- **1)** sąd pierwszej instancji lub inny sąd równorzędny;
+- **2)** sąd penitencjarny;
+- **2a)** referendarz sądowy;
+- **3)** prezes sądu lub upoważniony sędzia;
+- **4)** sędzia penitencjarny;
+- **5)** dyrektor zakładu karnego, aresztu śledczego, a także dyrektor okręgowy i Dyrektor Generalny Służby Więziennej albo osoba kierująca innym zakładem przewidzianym w przepisach prawa karnego wykonawczego oraz komisja penitencjarna;
+- **6)** sądowy kurator zawodowy oraz kierownik zespołu kuratorskiej służby sądowej;
+- **7)** sądowy lub administracyjny organ egzekucyjny;
+- **8)** naczelnik urzędu skarbowego;
+- **9)** odpowiedni terenowy organ administracji rządowej lub samorządu terytorialnego;
+- **10)** inny organ uprawniony przez ustawę do wykonywania orzeczeń.
+
 **Art. 3.**
 
 § 1. Sąd, który wydał orzeczenie w pierwszej instancji, jest właściwy również w postępowaniu dotyczącym wykonania tego orzeczenia, chyba że ustawa stanowi inaczej.
 
-§ 1a. (uchylony) § 2. W sprawach zastrzeżonych w niniejszym kodeksie dla sądu penitencjarnego właściwy jest ten sąd penitencjarny, w którego okręgu przebywa skazany, chyba że ustawa stanowi inaczej. Sądem penitencjarnym jest sąd okręgowy.
+§ 1a. (uchylony)
+
+§ 2. W sprawach zastrzeżonych w niniejszym kodeksie dla sądu penitencjarnego właściwy jest ten sąd penitencjarny, w którego okręgu przebywa skazany, chyba że ustawa stanowi inaczej. Sądem penitencjarnym jest sąd okręgowy.
 
 § 3. W stosunku do osób skazanych przez sąd wojskowy, w sprawach określonych w § 2, orzeka wojskowy sąd garnizonowy.
 
 § 3a. Na postanowienie w przedmiocie właściwości w postępowaniu wykonawczym zażalenie nie przysługuje.
 
-§ 4. (uchylony) § 5. (uchylony)
+§ 4. (uchylony)
+
+§ 5. (uchylony)
 
 #### Rozdział III Skazany
 
@@ -305,7 +321,9 @@ Art. 43zf. (uchylony)
 
 § 1. Organ wykonujący orzeczenie oraz każdy, kogo orzeczenie bezpośrednio dotyczy, może zwrócić się do sądu, który je wydał, o rozstrzygnięcie wątpliwości co do wykonania orzeczenia lub zarzutów co do obliczenia kary. Na postanowienie sądu przysługuje zażalenie.
 
-§ 2. (uchylony) § 3. Na postanowienie w przedmiocie określonym w § 1 zażalenie przysługuje również organowi określonemu w art. 2 pkt 5–10 oraz każdemu, kogo orzeczenie bezpośrednio dotyczy.
+§ 2. (uchylony)
+
+§ 3. Na postanowienie w przedmiocie określonym w § 1 zażalenie przysługuje również organowi określonemu w art. 2 pkt 5–10 oraz każdemu, kogo orzeczenie bezpośrednio dotyczy.
 
 **Art. 14.**
 
@@ -382,6 +400,13 @@ Art. 43zf. (uchylony)
 
 **Art. 18a.** W postępowaniu wykonawczym czynności zastrzeżone dla sądu lub sędziego mogą być wykonywane przez referendarza sądowego, z wyłączeniem:
 
+- **1)** spraw zastrzeżonych dla sądu penitencjarnego oraz sędziego penitencjarnego;
+- **2)** spraw dotyczących wykonania kary pozbawienia wolności;
+- **3)** zarządzania wykonania zastępczej kary pozbawienia wolności;
+- **4)** rozstrzygania wątpliwości co do wykonania orzeczenia sądu lub zarzutów co do obliczenia kary;
+- **5)** spraw, o których mowa w rozdziałach VI i XV–XX;
+- **6)** wydawania postanowień w sprawach, o których mowa w rozdziałach XII i XIII.
+
 **Art. 19.**
 
 § 1. Sąd orzeka na wniosek prokuratora, skazanego albo jego obrońcy oraz z urzędu, a jeżeli ustawa tak stanowi – na wniosek innych osób.
@@ -454,7 +479,9 @@ Art. 43zf. (uchylony)
 
 § 1. Egzekucję zasądzonych roszczeń cywilnych, orzeczonej grzywny, świadczenia pieniężnego oraz należności sądowych prowadzi się według przepisów Kodeksu postępowania cywilnego, jeżeli niniejsza ustawa nie stanowi inaczej.
 
-§ 2. (uchylony) § 3. W pierwszej kolejności podlegają zaspokojeniu zasądzone roszczenia cywilne mające na celu naprawienie szkody lub zadośćuczynienie za doznaną krzywdę, a następnie należności sądowe.
+§ 2. (uchylony)
+
+§ 3. W pierwszej kolejności podlegają zaspokojeniu zasądzone roszczenia cywilne mające na celu naprawienie szkody lub zadośćuczynienie za doznaną krzywdę, a następnie należności sądowe.
 
 **Art. 26.** Do tytułów egzekucyjnych mają zastosowanie przepisy art. 776– 795 Kodeksu postępowania cywilnego.
 
@@ -771,7 +798,11 @@ Art. 43zf. (uchylony)
 
 § 5. Oświadczenie o wyrażeniu zgody, o której mowa w § 3, może być również odebrane przez kuratora sądowego podczas czynności, o których mowa w § 4, a następnie niezwłocznie przekazane do sądu albo komisji penitencjarnej.
 
-§ 6. (uchylony) § 7. (uchylony) § 8. Cofnięcie zgody po wydaniu postanowienia sądu albo decyzji komisji penitencjarnej o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego jest nieskuteczne.
+§ 6. (uchylony)
+
+§ 7. (uchylony)
+
+§ 8. Cofnięcie zgody po wydaniu postanowienia sądu albo decyzji komisji penitencjarnej o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego jest nieskuteczne.
 
 **Art. 43i.**
 
@@ -800,9 +831,13 @@ Art. 43zf. (uchylony)
 
 § 2. Termin, o którym mowa w § 1 pkt 1, nie może być dłuższy niż 24 godziny od zwolnienia skazanego z zakładu karnego, a jeśli skazany przebywa na wolności, nie dłuższy niż 24 godziny od ogłoszenia lub doręczenia skazanemu postanowienia o rozpoczęciu dozoru elektronicznego. Jeżeli wobec skazanego przebywającego w zakładzie karnym orzeczono dozór mobilny lub zbliżeniowy, można wyznaczyć termin założenia nadajnika w okresie do 7 dni przed zakończeniem odbywania kary lub warunkowym przedterminowym zwolnieniem; w takim wypadku o terminie powiadamia się podmiot dozorujący i dyrektora zakładu karnego, a przepisu § 1 pkt 1 nie stosuje się.
 
-§ 3. (uchylony) § 4. Po ogłoszeniu lub przy doręczeniu postanowienia o rozpoczęciu dozoru elektronicznego albo postanowienia sądu albo decyzji komisji penitencjarnej o udzieleniu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego należy doręczyć skazanemu pisemne pouczenie o przysługujących mu prawach i ciążących na nim obowiązkach związanych z dozorem elektronicznym, jak również o konsekwencjach naruszenia tych obowiązków. Odpis postanowienia albo decyzji przesyła się niezwłocznie sądowemu kuratorowi zawodowemu i podmiotowi dozorującemu.
+§ 3. (uchylony)
 
-§ 5. (uchylony) § 6. Rozpoczęcie wykonywania dozoru elektronicznego następuje z dniem, w którym wobec skazanego uruchomiono środki techniczne niezbędne do wykonywania kary w tym systemie.
+§ 4. Po ogłoszeniu lub przy doręczeniu postanowienia o rozpoczęciu dozoru elektronicznego albo postanowienia sądu albo decyzji komisji penitencjarnej o udzieleniu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego należy doręczyć skazanemu pisemne pouczenie o przysługujących mu prawach i ciążących na nim obowiązkach związanych z dozorem elektronicznym, jak również o konsekwencjach naruszenia tych obowiązków. Odpis postanowienia albo decyzji przesyła się niezwłocznie sądowemu kuratorowi zawodowemu i podmiotowi dozorującemu.
+
+§ 5. (uchylony)
+
+§ 6. Rozpoczęcie wykonywania dozoru elektronicznego następuje z dniem, w którym wobec skazanego uruchomiono środki techniczne niezbędne do wykonywania kary w tym systemie.
 
 § 7. Jeżeli czas trwania dozoru elektronicznego jest określony, po rozpoczęciu wykonywania dozoru sąd zawiadamia skazanego i podmiot dozorujący o dacie jego zakończenia.
 
@@ -1053,7 +1088,9 @@ Art. 43zf. (uchylony)
 
 § 2. Od zastępczej kary pozbawienia wolności lub wykonywania pracy, o której mowa w art. 45 § 1, skazany może się w każdym czasie zwolnić przez złożenie kwoty pieniężnej przypadającej jeszcze do uiszczenia tytułem grzywny.
 
-§ 3. (uchylony) § 4. (uchylony)
+§ 3. (uchylony)
+
+§ 4. (uchylony)
 
 **Art. 48.** W posiedzeniu w przedmiocie zarządzenia wykonania zastępczej kary pozbawienia wolności ma prawo wziąć udział prokurator, skazany oraz jego obrońca, a gdy skazany pozostaje pod dozorem – również sądowy kurator zawodowy, osoba godna zaufania lub przedstawiciel stowarzyszenia, instytucji albo organizacji społecznej, o której mowa w art. 73 § 1 Kodeksu karnego.
 
@@ -1277,6 +1314,11 @@ Art. 43zf. (uchylony)
 
 **Art. 69.** Karę pozbawienia wolności wykonuje się, z zastrzeżeniem art. 87 § 4, w następujących rodzajach zakładów karnych:
 
+- **1)** zakładach karnych dla młodocianych;
+- **2)** zakładach karnych dla odbywających karę po raz pierwszy;
+- **3)** zakładach karnych dla recydywistów penitencjarnych;
+- **4)** zakładach karnych dla odbywających karę aresztu wojskowego.
+
 **Art. 70.**
 
 § 1. Zakłady karne wymienione w art. 69 mogą być organizowane jako:
@@ -1443,6 +1485,10 @@ Art. 43zf. (uchylony)
 
 **Art. 80a.** Początek wykonywania kary liczy się od dnia:
 
+- **1)** przyjęcia skazanego lub ukaranego, który zgłosił się do odbycia kary,
+- **2)** zatrzymania skazanego lub ukaranego, który został doprowadzony do odbycia kary,
+- **3)** wprowadzenia do wykonania orzeczenia w stosunku do osoby pozbawionej wolności – chyba że ustawa stanowi inaczej.
+
 **Art. 80b.**
 
 § 1. Organ powołany do wykonywania orzeczenia dokonuje obliczenia okresu wykonywania kary na zasadach określonych w niniejszym kodeksie.
@@ -1456,6 +1502,10 @@ Art. 43zf. (uchylony)
 § 5. Ten sam okres czasu nie może być zaliczony na poczet różnych kar.
 
 **Art. 81.** Karę pozbawienia wolności wykonuje się w systemie:
+
+- **1)** programowanego oddziaływania;
+- **2)** terapeutycznym;
+- **3)** zwykłym.
 
 **Art. 82.**
 
@@ -1541,7 +1591,15 @@ Art. 43zf. (uchylony)
 - **4)** skazanego stwarzającego poważne zagrożenie społeczne albo poważne zagrożenie dla bezpieczeństwa zakładu;
 - **5)** skazanego objętego ochroną na mocy art. 88d albo ustawy z dnia 25 czerwca 1997 r. o świadku koronnym (Dz. U. z 2016 r. poz. 1197).
 
-§ 4. (uchylony) § 5. (uchylony) § 5a. (uchylony) § 5b. (uchylony) § 6. W zakładzie karnym typu zamkniętego można także osadzić, ze względu na zagrożenie społeczne albo zagrożenie dla bezpieczeństwa zakładu:
+§ 4. (uchylony)
+
+§ 5. (uchylony)
+
+§ 5a. (uchylony)
+
+§ 5b. (uchylony)
+
+§ 6. W zakładzie karnym typu zamkniętego można także osadzić, ze względu na zagrożenie społeczne albo zagrożenie dla bezpieczeństwa zakładu:
 
 - **1)** skazanego za przestępstwo nieumyślne, odbywającego zastępczą karę pozbawienia wolności, osobę odbywającą karę aresztu oraz skazane kobiety, a także innych skazanych, których właściwości i warunki osobiste, sposób życia przed popełnieniem przestępstwa, zachowanie po dokonaniu przestępstwa, negatywna ocena postawy i zachowania w areszcie śledczym, względy bezpieczeństwa zakładu albo inne szczególne okoliczności wskazują, że należy wobec nich wykonywać karę w warunkach zwiększonej izolacji i zabezpieczenia;
 - **2)** skazanego, który podczas pobytu w areszcie śledczym lub zakładzie karnym naruszył w poważnym stopniu dyscyplinę i porządek;
@@ -1662,11 +1720,48 @@ Art. 43zf. (uchylony)
 
 **Art. 90.** W zakładzie karnym typu zamkniętego:
 
+- **1)** cele mieszkalne skazanych mogą być otwarte w porze dziennej przez określony czas, jeżeli względy bezpieczeństwa nie stoją temu na przeszkodzie;
+- **2)** skazani mogą być zatrudniani poza terenem zakładu karnego w pełnym systemie konwojowania;
+- **3)** zajęcia kulturalno-oświatowe i sportowe oraz nauczanie organizuje się w obrębie zakładu karnego;
+- **4)** ruch skazanych po terenie zakładu karnego odbywa się w sposób zorganizowany i pod dozorem;
+- **5)** skazani mogą korzystać z własnej bielizny i obuwia, a za zezwoleniem dyrektora zakładu karnego – także z odzieży;
+- **6)** skazani mogą korzystać z dwóch widzeń w miesiącu, a za zgodą dyrektora zakładu karnego wykorzystać je jednorazowo;
+- **7)** widzenia skazanych podlegają nadzorowi administracji zakładu karnego; rozmowy skazanych w trakcie widzeń mogą podlegać kontroli administracji zakładu karnego;
+- **8)** korespondencja skazanych podlega cenzurze administracji zakładu karnego, chyba że ustawa stanowi inaczej;
+- **9)** rozmowy telefoniczne skazanych lub rozmowy skazanych prowadzone za pomocą innych środków łączności podlegają kontroli administracji zakładu karnego, chyba że dyrektor zakładu karnego podejmie decyzję o odstąpieniu od kontroli; decyzję o odstąpieniu odnotowuje się w Centralnej Bazie Danych Osób Pozbawionych Wolności.
+
 **Art. 91.** W zakładzie karnym typu półotwartego:
+
+- **1)** cele mieszkalne skazanych pozostają otwarte w porze dziennej, natomiast w porze nocnej mogą być zamknięte;
+- **2)** skazani mogą być zatrudniani poza terenem zakładu karnego w systemie zmniejszonego konwojowania lub bez konwojenta, w tym również na pojedynczych stanowiskach pracy;
+- **3)** skazanym można zezwalać na uczestniczenie w nauczaniu, szkoleniu oraz w zajęciach terapeutycznych organizowanych poza terenem zakładu karnego;
+- **4)** skazanym można zezwalać na udział w organizowanych przez administrację zakładu karnego poza terenem zakładu karnego grupowych zajęciach kulturalno-oświatowych lub sportowych w obecności funkcjonariusza lub pracownika zakładu karnego; łączna liczba opuszczeń zakładu karnego w celu udziału w tych zajęciach dla jednego skazanego nie może przekroczyć 28 w ciągu roku;
+- **5)** skazani mogą poruszać się po terenie zakładu karnego w czasie i miejscach ustalonych w porządku wewnętrznym;
+- **6)** skazani mogą korzystać z własnej odzieży, bielizny i obuwia;
+- **7)** skazanym można udzielać przepustek z zakładu karnego, nie częściej niż raz na dwa miesiące, łącznie na okres nieprzekraczający 14 dni w roku;
+- **8)** skazani mogą korzystać z trzech widzeń w miesiącu, które za zgodą dyrektora zakładu karnego mogą być połączone;
+- **9)** widzenia skazanych podlegają nadzorowi administracji zakładu karnego; rozmowy skazanych w trakcie widzeń mogą podlegać kontroli administracji zakładu karnego;
+- **10)** korespondencja skazanych może podlegać cenzurze administracji zakładu karnego;
+- **11)** rozmowy telefoniczne skazanych lub rozmowy skazanych prowadzone za pomocą innych środków łączności mogą podlegać kontroli administracji zakładu karnego.
 
 **Art. 91a.** W zakładach karnych dla młodocianych typu zamkniętego i półotwartego skazani mają ponadto prawo do dodatkowego widzenia w miesiącu.
 
 **Art. 92.** W zakładzie karnym typu otwartego:
+
+- **1)** cele mieszkalne skazanych pozostają otwarte przez całą dobę;
+- **2)** skazanych zatrudnia się przede wszystkim poza terenem zakładu karnego, bez konwojenta, na pojedynczych stanowiskach pracy;
+- **3)** skazanym można zezwalać na uczestniczenie w nauczaniu, szkoleniu oraz zajęciach terapeutycznych organizowanych poza terenem zakładu karnego;
+- **4)** skazanym można zezwalać na udział w organizowanych przez administrację zakładu karnego poza terenem zakładu karnego zajęciach kulturalno-oświatowych lub sportowych oraz innych takich zajęciach i imprezach organizowanych poza terenem zakładu karnego; łączna liczba opuszczeń zakładu karnego w celu udziału w tych zajęciach i imprezach dla jednego skazanego nie może przekroczyć 56 w ciągu roku; sposób udziału w zajęciach i imprezach określa dyrektor zakładu karnego;
+- **5)** (uchylony)
+- **6)** skazani mogą poruszać się po terenie zakładu karnego w czasie i miejscach ustalonych w porządku wewnętrznym;
+- **7)** skazani mogą korzystać z własnej odzieży, bielizny i obuwia;
+- **8)** skazani mogą otrzymywać z depozytu zakładu karnego środki pieniężne pozostające do ich dyspozycji;
+- **9)** skazanym można udzielać przepustek z zakładu karnego, nie częściej niż raz w miesiącu, łącznie na okres nieprzekraczający 28 dni w roku;
+- **10)** skazany może korzystać z nieograniczonej liczby widzeń;
+- **11)** widzenia skazanych mogą podlegać nadzorowi administracji zakładu karnego; rozmowy skazanych w trakcie widzeń mogą podlegać kontroli administracji zakładu karnego;
+- **12)** skazanym, w miarę możliwości, stwarza się warunki do przygotowywania dodatkowych posiłków we własnym zakresie;
+- **13)** korespondencja skazanych może podlegać cenzurze administracji zakładu karnego;
+- **14)** rozmowy telefoniczne skazanych lub rozmowy skazanych prowadzone za pomocą innych środków łączności mogą podlegać kontroli administracji zakładu karnego.
 
 **Art. 93.** Do przepustek określonych w art. 91 pkt 7 i art. 92 pkt 9 stosuje się odpowiednio przepisy art. 139 § 1, 2, 5, 7 i 8 oraz art. 140.
 
@@ -1686,7 +1781,9 @@ Art. 43zf. (uchylony)
 
 § 1. W systemie terapeutycznym odbywają karę skazani z niepsychotycznymi zaburzeniami psychicznymi, w tym skazani za przestępstwo określone w art. 197–203 Kodeksu karnego, popełnione w związku z zaburzeniami preferencji seksualnych, upośledzeni umysłowo, a także uzależnieni od substancji psychoaktywnej oraz skazani niepełnosprawni fizycznie – wymagający oddziaływania specjalistycznego, zwłaszcza opieki psychologicznej, lekarskiej lub rehabilitacyjnej.
 
-§ 2. (uchylony) § 3. Jeżeli przemawiają za tym względy lecznicze i wychowawcze, w oddziale terapeutycznym mogą odbywać karę także inni skazani, za ich zgodą.
+§ 2. (uchylony)
+
+§ 3. Jeżeli przemawiają za tym względy lecznicze i wychowawcze, w oddziale terapeutycznym mogą odbywać karę także inni skazani, za ich zgodą.
 
 § 4. Karę pozbawienia wolności w systemie terapeutycznym wykonuje się przede wszystkim w oddziale terapeutycznym o określonej specjalizacji.
 
@@ -1728,6 +1825,18 @@ Art. 43zf. (uchylony)
 **Art. 101.** Skazanego po osadzeniu w zakładzie karnym należy bezzwłocznie poinformować o przysługujących mu prawach i ciążących na nim obowiązkach oraz o konsekwencjach wynikających z art. 139 § 1 Kodeksu postępowania karnego, a zwłaszcza umożliwić mu zapoznanie się z przepisami niniejszego kodeksu i regulaminu organizacyjno-porządkowego wykonywania kary pozbawienia wolności, oraz poddać odpowiednim badaniom lekarskim i zabiegom sanitarnym.
 
 **Art. 102.** Skazany ma prawo w szczególności do:
+
+- **1)** odpowiedniego ze względu na zachowanie zdrowia wyżywienia, odzieży, warunków bytowych, pomieszczeń oraz świadczeń zdrowotnych i odpowiednich warunków higieny;
+- **2)** utrzymywania więzi z rodziną i innymi osobami bliskimi;
+- **3)** korzystania z wolności religijnej;
+- **4)** otrzymywania związanego z zatrudnieniem wynagrodzenia oraz do ubezpieczenia społecznego w zakresie przewidzianym w odrębnych przepisach, a także pomocy w uzyskiwaniu świadczeń inwalidzkich;
+- **5)** kształcenia i samokształcenia oraz wykonywania twórczości własnej, a za zgodą dyrektora zakładu karnego do wytwarzania i zbywania wykonanych przedmiotów;
+- **6)** korzystania z urządzeń i zajęć kulturalno-oświatowych i sportowych, radia, telewizji, książek i prasy;
+- **7)** komunikowania się z obrońcą, pełnomocnikiem, właściwym kuratorem sądowym oraz wybranym przez siebie przedstawicielem, o którym mowa w art. 42;
+- **8)** komunikowania się z podmiotami, o których mowa w art. 38 § 1;
+- **9)** zapoznawania się z opiniami, sporządzonymi przez administrację zakładu karnego, stanowiącymi podstawę podejmowanych wobec niego decyzji;
+- **10)** składania wniosków, skarg i próśb organowi właściwemu do ich rozpatrzenia oraz przedstawiania ich, w nieobecności innych osób, administracji zakładu karnego, kierownikom jednostek organizacyjnych Służby Więziennej, sędziemu penitencjarnemu, prokuratorowi i Rzecznikowi Praw Obywatelskich;
+- **11)** prowadzenia korespondencji z organami ścigania, wymiaru sprawiedliwości i innymi organami państwowymi, organami samorządu terytorialnego, Rzecznikiem Praw Obywatelskich, Rzecznikiem Praw Dziecka oraz organami powołanymi na podstawie ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych dotyczących ochrony praw człowieka.
 
 **Art. 103.** Skazani mają prawo kierować skargi do organów powołanych na podstawie ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych dotyczących ochrony praw człowieka.
 
@@ -1791,7 +1900,9 @@ Art. 43zf. (uchylony)
 
 § 1a. W szczególnie uzasadnionych wypadkach, zwłaszcza gdy bezpośredni kontakt jest niemożliwy lub szczególnie utrudniony lub gdy wynika to z nagłej sytuacji życiowej, dyrektor zakładu karnego może udzielić zgody na skorzystanie z samoinkasującego aparatu telefonicznego do kontaktu z rodziną i innymi osobami bliskimi poza terminami ustalonymi w porządku wewnętrznym obowiązującym w zakładzie karnym.
 
-§ 2. (uchylony) § 3. W wypadkach zagrożenia porządku publicznego lub zagrożenia dla bezpieczeństwa zakładu dyrektor zakładu karnego może na czas określony pozbawić skazanego uprawnienia, o którym mowa w § 1.
+§ 2. (uchylony)
+
+§ 3. W wypadkach zagrożenia porządku publicznego lub zagrożenia dla bezpieczeństwa zakładu dyrektor zakładu karnego może na czas określony pozbawić skazanego uprawnienia, o którym mowa w § 1.
 
 § 4. Zapewnienie systemu służącego realizacji uprawnienia, o którym mowa w § 1, można powierzyć przywięziennemu zakładowi pracy wskazanemu przez Ministra Sprawiedliwości, w drodze decyzji, która podlega ogłoszeniu w Dzienniku Urzędowym Ministra Sprawiedliwości. W takim wypadku dla każdego zakładu karnego jest zawierana odrębna umowa podpisana przez dyrektora zakładu karnego z przywięziennym zakładem pracy.
 
@@ -2005,7 +2116,9 @@ Art. 43zf. (uchylony)
 
 § 6. W szczególnie uzasadnionych przypadkach, dyrektor zakładu karnego, po zasięgnięciu opinii lekarza zakładu karnego, może zezwolić skazanemu, na jego koszt, na leczenie przez wybranego przez niego innego lekarza, podmiotu innego niż określony w § 4, oraz na korzystanie z dodatkowych leków i innych wyrobów medycznych.
 
-§ 7. (uchylony) § 7a. Skazanemu, o którym mowa w art. 88 § 3 i 6 pkt 2, świadczenia zdrowotne udzielane są w obecności funkcjonariusza niewykonującego zawodu medycznego. Na wniosek osoby udzielającej świadczenia zdrowotnego świadczenia zdrowotne mogą być udzielane skazanemu bez obecności funkcjonariusza niewykonującego zawodu medycznego.
+§ 7. (uchylony)
+
+§ 7a. Skazanemu, o którym mowa w art. 88 § 3 i 6 pkt 2, świadczenia zdrowotne udzielane są w obecności funkcjonariusza niewykonującego zawodu medycznego. Na wniosek osoby udzielającej świadczenia zdrowotnego świadczenia zdrowotne mogą być udzielane skazanemu bez obecności funkcjonariusza niewykonującego zawodu medycznego.
 
 § 7b. Przepis § 7a stosuje się odpowiednio, w przypadku gdy świadczenie zdrowotne udzielane jest skazanemu odbywającemu karę pozbawienia wolności w zakładzie karnym typu zamkniętego poza terenem tego zakładu.
 
@@ -2037,9 +2150,29 @@ Art. 43zf. (uchylony)
 - **6)** poddania się czynnościom mającym na celu identyfikację osoby;
 - **7)** informowania o zmianie danych podanych przy przyjęciu, o których mowa w art. 79a § 1 zdanie pierwsze.
 
-§ 2. (uchylony) § 3. (uchylony) § 4. (uchylony) § 5. (uchylony) § 5a. (uchylony) § 6. (uchylony)
+§ 2. (uchylony)
+
+§ 3. (uchylony)
+
+§ 4. (uchylony)
+
+§ 5. (uchylony)
+
+§ 5a. (uchylony)
+
+§ 6. (uchylony)
 
 **Art. 116a.** Skazanemu nie wolno:
+
+- **1)** uczestniczyć w grupach organizowanych bez zgody lub wiedzy właściwego przełożonego;
+- **2)** posługiwać się wyrazami lub zwrotami powszechnie uznawanymi za wulgarne lub obelżywe albo gwarą przestępców;
+- **3)** uprawiać gier hazardowych;
+- **4)** używać substancji psychoaktywnej niezależnie od drogi podania;
+- **5)** odmawiać przyjmowania posiłków dostarczanych przez administrację zakładu karnego w celu wymuszenia określonej decyzji lub postępowania, a także powodować u siebie uszkodzenia ciała lub rozstroju zdrowia, jak również nakłaniać lub pomagać w dokonywaniu takich czynów;
+- **6)** wykonywać tatuaży i zezwalać na ich wykonywanie na sobie, jak również nakłaniać lub pomagać w dokonywaniu takich czynów;
+- **7)** porozumiewać się z osobami postronnymi oraz osadzonymi w innej celi, jeżeli naruszałoby to ustalony w zakładzie karnym porządek;
+- **8)** samowolnie zmieniać celi mieszkalnej, miejsca wyznaczonego do spania, stanowiska pracy i miejsca wykonywania zleconej czynności;
+- **9)** zmieniać wyglądu zewnętrznego w sposób utrudniający identyfikację, w szczególności poprzez zgolenie lub zapuszczenie przez skazanego włosów, brody lub wąsów albo zmianę ich koloru, chyba że uzyska na to zgodę dyrektora zakładu karnego.
 
 **Art. 116b.**
 
@@ -2238,7 +2371,9 @@ Art. 43zf. (uchylony)
 
 § 1. Rada Ministrów może określać, w drodze rozporządzenia, zasady i tryb powierzania podmiotom gospodarczym, instytucjom lub organizacjom wykonywania określonych zadań w zakresie zatrudnienia i nauczania skazanych oraz opieki postpenitencjarnej.
 
-§ 2. (uchylony) § 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowe zasady zatrudniania skazanych, z uwzględnieniem rodzajów zatrudnienia, zasad wynagradzania skazanych zatrudnionych odpłatnie na podstawie skierowania do pracy, udzielania skazanym zwolnień od pracy lub urlopów wypoczynkowych, przyczyn i sposobów usprawiedliwiania niewykonywania pracy oraz dokumentowania zatrudnienia.
+§ 2. (uchylony)
+
+§ 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowe zasady zatrudniania skazanych, z uwzględnieniem rodzajów zatrudnienia, zasad wynagradzania skazanych zatrudnionych odpłatnie na podstawie skierowania do pracy, udzielania skazanym zwolnień od pracy lub urlopów wypoczynkowych, przyczyn i sposobów usprawiedliwiania niewykonywania pracy oraz dokumentowania zatrudnienia.
 
 ##### Oddział 6 Nauczanie
 
@@ -2265,6 +2400,14 @@ Art. 43zf. (uchylony)
 § 3. Przepisu § 2 nie stosuje się do skazanych na karę dożywotniego pozbawienia wolności.
 
 **Art. 131a.** Komisja penitencjarna pozbawia możliwości nauczania w zakresie nieobjętym nauczaniem obowiązkowym w przypadkach:
+
+- **1)** zachowań zagrażających bezpieczeństwu zakładu;
+- **2)** odmowy uczęszczania do szkoły;
+- **3)** stwierdzonych w opinii psychologicznej przeciwwskazań uniemożliwiających spełnienie przez osadzonego wymagań edukacyjnych;
+- **4)** przerwy w nauce dłuższej niż 50 % czasu przewidzianego na realizację zajęć w semestrze, wynikającej z przewozu na polecenie sądu, prokuratury lub innych uprawnionych organów;
+- **5)** przerwy w nauce dłuższej niż 50 % czasu przewidzianego na realizację zajęć w semestrze, wynikającej z niepowrotu z czasowego zezwolenia na opuszczenie zakładu;
+- **6)** pogorszenia stanu zdrowia osadzonego wykluczającego możliwość uczestniczenia w nauczaniu;
+- **7)** nieuzyskania promocji na wyższy semestr i braku możliwości powtarzania semestru.
 
 **Art. 132.** Praca w warsztatach szkolnych i praktyczna nauka zawodu jest obowiązkowa, jeżeli wynika z programu nauczania. Praktyczna nauka zawodu może być połączona z pracą produkcyjną, jeżeli jest to zgodne z tym programem.
 
@@ -2359,7 +2502,9 @@ Art. 43zf. (uchylony)
 
 § 1. W wypadkach szczególnie uzasadnionych warunkami rodzinnymi lub osobistymi skazanego nagrody wymienione w art. 138 § 1 pkt 1, 2, 12, 15 i 16 mogą być stosowane jako ulgi.
 
-§ 2. (uchylony) § 3. Ulgi przyznaje dyrektor zakładu karnego lub osoba przez niego upoważniona na prośbę skazanego lub osoby najbliższej albo na wniosek przełożonego skazanego.
+§ 2. (uchylony)
+
+§ 3. Ulgi przyznaje dyrektor zakładu karnego lub osoba przez niego upoważniona na prośbę skazanego lub osoby najbliższej albo na wniosek przełożonego skazanego.
 
 § 4. (uchylony)
 
@@ -2367,7 +2512,9 @@ Art. 43zf. (uchylony)
 
 § 1. Dyrektor zakładu karnego może udzielić skazanemu zezwolenia na opuszczenie zakładu karnego pod konwojem funkcjonariusza Służby Więziennej, w asyście osoby godnej zaufania lub samodzielnie, na czas nieprzekraczający 5 dni, w celu odwiedzenia poważnie chorego członka rodziny, uczestnictwa w pogrzebie członka rodziny oraz w innych wypadkach szczególnie ważnych dla skazanego.
 
-§ 2. (uchylony) § 3. Udzielenie zezwolenia, o którym mowa w § 1, tymczasowo aresztowanemu mającemu prawa i obowiązki skazanego odbywającego karę pozbawienia wolności wymaga wydania zarządzenia o zgodzie przez organ, do którego dyspozycji tymczasowo aresztowany pozostaje.
+§ 2. (uchylony)
+
+§ 3. Udzielenie zezwolenia, o którym mowa w § 1, tymczasowo aresztowanemu mającemu prawa i obowiązki skazanego odbywającego karę pozbawienia wolności wymaga wydania zarządzenia o zgodzie przez organ, do którego dyspozycji tymczasowo aresztowany pozostaje.
 
 § 4. Przepis art. 139 § 8 stosuje się odpowiednio.
 
@@ -2494,7 +2641,9 @@ Art. 43zf. (uchylony)
 
 § 3. Nie można udzielić przerwy przed upływem roku od dnia ukończenia poprzedniej przerwy i powrotu po niej do zakładu karnego, chyba że zachodzi wypadek choroby psychicznej lub innej ciężkiej choroby skazanego albo inny wypadek losowy.
 
-§ 4. (uchylony) § 5. Sądem penitencjarnym właściwym miejscowo do udzielenia dalszych przerw jest sąd, który udzielił pierwszej przerwy. Jest on również właściwy do orzeczenia przerwy, o której mowa w § 3, jeżeli skazany nadal przebywa na wolności.
+§ 4. (uchylony)
+
+§ 5. Sądem penitencjarnym właściwym miejscowo do udzielenia dalszych przerw jest sąd, który udzielił pierwszej przerwy. Jest on również właściwy do orzeczenia przerwy, o której mowa w § 3, jeżeli skazany nadal przebywa na wolności.
 
 **Art. 153a.**
 
@@ -2839,6 +2988,15 @@ Art. 43zf. (uchylony)
 
 **Art. 174.** Do zakresu działania sądowego kuratora społecznego należy w szczególności:
 
+- **1)** odwiedzanie osób, których dotyczy postępowanie, w miejscu ich zamieszkania lub pobytu, w tym również w zakładach karnych, oraz kontaktowanie się z ich rodziną;
+- **2)** żądanie niezbędnych informacji i wyjaśnień od osób znajdujących się w okresie próby, objętych dozorem lub tych, na które nałożono obowiązki;
+- **3)** współdziałanie z właściwymi stowarzyszeniami, organizacjami i instytucjami w zakresie poprawy warunków bytowych i zdrowotnych, zatrudnienia i szkolenia osób, których dotyczy postępowanie wykonawcze;
+- **4)** współdziałanie z administracją zakładów karnych w zakresie odpowiedniego przygotowania skazanych do zwolnienia;
+- **5)** przeglądanie akt sądowych i sporządzanie z nich odpisów w związku z wykonywaniem czynności zleconych przez sąd;
+- **6)** przeprowadzanie wywiadów środowiskowych i zbieranie niezbędnych informacji od organów administracji rządowej, samorządu terytorialnego, zakładów pracy, stowarzyszeń, organizacji i instytucji;
+- **7)** podejmowanie innych czynności niezbędnych do prawidłowego wykonywania kar, środków karnych, środków zabezpieczających i kompensacyjnych oraz przepadku, jak też kontrola wykonywania środków kompensacyjnych;
+- **8)** udzielanie skazanym innej stosownej pomocy.
+
 **Art. 175.**
 
 § 1. Stowarzyszenia, organizacje i instytucje, którym powierzono sprawowanie dozoru, obowiązane są w szczególności do:
@@ -2890,6 +3048,11 @@ Art. 43zf. (uchylony)
 ##### Oddział 1 Pozbawienie praw publicznych
 
 **Art. 179.** W razie orzeczenia pozbawienia praw publicznych sąd zawiadamia:
+
+- **1)** właściwy dla miejsca ostatniego zamieszkania lub pobytu skazanego odpowiedni organ administracji publicznej;
+- **2)** Kancelarię Prezydenta Rzeczypospolitej Polskiej, jeżeli skazany ma order, odznaczenie lub tytuł honorowy;
+- **3)** organy i instytucje, w których skazany pełnił ostatnio funkcje objęte utratą;
+- **4)** organ właściwy w sprawach obowiązku obrony Ojczyzny, w którego ewidencji skazany figuruje.
 
 **Art. 179a.** Na postanowienie wydane na podstawie art. 84 § 1 Kodeksu karnego w przedmiocie uznania pozbawienia praw publicznych za wykonane przysługuje zażalenie.
 
@@ -3109,15 +3272,25 @@ Art. 43zf. (uchylony)
 - **2)** wzmocnionego zabezpieczenia;
 - **3)** maksymalnego zabezpieczenia.
 
-§ 3. (uchylony) § 3a. Zakłady psychiatryczne wykonujące środek zabezpieczający w postaci umieszczenia w zakładzie psychiatrycznym wobec sprawców określonych w art. 93c pkt 3 Kodeksu karnego, organizowane są jako zakłady dysponujące warunkami wzmocnionego zabezpieczenia.
+§ 3. (uchylony)
+
+§ 3a. Zakłady psychiatryczne wykonujące środek zabezpieczający w postaci umieszczenia w zakładzie psychiatrycznym wobec sprawców określonych w art. 93c pkt 3 Kodeksu karnego, organizowane są jako zakłady dysponujące warunkami wzmocnionego zabezpieczenia.
 
 § 3b. Środek zabezpieczający w postaci terapii orzeczonej wobec sprawcy określonego w art. 93c pkt 3 Kodeksu karnego wykonuje się w podmiotach leczniczych.
 
-§ 4. (uchylony) § 5. Zakłady, o których mowa w § 2 pkt 3, podlegają ministrowi właściwemu do spraw zdrowia.
+§ 4. (uchylony)
+
+§ 5. Zakłady, o których mowa w § 2 pkt 3, podlegają ministrowi właściwemu do spraw zdrowia.
 
 **Art. 200a.** Do zakładu psychiatrycznego dysponującego warunkami maksymalnego zabezpieczenia kieruje się sprawcę, jeżeli:
 
+- **1)** jego powtarzające się zachowania zagrażające życiu lub zdrowiu innych osób lub powodujące niszczenie przedmiotów znacznej wartości nie mogą być opanowane w zamkniętym zakładzie psychiatrycznym dysponującym warunkami wzmocnionego zabezpieczenia;
+- **2)** nie jest możliwe zapobieżenie samowolnemu oddaleniu się z zamkniętego zakładu psychiatrycznego dysponującego wzmocnionymi warunkami zabezpieczenia sprawcy, stwarzającego znaczne zagrożenie poza zakładem.
+
 **Art. 200b.** Do zakładu psychiatrycznego dysponującego warunkami wzmocnionego zabezpieczenia kieruje się sprawcę, jeżeli:
+
+- **1)** jego zachowania zagrażające życiu lub zdrowiu innych osób lub powodujące niszczenie przedmiotów znacznej wartości nie mogą być opanowane w zakładzie psychiatrycznym, dysponującym warunkami podstawowego zabezpieczenia;
+- **2)** nie jest możliwe zapobieżenie samowolnemu oddaleniu się z zakładu psychiatrycznego, dysponującego warunkami podstawowego zabezpieczenia sprawcy, stwarzającego zagrożenie poza zakładem.
 
 **Art. 200c.** Do zakładu psychiatrycznego dysponującego warunkami podstawowego zabezpieczenia kieruje się sprawcę, który nie kwalifikuje się do zakładu psychiatrycznego, o którym mowa w art. 200a oraz w art. 200b.
 
@@ -3134,9 +3307,15 @@ Art. 43zf. (uchylony)
 
 § 2. Wykonując orzeczenie o zastosowaniu środka zabezpieczającego związanego z umieszczeniem w zakładzie psychiatrycznym, o którym mowa w art. 200 § 1, sąd, po zasięgnięciu opinii komisji psychiatrycznej do spraw środków zabezpieczających, określa rodzaj tego zakładu i przesyła odpis orzeczenia wraz z poleceniem doprowadzenia sprawcy właściwej ze względu na miejsce pobytu sprawcy jednostce Policji lub właściwemu organowi wojskowemu, a odpis orzeczenia oraz polecenie doprowadzenia wraz z poleceniem przyjęcia – kierownikowi wskazanego zakładu. Kierownik wskazanego zakładu psychiatrycznego zapewnia transport sanitarny odpowiadający wymaganiom określonym dla zespołu ratownictwa medycznego, po powiadomieniu go przez właściwą jednostkę Policji lub właściwy organ wojskowy o miejscu, dniu oraz godzinie planowanego transportu.
 
-§ 2a. (uchylony) § 2b. W wypadku skierowania sprawcy na terapię lub terapię uzależnień sąd przesyła odpis orzeczenia kierownikowi podmiotu leczniczego.
+§ 2a. (uchylony)
 
-§ 2c. (uchylony) § 2d. (uchylony) § 3. Jeżeli sprawca przebywa w zakładzie karnym albo w areszcie śledczym, polecenie doprowadzenia sąd przesyła dyrektorowi tego zakładu lub aresztu, załączając odpis orzeczenia.
+§ 2b. W wypadku skierowania sprawcy na terapię lub terapię uzależnień sąd przesyła odpis orzeczenia kierownikowi podmiotu leczniczego.
+
+§ 2c. (uchylony)
+
+§ 2d. (uchylony)
+
+§ 3. Jeżeli sprawca przebywa w zakładzie karnym albo w areszcie śledczym, polecenie doprowadzenia sąd przesyła dyrektorowi tego zakładu lub aresztu, załączając odpis orzeczenia.
 
 § 3a. Za sporządzenie opinii określonej w § 2 członkom komisji przysługuje wynagrodzenie oraz zwrot poniesionych przez nich niezbędnych wydatków na zasadach określonych w art. 618f Kodeksu postępowania karnego. Członkowie komisji mają prawo do zwrotu kosztów przejazdu na posiedzenia komisji na zasadach określonych w przepisach dotyczących podróży służbowych na terenie kraju.
 
@@ -3287,7 +3466,9 @@ Art. 43zf. (uchylony)
 
 § 5. Administracja aresztu śledczego jest obowiązana udzielić zwalnianemu pomocy w udaniu się do miejsca zameldowania lub miejsca zamieszkania albo do podmiotu leczniczego.
 
-§ 6. (uchylony) § 7. (uchylony)
+§ 6. (uchylony)
+
+§ 7. (uchylony)
 
 **Art. 212.**
 
@@ -3314,7 +3495,9 @@ Art. 43zf. (uchylony)
 
 § 3. Przy kwalifikowaniu tymczasowo aresztowanego jako stwarzającego poważne zagrożenie społeczne albo poważne zagrożenie dla bezpieczeństwa aresztu stosuje się odpowiednio przepisy art. 88a § 1 i 2.
 
-§ 4. (uchylony) § 5. Tymczasowo aresztowanego objętego ochroną na mocy ustawy z dnia 25 czerwca 1997 r. o świadku koronnym można osadzić, za jego zgodą, w oddziale lub celi, o których mowa w art. 88a § 3.
+§ 4. (uchylony)
+
+§ 5. Tymczasowo aresztowanego objętego ochroną na mocy ustawy z dnia 25 czerwca 1997 r. o świadku koronnym można osadzić, za jego zgodą, w oddziale lub celi, o których mowa w art. 88a § 3.
 
 § 6. (uchylony)
 
@@ -3839,6 +4022,10 @@ Art. 43zf. (uchylony)
 
 **Art. 233.** Oddzielnie rozmieszcza się następujących skazanych:
 
+- **1)** oficerów;
+- **2)** podoficerów zawodowych, służby nadterminowej i okresowej;
+- **3)** pozostałych.
+
 **Art. 234.**
 
 § 1. Skazany odbywający karę aresztu wojskowego może otrzymywać nagrody przewidziane w art. 138 § 1, z tym że czas widzenia określonego w art. 138 § 1 pkt 7 nie może przekroczyć 60 godzin.
@@ -3907,13 +4094,17 @@ Art. 43zf. (uchylony)
 
 § 8. Przez pojęcie zatrzymania korespondencji rozumie się nieprzekazanie jej adresatowi i dołączenie do akt osobowych skazanego.
 
-§ 8a. Użyte w niniejszym kodeksie określenie „korespondencja urzędowa” oznacza korespondencję z organami i przedstawicielem, o których mowa w art. 8a § 3.
+§ 8a. Użyte w niniejszym kodeksie określenie „korespondencja urzędowa” oznacza korespondencję z organami i przedstawicielem, o których mowa w art. 8a
+
+§ 3
 
 § 9. Przez pojęcie nadzoru nad widzeniem rozumie się zapewnienie porządku w czasie jego trwania.
 
 § 10. Przez pojęcie kontroli rozmowy w trakcie widzenia, rozmowy telefonicznej lub rozmowy za pomocą innych środków łączności rozumie się zapoznawanie się z jej treścią oraz możliwość jej przerwania lub utrwalenia.
 
-§ 11. (uchylony) § 11a. Użyte w niniejszym kodeksie określenie „osoba kontrolowana” oznacza skazanego lub tymczasowo aresztowanego, który:
+§ 11. (uchylony)
+
+§ 11a. Użyte w niniejszym kodeksie określenie „osoba kontrolowana” oznacza skazanego lub tymczasowo aresztowanego, który:
 
 - **1)** jest poddany kontroli pobieżnej lub kontroli osobistej;
 - **2)** przebywa w kontrolowanych celach i pomieszczeniach;
@@ -4001,6 +4192,16 @@ Art. 43zf. (uchylony)
 - **8)** (uchylony)
 
 **Art. 249a.** Dyrektor Generalny Służby Więziennej, w drodze zarządzenia, określi:
+
+- **1)** organizację ochrony przeciwpożarowej i zabezpieczenia przeciwpożarowego w jednostkach organizacyjnych Służby Więziennej;
+- **2)** szczegółowe zasady prowadzenia i organizacji pracy penitencjarnej oraz zakresy czynności funkcjonariuszy i pracowników działów penitencjarnych i terapeutycznych oraz oddziałów penitencjarnych;
+- **3)** organizację służby zdrowia w jednostkach organizacyjnych Służby Więziennej;
+- **4)** sposób prowadzenia akt ewidencyjnych, w tym wzór tych akt oraz wzory innych dokumentów i druków ewidencyjnych;
+- **5)** dopuszczalną ilość i wymiary rzeczy, w tym żywności, znajdujących się w posiadaniu skazanego w trakcie pobytu w zakładzie karnym oraz sposób postępowania z przedmiotami i żywnością, których wymiary lub ilość naruszają obowiązujący porządek lub utrudniają konwojowanie;
+- **6)** sposoby ochrony jednostek organizacyjnych Służby Więziennej;
+- **7)** sposoby ochrony i konwojowania skazanych oraz tymczasowo aresztowanych;
+- **8)** zadania ochronne funkcjonariuszy i pracowników Służby Więziennej oraz pracowników przywięziennych zakładów pracy;
+- **9)** wyposażenie i system zabezpieczeń pomieszczeń, w których realizowane są czynności służbowe w bezpośrednim kontakcie ze skazanym.
 
 **Art. 250.** (uchylony)
 

@@ -8,7 +8,7 @@ pos: 1551
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie Dla uczczenia jubileuszu stulecia odrodzenia się niepodległej Rzeczypospolitej, aby przywrócić historyczny kształt reprezentacyjnej przestrzeni Placu Marszałka Józefa Piłsudskiego w Warszawie zniszczonej w czasie II wojny światowej, dla zadośćuczynienia woli Polaków i umocnienia jedności wspólnoty obywatelskiej, której symbolem będą odbudowane pałace Saski i Brühla wraz z zespołem kamienic przy ulicy Królewskiej, a także, by dopełnić dzieła odbudowy stolicy, zniszczonej i zburzonej przez niemieckich okupantów, aby te gmachy i budowle, które przed stu laty dumnie wyrażały suwerenność państwa polskiego, służyły Polakom zarówno współcześnie, jak i w kolejnych pokoleniach i były widomym znakiem ciągłości naszych dziejów, a zarazem świadectwem silnej i nowoczesnej Rzeczypospolitej, uchwala się, co następuje:
@@ -33,7 +33,21 @@ Art. 52–57. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady przygotowania i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie;
+- **2)** organy właściwe w sprawach przygotowania i realizacji inwestycji, o których mowa w pkt 1;
+- **3)** źródła finansowania inwestycji, o których mowa w pkt 1.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** inwestycje w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie – roboty budowlane, dostawy i usługi, związane z przygotowaniem i realizacją:
+    - **a)** odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic w Warszawie przy ulicy Królewskiej 6, 8 i 10/12 według zewnętrznego kształtu architektonicznego, jaki obiekty te miały na dzień 31 sierpnia 1939 r.,
+    - **b)** budowy lub przebudowy uzbrojenia terenu, budowy parkingów podziemnych, budowy lub przebudowy dróg publicznych, budowy dróg wewnętrznych i ciągów pieszych oraz budowy innych instalacji, urządzeń i obiektów niezbędnych do: – odbudowania i funkcjonowania Pałacu Saskiego, Pałacu Brühla oraz kamienic, o których mowa w lit. a, – zabezpieczenia terenu inwestycji przed zniszczeniem lub uszkodzeniem, – zapewnienia porządku na terenie inwestycji;
+
+- **2)** kataster nieruchomości – kataster w rozumieniu ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i
+- **1762)** ;
+- **3)** nieruchomość o nieuregulowanym stanie prawnym – nieruchomość, dla której, ze względu na brak księgi wieczystej, zbioru dokumentów albo innych dokumentów, nie można ustalić osób, którym przysługują do niej prawa rzeczowe lub nieruchomość, której dotychczasowy właściciel lub użytkownik wieczysty nie żyje, a spadkobiercy nie wykazali prawa do spadku;
+- **4)** roboty budowlane, dostawy i usługi – roboty budowlane w rozumieniu art. 7 pkt 21 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720), dostawy w rozumieniu art. 7 pkt 4 tej ustawy i usługi w rozumieniu art. 7 pkt 28 tej ustawy;
+- **5)** uzbrojenie terenu – urządzenia infrastruktury technicznej, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm. ).
 
 **Art. 3.**
 
@@ -70,7 +84,7 @@ Art. 52–57. (pominięte)
 3. Kandydatów na członków Rady zgłasza:
 
 - **1)** Prezydent Rzeczypospolitej Polskiej – 1 osobę;
-- **2)** Marszałek Rzeczypospolitej Polskiej – 1 osobę;
+- **2)** Marszałek Sejmu Rzeczypospolitej Polskiej – 1 osobę;
 - **3)** Marszałek Senatu Rzeczypospolitej Polskiej – 1 osobę;
 - **4)** Prezes Rady Ministrów – 1 osobę;
 - **5)** minister właściwy do spraw kultury i ochrony dziedzictwa narodowego – 2 osoby;
@@ -323,7 +337,27 @@ Art. 52–57. (pominięte)
 
 **Art. 20.** W postępowaniu o wydanie decyzji o ustaleniu lokalizacji inwestycji:
 
+- **1)** przepisu art. 31 § 4 Kodeksu postępowania administracyjnego nie stosuje się;
+- **2)** w przypadkach określonych w art. 97 § 1 pkt 1–3a Kodeksu postępowania administracyjnego nie zawiesza się postępowania;
+- **3)** przepisów art. 30 § 5 i art. 34 Kodeksu postępowania administracyjnego nie stosuje się; w przypadkach określonych w tych przepisach Wojewoda Mazowiecki wyznacza z urzędu przedstawiciela uprawnionego do działania w postępowaniu, jeżeli jest to konieczne dla przeprowadzenia postępowania.
+
 **Art. 21.** Decyzja o ustaleniu lokalizacji inwestycji zawiera:
+
+- **1)** określenie granic terenu objętego inwestycją, w tym określenie:
+    - **a)** linii rozgraniczających teren inwestycji,
+    - **b)** granic obszaru, w stosunku do którego decyzja o ustaleniu lokalizacji inwestycji ma wywołać skutek, o którym mowa w art. 37 ust. 3,
+    - **c)** granic obszaru, w stosunku do którego decyzja o ustaleniu lokalizacji inwestycji ma wywołać skutek, o którym mowa w art. 42 ust. 1;
+
+- **2)** warunki techniczne realizacji inwestycji;
+- **3)** warunki wynikające z potrzeb ochrony środowiska, ochrony przeciwpożarowej oraz ochrony zabytków i dóbr kultury;
+- **4)** wymagania dotyczące ochrony uzasadnionych interesów osób trzecich;
+- **5)** zatwierdzenie podziału nieruchomości, o którym mowa w art. 37 ust. 1;
+- **6)** oznaczenie nieruchomości, w stosunku do których decyzja o ustaleniu lokalizacji inwestycji ma wywołać skutek, o którym mowa w art. 37 ust. 3;
+- **7)** oznaczenie nieruchomości, w stosunku do których decyzja o ustaleniu lokalizacji inwestycji ma wywołać skutek, o którym mowa w art. 42 ust. 1, w tym gruntów stanowiących pas drogowy, jeżeli inwestycja wymaga przejścia przez te grunty lub wymaga budowy lub przebudowy zjazdów na tych gruntach; w przypadku gdy inwestycja wymaga budowy zjazdów, decyzja o ustaleniu lokalizacji inwestycji określa także lokalizację i parametry techniczne zjazdu, a gdy wymaga przebudowy zjazdów – ich parametry techniczne;
+- **8)** wskazanie podmiotów innych niż Spółka Celowa, na rzecz których ograniczenie sposobu korzystania z nieruchomości ma nastąpić zgodnie z art. 42 ust. 2;
+- **9)** wskazanie okresu, w jakim decyzja o ustaleniu lokalizacji inwestycji ma wywoływać skutek, o którym mowa w art. 42 ust. 1, w przypadku gdy ograniczenie sposobu korzystania z nieruchomości ma nastąpić na czas określony;
+- **10)** termin wydania nieruchomości lub opróżnienia lokali i innych pomieszczeń;
+- **11)** warunki i wymagania wynikające z potrzeb obronności i bezpieczeństwa państwa.
 
 **Art. 22.** Nieuregulowany stan prawny nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji nie stanowi przeszkody do wszczęcia i prowadzenia postępowania o wydanie decyzji o ustaleniu lokalizacji inwestycji, jej wydania i doręczenia oraz zawiadomienia o jej wydaniu.
 

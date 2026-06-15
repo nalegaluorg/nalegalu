@@ -8,7 +8,7 @@ pos: 1196
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o restrukturyzacji hutnictwa żelaza i stali
@@ -33,6 +33,13 @@ Art. 14–19. (utraciły moc)
 
 **Art. 1.** Ustawa określa zasady wspierania restrukturyzacji hutnictwa żelaza i stali, zwanej dalej „restrukturyzacją”, w tym zasady:
 
+- **1)** restrukturyzacji finansowej hut;
+- **2)** aktywizacji zawodowej pracowników na rynku pracy;
+- **3)** restrukturyzacji organizacyjnej hut;
+- **4)** restrukturyzacji majątkowej hut;
+- **5)** gospodarowania mieniem;
+- **6)** sprawowania nadzoru nad realizacją restrukturyzacji.
+
 **Art. 1a.**
 
 1. Przepisy ustawy, z zastrzeżeniem ust. 2, stosuje się do hut, którym udzielenie pomocy publicznej na restrukturyzację, w rozumieniu przepisów o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców, jest dopuszczalne.
@@ -44,7 +51,14 @@ Art. 14–19. (utraciły moc)
 
 **Art. 1b.** Ilekroć w ustawie jest mowa o:
 
+- **1)** hucie – należy przez to rozumieć przedsiębiorcę wykonującego działalność w zakresie produkcji żeliwa i stali oraz stopów żelaza, produkcji rur stalowych, przewodów rurowych i profili drążonych oraz obróbki wstępnej żeliwa i stali, z wyjątkiem produkcji konstrukcji stalowych, odlewów i wyrobów kutych;
+- **2)** spółce zależnej – należy przez to rozumieć spółkę, w której akcje lub udziały huty, której udzielenie pomocy publicznej na restrukturyzację jest dopuszczalne, w rozumieniu przepisów wymienionych w art. 1a ust. 1, przekraczają pośrednio lub bezpośrednio 50% wartości kapitału zakładowego, wykonującą na rzecz tej huty działalność serwisową, usługową lub przetwórczą, mającą wpływ na jej produktywność.
+
 **Art. 2.** Minister właściwy do spraw gospodarki ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wykazy:
+
+- **1)** hut, którym udzielenie pomocy publicznej na restrukturyzację jest dopuszczalne;
+- **2)** hut, którym udzielenie pomocy publicznej na restrukturyzację jest niedopuszczalne;
+- **3)** spółek zależnych.
 
 #### Rozdział 2 Restrukturyzacja finansowa hut
 
@@ -162,6 +176,10 @@ Art. 14–19. (utraciły moc)
 
 **Art. 11.** Zobowiązania huty albo PHS S.A. wobec Polskich Kolei Państwowych S.A. podlegają restrukturyzacji w szczególności poprzez:
 
+- **1)** ich sprzedaż, za zgodą ministra właściwego do spraw transportu, po zasięgnięciu opinii ministra właściwego do spraw gospodarki;
+- **2)** zamianę ich na akcje huty albo PHS S.A.;
+- **3)** zawieszenie ich spłaty i rozłożenie jej na raty.
+
 **Art. 12.**
 
 1. Jeżeli do dnia wejścia w życie ustawy huta zawarła z wierzycielem porozumienie lub umowę w sprawie restrukturyzacji zadłużenia z tytułu zobowiązań, o których mowa w art. 3 ust. 1 i 2, huta może dokonać wyboru pomiędzy restrukturyzacją finansową prowadzoną na zasadach określonych w ustawie a wykonaniem postanowień zawartego porozumienia albo umowy. O wyborze prowadzenia restrukturyzacji, w terminie 30 dni od dnia dokonania wyboru, huta zawiadamia wierzyciela.
@@ -231,6 +249,8 @@ Art. 14–19. (utraciły moc)
 
 **Art. 24.** Minister właściwy do spraw Skarbu Państwa może powierzyć zarządzanie PHS S.A. podmiotowi wyłonionemu w drodze przetargu nieograniczonego, w trybie ustawy z dnia 10 czerwca 1994 r. o zamówieniach publicznych (Dz. U. z 2002 r. poz. 664, 984 i 1661 oraz z 2003 r. poz. 16, 1188 i
 
+- **1591)** .
+
 **Art. 25.**
 
 1. Minister właściwy do spraw Skarbu Państwa może dokonać połączenia z PHS S.A. przedsiębiorstwa państwowego lub jednostki badawczorozwojowej , prowadzących działalność w zakresie hutnictwa żelaza i stali, za ich zgodą i zgodą PHS S.A.
@@ -290,6 +310,14 @@ Art. 14–19. (utraciły moc)
 3. Zrzeczenia, o którym mowa w ust. 1 pkt 2, dokonuje się na podstawie protokołu zdawczo-odbiorczego.
 
 **Art. 34.** Agencja samodzielnie gospodaruje mieniem, o którym mowa w art. 33 ust. 1, a w szczególności:
+
+- **1)** prowadzi ewidencję mienia;
+- **2)** zabezpiecza mienie przed dewastacją;
+- **3)** zapewnia wycenę nieruchomości i mienia ruchomego;
+- **4)** zbywa nieruchomości oraz mienie ruchome, a także ustanawia ograniczone prawa rzeczowe;
+- **5)** wydzierżawia, wynajmuje lub użycza posiadane mienie;
+- **6)** likwiduje części składowe nieruchomości, dokonuje rekultywacji gruntów;
+- **7)** podejmuje czynności w postępowaniu sądowym w sprawach o wpis w księdze wieczystej lub założenie księgi wieczystej.
 
 **Art. 35.** Sprzedaż albo zbycie prawa użytkowania wieczystego nieruchomości, o których mowa w art. 33 ust. 1, następuje w drodze przetargu, na zasadach określonych w przepisach o gospodarce nieruchomościami.
 

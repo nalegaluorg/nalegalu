@@ -8,7 +8,7 @@ pos: 80
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o scalaniu i wymianie gruntów
@@ -369,6 +369,12 @@ source: "isap-pdf"
 
 **Art. 31.** Starosta zawiadamia o miejscu i terminie:
 
+- **1)** zebrań uczestników scalenia,
+- **2)** wyłożenia do publicznego wglądu wyników oszacowania gruntów, lasów oraz sadów, ogrodów, chmielników i innych upraw specjalnych,
+- **3)** w których można składać propozycje co do sposobu wydzielenia gruntów w zamian za grunty dotychczas posiadane, w szczególności w zakresie ich lokalizacji,
+- **4)** okazania projektu scalenia gruntów,
+- **5)** okazania stabilizacji punktów granicznych projektu scalenia gruntów – w przypadku jej wykonania – w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed tym terminem.
+
 **Art. 31a.**
 
 1. Zebranie uczestników scalenia oraz wykonywanie prawa głosu może odbywać się z wykorzystaniem środków komunikacji elektronicznej.
@@ -403,6 +409,13 @@ source: "isap-pdf"
 6. Sąd administracyjny, w przypadku uwzględnienia skargi w przedmiocie zatwierdzenia projektu scalenia lub wymiany gruntów po upływie terminu, o którym mowa w ust. 5, stwierdza wydanie decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów z naruszeniem prawa.
 
 **Art. 33a.** W okresie obowiązywania na terytorium Rzeczypospolitej Polskiej lub jego części stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonych na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2022 r. poz. 1657, 2280, 2674, 2705 i 2770 oraz z 2023 r. poz. 605) lub w okresie obowiązywania stanu nadzwyczajnego oraz w okresie 30 dni od dnia odwołania tych stanów:
+
+- **1)** nie wybiera się rady uczestników scalenia oraz nie powołuje się zespołu, o którym mowa w art. 9 ust. 3, a funkcje tej rady sprawuje powołany przez starostę w drodze postanowienia zespół do spraw scaleń; w skład zespołu do spraw scaleń wchodzi sołtys wsi, której grunty tworzą obszar scalenia, dwóch albo trzech członków rady sołeckiej wsi, której grunty tworzą obszar scalenia, przedstawiciel Krajowego Ośrodka będącego uczestnikiem scalenia, przedstawiciel gminy, na której terenie są położone grunty objęte scaleniem, oraz dwóch albo trzech właścicieli gospodarstw rolnych wybranych przez starostę, których grunty znajdują się na obszarze objętym scaleniem; do postanowienia w sprawie powołania zespołu do spraw scaleń stosuje się odpowiednio przepisy art. 7 ust. 3 i 4;
+- **2)** jeżeli liczba uczestników scalenia jest większa niż 10 osób, rada uczestników scalenia albo zespół, o którym mowa w art. 9 ust. 3 – w przypadku ich wybrania przed wprowadzeniem stanu zagrożenia epidemicznego albo stanu epidemii lub stanu nadzwyczajnego, albo zespół do spraw scaleń, na zebraniu zwołanym przez starostę, określa w formie uchwały zasady szacunku gruntów, o których mowa w art. 11 ust. 1, oraz wyraża w formie uchwały zgodę, o której mowa w art. 13 ust. 1; uchwały zapadają większością trzech czwartych głosów w obecności co najmniej połowy liczby członków rady uczestników scalenia albo zespołu, o którym mowa w art. 9 ust. 3, albo zespołu do spraw scaleń; przepisy art. 13 ust. 3–5 stosuje się odpowiednio;
+- **3)** wyniki oszacowania gruntów, lasów oraz sadów, ogrodów, chmielników i innych upraw specjalnych, o których mowa w art. 12 ust. 1, udostępnia się do publicznego wglądu na okres 7 dni w wyznaczonym przez starostę miejscu; o miejscu i terminie wyłożenia do publicznego wglądu wyników oszacowania gruntów starosta zawiadamia w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed tym terminem;
+- **4)** uczestnicy scalenia mogą wnosić zastrzeżenia do dokonanego szacunku w okresie wyłożenia wyników oszacowania gruntów do publicznego wglądu;
+- **5)** do zapoznania się uczestników scalenia z wynikami ustaleń komisji rozpatrującej zastrzeżenia do szacunku gruntów stosuje się odpowiednio pkt 3;
+- **6)** starosta zawiadamia o terminie objęcia w posiadanie przez uczestników scalenia nowo wydzielonych gruntów w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed terminem objęcia w posiadanie; za datę objęcia w posiadanie uważa się termin wskazany w zawiadomieniu.
 
 **Art. 34.** (uchylony)
 

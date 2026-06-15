@@ -8,7 +8,7 @@ pos: 1178
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo dewizowe
@@ -137,6 +137,35 @@ Art. 43–54. (pominięte)
 #### Rozdział 3 Ograniczenia w dokonywaniu obrotu dewizowego z zagranicą oraz obrotu wartościami dewizowymi w kraju
 
 **Art. 9.** Ograniczeniom podlega:
+
+- **1)** (uchylony)
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** wywóz, wysyłanie oraz przekazywanie przez rezydentów do krajów trzecich krajowych lub zagranicznych środków płatniczych, z przeznaczeniem na podjęcie lub rozszerzenie w tych krajach działalności gospodarczej, w tym na nabycie nieruchomości na potrzeby tej działalności, z wyjątkiem przekazywania do krajów trzecich krajowych lub zagranicznych środków płatniczych na pokrycie kosztów działalności polegającej na bezpośrednim świadczeniu usług w wykonaniu zawartej umowy lub promocji i reklamie działalności gospodarczej prowadzonej przez rezydenta w kraju;
+- **5)** zbywanie w kraju przez nierezydentów z krajów trzecich, a także przez organizacje międzynarodowe, do których nie należy Rzeczpospolita Polska, zarówno bezpośrednio, jak i za pośrednictwem innych podmiotów:
+    - **a)** papierów wartościowych dłużnych o terminie wykupu krótszym niż rok, z wyjątkiem nabytych w kraju,
+    - **b)** wierzytelności i innych praw, których wykonywanie następuje poprzez dokonywanie rozliczeń pieniężnych, z wyjątkiem nabytych w kraju lub powstałych w obrocie z rezydentami w zakresie niewymagającym zezwolenia dewizowego;
+
+- **6)** (uchylony)
+- **7)** nabywanie przez rezydentów, zarówno bezpośrednio, jak i za pośrednictwem innych podmiotów:
+    - **a)** (uchylona)
+    - **b)** udziałów i akcji w spółkach mających siedzibę w krajach trzecich, a także obejmowanie udziałów i akcji w takich spółkach,
+    - **c)** jednostek uczestnictwa w funduszach zbiorowego inwestowania mających siedzibę w krajach trzecich,
+    - **d)** papierów wartościowych dłużnych wyemitowanych bądź wystawionych przez nierezydentów z krajów trzecich,
+    - **e)** wartości dewizowych zbywanych przez nierezydentów z krajów trzecich, w zamian za inne wartości dewizowe lub krajowe środki płatnicze,
+    - **f)** wierzytelności i innych praw, których wykonywanie następuje poprzez dokonywanie rozliczeń pieniężnych, zbywanych przez nierezydentów z krajów trzecich;
+
+- **8)** zbywanie przez rezydentów, zarówno bezpośrednio, jak i za pośrednictwem innych podmiotów, w krajach trzecich:
+    - **a)** papierów wartościowych dłużnych o terminie wykupu krótszym niż rok, z wyjątkiem nabytych w tych krajach na podstawie zezwolenia dewizowego,
+    - **b)** wierzytelności i innych praw, których wykonywanie następuje poprzez dokonywanie rozliczeń pieniężnych, z wyjątkiem nabytych w tych krajach na podstawie zezwolenia dewizowego lub powstałych w obrocie z nierezydentami z krajów trzecich w zakresie niewymagającym zezwolenia dewizowego;
+
+- **9)** otwieranie przez rezydentów, zarówno bezpośrednio, jak i za pośrednictwem innych podmiotów, rachunków w bankach i oddziałach banków, mających siedzibę w krajach trzecich, z wyjątkiem ich otwierania w czasie pobytu w tych krajach, a także w związku z działalnością określoną w pkt 4, z zastrzeżeniem nieutrzymywania takich rachunków dłużej niż 2 miesiące od zakończenia pobytu lub działalności;
+- **10)** (uchylony)
+- **11)** (uchylony)
+- **12)** (uchylony)
+- **13)** (uchylony)
+- **14)** dokonywanie przez rezydentów i nierezydentów z krajów trzecich rozliczeń pieniężnych w wykonaniu czynności określonych w pkt 5 i 7–9, z wyłączeniem czynności, których dokonywanie nie wymaga zezwolenia dewizowego.
+- **15)** (uchylony)
 
 **Art. 10.**
 
@@ -358,11 +387,30 @@ Art. 43–54. (pominięte)
 
 **Art. 36.** Wyniki przeprowadzonej kontroli kontroler przedstawia w sporządzonym przez siebie:
 
+- **1)** protokóle, jeżeli kontrola została przeprowadzona w siedzibie jednostki kontrolowanej, lub
+- **2)** sprawozdaniu, jeżeli kontrola została przeprowadzona w siedzibie Narodowego Banku Polskiego.
+
 **Art. 36a.** Kontrolerzy informują kierownika kontrolowanej jednostki o istotnych nieprawidłowościach stwierdzonych w toku kontroli, wskazując na potrzebę niezwłocznego podjęcia działań w celu ich usunięcia.
 
 **Art. 36b.** Protokół i sprawozdanie, o których mowa w art. 36, powinny:
 
+- **1)** zawierać zwięzły opis wyników kontroli;
+- **2)** wskazywać przepisy prawne oraz warunki zawarte w zezwoleniu dewizowym, które zostały naruszone;
+- **3)** stanowić podstawę do sformułowania wniosków pokontrolnych i zaleceń.
+
 **Art. 36c.** Protokół i sprawozdanie powinny ponadto zawierać:
+
+- **1)** nazwę kontrolowanej jednostki w pełnym brzmieniu oraz adres jej siedziby;
+- **2)** imię i nazwisko oraz stanowisko osoby udzielającej upoważnienia do przeprowadzenia kontroli oraz datę wystawienia upoważnienia;
+- **3)** imię i nazwisko kontrolera lub kontrolerów;
+- **4)** określenie zakresu kontroli;
+- **5)** określenie okresu objętego kontrolą oraz datę rozpoczęcia i zakończenia kontroli;
+- **6)** listę osób udzielających wyjaśnień w trakcie kontroli;
+- **7)** określenie dokumentów, na podstawie których przeprowadzono kontrolę;
+- **8)** wykaz załączników stanowiących część składową sprawozdania lub protokołu;
+- **9)** adnotację o przekazaniu kierownikowi kontrolowanej jednostki jednego egzemplarza protokołu albo sprawozdania;
+- **10)** pouczenie o prawie i trybie składania przez kontrolowaną jednostkę zastrzeżeń do ustaleń zawartych w protokole lub sprawozdaniu;
+- **11)** imiona i nazwiska członków organu zarządzającego kontrolowanej jednostki, w przypadku osób prawnych.
 
 **Art. 37.**
 
@@ -402,6 +450,9 @@ Art. 43–54. (pominięte)
 
 **Art. 40c.** W przypadku stwierdzenia w toku kontroli rażącego naruszenia:
 
+- **1)** przepisów prawa lub warunków udzielonego zezwolenia dewizowego, kontrolerzy występują do Prezesa Narodowego Banku Polskiego albo dyrektora jednostki organizacyjnej Narodowego Banku Polskiego, który wydał zezwolenie dewizowe, o jego uchylenie;
+- **2)** warunków wykonywania działalności kantorowej kontrolerzy występują do Prezesa Narodowego Banku Polskiego o wydanie decyzji o zakazie jej wykonywania.
+
 **Art. 41.** W razie powstania w toku kontroli uzasadnionego podejrzenia popełnienia wykroczenia lub przestępstwa przez kontrolowaną jednostkę lub inny podmiot, Prezes Narodowego Banku Polskiego powiadamia o tym właściwy organ zgodnie z obowiązującymi przepisami.
 
 **Art. 42.** (uchylony)
@@ -438,11 +489,19 @@ Art. 43–54. (pominięte)
 
 **Art. 59.** Ilekroć w obowiązujących przepisach jest mowa o:
 
+- **1)** osobach krajowych w rozumieniu prawa dewizowego lub przepisów prawa dewizowego, należy przez to rozumieć rezydentów, o których mowa w art. 2 ust. 1 pkt 1;
+- **2)** osobach zagranicznych w rozumieniu prawa dewizowego lub przepisów prawa dewizowego, należy przez to rozumieć nierezydentów, o których mowa w art. 2 ust. 1 pkt 2.
+
 **Art. 60.** Ilekroć w obowiązujących przepisach jest mowa o ustawie z dnia 2 grudnia 1994 r. – Prawo dewizowe (Dz. U. poz. 703, z 1995 r. poz. 641, z 1996 r. poz. 496 oraz z 1997 r. poz. 449) lub ustawie z dnia 18 grudnia 1998 r. – Prawo dewizowe (Dz. U. poz. 1063, z 1999 r. poz. 931, z 2000 r. poz. 1099 oraz z 2002 r. poz.
+
+- **676)** , należy przez to rozumieć niniejszą ustawę.
 
 **Art. 61.** Traci moc ustawa z dnia 18 grudnia 1998 r. – Prawo dewizowe (Dz. U. poz. 1063, z 1999 r. poz. 931, z 2000 r. poz. 1099 oraz z 2002 r. poz. 676).
 
 **Art. 62.** Z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej traci moc art. 10:
+
+- **1)** ust. 2 – w zakresie, w jakim dotyczy art. 10 ust. 1 pkt 2;
+- **2)** ust. 3 – w zakresie, w jakim dotyczy art. 10 ust. 1 pkt 4.
 
 **Art. 63.** Ustawa wchodzi w życie z dniem 1 października 2002 r.
 

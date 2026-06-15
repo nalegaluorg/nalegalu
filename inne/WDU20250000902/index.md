@@ -8,7 +8,7 @@ pos: 902
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu
@@ -132,6 +132,13 @@ Art. 154–220. (pominięte)
 
 **Art. 10a.** Obowiązku doręczenia korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej, o których mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), nie stosuje się:
 
+- **1)** w sprawach dotyczących przyjęcia do służby albo pracy w ABW oraz AW;
+- **2)** w sprawach wynikających ze stosunku służbowego funkcjonariuszy ABW oraz AW;
+- **3)** w sprawach wynikających ze stosunku pracy pracowników ABW oraz AW;
+- **4)** w sprawach wynikających ze stosunku służbowego byłych funkcjonariuszy ABW, AW oraz Urzędu Ochrony Państwa;
+- **5)** w sprawach wynikających ze stosunku pracy byłych pracowników ABW, AW oraz Urzędu Ochrony Państwa;
+- **6)** jeżeli doręczenie korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej mogłoby wpłynąć negatywnie na sposób realizacji zadań Agencji.
+
 #### Rozdział 2 Kolegium do Spraw Służb Specjalnych
 
 **Art. 11.** Przy Radzie Ministrów działa Kolegium do Spraw Służb Specjalnych, zwane dalej „Kolegium”, jako organ opiniodawczo-doradczy w sprawach programowania, nadzorowania i koordynowania działalności ABW, AW, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego, zwanych dalej „służbami specjalnymi”, oraz podejmowanych dla ochrony bezpieczeństwa państwa działań Policji, Straży Granicznej, Straży Marszałkowskiej, Żandarmerii Wojskowej, Służby Więziennej, Służby Ochrony Państwa, Krajowej Administracji Skarbowej, organów informacji finansowej oraz służb rozpoznania Sił Zbrojnych Rzeczypospolitej Polskiej.
@@ -230,7 +237,20 @@ Art. 154–220. (pominięte)
 
 **Art. 15.** Szefem ABW i Szefem AW może zostać osoba, która:
 
+- **1)** posiada wyłącznie obywatelstwo polskie;
+- **2)** korzysta z pełni praw publicznych;
+- **3)** wykazuje nieskazitelną postawę moralną, obywatelską i patriotyczną;
+- **4)** daje rękojmię należytego wykonywania zadań;
+- **5)** spełnia wymagania określone w przepisach o ochronie informacji niejawnych w zakresie dostępu do informacji niejawnych o klauzuli tajności „ściśle tajne”;
+- **6)** nie pełniła służby zawodowej, nie pracowała i nie była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102), ani też nie była sędzią, który orzekając uchybił godności urzędu, sprzeniewierzając się niezawisłości sędziowskiej.
+
 **Art. 16.** Odwołanie Szefa Agencji z zajmowanego stanowiska może nastąpić w przypadku:
+
+- **1)** rezygnacji z zajmowanego stanowiska;
+- **2)** zrzeczenia się obywatelstwa polskiego lub nabycia obywatelstwa innego państwa;
+- **3)** skazania prawomocnym wyrokiem sądu za popełnione przestępstwo lub przestępstwo skarbowe;
+- **4)** utraty predyspozycji niezbędnych do zajmowania stanowiska;
+- **5)** niewykonywania obowiązków z powodu choroby trwającej nieprzerwanie ponad 3 miesiące.
 
 **Art. 17.** W przypadku zwolnienia stanowiska Szefa Agencji lub czasowej niemożności sprawowania przez niego funkcji, Prezes Rady Ministrów może powierzyć pełnienie obowiązków Szefa, na czas nie dłuższy niż 3 miesiące, jego zastępcy lub innej osobie.
 
@@ -1040,6 +1060,12 @@ Art. 154–220. (pominięte)
 
 **Art. 44.** Służbę w ABW albo AW może pełnić osoba:
 
+- **1)** posiadająca obywatelstwo polskie;
+- **2)** korzystająca z pełni praw publicznych;
+- **3)** wykazująca nieskazitelną postawę moralną, obywatelską i patriotyczną;
+- **4)** dająca rękojmię zachowania tajemnicy stosownie do wymogów określonych w przepisach o ochronie informacji niejawnych;
+- **5)** posiadająca co najmniej wykształcenie średnie lub średnie branżowe i określone kwalifikacje zawodowe oraz zdolność fizyczną i psychiczną do służby w formacjach uzbrojonych, wymagających szczególnej dyscypliny służbowej, której gotowa jest się podporządkować.
+
 **Art. 45.**
 
 1. Zdolność fizyczną i psychiczną do służby ustalają komisje lekarskie ABW albo AW, podległe Szefowi właściwej Agencji.
@@ -1354,6 +1380,9 @@ Art. 154–220. (pominięte)
 
 **Art. 61.** Stosunek służbowy funkcjonariusza wygasa w przypadku:
 
+- **1)** śmierci funkcjonariusza;
+- **2)** nieobecności funkcjonariusza w służbie przez okres powyżej 3 miesięcy z powodu tymczasowego aresztowania, chyba że wcześniej nastąpiło zwolnienie funkcjonariusza ze służby.
+
 **Art. 62.**
 
 1. W razie uchylenia prawomocnego wyroku skazującego lub prawomocnego orzeczenia o warunkowym umorzeniu postępowania karnego i wydania orzeczenia o umorzeniu postępowania karnego albo w razie uchylenia kary dyscyplinarnej wyznaczenia na niższe stanowisko służbowe, obniżenia stopnia służbowego lub kary wydalenia ze służby, ulegają uchyleniu skutki, jakie wynikły dla funkcjonariusza w związku z wyznaczeniem na niższe stanowisko służbowe lub obniżeniem stopnia służbowego. O uchyleniu innych skutków decyduje Szef właściwej Agencji.
@@ -1390,6 +1419,37 @@ Art. 154–220. (pominięte)
 #### Rozdział 6 Korpusy i stopnie służbowe funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu
 
 **Art. 66.** W ABW i AW obowiązują następujące korpusy i stopnie służbowe:
+
+- **1)** korpus szeregowych:
+    - **a)** szeregowy,
+    - **b)** starszy szeregowy;
+
+- **2)** korpus podoficerów:
+    - **a)** kapral,
+    - **b)** starszy kapral,
+    - **c)** plutonowy,
+    - **d)** starszy plutonowy,
+    - **e)** sierżant,
+    - **f)** starszy sierżant,
+    - **g)** sierżant sztabowy,
+    - **h)** starszy sierżant sztabowy;
+
+- **3)** korpus chorążych:
+    - **a)** młodszy chorąży,
+    - **b)** chorąży,
+    - **c)** starszy chorąży,
+    - **d)** młodszy chorąży sztabowy,
+    - **e)** chorąży sztabowy,
+    - **f)** starszy chorąży sztabowy;
+
+- **4)** korpus oficerów:
+    - **a)** podporucznik,
+    - **b)** porucznik,
+    - **c)** kapitan,
+    - **d)** major,
+    - **e)** podpułkownik,
+    - **f)** pułkownik,
+    - **g)** generał brygady.
 
 **Art. 67.**
 
@@ -1671,6 +1731,10 @@ Art. 154–220. (pominięte)
 
 **Art. 94.** Prezes Rady Ministrów określi, w drodze rozporządzeń, odrębnie dla każdej Agencji, przebieg służby funkcjonariuszy. Rozporządzenie powinno określać zwłaszcza:
 
+- **1)** szczegółowe zasady i tryb załatwiania spraw, w tym spraw osobowych funkcjonariuszy, nawiązania, rozwiązania lub wygaśnięcia stosunku służbowego, mianowania, przenoszenia, odwoływania i zwalniania ze stanowisk służbowych;
+- **2)** sposób usprawiedliwiania nieobecności w służbie;
+- **3)** rodzaje informacji, których ze względu na przebieg służby funkcjonariusza jest on obowiązany udzielić.
+
 **Art. 95.**
 
 1. Funkcjonariuszowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze 26 dni roboczych.
@@ -1744,7 +1808,19 @@ Art. 154–220. (pominięte)
 
 **Art. 100.** Prezes Rady Ministrów określi, w drodze rozporządzeń, odrębnie dla każdej Agencji:
 
+- **1)** tryb udzielania urlopów, o których mowa w art. 95 ust. 1, art. 97 ust. 1 i 2, art. 98 oraz art. 98a ust. 1, a także przełożonych właściwych w sprawach tych urlopów,
+- **2)** sposób postępowania w przypadku odwołania funkcjonariusza z urlopu wypoczynkowego lub wstrzymania udzielenia tego urlopu,
+- **3)** sposób obliczania ekwiwalentu pieniężnego za niewykorzystany urlop wypoczynkowy,
+- **4)** wzór orzeczenia komisji lekarskiej ABW albo AW zawierającego wniosek w sprawie udzielenia funkcjonariuszowi urlopu zdrowotnego – uwzględniając konieczność zapewnienia niezakłóconego funkcjonowania jednostki organizacyjnej Agencji oraz, w przypadku urlopu wypoczynkowego, prawo funkcjonariuszy do wypoczynku.
+
 **Art. 101.** Funkcjonariuszowi, który przejawia inicjatywę i osiąga znaczące wyniki w służbie, mogą być udzielane wyróżnienia:
+
+- **1)** pochwała w rozkazie;
+- **2)** krótkoterminowy urlop wypoczynkowy w wymiarze do 7 dni roboczych;
+- **3)** nagroda pieniężna lub rzeczowa;
+- **4)** przedterminowe mianowanie na wyższy stopień;
+- **5)** mianowanie na wyższe stanowisko służbowe;
+- **6)** przedstawienie do orderu lub odznaczenia.
 
 #### Rozdział 8 Zakwaterowanie funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu
 
@@ -1846,7 +1922,15 @@ Art. 154–220. (pominięte)
 
 **Art. 102b.** Prawo do zakwaterowania nie przysługuje funkcjonariuszowi:
 
+- **1)** który nabył lokal mieszkalny od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielony w trybie administracyjnym w związku z pełnioną służbą;
+- **2)** od dnia przyjęcia do służby do dnia ukończenia szkolenia zawodowego.
+
 **Art. 103.** Członkami rodziny funkcjonariusza, których uwzględnia się przy przydziale lokalu mieszkalnego albo kwatery tymczasowej, są pozostający z funkcjonariuszem we wspólnym gospodarstwie domowym:
+
+- **1)** małżonek;
+- **2)** dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie w ramach rodziny zastępczej, pozostające na jego utrzymaniu, nie dłużej jednak niż do dnia zawarcia przez nie związku małżeńskiego, które:
+    - **a)** nie ukończyły 18. roku życia, a w przypadku uczęszczania do szkoły lub odbywania studiów w uczelni – 26. roku życia, albo
+    - **b)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w lit. a.
 
 **Art. 104.**
 

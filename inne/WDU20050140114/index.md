@@ -8,7 +8,7 @@ pos: 114
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o odpowiedzialności za naruszenie dyscypliny finansów publicznych
@@ -68,6 +68,10 @@ source: "isap-pdf"
 
 **Art. 4a.** Odpowiedzialności za naruszenie dyscypliny finansów publicznych określone w art. 13 podlegają:
 
+- **1)** osoby zobowiązane lub upoważnione do działania w imieniu podmiotu, któremu odrębną ustawą lub na jej podstawie albo na podstawie umowy lub w drodze porozumienia powierzono określone zadania związane z realizacją programu finansowanego z udziałem środków pochodzących z budżetu Unii Europejskiej, niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) lub innych środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi, zwanych dalej „środkami unijnymi lub zagranicznymi”;
+- **2)** osoby zobowiązane do realizacji projektu finansowanego z udziałem środków unijnych lub zagranicznych, którym przekazano środki publiczne przeznaczone na realizację tego projektu lub które wykorzystują takie środki;
+- **3)** osoby zobowiązane lub upoważnione do działania w imieniu podmiotu zobowiązanego do realizacji projektu finansowanego z udziałem środków unijnych lub zagranicznych, któremu przekazano środki publiczne przeznaczone na realizację tego projektu lub który wykorzystuje takie środki.
+
 **Art. 5.**
 
 1. Naruszeniem dyscypliny finansów publicznych jest:
@@ -85,13 +89,28 @@ source: "isap-pdf"
 
 **Art. 6.** Naruszeniem dyscypliny finansów publicznych jest:
 
+- **1)** nieprzekazanie w terminie do budżetu w należnej wysokości pobranych dochodów należnych Skarbowi Państwa lub jednostce samorządu terytorialnego;
+- **2)** niedokonanie w terminie wpłaty do budżetu w należnej wysokości dochodów przez jednostkę budżetową, nadwyżki środków obrotowych przez samorządowy zakład budżetowy albo nadwyżki środków finansowych przez agencję wykonawczą.
+
 **Art. 7.** Naruszeniem dyscypliny finansów publicznych jest przeznaczenie dochodów uzyskiwanych przez jednostkę budżetową na wydatki ponoszone w tej jednostce.
 
 **Art. 8.** Naruszeniem dyscypliny finansów publicznych jest:
 
+- **1)** przekazanie lub udzielenie dotacji z naruszeniem zasad lub trybu przekazywania lub udzielania dotacji;
+- **2)** niezatwierdzenie w terminie przedstawionego rozliczenia dotacji;
+- **3)** nieustalenie kwoty dotacji podlegającej zwrotowi do budżetu.
+
 **Art. 9.** Naruszeniem dyscypliny finansów publicznych jest:
 
+- **1)** wydatkowanie dotacji niezgodnie z przeznaczeniem określonym przez udzielającego dotację;
+- **2)** nierozliczenie w terminie otrzymanej dotacji;
+- **3)** niedokonanie w terminie zwrotu dotacji w należnej wysokości.
+
 **Art. 9a.** Naruszeniem dyscypliny finansów publicznych jest:
+
+- **1)** przekazanie lub udzielenie subwencji dla podmiotów systemu szkolnictwa wyższego i nauki z naruszeniem zasad lub trybu przekazywania lub udzielania tej subwencji;
+- **2)** wydatkowanie subwencji dla podmiotów systemu szkolnictwa wyższego i nauki niezgodnie z przeznaczeniem;
+- **3)** niedokonanie w terminie zwrotu subwencji dla podmiotów systemu szkolnictwa wyższego i nauki w należnej wysokości.
 
 **Art. 10.** Naruszeniem dyscypliny finansów publicznych jest dokonanie zmiany w budżecie lub planie, stanowiącym podstawę gospodarki finansowej jednostki sektora finansów publicznych, bez upoważnienia albo z przekroczeniem zakresu upoważnienia.
 
@@ -105,9 +124,32 @@ source: "isap-pdf"
 
 **Art. 12a.** Naruszeniem dyscypliny finansów publicznych jest zaciągnięcie zobowiązania w związku z realizacją programu polityki zdrowotnej:
 
+- **1)** którego projekt nie został przekazany do zaopiniowania przez Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji, pomimo istnienia takiego obowiązku;
+- **2)** którego projekt został negatywnie zaopiniowany przez Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji.
+
 **Art. 13.** Naruszeniem dyscypliny finansów publicznych jest:
 
+- **1)** przyznanie lub przekazanie środków związanych z realizacją programów lub projektów finansowanych z udziałem środków unijnych lub zagranicznych bez zachowania lub z naruszeniem procedur obowiązujących przy ich przyznaniu lub przekazaniu;
+- **2)** niedokonanie w terminie przez przyznającego lub przekazującego środki związane z realizacją programów lub projektów finansowanych z udziałem środków unijnych lub zagranicznych rozliczenia tych środków;
+- **3)** nieustalenie podlegającej zwrotowi kwoty środków związanych z realizacją programów lub projektów finansowanych z udziałem środków unijnych lub zagranicznych albo ustalenie takiej kwoty w wysokości niższej niż wynikająca z prawidłowego obliczenia;
+- **4)** niedochodzenie podlegającej zwrotowi kwoty środków związanych z realizacją programów lub projektów finansowanych z udziałem środków unijnych lub zagranicznych albo dochodzenie takiej kwoty w wysokości niższej niż wynikająca z prawidłowego obliczenia;
+- **5)** niezgodne z przepisami umorzenie podlegającej zwrotowi kwoty środków związanych z realizacją programów lub projektów finansowanych z udziałem środków unijnych lub zagranicznych, odroczenie jej spłaty lub rozłożenie spłaty na raty albo dopuszczenie do przedawnienia tej należności;
+- **6)** wykorzystanie środków publicznych lub środków przekazanych ze środków publicznych, związanych z realizacją programów lub projektów finansowanych z udziałem środków unijnych lub zagranicznych, niezgodnie z przeznaczeniem lub z naruszeniem procedur obowiązujących przy ich wykorzystaniu, w tym:
+    - **a)** procedur określonych przepisami o zamówieniach publicznych – wyłącznie w zakresie określonym w art. 17,
+    - **b)** procedur określonych w przepisach o umowie koncesji na roboty budowlane lub usługi – wyłącznie w zakresie określonym w art. 17a;
+
+- **7)** niedokonanie w terminie przez otrzymującego lub wykorzystującego środki publiczne lub środki przekazane ze środków publicznych, związane z realizacją programów lub projektów finansowanych z udziałem środków unijnych lub zagranicznych, rozliczenia tych środków;
+- **8)** niedokonanie w terminie lub w należnej wysokości zwrotu kwoty środków publicznych lub środków przekazanych ze środków publicznych, związanych z realizacją programów lub projektów finansowanych z udziałem środków unijnych lub zagranicznych;
+- **9)** nieprzekazanie w terminie lub w należnej wysokości zwracanej kwoty środków publicznych lub środków przekazanych ze środków publicznych, związanych z realizacją programów lub projektów finansowanych z udziałem środków unijnych lub zagranicznych, przez podmiot, za pośrednictwem którego zwracane są te środki.
+
 **Art. 14.** Naruszeniem dyscypliny finansów publicznych jest nieopłacenie w terminie przez jednostkę sektora finansów publicznych:
+
+- **1)** składek na ubezpieczenia społeczne,
+- **2)** składek na ubezpieczenie zdrowotne,
+- **3)** składek na Fundusz Pracy,
+- **4)** składek na Fundusz Gwarantowanych Świadczeń Pracowniczych,
+- **5)** wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych,
+- **6)** składek na Fundusz Solidarnościowy – albo ich opłacenie w kwocie niższej niż wynikająca z prawidłowego obliczenia.
 
 **Art. 15.**
 
@@ -210,9 +252,15 @@ source: "isap-pdf"
 
 **Art. 18.** Naruszeniem dyscypliny finansów publicznych jest:
 
+- **1)** zaniechanie przeprowadzenia lub rozliczenia inwentaryzacji albo przeprowadzenie lub rozliczenie inwentaryzacji w sposób niezgodny z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
+- **2)** niesporządzenie lub nieprzekazanie w terminie sprawozdania z wykonania procesów gromadzenia środków publicznych i ich rozdysponowania albo wykazanie w tym sprawozdaniu danych niezgodnych z danymi wynikającymi z ewidencji księgowej.
+
 **Art. 18a.** Naruszeniem dyscypliny finansów publicznych jest zaniechanie prowadzenia audytu wewnętrznego w jednostce sektora finansów publicznych do tego zobowiązanej, wskutek niezatrudniania audytora wewnętrznego albo niezawierania umowy z usługodawcą.
 
 **Art. 18b.** Naruszeniem dyscypliny finansów publicznych jest niedokonanie lub nienależyte dokonanie wstępnej kontroli zgodności operacji gospodarczej lub finansowej z planem finansowym lub kompletności i rzetelności dokumentów dotyczących takiej operacji, jeżeli miało ono wpływ na:
+
+- **1)** dokonanie wydatku powodującego przekroczenie kwoty wydatków ustalonej w planie finansowym jednostki sektora finansów publicznych;
+- **2)** zaciągnięcie zobowiązania niemieszczącego się w planie finansowym jednostki sektora finansów publicznych.
 
 **Art. 18c.**
 
@@ -376,6 +424,11 @@ source: "isap-pdf"
 
 **Art. 34a.** Karę pieniężną albo karę nagany można wymierzyć w szczególności w przypadku naruszenia dyscypliny finansów publicznych, którego stopień szkodliwości dla finansów publicznych jest znaczny, z tym że jeżeli wskutek naruszenia:
 
+- **1)** nie została wpłacona lub zwrócona należność Skarbu Państwa, jednostki samorządu terytorialnego lub innej jednostki sektora finansów publicznych w znacznej wysokości,
+- **2)** bez upoważnienia albo z przekroczeniem zakresu upoważnienia zaciągnięto zobowiązanie lub dokonano wydatku w znacznej wysokości,
+- **3)** zapłacono ze środków publicznych odsetki, kary lub opłaty albo oprocentowanie w znacznej wysokości,
+- **4)** udzielono zamówienia publicznego z istotnym naruszeniem zasady uczciwej konkurencji lub zasady równego traktowania wykonawców – wymierza się karę pieniężną.
+
 **Art. 35.** Karę upomnienia można wymierzyć w szczególności w przypadku, gdy stopień szkodliwości naruszenia dyscypliny finansów publicznych nie jest znaczny.
 
 **Art. 36.**
@@ -465,6 +518,15 @@ source: "isap-pdf"
 
 **Art. 46.** Komisjami orzekającymi są:
 
+- **1)** wspólna komisja orzekająca;
+- **2)** międzyresortowe komisje orzekające przy:
+    - **a)** ministrze właściwym do spraw finansów publicznych,
+    - **b)** ministrze właściwym do spraw administracji publicznej,
+    - **c)** Ministrze Sprawiedliwości;
+
+- **3)** komisja orzekająca przy Szefie Kancelarii Prezesa Rady Ministrów;
+- **4)** regionalne komisje orzekające przy regionalnych izbach obrachunkowych.
+
 **Art. 47.**
 
 1. Wspólna komisja orzekająca orzeka w sprawach o naruszenie dyscypliny finansów publicznych w zakresie realizacji budżetu państwa w częściach:
@@ -489,15 +551,83 @@ source: "isap-pdf"
 
 **Art. 48.** Międzyresortowa komisja orzekająca przy ministrze właściwym do spraw finansów publicznych orzeka w sprawach o naruszenie dyscypliny finansów publicznych w zakresie dotyczącym:
 
+- **1)** realizacji budżetu państwa w częściach ustalonych dla następujących działów administracji rządowej:
+    - **a)** budżet,
+    - **b)** finanse publiczne,
+    - **c)** instytucje finansowe,
+    - **d)** członkostwo Rzeczypospolitej Polskiej w Unii Europejskiej,
+    - **e)** kultura i ochrona dziedzictwa narodowego,
+    - **f)** kultura fizyczna,
+    - **g)** nauka,
+    - **h)** oświata i wychowanie,
+    - **i)** rolnictwo,
+    - **j)** rozwój wsi,
+    - **k)** rynki rolne,
+    - **l)** rybołówstwo,
+    - **m)** szkolnictwo wyższe,
+    - **n)** turystyka,
+    - **o)** sprawy zagraniczne,
+    - **p)** zdrowie – z wyłączeniem środków przekazanych jednostkom, o których mowa w art. 51 pkt 1 i 4;
+
+- **2)** realizacji budżetu państwa w częściach innych niż ustalone dla działów administracji rządowej, którymi dysponują ministrowie kierujący działami wymienionymi w pkt 1, z wyłączeniem środków przekazanych jednostkom, o których mowa w art. 51 pkt 1 i 4;
+- **3)** organów i jednostek podległych ministrom kierującym działami wymienionymi w pkt 1 lub nadzorowanych przez tych ministrów oraz jednostek im podległych lub przez nie nadzorowanych;
+- **4)** innych podmiotów otrzymujących środki publiczne przekazane z części budżetu państwa, o których mowa w pkt 1 i 2, lub z innych środków publicznych, którymi dysponują ministrowie kierujący działami wymienionymi w pkt 1 lub organy i jednostki, o których mowa w pkt 3.
+
 **Art. 49.** Międzyresortowa komisja orzekająca przy ministrze właściwym do spraw administracji publicznej orzeka w sprawach o naruszenie dyscypliny finansów publicznych w zakresie dotyczącym:
 
+- **1)** realizacji budżetu państwa w częściach ustalonych dla następujących działów administracji rządowej:
+    - **a)** administracja publiczna, aa) aktywa państwowe,
+    - **b)** budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo,
+    - **c)** gospodarka,
+    - **d)** gospodarka morska,
+    - **e)** gospodarka wodna,
+    - **f)** informatyzacja, fa) klimatu,
+    - **g)** łączność,
+    - **h)** obrona narodowa,
+    - **i)** praca,
+    - **j)** rozwój regionalny,
+    - **k)** (uchylona)
+    - **l)** transport,
+    - **m)** środowisko,
+    - **n)** rodzina,
+    - **o)** sprawy wewnętrzne,
+    - **p)** wyznania religijne oraz mniejszości narodowe i etniczne,
+    - **q)** zabezpieczenie społeczne – z wyłączeniem środków przekazanych jednostkom, o których mowa w art. 51 pkt 1 i 4;
+
+- **2)** realizacji budżetu państwa w częściach innych niż ustalone dla działów administracji rządowej, którymi dysponują ministrowie kierujący działami wymienionymi w pkt 1, z wyłączeniem środków przekazanych jednostkom, o których mowa w art. 51 pkt 1 i 4;
+- **3)** osób pełniących funkcje marszałka województwa, członka zarządu województwa i głównego księgowego budżetu województwa (skarbnika województwa);
+- **4)** osób pełniących funkcje wojewody, wicewojewody, dyrektora generalnego urzędu wojewódzkiego i głównego księgowego części budżetowej, której dysponentem jest wojewoda;
+- **5)** organów i jednostek podległych ministrom kierującym działami wymienionymi w pkt 1 lub nadzorowanych przez tych ministrów oraz jednostek im podległych lub przez nie nadzorowanych;
+- **6)** innych podmiotów otrzymujących środki publiczne przekazane z części budżetu państwa, o których mowa w pkt 1 i 2, lub z innych środków publicznych, którymi dysponują ministrowie kierujący działami wymienionymi w pkt 1 lub organy i jednostki, o których mowa w pkt 5.
+
 **Art. 49a.** Międzyresortowa komisja orzekająca przy Ministrze Sprawiedliwości orzeka w sprawach o naruszenie dyscypliny finansów publicznych w zakresie dotyczącym:
+
+- **1)** realizacji budżetu państwa:
+    - **a)** w części ustalonej dla działu administracji rządowej sprawiedliwość,
+    - **b)** w częściach innych niż ustalona dla działu administracji rządowej sprawiedliwość, którymi dysponuje Minister Sprawiedliwości,
+    - **c)** w części, którą dysponuje Prokurator Generalny – z wyłączeniem środków przekazanych jednostkom wymienionym w art. 51 pkt 1 i 4;
+
+- **2)** organów i jednostek podległych Ministrowi Sprawiedliwości albo Prokuratorowi Generalnemu lub nadzorowanych przez Ministra Sprawiedliwości albo Prokuratora Generalnego, a także jednostek podległych tym organom lub jednostkom lub nadzorowanych przez te organy lub jednostki;
+- **3)** innych podmiotów otrzymujących środki publiczne przekazane z części budżetu państwa, o których mowa w pkt 1, lub z innych środków publicznych, którymi dysponują Minister Sprawiedliwości, Prokurator Generalny lub organy i jednostki wymienione w pkt 2.
 
 **Art. 49b.** Jeżeli nie jest możliwe ustalenie właściwości międzyresortowej komisji orzekającej zgodnie z art. 48–49a, właściwa jest międzyresortowa komisja orzekająca przy ministrze właściwym do spraw finansów publicznych.
 
 **Art. 50.** Komisja orzekająca przy Szefie Kancelarii Prezesa Rady Ministrów orzeka w sprawach o naruszenie dyscypliny finansów publicznych w zakresie dotyczącym:
 
+- **1)** realizacji budżetu Kancelarii Prezesa Rady Ministrów;
+- **2)** samorządowych kolegiów odwoławczych;
+- **3)** organów i jednostek nadzorowanych przez Prezesa Rady Ministrów oraz jednostek im podległych lub przez nie nadzorowanych, z wyłączeniem osób, o których mowa w art. 49 pkt 4, oraz jednostek, o których mowa w art. 51 pkt 3;
+- **4)** osób pełniących funkcje ministra, sekretarza stanu i podsekretarza stanu, a także dyrektora generalnego urzędu i głównego księgowego części budżetu, z wyłączeniem dyrektora generalnego urzędu wojewódzkiego i głównego księgowego części budżetu, której dysponentem jest wojewoda;
+- **5)** innych jednostek otrzymujących środki publiczne przekazane z części budżetu państwa lub innych środków publicznych, którymi dysponuje Szef Kancelarii Prezesa Rady Ministrów lub organy i jednostki wymienione w pkt 3.
+
 **Art. 51.** Regionalna komisja orzekająca orzeka, zgodnie z terytorialnym zasięgiem działania regionalnej izby obrachunkowej, przy której została utworzona, w sprawach o naruszenie dyscypliny finansów publicznych w zakresie dotyczącym:
+
+- **1)** jednostek samorządu terytorialnego, ich związków i stowarzyszeń, z wyłączeniem osób, o których mowa w art. 49 pkt 3;
+- **2)** realizacji budżetu wojewody, z wyłączeniem osób, o których mowa w art. 49 pkt 4;
+- **3)** jednostek podległych i nadzorowanych przez wojewodę;
+- **4)** samorządowych jednostek organizacyjnych, w tym samorządowych osób prawnych;
+- **5)** innych jednostek otrzymujących środki publiczne przekazane z budżetów jednostek samorządu terytorialnego lub innych środków publicznych, którymi dysponują te jednostki;
+- **6)** innych jednostek w zakresie środków otrzymanych z budżetu wojewody lub z innych środków, którymi dysponuje wojewoda.
 
 **Art. 51a.**
 
@@ -513,6 +643,22 @@ source: "isap-pdf"
 #### Rozdział 3 Zasady powoływania komisji orzekających i Głównej Komisji Orzekającej
 
 **Art. 52.** Przewodniczącego, jego zastępcę oraz członków wspólnej komisji orzekającej powołuje i odwołuje Prezydent Rzeczypospolitej Polskiej. Są oni powoływani spośród kandydatów zgłoszonych przez:
+
+- **1)** Szefa Kancelarii Prezydenta;
+- **2)** Marszałka Sejmu;
+- **3)** Marszałka Senatu;
+- **4)** Prezesa Najwyższej Izby Kontroli;
+- **5)** Rzecznika Praw Obywatelskich;
+- **6)** Rzecznika Praw Dziecka;
+- **7)** Przewodniczącego Krajowej Rady Radiofonii i Telewizji;
+- **8)** Prezesa Urzędu Ochrony Danych Osobowych;
+- **9)** Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
+- **10)** Kierownika Krajowego Biura Wyborczego;
+- **11)** Głównego Inspektora Pracy;
+- **12)** Pierwszego Prezesa Sądu Najwyższego;
+- **13)** Prezesa Naczelnego Sądu Administracyjnego;
+- **14)** Prezesa Trybunału Konstytucyjnego;
+- **15)** Przewodniczącego Krajowej Rady Sądownictwa.
 
 **Art. 53.**
 
@@ -726,6 +872,11 @@ source: "isap-pdf"
 3. (uchylony)
 
 **Art. 71.** Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** regulamin działania komisji orzekających i Głównej Komisji Orzekającej,
+- **2)** zakres zadań organizacyjno-prawnej i biurowej obsługi komisji orzekających, rzeczników dyscypliny oraz Głównej Komisji Orzekającej i Głównego Rzecznika,
+- **3)** warunki organizowania i prowadzenia szkolenia członków komisji orzekających, Głównej Komisji Orzekającej i rzeczników dyscypliny,
+- **4)** rodzaje dokumentacji kwalifikowanej jako materiały archiwalne oraz terminy, w których akta spraw o naruszenie dyscypliny finansów publicznych podlegają zniszczeniu w całości lub w części albo przekazaniu archiwom państwowym – mając na uwadze zapewnienie sprawnego i skutecznego działania organów właściwych w sprawach naruszenia dyscypliny finansów publicznych.
 
 ### DZIAŁ IV Postępowanie w sprawach o naruszenie dyscypliny finansów publicznych
 
@@ -1052,6 +1203,9 @@ source: "isap-pdf"
 
 **Art. 99.** Rzecznik dyscypliny może wszcząć postępowanie wyjaśniające:
 
+- **1)** wobec osoby, która nie była wymieniona w zawiadomieniu;
+- **2)** w zakresie czynu, którego nie wymieniono w zawiadomieniu.
+
 **Art. 100.**
 
 1. Rzecznik dyscypliny odmawia wszczęcia postępowania wyjaśniającego:
@@ -1276,6 +1430,10 @@ source: "isap-pdf"
 
 **Art. 122.** W toku rozprawy przewodniczący składu orzekającego realizuje obowiązki, o których mowa w art. 80 ust. 2, a w szczególności poucza:
 
+- **1)** obwinionego o prawie odmowy odpowiedzi na poszczególne pytania;
+- **2)** świadka o obowiązku mówienia prawdy i odpowiedzialności za składanie fałszywych zeznań oraz o prawie do odmowy udzielenia odpowiedzi na poszczególne pytania;
+- **3)** strony o przysługującym im prawie do zadawania pytań świadkom, wypowiadania się co do każdego ujawnionego dowodu oraz składania wniosków dowodowych.
+
 **Art. 123.**
 
 1. Z przebiegu rozprawy protokolant pod kierunkiem przewodniczącego składu orzekającego sporządza protokół, który zawiera:
@@ -1293,6 +1451,10 @@ source: "isap-pdf"
 **Art. 124.** Strony mogą składać wyjaśnienia, oświadczenia i wnioski ustnie do protokołu lub na piśmie. O dopuszczeniu dowodu, poza rozprawą, decyduje przewodniczący komisji orzekającej, a po wyznaczeniu składu orzekającego jego przewodniczący. Oddalenie wniosku dowodowego następuje w formie postanowienia.
 
 **Art. 125.** Rozprawę odracza się, jeżeli w aktach sprawy:
+
+- **1)** brak jest dowodu doręczenia obwinionemu lub jego obrońcy zawiadomienia o rozprawie, chyba że osoba, której nie doręczono zawiadomienia, jest obecna na rozprawie i wyrazi zgodę na jej przeprowadzenie;
+- **2)** jest dowód doręczenia obwinionemu i jego obrońcy zawiadomienia o rozprawie w terminie krótszym niż 7 dni przed terminem rozprawy, chyba że obwiniony lub jego obrońca obecny na rozprawie wyrazi zgodę na jej przeprowadzenie;
+- **3)** jest dowód doręczenia obwinionemu i jego obrońcy zawiadomienia o rozprawie, a obwiniony lub jego obrońca wystąpi z wnioskiem o odroczenie rozprawy, w którym należycie usprawiedliwi swoją nieobecność na rozprawie nadzwyczajnym wydarzeniem lub inną przeszkodą, której nie można przezwyciężyć.
 
 **Art. 126.** W przypadkach, o których mowa w art. 125, komisja orzekająca może jednak przeprowadzić dowód, a w szczególności przesłuchać świadków, pod warunkiem że przewodniczący składu orzekającego poinformuje obwinionego lub jego obrońcę o przebiegu rozprawy oraz umożliwi im złożenie wyjaśnień co do przeprowadzonego dowodu, a także zadawanie pytań świadkom, jeżeli o to wystąpią.
 
@@ -1421,6 +1583,9 @@ source: "isap-pdf"
 **Art. 139a.** Organ, któremu przekazano do rozpoznania środek zaskarżenia, niezwłocznie po jego otrzymaniu wydaje postanowienie o odmowie przyjęcia środka zaskarżenia, jeżeli został wniesiony po terminie lub przez osobę nieuprawnioną. Na postanowienie zażalenie służy osobie, która złożyła środek zaskarżenia będący przedmiotem tego postanowienia.
 
 **Art. 139b.** Główny Rzecznik i Przewodniczący Głównej Komisji Orzekającej, któremu przekazano do rozpoznania środek zaskarżenia:
+
+- **1)** wydaje postanowienie o zawieszeniu postępowania, jeżeli ujawnią się okoliczności, o których mowa w art. 25 ust. 2 albo art. 78a ust. 1;
+- **2)** zarządza wyłączenie sprawy do odrębnego postępowania, jeżeli ujawnią się okoliczności określone w art. 79 ust. 2.
 
 **Art. 140.**
 
@@ -1580,6 +1745,10 @@ source: "isap-pdf"
 #### Rozdział 14 Wznowienie postępowania
 
 **Art. 162.** Postępowanie, zakończone prawomocnym postanowieniem lub orzeczeniem, może zostać wznowione, jeżeli:
+
+- **1)** postanowienie lub orzeczenie zostało wydane w wyniku przestępstwa;
+- **2)** postanowienie lub orzeczenie zostało wydane na podstawie dowodów, które okazały się fałszywe;
+- **3)** po wydaniu orzeczenia lub postanowienia wyszły na jaw nowe, istotne dla sprawy okoliczności faktyczne lub dowody, nieznane przy wydaniu postanowienia lub orzeczenia.
 
 **Art. 163.**
 
@@ -1755,6 +1924,13 @@ source: "isap-pdf"
 
 **Art. 182.** Jeżeli adresatem pisma jest:
 
+- **1)** obrońca obwinionego, będący adwokatem lub radcą prawnym,
+- **2)** rzecznik dyscypliny,
+- **3)** Główny Rzecznik,
+- **4)** przewodniczący komisji orzekającej,
+- **5)** Przewodniczący Głównej Komisji Orzekającej,
+- **6)** wezwany do odwołania ukaranego karą określoną w art. 31 ust. 1 pkt 4 z funkcji objętej zakazem – pismo doręcza się pod adres wskazany przez nadawcę do rąk pracownika upoważnionego do odbioru korespondencji albo na adres do doręczeń elektronicznych.
+
 **Art. 183.**
 
 1. W toku postępowania obwiniony i jego obrońca mają obowiązek zawiadomić właściwy organ prowadzący to postępowanie o każdej zmianie adresu zamieszkania lub pracy, a w przypadku przebywania za granicą wskazać adresata do doręczeń w kraju. O obowiązku zawiadomienia o zmianie adresu poucza się odpowiednio w toku postępowania.
@@ -1822,6 +1998,11 @@ source: "isap-pdf"
 - **3)** usunięcia wpisu do rejestru – Przewodniczący Głównej Komisji Orzekającej zawiadamia osobę, której dane podlegają wpisowi, oraz przewodniczącego komisji orzekającej, która wydała orzeczenie.
 
 **Art. 190.** Wpis do rejestru, o którym mowa w art. 188, podlega usunięciu w przypadku:
+
+- **1)** zatarcia ukarania;
+- **2)** stwierdzenia nieważności lub uchylenia prawomocnego orzeczenia;
+- **3)** wznowienia postępowania;
+- **4)** śmierci osoby podlegającej wpisowi do rejestru.
 
 **Art. 191.**
 

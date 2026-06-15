@@ -8,7 +8,7 @@ pos: 539
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo łowieckie
@@ -36,6 +36,11 @@ Art. 55–57. (pominięte)
 **Art. 2.** Zwierzęta łowne w stanie wolnym, jako dobro ogólnonarodowe, stanowią własność Skarbu Państwa.
 
 **Art. 3.** Celem łowiectwa jest:
+
+- **1)** ochrona, zachowanie różnorodności i gospodarowanie populacjami zwierząt łownych;
+- **2)** ochrona i kształtowanie środowiska przyrodniczego na rzecz poprawy warunków bytowania zwierzyny;
+- **3)** uzyskiwanie możliwie wysokiej kondycji osobniczej i jakości trofeów oraz właściwej liczebności populacji poszczególnych gatunków zwierzyny przy zachowaniu równowagi środowiska przyrodniczego;
+- **4)** spełnianie potrzeb społecznych w zakresie uprawiania myślistwa, kultywowania tradycji oraz krzewienia etyki i kultury łowieckiej.
 
 **Art. 3a.**
 
@@ -503,7 +508,16 @@ Art. 55–57. (pominięte)
 
 **Art. 25.** Obwody łowieckie są tworzone przy uwzględnieniu następujących zasad:
 
+- **1)** optymalnego zaspokojenia potrzeb w zakresie ochrony, zachowania i rozwoju preferowanych gatunków zwierzyny;
+- **2)** unikania dzielenia zbiorników wodnych;
+- **3)** ustalania przebiegu granic po naturalnych lub wyraźnych znakach w terenie.
+
 **Art. 26.** W skład obwodów łowieckich nie wchodzą:
+
+- **1)** parki narodowe i rezerwaty przyrody, z wyjątkiem rezerwatów lub ich części, w których na obszarach wyznaczonych w planie ochrony lub zadaniach ochronnych nie zabroniono wykonywania polowania;
+- **2)** tereny w granicach administracyjnych miast; jeżeli jednak granice te obejmują większe obszary leśne lub rolne, z obszarów tych może być utworzony obwód łowiecki lub mogą być one włączone do innych obwodów łowieckich;
+- **3)** tereny zajęte przez miejscowości niezaliczane do miast, w granicach obejmujących zabudowania mieszkalne i gospodarcze z podwórzami, placami i ulicami oraz drogami wewnątrz tych miejscowości;
+- **4)** budowle, zakłady i urządzenia, tereny przeznaczone na cele społeczne, kultu religijnego, przemysłowe, handlowe, składowe, transportowe i inne cele gospodarcze oraz obiekty o charakterze zabytkowym i specjalnym, w granicach ich ogrodzeń.
 
 **Art. 26a.**
 
@@ -858,6 +872,21 @@ Art. 55–57. (pominięte)
 
 **Art. 34.** Do zadań Polskiego Związku Łowieckiego należy:
 
+- **1)** prowadzenie gospodarki łowieckiej;
+- **2)** troska o rozwój łowiectwa i współdziałanie z administracją rządową i samorządową, jednostkami organizacyjnymi Państwowego Gospodarstwa Leśnego Lasy Państwowe i parkami narodowymi oraz organizacjami społecznymi w ochronie środowiska przyrodniczego, w zachowaniu i rozwoju populacji zwierząt łownych i innych zwierząt dziko żyjących;
+- **3)** pielęgnowanie historycznych wartości kultury materialnej i duchowej łowiectwa;
+- **4)** ustalanie kierunków i zasad rozwoju łowiectwa, zasad selekcji populacyjnej i osobniczej zwierząt łownych;
+- **5)** czuwanie nad przestrzeganiem przez członków Polskiego Związku Łowieckiego prawa, zasad etyki, obyczajów i tradycji łowieckich;
+- **6)** prowadzenie dyscyplinarnego sądownictwa łowieckiego;
+- **7)** organizowanie szkolenia w zakresie prawidłowego łowiectwa i strzelectwa myśliwskiego;
+- **8)** prowadzenie i popieranie działalności wydawniczej i wystawienniczej o tematyce łowieckiej;
+- **9)** współpraca z pokrewnymi organizacjami zagranicznymi;
+- **10)** wspieranie i prowadzenie prac naukowych w zakresie gospodarowania zwierzyną;
+- **11)** prowadzenie i popieranie hodowli użytkowych psów myśliwskich i ptaków łowczych;
+- **11a)** podejmowanie działań mających na celu zwalczanie i zapobieganie rozprzestrzenianiu się chorób zakaźnych zwierząt łownych;
+- **11b)** realizacja zadań z zakresu ochrony ludności i obrony cywilnej;
+- **12)** realizacja innych zadań zleconych przez ministra właściwego do spraw środowiska.
+
 **Art. 35.**
 
 1. Działalność Polskiego Związku Łowieckiego jest finansowana z funduszy własnych, wpisowego, składek członkowskich, zapisów i darowizn oraz dochodów z działalności gospodarczej.
@@ -925,6 +954,10 @@ Art. 55–57. (pominięte)
 **Art. 35d.** Postępowanie dyscyplinarne o ten sam czyn toczy się niezależnie od postępowania karnego. Postępowanie dyscyplinarne może być zawieszone do czasu zakończenia postępowania karnego.
 
 **Art. 35e.** Postępowanie dyscyplinarne obejmuje:
+
+- **1)** dochodzenie dyscyplinarne prowadzone przez rzeczników dyscyplinarnych;
+- **2)** postępowanie przed sądami łowieckimi;
+- **3)** postępowanie wykonawcze.
 
 **Art. 35f.**
 
@@ -1027,6 +1060,9 @@ Art. 55–57. (pominięte)
 2. W sprawach nieuregulowanych w niniejszym rozdziale do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46).
 
 **Art. 35t.** Ilekroć w niniejszym rozdziale jest mowa o:
+
+- **1)** sądzie łowieckim – należy przez to rozumieć okręgowy sąd łowiecki i Główny Sąd Łowiecki;
+- **2)** rzeczniku dyscyplinarnym – należy przez to rozumieć okręgowego rzecznika dyscyplinarnego i Głównego Rzecznika Dyscyplinarnego.
 
 #### Rozdział 7 Straż łowiecka
 
@@ -1260,6 +1296,14 @@ Art. 55–57. (pominięte)
 
 **Art. 42d.** Odstrzał samców łosi, jeleni, danieli, saren i muflonów podlega ocenie co do jego zgodności z zasadami selekcji osobniczej. Oceny w obwodach podlegających wydzierżawieniu dokonują komisje powołane przez Polski Związek Łowiecki, w skład których wchodzą przedstawiciele: Polskiego Związku Łowieckiego oraz Państwowego Gospodarstwa Leśnego Lasy Państwowe, a w obwodach wyłączonych z wydzierżawienia ich zarządcy przy udziale odpowiednio przedstawiciela: Polskiego Związku Łowieckiego albo Państwowego Gospodarstwa Leśnego Lasy Państwowe bądź obu z nich. Art. 42da. 1. Po dokonaniu oceny, o której mowa w art. 42d, komisje sporządzają sprawozdanie ze swoich prac i przekazują je do zarządów okręgowych, które wobec osób dokonujących odstrzału nakładają, w formie uchwał, następujące kary porządkowe za naruszenie zasad selekcji osobniczej:
 
+- **1)** nagany;
+- **2)** zawieszenia w prawach polowania na określony gatunek samców zwierzyny płowej i muflonów na okres do 2 lat;
+- **3)** zawieszenia w prawach polowania na samce zwierzyny płowej i muflony na okres do 2 lat.
+
+2. Od uchwały, o której mowa w ust. 1, służy stronie odwołanie do Zarządu Głównego w terminie 14 dni od dnia doręczenia tej uchwały.
+
+3. Na uchwałę Zarządu Głównego przysługuje stronie skarga do wojewódzkiego sądu administracyjnego w terminie 14 dni od dnia doręczenia tej uchwały.
+
 **Art. 42e.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, sposób wyceny oraz ewidencji trofeów łowieckich, uwzględniając kryteria wyceny Międzynarodowej Rady Łowiectwa i Ochrony Zwierzyny, a także sposób i formę ochrony trofeów rekordowych oraz wielkość trofeów, których wywóz za granicę jest zabroniony.
 
 **Art. 43.**
@@ -1488,6 +1532,10 @@ Art. 55–57. (pominięte)
 
 **Art. 46g.** Państwowe Gospodarstwo Leśne Lasy Państwowe organizuje szkolenia w zakresie szacowania szkód łowieckich dla:
 
+- **1)** przedstawicieli wojewódzkich ośrodków doradztwa rolniczego;
+- **2)** przedstawicieli izb rolniczych, o których mowa w art. 46d ust. 5;
+- **3)** przedstawicieli dzierżawców i zarządców obwodów łowieckich.
+
 **Art. 47.**
 
 1. Właściciele lub posiadacze gruntów rolnych i leśnych powinni, zgodnie z potrzebami, współdziałać z dzierżawcami i zarządcami obwodów łowieckich w zabezpieczaniu gruntów przed szkodami, o których mowa w art. 46.
@@ -1495,6 +1543,17 @@ Art. 55–57. (pominięte)
 2. (uchylony)
 
 **Art. 48.** Odszkodowanie nie przysługuje:
+
+- **1)** osobom, którym przydzielono grunty stanowiące własność Skarbu Państwa jako deputaty rolne na gruntach leśnych;
+- **2)** posiadaczom uszkodzonych upraw lub płodów rolnych, którzy nie dokonali ich sprzętu w terminie 14 dni od dnia zakończenia okresu zbioru tego gatunku roślin w danym regionie, określonego przez sejmik województwa w drodze uchwały;
+- **3)** posiadaczom uszkodzonych upraw lub płodów rolnych, którzy nie wyrazili zgody na budowę przez dzierżawcę lub zarządcę obwodu łowieckiego urządzeń lub wykonywanie zabiegów zapobiegających szkodom, z wyłączeniem szkód wyrządzonych przy wykonywaniu polowania oraz szkód, które powstałyby niezależnie od wzniesienia urządzeń lub wykonania zabiegów, na które posiadacz uszkodzonych upraw lub płodów rolnych nie wyraził zgody;
+- **4)** za szkody nieprzekraczające wartości 100 kg żyta w przeliczeniu na 1 hektar uprawy;
+- **5)** za szkody powstałe w płodach złożonych w sterty, stogi i kopce, w bezpośrednim sąsiedztwie lasu;
+- **6)** za szkody w uprawach rolnych założonych z rażącym naruszeniem zasad agrotechnicznych;
+- **7)** za szkody, o których mowa w art. 46 ust. 1, powstałe na nieruchomościach, w odniesieniu do których właściciel albo użytkownik wieczysty złożył oświadczenie o zakazie wykonywania polowania, o którym mowa w art. 27b ust. 1 – do dnia następującego po dniu:
+    - **a)** w którym oświadczenie o zakazie wykonywania polowania zostało cofnięte albo
+    - **b)** w którym organ właściwy do wydzierżawienia obwodu łowieckiego albo minister właściwy do spraw środowiska lub dzierżawca albo zarządca obwodu łowieckiego dowiedział się o wygaśnięciu zakazu wykonywania polowania albo
+    - **c)** zawiadomienia o cofnięciu oświadczenia o zakazie wykonywania polowania organu właściwego do wydzierżawienia obwodu łowieckiego albo ministra właściwego do spraw środowiska.
 
 **Art. 49.**
 
@@ -1549,7 +1608,27 @@ Art. 55–57. (pominięte)
 
 **Art. 52.** Kto:
 
+- **1)** gromadzi, posiada, wytwarza, przechowuje lub wprowadza do obrotu narzędzia i urządzenia przeznaczone do kłusownictwa,
+- **2)** wchodzi w posiadanie bezprawnie pozyskanej tuszy lub trofeów zwierząt łownych,
+- **3)** narusza zakaz, o którym mowa w art. 9 ust. 1 pkt 4,
+- **4)** hoduje lub utrzymuje bez zezwolenia charty rasowe lub ich mieszańce,
+- **5)** sprawując zarząd z ramienia dzierżawcy, a w obwodach niewydzierżawionych z ramienia zarządcy, zezwala na polowanie osobie nieuprawnionej do wykonywania polowania lub na przekroczenie zatwierdzonego w planie łowieckim pozyskania zwierzyny,
+- **6)** pozyskuje zwierzynę innego gatunku, innej płci lub w większej liczbie, niż przewiduje upoważnienie wydane przez dzierżawcę lub zarządcę obwodu łowieckiego,
+- **7)** wykonuje polowanie w obecności lub przy udziale dziecka do 18. roku życia,
+- **8)** celowo utrudnia lub uniemożliwia wykonywanie polowania,
+- **9)** dokonuje wprowadzenia do środowiska:
+    - **a)** bez zgłoszenia, o którym mowa w art. 16a ust. 1, albo niezgodnie z tym zgłoszeniem,
+    - **b)** przed upływem terminu, o którym mowa w art. 16a ust. 5,
+    - **c)** w przypadku wniesienia sprzeciwu, o którym mowa w art. 16a ust. 8 – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
 **Art. 53.** Kto:
+
+- **1)** poluje na przelotne ptactwo łowne na wybrzeżu morskim w pasie 3000 m od brzegu w głąb morza lub 5000 m w głąb lądu,
+- **2)** poluje z chartami lub ich mieszańcami,
+- **3)** poluje w czasie ochronnym,
+- **4)** poluje nie posiadając uprawnień do polowania, 4a) wbrew zakazowi określonemu w art. 42aa pkt 14, zakłada narzędzia lub urządzenia przeznaczone do łowienia, chwytania lub zabijania zwierzyny,
+- **5)** wchodzi w posiadanie zwierzyny za pomocą broni i amunicji innej niż myśliwska, środków i materiałów wybuchowych, trucizn, karmy o właściwościach odurzających, sztucznego światła, lepów, wnyków, żelaz, dołów, samostrzałów lub rozkopywania nor i innych niedozwolonych środków,
+- **6)** nie będąc uprawnionym do polowania wchodzi w posiadanie zwierzyny – podlega karze pozbawienia wolności do lat 5.
 
 **Art. 54.**
 

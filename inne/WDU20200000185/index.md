@@ -91,7 +91,8 @@ d) elementów i podzespołów układu hamulcowego, w tym cylindrów hamulcowych,
 3. Za kwalifikowalne mogą zostać uznane wydatki poniesione przez przedsiębiorcę ubiegającego się o udzielenie pomocy w okresie od dnia otrzymania informacji, o której mowa w § 4 ust. 6, albo od dnia zawarcia umowy o dofinansowanie projektu, w przypadku nieotrzymania przez beneficjenta informacji, o której mowa w § 4 ust. 6, do dnia 31 grudnia 2023 r.
 § 6. Maksymalna intensywność pomocy wynosi 50% wydatków kwalifikowalnych, o których mowa w § 5 ust. 1.
 § 7. 1. Pomoc udzielona w odniesieniu do tych samych wydatków kwalifikowalnych podlega sumowaniu z każdą inną pomocą publiczną lub pomocą de minimis, udzieloną beneficjentowi, któremu przyznano pomoc, o której mowa w rozporządzeniu, niezależnie od jej formy i źródła.
-2. Skumulowana pomoc, o której mowa w ust. 1, nie może przekroczyć maksymalnej intensywności pomocy, o której mowa w § 6.
+2. Skumulowana pomoc, o której mowa w ust. 1, nie może przekroczyć maksymalnej intensywności pomocy, o której
+§ 6.
 3. Beneficjent informuje CUPT o każdej innej pomocy publicznej lub pomocy de minimis udzielonej na realizację tego samego projektu.
 § 8. Pomoc może być udzielona w okresie obowiązywania decyzji Komisji Europejskiej, o której mowa odpowiednio w art. 4 ust. 3 albo art. 9 ust. 3 i 4 rozporządzenia Rady (UE) 2015/1589 z dnia 13 lipca 2015 r. ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 248 z 24.09.2015, str. 9), nie dłużej jednak niż do dnia 31 grudnia 2023 r.
 § 9. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.

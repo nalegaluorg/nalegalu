@@ -8,12 +8,10 @@ pos: 720
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 maja 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -58,7 +56,7 @@ Art. 79–83. (pominięte)
 - **2)** umowy o kredyt hipoteczny, w przypadku której kredyt jest udzielany bez oprocentowania i opłat, z wyjątkiem opłat przeznaczonych na pokrycie kosztów bezpośrednio związanych z zabezpieczeniem kredytu;
 - **3)** umowy o kredyt hipoteczny w rachunku oszczędnościowo-rozliczeniowym, który musi być spłacony w terminie miesiąca;
 - **4)** umowy o kredyt hipoteczny będącej wynikiem ugody sądowej oraz ugody będącej wynikiem postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich, o którym mowa w ustawie z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823);
-- **5)** umowy o kredyt hipoteczny dotyczącej odroczonej spłaty bez żadnych opłat istniejącego zadłużenia, z wyjątkiem umowy o kredyt hipoteczny, w ramach której kredytodawca udziela konsumentowi kredytu hipotecznego lub daje mu przyrzeczenie udzielenia kredytu hipotecznego zabezpieczonego hipoteką lub innym prawem związanym z nieruchomością mieszkalną;
+- **5)** umowy o kredyt hipoteczny dotyczącej odroczonej spłaty – bez żadnych opłat – istniejącego zadłużenia, z wyjątkiem umowy o kredyt hipoteczny, w ramach której kredytodawca udziela konsumentowi kredytu hipotecznego lub daje mu przyrzeczenie udzielenia kredytu hipotecznego zabezpieczonego hipoteką lub innym prawem związanym z nieruchomością mieszkalną;
 - **6)** umowy o odwrócony kredyt hipoteczny w rozumieniu art. 4 ust. 1 ustawy z dnia 23 października 2014 r. o odwróconym kredycie hipotecznym (Dz. U. z 2025 r. poz. 573);
 - **7)** umowy o kredyt niezabezpieczony hipoteką przeznaczony na remont nieruchomości mieszkalnej.
 
@@ -66,7 +64,7 @@ Art. 79–83. (pominięte)
 
 1. Przez umowę o kredyt hipoteczny rozumie się umowę, w ramach której kredytodawca udziela konsumentowi kredytu lub daje mu przyrzeczenie udzielenia kredytu zabezpieczonego hipoteką lub innym prawem związanym z nieruchomością mieszkalną lub przeznaczonego na sfinansowanie niezwiązanego z działalnością gospodarczą lub prowadzeniem gospodarstwa rolnego nabycia lub utrzymania:
 
-- **1)** prawa własności budynku mieszkalnego lub lokalu mieszkalnego stanowiącego odrębną nieruchomość, a także ich budowy lub przebudowy w rozumieniu art. 3 pkt 6 i 7a ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418);
+- **1)** prawa własności budynku mieszkalnego lub lokalu mieszkalnego stanowiącego odrębną nieruchomość, a także ich budowy lub przebudowy w rozumieniu art. 3 pkt 6 i 7a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418);
 - **2)** spółdzielczego własnościowego prawa do lokalu;
 - **3)** prawa własności nieruchomości gruntowej lub jej części;
 - **4)** udziału we współwłasności budynku mieszkalnego lub lokalu mieszkalnego stanowiącego odrębną nieruchomość lub udziału w nieruchomości gruntowej.
@@ -74,63 +72,63 @@ Art. 79–83. (pominięte)
 2. Za umowę o kredyt hipoteczny uważa się w szczególności umowę:
 
 - **1)** pożyczki,
-- **2)** kredytu w rozumieniu art. 69 ust. 1 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146, 222 i 525),
+- **2)** kredytu w rozumieniu art. 69 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146, 222 i 525),
 - **3)** o odroczeniu konsumentowi terminu spełnienia świadczenia pieniężnego,
 - **4)** o kredyt, w której kredytodawca zaciąga zobowiązanie wobec osoby trzeciej, a konsument zobowiązuje się do zwrotu kredytodawcy spełnionego świadczenia,
-- **5)** o kredyt odnawialny o ile spełnia warunki określone w ust. 1.
+- **5)** o kredyt odnawialny – o ile spełnia warunki określone w ust. 1.
 
 **Art. 4.** Użyte w ustawie określenia oznaczają:
 
-- **1)** agent przedsiębiorcę w rozumieniu art. 43 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237), wykonującego czynności pośrednictwa kredytu hipotecznego, występującego w imieniu i na rzecz wyłącznie jednego pośrednika kredytu hipotecznego;
-- **2)** bazy danych zbiory danych prowadzone dla celów oceny zdolności kredytowej przez instytucje, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, oraz biura informacji gospodarczej, o których mowa w ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2025 r. poz. 85);
-- **3)** całkowita kwota do zapłaty przez konsumenta sumę całkowitego kosztu kredytu hipotecznego i całkowitej kwoty kredytu hipotecznego;
-- **4)** całkowita kwota kredytu hipotecznego maksymalną kwotę wszystkich środków pieniężnych nieobejmujących kredytowanych kosztów kredytu hipotecznego, które kredytodawca udostępnia konsumentowi na podstawie umowy o kredyt hipoteczny, a w przypadku umowy o kredyt hipoteczny, dla której nie przewidziano tej maksymalnej kwoty sumę wszystkich środków pieniężnych nieobejmujących kredytowanych kosztów kredytu hipotecznego, które kredytodawca udostępnia konsumentowi na podstawie umowy o kredyt hipoteczny;
-- **5)** całkowity koszt kredytu hipotecznego wszelkie koszty, które konsument jest zobowiązany ponieść w związku z umową o kredyt hipoteczny, w szczególności:
+- **1)** agent – przedsiębiorcę w rozumieniu art. 43 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237), wykonującego czynności pośrednictwa kredytu hipotecznego, występującego w imieniu i na rzecz wyłącznie jednego pośrednika kredytu hipotecznego;
+- **2)** bazy danych – zbiory danych prowadzone dla celów oceny zdolności kredytowej przez instytucje, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, oraz biura informacji gospodarczej, o których mowa w ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2025 r. poz. 85);
+- **3)** całkowita kwota do zapłaty przez konsumenta – sumę całkowitego kosztu kredytu hipotecznego i całkowitej kwoty kredytu hipotecznego;
+- **4)** całkowita kwota kredytu hipotecznego – maksymalną kwotę wszystkich środków pieniężnych nieobejmujących kredytowanych kosztów kredytu hipotecznego, które kredytodawca udostępnia konsumentowi na podstawie umowy o kredyt hipoteczny, a w przypadku umowy o kredyt hipoteczny, dla której nie przewidziano tej maksymalnej kwoty – sumę wszystkich środków pieniężnych nieobejmujących kredytowanych kosztów kredytu hipotecznego, które kredytodawca udostępnia konsumentowi na podstawie umowy o kredyt hipoteczny;
+- **5)** całkowity koszt kredytu hipotecznego – wszelkie koszty, które konsument jest zobowiązany ponieść w związku z umową o kredyt hipoteczny, w szczególności:
     - **a)** odsetki, opłaty, prowizje, podatki i marże, jeżeli są znane kredytodawcy,
-    - **b)** koszty usług dodatkowych, w szczególności ubezpieczeń, w przypadku gdy ich poniesienie jest niezbędne do uzyskania kredytu hipotecznego lub do uzyskania go na oferowanych warunkach z wyjątkiem kosztów opłat notarialnych i opłat sądowych ponoszonych przez konsumenta;
+    - **b)** koszty usług dodatkowych, w szczególności ubezpieczeń, w przypadku gdy ich poniesienie jest niezbędne do uzyskania kredytu hipotecznego lub do uzyskania go na oferowanych warunkach – z wyjątkiem kosztów opłat notarialnych i opłat sądowych ponoszonych przez konsumenta;
 
-- **6)** goszczące państwo członkowskie państwo członkowskie inne niż macierzyste państwo członkowskie, w którym kredytodawca lub pośrednik kredytowy ma oddział lub świadczy usługi w zakresie kredytu hipotecznego;
-- **7)** konsument konsumenta w rozumieniu art. 22 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny;
+- **6)** goszczące państwo członkowskie – państwo członkowskie inne niż macierzyste państwo członkowskie, w którym kredytodawca lub pośrednik kredytowy ma oddział lub świadczy usługi w zakresie kredytu hipotecznego;
+- **7)** konsument – konsumenta w rozumieniu art. 22 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny;
 - **8)** kredytodawca:
-    - **a)** bank krajowy w rozumieniu art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe,
-    - **b)** oddział banku zagranicznego w rozumieniu art. 4 ust. 1 pkt 20 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe,
-    - **c)** instytucję kredytową w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe prowadzącą działalność transgraniczną w rozumieniu art. 4 ust. 1 pkt 21 tej ustawy,
-    - **d)** oddział instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 18 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe,
-    - **e)** spółdzielczą kasę oszczędnościowo-kredytową które w zakresie swojej działalności gospodarczej udzielają lub dają przyrzeczenie udzielenia konsumentowi kredytu hipotecznego;
+    - **a)** bank krajowy w rozumieniu art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe,
+    - **b)** oddział banku zagranicznego w rozumieniu art. 4 ust. 1 pkt 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe,
+    - **c)** instytucję kredytową w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe prowadzącą działalność transgraniczną w rozumieniu art. 4 ust. 1 pkt 21 tej ustawy,
+    - **d)** oddział instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 18 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe,
+    - **e)** spółdzielczą kasę oszczędnościowo-kredytową – które w zakresie swojej działalności gospodarczej udzielają lub dają przyrzeczenie udzielenia konsumentowi kredytu hipotecznego;
 
-- **9)** macierzyste państwo członkowskie państwo członkowskie, w którym kredytodawca lub pośrednik kredytowy ma odpowiednio siedzibę albo miejsce zamieszkania;
-- **10)** nieruchomość nieruchomość w rozumieniu art. 46 § 1 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny oraz samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 zdanie pierwsze ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688);
-- **11)** ocena zdolności kredytowej ocenę zdolności konsumenta do spłaty zaciągniętego kredytu hipotecznego wraz z odsetkami, w terminach określonych w umowie o kredyt hipoteczny, dokonywaną przez kredytodawcę;
-- **12)** państwo członkowskie państwo członkowskie Unii Europejskiej;
+- **9)** macierzyste państwo członkowskie – państwo członkowskie, w którym kredytodawca lub pośrednik kredytowy ma odpowiednio siedzibę albo miejsce zamieszkania;
+- **10)** nieruchomość – nieruchomość w rozumieniu art. 46 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny oraz samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 zdanie pierwsze ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688);
+- **11)** ocena zdolności kredytowej – ocenę zdolności konsumenta do spłaty zaciągniętego kredytu hipotecznego wraz z odsetkami, w terminach określonych w umowie o kredyt hipoteczny, dokonywaną przez kredytodawcę;
+- **12)** państwo członkowskie – państwo członkowskie Unii Europejskiej;
 - **13)** personel kredytodawcy, pośrednika kredytu hipotecznego lub agenta:
-    - **a)** pracownika kredytodawcy lub pośrednika kredytu hipotecznego w rozumieniu art. 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277), bezpośrednio zaangażowanego w czynności objęte ustawą lub uczestniczącego w obsłudze konsumenta w zakresie czynności objętych ustawą,
-    - **b)** pracownika agenta w rozumieniu art. 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, bezpośrednio zaangażowanego w czynności objęte ustawą lub uczestniczącego w obsłudze konsumenta w zakresie czynności objętych ustawą,
+    - **a)** pracownika kredytodawcy lub pośrednika kredytu hipotecznego w rozumieniu art. 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277), bezpośrednio zaangażowanego w czynności objęte ustawą lub uczestniczącego w obsłudze konsumenta w zakresie czynności objętych ustawą,
+    - **b)** pracownika agenta w rozumieniu art. 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, bezpośrednio zaangażowanego w czynności objęte ustawą lub uczestniczącego w obsłudze konsumenta w zakresie czynności objętych ustawą,
     - **c)** osobę fizyczną, która bezpośrednio zarządza osobami, o których mowa w lit. a lub b, lub sprawuje bezpośredni nadzór nad tymi osobami,
     - **d)** osobę fizyczną, która świadczy usługi na rzecz kredytodawcy, pośrednika kredytu hipotecznego lub agenta, wykonując czynności, o których mowa w lit. a lub b, na podstawie umowy cywilnoprawnej;
 
-- **14)** pośrednictwo kredytu hipotecznego wykonywanie czynności, o których mowa w pkt 15;
-- **15)** pośrednik kredytu hipotecznego przedsiębiorcę w rozumieniu art. 43 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, niebędącego kredytodawcą, który w ramach wykonywanej działalności gospodarczej lub zawodowej, za wynagrodzeniem w formie pieniężnej lub innej uzgodnionej formie korzyści finansowej:
+- **14)** pośrednictwo kredytu hipotecznego – wykonywanie czynności, o których mowa w pkt 15;
+- **15)** pośrednik kredytu hipotecznego – przedsiębiorcę w rozumieniu art. 43 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, niebędącego kredytodawcą, który w ramach wykonywanej działalności gospodarczej lub zawodowej, za wynagrodzeniem w formie pieniężnej lub innej uzgodnionej formie korzyści finansowej:
     - **a)** przedstawia lub oferuje konsumentom umowy o kredyt hipoteczny, lub
     - **b)** udziela konsumentom pomocy, podejmując prace przygotowawcze lub inne przedumowne działania administracyjne inne niż wymienione w lit. a, polegające na obsłudze dokumentów, w związku z umowami o kredyt hipoteczny, lub
     - **c)** zawiera z konsumentami umowy o kredyt hipoteczny w imieniu kredytodawcy;
 
-- **16)** powiązany pośrednik kredytu hipotecznego pośrednika kredytu hipotecznego, który działa w imieniu i na rzecz:
+- **16)** powiązany pośrednik kredytu hipotecznego – pośrednika kredytu hipotecznego, który działa w imieniu i na rzecz:
     - **a)** wyłącznie jednego kredytodawcy,
     - **b)** wyłącznie jednej grupy kredytodawców, którzy podlegają konsolidacji do celów sporządzania skonsolidowanych sprawozdań finansowych zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863),
     - **c)** określonej liczby kredytodawców lub grup kredytodawców, o których mowa w lit. b, które nie stanowią co najmniej połowy liczby kredytodawców funkcjonujących na rynku usług świadczonych w zakresie udzielania kredytów hipotecznych;
 
-- **17)** rzeczywista roczna stopa oprocentowania całkowity koszt kredytu hipotecznego ponoszony przez konsumenta, wyrażony jako wartość procentowa całkowitej kwoty kredytu hipotecznego w stosunku rocznym;
-- **18)** sprzedaż łączona oferowanie lub zawieranie umowy o kredyt hipoteczny wraz z innymi odrębnymi produktami lub usługami finansowymi, w przypadku gdy umowa o kredyt hipoteczny jest dla konsumenta dostępna również bez tych produktów lub usług, w tym na innych warunkach niż łącznie z tymi produktami lub usługami;
-- **19)** sprzedaż wiązana oferowanie lub zawieranie umowy o kredyt hipoteczny w pakiecie z innymi odrębnymi produktami lub usługami finansowymi, w przypadku gdy umowa o kredyt hipoteczny nie jest dla konsumenta dostępna bez takich produktów lub usług;
-- **20)** stała stopa oprocentowania kredytu hipotecznego stopę oprocentowania określoną wyłącznie w umowie o kredyt hipoteczny, przy wykorzystaniu określonej stałej wartości procentowej wyrażonej na okres obowiązywania umowy o kredyt hipoteczny lub w poszczególnych okresach obowiązywania umowy o kredyt hipoteczny;
-- **21)** stopa oprocentowania kredytu hipotecznego stopę oprocentowania wyrażoną jako stałe lub zmienne oprocentowanie stosowane do wypłaconej kwoty na podstawie umowy o kredyt hipoteczny w stosunku rocznym;
-- **22)** trwały nośnik materiał lub urządzenie służące do przechowywania i odczytywania informacji przekazywanych konsumentowi w związku z umową o kredyt hipoteczny, przez okres odpowiedni do celów, jakim informacje te służą, oraz pozwalające na odtworzenie tych informacji w niezmienionej postaci;
-- **23)** umowa o kredyt hipoteczny w walucie obcej umowę o kredyt hipoteczny, w której kredyt jest w walucie innej niż waluta, w której konsument otrzymuje dochód lub posiada aktywa, z których kredyt hipoteczny ma zostać spłacony, lub w walucie innej niż waluta państwa członkowskiego, w którym konsument ma miejsce zamieszkania;
-- **24)** umowa o kredyt hipoteczny zawierana na odległość umowę o kredyt hipoteczny będącą umową zawartą na odległość w rozumieniu art. 2 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796);
-- **25)** usługa dodatkowa usługę oferowaną konsumentowi łącznie z umową o kredyt hipoteczny;
-- **26)** usługi doradcze przedstawianie rekomendacji konsumentowi przez kredytodawcę, pośrednika kredytu hipotecznego lub agenta w odniesieniu do co najmniej jednej umowy o kredyt hipoteczny, stanowiące usługę odrębną od udzielenia kredytu hipotecznego i od czynności pośrednictwa kredytu hipotecznego;
-- **27)** wartość rynkowa nieruchomości wartość rynkową nieruchomości w rozumieniu art. 151 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881);
-- **28)** wskaźnik referencyjny wskaźnik, o którym mowa w art. 3 ust. 1 pkt 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1).
+- **17)** rzeczywista roczna stopa oprocentowania – całkowity koszt kredytu hipotecznego ponoszony przez konsumenta, wyrażony jako wartość procentowa całkowitej kwoty kredytu hipotecznego w stosunku rocznym;
+- **18)** sprzedaż łączona – oferowanie lub zawieranie umowy o kredyt hipoteczny wraz z innymi odrębnymi produktami lub usługami finansowymi, w przypadku gdy umowa o kredyt hipoteczny jest dla konsumenta dostępna również bez tych produktów lub usług, w tym na innych warunkach niż łącznie z tymi produktami lub usługami;
+- **19)** sprzedaż wiązana – oferowanie lub zawieranie umowy o kredyt hipoteczny w pakiecie z innymi odrębnymi produktami lub usługami finansowymi, w przypadku gdy umowa o kredyt hipoteczny nie jest dla konsumenta dostępna bez takich produktów lub usług;
+- **20)** stała stopa oprocentowania kredytu hipotecznego – stopę oprocentowania określoną wyłącznie w umowie o kredyt hipoteczny, przy wykorzystaniu określonej stałej wartości procentowej wyrażonej na okres obowiązywania umowy o kredyt hipoteczny lub w poszczególnych okresach obowiązywania umowy o kredyt hipoteczny;
+- **21)** stopa oprocentowania kredytu hipotecznego – stopę oprocentowania wyrażoną jako stałe lub zmienne oprocentowanie stosowane do wypłaconej kwoty na podstawie umowy o kredyt hipoteczny w stosunku rocznym;
+- **22)** trwały nośnik – materiał lub urządzenie służące do przechowywania i odczytywania informacji przekazywanych konsumentowi w związku z umową o kredyt hipoteczny, przez okres odpowiedni do celów, jakim informacje te służą, oraz pozwalające na odtworzenie tych informacji w niezmienionej postaci;
+- **23)** umowa o kredyt hipoteczny w walucie obcej – umowę o kredyt hipoteczny, w której kredyt jest w walucie innej niż waluta, w której konsument otrzymuje dochód lub posiada aktywa, z których kredyt hipoteczny ma zostać spłacony, lub w walucie innej niż waluta państwa członkowskiego, w którym konsument ma miejsce zamieszkania;
+- **24)** umowa o kredyt hipoteczny zawierana na odległość – umowę o kredyt hipoteczny będącą umową zawartą na odległość w rozumieniu art. 2 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796);
+- **25)** usługa dodatkowa – usługę oferowaną konsumentowi łącznie z umową o kredyt hipoteczny;
+- **26)** usługi doradcze – przedstawianie rekomendacji konsumentowi przez kredytodawcę, pośrednika kredytu hipotecznego lub agenta w odniesieniu do co najmniej jednej umowy o kredyt hipoteczny, stanowiące usługę odrębną od udzielenia kredytu hipotecznego i od czynności pośrednictwa kredytu hipotecznego;
+- **27)** wartość rynkowa nieruchomości – wartość rynkową nieruchomości w rozumieniu art. 151 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881);
+- **28)** wskaźnik referencyjny – wskaźnik, o którym mowa w art. 3 ust. 1 pkt 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1).
 
 **Art. 5.** Działalność gospodarcza, której przedmiotem jest udzielanie lub dawanie przyrzeczenia udzielenia konsumentowi kredytu hipotecznego, może być wykonywana wyłącznie przez kredytodawców.
 
@@ -217,9 +215,9 @@ Art. 79–83. (pominięte)
 - **2)** cele, na które kredyt hipoteczny może zostać wykorzystany;
 - **3)** formy zabezpieczenia, w tym wskazanie możliwości, że przedmiot zabezpieczenia może znajdować się w innym niż Rzeczpospolita Polska państwie członkowskim, o ile taka możliwość jest przewidziana;
 - **4)** okres, na jaki może być zawarta umowa o kredyt hipoteczny;
-- **5)** w przypadku umów o kredyt hipoteczny, w których stosuje się jako odniesienie wskaźnik referencyjny nazwy wskaźników referencyjnych i ich administratorów, o których mowa w art. 3 ust. 1 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014, oraz informację o potencjalnych konsekwencjach dla konsumenta;
+- **5)** w przypadku umów o kredyt hipoteczny, w których stosuje się jako odniesienie wskaźnik referencyjny – nazwy wskaźników referencyjnych i ich administratorów, o których mowa w art. 3 ust. 1 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014, oraz informację o potencjalnych konsekwencjach dla konsumenta;
 - **6)** rodzaje dostępnej stopy oprocentowania kredytu hipotecznego ze wskazaniem, czy jest to stała stopa oprocentowania kredytu hipotecznego, zmienna, czy stanowiąca połączenie obu rodzajów oprocentowania, wraz z krótką charakterystyką stałej stopy oprocentowania kredytu hipotecznego i stopy zmiennej, w tym informacją o związanych z tym konsekwencjach dla konsumenta;
-- **7)** w przypadku umów o kredyt hipoteczny w walucie obcej wskazanie danej waluty wraz z informacją o konsekwencjach denominowania lub indeksowania tego kredytu dla konsumenta oraz ryzyku walutowym związanym z tym kredytem;
+- **7)** w przypadku umów o kredyt hipoteczny w walucie obcej – wskazanie danej waluty wraz z informacją o konsekwencjach denominowania lub indeksowania tego kredytu dla konsumenta oraz ryzyku walutowym związanym z tym kredytem;
 - **8)** reprezentatywny przykład całkowitej kwoty kredytu hipotecznego, całkowitego kosztu kredytu hipotecznego, całkowitej kwoty do zapłaty przez konsumenta oraz rzeczywistej rocznej stopy oprocentowania;
 - **9)** wskazanie możliwych innych kosztów nieujętych w całkowitym koszcie kredytu hipotecznego, które konsument może ponieść w związku z umową o kredyt hipoteczny, i prognozowaną maksymalną wysokość tych kosztów;
 - **10)** poszczególne warianty spłaty kredytu hipotecznego oferowane przez kredytodawcę, w tym liczbę, częstotliwość i wysokość regularnie spłacanych rat;
@@ -227,14 +225,14 @@ Art. 79–83. (pominięte)
 - **12)** wskazanie, czy jest konieczna wycena nieruchomości i czy wiąże się to z kosztami dla konsumenta, a jeżeli tak, to w jakiej wysokości, oraz wskazanie, kto odpowiada za zapewnienie dokonania wyceny nieruchomości;
 - **13)** wskazanie usług dodatkowych, które konsument jest zobowiązany nabyć, aby uzyskać kredyt hipoteczny lub uzyskać go na reklamowanych warunkach, oraz, w stosownych przypadkach, wyjaśnienie, że usługi dodatkowe mogą być nabywane u usługodawcy innego niż kredytodawca;
 - **14)** ostrzeżenie dotyczące możliwych konsekwencji niewykonania lub nienależytego wykonania zobowiązań związanych z umową o kredyt hipoteczny;
-- **15)** w przypadku gdy umowa o kredyt hipoteczny dotyczy kredytu hipotecznego objętego wsparciem udzielanym ze środków publicznych wskazanie warunków, kryteriów i ograniczeń oraz wymaganych dokumentów związanych z otrzymaniem takiego wsparcia.
+- **15)** w przypadku gdy umowa o kredyt hipoteczny dotyczy kredytu hipotecznego objętego wsparciem udzielanym ze środków publicznych – wskazanie warunków, kryteriów i ograniczeń oraz wymaganych dokumentów związanych z otrzymaniem takiego wsparcia.
 
 2. Kredytodawca, pośrednik kredytu hipotecznego ani agent nie mogą pobierać opłat od konsumenta za przekazywanie informacji w związku z obowiązkami informacyjnymi określonymi w ustawie.
 
 3. Kredytodawca nie później niż na 30 dni przed zmianą postanowień umowy o kredyt hipoteczny przekazuje konsumentowi na trwałym nośniku:
 
 - **1)** przejrzysty opis proponowanych zmian, w tym zmian wymagających uzyskania zgody konsumenta, lub zmian wprowadzonych z mocy prawa, wraz z harmonogramem ich wdrożenia;
-- **2)** informację o przysługującej konsumentowi możliwości złożenia reklamacji do kredytodawcy, a w przypadku nieuwzględnienia jego roszczeń złożenia wniosku o rozpatrzenie sprawy do Rzecznika Finansowego zgodnie z ustawą z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146), wraz ze wskazaniem adresu, na który należy złożyć ten wniosek, a także informację o możliwości skierowania roszczeń na drogę sądową lub możliwości pozasądowego rozwiązywania sporów.
+- **2)** informację o przysługującej konsumentowi możliwości złożenia reklamacji do kredytodawcy, a w przypadku nieuwzględnienia jego roszczeń – złożenia wniosku o rozpatrzenie sprawy do Rzecznika Finansowego zgodnie z ustawą z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146), wraz ze wskazaniem adresu, na który należy złożyć ten wniosek, a także informację o możliwości skierowania roszczeń na drogę sądową lub możliwości pozasądowego rozwiązywania sporów.
 
 4. Termin, o którym mowa w ust. 3, nie musi być zachowany, jeżeli zmiany postanowień umowy o kredyt hipoteczny wprowadzane są na wniosek konsumenta lub konsument wyraził zgodę na przekazanie informacji, o których mowa w ust. 3, bez zachowania tego terminu.
 
@@ -266,7 +264,7 @@ Art. 79–83. (pominięte)
 
 3. Kredytodawca jest obowiązany poinformować konsumenta o możliwości przekazania decyzji kredytowej przed terminem, o którym mowa w ust. 2.
 
-4. Decyzja kredytowa stanowi ofertę w rozumieniu art. 66 § 1 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+4. Decyzja kredytowa stanowi ofertę w rozumieniu art. 66 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 5. Kredytodawca, pośrednik kredytu hipotecznego oraz agent są obowiązani przekazać wraz z decyzją kredytową formularz informacyjny, o którym mowa w art. 11 ust. 2, w przypadku gdy konsument nie złożył wniosku, o którym mowa w ust. 1, w terminie, o którym mowa w art. 11 ust. 5.
 
@@ -300,11 +298,11 @@ Art. 79–83. (pominięte)
 
 - **1)** firmę oraz siedzibę (miejsce zamieszkania) i adres pośrednika kredytu hipotecznego;
 - **2)** numer wpisu pośrednika kredytu hipotecznego do rejestru pośredników kredytowych wraz z adresem strony internetowej, na której jest dostępny ten rejestr;
-- **3)** czy pośrednik kredytu hipotecznego jest powiązanym pośrednikiem kredytu hipotecznego, a jeżeli tak firmy (nazwy) kredytodawców, w imieniu i na rzecz których działa;
+- **3)** czy pośrednik kredytu hipotecznego jest powiązanym pośrednikiem kredytu hipotecznego, a jeżeli tak – firmy (nazwy) kredytodawców, w imieniu i na rzecz których działa;
 - **4)** czy pośrednik kredytu hipotecznego oferuje usługi doradcze;
 - **5)** o procedurach składania skarg na pośredników kredytu hipotecznego w trybie wewnętrznym i sposobie korzystania z pozasądowych procedur wnoszenia skarg i odwołań;
 - **6)** o prowizji oraz innych wynagrodzeniach w formie pieniężnej lub innej uzgodnionej formie korzyści finansowej, a także ich wysokości, o ile jest znana, przekazywanych przez kredytodawcę lub inne podmioty pośrednikowi kredytu hipotecznego lub agentowi, w tym wynagrodzeniach związanych z zawarciem z konsumentem umowy o kredyt hipoteczny;
-- **7)** o opłatach ponoszonych bezpośrednio przez konsumenta na rzecz pośrednika kredytu hipotecznego lub agenta za świadczone usługi, a w przypadku niemożności ustalenia tej opłaty informację o sposobie jej obliczania.
+- **7)** o opłatach ponoszonych bezpośrednio przez konsumenta na rzecz pośrednika kredytu hipotecznego lub agenta za świadczone usługi, a w przypadku niemożności ustalenia tej opłaty – informację o sposobie jej obliczania.
 
 2. W przypadku gdy wysokość prowizji i innych wynagrodzeń, o których mowa w ust. 1 pkt 6, nie jest znana w chwili przekazywania informacji, konsument otrzymuje, na trwałym nośniku, informację, że kwota prowizji oraz innych wynagrodzeń zostanie podana w formularzu informacyjnym, o którym mowa w art. 11 ust. 2.
 
@@ -312,11 +310,11 @@ Art. 79–83. (pominięte)
 
 **Art. 18.** Przed zawarciem umowy o kredyt hipoteczny kredytodawca, pośrednik kredytu hipotecznego oraz agent w sposób jednoznaczny, zrozumiały i precyzyjny udzielają konsumentowi wyjaśnień dotyczących co najmniej:
 
-- **1)** treści informacji, o których mowa w art. 11 ust. 1 w przypadku kredytodawców;
-- **2)** treści informacji, o których mowa w art. 11 ust. 1 i art. 17 w przypadku pośredników kredytu hipotecznego oraz agentów;
+- **1)** treści informacji, o których mowa w art. 11 ust. 1 – w przypadku kredytodawców;
+- **2)** treści informacji, o których mowa w art. 11 ust. 1 i art. 17 – w przypadku pośredników kredytu hipotecznego oraz agentów;
 - **3)** głównych cech proponowanego kredytu hipotecznego oraz proponowanych usług dodatkowych;
 - **4)** skutków, jakie proponowany kredyt hipoteczny może mieć dla konsumenta, w tym konsekwencji zalegania przez konsumenta ze spłatą;
-- **5)** możliwości, warunków i skutków rezygnacji z usług dodatkowych w przypadku gdy usługi te są łączone z umową o kredyt hipoteczny;
+- **5)** możliwości, warunków i skutków rezygnacji z usług dodatkowych – w przypadku gdy usługi te są łączone z umową o kredyt hipoteczny;
 - **6)** skutków dotyczących spłaty części lub całości kredytu hipotecznego przed terminem określonym w umowie o kredyt hipoteczny.
 
 **Art. 19.**
@@ -356,7 +354,7 @@ Art. 79–83. (pominięte)
 
 3. Konsument przedstawia, na żądanie kredytodawcy i we wskazanym przez kredytodawcę terminie, dokumenty i informacje niezbędne do dokonania oceny zdolności kredytowej.
 
-4. Ocena zdolności kredytowej jest dokonywana zgodnie z art. 70 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+4. Ocena zdolności kredytowej jest dokonywana zgodnie z art. 70 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 5. Pośrednik kredytu hipotecznego oraz agent są obowiązani przekazać właściwemu kredytodawcy wszelkie informacje uzyskane od konsumenta, niezbędne do przeprowadzenia oceny zdolności kredytowej.
 
@@ -365,9 +363,9 @@ Art. 79–83. (pominięte)
 7. Ocena zdolności kredytowej dokonywana przez kredytodawcę nie może opierać się w głównej mierze na założeniu, że wartość rynkowa nieruchomości:
 
 - **1)** przewyższa kwotę kredytu hipotecznego lub
-- **2)** wzrośnie, chyba że umowa o kredyt hipoteczny jest zawierana w celu budowy, przebudowy lub remontu nieruchomości w rozumieniu art. 3 pkt 6, 7a i 8 ustawy z dnia 7 lipca 1994 r. Prawo budowlane.
+- **2)** wzrośnie, chyba że umowa o kredyt hipoteczny jest zawierana w celu budowy, przebudowy lub remontu nieruchomości w rozumieniu art. 3 pkt 6, 7a i 8 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 
-8. Jeżeli kredytodawca wymaga dokonania wyceny nieruchomości w związku z procedurą oceny zdolności kredytowej, wycena ta powinna spełniać wymagania określone w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, a w przypadku sporządzania ekspertyzy w celu ustalenia bankowo-hipotecznej wartości nieruchomości w rozumieniu art. 2 pkt 4 ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2023 r. poz. 110) wymagania określone w tej ustawie.
+8. Jeżeli kredytodawca wymaga dokonania wyceny nieruchomości w związku z procedurą oceny zdolności kredytowej, wycena ta powinna spełniać wymagania określone w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, a w przypadku sporządzania ekspertyzy w celu ustalenia bankowo-hipotecznej wartości nieruchomości w rozumieniu art. 2 pkt 4 ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2023 r. poz. 110) – wymagania określone w tej ustawie.
 
 9. Wycena nieruchomości jest dokonywana przez rzeczoznawcę majątkowego, o którym mowa w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, wskazanego w drodze porozumienia między kredytodawcą i konsumentem.
 
@@ -434,7 +432,7 @@ Art. 79–83. (pominięte)
 
 **Art. 29.**
 
-1. Umowa o kredyt hipoteczny określa elementy wymienione w art. 69 ust. 2 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe oraz:
+1. Umowa o kredyt hipoteczny określa elementy wymienione w art. 69 ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz:
 
 - **1)** opłaty i inne koszty związane z udzieleniem kredytu hipotecznego, w tym opłatę za rozpatrzenie wniosku kredytowego, przygotowanie i zawarcie umowy o kredyt hipoteczny, oraz warunki ich zmian;
 - **2)** całkowity koszt kredytu hipotecznego określony w dniu zawarcia umowy o kredyt hipoteczny;
@@ -492,7 +490,7 @@ Art. 79–83. (pominięte)
 2. W wezwaniu, o którym mowa w ust. 1, kredytodawca informuje konsumenta o możliwości:
 
 - **1)** złożenia, w terminie 14 dni roboczych od dnia otrzymania wezwania, wniosku o restrukturyzację zadłużenia;
-- **2)** w przypadku kredytu mieszkaniowego, o którym mowa w ustawie z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej (Dz. U. z 2024 r. poz. 1385) uzyskania odpowiednio wsparcia, promesy lub pożyczki na spłatę zadłużenia, o których mowa w tej ustawie, informując w sposób jednoznaczny i zrozumiały o:
+- **2)** w przypadku kredytu mieszkaniowego, o którym mowa w ustawie z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej (Dz. U. z 2024 r. poz. 1385) – uzyskania odpowiednio wsparcia, promesy lub pożyczki na spłatę zadłużenia, o których mowa w tej ustawie, informując w sposób jednoznaczny i zrozumiały o:
     - **a)** sposobie złożenia wniosku, o którym mowa w art. 6 ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej, oraz o sposobie jego rozpatrywania przez kredytodawcę,
     - **b)** miejscu publikacji informacji o Funduszu Wsparcia Kredytobiorców, o którym mowa w art. 14 ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej, oraz o zasadach korzystania ze środków tego Funduszu.
 
@@ -518,13 +516,13 @@ Art. 79–83. (pominięte)
 - **1)** umożliwia spłatę pozostałego zadłużenia w ratach dostosowanych do sytuacji majątkowej konsumenta;
 - **2)** wyraża zgodę na wykreślenie hipoteki z księgi wieczystej kredytowanej nieruchomości, przy czym w odniesieniu do pozostałej części zadłużenia może żądać ustanowienia innego zabezpieczenia wierzytelności wynikających z umowy o kredyt hipoteczny.
 
-**Art. 36.** W przypadku gdy łączna wysokość opłat z tytułu zaległości w spłacie kredytu hipotecznego oraz odsetek za opóźnienie naliczonych konsumentowi przekracza kwotę odpowiadającą kwocie odsetek maksymalnych za opóźnienie w rozumieniu art. 481 § 2 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, obliczonych od kwoty zaległości w spłacie kredytu hipotecznego, należnych na dzień pobrania tych opłat lub odsetek, należy się tylko kwota opłat i odsetek odpowiadająca kwocie tych odsetek maksymalnych za opóźnienie.
+**Art. 36.** W przypadku gdy łączna wysokość opłat z tytułu zaległości w spłacie kredytu hipotecznego oraz odsetek za opóźnienie naliczonych konsumentowi przekracza kwotę odpowiadającą kwocie odsetek maksymalnych za opóźnienie w rozumieniu art. 481 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, obliczonych od kwoty zaległości w spłacie kredytu hipotecznego, należnych na dzień pobrania tych opłat lub odsetek, należy się tylko kwota opłat i odsetek odpowiadająca kwocie tych odsetek maksymalnych za opóźnienie.
 
 **Art. 37.**
 
-1. W przypadku niedotrzymania przez konsumenta warunków udzielenia kredytu hipotecznego albo w przypadku utraty przez konsumenta zdolności kredytowej kredytodawca może obniżyć kwotę przyznanego kredytu hipotecznego albo wypowiedzieć umowę o kredyt hipoteczny, o ile przepisy ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2025 r. poz. 614) nie stanowią inaczej.
+1. W przypadku niedotrzymania przez konsumenta warunków udzielenia kredytu hipotecznego albo w przypadku utraty przez konsumenta zdolności kredytowej kredytodawca może obniżyć kwotę przyznanego kredytu hipotecznego albo wypowiedzieć umowę o kredyt hipoteczny, o ile przepisy ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614) nie stanowią inaczej.
 
-2. Termin wypowiedzenia, o którym mowa w ust. 1, wynosi 30 dni, a w razie zagrożenia upadłością konsumenta 7 dni, chyba że strony w umowie o kredyt hipoteczny określiły dłuższy termin.
+2. Termin wypowiedzenia, o którym mowa w ust. 1, wynosi 30 dni, a w razie zagrożenia upadłością konsumenta – 7 dni, chyba że strony w umowie o kredyt hipoteczny określiły dłuższy termin.
 
 3. Wypowiedzenie umowy o kredyt hipoteczny z powodu utraty przez konsumenta zdolności kredytowej lub zagrożenia upadłością nie może nastąpić w okresie restrukturyzacji zadłużenia, chyba że konsument nienależycie realizuje restrukturyzację zadłużenia.
 
@@ -575,7 +573,7 @@ Art. 79–83. (pominięte)
 
 7. Rekompensata nie może być wyższa niż koszty kredytodawcy bezpośrednio związane z przedterminową spłatą.
 
-**Art. 41.** W przypadku kredytów hipotecznych, dla których uzgodniono stałą stopę oprocentowania kredytu hipotecznego w danym okresie, przepisów art. 359 § 2 –2 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny o odsetkach maksymalnych nie stosuje się w tym okresie, jednakże kredytodawca jest obowiązany przestrzegać tych przepisów w chwili ustalania wysokości odsetek oraz zawierania umowy o kredyt hipoteczny.
+**Art. 41.** W przypadku kredytów hipotecznych, dla których uzgodniono stałą stopę oprocentowania kredytu hipotecznego w danym okresie, przepisów art. 359 § 2 –2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny o odsetkach maksymalnych nie stosuje się w tym okresie, jednakże kredytodawca jest obowiązany przestrzegać tych przepisów w chwili ustalania wysokości odsetek oraz zawierania umowy o kredyt hipoteczny.
 
 #### Rozdział 6 Odstąpienie od umowy o kredyt hipoteczny przez konsumenta
 
@@ -587,7 +585,7 @@ Art. 79–83. (pominięte)
 
 3. Termin do odstąpienia od umowy o kredyt hipoteczny jest zachowany, jeżeli konsument przed jego upływem złoży pod wskazany przez kredytodawcę, pośrednika kredytu hipotecznego lub agenta adres oświadczenie o odstąpieniu od tej umowy.
 
-4. Dla zachowania terminu, o którym mowa w ust. 3, jest wystarczające nadanie przed jego upływem przesyłki poleconej zawierającej oświadczenie, o którym mowa w ust. 3, u operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366) albo wysłanie oświadczenia na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841).
+4. Dla zachowania terminu, o którym mowa w ust. 3, jest wystarczające nadanie przed jego upływem przesyłki poleconej zawierającej oświadczenie, o którym mowa w ust. 3, u operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366) albo wysłanie oświadczenia na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841).
 
 **Art. 43.** Kredytodawca, pośrednik kredytu hipotecznego oraz agent są obowiązani przy zawarciu umowy o kredyt hipoteczny przekazać konsumentowi, na trwałym nośniku, wzór oświadczenia o odstąpieniu od tej umowy, z oznaczeniem swojej firmy (nazwy) oraz siedziby (miejsca zamieszkania) i adresu, o którym mowa w art. 42 ust. 3.
 
@@ -617,9 +615,9 @@ Art. 79–83. (pominięte)
 
 **Art. 48a.** Osoba prawna, spółka nieposiadająca osobowości prawnej albo osoba fizyczna, która składa wniosek o wydanie zezwolenia, powinna mieć w dniu składania wniosku oraz przez cały okres wykonywania działalności w zakresie pośrednictwa kredytu hipotecznego:
 
-- **1)** siedzibę zarządu na terytorium Rzeczypospolitej Polskiej w przypadku osoby prawnej;
-- **2)** miejsce zamieszkania lub siedzibę wspólnika lub komplementariusza prowadzącego sprawy spółki i uprawnionego do jej reprezentacji na terytorium Rzeczypospolitej Polskiej w przypadku spółki nieposiadającej osobowości prawnej;
-- **3)** adres miejsca prowadzenia działalności na terytorium Rzeczypospolitej Polskiej w przypadku osoby fizycznej.
+- **1)** siedzibę zarządu na terytorium Rzeczypospolitej Polskiej – w przypadku osoby prawnej;
+- **2)** miejsce zamieszkania lub siedzibę wspólnika lub komplementariusza prowadzącego sprawy spółki i uprawnionego do jej reprezentacji na terytorium Rzeczypospolitej Polskiej – w przypadku spółki nieposiadającej osobowości prawnej;
+- **3)** adres miejsca prowadzenia działalności na terytorium Rzeczypospolitej Polskiej – w przypadku osoby fizycznej.
 
 **Art. 49.**
 
@@ -627,7 +625,7 @@ Art. 79–83. (pominięte)
 
 - **1)** osoby fizycznej:
     - **a)** która ma pełną zdolność do czynności prawnych,
-    - **b)** która nie była prawomocnie skazana za umyślne przestępstwo: przeciwko życiu i zdrowiu, przeciwko wymiarowi sprawiedliwości, przeciwko ochronie informacji, przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi, skarbowe,
+    - **b)** która nie była prawomocnie skazana za umyślne przestępstwo: – przeciwko życiu i zdrowiu, – przeciwko wymiarowi sprawiedliwości, – przeciwko ochronie informacji, – przeciwko wiarygodności dokumentów, – przeciwko mieniu, – przeciwko obrotowi gospodarczemu, – przeciwko obrotowi pieniędzmi i papierami wartościowymi, – skarbowe,
     - **c)** która posiada co najmniej wykształcenie średnie lub średnie branżowe,
     - **d)** która złożyła z wynikiem pozytywnym egzamin na pośrednika kredytu hipotecznego, nie później niż 2 lata przed dniem złożenia wniosku,
     - **e)** która złożyła pisemne oświadczenie o zobowiązaniu się do zawarcia umowy ubezpieczenia odpowiedzialności cywilnej lub umowy gwarancji bankowej lub ubezpieczeniowej, o których mowa w art. 55 ust. 1,
@@ -639,7 +637,7 @@ Art. 79–83. (pominięte)
     - **c)** której personel spełnia warunki, o których mowa w pkt 1 lit. a i b;
 
 - **3)** spółki nieposiadającej osobowości prawnej:
-    - **a)** której wspólnicy, jeżeli są osobami fizycznymi, spełniają warunki, o których mowa w pkt 1 lit. a–d, a w przypadku gdy wspólnikiem tej spółki jest osoba prawna członkowie zarządu spełniają warunki, o których mowa w pkt 1 lit. a–d,
+    - **a)** której wspólnicy, jeżeli są osobami fizycznymi, spełniają warunki, o których mowa w pkt 1 lit. a–d, a w przypadku gdy wspólnikiem tej spółki jest osoba prawna – członkowie zarządu spełniają warunki, o których mowa w pkt 1 lit. a–d,
     - **b)** która złożyła pisemne oświadczenie o zobowiązaniu się do zawarcia umowy ubezpieczenia odpowiedzialności cywilnej lub umowy gwarancji bankowej lub ubezpieczeniowej, o których mowa w art. 55 ust. 1,
     - **c)** której personel spełnia warunki, o których mowa w pkt 1 lit. a i b.
 
@@ -649,8 +647,8 @@ Art. 79–83. (pominięte)
 
 1. Wniosek, o którym mowa w art. 49 ust. 1, zawiera dane, o których mowa:
 
-- **1)** w art. 63 ust. 1 pkt 2 i 3 w przypadku pośrednika kredytu hipotecznego będącego osobą fizyczną;
-- **2)** w art. 63 ust. 2 pkt 2 i 3 w przypadku pośrednika kredytu hipotecznego niebędącego osobą fizyczną.
+- **1)** w art. 63 ust. 1 pkt 2 i 3 – w przypadku pośrednika kredytu hipotecznego będącego osobą fizyczną;
+- **2)** w art. 63 ust. 2 pkt 2 i 3 – w przypadku pośrednika kredytu hipotecznego niebędącego osobą fizyczną.
 
 2. Jeżeli dane, o których mowa w ust. 1, dotyczą osób fizycznych, wniosek zawiera także numery Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) tych osób.
 
@@ -743,12 +741,12 @@ Art. 79–83. (pominięte)
 
 - **1)** osoba fizyczna, która:
     - **a)** posiada pełną zdolność do czynności prawnych,
-    - **b)** nie była prawomocnie skazana za umyślne przestępstwo: przeciwko życiu i zdrowiu, przeciwko wymiarowi sprawiedliwości, przeciwko ochronie informacji, przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi, skarbowe,
+    - **b)** nie była prawomocnie skazana za umyślne przestępstwo: – przeciwko życiu i zdrowiu, – przeciwko wymiarowi sprawiedliwości, – przeciwko ochronie informacji, – przeciwko wiarygodności dokumentów, – przeciwko mieniu, – przeciwko obrotowi gospodarczemu, – przeciwko obrotowi pieniędzmi i papierami wartościowymi, – skarbowe,
     - **c)** posiada co najmniej wykształcenie średnie lub średnie branżowe,
     - **d)** odbyła organizowane przez pośrednika kredytu hipotecznego szkolenie i złożyła z wynikiem pozytywnym egzamin przeprowadzony przez pośrednika kredytu hipotecznego, obejmujący zagadnienia określone w art. 53 ust. 3 i 4;
 
 - **2)** osoba prawna, której członkowie zarządu spełniają warunki, o których mowa w pkt 1;
-- **3)** spółka nieposiadająca osobowości prawnej, której wspólnicy, jeżeli są osobami fizycznymi, spełniają warunki, o których mowa w pkt 1, a w przypadku gdy wspólnikiem tej spółki jest osoba prawna członkowie zarządu spełniają warunki, o których mowa w pkt 1.
+- **3)** spółka nieposiadająca osobowości prawnej, której wspólnicy, jeżeli są osobami fizycznymi, spełniają warunki, o których mowa w pkt 1, a w przypadku gdy wspólnikiem tej spółki jest osoba prawna – członkowie zarządu spełniają warunki, o których mowa w pkt 1.
 
 5. Wymogu, o którym mowa w ust. 4 pkt 1 lit. d, nie stosuje się do osób, które ukończyły wyższe studia ekonomiczne lub prawnicze i uzyskały tytuł magistra.
 
@@ -834,11 +832,11 @@ Art. 79–83. (pominięte)
 
 - **3)** informację, czy pośrednik kredytu hipotecznego jest powiązanym pośrednikiem kredytu hipotecznego, oraz firmy (nazwy) kredytodawców, na rzecz których działa ten pośrednik;
 - **4)** dane agenta:
-    - **a)** w przypadku gdy agentem jest osoba fizyczna: imię lub imiona i nazwisko, adres miejsca prowadzenia działalności, NIP, numer wpisu w ewidencji działalności gospodarczej, w przypadku gdy agent świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział nazwę państwa członkowskiego, w którym agent świadczy te usługi, firmę, pod którą wykonuje działalność gospodarczą,
-    - **b)** w przypadku gdy agentem jest podmiot niebędący osobą fizyczną: firmę podmiotu, wykaz wspólników lub członków zarządu zawierający dane określone w pkt 2 lit. a i c, siedzibę i adres, NIP, numer w rejestrze przedsiębiorców, w przypadku gdy agent świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział nazwę państwa członkowskiego, w którym agent świadczy te usługi;
+    - **a)** w przypadku gdy agentem jest osoba fizyczna: – imię lub imiona i nazwisko, – adres miejsca prowadzenia działalności, – NIP, – numer wpisu w ewidencji działalności gospodarczej, – w przypadku gdy agent świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział – nazwę państwa członkowskiego, w którym agent świadczy te usługi, – firmę, pod którą wykonuje działalność gospodarczą,
+    - **b)** w przypadku gdy agentem jest podmiot niebędący osobą fizyczną: – firmę podmiotu, – wykaz wspólników lub członków zarządu zawierający dane określone w pkt 2 lit. a i c, – siedzibę i adres, – NIP, – numer w rejestrze przedsiębiorców, – w przypadku gdy agent świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział – nazwę państwa członkowskiego, w którym agent świadczy te usługi;
 
 - **5)** numer polisy potwierdzającej zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej lub umowy gwarancji bankowej lub ubezpieczeniowej, o których mowa w art. 55 ust. 1, oraz okres obowiązywania tej umowy;
-- **6)** w przypadku gdy pośrednik kredytu hipotecznego świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział nazwę państwa członkowskiego, w którym pośrednik świadczy te usługi.
+- **6)** w przypadku gdy pośrednik kredytu hipotecznego świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział – nazwę państwa członkowskiego, w którym pośrednik świadczy te usługi.
 
 2. Dział pierwszy rejestru pośredników kredytowych zawiera w odniesieniu do pośredników kredytu hipotecznego niebędących osobami fizycznymi:
 
@@ -853,7 +851,7 @@ Art. 79–83. (pominięte)
 - **3)** informację, czy pośrednik kredytu hipotecznego jest powiązanym pośrednikiem kredytu hipotecznego, oraz firmy (nazwy) kredytodawców, na rzecz których działa ten pośrednik;
 - **4)** dane agenta, o których mowa w ust. 1 pkt 4;
 - **5)** numer polisy potwierdzającej zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej lub umowy gwarancji bankowej lub ubezpieczeniowej, o których mowa w art. 55 ust. 1, oraz okres obowiązywania tej umowy;
-- **6)** w przypadku gdy pośrednik świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział nazwę państwa członkowskiego, w którym pośrednik świadczy te usługi.
+- **6)** w przypadku gdy pośrednik świadczy usługi pośrednictwa kredytu hipotecznego w ramach działalności transgranicznej lub przez oddział – nazwę państwa członkowskiego, w którym pośrednik świadczy te usługi.
 
 3. Dział drugi rejestru pośredników kredytowych zawiera w odniesieniu do osób fizycznych będących pośrednikami kredytowymi w rozumieniu art. 5 pkt 3 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim:
 
@@ -906,7 +904,7 @@ Art. 79–83. (pominięte)
 - **1)** nazwę państwa członkowskiego, na którego terytorium pośrednik kredytu hipotecznego zamierza utworzyć oddział lub prowadzić działalność transgranicznie;
 - **2)** firmę, siedzibę (miejsce zamieszkania) i adres pośrednika kredytu hipotecznego lub agenta;
 - **3)** firmę, siedzibę i adres oddziału, a także siedzibę i adres głównego miejsca wykonywania działalności;
-- **4)** firmy (nazwy) kredytodawców, na rzecz których działa pośrednik kredytu hipotecznego w przypadku powiązanych pośredników kredytu hipotecznego.
+- **4)** firmy (nazwy) kredytodawców, na rzecz których działa pośrednik kredytu hipotecznego – w przypadku powiązanych pośredników kredytu hipotecznego.
 
 3. Komisja Nadzoru Finansowego przesyła zawiadomienie, o którym mowa w ust. 1, właściwym organom nadzorczym goszczącego państwa członkowskiego w terminie miesiąca od dnia jego otrzymania i jednocześnie powiadamia o tym zainteresowany podmiot.
 
@@ -920,7 +918,7 @@ Art. 79–83. (pominięte)
 
 - **1)** firmy podmiotu lub firmy agenta, a także adresu na terytorium Rzeczypospolitej Polskiej, pod którym będzie możliwe uzyskanie dokumentów dotyczących jego działalności;
 - **2)** firmy oraz adresu głównego miejsca wykonywania działalności podmiotu w macierzystym państwie członkowskim;
-- **3)** firmy (nazwy) kredytodawców, na rzecz których działa pośrednik kredytu hipotecznego w przypadku powiązanych pośredników kredytu hipotecznego.
+- **3)** firmy (nazwy) kredytodawców, na rzecz których działa pośrednik kredytu hipotecznego – w przypadku powiązanych pośredników kredytu hipotecznego.
 
 3. Przed rozpoczęciem działalności na terytorium Rzeczypospolitej Polskiej przez pośrednika kredytu hipotecznego, o którym mowa w ust. 1, przez oddział lub w terminie 2 miesięcy od dnia otrzymania informacji, o których mowa w ust. 2, Komisja Nadzoru Finansowego przekazuje temu pośrednikowi informacje dotyczące dodatkowych warunków prowadzenia działalności pośrednictwa kredytu hipotecznego na terytorium Rzeczypospolitej Polskiej.
 
@@ -945,7 +943,7 @@ Art. 79–83. (pominięte)
 - **2)** nałożyć na ten podmiot karę pieniężną w wysokości do 500 000 zł;
 - **3)** wystąpić do tego podmiotu z wnioskiem o odwołanie osoby zarządzającej, o której mowa w pkt 1;
 - **4)** zawiesić w czynnościach osobę zarządzającą, o której mowa w pkt 1, do czasu podjęcia rozstrzygnięcia w sprawie wniosku, o którym mowa w pkt 3; zawieszenie w czynnościach polega na wyłączeniu z podejmowania decyzji w zakresie praw i obowiązków majątkowych tego podmiotu;
-- **5)** cofnąć zezwolenie albo wykreślić z rejestru pośredników kredytowych w przypadku agentów oraz powiązanych pośredników kredytu hipotecznego.
+- **5)** cofnąć zezwolenie albo wykreślić z rejestru pośredników kredytowych – w przypadku agentów oraz powiązanych pośredników kredytu hipotecznego.
 
 5. W razie stwierdzenia, że pośrednik kredytu hipotecznego lub agent nie wykonuje albo nieprawidłowo wykonuje obowiązki, o których mowa w ust. 3 pkt 2, Komisja Nadzoru Finansowego może nałożyć na ten podmiot sankcje, o których mowa w ust. 4 pkt 1, 2 i 5.
 
@@ -1008,7 +1006,7 @@ Art. 79–83. (pominięte)
 
 6. W przypadku gdy Komisja Nadzoru Finansowego nie zgadza się ze środkami podjętymi przez goszczące państwo członkowskie w odniesieniu do pośrednika kredytu hipotecznego, o którym mowa w art. 67 ust. 1, może przekazać sprawę do Europejskiego Urzędu Nadzoru Bankowego oraz zwrócić się o pomoc do tego organu zgodnie z art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE.
 
-7. Do decyzji administracyjnych Komisji Nadzoru Finansowego wydawanych w przypadkach, o których mowa w ust. 2–4, przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) nie stosuje się.
+7. Do decyzji administracyjnych Komisji Nadzoru Finansowego wydawanych w przypadkach, o których mowa w ust. 2–4, przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) nie stosuje się.
 
 **Art. 72.**
 
@@ -1075,7 +1073,7 @@ Art. 79–83. (pominięte)
 3. Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
 - **1)** terminy wnoszenia, wysokość i sposób obliczania wpłat, o których mowa w ust. 1,
-- **2)** sposób i terminy rozliczenia należności z tytułu wpłat, o których mowa w ust. 1 mając na względzie, aby wysokość wpłat na pokrycie kosztów nadzoru nie wpływała w istotny sposób na zwiększenie kosztów działalności podmiotów obowiązanych do ich uiszczenia, konieczność zapewnienia skuteczności sprawowanego nadzoru oraz możliwość rozliczania należności z tytułu wpłat na pokrycie kosztów nadzoru w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+- **2)** sposób i terminy rozliczenia należności z tytułu wpłat, o których mowa w ust. 1 – mając na względzie, aby wysokość wpłat na pokrycie kosztów nadzoru nie wpływała w istotny sposób na zwiększenie kosztów działalności podmiotów obowiązanych do ich uiszczenia, konieczność zapewnienia skuteczności sprawowanego nadzoru oraz możliwość rozliczania należności z tytułu wpłat na pokrycie kosztów nadzoru w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 #### Rozdział 11 Przepisy karne
 
@@ -1153,16 +1151,16 @@ Art. 79–83. (pominięte)
 
 1. Maksymalny limit wydatków budżetu państwa z tytułu realizacji ustawy na lata 2017–2026 wynosi 19 285 tys. zł, z tym że w roku:
 
-- **1)** 2017 1015 tys. zł;
-- **2)** 2018 2030 tys. zł;
-- **3)** 2019 2030 tys. zł;
-- **4)** 2020 2030 tys. zł;
-- **5)** 2021 2030 tys. zł;
-- **6)** 2022 2030 tys. zł;
-- **7)** 2023 2030 tys. zł;
-- **8)** 2024 2030 tys. zł;
-- **9)** 2025 2030 tys. zł;
-- **10)** 2026 2030 tys. zł.
+- **1)** 2017 – 1015 tys. zł;
+- **2)** 2018 – 2030 tys. zł;
+- **3)** 2019 – 2030 tys. zł;
+- **4)** 2020 – 2030 tys. zł;
+- **5)** 2021 – 2030 tys. zł;
+- **6)** 2022 – 2030 tys. zł;
+- **7)** 2023 – 2030 tys. zł;
+- **8)** 2024 – 2030 tys. zł;
+- **9)** 2025 – 2030 tys. zł;
+- **10)** 2026 – 2030 tys. zł.
 
 2. W przypadku zagrożenia przekroczenia limitu wydatków, o którym mowa w ust. 1, na dany rok budżetowy zastosowany zostanie mechanizm korygujący polegający na:
 
@@ -1186,7 +1184,7 @@ Art. 79–83. (pominięte)
 - **3)** Pośrednik kredytu hipotecznego informuje konsumenta, czy i na jakiej podstawie są świadczone usługi doradcze, korzystając ze sformułowania wskazanego w formularzu informacyjnym kredytu hipotecznego.
 - **4)** Należy wyjaśnić, w jaki sposób pośrednik kredytu hipotecznego jest wynagradzany. Sekcja 3. „Główne cechy kredytu hipotecznego”
 - **1)** W tej sekcji zrozumiale objaśnia się podstawowe cechy kredytu hipotecznego, w tym wartość i walutę, oraz potencjalne ryzyka związane ze stopą oprocentowania kredytu hipotecznego, w tym ryzyka, o których mowa w pkt 8, a także strukturę spłat.
-- **2)** Jeżeli waluta kredytu hipotecznego jest inna niż waluta krajowa konsumenta, kredytodawca informuje o tym, że konsument będzie otrzymywać regularne ostrzeżenia, przynajmniej w sytuacji, gdy dadzą się zauważyć wahania kursu wymiany powyżej 20 %, o prawie do przeliczenia waluty umowy o kredyt hipoteczny w odpowiednich przypadkach lub o możliwości renegocjowania warunków i o wszelkich dostępnych konsumentowi rozwiązaniach pozwalających mu zmniejszyć ryzyko kursowe, na jakie jest narażony. Jeżeli umowa o kredyt hipoteczny zawiera postanowienie ograniczające ryzyko kursowe, kredytodawca wskazuje maksymalną kwotę, którą konsument może mieć do spłaty. Jeżeli umowa o kredyt hipoteczny nie zawiera postanowienia ograniczającego ryzyko kursowe, na jakie jest narażony konsument w przypadku wahań kursu wymiany do 20 %, kredytodawca podaje na przykładzie wpływ, jaki spadek o 20 % wartości waluty krajowej konsumenta względem waluty kredytu hipotecznego wywrze na wartość kredytu hipotecznego.
+- **2)** Jeżeli waluta kredytu hipotecznego jest inna niż waluta krajowa konsumenta, kredytodawca informuje o tym, że konsument będzie otrzymywać regularne ostrzeżenia, przynajmniej w sytuacji, gdy dadzą się zauważyć wahania kursu wymiany powyżej 20 %, o prawie do przeliczenia waluty umowy o kredyt hipoteczny – w odpowiednich przypadkach lub o możliwości renegocjowania warunków i o wszelkich dostępnych konsumentowi rozwiązaniach pozwalających mu zmniejszyć ryzyko kursowe, na jakie jest narażony. Jeżeli umowa o kredyt hipoteczny zawiera postanowienie ograniczające ryzyko kursowe, kredytodawca wskazuje maksymalną kwotę, którą konsument może mieć do spłaty. Jeżeli umowa o kredyt hipoteczny nie zawiera postanowienia ograniczającego ryzyko kursowe, na jakie jest narażony konsument w przypadku wahań kursu wymiany do 20 %, kredytodawca podaje na przykładzie wpływ, jaki spadek o 20 % wartości waluty krajowej konsumenta względem waluty kredytu hipotecznego wywrze na wartość kredytu hipotecznego.
 - **3)** Okres kredytowania podaje się w latach lub miesiącach, zależnie od tego, który sposób jest najbardziej odpowiedni. Jeśli okres kredytowania może ulegać zmianie w okresie obowiązywania umowy o kredyt hipoteczny, kredytodawca wyjaśnia, kiedy i na jakich warunkach może to nastąpić. W przypadku gdy kredyt hipoteczny jest odnawialny, np. w przypadku zabezpieczonej karty kredytowej, kredytodawca wyraźnie stwierdza ten fakt.
 - **4)** Wyraźnie wskazuje się rodzaj kredytu hipotecznego (np. kredyt na zakup nieruchomości mieszkalnej, zabezpieczona karta kredytowa). W opisie rodzaju kredytu hipotecznego wyraźnie wskazuje się, jak muszą być spłacane kapitał i odsetki w całym okresie kredytowania (tj. strukturę spłat), i precyzuje się, czy umowa o kredyt hipoteczny dotyczy spłaty kapitału, spłaty samych odsetek, czy też spłaty obu tych elementów.
 - **5)** W przypadku gdy całość lub część kredytu hipotecznego jest kredytem, którego raty obejmują wyłącznie odsetki, na końcu tej sekcji zamieszcza się w odznaczający się sposób oświadczenie na ten temat, korzystając ze sformułowania wskazanego w formularzu informacyjnym kredytu hipotecznego.
@@ -1200,15 +1198,15 @@ Art. 79–83. (pominięte)
 
 - **11)** Jeżeli kredyt hipoteczny jest wieloczęściowy (np. równocześnie jego część podlega stałemu, a część zmiennemu oprocentowaniu), informację na ten temat ujmuje się, określając rodzaj kredytu hipotecznego, i dla każdej części kredytu hipotecznego podaje się wymagane informacje. Sekcja 4. „Stopa oprocentowania kredytu hipotecznego i inne koszty”
 - **1)** „Stopa oprocentowania” odpowiada stopie lub stopom oprocentowania kredytu.
-- **2)** Stopę oprocentowania kredytu hipotecznego podaje się w procentach. W przypadku gdy stopa oprocentowania kredytu hipotecznego jest zmienna i oparta na stopie referencyjnej, kredytodawca może wskazać stopę oprocentowania kredytu hipotecznego, podając stopę referencyjną i procentową wartość marży kredytodawcy. Kredytodawca podaje jednak wartość stopy referencyjnej na dzień wydania arkusza ESIS. W przypadku gdy stopa oprocentowania kredytu hipotecznego jest zmienna, podaje się założenia przyjęte do obliczenia RRSO, w odpowiednich przypadkach mające zastosowanie górne i dolne limity, oraz ostrzeżenie, że zmienność może wpłynąć na faktyczny poziom RRSO. Aby zwrócić na ten fakt uwagę konsumenta, ostrzeżenie to musi być naniesione większą czcionką i odznaczać się od podstawowego tekstu ESIS. Ostrzeżeniu towarzyszy poglądowy przykład dotyczący RRSO. W przypadku istnienia górnego limitu w odniesieniu do stopy oprocentowania kredytu hipotecznego w przykładzie tym przyjmuje się, że stopa oprocentowania kredytu hipotecznego przy najbliższej sprzyjającej okazji wzrośnie do najwyższego poziomu przewidzianego w umowie o kredyt hipoteczny. Jeżeli górny limit nie istnieje, w przykładzie podaje się RRSO przy najwyższej stopie oprocentowania kredytu hipotecznego na co najmniej 20 lat, a w przypadku gdy są dostępne dane potrzebne do obliczenia stopy oprocentowania kredytu hipotecznego na okres krótszy niż 20 lat w najdłuższym okresie, dla jakiego dane takie są dostępne, w oparciu o, w odpowiednich przypadkach, najwyższą wartość dowolnej zewnętrznej stopy referencyjnej wykorzystanej do obliczenia stopy oprocentowania kredytu hipotecznego lub najwyższą wartość stopy odniesienia określonej przez właściwy organ lub Europejski Urząd Nadzoru Bankowego (EUNB), w przypadku gdy kredytodawca nie korzysta z zewnętrznej stopy referencyjnej. Wymóg ten nie ma zastosowania do umów o kredyt hipoteczny, dla których stopa oprocentowania kredytu hipotecznego jest stała w istotnym początkowym okresie wynoszącym kilka lat i może być następnie ustalana na dalszy okres w wyniku negocjacji między kredytodawcą a konsumentem. W przypadku umów o kredyt hipoteczny, dla których stopa oprocentowania kredytu hipotecznego jest stała w istotnym początkowym okresie wynoszącym kilka lat i może być następnie ustalana na dalszy okres w wyniku negocjacji między kredytodawcą a konsumentem, informacje obejmują ostrzeżenie, że RRSO jest obliczana na podstawie stopy oprocentowania kredytu hipotecznego obowiązującej w tym początkowym okresie. Ostrzeżeniu towarzyszy dodatkowe przykładowe wyliczenie RRSO. Jeżeli kredyt hipoteczny jest wieloczęściowy (np. równocześnie jego część podlega stałemu, a część zmiennemu oprocentowaniu), podaje się informacje dla każdej części kredytu hipotecznego.
-- **3)** W pozycji „Inne składniki RRSO” wymienia się wszystkie pozostałe koszty zawarte w RRSO, w tym koszty ponoszone jednorazowo, jak opłaty administracyjne, oraz koszty ponoszone okresowo, jak coroczne opłaty administracyjne. Kredytodawca wyszczególnia wszystkie koszty w rozbiciu na kategorie (koszty ponoszone jednorazowo, koszty ponoszone okresowo i ujęte w ratach oraz koszty ponoszone okresowo i nieujęte w ratach), podając ich kwotę, odbiorcę i termin płatności. Nie musi to obejmować kosztów ponoszonych w związku z naruszeniem zobowiązań umownych. W przypadku gdy kwota nie jest znana, kredytodawca, w miarę możliwości, podaje kwotę orientacyjną, a jeżeli nie jest to możliwe sposób obliczenia tej kwoty, zaznaczając, że podana kwota jest jedynie orientacyjna. W przypadku gdy pewne koszty nie są ujęte w RRSO, ponieważ kredytodawca ich nie zna, jest to zaznaczane. W przypadku gdy konsument poinformował kredytodawcę o co najmniej jednym ze składników preferowanego przez siebie kredytu hipotecznego, np. o okresie obowiązywania umowy o kredyt hipoteczny i całkowitej kwocie kredytu hipotecznego, kredytodawca, w miarę możliwości, uwzględnia te składniki. Jeżeli umowa o kredyt hipoteczny przewiduje różne sposoby dokonywania wypłat, w odniesieniu do których obowiązują różne opłaty i stopy oprocentowania kredytu hipotecznego, a kredytodawca stosuje założenia, o których mowa w ust. 4 załącznika nr 3 do ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytowymi i agentami, w umowie o kredyt hipoteczny zaznacza się, że inne mechanizmy dokonywania wypłat w przypadku tego rodzaju umowy o kredyt hipoteczny mogą spowodować zastosowanie wyższej RRSO. W przypadku gdy do obliczenia RRSO stosuje się warunki dokonywania wypłaty, kredytodawca zaznacza opłaty związane z innymi mechanizmami wypłaty, które mogą być inne niż opłaty zastosowane do obliczenia RRSO.
-- **4)** W przypadku gdy konsument ponosi koszty ustanowienia hipoteki lub innego zabezpieczenia, informacje o nich podaje się wraz z kwotą, jeśli jest znana, lub jeśli nie jest to możliwe podaje się podstawę określenia tej kwoty. W przypadku gdy opłaty te są znane i uwzględnione w RRSO, informacja o istnieniu i kwocie danej opłaty jest podawana w rubryce „Koszty ponoszone jednorazowo”. W przypadku gdy kredytodawca nie zna opłat, a zatem nie są one uwzględnione w RRSO, informację o istnieniu opłaty wyraźnie zaznacza się w wykazie kosztów, które nie są znane kredytodawcy. W każdym z przypadków należy w odpowiedniej rubryce skorzystać ze standardowego sformułowania wskazanego w formularzu informacyjnym kredytu hipotecznego. Sekcja 5. „Częstotliwość i liczba spłat”
+- **2)** Stopę oprocentowania kredytu hipotecznego podaje się w procentach. W przypadku gdy stopa oprocentowania kredytu hipotecznego jest zmienna i oparta na stopie referencyjnej, kredytodawca może wskazać stopę oprocentowania kredytu hipotecznego, podając stopę referencyjną i procentową wartość marży kredytodawcy. Kredytodawca podaje jednak wartość stopy referencyjnej na dzień wydania arkusza ESIS. W przypadku gdy stopa oprocentowania kredytu hipotecznego jest zmienna, podaje się założenia przyjęte do obliczenia RRSO, w odpowiednich przypadkach – mające zastosowanie górne i dolne limity, oraz ostrzeżenie, że zmienność może wpłynąć na faktyczny poziom RRSO. Aby zwrócić na ten fakt uwagę konsumenta, ostrzeżenie to musi być naniesione większą czcionką i odznaczać się od podstawowego tekstu ESIS. Ostrzeżeniu towarzyszy poglądowy przykład dotyczący RRSO. W przypadku istnienia górnego limitu w odniesieniu do stopy oprocentowania kredytu hipotecznego w przykładzie tym przyjmuje się, że stopa oprocentowania kredytu hipotecznego przy najbliższej sprzyjającej okazji wzrośnie do najwyższego poziomu przewidzianego w umowie o kredyt hipoteczny. Jeżeli górny limit nie istnieje, w przykładzie podaje się RRSO przy najwyższej stopie oprocentowania kredytu hipotecznego na co najmniej 20 lat, a w przypadku gdy są dostępne dane potrzebne do obliczenia stopy oprocentowania kredytu hipotecznego na okres krótszy niż 20 lat – w najdłuższym okresie, dla jakiego dane takie są dostępne, w oparciu o, w odpowiednich przypadkach, najwyższą wartość dowolnej zewnętrznej stopy referencyjnej wykorzystanej do obliczenia stopy oprocentowania kredytu hipotecznego lub najwyższą wartość stopy odniesienia określonej przez właściwy organ lub Europejski Urząd Nadzoru Bankowego (EUNB), w przypadku gdy kredytodawca nie korzysta z zewnętrznej stopy referencyjnej. Wymóg ten nie ma zastosowania do umów o kredyt hipoteczny, dla których stopa oprocentowania kredytu hipotecznego jest stała w istotnym początkowym okresie wynoszącym kilka lat i może być następnie ustalana na dalszy okres w wyniku negocjacji między kredytodawcą a konsumentem. W przypadku umów o kredyt hipoteczny, dla których stopa oprocentowania kredytu hipotecznego jest stała w istotnym początkowym okresie wynoszącym kilka lat i może być następnie ustalana na dalszy okres w wyniku negocjacji między kredytodawcą a konsumentem, informacje obejmują ostrzeżenie, że RRSO jest obliczana na podstawie stopy oprocentowania kredytu hipotecznego obowiązującej w tym początkowym okresie. Ostrzeżeniu towarzyszy dodatkowe przykładowe wyliczenie RRSO. Jeżeli kredyt hipoteczny jest wieloczęściowy (np. równocześnie jego część podlega stałemu, a część zmiennemu oprocentowaniu), podaje się informacje dla każdej części kredytu hipotecznego.
+- **3)** W pozycji „Inne składniki RRSO” wymienia się wszystkie pozostałe koszty zawarte w RRSO, w tym koszty ponoszone jednorazowo, jak opłaty administracyjne, oraz koszty ponoszone okresowo, jak coroczne opłaty administracyjne. Kredytodawca wyszczególnia wszystkie koszty w rozbiciu na kategorie (koszty ponoszone jednorazowo, koszty ponoszone okresowo i ujęte w ratach oraz koszty ponoszone okresowo i nieujęte w ratach), podając ich kwotę, odbiorcę i termin płatności. Nie musi to obejmować kosztów ponoszonych w związku z naruszeniem zobowiązań umownych. W przypadku gdy kwota nie jest znana, kredytodawca, w miarę możliwości, podaje kwotę orientacyjną, a jeżeli nie jest to możliwe – sposób obliczenia tej kwoty, zaznaczając, że podana kwota jest jedynie orientacyjna. W przypadku gdy pewne koszty nie są ujęte w RRSO, ponieważ kredytodawca ich nie zna, jest to zaznaczane. W przypadku gdy konsument poinformował kredytodawcę o co najmniej jednym ze składników preferowanego przez siebie kredytu hipotecznego, np. o okresie obowiązywania umowy o kredyt hipoteczny i całkowitej kwocie kredytu hipotecznego, kredytodawca, w miarę możliwości, uwzględnia te składniki. Jeżeli umowa o kredyt hipoteczny przewiduje różne sposoby dokonywania wypłat, w odniesieniu do których obowiązują różne opłaty i stopy oprocentowania kredytu hipotecznego, a kredytodawca stosuje założenia, o których mowa w ust. 4 załącznika nr 3 do ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytowymi i agentami, w umowie o kredyt hipoteczny zaznacza się, że inne mechanizmy dokonywania wypłat w przypadku tego rodzaju umowy o kredyt hipoteczny mogą spowodować zastosowanie wyższej RRSO. W przypadku gdy do obliczenia RRSO stosuje się warunki dokonywania wypłaty, kredytodawca zaznacza opłaty związane z innymi mechanizmami wypłaty, które mogą być inne niż opłaty zastosowane do obliczenia RRSO.
+- **4)** W przypadku gdy konsument ponosi koszty ustanowienia hipoteki lub innego zabezpieczenia, informacje o nich podaje się wraz z kwotą, jeśli jest znana, lub – jeśli nie jest to możliwe – podaje się podstawę określenia tej kwoty. W przypadku gdy opłaty te są znane i uwzględnione w RRSO, informacja o istnieniu i kwocie danej opłaty jest podawana w rubryce „Koszty ponoszone jednorazowo”. W przypadku gdy kredytodawca nie zna opłat, a zatem nie są one uwzględnione w RRSO, informację o istnieniu opłaty wyraźnie zaznacza się w wykazie kosztów, które nie są znane kredytodawcy. W każdym z przypadków należy w odpowiedniej rubryce skorzystać ze standardowego sformułowania wskazanego w formularzu informacyjnym kredytu hipotecznego. Sekcja 5. „Częstotliwość i liczba spłat”
 - **1)** Jeśli spłaty mają być dokonywane regularnie, podaje się ich częstotliwość (np. co miesiąc). Jeśli częstotliwość spłat będzie nieregularna, wyraźnie objaśnia się to konsumentowi.
 - **2)** Podana liczba spłat obejmuje cały okres kredytowania. Sekcja 6. „Wysokość każdej raty”
 - **1)** Wyraźnie wskazuje się walutę kredytu hipotecznego i walutę rat.
 - **2)** Jeśli w okresie kredytowania wysokość rat może ulegać zmianie, kredytodawca określa, przez jaki okres początkowa wysokość raty pozostanie niezmieniona oraz kiedy i jak często będzie ona następnie zmieniana.
 - **3)** W przypadku gdy całość lub część kredytu hipotecznego jest kredytem, którego raty obejmują wyłącznie odsetki, na końcu tej pozycji zamieszcza się w odznaczający się sposób oświadczenie na ten temat, korzystając ze sformułowania wskazanego w formularzu informacyjnym kredytu hipotecznego. Jeśli warunkiem udzielenia konsumentowi kredytu hipotecznego, którego raty obejmują wyłącznie odsetki i którego zabezpieczeniem jest hipoteka lub inne porównywalne zabezpieczenie, jest zawarcie umowy w sprawie powiązanego produktu oszczędnościowego, podaje się kwotę i częstotliwość wszelkich spłat dotyczących tego produktu.
-- **4)** W przypadku zmiennej stopy oprocentowania kredytu hipotecznego podawane informacje obejmują oświadczenie na ten temat, z wykorzystaniem sformułowania wskazanego w formularzu informacyjnym kredytu hipotecznego, wraz z orientacyjną maksymalną kwotą raty. W przypadku istnienia górnego limitu w poglądowym przykładzie pokazuje się wysokość rat, jeżeli stopa oprocentowania kredytu hipotecznego wzrośnie do poziomu tego limitu. W przypadku braku takiego limitu scenariusz przedstawiający najmniej korzystne założenia pokazuje poziom rat przy najwyższej stopie oprocentowania kredytu hipotecznego w ciągu ostatnich 20 lat, a w przypadku gdy są dostępne dane potrzebne do obliczenia stopy oprocentowania kredytu hipotecznego na okres krótszy niż 20 lat w najdłuższym okresie, dla jakiego dane takie są dostępne, w oparciu o, w odpowiednich przypadkach, najwyższą wartość dowolnej zewnętrznej stopy referencyjnej wykorzystanej do obliczenia stopy oprocentowania kredytu hipotecznego lub najwyższą wartość stopy odniesienia określonej przez właściwy organ lub EUNB, w przypadku gdy kredytodawca nie korzysta z zewnętrznej stopy referencyjnej. Wymóg podania poglądowego przykładu nie ma zastosowania do umów o kredyt hipoteczny, dla których stopa oprocentowania kredytu hipotecznego jest stała przez istotny początkowy okres wynoszący wiele lat i może być następnie ustalana na dalszy okres w wyniku negocjacji między kredytodawcą a konsumentem. Jeżeli kredyt hipoteczny jest wieloczęściowy (np. równocześnie jego część podlega stałemu, a część zmiennemu oprocentowaniu), przekazuje się informacje dotyczące każdej części kredytu hipotecznego oraz dotyczące całości kredytu hipotecznego.
+- **4)** W przypadku zmiennej stopy oprocentowania kredytu hipotecznego podawane informacje obejmują oświadczenie na ten temat, z wykorzystaniem sformułowania wskazanego w formularzu informacyjnym kredytu hipotecznego, wraz z orientacyjną maksymalną kwotą raty. W przypadku istnienia górnego limitu w poglądowym przykładzie pokazuje się wysokość rat, jeżeli stopa oprocentowania kredytu hipotecznego wzrośnie do poziomu tego limitu. W przypadku braku takiego limitu scenariusz przedstawiający najmniej korzystne założenia pokazuje poziom rat przy najwyższej stopie oprocentowania kredytu hipotecznego w ciągu ostatnich 20 lat, a w przypadku gdy są dostępne dane potrzebne do obliczenia stopy oprocentowania kredytu hipotecznego na okres krótszy niż 20 lat – w najdłuższym okresie, dla jakiego dane takie są dostępne, w oparciu o, w odpowiednich przypadkach, najwyższą wartość dowolnej zewnętrznej stopy referencyjnej wykorzystanej do obliczenia stopy oprocentowania kredytu hipotecznego lub najwyższą wartość stopy odniesienia określonej przez właściwy organ lub EUNB, w przypadku gdy kredytodawca nie korzysta z zewnętrznej stopy referencyjnej. Wymóg podania poglądowego przykładu nie ma zastosowania do umów o kredyt hipoteczny, dla których stopa oprocentowania kredytu hipotecznego jest stała przez istotny początkowy okres wynoszący wiele lat i może być następnie ustalana na dalszy okres w wyniku negocjacji między kredytodawcą a konsumentem. Jeżeli kredyt hipoteczny jest wieloczęściowy (np. równocześnie jego część podlega stałemu, a część zmiennemu oprocentowaniu), przekazuje się informacje dotyczące każdej części kredytu hipotecznego oraz dotyczące całości kredytu hipotecznego.
 - **5)** (W odpowiednich przypadkach) W przypadku gdy waluta kredytu hipotecznego nie jest walutą krajową konsumenta lub w przypadku gdy kredyt hipoteczny jest indeksowany lub denominowany w stosunku do waluty innej niż waluta krajowa konsumenta, kredytodawca podaje liczbowy przykład wyraźnie pokazujący, jak zmiany kursu walutowego mogą wpływać na wysokość rat, z wykorzystaniem sformułowania wskazanego w formularzu informacyjnym kredytu hipotecznego. Przykład ten jest podawany przy założeniu obniżki o 20 % wartości waluty krajowej konsumenta. Podaje się naniesioną w odznaczający się sposób informację, że raty mogą wzrosnąć o kwotę wyższą niż przyjęta w tym przykładzie. W przypadku gdy istnieje górny limit, który ogranicza ten wzrost do poniżej 20 %, jest podawana maksymalna wartość spłat w walucie konsumenta i nie jest zamieszczana informacja o możliwości dalszego zwiększania się spłat.
 - **6)** W przypadku gdy kredyt hipoteczny jest w całości lub w części kredytem o zmiennym oprocentowaniu i ma także zastosowanie pkt 3, przykład w pkt 5 podaje się w oparciu o kwotę raty, o której mowa w pkt 1.
 - **7)** W przypadku gdy waluta wykorzystywana do spłaty rat jest inna niż waluta kredytu hipotecznego lub gdy kwota każdej raty wyrażona w walucie krajowej konsumenta zależy od odpowiadającej jej kwoty w innej walucie, w sekcji tej podaje się datę, w której jest obliczany stosowny kurs wymiany, oraz kurs wymiany lub podstawę jego obliczania, a także częstotliwość ich dostosowywania. W odpowiednich przypadkach wskaźnik ten obejmuje nazwę instytucji publikującej kurs wymiany.
@@ -1220,7 +1218,7 @@ Art. 79–83. (pominięte)
 - **5)** Jeśli stopa oprocentowania kredytu hipotecznego podlega zmianom i jest nieznana wysokość raty po każdej zmianie, kredytodawca może podać w tabeli amortyzacji tę samą wysokość raty dla całego okresu kredytowania. W takim przypadku kredytodawca zwraca uwagę konsumentowi na ten fakt poprzez graficzne odróżnienie kwot znanych od kwot hipotetycznych (np. poprzez zastosowanie odmiennej czcionki, obramowań lub przyciemnionego tła). Ponadto czytelny tekst wyjaśnia, w jakich okresach podane w tabeli kwoty mogą ulegać zmianie i dlaczego. Sekcja 8. „Dodatkowe obowiązki”
 - **1)** Kredytodawca odnosi się do takich obowiązków jak obowiązek ubezpieczenia nieruchomości, nabycia ubezpieczenia na życie, przelewania wynagrodzenia na rachunek u kredytodawcy lub zakupu wszelkich innych produktów lub usług. Dla każdego z tych obowiązków kredytodawca określa, wobec kogo i do kiedy dany obowiązek musi zostać wypełniony.
 - **2)** Kredytodawca precyzuje okres trwania danego obowiązku, np. do końca okresu obowiązywania umowy o kredyt hipoteczny. W odniesieniu do każdego obowiązku kredytodawca precyzuje wszelkie koszty ponoszone przez konsumenta, które nie są ujęte w RRSO.
-- **3)** Kredytodawca określa, czy konsument ma obowiązek nabycia jakichkolwiek usług dodatkowych w celu uzyskania kredytu hipotecznego na danych warunkach, a jeżeli tak, to czy konsument ma obowiązek nabycia ich od usługodawcy preferowanego przez kredytodawcę, czy też mogą być one zakupione u usługodawcy wybranego przez konsumenta. W przypadku gdy taka możliwość jest uzależniona od tego, czy dane usługi dodatkowe spełniają pewne minimalne warunki, warunki te są opisane w tej sekcji. W przypadku gdy umowa o kredyt hipoteczny jest łączona z innymi produktami, kredytodawca podaje najważniejsze elementy tych innych produktów i wyraźnie stwierdza, czy konsument ma prawo do rozwiązania umowy o kredyt hipoteczny lub rezygnacji z dołączonych produktów oddzielnie, podaje warunki i skutki takiego działania, a w odpowiednich przypadkach ewentualne konsekwencje rezygnacji z usług dodatkowych wymaganych w związku z umową o kredyt hipoteczny. Sekcja 9. „Przedterminowa spłata”
+- **3)** Kredytodawca określa, czy konsument ma obowiązek nabycia jakichkolwiek usług dodatkowych w celu uzyskania kredytu hipotecznego na danych warunkach, a jeżeli tak, to czy konsument ma obowiązek nabycia ich od usługodawcy preferowanego przez kredytodawcę, czy też mogą być one zakupione u usługodawcy wybranego przez konsumenta. W przypadku gdy taka możliwość jest uzależniona od tego, czy dane usługi dodatkowe spełniają pewne minimalne warunki, warunki te są opisane w tej sekcji. W przypadku gdy umowa o kredyt hipoteczny jest łączona z innymi produktami, kredytodawca podaje najważniejsze elementy tych innych produktów i wyraźnie stwierdza, czy konsument ma prawo do rozwiązania umowy o kredyt hipoteczny lub rezygnacji z dołączonych produktów oddzielnie, podaje warunki i skutki takiego działania, a w odpowiednich przypadkach – ewentualne konsekwencje rezygnacji z usług dodatkowych wymaganych w związku z umową o kredyt hipoteczny. Sekcja 9. „Przedterminowa spłata”
 - **1)** Kredytodawca wskazuje, na jakich warunkach konsument może w całości lub w części spłacić kredyt hipoteczny przedterminowo.
 - **2)** W pozycji dotyczącej opłaty za wcześniejsze rozwiązanie umowy o kredyt hipoteczny kredytodawca zwraca konsumentowi uwagę na tę opłatę lub inne koszty obciążające konsumenta w przypadku spłaty przedterminowej w ramach rekompensaty dla kredytodawcy oraz, w miarę możliwości, wskazuje ich wysokość. Jeśli wysokość rekompensaty zależy od różnych czynników, takich jak spłacona już kwota kredytu hipotecznego lub stopa oprocentowania kredytu hipotecznego obowiązująca w dniu przedterminowej spłaty, kredytodawca wskazuje, w jaki sposób rekompensata zostanie obliczona, i podaje maksymalną wysokość takiej opłaty, a jeśli nie jest to możliwe, poglądowy przykład w celu zilustrowania konsumentowi wysokości rekompensaty w różnych możliwych przypadkach. Sekcja 10. „Ustalenia opcjonalne”
 - **1)** W odpowiednich przypadkach kredytodawca wyjaśnia możliwość i warunki przeniesienia kredytu hipotecznego do innego kredytodawcy lub na inną nieruchomość.
@@ -1232,7 +1230,7 @@ Art. 79–83. (pominięte)
 - **1)** Kredytodawca wyjaśnia, na czym polegają uprawnienia przysługujące konsumentowi (np. prawo do odstąpienia od umowy o kredyt hipoteczny lub zastanowienia), w tym uprawnienia przysługujące mu w odpowiednich przypadkach (np. do przeniesienia, w tym subrogacji), a także wyszczególnia warunki realizacji tych uprawnień, procedurę, jaką musiałby zastosować konsument, by skorzystać z tych uprawnień (w tym adres, na jaki jest przesyłane powiadomienie o odstąpieniu), oraz, w odpowiednich przypadkach, odnośne opłaty.
 - **2)** Kredytodawca informuje konsumenta o okresach na zastanowienie oraz na odstąpienie od umowy o kredyt hipoteczny, w tym umowy o kredyt hipoteczny zawieranej na odległość. Sekcja 12. „Skargi”
 - **1)** W sekcji tej wskazuje się wewnętrzny punkt kontaktowy (nazwę właściwego działu) oraz sposób, w jaki można się z nim kontaktować (adres lub numer telefonu), lub osobę wyznaczoną do kontaktów, a także adres strony internetowej, pod którym jest zamieszczona procedura składania skarg, lub inne źródło informacji dotyczące tej procedury.
-- **2)** Wskazuje się nazwę organu zewnętrznego właściwego do wnoszenia pozasądowych skarg i odwołań, a w przypadku gdy skorzystanie z wewnętrznej procedury wnoszenia skarg jest warunkiem wstępnym dostępu do takiego organu wskazuje się ten fakt, z wykorzystaniem sformułowania wskazanego w formularzu informacyjnym kredytu hipotecznego.
+- **2)** Wskazuje się nazwę organu zewnętrznego właściwego do wnoszenia pozasądowych skarg i odwołań, a w przypadku gdy skorzystanie z wewnętrznej procedury wnoszenia skarg jest warunkiem wstępnym dostępu do takiego organu – wskazuje się ten fakt, z wykorzystaniem sformułowania wskazanego w formularzu informacyjnym kredytu hipotecznego.
 - **3)** W przypadku umów o kredyt hipoteczny zawieranych z konsumentem zamieszkałym w innym państwie członkowskim kredytodawca zawiera informację o istnieniu sieci FIN-NET (http://ec.europa.eu/internal_market/fin-net/). Sekcja 13. „Niewywiązywanie się z obowiązków wynikających z umowy o kredyt hipoteczny: konsekwencje dla konsumenta”
 - **1)** Jeśli niewywiązanie się przez konsumenta z któregokolwiek z obowiązków wynikających z umowy o kredyt hipoteczny może mieć dla niego konsekwencje finansowe lub prawne, kredytodawca opisuje różne najpowszechniejsze przypadki (np. opóźnienia w spłacie lub zaległości w spłacie, nieprzestrzeganie obowiązków określonych w sekcji 8) i wskazuje, gdzie można uzyskać bardziej szczegółowe informacje.
 - **2)** Dla każdego z tych przypadków kredytodawca określa, w wyraźnej i łatwo zrozumiałej formie, konsekwencje, do których mogą one prowadzić. Informacje o poważnych konsekwencjach są wyróżniane graficznie.
@@ -1243,15 +1241,15 @@ Art. 79–83. (pominięte)
 
 1. Rzeczywistą roczną stopę oprocentowania, stanowiącą całkowity koszt kredytu hipotecznego ponoszony przez konsumenta, wyrażony jako wartość procentowa całkowitej kwoty kredytu hipotecznego w stosunku rocznym, kredytodawca lub pośrednik kredytu hipotecznego oblicza zgodnie z następującym wzorem matematycznym:
 
-2. Poszczególne litery i symbole użyte we wzorze oznaczają: X rzeczywistą roczną stopę oprocentowania, m numer kolejny ostatniej wypłaty raty kredytu hipotecznego, k numer kolejny wypłaty, zatem 1 ≤ k ≤ m, C kwotę wypłaty k, t okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej wypłaty, zatem t1 = 0, m' numer kolejny ostatniej spłaty lub wnoszonych opłat, l numer kolejny spłaty lub wnoszonych opłat, D kwotę spłaty lub wnoszonych opłat, S okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub wniesienia opłat.
+2. Poszczególne litery i symbole użyte we wzorze oznaczają: X – rzeczywistą roczną stopę oprocentowania, m – numer kolejny ostatniej wypłaty raty kredytu hipotecznego, k – numer kolejny wypłaty, zatem 1 ≤ k ≤ m, C – kwotę wypłaty k, t – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej wypłaty, zatem t1 = 0, m' – numer kolejny ostatniej spłaty lub wnoszonych opłat, l – numer kolejny spłaty lub wnoszonych opłat, D – kwotę spłaty lub wnoszonych opłat, S – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub wniesienia opłat.
 
-3. W celu obliczenia rzeczywistej rocznej stopy oprocentowania przyjmuje się następujące założenia: W przypadku gdy odstępy czasowe zastosowane w obliczeniach nie mogą być wyrażone jako liczba całkowita tygodni, miesięcy lub lat, odstępy te są wyrażane jako liczba całkowita jednego z tych okresów w połączeniu z liczbą dni. W przypadku stosowania dni: liczy się każdy dzień wraz z weekendami i świętami, równe okresy, a następnie dni liczy się wstecz do daty pierwszej wypłaty, długość okresu dni otrzymuje się, wyłączając pierwszy dzień i włączając ostatni dzień; wyraża się ją w latach, dzieląc dany okres przez liczbę dni (365 lub 366 dni) całego roku, licząc wstecz od ostatniego dnia do tego samego dnia w poprzedzającym roku,
+3. W celu obliczenia rzeczywistej rocznej stopy oprocentowania przyjmuje się następujące założenia: W przypadku gdy odstępy czasowe zastosowane w obliczeniach nie mogą być wyrażone jako liczba całkowita tygodni, miesięcy lub lat, odstępy te są wyrażane jako liczba całkowita jednego z tych okresów w połączeniu z liczbą dni. W przypadku stosowania dni: – liczy się każdy dzień wraz z weekendami i świętami, – równe okresy, a następnie dni liczy się wstecz do daty pierwszej wypłaty, – długość okresu dni otrzymuje się, wyłączając pierwszy dzień i włączając ostatni dzień; wyraża się ją w latach, dzieląc dany okres przez liczbę dni (365 lub 366 dni) całego roku, licząc wstecz od ostatniego dnia do tego samego dnia w poprzedzającym roku,
 
 - **a)** kwoty wypłacane i spłacane przez strony umowy o kredyt hipoteczny nie muszą być równe ani nie muszą być płacone w równych odstępach czasu,
 - **b)** datą początkową będzie data pierwszej wypłaty raty kredytu hipotecznego,
 - **c)** odstępy czasu między datami używanymi w obliczeniach wyrażone będą w latach lub w ułamkach roku, przy czym rok liczy 365 dni, a w przypadku lat przestępnych 366 dni, 52 tygodnie lub dwanaście równych miesięcy. Przyjmuje się, że równy miesiąc ma 30,41666 dni (tj. 365/12), bez względu na to, czy przypada w roku przestępnym, czy nie;
 - **d)** wynik obliczeń podaje się z dokładnością do co najmniej jednego miejsca po przecinku, przy czym jeżeli cyfra występująca po wybranym przez obliczającego miejscu po przecinku jest mniejsza niż 5, cyfrę tę pomija się, gdy zaś jest większa albo równa 5, cyfrę poprzedzającą zwiększa się o 1,
-- **e)** równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (A ), które mogą być dodatnie lub ujemne zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach: , gdzie: S oznacza bieżące saldo przepływów; jeżeli celem jest zachowanie równoważności przepływów, wartość ta będzie równa 0.
+- **e)** równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (A ), które mogą być dodatnie lub ujemne – zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach: , gdzie: S – oznacza bieżące saldo przepływów; jeżeli celem jest zachowanie równoważności przepływów, wartość ta będzie równa 0.
 
 4. W celu obliczania rzeczywistej rocznej stopy oprocentowania przyjmuje się następujące założenia dodatkowe:
 
@@ -1260,8 +1258,8 @@ Art. 79–83. (pominięte)
 - **c)** jeżeli umowa o kredyt hipoteczny daje konsumentowi zasadniczo swobodę dokonywania wypłat, ale w zależności od sposobu dokonywania tych wypłat wprowadza ograniczenia w odniesieniu do kwoty kredytu hipotecznego i czasu, przyjmuje się, że kwota kredytu hipotecznego jest wypłacana w najwcześniejszym przewidzianym w umowie o kredyt hipoteczny terminie i zgodnie z tymi ograniczeniami wypłat,
 - **d)** jeżeli przez ograniczony okres lub w odniesieniu do ograniczonej kwoty oferuje się różne stopy oprocentowania kredytu hipotecznego i różną wielkość opłat, za stopę oprocentowania kredytu hipotecznego i opłaty w całym okresie obowiązywania umowy o kredyt hipoteczny przyjmuje się stopę najwyższą i najwyższe opłaty,
 - **e)** w przypadku umów o kredyt hipoteczny, w których ustalono stałą stopę oprocentowania kredytu hipotecznego w odniesieniu do początkowego okresu, na koniec którego ustala się nową stopę oprocentowania kredytu hipotecznego, zmienianą następnie okresowo zgodnie z uzgodnionym wskaźnikiem lub wewnętrzną stopą referencyjną, obliczenia rzeczywistej rocznej stopy oprocentowania dokonuje się w oparciu o założenie, że po zakończeniu okresu, w którym obowiązuje stała stopa oprocentowania kredytu hipotecznego, stopa oprocentowania kredytu hipotecznego jest taka sama jak w chwili obliczania rzeczywistej rocznej stopy oprocentowania w oparciu o obowiązującą w tym czasie wartość uzgodnionego wskaźnika lub wewnętrznej stopy referencyjnej, ale nie niższa niż stała stopa oprocentowania kredytu hipotecznego,
-- **f)** jeżeli maksymalny pułap kredytu hipotecznego nie został ustalony, przyjmuje się, że wynosi on w walucie polskiej równowartość 170 000 euro ustaloną z zastosowaniem średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski z dnia obliczania maksymalnego pułapu kredytu hipotecznego. W przypadku umów o kredyt hipoteczny z wyjątkiem zobowiązań warunkowych lub gwarancji których celem nie jest nabycie lub utrzymanie prawa do nieruchomości, kredytów hipotecznych w rachunku bieżącym, kart debetowych z odroczoną płatnością lub kart kredytowych, zakłada się, że pułap ten wynosi w walucie polskiej równowartość 1500 euro ustaloną z zastosowaniem średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski z dnia obliczania maksymalnego pułapu kredytu hipotecznego,
-- **g)** w przypadku umów o kredyt hipoteczny innych niż: umowy o kredyt w rachunku bieżącym, umowy o kredyt hipoteczny zawarte na czas nieokreślony albo z terminem spłaty do 12 miesięcy, z której konsument korzysta jako tymczasowego rozwiązania finansującego, przechodząc na inne rozwiązanie finansujące w odniesieniu do danej nieruchomości (kredyt pomostowy), umowy o kredyt hipoteczny, w których wysokość kapitału do spłaty jest oparta na określonej w umowie procentowej wartości danej nieruchomości w momencie spłaty lub spłat kapitału (umowy o kredyt z udziałem w kapitale), umowy o kredyt hipoteczny funkcjonujące jako gwarancja dla innej, odrębnej, ale dodatkowej transakcji i w ramach której kapitał zabezpieczony na nieruchomości jest wypłacany jedynie w przypadku zajścia zdarzenia lub zdarzeń określonych w umowie (zobowiązania warunkowe lub gwarancje), i umów o kredyt odnawialny, o których mowa w założeniach przedstawionych w lit. i, j, k, l oraz m: (i) jeżeli nie można ustalić terminu lub kwoty spłaty kapitału, do której jest zobowiązany konsument, zakłada się, że spłata przypada w najwcześniejszym terminie przewidzianym w umowie o kredyt hipoteczny przy zastosowaniu najniższej kwoty przewidzianej w umowie o kredyt hipoteczny, (ii) jeżeli nie można ustalić odstępu czasowego między pierwszą wypłatą a datą pierwszej płatności, do której jest zobowiązany konsument, zakłada się, że jest to odstęp najkrótszy,
+- **f)** jeżeli maksymalny pułap kredytu hipotecznego nie został ustalony, przyjmuje się, że wynosi on w walucie polskiej równowartość 170 000 euro ustaloną z zastosowaniem średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski z dnia obliczania maksymalnego pułapu kredytu hipotecznego. W przypadku umów o kredyt hipoteczny – z wyjątkiem zobowiązań warunkowych lub gwarancji – których celem nie jest nabycie lub utrzymanie prawa do nieruchomości, kredytów hipotecznych w rachunku bieżącym, kart debetowych z odroczoną płatnością lub kart kredytowych, zakłada się, że pułap ten wynosi w walucie polskiej równowartość 1500 euro ustaloną z zastosowaniem średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski z dnia obliczania maksymalnego pułapu kredytu hipotecznego,
+- **g)** w przypadku umów o kredyt hipoteczny innych niż: – umowy o kredyt w rachunku bieżącym, – umowy o kredyt hipoteczny zawarte na czas nieokreślony albo z terminem spłaty do 12 miesięcy, z której konsument korzysta jako tymczasowego rozwiązania finansującego, przechodząc na inne rozwiązanie finansujące w odniesieniu do danej nieruchomości (kredyt pomostowy), – umowy o kredyt hipoteczny, w których wysokość kapitału do spłaty jest oparta na określonej w umowie procentowej wartości danej nieruchomości w momencie spłaty lub spłat kapitału (umowy o kredyt z udziałem w kapitale), – umowy o kredyt hipoteczny funkcjonujące jako gwarancja dla innej, odrębnej, ale dodatkowej transakcji i w ramach której kapitał zabezpieczony na nieruchomości jest wypłacany jedynie w przypadku zajścia zdarzenia lub zdarzeń określonych w umowie (zobowiązania warunkowe lub gwarancje), i umów o kredyt odnawialny, o których mowa w założeniach przedstawionych w lit. i, j, k, l oraz m: (i) jeżeli nie można ustalić terminu lub kwoty spłaty kapitału, do której jest zobowiązany konsument, zakłada się, że spłata przypada w najwcześniejszym terminie przewidzianym w umowie o kredyt hipoteczny przy zastosowaniu najniższej kwoty przewidzianej w umowie o kredyt hipoteczny, (ii) jeżeli nie można ustalić odstępu czasowego między pierwszą wypłatą a datą pierwszej płatności, do której jest zobowiązany konsument, zakłada się, że jest to odstęp najkrótszy,
 - **h)** w przypadku gdy na podstawie umowy o kredyt hipoteczny lub założeń określonych w lit. g, i, j, k, l oraz m nie można ustalić terminu lub kwoty płatności, do której jest zobowiązany konsument, zakłada się, że płatność przypada zgodnie z terminami i warunkami wymaganymi przez kredytodawcę, a jeśli te nie są znane, zakłada się, że: (i) odsetki podlegają zapłacie wraz ze spłatą kapitału, (ii) opłaty niezwiązane z odsetkami wyrażone w pojedynczej kwocie podlegają zapłacie w dniu zawarcia umowy o kredyt hipoteczny, (iii) opłaty niezwiązane z odsetkami wyrażone jako szereg płatności podlegają zapłacie w regularnych odstępach czasu, począwszy od dnia pierwszej spłaty kapitału, przy czym w przypadku gdy kwoty takich płatności nie są znane, zakłada się, że kwoty te są jednakowe, (iv) płatność końcowa rozlicza ewentualne saldo kapitału pozostającego do spłaty, odsetek i innych opłat,
 - **i)** w przypadku kredytu hipotecznego w rachunku bieżącym przyjmuje się, że całkowita kwota kredytu hipotecznego została wypłacona w całości i na cały okres obowiązywania umowy o kredyt hipoteczny. Jeżeli okres obowiązywania umowy o kredyt hipoteczny w rachunku bieżącym nie jest znany, obliczenia rzeczywistej rocznej stopy oprocentowania dokonuje się przy założeniu, że czas trwania umowy o kredyt hipoteczny wynosi trzy miesiące,
 - **j)** w przypadku kredytu pomostowego przyjmuje się, że całkowita kwota kredytu hipotecznego została wypłacona w całości i na cały okres obowiązywania umowy o kredyt hipoteczny. Jeżeli okres obowiązywania umowy o kredyt hipoteczny nie jest znany, obliczenia rzeczywistej rocznej stopy oprocentowania dokonuje się przy założeniu, że czas trwania umowy o kredyt hipoteczny wynosi dwanaście miesięcy,

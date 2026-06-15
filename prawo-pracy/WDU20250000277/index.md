@@ -8,7 +8,7 @@ pos: 277
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Kodeks pracy Preambuła (uchylona)
@@ -208,7 +208,7 @@ source: "isap-pdf"
 
 § 2. Organizację, zadania i uprawnienia społecznej inspekcji pracy oraz zasady jej współdziałania z Państwową Inspekcją Pracy i innymi państwowymi organami nadzoru i kontroli określają odrębne przepisy.
 
-#### Rozdział III
+#### Rozdział III (zawierający art. 19–21 – uchylony)
 
 ### DZIAŁ DRUGI Stosunek pracy
 
@@ -377,6 +377,10 @@ source: "isap-pdf"
 - **9)** w przypadku odstąpienia od pobrania próbek krwi lub moczu – informacji o przyczynie odstąpienia.
 
 **Art. 22¹g.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw pracy określi, w drodze rozporządzenia:
+
+- **1)** warunki i metody przeprowadzania badań na obecność alkoholu w organizmie pracownika oraz badań na obecność w organizmie pracownika środków działających podobnie do alkoholu przez pracodawcę oraz przez uprawniony organ powołany do ochrony porządku publicznego lub zlecanych przez ten organ,
+- **2)** sposób dokumentowania badań przeprowadzanych lub zlecanych przez uprawniony organ powołany do ochrony porządku publicznego,
+- **3)** wykaz środków działających podobnie do alkoholu – mając na uwadze metodykę przeprowadzania takich badań, konieczność zapewnienia ochrony życia i zdrowia pracowników lub innych osób lub ochrony mienia, a także konieczność sprawnego przeprowadzania badań i zagwarantowania wiarygodności wyników badania krwi i moczu przy jednoczesnym poszanowaniu godności oraz innych dóbr osobistych pracownika i zasad ochrony danych osobowych.
 
 **Art. 22¹h.** Przepisy art. 22 –22 oraz przepisy wydane na podstawie art. 22 stosuje się odpowiednio do pracodawców organizujących pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy oraz osoby fizyczne prowadzące na własny rachunek działalność gospodarczą, a także do osób fizycznych wykonujących pracę na innej podstawie niż stosunek pracy oraz osób fizycznych prowadzących na własny rachunek działalność gospodarczą, których praca jest organizowana przez tych pracodawców.
 
@@ -551,7 +555,9 @@ source: "isap-pdf"
 
 **Art. 29¹.**
 
-§ 1. (uchylony) § 2. Przed wyjazdem pracownika do pracy lub w celu wykonania zadania służbowego poza granicami kraju na okres przekraczający 4 kolejne tygodnie pracodawca przekazuje pracownikowi niezależnie od informacji, o których mowa w art. 29 § 3, informacje w postaci papierowej lub elektronicznej o:
+§ 1. (uchylony)
+
+§ 2. Przed wyjazdem pracownika do pracy lub w celu wykonania zadania służbowego poza granicami kraju na okres przekraczający 4 kolejne tygodnie pracodawca przekazuje pracownikowi niezależnie od informacji, o których mowa w art. 29 § 3, informacje w postaci papierowej lub elektronicznej o:
 
 - **1)** państwie lub państwach, w których praca lub zadanie służbowe poza granicami kraju mają być wykonywane;
 - **2)** przewidywanym czasie trwania pracy lub zadania służbowego poza granicami kraju;
@@ -607,7 +613,9 @@ source: "isap-pdf"
 - **2)** przez oświadczenie jednej ze stron z zachowaniem okresu wypowiedzenia (rozwiązanie umowy o pracę za wypowiedzeniem);
 - **3)** przez oświadczenie jednej ze stron bez zachowania okresu wypowiedzenia (rozwiązanie umowy o pracę bez wypowiedzenia);
 - **4)** z upływem czasu, na który była zawarta.
-- **5)** (uchylony) § 2. Umowa o pracę na okres próbny rozwiązuje się z upływem tego okresu, a przed jego upływem może być rozwiązana za wypowiedzeniem.
+- **5)** (uchylony)
+
+§ 2. Umowa o pracę na okres próbny rozwiązuje się z upływem tego okresu, a przed jego upływem może być rozwiązana za wypowiedzeniem.
 
 § 2. Okres wypowiedzenia umowy o pracę obejmujący tydzień lub miesiąc albo ich wielokrotność kończy się odpowiednio w sobotę lub w ostatnim dniu miesiąca.
 
@@ -633,6 +641,10 @@ source: "isap-pdf"
 
 **Art. 34.** Okres wypowiedzenia umowy o pracę zawartej na okres próbny wynosi:
 
+- **1)** 3 dni robocze, jeżeli okres próbny nie przekracza 2 tygodni;
+- **2)** 1 tydzień, jeżeli okres próbny jest dłuższy niż 2 tygodnie;
+- **3)** 2 tygodnie, jeżeli okres próbny wynosi 3 miesiące.
+
 **Art. 35.** (uchylony)
 
 **Art. 36.**
@@ -645,7 +657,13 @@ source: "isap-pdf"
 
 § 1. Do okresu zatrudnienia, o którym mowa w § 1, wlicza się pracownikowi okres zatrudnienia u poprzedniego pracodawcy, jeżeli zmiana pracodawcy nastąpiła na zasadach określonych w art. 23 , a także w innych przypadkach, gdy z mocy odrębnych przepisów nowy pracodawca jest następcą prawnym w stosunkach pracy nawiązanych przez pracodawcę poprzednio zatrudniającego tego pracownika.
 
-§ 2. (uchylony) § 3. (uchylony) § 4. (uchylony) § 5. Jeżeli pracownik jest zatrudniony na stanowisku związanym z odpowiedzialnością materialną za powierzone mienie, strony mogą ustalić w umowie o pracę, że w przypadku, o którym mowa w § 1 pkt 1, okres wypowiedzenia wynosi 1 miesiąc, a w przypadku, o którym mowa w § 1 pkt 2 – 3 miesiące.
+§ 2. (uchylony)
+
+§ 3. (uchylony)
+
+§ 4. (uchylony)
+
+§ 5. Jeżeli pracownik jest zatrudniony na stanowisku związanym z odpowiedzialnością materialną za powierzone mienie, strony mogą ustalić w umowie o pracę, że w przypadku, o którym mowa w § 1 pkt 1, okres wypowiedzenia wynosi 1 miesiąc, a w przypadku, o którym mowa w § 1 pkt 2 – 3 miesiące.
 
 § 6. Strony mogą po dokonaniu wypowiedzenia umowy o pracę przez jedną z nich ustalić wcześniejszy termin rozwiązania umowy; ustalenie takie nie zmienia trybu rozwiązania umowy o pracę.
 
@@ -672,7 +690,11 @@ source: "isap-pdf"
 
 § 2. Jeżeli zakładowa organizacja związkowa uważa, że wypowiedzenie byłoby nieuzasadnione, może w ciągu 5 dni od otrzymania zawiadomienia zgłosić pracodawcy w postaci papierowej lub elektronicznej umotywowane zastrzeżenia.
 
-§ 3. (uchylony) § 4. (uchylony) § 5. Po rozpatrzeniu stanowiska organizacji związkowej, a także w razie niezajęcia przez nią stanowiska w ustalonym terminie, pracodawca podejmuje decyzję w sprawie wypowiedzenia.
+§ 3. (uchylony)
+
+§ 4. (uchylony)
+
+§ 5. Po rozpatrzeniu stanowiska organizacji związkowej, a także w razie niezajęcia przez nią stanowiska w ustalonym terminie, pracodawca podejmuje decyzję w sprawie wypowiedzenia.
 
 **Art. 39.** Pracodawca nie może wypowiedzieć umowy o pracę pracownikowi, któremu brakuje nie więcej niż 4 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku.
 
@@ -684,7 +706,11 @@ source: "isap-pdf"
 
 § 1. W razie ogłoszenia upadłości lub likwidacji pracodawcy, nie stosuje się przepisów art. 38, 39 i 41, ani przepisów szczególnych dotyczących ochrony pracowników przed wypowiedzeniem lub rozwiązaniem umowy o pracę.
 
-§ 2. (uchylony) § 3. (uchylony) § 4. (uchylony)
+§ 2. (uchylony)
+
+§ 3. (uchylony)
+
+§ 4. (uchylony)
 
 **Art. 42.**
 
@@ -697,6 +723,9 @@ source: "isap-pdf"
 § 4. Wypowiedzenie dotychczasowych warunków pracy lub płacy nie jest wymagane w razie powierzenia pracownikowi, w przypadkach uzasadnionych potrzebami pracodawcy, innej pracy niż określona w umowie o pracę na okres nieprzekraczający 3 miesięcy w roku kalendarzowym, jeżeli nie powoduje to obniżenia wynagrodzenia i odpowiada kwalifikacjom pracownika.
 
 **Art. 43.** Pracodawca może wypowiedzieć warunki pracy lub płacy pracownikowi, o którym mowa w art. 39, jeżeli wypowiedzenie stało się konieczne ze względu na:
+
+- **1)** wprowadzenie nowych zasad wynagradzania dotyczących ogółu pracowników zatrudnionych u danego pracodawcy lub tej ich grupy, do której pracownik należy;
+- **2)** stwierdzoną orzeczeniem lekarskim utratę zdolności do wykonywania dotychczasowej pracy albo niezawinioną przez pracownika utratę uprawnień koniecznych do jej wykonywania.
 
 ##### Oddział 4 Uprawnienia pracownika w razie nieuzasadnionego lub niezgodnego z prawem wypowiedzenia umowy o pracę przez pracodawcę
 
@@ -728,7 +757,13 @@ source: "isap-pdf"
 
 § 1. Jeżeli wypowiedzenie umowy o pracę zawartej na okres próbny nastąpiło z naruszeniem przepisów o wypowiadaniu tych umów, pracownikowi przysługuje wyłącznie odszkodowanie. Odszkodowanie przysługuje w wysokości wynagrodzenia za czas, do upływu którego umowa miała trwać.
 
-§ 2. (uchylony) § 3. (uchylony) § 4. (uchylony) § 5. (uchylony)
+§ 2. (uchylony)
+
+§ 3. (uchylony)
+
+§ 4. (uchylony)
+
+§ 5. (uchylony)
 
 **Art. 51.**
 
@@ -796,7 +831,9 @@ source: "isap-pdf"
 
 § 2. Jeżeli umowę o pracę rozwiązano z pracownikiem, o którym mowa w art. 39, albo z pracownicą w okresie ciąży oraz w okresie urlopu macierzyńskiego lub od dnia złożenia przez pracownika wniosku o udzielenie urlopu macierzyńskiego albo jego części – do dnia zakończenia tego urlopu, wynagrodzenie przysługuje za cały czas pozostawania bez pracy. Dotyczy to także przypadku, gdy rozwiązanie umowy o pracę podlega ograniczeniu z mocy przepisu szczególnego.
 
-§ 3. (uchylony) § 4. Przepisy art. 48 i 51 § 1 stosuje się odpowiednio.
+§ 3. (uchylony)
+
+§ 4. Przepisy art. 48 i 51 § 1 stosuje się odpowiednio.
 
 **Art. 58.** Odszkodowanie, o którym mowa w art. 56, przysługuje w wysokości wynagrodzenia za okres wypowiedzenia. W przypadku rozwiązania umowy o pracę zawartej na czas określony odszkodowanie przysługuje w wysokości wynagrodzenia za czas, do którego umowa miała trwać, nie więcej jednak niż za okres wypowiedzenia.
 
@@ -1063,6 +1100,12 @@ source: "isap-pdf"
 
 **Art. 69.** Jeżeli przepisy niniejszego oddziału nie stanowią inaczej, do stosunku pracy na podstawie powołania stosuje się przepisy dotyczące umowy o pracę na czas nieokreślony, z wyłączeniem przepisów regulujących:
 
+- **1)** tryb postępowania przy rozwiązywaniu umów o pracę;
+- **2)** rozpatrywanie sporów ze stosunku pracy w części dotyczącej orzekania:
+    - **a)** o bezskuteczności wypowiedzeń,
+    - **b)** (uchylona)
+    - **c)** o przywracaniu do pracy.
+
 **Art. 70.**
 
 § 1. Pracownik zatrudniony na podstawie powołania może być w każdym czasie – niezwłocznie lub w określonym terminie – odwołany ze stanowiska przez organ, który go powołał. Dotyczy to również pracownika, który na podstawie przepisów szczególnych został powołany na stanowisko na czas określony.
@@ -1243,7 +1286,9 @@ source: "isap-pdf"
 
 § 5. Nagroda z zakładowego funduszu nagród, dodatkowe wynagrodzenie roczne oraz należności przysługujące pracownikom z tytułu udziału w zysku lub w nadwyżce bilansowej podlegają egzekucji na zaspokojenie świadczeń alimentacyjnych do pełnej wysokości.
 
-§ 6. (uchylony) § 7. Z wynagrodzenia za pracę odlicza się, w pełnej wysokości, kwoty wypłacone w poprzednim terminie płatności za okres nieobecności w pracy, za który pracownik nie zachowuje prawa do wynagrodzenia.
+§ 6. (uchylony)
+
+§ 7. Z wynagrodzenia za pracę odlicza się, w pełnej wysokości, kwoty wypłacone w poprzednim terminie płatności za okres nieobecności w pracy, za który pracownik nie zachowuje prawa do wynagrodzenia.
 
 § 8. Potrąceń należności z wynagrodzenia pracownika w miesiącu, w którym są wypłacane składniki wynagrodzenia za okresy dłuższe niż 1 miesiąc, dokonuje się od łącznej kwoty wynagrodzenia uwzględniającej te składniki wynagrodzenia.
 
@@ -1289,7 +1334,9 @@ source: "isap-pdf"
 - **2)** wypadku w drodze do pracy lub z pracy albo choroby przypadającej w czasie ciąży – w okresie wskazanym w pkt 1 – pracownik zachowuje prawo do 100 % wynagrodzenia;
 - **3)** poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów – w okresie wskazanym w pkt 1 – pracownik zachowuje prawo do 100 % wynagrodzenia.
 
-§ 1. (uchylony) § 2. Wynagrodzenie, o którym mowa w § 1, oblicza się według zasad obowiązujących przy ustalaniu podstawy wymiaru zasiłku chorobowego i wypłaca za każdy dzień niezdolności do pracy, nie wyłączając dni wolnych od pracy.
+§ 1. (uchylony)
+
+§ 2. Wynagrodzenie, o którym mowa w § 1, oblicza się według zasad obowiązujących przy ustalaniu podstawy wymiaru zasiłku chorobowego i wypłaca za każdy dzień niezdolności do pracy, nie wyłączając dni wolnych od pracy.
 
 § 3. Wynagrodzenie, o którym mowa w § 1:
 
@@ -1339,9 +1386,29 @@ source: "isap-pdf"
 
 **Art. 94.** Pracodawca jest obowiązany w szczególności:
 
+- **1)** zaznajamiać pracowników podejmujących pracę z zakresem ich obowiązków, sposobem wykonywania pracy na wyznaczonych stanowiskach oraz ich podstawowymi uprawnieniami;
+- **1a)** informować pracowników o warunkach ich zatrudnienia, o których mowa w art. 29 § 3, 3 i 3 lub w art. 29 § 2 i 4;
+- **2)** organizować pracę w sposób zapewniający pełne wykorzystanie czasu pracy, jak również osiąganie przez pracowników, przy wykorzystaniu ich uzdolnień i kwalifikacji, wysokiej wydajności i należytej jakości pracy;
+- **2a)** organizować pracę w sposób zapewniający zmniejszenie uciążliwości pracy, zwłaszcza pracy monotonnej i pracy w ustalonym z góry tempie;
+- **2b)** przeciwdziałać dyskryminacji w zatrudnieniu, w szczególności ze względu na płeć, wiek, niepełnosprawność, rasę, religię, narodowość, przekonania polityczne, przynależność związkową, pochodzenie etniczne, wyznanie, orientację seksualną, a także ze względu na zatrudnienie na czas określony lub nieokreślony albo w pełnym lub w niepełnym wymiarze czasu pracy;
+- **3)** (uchylony)
+- **4)** zapewniać bezpieczne i higieniczne warunki pracy oraz prowadzić systematyczne szkolenie pracowników w zakresie bezpieczeństwa i higieny pracy;
+- **5)** terminowo i prawidłowo wypłacać wynagrodzenie;
+- **6)** ułatwiać pracownikom podnoszenie kwalifikacji zawodowych;
+- **7)** stwarzać pracownikom podejmującym zatrudnienie po ukończeniu szkoły prowadzącej kształcenie zawodowe lub szkoły wyższej warunki sprzyjające przystosowaniu się do należytego wykonywania pracy;
+- **8)** zaspokajać w miarę posiadanych środków socjalne potrzeby pracowników;
+- **9)** stosować obiektywne i sprawiedliwe kryteria oceny pracowników oraz wyników ich pracy;
+- **9a)** prowadzić i przechowywać w postaci papierowej lub elektronicznej dokumentację w sprawach związanych ze stosunkiem pracy oraz akta osobowe pracowników (dokumentacja pracownicza);
+- **9b)** przechowywać dokumentację pracowniczą w sposób gwarantujący zachowanie jej poufności, integralności, kompletności oraz dostępności, w warunkach niegrożących uszkodzeniem lub zniszczeniem przez okres zatrudnienia, a także przez okres 10 lat, licząc od końca roku kalendarzowego, w którym stosunek pracy uległ rozwiązaniu lub wygasł, chyba że odrębne przepisy przewidują dłuższy okres przechowywania dokumentacji pracowniczej;
+- **10)** wpływać na kształtowanie w zakładzie pracy zasad współżycia społecznego.
+
 **Art. 94¹.** Pracodawca udostępnia pracownikom tekst przepisów dotyczących równego traktowania w zatrudnieniu w formie pisemnej informacji rozpowszechnionej na terenie zakładu pracy lub zapewnia pracownikom dostęp do tych przepisów w inny sposób przyjęty u danego pracodawcy.
 
 **Art. 94².** Pracodawca jest obowiązany informować pracowników w sposób przyjęty u danego pracodawcy o:
+
+- **1)** możliwości zatrudnienia w pełnym lub w niepełnym wymiarze czasu pracy;
+- **2)** możliwości awansu;
+- **3)** wolnych stanowiskach pracy.
 
 **Art. 94³.**
 
@@ -1357,6 +1424,9 @@ source: "isap-pdf"
 
 **Art. 94⁴.** Jeżeli przechowywana dokumentacja pracownicza może stanowić lub stanowi dowód w postępowaniu, a pracodawca:
 
+- **1)** jest stroną tego postępowania – przechowuje dokumentację pracowniczą do czasu jego prawomocnego zakończenia, nie krócej jednak niż do upływu okresu, o którym mowa w art. 94 pkt 9b; art. 94 stosuje się odpowiednio;
+- **2)** powziął wiadomość o wytoczeniu powództwa lub wszczęciu postępowania – okres przechowywania dokumentacji pracowniczej, o którym mowa w art. 94 pkt 9b, przedłuża się o 12 miesięcy, po upływie których pracodawca zawiadamia, w postaci papierowej lub elektronicznej, byłego pracownika o możliwości odbioru tej dokumentacji w terminie 30 dni od dnia otrzymania zawiadomienia oraz, w przypadku jej nieodebrania, o zniszczeniu dokumentacji pracowniczej; art. 94 stosuje się odpowiednio.
+
 **Art. 94⁵.**
 
 § 1. W przypadku ponownego nawiązania stosunku pracy z tym samym pracownikiem w okresie, o którym mowa w art. 94 pkt 9b, pracodawca kontynuuje prowadzenie dla tego pracownika dotychczasowej dokumentacji pracowniczej.
@@ -1364,6 +1434,10 @@ source: "isap-pdf"
 § 2. W przypadku, o którym mowa w § 1, okres przechowywania dokumentacji pracowniczej liczy się od końca roku kalendarzowego, w którym kończący się najpóźniej stosunek pracy rozwiązał się lub wygasł.
 
 **Art. 94⁶.** W przypadku rozwiązania lub wygaśnięcia stosunku pracy pracodawca wraz ze świadectwem pracy wydaje pracownikowi w postaci papierowej lub elektronicznej informację o:
+
+- **1)** okresie przechowywania dokumentacji pracowniczej, o którym mowa w art. 94 pkt 9b lub w art. 94 § 2;
+- **2)** możliwości odbioru przez pracownika dokumentacji pracowniczej do końca miesiąca kalendarzowego następującego po upływie okresu przechowywania dokumentacji pracowniczej, o którym mowa w art. 94 pkt 9b lub w art. 94 § 2;
+- **3)** zniszczeniu dokumentacji pracowniczej w przypadku jej nieodebrania w okresie, o którym mowa w pkt 2.
 
 **Art. 94⁷.**
 
@@ -1400,6 +1474,9 @@ source: "isap-pdf"
 **Art. 94¹¹.** Dokumentacja pracownicza prowadzona i przechowywana w postaci elektronicznej jest równoważna z dokumentacją pracowniczą prowadzoną i przechowywaną w postaci papierowej.
 
 **Art. 94¹².** Pracodawca wydaje kopię całości lub części dokumentacji pracowniczej na wniosek:
+
+- **1)** pracownika lub byłego pracownika albo
+- **2)** osób, o których mowa w art. 94 § 3, w przypadku śmierci pracownika lub byłego pracownika – złożony w postaci papierowej lub elektronicznej.
 
 **Art. 94¹³.** Jeżeli obowiązek pracodawcy przeprowadzenia szkoleń pracowników niezbędnych do wykonywania określonego rodzaju pracy lub pracy na określonym stanowisku wynika z postanowień układu zbiorowego pracy lub innego porozumienia zbiorowego, lub z regulaminu, lub przepisów prawa, lub umowy o pracę oraz w przypadku szkoleń odbywanych przez pracownika na podstawie polecenia przełożonego, szkolenia takie odbywają się na koszt pracodawcy oraz, w miarę możliwości, w godzinach pracy pracownika. Czas szkolenia odbywanego poza normalnymi godzinami pracy pracownika wlicza się do czasu pracy.
 
@@ -1443,7 +1520,9 @@ source: "isap-pdf"
 
 § 2. Odszkodowanie, o którym mowa w § 1, przysługuje w wysokości wynagrodzenia za czas pozostawania bez pracy z tego powodu, nie dłuższy jednak niż 6 tygodni.
 
-§ 3. (uchylony) § 4. Orzeczenie o odszkodowaniu w związku z wydaniem niewłaściwego świadectwa pracy stanowi podstawę do zmiany tego świadectwa.
+§ 3. (uchylony)
+
+§ 4. Orzeczenie o odszkodowaniu w związku z wydaniem niewłaściwego świadectwa pracy stanowi podstawę do zmiany tego świadectwa.
 
 #### Rozdział II Obowiązki pracownika
 
@@ -1522,7 +1601,15 @@ source: "isap-pdf"
 
 **Art. 103⁵.** Pracownik podnoszący kwalifikacje zawodowe:
 
+- **1)** który bez uzasadnionych przyczyn nie podejmie podnoszenia kwalifikacji zawodowych albo przerwie podnoszenie tych kwalifikacji,
+- **2)** z którym pracodawca rozwiąże stosunek pracy bez wypowiedzenia z jego winy, w trakcie podnoszenia kwalifikacji zawodowych lub po jego ukończeniu, w terminie określonym w umowie, o której mowa w art. 103 , nie dłuższym niż 3 lata,
+- **3)** który w okresie wskazanym w pkt 2 rozwiąże stosunek pracy za wypowiedzeniem, z wyjątkiem wypowiedzenia umowy o pracę z przyczyn określonych w art. 94 ,
+- **4)** który w okresie wskazanym w pkt 2 rozwiąże stosunek pracy bez wypowiedzenia na podstawie art. 55 lub art. 94 , mimo braku przyczyn określonych w tych przepisach – jest obowiązany do zwrotu kosztów poniesionych przez pracodawcę na ten cel z tytułu dodatkowych świadczeń, w wysokości proporcjonalnej do okresu zatrudnienia po ukończeniu podnoszenia kwalifikacji zawodowych lub okresu zatrudnienia w czasie ich podnoszenia.
+
 **Art. 103⁶.** Pracownikowi zdobywającemu lub uzupełniającemu wiedzę i umiejętności na zasadach innych, niż określone w art. 103 –103 , mogą być przyznane:
+
+- **1)** zwolnienie z całości lub części dnia pracy bez zachowania prawa do wynagrodzenia,
+- **2)** urlop bezpłatny – w wymiarze ustalonym w porozumieniu zawieranym między pracodawcą i pracownikiem.
 
 #### Rozdział IV Regulamin pracy
 
@@ -1738,7 +1825,9 @@ source: "isap-pdf"
 
 § 2. Każde święto występujące w okresie rozliczeniowym i przypadające w innym dniu niż niedziela obniża wymiar czasu pracy o 8 godzin.
 
-§ 2. (utracił moc) § 3. Wymiar czasu pracy pracownika w okresie rozliczeniowym, ustalony zgodnie z art. 129 § 1, ulega w tym okresie obniżeniu o liczbę godzin usprawiedliwionej nieobecności w pracy, przypadających do przepracowania w czasie tej nieobecności, zgodnie z przyjętym rozkładem czasu pracy.
+§ 2. (utracił moc)
+
+§ 3. Wymiar czasu pracy pracownika w okresie rozliczeniowym, ustalony zgodnie z art. 129 § 1, ulega w tym okresie obniżeniu o liczbę godzin usprawiedliwionej nieobecności w pracy, przypadających do przepracowania w czasie tej nieobecności, zgodnie z przyjętym rozkładem czasu pracy.
 
 **Art. 131.**
 
@@ -1873,6 +1962,10 @@ source: "isap-pdf"
 **Art. 147.** W każdym systemie czasu pracy, jeżeli przewiduje on rozkład czasu pracy obejmujący pracę w niedziele i święta, pracownikom zapewnia się łączną liczbę dni wolnych od pracy w przyjętym okresie rozliczeniowym odpowiadającą co najmniej liczbie niedziel, świąt oraz dni wolnych od pracy w przeciętnie pięciodniowym tygodniu pracy przypadających w tym okresie.
 
 **Art. 148.** W systemach i rozkładach czasu pracy, o których mowa w art. 135– 138, 143 i 144, czas pracy:
+
+- **1)** pracowników zatrudnionych na stanowiskach pracy, na których występują przekroczenia najwyższych dopuszczalnych stężeń lub natężeń czynników szkodliwych dla zdrowia,
+- **2)** pracownic w ciąży,
+- **3)** pracowników opiekujących się dzieckiem do ukończenia przez nie 4 roku życia, bez ich zgody – nie może przekraczać 8 godzin. Pracownik zachowuje prawo do wynagrodzenia za czas nieprzepracowany w związku ze zmniejszeniem z tego powodu wymiaru jego czasu pracy.
 
 **Art. 148¹.**
 
@@ -2020,6 +2113,29 @@ source: "isap-pdf"
 
 **Art. 151¹⁰.** Praca w niedziele i święta jest dozwolona:
 
+- **1)** w razie konieczności prowadzenia akcji ratowniczej w celu ochrony życia lub zdrowia ludzkiego, ochrony mienia lub środowiska albo usunięcia awarii;
+- **2)** w ruchu ciągłym;
+- **3)** przy pracy zmianowej;
+- **4)** przy niezbędnych remontach;
+- **5)** w transporcie i w komunikacji;
+- **6)** w zakładowych strażach pożarnych i w zakładowych służbach ratowniczych;
+- **7)** przy pilnowaniu mienia lub ochronie osób;
+- **8)** w rolnictwie i hodowli;
+- **9)** przy wykonywaniu prac koniecznych ze względu na ich użyteczność społeczną i codzienne potrzeby ludności, w szczególności w:
+    - **a)** (uchylona)
+    - **b)** zakładach świadczących usługi dla ludności,
+    - **c)** gastronomii,
+    - **d)** zakładach hotelarskich,
+    - **e)** jednostkach gospodarki komunalnej,
+    - **f)** zakładach opieki zdrowotnej i innych placówkach służby zdrowia przeznaczonych dla osób, których stan zdrowia wymaga całodobowych lub całodziennych świadczeń zdrowotnych,
+    - **g)** jednostkach organizacyjnych pomocy społecznej oraz jednostkach organizacyjnych wspierania rodziny i systemu pieczy zastępczej zapewniających całodobową opiekę,
+    - **h)** zakładach prowadzących działalność w zakresie kultury, oświaty, turystyki i wypoczynku;
+
+- **10)** w stosunku do pracowników zatrudnionych w systemie czasu pracy, w którym praca jest świadczona wyłącznie w piątki, soboty, niedziele i święta;
+- **11)** przy wykonywaniu prac:
+    - **a)** polegających na świadczeniu usług z wykorzystaniem środków komunikacji elektronicznej w rozumieniu przepisów o świadczeniu usług drogą elektroniczną lub urządzeń telekomunikacyjnych w rozumieniu przepisów prawa komunikacji elektronicznej, odbieranych poza terytorium Rzeczypospolitej Polskiej, jeżeli zgodnie z przepisami obowiązującymi odbiorcę usługi, dni, o których mowa w art. 151 § 1, są u niego dniami pracy,
+    - **b)** zapewniających możliwość świadczenia usług, o których mowa w lit. a.
+
 **Art. 151¹¹.**
 
 § 1. Pracownikowi wykonującemu pracę w niedziele i święta, w przypadkach, o których mowa w art. 151 pkt 1–9 i 11 oraz w przepisach ustawy, o której mowa w art. 151 , pracodawca jest obowiązany zapewnić inny dzień wolny od pracy:
@@ -2165,7 +2281,17 @@ source: "isap-pdf"
 
 **Art. 165.** Jeżeli pracownik nie może rozpocząć urlopu w ustalonym terminie z przyczyn usprawiedliwiających nieobecność w pracy, a w szczególności z powodu:
 
+- **1)** czasowej niezdolności do pracy wskutek choroby,
+- **2)** odosobnienia w związku z chorobą zakaźną,
+- **3)** powołania na ćwiczenia wojskowe w ramach pasywnej rezerwy, stawienia się do pełnienia terytorialnej służby wojskowej rotacyjnie albo stawienia się do pełnienia służby w aktywnej rezerwie, na czas do 3 miesięcy,
+- **4)** urlopu macierzyńskiego, pracodawca jest obowiązany przesunąć urlop na termin późniejszy.
+
 **Art. 166.** Część urlopu niewykorzystaną z powodu:
+
+- **1)** czasowej niezdolności do pracy wskutek choroby,
+- **2)** odosobnienia w związku z chorobą zakaźną,
+- **3)** odbywania ćwiczeń wojskowych w ramach pasywnej rezerwy, pełnienia terytorialnej służby wojskowej rotacyjnie albo pełnienia służby w aktywnej rezerwie, przez czas do 3 miesięcy,
+- **4)** urlopu macierzyńskiego pracodawca jest obowiązany udzielić w terminie późniejszym.
 
 **Art. 167.**
 
@@ -2189,7 +2315,9 @@ source: "isap-pdf"
 
 § 1. W przypadku niewykorzystania przysługującego urlopu w całości lub w części z powodu rozwiązania lub wygaśnięcia stosunku pracy pracownikowi przysługuje ekwiwalent pieniężny.
 
-§ 2. (uchylony) § 3. Pracodawca nie ma obowiązku wypłacenia ekwiwalentu pieniężnego, o którym mowa w § 1, w przypadku gdy strony postanowią o wykorzystaniu urlopu w czasie pozostawania pracownika w stosunku pracy na podstawie kolejnej umowy o pracę zawartej z tym samym pracodawcą bezpośrednio po rozwiązaniu lub wygaśnięciu poprzedniej umowy o pracę z tym pracodawcą.
+§ 2. (uchylony)
+
+§ 3. Pracodawca nie ma obowiązku wypłacenia ekwiwalentu pieniężnego, o którym mowa w § 1, w przypadku gdy strony postanowią o wykorzystaniu urlopu w czasie pozostawania pracownika w stosunku pracy na podstawie kolejnej umowy o pracę zawartej z tym samym pracodawcą bezpośrednio po rozwiązaniu lub wygaśnięciu poprzedniej umowy o pracę z tym pracodawcą.
 
 § 4. Pracodawca dokonuje wypłaty ekwiwalentu pieniężnego, o którym mowa w § 1, w terminie wypłaty wynagrodzenia ustalonym zgodnie z art. 85.
 
@@ -2247,6 +2375,12 @@ source: "isap-pdf"
 
 **Art. 175¹.** Ilekroć w przepisach działu jest mowa o:
 
+- **1)** ubezpieczonej – matce dziecka – należy przez to rozumieć matkę dziecka niebędącą pracownicą, objętą ubezpieczeniem społecznym w razie choroby i macierzyństwa, określonym w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r. poz. 497, 863, 1243 i
+- **1615)** ;
+- **2)** ubezpieczonym – ojcu dziecka – należy przez to rozumieć ojca dziecka niebędącego pracownikiem, objętego ubezpieczeniem społecznym w razie choroby i macierzyństwa, określonym w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;
+- **3)** pracowniku – innym członku najbliższej rodziny – należy przez to rozumieć będącego pracownikiem, innego niż pracownik – ojciec wychowujący dziecko, członka najbliższej rodziny, o którym mowa w art. 29 ust. 5 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2023 r. poz. 2780 oraz z 2024 r. poz. 1871);
+- **4)** ubezpieczonym – innym członku najbliższej rodziny – należy przez to rozumieć niebędącego pracownikiem, innego niż ubezpieczony – ojciec dziecka, ubezpieczonego członka najbliższej rodziny, o którym mowa w art. 29 ust. 5 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
+
 **Art. 176.**
 
 § 1. Kobiety w ciąży i kobiety karmiące dziecko piersią nie mogą wykonywać prac uciążliwych, niebezpiecznych lub szkodliwych dla zdrowia, mogących mieć niekorzystny wpływ na ich zdrowie, przebieg ciąży lub karmienie dziecka piersią.
@@ -2269,7 +2403,9 @@ source: "isap-pdf"
 - **2)** 21 dni przed rozpoczęciem korzystania z uzupełniającego urlopu macierzyńskiego oraz urlopu rodzicielskiego albo jego części;
 - **3)** 7 dni przed rozpoczęciem korzystania z urlopu ojcowskiego albo jego części.
 
-§ 2. (uchylony) § 3. Umowa o pracę zawarta na czas określony albo na okres próbny przekraczający jeden miesiąc, która uległaby rozwiązaniu po upływie trzeciego miesiąca ciąży, ulega przedłużeniu do dnia porodu.
+§ 2. (uchylony)
+
+§ 3. Umowa o pracę zawarta na czas określony albo na okres próbny przekraczający jeden miesiąc, która uległaby rozwiązaniu po upływie trzeciego miesiąca ciąży, ulega przedłużeniu do dnia porodu.
 
 § 3. Przepisu § 3 nie stosuje się do umowy o pracę na czas określony zawartej w celu zastępstwa pracownika w czasie jego usprawiedliwionej nieobecności w pracy.
 
@@ -2608,6 +2744,9 @@ source: "isap-pdf"
 
 **Art. 186³.** Pracownik może zrezygnować z urlopu wychowawczego:
 
+- **1)** w każdym czasie – za zgodą pracodawcy;
+- **2)** po uprzednim zawiadomieniu pracodawcy – najpóźniej na 30 dni przed terminem zamierzonego podjęcia pracy.
+
 **Art. 186⁴.** Pracodawca dopuszcza pracownika po zakończeniu urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu rodzicielskiego, urlopu ojcowskiego oraz urlopu wychowawczego do pracy na dotychczasowym stanowisku, a jeżeli nie jest to możliwe – na stanowisku równorzędnym z zajmowanym przed rozpoczęciem urlopu na warunkach nie mniej korzystnych od tych, które obowiązywałyby, gdyby pracownik nie korzystał z urlopu.
 
 **Art. 186⁵.** Okres urlopu wychowawczego, w dniu jego zakończenia, wlicza się do okresu zatrudnienia, od którego zależą uprawnienia pracownicze.
@@ -2638,6 +2777,16 @@ source: "isap-pdf"
 § 4. W przypadku złożenia przez pracownika wniosku, o którym mowa w § 1, po dokonaniu czynności zmierzającej do rozwiązania umowy o pracę, umowa rozwiązuje się w terminie wynikającym z tej czynności.
 
 **Art. 186⁸a.** Minister właściwy do spraw pracy określi, w drodze rozporządzenia:
+
+- **1)** treść wniosku o udzielenie części urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego lub jego części, uzupełniającego urlopu macierzyńskiego, urlopu rodzicielskiego lub jego części i urlopu ojcowskiego lub jego części,
+- **2)** dokumenty dołączane do wniosków, o których mowa w pkt 1,
+- **3)** treść wniosku w sprawie rezygnacji z części urlopu macierzyńskiego i części urlopu na warunkach urlopu macierzyńskiego,
+- **4)** dokumenty dołączane do wniosków, o których mowa w pkt 3,
+- **5)** treść wniosku o łączenie korzystania z urlopu rodzicielskiego lub jego części z wykonywaniem pracy u pracodawcy udzielającego takiego urlopu,
+- **6)** treść wniosku o udzielenie urlopu wychowawczego lub jego części,
+- **7)** dokumenty dołączane do wniosku, o którym mowa w pkt 6,
+- **8)** treść wniosku o obniżenie wymiaru czasu pracy pracownika uprawnionego do urlopu wychowawczego,
+- **9)** dokumenty dołączane do wniosku, o którym mowa w pkt 8 – biorąc pod uwagę potrzebę zapewnienia prawidłowej realizacji uprawnień pracowników do urlopów związanych z rodzicielstwem i obniżenia wymiaru czasu pracy oraz zapewnienia właściwej organizacji czasu pracy.
 
 **Art. 187.**
 
@@ -2720,7 +2869,9 @@ source: "isap-pdf"
 
 § 3. Rada Ministrów określi w drodze rozporządzenia zasady i warunki odbywania przygotowania zawodowego oraz zasady wynagradzania młodocianych w tym okresie.
 
-§ 4. (uchylony) § 5. (uchylony)
+§ 4. (uchylony)
+
+§ 5. (uchylony)
 
 **Art. 191¹.** Osoba, która ukończyła 18 lat w trakcie nauki w ośmioletniej szkole podstawowej, może być zatrudniona na zasadach określonych dla młodocianych w roku kalendarzowym, w którym ukończyła tę szkołę.
 
@@ -2744,6 +2895,11 @@ source: "isap-pdf"
 § 2. Rada Ministrów może w drodze rozporządzenia określić przypadki, w których jest dopuszczalne zawieranie na czas określony umów o pracę w celu przygotowania zawodowego.
 
 **Art. 196.** Rozwiązanie za wypowiedzeniem umowy o pracę zawartej w celu przygotowania zawodowego dopuszczalne jest tylko w razie:
+
+- **1)** niewypełniania przez młodocianego obowiązków wynikających z umowy o pracę lub obowiązku dokształcania się, pomimo stosowania wobec niego środków wychowawczych;
+- **2)** ogłoszenia upadłości lub likwidacji pracodawcy;
+- **3)** reorganizacji zakładu pracy uniemożliwiającej kontynuowanie przygotowania zawodowego;
+- **4)** stwierdzenia nieprzydatności młodocianego do pracy, w zakresie której odbywa przygotowanie zawodowe.
 
 #### Rozdział III Dokształcanie
 
@@ -2822,7 +2978,9 @@ source: "isap-pdf"
 
 § 1. Nie wolno zatrudniać młodocianych przy pracach wzbronionych, których wykaz ustala w drodze rozporządzenia Rada Ministrów.
 
-§ 2. (uchylony) § 3. Rada Ministrów, w drodze rozporządzenia, może zezwolić na zatrudnianie młodocianych w wieku powyżej 16 lat przy niektórych rodzajach prac wzbronionych, jeżeli jest to potrzebne do odbycia przygotowania zawodowego, określając jednocześnie warunki zapewniające szczególną ochronę zdrowia młodocianych zatrudnionych przy tych pracach.
+§ 2. (uchylony)
+
+§ 3. Rada Ministrów, w drodze rozporządzenia, może zezwolić na zatrudnianie młodocianych w wieku powyżej 16 lat przy niektórych rodzajach prac wzbronionych, jeżeli jest to potrzebne do odbycia przygotowania zawodowego, określając jednocześnie warunki zapewniające szczególną ochronę zdrowia młodocianych zatrudnionych przy tych pracach.
 
 #### Rozdział V Urlopy wypoczynkowe
 
@@ -2950,7 +3108,22 @@ source: "isap-pdf"
 
 **Art. 211.** Przestrzeganie przepisów i zasad bezpieczeństwa i higieny pracy jest podstawowym obowiązkiem pracownika. W szczególności pracownik jest obowiązany:
 
+- **1)** znać przepisy i zasady bezpieczeństwa i higieny pracy, brać udział w szkoleniu i instruktażu z tego zakresu oraz poddawać się wymaganym egzaminom sprawdzającym;
+- **2)** wykonywać pracę w sposób zgodny z przepisami i zasadami bezpieczeństwa i higieny pracy oraz stosować się do wydawanych w tym zakresie poleceń i wskazówek przełożonych;
+- **3)** dbać o należyty stan maszyn, urządzeń, narzędzi i sprzętu oraz o porządek i ład w miejscu pracy;
+- **4)** stosować środki ochrony zbiorowej, a także używać przydzielonych środków ochrony indywidualnej oraz odzieży i obuwia roboczego, zgodnie z ich przeznaczeniem;
+- **5)** poddawać się wstępnym, okresowym i kontrolnym oraz innym zaleconym badaniom lekarskim i stosować się do wskazań lekarskich;
+- **6)** niezwłocznie zawiadomić przełożonego o zauważonym w zakładzie pracy wypadku albo zagrożeniu życia lub zdrowia ludzkiego oraz ostrzec współpracowników, a także inne osoby znajdujące się w rejonie zagrożenia, o grożącym im niebezpieczeństwie;
+- **7)** współdziałać z pracodawcą i przełożonymi w wypełnianiu obowiązków dotyczących bezpieczeństwa i higieny pracy.
+
 **Art. 212.** Osoba kierująca pracownikami jest obowiązana:
+
+- **1)** organizować stanowiska pracy zgodnie z przepisami i zasadami bezpieczeństwa i higieny pracy;
+- **2)** dbać o sprawność środków ochrony indywidualnej oraz ich stosowanie zgodnie z przeznaczeniem;
+- **3)** organizować, przygotowywać i prowadzić prace, uwzględniając zabezpieczenie pracowników przed wypadkami przy pracy, chorobami zawodowymi i innymi chorobami związanymi z warunkami środowiska pracy;
+- **4)** dbać o bezpieczny i higieniczny stan pomieszczeń pracy i wyposażenia technicznego, a także o sprawność środków ochrony zbiorowej i ich stosowanie zgodnie z przeznaczeniem;
+- **5)** egzekwować przestrzeganie przez pracowników przepisów i zasad bezpieczeństwa i higieny pracy;
+- **6)** zapewniać wykonanie zaleceń lekarza sprawującego opiekę zdrowotną nad pracownikami.
 
 #### Rozdział III Obiekty budowlane i pomieszczenia pracy
 
@@ -2974,6 +3147,9 @@ source: "isap-pdf"
 
 **Art. 215.** Pracodawca jest obowiązany zapewnić, aby stosowane maszyny i inne urządzenia techniczne:
 
+- **1)** zapewniały bezpieczne i higieniczne warunki pracy, w szczególności zabezpieczały pracownika przed urazami, działaniem niebezpiecznych substancji chemicznych, porażeniem prądem elektrycznym, nadmiernym hałasem, działaniem drgań mechanicznych i promieniowania oraz szkodliwym i niebezpiecznym działaniem innych czynników środowiska pracy;
+- **2)** uwzględniały zasady ergonomii.
+
 **Art. 216.**
 
 § 1. Pracodawca wyposaża w odpowiednie zabezpieczenia maszyny i inne urządzenia techniczne, które nie spełniają wymagań określonych w art. 215.
@@ -2985,6 +3161,12 @@ source: "isap-pdf"
 **Art. 218.** Przepisy art. 215 i 217 stosuje się odpowiednio do narzędzi pracy.
 
 **Art. 219.** Przepisy art. 215 i 217 nie naruszają wymagań określonych przepisami dotyczącymi maszyn i innych urządzeń technicznych:
+
+- **1)** będących środkami transportu kolejowego, samochodowego, morskiego, wodnego śródlądowego i lotniczego;
+- **2)** podlegających przepisom o dozorze technicznym;
+- **3)** podlegających przepisom Prawa geologicznego i górniczego;
+- **4)** podlegających przepisom obowiązującym w jednostkach podległych Ministrowi Obrony Narodowej oraz ministrowi właściwemu do spraw wewnętrznych;
+- **5)** podlegających przepisom Prawa atomowego.
 
 #### Rozdział V Czynniki oraz procesy pracy stwarzające szczególne zagrożenie dla zdrowia lub życia
 
@@ -3065,6 +3247,9 @@ source: "isap-pdf"
 #### Rozdział VI Profilaktyczna ochrona zdrowia
 
 **Art. 226.** Pracodawca:
+
+- **1)** ocenia i dokumentuje ryzyko zawodowe związane z wykonywaną pracą oraz stosuje niezbędne środki profilaktyczne zmniejszające ryzyko;
+- **2)** informuje pracowników o ryzyku zawodowym, które wiąże się z wykonywaną pracą, oraz o zasadach ochrony przed zagrożeniami.
 
 **Art. 227.**
 
@@ -3264,7 +3449,9 @@ source: "isap-pdf"
 
 § 1. Pracodawca jest obowiązany dostarczyć pracownikowi nieodpłatnie środki ochrony indywidualnej zabezpieczające przed działaniem niebezpiecznych i szkodliwych dla zdrowia czynników występujących w środowisku pracy oraz informować go o sposobach posługiwania się tymi środkami.
 
-§ 2. (uchylony) § 3. Pracodawca jest obowiązany dostarczać pracownikowi środki ochrony indywidualnej, które spełniają wymagania dotyczące oceny zgodności określone w odrębnych przepisach.
+§ 2. (uchylony)
+
+§ 3. Pracodawca jest obowiązany dostarczać pracownikowi środki ochrony indywidualnej, które spełniają wymagania dotyczące oceny zgodności określone w odrębnych przepisach.
 
 **Art. 237⁷.**
 
@@ -3361,6 +3548,10 @@ source: "isap-pdf"
 
 **Art. 237¹⁴.** Organy sprawujące nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi państwowymi albo samorządowymi są obowiązane podejmować działania na rzecz kształtowania bezpiecznych i higienicznych warunków pracy, w szczególności:
 
+- **1)** udzielać przedsiębiorstwom i jednostkom organizacyjnym pomocy przy wykonywaniu zadań z zakresu bezpieczeństwa i higieny pracy;
+- **2)** dokonywać, co najmniej raz w roku, oceny stanu bezpieczeństwa i higieny pracy w przedsiębiorstwach i jednostkach organizacyjnych oraz określać kierunki poprawy tego stanu;
+- **3)** w miarę potrzeb i możliwości – inicjować i prowadzić badania naukowe dotyczące bezpieczeństwa i higieny pracy.
+
 #### Rozdział XIII Przepisy bezpieczeństwa i higieny pracy dotyczące wykonywania prac w różnych gałęziach pracy
 
 **Art. 237¹⁵.**
@@ -3389,13 +3580,24 @@ source: "isap-pdf"
 
 § 1. W celu polubownego załatwiania sporów o roszczenia pracowników ze stosunku pracy mogą być powoływane komisje pojednawcze.
 
-§ 2. (uchylony) § 3. Komisję pojednawczą powołują wspólnie pracodawca i zakładowa organizacja związkowa, a jeżeli u danego pracodawcy nie działa zakładowa organizacja związkowa – pracodawca, po uzyskaniu pozytywnej opinii pracowników.
+§ 2. (uchylony)
+
+§ 3. Komisję pojednawczą powołują wspólnie pracodawca i zakładowa organizacja związkowa, a jeżeli u danego pracodawcy nie działa zakładowa organizacja związkowa – pracodawca, po uzyskaniu pozytywnej opinii pracowników.
 
 § 4. (uchylony)
 
 **Art. 245.** W trybie przewidzianym w art. 244 § 3 ustala się:
 
+- **1)** zasady i tryb powoływania komisji;
+- **2)** czas trwania kadencji;
+- **3)** liczbę członków komisji.
+
 **Art. 246.** Członkiem komisji pojednawczej nie może być:
+
+- **1)** osoba zarządzająca, w imieniu pracodawcy, zakładem pracy;
+- **2)** główny księgowy;
+- **3)** radca prawny;
+- **4)** osoba prowadząca sprawy osobowe, zatrudnienia i płac.
 
 **Art. 247.** Komisja pojednawcza wybiera ze swego grona przewodniczącego komisji oraz jego zastępców i ustala regulamin postępowania pojednawczego.
 
@@ -3455,7 +3657,9 @@ source: "isap-pdf"
 
 - **1)** ustanawiania nowych warunków pracy i płacy;
 - **2)** stosowania norm pracy.
-- **3)** (uchylony) § 3. Zasady tworzenia sądów pracy, organizację i tryb postępowania przed tymi sądami regulują odrębne przepisy.
+- **3)** (uchylony)
+
+§ 3. Zasady tworzenia sądów pracy, organizację i tryb postępowania przed tymi sądami regulują odrębne przepisy.
 
 **Art. 263.** (uchylony)
 
@@ -3521,7 +3725,7 @@ source: "isap-pdf"
 - **8)** utrudnia działalność organu Państwowej Inspekcji Pracy, w szczególności uniemożliwia prowadzenie wizytacji zakładu pracy lub nie udziela informacji niezbędnych do wykonywania jej zadań;
 - **9)** bez zezwolenia właściwego inspektora pracy dopuszcza do wykonywania pracy lub innych zajęć zarobkowych przez dziecko do ukończenia przez nie 16 roku życia.
 
-#### Rozdział II
+#### Rozdział II (zawierający art. 284–290 1 – uchylony)
 
 ### DZIAŁ CZTERNASTY Przedawnienie roszczeń
 
@@ -3564,9 +3768,19 @@ source: "isap-pdf"
 
 **Art. 297.** Minister Pracy i Polityki Socjalnej określi w drodze rozporządzenia:
 
+- **1)** sposób ustalania wynagrodzenia:
+    - **a)** przysługującego w okresie niewykonywania pracy,
+    - **b)** stanowiącego podstawę ustalania wysokości kar pieniężnych, potrąceń, odszkodowań, odpraw pośmiertnych lub innych należności przewidzianych w Kodeksie pracy;
+
+- **2)** sposób ustalania wysokości dodatków wyrównawczych do wynagrodzenia.
+
 **Art. 298.** (uchylony)
 
 **Art. 298¹.** Minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia:
+
+- **1)** zakres, sposób i warunki prowadzenia, przechowywania oraz zmiany postaci dokumentacji pracowniczej, z uwzględnieniem wymagań dotyczących dokumentacji w postaci elektronicznej w zakresie organizacji jej przetwarzania i przenoszenia pomiędzy systemami teleinformatycznymi,
+- **2)** sposób i tryb doręczania informacji lub zawiadomienia o możliwości odbioru dokumentacji pracowniczej w przypadku upływu okresu jej przechowywania oraz poprzedniej postaci tej dokumentacji w przypadku zmiany postaci jej prowadzenia i przechowywania, a także sposób odbioru dokumentacji pracowniczej,
+- **3)** sposób wydawania kopii całości lub części dokumentacji pracowniczej pracownikowi, byłemu pracownikowi lub osobom, o których mowa w art. 94 § 3 – uwzględniając konieczność rzetelnego prowadzenia dokumentacji pracowniczej, zapewnienia realizacji prawa dostępu do tej dokumentacji, potrzebę przechowywania dokumentacji pracowniczej w sposób gwarantujący zachowanie jej poufności, integralności, kompletności oraz dostępności, w warunkach niegrożących jej uszkodzeniem lub zniszczeniem.
 
 **Art. 298².** Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, sposób usprawiedliwiania nieobecności w pracy oraz zakres przysługujących pracownikom zwolnień od pracy, a także przypadki, w których za czas nieobecności lub zwolnienia pracownik zachowuje prawo do wynagrodzenia.
 

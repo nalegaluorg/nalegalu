@@ -9,7 +9,7 @@ pos: 625
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wymaganiach weterynaryjnych przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym i zwierząt cyrkowych oraz o stosowaniu substancji o działaniu hormonalnym, tyreostatycznym i beta-agonistycznym
@@ -32,7 +32,65 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** (uchylony)
+- **2)** (uchylony) 2a) wymagania weterynaryjne przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym oraz zasady identyfikacji tych zwierząt;
+- **2b)** wymagania weterynaryjne przy przemieszczaniu w celach niehandlowych zwierząt cyrkowych;
+- **3)** zasady:
+    - **a)** (uchylona)
+    - **b)** stosowania substancji o działaniu hormonalnym, tyreostatycznym i beta-agonistycznym,
+    - **c)** (uchylona)
+    - **d)** (uchylona)
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** (uchylony) 1a) (uchylony)
+- **2)** (uchylony)
+- **3)** (uchylony) 3a) (uchylony) 3b) (uchylony) 3c) (uchylony)
+- **4)** (uchylony)
+- **5)** (uchylony)
+- **6)** zwierzęta gospodarskie – zwierzęta gospodarskie w rozumieniu przepisów o organizacji hodowli i rozrodzie zwierząt gospodarskich;
+- **6a)** (uchylony) 6b) (uchylony)
+- **7)** (uchylony)
+- **8)** (uchylony) 8a) (uchylony) 8b) (uchylony)
+- **9)** (uchylony)
+- **10)** (uchylony) 10a) (uchylony)
+- **11)** (uchylony) 11a) (uchylony)
+- **12)** (uchylony) 12a) (uchylony)
+- **13)** umieszczanie na rynku – przetrzymywanie lub prezentację w celu sprzedaży, oferowanie do sprzedaży, sprzedaż, dostarczanie lub każdy inny sposób wprowadzania na rynek
+- **14)** (uchylony)
+- **15)** (uchylony)
+- **16)** (uchylony)
+- **17)** (uchylony)
+- **18)** (uchylony)
+- **19)** (uchylony)
+- **20)** (uchylony) 20a) (uchylony) 20b) (uchylony)
+- **21)** (uchylony) 21a) (uchylony) 21b) (uchylony) 21c) (uchylony) 21d) (uchylony)
+- **22)** (uchylony)
+- **23)** (uchylony)
+- **24)** (uchylony)
+- **25)** (uchylony)
+- **26)** (uchylony)
+- **27)** (uchylony)
+- **28)** (uchylony)
+- **29)** (uchylony)
+- **30)** (uchylony)
+- **31)** (uchylony)
+- **32)** (uchylony)
+- **33)** (uchylony)
+- **34)** (uchylony)
+- **35)** (uchylony)
+- **36)** (uchylony) 36a) (uchylony) 36b) (uchylony)
+- **37)** (uchylony)
+- **38)** czynności lecznicze – podawanie zwierzęciu, po uprzednim zbadaniu przez lekarza weterynarii, substancji o działaniu hormonalnym, tyreostatycznym lub beta-agonistycznym w celu leczenia problemu płodności – włącznie z przerwaniem ciąży, a substancji o działaniu beta-agonistycznym także w celu leczenia trudności z oddychaniem, choroby kości łódkowatej, ochwatu kopyta u koniowatych oraz wywoływania tokolizy u krów lub koniowatych;
+- **39)** czynności zootechniczne – podawanie:
+    - **a)** zwierzęciu gospodarskiemu lub zwierzęciu dzikiemu utrzymywanemu przez człowieka jak zwierzę gospodarskie – każdej substancji dozwolonej w celu synchronizowania rui oraz przygotowywania dawców i biorców zarodków do implantacji, po zbadaniu zwierzęcia przez lekarza weterynarii i na jego odpowiedzialność,
+    - **b)** zwierzętom akwakultury – każdej substancji dozwolonej w celu zmiany płci, na podstawie recepty lekarza weterynarii i na jego odpowiedzialność;
+
+- **40)** (uchylony)
+- **41)** (uchylony)
+- **42)** (uchylony)
+- **43)** (uchylony)
+- **44)** (uchylony)
 
 **Art. 3.**
 
@@ -431,6 +489,9 @@ source: "isap-pdf"
 
 **Art. 66.** Zabrania się posiadaczom zwierząt posiadania i przechowywania w gospodarstwie produktów leczniczych weterynaryjnych zawierających:
 
+- **1)** substancje o działaniu beta-agonistycznym, które mogą być stosowane w celu przyspieszenia porodu;
+- **2)** oestradiol 17 lub jego pochodne estropodobne.
+
 **Art. 67.** Zabrania się podawania w postaci zastrzyków substancji, o których mowa w art. 65 ust. 1 pkt 2 lit. b, zwierzętom hodowlanym, włącznie ze zwierzętami reprodukcyjnymi, które nie będą dalej wykorzystywane do celów rozpłodowych.
 
 **Art. 68.**
@@ -444,6 +505,13 @@ source: "isap-pdf"
 **Art. 69.** (uchylony)
 
 **Art. 70.** Zabrania się podawania zwierzętom gospodarskim lub zwierzętom dzikim utrzymywanym przez człowieka jak zwierzęta gospodarskie:
+
+- **1)** substancji o działaniu hormonalnym:
+    - **a)** działających jako osad,
+    - **b)** o okresie karencji dłuższym niż 15 dni,
+    - **c)** dla których nie istnieją odczynniki lub urządzenia, stosowane w technikach analitycznych, umożliwiające wykrycie obecności pozostałości przekraczających dopuszczalne poziomy;
+
+- **2)** produktów leczniczych weterynaryjnych zawierających substancje o działaniu beta-agonistycznym o okresie karencji dłuższym niż 28 dni.
 
 **Art. 71.**
 
@@ -630,4 +698,7 @@ source: "isap-pdf"
 **Art. 94.** Traci moc ustawa z dnia 24 kwietnia 1997 r. o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej (Dz. U. z 1999 r. poz. 752, z późn. zm. ).
 
 **Art. 95.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , z wyjątkiem art. 92, który wchodzi w życie z dniem ogłoszenia . Załączniki do ustawy z dnia 11 marca 2004 r. (Dz. U. z 2023 r. poz.
+
+- **1035)** Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony) Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony) Załącznik nr 5 (uchylony)
+
 

@@ -119,7 +119,8 @@ b) pozostałe koszty bezpośrednie, przypisane do OPK według przyjętych rozdzi
 5) usług dozoru;
 6) wywozu odpadów;
 7) działu informatyki.
-4. Koszty, o których mowa w ust. 3, są alokowane na OPK rozdzielnikiem kosztów, zgodnie z warunkami określonymi w § 5.
+4. Koszty, o których mowa w ust. 3, są alokowane na OPK rozdzielnikiem kosztów, zgodnie z warunkami określonymi
+§ 5.
 § 9. Koszt własny sprzedaży OPK stanowi suma kosztu wytworzenia OPK działalności podstawowej ustalonego zgodnie z § 4 rozporządzenia oraz alokowanych kosztów zarządu.
 § 10. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
 Minister Zdrowia: A. Niedzielski Załączniki do rozporządzenia Ministra Zdrowia z dnia 26 października 2020 r. (poz. …) Załącznik nr 1 KODY FUNKCJI KODY FUNKCJI OŚRODKÓW OŚRODKÓW POWSTAWANIA POWSTAWANIA KOSZTÓW KOSZTÓW Lp. Kod funkcji/ Rodzaj działalności Konto syntetyczne 1 500 Podstawowa opieka zdrowotna 2 501 Poradnie specjalistyczne 3 502 Opieka pozaszpitalna 4 503 Pomoc doraźna i ratownictwo medyczne 5 504 Oddziały szpitalne 6 505 Oddziały opiekuńczo-lecznicze i pielęgnacyjno-opiekuńcze 7 506 Oddziały uzdrowiskowe 8 507 Pracownie lub zakłady diagnostyczne i zabiegowe oraz sale operacyjne i inne OPK proceduralne nieujęte w grupie 501, 504 Usługi bezpośrednio finansowane przez Narodowy Fundusz Zdrowia (tzw.

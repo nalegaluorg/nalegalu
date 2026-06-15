@@ -8,7 +8,7 @@ pos: 1445
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw
@@ -29,6 +29,153 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 1:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) zasady wykonywania i kontroli działalności polegającej na świadczeniu usług telekomunikacyjnych, dostarczaniu sieci telekomunikacyjnych lub świadczeniu usług towarzyszących, zwanej dalej „działalnością telekomunikacyjną”;”, – pkt 7 otrzymuje brzmienie: „7) warunki ochrony użytkowników usług, w szczególności w zakresie prawa do prywatności i poufności;”, – w pkt 12 kropkę zastępuje się średnikiem i dodaje pkt 13 w brzmieniu: „13) wymagania dotyczące udogodnień dla osób niepełnosprawnych w zakresie dostępu do usług telekomunikacyjnych.”,
+    - **b)** w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje pkt 6 w brzmieniu: „6) zapewnienia użytkownikom końcowym będącym osobami niepełnosprawnymi dostępu do usług telekomunikacyjnych równoważnego poziomowi dostępu, z jakiego korzystają inni użytkownicy końcowi.”;
+
+- **2)** w art. 2:
+    - **a)** pkt 5 i 6 otrzymują brzmienie: „5) dostęp do lokalnej pętli abonenckiej – korzystanie z lokalnej pętli abonenckiej lub lokalnej podpętli abonenckiej pozwalające na pełne wykorzystanie możliwości lokalnej pętli abonenckiej (pełny dostęp do lokalnej pętli abonenckiej) lub wykorzystanie części możliwości lokalnej pętli abonenckiej przy zachowaniu możliwości korzystania z lokalnej pętli abonenckiej przez innego przedsiębiorcę telekomunikacyjnego (współdzielony dostęp do lokalnej pętli abonenckiej);
+
+- **6)** dostęp telekomunikacyjny – korzystanie z urządzeń telekomunikacyjnych, udogodnień towarzyszących lub usług świadczonych przez innego przedsiębiorcę telekomunikacyjnego, na określonych warunkach, w celu świadczenia usług telekomunikacyjnych, w tym świadczenia za ich pomocą usług świadczonych drogą elektroniczną lub usług dostarczania nadawanych treści, polegające w szczególności na:
+    - **a)** dostępie do elementów sieci i udogodnień towarzyszących, także poprzez podłączenie urządzeń za pomocą środków stacjonarnych lub niestacjonarnych, w tym na dostępie do lokalnej pętli abonenckiej oraz urządzeń i usług niezbędnych do świadczenia usług w lokalnej pętli abonenckiej,
+    - **b)** dostępie do budynków i infrastruktury telekomunikacyjnej,
+    - **c)** dostępie do odpowiednich systemów oprogramowania, w tym do systemów wsparcia operacyjnego,
+    - **d)** dostępie do translacji numerów lub systemów zapewniających analogiczne funkcje,
+    - **e)** dostępie do sieci telekomunikacyjnych, w tym na potrzeby roamingu,
+    - **f)** dostępie do systemów dostępu warunkowego,
+    - **g)** dostępie do usług sieci wirtualnych,
+    - **h)** dostępie do systemów informacyjnych lub baz danych na potrzeby przygotowywania i składania zamówień, świadczenia usług, konserwacji, usuwania awarii, reklamacji oraz fakturowania;”,
+    - **b)** pkt 19 i 20 otrzymują brzmienie: „19) lokalna pętla abonencka – fizyczny obwód łączący zakończenie sieci z punktem dostępu do stacjonarnej publicznej sieci telekomunikacyjnej, w szczególności z przełącznicą główną lub równoważnym urządzeniem;
+
+- **20)** lokalna podpętla abonencka – częściowa lokalna pętla abonencka łącząca zakończenie sieci z pośrednim punktem dostępu do stacjonarnej publicznej sieci telekomunikacyjnej, w szczególności z koncentratorem lub innym urządzeniem dostępu pośredniego do stacjonarnej publicznej sieci telekomunikacyjnej;”,
+    - **c)** pkt 21 otrzymuje brzmienie: „21) numer alarmowy – numer ustalony w ustawie lub w planie numeracji krajowej dla publicznych sieci telekomunikacyjnych udostępniany służbom ustawowo powołanym do niesienia pomocy;”,
+    - **d)** pkt 23 otrzymuje brzmienie: „23) numer niegeograficzny – numer ustalony w planie numeracji krajowej, który nie zawiera ciągu cyfr określającego wskaźnik obszaru geograficznego, w szczególności numer zakończenia ruchomej publicznej sieci telekomunikacyjnej, numer, do którego połączenia są bezpłatne albo o podwyższonej opłacie;”,
+    - **e)** pkt 26 otrzymuje brzmienie: „26) połączenie telefoniczne – połączenie ustanowione za pomocą publicznie dostępnej usługi telekomunikacyjnej, pozwalające na dwukierunkową łączność głosową;”,
+    - **f)** pkt 27 otrzymuje brzmienie: „27) przedsiębiorca telekomunikacyjny – przedsiębiorcę lub inny podmiot uprawniony do wykonywania działalności gospodarczej na podstawie odrębnych przepisów, który wykonuje działalność gospodarczą polegającą na dostarczaniu sieci telekomunikacyjnych, świadczeniu usług towarzyszących lub świadczeniu usług telekomunikacyjnych, przy czym przedsiębiorca telekomunikacyjny, uprawniony do:
+    - **a)** świadczenia usług telekomunikacyjnych, zwany jest „dostawcą usług”,
+    - **b)** dostarczania publicznych sieci telekomunikacyjnych lub świadczenia usług towarzyszących, zwany jest „operatorem”;”,
+    - **g)** uchyla się pkt 28,
+    - **h)** pkt 30 otrzymuje brzmienie: „30) publicznie dostępna usługa telefoniczna – usługę telekomunikacyjną dostępną dla ogółu użytkowników, dla inicjowania i odbierania, bezpośrednio lub pośrednio, połączeń telefonicznych krajowych lub krajowych i międzynarodowych, za pomocą numeru lub numerów ustalonych w krajowym lub międzynarodowym planie numeracji telefonicznej;”,
+    - **i)** pkt 33 otrzymuje brzmienie: „33) ruchoma publiczna sieć telekomunikacyjna – publiczną sieć telekomunikacyjną, w której zakończenia sieci nie mają stałej lokalizacji;”,
+    - **j)** po pkt 34 dodaje się pkt 34a w brzmieniu: „34a) sieć dostępu – część sieci telekomunikacyjnej pomiędzy zakończeniem sieci a punktem, w którym możliwe jest uzyskanie dostępu telekomunikacyjnego, obejmująca w szczególności łącza abonenckie, urządzenia do koncentracji łączy abonenckich lub urządzenia do zarządzania siecią dostępu;”,
+    - **k)** pkt 35 otrzymuje brzmienie: „35) sieć telekomunikacyjna – systemy transmisyjne oraz urządzenia komutacyjne lub przekierowujące, a także inne zasoby, w tym nieaktywne elementy sieci, które umożliwiają nadawanie, odbiór lub transmisję sygnałów za pomocą przewodów, fal radiowych, optycznych lub innych środków wykorzystujących energię elektromagnetyczną, niezależnie od ich rodzaju;”,
+    - **l)** pkt 38 otrzymuje brzmienie: „38) stacjonarna publiczna sieć telekomunikacyjna – publiczną sieć telekomunikacyjną, w której zakończenia sieci mają stałą lokalizację;”,
+    - **m)** pkt 40 otrzymuje brzmienie: „40) szkodliwe zaburzenie elektromagnetyczne – zaburzenie elektromagnetyczne w rozumieniu przepisów ustawy z dnia 13 kwietnia 2007 r. o kompatybilności elektromagnetycznej, które przekracza dopuszczalne poziomy zaburzeń;”,
+    - **n)** po pkt 40 dodaje się pkt 40a w brzmieniu: „40a) szkodliwe zakłócenia – zakłócenia, które:
+    - **a)** zagrażają funkcjonowaniu służby radionawigacyjnej lub innej służby radiokomunikacyjnej związanej z bezpieczeństwem lub
+    - **b)** w sposób poważny pogarszają, utrudniają lub wielokrotnie przerywają wykonywanie służby radiokomunikacyjnej działającej zgodnie z przepisami prawa;”,
+    - **o)** pkt 44 otrzymuje brzmienie: „44) udogodnienia towarzyszące – usługi towarzyszące, infrastrukturę fizyczną oraz inne urządzenia lub elementy związane z siecią telekomunikacyjną lub usługami telekomunikacyjnymi, które umożliwiają lub wspierają dostarczanie usług za pośrednictwem tych sieci lub usług lub które mogą służyć do tego celu, i obejmują między innymi budynki lub wejścia do budynków, okablowanie budynków, anteny, wieże i inne konstrukcje nośne, kanały, przewody, maszty, studzienki i szafki;”,
+    - **p)** po pkt 44 dodaje się pkt 44a w brzmieniu: „44a) usługi towarzyszące – usługi związane z siecią lub usługami telekomunikacyjnymi, które umożliwiają lub wspierają dostarczanie usług za pośrednictwem tych sieci lub usług, lub które mogą służyć do tego celu, i obejmują między innymi systemy translacji numerów lub systemy o równoważnych funkcjach, systemy dostępu warunkowego i elektroniczne przewodniki po programach, jak również inne usługi, takie jak usługi identyfikacji, lokalizacji oraz sygnalizowania obecności;”;
+
+- **3)** w art. 4:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) organy i jednostki organizacyjne podległe ministrowi właściwemu do spraw wewnętrznych oraz jednostki organizacyjne Agencji Bezpieczeństwa Wewnętrznego w odniesieniu do sieci telekomunikacyjnej eksploatowanej przez te organy i jednostki na potrzeby Kancelarii Prezydenta, Kancelarii Sejmu, Kancelarii Senatu i administracji rządowej;”,
+    - **b)** pkt 6 otrzymuje brzmienie: „6) misje dyplomatyczne, urzędy konsularne, zagraniczne misje specjalne oraz przedstawicielstwa organizacji międzynarodowych, korzystające z przywilejów i immunitetów na podstawie ustaw, umów i zwyczajów międzynarodowych, mające swe siedziby na terytorium Rzeczypospolitej Polskiej – wyłącznie w zakresie związanym z działalnością dyplomatyczną tych podmiotów oraz pod warunkiem uzyskania zgody, o której mowa w art. 148b;”;
+
+- **4)** w art. 5 ust. 4 otrzymuje brzmienie: „4. Prezes Rady Ministrów może określić, w drodze rozporządzenia, szczegółowe warunki wykonywania działalności telekomunikacyjnej przez organy i jednostki organizacyjne podległe ministrowi właściwemu do spraw wewnętrznych oraz jednostki organizacyjne Agencji Bezpieczeństwa Wewnętrznego – w odniesieniu do sieci telekomunikacyjnej eksploatowanej przez te organy i jednostki na potrzeby Kancelarii Prezydenta, Kancelarii Sejmu, Kancelarii Senatu i administracji rządowej, uwzględniając zakres zadań wykonywanych przez te organy i jednostki.”;
+- **5)** w art. 6b dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2–4 w brzmieniu: „2. Operator publicznej sieci telekomunikacyjnej jest obowiązany do przekazywania na żądanie Prezesa UKE informacji o planowanym rozwoju sieci i usług, który mógłby wywrzeć wpływ na usługi hurtowe świadczone przez tego operatora.
+
+3. Przedsiębiorca o znaczącej pozycji rynkowej na rynku hurtowym jest obowiązany do przekazywania na żądanie Prezesa UKE danych księgowych dotyczących rynków detalicznych związanych z tym rynkiem hurtowym.
+
+4. Do przekazywania danych i informacji, o których mowa w ust. 1–3 oraz art. 6a, stosuje się odpowiednio art. 6 ust. 2 i 3.”;
+
+- **6)** w art. 8 ust. 1 otrzymuje brzmienie: „1. Prezes UKE zapewnia dostęp do informacji otrzymanych od przedsiębiorców telekomunikacyjnych organom regulacyjnym innych państw członkowskich Unii Europejskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, zwanych dalej „państwami członkowskimi”, i Komisji Europejskiej, z wyjątkiem przypadków określonych w ustawie.”;
+- **7)** w art. 10 w ust. 4 pkt 7 otrzymuje brzmienie: „7) ogólny opis sieci telekomunikacyjnej, usługi telekomunikacyjnej lub usług towarzyszących, których dotyczy wniosek;”;
+- **8)** art. 13 otrzymuje brzmienie: „Art. 13. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, wzór wniosku o wpis lub zmianę wpisu:
+- **1)** do rejestru przedsiębiorców telekomunikacyjnych;
+- **2)** do rejestru jednostek samorządu terytorialnego wykonujących działalność w zakresie telekomunikacji – kierując się dążeniem do uproszczenia i ułatwienia podejmowania działalności w zakresie telekomunikacji, a także koniecznością zapewnienia Prezesowi UKE informacji niezbędnych do właściwego realizowania jego obowiązków.”;
+- **9)** w art. 13a zdanie pierwsze otrzymuje brzmienie: „Przepisy art. 10 ust. 4–6, 8–10 i 12–14 oraz art. 11 i art. 12 stosuje się odpowiednio do wpisów dotyczących działalności, o której mowa w art. 3 ust. 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, do rejestru jednostek samorządu terytorialnego wykonujących działalność w zakresie telekomunikacji.”;
+- **10)** w art. 15:
+    - **a)** uchyla się pkt 3,
+    - **b)** po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) decyzji dotyczących dostępu, o którym mowa w art. 139,”,
+    - **c)** pkt 4 otrzymuje brzmienie: „4) innych wskazanych w ustawie oraz w ustawie z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych”;
+
+- **11)** w art. 16 w ust. 2 zdanie drugie otrzymuje brzmienie: „Wyniki tego postępowania ogłaszane są w siedzibie oraz na stronie podmiotowej Biuletynu Informacji Publicznej Urzędu Komunikacji Elektronicznej, zwanej dalej „stroną podmiotową BIP UKE”, poprzez ogłoszenie niezastrzeżonych stanowisk uczestników tego postępowania.”;
+- **12)** art. 17 otrzymuje brzmienie: „Art. 17. 1. W wyjątkowych przypadkach, wymagających pilnego działania ze względu na bezpośrednie i poważne zagrożenie konkurencyjności lub interesów użytkowników, Prezes UKE może bez przeprowadzenia postępowania konsultacyjnego wydać decyzję w sprawach, o których mowa w art. 15, na okres nieprzekraczający 6 miesięcy.
+
+2. Wydanie kolejnej decyzji w sprawach, o których mowa w ust. 1, w tym również decyzji w treści odpowiadającej – z wyjątkiem okresu obowiązywania – decyzji wydanej uprzednio, poprzedza się postępowaniem konsultacyjnym. Decyzja ta wyłącza stosowanie decyzji, o której mowa w ust. 1, przed upływem okresu jej obowiązywania.”;
+
+- **13)** w dziale I w rozdziale 3 po art. 17 dodaje się art. 17a w brzmieniu: „Art. 17a. Prezes UKE publikuje na stronie podmiotowej BIP UKE informacje o toczących się postępowaniach konsultacyjnych wraz z dodatkowymi dokumentami i stanowiskami uczestników, które nie stanowią tajemnicy przedsiębiorstwa (niezastrzeżone stanowiska uczestników postępowania konsultacyjnego).”;
+- **14)** art. 18 otrzymuje brzmienie: „Art. 18. 1. Jeżeli rozstrzygnięcia, o których mowa w art. 15, mogą mieć wpływ na stosunki handlowe między państwami członkowskimi, Prezes UKE, niezwłocznie po zakończeniu postępowania konsultacyjnego i rozpatrzeniu stanowisk uczestników tego postępowania, rozpoczyna postępowanie konsolidacyjne, przesyłając Komisji Europejskiej, Organowi Europejskich Regulatorów Łączności Elektronicznej, zwanemu dalej „BEREC”, i organom regulacyjnym innych państw członkowskich projekty rozstrzygnięć wraz z ich uzasadnieniem.
+
+2. Jednocześnie z czynnościami, o których mowa w ust. 1, Prezes UKE publikuje na stronie podmiotowej BIP UKE dokumenty przekazane Komisji Europejskiej oraz zamieszcza otrzymane w tej sprawie opinie i decyzje.”;
+
+- **15)** w art. 19:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Prezes UKE przyjmuje rozstrzygnięcie uwzględniając w możliwie najszerszym zakresie przedstawione, w terminie jednego miesiąca od dnia otrzymania projektu rozstrzygnięcia, opinie Komisji Europejskiej, BEREC lub organu regulacyjnego innego państwa. O przyjęciu rozstrzygnięcia Prezes UKE zawiadamia Komisję Europejską.
+
+2. Jeżeli w zakresie ustalenia znaczącej pozycji rynkowej oraz w zakresie zamiaru zdefiniowania rynku właściwego różnego od tych, które zdefiniowano w zaleceniu Komisji Europejskiej w sprawie właściwych rynków produktów i usług w sektorze łączności elektronicznej podlegających regulacji ex ante, zwanym dalej „zaleceniem Komisji”, Komisja Europejska poinformuje Prezesa UKE o swojej opinii, w której stwierdzi, że proponowane rozstrzygnięcie stanowi przeszkodę w funkcjonowaniu jednolitego rynku lub o swoich poważnych wątpliwościach co do zgodności tego środka z przepisami prawa Unii Europejskiej, Prezes UKE zawiesza postępowanie na okres 2 miesięcy. W przypadku gdy w tym okresie Komisja Europejska wyda decyzję, w której wezwie do wycofania w całości lub w części projektu rozstrzygnięcia, Prezes UKE uwzględnia stanowisko Komisji Europejskiej i dokonuje zmiany projektu rozstrzygnięcia lub umarza postępowanie w terminie 6 miesięcy od dnia wydania decyzji przez Komisję Europejską.”,
+
+- **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. W przypadku dokonania przez Prezesa UKE zmiany projektu rozstrzygnięcia na podstawie ust. 2 stosuje się przepisy art. 15–20. Nie stanowi zmiany projektu rozstrzygnięcia zmiana uzasadnienia tego projektu.
+
+2b. Prezes UKE przekazuje Komisji Europejskiej i BEREC informacje o wszystkich przyjętych ostatecznie rozstrzygnięciach, o których mowa w art. 18.”;
+
+- **16)** po art. 19 dodaje się art. 19a w brzmieniu: „Art. 19a. 1. Jeżeli w odniesieniu do rozstrzygnięcia, o którym mowa w art. 18, w zakresie nałożenia, zmiany lub uchylenia obowiązku nałożonego na operatora na podstawie art. 34, art. 36–40, art. 42, art. 45 lub art. 46, Komisja Europejska w terminie, o którym mowa w art. 19 ust. 1, zawiadomi Prezesa UKE oraz BEREC o powodach uznania, że projekt rozstrzygnięcia stanowiłby przeszkodę do tworzenia jednolitego rynku lub że istnieją poważne wątpliwości co do zgodności tego rozstrzygnięcia z prawem Unii Europejskiej – rozstrzygnięcie to nie może zostać przyjęte przez kolejne trzy miesiące od dnia otrzymania zawiadomienia przez Prezesa UKE.
+
+2. W trzymiesięcznym terminie, o którym mowa w ust. 1, Prezes UKE ściśle współpracuje z Komisją Europejską oraz z BEREC w celu określenia najwłaściwszego i najskuteczniejszego rozstrzygnięcia spełniającego cele, o których mowa w art. 189 ust. 2, biorąc jednocześnie pod uwagę opinie uczestników rynku i konieczność zapewnienia rozwoju spójnej praktyki regulacyjnej.
+
+3. Jeżeli BEREC podziela stanowisko Komisji Europejskiej wyrażone w zawiadomieniu, o którym mowa w ust. 1, Prezes UKE współpracuje z BEREC w celu określenia najwłaściwszego i najskuteczniejszego rozstrzygnięcia.
+
+4. Przed upływem trzymiesięcznego terminu, o którym mowa w ust. 1, Prezes UKE może:
+
+- **1)** zmienić lub wycofać projektowane rozstrzygnięcie, uwzględniając w jak największym stopniu zawiadomienie Komisji Europejskiej, o którym mowa w ust. 1, oraz opinię BEREC albo
+- **2)** podtrzymać swoje projektowane rozstrzygnięcie.
+
+5. W terminie jednego miesiąca od wydania przez Komisję Europejską zalecenia zawierającego zobowiązanie do zmiany lub wycofania projektowanego rozstrzygnięcia lub wycofania przez Komisję Europejską zastrzeżeń odnośnie do projektowanego rozstrzygnięcia, w przypadku gdy BEREC nie podziela stanowiska Komisji Europejskiej, nie wydał opinii lub jeżeli Prezes UKE zmienił lub utrzymał projektowane rozstrzygnięcie zgodnie z ust. 4, Prezes UKE powiadamia Komisję Europejską i BEREC o przyjęciu ostatecznego rozstrzygnięcia. Termin, o którym mowa w zdaniu poprzednim, może być wydłużony przez Prezesa UKE w przypadku potrzeby przeprowadzenia postępowania konsultacyjnego, o którym mowa w art. 15.
+
+6. Jeżeli Prezes UKE postanowi nie zmieniać lub nie wycofywać projektowanego rozstrzygnięcia pomimo negatywnego stanowiska wyrażonego przez Komisję Europejską w zaleceniu, o którym mowa w ust. 5, przedstawia uzasadnienie.
+
+7. Prezes UKE może wycofać projektowane rozstrzygnięcie na każdym etapie postępowania.”;
+
+- **17)** w art. 20 ust. 2 otrzymuje brzmienie: „2. Prezes UKE powiadamia niezwłocznie Komisję Europejską, BEREC i organy regulacyjne innych państw członkowskich o wydaniu decyzji, o której mowa w art. 17 ust. 1, przedstawiając uzasadnienie.”;
+- **18)** w art. 21 dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2–4 w brzmieniu: „2. Prezes UKE, nie później niż w terminie 3 lat od podjęcia poprzedniego rozstrzygnięcia, o którym mowa w art. 22 ust. 1 pkt 3 lub 4 dotyczącego danego rynku właściwego, notyfikuje Komisji Europejskiej projekt rozstrzygnięcia kończącego postępowanie, o którym mowa w art. 22 ust. 1.
+
+3. Prezes UKE w przypadku rynków niezgłoszonych wcześniej Komisji Europejskiej, nie później niż w terminie 2 lat od przyjęcia zmienionego zalecenia Komisji, notyfikuje Komisji Europejskiej projekt rozstrzygnięcia kończącego postępowanie, o którym mowa w art. 22 ust. 1.
+
+4. Prezes UKE w uzasadnionych przypadkach może zwrócić się do Komisji Europejskiej z wnioskiem o przedłużenie terminu, o którym mowa w ust. 2, o maksymalnie 3 lata. W przypadku niezgłoszenia przez Komisję Europejską sprzeciwu w ciągu jednego miesiąca od wystąpienia z wnioskiem przez Prezesa UKE, termin ulega przedłużeniu zgodnie z wnioskiem.”;
+
+- **19)** w art. 22:
+    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Po przeprowadzeniu analizy, o której mowa w art. 21 ust. 1, Prezes UKE przeprowadza postępowanie w celu:”, – pkt 1 otrzymuje brzmienie: „1) określenia rynku właściwego, zgodnie z prawem konkurencji, uwzględniając uwarunkowania krajowe oraz w największym możliwie stopniu zalecenie Komisji i wytyczne, o których mowa w art. 19 ust. 3, w zakresie wyrobów i usług telekomunikacyjnych, zwanego dalej „rynkiem właściwym”,”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Przez obowiązek regulacyjny rozumie się obowiązek, o którym mowa w art. 34, art. 36–40, art. 42, art. 44, art. 44b, art. 45, art. 46 lub art. 72 ust. 3.”;
+
+- **20)** art. 23 otrzymuje brzmienie: „Art. 23. 1. Po przeprowadzeniu postępowania, o którym mowa w art. 22 ust. 1, Prezes UKE, w przypadku ustalenia, że na rynku właściwym nie występuje przedsiębiorca telekomunikacyjny o znaczącej pozycji rynkowej lub przedsiębiorcy telekomunikacyjni zajmujący kolektywną pozycję znaczącą:
+- **1)** wydaje postanowienie, w którym:
+    - **a)** określa rynek właściwy w sposób określony w art. 22 ust. 1 pkt 1,
+    - **b)** stwierdza, że na tym rynku właściwym występuje skuteczna konkurencja – jeżeli na tym samym rynku właściwym nie występował przedsiębiorca telekomunikacyjny o znaczącej pozycji rynkowej lub przedsiębiorcy telekomunikacyjni zajmujący kolektywną pozycję znaczącą albo
+
+- **2)** wydaje decyzję, w której:
+    - **a)** określa rynek właściwy w sposób określony w art. 22 ust. 1 pkt 1,
+    - **b)** stwierdza, że na tym rynku właściwym występuje skuteczna konkurencja,
+    - **c)** uchyla nałożone obowiązki regulacyjne – jeżeli na tym samym rynku właściwym występował przedsiębiorca telekomunikacyjny o znaczącej pozycji rynkowej lub przedsiębiorcy telekomunikacyjni zajmujący kolektywną pozycję znaczącą, którzy utracili tę pozycję.
+
+2. Prezes UKE w decyzji, o której mowa w ust. 1 pkt 2, określa termin uchylenia obowiązków regulacyjnych, uwzględniając sytuację działających na rynku przedsiębiorców telekomunikacyjnych objętych tą decyzją.
+
+3. Do projektu rozstrzygnięcia, o którym mowa w ust. 1, stosuje się przepisy o postępowaniu konsultacyjnym.
+
+4. Decyzję, o której mowa w ust. 1 pkt 2, ogłasza się na stronie podmiotowej BIP UKE.”;
+
+- **21)** w art. 24:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) określa rynek właściwy w sposób określony w art. 22 ust. 1 pkt 1;”,
+    - **b)** w pkt 2 lit. c otrzymuje brzmienie: „c) zmienia lub uchyla nałożone obowiązki regulacyjne, jeżeli przedsiębiorca telekomunikacyjny lub przedsiębiorcy telekomunikacyjni nie utracili tej pozycji, ale warunki na rynku właściwym uzasadniają zmianę lub uchylenie tych obowiązków.”;
+
+- **22)** w art. 25 ust. 1 otrzymuje brzmienie: „1. Jeżeli przed wydaniem decyzji, o której mowa w art. 24, na tym samym rynku właściwym występował przedsiębiorca telekomunikacyjny o znaczącej pozycji rynkowej lub przedsiębiorcy telekomunikacyjni zajmujący kolektywną pozycję znaczącą, którzy utracili tę pozycję, Prezes UKE, w drodze decyzji, określa termin uchylenia obowiązków regulacyjnych, uwzględniając sytuację działających na rynku przedsiębiorców telekomunikacyjnych objętych tą decyzją.”;
+- **23)** w art. 25a:
+    - **a)** ust. 4 otrzymuje brzmienie: „4. Prezes UKE przy ustalaniu, czy dwóch lub więcej przedsiębiorców telekomunikacyjnych zajmuje kolektywną znaczącą pozycję na rynku właściwym ocenia cechy rynku właściwego, w szczególności udział przedsiębiorców w tym rynku oraz jego przejrzystość.”,
+    - **b)** dodaje się ust. 5 w brzmieniu: „5. Jeżeli ocena nie wskazuje na brak kolektywnej pozycji znaczącej dwóch lub więcej przedsiębiorców telekomunikacyjnych, dodatkowo stosuje się w szczególności następujące kryteria:
+
+- **1)** niską elastyczność popytu,
+- **2)** podobne udziały w rynku,
+- **3)** wysokie prawne lub ekonomiczne bariery dostępu do rynku,
+- **4)** integrację pionową, której towarzyszy zbiorowa odmowa dostaw,
+- **5)** brak równoważącej siły nabywczej,
+- **6)** brak potencjalnej konkurencji – które nie muszą być spełnione łącznie.”;
+- **24)** w art. 25c w pkt 2 kropkę zastępuje się średnikiem i dodaje pkt 3 w brzmieniu: „3) w jak największym stopniu uwzględnia opinie i wspólne stanowiska przyjmowane przez BEREC.”;
+- **25)** w dziale II w rozdziale 1 po art. 25d dodaje się art. 25e i art. 25f w brzmieniu: „Art. 25e. 1. Przedsiębiorcę telekomunikacyjnego zajmującego znaczącą pozycję na rynku właściwym można uznać za zajmującego znaczącą pozycję na innym rynku właściwym, jeżeli powiązania pomiędzy tymi rynkami są tego rodzaju, że umożliwiają przeniesienie siły rynkowej przedsiębiorcy z rynku właściwego na drugi rynek właściwy (rynek powiązany), wzmacniając pozycję tego przedsiębiorcy.
+
+2. W celu uniemożliwienia przeniesienia znaczącej pozycji z rynku właściwego na rynek powiązany, Prezes UKE, po przeprowadzeniu analizy, o której mowa w art. 21 ust. 1, może nałożyć na rynku powiązanym na przedsiębiorcę, o którym mowa w ust. 1, obowiązki, o których mowa w art. 36–40 oraz w art. 42.
+
+3. W przypadku gdy nałożenie obowiązków, o których mowa w art. 36–40 oraz w art. 42, nie doprowadziło do uniemożliwienia przeniesienia znaczącej pozycji z rynku właściwego na rynek powiązany, Prezes UKE może nałożyć na rynku powiązanym na przedsiębiorcę, o którym mowa w ust. 1, obowiązki, o których mowa w art.
+
+46.
+
 **Art. 25f.**
 
 1. Prezes UKE, w przypadku niedotrzymania terminów, o których mowa w art. 21 ust. 2–4, może wystąpić do BEREC z wnioskiem o konsultację w sprawie analizy wskazanego rynku i utrzymania, zmiany albo uchylenia obowiązków regulacyjnych nałożonych na przedsiębiorcę telekomunikacyjnego o znaczącej pozycji rynkowej lub przedsiębiorców telekomunikacyjnych zajmujących kolektywną pozycję znaczącą przed przeprowadzeniem analizy rynku.
@@ -41,7 +188,7 @@ source: "isap-pdf"
     - **b)** w pkt 12 kropkę zastępuje się średnikiem i dodaje pkt 13 w brzmieniu: „13) zapewnieniu dostępu do usług towarzyszących, w tym usług identyfikacji, lokalizacji i sygnalizowania obecności.”;
 
 - **28)** w art. 35 w ust. 2:
-    - **a)** pkt 1 otrzymuje brzmienie: „1) techniczną i ekonomiczną możliwość korzystania lub instalowania konkurencyjnych urządzeń, mając na uwadze tempo rozwoju rynku oraz rodzaj wzajemnych połączeń sieci lub dostępu telekomunikacyjnego, w tym możliwość zastosowania innych rozwiązań związanych z dowej;”,
+    - **a)** pkt 1 otrzymuje brzmienie: „1) techniczną i ekonomiczną możliwość korzystania lub instalowania konkurencyjnych urządzeń, mając na uwadze tempo rozwoju rynku oraz rodzaj wzajemnych połączeń sieci lub dostępu telekomunikacyjnego, w tym możliwość zastosowania innych rozwiązań związanych z dostępem telekomunikacyjnym, takich jak dostęp do kanalizacji kablowej;”,
     - **b)** pkt 3 i 4 otrzymują brzmienie: „3) wstępne inwestycje dokonane przez właściciela urządzeń lub udogodnień towarzyszących, mając na uwadze ryzyko inwestycyjne oraz przy uwzględnieniu infrastruktury zrealizowanej w całości lub części ze środków publicznych, z której korzysta przedsiębiorca telekomunikacyjny;
 
 - **4)** konieczność zapewnienia konkurencji w dłuższym okresie, w tym promowanie efektywnego inwestowania w dziedzinie infrastruktury oraz technologii innowacyjnych;”;
@@ -51,7 +198,7 @@ source: "isap-pdf"
 - **32)** w art. 42 w ust. 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „Jeżeli operator, oprócz obowiązku, o którym mowa w ust. 1, został obowiązany do zapewnienia dostępu do lokalnej pętli abonenckiej, oferta ramowa o dostępie telekomunikacyjnym w zakresie dostępu do lokalnej pętli abonenckiej powinna zawierać co najmniej:”;
 - **33)** w art. 43 ust. 4 otrzymuje brzmienie: „4. Prezes UKE publikuje zatwierdzone oferty ramowe lub ich zmiany na stronie podmiotowej BIP UKE.”;
 - **34)** art. 44 otrzymuje brzmienie: „Art. 44. W szczególnych przypadkach Prezes UKE może, w drodze decyzji, nałożyć na operatorów o znaczącej pozycji rynkowej inne obowiązki w zakresie dostępu telekomunikacyjnego niż wymienione w art. 34, art. 36–40 i art. 42.”;
-- **35)** po art. 44 dodaje się art. 44a–44g w brzmieniu: „Art. 44a. 1. Niezwłocznie po zakończeniu postępowania konsultacyjnego dotyczącego nałożenia obowiązków, o których mowa w art. 44, innych niż przewidziane w art. 44b ust. 1, Prezes UKE występuje do tych obowiązków. Do wniosku Prezes UKE dołącza projekty rozstrzygnięć wraz z uzasadnieniem.
+- **35)** po art. 44 dodaje się art. 44a–44g w brzmieniu: „Art. 44a. 1. Niezwłocznie po zakończeniu postępowania konsultacyjnego dotyczącego nałożenia obowiązków, o których mowa w art. 44, innych niż przewidziane w art. 44b ust. 1, Prezes UKE występuje do Komisji Europejskiej z wnioskiem o uzyskanie zgody na nałożenie tych obowiązków. Do wniosku Prezes UKE dołącza projekty rozstrzygnięć wraz z uzasadnieniem.
 
 2. W przypadku pozytywnego rozpatrzenia przez Komisję Europejską wniosku, o którym mowa w ust. 1, Prezes UKE, w drodze decyzji, nakłada, zgodnie z wnioskiem, obowiązki, o których mowa w art.
 
@@ -67,7 +214,8 @@ source: "isap-pdf"
 
 - **1)** wyniki analizy, o której mowa w art. 21 ust. 1, w zakresie rynku hurtowego albo rynków hurtowych, potwierdzające, że wcześniej nałożone obowiązki regulacyjne w zakresie dostępu telekomunikacyjnego nie zapewniły na rynku hurtowym lub rynkach hurtowych, o których mowa w ust. 1, skutecznej konkurencji oraz że istnieją na tym rynku lub rynkach istotne i trwałe problemy konkurencyjne lub zawodność rynku;
 - **2)** uzasadnioną ocenę, że w rozsądnym terminie nie zaistnieje lub zaistnieje w niewielkim stopniu na rynku hurtowym lub rynkach hurtowych, o których mowa w ust. 1, skuteczna i trwała konkurencja w zakresie infrastruktury telekomunikacyjnej;
-- **3)** analizę spodziewanego wpływu nałożenia obowiązku rozdziału funkcjonalnego na przedsiębiorcę telekomunikacyjnego, o którym mowa w ust. 1, w tym na sytuację pracowników wydzielonej jednostki organizacyjnej, na działalność Prezesa UKE oraz na rynek telekomunikacyjny, w tym ocenę wpływu na motywację do inwestowania na rynku telekomunikacyjnym, a także informację o spodziewanym wpływie na konkurencję na tym rynku oraz o potencjalnych skutkach dla konsumentów; skuteczniejszego środka naprawczego, który ma na celu rozwiązanie problemów związanych z konkurencją lub usunięcie zidentyfikowanych nieprawidłowości na rynku hurtowym lub rynkach hurtowych;
+- **3)** analizę spodziewanego wpływu nałożenia obowiązku rozdziału funkcjonalnego na przedsiębiorcę telekomunikacyjnego, o którym mowa w ust. 1, w tym na sytuację pracowników wydzielonej jednostki organizacyjnej, na działalność Prezesa UKE oraz na rynek telekomunikacyjny, w tym ocenę wpływu na motywację do inwestowania na rynku telekomunikacyjnym, a także informację o spodziewanym wpływie na konkurencję na tym rynku oraz o potencjalnych skutkach dla konsumentów;
+- **4)** uzasadnienie zastosowania rozdziału funkcjonalnego jako najskuteczniejszego środka naprawczego, który ma na celu rozwiązanie problemów związanych z konkurencją lub usunięcie zidentyfikowanych nieprawidłowości na rynku hurtowym lub rynkach hurtowych;
 - **5)** projekt decyzji w sprawie rozdziału funkcjonalnego obejmujący określenie: 1, innych jednostek tego przedsiębiorcy telekomunikacyjnego, spółek od niego zależnych, wobec niego dominujących lub z nim powiązanych w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm. ),
     - **a)** charakteru i stopnia rozdziału funkcjonalnego, ze wskazaniem w szczególności statusu prawnego wydzielonej jednostki organizacyjnej, biorąc pod uwagę stanowisko przedsiębiorcy, na którego ma być nałożony obowiązek rozdziału funkcjonalnego co do tego statusu, o ile takie stanowisko zostało przedstawione przez niego w ramach postępowania konsultacyjnego,
     - **b)** początkowych składników majątkowych wydzielonej jednostki organizacyjnej oraz rodzaju dostarczanych produktów lub usług przez tę jednostkę,
@@ -78,8 +226,9 @@ source: "isap-pdf"
 
 4. W przypadku pozytywnego rozpatrzenia przez Komisję Europejską wniosku, o którym mowa w ust. 3, Prezes UKE, w drodze decyzji, nakłada obowiązek rozdziału funkcjonalnego.
 
-5. Uzasadnienie decyzji nakładającej obowiązek rozdziału funkcjonalnego, niezależnie od wymagań wynikających z przepisów Kodeksu postępowania administracyjnego, powinno zawierać wykazanie zaistnienia przesłanek, o których mowa w ust. 1, oraz zasadności nałożenia tego obowiązku, w tym: zakresie rynku hurtowego albo rynków hurtowych, potwierdzającą, że wcześniej nałożone obowiązki regulacyjne w zakresie dostępu telekomunikacyjnego nie zapewniły na rynku hurtowym lub rynkach hurtowych, o których mowa w ust. 1, skutecznej konkurencji oraz że istnieją na tym rynku lub rynkach istotne i trwałe problemy konkurencyjne lub zawodność rynku;
+5. Uzasadnienie decyzji nakładającej obowiązek rozdziału funkcjonalnego, niezależnie od wymagań wynikających z przepisów Kodeksu postępowania administracyjnego, powinno zawierać wykazanie zaistnienia przesłanek, o których mowa w ust. 1, oraz zasadności nałożenia tego obowiązku, w tym:
 
+- **1)** informację o wynikach analizy, o której mowa w art. 21 ust. 1, w zakresie rynku hurtowego albo rynków hurtowych, potwierdzającą, że wcześniej nałożone obowiązki regulacyjne w zakresie dostępu telekomunikacyjnego nie zapewniły na rynku hurtowym lub rynkach hurtowych, o których mowa w ust. 1, skutecznej konkurencji oraz że istnieją na tym rynku lub rynkach istotne i trwałe problemy konkurencyjne lub zawodność rynku;
 - **2)** uzasadnioną ocenę, że w rozsądnym terminie nie zaistnieje lub zaistnieje w niewielkim stopniu na rynku hurtowym lub rynkach hurtowych, o których mowa w ust. 1, skuteczna i trwała konkurencja w zakresie infrastruktury telekomunikacyjnej;
 - **3)** analizę spodziewanego wpływu nałożenia obowiązku rozdziału funkcjonalnego na przedsiębiorcę telekomunikacyjnego, o którym mowa w ust. 1, w tym na sytuację pracowników wydzielonej jednostki organizacyjnej, na działalność Prezesa UKE oraz na rynek telekomunikacyjny, w tym ocenę wpływu na motywację do inwestowania na rynku telekomunikacyjnym, a także informację o spodziewanym wpływie na konkurencję na tym rynku oraz o potencjalnych skutkach dla konsumentów;
 - **4)** uzasadnienie zastosowania rozdziału funkcjonalnego jako najskuteczniejszego środka naprawczego, który ma na celu rozwiązanie problemów związanych z konkurencją lub usunięcie zidentyfikowanych nieprawidłowości na rynku hurtowym lub rynkach hurtowych.
@@ -94,7 +243,7 @@ source: "isap-pdf"
 
 1. Do wydzielonej jednostki organizacyjnej, w przypadku gdy nie ma ona formy odrębnej osoby prawnej, w zakresie nieuregulowanym w ustawie stosuje się przepisy o oddziale przedsiębiorcy.
 
-2. Przedsiębiorca telekomunikacyjny, o którym mowa w art. 44b ust. 1, obowiązany jest do wyboru nazwy wydzielonej jednostki organizacyjnej, w terminie określonym w decyzji, o której mowa w art. 44b ust. 4. Nazwa handlowa powinna pozwalać na identyfikację tej jednostki jako jednostki wydzielonej od przedsiębiorcy telekomuużywana w obrocie handlowym.
+2. Przedsiębiorca telekomunikacyjny, o którym mowa w art. 44b ust. 1, obowiązany jest do wyboru nazwy wydzielonej jednostki organizacyjnej, w terminie określonym w decyzji, o której mowa w art. 44b ust. 4. Nazwa handlowa powinna pozwalać na identyfikację tej jednostki jako jednostki wydzielonej od przedsiębiorcy telekomunikacyjnego, o którym mowa w art. 44b ust. 1, i być przez niego używana w obrocie handlowym.
 
 3. Wydzielona jednostka organizacyjna jest odrębnym pracodawcą w ramach przedsiębiorstwa przedsiębiorcy telekomunikacyjnego, o którym mowa w art. 44b ust. 1, za którego uprawnienia i obowiązki pracodawcy wykonuje osoba lub osoby kierujące wydzieloną jednostką organizacyjną.
 
@@ -116,7 +265,7 @@ source: "isap-pdf"
 
 - **36)** uchyla się art. 47;
 - **37)** w art. 48:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Przedsiębiorca telekomunikacyjny, na którego nałożono obowiązek, o którym mowa w art. 46 ust. 3 pkt 4, przedkłada Prezesowi UKE projekterminie co najmniej 30 dni przed planowanym terminem wprowadzenia w życie cennika lub regulaminu świadczenia usług lub ich zmian.
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Przedsiębiorca telekomunikacyjny, na którego nałożono obowiązek, o którym mowa w art. 46 ust. 3 pkt 4, przedkłada Prezesowi UKE projekty cenników i regulaminów świadczenia usług wraz z uzasadnieniem, w terminie co najmniej 30 dni przed planowanym terminem wprowadzenia w życie cennika lub regulaminu świadczenia usług lub ich zmian.
 
 2. Prezes UKE, w drodze decyzji, w terminie 30 dni od dnia przedłożenia projektu cennika, regulaminu świadczenia usług lub ich zmiany, może zgłosić sprzeciw, jeżeli projekt cennika lub regulaminu jest sprzeczny z decyzją, o której mowa w art. 46 ust. 2, lub z przepisami ustawy i zobowiązać przedsiębiorcę telekomunikacyjnego do przedstawienia poprawionego cennika lub regulaminu, w części objętej sprzeciwem.”,
 
@@ -131,7 +280,7 @@ source: "isap-pdf"
 
 - **40)** w art. 54 ust. 1–3 otrzymują brzmienie: „1. Prezes UKE nakłada, w drodze decyzji, na przedsiębiorcę telekomunikacyjnego obowiązanego na podstawie art. 38 lub art. 46 do prowadzenia rachunkowości regulacyjnej, obowiązek publikowania na stronie podmiotowej BIP UKE zatwierdzonej instrukcji, tak aby zapewniona była prezentacja sposobów wyodrębniania i przypisywania aktywów i pasywów, przychodów i kosztów.
 
-2. Prezes UKE nakłada, w drodze decyzji, na przedsiębiorcę telekomunikacyjnego obowiązanego na podstawie art. 39 lub art. 46 do prowadzenia kalkulacji kosztów, obowiązek publikowania na stronie podmiotowej BIP UKE tacja głównych grup kosztów oraz sposobów ich przypisania na poszczególne rodzaje usług.
+2. Prezes UKE nakłada, w drodze decyzji, na przedsiębiorcę telekomunikacyjnego obowiązanego na podstawie art. 39 lub art. 46 do prowadzenia kalkulacji kosztów, obowiązek publikowania na stronie podmiotowej BIP UKE zatwierdzonego opisu kalkulacji kosztów, tak aby zapewniona była prezentacja głównych grup kosztów oraz sposobów ich przypisania na poszczególne rodzaje usług.
 
 3. Prezes UKE może, w drodze decyzji, nałożyć na przedsiębiorcę telekomunikacyjnego o znaczącej pozycji rynkowej obowiązek publikowania na stronie podmiotowej BIP UKE cen stosowanych przez tego przedsiębiorcę telekomunikacyjnego.”;
 
@@ -152,7 +301,8 @@ source: "isap-pdf"
 - **10)** ograniczenia w zakresie korzystania z udostępnionych abonentowi przez dostawcę usług telekomunikacyjnych urządzeń końcowych, o ile zostały one wprowadzone przez dostawcę usług lub na jego zlecenie;
 - **11)** dane dotyczące funkcjonalności świadczonej usługi obejmujące informacje:
     - **a)** czy zapewniane są połączenia z numerami alarmowymi,
-    - **b)** czy gromadzone są dane o lokalizacji telekomunikacyjnego urządzenia końcowego, z którego wykonywane jest połączenie, rów alarmowych,
+    - **b)** czy gromadzone są dane o lokalizacji telekomunikacyjnego urządzenia końcowego, z którego wykonywane jest połączenie,
+    - **c)** o wszelkich ograniczeniach w kierowaniu połączeń do numerów alarmowych,
     - **d)** o wszelkich ograniczeniach w dostępie lub korzystaniu z usług i aplikacji,
     - **e)** o procedurach wprowadzonych przez dostawcę usług w celu pomiaru i organizacji ruchu w sieci, aby zapobiec osiągnięciu lub przekroczeniu pojemności łącza, wraz z informacją o ich wpływie na jakość świadczonych usług,
     - **f)** o działaniach, jakie dostawca usług jest uprawniony podejmować w związku z przypadkami naruszenia bezpieczeństwa lub integralności sieci i usług;
@@ -168,9 +318,12 @@ source: "isap-pdf"
 - **20)** sposób przekazywania abonentowi informacji o zagrożeniach związanych ze świadczoną usługą, w tym o sposobach ochrony bezpieczeństwa, prywatności i danych osobowych;
 - **21)** wszelkie opłaty należne w momencie rozwiązania umowy, w tym warunki zwrotu telekomunikacyjnych urządzeń końcowych ze wskazaniem, na czyj koszt zwrot ma nastąpić.
 
-4. Umowa o zapewnienie przyłączenia do publicznej sieci telekomunikacyjnej poza elementami, o których mowa w ust. 3, powinna określać numer przydzielony abonentowi, a w przypadku przyłączenia do stacjonarnej publicznej sieci telekomunikacyjnej – także adres zakończenia sieci.”, zawarcia umowy o świadczenie usług telekomunikacyjnych również na okres nie dłuższy niż 12 miesięcy.”,
+4. Umowa o zapewnienie przyłączenia do publicznej sieci telekomunikacyjnej poza elementami, o których mowa w ust. 3, powinna określać numer przydzielony abonentowi, a w przypadku przyłączenia do stacjonarnej publicznej sieci telekomunikacyjnej – także adres zakończenia sieci.”,
 
 - **b)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. W przypadku konsumenta początkowy okres obowiązywania umowy określony w umowie, o której mowa w ust. 1, zawieranej z danym dostawcą usług na czas określony nie może być dłuższy niż 24 miesiące.
+
+4b. Dostawca usług zapewnia użytkownikowi końcowemu możliwość zawarcia umowy o świadczenie usług telekomunikacyjnych również na okres nie dłuższy niż 12 miesięcy.”,
+
 - **c)** ust. 5–6a otrzymują brzmienie: „5. Dane, o których mowa w ust. 3 pkt 6–8 i 10–21, na podstawie wyraźnego postanowienia umowy, mogą być zawarte w regulaminie świadczenia publicznie dostępnych usług telekomunikacyjnych.
 
 6. Dostawca usług może umożliwić abonentowi będącemu stroną umowy zawartej w formie pisemnej lub elektronicznej zmianę warunków umowy, o których mowa w ust. 3 pkt 2 i 4–7, za pomocą środków porozumiewania się na odległość, w szczególności telefonicznie lub przy użyciu poczty elektronicznej lub faksu. Dostawca usług obowiązany jest jednak utrwalić oświadczenie abonenta złożone w sposób określony w zdaniu pierwszym i przechowywać je do końca obowiązywania umowy na zmienionych warunkach i udostępniać jego treść abonentowi na jego żądanie, zgłoszone w szczególności w trakcie postępowania reklamacyjnego. W przypadku zmiany warunków umowy dokonanej telefonicznie powinna być utrwalona cała rozmowa. Jednocześnie dostawca usług obowiązany jest do potwierdzenia abonentowi faktu złożenia oświadczenia o zmianie warunków umowy oraz jego zakresu i terminu wprowadzenia zmian w terminie ustalonym z abonentem, ale nie później niż w ciągu jednego miesiąca od dnia zlecenia zmiany. Abonentowi przysługuje prawo odstąpienia od dokonanej zmiany warunków umowy, bez podania przyczyn, poprzez złożenie oświadczenia w formie pisemnej w terminie 10 dni od dnia otrzymania potwierdzenia. Do zachowania tego terminu wystarczy wysłanie oświadczenia przed jego upływem.
@@ -183,7 +336,7 @@ source: "isap-pdf"
 
 - **42)** w art. 57:
     - **a)** w ust. 1 uchyla się pkt 1,
-    - **b)** ust. 6 otrzymuje brzmienie: „6. W przypadku zawarcia umowy o świadczenie usług telekomunikacyjnych, w tym o zapewnienie przyłączenia do publicznej sieci tesokość roszczenia z tytułu jednostronnego rozwiązania umowy przez abonenta lub przez dostawcę usług z winy abonenta przed upływem terminu, na jaki umowa została zawarta, nie może przekroczyć wartości ulgi przyznanej abonentowi pomniejszonej o proporcjonalną jej wartość za okres od dnia zawarcia umowy do dnia jej rozwiązania. Roszczenie nie przysługuje w przypadku rozwiązania przez konsumenta umowy przed rozpoczęciem świadczenia usług, chyba że przedmiotem ulgi jest telekomunikacyjne urządzenie końcowe.”;
+    - **b)** ust. 6 otrzymuje brzmienie: „6. W przypadku zawarcia umowy o świadczenie usług telekomunikacyjnych, w tym o zapewnienie przyłączenia do publicznej sieci telekomunikacyjnej, związanego z ulgą przyznaną abonentowi, wysokość roszczenia z tytułu jednostronnego rozwiązania umowy przez abonenta lub przez dostawcę usług z winy abonenta przed upływem terminu, na jaki umowa została zawarta, nie może przekroczyć wartości ulgi przyznanej abonentowi pomniejszonej o proporcjonalną jej wartość za okres od dnia zawarcia umowy do dnia jej rozwiązania. Roszczenie nie przysługuje w przypadku rozwiązania przez konsumenta umowy przed rozpoczęciem świadczenia usług, chyba że przedmiotem ulgi jest telekomunikacyjne urządzenie końcowe.”;
 
 - **43)** art. 59 i art. 60 otrzymują brzmienie: „Art. 59. 1. Dostawca publicznie dostępnych usług telekomunikacyjnych określający w regulaminie świadczenia publicznie dostępnych usług telekomunikacyjnych dane, o których mowa w art. 56 ust. 3 pkt 6–8 lub 10–21, jest obowiązany podać ten regulamin do publicznej wiadomości poprzez publikację na swojej stronie internetowej i dostarczać nieodpłatnie abonentowi wraz z umową o świadczenie publicznie dostępnych usług telekomunikacyjnych, w tym o zapewnienie przyłączenia do publicznej sieci telekomunikacyjnej, a także na każde jego żądanie, w formie pisemnej lub elektronicznej.
 
@@ -193,9 +346,119 @@ source: "isap-pdf"
 
 **Art. 60.** Regulamin świadczenia publicznie dostępnych usług telekomunikacyjnych niewymagających zawarcia umowy w formie pisemnej lub elektronicznej za pomocą formularza udostępnionego na stronie internetowej dostawcy usług powinien określać w szczególności:
 
+- **1)** nazwę (firmę), adres i siedzibę dostawcy usług;
+- **2)** świadczone usługi ze wskazaniem elementów składających się na opłatę za świadczenie usług;
+- **3)** standardowe warunki umowy, w tym wskazanie minimalnego czasu trwania umowy, jeżeli taki został określony;
+- **4)** sposoby dokonywania płatności;
+- **5)** ograniczenia w zakresie korzystania z udostępnionych abonentowi przez dostawcę usług telekomunikacyjnych urządzeń końcowych, o ile zostały one wprowadzone przez dostawcę usług lub na jego zlecenie;
+- **6)** dane dotyczące funkcjonalności świadczonej usługi obejmujące informacje:
+    - **a)** czy zapewniane są połączenia z numerami alarmowymi,
+    - **b)** czy gromadzone są dane o lokalizacji telekomunikacyjnego urządzenia końcowego, z którego wykonywane jest połączenie,
+    - **c)** o wszelkich ograniczeniach w kierowaniu połączeń do numerów alarmowych,
+    - **d)** o wszelkich ograniczeniach w dostępie lub korzystaniu z usług i aplikacji,
+    - **e)** o procedurach wprowadzonych przez dostawcę usług w celu pomiaru i organizacji ruchu w sieci, aby zapobiec osiągnięciu lub przekroczeniu pojemności łącza, wraz z informacją o ich wpływie na jakość świadczonych usług,
+    - **f)** o działaniach, jakie dostawca usług jest uprawniony podejmować w związku z przypadkami naruszenia bezpieczeństwa lub integralności sieci lub usług;
+
+- **7)** dane dotyczące jakości usług, w szczególności minimalne oferowane poziomy jakości usług, w tym czas wstępnego przyłączenia, a także inne parametry jakości usług, jeżeli zostały określone przez Prezesa UKE na podstawie art. 63 ust. 2a;
+- **8)** sposoby informowania abonenta o wyczerpaniu pakietu transmisji danych w przypadku usługi dostępu do sieci Internet świadczonej w ruchomej publicznej sieci telekomunikacyjnej oraz o możliwości bieżącej kontroli stanu takiego pakietu przez abonenta;
+- **9)** zakres usług serwisowych oraz sposoby kontaktowania się z podmiotami, które je świadczą;
+- **10)** zakres odpowiedzialności z tytułu niewykonania lub nienależytego wykonania umowy, wysokość odszkodowania oraz zasady i terminy jego wypłaty;
+- **11)** zasady, tryb i terminy składania oraz rozpatrywania reklamacji;
+- **12)** sposób uzyskania informacji o aktualnym cenniku usług oraz kosztach usług serwisowych;
+- **13)** zasady umieszczenia danych abonenta w spisie abonentów w przypadku umowy dotyczącej świadczenia usług głosowych;
+- **14)** sposób przekazywania abonentowi informacji o zagrożeniach związanych ze świadczoną usługą, w tym o sposobach ochrony bezpieczeństwa, prywatności i danych osobowych;
+- **15)** rodzaj działań, które dostawca usług może podjąć w związku z przypadkami naruszenia bezpieczeństwa lub integralności sieci lub usług lub z zagrożeniami i podatnością na takie zagrożenia;
+- **16)** rekomendowane sposoby zabezpieczenia przez abonenta telekomunikacyjnego urządzenia końcowego.”;
+- **44)** w art. 60a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Dostawca publicznie dostępnych usług telekomunikacyjnych:
+
+- **1)** doręcza na piśmie abonentowi będącemu stroną umowy zawartej w formie pisemnej lub elektronicznej treść każdej proponowanej zmiany warunków umowy, w tym określonych w regulaminie świadczenia publicznie dostępnych usług telekomunikacyjnych, chyba że abonent złożył żądanie określone w ust. 1b,
+- **2)** doręcza na piśmie abonentowi niebędącemu stroną umowy zawartej w formie pisemnej lub elektronicznej, który udostępnił swoje dane, o których mowa w ust. 1a, treść każdej proponowanej zmiany warunków umowy określonych w regulaminie świadczenia publicznie dostępnych usług telekomunikacyjnych, chyba że abonent złożył żądanie określone w ust. 1b, oraz
+- **3)** podaje do publicznej wiadomości treść każdej proponowanej zmiany warunków umowy określonych w regulaminie świadczenia publicznie dostępnych usług telekomunikacyjnych – z wyprzedzeniem co najmniej jednego miesiąca przed wprowadzeniem tych zmian w życie. Okres ten może być krótszy, jeśli publikacja aktu prawnego, z którego wynika konieczność wprowadzenia zmian następuje z wyprzedzeniem krótszym niż miesiąc przed jego wejściem w życie lub okres taki wynika z decyzji Prezesa UKE. Jednocześnie abonent powinien zostać poinformowany o prawie wypowiedzenia umowy w przypadku braku akceptacji tych zmian, przy czym termin na realizację tego prawa nie może być krótszy niż do dnia wejścia tych zmian w życie.”,
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. W razie skorzystania z prawa wypowiedzenia umowy, o którym mowa w ust. 1, dostawcy publicznie dostępnych usług telekomunikacyjnych nie przysługuje zwrot ulgi, o której mowa w art. 57 ust. 6, o czym abonent powinien zostać także poinformowany.
+
+3. Przepisu ust. 2 nie stosuje się, jeżeli konieczność wprowadzenia zmian, o których mowa w ust. 1:
+
+- **1)** wynika bezpośrednio ze zmiany przepisów prawa albo z usunięcia niedozwolonych postanowień umownych;
+- **2)** wynika z decyzji Prezesa UKE, o której mowa w art. 63 ust. 2a.”,
+    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku, gdy proponowana zmiana warunków umowy określonych w regulaminie świadczenia publicznie dostępnych usług telekomunikacyjnych wynika bezpośrednio ze zmiany przepisów prawa, powoduje obniżenie cen usług telekomunikacyjnych, dodanie nowej usługi lub wynika z decyzji Prezesa UKE dostawca publicznie dostępnych usług telekomunikacyjnych podaje do publicznej wiadomości treść proponowanych zmian, z wyprzedzeniem co najmniej jednego miesiąca przed wprowadzeniem ich w życie. Okres ten może być krótszy, jeśli publikacja aktu prawnego, z którego wynika konieczność wprowadzenia zmian następuje z wyprzedzeniem krótszym niż miesiąc przed jego wejściem w życie lub okres taki wynika z decyzji Prezesa UKE. Jednocześnie abonent powinien zostać poinformowany o prawie wypowiedzenia umowy w przypadku braku akceptacji tych zmian, przy czym termin na realizację tego prawa nie może być krótszy niż do dnia wejścia tych zmian w życie.”,
+    - **d)** ust. 4 otrzymuje brzmienie:
+
+4. Dostawca publicznie dostępnych usług telekomunikacyjnych niezwłocznie informuje na piśmie abonentów będących stroną umowy zawartej w formie pisemnej lub elektronicznej o zmianie nazwy (firmy), adresu lub siedziby dostawcy usług, chyba że abonent złożył żądanie otrzymywania tych informacji drogą elektroniczną na wskazany przez abonenta w tym celu adres poczty elektronicznej lub za pomocą podobnego środka porozumiewania się na odległość. Informacja o powyższych zmianach nie stanowi zmiany warunków umowy.”;
+
+- **45)** w art. 61:
+    - **a)** ust. 5 otrzymuje brzmienie: „5. Dostawca publicznie dostępnych usług telekomunikacyjnych doręcza na piśmie abonentowi, który udostępnił swoje dane, o których mowa w art. 60a ust. 1a, chyba że abonent złożył żądanie określone w ust. 5a, oraz podaje do publicznej wiadomości treść każdej proponowanej zmiany w cenniku, z wyprzedzeniem co najmniej jednego miesiąca przed wprowadzeniem tych zmian w życie. Okres ten może być krótszy, jeśli publikacja aktu prawnego, z którego wynika konieczność wprowadzenia zmian następuje z wyprzedzeniem krótszym niż miesiąc przed jego wejściem w życie lub okres taki wynika z decyzji Prezesa UKE. Jednocześnie abonent powinien zostać poinformowany o prawie wypowiedzenia umowy w przypadku braku akceptacji zmiany w cenniku, przy czym termin na realizację tego prawa nie może być krótszy niż do dnia wejścia tej zmiany w życie.”,
+    - **b)** po ust. 5 dodaje się ust. 5 w brzmieniu: „5 . W przypadku, gdy proponowana zmiana w cenniku wynika bezpośrednio ze zmiany przepisów prawa, powoduje obniżenie cen usług telekomunikacyjnych, dodanie nowej usługi lub wynika z decyzji Prezesa UKE dostawca publicznie dostępnych usług telekomunikacyjnych podaje do publicznej wiadomości treść proponowanych zmian, z wyprzedzeniem co najmniej jednego miesiąca przed wprowadzeniem ich w życie. Okres ten może być krótszy, jeśli publikacja aktu prawnego, z którego wynika konieczność wprowadzenia zmian następuje z wyprzedzeniem krótszym niż miesiąc przed jego wejściem w życie lub okres taki wynika z decyzji Prezesa UKE. Jednocześnie abonent powinien zostać poinformowany o prawie wypowiedzenia umowy w przypadku braku akceptacji tych zmian, przy czym termin na realizację tego prawa nie może być krótszy niż do dnia wejścia tych zmian w życie.”,
+    - **c)** ust. 6 otrzymuje brzmienie: „6. W przypadku, o którym mowa w ust. 5 i 5a, abonent powinien zostać poinformowany także o tym, że w razie skorzystania z prawa wypowiedzenia umowy w przypadku braku akceptacji podwyższenia cen dostawcy publicznie dostępnych usług telekomunikacyjnych nie przysługuje zwrot ulgi, o której mowa w art. 57 ust. 6.”;
+
+- **46)** w art. 61a w ust. 1 pkt 3 otrzymuje brzmienie: „3) o konieczności zwrotu ulgi, o której mowa w art. 57 ust. 6, w przypadku skorzystania przez abonenta z prawa do wypowiedzenia umowy.”;
+- **47)** art. 62 otrzymuje brzmienie: „Art. 62. 1. Prezes UKE, kierując się potrzebą zwiększenia dostępności informacji dotyczących zasad świadczenia usług telekomunikacyjnych dla użytkowników końcowych, publikuje na stronie podmiotowej BIP UKE informacje dotyczące podstawowych praw i obowiązków abonentów publicznie dostępnych usług telekomunikacyjnych, w tym informacje dotyczące:
+- **1)** usługi powszechnej;
+- **2)** standardowych warunków umowy o świadczenie publicznie dostępnych usług telekomunikacyjnych, w tym o zapewnienie przyłączenia do publicznej sieci telekomunikacyjnej;
+- **3)** wskazania, jakie sposoby wykorzystania usług telekomunikacyjnych są niezgodne z prawem lub stanowią rozpowszechnianie szkodliwych treści, w tym przypadki naruszenia praw autorskich i pokrewnych, oraz wskazania konsekwencji prawnych tych czynów;
+- **4)** sposobów ochrony bezpieczeństwa, prywatności i danych osobowych podczas korzystania z publicznie dostępnych usług telekomunikacyjnych;
+- **5)** sposobów pozasądowego rozwiązywania sporów między konsumentami a przedsiębiorcami telekomunikacyjnymi.
+
+2. Prezes UKE może zażądać od przedsiębiorców telekomunikacyjnych przekazania danych koniecznych do opracowania informacji, o których mowa w ust. 1, określając formę, w jakiej dane te mają być przekazywane. Do żądania stosuje się art. 6 ust. 2.
+
+3. Prezes UKE może nałożyć na przedsiębiorców telekomunikacyjnych obowiązek publikowania na ich stronach internetowych lub w punktach obsługi klienta informacji, o których mowa w ust. 1.”;
+
+- **48)** po art. 62 dodaje się art. 62a w brzmieniu: „Art. 62a. 1. Przedsiębiorca telekomunikacyjny świadczący usługę dostępu do sieci Internet podający do publicznej wiadomości, w szczególności w materiałach informacyjnych lub promocyjnych, lub określający w umowie o świadczenie publicznie dostępnych usług telekomunikacyjnych prędkość transmisji danych, informuje na żądanie Prezesa UKE o stosowanej metodzie pomiaru, na podstawie której dokonuje pomiaru wskaźnika tej prędkości.
+
+2. Prezes UKE może w terminie 14 dni od dnia przekazania informacji, o której mowa w ust. 1, zgłosić w formie decyzji sprzeciw co do stosowanej przez przedsiębiorcę telekomunikacyjnego metody pomiaru, jeżeli nie gwarantuje ona użytkownikom końcowym przejrzystych informacji o parametrach jakościowych usługi lub nie zapewnia rzetelnego pomiaru. Niezgłoszenie sprzeciwu przez Prezesa UKE w terminie 14 dni od dnia przekazania informacji uważa się za wyrażenie przez Prezesa UKE zgody na stosowanie przez przedsiębiorcę telekomunikacyjnego metody pomiaru.
+
+3. W decyzji, o której mowa w ust. 2, Prezes UKE nakłada na przedsiębiorcę telekomunikacyjnego obowiązek stosowania określonej metody, na podstawie której przedsiębiorca dokonuje pomiaru wskaźnika prędkości transmisji danych, mając na uwadze potrzebę zagwarantowania użytkownikom końcowym przejrzystych informacji o parametrach jakościowych usługi.
+
+4. Prezes UKE jest uprawniony do przeprowadzania badania, czy prędkość transmisji danych mierzona za pomocą metody pomiaru wskaźnika prędkości transmisji danych, co do której Prezes UKE nie zgłosił sprzeciwu, o którym mowa w ust. 2, lub określonej w decyzji Prezesa UKE, o której mowa w ust. 2 lub 6 nie jest mniejsza niż prędkość transmisji danych, o której mowa w ust. 1.
+
+5. Jeżeli w wyniku badania, o którym mowa w ust. 4, Prezes UKE ustalił, że prędkość transmisji danych mierzona za pomocą metody pomiaru wskaźnika prędkości transmisji danych, co do której Prezes UKE nie zgłosił sprzeciwu, o którym mowa w ust. 2, lub określonej w decyzji Prezesa UKE, o której mowa w ust. 2 lub 6 jest mniejsza niż prędkość transmisji danych, o której mowa w ust. 1, Prezes UKE nakłada w drodze decyzji na przedsiębiorcę telekomunikacyjnego świadczącego usługę dostępu do sieci Internet obowiązek dostosowania tej prędkości transmisji danych do prędkości transmisji danych, o której mowa w ust. 1, w terminie 30 dni od dnia doręczenia decyzji.
+
+6. W przypadku nieprzekazania informacji, o których mowa w ust. 1, Prezes UKE wydaje decyzję, w której nakłada na przedsiębiorcę telekomunikacyjnego obowiązek stosowania określonej metody pomiaru, na podstawie której przedsiębiorca dokonuje pomiaru wskaźnika prędkości transmisji danych, mając na uwadze potrzebę zagwarantowania użytkownikom końcowym przejrzystych informacji o parametrach jakościowych usługi.”;
+
+- **49)** w art. 63:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W celu zapobiegania pogorszeniu się jakości usług telekomunikacyjnych oraz utrudnieniom lub spowolnieniom ruchu w sieciach telekomunikacyjnych Prezes UKE, po uprzednim skonsultowaniu z Komisją Europejską, może określić dla danego przedsiębiorcy telekomunikacyjnego, w drodze decyzji, minimalne wymogi w zakresie jakości tych usług, mając na uwadze zapewnienie rozwoju konkurencji i wspieranie zdolności użytkowników do dostępu do informacji oraz ich rozpowszechniania lub korzystania z dowolnych aplikacji i usług. Prezes UKE przed ustanowieniem tych wymogów udostępnia Komisji Europejskiej oraz BEREC projekt decyzji wraz z uzasadnieniem. Podejmując decyzję Prezes UKE uwzględnia w jak największym stopniu opinie i zalecenia Komisji Europejskiej.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw łączności może określić, w drodze rozporządzenia, wskaźniki dotyczące jakości poszczególnych usług oraz treść, formę, terminy i sposób publikowania informacji, o których mowa w ust. 1, kierując się potrzebą zapewnienia użytkownikom końcowym dostępu do wyczerpujących i przejrzystych informacji.”;
+
+- **50)** po art. 63 dodaje się art. 63a w brzmieniu: „Art. 63a. Dostawca publicznie dostępnych usług telekomunikacyjnych świadczący usługę dostępu do sieci Internet w ruchomej publicznej sieci telekomunikacyjnej jest obowiązany do oferowania pakietów transmisji danych oraz do natychmiastowego nieodpłatnego informowania abonenta o przekroczeniu przez abonenta limitu transmisji danych w ramach wybranego przez abonenta pakietu.”;
+- **51)** w art. 64 ust. 6 otrzymuje brzmienie: „6. W przypadku publicznie dostępnych usług telefonicznych świadczonych w stacjonarnych publicznych sieciach telekomunikacyjnych obowiązek, o którym mowa w ust. 5 pkt 1, uważa się za wykonany, jeżeli dostawca publicznie dostępnej usługi telefonicznej wykonał co najmniej trzy próby połączenia z abonentem w ciągu 24 godzin od chwili przekroczenia progu kwotowego.”;
+- **52)** w art. 67 ust. 1 otrzymuje brzmienie: „1. Dostawca publicznie dostępnych usług telefonicznych udostępnia niezbędne dane innym przedsiębiorcom telekomunikacyjnym prowadzącym spisy abonentów lub świadczącym usługę informacji o numerach telefonicznych, w tym usługę ogólnokrajowego spisu abonentów oraz usługę informacji o numerach obejmującej wszystkich abonentów publicznie dostępnych usług telefonicznych na terytorium Rzeczypospolitej Polskiej, zwaną dalej „ogólnokrajową informacją o numerach telefonicznych”.”;
+- **53)** art. 68–70 otrzymują brzmienie: „Art. 68. Dostawca publicznie dostępnych usług telefonicznych zapewnia użytkownikom końcowym, w tym korzystającym z aparatów publicznych, możliwość uzyskania połączenia z konsultantem dostawcy usług, w tym w celu uzyskania informacji dotyczących alternatywnych taryf, jeżeli takie są dostępne.
+
 **Art. 69.** Abonent publicznie dostępnej usługi telefonicznej może żądać zmiany przydzielonego numeru, jeżeli wykaże, że korzystanie z przydzielonego numeru jest uciążliwe.
 
 **Art. 70.** W przypadku zmiany miejsca zamieszkania, siedziby lub miejsca wykonywania działalności, abonent będący stroną umowy zawartej w formie pisemnej lub elektronicznej z dostawcą usług zapewniającym przyłączenie do publicznej sieci telekomunikacyjnej operatora, wykorzystujący przydzielony numer należący do planu numeracji krajowej, może żądać przeniesienia przydzielonego numeru w ramach istniejącej sieci tego samego operatora na obszarze:
+
+- **1)** o tym samym wskaźniku obszaru geograficznego – w przypadku numerów geograficznych;
+- **2)** całego kraju – w przypadku numerów niegeograficznych.”;
+- **54)** w art. 71:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Abonent będący stroną umowy z dostawcą usług, w której przydzielany jest abonentowi numer z planu numeracji krajowej dla publicznych sieci telekomunikacyjnych, może żądać przy zmianie dostawcy usług przeniesienia przydzielonego numeru do istniejącej sieci operatora na:
+
+- **1)** obszarze geograficznym – w przypadku numerów geograficznych;
+- **2)** terenie całego kraju – w przypadku numerów niegeograficznych.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Przepisu ust. 1 nie stosuje się do przenoszenia numerów pomiędzy stacjonarnymi i ruchomymi publicznymi sieciami telekomunikacyjnymi.”,
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wymiana informacji pomiędzy dostawcami usług w zakresie obsługi wniosków o przeniesienie numeru odbywa się drogą elektroniczną za pośrednictwem systemu, o którym mowa w art. 78 ust. 4.”,
+    - **d)** ust. 4 i 5 otrzymują brzmienie: „4. Prezes UKE prowadzi bazę danych zawierającą przeniesione numery, o których mowa w ust. 1. Baza danych jest częścią systemu, o którym mowa w art. 78 ust. 4.
+
+5. Operator publicznej sieci telekomunikacyjnej posiadający przydział numeracji z planu numeracji krajowej oraz operator, któremu udostępniono numerację na podstawie umowy, o której mowa w art. 128, jest obowiązany połączyć tę sieć bezpośrednio lub za pośrednictwem publicznej sieci telekomunikacyjnej innego operatora z bazą danych, o której mowa w ust. 4. Operator publicznej sieci telekomunikacyjnej posiadający przydział numeracji z planu numeracji krajowej oraz operator, któremu udostępniono numerację na podstawie umowy, o której mowa w art. 128, jest obowiązany dokonywać na bieżąco aktualizacji danych w bazie, o której mowa w ust. 4.”,
+
+- **e)** dodaje się ust. 6 w brzmieniu: „6. Prezes UKE, na podstawie danych zawartych w bazie danych, o której mowa w ust. 4, może umożliwić, na stronie internetowej UKE, identyfikację dostawcy usług dla danego numeru publicznej sieci telekomunikacyjnej.”;
+- **55)** po art. 71a dodaje się art. 71b w brzmieniu: „Art. 71b. 1. Przeniesienie numeru, o którym mowa w art. 71, następuje nie później niż w terminie 1 dnia roboczego od dnia wskazanego w umowie o świadczenie publicznie dostępnych usług telekomunikacyjnych z przeniesieniem przydzielonego numeru jako dnia rozpoczęcia świadczenia usług przez nowego dostawcę usług.
+
+2. W przypadku niedotrzymania terminu, o którym mowa w ust. 1, abonentowi przysługuje od dotychczasowego dostawcy usług jednorazowe odszkodowanie za każdy dzień zwłoki w wysokości 1/4 sumy opłat miesięcznych liczonej według rachunków z ostatnich trzech okresów rozliczeniowych, a w przypadku abonentów usługi przedpłaconej w wysokości 1/4 sumy wartości doładowań konta z ostatnich trzech miesięcy, chyba że brak możliwości realizacji przeniesienia numeru nastąpił z przyczyn leżących po stronie systemu, o którym mowa w art. 78 ust. 4. W przypadku gdy opóźnienie w przeniesieniu numeru nastąpiło z przyczyn nieleżących po stronie dotychczasowego dostawcy usług, przysługuje mu zwrot wypłaconego odszkodowania lub jego części od podmiotu, z winy którego nastąpiło opóźnienie.
+
+3. W przypadku przeniesienia numeru bez zgody abonenta, za każdy dzień od dnia aktywacji numeru w nowej sieci abonentowi przysługuje od nowego dostawcy usług jednorazowe odszkodowanie w wysokości 1/2 średniej opłaty miesięcznej liczonej według rachunków z ostatnich trzech okresów rozliczeniowych, a w przypadku abonentów usługi przedpłaconej w wysokości 1/2 sumy wartości doładowań konta z ostatnich trzech miesięcy.
+
+4. Kwotę odszkodowania, o którym mowa w ust. 2 i 3, oblicza się na podstawie liczby dni, które upłyną do dnia:
+
+- **1)** przeniesienia numeru w przypadku, o którym mowa w ust. 2;
+- **2)** aktywacji numeru w sieci dotychczasowego dostawcy usług lub uzyskania zgody abonenta na aktywację numeru w sieci nowego dostawcy w przypadku, o którym mowa w ust. 3.”;
+- **56)** w art. 72:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Abonent publicznie dostępnej usługi telefonicznej będący stroną umowy z dostawcą usług zapewniającym przyłączenie do stacjonarnej publicznej sieci telekomunikacyjnej operatora o znaczącej pozycji rynkowej może wybrać dowolnego dostawcę publicznie dostępnych usług telefonicznych, którego usługi są dostępne w połączonych sieciach.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Kierując się potrzebami abonentów w zakresie wyboru dostawcy usług, Prezes UKE, po przeprowadzeniu zgodnie z art. 21 analizy rynku usług świadczonych w ruchomej publicznej sieci telekomunikacyjnej, może, w drodze decyzji, o której mowa w art. 24, nałożyć na wyznaczonego operatora o znaczącej pozycji na tym rynku obowiązek realizacji na rzecz abonentów przyłączonych do jego sieci uprawnienia, o którym mowa w ust. 1.”;
+
+- **57)** art. 73 otrzymuje brzmienie: „Art. 73. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, warunki korzystania z uprawnień, o których mowa w art. 69–72, uwzględniając dostępność publicznie dostępnych usług telefonicznych, możliwości techniczne publicznych sieci telekomunikacyjnych oraz istniejące zasoby numeracji.”;
+- **58)** w art. 74 ust. 1 otrzymuje brzmienie: „1. Dostawca usług telekomunikacyjnych będący stroną umowy, w której przydzielany jest abonentowi numer z planu numeracji krajowej dla publicznych sieci telekomunikacyjnych i operator umożliwiający odbieranie połączeń za pomocą tego numeru, są obowiązani zapewnić możliwości do realizacji uprawnień abonenta, o których mowa w art. 69–72, polegające na stworzeniu odpowiednich warunków technicznych lub zawarciu umowy, o której mowa w art. 31 albo art. 128, a jeżeli możliwości takie istnieją – zapewnić ich realizację.”;
+- **59)** art. 75–77 otrzymują brzmienie: „Art. 75. Operator publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne, zapewnia użytkownikom końcowym możliwość wybierania wieloczęstotliwościowego (DTMF).
 
 **Art. 76.** Operator publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne, zapewnia przekazywanie danych i sygnałów w celu ułatwienia oferowania udogodnień prezentacji identyfikacji linii wywołującej i wybierania wieloczęstotliwościowego (DTMF), o których mowa w art. 75 i art. 171 ust. 1, pomiędzy sieciami operatorów państw członkowskich.
 
@@ -220,7 +483,8 @@ source: "isap-pdf"
 
 2. Dostawca publicznie dostępnych usług telefonicznych jest obowiązany, dla zapewnienia funkcjonalności systemu, o którym mowa w ust. 4, nieodpłatnie przekazywać Prezesowi UKE:
 
-- **1)** w przypadku abonenta będącego konsumentem – dane, o których mowa w art. 161 ust. 2 pkt 4–6 i art. 169 ust. 1, nenta oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego abonenta, a w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione abonentowi – o ile abonent udostępnił te dane.
+- **1)** w przypadku abonenta będącego konsumentem – dane, o których mowa w art. 161 ust. 2 pkt 4–6 i art. 169 ust. 1,
+- **2)** w przypadku abonenta niebędącego konsumentem – numer abonenta oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego abonenta, a w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione abonentowi – o ile abonent udostępnił te dane.
 
 3. Informacją dotyczącą lokalizacji zakończenia sieci jest w przypadku:
 
@@ -231,7 +495,7 @@ source: "isap-pdf"
 
 - **61)** art. 79 otrzymuje brzmienie: „Art. 79. 1. Operator publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne, zapewnia użytkownikom końcowym swojej sieci oraz użytkownikom końcowym z innych państw członkowskich, w przypadku gdy jest to technicznie i ekonomicznie wykonalne, możliwość dostępu:
 - **1)** w Unii Europejskiej do usług wykorzystujących numery niegeograficzne oraz możliwość korzystania z takich usług oraz
-- **2)** do wszystkich numerów w Unii Europejskiej, w tym numerów uwzględnionych w krajowych planach numeracji, numerów należących do przestrzeni numerowej telefonii europejskiej, zwabezpłatnych numerów telefonicznych (UIFN), niezależnie od technologii i urządzeń wykorzystywanych przez operatora.
+- **2)** do wszystkich numerów w Unii Europejskiej, w tym numerów uwzględnionych w krajowych planach numeracji, numerów należących do przestrzeni numerowej telefonii europejskiej, zwanej dalej „ETNS”, i do powszechnej międzynarodowej sieci bezpłatnych numerów telefonicznych (UIFN), niezależnie od technologii i urządzeń wykorzystywanych przez operatora.
 
 2. Przepisu ust. 1 nie stosuje się do przypadków, gdy wywoływany abonent ograniczył połączenia przychodzące od użytkowników końcowych zlokalizowanych w poszczególnych obszarach geograficznych.
 
@@ -250,7 +514,7 @@ source: "isap-pdf"
 3. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, szczegółowe wymagania dotyczące świadczenia udogodnień dla osób niepełnosprawnych przez dostawców publicznie dostępnych usług telekomunikacyjnych, biorąc pod uwagę potrzebę zapewnienia użytkownikom końcowym będącym osobami niepełnosprawnymi dostępu równoważnego dostępowi do usług telefonicznych z jakiego korzysta większość użytkowników końcowych.”;
 
 - **63)** w art. 80:
-    - **a)** ust. 1a otrzymuje brzmienie: „1a. W przypadku usługi przedpłaconej świadczonej w ruchomej publicznej sieci telekomunikacyjnej dla abonenta, który ma przydzielony numer oraz udostępnił swoje dane, o których mowa w art. 60a nych jest dostarczany na jego żądanie i obejmuje wyłącznie usługi wykonane po złożeniu żądania przez tego abonenta. Pierwszy wykaz jest dostarczany abonentowi w terminie 14 dni od dnia złożenia przez niego żądania, a każdy kolejny w terminie do 10 dnia miesiąca kalendarzowego. Za dostarczenie wykazu może być pobierana opłata w wysokości określonej w cenniku.”,
+    - **a)** ust. 1a otrzymuje brzmienie: „1a. W przypadku usługi przedpłaconej świadczonej w ruchomej publicznej sieci telekomunikacyjnej dla abonenta, który ma przydzielony numer oraz udostępnił swoje dane, o których mowa w art. 60a ust. 1a, podstawowy wykaz wykonanych usług telekomunikacyjnych jest dostarczany na jego żądanie i obejmuje wyłącznie usługi wykonane po złożeniu żądania przez tego abonenta. Pierwszy wykaz jest dostarczany abonentowi w terminie 14 dni od dnia złożenia przez niego żądania, a każdy kolejny w terminie do 10 dnia miesiąca kalendarzowego. Za dostarczenie wykazu może być pobierana opłata w wysokości określonej w cenniku.”,
     - **b)** w ust. 5 pkt 2 otrzymuje brzmienie: „2) w przypadku usługi przedpłaconej świadczonej w ruchomej publicznej sieci telekomunikacyjnej dla abonenta, który ma przydzielony numer oraz udostępnił swoje dane, o których mowa w art. 60a ust. 1a – pierwszy wykaz jest dostarczany abonentowi w terminie 14 dni od dnia złożenia przez niego żądania, a każdy kolejny w terminie do 10 dnia miesiąca kalendarzowego.”,
     - **c)** w ust. 6 pkt 2 otrzymuje brzmienie: „2) w przypadku usługi przedpłaconej świadczonej w publicznej sieci telekomunikacyjnej dla abonenta, który udostępnił swoje dane, o których mowa w art. 60a ust. 1a – okres nie dłuższy niż 12 miesięcy poprzedzających termin złożenia przez abonenta żądania.”;
 
@@ -265,7 +529,8 @@ source: "isap-pdf"
 - **2)** utrzymanie łącza abonenckiego z zakończeniem sieci, o którym mowa w pkt 1, w gotowości do realizacji połączeń telefonicznych krajowych i międzynarodowych;
 - **3)** połączenia telefoniczne krajowe i międzynarodowe;
 - **4)** ogólnokrajową informację o numerach telefonicznych, dostępną również dla użytkowników aparatów publicznych lub innych punktów dostępowych umożliwiających komunikację głosową;
-- **5)** udostępnianie ogólnokrajowego spisu abonentów; nych lub innych punktów dostępowych umożliwiających komunikację głosową.”,
+- **5)** udostępnianie ogólnokrajowego spisu abonentów;
+- **6)** świadczenie usług telefonicznych za pomocą aparatów publicznych lub innych punktów dostępowych umożliwiających komunikację głosową.”,
     - **b)** uchyla się ust. 4,
     - **c)** w ust. 5 część wspólna otrzymuje brzmienie: „– zwanych dalej „jednostkami uprawnionymi”, przedsiębiorca wyznaczony, zgodnie z art. 82 ust. 4 albo art. 83, do świadczenia usługi, o której mowa w ust. 3 pkt 1, świadczy także usługę przyłączenia do sieci w celu zapewnienia korzystania z usługi szerokopasmowego dostępu do Internetu, z uwzględnieniem art. 100.”,
     - **d)** ust. 6 otrzymuje brzmienie: „6. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, wymaganą przepływność łącza dla usługi szerokopasmowego dostępu do Internetu jednostek uprawnionych, mając na uwadze zwiększenie dostępności usług telekomunikacyjnych na terytorium Rzeczypospolitej Polskiej oraz konieczność budowania kompetencji cyfrowych.”;
@@ -281,7 +546,8 @@ source: "isap-pdf"
 3. W ogłoszeniu o konkursie określa się:
 
 - **1)** usługę, której świadczenie jest przedmiotem konkursu, oraz ogólne wymagania dotyczące jej świadczenia;
-- **2)** obszar, na którym ma być świadczona usługa, o której mowa w pkt 1; wiązki, o których mowa w art. 91;
+- **2)** obszar, na którym ma być świadczona usługa, o której mowa w pkt 1;
+- **3)** czy w decyzji, o której mowa w ust. 4, zostaną nałożone obowiązki, o których mowa w art. 91;
 - **4)** inne wymagane informacje, o których mowa w rozporządzeniu wydanym na podstawie ust. 5.
 
 4. Prezes UKE, w drodze decyzji, wyznacza do świadczenia usługi, której świadczenie było przedmiotem konkursu, przedsiębiorcę telekomunikacyjnego, który w konkursie zaoferował najniższy prognozowany koszt netto świadczenia tej usługi, biorąc pod uwagę zdolność ekonomiczną i techniczną tego przedsiębiorcy telekomunikacyjnego do świadczenia tej usługi.
@@ -290,11 +556,234 @@ source: "isap-pdf"
 
 **Art. 83.** W przypadku braku ofert spełniających warunki konkursu na świadczenie usługi powszechnej lub poszczególnych usług wchodzących w jej skład, Prezes UKE wyznacza, w drodze decyzji, do świadczenia usługi, której świadczenie było przedmiotem konkursu, przedsiębiorcę telekomunikacyjnego świadczącego taką usługę, biorąc pod uwagę zdolność ekonomiczną i techniczną tego przedsiębiorcy do świadczenia tej usługi na danym obszarze, potrzebę wspierania równoprawnej i skutecznej konkurencji w zakresie świadczenia usług telekomunikacyjnych oraz zapewnienie dostępności tych usług.”;
 
+- **67)** po art. 83 dodaje się art. 83a w brzmieniu: „Art. 83a. Prezes UKE informuje Komisję Europejską o wyznaczeniu przedsiębiorcy telekomunikacyjnego obowiązanego do świadczenia usług, o których mowa w art. 81 ust. 3, oraz każdorazowo o nałożeniu, zniesieniu, utrzymaniu lub zmianie obowiązków regulacyjnych w stosunku do takiego przedsiębiorcy.”;
+- **68)** art. 84 otrzymuje brzmienie: „Art. 84. Prezes UKE sporządza listę przedsiębiorców wyznaczonych oraz publikuje ją na stronie podmiotowej BIP UKE, podając zakres świadczonych przez tych przedsiębiorców usług i obszar, na jakim mają obowiązek ich świadczenia.”;
+- **69)** w art. 85:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W decyzjach, o których mowa w art. 82 ust. 4 i art. 83, Prezes UKE określa w szczególności:
+
+- **1)** usługę, o której mowa w art. 81 ust. 3, do której świadczenia jest wyznaczony przedsiębiorca, oraz wymagania dotyczące świadczenia tej usługi, biorąc pod uwagę przepisy Unii Europejskiej dotyczące jakości usług;
+- **2)** obszar, na którym ma być świadczona usługa, o której mowa w pkt 1;
+- **3)** termin rozpoczęcia świadczenia usługi, o której mowa w pkt 1;
+- **4)** okres świadczenia usługi, o której mowa w pkt 1;
+- **5)** obowiązki przedsiębiorcy wyznaczonego dotyczące zakresu, formy, terminu i miejsca publikacji informacji dotyczących świadczenia usługi, o której mowa w pkt 1.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W decyzji, o której mowa w art. 82 ust. 4, Prezes UKE określa zaoferowany przez przedsiębiorcę wyznaczonego, prognozowany koszt netto świadczenia usługi, której świadczenie było przedmiotem konkursu.”;
+
+- **70)** art. 86–88 otrzymują brzmienie: „Art. 86. Przedsiębiorca wyznaczony do świadczenia usługi, o której mowa w art. 81 ust. 3, nie może odmówić zawarcia umowy o świadczenie tej usługi, jeżeli użytkownik końcowy spełni warunki wynikające z regulaminu świadczenia usługi. Przedsiębiorca wyznaczony do świadczenia usługi, o której mowa w art. 81 ust. 3 pkt 1, nie może odmówić zawarcia umowy o świadczenie usługi, o której mowa w art. 81 ust. 5.
+
 **Art. 87.** Przedsiębiorca wyznaczony zawiera, w terminie 30 dni od dnia złożenia wniosku, umowę, o której mowa w art. 86, w której określa w szczególności termin rozpoczęcia świadczenia usługi.
 
 **Art. 88.** Prezes UKE ustala, w drodze decyzji, dla każdego przedsiębiorcy wyznaczonego do świadczenia usługi wchodzącej w skład usługi powszechnej polegającej na świadczeniu usługi telefonicznej za pomocą aparatów publicznych lub innych punktów dostępowych umożliwiających komunikację głosową, minimalną liczbę aparatów publicznych lub innych punktów dostępowych umożliwiających komunikację głosową, w tym przystosowanych dla osób niepełnosprawnych, jakie powinny być dostępne na obszarze, na którym dany przedsiębiorca wyznaczony ma świadczyć tę usługę, biorąc pod uwagę stan telefonizacji oraz uzasadnione potrzeby mieszkańców na tym obszarze.”;
 
+- **71)** uchyla się art. 90;
+- **72)** w art. 91:
+    - **a)** uchyla się ust. 1,
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Prezes UKE kierując się uwarunkowaniami krajowymi może, w decyzjach, o których mowa w art. 82 ust. 4 i art. 83, nałożyć na przedsiębiorcę wyznaczonego obowiązek:
+
+- **1)** stosowania ujednoliconych taryf świadczenia usługi, do której świadczenia został wyznaczony, na obszarze świadczenia tej usługi lub
+- **2)** stosowania określonych przez Prezesa UKE maksymalnych cen połączeń w przypadku usługi, o której mowa w art. 81 ust. 3 pkt 4 i 6 lub
+- **3)** zapewnienia specjalnego pakietu cenowego.
+
+3. Przedsiębiorca, na którego nałożono obowiązek, o którym mowa w ust. 2 pkt 3, w celu zapewnienia konsumentom o niskich dochodach i o szczególnych potrzebach społecznych dostępu i korzystania z publicznie dostępnych usług oferuje specjalny pakiet cenowy, który świadczony będzie na warunkach innych niż zwykłe warunki komercyjne.”;
+
+- **73)** w art. 91a ust. 3 otrzymuje brzmienie: „3. Prezes UKE może, w drodze decyzji, w terminie 30 dni od dnia przedłożenia projektu, o którym mowa w ust. 1, lub jego zmiany zgłosić sprzeciw do projektu lub jego części, jeżeli projekt ten lub jego zmiana jest sprzeczny z decyzją, o której mowa w art. 82 ust. 4 lub art. 83.”;
+- **74)** art. 92 otrzymuje brzmienie: „Art. 92. 1. Przedsiębiorca wyznaczony jest obowiązany do przedłożenia Prezesowi UKE cennika i regulaminu świadczenia usługi, do której świadczenia został wyznaczony, w terminie 2 tygodni od wprowadzenia ich postanowień w życie i każdorazowo po dokonaniu w nich zmian.
+
+2. Prezes UKE zamieszcza cennik i regulamin, o których mowa w ust. 1, na stronie podmiotowej BIP UKE.
+
+3. Przepisu ust. 1 nie stosuje się w przypadku przedłożenia Prezesowi UKE projektu cennika i regulaminu świadczenia usług lub ich zmiany w trybie art. 48 ust. 1.”;
+
+- **75)** w art. 93:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Przedsiębiorca wyznaczony, dostarczając udogodnienia i usługi dodatkowe w stosunku do usługi, do której świadczenia został wyznaczony, lub usługi, o której mowa w art. 81 ust. 5, ustanawia warunki korzystania z nich w taki sposób, aby abonent nie był zobligowany do płacenia za udogodnienia lub usługi dodatkowe, które nie są konieczne do świadczenia zamówionej usługi.
+
+2. Przedsiębiorca wyznaczony umożliwia rozłożenie na raty opłaty za przyłączenie zakończenia sieci, o którym mowa w art. 81 ust. 3 pkt
+
+1. ”,
+
+- **b)** ust. 4 otrzymuje brzmienie: „4. Przedsiębiorca wyznaczony bezpłatnie blokuje połączenia wychodzące powyżej określonej wartości w okresie rozliczeniowym, jeżeli wartość ta została wskazana w umowie o świadczenie usług telekomunikacyjnych, a abonent nie dokonał zabezpieczenia wierzytelności wynikających z tej umowy.”,
+- **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Przedsiębiorca wyznaczony zapewnia abonentom możliwość korzystania z usług w granicach sumy przedpłaconej lub w granicach określonej przez abonenta górnej kwoty faktury.”,
+- **d)** ust. 5 otrzymuje brzmienie: „5. Przedsiębiorca wyznaczony dostarcza, na żądanie abonenta, szczegółowy, bezpłatny wykaz wykonanych na jego rzecz usług, o których mowa w art. 81 ust. 3, do świadczenia których został wyznaczony, w formie uniemożliwiającej osobom trzecim bezpośredni dostęp do informacji w nich zawartych, tak aby abonent mógł weryfikować i kontrolować opłaty ponoszone z tytułu korzystania z tych usług.”;
+- **76)** uchyla się art. 94;
+- **77)** po art. 94 dodaje się art. 94a w brzmieniu: „Art. 94a. W przypadku gdy przedsiębiorca wyznaczony zamierza zbyć środki majątkowe lokalnej sieci dostępu lub ich znaczną część, na rzecz odrębnej osoby prawnej należącej do innego właściciela, informuje on Prezesa UKE w celu zbadania przez niego wpływu takiej transakcji na zapewnianie i świadczenie usług, o których mowa w art. 81 ust. 3 pkt 1 i 3, oraz nałożenia, zmiany bądź uchylenia obowiązków regulacyjnych, o których mowa w art. 46 ust. 2. Zawiadomienia dokonuje się najpóźniej na sześć miesięcy przed planowanym przeniesieniem środków majątkowych.”;
+- **78)** w art. 95:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Przedsiębiorcy wyznaczonemu przysługuje dopłata do kosztów świadczonych przez niego usług, do których świadczenia został wyznaczony, zwana dalej „dopłatą”, w przypadku ich nierentowności.
+
+2. Dopłatę ustala Prezes UKE w wysokości kosztu netto świadczenia usługi, do której świadczenia przedsiębiorca został wyznaczony. Koszt netto świadczenia tej usługi dotyczy tylko kosztów, których przedsiębiorca wyznaczony nie poniósłby, gdyby nie miał obowiązku jej świadczenia.”, 3, kierując się obowiązującymi w tym zakresie przepisami Unii Europejskiej.”;
+
+- **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku wyznaczenia przedsiębiorcy w drodze decyzji, o której mowa w art. 82 ust. 4, dopłata nie może być wyższa niż zaoferowany w konkursie prognozowany koszt netto świadczenia usługi, do świadczenia której ten przedsiębiorca został wyznaczony.”,
+- **c)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Kalkulacja kosztu netto, o którym mowa w ust. 2, w zależności od usługi, do której świadczenia dany przedsiębiorca został wyznaczony, powinna uwzględniać:”,
+- **d)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, sposób obliczania kosztu netto usługi, o której mowa w art. 81 ust.
+- **79)** w art. 96 w ust. 1 dodaje się zdanie drugie w brzmieniu: „Prezes UKE niezwłocznie zamieszcza na stronie podmiotowej BIP UKE informację o wpłynięciu wniosku przedsiębiorcy wyznaczonego o dopłatę, z zastrzeżeniem art. 9.”;
+- **80)** art. 97 otrzymuje brzmienie: „Art. 97. Przedsiębiorcy telekomunikacyjni, których przychód z działalności telekomunikacyjnej w roku kalendarzowym, za który przysługuje dopłata, przekroczył 4 miliony złotych, są obowiązani do udziału w pokryciu dopłaty.”;
+- **81)** w art. 99 ust. 5 otrzymuje brzmienie: „5. Prezes UKE zamieszcza na stronie podmiotowej BIP UKE sprawozdanie obejmujące końcowe wyniki ustaleń dotyczące:
+- **1)** kosztów netto świadczenia usługi, o której mowa w art. 81 ust. 3;
+- **2)** badania dokumentacji;
+- **3)** udziałów przedsiębiorców telekomunikacyjnych obowiązanych do pokrycia dopłaty;
+- **4)** wysokości przekazanej dopłaty przedsiębiorcy wyznaczonemu;
+- **5)** wyceny korzyści niematerialnych dla przedsiębiorców wyznaczonych, wynikających ze świadczenia usługi powszechnej.”;
+- **82)** w art. 101:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Przedsiębiorca wyznaczony może przerwać albo w istotnym zakresie ograniczyć świadczenie usługi, do której świadczenia został wyznaczony, lub zmienić warunki świadczenia tej usługi, jeżeli zachodzą uzasadnione okoliczności uniemożliwiające spełnienie wymagań dotyczących:”,
+    - **b)** w ust. 3 pkt 1 otrzymuje brzmienie: „1) ograniczyć świadczenie usług telekomunikacyjnych w pierwszej kolejności usług niewchodzących w skład usługi powszechnej, utrzymując świadczenie usług niepowiększających zadłużenia abonenta, w tym przekazywanie połączeń do abonenta lub połączeń bezpłatnych, jeżeli abonent pozostaje w opóźnieniu z płatnością należności za wykonanie usług telekomunikacyjnych przez okres dłuższy niż jeden okres rozliczeniowy lub w przypadku wskazanym w art. 93 ust. 4 lub w art. 57 ust. 3;”;
+
+- **83)** art. 102 otrzymuje brzmienie: „Art. 102. 1. Przedsiębiorca wyznaczony, który z przyczyn nieleżących po jego stronie nie może dalej świadczyć usługi, do której świadczenia został wyznaczony, informuje Prezesa UKE o zamiarze zaprzestania świadczenia tej usługi, a także o działaniach prowadzących do zachowania ciągłości jej świadczenia.
+
+2. Przedsiębiorca wyznaczony nie może zaprzestać świadczenia usługi, do której świadczenia został wyznaczony, do czasu przejęcia jej świadczenia przez innego przedsiębiorcę wyznaczonego.”;
+
+- **84)** w art. 103: 83, jest obowiązek udostępniania ogólnokrajowego spisu abonentów, Prezes UKE określa w tej decyzji szczegółowe warunki świadczenia tej usługi, w tym formę i zakres jej świadczenia, a także stopień szczegółowości danych abonentów, które będą objęte tym spisem.”, 83, jest obowiązek świadczenia usługi ogólnokrajowej informacji o numerach telefonicznych, Prezes UKE określa w tej decyzji szczegółowe warunki świadczenia tej usługi, w tym jej zakres, a także stopień szczegółowości danych abonentów, które będą objęte tą informacją.”;
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Przedsiębiorca wyznaczony do udostępniania ogólnokrajowego spisu abonentów lub świadczenia usługi ogólnokrajowej informacji o numerach telefonicznych jest obowiązany do świadczenia tych usług wszystkim użytkownikom końcowym.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Jeżeli przedmiotem decyzji, o której mowa w art. 82 ust. 4 albo art.
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Jeżeli przedmiotem decyzji, o której mowa w art. 82 ust. 4 albo art.
+
+- **85)** w art. 105:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Za każdy dzień przerwy w świadczeniu usługi powszechnej lub usługi, o której mowa w art. 81 ust. 5, płatnej okresowo abonentowi przysługuje odszkodowanie w wysokości 1/15 średniej opłaty miesięcznej liczonej według rachunków z ostatnich trzech okresów rozliczeniowych, jednak za okres nie dłuższy niż ostatnie 12 miesięcy.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Z tytułu niedotrzymania z winy przedsiębiorcy wyznaczonego:
+
+- **1)** terminu zawarcia umowy, o którym mowa w art. 87, lub
+- **2)** określonego w umowie o świadczenie usługi powszechnej lub usługi, o której mowa w art. 81 ust. 5, terminu rozpoczęcia świadczenia tych usług – za każdy dzień przekroczenia terminu przysługuje użytkownikowi końcowemu od przedsiębiorcy wyznaczonego odszkodowanie w wysokości 1/30 określonej w umowie miesięcznej opłaty abonamentowej, stosowanej przez tego przedsiębiorcę za świadczenie usługi powszechnej lub usługi, o której mowa w art. 81 ust. 5, płatnej okresowo.”;
+- **86)** w art. 106 ust. 2 otrzymuje brzmienie: „2. Jeżeli reklamacja usługi telekomunikacyjnej nie zostanie rozpatrzona w terminie 30 dni od dnia jej złożenia, uważa się, że została ona uwzględniona. Przez rozpatrzenie reklamacji rozumie się wysłanie przed upływem tego terminu przez dostawcę publicznie dostępnych usług telekomunikacyjnych odpowiedzi o uwzględnieniu lub nieuwzględnieniu reklamacji.”;
+- **87)** art. 107 otrzymuje brzmienie: „Art. 107. 1. Prawo dochodzenia w postępowaniu sądowym lub w postępowaniach, o których mowa w art. 109 i art. 110, roszczeń określonych w ustawie, przysługuje użytkownikowi końcowemu po wyczerpaniu drogi postępowania reklamacyjnego.
+
+2. Drogę postępowania reklamacyjnego w przypadku, o którym mowa w ust. 1, uważa się za wyczerpaną, jeżeli reklamacja nie została uwzględniona lub dostawca publicznie dostępnych usług telekomunikacyjnych nie zapłacił dochodzonej należności w terminie 30 dni od dnia, w którym reklamacja usługi telekomunikacyjnej została uwzględniona.”;
+
+- **88)** w art. 111 ust. 3 otrzymuje brzmienie: „3. Rada Ministrów określi, w drodze rozporządzenia, Krajową Tablicę Przeznaczeń Częstotliwości, realizując politykę państwa w zakresie gospodarki zasobami częstotliwości, spełniania wymagań dotyczących kompatybilności elektromagnetycznej oraz telekomunikacji, z uwzględnieniem:
+- **1)** międzynarodowych przepisów radiokomunikacyjnych;
+- **2)** kierunków i celów polityki w zakresie planowania strategicznego, koordynacji i harmonizacji wykorzystania widma radiowego określonych w wieloletnich programach dotyczących polityki w zakresie widma radiowego przyjętych przez Parlament Europejski i Radę na mocy art. 8a ust. 3 dyrektywy 2002/21/WE Parlamentu Europejskiego i Rady z dnia 7 marca 2002 r. w sprawie wspólnych ram regulacyjnych sieci i usług łączności elektronicznej (dyrektywa ramowa) (Dz. Urz. WE L 108 z
+
+24. 04.2002, str. 33);
+
+- **3)** wymagań dotyczących:
+    - **a)** zapewnienia warunków do harmonijnego rozwoju służb radiokomunikacyjnych oraz dziedzin nauki i techniki, wykorzystujących zasoby częstotliwości,
+    - **b)** wdrażania nowych, efektywnych technik radiokomunikacyjnych,
+    - **c)** obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego.”;
+
+- **89)** w art. 112:
+    - **a)** w ust. 4 w pkt 6 kropkę zastępuje się średnikiem i dodaje pkt 7 i 8 w brzmieniu: „7) konieczność zapewnienia neutralności technologicznej i usługowej;
+
+- **8)** zasadę zmniejszania ograniczeń sposobu wykorzystania widma.”,
+    - **b)** ust. 7 otrzymuje brzmienie: „7. Prezes UKE publikuje na stronie podmiotowej BIP UKE informację o przystąpieniu do opracowania planu zagospodarowania określonego zakresu częstotliwości lub do opracowania jego zmiany, w tym projekt planu zagospodarowania określonego zakresu częstotliwości lub projekt jego zmiany. Przepisy o postępowaniu konsultacyjnym stosuje się.”,
+    - **c)** dodaje się ust. 8 w brzmieniu: „8. Przepisu ust. 7 nie stosuje się do planu zagospodarowania częstotliwości przeznaczonych do rozpowszechniania lub rozprowadzania programów radiofonicznych i telewizyjnych w sposób analogowy.”;
+
+- **90)** w art. 114:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Rezerwacji częstotliwości dokonuje się dla podmiotu, który spełnia wymagania określone ustawą oraz jeżeli częstotliwości objęte wnioskiem:
+
+- **1)** są dostępne;
+- **2)** zostały przeznaczone w Krajowej Tablicy Przeznaczeń Częstotliwości dla wnioskowanej służby radiokomunikacyjnej oraz plan zagospodarowania częstotliwości przewiduje ich zagospodarowanie zgodnie z wnioskiem;
+- **3)** mogą być chronione przed szkodliwymi zakłóceniami;
+- **4)** mogą być wykorzystywane przez urządzenie radiowe bez powodowania szkodliwych zaburzeń elektromagnetycznych lub kolizji z przyznanymi na rzecz innych podmiotów rezerwacjami, pozwoleniami radiowymi lub decyzjami, o których mowa w art. 144a i art. 144b;
+- **5)** mogą być wykorzystywane w sposób efektywny;
+- **6)** zostały międzynarodowo uzgodnione w zakresie i formie określonej w międzynarodowych przepisach radiokomunikacyjnych lub umowach, których Rzeczpospolita Polska jest stroną – w przypadku gdy zachodzi możliwość powodowania szkodliwych zakłóceń poza granicami Rzeczypospolitej Polskiej.”,
+    - **b)** ust. 4a otrzymuje brzmienie: „4a. Jeżeli dokonanie rezerwacji częstotliwości wymaga przeprowadzenia przetargu, aukcji, konkursu albo uzgodnień międzynarodowych, Prezes UKE wydaje decyzję w sprawie rezerwacji częstotliwości w terminie 6 tygodni od dnia ogłoszenia wyników przetargu, aukcji, konkursu albo zakończenia uzgodnień międzynarodowych.”,
+    - **c)** po ust. 4a dodaje się ust. 4b w brzmieniu: „4b. Informację o dokonaniu rezerwacji częstotliwości Prezes UKE niezwłocznie publikuje na stronie podmiotowej BIP UKE. Informacja ta zawiera nazwę podmiotu, na rzecz którego dokonano rezerwacji częstotliwości, zakres częstotliwości objętych rezerwacją oraz okres, na jaki została udzielona rezerwacja.”,
+    - **d)** ust. 5 otrzymuje brzmienie: „5. Rezerwacji częstotliwości dokonuje się na czas określony, nie dłuższy niż 15 lat, biorąc pod uwagę:
+
+- **1)** charakter usług świadczonych przez podmiot wnioskujący o rezerwację częstotliwości;
+- **2)** inwestycje konieczne dla wykorzystywania rezerwowanych częstotliwości;
+- **3)** międzynarodowe kierunki rozwoju wykorzystywania częstotliwości.”,
+    - **e)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. W przypadku, o którym mowa w ust. 6, Prezes UKE, w drodze decyzji, wydanej w trybie art. 114a, ustala warunki współkorzystania z częstotliwości w szczególności w zakresie:
+
+- **1)** zapewnienia możliwości zarządzania obsługą użytkownika końcowego przez uprawnionego przedsiębiorcę telekomunikacyjnego i podejmowania rozstrzygnięć dotyczących wykonywania usług na jego rzecz;
+- **2)** przyznawania dostępu do interfejsów, protokołów lub innych kluczowych technologii niezbędnych do zapewnienia interoperacyjności usług.”;
+- **91)** po art. 114 dodaje się art. 114a w brzmieniu: „Art. 114a. 1. W sprawach spornych dotyczących współkorzystania z częstotliwości Prezes UKE może, na wniosek użytkownika współkorzystającego z częstotliwości, w drodze postanowienia, nałożyć na użytkowników współkorzystających z częstotliwości, za wyjątkiem użytkowników wskazanych w art. 4, obowiązek podjęcia negocjacji dotyczących współkorzystania z częstotliwości, określając jednocześnie termin ich zakończenia, nie dłuższy niż 30 dni, licząc od dnia wydania postanowienia.
+
+2. W przypadku niepodjęcia negocjacji, o których mowa w ust. 1, przez podmiot do tego obowiązany lub braku zawarcia przez strony porozumienia, warunki współkorzystania z częstotliwości określa, na wniosek strony, Prezes UKE, w drodze decyzji, biorąc pod uwagę efektywne wykorzystanie częstotliwości. W przypadku częstotliwości wykorzystywanych dla celów rozpowszechniania lub rozprowadzania programów radiofonicznych lub telewizyjnych, Prezes UKE wydaje decyzję w porozumieniu z Przewodniczącym KRRiT. Niezajęcie stanowiska przez Przewodniczącego KRRiT w terminie 30 dni od dnia otrzymania projektu decyzji w sprawie współkorzystania jest równoznaczne z uzgodnieniem projektu.
+
+3. Wnioski, o których mowa w ust. 1 i 2, powinny zawierać stanowiska poszczególnych użytkowników w zakresie współkorzystania z częstotliwości, z wyszczególnieniem tych kwestii, co do których strony nie doszły do porozumienia.
+
+4. Strony są obowiązane do przedłożenia Prezesowi UKE, na jego żądanie, w terminie 14 dni, dokumentów niezbędnych do rozpatrzenia wniosku oraz swoich stanowisk wobec rozbieżności.
+
+5. W sprawach, o których mowa w ust. 1, Prezes UKE może wydać, na wniosek jednej ze stron, postanowienie, w którym określa warunki współkorzystania z częstotliwości do czasu ostatecznego rozstrzygnięcia sporu zgodnie z ust. 2.”;
+
+- **92)** w art. 115:
+    - **a)** w ust. 1: – pkt 3–5 otrzymują brzmienie: „3) obszar, na którym mogą być wykorzystywane częstotliwości;
+
+- **4)** rodzaje służby radiokomunikacyjnej;
+- **5)** termin, w jakim podmiot jest uprawniony do rozpoczęcia wykorzystywania częstotliwości;”, – uchyla się pkt 7, – pkt 9 otrzymuje brzmienie: „9) zobowiązania podmiotu podjęte w ramach przetargu, aukcji albo konkursu, o ile zostały podjęte.”,
+    - **b)** w ust. 2: – pkt 2 otrzymuje brzmienie: „2) wymagania dotyczące zapobiegania szkodliwym zaburzeniom elektromagnetycznym lub kolizjom z przyznanymi na rzecz innych podmiotów rezerwacjami częstotliwości, pozwoleniami lub decyzjami o prawie do wykorzystania częstotliwości;”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) termin, w jakim podmiot jest obowiązany rozpocząć wykorzystywanie częstotliwości;”, – uchyla się pkt 4, – dodaje się pkt 5 w brzmieniu: „5) proporcjonalne i niedyskryminujące ograniczenia sposobu wykorzystywania częstotliwości objętych rezerwacją mogące polegać na określeniu rodzaju:
+    - **a)** sieci radiowych lub rodzaju technik dostępu radiowego, które mogą być używane z wykorzystaniem tych częstotliwości, z zastrzeżeniem art. 115 ust. 1,
+    - **b)** usługi telekomunikacyjnej, która powinna być świadczona z wykorzystaniem tych częstotliwości, z zastrzeżeniem art. 115 ust. 2,
+    - **c)** usługi telekomunikacyjnej objętej zakazem świadczenia z wykorzystaniem tych częstotliwości, z zastrzeżeniem art. 115 ust. 3.”,
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W rezerwacji częstotliwości można zwolnić z obowiązku uzyskania pozwolenia radiowego, jeżeli określono warunki wykorzystywania częstotliwości, o których mowa w art. 146.”;
+
+- **93)** po art. 115 dodaje się art. 115 i art. 115 w brzmieniu: „Art. 115 . 1. Prezes UKE może określić w rezerwacji częstotliwości ograniczenie sposobu wykorzystywania objętych nią częstotliwości, o którym mowa w art. 115 ust. 2 pkt 5 lit. a, w przypadku gdy wprowadzenie takiego ograniczenia jest uzasadnione koniecznością:
+- **1)** uniknięcia szkodliwych zaburzeń elektromagnetycznych lub szkodliwych zakłóceń;
+- **2)** ochrony ludności przed oddziaływaniem pól elektromagnetycznych;
+- **3)** zapewnienia odpowiedniej jakości technicznej usługi;
+- **4)** zapewnienia jak najszerszego współużytkowania częstotliwości;
+- **5)** zagwarantowania efektywnego wykorzystania częstotliwości;
+- **6)** zapewnienia realizacji celu leżącego w interesie publicznym, w szczególności takiego jak:
+    - **a)** ochrona życia i zdrowia ludzi,
+    - **b)** wspieranie spójności społecznej, regionalnej lub terytorialnej,
+    - **c)** unikanie nieefektywnego wykorzystywania częstotliwości,
+    - **d)** promowanie różnorodności kulturowej i językowej oraz pluralizmu mediów, w szczególności poprzez świadczenie nadawczych usług radiowych i telewizyjnych.
+
+2. Ograniczenie, o którym mowa w art. 115 ust. 2 pkt 5 lit. b, Prezes UKE może określić w przypadku, gdy wprowadzenie takiego ograniczenia jest uzasadnione koniecznością realizacji celu leżącego w interesie publicznym, o którym mowa w ust. 1 pkt 6.
+
+3. Ograniczenie, o którym mowa w art. 115 ust. 2 pkt 5 lit. c, Prezes UKE może określić w przypadku, gdy jest to uzasadnione koniecznością ochrony usług związanych z zapewnieniem ochrony życia i zdrowia ludzi.
+
+4. Do decyzji o rezerwacji częstotliwości w zakresie ograniczenia sposobu wykorzystywania częstotliwości objętych rezerwacją, o których mowa w art. 115 ust. 2 pkt 5, stosuje się przepisy o postępowaniu konsultacyjnym. W przypadku przetargu, aukcji albo konkursu przepis stosuje się do projektu decyzji.
+
 **Art. 115².** Podmiot, o którym mowa w art. 15 ust. 1 ustawy z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z późn. zm. ), wykonujący zadania z zakresu łączności kolejowej w ramach Europejskiego Systemu Zarządzania Ruchem Kolejowym (ERTMS) na terytorium Rzeczypospolitej Polskiej wykorzystuje częstotliwości do wykonywania tych zadań na podstawie decyzji o rezerwacji częstotliwości wydanej przez Prezesa UKE po uzgodnieniu z ministrem właściwym do spraw transportu. Przepisu art. 116 ust. 1 nie stosuje się.”;
+
+- **94)** art. 116 otrzymuje brzmienie: „Art. 116. 1. W przypadku braku dostatecznych zasobów częstotliwości podmiot, dla którego zostanie dokonana rezerwacja częstotliwości, jest wyłaniany w drodze:
+- **1)** konkursu – w przypadku rezerwacji częstotliwości na cele rozpowszechniania w sposób cyfrowy lub rozprowadzania programów radiofonicznych lub telewizyjnych;
+- **2)** przetargu albo aukcji – w pozostałych przypadkach.
+
+2. Prezes UKE ogłasza na stronie podmiotowej BIP UKE informację o zajętych zasobach częstotliwości oraz aktualizuje ją nie rzadziej niż raz w miesiącu.
+
+3. W przypadku wpłynięcia wniosku o rezerwację częstotliwości, która nie została ujęta w informacji, o której mowa w ust. 2, Prezes UKE ogłasza na stronie podmiotowej BIP UKE informację o dostępności częstotliwości i wyznacza zainteresowanym podmiotom termin 14 dni na zgłoszenie zainteresowania rezerwacją częstotliwości oraz informuje o tym wnioskodawcę. Jeżeli w terminie wyznaczonym przez Prezesa UKE zgłoszone zostanie na piśmie lub drogą elektroniczną zainteresowanie przekraczające dostępne zasoby częstotliwości, oznacza to brak dostatecznych zasobów częstotliwości.
+
+4. Zgłoszenie zainteresowania rezerwacją częstotliwości, o którym mowa w ust. 3 w zdaniu drugim, nie wymaga złożenia wniosku o rezerwację częstotliwości.
+
+5. Termin zakończenia przetargu, aukcji albo konkursu nie może być dłuższy niż 8 miesięcy od dnia wpłynięcia wniosku, o którym mowa w ust. 3 w zdaniu pierwszym.
+
+6. Przetarg, aukcję i konkurs przeprowadza Prezes UKE.
+
+7. Przetarg, aukcja oraz konkurs są postępowaniami odrębnymi od postępowania w sprawie rezerwacji częstotliwości. Do przetargu, aukcji i konkursu nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+8. Prezes UKE dokonuje rezerwacji częstotliwości na kolejny okres na wniosek podmiotu, który w czasie wykorzystywania przedmiotowych częstotliwości nie naruszył rażąco warunków wykorzystywania częstotliwości określonych w ustawie, przepisach wykonawczych i decyzji o rezerwacji częstotliwości, a w przypadku nadawcy – także jeżeli posiada koncesję na kolejny okres, po przeprowadzeniu postępowania konsultacyjnego w tej sprawie, z zastrzeżeniem ust. 9 oraz art. 114 ust. 3. Przy udzielaniu rezerwacji częstotliwości na kolejny okres przetargu, aukcji ani konkursu nie przeprowadza się.
+
+9. Prezes UKE w porozumieniu z Prezesem UOKiK może, w drodze decyzji, odmówić rezerwacji częstotliwości na kolejny okres, jeżeli przemawia za tym potrzeba zapewnienia równoważnej i skutecznej konkurencji lub istotnego zwiększenia efektywności wykorzystania częstotliwości, w szczególności w przypadku gdy dokonanie rezerwacji częstotliwości na kolejny okres mogłoby doprowadzić do nadmiernego skupienia częstotliwości przez dany podmiot lub grupę kapitałową, w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331, z późn. zm. ), w której znajduje się dany podmiot. W przypadku wydania decyzji o odmowie rezerwacji częstotliwości na kolejny okres stosuje się ust. 1–7.
+
+10. Wniosek, o którym mowa w ust. 8, należy złożyć nie wcześniej niż 12 miesięcy przed upływem okresu wykorzystywania częstotliwości i nie później niż 6 miesięcy przed upływem tego okresu.
+
+11. Wniosek złożony wcześniej niż 12 miesięcy przed upływem okresu wykorzystywania częstotliwości Prezes UKE pozostawia bez rozpoznania. Do wniosku złożonego później niż 6 miesięcy przed upływem okresu wykorzystywania częstotliwości nie stosuje się ust. 8.
+
+12. Prezes UKE może, z własnej inicjatywy, ogłosić przetarg, aukcję albo konkurs na rezerwację częstotliwości w przypadku posiadania wiedzy o zainteresowaniu dostępnymi zasobami częstotliwości, które przekracza dostępne zasoby częstotliwości.”;
+
+- **95)** po art. 116 dodaje się art. 116a w brzmieniu: „Art. 116a. 1. W przypadku wystąpienia przez podmiot, który uzyskał rezerwację częstotliwości, z wnioskiem o zmianę rezerwacji w celu optymalizacji wykorzystania częstotliwości lub ich ochrony przed szkodliwymi zakłóceniami, przepisu art. 116 ust. 1 nie stosuje się, chyba że wniosek dotyczy zmiany rezerwacji w zakresie:
+- **1)** rozszerzenia zakresu częstotliwości objętych rezerwacją;
+- **2)** rozszerzenia obszaru rezerwacji.
+
+2. Jeżeli wniosek dotyczy zmiany rezerwacji częstotliwości w zakresie, o którym mowa w ust. 1 pkt 1 lub pkt 2, Prezes UKE niezwłocznie publikuje na stronie podmiotowej BIP UKE informację o złożeniu wniosku, wyznaczając termin 14 dni na wyrażenie zainteresowania rezerwacją częstotliwości w zakresie wskazanym w ust. 1 pkt 1 lub pkt 2. Zgłoszenie zainteresowania uzyskaniem rezerwacji częstotliwości nie jest równoznaczne z obowiązkiem wzięcia udziału w przetargu, aukcji albo konkursie.
+
+3. W przypadku gdy zgłosi się co najmniej jeden podmiot wyrażający zainteresowanie, o którym mowa w ust. 2, Prezes UKE w terminie 7 dni od dnia otrzymania zgłoszenia zawiadamia wnioskodawcę o konieczności przeprowadzenia przetargu, aukcji albo konkursu. W przypadku niewycofania wniosku przez wnioskodawcę w terminie 30 dni od dnia otrzymania informacji, Prezes UKE ogłasza przetarg, aukcję albo konkurs. Przepis art. 123 ust. 6 pkt 4 stosuje się odpowiednio.
+
+4. Do przetargu, aukcji albo konkursu, o których mowa w ust. 3, stosuje się przepisy art. 116 ust. 5–7 i art. 118–119, przy czym podmioty uczestniczące w przetargu, aukcji albo konkursie, inne niż podmiot wnioskujący o zmianę rezerwacji częstotliwości, występują z wnioskiem o dokonanie na ich rzecz rezerwacji częstotliwości objętej przetargiem, aukcją albo konkursem, a podmiot wnioskujący o zmianę rezerwacji częstotliwości objętej przetargiem, aukcją albo konkursem występuje z wnioskiem o wydanie decyzji zmieniającej rezerwację częstotliwości dokonanej na rzecz tego podmiotu. Przepis art. 123 ust. 6 pkt 5 stosuje się odpowiednio.”;
+
+- **96)** w art. 118:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Przetarg, aukcję albo konkurs ogłasza się niezwłocznie po zakończeniu postępowania konsultacyjnego w tej sprawie.
+
+2. Ogłoszenie o przetargu, aukcji albo konkursie publikuje się na stronie podmiotowej BIP UKE. W ogłoszeniu o przetargu, aukcji i konkursie określa się przedmiot i zakres przetargu, aukcji albo konkursu, warunki uczestnictwa oraz kryteria oceny ofert zgodnie z art. 118a ust. 1, 2a i 3.”,
+
+- **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Prezes UKE może odwołać przetarg, aukcję albo konkurs w terminie na złożenie ofert określonym w ogłoszeniu o przetargu, aukcji albo konkursie, jeżeli taka możliwość została zastrzeżona w treści ogłoszenia. Informację o odwołaniu przetargu, aukcji albo konkursu wraz ze wskazaniem przyczyn Prezes UKE zamieszcza na stronie podmiotowej BIP UKE. Prezes UKE nie udziela informacji o podmiotach, które złożyły oferty w odwołanym przetargu, aukcji albo konkursie.
+
+2b. Oferty złożone w ramach odwołanego przetargu, aukcji albo konkursu, zwracane są bez otwierania. Zwrot wniesionego wadium następuje w terminie 7 dni od dnia odwołania przetargu albo aukcji.”,
+
+- **c)** ust. 3 i 4 otrzymują brzmienie: „3. Wraz z ogłoszeniem o przetargu, aukcji albo konkursie Prezes UKE publikuje na stronie podmiotowej BIP UKE dokumentację przetargową, aukcyjną albo konkursową, zwaną dalej „dokumentacją”.
+
+4. Prezes UKE, z zastrzeżeniem ust. 4a i 5, określa w dokumentacji warunki uczestnictwa w przetargu, aukcji albo konkursie oraz wymagania, jakim powinna odpowiadać oferta, a także kryteria oceny ofert. Prezes UKE może określić w dokumentacji minimum kwalifikacyjne.”,
+
+- **d)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Określając warunki uczestnictwa w aukcji, Prezes UKE może wskazać zasoby częstotliwości o właściwościach odpowiadających częstotliwościom z zakresu, którego dotyczy aukcja, posiadanie których wyłącza od udziału w aukcji podmiot dysponujący tym zasobem lub podmioty z grupy kapitałowej, w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, dysponującej tym zasobem.”,
+- **e)** ust. 6 otrzymuje brzmienie: „6. W dokumentacji określa się, które części oferty uczestnika przetargu, aukcji albo konkursu będą stanowiły zobowiązania, o których mowa w art. 115 ust. 1 pkt 9.”;
+- **97)** w art. 118a:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Kryterium oceny ofert w ramach aukcji jest wysokość kwoty zadeklarowanej przez uczestnika aukcji.”,
+    - **b)** dodaje się ust. 5 w brzmieniu: „5. Badanie ofert w przetargu, aukcji albo konkursie odbywa się w dwóch etapach.”;
+
+- **98)** art. 118b–118d otrzymują brzmienie: „Art. 118b. 1. Podmiotem wyłonionym, o którym mowa w art. 116 ust. 1, jest uczestnik przetargu, aukcji albo konkursu, który:
+- **1)** spełnił warunki uczestnictwa w przetargu, aukcji albo konkursie;
+- **2)** osiągnął minimum kwalifikacyjne, jeżeli zostało określone w dokumentacji;
+- **3)** na liście, o której mowa w art. 118c ust. 1, zajął najwyższą pozycję bądź też – w przypadku kiedy przetarg, aukcja albo konkurs dotyczy więcej niż jednej rezerwacji częstotliwości – pozycję nie niższą niż liczba rezerwacji częstotliwości, których przetarg, aukcja albo konkurs dotyczy.
+
+2. W przypadku rezygnacji z rezerwacji częstotliwości przed jej dokonaniem na rzecz podmiotu wyłonionego, w tym niezłożenia wniosku, o którym mowa w art. 118c ust. 4, lub wystąpienia po stronie podmiotu wyłonionego okoliczności, o których mowa w art. 123 ust. 6 pkt 1 i 2, podmiotem wyłonionym staje się uczestnik przetargu, aukcji albo konkursu zajmujący kolejną pozycję na liście, o której mowa w art. 118c ust. 1, i spełniający warunki, o których mowa w ust. 1 pkt 1 i 2.
 
 **Art. 118c.**
 
@@ -319,7 +808,9 @@ source: "isap-pdf"
 5. Czynności, o których mowa w ust. 4, przeprowadza się:
 
 - **1)** w oparciu o warunki uczestnictwa w przetargu, aukcji albo konkursie, wymagania, jakim powinna odpowiadać oferta oraz kryteria oceny ofert, określone przed unieważnieniem przetargu w ogłoszeniu o przetargu, aukcji albo konkursie oraz dokumentacji;
-- **2)** w stosunku do ofert złożonych w terminie przed unieważnieniem przetargu, aukcji albo konkursu. których mowa w ust. 4, Prezes UKE ocenia oferty i zasięga opinii Prezesa UOKiK w stosunku do tych ofert.
+- **2)** w stosunku do ofert złożonych w terminie przed unieważnieniem przetargu, aukcji albo konkursu.
+
+6. W przypadku gdy istnieje potrzeba przeprowadzenia czynności, o których mowa w ust. 4, Prezes UKE ocenia oferty i zasięga opinii Prezesa UOKiK w stosunku do tych ofert.
 
 7. Zmiana wyników przetargu, aukcji albo konkursu będąca konsekwencją unieważnienia przetargu, aukcji albo konkursu stanowi podstawę wznowienia postępowania w sprawie rezerwacji częstotliwości dokonanej po przeprowadzeniu tego przetargu, aukcji albo konkursu.
 
@@ -339,7 +830,9 @@ source: "isap-pdf"
 
 - **100)** art. 119 i art. 120 otrzymują brzmienie: „Art. 119. 1. W ogłoszeniu o przetargu albo aukcji określa się również wysokość wadium.
 
-2. Wysokość wadium nie może być niższa niż 5% opłaty rocznej za prawo do dysponowania częstotliwością, o której mowa w art. 185 ust. 4, i wyższa niż 200% tej opłaty, jednakże nie niższa niż 500 złotych. W przypadku przetargu i aukcji na kilka rezerwacji – wysokość wadium i obowiązek wpłaty dotyczą każdej rezerwacji. składanie ofert, niezadeklarowanie kwoty pierwszego postąpienia w aukcji lub rezygnacja przez podmiot wyłoniony, o którym mowa w art. 118b ust. 1 lub 2, z uzyskania rezerwacji częstotliwości, w tym niezłożenie wniosku, o którym mowa w art. 118c ust. 4, powoduje utratę wadium.
+2. Wysokość wadium nie może być niższa niż 5% opłaty rocznej za prawo do dysponowania częstotliwością, o której mowa w art. 185 ust. 4, i wyższa niż 200% tej opłaty, jednakże nie niższa niż 500 złotych. W przypadku przetargu i aukcji na kilka rezerwacji – wysokość wadium i obowiązek wpłaty dotyczą każdej rezerwacji.
+
+3. Wycofanie oferty z przetargu albo aukcji po upływie terminu na składanie ofert, niezadeklarowanie kwoty pierwszego postąpienia w aukcji lub rezygnacja przez podmiot wyłoniony, o którym mowa w art. 118b ust. 1 lub 2, z uzyskania rezerwacji częstotliwości, w tym niezłożenie wniosku, o którym mowa w art. 118c ust. 4, powoduje utratę wadium.
 
 4. W przypadku gdy uczestnik przetargu albo aukcji został podmiotem wyłonionym dla więcej niż jednej rezerwacji, przepis ust. 3 stosuje się odpowiednio do każdej oferty.
 
@@ -348,6 +841,128 @@ source: "isap-pdf"
 6. Wadium wniesione przez uczestnika przetargu albo aukcji, który spełnił warunki uczestnictwa w przetargu albo aukcji oraz osiągnął minimum kwalifikacyjne, jeżeli zostało określone w dokumentacji, podlega zwrotowi w terminie 14 dni od dnia doręczenia decyzji o dokonaniu rezerwacji częstotliwości dla podmiotu wyłonionego, a w przypadku uczestnika przetargu albo aukcji, który nie spełnił warunków uczestnictwa w przetargu albo aukcji lub nie osiągnął minimum kwalifikacyjnego – w terminie 14 dni od dnia ogłoszenia wyników przetargu albo aukcji albo uznania ich za nierozstrzygnięte.
 
 **Art. 120.** Minister właściwy do spraw łączności określi, w drodze rozporządzenia, tryb ogłaszania przetargu, aukcji oraz konkursu zapewniający właściwe poinformowanie podmiotów zainteresowanych uzyskaniem rezerwacji częstotliwości, a także:
+
+- **1)** szczegółowe wymagania co do treści ogłoszenia i zawartości dokumentacji,
+- **2)** warunki i tryb organizowania, przeprowadzania i zakończenia przetargu, aukcji oraz konkursu, w tym:
+    - **a)** powoływania i pracy komisji przetargowej, komisji aukcyjnej oraz komisji konkursowej,
+    - **b)** sposób wpłaty i zwrotu wadium – w przypadku przetargu oraz aukcji – kierując się potrzebą zapewnienia obiektywnych, przejrzystych i niedyskryminujących żadnego uczestnika warunków przetargu, aukcji oraz konkursu, jak również przejrzystych warunków podejmowania rozstrzygnięć.”;
+
+- **101)** w art. 122:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Z wyłączeniem rezerwacji częstotliwości na cele rozpowszechniania programów radiofonicznych lub telewizyjnych w sposób analogowy, Prezes UKE dokonuje zmiany podmiotu dysponującego rezerwacją częstotliwości, jeżeli:
+
+- **1)** podmiot dysponujący rezerwacją złoży wniosek o zmianę podmiotu dysponującego rezerwacją, w którym wskaże podmiot, który będzie dysponował rezerwacją w wyniku tej zmiany,
+- **2)** podmiot wskazany we wniosku, o którym mowa w pkt 1, wyrazi zgodę na przejęcie uprawnień i obowiązków wynikających ze zmiany podmiotu dysponującego rezerwacją oraz
+- **3)** podmiot wskazany we wniosku, o którym mowa w pkt 1, spełnia wymagania określone ustawą.”,
+    - **b)** ust. 5 i 6 otrzymują brzmienie: „5. Zmiany podmiotu dysponującego rezerwacją częstotliwości dokonaną w drodze przetargu, aukcji albo konkursu Prezes UKE dokonuje po zasięgnięciu opinii Prezesa UOKiK w sprawie zachowania warunków konkurencji.
+
+6. Decyzję w sprawie zmiany podmiotu dysponującego rezerwacją częstotliwości na cele rozpowszechniania w sposób cyfrowy lub rozprowadzania programów radiofonicznych lub telewizyjnych, Prezes UKE podejmuje w porozumieniu z Przewodniczącym KRRiT.”,
+
+- **c)** dodaje się ust. 8 w brzmieniu: „8. Prezes UKE ogłasza niezwłocznie na stronie podmiotowej BIP UKE informację o wydaniu decyzji o zmianie podmiotu dysponującego rezerwacją częstotliwości obejmującą nazwę (firmę) podmiotu, na rzecz którego przeniesiono rezerwację częstotliwości, zakres częstotliwości, obszar objęty rezerwacją oraz okres obowiązywania rezerwacji.”;
+- **102)** po art. 122 dodaje się art. 122 w brzmieniu: „Art. 122 . 1. Podmiot dysponujący rezerwacją częstotliwości może częstotliwości objęte rezerwacją wydzierżawić lub przekazać do użytkowania na podstawie innego tytułu prawnego na rzecz innego podmiotu.
+
+2. W przypadku, o którym mowa w ust. 1, podmiot, na rzecz którego dokonano rezerwacji częstotliwości, zawiadamia Prezesa UKE, a w przypadku częstotliwości przeznaczonych na cele rozpowszechniania lub rozprowadzania programów radiofonicznych lub telewizyjnych – także Przewodniczącego KRRiT, o wydzierżawieniu częstotliwości lub przekazaniu ich do użytkowania, nie później niż w terminie 14 dni od dnia zawarcia umowy.
+
+3. W zawiadomieniu, o którym mowa w ust. 2, określa się podmiot, na rzecz którego wydzierżawiono lub któremu przekazano do użytkowania częstotliwości objęte rezerwacją, jego adres lub siedzibę oraz okres, na jaki umowa została zawarta. Jeżeli umowa dotyczy udostępnienia części zakresu częstotliwości objętych rezerwacją lub części obszaru, na którym mogą być wykorzystywane częstotliwości, zawiadomienie powinno również określać:
+
+- **1)** zakres częstotliwości, którymi będzie dysponował podmiot wskazany w zawiadomieniu lub
+- **2)** obszar, na którym będą mogły być wykorzystywane częstotliwości przez podmiot wskazany w zawiadomieniu.
+
+4. Podmiot, któremu częstotliwości zostały wydzierżawione lub przekazane do użytkowania, obowiązany jest wykorzystywać je zgodnie z przepisami ustawy oraz wymogami określonymi w rezerwacji częstotliwości.
+
+5. Prezes UKE może, w drodze decyzji, zmienić warunki wykorzystywania częstotliwości lub zakazać ich wykorzystywania przez podmiot, o którym mowa w ust. 4, w przypadku:
+
+- **1)** zaistnienia okoliczności, o których mowa w art. 123 ust. 1 pkt 3 i 8;
+- **2)** gdy wykorzystywanie tych częstotliwości przez ten podmiot mogłoby doprowadzić do zakłócenia konkurencji, w szczególności poprzez nadmierne skupienie częstotliwości przez dany podmiot lub przez grupę kapitałową, w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów – w tym zakresie Prezes UKE zasięga opinii Prezesa UOKiK.
+
+6. W przypadku częstotliwości przeznaczonych na potrzeby rozpowszechniania lub rozprowadzania programów radiofonicznych lub telewizyjnych, Prezes UKE wydaje decyzję, o której mowa w ust. 5 pkt 2, w porozumieniu z Przewodniczącym KRRiT.
+
+7. Przepis ust. 2 stosuje się odpowiednio w przypadku wygaśnięcia lub rozwiązania umowy o wydzierżawienie częstotliwości lub ich przekazanie do użytkowania na rzecz innego podmiotu.
+
+8. Prezes UKE niezwłocznie ogłasza na stronie podmiotowej BIP UKE treść zawiadomienia, o którym mowa w ust. 2, oraz w przypadku podjęcia decyzji, o której mowa w ust. 5, informację o jej treści.
+
+9. Podmiot, któremu częstotliwości zostały wydzierżawione lub przekazane do użytkowania i któremu wydano decyzję o zakazie wykorzystywania częstotliwości, o której mowa w ust. 5, nie może ubiegać się o wydanie pozwolenia radiowego z wykorzystaniem tych częstotliwości.”;
+
+- **103)** w art. 123:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) stwierdzenia, że używanie urządzenia radiowego zgodnie z rezerwacją powoduje szkodliwe zakłócenia lub szkodliwe zaburzenia elektromagnetyczne;”, – pkt 4 otrzymuje brzmienie: „4) nierozpoczęcia wykorzystywania częstotliwości objętych rezerwacją w terminie, o którym mowa w art. 115 ust. 2 pkt 2a, z przyczyn leżących po stronie podmiotu dysponującego rezerwacją częstotliwości;”,
+    - **b)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Niezależnie od przesłanek, o których mowa w ust. 1–2a, Prezes UKE zmienia rezerwację częstotliwości w zakresie ograniczeń, o których mowa w art. 115 ust. 2 pkt 5, jeżeli nie zachodzi konieczność utrzymywania tych ograniczeń, w szczególności gdy wynika to z przeglądu, o którym mowa w art. 192 ust. 4.”,
+    - **c)** w ust. 6 pkt 4 i 5 otrzymują brzmienie: „4) zachodzi konieczność przeprowadzenia przetargu, aukcji albo konkursu, a wniosek o rezerwację częstotliwości złożony został przed ogłoszeniem przetargu, aukcji albo konkursu;
+
+- **5)** w przetargu, aukcji albo konkursie podmiot nie został wyłoniony jako ten, dla którego zostanie dokonana rezerwacja częstotliwości.”,
+    - **d)** w ust. 7 pkt 3 otrzymuje brzmienie: „3) zakłócenia pracy urządzeń lub sieci telekomunikacyjnych;”,
+    - **e)** ust. 10 otrzymuje brzmienie: „10. Organy, o których mowa w ust. 8, zajmują stanowisko w terminie 21 dni od dnia wystąpienia o opinię lub dnia wystąpienia z wnioskiem, o których mowa w ust. 8.”,
+    - **f)** dodaje się ust. 12 w brzmieniu: „12. Rezerwacja częstotliwości na rozpowszechnianie programów radiofonicznych lub telewizyjnych udzielona w celu wykonywania uprawnień wynikających z koncesji na rozpowszechnianie tych programów wygasa w przypadku cofnięcia przez Przewodniczącego KRRiT tej koncesji lub jej wygaśnięcia.”;
+
+- **104)** w art. 126:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Prezes UKE, w drodze decyzji, przydziela numerację, zgodnie z planami numeracji krajowej dla sieci publicznych, przedsiębiorcom telekomunikacyjnym, jednostkom samorządu terytorialnego prowadzącym działalność w zakresie telekomunikacji niebędącym przedsiębiorcami telekomunikacyjnymi i podmiotom, o których mowa w art. 4 pkt 1, 2, 4 i 8, na ich wniosek.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Przetarg przeprowadza Prezes UKE. Ogłoszenie o przetargu publikuje w prasie codziennej o zasięgu ogólnokrajowym oraz na stronie podmiotowej BIP UKE.”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. Do przetargu stosuje się odpowiednio przepisy art. 118 ust. 1, 2 i 4, art. 118b, art. 118c ust. 1, art. 118d ust. 1–3 oraz art. 118e.”,
+    - **d)** ust. 7 otrzymuje brzmienie: „7. Przydział numeracji może określać warunki wykorzystywania lub udostępniania numeracji, w szczególności:
+
+- **1)** usługę telekomunikacyjną, dla której przydzielona numeracja ma być wykorzystywana, z podaniem wymogów związanych ze świadczeniem usługi oraz zasad taryfowych i cen maksymalnych;
+- **2)** zobowiązania przedsiębiorcy, któremu przydzielono numerację, przyjęte podczas procedury przetargowej, o której mowa w ust. 3 pkt 2;
+- **3)** obowiązek niedyskryminującego dostępu do usług telekomunikacyjnych z wykorzystaniem numeracji przydzielonej innym przedsiębiorcom.”,
+    - **e)** ust. 12 i 13 otrzymują brzmienie: „12. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, odrębnie dla każdej ze spraw:
+
+- **1)** plan numeracji krajowej dla publicznych sieci telekomunikacyjnych, w których świadczone są publicznie dostępne usługi telefoniczne, określając w szczególności zakres planu oraz formaty numerów,
+- **2)** szczegółowe wymagania dotyczące gospodarowania numeracją w publicznych sieciach telekomunikacyjnych – uwzględniając obecne i prognozowane potrzeby przedsiębiorców telekomunikacyjnych oraz użytkowników, w tym służb ustawowo powołanych do niesienia pomocy, ustalenia przepisów międzynarodowych, w szczególności dotyczące długoterminowych, ogólnoeuropejskich planów numeracji, a także postanowienia umów, których Rzeczpospolita Polska jest stroną.
+
+13. Minister właściwy do spraw łączności może określić, w drodze rozporządzenia, plany numeracji krajowej dla publicznych sieci telekomunikacyjnych innych niż publiczne sieci telekomunikacyjne, w których świadczone są publicznie dostępne usługi telefoniczne, a także szczegółowe wymagania dotyczące zasad adresowania dla właściwego kierowania połączeń, numeracji punktów sygnalizacyjnych oraz tworzenia i udostępniania znaków identyfikujących abonenta, uwzględniając obecne i prognozowane potrzeby przedsiębiorców telekomunikacyjnych oraz użytkowników, ustalenia przepisów międzynarodowych, w szczególności dotyczące długoterminowych, ogólnoeuropejskich planów numeracji, a także postanowienia umów, których Rzeczpospolita Polska jest stroną.”;
+
+- **105)** w art. 128 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Podmiot udostępniający przydzieloną numerację przekazuje Prezesowi UKE informacje o zakresach numeracji udostępnionych w trybie, o którym mowa w ust. 1, w terminie 14 dni od dnia udostępnienia.”;
+- **106)** w art. 129 dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 i 3 w brzmieniu: „2. Numery zaczynające się od 116 ustala się jako przeznaczone do świadczenia usług o walorze społecznym, a numer 116000 jako numer infolinii umożliwiającej zgłaszanie przypadków zaginięcia dzieci.
+
+3. Minister właściwy do spraw łączności prowadzi działania w zakresie zwiększania świadomości społecznej i wiedzy na temat numeru 116.”;
+
+- **107)** w art. 139 po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Prezes UKE może wezwać przedsiębiorcę telekomunikacyjnego do przedstawienia informacji w sprawie warunków zapewnienia dostępu, o którym mowa w ust. 1.
+
+1b. Po przedstawieniu informacji, o której mowa w ust. 1a, Prezes UKE, kierując się potrzebą zapewnienia skutecznej konkurencji, może, w drodze decyzji, określić warunki zapewnienia dostępu, o którym mowa w ust. 1.
+
+1c. Przedsiębiorca telekomunikacyjny, dla którego została wydana decyzja w sprawie określenia warunków zapewnienia dostępu, jest obowiązany do zawierania umów, o których mowa w ust. 2, na warunkach nie gorszych niż określone w tej decyzji.”;
+
+- **108)** w art. 143: 122¹, o ile nie została wydana decyzja, o której mowa w ust. 5 tego artykułu, może żądać wydania pozwolenia dotyczącego wykorzystania zasobu częstotliwości objętego rezerwacją częstotliwości w okresie jej obowiązywania.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Z zastrzeżeniem art. 144, art. 144a i art. 144b, używanie urządzenia radiowego wymaga posiadania pozwolenia radiowego, zwanego dalej „pozwoleniem”.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Podmiot posiadający rezerwację częstotliwości lub podmiot przez niego upoważniony lub podmiot, któremu częstotliwości zostały wydzierżawione lub przekazane do użytkowania zgodnie z art.
+    - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W przypadku wygaśnięcia lub rozwiązania umowy o wydzierżawienie częstotliwości lub umowy o przekazanie częstotliwości do użytkowania, o których mowa w art. 122¹, Prezes UKE stwierdza wygaśnięcie pozwolenia wydanego zgodnie z ust. 4.”;
+
+- **109)** w art. 144 ust. 2 i 3 otrzymują brzmienie: „2. Nie wymaga pozwolenia używanie urządzenia radiowego nadawczego lub nadawczo-odbiorczego:
+- **1)** używanego przez zagraniczny statek powietrzny, morski lub statek żeglugi śródlądowej, zgodnie z międzynarodowymi przepisami radiokomunikacyjnymi, jeżeli urządzenie zostało dopuszczone do używania przez właściwy organ;
+- **2)** używanego, zgodnie z przepisami międzynarodowymi, w służbie amatorskiej przez cudzoziemca oraz obywatela polskiego stale rezydującego za granicą podczas pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli jednorazowo pobyt taki nie jest dłuższy niż 90 dni;
+- **3)** końcowego:
+    - **a)** dołączanego do zakończenia sieci telekomunikacyjnej, z wyłączeniem urządzeń stosowanych w służbie lotniczej, morskiej lub żeglugi śródlądowej,
+    - **b)** służącego do utrzymywania łączności z przebywającym krótkookresowo na terytorium Rzeczypospolitej Polskiej lub znajdującym się na nim w tranzycie, zagranicznym pojazdem, statkiem powietrznym, morskim lub statkiem żeglugi śródlądowej, przytwierdzonego w sposób trwały do tego pojazdu lub statku, wykorzystującego międzynarodowo uzgodnione zakresy częstotliwości;
+
+- **4)** wykorzystującego zakresy częstotliwości zarezerwowane na rzecz podmiotu uprawnionego do dysponowania częstotliwością, o ile rezerwacja częstotliwości przewiduje zwolnienie z obowiązku uzyskania pozwolenia i określa warunki wykorzystywania częstotliwości;
+- **5)** będącego urządzeniem klasy 1, o którym mowa w art. 154 ust. 3.
+
+3. Minister właściwy do spraw łączności może, w drodze rozporządzenia, rozszerzyć zakres urządzeń radiowych nadawczych lub nadawczoodbiorczych, które mogą być używane bez pozwolenia, kierując się zasadą zwiększania liczby rodzajów takich urządzeń, przy uwzględnieniu potrzeby harmonijnego gospodarowania częstotliwościami, określając:
+
+- **1)** warunki używania urządzeń radiowych nadawczych lub nadawczo-odbiorczych, które mogą być używane bez pozwolenia, w szczególności:
+    - **a)** zakresy wykorzystywanych przez nie częstotliwości,
+    - **b)** maksymalną moc promieniowaną lub maksymalne natężenie pola magnetycznego,
+    - **c)** obszar używania tych urządzeń;
+
+- **2)** rodzaje służb radiokomunikacyjnych.”;
+- **110)** po art. 144a dodaje się art. 144b–144d w brzmieniu: „Art. 144b. 1. Prezes UKE, w drodze decyzji, na wniosek zainteresowanego podmiotu, może zezwolić na czasowe używanie urządzenia radiowego nadawczego lub nadawczo-odbiorczego w celu przeprowadzenia badań, testów lub eksperymentów, związanych z wprowadzaniem nowych technologii, pod warunkiem przedstawienia celu oraz harmonogramu prowadzenia tych badań, testów lub eksperymentów.
+
+2. Decyzję, o której mowa w ust. 1, dotyczącą używania urządzeń radiowych służących do rozprowadzania lub rozpowszechniania programów radiofonicznych lub telewizyjnych, Prezes UKE wydaje w porozumieniu z Przewodniczącym KRRiT.
+
+3. Stroną postępowania w sprawie o wydanie decyzji, o której mowa w ust. 1, jest także podmiot dysponujący rezerwacją częstotliwości.
+
+4. Prezes UKE, w drodze decyzji, odmawia zezwolenia albo cofa zezwolenie, jeżeli wystąpi jedna z okoliczności, o których mowa w art. 123 ust. 7 pkt 1–3.
+
+5. Zezwolenie nie może być wydane na okres dłuższy niż rok.
+
+6. Zezwolenie może być na wniosek zainteresowanego podmiotu jednokrotnie przedłużone na okres nie dłuższy niż rok. Prezes UKE odmawia przedłużenia zezwolenia w przypadku nieprzedłożenia w terminie sprawozdania, o którym mowa w ust. 7.
+
+7. Podmiot, który uzyskał zezwolenie, obowiązany jest do przedłożenia Prezesowi UKE sprawozdania z przeprowadzonych badań, testów lub eksperymentów, w terminie nie dłuższym niż 14 dni od dnia ich zakończenia.
+
+8. Sprawozdanie, o którym mowa w ust. 7, z zastrzeżeniem przepisów o ochronie własności przemysłowej i intelektualnej, powinno zawierać w szczególności:
+
+- **1)** określenie urządzeń radiowych wykorzystanych w badaniach, testach lub eksperymentach, oraz ich parametry;
+- **2)** opis metodyki badań, testów lub eksperymentów i ich wyniki;
+- **3)** wnioski wynikające z przeprowadzonych badań, testów lub eksperymentów.
+
+9. Przepis art. 144a ust. 4, 5, 7 i 8 stosuje się.
 
 **Art. 144c.**
 
@@ -378,7 +993,7 @@ source: "isap-pdf"
 
 6. Prezes UKE dokonuje wpisu urządzenia do rejestru urządzeń w terminie do 7 dni od dnia otrzymania wniosku wraz z oświadczeniem, o którym mowa w ust. 4.
 
-7. Jeżeli Prezes UKE nie dokona wpisu w terminie, o którym mowa w ust. 6, a od dnia otrzymania wniosku o wpis do rejestru urządzeń upłynęło 14 dni, podmiot uprawniony do dysponowania częstotliwością może rozpocząć jej wykorzystywanie za pomocą urządzenia, którego dotyczył wniosek, po uprzednim zawiadomieniu na piśmie Prezesa UKE. Nie dotyczy to przypadku, w którym Prezes UKE wezwał podmiot uprawniony do dysponowania częstotliwomowa w ust. 6.
+7. Jeżeli Prezes UKE nie dokona wpisu w terminie, o którym mowa w ust. 6, a od dnia otrzymania wniosku o wpis do rejestru urządzeń upłynęło 14 dni, podmiot uprawniony do dysponowania częstotliwością może rozpocząć jej wykorzystywanie za pomocą urządzenia, którego dotyczył wniosek, po uprzednim zawiadomieniu na piśmie Prezesa UKE. Nie dotyczy to przypadku, w którym Prezes UKE wezwał podmiot uprawniony do dysponowania częstotliwością do uzupełnienia wniosku przed upływem terminu, o którym mowa w ust. 6.
 
 8. Do wniosku o wpis do rejestru urządzeń stosuje się odpowiednio art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
@@ -414,7 +1029,7 @@ source: "isap-pdf"
 - **1)** nie zachodzą okoliczności, o których mowa w art. 123 ust. 7 pkt 1–3;
 - **2)** częstotliwości objęte wnioskiem:
     - **a)** są dostępne,
-    - **b)** zostały przeznaczone w Krajowej Tablicy Przeznaczeń Częstotliwości dla wnioskowanej służby radiokomunikacyjnej zagospodarowanie zgodne z wnioskiem,
+    - **b)** zostały przeznaczone w Krajowej Tablicy Przeznaczeń Częstotliwości dla wnioskowanej służby radiokomunikacyjnej oraz plan zagospodarowania częstotliwości przewiduje ich zagospodarowanie zgodne z wnioskiem,
     - **c)** mogą być wykorzystywane przez urządzenie radiowe bez powodowania szkodliwych zaburzeń elektromagnetycznych lub kolizji z przyznanymi na rzecz innych podmiotów rezerwacjami, pozwoleniami lub decyzjami o prawie do wykorzystywania częstotliwości,
     - **d)** zostały międzynarodowo uzgodnione w zakresie i formie określonych w międzynarodowych przepisach radiokomunikacyjnych lub umowach, których Rzeczpospolita Polska jest stroną, w przypadku gdy zachodzi możliwość powodowania szkodliwych zakłóceń poza granicami Rzeczypospolitej Polskiej,
     - **e)** będą wykorzystywane w sposób efektywny;
@@ -434,7 +1049,7 @@ source: "isap-pdf"
 
 **Art. 148b.**
 
-1. Używanie urządzenia radiowego nadawczego lub nadawczoodbiorczego służącego do komunikacji w systemie naziemnym lub satelitarnym, przez misje dyplomatyczne, urzędy konsularne, zagraniczne misje specjalne oraz przedstawicielstwa organizacji międzynarodowych, korzystające z przywilejów i immunitetów na podstawie ustaw, umów i zwyczajów międzynarodowych mające swe siedziby na terytorium Rzeczypospolitej Polskiej wymaga uzyskania zgody Prezesa UKE wydawanej w uzgodnieniu z ministrem właściwym do spraw zagranicznych oraz dopuszczalne jest wyłącznie w zakresie związanym z działalnością dyplomatyczną tych rych Rzeczpospolita Polska jest stroną stanowią inaczej lub wymaga tego zasada wzajemności.
+1. Używanie urządzenia radiowego nadawczego lub nadawczoodbiorczego służącego do komunikacji w systemie naziemnym lub satelitarnym, przez misje dyplomatyczne, urzędy konsularne, zagraniczne misje specjalne oraz przedstawicielstwa organizacji międzynarodowych, korzystające z przywilejów i immunitetów na podstawie ustaw, umów i zwyczajów międzynarodowych mające swe siedziby na terytorium Rzeczypospolitej Polskiej wymaga uzyskania zgody Prezesa UKE wydawanej w uzgodnieniu z ministrem właściwym do spraw zagranicznych oraz dopuszczalne jest wyłącznie w zakresie związanym z działalnością dyplomatyczną tych podmiotów, chyba że odpowiednie umowy międzynarodowe, których Rzeczpospolita Polska jest stroną stanowią inaczej lub wymaga tego zasada wzajemności.
 
 2. Wniosek o wydanie zgody składany jest do Prezesa UKE, za pośrednictwem ministra właściwego do spraw zagranicznych.
 
@@ -462,7 +1077,7 @@ source: "isap-pdf"
     - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Osoba posiadająca świadectwo operatora urządzeń radiowych w służbie morskiej może ubiegać się o ponowne jego wydanie (odnowienie). Osoba taka powinna:
 
 - **1)** złożyć wniosek o wydanie świadectwa;
-- **2)** wykazać się potwierdzoną pracą na morzu z wykonywaniem funkcji odpowiednich dla danego świadectwa, w ciągu co najmniej 12 miesięcy w okresie 5 lat przed dniem upływu ważności posiadanego świadectwa albo zdać egzamin w zakresie określopadku braku potwierdzenia pracy na morzu.”,
+- **2)** wykazać się potwierdzoną pracą na morzu z wykonywaniem funkcji odpowiednich dla danego świadectwa, w ciągu co najmniej 12 miesięcy w okresie 5 lat przed dniem upływu ważności posiadanego świadectwa albo zdać egzamin w zakresie określonym w rozporządzeniu wydanym na podstawie ust. 4, w przypadku braku potwierdzenia pracy na morzu.”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Egzaminy osób ubiegających się o świadectwo operatora urządzeń radiowych przeprowadza komisja powołana przez Prezesa UKE, a w służbie radiokomunikacji lotniczej przez Prezesa Urzędu Lotnictwa Cywilnego. Prezes UKE może powierzyć przeprowadzanie egzaminów:
 
 - **1)** w służbie radiokomunikacyjnej amatorskiej – organizacji zrzeszającej radioamatorów;
@@ -474,7 +1089,7 @@ source: "isap-pdf"
 - **115)** art. 151 otrzymuje brzmienie: „Art. 151. Osoby posiadające odpowiednie świadectwo operatora urządzeń radiowych, wydane przez Prezesa UKE lub przez uprawniony do tego organ zagraniczny, mogą obsługiwać na terytorium Rzeczypospolitej Polskiej urządzenia radiowe nadawcze lub nadawczo-odbiorcze, wykorzystywane dla potrzeb radiokomunikacji lotniczej albo radiokomunikacji morskiej i żeglugi śródlądowej, zgodnie z międzynarodowymi przepisami radiokomunikacyjnymi.”;
 - **116)** w art. 153 w ust. 4 w pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 4a w brzmieniu: „4a) urządzeń przeznaczonych do zastosowania w lotnictwie cywilnym za wyjątkiem urządzeń przeznaczonych do zarządzania ruchem lotniczym;”;
 - **117)** w art. 159:
-    - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) dane transmisyjne, które oznaczają dane przetwarzane dla celów przekazywania komunikatów w sieciach telekomunikacyjnych lub naliczaoznaczają wszelkie dane przetwarzane w sieci telekomunikacyjnej lub w ramach usług telekomunikacyjnych wskazujące położenie geograficzne urządzenia końcowego użytkownika publicznie dostępnych usług telekomunikacyjnych;”,
+    - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) dane transmisyjne, które oznaczają dane przetwarzane dla celów przekazywania komunikatów w sieciach telekomunikacyjnych lub naliczania opłat za usługi telekomunikacyjne, w tym dane lokalizacyjne, które oznaczają wszelkie dane przetwarzane w sieci telekomunikacyjnej lub w ramach usług telekomunikacyjnych wskazujące położenie geograficzne urządzenia końcowego użytkownika publicznie dostępnych usług telekomunikacyjnych;”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Przepisów ust. 2 i 3 nie stosuje się do komunikatów i danych ze swojej istoty jawnych, z przeznaczenia publicznych lub ujawnionych postanowieniem sądu wydanym w postępowaniu karnym, postanowieniem prokuratora lub na podstawie odrębnych przepisów.”;
 
 - **118)** w art. 161:
@@ -486,7 +1101,7 @@ source: "isap-pdf"
 - **121)** w art. 171:
     - **a)** ust. 1–5 otrzymują brzmienie: „1. Operator publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne zapewnia użytkownikom końcowym możliwość prezentacji identyfikacji zakończenia sieci, z którego inicjowane jest połączenie, zwanej dalej „prezentacją identyfikacji linii wywołującej”, przed dokonaniem połączenia.
 
-2. Dostawca publicznie dostępnych usług telefonicznych świadczonych w publicznej sieci telekomunikacyjnej umożliwiającej prezentację identyśrodków:
+2. Dostawca publicznie dostępnych usług telefonicznych świadczonych w publicznej sieci telekomunikacyjnej umożliwiającej prezentację identyfikacji linii wywołującej jest obowiązany zapewnić za pomocą prostych środków:
 
 - **1)** użytkownikowi wywołującemu – możliwość jednorazowego wyeliminowania prezentacji identyfikacji linii wywołującej u użytkownika wywoływanego podczas wywołania i połączenia;
 - **2)** abonentowi wywołującemu – możliwość stałego wyeliminowania prezentacji identyfikacji linii wywołującej u użytkownika wywoływanego podczas wywołania i połączenia, u operatora, do którego sieci jest przyłączony abonent będący stroną umowy z dostawcą usług;
@@ -498,7 +1113,7 @@ source: "isap-pdf"
 
 5. Dostawca publicznie dostępnych usług telefonicznych świadczonych w publicznej sieci telekomunikacyjnej jest obowiązany do poinformowania abonentów, że wykorzystywana przez niego sieć telekomunikacyjna zapewnia prezentację identyfikacji linii wywołującej lub wywoływanej, a także o możliwościach, o których mowa w ust. 2–4.”,
 
-- **b)** w ust. 7 pkt 2 otrzymuje brzmienie: „2) przez dostawcę usług zapewniającego przyłączenie do publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne lub operatora, do którego sieci został przyłączony abonent będący stroną umowy z dostawcą usług zapewniającym przyłączenie do publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne, na wniosek abonenta, jeżeli wnioskujący wego są kierowane połączenia uciążliwe lub zawierające groźby, w celu identyfikacji numerów użytkowników końcowych wywołujących tego abonenta.”;
+- **b)** w ust. 7 pkt 2 otrzymuje brzmienie: „2) przez dostawcę usług zapewniającego przyłączenie do publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne lub operatora, do którego sieci został przyłączony abonent będący stroną umowy z dostawcą usług zapewniającym przyłączenie do publicznej sieci telekomunikacyjnej, w której świadczone są publicznie dostępne usługi telefoniczne, na wniosek abonenta, jeżeli wnioskujący uprawdopodobni, że do jego telekomunikacyjnego urządzenia końcowego są kierowane połączenia uciążliwe lub zawierające groźby, w celu identyfikacji numerów użytkowników końcowych wywołujących tego abonenta.”;
 - **122)** art. 173 otrzymuje brzmienie: „Art. 173. 1. Przechowywanie informacji lub uzyskiwanie dostępu do informacji już przechowywanej w telekomunikacyjnym urządzeniu końcowym abonenta lub użytkownika końcowego jest dozwolone, pod warunkiem że:
 - **1)** abonent lub użytkownik końcowy zostanie uprzednio bezpośrednio poinformowany w sposób jednoznaczny, łatwy i zrozumiały, o:
     - **a)** celu przechowywania i uzyskiwania dostępu do tej informacji,
@@ -517,7 +1132,7 @@ source: "isap-pdf"
 4. Podmioty świadczące usługi telekomunikacyjne lub usługi drogą elektroniczną mogą instalować oprogramowanie w telekomunikacyjnym urządzeniu końcowym abonenta lub użytkownika końcowego przeznaczonym do korzystania z tych usług lub korzystać z tego oprogramowania, pod warunkiem że abonent lub użytkownik końcowy:
 
 - **1)** przed instalacją oprogramowania zostanie poinformowany bezpośrednio, w sposób jednoznaczny, łatwy i zrozumiały, o celu, w jakim zostanie zainstalowane oprogramowanie, oraz sposobach korzystania przez podmiot świadczący usługi z tego oprogramowania;
-- **2)** zostanie poinformowany bezpośrednio, w sposób jednoznaczny, łatwy i zrozumiały, o sposobie usunięcia oprogramowania z teabonenta;
+- **2)** zostanie poinformowany bezpośrednio, w sposób jednoznaczny, łatwy i zrozumiały, o sposobie usunięcia oprogramowania z telekomunikacyjnego urządzenia końcowego użytkownika lub abonenta;
 - **3)** przed instalacją oprogramowania wyrazi zgodę na jego instalację i używanie.”;
 - **123)** po art. 174 dodaje się art. 174a–174d w brzmieniu: „Art. 174a. 1. Dostawca publicznie dostępnych usług telekomunikacyjnych zawiadamia Generalnego Inspektora Ochrony Danych Osobowych o naruszeniu danych osobowych niezwłocznie, nie później niż w terminie 3 dni od stwierdzenia naruszenia.
 
@@ -534,7 +1149,8 @@ source: "isap-pdf"
 7. Zawiadomienie, o którym mowa w ust. 1, powinno zawierać w szczególności:
 
 - **1)** opis charakteru naruszenia danych osobowych oraz zakładane ryzyko związane z naruszeniem;
-- **2)** dane kontaktowe dostawcy publicznie dostępnych usług telekomunikacyjnych, umożliwiające uzyskanie informacji dotyczących naruszenia ochrony danych osobowych; ewentualnych niekorzystnych skutków naruszenia danych osobowych;
+- **2)** dane kontaktowe dostawcy publicznie dostępnych usług telekomunikacyjnych, umożliwiające uzyskanie informacji dotyczących naruszenia ochrony danych osobowych;
+- **3)** informacje o zalecanych środkach mających na celu złagodzenie ewentualnych niekorzystnych skutków naruszenia danych osobowych;
 - **4)** informacje o działaniach podjętych przez dostawcę publicznie dostępnych usług telekomunikacyjnych;
 - **5)** informacje o fakcie poinformowania lub braku poinformowania abonenta lub użytkownika końcowego, będącego osobą fizyczną o wystąpieniu naruszenia danych osobowych;
 - **6)** opis skutków naruszenia danych osobowych;
@@ -557,6 +1173,7 @@ source: "isap-pdf"
 
 1. Dostawca publicznie dostępnych usług telekomunikacyjnych prowadzi rejestr naruszeń danych osobowych, w tym faktów towarzyszących naruszeniom, ich skutków i podjętych działań, o których mowa w art. 174a ust. 8 pkt 4 i 6, zawierający w szczególności:
 
+- **1)** opis charakteru naruszenia danych osobowych;
 - **2)** informacje o zaleconych przez dostawcę publicznie dostępnych usług telekomunikacyjnych środkach mających na celu złagodzenie ewentualnych niekorzystnych skutków naruszenia danych osobowych;
 - **3)** informacje o działaniach podjętych przez dostawcę publicznie dostępnych usług telekomunikacyjnych;
 - **4)** informacje o fakcie poinformowania lub braku poinformowania abonenta lub użytkownika końcowego będącego osobą fizyczną o wystąpieniu naruszenia danych osobowych;
@@ -576,7 +1193,7 @@ source: "isap-pdf"
 
 **Art. 175b.**
 
-1. Prezes UKE informuje o wystąpieniu naruszenia bezpieczeństwa lub integralności sieci lub usług organy regulacyjne innych państw członkowskich oraz Europejską Agencję do spraw Bezpieczeństwa za istotny.
+1. Prezes UKE informuje o wystąpieniu naruszenia bezpieczeństwa lub integralności sieci lub usług organy regulacyjne innych państw członkowskich oraz Europejską Agencję do spraw Bezpieczeństwa Sieci i Informacji (ENISA), jeżeli uzna charakter tego naruszenia za istotny.
 
 2. Prezes UKE publikuje na stronie internetowej UKE informację, o której mowa w ust. 1, lub nakłada na przedsiębiorcę telekomunikacyjnego, w drodze decyzji, obowiązek jej podania do publicznej wiadomości, wskazując sposób jej publikacji, jeżeli uzna, że leży to w interesie publicznym.
 
@@ -599,7 +1216,7 @@ source: "isap-pdf"
 
 5. Przedsiębiorca telekomunikacyjny może informować innych przedsiębiorców telekomunikacyjnych i podmioty zajmujące się bezpieczeństwem teleinformatycznym o zidentyfikowanych zagrożeniach, o których mowa w ust. 1. Informacja może zawierać dane niezbędne do identyfikacji oraz ograniczenia zagrożenia.
 
-**Art. 175d.** Minister właściwy do spraw łączności może określić, w drodze rozporządzenia, minimalne środki techniczne i organizacyjne oraz metody zapobiegania zagrożeniom, o których mowa w art. 175a ust. 1 i art. sować w celu zapewnienia bezpieczeństwa lub integralności sieci lub usług, biorąc pod uwagę wytyczne Komisji Europejskiej oraz Europejskiej Agencji do spraw Bezpieczeństwa Sieci i Informacji w tym zakresie.
+**Art. 175d.** Minister właściwy do spraw łączności może określić, w drodze rozporządzenia, minimalne środki techniczne i organizacyjne oraz metody zapobiegania zagrożeniom, o których mowa w art. 175a ust. 1 i art. 175c ust. 1, jakie przedsiębiorcy telekomunikacyjni są obowiązani stosować w celu zapewnienia bezpieczeństwa lub integralności sieci lub usług, biorąc pod uwagę wytyczne Komisji Europejskiej oraz Europejskiej Agencji do spraw Bezpieczeństwa Sieci i Informacji w tym zakresie.
 
 **Art. 175e.**
 
@@ -618,7 +1235,7 @@ source: "isap-pdf"
 - **2)** przekazywania informacji identyfikujących skradzione telekomunikacyjne urządzenia końcowe innym operatorom ruchomych publicznych sieci telekomunikacyjnych w celu realizacji przez nich czynności, o których mowa w pkt 1.”;
 - **128)** w art. 180a w ust. 1:
     - **a)** pkt 1 otrzymuje brzmienie: „1) zatrzymywać i przechowywać dane, o których mowa w art. 180c, generowane w sieci telekomunikacyjnej lub przez nich przetwarzane, na terytorium Rzeczypospolitej Polskiej, przez okres 12 miesięcy, licząc od dnia połączenia lub nieudanej próby połączenia, a z dniem upływu tego okresu dane te niszczyć, z wyjątkiem tych, które zostały zabezpieczone, zgodnie z przepisami odrębnymi;”,
-    - **b)** pkt 3 otrzymuje brzmienie: „3) chronić dane, o których mowa w pkt 1, przed przypadkowym lub bezprawnym zniszczeniem, utratą lub zmianą, nieuprawnionym lub bezniem, zgodnie z przepisami art. 159–175a, art. 175c i art. 180e.”;
+    - **b)** pkt 3 otrzymuje brzmienie: „3) chronić dane, o których mowa w pkt 1, przed przypadkowym lub bezprawnym zniszczeniem, utratą lub zmianą, nieuprawnionym lub bezprawnym przechowywaniem, przetwarzaniem, dostępem lub ujawnieniem, zgodnie z przepisami art. 159–175a, art. 175c i art. 180e.”;
 
 - **129)** w art. 183 ust. 6 otrzymuje brzmienie: „6. Prezes UKE publikuje corocznie na stronie podmiotowej BIP UKE, w terminie 5 miesięcy od zakończenia roku budżetowego, zestawienie kosztów związanych z wykonywaniem zadań, o których mowa w ust. 1, poniesionych w roku poprzednim oraz sumę wpływów z rocznej opłaty telekomunikacyjnej pobranej w roku poprzednim.”;
 - **130)** w art. 184 w ust. 2:
@@ -635,7 +1252,7 @@ source: "isap-pdf"
 4. Podmiot, na rzecz którego dokonano rezerwacji częstotliwości w drodze postępowania, o którym mowa w art. 116, uiszcza dodatkową opłatę za dokonanie rezerwacji częstotliwości w kwocie zadeklarowanej w tym postępowaniu, nie niższej niż opłata roczna za prawo do dysponowania częstotliwością, ustalonej zgodnie z warunkami podanymi w rezerwacji częstotliwości.”,
 
 - **b)** po ust. 4 dodaje się ust. 4a–4d w brzmieniu: „4a. Podmiot na rzecz którego dokonano rezerwacji częstotliwości na kolejny okres w drodze postępowania, o którym mowa w art. 116 ust. 8, uiszcza jednorazową opłatę za dokonanie rezerwacji częstotliwości na kolejny okres w kwocie stanowiącej iloczyn:
-- **1)** wartości częstotliwości o szerokości 1 MHz dla takiego samego obszaru i wykorzystywania częstotliwości, uzyskanej w wyniku rezerwację częstotliwości z danego zakresu częstotliwości;
+- **1)** wartości częstotliwości o szerokości 1 MHz dla takiego samego obszaru i wykorzystywania częstotliwości, uzyskanej w wyniku przeprowadzenia ostatniego przetargu, aukcji albo konkursu na rezerwację częstotliwości z danego zakresu częstotliwości;
 - **2)** ilości MHz objętych rezerwacją częstotliwości na kolejny okres; oraz
 - **3)** średniorocznych wskaźników cen towarów i usług konsumpcyjnych ogółem ogłaszanych przez Prezesa Głównego Urzędu Statystycznego, za okres od roku, w którym przeprowadzono ostatni przetarg, aukcję albo konkurs na rezerwację częstotliwości, o których mowa w pkt 1, do roku poprzedzającego rok, w którym złożono wniosek o dokonanie rezerwacji częstotliwości na kolejny okres.
 
@@ -647,7 +1264,8 @@ source: "isap-pdf"
 
 - **c)** ust. 5–7 otrzymują brzmienie: „5. Opłaty, o których mowa w ust. 1, w poszczególnych służbach radiokomunikacyjnych nie mogą być wyższe niż:
 - **1)** w służbie stałej satelitarnej za prawo do dysponowania częstotliwością przez jedną stację – 20 000 złotych;
-- **2)** w służbie satelitarnego badania ziemi za prawo do dysponowania częstotliwością przez jedną stację – 5000 złotych; częstotliwością przez jedną stację – 5000 złotych;
+- **2)** w służbie satelitarnego badania ziemi za prawo do dysponowania częstotliwością przez jedną stację – 5000 złotych;
+- **3)** w służbie meteorologii satelitarnej za prawo do dysponowania częstotliwością przez jedną stację – 5000 złotych;
 - **4)** w służbie radionawigacji satelitarnej za prawo do dysponowania częstotliwością przez jedną stację – 5000 złotych;
 - **5)** w służbie operacji kosmicznych za prawo do dysponowania częstotliwością przez jedną stację – 5000 złotych;
 - **6)** w służbie badań kosmosu za prawo do dysponowania częstotliwością przez jedną stację – 5 000 złotych;
@@ -664,7 +1282,8 @@ source: "isap-pdf"
     - **a)** za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz na obszarze jednej gminy lub mniejszym, w zakresie poniżej 300 kHz – 0,5 złotych,
     - **b)** za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz na obszarze jednej gminy lub mniejszym, w zakresie od 300 kHz do 3000 kHz – 110 złotych,
     - **c)** za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz na obszarze jednej gminy lub mniejszym, w zakresie powyżej 3 MHz do 30 MHz – 400 złotych,
-    - **d)** za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz na obszarze jednej gminy lub mniejszym, w zakresie powyżej 30 MHz do 174 MHz: – w przypadku gminy wiejskiej – 2,25 złotych, – w przypadku gminy miejsko-wiejskiej – 2,25 złotych, – w przypadku gminy miejskiej, z wyłączeniem miast na prawach powiatu – 6,5 złotych, – w przypadku miasta na prawach powiatu – 25 złotych, przez jedną stację telewizyjną analogową w zakresie powyżej 174 MHz – 99 000 złotych,
+    - **d)** za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz na obszarze jednej gminy lub mniejszym, w zakresie powyżej 30 MHz do 174 MHz: – w przypadku gminy wiejskiej – 2,25 złotych, – w przypadku gminy miejsko-wiejskiej – 2,25 złotych, – w przypadku gminy miejskiej, z wyłączeniem miast na prawach powiatu – 6,5 złotych, – w przypadku miasta na prawach powiatu – 25 złotych,
+    - **e)** za prawo do dysponowania jednym kanałem telewizyjnym przez jedną stację telewizyjną analogową w zakresie powyżej 174 MHz – 99 000 złotych,
     - **f)** za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz, wykorzystywanymi przez system cyfrowy na obszarze jednej gminy lub mniejszym, w zakresie powyżej 174 MHz do 862 MHz: – w przypadku gminy wiejskiej – 345 złotych, – w przypadku gminy miejsko-wiejskiej – 345 złotych, – w przypadku gminy miejskiej, z wyłączeniem miast na prawach powiatu – 990 złotych, – w przypadku miasta na prawach powiatu – 5000 złotych,
     - **g)** za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz, wykorzystywanymi przez system cyfrowy na obszarze jednej gminy lub mniejszym, w zakresie powyżej 862 MHz – 500 złotych;
 
@@ -679,7 +1298,8 @@ source: "isap-pdf"
 
 - **15)** w służbie ruchomej lądowej:
     - **a)** za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz na obszarze jednej gminy lub mniejszym, w zakresie do 470 MHz wykorzystywanymi przez urządzenia radiowe wykorzystujące kanały radiowe o szerokości poniżej 200 kHz – 100 złotych,
-    - **b)** za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze jednej gminy lub mniejszym, w zakresie do 470 MHz, wykorzystywanymi przez urządzenia radiowe wykorzystujące kanały radiowe o szerokości 200 kHz i większej – 400 złotych, kości 1 kHz na obszarze jednej gminy lub mniejszym, w zakresie powyżej 470 MHz do 3400 MHz wykorzystywanymi przez urządzenia radiowe wykorzystujące kanały radiowe o szerokości poniżej 200 kHz – 10 złotych,
+    - **b)** za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze jednej gminy lub mniejszym, w zakresie do 470 MHz, wykorzystywanymi przez urządzenia radiowe wykorzystujące kanały radiowe o szerokości 200 kHz i większej – 400 złotych,
+    - **c)** za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz na obszarze jednej gminy lub mniejszym, w zakresie powyżej 470 MHz do 3400 MHz wykorzystywanymi przez urządzenia radiowe wykorzystujące kanały radiowe o szerokości poniżej 200 kHz – 10 złotych,
     - **d)** za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze jednej gminy lub mniejszym, w zakresie powyżej 470 MHz do 3400 MHz, wykorzystywanymi przez urządzenia radiowe wykorzystujące kanały radiowe o szerokości 200 kHz i większej – 400 złotych,
     - **e)** za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze jednej gminy lub mniejszym, w zakresie powyżej 3400 MHz – 500 złotych.
 
@@ -700,10 +1320,11 @@ source: "isap-pdf"
     - **d)** przez jednostki pływające w relacji łączności statek – statek i statek – brzeg;
 
 - **2)** wykorzystywaną przez stacje nadawcze w służbie radionawigacyjnej i radiolokacyjnej morskiej i żeglugi śródlądowej;
-- **3)** w służbie radiokomunikacyjnej lotniczej: cyjnej i radiolokacyjnej lotniczej;
+- **3)** w służbie radiokomunikacyjnej lotniczej:
     - **a)** za częstotliwości używane w niebezpieczeństwie i dla zapewnienia bezpieczeństwa: 121,5 MHz, 123,1 MHz, 243 MHz,
     - **b)** przez statki powietrzne, w relacji łączności statek powietrzny – Ziemia i statek powietrzny – statek powietrzny;
 
+- **4)** wykorzystywaną przez stacje nadawcze w służbie radionawigacyjnej i radiolokacyjnej lotniczej;
 - **5)** w służbie radiokomunikacyjnej amatorskiej w zakresach częstotliwości przydzielonych w Krajowej Tablicy Przeznaczeń Częstotliwości dla służby amatorskiej.”,
     - **d)** ust. 9 otrzymuje brzmienie: „9. Z zastrzeżeniem ust. 8, obowiązek uiszczania opłat za prawo do dysponowania częstotliwością ustaje w dniu, w którym złożono wniosek o rezygnację z rezerwacji częstotliwości lub pozwolenia.”,
     - **e)** po ust. 9 dodaje się ust. 9a w brzmieniu: „9a. W przypadku, gdy we wniosku, o którym mowa w ust. 9, określono termin rezygnacji z rezerwacji częstotliwości lub pozwolenia, obowiązek uiszczania opłat za prawo do dysponowania częstotliwością ustaje w dniu, w którym przypada ten termin.”,
@@ -719,7 +1340,7 @@ source: "isap-pdf"
 - **6)** korzyści społeczne związane z wykorzystaniem danego zasobu częstotliwości.”;
 - **132)** w art. 189 w ust. 2:
     - **a)** w pkt 1: – lit. d otrzymuje brzmienie: „d) wspieranie efektywnego wykorzystania oraz zarządzania częstotliwościami i numeracją,”, – dodaje się lit. e w brzmieniu: „e) zapewnienie przewidywalności regulacyjnej;”,
-    - **b)** w pkt 2: – lit. d otrzymuje brzmienie: „d) współpracę z innymi organami regulacyjnymi państw członkowskich, BEREC i Komisją Europejską, w celu spójnego wdrażania i stosowania przepisów,”, – dodaje się lit. e w brzmieniu: skich i Komisją Europejską w zakresie: – planowania strategicznego, koordynacji i harmonizacji wykorzystania częstotliwości w Unii Europejskiej, mając na celu optymalizację wykorzystania częstotliwości oraz unikanie szkodliwych zakłóceń oraz – promowania koordynacji polityki widma radiowego w Unii Europejskiej, a także zharmonizowanych warunków w odniesieniu do dostępności i efektywnego wykorzystania widma, koniecznego do ustanowienia i funkcjonowania rynku wewnętrznego usług telekomunikacyjnych;”,
+    - **b)** w pkt 2: – lit. d otrzymuje brzmienie: „d) współpracę z innymi organami regulacyjnymi państw członkowskich, BEREC i Komisją Europejską, w celu spójnego wdrażania i stosowania przepisów,”, – dodaje się lit. e w brzmieniu: „e) współpracę z innymi organami regulacyjnymi państw członkowskich i Komisją Europejską w zakresie: – planowania strategicznego, koordynacji i harmonizacji wykorzystania częstotliwości w Unii Europejskiej, mając na celu optymalizację wykorzystania częstotliwości oraz unikanie szkodliwych zakłóceń oraz – promowania koordynacji polityki widma radiowego w Unii Europejskiej, a także zharmonizowanych warunków w odniesieniu do dostępności i efektywnego wykorzystania widma, koniecznego do ustanowienia i funkcjonowania rynku wewnętrznego usług telekomunikacyjnych;”,
     - **c)** w pkt 3 w lit. f średnik zastępuje się przecinkiem i dodaje lit. g i h w brzmieniu: „g) wspieranie procesu harmonizacji określonych numerów lub zakresów numeracyjnych w obrębie Unii Europejskiej oraz zapewnienie informacji o istnieniu europejskiego numeru alarmowego 112 i innych europejskich numerów zharmonizowanych, skierowanej do obywateli, w szczególności podróżujących między państwami członkowskimi,
     - **h)** wspieranie dostępu użytkowników do informacji oraz możliwości ich rozpowszechniania oraz korzystania z dowolnych aplikacji i usług,”;
 
@@ -727,7 +1348,7 @@ source: "isap-pdf"
     - **a)** po ust. 4a dodaje się ust. 4b w brzmieniu: „4b. Informację o odwołaniu Prezesa UKE wskazującą powody jego odwołania podaje się do publicznej wiadomości przez ogłoszenie jej treści na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw łączności.”,
     - **b)** ust. 8 otrzymuje brzmienie: „8. Minister właściwy do spraw łączności, na wniosek Prezesa UKE, powołuje zastępców Prezesa UKE do spraw telekomunikacyjnych i pocztowych, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Minister właściwy do spraw łączności odwołuje zastępcę Prezesa UKE, na wniosek Prezesa UKE, wyłącznie w przypadkach, o których mowa w ust. 4a, lub w przypadku zaprzestania spełniania wymagań, o których mowa w ust. 8a.”;
 
-- **134)** w art. 192: Urz. UE L 337 z 18.12.2009, str. 1);”, – pkt 5a otrzymuje brzmienie: „5a) kontrolowanie realizacji obowiązków wynikających z przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 531/2012 z dnia 13 czerwca 2012 r. w sprawie roamingu w publicznych sieciach łączności ruchomej wewnątrz Unii (Dz. Urz. UE L 172 z 30.6.2012, str. 10);”, – pkt 17 i 18 otrzymują brzmienie: „17) współpraca z Komisją Europejską i instytucjami Unii Europejskiej, a także z BEREC oraz organami regulacyjnymi innych państw członkowskich;
+- **134)** w art. 192: Urz. UE L 337 z 18.12.2009, str. 1);”, – pkt 5a otrzymuje brzmienie: „5a) kontrolowanie realizacji obowiązków wynikających z przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 531/2012 z dnia 13 czerwca 2012 r. w sprawie roamingu w publicznych sieciach łączności ruchomej wewnątrz Unii (Dz. Urz. UE L 172 z 30.6.2012, str. 10);”, – uchyla się pkt 12, – pkt 17 i 18 otrzymują brzmienie: „17) współpraca z Komisją Europejską i instytucjami Unii Europejskiej, a także z BEREC oraz organami regulacyjnymi innych państw członkowskich;
     - **a)** w ust. 1: – po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) wykonywanie zadań wynikających z przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1211/2009 z dnia 25 listopada 2009 r. ustanawiającego Organ Europejskich Regulatorów Łączności Elektronicznej (BEREC) oraz Urząd (Dz.
 
 - **18)** przedstawianie Komisji Europejskiej, BEREC i organom regulacyjnym innych państw członkowskich informacji z zakresu telekomunikacji, w tym wykonywanie obowiązków notyfikacyjnych, obejmujących przekazywanie treści rozstrzygnięć, o których mowa w art. 23 ust. 1, oraz informacje o przedsiębiorcach telekomunikacyjnych, którzy zostali uznani za posiadających znaczącą pozycję rynkową, świadczących usługę powszechną i realizujących połączenia sieci telekomunikacyjnych oraz nałożonych na nich obowiązkach;”, Raport publikuje się na stronie podmiotowej BIP UKE.”,
@@ -736,7 +1357,7 @@ source: "isap-pdf"
 
 - **135)** uchyla się art. 198;
 - **136)** w art. 200 w ust. 1 pkt 5 otrzymuje brzmienie: „5) czasowego zajęcia aparatury w trybie, o którym mowa w art. 204, w celu przeprowadzenia badań prowadzących do ustalenia przyczyn szkodliwych zakłóceń;”;
-- **137)** w art. 201: 144c ust. 1 albo jednostka samorządu terytorialnego wykonująca działalność, o której mowa w art. 3 ust. 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, zwany dalej „podmiotem kontrolowanym”, nie wypełnia odnoszących się do niego obowiązków wynikających z ustawy lub decyzji wydanej przez Prezesa UKE, Prezes UKE wydaje zalecenia pokontrolne, w których wzywa podmiot kontrolowany do usunięcia nieprawidłowości lub udzielenia wyjaśnień. Usunięcie nieprawidłowości lub udzielenie wyjaśnień powinno nastąpić w terminie wskaczenia zaleceń pokontrolnych podmiotowi kontrolowanemu.”,
+- **137)** w art. 201: 144c ust. 1 albo jednostka samorządu terytorialnego wykonująca działalność, o której mowa w art. 3 ust. 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, zwany dalej „podmiotem kontrolowanym”, nie wypełnia odnoszących się do niego obowiązków wynikających z ustawy lub decyzji wydanej przez Prezesa UKE, Prezes UKE wydaje zalecenia pokontrolne, w których wzywa podmiot kontrolowany do usunięcia nieprawidłowości lub udzielenia wyjaśnień. Usunięcie nieprawidłowości lub udzielenie wyjaśnień powinno nastąpić w terminie wskazanym przez Prezesa UKE, nie krótszym niż 30 dni od dnia doręczenia zaleceń pokontrolnych podmiotowi kontrolowanemu.”,
     - **a)** ust. 1 otrzymuje brzmienie: „1. Jeżeli w wyniku kontroli, o której mowa w art. 199, stwierdzono, że przedsiębiorca telekomunikacyjny, podmiot posiadający rezerwację częstotliwości lub przydział numeracji, podmiot wykorzystujący częstotliwości na podstawie pozwolenia, decyzji, o której mowa w art. 144a i art. 144b lub wpisu do rejestru, o którym mowa w art.
     - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku przedsiębiorców telekomunikacyjnych, na których zostały nałożone obowiązki, o których mowa w art. 34, art. 36–40, art. 42 lub art. 44–45, Prezes UKE może, w drodze decyzji, nakazać zaprzestania lub opóźnienia świadczenia usługi telekomunikacyjnej, której dalsze świadczenie mogłoby prowadzić do znaczącej szkody dla konkurencji, do czasu wypełnienia tych obowiązków.”,
     - **c)** w ust. 4 zdanie pierwsze otrzymuje brzmienie: „Jeżeli nieprawidłowości, o których mowa w ust. 1, występowały w przeszłości lub mają poważny charakter, a podmiot kontrolowany nie zastosował się do decyzji, o której mowa w ust. 3 lub 3a, Prezes UKE może, w drodze decyzji, zakazać podmiotowi kontrolowanemu wykonywania działalności telekomunikacyjnej, zmienić lub cofnąć rezerwację częstotliwości, zasobów orbitalnych lub przydział numeracji.”,
@@ -748,9 +1369,11 @@ source: "isap-pdf"
     - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Jeżeli w wyniku kontroli, o której mowa w art. 199, Prezes UKE stwierdzi, że podmiot kontrolowany narusza nałożone na niego obowiązki w ten sposób, że powoduje to:
 
 - **1)** bezpośrednie i poważne zagrożenie dla obronności, bezpieczeństwa państwa lub bezpieczeństwa i porządku publicznego lub życia i zdrowia ludzi,
-- **2)** zagrożenie wywołania poważnej szkody majątkowej lub poważnych utrudnień w funkcjonowaniu sieci telekomunikacyjnych lub usług telekomunikacyjnych dla przedsiębiorców telekomunikacyjnych, użytkowników końcowych lub podmiotów posiadających prawo do korzystania z częstotliwości – Prezes UKE podejmuje działania zmierzające do usunięcia zagrożeń. wydanie decyzji nakazującej podmiotowi kontrolowanemu podjęcie działań zmierzających do usunięcia zagrożenia, w tym decyzji nakazującej wstrzymanie wykonywania działalności telekomunikacyjnej. Decyzji nadaje się rygor natychmiastowej wykonalności. Prezes UKE podejmuje działania, o których mowa w ust. 1, po uprzednim wezwaniu podmiotu kontrolowanego do usunięcia naruszeń lub udzielenia wyjaśnień.”,
-    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W przypadku wydania decyzji nakazującej podmiotowi kontrolowanemu wstrzymanie wykonywania działalności telekomunikacyjnej, Prezes UKE określa w niej termin jej obowiązywania, nie dłuższy niż 3 miesiące. W przypadku, gdy zagrożenia będące przyczyną wydania tej decyzji nie zostaną usunięte przez podmiot kontrolowany w wymaganym terminie, Prezes UKE może przedłużyć termin obowiązywania decyzji o kolejne 3 miesiące.”;
+- **2)** zagrożenie wywołania poważnej szkody majątkowej lub poważnych utrudnień w funkcjonowaniu sieci telekomunikacyjnych lub usług telekomunikacyjnych dla przedsiębiorców telekomunikacyjnych, użytkowników końcowych lub podmiotów posiadających prawo do korzystania z częstotliwości – Prezes UKE podejmuje działania zmierzające do usunięcia zagrożeń.
 
+2. Działania, o których mowa w ust. 1, mogą w szczególności obejmować wydanie decyzji nakazującej podmiotowi kontrolowanemu podjęcie działań zmierzających do usunięcia zagrożenia, w tym decyzji nakazującej wstrzymanie wykonywania działalności telekomunikacyjnej. Decyzji nadaje się rygor natychmiastowej wykonalności. Prezes UKE podejmuje działania, o których mowa w ust. 1, po uprzednim wezwaniu podmiotu kontrolowanego do usunięcia naruszeń lub udzielenia wyjaśnień.”,
+
+- **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W przypadku wydania decyzji nakazującej podmiotowi kontrolowanemu wstrzymanie wykonywania działalności telekomunikacyjnej, Prezes UKE określa w niej termin jej obowiązywania, nie dłuższy niż 3 miesiące. W przypadku, gdy zagrożenia będące przyczyną wydania tej decyzji nie zostaną usunięte przez podmiot kontrolowany w wymaganym terminie, Prezes UKE może przedłużyć termin obowiązywania decyzji o kolejne 3 miesiące.”;
 - **139)** w art. 203:
     - **a)** w ust. 1 zdanie pierwsze otrzymuje brzmienie: „W przypadku stwierdzenia używania urządzenia radiowego bez wymaganego pozwolenia, decyzji, o której mowa w art. 144a i 144b lub wpisu do rejestru, o którym mowa w art. 144c ust. 1, lub obsługiwania tego urządzenia przez osobę nieuprawnioną, Prezes UKE wydaje użytkownikowi urządzenia decyzję zakazującą używania lub obsługiwania urządzenia radiowego przez osobę nieuprawnioną.”,
     - **b)** w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje pkt 3 i 4 w brzmieniu: „3) brakiem decyzji, o której mowa w art. 144a i art. 144b – z dniem wydania użytkownikowi decyzji, chyba że sąd orzekł przepadek urządzenia;
@@ -759,7 +1382,7 @@ source: "isap-pdf"
     - **c)** w ust. 4 w pkt 2 kropkę zastępuje się średnikiem i dodaje pkt 3 i 4 w brzmieniu: „3) braku decyzji, o której mowa w art. 144a i art. 144b – jest zwracane użytkownikowi niezwłocznie po wydaniu decyzji, chyba że sąd orzekł przepadek urządzenia;
 
 - **4)** braku wpisu do rejestru, o którym mowa w art. 144c ust. 1 – jest zwracane użytkownikowi niezwłocznie po dokonaniu wpisu urządzenia radiowego do rejestru.”,
-    - **d)** dodaje się ust. 5 w brzmieniu: wa w art. 203 ust. 1, wydana na skutek braku wymaganego pozwolenia wygasa.”;
+    - **d)** dodaje się ust. 5 w brzmieniu: „5. W przypadku wydania wymaganego pozwolenia, decyzja, o której mowa w art. 203 ust. 1, wydana na skutek braku wymaganego pozwolenia wygasa.”;
 
 - **140)** art. 204 otrzymuje brzmienie: „Art. 204. 1. W przypadku stwierdzenia, że urządzenie w rozumieniu przepisów o kompatybilności elektromagnetycznej, wytwarzające pole elektromagnetyczne powoduje szkodliwe zakłócenie pracy innego urządzenia spełniającego zasadnicze wymagania w rozumieniu przepisów ustawy z dnia 13 kwietnia 2007 r. o kompatybilności elektromagnetycznej, Prezes UKE może wydać decyzję o:
 - **1)** czasowym wstrzymaniu używania urządzenia wytwarzającego szkodliwe zaburzenia elektromagnetyczne;
@@ -773,7 +1396,7 @@ source: "isap-pdf"
 - **142)** w art. 205 ust. 2 otrzymuje brzmienie: „2. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposoby postępowania w przypadku stwierdzenia, że urządzenie w rozumieniu przepisów o kompatybilności elektromagnetycznej, wytwarzające pole elektromagnetyczne, używane przez podmioty, o których mowa w art. 4 pkt 1–6 i 8, powoduje szkodliwe zakłócenie pracy innego urządzenia, spełniającego zasadnicze wymagania w rozumieniu przepisów o kompatybilności elektromagnetycznej, uwzględniając charakter zadań realizowanych przez te podmioty oraz słuszny interes użytkownika urządzenia, którego praca jest zakłócana.”;
 - **143)** w art. 206 w ust. 2:
     - **a)** pkt 2 otrzymuje brzmienie: „2) w sprawie nałożenia, zniesienia, zmiany lub uchylenia obowiązków regulacyjnych,”,
-    - **b)** pkt 5 otrzymuje brzmienie: zerwacji częstotliwości po przeprowadzeniu przetargu, aukcji albo konkursu oraz od decyzji o uznaniu przetargu, aukcji albo konkursu za nierozstrzygnięte,”;
+    - **b)** pkt 5 otrzymuje brzmienie: „5) wydawanych w sprawach spornych, z wyjątkiem decyzji w sprawie rezerwacji częstotliwości po przeprowadzeniu przetargu, aukcji albo konkursu oraz od decyzji o uznaniu przetargu, aukcji albo konkursu za nierozstrzygnięte,”;
 
 - **144)** art. 208 otrzymuje brzmienie: „Art. 208. 1. Kto bez wymaganego pozwolenia używa urządzenia radiowego nadawczego lub nadawczo-odbiorczego, podlega karze grzywny w wysokości do 1000 złotych.
 
@@ -786,16 +1409,23 @@ source: "isap-pdf"
 5. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.”;
 
 - **145)** w art. 209: 175e,”, – po pkt 27 dodaje się pkt 27a w brzmieniu: „27a) nie stosuje się do zakazu określonego w decyzji, o której mowa w art. 175c ust. 3,”, – pkt 29 otrzymuje brzmienie: „29) nie wypełnia obowiązków określonych w art. 3–5 oraz art. 7– 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 531/2012 z dnia 13 czerwca 2012 r. w sprawie roamingu w publicznych sieciach łączności ruchomej wewnątrz Unii,”, – w pkt 31 na końcu dodaje się przecinek i dodaje pkt 32 w brzmieniu: „32) utrudnia lub uniemożliwia wykonywanie czynności kontrolnych przez Prezesa UKE”,
-    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) nie wypełnia obowiązku udzielania informacji lub dostarczania dokumentów przewidzianych ustawą lub ustawą z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych lub udziela informacji niepełnych lub nieprawdziwych lub dostarcza dokumenty zawierające informacje niepełne lub nieprawdziwe,”, – uchyla się pkt 3, – uchyla się pkt 8, – po pkt 9 dodaje się pkt 9a i 9b w brzmieniu: „9a) używa urządzenia radiowego bez wymaganego wpisu do rejestru urządzeń, o którym mowa w art. 144c ust. 1 albo decyzji, o której mowa w art. 144a lub art. 144b, 9b) nie wykorzystuje, z przyczyn leżących po jego stronie, częstotliwości przyznanych w rezerwacji częstotliwości przez co najmniej 6 miesięcy,”, – pkt 13a otrzymuje brzmienie: „13a) nie wypełnia lub nienależycie wypełnia obowiązki określone w art. 36, art. 56, art. 57 ust. 6, art. 59, art. 60, art. 60a ust. 1, 1b i 4–5 oraz art. 61 ust. 4–6 i 7,”, – po pkt 13a dodaje się pkt 13b w brzmieniu: „13b) nie wypełnia lub nienależycie wypełnia obowiązki określone w art. 44b–44g,”, – po pkt 14a dodaje się pkt 14b w brzmieniu: której mowa w art. 62a ust. 5,”, – po pkt 22 dodaje się pkt 22a i 22b w brzmieniu: „22a) nie wypełnia warunków współkorzystania i dostępu do infrastruktury technicznej oraz rozliczeń z tego tytułu, określonych w decyzji lub w umowie, zgodnie z ustawą z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, 22b) nie wypełnia warunków wynikających z decyzji wydawanych w trybie art. 30 ust. 1 i 3 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych,”, – po pkt 25 dodaje się pkt 25a w brzmieniu: „25a) będąc przedsiębiorcą telekomunikacyjnym nie publikuje na swojej stronie internetowej informacji, o których mowa w art.
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) nie wypełnia obowiązku udzielania informacji lub dostarczania dokumentów przewidzianych ustawą lub ustawą z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych lub udziela informacji niepełnych lub nieprawdziwych lub dostarcza dokumenty zawierające informacje niepełne lub nieprawdziwe,”, – uchyla się pkt 3, – uchyla się pkt 8, – po pkt 9 dodaje się pkt 9a i 9b w brzmieniu: „9a) używa urządzenia radiowego bez wymaganego wpisu do rejestru urządzeń, o którym mowa w art. 144c ust. 1 albo decyzji, o której mowa w art. 144a lub art. 144b, 9b) nie wykorzystuje, z przyczyn leżących po jego stronie, częstotliwości przyznanych w rezerwacji częstotliwości przez co najmniej 6 miesięcy,”, – pkt 13a otrzymuje brzmienie: „13a) nie wypełnia lub nienależycie wypełnia obowiązki określone w art. 36, art. 56, art. 57 ust. 6, art. 59, art. 60, art. 60a ust. 1, 1b i 4–5 oraz art. 61 ust. 4–6 i 7,”, – po pkt 13a dodaje się pkt 13b w brzmieniu: „13b) nie wypełnia lub nienależycie wypełnia obowiązki określone w art. 44b–44g,”, – po pkt 14a dodaje się pkt 14b w brzmieniu: „14b) nie wykonuje w terminie obowiązku określonego w decyzji, o której mowa w art. 62a ust. 5,”, – po pkt 22 dodaje się pkt 22a i 22b w brzmieniu: „22a) nie wypełnia warunków współkorzystania i dostępu do infrastruktury technicznej oraz rozliczeń z tego tytułu, określonych w decyzji lub w umowie, zgodnie z ustawą z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, 22b) nie wypełnia warunków wynikających z decyzji wydawanych w trybie art. 30 ust. 1 i 3 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych,”, – po pkt 25 dodaje się pkt 25a w brzmieniu: „25a) będąc przedsiębiorcą telekomunikacyjnym nie publikuje na swojej stronie internetowej informacji, o których mowa w art.
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Kara, o której mowa w ust. 1, może zostać nałożona także w przypadku, gdy podmiot zaprzestał naruszania prawa lub naprawił wyrządzoną szkodę, jeżeli Prezes UKE uzna, że przemawiają za tym czas trwania, zakres lub skutki naruszenia.”;
 
 - **146)** w art. 210 ust. 4 otrzymuje brzmienie: „4. Jeżeli okres działania podmiotu jest krótszy niż rok kalendarzowy, za podstawę wymiaru kary przyjmuje się kwotę 500 000 złotych, a w przypadku czynów, o których mowa w art. 209 ust. 1 pkt 22a, jeżeli podmiot nie osiągnął w poprzednim roku kalendarzowym przychodu, za podstawę wymiaru kary przyjmuje się kwotę 10 000 złotych.”;
-- **147)** użyte w: W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) art. 479 otrzymuje brzmienie: „Art. 479 . W razie wniesienia odwołania od decyzji Prezesa Urzędu, sąd ochrony konkurencji i konsumentów może, na wniosek strony, która wniosła odwołanie, wstrzymać do czasu rozstrzygnięcia sprawy wykonanie decyzji, jeżeli zachodzi niebezpieczeństwo wyrządzenia znacznej szkody lub spowodowania trudnych do odwrócenia skutków. Postanowienie może być wydane na posiedzeniu niejawnym.”.
+- **147)** użyte w:
     - **a)** art. 25 ust. 2, art. 25c pkt 2, art. 65 ust. 3, art. 207a ust. 1 i 2 wyrazy „na stronie podmiotowej Biuletynu Informacji Publicznej Urzędu Komunikacji Elektronicznej”,
     - **b)** art. 91a ust. 7 wyrazy „na stronie Biuletynu Informacji Publicznej UKE”,
     - **c)** art. 190 ust. 8b wyrazy „w Biuletynie Informacji Publicznej urzędu” – zastępuje się wyrazami „na stronie podmiotowej BIP UKE”.
 
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) art. 479 otrzymuje brzmienie: „Art. 479 . W razie wniesienia odwołania od decyzji Prezesa Urzędu, sąd ochrony konkurencji i konsumentów może, na wniosek strony, która wniosła odwołanie, wstrzymać do czasu rozstrzygnięcia sprawy wykonanie decyzji, jeżeli zachodzi niebezpieczeństwo wyrządzenia znacznej szkody lub spowodowania trudnych do odwrócenia skutków. Postanowienie może być wydane na posiedzeniu niejawnym.”.
+
 **Art. 3.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461, 1101 i 1407) w art. 208 w ust. 4 pkt 8 otrzymuje brzmienie: „8) urządzenia i sieci telekomunikacyjne:
+
+1800, z późn. zm. ), przewidziane do użycia na potrzeby jednostek organizacyjnych, o których mowa w ust. 2,
+
+- **a)** ujęte w planach działania, o których mowa w art. 176a ust. 2 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz.
+- **b)** niezbędne do wykonania decyzji nałożonych na przedsiębiorców telekomunikacyjnych przez Prezesa Urzędu Komunikacji Elektronicznej w trybie określonym w art. 178 ust. 1 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne;”;
 
 **Art. 4.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2007 r. Nr 19, poz. 115, z późn. zm. ) w art. 39 ust. 7f otrzymuje brzmienie: „7f. Za udostępnienie kanału technologicznego pobiera się opłaty w wysokości określonej w umowie, przy czym opłaty te są ustalane na poziomie kosztów budowy i utrzymania kanału. Przepisu art. 40 ust. 3 nie stosuje się do linii telekomunikacyjnych i elektroenergetycznych oraz innych urządzeń umieszczanych w kanale technologicznym.”.
 
@@ -803,15 +1433,42 @@ source: "isap-pdf"
 
 **Art. 6.** W ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 pkt 3 otrzymuje brzmienie: „3) system teleinformatyczny – zespół współpracujących ze sobą urządzeń informatycznych i oprogramowania, zapewniający przetwarzanie i przechowywanie, a także wysyłanie i odbieranie danych poprzez sieci telekomunikacyjne za pomocą właściwego dla danego rodzaju sieci telekomunikacyjnego urządzenia końcowego w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ),”;
+- **2)** w art. 10 ust. 1 otrzymuje brzmienie: „1. Zakazane jest przesyłanie niezamówionej informacji handlowej skierowanej do oznaczonego odbiorcy będącego osobą fizyczną za pomocą środków komunikacji elektronicznej, w szczególności poczty elektronicznej.”;
+
 **Art. 7.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2012 r. poz. 647 i 951) wprowadza się następujące zmiany:
 
+- **1)** w art. 11 w pkt 6 uchyla się lit. k;
+- **2)** w art. 17 w pkt 6 w lit. a uchyla się tiret piąte.
+
 **Art. 8.** W ustawie z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. z 2008 r. Nr 189, poz. 1159, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 51 ust. 7 otrzymuje brzmienie: „7. Cenniki powszechnych usług pocztowych operatora publicznego oraz zmiany do obowiązującego cennika podlegają niezwłocznie ogłoszeniu na stronie podmiotowej Biuletynu Informacji Publicznej Urzędu Komunikacji Elektronicznej, zwanej dalej „stroną podmiotową BIP UKE”.”;
+- **2)** w art. 52 ust. 5 otrzymuje brzmienie: „5. Prezes UKE publikuje na stronie podmiotowej BIP UKE oświadczenie, o którym mowa w ust. 3.”;
+- **3)** w art. 55 ust. 2 otrzymuje brzmienie: „2. Prezes UKE publikuje na stronie podmiotowej BIP UKE, w terminie do dnia 31 maja, roczny raport zawierający wyniki badań, o których mowa w ust. 1, a także informacje o ilości i rodzajach zgłoszonych reklamacji oraz sposobie ich rozpatrzenia, z uwzględnieniem podziału na powszechne usługi pocztowe i usługi niebędące powszechnymi usługami pocztowymi.”.
 
 **Art. 9.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447, z późn. zm. ) w art. 75 w ust. 1 uchyla się pkt 10.
 
 **Art. 10.** W ustawie z dnia 13 kwietnia 2007 r. o kompatybilności elektromagnetycznej (Dz. U. Nr 82, poz. 556 oraz z 2010 r. Nr 107, poz. 679) w art. 5 pkt 6 otrzymuje brzmienie: „6) pojazdów w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137) oraz części pojazdów, z wyłączeniem pojazdów wolnobieżnych;”.
 
 **Art. 11.** W ustawie z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. Nr 106, poz. 675 oraz z 2012 r. poz. 951 i 1256) wprowadza się następujące zmiany:
+
+- **1)** art. 12 otrzymuje brzmienie: „Art. 12. Operator publicznej sieci telekomunikacyjnej jest obowiązany uwzględnić uzasadnione wnioski jednostki samorządu terytorialnego o zapewnienie dostępu telekomunikacyjnego w zakresie połączenia sieci, zgodnie z przepisami działu II rozdziału 2 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.”;
+- **2)** w art. 13:
+    - **a)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) jednostka samorządu terytorialnego wykonująca działalność, o której mowa w art. 3 ust. 1, jest obowiązana:
+    - **a)** zawrzeć umowę o dostępie telekomunikacyjnym w terminie 30 dni od dnia wystąpienia o jej zawarcie,
+    - **b)** równo traktować przedsiębiorców telekomunikacyjnych, w szczególności przez oferowanie jednakowych warunków w porównywalnych okolicznościach;”,
+    - **b)** w ust. 4 uchyla się pkt 3;
+
+- **3)** art. 23 otrzymuje brzmienie: „Art. 23. 1. Do decyzji w sprawie współkorzystania lub dostępu do infrastruktury technicznej stosuje się odpowiednio przepisy działu I rozdziału 3 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.
+
+2. Do zmiany umowy o współkorzystaniu lub o dostępie do infrastruktury technicznej stosuje się odpowiednio przepisy art. 19, art. 21, art. 22 i art. 24.
+
+3. Do wniosku o zmianę umowy o współkorzystaniu lub o dostępie do infrastruktury technicznej, dołącza się tekst tej umowy, a w przypadku umowy, która była co najmniej raz zmieniona, dołącza się jednolity tekst tej umowy zawierający wszelkie dokonane zmiany.”;
+
+- **4)** w art. 33 uchyla się ust. 5 i 6;
+- **5)** w art. 61 ust. 5 otrzymuje brzmienie: „5. Państwowe Gospodarstwo Leśne Lasy Państwowe, zarządzające, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm. ), nieruchomościami w stosunku do których wydano pozwolenie na budowę regionalnej sieci szerokopasmowej zawierające zezwolenie, o którym mowa w ust. 1, jest obowiązane dokonać nieodpłatnie, z zastrzeżeniem ust. 6, wycinki drzew i krzewów oraz ich uprzątnięcia w terminie ustalonym w odrębnym porozumieniu między Państwowym Gospodarstwem Leśnym Lasy Państwowe a inwestorem.”;
+- **6)** uchyla się art. 78.
 
 **Art. 12.** Obowiązki nałożone na przedsiębiorcę telekomunikacyjnego na podstawie art. 47 ustawy zmienianej w art. 1 wygasają po upływie 3 miesięcy od dnia wejścia w życie ustawy.
 
@@ -828,6 +1485,9 @@ source: "isap-pdf"
 2. Prezes Urzędu Komunikacji Elektronicznej ogłasza informację, o której mowa w ust. 1, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” oraz na stronie podmiotowej Biuletynu Informacji Publicznej Urzędu Komunikacji Elektronicznej.
 
 **Art. 15.** W terminie 5 miesięcy od dnia wejścia w życie niniejszej ustawy przedsiębiorcy telekomunikacyjni obowiązani są do:
+
+- **1)** dostarczenia danych dotyczących przeniesionych numerów, o których mowa w art. 71 ust. 5 ustawy zmienianej w art. 1;
+- **2)** dostosowania swoich systemów informatycznych do systemu, o którym mowa w art. 78 ust. 4 ustawy zmienianej w art. 1 oraz do przekazania danych, o których mowa w art. 78 ust. 2 pkt 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 16.** Postępowania w sprawie wyznaczenia przedsiębiorcy telekomunikacyjnego lub kilku przedsiębiorców do świadczenia usługi powszechnej lub usługi wchodzącej w jej skład, wszczęte i niezakończone przed wejściem w życie niniejszej ustawy, umarza się.
 
@@ -849,7 +1509,7 @@ source: "isap-pdf"
 
 6. W przypadku istotnego zwiększenia wartości rynkowej częstotliwości objętych rezerwacją w wyniku zmiany lub zniesienia ograniczeń określonych w rezerwacji, podmiot, na rzecz którego dokonano rezerwacji częstotliwości, uiszcza opłatę odpowiadającą zwiększeniu wartości częstotliwości.
 
-7. Kwotę opłaty, o której mowa w ust. 6, ustala Prezes Urzędu Komunikacji Elektronicznej na podstawie opinii powołanego przez siebie biegłego lub biegłych biegłych ponosi podmiot, który złożył wniosek, o którym mowa w ust. 1.
+7. Kwotę opłaty, o której mowa w ust. 6, ustala Prezes Urzędu Komunikacji Elektronicznej na podstawie opinii powołanego przez siebie biegłego lub biegłych w przedmiocie wartości rynkowej tych częstotliwości. Koszt opinii biegłego lub biegłych ponosi podmiot, który złożył wniosek, o którym mowa w ust. 1.
 
 **Art. 20.**
 
@@ -869,11 +1529,18 @@ source: "isap-pdf"
 
 1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 5 ust. 4, art. 13, art. 78 ust. 7, art. 81 ust. 6, art. 82 ust. 5, art. 95 ust. 4, art. 111 ust. 3, art. 120, art. 126 ust. 12 i 13, art. 144 ust. 3, art. 148 ust. 4, art. 150 ust. 4, art. 184 ust. 4, art. 185 ust. 11 i 12 i art. 205 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 5 ust. 4, art. 13, art. 78 ust. 7, art. 81 ust. 6, art. 82 ust. 5, art. 95 ust. 4, art. 111 ust. 3, art. 120, art. 126 ust. 12 i 13, art. 144 ust. 3, art. 148 ust. 4, art. 150 ust. 4, art. 184 ust. 4, art. 185 ust. 11 i 12 i art. 205 ust. 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 24 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 73 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykoniu nadanym niniejszą ustawą i mogą być zmieniane na podstawie tego artykułu.
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 73 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 73 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą i mogą być zmieniane na podstawie tego artykułu.
 
 **Art. 26.** Do postępowań w sprawie uzyskania decyzji, uzgodnienia oraz opinii, o których mowa w art. 51 ust. 3 ustawy zmienianej w art. 8, decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej oraz pozwolenia na budowę regionalnej sieci szerokopasmowej, wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy decyzją ostateczną, przepisy dotychczasowe stosuje się na wniosek inwestora, który może być złożony najpóźniej w terminie 2 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 27.** Operator publicznej sieci telekomunikacyjnej oraz dostawca publicznie dostępnych usług telekomunikacyjnych, przechowujący zgodnie z art. 180a ust. 1 pkt 1 ustawy zmienianej w art. 1 dane, o których mowa w art. 180c ustawy zmienianej w art. 1 generowane w sieci telekomunikacyjnej lub przez nich przetwarzane, na terytorium Rzeczypospolitej Polskiej są obowiązani do zniszczenia z dniem wejścia w życie niniejszej ustawy danych przechowywanych przez okres dłuższy niż 12 miesięcy, licząc od dnia połączenia lub nieudanej próby połączenia, z wyjątkiem danych, które zostały zabezpieczone, zgodnie z przepisami odrębnymi.
 
 **Art. 28.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 50, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia;
+- **2)** art. 1 pkt 54 lit. d, pkt 105, pkt 122, pkt 123 w zakresie art. 174a i art. 174d, pkt 125 oraz pkt 126, które wchodzą w życie po upływie 90 dni od dnia ogłoszenia;
+- **3)** (uchylony);
+- **4)** art. 1 pkt 130 oraz pkt 131, które wchodzą w życie z dniem 1 stycznia 2013 r.;
+- **5)** art. 10, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+
 

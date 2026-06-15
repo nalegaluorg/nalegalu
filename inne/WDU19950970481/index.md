@@ -8,7 +8,7 @@ pos: 481
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej
@@ -196,7 +196,26 @@ source: "isap-pdf"
 
 **Art. 21.** Działalność charytatywno-opiekuńcza Kościoła obejmuje w szczególności:
 
+- **1)** prowadzenie zakładów dla sierot, osób w podeszłym wieku lub niepełnosprawnych oraz innych osób potrzebujących opieki;
+- **2)** wykonywanie działalności leczniczej w rozumieniu przepisów o działalności leczniczej, prowadzenie aptek, ośrodków zdrowego życia, oświaty zdrowotnej i ekologicznej oraz przeciwdziałania patologiom społecznym;
+- **3)** organizowanie pomocy w zakresie małżeństwa, macierzyństwa i rodziny;
+- **4)** organizowanie pomocy sierotom, osobom dotkniętym klęskami żywiołowymi i epidemiami, ofiarom wojennym, znajdującym się w trudnym położeniu materialnym lub zdrowotnym rodzinom i osobom, w tym pozbawionym wolności;
+- **5)** prowadzenie żłobków, ochronek, burs i schronisk;
+- **6)** udzielanie pomocy w zapewnianiu wypoczynku dzieciom i młodzieży znajdującej się w potrzebie;
+- **7)** udzielanie pomocy materialnej młodzieży uczącej się i studiującej, a znajdującej się w potrzebie;
+- **8)** krzewienie idei miłości bliźnich i postaw moralno-społecznych temu sprzyjających;
+- **9)** popularyzowanie postaw prozdrowotnych;
+- **10)** upowszechnianie zasad chrześcijańskiego etosu pracy i ekonomiki;
+- **11)** przekazywanie za granicę pomocy ofiarom klęsk żywiołowych i osobom znajdującym się w szczególnej potrzebie.
+
 **Art. 22.** Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z:
+
+- **1)** ofiar pieniężnych i w naturze;
+- **2)** spadków, zapisów i darowizn krajowych i zagranicznych;
+- **3)** dochodów z imprez i zbiórek publicznych;
+- **4)** subwencji, dotacji i ofiar pochodzących od krajowych instytucji i przedsiębiorstw państwowych, społecznych, wyznaniowych i prywatnych;
+- **5)** odpłatności za usługi świadczone przez kościelne instytucje charytatywno-opiekuńcze;
+- **6)** dochodów kościelnych osób prawnych, w tym z ich działalności gospodarczej.
 
 **Art. 23.**
 
@@ -319,4 +338,7 @@ source: "isap-pdf"
 2. Wykaz kościelnych osób prawnych istniejących w dniu wejścia w życie ustawy określa załącznik do ustawy.
 
 **Art. 37.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 30 czerwca 1995 r. (Dz. U. z 2022 r. poz.
+
+- **2616)** I. Diecezje: Diecezja Południowa Diecezja Wschodnia Diecezja Zachodnia II. Instytucje i organizacje: Chrześcijańska Służba Charytatywna Chrześcijański Instytut Wydawniczy „Znaki Czasu” Dom Opieki „Samarytanin” w Bielsku-Białej Ośrodek Radiowo-Telewizyjny „Głos Nadziei” III. Seminaria: Wyższe Seminarium Duchowne Kościoła Adwentystów Dnia Siódmego im. Michała Beliny-Czechowskiego w Podkowie Leśnej.
+
 

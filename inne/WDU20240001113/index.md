@@ -8,7 +8,7 @@ pos: 1113
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o organizacji i funkcjonowaniu funduszy emerytalnych
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-14 |
 | Data wydania | 2024-07-25 |
-| Ostatnia zmiana | 2026-03-05 |
+| Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001113) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1113/text.pdf) |
 
 Art. 223–228. (pominięte)
@@ -71,6 +71,41 @@ Art. 223–228. (pominięte)
 **Art. 7.** Ustawa nie narusza przepisów innych ustaw, które przewidują wypłatę świadczeń pieniężnych w związku z osiągnięciem wieku emerytalnego.
 
 **Art. 8.** Użyte w niniejszej ustawie określenia mają następujące znaczenie:
+
+- **1)** podmiot związany – oznacza w stosunku do danego podmiotu jednostkę dominującą, zależną lub stowarzyszoną w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619) oraz jednostkę zależną od jednostki dominującej w stosunku do tego podmiotu;
+- **1a)** jednostka dominująca – oznacza jednostkę dominującą w rozumieniu przepisów o rachunkowości;
+- **1b)** (uchylony)
+- **2)** członek funduszu – oznacza osobę fizyczną, która uzyskała członkostwo w funduszu zgodnie z przepisami ustawy;
+- **3)** wypłata transferowa – oznacza przeniesienie środków znajdujących się na rachunku członka z jednego funduszu do innego funduszu lub przeniesienie tych środków dokonywane między rachunkami tego samego funduszu, bez względu na stan rachunku;
+- **3a)** dobrowolny fundusz – oznacza fundusz utworzony i zarządzany przez powszechne towarzystwo, prowadzący IKE lub IKZE, albo gromadzący środki w PPK zgodnie z przepisami ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych oraz lokujący je zgodnie z polityką inwestycyjną funduszu zdefiniowanej daty, o którym mowa w art. 38 tej ustawy, zwanego dalej „funduszem zdefiniowanej daty”;
+- **3b)** składki – oznacza składki wpłacone do otwartego funduszu, składki wpłacone i akcje przeniesione do pracowniczego funduszu oraz środki wpłacone do dobrowolnego funduszu;
+- **4)** (uchylony) 4a) okresowa emerytura kapitałowa – oznacza emeryturę, o której mowa w ustawie z dnia 21 listopada 2008 r. o emeryturach kapitałowych;
+- **4b)** (uchylony)
+- **5)** otwarty fundusz – oznacza otwarty fundusz emerytalny, który został utworzony i jest zarządzany przez powszechne towarzystwo;
+- **6)** pracowniczy fundusz – oznacza pracowniczy fundusz emerytalny, który został utworzony i jest zarządzany przez pracownicze towarzystwo, którego przedmiotem działalności jest gromadzenie środków zgodnie z art. 2 ust. 2 lub 4, albo gromadzenie środków w PPK zgodnie z przepisami ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych oraz lokowanie ich zgodnie z polityką inwestycyjną funduszu zdefiniowanej daty;
+- **6a)** fundusz emerytalny FUS – oznacza fundusz emerytalny Funduszu Ubezpieczeń Społecznych, o którym mowa w art. 55 ust. 1 pkt 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r. poz. 497 i 863);
+- **6b)** pracowniczy fundusz przenoszący – oznacza pracowniczy fundusz, który przenosi zobowiązania tego funduszu oraz inne zobowiązania i prawa, jak również związane z nimi aktywa lub ich ekwiwalenty pieniężne związane z przenoszonym pracowniczym programem emerytalnym do pracowniczego funduszu zarejestrowanego lub wykonującego działalność na podstawie zezwolenia w innym państwie członkowskim Unii Europejskiej;
+- **6c)** pracowniczy fundusz przyjmujący – oznacza pracowniczy fundusz, który przyjmuje od pracowniczego funduszu zarejestrowanego lub wykonującego działalność na podstawie zezwolenia w innym państwie członkowskim Unii Europejskiej zobowiązania tego funduszu oraz inne zobowiązania i prawa, jak również związane z nimi aktywa lub ich ekwiwalenty pieniężne związane z przenoszonym pracowniczym programem emerytalnym;
+- **7)** towarzystwo – oznacza spółkę akcyjną będącą organem funduszu;
+- **8)** powszechne towarzystwo – oznacza powszechne towarzystwo emerytalne będące organem otwartego funduszu lub dobrowolnego funduszu;
+- **9)** pracownicze towarzystwo – oznacza pracownicze towarzystwo emerytalne będące organem pracowniczego funduszu;
+- **10)** pracodawca zagraniczny – oznacza podmiot, niezależnie od jego formy prawnej, mający siedzibę na terytorium jednego z państw członkowskich Unii Europejskiej, państwa Europejskiego Obszaru Gospodarczego niebędącego państwem członkowskim Unii Europejskiej albo Konfederacji Szwajcarskiej, który, w rozumieniu właściwych przepisów prawa ubezpieczeń społecznych i prawa pracy tego państwa, jest pracodawcą lub osobą prowadzącą działalność na własny rachunek;
+- **11)** zagraniczny organ nadzoru – oznacza krajowe władze państwa członkowskiego Unii Europejskiej, właściwe w zakresie nadzoru nad realizacją programu emerytalnego pracodawcy zagranicznego;
+- **12)** program emerytalny pracodawcy zagranicznego – oznacza zasady gromadzenia oszczędności na cele emerytalne, obowiązujące pracodawcę zagranicznego;
+- **13)** gwarancje – oznacza gwarancje wyników inwestycyjnych oraz danego poziomu świadczeń;
+- **14)** pracownik zagraniczny – oznacza osobę fizyczną zatrudnioną przez pracodawcę zagranicznego;
+- **15)** ryzyka biometryczne – oznacza ryzyka związane ze śmiercią, niepełnosprawnością lub długowiecznością;
+- **16)** zakład ubezpieczeń na życie – oznacza zakład ubezpieczeń prowadzący działalność w zakresie ubezpieczeń, o których mowa w dziale I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838);
+- **17)** rynek regulowany w państwach innych niż Rzeczpospolita Polska – oznacza działający w sposób stały w państwach, o których mowa w art. 141 ust. 4, wielostronny system zawierania transakcji, których przedmiotem są instrumenty finansowe dopuszczone do obrotu w tym systemie, zapewniający inwestorom powszechny i równy dostęp do informacji rynkowej w tym samym czasie przy kojarzeniu ofert nabycia i zbycia instrumentów finansowych oraz jednakowe warunki nabywania i zbywania tych instrumentów, zorganizowany i podlegający nadzorowi właściwego organu, a w przypadku rynku działającego w państwach członkowskich Unii Europejskiej – uznany przez dane państwo za spełniający te warunki i wskazany Komisji Europejskiej jako rynek regulowany;
+- **18)** rodzime państwo członkowskie – oznacza państwo członkowskie Unii Europejskiej, w którym pracowniczy fundusz został zarejestrowany lub otrzymał zezwolenie na wykonywanie działalności oraz w którym znajduje się zarząd towarzystwa będącego organem pracowniczego funduszu;
+- **19)** przyjmujące państwo członkowskie ‒ oznacza państwo członkowskie Unii Europejskiej inne niż rodzime państwo członkowskie, którego przepisy prawa ubezpieczeń społecznych i prawa pracy stosuje się do relacji między pracodawcą, członkami pracowniczego funduszu oraz osobami uprawnionymi do otrzymania wypłaty;
+- **20)** kluczowa funkcja ‒ oznacza wykonywanie praktycznych zadań obejmujących funkcję zarządzania ryzykiem oraz funkcję audytu wewnętrznego;
+- **21)** działalność transgraniczna – oznacza obsługę pracowniczego funduszu, w którym relacje między pracodawcą, członkami pracowniczego funduszu oraz osobami uprawnionymi do otrzymania wypłaty podlegają przepisom prawa ubezpieczeń społecznych i prawa pracy mającym zastosowanie do pracowniczych programów emerytalnych, obowiązującym w przyjmującym państwie członkowskim; <22) rozporządzenie 2023/2859 – oznacza rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );
+- **23)** dyrektywa 2016/2341 – oznacza dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/2341 z dnia 14 grudnia 2016 r. w sprawie działalności instytucji pracowniczych programów emerytalnych oraz nadzoru nad takimi instytucjami (IORP) (Dz. Urz. UE L 354 z 23.12.2016, str. 37, z późn. zm. );
+- **24)** europejski pojedynczy punkt dostępu – oznacza europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
+- **25)** metadane – oznaczają metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;
+- **26)** format umożliwiający ekstrakcję danych – oznacza format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;
+- **27)** format nadający się do odczytu maszynowego – oznacza format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego.>
 
 **Art. 8a.** Jeżeli w ustawie jest mowa o ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2024 r. poz. 556), należy przez to również rozumieć odpowiednie przepisy prawa ubezpieczeń społecznych i prawa pracy dotyczące organizacji programów emerytalnych, właściwe dla państwa będącego siedzibą pracodawcy zagranicznego.
 
@@ -718,7 +753,20 @@ Art. 223–228. (pominięte)
 - **5)** pracownicze towarzystwo ustanawia ogólne zasady polityki wynagrodzeń, jest odpowiedzialne za jej wdrażanie oraz dokonuje przeglądu i aktualizacji tej polityki przynajmniej co 3 lata;
 - **6)** zarządzanie w zakresie wynagrodzeń i nadzoru nad nimi jest prowadzone w sposób zrozumiały, przejrzysty i skuteczny.
 
-4. Politykę wynagrodzeń, o której mowa w ust. 1, pracownicze towarzystwo stosuje także do innych pracowników pracowniczego towarzystwa, których działalność zawodowa może mieć wpływ na profil ryzyka pracowniczego towarzystwa.
+4. Politykę wynagrodzeń, o której mowa w ust. 1, pracownicze towarzystwo stosuje także do innych pracowników pracowniczego towarzystwa, których działalność zawodowa może mieć wpływ na profil ryzyka pracowniczego towarzystwa. <Art. 47c. 1. Pracownicze towarzystwo równocześnie z podaniem do publicznej wiadomości informacji, o których mowa w art. 47b ust. 2, przekazuje te informacje organowi nadzoru w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 63a ust. 5 dyrektywy 2016/2341.
+
+2. Informacje, o których mowa w art. 47b ust. 2, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą pracowniczego towarzystwa, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego pracowniczego towarzystwa, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości pracowniczego towarzystwa, którego dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 63a ust. 5 dyrektywy 2016/2341.
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, pracownicze towarzystwo występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+4. Organ nadzoru udostępnia informacje, o których mowa w art. 47b ust. 2, w europejskim pojedynczym punkcie dostępu.>
 
 **Art. 48.**
 
@@ -840,6 +888,13 @@ Art. 223–228. (pominięte)
 4. Odmowa wydania promesy zezwolenia na utworzenie funduszu może nastąpić z przyczyn, o których mowa w art. 15 ust. 2.
 
 **Art. 57.** Organ nadzoru odmawia wydania zezwolenia na utworzenie towarzystwa, jeżeli:
+
+- **1)** wniosek i dołączone do niego dokumenty nie spełniają warunków określonych w przepisach prawa;
+- **2)** w statucie towarzystwa są zamieszczone postanowienia mogące zagrażać bezpieczeństwu aktywów funduszu albo w inny sposób naruszać interes członków funduszu;
+- **3)** przedstawiony przez założycieli plan organizacyjny i finansowy działalności towarzystwa na 3 lata nie zabezpiecza w należyty sposób interesów członków funduszu;
+- **4)** założyciele towarzystwa i członkowie władz statutowych towarzystwa nie dają rękojmi prowadzenia spraw towarzystwa w sposób zapewniający należytą ochronę interesów członków funduszu;
+- **5)** z dokumentów przedstawiających sytuację finansową akcjonariuszy towarzystwa za ostatnie 5 lat wynika, że którykolwiek z nich posiada zaległości podatkowe lub zaległości z tytułu składek, do których poboru obowiązany jest Zakład Ubezpieczeń Społecznych;
+- **6)** kapitał zakładowy powszechnego towarzystwa pochodzi z pożyczki, kredytu lub jest obciążony w jakikolwiek sposób.
 
 **Art. 58.**
 
@@ -1239,6 +1294,9 @@ Art. 223–228. (pominięte)
 
 **Art. 78e.** Z dniem wykreślenia funduszu przejmowanego z rejestru funduszy:
 
+- **1)** fundusz przejmujący wstępuje w prawa i obowiązki funduszu przejmowanego;
+- **2)** wpis do rejestru, o którym mowa w art. 78d ust. 2, wywołuje skutek prawny.
+
 **Art. 78f.** Depozytariusz funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków określonych w art. 159, niezwłocznie po dniu, o którym mowa w art. 78e.
 
 **Art. 78g.** Fundusz przejmujący, w terminie 6 miesięcy od dnia, o którym mowa w art. 78e, dostosowuje stan swoich aktywów do wymagań określonych w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, do przepisów wykonawczych wydanych na jej podstawie oraz do zasad i ograniczeń inwestycyjnych określonych w ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi dla funduszy inwestycyjnych otwartych, w przepisach art. 116a–116b tej ustawy oraz w przepisach wydanych na podstawie art. 116d tej ustawy w zakresie, w jakim dotyczą specjalistycznych funduszy inwestycyjnych otwartych stosujących zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego oraz w statucie funduszu.
@@ -1319,6 +1377,16 @@ Art. 223–228. (pominięte)
 
 **Art. 85.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** sposób i tryb zawarcia umowy, na której podstawie następuje uzyskanie członkostwa w otwartym funduszu;
+- **2)** sposób i termin składania oświadczenia o małżeńskich stosunkach majątkowych członka otwartego funduszu oraz zawiadamiania otwartego funduszu o każdorazowej zmianie w stosunku do treści takiego oświadczenia obejmującej środki zgromadzone na rachunku członka;
+- **2a)** sposób i termin składania oświadczenia, o którym mowa w art. 82a;
+- **3)** sposób i termin zawiadamiania, o którym mowa w art. 84;
+- **4)** tryb i terminy powiadamiania Zakładu Ubezpieczeń Społecznych przez otwarty fundusz o zawarciu umowy z członkiem funduszu oraz zakres danych, jakie powinno zawierać powiadomienie;
+- **4a)** wzór informacji, o której mowa w art. 82a;
+- **5)** wzór zawiadomienia, o którym mowa w art. 84;
+- **6)** szczegółowe zasady wycofywania przez otwarty fundusz zgłoszenia o zawarciu umowy z członkiem oraz wykreślenia wpisu w Centralnym Rejestrze Członków Otwartych Funduszy Emerytalnych przez Zakład Ubezpieczeń Społecznych;
+- **7)** szczegółowy sposób ustalania i rozliczenia podlegającej zwrotowi nienależnie otrzymanej składki, o której mowa w art. 100a.
+
 **Art. 85a.** Rada Ministrów, wydając rozporządzenie, o którym mowa w art. 85, bierze pod uwagę konieczność zapewnienia ochrony interesów członków otwartego funduszu oraz prawidłowości i rzetelności przekazywanych informacji.
 
 **Art. 86.**
@@ -1330,6 +1398,9 @@ Art. 223–228. (pominięte)
 **Art. 87.** Uzyskanie członkostwa w pracowniczym funduszu następuje na zasadach określonych w ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych, a w przypadku pracowniczego funduszu będącego funduszem zdefiniowanej daty – z chwilą zawarcia przez fundusz zdefiniowanej daty z podmiotem zatrudniającym, o którym mowa w art. 2 ust. 1 pkt 21 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, w imieniu i na rzecz osoby zatrudnionej umowy o prowadzenie PPK, o której mowa w art. 14 tej ustawy.
 
 **Art. 88.** Członek może zrezygnować z członkostwa w pracowniczym funduszu na zasadach określonych w ustawie:
+
+- **1)** z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych albo
+- **2)** z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
 
 **Art. 88a.** Uzyskanie członkostwa w dobrowolnym funduszu prowadzącym IKE lub IKZE następuje z chwilą zawarcia umowy o prowadzenie IKE lub IKZE z funduszem, a w przypadku dobrowolnego funduszu będącego funduszem zdefiniowanej daty – z chwilą zawarcia przez fundusz z podmiotem zatrudniającym, o którym mowa w art. 2 ust. 1 pkt 21 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, w imieniu i na rzecz osoby zatrudnionej umowy o prowadzenie PPK, o której mowa w art. 14 tej ustawy.
 
@@ -2259,13 +2330,30 @@ Art. 223–228. (pominięte)
 
 4. Jeżeli ustalenia, o których mowa w ust. 2, nie obejmują co najmniej jednego z elementów, o których mowa w ust. 3, pracowniczy fundusz wyjaśnia i uzasadnia tego przyczyny.
 
-5. Informacje, o których mowa w ust. 1–3, oraz wyjaśnienia i uzasadnienie, o których mowa w ust. 4, są publikowane i bezpłatnie udostępniane na stronie internetowej pracowniczego funduszu oraz są uaktualniane co rok, a także w przypadku istotnej zmiany.
+5. Informacje, o których mowa w ust. 1–3, oraz wyjaśnienia i uzasadnienie, o których mowa w ust. 4, są publikowane i bezpłatnie udostępniane na stronie internetowej pracowniczego funduszu oraz są uaktualniane co rok, a także w przypadku istotnej zmiany. <Art. 142ca. 1. Pracowniczy fundusz równocześnie z opublikowaniem dokumentów, o których mowa w art. 142a ust. 1, 3 i 4 oraz art. 142c ust. 1, 2 i 4, przekazuje te dokumenty organowi nadzoru w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie wykonywania niektórych praw akcjonariuszy spółek notowanych na rynku regulowanym (Dz. Urz. UE L 184 z 14.07.2007, str. 17, z późn. zm. ).
 
-**Art. 142d.** Za opracowanie i publikację dokumentów, o których mowa w art. 142a ust. 1, 3 i 4 oraz art. 142c ust. 1, 2 i 4, oraz za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu pracowniczego towarzystwa zarządzającego pracowniczym funduszem, o którym mowa w art. 142a ust. 1.
+2. Dokumenty, o których mowa w art. 142a ust. 1, 3 i 4 oraz art. 142c ust. 1, 2 i 4, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą pracowniczego funduszu, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego pracowniczego funduszu, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości pracowniczego funduszu, którego dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie wykonywania niektórych praw akcjonariuszy spółek notowanych na rynku regulowanym.
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, pracowniczy fundusz występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+4. Organ nadzoru udostępnia dokumenty, o których mowa w art. 142a ust. 1, 3 i 4 oraz art. 142c ust. 1, 2 i 4, w europejskim pojedynczym punkcie dostępu. >
+
+**Art. 142d.** Za [opracowanie i publikację] <opracowanie, publikację i przekazanie organowi nadzoru> dokumentów, o których mowa w art. 142a ust. 1, 3 i 4 oraz art. 142c ust. 1, 2 i 4, oraz za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu pracowniczego towarzystwa zarządzającego pracowniczym funduszem, o którym mowa w art. 142a ust. 1.
 
 **Art. 143.** (uchylony)
 
 **Art. 144.** Aktywa otwartego funduszu i dobrowolnego funduszu nie mogą być lokowane w:
+
+- **1)** akcjach lub innych papierach wartościowych emitowanych przez powszechne towarzystwo zarządzające tymi funduszami;
+- **2)** akcjach lub innych papierach wartościowych emitowanych przez akcjonariusza powszechnego towarzystwa zarządzającego tymi funduszami;
+- **3)** akcjach lub innych papierach wartościowych emitowanych przez podmioty będące podmiotami związanymi w stosunku do podmiotów określonych w pkt 1 i 2.
 
 **Art. 145.** Aktywa pracowniczego funduszu nie mogą być lokowane w papierach wartościowych emitowanych przez pracownicze towarzystwo zarządzające tym funduszem.
 
@@ -2288,7 +2376,7 @@ Art. 223–228. (pominięte)
 
 1. Pracowniczy fundusz nie może polegać wyłącznie lub automatycznie na ratingach kredytowych sporządzanych przez zewnętrzne instytucje oceny wiarygodności kredytowej lub wykorzystywać ich jako jedynego parametru przy ocenie ryzyka związanego z lokowaniem aktywów pracowniczego funduszu.
 
-2. Przez zewnętrzną instytucję oceny wiarygodności kredytowej, o której mowa w ust. 1, rozumie się agencję ratingową zarejestrowaną lub certyfikowaną zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1060/2009 z dnia 16 września 2009 r. w sprawie agencji ratingowych (Dz. Urz. UE L 302 z 17.11.2009, 1, z późn. zm.) lub bank centralny sporządzający ratingi kredytowe wyłączone z zakresu stosowania tego rozporządzenia.
+2. Przez zewnętrzną instytucję oceny wiarygodności kredytowej, o której mowa w ust. 1, rozumie się agencję ratingową zarejestrowaną lub certyfikowaną zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1060/2009 z dnia 16 września 2009 r. w sprawie agencji ratingowych (Dz. Urz. UE L 302 z 17.11.2009, s. 1, z późn. zm.) lub bank centralny sporządzający ratingi kredytowe wyłączone z zakresu stosowania tego rozporządzenia.
 
 **Art. 147.**
 
@@ -2297,6 +2385,10 @@ Art. 223–228. (pominięte)
 2. Statut pracowniczego funduszu może określać, że pracowniczy fundusz w swojej działalności uwzględnia potencjalne długoterminowe skutki decyzji inwestycyjnych dotyczących czynników środowiskowych, społecznych i czynników związanych z ładem korporacyjnym.
 
 **Art. 148.** Wszelkie lokaty pracowniczego funduszu w jednostkach uczestnictwa zbywanych przez fundusze inwestycyjne otwarte lub specjalistyczne fundusze inwestycyjne otwarte podlegają następującym ograniczeniom:
+
+- **1)** towarzystwo funduszy inwestycyjnych zarządzające funduszem inwestycyjnym otwartym lub specjalistycznym funduszem inwestycyjnym otwartym, w którego jednostkach uczestnictwa pracowniczy fundusz ulokował swoje aktywa, nie może posiadać więcej niż 5 % akcji któregokolwiek z akcjonariuszy pracowniczego towarzystwa zarządzającego tym funduszem oraz więcej niż 10 % łącznej ilości akcji wszystkich akcjonariuszy tego towarzystwa;
+- **2)** w akcjach któregokolwiek z akcjonariuszy pracowniczego towarzystwa nie może być ulokowane więcej niż 5 % wartości aktywów funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego;
+- **3)** żaden z członków zarządu ani rady nadzorczej pracowniczego towarzystwa nie może być członkiem zarządu ani rady nadzorczej towarzystwa funduszy inwestycyjnych zarządzającego funduszem inwestycyjnym otwartym lub specjalistycznym funduszem inwestycyjnym otwartym.
 
 **Art. 149.**
 
@@ -2309,6 +2401,19 @@ Art. 223–228. (pominięte)
 4. Jeżeli w następstwie realizacji harmonogramu, o którym mowa w art. 102, nastąpi – ze względu na interes członków pracowniczego funduszu – naruszenie przez fundusz przepisów art. 146, dostosowanie działalności lokacyjnej funduszu do wymogów określonych w tych przepisach powinno nastąpić nie później niż w terminie miesiąca od daty zaistnienia stanu niezgodnego z prawem lub daty stwierdzenia takiego stanu, zgodnie z ust. 2, z tym że organ nadzoru może, na wniosek funduszu, przedłużyć ten termin do 6 miesięcy. W tym ostatnim przypadku przepis ust. 3 stosuje się odpowiednio.
 
 **Art. 150.** Fundusz nie może:
+
+- **1)** zbywać swoich aktywów:
+    - **a)** towarzystwu zarządzającemu funduszem,
+    - **b)** członkom zarządu lub rady nadzorczej towarzystwa,
+    - **c)** osobom zatrudnionym w towarzystwie,
+    - **d)** osobom pozostającym z osobami wymienionymi w lit. b–c w związku małżeńskim, stosunku pokrewieństwa lub powinowactwa do drugiego stopnia włącznie,
+    - **e)** akcjonariuszom towarzystwa,
+    - **f)** podmiotowi związanemu w stosunku do towarzystwa,
+    - **g)** podmiotowi związanemu w stosunku do akcjonariuszy towarzystwa;
+    - **h)** (uchylona)
+
+- **2)** nabywać za swoje aktywa aktywów od któregokolwiek z podmiotów wymienionych w pkt 1;
+- **3)** udzielać pożyczek, gwarancji i poręczeń, z zastrzeżeniem art. 141 ust. 1 i art. 151.
 
 **Art. 151.**
 
@@ -2520,6 +2625,11 @@ Art. 223–228. (pominięte)
 
 **Art. 174.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe zasady ustalania stopy zwrotu i średniej ważonej stopy zwrotu wszystkich otwartych funduszy, w tym zasady zaokrąglania ustalonych wielkości;
+- **2)** sposób i termin zawiadamiania organu nadzoru przez otwarty fundusz o wysokości stopy zwrotu funduszu oraz sposób i termin przekazywania przez otwarty fundusz informacji o wysokości tej stopy na ogólnodostępnej stronie internetowej;
+- **3)** sposób podawania przez organ nadzoru do publicznej wiadomości wysokości średniej ważonej stopy zwrotu wszystkich otwartych funduszy, o której mowa w art. 173 ust. 1;
+- **4)** sposób i termin zawiadamiania organu nadzoru przez fundusz o wartości aktywów netto funduszu i wartości jednostki rozrachunkowej.
+
 #### Rozdział 18 Rachunek premiowy i rachunek rezerwowy
 
 **Art. 175.** (uchylony)
@@ -2620,7 +2730,20 @@ Art. 223–228. (pominięte)
 
 2. Otwarty fundusz i dobrowolny fundusz udostępniają prospekt informacyjny wraz z ostatnim półrocznym sprawozdaniem finansowym także na każde żądanie członka.
 
-3. Prospekt informacyjny oraz półroczne i roczne sprawozdania finansowe powinny być przekazane organowi nadzoru niezwłocznie po ich sporządzeniu, a roczne sprawozdania finansowe – także po ich zatwierdzeniu przez powszechne towarzystwo w drodze uchwały walnego zgromadzenia.
+3. Prospekt informacyjny oraz półroczne i roczne sprawozdania finansowe powinny być przekazane organowi nadzoru niezwłocznie po ich sporządzeniu, a roczne sprawozdania finansowe – także po ich zatwierdzeniu przez powszechne towarzystwo w drodze uchwały walnego zgromadzenia. <3a. Pracowniczy fundusz przekazuje organowi nadzoru roczne sprawozdanie finansowe zatwierdzone przez pracownicze towarzystwo w drodze uchwały walnego zgromadzenia, w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 63a ust. 5 dyrektywy 2016/2341.
+
+3b. Sprawozdanie finansowe, o którym mowa w ust. 3a, jest opatrywane następującymi metadanymi:
+
+- **1)** nazwą pracowniczego funduszu, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego pracowniczego funduszu, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości pracowniczego funduszu, którego dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 63a ust. 5 dyrektywy 2016/2341.
+
+3c. Na potrzeby przekazania metadanej, o której mowa w ust. 3b pkt 2, pracowniczy fundusz występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+3d. Organ nadzoru udostępnia sprawozdanie finansowe, o którym mowa w ust. 3a, w europejskim pojedynczym punkcie dostępu. >
 
 4. Dobrowolny fundusz będący funduszem zdefiniowanej daty udostępnia prospekt informacyjny podmiotom zatrudniającym w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, z którymi ten dobrowolny fundusz zawarł umowę o zarządzanie PPK, o której mowa w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych. Przepisu ust. 1 nie stosuje się.
 
@@ -2684,7 +2807,20 @@ Art. 223–228. (pominięte)
 
 4. Dobrowolny fundusz i pracowniczy fundusz są obowiązane do przekazania organowi nadzoru po raz pierwszy deklaracji w terminie 6 miesięcy od dnia wpłynięcia pierwszej składki do funduszu.
 
-5. Dobrowolny fundusz i pracowniczy fundusz udostępniają deklarację za pośrednictwem ogólnodostępnej strony internetowej oraz przekazują deklarację na pisemne żądanie członka funduszu.
+5. Dobrowolny fundusz i pracowniczy fundusz udostępniają deklarację za pośrednictwem ogólnodostępnej strony internetowej oraz przekazują deklarację na pisemne żądanie członka funduszu. <6. Deklaracja pracowniczego funduszu jest przekazywana organowi nadzoru w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 63a ust. 5 dyrektywy 2016/2341.
+
+7. Deklaracja pracowniczego funduszu jest opatrywana następującymi metadanymi:
+
+- **1)** nazwą pracowniczego funduszu, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego pracowniczego funduszu, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości pracowniczego funduszu, którego dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 63a ust. 5 dyrektywy 2016/2341.
+
+8. Na potrzeby przekazania metadanej, o której mowa w ust. 7 pkt 2, pracowniczy fundusz występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+9. Organ nadzoru udostępnia deklarację pracowniczego funduszu w europejskim pojedynczym punkcie dostępu. >
 
 **Art. 194b.**
 
@@ -2697,6 +2833,10 @@ Art. 223–228. (pominięte)
 **Art. 195.** Towarzystwo i fundusz mają obowiązek dostarczania organowi nadzoru okresowych sprawozdań oraz bieżących informacji dotyczących ich działalności i sytuacji finansowej.
 
 **Art. 196.** Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe warunki, jakim powinien odpowiadać prospekt informacyjny oraz informacja, o której mowa w art. 191 ust. 1,
+- **2)** sposób i termin udostępniania przez fundusz prospektu informacyjnego oraz termin przesyłania informacji, o których mowa w art. 191–193,
+- **3)** zakres sprawozdań i bieżących informacji dostarczanych przez towarzystwo i fundusz do organu nadzoru oraz terminy przekazywania tych sprawozdań i informacji – uwzględniając wymogi kompletności i rzetelności informacji dotyczących funkcjonowania funduszy.
 
 **Art. 197.**
 
@@ -2990,7 +3130,14 @@ Art. 223–228. (pominięte)
 
 3. W przypadku gdy organ nadzoru uzna, że opublikowanie danych identyfikacyjnych podmiotu, na który nałożono sankcję, byłoby nieproporcjonalne w oparciu o indywidualną ocenę proporcjonalności opublikowania takich danych, lub w przypadku gdy zagroziłoby stabilności rynków finansowych lub trwającemu postępowaniu, organ nadzoru może podjąć decyzję o odroczeniu publikacji, zaniechaniu publikacji lub o opublikowaniu informacji o nałożonych sankcjach w sposób zanonimizowany.
 
-4. Obowiązek publikacji informacji, o której mowa w ust. 1, powstaje w dniu, w którym decyzja o nałożeniu sankcji stała się ostateczna.
+4. Obowiązek publikacji informacji, o której mowa w ust. 1, powstaje w dniu, w którym decyzja o nałożeniu sankcji stała się ostateczna. <5. Organ nadzoru udostępnia informację, o której mowa w ust. 1, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+
+6. Informacja, o której mowa w ust. 1, jest opatrywana następującymi metadanymi:
+
+- **1)** imieniem i nazwiskiem osoby fizycznej lub firmą (nazwą) podmiotu, na które nałożono sankcję;
+- **2)** identyfikatorem podmiotu prawnego podmiotu, na który nałożono sankcję, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany organowi nadzoru;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacja zawiera dane osobowe.>
 
 **Art. 208.** (uchylony)
 
@@ -3047,4 +3194,9 @@ Art. 223–228. (pominięte)
 **Art. 230a.** (pominięty)
 
 **Art. 231.** Ustawa wchodzi w życie z dniem 1 kwietnia 1999 r., z wyjątkiem:
+
+- **1)** art. 199–214 i art. 230, które wchodzą w życie z dniem 1 maja 1998 r.;
+- **2)** art. 1–60, art. 92–94, art. 152, art. 157–164, art. 197, art. 215–222 i art. 230a, które wchodzą w życie z dniem 1 sierpnia 1998 r.;
+- **3)** art. 81–85, art. 90, art. 98 i art. 189–190, które wchodzą w życie z dniem 1 marca 1999 r.
+
 

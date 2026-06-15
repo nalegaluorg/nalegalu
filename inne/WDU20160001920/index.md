@@ -8,7 +8,7 @@ pos: 1920
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o umowie koncesji na roboty budowlane lub usługi
@@ -34,6 +34,22 @@ Art. 57–67. (pominięte)
 **Art. 1.** Ustawa określa zasady i tryb zawierania umowy koncesji na roboty budowlane lub usługi, zwanej dalej „umową koncesji”, środki ochrony prawnej oraz organy właściwe w sprawach uregulowanych w ustawie.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** dokumentach koncesji – należy przez to rozumieć dokumenty, które wytworzył lub do których odwołuje się zamawiający, służące do opisania lub ustalenia elementów umowy koncesji lub postępowania o zawarcie umowy koncesji, w tym ogłoszenie o postępowaniu o zawarcie umowy, zwane dalej „ogłoszeniem o koncesji”, wstępne ogłoszenie informacyjne, zaproszenie do ubiegania się o zawarcie umowy koncesji, zaproszenie do składania ofert, opis przedmiotu umowy koncesji oraz inne dokumenty, w tym dotyczące sposobu przedstawiania dokumentów przez wykonawców;
+- **2)** działalności sektorowej – należy przez to rozumieć działalność w zakresie jednego z rodzajów działalności, o których mowa w art. 5 ust. 4 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ), zwanej dalej „Prawem zamówień publicznych”;
+- **3)** koncesjonariuszu – należy przez to rozumieć wykonawcę, z którym zawarto umowę koncesji;
+- **4)** minimalnych wymaganiach – należy przez to rozumieć określone przez zamawiającego w dokumentach koncesji wymagania techniczne, fizyczne, funkcjonalne i prawne, którym ma odpowiadać oferta;
+- **5)** obiekcie budowlanym – należy przez to rozumieć obiekt budowlany w rozumieniu art. 7 pkt 14 Prawa zamówień publicznych;
+- **6)** postępowaniu o zawarcie umowy koncesji – należy przez to rozumieć postępowanie wszczynane w drodze publicznego ogłoszenia o koncesji, wstępnego ogłoszenia informacyjnego albo przekazania zaproszenia do ubiegania się o zawarcie umowy koncesji w celu dokonania wyboru wykonawcy, z którym zostanie zawarta umowa koncesji;
+- **6a)** progu unijnym – należy przez to rozumieć kwotę wartości umów koncesji określoną w art. 8 ust. 1 dyrektywy Parlamentu Europejskiego i Rady 2014/23/UE z dnia 26 lutego 2014 r. w sprawie udzielania koncesji (Dz. Urz. UE L 94 z 28.03.2014, str. 1, z późn. zm. ), zwanej dalej „dyrektywą 2014/23/UE”, aktualizowaną w aktach wykonawczych Komisji Europejskiej wydawanych na podstawie art. 9 ust. 4 dyrektywy 2014/23/UE;
+- **7)** robotach budowlanych – należy przez to rozumieć wykonanie albo zaprojektowanie i wykonanie robót budowlanych związanych z jednym z rodzajów działalności określonych w załączniku I do dyrektywy 2014/23/UE lub obiektu budowlanego, lub realizację obiektu budowlanego, za pomocą dowolnych środków, zgodnie z wymaganiami określonymi przez zamawiającego;
+- **8)** środkach komunikacji elektronicznej – należy przez to rozumieć środki komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513);
+- **9)** usługach – należy przez to rozumieć świadczenia, których przedmiotem nie są roboty budowlane lub dostawy w rozumieniu art. 7 pkt 4 Prawa zamówień publicznych;
+- **10)** wykonawcy – należy przez to rozumieć osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej lub grupę takich podmiotów, które ubiegają się o zawarcie umowy koncesji lub złożyły ofertę;
+- **11)** zamawiającym – należy przez to rozumieć:
+    - **a)** podmiot, o którym mowa w art. 4 Prawa zamówień publicznych, aa) podmiot, o którym mowa w art. 4 Prawa zamówień publicznych, w zakresie, w jakim wykonuje jeden z rodzajów działalności sektorowej, o ile umowa koncesji jest zawierana w celu prowadzenia działalności sektorowej,
+    - **b)** przedsiębiorstwo publiczne, przez które należy rozumieć przedsiębiorstwo wykonujące jeden z rodzajów działalności sektorowej, na które podmiot, o którym mowa w art. 4 Prawa zamówień publicznych, pojedynczo lub wspólnie z innymi takimi podmiotami, bezpośrednio lub pośrednio przez inny podmiot wywiera dominujący wpływ, w szczególności: – posiada ponad połowę udziałów albo akcji w tym przedsiębiorstwie lub – posiada ponad połowę głosów przypadających na akcje wyemitowane przez to przedsiębiorstwo lub wynikających z udziałów w tym przedsiębiorstwie, lub – ma prawo do powoływania ponad połowy składu organu zarządzającego lub nadzorczego przedsiębiorstwa – o ile umowa koncesji jest zawierana w celu prowadzenia działalności sektorowej,
+    - **c)** podmiot inny niż określony w lit. a–b, który wykonuje działalność na podstawie praw szczególnych lub praw wyłącznych, o których mowa w art. 5 ust. 2 Prawa zamówień publicznych, przyznanych w celu wykonywania działalności sektorowej, o ile umowa koncesji jest zawierana w celu prowadzenia działalności sektorowej.
 
 **Art. 3.**
 
@@ -273,6 +289,10 @@ Art. 57–67. (pominięte)
 
 **Art. 17.** Zamawiający zaprasza do udziału w postępowaniu o zawarcie umowy koncesji za pomocą:
 
+- **1)** ogłoszenia o koncesji;
+- **2)** wstępnego ogłoszenia informacyjnego – w przypadku postępowania o zawarcie umowy koncesji na usługi społeczne lub inne szczególne usługi, o których mowa w załączniku IV do dyrektywy 2014/23/UE;
+- **3)** zaproszenia do ubiegania się o zawarcie umowy koncesji, które przekazuje wybranemu przez siebie wykonawcy lub wykonawcom – w przypadkach, o których mowa w art. 20 ust. 1.
+
 **Art. 18.**
 
 1. Ogłoszenia, o których mowa w ustawie, zamawiający:
@@ -361,6 +381,11 @@ Art. 57–67. (pominięte)
 2. W zaproszeniu do składania ofert lub innych dokumentach koncesji zamawiający zamieszcza elementy określone w ust. 1 pkt 4 i 5.
 
 **Art. 22.** W przypadkach, o których mowa w art. 20 ust. 1, zamawiający może przekazać do publikacji w Dzienniku Urzędowym Unii Europejskiej lub zamieścić w Biuletynie Zamówień Publicznych ogłoszenie o zamiarze zawarcia umowy koncesji zawierające co najmniej:
+
+- **1)** nazwę oraz adres zamawiającego;
+- **2)** określenie przedmiotu umowy koncesji oraz jej wielkości lub zakresu;
+- **3)** uzasadnienie zamiaru zawarcia umowy koncesji bez uprzedniej publikacji ogłoszenia o koncesji w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia ogłoszenia o koncesji w Biuletynie Zamówień Publicznych;
+- **4)** nazwę albo imię i nazwisko, siedzibę albo miejsce zamieszkania, jeżeli jest miejscem wykonywania działalności wykonawcy, z którym zamawiający zamierza zawrzeć umowę koncesji.
 
 **Art. 23.**
 
@@ -550,6 +575,17 @@ Art. 57–67. (pominięte)
 
 **Art. 34.** Zamawiający może zastrzec w ogłoszeniu o koncesji albo we wstępnym ogłoszeniu informacyjnym, że o zawarcie umowy koncesji mogą ubiegać się wyłącznie wykonawcy mający status zakładu pracy chronionej, spółdzielnie socjalne oraz inni wykonawcy, których głównym celem lub głównym celem działalności ich wyodrębnionych organizacyjnie jednostek, które będą realizowały zamówienie, jest społeczna i zawodowa integracja osób społecznie marginalizowanych, w szczególności:
 
+- **1)** osób niepełnosprawnych w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913 i 1301),
+- **2)** bezrobotnych w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
+- **3)** osób poszukujących pracy, niepozostających w zatrudnieniu lub niewykonujących innej pracy zarobkowej, w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
+- **4)** osób usamodzielnianych, o których mowa w art. 140 ust. 1 i 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49 i 1301),
+- **5)** osób pozbawionych wolności lub zwalnianych z zakładów karnych, o których mowa w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2025 r. poz. 911 i 1423), mających trudności w integracji ze środowiskiem,
+- **6)** osób z zaburzeniami psychicznymi w rozumieniu ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917),
+- **7)** osób bezdomnych w rozumieniu ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214 i 1302),
+- **8)** osób, które uzyskały w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą, o których mowa w ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389, 619 i 621),
+- **9)** osób do 30. roku życia oraz po ukończeniu 50. roku życia, posiadających status osoby poszukującej pracy, bez zatrudnienia,
+- **10)** osób będących członkami mniejszości znajdującej się w niekorzystnej sytuacji, w szczególności będących członkami mniejszości narodowych i etnicznych w rozumieniu ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. z 2017 r. poz. 823 oraz z 2025 r. poz. 1021) ‒ pod warunkiem że procentowy wskaźnik zatrudnienia osób należących do jednej lub więcej kategorii, o których mowa w pkt 1‒10, jest nie mniejszy niż 30 % osób zatrudnionych u wykonawcy albo w jego jednostce, która będzie realizowała zamówienie.
+
 **Art. 35.**
 
 1. Wykonawca na zasadach określonych w ogłoszeniu o koncesji składa oświadczenie o spełnianiu kryteriów kwalifikacji oraz braku podstaw wykluczenia.
@@ -609,6 +645,10 @@ Art. 57–67. (pominięte)
 - **3)** postępowanie o zawarcie umowy koncesji obarczone jest niemożliwą do usunięcia wadą uniemożliwiającą zawarcie niepodlegającej unieważnieniu umowy koncesji.
 
 **Art. 40.** Zamawiający zawiera umowę koncesji z wybranym wykonawcą na podstawie kryteriów oceny ofert, jeżeli spełnione są łącznie następujące warunki:
+
+- **1)** oferta spełnia minimalne wymagania określone przez zamawiającego, o ile zostały określone;
+- **2)** wykonawca nie podlega wykluczeniu;
+- **3)** wykonawca spełnia kryteria kwalifikacji.
 
 **Art. 41.**
 
@@ -682,6 +722,10 @@ Art. 57–67. (pominięte)
 9. Jeżeli zamawiający zamierza zmienić warunki umowy koncesji, które wykraczają poza zmiany umowy dopuszczalne zgodnie z ust. 1, obowiązany jest przeprowadzić nowe postępowanie o zawarcie umowy koncesji lub postępowanie o udzielenie zamówienia publicznego.
 
 **Art. 47.** Zamawiający może rozwiązać umowę koncesji niezależnie od jej postanowień, jeżeli zachodzi co najmniej jedna z następujących okoliczności:
+
+- **1)** zmiany umowy koncesji dokonano z naruszeniem art. 46 ust. 9;
+- **2)** koncesjonariusz w chwili zawarcia umowy koncesji podlegał wykluczeniu na podstawie art. 32 ust. 1 pkt 1 lub 2;
+- **3)** Trybunał Sprawiedliwości Unii Europejskiej stwierdził, w ramach procedury przewidzianej w art. 258 Traktatu o funkcjonowaniu Unii Europejskiej, że państwo polskie uchybiło zobowiązaniom, które ciążą na nim na mocy traktatów i dyrektywy 2014/23/UE, z uwagi na to, że zamawiający zawarł umowę koncesji z naruszeniem przepisów prawa Unii Europejskiej.
 
 **Art. 48.**
 
@@ -800,6 +844,14 @@ Art. 57–67. (pominięte)
 - **2)** równa lub przekracza progi unijne, o których mowa w art. 3 ust. 1 Prawa zamówień publicznych – jeżeli wartość koncesji jest równa lub przekracza próg unijny.
 
 **Art. 55.** Odwołanie wnosi się w terminie:
+
+- **1)** 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej, albo 15 dni, jeżeli została przekazana w inny sposób;
+- **2)** 10 dni od dnia opublikowania w Dzienniku Urzędowym Unii Europejskiej albo zamieszczenia w Biuletynie Zamówień Publicznych ogłoszenia o koncesji lub zamieszczenia dokumentów koncesji na stronie internetowej, w przypadku odwołania wobec treści ogłoszenia o koncesji lub dokumentów koncesji;
+- **3)** 10 dni od dnia opublikowania w Dzienniku Urzędowym Unii Europejskiej albo zamieszczenia w Biuletynie Zamówień Publicznych ogłoszenia o zamiarze zawarcia umowy koncesji, w przypadku odwołania wobec zawarcia umowy koncesji bez uprzedniej publikacji w Dzienniku Urzędowym Unii Europejskiej albo zamieszczenia w Biuletynie Zamówień Publicznych ogłoszenia o koncesji;
+- **4)** 30 dni od dnia, w którym zamawiający opublikował ogłoszenie o zawarciu umowy koncesji, pod warunkiem że ogłoszenie to zawiera uzasadnienie decyzji zawarcia umowy koncesji bez uprzedniej publikacji ogłoszenia o koncesji w Dzienniku Urzędowym Unii Europejskiej albo zamieszczenia ogłoszenia o koncesji w Biuletynie Zamówień Publicznych;
+- **5)** 30 dni od dnia, w którym zamawiający opublikował ogłoszenie o zmianie umowy koncesji w Dzienniku Urzędowym Unii Europejskiej albo zamieścił ogłoszenie o zmianie umowy koncesji w Biuletynie Zamówień Publicznych;
+- **6)** 6 miesięcy od dnia zawarcia umowy koncesji w przypadku nieopublikowania w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o zawarciu umowy koncesji albo gdy opublikowane ogłoszenie nie zawierało uzasadnienia;
+- **7)** 3 miesięcy od dnia zawarcia umowy koncesji w przypadku niezamieszczenia w Biuletynie Zamówień Publicznych ogłoszenia o zawarciu umowy koncesji albo gdy zamieszczone ogłoszenie nie zawierało uzasadnienia.
 
 **Art. 56.**
 

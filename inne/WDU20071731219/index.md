@@ -8,7 +8,7 @@ pos: 1219
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012
@@ -249,6 +249,12 @@ source: "isap-pdf"
 
 **Art. 18a.** W umowie, w której powierzono koordynowanie i kontrolę przedsięwzięć Euro 2012 oraz innych przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 określa się w szczególności:
 
+- **1)** zakres czynności wykonywanych przez spółkę, a także zakres praw i obowiązków spółki celowej z tym związanych;
+- **2)** czas obowiązywania umowy;
+- **3)** postanowienia, o których mowa w art. 18 ust. 1 pkt 2, pkt 7 oraz pkt 11–15;
+- **4)** zasady sprawozdawczości dotyczącej realizacji przez spółkę celową powierzonych jej zadań;
+- **5)** sposób rozwiązywania sporów wynikłych w związku z realizacją przez spółkę celową powierzonych jej zadań.
+
 **Art. 19.** Skarb Państwa, reprezentowany przez ministra właściwego do spraw kultury fizycznej albo inny organ administracji rządowej, jednostka samorządu terytorialnego albo przedsiębiorca prowadzący działalność gospodarczą w zakresie transportu publicznego udziela spółce celowej pełnomocnictw niezbędnych do przygotowania lub wykonania zadań powierzonych spółce celowej w umowie, o której mowa w art. 17 ust. 1.
 
 **Art. 20.** Powierzenie, o którym mowa w art. 18 ust. 1 pkt 7, wymaga uprzedniej zgody rady nadzorczej spółki celowej, jeżeli wartość zobowiązania przekracza 500 000 zł bez podatku od towarów i usług.
@@ -451,6 +457,13 @@ source: "isap-pdf"
 **Art. 38.** Z zastrzeżeniem przepisów ustawy do realizacji przedsięwzięć Euro 2012 określonych w rozporządzeniu wydanym na podstawie art. 4 ust. 1 stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 38a.** W okresie od dnia 1 czerwca 2012 r. do dnia 4 lipca 2012 r., nie stosuje się ograniczeń w zakresie operacji lotniczych obejmujących starty i lądowania w porze dziennej i nocnej wynikających z wymagań w zakresie ochrony środowiska, w następujących portach lotniczych:
+
+- **1)** Międzynarodowym Porcie Lotniczym im. Jana Pawła II Kraków-Balice Sp. z o. o.;
+- **2)** Międzynarodowym Porcie Lotniczym „Katowice” w Pyrzowicach;
+- **3)** Porcie Lotniczym Poznań-Ławica;
+- **4)** Porcie Lotniczym Wrocław-Strachowice;
+- **5)** Porcie Lotniczym Gdańsk im. Lecha Wałęsy;
+- **6)** Porcie Lotniczym im. Fryderyka Chopina w Warszawie.
 
 #### Rozdział 7 Przepis zmieniający i przepisy końcowe
 

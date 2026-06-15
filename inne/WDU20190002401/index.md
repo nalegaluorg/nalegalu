@@ -218,7 +218,8 @@ c) w formie rozliczenia bezgotówkowego, z wyłączeniem kwoty do wysokości 500
 4. W przypadku złożenia wniosku następcy po upływie terminu, o którym mowa w ust. 2, Krajowy Ośrodek nie przyznaje pomocy.
 5. Wniosek następcy rozpatruje się w terminie 2 miesięcy od dnia jego złożenia.
 6. W przypadku nierozpatrzenia wniosku następcy w terminie, o którym mowa w ust. 5, Krajowy Ośrodek zawiadamia wnioskodawcę o przyczynach zwłoki, wskazując nowy termin rozpatrzenia wniosku, nie dłuższy niż 2 miesiące.
-7. Do wniosku następcy i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 7, § 8 ust. 1 pkt 1, § 9, § 12 i § 13.
+7. Do wniosku następcy i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 7, § 8 ust. 1 pkt 1, § 9, § 12
+§ 13.
 § 19. 1. Wysokość pomocy przyznanej następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa nie może przekraczać kwoty, która nie została wypłacona temu beneficjentowi, oraz limitu, o którym mowa w § 4 ust. 2.
 2. Umowa zawarta z następcą prawnym beneficjenta albo nabywcą przedsiębiorstwa określa warunki kontynuowania realizacji operacji.
 § 20. W przypadkach określonych w § 18 i § 19 pomoc przyznaje się następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa do wysokości kwoty, która nie została wypłacona temu beneficjentowi, oraz limitu, o którym mowa w § 4 ust. 2.

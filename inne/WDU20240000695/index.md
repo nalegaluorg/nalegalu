@@ -8,7 +8,7 @@ pos: 695
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym
@@ -33,6 +33,16 @@ Art. 64–75. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** środki ochrony wpłat dokonywanych przez nabywcę;
+- **2)** zasady wypłaty środków finansowych z mieszkaniowego rachunku powierniczego;
+- **3)** obowiązki dewelopera przed zawarciem umowy, której celem jest przeniesienie własności lokalu mieszkalnego albo domu jednorodzinnego;
+- **4)** zasady i tryb zawierania oraz treść umowy rezerwacyjnej;
+- **5)** zasady i tryb zawierania oraz treść umowy deweloperskiej oraz innych umów zawieranych między nabywcą a deweloperem, których celem jest przeniesienie własności lokalu mieszkalnego albo domu jednorodzinnego;
+- **6)** prawa i obowiązki stron umowy deweloperskiej oraz innych umów zawieranych między nabywcą a deweloperem, których celem jest przeniesienie własności lokalu mieszkalnego albo domu jednorodzinnego;
+- **7)** zasady i tryb dokonywania odbioru lokalu mieszkalnego albo domu jednorodzinnego oraz zasady odpowiedzialności nabywcy i dewelopera w tym zakresie;
+- **8)** zasady działania i zakres odpowiedzialności Deweloperskiego Funduszu Gwarancyjnego;
+- **9)** zasady działania Portalu Danych o Obrocie Mieszkaniami i udostępniania z niego informacji oraz sposób pozyskiwania danych i informacji do tego portalu.
+
 **Art. 2.**
 
 1. Przepisy ustawy stosuje się do umów zawartych między nabywcą a deweloperem, w których deweloper zobowiązuje się do:
@@ -54,9 +64,36 @@ Art. 64–75. (pominięte)
 
 **Art. 3.** Przepisy art. 26 ust. 1 pkt 1–8, art. 27 ust. 1, art. 29–32, art. 34 ust. 1 pkt 1 i 2 oraz art. 41 ust. 1–3 stosuje się również do:
 
+- **1)** umów sprzedaży zawieranych między nabywcą a deweloperem, których przedmiotem jest przeniesienie na nabywcę własności lokalu mieszkalnego oraz praw niezbędnych do korzystania z tego lokalu albo przeniesienie na nabywcę własności nieruchomości zabudowanej domem jednorodzinnym lub użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego na niej posadowionego stanowiącego odrębną nieruchomość lub przeniesienie ułamkowej części własności tej nieruchomości wraz z prawem do wyłącznego korzystania z części nieruchomości służącej zaspokajaniu potrzeb mieszkaniowych, albo
+- **2)** umów, o których mowa w pkt 1, zawieranych wraz z umowami sprzedaży, których przedmiotem jest przeniesienie własności lokalu użytkowego albo przeniesienie ułamkowej części własności lokalu użytkowego, albo umowami, których przedmiotem jest zobowiązanie do wybudowania budynku lub przeniesienia własności lokalu użytkowego albo wybudowania budynku lub przeniesienia ułamkowej części własności lokalu użytkowego, jeżeli dotyczą tego samego przedsięwzięcia deweloperskiego lub zadania inwestycyjnego.
+
 **Art. 4.** Przepisy art. 29–32, art. 34 ust. 1 pkt 1 i 2 oraz art. 41 ust. 1–3 stosuje się również do:
 
+- **1)** umów sprzedaży zawieranych między nabywcą a przedsiębiorcą innym niż deweloper, których przedmiotem jest przeniesienie na nabywcę własności lokalu mieszkalnego oraz praw niezbędnych do korzystania z tego lokalu albo przeniesienie na nabywcę własności nieruchomości zabudowanej domem jednorodzinnym lub użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego na niej posadowionego stanowiącego odrębną nieruchomość lub przeniesienie ułamkowej części własności tej nieruchomości wraz z prawem do wyłącznego korzystania z części nieruchomości służącej zaspokajaniu potrzeb mieszkaniowych, albo
+- **2)** umów, o których mowa w pkt 1, zawieranych wraz z umowami sprzedaży, których przedmiotem jest przeniesienie własności lokalu użytkowego albo przeniesienie ułamkowej części własności lokalu użytkowego, jeżeli dotyczą tego samego przedsięwzięcia deweloperskiego lub zadania inwestycyjnego – jeżeli przedmiot umowy powstał w wyniku realizacji przedsięwzięcia deweloperskiego lub zadania inwestycyjnego, a przeniesienie praw z tych umów na nabywcę następuje po raz pierwszy.
+
 **Art. 5.** Użyte w ustawie określenia oznaczają:
+
+- **1)** deweloper – przedsiębiorcę w rozumieniu art. 43 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933), który w ramach prowadzonej działalności gospodarczej realizuje przedsięwzięcie deweloperskie;
+- **2)** lokal mieszkalny – samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688), z wyłączeniem lokali o przeznaczeniu na cele inne niż mieszkalne;
+- **3)** budynek – budynek w rozumieniu art. 3 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. );
+- **4)** dom jednorodzinny – budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
+- **5)** nabywca – osobę fizyczną, która w celu niezwiązanym bezpośrednio z jej działalnością gospodarczą lub zawodową zawiera z:
+    - **a)** deweloperem jedną z umów, o których mowa w art. 2 albo art. 3, albo
+    - **b)** przedsiębiorcą innym niż deweloper jedną z umów, o których mowa w art. 4, albo
+    - **c)** deweloperem albo przedsiębiorcą innym niż deweloper umowę, o której mowa w art. 28 ust. 1;
+
+- **6)** umowa deweloperska – umowę zawartą między nabywcą a deweloperem, na podstawie której deweloper zobowiązuje się do wybudowania budynku oraz ustanowienia odrębnej własności lokalu mieszkalnego i przeniesienia własności tego lokalu oraz praw niezbędnych do korzystania z tego lokalu na nabywcę albo zabudowania nieruchomości gruntowej stanowiącej przedmiot własności lub użytkowania wieczystego domem jednorodzinnym i przeniesienia na nabywcę własności tej nieruchomości lub użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego na niej posadowionego stanowiącego odrębną nieruchomość lub przeniesienia ułamkowej części własności tej nieruchomości wraz z prawem do wyłącznego korzystania z części nieruchomości służącej zaspokajaniu potrzeb mieszkaniowych, a nabywca zobowiązuje się do spełnienia świadczenia pieniężnego na poczet nabycia tego prawa;
+- **7)** przedsięwzięcie deweloperskie – proces, w wyniku realizacji którego na rzecz nabywcy zostają przeniesione prawa wynikające z umowy deweloperskiej albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 lub art. 3, obejmujący w szczególności:
+    - **a)** budowę lub przebudowę w rozumieniu art. 3 pkt 6 i 7a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane,
+    - **b)** czynności faktyczne i prawne niezbędne do rozpoczęcia budowy lub przebudowy w rozumieniu art. 3 pkt 6 i 7a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane oraz oddania budynku do użytkowania, a w szczególności nabycie praw do nieruchomości, na której mają być realizowane budowa lub przebudowa w rozumieniu art. 3 pkt 6 i 7a tej ustawy, przygotowanie projektu budowlanego lub nabycie praw do projektu budowlanego, nabycie materiałów budowlanych i uzyskanie wymaganych zezwoleń administracyjnych określonych odrębnymi przepisami, oraz
+    - **c)** czynności faktyczne i prawne niezbędne do zawierania umów z nabywcami;
+
+- **8)** zadanie inwestycyjne – część przedsięwzięcia deweloperskiego dotyczącą jednego lub większej liczby budynków, jeżeli budynki te, zgodnie z harmonogramem przedsięwzięcia deweloperskiego, mają zostać oddane do użytku w tym samym czasie i tworzą całość architektoniczno-budowlaną;
+- **9)** otwarty mieszkaniowy rachunek powierniczy – należący do dewelopera rachunek powierniczy, o którym mowa w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488) lub ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2023 r. poz. 1278, 1394, 1407, 1723 i 1843), służący gromadzeniu środków pieniężnych wpłacanych przez nabywcę na cele określone w umowie deweloperskiej albo w jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2, z którego wypłata zdeponowanych środków następuje zgodnie z harmonogramem przedsięwzięcia deweloperskiego lub zadania inwestycyjnego, określonym w jednej z tych umów;
+- **10)** zamknięty mieszkaniowy rachunek powierniczy – należący do dewelopera rachunek powierniczy, o którym mowa w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe lub ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, służący gromadzeniu środków pieniężnych wpłacanych przez nabywcę na cele określone w umowie deweloperskiej albo w jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2, z którego wypłata zdeponowanych środków następuje jednorazowo, po przeniesieniu na nabywcę każdego z praw wynikających z tych umów;
+- **11)** trwały nośnik – materiał lub narzędzie umożliwiające przechowywanie informacji w sposób umożliwiający dostęp do nich w przyszłości przez czas odpowiedni do celów, jakim te informacje służą, i pozwalające na odtworzenie przechowywanych informacji w niezmienionej postaci;
+- **12)** rozpoczęcie sprzedaży – podanie do publicznej wiadomości informacji na temat rozpoczęcia procesu oferowania lokali mieszkalnych lub domów jednorodzinnych w ramach określonego przedsięwzięcia deweloperskiego lub zadania inwestycyjnego oraz gotowości do zawierania z nabywcami umów deweloperskich albo umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2.
 
 **Art. 5a.** W umowach, o których mowa w art. 2–4, i w umowie rezerwacyjnej, o której mowa w art. 29 ust. 2, cenę lokalu lub domu jednorodzinnego określa się jako iloczyn m ich powierzchni użytkowej oraz ceny za 1 m powierzchni użytkowej. Powierzchnię użytkową ustala się zgodnie z zasadami zawartymi w Polskiej Normie dotyczącej określania i obliczania wskaźników powierzchniowych i kubaturowych w budownictwie, obowiązującej w dniu złożenia wniosku o pozwolenie na budowę lub dokonania zgłoszenia budowy, o którym mowa w art. 29 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, dotyczącego lokalu lub domu jednorodzinnego, którego powierzchnia jest ustalana.
 
@@ -811,6 +848,10 @@ Art. 64–75. (pominięte)
 
 **Art. 53.** Dane i informacje zgromadzone w Ewidencji mogą być udostępniane przez Ubezpieczeniowy Fundusz Gwarancyjny za pośrednictwem systemu teleinformatycznego obsługującego Ewidencję:
 
+- **1)** nabywcom – w zakresie dotyczącym umów, o których mowa w art. 2 ust. 1 i 2, których są stroną, oraz związanych z nimi mieszkaniowych rachunków powierniczych, a także indywidualnych rozliczeń z Funduszem;
+- **2)** deweloperom – w zakresie dotyczącym umów, o których mowa w art. 2 ust. 1 i 2, których są stroną, oraz związanych z nimi mieszkaniowych rachunków powierniczych, a także realizacji obowiązków na rzecz Funduszu;
+- **3)** bankom lub kasom – w zakresie dotyczącym prowadzonych przez nie mieszkaniowych rachunków powierniczych, ich powiernika i powierzającego środki, a także realizacji obowiązków na rzecz Funduszu.
+
 **Art. 54.** Dane i informacje gromadzone w Ewidencji usuwa się po upływie 6 lat od dnia ostatniej wypłaty z mieszkaniowego rachunku powierniczego, jednak nie wcześniej niż po upływie 6 lat od dnia spełnienia warunku wypłaty środków z Funduszu, o których mowa w art. 55 ust. 1, 3 i 5.
 
 **Art. 55.**
@@ -913,6 +954,10 @@ Art. 64–75. (pominięte)
 
 **Art. 56c.** Dane i informacje:
 
+- **1)** w zakresie umów, o których mowa w art. 2 ust. 1, są przekazywane do Portalu DOM przez Ubezpieczeniowy Fundusz Gwarancyjny niezwłocznie, nie później niż w terminie 7 dni od dnia przekazania tych danych lub informacji do Ewidencji;
+- **2)** o umowach, o których mowa w art. 3 pkt 1 i art. 4 pkt 1, są przekazywane do Portalu DOM za pośrednictwem prowadzonego przez Ubezpieczeniowy Fundusz Gwarancyjny systemu teleinformatycznego przez dewelopera albo przedsiębiorcę innego niż deweloper niezwłocznie, nie później niż w terminie 7 dni od dnia zawarcia umowy, której te dane lub informacje dotyczą;
+- **3)** o umowach, o których mowa w art. 56b ust. 1 pkt 4, są udostępniane do prowadzonego przez Ubezpieczeniowy Fundusz Gwarancyjny systemu teleinformatycznego przez Szefa Krajowej Administracji Skarbowej.
+
 **Art. 56d.**
 
 1. Ubezpieczeniowy Fundusz Gwarancyjny gromadzi i przetwarza dane i informacje w ramach prowadzenia Portalu DOM w celu:
@@ -995,6 +1040,11 @@ Art. 64–75. (pominięte)
 
 **Art. 62.** Kto wypłaca deweloperowi środki zgromadzone na:
 
+- **1)** zamkniętym mieszkaniowym rachunku powierniczym niezgodnie z art. 15,
+- **2)** otwartym mieszkaniowym rachunku powierniczym niezgodnie z art. 16,
+- **3)** otwartym mieszkaniowym rachunku powierniczym bez przeprowadzenia kontroli zakończenia każdego z etapów przedsięwzięcia deweloperskiego lub zadania inwestycyjnego zgodnie z art. 17 ust. 4–6,
+- **4)** otwartym mieszkaniowym rachunku powierniczym niezgodnie z art. 17 ust. 8 – podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+
 **Art. 63.** Orzekanie w sprawach o czyny, o których mowa w art. 58 < i art. 60c>, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
 #### Rozdział 10 Zmiany w przepisach
@@ -1021,7 +1071,14 @@ Art. 64–75. (pominięte)
 
 **Art. 79.** Do roszczeń nabywcy, o których mowa w art. 19 ust. 3 ustawy zmienianej w art. 66, które:
 
+- **1)** powstały i zostały wpisane do księgi wieczystej przed dniem wejścia w życie niniejszej ustawy,
+- **2)** powstały przed dniem wejścia w życie niniejszej ustawy i zostały wpisane do księgi wieczystej po dniu wejścia w życie niniejszej ustawy – stosuje się przepisy ustawy zmienianej w art. 66 w brzmieniu dotychczasowym.
+
 **Art. 80.** Traci moc ustawa z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego (Dz. U. z 2019 r. poz. 1805, z 2020 r. poz. 471 oraz z 2021 r. poz. 1177).
 
 **Art. 81.** Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 46, art. 47, art. 48 ust. 6 i art. 72 pkt 1, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
+- **2)** art. 68 i art. 73, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+
 

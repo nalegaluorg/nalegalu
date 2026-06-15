@@ -8,7 +8,7 @@ pos: 400
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Państwowej Straży Pożarnej
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1991-08-24 |
 | Data wydania | 1991-10-08 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910880400) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/400/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -50,6 +50,10 @@ source: "isap-pdf"
 
 **Art. 1a.** Obowiązku doręczenia korespondencji przy wykorzystaniu publicznej usługi hybrydowej, o której mowa w art. 2 pkt 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), albo publicznej usługi rejestrowanego doręczenia elektronicznego, o której mowa w art. 2 pkt 8 tej ustawy, nie stosuje się:
 
+- **1)** w sprawach osobowych strażaków;
+- **2)** w sprawach osobowych byłych strażaków;
+- **3)** jeżeli doręczenie korespondencji przy wykorzystaniu publicznej usługi hybrydowej albo publicznej usługi rejestrowanego doręczenia elektronicznego mogłoby istotnie utrudniać lub uniemożliwić realizację zadań Państwowej Straży Pożarnej.
+
 **Art. 2.** (uchylony)
 
 **Art. 3.**
@@ -67,6 +71,10 @@ source: "isap-pdf"
 **Art. 6.** (uchylony)
 
 **Art. 7.** Ilekroć w ustawie jest mowa o:
+
+- **1)** akcjach ratowniczych – rozumie się przez to działania organizowane i kierowane przez Państwową Straż Pożarną;
+- **2)** pomocniczych specjalistycznych czynnościach ratowniczych – rozumie się przez to działania Państwowej Straży Pożarnej w ramach udzielanej pomocy innym służbom ratowniczym, z wyłączeniem działań porządkowo-ochronnych, zastrzeżonych dla innych jednostek podległych ministrowi właściwemu do spraw wewnętrznych;
+- **3)** staroście – należy przez to rozumieć również prezydenta miasta w miastach na prawach powiatu.
 
 #### Rozdział 2 Organizacja Państwowej Straży Pożarnej
 
@@ -303,6 +311,18 @@ source: "isap-pdf"
 
 **Art. 13b.** Kierownicy jednostek organizacyjnych Państwowej Straży Pożarnej są obowiązani współdziałać z Biurem Nadzoru Wewnętrznego w zakresie realizacji jego zadań, w szczególności:
 
+- **1)** udostępniać, na wniosek Inspektora Nadzoru Wewnętrznego, niezbędne wyposażenie, urządzenia i środki techniczne;
+- **2)** zapewniać warunki niezbędne do sprawnej realizacji zadań przez inspektorów Biura Nadzoru Wewnętrznego, w szczególności przez zapewnienie swobodnego wstępu na teren jednostki organizacyjnej Państwowej Straży Pożarnej, niezwłocznego przedstawiania żądanych informacji i dokumentów, terminowego udzielania ustnych i pisemnych wyjaśnień, a także udostępnianie niezbędnych urządzeń technicznych i zapewnienie dostępu do Internetu oraz, w miarę możliwości, oddzielnego pomieszczenia z odpowiednim wyposażeniem;
+- **3)** przekazywać dane strażaków objętych weryfikacją, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, najpóźniej w terminie 14 dni przed planowanym: poz. 2053),
+    - **a)** powołaniem na stanowiska komendantów i ich zastępców, dyrektorów i zastępców dyrektorów komórek organizacyjnych oraz naczelników,
+    - **b)** oddelegowaniem do pełnienia służby lub wykonywaniem zadań poza granicami kraju na okres przekraczający 14 dni, z wyłączeniem oddelegowania do realizacji zadania poza granicami państwa w grupie ratowniczej, o której mowa w art. 49b ust. 1 pkt 1,
+    - **c)** wystąpieniem o nadawanie stopni nadbrygadiera i generała brygadiera w Państwowej Straży Pożarnej,
+    - **d)** wystąpieniem o przedterminowe nadanie stopnia w korpusie oficerów Państwowej Straży Pożarnej,
+    - **e)** wystąpieniem o wyróżnienie, na wniosek ministra właściwego do spraw wewnętrznych, orderami i odznaczeniami, o których mowa w ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2023 r.
+    - **f)** oddelegowaniem do wykonywania zadań w Biurze Nadzoru Wewnętrznego;
+
+- **4)** udostępniać dokumentację z kontroli, o której mowa w art. 12 ust. 3 pkt 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209).
+
 **Art. 14.**
 
 1. Rada powiatu (miasta) przynajmniej raz w roku rozpatruje informację komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej o stanie bezpieczeństwa powiatu (miasta na prawach powiatu) w zakresie ochrony przeciwpożarowej. Na polecenie starosty (prezydenta miasta) informację taką właściwy komendant jest obowiązany składać w każdym czasie.
@@ -351,6 +371,9 @@ source: "isap-pdf"
 
 **Art. 19b.** W pokrywaniu części kosztów funkcjonowania Państwowej Straży Pożarnej mogą uczestniczyć:
 
+- **1)** gmina, powiat lub samorząd województwa;
+- **2)** organizatorzy imprez masowych.
+
 **Art. 19c.** Wykonywanie zadań zleconych szkołom Państwowej Straży Pożarnej przez osoby prawne lub fizyczne, wykraczających poza zakres ustawowych zadań, jest finansowane przez właściwego zleceniodawcę na podstawie zawartej umowy.
 
 **Art. 19d.** Osoby prawne lub fizyczne mogą uczestniczyć w ponoszeniu kosztów budowy strażnic, ich wyposażenia i utrzymania.
@@ -361,9 +384,25 @@ source: "isap-pdf"
 
 **Art. 19g.** Środki finansowe uzyskane przez Państwową Straż Pożarną z wpływów uzyskanych na zasadach określonych w art. 19b–19d zgodnie z zawartymi umowami lub porozumieniami oraz na zasadach, o których mowa w art. 4a ust. 11 pkt 1 i 4 i art. 11d ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, przez:
 
+- **1)** Komendanta Głównego Państwowej Straży Pożarnej – są przychodami funduszu centralnego;
+- **2)** komendantów wojewódzkich Państwowej Straży Pożarnej lub nadzorowanych przez nich komendantów powiatowych (miejskich) Państwowej Straży Pożarnej – są przychodami funduszy wojewódzkich;
+- **3)** komendantów szkół Państwowej Straży Pożarnej – są przychodami funduszy szkół Państwowej Straży Pożarnej.
+
 **Art. 19h.** Środki Funduszu mogą być przeznaczone na:
 
+- **1)** pokrywanie wydatków inwestycyjnych, modernizacyjnych i remontowych;
+- **2)** pokrywanie kosztów utrzymania i funkcjonowania jednostek organizacyjnych Państwowej Straży Pożarnej, a także na zakup niezbędnych na ich potrzeby towarów i usług;
+- **3)** pokrywanie wydatków na potrzeby służby w zakresie, o którym mowa w art. 35 ust. 9;
+- **4)** cele statutowe szkół Państwowej Straży Pożarnej;
+- **5)** pokrywanie wydatków związanych z przeprowadzeniem egzaminu dla osób ubiegających się o przyznanie prawa do wykonywania zawodu rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych, o którym mowa w art. 11b ust. 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej;
+- **6)** pokrywanie wydatków związanych z organizacją i przeprowadzeniem szkoleń, o których mowa w art. 4a ust. 1 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej;
+- **7)** pokrywanie wydatków związanych z prowadzeniem szkoleń, o których mowa w art. 11 ust. 1 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych.
+
 **Art. 19i.** Środkami Funduszu dysponują:
+
+- **1)** Komendant Główny Państwowej Straży Pożarnej – w zakresie funduszu centralnego;
+- **2)** komendanci wojewódzcy Państwowej Straży Pożarnej – w zakresie funduszy wojewódzkich obejmujących komendy wojewódzkie Państwowej Straży Pożarnej oraz nadzorowane komendy powiatowe (miejskie) Państwowej Straży Pożarnej;
+- **3)** komendanci szkół Państwowej Straży Pożarnej – w zakresie funduszy szkół Państwowej Straży Pożarnej.
 
 **Art. 19j.** Komendant Główny Państwowej Straży Pożarnej sporządza łączny plan finansowy i łączne sprawozdanie finansowe Funduszu.
 
@@ -675,6 +714,11 @@ source: "isap-pdf"
 
 **Art. 33.** Akt mianowania strażaka na stanowisko służbowe powinien w szczególności określić:
 
+- **1)** stanowisko i miejsce służby;
+- **2)** termin rozpoczęcia służby;
+- **3)** rodzaj mianowania;
+- **4)** uposażenie lub zasady jego ustalania.
+
 **Art. 34.**
 
 1. Osobę podejmującą służbę w Państwowej Straży Pożarnej mianuje się strażakiem w służbie przygotowawczej na okres 3 lat.
@@ -935,6 +979,13 @@ source: "isap-pdf"
 
 **Art. 37e.** Komendant Główny Państwowej Straży Pożarnej może oddelegować strażaka, za jego zgodą, do wykonywania zadań poza Państwową Strażą Pożarną w następujących jednostkach organizacyjnych, zwanych dalej „instytucjami cywilnymi”:
 
+- **1)** urzędach organów administracji rządowej;
+- **2)** Zarządzie Głównym i zarządach wojewódzkich Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej;
+- **3)** gminach;
+- **4)** jednostkach ochrony przeciwpożarowej utworzonych w trybie art. 17 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej przez gminy, instytucje, organizacje, osoby prawne i fizyczne;
+- **5)** jednostkach organizacyjnych tworzonych na podstawie odrębnych przepisów;
+- **6)** innych jednostkach organizacyjnych, w których są wykonywane zadania określone w art. 1 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
+
 **Art. 37f.** Przepisów o oddelegowaniu nie stosuje się do strażaków wyznaczonych do pełnienia służby w Wojskowej Ochronie Przeciwpożarowej.
 
 **Art. 37g.** Oddelegowanie strażaka do wykonywania zadań w Biurze Nadzoru Wewnętrznego następuje na zasadach określonych w ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych. W zakresie nieuregulowanym stosuje się odpowiednio przepisy art. 37i–37u.
@@ -954,6 +1005,11 @@ source: "isap-pdf"
 **Art. 37k.** Komendant Główny Państwowej Straży Pożarnej może odmówić uwzględnienia wniosku, o którym mowa w art. 37i, jeżeli na wskazanych stanowiskach nie będą wykonywane zadania, o których mowa w art. 1 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, albo jeżeli jest to uzasadnione potrzebami Państwowej Straży Pożarnej.
 
 **Art. 37l.** W razie uwzględnienia wniosku, o którym mowa w art. 37i, i po uzgodnieniu obsady stanowisk oraz zasad wykonywania zadań przez strażaka między Komendantem Głównym Państwowej Straży Pożarnej a kierownikiem instytucji cywilnej, Komendant Główny Państwowej Straży Pożarnej:
+
+- **1)** zwalnia strażaka wyrażającego zgodę na wykonywanie zadań w instytucji cywilnej z dotychczas zajmowanego stanowiska;
+- **2)** pozostawia strażaka na etacie jednostki organizacyjnej Państwowej Straży Pożarnej, w której strażak pełnił służbę przed oddelegowaniem do wykonywania zadań w instytucji cywilnej;
+- **3)** zalicza – do celów obliczenia uposażenia i innych należności pieniężnych przysługujących w trakcie oddelegowania – stanowisko służbowe do odpowiedniej grupy zaszeregowania oraz ustala stopień etatowy, stosownie do zaszeregowania stanowiska służbowego;
+- **4)** kieruje strażaka na stanowisko do określonej we wniosku instytucji cywilnej.
 
 **Art. 37m.**
 
@@ -1003,6 +1059,8 @@ source: "isap-pdf"
 - **4)** wypłaca należności z tytułu zwolnienia ze służby, o których mowa w art. 93 ust. 1 pkt 6;
 - **5)** wypłaca odprawę pośmiertną, o której mowa w art. 93 ust. 2 pkt 2.
 
+3. W przypadku strażaków oddelegowanych do wykonywania zadań służbowych w urzędzie obsługującym ministra właściwego do spraw wewnętrznych albo w jednostce podległej lub nadzorowanej przez ministra właściwego do spraw wewnętrznych, należności, o których mowa w ust. 1, wypłaca jednostka organizacyjna Państwowej Straży Pożarnej, w której strażak pełnił służbę przed oddelegowaniem, w uzgodnieniu z kierownikiem urzędu albo jednostki, do której strażak został oddelegowany.
+
 **Art. 37s.**
 
 1. Kierownik jednostki organizacyjnej Państwowej Straży Pożarnej, o której mowa w art. 37l pkt 2, w stosunku do strażaków oddelegowanych do wykonywania zadań w instytucjach cywilnych:
@@ -1016,7 +1074,7 @@ source: "isap-pdf"
 
 **Art. 37u.**
 
-1. Uposażenie i inne należności pieniężne, o których mowa w art. 37r ust. 1, są wypłacane strażakom oddelegowanym do wykonywania zadań w instytucjach cywilnych w terminach przewidzianych dla strażaków pełniących służbę w jednostkach organizacyjnych Państwowej Straży Pożarnej.
+1. Uposażenie i inne należności pieniężne, o których mowa w art. 37r ust. 1 i 3, są wypłacane strażakom oddelegowanym do wykonywania zadań w instytucjach cywilnych w terminach przewidzianych dla strażaków pełniących służbę w jednostkach organizacyjnych Państwowej Straży Pożarnej.
 
 2. Komendant Główny Państwowej Straży Pożarnej informuje kierowników instytucji cywilnych o przeprowadzanych podwyżkach uposażeń lub innych zmianach świadczeń i należności pieniężnych przysługujących strażakom.
 
@@ -1301,6 +1359,33 @@ source: "isap-pdf"
 #### Rozdział 6 Korpusy i stopnie w Państwowej Straży Pożarnej
 
 **Art. 50.** Ustanawia się korpusy i stopnie w Państwowej Straży Pożarnej w następującym porządku:
+
+- **1)** w korpusie szeregowych straży pożarnej:
+    - **a)** strażak,
+    - **b)** starszy strażak;
+
+- **2)** w korpusie podoficerów straży pożarnej:
+    - **a)** sekcyjny,
+    - **b)** starszy sekcyjny,
+    - **c)** młodszy ogniomistrz,
+    - **d)** ogniomistrz,
+    - **e)** starszy ogniomistrz;
+
+- **3)** w korpusie aspirantów straży pożarnej:
+    - **a)** młodszy aspirant,
+    - **b)** aspirant,
+    - **c)** starszy aspirant,
+    - **d)** aspirant sztabowy;
+
+- **4)** w korpusie oficerów straży pożarnej:
+    - **a)** młodszy kapitan,
+    - **b)** kapitan,
+    - **c)** starszy kapitan,
+    - **d)** młodszy brygadier,
+    - **e)** brygadier,
+    - **f)** starszy brygadier,
+    - **g)** nadbrygadier,
+    - **h)** generał brygadier.
 
 **Art. 51.**
 
@@ -1809,6 +1894,9 @@ source: "isap-pdf"
 
 **Art. 71c.** Strażakowi można udzielić płatnego urlopu okolicznościowego:
 
+- **1)** z tytułu przeniesienia służbowego, jeżeli z przeniesieniem wiąże się zmiana miejsca zamieszkania – w wymiarze od 4 do 6 dni;
+- **2)** na załatwienie ważnych spraw osobistych lub rodzinnych – w wymiarze nieprzekraczającym 5 dni w roku kalendarzowym.
+
 **Art. 71d.**
 
 1. Strażakowi, który na podstawie skierowania, o którym mowa w art. 106 ust. 1, pobiera naukę lub odbywa przeszkolenie lub studia, udziela się:
@@ -2047,7 +2135,14 @@ source: "isap-pdf"
 
 **Art. 74c.** Prawo do zakwaterowania nie przysługuje strażakowi:
 
+- **1)** który nabył lokal mieszkalny od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielony w trybie administracyjnym w związku z pełnioną służbą;
+- **2)** od dnia przyjęcia do służby do dnia uzyskania kwalifikacji wymaganych do wykonywania zawodu strażak;
+- **3)** w służbie kandydackiej.
+
 **Art. 75.** Członkami rodziny strażaka, których uwzględnia się przy przydziale lokalu mieszkalnego albo kwatery tymczasowej, są pozostający ze strażakiem we wspólnym gospodarstwie domowym:
+
+- **1)** małżonek;
+- **2)** dzieci, o których mowa w art. 67 ust. 2.
 
 **Art. 76.**
 
@@ -2693,6 +2788,12 @@ source: "isap-pdf"
 
 **Art. 105c.** Okres przebywania na zwolnieniu lekarskim stwierdza zaświadczenie lekarskie wystawione zgodnie z art. 55 ust. 1 i art. 55a ust. 7 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa albo wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 tej ustawy, z tym że:
 
+- **1)** przyczynę niezdolności do służby wskutek poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz niezdolności do służby wskutek poddania się zabiegowi pobrania komórek, tkanek i narządów – zaświadczenie wystawione przez lekarza na zwykłym druku zgodnie z przepisem art. 53 ust. 3 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
+- **2)** w przypadku, o którym mowa w art. 105b ust. 2 pkt 2 – zaświadczenie jednostki organizacyjnej publicznej służby krwi;
+- **3)** przyczynę niezdolności, o której mowa w art. 105b ust. 2 pkt 5 lit. a – oświadczenie strażaka;
+- **4)** w przypadkach, o których mowa w art. 105b ust. 2 pkt 5 lit. b i c – zaświadczenie lekarskie wystawione przez lekarza na zwykłym druku;
+- **5)** w przypadku, o którym mowa w art. 6 ust. 2 pkt 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa – decyzja wydana przez właściwy organ albo uprawniony podmiot na podstawie przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.
+
 **Art. 105d.**
 
 1. Doręczenie zaświadczenia lekarskiego odbywa się przy wykorzystaniu profilu informacyjnego, o którym mowa w art. 58 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, na zasadach określonych w tej ustawie. Kierownicy jednostek organizacyjnych Państwowej Straży Pożarnej wykorzystują lub tworzą profil informacyjny płatnika składek, o którym mowa w art. 58 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
@@ -3116,6 +3217,10 @@ source: "isap-pdf"
 
 **Art. 124p.** Opiekunem psa używanego w Państwowej Straży Pożarnej jest odpowiednio:
 
+- **1)** w przypadku psa służbowego – strażak, któremu przydzielono pod opiekę psa służbowego i którego skierowano na szkolenie, o którym mowa w przepisach wydanych na podstawie art. 124z;
+- **2)** w przypadku psa kontraktowego – właściciel psa kontraktowego – strażak, który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 124z, z którym zawarto kontrakt i od którego jednostka organizacyjna Państwowej Straży Pożarnej pozyskała zwierzę do użycia w okresie trwania kontraktu;
+- **3)** w przypadku innego psa – osoba fizyczna, która ukończyła szkolenie, o którym mowa w przepisach wydanych na podstawie art. 124z, z którą zawarto umowę cywilnoprawną, będąca członkiem podmiotu włączonego do krajowego systemu ratowniczo-gaśniczego lub z którym zawarto umowę cywilnoprawną, o której mowa w przepisach wydanych na podstawie art. 14 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
+
 **Art. 124q.**
 
 1. Opiekunem psa służbowego wycofanego z użycia w pierwszej kolejności może być dotychczasowy opiekun tego zwierzęcia, jeżeli złoży pisemną deklarację woli sprawowania opieki.
@@ -3141,6 +3246,11 @@ source: "isap-pdf"
 11. Opiekunem psa służbowego wycofanego z użycia nie może zostać opiekun, któremu odebrano zwierzę z powodów, o których mowa w art. 124y ust. 1 pkt 1 lub 2. Do organizacji, o której mowa w ust. 9, zdanie pierwsze stosuje się.
 
 **Art. 124r.** Opiekun psa służbowego, opiekun psa służbowego wycofanego z użycia, opiekun psa kontraktowego, opiekun psa kontraktowego wycofanego z użycia, który przez okres co najmniej 5 lat trwania kontraktu był używany w Państwowej Straży Pożarnej, oraz organizacja, o której mowa w art. 124q ust. 9, zapewniają prawidłowe utrzymanie zwierzęcia obejmujące w szczególności:
+
+- **1)** racjonalne żywienie oraz stały dostęp do czystej i świeżej wody;
+- **2)** dbanie o stan zdrowia i kondycję, w tym poddawanie terminowym szczepieniom i zabiegom profilaktycznym oraz zapewnienie możliwości codziennego ruchu;
+- **3)** pielęgnację i utrzymanie w czystości;
+- **4)** warunki utrzymania dostosowane do potrzeb biologicznych.
 
 **Art. 124s.**
 
@@ -3179,6 +3289,10 @@ source: "isap-pdf"
 6. W sprawach, o których mowa w ust. 4 i 5, właściwy jest kierownik jednostki organizacyjnej Państwowej Straży Pożarnej, na której stanie znajduje się zwierzę, a w przypadku psa kontraktowego wycofanego z użycia, który przez okres co najmniej 5 lat trwania kontraktu był używany w Państwowej Straży Pożarnej – kierownik jednostki organizacyjnej Państwowej Straży Pożarnej, w której pies był używany.
 
 **Art. 124u.** Opiekunowi psa służbowego, opiekunowi psa służbowego wycofanego z użycia, opiekunowi psa kontraktowego oraz organizacji, o której mowa w art. 124q ust. 9, zabrania się:
+
+- **1)** zbywania zwierzęcia;
+- **2)** rozmnażania zwierzęcia;
+- **3)** wykorzystywania zwierzęcia w celach zarobkowych.
 
 **Art. 124v.**
 
@@ -3233,6 +3347,23 @@ source: "isap-pdf"
 4. W przypadku czasowego braku możliwości sprawowania opieki nad psem służbowym przez opiekuna kierownik jednostki organizacyjnej Państwowej Straży Pożarnej, na której stanie znajduje się zwierzę, może wyznaczyć czasowego opiekuna psa służbowego. Do czasowego opiekuna stosuje się odpowiednio przepisy dotyczące opiekuna psa służbowego, z zastrzeżeniem, że ryczałt na pokrycie kosztów wyżywienia zwierzęcia wypłaca się co miesiąc z góry, proporcjonalnie do okresu sprawowania opieki nad psem służbowym.
 
 **Art. 124z.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+- **1)** rasy psów, które mogą być używane w Państwowej Straży Pożarnej,
+- **2)** kryteria zdrowotne i użytkowe doboru psów do realizacji zadań Państwowej Straży Pożarnej,
+- **3)** specjalności ratownicze psów używanych w Państwowej Straży Pożarnej,
+- **4)** sposób szkolenia psów używanych w Państwowej Straży Pożarnej i ich opiekunów,
+- **5)** kwalifikacje egzaminatorów, tryb egzaminowania psów używanych w Państwowej Straży Pożarnej i ich opiekunów oraz testowania psów używanych w Państwowej Straży Pożarnej,
+- **6)** tryb pozyskiwania psów służbowych i psów kontraktowych,
+- **7)** tryb przydzielania psa służbowego,
+- **8)** tryb rekrutacji kandydatów, którzy mogą zostać opiekunami psów służbowych wycofanych z użycia,
+- **9)** tryb wycofywania z użycia psa służbowego,
+- **10)** sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych, psów służbowych wycofanych z użycia, psów kontraktowych i psów kontraktowych wycofanych z użycia, które przez okres co najmniej 5 lat trwania kontraktu były używane w Państwowej Straży Pożarnej,
+- **11)** sposób wyżywienia, wysokość normy wyżywienia psa służbowego i psa kontraktowego oraz normy wyżywienia psa służbowego wycofanego z użycia i psa kontraktowego wycofanego z użycia, który przez okres co najmniej 5 lat trwania kontraktu był używany w Państwowej Straży Pożarnej, w tym maksymalną wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na wyżywienie psa,
+- **12)** tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego, psa służbowego wycofanego z użycia, psa kontraktowego i psa kontraktowego wycofanego z użycia, który przez okres co najmniej 5 lat trwania kontraktu był używany w Państwowej Straży Pożarnej,
+- **13)** tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego, psa służbowego wycofanego z użycia, psa kontraktowego i psa kontraktowego wycofanego z użycia, który przez okres co najmniej 5 lat trwania kontraktu był używany w Państwowej Straży Pożarnej,
+- **14)** sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi, psami służbowymi wycofanymi z użycia, psami kontraktowymi i psami kontraktowymi wycofanymi z użycia, które przez okres co najmniej 5 lat trwania kontraktu były używane w Państwowej Straży Pożarnej,
+- **15)** tryb odbierania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji, o której mowa w art. 124q ust. 9,
+- **16)** wzory dokumentów stosowanych w tych sprawach – uwzględniając potrzebę zapewnienia prawidłowej realizacji zadań związanych z użyciem zwierzęcia, prawidłowej opieki nad zwierzęciem, racjonalnego wydatkowania środków finansowych, prawidłowego dokumentowania realizowanych czynności oraz to, że wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia jest uzależniona od wagi, okresu roku i zadań wykonywanych przez psa służbowego, a także że nie może ona przekroczyć 1/30 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
 
 #### Rozdział 12 Przepisy przejściowe i końcowe
 

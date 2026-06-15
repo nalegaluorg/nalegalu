@@ -8,7 +8,7 @@ pos: 872
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Przepisy wprowadzające ustawy reformujące administrację publiczną
@@ -31,7 +31,21 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa zasady i tryb wprowadzenia w życie ustaw:
 
+- **1)** z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz.U. Nr 91, poz. 576),
+- **2)** z dnia 5 czerwca 1998 r. o administracji rządowej w województwie (Dz.U. Nr 91, poz. 577),
+- **3)** z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz.U. Nr 91, poz. 578),
+- **4)** z dnia 24 lipca 1998 r. o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa (Dz.U. Nr 96, poz. 603 i Nr 104, poz. 656), zwanej dalej „ustawą o podziale terytorialnym”,
+- **5)** z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej - w związku z reformą ustrojową państwa (Dz.U. Nr 106, poz. 668), zwanej dalej „ustawą kompetencyjną”.
+
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
+
+- **1)** dotychczasowym wojewodzie, dotychczasowym urzędzie wojewódzkim i dotychczasowym województwie - rozumie się przez to odpowiednio wojewodę, urząd wojewódzki i województwo, o których mowa w ustawie z dnia 22 marca 1990 r. o terenowych organach rządowej administracji ogólnej (Dz.U. z 1998 r. Nr 32, poz. 176),
+- **2)** wojewodzie, urzędzie wojewódzkim i województwie - rozumie się przez to odpowiednio wojewodę, urząd wojewódzki i województwo, o których mowa w ustawie o administracji rządowej w województwie i w ustawie o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa,
+- **3)** dotychczasowym komendancie wojewódzkim lub dotychczasowej komendzie wojewódzkiej – rozumie się przez to odpowiednio komendanta wojewódzkiego lub komendę wojewódzką, o których mowa w ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz.U. Nr 30, poz. 179, z 1991 r. Nr 94, poz. 422 i Nr 107, poz. 461, z 1992 r. Nr 54, poz. 254, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17, Nr 34, poz.163 i Nr 104, poz.515, z 1996 r. Nr 59, poz. 269 i Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153, Nr 80, poz. 499, Nr 88, poz. 554, Nr 106, poz. 680, Nr 123, poz.779 i Nr 141, poz.943 oraz z 1998 r. Nr 106, poz.668) oraz w ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz.U. Nr 88, poz. 400, z 1992 r. Nr 21, poz. 86 i Nr 54, poz. 254, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17 i Nr 34, poz. 163, z 1996 r. Nr 106, poz. 496 i Nr 152, poz. 723, z 1997 r. Nr 28, poz.153, Nr 88, poz. 554 i Nr 106, poz. 680 oraz z 1998 r. Nr 106, poz. 668) w brzmieniu obowiązującym w dniu 31 grudnia 1998 r.,
+- **4)** komendancie wojewódzkim lub komendzie wojewódzkiej – rozumie się przez to odpowiednio komendanta wojewódzkiego lub komendę wojewódzką, o których mowa w ustawach: o Policji i o Państwowej Straży Pożarnej, w brzmieniu nadanym przez ustawę kompetencyjną,
+- **5)** dotychczasowym wojewódzkim funduszu – rozumie się przez to wojewódzki fundusz ochrony środowiska i gospodarki wodnej z siedzibą w mieście będącym siedzibą dotychczasowego wojewody,
+- **6)** wojewódzkim funduszu – rozumie się przez to wojewódzki fundusz ochrony środowiska i gospodarki wodnej z siedzibą w mieście będącym siedzibą władz samorządu województwa,
+- **7)** staroście - rozumie się przez to także przewodniczącego zarządu miasta na prawach powiatu.
 
 **Art. 3.** Wdrożenie reformy administracji publicznej należy do zakresu działania ministra właściwego do spraw administracji publicznej oraz do innych organów administracji rządowej - zgodnie z ich właściwością.
 
@@ -236,6 +250,10 @@ source: "isap-pdf"
 3. Przepisy ust. 1 i 2 stosuje się również do postępowania przed sądami i w postępowaniu egzekucyjnym.
 
 **Art. 19c.** Postępowania toczące się przed organami zatrudnienia w sprawach indywidualnych wszczętych i nie zakończonych do dnia 31 grudnia 1999 r., przechodzących do właściwości organów powiatów i samorządów województw, przejmują starostowie i marszałkowie województw, jeżeli przepisy szczególne nie stanowią inaczej, z tym że:
+
+- **1)** wszystkie czynności podjęte w postępowaniu do dnia 31 grudnia 1999 r., a także decyzje administracyjne pozostają w mocy,
+- **2)** odwołania od decyzji wydanych w pierwszej instancji przez dyrektorów wojewódzkich urzędów pracy do dnia 31 grudnia 1999 r., w tym w sprawach przechodzących do właściwości starostów, rozpatruje Prezes Krajowego Urzędu Pracy,
+- **3)** odwołania od decyzji wydanych przez kierowników powiatowych urzędów pracy do dnia 31 grudnia 1999 r. w sprawach przechodzących do właściwości starostów rozpatruje wojewoda.
 
 **Art. 19d.**
 
@@ -698,7 +716,21 @@ source: "isap-pdf"
 
 **Art. 70.** Przekazanie mienia jednostek, o których mowa w art. 25 ust. 1 pkt 4, następuje z wyłączeniem będących w trwałym zarządzie:
 
+- **1)** śródlądowych wód powierzchniowych płynących,
+- **2)** gruntów pokrytych państwowymi wodami płynącymi w granicach określonych liniami brzegu,
+- **3)** terenów między korytem wody płynącej a wałami przeciwpowodziowymi,
+- **4)** wałów przeciwpowodziowych wraz z gruntami, na których są posadowione,
+- **5)** zbiorników retencyjnych, zapór i stopni wodnych, jazów i innych podobnych urządzeń hydrotechnicznych.
+
 **Art. 71.** Mienie nabyte, na zasadach określonych w ustawie, przez jednostki samorządu terytorialnego podlega przepisom dotyczącym postępowania regulacyjnego, o którym mowa w:
+
+- **1)** art. 61-63 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz.U. Nr 29, poz. 154, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 i Nr 107, poz. 459, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590 i Nr 141, poz. 943 oraz z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 757),
+- **2)** art. 38a–38g ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz.U. Nr 29, poz. 155, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34 oraz z 1998 r. Nr 59, poz. 375),
+- **3)** art. 48a-48d ustawy z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz.U. Nr 66, poz. 287, Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3 oraz z 1998 r. Nr 59, poz.375, Nr 106, poz. 668 i Nr 117, poz. 756),
+- **4)** art. 40-45 ustawy z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko–Augsburskiego w Rzeczypospolitej Polskiej (Dz.U. Nr 73, poz. 323 oraz z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 756),
+- **5)** art. 24-26 ustawy z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej (Dz.U. Nr 73, poz. 324 oraz z 1998 r. Nr 59, poz. 375 i Nr 106, poz. 668),
+- **6)** art. 40-42 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan-Baptystów w Rzeczypospolitej Polskiej (Dz.U. Nr 97, poz. 480 oraz z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 756),
+- **7)** art. 30-34 ustawy z dnia 20 lutego 1997 r. o stosunku Państwa do gmin wyznaniowych żydowskich w Rzeczypospolitej Polskiej (Dz.U. Nr 41, poz. 251 oraz z 1998 r. Nr 59, poz. 375 i Nr 106, poz. 668).
 
 **Art. 72.**
 
@@ -966,6 +998,10 @@ source: "isap-pdf"
 **Art. 108.** W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. Nr 98, poz. 602, Nr 123, poz. 779, Nr 160, poz. 1086 oraz z 1998 r. Nr 106, poz. 668) w art. 109 w ust. 3 kropkę na końcu skreśla się i dodaje się wyrazy „albo w mieście, które do dnia 31 grudnia 1998 r. było siedzibą wojewody.”.
 
 **Art. 109.** Z dniem 31 grudnia 1998 r. tracą moc:
+
+- **1)** ustawa z dnia 1 marca 1949 r. o zakładach utylizacyjnych (Dz.U. Nr 18, poz. 113, z 1958 r. Nr 45, poz. 224 i z 1988 r. Nr 41, poz. 324),
+- **2)** ustawa z dnia 25 lutego 1964 r. o ograniczeniu uboju cieląt (Dz.U. Nr 8, poz. 51 i z z 1989 r. Nr 35, poz. 192 ),
+- **3)** ustawa z dnia 24 listopada 1995 r. o zmianie zakresu działania niektórych miast oraz o miejskich strefach usług publicznych (Dz.U. z 1997 r. Nr 36, poz. 224, Nr 123, poz. 780 i Nr 162, poz. 1120).
 
 **Art. 110.** Ustawa wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 108, który wchodzi w życie z dniem 1 stycznia 1999 r.
 

@@ -8,7 +8,7 @@ pos: 1045
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o paszach
@@ -29,13 +29,61 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** właściwość organów w zakresie higieny i urzędowej kontroli pasz oraz dodatków stosowanych w żywieniu zwierząt, a także w zakresie wytwarzania, wprowadzania do obrotu i stosowania pasz leczniczych oraz urzędowej kontroli tych pasz, określonych w przepisach: UE Polskie wydanie specjalne, rozdz. 3, t. 40, str. 238), zwanego dalej „rozporządzeniem nr 1831/2003”, Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 32, str. 289, z późn. zm.), zwanego dalej „rozporządzeniem nr 999/2001”,
+    - **a)** rozporządzenia (WE) nr 183/2005 Parlamentu Europejskiego i Rady z dnia 12 stycznia 2005 r. ustanawiającego wymagania dotyczące higieny pasz (Dz. Urz. UE L 35 z 08.02.2005, str. 1), zwanego dalej „rozporządzeniem nr 183/2005”,
+    - **b)** rozporządzenia (WE) nr 1831/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie dodatków stosowanych w żywieniu zwierząt (Dz. Urz. UE L 268 z 18.10.2003, str. 29; Dz. Urz.
+    - **c)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/625”,
+    - **d)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001 z dnia 22 maja 2001 r. ustanawiającego zasady dotyczące zapobiegania, kontroli i zwalczania niektórych przenośnych gąbczastych encefalopatii (Dz. Urz. WE L 147 z 31.05.2001, str. 1, z późn. zm.; Dz.
+    - **e)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2009 z dnia 13 lipca 2009 r. w sprawie wprowadzania na rynek i stosowania pasz, zmieniającego rozporządzenie (WE) nr 1831/2003 Parlamentu Europejskiego i Rady i uchylającego dyrektywę Rady 79/373/EWG, dyrektywę Komisji 80/511/EWG, dyrektywy Rady 82/471/EWG, 83/228/EWG, 93/74/EWG, 93/113/WE i 96/25/WE oraz decyzję Komisji 2004/217/WE (Dz. Urz. UE L 229 z 01.09.2009, str. 1), zwanego dalej „rozporządzeniem nr 767/2009”,
+    - **f)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/4 z dnia 11 grudnia 2018 r. w sprawie wytwarzania, wprowadzania na rynek i stosowania paszy leczniczej, zmieniającego rozporządzenie (WE) nr 183/2005 Parlamentu Europejskiego i Rady oraz uchylającego dyrektywę Rady 90/167/EWG (Dz. Urz. UE L 4 z 07.01.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2019/4” – z uwzględnieniem zasad, obowiązków i wymagań, określonych w rozporządzeniu (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającym ogólne zasady i wymagania prawa żywnościowego, powołującym Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającym procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 463, z późn. zm.), zwanym dalej „rozporządzeniem nr 178/2002”;
+
+- **2)** właściwość organów w zakresie dotyczącym zezwoleń, oznakowania i nadzoru nad organizmami genetycznie zmodyfikowanymi przeznaczonymi do użytku paszowego oraz paszami genetycznie zmodyfikowanymi, określonym w przepisach:
+    - **a)** rozporządzenia (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432), zwanego dalej „rozporządzeniem nr 1829/2003”,
+    - **b)** rozporządzenia (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącego możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającego dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455), zwanego dalej „rozporządzeniem nr 1830/2003”;
+
+- **3)** właściwość organów w sprawach transgranicznego przemieszczania organizmów genetycznie zmodyfikowanych, w zakresie dotyczącym organizmów genetycznie zmodyfikowanych przeznaczonych do użytku paszowego, określonego w przepisach rozporządzenia (WE) nr 1946/2003 Parlamentu Europejskiego i Rady z dnia 15 lipca 2003 r. w sprawie transgranicznego przemieszczania organizmów genetycznie zmodyfikowanych (Dz. Urz. UE L 287 z 05.11.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 650), zwanego dalej „rozporządzeniem nr 1946/2003”;
+- **4)** (uchylony)
+- **5)** wymagania dotyczące higieny pasz i wprowadzania ich do obrotu, sposób sprawowania nadzoru nad tymi paszami oraz ich urzędowej kontroli, w zakresie nieuregulowanym w przepisach wymienionych w pkt 1.
+
 **Art. 2.** Ustawa nie narusza przepisów:
+
+- **1)** (uchylony)
+- **2)** (uchylony)
+- **3)** o organizmach genetycznie zmodyfikowanych;
+- **4)** prawa farmaceutycznego.
 
 **Art. 3.** Do postępowania w sprawach indywidualnych, rozstrzyganych w drodze decyzji administracyjnej, stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że przepisy wymienione w art. 1 pkt 1 albo ustawa stanowią inaczej.
 
 **Art. 3a.** Do postępowania w sprawach:
 
+- **1)** o których mowa w art. 7 ust. 2 i 4, art. 10, art. 16, art. 21 oraz art. 37,
+- **2)** dotyczących uchylenia, zmiany lub stwierdzenia nieważności decyzji wydanej na podstawie art. 7 ust. 2 i 4, art. 10, art. 16, art. 21 lub art. 37 oraz w sprawach wznowienia postępowania zakończonego wydaniem takiej decyzji – nie stosuje się przepisu art. 32 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871).
+
 **Art. 4.** Użyte w ustawie określenia oznaczają:
+
+- **1)** prawo żywnościowe – prawo żywnościowe w rozumieniu art. 3 ust. 1 rozporządzenia nr 178/2002;
+- **2)** pasza – paszę w rozumieniu art. 3 ust. 4 rozporządzenia nr 178/2002;
+- **3)** pasza genetycznie zmodyfikowana – genetycznie zmodyfikowaną paszę w rozumieniu art. 2 ust. 7 rozporządzenia nr 1829/2003;
+- **4)** organizm genetycznie zmodyfikowany przeznaczony do użytku paszowego – genetycznie zmodyfikowany organizm do użytku paszowego w rozumieniu art. 2 ust. 9 rozporządzenia nr 1829/2003;
+- **5)** materiały paszowe – materiały paszowe w rozumieniu art. 3 ust. 2 lit. g rozporządzenia nr 767/2009;
+- **6)** mieszanka paszowa – mieszankę paszową w rozumieniu art. 3 ust. 2 lit. h rozporządzenia nr 767/2009;
+- **7)** dodatki paszowe – dodatki paszowe w rozumieniu art. 2 ust. 2 lit. a rozporządzenia nr 1831/2003;
+- **8)** premiks – premiks w rozumieniu art. 2 ust. 2 lit. e rozporządzenia nr 1831/2003;
+- **9)** pasza lecznicza – paszę leczniczą w rozumieniu art. 3 ust. 2 lit. a rozporządzenia 2019/4;
+- **10)** mieszanka paszowa pełnoporcjowa – mieszankę paszową pełnoporcjową w rozumieniu art. 3 ust. 2 lit. i rozporządzenia nr 767/2009;
+- **11)** mieszanka paszowa uzupełniająca – mieszankę paszową uzupełniającą w rozumieniu art. 3 ust. 2 lit. j rozporządzenia nr 767/2009;
+- **12)** mieszanka paszowa dietetyczna – paszę przeznaczoną do szczególnych potrzeb żywieniowych w rozumieniu art. 3 ust. 2 lit. o rozporządzenia nr 767/2009;
+- **13)** podmiot działający na rynku pasz – podmiot w rozumieniu art. 3 lit. b rozporządzenia nr 183/2005;
+- **14)** laboratorium urzędowe – laboratorium określone w art. 37 rozporządzenia 2017/625;
+- **15)** zakład – zakład w rozumieniu art. 3 lit. d rozporządzenia nr 183/2005;
+- **16)** wprowadzanie do obrotu – wprowadzanie na rynek w rozumieniu art. 3 ust. 8 rozporządzenia nr 178/2002;
+- **17)** państwo trzecie – państwo niebędące członkiem Unii Europejskiej, z wyjątkiem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) będącego stroną umowy o Europejskim Obszarze Gospodarczym;
+- **18)** przesyłka – określoną ilość pasz lub pasz leczniczych, objętą tym samym dokumentem potwierdzającym przeprowadzenie kontroli przesyłki, przewożoną jednym środkiem transportu oraz pochodzącą z jednego państwa trzeciego lub jego części;
+- **19)** (uchylony)
+- **20)** (uchylony)
+- **21)** zwierzę gospodarskie – zwierzę wykorzystywane do produkcji żywności w rozumieniu art. 3 ust. 2 lit. c rozporządzenia nr 767/2009;
+- **22)** zwierzę domowe – zwierzę domowe w rozumieniu art. 3 ust. 2 lit. f rozporządzenia nr 767/2009;
+- **23)** produkt pośredni – produkt pośredni w rozumieniu art. 3 ust. 2 lit. b rozporządzenia 2019/4.
 
 **Art. 5.**
 
@@ -286,6 +334,12 @@ source: "isap-pdf"
 
 **Art. 21a.** Wojewódzki lekarz weterynarii przeprowadza urzędowe kontrole podmiotów, o których mowa w art. 13 ust. 2:
 
+- **1)** lit. c oraz ust. 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, w zakresie spełnienia wymogów dotyczących:
+    - **a)** przechowywania lub transportu pasz leczniczych lub produktów pośrednich określonych w sekcji 5 załącznika I do rozporządzenia 2019/4,
+    - **b)** prowadzenia dokumentacji określonych w sekcji 6 ust. 1 i ust. 2 lit. e–i załącznika I do rozporządzenia 2019/4;
+
+- **2)** lit. b rozporządzenia 2019/4, w zakresie spełnienia wymogów dotyczących prowadzenia dokumentacji określonych w sekcji 6 ust. 1 i ust. 2 lit. e–i załącznika I do rozporządzenia 2019/4.
+
 **Art. 22.** (uchylony)
 
 **Art. 22a.**
@@ -371,6 +425,21 @@ source: "isap-pdf"
 
 **Art. 35.** Przepisy art. 36–41, do dnia ogłoszenia przez Komisję Europejską wykazów przewidzianych w art. 23 ust. 1 lit. a i b rozporządzenia nr 183/2005, stosuje się do przywozu przesyłek:
 
+- **1)** dodatków paszowych z kategorii:
+    - **a)** dietetycznych, z grupy: witamin, prowitamin i chemicznie dobrze zdefiniowanych substancji o podobnym działaniu, związków pierwiastków śladowych, aminokwasów, ich soli i podobnych produktów,
+    - **b)** zootechnicznych, z grupy: substancji polepszających strawność, stabilizatorów flory jelitowej, substancji, które korzystnie wpływają na środowisko, oraz innych dodatków zootechnicznych,
+    - **c)** technologicznych, z grupy przeciwutleniaczy, dla których jest określona maksymalna zawartość w mieszankach paszowych pełnoporcjowych,
+    - **d)** sensorycznych, z grupy barwników: karotenoidy i ksantofile,
+    - **e)** kokcydiostatyków i histomonostatyków;
+
+- **2)** dodatków paszowych innych niż określone w pkt 1, dla których została ustalona ich maksymalna zawartość w mieszankach paszowych pełnoporcjowych;
+- **3)** materiałów paszowych z grup:
+    - **a)** białka uzyskiwanego z mikroorganizmów należących do grup bakterii, drożdży, glonów i grzybów, z wyłączeniem drożdży hodowanych na substancjach pochodzenia zwierzęcego lub roślinnego,
+    - **b)** produktów ubocznych uzyskiwanych w procesie wytwarzania aminokwasów w drodze fermentacji;
+
+- **4)** premiksów zawierających dodatki paszowe, o których mowa w pkt 1;
+- **5)** mieszanek paszowych zawierających premiksy, o których mowa w pkt 4.
+
 **Art. 36.**
 
 1. Dopuszcza się przywóz przesyłek pasz wymienionych w art. 35 z zakładów państw trzecich mających przedstawicielstwo:
@@ -416,7 +485,15 @@ source: "isap-pdf"
 
 **Art. 40.** Główny Lekarz Weterynarii skreśla, w drodze decyzji administracyjnej, zakład z ewidencji, jeżeli:
 
+- **1)** w wyniku kontroli pasz pochodzących z tego zakładu zostanie ustalone, że pasze te lub zakład nie spełniają wymagań określonych w przepisach wymienionych w art. 1 pkt 1 oraz w ustawie, lub
+- **2)** w wyniku kontroli przeprowadzonej w zakładzie przez właściwe organy Unii Europejskiej zostanie ustalone, że zakład nie spełnia wymagań, o których mowa w art. 36 ust. 2 pkt 2 lit. a, lub
+- **3)** przedstawicielstwo nie prowadzi rejestru, o którym mowa w art. 36 ust. 2 pkt 2 lit. b, lub prowadzi ten rejestr w sposób niezgodny z przepisami ustawy, lub
+- **4)** przedstawicielstwo, które reprezentuje zakład, zostanie wykreślone z rejestru przedstawicielstw przedsiębiorców zagranicznych prowadzonego na podstawie ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej.
+
 **Art. 41.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
+
+- **1)** sposób ustalania numeru identyfikacyjnego, o którym mowa w art. 37 ust. 4 pkt 1, mając na względzie zapewnienie prawidłowej identyfikacji zakładów państw trzecich, z których mogą być przywożone pasze;
+- **2)** wzór ewidencji, mając na względzie przepisy Unii Europejskiej obowiązujące w tym zakresie.
 
 **Art. 42.**
 
@@ -439,6 +516,10 @@ source: "isap-pdf"
 3. (uchylony)
 
 **Art. 44.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
+
+- **1)** (uchylony)
+- **2)** (uchylony)
+- **3)** wykaz laboratoriów upoważnionych do prowadzenia badań w ramach urzędowej kontroli (laboratoria urzędowe), mając na względzie zapewnienie rzetelności i obiektywności przeprowadzanych badań.
 
 **Art. 45.**
 
@@ -591,6 +672,11 @@ source: "isap-pdf"
 
 **Art. 53b.** W przypadku ponownego popełnienia takiego samego czynu, o którym mowa w art. 53a ust. 1, wysokość kary pieniężnej:
 
+- **1)** jest nie niższa od wysokości kary pieniężnej wymierzonej poprzednio za takie naruszenie;
+- **2)** ustala się, dokonując powiększenia o 25 % wysokości kary pieniężnej ustalonej zgodnie z pkt 1 i z przepisami wydanymi na podstawie art. 53a ust.
+
+2.
+
 **Art. 53c.** Kary pieniężne wymierza, w drodze decyzji administracyjnej, powiatowy lekarz weterynarii.
 
 **Art. 53d.** Egzekucja nałożonych kar pieniężnych następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
@@ -607,9 +693,15 @@ source: "isap-pdf"
 
 **Art. 62.** Ilekroć w przepisach wdrażających lub wykonujących przepisy Unii Europejskiej lub w innych przepisach dotyczących środków żywienia zwierząt jest mowa o:
 
+- **1)** środkach żywienia zwierząt – należy przez to rozumieć pasze w rozumieniu art. 3 ust. 4 rozporządzenia nr 178/2002;
+- **2)** przepisach o środkach żywienia zwierząt – należy przez to rozumieć przepisy ustawy.
+
 **Art. 62a.** Z dniem 31 grudnia 2012 r. tracą ważność zezwolenia na wprowadzanie do obrotu na terytorium Rzeczypospolitej Polskiej produktów GMO będących paszami genetycznie zmodyfikowanymi lub organizmami genetycznie zmodyfikowanymi przeznaczonymi do użytku paszowego, wydane na podstawie przepisów o organizmach genetycznie zmodyfikowanych.
 
 **Art. 63.** Przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 4 ust. 2, art. 6 ust. 4, art. 20 ust. 5, art. 30p ust. 5, art. 30s, art. 31 ust. 2, art. 32 ust. 2, art. 36 ust. 8 pkt 1, art. 38 ust. 7 i 8, art. 42 ust. 2, art. 43j pkt 1, art. 44 ust. 10, art. 44a ust. 6 i art. 44h ustawy wymienionej w art. 64 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 15 ust. 4 i 5, art. 18 ust. 4, art. 23 ust. 2, art. 24 ust. 7, art. 25 ust. 3, art. 26 ust. 2, art. 27 ust. 3, art. 11 ust. 5 pkt 2, art. 30 ust. 8 i 9, art. 28 ust. 2, art. 41 pkt 1, art. 44, art. 45 ust. 3 i art. 48;
+- **2)** art. 25 ustawy wymienionej w art. 56 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 25 ust. 1 tej ustawy, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 64.** Traci moc ustawa z dnia 23 sierpnia 2001 r. o środkach żywienia zwierząt (Dz. U. z 2005 r. poz. 2143).
 

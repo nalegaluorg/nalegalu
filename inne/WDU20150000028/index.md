@@ -8,7 +8,7 @@ pos: 28
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw
@@ -29,7 +29,199 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 2: 7 ) dystrybucją substancji czynnej – jest każde działanie obejmujące nabywanie, przechowywanie, dostarczanie lub eksport substancji czynnej prowadzone przez wytwórców, importerów lub dystrybutorów substancji czynnej, prowadzących działalność na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym;”,
+    - **a)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) Dobrą Praktyką Dystrybucyjną substancji czynnych – jest praktyka, która gwarantuje bezpieczne przyjmowanie, transportowanie, przechowywanie i wydawanie substancji czynnej;”,
+    - **b)** pkt 7 otrzymuje brzmienie: „7) Dobrą Praktyką Wytwarzania – jest praktyka, która gwarantuje, że produkt leczniczy oraz substancja czynna są wytwarzane i kontrolowane odpowiednio do ich zamierzonego zastosowania oraz zgodnie z wymaganiami zawartymi w ich specyfikacjach i dokumentach stanowiących podstawę wydania pozwolenia na dopuszczenie do obrotu produktu leczniczego;”,
+    - **c)** po pkt 7 dodaje się pkt 7 i 7 w brzmieniu: „7 ) Dobrą Praktyką Wytwarzania substancji pomocniczych – jest praktyka, która gwarantuje, że substancje pomocnicze są wytwarzane i kontrolowane odpowiednio do ich zamierzonego zastosowania;
+    - **d)** pkt 7a i 7b otrzymują brzmienie: „7a) importem produktu leczniczego – jest każde działanie polegające na sprowadzaniu produktu leczniczego spoza terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w tym ich magazynowanie, kontrola jakości przy zwalnianiu serii i dystrybucja;
+
+- **7b)** importem równoległym – jest każde działanie w rozumieniu art. 72 ust. 4 polegające na sprowadzeniu z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym produktu leczniczego spełniającego łącznie następujące warunki:
+    - **a)** sprowadzony produkt leczniczy posiada tę samą substancję czynną (substancje czynne), co najmniej te same wskazania do 3 poziomu kodu ATC/ATCvet (kod międzynarodowej klasyfika28i anatomiczno-terapeutyczno-chemicznej produktów leczniczych/kod międzynarodowej klasyfikacji anatomicznoterapeutyczno-chemicznej produktów leczniczych weterynaryjnych), tę samą moc, tę samą drogę podania oraz tę samą postać jak produkt leczniczy dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej lub postać zbliżoną, która nie powoduje powstania różnic terapeutycznych w stosunku do produktu leczniczego dopuszczonego do obrotu na terytorium Rzeczypospolitej Polskiej,
+    - **b)** sprowadzony produkt leczniczy i produkt leczniczy dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej są odpowiednio w państwie, z którego produkt jest sprowadzony, i na terytorium Rzeczypospolitej Polskiej jednocześnie referencyjnymi produktami leczniczymi albo jednocześnie odpowiednikami referencyjnych produktów leczniczych;”,
+    - **e)** po pkt 7b dodaje się pkt 7ba w brzmieniu: „7ba) importem substancji czynnej – jest każde działanie polegające na sprowadzaniu substancji czynnej spoza terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w tym magazynowanie i dystrybucja;”,
+    - **f)** pkt 7c i 7d otrzymują brzmienie: „7c) inspekcją – są czynności związane ze sprawowanym nadzorem nad warunkami wytwarzania i importu produktów leczniczych, substancji czynnych i pomocniczych oraz nad obrotem hurtowym i pośrednictwem w obrocie produktami leczniczymi;
+
+- **7d)** kontrolą – są czynności podejmowane przez:
+    - **a)** inspektorów farmaceutycznych w związku ze sprawowanym nadzorem nad jakością produktów leczniczych będących przedmiotem obrotu detalicznego oraz mające na celu sprawdzenie warunków prowadzenia obrotu detalicznego produktami leczniczymi,
+    - **b)** Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych w zakresie monitorowania systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych,
+    - **c)** Głównego Lekarza Weterynarii w zakresie nadzoru nad jakością produktów leczniczych weterynaryjnych będących przedmiotem obrotu lub stosowania;”,
+    - **g)** po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) krajem trzecim – jest państwo położone poza terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym;”,
+    - **h)** po pkt 21 dodaje się pkt 21a w brzmieniu: „21a) Osobą Wykwalifikowaną – jest osoba odpowiedzialna za zapewnienie przed wprowadzeniem do obrotu, że każda seria produktu leczniczego została wytworzona i skontrolowana zgodnie z przepisami ustawy oraz wymaganiami zawartymi w specyfikacjach i dokumentach stanowiących podstawę wydania pozwolenia na dopuszczenie do obrotu tego produktu;”,
+    - **i)** po pkt 38 dodaje się pkt 38a–38d w brzmieniu: „38a) sfałszowanym produktem leczniczym – jest produkt leczniczy, z wyłączeniem produktu leczniczego z niezamierzoną wadą jakościową, który został fałszywie przedstawiony w zakresie:
+    - **a)** tożsamości produktu, w tym jego opakowania, etykiety, nazwy lub składu w odniesieniu do jakichkolwiek składników, w tym substancji pomocniczych, oraz mocy tych składników,
+    - **b)** jego pochodzenia, w tym jego wytwórcy, kraju wytworzenia, kraju pochodzenia lub podmiotu odpowiedzialnego, lub
+    - **c)** jego historii, w tym danych i dokumentów dotyczących wykorzystanych kanałów dystrybucji;
+
+- **38b)** sfałszowaną substancją czynną – jest substancja czynna, z wyłączeniem substancji czynnej zawierającej niezamierzoną wadę jakościową, która została fałszywie przedstawiona w zakresie:
+    - **a)** tożsamości, w tym opakowania, etykiety, nazwy lub składu w odniesieniu do jakichkolwiek składników oraz mocy tych składników,
+    - **b)** jej pochodzenia, w tym jej wytwórcy, kraju wytworzenia, kraju pochodzenia lub podmiotu odpowiedzialnego, lub
+    - **c)** jej historii, w tym danych i dokumentów dotyczących wykorzystanych kanałów dystrybucji;
+
+- **38c)** substancją czynną – jest substancja lub mieszanina substancji, która ma zostać wykorzystana do wytworzenia produktu leczniczego i która, użyta w jego produkcji, staje się składnikiem czynnym tego produktu przeznaczonym do wywołania działania farmakologicznego, immunologicznego lub metabolicznego w celu przywrócenia, poprawy lub zmiany funkcji fizjologicznych lub do postawienia diagnozy medycznej;
+- **38d)** substancją pomocniczą – jest składnik produktu leczniczego inny niż substancja czynna i materiał opakowaniowy;”,
+    - **j)** pkt 42 i 42a otrzymują brzmienie: „42) wytwarzaniem produktu leczniczego – jest każde działanie prowadzące do powstania produktu leczniczego, w tym zakup i przyjmowanie w miejscu wytwarzania przez wytwórcę materiałów używanych do produkcji, produkcja, dopuszczanie do kolejnych etapów wytwarzania, w tym pakowanie lub przepakowywanie oraz magazynowanie i dystrybucja wytwarzanych produktów leczniczych objętych wnioskiem o wydanie zezwolenia na wytwarzanie, a także czynności kontrolne związane z tymi działaniami;
+
+- **42a)** wytwarzaniem substancji czynnej – jest każde działanie prowadzące do powstania substancji czynnej, w tym zakup i przyjmowanie w miejscu wytwarzania przez wytwórcę substancji czynnej materiałów używanych do produkcji, produkcja, dopuszczanie do kolejnych etapów wytwarzania, w tym pakowanie, przepakowywanie, ponowne etykietowanie, magazynowanie oraz dystrybucja substancji czynnej objętej wpisem do rejestru, o którym mowa w art. 51c ust. 1, a także czynności kontrolne związane z tymi działaniami;”,
+    - **k)** pkt 44 otrzymuje brzmienie: „44) zwolnieniem serii – jest poświadczenie przez Osobę Wykwalifikowaną, że dana seria produktu leczniczego lub badanego produktu leczniczego została wytworzona i skontrolowana zgodnie z przepisami prawa oraz wymaganiami pozwolenia na dopuszczenie do obrotu lub warunkami rozpoczęcia prowadzenia badania klinicznego.”;
+
+- **2)** w art. 5 pkt 1 otrzymuje brzmienie: „1) produkty lecznicze wykorzystywane wyłącznie do badań naukowych, prowadzonych przez jednostki naukowe w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2014 r. poz.
+- **1620)** , prowadzące działalność o profilu medycznym;”;
+- **3)** w art. 10: potwierdzenie powinno zawierać datę przeprowadzenia audytu oraz oświadczenie, że audyt wykazał, że wytwarzanie substancji czynnej odbywa się zgodnie z wymaganiami Dobrej Praktyki Wytwarzania;”,
+    - **a)** w ust. 2 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) pisemne potwierdzenie wytwórcy produktu leczniczego, że skontrolował, przez przeprowadzenie audytu, przestrzeganie wymagań Dobrej Praktyki Wytwarzania przez wytwórcę substancji czynnej, w miejscu prowadzenia przez niego działalności wytwórczej;
+    - **b)** uchyla się ust. 6a;
+
+- **4)** w art. 22 w ust. 2 pkt 1 otrzymuje brzmienie: „1) jednostki prowadzące badania, o których mowa w art. 8 ust. 1 pkt 3, uwzględniając w szczególności status tych jednostek, zakres badań, jakie powinny być wykonywane dla oceny jakości produktu leczniczego, kwalifikacje personelu zatrudnionego w danej jednostce, doświadczenie w zakresie analizy produktów leczniczych;”;
+- **5)** w art. 37ia ust. 1 otrzymuje brzmienie: „1. Jeżeli właścicielem danych uzyskanych w trakcie badania klinicznego jest sponsor, będący uczelnią, o której mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm. ), lub inną placówką naukową posiadającą uprawnienie do nadawania stopni naukowych zgodnie z przepisami ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. z 2014 r. poz. 1852), podmiotem leczniczym, o którym mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2013 r. poz. 217, z późn. zm. ), badaczem, organizacją pacjentów, organizacją badaczy lub inną osobą fizyczną lub prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, której celem działalności nie jest osiąganie zysku w zakresie prowadzenia i organizacji badań klinicznych bądź wytwarzania lub obrotu produktami leczniczymi, badanie kliniczne jest badaniem klinicznym niekomercyjnym.”;
+- **6)** art. 37au otrzymuje brzmienie: „Art. 37au. Do kontroli lub inspekcji działalności gospodarczej przedsiębiorcy, o której mowa w art. 38, art. 38a, art. 51b, art. 70, art. 73a, art. 74 i art. 99, stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej.”;
+- **7)** art. 38 otrzymuje brzmienie: „Art. 38. 1. Podjęcie działalności gospodarczej w zakresie wytwarzania lub importu produktu leczniczego wymaga uzyskania zezwolenia na wytwarzanie lub import produktu leczniczego.
+
+2. Organem właściwym do wydania, odmowy wydania i cofnięcia, a także zmiany zezwolenia na wytwarzanie lub import produktu leczniczego jest Główny Inspektor Farmaceutyczny.
+
+3. Główny Inspektor Farmaceutyczny wydaje zaświadczenie, o którym mowa w art. 47a ust. 1, jeżeli podmiot odpowiedzialny wystąpił z wnioskiem:
+
+- **1)** o którym mowa w art. 10 ust. 1 lub 2a lub
+- **2)** o zmianę pozwolenia w zakresie zmiany miejsca wytwarzania w kraju trzecim, lub
+- **3)** o wydanie certyfikatów w przypadku, gdy produkt leczniczy jest sprowadzany na terytorium Rzeczypospolitej Polskiej z kraju trzeciego – na podstawie inspekcji przeprowadzonej przez inspektorów do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego, po przedstawieniu przez wnioskodawcę uwierzytelnionej kopii zezwolenia na wytwarzanie wydanego przez właściwy organ w państwie, w którym produkt leczniczy jest wytwarzany.
+
+4. Główny Inspektor Farmaceutyczny przekazuje kopię zaświadczenia, o którym mowa w art. 47a ust. 1, Prezesowi Urzędu, na jego wniosek.
+
+5. Inspekcję, o której mowa w ust. 3, przeprowadza inspektor do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego na koszt podmiotu wnioskującego o wydanie raportu, o którym mowa w art. 10 ust. 5, albo zaświadczenia, o którym mowa w art. 47a ust. 1.
+
+6. Przepisów ust. 3–5 nie stosuje się w odniesieniu do państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz krajów trzecich mających równoważne z Unią Europejską wymagania Dobrej Praktyki Wytwarzania i równoważny system inspekcji.
+
+7. Główny Inspektor Farmaceutyczny wprowadza informacje o wydanych zezwoleniach na wytwarzanie lub import produktu leczniczego do europejskiej bazy danych EudraGMDP.
+
+8. Główny Inspektor Farmaceutyczny współpracuje z Europejską Agencją Leków w zakresie planowania i przeprowadzania inspekcji, o której mowa w ust. 3, oraz koordynowania inspekcji w krajach trzecich.”;
+
+- **8)** w art. 38a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Podjęcie wytwarzania produktów leczniczych terapii zaawansowanej, o których mowa w art. 2 rozporządzenia 1394/2007, wymaga zgody Głównego Inspektora Farmaceutycznego, wydawanej w drodze decyzji. Decyzja jest wydawana po stwierdzeniu, na podstawie inspekcji przeprowadzonej przez inspektorów do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego, że podmiot ubiegający się o jej wydanie spełnia wymagania Dobrej Praktyki Wytwarzania.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Do wytwarzania produktów leczniczych terapii zaawansowanej stosuje się odpowiednio art. 42 ust. 1 pkt 1, 3, 6–8.”,
+    - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Inspektor do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego sprawdza, przez przeprowadzanie inspekcji, których częstotliwość jest określana w oparciu o analizę ryzyka, czy wytwórca produktów leczniczych terapii zaawansowanej, o których mowa w art. 2 rozporządzenia 1394/2007, wypełnia obowiązki wynikające z ustawy.”,
+    - **d)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Opłaty określonej w ust. 5 nie pobiera się od podmiotów posiadających pozwolenie, o którym mowa w art. 26 ust. 1 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. Nr 169, poz. 1411, z późn. zm. ), podejmujących wytwarzanie produktów leczniczych terapii zaawansowanej, o których mowa w art. 2 rozporządzenia 1394/2007.”;
+
+- **9)** art. 39 i 40 otrzymują brzmienie: „Art. 39. 1. Wnioskodawca ubiegający się o zezwolenie na wytwarzanie lub import produktu leczniczego składa, w postaci pisemnej lub elektronicznej, wniosek o wydanie zezwolenia, który zawiera:
+- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę podmiotu ubiegającego się o zezwolenie, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
+- **2)** numer wpisu do Krajowego Rejestru Sądowego albo oświadczenie o uzyskaniu wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a także numer REGON;
+- **3)** określenie rodzaju i postaci farmaceutycznej produktu leczniczego;
+- **4)** określenie miejsca wytwarzania produktu leczniczego lub miejsca prowadzenia działalności w zakresie importu produktu leczniczego;
+- **5)** określenie zakresu wytwarzania lub importu produktu leczniczego.
+
+2. Do wniosku o wydanie zezwolenia dołącza się Dokumentację Główną Miejsca Prowadzenia Działalności sporządzoną zgodnie z wymaganiami Dobrej Praktyki Wytwarzania oraz listę zawierającą nazwę, dawkę i postać farmaceutyczną wytwarzanych lub importowanych produktów leczniczych.
+
+3. Zezwolenie na wytwarzanie lub import produktu leczniczego wydaje się na czas nieokreślony po stwierdzeniu przez Państwową Inspekcję Farmaceutyczną, że podmiot ubiegający się o zezwolenie spełnia łącznie następujące wymagania:
+
+- **1)** dysponuje odpowiednimi pomieszczeniami oraz urządzeniami technicznymi i kontrolnymi niezbędnymi do wytwarzania lub importu, kontroli i przechowywania produktów leczniczych;
+- **2)** zatrudnia Osobę Wykwalifikowaną.
+
+4. Główny Inspektor Farmaceutyczny zapewnia możliwość złożenia wniosku o wydanie albo zmianę zezwolenia na wytwarzanie lub import produktu leczniczego, w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej. Wniosek jest opatrzony bezpiecznym podpisem elektronicznym, o którym mowa w art. 3 pkt 2 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262 oraz z 2014 r. poz. 1662).
+
+5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** wymagania Dobrej Praktyki Wytwarzania, mając na względzie rodzaj i zakres wytwarzania, a także zapewnienie odpowiedniej jakości produktu leczniczego i substancji czynnej;
+- **2)** wymagania, jakie powinna spełniać Osoba Wykwalifikowana, w tym jej wykształcenie oraz doświadczenie zawodowe, mając na uwadze prawidłowe wykonywanie przez nią obowiązków;
+- **3)** wzór wniosku o wydanie zezwolenia na wytwarzanie lub import produktów leczniczych oraz wykaz dokumentów dołączanych do wniosku, uwzględniając rodzaj produktu leczniczego oraz zakres wytwarzania i importu produktu leczniczego objęty zezwoleniem;
+- **4)** wzór wniosku o zmianę zezwolenia na wytwarzanie lub import produktów leczniczych, uwzględniając dane dotyczące zmian oraz zapewnienie przejrzystości tego wniosku.
+
 **Art. 40.** Zezwolenie na wytwarzanie lub import produktu leczniczego zawiera:
+
+- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę wytwórcy lub importera produktów leczniczych, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
+- **2)** określenie miejsca wytwarzania lub miejsca prowadzenia działalności w zakresie importu produktu leczniczego;
+- **3)** rodzaj i postać farmaceutyczną produktu leczniczego;
+- **4)** szczegółowy zakres wytwarzania lub importu produktu leczniczego objęty zezwoleniem;
+- **5)** numer zezwolenia oraz datę jego wydania.”;
+- **10)** w art. 41:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Wnioski o wydanie zezwolenia na wytwarzanie lub import produktu leczniczego rozpatruje się w terminie 90 dni, licząc od dnia złożenia wniosku przez wnioskodawcę.”,
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Wnioski o zmianę zezwolenia na wytwarzanie lub import produktu leczniczego rozpatruje się w terminie 30 dni od dnia złożenia wniosku; w uzasadnionych przypadkach termin może ulec przedłużeniu, nie dłużej jednak niż o 60 dni; przepis ust. 2 stosuje się odpowiednio.
+
+4. Za złożenie wniosku o wydanie zezwolenia na wytwarzanie lub import produktu leczniczego albo o zmianę zezwolenia na wytwarzanie lub import produktu leczniczego jest pobierana opłata, która stanowi dochód budżetu państwa.”,
+
+- **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Główny Inspektor Farmaceutyczny zapewnia możliwość złożenia wniosków, o których mowa w ust. 1 i 3, w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej. Wniosek jest opatrzony bezpiecznym podpisem elektronicznym, o którym mowa w art. 3 pkt 2 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym.”;
+- **11)** w art. 42:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Do obowiązków wytwórcy lub importera produktów leczniczych należy:
+
+- **1)** wytwarzanie lub import jedynie produktów leczniczych w zakresie objętym zezwoleniem, o którym mowa w art. 40, z wyjątkiem przypadków określonych w art. 50;
+- **2)** dystrybucja produktów leczniczych wytworzonych lub importowanych:
+    - **a)** przedsiębiorcy prowadzącemu obrót hurtowy produktami leczniczymi wyłącznie w miejscu wskazanym w zezwoleniu na prowadzenie hurtowni farmaceutycznej,
+    - **b)** podmiotom leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne, w tym szpitalom;
+
+- **3)** zawiadamianie na piśmie Głównego Inspektora Farmaceutycznego, co najmniej 30 dni wcześniej, o zamierzonej zmianie dotyczącej warunków wytwarzania lub importu produktu leczniczego, a zwłaszcza niezwłoczne zawiadamianie o konieczności zmiany Osoby Wykwalifikowanej;
+- **4)** przesyłanie do Głównego Inspektora Farmaceutycznego:
+    - **a)** aktualnej Dokumentacji Głównej Miejsca Prowadzenia Działalności, o której mowa w wymaganiach Dobrej Praktyki Wytwarzania,
+    - **b)** aktualnej pełnej listy wytwarzanych lub importowanych produktów leczniczych po otrzymaniu zawiadomienia, o którym mowa w art. 46 ust. 1, albo na każde żądanie Głównego Inspektora Farmaceutycznego;
+
+- **5)** przechowywanie próbek archiwalnych produktów leczniczych w warunkach określonych w pozwoleniu, przez okres dłuższy o jeden rok od daty ważności produktu leczniczego, nie krócej jednak niż trzy lata;
+- **6)** udostępnianie inspektorom do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego w celu przeprowadzenia inspekcji pomieszczeń, w których jest prowadzona działalność w zakresie wytwarzania lub importu produktu leczniczego, dokumentacji i innych danych dotyczących wytwarzania lub importu produktu leczniczego, a także umożliwienie pobrania próbek produktów leczniczych do badań jakościowych, w tym z archiwum;
+- **7)** umożliwianie Osobie Wykwalifikowanej wykonywania obowiązków, w tym podejmowania niezależnych decyzji w ramach uprawnień wynikających z ustawy;
+- **8)** stosowanie wymagań Dobrej Praktyki Wytwarzania;
+- **9)** stosowanie jako materiałów wyjściowych przeznaczonych do wytwarzania produktu leczniczego wyłącznie substancji czynnej, która:
+    - **a)** została wytworzona zgodnie z wymaganiami Dobrej Praktyki Wytwarzania,
+    - **b)** była dystrybuowana zgodnie z Dobrą Praktyką Dystrybucyjną substancji czynnych;
+
+- **10)** sprawdzenie, czy wytwórcy i dystrybutorzy substancji czynnej wykorzystywanej w procesie wytwarzania produktu leczniczego przestrzegają wymagań Dobrej Praktyki Wytwarzania i wymagań Dobrej Praktyki Dystrybucyjnej substancji czynnych, przez przeprowadzanie audytów u wytwórców i dystrybutorów substancji czynnej, samodzielnie lub na podstawie umowy z podmiotem niezależnym zarówno od wytwórcy lub importera produktów leczniczych zlecających audyt, jak i od wytwórcy lub dystrybutora substancji czynnej, u których będzie przeprowadzony audyt;
+- **11)** zapewnianie, w oparciu o ocenę ryzyka, o której mowa w przepisach wydanych na podstawie art. 51b ust. 13 pkt 3, że substancje pomocnicze przeznaczone do wytwarzania produktów leczniczych zostały wytworzone zgodnie z Dobrą Praktyką Wytwarzania substancji pomocniczych;
+- **12)** informowanie Głównego Inspektora Farmaceutycznego oraz podmiotu odpowiedzialnego, a w przypadku importu równoległego także posiadacza pozwolenia na taki import, o każdym podejrzeniu lub stwierdzeniu, że produkty lecznicze objęte zezwoleniem na wytwarzanie lub import produktu leczniczego zostały sfałszowane;
+- **13)** sprawdzanie autentyczności i jakości substancji czynnej i substancji pomocniczych przeznaczonych do wytwarzania produktu leczniczego;
+- **14)** tworzenie i zarządzanie systemem baz, w którym są zawarte informacje dotyczące zabezpieczeń umożliwiających weryfikację autentyczności i identyfikacji produktów leczniczych, zgodnie z wymogami określonymi w aktach delegowanych przyjętych na podstawie art. 54a ust. 2 dyrektywy 2001/83/WE.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Wytwórca lub importer produktów leczniczych może uzyskiwać substancję czynną:
+
+- **1)** z krajów trzecich, pod warunkiem posiadania wpisu do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych, jako importer substancji czynnej lub
+- **2)** od podmiotów wpisanych do:
+    - **a)** Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych lub
+    - **b)** rejestru prowadzonego przez właściwy organ państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym albo państwa, które zawarło porozumienie o wzajemnym uznawaniu inspekcji z państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stroną umowy o Europejskim Obszarze Gospodarczym, w którym mają swoją siedzibę – po sprawdzeniu, że podmiot jest wpisany do właściwego rejestru.”,
+    - **c)** uchyla się ust. 3;
+
+- **12)** po art. 42 dodaje się art. 42a w brzmieniu: „Art. 42a. 1. Zabezpieczenia, o których mowa w art. 54 lit. o dyrektywy 2001/83/WE, nie mogą być usuwane, zmieniane lub zakrywane całkowicie lub częściowo, chyba że są spełnione łącznie następujące warunki:
+- **1)** przed całkowitym lub częściowym usunięciem, zmianą lub zakryciem zabezpieczeń wytwórca upewnił się, że produkt jest autentyczny i nienaruszony;
+- **2)** wytwórca spełnia wymagania określone w art. 54 lit. o dyrektywy 2001/83/WE przez zastępowanie zabezpieczeń równoważnymi zabezpieczeniami pod względem możliwości weryfikacji autentyczności, identyfikacji i wskazania na naruszenie opakowania w przypadku próby ich usunięcia;
+- **3)** wytwórca dokonuje zastąpienia zabezpieczenia bez otwierania opakowania bezpośredniego;
+- **4)** zastępowanie zabezpieczeń jest przeprowadzane przez wytwórcę zgodnie z wymaganiami Dobrej Praktyki Wytwarzania.
+
+2. Zabezpieczenia uważa się za równoważne z zabezpieczeniami, o których mowa w art. 54 lit. o dyrektywy 2001/83/WE, jeżeli spełniają łącznie następujące warunki:
+
+- **1)** są zgodne z wymogami określonymi w aktach delegowanych przyjętych zgodnie z art. 54a ust. 2 dyrektywy 2001/83/WE;
+- **2)** równie skutecznie umożliwiają weryfikację autentyczności i identyfikację produktów leczniczych, a w przypadku próby usunięcia – równie skutecznie wskazują na naruszenie opakowania produktów leczniczych.
+
+3. Zastępowanie zabezpieczeń podlega sprawdzeniu podczas inspekcji przeprowadzanych przez inspektorów do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego.
+
+4. Wytwórcę oraz importera produktów leczniczych, a także podmiot dokonujący czynności określonych w ust. 1 uznaje się za producenta w rozumieniu art. 449 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121 i 827 oraz z 2015 r. poz. 4).”;
+
+- **13)** art. 43 otrzymuje brzmienie: „Art. 43. 1. Główny Inspektor Farmaceutyczny cofa, w drodze decyzji, zezwolenie na wytwarzanie lub import produktu leczniczego, gdy wytwórca lub importer produktu leczniczego przestał wypełniać obowiązki określone w art. 39 ust. 3 pkt 1 i art. 42 ust. 1 pkt 1 i 6 oraz ust. 2 lub wymagania określone w wydanym zezwoleniu.
+
+2. Zezwolenie może być cofnięte w przypadku naruszenia przepisów art. 42 ust. 1 pkt 2–5 lub 7–13.
+
+3. Główny Inspektor Farmaceutyczny powiadamia Prezesa Urzędu oraz ministra właściwego do spraw zdrowia o cofnięciu zezwolenia na wytwarzanie lub import produktu leczniczego.”;
+
+- **14)** art. 46 otrzymuje brzmienie: „Art. 46. 1. Przeprowadzając inspekcję, inspektor do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego, w odstępach nieprzekraczających 3 lat, sprawdza, czy wytwórca lub importer produktu leczniczego spełniają obowiązki wynikające z ustawy; o terminie rozpoczęcia inspekcji wytwórca lub importer produktu leczniczego jest zawiadamiany co najmniej na 30 dni przed planowanym terminem inspekcji.
+
+2. Z przeprowadzonej inspekcji, o której mowa w ust. 1, inspektor do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego sporządza raport zawierający opinię o spełnianiu przez wytwórcę lub importera produktu leczniczego wymagań Dobrej Praktyki Wytwarzania; raport jest dostarczany wytwórcy lub importerowi produktu leczniczego, u którego przeprowadzono inspekcję.
+
+3. W przypadku powzięcia uzasadnionego podejrzenia o uchybieniach wytwórcy lub importera produktu leczniczego powodujących zagrożenie dla jakości, bezpieczeństwa stosowania lub skuteczności wytwarzanych lub importowanych przez niego produktów leczniczych Główny Inspektor Farmaceutyczny zarządza doraźną inspekcję miejsca wytwarzania lub miejsca prowadzenia działalności w zakresie importu produktu leczniczego bez uprzedzenia; z przeprowadzonej inspekcji doraźnej sporządza się raport, który jest dostarczany wytwórcy lub importerowi produktu leczniczego, u którego przeprowadzono inspekcję.
+
+4. Inspekcję, o której mowa w ust. 1, Główny Inspektor Farmaceutyczny zarządza również na wniosek właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Leków lub Komisji Europejskiej.
+
+5. Główny Inspektor Farmaceutyczny, na wniosek właściwego organu państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Leków lub Komisji Europejskiej, może przeprowadzić inspekcję warunków wytwarzania produktu leczniczego u wytwórcy produktów leczniczych prowadzącego odpowiednio działalność na terytorium Rzeczypospolitej Polskiej lub w kraju trzecim.
+
+6. Na podstawie ustaleń inspekcji, o których mowa w ust. 1, 3 i 5, w zakresie podmiotu prowadzącego działalność na terytorium Rzeczypospolitej Polskiej, w celu ochrony ludzi oraz zwierząt przed produktami leczniczymi nieodpowiadającymi ustalonym wymaganiom jakościowym, bezpieczeństwa stosowania lub skuteczności lub w celu zapewnienia, że produkty lecznicze będą wytwarzane zgodnie z ustawą, Główny Inspektor Farmaceutyczny, w drodze decyzji, może wstrzymać wytwarzanie lub import produktu leczniczego całkowicie albo do czasu usunięcia stwierdzonych w raporcie uchybień.
+
+7. Główny Inspektor Farmaceutyczny powiadamia ministra właściwego do spraw zdrowia oraz Prezesa Urzędu o podjęciu decyzji, o której mowa w ust. 6.
+
+8. Jeżeli wyniki inspekcji, o których mowa w ust. 1 i 5, potwierdzą spełnianie przez wytwórcę lub importera produktu leczniczego wymagań Dobrej Praktyki Wytwarzania, Główny Inspektor Farmaceutyczny wydaje, w terminie 90 dni od dnia zakończenia inspekcji, zaświadczenie stanowiące certyfikat potwierdzający zgodność warunków wytwarzania lub importu produktu leczniczego z wymaganiami Dobrej Praktyki Wytwarzania.
+
+9. Główny Inspektor Farmaceutyczny wprowadza niezwłocznie informację o wydaniu zaświadczenia, o którym mowa w ust. 8, do europejskiej bazy danych EudraGMDP.
+
+10. Jeżeli w następstwie inspekcji, o których mowa w ust. 1, 3 i 5, zostanie stwierdzone, że wytwórca lub importer produktów leczniczych nie spełnia wymagań Dobrej Praktyki Wytwarzania, Główny Inspektor Farmaceutyczny wprowadza niezwłocznie taką informację do europejskiej bazy danych EudraGMDP oraz cofa certyfikat potwierdzający spełnianie wymagań Dobrej Praktyki Wytwarzania, jeżeli wytwórca lub importer ten certyfikat posiada.”;
+
+- **15)** art. 47a i art. 47b otrzymują brzmienie: „Art. 47a. 1. Wytwórca lub importer produktów leczniczych może wystąpić do Głównego Inspektora Farmaceutycznego z wnioskiem o przeprowadzenie inspekcji w celu wydania zaświadczenia stanowiącego certyfikat potwierdzający spełnianie wymagań Dobrej Praktyki Wytwarzania.
+
+2. Jeżeli wyniki inspekcji, o której mowa w ust. 1, potwierdzą spełnianie wymagań Dobrej Praktyki Wytwarzania, Główny Inspektor Farmaceutyczny wydaje, w terminie 90 dni od dnia zakończenia inspekcji, zaświadczenie, o którym mowa w ust. 1.
+
+3. Główny Inspektor Farmaceutyczny wprowadza niezwłocznie informację o wydaniu albo odmowie wydania zaświadczenia, o którym mowa w ust. 1, do europejskiej bazy danych EudraGMDP.
+
+4. Jeżeli w następstwie inspekcji, o której mowa w ust. 1, zostanie stwierdzone, że wytwórca lub importer produktów leczniczych nie spełnia wymagań Dobrej Praktyki Wytwarzania, Główny Inspektor Farmaceutyczny wprowadza niezwłocznie taką informację do europejskiej bazy danych EudraGMDP oraz cofa certyfikat potwierdzający spełnianie wymagań Dobrej Praktyki Wytwarzania, jeżeli wytwórca lub importer ten certyfikat posiada.
+
+5. Główny Inspektor Farmaceutyczny zapewnia możliwość złożenia wniosku, o którym mowa w ust. 1, w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej. Wniosek jest opatrzony bezpiecznym podpisem elektronicznym, o którym mowa w art. 3 pkt 2 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym.
+
+6. Inspekcja, o której mowa w ust. 1, jest przeprowadzana na koszt wytwórcy lub importera produktów leczniczych, ubiegających się o wydanie zaświadczenia.
 
 **Art. 47b.**
 
@@ -62,6 +254,14 @@ source: "isap-pdf"
 **Art. 51.** Uzyskanie zezwolenia na wytwarzanie lub import produktu leczniczego nie zwalnia od odpowiedzialności karnej lub cywilnej związanej ze stosowaniem produktu leczniczego.
 
 **Art. 51a.** Przepisy niniejszego rozdziału stosuje się również do:
+
+- **1)** produktów leczniczych przeznaczonych wyłącznie na eksport;
+- **2)** produktów leczniczych weterynaryjnych, z wyłączeniem przepisów art. 42 ust. 1 pkt 9 lit. b, pkt 10–13 i ust. 1a, art. 42a oraz art. 48 ust. 2a;
+- **3)** częściowo przetworzonych materiałów, które muszą być poddane dalszym etapom wytwarzania (produkty pośrednie);
+- **4)** produktów, które przeszły wszystkie etapy produkcji, z wyjątkiem końcowego pakowania (produkty luzem);
+- **5)** badanych produktów leczniczych, z wyłączeniem przepisów art. 38a, art. 42 ust. 1 pkt 9 lit. b, pkt 10–13 i ust. 1a, art. 42a oraz art. 48 ust. 2a;
+- **6)** surowców farmaceutycznych przeznaczonych do sporządzania leków recepturowych i aptecznych.”;
+- **20)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Wytwarzanie, import i dystrybucja substancji czynnej
 
 **Art. 51b.**
 
@@ -282,6 +482,62 @@ source: "isap-pdf"
 
 **Art. 51l.** Przepisów niniejszego rozdziału nie stosuje się do:
 
+- **1)** substancji czynnej przeznaczonej wyłącznie do wytwarzania produktów leczniczych weterynaryjnych, z wyłączeniem art. 51g ust. 4 pkt 1 i 3 oraz ust. 7, art. 51i ust. 1, 4–7, art. 51j oraz art. 51k;
+- **2)** substancji czynnej przeznaczonej wyłącznie do wytwarzania badanych produktów leczniczych, z wyłączeniem art. 51g ust. 4 pkt 1 i ust. 7, art. 51i ust. 1, ust. 4–7, oraz art. 51j;
+- **3)** substancji pomocniczych przeznaczonych wyłącznie do wytwarzania badanych produktów leczniczych weterynaryjnych.”;
+- **21)** w art. 65 ust. 5–7 otrzymują brzmienie: „5. Kontrolę seryjną wstępną, o której mowa w ust. 4, wykonują instytuty badawcze oraz laboratoria kontroli jakości leków.
+
+6. Główny Inspektor Farmaceutyczny może zażądać od wytwórcy immunologicznego produktu leczniczego przedstawienia świadectw kontroli jakości każdej serii poświadczonych przez Osobę Wykwalifikowaną.
+
+7. Instytuty badawcze upoważnione do prowadzenia kontroli seryjnej wstępnej zwalniają z kontroli seryjnej wstępnej daną serię produktu leczniczego, o którym mowa w ust. 4 pkt 1–3, jeżeli została ona poddana takim badaniom przez właściwe organy w jednym z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i jeżeli został przedstawiony dokument potwierdzający wykonanie takich badań.”;
+
+- **22)** w art. 68: 107 ust. 5, i obejmują:
+    - **a)** ust. 3a otrzymuje brzmienie: „3a. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, warunki wysyłkowej sprzedaży produktów leczniczych wydawanych bez przepisu lekarza, sposób dostarczania tych produktów do odbiorców, warunki, jakie musi spełniać lokal apteki i punktu aptecznego prowadzącego wysyłkową sprzedaż produktów leczniczych, okres przechowywania dokumentów związanych z prowadzeniem sprzedaży wysyłkowej produktów leczniczych oraz minimalny zakres informacji umieszczanych na stronach internetowych, na których oferowane są te produkty, mając na względzie zapewnienie odpowiedniej jakości tych produktów, dostęp do dokumentów umożliwiający organom Państwowej Inspekcji Farmaceutycznej odpowiedni nadzór nad działalnością w zakresie sprzedaży wysyłkowej produktów leczniczych oraz dostęp do informacji na temat warunków wysyłkowej sprzedaży produktów leczniczych.”,
+    - **b)** po ust. 3a dodaje się ust. 3b–3m w brzmieniu: „3b. Informacje na temat aptek ogólnodostępnych i punktów aptecznych, prowadzących wysyłkową sprzedaż produktów leczniczych są umieszczane w Krajowym Rejestrze Zezwoleń Na Prowadzenie Aptek Ogólnodostępnych, Punktów Aptecznych oraz Rejestrze Udzielonych Zgód na Prowadzenie Aptek Szpitalnych i Zakładowych, o którym mowa w art.
+
+- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę podmiotu, na rzecz którego zostało wydane zezwolenie na prowadzenie apteki ogólnodostępnej albo punktu aptecznego, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
+- **2)** adres prowadzenia apteki ogólnodostępnej albo punktu aptecznego;
+- **3)** nazwę apteki ogólnodostępnej albo punktu aptecznego, jeżeli taka jest nadana;
+- **4)** adres strony internetowej, za pomocą której apteka ogólnodostępna albo punkt apteczny prowadzą sprzedaż wysyłkową produktów leczniczych;
+- **5)** numer telefonu, faksu oraz adres poczty elektronicznej;
+- **6)** datę rozpoczęcia działalności, o której mowa w ust. 3.
+
+3c. Informacje, o których mowa w ust. 3b, podmiot prowadzący aptekę ogólnodostępną albo punkt apteczny ma obowiązek zgłosić do właściwego miejscowo wojewódzkiego inspektora farmaceutycznego nie później niż na 14 dni przed planowanym rozpoczęciem wysyłkowej sprzedaży produktów leczniczych.
+
+3d. Informacje, o których mowa w ust. 3b, są udostępniane publicznie za pomocą systemu teleinformatycznego, o którym mowa w art. 107 ust. 5.
+
+3e. Podmioty prowadzące aptekę ogólnodostępną albo punkt apteczny prowadzące wysyłkową sprzedaż produktów leczniczych są obowiązane niezwłocznie zgłaszać do właściwego miejscowo wojewódzkiego inspektora farmaceutycznego zmiany informacji określonych w ust. 3b. Po otrzymaniu zgłoszenia wojewódzki inspektor farmaceutyczny dokonuje odpowiedniej zmiany w Krajowym Rejestrze Zezwoleń Na Prowadzenie Aptek Ogólnodostępnych, Punktów Aptecznych oraz Rejestrze Udzielonych Zgód na Prowadzenie Aptek Szpitalnych i Zakładowych.
+
+3f. Podstawą wydania produktu leczniczego z apteki ogólnodostępnej albo punktu aptecznego w ramach wysyłkowej sprzedaży produktów leczniczych jest zamówienie.
+
+3g. Podmioty prowadzące aptekę ogólnodostępną albo punkt apteczny prowadzące wysyłkową sprzedaż produktów leczniczych są obowiązane prowadzić ewidencję zamówień produktów leczniczych sprzedanych w drodze wysyłkowej zawierającą:
+
+- **1)** datę złożenia zamówienia;
+- **2)** imię i nazwisko osoby składającej zamówienie;
+- **3)** nazwę, serię i ilość produktów leczniczych;
+- **4)** adres wysyłki;
+- **5)** datę realizacji zamówienia.
+
+3h. Ewidencja zamówień, o której mowa w ust. 3g, jest przechowywana co najmniej przez 3 lata od zakończenia roku kalendarzowego, w którym zrealizowano zamówienie.
+
+3i. Na każde żądanie organów Państwowej Inspekcji Farmaceutycznej podmiot prowadzący aptekę ogólnodostępną albo punkt apteczny prowadzące wysyłkową sprzedaż produktów leczniczych udostępnia wydruki z ewidencji zamówień, o której mowa w ust. 3g, zgodnie z zakresem określonym w żądaniu.
+
+3j. Lokal apteki ogólnodostępnej albo punktu aptecznego prowadzących wysyłkową sprzedaż produktów leczniczych posiada miejsce wydzielone z izby ekspedycyjnej, pomieszczenia magazynowego lub komory przyjęć przeznaczone do przygotowania produktu leczniczego do wysyłki.
+
+3k. Wysyłka produktu leczniczego odbywa się w warunkach zapewniających jakość produktu leczniczego oraz bezpieczeństwo jego stosowania.
+
+3l. Produkty lecznicze wydawane z apteki ogólnodostępnej lub punktu aptecznego w ramach wysyłkowej sprzedaży produktów leczniczych nie podlegają zwrotowi.
+
+3m. Przepis ust. 3l nie dotyczy produktu leczniczego, zwracanego aptece ogólnodostępnej lub punktowi aptecznemu z powodu wady jakościowej, niewłaściwego wydania lub sfałszowania produktu leczniczego.”;
+
+- **23)** w art. 72:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Obrót hurtowy produktami leczniczymi, z zastrzeżeniem ust. 8 pkt 2, mogą prowadzić wyłącznie hurtownie farmaceutyczne.”,
+    - **b)** uchyla się ust. 2,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Obrotem hurtowym jest wszelkie działanie polegające na zaopatrywaniu się, przechowywaniu, dostarczaniu lub eksportowaniu produktów leczniczych lub produktów leczniczych weterynaryjnych, będących własnością podmiotu dokonującego tych czynności albo innego uprawnionego podmiotu, posiadających pozwolenie na dopuszczenie do obrotu wydane w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub pozwolenie, o którym mowa w art. 3 ust. 2, prowadzone z wytwórcami lub importerami w zakresie wytwarzanych lub importowanych przez nich produktów leczniczych, lub z przedsiębiorcami zajmującymi się obrotem hurtowym, lub z aptekami lub zakładami leczniczymi dla zwierząt, lub z innymi upoważnionymi podmiotami, z wyłączeniem bezpośredniego zaopatrywania ludności.”,
+    - **d)** w ust. 7 pkt 7 otrzymuje brzmienie: „7) wyrobami medycznymi w rozumieniu art. 2 pkt 38 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych, które mają zastosowanie w medycynie weterynaryjnej.”;
+
+- **24)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „Rozdział 5a Pośrednictwo w obrocie produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych
+
 **Art. 73a.**
 
 1. Pośrednictwem w obrocie produktami leczniczymi jest działalność związana z kupnem i sprzedażą produktów leczniczych, z wyłączeniem obrotu hurtowego, dostawy lub posiadania produktów leczniczych lub innych form władztwa nad produktami leczniczymi, polegająca na niezależnym prowadzeniu negocjacji na rzecz osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
@@ -324,7 +580,30 @@ source: "isap-pdf"
 
 **Art. 73d.** Główny Inspektor Farmaceutyczny, w drodze decyzji, odmawia wpisania przedsiębiorcy określonego w art. 73b do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi, w przypadku gdy:
 
+- **1)** przedsiębiorca w okresie 3 lat przed dniem złożenia wniosku został wykreślony z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi z przyczyn wskazanych w art. 73f ust. 1;
+- **2)** przedsiębiorca prowadzi aptekę, punkt apteczny albo hurtownię farmaceutyczną, albo wystąpił z wnioskiem o wydanie zezwolenia na prowadzenie apteki, punktu aptecznego albo hurtowni farmaceutycznej.
+
 **Art. 73e.** Do obowiązków pośrednika w obrocie produktami leczniczymi należy:
+
+- **1)** pośredniczenie wyłącznie w transakcjach kupna i sprzedaży:
+    - **a)** produktów leczniczych pomiędzy wytwórcą, importerem produktu leczniczego, podmiotem prowadzącym hurtownię farmaceutyczną lub podmiotem odpowiedzialnym a podmiotem prowadzącym hurtownię farmaceutyczną lub podmiotem leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne,
+    - **b)** produktów leczniczych pomiędzy podmiotem prowadzącym hurtownię farmaceutyczną a podmiotem prowadzącym aptekę ogólnodostępną lub punkt apteczny, wyłącznie w przypadku sprzedaży produktów leczniczych do apteki ogólnodostępnej lub punktu aptecznego, lub podmiotem leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne,
+    - **c)** produktów leczniczych posiadających pozwolenie na dopuszczenie do obrotu w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym,
+    - **d)** produktów leczniczych, dla których otrzymał potwierdzenie sprawdzenia zabezpieczeń, o których mowa w art. 54 lit. o dyrektywy 2001/83/WE;
+
+- **2)** przestrzeganie wymagań Dobrej Praktyki Dystrybucyjnej w zakresie prowadzonego pośrednictwa;
+- **3)** przekazywanie Głównemu Inspektorowi Farmaceutycznemu kwartalnych raportów dotyczących wielkości obrotu produktami leczniczymi, w którym podmiot pośredniczył, wraz ze strukturą tego obrotu;
+- **4)** prowadzenie ewidencji transakcji kupna i sprzedaży, w których zawarciu pośredniczył, zawierającej:
+    - **a)** datę wystawienia i numer faktury dotyczącej pośrednictwa w obrocie produktami leczniczymi,
+    - **b)** nazwę, dawkę, wielkość opakowania, postać farmaceutyczną, datę ważności i numer serii produktu leczniczego,
+    - **c)** ilość produktu leczniczego,
+    - **d)** nazwę i adres sprzedawcy i odbiorcy,
+    - **e)** numer faktury dotyczącej transakcji kupna i sprzedaży;
+
+- **5)** przechowywanie ewidencji, o której mowa w pkt 4, przez okres 5 lat, licząc od dnia 1 stycznia roku następującego po roku, w którym dokonano transakcji;
+- **6)** przekazywanie podmiotom, o których mowa w pkt 1 lit. a i b, na rzecz których prowadzi pośrednictwo w obrocie produktami leczniczymi, informacji o decyzjach w zakresie wycofania albo wstrzymania w obrocie produktów leczniczych będących przedmiotem pośrednictwa w obrocie produktami leczniczymi;
+- **7)** stosowanie systemu jakości określającego obowiązki, procesy i środki zarządzania ryzykiem związane z prowadzoną działalnością;
+- **8)** informowanie Głównego Inspektora Farmaceutycznego, Prezesa Urzędu i właściwego podmiotu odpowiedzialnego o podejrzeniu sfałszowania produktu leczniczego.
 
 **Art. 73f.**
 
@@ -621,6 +900,8 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2014 r. poz.
 
+- **1417)** w art. 16 w ust. 1 pkt 14 otrzymuje brzmienie: „14) określone w art. 124–126, art. 127, art. 127a, art. 129, art. 129a, art. 130– 132c i art. 132e ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. );”.
+
 **Art. 3.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2012 r. poz. 124) w art. 37 ust. 2 otrzymuje brzmienie: „2. Przywóz środków odurzających i substancji psychotropowych będących produktami leczniczymi może być dokonywany wyłącznie przez przedsiębiorców posiadających zezwolenie na wytwarzanie lub import produktu leczniczego, o którym mowa w art. 38 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, po uzyskaniu pozwolenia Głównego Inspektora Farmaceutycznego określającego środki lub substancje, które mogą być przedmiotem przywozu.”.
 
 **Art. 4.**
@@ -674,4 +955,8 @@ source: "isap-pdf"
 **Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 22 ust. 2 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 22 ust. 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 11 lit. a w zakresie art. 42 ust. 1 pkt 14, art. 1 pkt 12, [art. 1 pkt 17 lit. c,] art. 1 pkt 24 w zakresie art. 73e pkt 1 lit. d oraz art. 1 pkt 30 lit. a tiret piąte w zakresie art. 78 ust. 1 pkt 9, które wchodzą w życie po upływie 3 lat od dnia opublikowania aktów delegowanych, o których mowa w art. 54a ust. 2 dyrektywy 2001/83/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 311 z 28.11.2001, str. 67, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 27, str. 69);
+- **2)** art. 1 pkt 20 w zakresie art. 51c ust. 2 oraz art. 1 pkt 24 w zakresie art. 73a ust. 3, które wchodzą w życie z dniem 1 stycznia 2017 r.
+
 

@@ -47,7 +47,8 @@ a) prowadzenie badań naukowych lub prac rozwojowych na rzecz przedsiębiorców,
 b) opracowanie programów kształcenia i doskonalenia zawodowego obejmujących umiejętności niezbędne na rynku pracy;
 4) zarządzania uczelnią, w szczególności poprawę jej gospodarki finansowej.
 4. Nagrody za całokształt dorobku, obejmujący osiągnięcia naukowe, dydaktyczne i organizacyjne, przyznaje się nauczycielom akademickim posiadającym tytuł naukowy profesora albo tytuł profesora sztuki.
-§ 3. 1. Kandydatami do nagrody mogą być nauczyciele akademiccy posiadający obywatelstwo polskie, w tym pracujący za granicą, oraz cudzoziemcy, którzy w okresie zatrudnienia w polskiej uczelni uzyskali osiągnięcia, o których mowa w § 2.
+§ 3. 1. Kandydatami do nagrody mogą być nauczyciele akademiccy posiadający obywatelstwo polskie, w tym pracujący za granicą, oraz cudzoziemcy, którzy w okresie zatrudnienia w polskiej uczelni uzyskali osiągnięcia, o których mowa
+§ 2.
 2. Kandydatami do nagrody nie mogą być nauczyciele akademiccy prawomocnie ukarani karą dyscyplinarną lub skazani prawomocnym wyrokiem za przestępstwo umyślne lub umyślne przestępstwo skarbowe.
 3. Kandydatami do nagrody za osiągnięcia organizacyjne nie mogą być rektorzy uczelni, które w roku kalendarzowym poprzedzającym rok przyznania nagrody uzyskały ujemny wynik finansowy.
 4. Wnioskodawca może zgłosić w danym roku jednego kandydata do nagrody danego rodzaju.

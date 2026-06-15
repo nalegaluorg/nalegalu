@@ -8,7 +8,7 @@ pos: 999
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o języku polskim Parlament Rzeczypospolitej Polskiej: – zważywszy, że język polski stanowi podstawowy element narodowej tożsamości i jest dobrem narodowej kultury, – zważywszy na doświadczenie historii, kiedy walka zaborców i okupantów z językiem polskim była narzędziem wynaradawiania, – uznając konieczność ochrony tożsamości narodowej w procesie globalizacji, – uznając, że polska kultura stanowi wkład w budowę wspólnej, różnorodnej kulturowo Europy, a zachowanie tej kultury i jej rozwój jest możliwy tylko poprzez ochronę języka polskiego, – uznając tę ochronę za obowiązek wszystkich organów i instytucji publicznych Rzeczypospolitej Polskiej i powinność jej obywateli uchwala niniejszą ustawę.
@@ -24,14 +24,21 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1999-10-07 |
 | Data wydania | 1999-11-08 |
-| Ostatnia zmiana | 2026-01-30 |
+| Ostatnia zmiana | 2026-05-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990900999) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/999/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Przepisy ustawy dotyczą:
 
+- **1)** ochrony języka polskiego;
+- **2)** używania języka polskiego w realizacji zadań publicznych;
+- **3)** używania języka polskiego w obrocie oraz przy wykonywaniu przepisów z zakresu prawa pracy na terytorium Rzeczypospolitej Polskiej.
+
 **Art. 2.** Ustawa nie narusza:
+
+- **1)** przepisów ustaw o stosunku państwa do kościołów i innych związków wyznaniowych, w szczególności dotyczących uprawiania kultu i praktyk religijnych;
+- **2)** praw mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym.
 
 **Art. 3.**
 
@@ -49,6 +56,13 @@ source: "isap-pdf"
 3. (uchylony)
 
 **Art. 4.** Język polski jest językiem urzędowym:
+
+- **1)** konstytucyjnych organów państwa;
+- **2)** organów jednostek samorządu terytorialnego i podległych im instytucji w zakresie, w jakim wykonują zadania publiczne;
+- **3)** terenowych organów administracji publicznej;
+- **4)** instytucji powołanych do realizacji określonych zadań publicznych;
+- **5)** organów, instytucji i urzędów podległych organom wymienionym w pkt 1 i pkt 3, powołanych w celu realizacji zadań tych organów, a także organów państwowych osób prawnych w zakresie, w jakim wykonują zadania publiczne;
+- **6)** organów samorządu innego niż samorząd terytorialny oraz organów organizacji społecznych, zawodowych, spółdzielczych i innych podmiotów wykonujących zadania publiczne.
 
 #### Rozdział 2 Ochrona prawna języka polskiego w życiu publicznym
 
@@ -108,6 +122,16 @@ source: "isap-pdf"
 2. Nazwom i tekstom w języku polskim mogą towarzyszyć wersje w przekładzie na język obcy w wypadkach i granicach określonych w rozporządzeniu ministra właściwego do spraw administracji publicznej.
 
 **Art. 11.** Przepisy art. 5–10 nie dotyczą:
+
+- **1)** nazw własnych;
+- **2)** obcojęzycznych dzienników, czasopism, książek oraz programów komputerowych, z wyjątkiem ich opisów i instrukcji;
+- **3)** kształcenia i działalności naukowej w uczelniach, szkół i klas z obcym językiem wykładowym lub dwujęzycznych, nauczycielskich kolegiów języków obcych, nauczania innych przedmiotów oraz szkół doktorskich i działalności naukowej w innych podmiotach, jeżeli jest to zgodne z przepisami szczególnymi;
+- **4)** twórczości naukowej i artystycznej;
+- **5)** zwyczajowo stosowanej terminologii naukowej i technicznej;
+- **6)** znaków towarowych, nazw handlowych oraz oznaczeń pochodzenia towarów i usług;
+- **7)** norm wprowadzanych w języku oryginału zgodnie z przepisami o normalizacji;
+- **8)** dokumentacji technicznej lub jej części dotyczącej sprzętu wojskowego, o którym mowa w art. 7 pkt 22 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ), w tym wszelkich jego części, komponentów, podzespołów lub jego oprogramowania – sporządzonej w języku powszechnie używanym w handlu międzynarodowym, w przypadku gdy zamawiający udzielający zamówienia na tę dokumentację lub podmiot zamierzający ją nabyć tak postanowi;
+- **9)** czynności w procedurze wyboru projektów, o których mowa w art. 2 pkt 22 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. z 2025 r. poz. 1733 i 1844), w sytuacjach uzasadnionych międzynarodowym charakterem projektu lub koniecznością oceny projektu przez zagranicznych ekspertów.
 
 #### Rozdział 2a Urzędowe poświadczanie znajomości języka polskiego
 
@@ -185,7 +209,21 @@ source: "isap-pdf"
 
 **Art. 11c.** Podmiot uprawniony jest obowiązany do:
 
+- **1)** zapewnienia odpowiedniego składu komisji egzaminacyjnej;
+- **2)** zapewnienia warunków lokalowych i technicznych niezbędnych do przeprowadzenia egzaminu bez zakłóceń, umożliwiających samodzielne rozwiązywanie zadań przez osoby przystępujące do egzaminów i sprawdzenie umiejętności rozumienia ze słuchu, z uwzględnieniem potrzeb osób niepełnosprawnych;
+- **3)** zabezpieczenia materiałów związanych z egzaminem przed nieuprawnionym ujawnieniem;
+- **4)** poddania się wizytacji, o której mowa w art. 11l;
+- **5)** ponownego przeprowadzenia egzaminu w innym terminie na własny koszt, w przypadku gdy egzamin został przerwany na skutek zakłócenia prawidłowego przebiegu egzaminu przez członków komisji egzaminacyjnej;
+- **6)** zapewnienia, na wniosek osoby, która przystąpiła do egzaminu, wglądu do sprawdzonej i ocenionej pracy egzaminacyjnej;
+- **7)** upowszechniania informacji o zasadach poświadczania znajomości języka polskiego jako obcego, a także o terminach przeprowadzania egzaminów.
+
 **Art. 11d.** Minister właściwy do spraw szkolnictwa wyższego i nauki może na wniosek Komisji cofnąć, w drodze decyzji administracyjnej, uprawnienie do organizowania egzaminu w przypadku:
+
+- **1)** naruszenia przez podmiot uprawniony zasad lub warunków organizowania i przeprowadzania egzaminu;
+- **2)** niewykonania przez podmiot uprawniony zaleceń wydanych przez Komisję;
+- **3)** odmowy poddania się przez podmiot uprawniony wizytacji, o której mowa w art.
+
+11l.
 
 **Art. 11e.**
 
@@ -277,6 +315,17 @@ source: "isap-pdf"
 
 **Art. 11i.** Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
+- **1)** zakres informacji objętych wnioskiem o nadanie uprawnienia do organizowania egzaminu na określonym poziomie biegłości językowej oraz wykaz dokumentów, które dołącza się do wniosku, uwzględniając dane niezbędne do zweryfikowania, czy wnioskodawca spełnia wymagania dotyczące nadania tego uprawnienia;
+- **2)** sposób rejestracji osób zamierzających przystąpić do egzaminu, uwzględniając konieczność zapewnienia bezpieczeństwa przetwarzanych danych;
+- **3)** sposób przekazywania zestawów zadań egzaminacyjnych, uwzględniając konieczność ich zabezpieczenia przed dostępem osób nieuprawnionych;
+- **4)** szczegółowe warunki, sposób i tryb przeprowadzania egzaminów oraz sposób dokonywania oceny egzaminów i jej weryfikacji, uwzględniając konieczność zapewnienia jednolitego standardu przeprowadzania egzaminów i wiarygodności ich wyników;
+- **5)** szczegółowe warunki lokalowe i techniczne niezbędne do przeprowadzenia egzaminu, uwzględniając konieczność zapewnienia sprawnego i niezakłóconego przebiegu egzaminu, w tym osobom niepełnosprawnym;
+- **6)** organizację pracy komisji egzaminacyjnych, uwzględniając konieczność zapewnienia bezstronności komisji egzaminacyjnej i ustalania wyników egzaminu bez zbędnej zwłoki;
+- **7)** standardy wymagań odnoszących się do poszczególnych poziomów biegłości językowej w zakresie języka polskiego jako obcego, uwzględniając zróżnicowanie poziomów biegłości językowej zgodne z zasadami praktyki międzynarodowej;
+- **8)** (uchylony)
+- **9)** (uchylony)
+- **10)** wzór certyfikatu oraz wzór suplementu do certyfikatu, uwzględniając konieczność zawarcia w nich danych niezbędnych do poświadczenia znajomości języka polskiego jako obcego na określonym poziomie biegłości językowej.
+
 **Art. 11j.**
 
 1. W skład Komisji wchodzi czternastu członków powoływanych przez ministra właściwego do spraw szkolnictwa wyższego i nauki na czteroletnią kadencję, w tym:
@@ -363,6 +412,14 @@ source: "isap-pdf"
 7. Na podstawie protokołu wizytacji Komisja może wydać podmiotowi uprawnionemu zalecenia, które ten podmiot jest obowiązany wykonać.
 
 **Art. 11m.** Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+- **1)** tryb wyłaniania kandydatów na członków Komisji, biorąc pod uwagę konieczność sprawnego powołania wszystkich członków Komisji;
+- **2)** tryb działania oraz sposób zapewnienia obsługi administracyjnej i finansowej Komisji, biorąc pod uwagę konieczność wykonywania zadań przez Komisję w czasie umożliwiającym terminowe przeprowadzenie egzaminów, a także zapewnienia sprawnego funkcjonowania i wykonywania jej zadań, w szczególności w zakresie wydawania opinii w sprawie nadania uprawnienia do organizowania egzaminu, przekazywania zestawów zadań egzaminacyjnych podmiotom uprawnionym oraz wydawania certyfikatów;
+- **3)** wysokość wynagrodzenia przewodniczącego Komisji, członków Komisji oraz sekretarza Komisji, biorąc pod uwagę zróżnicowanie sprawowanych funkcji i nakładu pracy;
+- **4)** sposób badania prawidłowości oceny prac egzaminacyjnych dokonanej przez członków komisji egzaminacyjnych, biorąc pod uwagę konieczność zapewnienia wiarygodności wyników egzaminów;
+- **5)** tryb wyłaniania wizytatorów oraz tryb przeprowadzania wizytacji egzaminu, biorąc pod uwagę konieczność zapewnienia sprawnego i bezstronnego przeprowadzania wizytacji;
+- **6)** tryb organizowania szkoleń dla kandydatów na egzaminatorów, biorąc pod uwagę konieczność zapewnienia jednolitego standardu przeprowadzania egzaminu;
+- **7)** wzór wniosku o wpis na listę egzaminatorów, o której mowa w art. 11f ust. 1, uwzględniając dane niezbędne do identyfikacji wnioskodawcy oraz zweryfikowania warunków, o których mowa w art. 11f ust. 2, uwzględniając możliwość elektronicznego składania wniosków.
 
 #### Rozdział 3 Rada Języka Polskiego i jej kompetencje
 

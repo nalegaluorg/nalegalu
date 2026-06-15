@@ -8,10 +8,10 @@ pos: 2404
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 grudnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2404 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 17 grudnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,19 +25,19 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002404) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2404/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 17 grudnia 2021 r.
 w sprawie wymaganego zakresu projektu miejscowego planu zagospodarowania przestrzennego Na podstawie art. 16 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U.
-z 2021 r. poz. 741, 784, 922, 1873 i 1986) zarządza się, co następuje: § 1. Rozporządzenie określa wymagany zakres projektu miejscowego planu zagospodarowania przestrzennego w części tekstowej i graficznej, w szczególności wymogi dotyczące:
+z 2021 r. poz. 741, 784, 922, 1873 i 1986) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wymagany zakres projektu miejscowego planu zagospodarowania przestrzennego w części tekstowej i graficznej, w szczególności wymogi dotyczące:
 1) materiałów planistycznych;
 2) skali opracowań kartograficznych;
 3) stosowanych oznaczeń, nazewnictwa, standardów;
 4) sposobu dokumentowania prac planistycznych.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) ustawa ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
-2) plan miejscowy miejscowy plan zagospodarowania przestrzennego;
-3) materiały planistyczne opracowania, analizy, prognozy i studia sporządzone na potrzeby projektu planu miejscowego, a także opracowania, koncepcje, projekty, plany i programy dotyczące obszaru objętego projektem planu miejscowego;
-4) nakazy, zakazy, dopuszczenia i ograniczenia w zagospodarowaniu terenów określenie sposobów zagospodarowania terenów oraz ograniczeń w ich użytkowaniu, w tym zakazu zabudowy;
-5) elementy zagospodarowania przestrzennego w szczególności osie i punkty widokowe, dominanty kompozycji przestrzennej, a także charakterystyczne obiekty.
+1) ustawa – ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
+2) plan miejscowy – miejscowy plan zagospodarowania przestrzennego;
+3) materiały planistyczne – opracowania, analizy, prognozy i studia sporządzone na potrzeby projektu planu miejscowego, a także opracowania, koncepcje, projekty, plany i programy dotyczące obszaru objętego projektem planu miejscowego;
+4) nakazy, zakazy, dopuszczenia i ograniczenia w zagospodarowaniu terenów – określenie sposobów zagospodarowania terenów oraz ograniczeń w ich użytkowaniu, w tym zakazu zabudowy;
+5) elementy zagospodarowania przestrzennego – w szczególności osie i punkty widokowe, dominanty kompozycji przestrzennej, a także charakterystyczne obiekty.
 § 3. Część tekstowa projektu planu miejscowego zawiera:
 1) określenie podstawy prawnej podjęcia uchwały, o której mowa w art. 20 ust. 1 ustawy;
 2) określenie integralnych części uchwały;
@@ -65,14 +65,15 @@ b) określenie powiązań układu komunikacyjnego i sieci infrastruktury technic
 12) ustalenia dotyczące sposobów i terminów tymczasowego zagospodarowania, urządzenia i użytkowania terenów zawierają nakazy, zakazy, dopuszczenia i ograniczenia w zagospodarowaniu terenów, w tym określenie terminu, do którego tymczasowe zagospodarowanie, urządzenie i użytkowanie terenu może być wykonywane;
 13) w zależności od potrzeb, ustalenia dotyczące obszarów rehabilitacji istniejącej zabudowy i infrastruktury technicznej, a także obszarów wymagających przekształceń lub rekultywacji zawierają nakazy, zakazy, dopuszczenia i ograniczenia w zagospodarowaniu terenów;
 14) w zależności od potrzeb, ustalenia dotyczące terenów rekreacyjno-wypoczynkowych oraz terenów służących organizacji imprez masowych zawierają określenie zasad wyposażania tych terenów w urządzenia techniczne i budowlane oraz nakazy, zakazy, dopuszczenia i ograniczenia w zagospodarowaniu terenów;
-15) ustalenia dotyczące wysokości stawek procentowych stanowiących podstawę do określania opłaty, o której mowa § 5. Część graficzną projektu planu miejscowego sporządza się z wykorzystaniem map, o których mowa w art. 16 ust. 1 ustawy, w postaci elektronicznej, w układzie współrzędnych zgodnym z obowiązującym państwowym systemem odniesień przestrzennych, zawierających obszar objęty projektem planu miejscowego wraz z jego niezbędnym otoczeniem.
+15) ustalenia dotyczące wysokości stawek procentowych stanowiących podstawę do określania opłaty, o której mowa w art. 36 ust. 4 ustawy, mogą być różne dla poszczególnych terenów lub grup terenów.
+§ 5. Część graficzną projektu planu miejscowego sporządza się z wykorzystaniem map, o których mowa w art. 16 ust. 1 ustawy, w postaci elektronicznej, w układzie współrzędnych zgodnym z obowiązującym państwowym systemem odniesień przestrzennych, zawierających obszar objęty projektem planu miejscowego wraz z jego niezbędnym otoczeniem.
 § 6. 1. W przypadku sporządzania części graficznej projektu planu miejscowego dla inwestycji liniowych oraz dla obszarów o znacznej powierzchni dopuszcza się stosowanie map w skali 1:2000.
 2. W przypadku sporządzania części graficznej projektu planu miejscowego obejmującego obszar intensywnej zabudowy, a także dla obszarów przestrzeni publicznej dopuszcza się stosowanie map w skali 1:500.
 § 7. 1. Część graficzna projektu planu miejscowego zawiera:
 1) nazwę planu miejscowego;
 2) określenie skali w formie liczbowej i liniowej;
 3) informację o układzie współrzędnych zgodnym z obowiązującym państwowym systemem odniesień przestrzennych oraz wskazanie kierunku północy;
-4) informację o źródle pochodzenia użytego materiału państwowego zasobu geodezyjnego i kartograficznego, o której mowa w art. 40c ust. 3 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990);
+4) informację o źródle pochodzenia użytego materiału państwowego zasobu geodezyjnego i kartograficznego, o której mowa w art. 40c ust. 3 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990);
 5) wyrys ze studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy z oznaczeniem granic obszaru objętego projektem planu miejscowego wraz z legendą zawierającą oznaczenia występujące na tym wyrysie;
 6) legendę;
 7) granice obszaru objętego planem miejscowym;
@@ -85,7 +86,7 @@ b) określenie powiązań układu komunikacyjnego i sieci infrastruktury technic
 3) oznaczenia elementów informacyjnych niebędących ustaleniami projektu planu miejscowego.
 § 8. 1. Część graficzną projektu planu miejscowego sporządza się w technice graficznej zapewniającej czytelność ustaleń planu i mapy, z wykorzystaniem której jest on sporządzony, oraz możliwość wyłożenia projektu planu miejscowego do publicznego wglądu, sporządzania jego kopii, a także ogłoszenia w dzienniku urzędowym województwa.
 2. Część graficzną projektu planu miejscowego sporządza się w sposób umożliwiający jednoznaczne jej powiązanie z częścią tekstową projektu planu miejscowego.
-3. W przypadku gdy linia rozgraniczająca tereny o różnym przeznaczeniu lub różnych zasadach zagospodarowania ma wspólny przebieg z granicą działki ewidencyjnej, wyznacza się ją z wykorzystaniem geometrii działek ewidencyjnych, pochodzących z bazy danych, o której mowa w art. 4 ust. 1a pkt 2 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne.
+3. W przypadku gdy linia rozgraniczająca tereny o różnym przeznaczeniu lub różnych zasadach zagospodarowania ma wspólny przebieg z granicą działki ewidencyjnej, wyznacza się ją z wykorzystaniem geometrii działek ewidencyjnych, pochodzących z bazy danych, o której mowa w art. 4 ust. 1a pkt 2 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
 § 9. 1. Symbole, nazwy i oznaczenia graficzne dotyczące przeznaczenia terenów stosowane w projekcie planu miejscowego oraz standardy ich stosowania określa załącznik nr 1 do rozporządzenia.
 2. Podstawowe oznaczenia graficzne i nazwy dotyczące linii stosowanych w części graficznej projektu planu miejscowego określa załącznik nr 2 do rozporządzenia.
 § 10. Prognoza skutków finansowych uchwalenia planu miejscowego zawiera w szczególności:
@@ -105,7 +106,7 @@ c) przez udostępnienie informacji w Biuletynie Informacji Publicznej na stronie
 7) wystąpień do właściwych instytucji i organów o uzgodnienie projektu planu miejscowego oraz o opinie dotyczące rozwiązań przyjętych w projekcie planu miejscowego wraz z dowodami ich doręczenia;
 8) wykazu uzgodnień i opinii do projektu planu miejscowego, którego wzór określa załącznik nr 4 do rozporządzenia;
 9) zgody na zmianę przeznaczenia gruntów rolnych i leśnych na cele nierolnicze i nieleśne wraz z wnioskiem o wyrażenie tej zgody albo informacji o braku konieczności uzyskania zgody;
-10) prognozy oddziaływania na środowisko, a w przypadku odstąpienia od przeprowadzenia strategicznej oceny oddziaływania na środowisko dokumentów poświadczających zgodę właściwych organów;
+10) prognozy oddziaływania na środowisko, a w przypadku odstąpienia od przeprowadzenia strategicznej oceny oddziaływania na środowisko – dokumentów poświadczających zgodę właściwych organów;
 11) dowodów publikacji ogłoszeń o wyłożeniu projektu planu miejscowego wraz z prognozą oddziaływania na środowisko do publicznego wglądu:
 a) w prasie miejscowej,
 b) przez obwieszczenie,
@@ -138,9 +139,9 @@ o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz.
 § 12. 1. Do projektów planów miejscowych sporządzanych lub zmienianych na podstawie uchwały o przystąpieniu do sporządzania lub zmiany planu miejscowego podjętej przed dniem 24 grudnia 2021 r. stosuje się przepisy dotychczasowe.
 2. Dokumentacja prac planistycznych, o której mowa w § 11 ust. 1, w odniesieniu do projektów planów miejscowych sporządzanych lub zmienianych na podstawie uchwały o przystąpieniu do sporządzania lub zmiany planu miejscowego podjętej przed dniem 24 grudnia 2024 r. może być prowadzona w postaci papierowej.
 § 13. Rozporządzenie wchodzi w życie z dniem 24 grudnia 2021 r.
-Minister Rozwoju i Technologii: P. Nowak M … m m m m W W PODSTAWOWE OZNACZENIA GRAFICZNE I NAZWY dotyczące linii stosowanych w części graficznej projektu miejscowego planu zagospodarowania przestrzennego Objaśnienie: Linie określone w tabeli kreśli się i wymiaruje w ich osi symetrii.
-WZÓR WYKAZ WNIOSKÓW złożonych do miejscowego planu zagospodarowania przestrzennego ................................................................................................................................
-Załączniki: wnioski wymienione w wykazie WZÓR WYKAZ UZGODNIEŃ I OPINII do projektu miejscowego planu zagospodarowania przestrzennego ................................................................................................................................
+Minister Rozwoju i Technologii: P. Nowak m … M m m m W W Załącznik nr 2 PODSTAWOWE OZNACZENIA GRAFICZNE I NAZWY dotyczące linii stosowanych w części graficznej projektu miejscowego planu zagospodarowania przestrzennego Objaśnienie: Linie określone w tabeli kreśli się i wymiaruje w ich osi symetrii.
+Dziennik Ustaw – 13 – Załącznik Poz. nr 3 2404 WZÓR WYKAZ WNIOSKÓW złożonych do miejscowego planu zagospodarowania przestrzennego ................................................................................................................................
+Załączniki: – wnioski wymienione w wykazie Dziennik Ustaw – 14 – Załącznik nr Poz. 4 2404 WZÓR WYKAZ UZGODNIEŃ I OPINII do projektu miejscowego planu zagospodarowania przestrzennego ................................................................................................................................
 Protokół sporządzony w dniu ................................... w .........................................................................
 ...................................................................................................................................................................
 przez ..........................................................................................................................................................
@@ -155,8 +156,8 @@ Zagadnienia poruszone w dyskusji:
 4) III. Informacja o sposobie spełnienia wymogów zawartych w art. 8d ust. 2 ustawy w przypadku przeprowadzenia dyskusji publicznej za pomocą środków porozumiewania się na odległość: Protokół zawiera ….. ponumerowane strony.
 ............................ ................................
 ...........................................................................
-WZÓR WYKAZ UWAG zgłoszonych do wyłożonego do publicznego wglądu projektu miejscowego planu zagospodarowania przestrzennego ................................................................................................................................................................
-Załączniki: uwagi wymienione w wykazie
+Dziennik Ustaw – 17 – Załącznik nr Poz. 6 2404 WZÓR WYKAZ UWAG zgłoszonych do wyłożonego do publicznego wglądu projektu miejscowego planu zagospodarowania przestrzennego ................................................................................................................................................................
+Załączniki: – uwagi wymienione w wykazie
 
-## Część A. Wykaz uzgodnień Część B. Wykaz opinii Załączniki: uzgodnienia i opinie wymienione w wykazie WZÓR PROTOKÓŁ dyskusji publicznej nad rozwiązaniami przyjętymi w projekcie miejscowego planu zagospodarowania przestrzennego ...................................................................................................................................................................
+## Część A. Wykaz uzgodnień Część B. Wykaz opinii Załączniki: – uzgodnienia i opinie wymienione w wykazie Dziennik Ustaw – 15 – Załącznik nr Poz. 5 2404 WZÓR PROTOKÓŁ dyskusji publicznej nad rozwiązaniami przyjętymi w projekcie miejscowego planu zagospodarowania przestrzennego ...................................................................................................................................................................
 
