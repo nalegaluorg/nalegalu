@@ -67,8 +67,15 @@ _PDF_DATE_RE = re.compile(r"^\d{2}/\d{2}/\d{2,4}\s*$", re.MULTILINE)
 # Single letters that are legitimate Polish words
 _LEGIT_SINGLE = {"i", "w", "z", "o", "u", "a"}
 
-# Article marker pattern
-_ARTICLE_RE = re.compile(r"\*\*Art\.\s+\d+")
+# Article marker pattern. Keep this in sync with generated Markdown markers:
+# plain ("Art. 18."), spaced superscript ("Art. 18 1."), bracketed
+# superscript ("Art. 18 [1]."), and unicode superscript ("Art. 18¹a.").
+_ARTICLE_RE = re.compile(
+    r"(?m)^\*\*Art\.\s+"
+    r"\d+[a-z]?"
+    r"(?:\s+\d+[a-z]?|\s*\[\d+[a-z]?\]|[\u2070-\u2079\u00b9\u00b2\u00b3]+[a-z]?)?"
+    r"\."
+)
 
 
 def get_body(md_content: str) -> str:
@@ -192,7 +199,7 @@ def git(*args: str) -> str:
 
 
 def get_changed_md_files(base: str) -> list[str]:
-    """Get list of .md files changed in the current branch vs base."""
+    """Get list of changed public act index files in the current branch vs base."""
     try:
         diff_output = git("diff", "--name-only", "--diff-filter=AM", base,
                           "--", "*.md", "**/*.md")
@@ -207,23 +214,14 @@ def get_changed_md_files(base: str) -> list[str]:
             return []
 
     files = [f for f in diff_output.strip().splitlines() if f]
-    # Filter to act files — skip repo meta files
-    skip = {"README", "CHANGELOG", "BLOCKED_ACTS", "PUBLISH_SUMMARY",
-            "TEST_RESULTS"}
-    # SAOS case-law cross-reference tables (orzecznictwo.md) are not act
-    # bodies, so the size/article/diacritics gates below — which are tuned
-    # for PDF-extracted legal prose — misfire on them:
-    #   - "missing diacritics" on ASCII judgment metadata (case signatures,
-    #     court codes, saos.org.pl URLs, scores); ratio is ~0.15% by nature.
-    #   - large but legitimate size swings: e.g. the compact format moved
-    #     inline judgments out into per-article orzecznictwo/*.csv siblings,
-    #     shrinking the .md ~70% while preserving every judgment.
-    # The judgment data lives in orzecznictwo/*.csv (not *.md, so already
-    # outside this checker). Exclude the index file by name.
-    saos_crossref_names = {"orzecznictwo.md"}
-    return [f for f in files
-            if Path(f).name not in saos_crossref_names
-            and not any(s in Path(f).stem.upper() for s in skip)]
+    # Only generated act bodies live at */<WDU...>/index.md. Top-level
+    # manifests such as REJECTED.md and PUBLISH_SUMMARY.md are aggregate
+    # reports, not legal prose, and produce false quality failures.
+    return [
+        f for f in files
+        if Path(f).name == "index.md"
+        and re.search(r"/WDU\d{11}/index\.md$", f)
+    ]
 
 
 def get_base_content(base: str, filepath: str) -> str | None:
@@ -319,8 +317,8 @@ def main():
         "--output", default=None,
         help="Write JSON results to this file")
     parser.add_argument(
-        "--max-files", type=int, default=500,
-        help="Max files to check (default: 500)")
+        "--max-files", type=int, default=0,
+        help="Max files to check; 0 means all changed act files (default: 0)")
     args = parser.parse_args()
 
     # Make sure we have the base ref
@@ -337,7 +335,7 @@ def main():
         print("No act files changed — nothing to check.")
         sys.exit(0)
 
-    if len(changed) > args.max_files:
+    if args.max_files and len(changed) > args.max_files:
         print(f"WARNING: {len(changed)} files changed, "
               f"checking first {args.max_files}")
         changed = changed[:args.max_files]
