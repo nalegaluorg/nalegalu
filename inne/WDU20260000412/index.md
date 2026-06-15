@@ -8,7 +8,7 @@ pos: 412
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o podatku akcyzowym
@@ -404,6 +404,11 @@ Art. 139–153. (pominięte)
 
 **Art. 7i.** Organ podatkowy wydaje decyzję o odmowie wydania WIA, jeżeli wniosek o wydanie WIA:
 
+- **1)** nie dotyczy wyrobu akcyzowego albo samochodu osobowego.
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** (uchylony)
+
 **Art. 7j.** (uchylony)
 
 **Art. 7k.** WIA, decyzja o zmianie WIA, decyzja o uchyleniu WIA oraz decyzja o odmowie wydania WIA, o której mowa w art. 7i pkt 1, po usunięciu danych identyfikujących wnioskodawcę oraz danych objętych tajemnicą przedsiębiorstwa, są zamieszczane, bez zbędnej zwłoki, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych. W Biuletynie Informacji Publicznej zamieszcza się również informacje o okresie ważności WIA i decyzji o zmianie WIA oraz o okresach, na jakie została przedłużona WIA zgodnie z art. 7hb ust. 1.
@@ -615,6 +620,12 @@ Art. 139–153. (pominięte)
 2. Wydanie energii elektrycznej, o którym mowa w ust. 1 pkt 2, nabywcy końcowemu jest związane z wystawieniem przez podatnika faktury lub innego dokumentu, z którego wynika zapłata należności za sprzedaną przez podatnika energię elektryczną.
 
 **Art. 11a.** W przypadku suszu tytoniowego obowiązek podatkowy powstaje z dniem:
+
+- **1)** nabycia wewnątrzwspólnotowego suszu tytoniowego;
+- **2)** wydania suszu tytoniowego w przypadku dokonania jego sprzedaży;
+- **3)** zużycia suszu tytoniowego;
+- **4)** nabycia lub wejścia w posiadanie suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy, pośredniczący podmiot tytoniowy, grupa producentów, organizacja producentów lub producent surowca tytoniowego, który wyprodukował susz tytoniowy, jeżeli nie została od niego zapłacona akcyza w należnej wysokości i nie można ustalić podmiotu, który dokonał sprzedaży suszu tytoniowego;
+- **5)** powstania długu celnego, w przypadku importu suszu tytoniowego.
 
 **Art. 11b.**
 
@@ -1050,6 +1061,9 @@ Art. 139–153. (pominięte)
 
 **Art. 20.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres danych, które powinny być zawarte w:
 
+- **1)** zgłoszeniu rejestracyjnym, o którym mowa w art. 16,
+- **2)** zgłoszeniach, o których mowa w art. 19 ust. 1, 2 i ust. 3 pkt 2 – wraz z niezbędnymi pouczeniami, uwzględniając konieczność zapewniania organom podatkowym informacji o podatnikach lub podmiotach dokonujących czynności z wykorzystaniem wyrobów akcyzowych oraz umożliwienia monitorowania wykorzystania wyrobów akcyzowych zgodnie z ich przeznaczeniem.
+
 #### Rozdział 3a Rejestracja pośredniczących podmiotów tytoniowych
 
 **Art. 20a.**
@@ -1093,6 +1107,14 @@ Art. 139–153. (pominięte)
 4. Działalność gospodarczą w zakresie suszu tytoniowego prowadzoną przez przedsiębiorcę zagranicznego, o którym mowa w art. 20d pkt 1 lit. c, uznaje się na potrzeby akcyzy za działalność prowadzoną przez podmiot reprezentujący przedsiębiorcę zagranicznego.
 
 **Art. 20d.** Wniosek o wpis do rejestru pośredniczących podmiotów tytoniowych powinien zawierać:
+
+- **1)** dane dotyczące podmiotu oraz prowadzonej przez ten podmiot działalności gospodarczej obejmujące:
+    - **a)** w przypadku podmiotu krajowego: imię i nazwisko lub nazwę podmiotu, adres zamieszkania lub adres jego siedziby, miejsce i adres wykonywania działalności w zakresie suszu tytoniowego, miejsce i adres magazynowania suszu tytoniowego na terytorium kraju, numer w Krajowym Rejestrze Sądowym lub informację o wpisie w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, numer identyfikacji podatkowej (NIP),
+    - **b)** w przypadku przedsiębiorcy zagranicznego posiadającego oddział z siedzibą na terytorium kraju, utworzony na warunkach i zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej: – imię i nazwisko lub nazwę podmiotu, adres zamieszkania lub adres jego siedziby, numer identyfikacyjny używany w państwie zamieszkania lub siedziby oraz informacje o prowadzonej przez ten podmiot działalności, – nazwy oddziałów z siedzibą na terytorium kraju, w ramach których przedsiębiorca zagraniczny prowadzi działalność gospodarczą na terytorium kraju, adresy ich siedzib, numer w Krajowym Rejestrze Sądowym, numer identyfikacji podatkowej (NIP), – miejsce i adres wykonywania działalności w zakresie suszu tytoniowego na terytorium kraju oraz miejsce i adres magazynowania suszu tytoniowego na terytorium kraju, – imiona i nazwiska osób upoważnionych do reprezentowania oddziału przedsiębiorcy zagranicznego oraz ich adresy,
+    - **c)** w przypadku przedsiębiorcy zagranicznego nieposiadającego oddziału z siedzibą na terytorium kraju utworzonego na warunkach i zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej: – imię i nazwisko lub nazwę podmiotu, adres zamieszkania lub adres jego siedziby, numer identyfikacyjny używany w państwie zamieszkania lub siedziby oraz informacje o prowadzonej przez ten podmiot działalności, – imię i nazwisko lub nazwę podmiotu reprezentującego przedsiębiorcę zagranicznego, adres zamieszkania lub adres jego siedziby, numer w Krajowym Rejestrze Sądowym, numer identyfikacji podatkowej (NIP), – miejsce i adres wykonywania działalności w zakresie suszu tytoniowego na terytorium kraju oraz miejsce i adres magazynowania suszu tytoniowego na terytorium kraju,
+    - **d)** informację o rodzaju działalności gospodarczej w zakresie suszu tytoniowego, w tym wskazanie, czy podmiot zamierza susz tytoniowy: – sprzedawać na terytorium kraju, – eksportować, – dostarczać wewnątrzwspólnotowo, – nabywać wewnątrzwspólnotowo, – importować, – zużywać, – przetwarzać, wraz z informacją, na czym będzie polegało to przetwarzanie;
+
+- **2)** proponowane zabezpieczenie akcyzowe.
 
 **Art. 20e.**
 
@@ -1139,6 +1161,12 @@ Art. 139–153. (pominięte)
 
 **Art. 20g.** Właściwy naczelnik urzędu skarbowego wydaje decyzję o odmowie dokonania wpisu do rejestru pośredniczących podmiotów tytoniowych w przypadku:
 
+- **1)** podania we wniosku o wpis do rejestru pośredniczących podmiotów tytoniowych nieprawdziwych danych, w szczególności dotyczących prowadzenia przez podmiot wskazanej we wniosku działalności gospodarczej pod wskazanym w nim adresem;
+- **2)** niespełnienia przez podmiot warunków dokonania wpisu do rejestru pośredniczących podmiotów tytoniowych;
+- **3)** gdy zachodzi uzasadniona obawa, że:
+    - **a)** prowadzenie działalności na podstawie uzyskanego wpisu do rejestru pośredniczących podmiotów tytoniowych może powodować zagrożenie ważnego interesu publicznego,
+    - **b)** podmiot nie będzie wywiązywał się z obowiązku rozliczania się z podatków stanowiących dochód budżetu państwa, w szczególności naczelnik urzędu skarbowego pozyska informację, że osoba kierująca działalnością podmiotu kierowała w ostatnich 3 latach działalnością innego podmiotu, który w tym czasie w sposób uporczywy nie regulował w terminie należności podatkowych stanowiących dochód budżetu państwa lub wobec którego prowadzone było postępowanie egzekucyjne.
+
 **Art. 20h.**
 
 1. Właściwy naczelnik urzędu skarbowego wydaje z urzędu decyzję o wykreśleniu pośredniczącego podmiotu tytoniowego z rejestru pośredniczących podmiotów tytoniowych w przypadku:
@@ -1167,6 +1195,9 @@ Art. 139–153. (pominięte)
 #### Rozdział 3b Numer akcyzowy uprawnionego odbiorcy na terytorium kraju i numer akcyzowy uprawnionego wysyłającego na terytorium kraju
 
 **Art. 20j.** Podmiot, który zamierza:
+
+- **1)** dokonywać nabyć wewnątrzwspólnotowych lub dokonać jednorazowego nabycia wewnątrzwspólnotowego wyrobów akcyzowych jako uprawniony odbiorca,
+- **2)** dokonywać dostaw wewnątrzwspólnotowych lub dokonać jednorazowej dostawy wewnątrzwspólnotowej wyrobów akcyzowych jako uprawniony wysyłający – jest obowiązany uzyskać odpowiednio numer akcyzowy uprawnionego odbiorcy lub numer akcyzowy uprawnionego wysyłającego.
 
 **Art. 20k.**
 
@@ -1473,6 +1504,9 @@ Art. 139–153. (pominięte)
 
 **Art. 29a.** W przypadku gdy produktem przetworzonym uzyskiwanym w ramach procedury uszlachetniania czynnego jest wyrób akcyzowy:
 
+- **1)** nie stosuje się szczególnych przypadków zamknięcia tej procedury, o których mowa w art. 324 rozporządzenia 2015/2447;
+- **2)** kwotę akcyzy z tytułu importu określa się w każdym przypadku na podstawie elementów kalkulacyjnych, w szczególności klasyfikacji taryfowej, rodzaju, ilości i stawki, właściwych dla produktu przetworzonego.
+
 #### Rozdział 6 Zwolnienia
 
 **Art. 30.**
@@ -1700,6 +1734,12 @@ Art. 139–153. (pominięte)
 11. Zwalnia się od akcyzy powstałe u finalnego nabywcy gazowego straty wyrobów gazowych nabytych w ramach zwolnienia, o którym mowa w ust. 1–4, jeżeli w wyniku kontroli podatkowej, kontroli celno-skarbowej albo postępowania podatkowego nie ustalono, że nastąpiło użycie tych wyrobów do celów innych niż określone w tych przepisach.
 
 **Art. 31c.** Za system prowadzący do osiągania celów dotyczących ochrony środowiska lub do podwyższenia efektywności energetycznej, o którym mowa w art. 31a ust. 1 pkt 8 i art. 31b ust. 1 pkt 5, uznaje się:
+
+- **1)** system handlu uprawnieniami do emisji gazów cieplarnianych, o którym mowa w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2025 r. poz. 1685 i 1863) i przepisach wydanych na podstawie art. 25 ust. 4 i art. 29 ust. 1 tej ustawy;
+- **2)** system EMAS, o którym mowa w ustawie z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. z 2022 r. poz. 2013);
+- **3)** uzyskiwanie i umarzanie świadectw efektywności energetycznej, o których mowa w ustawie z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2025 r. poz. 711), przez podmioty obowiązane na podstawie tej ustawy do uzyskania i przedstawienia do umorzenia świadectw efektywności energetycznej lub uiszczenia w zamian opłaty zastępczej;
+- **4)** system zarządzania środowiskowego potwierdzony przez niezależną i uprawnioną w tym zakresie jednostkę akredytującą certyfikatem ISO 14001;
+- **5)** system zarządzania energią potwierdzony przez niezależną i uprawnioną w tym zakresie jednostkę akredytującą certyfikatem ISO 50001.
 
 **Art. 31d.**
 
@@ -2486,6 +2526,29 @@ Art. 139–153. (pominięte)
 
 **Art. 46a.** Przemieszczanie wyrobów akcyzowych na terytorium kraju poza procedurą zawieszenia poboru akcyzy odbywa się z użyciem Systemu na podstawie eDD albo dokumentu zastępującego e-DD, jeżeli:
 
+- **1)** wyroby akcyzowe objęte zwolnieniem od akcyzy ze względu na ich przeznaczenie są przemieszczane:
+    - **a)** ze składu podatkowego do podmiotu pośredniczącego,
+    - **b)** od podmiotu pośredniczącego do składu podatkowego, w celu zwrotu,
+    - **c)** ze składu podatkowego do podmiotu zużywającego,
+    - **d)** od podmiotu zużywającego do składu podatkowego, w celu zwrotu,
+    - **e)** od podmiotu pośredniczącego do podmiotu zużywającego,
+    - **f)** od podmiotu zużywającego do podmiotu pośredniczącego, w celu zwrotu,
+    - **g)** od zarejestrowanego odbiorcy, o którym mowa w art. 32 ust. 3 pkt 5, do podmiotu zużywającego,
+    - **h)** od zarejestrowanego odbiorcy, o którym mowa w art. 32 ust. 3 pkt 5a, do podmiotu pośredniczącego – w przypadku wyrobów energetycznych, o których mowa w art. 32 ust. 1 pkt 2,
+    - **i)** ze składu podatkowego do podmiotu prowadzącego miejsce niszczenia wyrobów akcyzowych spełniające warunki niszczenia wyrobów na podstawie przepisów odrębnych – w przypadku, o którym mowa w art. 32 ust. 4 pkt 1a,
+    - **j)** od podmiotu posiadającego alkohol etylowy stanowiący odpad do składu podatkowego – w przypadku, o którym mowa w art. 32 ust. 4 pkt 5,
+    - **k)** z miejsca importu do podmiotu pośredniczącego lub podmiotu zużywającego prowadzącego działalność gospodarczą;
+
+- **2)** wyroby akcyzowe wymienione w załączniku nr 2 do ustawy, opodatkowane zerową stawką akcyzy ze względu na ich przeznaczenie, są przemieszczane na terytorium kraju: 2 pkt 5 – do zużywającego podmiotu gospodarczego, Art. 46aa. Monitorowanie sprzedaży wyrobów węglowych zwolnionych od akcyzy ze względu na ich przeznaczenie odbywa się z użyciem Systemu, jeżeli wyroby te są:
+    - **a)** ze składu podatkowego do zużywającego podmiotu gospodarczego,
+    - **b)** od zużywającego podmiotu gospodarczego do składu podatkowego, również w celu zwrotu,
+    - **c)** od zarejestrowanego odbiorcy – w przypadku, o którym mowa w art. 89 ust.
+    - **d)** z miejsca importu do zużywającego podmiotu gospodarczego,
+    - **e)** od zużywającego podmiotu gospodarczego do sprzedawcy z terytorium państwa trzeciego, w celu zwrotu, jeżeli ich wyprowadzenie poza terytorium Unii Europejskiej następuje przez urząd celno-skarbowy znajdujący się na terytorium kraju.
+
+- **1)** sprzedawane finalnemu nabywcy węglowemu przez pośredniczący podmiot węglowy, który w poprzednim roku kalendarzowym sprzedał powyżej 30 mln kg wyrobów węglowych;
+- **2)** zwracane przez finalnego nabywcę węglowego do pośredniczącego podmiotu węglowego, który w poprzednim roku kalendarzowym sprzedał powyżej 30 mln kg wyrobów węglowych.
+
 **Art. 46b.**
 
 1. Przemieszczanie wyrobów akcyzowych poza procedurą zawieszenia poboru akcyzy rozpoczyna się z chwilą:
@@ -2543,6 +2606,9 @@ Art. 139–153. (pominięte)
 2. W przypadku gdy przemieszczanie odbywa się na podstawie dokumentu zastępującego e-DD, dokument ten powinien być załączony do przemieszczanych wyrobów akcyzowych.
 
 **Art. 46f.** W przypadku wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie z chwilą zweryfikowania projektu e-DD, przed przesłaniem e-DD zgodnie z art. 46g, następuje automatyczne odnotowanie:
+
+- **1)** zwolnienia z obciążenia zabezpieczenia generalnego zarejestrowanego odbiorcy, o którym mowa w art. 2 ust. 1 pkt 31 lit. c, w kwocie akcyzy lub kwocie akcyzy i opłaty paliwowej, wynikającymi z ilości i rodzaju wyrobów akcyzowych wskazanych w projekcie e-DD, oraz
+- **2)** obciążenia zabezpieczenia generalnego podmiotu prowadzącego skład podatkowy, podmiotu pośredniczącego lub zarejestrowanego odbiorcy, o których mowa w art. 2 ust. 1 pkt 31 lit. b–c i f, kwotą akcyzy albo kwotą akcyzy i opłaty paliwowej, wynikającymi z ilości i rodzaju wyrobów akcyzowych wskazanych w projekcie e-DD, albo objęcia tych wyrobów zabezpieczeniem ryczałtowym tych podmiotów.
 
 **Art. 46g.** Jeżeli projekt e-DD zawiera prawidłowe i kompletne dane, w Systemie jest mu automatycznie nadawany numer referencyjny, a następnie e-DD jest automatycznie przesyłany do podmiotu wysyłającego, o którym mowa w art. 2 ust. 1 pkt 31 lit. b–c, e lub f, oraz do podmiotu odbierającego, o którym mowa w art. 2 ust. 1 pkt 32 lit. b–d, będącego użytkownikiem Systemu. Art. 46ga. Podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. b–f, może dokonać zmiany środka transportu podczas przemieszczania wyrobów akcyzowych poza procedurą zawieszenia poboru akcyzy.
 
@@ -2603,6 +2669,27 @@ Art. 139–153. (pominięte)
 3. W przypadku, o którym mowa w art. 46a pkt 2 lit. e, w Systemie jest tworzony raport wywozu na podstawie informacji uzyskanej z elektronicznego systemu obsługi eksportu, potwierdzającej wyprowadzenie wyrobów akcyzowych poza terytorium Unii Europejskiej. Raport wywozu po sprawdzeniu pod względem kompletności i prawidłowości danych w nim zawartych jest automatycznie przesyłany z Systemu do podmiotu wysyłającego, o którym mowa w art. 2 ust. 1 pkt 31 lit. e.
 
 **Art. 46n.** (uchylony) Art. 46na. 1. W przypadku przemieszczania objętych zwolnieniem od akcyzy wyrobów energetycznych, o których mowa w art. 32 ust. 1 pkt 1, z wyjątkiem olejów smarowych do silników lotniczych oraz preparatów smarowych do silników lotniczych, jeżeli wyroby te są:
+
+- **1)** wydawane ze zbiornika na stałe zamontowanego na płycie lotniska bezpośrednio podmiotowi zużywającemu do zbiornika na stałe zamontowanego na statku powietrznym,
+- **2)** przemieszczane na terenie lotniska cysterną do podmiotu zużywającego, o którym mowa w art. 2 ust. 1 pkt 22 lit. a lub b, i wydawane temu podmiotowi bezpośrednio do zbiornika na stałe zamontowanego na statku powietrznym – podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. b, sporządza projekt e-DD na podstawie potwierdzenia odbioru, o którym mowa w art. 46j ust. 3, i przesyła go do Systemu niezwłocznie, niepóźniej jednak niż w terminie 5 dni, licząc od dnia potwierdzenia odbioru.
+
+2. W przypadku przemieszczania objętych zwolnieniem od akcyzy wyrobów energetycznych, o których mowa w art. 32 ust. 1 pkt 2, jeżeli wyroby te są wydawane ze zbiornika na stałe zamontowanego w porcie bezpośrednio podmiotowi zużywającemu do zbiornika na stałe zamontowanego na statku, podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. b, sporządza projekt e-DD na podstawie potwierdzenia odbioru, o którym mowa w art. 46j ust. 3, i przesyła go do Systemu niezwłocznie, niepóźniej jednak niż w terminie 5 dni, licząc od dnia potwierdzenia odbioru.
+
+3. W przypadku sprzedaży objętych zwolnieniem od akcyzy wyrobów węglowych, o których mowa w art. 31a ust. 1, podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. d, sporządza projekt e-DD na podstawie faktury dokumentującej tę sprzedaż i przesyła go do Systemu niezwłocznie, niepóźniej jednak niż do 16. dnia miesiąca następującego po miesiącu, w którym sprzedał objęte zwolnieniem od akcyzy wyroby węglowe finalnemu nabywcy węglowemu.
+
+4. W przypadku sprzedaży objętych zwolnieniem od akcyzy wyrobów węglowych, o których mowa w art. 31a ust. 1, i ich dostarczania realizowanego w sposób ciągły transportem taśmowym, na podstawie zawartej umowy, podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. d, przesyła do Systemu projekt e-DD co najmniej raz w miesiącu, na podstawie faktury dokumentującej tę sprzedaż.
+
+5. W przypadku przemieszczania objętych zwolnieniem od akcyzy lub objętych zerową stawką akcyzy wyrobów energetycznych przy użyciu rurociągu:
+
+- **1)** bezpośrednio po dopuszczeniu do obrotu z zastosowaniem zgłoszenia uproszczonego w rozumieniu przepisów prawa celnego z miejsca importu bezpośrednio do odpowiednio składu podatkowego na terytorium kraju, podmiotu pośredniczącego, podmiotu zużywającego albo zużywającego podmiotu gospodarczego,
+- **2)** ze składu podatkowego na terytorium kraju odpowiednio do podmiotu pośredniczącego, podmiotu zużywającego albo zużywającego podmiotu gospodarczego,
+- **3)** od podmiotu pośredniczącego do podmiotu zużywającego – podmiot wysyłający, o którym mowa odpowiednio w art. 2 ust. 1 pkt 31 lit. b albo f, przesyła do Systemu projekt e-DD niezwłocznie po zakończeniu tłoczenia.
+
+6. W przypadku gdy wyroby węglowe, o których mowa w art. 31a ust. 1, przed ich sprzedażą finalnemu nabywcy węglowemu były przedmiotem dostaw pomiędzy pośredniczącymi podmiotami węglowymi, pośredniczący podmiot węglowy, który dokonał sprzedaży tych wyrobów finalnemu nabywcy węglowemu, przesyła do Systemu projekt e-DD do 16. dnia miesiąca następującego po miesiącu, w którym nabył te wyroby węglowe od innego pośredniczącego podmiotu węglowego.
+
+7. W przypadku zwrotu wyrobów akcyzowych, które zostały przemieszczone lub sprzedane w sposób określony w ust. 1–3 lub 6, podmiot wysyłający, do którego zostały te wyroby zwrócone, przesyła projekt e-DD do Systemu niezwłocznie po otrzymaniu tych wyrobów, niepóźniej jednak niż w terminie 5 dni, licząc od dnia ich otrzymania.
+
+8. W przypadkach, o których mowa w ust. 1–7, nie sporządza się w Systemie raportu odbioru, a odpowiednio przemieszczenie albo monitorowanie sprzedaży wyrobów węglowych z użyciem Systemu uznaje się za zakończone z chwilą uzyskania z Systemu przez podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. b lub d, e-DD z nadanym numerem referencyjnym, sprawdzonego pod względem kompletności i prawidłowości danych zawartych w tym dokumencie. Przepisu art. 46g nie stosuje się.
 
 **Art. 46o.**
 
@@ -3677,6 +3764,11 @@ Art. 139–153. (pominięte)
 
 **Art. 79a.** W przypadku gdy wysyłający podmiot zagraniczny nie wyznaczy przedstawiciela podatkowego, jest obowiązany:
 
+- **1)** złożyć zabezpieczenie akcyzowe przed wysłaniem wyrobów akcyzowych;
+- **2)** bez wezwania organu podatkowego złożyć właściwemu naczelnikowi urzędu skarbowego:
+    - **a)** deklarację uproszczoną, o której mowa w art. 78 ust. 1 pkt 3, oraz obliczyć akcyzę i dokonać jej zapłaty na terytorium kraju w sposób i terminie określonych w tym przepisie albo
+    - **b)** deklarację, o której mowa w art. 24e ust. 1, w terminie określonym w tym przepisie, w przypadku gdy nabywane wyroby akcyzowe są objęte na terytorium kraju zerową stawką akcyzy.
+
 **Art. 80.**
 
 1. Przedstawicielem podatkowym może być wyłącznie podmiot, spełniający łącznie warunki, o których mowa w art. 48 ust. 1 pkt 2–6, któremu właściwy naczelnik urzędu skarbowego wydał zezwolenie na wykonywanie czynności w charakterze przedstawiciela podatkowego.
@@ -3856,9 +3948,44 @@ Art. 139–153. (pominięte)
 
 **Art. 84a.** W przypadku przedsiębiorstwa w spadku nie wygasają decyzje ani zezwolenia akcyzowe, o których mowa w art. 20a ust. 4, art. 64 ust. 3, art. 65 ust. 8 oraz art. 84 ust. 1, które posiadał zmarły przedsiębiorca, jeżeli:
 
+- **1)** zarząd sukcesyjny został ustanowiony z chwilą śmierci przedsiębiorcy, który posiadał decyzję lub zezwolenie akcyzowe;
+- **2)** po śmierci przedsiębiorcy, który posiadał decyzję lub zezwolenie akcyzowe, zostanie zapewniona ciągłość zarządu sukcesyjnego;
+- **3)** przedsiębiorstwo w spadku, zarządca sukcesyjny, następcy zmarłego przedsiębiorcy oraz małżonek zmarłego przedsiębiorcy spełniają warunki określone w art. 84b–84d;
+- **4)** zarządca sukcesyjny złoży, w terminie 7 dni od dnia śmierci przedsiębiorcy, wniosek o zmianę decyzji lub zezwolenia akcyzowego, poprzez dodanie do dotychczasowej nazwy posiadacza decyzji lub zezwolenia oznaczenia „w spadku”;
+- **5)** zmarły przedsiębiorca posiadał miejsce zamieszkania lub siedzibę na terytorium kraju – w przypadku decyzji, o których mowa w art. 20a ust. 4.
+
 **Art. 84b.** W przypadku przedsiębiorstwa w spadku może być wykonywana działalność na podstawie zezwolenia akcyzowego, które posiadał zmarły przedsiębiorca, jeżeli:
 
+- **1)** przedsiębiorstwo w spadku spełnia łącznie następujące warunki:
+    - **a)** w przypadku zezwolenia na prowadzenie składu podatkowego – prowadzi co najmniej jeden rodzaj działalności polegającej na produkcji, przeładowywaniu lub magazynowaniu wyrobów akcyzowych, w tym będących własnością innych podmiotów,
+    - **b)** jest podatnikiem podatku od towarów i usług, z wyłączeniem zezwolenia na prowadzenie składu podatkowego, o którym mowa w art. 48 ust. 2,
+    - **c)** nie posiada zaległości z tytułu cła i podatków stanowiących dochód budżetu państwa ani nie jest prowadzone z jego majątku postępowanie egzekucyjne,
+    - **d)** złoży zabezpieczenie akcyzowe, z zastrzeżeniem art. 84d ust. 1,
+    - **e)** nie zostało cofnięte, ze względu na naruszenie przepisów prawa, żadne z udzielonych mu zezwoleń, o których mowa w art. 84 ust. 1, jak również koncesja lub zezwolenie na prowadzenie działalności gospodarczej ani nie została wydana decyzja o zakazie wykonywania przez nie działalności regulowanej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, w zakresie wyrobów akcyzowych,
+    - **f)** nie posiada, jako płatnik, zaległości z tytułu składek na ubezpieczenia społeczne i zdrowotne;
+
+- **2)** zarządca sukcesyjny spełnia łącznie następujące warunki:
+    - **a)** nie został skazany prawomocnym wyrokiem za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe,
+    - **b)** w przypadku zezwolenia na prowadzenie składu podatkowego lub zezwolenia na nabywanie wyrobów akcyzowych jako zarejestrowany odbiorca – posiada tytuł prawny do korzystania z miejsca, w którym prowadzony jest skład podatkowy lub znajduje się miejsce przeznaczone do odbierania wyrobów akcyzowych, jeżeli tytułem prawnym jest umowa zawarta przez zmarłego przedsiębiorcę, w miejsce którego wstąpił zarządca sukcesyjny,
+    - **c)** nie zostało cofnięte, ze względu na naruszenie przepisów prawa, żadne z udzielonych mu zezwoleń, o których mowa w art. 84 ust. 1, jak również koncesja lub zezwolenie na prowadzenie działalności gospodarczej ani nie została wydana decyzja o zakazie wykonywania przez niego działalności regulowanej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, w zakresie wyrobów akcyzowych,
+    - **d)** nie jest prowadzone z jego majątku postępowanie egzekucyjne w związku z działalnością prowadzoną przy użyciu przedsiębiorstwa w spadku;
+
+- **3)** nie jest prowadzone wobec któregokolwiek z następców prawnych zmarłego przedsiębiorcy lub małżonka przedsiębiorcy postępowanie egzekucyjne, w związku z działalnością prowadzoną przy użyciu przedsiębiorstwa w spadku.
+
 **Art. 84c.** W przypadku przedsiębiorstwa w spadku może być wykonywana działalność na podstawie decyzji o wpisie do rejestru pośredniczących podmiotów tytoniowych, którą posiadał zmarły przedsiębiorca, jeżeli:
+
+- **1)** przedsiębiorstwo w spadku spełnia łącznie następujące warunki:
+    - **a)** nie posiada zaległości z tytułu cła i podatków stanowiących dochód budżetu państwa ani nie jest prowadzone z jego majątku postępowanie egzekucyjne,
+    - **b)** złoży zabezpieczenie akcyzowe,
+    - **c)** nie zostało cofnięte, ze względu na naruszenie przepisów prawa, żadne z udzielonych mu zezwoleń, o których mowa w art. 84 ust. 1, jak również koncesja lub zezwolenie na prowadzenie działalności gospodarczej ani nie została wydana decyzja o zakazie wykonywania przez nie działalności regulowanej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, w zakresie wyrobów akcyzowych,
+    - **d)** nie posiada, jako płatnik, zaległości z tytułu składek na ubezpieczenia społeczne i zdrowotne;
+
+- **2)** zarządca sukcesyjny spełnia łącznie następujące warunki:
+    - **a)** nie został skazany prawomocnym wyrokiem za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe,
+    - **b)** nie zostało cofnięte, ze względu na naruszenie przepisów prawa, żadne z udzielonych mu zezwoleń, o których mowa w art. 84 ust. 1, jak również koncesja lub zezwolenie na prowadzenie działalności gospodarczej ani nie została wydana decyzja o zakazie wykonywania przez niego działalności regulowanej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, w zakresie wyrobów akcyzowych,
+    - **c)** nie jest prowadzone z jego majątku postępowanie egzekucyjne w związku z działalnością prowadzoną przy użyciu przedsiębiorstwa w spadku;
+
+- **3)** nie jest prowadzone wobec któregokolwiek z następców prawnych zmarłego przedsiębiorcy lub małżonka przedsiębiorcy postępowanie egzekucyjne, w związku z działalnością prowadzoną przy użyciu przedsiębiorstwa w spadku.
 
 **Art. 84d.**
 
@@ -4774,6 +4901,14 @@ Art. 139–153. (pominięte)
 
 **Art. 105.** Stawka akcyzy na samochody osobowe wynosi:
 
+- **1)** 18,6 % podstawy opodatkowania – dla samochodów osobowych o pojemności silnika powyżej 2000 centymetrów sześciennych;
+- **1a)** 9,3 % podstawy opodatkowania – dla samochodów osobowych: z 2024 r. poz. 1289, 1853 i 1881) o pojemności silnika spalinowego wyższej niż 2000 centymetrów sześciennych, ale niewyższej niż 3500 centymetrów sześciennych;
+    - **a)** o hybrydowym napędzie spalinowo-elektrycznym, w którym energia elektryczna nie jest akumulowana przez podłączenie do zewnętrznego źródła zasilania, o pojemności silnika spalinowego wyższej niż 2000 centymetrów sześciennych, ale niewyższej niż 3500 centymetrów sześciennych,
+    - **b)** stanowiących pojazd hybrydowy w rozumieniu art. 2 pkt 13 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U.
+
+- **1b)** 1,55 % podstawy opodatkowania – dla samochodów osobowych o hybrydowym napędzie spalinowo-elektrycznym, w którym energia elektryczna nie jest akumulowana przez podłączenie do zewnętrznego źródła zasilania, o pojemności silnika spalinowego równej 2000 centymetrów sześciennych lub niższej;
+- **2)** 3,1 % podstawy opodatkowania – dla pozostałych samochodów osobowych.
+
 **Art. 106.**
 
 1. Podatnik z tytułu sprzedaży na terytorium kraju samochodu osobowego jest obowiązany, bez wezwania organu podatkowego:
@@ -5275,6 +5410,9 @@ Art. 139–153. (pominięte)
 
 **Art. 129.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
+- **1)** wzór wniosku o wydanie podatkowych znaków akcyzy lub o sprzedaż legalizacyjnych znaków akcyzy oraz o wydanie upoważnienia do odbioru znaków akcyzy, a także wzór tego upoważnienia,
+- **2)** szczegółowy wykaz i sposób składania dokumentów załączanych przez wnioskodawcę do tego wniosku – uwzględniając konieczność identyfikacji rodzaju i liczby wydawanych znaków akcyzy oraz identyfikacji podmiotów obowiązanych do oznaczania wyrobów akcyzowych znakami akcyzy, a także częstotliwość składania wniosków.
+
 #### Rozdział 4 Prawa i obowiązki wynikające ze stosowania znaków akcyzy
 
 **Art. 130.**
@@ -5632,6 +5770,12 @@ Art. 139–153. (pominięte)
 
 **Art. 138k.** Ewidencje rodzaju, ilości i wartości wyrobów akcyzowych określonych w art. 118 ust. 1 pkt 1–3 i 6 prowadzą:
 
+- **1)** podmiot prowadzący skład podatkowy;
+- **2)** importer wyrobów akcyzowych;
+- **3)** podmiot dokonujący nabycia wewnątrzwspólnotowego wyrobów akcyzowych;
+- **4)** podmiot produkujący wyroby akcyzowe, zgodnie z art. 47 ust. 1 pkt 1, 2, 4 lub 5;
+- **5)** właściciel wyrobów akcyzowych, o którym mowa w art. 13 ust. 3.
+
 **Art. 138l.**
 
 1. Ewidencję podatkowych znaków akcyzy prowadzą:
@@ -5700,6 +5844,12 @@ Art. 139–153. (pominięte)
 **Art. 138r.** (uchylony)
 
 **Art. 138s.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy zakres danych, które powinny znajdować się w ewidencjach, o których mowa w art. 138a ust. 1, art. 138b, art. 138c, art. 138e–138g i art. 138l, oraz protokołach, o których mowa w art. 138m ust. 1,
+- **2)** sposób prowadzenia ewidencji, o których mowa w art. 138a ust. 1, art. 138b, art. 138c, art. 138e–138l,
+- **3)** wzory protokołów, o których mowa w art. 138m ust. 1 pkt 2–4,
+- **4)** rodzaje dokumentacji, o których mowa w art. 138d ust. 1 i art. 138o, szczegółowy zakres danych, które powinny znajdować się w tych dokumentacjach, a także sposób ich prowadzenia
+- **5)** (uchylony) – uwzględniając konieczność zapewnienia właściwej kontroli nad wyrobami akcyzowymi oraz wydanymi znakami akcyzy, a także właściwego poboru akcyzy od wyrobów akcyzowych i funkcjonowania zwolnień od akcyzy.
 
 **Art. 138t.**
 
@@ -5925,6 +6075,10 @@ Art. 139–153. (pominięte)
 
 **Art. 164b.** W okresie od dnia 1 czerwca 2022 r. do dnia 31 grudnia 2022 r. stawka akcyzy, o której mowa w art. 89 ust. 1:
 
+- **1)** pkt 9, wynosi 97 zł/1000 litrów;
+- **2)** pkt 10 lit. a, wynosi 97 zł/1000 litrów;
+- **3)** pkt 15 lit. a tiret pierwsze, wynosi 97 zł/1000 litrów.
+
 **Art. 164c.** Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, obniżać stawki akcyzy na wyroby akcyzowe, o których mowa w art. 89 ust. 1 pkt 2, 6 i 8, na czas określony, niezbędny do ograniczenia negatywnych skutków konfliktu na Bliskim Wschodzie dla rynku paliw, jednak niedłużej niż do dnia 30 czerwca 2026 r., uwzględniając sytuację gospodarczą państwa.
 
 **Art. 165.** Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, do dnia 31 grudnia 2011 r., obniżać stawki akcyzy na wyroby akcyzowe określone w ustawie oraz różnicować je w zależności od rodzaju wyrobów akcyzowych, a także określać warunki ich stosowania, na okres niedłuższy niż 3 miesiące w odstępach co najmniej trzymiesięcznych, w odniesieniu do poszczególnych wyrobów akcyzowych, uwzględniając sytuację gospodarczą państwa.
@@ -6061,7 +6215,13 @@ Art. 139–153. (pominięte)
 
 **Art. 165b.** W okresie od dnia 1 sierpnia 2025 r. do dnia 31 grudnia 2026 r. stawka akcyzy na saszetki nikotynowe, o której mowa w art. 99cc ust. 4, wynosi:
 
+- **1)** od dnia 1 sierpnia 2025 r. do dnia 31 grudnia 2025 r. – 150,00 zł za każdy kilogram;
+- **2)** od dnia 1 stycznia 2026 r. do dnia 31 grudnia 2026 r. – 200,00 zł za każdy kilogram.
+
 **Art. 165c.** W okresie od dnia 1 sierpnia 2025 r. do dnia 31 grudnia 2026 r. stawka akcyzy na inne wyroby nikotynowe, o której mowa w art. 99cd ust. 4, wynosi:
+
+- **1)** od dnia 1 sierpnia 2025 r. do dnia 31 grudnia 2025 r. – 150,00 zł za każdy kilogram;
+- **2)** od dnia 1 stycznia 2026 r. do dnia 31 grudnia 2026 r. – 200,00 zł za każdy kilogram.
 
 **Art. 166.** Do dnia 31 grudnia 2009 r. stosuje się wielkość najpopularniejszej kategorii cenowej papierosów ustaloną na rok 2009 na podstawie ustawy, o której mowa w art. 168.
 

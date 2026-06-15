@@ -8,12 +8,10 @@ pos: 817
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Mienia Wojskowego
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 czerwca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -141,7 +139,7 @@ Art. 102–119. (pominięte)
 
 - **5)** 1. Do zadań własnych Agencji należy organizowanie wspólnie z jednostkami organizacyjnymi podległymi Ministrowi Obrony Narodowej lub przez niego nadzorowanymi jako podmiotami współdziałającymi przedsięwzięć związanych z promocją Sił Zbrojnych Rzeczypospolitej Polskiej, w tym pokazów lotniczych.
 
-2. W celu realizacji przedsięwzięć, o których mowa w ust. 1, Agencja może zawierać stosowne porozumienia, w szczególności z jednostkami samorządu terytorialnego, administracją rządową, organizacjami pozarządowymi w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940) i podmiotami, o których mowa w art. 3 ust. 3 tej ustawy, podmiotami określonymi w art. 7 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) oraz z podmiotami określonymi w art. 4 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222, 621 i 622). Realizacja tych porozumień będzie odbywała się ze środków własnych podmiotów uczestniczących w przedsięwzięciach, o których mowa w ust. 1.
+2. W celu realizacji przedsięwzięć, o których mowa w ust. 1, Agencja może zawierać stosowne porozumienia, w szczególności z jednostkami samorządu terytorialnego, administracją rządową, organizacjami pozarządowymi w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940) i podmiotami, o których mowa w art. 3 ust. 3 tej ustawy, podmiotami określonymi w art. 7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) oraz z podmiotami określonymi w art. 4 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222, 621 i 622). Realizacja tych porozumień będzie odbywała się ze środków własnych podmiotów uczestniczących w przedsięwzięciach, o których mowa w ust. 1.
 
 **Art. 8.**
 
@@ -194,7 +192,7 @@ Art. 102–119. (pominięte)
 
 **Art. 11.**
 
-1. Prezesa Agencji powołuje i odwołuje Prezes Rady Ministrów na wniosek Ministra Obrony Narodowej. Powołanie oznacza nawiązanie stosunku pracy w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277).
+1. Prezesa Agencji powołuje i odwołuje Prezes Rady Ministrów na wniosek Ministra Obrony Narodowej. Powołanie oznacza nawiązanie stosunku pracy w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277).
 
 2. Kadencja Prezesa Agencji trwa 3 lata.
 
@@ -245,15 +243,15 @@ Art. 102–119. (pominięte)
 
 **Art. 14.**
 
-1. Zastępców Prezesa Agencji powołuje i odwołuje Minister Obrony Narodowej na wniosek Prezesa Agencji. Powołanie oznacza nawiązanie stosunku pracy w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+1. Zastępców Prezesa Agencji powołuje i odwołuje Minister Obrony Narodowej na wniosek Prezesa Agencji. Powołanie oznacza nawiązanie stosunku pracy w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
-2. Na stanowiska kierownicze w Biurze Prezesa Agencji powołuje i odwołuje Prezes Agencji. Powołanie oznacza nawiązanie stosunku pracy w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+2. Na stanowiska kierownicze w Biurze Prezesa Agencji powołuje i odwołuje Prezes Agencji. Powołanie oznacza nawiązanie stosunku pracy w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 15.**
 
 1. Oddziały regionalne Agencji tworzy się dla obszaru jednego lub kilku województw lub ich części, w zależności od wielkości zasobu Agencji występującego na obszarze poszczególnych województw.
 
-2. Oddziałami regionalnymi Agencji kierują dyrektorzy przy pomocy zastępców. Dyrektorów oddziałów regionalnych Agencji oraz ich zastępców powołuje i odwołuje Prezes Agencji. Powołanie oznacza nawiązanie stosunku pracy w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+2. Oddziałami regionalnymi Agencji kierują dyrektorzy przy pomocy zastępców. Dyrektorów oddziałów regionalnych Agencji oraz ich zastępców powołuje i odwołuje Prezes Agencji. Powołanie oznacza nawiązanie stosunku pracy w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 16.** (uchylony)
 
@@ -265,9 +263,9 @@ Art. 102–119. (pominięte)
 
 2. Prezes Agencji oraz, w zakresie wynikającym z niniejszej ustawy oraz z ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, dyrektorzy oddziałów regionalnych Agencji wykonują zadania własne i zadania zlecone z zakresu administracji rządowej.
 
-3. W ramach wykonywania zadań z zakresu administracji rządowej Prezes Agencji oraz, w zakresie wynikającym z niniejszej ustawy oraz z ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, dyrektorzy oddziałów regionalnych Agencji wydają decyzje administracyjne w sprawach określonych w niniejszej ustawie oraz w ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej na zasadach i w trybie określonych w ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+3. W ramach wykonywania zadań z zakresu administracji rządowej Prezes Agencji oraz, w zakresie wynikającym z niniejszej ustawy oraz z ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, dyrektorzy oddziałów regionalnych Agencji wydają decyzje administracyjne w sprawach określonych w niniejszej ustawie oraz w ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej na zasadach i w trybie określonych w ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
-4. Prezes Agencji jest organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego w stosunku do dyrektorów oddziałów regionalnych Agencji, a Minister Obrony Narodowej w stosunku do Prezesa Agencji.
+4. Prezes Agencji jest organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w stosunku do dyrektorów oddziałów regionalnych Agencji, a Minister Obrony Narodowej w stosunku do Prezesa Agencji.
 
 **Art. 18.**
 
@@ -343,7 +341,7 @@ Art. 102–119. (pominięte)
 
 1. Po upływie terminu do składania dokumentów określonego w ogłoszeniu o naborze niezwłocznie upowszechnia się listę kandydatów, którzy spełniają wymagania formalne określone w ogłoszeniu o naborze, przez umieszczenie jej w miejscu powszechnie dostępnym w jednostce organizacyjnej, w której jest prowadzony nabór, a także przez udostępnienie jej w Biuletynie Informacji Publicznej Agencji.
 
-2. Lista, o której mowa w ust. 1, zawiera imię i nazwisko kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+2. Lista, o której mowa w ust. 1, zawiera imię i nazwisko kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 **Art. 25.**
 
@@ -351,7 +349,7 @@ Art. 102–119. (pominięte)
 
 2. Protokół zawiera w szczególności:
 
-- **1)** określenie stanowiska pracy, na które był prowadzony nabór, liczbę kandydatów oraz imiona, nazwiska i miejsca zamieszkania, w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, nie więcej niż 5 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze;
+- **1)** określenie stanowiska pracy, na które był prowadzony nabór, liczbę kandydatów oraz imiona, nazwiska i miejsca zamieszkania, w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, nie więcej niż 5 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze;
 - **2)** informację o zastosowanych metodach i technikach naboru;
 - **3)** uzasadnienie dokonanego wyboru.
 
@@ -363,7 +361,7 @@ Art. 102–119. (pominięte)
 
 - **1)** nazwę i adres Agencji;
 - **2)** określenie stanowiska pracy;
-- **3)** imię i nazwisko kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny;
+- **3)** imię i nazwisko kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny;
 - **4)** uzasadnienie dokonanego wyboru kandydata albo uzasadnienie niezatrudnienia żadnego kandydata.
 
 3. Informację o wyniku naboru udostępnia się w Biuletynie Informacji Publicznej Agencji i w miejscu powszechnie dostępnym w jednostce organizacyjnej, w której był prowadzony nabór.
@@ -394,7 +392,7 @@ Art. 102–119. (pominięte)
 - **2)** przejęcie kompleksów magazynowych w wysokości równej środkom finansowym na pokrycie kosztów, o których mowa w art. 45 ust. 2 zdanie drugie, zamieszczonym w części budżetu państwa, której dysponentem jest Minister Obrony Narodowej;
 - **3)** sfinansowanie realizacji zadań dotyczących:
     - **a)** planowania i realizowania inwestycji i remontów, w tym zakupów i ulepszeń budynków, lokali mieszkalnych i internatów oraz związanej z nimi infrastruktury, a także zakupów środków trwałych i wartości niematerialnych i prawnych, w tym spłaty zobowiązań wraz z kosztami ich obsługi zaciągniętych na te cele,
-    - **b)** wypłacania osobom uprawnionym świadczeń pieniężnych w postaci: odprawy mieszkaniowej, świadczenia mieszkaniowego, świadczenia finansowego umożliwiającego pokrycie kosztów najmu lokalu mieszkalnego, wypłacanego na podstawie art. 49 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, w brzmieniu obowiązującym do dnia 30 czerwca 2004 r., zryczałtowanego ekwiwalentu wypłacanego na podstawie przepisów art. 24 ust. 6 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej w brzmieniu obowiązującym do dnia 30 czerwca 2010 r., ekwiwalentu pieniężnego w zamian za rezygnację z osobnej kwatery stałej, o którym mowa w art. 22 ust. 2 ustawy z dnia 16 kwietnia 2004 r. o zmianie ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1203, 1596 i 2533, z 2005 r. poz. 290, z 2008 r. poz. 299 oraz z 2010 r. poz. 143),
+    - **b)** wypłacania osobom uprawnionym świadczeń pieniężnych w postaci: – odprawy mieszkaniowej, – świadczenia mieszkaniowego, – świadczenia finansowego umożliwiającego pokrycie kosztów najmu lokalu mieszkalnego, wypłacanego na podstawie art. 49 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, w brzmieniu obowiązującym do dnia 30 czerwca 2004 r., – zryczałtowanego ekwiwalentu wypłacanego na podstawie przepisów art. 24 ust. 6 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej w brzmieniu obowiązującym do dnia 30 czerwca 2010 r., – ekwiwalentu pieniężnego w zamian za rezygnację z osobnej kwatery stałej, o którym mowa w art. 22 ust. 2 ustawy z dnia 16 kwietnia 2004 r. o zmianie ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1203, 1596 i 2533, z 2005 r. poz. 290, z 2008 r. poz. 299 oraz z 2010 r. poz. 143),
     - **c)** pokrycia kosztów zakupu lokalu mieszkalnego pozyskanego przez Agencję w przypadku braku w zasobie mieszkaniowym i internatowym Agencji, w miejscowości wybranej przez osoby, o których mowa w art. 23 ust. 3 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, lokalu mieszkalnego odpowiadającego uprawnieniom żołnierza w dniu jego śmierci,
     - **d)** pokrycia kosztów leasingu lub najmu lokali mieszkalnych przydzielanych żołnierzom zawodowym na podstawie decyzji o przydziale lokali mieszkalnych, pomniejszonych o przychody należne z tytułu opłat za używanie kwater,
     - **e)** pokrycia kosztów remontu kwatery wraz z pomieszczeniami przynależnymi oraz instalacji i urządzeń technicznych należących do ich wyposażenia,
@@ -486,11 +484,11 @@ Art. 102–119. (pominięte)
 **Art. 33.** Agencja tworzy następujące fundusze:
 
 - **1)** fundusze własne:
-    - **a)** fundusz zasobowy będący kapitałem zakładowym w wartości mienia Skarbu Państwa, o którym mowa w art. 1 pkt 2, przekazanego Agencji do zagospodarowania,
-    - **b)** fundusz rezerwowy tworzony z zysku netto Agencji;
+    - **a)** fundusz zasobowy będący kapitałem zakładowym – w wartości mienia Skarbu Państwa, o którym mowa w art. 1 pkt 2, przekazanego Agencji do zagospodarowania,
+    - **b)** fundusz rezerwowy – tworzony z zysku netto Agencji;
 
 - **2)** fundusze specjalne:
-    - **a)** fundusz remontowy tworzony w wartości odpisów na fundusz remontowy odnoszonych w ciężar kosztów,
+    - **a)** fundusz remontowy – tworzony w wartości odpisów na fundusz remontowy odnoszonych w ciężar kosztów,
     - **b)** inne fundusze.
 
 **Art. 34.** Fundusz zasobowy ulega:
@@ -504,7 +502,7 @@ Art. 102–119. (pominięte)
     - **f)** wartość rozwiązanych odpisów z tytułu trwałej utraty wartości składników mienia, w tym akcji lub udziałów w spółkach i społecznych inicjatywach mieszkaniowych, stanowiących własność Skarbu Państwa, w przypadku ustania przyczyny, dla której ich dokonano;
 
 - **2)** zmniejszeniu o:
-    - **a)** wartość mienia stanowiącego własność Skarbu Państwa sprzedanego, zlikwidowanego albo przekazanego, w tym nieodpłatnie, przez Agencję, w tym wartość umorzonych akcji lub udziałów,
+    - **a)** wartość mienia stanowiącego własność Skarbu Państwa – sprzedanego, zlikwidowanego albo przekazanego, w tym nieodpłatnie, przez Agencję, w tym wartość umorzonych akcji lub udziałów,
     - **b)** skutki aktualizacji wartości aktywów znajdujących odzwierciedlenie w funduszu zasobowym,
     - **c)** umorzenia składników majątkowych zaliczonych do aktywów trwałych stanowiących własność Skarbu Państwa,
     - **d)** wartość odpisów z tytułu trwałej utraty wartości składników mienia, w tym akcji lub udziałów w spółkach i społecznych inicjatywach mieszkaniowych, stanowiących własność Skarbu Państwa,
@@ -546,7 +544,7 @@ Art. 102–119. (pominięte)
 
 1. Zwalnia się Agencję z opłat sądowych w sprawach cywilnych dotyczących mienia, o którym mowa w art. 1 pkt 2 i 3.
 
-2. Do zamówień udzielanych Agencji przez Ministra Obrony Narodowej nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620).
+2. Do zamówień udzielanych Agencji przez Ministra Obrony Narodowej nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620).
 
 **Art. 39.** Agencja może zaciągać kredyty po uzyskaniu zgody Ministra Obrony Narodowej wydanej w porozumieniu z ministrem właściwym do spraw finansów publicznych.
 
@@ -556,14 +554,14 @@ Art. 102–119. (pominięte)
 - **2)** sposób i tryb dokonywania zmian w planach finansowych,
 - **3)** sposób realizacji planów finansowych, dokonywania rozliczeń wewnętrznych oraz zaciągania zobowiązań,
 - **4)** sposób rozliczania kosztów działalności,
-- **5)** sposób gospodarowania środkami finansowymi biorąc pod uwagę potrzebę przestrzegania zasad celowego i oszczędnego dokonywania wydatków oraz terminowej realizacji zadań.
+- **5)** sposób gospodarowania środkami finansowymi – biorąc pod uwagę potrzebę przestrzegania zasad celowego i oszczędnego dokonywania wydatków oraz terminowej realizacji zadań.
 
 **Art. 41.**
 
 1. Należności pieniężne przysługujące Agencji mogą być umarzane w całości lub w części w razie wystąpienia co najmniej jednego z następujących przypadków:
 
-- **1)** dłużnik, będący osobą fizyczną, zmarł i do dnia śmierci nie ustalono składników majątkowych lub ustalono składniki majątkowe, do których prawo ustało wraz ze śmiercią dłużnika lub posiadał wyłącznie składniki majątkowe niepodlegające egzekucji sądowej lub administracyjnej, na podstawie odpowiednio art. 829–833 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620) lub art. 8–10 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620), oraz przedmioty codziennego użytku domowego;
-- **2)** dłużnik, będący osobą fizyczną, posiada wyłącznie składniki majątkowe niepodlegające egzekucji sądowej lub administracyjnej, na podstawie odpowiednio art. 829–833 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego lub art. 8–10 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, oraz przedmioty codziennego użytku domowego albo egzekucja należności spowodowałaby istotne zagrożenie dla dalszej egzystencji osoby dłużnika lub członków jego rodziny;
+- **1)** dłużnik, będący osobą fizyczną, zmarł i do dnia śmierci nie ustalono składników majątkowych lub ustalono składniki majątkowe, do których prawo ustało wraz ze śmiercią dłużnika lub posiadał wyłącznie składniki majątkowe niepodlegające egzekucji sądowej lub administracyjnej, na podstawie odpowiednio art. 829–833 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620) lub art. 8–10 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620), oraz przedmioty codziennego użytku domowego;
+- **2)** dłużnik, będący osobą fizyczną, posiada wyłącznie składniki majątkowe niepodlegające egzekucji sądowej lub administracyjnej, na podstawie odpowiednio art. 829–833 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego lub art. 8–10 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, oraz przedmioty codziennego użytku domowego albo egzekucja należności spowodowałaby istotne zagrożenie dla dalszej egzystencji osoby dłużnika lub członków jego rodziny;
 - **3)** dłużnik został wykreślony z właściwego rejestru, a odpowiedzialność za zobowiązania podmiotu wykreślonego ponosi Skarb Państwa;
 - **4)** w stosunku do dłużnika zapadło prawomocne orzeczenie w postępowaniu upadłościowym świadczące o braku majątku dłużnika, a do zapłaty należności nie są zobowiązane osoby trzecie;
 - **5)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się kwoty wyższej od kosztów egzekucji tej należności lub postępowanie egzekucyjne okazało się nieskuteczne;
@@ -584,8 +582,8 @@ Art. 102–119. (pominięte)
 
 7. Organami właściwymi do umarzania, odraczania i rozkładania na raty należności pieniężnych są:
 
-- **1)** Prezes Agencji jeżeli łączna kwota należności głównej przysługującej Agencji od dłużnika jest większa niż 35 000 zł;
-- **2)** właściwi miejscowo i rzeczowo dyrektorzy oddziałów regionalnych Agencji w pozostałym zakresie.
+- **1)** Prezes Agencji – jeżeli łączna kwota należności głównej przysługującej Agencji od dłużnika jest większa niż 35 000 zł;
+- **2)** właściwi miejscowo i rzeczowo dyrektorzy oddziałów regionalnych Agencji – w pozostałym zakresie.
 
 8. Jeżeli wniosek został złożony przez kilka osób solidarnie zobowiązanych, a kwota należności głównej obciążająca każdą z nich uzasadnia właściwość organów różnego stopnia, sprawę rozpoznaje Prezes Agencji.
 
@@ -603,7 +601,7 @@ Art. 102–119. (pominięte)
 
 1. Roszczenia Agencji o charakterze administracyjnoprawnym ulegają przedawnieniu z upływem 3 lat od dnia, w którym roszczenie stało się wymagalne.
 
-2. Do przedawnienia roszczeń administracyjnoprawnych Agencji w zakresie nieuregulowanym niniejszą ustawą stosuje się odpowiednio przepisy księgi pierwszej tytułu VI ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+2. Do przedawnienia roszczeń administracyjnoprawnych Agencji w zakresie nieuregulowanym niniejszą ustawą stosuje się odpowiednio przepisy księgi pierwszej tytułu VI ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 #### Rozdział 4 Gospodarowanie mieniem przez Agencję
 
@@ -612,12 +610,12 @@ Art. 102–119. (pominięte)
 1. Mienie:
 
 - **1)** Skarbu Państwa będące do dnia przekazania w trwałym zarządzie jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, a także inne mienie będące we władaniu tych jednostek oraz dobra niematerialne o charakterze majątkowym, niewykorzystywane do realizacji ich zadań,
-- **2)** pozostałe po likwidacji państwowych osób prawnych, dla których organem założycielskim lub organem nadzoru był Minister Obrony Narodowej podlega przekazaniu na rzecz Agencji przez Ministra Obrony Narodowej.
+- **2)** pozostałe po likwidacji państwowych osób prawnych, dla których organem założycielskim lub organem nadzoru był Minister Obrony Narodowej – podlega przekazaniu na rzecz Agencji przez Ministra Obrony Narodowej.
 
 2. Mienie:
 
 - **1)** Skarbu Państwa będące do dnia przekazania w trwałym zarządzie jednostek organizacyjnych podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych, a także inne mienie będące we władaniu tych jednostek oraz dobra niematerialne o charakterze majątkowym, niewykorzystywane do realizacji ich zadań,
-- **2)** pozostałe po likwidacji państwowych osób prawnych, dla których organem założycielskim lub organem nadzoru był minister właściwy do spraw wewnętrznych może, po uzgodnieniu z Prezesem Agencji, podlegać przekazaniu na rzecz Agencji przez ministra właściwego do spraw wewnętrznych.
+- **2)** pozostałe po likwidacji państwowych osób prawnych, dla których organem założycielskim lub organem nadzoru był minister właściwy do spraw wewnętrznych – może, po uzgodnieniu z Prezesem Agencji, podlegać przekazaniu na rzecz Agencji przez ministra właściwego do spraw wewnętrznych.
 
 3. Przeznaczone do nieodpłatnego przekazania siłom zbrojnym państw obcych mienie ruchome Skarbu Państwa lub produkty podwójnego zastosowania w rozumieniu art. 2 pkt 1 rozporządzenia 2021/821, i uzbrojenie, o którym mowa w art. 3 pkt 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa, są przekazywane Agencji przez Ministra Obrony Narodowej lub ministra właściwego do spraw wewnętrznych.
 
@@ -635,7 +633,7 @@ Art. 102–119. (pominięte)
 
 1. Minister Obrony Narodowej może przekazać Agencji kompleks magazynowy, uwzględniając potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej i możliwości Agencji.
 
-2. Przekazanie kompleksu magazynowego następuje w drodze umowy każdorazowo zawieranej między Ministrem Obrony Narodowej a Agencją, z dniem podpisania protokołu zdawczo-odbiorczego, o którym mowa w art. 47. Umowa określa w szczególności koszty przejęcia kompleksu magazynowego, w tym koszty audytów obiektów, dostosowania do wymogów niezbędnych do uzyskania koncesji, określonych odrębnymi przepisami, koncesji, w tym koszty zaświadczeń i opinii oraz utrzymania, a w odniesieniu do kompleksu magazynowego położonego na terenach lasów w rozumieniu art. 3 ustawy z dnia 28 września 1991 r. o lasach także koszty przywrócenia do stanu pierwotnego, zgodnie z wymogami zawartych umów.
+2. Przekazanie kompleksu magazynowego następuje w drodze umowy każdorazowo zawieranej między Ministrem Obrony Narodowej a Agencją, z dniem podpisania protokołu zdawczo-odbiorczego, o którym mowa w art. 47. Umowa określa w szczególności koszty przejęcia kompleksu magazynowego, w tym koszty audytów obiektów, dostosowania do wymogów niezbędnych do uzyskania koncesji, określonych odrębnymi przepisami, koncesji, w tym koszty zaświadczeń i opinii oraz utrzymania, a w odniesieniu do kompleksu magazynowego położonego na terenach lasów w rozumieniu art. 3 ustawy z dnia 28 września 1991 r. o lasach – także koszty przywrócenia do stanu pierwotnego, zgodnie z wymogami zawartych umów.
 
 3. Z dniem przekazania kompleksu magazynowego położonego na terenach lasów Agencja staje się stroną umowy zawartej między Ministrem Obrony Narodowej a Dyrektorem Generalnym Lasów Państwowych w miejsce Ministra Obrony Narodowej.
 
@@ -702,7 +700,7 @@ Art. 102–119. (pominięte)
 
 1. Minister Obrony Narodowej może, na podstawie umowy, użyczyć Agencji nieruchomości lub ich części będące w trwałym zarządzie jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych oraz innego mienia będącego we władaniu tych jednostek, niewykorzystywanego przez te jednostki do realizacji ich zadań, a niezbędnego do celów obronności lub bezpieczeństwa państwa.
 
-2. Do użyczenia, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, o ile przepisy niniejszej ustawy nie stanowią inaczej.
+2. Do użyczenia, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, o ile przepisy niniejszej ustawy nie stanowią inaczej.
 
 3. Do sposobu i trybu przekazywania mienia w użyczenie Agencji stosuje się odpowiednio przepisy art. 44 ust. 1 i 3 oraz art. 46–48.
 
@@ -717,7 +715,7 @@ Art. 102–119. (pominięte)
     - **d)** kosztów rozbiórki obiektów budowlanych, które ze względów technicznych nie nadają się do dalszego użytkowania,
     - **e)** kosztów przejęcia kompleksu magazynowego,
 
-- **4)** elementy, które powinien zawierać protokół zdawczo-odbiorczy uwzględniając zasady prawidłowej ewidencji mienia.
+- **4)** elementy, które powinien zawierać protokół zdawczo-odbiorczy – uwzględniając zasady prawidłowej ewidencji mienia.
 
 **Art. 52.**
 
@@ -740,7 +738,7 @@ Art. 102–119. (pominięte)
 
 - **1)** działów ewidencyjnych,
 - **2)** dokumentów stanowiących podstawę zapisów ewidencyjnych,
-- **3)** danych ujmowanych w ewidencji poszczególnych działów uwzględniając informacje ujęte w dokumentach potwierdzających przychody i rozchody mienia.
+- **3)** danych ujmowanych w ewidencji poszczególnych działów – uwzględniając informacje ujęte w dokumentach potwierdzających przychody i rozchody mienia.
 
 **Art. 53.**
 
@@ -749,7 +747,7 @@ Art. 102–119. (pominięte)
 - **1)** zarządzanie nieruchomościami będącymi w trwałym zarządzie jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, niewykorzystywanymi przez te jednostki,
 - **2)** realizację dostaw, w tym dostaw w ramach prowadzonych inwestycji wojskowych,
 - **3)** wykonywanie jako inwestor powierzonych jej przez Ministra Obrony Narodowej zadań w zakresie inwestycji wynikających z potrzeb Sił Zbrojnych Rzeczypospolitej Polskiej,
-- **4)** świadczenie usług, w tym usług najmu, wypoczynkowych, konferencyjnych i szkoleniowych, ochrony obiektów oraz robót budowlanych i remontowych na rzecz Ministra Obrony Narodowej oraz jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych przy czym koszty umów realizowanych na rzecz jednostek nadzorowanych przez Ministra Obrony Narodowej ponoszą te jednostki, a w przypadku jednostek podległych Ministrowi Obrony Narodowej koszty umów ponoszą właściwi dysponenci środków budżetowych.
+- **4)** świadczenie usług, w tym usług najmu, wypoczynkowych, konferencyjnych i szkoleniowych, ochrony obiektów oraz robót budowlanych i remontowych na rzecz Ministra Obrony Narodowej oraz jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych – przy czym koszty umów realizowanych na rzecz jednostek nadzorowanych przez Ministra Obrony Narodowej ponoszą te jednostki, a w przypadku jednostek podległych Ministrowi Obrony Narodowej koszty umów ponoszą właściwi dysponenci środków budżetowych.
 
 1a. Minister Obrony Narodowej oraz jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane mogą udzielać Agencji zaliczek na poczet realizacji umów, o których mowa w ust. 1. Zasady udzielania zaliczek, rozliczania, formy zabezpieczenia oraz ich wniesienia i zwrotu określa się w umowach.
 
@@ -820,8 +818,8 @@ Art. 102–119. (pominięte)
 
 2. W zakresie gospodarowania nieruchomościami powierzonymi Skarbu Państwa, przysługują:
 
-- **1)** Prezesowi Agencji uprawnienia wojewody;
-- **2)** dyrektorom oddziałów regionalnych Agencji uprawnienia starosty wykonującego zadania z zakresu administracji rządowej.
+- **1)** Prezesowi Agencji – uprawnienia wojewody;
+- **2)** dyrektorom oddziałów regionalnych Agencji – uprawnienia starosty wykonującego zadania z zakresu administracji rządowej.
 
 3. W stosunku do nieruchomości Skarbu Państwa powierzonych Agencji Prezes Agencji oraz dyrektorzy oddziałów regionalnych Agencji nie wykonują uprawnień dotyczących wywłaszczania nieruchomości.
 
@@ -842,7 +840,7 @@ Art. 102–119. (pominięte)
 6. Należne Skarbowi Państwa:
 
 - **1)** dywidendy ze spółek określonych w wykazie, o którym mowa w ust. 4a,
-- **2)** przychody ze zbycia akcji albo udziałów spółek określonych w wykazie, o którym mowa w ust. 4a przeznacza się na realizację zadań Agencji.
+- **2)** przychody ze zbycia akcji albo udziałów spółek określonych w wykazie, o którym mowa w ust. 4a – przeznacza się na realizację zadań Agencji.
 
 7. (uchylony)
 
@@ -853,7 +851,7 @@ Art. 102–119. (pominięte)
 2. Należne Skarbowi Państwa:
 
 - **1)** dywidendy ze spółek, o których mowa w ust. 1,
-- **2)** przychody ze zbycia akcji i udziałów w spółkach, o których mowa w ust. 1 stanowią przychody Funduszu Wsparcia Sił Zbrojnych.
+- **2)** przychody ze zbycia akcji i udziałów w spółkach, o których mowa w ust. 1 – stanowią przychody Funduszu Wsparcia Sił Zbrojnych.
 
 **Art. 62.**
 
@@ -871,7 +869,7 @@ Art. 102–119. (pominięte)
 - **2)** przygotowania, prowadzenia i rozliczania zadań inwestycyjnych, w tym projektowania, budowania, sprawowania nadzoru autorskiego, przebudowy i remontów oraz dostaw i usług związanych z tymi zadaniami inwestycyjnymi;
 - **3)** przygotowania, prowadzenia i rozliczania usług najmu, wypoczynkowych, konferencyjnych i szkoleniowych, ochrony obiektów oraz robót budowlanych i remontowych, a także dostaw i usług z tym związanych.
 
-1a. Do czynności, o których mowa w ust. 1, dokonywanych przez jednoosobową spółkę Skarbu Państwa reprezentowanego przez Agencję, jeżeli ponad 80 % działalności takiej spółki jest wykonywane na rzecz Agencji, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych.
+1a. Do czynności, o których mowa w ust. 1, dokonywanych przez jednoosobową spółkę Skarbu Państwa reprezentowanego przez Agencję, jeżeli ponad 80 % działalności takiej spółki jest wykonywane na rzecz Agencji, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 2. (uchylony)
 
@@ -918,7 +916,7 @@ Art. 102–119. (pominięte)
 - **2)** prowadzeniu obsługi administracyjnej i eksploatacyjnej lokali mieszkalnych;
 - **3)** zasiedlaniu i opróżnianiu lokali mieszkalnych, w tym kwater;
 - **4)** ustalaniu i pobieraniu opłat za używanie lokali mieszkalnych, w tym kwater, oraz opłat pośrednich z tytułu ich zajmowania, a także rozliczaniu opłat pośrednich;
-- **5)** przeprowadzaniu kontroli stanu technicznego i przydatności do użytkowania, napraw, konserwacji i remontów lokali mieszkalnych stanowiących własność Skarbu Państwa, przekazanych Agencji przez Ministra Obrony Narodowej, pozyskanych w drodze realizacji inwestycji własnych oraz umów sprzedaży, a także pozyskanych w drodze darowizny, spadku albo zapisu w zakresie obciążającym Agencję;
+- **5)** przeprowadzaniu kontroli stanu technicznego i przydatności do użytkowania, napraw, konserwacji i remontów lokali mieszkalnych stanowiących własność Skarbu Państwa, przekazanych Agencji przez Ministra Obrony Narodowej, pozyskanych w drodze realizacji inwestycji własnych oraz umów sprzedaży, a także pozyskanych w drodze darowizny, spadku albo zapisu – w zakresie obciążającym Agencję;
 - **6)** wykonywaniu przeglądów technicznych, napraw, konserwacji i remontów części wspólnych w budynkach stanowiących wyłączną własność Skarbu Państwa reprezentowanego przez Agencję;
 - **7)** ustalaniu kosztów napraw uszkodzeń i wymiany wyposażenia lokali mieszkalnych oraz znajdujących się w nich urządzeń, a także pomieszczeń i urządzeń służących do wspólnego użytku.
 
@@ -926,7 +924,7 @@ Art. 102–119. (pominięte)
 
 **Art. 66.**
 
-1. Dyrektor oddziału regionalnego Agencji, uwzględniając faktyczne potrzeby żołnierzy zawodowych w garnizonie lub miejscowości, w których żołnierze zawodowi pełnią służbę, oraz miejscowościach pobliskich do dnia 30 czerwca i dnia 31 grudnia przygotowuje wykaz kwater.
+1. Dyrektor oddziału regionalnego Agencji, uwzględniając faktyczne potrzeby żołnierzy zawodowych w garnizonie lub miejscowości, w których żołnierze zawodowi pełnią służbę, oraz miejscowościach pobliskich – do dnia 30 czerwca i dnia 31 grudnia – przygotowuje wykaz kwater.
 
 2. W wykazie kwater umieszcza się lokale mieszkalne:
 
@@ -1053,8 +1051,8 @@ Art. 102–119. (pominięte)
 
 2. Od wartości rynkowej lokalu mieszkalnego dla osoby uprawnionej do nabycia stosuje się pomniejszenia o:
 
-- **1)** 95 % żołnierzom służby zawodowej, którzy nabyli prawo do emerytury wojskowej, żołnierzom zwolnionym z zawodowej służby wojskowej na skutek upływu okresu pozostawania w dyspozycji, emerytom wojskowym, osobom uprawnionym do wojskowej renty inwalidzkiej oraz członkom rodziny, o których mowa w art. 26 ust. 3 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, wspólnie zamieszkującym z żołnierzem, emerytem wojskowym lub rencistą wojskowym w dniu jego śmierci,
-- **2)** 90 % osobom niewymienionym w pkt 1 z tym że pomniejszenie nie obejmuje przypadających na lokal mieszkalny nakładów poniesionych przez Agencję w ciągu ostatnich 3 lat przed dniem sprzedaży na modernizację budynku, w którym jest położony sprzedawany lokal mieszkalny.
+- **1)** 95 % – żołnierzom służby zawodowej, którzy nabyli prawo do emerytury wojskowej, żołnierzom zwolnionym z zawodowej służby wojskowej na skutek upływu okresu pozostawania w dyspozycji, emerytom wojskowym, osobom uprawnionym do wojskowej renty inwalidzkiej oraz członkom rodziny, o których mowa w art. 26 ust. 3 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, wspólnie zamieszkującym z żołnierzem, emerytem wojskowym lub rencistą wojskowym w dniu jego śmierci,
+- **2)** 90 % – osobom niewymienionym w pkt 1 – z tym że pomniejszenie nie obejmuje przypadających na lokal mieszkalny nakładów poniesionych przez Agencję w ciągu ostatnich 3 lat przed dniem sprzedaży na modernizację budynku, w którym jest położony sprzedawany lokal mieszkalny.
 
 3. Pomniejszeń, o których mowa w ust. 2, nie stosuje się do sprzedaży prawa własności lub użytkowania wieczystego, w przypadku posiadania przez Agencję takiego prawa, ułamkowej części gruntu przypadającej na sprzedawany lokal mieszkalny.
 
@@ -1091,7 +1089,7 @@ Art. 102–119. (pominięte)
 - **3)** sporządzanie i uzupełnianie wykazu lokali mieszkalnych przeznaczonych do sprzedaży oraz podawanie go do wiadomości publicznej,
 - **4)** zakres protokołu uzgodnień warunków sprzedaży lokalu mieszkalnego,
 - **5)** terminy wnoszenia należności z tytułu sprzedaży oraz terminy wnoszenia rat z tytułu sprzedaży lokali mieszkalnych wraz z oprocentowaniem,
-- **6)** wzór wniosku o nabycie lokalu mieszkalnego biorąc pod uwagę konieczność zapewnienia sprawnego postępowania w tej sprawie, a w odniesieniu do wniosku o nabycie lokalu mieszkalnego mając na względzie, aby zawierał on jedynie informacje niezbędne do dokonania sprzedaży.
+- **6)** wzór wniosku o nabycie lokalu mieszkalnego – biorąc pod uwagę konieczność zapewnienia sprawnego postępowania w tej sprawie, a w odniesieniu do wniosku o nabycie lokalu mieszkalnego mając na względzie, aby zawierał on jedynie informacje niezbędne do dokonania sprzedaży.
 
 **Art. 84.**
 
@@ -1104,7 +1102,7 @@ Art. 102–119. (pominięte)
 - **1)** urządzenia oraz pomieszczenia lub budynki wchodzące w skład infrastruktury technicznej związanej z budynkami mieszkalnymi, a także grunt niezbędny do właściwego ich funkcjonowania;
 - **2)** lokale użytkowe zbędne do realizacji zadań Agencji położone w budynku wspólnoty, takie jak strychy, wózkarnie, piwnice i inne pomieszczenia użytkowe po urządzeniach technicznych.
 
-**Art. 86.** W sprawach dotyczących sprzedaży lokali mieszkalnych, nieuregulowanych w niniejszej ustawie, stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688) i ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+**Art. 86.** W sprawach dotyczących sprzedaży lokali mieszkalnych, nieuregulowanych w niniejszej ustawie, stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688) i ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 #### Rozdział 6 Gospodarowanie lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji
 
@@ -1115,7 +1113,7 @@ Art. 102–119. (pominięte)
 - **1)** żołnierzy służby stałej, którzy w dniu 31 grudnia 2001 r. pełnili zawodową służbę wojskową w jednostkach organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych albo pozostawali w dyspozycji tego ministra,
 - **2)** emerytów wojskowych i rencistów wojskowych, którzy zostali zwolnieni z zawodowej służby wojskowej z jednostek organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych,
 - **3)** członków rodziny osób, o których mowa w pkt 1 i 2, wymienionych w art. 26 ust. 3 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, wspólnie zamieszkujących z żołnierzem służby stałej, emerytem wojskowym lub rencistą wojskowym w dniu jego śmierci,
-- **4)** osób innych niż wymienione w pkt 1 i 2, które zajmują lokal mieszkalny znajdujący się w zasobie mieszkaniowym ministra właściwego do spraw wewnętrznych, na podstawie decyzji o przydziale lub umowy najmu na czas nieoznaczony wykonuje państwowa jednostka budżetowa Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji podległa ministrowi właściwemu do spraw wewnętrznych.
+- **4)** osób innych niż wymienione w pkt 1 i 2, które zajmują lokal mieszkalny znajdujący się w zasobie mieszkaniowym ministra właściwego do spraw wewnętrznych, na podstawie decyzji o przydziale lub umowy najmu na czas nieoznaczony – wykonuje państwowa jednostka budżetowa – Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji podległa ministrowi właściwemu do spraw wewnętrznych.
 
 2. W zakresie gospodarowania nieruchomościami uprawnienia przewidziane dla dyrektorów oddziałów regionalnych Agencji w art. 59 ust. 2 pkt 2 przysługują odpowiednio Dyrektorowi Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji.
 
@@ -1151,7 +1149,7 @@ Art. 102–119. (pominięte)
 - **3)** sporządzanie i uzupełnianie wykazu lokali mieszkalnych przeznaczonych do sprzedaży oraz podawanie go do wiadomości publicznej,
 - **4)** zakres protokołu uzgodnień warunków sprzedaży lokalu mieszkalnego,
 - **5)** terminy wnoszenia należności z tytułu sprzedaży oraz terminy wnoszenia rat z tytułu sprzedaży lokali mieszkalnych wraz z oprocentowaniem,
-- **6)** wzór wniosku o nabycie lokalu mieszkalnego biorąc pod uwagę konieczność zapewnienia sprawnego postępowania w tej sprawie, a w odniesieniu do wniosku o nabycie lokalu mieszkalnego mając na względzie, aby zawierał on jedynie informacje niezbędne do dokonania sprzedaży.
+- **6)** wzór wniosku o nabycie lokalu mieszkalnego – biorąc pod uwagę konieczność zapewnienia sprawnego postępowania w tej sprawie, a w odniesieniu do wniosku o nabycie lokalu mieszkalnego mając na względzie, aby zawierał on jedynie informacje niezbędne do dokonania sprzedaży.
 
 **Art. 89.** (uchylony)
 
@@ -1159,7 +1157,7 @@ Art. 102–119. (pominięte)
 
 **Art. 90.**
 
-1. W przypadku klęski żywiołowej, katastrofy naturalnej, awarii technicznej lub incydentu w cyberprzestrzeni występujących na terytorium Rzeczypospolitej Polskiej mienie Skarbu Państwa będące w trwałym zarządzie jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, a także inne mienie będące we władaniu tych jednostek, niewykorzystywane do realizacji ich zadań, może być przekazane nieodpłatnie, oddane w użytkowanie, najem, dzierżawę, trwały zarząd, użyczone lub oddane do korzystania na podstawie innego stosunku prawnego jednostkom organizacyjnym, osobom prawnym lub osobom fizycznym w celu likwidacji skutków tej klęski żywiołowej, katastrofy naturalnej, awarii technicznej lub tego incydentu w cyberprzestrzeni bez pośrednictwa Agencji.
+1. W przypadku klęski żywiołowej, katastrofy naturalnej, awarii technicznej lub incydentu w cyberprzestrzeni występujących na terytorium Rzeczypospolitej Polskiej mienie Skarbu Państwa będące w trwałym zarządzie jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, a także inne mienie będące we władaniu tych jednostek, niewykorzystywane do realizacji ich zadań, może być przekazane nieodpłatnie, oddane w użytkowanie, najem, dzierżawę, trwały zarząd, użyczone lub oddane do korzystania na podstawie innego stosunku prawnego jednostkom organizacyjnym, osobom prawnym lub osobom fizycznym w celu likwidacji skutków tej klęski żywiołowej, katastrofy naturalnej, awarii technicznej lub tego incydentu w cyberprzestrzeni – bez pośrednictwa Agencji.
 
 2. W przypadkach, o których mowa w ust. 1, zgodę na przekazanie mienia wyraża, w drodze decyzji, Minister Obrony Narodowej albo upoważniony przez niego organ wojskowy.
 
@@ -1167,8 +1165,8 @@ Art. 102–119. (pominięte)
 
 1. Minister Obrony Narodowej może nieodpłatnie przekazywać na własność, bez pośrednictwa Agencji, mienie ruchome Skarbu Państwa, o którym mowa w art. 1 pkt 2 lit. a, w tym produkty lecznicze i wyroby medyczne oraz środki biobójcze i suplementy diety, będące do dnia przekazania we władaniu jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych:
 
-- **1)** państwowym jednostkom organizacyjnym, jednostkom samorządu terytorialnego, państwowym i samorządowym instytucjom kultury, muzeom, państwowym i samorządowym szkołom publicznym i uczelniom publicznym na cele związane z ich działalnością,
-- **2)** organizacjom pozarządowym prowadzącym działalność pożytku publicznego, ze szczególnym uwzględnieniem zadań związanych z obronnością państwa i działalnością Sił Zbrojnych Rzeczypospolitej Polskiej oraz porządkiem i bezpieczeństwem publicznym na cele związane z ich działalnością statutową posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej, na wniosek tych podmiotów.
+- **1)** państwowym jednostkom organizacyjnym, jednostkom samorządu terytorialnego, państwowym i samorządowym instytucjom kultury, muzeom, państwowym i samorządowym szkołom publicznym i uczelniom publicznym – na cele związane z ich działalnością,
+- **2)** organizacjom pozarządowym prowadzącym działalność pożytku publicznego, ze szczególnym uwzględnieniem zadań związanych z obronnością państwa i działalnością Sił Zbrojnych Rzeczypospolitej Polskiej oraz porządkiem i bezpieczeństwem publicznym – na cele związane z ich działalnością statutową – posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej, na wniosek tych podmiotów.
 
 1a. Państwowe instytucje kultury, których organizatorem jest Minister Obrony Narodowej, mają pierwszeństwo w pozyskiwaniu mienia z przeznaczeniem na cele statutowe.
 
@@ -1202,23 +1200,23 @@ Art. 102–119. (pominięte)
 
 2. Lotniska lub lądowiska wojskowe, które powinny zachować swój lotniczy charakter, przekazuje się uprawnionym podmiotom:
 
-- **1)** w drodze darowizny jeżeli są trwale niewykorzystywane do realizacji zadań przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane;
-- **2)** w drodze użyczenia na co najmniej 30 lat jeżeli są częściowo lub czasowo niewykorzystywane do realizacji zadań przez te jednostki.
+- **1)** w drodze darowizny – jeżeli są trwale niewykorzystywane do realizacji zadań przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane;
+- **2)** w drodze użyczenia na co najmniej 30 lat – jeżeli są częściowo lub czasowo niewykorzystywane do realizacji zadań przez te jednostki.
 
 3. W przypadku lotnisk lub lądowisk wojskowych, które powinny zachować swój lotniczy charakter, ich części niezbędne do realizacji zadań instytucji zapewniających służby ruchu lotniczego mogą być oddane tym instytucjom w użytkowanie wieczyste.
 
 4. Minister Obrony Narodowej i minister właściwy do spraw transportu określą, w drodze rozporządzenia, wykaz nieruchomości, o których mowa w ust. 1, w tym części lotnisk i lądowisk wojskowych niezbędnych do realizacji zadań instytucji zapewniających służby ruchu lotniczego, z podziałem na lotniska albo lądowiska:
 
 - **1)** trwale niewykorzystywane do realizacji zadań przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane, które powinny zachować swój lotniczy charakter,
-- **2)** częściowo lub czasowo niewykorzystywane do realizacji zadań przez te jednostki, które powinny zachować swój lotniczy charakter wraz z oznaczeniem tych nieruchomości lub ich części zgodnie z ewidencją gruntów i budynków oraz ich powierzchnią, a także numerem księgi wieczystej i oznaczeniem sądu rejonowego prowadzącego tę księgę, uwzględniając potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej.
+- **2)** częściowo lub czasowo niewykorzystywane do realizacji zadań przez te jednostki, które powinny zachować swój lotniczy charakter – wraz z oznaczeniem tych nieruchomości lub ich części zgodnie z ewidencją gruntów i budynków oraz ich powierzchnią, a także numerem księgi wieczystej i oznaczeniem sądu rejonowego prowadzącego tę księgę, uwzględniając potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 **Art. 95.**
 
 1. Nieruchomości Skarbu Państwa, stanowiące lotniska wojskowe lub ich części, trwale niewykorzystywane do realizacji zadań przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane, które powinny zachować swój lotniczy charakter, ujęte w wykazie wydanym na podstawie art. 94 ust. 4, właściwy wojewoda przekazuje w drodze darowizny następującym jednostkom samorządu terytorialnego właściwym ze względu na położenie lotniska wojskowego lub jego części:
 
-- **1)** gminie w celu założenia albo rozbudowy gminnego lotniska cywilnego użytku publicznego;
-- **2)** powiatowi w celu założenia albo rozbudowy powiatowego lotniska cywilnego użytku publicznego;
-- **3)** województwu w celu założenia albo rozbudowy regionalnego albo krajowego lotniska cywilnego użytku publicznego.
+- **1)** gminie – w celu założenia albo rozbudowy gminnego lotniska cywilnego użytku publicznego;
+- **2)** powiatowi – w celu założenia albo rozbudowy powiatowego lotniska cywilnego użytku publicznego;
+- **3)** województwu – w celu założenia albo rozbudowy regionalnego albo krajowego lotniska cywilnego użytku publicznego.
 
 2. Przekazanie, o którym mowa w ust. 1, następuje na wniosek właściwej jednostki samorządu terytorialnego o przekazanie jej nieruchomości Skarbu Państwa złożony do ministra właściwego do spraw transportu. We wniosku zamieszcza się dane dotyczące wnioskującej jednostki samorządu terytorialnego i nieruchomości, o otrzymanie której ubiega się jednostka samorządu terytorialnego, oraz o rodzaju planowanej działalności lotniczej na tym lotnisku.
 
@@ -1273,10 +1271,10 @@ Art. 102–119. (pominięte)
 
 1. Nieruchomości Skarbu Państwa, stanowiące lotniska wojskowe lub ich części, częściowo lub czasowo niewykorzystywane do realizacji zadań przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane, ujęte w wykazie wydanym na podstawie art. 94 ust. 4, właściwy wojewoda, na wniosek następujących jednostek samorządu terytorialnego właściwych ze względu na położenie lotniska wojskowego lub jego części albo instytucji zapewniających służby ruchu lotniczego, przekazuje w drodze użyczenia co najmniej na lat 30:
 
-- **1)** gminie w celu założenia albo rozbudowy gminnego lotniska cywilnego użytku publicznego;
-- **2)** powiatowi w celu założenia albo rozbudowy powiatowego lotniska cywilnego użytku publicznego;
-- **3)** województwu w celu założenia albo rozbudowy regionalnego albo krajowego lotniska cywilnego użytku publicznego;
-- **4)** instytucjom zapewniającym służby ruchu lotniczego na potrzeby realizacji ich zadań.
+- **1)** gminie – w celu założenia albo rozbudowy gminnego lotniska cywilnego użytku publicznego;
+- **2)** powiatowi – w celu założenia albo rozbudowy powiatowego lotniska cywilnego użytku publicznego;
+- **3)** województwu – w celu założenia albo rozbudowy regionalnego albo krajowego lotniska cywilnego użytku publicznego;
+- **4)** instytucjom zapewniającym służby ruchu lotniczego – na potrzeby realizacji ich zadań.
 
 2. Do lotnisk, o których mowa w ust. 1, przepisy art. 95 ust. 2–5, art. 96 oraz art. 98 ust. 2–5 i 7 stosuje się odpowiednio.
 
@@ -1307,7 +1305,7 @@ Art. 102–119. (pominięte)
 
 1. Pracownicy Agencji Mienia Wojskowego, o której mowa w art. 120 ust. 1 pkt 2, z dniem 1 października 2015 r. stają się pracownikami Agencji.
 
-2. Do pracowników Agencji Mienia Wojskowego, o której mowa w art. 120 ust. 1 pkt 2, stosuje się przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm. ).
+2. Do pracowników Agencji Mienia Wojskowego, o której mowa w art. 120 ust. 1 pkt 2, stosuje się przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm. ).
 
 **Art. 123.**
 

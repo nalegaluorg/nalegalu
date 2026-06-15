@@ -8,7 +8,7 @@ pos: 1226
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o kierujących pojazdami
@@ -45,6 +45,11 @@ Art. 125–127. (pominięte)
 2. Zadania samorządu województwa, o których mowa w art. 10 ust. 3, art. 18 ust. 3, art. 58 ust. 2, art. 67 ust. 1, art. 69 ust. 1, art. 70 ust. 1, art. 71 ust. 1 i 2, art. 72 ust. 1 i 2, art. 77 ust. 2, art. 80 ust. 1–5, art. 85 ust. 3 i 8, art. 86 ust. 4, 5 i 7, art. 87 ust. 3, art. 88 ust. 1, 4, 6, 7 i 9, art. 96 ust. 3, art. 97 ust. 2, art. 99 ust. 5 i art. 103 ust. 6, stanowią zadania z zakresu administracji rządowej.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** kierowcy, kierującym lub o pojeździe określonego rodzaju – należy przez to rozumieć odpowiednio kierowcę, kierującego lub pojazd w rozumieniu przepisów ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251 oraz z 2025 r. poz. 820 i 1006);
+- **2)** (uchylony)
+- **3)** profilu kandydata na kierowcę – należy przez to rozumieć zestaw danych identyfikujących i opisujących osobę ubiegającą się o wydanie dokumentu stwierdzającego posiadanie uprawnienia do kierowania pojazdami utworzony, udostępniany, aktualizowany i archiwizowany w systemie teleinformatycznym;
+- **4)** profilu kierowcy zawodowego – należy przez to rozumieć zestaw danych identyfikujących i opisujących osobę ubiegającą się o wpis w prawie jazdy kodu 95, wydanie świadectwa kwalifikacji zawodowej i karty kwalifikacji kierowcy, zawierający informację o wykonaniu badań lekarskich i psychologicznych, utworzony, udostępniany, aktualizowany i archiwizowany w systemie teleinformatycznym.
 
 #### Rozdział 2 Osoby uprawnione do kierowania pojazdami
 
@@ -302,7 +307,23 @@ Art. 125–127. (pominięte)
 
 **Art. 10a.** Tymczasowe elektroniczne prawo jazdy jest udostępniane w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019), użytkownikowi aplikacji mObywatel, który:
 
+- **1)** został uwierzytelniony przy użyciu certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, albo certyfikatu ucznia, o którym mowa w art. 2 pkt 4 tej ustawy;
+- **2)** uzyskał pozytywny wynik egzaminu państwowego, o którym mowa w art. 49 ust. 1 pkt 1, albo osiągnął minimalny wiek wymagany do kierowania pojazdami odpowiedniej kategorii, jeżeli data uzyskania pozytywnego wyniku egzaminu państwowego jest wcześniejsza niż data osiągnięcia minimalnego wieku wymaganego do kierowania pojazdami odpowiedniej kategorii.
+
 **Art. 10b.** Tymczasowe elektroniczne prawo jazdy zawiera następujące dane:
+
+- **1)** imię (imiona) i nazwisko;
+- **2)** datę i miejsce urodzenia;
+- **3)** fotografię;
+- **4)** datę wydania;
+- **5)** datę ważności;
+- **6)** organ właściwy dla profilu kandydata na kierowcę;
+- **7)** numer PESEL;
+- **8)** numer tymczasowego elektronicznego prawa jazdy;
+- **9)** numer identyfikujący tymczasowe elektroniczne prawo jazdy;
+- **10)** kategorie uprawnień wraz z datami ich uzyskania i ważności;
+- **11)** wymagania lub ograniczenia, o których mowa w art. 13 ust. 4 i 5;
+- **12)** status tymczasowego elektronicznego prawa jazdy.
 
 **Art. 10c.** W celu umożliwienia utworzenia tymczasowego elektronicznego prawa jazdy egzaminator, bezpośrednio po zakończeniu egzaminu państwowego, o którym mowa w art. 49 ust. 1 pkt 1, z wynikiem pozytywnym, przekazuje właściwemu organowi wydającemu prawo jazdy informację o pozytywnym wyniku egzaminu państwowego, za pomocą systemu teleinformatycznego wojewódzkiego ośrodka ruchu drogowego, przez aktualizację profilu kandydata na kierowcę udostępnionego w systemie teleinformatycznym umożliwiającym realizację zadań organów właściwych do wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami, o którym mowa w art. 16a ust. 1.
 
@@ -552,6 +573,12 @@ Art. 125–127. (pominięte)
 
 **Art. 16a.** [1. Wytwórca praw jazdy, kart kwalifikacji kierowcy i pozwoleń na kierowanie tramwajem zapewnia system teleinformatyczny umożliwiający realizację zadań organów właściwych do wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami, o których mowa w art. 122 ust. 1, w tym w zakresie procesu wytwarzania, personalizacji i dystrybucji dokumentów związanych z realizacją tych zadań.] <1. Wytwórca praw jazdy, kart kwalifikacji kierowcy i pozwoleń na kierowanie tramwajem zapewnia system teleinformatyczny obsługujący proces wytwarzania, personalizacji i dystrybucji dokumentów zintegrowany z systemem teleinformatycznym obsługującym centralną ewidencję kierowców, w którym organ właściwy do wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami realizuje zadania, o których mowa w art. 122 ust. 1.> [2 System teleinformatyczny, o którym mowa w ust. 1, zapewnia integralność powiązania procesu wytwarzania dokumentów związanych z realizacją zadań, o których mowa w ust. 1, z danymi gromadzonymi w centralnej ewidencji kierowców, z uwzględnieniem referencyjności tych danych przy realizacji tych zadań.] <2. System teleinformatyczny, zapewniany przez wytwórcę praw jazdy, kart kwalifikacji kierowcy i pozwoleń na kierowanie tramwajem, pobiera dane niezbędne do procesu wytwarzania, personalizacji i dystrybucji dokumentów z centralnej ewidencji kierowców.> [3. System teleinformatyczny, o którym mowa w ust. 1, zapewnia co najmniej funkcjonalności spójne z systemem teleinformatycznym obsługującym centralną ewidencję kierowców.] [4. Minister właściwy do spraw informatyzacji nadzoruje interoperacyjność systemu teleinformatycznego, o którym mowa w ust. 1, z systemem teleinformatycznym obsługującym centralną ewidencję kierowców.] [5. Minister właściwy do spraw informatyzacji zawiera z wytwórcą praw jazdy, kart kwalifikacji kierowcy i pozwoleń na kierowanie tramwajem umowę regulującą:
 
+- **1)** zasady współpracy w zakresie:
+    - **a)** określenia charakteru i zakresu zmian dostosowujących system teleinformatyczny, o którym mowa w ust. 1, do zmian w systemie teleinformatycznym obsługującym centralną ewidencję kierowców,
+    - **b)** udostępniania ministrowi właściwemu do spraw informatyzacji informacji i doświadczenia technicznego, w tym dokumentacji, dotyczących systemu teleinformatycznego, o którym mowa w ust. 1, niezbędnych ministrowi do sprawowania nadzoru, o którym mowa w ust. 4;
+
+- **2)** odpłatności za realizację zmian oraz za udostępnienie informacji i doświadczenia technicznego, o których mowa w pkt 1.] [6. Koszty związane z zawarciem i realizacją umowy, o której mowa w ust. 5, są finansowane ze środków Funduszu – Centralna Ewidencja Pojazdów i Kierowców.]
+
 **Art. 17.**
 
 1. Kartę rowerową wydaje nieodpłatnie, za pisemną zgodą rodzica lub opiekuna:
@@ -713,6 +740,14 @@ Art. 125–127. (pominięte)
 **Art. 23a.** Osoba ubiegająca się o uzyskanie uprawnienia do kierowania motorowerem, pojazdem silnikowym lub uprawnienia do kierowania tramwajem, która uzyskała pozytywny wynik z części teoretycznej egzaminu państwowego jest zwolniona z odbywania zajęć, o których mowa odpowiednio w art. 23 ust. 2 pkt 1 lub ust. 5 pkt 1, oraz odpowiednio z części teoretycznej egzaminu wewnętrznego, o którym mowa w art. 23 ust. 4, lub części teoretycznej ćwiczeń sprawdzających, o których mowa w art. 23 ust. 5 pkt 3.
 
 **Art. 24.** Nauka jazdy jest prowadzona:
+
+- **1)** pojazdem:
+    - **a)** odpowiadającym wymaganiom określonym dla danej kategorii prawa jazdy lub dla pozwolenia na kierowanie tramwajem,
+    - **b)** oznakowanym kwadratową tablicą barwy niebieskiej z białą literą „L”,
+    - **c)** przystosowanym do nauki jazdy, zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 66 ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym,
+    - **d)** posiadającym adnotację w dokumencie stwierdzającym dopuszczenie do ruchu o spełnieniu wymagań, o których mowa w lit. a–c, dokonywaną przez odpowiedni organ, na podstawie pozytywnego wyniku badania technicznego przeprowadzonego przez stację kontroli pojazdów, o której mowa w art. 83 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym – nie dotyczy tramwaju;
+
+- **2)** pojazdem odpowiednio przystosowanym do rodzaju niepełnosprawności spełniającym warunki, o których mowa w pkt 1 lit. a i b – w przypadku szkolenia osoby niepełnosprawnej.
 
 **Art. 25.**
 
@@ -1803,6 +1838,11 @@ Art. 125–127. (pominięte)
 
 **Art. 59.** Egzaminator posiadający uprawnienie do egzaminowania w zakresie prawa jazdy kategorii:
 
+- **1)** B, C lub D oraz posiadający dodatkowo uprawnienia do kierowania pojazdami odpowiednio w zakresie prawa jazdy kategorii B+E, C+E, D+E – jest uprawniony do egzaminowania w zakresie prawa jazdy kategorii T oraz odpowiednio w zakresie prawa jazdy kategorii B+E, C1+E, C+E, D1+E lub D+E;
+- **2)** C lub D oraz posiadający dodatkowo uprawnienia do kierowania w zakresie prawa jazdy C1+E lub D1+E – jest uprawniony do egzaminowania odpowiednio w zakresie prawa jazdy kategorii C1+E lub D1+E;
+- **3)** B, C lub D – jest uprawniony do egzaminowania odpowiednio w zakresie prawa jazdy kategorii B1, C1 lub D1;
+- **4)** A – jest uprawniony do egzaminowania odpowiednio w zakresie prawa jazdy kategorii AM, A1 lub A2.
+
 **Art. 60.** Do badań lekarskich i badań psychologicznych kandydatów na egzaminatorów i egzaminatorów stosuje się odpowiednio przepisy art. 34.
 
 **Art. 61.**
@@ -2330,6 +2370,13 @@ Art. 125–127. (pominięte)
 
 **Art. 84.** [1. Uprawniony psycholog, po przeprowadzeniu badania psychologicznego w zakresie psychologii transportu, wydaje osobie badanej orzeczenie psychologiczne o istnieniu lub braku przeciwwskazań psychologicznych do kierowania pojazdem lub wykonywania odpowiednich czynności, o których mowa w art. 82 ust. 2, zwane dalej „orzeczeniem psychologicznym”.] <1. Uprawniony psycholog, po przeprowadzeniu badania psychologicznego w zakresie psychologii transportu, wydaje osobie badanej orzeczenie psychologiczne o istnieniu lub braku przeciwwskazań psychologicznych do kierowania pojazdem lub wykonywania odpowiednich czynności, o których mowa w art. 82 ust. 2, zwane dalej „orzeczeniem psychologicznym”, i przekazuje do centralnej ewidencji kierowców, w zakresie i na zasadach określonych w art. 100ac ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, dane osoby, której wydał to orzeczenie.> 1a. Orzeczenie psychologiczne dla kandydatów i uczniów, o których mowa w art. 82 ust. 2 pkt 3, wydaje uprawniony psycholog. 2. Osoba badana lub podmiot kierujący na badania, którzy nie zgadzają się z treścią orzeczenia psychologicznego, mogą wystąpić z wnioskiem o przeprowadzenie ponownego badania psychologicznego do wojewódzkiego ośrodka medycyny pracy, właściwego ze względu na miejsce zamieszkania osoby badanej. Ponowne badanie przeprowadza się na koszt osoby badanej, z wyjątkiem badań, o których mowa w art. 229 Kodeksu pracy. 3. Wniosek o przeprowadzenie ponownego badania psychologicznego w zakresie psychologii transportu składa się pisemnie, w terminie 14 dni od dnia otrzymania orzeczenia psychologicznego, za pośrednictwem uprawnionego psychologa, który je wydał. 4. Orzeczenie psychologiczne wydane po przeprowadzeniu ponownego badania psychologicznego jest ostateczne. 5. W przypadku gdy orzeczenie psychologiczne zawiera przeciwwskazania, o których mowa w ust. 1, kopię orzeczenia uprawniony psycholog przesyła:
 
+- **1)** jednostce wykonującej ponowne badanie, jeżeli osoba złożyła lub podmiot złożył wniosek o przeprowadzenie ponownego badania psychologicznego;
+- **2)** staroście właściwemu ze względu na miejsce zamieszkania osoby badanej, po upływie 14 dni od daty badania, jeżeli osoba badana nie złożyła wniosku o przeprowadzenie ponownego badania albo orzeczenie psychologiczne zostało wydane w wyniku ponownego badania.
+
+6. W przypadku, o którym mowa w ust. 3, do kopii orzeczenia psychologicznego uprawniony psycholog załącza kopię dokumentacji związanej z przeprowadzonym badaniem.
+
+7. W stosunku do osób, o których mowa w art. 10 ust. 3, w przypadku określonym w ust. 5 pkt 2, kopię orzeczenia psychologicznego przesyła się marszałkowi województwa mazowieckiego.
+
 **Art. 85.**
 
 1. Działalność gospodarcza w zakresie prowadzenia pracowni psychologicznej wykonującej badania psychologiczne w zakresie psychologii transportu jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców i wymaga uzyskania wpisu do rejestru przedsiębiorców prowadzących pracownię psychologiczną.
@@ -2548,6 +2595,40 @@ Art. 125–127. (pominięte)
 #### Rozdział 14 Okres próbny
 
 **Art. 91.** >1. Okres próbny dla osoby, która po raz pierwszy uzyskała prawo jazdy kategorii B, trwa:
+
+- **1)** 2 lata, w przypadku osoby, która ukończyła 18 lat,
+- **2)** 3 lata, w przypadku osoby posiadającej prawo jazdy, o którym mowa w art. 8a ust. 1, jednak nie dłużej niż do czasu ukończenia przez nią 20 lat – począwszy od dnia, w którym został jej wydany ten dokument.
+
+2. W przypadku uzyskania tymczasowego elektronicznego prawa jazdy okres próbny trwa począwszy od daty uzyskania uprawnienia do kierowania pojazdami zgodnie z art. 5b ust. 5.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do osób, które uzyskały prawo jazdy lub tymczasowe elektroniczne prawo jazdy w zakresie kategorii B:
+
+- **1)** po uprzednim cofnięciu uprawnienia do kierowania pojazdami w zakresie kategorii B w trakcie trwania okresu próbnego, o którym mowa w ust. 1 lub w art. 92 ust. 1;
+- **2)** po uprzednim cofnięciu uprawnienia do kierowania pojazdami odpowiednio w trybie art. 103 ust. 1 pkt 2 lub 5;
+- **3)** w trybie określonym w art. 14, w przypadku gdy:
+    - **a)** wydanie polskiego prawa jazdy nastąpiło w okresie krótszym niż określony w ust. 1, od dnia wydania zagranicznego prawa jazdy, począwszy od tego dnia,
+    - **b)** ustalenie dnia wydania zagranicznego prawa jazdy nie jest możliwe, począwszy od dnia wydania polskiego prawa jazdy.
+
+3a. W przypadku gdy starosta cofnie osobie, wobec której trwa okres próbny, uprawnienie do kierowania pojazdami w zakresie prawa jazdy kategorii B, okres próbny ulega zakończeniu z dniem cofnięcia tego uprawnienia.
+
+4. W okresie próbnym kierującemu pojazdem samochodowym zabrania się jazdy z przekroczeniem stężenia 0,0 ‰ alkoholu we krwi lub 0,0 mg w 1 dm3 wydychanego powietrza lub 0,0 ng/ml środka działającego podobnie do alkoholu w organizmie.
+
+5. W okresie próbnym kierującemu, który nie ukończył 18 lat i który kieruje pojazdem samochodowym innym niż czterokołowiec, zabrania się:
+
+- **1)** przewożenia osoby, która nie ukończyła 18 lat, bez pasażera spełniającego wymagania określone w art. 8a ust. 2;
+- **2)** wykonywania transportu drogowego rzeczy, o którym mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym, lub wykonywania przewozu osób taksówką lub w ramach przewozu okazjonalnego w rozumieniu art. 4 pkt 11 tej ustawy.
+
+6. Kierujący pojazdem samochodowym, który w okresie próbnym przekroczył liczbę 12 punktów za naruszenie przepisów ruchu drogowego, jest obowiązany ukończyć praktyczne szkolenie w zakresie zagrożeń w ruchu drogowym, przed upływem 12 miesięcy od dnia popełnienia naruszenia powodującego przekroczenie 12 punktów.
+
+7. W przypadku gdy prawomocne rozstrzygnięcie dotyczące naruszenia, o którym mowa w ust. 6, powodującego przekroczenie 12 punktów zapadło po upływie 9 miesięcy od dnia jego popełnienia, praktyczne szkolenie w zakresie zagrożeń w ruchu drogowym należy ukończyć przed upływem 3 miesięcy od daty uprawomocnienia się tego rozstrzygnięcia.
+
+8. Administrator danych i informacji zgromadzonych w centralnej ewidencji kierowców przekazuje niezwłocznie staroście informację o przekroczeniu przez kierującego pojazdem samochodowym 12 punktów za naruszenia przepisów ruchu drogowego stwierdzone prawomocnym rozstrzygnięciem.
+
+9. Informację, o której mowa w ust. 8, przekazuje się z centralnej ewidencji kierowców również użytkownikowi aplikacji mObywatel w rozumieniu art. 2 pkt 16 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, którego ta informacja dotyczy.
+
+10. Starosta przesyła niezwłocznie osobie, o której mowa w ust. 6, informację o obowiązku ukończenia praktycznego szkolenia w zakresie zagrożeń w ruchu drogowym.
+
+11. W przypadku osób, o których mowa w art. 10 ust. 3, informacje, o których mowa w ust. 10, przekazuje marszałek województwa mazowieckiego.
 
 **Art. 92.**
 
@@ -3082,6 +3163,10 @@ Art. 125–127. (pominięte)
 
 **Art. 113.** Ośrodek doskonalenia techniki jazdy jest prowadzony przez:
 
+- **1)** przedsiębiorcę;
+- **2)** jednostkę wojskową – w zakresie szkolenia kierowców na potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej;
+- **3)** jednostkę organizacyjną służb podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych – w zakresie szkolenia kierowców na potrzeby tych służb.
+
 **Art. 114.**
 
 1. Działalność gospodarcza w zakresie prowadzenia ośrodka doskonalenia techniki jazdy stanowi działalność regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców i wymaga uzyskania wpisu do rejestru przedsiębiorców prowadzących ośrodek doskonalenia techniki jazdy.
@@ -3523,6 +3608,10 @@ Art. 125–127. (pominięte)
 
 **Art. 135b.** W stosunku do jednostek, o których mowa w:
 
+- **1)** art. 109 ust. 5 i 6,
+- **2)** art. 53 ust. 1 pkt 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym,
+- **3)** art. 53 ust. 1 pkt 12 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, wykonujących zadania specjalistycznymi środkami transportu sanitarnego, o którym mowa w art. 161ba ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ) – warunki określone w art. 106 ust. 1 pkt 4 oraz w art. 109 ust. 1 pkt 3 oraz ust. 4 stosuje się od dnia 4 stycznia 2016 r.
+
 **Art. 136.**
 
 1. W przypadku gdy naruszenia przepisów ruchu drogowego popełnione przed dniem określonym w komunikacie, o którym mowa w art. 13 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw, skutkowały przekroczeniem liczby 24 punktów za naruszenia przepisów ruchu drogowego, a w przypadku kierowców, którzy dopuścili się tych naruszeń w okresie jednego roku od wydania po raz pierwszy prawa jazdy – liczby 20 punktów, stosuje się tryb postępowania oraz skutki według stanu prawnego na dzień popełnienia naruszenia powodującego przekroczenie dopuszczalnej liczby punktów. W tym celu Policja może przetwarzać dane zgromadzone w ewidencji, o której mowa w art. 17 ust. 1 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 2328, z 2022 r. poz. 1002 i 1715 oraz z 2023 r. poz. 1123, 1234 i 1723).
@@ -3560,4 +3649,10 @@ Art. 125–127. (pominięte)
 2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, sposób, tryb i terminy przekazania danych, o których mowa w ust. 1 i 1a, uwzględniając konieczność zapewnienia kompletności i poprawności przekazanych informacji i ciągłości dostępu.
 
 **Art. 139.** Ustawa wchodzi w życie z dniem 19 stycznia 2013 r., z wyjątkiem:
+
+- **1)** art. 125 pkt 9, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia ;
+- **2)** art. 110, który wchodzi w życie z dniem 19 stycznia 2014 r.;
+- **2a)** art. 99 ust. 1 pkt 5 i, w ramach kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii, art. 100, art. 101 oraz art. 102 ust. 1 pkt 2, które wchodzą w życie z dniem 1 lipca 2015 r.;
+- **3)** art. 13 ust. 1 pkt 1 lit. b, art. 43 ust. 2 pkt 4, art. 44 ust. 1 pkt 2 lit. b i ust. 3 pkt 2, art. 67 ust. 2 pkt 2, art. 82 ust. 1 pkt 4 lit. c, art. 91–95, art. 98, art. 99 ust. 1 pkt 3 lit. c i pkt 4, ust. 2 pkt 1 lit. b oraz ust. 3, art. 100, art. 101, art. 102 ust. 1 pkt 2, art. 103 ust. 1 pkt 2 i 3 oraz ust. 2, art. 105 ust. 1 i 2, art. 112 ust. 1 pkt 1 lit. b, art. 124 ust. 7, art. 125 pkt 10 lit. g w zakresie art. 114 ust. 1 pkt 1 lit. b ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, pkt 13 oraz pkt 16 w zakresie art. 140 ust. 1 pkt 3, 3a i pkt 4 lit. a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, oraz art. 136 ust. 1–3, które wchodzą w życie z dniem 4 czerwca 2018 r.
+
 

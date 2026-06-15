@@ -8,7 +8,7 @@ pos: 79
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz o zmianie niektórych innych ustaw
@@ -29,13 +29,119 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz.U. Nr 123, poz. 776, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** art. 1 otrzymuje brzmienie: „Art. 1. Ustawa dotyczy osób, których niepełnosprawność została potwierdzona orzeczeniem:
+- **1)** o zakwalifikowaniu przez organy orzekające do jednego z trzech stopni niepełnosprawności określonych w art. 3, lub
+- **2)** o całkowitej lub częściowej niezdolności do pracy na podstawie odrębnych przepisów, lub
+- **3)** o niepełnosprawności, wydanym przed ukończeniem 16 roku życia - zwanych dalej „osobami niepełnosprawnymi”.”;
+- **2)** w art. 2 w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7-10 w brzmieniu: „7) warunkach pracy chronionej - oznacza to warunki, o których mowa w art. 28 albo art. 29, i uzyskanie statusu zakładu pracy chronionej albo zakładu aktywności zawodowej,
+- **8)** przystosowanym stanowisku pracy osoby niepełnosprawnej - oznacza to stanowisko pracy, które jest oprzyrządowane i dostosowane odpowiednio do potrzeb wynikających z rodzaju i stopnia niepełnosprawności,
+- **9)** staroście - oznacza to także prezydenta miasta na prawach powiatu,
+- **10)** niepełnosprawności - oznacza to trwałą lub okresową niezdolność do wypełniania ról społecznych z powodu stałego lub długotrwałego naruszenia sprawności organizmu, w szczególności powodującą niezdolność do pracy.”;
+- **3)** art. 4 otrzymuje brzmienie: „Art. 4. 1. Do znacznego stopnia niepełnosprawności zalicza się osobę z naruszoną sprawnością organizmu, niezdolną do pracy albo zdolną do pracy jedynie w warunkach pracy chronionej i wymagającą, w celu pełnienia ról społecznych, stałej lub długotrwałej opieki i pomocy innych osób w związku z niezdolnością do samodzielnej egzystencji.
+
+2. Do umiarkowanego stopnia niepełnosprawności zalicza się osobę z naruszoną sprawnością organizmu, niezdolną do pracy albo zdolną do pracy jedynie w warunkach pracy chronionej lub wymagającą czasowej albo częściowej pomocy innych osób w celu pełnienia ról społecznych.
+
+3. Do lekkiego stopnia niepełnosprawności zalicza się osobę o naruszonej sprawności organizmu, powodującej w sposób istotny obniżenie zdolności do wykonywania pracy, w porównaniu do zdolności, jaką wykazuje osoba o podobnych kwalifikacjach zawodowych z pełną sprawnością psychiczną i fizyczną, lub mająca ograniczenia w pełnieniu ról społecznych dające się kompensować przy pomocy wyposażenia w przedmioty ortopedyczne, środki pomocnicze lub środki techniczne.
+
+4. Niezdolność do samodzielnej egzystencji oznacza naruszenie sprawności organizmu w stopniu uniemożliwiającym zaspokajanie bez pomocy innych osób podstawowych potrzeb życiowych, za które uważa się przede wszystkim samoobsługę, poruszanie się i komunikację.
+
+5. Zaliczenie do znacznego albo umiarkowanego stopnia niepełnosprawności osoby, o której mowa w ust. 1 lub 2, nie wyklucza możliwości zatrudnienia tej osoby u pracodawcy niezapewniającego warunków pracy chronionej, w przypadku uzyskania pozytywnej opinii Państwowej Inspekcji Pracy o przystosowaniu przez pracodawcę stanowiska pracy do potrzeb osoby niepełnosprawnej.”;
+
+- **4)** po art. 5 dodaje się art. 5a w brzmieniu: „Art. 5a. 1. Osoby posiadające ważne orzeczenia o zaliczeniu do jednej z grup inwalidów, niezdolności do pracy w gospodarstwie rolnym, o których mowa w art. 62, oraz orzeczenia o niezdolności do pracy, o których mowa w art. 5, mogą składać do zespołu do spraw orzekania o niepełnosprawności wniosek o ustalenie stopnia niepełnosprawności i wskazań, o których mowa w art. 6b ust. 3, dla celów korzystania z ulg i uprawnień na podstawie odrębnych przepisów.
+
+2. W postępowaniu w sprawach, o których mowa w ust. 1, zespół do spraw orzekania o niepełnosprawności wydaje orzeczenie, w którym:
+
+- **1)** stopień niepełnosprawności określa się na podstawie przedłożonych orzeczeń, o których mowa w ust. 1, zgodnie z przepisami, o których mowa w art. 5 i 62,
+- **2)** wskazania, o których mowa w art. 6b ust. 3, ustala się stosownie do naruszonej sprawności organizmu i ograniczeń funkcjonalnych uzasadniających korzystanie z ulg i uprawnień na podstawie odrębnych przepisów.
+
+3. Zespół do spraw orzekania o niepełnosprawności ma prawo żądać od właściwych organów rentowych udostępnienia kopii orzeczeń, o których mowa w ust. 1, a organy te są obowiązane do ich udostępniania.
+
+4. Od orzeczenia, o którym mowa w ust. 2, nie służy odwołanie.”;
+
+- **5)** w art. 6 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Wydatki związane z tworzeniem i działalnością zespołów są pokrywane ze środków finansowych budżetu państwa. Wydatki te mogą być również pokrywane ze środków finansowych jednostek samorządu terytorialnego.”;
+- **6)** w art. 6b w ust. 1 po wyrazie „albo” dodaje się wyrazy „ , za ich zgodą,”;
+- **7)** art. 6c otrzymuje brzmienie: „Art. 6c. 1. Pełnomocnik Rządu do Spraw Osób Niepełnosprawnych, zwany dalej „Pełnomocnikiem”, sprawuje nadzór nad orzekaniem o niepełnosprawności i o stopniu niepełnosprawności.
+
+2. Nadzór, o którym mowa w ust. 1, polega na:
+
+- **1)** kontroli orzeczeń co do ich zgodności z zebranymi dokumentami lub z przepisami dotyczącymi orzekania o niepełnosprawności lub o stopniu niepełnosprawności,
+- **2)** kontroli prawidłowości i jednolitości stosowania przepisów, standardów i procedur postępowania w sprawach dotyczących orzekania o niepełnosprawności i o stopniu niepełnosprawności,
+- **3)** szkoleniu członków wojewódzkich zespołów,
+- **4)** udzielaniu wyjaśnień w zakresie stosowania przepisów regulujących postępowanie w sprawach dotyczących orzekania o niepełnosprawności lub o stopniu niepełnosprawności.
+
+3. Jeżeli w ramach nadzoru Pełnomocnik stwierdzi, że istnieje uzasadniona wątpliwość co do zgodności orzeczenia ze stanem faktycznym lub że orzeczenie zostało wydane w sposób sprzeczny z przepisami dotyczącymi orzekania o niepełnosprawności lub o stopniu niepełnosprawności, może zwrócić się do właściwego organu o:
+
+- **1)** stwierdzenie nieważności orzeczenia,
+- **2)** wznowienie postępowania.
+
+4. Pełnomocnik, w wyniku stwierdzonych w ramach nadzoru nieprawidłowości, może wystąpić:
+
+- **1)** do organu, który powołał zespół do spraw orzekania o niepełnosprawności, o odwołanie członków zespołu odpowiedzialnych za stwierdzone nieprawidłowości,
+- **2)** do wojewody o cofnięcie zgody na powołanie powiatowego zespołu.
+
+5. Nadzór, o którym mowa w ust. 2 pkt 1 i 2, w imieniu Pełnomocnika realizują upoważnione przez niego osoby, posiadające wiedzę niezbędną do przeprowadzania kontroli. Pisemne upoważnienie jest wydawane na czas określony, nie dłuższy niż 2 lata.
+
+6. Wojewoda pełni bezpośredni nadzór nad powiatowymi zespołami. Przepisy ust. 2, 3, 4 pkt 1 i ust. 5 stosuje się odpowiednio.
+
+7. Wojewoda przestawia Pełnomocnikowi informacje o realizacji zadań:
+
+- **1)** powiatowych zespołów, sporządzane na podstawie informacji otrzymanych od starostów,
+- **2)** wojewódzkiego zespołu.
+
+8. Od orzeczenia wojewódzkiego zespołu przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych w terminie 30 dni od dnia doręczenia orzeczenia. Odwołanie wnosi się za pośrednictwem wojewódzkiego zespołu, który wydał orzeczenie. Jeżeli wojewódzki zespół uzna, że odwołanie zasługuje w całości na uwzględnienie, wydaje orzeczenie, w którym uchyla lub zmienia zaskarżone orzeczenie. Postępowanie w sprawach odwołań jest wolne od kosztów i opłat sądowych.
+
+9. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe zasady wydawania orzeczeń, o których mowa w art. 5a, orzekania o niepełnosprawności i o stopniu niepełnosprawności, uwzględniając tryb postępowania przy orzekaniu oraz skład i sposób powoływania i odwoływania członków zespołów orzekających, a także sposób działania tych zespołów,
+- **2)** rodzaj i zakres wymaganych kwalifikacji członków zespołów orzekających oraz tryb postępowania przy wydawaniu zaświadczeń uprawniających do orzekania o niepełnosprawności lub o stopniu niepełnosprawności, uwzględniając konieczność zapewnienia specjalistycznych kwalifikacji, odpowiednich do zakresu orzekania,
+- **3)** warunki organizacyjne i techniczne, jakie powinny spełniać pomieszczenia zespołów orzekających, mając na względzie zapewnienie dostępu do tych pomieszczeń osobom niepełnosprawnym,
+- **4)** tryb przeprowadzania szkoleń i minima programowe szkoleń dla specjalistów powoływanych do zespołów orzekających oraz sposób wyboru ośrodków szkoleniowych upoważnionych do prowadzenia szkoleń, kierując się koniecznością zapewnienia właściwego poziomu kształcenia, w tym odpowiedniego poziomu wiedzy specjalistycznej,
+- **5)** standardy w zakresie kwalifikowania oraz postępowania dotyczącego orzekania o niepełnosprawności i o stopniu niepełnosprawności, uwzględniając schorzenia naruszające sprawność organizmu i przewidywany okres trwania naruszenia tej sprawności, powodujące zaliczenie do odpowiedniego stopnia niepełnosprawności, a także oznaczenie symboli przyczyn niepełnosprawności,
+- **6)** wzory i terminy składania informacji, o których mowa w ust. 7 i art. 6a ust. 1, uwzględniając elementy informacji o realizacji zadań, przyjętych wnioskach, wydanych orzeczeniach i wydanych legitymacjach, wydatkach oraz elementy zestawień zbiorczych,
+- **7)** wzory legitymacji dokumentujących niepełnosprawność lub stopień niepełnosprawności oraz organy uprawnione do ich wystawiania, mając na względzie zachowanie jednolitości dokumentu potwierdzającego podstawę do korzystania z ulg i uprawnień.”;
+- **8)** art. 10 otrzymuje brzmienie: „Art. 10. Do podstawowych form aktywności wspomagającej proces rehabilitacji zawodowej i społecznej osób niepełnosprawnych zalicza się uczestnictwo tych osób w:
+- **1)** warsztatach terapii zajęciowej, zwanych dalej „warsztatami”,
+- **2)** turnusach rehabilitacyjnych, zwanych dalej „turnusami”.”;
+- **9)** po art. 10 dodaje się art. 10a-10f w brzmieniu: „Art. 10a. 1. Warsztat oznacza wyodrębnioną organizacyjnie i finansowo placówkę stwarzającą osobom niepełnosprawnym niezdolnym do podjęcia pracy możliwość rehabilitacji społecznej i zawodowej w zakresie pozyskania lub przywracania umiejętności niezbędnych do podjęcia zatrudnienia.
+
+2. Realizacja przez warsztat celu, o którym mowa w ust. 1, odbywa się przy zastosowaniu technik terapii zajęciowej, zmierzających do rozwijania:
+
+- **1)** umiejętności wykonywania czynności życia codziennego oraz zaradności osobistej,
+- **2)** psychofizycznych sprawności oraz podstawowych i specjalistycznych umiejętności zawodowych, umożliwiających uczestnictwo w szkoleniu zawodowym albo podjęcie pracy.
+
+3. Terapię realizuje się na podstawie indywidualnego programu rehabilitacji, w którym określa się:
+
+- **1)** formy rehabilitacji,
+- **2)** zakres rehabilitacji,
+- **3)** metody i zakres nauki umiejętności, o których mowa w ust. 2,
+- **4)** formy współpracy z rodziną lub opiekunami,
+- **5)** planowane efekty rehabilitacji,
+- **6)** osoby odpowiedzialne za realizację programu rehabilitacji.
+
+4. W warsztacie działa rada programowa, w skład której wchodzą:
+
+- **1)** kierownik warsztatu,
+- **2)** specjaliści do spraw rehabilitacji lub rewalidacji,
+- **3)** instruktorzy terapii zajęciowej,
+- **4)** psycholog,
+- **5)** doradca zawodowy lub instruktor zawodu - w miarę potrzeb.
+
+5. Rada programowa dokonuje okresowej oraz, nie rzadziej niż co 3 lata, kompleksowej oceny realizacji indywidualnego programu rehabilitacji uczestnika warsztatu i zajmuje stanowisko w kwestii osiągniętych przez niego postępów w rehabilitacji, uzasadniających:
+
+- **1)** podjęcie zatrudnienia i kontynuowanie rehabilitacji zawodowej w warunkach pracy chronionej lub na przystosowanym stanowisku pracy,
+- **2)** potrzebę skierowania osoby niepełnosprawnej do ośrodka wsparcia, w rozumieniu przepisów o pomocy społecznej, ze względu na brak postępów w rehabilitacji i złe rokowania co do możliwości osiągnięcia postępów uzasadniających podjęcie zatrudnienia i kontynuowanie rehabilitacji zawodowej w warunkach pracy chronionej lub na rynku pracy po odbyciu dalszej rehabilitacji w warsztacie,
+- **3)** przedłużenie uczestnictwa w terapii ze względu na:
+    - **a)** pozytywne rokowania co do przyszłych postępów w rehabilitacji, umożliwiających podjęcie zatrudnienia i kontynuowanie rehabilitacji zawodowej w warunkach pracy chronionej lub na rynku pracy,
+    - **b)** okresowy brak możliwości podjęcia zatrudnienia,
+    - **c)** okresowy brak możliwości skierowania osoby niepełnosprawnej do ośrodka wsparcia, o którym mowa w pkt 2.
+
 **Art. 10b.**
 
 1. Warsztaty mogą być organizowane przez fundacje, stowarzyszenia lub przez inne podmioty.
 
 2. Koszty utworzenia, działalności i wynikające ze zwiększenia liczby uczestników warsztatu są współfinansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, zwanego dalej „Funduszem”, ze środków samorządu terytorialnego lub z innych źródeł, z zastrzeżeniem ust. 3 i 4.
 
-3. Dofinansowanie ze środków Funduszu kosztów uczestnictwa w warsztacie osób niepełnosprawnych przebywających w jednostciowej na podstawie odrębnych przepisów, jest obniżane w zależności od procentowego wskaźnika udziału tych osób w ogólnej liczbie uczestników warsztatu, zwanego dalej „wskaźnikiem udziału”, z zastrzeżeniem ust. 4 i 5.
+3. Dofinansowanie ze środków Funduszu kosztów uczestnictwa w warsztacie osób niepełnosprawnych przebywających w jednostkach organizacyjnych obowiązanych do zapewnienia terapii zajęciowej na podstawie odrębnych przepisów, jest obniżane w zależności od procentowego wskaźnika udziału tych osób w ogólnej liczbie uczestników warsztatu, zwanego dalej „wskaźnikiem udziału”, z zastrzeżeniem ust. 4 i 5.
 
 4. Ze środków Funduszu nie mogą być dofinansowane koszty, o których mowa w ust. 3, w przypadku, gdy wskaźnik udziału wynosi co najmniej 80%.
 
@@ -57,7 +163,7 @@ source: "isap-pdf"
 
 2. Turnusy mogą być organizowane:
 
-- **1)** przez osoby fizyczne prowadzące działalność gospodarczą, osoby prawne i inne jednostki organizacyjne nieposiadające działalność na rzecz osób niepełnosprawnych i uzyskały wpis do rejestru organizatorów prowadzonego przez wojewodę, zwane dalej „organizatorem turnusów”,
+- **1)** przez osoby fizyczne prowadzące działalność gospodarczą, osoby prawne i inne jednostki organizacyjne nieposiadające osobowości prawnej, które prowadzą co najmniej przez 2 lata działalność na rzecz osób niepełnosprawnych i uzyskały wpis do rejestru organizatorów prowadzonego przez wojewodę, zwane dalej „organizatorem turnusów”,
 - **2)** wyłącznie w ośrodkach, które uzyskały wpis do rejestru ośrodków prowadzonego przez wojewodę - z wyłączeniem turnusów organizowanych w formie, o której mowa w ust. 5 pkt 2, z zastrzeżeniem ust. 3.
 
 3. W domach pomocy społecznej lub w innych placówkach opiekuńczych, turnusy mogą być organizowane wyłącznie dla osób niepełnosprawnych niebędących stałymi podopiecznymi takich jednostek.
@@ -84,6 +190,7 @@ source: "isap-pdf"
     - **b)** daty rozpoczęcia i zakończenia turnusów,
     - **c)** warunki pobytu w ośrodku, w którym organizuje się turnusy,
     - **d)** program turnusu, o którym mowa w ust. 6,
+    - **e)** koszt uczestnictwa w turnusie,
 
 - **4)** przesłania do właściwego powiatowego centrum pomocy rodzinie informacji o przebiegu turnusu w terminie 21 dni od dnia zakończenia turnusu, sporządzonej odrębnie dla każdego uczestnika korzystającego z dofinansowania ze środków Funduszu,
 - **5)** przechowywania dokumentów dotyczących przebiegu turnusu przez okres 3 lat.
@@ -110,7 +217,7 @@ source: "isap-pdf"
 8. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia:
 
 - **1)** rodzaje turnusów organizowanych przy udziale środków Funduszu oraz warunki uczestnictwa w tych turnusach,
-- **2)** warunki, jakie powinny spełniać osoby niepełnosprawne ubiegające się o dofinansowanie uczestnictwa w turnusie, wysokość oraz sposób przyznawania i przekazywania tego dofinansowania ze środków Funduszu,
+- **2)** warunki, jakie powinny spełniać osoby niepełnosprawne ubiegające się o dofinansowanie uczestnictwa w turnusie, tryb składania i rozpatrywania wniosków o dofinansowanie, wysokość oraz sposób przyznawania i przekazywania tego dofinansowania ze środków Funduszu,
 - **3)** warunki, jakie powinni spełniać organizatorzy turnusów i ośrodki, w których odbywają się turnusy, sposób oceny spełniania tych warunków i dokonywania wpisu do rejestrów oraz zasady prowadzenia rejestrów,
 - **4)** zakres, sposób i tryb kontroli organizatorów oraz ośrodków wpisanych do rejestrów, prowadzonej przez powiatowe centrum pomocy rodzinie lub wojewodę i obowiązki związane z tą kontrolą,
 - **5)** zakres przekazywanych przez wojewodę informacji o ośrodkach i organizatorach turnusów posiadających wpis do rejestrów, o których mowa w ust. 1, zasady prowadzenia centralnej bazy danych ośrodków i organizatorów turnusów posiadających taki wpis oraz udostępniania danych znajdujących się w tej bazie,
@@ -128,6 +235,10 @@ source: "isap-pdf"
 3. W przypadku uzasadnionym trudną sytuacją materialną lub losową osoby niepełnosprawnej dofinansowanie ze środków Funduszu uczestnictwa w turnusie tej osoby lub dofinansowanie uczestnictwa jej opiekuna może zostać przyznane bez pomniejszania kwoty dofinansowania pomimo przekroczenia kwot dochodu, o których mowa w ust. 1.
 
 4. Kwota dofinansowania do uczestnictwa w turnusie przyznana osobie niepełnosprawnej jest przekazywana na rachunek bankowy organizatora turnusu.
+
+**Art. 10f.**
+
+1. Osoby niepełnosprawne są kierowane do uczestnictwa w:
 
 - **1)** warsztacie - zgodnie ze wskazaniem zawartym w orzeczeniu o niepełnosprawności lub o stopniu niepełnosprawności,
 - **2)** turnusie - na wniosek lekarza, pod którego opieką znajduje się ta osoba.
@@ -148,7 +259,9 @@ source: "isap-pdf"
     - **b)** ust. 3 otrzymuje brzmienie: „3. Łączny wymiar urlopu określonego w art. 19 ust. 1 i zwolnienia od pracy, o którym mowa w ust. 1 pkt 1, nie może przekroczyć 21 dni roboczych w roku kalendarzowym.”;
 
 - **14)** w art. 21 w ust. 2a po wyrazach „2%” dodaje się wyrazy „ , 3% w 2005 r., 4% w 2006 r., 5% w 2007 r. i 6% w 2008 r. oraz w latach następnych”;
-- **15)** art. 22 otrzymuje brzmienie: „Art. 22. 1. Wpłaty na Fundusz, o których mowa w art. 21, ulegają obniżeniu z tytułu zakupu usługi, z wyłączeniem handlu, lub produkcji pracodawcy zatrudniającego co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy i osiągającego wskaźnik zatrudnienia osób niepełnosprawnych zaliczonych do znacznego lub umiarkowanego stopnia niepełnosprawności w wysokości co najmniej 10%, zwanego dalej „sprzedającym”. ności za zrealizowaną produkcję lub usługę oraz otrzymanie informacji o kwocie obniżenia.
+- **15)** art. 22 otrzymuje brzmienie: „Art. 22. 1. Wpłaty na Fundusz, o których mowa w art. 21, ulegają obniżeniu z tytułu zakupu usługi, z wyłączeniem handlu, lub produkcji pracodawcy zatrudniającego co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy i osiągającego wskaźnik zatrudnienia osób niepełnosprawnych zaliczonych do znacznego lub umiarkowanego stopnia niepełnosprawności w wysokości co najmniej 10%, zwanego dalej „sprzedającym”.
+
+2. Warunkiem obniżenia wpłaty jest terminowe uregulowanie należności za zrealizowaną produkcję lub usługę oraz otrzymanie informacji o kwocie obniżenia.
 
 3. Kwota obniżenia, o której mowa w ust. 1, stanowi iloczyn wskaźnika wynagrodzeń niepełnosprawnych pracowników sprzedającego i wskaźnika udziału przychodów.
 
@@ -168,7 +281,7 @@ source: "isap-pdf"
 9. Przysługująca, a niewykorzystana kwota obniżenia, może być uwzględniana we wpłatach na Fundusz przez okres nie dłuższy niż 12 miesięcy, licząc od dnia uzyskania informacji o kwocie obniżenia.”;
 
 - **16)** w art. 25:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Składki na ubezpieczenia społeczne zatrudnionych osób niepełnosprawnych oraz osób niepełnosprawnych podejmujących działalność gospodarczą, nalicza się na zasadach określonych w ustawie z dnia 13 paźpoz. 887, z późn. zm.) .”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Składki na ubezpieczenia społeczne zatrudnionych osób niepełnosprawnych oraz osób niepełnosprawnych podejmujących działalność gospodarczą, nalicza się na zasadach określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz.U. Nr 137, poz. 887, z późn. zm.) .”,
     - **b)** w ust. 3 w zdaniu wstępnym wyraz „aktywizacji” zastępuje się wyrazem „aktywności”,
     - **c)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Fundusz finansuje u pracodawcy zatrudniającego co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy, osiągającego wskaźnik zatrudnienia osób niepełnosprawnych ogółem w wysokości co najmniej 6% w stosunku do zatrudnionych osób niepełnosprawnych:
 
@@ -184,7 +297,9 @@ source: "isap-pdf"
     - **e)** w ust. 7: - wyrazy „zakładach pracy” zastępuje się wyrazem „podmiotach”, - wyrazy „2 i 3” zastępuje się wyrazami „2-3a”,
     - **f)** po ust. 7 dodaje się ust. 8-11 w brzmieniu: „8. Składki na ubezpieczenia społeczne są finansowane odpowiednio przez Fundusz i budżet państwa za okresy miesięczne przez okres roku, na wniosek odpowiednio pracodawcy i osoby niepełnosprawnej podejmującej działalność gospodarczą, składany łącznie z deklaracją rozliczeniową tych składek.
 
-9. Po upływie okresu, o którym mowa w ust. 8, pracodawcy oraz osoby niepełnosprawne podejmujące działalność gospodarczą wraz z deklaracją rozliczeniową składek na ubezpieczenie społeczne mogą z łożyć wniosek o objęcie finansowaniem składek na to ubezpieczenie odpowiednio przez Fundusz i budżet państwa na kolejne okresy roczne. podstawie art. 21 ust. 1 i 5 oraz art. 28 ust. 3.
+9. Po upływie okresu, o którym mowa w ust. 8, pracodawcy oraz osoby niepełnosprawne podejmujące działalność gospodarczą wraz z deklaracją rozliczeniową składek na ubezpieczenie społeczne mogą z łożyć wniosek o objęcie finansowaniem składek na to ubezpieczenie odpowiednio przez Fundusz i budżet państwa na kolejne okresy roczne.
+
+10. Zatrudnienie, o którym mowa w ust. 2-3a, ustala się odpowiednio na podstawie art. 21 ust. 1 i 5 oraz art. 28 ust. 3.
 
 11. Finansowanie składek na ubezpieczenia społeczne osób niepełnosprawnych przez Fundusz nie dotyczy absolwentów, którzy na swój wniosek podlegają zwolnieniu z obowiązku ich opłacania na podstawie odrębnych przepisów.”;
 
@@ -208,7 +323,7 @@ source: "isap-pdf"
 
 6. Warunkiem zwrotu kosztów jest uzyskanie pozytywnej opinii Państwowej Inspekcji Pracy o przystosowanym stanowisku pracy, wydanej na wniosek starosty.
 
-7. Jeżeli okres zatrudnienia osoby niepełnosprawnej będzie krótszy niż 36 miesięcy, pracodawca jest obowiązany zwrócić Funduszoogólnej kwoty zwrotu za każdy miesiąc brakujący do upływu okresu, o którym mowa w ust. 1, jednak w wysokości nie mniejszej niż 1/6 tej kwoty. Pracodawca dokonuje zwrotu w terminie 3 miesięcy od dnia rozwiązania stosunku pracy z osobą niepełnosprawną.
+7. Jeżeli okres zatrudnienia osoby niepełnosprawnej będzie krótszy niż 36 miesięcy, pracodawca jest obowiązany zwrócić Funduszowi za pośrednictwem starosty, środki w wysokości równej 1/36 ogólnej kwoty zwrotu za każdy miesiąc brakujący do upływu okresu, o którym mowa w ust. 1, jednak w wysokości nie mniejszej niż 1/6 tej kwoty. Pracodawca dokonuje zwrotu w terminie 3 miesięcy od dnia rozwiązania stosunku pracy z osobą niepełnosprawną.
 
 8. Pracodawca nie zwraca środków, o których mowa w ust. 7, jeżeli zatrudni w terminie 3 miesięcy od dnia rozwiązania stosunku pracy z osobą niepełnosprawną inną osobę niepełnosprawną, skierowaną do pracy przez powiatowy urząd pracy, przy czym wynikająca z tego powodu przerwa nie jest wliczana do okresu, o którym mowa w ust. 1.
 
@@ -222,7 +337,9 @@ source: "isap-pdf"
 2. Pracodawcy zatrudniającemu w przeliczeniu na pełny wymiar czasu pracy do 25 pracowników oraz pracodawcy zatrudniającemu co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy i osiągającemu wskaźnik zatrudnienia osób niepełnosprawnych w wysokości co najmniej 6% przysługuje miesięczne dofinansowanie w wysokości:
 
 - **1)** 70% kwot, o których mowa w ust. 1,
-- **2)** 90% kwot, o których mowa w ust. 1, w przypadku osób niepełnosprawnych, u których stwierdzono chorobę psychiczną, upośledzenie umysłowe lub epilepsję oraz pracowników niewidomych. 100% kwot dofinansowania, o których mowa w ust. 1.
+- **2)** 90% kwot, o których mowa w ust. 1, w przypadku osób niepełnosprawnych, u których stwierdzono chorobę psychiczną, upośledzenie umysłowe lub epilepsję oraz pracowników niewidomych.
+
+3. Pracodawcy prowadzącemu zakład pracy chronionej przysługuje 100% kwot dofinansowania, o których mowa w ust. 1.
 
 4. Kwota miesięcznego dofinansowania, z zastrzeżeniem ust. 5, nie powinna przekroczyć kwoty miesięcznego wynagrodzenia osiąganego przez pracownika niepełnosprawnego.
 
@@ -245,7 +362,11 @@ source: "isap-pdf"
 
 3. W przypadku gdy osoba, o której mowa w ust. 2, jest zatrudniona w wymiarze czasu pracy przekraczającym ogółem pełny wymiar czasu pracy, miesięczne dofinansowanie przyznaje się na tę osobę w wysokości nieprzekraczającej kwoty miesięcznego dofinansowania przyznawanego na osobę zatrudnioną w pełnym wymiarze czasu pracy. Miesięczne dofinansowanie w wysokości proporcjonalnej do wymiaru czasu pracy tej osoby w pierwszej kolejności przyznaje się pracodawcy, który wcześniej zatrudnił tę osobę.
 
-4. Miesięczne dofinansowanie nie obejmuje wynagrodzenia pracownika w części finansowanej przez Fundusz na podstawie innych przepisów ustawy. szu:
+4. Miesięczne dofinansowanie nie obejmuje wynagrodzenia pracownika w części finansowanej przez Fundusz na podstawie innych przepisów ustawy.
+
+**Art. 26c.**
+
+1. Pracodawca, o którym mowa w art. 26a, składa Zarządowi Funduszu:
 
 - **1)** miesięczne informacje o wynagrodzeniach, zatrudnieniu i stopniach niepełnosprawności pracowników niepełnosprawnych, z uwzględnieniem pracowników, u których stwierdzono chorobę psychiczną, upośledzenie umysłowe lub epilepsję oraz pracowników niewidomych - w terminie do 14 dnia miesiąca następującego po miesiącu, którego informacja dotyczy,
 - **2)** wniosek o wypłatę miesięcznego dofinansowania za dwa miesiące - w terminie do 14 dnia miesiąca następującego po miesiącach, których wniosek dotyczy, przez transmisję danych w formie dokumentu elektronicznego, z zastrzeżeniem ust. 2, oraz pobiera drogą elektroniczną potwierdzenie wysłanej informacji lub wniosku.
@@ -265,7 +386,8 @@ source: "isap-pdf"
     - **a)** w ust. 1: - w zdaniu wstępnym wyraz „20” zastępuje się wyrazem „25”, - w pkt 3 wyraz „lekarska” zastępuje się wyrazem „medyczna”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Do pracowników, o których mowa w ust. 1 pkt 1, zalicza się, z zastrzeżeniem ust. 4-6, także osoby niepełnosprawne wykonujące pracę nakładczą, jeżeli ich wynagrodzenie zostało ustalone co najmniej w wysokości:
 
-- **1)** najniższego wynagrodzenia - w stosunku do wykonawców, dla których praca nakładcza stanowi jedyne źródło utrzymania, wykonawców.”,
+- **1)** najniższego wynagrodzenia - w stosunku do wykonawców, dla których praca nakładcza stanowi jedyne źródło utrzymania,
+- **2)** połowy najniższego wynagrodzenia - w stosunku do pozostałych wykonawców.”,
     - **c)** po ust. 3 dodaje się ust. 4-6 w brzmieniu: „4. Wymiar czasu pracy zatrudnionych, o których mowa w ust. 3, ustala się jako iloraz wysokości ustalonego wynagrodzenia i najniższego wynagrodzenia.
 
 5. Maksymalny wymiar czasu pracy ustalony na podstawie ust. 4 nie może przekraczać jednego etatu.
@@ -282,7 +404,7 @@ source: "isap-pdf"
     - **b)** po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „2a. Wojewoda może, w drodze decyzji, zwolnić z obowiązku prowadzenia działalności gospodarczej przez okres 12 miesięcy poprzedzających złożenie wniosku o przyznanie statusu zakładu pracy chronionej lub z obowiązku utrzymywania wskaźników zatrudnienia osób niepełnosprawnych, określonych w art. 28 ust. 1 pkt 1, w okresie 6 miesięcy poprzedzających dzień złożenia wniosku o przyznanie statusu zakładu pracy chronionej pracodawcę, który:
 
 - **1)** przejął wraz ze wszystkimi pracownikami zakład pracy chronionej w upadłości lub w likwidacji albo zagrożony likwidacją lub upadłością, z wyłączeniem przejęcia dokonanego na podstawie Kodeksu spółek handlowych lub ustawy z dnia 16 września 1982 r. - Prawo spółdzielcze (Dz.U. z 1995 r. Nr 54, poz. 288, z późn. zm.) ,
-- **2)** przejął w drodze darowizny od osoby należącej w stosunku do niego do I grupy podatkowej w rozumieniu przepisów o podatku przez jedną lub więcej osób fizycznych.
+- **2)** przejął w drodze darowizny od osoby należącej w stosunku do niego do I grupy podatkowej w rozumieniu przepisów o podatku od spadków i darowizn zakład pracy chronionej prowadzony przez jedną lub więcej osób fizycznych.
 
 2b. Wojewoda może wydać decyzję, o której mowa w ust. 2a, w przypadku, gdy pracodawca:
 
@@ -301,7 +423,9 @@ source: "isap-pdf"
     - **c)** ust. 3 otrzymuje brzmienie: „3. Wojewoda podejmuje decyzję stwierdzającą utratę przyznanego statusu zakładu pracy chronionej lub zakładu aktywności zawodowej w razie niespełniania warunków lub obowiązków, o których mowa w art. 28 ust. 1-3 i art. 33 ust. 1 lub 3 pkt 1 i 2, lub odpowiednio art. 28 ust. 1 pkt 1-3, art. 29 lub 30 ust. 2b, z dniem zaprzestania spełniania jakiegokolwiek z tych warunków lub obowiązków.”,
     - **d)** po ust. 3 dodaje się ust. 3a-3d w brzmieniu: „3a. Od decyzji wojewody, o których mowa w ust. 1-3, pracodawcy przysługuje odwołanie do ministra właściwego do spraw zabezpieczenia społecznego.
 
-3b. Organy wymienione w ust. 3a mogą przeprowadzać okresowe, nie rzadziej niż co dwa lata, i doraźne kontrole spełniania warunków i obowiązków, z uwzględnieniem art. 28 i 29. ta, kontrolę w zakładach pracy chronionej i w zakładach aktywności zawodowej w zakresie przestrzegania przepisów ustawy, w szczególności art. 28 ust. 1 pkt 2.
+3b. Organy wymienione w ust. 3a mogą przeprowadzać okresowe, nie rzadziej niż co dwa lata, i doraźne kontrole spełniania warunków i obowiązków, z uwzględnieniem art. 28 i 29.
+
+3c. Państwowa Inspekcja Pracy przeprowadza, nie rzadziej niż co trzy lata, kontrolę w zakładach pracy chronionej i w zakładach aktywności zawodowej w zakresie przestrzegania przepisów ustawy, w szczególności art. 28 ust. 1 pkt 2.
 
 3d. Wojewoda i Państwowa Inspekcja Pracy przedstawiają Pełnomocnikowi informacje o wynikach kontroli, o których mowa w ust. 3b i 3c, przeprowadzonych w danym roku kalendarzowym, w terminie do końca I kwartału roku następnego.”,
 
@@ -332,7 +456,9 @@ source: "isap-pdf"
 
 - **1)** z tytułu zwolnień, o których mowa w ust. 1, na:
     - **a)** Fundusz - w wysokości 10%,
-    - **b)** zakładowy fundusz rehabilitacji osób niepełnosprawnych w wysokości 90%, 26a ust. 5, na zakładowy fundusz rehabilitacji osób niepełnosprawnych.
+    - **b)** zakładowy fundusz rehabilitacji osób niepełnosprawnych w wysokości 90%,
+
+- **2)** z tytułu miesięcznego dofinansowania, o którym mowa w art. 26a ust. 5, na zakładowy fundusz rehabilitacji osób niepełnosprawnych.
 
 4. Prowadzący zakład aktywności zawodowej przekazuje środki uzyskane z tytułu zwolnień, o których mowa w ust. 1, oraz wpływy z dochodu związanego z prowadzeniem działalności gospodarczej na zakładowy fundusz aktywności.”;
 
@@ -351,7 +477,8 @@ source: "isap-pdf"
 - **1)** ze środków, o których mowa w art. 26a ust. 5 pkt 2 oraz w art. 31 ust. 3 pkt 1 lit. b i pkt 2,
 - **2)** z części zaliczek na podatek dochodowy od osób fizycznych, zgodnie z odrębnymi przepisami,
 - **3)** z wpływów z zapisów i darowizn,
-- **4)** z odsetek od środków zgromadzonych na rachunku funduszu rehabilitacji, pionych ze środków funduszu, w części niezamortyzowanej.
+- **4)** z odsetek od środków zgromadzonych na rachunku funduszu rehabilitacji,
+- **5)** ze środków pochodzących ze sprzedaży środków trwałych zakupionych ze środków funduszu, w części niezamortyzowanej.
 
 3. Pracodawca prowadzący zakład pracy chronionej jest obowiązany do:
 
@@ -370,7 +497,7 @@ source: "isap-pdf"
 
 - **d)** w ust. 6 wyrazy „1-4” zastępuje się wyrazami „1-4a”,
 - **e)** ust. 7 otrzymuje brzmienie: „7. W razie likwidacji, upadłości albo wykreślenia z ewidencji działalności gospodarczej prowadzonego przez pracodawcę zakładu pracy chronionej lub utraty statusu zakładu pracy chronionej niewykorzystane według stanu na dzień likwidacji, upadłości lub utraty statusu zakładu pracy chronionej środki funduszu rehabilitacji podlegają niezwłocznie wpłacie do Funduszu, z zastrzeżeniem ust. 7a i 7b.”,
-- **f)** po ust. 7 dodaje się ust. 7a-7d w brzmieniu: „7a. Wpłacie do Funduszu podlega także kwota odpowiadająca kwocie wydatkowanej ze środków funduszu rehabilitacji na nabycie, wytworzenie lub ulepszenie środków trwałych w związku z modernizacją zakładu, utworzeniem lub przystosowaniem stanowisk pracy dla osób niepełnosprawnych, budową lub rozbudową bazy rehabilitacyjnej, wypoczynkowej i socjalnej oraz na zakup środków transportu - w części, która nie została pokryta odpisami amortyzacyjnymi, ustalonymi przy zastosowaniu stawek amortyzacyjnych wynikających z Wykazu rocznych stawa w ust. 7.
+- **f)** po ust. 7 dodaje się ust. 7a-7d w brzmieniu: „7a. Wpłacie do Funduszu podlega także kwota odpowiadająca kwocie wydatkowanej ze środków funduszu rehabilitacji na nabycie, wytworzenie lub ulepszenie środków trwałych w związku z modernizacją zakładu, utworzeniem lub przystosowaniem stanowisk pracy dla osób niepełnosprawnych, budową lub rozbudową bazy rehabilitacyjnej, wypoczynkowej i socjalnej oraz na zakup środków transportu - w części, która nie została pokryta odpisami amortyzacyjnymi, ustalonymi przy zastosowaniu stawek amortyzacyjnych wynikających z Wykazu rocznych stawek amortyzacyjnych na dzień zaistnienia okoliczności, o których mowa w ust. 7.
 
 7b. W przypadku utraty statusu zakładu pracy chronionej i osiągania wskaźnika zatrudniania osób niepełnosprawnych w wysokości co najmniej 25%, pracodawca zachowuje zakładowy fundusz rehabilitacji i niewykorzystane środki tego funduszu.
 
@@ -392,7 +519,8 @@ source: "isap-pdf"
 - **1)** żądaniu od podmiotów informacji, dokumentów i sprawozdań okresowych dotyczących realizowanych zadań określonych w ustawie,
 - **2)** organizowaniu szkoleń i konferencji,
 - **3)** udzielaniu informacji w sprawach z zakresu rehabilitacji zawodowej i społecznej oraz zatrudniania osób niepełnosprawnych,
-- **4)** opracowywaniu standardów w zakresie realizacji zadań określonych w ustawie, których mowa w ust. 6 pkt 2,
+- **4)** opracowywaniu standardów w zakresie realizacji zadań określonych w ustawie,
+- **5)** realizacji zadań wynikających z programów rządowych, o których mowa w ust. 6 pkt 2,
 - **6)** realizacji działań zmierzających do ograniczenia skutków niepełnosprawności i barier, utrudniających osobom niepełnosprawnym funkcjonowanie w społeczeństwie.
 
 4. Inicjowanie kontroli, o której mowa w ust. 2 pkt 2, dotyczy:
@@ -417,7 +545,8 @@ source: "isap-pdf"
 
 10. Pełnomocnik wykonuje swoje zadania przy pomocy Biura Pełnomocnika, które stanowi wyodrębnioną komórkę organizacyjną w urzędzie obsługującym ministra właściwego do spraw zabezpieczenia społecznego.”;
 
-- **29)** art. 35 otrzymuje brzmienie: „Art. 35. 1. Do zadań samorządu województwa realizowanych w ramach ustawy należy: czących wyrównywania szans osób niepełnosprawnych i przeciwdziałania ich wykluczeniu społecznemu,
+- **29)** art. 35 otrzymuje brzmienie: „Art. 35. 1. Do zadań samorządu województwa realizowanych w ramach ustawy należy:
+- **1)** opracowywanie i realizacja wojewódzkich programów dotyczących wyrównywania szans osób niepełnosprawnych i przeciwdziałania ich wykluczeniu społecznemu,
 - **2)** opracowywanie i realizacja wojewódzkich programów pomocy w realizacji zadań na rzecz zatrudniania osób niepełnosprawnych,
 - **3)** opracowywanie i przedstawianie Pełnomocnikowi informacji o prowadzonej działalności,
 - **4)** udzielanie pomocy zakładom pracy chronionej, zgodnie z art. 32a,
@@ -436,7 +565,8 @@ source: "isap-pdf"
     - **e)** rehabilitacji dzieci i młodzieży,”, - w pkt 8 wyraz „finansowanie w części lub całości” zastępuje się wyrazem „dofinansowanie”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Rada powiatu w formie uchwały określa zadania, na które przeznacza środki określone w art. 48 ust. 1 pkt 1.”;
 
-- **31)** w art. 35c: oraz”,
+- **31)** w art. 35c:
+    - **a)** w ust. 1 skreśla się wyrazy „wnioski do planu finansowego tego Funduszu oraz”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowe zasady sporządzania sprawozdań rzeczowo-finansowych o zadaniach zrealizowanych ze środków Funduszu, o których mowa w ust. 1, uwzględniając w szczególności terminy i sposoby ich przedstawiania oraz wzór tego sprawozdania, a także zasady i sposoby rozliczeń finansowych samorządu z Funduszem w zakresie wykorzystania środków, w tym zwrotu niewykorzystanych środków.”;
 
 - **32)** w art. 36 ust. 1 i 1a otrzymują brzmienie: „1. Zadania w zakresie rehabilitacji zawodowej i społecznej mogą być realizowane na zlecenie Funduszu przez jednostki samorządu terytorialnego i organizacje pozarządowe, w tym o charakterze lokalnym.
@@ -456,7 +586,10 @@ source: "isap-pdf"
     - **b)** ust. 2 otrzymuje brzmienie: „2. Specjalistyczne ośrodki są tworzone i likwidowane przez marszałka województwa w porozumieniu z Pełnomocnikiem. Samorząd województwa może zlecać innym podmiotom zadania, o których mowa w ust. 3.”,
     - **c)** w ust. 5 po wyrazach „specjalistycznych ośrodków” dodaje się wyrazy „ , a także zlecania zadań, o których mowa w ust. 3,”;
 
-- **35)** po art. 41 dodaje się art. 41a w brzmieniu: „Art. 41a. 1. Placówki szkolące i specjalistyczne ośrodki oraz pracodawcy przeprowadzający szkolenia przesyłają samorządowi województwa półroczne informacje o przebiegu szkoleń. wniosek, kierownikowi powiatowego urzędu pracy, który skierował osobę niepełnosprawną na szkolenie.”;
+- **35)** po art. 41 dodaje się art. 41a w brzmieniu: „Art. 41a. 1. Placówki szkolące i specjalistyczne ośrodki oraz pracodawcy przeprowadzający szkolenia przesyłają samorządowi województwa półroczne informacje o przebiegu szkoleń.
+
+2. Informacje, o których mowa w ust. 1, przekazuje się, na jego wniosek, kierownikowi powiatowego urzędu pracy, który skierował osobę niepełnosprawną na szkolenie.”;
+
 - **36)** w art. 42 w ust. 3:
     - **a)** w zdaniu wstępnym wyrazy „w szczególności” zastępuje się wyrazami „przedstawianie Pełnomocnikowi”,
     - **b)** w pkt 1 wyraz „inspirowanie” zastępuje się wyrazem „propozycji”,
@@ -476,7 +609,7 @@ source: "isap-pdf"
 
 2. Pracodawca jest obowiązany zwolnić pracownika od pracy w celu wzięcia udziału w posiedzeniach Rady. Za czas zwolnienia pracownik zachowuje prawo do wynagrodzenia ustalonego według zasad obowiązujących przy obliczaniu ekwiwalentu pieniężnego za urlop wypoczynkowy. Koszty wynagrodzenia ponoszone przez pracodawcę są refundowane ze środków urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego.
 
-3. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowe zasady i tryb działania nia członków za udział w posiedzeniach, mając na względzie zapewnienie sprawnego funkcjonowania Rady.”;
+3. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowe zasady i tryb działania Rady, uwzględniając jej organizację oraz wysokość wynagrodzenia członków za udział w posiedzeniach, mając na względzie zapewnienie sprawnego funkcjonowania Rady.”;
 
 - **39)** po art. 44 dodaje się art. 44a-44c w brzmieniu: „Art. 44a. 1. Przy marszałkach województw tworzy się wojewódzkie społeczne rady do spraw osób niepełnosprawnych, zwane dalej „wojewódzkimi radami”, będące organami opiniodawczo-doradczymi.
 
@@ -510,7 +643,9 @@ source: "isap-pdf"
 
 2. Powiatowe rady składają się z 5 osób, powoływanych spośród przedstawicieli działających na terenie danego powiatu organizacji pozarządowych, fundacji oraz przedstawicieli jednostek samorządu terytorialnego (powiatów i gmin).
 
-3. Członków wojewódzkich rad powołuje i odwołuje marszałek województwa, a członków powiatowych rad - starosta, spośród kandydatów zgłoszonych przez organizacje i organy, o których mowa odpowiednio w ust. 1 i 2. spośród swoich członków.
+3. Członków wojewódzkich rad powołuje i odwołuje marszałek województwa, a członków powiatowych rad - starosta, spośród kandydatów zgłoszonych przez organizacje i organy, o których mowa odpowiednio w ust. 1 i 2.
+
+4. Rady, o których mowa w ust. 1 i 2, wybierają przewodniczącego spośród swoich członków.
 
 5. Członek rady może zostać odwołany:
 
@@ -529,7 +664,8 @@ source: "isap-pdf"
 - **40)** w art. 45: Nr 155, poz. 1014, z późn. zm.) .”,
     - **a)** ust. 1 otrzymuje brzmienie: „1. Fundusz jest państwowym funduszem celowym w rozumieniu przepisów ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz.U.
     - **b)** ust. 3 otrzymuje brzmienie: „3. Fundusz stosuje zasady rachunkowości określone dla podmiotów, o których mowa w art. 2 ust. 1 w pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz.U. z 2002 r. Nr 76, poz. 694).”,
-    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Przy rozpatrywaniu i rozstrzyganiu spraw przez Fundusz, w zakresie nieuregulowanym w odrębnych przepisach, stosuje się przepisy Kodeksu postępowania administracyjnego.”, „4. Nadzór nad Funduszem sprawuje minister właściwy do spraw zabezpieczenia społecznego, który na wniosek Prezesa Zarządu Funduszu, po uzyskaniu pozytywnej opinii Pełnomocnika, zatwierdza statut określający organizację, szczegółowe zasady i tryb działania Funduszu, w tym jego organów.”;
+    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Przy rozpatrywaniu i rozstrzyganiu spraw przez Fundusz, w zakresie nieuregulowanym w odrębnych przepisach, stosuje się przepisy Kodeksu postępowania administracyjnego.”,
+    - **d)** ust. 4 otrzymuje brzmienie: „4. Nadzór nad Funduszem sprawuje minister właściwy do spraw zabezpieczenia społecznego, który na wniosek Prezesa Zarządu Funduszu, po uzyskaniu pozytywnej opinii Pełnomocnika, zatwierdza statut określający organizację, szczegółowe zasady i tryb działania Funduszu, w tym jego organów.”;
 
 - **41)** po art. 46 dodaje się art. 46a w brzmieniu: „Art. 46a. 1. Fundusz otrzymuje dotacje celowe z budżetu państwa:
 - **1)** na zadanie, o którym mowa w art. 26a - w wysokości zapewniającej jego realizację,
@@ -547,7 +683,9 @@ source: "isap-pdf"
 - **3)** programy zatwierdzone przez Radę Nadzorczą, służące rehabilitacji społecznej i zawodowej, w szczególności adresowane do osób niepełnosprawnych, w tym dzieci niepełnosprawnych, z uwzględnieniem refundacji zwiększonych kosztów zatrudnienia osób niepełnosprawnych, u których stwierdzono chorobę psychiczną, upośledzenie umysłowe, epilepsję lub niewidomych,
 - **4)** dofinansowanie zadań wynikających z programów rządowych, w tym ukierunkowanych na rozwój zasobów ludzkich oraz przeciwdziałanie wykluczeniu społecznemu osób niepełnosprawnych,
 - **5)** zadanie, o którym mowa w art. 32 ust. 1 pkt 1,
-- **6)** finansowanie w części lub w całości badań, ekspertyz i analiz dotyczących rehabilitacji zawodowej i społecznej. nom dochodów utraconych na skutek zastosowania ustawowych zwolnień, o których mowa w art. 31 ust. 1 pkt 1, w wysokości utraconych dochodów.
+- **6)** finansowanie w części lub w całości badań, ekspertyz i analiz dotyczących rehabilitacji zawodowej i społecznej.
+
+2. Środki Funduszu przeznacza się również na zrekompensowanie gminom dochodów utraconych na skutek zastosowania ustawowych zwolnień, o których mowa w art. 31 ust. 1 pkt 1, w wysokości utraconych dochodów.
 
 3. Czasowo wolne środki Funduszu, z wyłączeniem dotacji, o których mowa w art. 46a w ust. 1, mogą być lokowane:
 
@@ -557,7 +695,7 @@ source: "isap-pdf"
     - **c)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw finansów publicznych, po zasięgnięciu opinii Komisji Wspólnej Rządu i Samorządu Terytorialnego, określi, w drodze rozporządzenia, szczegółowe zasady obliczania i tryb przekazywania gminom dotacji celowej, o której mowa w ust. 2, z uwzględnieniem wniosków gmin, zawierających dane o rocznych skutkach zastosowania zwolnień, o których mowa w art. 31 ust. 1 pkt 1, mając na względzie zrekompensowanie gminom utraconych dochodów.”;
 
 - **43)** w art. 48 uchyla się ust. 1a;
-- **44)** w art. 49: 67 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. Nr 137, poz. 926, z późn. zm.) , z zastrzeżeniem dopełnienia warunku docyzją.
+- **44)** w art. 49: 67 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. Nr 137, poz. 926, z późn. zm.) , z zastrzeżeniem dopełnienia warunku dokonania wpłat, o których mowa w ust. 1, w terminach określonych decyzją.
     - **a)** w ust. 1 wyrazy „art. 33 ust. 7” zastępuje się wyrazami „art. 33 ust. 4a, 7 i 7a”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Pracodawcy dokonują wpłat, o których mowa w ust. 1, w terminie do dnia 20 następnego miesiąca po miesiącu, w którym zaistniały okoliczności powodujące powstanie obowiązku wpłat, składając równocześnie Zarządowi Funduszu deklaracje miesięczne i roczne poprzez teletransmisje danych w formie dokumentu elektronicznego według wzoru ustalonego, w drodze rozporządzenia, przez ministra właściwego do spraw zabezpieczenia społecznego.”,
     - **c)** po ust. 4 dodaje się ust. 5 i 6 w brzmieniu: „5. Minister właściwy do spraw zabezpieczenia społecznego i Prezes Zarządu Funduszu mogą wydawać decyzje, o których mowa w art. 48 lub art.
@@ -581,8 +719,10 @@ source: "isap-pdf"
     - **a)** w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) przedstawiciel ministra właściwego do spraw finansów publicznych,”,
     - **b)** w ust. 4 pkt 2 i 3 otrzymują brzmienie: „2) na wniosek reprezentowanego podmiotu,
 
-- **3)** na wniosek Pełnomocnika, zaopiniowany przez reprezentowany podmiot.”, „3c. Zarząd Funduszu może żądać niezwłocznego zwrotu całości lub części środków do Funduszu lub zawiesić wypłatę dalszych kwot, jeżeli w ciągu roku budżetowego, w wyniku kontroli, o której mowa w ust. 3 pkt 6, stwierdzi nieprawidłowości polegające na wykorzystaniu przekazanych środków z Funduszu niezgodnie z ich przeznaczeniem.
+- **3)** na wniosek Pełnomocnika, zaopiniowany przez reprezentowany podmiot.”,
     - **c)** w ust. 6: - w pkt 2 wyraz „ustalanie” zastępuje się wyrazem „opiniowanie”, - uchyla się pkt 4, - w pkt 8 wyrazy „30 kwietnia” zastępuje się wyrazami „15 marca”;
+
+- **48)** w art. 51 po ust. 3b dodaje się ust. 3c-3f w brzmieniu: „3c. Zarząd Funduszu może żądać niezwłocznego zwrotu całości lub części środków do Funduszu lub zawiesić wypłatę dalszych kwot, jeżeli w ciągu roku budżetowego, w wyniku kontroli, o której mowa w ust. 3 pkt 6, stwierdzi nieprawidłowości polegające na wykorzystaniu przekazanych środków z Funduszu niezgodnie z ich przeznaczeniem.
 
 3d. Do oceny prawidłowości wykorzystania środków Funduszu stosuje się przepisy o finansach publicznych.
 
@@ -598,7 +738,23 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 29 listopada 1990 r. o pomocy społecznej (Dz.U. z 1998 r. Nr 64, poz. 414, z późn. zm.) w art. 27 w ust. 1 kropkę na końcu skreśla się i dodaje się wyrazy „lub ma orzeczony znaczny stopień niepełnosprawności.”.
 
-**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz.U. z 2000 r. Nr 14, poz. 176, z późn. zm.) wprowadza się następujące zmiany: niu: „7) ustawie o rehabilitacji zawodowej - rozumie się przez to ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz o zatrudnianiu osób niepełnosprawnych (Dz.U. Nr 123 poz. 776, z późn. zm.) .”;
+**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz.U. z 2000 r. Nr 14, poz. 176, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 5a w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: „7) ustawie o rehabilitacji zawodowej - rozumie się przez to ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz o zatrudnianiu osób niepełnosprawnych (Dz.U. Nr 123 poz. 776, z późn. zm.) .”;
+- **2)** w art. 21 w ust. 1 pkt 48 otrzymuje brzmienie: „48) dotacje, subwencje i dopłaty otrzymane z Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych przez zakłady pracy chronionej na podstawie przepisów o rehabilitacji zawodowej, z wyjątkiem otrzymanego dofinansowania do wynagrodzeń osób niepełnosprawnych, w tej części, w jakiej to dofinansowanie nie jest przekazane na zakładowy fundusz rehabilitacji osób niepełnosprawnych,”;
+- **3)** w art. 23 w ust. 1 pkt 29 otrzymuje brzmienie: „29) wpłat, o których mowa w art. 21 ust. 1 i w art. 23 ustawy o rehabilitacji zawodowej,”;
+- **4)** w art. 38 po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „2a. Płatnicy, o których mowa w art. 31, którzy utracili status zakładu pracy chronionej, zatrudniający osoby niepełnosprawne, kwoty pobranych zaliczek na podatek od przychodów tych osób z tytułów określonych w art. 12 oraz od zasiłków pieniężnych z ubezpieczenia społecznego wypłacanych przez tych płatników tym osobom:
+- **1)** za miesiące od początku roku do miesiąca włącznie, w którym dochód osoby niepełnosprawnej uzyskany od początku roku u tego płatnika przekroczył kwotę stanowiącą górną granicę pierwszego przedziału skali, o której mowa w art. 27 ust. 1, przekazują w wysokości:
+    - **a)** 25% na zakładowy fundusz rehabilitacji osób niepełnosprawnych - w przypadku płatników osiągających wskaźnik zatrudnienia osób niepełnosprawnych w wysokości od 25 do 30%,
+    - **b)** 50% na zakładowy fundusz rehabilitacji osób niepełnosprawnych - w przypadku płatników osiągających wskaźnik zatrudnienia osób niepełnosprawnych w wysokości od 30 do 35%,
+    - **c)** 75% na zakładowy fundusz rehabilitacji osób niepełnosprawnych - w przypadku płatników osiągających wskaźnik zatrudnienia osób niepełnosprawnych w wysokości od 35 do 40%,
+    - **d)** 100% na zakładowy fundusz rehabilitacji osób niepełnosprawnych - w przypadku płatników osiągających wskaźnik zatrudnienia osób niepełnosprawnych w wysokości co najmniej 40%, - w pozostałej części na zasadach określonych w ust. 1,
+
+- **2)** za miesiące następujące po miesiącu, w którym dochód osoby niepełnosprawnej uzyskany od początku roku u tego płatnika przekroczył kwotę, o której mowa w pkt 1, kwoty pobranych zaliczek na podatek płatnicy przekazują na zasadach określonych w ust. 1.
+
+2b. Wskaźnik zatrudnienia osób niepełnosprawnych, o którym mowa w ust. 2a, ustala się na podstawie art. 21 ust. 1 i 5 oraz art. 28 ust. 3 ustawy o rehabilitacji zawodowej.
+
+2c. Przepisy ust. 2a i 2b stosuje się w okresie 5 lat, licząc od końca roku, w którym płatnik utracił status zakładu pracy chronionej, jeżeli spełnia warunki określone w przepisach ustawy o rehabilitacji zawodowej.”.
 
 **Art. 4.** (uchylony)
 
@@ -606,7 +762,21 @@ source: "isap-pdf"
 
 **Art. 6.** W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. Nr 98, poz. 602, z późn. zm.) w art. 8 wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie z dnia 17 grudnia 2001 r. o zmianie ustawy o funduszu alimentacyjnym, ustawy o zasiłkach rodzinnych, pielęgnacyjnych i wychowawczych i ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz.U. Nr 154, poz. 1791) art. 4 otrzymuje brzmienie: „Art. 4. Osobom uprawnionym do zasiłku pielęgnacyjnego przed dniem wejścia w życie niniejszej ustawy zasiłek ten przysługuje na zasadach dotychczasowych do czasu utraty ważności dokumentu, na podstadłużej jednak niż do dnia 31 maja 2003 r.”.
+- **1)** ust. 1 i 2 otrzymują brzmienie: „1. Osoba niepełnosprawna o obniżonej sprawności ruchowej, kierująca pojazdem samochodowym oznaczonym kartą parkingową może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami, o których mowa w art. 7 ust. 2.
+
+2. Przepis ust. 1 stosuje się również do:
+
+- **1)** kierującego pojazdem przewożącego osobę o obniżonej sprawności ruchowej,
+- **2)** pracowników placówek zajmujących się opieką, rehabilitacją lub edukacją osób niepełnosprawnych pozostających pod opieką tych placówek.”,
+- **2)** ust. 5 otrzymuje brzmienie: „5. Kartę parkingową osobie, o której mowa w ust. 1, wydaje się na podstawie, wydanego przez zespół do spraw orzekania o niepełnosprawności, orzeczenia o zaliczeniu do znacznego, umiarkowanego, lub lekkiego stopnia niepełnosprawności o przyczynie niepełnosprawności z kodu R lub N lub na podstawie orzeczenia wydanego przez organy rentowe równoważnego na mocy przepisów szczególnych z orzeczeniami o niepełnosprawności.”,
+- **3)** po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „5a. W przypadku osób niepełnosprawnych posiadających orzeczenia zaliczające do stopnia lekkiego kartę parkingową wydaje się na podstawie orzeczenia, wraz ze wskazaniem, o którym mowa w art. 6b ust. 3 pkt 9 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz.U. Nr 123, poz. 776, z późn. zm.) . W przypadku orzeczeń wydanych przez organy rentowe równoważnych z orzeczeniami o stopniu lekkim, w których nieokreślono przyczyny niepełnosprawności, kartę parkingową wydaje się na podstawie orzeczenia wraz z zaświadczeniem lekarskim potwierdzającym ograniczenie sprawności ruchowej.
+
+5b. Kartę parkingową placówkom zajmującym się opieką, rehabilitacją lub edukacją osób niepełnosprawnych wydaje starosta.”,
+
+- **4)** w ust. 7 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) wzór oraz tryb wydania karty parkingowej dla placówek, o których mowa w ust. 2 pkt 2,”,
+- **5)** po ust. 7 dodaje się ust. 8 w brzmieniu: „8. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego i ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, rodzaj placówek zajmujących się opieką, rehabilitacją lub edukacją osób niepełnosprawnych uprawnionych do uzyskania karty parkingowej oraz tryb wydawania tym placówkom karty parkingowej, mając na względzie zapewnienie wydawania karty właściwym placówkom.”.
+
+**Art. 7.** W ustawie z dnia 17 grudnia 2001 r. o zmianie ustawy o funduszu alimentacyjnym, ustawy o zasiłkach rodzinnych, pielęgnacyjnych i wychowawczych i ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz.U. Nr 154, poz. 1791) art. 4 otrzymuje brzmienie: „Art. 4. Osobom uprawnionym do zasiłku pielęgnacyjnego przed dniem wejścia w życie niniejszej ustawy zasiłek ten przysługuje na zasadach dotychczasowych do czasu utraty ważności dokumentu, na podstawie którego zasiłek pielęgnacyjny był przyznany i wypłacany, nie dłużej jednak niż do dnia 31 maja 2003 r.”.
 
 **Art. 8.** W ustawie z dnia 17 grudnia 2001 r. o zmianie ustawy o pomocy społecznej, ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży, ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawy o systemie ubezpieczeń społecznych oraz ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz.U. Nr 154, poz. 1792) w art. 6 ust. 2 otrzymuje brzmienie: „2. Do zasiłku stałego przyznanego do dnia wejścia w życie ustawy stosuje się dotychczasowe kryterium dochodowe, a aktualne zaświadczenia lekarskie o stanie zdrowia dziecka dla ustalenia prawa do zasiłku pielęgnacyjnego obowiązują przez okres, na jaki zostały wydane, nie dłużej jednak niż do dnia 31 maja 2003 r.”.
 
@@ -631,6 +801,9 @@ source: "isap-pdf"
 
 **Art. 11.** Pracodawcy, którzy uzyskali status zakładu pracy chronionej przed dniem wejścia w życie ustawy, są obowiązani w terminie 12 miesięcy od dnia wejścia w życie ustawy do:
 
+- **1)** zwiększenia stanu zatrudnienia do co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy,
+- **2)** przekazywania na rachunek bankowy niewykorzystanych środków zakładowego funduszu nieprzeznaczanych na pomoc indywidualną dla niepełnosprawnych pracowników.
+
 **Art. 12.** Rady, o których mowa w art. 1 pkt 39 w zakresie dotyczącym art. 44a i 44b oraz w art. 1 pkt 47 w zakresie dotyczącym art. 50 ust. 2, zostaną powołane do dnia 30 marca 2003 r. na zasadach i w składzie określonych w ustawie zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 13.**
@@ -645,11 +818,22 @@ source: "isap-pdf"
 
 **Art. 15.** Informacje o ustalonej na zasadach obowiązujących do dnia 31 grudnia 2003 r. wysokości obniżenia wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o których mowa w art. 22 ustawy zmienianej w art. 1, z tytułu zakupu produkcji lub usługi w zakładzie pracy chronionej lub w zakładzie aktywności zawodowej dokonanego do dnia 31 grudnia 2003 r., mogą być uwzględniane przez pracodawcę zobowiązanego do wpłat:
 
+- **1)** aż do wyczerpania - w przypadku informacji wystawionych do dnia 31 grudnia 1998 r.,
+- **2)** w terminie do 12 miesięcy po dniu uzyskania informacji - w przypadku informacji wystawianych od dnia 1 stycznia 1999 r.
+
 **Art. 16.** Prowadzący zakład pracy chronionej lub zakład aktywności zawodowej w stosunku do tego zakładu otrzymuje zwrot podatku od towarów i usług na podstawie przepisów odrębnych za okresy miesięczne w 2003 r., nie dłużej jednak niż za grudzień 2003 r.
 
 **Art. 17.** Prowadzący zakład pracy chronionej ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, za okresy miesięczne w 2003 r., nie dłużej jednak niż za grudzień 2003 r., może na wniosek otrzymać dla tego zakładu:
 
+- **1)** dofinansowanie lub refundację wynagrodzeń osób niepełnosprawnych, u których stwierdzono chorobę psychiczną, upośledzenie umysłowe lub epilepsję oraz pracowników niewidomych, w wysokości 75% najniższego wynagrodzenia,
+- **2)** dofinansowanie w związku z zatrudnianiem osób niepełnosprawnych w przypadku braku podstaw do zwrotu podatku od towarów i usług lub, gdy jest on niższy o 90% od wynikającego z wyliczenia dokonanego na podstawie przepisów odrębnych.
+
 **Art. 18.** Przepisu art. 3 pkt 4 nie stosuje się do płatników, którzy status zakładu pracy chronionej utracili przed dniem 1 stycznia 2004 r.
 
 **Art. 19.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu, w którym ustawa została ogłoszona, z wyjątkiem:
+
+- **1)** art. 1 pkt 44 lit. b, który wchodzi w życie z dniem 1 lipca 2003 r.,
+- **2)** art. 1 pkt 9 w zakresie dotyczącym art. 10b ust. 3-5, pkt 15, pkt 16, pkt 18, pkt 24 w zakresie dotyczącym art. 32 ust. 1 pkt 4 oraz art. 3-5, które wchodzą w życie z dniem 1 stycznia 2004 r.,
+- **3)** art. 2, 7 i 8, które wchodzą w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2003 r.
+
 

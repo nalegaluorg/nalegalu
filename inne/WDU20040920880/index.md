@@ -8,7 +8,7 @@ pos: 880
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie przyrody
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-16 |
 | Data wydania | 2004-04-30 |
-| Ostatnia zmiana | 2026-05-07 |
+| Ostatnia zmiana | 2026-06-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040920880) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/880/text.pdf) |
 
 Art. 133–142. (pominięte)
@@ -59,6 +59,14 @@ Art. 133–142. (pominięte)
 
 **Art. 3.** Cele ochrony przyrody są realizowane przez:
 
+- **1)** uwzględnianie wymagań ochrony przyrody w strategiach, programach i dokumentach programowych, o których mowa w art. 14 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647 i
+- **1080)** , programach ochrony środowiska przyjmowanych przez organy jednostek samorządu terytorialnego, strategiach rozwoju województw, planach zagospodarowania przestrzennego województw, strategiach rozwoju gmin, strategiach rozwoju ponadlokalnego, planach ogólnych gmin, miejscowych planach zagospodarowania przestrzennego i planach zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej oraz w działalności gospodarczej i inwestycyjnej;
+- **2)** obejmowanie zasobów, tworów i składników przyrody formami ochrony przyrody;
+- **3)** opracowywanie i realizację ustaleń planów ochrony dla obszarów podlegających ochronie prawnej, programów ochrony gatunków, siedlisk i szlaków migracji gatunków chronionych;
+- **4)** realizację programu ochrony i zrównoważonego użytkowania różnorodności biologicznej wraz z planem działań;
+- **5)** prowadzenie działalności edukacyjnej, informacyjnej i promocyjnej w dziedzinie ochrony przyrody;
+- **6)** prowadzenie badań naukowych nad problemami związanymi z ochroną przyrody.
+
 **Art. 4.**
 
 1. Obowiązkiem organów administracji publicznej, osób prawnych i innych jednostek organizacyjnych oraz osób fizycznych jest dbałość o przyrodę będącą dziedzictwem i bogactwem narodowym.
@@ -72,6 +80,89 @@ Art. 133–142. (pominięte)
 **Art. 4a.** Ilekroć w niniejszej ustawie mowa jest o Wspólnocie rozumie się przez to Wspólnoty Europejskie.
 
 **Art. 5.** Użyte w ustawie określenia oznaczają:
+
+- **1)** gatunek – zarówno gatunek w znaczeniu biologicznym, jak i każdą niższą od gatunku biologicznego jednostkę systematyczną, populację, a także mieszańce tego gatunku w pierwszym lub drugim pokoleniu, z wyjątkiem form, ras i odmian udomowionych, hodowlanych lub uprawnych;
+- **1a)** gatunek będący przedmiotem zainteresowania Wspólnoty – gatunek roślin lub zwierząt, który na terytorium państw członkowskich Unii Europejskiej jest:
+    - **a)** zagrożony, z wyjątkiem gatunków, których naturalny zasięg na tym terytorium jest zasięgiem krańcowym i które nie są zagrożone lub podatne na zagrożenie w zachodnim regionie palearktycznym, lub
+    - **b)** podatny na zagrożenie, czyli mogący w najbliższej przyszłości zostać zakwalifikowanym do kategorii gatunków zagrożonych, jeśli czynniki będące przyczyną zagrożenia będą na niego nadal oddziaływać, lub
+    - **c)** rzadki, czyli o niewielkiej populacji, który nie jest obecnie zagrożony ani podatny na zagrożenie, ale podlega ryzyku zagrożenia ze względu na występowanie w obrębie ograniczonych obszarów geograficznych albo znaczne rozproszenie na większym obszarze, lub
+    - **d)** endemiczny i wymagający specjalnej uwagi ze względu na szczególny charakter jego siedliska lub potencjalne oddziaływanie jego eksploatacji na te siedliska lub potencjalne oddziaływanie jego eksploatacji na stan jego ochrony;
+
+- **1b)** gatunek o znaczeniu priorytetowym – gatunek zagrożony, w odniesieniu do którego Wspólnota ponosi szczególną odpowiedzialność z powodu wielkości jego naturalnego zasięgu mieszczącego się na terytorium państw członkowskich Unii Europejskiej;
+- **1c)** gatunek obcy – gatunek obcy w rozumieniu art. 3 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn. zm. );
+- **1d)** integralność obszaru Natura 2000 – spójność czynników strukturalnych i funkcjonalnych warunkujących zrównoważone trwanie populacji gatunków i siedlisk przyrodniczych, dla ochrony których zaprojektowano lub wyznaczono obszar Natura 2000;
+- **1e)** azyl dla zwierząt – ośrodek, w którym przetrzymuje się żywe zwierzęta:
+    - **a)** gatunków obcych,
+    - **b)** gatunków podlegających ochronie na podstawie przepisów rozporządzenia Rady (WE) nr 338/97 z dnia 9 grudnia 1996 r. w sprawie ochrony gatunków dzikiej fauny i flory w drodze regulacji handlu nimi (Dz. Urz. WE L 61 z 03.03.1997, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 3, str. 136), zwanego dalej „rozporządzeniem Rady 338/97”,
+    - **c)** gatunków niebezpiecznych dla życia i zdrowia ludzi,
+    - **d)** gatunków objętych ochroną gatunkową, które są niezdolne do życia w środowisku przyrodniczym;
+
+- **1f)** inwazyjny gatunek obcy, który prawdopodobnie spełnia kryteria uznania go za inwazyjny gatunek obcy stwarzający zagrożenie dla Unii – inwazyjny gatunek obcy stwarzający zagrożenie dla Unii w rozumieniu art. 3 pkt 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych oraz inwazyjny gatunek obcy, który prawdopodobnie spełnia kryteria uznania go za stwarzający zagrożenie dla Unii, umieszczony na liście określonej w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. z 2023 r. poz. 1589);
+- **1g)** inwazyjny gatunek obcy stwarzający zagrożenie dla Polski – inwazyjny gatunek obcy stwarzający zagrożenie dla Polski, umieszczony na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski określonej w przepisach wydanych na podstawie art. 23 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych;
+- **2)** korytarz ekologiczny – obszar umożliwiający migrację roślin, zwierząt lub grzybów;
+- **2a)** krzyżowanie zwierząt – kojarzenie osobników genetycznie odmiennych, w tym osobników różnych gatunków;
+- **2b)** obszar Natura 2000 – obszar specjalnej ochrony ptaków, specjalny obszar ochrony siedlisk lub obszar mający znaczenie dla Wspólnoty, utworzony w celu ochrony populacji dziko występujących ptaków lub siedlisk przyrodniczych lub gatunków będących przedmiotem zainteresowania Wspólnoty;
+- **2c)** obszar mający znaczenie dla Wspólnoty – projektowany specjalny obszar ochrony siedlisk, zatwierdzony przez Komisję Europejską w drodze decyzji, który w regionie biogeograficznym, do którego należy, w znaczący sposób przyczynia się do zachowania lub odtworzenia stanu właściwej ochrony siedliska przyrodniczego lub gatunku będącego przedmiotem zainteresowania Wspólnoty, a także może znacząco przyczynić się do spójności sieci obszarów Natura 2000 i zachowania różnorodności biologicznej w obrębie danego regionu biogeograficznego; w przypadku gatunków zwierząt występujących na dużych obszarach obszarem mającym znaczenie dla Wspólnoty jest obszar w obrębie naturalnego zasięgu takich gatunków, charakteryzujący się fizycznymi lub biologicznymi czynnikami istotnymi dla ich życia lub rozmnażania;
+- **2d)** obszar morski – polski obszar morski w rozumieniu ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125 oraz z 2025 r. poz. 409, 1535 i 1668);
+- **2e)** krajobraz – krajobraz w rozumieniu art. 2 pkt 16e ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527, 680 i 1668);
+- **2f)** krajobraz kulturowy – krajobraz kulturowy w rozumieniu art. 3 pkt 14 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168 i 1673);
+- **3)** obszar specjalnej ochrony ptaków – obszar wyznaczony, zgodnie z przepisami prawa Unii Europejskiej, do ochrony populacji dziko występujących ptaków jednego lub wielu gatunków, w którego granicach ptaki mają korzystne warunki bytowania w ciągu całego życia, w dowolnym jego okresie albo stadium rozwoju;
+- **4)** ochrona częściowa – ochronę gatunków roślin, zwierząt i grzybów dopuszczającą możliwość redukcji liczebności populacji oraz pozyskiwania osobników tych gatunków lub ich części;
+- **5)** ochrona czynna – stosowanie, w razie potrzeby, zabiegów ochronnych w celu przywrócenia naturalnego stanu ekosystemów i składników przyrody lub zachowania siedlisk przyrodniczych oraz siedlisk roślin, zwierząt lub grzybów;
+- **6)** ochrona ex situ – ochronę gatunków roślin, zwierząt i grzybów poza miejscem ich naturalnego występowania oraz ochronę skał, skamieniałości i minerałów w miejscach ich przechowywania;
+- **7)** ochrona in situ – ochronę gatunków roślin, zwierząt i grzybów, a także elementów przyrody nieożywionej, w miejscach ich naturalnego występowania;
+- **8)** ochrona krajobrazowa – zachowanie cech charakterystycznych danego krajobrazu;
+- **9)** ochrona ścisła – całkowite i trwałe zaniechanie bezpośredniej ingerencji człowieka w stan ekosystemów, tworów i składników przyrody oraz w przebieg procesów przyrodniczych na obszarach objętych ochroną, a w przypadku gatunków – całoroczną ochronę należących do nich osobników i stadiów ich rozwoju;
+- **10)** ogród botaniczny – urządzony i zagospodarowany teren wraz z infrastrukturą techniczną i budynkami funkcjonalnie z nim związanymi, będący miejscem ochrony ex situ, uprawy roślin różnych stref klimatycznych i siedlisk, uprawy roślin określonego gatunku oraz prowadzenia badań naukowych i edukacji;
+- **11)** ogród zoologiczny – urządzony i zagospodarowany teren wraz z infrastrukturą techniczną i budynkami funkcjonalnie z nim związanymi, gdzie są przetrzymywane oraz eksponowane publicznie przez co najmniej 7 dni w roku, żywe zwierzęta gatunków dziko występujących, z wyjątkiem:
+    - **a)** cyrków,
+    - **b)** sklepów ze zwierzętami,
+    - **c)** miejsc, w których eksponowanych jest publicznie nie więcej niż 15 gatunków tych zwierząt i łącznie nie więcej niż 50 okazów gadów, ptaków i ssaków,
+    - **d)** azyli dla zwierząt;
+
+- **11a)** okaz gatunku – roślinę, zwierzę lub grzyb z danego gatunku, żywe lub martwe, każdą ich część, formę rozwojową, jajo lub wydmuszkę, a także produkt pochodny również zawarty w innych towarach oraz towary, które zgodnie z dołączonym dokumentem, opakowaniem, oznakowaniem lub etykietą, lub jeżeli wynika to z jakichkolwiek innych okoliczności, mają zawierać lub zawierają części lub produkty pochodne z roślin, zwierząt, lub grzybów z danego gatunku;
+- **12)** ostoja – miejsce o warunkach sprzyjających egzystencji roślin, zwierząt lub grzybów zagrożonych wyginięciem lub rzadkich gatunków;
+- **13)** ośrodek rehabilitacji zwierząt – miejsce, w którym jest prowadzone leczenie i rehabilitacja zwierząt dziko występujących, wymagających okresowej opieki człowieka w celu przywrócenia ich do środowiska przyrodniczego;
+- **13a)** oś widokowa – wyobrażalna prosta kierująca wzrok na charakterystyczne elementy zagospodarowania terenu lub terenów;
+- **14)** otulina – strefę ochronną graniczącą z formą ochrony przyrody i wyznaczoną indywidualnie dla formy ochrony przyrody w celu zabezpieczenia przed zagrożeniami zewnętrznymi wynikającymi z działalności człowieka;
+- **15)** pozyskiwanie:
+    - **a)** zbiór roślin lub grzybów gatunków chronionych lub ich części ze stanowisk naturalnych do celów gospodarczych,
+    - **b)** chwytanie, łowienie lub zbieranie zwierząt gatunków chronionych lub ich części i produktów pochodnych do celów gospodarczych;
+    - **c)** (uchylona) 15a) roślina, zwierzę lub grzyb dziko występujący – roślinę, zwierzę lub grzyba:
+    - **a)** niepochodzące z uprawy lub hodowli,
+    - **b)** wprowadzone do środowiska przyrodniczego w celu odbudowy lub zasilenia populacji;
+
+- **15b)** przedpole ekspozycji – rozległe poziome płaszczyzny, w szczególności zbiorniki wodne, zbocza lub płaskie dna dolin, umożliwiające ekspozycję panoram;
+- **15c)** punkt widokowy – miejsce lub punkt topograficznie wyniesiony w terenie, z którego układ wizualny obszaru widzenia dla obserwatora jest szeroki i daleki;
+- **16)** różnorodność biologiczna – zróżnicowanie żywych organizmów występujących w ekosystemach, w obrębie gatunku i między gatunkami, oraz zróżnicowanie ekosystemów;
+- **16a)** rzeka – każdy ciek naturalny w rozumieniu art. 16 pkt 5 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535);
+- **17)** siedlisko przyrodnicze – obszar lądowy lub wodny, naturalny, półnaturalny lub antropogeniczny, wyodrębniony w oparciu o cechy geograficzne, abiotyczne i biotyczne;
+- **17a)** siedlisko przyrodnicze będące przedmiotem zainteresowania Wspólnoty – siedlisko przyrodnicze, które na terytorium państw członkowskich Unii Europejskiej:
+    - **a)** jest zagrożone zanikiem w swoim naturalnym zasięgu lub
+    - **b)** ma niewielki zasięg naturalny w wyniku regresji lub z powodu ograniczonego obszaru występowania wynikającego z jego wewnętrznych, przyrodniczych właściwości, lub
+    - **c)** stanowi reprezentatywny przykład typowych cech regionu biogeograficznego występującego w państwach członkowskich Unii Europejskiej;
+
+- **17b)** siedlisko przyrodnicze o znaczeniu priorytetowym – siedlisko przyrodnicze zagrożone zanikiem na terytorium państw członkowskich Unii Europejskiej, za którego ochronę Wspólnota ponosi szczególną odpowiedzialność z powodu wielkości jego naturalnego zasięgu mieszczącego się na terytorium tych państw;
+- **18)** siedlisko roślin, siedlisko zwierząt lub siedlisko grzybów – obszar występowania roślin, zwierząt lub grzybów w ciągu całego życia lub dowolnym stadium ich rozwoju;
+- **19)** specjalny obszar ochrony siedlisk – obszar wyznaczony, zgodnie z przepisami prawa Unii Europejskiej, w celu trwałej ochrony siedlisk przyrodniczych lub populacji zagrożonych wyginięciem gatunków roślin lub zwierząt lub w celu odtworzenia właściwego stanu ochrony siedlisk przyrodniczych lub właściwego stanu ochrony tych gatunków;
+- **20)** środowisko przyrodnicze – krajobraz wraz z tworami przyrody nieożywionej oraz naturalnymi i przekształconymi siedliskami przyrodniczymi z występującymi na nich roślinami, zwierzętami i grzybami;
+- **21)** tereny zieleni – tereny urządzone wraz z infrastrukturą techniczną i budynkami funkcjonalnie z nimi związanymi, pokryte roślinnością, pełniące funkcje publiczne, a w szczególności parki, zieleńce, promenady, bulwary, ogrody botaniczne, zoologiczne, jordanowskie i zabytkowe, cmentarze, zieleń towarzysząca drogom na terenie zabudowy, placom, zabytkowym fortyfikacjom, budynkom, składowiskom, lotniskom, dworcom kolejowym oraz obiektom przemysłowym;
+- **22)** udostępnianie – umożliwianie korzystania z parku narodowego, rezerwatu przyrody lub niektórych ich obszarów i obiektów w celach naukowych, edukacyjnych, turystycznych, rekreacyjnych, sportowych, filmowania, fotografowania, a także w celach zarobkowych;
+- **23)** walory krajobrazowe – wartości przyrodnicze, kulturowe, historyczne, estetyczno-widokowe obszaru oraz związane z nimi rzeźbę terenu, twory i składniki przyrody oraz elementy cywilizacyjne, ukształtowane przez siły przyrody lub działalność człowieka;
+- **23a)** krajobraz priorytetowy – krajobraz priorytetowy w rozumieniu art. 2 pkt 16f ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
+- **24)** właściwy stan ochrony gatunku – sumę oddziaływań na gatunek, mogącą w dającej się przewidzieć przyszłości wpływać na rozmieszczenie i liczebność jego populacji na terenie kraju lub państw członkowskich Unii Europejskiej lub naturalnego zasięgu tego gatunku, przy której dane o dynamice liczebności populacji tego gatunku wskazują, że gatunek jest trwałym składnikiem właściwego dla niego siedliska, naturalny zasięg gatunku nie zmniejsza się ani nie ulegnie zmniejszeniu w dającej się przewidzieć przyszłości oraz odpowiednio duże siedlisko dla utrzymania się populacji tego gatunku istnieje i prawdopodobnie nadal będzie istniało;
+- **25)** właściwy stan ochrony siedliska przyrodniczego – sumę oddziaływań na siedlisko przyrodnicze i jego typowe gatunki, mogącą w dającej się przewidzieć przyszłości wpływać na naturalne rozmieszczenie, strukturę, funkcje lub przeżycie jego typowych gatunków na terenie kraju lub państw członkowskich Unii Europejskiej lub naturalnego zasięgu tego siedliska, przy której naturalny zasięg siedliska przyrodniczego i obszary zajęte przez to siedlisko w obrębie jego zasięgu nie zmieniają się lub zwiększają się, struktura i funkcje, które są konieczne do długotrwałego utrzymania się siedliska, istnieją i prawdopodobnie nadal będą istniały oraz typowe dla tego siedliska gatunki znajdują się we właściwym stanie ochrony;
+- **26)** wstęp do parku narodowego albo rezerwatu przyrody – wejście lub wjazd na obszar objęty ochroną ścisłą lub czynną w celu naukowym, edukacyjnym, turystycznym lub rekreacyjnym;
+- **26a)** drzewo – wieloletnią roślinę o zdrewniałym jednym pędzie głównym (pniu) albo zdrewniałych kilku pędach głównych i gałęziach tworzących koronę w jakimkolwiek okresie podczas rozwoju rośliny;
+- **26b)** krzew – wieloletnią roślinę rozgałęziającą się na wiele równorzędnych zdrewniałych pędów, nietworzącą pnia ani korony, niebędącą pnączem;
+- **26c)** wywrot – drzewo lub krzew wywrócone w wyniku działania czynników naturalnych, wypadku lub katastrofy w ruchu lądowym, wodnym lub powietrznym, lub katastrofy budowlanej;
+- **26d)** złom – drzewo, którego pień uległ złamaniu, lub krzew, którego pędy uległy złamaniu w wyniku działania czynników naturalnych, wypadku lub katastrofy w ruchu lądowym, wodnym lub powietrznym, lub katastrofy budowlanej;
+- **26e)** żywotność drzewa lub krzewu – prawidłowy przebieg ogółu procesów życiowych drzewa lub krzewu;
+- **27)** zadrzewienie – pojedyncze drzewa, krzewy albo ich skupiska niebędące lasem w rozumieniu ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2025 r. poz.
+- **567)** lub plantacją, wraz z terenem, na którym występują, i pozostałymi składnikami szaty roślinnej tego terenu;
+- **27a)** plantacja – uprawę drzew lub krzewów o zwartej powierzchni co najmniej 0,1 ha, założoną w celu produkcyjnym;
+- **28)** zagrożenie wewnętrzne – czynnik mogący wywołać niekorzystne zmiany cech fizycznych, chemicznych lub biologicznych zasobów, tworów i składników chronionej przyrody, walorów krajobrazowych oraz przebiegu procesów przyrodniczych, wynikający z przyczyn naturalnych lub z działalności człowieka w granicach obszarów lub obiektów podlegających ochronie prawnej;
+- **29)** zagrożenie zewnętrzne – czynnik mogący wywołać niekorzystne zmiany cech fizycznych, chemicznych lub biologicznych zasobów, tworów i składników chronionej przyrody, walorów krajobrazowych oraz przebiegu procesów przyrodniczych, wynikający z przyczyn naturalnych lub z działalności człowieka, mający swoje źródło poza granicami obszarów lub obiektów podlegających ochronie prawnej.
 
 #### Rozdział 2 Formy ochrony przyrody
 
@@ -329,6 +420,13 @@ Art. 133–142. (pominięte)
 
 **Art. 10b.** Umowa dotycząca rozporządzenia nieruchomością jest zawierana w drodze bezprzetargowej, jeżeli:
 
+- **1)** stroną jest państwowa jednostka budżetowa;
+- **2)** zbycie nieruchomości następuje w drodze zamiany lub darowizny;
+- **3)** przedmiotem zbycia jest udział w nieruchomości, a zbycie następuje na rzecz innych współwłaścicieli nieruchomości;
+- **4)** zawierana jest umowa użyczenia;
+- **5)** zawierana jest umowa najmu lokalu mieszkalnego z pracownikiem parku narodowego;
+- **6)** zawierana jest umowa służebności drogi koniecznej lub służebności przesyłu.
+
 **Art. 10c.** Przetarg ogłasza, organizuje i przeprowadza dyrektor parku narodowego.
 
 **Art. 10d.**
@@ -376,6 +474,13 @@ Art. 133–142. (pominięte)
 2. Jeżeli osoba ustalona jako nabywca nieruchomości nie przystąpi bez usprawiedliwienia do zawarcia umowy w miejscu i terminie podanych w zawiadomieniu, o którym mowa w ust. 1, dyrektor parku narodowego może odstąpić od zawarcia umowy, a wpłacone wadium nie podlega zwrotowi. W zawiadomieniu zamieszcza się informację o tym uprawnieniu.
 
 **Art. 10h.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
+
+- **1)** tryb postępowania przy przeprowadzaniu poszczególnych rodzajów przetargów,
+- **2)** tryb powoływania, skład i sposób działania komisji przetargowej,
+- **3)** sposób ustalania wysokości wadium oraz terminy i formy jego wnoszenia i zwrotu,
+- **4)** sposób sporządzania protokołu z przeprowadzonego przetargu oraz zakres informacji w nim zawartych,
+- **5)** tryb postępowania w przypadku zaskarżenia czynności związanych z przeprowadzeniem przetargu,
+- **6)** tryb postępowania przy przeprowadzaniu rokowań – uwzględniając konieczność zapewnienia jawności i jednolitości tych postępowań, równego dostępu do udziału w przetargu oraz uzyskania najkorzystniejszego wyniku przetargu.
 
 **Art. 11.**
 
@@ -712,6 +817,11 @@ Art. 133–142. (pominięte)
 6. Przepisu ust. 5 nie stosuje się względem planów ochrony dla parku narodowego, rezerwatu przyrody lub parku krajobrazowego pokrywających się w całości lub w części z obszarem Natura 2000, dla którego ustanowiono plan zadań ochronnych, o którym mowa w art. 28, albo plan ochrony, o którym mowa w art. 29, obejmujące obszar parku narodowego, rezerwatu przyrody lub parku krajobrazowego.
 
 **Art. 21.** Minister właściwy do spraw środowiska określi dla parku narodowego, rezerwatu przyrody, parku krajobrazowego, w drodze rozporządzenia:
+
+- **1)** tryb sporządzania projektu planu ochrony,
+- **2)** zakres prac na potrzeby sporządzenia projektu planu ochrony,
+- **3)** tryb dokonywania zmian w planie ochrony,
+- **4)** zakres i sposoby ochrony zasobów, tworów i składników przyrody – kierując się potrzebą ochrony zasobów, tworów i składników przyrody żywej i nieożywionej w parkach narodowych, rezerwatach przyrody oraz parkach krajobrazowych, z uwzględnieniem możliwości technicznych, organizacyjnych i finansowych oraz poziomu wiedzy i nauki w zakresie ochrony przyrody.
 
 **Art. 22.**
 
@@ -1093,6 +1203,10 @@ Art. 133–142. (pominięte)
 
 **Art. 37b.** W decyzji, o której mowa w art. 37 ust. 1, regionalny dyrektor ochrony środowiska, a na obszarach morskich – dyrektor właściwego urzędu morskiego, może nałożyć obowiązek prowadzenia badań zanieczyszczenia gleby i ziemi lub pomiarów zawartości substancji w wodzie, w tym pobierania próbek, lub monitoringu przyrodniczego różnorodności biologicznej i krajobrazowej, określając:
 
+- **1)** zakres badań, pomiarów lub monitoringu;
+- **2)** metodykę prowadzenia badań, pomiarów lub monitoringu;
+- **3)** termin i formę przedkładania wyników badań, pomiarów lub monitoringu regionalnemu dyrektorowi ochrony środowiska, a na obszarach morskich – dyrektorowi właściwego urzędu morskiego.
+
 **Art. 37c.**
 
 1. Jeżeli działania mogące znacząco negatywnie oddziaływać na cele ochrony obszaru Natura 2000 lub obszaru znajdującego się na liście, o której mowa w art. 27 ust. 3 pkt 1, zostały podjęte przez więcej niż jeden podmiot, odpowiedzialność tych podmiotów jest solidarna.
@@ -1192,9 +1306,37 @@ Art. 133–142. (pominięte)
 
 **Art. 48.** Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
 
+- **1)** gatunki roślin:
+    - **a)** objętych ochroną ścisłą, z wyszczególnieniem gatunków wymagających ochrony czynnej,
+    - **b)** objętych ochroną częściową,
+    - **c)** objętych ochroną częściową, które mogą być pozyskiwane, oraz sposoby ich pozyskiwania,
+    - **d)** wymagających ustalenia stref ochrony ich ostoi lub stanowisk,
+
+- **2)** właściwe dla poszczególnych gatunków lub grup gatunków roślin zakazy wybrane spośród zakazów, o których mowa w art. 51 ust. 1 i 1a, oraz odstępstwa od zakazów wybrane spośród odstępstw, o których mowa w art. 51 ust. 2,
+- **3)** sposoby ochrony gatunków, w tym wielkość stref ochrony – kierując się potrzebą ochrony dziko występujących roślin, ich siedlisk, ostoi lub stanowisk oraz wymaganiami ekologicznymi, naukowymi i kulturowymi, a także biorąc pod uwagę obowiązujące w tym zakresie przepisy prawa Unii Europejskiej.
+
 **Art. 49.** Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
 
+- **1)** gatunki:
+    - **a)** zwierząt objętych ochroną ścisłą, z wyszczególnieniem gatunków wymagających ochrony czynnej,
+    - **b)** zwierząt objętych ochroną częściową,
+    - **c)** zwierząt objętych ochroną częściową, które mogą być pozyskiwane, oraz sposoby ich pozyskiwania,
+    - **d)** (uchylona)
+    - **e)** zwierząt wymagających ustalenia stref ochrony ostoi, miejsc rozrodu lub regularnego przebywania,
+
+- **2)** właściwe dla poszczególnych gatunków lub grup gatunków zwierząt zakazy wybrane spośród zakazów, o których mowa w art. 52 ust. 1 i 1a, oraz odstępstwa od zakazów wybrane spośród odstępstw, o których mowa w art. 52 ust. 2,
+- **3)** sposoby ochrony gatunków, w tym wielkość stref ochrony – kierując się potrzebą ochrony dziko występujących zwierząt, ich siedlisk, ostoi lub stanowisk oraz wymaganiami ekologicznymi, naukowymi i kulturowymi, a także biorąc pod uwagę obowiązujące w tym zakresie przepisy prawa Unii Europejskiej.
+
 **Art. 50.** Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
+
+- **1)** gatunki grzybów:
+    - **a)** objętych ochroną ścisłą,
+    - **b)** objętych ochroną częściową,
+    - **c)** objętych ochroną częściową, które mogą być pozyskiwane, oraz sposoby ich pozyskiwania,
+    - **d)** wymagających ustalenia stref ochrony ich ostoi lub stanowisk,
+
+- **2)** właściwe dla poszczególnych gatunków lub grup gatunków grzybów zakazy wybrane spośród zakazów, o których mowa w art. 51 ust. 1 i 1a, oraz odstępstwa od zakazów wybrane spośród odstępstw, o których mowa w art. 51 ust. 2,
+- **3)** sposoby ochrony gatunków, w tym wielkość stref ochrony – kierując się potrzebą ochrony dziko występujących grzybów, ich siedlisk, ostoi lub stanowisk oraz wymaganiami ekologicznymi, naukowymi i kulturowymi, a także biorąc pod uwagę obowiązujące w tym zakresie przepisy prawa Unii Europejskiej.
 
 **Art. 51.**
 
@@ -1502,6 +1644,14 @@ Art. 133–142. (pominięte)
 
 **Art. 59.** Organy ochrony przyrody są obowiązane do inicjowania i wspierania badań naukowych w zakresie:
 
+- **1)** ochrony siedlisk przyrodniczych;
+- **2)** ochrony siedlisk roślin i siedlisk zwierząt objętych ochroną gatunkową;
+- **3)** ochrony zwierząt prowadzących wędrowny tryb życia oraz ich siedlisk położonych na trasach wędrówek, a także miejsc ich zimowania lub gniazdowania;
+- **4)** ustalania zmienności liczebności populacji gatunków roślin i zwierząt;
+- **5)** opracowania i doskonalenia sposobów zapobiegania szkodom powodowanym przez zwierzęta objęte ochroną gatunkową;
+- **6)** opracowania i doskonalenia sposobów zapobiegania przypadkowemu chwytaniu lub zabijaniu zwierząt objętych ochroną gatunkową;
+- **7)** określania wpływu niekorzystnych skutków zanieczyszczania chemicznego na liczebność populacji roślin i zwierząt objętych ochroną gatunkową.
+
 **Art. 60.**
 
 1. Organy ochrony przyrody podejmują działania w celu ratowania zagrożonych wyginięciem gatunków roślin, zwierząt i grzybów objętych ochroną gatunkową, polegające na przenoszeniu tych gatunków do innych miejsc, eliminowaniu przyczyn ich zagrożenia, podejmowaniu ochrony ex situ oraz tworzeniu warunków do ich rozmnażania.
@@ -1768,7 +1918,15 @@ Art. 133–142. (pominięte)
 
 **Art. 70.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, warunki hodowli i utrzymywania poszczególnych grup gatunków zwierząt w ogrodzie zoologicznym, w tym:
 
+- **1)** niezbędne pomieszczenia i wyposażenie w urządzenia techniczne miejsc przebywania zwierząt poszczególnych gatunków lub grup gatunków,
+- **2)** minimalne warunki przestrzenne dla hodowli i utrzymywania zwierząt poszczególnych gatunków lub grup gatunków,
+- **3)** niezbędne warunki do prowadzenia reprodukcji zwierząt poszczególnych gatunków lub grup gatunków – kierując się potrzebą zapewnienia zwierzętom hodowanym i utrzymywanym w ogrodach zoologicznych warunków odpowiadających potrzebom biologicznym poszczególnych gatunków lub grup gatunków.
+
 **Art. 71.** W ogrodach zoologicznych hoduje się i utrzymuje zwierzęta:
+
+- **1)** urodzone i wychowane poza środowiskiem przyrodniczym;
+- **2)** które poza ogrodem nie mają szansy przeżycia;
+- **3)** jeżeli wymaga tego ochrona populacji lub gatunku albo realizacja celów naukowych.
 
 **Art. 72.**
 
@@ -2478,6 +2636,15 @@ Art. 133–142. (pominięte)
 
 **Art. 91.** Organami w zakresie ochrony przyrody są:
 
+- **1)** minister właściwy do spraw środowiska;
+- **1a)** Generalny Dyrektor Ochrony Środowiska;
+- **2)** wojewoda;
+- **2a)** regionalny dyrektor ochrony środowiska;
+- **2b)** marszałek województwa;
+- **2c)** dyrektor parku narodowego;
+- **3)** starosta;
+- **4)** wójt, burmistrz albo prezydent miasta.
+
 **Art. 92.**
 
 1. Minister właściwy do spraw środowiska wykonuje zadania organu administracji rządowej w zakresie ochrony przyrody przy pomocy Głównego Konserwatora Przyrody, będącego sekretarzem lub podsekretarzem stanu w urzędzie obsługującym tego ministra.
@@ -2548,6 +2715,11 @@ Art. 133–142. (pominięte)
 17. Członkowie Komisji do spraw CITES są obowiązani do zachowania w tajemnicy informacji, o których dowiedzieli się w związku z udziałem w pracach tej Komisji. Obowiązek zachowania w tajemnicy informacji trwa także po ustaniu członkostwa w tej Komisji.
 
 **Art. 95.** Organami opiniodawczo-doradczymi w zakresie ochrony przyrody są:
+
+- **1)** Państwowa Rada Ochrony Przyrody, działająca przy ministrze właściwym do spraw środowiska;
+- **2)** regionalna rada ochrony przyrody, działająca przy regionalnym dyrektorze ochrony środowiska;
+- **3)** rada naukowa parku narodowego, działająca przy dyrektorze parku narodowego;
+- **4)** rada parku krajobrazowego lub rada zespołu parków krajobrazowych, działająca przy dyrektorze parku krajobrazowego lub dyrektorze zespołu parków krajobrazowych.
 
 **Art. 96.**
 
@@ -3083,6 +3255,17 @@ Art. 133–142. (pominięte)
 
 **Art. 118b.** Przepisów art. 118 i art. 118a nie stosuje się do:
 
+- **1)** działań przewidzianych do realizacji w ramach przedsięwzięć mogących znacząco oddziaływać na środowisko, dla których przeprowadzono ocenę oddziaływania przedsięwzięcia na środowisko, w trakcie której uzgodniono realizację przedsięwzięcia z regionalnym dyrektorem ochrony środowiska;
+- **2)** rozbiórki i modyfikacji tam bobrowych oraz zasypywania nor bobrów, prowadzonych zgodnie z zezwoleniem, wydanym na podstawie art. 56 ust. 1, 2 lub 2b, lub zarządzeniem, wydanym na podstawie art. 56a;
+- **3)** (uchylony)
+- **4)** działań, o których mowa w art. 227 ust. 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, obejmujących:
+    - **a)** wykaszanie roślin z dna oraz brzegów śródlądowych wód powierzchniowych w terminie od dnia 15 sierpnia do końca lutego,
+    - **b)** usuwanie roślin pływających i korzeniących się w dnie śródlądowych wód powierzchniowych w terminie od dnia 15 sierpnia do końca lutego, poza obszarami Natura 2000, w których przedmiotem ochrony jest siedlisko przyrodnicze nizinne i podgórskie rzeki ze zbiorowiskami włosieniczników (Ranunculion fluitantis), o którym mowa w przepisach wydanych na podstawie art. 26,
+    - **c)** usuwanie drzew, których obwód pnia nie przekracza wielkości, o której mowa w art. 83f ust. 1 pkt 3, i krzewów, których wiek nie przekracza 10 lat, porastających dno oraz brzegi śródlądowych wód powierzchniowych,
+    - **d)** zasypywanie wyrw w brzegach i dnie śródlądowych wód powierzchniowych oraz ich zabudowę biologiczną, realizowane w terminie do 2 lat od momentu ich powstania,
+    - **e)** udrażnianie śródlądowych wód powierzchniowych przez usuwanie zatorów utrudniających swobodny przepływ wód,
+    - **f)** remont lub konserwację stanowiących własność właściciela wody budowli regulacyjnych oraz ubezpieczeń w obrębie tych budowli lub urządzeń wodnych.
+
 **Art. 119.** Zabrania się wznoszenia w pobliżu morza, jezior i innych zbiorników wodnych, rzek i kanałów obiektów budowlanych uniemożliwiających lub utrudniających ludziom i dziko występującym zwierzętom dostęp do wody, z wyjątkiem obiektów służących turystyce wodnej, gospodarce wodnej lub rybackiej oraz związanych z bezpieczeństwem powszechnym i obronnością kraju.
 
 **Art. 119a.**
@@ -3168,6 +3351,17 @@ Art. 133–142. (pominięte)
 
 **Art. 125.** Rośliny, zwierzęta lub grzyby, a także ich siedliska, nieobjęte formami ochrony przyrody mogą być niszczone lub zabijane jedynie w związku z:
 
+- **1)** realizacją zadań uzasadnionych potrzebami ochrony przyrody;
+- **2)** prowadzeniem badań naukowych lub edukacją;
+- **3)** racjonalną gospodarką;
+- **4)** amatorskim połowem ryb;
+- **5)** zbiorem na własne potrzeby;
+- **6)** prowadzeniem akcji ratowniczej;
+- **7)** bezpieczeństwem powszechnym;
+- **8)** bezpieczeństwem sanitarnym i weterynaryjnym;
+- **9)** ochroną życia i zdrowia ludzi;
+- **10)** zapobieganiem skutkom klęski żywiołowej lub ich usuwaniem.
+
 #### Rozdział 10 Skutki prawne objęcia ochroną
 
 **Art. 126.**
@@ -3217,6 +3411,25 @@ Art. 133–142. (pominięte)
 
 **Art. 127.** Kto umyślnie:
 
+- **1)** narusza zakazy obowiązujące w:
+    - **a)** parkach narodowych,
+    - **b)** rezerwatach przyrody,
+    - **c)** parkach krajobrazowych,
+    - **d)** obszarach chronionego krajobrazu,
+    - **e)** obszarach Natura 2000,
+
+- **2)** narusza zakazy obowiązujące w stosunku do:
+    - **a)** pomników przyrody,
+    - **b)** stanowisk dokumentacyjnych,
+    - **c)** użytków ekologicznych,
+    - **d)** zespołów przyrodniczo-krajobrazowych,
+    - **e)** (uchylona)
+
+- **3)** nie zgłasza do rejestru, o którym mowa w art. 64 ust. 1, posiadanych lub hodowlanych zwierząt,
+- **4)** (uchylony)
+- **5)** narusza zakaz, o którym mowa w art. 119a ust. 1,
+- **6)** wprowadza do obrotu produkty z fok wbrew warunkom określonym w art. 3 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1007/2009 z dnia 16 września 2009 r. w sprawie handlu produktami z fok (Dz. Urz. UE L 286 z 31.10.2009, str. 36) – podlega karze aresztu albo grzywny.
+
 **Art. 127a.**
 
 1. Kto, wbrew przepisom ustawy, wchodzi w posiadanie okazów roślin, zwierząt, grzybów objętych ochroną gatunkową w liczbie większej niż nieznaczna, w takich warunkach lub w taki sposób, że ma to wpływ na zachowanie właściwego stanu ochrony gatunku, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
@@ -3225,6 +3438,17 @@ Art. 133–142. (pominięte)
 
 **Art. 128.** Kto:
 
+- **1)** bez dokumentu wymaganego na podstawie przepisów rozporządzenia Rady 338/97 lub wbrew jego warunkom przewozi przez granicę Unii Europejskiej okaz gatunku podlegającego ochronie na podstawie przepisów tego rozporządzenia,
+- **2)** narusza przepisy prawa Unii Europejskiej dotyczące ochrony gatunków dziko żyjących zwierząt i roślin w zakresie regulacji obrotu nimi poprzez:
+    - **a)** nieprzedkładanie zgłoszenia importowego,
+    - **b)** używanie okazów określonych gatunków w innym celu niż wskazany w zezwoleniu importowym,
+    - **c)** korzystanie w sposób nieuprawniony ze zwolnień od nakazów przy dokonywaniu obrotu sztucznie rozmnożonymi roślinami,
+    - **d)** oferowanie zbycia lub nabycia, nabywanie lub pozyskiwanie, używanie lub wystawianie publicznie w celach zarobkowych, zbywanie, przetrzymywanie lub przewożenie w celu zbycia okazów określonych gatunków roślin lub zwierząt,
+    - **e)** używanie zezwolenia albo świadectwa dla okazu innego niż ten, dla którego było ono wydane,
+    - **f)** składanie wniosku o wydanie zezwolenia importowego, eksportowego, reeksportowego, lub świadectwa bez poinformowania o wcześniejszym odrzuceniu wniosku,
+
+- **3)** wbrew zakazom, o których mowa w art. 73 ust. 1, posiada i przetrzymuje lub sprowadza z zagranicy żywe zwierzęta gatunków niebezpiecznych dla życia i zdrowia ludzi, lub je sprzedaje, wymienia, wynajmuje, udziela z nich darowizny lub użycza je podmiotom nieuprawnionym do ich posiadania – podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+
 **Art. 128a.**
 
 1. Kto handluje okazami gatunku podlegającego ochronie na podstawie przepisów rozporządzenia Rady 338/97, w liczbie większej niż nieznaczna, w takich warunkach lub w taki sposób, że ma to wpływ na zachowanie właściwego stanu ochrony gatunku, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
@@ -3232,6 +3456,9 @@ Art. 133–142. (pominięte)
 2. Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 **Art. 129.** W razie ukarania za wykroczenie określone w art. 127 albo w art. 131 lub skazania za przestępstwo określone w art. 127a, art. 128 albo w art. 128a sąd może orzec:
+
+- **1)** przepadek przedmiotów służących do popełnienia wykroczenia lub przestępstwa oraz przedmiotów, roślin, zwierząt lub grzybów pochodzących z wykroczenia lub przestępstwa, chociażby nie stanowiły własności sprawcy;
+- **2)** obowiązek przywrócenia stanu poprzedniego, a jeśli obowiązek taki nie byłby wykonalny – nawiązkę do wysokości 10 000 złotych na rzecz organizacji społecznej działającej w zakresie ochrony przyrody lub właściwego, ze względu na miejsce popełnienia wykroczenia lub przestępstwa, wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej.
 
 **Art. 130.**
 
@@ -3254,6 +3481,24 @@ Art. 133–142. (pominięte)
 2. W razie ukarania za wykroczenie można orzec obowiązek przywrócenia do stanu poprzedniego.
 
 **Art. 131.** Kto:
+
+- **1)** prowadząc działalność gospodarczą w zakresie handlu zwierzętami gatunków podlegających ochronie na podstawie przepisów rozporządzenia Rady 338/97, nie posiada lub nie przekazuje odpowiedniej dokumentacji stwierdzającej legalność pochodzenia zwierzęcia, 1a) chwyta lub zabija dziko występujące zwierzęta, o których mowa w art. 49 pkt 1 lit. a i b przy użyciu urządzeń, sposobów lub metod, o których mowa w art. 54,
+- **2)** bez zezwolenia lub wbrew jego warunkom utworzy lub prowadzi ogród botaniczny, ogród zoologiczny, ośrodek lub azyl dla zwierząt,
+- **3)** przeprowadzając likwidację:
+    - **a)** ogrodu zoologicznego albo ośrodka – nie zapewnia przebywającym tam zwierzętom warunków odpowiadających ich potrzebom biologicznym,
+    - **b)** azylu dla zwierząt – nie zapewnia dobrostanu zwierząt tam przebywających,
+
+- **4)** (uchylony) 4a) nie zachowując należytej ostrożności, dopuszcza do ucieczki zwierzęcia gatunku niebezpiecznego dla życia i zdrowia ludzi,
+- **5)** bez zezwolenia lub wbrew jego warunkom przenosi z ogrodu botanicznego lub ogrodu zoologicznego do środowiska przyrodniczego rośliny lub zwierzęta gatunków zagrożonych wyginięciem,
+- **6)** (uchylony)
+- **7)** stosuje środki chemiczne na drogach publicznych oraz ulicach i placach w sposób znacząco szkodzący terenom zieleni lub zadrzewieniom,
+- **8)** prowadzi działania wymagające zgłoszenia, o którym mowa w art. 118 ust. 1, bez dokonania tego zgłoszenia albo niezgodnie z decyzją o wyrażeniu sprzeciwu, o której mowa w art. 118 ust. 6 pkt 1, albo bez uzyskania lub wbrew warunkom decyzji o warunkach prowadzenia działań, o której mowa w art. 118 ust. 8, w przypadku nałożenia obowiązku jej uzyskania,
+- **9)** (uchylony)
+- **10)** (uchylony)
+- **11)** nie powiadamia regionalnego dyrektora ochrony środowiska lub wójta, burmistrza albo prezydenta miasta o odkryciu kopalnych szczątków roślin lub zwierząt,
+- **12)** (uchylony)
+- **13)** wbrew przepisom art. 125 zabija zwierzęta, niszczy rośliny lub grzyby lub niszczy siedliska roślin, zwierząt lub grzybów,
+- **14)** bez zezwolenia lub wbrew jego warunkom narusza zakazy w stosunku do roślin, zwierząt lub grzybów objętych ochroną gatunkową – podlega karze aresztu albo grzywny.
 
 **Art. 131a.** (uchylony)
 
@@ -3343,4 +3588,29 @@ Art. 133–142. (pominięte)
 **Art. 161.** Traci moc ustawa z dnia 16 października 1991 r. o ochronie przyrody (Dz. U. z 2001 r. poz. 1079, z późn. zm. ).
 
 **Art. 162.** Ustawa wchodzi w życie z dniem 1 maja 2004 r., z wyjątkiem art. 39 i 134 pkt 2, które wchodzą w życie z dniem 1 stycznia 2005 r. Załącznik do ustawy z dnia 16 kwietnia 2004 r. (Dz. U. z 2026 r. poz. 13)
+
+- **1)** Babiogórski Park Narodowy z siedzibą w Zawoi;
+- **2)** Białowieski Park Narodowy z siedzibą w Białowieży;
+- **3)** Biebrzański Park Narodowy z siedzibą w Osowcu Twierdzy;
+- **4)** Bieszczadzki Park Narodowy z siedzibą w Ustrzykach Górnych;
+- **5)** Drawieński Park Narodowy z siedzibą w Drawnie;
+- **6)** Gorczański Park Narodowy z siedzibą w Porębie Wielkiej;
+- **7)** Kampinoski Park Narodowy z siedzibą w Izabelinie;
+- **8)** Karkonoski Park Narodowy z siedzibą w Jeleniej Górze;
+- **9)** Magurski Park Narodowy z siedzibą w Krempnej;
+- **10)** Narwiański Park Narodowy z siedzibą w Kurowie;
+- **11)** Ojcowski Park Narodowy z siedzibą w Ojcowie;
+- **12)** Park Narodowy „Bory Tucholskie” z siedzibą w Charzykowach;
+- **13)** Park Narodowy Gór Stołowych z siedzibą w Kudowie-Zdroju;
+- **14)** Park Narodowy „Ujście Warty” z siedzibą w Chyrzynie;
+- **15)** Pieniński Park Narodowy z siedzibą w Krościenku nad Dunajcem;
+- **16)** Poleski Park Narodowy z siedzibą w Urszulinie;
+- **17)** Roztoczański Park Narodowy z siedzibą w Zwierzyńcu;
+- **18)** Słowiński Park Narodowy z siedzibą w Smołdzinie;
+- **19)** Świętokrzyski Park Narodowy z siedzibą w Bodzentynie;
+- **20)** Tatrzański Park Narodowy z siedzibą w Zakopanem;
+- **21)** Wielkopolski Park Narodowy z siedzibą w Jeziorach;
+- **22)** Wigierski Park Narodowy z siedzibą w Krzywem;
+- **23)** Woliński Park Narodowy z siedzibą w Międzyzdrojach.
+
 

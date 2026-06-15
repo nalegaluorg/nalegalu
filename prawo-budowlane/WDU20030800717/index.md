@@ -912,7 +912,11 @@ Art. 68–82. (pominięte)
 
 11a. Do określenia wartości nieruchomości w przypadku, o którym mowa w ust. 1 pkt 2, nie uwzględnia się zmiany wartości nieruchomości będącej skutkiem uchwalenia lub zmiany planu ogólnego.
 
-12. W odniesieniu do zasad określania wartości nieruchomości, a także w odniesieniu do osób uprawnionych do określania tych wartości stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, o ile przepisy tej ustawy nie stanowią inaczej. Art. 37 [1] . 1. Jeżeli w związku z uchwaleniem planu miejscowego albo jego zmianą, w wyniku uwzględnienia ograniczeń w zabudowie i zagospodarowaniu terenu związanych z lokalizacją lotniczego urządzenia naziemnego i powierzchni ograniczających zabudowę, o których mowa w art. 86 ust. 7 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, korzystanie z nieruchomości lub jej części w dotychczasowy sposób lub zgodnie z dotychczasowym przeznaczeniem stało się niemożliwe bądź istotnie ograniczone, właściciel albo użytkownik wieczysty nieruchomości może żądać od Polskiej Agencji Żeglugi Powietrznej:
+12. W odniesieniu do zasad określania wartości nieruchomości, a także w odniesieniu do osób uprawnionych do określania tych wartości stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, o ile przepisy tej ustawy nie stanowią inaczej.
+
+**Art. 37¹.**
+
+1. Jeżeli w związku z uchwaleniem planu miejscowego albo jego zmianą, w wyniku uwzględnienia ograniczeń w zabudowie i zagospodarowaniu terenu związanych z lokalizacją lotniczego urządzenia naziemnego i powierzchni ograniczających zabudowę, o których mowa w art. 86 ust. 7 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, korzystanie z nieruchomości lub jej części w dotychczasowy sposób lub zgodnie z dotychczasowym przeznaczeniem stało się niemożliwe bądź istotnie ograniczone, właściciel albo użytkownik wieczysty nieruchomości może żądać od Polskiej Agencji Żeglugi Powietrznej:
 
 - **1)** odszkodowania za poniesioną rzeczywistą szkodę albo
 - **2)** wykupienia nieruchomości lub jej części.

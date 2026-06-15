@@ -8,7 +8,7 @@ pos: 1149
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów oraz o zmianie ustawy – Przepisy wprowadzające Kodeks karny
@@ -28,6 +28,149 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091411149) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1149/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. Nr 169, poz. 1411) wprowadza się następujące zmiany:
+
+- **1)** w art. 2:
+    - **a)** po pkt 8 dodaje się pkt 8a–8d w brzmieniu: „8a) koordynacja pobrania i przeszczepienia – uzgodnienia dotyczące czasu, miejsca, sposobu pobrania, nadzoru nad przebiegiem tego procesu, sposobu przekazania i transportu oraz przyjęcia komórek, tkanek lub narządu w zakładzie opieki zdrowotnej lub banku tkanek i komórek oraz ich dostarczenia do biorcy, przez uprawnionego pracownika;
+
+- **8b)** koordynator pobierania i przeszczepiania komórek, tkanek i narządów – uprawnionego i przeszkolonego pracownika organizującego koordynację pobrania i przeszczepienia;
+- **8c)** kryteria akceptacji – limity ilościowe i jakościowe, zakresy lub inne odpowiednie pomiary pozwalające na zaakceptowanie wyników badań;
+- **8d)** krytyczny moment – etap procesu, warunki procesu, wymagane badania lub inne istotne parametry lub elementy mające potencjalny wpływ na jakość i bezpieczeństwo bądź materiały mające bezpośrednio kontakt z komórkami, tkankami lub narządem, które muszą być kontrolowane w oparciu o wyznaczone kryteria akceptacji;”,
+    - **b)** po pkt 12 dodaje się pkt 12a w brzmieniu: „12a) standardowe procedury operacyjne – pisemne instrukcje opisujące przebieg określonych procesów wraz z charakterystyką wykorzystywanych materiałów i metod oraz oczekiwane wyniki tych procesów;”,
+    - **c)** po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) system zapewnienia jakości – strukturę organizacyjną, procedury, procesy i zasoby wpływające w sposób pośredni lub bezpośredni na osiągnięcie i utrzymanie wysokiej jakości;”,
+    - **d)** po pkt 15 dodaje się pkt 15a w brzmieniu: „15a) walidacja procesu – udokumentowane działanie mające na celu wykazanie, że proces prowadzony w ustalonym zakresie parametrów przebiega skutecznie i w sposób powtarzalny oraz spełnia ustalone kryteria akceptacji;”,
+    - **e)** dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 w brzmieniu: „2. Ilekroć w ustawie jest mowa o państwach członkowskich Unii Europejskiej rozumie się przez to również państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.”;
+
+- **2)** art. 3 otrzymuje brzmienie: „Art. 3. 1. Za pobrane od dawcy komórki, tkanki lub narządy nie można żądać ani przyjmować zapłaty, innej korzyści majątkowej lub korzyści osobistej.
+
+2. Zwrot kosztów pobrania, przechowywania, przetwarzania, sterylizacji, dystrybucji i przeszczepiania komórek, tkanek lub narządów pobranych od dawcy nie jest zapłatą i nie stanowi korzyści majątkowej lub osobistej w rozumieniu ust. 1.
+
+3. Do kosztów pobrania komórek, tkanek i narządów zalicza się koszty:
+
+- **1)** koordynacji pobrania;
+- **2)** badań i wydania na ich podstawie opinii lekarskich;
+- **3)** identyfikacji potencjalnego dawcy;
+- **4)** kwalifikacji potencjalnego dawcy;
+- **5)** komisyjnego stwierdzenia trwałego nieodwracalnego ustania czynności mózgu w sposób określony w art. 9 ust. 4;
+- **6)** hospitalizacji potencjalnego dawcy, od stwierdzenia trwałego nieodwracalnego ustania czynności mózgu do pobrania narządu, wraz z czynnościami polegającymi na podtrzymywaniu czynności narządów;
+- **7)** badań laboratoryjnych przed pobraniem komórek, tkanek lub narządów;
+- **8)** badań kwalifikujących narządy do przeszczepienia, po pobraniu od dawcy;
+- **9)** zabiegu pobrania komórek lub tkanek;
+- **10)** badań kwalifikujących komórki lub tkanki do przeszczepienia, po pobraniu od dawcy;
+- **11)** zabiegu pobrania narządów z uwzględnieniem kosztów ponoszonych przez zakład opieki zdrowotnej, w którym:
+    - **a)** pobrano narząd lub narządy,
+    - **b)** przeszczepiono pobrany narząd lub narządy.
+
+4. Do kosztów pobrania szpiku, komórek krwiotwórczych krwi obwodowej i krwi pępowinowej, poza kosztami określonymi w ust. 3 pkt 1–4, 7 i 9, zalicza się koszty:
+
+- **1)** transportu potencjalnego dawcy do zakładu opieki zdrowotnej, w którym ma być dokonane pobranie szpiku i komórek krwiotwórczych krwi obwodowej oraz potencjalnego dawcy albo dawcy z tego zakładu opieki zdrowotnej;
+- **2)** pobytu dawcy w zakładzie opieki zdrowotnej związanego z pobraniem szpiku i komórek krwiotwórczych krwi obwodowej;
+- **3)** przechowywania i przetworzenia szpiku, komórek krwiotwórczych krwi obwodowej i krwi pępowinowej;
+- **4)** transportu pobranego i przetworzonego szpiku, komórek krwiotwórczych krwi obwodowej i krwi pępowinowej do zakładu opieki zdrowotnej, w którym ma być dokonane przeszczepienie;
+- **5)** ponoszone przez ośrodek dawców szpiku w związku z udostępnianiem szpiku, komórek krwiotwórczych krwi obwodowej i krwi pępowinowej.
+
+5. Do kosztów pobrania komórek lub tkanek ze zwłok ludzkich, poza kosztami określonymi w ust. 3 pkt 1–4, 7, 9 i 10, zalicza się koszty:
+
+- **1)** transportu komórek lub tkanek z zakładu opieki zdrowotnej, zak ładu medycyny sądowej, zakładu anatomii patologicznej uczelni medycznej i uniwersytetu z wydziałem medycznym, medycznej jednostki badawczo-rozwojowej i zakładu pogrzebowego posiadającego salę sekcyjną do banku tkanek i komórek;
+- **2)** osobowe, rzeczowe, materiałowe i organizacyjne niezbędne do pobrania komórek lub tkanek;
+- **3)** testowania, przetwarzania, konserwowania, sterylizacji, przechowywania i dystrybucji komórek lub tkanek.
+
+6. Do kosztów pobrania od żywego dawcy regenerujących się komórek lub tkanek, innych niż szpik, komórki krwiotwórcze krwi obwodowej i krwi pępowinowej, poza kosztami określonymi w ust. 3 pkt 1–4, 7 i 9, zalicza się koszty:
+
+- **1)** transportu potencjalnego dawcy do zakładu opieki zdrowotnej, w którym ma być dokonane pobranie, lub do zakładu opieki zdrowotnej, w którym ma być dokonane przeszczepienie oraz potencjalnego dawcy albo dawcy z tych zakładów opieki zdrowotnej;
+- **2)** pobytu potencjalnego dawcy w zakładzie opieki zdrowotnej związane z pobraniem;
+- **3)** przechowywania i przetworzenia pobranych komórek lub tkanek;
+- **4)** transportu z zakładu opieki zdrowotnej pobranych komórek lub tkanek do banku tkanek i komórek;
+- **5)** hodowania pobranych komórek lub tkanek;
+- **6)** transportu pobranych komórek lub tkanek do zakładu opieki zdrowotnej, w którym ma być dokonane przeszczepienie.
+
+7. Do kosztów pobrania narządu od żywego dawcy, poza kosztami określonymi w ust. 3 pkt 1–4, 7 i 11, zalicza się koszty:
+
+- **1)** transportu żywego potencjalnego dawcy do zakładu opieki zdrowotnej, w którym ma być dokonane pobranie lub do zakładu opieki zdrowotnej, w którym ma być dokonane przeszczepienie oraz żywego potencjalnego dawcy albo żywego dawcy z tych zakładów opieki zdrowotnej;
+- **2)** przygotowania żywego potencjalnego dawcy do pobrania;
+- **3)** transportu pobranego narządu do zakładu opieki zdrowotnej, w którym ma być dokonane przeszczepienie;
+- **4)** leczenia żywego dawcy po zabiegu pobrania narządu.
+
+8. Do kosztów przeszczepienia narządów, szpiku, komórek krwiotwórczych krwi obwodowej i krwi pępowinowej zalicza się koszty:
+
+- **1)** koordynacji przeszczepienia;
+- **2)** transportu potencjalnego biorcy do zakładu opieki zdrowotnej, w którym ma być dokonane przeszczepienie;
+- **3)** identyfikacji i kwalifikacji potencjalnego biorcy do przeszczepienia;
+- **4)** wykonania zabiegu przeszczepienia;
+- **5)** leczenia po zabiegu przeszczepienia, przez okres ustalony w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+9. Zwrotu kosztów określonych w ust. 3 pkt 6, 7 i 11 lit. a, dokonuje Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant” albo Narodowy Fundusz Zdrowia na podstawie przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. Zwrotu kosztów dokonuje się na podstawie faktury wystawionej przez zakład opieki zdrowotnej, który dokonał pobrania narządu.
+
+10. Zwrotu kosztów, o których mowa w ust. 3 pkt 8 i 11 lit. b, dokonuje zakład opieki zdrowotnej, któremu dostarczono w celu przeszczepienia narząd, na podstawie faktury wystawionej przez zakład opieki zdrowotnej, który dokonał pobrania narządu.
+
+11. Zwrotu kosztów, o których mowa w ust. 3 pkt 9 oraz w ust. 5 i 6, dokonuje bank tkanek i komórek na podstawie faktury wystawionej przez podmiot, o którym mowa w art. 36 ust. 1 pkt 1 lub 3, który dokonał pobrania komórek lub tkanek.
+
+12. Zwrotu zakładowi opieki zdrowotnej kosztów określonych w:
+
+- **1)** ust. 3 pkt 1–5 - dokonuje Narodowy Fundusz Zdrowia,
+- **2)** ust. 4, 7 i 8 - dokonuje Narodowy Fundusz Zdrowia albo minister właściwy do spraw zdrowia - w ramach umowy o udzielanie świadczeń opieki zdrowotnej zawartej na podstawie przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+13. Koszty, o których mowa w ust. 3 pkt 10, są kosztami działalności banku tkanek i komórek.
+
+14. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy sposób ustalania kosztów czynności związanych z pobieraniem, przechowywaniem, przetwarzaniem, sterylizacją i dystrybucją komórek, tkanek i narządów, uwzględniając procedury związane z wykonywaniem tych czynności.”;
+
+- **3)** po art. 9 dodaje się art. 9a w brzmieniu: „Art. 9a. 1. Pobranie komórek, tkanek lub narządów do przeszczepienia jest dopuszczalne po stwierdzeniu zgonu wskutek nieodwracalnego zatrzymania krążenia.
+
+2. Lekarz stwierdzający zgon wskutek nieodwracalnego zatrzymania krążenia nie może brać udziału w postępowaniu obejmującym pobieranie i przeszczepianie komórek, tkanek lub narządów od osoby zmarłej, u której stwierdził zgon wskutek nieodwracalnego zatrzymania krążenia.
+
+3. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, kryteria i sposób stwierdzenia nieodwracalnego zatrzymania krążenia.”;
+
+- **4)** w art. 16:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W celu umożliwienia dokonania przeszczepień szpiku, komórek krwiotwórczych krwi obwodowej i krwi pępowinowej od dawców niespokrewnionych tworzy się centralny rejestr niespokrewnionych potencjalnych dawców szpiku i krwi pępowinowej, zwany dalej „rejestrem szpiku i krwi pępowinowej.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Rejestr szpiku i krwi pępowinowej jest bazą danych o potencjalnych dawcach allogenicznego szpiku, komórek krwiotwórczych krwi obwodowej i krwi pępowinowej.”,
+    - **c)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) rejestru potencjalnych dawców szpiku i komórek krwiotwórczych krwi obwodowej;”,
+    - **d)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „W rejestrze, o którym mowa w ust. 2 pkt 1, zamieszcza się następujące dane potencjalnego dawcy szpiku i komórek krwiotwórczych krwi obwodowej:”,
+    - **e)** ust. 5 otrzymuje brzmienie: „5. Dane, o których mowa w ust. 3 i 4, zakłady opieki zdrowotnej i fundacje, o których mowa w art. 16a ust. 1, lub banki tkanek i komórek przekazują niezwłocznie do rejestru szpiku i krwi pępowinowej.”;
+
+- **5)** po art. 16 dodaje się art. 16a-16c w brzmieniu: „Art. 16a. 1. Czynności polegające na pozyskiwaniu potencjalnych dawców allogenicznego szpiku i komórek krwiotwórczych krwi obwodowej mogą wykonywać zakłady opieki zdrowotnej albo fundacje, zwane dalej „ośrodkami dawców szpiku”, po uzyskaniu pozwolenia ministra właściwego do spraw zdrowia.
+
+2. Do zadań ośrodka dawców szpiku należy w szczególności:
+
+- **1)** pozyskiwanie potencjalnych dawców allogenicznego szpiku i komórek krwiotwórczych krwi obwodowej;
+- **2)** badanie antygenów zgodności tkankowej lub zlecanie tego badania właściwym podmiotom;
+- **3)** przechowywanie danych, o których mowa w ust. 8, i ich aktualizacja z uwzględnieniem możliwości ich przechowywania w formie elektronicznej;
+- **4)** organizowanie opieki nad dawcami szpiku i komórek krwiotwórczych krwi obwodowej;
+- **5)** niezwłoczne przekazywanie danych o pozyskanych potencjalnych dawcach szpiku i komórek krwiotwórczych krwi obwodowej do rejestru szpiku i krwi pępowinowej;
+- **6)** udostępnianie szpiku i komórek krwiotwórczych krwi obwodowej krajowym lub zagranicznym ośrodkom przeszczepiającym szpik i komórki krwiotwórcze krwi obwodowej;
+- **7)** współpraca z innymi ośrodkami dawców szpiku i ośrodkami przeszczepiającymi szpik i komórki krwiotwórcze krwi obwodowej.
+
+3. Merytoryczny nadzór nad działalnością ośrodków dawców szpiku sprawuje krajowy konsultant w dziedzinie hematologii w porozumieniu z krajowym konsultantem w dziedzinie immunologii klinicznej.
+
+4. Zadania, o których mowa w ust. 2, wykonują osoby, które posiadają wykształcenie medyczne, biologiczne lub biotechnologiczne i odbyły szkolenie, o którym mowa w art. 40a ust. 1.
+
+5. Zadanie, o którym mowa w ust. 2 pkt 2, finansuje się również ze środków Centrum Organizacyjno-Koordynacyjnego do Spraw Transplantacji „Poltransplant”, na podstawie umowy.
+
+6. Ośrodek dawców szpiku zawiera pisemną umowę w zakresie badań lekarskich i antygenów zgodności tkankowej, których sam nie wykonuje, z podmiotem, którego działalność wpływa na jakość i bezpieczeństwo szpiku lub komórek krwiotwórczych krwi obwodowej. Przepisy art. 31 ust. 2 i 3 stosuje się odpowiednio.
+
+7. Ośrodek dawców szpiku zawiera pisemną umowę na pobieranie od potencjalnych dawców szpiku lub komórek krwiotwórczych krwi obwodowej z zakładem opieki zdrowotnej posiadającym pozwolenie na wykonywanie tych czynności.
+
+8. Ośrodek dawców szpiku w zakresie wykonywania zadania, o którym mowa w ust. 2 pkt 1, gromadzi dane potencjalnych dawców szpiku i komórek krwiotwórczych krwi obwodowej, które obejmują:
+
+- **1)** imię i nazwisko;
+- **2)** datę i miejsce urodzenia;
+- **3)** adres miejsca zamieszkania;
+- **4)** numer PESEL, jeżeli posiada;
+- **5)** informacje o antygenach zgodności tkankowej;
+- **6)** wskazanie podmiotu, który dokonał badania antygenów zgodności tkankowej;
+- **7)** inne informacje medyczne o istotnym znaczeniu.
+
+9. Ośrodek dawców szpiku przechowuje dokumentację potencjalnych dawców szpiku i komórek krwiotwórczych krwi obwodowej przez co najmniej 30 lat od dnia założenia dokumentacji potencjalnego dawcy szpiku i komórek krwiotwórczych krwi obwodowej, w sposób umożliwiający identyfikację potencjalnego dawcy szpiku i komórek krwiotwórczych krwi obwodowej.
+
+10. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** sposób organizacji ośrodka dawców szpiku,
+- **2)** sposób pozyskiwania i badania potencjalnych dawców szpiku i komórek krwiotwórczych krwi obwodowej,
+- **3)** tryb badania antygenów zgodności tkankowej lub zlecania tego badania właściwym podmiotom,
+- **4)** sposób postępowania z dokumentacją potencjalnych dawców szpiku i komórek krwiotwórczych krwi obwodowej,
+- **5)** tryb udostępniania szpiku i komórek krwiotwórczych krwi obwodowej,
+- **6)** warunki transportu próbek do badań potencjalnych dawców szpiku i komórek krwiotwórczych krwi obwodowej,
+- **7)** sposób i warunki organizowania opieki nad dawcami szpiku lub komórek krwiotwórczych krwi obwodowej,
+- **8)** tryb przekazywania danych, o których mowa w ust. 8, do rejestru szpiku i krwi pępowinowej,
+- **9)** standardowe procedury operacyjne obowiązujące w ośrodku dawców szpiku – uwzględniając w szczególności prawidłową realizację zadań, o których mowa w ust. 2, oraz zapewnienie bezpieczeństwa dawców i biorców.
 
 **Art. 16b.**
 
@@ -218,11 +361,80 @@ source: "isap-pdf"
 
 **Art. 37d.** Bank tkanek i komórek, zakład opieki zdrowotnej, o którym mowa w art. 36 ust. 1 pkt 1, 2 i 5, oraz medyczne laboratorium diagnostyczne, o którym mowa w art. 37 ust. 1, są obowiązane:
 
+- **1)** prowadzić walidację wszystkich procesów,
+- **2)** określać krytyczne momenty wszystkich procesów, które powinny być kontrolowane w oparciu o wyznaczone kryteria akceptacji,
+- **3)** prowadzić kwalifikację sprzętu, urządzeń technicznych i środowiska przebiegającego procesu rozumianą jako udokumentowane działanie mające na celu wykazanie, że to środowisko, sprzęt lub urządzenia są odpowiednio zainstalowane i pracują właściwie - w celu zapewnienia jakości i bezpieczeństwa wymaganego dla danego typu komórki, tkanki lub narządu oraz uzyskania oczekiwanych wyników.
+
 **Art. 37e.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy komórek, tkanek lub narządów, oraz sposób oznaczania komórek, tkanek lub narządów, za pomocą tego oznakowania,
+- **2)** szczegółowe wymagania w zakresie monitorowania, o którym mowa w art. 37c ust. 3 – uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców.”.
+- **18)** w art. 38 w ust. 3: 1 pkt 1, 4 i 5;”,
+    - **a)** pkt 11 otrzymuje brzmienie: „11) przyjmowanie wniosków od jednostek, o których mowa w art. 36 ust.
+    - **b)** dodaje się pkt 12–14 w brzmieniu: „12) organizowanie szkoleń, o których mowa w art. 40a ust. 1, w zakresie pobierania, przechowywania i przeszczepiania narządów oraz szpiku i komórek krwiotwórczych krwi obwodowej;
+
+- **13)** prowadzenie listy osób, które odbyły szkolenia, o których mowa w art. 40a ust. 1, w zakresie pobierania, przechowywania i przeszczepiania narządów oraz szpiku i komórek krwiotwórczych krwi obwodowej;
+- **14)** przekazywanie danych, o których mowa w art. 16 ust. 3 i 4, do europejskich i światowych rejestrów szpiku i krwi pępowinowej.”;
+- **19)** w art. 39:
+    - **a)** w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5–7 w brzmieniu: „5) organizowanie szkoleń, o których mowa w art. 40a ust. 1, w zakresie pobierania, gromadzenia, testowania, przetwarzania, sterylizacji, przechowywania i dystrybucji komórek i tkanek;
+
+- **6)** prowadzenie listy osób, które odbyły szkolenia, o których mowa w art. 40a ust. 1, w zakresie pobierania, gromadzenia, testowania, przetwarzania, sterylizacji, przechowywania i dystrybucji komórek i tkanek;
+- **7)** sprawowanie nadzoru merytorycznego nad działalnością zespołów pobierających.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Krajowe Centrum Bankowania Tkanek i Komórek może w ośrodkach dawców szpiku refundować koszt wynagrodzenia osób, o których mowa w art. 16a ust. 4, na podstawie umowy.”;
+
+- **20)** po art. 40 dodaje się art. 40a w brzmieniu: „Art. 40a. 1. Organizowanie szkoleń osób, których czynności bezpośrednio wpływają na jakość komórek, tkanek lub narządów oraz bezpieczeństwo dawców i biorców, prowadzi:
+- **1)** Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”, dla koordynatorów pobierania i przeszczepiania komórek, tkanek i narządów w zakresie pobierania, przechowywania i przeszczepiania narządów oraz szpiku, komórek krwiotwórczych krwi obwodowej i krwi pępowinowej;
+- **2)** Krajowe Centrum Bankowania Tkanek i Komórek w zakresie pobierania, gromadzenia, testowania, przetwarzania, sterylizacji, przechowywania i dystrybucji komórek i tkanek oraz pozyskiwania szpiku, komórek krwiotwórczych krwi obwodowej i krwi pępowinowej.
+
+2. Szkolenia, o których mowa w ust. 1, prowadzi się w formie szkolenia:
+
+- **1)** wstępnego – dla osób nowo zatrudnionych;
+- **2)** ustawicznego, nie rzadziej niż co 2 lata – dla wszystkich pracowników;
+- **3)** uaktualniającego – w przypadku zmian procedur lub rozwoju wiedzy naukowej w zakresie pobierania, przechowywania i przeszczepiania komórek, tkanek i narządów.
+
+3. Szkolenia, o których mowa w ust. 1, prowadzi się zgodnie z programem szkoleń opracowanym przez podmioty, o których mowa w ust. 1, na podstawie ramowego programu szkoleń określonego przepisami wydanymi na podstawie ust. 8.
+
+4. Szkolenia, o których mowa w ust. 1, mają na celu:
+
+- **1)** zdobycie umiejętności w realizowaniu wyznaczonych zadań;
+- **2)** zdobycie odpowiedniej wiedzy i zrozumienie procesów oraz zasad wykonywanych zadań;
+- **3)** zrozumienie struktury organizacyjnej, systemu zapewnienia jakości i zasad ochrony zdrowia i bezpieczeństwa jednostki, w której są zatrudnione;
+- **4)** zdobycie odpowiednich wiadomości o etycznych i prawnych aspektach wykonywanych zadań związanych z pobieraniem, gromadzeniem, testowaniem, przetwarzaniem, sterylizacją, przechowywaniem i dystrybucją komórek, tkanek i narządów.
+
+5. Szkolenia, o których mowa w ust. 1, należy udokumentować, a po ich zakończeniu uczestnictwo i wyniki potwierdzić zaświadczeniem.
+
+6. Szkolenia, o których mowa w ust. 1, są nieodpłatne, a ich finansowanie następuje ze środków budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia, przeznaczonych na finansowanie Krajowego Centrum Bankowania Tkanek i Komórek oraz Centrum Organizacyjno-Koordynacyjnego do Spraw Transplantacji „Poltransplant”.
+
+7. Jednostki, w których odbywają się szkolenia, o których mowa w ust. 1, powinny spełniać odpowiednie wymagania, w szczególności:
+
+- **1)** zapewnić bazę dydaktyczną dostosowaną do liczby osób uczestniczących w szkoleniach;
+- **2)** zapewnić odpowiednią kadrę dydaktyczną;
+- **3)** zapewnić sprawną organizację szkolenia;
+- **4)** uwzględniać, przy opracowywaniu programu szkolenia, aktualną wiedzę, osiągnięcia teorii i praktyki oraz zweryfikowane wyniki badań naukowych.
+
+8. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, ramowe programy szkoleń, o których mowa w ust. 1, sposób dokumentowania ich przebiegu, wzór zaświadczenia o odbytym szkoleniu oraz szczegółowe wymagania wobec jednostek, w których odbywają się te szkolenia, uwzględniając konieczność osiągnięcia celów, o których mowa w ust. 4.”;
+
+- **21)** w art. 41 w ust. 6: 4;”, 1 pkt 1, 4 i 5, oraz medyczne laboratoria diagnostyczne i podmioty takie pozwolenia dotychczas posiadające,”;
+    - **a)** pkt 6 otrzymuje brzmienie: „6) opiniowanie wniosków, o których mowa w art. 26 ust. 2 i art. 36 ust.
+    - **b)** w pkt 8 lit. a otrzymuje brzmienie: „a) spełnienia wymogów przepisów ustawy przez ubiegające się o pozwolenia: banki tkanek i komórek, podmioty, o których mowa w art. 36 ust.
+
+- **22)** w art. 42:
+    - **a)** w ust. 2 pkt 3 otrzymuje brzmienie: „3) udziela i odmawia pozwolenia bankom tkanek i komórek, jednostkom, o których mowa w art. 36 ust. 1 pkt 1, 4 i 5, ośrodkom dawców szpiku i laboratoriom oraz cofa te pozwolenia, po zasięgnięciu opinii Rady;”,
+    - **b)** w ust. 3 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) przedstawia Komisji Europejskiej corocznie, w terminie do dnia 30 czerwca, sprawozdanie roczne dotyczące powiadamiania o istotnych zdarzeniach niepożądanych i istotnych niepożądanych reakcjach w zakresie pobierania, testowania, przetwarzania, sterylizacji, przechowywania, dystrybucji i przeszczepiania komórek i tkanek;”;
+
+- **23)** art. 44 otrzymuje brzmienie: „Art. 44. 1. Kto, w celu uzyskania korzyści majątkowej lub osobistej, nabywa lub zbywa cudzą komórkę, tkankę lub narząd, pośredniczy w ich nabyciu lub zbyciu bądź bierze udział w przeszczepianiu lub udostępnianiu pozyskanych wbrew przepisom ustawy komórek, tkanek lub narządów, pochodzących od żywego dawcy lub ze zwłok ludzkich, podlega karze pozbawienia wolności od 6 miesięcy do 5 lat.
+
+2. Jeżeli sprawca uczynił sobie z popełnienia przestępstwa określonego w ust. 1 stałe źródło dochodu, podlega karze pozbawienia wolności od roku do 10 lat.”;
+
+- **24)** art. 45 otrzymuje brzmienie: „Art. 45. Kto, bez wymaganego pozwolenia, prowadzi działalność przewidzianą przepisami ustawy dla banku tkanek i komórek, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.”;
+- **25)** po art. 46 dodaje się art. 46a i 46b w brzmieniu: „Art. 46a. Kto, bez wymaganej zgody wywozi z terytorium Rzeczypospolitej Polskiej lub wwozi na to terytorium komórkę, tkankę lub narząd, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
 
 **Art. 46b.** Kto, wbrew przepisom ustawy, nie zgłasza potencjalnych biorców narządów lub szpiku lub komórek krwiotwórczych krwi obwodowej lub krwi pępowinowej na listę albo dokonanych przeszczepień komórek, tkanek i narządów do rejestru przeszczepień albo pozyskanych potencjalnych dawców szpiku i komórek krwiotwórczych krwi obwodowej do rejestru szpiku i krwi pępowinowej, podlega grzywnie albo karze ograniczenia wolności.”.
 
 **Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554 i Nr 160, poz. 1083 oraz z 1998 r. Nr 113, poz. 715) w art. 5:
+
+- **a)** w § 1 uchyla się pkt 40;
+- **b)** w § 2 uchyla się pkt 46.
 
 **Art. 3.** Do kosztów czynności związanych z pobieraniem, przechowywaniem, przetwarzaniem, sterylizacją, dystrybucją i przeszczepianiem komórek, tkanek i narządów, które nie zostały rozliczone do dnia wejścia w życie ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się przepisy dotychczasowe.
 

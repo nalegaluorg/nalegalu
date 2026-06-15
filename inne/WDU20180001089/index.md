@@ -8,7 +8,7 @@ pos: 1089
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Centralnym Porcie Komunikacyjnym
@@ -139,7 +139,47 @@ Art. 121–128. (pominięte)
 
 **Art. 1.** Ustawa określa zasady i tryb:
 
+- **1)** zarządzania przygotowaniem i realizacją Centralnego Portu Komunikacyjnego, zwanego dalej „CPK”, w skład którego wchodzą zawarte w Programie: Inwestycja, Inwestycje Towarzyszące oraz pozostałe zadania, w tym o charakterze nieinwestycyjnym, powiązane z realizacją Inwestycji oraz Inwestycji Towarzyszących, zwane dalej łącznie „Przedsięwzięciami”;
+- **2)** przygotowania i realizacji Przedsięwzięć;
+- **3)** zarządzania rozwojem obszaru otoczenia CPK;
+- **4)** przygotowania i realizacji procesów zorganizowanej relokacji w związku z nabywaniem gruntów na cele określone w ustawie.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** Dokumencie Wdrażającym – należy przez to rozumieć dokument wykonawczy do Programu, zawierający w szczególności harmonogramy realizacji oraz budżety poszczególnych Przedsięwzięć;
+- **2)** Inwestorze – należy przez to rozumieć: a–d, o ile przygotowują lub realizują Przedsięwzięcia.
+    - **a)** Spółkę Celową,
+    - **b)** spółkę, o której mowa w art. 15 ust. 1,
+    - **c)** jednostki sektora finansów publicznych w rozumieniu przepisów o finansach publicznych,
+    - **d)** inne, niż określone w lit. c, państwowe jednostki organizacyjne nieposiadające osobowości prawnej,
+    - **e)** osoby prawne, jeżeli podmioty, o których mowa w lit. a–d, pojedynczo lub wspólnie, bezpośrednio lub pośrednio przez inny podmiot: – finansują je w ponad 50 % lub – posiadają ponad połowę udziałów albo akcji, lub – dysponują większością głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, także jako zastawnik albo użytkownik, bądź w zarządzie tej osoby prawnej, także na podstawie porozumień z innymi osobami, lub – są uprawnione do powoływania lub odwoływania większości członków zarządu lub rady nadzorczej tej osoby prawnej, także na podstawie porozumień z innymi osobami, lub – mają prawo do całego albo części mienia tej osoby prawnej, lub – na podstawie umów zarządzają tą osobą prawną lub osoba prawna przekazuje im zysk – o ile przygotowują lub realizują Przedsięwzięcia,
+    - **f)** osoby prawne, w których więcej niż połowę członków zarządu stanowią członkowie zarządu lub rady nadzorczej podmiotów, o których mowa w lit.
+
+- **3)** Inwestycji – należy przez to rozumieć budowę lotniska użytku publicznego w rozumieniu art. 54 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110 oraz z 2024 r. poz. 731 i 1222) wraz z obiektami, urządzeniami, wyposażeniem, sieciami i instalacjami służącymi do jego budowy, przebudowy, remontu, utrzymania, użytkowania, zmiany sposobu użytkowania, eksploatacji lub rozbiórki oraz innymi inwestycjami, w szczególności wraz z: poz. 266, 834 i 859),
+    - **a)** drogami publicznymi w rozumieniu art. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2024 r. poz. 320 i 1222),
+    - **b)** sieciami przesyłowymi i sieciami dystrybucyjnymi w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r.
+    - **c)** drogami kolejowymi w rozumieniu art. 4 pkt 1a ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731),
+    - **d)** urządzeniami i obiektami do obsługi ruchu lotniczego w rozumieniu art. 2 pkt 8 ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464),
+    - **e)** urządzeniami wodnymi w rozumieniu art. 16 pkt 65 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473),
+    - **f)** rurociągami ropy naftowej lub produktów naftowych wraz z infrastrukturą niezbędną do obsługi w rozumieniu ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2024 r. poz. 405 i 834) – jeżeli są one przestrzennie oraz funkcjonalnie powiązane z projektowanym lotniskiem;
+
+- **4)** Inwestycji Towarzyszącej – należy przez to rozumieć inwestycje celu publicznego określone w przepisach wydanych na podstawie art. 118;
+- **5)** nieruchomości o nieuregulowanym stanie prawnym – należy przez to rozumieć nieruchomość, dla której, ze względu na brak księgi wieczystej, zbioru dokumentów albo innych dokumentów, nie można ustalić osób, którym przysługują do niej prawa rzeczowe, a także nieruchomość, której dotychczasowy właściciel lub użytkownik wieczysty nieruchomości nie żyje a spadkobiercy nie wykazali prawa do spadku;
+- **6)** Pełnomocniku – należy przez to rozumieć Pełnomocnika Rządu do spraw Centralnego Portu Komunikacyjnego;
+- **7)** Programie – należy przez to rozumieć program wieloletni w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530 i
+- **1572)** , niestanowiący programu rozwoju w rozumieniu przepisów o zasadach prowadzenia polityki rozwoju, obejmujący Inwestycję, Inwestycje Towarzyszące oraz inne zadania, w tym finansowane z budżetu państwa, określający terminy ich realizacji oraz łączne nakłady z budżetu państwa na ich realizację;
+- **8)** (uchylony)
+- **9)** sieciach – należy przez to rozumieć, stanowiące cele publiczne, sieci przesyłowe oraz dystrybucyjne energii elektrycznej, gazu, ciepła, wody, pary, ropy naftowej, produktów naftowych lub innych płynów albo gazów, sieci telekomunikacyjne, a także sieci kanalizacyjne;
+- **10)** Spółce Celowej – należy przez to rozumieć spółkę z ograniczoną odpowiedzialnością utworzoną przez Skarb Państwa w celu zapewnienia przygotowania i realizacji Programu oraz koordynacji i kontroli realizacji Przedsięwzięć;
+- **10a)** Strategicznym Studium Lokalizacyjnym – należy przez to rozumieć plan ustalający inwestycje celu publicznego o znaczeniu ponadlokalnym w rozumieniu art. 39 ust. 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130), określający w szczególności charakter i ramy przestrzenne:
+    - **a)** Inwestycji, Inwestycji Towarzyszących lub innych Przedsięwzięć, których inwestorem jest Spółka Celowa lub spółka, o której mowa w art. 15 ust. 1, lub
+    - **b)** Inwestycji Towarzyszących lub innych Przedsięwzięć, których inwestorem nie jest Spółka Celowa lub spółka, o której mowa w art. 15 ust. 1;
+
+- **11)** Wykonawcy – należy przez to rozumieć wykonawcę umowy zawartej na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320), ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637) albo ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2023 r. poz. 140), której przedmiotem jest dostawa usługi lub roboty budowlane niezbędne do przygotowania lub wykonania Przedsięwzięć;
+- **12)** Zasadach Zarządzania – należy przez to rozumieć ujednolicone warunki i procedury wdrażania Przedsięwzięć, określające zasady zarządzania Przedsięwzięciami, w tym zasady i tryb nadzoru nad realizacją Przedsięwzięć przez Inwestorów, informowania przez Wykonawców o postępach w realizacji Przedsięwzięć oraz zasad współpracy i wymiany informacji pomiędzy Inwestorami;
+- **13)** Zasobie – należy przez to rozumieć nieruchomości będące własnością Spółki Celowej oraz nieruchomości Skarbu Państwa:
+    - **a)** wobec których Spółka Celowa jest uprawniona z tytułu użytkowania wieczystego lub
+    - **b)** którymi gospodaruje Spółka Celowa.
 
 **Art. 3.**
 
@@ -167,6 +207,17 @@ Art. 121–128. (pominięte)
 3. Pełnomocnika powołuje i odwołuje Prezes Rady Ministrów.
 
 **Art. 5.** Do kompetencji Pełnomocnika należy przygotowanie projektu Programu i jego zmian oraz podejmowanie działań zmierzających do jego realizacji, w szczególności:
+
+- **1)** przygotowanie projektów przepisów wydawanych na podstawie art. 28 ust. 1 i art. 99 ust. 11 oraz ich zmian;
+- **2)** przygotowanie projektów innych dokumentów rządowych koniecznych do wdrożenia Programu oraz ich zmian, w szczególności programów wieloletnich i innych dokumentów strategicznych oraz projektów aktów normatywnych oraz ich zmian;
+- **2a)** koordynowanie – we współpracy z ministrem właściwym do spraw rozwoju regionalnego oraz jednostkami samorządu terytorialnego – rozwoju społecznogospodarczego obszaru otoczenia CPK, na zasadach określonych w dziale IVb;
+- **3)** zatwierdzanie Dokumentu Wdrażającego oraz jego zmian;
+- **4)** zatwierdzanie Zasad Zarządzania oraz ich zmian oraz nadzór nad ich przestrzeganiem;
+- **5)** dążenie do zapewnienia jednolitego stosowania przepisów ustawy;
+- **6)** wyrażanie zgody na zlecenie, w drodze porozumienia, przez Spółkę Celową wykonywania jej zadań związanych z gospodarowaniem Zasobem;
+- **7)** w przypadku nabycia lub wywłaszczenia nieruchomości w celu realizacji Inwestycji lub Inwestycji Towarzyszącej albo nabycia nieruchomości na szczególnych zasadach określonych w art. 29b ust. 1 pkt 1 i pkt 2 lit. a, występowanie, w sytuacji wystąpienia szczególnych okoliczności, z wnioskiem o przyznanie emerytury, renty rolniczej z tytułu niezdolności do pracy lub renty rodzinnej rolnikowi lub domownikowi lub członkom rodziny zmarłego rolnika lub domownika, o których mowa w art. 55 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90 i 1243);
+- **8)** przyjmowanie, w drodze zarządzenia, aktów podlegających strategicznej ocenie oddziaływania na środowisko;
+- **9)** reprezentowanie Skarbu Państwa w zakresie spraw określonych w ustawie.
 
 **Art. 5a.** (uchylony)
 
@@ -263,6 +314,9 @@ Art. 121–128. (pominięte)
 
 **Art. 16.** W ramach zapewnienia wsparcia Pełnomocnikowi w wykonywaniu jego zadań Spółka Celowa w szczególności:
 
+- **1)** przygotowuje dla Pełnomocnika projekt Programu oraz projekt zmian Programu;
+- **2)** realizuje inne zadania powierzone przez Pełnomocnika, związane z przygotowaniem i realizacją Programu.
+
 **Art. 17.**
 
 1. W ramach zapewnienia przygotowania i realizacji Programu Spółka Celowa w szczególności:
@@ -325,6 +379,15 @@ Art. 121–128. (pominięte)
 4. Spółka Celowa określa zasady i tryb realizacji programów, o których mowa w ust. 1, uwzględniając wymóg równego traktowania osób oraz funkcjonowanie mechanizmu przyjmowania i rozpatrywania skarg i wniosków dotyczących tych zasad i trybu.
 
 **Art. 18.** W ramach koordynacji i kontroli realizacji Przedsięwzięć Spółka Celowa w szczególności:
+
+- **1)** przygotowuje projekt Zasad Zarządzania albo ich zmiany oraz przedkłada go Pełnomocnikowi do zatwierdzenia;
+- **2)** określa zasady polityki informacyjnej dotyczącej realizacji przygotowań i realizacji Przedsięwzięć;
+- **3)** przygotowuje projekty harmonogramów działań związanych z przygotowaniem Przedsięwzięć;
+- **4)** inicjuje działania zmierzające do poprawy efektywności przygotowań i realizacji Przedsięwzięć;
+- **5)** zapewnia doradztwo i szkolenia dla Inwestorów i Wykonawców;
+- **6)** kontroluje, czy pozostali Inwestorzy zarządzają Przedsięwzięciami zgodnie z Zasadami Zarządzania;
+- **7)** może żądać od innych Inwestorów przedstawienia jej bądź spółkom, o których mowa w art. 15 ust. 1, dokumentów, informacji, ekspertyz i analiz związanych z wdrożeniem Programu;
+- **8)** może żądać upoważnienia jej lub spółek, o których mowa w art. 15 ust. 1, przez Inwestorów do występowania w imieniu Inwestorów wobec innych podmiotów uczestniczących w przygotowaniu i realizacji Programu.
 
 **Art. 19.** (uchylony)
 
@@ -471,6 +534,20 @@ Art. 121–128. (pominięte)
 11. Zgoda Pełnomocnika stanowi załącznik do wniosków lub zgłoszeń w sprawie wydania rozstrzygnięć, określonych w ust. 1 pkt 3–8 i ust. 8.
 
 **Art. 29a.** Zakazów określonych w art. 29 ust. 1 i 6 nie stosuje się do robót budowlanych albo zmiany zagospodarowania terenu polegających na:
+
+- **1)** remoncie,
+- **2)** przebudowie niezmieniającej funkcji obiektu,
+- **3)** wykonaniu urządzeń budowlanych, obiektów małej architektury oraz przyłączy,
+- **4)** innych robotach budowlanych na istniejącym obiekcie budowlanym, prowadzących wyłącznie do: z 2024 r. poz. 1361) lub zastosowania wysokosprawnej kogeneracji w rozumieniu art. 3 pkt 38 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne,
+    - **a)** przystosowania do potrzeb osób niepełnosprawnych,
+    - **b)** poprawy bezpieczeństwa pożarowego,
+    - **c)** poprawy warunków sanitarnych,
+    - **d)** zmniejszenia rocznego zapotrzebowania na energię lub kosztów pozyskania ciepła,
+    - **e)** zamiany źródła energii na odnawialne źródło energii w rozumieniu art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U.
+    - **f)** zapewnienia telekomunikacji,
+
+- **5)** odbudowie,
+- **6)** budowie mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – niezwiększających powierzchni zabudowy o więcej niż 5 %.
 
 **Art. 29b.**
 
@@ -641,6 +718,14 @@ Art. 121–128. (pominięte)
 
 **Art. 31.** Informację o ogłoszeniu przepisów wydanych na podstawie art. 28 ust. 1 zamieszcza się:
 
+- **1)** na stronie podmiotowej Biuletynu Informacji Publicznej:
+    - **a)** urzędu wojewódzkiego,
+    - **b)** urzędu marszałkowskiego,
+    - **c)** starostwa powiatowego,
+    - **d)** urzędu gminy;
+
+- **2)** w prasie lokalnej oraz obwieszcza się w sposób zwyczajowo przyjęty w danej gminie i miejscowości.
+
 #### Rozdział 1a Udostępnienie nieruchomości na cele badań przyrodniczych
 
 **Art. 31a.**
@@ -809,6 +894,13 @@ Art. 121–128. (pominięte)
 
 **Art. 38a.** Decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK może obejmować lokalizację innych obiektów, urządzeń, sieci lub instalacji w zakresie, w jakim są one przestrzennie oraz funkcjonalnie powiązane z Inwestycją, w tym:
 
+- **1)** dróg publicznych w rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych;
+- **2)** ciągów drenażowych, przewodów i urządzeń, o których mowa w art. 124 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami;
+- **3)** dróg kolejowych w rozumieniu ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
+- **4)** urządzeń i obiektów do obsługi ruchu lotniczego w rozumieniu ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego;
+- **5)** urządzeń wodnych w rozumieniu ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
+- **6)** rurociągów ropy naftowej lub produktów naftowych wraz z infrastrukturą niezbędną do obsługi w rozumieniu ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym.
+
 **Art. 39.** Do gruntów rolnych i leśnych objętych decyzją o ustaleniu lokalizacji inwestycji w zakresie CPK nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82).
 
 **Art. 40.**
@@ -974,6 +1066,9 @@ Art. 121–128. (pominięte)
 
 **Art. 52a.** Do zwrotu nieruchomości uznanej za zbędną na cel określony w decyzji, o której mowa w art. 48 ust. 1, stosuje się przepisy art. 136–142 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, z tym że:
 
+- **1)** zwrotu nieruchomości dokonuje się z Zasobu;
+- **2)** ilekroć jest mowa o właściwym organie albo Skarbie Państwa, należy przez to rozumieć Spółkę Celową.
+
 #### Rozdział 5 Ustanowienie ograniczeń w korzystaniu z nieruchomości
 
 **Art. 53.**
@@ -1086,6 +1181,10 @@ Art. 121–128. (pominięte)
 
 **Art. 65.** W przypadku gdy dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie CPK odpowiednio wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż w terminie 30 dni od dnia:
 
+- **1)** doręczenia zawiadomienia o wydaniu decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK, której nadano rygor natychmiastowej wykonalności,
+- **2)** doręczenia zawiadomienia o nadaniu decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK rygoru natychmiastowej wykonalności,
+- **3)** w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna – wysokość odszkodowania powiększa się o kwotę równą 5 % wartości nieruchomości lub wartości prawa użytkowania wieczystego.
+
 **Art. 66.** Spółka Celowa pokrywa koszty ustalenia odszkodowania. Przepis art. 264 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 **Art. 67.**
@@ -1175,6 +1274,15 @@ Art. 121–128. (pominięte)
 2. We wniosku o wydanie decyzji, o której mowa w ust. 1, wskazuje się teren, na którym jest planowane przeprowadzenie prac wstępnych, o których mowa w art. 75b, o ile prace takie są przewidziane do realizacji.
 
 **Art. 75b.** Przez prace wstępne należy rozumieć:
+
+- **1)** usuwanie drzew i krzewów na terenie objętym decyzją;
+- **2)** badania archeologiczne;
+- **3)** badania konserwatorskie;
+- **4)** prace geologiczne;
+- **5)** ustalanie geotechnicznych warunków posadawiania obiektów budowlanych bez wykonywania robót geologicznych;
+- **6)** przeprowadzenie kompensacji przyrodniczej;
+- **7)** niwelację terenu, zagospodarowanie terenu budowy wraz z budową tymczasowych obiektów budowlanych, wykonanie przyłączy do sieci infrastruktury technicznej na potrzeby budowy oraz innych prac niewymagających sporządzenia projektu architektoniczno-budowlanego;
+- **8)** rozbiórkę istniejących obiektów budowlanych.
 
 **Art. 75c.**
 
@@ -2000,6 +2108,18 @@ Art. 121–128. (pominięte)
 
 **Art. 120c.** W przypadku złożenia przez Inwestora wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej, lub wydania takiej decyzji nie uchwala się:
 
+- **1)** planu ogólnego gminy,
+- **2)** miejscowego planu zagospodarowania przestrzennego,
+- **3)** planu zagospodarowania przestrzennego województwa,
+- **4)** (uchylony)
+- **5)** uchwały o utworzeniu parku kulturowego,
+- **6)** uchwały w sprawie zasad i warunków sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabarytów, standardów jakościowych oraz rodzajów materiałów budowlanych, z jakich mogą być wykonane,
+- **7)** uchwały w sprawie utworzenia lub powiększenia parku krajobrazowego,
+- **8)** uchwały w sprawie wyznaczenia obszaru chronionego krajobrazu oraz uchwały w sprawie wprowadzenia zakazów na obszarze chronionego krajobrazu,
+- **9)** uchwały w sprawie ustanowienia pomnika przyrody, stanowiska dokumentacyjnego, użytku ekologicznego lub zespołu przyrodniczokrajobrazowego,
+- **10)** statutu uzdrowiska,
+- **11)** zarządzenia regionalnego dyrektora ochrony środowiska w sprawie rezerwatów przyrody – których ustalenia są sprzeczne z lokalizacją inwestycji określoną we wniosku, w zakresie wariantu preferowanego przez inwestora, lub decyzji.
+
 **Art. 120d.**
 
 1. Spółka Celowa doręcza kopię:
@@ -2318,6 +2438,33 @@ Art. 121–128. (pominięte)
 2. Odszkodowanie, o którym mowa w art. 120v ust. 1, jest wypłacane na podstawie decyzji wojewody w sprawie ustalenia odszkodowania, o którym mowa w art. 120v ust. 1.
 
 **Art. 120z.** Niezależnie od zakazów określonych w planie rezerwacji dopuszcza się wydawanie rozstrzygnięć dotyczących robót budowlanych albo zezwalających na zmianę zagospodarowania terenu polegającą na:
+
+- **1)** remoncie,
+- **2)** przebudowie niezmieniającej funkcji obiektu,
+- **3)** wykonaniu urządzeń budowlanych, obiektów małej architektury oraz przyłączy,
+- **4)** innych robotach budowlanych na istniejącym obiekcie budowlanym, prowadzących wyłącznie do:
+    - **a)** przystosowania do potrzeb osób niepełnosprawnych,
+    - **b)** poprawy bezpieczeństwa pożarowego,
+    - **c)** poprawy warunków sanitarnych,
+    - **d)** zmniejszenia rocznego zapotrzebowania na energię lub kosztów pozyskania ciepła,
+    - **e)** zamiany źródła energii na odnawialne źródło energii w rozumieniu art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii lub zastosowanie wysokosprawnej kogeneracji w rozumieniu art. 3 pkt 38 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne,
+    - **f)** zapewnienia telekomunikacji,
+
+- **5)** odbudowie,
+- **6)** budowie mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – niezmieniającą kolorystyki obiektu budowlanego oraz – w przypadku budynków – niezwiększającą powierzchni zabudowy o więcej niż 5 %. Art. 120za. 1. Właścicielowi nieruchomości, która w całości lub w części znajduje się w granicach określonego w planie rezerwacji obszaru lokalizacji Inwestycji Towarzyszącej, przysługuje roszczenie do wnioskodawcy wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, o wykupienie takiej nieruchomości lub jej części.
+
+2. Właścicielowi nieruchomości, która w całości lub w części znajduje się w obszarze oddziaływania akustycznego określonego w planie rezerwacji, nie przysługuje roszczenie do wnioskodawcy wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, o wykupienie takiej nieruchomości lub jej części.
+
+3. Wartość nieruchomości określa się na podstawie:
+
+- **1)** dotychczasowego przeznaczenia wynikającego z miejscowego planu zagospodarowania przestrzennego – w sytuacji gdy plan rezerwacji dotyczy nieruchomości objętych obowiązującym miejscowym planem zagospodarowania przestrzennego, który na podstawie art. 120m ust. 8 pkt 1 nie może stanowić podstawy do zmiany sposobu zagospodarowania terenu, uzyskania pozwolenia na budowę, dokonania skutecznego zgłoszenia budowlanego, podziału nieruchomości, wydzielania samodzielnych lokali mieszkalnych w budynkach;
+- **2)** wyłącznie faktycznego użytkowania terenu i gruntu oraz dostępu do istniejących w dniu wejścia w życie planu rezerwacji dróg publicznych, sieci wodociągowych, kanalizacyjnych, elektroenergetycznych, gazowych, ciepłowniczych oraz telekomunikacyjnych – w sytuacji gdy dana nieruchomość nie była objęta miejscowym planem zagospodarowania przestrzennego obowiązującym w przeddzień wejścia w życie planu rezerwacji.
+
+4. W odniesieniu do zasad określania wartości nieruchomości stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, o ile niniejszy przepis nie stanowi inaczej. Art. 120zb. W przypadku gdy w wyniku wniesienia odwołania od decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, organ wyższego stopnia wyda decyzję, w której uchyli zaskarżoną decyzję w całości albo w części i w tym zakresie orzeknie co do istoty sprawy, przepisy art. 120n–120za dotyczące decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, stosuje się do decyzji wydanej przez organ wyższego stopnia. Art. 120zc. 1. W przypadku realizacji inwestycji innej niż Inwestycja Towarzysząca, która w całości lub w części znajduje się w obszarze oddziaływania akustycznego określonego w planie rezerwacji, zapewnienie ochrony przed hałasem związanym z użytkowaniem inwestycji, której dotyczy plan rezerwacji, należy do inwestora tego przedsięwzięcia.
+
+2. Przepis ust. 1 stosuje się również w sytuacji, gdy zapewnienie ochrony przed hałasem wymaga budowy ekranów akustycznych lub realizacji innych robót budowlanych w obrębie pasa drogowego lub linii kolejowej.
+
+3. Szczegółowe warunki prowadzenia robót budowlanych, o których mowa w ust. 2, określa umowa między Inwestorem Inwestycji Towarzyszącej a inwestorem inwestycji niebędącej Inwestycją Towarzyszącą. Art. 120zd. Przepisy art. 120n–120zb dotyczące właściciela nieruchomości stosuje się także do użytkownika wieczystego nieruchomości.
 
 ### DZIAŁ IVA Planowanie przestrzenne obszaru lokalizacji Inwestycji
 

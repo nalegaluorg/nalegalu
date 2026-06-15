@@ -8,7 +8,7 @@ pos: 1032
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o zakładach opieki zdrowotnej oraz niektórych innych ustaw
@@ -28,6 +28,172 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061431032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1032/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz.U. Nr 91, poz. 408, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zakładem opieki zdrowotnej jest:
+
+- **1)** szpital, zakład opiekuńczo-leczniczy, zakład pielęgnacyjnoopiekuńczy, sanatorium, prewentorium, hospicjum stacjonarne, inny niewymieniony z nazwy zakład przeznaczony dla osób, których stan zdrowia wymaga udzielania całodobowych lub całodziennych świadczeń zdrowotnych w odpowiednio urządzonym, stałym pomieszczeniu,
+- **2)** przychodnia, ośrodek zdrowia, poradnia, ambulatorium,
+- **3)** pogotowie ratunkowe,
+- **4)** medyczne laboratorium diagnostyczne,
+- **5)** pracownia protetyki stomatologicznej i ortodoncji,
+- **6)** zakład rehabilitacji leczniczej,
+- **7)** żłobek,
+- **8)** ambulatorium lub ambulatorium z izbą chorych jednostki wojskowej, Policji, Straży Granicznej, Państwowej Straży Pożarnej, Biura Ochrony Rządu, Agencji Bezpieczeństwa Wewnętrznego oraz jednostki organizacyjnej Służby Więziennej,
+- **9)** stacja sanitarno-epidemiologiczna,
+- **10)** wojskowy ośrodek medycyny prewencyjnej,
+- **11)** jednostka organizacyjna publicznej służby krwi,
+- **12)** inny zakład spełniający warunki określone w ustawie.”, 1 ust. 2, a oznaczenie „uniwersytecki” może być zamieszczane wyłącznie w nazwach zakładów opieki zdrowotnej, o których mowa w art. 1 ust. 2 pkt 2.”;
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Oznaczenia „klinika” albo „kliniczny” mogą być zamieszczane wyłącznie w nazwach zakładów opieki zdrowotnej, o których mowa w art.
+
+- **2)** art. 5 otrzymuje brzmienie: „Art. 5. Zakład opieki zdrowotnej udziela świadczeń zdrowotnych ogółowi ludności lub określonej grupie ludności.”;
+- **3)** art. 7 otrzymuje brzmienie: „Art. 7. Zakład opieki zdrowotnej nie może odmówić udzielenia świadczenia zdrowotnego osobie, która potrzebuje natychmiastowego udzielenia takiego świadczenia ze względu na zagrożenie zdrowia lub życia.”;
+- **4)** w art. 8:
+    - **a)** w ust. 1 po pkt 3a dodaje się pkt 3b w brzmieniu: „3b) Centrum Medyczne Kształcenia Podyplomowego,”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Publicznym zakładem opieki zdrowotnej jest zakład opieki zdrowotnej utworzony przez organ, o którym mowa w ust. 1 pkt 1-3b.”;
+
+- **5)** art. 8a otrzymuje brzmienie: „Art. 8a. Do publicznego zakładu opieki zdrowotnej prowadzonego przez jednostkę badawczo-rozwojową stosuje się przepisy niniejszej ustawy, z zachowaniem przepisów o jednostkach badawczorozwojowych.”;
+- **6)** w art. 9:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, Naczelnej Rady Pielęgniarek i Położnych, Krajowej Rady Diagnostów Laboratoryjnych oraz Naczelnej Rady Aptekarskiej, w drodze rozporządzenia, określi:
+
+- **1)** wymagania, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia zakładu opieki zdrowotnej,
+- **2)** terminy i zakres dostosowania zakładu opieki zdrowotnej do wymagań, o których mowa w pkt 1 - uwzględniając konieczność zapewnienia odpowiedniej jakości udzielanych świadczeń zdrowotnych.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Zakłady opieki zdrowotnej nabywają i stosują wyroby medyczne odpowiadające wymaganiom ustawy z dnia 20 kwietnia 2004 r. o wyrobach medycznych (Dz.U. Nr 93, poz. 896 oraz z 2005 r. Nr 64, poz.
+
+- **565)** .”;
+- **7)** w art. 10 w ust. 2 i 4, w art. 13 w ust. 5, w art. 17, w art. 18 w ust. 3 w pkt 4, w art. 18c w ust. 6 w zdaniu wstępnym, w art. 29 w ust. 2, w art. 32e w ust. 9 w zdaniu wstępnym, w art. 34 w ust. 3, w art. 34a w ust. 3, w art. 35 w ust. 7, w art. 35a w ust. 6, w art. 40 w ust. 1 i 2, w art. 41, w art. 43f, w art. 44a w ust. 8, w art. 62, w art. 66 w ust. 1 i 4 oraz w art. 67 w ust. 5 użyte w różnym przypadku wyrazy „Minister Zdrowia i Opieki Społecznej” zastępuje się użytymi w odpowiednim przypadku wyrazami „Minister właściwy do spraw zdrowia”;
+- **8)** w art. 10:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Świadczenia zdrowotne mogą być udzielane przez osoby, o których mowa w ust. 1, w ramach wolontariatu, na zasadach określonych w porozumieniu, o którym mowa w art. 44 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz.U. Nr 96, poz. 873, z późn. zm. ), zawartym między zakładem opieki zdrowotnej a wolontariuszem.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Do wolontariatu stosuje się przepisy działu III ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** rodzaje zawodów, w których może być uzyskiwany tytuł specjalisty w dziedzinie mającej zastosowanie w ochronie zdrowia, z wyjątkiem zawodów, dla których zasady uzyskiwania tytułu specjalisty określają odrębne przepisy,
+- **2)** szczegółowy sposób, warunki i tryb uzyskiwania tytułu specjalisty w danej dziedzinie, o której mowa w pkt 1 - uwzględniając konieczność zapewnienia wysokich kwalifikacji zawodowych,
+- **3)** podmioty uprawnione do prowadzenia szkoleń i nadawania tytułu specjalisty w danej dziedzinie, o której mowa w pkt 1, uwzględniając konieczność zapewnienia odpowiedniej jakości udzielanych świadczeń zdrowotnych,
+- **4)** tryb uznawania tytułu specjalisty w danej dziedzinie, o której mowa w pkt 1, uzyskanego poza terytorium Rzeczypospolitej Polskiej, uwzględniając specyfikę danego zawodu.”,
+    - **d)** uchyla się ust. 6;
+
+- **9)** w art. 12 ust. 4 otrzymuje brzmienie: „4. Rejestr zakładów opieki zdrowotnej, utworzonych przez organy i osoby prawne, o których mowa w art. 8 ust. 1 pkt 1, 3a i 3b, prowadzi minister właściwy do spraw zdrowia, z wyjątkiem zakładów utworzonych w celu określonym w art. 8 ust. 4, których rejestr prowadzi wojewoda.”;
+- **10)** w art. 15 po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Jeżeli szpital czasowo zaprzestał działalności całkowicie lub w zakresie niektórych jednostek lub komórek organizacyjnych bez zachowania trybu określonego w art. 65a, organ prowadzący rejestr wykreśla z rejestru szpital w całości albo w części dotyczącej tej działalności.”;
+- **11)** w art. 18:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Dokumentacja medyczna zawiera co najmniej:
+
+- **1)** oznaczenie pacjenta, pozwalające na ustalenie jego tożsamości,
+- **2)** oznaczenie zakładu opieki zdrowotnej ze wskazaniem komórki organizacyjnej zakładu, w której udzielono świadczeń zdrowotnych,
+- **3)** opis stanu zdrowia pacjenta, o którym mowa w pkt 1, lub udzielonych mu świadczeń zdrowotnych,
+- **4)** datę sporządzenia.”,
+    - **b)** po ust. 4 dodaje się ust. 4a-4f w brzmieniu: „4a. Dokumentacja medyczna jest udostępniana:
+
+- **1)** do wglądu w zakładzie opieki zdrowotnej,
+- **2)** poprzez sporządzenie jej wyciągów, odpisów lub kopii,
+- **3)** poprzez wydanie oryginału za pokwitowaniem odbioru i z zastrzeżeniem zwrotu po wykorzystaniu, jeśli uprawniony organ lub podmiot żąda udostępnienia oryginałów tej dokumentacji.
+
+4b. Za udostępnienie dokumentacji medycznej w sposób określony w ust. 4a pkt 2 zakład opieki zdrowotnej pobiera opłatę, z zastrzeżeniem ust.
+
+4c.
+
+4c. Przepis ust. 4b nie narusza uprawnień organów rentowych określonych w art. 77 ust. 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz.U. Nr 137, poz. 887, z późn. zm. ) i art. 121 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz.U. z 2004 r. Nr 39, poz. 353, z późn. zm. ).
+
+4d. Opłaty za udostępnienie dokumentacji medycznej w sposób określony w ust. 4a pkt 2 ustala kierownik zakładu opieki zdrowotnej w regulaminie porządkowym, o którym mowa w art. 18a ust. 1.
+
+4e. Maksymalna wysokość opłaty za:
+
+- **1)** jedną stronę wyciągu lub odpisu dokumentacji medycznej - nie może przekraczać 0,0015 przeciętnego wynagrodzenia w poprzednim kwartale od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych,
+- **2)** jedną stronę kopii dokumentacji medycznej - nie może przekraczać 0,00015 przeciętnego wynagrodzenia, o którym mowa w pkt 1,
+- **3)** sporządzenie wyciągu, odpisu lub kopii dokumentacji medycznej na elektronicznym nośniku danych, jeżeli zakład prowadzi dokumentację medyczną w formie elektronicznej - nie może przekraczać 0,001 przeciętnego wynagrodzenia, o którym mowa w pkt 1.
+
+4f. Dokumentacja medyczna jest przechowywana przez okres 20 lat, licząc od końca roku kalendarzowego, w którym dokonano ostatniego wpisu, z wyjątkiem:
+
+- **1)** dokumentacji medycznej w przypadku zgonu pacjenta na skutek uszkodzenia ciała lub zatrucia, która jest przechowywana przez okres 30 lat, licząc od końca roku kalendarzowego, w którym nastąpił zgon,
+- **2)** zdjęć rentgenowskich przechowywanych poza dokumentacją medyczną pacjenta, które są przechowywane przez okres 10 lat, licząc od końca roku kalendarzowego, w którym wykonano zdjęcie,
+- **3)** skierowań na badania lub zleceń lekarza, które są przechowywane przez okres 5 lat, licząc od końca roku kalendarzowego, w którym zrealizowano świadczenie będące przedmiotem skierowania lub zlecenia.”,
+    - **c)** dodaje się ust. 8 i 9 w brzmieniu: „8. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, Naczelnej Rady Pielęgniarek i Położnych oraz Krajowej Rady Diagnostów Laboratoryjnych, określi, w drodze rozporządzenia, rodzaje i zakres dokumentacji medycznej oraz sposób jej przetwarzania, uwzględniając konieczność zapewnienia realizacji prawa dostępu do dokumentacji medycznej, rzetelnego jej prowadzenia oraz ochrony danych i informacji dotyczących stanu zdrowia pacjenta.
+
+9. Minister właściwy do spraw wewnętrznych, Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw zdrowia oraz po zasięgnięciu opinii Naczelnej Rady Lekarskiej, Naczelnej Rady Pielęgniarek i Położnych i Krajowej Rady Diagnostów Laboratoryjnych, oraz Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii Rady Lekarskiej Wojskowej Izby Lekarskiej, każdy w zakresie swojego działania, określi, w drodze rozporządzenia, rodzaje i zakres dokumentacji medycznej oraz sposób jej przetwarzania, uwzględniając konieczność zapewnienia realizacji prawa dostępu do dokumentacji medycznej, rzetelnego jej prowadzenia oraz ochrony danych i informacji dotyczących stanu zdrowia pacjenta.”;
+
+- **12)** w art. 18c w ust. 4 i 5, w art. 32e w ust. 2 w pkt 1 oraz w art. 70 w ust. 2 użyte w różnym przypadku wyrazy „Minister Zdrowia i Opieki Społecznej” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw zdrowia”;
+- **13)** art. 18d otrzymuje brzmienie: „Art. 18d. 1. Ilekroć w przepisach ustawy jest mowa o:
+- **1)** osobie wykonującej zawód medyczny, należy przez to rozumieć osobę, która na podstawie odrębnych przepisów uprawniona jest do udzielania świadczeń zdrowotnych, oraz osobę legitymującą się nabyciem fachowych kwalifikacji do udzielania świadczeń zdrowotnych w określonym zakresie lub w określonej dziedzinie medycyny,
+- **2)** promocji zdrowia, należy przez to rozumieć działania umożliwiające poszczególnym osobom i społeczności zwiększenie kontroli nad czynnikami warunkującymi stan zdrowia i przez to jego poprawę, promowanie zdrowego stylu życia oraz środowiskowych i indywidualnych czynników sprzyjających zdrowiu,
+- **3)** publicznym zakładzie opieki zdrowotnej bez podania bliższego określenia, należy przez to rozumieć publiczny zakład opieki zdrowotnej określony w art. 8 ust. 2,
+- **4)** dyżurze medycznym, należy przez to rozumieć wykonywanie, poza normalnymi godzinami pracy, czynności zawodowych przez lekarza lub innego posiadającego wyższe wykształcenie pracownika wykonującego zawód medyczny, w zakładzie opieki zdrowotnej przeznaczonym dla osób, których stan zdrowia wymaga udzielania całodobowych świadczeń zdrowotnych,
+- **5)** dokumentacji medycznej, należy przez to rozumieć określone w ustawie oraz przepisach odrębnych dane i informacje medyczne odnoszące się do stanu zdrowia pacjenta lub udzielonych mu w zakładzie opieki zdrowotnej świadczeń zdrowotnych.
+
+2. Ilekroć w obowiązujących przepisach jest mowa o dyrektorze zakładu społecznej służby zdrowia, dyrektorze zakładu społecznego służby zdrowia, dyrektorze zakładu opieki zdrowotnej, należy przez to rozumieć kierownika publicznego zakładu opieki zdrowotnej.”;
+
+- **14)** art. 24 otrzymuje brzmienie: „Art. 24. 1. Zwłoki osoby, która zmarła w szpitalu, mogą być poddane sekcji, w szczególności, gdy zgon tej osoby nastąpi przed upływem 12 godzin od przyjęcia do szpitala, z zastrzeżeniem ust. 3.
+
+2. Kierownik zakładu, a jeżeli kierownik nie jest lekarzem, to upoważniony przez niego lekarz, na wniosek właściwego ordynatora lub, w razie potrzeby, po zasięgnięciu jego opinii, zarządza dokonanie lub zaniechanie sekcji.
+
+3. Zwłoki osoby, która zmarła w szpitalu, nie są poddawane sekcji, jeżeli przedstawiciel ustawowy tej osoby wyraził sprzeciw lub uczyniła to osoba za życia.
+
+4. O zaniechaniu sekcji zwłok z przyczyny określonej w ust. 3 sporządza się adnotację w dokumentacji medycznej i załącza sprzeciw, o którym mowa w ust. 3.
+
+5. Przepisów ust. 1-4 nie stosuje się w przypadkach:
+
+- **1)** określonych w Kodeksie postępowania karnego,
+- **2)** gdy przyczyny zgonu nie można ustalić w sposób jednoznaczny,
+- **3)** określonych w przepisach o chorobach zakaźnych i zakażeniach.
+
+6. W dokumentacji medycznej osoby, która zmarła w szpitalu, sporządza się adnotację o dokonaniu lub zaniechaniu sekcji zwłok, z odpowiednim uzasadnieniem.”;
+
+- **15)** art. 25a otrzymuje brzmienie: „Art. 25a. 1. W razie śmierci pacjenta w szpitalu, szpital ma obowiązek należycie przygotować jego zwłoki, w celu ich wydania osobom uprawnionym do pochowania.
+
+2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób postępowania szpitala w razie śmierci pacjenta oraz zakres czynności należących do obowiązków szpitala związanych z przygotowaniem zwłok pacjenta do wydania osobom uprawnionym do ich pochowania, uwzględniając konieczność zachowania godności należnej zmarłemu.”;
+
+- **16)** w art. 27 w ust. 1 wyrazy „i poradnia” zastępuje się wyrazami „ , poradnia i ambulatorium”;
+- **17)** w art. 32e w ust. 9 w zdaniu wstępnym oraz w art. 70 w ust. 1 i 2 użyte w różnym przypadku wyrazy „Minister Spraw Wewnętrznych i Administracji” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw wewnętrznych”;
+- **18)** w art. 35b ust. 1 otrzymuje brzmienie: „1. Publiczny zakład opieki zdrowotnej, utworzony przez organy i podmioty określone w art. 8 ust. 1 pkt 1-3b, prowadzony jest w formie samodzielnego zakładu, pokrywającego z posiadanych środków i uzyskiwanych przychodów koszty działalności i zobowiązań, z zastrzeżeniem art. 35c i 35d.”;
+- **19)** w art. 35c ust. 2 otrzymuje brzmienie: „2. Publiczny zakład opieki zdrowotnej, o którym mowa w ust. 1, prowadzi gospodarkę finansową na zasadach określonych w ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz.U. Nr 249, poz. 2104 i Nr 169, poz. 1420 oraz z 2006 r. Nr 45, poz. 319 i Nr 104, poz. 708), z zastrzeżeniem art. 50.”;
+- **20)** art. 35d otrzymuje brzmienie: „Art. 35d. Publiczny zakład opieki zdrowotnej, utworzony w celu określonym w art. 1 ust. 2 pkt 1, prowadzony jest w formie przewidzianej w przepisach wymienionych w art. 8a.”;
+- **21)** tytuł rozdziału 2 w dziale II otrzymuje brzmienie: „Tworzenie, statut, przekształcenie i likwidacja publicznego zakładu opieki zdrowotnej oraz łączenie samodzielnych publicznych zakładów opieki zdrowotnej”;
+- **22)** art. 36a otrzymuje brzmienie: „Art. 36a. 1. Tworzenie, przekształcenie i likwidacja publicznego zakładu opieki zdrowotnej, dla którego podmiotem, który utworzył zakład jest publiczna uczelnia medyczna lub publiczna uczelnia prowadząca działalność dydaktyczną i badawczą w dziedzinie nauk medycznych albo Centrum Medyczne Kształcenia Podyplomowego, następuje odpowiednio w drodze uchwały senatu właściwej publicznej uczelni medycznej lub publicznej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych albo zarządzenia dyrektora Centrum Medycznego Kształcenia Podyplomowego.
+
+2. Uchwała senatu i zarządzenie dyrektora, o których mowa w ust. 1, dotyczące likwidacji lub przekształcenia publicznego zakładu opieki zdrowotnej, w wyniku którego ma nastąpić jego likwidacja lub istotne ograniczenie poszczególnych rodzajów działalności zakładu i udzielanych świadczeń zdrowotnych, wymaga zgody ministra właściwego do spraw zdrowia w formie decyzji, z zastrzeżeniem ust. 3.
+
+3. Do uchwał i zarządzeń, o których mowa w ust. 1 i 2, nie ma zastosowania art. 43.”;
+
+- **23)** w art. 38 ust. 1 otrzymuje brzmienie: „1. Rozporządzenie, zarządzenie lub uchwała o utworzeniu publicznego zakładu opieki zdrowotnej określa nazwę zakładu, siedzibę, formę gospodarki finansowej, podstawowe kierunki działalności, obszar działania oraz organ sprawujący nadzór nad zakładem.”;
+- **24)** w art. 39 ust. 2 otrzymuje brzmienie: „2. Statut publicznego zakładu opieki zdrowotnej uchwala rada społeczna zakładu i przedkłada go do zatwierdzenia organowi, który utworzył zakład. Nie dotyczy to zakładu utworzonego na podstawie art. 8 ust. 1 pkt 3a i 3b.”;
+- **25)** w art. 40 w ust. 2 wyrazy „Ministrem Pracy i Polityki Socjalnej” zastępuje się wyrazami „ministrem właściwym do spraw pracy”;
+- **26)** w art. 43e ust. 1 i 2 otrzymują brzmienie: „1. Szpital może udostępniać publicznej uczelni medycznej, publicznej uczelni prowadzącej działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, Polskiej Akademii Nauk, państwowej jednostce badawczo-rozwojowej prowadzącej publiczny zakład opieki zdrowotnej lub Centrum Medycznego Kształcenia Podyplomowego oddział szpitalny, zwany dalej „oddziałem klinicznym”, na potrzeby wykonywania zadań dydaktycznych i badawczych w powiązaniu z udzielaniem świadczeń zdrowotnych.
+
+2. Udostępnienie oddziału klinicznego następuje na podstawie umowy cywilnoprawnej zawartej przez kierownika zakładu opieki zdrowotnej (szpitala) odpowiednio z: publiczną uczelnią medyczną, publiczną uczelnią prowadzącą działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, Polską Akademią Nauk, państwową jednostką badawczo-rozwojową prowadzącą publiczny zakład opieki zdrowotnej lub Centrum Medycznego Kształcenia Podyplomowego. Zawarcie umowy wymaga zgody podmiotu, który utworzył zakład opieki zdrowotnej (szpital).”;
+
+- **27)** po art. 43g dodaje się art. 43h - 43j w brzmieniu: „Art. 43h. 1. Połączenie się samodzielnych publicznych zakładów opieki zdrowotnej może być dokonane przez:
+- **1)** przeniesienie całego mienia co najmniej jednego samodzielnego publicznego zakładu opieki zdrowotnej (przejmowanego) na inny samodzielny publiczny zakład opieki zdrowotnej (przejmujący),
+- **2)** utworzenie nowego samodzielnego publicznego zakładu opieki zdrowotnej powstałego z co najmniej dwóch łączących się samodzielnych publicznych zakładów opieki zdrowotnej.
+
+2. Podmioty, które utworzyły samodzielne publiczne zakłady opieki zdrowotnej, mogą dokonać połączenia tych zakładów:
+
+- **1)** w drodze rozporządzenia, zarządzenia albo uchwały - w przypadku zakładów utworzonych przez ten sam podmiot,
+- **2)** w drodze porozumienia - w przypadku zakładów utworzonych przez różne podmioty.
+
+3. Akt o połączeniu powinien zawierać w szczególności postanowienia o:
+
+- **1)** nazwie samodzielnego publicznego zakładu opieki zdrowotnej powstałego w wyniku połączenia, w przypadku połączenia, o którym mowa w ust. 1 pkt 2,
+- **2)** przejęciu mienia zakładu przejmowanego albo zakładów łączących się,
+- **3)** zasadach odpowiedzialności za zobowiązania zakładu przejmowanego albo zakładów łączących się,
+- **4)** terminie złożenia wniosku, o którym mowa w art. 43i ust. 1 pkt 1 albo 2, nie wcześniejszym niż trzy miesiące od dnia wydania lub przyjęcia aktu o połączeniu.
+
+4. Jeżeli w wyniku połączenia w trybie, o którym mowa w ust. 1 pkt 1 albo 2, może nastąpić istotne ograniczenie dostępności, warunków udzielania i jakości oznaczonych rodzajowo świadczeń zdrowotnych przejmowanego zakładu albo łączących się zakładów, akt o połączeniu zawiera także postanowienia o sposobie i formie zapewnienia osobom korzystającym ze świadczeń zdrowotnych tych zakładów, dalszego nieprzerwanego ich udzielania bez istotnego ograniczenia dostępności, warunków udzielania i jakości.
+
+5. W przypadku połączenia, o którym mowa w ust. 1:
+
+- **1)** pkt 1 - akt o połączeniu zawiera także nazwę i siedzibę zakładu przejmowanego,
+- **2)** pkt 2 - akt o połączeniu zawiera także nazwy i siedziby zakładów łączących się.
+
+6. W porozumieniu wskazuje się także podmiot, który przejmuje uprawnienia i obowiązki podmiotu, który utworzył zakład.
+
+7. Projekt aktu o połączeniu wymaga opinii wojewody właściwego ze względu na siedzibę każdego z samodzielnych publicznych zakładów opieki zdrowotnej podlegających połączeniu w trybie, o którym mowa w ust. 1 pkt 1 albo 2.
+
+8. Wojewoda wydaje opinię, o której mowa w ust. 7, w terminie 30 dni od dnia otrzymania projektu aktu o połączeniu. Niewydanie opinii w tym terminie jest równoznaczne z wydaniem opinii pozytywnej.
+
+9. Przepisów ust. 7 i 8 nie stosuje się w przypadku wojewody, który jest podmiotem, który utworzył zakład, zamierzającym dokonać połączenia tego zakładu w trybie, o którym mowa w ust. 1 pkt 1 albo 2.
+
+10. Połączenie, o którym mowa w ust. 1, nie stanowi likwidacji zakładu przejmowanego albo łączących się zakładów.
+
+11. Do pracowników zakładu przejmowanego oraz do pracowników zakładów łączących się stosuje się art. 23 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz.U. z 1998 r. Nr 21, poz. 94, z późn. zm. ).
 
 **Art. 43i.**
 
@@ -282,4 +448,12 @@ source: "isap-pdf"
 **Art. 9.** Akty wykonawcze wydane na podstawie art. 9 ust. 2 i art. 10 ust. 5 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie aktów wykonawczych wydanych na podstawie art. 9 ust. 2 i art. 10 ust. 5 tej ustawy w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 10.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1:
+    - **a)** pkt 11, 13 i 33, które wchodzą w życie z dniem ogłoszenia,
+    - **b)** pkt 36 i 37, które wchodzą w życie z dniem 1 stycznia 2007 r.,
+    - **c)** pkt 43-46, które wchodzą w życie z dniem 1 stycznia 2008 r.;
+
+- **2)** art. 3, który wchodzi w życie z dniem ogłoszenia.
+
 

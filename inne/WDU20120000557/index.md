@@ -68,7 +68,7 @@ b) doraźne – interwencyjne, wynikające z potrzeby zbadania nagłych zdarzeń
 § 5. Policjant wskazany w upoważnieniu, zwany dalej „kontrolującym”, przed przystąpieniem do kontroli jest obowiązany okazać legitymację służbową i upoważnienie kierownikowi jednostki, w której utworzono wewnętrzną służbę ochrony, o której mowa w art. 2 pkt 8 ustawy, lub osobie upoważnionej przez tego kierownika.
 w
 § 6. Kontrolę przeprowadza się w obecności przedsiębiorcy, który uzyskał koncesję na prowadzenie działalności gospodarczej w zakresie usług ochrony osób i mienia, posiadającego pozwolenie na broń na okaziciela, albo przedsiębiorcy, który powołał wewnętrzną służbę ochrony, o której mowa w art. 2 pkt 8 ustawy, albo kierownika jednostki, w której utworzono taką służbę, lub osób przez nich upoważnionych, zwanych dalej „kontrolowanymi”.
-w § 7. 1. Z przeprowadzonej kontroli sporządza się protokół, po jednym egzemplarzu dla kontrolującego, kontrolowanego i kierownika jednostki chronionej przez specjalistyczną uzbrojoną formację ochronną.
+§ 7. 1. Z przeprowadzonej kontroli sporządza się protokół, po jednym egzemplarzu dla kontrolującego, kontrolowanego i kierownika jednostki chronionej przez specjalistyczną uzbrojoną formację ochronną.
 2. Protokół powinien zawierać w szczególności:
 1) nazwę i adres siedziby kontrolowanej specjalistycznej uzbrojonej formacji ochronnej oraz miejsce przeprowadzenia kontroli;
 2) imię i nazwisko kontrolowanego;

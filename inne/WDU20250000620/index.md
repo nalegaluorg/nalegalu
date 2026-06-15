@@ -8,7 +8,7 @@ pos: 620
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rynku pracy i służbach zatrudnienia
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-03-20 |
 | Data wydania | 2025-05-12 |
-| Ostatnia zmiana | 2026-05-05 |
+| Ostatnia zmiana | 2026-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000620) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/620/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -67,6 +67,103 @@ source: "isap-pdf"
 - **6)** cudzoziemców towarzyszących na terytorium Rzeczypospolitej Polskiej obywatelowi polskiemu jako członek rodziny w rozumieniu art. 2 pkt 4 lit. b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** bezrobotnym – oznacza to osobę, o której mowa w art. 1 ust. 3 pkt 1 lub pkt 2 lit. a–l, n oraz p, lub osobę, o której mowa w art. 1 ust. 3 pkt 3, 5 lub 6, niezatrudnioną i niewykonującą innej pracy zarobkowej, nieuczącą się w szkole, z wyjątkiem osoby uczącej się w szkole dla dorosłych, branżowej szkole II stopnia w formie stacjonarnej lub zaocznej, w szkole policealnej w formie stacjonarnej lub zaocznej, lub przystępującej do egzaminów eksternistycznych z zakresu programu nauczania szkoły dla dorosłych lub branżowej szkoły II stopnia, lub kształcącej się na studiach niestacjonarnych, lub uczącej się w szkole artystycznej realizującej wyłącznie kształcenie artystyczne, niemającą stałego źródła dochodu, zdolną i gotową do podjęcia zatrudnienia w pełnym wymiarze czasu pracy obowiązującym w danym zawodzie lub w danej służbie albo innej pracy zarobkowej albo jeżeli jest osobą niepełnosprawną, zdolną i gotową do podjęcia zatrudnienia co najmniej w połowie tego wymiaru czasu pracy, zarejestrowaną w powiatowym urzędzie pracy, zwanym dalej „PUP”, jeżeli: poz. 18 i 96), poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222),
+    - **a)** ukończyła 18 lat,
+    - **b)** nie ukończyła 60 lat – kobieta lub 65 lat – mężczyzna,
+    - **c)** nie jest wpisana do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, zwanej dalej „CEIDG”, jako prowadząca działalność gospodarczą albo
+    - **d)** zgłosiła do CEIDG [wniosek o zawieszenie wykonywania działalności gospodarczej] <wniosek o wpis informacji o zawieszeniu wykonywania działalności gospodarczej> i okres zawieszenia nadal trwa, albo
+    - **e)** we wniosku o wpis do CEIDG <z informacją o podjęciu działalności gospodarczej> określiła dzień podjęcia działalności gospodarczej i nie upłynął jeszcze okres do, określonego we wniosku o wpis, dnia podjęcia tej działalności,
+    - **f)** nie jest osobą tymczasowo aresztowaną lub nie odbywa kary pozbawienia wolności, z wyjątkiem kary pozbawienia wolności odbywanej poza zakładem karnym w systemie dozoru elektronicznego,
+    - **g)** nie nabyła na podstawie ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572 oraz z 2025 r. poz. 620) prawa do zasiłku stałego,
+    - **h)** nie jest członkiem zarządu, prokurentem, członkiem rady nadzorczej lub likwidatorem spółki kapitałowej w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r.
+    - **i)** nie jest prokurentem lub pełnomocnikiem przedsiębiorcy będącego osobą fizyczną, prowadzącego działalność gospodarczą rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r.
+    - **j)** nie jest wspólnikiem spółki jawnej, partnerem lub członkiem zarządu w spółce partnerskiej, komplementariuszem w spółce komandytowej, komplementariuszem lub członkiem rady nadzorczej w spółce komandytowo-akcyjnej, prokurentem lub likwidatorem spółki osobowej w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych,
+    - **k)** nie jest dyrektorem w radzie dyrektorów, o której mowa w art. 300 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych,
+    - **l)** nie podlega, na podstawie odrębnych przepisów, obowiązkowi ubezpieczeń społecznych, z wyjątkiem ubezpieczenia społecznego rolników,
+    - **m)** nie podlega obowiązkowemu ubezpieczeniu na wypadek bezrobocia lub obowiązkowym ubezpieczeniom społecznym w państwach wymienionych w art. 1 ust. 3 pkt 2 lit. a–d,
+    - **n)** nie prowadzi działalności gospodarczej w innym niż Rzeczpospolita Polska państwie na podstawie zgłoszenia do rejestru lub bez takiego zgłoszenia, jeżeli prawo danego państwa takiego zgłoszenia nie wymaga;
+
+- **2)** bezrobotnym bez kwalifikacji zawodowych – oznacza to bezrobotnego nieposiadającego świadectwa ukończenia szkoły kształcącej w zawodzie potwierdzającego posiadanie kwalifikacji zawodowych lub dyplomu ukończenia szkoły kształcącej w zawodzie, świadectwa potwierdzającego kwalifikację w zawodzie, dyplomu potwierdzającego kwalifikacje zawodowe, certyfikatu kwalifikacji zawodowej, dyplomu zawodowego, świadectwa czeladniczego, dyplomu mistrzowskiego lub dyplomu ukończenia studiów;
+- **3)** członku rodziny – oznacza to:
+    - **a)** osobę pozostającą z obywatelem polskim lub cudzoziemcem, o którym mowa w art. 1 ust. 3 pkt 2, w związku małżeńskim uznawanym przez prawo Rzeczypospolitej Polskiej,
+    - **b)** zstępnego, obywatela polskiego lub cudzoziemca, w wieku do 21 lat lub pozostającego na jego utrzymaniu;
+
+- **4)** długotrwale bezrobotnym – oznacza to bezrobotnego zarejestrowanego łącznie przez okres ponad 12 miesięcy w okresie ostatnich 2 lat, z wyłączeniem okresów odbywania stażu;
+- **5)** dodatku aktywizacyjnym – oznacza to świadczenie wypłacone osobie, która, będąc bezrobotnym posiadającym prawo do zasiłku, podjęła samodzielnie zatrudnienie, inną pracę zarobkową albo rozpoczęła działalność gospodarczą;
+- **6)** doświadczeniu zawodowym – oznacza to doświadczenie uzyskane w trakcie zatrudnienia, wykonywania innej pracy zarobkowej, prowadzenia działalności gospodarczej lub odbywania stażu przez okres co najmniej 3 miesięcy;
+- **7)** EURES – oznacza to europejską sieć służb zatrudnienia państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, realizującą działania obejmujące w szczególności pośrednictwo pracy wraz z doradztwem w zakresie mobilności na rynku pracy;
+- **8)** giełdzie pracy – oznacza to zorganizowaną przez PUP lub wojewódzki urząd pracy, zwany dalej „WUP”, formę bezpośredniego kontaktu pracodawcy z wieloma kandydatami do pracy, dobranymi spośród osób zarejestrowanych w PUP i osób niezarejestrowanych, w tym osób biernych zawodowo, w celu pozyskania do pracy kandydatów odpowiadających wymaganiom tego pracodawcy;
+- **9)** innej pracy zarobkowej – oznacza to wykonywanie pracy lub świadczenie usług na podstawie umów cywilnoprawnych, w tym umowy agencyjnej, umowy zlecenia, umowy o dzieło lub umowy o świadczenie usług, do której stosuje się odpowiednio przepisy o zleceniu, albo umowy o pomocy przy zbiorach, o której mowa w art. 91a ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 197 i 620), lub w okresie członkostwa w rolniczej spółdzielni produkcyjnej, spółdzielni kółek rolniczych lub spółdzielni usług rolniczych;
+- **10)** instytucji szkoleniowej – oznacza to publiczny lub niepubliczny podmiot prowadzący na podstawie odrębnych przepisów edukację pozaszkolną;
+- **11)** jednostkach organizacyjnych pomocy społecznej – oznacza to jednostki organizacyjne pomocy społecznej, o których mowa w art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
+- **12)** klasyfikacji zawodów i specjalności na potrzeby rynku pracy – oznacza to wykaz grup zawodów oraz zawodów i specjalności występujących na rynku pracy, ustrukturalizowany zgodnie z Międzynarodowym Standardem Klasyfikacji Zawodów ISCO;
+- **13)** minimalnym wynagrodzeniu za pracę – oznacza to kwotę minimalnego wynagrodzenia za pracę pracowników przysługującą za pracę w pełnym miesięcznym wymiarze czasu pracy ogłaszaną na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773);
+- **14)** nielegalnym zatrudnieniu lub nielegalnej innej pracy zarobkowej – oznacza to:
+    - **a)** zatrudnienie przez pracodawcę osoby bez potwierdzenia na piśmie w wymaganym terminie rodzaju zawartej umowy i jej warunków,
+    - **b)** niezgłoszenie osoby zatrudnionej lub wykonującej inną pracę zarobkową do ubezpieczeń społecznych;
+
+- **15)** ofercie pracy – oznacza to co najmniej jedno wolne miejsce zatrudnienia lub innej pracy zarobkowej;
+- **16)** opiekunie osoby niepełnosprawnej – oznacza to: – Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809) ciąży obowiązek alimentacyjny, z wyjątkiem osób o znacznym stopniu niepełnosprawności – opiekującą się dzieckiem z orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji, lub osobą niepełnosprawną ze znacznym stopniem niepełnosprawności;
+    - **a)** matkę lub ojca,
+    - **b)** opiekuna faktycznego dziecka, przez którego rozumie się osobę faktycznie opiekującą się dzieckiem, jeżeli wystąpiła z wnioskiem do sądu opiekuńczego o przysposobienie dziecka,
+    - **c)** rodzinę zastępczą spokrewnioną albo rodzinę zastępczą niezawodową w rozumieniu ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49),
+    - **d)** rodzica zastępczego zawodowego albo prowadzącego rodzinny dom dziecka niepobierającego z tego tytułu wynagrodzenia w przypadkach, o których mowa w art. 54 ust. 6 oraz art. 62 ust. 4 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej,
+    - **e)** małżonka,
+    - **f)** inną osobę, na której zgodnie z przepisami ustawy z dnia 25 lutego 1964 r.
+
+- **17)** osobie biernej zawodowo – oznacza to osobę, która ukończyła 18 lat i w danej chwili nie tworzy zasobów siły roboczej, ponieważ nie jest zatrudniona, nie wykonuje innej pracy zarobkowej oraz nie prowadzi działalności gospodarczej i nie jest zarejestrowana w PUP jako bezrobotny albo poszukujący pracy;
+- **18)** osobie do 30. roku życia – oznacza to osobę, która do dnia zastosowania wobec niej formy pomocy nie ukończyła 30. roku życia;
+- **19)** osobie niepełnosprawnej – oznacza to osobę, o której mowa w art. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, z późn. zm. );
+- **20)** osobie niezarejestrowanej – oznacza to osobę, która nie jest zarejestrowana w PUP jako bezrobotny albo poszukujący pracy;
+- **21)** osobie samotnie wychowującej dzieci – oznacza to jednego z rodziców albo opiekuna prawnego, wychowującego co najmniej jedno dziecko, będącego panną, kawalerem, wdową, wdowcem, rozwódką, rozwodnikiem albo osobą, w stosunku do której orzeczono separację w rozumieniu odrębnych przepisów, lub osobą pozostającą w związku małżeńskim, jeżeli jej małżonek został pozbawiony praw rodzicielskich lub odbywa karę pozbawienia wolności, jeżeli ten rodzic albo opiekun prawny w roku podatkowym samotnie wychowuje dziecko:
+    - **a)** małoletnie,
+    - **b)** bez względu na jego wiek, które zgodnie z odrębnymi przepisami otrzymywało zasiłek pielęgnacyjny, dodatek pielęgnacyjny lub rentę socjalną,
+    - **c)** do ukończenia 25. roku życia uczące się w szkole, o której mowa w przepisach o systemie oświaty, przepisach o szkolnictwie wyższym i nauce lub w przepisach regulujących system oświatowy lub szkolnictwo wyższe obowiązujących w innym niż Rzeczpospolita Polska państwie;
+
+- **22)** osobie zależnej – oznacza to osobę wymagającą ze względu na stan zdrowia lub wiek stałej opieki, połączoną więzami rodzinnymi lub powinowactwem z osobą objętą formą pomocy określoną w ustawie, lub pozostającą z nią we wspólnym gospodarstwie domowym;
+- **23)** partnerstwie transgranicznym EURES – oznacza to działania sieci EURES w regionach przygranicznych Rzeczypospolitej Polskiej, realizowane przez służby zatrudnienia oraz inne podmioty z państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, uprawnione do realizacji działań sieci EURES;
+- **24)** poszukującym pracy – oznacza to osobę, o której mowa w art. 1 ust. 3, która ukończyła 18 lat i poszukuje zatrudnienia, innej pracy zarobkowej lub innej formy pomocy, zarejestrowaną w PUP;
+- **25)** powracającym z zagranicy – oznacza to osobę, która jest obywatelem polskim, niezatrudnioną i niewykonującą innej pracy zarobkowej, niemającą stałego źródła dochodu, spełniającą warunki określone w pkt 1 lit. a–l, i która w okresie ostatnich 24 miesięcy zamieszkiwała co najmniej 12 miesięcy za granicą;
+- **26)** pozarolniczej działalności – oznacza to pozarolniczą działalność albo współpracę przy prowadzeniu tej działalności w rozumieniu przepisów o systemie ubezpieczeń społecznych;
+- **27)** pracach interwencyjnych – oznacza to zatrudnienie bezrobotnego przez pracodawcę, które nastąpiło w wyniku umowy zawartej ze starostą i ma na celu wsparcie bezrobotnych;
+- **28)** pracodawcy – oznacza to jednostkę organizacyjną, chociażby nie posiadała osobowości prawnej, a także osobę fizyczną, jeżeli zatrudniają one co najmniej jednego pracownika;
+- **29)** pracy niesubsydiowanej – oznacza to zatrudnienie, wykonywanie innej pracy zarobkowej lub prowadzenie działalności gospodarczej, bez dofinansowania ze środków Funduszu Pracy;
+- **30)** programach finansowanych z rezerwy Funduszu Pracy – oznacza to działania mające na celu wspieranie aktywności zawodowej, podjęcia i utrzymania zatrudnienia przez wykorzystanie form pomocy określonych w ustawie, finansowane lub dofinansowane z rezerwy Funduszu Pracy pozostającej w dyspozycji ministra właściwego do spraw pracy;
+- **31)** programach specjalnych – oznacza to działania mające na celu wspieranie aktywności zawodowej, podjęcia i utrzymania zatrudnienia przez wykorzystanie specyficznych elementów wspierających zatrudnienie, samodzielnie lub w połączeniu z formami pomocy określonymi w ustawie;
+- **32)** projekcie EFS+ – oznacza to projekt obejmujący formy pomocy określone w ustawie, finansowany z udziałem środków Europejskiego Funduszu Społecznego Plus, realizowany przez PUP, prefinansowany z kwot środków Funduszu Pracy na finansowanie form pomocy ustalonych przez ministra właściwego do spraw pracy;
+- **33)** projekcie pilotażowym – oznacza to przedsięwzięcie polegające na wdrażaniu nowych metod, narzędzi i sposobów aktywności zawodowej i wsparcia zatrudnienia w celu przygotowywania nowych rozwiązań o charakterze systemowym, finansowane z rezerwy Funduszu Pracy pozostającej w dyspozycji ministra właściwego do spraw pracy;
+- **34)** przeciętnym wynagrodzeniu – oznacza to przeciętne wynagrodzenie w poprzednim kwartale, od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674);
+- **35)** przedsiębiorcy – oznacza to przedsiębiorcę w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **36)** przepisach o koordynacji systemów zabezpieczenia społecznego – oznacza to realizację przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. WE L 166 z 30.04.2004, str. 1, z późn. zm. ) oraz rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm. );
+- **37)** przychodach – oznacza to przychody z innego tytułu niż zatrudnienie, inna praca zarobkowa, działalność gospodarcza, zasiłek dla bezrobotnych lub inne świadczenie wypłacane z Funduszu Pracy, podlegające opodatkowaniu na podstawie ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, 340, 368 i 620);
+- **38)** przyczynach dotyczących zakładu pracy – oznacza to: z 2025 r. poz. 277), w przypadku rozwiązania stosunku pracy lub stosunku służbowego z tych przyczyn u pracodawcy zatrudniającego mniej niż 20 pracowników,
+    - **a)** rozwiązanie stosunku pracy, spółdzielczego stosunku pracy lub stosunku służbowego z przyczyn niedotyczących pracowników, zgodnie z przepisami o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników lub zgodnie z przepisami ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U.
+    - **b)** rozwiązanie stosunku pracy, spółdzielczego stosunku pracy lub stosunku służbowego z powodu ogłoszenia upadłości pracodawcy, jego likwidacji lub likwidacji stanowiska pracy z przyczyn ekonomicznych, organizacyjnych, produkcyjnych albo technologicznych,
+    - **c)** wygaśnięcie stosunku pracy, spółdzielczego stosunku pracy lub stosunku służbowego w przypadku śmierci pracodawcy lub gdy odrębne przepisy przewidują wygaśnięcie stosunku pracy lub stosunku służbowego w wyniku przejścia zakładu pracy lub jego części na innego pracodawcę i niezaproponowania przez tego pracodawcę nowych warunków pracy i płacy,
+    - **d)** rozwiązanie stosunku pracy, spółdzielczego stosunku pracy przez pracownika na podstawie art. 55 § 1 i 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+
+- **39)** robotach publicznych – oznacza to zatrudnienie bezrobotnego w okresie nie dłuższym niż 6 miesięcy przy wykonywaniu prac organizowanych przez powiaty, gminy, organizacje pozarządowe statutowo zajmujące się problematyką ochrony środowiska, kultury, oświaty, kultury fizycznej i turystyki, opieki zdrowotnej, bezrobocia oraz pomocy społecznej, przedsiębiorstwa społeczne, o których mowa w art. 3 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. z 2024 r. poz. 113 i 1635 oraz z 2025 r. poz. 620), zwane dalej „przedsiębiorstwami społecznymi”, spółdzielnie socjalne, o których mowa w ustawie z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych (Dz. U. z 2025 r. poz. 178 i 620), a także spółki wodne i ich związki, jeżeli prace te są finansowane lub dofinansowane ze środków samorządu terytorialnego, budżetu państwa, funduszy celowych, organizacji pozarządowych, przedsiębiorstw społecznych, spółdzielni socjalnych, spółek wodnych i ich związków;
+- **40)** składkach na ubezpieczenia społeczne – oznacza to składki na ubezpieczenia emerytalne, rentowe i wypadkowe, finansowane z własnych środków płatnika tych składek;
+- **41)** specyficznych elementach wspierających zatrudnienie – oznacza to finansowanie z Funduszu Pracy racjonalnych wydatków innych niż formy pomocy określone w ustawie, niezbędnych do realizacji działań dostosowanych do indywidualnych potrzeb uczestników programu specjalnego, adekwatnych do uwarunkowań lokalnego rynku pracy;
+- **42)** stałym źródle dochodu – oznacza to: o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2024 r. poz. 1121, 1243, 1562 i 1871) lub ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2025 r. poz. 305), poz. 619 i 620) prawa do świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego,
+    - **a)** nabycie prawa do emerytury lub renty z tytułu niezdolności do pracy, renty szkoleniowej, renty socjalnej, renty rodzinnej w wysokości przekraczającej połowę minimalnego wynagrodzenia za pracę lub świadczenia pieniężnego, o którym mowa w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658), zwanego dalej „świadczeniem pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych”, lub renty inwalidzkiej przyznawanej na podstawie ustawy z dnia 18 lutego 1994 r.
+    - **b)** nabycie po ustaniu zatrudnienia, innej pracy zarobkowej, zaprzestaniu prowadzenia pozarolniczej działalności, prawa do nauczycielskiego świadczenia kompensacyjnego, zasiłku przedemerytalnego, świadczenia przedemerytalnego, świadczenia rehabilitacyjnego, zasiłku chorobowego, zasiłku macierzyńskiego lub zasiłku w wysokości zasiłku macierzyńskiego,
+    - **c)** nabycie prawa do emerytury albo renty z tytułu niezdolności do pracy, przyznanego przez zagraniczny organ emerytalny lub rentowy, w wysokości co najmniej najniższej emerytury albo renty z tytułu niezdolności do pracy, o których mowa w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych,
+    - **d)** uzyskiwanie miesięcznie przychodu w wysokości przekraczającej połowę minimalnego wynagrodzenia za pracę, z wyłączeniem przychodów uzyskanych z tytułu odsetek lub innych przychodów od środków pieniężnych zgromadzonych na rachunkach bankowych lub rachunkach członka spółdzielczej kasy oszczędnościowo-kredytowej,
+    - **e)** nabycie na podstawie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871 oraz z 2025 r.
+    - **f)** nabycie na podstawie ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2024 r. poz. 246) prawa do zasiłku dla opiekuna,
+    - **g)** pobieranie po ustaniu zatrudnienia świadczenia szkoleniowego, o którym mowa w art. 217 ust. 6;
+
+- **43)** staroście – oznacza to starostę powiatu lub prezydenta miasta na prawach powiatu, sprawującego zwierzchnictwo nad PUP;
+- **44)** stażu – oznacza to nabywanie przez bezrobotnego wiedzy i umiejętności przez wykonywanie zadań w miejscu pracy bez nawiązania stosunku pracy z pracodawcą;
+- **45)** szkoleniu – oznacza to pozaszkolne zajęcia mające na celu nabycie wiedzy i umiejętności, potrzebnych do wykonywania pracy, w tym umiejętności poszukiwania pracy;
+- **46)** targach pracy – oznacza to zorganizowaną przez WUP lub PUP formę bezpośredniego kontaktu wielu pracodawców z wieloma kandydatami do pracy w celu prezentacji ofert pracy i pozyskania do pracy kandydatów odpowiadających wymaganiom poszczególnych pracodawców;
+- **47)** wskaźniku efektywności kosztowej podstawowych form pomocy – oznacza to stosunek kwoty wydatków Funduszu Pracy poniesionych przez samorządy powiatowe na finansowanie podstawowych form pomocy do liczby osób, które w trakcie lub nie później niż w okresie 180 dni od dnia zakończenia realizacji podstawowych form pomocy w roku budżetowym wykonywały pracę niesubsydiowaną przez co najmniej 90 dni;
+- **48)** wskaźniku efektywności zatrudnieniowej podstawowych form pomocy – oznacza to udział procentowy liczby osób, które w trakcie lub nie później niż w okresie 180 dni od dnia zakończenia realizacji podstawowych form pomocy w roku budżetowym wykonywały pracę niesubsydiowaną przez co najmniej 90 dni, w stosunku do liczby osób, które w danym roku zakończyły realizację tych form pomocy;
+- **49)** zadaniach fakultatywnych – oznacza to działania wspierające realizację przez publiczne służby zatrudnienia i Ochotnicze Hufce Pracy, zwane dalej „OHP”, określonych w ustawie zadań w zakresie aktywności zawodowej, wspierania zatrudnienia oraz rynku pracy, finansowane ze środków Funduszu Pracy;
+- **50)** zasiłku – oznacza to zasiłek dla bezrobotnych;
+- **51)** zatrudnieniu – oznacza to wykonywanie pracy na podstawie stosunku pracy, stosunku służbowego lub umowy o pracę nakładczą.
 
 **Art. 3.**
 
@@ -279,6 +376,12 @@ source: "isap-pdf"
 
 **Art. 17.** Organami zatrudnienia są:
 
+- **1)** minister właściwy do spraw pracy;
+- **2)** minister właściwy do spraw zabezpieczenia społecznego w sprawach z zakresu koordynacji systemów zabezpieczenia społecznego;
+- **3)** wojewodowie;
+- **4)** marszałkowie województw;
+- **5)** starostowie.
+
 **Art. 18.**
 
 1. Marszałek województwa powołuje dyrektora WUP.
@@ -432,6 +535,17 @@ source: "isap-pdf"
 
 **Art. 28.** Minister właściwy do spraw pracy publikuje corocznie na stronie internetowej urzędu obsługującego ministra:
 
+- **1)** katalog podstawowych form pomocy finansowanych z Funduszu Pracy, dla których w kolejnym roku będą określone wskaźniki, o których mowa w pkt 2 lit. b i c;
+- **2)** informację, uzyskaną na podstawie badań statystycznych prowadzonych zgodnie z przepisami o statystyce publicznej, o:
+    - **a)** wydatkach Funduszu Pracy poniesionych w poprzednim roku na finansowanie przez samorządy powiatowe podstawowych form pomocy,
+    - **b)** wartości średniej wskaźnika efektywności zatrudnieniowej form pomocy, uzyskanej w skali kraju przez PUP za rok poprzedni, dla podstawowych form pomocy, o których mowa w pkt 1,
+    - **c)** wartości średniej wskaźnika efektywności kosztowej form pomocy, uzyskanej w skali kraju przez PUP za rok poprzedni, dla podstawowych form pomocy, o których mowa w pkt 1;
+
+- **3)** inne opracowania przedstawiające efekty działań urzędów pracy w aktualnej sytuacji na rynku pracy;
+- **4)** informację o:
+    - **a)** planie wydatkowania środków KFS,
+    - **b)** priorytetach wydatkowania środków KFS, o których mowa w art. 25 ust. 1 pkt 1 lit. b, na kolejny rok – do dnia 30 września każdego roku.
+
 **Art. 29.**
 
 1. Klasyfikacja zawodów i specjalności na potrzeby rynku pracy jest narzędziem stosowanym w zakresie:
@@ -467,6 +581,9 @@ source: "isap-pdf"
 - **2)** realizacja zadań organu wyższego stopnia w postępowaniu administracyjnym w sprawach dotyczących statusu bezrobotnego, poszukującego pracy oraz świadczeń z tytułu bezrobocia.
 
 **Art. 31.** W postępowaniu administracyjnym w sprawach związanych z wykonywaniem zadań wynikających z ustawy, jeżeli ustawa nie stanowi inaczej:
+
+- **1)** organem właściwym jest starosta;
+- **2)** organem wyższego stopnia jest wojewoda.
 
 **Art. 32.**
 
@@ -1239,6 +1356,10 @@ source: "isap-pdf"
 
 **Art. 64.** Nie stanowi przeszkody do nabycia oraz posiadania statusu bezrobotnego:
 
+- **1)** wykonywanie przez wolontariuszy świadczeń odpowiadających świadczeniu pracy na zasadach określonych w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940), jeżeli wolontariusz przedstawi właściwemu PUP porozumienie z korzystającym;
+- **2)** odbywanie praktyki absolwenckiej na zasadach określonych w ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich (Dz. U. z 2018 r. poz. 1244 oraz z 2025 r. poz. 620), jeżeli praktykant przedstawi właściwemu PUP umowę o praktykę absolwencką;
+- **3)** pełnienie bez wynagrodzenia funkcji członka statutowych władz organizacji pozarządowej, o której mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, jeżeli członek przedstawi właściwemu PUP oświadczenie organizacji, w której władzach zasiada, potwierdzające pełnioną przez niego funkcję i niepobieranie wynagrodzenia z tytułu jej pełnienia.
+
 **Art. 65.**
 
 1. Starosta pozbawia statusu bezrobotnego bezrobotnego, który:
@@ -1298,6 +1419,14 @@ source: "isap-pdf"
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 69.** Pierwszeństwo w skierowaniu do udziału w formach pomocy przysługuje:
+
+- **1)** bezrobotnym posiadającym Kartę Dużej Rodziny, o której mowa w art. 1 ust. 1 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny;
+- **2)** bezrobotnym powyżej 50. roku życia;
+- **3)** bezrobotnym bez kwalifikacji zawodowych;
+- **4)** bezrobotnym niepełnosprawnym;
+- **5)** długotrwale bezrobotnym;
+- **6)** bezrobotnym i poszukującym pracy, będącym osobami do 30. roku życia;
+- **7)** bezrobotnym samotnie wychowującym co najmniej jedno dziecko.
 
 **Art. 70.** Starosta świadczy pomoc z uwzględnieniem sytuacji i potrzeb osoby, której udzielana jest pomoc, biorąc pod uwagę możliwość zastosowania form pomocy. Przepis stosuje się odpowiednio do pracodawców oraz innych podmiotów.
 
@@ -1395,6 +1524,10 @@ source: "isap-pdf"
 - **5)** nawiązywanie i utrzymywanie kontaktów z bezrobotnymi, poszukującymi pracy lub osobami niezarejestrowanymi, w tym osobami biernymi zawodowo, oraz pracodawcami.
 
 **Art. 82.** Z pośrednictwa pracy, o którym mowa w art. 81, oraz pośrednictwa pracy w ramach sieci EURES, o którym mowa w art. 86 ust. 2, w zakresie określonym dla pracodawców, mogą korzystać:
+
+- **1)** przedsiębiorca,
+- **2)** jednostka organizacyjna, chociażby nie posiadała osobowości prawnej, posiadająca siedzibę lub oddział na terytorium Rzeczypospolitej Polskiej,
+- **3)** osoba fizyczna – którzy na podstawie umowy powierzają lub zamierzają powierzyć wykonywanie pracy co najmniej jednej osobie.
 
 **Art. 83.**
 
@@ -1672,6 +1805,10 @@ source: "isap-pdf"
 
 **Art. 98.** Minister właściwy do spraw pracy określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe warunki realizacji i sposoby świadczenia pośrednictwa pracy i poradnictwa zawodowego przez WUP i PUP, a w części dotyczącej pośrednictwa pracy w ramach sieci EURES także przez OHP, uwzględniając zakres pośrednictwa pracy i poradnictwa zawodowego, konieczność zapewnienia respektowania praw osób korzystających z tych form pomocy oraz ujednolicenie ich realizacji przez WUP, PUP oraz OHP;
+- **2)** zawartość ofert pracy zgłaszanych do ePracy w ramach pośrednictwa pracy, w tym pośrednictwa pracy w ramach sieci EURES, uwzględniając konieczność zapewnienia w ofertach pracy zakresu informacji niezbędnego dla znalezienia odpowiednich kandydatów do pracy;
+- **3)** minimalną liczbę pracowników realizujących w WUP i PUP poradnictwo zawodowe i pośrednictwo pracy, w tym pośrednictwo pracy w ramach sieci EURES, oraz minimalną liczbę pracowników realizujących w OHP pośrednictwo pracy w ramach sieci EURES, uwzględniając konieczność zapewnienia szerokiej dostępności tych form pomocy dla bezrobotnych, poszukujących pracy i osób niezarejestrowanych, w tym osób biernych zawodowo.
+
 #### Rozdział 3 Rozwój umiejętności i podnoszenie kwalifikacji
 
 **Art. 99.**
@@ -1793,6 +1930,20 @@ source: "isap-pdf"
 **Art. 112.** Jeżeli osoba w trakcie realizacji form pomocy, o których mowa w art. 99 ust. 1, utraciła status bezrobotnego lub poszukującego pracy w przypadkach, o których mowa w art. 65 ust. 1 pkt 1, 4–7, 9 oraz w art. 68 ust. 1 pkt 4, starosta nie zawiesza finansowania tych form.
 
 **Art. 113.** Minister właściwy do spraw pracy określi, w drodze rozporządzenia, sposób i tryb realizacji przez starostę pomocy bezrobotnym i poszukującym pracy w nabywaniu wiedzy, umiejętności lub kwalifikacji, w tym:
+
+- **1)** elementy wniosków o udzielenie pomocy i tryb ich rozpatrywania,
+- **2)** elementy skierowania na szkolenie,
+- **3)** elementy umowy z bezrobotnym lub poszukującym pracy o:
+    - **a)** sfinansowanie kosztów potwierdzenia nabycia wiedzy i umiejętności lub kosztów uzyskania dokumentu potwierdzającego nabycie wiedzy i umiejętności,
+    - **b)** sfinansowanie opłaty pobieranej za postępowanie nostryfikacyjne albo postępowanie, o którym mowa w art. 327 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce,
+    - **c)** sfinansowanie opłaty za przeprowadzenie postępowania i wydanie decyzji w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu regulowanego albo do podejmowania lub wykonywania działalności regulowanej,
+
+- **4)** sposób i kryteria wyboru instytucji szkoleniowej,
+- **5)** tryb realizacji i elementy umowy lub porozumienia między starostą a instytucją szkoleniową,
+- **6)** tryb realizacji i elementy umowy z bezrobotnym lub poszukującym pracy o udzielenie pożyczki edukacyjnej, o której mowa w art. 111,
+- **7)** elementy zaświadczenia o ukończeniu szkolenia,
+- **8)** tryb realizacji i rozliczenia bonu na kształcenie ustawiczne,
+- **9)** prowadzenie ewaluacji i dokumentacji realizacji pomocy – mając na względzie konieczność ujednolicenia procedur realizacji pomocy.
 
 **Art. 114.**
 
@@ -1948,6 +2099,14 @@ source: "isap-pdf"
 
 **Art. 124.** Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowy sposób i tryb organizowania stażu, w tym elementy:
 
+- **1)** wniosku o organizację stażu,
+- **2)** programu stażu,
+- **3)** umowy o organizację stażu,
+- **4)** skierowania do odbycia stażu,
+- **5)** wniosku o dodatek do stypendium,
+- **6)** wniosku o premię oraz rodzaje dołączanych do niego informacji,
+- **7)** zaświadczenia o odbyciu stażu – mając na uwadze sprawną i bezpieczną organizację stażu, skuteczność nabycia wiedzy i umiejętności, prawidłowość wydatkowania środków Funduszu Pracy i konieczność zapewnienia zgodności udzielania pomocy z warunkami dopuszczalności pomocy de minimis.
+
 **Art. 125.**
 
 1. Środki KFS przeznacza się na wspomaganie podmiotów inwestujących w kształcenie ustawiczne osób pracujących.
@@ -2040,6 +2199,11 @@ source: "isap-pdf"
 
 **Art. 129.** Podmiot, który zawarł umowę o przyznanie środków KFS, nie może dokonać zakupu usług objętych umową, o której mowa w art. 126 ust. 1 i 2, od podmiotów powiązanych z nim osobowo lub kapitałowo. Przez powiązania kapitałowe lub osobowe rozumie się wzajemne powiązania między tym podmiotem a realizatorem działań finansowanych z udziałem środków KFS, polegające na:
 
+- **1)** uczestniczeniu w spółce jako wspólnik spółki cywilnej lub spółki osobowej;
+- **2)** posiadaniu udziałów lub co najmniej 5 % akcji;
+- **3)** pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta, pełnomocnika;
+- **4)** pozostawaniu w takim stosunku prawnym lub faktycznym, który może budzić uzasadnione wątpliwości co do bezstronności w wyborze realizatora.
+
 **Art. 130.** W przypadku finansowania pracownikowi ze środków KFS kosztów kształcenia ustawicznego przepisy działu czwartego rozdziału III ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
 
 **Art. 131.**
@@ -2071,6 +2235,10 @@ source: "isap-pdf"
 2. Starosta może pozyskiwać z rejestru PESEL, za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 1 i 10, dane, o których mowa w art. 47 ust. 1 pkt 3, 4 i 6–9, w zakresie, o którym mowa w art. 47 ust. 3 pkt 2 i 4–8, w celu weryfikacji warunków, o których mowa w art. 125 ust. 4 i art. 126 ust. 1 i 2.
 
 **Art. 133.** Minister właściwy do spraw pracy określi, w drodze rozporządzenia, sposób i tryb przyznawania środków KFS, w tym:
+
+- **1)** elementy wniosku podmiotu ubiegającego się o finansowanie działań ze środków KFS oraz rodzaje dołączanych do niego informacji,
+- **2)** procedurę naboru wniosków o finansowanie działań ze środków KFS,
+- **3)** elementy umowy na finansowanie działań ze środków KFS – mając na względzie prawidłowość wydatkowania środków KFS i konieczność zapewnienia zgodności udzielania pomocy z warunkami dopuszczalności pomocy de minimis.
 
 **Art. 134.**
 
@@ -2567,7 +2735,17 @@ source: "isap-pdf"
 
 **Art. 160.** Minister właściwy do spraw pracy określi, w drodze rozporządzenia:
 
+- **1)** sposób składania i rozpatrywania wniosków o dofinansowanie podjęcia działalności gospodarczej i refundację kosztów wyposażenia lub doposażenia stanowiska pracy,
+- **2)** informacje zawarte we wniosku o dofinansowanie podjęcia działalności gospodarczej i we wniosku o refundację kosztów wyposażenia lub doposażenia stanowiska pracy oraz dokumenty składane z wnioskiem,
+- **3)** formy zabezpieczenia umowy,
+- **4)** sposób realizacji umowy o dofinansowanie podjęcia działalności gospodarczej oraz umowy o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, w tym sposób rozliczania wydatków – mając na względzie uproszczenie ubiegania się o środki, sprawną realizację zadań starosty w zakresie przyznawania środków i rozliczania zawartych umów, zapewnienie racjonalności i efektywności gospodarowania środkami publicznymi, a także zgodność udzielania pomocy z warunkami dopuszczalności pomocy de minimis.
+
 **Art. 161.** Starosta może przyznać z Funduszu Pracy:
+
+- **1)** bezrobotnemu,
+- **2)** absolwentowi CIS,
+- **3)** absolwentowi KIS,
+- **4)** poszukującemu pracy niezatrudnionemu i niewykonującemu innej pracy zarobkowej, w tym poszukującemu pracy niezatrudnionemu i niewykonującemu innej pracy zarobkowej opiekunowi osoby niepełnosprawnej – jednorazowo środki na założenie lub przystąpienie do spółdzielni socjalnej, w tym na pokrycie kosztów pomocy prawnej, konsultacji i doradztwa związanych z podjęciem tej działalności, w wysokości określonej w umowie, nie wyższej jednak niż 6-krotność przeciętnego wynagrodzenia obowiązującego w dniu zawarcia umowy na jednego członka założyciela spółdzielni lub na jednego członka przystępującego do spółdzielni socjalnej.
 
 **Art. 162.**
 
@@ -2647,6 +2825,9 @@ source: "isap-pdf"
 
 **Art. 167.** Starosta może przyznać z Funduszu Pracy spółdzielni socjalnej lub przedsiębiorstwu społecznemu:
 
+- **1)** środki na utworzenie stanowiska pracy dla skierowanego bezrobotnego lub skierowanego poszukującego pracy, o którym mowa w art. 161 pkt 4, w wysokości określonej w umowie, nie wyższej jednak niż 6-krotność przeciętnego wynagrodzenia obowiązującego w dniu zawarcia umowy;
+- **2)** finansowanie kosztów wynagrodzenia wypłacanego miesięcznie w wysokości nie wyższej niż kwota minimalnego wynagrodzenia za pracę obowiązującego w dniu zawarcia umowy, przez okres nie dłuższy niż 6 miesięcy dla zatrudnionego skierowanego bezrobotnego lub zatrudnionego skierowanego poszukującego pracy, o którym mowa w art. 161 pkt 4.
+
 **Art. 168.**
 
 1. Wniosek o środki na utworzenie stanowiska pracy może złożyć spółdzielnia socjalna lub przedsiębiorstwo społeczne, które na dzień złożenia wniosku:
@@ -2693,6 +2874,11 @@ source: "isap-pdf"
 **Art. 170.** Do wniosków o środki na założenie lub przystąpienie do spółdzielni socjalnej oraz wniosków spółdzielni socjalnej lub przedsiębiorstwa społecznego o środki na utworzenie stanowiska pracy lub o finansowanie kosztów wynagrodzenia przepisy art. 149 stosuje się odpowiednio. Do umów o środki na założenie lub przystąpienie do spółdzielni socjalnej, umów o środki na utworzenie stanowiska pracy i umów o finansowanie kosztów wynagrodzenia przepisy art. 150 ust. 2 i 3 oraz art. 153 ust. 8 stosuje się odpowiednio.
 
 **Art. 171.** Minister właściwy do spraw pracy określi, w drodze rozporządzenia:
+
+- **1)** sposób składania i rozpatrywania wniosku o środki na założenie lub przystąpienie do spółdzielni socjalnej, wniosku o środki na utworzenie stanowiska pracy oraz wniosku o finansowanie kosztów wynagrodzenia,
+- **2)** informacje zawarte we wniosku o środki na założenie lub przystąpienie do spółdzielni socjalnej, wniosku o środki na utworzenie stanowiska pracy oraz wniosku o finansowanie kosztów wynagrodzenia oraz dokumenty składane z wnioskiem,
+- **3)** formy zabezpieczenia umowy,
+- **4)** sposób realizacji umowy o środki na założenie lub przystąpienie do spółdzielni socjalnej, umowy o środki na utworzenie stanowiska pracy oraz umowy o finansowanie kosztów wynagrodzenia, w tym sposób rozliczania wydatków – mając na względzie uproszczenie ubiegania się o środki, sprawną realizację zadań starosty w zakresie przyznawania środków i rozliczania zawartych umów, zapewnienie racjonalności i efektywności gospodarowania środkami publicznymi, a także zgodność udzielania pomocy z warunkami dopuszczalności pomocy de minimis.
 
 **Art. 172.**
 
@@ -2944,7 +3130,30 @@ source: "isap-pdf"
 
 **Art. 191.** Do zadań Banku Gospodarstwa Krajowego w zakresie, o którym mowa w art. 190 ust. 1, należy w szczególności:
 
+- **1)** dokonywanie wyboru pośredników finansowych i zawieranie z nimi umów;
+- **2)** przekazywanie środków pośrednikom finansowym;
+- **3)** gromadzenie środków z tytułu spłat i zwrotu pożyczek oraz oprocentowania wolnych środków;
+- **4)** monitorowanie realizacji pożyczek oraz zapewnienia świadczenia usług doradczych i szkoleniowych przez pośredników finansowych;
+- **5)** prowadzenie rozliczeń i sporządzanie sprawozdawczości dla ministra właściwego do spraw pracy;
+- **6)** opracowanie regulaminu udzielania pożyczek w uzgodnieniu z ministrem właściwym do spraw pracy, a w przypadku pożyczek współfinansowanych ze środków pochodzących z budżetu Unii Europejskiej – również z ministrem właściwym do spraw rozwoju regionalnego;
+- **7)** opracowywanie jednolitych wzorów wniosków o udzielenie pożyczek oraz wzorów innych niezbędnych dokumentów;
+- **8)** opracowywanie jednolitych wzorów rozliczeń i sprawozdań w zakresie udzielonych pożyczek;
+- **9)** sprawowanie kontroli realizacji pożyczek przez pośredników finansowych;
+- **10)** opiniowanie wniosków o umorzenie należności z tytułu udzielonych pożyczek przed przekazaniem ich do ministra właściwego do spraw pracy;
+- **11)** monitorowanie dochodzenia roszczeń z tytułu niespłaconych pożyczek udzielanych przez pośredników finansowych.
+
 **Art. 192.** Do zadań pośrednika finansowego w zakresie, o którym mowa w art. 173 ust. 1, należy w szczególności:
+
+- **1)** rozpatrywanie wniosków oraz zawieranie umów w sprawie udzielania pożyczek;
+- **2)** monitorowanie realizacji umów dotyczących udzielonych pożyczek;
+- **3)** bieżąca obsługa finansowa pożyczek oraz naliczanie odsetek za niedotrzymanie przez pożyczkobiorców warunków określonych w umowach;
+- **4)** dochodzenie roszczeń z tytułu niespłaconych pożyczek;
+- **5)** opiniowanie, w zakresie finansowym oraz formalnoprawnym, wniosków pożyczkobiorców w przedmiocie umorzenia należności z tytułu udzielonych pożyczek, o którym mowa w art. 186 i art. 188;
+- **6)** przekazywanie Bankowi Gospodarstwa Krajowego skompletowanych i zweryfikowanych pod względem merytorycznym i finansowym wniosków o umorzenie pożyczek, o którym mowa w art. 186 i art. 188;
+- **7)** umarzanie pożyczek w zakresie, o którym mowa w art. 187;
+- **8)** prowadzenie rozliczeń i sporządzanie sprawozdawczości dla Banku Gospodarstwa Krajowego;
+- **9)** zapewnienie dostępu do usług doradczych i szkoleniowych, o których mowa w art. 172 ust. 1 pkt 2 lub ust. 2 pkt 2;
+- **10)** przekazywanie, na wniosek starosty, informacji o wynikach monitorowania zatrudnienia przez wymagany okres osób skierowanych przez PUP u pożyczkobiorców, na utworzonych stanowiskach pracy.
 
 **Art. 193.**
 
@@ -2961,6 +3170,11 @@ source: "isap-pdf"
 4. Usługi doradcze i szkoleniowe świadczone pożyczkobiorcom mogą być finansowane ze środków, o których mowa w art. 172 ust. 1 i 2, do wysokości 30 % przeciętnego wynagrodzenia na jedną uprawnioną osobę.
 
 **Art. 194.** Do zadań starosty należy współpraca z Bankiem Gospodarstwa Krajowego i pośrednikami finansowymi, polegająca na:
+
+- **1)** wydawaniu opinii w zakresie dostępności bezrobotnych lub poszukujących pracy, o których mowa w art. 147 ust. 1 pkt 3, posiadających kwalifikacje niezbędne do wykonywania pracy na planowanym do utworzenia stanowisku pracy ze środków pożyczki, o której mowa w art. 172 ust. 3–5;
+- **2)** wydawaniu zaświadczeń potwierdzających spełnianie warunków do przyznania pożyczki, w tym posiadanie statusu bezrobotnego lub poszukującego pracy przez osoby ubiegające się o pożyczkę na podjęcie działalności gospodarczej lub do umorzenia, o którym mowa w art. 187 ust. 1;
+- **3)** kierowaniu bezrobotnych lub poszukujących pracy, o których mowa w art. 147 ust. 1 pkt 3, na utworzone stanowiska pracy;
+- **4)** monitorowaniu, we współpracy z pośrednikami finansowymi, zatrudnienia przez wymagany okres bezrobotnych lub poszukujących pracy, o których mowa w art. 147 ust. 1 pkt 3, skierowanych przez PUP, u pożyczkobiorców na utworzonych stanowiskach pracy.
 
 **Art. 195.**
 
@@ -3077,6 +3291,16 @@ source: "isap-pdf"
 
 **Art. 198.** W celu zaplanowania i realizacji działań umożliwiających powrót na rynek pracy długotrwale bezrobotnych korzystających ze świadczeń pomocy społecznej starosta i kierownik ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektor centrum usług społecznych, zawierają porozumienie o współpracy, które określa zasady współpracy, zakres pomocy możliwej do udzielenia długotrwale bezrobotnemu oraz tryb wymiany informacji obejmujących:
 
+- **1)** informacje o udzielonej długotrwale bezrobotnemu pomocy i jej efektach oraz planowanych wobec tej osoby działaniach realizowanych przez:
+    - **a)** starostę i inne podmioty lub instytucje działające na jego zlecenie lub realizujące wobec długotrwale bezrobotnego działania na skutek skierowania przez starostę,
+    - **b)** ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, w ramach kontraktu socjalnego;
+
+- **2)** informacje o długotrwale bezrobotnym obejmujące:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+
+- **3)** inne informacje niestanowiące danych osobowych.
+
 **Art. 199.**
 
 1. PUP może skierować długotrwale bezrobotnego do centrum integracji społecznej w celu realizacji indywidualnego programu zatrudnienia socjalnego, o którym mowa w ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, z powiadomieniem właściwego dla miejsca zamieszkania lub miejsca pobytu długotrwale bezrobotnego ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych.
@@ -3135,6 +3359,15 @@ source: "isap-pdf"
 - **2)** poradnictwa zawodowego, o którym mowa w art. 87.
 
 **Art. 203.** WUP, PUP lub OHP mogą utworzyć ze środków Funduszu Pracy lub innych środków publicznych punkt obsługi osób do 30. roku życia, oferujący:
+
+- **1)** kompleksową informację w zakresie:
+    - **a)** zatrudnienia i innych form pomocy,
+    - **b)** możliwości skorzystania ze świadczeń z pomocy społecznej i mieszkalnictwa socjalnego,
+    - **c)** świadczeniodawców udzielających świadczeń opieki zdrowotnej finansowanych ze środków publicznych, w tym w zakresie rehabilitacji,
+    - **d)** dalszego kształcenia,
+    - **e)** podjęcia zatrudnienia w podmiotach ekonomii społecznej;
+
+- **2)** możliwość uzyskania poradnictwa zawodowego i psychologicznego.
 
 **Art. 204.**
 
@@ -3879,6 +4112,9 @@ source: "isap-pdf"
 
 **Art. 250.** Obowiązek zwrotu nienależnie pobranego świadczenia, o którym mowa w art. 246 ust. 2 pkt 11, obciąża w równych częściach małżonka oraz inne osoby spełniające warunki wymagane do uzyskania:
 
+- **1)** renty rodzinnej na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
+- **2)** świadczenia pieniężnego przysługującego członkom rodziny funkcjonariuszy lub żołnierzy zawodowych.
+
 **Art. 251.**
 
 1. Roszczenia z tytułu zasiłków, stypendiów i innych świadczeń pieniężnych finansowanych z Funduszu Pracy ulegają przedawnieniu z upływem 3 lat od dnia spełnienia warunków do ich nabycia przez uprawnioną osobę, a roszczenia PUP z tytułu tych świadczeń wygasają z upływem 3 lat od dnia ich wypłaty.
@@ -3932,6 +4168,24 @@ source: "isap-pdf"
 #### Rozdział 2 Przychody Funduszu Pracy
 
 **Art. 258.** Przychodami Funduszu Pracy są:
+
+- **1)** składki na Fundusz Pracy, o których mowa w ustawie;
+- **2)** dotacje z budżetu państwa;
+- **3)** środki pochodzące z budżetu Unii Europejskiej na finansowanie w szczególności projektów EFS+, działań z zakresu udziału w sieci EURES oraz innych działań publicznych służb zatrudnienia prefinansowanych lub realizowanych z wkładem ze środków Funduszu Pracy;
+- **4)** odsetki od środków Funduszu Pracy, w szczególności od:
+    - **a)** środków pozostających na rachunkach bankowych dysponenta Funduszu Pracy oraz samorządów województw, samorządów powiatów, OHP i wojewodów,
+    - **b)** środków pozostających na wyodrębnionych rachunkach bankowych jednostek organizacyjnych realizujących zadania finansowane ze środków Funduszu Pracy,
+    - **c)** wolnych środków przekazanych w zarządzanie zgodnie z ustawą z dnia 27 sierpnia 2009 r. o finansach publicznych;
+
+- **5)** środki z tytułu spłaty rat i odsetek od pożyczek udzielonych z Funduszu Pracy;
+- **6)** środki ze sprzedaży akcji i udziałów, o których mowa w art. 56 ust. 3 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2024 r. poz. 1198 i 1925);
+- **7)** środki z tytułu spłaty pożyczek udzielonych osobom fizycznym podejmującym działalność gospodarczą ze środków przekazanych do Banku Gospodarstwa Krajowego na podstawie art. 56 ust. 3 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników;
+- **8)** środki wycofywane z Banku Gospodarstwa Krajowego zgodnie z umową, o której mowa w art. 295 ust. 2;
+- **9)** środki z tytułu kar pieniężnych, grzywien oraz innych opłat i wpłat, o których mowa w ustawie;
+- **10)** środki przekazywane do Funduszu Pracy na podstawie art. 19 ustawy z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych;
+- **11)** środki z tytułu zwrotu równowartości podatku od towarów i usług dokonywanego w przypadkach, o których mowa w ustawie;
+- **12)** środki, o których mowa w art. 83 ust. 1 pkt 2 i 3 oraz art. 105 ust. 2 pkt 4 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2024 r. poz. 427);
+- **13)** inne wpływy.
 
 #### Rozdział 3 Składka na Fundusz Pracy
 
@@ -4010,6 +4264,10 @@ source: "isap-pdf"
 #### Rozdział 4 Finansowanie z Funduszu Pracy świadczeń obligatoryjnych i form pomocy
 
 **Art. 266.** Minister właściwy do spraw pracy przekazuje samorządom powiatów, na wyodrębnione rachunki bankowe, środki Funduszu Pracy na wypłatę następujących świadczeń obligatoryjnych:
+
+- **1)** zasiłków oraz należnych od tych zasiłków składek na ubezpieczenia emerytalne i rentowe, o których mowa w art. 242 ust. 1,
+- **2)** dodatków aktywizacyjnych, o których mowa w art. 233 ust. 1,
+- **3)** świadczeń integracyjnych przyznawanych na podstawie przepisów ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym oraz składek na ubezpieczenia społeczne od tych świadczeń – do wysokości faktycznych potrzeb.
 
 **Art. 267.**
 
@@ -4113,6 +4371,14 @@ source: "isap-pdf"
 4. Minister właściwy do spraw pracy zawiadamia Komendanta Głównego OHP oraz wojewodę o ustalonych na rok budżetowy kwotach środków Funduszu Pracy na finansowanie zadań fakultatywnych.
 
 **Art. 277.** Rada Ministrów określi, w drodze rozporządzenia, zasady gospodarki finansowej Funduszu Pracy, w tym:
+
+- **1)** tryb ustalania kwot środków Funduszu Pracy na finansowanie zadań określonych w ustawie, w tym kwot środków na finansowanie form pomocy, o których mowa w art. 267 ust. 9, oraz kwot środków na finansowanie zadań fakultatywnych, o których mowa w art. 274 ust. 6, art. 275 ust. 3 i art. 276 ust. 4, mając na względzie zapewnienie finansowania realizacji zadań przez samorządy powiatów i samorządy województw, wojewodów oraz OHP,
+- **2)** algorytm podziału środków Funduszu Pracy na województwa na finansowanie form pomocy dla samorządów powiatów, o którym mowa w art. 267 ust. 4,
+- **3)** algorytm podziału środków Funduszu Pracy na województwa na finansowanie zadań fakultatywnych dla samorządów powiatów, o którym mowa w art. 274 ust. 2, oraz algorytm podziału środków Funduszu Pracy na województwa na finansowanie zadań fakultatywnych dla samorządów województw, o którym mowa w art. 275 ust. 2,
+- **4)** tryb ustalania kwot środków rezerwy Funduszu Pracy, o której mowa w art. 267 ust. 2, oraz rezerwy, o której mowa w art. 273 ust. 3, pozostających w dyspozycji ministra właściwego do spraw pracy, oraz przeznaczenie tych rezerw, mając na względzie zapewnienie finansowania dodatkowego wsparcia dla realizacji zadań na rzecz bezrobotnych i innych uprawnionych osób,
+- **5)** obowiązki kierowników jednostek realizujących zadania finansowane ze środków Funduszu Pracy związane z obsługą finansowo-księgową tych środków,
+- **6)** tryb przekazywania środków Funduszu Pracy przez ministra właściwego do spraw pracy oraz postępowanie z niewykorzystanymi środkami,
+- **7)** tryb powierzania przez starostę bankom i innym instytucjom dokonywania wypłat świadczeń pieniężnych dla bezrobotnych i innych uprawnionych osób – biorąc pod uwagę zapewnienie racjonalności gospodarowania środkami Funduszu Pracy.
 
 **Art. 278.** Środki trwałe, wartości niematerialne i prawne lub wyposażenie zakupione ze środków Funduszu Pracy przez publiczne służby zatrudnienia i OHP na potrzeby związane z realizacją zadań określonych w ustawie stają się własnością Skarbu Państwa albo właściwego samorządu terytorialnego do wyłącznej dyspozycji odpowiednio urzędu obsługującego ministra właściwego do spraw pracy, wydzielonej komórki organizacyjnej urzędu obsługującego właściwego wojewodę realizującej zadania określone w ustawie, PUP, WUP i OHP.
 
@@ -4238,6 +4504,9 @@ source: "isap-pdf"
 
 **Art. 293.** Minister właściwy do spraw pracy przekazuje corocznie ministrowi właściwemu do spraw rodziny środki Funduszu Pracy w kwocie:
 
+- **1)** nie większej niż 70 mln zł – na realizację zadań, o których mowa w art. 15 ust. 1 pkt 13a ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej;
+- **2)** nie większej niż 85 mln zł – na dofinansowanie, o którym mowa w art. 197 ust. 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej.
+
 **Art. 294.** Minister właściwy do spraw pracy może przekazać ministrowi właściwemu do spraw zabezpieczenia społecznego środki Funduszu Pracy na realizację programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, wraz z kosztami ich obsługi, w wysokości nie większej niż 20 mln zł rocznie.
 
 **Art. 295.**
@@ -4287,6 +4556,13 @@ source: "isap-pdf"
 4. Zakład Ubezpieczeń Społecznych dokonuje rozliczenia otrzymanych środków w terminie 15 dni od dnia upływu miesiąca, w którym dokonano wypłaty świadczeń.
 
 **Art. 298.** Podstawę wydatkowania w danym roku budżetowym środków Funduszu Pracy na dofinansowanie części zadań realizowanych przez WUP, w tym na:
+
+- **1)** przygotowywanie na zlecenie ministra właściwego do spraw pracy:
+    - **a)** badań dotyczących rynku pracy, na podstawie jednolitej metodologii,
+    - **b)** opracowań, prognoz, ekspertyz, analiz, wydawnictw i konkursów dotyczących rynku pracy,
+    - **c)** opracowań informacji zawodowych o charakterze centralnym,
+
+- **2)** dofinansowanie kosztów wynagrodzeń i składek na ubezpieczenia społeczne, składek na Fundusz Pracy i Fundusz Solidarnościowy oraz odpisów na zakładowy fundusz świadczeń socjalnych pracowników WUP realizujących zadania określone w pkt 1 – stanowi umowa zawarta między ministrem właściwym do spraw pracy a zarządem województwa.
 
 **Art. 299.**
 
@@ -4585,6 +4861,9 @@ source: "isap-pdf"
 
 **Art. 311.** Przed dokonaniem wpisu do rejestru agencji zatrudnienia marszałek województwa może dokonać sprawdzenia:
 
+- **1)** danych podanych we wniosku, o którym mowa w art. 309 ust. 1, lub oświadczeniach, o których mowa w art. 309 ust. 3 pkt 1 i 3,
+- **2)** spełnienia przez podmiot zamierzający prowadzić agencję zatrudnienia warunków określonych w art. 307 – w celu stwierdzenia, czy podmiot spełnia warunki prowadzenia działalności agencji zatrudnienia.
+
 **Art. 312.**
 
 1. Marszałek województwa dokonuje wpisu podmiotu do rejestru agencji zatrudnienia w terminie 14 dni od dnia wpływu do niego wniosku, o którym mowa w art. 309 ust. 1, wraz z oświadczeniem o spełnieniu warunków wymaganych do wykonywania działalności gospodarczej, dla której rejestr jest prowadzony, zaświadczeniami o braku zaległości, o których mowa w art. 307 ust. 1 pkt 1 i 2, oraz zaświadczeniem o niekaralności za przestępstwa, o których mowa w art. 307 ust. 1 pkt 3, a także oświadczeniem o niekaralności za wykroczenia, o których mowa w art. 307 ust. 1 pkt 3, w okresie dwóch lat przed dniem złożenia tego oświadczenia.
@@ -4618,6 +4897,16 @@ source: "isap-pdf"
 6. W przypadku złożenia wniosku o zmianę adresu miejsca świadczenia usług przez przedsiębiorcę zagranicznego przepisy ust. 4 i 5 stosuje się odpowiednio.
 
 **Art. 314.** Marszałek województwa w drodze decyzji odmawia:
+
+- **1)** wpisu podmiotu do rejestru agencji zatrudnienia w przypadku:
+    - **a)** niespełnienia warunków, o których mowa w art. 307 ust. 1 i 2,
+    - **b)** gdy w wyniku dokonanego sprawdzenia, o którym mowa w art. 311, stwierdzono niezgodność danych we wniosku, o którym mowa w art. 309 ust. 1, ze stanem faktycznym po uprzednim wezwaniu podmiotu do złożenia wyjaśnień w tej sprawie w terminie 7 dni od dnia otrzymania wezwania,
+    - **c)** gdy wniosek, o którym mowa w art. 309 ust. 1, złoży podmiot wykreślony z rejestru na podstawie art. 315 ust. 1 pkt 2, 4–9 lub art. 317 ust. 3, jeżeli nie upłynęły 3 lata od wydania decyzji, o której mowa w art. 317 ust. 1;
+
+- **2)** zmiany wpisu w rejestrze agencji zatrudnienia w przypadku:
+    - **a)** niespełnienia warunku, o którym mowa w art. 305 ust. 3,
+    - **b)** niespełnienia warunków, o których mowa w art. 307 ust. 1 i 2,
+    - **c)** gdy stwierdzono niezgodność danych we wniosku, o którym mowa w art. 313 ust. 1, ze stanem faktycznym po uprzednim wezwaniu podmiotu do złożenia wyjaśnień w tej sprawie w terminie 7 dni od dnia otrzymania wezwania.
 
 **Art. 315.**
 
@@ -4785,6 +5074,9 @@ source: "isap-pdf"
 #### Rozdział 2 Akredytacja
 
 **Art. 330.** Akredytacja jest udzielana w następujących kategoriach, zwanych dalej „kategoriami akredytacji”:
+
+- **1)** kategorii członka EURES w rozumieniu przepisów Unii Europejskiej z zakresu sieci EURES, uprawniającej do prowadzenia wszystkich rodzajów działań, o których mowa w art. 86 ust. 2, albo
+- **2)** kategorii partnera EURES w rozumieniu przepisów Unii Europejskiej z zakresu sieci EURES, uprawniającej do prowadzenia jednego rodzaju działań wybranego spośród rodzajów działań wymienionych w art. 86 ust. 2 lub prowadzenia dwóch takich rodzajów działań.
 
 **Art. 331.**
 
@@ -5217,6 +5509,22 @@ source: "isap-pdf"
 
 **Art. 346.** Do zadań Komendanta Głównego OHP należy:
 
+- **1)** ustalanie kierunków działalności i strategii rozwoju OHP;
+- **2)** koordynowanie i nadzorowanie realizacji zadań OHP;
+- **3)** inicjowanie i nadzorowanie realizacji programów i projektów na rzecz młodzieży, w tym współfinansowanych z funduszy Unii Europejskiej;
+- **4)** koordynowanie realizacji zadań związanych z refundowaniem pracodawcom kosztów wynagrodzeń wypłacanych młodocianym pracownikom zatrudnionym na podstawie umowy o pracę w celu przygotowania zawodowego oraz składek na ubezpieczenia społeczne od refundowanych wynagrodzeń;
+- **5)** przedkładanie do akceptacji ministrowi właściwemu do spraw pracy rocznych planów pracy OHP i sporządzanie sprawozdania z ich wykonania, a także udostępnianie informacji niezbędnych do sporządzenia okresowych ocen w ramach nadzoru i kontroli nad całością gospodarki finansowej OHP, zgodnie z ustawą z dnia 27 sierpnia 2009 r. o finansach publicznych;
+- **6)** zatwierdzanie rocznych planów pracy i planów finansowych podległych jednostek;
+- **7)** realizowanie polityki kadrowej oraz płacowej i tworzenie strategii rozwoju kadr w OHP;
+- **8)** nadzorowanie dysponowania środkami finansowymi oraz mieniem będącym w zarządzie OHP;
+- **9)** określanie w regulaminie organizacyjnym szczegółowej organizacji i zakresu działania komórek organizacyjnych Komendy Głównej OHP;
+- **10)** akceptuje regulaminy organizacyjne jednostek, o których mowa w art. 344 ust. 3;
+- **11)** określanie wzorcowych struktur organizacyjnych jednostek OHP podległych Komendantowi Głównemu OHP;
+- **12)** inicjowanie i prowadzenie przedsięwzięć naukowo-badawczych i wdrożeniowych w obszarze rynku pracy, edukacji oraz wychowania;
+- **13)** zawieranie porozumień z jednostkami administracji rządowej i samorządowej, stowarzyszeniami, fundacjami, organizacjami oraz innymi instytucjami i partnerami społecznymi działającymi na rynku pracy, edukacji oraz wychowania;
+- **14)** zawieranie porozumień i umów z instytucjami i organizacjami zagranicznymi w sprawach dotyczących współpracy z OHP;
+- **15)** powoływanie w OHP zespołów zadaniowych, doradczych i opiniodawczych, określając ich nazwę, skład, zakres i tryb działania.
+
 **Art. 347.**
 
 1. OHP działają zgodnie z rocznym planem pracy oraz planem finansowym jednostki, o którym mowa w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych.
@@ -5277,6 +5585,13 @@ source: "isap-pdf"
 10. W przypadku gdy pracodawcą dla młodocianych pracowników zatrudnianych w celu przygotowania zawodowego są OHP, składają one wniosek o przyznanie refundacji. Przepisów ust. 2–5 oraz 7–9 nie stosuje się.
 
 **Art. 350.** Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowe warunki i tryb refundowania pracodawcom ze środków Funduszu Pracy wynagrodzeń wypłacanych młodocianym pracownikom oraz składek na ubezpieczenia społeczne od refundowanych wynagrodzeń, w szczególności:
+
+- **1)** elementy wniosku o zawarcie umowy o refundację oraz rodzaje dołączanych do niego informacji,
+- **2)** terminy składania wniosku,
+- **3)** elementy opinii do wniosku złożonego przez pracodawcę o zawarcie umowy o refundację,
+- **4)** elementy wniosku OHP o przyznanie refundacji,
+- **5)** elementy umowy o refundację,
+- **6)** elementy wniosku o zwrot poniesionych kosztów przez pracodawcę – mając na względzie zapewnienie młodocianym pracownikom właściwych warunków odbywania przygotowania zawodowego i konieczność zapewnienia zgodności udzielania pomocy z warunkami dopuszczalności pomocy de minimis.
 
 **Art. 351.**
 
@@ -5389,6 +5704,13 @@ source: "isap-pdf"
 ### DZIAŁ XI Nadzór i kontrola
 
 **Art. 354.** Wojewoda sprawuje nadzór, o którym mowa w art. 30 ust. 1, w szczególności przez:
+
+- **1)** badanie dokumentów i danych, niezbędnych do sprawowania nadzoru;
+- **2)** wykonywanie niezbędnych do celów nadzoru odpisów, wyciągów z dokumentów lub kserokopii oraz zestawień i obliczeń sporządzonych na podstawie dokumentów;
+- **3)** przeprowadzanie oględzin obiektów i pomieszczeń oraz obserwację przebiegu czynności objętych nadzorem;
+- **4)** żądanie od pracowników jednostki kontrolowanej udzielania informacji w formie ustnej i pisemnej w związku z czynnościami nadzorczymi;
+- **5)** wzywanie i przesłuchiwanie świadków;
+- **6)** zwracanie się o wydanie opinii przez biegłych i specjalistów z zakresu rynku pracy.
 
 **Art. 355.**
 
@@ -5532,21 +5854,126 @@ source: "isap-pdf"
 
 **Art. 372.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917 oraz z 2025 r. poz. 39) wprowadza się następujące zmiany:
 
+- **1)** w art. 13 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Okres pobierania świadczenia pieniężnego, o którym mowa w ust. 1, wlicza się do okresów pracy wymaganych do nabycia lub zachowania uprawnień pracowniczych oraz do okresów zatrudnienia w rozumieniu przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674) – na takich warunkach, na jakich wlicza się okres pobierania zasiłku dla bezrobotnych, określonych w przepisach ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).”;
+- **2)** w art. 27 w ust. 1 wyrazy „o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin” zastępuje się wyrazami „ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych”.
+
 **Art. 373.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 197) wprowadza się następujące zmiany:
+
+- **1)** w art. 5c w ust. 1: o systemie ubezpieczeń społecznych, na które został skierowany przez powiatowy urząd pracy,”,
+    - **a)** pkt 1 otrzymuje brzmienie: „1) pobierania świadczenia integracyjnego lub stypendium w okresie odbywania szkolenia lub stażu, lub uczestnictwa w zleconych przez starostę działaniach w zakresie reintegracji społecznej, o których mowa w art. 6 ust. 1 pkt 9 ustawy z dnia 13 października 1998 r.
+    - **b)** uchyla się pkt 3,
+    - **c)** po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) pobierania stypendium na podstawie art. 234 lub art. 235 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) w okresie odbywania szkolenia lub stażu, o którym mowa w art. 6 ust. 1 pkt 9c ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, na które został skierowany przez powiatowy urząd pracy,”;
+
+- **2)** w art. 6 w pkt 10c wyrazy „przepisów o promocji zatrudnienia i instytucjach rynku pracy” zastępuje się wyrazami „ustawy z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych”;
+- **3)** w art. 37 w ust. 4 pkt 4 otrzymuje brzmienie: „4) systemie teleinformatycznym, o którym mowa w art. 26 ust. 1 pkt 7 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”.
 
 **Art. 374.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, 340 i 368) wprowadza się następujące zmiany:
 
+- **1)** w art. 14 w ust. 2 pkt 20 otrzymuje brzmienie: „20) wartość pracy osoby nielegalnie zatrudnionej w rozumieniu art. 2 pkt 14 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) ustalona za każdy miesiąc, w którym zostało stwierdzone nielegalne zatrudnienie, w wysokości równowartości minimalnego wynagrodzenia za pracę obowiązującego w danym miesiącu na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), przy czym przychód powstaje na dzień stwierdzenia nielegalnego zatrudnienia;”;
+- **2)** w art. 21 w ust. 1:
+    - **a)** pkt 102 i 102a otrzymują brzmienie: „102) zwrot kosztów otrzymany przez bezrobotnego lub poszukującego pracy na podstawie ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia z tytułu:
+    - **a)** przejazdu do miejsca pracy,
+    - **b)** przejazdu na badania lekarskie lub psychologiczne,
+    - **c)** przejazdu do miejsca odbywania stażu, szkolenia, zajęć z zakresu poradnictwa zawodowego lub pomocy w aktywnym poszukiwaniu pracy,
+    - **d)** przejazdu do miejsca wykonywania prac społecznie użytecznych,
+    - **e)** zakwaterowania w miejscu pracy lub miejscu odbywania stażu lub szkolenia,
+    - **f)** przejazdu w celu potwierdzenia nabycia wiedzy i umiejętności lub uzyskania dokumentu potwierdzającego nabycie wiedzy i umiejętności,
+    - **g)** przejazdu do miejsca działań w zakresie reintegracji społecznej;
+
+- **102a)** dochody (przychody) uzyskane z tytułu: o rynku pracy i służbach zatrudnienia otrzymanych przez bezrobotnych i poszukujących pracy w ramach programów specjalnych w rozumieniu art. 2 pkt 31 tej ustawy, o rynku pracy i służbach zatrudnienia, o rynku pracy i służbach zatrudnienia;”,
+    - **a)** świadczeń otrzymanych przez bezrobotnych i poszukujących pracy w ramach realizacji działań, o których mowa w art. 197 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, oraz przez uczestników projektów pilotażowych, o których mowa w art. 2 pkt 33 i art. 211 tej ustawy,
+    - **b)** specyficznych elementów wspierających zatrudnienie w rozumieniu w art. 2 pkt 41 ustawy z dnia 20 marca 2025 r.
+    - **c)** świadczeń otrzymanych w ramach bonu na kształcenie ustawiczne lub bonu na zasiedlenie, o których mowa w art. 107 ust. 3 oraz art. 208 ustawy z dnia 20 marca 2025 r.
+    - **d)** stypendiów otrzymanych na podstawie ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz dodatków do stypendiów, o których mowa w art. 121 tej ustawy;”,
+    - **b)** pkt 118 otrzymuje brzmienie: „118) wartość nieodpłatnych świadczeń lub świadczeń częściowo odpłatnych oraz wartość świadczeń rzeczowych, z tytułu:
+    - **a)** opłat, o których mowa w art. 103 i art. 104 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
+    - **b)** szkoleń,
+    - **c)** potwierdzenia nabycia wiedzy i umiejętności lub uzyskania dokumentu potwierdzającego nabycie wiedzy i umiejętności,
+    - **d)** badań lekarskich lub psychologicznych,
+    - **e)** ubezpieczenia od następstw nieszczęśliwych wypadków,
+    - **f)** umorzenia pożyczek edukacyjnych, o których mowa w art. 111 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia – otrzymanych na podstawie ustawy z dnia 20 marca 2025 r.
+    - **c)** pkt 121 i 121a otrzymują brzmienie: „121) środki na założenie lub przystąpienie do spółdzielni socjalnej, o których mowa w art. 161 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia;
+
+- **121a)** dofinansowanie podjęcia działalności gospodarczej, o którym mowa w art. 147 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia;”, o rynku pracy i służbach zatrudnienia oraz przychody pracownika w części, w jakiej pracodawca nie ujawnił ich właściwym organom państwowym;”,
+    - **d)** pkt 151 otrzymuje brzmienie: „151) przychody pracownika z tytułu nielegalnego zatrudnienia w rozumieniu art. 2 pkt 14 lit. a ustawy z dnia 20 marca 2025 r.
+    - **e)** pkt 160 otrzymuje brzmienie: „160) kwoty składek na ubezpieczenia społeczne zwolnione z obowiązku ich opłacenia zgodnie z art. 17a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, kwoty składek na Fundusz Pracy zwolnione z obowiązku ich opłacenia zgodnie z art. 259 ust. 1 pkt 4 lit. o ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz kwoty składek na Fundusz Solidarnościowy zwolnione z obowiązku ich opłacenia zgodnie z art. 4 ust. 1a ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz. 1848).”;
+
+- **3)** w art. 22j w ust. 10 zdanie pierwsze otrzymuje brzmienie: „Przez przeciętną stopę bezrobocia w powiecie i przeciętną stopę bezrobocia w kraju, o których mowa w ust. 7 pkt 1 i ust. 8, rozumie się przeciętną stopę bezrobocia w powiecie i przeciętną stopę bezrobocia w kraju ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 255 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia w roku bezpośrednio poprzedzającym rok, w którym wystąpiło zdarzenie określone w ust. 9.”;
+- **4)** w art. 23 w ust. 1 pkt 55c otrzymuje brzmienie: „55c) wypłaconych, dokonanych lub postawionych do dyspozycji wypłat, świadczeń oraz innych należności z tytułu nielegalnego zatrudnienia w rozumieniu art. 2 pkt 14 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz wypłaconego pracownikowi wynagrodzenia w części, w jakiej pracodawca nie ujawnił ich właściwym organom państwowym;”;
+- **5)** w art. 26ha w ust. 5 pkt 5 otrzymuje brzmienie: „5) wynagrodzenie wypłacane w okresie 6 miesięcy od dnia zatrudnienia przez podatnika organizującego praktyki zawodowe dla studentów danej uczelni pracownikowi będącemu absolwentem studiów w tej uczelni zatrudnionemu za pośrednictwem akademickiego biura karier, o którym mowa w art. 49 ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, prowadzonego przez tę uczelnię.”.
+
 **Art. 375.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750, 854, 1473 i 1933) wprowadza się następujące zmiany:
+
+- **1)** w art. 44zzzb w ust. 3 pkt 5 otrzymuje brzmienie: „5) mogą przystąpić osoby, które ukończyły staż, o którym mowa w art. 119 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), jeżeli program stażu uwzględniał wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego,”;
+- **2)** w art. 92q w ust. 1 pkt 3 otrzymuje brzmienie: „3) osoby prawne, osoby fizyczne oraz publiczne służby zatrudnienia, Ochotnicze Hufce Pracy, agencje zatrudnienia, instytucje szkoleniowe, organizacje pracodawców oraz związki zawodowe, o których mowa w art. 1 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440), prowadzące działalność edukacyjno-szkoleniową.”.
 
 **Art. 376.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2024 r. poz. 589, 1089 i 1230) wprowadza się następujące zmiany:
 
+- **1)** w art. 29 uchyla się ust. 3c;
+- **2)** w art. 39 w ust. 1 zdanie drugie otrzymuje brzmienie: „Przepisy art. 29 ust. 3–3be, 3d–3g oraz 6–14 stosuje się odpowiednio.”.
+
 **Art. 377.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278 i 340) wprowadza się następujące zmiany:
+
+- **1)** w art. 12 w ust. 1 pkt 13 otrzymuje brzmienie: „13) wartość pracy osoby nielegalnie zatrudnionej w rozumieniu art. 2 pkt 14 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) ustalona za każdy miesiąc, w którym zostało stwierdzone nielegalne zatrudnienie w wysokości równowartości minimalnego wynagrodzenia za pracę obowiązującego w danym miesiącu na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), przy czym przychód powstaje na dzień stwierdzenia nielegalnego zatrudnienia;”;
+- **2)** w art. 16 w ust. 1 pkt 57c otrzymuje brzmienie: „57c) wypłaconych, dokonanych lub postawionych do dyspozycji wypłat, świadczeń oraz innych należności z tytułu nielegalnego zatrudnienia w rozumieniu art. 2 pkt 14 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz wypłaconego pracownikowi wynagrodzenia w części, w jakiej pracodawca nie ujawnił ich właściwym organom państwowym;”;
+- **3)** w art. 16j w ust. 10 zdanie pierwsze otrzymuje brzmienie: „Przez przeciętną stopę bezrobocia w powiecie i przeciętną stopę bezrobocia w kraju, o których mowa w ust. 7 pkt 1 i ust. 8, rozumie się przeciętną stopę bezrobocia w powiecie i przeciętną stopę bezrobocia w kraju ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 255 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia w roku bezpośrednio poprzedzającym rok, w którym wystąpiło zdarzenie określone w ust. 9.”;
+- **4)** w art. 18ee w ust. 5 pkt 5 otrzymuje brzmienie: „5) wynagrodzenie wypłacane w okresie 6 miesięcy od dnia zatrudnienia przez podatnika organizującego praktyki zawodowe dla studentów danej uczelni pracownikowi będącemu absolwentem studiów w tej uczelni zatrudnionemu za pośrednictwem akademickiego biura karier, o którym mowa w art. 49 ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, prowadzonego przez tę uczelnię.”.
 
 **Art. 378.** W ustawie z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest (Dz. U. z 2020 r. poz. 1680) wprowadza się następujące zmiany:
 
+- **1)** w art. 6 ust. 1 otrzymuje brzmienie: „1. Osobom spełniającym warunki do uzyskania statusu bezrobotnego i prawa do zasiłku dla bezrobotnych, określone w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), przysługuje świadczenie przedemerytalne, o którym mowa w art. 2 ustawy z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2025 r. poz. 421 i 620), jeżeli posiadają okres uprawniający do emerytury wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, w tym co najmniej 10 lat były zatrudnione w pełnym wymiarze czasu pracy w zakładach wymienionych w załącznikach nr 2 i 3 do niniejszej ustawy, z zastrzeżeniem ust. 2 i 3.”;
+- **2)** uchyla się art. 6a i art. 6b.
+
 **Art. 379.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165, 1494 i 1961) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 pkt 2 otrzymuje brzmienie: „2) osobie niepełnosprawnej bezrobotnej lub niepełnosprawnej poszukującej pracy – oznacza to osobę niepełnosprawną bezrobotną lub niepełnosprawną poszukującą pracy w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);”;
+- **2)** w art. 11 ust. 1 i 2 otrzymują brzmienie: „1. Osoba niepełnosprawna zarejestrowana w powiatowym urzędzie pracy jako bezrobotna albo poszukująca pracy niepozostająca w zatrudnieniu ma prawo korzystać z form pomocy na zasadach określonych w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, zwanej dalej „ustawą o rynku pracy”.
+
+2. Osoba niepełnosprawna zarejestrowana w powiatowym urzędzie pracy jako poszukująca pracy niepozostająca w zatrudnieniu może również korzystać na zasadach takich jak bezrobotni z następujących form pomocy określonych w ustawie o rynku pracy:
+
+- **1)** szkoleń, a także sfinansowania potwierdzenia nabycia wiedzy i umiejętności oraz uzyskania dokumentów potwierdzających nabycie wiedzy i umiejętności, o których mowa w art. 99, art. 101 i art. 102 ustawy o rynku pracy;
+- **2)** bonu na kształcenie ustawiczne, o którym mowa w art. 107 ustawy o rynku pracy;
+- **3)** stażu, o którym mowa w art. 114 i art. 119 ustawy o rynku pracy;
+- **4)** prac interwencyjnych, o których mowa w art. 135 ustawy o rynku pracy;
+- **5)** badań lekarskich lub psychologicznych, o których mowa w art. 205 ust. 1 ustawy o rynku pracy;
+- **6)** zwrotu kosztów przejazdu, o których mowa w art. 206 ust. 1, 3 i 4 ustawy o rynku pracy;
+- **7)** zwrotu kosztów zakwaterowania, o których mowa w art. 206 ust. 2 ustawy o rynku pracy;
+- **8)** bonu na zasiedlenie, o którym mowa w art. 208 ustawy o rynku pracy;
+- **9)** robót publicznych, o których mowa w art. 136 ustawy o rynku pracy.”;
+- **3)** w art. 35a w ust. 1 pkt 6a otrzymuje brzmienie: „6a) finansowanie z Funduszu wydatków na formy pomocy określone w ustawie o rynku pracy, w odniesieniu do osób niepełnosprawnych zarejestrowanych jako poszukujące pracy niepozostające w zatrudnieniu;”.
+
 **Art. 380.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w pkt 2 uchyla się lit. ł ;
+- **2)** w art. 6 w ust. 1:
+    - **a)** pkt 9 otrzymuje brzmienie: „9) osobami pobierającymi zasiłek dla bezrobotnych, świadczenie integracyjne lub stypendium w okresie odbywania szkolenia, stażu lub uczestnictwa w zleconych przez starostę działaniach w zakresie reintegracji społecznej, na które zostały skierowane przez powiatowy urząd pracy, zwanymi dalej „bezrobotnymi”;”,
+    - **b)** uchyla się pkt 9b,
+    - **c)** po pkt 9b dodaje się pkt 9c w brzmieniu: „9c) osobami niepełnosprawnymi zarejestrowanymi w powiatowym urzędzie pracy jako poszukujące pracy niepozostające w zatrudnieniu pobierającymi stypendium na podstawie ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) w okresie odbywania szkolenia lub stażu, na które zostały skierowane przez powiatowy urząd pracy;”;
+
+- **3)** w art. 9 ust. 6a otrzymuje brzmienie: „6a. Osoby, o których mowa w art. 6 ust. 1 pkt 9, 9a, 9c, 11 i 12, obowiązkowo podlegają ubezpieczeniom emerytalnemu i rentowym, jeżeli nie mają innych tytułów rodzących obowiązek ubezpieczeń społecznych.”;
+- **4)** w art. 13:
+    - **a)** uchyla się pkt 9b,
+    - **b)** po pkt 9b dodaje się pkt 9c w brzmieniu: „9c) osoby, o których mowa w art. 6 ust. 1 pkt 9c – od dnia nabycia prawa do stypendium do dnia utraty prawa do niego;”;
+
+- **5)** w art. 16:
+    - **a)** ust. 1e otrzymuje brzmienie: „1e. W przypadku stwierdzenia nielegalnego zatrudnienia w rozumieniu art. 2 pkt 14 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia lub zaniżenia podstawy wymiaru składek pracowników, składki na ubezpieczenia emerytalne, rentowe i chorobowe od wynagrodzenia z tytułu nielegalnego zatrudnienia oraz od części nieujawnionego wynagrodzenia nie obciążają ubezpieczonego i opłacane są w całości z własnych środków przez płatnika składek.”,
+    - **b)** uchyla się ust. 9b,
+    - **c)** po ust. 9b dodaje się ust. 9c w brzmieniu: „9c. Składki na ubezpieczenia emerytalne i rentowe osób, o których mowa w art. 6 ust. 1 pkt 9c, finansują w całości powiatowe urzędy pracy z Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych.”;
+
+- **6)** w art. 17 ust. 1 otrzymuje brzmienie: „1. Składki na ubezpieczenia emerytalne, rentowe, wypadkowe oraz chorobowe za ubezpieczonych, o których mowa w art. 16 ust. 1–3, 5, 6, 9, 9a, 9c i 10–12a, obliczają, rozliczają i przekazują co miesiąc do Zakładu w całości płatnicy składek.”;
+- **7)** w art. 18 w ust. 4:
+    - **a)** uchyla się pkt 9,
+    - **b)** po pkt 9 dodaje się pkt 9a: „9a) osób, o których mowa w art. 6 ust. 1 pkt 9c – stanowi kwota stypendium,”;
+
+- **8)** w art. 36 ust. 2 otrzymuje brzmienie: „2. Obowiązek zgłoszenia do ubezpieczeń społecznych osób określonych w art. 6 ust. 1 pkt 1–4, 6–9a, 9c, 11, 12, 19–23, ust. 2, 2a i 2d, duchownych będących członkami zakonów lub klasztorów oraz osób współpracujących, o których mowa w art. 8 ust. 11, należy do płatnika składek.”;
+- **9)** w art. 50:
+    - **a)** w ust. 14 część wspólna otrzymuje brzmienie: „– w zakresie niezbędnym do realizacji zadań określonych w przepisach o rynku pracy i służbach zatrudnienia.”,
+    - **b)** w ust. 14a część wspólna otrzymuje brzmienie: „– w zakresie niezbędnym do realizacji zadań określonych w przepisach o rynku pracy i służbach zatrudnienia.”,
+    - **c)** ust. 15 otrzymuje brzmienie: „15. Zakład udostępnia powiatowym urzędom pracy i wojewódzkim urzędom pracy, w postaci elektronicznej, wykaz obejmujący dane osób ubezpieczonych, wymienionych w art. 6 ust. 1 pkt 9, 9a i 9c, które w poprzednim miesiącu zostały zgłoszone do ubezpieczeń społecznych lub ubezpieczenia zdrowotnego, także z innych tytułów – w terminie do 10 dnia roboczego następnego miesiąca.”,
+    - **d)** w ust. 16 pkt 4 i 5 otrzymują brzmienie: „4) datę powstania obowiązku ubezpieczeń społecznych lub ubezpieczenia zdrowotnego z innego tytułu niż wymienione w art. 6 ust. 1 pkt 9, 9a i 9c;
+
+- **5)** datę wyrejestrowania z ubezpieczeń społecznych lub z ubezpieczenia zdrowotnego z innego tytułu niż wymienione w art. 6 ust. 1 pkt 9, 9a i 9c;”.
+- **10)** w art. 98 w ust. 1 wyrazy „podlega karze grzywny do 5000 złotych” zastępuje się wyrazami „podlega karze grzywny do 46 000 złotych”.
 
 **Art. 381.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2024 r. poz. 776, 863 i 1593) w art. 25 w ust. 6 w pkt 2 lit. g otrzymuje brzmienie: „g) łącznie nie więcej niż trzech zatrudnionych bezrobotnych – zarejestrowanych w urzędzie pracy, przy czym okres zarejestrowania w urzędzie pracy bezrobotnego musi trwać co najmniej 6 miesięcy w okresie bezpośrednio poprzedzającym jego zatrudnienie.”.
 
@@ -5558,31 +5985,147 @@ source: "isap-pdf"
 
 **Art. 385.** W ustawie z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy (Dz. U. z 2021 r. poz. 239) wprowadza się następujące zmiany:
 
+- **1)** w art. 37 ust. 5 otrzymuje brzmienie: „5. Finansowanie z Funduszu Pracy świadczeń, o których mowa w ust. 4, odbywa się jak dla poszukujących pracy, o których mowa w art. 2 pkt 24 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).”;
+- **2)** w art. 40 ust. 4 otrzymuje brzmienie: „4. Finansowanie z Funduszu Pracy kosztów, o których mowa w ust. 3, może odbywać się przez okres i w wysokości przewidzianych w przepisach o rynku pracy i służbach zatrudnienia, z tym że finansowanie części wynagrodzeń i składek na ubezpieczenia społeczne jest dokonywane na zasadach określonych dla prac interwencyjnych.”.
+
 **Art. 386.** W ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 257) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w ust. 3 pkt 4 otrzymuje brzmienie: „4) odbywania szkolenia, stażu, przygotowania zawodowego dorosłych lub uczestnictwa w działaniach w zakresie reintegracji społecznej przez osobę pobierającą stypendium w okresie odbywania tego szkolenia, stażu, przygotowania zawodowego dorosłych lub uczestnictwa w działaniach w zakresie reintegracji społecznej na podstawie skierowania wydanego przez powiatowy urząd pracy lub przez inny podmiot kierujący;”;
+- **2)** w art. 5 w ust. 1 pkt 4 otrzymuje brzmienie: „4) pracodawca, u którego osoba pobierająca stypendium odbywa staż lub szkolenie, przygotowanie zawodowe dorosłych, lub jednostka, w której osoba pobierająca stypendium odbywa szkolenie lub uczestniczy w działaniach w zakresie reintegracji społecznej – w stosunku do osoby pobierającej stypendium w okresie odbywania tego stażu, szkolenia, przygotowania zawodowego dorosłych lub uczestnictwa w działaniach w zakresie reintegracji społecznej na podstawie skierowania wydanego przez powiatowy urząd pracy lub przez inny podmiot kierujący;”;
+- **3)** w art. 9 w ust. 4 pkt 3 otrzymuje brzmienie: „3) kwota otrzymanego za ten miesiąc stypendium – dla ubezpieczonych będących osobami pobierającymi stypendium w okresie odbywania szkolenia, stażu, przygotowania zawodowego dorosłych lub uczestnictwa w działaniach w zakresie reintegracji społecznej, na które zostały skierowane przez powiatowy urząd pracy lub inny podmiot kierujący”.
 
 **Art. 387.** W ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz. U. z 2025 r. poz. 173) w art. 2 w ust. 1 pkt 14 otrzymuje brzmienie: „14) przy wykonywaniu przez bezrobotnego prac społecznie użytecznych, o których mowa w art. 142 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);”.
 
 **Art. 388.** W ustawie z dnia 23 listopada 2002 r. o restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych (Dz. U. z 2020 r. poz. 1700) w art. 7 w ust. 2:
 
+- **1)** uchyla się pkt 3;
+- **2)** w pkt 5 uchyla się lit. a.
+
 **Art. 389.** W ustawie z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2024 r. poz. 423) w art. 6 w ust. 3 pkt 5 otrzymuje brzmienie: „5) odbyła staż, o którym mowa w art. 114 i art. 119 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), obejmujący wykonywanie czynności związanych z prowadzeniem działalności rolniczej.”.
 
 **Art. 390.** W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2025 r. poz. 83) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 w ust. 2 pkt 5 otrzymuje brzmienie: „5) długotrwale bezrobotnych w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),”;
+- **2)** w art. 2 pkt 8 i 9 otrzymują brzmienie: „8) zatrudnieniu wspieranym – oznacza to udzielanie wsparcia o charakterze doradczym i finansowym osobie, o której mowa w art. 1, w utrzymaniu aktywności zawodowej umożliwiającej podjęcie zatrudnienia, prac społecznie użytecznych w rozumieniu przepisów o rynku pracy i służbach zatrudnienia, założenie lub przystąpienie do spółdzielni socjalnej lub podjęcie działalności gospodarczej;
+- **9)** zasiłku dla bezrobotnych – oznacza to zasiłek, o którym mowa w art. 224 ust. 1 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”;
+- **3)** w art. 9a ust. 1 i 2 otrzymują brzmienie: „1. Centrum może realizować działania w zakresie reintegracji społecznej bezrobotnych służące kształtowaniu aktywnej postawy w życiu społecznym i zawodowym, o których mowa w art. 200 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
+
+2. Realizacja działań, o których mowa w ust. 1, oraz ich finansowanie odbywa się, zgodnie z umową, o której mowa w art. 200 ust. 2 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”;
+
+- **4)** w art. 13:
+    - **a)** w ust. 5 zdanie pierwsze otrzymuje brzmienie: „Zakończenie realizacji programu następuje w okresie do 6 miesięcy po dniu, w którym uczestnik objęty programem podjął zatrudnienie lub inną pracę zarobkową w rozumieniu przepisów o rynku pracy i służbach zatrudnienia, założył lub przystąpił do spółdzielni socjalnej lub podjął działalność gospodarczą, albo w dniu, w którym upłynął okres uczestnictwa w zajęciach w Centrum, o którym mowa w art. 15.”,
+    - **b)** ust. 5a otrzymuje brzmienie: „5a. Po zakończeniu uczestnictwa w zajęciach w Centrum kierownik Centrum wydaje uczestnikowi zaświadczenie potwierdzające uczestnictwo w zajęciach i umiejętności nabyte w ramach reintegracji zawodowej i społecznej, a dodatkowo w przypadku osób, o których mowa w art. 1 ust. 2 pkt 5, przekazuje zaświadczenie do powiatowego urzędu pracy.”;
+
+- **5)** w art. 15b w ust. 1:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) prac społecznie użytecznych na zasadach określonych w przepisach o rynku pracy i służbach zatrudnienia;”,
+    - **b)** pkt 3 otrzymuje brzmienie: „3) rzecznictwa, poradnictwa zawodowego, psychologicznego i społecznego dla osób realizujących prace społecznie użyteczne w rozumieniu przepisów o rynku pracy i służbach zatrudnienia, podejmujących zatrudnienie, działalność gospodarczą, zakładających lub przystępujących do spółdzielni socjalnej.”;
+
+- **6)** w art. 16 ust. 6 otrzymuje brzmienie: „6. W przypadku podjęcia działalności, o której mowa w ust. 1a, przysługują uprawnienia, o których mowa w przepisach o rynku pracy i służbach zatrudnienia.”;
+- **7)** w art. 18:
+    - **a)** w ust. 2 pkt 6 otrzymuje brzmienie: „6) staże, o których mowa w art. 114 i art. 119 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”,
+    - **b)** ust. 7 i 8 otrzymują brzmienie: „7. Klub integracji społecznej może realizować działania w zakresie reintegracji społecznej bezrobotnych służące kształtowaniu aktywnej postawy w życiu społecznym i zawodowym, o których mowa w art. 200 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
+
+8. Realizacja działań, o których mowa w ust. 7, oraz ich finansowanie odbywa się zgodnie z umową, o której mowa w art. 200 ust. 2 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”.
+
 **Art. 391.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871 oraz z 2025 r. poz. 619) wprowadza się następujące zmiany:
+
+- **1)** w art. 17c ust. 6 otrzymuje brzmienie: „6. W razie urodzenia dziecka przez kobietę pobierającą zasiłek dla bezrobotnych w okresie, o którym mowa w art. 225 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), lub w ciągu 30 dni po jego zakończeniu, lub w okresie przedłużenia zasiłku dla bezrobotnych na podstawie art. 225 ust. 2 tej ustawy, świadczenie rodzicielskie przysługuje jednemu z rodziców w wysokości różnicy między kwotą świadczenia rodzicielskiego a kwotą pobieranego przez kobietę zasiłku dla bezrobotnych pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych.”;
+- **2)** w art. 23 w ust. 10 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) ministrowi właściwemu do spraw pracy – w celu weryfikacji danych dotyczących osób ubiegających się o status bezrobotnego lub zasiłek dla bezrobotnych.”.
 
 **Art. 392.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572) wprowadza się następujące zmiany:
 
+- **1)** w art. 6 pkt 11 otrzymuje brzmienie: „11) osoba zatrudniona – osobę pozostającą w zatrudnieniu w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) lub prowadzącą działalność gospodarczą w rozumieniu przepisów dotyczących działalności gospodarczej;”;
+- **2)** w art. 8 w ust. 4:
+    - **a)** pkt 5 otrzymuje brzmienie: „5) świadczenia przysługującego bezrobotnemu na podstawie przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia z tytułu wykonywania prac społecznie użytecznych;”,
+    - **b)** w pkt 21 kropkę zastępuje się średnikiem i dodaje się pkt 22 w brzmieniu: „22) świadczeń „aktywny rodzic”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619).”;
+
+- **3)** w art. 11 ust. 2 otrzymuje brzmienie: „2. Podstawę do ograniczenia wysokości lub rozmiaru świadczenia, odmowy przyznania świadczenia, uchylenia decyzji o przyznaniu świadczenia lub wstrzymania świadczeń pieniężnych z pomocy społecznej mogą stanowić:
+- **1)** brak współdziałania osoby lub rodziny z pracownikiem socjalnym lub asystentem rodziny, o którym mowa w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, w rozwiązywaniu trudnej sytuacji życiowej;
+- **2)** odmowa zawarcia kontraktu socjalnego lub niedotrzymywanie jego postanowień;
+- **3)** z własnej winy niepodjęcie lub przerwanie realizacji formy pomocy, lub odmowa bez uzasadnionej przyczyny propozycji prac społecznie użytecznych, w przypadkach określonych w art. 65 ust. 1 pkt 2 i 3 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia;
+- **4)** nieuzasadniona odmowa podjęcia leczenia odwykowego w zakładzie lecznictwa odwykowego przez osobę uzależnioną.”;
+- **4)** w art. 17 w ust. 2 pkt 5 otrzymuje brzmienie: „5) współpraca z powiatowym urzędem pracy w zakresie upowszechniania ofert pracy oraz informacji o wolnych miejscach pracy, upowszechniania informacji o usługach poradnictwa zawodowego i o szkoleniach.”;
+- **5)** w art. 23a w ust. 3 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) minister właściwy do spraw pracy – w celu weryfikacji danych dotyczących osób ubiegających się o status bezrobotnego lub zasiłek dla bezrobotnych.”;
+- **6)** w art. 43 ust. 7 otrzymuje brzmienie: „7. Podstawą odmowy przyznania albo ograniczenia rozmiarów pomocy na ekonomiczne usamodzielnienie może być uchylanie się przez osobę lub rodzinę ubiegającą się o pomoc od poddania się przeszkoleniu zawodowemu.”;
+- **7)** w art. 105 ust. 2 otrzymuje brzmienie: „2. Udostępnienie informacji gromadzonych przez publiczne służby zatrudnienia, które mają znaczenie dla rozstrzygnięcia o przyznaniu lub wysokości świadczeń z pomocy społecznej odbywa się na zasadach określonych w art. 51 ust. 4 pkt 12 i ust. 5 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”;
+- **8)** w art. 107 w ust. 5b pkt 13 otrzymuje brzmienie: „13) decyzji starosty o przyznaniu lub odmowie przyznania statusu bezrobotnego, utracie statusu bezrobotnego, o przyznaniu, odmowie przyznania, wstrzymaniu, wznowieniu wypłaty oraz utracie lub pozbawieniu prawa do zasiłku dla bezrobotnych, stypendium, dodatku aktywizacyjnego albo oświadczenia o pozostawaniu bezrobotnym lub poszukującym pracy;”;
+- **9)** w art. 108 ust. 2 otrzymuje brzmienie: „2. W przypadku bezrobotnych podpisanie kontraktu socjalnego, w ramach którego są realizowane działania na rzecz wzmocnienia aktywności bezrobotnego, może być dokonywane na podstawie skierowania powiatowego urzędu pracy na zasadach określonych w art. 198 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”.
+
 **Art. 393.** W ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2025 r. poz. 421) wprowadza się następujące zmiany:
+
+- **1)** w art. 2: o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871 oraz z 2025 r. poz. 619 i 620), lub zasiłku dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2024 r. poz. 246), pobieranych nieprzerwanie przez okres co najmniej 365 dni, i do dnia, w którym ustało prawo do świadczenia pielęgnacyjnego, specjalnego zasiłku opiekuńczego lub zasiłku dla opiekuna, ukończyła co najmniej 55 lat – kobieta oraz 60 lat – mężczyzna i osiągnęła okres uprawniający do emerytury, wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, lub
+    - **a)** w ust. 1: – pkt 2 otrzymuje brzmienie: „2) do dnia rozwiązania stosunku pracy lub stosunku służbowego z przyczyn dotyczących zakładu pracy, w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), w którym była zatrudniona przez okres nie krótszy niż 6 miesięcy, ukończyła co najmniej 55 lat – kobieta oraz 60 lat – mężczyzna oraz posiada okres uprawniający do emerytury, wynoszący co najmniej 30 lat dla kobiet i 35 lat dla mężczyzn, lub”, – pkt 4a i 5 otrzymują brzmienie: „4a) zarejestrowała się we właściwym powiatowym urzędzie pracy w ciągu 60 dni od dnia ustania prawa do świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego, o których mowa w ustawie z dnia 28 listopada 2003 r.
+
+- **5)** do dnia rozwiązania stosunku pracy z przyczyn dotyczących zakładu pracy, w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, w którym była zatrudniona przez okres nie krótszy niż 6 miesięcy, posiada okres uprawniający do emerytury, wynoszący co najmniej 35 lat dla kobiet i 40 lat dla mężczyzn, lub”, o rynku pracy i służbach zatrudnienia, jeżeli osoba ta spełnia łącznie następujące warunki:
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Świadczenie przedemerytalne przysługuje osobie określonej w ust. 1 po upływie co najmniej 180 dni pobierania zasiłku dla bezrobotnych, o którym mowa w ustawie z dnia 20 marca 2025 r.
+
+- **1)** nadal jest zarejestrowana jako bezrobotny;
+- **2)** złoży wniosek o przyznanie świadczenia przedemerytalnego w terminie nieprzekraczającym 30 dni od dnia wydania przez powiatowy urząd pracy dokumentu poświadczającego 180-dniowy okres pobierania zasiłku dla bezrobotnych.”,
+    - **c)** w ust. 4 wyrazy „ust. 3 pkt 3” zastępuje się wyrazami „ust. 3 pkt 2”,
+    - **d)** ust. 5 otrzymuje brzmienie: „5. Do okresu 180 dni pobierania zasiłku dla bezrobotnych, o którym mowa w ust. 3, wlicza się:
+
+- **1)** okresy, za które, zgodnie z art. 220 ust. 2 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, prawo do tego zasiłku dla bezrobotnych nie przysługiwało;
+- **2)** okresy zatrudnienia lub innej pracy zarobkowej, w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, albo zatrudnienia w ramach prac interwencyjnych lub robót publicznych podjętego w tym okresie; w przypadku gdy zatrudnienie lub inna praca zarobkowa ustanie po upływie 180-dniowego okresu, o którym mowa w ust. 3 pkt 2, prawo do świadczenia przedemerytalnego przysługuje, jeżeli wniosek o przyznanie tego świadczenia zostanie złożony w terminie nieprzekraczającym 30 dni od dnia ustania zatrudnienia lub innej pracy zarobkowej, w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, albo zatrudnienia w ramach prac interwencyjnych lub robót publicznych.”;
+- **2)** w art. 7 ust. 4 otrzymuje brzmienie: „4. W przypadku osoby, o której mowa w art. 2 ust. 1 pkt 4a, do wniosku dołącza się również zaświadczenie właściwego organu potwierdzające nieprzerwane pobieranie przez okres co najmniej 365 dni świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego, lub zasiłku dla opiekuna, utratę prawa do nich, a także datę ustania tego prawa.”.
 
 **Art. 394.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 66 w ust. 1: o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), lub realizujące kontrakt socjalny, o którym mowa w art. 198 pkt 1 lit. b tej ustawy, niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;”;
+    - **a)** po pkt 24a dodaje się pkt 24b w brzmieniu: „24b) osoby pobierające stypendium w okresie odbywania szkolenia, stażu lub uczestnictwa w działaniach w zakresie reintegracji społecznej, na które zostały skierowane przez powiatowy urząd pracy, niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;”,
+    - **b)** pkt 30 otrzymuje brzmienie: „30) osoby objęte indywidualnym programem zatrudnienia socjalnego, o którym mowa w art. 199 ust. 1 ustawy z dnia 20 marca 2025 r.
+
+- **2)** w art. 73 po pkt 7a dodaje się pkt 7b w brzmieniu: „7b) osób, o których mowa w art. 66 ust. 1 pkt 24b, powstaje z dniem nabycia prawa do stypendium, a wygasa z dniem utraty prawa do niego;”;
+- **3)** w art. 75:
+    - **a)** po ust. 9a dodaje się ust. 9b w brzmieniu: „9b. Osoby, o których mowa w art. 66 ust. 1 pkt 24b, zgłasza do ubezpieczenia zdrowotnego właściwy powiatowy urząd pracy.”,
+    - **b)** ust. 12 otrzymuje brzmienie: „12. Osoby, o których mowa w art. 66 ust. 1 pkt 29 i 30, zgłasza do ubezpieczenia zdrowotnego ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, realizujące indywidualny program zatrudnienia socjalnego lub indywidualny program wychodzenia z bezdomności lub ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, realizujące kontrakt socjalny, o którym mowa w art. 108 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.”;
+
+- **4)** w art. 81 w ust. 8:
+    - **a)** pkt 5 otrzymuje brzmienie: „5) osób, o których mowa w art. 66 ust. 1 pkt 24, pobierających zasiłek dla bezrobotnych jest kwota odpowiadająca wysokości pobieranego zasiłku dla bezrobotnych;”,
+    - **b)** po pkt 5a dodaje się pkt 5b w brzmieniu: „5b) osób, o których mowa w art. 66 ust. 1 pkt 24b, jest kwota odpowiadająca wysokości pobieranego stypendium;”;
+
+- **5)** w art. 85:
+    - **a)** ust. 6 otrzymuje brzmienie: „6. Za bezrobotnego pobierającego zasiłek składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza właściwy powiatowy urząd pracy.”,
+    - **b)** po ust. 6a dodaje się ust. 6b w brzmieniu: „6b. Za osobę, o której mowa w art. 66 ust. 1 pkt 24b, pobierającą stypendium w okresie odbywania szkolenia, stażu lub uczestnictwa w działaniach w zakresie reintegracji społecznej składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza właściwy powiatowy urząd pracy.”;
+
+- **6)** w art. 86 w ust. 1 pkt 11 otrzymuje brzmienie: „11) osób, o których mowa w art. 66 ust. 1 pkt 29 i 30, opłaca ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, realizujące indywidualny program wychodzenia z bezdomności lub kierujące do uczestnictwa w zajęciach w centrum integracji społecznej lub ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, realizujące kontrakt socjalny, o którym mowa w art. 108 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;”;
+- **7)** w art. 87 w ust. 4 pkt 1 otrzymuje brzmienie: „1) osób wymienionych w art. 66 ust. 1 pkt 1 lit. a i c–i, pkt 1a, 3–8, 8b– 16a, 19, 21–24 i 24b – pobierających zasiłek dla bezrobotnych lub stypendium, pkt 24a i 25 – pobierających zasiłek przedemerytalny lub świadczenie przedemerytalne, pkt 26–30 i 32–33 oraz w art. 68 są opłacane i ewidencjonowane w Zakładzie Ubezpieczeń Społecznych, z zastrzeżeniem pkt 2;”.
+
 **Art. 395.** W ustawie z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. z 2020 r. poz. 1689) w art. 4 w ust. 1 w pkt 7 lit. c i d otrzymują brzmienie: „c) bezrobotne, o których mowa w art. 2 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
 
+z 2025 r. poz. 421 i 620),”.
+
+- **d)** posiadające prawo do zasiłku przedemerytalnego, określonego w ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U.
+
 **Art. 396.** W ustawie z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych (Dz. U. z 2025 r. poz. 178) w art. 6 w ust. 1 w pkt 1 lit. a i b otrzymują brzmienie: „a) bezrobotnej, o której mowa w art. 2 pkt 1 lub 4 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), albo
+
+- **b)** poszukującej pracy, o której mowa w art. 2 pkt 24 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, bez zatrudnienia: – w wieku do 30. roku życia oraz po ukończeniu 50. roku życia lub – niewykonującej innej pracy zarobkowej, o której mowa w art. 2 pkt 9 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia;”.
 
 **Art. 397.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2025 r. poz. 433) w art. 39 ust. 1 otrzymuje brzmienie: „1. Organem opiniodawczo-doradczym dysponenta Funduszu w sprawach Funduszu jest Rada Rynku Pracy, powołana na podstawie przepisów o rynku pracy i służbach zatrudnienia.”.
 
 **Art. 398.** W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712 oraz z 2025 r. poz. 321 i 368) wprowadza się następujące zmiany:
+
+- **1)** w art. 10 w ust. 1: o rynku pracy i służbach zatrudnienia, zgodnie z warunkami określonymi w art. 306 ust. 3, art. 319, art. 321, art. 325 i art. 338 ust. 2 i 3 tej ustawy;”, poz. 621), a także innych wykroczeń, gdy ustawy tak stanowią oraz udział w postępowaniu w tych sprawach w charakterze oskarżyciela publicznego;”;
+    - **a)** w pkt 3: – uchyla się lit. b i c, – lit. e i f otrzymują brzmienie: „e) prowadzenia agencji zatrudnienia zgodnie z warunkami określonymi w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
+    - **f)** prowadzenia działalności przez podmioty, o których mowa w art. 306 ust. 1, oraz podmioty prowadzące działalność, o której mowa w art. 306 ust. 2 ustawy z dnia 20 marca 2025 r.
+    - **b)** pkt 15 otrzymuje brzmienie: „15) ściganie wykroczeń przeciwko prawom pracownika określonych w Kodeksie pracy, wykroczeń, o których mowa w art. 362–365 i art. 367 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, oraz wykroczeń, o których mowa w art. 84 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U.
+
+- **2)** w art. 13 pkt 2 i 3 otrzymują brzmienie: „2) podmioty świadczące usługi pośrednictwa pracy oraz pracy tymczasowej w rozumieniu art. 305 ust. 2 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia – w zakresie przestrzegania obowiązków, o których mowa w art. 10 ust. 1 pkt 3 lit. d i e,
+- **3)** podmioty, o których mowa w art. 306 ust. 1, oraz podmioty prowadzące działalność, o której mowa w art. 306 ust. 2 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia – w zakresie przestrzegania warunków określonych w art. 306 ust. 3, art. 319, art. 321, art. 325 i art. 338 ust. 2 i 3 tej ustawy,”;
+- **3)** w art. 14:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Państwowa Inspekcja Pracy przy realizacji zadań współdziała ze związkami zawodowymi, organizacjami pracodawców, organami samorządu załogi, radami pracowników, społeczną inspekcją pracy, publicznymi służbami zatrudnienia w rozumieniu przepisów o rynku pracy i służbach zatrudnienia, Ministrem do spraw Równości oraz z organami administracji państwowej, w szczególności z organami nadzoru i kontroli nad warunkami pracy oraz organami Krajowej Administracji Skarbowej, a także z Policją, Strażą Graniczną, Zakładem Ubezpieczeń Społecznych, organami samorządu terytorialnego i Agencją Restrukturyzacji i Modernizacji Rolnictwa.”,
+    - **b)** w ust. 2 uchyla się pkt 5;
+
+- **4)** w art. 18 ust. 3 otrzymuje brzmienie: „3. Główny Inspektor Pracy przedstawia Sejmowi oraz Radzie Ministrów, nie później niż do dnia 30 czerwca następnego roku kalendarzowego, informacje z działalności Państwowej Inspekcji Pracy oraz coroczne sprawozdanie z jej działalności wraz z wynikającymi z tej działalności wnioskami dotyczącymi przestrzegania prawa pracy, przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia w zakresie określonym w art. 10 ust. 1 pkt 3 oraz przepisów ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej w zakresie określonym w art. 10 ust. 1 pkt 4, przez podmioty kontrolowane i organy sprawujące nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi państwowymi albo samorządowymi.”;
+- **5)** w art. 19 w ust. 1 pkt 8 i 9 otrzymują brzmienie: „8) powiadamianie marszałka właściwego województwa o stwierdzonych przypadkach naruszenia warunków prowadzenia agencji zatrudnienia określonych w przepisach o rynku pracy i służbach zatrudnienia;
+- **9)** powiadamianie właściwego starosty o stwierdzonych przypadkach naruszenia przepisów o rynku pracy i służbach zatrudnienia przez podmiot kontrolowany oraz przepisów o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.”;
+- **6)** w art. 37: o rynku pracy i służbach zatrudnienia w zakresie określonym w art. 10 ust. 1 pkt 3 oraz przepisach ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej w zakresie określonym w art. 10 ust. 1 pkt 4, inspektor pracy prowadzi postępowanie mandatowe lub występuje z wnioskiem do sądu o ukaranie osób odpowiedzialnych za stwierdzone nieprawidłowości.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W razie stwierdzenia w toku kontroli wykroczenia polegającego na naruszeniu przepisów ustawy z dnia 20 marca 2025 r.
+    - **b)** w ust. 2 w pkt 4 wyrazy „bezrobotnego lub przez podmiot kontrolowany przepisów o promocji zatrudnienia i instytucjach rynku pracy” zastępuje się wyrazami „podmiot kontrolowany przepisów o rynku pracy i służbach zatrudnienia oraz przepisów o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej”,
+    - **c)** w ust. 3: – w pkt 1 lit. a otrzymuje brzmienie: „a) stwierdzonych przypadkach naruszenia warunków prowadzenia agencji zatrudnienia określonych w przepisach o rynku pracy i służbach zatrudnienia,”, – pkt 2 otrzymuje brzmienie: „2) wojewodę – o stwierdzonych przypadkach naruszenia:
+    - **a)** przepisów o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej związanych z zatrudnianiem cudzoziemców lub powierzaniem im innej pracy zarobkowej,
+    - **b)** obowiązków, o których mowa w art. 10 ust. 1 pkt 3 lit. d i f, przez podmiot, któremu udzielono akredytacji do prowadzenia pośrednictwa pracy w ramach sieci EURES określonej w przepisach o rynku pracy i służbach zatrudnienia, z wyłączeniem stwierdzenia naruszenia przez ten podmiot warunku, o którym mowa w art. 306 ust. 3 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”;
+
+- **7)** w art. 63 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Okres pobierania świadczenia pieniężnego, o którym mowa w ust. 1, wlicza się do okresów pracy wymaganych do nabycia lub zachowania uprawnień pracowniczych oraz do okresów zatrudnienia w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych – na takich warunkach, na jakich wlicza się okres pobierania zasiłku dla bezrobotnych, określonych w przepisach o rynku pracy i służbach zatrudnienia.”.
 
 **Art. 399.** W ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2025 r. poz. 438) w art. 5 w ust. 3 pkt 3 otrzymuje brzmienie: „3) bez uzasadnionej przyczyny, przyjęcia propozycji prac społecznie użytecznych, o których mowa w przepisach o rynku pracy i służbach zatrudnienia”.
 
@@ -5592,13 +6135,48 @@ source: "isap-pdf"
 
 **Art. 402.** W ustawie z dnia 19 grudnia 2008 r. o postępowaniu kompensacyjnym w podmiotach o szczególnym znaczeniu dla polskiego przemysłu stoczniowego (Dz. U. z 2020 r. poz. 1696) w art. 123:
 
+- **1)** ust. 1 otrzymuje brzmienie: „1. Pracownicy stoczni, w okresie trwania stosunku pracy po wszczęciu postępowania kompensacyjnego oraz po rozwiązaniu lub wygaśnięciu tego stosunku pracy, są objęci, przez okres 6 miesięcy, programem, o którym mowa w art. 217 ust. 2 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), zwanym dalej „programem zwolnień monitorowanych”, o ile nie podejmą w tym okresie zatrudnienia lub innej pracy zarobkowej lub działalności gospodarczej.”;
+- **2)** w ust. 3 zdanie drugie otrzymuje brzmienie: „Działania te obejmują w szczególności udzielanie pomocy w zakresie usług pośrednictwa pracy, poradnictwa zawodowego, szkoleń, organizacji staży, przyznania środków na podjęcie działalności gospodarczej, doradztwa w zakresie podejmowania i prowadzenia działalności gospodarczej, refundacji podmiotom prowadzącym działalność gospodarczą kosztów wyposażenia lub doposażenia stanowiska pracy utworzonego dla osób, o których mowa w ust. 1, skierowanych na to stanowisko przez Agencję.”;
+- **3)** ust. 12 otrzymuje brzmienie: „12. W przypadku powierzenia realizacji działań w ramach programu zwolnień monitorowanych powiatowemu urzędowi pracy, szkolenia, staże, przyznanie środków na podjęcie działalności gospodarczej, refundacja podmiotom prowadzącym działalność gospodarczą kosztów wyposażenia lub doposażenia stanowiska pracy utworzonego dla osób, o których mowa w ust. 1, skierowanych na to stanowisko przez Agencję, są realizowane na zasadach ustalonych dla bezrobotnych i poszukujących pracy, określonych w ustawie, o której mowa w ust. 1. W okresie 6 miesięcy od dnia rozwiązania lub wygaśnięcia stosunku pracy, uczestnikom szkoleń i staży organizowanych przez urząd pracy nie przysługują stypendia, o których mowa w ustawie wymienionej w ust. 1.”.
+
 **Art. 403.** W ustawie z dnia 19 czerwca 2009 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych udzielonych osobom, które utraciły pracę (Dz. U. z 2016 r. poz. 734) w art. 17 w ust. 3 zdanie drugie otrzymuje brzmienie: „Przepisy art. 247 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) stosuje się odpowiednio.”.
 
 **Art. 404.** W ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich (Dz. U. z 2018 r. poz. 1244) wprowadza się następujące zmiany:
 
+- **1)** w art. 5:
+    - **a)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W przypadku niepełnoletniego praktykanta, który ukończył szkołę ponadpodstawową i spełnia obowiązek nauki przez uczęszczanie na praktykę zgodnie z art. 36 ust. 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm. ), umowa może być zawarta na okres nie dłuższy niż do ukończenia przez niego
+
+18. roku życia.”,
+
+- **b)** ust. 5 otrzymuje brzmienie: „5. Zawarcie kolejnej umowy między praktykantem a tym samym podmiotem przyjmującym na praktykę jest możliwe tylko na łączny okres, o którym mowa w ust. 4, a w przypadku:
+- **1)** praktykanta, o którym mowa w ust. 4a, który nie ukończył 18. roku życia – na okres nie dłuższy niż do ukończenia 18. roku życia;
+- **2)** praktykanta, o którym mowa w ust. 4a, który ukończył 18. rok życia – na okres, o którym mowa w ust. 4.”;
+- **2)** w art. 7 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. W przypadku praktykanta, o którym mowa w art. 5 ust. 4a, podmiot przyjmujący na praktykę wystawia na piśmie zaświadczenie o rodzaju wykonywanej pracy i umiejętnościach nabytych w czasie odbywania praktyki zawierające informację o liczbie godzin praktyki zrealizowanej w poszczególnych miesiącach.”;
+- **3)** po art. 7 dodaje się art. 7a w brzmieniu: „Art. 7a. 1. Podmiotowi przyjmującemu na praktykę będącemu pracodawcą, który zawarł umowę z praktykantem, o którym mowa w art. 5 ust. 4a, przysługuje dofinansowanie kosztów praktyki w wysokości 250 zł za każdy pełny miesiąc praktyki, jeżeli praktyka została zrealizowana w wymiarze co najmniej 120 godzin miesięcznie.
+
+2. Dofinansowanie, o którym mowa w ust. 1, przyznaje wójt (burmistrz, prezydent miasta) właściwy ze względu na miejsce zamieszkania praktykanta, w drodze decyzji, po stwierdzeniu spełnienia warunków określonych w ust. 1.
+
+3. Dofinansowanie, o którym mowa w ust. 1, jest przyznawane na wniosek pracodawcy złożony w terminie 3 miesięcy od dnia ukończenia praktyki przez praktykanta.
+
+4. Do wniosku, o którym mowa w ust. 3, dołącza się:
+
+- **1)** kopię umowy;
+- **2)** kopię zaświadczenia, o którym mowa w art. 7 ust. 2.
+
+5. Dofinansowanie, o którym mowa w ust. 1, jest finansowane ze środków Funduszu Pracy.
+
+6. Środki, o których mowa w ust. 5, są przekazywane na wyodrębniony rachunek bankowy urzędu wojewódzkiego.
+
+7. Wojewoda otrzymane środki na dofinansowanie, o którym mowa w ust. 1, przekazuje na wyodrębniony rachunek bankowy gminy.
+
+8. Dofinansowanie, o którym mowa w ust. 1, udzielane podmiotowi prowadzącemu działalność gospodarczą w rozumieniu art. 2 pkt 17 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2025 r. poz. 468), stanowi pomoc de minimis lub pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis lub pomocy w ramach zasady de minimis w rolnictwie.”.
+
 **Art. 405.** W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2024 r. poz. 1488 oraz z 2025 r. poz. 28) w art. 33 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Osoby pobierające stypendia sportowe, o których mowa w art. 5, art. 31 ust. 1 i 2, art. 32 ust. 1, art. 32a ust. 1, art. 32b ust. 1 oraz art. 32c ust. 1, są stypendystami sportowymi w rozumieniu przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350 i 620), a okres ich pobierania zalicza się do okresu zatrudnienia w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oraz do okresu zatrudnienia, od którego zależą uprawnienia pracownicze.”.
 
 **Art. 406.** W ustawie z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania (Dz. U. z 2024 r. poz. 1175 i 1871) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w pkt 4 lit. a otrzymuje brzmienie: „a) form pomocy określonych w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oferowanych przez publiczne służby zatrudnienia, Ochotnicze Hufce Pracy, agencje zatrudnienia i instytucje szkoleniowe, oraz form pomocy oferowanych przez inne podmioty działające na rzecz zatrudnienia, rozwoju zasobów ludzkich i przeciwdziałania bezrobociu,”;
+- **2)** w art. 8 w ust. 1 pkt 4 otrzymuje brzmienie: „4) dostępu i warunków korzystania z form pomocy określonych w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oferowanych przez publiczne służby zatrudnienia, Ochotnicze Hufce Pracy, agencje zatrudnienia i instytucje szkoleniowe oraz form pomocy oferowanych przez inne podmioty działające na rzecz zatrudnienia, rozwoju zasobów ludzkich i przeciwdziałania bezrobociu.”.
 
 **Art. 407.** W ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2024 r. poz. 338, 743 i 858) w art. 51 w ust. 5 uchyla się pkt 1.
 
@@ -5606,15 +6184,83 @@ source: "isap-pdf"
 
 **Art. 409.** W ustawie z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473, 1635 i 1717) wprowadza się następujące zmiany:
 
+- **1)** w art. 7a ust. 10d otrzymuje brzmienie: „10d. Marszałek województwa oraz upoważnione przez niego osoby przetwarzają dane osobowe pracodawców zawarte we wniosku, o którym mowa w ust. 6, i dane osobowe pracowników, o których mowa w ust. 1, w zakresie wynikającym z ust. 7. Przetwarzanie danych osobowych może następować w systemie teleinformatycznym, o którym mowa w art. 26 ust. 1 pkt 1 i 7 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), zwanej dalej „ustawą o rynku pracy”.”;
+- **2)** w art. 17 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Pożyczka edukacyjna, o której mowa w art. 111 ustawy o rynku pracy, może zostać umorzona w całości lub w części wraz odsetkami, jeżeli na skutek powodzi:”;
+- **3)** w art. 18 ust. 1–2a otrzymują brzmienie: „1. Przyznane środki na podjęcie działalności gospodarczej, o których mowa w art. 147 ustawy o rynku pracy, środki na założenie lub przystąpienie do spółdzielni socjalnej, o których mowa w art. 161 ustawy o rynku pracy, refundacje kosztów wyposażenia lub doposażenia stanowisk pracy, o których mowa w art. 154 ust. 1–3 ustawy o rynku pracy, środki na utworzenie stanowiska pracy oraz finansowanie kosztów wynagrodzenia, o których mowa w art. 167 ustawy o rynku pracy, mogą zostać umorzone w całości lub w części wraz z odsetkami, jeżeli miejsca pracy uległy zniszczeniu na skutek powodzi.
+
+2. Osobom, którym umorzono środki przyznane na podjęcie działalności gospodarczej lub na założenie lub przystąpienie do spółdzielni socjalnej, w związku z utratą miejsca pracy na skutek powodzi, przysługuje prawo ponownego złożenia wniosku o przyznanie środków na podjęcie działalności gospodarczej oraz założenie lub przystąpienie do spółdzielni socjalnej.
+
+2a. Do wniosku, o którym mowa w ust. 2, nie stosuje się warunku niewykonywania działalności gospodarczej na terytorium Rzeczypospolitej Polskiej i niepozostawania w okresie zawieszenia wykonywania działalności gospodarczej w okresie ostatnich 12 miesięcy.”;
+
+- **4)** w art. 18a ust. 1–4 otrzymują brzmienie: „1. Pożyczki, o których mowa w art. 172 ust. 3–5 ustawy o rynku pracy, mogą zostać umorzone w całości lub w części wraz z odsetkami na wniosek pożyczkobiorcy, jeżeli stanowiska pracy utworzone dzięki pożyczce uległy zniszczeniu na skutek powodzi.
+
+2. Pożyczki, o których mowa w art. 172 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy o rynku pracy, mogą zostać umorzone w całości lub w części wraz z odsetkami na wniosek pożyczkobiorcy, jeżeli działalność gospodarcza prowadzona na terenie obszaru wskazanego w przepisach wydanych na podstawie art. 1 ust. 2 na skutek powodzi nie może być kontynuowana lub jeżeli możliwość jej prowadzenia uległa istotnemu ograniczeniu, w szczególności gdy:
+
+- **1)** lokal, w którym prowadzona była działalność gospodarcza, uległ całkowitemu lub częściowemu zniszczeniu lub
+- **2)** towary podlegające sprzedaży w ramach prowadzonej działalności uległy całkowitemu lub częściowemu zniszczeniu, lub
+- **3)** środki trwałe zakupione ze środków pochodzących z pożyczki uległy całkowitemu lub częściowemu zniszczeniu.
+
+3. Wniosek o umorzenie pożyczki, o którym mowa w ust. 1 lub 2, pożyczkobiorca składa do pośrednika finansowego, o którym mowa w art. 173 ust. 1 ustawy o rynku pracy, w terminie określonym w przepisach wydanych na podstawie art. 1 ust. 2.
+
+4. Minister właściwy do spraw pracy dokonuje umorzenia, o którym mowa w ust. 1 i 2, w zakresie pożyczek, o których mowa w art. 172 ust. 3–5 ustawy o rynku pracy, oraz pożyczek, o których mowa w art. 172 ust. 1 pkt 1 tej ustawy, udzielonych ze środków Funduszu Pracy, na podstawie wniosków o umorzenie pożyczki. Wnioski o umorzenie pożyczek podlegają zaopiniowaniu przez pośredników finansowych i Bank Gospodarstwa Krajowego.”;
+
+- **5)** art. 18b otrzymuje brzmienie: „Art. 18b. Zawiesza się terminy i okresy, o których mowa w art. 165 ust. 1 pkt 3, art. 166 ust. 4, art. 169 ust. 4 pkt 3 i 4, ust. 5 pkt 2 oraz ust. 10 ustawy o rynku pracy, w stosunku do osób, które otrzymały z Funduszu Pracy środki na założenie lub przystąpienie do spółdzielni socjalnej oraz utraciły zatrudnienie w wyniku wystąpienia powodzi, oraz do spółdzielni socjalnych i przedsiębiorstw społecznych, poszkodowanych w wyniku wystąpienia powodzi, posiadających siedzibę lub prowadzących działalność na terenie gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2, na okres wskazany w tych przepisach. Starosta weryfikuje przesłanki, o których mowa w umowie, nie biorąc pod uwagę okresu zawieszenia.”;
+- **6)** w art. 19:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Starosta, na wniosek poszkodowanego bezrobotnego, przyznaje prawo do świadczenia w wysokości zasiłku dla bezrobotnych, o której mowa w art. 224 ust. 1 pkt 1 ustawy o rynku pracy, finansowanego z Funduszu Pracy, za okres poprzedzający dzień zarejestrowania się poszkodowanego bezrobotnego w powiatowym urzędzie pracy, przypadający w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, nie dłuższy jednak niż 30 dni, jeżeli opóźnienie w rejestracji było spowodowane powodzią, a poszkodowany bezrobotny spełnia warunki określone w art. 218 ustawy o rynku pracy.
+
+2. W przypadku gdy świadczenie, o którym mowa w ust. 1, przysługuje bezrobotnemu za okres krótszy niż 30 dni, jest wypłacane w kwocie 1/30 wysokości zasiłku dla bezrobotnych, o której mowa w art. 224 ust. 1 pkt 1 ustawy o rynku pracy, za każdy dzień przysługiwania.”,
+
+- **b)** ust. 4 otrzymuje brzmienie: „4. Poszkodowanym bezrobotnym, którzy utracili prawo do zasiłku dla bezrobotnych w terminie określonym w przepisach wydanych na podstawie art. 1 ust. 2 z powodu upływu okresu jego pobierania, przysługuje od dnia określonego w przepisach wydanych na podstawie art. 1 ust. 2 prawo do zasiłku dla bezrobotnych przez okres 30 dni w wysokości zasiłku otrzymywanego w ostatnim miesiącu przysługiwania prawa, pod warunkiem niezaistnienia zawartych w ustawie o rynku pracy ustawowych przyczyn utraty statusu bezrobotnego.”,
+- **c)** uchyla się ust. 5;
+- **7)** w art. 20 ust. 1 otrzymuje brzmienie: „1. Starosta może, w trybie określonym dla prac interwencyjnych, o których mowa w przepisach ustawy o rynku pracy, biorąc pod uwagę zakres i skalę zniszczeń u pracodawcy spowodowanych powodzią oraz możliwości utrzymania przez pracodawcę miejsc pracy, dokonywać ze środków Funduszu Pracy zwrotu, przez okres do 12 miesięcy, poniesionych przez pracodawcę kosztów na wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne z tytułu zatrudnienia skierowanych bezrobotnych zamieszkałych na obszarze gmin lub miejscowości określonych w przepisach wydanych na podstawie art. 1 ust. 2, w wysokości nieprzekraczającej miesięcznie iloczynu dwukrotnego minimalnego wynagrodzenia za pracę i liczby zatrudnionych bezrobotnych w przeliczeniu na pełny wymiar czasu pracy, pod warunkiem że pracodawca nie zmniejszy w tym okresie liczby zatrudnionych pracowników w stosunku do stanu na dzień podpisania umowy o refundację – jednak nie dłużej niż do dnia 31 grudnia roku następującego po roku, w którym wystąpiła powódź.”;
+- **8)** w art. 21:
+    - **a)** w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Starosta może, w trybie określonym dla prac interwencyjnych, o których mowa w przepisach ustawy o rynku pracy, biorąc pod uwagę zakres i skalę zniszczeń u pracodawcy spowodowanych powodzią oraz możliwości utrzymania przez pracodawcę miejsc pracy, dokonywać ze środków Funduszu Pracy zwrotu, przez okres do 12 miesięcy, poniesionych przez pracodawcę, którego zakład został zniszczony na skutek powodzi, kosztów na wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne zatrudnianych pracowników, w wysokości nieprzekraczającej miesięcznie iloczynu dwukrotnego minimalnego wynagrodzenia za pracę i liczby zatrudnionych pracowników, w przeliczeniu na pełny wymiar czasu pracy, pod warunkiem że pracodawca nie zmniejszy w tym okresie liczby zatrudnionych pracowników w stosunku do stanu na dzień podpisania umowy o refundację – jednak nie dłużej niż do dnia 31 grudnia roku następującego po roku, w którym wystąpiła powódź.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Do organizowania prac, o których mowa w ust. 2, stosuje się odpowiednio przepisy o robotach publicznych, o których mowa w ustawie o rynku pracy, z wyłączeniem zasad udzielania pomocy publicznej.”;
+
+- **9)** w art. 23 w ust. 9b zdanie drugie otrzymuje brzmienie: „Przetwarzanie danych osobowych może następować w systemie teleinformatycznym, o którym mowa w art. 26 ust. 1 pkt 1 i 7 ustawy o rynku pracy.”;
+- **10)** w art. 33 ust. 2 otrzymuje brzmienie: „2. Świadczeń uzyskanych w związku z powodzią nie wlicza się do przychodu w rozumieniu ustawy o rynku pracy, od wysokości którego uzależniona jest możliwość uzyskania statusu bezrobotnego.”.
+
 **Art. 410.** W ustawie z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2025 r. poz. 5) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w ust. 2 pkt 1 otrzymuje brzmienie: „1) na wyposażenie lub doposażenie stanowiska pracy dla skierowanego bezrobotnego ze środków Funduszu Pracy w okresie obowiązywania umowy o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, o której mowa w art. 156 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), lub”;
+- **2)** w art. 5:
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) finansowane ze środków Funduszu świadczenie na częściowe zaspokojenie wynagrodzenia za czas przestoju ekonomicznego, do wysokości 100 % zasiłku, o którym mowa w art. 224 ust. 1 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, zwiększonego o wysokość składek na ubezpieczenia społeczne należnych od pracownika, w wysokości proporcjonalnej do przestoju ekonomicznego, z uwzględnieniem wymiaru czasu pracy pracownika,”,
+    - **b)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) finansowane ze środków Funduszu świadczenie na częściowe zrekompensowanie wynagrodzenia z tytułu obniżenia wymiaru czasu pracy, do wysokości 100 % zasiłku, o którym mowa w art. 224 ust. 1 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, zwiększonego o wysokość składek na ubezpieczenia społeczne, należnych od pracownika, w wysokości proporcjonalnej do obniżonego wymiaru czasu pracy pracownika, z uwzględnieniem wymiaru czasu pracy pracownika przed jego obniżeniem,”;
+
+- **3)** w art. 28 ust. 4 otrzymuje brzmienie: „4. Rada Ministrów nie wydaje rozporządzenia, o którym mowa w ust. 3, jeżeli jego wydanie ograniczyłoby wykonywanie bieżących zadań w zakresie ochrony roszczeń pracowniczych finansowanych z Funduszu oraz w zakresie aktywności zawodowej, wspierania zatrudnienia oraz rynku pracy finansowanych z Funduszu Pracy.”.
 
 **Art. 411.** W ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2023 r. poz. 2257) wprowadza się następujące zmiany:
 
+- **1)** w art. 16 ust. 3 otrzymuje brzmienie: „3. Pośrednictwo pracy prowadzą agencje zatrudnienia, o których mowa w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), zwanej dalej „ustawą o rynku pracy”, oraz powiatowe urzędy pracy.”;
+- **2)** w art. 19 ust. 4 otrzymuje brzmienie: „4. Agencja zatrudnienia przyjmuje od armatora ofertę pracy na statku, jeżeli oferta nie dyskryminuje kandydatów do pracy i nie narusza zasady, o której mowa w art. 83 ust. 11 ustawy o rynku pracy, sprawdza, czy wśród osób zainteresowanych podjęciem pracy na statku są kandydaci spełniający wymagania armatora określone w tej ofercie oraz informuje armatora, czy może skierować do niego odpowiednich kandydatów do pracy na statku, a w przypadku ich braku może poinformować o innych agencjach zatrudnienia prowadzących pośrednictwo pracy.”;
+- **3)** w art. 22 ust. 1 otrzymuje brzmienie: „1. W przypadku pośrednictwa pracy dla osób poszukujących pracy na statku o obcej przynależności agencja zatrudnienia zawiera z:
+- **1)** osobą zainteresowaną podjęciem pracy na statku pisemną umowę, spełniającą wymagania określone w art. 338 ust. 3 ustawy o rynku pracy;
+- **2)** armatorem, do którego zamierza kierować osoby do pracy, pisemną umowę, spełniającą wymagania określone w art. 338 ust. 5 ustawy o rynku pracy.”.
+
 **Art. 412.** W ustawie z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2023 r. poz. 140) w art. 34 pkt 2 i 3 otrzymują brzmienie: „2) bezrobotnych w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
+
+- **3)** osób poszukujących pracy, niepozostających w zatrudnieniu lub niewykonujących innej pracy zarobkowej, w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,”.
 
 **Art. 413.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562, 1635 i 1933 oraz z 2025 r. poz. 619) wprowadza się następujące zmiany:
 
+- **1)** w art. 36: o praktykach absolwenckich (Dz. U. z 2018 r. poz. 1244 oraz z 2025 r. poz. 620).”,
+    - **a)** ust. 12 otrzymuje brzmienie: „12. Uczeń, który ukończył szkołę ponadpodstawową przed ukończeniem 18. roku życia, może również spełniać obowiązek nauki przez uczęszczanie do uczelni, na kwalifikacyjny kurs zawodowy albo na praktykę absolwencką, o której mowa w ustawie z dnia 17 lipca 2009 r.
+    - **b)** ust. 15 otrzymuje brzmienie: „15. Dyrektorzy publicznych i niepublicznych szkół ponadpodstawowych, pracodawcy, o których mowa w ust. 9 pkt 2, osoby kierujące podmiotami prowadzącymi kwalifikacyjne kursy zawodowe lub podmioty przyjmujące na praktykę absolwencką, są obowiązani powiadomić wójta gminy (burmistrza, prezydenta miasta), na terenie której mieszka absolwent szkoły podstawowej, który nie ukończył 18 lat, o przyjęciu go do szkoły albo w celu przygotowania zawodowego albo na kwalifikacyjny kurs zawodowy albo na praktykę absolwencką, w terminie 14 dni od dnia przyjęcia absolwenta, oraz informować tego wójta (burmistrza, prezydenta miasta) o zmianach w spełnianiu obowiązku nauki przez absolwenta szkoły podstawowej, w terminie 14 dni od dnia powstania tych zmian.”;
+
+- **2)** w art. 45 w ust. 11 w pkt 3 lit. d otrzymuje brzmienie: „d) pozytywną opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 8 ust. 2 pkt 3 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),”;
+- **3)** w art. 68 w ust. 7 pkt 1 otrzymuje brzmienie: „1) uzyskaniu opinii wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 8 ust. 2 pkt 3 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, oraz”;
+- **4)** w art. 117 w ust. 2 pkt 3 otrzymuje brzmienie: „3) publiczne służby zatrudnienia i Ochotnicze Hufce Pracy, prowadzące działalność edukacyjno-szkoleniową, a także agencje zatrudnienia, instytucje szkoleniowe, organizacje pracodawców oraz związki zawodowe, o których mowa w art. 1 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych, prowadzące działalność edukacyjno-szkoleniową i posiadające akredytację, o której mowa w art. 118;”;
+- **5)** w art. 118 w ust. 8a zdanie pierwsze otrzymuje brzmienie: „Akredytację na kształcenie ustawiczne prowadzone w formie kwalifikacyjnego kursu zawodowego mogą uzyskać podmiot prowadzący działalność oświatową, o której mowa w art. 170 ust. 2, a także publiczne służby zatrudnienia, Ochotnicze Hufce Pracy, agencje zatrudnienia, instytucje szkoleniowe, organizacje pracodawców oraz związki zawodowe, o których mowa w art. 1 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych, prowadzące działalność edukacyjno-szkoleniową, które prowadziły kwalifikacyjne kursy zawodowe lub prowadziły, na podstawie odrębnych przepisów, edukację pozaszkolną w zakresie zawodu lub zawodów odpowiadających zawodowi lub zawodom określonym w klasyfikacji zawodów szkolnictwa branżowego, przez okres co najmniej 3 lat.”;
+- **6)** w art. 168 ust. 5a otrzymuje brzmienie: „5a. Szkoła, o której mowa w ust. 4 pkt 6 lit. a, prowadząca kształcenie zawodowe, może zostać wpisana do ewidencji, jeżeli osoba zgłaszająca szkołę do ewidencji przedstawi opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 8 ust. 2 pkt 3 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”;
+- **7)** w art. 178 w ust. 3 w pkt 3 lit. d otrzymuje brzmienie: „d) opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 8 ust. 2 pkt 3 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,”.
+
 **Art. 414.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897 oraz z 2025 r. poz. 619) w art. 49 ust. 4 otrzymuje brzmienie: „4. W uczelni może działać akademickie biuro karier, do którego zadań należy w szczególności:
+
+- **1)** dostarczanie studentom i absolwentom studiów informacji o rynku pracy i możliwościach podnoszenia kwalifikacji zawodowych;
+- **2)** zbieranie, klasyfikowanie i udostępnianie ofert pracy, staży i praktyk;
+- **3)** prowadzenie bazy danych studentów i absolwentów uczelni zainteresowanych znalezieniem pracy;
+- **4)** pomoc pracodawcom w pozyskiwaniu odpowiednich kandydatów na wolne miejsca pracy oraz staże zawodowe;
+- **5)** pomoc w aktywnym poszukiwaniu pracy.”.
 
 **Art. 415.** W ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051) w art. 2 pkt 3 otrzymuje brzmienie: „3) emeryturach i rentach – oznacza to emerytury, renty rodzinne, renty inwalidzkie oraz renty z tytułu niezdolności do pracy, w tym renty szkoleniowe, określone w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, o ubezpieczeniu społecznym rolników, o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, uposażenia w stanie spoczynku określone w przepisach prawa o ustroju sądów powszechnych, o prokuraturze oraz o Sądzie Najwyższym, renty szkoleniowe i renty z tytułu niezdolności do pracy określone w przepisach o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, renty z tytułu niezdolności do pracy określone w przepisach o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach, emerytury pomostowe określone w przepisach o emeryturach pomostowych, nauczycielskie świadczenia kompensacyjne określone w przepisach o nauczycielskich świadczeniach kompensacyjnych, zasiłki przedemerytalne i świadczenia przedemerytalne określone w przepisach o świadczeniach przedemerytalnych, renty socjalne określone w przepisach o rencie socjalnej, a także renty strukturalne określone w przepisach o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej oraz o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz okresowe emerytury kapitałowe określone w przepisach o emeryturach kapitałowych;”.
 
@@ -5622,13 +6268,41 @@ source: "isap-pdf"
 
 **Art. 417.** W ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320) wprowadza się następujące zmiany:
 
+- **1)** w art. 94 w ust. 1 pkt 2 i 3 otrzymują brzmienie: „2) bezrobotnych w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
+- **3)** osób poszukujących pracy, niepozostających w zatrudnieniu lub niewykonujących innej pracy zarobkowej, w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,”;
+- **2)** w art. 96 w ust. 2 w pkt 2 lit. a i b otrzymują brzmienie: „a) bezrobotnych w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
+    - **b)** osób poszukujących pracy, niepozostających w zatrudnieniu lub niewykonujących innej pracy zarobkowej, w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,”.
+
 **Art. 418.** W ustawie z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. z 2023 r. poz. 1330) w art. 2 pkt 1 otrzymuje brzmienie: „1) agencja zatrudnienia – agencję zatrudnienia, o której mowa w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);”.
 
 **Art. 419.** W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 313 ust. 6 otrzymuje brzmienie: „6. Stosowanie przepisów ust. 1–3 nie powoduje utraty uprawnień bezrobotnych, określonych w przepisach ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620).”;
+- **2)** w art. 314:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Dowódca jednostki wojskowej, na wniosek żołnierza, zawiadamia na piśmie właściwy powiatowy urząd pracy o terminie zwolnienia żołnierza z czynnej służby wojskowej nie później niż na 30 dni przed tym terminem.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Na podstawie informacji zawartych w zawiadomieniu, o którym mowa w ust. 2, powiatowy urząd pracy przedstawia żołnierzowi zwolnionemu z czynnej służby wojskowej propozycje odpowiedniego zatrudnienia, wykonywania prac interwencyjnych, robót publicznych lub szkolenia – na zasadzie pierwszeństwa.”,
+    - **c)** w ust. 5 zdanie drugie otrzymuje brzmienie: „Osoby te zawiadamiają właściwy powiatowy urząd pracy o zwolnieniu z odbywania tej służby na 30 dni przed terminem jej zakończenia.”;
+
+- **3)** w art. 322 część wspólna otrzymuje brzmienie: „– uwzględniając klasyfikację zawodów i specjalności na potrzeby rynku pracy określoną w przepisach wydanych na podstawie art. 29 ust. 3 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz konieczność zagwarantowania równości stron umowy oraz zapewnienia sprawności postępowania w zakresie wypłacania ekwiwalentu.”.
+
 **Art. 420.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337) wprowadza się następujące zmiany:
 
+- **1)** art. 22 otrzymuje brzmienie: „Art. 22 . 1. Obywatel Ukrainy, który przebywa legalnie na terytorium Rzeczypospolitej Polskiej lub jego pobyt na terytorium Rzeczypospolitej Polskiej uznaje się za legalny na podstawie art. 2 ust. 1, może zarejestrować się oraz zostać uznany jako bezrobotny albo poszukujący pracy, o którym mowa w art. 2 pkt 1 albo 24 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia. Do obywateli Ukrainy, o których mowa w zdaniu pierwszym, nie stosuje się warunku określonego w art. 2 pkt 1 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
+
+2. W przypadku, o którym mowa w ust. 1, przepisy działu VI ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia stosuje się odpowiednio.”;
+
+- **2)** uchyla się art. 22i;
+- **3)** w art. 24 ust. 1 otrzymuje brzmienie: „1. Ochotnicze Hufce Pracy mogą realizować zadania, o których mowa w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, na rzecz obywateli Ukrainy, którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej lub których pobyt na terytorium Rzeczypospolitej Polskiej uznaje się za legalny na podstawie art. 2 ust. 1, i którzy ukończyli 15 lat i nie ukończyli 25 lat.”.
+
 **Art. 421.** W ustawie z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. z 2024 r. poz. 113 i 1635) wprowadza się następujące zmiany:
+
+- **1)** w art. 2: poz. 620),
+    - **a)** w pkt 6 lit. a–c otrzymują brzmienie: „a) bezrobotnego, o którym mowa w art. 2 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U.
+    - **b)** długotrwale bezrobotnego, o którym mowa w art. 2 pkt 4 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
+    - **c)** poszukującego pracy, o którym mowa w art. 2 pkt 24 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, bez zatrudnienia: – w wieku do 30. roku życia oraz po ukończeniu 50. roku życia lub – niewykonującego innej pracy zarobkowej, o której mowa w art. 2 pkt 9 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,”,
+    - **b)** pkt 10 otrzymuje brzmienie: „10) zatrudnieniu – należy przez to rozumieć zatrudnienie, o którym mowa w art. 2 pkt 51 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.”;
+
+- **2)** w art. 22 w ust. 2 pkt 1 otrzymuje brzmienie: „1) Funduszu Pracy na zasadach określonych w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia;”.
 
 **Art. 422.** W ustawie z dnia 16 listopada 2022 r. o systemie teleinformatycznym do obsługi niektórych umów (Dz. U. z 2024 r. poz. 1661) w art. 2 ust. 2 otrzymuje brzmienie: „2. Dostęp do Systemu następuje za pośrednictwem systemu teleinformatycznego umożliwiającego wnoszenie wniosków w postaci elektronicznej do publicznych służb zatrudnienia, o którym mowa w art. 26 ust. 1 pkt 7 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), lub systemu Punktu Informacji dla Przedsiębiorcy, o którym mowa w art. 51 ust. 1 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541 oraz z 2024 r. poz. 1841), po uwierzytelnieniu.”.
 
@@ -5896,4 +6570,8 @@ source: "isap-pdf"
 **Art. 460.** Traci moc ustawa z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2025 r. poz. 214).
 
 **Art. 461.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 392 pkt 2 lit. b oraz art. 458, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą w życie z dniem 1 stycznia 2026 r.
+
 

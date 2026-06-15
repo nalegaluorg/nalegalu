@@ -8,7 +8,7 @@ pos: 1247
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw
@@ -29,13 +29,374 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 w § 1 pkt 1 otrzymuje brzmienie: „1) sprawca przestępstwa został wykryty i pociągnięty do odpowiedzialności karnej, a osoba, której nie udowodniono winy, nie poniosła tej odpowiedzialności,”;
+- **2)** w art. 5 § 2 otrzymuje brzmienie: „§ 2. Wątpliwości, których nie usunięto w postępowaniu dowodowym, rozstrzyga się na korzyść oskarżonego.”;
+- **3)** w art. 14 § 2 otrzymuje brzmienie: „§ 2. Oskarżyciel publiczny może cofnąć akt oskarżenia do czasu rozpoczęcia przewodu sądowego na pierwszej rozprawie głównej. W toku przewodu sądowego przed sądem pierwszej instancji cofnięcie aktu oskarżenia dopuszczalne jest jedynie za zgodą oskarżonego. Ponowne wniesienie aktu oskarżenia przeciwko tej samej osobie o ten sam czyn jest niedopuszczalne.”;
+- **4)** w art. 15 § 1 otrzymuje brzmienie: „§ 1. Policja i inne organy w zakresie postępowania karnego wykonują polecenia sądu, referendarza sądowego i prokuratora oraz prowadzą pod nadzorem prokuratora śledztwo lub dochodzenie w granicach określonych w ustawie.”;
+- **5)** art. 23a otrzymuje brzmienie: „Art. 23a. § 1. Sąd lub referendarz sądowy, a w postępowaniu przygotowawczym prokurator lub inny organ prowadzący to postępowanie, może z inicjatywy lub za zgodą oskarżonego i pokrzywdzonego skierować sprawę do instytucji lub osoby do tego uprawnionej w celu przeprowadzenia postępowania mediacyjnego między pokrzywdzonym i oskarżonym, o czym się ich poucza, informując o celach i zasadach postępowania mediacyjnego, w tym o treści art. 178a.
+
+§ 2. Postępowanie mediacyjne nie powinno trwać dłużej niż miesiąc, a jego okresu nie wlicza się do czasu trwania postępowania przygotowawczego.
+
+§ 3. Postępowania mediacyjnego nie może prowadzić osoba, co do której w sprawie zachodzą okoliczności określone w art. 40 i art. 41 § 1, czynny zawodowo sędzia, prokurator, asesor prokuratorski, a także aplikant wymienionych zawodów, ławnik, referendarz sądowy, asystent sędziego, asystent prokuratora oraz funkcjonariusz instytucji uprawnionej do ścigania przestępstw. Przepis art. 42 stosuje się odpowiednio.
+
+§ 4. Udział oskarżonego i pokrzywdzonego w postępowaniu mediacyjnym jest dobrowolny. Zgodę na uczestniczenie w postępowaniu mediacyjnym odbiera organ kierujący sprawę do mediacji lub mediator, po wyjaśnieniu oskarżonemu i pokrzywdzonemu celów i zasad postępowania mediacyjnego i pouczeniu ich o możliwości cofnięcia tej zgody aż do zakończenia postępowania mediacyjnego.
+
+§ 5. Mediatorowi udostępnia się akta sprawy w zakresie niezbędnym do przeprowadzenia postępowania mediacyjnego.
+
+§ 6. Instytucja lub osoba do tego uprawniona sporządza, po przeprowadzeniu postępowania mediacyjnego, sprawozdanie z jego wyników. Do sprawozdania załącza się ugodę podpisaną przez oskarżonego, pokrzywdzonego i mediatora, jeżeli została zawarta.
+
+§ 7. Postępowanie mediacyjne prowadzi się w sposób bezstronny i poufny.
+
+§ 8. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy tryb przeprowadzania postępowania mediacyjnego, warunki, jakim powinny odpowiadać instytucje i osoby uprawnione do jego przeprowadzenia, sposób ich powoływania i odwoływania, zakres i warunki udostępniania im akt sprawy oraz formę i zakres sprawozdania z wyników postępowania mediacyjnego, mając na uwadze potrzebę skutecznego przeprowadzenia tego postępowania.”;
+
+- **6)** w art. 28 § 3 otrzymuje brzmienie: „§ 3. Ze względu na szczególną zawiłość sprawy lub jej wagę sąd pierwszej instancji może postanowić o jej rozpoznaniu w składzie trzech sędziów albo jednego sędziego i dwóch ławników.”;
+- **7)** art. 30 otrzymuje brzmienie: „Art. 30. § 1. Na posiedzeniu sąd orzeka jednoosobowo, chyba że ustawa stanowi inaczej albo ze względu na szczególną zawiłość sprawy lub jej wagę prezes sądu zarządzi jej rozpoznanie w składzie trzech sędziów.
+
+§ 2. Sąd odwoławczy na posiedzeniu orzeka jednoosobowo, a w składzie trzech sędziów wówczas, gdy zaskarżone orzeczenie wydano w składzie innym niż jednoosobowy, chyba że ustawa stanowi inaczej.”;
+
+- **8)** art. 44 otrzymuje brzmienie: „Art. 44. Przepisy niniejszego rozdziału stosuje się odpowiednio do referendarzy sądowych i ławników. O wyłączeniu referendarza orzeka sąd w składzie jednego sędziego.”;
+- **9)** w art. 49:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Pokrzywdzonym może być także niemająca osobowości prawnej:
+
+- **1)** instytucja państwowa lub samorządowa,
+- **2)** inna jednostka organizacyjna, której odrębne przepisy przyznają zdolność prawną.”,
+    - **b)** § 4 otrzymuje brzmienie: „§ 4. W sprawach o przestępstwa, którymi wyrządzono szkodę w mieniu instytucji lub jednostki organizacyjnej, o której mowa w § 2, jeżeli nie działa organ pokrzywdzonej instytucji lub jednostki organizacyjnej, prawa pokrzywdzonego mogą wykonywać organy kontroli państwowej, które w zakresie swojego działania ujawniły przestępstwo lub wystąpiły o wszczęcie postępowania.”;
+
+- **10)** art. 49a otrzymuje brzmienie: „Art. 49a. Jeżeli nie wytoczono powództwa cywilnego, pokrzywdzony, a także prokurator, może aż do zamknięcia przewodu sądowego na rozprawie głównej złożyć wniosek, o którym mowa w art. 46 § 1 Kodeksu karnego.”;
+- **11)** w art. 54 § 2 otrzymuje brzmienie: „§ 2. Cofnięcie aktu oskarżenia przez oskarżyciela publicznego nie pozbawia uprawnień oskarżyciela posiłkowego. Pokrzywdzony, który uprzednio nie korzystał z uprawnień oskarżyciela posiłkowego, może w terminie 14 dni od powiadomienia go o cofnięciu przez oskarżyciela publicznego aktu oskarżenia oświadczyć, że przystępuje do postępowania jako oskarżyciel posiłkowy.”;
+- **12)** w art. 55 § 1 i 2 otrzymują brzmienie: „§ 1. W razie powtórnego wydania przez prokuratora postanowienia o odmowie wszczęcia lub o umorzeniu postępowania w wypadku, o którym mowa w art. 330 § 2, pokrzywdzony może w terminie miesiąca od doręczenia mu zawiadomienia o postanowieniu wnieść akt oskarżenia do sądu, dołączając po jednym odpisie dla każdego oskarżonego oraz dla prokuratora. Przepis art. 488 § 2 stosuje się odpowiednio.
+
+§ 2. Akt oskarżenia wniesiony przez pokrzywdzonego powinien być sporządzony i podpisany przez pełnomocnika, z zachowaniem warunków określonych w art. 332 i art. 333 § 1.”;
+
+- **13)** w art. 56 § 3 otrzymuje brzmienie: „§ 3. Na postanowienie sądu wydane na podstawie § 1, a także na postanowienie sądu wydane na podstawie § 2, jeżeli dotyczy oskarżyciela posiłkowego określonego w art. 54 § 1 lub art. 55 § 3, zażalenie nie przysługuje.”;
+- **14)** w art. 57 § 2 otrzymuje brzmienie: „§ 2. O odstąpieniu oskarżyciela posiłkowego od oskarżenia w sprawie, w której oskarżyciel publiczny nie bierze udziału, sąd zawiadamia prokuratora. Nieprzystąpienie przez niego do oskarżenia w terminie 14 dni od doręczenia zawiadomienia powoduje umorzenie postępowania. Postanowienie o umorzeniu postępowania może wydać także referendarz sądowy.”;
+- **15)** w art. 60 § 4 otrzymuje brzmienie: „§ 4. Pokrzywdzony, który nie wniósł oskarżenia, może w terminie zawitym 14 dni od daty powiadomienia go o odstąpieniu prokuratora od oskarżenia złożyć akt oskarżenia lub oświadczenie, że podtrzymuje oskarżenie jako prywatne, a jeżeli takiego oświadczenia nie złoży, sąd lub referendarz sądowy umarza postępowanie.”;
+- **16)** art. 61 otrzymuje brzmienie: „Art. 61. § 1. W razie śmierci oskarżyciela prywatnego postępowanie zawiesza się, a osoby najbliższe lub osoby pozostające na utrzymaniu zmarłego mogą wstąpić w jego prawa. Postanowienie o zawieszeniu postępowania może wydać także referendarz sądowy.
+
+§ 2. Jeżeli w terminie zawitym 3 miesięcy od dnia śmierci oskarżyciela prywatnego osoba uprawniona nie wstąpi w prawa zmarłego, sąd lub referendarz sądowy umarza postępowanie.”;
+
+- **17)** art. 68 otrzymuje brzmienie: „Art. 68. W razie zawieszenia postępowania sąd na żądanie powoda cywilnego przekazuje wytoczone powództwo sądowi właściwemu do rozpoznawania spraw cywilnych. Postanowienie o przekazaniu powództwa może wydać także referendarz sądowy.”;
+- **18)** w art. 72 § 2 otrzymuje brzmienie: „§ 2. Tłumacza należy wezwać do czynności z udziałem oskarżonego, o którym mowa w § 1. Na wniosek oskarżonego lub jego obrońcy tłumacza należy wezwać również w celu porozumienia się oskarżonego z obrońcą w związku z czynnością, do udziału w której oskarżony jest uprawniony.”;
+- **19)** w art. 74 po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Oskarżonego lub osobę podejrzaną wzywa się do poddania się obowiązkom wynikającym z § 2 i 3. W razie odmowy poddania się tym obowiązkom oskarżonego lub osobę podejrzaną można zatrzymać i przymusowo doprowadzić, a także stosować wobec nich siłę fizyczną lub środki techniczne służące obezwładnieniu, w zakresie niezbędnym do wykonania danej czynności.”;
+- **20)** w art. 75 § 1 otrzymuje brzmienie: „§ 1. Oskarżony jest obowiązany zawiadamiać organ prowadzący postępowanie o każdej zmianie miejsca swego zamieszkania lub pobytu trwającego dłużej niż 7 dni, w tym także z powodu pozbawienia wolności w innej sprawie, a jeżeli pozostaje na wolności, jest obowiązany ponadto stawić się na każde wezwanie w toku postępowania karnego, o czym należy oskarżonego uprzedzić przy pierwszym przesłuchaniu.”;
+- **21)** w art. 78 § 1 otrzymuje brzmienie: „§ 1. Podejrzany, który nie ma obrońcy z wyboru, może żądać, aby mu wyznaczono obrońcę z urzędu, jeżeli w sposób należyty wykaże, że nie jest w stanie ponieść kosztów obrony bez uszczerbku dla niezbędnego utrzymania siebie i rodziny.”;
+- **22)** art. 79 i art. 80 otrzymują brzmienie: „Art. 79. § 1. W postępowaniu karnym oskarżony musi mieć obrońcę, jeżeli:
+- **1)** nie ukończył 18 lat,
+- **2)** jest głuchy, niemy lub niewidomy,
+- **3)** zachodzi uzasadniona wątpliwość, czy jego zdolność rozpoznania znaczenia czynu lub kierowania swoim postępowaniem nie była w czasie popełnienia tego czynu wyłączona lub w znacznym stopniu ograniczona,
+- **4)** zachodzi uzasadniona wątpliwość, czy stan jego zdrowia psychicznego pozwala na udział w postępowaniu lub prowadzenie obrony w sposób samodzielny oraz rozsądny.
+
+§ 2. Oskarżony musi mieć obrońcę również wtedy, gdy sąd uzna to za niezbędne ze względu na inne okoliczności utrudniające obronę.
+
+§ 3. W wypadkach, o których mowa w § 1 i 2, udział obrońcy jest obowiązkowy w rozprawie oraz w tych posiedzeniach, w których obowiązkowy jest udział oskarżonego.
+
+§ 4. Uznając za uzasadnioną opinię biegłych lekarzy psychiatrów, że czyn oskarżonego nie został popełniony w warunkach wyłączenia lub znacznego ograniczenia zdolności rozpoznania znaczenia czynu lub kierowania swoim postępowaniem i że stan zdrowia psychicznego oskarżonego pozwala na udział w postępowaniu i prowadzenie obrony w sposób samodzielny i rozsądny, sąd orzeka, że udział obrońcy nie jest obowiązkowy. Prezes sądu albo sąd zwalnia wówczas obrońcę z jego obowiązków, chyba że zachodzą inne okoliczności przemawiające za tym, aby oskarżony miał obrońcę wyznaczonego z urzędu.
+
 **Art. 80.** Oskarżony musi mieć obrońcę w postępowaniu przed sądem okręgowym, jeżeli zarzucono mu zbrodnię. W takim wypadku udział obrońcy w rozprawie głównej jest obowiązkowy.”;
+
+- **23)** po art. 80 dodaje się art. 80a w brzmieniu: „Art. 80a. § 1. Na wniosek oskarżonego, który nie ma obrońcy z wyboru, prezes sądu, sąd lub referendarz sądowy wyznacza w postępowaniu sądowym obrońcę z urzędu, chyba że ma zastosowanie art. 79 § 1 lub 2 albo art. 80. W takim wypadku udział obrońcy w rozprawie głównej jest obowiązkowy.
+
+§ 2. Przepis § 1 zdanie pierwsze stosuje się odpowiednio do wyznaczenia obrońcy w celu dokonania określonej czynności procesowej w toku postępowania sądowego.
+
+§ 3. Ponowne wyznaczenie obrońcy w trybie, o którym mowa w § 1 i 2, jest dopuszczalne jedynie w szczególnie uzasadnionych wypadkach.”;
+
+- **24)** art. 81 otrzymuje brzmienie: „Art. 81. § 1. Jeżeli w sytuacji określonej w art. 78 § 1, art. 79 § 1 i 2 oraz art. 80 oskarżony nie ma obrońcy z wyboru, prezes lub referendarz sądowy sądu właściwego do rozpoznania sprawy wyznacza mu obrońcę z urzędu.
+
+§ 2. Na uzasadniony wniosek oskarżonego lub jego obrońcy prezes lub referendarz sądowy sądu właściwego do rozpoznania sprawy może wyznaczyć nowego obrońcę w miejsce dotychczasowego.”;
+
+- **25)** po art. 81 dodaje się art. 81a w brzmieniu: „Art. 81a. § 1. Obrońca z urzędu wyznaczany jest z listy obrońców.
+
+§ 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób zapewnienia oskarżonemu korzystania z pomocy obrońcy z urzędu, w tym sposób ustalania listy obrońców udzielających pomocy prawnej z urzędu, sposób wyznaczania obrońcy udzielającego pomocy prawnej z urzędu oraz sposób kontaktu z obrońcą w sprawach pilnych, mając na uwadze konieczność zapewnienia prawidłowego toku postępowania oraz prawidłowej realizacji prawa do obrony.”;
+
+- **26)** w dziale III po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „Rozdział 8a Podmiot odpowiedzialny za zwrot Skarbowi Państwa korzyści majątkowej uzyskanej z przestępstwa
 
 **Art. 81b.** Odpowiedzialnym za zwrot Skarbowi Państwa korzyści majątkowej uzyskanej z przestępstwa jest podmiot, wobec którego prokurator, wnosząc akt oskarżenia, wystąpił z wnioskiem o zobowiązanie go przez sąd do takiego zwrotu z uwagi na uzyskanie tej korzyści w warunkach określonych w art. 52 Kodeksu karnego.
 
 **Art. 81c.** Do przesłuchania podmiotu, o którym mowa w art. 81b, stosuje się odpowiednio przepisy o przesłuchaniu świadków. Jeżeli podmiotem tym nie jest osoba fizyczna, przesłuchuje się osobę wchodzącą w skład organu uprawnionego do działania w jego imieniu.”;
 
+- **27)** art. 82 otrzymuje brzmienie: „Art. 82. Obrońcą może być jedynie osoba uprawniona do obrony według przepisów o ustroju adwokatury lub ustawy o radcach prawnych.”;
+- **28)** w art. 84 § 2 otrzymuje brzmienie: „§ 2. Wyznaczenie obrońcy z urzędu nakłada na niego obowiązek podejmowania czynności procesowych do prawomocnego zakończenia postępowania. Jeżeli jednak czynności należy dokonać poza siedzibą lub miejscem zamieszkania obrońcy z urzędu, prezes sądu, przed którym ma być dokonana czynność, lub referendarz sądowy tego sądu, a w postępowaniu przygotowawczym prezes sądu rejonowego miejsca czynności lub referendarz sądowy tego sądu, na uzasadniony wniosek dotychczasowego obrońcy może wyznaczyć do dokonania tej czynności innego obrońcę spośród miejscowych adwokatów lub radców prawnych.”;
+- **29)** po art. 87 dodaje się art. 87a w brzmieniu: „Art. 87a. § 1. Na wniosek strony innej niż oskarżony, która nie ma pełnomocnika z wyboru, prezes sądu, sąd lub referendarz sądowy wyznacza w postępowaniu sądowym pełnomocnika z urzędu.
+
+§ 2. Przepis § 1 stosuje się odpowiednio do wyznaczenia pełnomocnika w celu dokonania określonej czynności procesowej w toku postępowania sądowego.
+
+§ 3. O uprawnieniu do złożenia wniosku oraz o tym, że w zależności od wyniku procesu strona taka może być obciążona kosztami wyznaczenia pełnomocnika z urzędu, należy pouczyć ją przy doręczeniu zawiadomienia o terminie rozprawy albo posiedzenia, o którym mowa w art. 341 § 1, art. 343 § 5 oraz art. 343a.
+
+§ 4. Ponowne wyznaczenie pełnomocnika w trybie, o którym mowa w § 1 i 2, dopuszczalne jest jedynie w szczególnie uzasadnionych wypadkach.”;
+
+- **30)** po art. 93 dodaje się art. 93a w brzmieniu: „Art. 93a. § 1. W wypadkach określonych w ustawie referendarz sądowy może wydawać postanowienia lub zarządzenia.
+
+§ 2. Polecenia, które zgodnie z ustawą wydaje sąd, może wydawać także referendarz sądowy.
+
+§ 3. Od postanowień i zarządzeń wydanych przez referendarza sądowego może być wniesiony sprzeciw. Sprzeciw przysługuje stronom, a także osobie, której postanowienie bezpośrednio dotyczy, chyba że ustawa stanowi inaczej. W razie wniesienia sprzeciwu postanowienie lub zarządzenie traci moc.
+
+§ 4. Prezes sądu odmawia przyjęcia sprzeciwu, jeżeli został wniesiony po terminie lub przez osobę nieuprawnioną.”;
+
+- **31)** art. 95 otrzymuje brzmienie: „Art. 95. § 1. Sąd orzeka na rozprawie w wypadkach wskazanych w ustawie, a w innych – na posiedzeniu. Orzeczenia wydawane na posiedzeniu mogą zapadać również na rozprawie.
+
+§ 2. Referendarz sądowy wydaje postanowienia na posiedzeniu.”;
+
+- **32)** po art. 95 dodaje się art. 95a w brzmieniu: „Art. 95a. § 1. Posiedzenie odbywa się z wyłączeniem jawności, chyba że ustawa stanowi inaczej albo prezes sądu lub sąd zarządzi inaczej.
+
+§ 2. Jawne są posiedzenia, o których mowa w art. 339 § 3 pkt 1, 2 i 5, art. 340, art. 341, art. 343 § 5, art. 343a, art. 603, art. 607l § 1, art. 607s § 3, art. 611c § 4 i art. 611ti § 1.
+
+§ 3. Do posiedzeń, które odbywają się jawnie, przepisy rozdziału 42 stosuje się odpowiednio.”;
+
+- **33)** art. 97 otrzymuje brzmienie: „Art. 97. Jeżeli zachodzi potrzeba sprawdzenia okoliczności faktycznych przed wydaniem orzeczenia na posiedzeniu, sąd dokonuje tego sam albo w tym celu wyznacza sędziego ze składu orzekającego bądź zwraca się o wykonanie określonych czynności do sądu miejscowo właściwego. Jeżeli czynność nie wymaga przeprowadzenia dowodu, może ją wykonać także referendarz sądowy.”;
+- **34)** art. 100 otrzymuje brzmienie: „Art. 100. § 1. Orzeczenie lub zarządzenie wydane na rozprawie lub posiedzeniu, o którym mowa w art. 95a § 2, ogłasza się ustnie.
+
+§ 2. Orzeczenie lub zarządzenie wydane na innym posiedzeniu ogłasza się ustnie, jeżeli bierze w nim udział strona.
+
+§ 3. Wyrok wydany na rozprawie doręcza się stronom, a w wypadku wyroku warunkowo umarzającego postępowanie wydanego na posiedzeniu także pokrzywdzonemu, chyba że byli obecni przy jego ogłoszeniu.
+
+§ 4. Postanowienie albo zarządzenie, od którego przysługuje środek odwoławczy, doręcza się podmiotom uprawnionym do wniesienia tego środka, a postanowienie kończące postępowanie jego stronom, chyba że byli obecni przy ogłoszeniu postanowienia albo zarządzenia.
+
+§ 5. O treści innych postanowień i zarządzeń należy strony powiadomić.
+
+§ 6. Jeżeli ustawa nie zwalnia od równoczesnego sporządzenia uzasadnienia, orzeczenie doręcza się lub ogłasza wraz z uzasadnieniem. W wypadku określonym w art. 98 § 2 po ogłoszeniu postanowienia podaje się stronie najważniejsze powody rozstrzygnięcia, zaś doręczenie postanowienia następuje wraz z uzasadnieniem.
+
+§ 7. Jeżeli sprawę rozpoznano z wyłączeniem jawności ze względu na ważny interes państwa, zamiast uzasadnienia doręcza się zawiadomienie, że uzasadnienie zostało sporządzone.
+
+§ 8. Po ogłoszeniu lub przy doręczeniu orzeczenia należy pouczyć uczestników postępowania o przysługującym im prawie, terminie i sposobie wniesienia środka zaskarżenia lub o tym, że orzeczenie nie podlega zaskarżeniu.”;
+
+- **35)** w art. 107:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Sąd lub referendarz sądowy nadaje na żądanie osoby uprawnionej klauzulę wykonalności orzeczeniu podlegającemu wykonaniu w drodze egzekucji.”,
+    - **b)** § 3 otrzymuje brzmienie: „§ 3. Przepisy § 1 i 2 stosuje się odpowiednio do obowiązku wynikającego z ugody zawartej przed sądem lub referendarzem sądowym, a także ugody zawartej w postępowaniu mediacyjnym.”,
+    - **c)** dodaje się § 4 w brzmieniu: „§ 4. Sąd lub referendarz sądowy odmawia nadania klauzuli wykonalności ugodzie zawartej przed mediatorem, w całości lub w części, jeżeli ugoda jest sprzeczna z prawem lub zasadami współżycia społecznego albo zmierza do obejścia prawa.”;
+
+- **36)** w art. 117a § 2 otrzymuje brzmienie: „§ 2. Przepis § 1 stosuje się odpowiednio do pełnomocnika osoby niebędącej stroną, o której mowa w art. 87 § 2.”;
+- **37)** w art. 120 dodaje się § 3 w brzmieniu: „§ 3. W postępowaniu przed sądem zarządzenia w sprawach, o których mowa w § 1 i 2, może wydać także referendarz sądowy.”;
+- **38)** art. 124 otrzymuje brzmienie: „Art. 124. Termin jest zachowany, jeżeli przed jego upływem pismo zostało nadane w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, w polskim urzędzie konsularnym lub złożone przez żołnierza w dowództwie jednostki wojskowej albo przez osobę pozbawioną wolności w administracji odpowiedniego zakładu, a przez członka załogi polskiego statku morskiego – kapitanowi statku.”;
+- **39)** po art. 127 dodaje się art. 127a w brzmieniu: „Art. 127a. § 1. Jeżeli warunkiem skuteczności czynności procesowej jest jej dokonanie przez obrońcę lub pełnomocnika, termin do jej dokonania ulega zawieszeniu dla strony postępowania na czas rozpoznania wniosku o przyznanie pomocy prawnej w tym zakresie.
+
+§ 2. W wypadku wyznaczenia obrońcy lub pełnomocnika z urzędu termin do dokonania czynności przez wyznaczonego przedstawiciela procesowego rozpoczyna bieg od daty doręczenia mu postanowienia lub zarządzenia o tym wyznaczeniu.”;
+
+- **40)** w art. 132: 343a, art. 420 § 1, oraz doręczenia wyroku wydanego na posiedzeniu, o którym mowa w art. 341, art. 343 i art. 343a, oraz wyroku, o którym mowa w art. 500 § 1.”;
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. W razie chwilowej nieobecności adresata w jego mieszkaniu pismo doręcza się dorosłemu domownikowi. W razie nieobecności domownika pismo doręcza się administracji domu, dozorcy domu lub sołtysowi, jeżeli podejmą się oddać pismo adresatowi. Przepis art. 133 § 2 stosuje się odpowiednio.”,
+    - **b)** dodaje się § 4 w brzmieniu: „§ 4. Przepisów § 2 i 3 oraz art. 133 § 3 nie stosuje się do doręczenia oskarżonemu zawiadomienia o terminie pierwszej rozprawy głównej, terminie posiedzenia, o którym mowa w art. 341 § 1, art. 343 § 5, art.
+
+- **41)** w art. 133 § 2 otrzymuje brzmienie: „§ 2. O pozostawieniu pisma w myśl § 1 doręczający umieszcza zawiadomienie w skrzynce do doręczania korespondencji bądź na drzwiach mieszkania adresata lub w innym widocznym miejscu ze wskazaniem, gdzie i kiedy pismo pozostawiono oraz że należy je odebrać w ciągu 7 dni; w razie bezskutecznego upływu tego terminu, należy czynność zawiadomienia powtórzyć jeden raz. W razie dokonania tych czynności pismo uznaje się za doręczone.”;
+- **42)** w art. 139 § 1 otrzymuje brzmienie: „§ 1. Jeżeli strona, nie podając nowego adresu, zmienia miejsce zamieszkania lub nie przebywa pod wskazanym przez siebie adresem, w tym także z powodu pozbawienia wolności w innej sprawie, pismo wysłane pod tym adresem uważa się za doręczone.”;
+- **43)** w art. 143 w § 1 pkt 8 otrzymuje brzmienie: „8) końcowe zapoznanie się podejrzanego, pokrzywdzonego oraz obrońców i pełnomocników z materiałami postępowania przygotowawczego,”;
+- **44)** w art. 144 § 1 otrzymuje brzmienie: „§ 1. Protokół rozprawy spisuje pracownik sekretariatu lub inna osoba upoważniona przez prezesa sądu.”;
+- **45)** w art. 156:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Stronom, obrońcom, pełnomocnikom i przedstawicielom ustawowym udostępnia się akta sprawy sądowej i daje możność sporządzenia ich kopii. Za zgodą prezesa sądu akta te mogą być udostępnione również innym osobom.”,
+    - **b)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Podmiotom wskazanym w § 1 w toku postępowania sądowego udostępnia się na ich wniosek akta postępowania przygotowawczego w części, w jakiej nie zostały przekazane sądowi, także w celu utrwalenia ich w postaci elektronicznej.”,
+    - **c)** § 2–6 otrzymują brzmienie: „§ 2. Na wniosek oskarżonego lub jego obrońcy wydaje się odpłatnie kopie dokumentów z akt sprawy. Kopie takie wydaje się odpłatnie, na wniosek, również innym stronom, pełnomocnikom i przedstawicielom ustawowym. Zarządzenie w przedmiocie wniosku może wydać również referendarz sądowy. Od kopii wykonanej samodzielnie nie pobiera się opłaty.
+
+§ 3. Prezes sądu lub referendarz sądowy może w razie uzasadnionej potrzeby zarządzić wydanie odpłatnie uwierzytelnionych odpisów z akt sprawy.
+
+§ 4. Jeżeli zachodzi niebezpieczeństwo ujawnienia informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne”, przeglądanie akt, sporządzanie odpisów i kopii odbywa się z zachowaniem rygorów określonych przez prezesa sądu lub sąd. Uwierzytelnionych odpisów i kopii nie wydaje się, chyba że ustawa stanowi inaczej.
+
+§ 5. Jeżeli nie zachodzi potrzeba zabezpieczenia prawidłowego toku postępowania lub ochrony ważnego interesu państwa, w toku postępowania przygotowawczego stronom, obrońcom, pełnomocnikom i przedstawicielom ustawowym udostępnia się akta, umożliwia sporządzanie odpisów lub kopii oraz wydaje odpłatnie uwierzytelnione odpisy lub kopie; prawo to przysługuje stronom także po zakończeniu postępowania przygotowawczego. W przedmiocie udostępnienia akt, sporządzenia odpisów lub kopii lub wydania uwierzytelnionych odpisów lub kopii prowadzący postępowanie przygotowawcze wydaje zarządzenie. Za zgodą prokuratora akta w toku postępowania przygotowawczego mogą być w wyjątkowych wypadkach udostępnione innym osobom.
+
+§ 5a. W razie złożenia w toku postępowania przygotowawczego wniosku o zastosowanie albo przedłużenie tymczasowego aresztowania podejrzanemu i jego obrońcy udostępnia się niezwłocznie akta sprawy w części zawierającej treść dowodów wskazanych we wniosku.
+
+§ 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość opłaty za wydanie kopii dokumentów oraz uwierzytelnionych odpisów z akt sprawy, mając na uwadze koszt wykonania takich kopii i odpisów.”;
+
+- **46)** w art. 157 § 1 i 2 otrzymują brzmienie: „§ 1. Stronom oraz osobom, których orzeczenie bezpośrednio dotyczy, należy na ich żądanie nieodpłatnie wydać jeden uwierzytelniony odpis każdego orzeczenia. Odpis wydaje się z uzasadnieniem, jeżeli je sporządzono.
+
+§ 2. W sprawach, w których wyłączono jawność ze względu na ważny interes państwa, osobom, o których mowa w § 1, wydaje się tylko odpis orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia.”;
+
+- **47)** art. 159 otrzymuje brzmienie: „Art. 159. Na odmowę udostępnienia akt w postępowaniu przygotowawczym przysługuje stronom zażalenie; na zarządzenie prokuratora zażalenie przysługuje do sądu.”;
+- **48)** art. 162 otrzymuje brzmienie: „Art. 162. Prezes sądu lub referendarz sądowy wzywa strony do złożenia w oznaczonym terminie wniosków co do sposobu odtworzenia akt sprawy oraz przedstawienia dokumentów umożliwiających ich odtworzenie.”;
+- **49)** w art. 163 § 1 otrzymuje brzmienie: „§ 1. Prezes sądu lub referendarz sądowy wzywa osoby posiadające potrzebne dokumenty do ich przedstawienia sądowi, a w razie potrzeby prezes sądu zarządza ich przymusowe odebranie. Przepisy art. 217–236 stosuje się odpowiednio.”;
+- **50)** art. 164 otrzymuje brzmienie: „Art. 164. W celu odtworzenia akt sąd przeprowadza postępowanie, w tym również dowody, jakie uzna za konieczne. W szczególności sąd bierze pod uwagę wpisy do rejestrów karnych, repertoriów i innych ksiąg biurowych, utrwalenia dźwięku lub obrazu, notatki protokolantów, sędziów, ławników, prokuratorów, adwokatów lub radców prawnych, którzy uczestniczyli w rozprawie. Sąd może też przesłuchać w charakterze świadków wszystkich uczestników sprawy, której akta zaginęły lub uległy zniszczeniu, a także inne osoby, które mogą mieć wiadomości co do treści akt. Strony mają prawo wziąć udział w posiedzeniu.”;
+- **51)** art. 167 otrzymuje brzmienie: „Art. 167. § 1. W postępowaniu przed sądem, które zostało wszczęte z inicjatywy strony, dowody przeprowadzane są przez strony po ich dopuszczeniu przez prezesa sądu, przewodniczącego lub sąd. W razie niestawiennictwa strony, na której wniosek dowód został dopuszczony, a także w wyjątkowych wypadkach, uzasadnionych szczególnymi okolicznościami, dowód przeprowadza sąd w granicach tezy dowodowej. W wyjątkowych wypadkach, uzasadnionych szczególnymi okolicznościami, sąd może dopuścić i przeprowadzić dowód z urzędu.
+
+§ 2. W innym postępowaniu przed sądem niż wymienione w § 1 oraz w postępowaniu przygotowawczym dowody przeprowadzane są przez organ procesowy prowadzący postępowanie. Nie wyłącza to prawa do zgłoszenia wniosku dowodowego przez stronę.”;
+
+- **52)** po art. 168 dodaje się art. 168a w brzmieniu: „Art. 168a. Niedopuszczalne jest przeprowadzenie i wykorzystanie dowodu uzyskanego do celów postępowania karnego za pomocą czynu zabronionego, o którym mowa w art. 1 § 1 Kodeksu karnego.”;
+- **53)** w art. 171 § 2 otrzymuje brzmienie: „§ 2. Prawo zadawania pytań mają, oprócz podmiotu przesłuchującego, strony, obrońcy, pełnomocnicy, biegli oraz w wyjątkowych wypadkach, uzasadnionych szczególnymi okolicznościami, członkowie składu orzekającego. Pytania zadaje się osobie przesłuchiwanej bezpośrednio, chyba że sąd lub prokurator zarządzi inaczej.”;
+- **54)** w art. 178 pkt 1 otrzymuje brzmienie: „1) obrońcy albo adwokata lub radcy prawnego działającego na podstawie art. 245 § 1, co do faktów, o których dowiedział się udzielając porady prawnej lub prowadząc sprawę,”;
+- **55)** po art. 178 dodaje się art. 178a w brzmieniu: „Art. 178a. Nie wolno przesłuchiwać jako świadka mediatora co do faktów, o których dowiedział się od oskarżonego lub pokrzywdzonego prowadząc postępowanie mediacyjne, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 Kodeksu karnego.”;
+- **56)** w art. 180 § 1 otrzymuje brzmienie: „§ 1. Osoby obowiązane do zachowania w tajemnicy informacji niejawnych o klauzuli tajności „zastrzeżone” lub „poufne” lub tajemnicy związanej z wykonywaniem zawodu lub funkcji mogą odmówić zeznań co do okoliczności, na które rozciąga się ten obowiązek, chyba że sąd lub prokurator dla dobra wymiaru sprawiedliwości zwolni te osoby od obowiązku zachowania tajemnicy, jeżeli ustawy szczególne nie stanowią inaczej. Na postanowienie w tym przedmiocie przysługuje zażalenie.”;
+- **57)** w art. 202 § 5 otrzymuje brzmienie: „§ 5. Opinia biegłych powinna zawierać stwierdzenia dotyczące zarówno poczytalności oskarżonego w chwili popełnienia zarzucanego mu czynu, jak i jego aktualnego stanu zdrowia psychicznego, a zwłaszcza wskazanie, czy stan ten pozwala oskarżonemu na udział w postępowaniu i na prowadzenie obrony w sposób samodzielny i rozsądny, a w razie potrzeby także stwierdzenia co do okoliczności wymienionych w art. 93 Kodeksu karnego.”;
+- **58)** w art. 203 § 2 otrzymuje brzmienie: „§ 2. O potrzebie obserwacji w zakładzie leczniczym orzeka sąd, określając miejsce i czas trwania obserwacji. W postępowaniu przygotowawczym sąd orzeka na wniosek prokuratora. Przepisy art. 156 § 5a oraz art. 249 § 3 i 5 stosuje się odpowiednio.”;
+- **59)** w art. 204 § 2 otrzymuje brzmienie: „§ 2. Należy również wezwać tłumacza, jeżeli zachodzi potrzeba przełożenia na język polski pisma sporządzonego w języku obcym lub odwrotnie albo zapoznania strony z treścią przeprowadzanego dowodu.”;
+- **60)** w art. 209 § 4 otrzymuje brzmienie: „§ 4. Otwarcia zwłok dokonuje biegły lekarz, w miarę możności z zakresu medycyny sądowej, w obecności prokuratora albo sądu. W postępowaniu przed sądem art. 396 § 1 i 4 stosuje się odpowiednio.”;
+- **61)** w art. 231 § 1 otrzymuje brzmienie: „§ 1. Jeżeli powstaje wątpliwość, komu należy wydać zatrzymaną rzecz, sąd, referendarz sądowy lub prokurator składa ją do depozytu sądowego albo oddaje osobie godnej zaufania aż do wyjaśnienia uprawnienia do odbioru. Przepisy o likwidacji depozytów i nieodebranych rzeczy stosuje się odpowiednio.”;
+- **62)** w art. 232 § 1 otrzymuje brzmienie: „§ 1. Przedmioty ulegające szybkiemu zniszczeniu lub takie, których przechowywanie byłoby połączone z niewspółmiernymi kosztami lub nadmiernymi trudnościami albo powodowałoby znaczne obniżenie wartości rzeczy, można sprzedać według trybu określonego dla właściwych organów postępowania wykonawczego. Postanowienie w przedmiocie sprzedaży w postępowaniu przygotowawczym może wydać prokurator, a w postępowaniu sądowym sąd lub referendarz sądowy.”;
+- **63)** w art. 232a § 1–3 otrzymują brzmienie: „§ 1. Przedmioty i substancje stwarzające niebezpieczeństwo dla życia lub zdrowia, a w szczególności broń, amunicję, materiały wybuchowe lub łatwopalne, materiały radioaktywne, substancje trujące, duszące lub parzące, środki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1, a także wyroby tytoniowe i napoje alkoholowe, przechowuje się w miejscu i w sposób zapewniający ich należyte zabezpieczenie.
+
+§ 2. Jeżeli dla zapewnienia prawidłowego toku postępowania wystarczające jest przechowywanie próbek w ilości niezbędnej do przeprowadzenia badań przedmiotów lub substancji, o których mowa w § 1, sąd właściwy do rozpoznania sprawy lub referendarz sądowy na wniosek prokuratora, niezwłocznie zarządza zniszczenie w całości lub w części pozostałych ilości przedmiotów lub substancji zbędnych do przeprowadzenia badań.
+
+§ 3. Jeżeli sąd lub referendarz sądowy zarządził zniszczenie w części przedmiotów lub substancji, o których mowa w § 1, wskazuje jednocześnie w postanowieniu miejsce i czas przechowywania ich pozostałej części w ilości niezbędnej do przeprowadzenia badań.”;
+
+- **64)** art. 235 i art. 236 otrzymują brzmienie: „Art. 235. Sąd lub referendarz sądowy dokonuje czynności przewidzianych w tym rozdziale w postępowaniu sądowym, a prokurator w postępowaniu przygotowawczym, chyba że ustawa stanowi inaczej.
+
 **Art. 236.** Na postanowienie sądu lub prokuratora dotyczące przeszukania, zatrzymania rzeczy i w przedmiocie dowodów rzeczowych oraz na inne czynności przysługuje zażalenie osobom, których prawa zostały naruszone; zażalenie na postanowienie wydane lub czynność dokonaną w postępowaniu przygotowawczym rozpoznaje sąd rejonowy, w okręgu którego prowadzone jest postępowanie.”;
+
+- **65)** w art. 244:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Zatrzymanego należy natychmiast poinformować o przyczynach zatrzymania i o przysługujących mu prawach, w tym o prawie do skorzystania z pomocy adwokata lub radcy prawnego, oraz wysłuchać go.”,
+    - **b)** dodaje się § 5 w brzmieniu: „§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór pouczenia, o którym mowa w § 2, zawierającego w szczególności informacje o przysługujących zatrzymanemu uprawnieniach: do korzystania z bezpłatnej pomocy tłumacza, do złożenia oświadczenia i odmowy złożenia oświadczenia w przedmiocie zatrzymania, do otrzymania odpisu protokołu zatrzymania, do dostępu do pierwszej pomocy medycznej, jak również prawach wskazanych w § 2, w art. 245, art. 246 § 1, art. 248 § 1 i 2 oraz art. 612 § 2, mając na względzie konieczność zrozumienia pouczenia także przez osoby niekorzystające z pomocy pełnomocnika.”;
+
+- **66)** art. 245 otrzymuje brzmienie: „Art. 245. § 1. Zatrzymanemu na jego żądanie należy niezwłocznie umożliwić nawiązanie w dostępnej formie kontaktu z adwokatem lub radcą prawnym, a także bezpośrednią z nimi rozmowę; w wyjątkowych wypadkach, uzasadnionych szczególnymi okolicznościami, zatrzymujący może zastrzec, że będzie przy niej obecny.
+
+§ 2. Przepisy art. 261 stosuje się odpowiednio, z tym że zawiadomienie następuje na żądanie zatrzymanego.”;
+
+- **67)** art. 247 otrzymuje brzmienie: „Art. 247. § 1. Prokurator może zarządzić zatrzymanie i przymusowe doprowadzenie osoby podejrzanej albo podejrzanego, jeżeli zachodzi uzasadniona obawa, że:
+- **1)** nie stawią się na wezwanie w celu przeprowadzenia z ich udziałem czynności, o których mowa w art. 313 § 1 lub art. 314, albo badań lub czynności, o których mowa w art. 74 § 2 lub 3,
+- **2)** mogą w inny bezprawny sposób utrudniać postępowanie.
+
+§ 2. Zatrzymanie i przymusowe doprowadzenie, o którym mowa w § 1, może także nastąpić, gdy zachodzi potrzeba niezwłocznego zastosowania środka zapobiegawczego.
+
+§ 3. W związku z zatrzymaniem można też zarządzić przeszukanie. Przepisy art. 220–222 i art. 224 stosuje się odpowiednio.
+
+§ 4. Niezwłocznie po doprowadzeniu przeprowadza się z udziałem zatrzymanego czynności wskazane w § 1, a po ich dokonaniu należy zwolnić go, o ile nie zachodzi potrzeba stosowania środka zapobiegawczego.
+
+§ 5. Rozstrzygając w przedmiocie środka zapobiegawczego, prokurator niezwłocznie zwalnia zatrzymanego albo występuje do sądu z wnioskiem o zastosowanie tymczasowego aresztowania.
+
+§ 6. Do zatrzymania, o którym mowa w § 1, stosuje się odpowiednio art.
+
+246.
+
+§ 7. Zarządzenia, o których mowa w § 1, wykonuje Policja lub inne organy, o których mowa w art. 312, w zakresie swych właściwości, jeżeli ustawa uprawnia je do zatrzymywania osoby. Zarządzenia dotyczące zatrzymania i przymusowego doprowadzenia żołnierza w czynnej służbie wojskowej wykonują właściwe organy wojskowe.”;
+
+- **68)** w art. 249 § 5 otrzymuje brzmienie: „§ 5. Prokurator i obrońca mają prawo wziąć udział w posiedzeniu sądu dotyczącym przedłużenia stosowania tymczasowego aresztowania oraz rozpoznania zażalenia na zastosowanie lub przedłużenie tego środka zapobiegawczego. Na żądanie oskarżonego, który nie ma obrońcy, wyznacza się do tej czynności obrońcę z urzędu. Zarządzenie może wydać także referendarz sądowy. Niestawiennictwo obrońcy lub prokuratora należycie zawiadomionych o terminie nie tamuje rozpoznania sprawy.”;
+- **69)** po art. 249 dodaje się art. 249a w brzmieniu: „Art. 249a. Podstawę orzeczenia o zastosowaniu lub przedłużeniu tymczasowego aresztowania mogą stanowić jedynie ustalenia poczynione na podstawie dowodów jawnych dla oskarżonego i jego obrońcy. Sąd uwzględnia z urzędu także okoliczności, których prokurator nie ujawnił, po ich ujawnieniu na posiedzeniu, jeżeli są one korzystne dla oskarżonego.”;
+- **70)** w art. 250 po § 2 dodaje się § 2a w brzmieniu: „§ 2a. We wniosku o zastosowanie tymczasowego aresztowania wymienia się dowody wskazujące na duże prawdopodobieństwo, że oskarżony popełnił przestępstwo, okoliczności przemawiające za istnieniem zagrożeń dla prawidłowego toku postępowania lub możliwości popełnienia przez oskarżonego nowego, ciężkiego przestępstwa lub określonej podstawy stosowania tego środka zapobiegawczego i konieczności jego stosowania.”;
+- **71)** w art. 251 § 3 otrzymuje brzmienie: „§ 3. Uzasadnienie postanowienia o zastosowaniu środka zapobiegawczego powinno zawierać przedstawienie dowodów świadczących o popełnieniu przez oskarżonego przestępstwa, wykazanie okoliczności wskazujących na istnienie zagrożeń dla prawidłowego toku postępowania lub możliwości popełnienia przez oskarżonego nowego, ciężkiego przestępstwa w razie niezastosowania środka zapobiegawczego lub określonej podstawy jego zastosowania i potrzeby zastosowania danego środka. W wypadku tymczasowego aresztowania należy ponadto wyjaśnić, dlaczego nie uznano za wystarczające zastosowanie innego środka zapobiegawczego.”;
+- **72)** w art. 252:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Na postanowienie w przedmiocie środka zapobiegawczego przysługuje zażalenie na zasadach ogólnych, chyba że ustawa stanowi inaczej.”,
+    - **b)** § 3 otrzymuje brzmienie: „§ 3. Zażalenie na postanowienie w przedmiocie środka zapobiegawczego sąd rozpoznaje niezwłocznie, z tym że zażalenie na postanowienie w przedmiocie tymczasowego aresztowania nie później niż przed upływem 7 dni od przekazania sądowi zażalenia wraz z niezbędnymi aktami.”;
+
+- **73)** w art. 254 § 2 otrzymuje brzmienie: „§ 2. Na postanowienie w przedmiocie wniosku o uchylenie lub zmianę tymczasowego aresztowania oskarżonemu przysługuje zażalenie tylko wtedy, gdy wniosek został złożony po upływie co najmniej 3 miesięcy od dnia wydania postanowienia w przedmiocie tymczasowego aresztowania.”;
+- **74)** w art. 257 § 2 otrzymuje brzmienie: „§ 2. Stosując tymczasowe aresztowanie, sąd może zastrzec, że środek ten ulegnie zmianie z chwilą złożenia, nie później niż w wyznaczonym terminie, określonego poręczenia majątkowego; na uzasadniony wniosek oskarżonego lub jego obrońcy, złożony najpóźniej w ostatnim dniu wyznaczonego terminu, sąd może przedłużyć termin złożenia poręczenia.”;
+- **75)** art. 258 otrzymuje brzmienie: „Art. 258. § 1. Tymczasowe aresztowanie i pozostałe środki zapobiegawcze można stosować, jeżeli zachodzi:
+- **1)** uzasadniona obawa ucieczki lub ukrycia się oskarżonego, zwłaszcza wtedy, gdy nie można ustalić jego tożsamości albo nie ma on w kraju stałego miejsca pobytu,
+- **2)** uzasadniona obawa, że oskarżony będzie nakłaniał do składania fałszywych zeznań lub wyjaśnień albo w inny bezprawny sposób utrudniał postępowanie karne.
+
+§ 2. Wobec oskarżonego, któremu zarzucono popełnienie zbrodni lub występku zagrożonego karą pozbawienia wolności, której górna granica wynosi co najmniej 8 lat, albo którego sąd pierwszej instancji skazał na karę pozbawienia wolności wyższą niż 3 lata, obawy utrudniania prawidłowego toku postępowania, o których mowa w § 1, uzasadniające stosowanie środka zapobiegawczego, mogą wynikać także z surowości grożącej oskarżonemu kary.
+
+§ 3. Środek zapobiegawczy można wyjątkowo zastosować także wtedy, gdy zachodzi uzasadniona obawa, że oskarżony, któremu zarzucono popełnienie zbrodni lub umyślnego występku, popełni przestępstwo przeciwko życiu, zdrowiu lub bezpieczeństwu powszechnemu, zwłaszcza gdy popełnieniem takiego przestępstwa groził.
+
+§ 4. Decydując o zastosowaniu określonego środka zapobiegawczego, uwzględnia się rodzaj i charakter obaw wskazanych w § 1–3, przyjętych za podstawę stosowania danego środka oraz nasilenie ich zagrożenia dla prawidłowego przebiegu postępowania w określonym jego stadium.”;
+
+- **76)** w art. 259 § 3 otrzymuje brzmienie: „§ 3. Tymczasowe aresztowanie nie może być stosowane, jeżeli przestępstwo jest zagrożone karą pozbawienia wolności nieprzekraczającą 2 lat.”;
+- **77)** art. 260 otrzymuje brzmienie: „Art. 260. § 1. Jeżeli stan zdrowia oskarżonego tego wymaga, tymczasowe aresztowanie może być wykonywane tylko w postaci umieszczenia w odpowiednim zakładzie leczniczym, w tym w zakładzie psychiatrycznym lub zakładzie leczenia odwykowego.
+
+§ 2. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, wykaz zakładów leczniczych, w tym psychiatrycznych i leczenia odwykowego, przeznaczonych do wykonywania tymczasowego aresztowania stosowanego wobec osób, których stan zdrowia wymaga umieszczenia w takim zakładzie, oraz warunki zabezpieczenia tych zakładów uniemożliwiające samowolne wydalenie się z nich tymczasowo aresztowanych oraz umożliwiające izolowanie ich ze względów bezpieczeństwa, przy zapewnieniu dostępu do tymczasowo aresztowanych przez organy prowadzące postępowanie karne, mając na uwadze potrzebę zapewnienia prawidłowego toku postępowania oraz tryb i warunki umieszczenia, pobytu i leczenia tymczasowo aresztowanych w takim zakładzie, mając na uwadze niezbędne wyposażenie medyczne oraz warunki techniczne i organizacyjne tych zakładów.”;
+
+- **78)** w art. 261 po § 2 dodaje się § 2a w brzmieniu: „§ 2a. O zastosowaniu tymczasowego aresztowania sąd zawiadamia organ prowadzący przeciwko oskarżonemu postępowanie w innej sprawie, o ile powziął informację o tym postępowaniu. Sąd poucza oskarżonego o treści art. 75 § 1.”;
+- **79)** w art. 263:
+    - **a)** dodaje się § 4b w brzmieniu: „§ 4b. Przedłużenia stosowania tymczasowego aresztowania, o którym mowa w § 4, nie stosuje się w odniesieniu do terminu określonego w § 2, gdy kara realnie grożąca oskarżonemu za zarzucane mu przestępstwo nie przekroczy 3 lat pozbawienia wolności, a w stosunku do terminu wskazanego w § 3, gdy nie przekroczy ona 5 lat pozbawienia wolności, chyba że konieczność takiego przedłużenia jest spowodowana celowym przewlekaniem postępowania przez oskarżonego.”,
+    - **b)** dodaje się § 8 w brzmieniu: „§ 8. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór pouczenia o przysługujących oskarżonemu w wypadku zastosowania tymczasowego aresztowania uprawnieniach: do składania wyjaśnień, do odmowy składania wyjaśnień lub odmowy odpowiedzi na pytania, do informacji o treści stawianych zarzutów, do przeglądania akt w części zawierającej treść dowodów wskazanych we wniosku o tymczasowe aresztowanie, do dostępu do pierwszej pomocy medycznej, jak również uprawnieniach wskazanych w art. 72 § 1, art. 78 § 1, art. 249 § 5, art. 252, art. 254 § 1 i 2, art. 261 § 1, 2 i 2a oraz art. 612 § 1, mając na względzie konieczność zrozumienia pouczenia także przez osoby niekorzystające z pomocy pełnomocnika.”;
+
+- **80)** w art. 264 § 3 otrzymuje brzmienie: „§ 3. W wypadku prawomocnego orzeczenia środka zabezpieczającego polegającego na umieszczeniu sprawcy w zakładzie zamkniętym można zastosować tymczasowe aresztowanie do czasu rozpoczęcia wykonywania środka, jednak nie dłużej niż na okres 3 miesięcy, z możliwością jednorazowego przedłużenia w szczególnie uzasadnionym wypadku na kolejny miesiąc. Tymczasowe aresztowanie wykonuje się w warunkach umożliwiających stosowanie odpowiedniego postępowania leczniczego, terapeutycznego, rehabilitacyjnego oraz resocjalizacyjnego.”;
+- **81)** w art. 268 po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Orzekając w przedmiocie przepadku lub ściągnięcia wartości majątkowych stanowiących przedmiot poręczenia, sąd może orzec częściowy przepadek lub ściągnięcie tych wartości, stosując wówczas wobec oskarżonego ponadto inny jeszcze środek zapobiegawczy, z uwzględnieniem wymogów art. 258 § 4, z wyjątkiem tymczasowego aresztowania.”;
+- **82)** w art. 279 dodaje się § 3 w brzmieniu: „§ 3. W razie ujęcia i zatrzymania osoby ściganej listem gończym należy niezwłocznie doprowadzić ją do sądu, który wydał postanowienie o tymczasowym aresztowaniu, w celu rozstrzygnięcia przez sąd o utrzymaniu, zmianie lub uchyleniu tego środka, chyba że prokurator po przesłuchaniu zatrzymanego zmienił już środek zapobiegawczy lub uchylił tymczasowe aresztowanie. Przepis art. 344 zdanie drugie stosuje się odpowiednio.”;
+- **83)** w art. 285 § 2 otrzymuje brzmienie: „§ 2. W wypadkach określonych w § 1 można ponadto zarządzić zatrzymanie i przymusowe doprowadzenie świadka. Zatrzymanie i przymusowe doprowadzenie biegłego, tłumacza i specjalisty stosuje się tylko wyjątkowo. W stosunku do żołnierza stosuje się art. 247 § 7.”;
+- **84)** art. 291 otrzymuje brzmienie: „Art. 291. § 1. W razie zarzucenia oskarżonemu popełnienia przestępstwa, za które można orzec grzywnę, przepadek, nawiązkę lub świadczenie pieniężne albo nałożyć obowiązek naprawienia szkody lub zadośćuczynienia za doznaną krzywdę, może z urzędu nastąpić zabezpieczenie wykonania orzeczenia na mieniu oskarżonego, jeżeli zachodzi uzasadniona obawa, że bez takiego zabezpieczenia wykonanie orzeczenia w zakresie wskazanej kary i środków karnych będzie niemożliwe albo znacznie utrudnione.
+
+§ 2. W razie zarzucenia oskarżonemu popełnienia przestępstwa przeciwko mieniu lub wyrządzenia przestępstwem szkody w mieniu, może z urzędu nastąpić na mieniu oskarżonego zabezpieczenie roszczeń o naprawienie szkody, jeżeli zachodzi uzasadniona obawa, że bez takiego zabezpieczenia wykonanie orzeczenia uwzględniającego takie roszczenia będzie niemożliwe albo znacznie utrudnione.
+
+§ 3. Z urzędu może także nastąpić na mieniu oskarżonego zabezpieczenie wykonania orzeczenia o kosztach sądowych, jeżeli zachodzi uzasadniona obawa, że bez takiego zabezpieczenia wykonanie orzeczenia w tym zakresie będzie niemożliwe albo znacznie utrudnione.
+
+§ 4. Na mieniu strony, o której mowa w rozdziale 8a, może nastąpić z urzędu zabezpieczenie wykonania orzeczenia zwrotu korzyści majątkowej, jeżeli zachodzi uzasadniona obawa, że bez takiego zabezpieczenia wykonanie obowiązku zwrotu tej korzyści będzie niemożliwe albo znacznie utrudnione.
+
+§ 5. Zabezpieczenie majątkowe należy niezwłocznie uchylić w całości lub w części, jeżeli ustaną przyczyny, wskutek których zostało ono zastosowane w określonym rozmiarze, lub powstaną przyczyny uzasadniające jego uchylenie choćby w części.”;
+
+- **85)** w art. 292 § 1 otrzymuje brzmienie: „§ 1. Zabezpieczenie następuje w sposób wskazany w przepisach Kodeksu postępowania cywilnego, chyba że ustawa stanowi inaczej.”;
+- **86)** art. 293 otrzymuje brzmienie: „Art. 293. § 1. Postanowienie o zabezpieczeniu majątkowym wydaje sąd, a w postępowaniu przygotowawczym prokurator.
+
+§ 2. W postanowieniu określa się kwotowo zakres i sposób zabezpieczenia, uwzględniając rozmiar możliwej do orzeczenia w okolicznościach danej sprawy grzywny, środków karnych, obowiązków, roszczeń lub kosztów, o których mowa w art. 291 § 1–4. Rozmiar zabezpieczenia powinien odpowiadać jedynie potrzebom tego, co ma zabezpieczać. Wymóg kwotowego określenia zabezpieczenia nie dotyczy zabezpieczenia na zajętym przedmiocie podlegającym przepadkowi, jako pochodzącym bezpośrednio z przestępstwa lub służącym albo przeznaczonym do jego popełnienia.
+
+§ 3. Na postanowienie w przedmiocie zabezpieczenia przysługuje zażalenie.
+
+§ 4. Jeżeli postanowienie wydał prokurator, a postępowanie przygotowawcze prowadzone jest w okręgu innego sądu niż sąd miejscowo i rzeczowo właściwy, zażalenie przysługuje do sądu właściwego do rozpoznania tej sprawy w pierwszej instancji.
+
+§ 5. Klauzulę wykonalności postanowieniu o zabezpieczeniu nadaje referendarz sądowy lub sąd pierwszej instancji właściwy do rozpoznania sprawy, w której wydano to postanowienie, a gdy wydano je w postępowaniu przygotowawczym prowadzonym w okręgu innego sądu niż sąd rzeczowo i miejscowo właściwy, sąd, który jest właściwy na zasadach ogólnych, lub referendarz tego sądu. Nadanie klauzuli postanowieniu, o którym mowa w art. 291 § 1, jest nieodpłatne.
+
+§ 6. Jeżeli zabezpieczenie nastąpiło na rzeczach, które uprzednio oskarżony wydał organowi procesowemu lub które zatrzymano w wyniku czynności, o których mowa w rozdziale 25, nie podejmuje się czynności egzekucyjnych dla uzyskania klauzuli wykonalności i wykonania postanowienia o zabezpieczeniu.”;
+
+- **87)** w art. 297 w § 1 pkt 5 otrzymuje brzmienie: „5) zebranie, zabezpieczenie i utrwalenie dowodów w zakresie niezbędnym do stwierdzenia zasadności wniesienia aktu oskarżenia albo innego zakończenia postępowania, jak również do przedstawienia wniosku o dopuszczenie tych dowodów i przeprowadzenie ich przed sądem.”;
+- **88)** art. 300 otrzymuje brzmienie: „Art. 300. § 1. Przed pierwszym przesłuchaniem należy pouczyć podejrzanego o jego uprawnieniach: do składania wyjaśnień, do odmowy składania wyjaśnień lub odmowy odpowiedzi na pytania, do informacji o treści zarzutów i ich zmianach, do składania wniosków o dokonanie czynności śledztwa lub dochodzenia, do korzystania z pomocy obrońcy, w tym do wystąpienia o obrońcę z urzędu w wypadku określonym w art. 78, do końcowego zapoznania się z materiałami postępowania przygotowawczego, jak również o uprawnieniach określonych w art. 23a § 1, art. 72 § 1 i art. 301 oraz o obowiązkach i konsekwencjach wskazanych w art. 74, art. 75, art. 133 § 2, art. 138 i art. 139. Pouczenie należy wręczyć podejrzanemu na piśmie; podejrzany otrzymanie pouczenia potwierdza podpisem.
+
+§ 2. Przed pierwszym przesłuchaniem poucza się pokrzywdzonego o posiadaniu statusu strony procesowej w postępowaniu przygotowawczym oraz o wynikających z tego uprawnieniach, w szczególności: do składania wniosków o dokonanie czynności śledztwa lub dochodzenia i warunkach uczestniczenia w tych czynnościach, określonych w art. 51, art. 52 i art. 315–318, do korzystania z pomocy pełnomocnika, w tym do złożenia wniosku o wyznaczenie pełnomocnika z urzędu w okolicznościach wskazanych w art. 78, do końcowego zapoznania się z materiałami postępowania przygotowawczego, jak również o uprawnieniach określonych w art. 23a § 1, art. 87a i art. 306 oraz o obowiązkach i konsekwencjach wskazanych w art. 138 i art. 139. Pouczenie należy wręczyć pokrzywdzonemu na piśmie; pokrzywdzony otrzymanie pouczenia potwierdza podpisem.
+
+§ 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory pisemnych pouczeń, o których mowa w § 1 i 2, mając na względzie konieczność zrozumienia pouczenia także przez osoby niekorzystające z pomocy pełnomocnika.”;
+
+- **89)** w art. 304 § 3 otrzymuje brzmienie: „§ 3. Zawiadomienie o przestępstwie lub własne dane świadczące o popełnieniu takiego przestępstwa, co do którego obowiązkowe jest prowadzenie śledztwa przez prokuratora, Policja przekazuje wraz z zebranym materiałem niezwłocznie prokuratorowi.”;
+- **90)** art. 311 otrzymuje brzmienie: „Art. 311. § 1. Śledztwo prowadzi prokurator.
+
+§ 2. Prokurator może powierzyć Policji przeprowadzenie śledztwa w całości lub w określonym zakresie albo dokonanie poszczególnych czynności śledztwa; w wypadkach określonych w art. 309 pkt 2 i 3 można powierzyć Policji jedynie dokonanie poszczególnych czynności śledztwa.
+
+§ 3. Utrwalanie przesłuchania świadków przez Policję następuje w formie protokołu ograniczonego do zapisu najbardziej istotnych oświadczeń osób biorących udział w czynności. Przepisu art. 148 § 2 zdanie pierwsze nie stosuje się.
+
+§ 4. W sytuacji, o której mowa w § 2, Policja może dokonać innych czynności, jeżeli wyłoni się taka potrzeba.
+
+§ 5. W sytuacji, o której mowa w § 4, Policja utrwala wypowiedzi świadka w formie notatki urzędowej. W wypadkach niecierpiących zwłoki Policja może sporządzić protokół, o którym mowa w § 3.
+
+§ 6. Prokurator może zastrzec do osobistego wykonania jakąkolwiek czynność śledztwa.
+
+§ 7. W toku powierzonego śledztwa, Policja występuje z wnioskiem do prokuratora o przesłuchanie świadka, jeżeli jego zeznania mogą mieć szczególne znaczenie dla procesu.”;
+
+- **91)** w art. 312 pkt 1 otrzymuje brzmienie: „1) organom Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Służby Celnej, Centralnego Biura Antykorupcyjnego oraz Żandarmerii Wojskowej, w zakresie ich właściwości,”;
+- **92)** w art. 313 § 3 otrzymuje brzmienie: „§ 3. Podejrzany może do czasu zawiadomienia go o terminie zapoznania się z materiałami śledztwa żądać podania mu ustnie podstaw zarzutów, a także sporządzenia uzasadnienia na piśmie, o czym należy go pouczyć. Uzasadnienie doręcza się podejrzanemu i ustanowionemu obrońcy w terminie 14 dni.”;
+- **93)** art. 321 otrzymuje brzmienie: „Art. 321. § 1. Jeżeli istnieją podstawy do zamknięcia śledztwa, na wniosek podejrzanego, pokrzywdzonego, obrońcy lub pełnomocnika o umożliwienie końcowego zapoznania się z materiałami postępowania, prowadzący postępowanie powiadamia wnioskującego o możliwości przejrzenia akt i wyznacza mu termin do zapoznania się z nimi, zapewniając udostępnienie mu akt sprawy wraz z informacją, jakie materiały z tych akt, stosownie do wymogów określonych w art. 334 § 1, będą przekazane sądowi wraz z aktem oskarżenia, i pouczeniem go o uprawnieniu wskazanym w § 5, co odnotowuje się w protokole końcowego zapoznania się strony, obrońcy lub pełnomocnika z materiałami postępowania.
+
+§ 2. Prokurator może ograniczyć liczbę pokrzywdzonych, którym umożliwi końcowe zapoznanie się z materiałami postępowania, o którym mowa w § 1, jeżeli jest to konieczne dla zabezpieczenia prawidłowego toku postępowania. Przepis § 1 stosuje się odpowiednio, przy czym nie sporządza się protokołu.
+
+§ 3. Termin zapoznania się strony, obrońcy i pełnomocnika z materiałami śledztwa powinien być tak wyznaczony, aby od dnia doręczenia zawiadomienia o możliwości takiego zapoznania się upłynęło co najmniej 7 dni.
+
+§ 4. Nieusprawiedliwione niestawiennictwo podejrzanego, pokrzywdzonego, obrońcy i pełnomocnika w wyznaczonym terminie mimo prawidłowego doręczenia im zawiadomienia nie tamuje dalszego postępowania.
+
+§ 5. W terminie 3 dni od dnia zapoznania się z materiałami postępowania strony, obrońcy lub pełnomocnicy mogą składać wnioski o uzupełnienie śledztwa, a także o uzupełnienie materiału dowodowego, który ma być przekazany sądowi wraz z aktem oskarżenia, o określone dokumenty zawarte w aktach sprawy.
+
+§ 6. Jeżeli nie zachodzi potrzeba uzupełnienia śledztwa, wydaje się postanowienie o jego zamknięciu.”;
+
+- **94)** w art. 324 po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Do wniosku, o którym mowa w § 1, stosuje się odpowiednio art. 331 § 1 i 4, art. 332, art. 333 § 1–3 i art. 334 § 1, a przekazując wniosek do sądu, prokurator informuje o tym ujawnionego pokrzywdzonego.”;
+- **95)** w art. 325a § 1 otrzymuje brzmienie: „§ 1. Dochodzenie prowadzi Policja lub organy, o których mowa w art. 312, chyba że ze względu na wagę lub zawiłość sprawy prokurator postanowi o prowadzeniu w sprawie własnego dochodzenia.”;
+- **96)** w art. 325b: 155, art. 156 § 2, art. 157a § 1, art. 165 § 2, art. 168, art. 174 § 2, art. 175, art. 181–184, art. 186, art. 201, art. 231 § 1 i 3, art. 240 § 1, art. 250a § 1– 3, art. 265 § 3 oraz w rozdziale XXXVI, z wyjątkiem art. 297 i art. 300, i rozdziale XXXVII Kodeksu karnego.”;
+    - **a)** w § 1: – pkt 1 otrzymuje brzmienie: „1) zagrożone karą nieprzekraczającą 5 lat pozbawienia wolności, z tym że w wypadku przestępstw przeciwko mieniu tylko wówczas, gdy wartość przedmiotu przestępstwa albo szkoda wyrządzona lub grożąca nie przekracza 200 000 zł,”, – pkt 3 otrzymuje brzmienie: „3) przewidziane w art. 279 § 1, art. 286 § 1 i 2 oraz w art. 289 § 2 Kodeksu karnego, jeżeli wartość przedmiotu przestępstwa albo szkoda wyrządzona lub grożąca nie przekracza 200 000 zł.”,
+    - **b)** § 2 otrzymuje brzmienie: „§ 2. Spośród spraw o przestępstwa wymienione w § 1 pkt 1 nie prowadzi się dochodzenia w sprawach o przestępstwa określone w art.
+
+- **97)** uchyla się art. 325c;
+- **98)** art. 325d otrzymuje brzmienie: „Art. 325d. Minister Sprawiedliwości w porozumieniu z właściwymi ministrami określi, w drodze rozporządzenia, organy uprawnione obok Policji do prowadzenia dochodzeń oraz organy uprawnione do wnoszenia i popierania oskarżenia przed sądem pierwszej instancji w sprawach, w których prowadzono dochodzenie, jak również zakres spraw zleconych tym organom, mając na uwadze określony przez ustawę zakres kompetencji tych organów.”;
+- **99)** w art. 325e:
+    - **a)** po § 1a dodaje się § 1b w brzmieniu: „§ 1b. W razie złożenia wniosku, o którym mowa w art. 59a Kodeksu karnego, postanowienie o umorzeniu dochodzenia wydaje prokurator.”,
+    - **b)** § 2 otrzymuje brzmienie: „§ 2. Postanowienia, o których mowa w § 1, nie wymagają zatwierdzenia przez prokuratora, z wyjątkiem postanowienia o umorzeniu dochodzenia prowadzonego przeciwko osobie i postanowienia o zawieszeniu postępowania. Prokurator stosuje art. 323; nie dotyczy to sprawy, którą po umorzeniu wpisano do rejestru przestępstw.”,
+    - **c)** uchyla się § 3,
+    - **d)** § 4 otrzymuje brzmienie: „§ 4. Zażalenie na postanowienie o odmowie wszczęcia dochodzenia oraz o umorzeniu dochodzenia i wpisaniu sprawy do rejestru przestępstw wnosi się do prokuratora właściwego do sprawowania nadzoru nad dochodzeniem. Jeżeli prokurator nie przychyli się do zażalenia, kieruje je do sądu.”;
+
+- **100)** w art. 325f uchyla się § 4;
+- **101)** w art. 325i: Prokurator może przedłużyć ten okres do 3 miesięcy, a w uzasadnionych wypadkach – na dalszy czas oznaczony, nie dłuższy jednak niż rok. W wyjątkowych wypadkach, uzasadnionych szczególnymi okolicznościami, prokurator bezpośrednio przełożony nad prokuratorem prowadzącym lub nadzorującym dochodzenie może przedłużyć jego okres na dalszy czas oznaczony.”,
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Dochodzenie powinno być ukończone w ciągu 2 miesięcy.
+    - **b)** uchyla się § 2;
+
+- **102)** art. 332 otrzymuje brzmienie: „Art. 332. § 1. Akt oskarżenia powinien zawierać:
+- **1)** imię i nazwisko oskarżonego, inne dane o jego osobie, dane o zastosowaniu środka zapobiegawczego oraz zabezpieczenia majątkowego,
+- **2)** dokładne określenie zarzucanego oskarżonemu czynu ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz skutków, a zwłaszcza wysokości powstałej szkody,
+- **3)** wskazanie, że czyn został popełniony w warunkach wymienionych w art. 64 lub art. 65 Kodeksu karnego albo art. 37 § 1 Kodeksu karnego skarbowego,
+- **4)** wskazanie przepisów ustawy karnej, pod które zarzucany czyn podpada,
+- **5)** wskazanie sądu właściwego do rozpoznania sprawy i trybu postępowania,
+- **6)** informację o złożeniu przez pokrzywdzonego wniosku, o którym mowa w art. 59a Kodeksu karnego.
+
+§ 2. Do aktu oskarżenia można dołączyć jego uzasadnienie, w którym przytacza się fakty i dowody, na których oskarżenie się opiera, a w miarę potrzeby wyjaśnia podstawę prawną oskarżenia i omawia okoliczności, na które powołuje się oskarżony w swej obronie.”;
+
+- **103)** w art. 333:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Akt oskarżenia powinien także zawierać wykaz dowodów, o których przeprowadzenie podczas rozprawy głównej oskarżyciel wnosi, wraz z określeniem dla każdego dowodu, jakie okoliczności mają być udowodnione, a w razie potrzeby także wraz ze wskazaniem sposobu i kolejności przeprowadzenia dowodów. Wykaz powinien być usystematyzowany według rodzajów czynności dowodowych, w szczególności zawierać odrębne listy:
+
+- **1)** osób, których wezwania na rozprawę oskarżyciel żąda,
+- **2)** dokumentów, których odczytania, odtworzenia bądź ujawnienia domaga się oskarżyciel,
+- **3)** dowodów rzeczowych, podlegających oględzinom.”,
+    - **b)** § 4 otrzymuje brzmienie: „§ 4. Jeżeli dane uzyskane w toku postępowania przygotowawczego wskazują na istnienie podstaw do nałożenia na określony podmiot zobowiązania, o którym mowa w art. 52 Kodeksu karnego, prokurator dołącza do aktu oskarżenia wniosek o takie zobowiązanie, wnosząc też o zawiadomienie tego podmiotu o terminie rozprawy. Wniosek powinien zawierać uzasadnienie.”;
+
+- **104)** art. 334 i art. 335 otrzymują brzmienie: „Art. 334. § 1. Z aktem oskarżenia przekazuje się sądowi jedynie materiały postępowania przygotowawczego związane z kwestią odpowiedzialności osób wskazanych w tym akcie za czyny w nim zarzucane, obejmujące:
+- **1)** postanowienia i zarządzenia dotyczące tych osób wydane w toku postępowania,
+- **2)** protokoły z czynności dowodowych i załączniki do nich przewidziane przez ustawę,
+- **3)** opinie i dokumenty urzędowe i prywatne uzyskane lub złożone do akt sprawy.
+
+§ 2. Na żądanie strony, zgłoszone w trybie wskazanym w art. 321 § 5, oskarżyciel publiczny dołącza do aktu oskarżenia również inne, wskazane w tym żądaniu, materiały postępowania przygotowawczego.
+
+§ 3. Protokoły przesłuchania świadków, których wezwania na rozprawę żąda oskarżyciel, przekazuje się sądowi w wyodrębnionym zbiorze dokumentów.
+
+§ 4. Do aktu oskarżenia dołącza się także po jednym odpisie tego aktu dla każdego oskarżonego.
+
+§ 5. Jeżeli do aktu oskarżenia dołączono wniosek, o którym mowa w art. 333 § 4, dołącza się do niego także po jednym odpisie tego wniosku dla podmiotu, którego on dotyczy, oraz dla oskarżonego, któremu zarzuca się przestępstwo, z którego podmiot ten miał uzyskać korzyść majątkową, a także odpis aktu oskarżenia dla podmiotu, którego ten wniosek dotyczy.
+
+§ 6. O przesłaniu aktu oskarżenia do sądu oraz o treści przepisów art. 335, art. 338a i art. 387 oskarżyciel publiczny zawiadamia oskarżonego i ujawnionego pokrzywdzonego, a także osobę lub instytucję, która złożyła zawiadomienie o przestępstwie. Pokrzywdzonego należy pouczyć o uprawnieniach związanych z dochodzeniem roszczeń majątkowych oraz o treści przepisu art. 49a, a w razie potrzeby także o prawie do złożenia oświadczenia o działaniu w charakterze oskarżyciela posiłkowego.
 
 **Art. 335.**
 
@@ -350,7 +711,69 @@ source: "isap-pdf"
 
 **Art. 552b.** Prawo do odszkodowania i zadośćuczynienia przysługuje również osobie innej niż oskarżony w razie niewątpliwie niesłusznego zatrzymania w związku z postępowaniem karnym.”;
 
+- **193)** art. 553 otrzymuje brzmienie: „Art. 553. § 1. Roszczenie o odszkodowanie lub zadośćuczynienie nie przysługuje temu, kto w zamiarze wprowadzenia w błąd organu ścigania lub sądu złożył fałszywe zawiadomienie o przestępstwie lub fałszywe wyjaśnienia i spowodował tym niekorzystne dla siebie orzeczenie w przedmiocie skazania, warunkowego umorzenia postępowania, zastosowania środka zabezpieczającego albo wykonania środka przymusu.
+
+§ 2. Roszczenie o odszkodowanie lub zadośćuczynienie z tytułu wykonywania środka przymusu nie przysługuje, jeżeli jego zastosowanie nastąpiło z powodu bezprawnego utrudniania postępowania przez oskarżonego.
+
+§ 3. Roszczenie o odszkodowanie lub zadośćuczynienie z tytułu wykonywania środka zapobiegawczego zastosowanego na podstawie art. 258 § 3 nie przysługuje, jeżeli umorzenie postępowania nastąpiło z uwagi na niepoczytalność.
+
+§ 4. Roszczenie o odszkodowanie nie przysługuje również, jeżeli przed wystąpieniem z tym roszczeniem okres wykonywania kar, środków karnych, środków zabezpieczających lub środków przymusu, których dotyczy wniosek o odszkodowanie, został zaliczony oskarżonemu na poczet kar, środków karnych lub środków zabezpieczających w innym postępowaniu, co nie wyklucza dochodzenia roszczeń o zadośćuczynienie z powodu ich wykonania.
+
+§ 5. Przepisu § 1 nie stosuje się do osób składających oświadczenie w warunkach określonych w art. 171 § 4, 5 i 7, jak również gdy szkoda lub krzywda powstała na skutek przekroczenia uprawnień lub niedopełnienia obowiązku przez funkcjonariusza publicznego.
+
+§ 6. W wypadku przyczynienia się przez oskarżonego do wydania orzeczenia, o którym mowa w § 1 lub 2, przepis art. 362 Kodeksu cywilnego stosuje się odpowiednio.”;
+
+- **194)** po art. 553 dodaje się art. 553a w brzmieniu: „Art. 553a. Ustalając wysokość odszkodowania, sąd uwzględnia zaliczenie oskarżonemu okresu niesłusznego stosowania kar, środków karnych, środków zabezpieczających lub środków przymusu, których dotyczy wniosek o odszkodowanie, na poczet kar, środków karnych lub środków zabezpieczających orzeczonych w innym postępowaniu.”;
+- **195)** art. 554 otrzymuje brzmienie: „Art. 554. § 1. Żądanie odszkodowania i zadośćuczynienia należy złożyć w sądzie okręgowym, w którego okręgu wydano orzeczenie w pierwszej instancji, a w wypadku określonym w art. 552b – w sądzie okręgowym właściwym ze względu na miejsce, w którym nastąpiło zwolnienie zatrzymanego.
+
+§ 2. Sąd okręgowy orzeka wyrokiem na rozprawie w składzie jednego sędziego i dwóch ławników.
+
+§ 3. O terminie rozprawy zawiadamia się organ uprawniony do reprezentowania Skarbu Państwa oraz prokuratora, przesyłając odpis wniosku.
+
+§ 4. Postępowanie jest wolne od kosztów sądowych. W razie uwzględnienia roszczeń choćby w części wnioskodawcy przysługuje od Skarbu Państwa zwrot uzasadnionych wydatków, w tym z tytułu ustanowienia jednego pełnomocnika.”;
+
+- **196)** art. 555 otrzymuje brzmienie: „Art. 555. Roszczenia przewidziane w niniejszym rozdziale przedawniają się po upływie 3 lat od daty uprawomocnienia się orzeczenia dającego podstawę do odszkodowania i zadośćuczynienia, a w wypadku określonym w art. 552b – po upływie 3 lat od daty zwolnienia.”;
+- **197)** w art. 557 § 1 otrzymuje brzmienie: „§ 1. W razie naprawienia szkody oraz zadośćuczynienia za krzywdę Skarb Państwa ma roszczenie zwrotne do osób, które swym bezprawnym zachowaniem spowodowały niesłuszne skazanie, zastosowanie środka zabezpieczającego lub środka przymusu albo niesłuszne zarządzenie wykonania kary warunkowo zawieszonej lub kary, z której wykonania zwolniono oskarżonego, albo niewątpliwie niesłuszne zatrzymanie osoby, wobec której nie prowadzono postępowania karnego.”;
+- **198)** art. 558 otrzymuje brzmienie: „Art. 558. W sprawach o odszkodowanie i zadośćuczynienie za niesłuszne skazanie i niesłuszne stosowanie środków przymusu przepisy Kodeksu postępowania cywilnego stosuje się tylko w kwestiach nieuregulowanych w niniejszym kodeksie.”;
+- **199)** uchyla się art. 559;
+- **200)** w art. 603 § 2 otrzymuje brzmienie: „§ 2. W posiedzeniu mają prawo wziąć udział prokurator i obrońca.”;
+- **201)** po art. 605 dodaje się art. 605a w brzmieniu: „Art. 605a. Zatrzymanie osoby ściganej może nastąpić także na podstawie informacji o poszukiwaniu zamieszczonych w bazie danych Międzynarodowej Organizacji Policji Kryminalnej. Przepisy art. 244–246 i art. 248 stosuje się.”;
+- **202)** art. 607b otrzymuje brzmienie: „Art. 607b. Wydanie nakazu jest niedopuszczalne, jeśli nie wymaga tego interes wymiaru sprawiedliwości. Ponadto wydanie nakazu jest niedopuszczalne:
+- **1)** w związku z prowadzonym przeciwko osobie ściganej postępowaniem karnym o przestępstwo zagrożone karą pozbawienia wolności do roku,
+- **2)** w celu wykonania kary pozbawienia wolności orzeczonej w wymiarze do 4 miesięcy albo innego środka polegającego na pozbawieniu wolności na czas nieprzekraczający 4 miesięcy.”;
+- **203)** w art. 607k po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Zatrzymanie osoby ściganej nakazem europejskim może nastąpić także na podstawie wpisu do Systemu Informacyjnego Schengen. Przepisy art. 244–246 i art. 248 stosuje się.”;
+- **204)** w art. 607l:
+    - **a)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Zawiadamiając osobę ściganą o posiedzeniu, o którym mowa w § 1, sąd doręcza nakaz europejski wraz z tłumaczeniem przekazanym przez prokuratora. Jeżeli ze względu na szczególne okoliczności nie jest możliwe sporządzenie tłumaczenia przed posiedzeniem, tłumaczenie zarządza sąd. Można poprzestać na poinformowaniu osoby o treści nakazu europejskiego, jeśli nie utrudni to realizacji przysługujących jej praw, w tym praw wymienionych w § 2.”,
+    - **b)** dodaje się § 4 w brzmieniu: „§ 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór pouczenia o przysługujących osobie, której nakaz dotyczy, w wypadku jej zatrzymania, uprawnieniach: do uzyskania informacji o treści nakazu europejskiego, o możliwości wyrażenia zgody na przekazanie, o możliwości złożenia oświadczenia w przedmiocie przekazania, do korzystania z pomocy obrońcy, do składania wyjaśnień, do odmowy składania wyjaśnień lub odmowy odpowiedzi na pytania, do przeglądania akt w zakresie dotyczącym przyczyn zatrzymania, do dostępu do pierwszej pomocy medycznej, jak również o uprawnieniach określonych w § 3, w art. 72 § 1, art. 78 § 1, art. 261 § 1, 2 i 2a, art. 612 oraz o treści art. 607k § 3 i 3a, mając na względzie konieczność zrozumienia pouczenia także przez osoby niekorzystające z pomocy pełnomocnika.”;
+
+- **205)** w art. 607t § 1 otrzymuje brzmienie: „§ 1. Jeżeli nakaz europejski został wydany w celu ścigania osoby, która jest obywatelem polskim albo korzysta w Rzeczypospolitej Polskiej z prawa azylu, przekazanie może nastąpić pod warunkiem, że osoba ta będzie odesłana na terytorium Rzeczypospolitej Polskiej po prawomocnym zakończeniu postępowania w państwie wydania nakazu europejskiego, jeśli osoba ta wyraża na to zgodę.”;
+- **206)** w art. 607zm § 5 otrzymuje brzmienie: „§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 2, mając na uwadze konieczność udostępnienia państwu wydania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji.”;
+- **207)** w art. 611uh § 3 otrzymuje brzmienie: „§ 3. W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, iż przeciwko sprawcy wszczęto nowe postępowanie karne i na uzasadniony wniosek tego sądu lub organu, sąd może wyrazić zgodę na cofnięcie wystąpienia, o którym mowa w art. 611ud § 1, mając na uwadze cele kary lub środka, okres ich wykonywania oraz postawę sprawcy. Sąd umożliwia sprawcy, przebywającemu na terytorium Rzeczypospolitej Polskiej, zajęcie stanowiska ustnie lub na piśmie w przedmiocie cofnięcia wystąpienia. Wyrażając zgodę na cofnięcie wystąpienia, sąd umarza postępowanie wykonawcze.”;
+- **208)** w art. 618 w § 1 pkt 11 otrzymuje brzmienie: „11) nieopłaconej przez strony pomocy prawnej udzielonej z urzędu przez adwokatów lub radców prawnych,”;
+- **209)** art. 622 otrzymuje brzmienie: „Art. 622. W postępowaniu z oskarżenia prywatnego w razie pojednania się stron przed wszczęciem przewodu sądowego, warunkowego umorzenia postępowania, umorzenia postępowania z powodu niepoczytalności sprawcy lub znikomej społecznej szkodliwości czynu albo z powodu stwierdzenia w zarzucanym czynie znamion przestępstwa ściganego z urzędu, zmiany trybu ścigania z powodu przyłączenia się prokuratora do postępowania wszczętego przez oskarżyciela prywatnego i zakończenia tego postępowania w trybie publicznoskargowym – prezes sądu lub referendarz sądowy zarządza zwrot uiszczonych przez oskarżyciela prywatnego zryczałtowanych wydatków w całości, a w połowie – w razie pojednania się stron po rozpoczęciu przewodu sądowego.”;
+- **210)** art. 623 otrzymuje brzmienie: „Art. 623. Sąd lub referendarz sądowy zwalnia osobę w całości lub w części od wyłożenia kosztów podlegających uiszczeniu przy wnoszeniu pisma procesowego, jeżeli wykazała ona, że ze względu na jej sytuację rodzinną, majątkową i wysokość dochodów wyłożenie ich byłoby zbyt uciążliwe.”;
+- **211)** w art. 626 § 2 otrzymuje brzmienie: „§ 2. Jeżeli w orzeczeniu wymienionym w § 1 nie zamieszczono rozstrzygnięcia o kosztach, jak również gdy zachodzi konieczność dodatkowego ustalenia ich wysokości lub rozstrzygnięcia o kosztach postępowania wykonawczego, orzeczenie w tym przedmiocie wydaje odpowiednio sąd pierwszej instancji, sąd odwoławczy, a w zakresie dodatkowego ustalenia wysokości kosztów także referendarz sądowy właściwego sądu.”;
+- **212)** po art. 637 dodaje się art. 637a w brzmieniu: „Art. 637a. Do kosztów postępowania kasacyjnego stosuje się odpowiednio przepisy o kosztach postępowania odwoławczego, chyba że ustawa stanowi inaczej.”;
+- **213)** art. 646 otrzymuje brzmienie: „Art. 646. W sprawach podlegających orzecznictwu sądów wojskowych nie stosuje się przepisów o postępowaniu prywatnoskargowym, nakazowym i przyspieszonym. Poza tym stosuje się przepisy działów poprzednich, chyba że przepisy działu niniejszego stanowią inaczej.”;
+- **214)** w art. 662 § 1 otrzymuje brzmienie: „§ 1. O oskarżonym żołnierzu, oprócz danych określonych w art. 213, zbiera się też dane dotyczące przebiegu służby wojskowej, wyróżnień oraz ukarań dyscyplinarnych.”;
+- **215)** uchyla się art. 663.
+
 **Art. 2.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2013 r. poz. 482 i 829) wprowadza się następujące zmiany:
+
+- **1)** w art. 45 po § 2 dodaje się § 2a w brzmieniu: „§ 2a. W wypadku wszczęcia postępowania mediacyjnego czasu jego trwania nie wlicza się do okresu przedawnienia.”;
+- **2)** w art. 47 dodaje się § 9 w brzmieniu: „§ 9. Minimalnym wynagrodzeniem jest wynagrodzenie za pracę ustalane na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. Nr 200, poz. 1679, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 157, poz. 1314).”;
+- **3)** w art. 87:
+    - **a)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Tej samej karze podlega, kto, znajdując się w stanie nietrzeźwości lub pod wpływem podobnie działającego środka, prowadzi na drodze publicznej, w strefie zamieszkania lub w strefie ruchu inny pojazd niż określony w § 1.”,
+    - **b)** § 3 otrzymuje brzmienie: „§ 3. W razie popełnienia wykroczenia określonego w § 1 orzeka się zakaz prowadzenia pojazdów.”,
+    - **c)** dodaje się § 4 w brzmieniu: „§ 4. W razie popełnienia wykroczenia określonego w § 1a lub 2 można orzec zakaz prowadzenia pojazdów innych niż określone w § 1.”;
+
+- **4)** w art. 119 § 1 otrzymuje brzmienie: „§ 1. Kto kradnie lub przywłaszcza sobie cudzą rzecz ruchomą, jeżeli jej wartość nie przekracza 1/4 minimalnego wynagrodzenia, podlega karze aresztu, ograniczenia wolności albo grzywny.”;
+- **5)** w art. 120 § 1 otrzymuje brzmienie: „§ 1. Kto w celu przywłaszczenia dopuszcza się wyrębu drzewa w lesie albo kradnie lub przywłaszcza sobie z lasu drzewo wyrąbane lub powalone, jeżeli wartość drzewa nie przekracza 1/4 minimalnego wynagrodzenia, podlega karze aresztu, ograniczenia wolności albo grzywny.”;
+- **6)** w art. 122 § 1 i 2 otrzymują brzmienie: „§ 1. Kto nabywa mienie, wiedząc o tym, że pochodzi ono z kradzieży lub z przywłaszczenia, lub pomaga do jego zbycia albo w celu osiągnięcia korzyści majątkowej mienie to przyjmuje lub pomaga do jego ukrycia, jeżeli wartość mienia nie przekracza 1/4 minimalnego wynagrodzenia, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Kto nabywa mienie, o którym na podstawie towarzyszących okoliczności powinien i może przypuszczać, że zostało uzyskane za pomocą kradzieży lub przywłaszczenia, lub pomaga do jego zbycia albo w celu osiągnięcia korzyści majątkowej mienie to przyjmuje lub pomaga do jego ukrycia, jeżeli wartość mienia nie przekracza 1/4 minimalnego wynagrodzenia, podlega karze grzywny albo karze nagany.”;
+
+- **7)** w art. 124 § 1 otrzymuje brzmienie: „§ 1. Kto cudzą rzecz umyślnie niszczy, uszkadza lub czyni niezdatną do użytku, jeżeli szkoda nie przekracza 1/4 minimalnego wynagrodzenia, podlega karze aresztu, ograniczenia wolności albo grzywny.”.
 
 **Art. 3.** W ustawie z dnia 23 czerwca 1973 r. o opłatach w sprawach karnych (Dz. U. z 1983 r. Nr 49, poz. 223, z późn. zm. ) w art. 16 ust. 2 otrzymuje brzmienie: „2. Jeżeli w orzeczeniu, o którym mowa w ust. 1, opłaty nie określono albo błędnie ustalono jej wysokość, orzeczenie w tym przedmiocie wydaje sąd odwoławczy lub sąd pierwszej instancji; w wypadku gdy opłaty nie określono, orzeczenie może wydać także referendarz sądowy.”.
 
@@ -358,7 +781,16 @@ source: "isap-pdf"
 
 **Art. 5.** W ustawie z dnia 6 lipca 1982 r. – o radcach prawnych (Dz. U. z 2010 r. Nr 10, poz. 65, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** art. 4 otrzymuje brzmienie: „Art. 4. Wykonywanie zawodu radcy prawnego polega na świadczeniu pomocy prawnej.”;
+- **2)** w art. 6 ust. 1 otrzymuje brzmienie: „1. Świadczenie pomocy prawnej przez radcę prawnego polega w szczególności na udzielaniu porad i konsultacji prawnych, sporządzaniu opinii prawnych, opracowywaniu projektów aktów prawnych oraz występowaniu przed urzędami i sądami w charakterze pełnomocnika lub obrońcy.”;
+- **3)** uchyla się art. 7;
+- **4)** w art. 8 dodaje się ust. 6 w brzmieniu: „6. Pomoc prawna polegająca na występowaniu przez radcę prawnego w charakterze obrońcy w sprawach o przestępstwa i przestępstwa skarbowe może być świadczona w ramach wykonywania przez niego zawodu na podstawie umowy cywilnoprawnej, w kancelarii radcy prawnego oraz w spółce, o której mowa w ust. 1, pod warunkiem że radca prawny nie pozostaje w stosunku pracy. Zakaz zatrudnienia nie dotyczy pracowników naukowych i naukowodydaktycznych.”.
+
 **Art. 6.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2011 r. Nr 270, poz. 1599 i Nr 240, poz. 1430 oraz z 2012 r. poz. 637) wprowadza się następujące zmiany:
+
+- **1)** w art. 32 ust. 2 otrzymuje brzmienie: „2. Jeżeli wyniki postępowania sądowego nie potwierdzają zarzutów oskarżenia, prokurator cofa akt oskarżenia.”;
+- **2)** art. 75 otrzymuje brzmienie: „Art. 75. Obwiniony może ustanowić obrońcę tylko spośród prokuratorów, adwokatów lub radców prawnych.”;
+- **3)** w art. 99 ust. 2 otrzymuje brzmienie: „2. Asesor prokuratury nieposiadający uprawnień do pełnienia czynności prokuratorskich może występować w charakterze oskarżyciela publicznego w sprawach, w których postępowanie przygotowawcze zakończyło się w formie dochodzenia.”.
 
 **Art. 7.** W ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2009 r. Nr 93, poz. 767, z 2010 r. Nr 200, poz.1326 oraz z 2013 r. poz. 779) w art. 62 w ust. 1 pkt 1 otrzymuje brzmienie: „1) ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego; nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;”.
 
@@ -372,11 +804,83 @@ source: "isap-pdf"
 
 **Art. 12.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** po art. 59 dodaje się art. 59a w brzmieniu: „Art. 59a. § 1. Jeżeli przed rozpoczęciem przewodu sądowego w pierwszej instancji sprawca, który nie był uprzednio skazany za przestępstwo umyślne z użyciem przemocy, naprawił szkodę lub zadośćuczynił wyrządzonej krzywdzie, umarza się, na wniosek pokrzywdzonego, postępowanie karne o występek zagrożony karą nieprzekraczającą 3 lat pozbawienia wolności, a także o występek przeciwko mieniu zagrożony karą nieprzekraczającą 5 lat pozbawienia wolności, jak również o występek określony w art. 157 § 1.
+
+§ 2. Jeżeli czyn został popełniony na szkodę więcej niż jednego pokrzywdzonego warunkiem zastosowania § 1 jest naprawienie przez sprawcę szkody oraz zadośćuczynienie za wyrządzoną krzywdę w stosunku do wszystkich pokrzywdzonych.
+
+§ 3. Przepisu § 1 nie stosuje się, jeżeli zachodzi szczególna okoliczność uzasadniająca, że umorzenie postępowania byłoby sprzeczne z potrzebą realizacji celów kary.”;
+
+- **2)** art. 66 otrzymuje brzmienie: „Art. 66 § 1. Sąd może warunkowo umorzyć postępowanie karne, jeżeli wina i społeczna szkodliwość czynu nie są znaczne, okoliczności jego popełnienia nie budzą wątpliwości, a postawa sprawcy niekaranego za przestępstwo umyślne, jego właściwości i warunki osobiste oraz dotychczasowy sposób życia uzasadniają przypuszczenie, że pomimo umorzenia postępowania będzie przestrzegał porządku prawnego, w szczególności nie popełni przestępstwa.
+
+§ 2. Warunkowego umorzenia nie stosuje się do sprawcy przestępstwa zagrożonego karą przekraczającą 5 lat pozbawienia wolności.”;
+
+- **3)** w art. 178a uchyla się § 2.
+
 **Art. 13.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 25 § 3 otrzymuje brzmienie: „§ 3. W pierwszej kolejności podlegają zaspokojeniu zasądzone roszczenia cywilne mające na celu naprawienie szkody lub zadośćuczynienie za doznaną krzywdę, a następnie należności sądowe.”;
+- **2)** art. 101 otrzymuje brzmienie: „Art. 101. Skazanego po osadzeniu w zakładzie karnym należy bezzwłocznie poinformować o przysługujących mu prawach i ciążących na nim obowiązkach oraz o konsekwencjach wynikających z art. 139 § 1 Kodeksu postępowania karnego, a zwłaszcza umożliwić mu zapoznanie się z przepisami niniejszego kodeksu i regulaminu organizacyjno-porządkowego wykonywania kary pozbawienia wolności, oraz poddać odpowiednim badaniom lekarskim i zabiegom sanitarnym.”;
+- **3)** art. 210 otrzymuje brzmienie: „Art. 210. Przyjmując tymczasowo aresztowanego do aresztu śledczego należy go bezzwłocznie poinformować o przysługujących mu prawach i ciążących na nim obowiązkach oraz o konsekwencjach wynikających z art. 139 § 1 Kodeksu postępowania karnego, a zwłaszcza umożliwić mu zapoznanie się z przepisami niniejszego kodeksu i regulaminu organizacyjno-porządkowego wykonywania tymczasowego aresztowania, oraz poddać odpowiednim badaniom lekarskim i zabiegom sanitarnym.”;
+- **4)** w art. 211 uchyla się § 6.
 
 **Art. 14.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2012 r. poz. 952 oraz z 2013 r. poz. 448) w art. 40 § 9 otrzymuje brzmienie: „§ 9. Obwiniony może ustanowić obrońcę spośród sędziów sądów wojskowych, adwokatów lub radców prawnych.”.
 
 **Art. 15.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2013 r. poz. 186, 1036 i 1149) wprowadza się następujące zmiany:
+
+- **1)** w art. 113 w § 3 pkt 2 otrzymuje brzmienie: „2) art. 18 § 1, art. 400, art. 562 § 2 i art. 589a–589f, art. 590–607zc, art. 611g–611s oraz art. 615 Kodeksu postępowania karnego.”;
+- **2)** po art. 114a dodaje się art. 114b w brzmieniu: „Art. 114b. W razie uzasadnionej potrzeby akta sprawy można udostępnić, wydać z nich odpisy lub kopie także organom prowadzącym postępowanie kontrolne, podatkowe, celne lub administracyjne, w zakresie niezbędnym do prawidłowego przeprowadzenia tego postępowania.”;
+- **3)** w art. 116 § 5 otrzymuje brzmienie: „§ 5. Jeżeli przepisy § 1–4 nie stanowią inaczej, postępowanie w sprawach o wykroczenia skarbowe podlegające właściwości sądów wojskowych odbywa się według przepisów niniejszego kodeksu, mających zastosowanie w sprawach karnych podlegających orzecznictwu sądów wojskowych, które stosuje się odpowiednio; w szczególności w sprawach o wykroczenia skarbowe stosuje się przepisy Kodeksu postępowania karnego.”;
+- **4)** w art. 117 § 1 i 2 otrzymują brzmienie: „§ 1. Orzekanie w sprawach o przestępstwa skarbowe i wykroczenia skarbowe następuje w postępowaniu:
+- **1)** w przedmiocie udzielenia zezwolenia na dobrowolne poddanie się odpowiedzialności;
+- **2)** zwyczajnym;
+- **3)** nakazowym;
+- **4)** w stosunku do nieobecnych.
+
+§ 2. W sprawach o wykroczenia skarbowe w postępowaniu zwyczajnym orzeka się, gdy brak jest podstaw do rozpoznania sprawy w postępowaniu nakazowym oraz gdy odmówiono uprzednio udzielenia zezwolenia na dobrowolne poddanie się odpowiedzialności.”;
+
+- **5)** w art. 118 § 4 otrzymuje brzmienie: „§ 4. W granicach koniecznych do zabezpieczenia śladów i dowodów przestępstwa skarbowego lub wykroczenia skarbowego, niezbędnych czynności procesowych w sprawach, o których mowa w art. 133 § 1 pkt 1, mogą dokonywać także upoważnieni przez urząd celny funkcjonariusze celni pełniący służbę w izbie celnej. Po dokonaniu tych czynności przekazuje się sprawę urzędowi celnemu do dalszego prowadzenia, chyba że za wykroczenie skarbowe nałożono karę grzywny w drodze mandatu karnego.”;
+- **6)** w art. 119 § 3 otrzymuje brzmienie: „§ 3. Roszczenie z tytułu bezpodstawnego wzbogacenia przedawnia się, jeżeli powództwa nie wytoczono przed upływem 3 miesięcy od dnia, w którym powód dowiedział się o prawomocnym orzeczeniu przepadku przedmiotów, nie później jednak niż przed upływem 10 lat od prawomocnego orzeczenia przepadku.”;
+- **7)** art. 122 otrzymuje brzmienie: „Art. 122. § 1. W sprawach, w których finansowy organ postępowania przygotowawczego jest uprawniony do prowadzenia takiego postępowania, a następnie do wniesienia i popierania aktu oskarżenia przed sądem:
+- **1)** przez wyrażenie „prokurator” w art. 18 § 2, art. 19 § 1 zdanie pierwsze, § 2 i 4, art. 20 § 1 i 1b, art. 23, art. 46, art. 71 § 2, art. 87 § 3, art. 93 § 3, art. 135, art. 156 § 5, art. 158, art. 160 § 4, art. 192 § 2, art. 215, art. 218 § 1 zdanie pierwsze, art. 231 § 1, art. 232 § 1, art. 232a § 2, art. 236, art. 281, art. 282 § 1 pkt 1, art. 285 § 1a, art. 288 § 1, art. 290 § 1 i 2, art. 299 § 3, art. 308 § 1, art. 317 § 2, art. 323 § 1 i 3, art. 325e § 2 zdanie drugie, art. 327 § 1 i 3, art. 330 § 1, art. 333 § 2, art. 336 § 1 i 3, art. 340 § 2, art. 341 § 2, art. 343a § 2 zdanie drugie, art. 381 § 2, art. 387 § 2, art. 441 § 4, art. 446, art. 448, art. 461 § 1, art. 505, art. 526 § 2, art. 527 § 1, art. 530 § 4 i 5, art. 545 § 2, art. 550 § 2, art. 570, art. 571 § 2, art. 611fs, art. 618 § 1 pkt 2 oraz art. 626a Kodeksu postępowania karnego rozumie się także „finansowy organ postępowania przygotowawczego”;
+- **2)** przez wyrażenie „prokurator” w art. 15 § 1, art. 48 § 1, art. 179 § 3, art. 325, art. 325e § 4 zdanie drugie, art. 326 § 1–3, art. 327 § 2 i 3 oraz art. 626a Kodeksu postępowania karnego rozumie się także „organ nadrzędny nad finansowym organem postępowania przygotowawczego”, z tym że z tytułu sprawowanego nadzoru organ nadrzędny nie może przejąć sprawy do swego prowadzenia;
+- **3)** przez wyrażenie „Prokurator Generalny” w art. 328 Kodeksu postępowania karnego rozumie się także „ministra właściwego do spraw finansów publicznych”, gdy potrzeba uchylenia prawomocnego postanowienia zachodzi w sprawie o wykroczenie skarbowe.
+
+§ 2. Finansowy organ postępowania przygotowawczego może wystąpić z wnioskiem do prokuratora o podjęcie czynności, o których mowa w art. 73 § 2 i 3, art. 180 § 1, art. 202 § 1, art. 203 § 2, art. 214 § 1 i 8, art. 218 § 1 zdanie drugie, art. 220 § 1, art. 226 zdanie drugie, art. 237 § 1 i 2, art. 247 § 1 i 2, art. 250 § 2–4, art. 263 § 2, art. 270 § 1 oraz art. 293 § 1 Kodeksu postępowania karnego. Jeżeli w wypadku, o którym mowa w art. 202 § 1 Kodeksu postępowania karnego, prokurator powołuje biegłych lekarzy psychiatrów, a także gdy sąd zastosował tymczasowe aresztowanie podejrzanego, prokurator z mocy prawa obejmuje nadzorem postępowanie przygotowawcze. W sprawach o wykroczenia skarbowe w celu zbadania stanu zdrowia psychicznego oskarżonego powołuje się jednego biegłego lekarza psychiatrę, a powołując go, prokurator może objąć dochodzenie nadzorem.
+
+§ 3. Przepisów § 1 i 2 nie stosuje się w razie przejęcia sprawy przez prokuratora do swego prowadzenia.”;
+
+- **8)** w art. 124:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Pociągnięcie do odpowiedzialności posiłkowej następuje w formie postanowienia.”,
+    - **b)** uchyla się § 5;
+
+- **9)** w art. 125:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Do podmiotu pociągniętego do odpowiedzialności posiłkowej oraz jego pełnomocnika stosuje się odpowiednio dotyczące podejrzanego, oskarżonego i obrońcy przepisy: art. 72, art. 74 § 1, art. 75–79, art. 80a, art. 81, art. 81a, art. 84–89, art. 157 § 1 i 2, art. 174–176, art. 300, art. 301, art. 315 § 1, art. 316, art. 321, art. 323 § 2, art. 334 § 6 zdanie pierwsze, art. 338 § 1, art. 343 § 5, art. 353 § 2, art. 386, art. 389, art. 390, art. 391 § 2, art. 431 § 2 i 3, art. 434, art. 435, art. 440, art. 443, art. 453 § 3, art. 454 § 1, art. 455, art. 524 § 3, art. 540 § 2 i 3, art. 542 § 2, art. 545 § 1, art. 547 § 3, art. 548, art. 624 § 1, art. 627, art. 630, art. 632–633 oraz art. 636 § 1 Kodeksu postępowania karnego.”,
+    - **b)** § 5 otrzymuje brzmienie: „§ 5. Do podmiotu, który uzyskał korzyść majątkową z przestępstwa oskarżonego, stosuje się odpowiednio przepisy Kodeksu postępowania karnego o stronie, o której mowa w rozdziale 8a tego kodeksu, z tym że przez wyrażenie „prokurator” należy rozumieć także „finansowy organ postępowania przygotowawczego”.”;
+
+- **10)** w art. 128 § 1 otrzymuje brzmienie: „§ 1. Do interwenienta oraz jego pełnomocnika stosuje się odpowiednio przepisy art. 232 § 3, art. 305 § 4, art. 315 § 1, art. 316 § 1, art. 318, art. 321, art. 323 § 2, art. 334 § 2, art. 338 § 1, art. 343 § 5, art. 343a, art. 540 § 2, art. 549 oraz art. 550 § 2 Kodeksu postępowania karnego.”;
+- **11)** w tytule II w dziale I tytuł rozdziału 13 otrzymuje brzmienie: „Zatrzymanie rzeczy. Zabezpieczenie majątkowe”;
+- **12)** po art. 129 dodaje się art.129a w brzmieniu: „Art. 129a. § 1. W razie zarządzenia przez finansowy organ postępowania przygotowawczego sprzedaży przedmiotów, o których mowa w art. 232 § 1 Kodeksu postępowania karnego, jej wykonanie następuje w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm. ).
+
+§ 2. Uzyskaną ze sprzedaży kwotę pieniężną można złożyć także do depozytu we właściwym miejscowo finansowym organie postępowania przygotowawczego.”;
+
+- **13)** w art. 131:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. W razie popełnienia przestępstwa skarbowego lub wykroczenia skarbowego można zabezpieczyć także środek karny przepadku przedmiotów lub ściągnięcia równowartości pieniężnej przepadku przedmiotów lub przepadku korzyści majątkowej lub ściągnięcia równowartości pieniężnej przepadku korzyści majątkowej oraz uiszczenia należności publicznoprawnej uszczuplonej czynem zabronionym, jeżeli zachodzi uzasadniona obawa, że bez takiego zabezpieczenia wykonanie orzeczenia w zakresie tych środków lub ściągnięcie uszczuplonej należności publicznoprawnej będzie niemożliwe lub znacznie utrudnione.”,
+    - **b)** uchyla się § 2;
+
+- **14)** w art. 137 § 4 otrzymuje brzmienie: „§ 4. Upoważniony organ postępowania przygotowawczego lub jego przedstawiciel, nakładając karę grzywny w drodze mandatu karnego, obowiązany jest określić wykroczenie skarbowe zarzucane sprawcy oraz pouczyć go o warunkach dopuszczalności postępowania mandatowego, a zwłaszcza o skutkach prawnych braku zgody, o której mowa w § 3.”;
+- **15)** w art. 140: Uchylenie następuje na wniosek ukaranego, jego przedstawiciela ustawowego lub opiekuna prawnego złożony nie później niż w terminie 7 dni od daty przyjęcia mandatu albo z urzędu.”,
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Prawomocny mandat karny podlega niezwłocznie uchyleniu, jeżeli karę grzywny nałożono za czyn niebędący czynem zabronionym jako wykroczenie skarbowe albo na osobę, która nie podpisała mandatu karnego lub która nie ponosi odpowiedzialności za wykroczenie skarbowe.
+    - **b)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Prawomocny mandat karny podlega także niezwłocznie uchyleniu w trybie określonym w § 1 zdanie drugie, jeżeli karę grzywny nałożono wbrew zakazom określonym w art. 137 § 2 pkt 2 i 4. Podlega on także niezwłocznie uchyleniu, gdy karę grzywny nałożono w wysokości wyższej niż wynika to z art. 48 § 2, z tym że w takim wypadku jedynie w części przekraczającej dopuszczalną jej wysokość.”;
+
+- **16)** w art. 150 § 1 otrzymuje brzmienie: „§ 1. Określone w Kodeksie postępowania karnego obowiązki i uprawnienia Policji, z wyjątkiem art. 214 § 6, dotyczą także innych organów dochodzenia.”;
+- **17)** art. 151a i art. 151b otrzymują brzmienie: „Art. 151a. § 1. Postępowanie przygotowawcze prowadzi się w formie śledztwa lub dochodzenia. Śledztwo prowadzi finansowy organ postępowania przygotowawczego, chyba że prowadzi je prokurator.
+
+§ 2. Śledztwo prowadzi się w sprawach o przestępstwa skarbowe:
+
+- **1)** popełnione w warunkach określonych w art. 37 § 1 lub art. 38 § 2;
+- **2)** jeżeli osobą podejrzaną jest sędzia, prokurator, funkcjonariusz Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu lub Centralnego Biura Antykorupcyjnego;
+- **3)** jeżeli osobą podejrzaną jest funkcjonariusz Straży Granicznej, Żandarmerii Wojskowej, finansowego organu postępowania przygotowawczego lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego;
+- **4)** jeżeli prokurator lub finansowy organ postępowania przygotowawczego tak zarządzi.
 
 **Art. 151b.**
 
@@ -431,9 +935,70 @@ source: "isap-pdf"
 
 **Art. 18.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395 i 765) wprowadza się następujące zmiany:
 
+- **1)** art. 8 otrzymuje brzmienie: „Art. 8. W postępowaniu uregulowanym w niniejszym kodeksie stosuje się odpowiednio przepisy art. 2, art. 4, art. 5, art. 7–9, art. 13, art. 14, art. 15 § 2 i 3, art. 16, art. 18 § 2, art. 20, art. 23 i art. 23a Kodeksu postępowania karnego.”;
+- **2)** art. 16 otrzymuje brzmienie: „Art. 16. § 1. Do wyłączenia sędziego i referendarza sądowego stosuje się odpowiednio przepisy art. 40, art. 41 i art. 42 § 1–3 Kodeksu postępowania karnego.
+
+§ 2. O wyłączeniu sędziego rozstrzyga inny równorzędny skład sądu, przed którym sprawa się toczy. W razie niemożności utworzenia takiego składu o wyłączeniu orzeka sąd wyższego rzędu. O wyłączeniu referendarza sądowego sąd orzeka w składzie jednego sędziego.”;
+
+- **3)** po art. 18 dodaje się art. 18a w brzmieniu: „Art. 18a. Udział w rozprawie oskarżyciela publicznego, który złożył wniosek o ukaranie, jest obowiązkowy, gdy w sprawie występuje obrońca, o którym mowa w art. 21 § 1.”;
+- **4)** w art. 20 § 3 otrzymuje brzmienie: „§ 3. Do obwinionego stosuje się odpowiednio art. 72 § 1 i 2, art. 74 § 1 i 2, art. 75, art. 76 i art. 175 Kodeksu postępowania karnego.”;
+- **5)** w art. 21 § 2 otrzymuje brzmienie: „§ 2. W wypadku, o którym mowa w § 1 pkt 2, obowiązek korzystania z pomocy obrońcy ustaje, jeżeli sąd uznaje za uzasadnioną opinię biegłego psychiatry, że czyn obwinionego nie został popełniony w warunkach wyłączenia lub znacznego ograniczenia zdolności rozpoznania znaczenia czynu lub kierowania swoim postępowaniem i że stan psychiczny obwinionego pozwala na udział w postępowaniu i prowadzenie obrony w sposób samodzielny i rozsądny. Sąd zwalnia wówczas obrońcę z jego obowiązków.”;
+- **6)** art. 23 otrzymuje brzmienie: „Art. 23. Obrońcę z urzędu wyznacza prezes lub referendarz sądowy sądu właściwego do rozpoznania sprawy.”;
+- **7)** w art. 27 § 4 otrzymuje brzmienie: „§ 4. Prezes sądu lub referendarz sądowy zawiadamia o wniesieniu wniosku o ukaranie, o którym mowa w § 1 i 2, właściwego oskarżyciela publicznego. Jeżeli oskarżyciel ten w ciągu 14 dni od otrzymania zawiadomienia wniesie w sprawie o ten sam czyn tej samej osoby publiczny wniosek o ukaranie, wniosek pokrzywdzonego traktuje się jak oświadczenie wskazane w art. 26 § 3.”;
+- **8)** w art. 28 § 1 otrzymuje brzmienie: „§ 1. Odstąpienie oskarżyciela posiłkowego, o którym mowa w art. 27 § 1 i 2, od oskarżenia powoduje umorzenie postępowania. Postanowienie o umorzeniu postępowania może wydać także referendarz sądowy.”;
+- **9)** w art. 31 § 1 otrzymuje brzmienie: „§ 1. W razie śmierci oskarżyciela posiłkowego, o którym mowa w art. 27 § 1 i 2, sąd lub referendarz sądowy zawiesza postępowanie, a osoby najbliższe mogą wstąpić w prawa zmarłego. Jeżeli w terminie zawitym miesiąca od dnia śmierci oskarżyciela osoba uprawniona nie wstąpi w prawa zmarłego, sąd lub referendarz sądowy umarza postępowanie.”;
+- **10)** w art. 32 po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Postanowienia i zarządzenia, o których mowa w § 3, może wydawać także referendarz sądowy, gdy ustawa to przewiduje.”;
+- **11)** w art. 38 § 1 otrzymuje brzmienie: „§ 1. Do czynności procesowych prowadzonych w postępowaniu w sprawach o wykroczenia stosuje się odpowiednio także przepisy art. 95, art. 100 § 1 i 8, art. 105, art. 107, art. 108, art. 116–134, art. 136–142, art. 156 § 1–4, art. 157, art. 158, art. 160–166 Kodeksu postępowania karnego, a gdy sąd orzeka jednoosobowo, również przepisy art. 109–115 Kodeksu postępowania karnego.”;
+- **12)** w art. 39 § 1 otrzymuje brzmienie: „§ 1. W postępowaniu przed sądem dowody przeprowadza się na wniosek stron, a w wyjątkowych wypadkach, uzasadnionych szczególnymi okolicznościami, także z urzędu. Przepis art.168 Kodeksu postępowania karnego stosuje się.”; [13) w art. 41 § 1 otrzymuje brzmienie: „§ 1. Przy przeprowadzaniu dowodu z zeznań świadka stosuje się odpowiednio przepisy art. 177, art. 178, art. 178a, art. 182, art. 183, art. 185– 190, art. 191 § 1 i 2 oraz art. 192 Kodeksu postępowania karnego.”;] <13) w art. 41 § 1 otrzymuje brzmienie: „§ 1. Przy przeprowadzaniu dowodu z zeznań świadka stosuje się odpowiednio przepisy art. 177, art. 178, art. 178a, art. 182, art. 183, art. 185–190, art. 191 § 1–2 oraz art. 192 Kodeksu postępowania karnego.”;>
+- **14)** w art. 46:
+    - **a)** § 3 otrzymuje brzmienie: „§ 3. Na żądanie zatrzymanego zawiadamia się o zatrzymaniu osobę najbliższą, a także pracodawcę. O zatrzymaniu osoby wskazanej w art. 10 § 1 zawiadamia się niezwłocznie właściwego dowódcę jednostki wojskowej, nawet gdy zatrzymany tego nie żąda. Przepis art. 612 § 2 Kodeksu postępowania karnego stosuje się odpowiednio.”,
+    - **b)** dodaje się § 7 w brzmieniu: „§ 7. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór pouczenia, o którym mowa w § 1, zawierając w nim w szczególności informacje o przysługujących zatrzymanemu uprawnieniach: do złożenia oświadczenia i odmowy złożenia oświadczenia w przedmiocie zatrzymania, do korzystania z bezpłatnej pomocy tłumacza, do przeglądania akt w zakresie dotyczącym przyczyn zatrzymania, do dostępu do pierwszej pomocy medycznej, jak również prawach wskazanych w § 1, 3–4 i 6, art. 47 § 1 oraz w art. 612 § 2 Kodeksu postępowania karnego, mając na względzie konieczność zrozumienia pouczenia także przez osoby niekorzystające z pomocy pełnomocnika.”;
+
+- **15)** w art. 49 § 1 otrzymuje brzmienie: „§ 1. Na świadka, biegłego, tłumacza lub specjalistę, który bez usprawiedliwienia nie stawił się na wezwanie uprawnionego organu lub bez zezwolenia tego organu samowolnie wydalił się z miejsca czynności przed jej zakończeniem albo bezpodstawnie odmówił złożenia zeznań, wykonania czynności biegłego, tłumacza lub specjalisty, można nałożyć karę porządkową od 50 do 1000 złotych, a w razie ponownego niezastosowania się do wezwania od 100 do 1500 złotych.”;
+- **16)** w art. 50 § 1 otrzymuje brzmienie: „§ 1. W razie niestawienia się świadka na wezwanie bez usprawiedliwienia można, niezależnie od nałożenia kary porządkowej, zarządzić jego zatrzymanie i przymusowe doprowadzenie przez Policję. Zatrzymanie i przymusowe doprowadzenie może być zarządzone także wobec osoby przesłuchanej w trybie określonym w art. 54 § 6, jeżeli nie stawiła się ona na wezwanie organu prowadzącego czynności wyjaśniające bez usprawiedliwienia. Przepis art. 47 stosuje się wówczas odpowiednio, z tym że zażalenie na zatrzymanie rozpoznaje sąd rejonowy miejsca prowadzenia postępowania lub prowadzenia czynności wyjaśniających, w ramach których zarządzono zatrzymanie w celu przymusowego doprowadzenia. Zatrzymanie może nastąpić na czas konieczny do wykonania zarządzenia o doprowadzeniu.”;
+- **17)** uchyla się art. 52;
+- **18)** art. 53 otrzymuje brzmienie: „Art. 53. Jeżeli miejsce pobytu osoby podejrzanej o popełnienie wykroczenia nie jest znane, sąd może zarządzić ustalenie miejsca jej pobytu przez Policję. Policja ustala też miejsce pobytu z własnej inicjatywy albo na wniosek organu dokonującego czynności wyjaśniających.”;
+- **19)** w art. 54: Czynności te w miarę możności należy podjąć w miejscu popełnienia czynu bezpośrednio po jego ujawnieniu. Powinny one być zakończone w ciągu miesiąca od ich podjęcia.
+    - **a)** § 1 i 2 otrzymują brzmienie: „§ 1. W celu ustalenia, czy istnieją podstawy do wystąpienia z wnioskiem o ukaranie oraz zebrania danych niezbędnych do sporządzenia takiego wniosku, Policja z urzędu przeprowadza czynności wyjaśniające.
+
+§ 2. Jeżeli czynności wyjaśniające nie dostarczyły podstaw do wniesienia wniosku o ukaranie, zawiadamia się o tym ujawnionych pokrzywdzonych oraz osobę, o której mowa w art. 56a, wskazując przyczynę niewniesienia wniosku o ukaranie. Zawiadamiając pokrzywdzonego, poucza się go także o prawie, o którym mowa w art. 27 § 2, oraz o możliwości zaznajomienia się z materiałem dowodowym uzyskanym w toku czynności wyjaśniających oraz sporządzania odpisów i kopii. Na wniosek pokrzywdzonego lub jego pełnomocnika wydaje się odpłatnie kopie i uwierzytelnione odpisy tych materiałów; do odpłatności za wydawanie kopii i uwierzytelnionych odpisów stosuje się odpowiednio przepisy wydane na podstawie art. 156 § 6 Kodeksu postępowania karnego.”, Utrwalenie takiej czynności następuje w formie protokołu.”,
+
+- **b)** § 4 otrzymuje brzmienie: „§ 4. Jeżeli okoliczności czynu budzą wątpliwości, dla realizacji celu określonego w § 1 można, z urzędu lub na wniosek pokrzywdzonego albo osoby, o której mowa w § 5 i 6, przeprowadzić odpowiedni dowód.
+- **c)** po § 6 dodaje się § 6a w brzmieniu: „§ 6a. Osoba przesłuchana w trybie określonym w § 6 ma obowiązek informowania organu prowadzącego czynności wyjaśniające o każdej zmianie miejsca swego zamieszkania lub pobytu trwającego dłużej niż 7 dni oraz stawienia się na wezwanie tego organu pod rygorem zatrzymania i przymusowego doprowadzenia, o czym należy ją pouczyć przy przesłuchaniu, odnotowując to w protokole tej czynności.”,
+- **d)** dodaje się § 9 w brzmieniu: „§ 9. W ramach czynności wyjaśniających organ je prowadzący może, z inicjatywy lub za zgodą osoby określonej w § 6 i pokrzywdzonego, skierować sprawę do instytucji lub osoby do tego uprawnionej w celu przeprowadzenia mediacji. Przepis art. 23a Kodeksu postępowania karnego stosuje się odpowiednio.”;
+- **20)** w art. 67 dodaje się § 6 w brzmieniu: „§ 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór pouczenia, o którym mowa w § 2, zawierając w nim informacje dotyczące praw i obowiązków obwinionego w postępowaniu w sprawach o wykroczenia, w tym o uprawnieniach określonych w § 1 oraz w art. 20 § 2 i art. 22, mając na względzie konieczność zrozumienia pouczenia także przez osoby niekorzystające z pomocy pełnomocnika.”;
+- **21)** art. 81 otrzymuje brzmienie: „Art. 81. Przy przeprowadzaniu rozprawy stosuje się odpowiednio przepisy art. 369, art. 371, art. 372, art. 374 § 2, art. 375–377, art. 379, art. 384, art. 386, art. 395, art. 396, art. 399, art. 405 i art. 406 Kodeksu postępowania karnego.”;
+- **22)** w art. 84 § 1 otrzymuje brzmienie: „§ 1. Jeżeli w wyroku nie rozstrzygnięto lub rozstrzygnięto wadliwie o zaliczeniu na poczet kar lub środków karnych okresów, o których mowa w art. 82 § 2 pkt 2, albo odnośnie do dowodów rzeczowych, sąd rozstrzyga o tym postanowieniem na posiedzeniu.”;
+- **23)** w art. 85 § 4 otrzymuje brzmienie: „§ 4. Przymusowego doprowadzenia osoby, o której mowa w art. 10 § 1, jeżeli zachodzi przypadek wymieniony w art. 50 § 1, art. 53, art. 71 § 4, dokonują właściwe organy wojskowe, chyba że ważne powody stoją temu na przeszkodzie.”;
+- **24)** w art. 92 w § 1 pkt 5 i 6 otrzymują brzmienie: „5) uzasadnienie wyroku sporządza się tylko na wniosek strony złożony ustnie do protokołu rozprawy bezpośrednio po ogłoszeniu wyroku;
+- **6)** termin do wniesienia środka odwoławczego wynosi 3 dni i biegnie od daty doręczenia wyroku z uzasadnieniem;”;
+- **25)** w art. 101:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Prawomocny mandat karny podlega niezwłocznie uchyleniu, jeżeli grzywnę nałożono za czyn niebędący czynem zabronionym jako wykroczenie albo na osobę, która nie podpisała mandatu karnego albo która nie ponosi odpowiedzialności za wykroczenie. Uchylenie następuje na wniosek ukaranego, jego przedstawiciela ustawowego lub opiekuna prawnego złożony nie później niż w terminie 7 dni od uprawomocnienia się mandatu lub na wniosek organu, którego funkcjonariusz nałożył grzywnę, albo z urzędu.”,
+    - **b)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Prawomocny mandat karny podlega także uchyleniu w trybie określonym w § 1, jeżeli grzywnę nałożono wbrew zakazom określonym w art. 96 § 2. Podlega on również uchyleniu, gdy grzywnę nałożono w wysokości wyższej niż wynika to z art. 96 § 1–1b, z tym że w takim wypadku jedynie w części przekraczającej jej dopuszczalną wysokość.”,
+    - **c)** dodaje się § 4 w brzmieniu: „§ 4. W razie uchylenia mandatu w wypadkach wskazanych w § 1 i 1a zdanie pierwsze, organ uprawniony do ścigania wykroczeń podejmuje ściganie na zasadach ogólnych, chyba że nastąpiło już przedawnienie karalności wykroczenia.”;
+
+- **26)** w art. 103 po § 3 dodaje się § 3a i 3b w brzmieniu: „§ 3a. Od postanowień i zarządzeń referendarza sądowego może być wniesiony sprzeciw. Powoduje on utratę mocy postanowienia lub zarządzenia.
+
+§ 3b. Sprzeciw przysługuje stronie, a także osobie, której postanowienie lub zarządzenie dotyczy. Składa się go w terminie 7 dni od ogłoszenia postanowienia lub zarządzenia, a gdy podlega ono doręczeniu – od daty doręczenia. Prezes sądu odmawia przyjęcia sprzeciwu, jeżeli został on wniesiony po terminie lub przez osobę nieuprawnioną.”;
+
+- **27)** w art. 104 uchyla się § 2;
+- **28)** w art. 106 § 2 otrzymuje brzmienie: „§ 2. Sąd odwoławczy na żądanie obwinionego pozbawionego wolności, złożone nie później niż w ciągu 7 dni od zawiadomienia go o przyjęciu apelacji, zarządza jego sprowadzenie na rozprawę, chyba że uzna za wystarczający udział w niej jego obrońcy. Jeżeli obwiniony nie ma obrońcy, wyznacza się obrońcę z urzędu.”;
+- **29)** art. 106a otrzymuje brzmienie: „Art. 106a. Sąd odwoławczy może, uznając potrzebę uzupełnienia przewodu sądowego, przeprowadzić dowód na rozprawie, jeżeli przyczyni się to do przyspieszenia postępowania, a nie jest konieczne przeprowadzenie na nowo przewodu w całości. Dowód można dopuścić również przed rozprawą.”;
+- **30)** w art. 113 § 1 otrzymuje brzmienie: „§ 1. Postępowanie sądowe, prowadzone w trybie określonym przez przepisy rozdziałów 11–16 oraz działu X niniejszego kodeksu, zakończone prawomocnym orzeczeniem, może być wznowione na wniosek strony, a gdy ustawa to przewiduje – z urzędu. Do wznowienia tego stosuje się odpowiednio przepisy art. 540–542, art. 544 § 2 i 3 oraz art. 545–548 Kodeksu postępowania karnego.”;
+- **31)** w art. 114 po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Odszkodowanie i zadośćuczynienie przysługuje również obwinionemu, wobec którego zastosowano zabezpieczenie majątkowe środka karnego przepadku, w zakresie szkody i krzywdy wyrządzonej tym środkiem przymusu, gdy został on następnie prawomocnie uniewinniony albo umorzono wobec niego postępowanie lub mimo skazania go nie orzeczono środka karnego przepadku.”;
+- **32)** art. 116 otrzymuje brzmienie: „Art. 116. Przy rozpoznawaniu roszczeń o odszkodowanie oraz zadośćuczynienie stosuje się odpowiednio przepisy art. 553, art. 556 § 4, art. 557 i art. 558 Kodeksu postępowania karnego.”;
+- **33)** art. 119 otrzymuje brzmienie: „Art. 119. Do kosztów postępowania stosuje się odpowiednio przepisy art. 616, art. 617, art. 618 § 1 i 3, art. 619 § 3, art. 623, art. 624 § 1, art. 625–627, art. 630, art. 633–635, art. 636 § 1 i 2, art. 637–639 i art. 641 Kodeksu postępowania karnego, przy czym wydatkami Skarbu Państwa są także wydatki ponoszone w toku czynności wyjaśniających.”.
+
 **Art. 19.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm. ) w art. 37 w ust. 1 pkt 4 otrzymuje brzmienie: „4) sędziów, prokuratorów, adwokatów i radców prawnych;”.
 
 **Art. 20.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2012 r. poz. 768, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 21a ust. 1 otrzymuje brzmienie: „1. W postępowaniu sądowym, po zgłoszeniu w nim udziału przedstawiciela podmiotu zbiorowego, podmiotowi temu przysługują uprawnienia określone w art. 156, art. 167, art. 171 § 2, art. 341 § 1, art. 343 § 5, art. 343a, art. 350 § 2 pkt 2, art. 352, art. 396 § 3, art. 406, art. 422 § 1, art. 423 § 2, art. 425, art. 444, art. 457 § 2 i art. 459 Kodeksu postępowania karnego.”;
+- **2)** po art. 26 dodaje się art. 26a w brzmieniu: „Art. 26a. 1. Sąd może zastosować wobec podmiotu zbiorowego środek zapobiegawczy w postaci zakazu łączenia się, podziału lub przekształcenia się podmiotu zbiorowego w czasie prowadzenia postępowania przeciwko niemu, a także obciążania w tym czasie bez zgody sądu swego majątku lub zbywania bez takiej zgody określonych przez sąd składników majątkowych.
+
+2. Na postanowienie w przedmiocie środka zapobiegawczego przysługuje zażalenie.”;
+
+- **3)** art. 28 otrzymuje brzmienie: „Art. 28. Wniosek złożony przez pokrzywdzonego powinien być sporządzony i podpisany przez osobę uprawnioną do obrony według przepisów o ustroju adwokatury lub ustawy o radcach prawnych.”.
 
 **Art. 21.** W ustawie z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. Nr 273, poz. 2702, z późn. zm. ) art. 28 otrzymuje brzmienie: „Art. 28. W sprawach nieuregulowanych w ustawie do postępowania z tytułu odpowiedzialności zawodowej stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ). Nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej.”.
 
@@ -474,6 +1039,13 @@ source: "isap-pdf"
 4. W sprawach, w których orzeczono środek zabezpieczający polegający na umieszczeniu sprawcy w zakładzie zamkniętym i zastosowano tymczasowe aresztowanie na podstawie art. 264 § 3 ustawy, o której mowa w art. 1 niniejszej ustawy w brzmieniu dotychczasowym, tymczasowe aresztowanie może być wykonywane także w zakładzie, w którym sprawca przebywał przed dniem wejścia w życie niniejszej ustawy.
 
 **Art. 36.** W sprawach, w których przed dniem wejścia w życie niniejszej ustawy wniesiono do sądu akt oskarżenia:
+
+- **1)** art. 168a ustawy, o której mowa w art. 1 niniejszej ustawy, nie stosuje się do czasu prawomocnego zakończenia postępowania;
+- **2)** art. 167, art. 171 § 2, art. 366 § 1, art. 370, art. 391, art. 397, art. 401 § 1, art. 427, art. 433 § 1, art. 434, art. 437 § 2, art. 443, art. 447, art. 452 oraz art. 454 ustawy, o której mowa w art. 1 niniejszej ustawy, stosuje się w brzmieniu dotychczasowym do czasu prawomocnego zakończenia postępowania; przepis art. 434 § 4 ustawy, o której mowa w art. 1 niniejszej ustawy w brzmieniu nadanym niniejszą ustawą, stosuje się jednak w przypadku zasadnego podniesienia zarzutu obrazy prawa materialnego;
+- **3)** jeżeli przed dniem wejścia w życie niniejszej ustawy przesłuchano już pokrzywdzonego, przepis art. 49a ustawy, o której mowa w art. 1 niniejszej ustawy, stosuje się w brzmieniu dotychczasowym;
+- **4)** w sprawach o zbrodnie, oskarżony może złożyć wniosek o wydanie wyroku skazującego i wymierzenie mu określonej kary w terminie do 2 miesięcy od dnia wejścia w życie niniejszej ustawy, ale nie później niż do zamknięcia przewodu sądowego na rozprawie głównej; uwzględniając wniosek o wydanie wyroku skazującego i wymierzenie mu określonej kary lub środka karnego bez przeprowadzenia postępowania dowodowego, sąd może zastosować nadzwyczajne złagodzenie kary, niezależnie od podstaw przewidzianych w art. 60 § 1–4 ustawy, o której mowa w art. 12 niniejszej ustawy;
+- **5)** jeżeli rozprawę przerwano przed dniem wejścia w życie niniejszej ustawy, o nowym terminie zawiadamia się oskarżonego, który nie uczestniczył w rozprawie, na której zarządzono przerwę, a którego stawiennictwo nie jest obowiązkowe;
+- **6)** jeżeli przed dniem wejścia w życie niniejszej ustawy doręczono oskarżonemu pozbawionemu wolności zawiadomienie o przyjęciu apelacji, do zakończenia postępowania w instancji odwoławczej przepis art. 451 ustawy, o której mowa w art. 1 niniejszej ustawy, stosuje się w brzmieniu dotychczasowym.
 
 **Art. 37.** Przepisy art. 36 pkt 1 i 2 stosuje się także w przypadku, gdy przed dniem wejścia w życie niniejszej ustawy wniesiono do sądu akt oskarżenia, a po wejściu w życie niniejszej ustawy doszło do uchylenia prawomocnego orzeczenia wyłącznie sądu odwoławczego i skierowania sprawy do ponownego rozpoznania.
 
@@ -554,4 +1126,8 @@ source: "isap-pdf"
 **Art. 55.** Rada Ministrów przedkłada Sejmowi i Senatowi informację z wykonania ustawy oraz o skutkach jej stosowania, po 2 latach obowiązywania ustawy, do dnia 31 grudnia 2017 r.
 
 **Art. 56.** Ustawa wchodzi w życie z dniem 1 lipca 2015 r., z wyjątkiem:
+
+- **1)** art. 1 pkt 18, pkt 19, pkt 38, pkt 63 w zakresie art. 232a § 1, art. 1 pkt 104 w zakresie art. 335, art. 1 pkt 112 lit. b i pkt 204 lit. a, art. 2, art. 12 pkt 3, art. 50, art. 53 i art. 54, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 1 pkt 45 lit. c w zakresie art. 156 § 5 i 5a, art. 1 pkt 65 lit. b, pkt 79 lit. b, pkt 88 oraz pkt 204 lit. b, które wchodzą w życie z dniem 2 czerwca 2014 r.
+
 

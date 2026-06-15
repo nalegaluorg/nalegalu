@@ -42,7 +42,7 @@ w sprawie wysokości opłat kancelaryjnych pobieranych w sprawach sądowoadminis
 7. Każdą rozpoczętą stronę liczy się za całą.
 8. Jeżeli dokument, o którym mowa w ust. 1, jest sporządzony w języku obcym lub zawiera tabelę, pobiera się opłatę kancelaryjną w podwójnej wysokości.
 § 2. Opłatę kancelaryjną za odpis orzeczenia z uzasadnieniem doręczony na skutek wniosku o sporządzenie uzasadnienia orzeczenia, zgłoszonego w terminie siedmiu dni od ogłoszenia orzeczenia albo doręczenia odpisu sentencji orzeczenia, pobiera się w kwocie 100 zł.
-§ 3. Opłatę kancelaryjną za odpisy, wyciągi, kopie i wydruki oraz zaświadczenia i inne dokumenty wydawane na podstawie zbiorów gromadzonych i prowadzonych w sądzie poza aktami sprawy pobiera się odpowiednio w wysokości określonej w § 1.
+§ 3. Opłatę kancelaryjną za odpisy, wyciągi, kopie i wydruki oraz zaświadczenia i inne dokumenty wydawane na podstawie zbiorów gromadzonych i prowadzonych w sądzie poza aktami sprawy pobiera się odpowiednio w wysokości określonej § 1.
 § 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Prezes Rady Ministrów: M. Morawiecki
 

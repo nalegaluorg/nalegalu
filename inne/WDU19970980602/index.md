@@ -8,7 +8,7 @@ pos: 602
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo o ruchu drogowym
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1997-06-20 |
 | Data wydania | 1997-08-19 |
-| Ostatnia zmiana | 2026-04-22 |
+| Ostatnia zmiana | 2026-06-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/602/text.pdf) |
 
 2. Zezwolenie, o którym mowa w ust. 1, wydaje, w drodze decyzji, organ zarządzający ruchem na drodze, na której planuje się przeprowadzenie prac badawczych, na pisemny wniosek organizatora prac badawczych.
@@ -328,6 +328,126 @@ Art. 141–143. (pominięte)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** droga – drogę w rozumieniu art. 4 pkt 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2024 r. poz. 320);
+- **1a)** droga publiczna – drogę w rozumieniu art. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
+- **1b)** droga wewnętrzna – drogę wewnętrzną w rozumieniu art. 8 ust. 1 i 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
+- **2)** (uchylony) 2a) droga o nawierzchni gruntowej – drogę z jezdnią o nawierzchni z gruntu rodzimego lub nasypowego, ulepszonego mechanicznie lub chemicznie, w której wierzchnia warstwa może być wykonana z kruszywa naturalnego, sztucznego lub pochodzącego z recyklingu;
+- **2b)** droga o nawierzchni twardej – drogę niebędącą drogą o nawierzchni gruntowej;
+- **3)** autostrada – autostradę w rozumieniu art. 4 pkt 11 ustawy z dnia 21 marca 1985 r. o drogach publicznych, oznaczoną odpowiednimi znakami drogowymi, przeznaczoną tylko do ruchu pojazdów samochodowych, z wyłączeniem czterokołowca, które na równej, poziomej jezdni mogą rozwinąć prędkość wynoszącą co najmniej 40 km/h, w tym również w razie ciągnięcia przyczep;
+- **4)** droga ekspresowa – drogę ekspresową w rozumieniu art. 4 pkt 10 ustawy z dnia 21 marca 1985 r. o drogach publicznych, oznaczoną odpowiednimi znakami drogowymi, przeznaczoną tylko do ruchu pojazdów samochodowych, z wyłączeniem czterokołowca;
+- **4a)** droga dla pieszych – drogę lub część drogi przeznaczoną do ruchu pieszych i osób poruszających się przy użyciu urządzenia wspomagającego ruch oraz pełnienia innych funkcji, w szczególności zatrzymania lub postoju pojazdów;
+- **4b)** droga dla pieszych i rowerów – drogę lub część drogi, oznaczoną odpowiednimi znakami drogowymi, przeznaczoną do ruchu pieszych, osób poruszających się przy użyciu urządzenia wspomagającego ruch, rowerów, hulajnóg elektrycznych i urządzeń transportu osobistego;
+- **5)** droga dla rowerów – drogę lub część drogi niebędącą jezdnią, oznaczoną odpowiednimi znakami drogowymi, przeznaczoną do ruchu rowerów, hulajnóg elektrycznych i urządzeń transportu osobistego oraz osób poruszających się przy użyciu urządzenia wspomagającego ruch i ruchu pieszych, w przypadkach przewidzianych w ustawie;
+- **5a)** pas ruchu dla rowerów – część jezdni przeznaczoną do ruchu rowerów w jednym kierunku, oznaczoną odpowiednimi znakami drogowymi;
+- **5b)** śluza dla rowerów – część jezdni na wlocie skrzyżowania na całej szerokości jezdni lub wybranego pasa ruchu przeznaczona do zatrzymania rowerów w celu zmiany kierunku jazdy lub ustąpienia pierwszeństwa, oznaczona odpowiednimi znakami drogowymi;
+- **6)** jezdnia – jezdnię w rozumieniu art. 4 pkt 5 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
+- **7)** pas ruchu – każdy z podłużnych pasów jezdni wystarczający do ruchu jednego rzędu pojazdów wielośladowych, oznaczony lub nieoznaczony znakami drogowymi;
+- **8)** pobocze – część drogi usytuowaną przy jezdni, która może być przeznaczona do ruchu pieszych lub niektórych pojazdów, postoju pojazdów, jazdy wierzchem lub pędzenia zwierząt;
+- **9)** chodnik – część drogi dla pieszych przeznaczoną wyłącznie do ruchu pieszych i osób poruszających się przy użyciu urządzenia wspomagającego ruch;
+- **10)** skrzyżowanie – część drogi będącą połączeniem dróg albo jezdni jednej drogi w jednym poziomie, z wyjątkiem połączenia drogi o nawierzchni twardej z drogą o nawierzchni gruntowej lub z drogą wewnętrzną;
+- **10a)** szkoda istotna – szkodę w zakresie elementów układu nośnego, hamulcowego lub kierowniczego pojazdu mającą wpływ na bezpieczeństwo ruchu drogowego, kwalifikującą pojazd do dodatkowego badania technicznego i stwierdzoną przez Ubezpieczeniowy Fundusz Gwarancyjny lub przez zakład ubezpieczeń w związku z otrzymanym zgłoszeniem szkody z tytułu zawartej umowy ubezpieczenia, o którym mowa w dziale II w grupach 3 i 10 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838);
+- **11)** przejście dla pieszych – powierzchnię jezdni, drogi dla rowerów lub torowiska, przeznaczoną do przekraczania tych części drogi przez pieszych, oznaczoną odpowiednimi znakami drogowymi;
+- **11a)** przejście sugerowane – nieoznakowane, dostosowane technicznie miejsce umożliwiające przekraczanie jezdni, drogi dla rowerów lub torowiska przez pieszych, niebędące przejściem dla pieszych;
+- **12)** przejazd dla rowerów – powierzchnię jezdni lub torowiska przeznaczoną do przekraczania tych części drogi przez osoby kierujące rowerami, hulajnogami elektrycznymi i urządzeniami transportu osobistego oraz osoby poruszające się przy użyciu urządzenia wspomagającego ruch, oznaczoną odpowiednimi znakami drogowymi;
+- **13)** przystanek – miejsce zatrzymywania się pojazdów transportu publicznego, oznaczone odpowiednimi znakami drogowymi;
+- **14)** tunel ‒ budowlę przeznaczoną do przeprowadzenia drogi przez lub pod przeszkodą, oznaczoną odpowiednimi znakami;
+- **15)** obszar zabudowany – obszar oznaczony odpowiednimi znakami drogowymi;
+- **16)** strefa zamieszkania – obszar obejmujący drogi publiczne lub inne drogi, na którym obowiązują szczególne zasady ruchu drogowego, a wjazdy i wyjazdy oznaczone są odpowiednimi znakami drogowymi;
+- **16a)** strefa ruchu – obszar obejmujący co najmniej jedną drogę wewnętrzną, na który wjazdy i wyjazdy oznaczone są odpowiednimi znakami drogowymi;
+- **17)** uczestnik ruchu – pieszego, osobę poruszającą się przy użyciu urządzenia wspomagającego ruch, kierującego, a także inne osoby przebywające w pojeździe lub na pojeździe znajdującym się na drodze;
+- **18)** pieszy – osobę znajdującą się poza pojazdem na drodze i niewykonującą na niej robót lub czynności przewidzianych odrębnymi przepisami; za pieszego uważa się również osobę prowadzącą, ciągnącą lub pchającą rower, motorower, motocykl, hulajnogę elektryczną, urządzenie transportu osobistego, urządzenie wspomagające ruch, wózek dziecięcy, podręczny lub inwalidzki, osobę poruszającą się w wózku inwalidzkim, a także dziecko w wieku do 10 lat kierujące rowerem pod opieką osoby dorosłej;
+- **18a)** urządzenie wspomagające ruch – urządzenie lub sprzęt sportowo-rekreacyjny, przeznaczone do poruszania się osoby w pozycji stojącej, napędzane siłą mięśni;
+- **19)** kolumna pieszych – zorganizowaną grupę pieszych prowadzoną przez kierownika lub dowódcę;
+- **20)** kierujący – osobę, która kieruje pojazdem lub zespołem pojazdów, a także osobę, która prowadzi kolumnę pieszych, jedzie wierzchem albo pędzi zwierzęta pojedynczo lub w stadzie;
+- **21)** kierowca – osobę uprawnioną do kierowania pojazdem silnikowym lub motorowerem;
+- **21a)** profil kandydata na kierowcę – profil kandydata na kierowcę w rozumieniu art. 2 pkt 3 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2023 r. poz. 622, 1123, 1234, 1312, 1560 i 1872);
+- **21b)** profil kierowcy zawodowego – profil kierowcy zawodowego w rozumieniu art. 2 pkt 4 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
+- **22)** szczególna ostrożność – ostrożność polegającą na zwiększeniu uwagi i dostosowaniu zachowania uczestnika ruchu do warunków i sytuacji zmieniających się na drodze, w stopniu umożliwiającym odpowiednio szybkie reagowanie;
+- **23)** ustąpienie pierwszeństwa – powstrzymanie się od ruchu, jeżeli ruch mógłby zmusić kierującego do zmiany kierunku lub pasa ruchu albo istotnej zmiany prędkości, pieszego – do zatrzymania się, zwolnienia lub przyspieszenia kroku, a osobę poruszającą się przy użyciu urządzenia wspomagającego ruch – do zatrzymania się, zmiany kierunku albo istotnej zmiany prędkości;
+- **24)** ruch kierowany – ruch otwierany i zamykany za pomocą sygnalizacji świetlnej albo przez uprawnioną osobę;
+- **25)** niedostateczna widoczność – widoczność występującą od zmierzchu do świtu, a także w warunkach zmniejszonej przejrzystości powietrza od świtu do zmierzchu;
+- **26)** wymijanie – przejeżdżanie (przechodzenie) obok pojazdu lub uczestnika ruchu poruszającego się w przeciwnym kierunku;
+- **27)** omijanie – przejeżdżanie (przechodzenie) obok nieporuszającego się pojazdu, uczestnika ruchu lub przeszkody;
+- **28)** wyprzedzanie – przejeżdżanie (przechodzenie) obok pojazdu lub uczestnika ruchu poruszającego się w tym samym kierunku;
+- **29)** zatrzymanie pojazdu – unieruchomienie pojazdu niewynikające z warunków lub przepisów ruchu drogowego, trwające nie dłużej niż 1 minutę, oraz każde unieruchomienie pojazdu wynikające z tych warunków lub przepisów;
+- **30)** postój pojazdu – unieruchomienie pojazdu niewynikające z warunków lub przepisów ruchu drogowego, trwające dłużej niż 1 minutę;
+- **31)** pojazd – środek transportu przeznaczony do poruszania się po drodze oraz maszynę lub urządzenie do tego przystosowane, z wyjątkiem urządzenia wspomagającego ruch;
+- **32)** pojazd silnikowy – pojazd wyposażony w silnik, z wyjątkiem motoroweru, pojazdu szynowego, roweru, wózka rowerowego, hulajnogi elektrycznej, urządzenia transportu osobistego i wózka inwalidzkiego;
+- **33)** pojazd samochodowy – pojazd silnikowy, którego konstrukcja umożliwia jazdę z prędkością przekraczającą 25 km/h; określenie to nie obejmuje ciągnika rolniczego;
+- **34)** pojazd wolnobieżny – pojazd silnikowy, którego konstrukcja ogranicza prędkość jazdy do 25 km/h, z wyłączeniem ciągnika rolniczego;
+- **35)** pojazd członowy – zespół pojazdów składający się z pojazdu silnikowego złączonego z naczepą;
+- **35a)** pojazd nienormatywny – pojazd lub zespół pojazdów, którego naciski osi wraz z ładunkiem lub bez ładunku, wymiary lub rzeczywista masa całkowita wraz z ładunkiem lub bez niego są większe od dopuszczalnych przewidzianych w przepisach niniejszej ustawy;
+- **35b)** ładunek niepodzielny – ładunek, który bez niewspółmiernie wysokich kosztów lub ryzyka powstania szkody nie może być podzielony na dwa lub więcej mniejszych ładunków;
+- **35c)** pilot – osobę odpowiedzialną za zapewnienie bezpieczeństwa ruchu drogowego oraz minimalizację utrudnień w ruchu drogowym w czasie przejazdu pojazdu;
+- **36)** pojazd specjalny – pojazd samochodowy lub przyczepę przeznaczone do wykonywania specjalnej funkcji, która powoduje konieczność dostosowania nadwozia lub posiadania specjalnego wyposażenia; w pojeździe tym mogą być przewożone osoby i rzeczy związane z wykonywaniem tej funkcji;
+- **37)** pojazd używany do celów specjalnych – pojazd samochodowy <lub ciągnik rolniczy> przystosowany w sposób szczególny do przewozu osób lub ładunków, używany przez Siły Zbrojne Rzeczypospolitej Polskiej, Policję, Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Centralne Biuro Antykorupcyjne, Służbę Ochrony Państwa, Straż Graniczną, Służbę Celno-Skarbową, jednostki ochrony przeciwpożarowej <, podmioty uprawnione do wykonywania ratownictwa wodnego, podmioty uprawnione do wykonywania ratownictwa górskiego, Morską Służbę Poszukiwania i Ratownictwa>, Inspekcję Transportu Drogowego i Służbę Więzienną;
+- **38)** pojazd uprzywilejowany – pojazd wysyłający sygnały świetlne w postaci niebieskich świateł błyskowych i jednocześnie sygnały dźwiękowe o zmiennym tonie, jadący z włączonymi światłami mijania lub drogowymi; określenie to obejmuje również pojazdy jadące w kolumnie, na której początku i na końcu znajdują się pojazdy uprzywilejowane wysyłające dodatkowo sygnały świetlne w postaci czerwonego światła błyskowego;
+- **39)** pojazd zabytkowy – pojazd, który na podstawie odrębnych przepisów został wpisany do rejestru zabytków lub znajduje się w wojewódzkiej ewidencji zabytków, a także pojazd wpisany do inwentarza muzealiów, zgodnie z odrębnymi przepisami;
+- **40)** samochód osobowy – pojazd samochodowy przeznaczony konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą oraz ich bagażu;
+- **41)** autobus – pojazd samochodowy przeznaczony konstrukcyjnie do przewozu więcej niż 9 osób łącznie z kierowcą;
+- **41a)** autobus szkolny – autobus przeznaczony do przewozu dzieci do szkoły, barwy pomarańczowej, oznaczony z przodu i z tyłu prostokątnymi tablicami barwy białej, z napisem barwy czarnej „autobus szkolny”;
+- **42)** samochód ciężarowy – pojazd samochodowy przeznaczony konstrukcyjnie do przewozu ładunków; określenie to obejmuje również samochód ciężarowo-osobowy przeznaczony konstrukcyjnie do przewozu ładunków i osób w liczbie od 4 do 9 łącznie z kierowcą;
+- **42a)** ciągnik samochodowy – pojazd samochodowy przeznaczony konstrukcyjnie wyłącznie do ciągnięcia przyczepy; określenie to obejmuje ciągnik siodłowy i ciągnik balastowy;
+- **42b)** czterokołowiec – pojazd samochodowy przeznaczony do przewozu osób lub ładunków, z wyłączeniem samochodu osobowego, ciężarowego i motocykla, którego masa własna nie przekracza:
+    - **a)** w przypadku przewozu rzeczy 550 kg,
+    - **b)** w przypadku przewozu osób 400 kg;
+
+- **42c)** czterokołowiec lekki – czterokołowiec, którego masa własna nie przekracza 350 kg i konstrukcja ogranicza prędkość jazdy do 45 km/h;
+- **43)** taksówka – pojazd samochodowy, odpowiednio wyposażony i oznaczony, przeznaczony do przewozu osób w liczbie nie większej niż 9 łącznie z kierowcą oraz ich bagażu podręcznego za opłatą ustaloną na podstawie:
+    - **a)** taksometru albo
+    - **b)** aplikacji mobilnej, o której mowa w art. 13b ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 728 i 731);
+
+- **44)** ciągnik rolniczy – pojazd silnikowy, którego konstrukcja umożliwia rozwijanie prędkości nie mniejszej niż 6 km/h, skonstruowany do używania łącznie ze sprzętem do prac rolnych, leśnych lub ogrodniczych; ciągnik taki może być również przystosowany do ciągnięcia przyczep oraz do prac ziemnych;
+- **45)** motocykl – pojazd samochodowy dwukołowy kategorii L3e albo dwukołowy z bocznym wózkiem kategorii L4e, albo trójkołowy kategorii L5e o symetrycznym rozmieszczeniu kół, spełniający kryteria klasyfikacji dla pojazdów odpowiednio dla kategorii L3e albo L4e, albo L5e, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, z późn. zm. );
+- **46)** motorower – pojazd dwu- lub trójkołowy zaopatrzony w silnik spalinowy o pojemności skokowej nieprzekraczającej 50 cm lub w silnik elektryczny o mocy nie większej niż 4 kW, którego konstrukcja ogranicza prędkość jazdy do 45 km/h;
+- **47)** rower – pojazd o szerokości nieprzekraczającej 0,9 m poruszany siłą mięśni osoby jadącej tym pojazdem; rower może być wyposażony w uruchamiany naciskiem na pedały pomocniczy napęd elektryczny zasilany prądem o napięciu nie wyższym niż 48 V o znamionowej mocy ciągłej nie większej niż 250 W, którego moc wyjściowa zmniejsza się stopniowo i spada do zera po przekroczeniu prędkości 25 km/h;
+- **47a)** wózek rowerowy – pojazd o szerokości powyżej 0,9 m przeznaczony do przewozu osób lub rzeczy poruszany siłą mięśni osoby jadącej tym pojazdem; wózek rowerowy może być wyposażony w uruchamiany naciskiem na pedały pomocniczy napęd elektryczny zasilany prądem o napięciu nie wyższym niż 48 V o znamionowej mocy ciągłej nie większej niż 250 W, którego moc wyjściowa zmniejsza się stopniowo i spada do zera po przekroczeniu prędkości 25 km/h;
+- **47b)** hulajnoga elektryczna – pojazd napędzany elektrycznie, dwuosiowy, z kierownicą, bez siedzenia i pedałów, konstrukcyjnie przeznaczony do poruszania się wyłącznie przez kierującego znajdującego się na tym pojeździe;
+- **47c)** urządzenie transportu osobistego – pojazd napędzany elektrycznie, z wyłączeniem hulajnogi elektrycznej, bez siedzenia i pedałów, konstrukcyjnie przeznaczony do poruszania się wyłącznie przez kierującego znajdującego się na tym pojeździe;
+- **48)** wózek inwalidzki – pojazd konstrukcyjnie przeznaczony do poruszania się osoby niepełnosprawnej, napędzany siłą mięśni lub za pomocą silnika, którego konstrukcja ogranicza prędkość jazdy do prędkości pieszego;
+- **49)** zespół pojazdów – pojazdy złączone ze sobą w celu poruszania się po drodze jako całość; nie dotyczy to pojazdów złączonych w celu holowania;
+- **49a)** kolejka turystyczna – zespół pojazdów składający się z ciągnika rolniczego, którego konstrukcja ogranicza prędkość jazdy do 25 km/h, albo pojazdu wolnobieżnego oraz przyczepy (przyczep) dostosowanej do przewozu osób, wykorzystywanych w ramach prowadzonej działalności w zakresie świadczenia usług turystycznych;
+- **50)** przyczepa – pojazd bez silnika, przystosowany do łączenia go z innym pojazdem;
+- **51)** przyczepa lekka – przyczepę, której dopuszczalna masa całkowita nie przekracza 750 kg;
+- **52)** naczepa – przyczepę, której część spoczywa na pojeździe silnikowym i obciąża ten pojazd;
+- **53)** masa własna – masę pojazdu z jego normalnym wyposażeniem, paliwem, olejami, smarami i cieczami w ilościach nominalnych, bez kierującego;
+- **54)** dopuszczalna masa całkowita – największą określoną właściwymi warunkami technicznymi masę pojazdu obciążonego osobami i ładunkiem, dopuszczonego do poruszania się po drodze;
+- **55)** rzeczywista masa całkowita – masę pojazdu łącznie z masą znajdujących się na nim rzeczy i osób;
+- **56)** dopuszczalna ładowność – największą masę ładunku i osób, jaką może przewozić pojazd, która stanowi różnicę dopuszczalnej masy całkowitej i masy własnej pojazdu;
+- **57)** nacisk osi – sumę nacisków, jaką na drogę wywierają koła znajdujące się na jednej osi;
+- **58)** VIN – numer identyfikacyjny pojazdu nadany i umieszczony przez producenta;
+- **59)** urządzenie rejestrujące – stacjonarne, przenośne albo zainstalowane w pojeździe albo na statku powietrznym urządzenie ujawniające i zapisujące za pomocą technik utrwalania obrazów naruszenia przepisów ruchu drogowego przez kierujących pojazdami;
+- **60)** kategoria pojazdu – klasyfikację pojazdu według wymagań homologacyjnych określonych w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 167/2013 z dnia 5 lutego 2013 r. w sprawie homologacji i nadzoru rynku pojazdów rolniczych i leśnych (Dz. Urz. UE L 60 z 02.03.2013, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem 167/2013”, rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, z późn. zm. ), zwanym dalej „rozporządzeniem 168/2013”, i rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/858 z dnia 30 maja 2018 r. w sprawie homologacji i nadzoru rynku pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, zmieniającym rozporządzenie (WE) nr 715/2007 i (WE) nr 595/2009 oraz uchylającym dyrektywę 2007/46/WE (Dz. Urz. UE L 151 z 14.06.2018, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem 2018/858”, a także załączniku nr 2 do ustawy;
+- **61)** maksymalna masa całkowita – największą masę pojazdu obciążonego osobami i ładunkiem, określoną przez producenta pojazdu;
+- **62)** nowy pojazd – pojazd fabrycznie nowy, który nie był zarejestrowany;
+- **63)** państwo członkowskie – państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+- **64)** pojazd kompletny – pojazd, o którym mowa w art. 3 pkt 15 rozporządzenia 167/2013, art. 3 pkt 14 rozporządzenia 168/2013 albo art. 3 pkt 27 rozporządzenia 2018/858;
+- **65)** pojazd marki „SAM” – pojazd zbudowany przy wykorzystaniu nadwozia, podwozia lub ramy, konstrukcji własnej;
+- **66)** (uchylony)
+- **67)** pojazd niekompletny – pojazd, o którym mowa w art. 3 pkt 13 rozporządzenia 167/2013, art. 3 pkt 12 rozporządzenia 168/2013 albo art. 3 pkt 25 rozporządzenia 2018/858;
+- **68)** pojazd skompletowany – pojazd, o którym mowa w art. 3 pkt 14 rozporządzenia 167/2013, art. 3 pkt 13 rozporządzenia 168/2013 albo art. 3 pkt 26 rozporządzenia 2018/858;
+- **69)** pojazd z końcowej partii produkcji – pojazd, o którym mowa w art. 3 pkt 16 rozporządzenia 167/2013, art. 3 pkt 67 rozporządzenia 168/2013 albo art. 3 pkt 28 rozporządzenia 2018/858;
+- **70)** przedmiot wyposażenia lub część – przedmiot wyposażenia lub część, o których mowa w art. 2 ust. 1 pkt 15 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia (Dz. U. poz. 919);
+- **71)** (uchylony)
+- **72)** (uchylony)
+- **73)** świadectwo homologacji typu pojazdu – dokument wydany przez właściwy organ Rzeczypospolitej Polskiej stwierdzający, że typ pojazdu spełnia wymagania procedury homologacji typu pojazdu;
+- **74)** świadectwo homologacji typu WE – dokument wydany przez właściwy organ państwa członkowskiego Unii Europejskiej stwierdzający, że typ pojazdu, typ przedmiotu jego wyposażenia lub części, spełnia wymagania procedury homologacji typu WE;
+- **75)** typ przedmiotu wyposażenia lub części – oznaczenie przedmiotów wyposażenia lub części, spełniających tę samą funkcję w pojeździe, które nie różnią się od siebie pod względem istotnych cech mających wpływ na bezpieczeństwo ruchu drogowego lub ochronę środowiska, jeżeli wymagania określone w przepisach UE dotyczących badań homologacyjnych lub regulaminy EKG ONZ nie stanowią inaczej;
+- **76)** świadectwo dopuszczenia indywidualnego WE pojazdu – dokument wydany przez właściwy organ państwa członkowskiego Unii Europejskiej stwierdzający, że pojazd spełnia odpowiednie warunki lub wymagania techniczne procedury dopuszczenia indywidualnego WE pojazdu;
+- **77)** (uchylony)
+- **78)** typ pojazdu – pojazdy należące do jednej kategorii pojazdu, które nie różnią się od siebie pod względem istotnych cech;
+- **79)** wprowadzenie do obrotu – odpłatne albo nieodpłatne przekazanie pojazdu, przedmiotu wyposażenia lub części po raz pierwszy na terytorium Rzeczypospolitej Polskiej użytkownikowi;
+- **80)** (uchylony)
+- **81)** (uchylony)
+- **82)** tramwaj – pojazd przeznaczony do przewozu osób lub rzeczy zasilany energią elektryczną, poruszający się po szynach na drogach publicznych;
+- **83)** trolejbus – autobus przystosowany do zasilania energią elektryczną z sieci trakcyjnej;
+- **84)** blokada alkoholowa – urządzenie techniczne uniemożliwiające uruchomienie silnika pojazdu silnikowego i pojazdu szynowego, w przypadku gdy zawartość alkoholu w wydychanym przez kierującego powietrzu wynosi co najmniej 0,1 mg alkoholu w 1 dm ;
+- **85)** kalibracja blokady alkoholowej – ogół czynności służących wzorcowaniu blokady alkoholowej oraz regulacji tego urządzenia w sposób umożliwiający spełnienie wymagania, o którym mowa w pkt 84;
+- **86)** niezgodność – rozbieżność między danymi zgromadzonymi w centralnej ewidencji pojazdów, centralnej ewidencji kierowców albo centralnej ewidencji posiadaczy kart parkingowych a stanem prawnym ustalonym na podstawie dostępnych danych lub stanem faktycznym;
+- **87)** salon sprzedaży pojazdów samochodowych, przyczep lub motorowerów – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, prowadzące sprzedaż pojazdów samochodowych, przyczep lub motorowerów w lokalu na terytorium Rzeczypospolitej Polskiej i autoryzowane przez producenta pojazdów samochodowych, przyczep lub motorowerów lub jego upoważnionego przedstawiciela. Dotyczy to także sprzedaży w lokalu na terytorium Rzeczypospolitej Polskiej bezpośrednio prowadzonej przez producenta pojazdów samochodowych, przyczep lub motorowerów; <88) pojazd zautomatyzowany – pojazd zautomatyzowany w rozumieniu art. 3 pkt 21 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2144 z dnia 27 listopada 2019 r. w sprawie wymogów dotyczących homologacji typu pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, w odniesieniu do ich ogólnego bezpieczeństwa oraz ochrony osób znajdujących się w pojeździe i niechronionych uczestników ruchu drogowego, zmieniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2018/858 oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 78/2009, (WE) nr 79/2009 i (WE) nr 661/2009 oraz rozporządzenia Komisji (WE) nr 631/2009, (UE) nr 406/2010, (UE) nr 672/2010, (UE) nr 1003/2010, (UE) nr 1005/2010, (UE) nr 1008/2010, (UE) nr 1009/2010, (UE) nr 19/2011, (UE) nr 109/2011, (UE) nr 458/2011, (UE) nr 65/2012, (UE) nr 130/2012, (UE) nr 347/2012, (UE) nr 351/2012, (UE) nr 1230/2012 i (UE) 2015/166 (Dz. Urz. UE L 325 z 16.12.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem (UE) 2019/2144”;
+- **89)** pojazd w pełni zautomatyzowany – pojazd w pełni zautomatyzowany w rozumieniu art. 3 pkt 22 rozporządzenia (UE) 2019/2144;
+- **90)** organizator prac badawczych – podmiot prowadzący działalność badawczo-rozwojową, w tym obejmującą prowadzenie prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi, w celu badania i oceny funkcji automatycznych, które nie wchodzą w zakres homologacji typu albo dopuszczenia indywidualnego pojazdu, lub podmiot uprawniony, o którym mowa w art. 80s ust. 2.>
+
 ### DZIAŁ II Ruch drogowy
 
 #### Rozdział 1 Zasady ogólne
@@ -591,6 +711,18 @@ Art. 141–143. (pominięte)
 8. Jeżeli przejście dla pieszych wyznaczone jest na drodze dwujezdniowej, przejście na każdej jezdni uważa się za przejście odrębne. Przepis ten stosuje się odpowiednio do przejścia dla pieszych w miejscu, w którym ruch pojazdów jest rozdzielony wysepką lub za pomocą innych urządzeń na jezdni.
 
 **Art. 14.** Zabrania się:
+
+- **1)** wchodzenia na jezdnię lub drogę dla rowerów:
+    - **a)** bezpośrednio przed jadący pojazd, w tym również na przejściu dla pieszych,
+    - **b)** spoza pojazdu lub innej przeszkody ograniczającej widoczność drogi;
+
+- **2)** przechodzenia przez jezdnię lub drogę dla rowerów w miejscu o ograniczonej widoczności drogi;
+- **3)** zwalniania kroku lub zatrzymywania się bez uzasadnionej potrzeby podczas przechodzenia przez jezdnię, drogę dla rowerów lub torowisko;
+- **4)** przebiegania przez jezdnię lub drogę dla rowerów;
+- **5)** chodzenia po torowisku;
+- **6)** wchodzenia na torowisko, gdy zapory lub półzapory są opuszczone lub opuszczanie ich rozpoczęto;
+- **7)** przechodzenia przez jezdnię lub drogę dla rowerów w miejscu, w którym urządzenie zabezpieczające lub przeszkoda oddzielają drogę dla pieszych lub drogę dla pieszych i rowerów od jezdni lub drogi dla rowerów, bez względu na to, po której stronie jezdni one się znajdują;
+- **8)** korzystania z telefonu lub innego urządzenia elektronicznego podczas wchodzenia lub przechodzenia przez jezdnię, drogę dla rowerów lub torowisko, w tym również podczas wchodzenia lub przechodzenia przez przejście dla pieszych – w sposób, który prowadzi do ograniczenia możliwości obserwacji sytuacji na jezdni, drodze dla rowerów, torowisku lub przejściu dla pieszych.
 
 **Art. 15.** Przepisów art. 11–14 nie stosuje się w razie zamknięcia ruchu pojazdów na drodze.
 
@@ -1919,6 +2051,11 @@ Art. 141–143. (pominięte)
 
 **Art. 65c.** Organ wydający zezwolenie odmawia jego wydania:
 
+- **1)** jeżeli organizator nie spełnia warunków określonych w art. 65a ust. 2 i 3;
+- **2)** jeżeli pomimo spełnienia warunków określonych w art. 65a ust. 2 i 3:
+    - **a)** istnieje niebezpieczeństwo zagrożenia życia lub zdrowia ludzkiego albo mienia wielkiej wartości,
+    - **b)** impreza zagraża bezpieczeństwu ruchu drogowego, a nie ma możliwości zorganizowania objazdów niepowodujących istotnego zwiększenia kosztów ponoszonych przez uczestników ruchu drogowego.
+
 **Art. 65d.**
 
 1. Organ wydający zezwolenie cofa wydane zezwolenie, gdy istnieje niebezpieczeństwo zagrożenia życia lub zdrowia albo mienia wielkiej wartości.
@@ -1932,6 +2069,10 @@ Art. 141–143. (pominięte)
 **Art. 65f.** Organ kontroli ruchu drogowego przerywa imprezę, jeżeli odbywa się ona bez zezwolenia.
 
 **Art. 65g.** Organ kontroli ruchu drogowego może przerwać imprezę, jeżeli:
+
+- **1)** miejsce, trasa lub czas jej trwania nie są zgodne z warunkami określonymi w zezwoleniu;
+- **2)** istnieje niebezpieczeństwo zagrożenia życia lub zdrowia ludzkiego albo mienia wielkiej wartości;
+- **3)** jej przebieg powoduje zagrożenie bezpieczeństwa ruchu drogowego.
 
 **Art. 65h.**
 
@@ -1965,6 +2106,11 @@ Art. 141–143. (pominięte)
 **Art. 65p.** Samochód osobowy przeznaczony do zawodów sportowych dopuszcza się do ruchu drogowego na czas trwania imprez organizowanych przez właściwy polski związek sportowy w rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie oraz inne właściwe związki sportowe organizujące imprezy na podstawie regulaminów obowiązujących we właściwym polskim związku sportowym, na wyznaczonych drogach umożliwiających dojazd, o których mowa w art. 65a ust. 3 pkt 3 lit. j.
 
 **Art. 65q.** Samochód osobowy przeznaczony do zawodów sportowych dopuszcza się do ruchu drogowego w zakresie, o którym mowa w art. 65p, jeżeli:
+
+- **1)** spełnia warunki techniczne określone przez właściwy polski związek sportowy na podstawie art. 13 ust. 1 pkt 2 ustawy z dnia 25 czerwca 2010 r. o sporcie, każdorazowo publikowane na stronie podmiotowej tego związku;
+- **2)** uzyskał pozytywny wynik badania co do zgodności z warunkami technicznymi określonego w przepisach wydanych na podstawie art. 81 ust. 17;
+- **3)** został czasowo zarejestrowany na podstawie art. 74 ust. 2ca;
+- **4)** został poddany sprawdzeniu stanu technicznego przez organizatora imprezy przed rozpoczęciem imprezy.
 
 ### DZIAŁ III Pojazdy
 
@@ -2603,9 +2749,31 @@ Art. 141–143. (pominięte)
 
 **Art. 75c.** Minister właściwy do spraw transportu, uwzględniając konieczność prawidłowego zabezpieczenia obrotu tablicami rejestracyjnymi oraz materiałami mającymi szczególne znaczenie do produkcji tablic rejestracyjnych, określi, w drodze rozporządzenia:
 
+- **1)** warunki produkcji i szczegółowy sposób dystrybucji tablic rejestracyjnych i znaków legalizacyjnych oraz prowadzenia ewidencji, o których mowa w art. 75a ust. 6;
+- **2)** tryb legalizacji tablic rejestracyjnych, warunki techniczne oraz wzór znaku legalizacyjnego, o którym mowa w art. 75b;
+- **3)** materiały mające szczególne znaczenie do produkcji tablic rejestracyjnych. Art. 75ca. Minister właściwy do spraw transportu, uwzględniając konieczność prawidłowego zabezpieczenia obrotu profesjonalnymi tablicami rejestracyjnymi oraz materiałami mającymi szczególne znaczenie dla produkcji tych tablic, określi, w drodze rozporządzenia:
+- **1)** warunki produkcji i szczegółowy sposób dystrybucji profesjonalnych tablic rejestracyjnych i znaków legalizacyjnych, materiały mające szczególne znaczenie dla produkcji tych tablic oraz warunki prowadzenia ewidencji, o których mowa w art. 75a ust. 6, w zakresie profesjonalnych tablic rejestracyjnych;
+- **2)** tryb legalizacji profesjonalnych tablic rejestracyjnych.
+
 **Art. 75d.** (uchylony)
 
 **Art. 75e.** [1. Wytwórca dowodów rejestracyjnych zapewnia system teleinformatyczny umożliwiający realizację zadań organów rejestrujących w zakresie rejestracji, czasowej rejestracji, czasowego wycofania z ruchu, wyrejestrowania i profesjonalnej rejestracji pojazdów, w tym w zakresie procesu wytwarzania, personalizacji i dystrybucji dokumentów związanych z realizacją tych zadań.] <1. Wytwórca dowodów rejestracyjnych zapewnia system teleinformatyczny obsługujący proces wytwarzania, personalizacji i dystrybucji dokumentów i oznaczeń pojazdów zintegrowany z systemem teleinformatycznym obsługującym centralną ewidencję pojazdów, w którym organ rejestrujący realizuje zadania związane z rejestracją pojazdów, czasową rejestracją, czasowym wycofaniem z ruchu, wyrejestrowaniem i profesjonalną rejestracją pojazdów oraz prowadzeniem rejestru przedsiębiorców prowadzących stacje kontroli pojazdów.> [2. System teleinformatyczny, o którym mowa w ust. 1, zapewnia integralność powiązania procesu wytwarzania dokumentów związanych z realizacją zadań, o których mowa w ust. 1, z danymi gromadzonymi w centralnej ewidencji pojazdów, z uwzględnieniem referencyjności tych danych przy realizacji tych zadań.] <2. System teleinformatyczny, zapewniany przez wytwórcę dowodów rejestracyjnych, pobiera dane niezbędne do procesu wytwarzania, personalizacji i dystrybucji dokumentów i oznaczeń pojazdów z centralnej ewidencji pojazdów.> [3. System teleinformatyczny, o którym mowa w ust. 1, zapewnia co najmniej funkcjonalności spójne z systemem teleinformatycznym obsługującym centralną ewidencję pojazdów.] 3. (uchylony) [4. Minister właściwy do spraw informatyzacji nadzoruje interoperacyjność systemu teleinformatycznego, o którym mowa w ust. 1, z systemem teleinformatycznym obsługującym centralną ewidencję pojazdów.] 4. (uchylony) [5. Minister właściwy do spraw informatyzacji zawiera z wytwórcą dowodów rejestracyjnych umowę regulującą:
+
+- **1)** zasady współpracy w zakresie:
+    - **a)** określenia charakteru i zakresu zmian dostosowujących system teleinformatyczny, o którym mowa w ust. 1, do zmian w systemie teleinformatycznym obsługującym centralną ewidencję pojazdów,
+    - **b)** udostępniania ministrowi właściwemu do spraw informatyzacji informacji i doświadczenia technicznego, w tym dokumentacji, dotyczących systemu teleinformatycznego, o którym mowa w ust. 1, niezbędnych ministrowi do sprawowania nadzoru, o którym mowa w ust. 4;
+
+- **2)** odpłatności za realizację zmian oraz za udostępnianie informacji i doświadczenia technicznego, o których mowa w pkt 1.]
+
+5. (uchylony) [6. Koszty związane z zawarciem i realizacją umowy, o której mowa w ust. 5, są finansowane ze środków Funduszu – Centralna Ewidencja Pojazdów i Kierowców.]
+
+6. (uchylony)
+
+7. Wytwórca dowodu rejestracyjnego umożliwia odczyt danych zakodowanych w dowodzie rejestracyjnym podmiotom, o których mowa w art. 80c ust. 1 i 2a, o ile są one niezbędne do realizacji ich ustawowych zadań, na wniosek danego podmiotu, albo innym podmiotom za pośrednictwem podmiotów, o których mowa w art. 80c ust. 1 i 2a. Wniosek zawiera nazwę wnioskodawcy i jego adres oraz cel odczytu danych zakodowanych w dowodzie rejestracyjnym.
+
+8. Wytwórca dowodu rejestracyjnego przedstawia wnioskodawcy warunki umożliwienia odczytu danych zakodowanych w dowodzie rejestracyjnym, w tym koszty z tym związane.
+
+9. Po uzgodnieniu warunków, o których mowa w ust. 8, wytwórca dowodu rejestracyjnego udziela wnioskodawcy, na czas oznaczony i na określonych polach eksploatacji, licencji na wykorzystanie biblioteki umożliwiającej odczyt danych zakodowanych w dowodzie rejestracyjnym.
 
 **Art. 76.**
 
@@ -2700,6 +2868,11 @@ Art. 141–143. (pominięte)
 6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, tryb i warunki czasowego wycofania pojazdów z ruchu, wysokość opłat w zależności od okresu wycofania z ruchu, w wysokości nie wyższej niż 150 zł, oraz wzory dokumentów stosowanych w tym zakresie, mając na względzie konieczność przeciwdziałania używaniu pojazdów czasowo wycofanych z ruchu oraz koszty ponoszone przez organy administracji publicznej.
 
 **Art. 78b.** Opłata za wydanie:
+
+- **1)** dowodu rejestracyjnego, pozwolenia czasowego, zalegalizowanych tablic (tablicy) rejestracyjnych oraz ich wtórników, o których mowa w art. 75 ust. 2,
+- **2)** (uchylony)
+- **3)** decyzji o czasowym wycofaniu pojazdu z ruchu, o której mowa w art. 78a ust. 3,
+- **4)** decyzji o profesjonalnej rejestracji pojazdów, blankietów profesjonalnych dowodów rejestracyjnych oraz zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych, o których mowa w art. 80t ust. 2 – stanowi dochód powiatu.
 
 **Art. 79.**
 
@@ -3235,6 +3408,10 @@ Art. 141–143. (pominięte)
 
 **Art. 80m.** Krajowe podmioty uprawnione:
 
+- **1)** składają zapytania o udzielenie informacji, o których mowa w art. 80k ust. 3, za pośrednictwem Krajowego Punktu Kontaktowego przy użyciu urządzeń teletransmisji danych;
+- **2)** udostępniają uzyskane informacje właściwym funkcjonariuszom lub pracownikom krajowych podmiotów uprawnionych na potrzeby prowadzonych postępowań;
+- **3)** wykorzystują rozwiązania teleinformatyczne przystosowane do współpracy z Krajowym Punktem Kontaktowym.
+
 **Art. 80n.** Krajowe podmioty uprawnione przetwarzają dane uzyskane za pośrednictwem Krajowego Punktu Kontaktowego wyłącznie w związku z popełnieniem naruszeń, o których mowa w art. 80k ust. 6.
 
 **Art. 80o.**
@@ -3301,7 +3478,70 @@ Art. 141–143. (pominięte)
 
 **Art. 80s.** [1. Dokumentem stwierdzającym dopuszczenie do ruchu niezarejestrowanego wcześniej na terytorium Rzeczypospolitej Polskiej lub za granicą pojazdu samochodowego, motoroweru, ciągnika rolniczego lub przyczepy w celu wykonywania jazd testowych tymi pojazdami w ramach działalności prowadzonej przez podmiot uprawniony jest profesjonalny dowód rejestracyjny wraz z profesjonalnymi tablicami (tablicą) rejestracyjnymi.] <1. Dokumentem stwierdzającym dopuszczenie do ruchu pojazdu samochodowego, motoroweru, ciągnika rolniczego lub przyczepy w celu wykonywania jazd testowych tymi pojazdami w ramach działalności prowadzonej przez podmiot uprawniony jest profesjonalny dowód rejestracyjny wraz z profesjonalnymi tablicami (tablicą) rejestracyjnymi.> [2. Podmiotami uprawnionymi w ramach prowadzonej działalności do posługiwania się profesjonalnym dowodem rejestracyjnym i profesjonalnymi tablicami (tablicą) rejestracyjnymi są:
 
+- **1)** przedsiębiorca posiadający na terytorium Rzeczypospolitej Polskiej siedzibę, a w przypadku przedsiębiorcy posiadającego siedzibę za granicą – oddział, zajmujący się produkcją, dystrybucją (sprzedażą prowadzoną w ramach handlu) lub badaniem pojazdów niezarejestrowanych wcześniej na terytorium Rzeczypospolitej Polskiej lub za granicą,
+- **2)** służba techniczna, o której mowa w art. 4 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, albo jednostka badawcza producenta pojazdu, przedmiotu wyposażenia lub części przeprowadzająca badania pojazdu, przedmiotu wyposażenia lub części – zwani dalej „podmiotami uprawnionymi”.] <2. Podmiotami uprawnionymi w ramach prowadzonej działalności do posługiwania się profesjonalnym dowodem rejestracyjnym i profesjonalnymi tablicami (tablicą) rejestracyjnymi są:
+- **1)** przedsiębiorca posiadający na terytorium Rzeczypospolitej Polskiej siedzibę, a w przypadku przedsiębiorcy posiadającego siedzibę za granicą – oddział, zajmujący się produkcją, dystrybucją (sprzedażą prowadzoną w ramach handlu) lub badaniem pojazdów w ramach prowadzonej działalności badawczo-rozwojowej w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych,
+- **2)** służba techniczna, o której mowa w art. 4 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, albo jednostka badawcza producenta pojazdu, przedmiotu wyposażenia lub części przeprowadzająca badania pojazdu, przedmiotu wyposażenia lub części – zwani dalej „podmiotami uprawnionymi”.>
+
+3. Za przedsiębiorcę zajmującego się produkcją pojazdów, o którym mowa w ust. 2 pkt 1, uznaje się producenta pojazdu kompletnego, skompletowanego lub niekompletnego. [4. Przez jazdę testową rozumie się jazdę w ruchu drogowym pojazdem niezarejestrowanym wcześniej na terytorium Rzeczypospolitej Polskiej lub za granicą wykonywaną:
+
+- **1)** z wykorzystaniem profesjonalnego dowodu rejestracyjnego i profesjonalnych tablic (tablicy) rejestracyjnych,
+- **2)** w ramach działalności prowadzonej przez podmiot uprawniony w zakresie, o którym mowa w ust. 2,
+- **3)** przez podmiot uprawniony albo osoby, o których mowa w art. 80w ust. 2–4 – w celu przeprowadzenia testu produkowanego lub badanego pojazdu, w tym przedmiotu jego wyposażenia lub części, lub testu pojazdu będącego przedmiotem dystrybucji.] <4. Przez jazdę testową rozumie się jazdę w ruchu drogowym pojazdem wykonywaną:
+- **1)** z wykorzystaniem profesjonalnego dowodu rejestracyjnego i profesjonalnych tablic (tablicy) rejestracyjnych,
+- **2)** w ramach działalności prowadzonej przez podmiot uprawniony w zakresie, o którym mowa w ust. 2,
+- **3)** przez podmiot uprawniony albo osoby, o których mowa w art. 80w ust. 2–4 – w celu przeprowadzenia testu produkowanego pojazdu, w tym przedmiotu jego wyposażenia lub części, lub testu pojazdu będącego przedmiotem dystrybucji lub badania pojazdu w ramach prowadzenia działalności badawczo-rozwojowej w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.>
+
+5. Profesjonalny dowód rejestracyjny stanowi wypełniony przez starostę i podmiot uprawniony blankiet profesjonalnego dowodu rejestracyjnego. Blankiet profesjonalnego dowodu rejestracyjnego jest wypełniany w części przez starostę, a w części przez podmiot uprawniony, stosownie do zakresu określonego w przepisach wydanych na podstawie art. 80zc ust. 1 pkt 4.
+
+6. Profesjonalny dowód rejestracyjny potwierdza prawo do wykonywania jazd testowych przez okres:
+
+- **1)** 30 dni od dnia wypełnienia blankietu profesjonalnego dowodu rejestracyjnego przez podmiot uprawniony, o którym mowa w ust. 2 pkt 1,
+- **2)** 6 miesięcy od dnia wypełnienia blankietu profesjonalnego dowodu rejestracyjnego przez podmiot uprawniony, o którym mowa w ust. 2 pkt 2 – jednak nie dłużej niż do dnia wygaśnięcia albo uchylenia decyzji o profesjonalnej rejestracji pojazdów, do której zostały wydane blankiety profesjonalnych dowodów rejestracyjnych. <7. Pojazdy wykorzystywane wyłącznie do prowadzenia działalności badawczo-rozwojowej w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych podlegają wyłącznie rejestracji profesjonalnej.>
+
 **Art. 80t.** [1. O decyzję o profesjonalnej rejestracji pojazdów może ubiegać się podmiot uprawniony, który:
+
+- **1)** nie został prawomocnie skazany za przestępstwo przeciwko mieniu, przestępstwo przeciwko obrotowi gospodarczemu lub przestępstwo przeciwko wiarygodności dokumentów – dotyczy przedsiębiorcy, jeżeli jest on osobą fizyczną, albo członków władz organów osoby prawnej lub nieposiadającej osobowości prawnej jednostki organizacyjnej;
+- **2)** złożył oświadczenia, że:
+    - **a)** każdy z pojazdów, którymi będą wykonywane jazdy testowe, będzie spełniał warunki określone w art. 66, odpowiednie dla pojazdu, którym będą wykonywane te jazdy,
+    - **b)** będzie używał w ruchu drogowym z wykorzystaniem profesjonalnego dowodu rejestracyjnego tylko pojazdy niezarejestrowane wcześniej na terytorium Rzeczypospolitej Polskiej lub za granicą, dla których posiada udokumentowane prawo do dysponowania nimi, oraz wyłącznie w celu wykonywania jazd testowych,
+    - **c)** blankiety profesjonalnych dowodów rejestracyjnych będą wypełniane wyłącznie przez podmiot uprawniony albo osoby zatrudnione przez ten podmiot.] <1. O decyzję o profesjonalnej rejestracji pojazdów może ubiegać się podmiot uprawniony, który:
+
+- **1)** nie został prawomocnie skazany za przestępstwo przeciwko mieniu, przestępstwo przeciwko obrotowi gospodarczemu lub przestępstwo przeciwko wiarygodności dokumentów – dotyczy przedsiębiorcy, jeżeli jest on osobą fizyczną, albo członków władz organów osoby prawnej lub nieposiadającej osobowości prawnej jednostki organizacyjnej;
+- **2)** złożył oświadczenia, że:
+    - **a)** każdy z pojazdów, którymi będą wykonywane jazdy testowe, będzie spełniał warunki określone w art. 66, odpowiednie dla pojazdu, którym będą wykonywane te jazdy, a pojazd, którym będzie prowadzona działalność badawczo-rozwojowa w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, będzie spełniał wymagania techniczne opisane w art. 66 ust. 1 i ust. 4 pkt 1–4,
+    - **b)** będzie używał w ruchu drogowym z wykorzystaniem profesjonalnego dowodu rejestracyjnego tylko pojazdów, dla których posiada udokumentowane prawo do dysponowania nimi, oraz wyłącznie w celu wykonywania jazd testowych, a w przypadku podmiotów prowadzących działalność badawczo-rozwojową w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych będzie wykorzystywał pojazdy wyłącznie do celów prowadzenia prac badawczych, które nie będą podlegały dalszej odsprzedaży,
+    - **c)** podmiot prowadzący działalność badawczo-rozwojową w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ma ubezpieczenie OC dla prowadzonej działalności badawczo-rozwojowej,
+    - **d)** blankiety profesjonalnych dowodów rejestracyjnych będą wypełniane wyłącznie przez podmiot uprawniony albo osoby zatrudnione przez ten podmiot.>
+
+2. Starosta właściwy ze względu na siedzibę albo oddział podmiotu uprawnionego, na wniosek tego podmiotu, wydaje za opłatą decyzję o profesjonalnej rejestracji pojazdów, blankiety profesjonalnych dowodów rejestracyjnych oraz profesjonalne tablice (tablicę) rejestracyjne.
+
+3. Do wniosku, o którym mowa w ust. 2, dołącza się:
+
+- **1)** oświadczenie, że podmiot uprawniony jest wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, albo kopię aktualnego odpisu z rejestru przedsiębiorców w Krajowym Rejestrze Sądowym albo oświadczenie o wpisie do tego rejestru albo pobrany samodzielnie wydruk komputerowy aktualnych informacji o podmiocie uprawnionym wpisanym do Krajowego Rejestru Sądowego – w przypadku przedsiębiorcy posiadającego siedzibę albo oddział na terytorium Rzeczypospolitej Polskiej, zajmującego się produkcją, dystrybucją lub badaniem pojazdów;
+- **2)** kopię dokumentu potwierdzającego uprawnienie podmiotu do przeprowadzania odpowiednich badań pojazdu, przedmiotu wyposażenia lub części – w przypadku podmiotów, o których mowa w art. 80s ust. 2 pkt 2;
+- **3)** oświadczenia:
+    - **a)** przedsiębiorcy, jeżeli jest on osobą fizyczną, albo członków władz organów osoby prawnej lub nieposiadającej osobowości prawnej jednostki organizacyjnej o niekaralności za przestępstwo przeciwko mieniu, przestępstwo przeciwko obrotowi gospodarczemu lub przestępstwo przeciwko wiarygodności dokumentów,
+    - **b)** o których mowa w ust. 1 pkt 2;
+
+- **4)** kopię dowodu wniesienia opłaty za wydanie decyzji o profesjonalnej rejestracji pojazdów, blankietów profesjonalnych dowodów rejestracyjnych i zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych.
+
+4. Oświadczenia, o których mowa w ust. 1 pkt 2 i ust. 3 pkt 3 lit. a, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+5. Opłatę za wydanie decyzji o profesjonalnej rejestracji pojazdów, blankietów profesjonalnych dowodów rejestracyjnych oraz zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych pobiera starosta.
+
+6. Wysokość opłaty za wydanie:
+
+- **1)** decyzji o profesjonalnej rejestracji pojazdów nie może przekroczyć 100 zł;
+- **2)** blankietu profesjonalnego dowodu rejestracyjnego nie może przekroczyć 20 zł;
+- **3)** profesjonalnych tablic rejestracyjnych nie może przekroczyć:
+    - **a)** 80 zł za komplet profesjonalnych tablic samochodowych,
+    - **b)** 40 zł za profesjonalną tablicę motocyklową,
+    - **c)** 30 zł za profesjonalną tablicę motorowerową;
+
+- **4)** znaku legalizacyjnego nie może przekroczyć 15 zł.
+
+7. Starosta, realizując zadanie, o którym mowa w ust. 2, nie jest obowiązany do przeprowadzania kontroli, o której mowa w art. 84 ust. 2 pkt 1 lit. d ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych.
 
 **Art. 80u.**
 
@@ -4486,6 +4726,9 @@ Art. 141–143. (pominięte)
 
 **Art. 121.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
+- **1)** w porozumieniu z ministrem właściwym do spraw budżetu, spraw instytucji finansowych oraz spraw finansów publicznych – szczegółowe warunki gospodarki finansowej ośrodka oraz szczegółowe warunki ewidencji przychodów i kosztów, o których mowa w art. 119 ust. 7.
+- **2)** (uchylony)
+
 **Art. 121a.**
 
 1. Warunki wynagradzania egzaminatorów określa sejmik województwa, w drodze uchwały będącej aktem prawa miejscowego, kierując się charakterem pracy wykonywanej przez egzaminatorów i potrzebą zapewnienia odpowiedniego poziomu wykonywania przez nich zadań.
@@ -4648,6 +4891,30 @@ Art. 141–143. (pominięte)
 2. Art. 129 ust. 3 stosuje się odpowiednio do kontroli ruchu drogowego wykonywanej przez osoby, o których mowa w ust. 1.
 
 **Art. 129f.** Strażnicy straży gminnych (miejskich), strażnicy leśni oraz funkcjonariusze Straży Parku w związku z wykonywaniem czynności z zakresu kontroli ruchu drogowego są obowiązani do czasu przybycia Policji uniemożliwić kierowanie pojazdem osobie, co do której istnieje uzasadnione podejrzenie, że znajduje się ona w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu. Art. 129fa. 1. Pojazd wytypowany przez kontrolującego do sprawdzenia stanu technicznego w ramach kontroli ruchu drogowego podlega wstępnej drogowej kontroli technicznej, która jest przeprowadzana zgodnie z przepisami wydanymi na podstawie art. 131 ust. 1. 2. Główny Inspektor Transportu Drogowego w porozumieniu z Komendantem Głównym Policji planują i organizują wstępne drogowe kontrole techniczne pojazdów kategorii M , M , N i N i przyczep kategorii O i O w taki sposób, aby łączna liczba tych kontroli obejmowała w każdym roku kalendarzowym co najmniej 5 % łącznej liczby takich pojazdów zarejestrowanych na terytorium Rzeczypospolitej Polskiej. Art. 129fb. 1. W przypadku pojazdu kategorii M , M , N i N , przyczepy kategorii O i O i ciągnika kołowego kategorii T , T , T , T , T , T i T użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy kontrolujący, na podstawie wyników wstępnej drogowej kontroli technicznej, może skierować ten pojazd na szczegółową drogową kontrolę techniczną. Kierując pojazd na szczegółową drogową kontrolę techniczną, uwzględnia się w szczególności potrzebę ustalenia, czy pojazd ten zagraża bezpieczeństwu ruchu drogowego lub narusza wymagania ochrony środowiska. 2. Zakres szczegółowej drogowej kontroli technicznej, która ma być przeprowadzona, określa się w protokole drogowej kontroli technicznej. 3. Szczegółowa drogowa kontrola techniczna jest przeprowadzana zgodnie z przepisami wydanymi na podstawie art. 131 ust. 1 w:
+
+- **1)** mobilnej stacji kontroli drogowej,
+- **2)** wyznaczonym punkcie przeprowadzania kontroli drogowej obejmującym obszar o odpowiedniej powierzchni, na którym jest możliwa kontrola techniczna głównych układów w pojeździe odpowiedzialnych za bezpieczeństwo – przy użyciu przyrządów kontrolno-pomiarowych niezbędnych do przeprowadzenia takiej kontroli, w szczególności przyrządów niezbędnych do oceny stanu hamulców i skuteczności ich działania, układu kierowniczego, zawieszenia oraz uciążliwości pojazdu.
+
+4. W przypadku skierowania pojazdu, o którym mowa w ust. 1, na szczegółową drogową kontrolę techniczną w wyznaczonym punkcie przeprowadzania kontroli drogowej kontrola ta jest przeprowadzana w możliwie najkrótszym czasie i w najbliższym wyznaczonym punkcie przeprowadzania kontroli drogowej.
+
+5. Wyniki szczegółowej drogowej kontroli technicznej zamieszcza się w protokole drogowej kontroli technicznej.
+
+6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, minimalne wymagania w zakresie wyposażenia mobilnej stacji kontroli drogowej oraz wyznaczonego punktu przeprowadzania kontroli drogowej i przyrządów kontrolnopomiarowych w nich stosowanych, uwzględniając zakres szczegółowej drogowej kontroli technicznej oraz potrzebę zapewnienia prawidłowej oceny stanu technicznego pojazdów poddawanych tej kontroli. Art. 129fc. 1. Szczegółową drogową kontrolę techniczną przeprowadza kontrolujący, który posiada:
+
+- **1)** uprawnienia, o których mowa w art. 84 ust. 2, albo
+- **2)** wykształcenie i praktykę, o których mowa w art. 84 ust. 2b, oraz odbył szkolenie dla kontrolujących w zakresie przeprowadzania szczegółowych drogowych kontroli technicznych – oraz nie rzadziej niż raz w ciągu 2 kolejnych lat uczestniczy w warsztatach dla kontrolujących przeprowadzających szczegółowe drogowe kontrole techniczne.
+
+2. Wojewódzki inspektor transportu drogowego, komendant wojewódzki Policji, Komendant Stołeczny Policji, Komendant-Rektor Akademii Policji w Szczytnie, komendant szkoły policyjnej, komendant oddziału Straży Granicznej, Rektor-Komendant Wyższej Szkoły Straży Granicznej i dyrektor Krajowej Szkoły Skarbowości, każdy w zakresie swojej właściwości:
+
+- **1)** mogą organizować szkolenia dla kontrolujących w zakresie przeprowadzania szczegółowych drogowych kontroli technicznych i warsztaty dla kontrolujących przeprowadzających szczegółowe drogowe kontrole techniczne, zgodnie z programem określonym w przepisach wydanych na podstawie ust. 3;
+- **2)** wydają zaświadczenia o ukończeniu szkolenia dla kontrolujących w zakresie przeprowadzania szczegółowych drogowych kontroli technicznych oraz zaświadczenia o ukończeniu warsztatów dla kontrolujących przeprowadzających szczegółowe drogowe kontrole techniczne, pod warunkiem uczestnictwa we wszystkich przewidzianych w programie zajęciach.
+
+3. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw wewnętrznych i ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** program szkolenia dla kontrolujących w zakresie przeprowadzania szczegółowych drogowych kontroli technicznych,
+- **2)** program warsztatów dla kontrolujących przeprowadzających szczegółowe drogowe kontrole techniczne,
+- **3)** wzór zaświadczenia o ukończeniu szkolenia dla kontrolujących w zakresie przeprowadzania szczegółowych drogowych kontroli technicznych,
+- **4)** wzór zaświadczenia o ukończeniu warsztatów dla kontrolujących przeprowadzających szczegółowe drogowe kontrole techniczne – uwzględniając potrzebę zapewnienia równoważności tych szkoleń i warsztatów ze szkoleniami i warsztatami dla diagnostów, potrzebę osiągnięcia właściwego poziomu wiedzy i umiejętności niezbędnych do przeprowadzania szczegółowych drogowych kontroli technicznych oraz konieczność ujednolicenia wydawanych zaświadczeń.
 
 **Art. 129g.**
 
@@ -5136,6 +5403,14 @@ Art. 141–143. (pominięte)
 
 **Art. 140d.** W skład Krajowej Rady wchodzą:
 
+- **1)** Przewodniczący – minister właściwy do spraw transportu;
+- **2)** zastępcy Przewodniczącego:
+    - **a)** sekretarz lub podsekretarz stanu w ministerstwie właściwym do spraw wewnętrznych,
+    - **b)** sekretarz lub podsekretarz stanu w ministerstwie właściwym do spraw transportu;
+
+- **3)** sekretarz Krajowej Rady wskazany przez ministra właściwego do spraw transportu;
+- **4)** członkowie Krajowej Rady wskazani przez: Prezesa Rady Ministrów spośród wojewodów, Ministra Obrony Narodowej, Ministra Sprawiedliwości oraz ministrów właściwych do spraw: administracji publicznej, budżetu, finansów publicznych, gospodarki, budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, klimatu, oświaty i wychowania, środowiska, transportu, wewnętrznych, pracy oraz Komendanta Głównego Policji, Komendanta Głównego Straży Pożarnej, Generalnego Dyrektora Dróg Krajowych i Autostrad oraz Głównego Inspektora Transportu Drogowego.
+
 **Art. 140e.**
 
 1. Przewodniczący Krajowej Rady kieruje jej pracami i reprezentuje ją na zewnątrz.
@@ -5182,6 +5457,28 @@ Art. 141–143. (pominięte)
 
 **Art. 140i.** W skład Wojewódzkiej Rady wchodzą:
 
+- **1)** przewodniczący – marszałek województwa;
+- **2)** zastępcy przewodniczącego:
+    - **a)** wojewoda,
+    - **b)** wojewódzki komendant Policji;
+
+- **3)** sekretarz – wskazany przez marszałka województwa;
+- **4)** członkowie Wojewódzkiej Rady:
+    - **a)** wojewódzki inspektor transportu drogowego,
+    - **b)** dyrektor właściwego terenowo oddziału Generalnej Dyrekcji Dróg Krajowych i Autostrad,
+    - **c)** przedstawiciel wojewody,
+    - **d)** przedstawiciel Szefa Centralnego Wojskowego Centrum Rekrutacji,
+    - **e)** przedstawiciel kuratora oświaty,
+    - **f)** przedstawiciel zarządu województwa,
+    - **g)** przedstawiciel zarządów powiatu,
+    - **h)** przedstawiciel wójtów, burmistrzów lub prezydentów miast,
+    - **i)** przedstawiciel komendanta wojewódzkiego Policji,
+    - **j)** przedstawiciel komendanta wojewódzkiego Państwowej Straży Pożarnej,
+    - **k)** przedstawiciel zarządu dróg wojewódzkich,
+    - **l)** przedstawiciel wojewódzkich ośrodków ruchu drogowego,
+    - **m)** przedstawiciel zarządów dróg powiatowych,
+    - **n)** osoby wskazane przez marszałka województwa w szczególności reprezentujące działające na terenie województwa organizacje pozarządowe, których celem statutowym jest problematyka bezpieczeństwa ruchu drogowego, przy czym marszałek województwa może wskazać nie więcej niż 12 osób.
+
 **Art. 140j.**
 
 1. Przewodniczący Wojewódzkiej Rady kieruje jej pracami i reprezentuje ją na zewnątrz.
@@ -5197,9 +5494,55 @@ Art. 141–143. (pominięte)
 
 **Art. 140l.** W pracach Krajowej Rady i Wojewódzkiej Rady mogą brać udział z głosem doradczym:
 
+- **1)** przedstawiciele organizacji pozarządowych, których statutowy zakres działalności obejmuje zagadnienia bezpieczeństwa ruchu drogowego;
+- **2)** pracownicy naukowi wyższych uczelni lub jednostek badawczo-rozwojowych;
+- **3)** niezależni eksperci.
+
 ### DZIAŁ Vb Kary pieniężne
 
 **Art. 140m.** (uchylony) Art. 140ma. 1. Podmiot uprawniony, który:
+
+- **1)** nie zwrócił staroście w terminie, o którym mowa w art. 80y ust. 1, blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych, podlega karze pieniężnej w wysokości 3000 zł;
+- **2)** nie prowadzi wykazu, o którym mowa w art. 80x ust. 1, podlega karze pieniężnej w wysokości 5000 zł.
+
+2. Podmiot uprawniony, któremu trzykrotnie w ciągu danego roku kalendarzowego zatrzymano profesjonalny dowód rejestracyjny, podlega karze pieniężnej w wysokości 2000 zł. Art. 140mb. 1. Kto będąc właścicielem pojazdu obowiązanym do złożenia wniosku o rejestrację pojazdu w terminie, o którym mowa w art. 73aa ust. 1 albo 2, nie złoży tego wniosku w terminie, podlega karze pieniężnej w wysokości 500 zł.
+
+2. Kto będąc właścicielem pojazdu obowiązanym do złożenia wniosku o rejestrację pojazdu w terminie, o którym mowa w art. 73aa ust. 3, nie złoży tego wniosku w terminie, podlega karze pieniężnej w wysokości 1000 zł.
+
+3. Kto będąc właścicielem pojazdu obowiązanym do złożenia wniosku o rejestrację pojazdu pomimo wezwania nie uzupełnia braków złożonego wniosku w wyznaczonym terminie, podlega karze pieniężnej, o której mowa odpowiednio w ust. 1 albo 2.
+
+4. Kary pieniężnej, o której mowa w ust. 3, nie nakłada się, jeżeli termin na uzupełnienie braków złożonego wniosku o rejestrację pojazdu upływa odpowiednio przed upływem terminu, o którym mowa w art. 73aa ust. 1, 2 albo 3.
+
+5. W przypadku niezłożenia wniosku o rejestrację pojazdu w terminie 180 dni od dnia, o którym mowa odpowiednio w art. 73aa ust. 1, 2 albo 2a, karę pieniężną, o której mowa:
+
+- **1)** w ust. 1, nakłada się w wysokości 1000 zł;
+- **2)** w ust. 2, nakłada się w wysokości 2000 zł.
+
+6. Kto będąc właścicielem pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej wbrew przepisowi art. 78 ust. 2 pkt 1 nie zawiadamia starosty o zbyciu pojazdu w terminie, podlega karze pieniężnej w wysokości 250 zł.
+
+7. Kary pieniężne współwłaściciele pojazdu ponoszą solidarnie. <Art. 140mc. 1. Kto prowadzi prace badawcze nad pojazdem zautomatyzowanym albo pojazdem w pełni zautomatyzowanym bez wymaganego zezwolenia lub z naruszeniem warunków określonych w zezwoleniu, podlega karze pieniężnej.
+
+2. Karę pieniężną, o której mowa w ust. 1, ustala się w wysokości:
+
+- **1)** od 100 000 zł do 200 000 zł – za brak zezwolenia, o którym mowa w art. 65l ust. 1,
+- **2)** od 20 000 zł do 100 000 zł – za naruszenie warunków określonych w zezwoleniu, o którym mowa w art. 65l ust. 1 – uwzględniając okoliczności, zakres oraz uprzednie naruszenie przepisów ustawy.
+
+3. Kary pieniężne, w sprawach określonych w ust. 1, nakłada się w drodze decyzji administracyjnej.
+
+4. Karę pieniężną, o której mowa w ust. 1, nakłada:
+
+- **1)** wojewódzki inspektor transportu drogowego, właściwy ze względu na miejsce przeprowadzanej kontroli;
+- **2)** wojewódzki inspektor transportu drogowego, na wniosek Krajowego Koordynatora Prac Badawczych, po przeprowadzeniu kontroli, o której mowa w art. 65m ust. 3 pkt 1, właściwy ze względu na miejsce rozpoczęcia tej kontroli;
+- **3)** odpowiedni organ Policji lub Straży Granicznej, którego funkcjonariusze stwierdzili naruszenie, właściwy ze względu na miejsce kontroli.
+
+5. Karę pieniężną, o której mowa w ust. 1, nakłada się na organizatora prac badawczych.
+
+6. Środki z tytułu kar pieniężnych, o których mowa w ust. 1, gromadzi się na wyodrębnionym rachunku bankowym właściwego:
+
+- **1)** wojewódzkiego inspektoratu transportu drogowego i przekazuje się w terminie pierwszych 2 dni roboczych po upływie tygodnia, w którym wpłynęły, do Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej;
+- **2)** komendy wojewódzkiej Policji lub oddziału Straży Granicznej.
+
+7. Środki, o których mowa w ust. 6 pkt 1, stanowią wpływy Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, a środki, o których mowa w ust. 6 pkt 2, stanowią dochód budżetu państwa.>
 
 **Art. 140n.**
 
@@ -5237,6 +5580,9 @@ Art. 141–143. (pominięte)
 
 **Art. 149.** Minister właściwy do spraw transportu w porozumieniu z Ministrem Obrony Narodowej, ministrem właściwym do spraw wewnętrznych oraz Ministrem Sprawiedliwości, kierując się potrzebą zapewnienia stabilnego obrotu pojazdami samochodowymi, może określić, w drodze rozporządzenia:
 
+- **1)** obowiązek uzyskania karty pojazdu przez właścicieli pojazdów zarejestrowanych przed dniem, o którym mowa w art. 152 pkt 3;
+- **2)** warunki, terminy i tryb uzyskiwania karty pojazdu przez osoby, o których mowa w pkt 1, organy właściwe do ich wydania, dokumenty stosowane w tych sprawach oraz wysokość opłaty za wydanie karty pojazdu.
+
 **Art. 150.**
 
 1. Prawa jazdy i inne dokumenty uprawniające do kierowania pojazdami lub potwierdzające dodatkowe kwalifikacje i wymagania w stosunku do kierujących pojazdami, wydane na podstawie dotychczasowych przepisów, zachowują ważność do czasu ich wymiany dokonywanej na koszt osoby uprawnionej w zakresie, na jaki zostały wydane.
@@ -5250,4 +5596,9 @@ Art. 141–143. (pominięte)
 2. (pominięty)
 
 **Art. 152.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r., z wyjątkiem:
+
+- **1)** art. 49 ust. 2 pkt 5, art. 80, 99 i 109 ust. 4, które wchodzą w życie z dniem 1 lipca 1998 r.;
+- **2)** art. 39 ust. 3 i art. 85, które wchodzą w życie z dniem 1 stycznia 1999 r.;
+- **3)** art. 74 ust. 2 pkt 2 lit. a, art. 77, 87, 88, 90–98 i 100–108, które wchodzą w życie z dniem 1 lipca 1999 r. Załączniki do ustawy z dnia 20 czerwca (Dz. U. z 2024 r. poz. 1251)
+
 

@@ -8,12 +8,12 @@ pos: 218
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym
+# o autostradach płatnych oraz o Krajowym Funduszu Drogowym
 
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 lutego 2026 r.*
+*USTAWA z dnia 27 października 1994 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,23 +24,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-02-20 |
 | Data wydania | 2026-02-26 |
-| Ostatnia zmiana | 2026-02-27 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/218/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U.
-z 2025 r. poz. 561), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688, z 2024 r. poz. 1824 oraz z 2025 r. poz. 527),
-2) ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy o obronie Ojczyzny oraz niektórych innych ustaw (Dz. U. poz. 1014) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 lutego 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 78 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688, z 2024 r. poz. 1824 oraz z 2025 r. poz. 527), który stanowi: „Art. 78. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) (uchylony)
-2) art. 1 pkt 60 i art. 62, które wchodzą w życie z dniem 1 stycznia 2026 r.;
-3) art. 1 pkt 10 w zakresie art. 8f i art. 8g ust. 3 i 4, pkt 12 w zakresie art. 13b pkt 1 i art. 13i ust. 3 pkt 4, 7 i 11, pkt 17 lit. d, g i lit. k w zakresie pkt 13c, pkt 25 w zakresie art. 27b ust. 4 pkt 3 i 7, pkt 29 lit. b, pkt 38 lit. b tiret drugie, tiret trzecie w zakresie pkt 7b i tiret piąte w zakresie pkt 11, pkt 39 w zakresie art. 37eb ust. 4 pkt 1 i art. 37ec ust. 2 pkt 3 i 8, pkt 45 lit. a tiret drugie i trzecie oraz tiret szóste w zakresie pkt 7, pkt 47 lit. a tiret czwarte i szóste, pkt 53, pkt 62 lit. b, lit. e w zakresie ust. 3b i lit. f, pkt 63 i 64, art. 6 pkt 1 lit. a i b, art. 11–13, art. 14 pkt 2 lit. b, art. 16 pkt 3, art. 22 pkt 1 i 3, art. 27 pkt 4–9, art. 37 pkt 2 lit. d w zakresie ust. 8 i 9, art. 39 pkt 2, art. 41 pkt 1 w zakresie pkt 4a, art. 43 pkt 1, 3, 5 i 10, pkt 11 lit. b i pkt 13 lit. a w zakresie ust. 1, art. 54, art. 56 ust. 2, art. 67 ust. 3 pkt 3 i art. 75–77, które wchodzą w życie z dniem 1 lipca 2026 r.”;
-2) art. 9 ustawy z dnia 25 czerwca 2025 r. o zmianie ustawy o obronie Ojczyzny oraz niektórych innych ustaw (Dz. U.
-poz. 1014), który stanowi: „Art. 9. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: W. Czarzasty
-USTAWA z dnia 27 października 1994 r.
-o autostradach płatnych oraz o Krajowym Funduszu Drogowym
 Art. 37gi. (uchylony)
 Art. 37gj. (uchylony)
 Art. 37gk. (uchylony)
@@ -75,7 +61,7 @@ Art. 64–70. (pominięte)
 
 2. Generalny Dyrektor Dróg Krajowych i Autostrad lub drogowa spółka specjalnego przeznaczenia może, w drodze umowy, powierzyć budowę i eksploatację albo wyłącznie eksploatację autostrady innemu podmiotowi, zwanemu dalej „spółką”.
 
-3. Do wyboru spółki stosuje się przepisy ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2025 r. poz. 1688) albo przepisy ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
+3. Do wyboru spółki stosuje się przepisy ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2025 r. poz. 1688) albo przepisy ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
 3a. Jeżeli budowa i eksploatacja albo wyłącznie eksploatacja autostrady ma następować w ramach partnerstwa publiczno-prywatnego, w postępowaniu w sprawie wyboru spółki uwzględnia się także przepisy ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637).
 
@@ -93,13 +79,13 @@ Art. 64–70. (pominięte)
 
 **Art. 4.** (uchylony)
 
-#### Rozdział 2 (uchylony)
+#### Rozdział 2
 
-#### Rozdział 3 (uchylony)
+#### Rozdział 3
 
-#### Rozdział 4 (uchylony)
+#### Rozdział 4
 
-#### Rozdział 5 (uchylony)
+#### Rozdział 5
 
 #### Rozdział 5a Opłaty za przejazd
 
@@ -129,11 +115,11 @@ Art. 64–70. (pominięte)
 
 6. Ustala się następujące kategorie pojazdów w celu określenia stawek opłat za przejazd autostradą:
 
-- **1)** kategoria 1 motocykle;
-- **2)** kategoria 2 pojazdy samochodowe o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony;
-- **3)** kategoria 3 pojazdy samochodowe o dopuszczalnej masie całkowitej powyżej 3,5 tony i poniżej 12 ton;
-- **4)** kategoria 4 pojazdy samochodowe o dopuszczalnej masie całkowitej co najmniej 12 ton;
-- **5)** kategoria 5 autobusy.
+- **1)** kategoria 1 – motocykle;
+- **2)** kategoria 2 – pojazdy samochodowe o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony;
+- **3)** kategoria 3 – pojazdy samochodowe o dopuszczalnej masie całkowitej powyżej 3,5 tony i poniżej 12 ton;
+- **4)** kategoria 4 – pojazdy samochodowe o dopuszczalnej masie całkowitej co najmniej 12 ton;
+- **5)** kategoria 5 – autobusy.
 
 7. (uchylony)
 
@@ -208,7 +194,7 @@ Art. 64–70. (pominięte)
 - **11)** prokuratorowi,
 - **12)** sądom,
 - **13)** Szefowi KAS, dyrektorowi izby administracji skarbowej, naczelnikowi urzędu celno-skarbowego,
-- **14)** Służbie Ochrony Państwa w zakresie niezbędnym do realizacji ich ustawowych zadań.
+- **14)** Służbie Ochrony Państwa – w zakresie niezbędnym do realizacji ich ustawowych zadań.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
@@ -228,7 +214,7 @@ Art. 64–70. (pominięte)
 
 5. Właściwy podmiot udostępnia Agencji Bezpieczeństwa Wewnętrznego dane osobowe, o których mowa w ust. 1, w sposób, o którym mowa w ust. 3, jeżeli jednostka organizacyjna Agencji Bezpieczeństwa Wewnętrznego będąca odbiorcą danych złoży oświadczenie, o którym mowa w ust. 4 pkt 3.
 
-6. Właściwy podmiot nie udostępnia na podstawie ust. 1 i 3 danych osobowych, o których mowa w art. 9 ust. 1 rozporządzenia 2016/679, chyba że podmiot, o którym mowa w ust. 1, jest ustawowo upoważniony do przetwarzania tych danych.
+6. Właściwy podmiot nie udostępnia na podstawie ust. 1 i 3 danych osobowych, o których mowa w art. 9 ust. 1 roz-porządzenia 2016/679, chyba że podmiot, o którym mowa w ust. 1, jest ustawowo upoważniony do przetwarzania tych danych.
 
 **Art. 37b.**
 
@@ -276,6 +262,12 @@ Art. 64–70. (pominięte)
 
 **Art. 37g.** Od opłat za przejazd autostradą są zwolnione:
 
+- **1)** pojazdy Sił Zbrojnych Rzeczypospolitej Polskiej, a także sił zbrojnych państw obcych, jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, tak stanowi, pojazdy jednostek ochrony przeciwpożarowej, zespołów ratownictwa medycznego, służb ratownictwa górniczego, Morskiej Służby Poszukiwania i Ratownictwa, Straży Granicznej, Służby Ochrony Państwa, Służby Więziennej, Inspekcji Transportu Drogowego, Krajowej Administracji Skarbowej wykorzystywane przez Służbę Celno-Skarbową, Policji, Inspekcji Ochrony Środowiska, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego oraz Centralnego Biura Antykorupcyjnego;
+- **1a)** pojazdy, o których mowa w art. 53 ust. 1 pkt 12 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, poruszające się jako pojazdy uprzywilejowane i uczestniczące w akcji ratowania życia lub zdrowia ludzkiego;
+- **2)** pojazdy Generalnej Dyrekcji Dróg Krajowych i Autostrad;
+- **3)** pojazdy drogowej spółki specjalnego przeznaczenia podczas wykonywania jej zadań spółki jako zarządcy autostrady;
+- **4)** pojazdy spółki, z którą zawarto umowę o budowę i eksploatację, bądź wyłącznie eksploatację autostrady podczas wykonywania zadań spółki jako zarządcy autostrady. Art. 37ga. Zasady poboru opłat w systemie elektronicznym określają przepisy ustawy z dnia 21 marca 1985 r. o drogach publicznych. Art. 37gb. (uchylony) Art. 37gc. (uchylony) Art. 37gd. (uchylony) Art. 37ge. (uchylony) Art. 37gea. (uchylony) Art. 37gf. (uchylony) Art. 37gg. (uchylony) Art. 37gh. (uchylony)
+
 #### Rozdział 5aa Kary grzywny
 
 #### Rozdział 5b Opłata paliwowa
@@ -286,7 +278,9 @@ Art. 64–70. (pominięte)
 
 2. Przez wprowadzenie na rynek krajowy paliw silnikowych oraz gazu, o których mowa w ust. 1, rozumie się czynności podlegające opodatkowaniu podatkiem akcyzowym, których przedmiotem są te paliwa silnikowe oraz gaz.
 
-3. Biokomponentami są biokomponenty w rozumieniu przepisów ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2025 r. poz. 901).
+3. Biokomponentami są biokomponenty w rozumieniu przepisów ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2025 r. poz.
+
+- **901)** .
 
 4. Paliwami silnikowymi lub gazem, o których mowa w ust. 1, są następujące produkty:
 
@@ -298,7 +292,7 @@ Art. 64–70. (pominięte)
 
 **Art. 37i.**
 
-1. Opłata paliwowa stanowi przychód Krajowego Funduszu Drogowego, Funduszu Kolejowego, o którym mowa w ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2024 r. poz. 1133), oraz Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402 i 1572 oraz z 2025 r. poz. 303 i 1843), z tym że kwota stanowiąca 76,90 % opłaty paliwowej stanowi przychód Krajowego Funduszu Drogowego, kwota stanowiąca 19,45 % tej opłaty stanowi przychód Funduszu Kolejowego, a kwota stanowiąca 3,65 % tej opłaty przychód Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej.
+1. Opłata paliwowa stanowi przychód Krajowego Funduszu Drogowego, Funduszu Kolejowego, o którym mowa w ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2024 r. poz. 1133), oraz Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402 i 1572 oraz z 2025 r. poz. 303 i 1843), z tym że kwota stanowiąca 76,90 % opłaty paliwowej stanowi przychód Krajowego Funduszu Drogowego, kwota stanowiąca 19,45 % tej opłaty stanowi przychód Funduszu Kolejowego, a kwota stanowiąca 3,65 % tej opłaty – przychód Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej.
 
 2. W 2009 r. przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona o kwotę 200 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w danym roku. Kwota ta zostanie przekazana przez Bank Gospodarstwa Krajowego z bieżących wpływów z opłaty paliwowej na rachunek Funduszu Kolejowego do dnia 15 grudnia 2009 r.
 
@@ -355,7 +349,9 @@ Art. 64–70. (pominięte)
 
 3b. W roku 2020 stawki opłaty paliwowej, o których mowa w ust. 1, obliczone z uwzględnieniem zasady, o której mowa w ust. 2, są podwyższone odpowiednio o 28,00 zł za 1000 l albo o 28,00 zł za 1000 kg. Kwota 28,00 zł nie podlega podwyższeniu zgodnie z ust. 2.
 
-3c. W okresie do dnia 31 grudnia 2020 r. stawki opłaty paliwowej, o których mowa w ust. 1, obliczone z uwzględnieniem zasady, o której mowa w ust. 2, oraz kwot, o których mowa w ust. 3b, są podwyższone odpowiednio o 17,00 zł za 1000 l albo o 17,00 zł za 1000 kg. Kwota 17,00 zł nie podlega podwyższeniu zgodnie z ust. 2.
+3c. W okresie do dnia 31 grudnia 2020 r. stawki opłaty paliwowej, o których mowa w ust. 1, obliczone z uwzględnieniem zasady, o której mowa w ust. 2, oraz kwot, o których mowa w ust. 3b, są podwyższone odpowiednio o 17,00 zł za 1000 l albo o 17,00 zł za 1000 kg. Kwota 17,00 zł nie podlega podwyższeniu zgodnie z ust.
+
+2.
 
 4. Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, stawki opłaty paliwowej obliczone z uwzględnieniem zasady, o której mowa w ust. 2, zaokrąglając je w górę do pełnych groszy.
 
@@ -367,15 +363,15 @@ Art. 64–70. (pominięte)
 
 2. Organami właściwymi miejscowo w sprawach opłaty paliwowej są odpowiednio:
 
-- **1)** naczelnik urzędu skarbowego właściwy miejscowo w sprawach podatku akcyzowego oraz dyrektor izby administracji skarbowej właściwy dla tego naczelnika w przypadkach, w których obowiązanymi do zapłaty opłaty paliwowej są podmioty, o których mowa w art. 37j ust. 1 pkt 1, 3 i 3a, oraz podmiot, o którym mowa w art. 37j ust. 1 pkt 4 jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z innego tytułu niż import;
-- **2)** naczelnik urzędu celno-skarbowego właściwy ze względu na miejsce powstania długu celnego oraz dyrektor izby administracji skarbowej właściwy dla tego naczelnika w przypadkach, w których obowiązanym do zapłaty opłaty paliwowej jest podmiot, o którym mowa w art. 37j ust. 1 pkt 2, oraz podmiot, o którym mowa w art. 37j ust. 1 pkt 4 jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu.
+- **1)** naczelnik urzędu skarbowego właściwy miejscowo w sprawach podatku akcyzowego oraz dyrektor izby administracji skarbowej właściwy dla tego naczelnika – w przypadkach, w których obowiązanymi do zapłaty opłaty paliwowej są podmioty, o których mowa w art. 37j ust. 1 pkt 1, 3 i 3a, oraz podmiot, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z innego tytułu niż import;
+- **2)** naczelnik urzędu celno-skarbowego właściwy ze względu na miejsce powstania długu celnego oraz dyrektor izby administracji skarbowej właściwy dla tego naczelnika – w przypadkach, w których obowiązanym do zapłaty opłaty paliwowej jest podmiot, o którym mowa w art. 37j ust. 1 pkt 2, oraz podmiot, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu.
 
 **Art. 37o.**
 
 1. Podmioty, o których mowa w art. 37j ust. 1, są obowiązane składać informację o opłacie paliwowej odpowiednio właściwemu naczelnikowi urzędu skarbowego albo naczelnikowi urzędu celno-skarbowego oraz obliczać i wpłacać opłatę paliwową w terminie:
 
-- **1)** do 25. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek zapłaty w przypadku podmiotów, o których mowa w art. 37j ust. 1 pkt 1 i 3, oraz podmiotu, o którym mowa w art. 37j ust. 1 pkt 4 jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z innego tytułu niż import, 1a) 10 dni od dnia powstania obowiązku zapłaty w przypadku podmiotu, o którym mowa w art. 37j ust. 1 pkt 3a,
-- **2)** określonym dla należności celnych w przypadku podmiotu, o którym mowa w art. 37j ust. 1 pkt 2, oraz podmiotu, o którym mowa w art. 37j ust. 1 pkt 4 jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu na wyodrębniony rachunek bankowy urzędu skarbowego właściwego dla dokonywania wpłat kwot z tytułu zapłaty podatku akcyzowego.
+- **1)** do 25. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek zapłaty – w przypadku podmiotów, o których mowa w art. 37j ust. 1 pkt 1 i 3, oraz podmiotu, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z innego tytułu niż import, 1a) 10 dni od dnia powstania obowiązku zapłaty – w przypadku podmiotu, o którym mowa w art. 37j ust. 1 pkt 3a,
+- **2)** określonym dla należności celnych – w przypadku podmiotu, o którym mowa w art. 37j ust. 1 pkt 2, oraz podmiotu, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu – na wyodrębniony rachunek bankowy urzędu skarbowego właściwego dla dokonywania wpłat kwot z tytułu zapłaty podatku akcyzowego.
 
 2. W razie powstania nadpłaty w opłacie paliwowej zwrotu tej nadpłaty dokonuje się ze środków należnych Krajowemu Funduszowi Drogowemu, Funduszowi Kolejowemu oraz Funduszowi rozwoju przewozów autobusowych o charakterze użyteczności publicznej w proporcji ustalonej zgodnie z art. 37i ust. 1.
 
@@ -392,8 +388,8 @@ Art. 64–70. (pominięte)
 
 2. Organem właściwym w sprawie zwrotu opłaty paliwowej jest organ:
 
-- **1)** właściwy w sprawach zwrotu zapłaconej kwoty podatku akcyzowego, wyznaczony w przepisach wydanych na podstawie art. 31 ust. 6 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym w przypadku, o którym mowa w ust. 1 pkt 1;
-- **2)** o którym mowa odpowiednio w art. 14 ust. 8a i 9 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym w przypadkach, o których mowa w ust. 1 pkt 1a i 2.
+- **1)** właściwy w sprawach zwrotu zapłaconej kwoty podatku akcyzowego, wyznaczony w przepisach wydanych na podstawie art. 31 ust. 6 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym – w przypadku, o którym mowa w ust. 1 pkt 1;
+- **2)** o którym mowa odpowiednio w art. 14 ust. 8a i 9 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym – w przypadkach, o których mowa w ust. 1 pkt 1a i 2.
 
 3. Zwrotu opłaty paliwowej dokonuje się ze środków należnych Krajowemu Funduszowi Drogowemu, Funduszowi Kolejowemu oraz Funduszowi rozwoju przewozów autobusowych o charakterze użyteczności publicznej w proporcji ustalonej zgodnie z art. 37i ust. 1.
 
@@ -410,14 +406,14 @@ Art. 64–70. (pominięte)
 1. W zakresie nieuregulowanym w ustawie do opłaty paliwowej stosuje się odpowiednio przepisy:
 
 - **1)** ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, z wyłączeniem przepisów działu Ia, działu II rozdziałów 3 i 3a, działu IV rozdziałów 2 i 3 oraz działów V–VIb;
-- **2)** ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), z zastrzeżeniem art. 37o ust. 3, z tym że do określania wysokości opłaty paliwowej ciążącej na podmiocie, o którym mowa w art. 37j ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 37j ust. 1 pkt 4 jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu, w zakresie działu IV tej ustawy stosuje się przepisy art. 138a § 4, art. 141–143, art. 168, art. 170, art. 215 § 1 oraz rozdziałów 2, 5, 6, 9 i 10, rozdziału 11 z wyłączeniem art. 200, rozdziałów 16a i 21–23, a do odwołań stosuje się także przepisy art. 140 § 1, art. 162 § 1–3, art. 163 § 2, art. 169, art. 208, art. 210 § 1 pkt 1–6 i 8 oraz § 2, art. 220, art. 221, art. 222, art. 223, art. 226–229, art. 232, art. 233 § 1 i 2, art. 234 oraz art. 234a tej ustawy.
+- **2)** ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), z zastrzeżeniem art. 37o ust. 3, z tym że do określania wysokości opłaty paliwowej ciążącej na podmiocie, o którym mowa w art. 37j ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu, w zakresie działu IV tej ustawy stosuje się przepisy art. 138a § 4, art. 141–143, art. 168, art. 170, art. 215 § 1 oraz rozdziałów 2, 5, 6, 9 i 10, rozdziału 11 – z wyłączeniem art. 200, rozdziałów 16a i 21–23, a do odwołań stosuje się także przepisy art. 140 § 1, art. 162 § 1–3, art. 163 § 2, art. 169, art. 208, art. 210 § 1 pkt 1–6 i 8 oraz § 2, art. 220, art. 221, art. 222, art. 223, art. 226–229, art. 232, art. 233 § 1 i 2, art. 234 oraz art. 234a tej ustawy.
 
-2. Do postępowania w sprawie określenia wysokości opłaty paliwowej ciążącej na podmiocie, o którym mowa w art. 37j ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 37j ust. 1 pkt 4 jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu, stosuje się odpowiednio przepisy:
+2. Do postępowania w sprawie określenia wysokości opłaty paliwowej ciążącej na podmiocie, o którym mowa w art. 37j ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu, stosuje się odpowiednio przepisy:
 
 - **1)** art. 5, art. 18, art. 19, art. 22 ust. 1 zdanie pierwsze i drugie, ust. 2 i 3, ust. 4 zdanie pierwsze, ust. 6 i 7, art. 23 ust. 1–3, art. 27, art. 28 ust. 1–3 i ust. 4 zdanie pierwsze, art. 29, art. 44 i art. 55 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. ) oraz przepisy wydane na podstawie art. 20, art. 21, art. 24, art. 25, art. 31 i art. 32 tego rozporządzenia;
-- **2)** art. 10a, art. 10b, art. 73c, art. 76, art. 77, art. 83, art. 84, art. 86, art. 88–90 i art. 90b–90e ustawy z dnia 19 marca 2004 r. Prawo celne (Dz. U. z 2024 r. poz. 1373).
+- **2)** art. 10a, art. 10b, art. 73c, art. 76, art. 77, art. 83, art. 84, art. 86, art. 88–90 i art. 90b–90e ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2024 r. poz. 1373).
 
-3. Czynności podjęte w postępowaniu w sprawie określenia wysokości opłaty paliwowej ciążącej na podmiocie, o którym mowa w art. 37j ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 37j ust. 1 pkt 4 jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu, na podstawie przepisów działu IV ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z wyjątkiem rozstrzygnięć, o których mowa w art. 163 § 2, art. 169 § 4, art. 179 § 2, art. 215 § 1, art. 228 § 1, art. 262 § 5, art. 263 § 1, art. 268 § 3 oraz art. 270a tej ustawy:
+3. Czynności podjęte w postępowaniu w sprawie określenia wysokości opłaty paliwowej ciążącej na podmiocie, o którym mowa w art. 37j ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu, na podstawie przepisów działu IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z wyjątkiem rozstrzygnięć, o których mowa w art. 163 § 2, art. 169 § 4, art. 179 § 2, art. 215 § 1, art. 228 § 1, art. 262 § 5, art. 263 § 1, art. 268 § 3 oraz art. 270a tej ustawy:
 
 - **1)** nie są uznawane za decyzje w rozumieniu przepisów prawa celnego;
 - **2)** są zaskarżalne tylko w odwołaniu od decyzji.
@@ -435,43 +431,47 @@ Art. 64–70. (pominięte)
 
 2. W przypadku gdy przewiduje się zawarcie umowy wyłącznie na eksploatację autostrady lub jej odcinka, budowę tej autostrady lub jej odcinka finansuje się na zasadach dotyczących finansowania i budowy dróg publicznych określonych w odrębnych przepisach oraz ze środków Funduszu.
 
-3. Spółce mogą być udzielone przez Skarb Państwa gwarancje i poręczenia zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291).
+3. Spółce mogą być udzielone przez Skarb Państwa gwarancje i poręczenia zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz.
+
+- **291)** .
 
 **Art. 39.** W Banku Gospodarstwa Krajowego tworzy się Fundusz.
 
 **Art. 39a.** Fundusz:
+
+- **1)** gromadzi środki finansowe na budowę i przebudowę dróg krajowych;
+- **1a)** gromadzi środki finansowe na przygotowanie, wdrożenie, budowę lub eksploatację systemów poboru opłat, o których mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
+- **2)** finansuje realizację zadań, o których mowa w pkt 1 i 1a.
+- **3)** (uchylony)
 
 **Art. 39b.**
 
 1. Środki Funduszu pochodzą z:
 
 - **1)** opłaty paliwowej, w wysokości określonej w art. 37i;
-- **2)** odsetek z tytułu oprocentowania środków Funduszu oraz odsetek od lokat okresowo wolnych środków Funduszu w bankach;
+- **2)** odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);
 - **3)** (uchylony)
 - **4)** (uchylony)
 - **5)** (uchylony) 5a) środków pochodzących z opłat za przejazdy autostradą, pobieranych przez drogową spółkę specjalnego przeznaczenia, jeżeli umowa, o której mowa w art. 6 ust. 1 ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia, nie stanowi inaczej;
 - **5b)** środków pochodzących z opłat za przejazd autostradą, pobieranych przez spółkę, jeżeli umowa, o której mowa w art. 37b ust. 4, tak stanowi; 5ba) (uchylony) 5c) środków pochodzących z opłat elektronicznych, o których mowa w ustawie z dnia 21 marca 1985 r. o drogach publicznych;
 - **5d)** środków pochodzących z opłat, o których mowa w art. 16x ust. 6 ustawy z dnia 21 marca 1985 r. o drogach publicznych, pobieranych przez Głównego Inspektora Transportu Drogowego; 5da) odsetek, o których mowa w art. 16j ust. 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, naliczanych od opłat, które stanowią przychód Funduszu; 5db) środków wpłaconych przez dostawców EETS na rzecz Szefa KAS z tytułu pokrycia kosztów, o których mowa w art. 16i ust. 1 pkt 6a i art. 16xb ust. 9 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
-- **5e)** odsetek, o których mowa w art. 16j ust. 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, w przypadku gdy opłaty, od których nalicza się odsetki, stanowią przychód Funduszu;
-- **5f)** środków z tytułu zajęcia pasa drogowego, pochodzących z umów i decyzji, o których mowa w art. 38 ust. 2 i 3 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2025 r. poz. 1754);
-- **5f)** (uchylony)
+- **5e)** odsetek, o których mowa w art. 16j ust. 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, w przypadku gdy opłaty, od których nalicza się odsetki, stanowią przychód Funduszu; [5f) środków z tytułu zajęcia pasa drogowego, pochodzących z umów i decyzji, o których mowa w art. 38 ust. 2 i 3 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2025 r. poz. 1754);]
 - **6)** płatności dokonywanych przez spółki, zgodnie z warunkami umowy o budowę i eksploatację albo wyłącznie eksploatację autostrady, w tym przewidzianych na rzecz Generalnego Dyrektora Dróg Krajowych i Autostrad;
 - **7)** wpływów uzyskanych przez Generalnego Dyrektora Dróg Krajowych i Autostrad z tytułu odpłatnego udostępniania nieruchomości nabytych na cele budowy dróg;
 - **8)** środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi;
-- **9)** wpływów uzyskanych przez Generalnego Dyrektora Dróg Krajowych i Autostrad z tytułu:
+- **9)** wpływów uzyskanych przez Generalnego Dyrektora Dróg Krajowych i Autostrad z tytułu: 98 ust. 6 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych,
     - **a)** (uchylona)
-    - **b)** zatrzymania wadium wraz z odsetkami, w przypadku o którym mowa w art. 98 ust. 6 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych,
-    - **c)** zatrzymania wraz z odsetkami zabezpieczenia należytego wykonania umowy, o którym mowa w art. 449 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych,
+    - **b)** zatrzymania wadium wraz z odsetkami, w przypadku o którym mowa w art.
+    - **c)** zatrzymania wraz z odsetkami zabezpieczenia należytego wykonania umowy, o którym mowa w art. 449 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych,
     - **d)** kar umownych;
 
 - **10)** środków z kredytów lub pożyczek zaciągniętych na rzecz Funduszu przez Bank Gospodarstwa Krajowego;
 - **11)** wpływów z obligacji emitowanych na rzecz Funduszu przez Bank Gospodarstwa Krajowego;
-- **11a)** inwestycji środków Funduszu w jednostki uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60 i 176);
-- **11b)** innych wpływów z opłat i kar określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych, wpływów z opłat i kar określonych w ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym oraz wpływów z opłat określonych w ustawie z dnia 6 września 2001 r. o transporcie drogowym, z zastrzeżeniem ust. 3;
+- **11a)** (uchylony) 11b) innych wpływów z opłat i kar określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych, wpływów z opłat i kar określonych w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz wpływów z opłat określonych w ustawie z dnia 6 września 2001 r. o transporcie drogowym, z zastrzeżeniem ust. 3;
 - **11c)** dotacji z budżetu państwa;
 - **11d)** pożyczek z budżetu państwa;
 - **11e)** wpływów z grzywien nałożonych przez Inspekcję Transportu Drogowego za naruszenia przepisów ruchu drogowego ujawnione za pomocą urządzeń rejestrujących, o których mowa w art. 20d ust. 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
-- **11f)** (uchylony) 11g) wpływów z grzywien za wykroczenia określone w art. 86, art. 86b, art. 87, art. 90, art. 92, art. 92a § 2, art. 92b, art. 94 § 1–2, art. 96 § 1 pkt 2 i 3 oraz art. 97a ustawy z dnia 20 maja 1971 r. Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734, 1676, 1814, 1818 i 1872);
+- **11f)** (uchylony) 11g) wpływów z grzywien za wykroczenia określone w art. 86, art. 86b, art. 87, art. 90, art. 92, art. 92a § 2, art. 92b, art. 94 § 1–2, art. 96 § 1 pkt 2 i 3 oraz art. 97a ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734, 1676, 1814, 1818 i 1872);
 - **12)** darowizn i zapisów;
 - **13)** wpływów z innych środków publicznych;
 - **14)** wpływów z innych tytułów.
@@ -486,7 +486,8 @@ Art. 64–70. (pominięte)
 
 1. Bank Gospodarstwa Krajowego może zaciągać kredyty, pożyczki lub emitować obligacje w kraju i za granicą na rzecz Funduszu i z przeznaczeniem na:
 
-- **1)** finansowanie inwestycji realizowanych w ramach programów wieloletnich ustanawianych przez Radę Ministrów zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846) oraz inwestycji realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 tej ustawy, a także zadań wynikających z planu finansowego Funduszu;
+- **1)** finansowanie inwestycji realizowanych w ramach programów wieloletnich ustanawianych przez Radę Ministrów zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i
+- **1846)** oraz inwestycji realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 tej ustawy, a także zadań wynikających z planu finansowego Funduszu;
 - **2)** spłatę zobowiązań z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji.
 
 2. Za zobowiązania Banku Gospodarstwa Krajowego, o których mowa w ust. 1, z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji mogą być udzielane przez Skarb Państwa gwarancje i poręczenia, zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, z tym że wymogu, o którym mowa w art. 7 ust. 2 pkt 2 tej ustawy, w zakresie, w jakim wymaga się, aby środki przeznaczone na spłatę kredytu pochodziły ze źródeł innych niż budżet państwa, nie stosuje się.
@@ -497,17 +498,7 @@ Art. 64–70. (pominięte)
 
 5. Jeżeli odzyskanie wierzytelności Skarbu Państwa, powstałych z tytułu udzielonego poręczenia lub gwarancji, nie jest możliwe, Rada Ministrów, na wniosek ministra właściwego do spraw finansów publicznych, może umorzyć wierzytelność w całości lub części.
 
-**Art. 39e.**
-
-1. Okresowo wolne środki Funduszu, z zastrzeżeniem ust. 2 i 3, Bank Gospodarstwa Krajowego może lokować:
-
-- **1)** w innych bankach;
-- **2)** w papiery wartościowe emitowane lub gwarantowane przez Skarb Państwa;
-- **3)** w papiery wartościowe emitowane przez Narodowy Bank Polski.
-
-2. Suma lokat, o których mowa w ust. 1 pkt 1, w jednym banku lub grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie, nie może przekroczyć 25 % okresowo wolnych środków Funduszu.
-
-3. (uchylony)
+**Art. 39e.** Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
 
 **Art. 39f.**
 
@@ -563,6 +554,10 @@ Art. 64–70. (pominięte)
 
 **Art. 39i.** Warunki finansowania ze środków Funduszu w odniesieniu do:
 
+- **1)** projektów przewidzianych do realizacji przez spółki – są określone w umowach o budowę i eksploatację albo wyłącznie eksploatację autostrady;
+- **2)** projektów przewidzianych do realizacji przez Generalnego Dyrektora Dróg Krajowych i Autostrad – są określone w umowach zawieranych z wykonawcami robót;
+- **3)** przedsięwzięć drogowych powierzonych drogowej spółce specjalnego przeznaczenia – są określone w umowie, o której mowa w art. 6 ust. 1 ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia.
+
 **Art. 39j.**
 
 1. Wypłaty ze środków Funduszu wynikające z umowy o budowę i eksploatację albo wyłącznie eksploatację autostrady mogą być gwarantowane i poręczane przez Skarb Państwa.
@@ -589,14 +584,14 @@ Art. 64–70. (pominięte)
 
 - **1)** Szefa KAS lub
 - **2)** organu Krajowej Administracji Skarbowej wyznaczonego na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych, lub
-- **3)** jednostki, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych dokonuje wypłat ze środków Funduszu na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b i pkt 9.
+- **3)** jednostki, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych – dokonuje wypłat ze środków Funduszu na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b i pkt 9.
 
 **Art. 39l.**
 
 1. Minister właściwy do spraw transportu zawiera z Bankiem Gospodarstwa Krajowego porozumienie określające:
 
 - **1)** szczegółowy sposób i terminy dokonywania wypłat ze środków Funduszu, z wyjątkiem wypłat na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b, pkt 9;
-- **2)** sposób i terminy dokonywania przez Bank Gospodarstwa Krajowego lokat, o których mowa w art. 39e ust. 1;
+- **2)** terminy dokonywania przez Bank Gospodarstwa Krajowego lokat wolnych środków Funduszu w formie depozytu, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, oraz sposób i terminy dokonywania przez Bank Gospodarstwa Krajowego lokat wolnych środków Funduszu, o których mowa w art. 39e;
 - **3)** (uchylony)
 - **4)** (uchylony)
 - **5)** sposób gromadzenia w ramach Funduszu środków, o których mowa w art. 39n ust. 2 pkt 2, oraz wpływów, o których mowa w art. 39b ust. 1 pkt 11b i 11e;
@@ -607,9 +602,9 @@ Art. 64–70. (pominięte)
 
 - **1)** sposób i tryb przekazywania przychodów z opłaty, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
 - **2)** sposób i termin dokonywania wypłat ze środków Funduszu na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b, pkt 9;
-- **3)** sposób i termin przekazywania przez ministra właściwego do spraw finansów publicznych informacji do ministra właściwego do spraw transportu o przewidywanej kwocie:
+- **3)** sposób i termin przekazywania przez ministra właściwego do spraw finansów publicznych informacji do ministra właściwego do spraw transportu o przewidywanej kwocie: 39n ust. 1.
     - **a)** przychodów z opłaty, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych,
-    - **b)** wydatków na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b, pkt 9 na potrzeby przygotowania projektu planu finansowego, o którym mowa w art. 39n ust. 1.
+    - **b)** wydatków na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b, pkt 9 – na potrzeby przygotowania projektu planu finansowego, o którym mowa w art.
 
 **Art. 39m.** Nadzór nad gospodarowaniem środkami Funduszu sprawuje Rada Nadzorcza Banku Gospodarstwa Krajowego.
 
@@ -620,8 +615,8 @@ Art. 64–70. (pominięte)
 2. Plan finansowy Funduszu określa w szczególności:
 
 - **1)** przeznaczenie środków Funduszu zgodnie z art. 39f ust. 1–3 i 5;
-- **2)** przewidywaną sumę środków przeznaczonych do refundacji dla:
-    - **a)** inwestycji realizowanych w ramach programów ujętych w wykazie, o którym mowa w art. 122 ust. 1 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, przekazywanych z budżetu państwa oraz
+- **2)** przewidywaną sumę środków przeznaczonych do refundacji dla: o finansach publicznych, przekazywanych z budżetu państwa oraz
+    - **a)** inwestycji realizowanych w ramach programów ujętych w wykazie, o którym mowa w art. 122 ust. 1 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r.
     - **b)** inwestycji realizowanych w ramach planu rozwojowego, o którym mowa w art. 5 pkt 7aa ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198 i 1846);
 
 - **3)** przewidywaną kwotę finansowania, o którym mowa w art. 39f ust. 6;
@@ -699,9 +694,9 @@ Art. 64–70. (pominięte)
 - **9)** datę, od której nalicza się oprocentowanie obligacji danej emisji;
 - **10)** termin i warunki wykupu oraz zastrzeżenia w przedmiocie możliwości wcześniejszego wykupu;
 - **11)** informację o zabezpieczeniu obligacji poręczeniem lub gwarancją Skarbu Państwa;
-- **12)** w przypadku gdy przewidywane jest ograniczenie kręgu podmiotów, którym obligacje są oferowane do nabycia na rynku pierwotnym wskazanie podmiotów, którym obligacje danej emisji mogą być oferowane;
-- **13)** w przypadku gdy przewidywane jest ograniczenie co do obrotu obligacjami wskazanie ograniczeń obrotu obligacjami, w tym obligacjami na okaziciela, na rynku pierwotnym lub wtórnym;
-- **14)** w przypadku gdy przewidywane jest ograniczenie w przenoszeniu obligacji wskazanie ograniczenia w przenoszeniu obligacji, w tym obligacji na okaziciela, do innego rejestru lub pomiędzy rejestrami prowadzonymi przez różne podmioty prowadzące działalność maklerską lub banki powiernicze, w ramach których są dokonywane zapisy identyfikujące osoby, którym przysługują prawa z tych obligacji uważane według przepisów prawa za rachunki papierów wartościowych, albo na rachunki papierów wartościowych lub rachunki zbiorcze.
+- **12)** w przypadku gdy przewidywane jest ograniczenie kręgu podmiotów, którym obligacje są oferowane do nabycia na rynku pierwotnym – wskazanie podmiotów, którym obligacje danej emisji mogą być oferowane;
+- **13)** w przypadku gdy przewidywane jest ograniczenie co do obrotu obligacjami – wskazanie ograniczeń obrotu obligacjami, w tym obligacjami na okaziciela, na rynku pierwotnym lub wtórnym;
+- **14)** w przypadku gdy przewidywane jest ograniczenie w przenoszeniu obligacji – wskazanie ograniczenia w przenoszeniu obligacji, w tym obligacji na okaziciela, do innego rejestru lub pomiędzy rejestrami prowadzonymi przez różne podmioty prowadzące działalność maklerską lub banki powiernicze, w ramach których są dokonywane zapisy identyfikujące osoby, którym przysługują prawa z tych obligacji uważane według przepisów prawa za rachunki papierów wartościowych, albo na rachunki papierów wartościowych lub rachunki zbiorcze.
 
 3. Bank Gospodarstwa Krajowego podaje do publicznej wiadomości warunki danej emisji poprzez ich opublikowanie na stronach internetowych Banku Gospodarstwa Krajowego lub w innych środkach masowego przekazu o zasięgu ogólnopolskim, w szczególności w elektronicznych systemach informacyjnych.
 
@@ -711,9 +706,14 @@ Art. 64–70. (pominięte)
 
 **Art. 39r.** Sprzedaż obligacji może być dokonywana w trybie:
 
+- **1)** oferty publicznej papierów wartościowych w rozumieniu art. 2 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12);
+- **2)** (uchylony)
+- **3)** przetargów organizowanych przez Bank Gospodarstwa Krajowego albo inny podmiot na podstawie umowy zawartej przez Bank Gospodarstwa Krajowego z tym podmiotem;
+- **4)** proponowania nabycia obligacji w inny sposób niż określony w pkt 1–3.
+
 **Art. 39s.**
 
-1. W przetargach, o których mowa w art. 39r pkt 3, mogą brać udział wyłącznie banki, instytucje kredytowe lub instytucje finansowe, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2026 r. poz. 38 i 176), a także ich oddziały, z którymi minister właściwy do spraw budżetu zawarł umowę przyznającą im prawo do składania ofert na przetargach obligacji skarbowych.
+1. W przetargach, o których mowa w art. 39r pkt 3, mogą brać udział wyłącznie banki, instytucje kredytowe lub instytucje finansowe, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38 i 176), a także ich oddziały, z którymi minister właściwy do spraw budżetu zawarł umowę przyznającą im prawo do składania ofert na przetargach obligacji skarbowych.
 
 2. Uczestnicy przetargu nabywają obligacje we własnym imieniu i na własny rachunek.
 
@@ -727,9 +727,14 @@ Art. 64–70. (pominięte)
 
 **Art. 39w.** Do obligacji, o których mowa w art. 39p, nie stosuje się:
 
-#### Rozdział 7 (uchylony)
+- **1)** art. 163 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. );
+- **2)** (uchylony)
+- **3)** ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2025 r. poz. 1667), z wyjątkiem art. 78–86 i art. 98, które stosuje się w przypadku, gdy obligacje nie zostaną zarejestrowane w Krajowym Depozycie Papierów Wartościowych S.A. lub zagranicznej instytucji rozliczeniowej, która prowadzi działalność w zakresie rejestrowania papierów wartościowych, rozliczania lub rozrachunku transakcji zawieranych w obrocie papierami wartościowymi;
+- **4)** art. 17 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, o ile rejestracja obligacji jest dokonywana w Krajowym Depozycie Papierów Wartościowych S.A. lub zagranicznej instytucji rozliczeniowej, która prowadzi działalność w zakresie rejestrowania papierów wartościowych, rozliczania lub rozrachunku transakcji zawieranych w obrocie papierami wartościowymi.
 
-#### Rozdział 8 (uchylony)
+#### Rozdział 7
+
+#### Rozdział 8
 
 #### Rozdział 9 Umowa o budowę i eksploatację albo wyłącznie eksploatację autostrady
 
@@ -747,6 +752,28 @@ Art. 64–70. (pominięte)
 **Art. 62.** (uchylony)
 
 **Art. 63.** Umowa o budowę i eksploatację albo wyłącznie eksploatację autostrady powinna określać w szczególności:
+
+- **1)** termin rozpoczęcia i zakończenia budowy;
+- **2)** okres eksploatacji autostrady i stawki opłat za przejazd autostradą w chwili rozpoczęcia eksploatacji;
+- **3)** warunki i zakres podziału zysku pomiędzy spółkę a Fundusz;
+- **4)** sposób, terminy i zasady odpłatności z tytułu udostępnienia spółce przez Generalną Dyrekcję Dróg Krajowych i Autostrad lub drogową spółkę specjalnego przeznaczenia w przypadku zawarcia umowy o eksploatację autostrady gruntów pod budowę autostrady oraz warunki zagospodarowania znajdujących się na nich budynków, budowli, urządzeń, drzewostanu i upraw;
+- **5)** prawa spółki do korzystania z gruntu i wzniesionych przez nią budynków, budowli i innych urządzeń;
+- **6)** zobowiązania spółki do:
+    - **a)** zgromadzenia środków finansowych na budowę i eksploatację autostrady,
+    - **b)** budowy i eksploatacji autostrady zgodnie z obowiązującymi przepisami, w tym przygotowania dokumentacji technicznej wymaganej do podjęcia budowy autostrady, uzyskania decyzji, pozwoleń i uzgodnień wymaganych odrębnymi przepisami,
+    - **c)** terminowej realizacji procesu inwestycyjnego,
+    - **d)** zachowania nieprzerwanej dostępności do autostrady i jej przejezdności,
+    - **e)** zapewnienia bezpieczeństwa użytkowników,
+    - **f)** (uchylona)
+    - **g)** zapewnienia Policji oraz Inspekcji Transportu Drogowego pomieszczeń w zakresie przewidzianym w przepisach techniczno-budowlanych dotyczących autostrad płatnych, umożliwiających skuteczne realizowanie przez nie zadań w zakresie czuwania nad bezpieczeństwem i porządkiem w ruchu drogowym oraz jego kontrolowania na obszarze autostrad płatnych;
+
+- **7)** zasady współpracy spółki z administracją drogową, Policją, Inspekcją Transportu Drogowego, pogotowiem ratunkowym oraz jednostkami systemu ratowniczo-gaśniczego;
+- **8)** szczegółowy zakres uprawnień spółki jako zarządcy autostrady;
+- **9)** zasady zagospodarowania miejsc obsługi podróżnych, pojazdów i przesyłek, uwzględniające konkurencję;
+- **10)** termin i sposób zwrotu autostrady i dotyczącej jej dokumentacji po zakończeniu okresu eksploatacji;
+- **11)** sposób rozstrzygania sporów wynikłych na tle realizacji umowy o budowę i eksploatację albo wyłącznie eksploatację autostrady;
+- **12)** warunki rozwiązania i wypowiedzenia umowy o budowę i eksploatację albo wyłącznie eksploatację autostrady;
+- **13)** zasady wzajemnych rozliczeń w razie rozwiązania i wypowiedzenia umowy o budowę i eksploatację albo wyłącznie eksploatację autostrady.
 
 **Art. 63a.** Rada Ministrów, na wniosek ministra właściwego do spraw transportu, określi, w drodze rozporządzenia, ogólne kierunki współpracy spółki z administracją drogową, Policją, pogotowiem ratunkowym oraz jednostkami systemu ratowniczo-gaśniczego, z uwzględnieniem realizacji ich zadań ustawowych, przy zachowaniu nieprzerwanego dostępu do autostrady i jej przejezdności.
 
@@ -771,7 +798,7 @@ Art. 64–70. (pominięte)
 
 4. W przypadku gdy spółka nie usunęła nieprawidłowości w terminie, o którym mowa w ust. 3, umowa o budowę i eksploatację autostrady albo wyłącznie eksploatację autostrady może być wypowiedziana.
 
-5. Generalny Dyrektor Dróg Krajowych i Autostrad lub drogowa spółka specjalnego przeznaczenia wykonują obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, w stosunku do osoby, której dane osobowe są przetwarzane w związku z kontrolą, o której mowa w ust. 1, przy pierwszej czynności skierowanej do tej osoby, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie.
+5. Generalny Dyrektor Dróg Krajowych i Autostrad lub drogowa spółka specjalnego przeznaczenia wykonują obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, w stosunku do osoby, której dane osobowe są prze-twarzane w związku z kontrolą, o której mowa w ust. 1, przy pierwszej czynności skierowanej do tej osoby, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie.
 
 6. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na wykonywanie uprawnień Generalnego Dyrektora Dróg Krajowych i Autostrad lub drogowej spółki specjalnego przeznaczenia, o których mowa w ust. 1–4.
 
@@ -779,9 +806,9 @@ Art. 64–70. (pominięte)
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe
 
-**Art. 70a.** Do dnia 30 listopada 2021 r. Szef KAS może nie pobierać opłaty za przejazd autostradą w przypadku wystąpienia zagrożenia bezpieczeństwa ruchu drogowego lub zdarzenia zmniejszającego stopień tego bezpieczeństwa.
+**Art. 70a.** Do dnia 30 listopada 2021 r. Szef KAS może nie pobierać opłaty za przejazd autostradą w przypadku wy-stąpienia zagrożenia bezpieczeństwa ruchu drogowego lub zdarzenia zmniejszającego stopień tego bezpieczeństwa.
 
 **Art. 70b.** Do dnia 30 września 2021 r. opłatę za przejazd autostradą wnoszoną zgodnie z art. 37a ust. 8, z wykorzystaniem Systemu Poboru Opłaty Elektronicznej KAS, wnosi się w wysokości 75 % stawki opłaty za przejazd autostradą określonej w przepisach wydanych na podstawie art. 37e ust. 2.
 
-**Art. 71.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia . (uchylony)
+**Art. 71.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
 

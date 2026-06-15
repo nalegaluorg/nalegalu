@@ -8,7 +8,7 @@ pos: 143
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej oraz niektórych innych ustaw
@@ -28,6 +28,144 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100280143) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/143/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2005 r. Nr 41, poz. 398, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 ust. 1 otrzymuje brzmienie: „1. Zakwaterowanie Sił Zbrojnych Rzeczypospolitej Polskiej, zwanych dalej „Siłami Zbrojnymi”, polega na:
+- **1)** stałym, tymczasowym lub przejściowym rozmieszczeniu:
+    - **a)** żołnierzy i innych osób określonych w ustawie,
+    - **b)** jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych,
+
+- **2)** magazynowaniu lub przechowywaniu urządzeń, uzbrojenia, środków materiałowych i sprzętu wojskowego – w budynkach i lokalach oraz na gruntach będących własnością Skarbu Państwa, pozostających w trwałym zarządzie organów wojskowych lub powierzonych Wojskowej Agencji Mieszkaniowej, uzyskanych czasowo na te cele od właściwych organów administracji rządowej, jednostek samorządu terytorialnego, osób prawnych lub fizycznych.”;
+- **2)** art. 1a otrzymuje brzmienie: „Art. 1a. 1. Ilekroć w ustawie jest mowa o:
+- **1)** lokalu mieszkalnym – należy przez to rozumieć samodzielny lokal mieszkalny w rozumieniu ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2000 r. Nr 80, poz. 903 oraz z 2004 r. Nr 141, poz. 1492), będący w dyspozycji Wojskowej Agencji Mieszkaniowej, zwanej dalej „Agencją”, stanowiący własność Skarbu Państwa, przekazany Agencji przez Ministra Obrony Narodowej, lokal mieszkalny pozyskany od spółdzielni mieszkaniowej i towarzystwa budownictwa społecznego oraz lokal mieszkalny pozyskany w drodze umowy najmu, leasingu, darowizny albo innej umowy cywilnoprawnej, spadku albo zapisu;
+- **2)** kwaterze – należy przez to rozumieć lokal mieszkalny przeznaczony do zakwaterowania żołnierza zawodowego i ujęty w wykazie kwater;
+- **3)** wspólnej kwaterze stałej – należy przez to rozumieć pomieszczenie mieszkalne przeznaczone do nieodpłatnego zakwaterowania zbiorowego żołnierzy, znajdujące się w budynku położonym na terenie zamkniętym lub pomieszczenia jednostek pływających Marynarki Wojennej;
+- **4)** lokalu użytkowym – należy przez to rozumieć budynek lub jego część przeznaczone na cele inne niż mieszkalne;
+- **5)** zamieszkiwaniu – należy przez to rozumieć przebywanie i korzystanie z lokalu mieszkalnego;
+- **6)** zajmowaniu lokalu – należy przez to rozumieć posiadanie tytułu prawnego do lokalu mieszkalnego ustanowionego w drodze decyzji administracyjnej albo umowy najmu albo umowy użyczenia;
+- **7)** miejscowości pobliskiej – należy przez to rozumieć miejscowość, do której najkrótszy czas dojazdu lądowym środkiem publicznego transportu zbiorowego nie przekracza zgodnie z rozkładem jazdy dwóch godzin, w obie strony łącznie z przesiadkami, licząc od stacji (przystanku) najbliższej miejsca pełnienia służby do stacji (przystanku) najbliższej miejsca zamieszkania;
+- **8)** kwaterze internatowej – należy przez to rozumieć lokal mieszkalny pełniący funkcję internatu, przeznaczony do zamieszkiwania przez żołnierza lub większą liczbę żołnierzy zawodowych lub pracowników cywilnych wojska;
+- **9)** internacie – należy przez to rozumieć budynek lub zespół pomieszczeń mieszkalnych stanowiących organizacyjną całość, przeznaczoną do zakwaterowania żołnierzy zawodowych lub pracowników cywilnych wojska;
+- **10)** służbowym pokoju noclegowym – należy przez to rozumieć wydzielone pomieszczenie przeznaczone na stały pobyt ludzi, znajdujące się w budynku położonym na terenie zamkniętym;
+- **11)** lokalu zamiennym – należy przez to rozumieć lokal mieszkalny znajdujący się w tej samej miejscowości lub w miejscowości pobliskiej, wyposażony w urządzenia techniczne co najmniej takie, w jakie był wyposażony lokal mieszkalny używany dotychczas, o powierzchni użytkowej podstawowej takiej, jak lokalu mieszkalnego dotychczas używanego z jednoczesnym zachowaniem minimalnej powierzchni użytkowej podstawowej przypadającej na członka gospodarstwa domowego nie mniejszej niż 8 m powierzchni użytkowej podstawowej, a w przypadku gospodarstwa jednoosobowego nie mniejszej niż 16 m tej powierzchni;
+- **12)** opłatach za używanie lokalu – należy przez to rozumieć świadczenie pieniężne za korzystanie z lokalu mieszkalnego, które obejmuje koszty administrowania, koszty konserwacji, koszty utrzymania technicznego nieruchomości, odpis na fundusz remontowy, koszty utrzymania zieleni, koszty utrzymania pomieszczeń wspólnego użytkowania, w tym koszty związane z utrzymaniem czystości, koszty energii cieplnej, elektrycznej i wody na potrzeby części wspólnej, zwrot kosztów z tytułu podatku od nieruchomości, opłatę za antenę zbiorczą lub telewizję kablową, opłaty z tytułu legalizacji przyrządów pomiarowych zamontowanych na potrzeby lokalu mieszkalnego oraz opłaty z tytułu użytkowania dźwigu osobowego i konserwacji urządzeń domofonowych;
+- **13)** opłatach pośrednich – należy przez to rozumieć opłaty za energię cieplną, elektryczną, gaz, wodę oraz za odbiór nieczystości stałych i płynnych;
+- **14)** powierzchni użytkowej lokalu mieszkalnego – należy przez to rozumieć powierzchnię wszystkich pomieszczeń znajdujących się w lokalu mieszkalnym, a w szczególności pokoi, kuchni, spiżarni, przedpokoi, alków, holi, korytarzy, łazienek oraz innych pomieszczeń służących mieszkalnym i gospodarczym potrzebom lokatora, bez względu na ich przeznaczenie i sposób używania; za powierzchnię użytkową lokalu nie uważa się powierzchni balkonów, tarasów i loggii, antresoli, pralni, suszarni, wózkowni oraz pomieszczeń przynależnych;
+- **15)** powierzchni użytkowej podstawowej – należy przez to rozumieć powierzchnię pokoi;
+- **16)** inwestycjach – należy przez to rozumieć środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2009 r. Nr 152, poz. 1223, Nr 157, poz. 1241 i Nr 165, poz. 1316);
+- **17)** eksploatacji kwatery – należy przez to rozumieć wykorzystywanie kwatery zgodnie z jej przeznaczeniem, utrzymywanie we właściwym stanie technicznym i sanitarno-higienicznym z równoczesną dbałością o niepogorszenie jej właściwości użytkowych;
+- **18)** stawce podstawowej – należy przez to rozumieć minimalną możliwą stawkę świadczenia mieszkaniowego.
+
+2. Obmiaru powierzchni użytkowej lokalu mieszkalnego dokonuje się w świetle wyprawionych ścian. Powierzchnie pomieszczeń lub ich części o wysokości w świetle równej lub większej od 2,20 m należy zaliczać do obliczeń w 100%, o wysokości równej lub większej od 1,40 m, lecz mniejszej od 2,20 m w 50%, o wysokości mniejszej od 1,40 m pomija się całkowicie. Pozostałe zasady obliczania powierzchni należy stosować zgodnie z Polską Normą odpowiednią do określania i obliczania wskaźników powierzchniowych i kubaturowych w budownictwie.”;
+
+- **3)** w art. 2 ust. 2 otrzymuje brzmienie: „2. Przekazanie, o którym mowa w ust. 1, następuje w przypadku, gdy jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane nie dysponują w określonej miejscowości dostateczną ilością nieruchomości gruntowych, budynków lub lokali, niezbędnych na cele obronności i bezpieczeństwa państwa w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, lub na cele mieszkaniowe żołnierzy zawodowych.”;
+- **4)** w art. 3 uchyla się ust. 4 i 5;
+- **5)** uchyla się art. 6;
+- **6)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Wspólne kwatery stałe są przeznaczone do zakwaterowania zbiorowego żołnierzy:
+- **1)** odbywających zasadniczą służbę wojskową;
+- **2)** odbywających przeszkolenie wojskowe;
+- **3)** odbywających ćwiczenia wojskowe;
+- **4)** służby kandydackiej;
+- **5)** służby przygotowawczej;
+- **6)** pełniących okresową służbę wojskową;
+- **7)** będących słuchaczami szkół albo uczestniczących w innych formach szkolenia w Siłach Zbrojnych, a także skierowanych do pełnienia czynnej służby wojskowej poza granicami państwa;
+- **8)** pełniących służbę wojskową w czasie stanu nadzwyczajnego, po ogłoszeniu mobilizacji lub w czasie wojny.
+
+2. Możliwość zakwaterowania we wspólnej kwaterze stałej przysługuje również żołnierzom zawodowym, na ich wniosek, za zgodą dowódcy jednostki wojskowej.
+
+3. Minister Obrony Narodowej określi, w drodze rozporządzenia, normy zakwaterowania żołnierzy we wspólnych kwaterach stałych oraz tryb ich kwaterowania, z uwzględnieniem podziału wspólnych kwater stałych na powierzchnię podstawową - rozumianą jako powierzchnię mieszkalną izb żołnierskich oraz powierzchnię pomocniczą - rozumianą jako inne rodzaje powierzchni, niezbędnych do zakwaterowania zbiorowego żołnierzy, oraz zajmowane przez żołnierza stanowisko służbowe.”;
+
+- **7)** tytuł rozdziału 3 otrzymuje brzmienie: „Gospodarowanie zasobami mieszkaniowymi i internatowymi”;
+- **8)** w art. 8:
+    - **a)** uchyla się ust. 2,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Agencja jest państwową osobą prawną podległą Ministrowi Obrony Narodowej.”;
+
+- **9)** w art. 10 uchyla się pkt 1;
+- **10)** uchyla się art. 11;
+- **11)** w art. 12 ust. 1 i 2 otrzymują brzmienie: „1. Agencją kieruje Prezes powoływany i odwoływany przez Ministra Obrony Narodowej w porozumieniu z ministrem właściwym do spraw Skarbu Państwa spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru.
+
+2. Do zadań Prezesa Agencji należy w szczególności:
+
+- **1)** reprezentowanie Agencji na zewnątrz;
+- **2)** ustalanie projektu rocznego planu finansowego Agencji, który przekazuje się Ministrowi Obrony Narodowej w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej;
+- **3)** składanie ministrowi właściwemu do spraw Skarbu Państwa oraz ministrowi właściwemu do spraw finansów publicznych sprawozdania z rocznej działalności oraz rocznego sprawozdania finansowego Agencji wraz z opinią i raportem biegłego rewidenta po ich zatwierdzeniu przez Ministra Obrony Narodowej.”;
+- **12)** w art. 13 po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W sprawach cywilnych przed sądami Agencję reprezentują Prezes Agencji oraz właściwi rzeczowo i miejscowo dyrektorzy oddziałów regionalnych.”;
+- **13)** w art. 14:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) wykorzystywanych do zakwaterowania żołnierzy zawodowych;”, – uchyla się pkt 3,
+    - **b)** ust. 4 i 5 otrzymują brzmienie: „4. Decyzje w sprawach zbywania w imieniu Skarbu Państwa akcji i udziałów w podmiotach określonych w art. 17 ust. 2 oraz w sprawach podwyższenia kapitału zakładowego w tych podmiotach, podejmuje minister właściwy do spraw Skarbu Państwa na wniosek Prezesa Agencji, za zgodą Ministra Obrony Narodowej, na zasadach określonych w przepisach ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm. ).
+
+5. Należne Skarbowi Państwa:
+
+- **1)** dywidendy ze spółek, o których mowa w ust. 4,
+- **2)** przychody z prywatyzacji podmiotów, o których mowa w ust. 4, oraz zbycia w nich akcji i udziałów, z wyjątkiem środków przeznaczonych na cele, o których mowa w art. 56 ust. 1 pkt 3 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji – przeznacza się na realizację zadań Agencji.”;
+- **14)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Zadaniami własnymi Agencji są w szczególności:
+- **1)** gospodarowanie powierzonym mieniem Skarbu Państwa, w trybie określonym w art. 17;
+- **2)** obrót nieruchomościami, o których mowa w art. 14 ust. 1, w tym sprzedaż lokali mieszkalnych i innych nieruchomości oraz infrastruktury;
+- **3)** przejmowanie i nabywanie nieruchomości;
+- **4)** dokonywanie remontów budynków i lokali mieszkalnych oraz internatów, a także związanej z nimi infrastruktury;
+- **5)** prowadzenie działalności gospodarczej;
+- **6)** sporządzanie projektu trzyletniego planu wykorzystania zasobu mieszkaniowego i internatowego, i przedstawianie Ministrowi Obrony Narodowej do zatwierdzenia.
+
+2. Agencja wykonuje powierzone jej przez Ministra Obrony Narodowej zadania zlecone w zakresie gospodarki mieszkaniowej i internatowej oraz przebudowy i remontów zasobów mieszkaniowych i internatowych, w szczególności dotyczące:
+
+- **1)** tworzenia warunków sprzyjających racjonalnemu wykorzystaniu zasobów mieszkaniowych i internatowych;
+- **2)** planowania i realizowania inwestycji, w tym przebudowy i remontów budynków, lokali mieszkalnych i internatów, oraz związanej z nimi infrastruktury, w tym spłaty zobowiązań wraz z kosztami ich obsługi zaciągniętych na te cele, z dotacji budżetowej;
+- **3)** wypłacania osobom uprawnionym świadczeń pieniężnych, na które Agencja otrzymuje dotację budżetową;
+- **4)** wydawania żołnierzom zawodowym decyzji o przydziale lokali mieszkalnych znajdujących się w dyspozycji Agencji;
+- **5)** opracowywania i prowadzenia wykazu kwater, w którym określa się lokale mieszkalne przeznaczone na wyłączne zakwaterowanie żołnierzy zawodowych i niepodlegające sprzedaży.
+
+3. Na pokrycie kosztów leasingu lub najmu lokali mieszkalnych, o których mowa w ust. 2 pkt 4 pomniejszonych o przychody należne z tytułu opłat za używanie kwater, Agencja otrzymuje dotację budżetową.
+
+4. Minister Obrony Narodowej oraz uprawniony organ wojskowy może na podstawie umowy użyczyć Agencji nieruchomości lub ich części będące w ich trwałym zarządzie, niewykorzystywane przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane do realizacji ich zadań, a niezbędne dla celów obronności lub bezpieczeństwa państwa.
+
+5. Agencja przeznacza fundusz rezerwowy na finansowanie strat z jej działalności, a po ich sfinansowaniu może z tego funduszu:
+
+- **1)** wspierać realizację powierzonych przez Ministra Obrony Narodowej zadań zleconych Agencji w zakresie finansowania inwestycji, przebudowy i remontów zasobów mieszkaniowych i internatowych oraz innych zakupów środków trwałych i wartości niematerialnych i prawnych;
+- **2)** partycypować w kosztach budowy lokali mieszkalnych w towarzystwie budownictwa społecznego utworzonym przez Agencję, przeznaczonych do zakwaterowania żołnierzy zawodowych;
+- **3)** dokonywać zmiany kapitału zakładowego w spółkach oraz towarzystwach budownictwa społecznego, utworzonych albo przejętych przez Agencję.”;
+- **15)** w art. 17:
+    - **a)** w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „1) sprzedaż lokali mieszkalnych na zasadach określonych w rozdziale 6 oraz sprzedaż, najem, dzierżawę i użyczenie niezamieszkałych lokali mieszkalnych;
+
+- **2)** sprzedaż nieruchomości, oddawanie ich w trwały zarząd, najem, dzierżawę, użyczenie albo ich zamianę oraz ustanawianie i nabywanie ustanowionych na nich ograniczonych praw rzeczowych;”, – pkt 5 otrzymuje brzmienie: „5) zlecanie osobom prawnym lub fizycznym zarządzania lub administrowania mieniem albo wykonywania innych czynności wynikających z zadań Agencji, na podstawie umowy, za wynagrodzeniem, przez czas oznaczony, z zachowaniem przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655, z późn. zm. );”, – uchyla się pkt 6, – dodaje się pkt 6a i 7 w brzmieniu: „6a) budowanie domów mieszkalnych;
+- **7)** sprzedaż jednostkom samorządu terytorialnego, a także samorządowym jednostkom organizacyjnym, na ich wniosek, nieruchomości lub ich części stanowiących przedmiot najmu przez te podmioty, jeżeli nieodpłatne przekazanie, o którym mowa w pkt 3, jest ekonomicznie nieuzasadnione.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Agencja może nabywać nieruchomości, tworzyć i przejmować na podstawie przepisów odrębnych spółki i towarzystwa budownictwa społecznego, wnosić mienie, w tym także jako wkład niepieniężny do tych spółek i towarzystw budownictwa społecznego.”,
+    - **c)** po ust. 2 dodaje się ust. 2a–2c w brzmieniu: „2a. Agencja nabywa nieruchomości na własność albo w użytkowanie wieczyste Skarbu Państwa. Przepisy art. 14 i art. 15, w zakresie wykonywania przez Agencję praw i obowiązków z nimi związanych w stosunku do Skarbu Państwa i osób trzecich, stosuje się odpowiednio.
+
+2b. Nieruchomości stanowiące własność Skarbu Państwa powierzone Agencji do gospodarowania mogą być przekazywane, na wniosek właściwego terytorialnie starosty złożony do właściwego dyrektora oddziału regionalnego, do zasobu nieruchomości Skarbu Państwa, jeśli stały się one zbędne do wykonywania zadań Agencji.
+
+2c. Akcje lub udziały w spółkach i towarzystwach budownictwa społecznego, o których mowa w art. 17 ust. 2, nabyte lub objęte przez Agencję w zamian za mienie Skarbu Państwa, stanowią własność Skarbu Państwa i podlegają przekazaniu ministrowi właściwemu do spraw Skarbu Państwa w terminie czternastu dni od dnia ich nabycia lub objęcia.”,
+
+- **d)** uchyla się ust. 6;
+- **16)** po art. 17 dodaje się art. 17a w brzmieniu: „Art. 17a. 1. Spółki i towarzystwa budownictwa społecznego utworzone przez Agencję mogą dokonywać wobec Agencji oraz między sobą czynności w zakresie:
+- **1)** zarządu i administrowania nieruchomościami;
+- **2)** przygotowania, prowadzenia i rozliczenia zadań inwestycyjnych, w tym przebudowy i remontu.
+
+2. W spółkach i towarzystwach budownictwa społecznego utworzonych przez Agencję, prezesów oraz członków zarządów i rad nadzorczych tych podmiotów powołuje i odwołuje zgromadzenie wspólników.
+
+3. Wynagrodzenie i inne należności dla prezesów, członków zarządu i rad nadzorczych podmiotów określonych w ust. 2, ustala zgromadzenie wspólników na zasadach i w wysokości określonych przepisami ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. Nr 26, poz. 306, z późn. zm. ).
+
+4. Spółki oraz towarzystwa budownictwa społecznego, o których mowa w art. 17 ust. 2, będące państwowymi osobami prawnymi, w przypadku rozporządzania składnikami aktywów trwałych w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości są obowiązane uzyskać zgodę ministra właściwego do spraw Skarbu Państwa. W tym zakresie stosują przepisy art. 5a–5c ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa.”;
+
+- **17)** w art. 18:
+    - **a)** ust. 6 otrzymuje brzmienie: „6. Z dniem uprawomocnienia się decyzji o wygaśnięciu trwałego zarządu nieruchomościami Agencja przejmuje zobowiązania związane z przekazanym mieniem.”,
+    - **b)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Minister Obrony Narodowej przekazując Agencji mienie zgodnie z art. 3 ust. 1, udziela jej w danym roku budżetowym dotacji w wysokości równej środkom finansowym przewidzianym w planie finansowym do końca roku kalendarzowego na utrzymanie przekazanego mienia, kontynuację inwestycji i remontów, zamieszczonych w części budżetu państwa, której dysponentem jest Minister Obrony Narodowej.”,
+    - **c)** uchyla się ust. 9;
+
+- **18)** w art. 19:
+    - **a)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) fundusz zasobowy będący kapitałem zakładowym - tworzony w wartości mienia powierzonego Agencji przez Skarb Państwa;”,
+    - **b)** ust. 2a otrzymuje brzmienie: „2a. Środki funduszu remontowego pochodzą z wpłat odpisu na fundusz remontowy, dokonywanych na wyodrębniony rachunek bankowy funduszu. Wysokość odpisu w skali roku wynosi 0,5% wartości odtworzeniowej lokalu mieszkalnego znajdującego się w budynkach stanowiących własność Skarbu Państwa oraz 0,2% wartości odtworzeniowej lokalu mieszkalnego stanowiącego własność Skarbu Państwa znajdującego się w budynku wspólnoty mieszkaniowej, obliczonej zgodnie z art. 36 ust. 2. Środki funduszu zwiększa się o wpływy z ich oprocentowania.”,
+    - **c)** w ust. 3 pkt 5 otrzymuje brzmienie: „5) dotacje, o których mowa w ust. 4 i art. 18 ust. 6a;”,
+    - **d)** ust. 4 otrzymuje brzmienie: „4. Na sfinansowanie realizacji zadań zleconych z zakresu administracji rządowej określonych w art. 16 ust. 2 pkt 2 i 3 oraz ust. 3, art. 23 ust. 1 i 4 pkt 1 oraz ust. 8, art. 32 ust. 2 i 4, art. 34 ust. 3, art. 48d ust. 4 i art. 53 ust. 3 oraz pokrycie kosztów związanych z obsługą tych zadań, Minister Obrony Narodowej przekazuje dotacje ustalane corocznie w części budżetu państwa, której jest dysponentem.”,
+    - **e)** ust. 8 otrzymuje brzmienie: „8. Sprawozdanie finansowe Agencji podlega badaniu przez biegłego rewidenta wybranego przez Ministra Obrony Narodowej.”;
+
+- **19)** w art. 19a:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Umorzenie w całości lub części należności o charakterze administracyjnoprawnym następuje na podstawie decyzji właściwego organu Agencji.”;
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Odsetek za zwłokę nie nalicza się, jeżeli ich wysokość nie przekracza trzykrotnej wartości opłaty pobieranej przez operatora świadczącego powszechne usługi pocztowe za traktowanie przesyłki listowej jako przesyłki poleconej.”;
+
+- **20)** art. 20 otrzymuje brzmienie: „Art. 20. 1. Minister Obrony Narodowej określa, w drodze rozporządzenia, wysokość wynagrodzenia Prezesa Agencji i zastępców Prezesa.
+
+2. W rozporządzeniu, o którym mowa w ust. 1, należy uwzględnić, że podstawą określenia wysokości miesięcznego wynagrodzenia powinno być przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszone przez Prezesa Głównego Urzędu Statystycznego, a wysokość tego wynagrodzenia nie może być niższa niż jednokrotność i wyższa niż sześciokrotność tej podstawy.”;
+
+- **21)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Kontrola działalności Agencji
 
 **Art. 20a.**
 
@@ -652,9 +790,20 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie z dnia 14 grudnia 1995 r. o urzędzie Ministra Obrony Narodowej (Dz. U. z 1996 r. Nr 10, poz. 56, z późn. zm. ) w art. 5:
 
+- **1)** w ust. 1 w pkt 2 kropkę zastępuje się przecinkiem i dodaje pkt 3 w brzmieniu: „3) Wojskowa Agencja Mieszkaniowa.”;
+- **2)** ust. 2 otrzymuje brzmienie: „2. Minister Obrony Narodowej, na zasadach określonych w odrębnych ustawach, sprawuje nadzór nad Agencją Mienia Wojskowego.”.
+
 **Art. 4.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm. ) w art. 19 ust. 3 otrzymuje brzmienie: „3. Minister Obrony Narodowej sprawuje nadzór nad działalnością Agencji Mienia Wojskowego.”.
 
 **Art. 5.** W ustawie z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. Nr 26, poz. 306, z późn. zm. ) w art. 10:
+
+- **1)** ust. 2a otrzymuje brzmienie: „2a. Nagrodę roczną osobom wymienionym w art. 2 pkt 1, zatrudnionym w Agencji Mienia Wojskowego, przyznaje Minister Obrony Narodowej na umotywowany wniosek rady nadzorczej.”;
+- **1a)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Nagrodę roczną osobom wymienionym w art. 2 pkt 1, zatrudnionym w Wojskowej Agencji Mieszkaniowej, przyznaje Minister Obrony Narodowej.”;
+- **2)** ust. 4 otrzymuje brzmienie: „4. Wniosek o przyznanie nagrody rocznej, o której mowa w ust. 2, powinien zawierać ocenę wyników finansowych i stopnia realizacji innych zadań, przy uwzględnieniu makroekonomicznych warunków w zakresie funkcjonowania i rozwoju sekcji oraz działów, w których prowadzi działalność podmiot prawny. Ocena ta powinna dotyczyć roku badanego i roku poprzedzającego rok badany i zostać sporządzona w oparciu o podstawowe wskaźniki ekonomiczne, a w szczególności: zysk lub stratę netto, wskaźnik poziomu kosztów, rentowności obrotu netto.”;
+- **3)** ust. 9 otrzymuje brzmienie: „9. Minister Obrony Narodowej określi, w drodze rozporządzenia:
+- **1)** szczegółowe warunki przyznania nagrody rocznej osobom, o których mowa w ust. 2a i 2b, uwzględniając stopień i terminowość realizacji przez osobę uprawnioną do nagrody nałożonych na nią zadań oraz okres jej zatrudnienia,
+- **2)** tryb przyznawania nagrody rocznej osobom, o których mowa w ust. 2a i 2b, uwzględniając termin składania wniosku o przyznanie nagrody dla osób, o których mowa w ust. 2a, oraz termin jego rozpatrzenia,
+- **3)** wzór wniosku o przyznanie nagrody osobom, o których mowa w ust. 2a, uwzględniając przepisy ust. 4.”.
 
 **Art. 6.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz.U. z 2008 r. Nr 141, poz. 892, z późn. zm. ) w art. 68 ust. 1 otrzymuje brzmienie: „1. Żołnierzowi zawodowemu pozostającemu w związku małżeńskim lub posiadającemu dzieci pozostające na jego utrzymaniu, który w miejscu pełnienia służby lub miejscowości pobliskiej w rozumieniu przepisów ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz.U. z 2005 r. Nr 41, poz. 398, z późn. zm. ) korzysta z zakwaterowania zbiorowego, przydzielono mu miejsce w internacie lub w kwaterze internatowej, bez prawa zamieszkiwania z członkami rodziny, przysługuje dodatek za rozłąkę i zwrot kosztów przejazdów odbywanych nie częściej niż raz w miesiącu do miejscowości zamieszkania członka rodziny i z powrotem.”.
 
@@ -737,4 +886,8 @@ source: "isap-pdf"
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 10 ust. 9 ustawy, zmienianej w art. 5, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 9 ustawy, zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 20.** Ustawa wchodzi w życie z dniem 1 lipca 2010 r. z wyjątkiem:
+
+- **1)** art. 1 pkt 6, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 1 pkt 54 lit. a i b, który wchodzi w życie z dniem 1 stycznia 2013 r.
+
 

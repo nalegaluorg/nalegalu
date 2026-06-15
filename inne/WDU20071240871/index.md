@@ -8,7 +8,7 @@ pos: 871
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 72/7/A/2007 WYROK z dnia 2 lipca 2007 r.

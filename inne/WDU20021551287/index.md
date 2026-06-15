@@ -8,7 +8,7 @@ pos: 1287
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców
@@ -42,6 +42,21 @@ Art. 26–28. (pominięte)
 2. Restrukturyzacją są objęci przedsiębiorcy, o których mowa w przepisach o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców, w szczególności którzy tracą zdolność do konkurowania na rynku, wyrażającą się zwłaszcza w znacznym stopniu: zmniejszeniem obrotów, nadmierną zdolnością produkcyjną, wzrostem zapasów, spadkiem zyskowności lub ponoszeniem strat, jak również wzrostem zadłużenia i brakiem możliwości uzyskania bankowych kredytów, poręczeń lub gwarancji.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** przedsiębiorcy – rozumie się przez to przedsiębiorcę określonego w art. 2 ust. 2 i 3 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. poz. 1178, z późn. zm. ) mającego miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej będącego podatnikiem, płatnikiem, następcą prawnym lub osobą trzecią odpowiadającą za zaległości podatkowe albo innego zobowiązanego do uiszczenia należności, o których mowa w art. 6;
+- **2)** organie restrukturyzacyjnym – rozumie się przez to organ podatkowy, organ celny lub inny organ właściwy do poboru należności, o których mowa w art. 6 – będący organem pierwszej instancji;
+- **3)** należnościach znanych – rozumie się przez to należności, w tym należności sporne, wynikające z ewidencji lub rejestrów prowadzonych przez organ restrukturyzacyjny lub z innych danych znajdujących się w posiadaniu tego organu, a w szczególności z zeznań, deklaracji, decyzji i postanowień;
+- **4)** należnościach spornych – rozumie się przez to należności, o których mowa w art. 6, będące przedmiotem sporu – w przypadku gdy:
+    - **a)** od decyzji dotyczącej danej należności, wydanej przed dniem 1 lipca 2002 r., wniesiono odwołanie lub skargę do sądu,
+    - **b)** decyzja dotycząca danej należności, wydana przed dniem 1 lipca 2002 r., jest przedmiotem postępowania w sprawie stwierdzenia nieważności, wznowienia postępowania, zmiany lub uchylenia, lub stwierdzenia jej wygaśnięcia, wszczętego na wniosek;
+
+- **5)** programie restrukturyzacji – rozumie się przez to program opracowany przez przedsiębiorcę, zawierający w szczególności analizę i ocenę stanu ekonomiczno-finansowego przedsiębiorcy, określenie sposobów działania, które mogą zapewnić osiągnięcie trwałej poprawy wyniku finansowego wraz ze wskazaniem źródeł finansowania przedsięwzięć restrukturyzacyjnych, prognozę efektów ekonomiczno-finansowych – którego celem jest poprawa sytuacji finansowej przedsiębiorcy, stworzenie perspektyw jego rozwoju oraz tworzenie nowych miejsc pracy;
+- **6)** przedsiębiorcach objętych programami restrukturyzacyjnymi – rozumie się przez to przedsiębiorców, którzy podlegają różnym formom restrukturyzacji na podstawie ustaw: poz. 41 i 1802, z 2002 r. poz. 1826 i 2020 oraz z 2003 r. poz. 844) , poz. 1196, z późn. zm. ).
+    - **a)** z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. poz. 1112, z 2001 r.
+    - **b)** z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1663),
+    - **c)** z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2016 r. poz. 1752),
+    - **d)** z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2020 r. poz. 292, 400, 462 i 1747),
+    - **e)** z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U.
 
 **Art. 3.**
 
@@ -122,6 +137,9 @@ Art. 26–28. (pominięte)
 #### Rozdział 2 Postępowanie restrukturyzacyjne
 
 **Art. 9.** Do restrukturyzacji stosuje się odpowiednio przepisy:
+
+- **1)** Ordynacji podatkowej w zakresie należności wymienionych w art. 6 ust. 1 pkt 1,
+- **2)** właściwe do wymiaru i poboru należności wymienionych w art. 6 ust. 1 pkt 2 – chyba że ustawa stanowi inaczej.
 
 **Art. 10.**
 

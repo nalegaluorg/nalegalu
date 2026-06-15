@@ -8,7 +8,7 @@ pos: 1668
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo o szkolnictwie wyższym i nauce Uznając, że dążenie do poznania prawdy i przekazywanie wiedzy z pokolenia na pokolenie jest szczególnie szlachetną działalnością człowieka, oraz dostrzegając fundamentalną rolę nauki w tworzeniu cywilizacji, określa się zasady funkcjonowania szkolnictwa wyższego oraz prowadzenia działalności naukowej w oparciu o następujące pryncypia: – obowiązkiem władzy publicznej jest tworzenie optymalnych warunków dla wolności badań naukowych i twórczości artystycznej, wolności nauczania oraz autonomii społeczności akademickiej, – każdy uczony ponosi odpowiedzialność za jakość i rzetelność prowadzonych badań oraz za wychowanie młodego pokolenia, – uczelnie oraz inne instytucje badawcze realizują misję o szczególnym znaczeniu dla państwa i narodu: wnoszą kluczowy wkład w innowacyjność gospodarki, przyczyniają się do rozwoju kultury, współkształtują standardy moralne obowiązujące w życiu publicznym.
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-30 |
-| Ostatnia zmiana | 2026-05-13 |
+| Ostatnia zmiana | 2026-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1668/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -821,6 +821,9 @@ source: "isap-pdf"
 
 **Art. 47.** Uczelnia zagraniczna może tworzyć uczelnie lub filie z siedzibą na terytorium Rzeczypospolitej Polskiej. Utworzenie uczelni lub filii wymaga:
 
+- **1)** pozwolenia ministra, wydanego po zasięgnięciu opinii ministra właściwego do spraw zagranicznych i PKA;
+- **2)** pozytywnej oceny agencji oceniającej jakość kształcenia uznawanej przez władze państwa, w którym ma siedzibę ta uczelnia, albo agencji zarejestrowanej w Europejskim Rejestrze Instytucji Działających na rzecz Zapewniania Jakości w Szkolnictwie Wyższym (EQAR) lub agencji innego państwa, której oceny są uznawane przez PKA.
+
 **Art. 48.** Do postępowań w sprawach, o których mowa w art. 16 ust. 6, art. 37 ust. 7, art. 41 ust. 3, art. 45 ust. 1, art. 46 ust. 7 i art. 47 pkt 1, nie stosuje się przepisów art. 35–37, art. 79a oraz art. 96a–96n ustawy z dnia 14 czerwca 1960 r. ‒ Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), zwanej dalej „Kpa”.
 
 **Art. 49.**
@@ -1405,6 +1408,20 @@ source: "isap-pdf"
 
 **Art. 81.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
 
+- **1)** wymagania dotyczące programu studiów,
+- **2)** kierunki studiów prowadzone jako jednolite studia magisterskie,
+- **3)** zakres informacji zawartych we wniosku o pozwolenie na utworzenie studiów na określonym kierunku, poziomie i profilu, dokumenty dołączane do wniosku oraz sposób składania wniosku,
+- **4)** wymagania dotyczące prowadzenia zajęć z wykorzystaniem metod i technik kształcenia na odległość oraz maksymalną liczbę punktów ECTS, jaka może być uzyskana w ramach tego kształcenia,
+- **5)** sposób prowadzenia dokumentacji przebiegu studiów, sporządzania duplikatów i odpisów dokumentów oraz dokonywania sprostowań i zmian danych osobowych w dokumentach,
+- **6)** wzór legitymacji studenckiej oraz sposób wydawania legitymacji i potwierdzania jej ważności,
+- **7)** sposób postępowania z dokumentacją przebiegu studiów w przypadku likwidacji uczelni,
+- **8)** sposób uwierzytelniania dokumentów, o których mowa w art. 78 ust. 1, przeznaczonych do obrotu prawnego z zagranicą,
+- **9)** niezbędne elementy dyplomu ukończenia studiów i dyplomu wspólnego,
+- **10)** wzór suplementu do dyplomu,
+- **11)** tytuły zawodowe równorzędne tytułom licencjata i inżyniera oraz tytułom magistra i magistra inżyniera,
+- **12)** wysokość i sposób pobierania opłat za uwierzytelnianie dokumentów przeznaczonych do obrotu prawnego z zagranicą, za wydanie indeksu i legitymacji studenckiej oraz za wydanie duplikatów tych dokumentów, a także za wydanie odpisów w językach obcych dyplomu ukończenia studiów i suplementu do dyplomu lub duplikatu dyplomu ukończenia studiów i suplementu do dyplomu,
+- **13)** wysokość opłaty za przeprowadzenie rekrutacji – mając na uwadze konieczność zapewnienia wysokiej jakości kształcenia, właściwego przebiegu kształcenia, doboru efektów uczenia się i sposobów ich weryfikacji z zachowaniem spójności procesu ich uzyskiwania, racjonalnej organizacji kształcenia umożliwiającej najbardziej skuteczne uzyskanie efektów uczenia się szczególnie istotnych z punktu widzenia przygotowania zawodowego absolwentów, prawidłowości i rzetelności dokumentowania przebiegu studiów, adekwatności wysokości opłat do kosztów, potrzebę poświadczenia statusu studenta, a także tradycyjne nazewnictwo w zakresie tytułów zawodowych i szczególne znaczenie dokumentów przeznaczonych do obrotu prawnego z zagranicą.
+
 **Art. 82.** W przypadku zaprzestania prowadzenia studiów na określonym kierunku, poziomie i profilu uczelnia zapewnia studentom możliwość kontynuowania studiów na tym samym poziomie i profilu oraz takim samym albo innym kierunku studiów związanym z dyscypliną, do której był przyporządkowany dotychczas prowadzony kierunek.
 
 #### Rozdział 3 Prawa i obowiązki studentów
@@ -1660,6 +1677,15 @@ source: "isap-pdf"
 
 **Art. 103.** Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
 
+- **1)** sposób ustalania wysokości miesięcznego dochodu na osobę w rodzinie osoby ubiegającej się o kredyt studencki uprawniającej do otrzymania kredytu studenckiego,
+- **2)** tryb składania wniosków o kredyt studencki,
+- **3)** zakres informacji zawartych we wniosku o kredyt studencki oraz dokumenty dołączane do wniosku,
+- **4)** niezbędne elementy umowy kredytu studenckiego,
+- **5)** termin zawarcia umowy kredytu studenckiego,
+- **6)** wysokość miesięcznych transz kredytu studenckiego,
+- **7)** szczegółowe warunki i tryb zawieszania spłaty i umarzania kredytu studenckiego,
+- **8)** warunki i tryb rozliczeń z tytułu pokrywania odsetek należnych instytucjom kredytującym od kredytów studenckich – mając na uwadze potrzebę zapewnienia przyznawania i wypłaty kredytów studenckich w sposób sprawny i terminowy, należyty poziom ochrony kredytobiorcy, a także uwarunkowania socjalno-bytowe studentów i absolwentów.
+
 **Art. 103a.**
 
 1. Student odbywający studia na kierunku lekarskim w języku polskim na warunkach odpłatności może ubiegać się o kredyt na pokrycie opłat za usługi edukacyjne na tych studiach, zwany dalej „kredytem na studia medyczne”. Z kredytu na studia medyczne nie są finansowane opłaty za usługi edukacyjne, o których mowa w art. 79 ust. 1 pkt 2–5 i ust. 2.
@@ -1818,7 +1844,19 @@ source: "isap-pdf"
 
 **Art. 103f.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
 
+- **1)** terminy i sposób składania wniosków o kredyt na studia medyczne,
+- **2)** terminy przekazywania i zakres informacji, o których mowa w art. 103e,
+- **3)** termin zawarcia umowy kredytu na studia medyczne,
+- **4)** niezbędne elementy umowy kredytu na studia medyczne,
+- **5)** tryb wypłaty i spłaty kredytu na studia medyczne,
+- **6)** sposób umarzania kredytu na studia medyczne przez ministra właściwego do spraw zdrowia,
+- **7)** wzór wniosku o umorzenie kredytu na studia medyczne przez ministra właściwego do spraw zdrowia,
+- **8)** sposób dokonywania rozliczeń z tytułu pokrywania odsetek należnych bankom – mając na uwadze potrzebę zapewnienia właściwych środków na pokrycie opłat za usługi edukacyjne na studiach na kierunku lekarskim, przekazywania transz semestralnych kredytu na studia medyczne w sposób sprawny i terminowy, należytego poziomu ochrony kredytobiorcy, a także możliwie szerokiego dostępu do kształcenia na kierunku lekarskim.
+
 **Art. 104.** Student może ubiegać się o:
+
+- **1)** zakwaterowanie w domu studenckim uczelni lub wyżywienie w stołówce studenckiej uczelni;
+- **2)** zakwaterowanie małżonka lub dziecka w domu studenckim uczelni.
 
 **Art. 105.** Osobie legitymującej się legitymacją studencką przysługuje prawo do korzystania z 50 % ulgi w opłatach za przejazdy publicznymi środkami komunikacji miejskiej.
 
@@ -1918,7 +1956,15 @@ source: "isap-pdf"
 
 **Art. 113.** Nauczycielem akademickim może być osoba, która:
 
+- **1)** posiada kwalifikacje określone w ustawie i statucie;
+- **2)** nie została ukarana karą dyscyplinarną, o której mowa w art. 276 ust. 1 pkt 7 i 8;
+- **3)** spełnia wymagania, o których mowa w art. 20 ust. 1 pkt 1–3.
+
 **Art. 114.** Nauczycieli akademickich zatrudnia się w grupach pracowników:
+
+- **1)** dydaktycznych;
+- **2)** badawczych;
+- **3)** badawczo-dydaktycznych.
 
 **Art. 115.**
 
@@ -2045,6 +2091,12 @@ source: "isap-pdf"
 
 **Art. 124.** Umowa o pracę z nauczycielem akademickim wygasa w przypadku:
 
+- **1)** zaprzestania spełniania wymagań, o których mowa w art. 113;
+- **2)** stwierdzenia, że zawarcie umowy o pracę nastąpiło na podstawie fałszywych lub nieważnych dokumentów;
+- **3)** orzeczenia kary dyscyplinarnej, o której mowa w art. 276 ust. 1 pkt 6;
+- **4)** orzeczenia środka karnego w postaci zakazu zajmowania określonego stanowiska, w przypadku gdy orzeczenie to dotyczy wykonywania obowiązków nauczyciela akademickiego;
+- **5)** orzeczenia kary pozbawienia wolności.
+
 **Art. 125.**
 
 1. Nauczyciel akademicki zatrudniony w uczelni publicznej, która jest jego podstawowym miejscem pracy, może, za zgodą rektora, podjąć lub kontynuować dodatkowe zatrudnienie tylko u jednego pracodawcy prowadzącego działalność dydaktyczną lub naukową.
@@ -2146,6 +2198,11 @@ source: "isap-pdf"
 
 **Art. 130.** Rektor może udzielić nauczycielowi akademickiemu:
 
+- **1)** posiadającemu co najmniej stopień doktora, w okresie 7 lat zatrudnienia w danej uczelni – płatnych urlopów naukowych w łącznym wymiarze nieprzekraczającym roku w celu przeprowadzenia badań;
+- **2)** przygotowującemu rozprawę doktorską – płatnego urlopu naukowego w wymiarze nieprzekraczającym 3 miesięcy;
+- **3)** płatnego urlopu w celu odbycia za granicą kształcenia, stażu naukowego albo dydaktycznego, uczestnictwa w konferencji, przeprowadzenia kwerendy, odbycia wizyty studyjnej, realizacji innego rodzaju działalności naukowej albo uczestnictwa we wspólnych badaniach naukowych prowadzonych z podmiotem zagranicznym na podstawie umowy o współpracy naukowej;
+- **4)** płatnego urlopu w celu uczestnictwa we wspólnych badaniach naukowych prowadzonych z Centrum Łukasiewicz lub instytutem Sieci Łukasiewicz.
+
 **Art. 131.**
 
 1. Nauczycielowi akademickiemu, który nie ukończył 65. roku życia, zatrudnionemu w pełnym wymiarze czasu pracy, po co najmniej 10 latach zatrudnienia w uczelni przysługuje prawo do płatnego urlopu dla poratowania zdrowia.
@@ -2177,6 +2234,10 @@ source: "isap-pdf"
 **Art. 133.** Koszty badań lekarskich, o których mowa w art. 131 ust. 7 oraz w art. 132 ust. 4, ponosi, nie częściej niż raz na 3 lata, uczelnia.
 
 **Art. 134.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+
+- **1)** zakres oraz tryb przeprowadzania badania lekarskiego mającego na celu stwierdzenie, czy stan zdrowia nauczyciela akademickiego wymaga powstrzymania się od pracy, oraz określenie zaleconego leczenia i czasu potrzebnego na jego przeprowadzenie,
+- **2)** wzór skierowania na badanie lekarskie, o którym mowa w pkt 1,
+- **3)** wzór orzeczenia lekarskiego wydawanego w wyniku badania lekarskiego, o którym mowa w pkt 1 – mając na uwadze konieczność obiektywnej oceny stanu zdrowia, a także zapewnienia jednolitości stosowanych dokumentów.
 
 **Art. 135.**
 
@@ -2368,6 +2429,10 @@ source: "isap-pdf"
 
 **Art. 153.** Do wyników:
 
+- **1)** badań naukowych będących wynalazkiem, wzorem użytkowym, wzorem przemysłowym lub topografią układu scalonego, wyhodowaną albo odkrytą i wyprowadzoną odmianą rośliny,
+- **2)** prac rozwojowych,
+- **3)** twórczości artystycznej – powstałych w ramach wykonywania przez pracownika uczelni publicznej obowiązków ze stosunku pracy oraz do know-how związanego z tymi wynikami stosuje się przepisy art. 154–157.
+
 **Art. 154.**
 
 1. Pracownik przekazuje uczelni publicznej informację o wynikach działalności naukowej oraz o know-how związanym z tymi wynikami. W przypadku złożenia przez pracownika oświadczenia o zainteresowaniu przeniesieniem praw do tych wyników i związanego z nimi know-how, uczelnia w terminie 3 miesięcy podejmuje decyzję w sprawie ich komercjalizacji.
@@ -2480,6 +2545,10 @@ source: "isap-pdf"
 6. Za uwierzytelnienie pobiera się opłatę.
 
 **Art. 164.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+
+- **1)** niezbędne elementy świadectwa ukończenia studiów podyplomowych, świadectwa dyplomowanego specjalisty oraz świadectwa dyplomowanego specjalisty technologa,
+- **2)** sposób uwierzytelniania dokumentów, o których mowa w art. 163 ust. 3, przeznaczonych do obrotu prawnego z zagranicą,
+- **3)** wysokość i sposób pobierania opłat za uwierzytelnianie dokumentów przeznaczonych do obrotu prawnego z zagranicą – mając na uwadze konieczność zapewnienia kompletności informacji zawartych w tych dokumentach, szczególne znaczenie dokumentów przeznaczonych do obrotu prawnego z zagranicą, a także adekwatność wysokości opłat do kosztów.
 
 ### DZIAŁ IV Federacje
 
@@ -2659,6 +2728,15 @@ source: "isap-pdf"
 
 **Art. 176.** Do federacji stosuje się odpowiednio przepisy: [1) art. 24 ust. 9, art. 177–180, art. 182–226a, art. 259–262, art. 264, art. 266, art. 267 ust. 1, art. 268–270, art. 322, art. 343, art. 343a, art. 345, art. 346, art. 348–350, art. 351 ust. 4, art. 354, art. 355, art. 358a, art. 360–362, art. 408, art. 409 ust. 2–5, art. 410, art. 411, art. 420, art. 423, art. 425–428, art. 432, art. 469a i art. 469b;] <1) art. 24 ust. 9, art. 177–180, art. 182–226a, art. 259–262, art. 264, art. 266, art. 267 ust. 1, art. 268–270, art. 322, art. 343, art. 343a, art. 345, art. 346, art. 347a, art. 348–350, art. 351 ust. 4, art. 354, art. 355, art. 358a, art. 360– 362, art. 408, art. 409 ust. 2–5, art. 410, art. 411, art. 420, art. 423, art. 425– 428, art. 432, art. 469a i art. 469b;>
 
+- **2)** art. 36, z tym że:
+    - **a)** koszty likwidacji pokrywa się z majątku jednostek uczestniczących,
+    - **b)** dokumentację osobową i płacową przejmuje jednostka uczestnicząca wskazana w statucie,
+    - **c)** prawa i obowiązki federacji przejmuje jednostka uczestnicząca wskazana w statucie;
+
+- **3)** art. 148–152, z tym że federacja może utworzyć tylko jedną spółkę celową, oraz art. 159;
+- **4)** art. 387–399, z tym że środki finansowe otrzymane w ramach programów uczelnia przekazuje federacji;
+- **5)** wydane na podstawie art. 181, art. 263, art. 267 ust. 2, art. 353 i art. 363.
+
 ### DZIAŁ V Stopnie i tytuł w systemie szkolnictwa wyższego i nauki
 
 #### Rozdział 1 Przepisy ogólne
@@ -2751,6 +2829,11 @@ source: "isap-pdf"
 2. Za uwierzytelnienie pobierana jest opłata.
 
 **Art. 181.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+
+- **1)** niezbędne elementy dyplomu doktorskiego i dyplomu habilitacyjnego, sposób sporządzania duplikatów i odpisów tych dyplomów oraz dokonywania w nich sprostowań i zmian danych osobowych, mając na uwadze konieczność zapewnienia kompletności i aktualności informacji zawartych w dyplomie doktorskim i dyplomie habilitacyjnym;
+- **2)** wzór legitymacji doktoranta i sposób potwierdzania jej ważności, mając na uwadze potrzebę poświadczenia statusu doktoranta;
+- **3)** sposób uwierzytelniania dokumentów, o których mowa w art. 180 ust. 1 i 1a, przeznaczonych do obrotu prawnego z zagranicą, mając na uwadze szczególne znaczenie dokumentów przeznaczonych do obrotu prawnego z zagranicą;
+- **4)** wysokość i sposób pobierania opłaty za uwierzytelnianie dokumentów, o których mowa w art. 180 ust. 1 i 1a, oraz wysokość opłaty za wydanie duplikatu dyplomu doktorskiego i dyplomu habilitacyjnego, a także odpisu tych dyplomów, w tym w języku obcym, mając na uwadze zapewnienie adekwatności wysokości opłat do kosztów.
 
 **Art. 182.**
 
@@ -2932,6 +3015,9 @@ source: "isap-pdf"
 
 **Art. 197.** Przygotowanie rozprawy doktorskiej odbywa się w trybie:
 
+- **1)** kształcenia doktorantów;
+- **2)** eksternistycznym.
+
 ##### Oddział 2 Kształcenie doktorantów
 
 **Art. 198.**
@@ -2961,6 +3047,12 @@ source: "isap-pdf"
 **Art. 198b.** W przypadku czasowego ograniczenia lub czasowego zawieszenia kształcenia doktorantów, w okresie tego ograniczenia lub zawieszenia oraz przez 60 dni po jego zakończeniu, legitymacje doktoranta są ważne, bez konieczności potwierdzania ich ważności. Przepis stosuje się również do legitymacji, które utraciły ważność w okresie 30 dni poprzedzających czasowe ograniczenie lub czasowe zawieszenie kształcenia doktorantów.
 
 **Art. 199.** Podmiot prowadzący szkołę doktorską traci możliwość:
+
+- **1)** prowadzenia kształcenia doktorantów w ramach dyscypliny, w której:
+    - **a)** uzyskał kategorię naukową B albo C,
+    - **b)** utracił uprawnienie nadane w trybie określonym w art. 226a ust. 1,
+
+- **2)** prowadzenia szkoły doktorskiej w przypadku zaprzestania spełniania warunków określonych w art. 198 ust. 3–5 – i zaprzestaje kształcenia z końcem roku akademickiego, w którym wystąpiła ta okoliczność; przepisy art. 206 stosuje się.
 
 **Art. 200.**
 
@@ -3126,7 +3218,13 @@ source: "isap-pdf"
 
 **Art. 210.** Doktorant może ubiegać się o kredyt studencki. Przepisy o kredytach studenckich stosuje się odpowiednio, z tym że:
 
+- **1)** kredyt może otrzymać doktorant, który nie ukończył 35. roku życia;
+- **2)** kredyt jest udzielany na okres kształcenia w szkole doktorskiej tylko raz, nie dłużej niż na 4 lata.
+
 **Art. 211.** Doktorant może ubiegać się o:
+
+- **1)** zakwaterowanie w domu studenckim uczelni lub wyżywienie w stołówce studenckiej uczelni,
+- **2)** zakwaterowanie małżonka lub dziecka w domu studenckim uczelni – na zasadach i w trybie określonych w regulaminie świadczeń dla studentów.
 
 **Art. 212.** Stypendium może być przyznane doktorantowi przez jednostkę samorządu terytorialnego na zasadach określonych zgodnie z art. 96 ust. 2 i 3.
 
@@ -3159,6 +3257,9 @@ source: "isap-pdf"
 #### Rozdział 3 Stopień doktora habilitowanego
 
 **Art. 218.** Uprawnienie do nadawania stopnia doktora habilitowanego posiadają uczelnia, instytut PAN, instytut badawczy, instytut międzynarodowy albo CMKP, które w danej dyscyplinie posiadają:
+
+- **1)** kategorię naukową A+, A albo B+ albo
+- **2)** uprawnienie nadane w trybie określonym w art. 226a ust. 1 – zwane dalej „podmiotem habilitującym”.
 
 **Art. 219.**
 
@@ -3360,6 +3461,9 @@ source: "isap-pdf"
 
 **Art. 228a.** Postępowania w sprawie nadania tytułu profesora w:
 
+- **1)** dyscyplinie, która została włączona do innej dyscypliny albo do innych dyscyplin,
+- **2)** dziedzinie, która została włączona do innej dziedziny albo do innych dziedzin – wszczęte przed dniem wprowadzenia tej zmiany do klasyfikacji dziedzin i dyscyplin prowadzi się w dyscyplinie albo w dziedzinie, która została włączona, na zasadach dotychczasowych do dnia zakończenia tych postępowań.
+
 **Art. 229.**
 
 1. Recenzentem w postępowaniu w sprawie nadania tytułu profesora może być osoba posiadająca:
@@ -3526,6 +3630,10 @@ source: "isap-pdf"
 
 **Art. 239.** W ramach nadzoru, o którym mowa w art. 238 ust. 1 pkt 6, RDN może:
 
+- **1)** żądać informacji i wyjaśnień od podmiotów doktoryzujących i podmiotów habilitujących;
+- **2)** stwierdzać nieważność uchwał w sprawach, o których mowa w art. 192 ust. 2 i 3 oraz art. 221 ust. 14;
+- **3)** wznawiać postępowania administracyjne w sprawach nadania stopnia doktora i doktora habilitowanego.
+
 **Art. 240.**
 
 1. Zespół, o którym mowa w art. 235 ust. 5, wskazuje kandydatów na recenzentów w liczbie stanowiącej co najmniej trzykrotność liczby recenzentów wyznaczanych przez RDN w danej sprawie.
@@ -3585,6 +3693,12 @@ source: "isap-pdf"
 
 **Art. 244.** Przeprowadzając ocenę programową albo ocenę kompleksową, PKA może:
 
+- **1)** wydać ocenę na podstawie oceny, akredytacji lub certyfikatu podmiotu dokonującego ocen jakości kształcenia:
+    - **a)** zarejestrowanego w Europejskim Rejestrze Instytucji Działających na rzecz Zapewniania Jakości w Szkolnictwie Wyższym (EQAR) lub
+    - **b)** z którym PKA zawarła umowę o uznawalności ocen;
+
+- **2)** uwzględnić ocenę, akredytację lub certyfikat międzynarodowego lub krajowego podmiotu dokonującego ocen jakości kształcenia.
+
 **Art. 245.**
 
 1. Prezydium PKA podejmuje uchwały na podstawie opinii zespołu, o którym mowa w art. 254 ust. 1 pkt 1, sporządzonej na podstawie:
@@ -3615,6 +3729,9 @@ source: "isap-pdf"
 2. Uchwałę dotyczącą oceny wraz z uzasadnieniem uczelnia udostępnia w BIP na swojej stronie podmiotowej.
 
 **Art. 248.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, kryteria:
+
+- **1)** oceny programowej,
+- **2)** oceny kompleksowej – mając na uwadze międzynarodowe standardy w zakresie zapewniania jakości kształcenia oraz potrzebę zapewnienia właściwych wzorców oceny.
 
 **Art. 249.**
 
@@ -3762,6 +3879,15 @@ source: "isap-pdf"
 **Art. 260.** Pierwszą ewaluację jakości kształcenia w szkole doktorskiej przeprowadza się po upływie co najmniej 5 lat od dnia rozpoczęcia kształcenia w ramach tej szkoły. Na wniosek ministra ewaluacja może być przeprowadzona przed upływem tego terminu.
 
 **Art. 261.** Przy ewaluacji uwzględnia się następujące kryteria:
+
+- **1)** adekwatność programu kształcenia oraz indywidualnych planów badawczych do efektów uczenia się dla kwalifikacji na poziomie 8 PRK oraz ich realizację;
+- **2)** sposób weryfikacji efektów uczenia się dla kwalifikacji na poziomie 8 PRK;
+- **3)** kwalifikacje nauczycieli akademickich lub pracowników naukowych prowadzących kształcenie w szkole doktorskiej;
+- **4)** jakość procesu rekrutacji;
+- **5)** jakość opieki naukowej lub artystycznej i wsparcia w prowadzeniu działalności naukowej;
+- **6)** rzetelność przeprowadzania oceny śródokresowej;
+- **7)** umiędzynarodowienie;
+- **8)** skuteczność kształcenia doktorantów.
 
 **Art. 262.**
 
@@ -4030,11 +4156,24 @@ source: "isap-pdf"
 
 **Art. 279.** W postępowaniu dyscyplinarnym orzekają:
 
+- **1)** w pierwszej instancji:
+    - **a)** uczelniana komisja dyscyplinarna – w przypadku gdy rzecznik dyscyplinarny wniósł o zastosowanie kary określonej w art. 276 ust. 1 pkt 2 albo 3 wobec nauczyciela akademickiego innego niż wymieniony w art. 277 ust. 3,
+    - **b)** komisja dyscyplinarna przy RGNiSW – w przypadku nauczyciela akademickiego: – w stosunku do którego rzecznik dyscyplinarny wniósł o zastosowanie kary określonej w art. 276 ust. 1 pkt 4–8, – wymienionego w art. 277 ust. 3;
+
+- **2)** w drugiej instancji – komisja dyscyplinarna przy ministrze.
+
 **Art. 280.** Kadencja komisji dyscyplinarnej trwa 4 lata i rozpoczyna się w przypadku:
+
+- **1)** uczelnianej komisji dyscyplinarnej – z początkiem kadencji senatu uczelni;
+- **2)** komisji dyscyplinarnej przy RGNiSW oraz komisji dyscyplinarnej przy ministrze – w dniu 1 stycznia.
 
 **Art. 281.** Obsługę komisji dyscyplinarnej przy RGNiSW, komisji dyscyplinarnej przy ministrze oraz rzeczników dyscyplinarnych powołanych przez ministra zapewnia urząd obsługujący ministra.
 
 **Art. 282.** Rektor, po otrzymaniu zawiadomienia o popełnieniu czynu mającego znamiona przewinienia dyscyplinarnego lub powzięciu w inny sposób informacji o możliwości popełnienia takiego czynu, może:
+
+- **1)** skierować sprawę do mediacji – w przypadku gdy wskutek czynu zaistniał spór między osobą, której dotyczy zawiadomienie lub informacja, a pokrzywdzonym;
+- **2)** nałożyć karę upomnienia – w przypadku gdy czyn stanowi przewinienie dyscyplinarne mniejszej wagi i udowodnienie winy nie wymaga przeprowadzenia postępowania wyjaśniającego;
+- **3)** polecić rzecznikowi dyscyplinarnemu, w drodze postanowienia, rozpoczęcie prowadzenia sprawy.
 
 **Art. 283.**
 
@@ -4157,6 +4296,9 @@ source: "isap-pdf"
 4. Rzecznik dyscyplinarny, o którym mowa w ust. 3, wydaje postanowienie o umorzeniu postępowania wyjaśniającego, na które nie przysługuje zażalenie, albo kieruje wniosek o wszczęcie postępowania dyscyplinarnego do komisji dyscyplinarnej przy RGNiSW.
 
 **Art. 290.** W przypadku gdy:
+
+- **1)** zachodzi długotrwała przeszkoda uniemożliwiająca prowadzenie postępowania wyjaśniającego lub
+- **2)** wszczęto postępowanie przygotowawcze lub postępowanie sądowe dotyczące czynu będącego przedmiotem postępowania wyjaśniającego – rzecznik dyscyplinarny może wydać postanowienie o zawieszeniu postępowania wyjaśniającego na czas trwania przeszkody, postępowania przygotowawczego lub postępowania sądowego.
 
 **Art. 291.**
 
@@ -4289,6 +4431,12 @@ source: "isap-pdf"
 2. Za ten sam czyn student nie może być ukarany jednocześnie przez rektora i komisję dyscyplinarną.
 
 **Art. 308.** Karami dyscyplinarnymi są:
+
+- **1)** upomnienie;
+- **2)** nagana;
+- **3)** nagana z ostrzeżeniem;
+- **4)** zawieszenie w określonych prawach studenta na okres do 1 roku;
+- **5)** wydalenie z uczelni.
 
 **Art. 309.**
 
@@ -5244,6 +5392,15 @@ source: "isap-pdf"
 
 **Art. 353.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia: [1) szczegółowy zakres danych, o których mowa w art. 343 ust. 1 pkt 3, 8, 9 i 11–21, art. 344 ust. 1 pkt 4 i 8–10, art. 345 ust. 1 pkt 3, 6, 7 i 13–16, art. 346 ust. 1 pkt 1, 3, 5–9 i 11–17 oraz w art. 349 ust. 1 pkt 2–5, zamieszczanych w bazach danych,] <1) szczegółowy zakres danych, o których mowa w art. 343 ust. 1 pkt 3, 8, 9 i 11–21, art. 344 ust. 1 pkt 4 i 8–10, art. 345 ust. 1 pkt 3, 6, 7 i 13–16, art. 346 ust. 1 pkt 1, 3, 5–9 i 11–17 oraz w art. 349 ust. 1 pkt 1b–3, 4 i 5, zamieszczanych w bazach danych,>
 
+- **2)** tryb i terminy wprowadzania danych do baz danych oraz aktualizowania, archiwizowania i usuwania tych danych,
+- **3)** sposób wprowadzania prac dyplomowych do repozytorium oraz specyfikację formatu tych prac, <3a) szczegółowe wymagania techniczne dotyczące dyplomów ukończenia studiów, suplementów do dyplomów, dyplomów doktorskich i dyplomów habilitacyjnych oraz odpisów tych dokumentów w językach obcych w postaci elektronicznej, a także sposób ich wydawania i weryfikacji oraz specyfikację formatu tych dokumentów, 3b) zakres dodatkowych elementów:
+    - **a)** dyplomu ukończenia studiów, które mogą być wprowadzone do repozytorium dyplomów elektronicznych zgodnie z art. 347a ust. 4,
+    - **b)** dyplomu doktorskiego i dyplomu habilitacyjnego, które mogą być wprowadzone do repozytorium dyplomów elektronicznych zgodnie z art. 347a ust. 6, 3c) zakres danych umożliwiających dostęp do:
+    - **a)** repozytorium dyplomów elektronicznych – na podstawie art. 347a ust. 12 pkt 6,
+    - **b)** informacji o dyplomach ukończenia studiów, suplementach do tych dyplomów, dyplomach doktorskich i dyplomach habilitacyjnych, zgromadzonych w repozytorium dyplomów elektronicznych – na podstawie art. 347a ust. 13 pkt 2,>
+
+- **4)** tryb i sposób udostępniania danych – mając na uwadze potrzebę zapewnienia kompletności i aktualności zgromadzonych w bazach danych służących właściwej realizacji polityki naukowej państwa i zadań z zakresu szkolnictwa wyższego i nauki oraz odpowiedniego poziomu ochrony przetwarzanych danych.
+
 **Art. 354.**
 
 1. Dane w Systemie POL-on są aktualizowane, archiwizowane i usuwane przez podmiot, który je wprowadził.
@@ -5392,6 +5549,9 @@ source: "isap-pdf"
 
 **Art. 363.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, szczegółowe kryteria i tryb przyznawania oraz sposób wypłacania:
 
+- **1)** stypendiów, o których mowa w art. 359 ust. 1 i art. 360 ust. 1, rodzaje osiągnięć i sposób ich dokumentowania, maksymalną liczbę stypendiów przyznawanych studentom i młodym naukowcom, w tym doktorantom, maksymalną wysokość stypendium oraz wzór wniosku o jego przyznanie,
+- **2)** nagród, o których mowa w art. 362, rodzaje osiągnięć i sposób ich dokumentowania, maksymalną liczbę przyznawanych nagród, maksymalną wysokość nagrody oraz wzór wniosku o jej przyznanie – mając na uwadze potrzebę zapewnienia wysokiego poziomu osiągnięć umożliwiających uzyskanie stypendium lub nagrody, sprawnego przebiegu postępowań w sprawie ich przyznania i sprawnego ich wypłacania oraz adekwatności wysokości stypendium lub nagrody do rangi osiągnięć.
+
 **Art. 364.**
 
 1. Za wyróżniające się rozprawy doktorskie, wysoko ocenione osiągnięcia będące podstawą nadania stopnia doktora habilitowanego lub osiągnięcia w zakresie działalności naukowej lub wdrożeniowej Prezes Rady Ministrów może przyznać nagrodę.
@@ -5464,6 +5624,55 @@ source: "isap-pdf"
 ### DZIAŁ XII Finansowanie systemu szkolnictwa wyższego i nauki oraz gospodarka finansowa uczelni
 
 **Art. 365.** Środki finansowe na szkolnictwo wyższe i naukę przeznacza się na:
+
+- **1)** utrzymanie i rozwój potencjału dydaktycznego, w tym:
+    - **a)** kształcenie studentów na studiach stacjonarnych,
+    - **b)** utrzymanie i rozwój uczelni, w tym domów i stołówek studenckich oraz realizację inwestycji w obszarze działalności dydaktycznej,
+    - **c)** rozwój zawodowy pracowników uczelni,
+    - **d)** przedsięwzięcie „Dydaktyczna inicjatywa doskonałości”;
+
+- **2)** utrzymanie i rozwój potencjału badawczego, w tym:
+    - **a)** prowadzenie działalności naukowej,
+    - **b)** realizację inwestycji w obszarze działalności badawczej,
+    - **c)** kształcenie w szkole doktorskiej,
+    - **d)** komercjalizację wyników działalności naukowej oraz know-how związanego z tymi wynikami,
+    - **e)** program „Inicjatywa doskonałości – uczelnia badawcza”,
+    - **f)** program „Regionalna inicjatywa doskonałości”,
+    - **g)** rozwój zawodowy pracowników naukowych w instytutach PAN, instytutach badawczych oraz instytutach międzynarodowych;
+
+- **2a)** działalność bieżącą instytutów Sieci Łukasiewicz, w tym:
+    - **a)** rozwój kompetencji badawczych,
+    - **b)** zatrudnienie kadry i rozwój zawodowy pracowników pionu badawczego,
+    - **c)** utrzymanie infrastruktury badawczej i informatycznej,
+    - **d)** działania związane z komercjalizacją wyników badań naukowych i prac rozwojowych prowadzonych w ramach celu Sieci Badawczej Łukasiewicz, o którym mowa w art. 1 ust. 2 pkt 1 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz, lub know-how związanego z tymi wynikami;
+
+- **2b)** realizację projektów badawczych w ramach celu Sieci Badawczej Łukasiewicz, o którym mowa w art. 1 ust. 2 pkt 1 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz;
+- **3)** świadczenia, o których mowa w art. 86 ust. 1 pkt 1–4;
+- **4)** inwestycje związane z:
+    - **a)** kształceniem,
+    - **b)** działalnością naukową,
+    - **c)** obsługą realizacji zadań NAWA, NCN, NCBiR i Centrum Łukasiewicz,
+    - **d)** realizacją projektów badawczych w ramach celu Sieci Badawczej Łukasiewicz, o którym mowa w art. 1 ust. 2 pkt 1 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz;
+
+- **5)** utrzymanie: [6) zadania związane z zapewnieniem osobom niepełnosprawnym warunków do pełnego udziału w procesie przyjmowania na studia, do szkół doktorskich, kształceniu na studiach i w szkołach doktorskich lub prowadzeniu działalności naukowej;] <6) zadania związane z zapewnieniem osobom niepełnosprawnym warunków do pełnego udziału w procesie przyjmowania na studia, studia podyplomowe i do szkół doktorskich, w kształceniu na studiach, studiach podyplomowych i w szkołach doktorskich lub w prowadzeniu działalności naukowej;>
+    - **a)** aparatury naukowo-badawczej lub stanowiska badawczego, unikatowych w skali kraju,
+    - **b)** specjalnej infrastruktury informatycznej – mających istotne znaczenie dla realizacji polityki naukowej państwa;
+
+- **7)** programy i przedsięwzięcia ustanawiane przez ministra;
+- **8)** stypendia i nagrody ministra;
+- **9)** zadania finansowane z udziałem środków pochodzących z budżetu Unii Europejskiej albo z niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA), albo z innych środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi;
+- **10)** zadania realizowane lub finansowane przez NAWA;
+- **11)** zadania finansowane przez NCBiR, w tym badania naukowe i prace rozwojowe na rzecz obronności i bezpieczeństwa państwa;
+- **12)** zadania finansowane przez NCN;
+- **13)** bieżące koszty działalności:
+    - **a)** NAWA,
+    - **b)** NCBiR,
+    - **c)** NCN;
+    - **d)** (uchylona) 13a) koszty działalności oraz realizację zadań Centrum Łukasiewicz, o których mowa w art. 2 ust. 2 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz;
+
+- **13b)** zadania finansowane przez Centrum Łukasiewicz, o których mowa w art. 2 ust. 2a ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz;
+- **14)** finansowanie działalności RDN, PKA, KEN, RGNiSW, PSRP, KRD, KPN, Biura RDN, Biura PKA, rzeczników dyscyplinarnych powołanych przez ministra, komisji dyscyplinarnych przy RGNiSW i przy ministrze, zespołów doradczych i ekspertów, o których mowa w art. 341, zespołów ekspertów, o których mowa w art. 388 ust. 5 oraz art. 397 ust. 4, oraz ekspertów, o których mowa w art. 428 ust. 2;
+- **15)** opłacanie składek na rzecz instytucji lub organizacji międzynarodowych, wynikających z zawartych umów międzynarodowych lub statutów konsorcjów działających na rzecz europejskiej infrastruktury badawczej.
 
 **Art. 366.**
 
@@ -5561,6 +5770,11 @@ source: "isap-pdf"
 3. Do postępowań w sprawach przyznawania środków finansowych, o których mowa w art. 365 pkt 5, a także dokonywania zwiększeń, o których mowa w art. 368 ust. 8, nie stosuje się przepisów art. 10, art. 35–37, art. 61 § 4, art. 79a, art. 81 oraz art. 96a–96n Kpa.
 
 **Art. 370.** Minister przekazuje:
+
+- **1)** NAWA – środki finansowe, o których mowa w art. 365 pkt 4 lit. c, pkt 9, 10 i pkt 13 lit. a;
+- **2)** NCBiR – środki finansowe, o których mowa w art. 365 pkt 4 lit. c, pkt 9 i 11 oraz pkt 13 lit. b;
+- **3)** NCN – środki finansowe, o których mowa w art. 365 pkt 4 lit. c, pkt 9, 12 i pkt 13 lit. c;
+- **4)** Centrum Łukasiewicz – środki finansowe, o których mowa w art. 365 pkt 2b, pkt 4 lit. b–d, pkt 5, 7, 9, 13a i 13b.
 
 **Art. 370a.** (uchylony)
 
@@ -5691,6 +5905,11 @@ source: "isap-pdf"
 
 **Art. 377.** Przy przyznawaniu środków finansowych w ramach programów uwzględnia się poziom merytoryczny wniosku oraz:
 
+- **1)** potencjał wnioskodawcy lub
+- **2)** wpływ na poszerzenie stanu wiedzy, lub
+- **3)** użyteczność wyników prac lub zadań, lub
+- **4)** społeczną odpowiedzialność nauki.
+
 **Art. 378.**
 
 1. Minister przekazuje środki finansowe w ramach programów i przedsięwzięć na podstawie umowy.
@@ -5758,6 +5977,11 @@ source: "isap-pdf"
 2. Do umorzenia należności finansowej, o której mowa w ust. 1, stosuje się odpowiednio przepisy o pomocy publicznej lub pomocy de minimis.
 
 **Art. 385.** Minister, na uzasadniony wniosek dłużnika lub z urzędu, może umorzyć należność finansową niestanowiącą pomocy publicznej lub pomocy de minimis w całości lub w części, odroczyć termin spłaty lub rozłożyć spłatę na raty, jeżeli:
+
+- **1)** wystąpiła nadzwyczajna zmiana stosunków gospodarczych, której strony nie mogły przewidzieć w dniu otrzymania środków finansowych, z powodu której zapłata należności przez dłużnika groziłaby znacznym pogorszeniem jego sytuacji ekonomicznej;
+- **2)** wystąpiły ważne zdarzenia losowe niezależne od dłużnika;
+- **3)** jest to uzasadnione ryzykiem naukowym wynikającym z charakteru wykonywanych zadań;
+- **4)** jest to uzasadnione ważnym interesem publicznym lub ważnymi względami społecznymi lub gospodarczymi, w szczególności możliwościami płatniczymi dłużnika oraz uzasadnionym interesem Skarbu Państwa.
 
 **Art. 386.** Do należności pieniężnych mających charakter cywilnoprawny, przypadających uczelniom publicznym, stosuje się odpowiednio art. 55 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
@@ -5972,6 +6196,17 @@ source: "isap-pdf"
 
 **Art. 402.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
 
+- **1)** sposób podziału środków finansowych, o których mowa w art. 365 pkt 1 lit. a–c i pkt 2 lit. a–d, dla nadzorowanych przez niego uczelni publicznych, mając na uwadze zróżnicowanie zadań uczelni akademickich i uczelni zawodowych;
+- **2)** sposób podziału środków finansowych, o których mowa w art. 365 pkt 2 lit. a–d i g, dla niepublicznych uczelni akademickich, instytutów PAN, instytutów badawczych i instytutów międzynarodowych, a także elementy wniosku, o którym mowa w art. 368 ust. 7, oraz sposób ustalania wysokości subwencji dla PAU, mając na uwadze konieczność utrzymania i rozwoju potencjału badawczego tych podmiotów oraz jego znaczenie dla realizacji polityki naukowej państwa;
+- **2a)** szczegółowe kryteria i tryb przyznawania środków finansowych, o których mowa w art. 365 pkt 2a, w tym szczegółowy zakres informacji zawartych we wniosku o ich przyznanie, oraz warunki i tryb rozliczania tych środków, w tym szczegółowy zakres informacji zawartych w raporcie z wykorzystania tych środków, mając na uwadze znaczenie przyznawanych subwencji dla prawidłowego wykonywania zadań przez instytuty Sieci Łukasiewicz i dla możliwości realizacji celów Sieci Badawczej Łukasiewicz; [3) sposób podziału środków finansowych, o których mowa w art. 365 pkt 3 i 6, dla uczelni, mając na uwadze konieczność zapewnienia odpowiednio wsparcia materialnego dla studentów oraz warunków umożliwiających osobom niepełnosprawnym udział w procesie przyjmowania na studia, do szkół doktorskich, kształceniu na studiach i w szkołach doktorskich oraz prowadzeniu działalności naukowej;] <3) sposób podziału środków finansowych, o których mowa w art. 365 pkt 3 i 6, dla uczelni, mając na uwadze konieczność zapewnienia odpowiednio wsparcia materialnego dla studentów oraz warunków umożliwiających osobom niepełnosprawnym udział w procesie przyjmowania na studia, studia podyplomowe i do szkół doktorskich, w kształceniu na studiach, studiach podyplomowych i w szkołach doktorskich oraz w prowadzeniu działalności naukowej;>
+- **4)** szczegółowe kryteria i tryb przyznawania oraz rozliczania, a także tryb przekazywania środków finansowych, o których mowa w art. 365:
+    - **a)** pkt 4 lit. a – mając na uwadze znaczenie przewidzianych do finansowania inwestycji dla rozwoju uczelni publicznych,
+    - **b)** pkt 4 lit. b – mając na uwadze znaczenie przewidzianych do finansowania inwestycji dla realizacji celów polityki naukowej – oraz zakres informacji zawartych we wniosku o przyznanie tych środków oraz w raporcie z ich wykorzystania, mając na uwadze konieczność zapewnienia jednolitości danych przekazywanych na potrzeby przyznawania i rozliczania środków;
+
+- **5)** szczegółowy sposób wpisywania infrastruktury na Mapę, zakres informacji zawartych we wniosku o wpisanie infrastruktury na Mapę oraz sposób przeprowadzania przeglądu Mapy, mając na uwadze znaczenie strategicznej infrastruktury badawczej dla realizacji celów polityki naukowej państwa, integracji krajowej infrastruktury badawczej z infrastrukturą międzynarodową, rozszerzenie naukowej współpracy międzynarodowej i podnoszenie jakości badań naukowych lub prac rozwojowych oraz rozwoju gospodarczego i społecznego kraju;
+- **6)** szczegółowe kryteria i tryb przyznawania środków finansowych, o których mowa w art. 365 pkt 5, szczegółowe kryteria i tryb oceny raportu z ich wykorzystania, zakres informacji zawartych we wniosku o ich przyznanie oraz w raporcie z ich wykorzystania, mając na uwadze znaczenie aparatury naukowo-badawczej lub stanowiska badawczego oraz infrastruktury informatycznej, których utrzymanie przewidziane jest do finansowania, dla realizacji celów polityki naukowej;
+- **7)** sposób podziału środków finansowych na zadania, o których mowa w art. 459 pkt 7, dla uczelni publicznych kształcących personel lotniczy dla lotnictwa cywilnego, mając na uwadze konieczność utrzymania warunków dla efektywnego kształcenia i jego wysokiej jakości.
+
 **Art. 403.**
 
 1. Ze środków finansowych, o których mowa w art. 365 pkt 14, wypłaca się wynagrodzenia:
@@ -6097,6 +6332,11 @@ source: "isap-pdf"
 
 **Art. 417.** Do czasu ustalenia wysokości:
 
+- **1)** subwencji ze środków, o których mowa w art. 365 pkt 1 i 2 – subwencja może być przekazywana w transzach miesięcznych w wysokości 1/12 kwoty subwencji przekazanej w poprzednim roku budżetowym;
+- **1a)** subwencji ze środków, o których mowa w art. 365 pkt 2a – subwencja może być przekazywana w transzach miesięcznych w wysokości 1/10 kwoty subwencji przekazanej w poprzednim roku budżetowym;
+- **2)** dotacji ze środków, o których mowa w art. 365 pkt 3 – dotacja może być przekazywana w transzach miesięcznych;
+- **3)** dotacji ze środków, o których mowa w art. 365 pkt 6 – dotacja może być przekazywana w transzach miesięcznych w wysokości 1/12 kwoty dotacji przekazanej w poprzednim roku budżetowym.
+
 **Art. 418.**
 
 1. Uczelnia publiczna, w której suma strat netto w okresie nie dłuższym niż 5 ostatnich lat przekracza 20 % kwoty subwencji oraz dotacji otrzymanych w roku poprzedzającym bieżący rok budżetowy ze środków finansowych, o których mowa w art. 365 pkt 1 lit. a–c, pkt 2 lit. a–d, pkt 5 i 6, opracowuje program naprawczy.
@@ -6173,7 +6413,7 @@ source: "isap-pdf"
 1. Przychodami Funduszu Kredytów Studenckich są:
 
 - **1)** dotacje celowe z budżetu państwa określane corocznie w ustawie budżetowej;
-- **2)** wpływy z inwestycji środków Funduszu Kredytów Studenckich w papiery wartościowe emitowane przez Skarb Państwa;
+- **2)** odsetki od wolnych środków Funduszu Kredytów Studenckich przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **3)** inne zwiększenia.
 
 2. Środki Funduszu Kredytów Studenckich przeznacza się na:
@@ -6184,8 +6424,10 @@ source: "isap-pdf"
 
 - **2)** pokrywanie skutków finansowych umorzeń spłaty kredytów;
 - **2a)** pokrywanie skutków finansowych wypłat z tytułu udzielonych poręczeń spłaty kredytów studenckich, w tym kosztów działań windykacyjnych po wypłacie z tytułu poręczenia;
-- **3)** nabywanie papierów wartościowych emitowanych przez Skarb Państwa;
-- **4)** pokrywanie kosztów realizacji zadań wymienionych w pkt 1–3 ponoszonych przez BGK.
+- **3)** (uchylony)
+- **4)** pokrywanie kosztów realizacji zadań wymienionych w pkt 1–2a ponoszonych przez BGK.
+
+3. Wolne środki Funduszu Kredytów Studenckich w walutach obcych mogą być lokowane w bankach.
 
 **Art. 422.**
 
@@ -6219,10 +6461,10 @@ source: "isap-pdf"
 1. Środki FKSM pochodzą z:
 
 - **1)** dotacji celowych z budżetu państwa określanych corocznie w ustawie budżetowej w części, której dysponentem jest minister właściwy do spraw zdrowia;
-- **2)** wpływów z inwestycji środków FKSM w papiery wartościowe emitowane lub gwarantowane przez Skarb Państwa;
-- **3)** wpływów z inwestycji środków FKSM w papiery wartościowe emitowane przez Narodowy Bank Polski;
-- **4)** odsetek od lokat okresowo wolnych środków FKSM w bankach;
-- **5)** odsetek od wolnych środków FKSM przekazanych w depozyt zgodnie z ust. 3 pkt 2;
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** (uchylony)
+- **5)** odsetek od wolnych środków FKSM przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **6)** innych wpływów.
 
 2. Środki FKSM przeznacza się na pokrywanie:
@@ -6239,14 +6481,11 @@ source: "isap-pdf"
 - **4)** skutków finansowych wypłat z tytułu udzielonych poręczeń spłaty kredytów na studia medyczne, w tym kosztów działań windykacyjnych po wypłacie z tytułu poręczenia;
 - **5)** kosztów realizacji zadań wymienionych w pkt 1–4 ponoszonych przez BGK.
 
-3. BGK może lokować okresowo wolne środki FKSM w:
+3. (uchylony)
 
-- **1)** innych bankach;
-- **2)** formie depozytu, o którym mowa w art. 78b ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
-- **3)** papiery wartościowe emitowane lub gwarantowane przez Skarb Państwa;
-- **4)** papiery wartościowe emitowane przez Narodowy Bank Polski.
+4. (uchylony)
 
-4. Suma lokat, o których mowa w ust. 3 pkt 1, w jednym banku albo grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie, nie może przekroczyć 25 % okresowo wolnych środków FKSM.
+5. Wolne środki FKSM w walutach obcych mogą być lokowane w bankach.
 
 **Art. 422b.**
 
@@ -6332,6 +6571,10 @@ source: "isap-pdf"
 3. Ekspertem nie może być osoba, która jest lub była w okresie 5 lat poprzedzających kontrolę zatrudniona w podmiocie kontrolowanym albo jest lub była wykonawcą zadania, którego dotyczy kontrola. Ekspertem nie może być również osoba, w stosunku do której zachodzą okoliczności faktyczne lub prawne mogące wpłynąć na bezstronność przeprowadzenia kontroli.
 
 **Art. 429.** Rektor zawiadamia ministra i ministra nadzorującego uczelnię oraz PKA o:
+
+- **1)** utworzeniu studiów na podstawie art. 53 ust. 7–9,
+- **2)** rozpoczęciu i zaprzestaniu prowadzenia studiów na określonym kierunku, poziomie i profilu,
+- **3)** zaprzestaniu spełniania warunków do prowadzenia studiów na określonym kierunku, poziomie i profilu – w terminie miesiąca od dnia zaistnienia tych okoliczności.
 
 **Art. 430.**
 
@@ -6503,6 +6746,9 @@ source: "isap-pdf"
 
 **Art. 447.** Studentom będącym:
 
+- **1)** żołnierzami zawodowymi, którzy podjęli studia na podstawie skierowania przez właściwy organ wojskowy i otrzymali pomoc w związku z pobieraniem nauki na podstawie przepisów o służbie wojskowej, 1a) żołnierzami powołanymi do dobrowolnej zasadniczej służby wojskowej, o której mowa w art. 95 ust. 4 pkt 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, lub żołnierzami zawodowymi pełniącymi służbę wojskową w uczelni wojskowej, w której pobierają naukę,
+- **2)** funkcjonariuszami służb państwowych w służbie kandydackiej albo będącym funkcjonariuszami służb państwowych, którzy podjęli studia na podstawie skierowania lub zgody właściwego przełożonego i otrzymali pomoc w związku z pobieraniem nauki na podstawie przepisów o służbie – nie przysługuje urlop od zajęć, świadczenia, o których mowa w art. 86 ust. 1, zakwaterowanie i wyżywienie, o których mowa w art. 104, oraz stypendium ministra, o którym mowa w art. 359 ust. 1.
+
 **Art. 448.** Zatwierdzenie zasad przyznawania stypendium za wyniki w nauce lub w sporcie, o których mowa w art. 97 ust. 2, w odniesieniu do uczelni wojskowej, uczelni służb państwowych, uczelni artystycznej, uczelni medycznej i uczelni morskiej wymaga zasięgnięcia opinii ministra nadzorującego uczelnię.
 
 **Art. 449.** Przepisów art. 106 nie stosuje się do uczelni wojskowej oraz uczelni służb państwowych.
@@ -6541,6 +6787,9 @@ source: "isap-pdf"
 
 **Art. 455.** Świadczenia dla osób będących:
 
+- **1)** żołnierzami zawodowymi wykonującymi zadania w uczelni wojskowej – określają przepisy o służbie wojskowej żołnierzy zawodowych;
+- **2)** funkcjonariuszami służb państwowych wykonującymi zadania w uczelni służb państwowych – określają przepisy właściwe dla tych służb.
+
 **Art. 456.** Do żołnierzy zawodowych zajmujących stanowiska w uczelniach stosuje się, w zakresie przebiegu zawodowej służby wojskowej, również przepisy o służbie wojskowej żołnierzy zawodowych.
 
 **Art. 457.**
@@ -6559,6 +6808,15 @@ source: "isap-pdf"
 - **2)** nagród, o których mowa w art. 362, rodzaje osiągnięć i sposób ich dokumentowania, maksymalną liczbę przyznawanych nagród, maksymalną wysokość nagrody oraz wzór wniosku o jej przyznanie – mając na uwadze potrzebę zapewnienia wysokiego poziomu osiągnięć umożliwiających uzyskanie stypendium lub nagrody, sprawnego przebiegu postępowań w sprawie ich przyznania i sprawnego ich wypłacania oraz adekwatności wysokości stypendium lub nagrody do rangi osiągnięć.
 
 **Art. 459.** Środki finansowe na szkolnictwo wyższe i naukę przeznacza się w formie dotacji podmiotowej również na zadania związane z:
+
+- **1)** obroną narodową;
+- **2)** bezpieczeństwem obywateli i ochroną ludności;
+- **3)** więziennictwem;
+- **4)** działalnością kulturalną w rozumieniu przepisów o organizowaniu i prowadzeniu działalności kulturalnej;
+- **5)** realizacją zadań związanych z prowadzeniem podyplomowego kształcenia w celu zdobywania specjalizacji przez lekarzy, lekarzy dentystów, lekarzy weterynarii, farmaceutów, pielęgniarki i położne oraz przez diagnostów laboratoryjnych;
+- **6)** utrzymaniem statków szkolnych i specjalistycznych ośrodków szkoleniowych kadr morskich;
+- **7)** utrzymaniem powietrznych statków szkolnych i specjalistycznych ośrodków szkoleniowych kadr powietrznych;
+- **8)** umiędzynarodowieniem szkolnictwa wyższego lub nauki.
 
 **Art. 460.**
 
@@ -6612,6 +6870,9 @@ source: "isap-pdf"
 
 **Art. 463.** Do konkursu w ramach programu „Inicjatywa doskonałości – uczelnia badawcza”, o którym mowa w art. 387 ust. 1, może przystąpić także uczelnia medyczna, która:
 
+- **1)** prowadzi działalność naukową w co najmniej 3 dyscyplinach w zakresie nauk medycznych lub nauk o zdrowiu, w których przeprowadzona została ewaluacja jakości działalności naukowej, i posiada kategorię naukową A+ albo A w ponad połowie tych dyscyplin;
+- **2)** spełnia warunki, o których mowa w art. 388 ust. 1 pkt 2–5.
+
 **Art. 464.**
 
 1. Minister właściwy do spraw oświaty i wychowania, po zawiadomieniu ministra oraz po zasięgnięciu opinii senatu, może zlecić uczelni wykonanie określonego zadania w zakresie nauczania lub kształcenia kadr naukowych, zapewniając odpowiednie środki na jego realizację.
@@ -6647,6 +6908,11 @@ source: "isap-pdf"
 **Art. 468.** (uchylony)
 
 **Art. 469.** W przypadku udzielania zamówień, o których mowa w art. 11 ust. 5 pkt 1 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720), jeżeli ich wartość jest równa lub przekracza progi unijne, o których mowa w art. 3 ust. 1 tej ustawy, podmiot, o którym mowa w art. 4, art. 5 ust. 1 i art. 6 tej ustawy, do którego stosuje się przepisy niniejszej ustawy:
+
+- **1)** zamieszcza ogłoszenie o zamówieniu w BIP na jego stronie podmiotowej;
+- **2)** działa w sposób zapewniający przejrzystość, równe traktowanie podmiotów zainteresowanych wykonaniem zamówienia oraz z uwzględnieniem okoliczności mogących mieć wpływ na jego udzielenie;
+- **3)** nie udostępnia informacji związanych z zamówieniem stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zawarciem umowy o wykonanie tego zamówienia, zastrzegł, że nie mogą być one udostępniane;
+- **4)** zamieszcza niezwłocznie w BIP na jego stronie podmiotowej informację o udzieleniu zamówienia, podając nazwę albo imię i nazwisko podmiotu, z którym zawarł umowę o wykonanie zamówienia, albo informację o nieudzieleniu tego zamówienia.
 
 ### DZIAŁ XIVA Przetwarzanie danych osobowych
 

@@ -8,7 +8,7 @@ pos: 567
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie niektórych ustaw w zakresie systemu ochrony zdrowia związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19

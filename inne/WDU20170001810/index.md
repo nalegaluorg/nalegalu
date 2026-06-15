@@ -33,7 +33,8 @@ z 2016 r. poz. 162 i 972 oraz z 2017 r. poz. 1428) zarządza się, co następuje
 3. Wojewoda, w terminie do 5. dnia drugiego miesiąca następującego po upływie każdego kwartału, przekazuje ministrowi właściwemu do spraw rodziny drogą elektroniczną, za pomocą systemów, o których mowa w art. 23 ust. 6 ustawy o świadczeniach rodzinnych, kwartalne zbiorcze sprawozdanie rzeczowo-finansowe zawierające:
 1) dane ze sprawozdań, o których mowa w ust. 1;
 2) dane z realizacji przez tego wojewodę w danym kwartale zadań z zakresu zasiłków dla opiekunów.
-§ 3. Minister właściwy do spraw rodziny, w szczególnie uzasadnionych przypadkach, może wystąpić do organów właściwych o sporządzenie i przekazanie, za pośrednictwem wojewodów, lub do wojewodów o sporządzenie i przekazanie sprawozdań z wykonywania zadań z zakresu zasiłków dla opiekunów, w innych terminach i za inne okresy niż określone w § 2.
+§ 3. Minister właściwy do spraw rodziny, w szczególnie uzasadnionych przypadkach, może wystąpić do organów właściwych o sporządzenie i przekazanie, za pośrednictwem wojewodów, lub do wojewodów o sporządzenie i przekazanie sprawozdań z wykonywania zadań z zakresu zasiłków dla opiekunów, w innych terminach i za inne okresy niż określone
+§ 2.
 § 4. Do sprawozdań rzeczowo-finansowych z realizacji zadań z zakresu zasiłków dla opiekunów przez organ właściwy za III kwartał 2017 r. stosuje się przepisy niniejszego rozporządzenia.
 § 5. Rozporządzenie wchodzi w życie z dniem 1 października 2017 r., z wyjątkiem § 2 ust. 2 i ust. 3 pkt 2 oraz § 3, które wchodzą w życie z dniem 1 stycznia 2018 r.
 Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska

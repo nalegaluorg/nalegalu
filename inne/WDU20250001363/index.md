@@ -8,7 +8,7 @@ pos: 1363
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Agencji Restrukturyzacji i Modernizacji Rolnictwa
@@ -28,6 +28,9 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001363) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1363/text.pdf) |
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zadania i organizację Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”;
+- **2)** zasady umarzania w całości lub w części, rozkładania na raty, odraczania terminu spłat oraz sprzedaży wierzytelności Agencji.
 
 **Art. 2.**
 
@@ -445,6 +448,10 @@ source: "isap-pdf"
 
 **Art. 16.** Z przeprowadzonego naboru sporządza się protokół, który zawiera w szczególności:
 
+- **1)** wskazanie stanowiska pracy, na które był prowadzony nabór, liczbę kandydatów oraz imiona, nazwiska i adresy nie więcej niż 5 najlepszych kandydatów;
+- **2)** informację o zastosowanych metodach i technikach naboru;
+- **3)** uzasadnienie dokonanego wyboru.
+
 **Art. 17.**
 
 1. Informację o wyniku naboru zamieszcza się w Biuletynie Informacji Publicznej i umieszcza się w jednostce organizacyjnej Agencji, w której był prowadzony nabór, w miejscu powszechnie dostępnym, w terminie 14 dni od dnia zatrudnienia wybranego kandydata albo zakończenia naboru, jeżeli w jego wyniku nie doszło do zatrudnienia żadnego z kandydatów.
@@ -560,6 +567,10 @@ source: "isap-pdf"
 2. Rada nadzorcza spółki uchyla uchwały zarządu spółki niezgodne z przepisami prawa, postanowieniami aktu założycielskiego lub poleceniami, o których mowa w ust. 1.
 
 **Art. 21e.** Przychodami spółki są:
+
+- **1)** przychody z tytułu realizacji zadań spółki;
+- **2)** dotacje celowe z budżetu państwa, w tym dotacje celowe na finansowanie lub dofinansowanie inwestycji i zakupów inwestycyjnych;
+- **3)** dotacje podmiotowe na dofinansowanie działalności bieżącej spółki.
 
 **Art. 21f.**
 

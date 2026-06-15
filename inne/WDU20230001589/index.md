@@ -8,7 +8,7 @@ pos: 1589
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o gatunkach obcych
@@ -33,7 +33,36 @@ Art. 37–48. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zadania i kompetencje organów administracji publicznej oraz innych podmiotów związane z wykonywaniem przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1143/2014”;
+- **2)** ograniczenia inne niż wynikające z rozporządzenia nr 1143/2014, dotyczące wprowadzania do środowiska oraz przemieszczania w środowisku gatunków obcych;
+- **3)** zasady odpowiedzialności za naruszenie przepisów ustawy oraz rozporządzenia nr 1143/2014.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** badania naukowe – badania naukowe w rozumieniu art. 3 pkt 8 rozporządzenia nr 1143/2014;
+- **2)** drogi przenoszenia – drogi przenoszenia w rozumieniu art. 3 pkt 11 rozporządzenia nr 1143/2014;
+- **3)** działania zaradcze – działania zaradcze w rozumieniu art. 3 pkt 17 rozporządzenia nr 1143/2014;
+- **4)** eliminacja – eliminację w rozumieniu art. 3 pkt 13 rozporządzenia nr 1143/2014;
+- **5)** gatunek obcy – gatunek obcy w rozumieniu art. 3 pkt 1 rozporządzenia nr 1143/2014;
+- **6)** inwazyjny gatunek obcy – inwazyjny gatunek obcy w rozumieniu art. 3 pkt 2 rozporządzenia nr 1143/2014;
+- **7)** inwazyjny gatunek obcy stwarzający zagrożenie dla Polski – inwazyjny gatunek obcy stwarzający zagrożenie dla państwa członkowskiego w rozumieniu art. 3 pkt 4 rozporządzenia nr 1143/2014, umieszczony na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski;
+- **8)** inwazyjny gatunek obcy stwarzający zagrożenie dla Unii – inwazyjny gatunek obcy stwarzający zagrożenie dla Unii w rozumieniu art. 3 pkt 3 rozporządzenia nr 1143/2014;
+- **9)** izolacja – izolację w rozumieniu art. 3 pkt 15 rozporządzenia nr 1143/2014;
+- **10)** kontrola populacji – kontrolę populacji w rozumieniu art. 3 pkt 14 rozporządzenia nr 1143/2014;
+- **11)** lista inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski – listę inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski określoną w przepisach wydanych na podstawie art. 23 ust. 1;
+- **12)** obiekt izolowany – obiekt izolowany w rozumieniu art. 3 pkt 9 rozporządzenia nr 1143/2014;
+- **13)** obszar morski – obszar morski Rzeczypospolitej Polskiej, o którym mowa w art. 2 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2023 r. poz. 960);
+- **14)** ochrona ex situ – ochronę ex situ w rozumieniu art. 3 pkt 10 rozporządzenia nr 1143/2014;
+- **15)** okaz inwazyjnego gatunku obcego – pojedynczego żywego osobnika inwazyjnego gatunku obcego lub jego część, gametę, nasiono, jajo lub diasporę, zdolne do przeżycia i rozmnażania;
+- **16)** pas techniczny – pas techniczny w rozumieniu art. 36 ust. 2 pkt 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
+- **17)** podmiot władający – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, władające nieruchomością, na której stwierdzono obecność inwazyjnego gatunku obcego stwarzającego zagrożenie dla Unii lub inwazyjnego gatunku obcego stwarzającego zagrożenie dla Polski;
+- **18)** przemieszczanie w środowisku – zmianę, na skutek interwencji człowieka, miejsca występowania w środowisku gatunku, który już wcześniej został wprowadzony do środowiska;
+- **19)** inwazyjny gatunek obcy rozprzestrzeniony na szeroką skalę – inwazyjny gatunek obcy rozprzestrzeniony na szeroką skalę w rozumieniu art. 3 pkt 16 rozporządzenia nr 1143/2014;
+- **20)** różnorodność biologiczna – różnorodność biologiczną w rozumieniu art. 3 pkt 5 rozporządzenia nr 1143/2014;
+- **21)** terytorium państwa trzeciego – terytorium państwa nienależącego do Unii Europejskiej;
+- **22)** usługi ekosystemowe – usługi ekosystemowe w rozumieniu art. 3 pkt 6 rozporządzenia nr 1143/2014;
+- **23)** wprowadzenie do środowiska – wprowadzenie w rozumieniu art. 3 pkt 7 rozporządzenia nr 1143/2014;
+- **24)** zapas inwazyjnego gatunku obcego – inwazyjny gatunek obcy przetrzymywany w celach komercyjnych.
 
 **Art. 3.**
 
@@ -704,7 +733,16 @@ Art. 37–48. (pominięte)
 
 **Art. 26.** Kontrole urzędowe w rozumieniu art. 47 rozporządzenia nr 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2017/625”, są przeprowadzane przez:
 
+- **1)** granicznych lekarzy weterynarii w punktach kontroli granicznej – w odniesieniu do:
+    - **a)** zwierząt należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski i niejadalnych produktów pochodzenia zwierzęcego pochodzących od zwierząt należących do IGO stwarzających zagrożenie dla Unii oraz IGO stwarzających zagrożenie dla Polski,
+    - **b)** materiału biologicznego pochodzącego od zwierzęcia należącego do IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski – podlegających weterynaryjnej kontroli granicznej;
+
+- **2)** wojewódzkich inspektorów ochrony roślin i nasiennictwa – w odniesieniu do roślin należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski, podlegających kontroli, o której mowa w art. 47 ust. 1 lit. c rozporządzenia 2017/625.
+
 **Art. 27.** Organy celne przeprowadzają kontrole przemieszczania o charakterze niehandlowym z terytorium państwa trzeciego:
+
+- **1)** zwierząt domowych towarzyszących podróżnym, o których mowa w art. 24b ustawy z dnia 11 marca 2004 r. o wymaganiach weterynaryjnych przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym i zwierząt cyrkowych oraz o stosowaniu substancji o działaniu hormonalnym, tyreostatycznym i beta-agonistycznym (Dz. U. z 2023 r. poz. 1075 oraz z 2025 r. poz. 1795), należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski;
+- **2)** roślin należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski, jeżeli nie podlegają kontroli, o której mowa w art. 47 ust. 1 lit. c rozporządzenia nr 2017/625.
 
 **Art. 28.**
 
@@ -950,4 +988,8 @@ Art. 37–48. (pominięte)
 2. Do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 23 ust. 1 gatunki wymienione w przepisach wykonawczych wydanych na podstawie art. 120 ust. 2f ustawy zmienianej w art. 44, które nie są wymienione w wykazie IGO stwarzających zagrożenie dla Unii, uznaje się za IGO stwarzające zagrożenie dla Polski.
 
 **Art. 60.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 43, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 40 pkt 6, który wchodzi w życie z dniem 1 kwietnia 2022 r.
+
 

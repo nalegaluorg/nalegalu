@@ -8,12 +8,10 @@ pos: 1170
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo własności przemysłowej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 maja 2023 r.*
+# w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo własności przemysłowej
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1170/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324), z uwzględnieniem zmian wprowadzonych:
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185),
 2) ustawą z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 maja 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
@@ -65,19 +63,19 @@ Art. 311–314. (pominięte)
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** osobie rozumie się przez to osobę fizyczną, prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną;
-- **2)** osobie zagranicznej rozumie się przez to osobę niemającą obywatelstwa polskiego i odpowiednio miejsca zamieszkania albo siedziby bądź poważnego przedsiębiorstwa na obszarze Rzeczypospolitej Polskiej;
-- **3)** przedsiębiorcy rozumie się przez to osobę prowadzącą w celach zarobkowych działalność wytwórczą, budowlaną, handlową lub usługową, zwaną dalej „działalnością gospodarczą”;
-- **4)** umowie międzynarodowej rozumie się przez to umowę międzynarodową, której stroną jest Rzeczpospolita Polska;
-- **5)** Konwencji paryskiej rozumie się przez to Akt sztokholmski zmieniający Konwencję paryską o ochronie własności przemysłowej z dnia 20 marca 1883 r. (Dz. U. z 1975 r. poz. 51);
-- **6)** projektach wynalazczych rozumie się przez to wynalazki, wzory użytkowe, wzory przemysłowe, topografie układów scalonych i projekty racjonalizatorskie;
-- **7)** Biurze Międzynarodowym rozumie się przez to Międzynarodowe Biuro Własności Intelektualnej utworzone na podstawie Konwencji o ustanowieniu Światowej Organizacji Własności Intelektualnej, sporządzonej w Sztokholmie dnia 14 lipca 1967 r. (Dz. U. z 1975 r. poz. 49);
-- **8)** międzynarodowym znaku towarowym rozumie się przez to znak towarowy zarejestrowany w trybie określonym w Porozumieniu lub Protokole;
-- **9)** Porozumieniu rozumie się przez to Porozumienie madryckie o międzynarodowej rejestracji znaków z dnia 14 kwietnia 1891 r. (Dz. U. z 1993 r. poz. 514 i 515);
-- **10)** Protokole rozumie się przez to Protokół do Porozumienia madryckiego o międzynarodowej rejestracji znaków, sporządzony w Madrycie dnia 27 czerwca 1989 r. (Dz. U. z 2003 r. poz. 129 i 130);
-- **11)** Konwencji o patencie europejskim rozumie się przez to Konwencję o udzielaniu patentów europejskich, sporządzoną w Monachium dnia 5 października 1973 r., zmienioną aktem zmieniającym artykuł 63 Konwencji z dnia 17 grudnia 1991 r. oraz decyzjami Rady Administracyjnej Europejskiej Organizacji Patentowej z dnia 21 grudnia 1978 r., 13 grudnia 1994 r., 20 października 1995 r., 5 grudnia 1996 r. oraz 10 grudnia 1998 r., wraz z Protokołami stanowiącymi jej integralną część (Dz. U. z 2004 r. poz. 737 i 738);
-- **12)** Akcie genewskim rozumie się przez to Akt genewski Porozumienia haskiego w sprawie międzynarodowej rejestracji wzorów przemysłowych, przyjęty w Genewie dnia 2 lipca 1999 r. (Dz. U. z 2009 r. poz. 1522);
-- **13)** międzynarodowym wzorze przemysłowym rozumie się przez to wzór przemysłowy zarejestrowany w trybie określonym w Akcie genewskim.
+- **1)** osobie – rozumie się przez to osobę fizyczną, prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną;
+- **2)** osobie zagranicznej – rozumie się przez to osobę niemającą obywatelstwa polskiego i odpowiednio miejsca zamieszkania albo siedziby bądź poważnego przedsiębiorstwa na obszarze Rzeczypospolitej Polskiej;
+- **3)** przedsiębiorcy – rozumie się przez to osobę prowadzącą w celach zarobkowych działalność wytwórczą, budowlaną, handlową lub usługową, zwaną dalej „działalnością gospodarczą”;
+- **4)** umowie międzynarodowej – rozumie się przez to umowę międzynarodową, której stroną jest Rzeczpospolita Polska;
+- **5)** Konwencji paryskiej – rozumie się przez to Akt sztokholmski zmieniający Konwencję paryską o ochronie własności przemysłowej z dnia 20 marca 1883 r. (Dz. U. z 1975 r. poz. 51);
+- **6)** projektach wynalazczych – rozumie się przez to wynalazki, wzory użytkowe, wzory przemysłowe, topografie układów scalonych i projekty racjonalizatorskie;
+- **7)** Biurze Międzynarodowym – rozumie się przez to Międzynarodowe Biuro Własności Intelektualnej utworzone na podstawie Konwencji o ustanowieniu Światowej Organizacji Własności Intelektualnej, sporządzonej w Sztokholmie dnia 14 lipca 1967 r. (Dz. U. z 1975 r. poz. 49);
+- **8)** międzynarodowym znaku towarowym – rozumie się przez to znak towarowy zarejestrowany w trybie określonym w Porozumieniu lub Protokole;
+- **9)** Porozumieniu – rozumie się przez to Porozumienie madryckie o międzynarodowej rejestracji znaków z dnia 14 kwietnia 1891 r. (Dz. U. z 1993 r. poz. 514 i 515);
+- **10)** Protokole – rozumie się przez to Protokół do Porozumienia madryckiego o międzynarodowej rejestracji znaków, sporządzony w Madrycie dnia 27 czerwca 1989 r. (Dz. U. z 2003 r. poz. 129 i 130);
+- **11)** Konwencji o patencie europejskim – rozumie się przez to Konwencję o udzielaniu patentów europejskich, sporządzoną w Monachium dnia 5 października 1973 r., zmienioną aktem zmieniającym artykuł 63 Konwencji z dnia 17 grudnia 1991 r. oraz decyzjami Rady Administracyjnej Europejskiej Organizacji Patentowej z dnia 21 grudnia 1978 r., 13 grudnia 1994 r., 20 października 1995 r., 5 grudnia 1996 r. oraz 10 grudnia 1998 r., wraz z Protokołami stanowiącymi jej integralną część (Dz. U. z 2004 r. poz. 737 i 738);
+- **12)** Akcie genewskim – rozumie się przez to Akt genewski Porozumienia haskiego w sprawie międzynarodowej rejestracji wzorów przemysłowych, przyjęty w Genewie dnia 2 lipca 1999 r. (Dz. U. z 2009 r. poz. 1522);
+- **13)** międzynarodowym wzorze przemysłowym – rozumie się przez to wzór przemysłowy zarejestrowany w trybie określonym w Akcie genewskim.
 
 2. Przepisy ustawy dotyczące przedsiębiorców stosuje się odpowiednio również do osób prowadzących działalność inną niż działalność gospodarcza.
 
@@ -91,7 +89,7 @@ Art. 311–314. (pominięte)
 
 1. Osoby zagraniczne korzystają z uprawnień wynikających z ustawy na podstawie umów międzynarodowych.
 
-2. Osoby zagraniczne mogą, jeżeli nie narusza to postanowień umów międzynarodowych, korzystać z uprawnień wynikających z ustawy na zasadzie wzajemności. Przesłanki wzajemności, dla celów postępowania przed Urzędem Patentowym, stwierdza po zasięgnięciu opinii właściwego ministra Prezes Urzędu Patentowego.
+2. Osoby zagraniczne mogą, jeżeli nie narusza to postanowień umów międzynarodowych, korzystać z uprawnień wynikających z ustawy na zasadzie wzajemności. Przesłanki wzajemności, dla celów postępowania przed Urzędem Patentowym, stwierdza – po zasięgnięciu opinii właściwego ministra – Prezes Urzędu Patentowego.
 
 **Art. 6.**
 
@@ -171,6 +169,9 @@ Art. 311–314. (pominięte)
 
 **Art. 14.** Pierwszeństwo do uzyskania patentu, prawa ochronnego albo prawa z rejestracji przysługuje w Rzeczypospolitej Polskiej, na zasadach określonych w umowach międzynarodowych, według daty pierwszego prawidłowego zgłoszenia wynalazku, wzoru użytkowego albo wzoru przemysłowego we wskazanym państwie, jeżeli od tej daty zgłoszenie w Urzędzie Patentowym dokonane zostanie w okresie:
 
+- **1)** 12 miesięcy – w przypadku zgłoszeń wynalazków i wzorów użytkowych;
+- **2)** 6 miesięcy – w przypadku zgłoszeń wzorów przemysłowych.
+
 **Art. 15.** (uchylony)
 
 **Art. 15¹.**
@@ -211,7 +212,7 @@ Art. 311–314. (pominięte)
 
 3. Jeżeli umowa nie stanowi inaczej, wynagrodzenie wypłaca się w całości lub w częściach.
 
-4. Całość wynagrodzenia wypłaca się najpóźniej w terminie dwóch miesięcy od dnia uzyskania pierwszych korzyści z wynalazku, wzoru użytkowego albo wzoru przemysłowego. W przypadku wypłaty wynagrodzenia w częściach jego pierwszą część wypłaca się w terminie, o którym mowa w zdaniu poprzednim, a pozostałe części najpóźniej w terminie dwóch miesięcy po upływie każdego roku, jednak w terminie nie dłuższym niż 5 lat, licząc od dnia uzyskania pierwszych korzyści.
+4. Całość wynagrodzenia wypłaca się najpóźniej w terminie dwóch miesięcy od dnia uzyskania pierwszych korzyści z wynalazku, wzoru użytkowego albo wzoru przemysłowego. W przypadku wypłaty wynagrodzenia w częściach jego pierwszą część wypłaca się w terminie, o którym mowa w zdaniu poprzednim, a pozostałe części – najpóźniej w terminie dwóch miesięcy po upływie każdego roku, jednak w terminie nie dłuższym niż 5 lat, licząc od dnia uzyskania pierwszych korzyści.
 
 **Art. 23.** Wynagrodzenie twórcy wynalazku, wzoru użytkowego albo wzoru przemysłowego, określone i wypłacone na podstawie przepisów art. 22 ust. 2 i 3, powinno być podwyższone, jeżeli korzyści osiągnięte przez przedsiębiorcę okażą się znacząco wyższe od korzyści przyjętych za podstawę do ustalenia wypłaconego wynagrodzenia.
 
@@ -219,7 +220,7 @@ Art. 311–314. (pominięte)
 
 #### Rozdział 1 Wynalazek
 
-**Art. 24.** Patenty są udzielane bez względu na dziedzinę techniki na wynalazki, które są nowe, posiadają poziom wynalazczy i nadają się do przemysłowego stosowania.
+**Art. 24.** Patenty są udzielane – bez względu na dziedzinę techniki – na wynalazki, które są nowe, posiadają poziom wynalazczy i nadają się do przemysłowego stosowania.
 
 **Art. 25.**
 
@@ -250,7 +251,7 @@ Art. 311–314. (pominięte)
 - **3)** schematów, zasad i metod przeprowadzania procesów myślowych, rozgrywania gier lub prowadzenia działalności gospodarczej;
 - **4)** (uchylony) 4 ) wytworów lub sposobów, których:
     - **a)** możliwość wykorzystania nie może być wykazana lub
-    - **b)** wykorzystanie nie przyniesie rezultatu spodziewanego przez zgłaszającego w świetle powszechnie przyjętych i uznanych zasad nauki;
+    - **b)** wykorzystanie nie przyniesie rezultatu spodziewanego przez zgłaszającego – w świetle powszechnie przyjętych i uznanych zasad nauki;
 
 - **5)** programów komputerowych;
 - **6)** przedstawienia informacji.
@@ -356,6 +357,9 @@ Art. 311–314. (pominięte)
 
 **Art. 40.** Osoba mająca siedzibę lub miejsce zamieszkania w Rzeczypospolitej Polskiej może dokonać zgłoszenia wynalazku, w celu uzyskania ochrony za granicą, za pośrednictwem Urzędu Patentowego, w trybie przewidzianym:
 
+- **1)** umową międzynarodową lub przepisami prawa Unii Europejskiej, o których mowa w art. 4, albo
+- **2)** niniejszą ustawą – po dokonaniu zgłoszenia tego wynalazku w Urzędzie Patentowym.
+
 #### Rozdział 3 Rozpatrywanie zgłoszenia wynalazku
 
 **Art. 41.**
@@ -425,13 +429,20 @@ Art. 311–314. (pominięte)
 
 **Art. 48.** Urząd Patentowy wydaje postanowienie o odmowie przyznania uprzedniego pierwszeństwa w całości lub w części, jeżeli stwierdzi, że:
 
+- **1)** zgłaszający nie jest uprawniony do korzystania z uprzedniego pierwszeństwa;
+- **2)** zgłoszenie dokonane za granicą, na którym zgłaszający opiera swoje zastrzeżenie uprzedniego pierwszeństwa, nie jest pierwszym zgłoszeniem w rozumieniu przepisu art. 14;
+- **3)** wystawa, na której wystawienie jest podstawą zastrzeżenia uprzedniego pierwszeństwa przez zgłaszającego, nie spełnia wymagań określonych w art. 15 ;
+- **4)** wynalazek zgłoszony w Urzędzie Patentowym lub odpowiednia część tego wynalazku różni się od wynalazku, do którego zgłaszającemu przysługuje uprzednie pierwszeństwo;
+- **5)** zgłaszający uchybił przewidzianym w art. 14 i art. 15 terminom dla dokonania zgłoszenia albo terminowi dla złożenia dowodu pierwszeństwa lub innego dokumentu bądź oświadczenia wymaganego do uzyskania pierwszeństwa lub
+- **6)** zgłaszający złożył, z naruszeniem przepisu art. 35, oświadczenie o korzystaniu z uprzedniego pierwszeństwa.
+
 **Art. 49.**
 
 1. Jeżeli Urząd Patentowy stwierdzi, że:
 
 - **1)** nie zostały spełnione warunki wymagane do uzyskania patentu lub
 - **2)** wynalazek nie został przedstawiony na tyle jasno i wyczerpująco, aby znawca mógł ten wynalazek urzeczywistnić, lub
-- **3)** zastrzeżenia patentowe nie określają przedmiotu żądanej ochrony w sposób jasny i zwięzły lub nie są w całości poparte opisem wynalazku wydaje decyzję o odmowie udzielenia patentu.
+- **3)** zastrzeżenia patentowe nie określają przedmiotu żądanej ochrony w sposób jasny i zwięzły lub nie są w całości poparte opisem wynalazku – wydaje decyzję o odmowie udzielenia patentu.
 
 2. Przed wydaniem decyzji, o której mowa w ust. 1, Urząd Patentowy wyznacza zgłaszającemu termin do zajęcia stanowiska co do zebranych dowodów i materiałów mogących świadczyć o istnieniu przeszkód do uzyskania patentu. Dowody i materiały udostępnia się zgłaszającemu w języku ich sporządzenia i mogą one wykraczać poza wykaz objęty sprawozdaniem o stanie techniki.
 
@@ -508,7 +519,7 @@ Art. 311–314. (pominięte)
 
 **Art. 62.**
 
-1. Urząd Patentowy przesyła Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz Szefowi Agencji Bezpieczeństwa Wewnętrznego, w zakresie dokonanych uzgodnień, wykazy zgłoszonych wynalazków mogących dotyczyć obronności albo bezpieczeństwa Państwa, a także na żądanie tych organów opisy i rysunki wynalazków. Przepis art. 45 ust. 3 zdanie drugie stosuje się odpowiednio.
+1. Urząd Patentowy przesyła Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz Szefowi Agencji Bezpieczeństwa Wewnętrznego, w zakresie dokonanych uzgodnień, wykazy zgłoszonych wynalazków mogących dotyczyć obronności albo bezpieczeństwa Państwa, a także – na żądanie tych organów – opisy i rysunki wynalazków. Przepis art. 45 ust. 3 zdanie drugie stosuje się odpowiednio.
 
 2. Akta dotyczące zgłoszenia wynalazku tajnego mogą być udostępnione do wglądu tylko osobom upoważnionym przez Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych lub Szefa Agencji Bezpieczeństwa Wewnętrznego.
 
@@ -813,6 +824,10 @@ Art. 311–314. (pominięte)
 
 **Art. 93¹.** Ilekroć w rozdziale jest mowa o:
 
+- **1)** wynalazku biotechnologicznym – rozumie się przez to wynalazek w rozumieniu art. 24, dotyczący wytworu składającego się z materiału biologicznego lub zawierającego taki materiał albo sposobu, za pomocą którego materiał biologiczny jest wytwarzany, przetwarzany lub wykorzystywany;
+- **2)** materiale biologicznym – rozumie się przez to materiał zawierający informację genetyczną i zdolny do samoreprodukcji albo nadający się do reprodukcji w systemie biologicznym;
+- **3)** sposobie mikrobiologicznym – rozumie się przez to sposób, w którym bierze udział lub który został dokonany na materiale mikrobiologicznym albo wynikiem którego jest ten materiał.
+
 **Art. 93².**
 
 1. Za wynalazki biotechnologiczne, na które mogą być udzielane patenty, uważa się w szczególności wynalazki:
@@ -871,7 +886,7 @@ Art. 311–314. (pominięte)
 7. Warunkiem udostępnienia próbki materiału biologicznego ubiegającej się o to osobie jest zobowiązanie się jej na piśmie wobec zgłaszającego lub uprawnionego z patentu, że w trakcie pozostawania patentu w mocy:
 
 - **1)** nie udostępni osobom trzecim próbki ani żadnej substancji z niej pochodzącej,
-- **2)** będzie wykorzystywała próbkę lub substancję z niej pochodzącą jedynie do celów doświadczalnych chyba że zgłaszający lub uprawniony z patentu wyraźnie odstąpi od tego zobowiązania.
+- **2)** będzie wykorzystywała próbkę lub substancję z niej pochodzącą jedynie do celów doświadczalnych – chyba że zgłaszający lub uprawniony z patentu wyraźnie odstąpi od tego zobowiązania.
 
 8. Jeżeli Urząd Patentowy wyda decyzję o odmowie udzielenia patentu albo umorzeniu postępowania, na wniosek zgłaszającego złożony w terminie określonym w ust. 5, przez okres 20 lat od daty dokonania zgłoszenia, dostęp do depozytu materiału biologicznego będzie ograniczony do osób, o których mowa w ust. 5. Przepis ust. 7 stosuje się odpowiednio.
 
@@ -956,7 +971,7 @@ Art. 311–314. (pominięte)
 3. Przepis ust. 1 nie wyłącza możliwości udzielenia prawa z rejestracji, jeżeli wzór przemysłowy:
 
 - **1)** został ujawniony osobie trzeciej, która w sposób wyraźny lub dorozumiany była zobowiązana do zachowania poufności;
-- **2)** został ujawniony w ciągu 12 miesięcy przed datą, według której oznacza się pierwszeństwo do uzyskania prawa z rejestracji, jeżeli ujawnienie nastąpiło przez twórcę, jego następcę prawnego lub za zgodą uprawnionego przez osobę trzecią, a także jeżeli ujawnienie nastąpiło w wyniku nadużycia popełnionego wobec twórcy lub jego następcy prawnego.
+- **2)** został ujawniony w ciągu 12 miesięcy przed datą, według której oznacza się pierwszeństwo do uzyskania prawa z rejestracji, jeżeli ujawnienie nastąpiło przez twórcę, jego następcę prawnego lub – za zgodą uprawnionego – przez osobę trzecią, a także jeżeli ujawnienie nastąpiło w wyniku nadużycia popełnionego wobec twórcy lub jego następcy prawnego.
 
 **Art. 104.**
 
@@ -1059,6 +1074,14 @@ Art. 311–314. (pominięte)
 
 **Art. 115.** Uprawniony z rejestracji wzoru przemysłowego nie może zakazać osobie trzeciej korzystania z wzoru:
 
+- **1)** do użytku osobistego lub niezwiązanego z działalnością gospodarczą;
+- **2)** w celu doświadczalnym;
+- **3)** polegającego na jego odtworzeniu do celów cytowania lub nauczania, jeżeli nie narusza dobrych obyczajów i nie utrudnia uprawnionemu w sposób nieuzasadniony korzystania z wzoru oraz wskazuje na źródło jego pochodzenia;
+- **4)** stosowanego lub zawartego w urządzeniach znajdujących się na środkach transportu lądowego i zarejestrowanych w innych państwach statkach morskich lub powietrznych, które czasowo znajdują się na obszarze Rzeczypospolitej Polskiej;
+- **5)** przez import części zamiennych i akcesoriów, w których wzór jest stosowany lub zawarty w celu napraw statków, o których mowa w pkt 4;
+- **6)** wykonywania napraw statków, o których mowa w pkt 4;
+- **7)** przez wykonanie na indywidualne zamówienie naprawy związanej z odtworzeniem części składowej wytworu złożonego, w celu przywrócenia mu pierwotnego wyglądu.
+
 **Art. 116.** (uchylony)
 
 **Art. 117.**
@@ -1075,6 +1098,11 @@ Art. 311–314. (pominięte)
 
 **Art. 117².** Urząd Patentowy przekazuje do Biura Międzynarodowego powiadomienie o:
 
+- **1)** wydaniu decyzji o odmowie uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego wzoru przemysłowego lub wzorów przemysłowych,
+- **2)** wydaniu decyzji w wyniku ponownego rozpatrzenia sprawy zakończonej decyzją, o której mowa w pkt 1,
+- **3)** wydaniu prawomocnego wyroku sądu administracyjnego o uchyleniu decyzji, o której mowa w pkt 1,
+- **4)** unieważnieniu uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego wzoru przemysłowego – w trybie, formie i języku przewidzianych w Akcie genewskim.
+
 **Art. 117³.**
 
 1. Każdy może wnieść umotywowany sprzeciw wobec uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego wzoru przemysłowego. Przepisy art. 246 ust. 1 i art. 247 stosuje się odpowiednio.
@@ -1085,7 +1113,7 @@ Art. 311–314. (pominięte)
 
 **Art. 117⁴.** Do unieważnienia uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego wzoru przemysłowego przepis art. 89 stosuje się odpowiednio.
 
-**Art. 117⁵.** Do roszczeń z tytułu naruszenia prawa z rejestracji międzynarodowego wzoru przemysłowego korzystającego z ochrony na terytorium Rzeczypospolitej Polskiej przepisy art. 287–291 stosuje się odpowiednio, z tym że roszczeń tych można dochodzić za okres rozpoczynający się po dniu ogłoszenia w „Wiadomościach Urzędu Patentowego” o uznaniu jego ochrony, a w przypadku wcześniejszego powiadomienia przez uprawnionego osoby naruszającej takie prawo za okres rozpoczynający się po dniu tego powiadomienia.
+**Art. 117⁵.** Do roszczeń z tytułu naruszenia prawa z rejestracji międzynarodowego wzoru przemysłowego korzystającego z ochrony na terytorium Rzeczypospolitej Polskiej przepisy art. 287–291 stosuje się odpowiednio, z tym że roszczeń tych można dochodzić za okres rozpoczynający się po dniu ogłoszenia w „Wiadomościach Urzędu Patentowego” o uznaniu jego ochrony, a w przypadku wcześniejszego powiadomienia przez uprawnionego osoby naruszającej takie prawo – za okres rozpoczynający się po dniu tego powiadomienia.
 
 **Art. 118.**
 
@@ -1109,10 +1137,10 @@ Art. 311–314. (pominięte)
 
 3. Ilekroć w ustawie jest mowa o:
 
-- **1)** znakach towarowych rozumie się przez to także znaki usługowe;
-- **2)** towarach rozumie się przez to w szczególności wyroby przemysłowe, rzemieślnicze, płody rolne oraz produkty naturalne, zwłaszcza wody, minerały, surowce, a także, z zastrzeżeniem art. 174 ust. 3, usługi;
-- **3)** znakach towarowych podrobionych rozumie się przez to użyte bezprawnie znaki identyczne lub takie, które nie mogą być odróżnione w zwykłych warunkach obrotu od znaków zarejestrowanych, dla towarów objętych prawem ochronnym;
-- **4)** znakach wcześniejszych rozumie się przez to znaki zgłoszone lub zarejestrowane z wcześniejszym pierwszeństwem.
+- **1)** znakach towarowych – rozumie się przez to także znaki usługowe;
+- **2)** towarach – rozumie się przez to w szczególności wyroby przemysłowe, rzemieślnicze, płody rolne oraz produkty naturalne, zwłaszcza wody, minerały, surowce, a także, z zastrzeżeniem art. 174 ust. 3, usługi;
+- **3)** znakach towarowych podrobionych – rozumie się przez to użyte bezprawnie znaki identyczne lub takie, które nie mogą być odróżnione w zwykłych warunkach obrotu od znaków zarejestrowanych, dla towarów objętych prawem ochronnym;
+- **4)** znakach wcześniejszych – rozumie się przez to znaki zgłoszone lub zarejestrowane z wcześniejszym pierwszeństwem.
 
 **Art. 121.** Na znak towarowy może być udzielone prawo ochronne.
 
@@ -1205,13 +1233,13 @@ Art. 311–314. (pominięte)
 
 1. Organizacja mająca zdolność do nabywania praw i zaciągania zobowiązań w swoim imieniu powołana do reprezentowania interesów przedsiębiorców i osoba prawna działająca na podstawie przepisów prawa publicznego mogą uzyskać prawo ochronne na wspólny znak towarowy. Wspólny znak towarowy przeznaczony jest do odróżniania towarów w przypadku:
 
-- **1)** organizacji jej członków,
-- **2)** osoby prawnej działającej na podstawie przepisów prawa publicznego osób upoważnionych do używania tego znaku na podstawie regulaminu używania znaku od towarów innych przedsiębiorstw.
+- **1)** organizacji – jej członków,
+- **2)** osoby prawnej działającej na podstawie przepisów prawa publicznego – osób upoważnionych do używania tego znaku na podstawie regulaminu używania znaku – od towarów innych przedsiębiorstw.
 
 1. Prawo używania wspólnego znaku towarowego przysługuje w przypadku:
 
-- **1)** organizacji tej organizacji lub jej członkom;
-- **2)** osoby prawnej działającej na podstawie przepisów prawa publicznego tej osobie lub osobom upoważnionym do używania tego znaku na podstawie regulaminu używania znaku.
+- **1)** organizacji – tej organizacji lub jej członkom;
+- **2)** osoby prawnej działającej na podstawie przepisów prawa publicznego – tej osobie lub osobom upoważnionym do używania tego znaku na podstawie regulaminu używania znaku.
 
 2. (uchylony)
 
@@ -1262,8 +1290,8 @@ Art. 311–314. (pominięte)
 4. Regulamin, o którym mowa w ust. 3, w sposób jasny i precyzyjny określa w szczególności:
 
 - **1)** zasady używania znaku, w tym skutki naruszenia postanowień regulaminu;
-- **2)** osoby upoważnione do używania znaku albo warunki członkostwa w organizacji, o której mowa w art. 136 ust. 1 w przypadku wspólnego znaku towarowego;
-- **3)** osoby, o których mowa w art. 122 ust. 1 w przypadku wspólnego prawa ochronnego na znak towarowy.
+- **2)** osoby upoważnione do używania znaku albo warunki członkostwa w organizacji, o której mowa w art. 136 ust. 1 – w przypadku wspólnego znaku towarowego;
+- **3)** osoby, o których mowa w art. 122 ust. 1 – w przypadku wspólnego prawa ochronnego na znak towarowy.
 
 5. W rejestrze znaków towarowych dokonuje się wzmianki o dołączeniu regulaminu, o którym mowa w ust. 3, a także o wszystkich zmianach w tym regulaminie.
 
@@ -1418,7 +1446,7 @@ Art. 311–314. (pominięte)
 
 1. Urząd Patentowy przekazuje do Biura Międzynarodowego, w trybie, formie i języku przewidzianych w Porozumieniu lub Protokole, notę o prawomocnej decyzji o unieważnieniu uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego lub stwierdzeniu wygaśnięcia tej ochrony.
 
-2. W uzasadnionych przypadkach, pod rygorem obciążenia kosztami tłumaczenia, Urząd Patentowy może wezwać uprawnionego z rejestracji międzynarodowego znaku towarowego, aby złożył tłumaczenie przysięgłe wykazu towarów międzynarodowego znaku towarowego objętego notą, o której mowa w ust. 1. Przepis ten stosuje się do odpisów wyroków przesyłanych Urzędowi Patentowemu na podstawie art. 479 § 1 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ).
+2. W uzasadnionych przypadkach, pod rygorem obciążenia kosztami tłumaczenia, Urząd Patentowy może wezwać uprawnionego z rejestracji międzynarodowego znaku towarowego, aby złożył tłumaczenie przysięgłe wykazu towarów międzynarodowego znaku towarowego objętego notą, o której mowa w ust. 1. Przepis ten stosuje się do odpisów wyroków przesyłanych Urzędowi Patentowemu na podstawie art. 479 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ).
 
 **Art. 152¹⁵.**
 
@@ -1452,7 +1480,7 @@ Art. 311–314. (pominięte)
 
 - **1)** został wniesiony po upływie terminu lub
 - **2)** nie wskazuje zgłoszenia znaku towarowego, wobec którego jest wnoszony, lub
-- **3)** nie wskazuje wcześniejszego prawa, o którym mowa w art. 132 ust. 1–3 chyba, że braki te zostały uzupełnione w terminie, o którym mowa w ust. 1.
+- **3)** nie wskazuje wcześniejszego prawa, o którym mowa w art. 132 ust. 1–3 – chyba, że braki te zostały uzupełnione w terminie, o którym mowa w ust. 1.
 
 7. Jeżeli sprzeciw nie spełnia wymogów formalnych, Urząd Patentowy wyznacza wnoszącemu sprzeciw termin do usunięcia braków pod rygorem umorzenia postępowania.
 
@@ -1521,6 +1549,10 @@ Art. 311–314. (pominięte)
 6. Urząd Patentowy, z urzędu lub na wniosek uprawnionego z prawa ochronnego lub osoby przez niego upoważnionej, w drodze postanowienia, wykreśla z rejestru znaków towarowych błędny wpis dotyczący przedłużenia prawa ochronnego.
 
 **Art. 154.** Używanie znaku towarowego polega w szczególności na:
+
+- **1)** umieszczaniu tego znaku na towarach objętych prawem ochronnym lub ich opakowaniach, oferowaniu i wprowadzaniu tych towarów do obrotu, ich imporcie lub eksporcie oraz składowaniu w celu oferowania i wprowadzania do obrotu, a także oferowaniu lub świadczeniu usług pod tym znakiem;
+- **2)** umieszczaniu znaku na dokumentach związanych z wprowadzaniem towarów do obrotu lub związanych ze świadczeniem usług;
+- **3)** posługiwaniu się nim w celu reklamy.
 
 **Art. 155.**
 
@@ -1670,7 +1702,7 @@ Art. 311–314. (pominięte)
 1. Prawo ochronne na znak towarowy wygasa również na skutek:
 
 - **1)** nieużywania zarejestrowanego znaku towarowego w sposób rzeczywisty dla towarów objętych prawem ochronnym w ciągu nieprzerwanego okresu pięciu lat, po dniu wydania decyzji o udzieleniu prawa ochronnego, chyba że istnieją ważne powody jego nieużywania;
-- **2)** utraty przez znak znamion odróżniających przez to, że na skutek działań lub zaniedbań uprawnionego stał się w obrocie zwyczajowym oznaczeniem składającym się wyłącznie z elementów, które mogą służyć w obrocie do oznaczania w szczególności rodzaju towaru, jego jakości, ilości, ceny, przeznaczenia, sposobu, czasu lub miejsca wytworzenia, składu, funkcji lub przydatności w stosunku do towarów, dla których był zarejestrowany;
+- **2)** utraty przez znak znamion odróżniających przez to, że na skutek działań lub zaniedbań uprawnionego stał się w obrocie zwyczajowym oznaczeniem – składającym się wyłącznie z elementów, które mogą służyć w obrocie do oznaczania w szczególności rodzaju towaru, jego jakości, ilości, ceny, przeznaczenia, sposobu, czasu lub miejsca wytworzenia, składu, funkcji lub przydatności – w stosunku do towarów, dla których był zarejestrowany;
 - **3)** działań uprawnionego lub, za jego zgodą, osób trzecich, gdy znak towarowy może wprowadzać odbiorców w błąd, w szczególności co do charakteru, właściwości lub pochodzenia geograficznego towaru;
 - **4)** wykreślenia z właściwego rejestru podmiotu mającego osobowość prawną, któremu przysługiwało prawo ochronne na znak towarowy;
 - **5)** niepodjęcia przez uprawnionego działań w celu uniemożliwienia używania wspólnego znaku towarowego lub znaku towarowego gwarancyjnego w sposób niezgodny z zasadami używania określonymi w regulaminie używania znaku;
@@ -1739,7 +1771,7 @@ Art. 311–314. (pominięte)
 
 - **1)** nazwy regionalne jako oznaczenia służące do wyróżniania towarów, które:
     - **a)** pochodzą z określonego terenu oraz
-    - **b)** posiadają szczególne właściwości, które wyłącznie lub w przeważającej mierze zawdzięczają oddziaływaniu środowiska geograficznego obejmującego łącznie czynniki naturalne oraz ludzkie których wytworzenie lub przetworzenie następuje na tym terenie;
+    - **b)** posiadają szczególne właściwości, które wyłącznie lub w przeważającej mierze zawdzięczają oddziaływaniu środowiska geograficznego obejmującego łącznie czynniki naturalne oraz ludzkie – których wytworzenie lub przetworzenie następuje na tym terenie;
 
 - **2)** oznaczenia pochodzenia jako oznaczenia służące do wyróżniania towarów:
     - **a)** pochodzących z określonego terenu oraz
@@ -2163,7 +2195,7 @@ Art. 311–314. (pominięte)
 
 2. Pełnomocnikiem osoby fizycznej, z zastrzeżeniem ust. 3, może być również współuprawniony, a także rodzice, małżonek, rodzeństwo lub zstępni strony oraz osoby pozostające ze stroną w stosunku przysposobienia.
 
-3. Osoby niemające miejsca zamieszkania lub siedziby na obszarze Rzeczypospolitej Polskiej w sprawach, o których mowa w ust. 1 i 1 , mogą działać tylko za pośrednictwem odpowiednio rzecznika patentowego, adwokata, radcy prawnego lub osoby świadczącej usługi transgraniczne w rozumieniu ustawy o rzecznikach patentowych. Obowiązek ten nie dotyczy osób mających miejsce zamieszkania lub siedzibę na obszarze Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
+3. Osoby niemające miejsca zamieszkania lub siedziby na obszarze Rzeczypospolitej Polskiej w sprawach, o których mowa w ust. 1 i 1 , mogą działać tylko za pośrednictwem odpowiednio rzecznika patentowego, adwokata, radcy prawnego lub osoby świadczącej usługi transgraniczne w rozumieniu ustawy o rzecznikach patentowych. Obowiązek ten nie dotyczy osób mających miejsce zamieszkania lub siedzibę na obszarze Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
 
 **Art. 237.**
 
@@ -2226,7 +2258,7 @@ Art. 311–314. (pominięte)
 
 8. W przypadku wyrażenia albo wycofania zgody, o której mowa w ust. 4, Urząd Patentowy poucza o skutkach prawnych wynikających z jej wyrażenia albo wycofania.
 
-9. W przypadku doręczania korespondencji za pomocą systemu teleinformatycznego Urzędu Patentowego pismo uznaje się za doręczone w dniu wskazanym w urzędowym poświadczeniu odbioru, a w przypadku jego braku po upływie 14 dni od dnia umieszczenia pisma w systemie teleinformatycznym Urzędu Patentowego.
+9. W przypadku doręczania korespondencji za pomocą systemu teleinformatycznego Urzędu Patentowego pismo uznaje się za doręczone w dniu wskazanym w urzędowym poświadczeniu odbioru, a w przypadku jego braku – po upływie 14 dni od dnia umieszczenia pisma w systemie teleinformatycznym Urzędu Patentowego.
 
 **Art. 242.**
 
@@ -2255,8 +2287,8 @@ Art. 311–314. (pominięte)
 
 2. Wniosek, o którym mowa w ust. 1, składa się do Urzędu Patentowego w terminie:
 
-- **1)** sześciu miesięcy od dnia, w którym upłynął termin do dokonania określonej czynności w przypadku znaków towarowych;
-- **2)** dwóch miesięcy od dnia ustania przyczyny uchybienia terminowi, nie później jednak niż w terminie sześciu miesięcy od dnia, w którym upłynął termin do dokonania określonej czynności w przypadku wynalazków, dodatkowych praw ochronnych, wzorów użytkowych, wzorów przemysłowych, oznaczeń geograficznych i topografii.
+- **1)** sześciu miesięcy od dnia, w którym upłynął termin do dokonania określonej czynności – w przypadku znaków towarowych;
+- **2)** dwóch miesięcy od dnia ustania przyczyny uchybienia terminowi, nie później jednak niż w terminie sześciu miesięcy od dnia, w którym upłynął termin do dokonania określonej czynności – w przypadku wynalazków, dodatkowych praw ochronnych, wzorów użytkowych, wzorów przemysłowych, oznaczeń geograficznych i topografii.
 
 3. Przywrócenie terminu do złożenia wniosku, o którym mowa w ust. 2, jest niedopuszczalne.
 
@@ -2284,7 +2316,7 @@ Art. 311–314. (pominięte)
 
 3. Przepisy ust. 1 oraz ust. 1 –1 stosuje się odpowiednio do postanowień.
 
-4. Termin do złożenia wniosku o ponowne rozpatrzenie sprawy zakończonej decyzją wynosi 2 miesiące, a zakończonej postanowieniem 1 miesiąc od dnia doręczenia stronie decyzji lub postanowienia.
+4. Termin do złożenia wniosku o ponowne rozpatrzenie sprawy zakończonej decyzją wynosi 2 miesiące, a zakończonej postanowieniem – 1 miesiąc od dnia doręczenia stronie decyzji lub postanowienia.
 
 5. Przed upływem terminu do złożenia wniosku o ponowne rozpatrzenie sprawy decyzja nie podlega wykonaniu.
 
@@ -2341,7 +2373,7 @@ Art. 311–314. (pominięte)
 1. Urząd Patentowy udziela informacji o zgłoszeniu wynalazku, dodatkowego prawa ochronnego, wzoru użytkowego, wzoru przemysłowego, znaku towarowego, oznaczenia geograficznego i topografii oraz udostępnia akta zgłoszenia w każdym stadium postępowania:
 
 - **1)** zgłaszającemu i jego pełnomocnikowi;
-- **2)** organom ścigania i wymiaru sprawiedliwości w związku z prowadzonymi przez nie sprawami;
+- **2)** organom ścigania i wymiaru sprawiedliwości – w związku z prowadzonymi przez nie sprawami;
 - **3)** innym osobom, które przedstawią na piśmie zgodę zgłaszającego.
 
 2. Po upływie terminów zastrzeżonych dla nieujawniania informacji o zgłoszeniach, o których mowa w ust. 1, Urząd Patentowy może na wniosek osoby, która ma w tym interes prawny, udostępnić jej dokumenty zawarte w aktach zgłoszenia, a także dokumenty dołączone do tych akt w toku postępowania rejestrowego.
@@ -2370,7 +2402,7 @@ Art. 311–314. (pominięte)
 
 **Art. 255.**
 
-1. Urząd Patentowy w trybie postępowania spornego rozstrzyga sprawy o:
+1. Urząd Patentowy – w trybie postępowania spornego – rozstrzyga sprawy o:
 
 - **1)** unieważnienie patentu, dodatkowego prawa ochronnego, prawa ochronnego albo prawa z rejestracji; 1 ) unieważnienie patentu europejskiego, udzielonego w trybie określonym w Konwencji o patencie europejskim; 1 ) unieważnienie uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego; 1 ) ograniczenie patentu w trakcie postępowania o unieważnienie patentu;
 - **2)** stwierdzenie wygaśnięcia patentu na wynalazek dotyczący materiału biologicznego lub jego użycia, w przypadku określonym w art. 90 ust. 1 pkt 4; 2 ) stwierdzenie wygaśnięcia dodatkowego prawa ochronnego, w przypadkach określonych w art. 75 ust. 3;
@@ -2445,7 +2477,7 @@ Art. 311–314. (pominięte)
 
 1. Rozprawa jest jawna, chyba że postępowanie sporne dotyczy wynalazku tajnego lub wzoru użytkowego tajnego.
 
-2. Jeżeli rozpatrzenie sprawy wymaga powoływania się przez strony na informacje prawnie chronione na podstawie odrębnych przepisów, jawność rozprawy może być wyłączona w drodze postanowienia w całości lub w części. Wyłączenie nie może obejmować obecności stron na rozprawie.
+2. Jeżeli rozpatrzenie sprawy wymaga powoływania się przez strony na informacje prawnie chronione na podstawie odrębnych przepisów, jawność rozprawy może być wyłączona – w drodze postanowienia – w całości lub w części. Wyłączenie nie może obejmować obecności stron na rozprawie.
 
 **Art. 255⁶.**
 
@@ -2457,7 +2489,7 @@ Art. 311–314. (pominięte)
 - **2)** przebieg rozprawy, w szczególności wnioski i twierdzenia stron, przebieg postępowania dowodowego, wymienienie zarządzeń i postanowień wydanych na rozprawie ze wzmianką o ich ogłoszeniu; zamiast podania wniosków i twierdzeń stron można w protokole powołać się na pisma przygotowawcze;
 - **3)** czynności stron, w szczególności ugodę, uznanie żądania, wycofanie, zmianę, rozszerzenie lub ograniczenie wniosku.
 
-3. Strony mogą żądać sprostowania lub uzupełnienia protokołu, nie później jednak niż na następnym posiedzeniu, a po wydaniu decyzji w terminie 30 dni od jej wydania.
+3. Strony mogą żądać sprostowania lub uzupełnienia protokołu, nie później jednak niż na następnym posiedzeniu, a po wydaniu decyzji – w terminie 30 dni od jej wydania.
 
 **Art. 255⁷.**
 
@@ -2516,7 +2548,7 @@ Art. 311–314. (pominięte)
 
 3. Przepisów Kodeksu postępowania administracyjnego o ponownym rozpatrywaniu, na wniosek strony, spraw załatwionych przez wydanie decyzji, od której nie służy odwołanie, nie stosuje się do decyzji rozstrzygającej sprawę co do jej istoty i wydanej po przeprowadzeniu rozprawy.
 
-3. W sprawach, o których mowa w art. 255 ust. 2, przysługuje wniosek o ponowne rozpatrzenie sprawy. Termin do jego złożenia w przypadku decyzji wynosi 2 miesiące, a w przypadku postanowienia 1 miesiąc od dnia doręczenia stronie decyzji lub postanowienia.
+3. W sprawach, o których mowa w art. 255 ust. 2, przysługuje wniosek o ponowne rozpatrzenie sprawy. Termin do jego złożenia w przypadku decyzji wynosi 2 miesiące, a w przypadku postanowienia – 1 miesiąc od dnia doręczenia stronie decyzji lub postanowienia.
 
 4. (uchylony)
 
@@ -2526,7 +2558,7 @@ Art. 311–314. (pominięte)
 
 ## TYTUŁ VIII Urząd Patentowy
 
-### DZIAŁ I Zadania i organizacja Urzędu Patentowego (oznaczenie rozdziału 1 i tytuł uchylone)
+### DZIAŁ I Zadania i organizacja Urzędu Patentowego (oznaczenie rozdziału 1 i tytuł – uchylone)
 
 **Art. 259.** Centralnym organem administracji rządowej w sprawach z zakresu własności przemysłowej jest Urząd Patentowy Rzeczypospolitej Polskiej.
 
@@ -2648,7 +2680,7 @@ Art. 311–314. (pominięte)
 5. Skład zespołu orzekającego, o którym mowa w ust. 1 , ustala:
 
 - **1)** Prezes Urzędu Patentowego, albo
-- **2)** upoważniony przez Prezesa Urzędu Patentowego ekspert sprawujący funkcję kierowniczą lub kontrolną mając na uwadze zapewnienie szybkości i poprawności rozpatrywania spraw.
+- **2)** upoważniony przez Prezesa Urzędu Patentowego ekspert sprawujący funkcję kierowniczą lub kontrolną – mając na uwadze zapewnienie szybkości i poprawności rozpatrywania spraw.
 
 **Art. 265.**
 
@@ -2772,7 +2804,7 @@ Art. 311–314. (pominięte)
 
 **Art. 271.**
 
-1. Wynagrodzenie eksperta składa się z wynagrodzenia zasadniczego, przewidzianego dla zajmowanego stanowiska eksperta, oraz dodatku za wieloletnią pracę na tym stanowisku, a także w razie powierzenia mu dodatkowej funkcji z dodatku funkcyjnego. Wysokość tego wynagrodzenia i dodatków ustala się z zastosowaniem mnożników kwoty bazowej, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
+1. Wynagrodzenie eksperta składa się z wynagrodzenia zasadniczego, przewidzianego dla zajmowanego stanowiska eksperta, oraz dodatku za wieloletnią pracę na tym stanowisku, a także – w razie powierzenia mu dodatkowej funkcji – z dodatku funkcyjnego. Wysokość tego wynagrodzenia i dodatków ustala się z zastosowaniem mnożników kwoty bazowej, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
 
 2. Ekspertowi przysługuje dodatkowe wynagrodzenie roczne dla pracowników jednostek sfery budżetowej, w wysokości i na zasadach określonych w odrębnych przepisach.
 
@@ -2788,7 +2820,7 @@ Art. 311–314. (pominięte)
 
 2. Rozkład czasu pracy w tygodniu oraz jego wymiar w poszczególnych dniach tygodnia ustala się odpowiednio do warunków pracy przewidzianych dla ogółu pracowników Urzędu Patentowego. Dni tygodnia niebędących dniami pracy w Urzędzie nie wlicza się do urlopu wypoczynkowego.
 
-3. Osobie zajmującej stanowisko eksperta co najmniej 10 lat przysługuje dodatkowy urlop wypoczynkowy w wymiarze 6 dni roboczych, a po 20 latach orzekania na tym stanowisku 12 dni roboczych.
+3. Osobie zajmującej stanowisko eksperta co najmniej 10 lat przysługuje dodatkowy urlop wypoczynkowy w wymiarze 6 dni roboczych, a po 20 latach orzekania na tym stanowisku – 12 dni roboczych.
 
 4. (uchylony)
 
@@ -2800,7 +2832,7 @@ Art. 311–314. (pominięte)
 
 1. Do ekspertów i aplikantów eksperckich mają odpowiednio zastosowanie przepisy art. 72 i art. 78 ust. 3, a do aplikantów eksperckich również przepisy art. 91, art. 92 i art. 94 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2022 r. poz. 1691).
 
-2. W sprawach wynikających ze stosunku pracy ekspertów i aplikantów eksperckich nieuregulowanych w ustawie i przepisach wskazanych w ust. 1 stosuje się ustawę z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240 i 641).
+2. W sprawach wynikających ze stosunku pracy ekspertów i aplikantów eksperckich nieuregulowanych w ustawie i przepisach wskazanych w ust. 1 stosuje się ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240 i 641).
 
 ### DZIAŁ III Odpowiedzialność dyscyplinarna.
 
@@ -2912,6 +2944,19 @@ Art. 311–314. (pominięte)
 
 **Art. 284.** W postępowaniu w sprawach własności intelektualnej rozpatrywane są w szczególności sprawy o:
 
+- **1)** ustalenie autorstwa projektu wynalazczego;
+- **2)** ustalenie prawa do patentu, prawa ochronnego lub prawa z rejestracji;
+- **3)** wynagrodzenie za korzystanie z projektu wynalazczego;
+- **4)** wynagrodzenie za korzystanie z wynalazku, wzoru użytkowego lub topografii dla celów państwowych;
+- **5)** odszkodowanie za przejście na Skarb Państwa prawa do patentu lub prawa ochronnego odpowiednio na wynalazek tajny lub na wzór użytkowy tajny;
+- **6)** naruszenie patentu, dodatkowego prawa ochronnego, prawa ochronnego lub prawa z rejestracji;
+- **7)** stwierdzenie prawa korzystania z wynalazku, wzoru użytkowego albo wzoru przemysłowego w przypadkach określonych w art. 71 i 75;
+- **8)** stwierdzenie prawa używania w ramach lokalnej działalności oznaczenia zarejestrowanego jako znak towarowy na rzecz innej osoby;
+- **9)** stwierdzenie prawa używania oznaczenia geograficznego;
+- **10)** stwierdzenie utraty prawa używania oznaczenia geograficznego;
+- **11)** przeniesienie patentu, prawa ochronnego na wzór użytkowy albo prawa z rejestracji wzoru przemysłowego lub topografii, uzyskanego przez osobę nieuprawnioną;
+- **12)** przeniesienie prawa ochronnego na znak towarowy w przypadku określonym w art. 161.
+
 **Art. 285.** Uprawniony z patentu, dodatkowego prawa ochronnego, prawa ochronnego lub prawa z rejestracji bądź osoba, której ustawa na to zezwala, może żądać zaprzestania działań grożących naruszeniem prawa.
 
 **Art. 286.** Sąd, rozstrzygając o naruszeniu prawa, może orzec, na wniosek uprawnionego, o będących własnością naruszającego bezprawnie wytworzonych lub oznaczonych wytworach oraz środkach i materiałach, które zostały użyte do ich wytworzenia lub oznaczenia. W szczególności sąd może orzec o ich wycofaniu z obrotu, przyznaniu uprawnionemu na poczet zasądzonej na jego rzecz sumy pieniężnej albo zniszczeniu. Orzekając, sąd uwzględnia wagę naruszenia oraz interesy osób trzecich.
@@ -2957,7 +3002,7 @@ Art. 311–314. (pominięte)
 
 1. Roszczeń z tytułu naruszenia patentu można dochodzić po uzyskaniu patentu.
 
-2. Roszczenia z tytułu naruszenia patentu, jeżeli sprawca działał w dobrej wierze, mogą być dochodzone za okres rozpoczynający się po dniu, w którym Urząd Patentowy dokonał ogłoszenia o zgłoszeniu wynalazku, a w przypadku wcześniejszego powiadomienia przez uprawnionego osoby naruszającej prawo o dokonanym zgłoszeniu od daty tego powiadomienia.
+2. Roszczenia z tytułu naruszenia patentu, jeżeli sprawca działał w dobrej wierze, mogą być dochodzone za okres rozpoczynający się po dniu, w którym Urząd Patentowy dokonał ogłoszenia o zgłoszeniu wynalazku, a w przypadku wcześniejszego powiadomienia przez uprawnionego osoby naruszającej prawo o dokonanym zgłoszeniu – od daty tego powiadomienia.
 
 **Art. 289.**
 
@@ -2975,13 +3020,13 @@ Art. 311–314. (pominięte)
 
 1. W odniesieniu do wzorów użytkowych oraz, z zastrzeżeniem ust. 2, do wzorów przemysłowych przepisy art. 287–291 stosuje się odpowiednio.
 
-2. Roszczenia z tytułu naruszenia prawa z rejestracji wzoru przemysłowego, jeżeli sprawca działał w dobrej wierze, mogą być dochodzone za okres rozpoczynający się po dniu dokonania ogłoszenia w „Wiadomościach Urzędu Patentowego” informacji o udzieleniu prawa, a w przypadku wcześniejszego powiadomienia przez uprawnionego osoby naruszającej prawo o dokonanym zgłoszeniu od daty tego powiadomienia.
+2. Roszczenia z tytułu naruszenia prawa z rejestracji wzoru przemysłowego, jeżeli sprawca działał w dobrej wierze, mogą być dochodzone za okres rozpoczynający się po dniu dokonania ogłoszenia w „Wiadomościach Urzędu Patentowego” informacji o udzieleniu prawa, a w przypadku wcześniejszego powiadomienia przez uprawnionego osoby naruszającej prawo o dokonanym zgłoszeniu – od daty tego powiadomienia.
 
 **Art. 293.**
 
 1. W odniesieniu do topografii układów scalonych stosuje się odpowiednio, z zastrzeżeniem ust. 2 i 3, przepisy art. 287–291.
 
-2. Roszczenia z tytułu naruszenia prawa z rejestracji, jeżeli sprawca działał w dobrej wierze, mogą być dochodzone za okres rozpoczynający się po dniu dokonania ogłoszenia w „Wiadomościach Urzędu Patentowego” informacji o udzieleniu prawa, a w przypadku wcześniejszego powiadomienia osoby naruszającej prawo o dokonanym zgłoszeniu od daty tego powiadomienia.
+2. Roszczenia z tytułu naruszenia prawa z rejestracji, jeżeli sprawca działał w dobrej wierze, mogą być dochodzone za okres rozpoczynający się po dniu dokonania ogłoszenia w „Wiadomościach Urzędu Patentowego” informacji o udzieleniu prawa, a w przypadku wcześniejszego powiadomienia osoby naruszającej prawo o dokonanym zgłoszeniu – od daty tego powiadomienia.
 
 3. Przepis ust. 2 stosuje się odpowiednio, jeżeli w okresie 2 lat od pierwszego wykorzystania topografii w celach handlowych uprawniony do uzyskania prawa z rejestracji na tę topografię powiadomi osobę, która korzystała z niej bez jego zgody, o zamiarze zgłoszenia tej topografii do Urzędu Patentowego.
 
@@ -2989,7 +3034,7 @@ Art. 311–314. (pominięte)
 
 1. Twórca wynalazku może dochodzić roszczenia o wynagrodzenie za korzystanie z jego wynalazku przed sądem okręgowym.
 
-2. W postępowaniu, o którym mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego, dotyczące postępowania w sprawach o roszczenia pracowników.
+2. W postępowaniu, o którym mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, dotyczące postępowania w sprawach o roszczenia pracowników.
 
 **Art. 295.** Do wynagrodzeń za wzory użytkowe, wzory przemysłowe i topografie układów scalonych przepisy art. 294 stosuje się odpowiednio.
 
@@ -3009,7 +3054,7 @@ Art. 311–314. (pominięte)
 - **1)** umieszczania oznaczenia identycznego ze znakiem towarowym lub do niego podobnego na opakowaniach, etykietach, metkach, zabezpieczeniach lub elementach lub urządzeniach służących weryfikacji autentyczności lub wszelkich innych środkach, na których ten znak może być umieszczony;
 - **2)** oferowania, wprowadzania do obrotu, importu lub eksportu lub składowania w celu oferowania lub wprowadzania do obrotu, opakowań, etykiet, metek, zabezpieczeń, elementów lub urządzeń służących weryfikacji autentyczności lub wszelkich innych środków, na których ten znak jest umieszczony.
 
-1. W przypadku gdy reprodukcja znaku towarowego w słowniku, encyklopedii lub podobnym zbiorze informacji w formie drukowanej lub elektronicznej stwarza wrażenie, że stanowi on nazwę rodzajową towaru, wydawca zapewnia, na żądanie uprawnionego z prawa ochronnego na znak towarowy, aby reprodukcji znaku towarowego bezzwłocznie, a w przypadku zbiorów w formie drukowanej najpóźniej w następnym wydaniu publikacji, towarzyszyło wskazanie, że jest to zarejestrowany znak towarowy.
+1. W przypadku gdy reprodukcja znaku towarowego w słowniku, encyklopedii lub podobnym zbiorze informacji w formie drukowanej lub elektronicznej stwarza wrażenie, że stanowi on nazwę rodzajową towaru, wydawca zapewnia, na żądanie uprawnionego z prawa ochronnego na znak towarowy, aby reprodukcji znaku towarowego bezzwłocznie, a w przypadku zbiorów w formie drukowanej – najpóźniej w następnym wydaniu publikacji, towarzyszyło wskazanie, że jest to zarejestrowany znak towarowy.
 
 1. Bez uszczerbku dla praw nabytych przez osoby trzecie przed datą zgłoszenia lub datą uprzedniego pierwszeństwa znaku towarowego, uprawnionemu z prawa ochronnego na znak towarowy lub osobie, której ustawa na to zezwala, przysługuje prawo zakazania osobom trzecim wprowadzenia towarów, w ramach działalności gospodarczej, na terytorium Rzeczypospolitej Polskiej, bez dopuszczenia ich do swobodnego obrotu, w przypadku gdy towary te lub ich opakowania pochodzą z państw trzecich i są opatrzone, bez zezwolenia uprawnionego, znakiem towarowym, który jest identyczny ze znakiem towarowym zarejestrowanym w odniesieniu do tych towarów lub którego nie można odróżnić pod względem jego istotnych cech od tego znaku towarowego.
 
@@ -3046,7 +3091,7 @@ Art. 311–314. (pominięte)
 
 2. (uchylony)
 
-**Art. 298.** Roszczenia z tytułu naruszenia prawa ochronnego na znak towarowy, jeżeli sprawca działał w dobrej wierze, mogą być dochodzone za okres rozpoczynający się po dniu, w którym Urząd Patentowy dokonał ogłoszenia o zgłoszeniu zgodnie z art. 146 ust. 1, a w przypadku wcześniejszego powiadomienia osoby naruszającej prawo o dokonanym zgłoszeniu od daty powiadomienia. Przepisy art. 288 ust. 1 oraz art. 289 stosuje się odpowiednio.
+**Art. 298.** Roszczenia z tytułu naruszenia prawa ochronnego na znak towarowy, jeżeli sprawca działał w dobrej wierze, mogą być dochodzone za okres rozpoczynający się po dniu, w którym Urząd Patentowy dokonał ogłoszenia o zgłoszeniu zgodnie z art. 146 ust. 1, a w przypadku wcześniejszego powiadomienia osoby naruszającej prawo o dokonanym zgłoszeniu – od daty powiadomienia. Przepisy art. 288 ust. 1 oraz art. 289 stosuje się odpowiednio.
 
 **Art. 299.** (uchylony)
 
@@ -3144,7 +3189,7 @@ Art. 311–314. (pominięte)
 
 3. Sprawy, rozpatrywane według dotychczasowych przepisów w Komisji Odwoławczej w wyniku zażaleń i odwołań w postępowaniu administracyjnym, przekazuje się do Urzędu Patentowego w celu rozpatrzenia w Izbie Odwoławczej, w trybie przepisów o ponownym rozpatrzeniu sprawy.
 
-4. Postępowanie w sprawach rozpatrywanych według dotychczasowych przepisów w Urzędzie Patentowym oraz w Komisji Odwoławczej w postępowaniu spornym i nienależące według ustawy do kompetencji Urzędu Patentowego podlega umorzeniu. Wniesione opłaty od wniosków o wydanie decyzji, a w przypadku sprawy rozpatrywanej w Komisji Odwoławczej także opłaty od odwołań i zażaleń podlegają zwrotowi.
+4. Postępowanie w sprawach rozpatrywanych według dotychczasowych przepisów w Urzędzie Patentowym oraz w Komisji Odwoławczej w postępowaniu spornym i nienależące według ustawy do kompetencji Urzędu Patentowego podlega umorzeniu. Wniesione opłaty od wniosków o wydanie decyzji, a w przypadku sprawy rozpatrywanej w Komisji Odwoławczej – także opłaty od odwołań i zażaleń podlegają zwrotowi.
 
 **Art. 319.** Wszczęte i niezakończone, do dnia wejścia w życie ustawy, sprawy o wydanie decyzji o wygaśnięciu prawa z rejestracji na znak towarowy z powodu nieużywania znaku towarowego przekazuje się do Wydziału Spraw Spornych, a odwołania od takich decyzji przekazuje się do Naczelnego Sądu Administracyjnego, jako skargi na decyzje Urzędu Patentowego.
 
@@ -3173,6 +3218,12 @@ Art. 311–314. (pominięte)
 2. Prawa przysługujące Skarbowi Państwa wykonuje w jego imieniu organ administracji rządowej lub państwowa jednostka organizacyjna, według właściwości w zakresie gospodarowania mieniem Skarbu Państwa będącym przedmiotem prawa.
 
 **Art. 326.** Tracą moc:
+
+- **1)** ustawa z dnia 19 października 1972 r. o wynalazczości (Dz. U. z 1993 r. poz. 117 oraz z 1997 r. poz. 554 i 770);
+- **2)** ustawa z dnia 31 stycznia 1985 r. o znakach towarowych (Dz. U. poz. 17, z 1989 r. poz. 192, z 1993 r. poz. 46, z 1994 r. poz. 331 oraz z 1997 r. poz. 554);
+- **3)** ustawa z dnia 30 października 1992 r. o ochronie topografii układów scalonych (Dz. U. poz. 498 oraz z 1997 r. poz. 554 i 770);
+- **4)** ustawa z dnia 31 maja 1962 r. o Urzędzie Patentowym Rzeczypospolitej Polskiej (Dz. U. z 1993 r. poz. 118);
+- **5)** przepisy art. 5–7 ustawy z dnia 30 października 1992 r. o zmianie ustawy o wynalazczości i ustawy o Urzędzie Patentowym Rzeczypospolitej Polskiej (Dz. U. z 1993 r. poz. 14).
 
 **Art. 327.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia .
 

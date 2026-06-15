@@ -8,7 +8,7 @@ pos: 96
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy
@@ -96,6 +96,9 @@ source: "isap-pdf"
 2. Funkcje organu administracji publicznej w zakresie zadań wynikających z ustawy wykonuje również Prezes Zarządu Agencji, zwany dalej „Prezesem Agencji”, przy pomocy Agencji.
 
 **Art. 9.** Minister właściwy do spraw gospodarki:
+
+- **1)** sprawuje nadzór nad wykonaniem ustawy;
+- **2)** jest organem wyższego stopnia wobec Prezesa Agencji w zakresie decyzji wydanych na podstawie ustawy.
 
 **Art. 10.**
 
@@ -589,6 +592,11 @@ source: "isap-pdf"
 
 **Art. 44.** Decyzja o zakończeniu postępowania restrukturyzacyjnego zawiera w szczególności:
 
+- **1)** oznaczenie przedsiębiorcy;
+- **2)** miejsce zamieszkania albo siedzibę przedsiębiorcy;
+- **3)** stwierdzenie zakończenia postępowania restrukturyzacyjnego;
+- **4)** rozstrzygnięcie o wysokości kosztów postępowania restrukturyzacyjnego i sposobach ich pokrycia.
+
 **Art. 45.**
 
 1. Prezes Agencji umarza postępowanie restrukturyzacyjne, jeżeli upłynął termin zakończenia postępowania restrukturyzacyjnego określony w decyzji o restrukturyzacji, a przedsiębiorca nie wykonał planu restrukturyzacji lub, z zastrzeżeniem art. 43 ust. 1 zdanie drugie, ugody restrukturyzacyjnej.
@@ -691,6 +699,10 @@ source: "isap-pdf"
 4. Koszty, o których mowa w ust. 1 pkt 1 i 2, są zaliczane do kosztów uzyskania przychodu Agencji, w rozumieniu przepisów o podatku dochodowym od osób prawnych.
 
 **Art. 58.** Źródłem pokrycia kosztów, o których mowa w art. 57, są w szczególności:
+
+- **1)** przychody finansowe uzyskane z tytułu pożyczek i poręczeń udzielanych przez Agencję ze środków pochodzących ze źródła, o którym mowa w art. 56 ust. 1;
+- **2)** majątek przekazany Agencji zgodnie z art. 35 i 55;
+- **3)** środki uzyskane przez Agencję ze sprzedaży bądź zagospodarowania składników majątku przekazanych przez Skarb Państwa zgodnie z art. 35.
 
 **Art. 59.** Agencja przedstawia co 6 miesięcy ministrowi właściwemu do spraw gospodarki, ministrowi właściwemu do spraw aktywów państwowych rozliczenie kosztów realizacji zadań określonych w ustawie według źródeł ich pokrycia określonych w art. 58.
 

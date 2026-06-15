@@ -8,7 +8,7 @@ pos: 40
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rodzinnych ogrodach działkowych Doceniając pozytywną rolę ogrodnictwa działkowego, będącego dziedziną życia społecznego, przyczyniającą się do zaspakajania socjalnych, wypoczynkowych i rekreacyjnych potrzeb społeczeństwa, a zwłaszcza rodzin z dziećmi, emerytów, rencistów i niepełnosprawnych, poprzez kształtowanie warunków dla prowadzenia aktywnego i zdrowego trybu życia oraz ochrony środowiska i przyrody, uznaje się za konieczne zapewnienie dalszego istnienia i rozwoju rodzinnych ogrodów działkowych, jako stałych elementów infrastruktury gmin, które powinny być uwzględniane w procesie ich rozwoju dla dobra obecnego i przyszłych pokoleń.
@@ -35,7 +35,32 @@ Art. 53–64. (pominięte)
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** działkowcu – należy przez to rozumieć pełnoletnią osobę fizyczną uprawnioną do korzystania z działki w rodzinnym ogrodzie działkowym na podstawie prawa do działki;
+- **2)** działce – należy przez to rozumieć podstawową jednostkę przestrzenną rodzinnego ogrodu działkowego, której powierzchnia nie może przekraczać 500 m , służącą zaspokajaniu potrzeb działkowca i jego rodziny w zakresie prowadzenia upraw ogrodniczych, wypoczynku i rekreacji;
+- **3)** terenie ogólnym – należy przez to rozumieć grunt w rodzinnym ogrodzie działkowym, który nie stanowi wyodrębnionych działek, przeznaczony do wspólnego używania przez osoby korzystające z działek;
+- **4)** prawie do działki – należy przez to rozumieć ustanowiony zgodnie z ustawą tytuł prawny uprawniający do korzystania z działki;
+- **5)** rodzinnym ogrodzie działkowym – należy przez to rozumieć wydzielony obszar lub obszary przeznaczone na cele rodzinnych ogrodów działkowych, składające się z działek i terenu ogólnego, służące do wspólnego korzystania przez działkowców, wyposażone w infrastrukturę ogrodową;
+- **6)** stowarzyszeniu ogrodowym – należy przez to rozumieć stowarzyszenie w rozumieniu przepisów ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261) powołane wyłącznie w celu zakładania i prowadzenia rodzinnych ogrodów działkowych;
+- **7)** regulaminie rodzinnego ogrodu działkowego – należy przez to rozumieć obowiązujące na terenie rodzinnego ogrodu działkowego przepisy określające szczegółowe zasady zagospodarowania i korzystania z działki oraz funkcjonowania i zagospodarowania rodzinnego ogrodu działkowego, a także zasady korzystania z terenu ogólnego i infrastruktury ogrodowej;
+- **8)** osobie bliskiej – należy przez to rozumieć małżonka działkowca, jego zstępnych, wstępnych, rodzeństwo, dzieci rodzeństwa oraz osoby pozostające z działkowcem w stosunku przysposobienia;
+- **9)** infrastrukturze ogrodowej – należy przez to rozumieć budynki i budowle, ogrodzenia, aleje i drogi ogrodowe, place zabaw, świetlice, hydrofornie, sieci wodociągowe i energetyczne oraz inne urządzenia znajdujące się na terenie rodzinnego ogrodu działkowego przeznaczone do wspólnego używania przez osoby korzystające z działek oraz służące do zapewnienia prawidłowego funkcjonowania rodzinnego ogrodu działkowego, o ile nie wchodzą w skład przedsiębiorstwa;
+- **9a)** altanie działkowej – należy przez to rozumieć wolno stojący budynek rekreacyjno-wypoczynkowy lub inny obiekt budowlany spełniający taką funkcję, położony na terenie działki w rodzinnym ogrodzie działkowym, o powierzchni zabudowy do 35 m oraz o wysokości do 5 m przy dachach stromych i do 4 m przy dachach płaskich, przy czym do powierzchni zabudowy nie wlicza się tarasu, werandy lub ganku, o ile ich łączna powierzchnia nie przekracza 12 m ;
+- **10)** opłatach ogrodowych – należy przez to rozumieć ponoszone przez działkowca opłaty wynikające z uczestnictwa w pokrywaniu kosztów funkcjonowania rodzinnego ogrodu działkowego, a w szczególności związane z zarządzaniem, utrzymaniem terenu ogólnego i infrastruktury ogrodowej;
+- **11)** likwidacji rodzinnego ogrodu działkowego lub jego części – należy przez to rozumieć zbycie lub wygaśnięcie praw przysługujących stowarzyszeniu ogrodowemu do nieruchomości zajmowanej przez rodzinny ogród działkowy lub jego część oraz wydanie tej nieruchomości przez stowarzyszenie ogrodowe;
+- **12)** podmiocie likwidującym – należy przez to rozumieć właściciela nieruchomości, na której zlokalizowany jest rodzinny ogród działkowy podlegający likwidacji lub podmiot, który nabywa własność tej nieruchomości wskutek wywłaszczenia.
+
 **Art. 3.** Podstawowymi celami rodzinnego ogrodu działkowego, zwanego dalej „ROD”, są:
+
+- **1)** zaspokajanie wypoczynkowych i rekreacyjnych potrzeb społeczeństwa poprzez umożliwianie prowadzenia upraw ogrodniczych;
+- **2)** poprawa warunków socjalnych członków społeczności lokalnych;
+- **3)** pomoc rodzinom i osobom w trudnej sytuacji życiowej oraz wyrównywanie ich szans;
+- **4)** integracja wielopokoleniowej rodziny, wychowanie dzieci w zdrowych warunkach oraz zachowanie aktywności i zdrowia emerytów i rencistów;
+- **5)** integracja społeczna osób w wieku emerytalnym oraz niepełnosprawnych;
+- **6)** przywracanie społeczności i przyrodzie terenów zdegradowanych;
+- **7)** ochrona środowiska i przyrody;
+- **8)** oddziaływanie na poprawę warunków ekologicznych w gminach;
+- **9)** kształtowanie zdrowego otoczenia człowieka;
+- **10)** tworzenie warunków do udostępniania terenów zielonych dla społeczności lokalnych.
 
 **Art. 4.** ROD są urządzeniami użyteczności publicznej, służącymi zaspokajaniu wypoczynkowych, rekreacyjnych i innych potrzeb socjalnych członków społeczności lokalnych poprzez zapewnienie im powszechnego dostępu do ROD oraz działek dających możliwość prowadzenia upraw ogrodniczych na własne potrzeby, a także podniesienie standardów ekologicznych otoczenia.
 
@@ -178,6 +203,9 @@ Art. 53–64. (pominięte)
 
 **Art. 21.** Podmiot likwidujący obowiązany jest do odtworzenia ROD, polegającego na:
 
+- **1)** zawarciu ze stowarzyszeniem ogrodowym umowy dającej stowarzyszeniu ogrodowemu tytuł prawny do nieruchomości nie mniejszej od powierzchni likwidowanego ROD, w miejscu odpowiednim do potrzeb i funkcjonowania nowego ROD, odpowiadający tytułowi prawnemu, który posiadało ono do nieruchomości zajmowanej przez likwidowany ROD;
+- **2)** założeniu nowego ROD i odtworzeniu urządzeń i budynków odpowiadających rodzajem urządzeniom i budynkom likwidowanego ROD.
+
 **Art. 22.**
 
 1. Podmiot likwidujący obowiązany jest wypłacić:
@@ -294,6 +322,11 @@ Art. 53–64. (pominięte)
 
 **Art. 35.** Prawo do działki wygasa z chwilą:
 
+- **1)** rozwiązania umowy za zgodą obu stron albo upływu terminu wypowiedzenia;
+- **2)** śmierci działkowca, o ile ustawa nie stanowi inaczej;
+- **3)** likwidacji ROD lub jego części, na której znajduje się działka;
+- **4)** w innych przypadkach przewidzianych w ustawie.
+
 **Art. 36.**
 
 1. Wypowiedzenia dokonuje się na piśmie pod rygorem nieważności. Wypowiedzenie złożone przez stowarzyszenie ogrodowe określa przyczynę uzasadniającą wypowiedzenie.
@@ -374,7 +407,23 @@ Art. 53–64. (pominięte)
 
 **Art. 46.** Do zadań stowarzyszeń ogrodowych należy w szczególności:
 
+- **1)** propagowanie idei ogrodnictwa działkowego w społeczeństwie, a szczególnie wszechstronnego znaczenia ROD dla rodzin działkowców i mieszkańców miast oraz racjonalnego wykorzystania gruntów miejskich;
+- **2)** działanie na rzecz wszechstronnego rozwoju ogrodnictwa działkowego;
+- **3)** zakładanie i zagospodarowywanie ROD;
+- **4)** ustanawianie praw do działek;
+- **5)** wszechstronne działanie na rzecz ochrony przyrody i środowiska;
+- **6)** organizowanie i udzielanie pomocy oraz poradnictwa w zagospodarowaniu działek i prowadzeniu upraw ogrodniczych;
+- **7)** propagowanie wiedzy ogrodniczej, zwłaszcza poprzez szkolenia i prowadzenie działalności wydawniczej;
+- **8)** prowadzenie działalności społecznej, wychowawczej, wypoczynkowej, rekreacyjnej i innej na rzecz osób korzystających z działek, ich rodzin oraz społeczności lokalnych;
+- **9)** działanie na rzecz zagospodarowania i zabudowy ROD zgodnie z jego celami oraz przepisami prawa.
+
 **Art. 47.** Statut stowarzyszenia ogrodowego określa w szczególności:
+
+- **1)** właściwy organ do dokonywania czynności prawnych związanych z ustanawianiem i wygaśnięciem prawa do działki;
+- **2)** tryb uchwalania regulaminu oraz dokonywania w nim zmian;
+- **3)** zasady ustalania i uiszczania opłat ogrodowych;
+- **4)** zasady oddawania działki w bezpłatne używanie instytucjom określonym w art. 27 ust. 4;
+- **5)** sposób prowadzenia ewidencji działek.
 
 **Art. 48.** Stowarzyszenie ogrodowe nie może odmówić przyjęcia w poczet członków działkowca mającego prawo do działki w ROD prowadzonym przez to stowarzyszenie, jeżeli działkowiec odpowiada wymaganiom statutu.
 
@@ -419,6 +468,9 @@ Art. 53–64. (pominięte)
 2. Do czasu uchwalenia statutu stowarzyszenia ogrodowego, o którym mowa w ust. 1 pkt 1, stowarzyszenie to działa na podstawie statutu Polskiego Związku Działkowców, w zakresie w jakim jego postanowienia nie pozostają w sprzeczności z powszechnie obowiązującymi przepisami prawa.
 
 **Art. 66.** Z dniem wejścia w życie niniejszej ustawy:
+
+- **1)** rodzinne ogrody działkowe, w rozumieniu ustawy z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych, stają się rodzinnymi ogrodami działkowymi w rozumieniu niniejszej ustawy;
+- **2)** prawo używania działki i pobierania z niej pożytków (użytkowanie działki) ustanowione na podstawie art. 14 ust. 1 ustawy z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych, przekształca się w prawo do działki w rozumieniu niniejszej ustawy, ustanawiane w drodze umowy dzierżawy działkowej.
 
 **Art. 67.**
 

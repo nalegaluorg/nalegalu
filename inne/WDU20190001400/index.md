@@ -195,7 +195,8 @@ j) informowania zarządu województwa o okolicznościach mogących mieć wpływ 
 § 28. 1. Zwrotowi podlega pomoc finansowa na realizację operacji w ramach współpracy wypłacona beneficjentowi, który w szczególności:
 1) nie wypełnił zobowiązań, o których mowa w art. 10 ust. 2 rozporządzenia nr 508/2014;
 2) naruszył przepisy o zamówieniach publicznych w sposób, który miał albo mógłby mieć wpływ na wynik postępowania o udzielenie zamówienia publicznego.
-2. Ustalenie kwoty pomocy finansowej, o której mowa w ust. 1, podlegającej zwrotowi następuje z uwzględnieniem rodzaju stwierdzonego uchybienia, o którym mowa w ust. 1, i postanowień umowy o dofinansowanie, o której mowa w § 21.
+2. Ustalenie kwoty pomocy finansowej, o której mowa w ust. 1, podlegającej zwrotowi następuje z uwzględnieniem rodzaju stwierdzonego uchybienia, o którym mowa w ust. 1, i postanowień umowy o dofinansowanie, o której mowa
+§ 21.
 3. Dochodzenie zwrotu pomocy finansowej, o której mowa w ust. 1, wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych liczonymi od dnia wypłaty tej pomocy, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 § 29. 1. W przypadku rozwiązania, połączenia z innym podmiotem, podziału lub przekształcenia wnioskodawcy będącego LGD lub wystąpienia innego zdarzenia prawnego, w wyniku którego zaistnieje następstwo prawne, następca prawny LGD nie może wstąpić do toczącego się postępowania na miejsce LGD.
 2. W przypadku rozwiązania, połączenia z innym podmiotem, podziału lub przekształcenia beneficjenta będącego LGD lub wystąpienia innego zdarzenia prawnego, w wyniku którego zaistnieje następstwo prawne, następcy prawnemu beneficjenta nie przyznaje się pomocy finansowej na realizację operacji w ramach współpracy.

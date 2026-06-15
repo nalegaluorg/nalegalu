@@ -8,7 +8,7 @@ pos: 1537
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości oraz niektórych innych ustaw
@@ -28,6 +28,50 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041451537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1537/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. Nr 109, poz. 1158 oraz z 2002 r. Nr 25, poz. 253, Nr 66, poz. 596 i Nr 216, poz. 1824) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Agencja uczestniczy w realizacji programów operacyjnych, o których mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206):
+- **1)** jako instytucja wdrażająca, udzielająca pomocy finansowej beneficjentom określonym w art. 6b ust. 1 lub
+- **2)** jako beneficjent.”;
+- **2)** po art. 4 dodaje się art. 4a w brzmieniu: „Art. 4a. 1. W zakresie wspierania eksportu minister właściwy do spraw gospodarki może bezpośrednio udzielać pomocy finansowej stanowiącej pomoc publiczną, dotyczącej w szczególności: udziału przedsiębiorców w imprezach targowo-wystawienniczych i misjach gospodarczych, realizacji branżowych projektów promocyjnych, realizacji projektów Domów Polskich, uzyskania certyfikatów wyrobu, szkoleń o tematyce handlu zagranicznego, organizacji konferencji, seminariów, warsztatów oraz przedsięwzięć wydawniczych.
+
+2. Rada Ministrów określi, w drodze rozporządzeń, przeznaczenie pomocy, o której mowa w ust. 1, warunki jej dopuszczalności, tryb udzielania oraz sposób jej monitorowania, uwzględniając konieczność efektywnego i skutecznego wykorzystania tej pomocy oraz zapewnienia przejrzystości jej udzielania.”;
+
+- **3)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Agencja realizuje zadania w szczególności przez:
+- **1)** świadczenie usług doradczych dla przedsiębiorców, bezrobotnych i podmiotów działających na rzecz rozwoju gospodarczego, zatrudnienia lub rozwoju zasobów ludzkich, które nie działają dla zysku lub zysk przeznaczają na cele statutowe,
+- **2)** organizowanie szkoleń i seminariów,
+- **3)** organizowanie przedsięwzięć informacyjnych, promocyjnych, targowych i wystawienniczych w kraju,
+- **4)** organizowanie, w porozumieniu z właściwymi instytucjami, przedsięwzięć informacyjnych i promocyjnych za granicą,
+- **5)** gromadzenie i udostępnianie informacji istotnych dla przedsiębiorców i bezrobotnych,
+- **6)** opracowywanie, wydawanie i rozpowszechnianie publikacji,
+- **7)** świadczenie usług eksperckich, w tym organom administracji rządowej i organom jednostek samorządu terytorialnego,
+- **8)** prowadzenie, pod nazwą „Krajowy System Usług dla Małych i Średnich Przedsiębiorstw”, rejestru podmiotów, które:
+    - **a)** zapewniają należyte świadczenie usług doradczych, szkoleniowych, informacyjnych lub finansowych małym i średnim przedsiębiorcom oraz osobom podejmującym działalność gospodarczą oraz
+    - **b)** nie działają dla zysku lub przeznaczają zysk na cele związane z zadaniami realizowanymi przez Agencję,
+
+- **9)** promowanie podmiotów, o których mowa w pkt 8, organizowanie współpracy między nimi oraz świadczenie na ich rzecz usług doradczych, szkoleniowych i informacyjnych,
+- **10)** udzielanie pomocy finansowej przeznaczonej na:
+    - **a)** wspomaganie działań określonych w pkt 1-6, prowadzonych przez inne podmioty,
+    - **b)** wspomaganie inwestycji małych i średnich przedsiębiorców, w szczególności sprzyjających wzrostowi ich konkurencyjności,
+    - **c)** działania określone w art. 6b ust. 5,
+    - **d)** wzmacnianie potencjału podmiotów działających na rzecz rozwoju gospodarczego, zatrudnienia lub rozwoju zasobów ludzkich.
+
+2. Przez podmiot działający na rzecz zatrudnienia lub rozwoju zasobów ludzkich rozumie się w szczególności:
+
+- **1)** organ prowadzący szkołę lub inną placówkę działającą w systemie oświaty,
+- **2)** szkołę wyższą,
+- **3)** jednostkę naukową w rozumieniu art. 3 pkt 4 ustawy z dnia 12 stycznia 1991 r. o Komitecie Badań Naukowych (Dz.U. z 2001 r. Nr 33, poz. 389 oraz z 2003 r. Nr 39, poz. 335),
+- **4)** inną osobę prawną, która zgodnie ze statutem prowadzi działalność szkoleniową,
+- **5)** przedsiębiorcę wykonującego działalność gospodarczą w zakresie szkoleń.
+
+3. Za czynności określone w ust. 1 pkt 1-7 Agencja może pobierać opłaty w wysokości nieprzekraczającej ponoszonych kosztów.”;
+
+- **4)** po art. 6 dodaje się art. 6a-6e w brzmieniu: „Art. 6a. 1. O rejestrację w Krajowym Systemie Usług dla Małych i Średnich Przedsiębiorstw mogą się ubiegać podmioty, które:
+- **1)** posiadają potencjał techniczny i ekonomiczny niezbędny do należytego świadczenia usług określonych w art. 6 ust. 1 pkt 8 lit. a,
+- **2)** zapewniają realizację usług określonych w art. 6 ust. 1 pkt 8 lit. a przez osoby posiadające niezbędne kwalifikacje,
+- **3)** posiadają system zapewnienia jakości usług określonych w art. 6 ust. 1 pkt 8 lit. a,
+- **4)** przestrzegają, w prowadzonej działalności, zasad etyki zawodowej.
+
+2. Minister właściwy do spraw gospodarki określa, w drodze rozporządzenia, szczegółowe wymagania w zakresie określonym w ust. 1 i tryb ich weryfikacji przez Agencję, a także standardy świadczenia usług doradczych, szkoleniowych, informacyjnych i finansowych małym i średnim przedsiębiorcom oraz podmiotom podejmującym działalność gospodarczą przez podmioty zarejestrowane w Krajowym Systemie Usług dla Małych i Średnich Przedsiębiorstw, kierując się potrzebą zapewnienia należytej jakości tych usług.
 
 **Art. 6b.**
 
@@ -236,6 +280,9 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych (Dz.U. Nr 19, poz. 177, Nr 96, poz. 959 i Nr 116, poz. 1207) wprowadza się następujące zmiany:
 
+- **1)** w art. 45 w ust. 6 pkt 5 otrzymuje brzmienie: „5) poręczeniach udzielanych przez podmioty, o których mowa w art. 6b ust. 5 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz.U. Nr 109, poz. 1158, z późn. zm. ).”;
+- **2)** w art. 148 w ust. 1 pkt 5 otrzymuje brzmienie: „5) poręczeniach udzielanych przez podmioty, o których mowa w art. 6b ust. 5 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości.”.
+
 **Art. 4.** W terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, umowy, na podstawie których uprawnione podmioty otrzymały od Polskiej Agencji Rozwoju Przedsiębiorczości dotacje przeznaczone na powiększenie funduszu pożyczkowego lub poręczeniowego, zawarte przed dniem wejścia w życie ustawy, zostaną dostosowane do przepisów niniejszej ustawy.
 
 **Art. 5.** Z dniem wejścia w życie niniejszej ustawy regionalne instytucje finansujące, wyłonione na podstawie przepisów dotychczasowych, stają się regionalnymi instytucjami finansującymi, o których mowa w ustawie wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą. Instytucje te mogą działać, bez przeprowadzania konkursu wyłaniającego regionalne instytucje finansujące, do czasu zakończenia realizacji programów ustanowionych nie później niż w dniu 31 grudnia 2004 r.
@@ -243,6 +290,9 @@ source: "isap-pdf"
 **Art. 6.** Do dnia 31 grudnia 2004 r. dotacje podmiotowe mogą być udzielane Polskiej Agencji Rozwoju Przedsiębiorczości również z przeznaczeniem na realizację jej zadań.
 
 **Art. 7.** W dniu 31 grudnia 2004 r., z mocy prawa:
+
+- **1)** fundusz rezerwowy utworzony przez Polską Agencję Rozwoju Przedsiębiorczości na podstawie przepisów dotychczasowych zostaje przeniesiony na fundusz statutowy;
+- **2)** fundusz statutowy Polskiej Agencji Rozwoju Przedsiębiorczości pomniejsza się o niepokrytą stratę netto z lat ubiegłych.
 
 **Art. 8.** Przepisów art. 6c ustawy wymienionej w art. 1 nie stosuje się w odniesieniu do wsparcia udzielanego przez Polską Agencję Rozwoju Przedsiębiorczości ze środków pomocy przedakcesyjnej Unii Europejskiej.
 

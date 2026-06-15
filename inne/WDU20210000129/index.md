@@ -8,7 +8,7 @@ pos: 129
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nasiennictwie
@@ -57,6 +57,9 @@ Art. 127–130. (pominięte)
 3. Wykaz gatunków roślin, o których mowa w ust. 1 pkt 1 i pkt 2 lit. c, ogłasza minister właściwy do spraw rolnictwa, w drodze obwieszczenia, w Dzienniku Urzędowym Ministra Rolnictwa i Rozwoju Wsi, z podziałem na grupy roślin: rolnicze, warzywne i sadownicze oraz podgrupy roślin, podając nazwę w języku polskim i nazwę botaniczną rośliny.
 
 **Art. 2.** Przepisów ustawy nie stosuje się do:
+
+- **1)** materiału siewnego przeznaczonego do państw trzecich innego niż materiał siewny, o którym mowa w art. 1 ust. 1 pkt 2 lit. b;
+- **2)** leśnego materiału rozmnożeniowego.
 
 **Art. 3.**
 
@@ -326,6 +329,13 @@ Art. 127–130. (pominięte)
 **Art. 17.** Jeżeli do wniosku o wpis odmiany do krajowego rejestru została dołączona lista osób fizycznych, o których mowa w art. 13 ust. 3, dyrektor Centralnego Ośrodka, w przypadku gdy decyzja o wpisie odmiany do krajowego rejestru stała się ostateczna, na wniosek każdej z tych osób, wydaje zaświadczenie potwierdzające jej udział w wyhodowaniu albo odkryciu i wyprowadzeniu odmiany.
 
 **Art. 18.** Krajowy rejestr jest jawny i zawiera:
+
+- **1)** nazwę gatunku rośliny uprawnej w języku polskim i nazwę botaniczną oraz nazwę odmiany i synonim nazwy odmiany, jeżeli został podany przez zachowującego odmianę;
+- **2)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę hodowcy, z tym że w przypadku gdy hodowcą jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **3)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odmianę, z tym że w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **4)** datę wpisu odmiany do krajowego rejestru, datę przedłużenia okresu wpisu do krajowego rejestru lub datę skreślenia tej odmiany z krajowego rejestru;
+- **5)** oznaczenie państwa, w którym odmiana jest zachowywana;
+- **6)** wskazanie dokumentów, na podstawie których dokonano wpisu, przedłużenia okresu wpisu albo skreślenia odmiany z krajowego rejestru.
 
 **Art. 19.**
 
@@ -752,6 +762,10 @@ Art. 127–130. (pominięte)
 
 **Art. 37.** Przy wytwarzaniu materiału siewnego kategorii kwalifikowany powierzchnia plantacji nasiennych roślin rolniczych nie może być mniejsza niż:
 
+- **1)** 2 ha – w przypadku materiału siewnego roślin zbożowych;
+- **2)** 1 ha – w przypadku sadzeniaków ziemniaka;
+- **3)** 0,5 ha – w przypadku pozostałych gatunków roślin rolniczych.
+
 **Art. 38.**
 
 1. Plantacje nasienne wieloletnich roślin rolniczych prowadzi się przez czas określony w przepisach wydanych na podstawie art. 40 pkt 3 lit. c.
@@ -761,6 +775,20 @@ Art. 127–130. (pominięte)
 **Art. 39.** Partie materiału siewnego roślin rolniczych lub warzywnych wytworzonego na terytorium Rzeczypospolitej Polskiej oznacza się w sposób umożliwiający identyfikację tego materiału.
 
 **Art. 40.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe terminy składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup lub gatunków roślin rolniczych i warzywnych,
+- **2)** liczbę rozmnożeń materiału siewnego dla poszczególnych grup lub gatunków roślin rolniczych i warzywnych, z uwzględnieniem opisu poszczególnych kategorii i stopni kwalifikacji materiału siewnego,
+- **3)** szczegółowe wymagania w zakresie wytwarzania materiału siewnego roślin rolniczych i warzywnych, z uwzględnieniem w szczególności:
+    - **a)** terminów dokonywania i liczby ocen stanu plantacji nasiennej w odniesieniu do poszczególnych grup roślin i gatunków,
+    - **b)** izolacji przestrzennej od innych upraw, czystości gatunkowej i odmianowej, zdrowotności, określenia przedplonu oraz zmianowania roślin na plantacjach nasiennych,
+    - **c)** czasu prowadzenia plantacji wieloletnich roślin rolniczych,
+    - **d)** sposobu oznaczania plantacji nasiennych,
+
+- **4)** szczegółowe wymagania w zakresie jakości materiału siewnego roślin rolniczych i warzywnych, z zastrzeżeniem pkt 8,
+- **5)** dopuszczalną wielkość partii materiału siewnego roślin rolniczych i warzywnych w obrocie,
+- **6)** sposób oznaczania partii materiału siewnego roślin rolniczych i warzywnych wytworzonego na terytorium Rzeczypospolitej Polskiej,
+- **7)** wzór upoważnienia udzielanego przez zachowującego odmianę osobie, która będzie prowadzić obrót materiałem siewnym, składającej wniosek o dokonanie oceny polowej materiału siewnego – w przypadku odmian chronionych wyłącznym prawem,
+- **8)** wykaz gatunków roślin rolniczych, których materiał siewny może być uznany za materiał siewny kategorii handlowy, oraz wymagania w zakresie jakości dla tego materiału – biorąc pod uwagę cechy biologiczne poszczególnych grup roślin lub gatunków, specyfikę ich wytwarzania oraz właściwą identyfikację wytworzonego materiału siewnego roślin rolniczych i warzywnych, a także potrzebę zapewnienia jednolitego sposobu udzielania przez zachowującego odmianę upoważnienia osobie, która będzie prowadzić obrót materiałem siewnym.
 
 **Art. 41.**
 
@@ -944,6 +972,14 @@ Art. 127–130. (pominięte)
 
 **Art. 51.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe terminy, po upływie których materiał siewny roślin rolniczych i warzywnych znajdujący się w obrocie lub przygotowywany do obrotu podlega okresowej ocenie laboratoryjnej,
+- **2)** wzór protokołu pobrania próby materiału siewnego roślin rolniczych i warzywnych,
+- **3)** okres przechowywania prób materiału siewnego roślin rolniczych i warzywnych pobranych do oceny, z wyłączeniem oceny tożsamości i czystości odmianowej,
+- **4)** metody dokonywania oceny polowej, oceny weryfikacyjnej i oceny cech zewnętrznych materiału siewnego roślin rolniczych lub warzywnych,
+- **5)** zakres i sposób sporządzania dokumentacji dotyczącej dokonanej oceny polowej materiału siewnego roślin rolniczych i warzywnych przez urzędowych kwalifikatorów i akredytowanych kwalifikatorów oraz dokumentacji dotyczącej dokonanej oceny laboratoryjnej materiału siewnego roślin rolniczych i warzywnych przez urzędowe laboratoria i akredytowane laboratoria,
+- **6)** metody pobierania prób, w szczególności sadzeniaków ziemniaka do oceny weryfikacyjnej i mieszanek materiału siewnego roślin rolniczych i warzywnych – w przypadku braku metod uznanych przez międzynarodowe organizacje nasienne,
+- **7)** szczegółowe wymagania niezbędne do zapewnienia, że próba nasion pobrana do oceny laboratoryjnej materiału siewnego roślin rolniczych i warzywnych za pomocą urządzenia do automatycznego pobierania prób jest reprezentatywna – mając na uwadze właściwości poszczególnych gatunków roślin w zakresie zdolności kiełkowania, rodzaje opakowań materiału siewnego, konieczność dokonywania oceny materiału siewnego według jednolitych zasad oraz właściwą identyfikację partii materiału siewnego roślin rolniczych i warzywnych, a także zapewnienie jednolitego sposobu dokumentowania oceny i pobierania prób materiału siewnego roślin rolniczych lub warzywnych.
+
 #### Rozdział 2 Wytwarzanie i ocena odmian regionalnych i odmian amatorskich
 
 **Art. 52.**
@@ -1099,6 +1135,14 @@ Art. 127–130. (pominięte)
 
 **Art. 56.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
+- **1)** wymagania w zakresie czystości odmianowej oraz metodykę, sposób i warunki dokonywania oceny tożsamości i czystości odmianowej materiału siewnego dla poszczególnych gatunków, grup lub podgrup roślin rolniczych lub warzywnych,
+- **2)** (uchylony)
+- **3)** wielkość prób pobieranych do oceny tożsamości i czystości odmianowej, w tym prób wzorcowych, sposób ich pakowania i oznakowania, terminy ich przesyłania do jednostki wskazanej przez Centralny Ośrodek i na adres wskazany przez ten ośrodek,
+- **4)** warunki oraz okres przechowywania prób materiału siewnego pobranych do oceny tożsamości i czystości odmianowej,
+- **5)** warunki pobierania prób wzorcowych, w tym prób materiału siewnego reprodukowanego w ramach systemów nasiennych OECD,
+- **6)** zakres i terminy przekazywania przez Głównego Inspektora dyrektorowi Centralnego Ośrodka informacji o planowanej liczbie prób materiału siewnego przeznaczonych do oceny tożsamości i czystości odmianowej oraz wykazu pobranych prób materiału siewnego wysłanych do oceny tożsamości i czystości odmianowej,
+- **7)** zakres i terminy przekazywania przez dyrektora Centralnego Ośrodka Głównemu Inspektorowi informacji o próbach urzędowych przyjętych do oceny tożsamości i czystości odmianowej materiału siewnego – biorąc pod uwagę zróżnicowanie gatunków, grup lub podgrup roślin rolniczych i warzywnych, dokonywanie oceny tożsamości i czystości odmianowej według jednolitych zasad oraz właściwą organizację dokonywania tej oceny, a także zapewnienie jednolitego sposobu dokumentowania wyników oceny tożsamości i czystości odmianowej.
+
 ### DZIAŁ III Mieszanki materiału siewnego
 
 #### Rozdział 1 Mieszanki materiału siewnego roślin rolniczych i warzywnych
@@ -1168,6 +1212,9 @@ Art. 127–130. (pominięte)
 
 **Art. 60.** Mieszankę dla ochrony środowiska:
 
+- **1)** zbiera się w miejscu zbioru w sposób niezagrażający obszarowi źródłowemu i wprowadza do obrotu jako oczyszczoną lub nieoczyszczoną (mieszanka dla ochrony środowiska zbierana bezpośrednio) albo
+- **2)** wytwarza się przez zmieszanie składników mieszanki charakterystycznych dla danego siedliska, zbieranych oddzielnie w miejscu zbioru albo rozmnażanych poza miejscem zbioru jako pojedyncze gatunki (uprawiana mieszanka dla ochrony środowiska).
+
 **Art. 61.**
 
 1. Przez miejsce zbioru, o którym mowa w art. 60, rozumie się miejsce, z którego zbiera się nasiona będące składnikami mieszanki dla ochrony środowiska, o których mowa w art. 58 ust. 2, wyznaczone przez prowadzącego obrót w części obszaru źródłowego.
@@ -1185,6 +1232,10 @@ Art. 127–130. (pominięte)
 2. Kontrole, o których mowa w ust. 1 pkt 2, są przeprowadzane przez wojewódzkiego inspektora przynajmniej raz w danym sezonie wegetacyjnym.
 
 **Art. 63.** Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw ochrony środowiska określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe wymagania w zakresie wytwarzania mieszanek dla ochrony środowiska zbieranych bezpośrednio oraz składników uprawianych mieszanek dla ochrony środowiska,
+- **2)** szczegółowe wymagania w zakresie jakości mieszanek dla ochrony środowiska zbieranych bezpośrednio oraz składników uprawianych mieszanek dla ochrony środowiska,
+- **3)** wzór świadectwa mieszanki dla ochrony środowiska – mając na uwadze właściwości biologiczne poszczególnych gatunków, zachowanie różnorodności genetycznej w obszarach źródłowych oraz zapewnienie jednolitego sposobu dokumentowania wyników oceny mieszanki dla ochrony środowiska.
 
 ### DZIAŁ IV Materiał szkółkarski, materiał rozmnożeniowy i materiał nasadzeniowy roślin warzywnych i ozdobnych oraz sadzonki winorośli
 
@@ -1255,6 +1306,11 @@ Art. 127–130. (pominięte)
 **Art. 67.** Za materiał rozmnożeniowy i materiał nasadzeniowy roślin warzywnych uznaje się materiał spełniający wymagania w zakresie wytwarzania i jakości, określone w przepisach wydanych na podstawie art. 72a pkt 1, uzyskany z materiału siewnego kategorii elitarny, kategorii kwalifikowany lub kategorii standard odmian wpisanych do krajowego rejestru lub do odpowiednich rejestrów innych niż Rzeczpospolita Polska państw członkowskich lub wspólnotowego katalogu, lub rejestru państwa stowarzyszonego.
 
 **Art. 68.** Za materiał rozmnożeniowy i materiał nasadzeniowy roślin ozdobnych uznaje się materiał spełniający wymagania w zakresie wytwarzania i jakości, określone w przepisach wydanych na podstawie art. 72 pkt 2, gatunków lub odmian:
+
+- **1)** tradycyjnie uprawianych na terytorium Rzeczypospolitej Polskiej lub
+- **2)** chronionych na podstawie ustawy z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin, lub
+- **3)** wpisanych do odpowiednich rejestrów innych niż Rzeczpospolita Polska państw członkowskich albo państw trzecich, lub
+- **4)** znajdujących się na liście odmian prowadzonej przez dostawcę.
 
 **Art. 69.** Za sadzonki winorośli uznaje się materiał siewny spełniający wymagania w zakresie wytwarzania i jakości określone w przepisach wydanych na podstawie art. 72 pkt 2.
 
@@ -1328,7 +1384,21 @@ Art. 127–130. (pominięte)
 
 **Art. 72.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe terminy składania wniosków o dokonanie oceny polowej materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany,
+- **2)** wymagania w zakresie wytwarzania i jakości materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany oraz materiału szkółkarskiego CAC, z uwzględnieniem w szczególności:
+    - **a)** terminów dokonywania i liczby ocen stanu plantacji materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany w odniesieniu do poszczególnych kategorii grup roślin lub gatunków,
+    - **b)** (uchylona)
+    - **c)** liczby rozmnożeń dla poszczególnych grup lub gatunków roślin materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany, z uwzględnieniem opisu poszczególnych kategorii i stopni kwalifikacji,
+    - **d)** izolacji przestrzennej od innych upraw, czystości gatunkowej i odmianowej, zdrowotności oraz zmianowania roślin, a także wieku roślin – dla materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany,
+    - **e)** sposobu oznaczania partii materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany oraz materiału szkółkarskiego CAC,
+
+- **3)** metody oceny polowej, pobierania prób i oceny laboratoryjnej oraz oceny tożsamości odmianowej materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany, 3a) wymagania dla gleby i podłoża, w których jest uprawiany materiał szkółkarski kategorii elitarny lub kategorii kwalifikowany, oraz warunki i metody pobierania prób gleby i podłoża, 3b) zakres dokumentacji dotyczącej identyfikacji i monitorowania punktów krytycznych oraz sposób jej prowadzenia,
+- **4)** wykaz gatunków i odmian roślin sadowniczych, dla których materiał szkółkarski CAC wytwarza się z materiału siewnego kategorii kwalifikowany roślin sadowniczych – biorąc pod uwagę cechy biologiczne poszczególnych grup lub gatunków roślin, specyfikę ich wytwarzania, wysoką jakość materiału siewnego, a także zapewnienie właściwej identyfikacji wytworzonego materiału siewnego.
+
 **Art. 72a.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
+
+- **1)** wymagania w zakresie wytwarzania i jakości materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i roślin ozdobnych oraz sadzonek winorośli,
+- **2)** sposób oznaczania partii materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i roślin ozdobnych oraz sadzonek winorośli – biorąc pod uwagę cechy biologiczne poszczególnych grup lub gatunków roślin, specyfikę ich wytwarzania, zapewnienie wysokiej jakości materiału siewnego, a także zapewnienie właściwej identyfikacji wytworzonego materiału.
 
 ### DZIAŁ V Wyniki oceny
 
@@ -1390,7 +1460,16 @@ Art. 127–130. (pominięte)
 
 **Art. 76.** Akredytowanym laboratorium może być laboratorium:
 
+- **1)** które posiada odpowiednie warunki lokalowe oraz wyposażenie techniczne niezbędne do wykonywania oceny laboratoryjnej materiału siewnego określone w przepisach wydanych na podstawie art. 83 ust. 1 pkt 1 i 2;
+- **2)** w którym jest zatrudnionych nie mniej niż 2 pracowników, którzy przeprowadzają badania materiału siewnego dla poszczególnych grup roślin, z uwzględnieniem typów analiz, zwanych dalej „analitykami nasiennymi”.
+
 **Art. 77.** Analitykiem nasiennym może być osoba, która oprócz kwalifikacji określonych w art. 75 ust. 1, posiada:
+
+- **1)** wiedzę z zakresu:
+    - **a)** badanego materiału siewnego, w tym nasionoznawstwa,
+    - **b)** przeprowadzania badań laboratoryjnych oraz prowadzenia dokumentacji laboratoryjnej;
+
+- **2)** praktyczne umiejętności przeprowadzania badań laboratoryjnych.
 
 **Art. 78.**
 
@@ -1553,6 +1632,9 @@ Art. 127–130. (pominięte)
 6. Wojewódzki inspektor wydaje przedsiębiorcy zaświadczenie o dokonaniu wpisu do ewidencji przedsiębiorców albo zaświadczenie o zmianie wpisu w ewidencji, zawierające numer przedsiębiorcy wynikający z ewidencji przedsiębiorców, datę wpisu albo zmiany wpisu, w terminie 14 dni od dnia odpowiednio wpisu albo dokonania zmiany wpisu.
 
 **Art. 85.** Przepisów art. 84 nie stosuje się do:
+
+- **1)** rolnika, w rozumieniu przepisów o ubezpieczeniu społecznym rolników, prowadzącego obrót materiałem siewnym roślin rolniczych i warzywnych wytworzonym w posiadanym gospodarstwie;
+- **2)** podmiotu prowadzącego sprzedaż materiału siewnego roślin rolniczych i warzywnych wyłącznie dla nieprofesjonalnych odbiorców.
 
 **Art. 86.**
 
@@ -1782,6 +1864,16 @@ Art. 127–130. (pominięte)
 
 **Art. 101.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
+- **1)** rodzaje opakowań materiału siewnego dla poszczególnych gatunków lub grup roślin rolniczych i warzywnych, a także dla materiału siewnego zaprawianego, oraz sposoby zabezpieczania tych opakowań,
+- **2)** jakie opakowania materiału siewnego roślin rolniczych i warzywnych uznaje się za małe opakowania WE,
+- **3)** maksymalną wielkość opakowań dla mieszanek odmianowych roślin warzywnych,
+- **4)** szczegółowy sposób etykietowania i plombowania materiału siewnego roślin rolniczych i warzywnych, z uwzględnieniem:
+    - **a)** rozmiarów i koloru etykiet ustalonych dla poszczególnych kategorii i stopni kwalifikacji materiału siewnego, rodzajów materiału siewnego oraz mieszanek dla ochrony środowiska,
+    - **b)** treści informacji zamieszczanych na etykietach oraz w dokumencie towarzyszącym,
+    - **c)** małych opakowań WE,
+
+- **5)** sposób nadawania numerów etykiet przez prowadzącego obrót – mając na względzie postęp techniki w tej dziedzinie, zapewnienie identyfikacji materiału siewnego i rozwiązania stosowane przez międzynarodowe organizacje nasienne oraz biorąc pod uwagę rodzaj i gatunek roślin, kategorię materiału siewnego, a także masę netto opakowania.
+
 #### Rozdział 2 Materiał szkółkarski, materiał rozmnożeniowy i materiał nasadzeniowy roślin warzywnych i ozdobnych oraz sadzonki winorośli
 
 **Art. 102.**
@@ -1868,6 +1960,14 @@ Art. 127–130. (pominięte)
 7. Przepisu ust. 6 nie stosuje się w przypadku materiału przeznaczonego dla nieprofesjonalnych odbiorców roślin sadowniczych.
 
 **Art. 103c.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy sposób etykietowania, plombowania i pakowania materiału szkółkarskiego kategorii elitarny i kategorii kwalifikowany, z uwzględnieniem:
+    - **a)** rozmiarów i kolorów etykiet dla materiału szkółkarskiego,
+    - **b)** informacji, które umieszcza się na etykietach oraz szkółkarskim dokumencie towarzyszącym,
+
+- **2)** informacje, które umieszcza się na szkółkarskim dokumencie dostawcy,
+- **3)** informacje, które umieszcza się na etykiecie dostawcy sadzonek winorośli,
+- **4)** sposób nadawania numerów etykiet przez dostawcę – mając na względzie zapewnienie identyfikacji materiału siewnego i rozwiązania stosowane w tym zakresie przez międzynarodowe organizacje nasienne oraz zapewnienie widocznych różnic między tymi dokumentami, a także biorąc pod uwagę rodzaj i gatunek roślin oraz kategorię materiału siewnego.
 
 ### DZIAŁ III Dopuszczenie do obrotu
 
@@ -2142,6 +2242,12 @@ Art. 127–130. (pominięte)
 
 **Art. 114.** Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia, tymczasowe eksperymenty, w ramach których może być wytwarzany materiał siewny, w tym:
 
+- **1)** warunki przeprowadzania tymczasowego eksperymentu lub
+- **2)** czas trwania tymczasowego eksperymentu, lub
+- **3)** zakres i terminy składania wojewódzkiemu inspektorowi informacji o przebiegu tymczasowego eksperymentu przez podmiot, który uzyskał pozwolenie na przeprowadzenie tymczasowego eksperymentu, lub
+- **4)** zakres kontroli przeprowadzania tymczasowego eksperymentu, lub
+- **5)** dodatkowe informacje umieszczane na etykietach, w które zaopatruje się materiał siewny wytworzony w ramach tymczasowego eksperymentu – uwzględniając przepisy Unii Europejskiej, o których mowa w art. 113 ust. 1, oraz zapewnienie kontroli nad prawidłowym przeprowadzeniem tymczasowych eksperymentów i materiałem siewnym wytworzonym w ramach tych eksperymentów.
+
 ## TYTUŁ VI Opłaty związane z oceną materiału siewnego
 
 **Art. 115.**
@@ -2189,7 +2295,20 @@ Art. 127–130. (pominięte)
 
 **Art. 117.** W razie nieuiszczenia opłat, o których mowa w art. 115 ust. 1:
 
+- **1)** pkt 1 – nie dokonuje się oceny tożsamości i czystości odmianowej materiału siewnego;
+- **2)** pkt 2 – nie wydaje się wyników dokonanych ocen;
+- **3)** pkt 3 – nie dokonuje się ponownej oceny materiału siewnego;
+- **4)** pkt 4 i 5 – wniosek o udzielenie akredytacji odpowiednio do pobierania prób materiału siewnego lub dokonywania oceny materiału siewnego pozostawia się bez rozpoznania;
+- **5)** pkt 6 – wniosek o upoważnienie do wypełniania etykiet urzędowych pozostawia się bez rozpoznania;
+- **6)** pkt 7 – wniosek o udzielenie zgody na pobieranie prób za pomocą urządzenia do automatycznego pobierania prób pozostawia się bez rozpoznania;
+- **7)** pkt 8 – nie dopuszcza się do przystąpienia do egzaminu;
+- **8)** pkt 9 i 10 – nie wydaje się świadectw mieszanki materiału siewnego oraz etykiet i plomb urzędowych;
+- **9)** pkt 11 – wydaje się decyzję o cofnięciu akredytacji.
+
 **Art. 118.** Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** sposób ustalania i wysokość opłat, o których mowa w art. 115 ust. 1,
+- **2)** sposób uiszczania opłat, o których mowa w art. 115 ust. 1 – mając na względzie zasady określone w art. 116 ust. 2 oraz ułatwienie terminowego uiszczania tych opłat.
 
 ## TYTUŁ VIA Dotacje do badań podstawowych w hodowli roślin i nasiennictwie
 
@@ -2306,6 +2425,11 @@ Art. 127–130. (pominięte)
 ## TYTUŁ X Przepisy zmieniające, epizodyczne, przejściowe i końcowe
 
 **Art. 130a.** W okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonych na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845 i 2112) w związku z zakażeniami wirusem SARSCoV-2 oraz w okresie od dnia odwołania tych stanów do dnia 31 grudnia 2020 r.:
+
+- **1)** nie przeprowadza się szkoleń, o których mowa w art. 79 ust. 3 i 5;
+- **2)** nie stosuje się przepisów:
+    - **a)** art. 64 ust. 6,
+    - **b)** art. 79 ust. 4 i 6.
 
 **Art. 131.** Do spraw wszczętych na podstawie ustawy, o której mowa w art. 140, i niezakończonych do dnia wejścia w życie niniejszej ustawy decyzją ostateczną stosuje się przepisy dotychczasowe.
 

@@ -8,7 +8,7 @@ pos: 1227
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-10-03 |
 | Data wydania | 2008-11-07 |
-| Ostatnia zmiana | 2026-01-30 |
+| Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081991227) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1227/text.pdf) |
 
 Art. 137–152. (pominięte)
@@ -35,11 +35,20 @@ Art. 137–152. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i tryb postępowania w sprawach:
+    - **a)** udostępniania informacji o środowisku i jego ochronie,
+    - **b)** ocen oddziaływania na środowisko,
+    - **c)** transgranicznego oddziaływania na środowisko;
+
+- **2)** zasady udziału społeczeństwa w ochronie środowiska;
+- **3)** władze publiczne właściwe w sprawach, o których mowa w pkt 1 lit. a;
+- **4)** organy administracji właściwe w sprawach, o których mowa w pkt 1 lit. b i c.
+
 **Art. 2.**
 
 1. (uchylony)
 
-2. Przepisów ustawy, z wyjątkiem działu II, nie stosuje się do spraw uregulowanych w przepisach ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2023 r. poz. 1173 i 1890 oraz z 2024 r. poz. 834).
+2. Przepisów ustawy, z wyjątkiem działu II, nie stosuje się do spraw uregulowanych w przepisach ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2026 r. poz. 1).
 
 #### Rozdział 2 Definicje i zasady ogólne
 
@@ -47,10 +56,10 @@ Art. 137–152. (pominięte)
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** Biuletynie Informacji Publicznej – rozumie się przez to Biuletyn Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902);
+- **1)** Biuletynie Informacji Publicznej – rozumie się przez to Biuletyn Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844);
 - **2)** informacji przeznaczonej dla władz publicznych – rozumie się przez to informację, którą w imieniu władz publicznych dysponują osoby trzecie, w tym też informację, której władze publiczne mają prawo żądać od osób trzecich;
 - **3)** informacji znajdującej się w posiadaniu władz publicznych – rozumie się przez to informację znajdującą się w posiadaniu władz publicznych, wytworzoną przez władze publiczne lub otrzymaną przez władze publiczne od osoby trzeciej;
-- **4)** integralności obszaru Natura 2000 – rozumie się przez to integralność obszaru Natura 2000 w rozumieniu ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890);
+- **4)** integralności obszaru Natura 2000 – rozumie się przez to integralność obszaru Natura 2000 w rozumieniu ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2026 r. poz. 13 i 426);
 - **4a)** inwentaryzacji przyrodniczej – rozumie się przez to zbiór badań terenowych przeprowadzanych na potrzeby scharakteryzowania elementów środowiska przyrodniczego;
 - **5)** (uchylony)
 - **6)** obszarze Natura 2000 – rozumie się przez to obszary, o których mowa w art. 25 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, oraz proponowane obszary mające znaczenie dla Wspólnoty Europejskiej, znajdujące się na liście, o której mowa w art. 27 ust. 3 pkt 1 tej ustawy;
@@ -60,7 +69,7 @@ Art. 137–152. (pominięte)
     - **b)** uzyskanie wymaganych ustawą opinii i uzgodnień,
     - **c)** zapewnienie możliwości udziału społeczeństwa w postępowaniu;
 
-- **9)** organie administracji – rozumie się przez to: o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 545 i 834);
+- **9)** organie administracji – rozumie się przez to: o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747 oraz z 2025 r. poz. 1531);
     - **a)** ministrów, centralne organy administracji rządowej, wojewodów, działające w ich lub we własnym imieniu inne terenowe organy administracji rządowej, organy jednostek samorządu terytorialnego,
     - **b)** inne podmioty wykonujące zadania publiczne dotyczące środowiska i jego ochrony,
     - **c)** Pełnomocnika Rządu do spraw Centralnego Portu Komunikacyjnego – w zakresie określonym w art. 5 pkt 8 ustawy z dnia 10 maja 2018 r.
@@ -72,7 +81,7 @@ Art. 137–152. (pominięte)
     - **c)** ogłoszenie informacji przez obwieszczenie w sposób zwyczajowo przyjęty w miejscu planowanego przedsięwzięcia, a w przypadku projektu dokumentu wymagającego udziału społeczeństwa – w prasie o odpowiednim do rodzaju dokumentu zasięgu,
     - **d)** w przypadku gdy siedziba organu właściwego w sprawie mieści się na terenie innej gminy niż gmina właściwa miejscowo ze względu na przedmiot postępowania – także przez ogłoszenie w prasie lub w sposób zwyczajowo przyjęty w miejscowości lub miejscowościach właściwych ze względu na przedmiot postępowania;
 
-- **12)** powierzchni ziemi – rozumie się przez to powierzchnię ziemi w rozumieniu ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54 i 834);
+- **12)** powierzchni ziemi – rozumie się przez to powierzchnię ziemi w rozumieniu ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, z późn. zm. );
 - **13)** przedsięwzięciu – rozumie się przez to zamierzenie budowlane lub inną ingerencję w środowisko polegającą na przekształceniu lub zmianie sposobu wykorzystania terenu, w tym również na wydobywaniu kopalin; przedsięwzięcia powiązane technologicznie kwalifikuje się jako jedno przedsięwzięcie, także jeżeli są one realizowane przez różne podmioty;
 - **14)** strategicznej ocenie oddziaływania na środowisko – rozumie się przez to postępowanie w sprawie oceny oddziaływania na środowisko skutków realizacji polityki, strategii, planu lub programu, obejmujące w szczególności:
     - **a)** uzgodnienie zakresu i stopnia szczegółowości informacji zawartych w prognozie oddziaływania na środowisko,
@@ -106,11 +115,11 @@ Art. 137–152. (pominięte)
 
 2. Przepis ust. 1 nie dotyczy opinii lub uzgodnień dokonywanych przez organy jednostek samorządu terytorialnego.
 
-**Art. 7.** Za wymagane ustawą opinie właściwych organów Państwowej Inspekcji Sanitarnej oraz uzgodnienia z nimi nie pobiera się opłat, o których mowa w art. 36 ust. 1 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416).
+**Art. 7.** Za wymagane ustawą opinie właściwych organów Państwowej Inspekcji Sanitarnej oraz uzgodnienia z nimi nie pobiera się opłat, o których mowa w art. 36 ust. 1 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416 oraz z 2026 r. poz. 605).
 
 **Art. 7a.**
 
-1. Przepisy ustawy dotyczące strategicznej inwestycji w sektorze naftowym realizowanej na podstawie ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2024 r. poz. 405 i 834), zwanej dalej „strategiczną inwestycją w sektorze naftowym”, stosuje się również odpowiednio do inwestycji w zakresie Krajowego Centrum Przetwarzania Danych w rozumieniu ustawy z dnia 7 lipca 2023 r. o przygotowaniu i realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych (Dz. U. poz. 1501).
+1. Przepisy ustawy dotyczące strategicznej inwestycji w sektorze naftowym realizowanej na podstawie ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2024 r. poz. 1839), zwanej dalej „strategiczną inwestycją w sektorze naftowym”, stosuje się również odpowiednio do inwestycji w zakresie Krajowego Centrum Przetwarzania Danych w rozumieniu ustawy z dnia 7 lipca 2023 r. o przygotowaniu i realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych (Dz. U. poz. 1501).
 
 2. Przepisy ustawy dotyczące decyzji o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym wydawanej na podstawie ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym stosuje się również odpowiednio do decyzji o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych, o której mowa w ustawie z dnia 7 lipca 2023 r. o przygotowaniu i realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych.
 
@@ -126,7 +135,7 @@ Art. 137–152. (pominięte)
 
 2. Władze publiczne są obowiązane do udzielania niezbędnej pomocy i wskazówek przy wyszukiwaniu informacji o środowisku i jego ochronie.
 
-3. Tryb udostępniania informacji o środowisku i jego ochronie w odniesieniu do i Senatu określają ich regulaminy.
+3. Tryb udostępniania informacji o środowisku i jego ochronie w odniesieniu do Sejmu i Senatu określają ich regulaminy.
 
 **Art. 9.**
 
@@ -156,17 +165,17 @@ Art. 137–152. (pominięte)
 2. Bez pisemnego wniosku udostępnia się:
 
 - **1)** informację niewymagającą wyszukiwania;
-- **2)** w przypadku wystąpienia klęski żywiołowej, innej katastrofy naturalnej lub awarii technicznej, o których mowa w ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897), lub innego bezpośredniego zagrożenia dla zdrowia ludzi lub środowiska, spowodowanego działalnością człowieka lub przyczynami naturalnymi – informacje znajdujące się w posiadaniu władz publicznych lub informacje przeznaczone dla władz publicznych, umożliwiające osobom, które mogą ucierpieć w wyniku tego zagrożenia, podjęcie działań w celu zapobieżenia lub zminimalizowania szkód wynikających z tego zagrożenia.
+- **2)** w przypadku wystąpienia klęski żywiołowej, innej katastrofy naturalnej lub awarii technicznej, o których mowa w ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2025 r. poz. 112), lub innego bezpośredniego zagrożenia dla zdrowia ludzi lub środowiska, spowodowanego działalnością człowieka lub przyczynami naturalnymi – informacje znajdujące się w posiadaniu władz publicznych lub informacje przeznaczone dla władz publicznych, umożliwiające osobom, które mogą ucierpieć w wyniku tego zagrożenia, podjęcie działań w celu zapobieżenia lub zminimalizowania szkód wynikających z tego zagrożenia.
 
 **Art. 13.** Od podmiotu żądającego informacji o środowisku i jego ochronie nie wymaga się wykazania interesu prawnego lub faktycznego.
 
 **Art. 14.**
 
-1. Władze publiczne udostępniają informację o środowisku i jego ochronie bez zbędnej zwłoki, nie później niż w ciągu miesiąca od dnia otrzymania wniosku.
+1. Władze publiczne udostępniają informację o środowisku i jego ochronie bez zbędnej zwłoki, niepóźniej niż w ciągu miesiąca od dnia otrzymania wniosku.
 
 2. Termin, o którym mowa w ust. 1, może zostać przedłużony do 2 miesięcy ze względu na stopień skomplikowania sprawy. W tym przypadku przepisy art. 35 § 5 i art. 36 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
 
-3. Dokumenty, o których dane są zamieszczane w publicznie dostępnych wykazach, o których mowa w art. 21 ust. 1, udostępnia się niezwłocznie, jednak nie później niż w terminie 3 dni od dnia złożenia wniosku.
+3. Dokumenty, o których dane są zamieszczane w publicznie dostępnych wykazach, o których mowa w art. 21 ust. 1, udostępnia się niezwłocznie, jednak niepóźniej niż w terminie 3 dni od dnia złożenia wniosku.
 
 4. Informacje, o których mowa w art. 12 ust. 2 pkt 2, udostępnia się w dniu złożenia wniosku.
 
@@ -188,7 +197,7 @@ Art. 137–152. (pominięte)
 
 - **1)** ochronę danych przewidzianą przepisami o ochronie informacji niejawnych;
 - **2)** przebieg toczącego się postępowania sądowego, dyscyplinarnego lub karnego;
-- **3)** prawa własności intelektualnej, o których mowa w ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2022 r. poz. 2509) lub w ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170);
+- **3)** prawa własności intelektualnej, o których mowa w ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2025 r. poz. 24) lub w ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170);
 - **4)** ochronę danych osobowych, dotyczących osób trzecich, jeżeli jest ona przewidziana odrębnymi przepisami prawa;
 - **5)** ochronę informacji lub danych, dostarczonych przez osoby trzecie, jeżeli osoby te, nie mając obowiązku ich dostarczenia i nie mogąc być takim obowiązkiem obciążone, dostarczyły je dobrowolnie, chyba że wyraziły zgodę na ich udostępnianie;
 - **6)** stan środowiska, którego informacja dotyczy, w szczególności przez ujawnienie ostoi lub siedliska roślin, zwierząt i grzybów objętych ochroną gatunkową;
@@ -204,7 +213,7 @@ Art. 137–152. (pominięte)
 - **3)** wniosek jest w sposób oczywisty niemożliwy do zrealizowania;
 - **4)** wniosek jest sformułowany w sposób zbyt ogólny.
 
-3. Wniosek o wyłączenie informacji z udostępniania, o którym mowa w ust. 1 pkt 7, może zostać złożony nie później niż w terminie 14 dni od dnia dostarczenia władzom publicznym informacji o wartości handlowej, w tym danych technologicznych, objętych tajemnicą przedsiębiorstwa.
+3. Wniosek o wyłączenie informacji z udostępniania, o którym mowa w ust. 1 pkt 7, może zostać złożony niepóźniej niż w terminie 14 dni od dnia dostarczenia władzom publicznym informacji o wartości handlowej, w tym danych technologicznych, objętych tajemnicą przedsiębiorstwa.
 
 4. Odmowa uwzględnienia wniosku o wyłączenie informacji z udostępniania, o którym mowa w ust. 1 pkt 7, następuje w drodze decyzji.
 
@@ -212,16 +221,22 @@ Art. 137–152. (pominięte)
 
 **Art. 18.** Przepisów art. 16 ust. 1 pkt 4–7 i 10 nie stosuje się, jeżeli informacja dotyczy:
 
+- **1)** ilości i rodzajów pyłów lub gazów wprowadzanych do powietrza oraz miejsca ich wprowadzania;
+- **2)** stanu, składu i ilości ścieków wprowadzanych do wód lub do ziemi oraz miejsca ich wprowadzania;
+- **3)** rodzaju i ilości wytwarzanych odpadów oraz miejsca ich wytwarzania;
+- **4)** poziomu emitowanego hałasu;
+- **5)** poziomu emitowanych pól elektromagnetycznych.
+
 **Art. 19.**
 
 1. Władze publiczne, odmawiając udostępnienia informacji o środowisku i jego ochronie na podstawie art. 16 ust. 2 pkt 1, podają nazwę podmiotu odpowiedzialnego za opracowanie danego dokumentu lub danych oraz informują o przewidywanym terminie ich opracowania.
 
-2. Jeżeli wniosek dotyczy informacji nieznajdującej się w posiadaniu władz publicznych, władze te niezwłocznie, nie później jednak niż w terminie 14 dni od dnia otrzymania wniosku:
+2. Jeżeli wniosek dotyczy informacji nieznajdującej się w posiadaniu władz publicznych, władze te niezwłocznie, niepóźniej jednak niż w terminie 14 dni od dnia otrzymania wniosku:
 
 - **1)** przekazują wniosek podmiotowi, w którego posiadaniu znajduje się żądana informacja, i powiadamiają o tym wnioskodawcę; przepis art. 65 § 1 zdanie drugie Kodeksu postępowania administracyjnego stosuje się odpowiednio;
 - **2)** zwracają wniosek wnioskodawcy, jeżeli nie można ustalić podmiotu, o którym mowa w pkt 1.
 
-3. Jeżeli wniosek jest sformułowany w sposób zbyt ogólny, władze publiczne niezwłocznie, jednak nie później niż w terminie 14 dni od dnia otrzymania wniosku, wzywają wnioskodawcę do uzupełnienia wniosku, udzielając stosownych wyjaśnień oraz niezbędnej pomocy i wskazówek co do właściwego sformułowania wniosku, w szczególności informują o możliwości skorzystania z publicznie dostępnych wykazów, o których mowa w art. 21 ust. 1. Uzupełnienie wniosku nie wyłącza możliwości odmowy udostępnienia informacji na podstawie art. 16 ust. 2 pkt 4.
+3. Jeżeli wniosek jest sformułowany w sposób zbyt ogólny, władze publiczne niezwłocznie, jednak niepóźniej niż w terminie 14 dni od dnia otrzymania wniosku, wzywają wnioskodawcę do uzupełnienia wniosku, udzielając stosownych wyjaśnień oraz niezbędnej pomocy i wskazówek co do właściwego sformułowania wniosku, w szczególności informują o możliwości skorzystania z publicznie dostępnych wykazów, o których mowa w art. 21 ust. 1. Uzupełnienie wniosku nie wyłącza możliwości odmowy udostępnienia informacji na podstawie art. 16 ust. 2 pkt 4.
 
 4. Jeżeli jest możliwe oddzielenie części informacji podlegającej wyłączeniu z udostępnienia z przyczyn, o których mowa w art. 16, udostępnia się pozostałą część informacji. Przepis art. 20 ust. 1 stosuje się odpowiednio.
 
@@ -229,7 +244,7 @@ Art. 137–152. (pominięte)
 
 1. Odmowa udostępnienia informacji o środowisku i jego ochronie następuje w drodze decyzji.
 
-2. Do skarg rozpatrywanych w postępowaniu o udostępnienie informacji o środowisku i jego ochronie stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 1634, 1705 i 1860), z tym że:
+2. Do skarg rozpatrywanych w postępowaniu o udostępnienie informacji o środowisku i jego ochronie stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143), z tym że:
 
 - **1)** przekazanie akt i odpowiedzi na skargę następuje w terminie 15 dni od dnia otrzymania skargi;
 - **2)** skargę rozpatruje się w terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
@@ -299,7 +314,7 @@ Art. 137–152. (pominięte)
     - **h)** (uchylona)
     - **i)** zgłoszeniach dokonywanych na podstawie art. 118 tej ustawy oraz decyzjach wydawanych na podstawie art. 118 i art. 118a tej ustawy;
 
-- **24a)** z zakresu ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. z 2023 r. poz. 1589):
+- **24a)** z zakresu ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. z 2023 r. poz. 1589 oraz z 2025 r. poz. 1795):
     - **a)** o zezwoleniach wydanych na podstawie art. 8 ust. 1–3 tej ustawy,
     - **b)** zawarte w Centralnym Rejestrze Danych o Inwazyjnych Gatunkach Obcych;
 
@@ -321,8 +336,8 @@ Art. 137–152. (pominięte)
     - **o)** decyzjach o przeniesienie praw i obowiązków wynikających z decyzji, o których mowa w art. 151 ust. 1 ustawy z dnia 14 grudnia 2012 r.
 
 - **26)** (uchylony)
-- **27)** z zakresu ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2024 r. poz. 399) – o wnioskach o wpis do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości i o wpisach do tego rejestru;
-- **28)** z zakresu ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029) o:
+- **27)** z zakresu ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2025 r. poz. 733) – o wnioskach o wpis do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości i o wpisach do tego rejestru;
+- **28)** z zakresu ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535 oraz z 2026 r. poz. 445 i 605) o:
     - **a)** wnioskach o wydanie pozwolenia i o pozwoleniach wodnoprawnych na pobór wód,
     - **b)** decyzjach nakazujących usunięcie drzew i krzewów,
     - **c)** wstępnej ocenie stanu środowiska wód morskich,
@@ -332,11 +347,11 @@ Art. 137–152. (pominięte)
     - **g)** wystąpieniach, o których mowa w art. 147 tej ustawy,
     - **h)** obszarach wód morskich objętych formami ochrony przyrody w rozumieniu ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
 
-- **29)** z zakresu ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2024 r. poz. 425) – o rejestrach poważnych awarii;
+- **29)** z zakresu ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2024 r. poz. 425 oraz z 2025 r. poz. 1863) – o rejestrach poważnych awarii;
 - **30)** o rejestrach, o których mowa w art. 6b, art. 15v, art. 34, art. 40, art. 50 i art. 50a ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2022 r. poz. 546);
 - **31)** o decyzjach określających szczegółowe warunki wydobywania kopaliny, o których mowa w art. 10 ust. 2 ustawy z dnia 27 lipca 2001 r. o zmianie ustawy – Prawo geologiczne i górnicze (Dz. U. poz. 1190);
 - **32)** o deklaracjach środowiskowych, o których mowa w ustawie z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. z 2022 r. poz. 2013);
-- **33)** z zakresu ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2023 r. poz. 589 i 2029) o:
+- **33)** z zakresu ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2025 r. poz. 1685 i 1863) o:
     - **a)** decyzjach odmawiających uwzględnienia sprzeciwu, o których mowa w art. 10 ust. 8 tej ustawy,
     - **b)** zezwoleniach, o których mowa w art. 51 tej ustawy,
     - **c)** decyzjach, o których mowa w art. 87 ust. 5 i art. 88 ust. 2 tej ustawy,
@@ -344,7 +359,7 @@ Art. 137–152. (pominięte)
     - **e)** sprawozdaniach z weryfikacji, o których mowa w art. 84 ust. 1 tej ustawy,
     - **f)** decyzjach o wymierzeniu kary pieniężnej, o których mowa w art. 102 ust. 1, art. 103 ust. 1–3, art. 104 ust. 1 i art. 105 tej ustawy;
 
-- **34)** z zakresu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2023 r. poz. 633, 1688 i 2029 oraz z 2024 r. poz. 834) o:
+- **34)** z zakresu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69) o:
     - **a)** koncesjach na poszukiwanie i rozpoznawanie złóż kopalin, koncesjach na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż, koncesjach na wydobywanie kopalin ze złóż, koncesjach na podziemne bezzbiornikowe magazynowanie substancji, koncesjach na podziemne składowanie odpadów oraz koncesjach na podziemne składowanie dwutlenku węgla, a także o decyzjach zatwierdzających projekty robót geologicznych wykonywanych w celu określenia warunków geologiczno-inżynierskich lub hydrogeologicznych na potrzeby udokumentowania kompleksu podziemnego składowania dwutlenku węgla,
     - **b)** danych zawartych w księdze rejestrowej rejestru obszarów górniczych i zamkniętych podziemnych składowisk dwutlenku węgla,
     - **c)** kartach informacyjnych złóż kopalin, o których mowa w przepisach wydanych na podstawie art. 97 ust. 1 pkt 1 i 2 tej ustawy,
@@ -367,7 +382,7 @@ Art. 137–152. (pominięte)
     - **a)** ewidencji wielkoobszarowych terenów zdegradowanych, o której mowa w art. 3 ust. 9 tej ustawy,
     - **b)** decyzjach w sprawie poprawy stanu środowiska na wielkoobszarowych terenach zdegradowanych, o których mowa w art. 8 ust. 1 tej ustawy, oraz decyzjach w sprawie zakończenia wykonania planu, o których mowa w art. 17 ust. 5 tej ustawy;
 
-- **38)** z zakresu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2024 r. poz. 1361, z późn. zm. ) o sprzeciwach regionalnego dyrektora ochrony środowiska, o których mowa w art. 160n ust. 9 tej ustawy.
+- **38)** z zakresu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2026 r. poz. 68 i 516) o sprzeciwach regionalnego dyrektora ochrony środowiska, o których mowa w art. 160n ust. 9 tej ustawy.
 
 3. W publicznie dostępnych wykazach mogą być też zamieszczane dane o innych dokumentach zawierających informacje o środowisku i jego ochronie.
 
@@ -442,7 +457,7 @@ Art. 137–152. (pominięte)
     - **d)** porozumienia dotyczące spraw objętych działem administracji rządowej – klimat,
     - **e)** (uchylona)
     - **f)** (uchylona)
-    - **g)** z zakresu ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673 oraz z 2024 r. poz. 834): – Krajowy program ograniczania zanieczyszczenia powietrza oraz jego aktualizacje, – inwentaryzacje emisji, – prognozy wielkości emisji, – raporty metodyczne IIR,
+    - **g)** z zakresu ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2026 r. poz. 526): – Krajowy program ograniczania zanieczyszczenia powietrza oraz jego aktualizacje, – inwentaryzacje emisji, – prognozy wielkości emisji, – raporty metodyczne IIR,
     - **h)** z zakresu ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska – sprawozdania dotyczące lokalizacji prowadzenia badań monitoringowych oraz danych uzyskanych w wyniku tych badań;
 
 - **1a)** przez ministra właściwego do spraw środowiska:
@@ -482,8 +497,8 @@ Art. 137–152. (pominięte)
     - **d)** informacje o wielkości i składzie izotopowym uwolnień substancji promieniotwórczych ze składowisk odpadów promieniotwórczych do środowiska,
     - **e)** informacje o zdarzeniach w składowiskach odpadów promieniotwórczych powodujących powstanie zagrożenia – z wyłączeniem informacji dotyczących ochrony fizycznej i zabezpieczeń materiałów jądrowych, a także informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji;
 
-- **10)** przez Prezesa Urzędu Dozoru Technicznego, z zakresu ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2023 r. poz. 1622 oraz z 2024 r. poz.
-- **834)** :
+- **10)** przez Prezesa Urzędu Dozoru Technicznego, z zakresu ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2024 r. poz. 1194 oraz z 2026 r. poz.
+- **252)** :
     - **a)** informacje o funkcjonowaniu urządzeń, o których mowa w przepisach wykonawczych wydanych na podstawie art. 5 ust. 4 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym, zainstalowanych i eksploatowanych w elektrowni jądrowej,
     - **b)** roczne oceny dotyczące funkcjonowania urządzeń, o których mowa w przepisach wykonawczych wydanych na podstawie art. 5 ust. 4 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym, zainstalowanych i eksploatowanych w elektrowni jądrowej – z wyłączeniem informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji.
 
@@ -508,18 +523,23 @@ Art. 137–152. (pominięte)
 
 1. Górne jednostkowe stawki opłat, o których mowa w art. 26 ust. 2, wynoszą:
 
-- **1)** za wyszukiwanie informacji – 10 zł, jeżeli wymaga wyszukiwania do dziesięciu dokumentów; opłata ulega zwiększeniu o nie więcej niż 1 zł za każdy kolejny dokument, jeżeli informacja wymaga wyszukiwania więcej niż dziesięciu dokumentów;
+- **1)** za wyszukiwanie informacji – 10 zł, jeżeli wymaga wyszukiwania do dziesięciu dokumentów; opłata ulega zwiększeniu o niewięcej niż 1 zł za każdy kolejny dokument, jeżeli informacja wymaga wyszukiwania więcej niż dziesięciu dokumentów;
 - **2)** za przekształcanie informacji w formę wskazaną we wniosku – 3 zł za każdy informatyczny nośnik danych;
 - **3)** za sporządzanie kopii dokumentów lub danych w formacie 210 mm × 297 mm (A4):
     - **a)** za stronę kopii czarno-białej – 0,60 zł,
     - **b)** za stronę kopii kolorowej – 6 zł.
 
-2. Za przesłanie kopii dokumentów lub danych drogą pocztową pobiera się opłatę za przesyłkę danego rodzaju i danej kategorii wagowej w wysokości podanej w obowiązującym cenniku usług powszechnych operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467), zwiększoną o:
+2. Za przesłanie kopii dokumentów lub danych drogą pocztową pobiera się opłatę za przesyłkę danego rodzaju i danej kategorii wagowej w wysokości podanej w obowiązującym cenniku usług powszechnych operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2026 r. poz. 558), zwiększoną o:
 
-- **1)** nie więcej niż 4 zł – za kopię dokumentów lub danych w formie wydruku lub kserokopii;
-- **2)** nie więcej niż 10 zł – za kopię dokumentów lub danych na informatycznym nośniku danych dostarczonym przez podmiot żądający informacji.
+- **1)** niewięcej niż 4 zł – za kopię dokumentów lub danych w formie wydruku lub kserokopii;
+- **2)** niewięcej niż 10 zł – za kopię dokumentów lub danych na informatycznym nośniku danych dostarczonym przez podmiot żądający informacji.
 
 **Art. 28.** Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe stawki opłat, o których mowa w art. 26 ust. 2,
+- **2)** współczynniki różnicujące wysokość opłat, o których mowa w art. 26 ust. 2,
+- **3)** sposób naliczania opłat, o których mowa w art. 26 ust. 2, z uwzględnieniem przekształcenia informacji w formę wskazaną we wniosku,
+- **4)** terminy i sposób uiszczania opłat, o których mowa w art. 26 ust. 2 – biorąc pod uwagę, że opłaty te nie powinny stanowić przeszkody w dostępie do informacji.
 
 ### DZIAŁ III Udział społeczeństwa w ochronie środowiska
 
@@ -564,7 +584,7 @@ Art. 137–152. (pominięte)
 - **1)** organ właściwy do wydania decyzji o środowiskowych uwarunkowaniach, najpóźniej do końca dnia roboczego następującego po dniu wystąpienia okoliczności uzasadniających podanie tych informacji do publicznej wiadomości;
 - **2)** organ gminy właściwej miejscowo ze względu na przedmiot postępowania w sprawie decyzji o środowiskowych uwarunkowaniach, najpóźniej do końca dnia roboczego następującego po dniu doręczenia wystąpienia o podanie informacji do publicznej wiadomości skierowanego przez organ właściwy do wydania tej decyzji.
 
-2. Organy, o których mowa w ust. 1, udostępniają informacje, o których mowa w art. 33 ust. 1, na swoich stronach podmiotowych w Biuletynie Informacji Publicznej przez okres nie krótszy niż jeden rok.
+2. Organy, o których mowa w ust. 1, udostępniają informacje, o których mowa w art. 33 ust. 1, na swoich stronach podmiotowych w Biuletynie Informacji Publicznej przez okres niekrótszy niż jeden rok.
 
 3. Organ gminy właściwej miejscowo ze względu na przedmiot postępowania w sprawie decyzji o środowiskowych uwarunkowaniach:
 
@@ -575,11 +595,18 @@ Art. 137–152. (pominięte)
 
 **Art. 34.** Uwagi i wnioski mogą być wnoszone:
 
+- **1)** w formie pisemnej;
+- **2)** ustnie do protokołu;
+- **3)** za pomocą środków komunikacji elektronicznej bez konieczności opatrywania ich kwalifikowanym podpisem elektronicznym.
+
 **Art. 35.** Uwagi lub wnioski złożone po upływie terminu, o którym mowa w art. 33 ust. 1 pkt 7, pozostawia się bez rozpatrzenia.
 
 **Art. 36.** Organ właściwy do wydania decyzji może przeprowadzić rozprawę administracyjną otwartą dla społeczeństwa. Przepis art. 91 § 3 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
 
 **Art. 37.** Organ prowadzący postępowanie:
+
+- **1)** rozpatruje uwagi i wnioski;
+- **2)** w uzasadnieniu decyzji, niezależnie od wymagań wynikających z przepisów Kodeksu postępowania administracyjnego, podaje informacje o udziale społeczeństwa w postępowaniu oraz o tym, w jaki sposób zostały wzięte pod uwagę i w jakim zakresie zostały uwzględnione uwagi i wnioski zgłoszone w związku z udziałem społeczeństwa.
 
 **Art. 38.** Organ właściwy do wydania decyzji podaje do publicznej wiadomości informację o wydanej decyzji i o możliwościach zapoznania się z jej treścią.
 
@@ -604,11 +631,21 @@ Art. 137–152. (pominięte)
 
 **Art. 40.** Uwagi i wnioski mogą być wnoszone:
 
+- **1)** w formie pisemnej;
+- **2)** ustnie do protokołu;
+- **3)** za pomocą środków komunikacji elektronicznej bez konieczności opatrywania ich kwalifikowanym podpisem elektronicznym.
+
 **Art. 41.** Uwagi lub wnioski złożone po upływie terminu, o którym mowa w art. 39 ust. 1 pkt 4, pozostawia się bez rozpatrzenia.
 
 **Art. 42.** Organ opracowujący projekt dokumentu wymagającego udziału społeczeństwa:
 
+- **1)** rozpatruje uwagi i wnioski;
+- **2)** dołącza do przyjętego dokumentu uzasadnienie zawierające informacje o udziale społeczeństwa w postępowaniu oraz o tym, w jaki sposób zostały wzięte pod uwagę i w jakim zakresie zostały uwzględnione uwagi i wnioski zgłoszone w związku z udziałem społeczeństwa.
+
 **Art. 43.** Organ opracowujący projekt dokumentu wymagającego udziału społeczeństwa podaje do publicznej wiadomości informację o przyjęciu dokumentu i o możliwościach zapoznania się z jego treścią oraz:
+
+- **1)** uzasadnieniem, o którym mowa w art. 42 pkt 2;
+- **2)** podsumowaniem, o którym mowa w art. 55 ust. 3 – w przypadku dokumentów, o których mowa w art. 46 i 47.
 
 #### Rozdział 4 Uprawnienia organizacji ekologicznych
 
@@ -654,6 +691,9 @@ Art. 137–152. (pominięte)
 
 **Art. 47a.** Przeprowadzenia strategicznej oceny oddziaływania na środowisko nie wymaga projekt dokumentu, o którym mowa w art. 46 ust. 1 pkt 1 i 2, oraz projekt zmiany takiego dokumentu, a także projekt, o którym mowa w art. 47 ust. 1:
 
+- **1)** przygotowywany wyłącznie dla celów obrony narodowej lub obrony cywilnej,
+- **2)** finansowy lub budżetowy – z wyłączeniem projektu, którego realizacja może spowodować znaczące oddziaływanie na obszar Natura 2000.
+
 **Art. 48.**
 
 1. Organ opracowujący projekt dokumentu, o którym mowa w art. 46 ust. 1 pkt 1 i 2, oraz projekt zmiany takiego dokumentu, może, po uzgodnieniu z właściwymi organami, o których mowa w art. 57 i art. 58, odstąpić od przeprowadzenia strategicznej oceny oddziaływania na środowisko, jeżeli stwierdzi, że realizacja postanowień takiego dokumentu albo jego zmiany nie spowoduje znaczącego oddziaływania na środowisko, w tym na obszary Natura 2000.
@@ -678,6 +718,21 @@ Art. 137–152. (pominięte)
 9. Nie można odstąpić od przeprowadzenia strategicznej oceny oddziaływania na środowisko dla projektu planu obszarów przyspieszonego rozwoju instalacji odnawialnego źródła energii w rozumieniu art. 2 pkt 19d ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, jeżeli wprowadza on nowe lub zmienia istniejące ustalenia związane z wyznaczaniem tych obszarów.
 
 **Art. 49.** Przy odstąpieniu od przeprowadzenia strategicznej oceny oddziaływania na środowisko, o którym mowa w art. 48 ust. 1–7, oraz przy ustalaniu, czy zachodzi potrzeba przeprowadzenia takiej oceny, zgodnie z art. 47, bierze się pod uwagę następujące uwarunkowania:
+
+- **1)** charakter działań przewidzianych w dokumentach, o których mowa w art. 46 i art. 47 ust. 1, w szczególności:
+    - **a)** stopień, w jakim dokument ustala ramy dla późniejszej realizacji przedsięwzięć, w odniesieniu do usytuowania, rodzaju i skali tych przedsięwzięć,
+    - **b)** powiązania z działaniami przewidzianymi w innych dokumentach,
+    - **c)** przydatność w uwzględnieniu aspektów środowiskowych, w szczególności w celu wspierania zrównoważonego rozwoju, oraz we wdrażaniu prawa wspólnotowego w dziedzinie ochrony środowiska,
+    - **d)** powiązania z problemami dotyczącymi ochrony środowiska;
+
+- **2)** rodzaj i skalę oddziaływania na środowisko, w szczególności:
+    - **a)** prawdopodobieństwo wystąpienia, czas trwania, zasięg, częstotliwość i odwracalność oddziaływań,
+    - **b)** prawdopodobieństwo wystąpienia oddziaływań skumulowanych lub transgranicznych,
+    - **c)** prawdopodobieństwo wystąpienia ryzyka dla zdrowia ludzi lub zagrożenia dla środowiska;
+
+- **3)** cechy obszaru objętego oddziaływaniem na środowisko, w szczególności: o ochronie przyrody oraz obszary podlegające ochronie zgodnie z prawem międzynarodowym.
+    - **a)** obszary o szczególnych właściwościach naturalnych lub posiadające znaczenie dla dziedzictwa kulturowego, wrażliwe na oddziaływania, istniejące przekroczenia standardów jakości środowiska lub intensywne wykorzystywanie terenu,
+    - **b)** formy ochrony przyrody w rozumieniu ustawy z dnia 16 kwietnia 2004 r.
 
 **Art. 50.** (uchylony)
 
@@ -743,9 +798,9 @@ Art. 137–152. (pominięte)
 
 2. Organ opracowujący projekt zapewnia możliwość udziału społeczeństwa, zgodnie z przepisami działu III rozdziałów 1 i 3, w strategicznej ocenie oddziaływania na środowisko.
 
-3. Do wnoszenia uwag i wniosków oraz opiniowania projektów planów ogólnych gmin oraz miejscowych planów zagospodarowania przestrzennego stosuje się przepisy ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm. ) oraz ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych. Wystąpienie o zmianę terminu na podstawie art. 25 ust. 1a ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym przez organy, o których mowa w art. 57 i art. 58 niniejszej ustawy, jest wiążące dla wójta, burmistrza albo prezydenta miasta.
+3. Do wnoszenia uwag i wniosków oraz opiniowania projektów planów ogólnych gmin oraz miejscowych planów zagospodarowania przestrzennego stosuje się przepisy ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2026 r. poz. 538) oraz ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych. Wystąpienie o zmianę terminu na podstawie art. 25 ust. 1a ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym przez organy, o których mowa w art. 57 i art. 58 niniejszej ustawy, jest wiążące dla wójta, burmistrza albo prezydenta miasta.
 
-4. Do wnoszenia uwag i wniosków oraz opiniowania projektów planów zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej stosuje się w zakresie nieuregulowanym w niniejszej ustawie przepisy ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2023 r. poz. 960, 1688 i 2029 oraz z 2024 r. poz. 731 i 834).
+4. Do wnoszenia uwag i wniosków oraz opiniowania projektów planów zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej stosuje się w zakresie nieuregulowanym w niniejszej ustawie przepisy ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125, z 2025 r. poz. 409, 1535 i 1668 oraz z 2026 r. poz. 252).
 
 **Art. 55.**
 
@@ -834,34 +889,35 @@ Art. 137–152. (pominięte)
 4. Przepisów ust. 1 i ust. 3 pkt 1 nie stosuje się do decyzji o środowiskowych uwarunkowaniach wydawanej dla:
 
 - **1)** drogi publicznej,
-- **2)** linii kolejowej, linii tramwajowej i metra realizowanych na podstawie ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i
-- **731)** ,
+- **2)** linii kolejowej, linii tramwajowej i metra realizowanych na podstawie ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2025 r. poz. 1234 oraz z 2026 r. poz. 41),
 - **3)** publicznych urządzeń służących do zaopatrzenia ludności w wodę,
 - **4)** publicznych urządzeń służących do przesyłania i odprowadzania ścieków,
 - **5)** przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin lub koncesji na wydobywanie kopalin ze złóż objętych własnością górniczą, a także koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż, o których mowa w ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, z wyjątkiem przedsięwzięć realizowanych na obszarach morskich,
-- **6)** inwestycji w zakresie terminalu realizowanej na podstawie ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2024 r. poz. 551 i 834) w zakresie zadań inwestycyjnych, o których mowa w art. 2 ust. 2 tej ustawy, oraz inwestycji towarzyszących, o których mowa w art. 38 tej ustawy, zwanej dalej „inwestycją w zakresie terminalu”,
+- **6)** inwestycji w zakresie terminalu realizowanej na podstawie ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2025 r. poz. 1222) w zakresie zadań inwestycyjnych, o których mowa w art. 2 ust. 2 tej ustawy, oraz inwestycji towarzyszących, o których mowa w art. 38 tej ustawy, zwanej dalej „inwestycją w zakresie terminalu”,
 - **7)** inwestycji związanej z regionalnymi sieciami szerokopasmowymi,
-- **8)** inwestycji realizowanej na podstawie ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2024 r. poz. 274),
-- **9)** inwestycji w zakresie budowy obiektów energetyki jądrowej lub inwestycji towarzyszących realizowanych na podstawie ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 412 i 834),
-- **10)** strategicznej inwestycji w zakresie sieci przesyłowej oraz inwestycji towarzyszącej realizowanych na podstawie ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 555 i 834),
+- **8)** inwestycji realizowanej na podstawie ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2026 r. poz. 104 i 436),
+- **9)** inwestycji w zakresie budowy obiektów energetyki jądrowej lub inwestycji towarzyszących realizowanych na podstawie ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2025 r. poz. 1156),
+- **10)** strategicznej inwestycji w zakresie sieci przesyłowej oraz inwestycji towarzyszącej realizowanych na podstawie ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199),
 - **11)** inwestycji w zakresie infrastruktury dostępowej realizowanej na podstawie ustawy z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską (Dz. U. z 2024 r. poz. 285),
-- **12)** Inwestycji lub Inwestycji Towarzyszącej realizowanych na podstawie ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 545 i 834),
-- **13)** inwestycji mieszkaniowej oraz inwestycji towarzyszących realizowanych na podstawie ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 195),
+- **12)** Inwestycji lub Inwestycji Towarzyszącej realizowanych na podstawie ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, [13) inwestycji mieszkaniowej oraz inwestycji towarzyszących realizowanych na podstawie ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2025 r. poz. 1754),]
 - **14)** strategicznej inwestycji w sektorze naftowym,
 - **15)** inwestycji w zakresie budowy Muzeum Westerplatte i Wojny 1939 – Oddziału Muzeum II Wojny Światowej w Gdańsku realizowanych na podstawie ustawy z dnia 19 lipca 2019 r. o inwestycjach w zakresie budowy Muzeum Westerplatte i Wojny 1939 – Oddziału Muzeum II Wojny Światowej w Gdańsku (Dz. U. z 2024 r. poz. 100),
-- **16)** inwestycji w zakresie budowy portu zewnętrznego realizowanej na podstawie ustawy z dnia 9 sierpnia 2019 r. o inwestycjach w zakresie budowy portów zewnętrznych (Dz. U. z 2024 r. poz. 133 i 834),
+- **16)** inwestycji w zakresie budowy portu zewnętrznego realizowanej na podstawie ustawy z dnia 9 sierpnia 2019 r. o inwestycjach w zakresie budowy portów zewnętrznych (Dz. U. z 2024 r. poz. 1852 oraz z 2025 r. poz. 409),
 - **17)** inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie realizowanych na podstawie ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie (Dz. U. z 2024 r. poz. 578),
 - **18)** przedsięwzięć realizowanych na podstawie ustawy z dnia 2 grudnia 2021 r. o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku (Dz. U. z 2024 r. poz. 75),
-- **19)** inwestycji w zakresie lotniska użytku publicznego realizowanej na podstawie ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2023 r. poz. 979 i 2029),
-- **20)** inwestycji realizowanych w interesie bezpieczeństwa i obronności w rozumieniu art. 2 pkt 9 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248 i 834) na terenach zamkniętych określonych przez Ministra Obrony Narodowej,
-- **21)** inwestycji w zakresie elektrowni szczytowo-pompowej realizowanej na podstawie ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących (Dz. U. poz. 1113),
-- **22)** inwestycji w zakresie infrastruktury portowej w rozumieniu ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz.
-- **1796)** przeznaczonej do obsługi budowy i eksploatacji morskich farm wiatrowych w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2024 r. poz. 182),
+- **19)** inwestycji w zakresie lotniska użytku publicznego realizowanej na podstawie ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464),
+- **20)** inwestycji realizowanych w interesie bezpieczeństwa i obronności w rozumieniu art. 2 pkt 9 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26, 426 i 635) na terenach zamkniętych określonych przez Ministra Obrony Narodowej,
+- **21)** inwestycji w zakresie elektrowni szczytowo-pompowej realizowanej na podstawie ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących (Dz. U. z 2025 r. poz. 264),
+- **22)** inwestycji w zakresie infrastruktury portowej w rozumieniu ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796 oraz z 2026 r. poz. 176) przeznaczonej do obsługi budowy i eksploatacji morskich farm wiatrowych w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2025 r. poz. 498 i 1535 oraz z 2026 r. poz. 516),
 - **23)** inwestycji w zakresie zespołów urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych – zwanych dalej „inwestycjami strategicznymi”.
 
 5. Przepisów ust. 1 i ust. 3 pkt 1 nie stosuje się również do urządzeń infrastruktury technicznej objętych pracami budowlanymi w celu usunięcia kolizji z planowaną do realizacji inwestycją strategiczną.
 
 **Art. 60.** Rada Ministrów, uwzględniając możliwe oddziaływanie na środowisko przedsięwzięć oraz uwarunkowania, o których mowa w art. 63 ust. 1, określi, w drodze rozporządzenia:
+
+- **1)** rodzaje przedsięwzięć mogących zawsze znacząco oddziaływać na środowisko;
+- **2)** rodzaje przedsięwzięć mogących potencjalnie znacząco oddziaływać na środowisko;
+- **3)** przypadki, gdy zmiany dokonywane w obiektach są kwalifikowane jako przedsięwzięcia, o których mowa w pkt 1 i 2.
 
 **Art. 61.**
 
@@ -986,7 +1042,7 @@ Art. 137–152. (pominięte)
 
 1c. W przypadku gdy dla planowanego przedsięwzięcia organ właściwy do wydania oceny wodnoprawnej stwierdzi konieczność przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko ze względu na możliwy negatywny wpływ tego przedsięwzięcia na możliwość osiągnięcia celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 i art. 61 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, zamiast opinii, o której mowa w ust. 1 pkt 4, dokonuje on uzgodnienia w drodze postanowienia. Postanowienie to można zaskarżyć w zażaleniu, o którym mowa w art. 65 ust. 2.
 
-1d. W przypadku gdy wnioskodawcą dla planowanych przedsięwzięć, o których mowa w art. 75 ust. 1 pkt 4, jest jednostka samorządu terytorialnego, dla której organem wykonawczym jest organ właściwy do wydania decyzji o środowiskowych uwarunkowaniach lub podmiot od niej zależny w rozumieniu art. 24m ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 609 i 721), regionalny dyrektor ochrony środowiska, stwierdzając konieczność przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko, zamiast opinii, o której mowa w ust. 1 pkt 1, dokonuje uzgodnienia w drodze postanowienia. Postanowienie to można zaskarżyć w zażaleniu, o którym mowa w art. 65 ust. 2.
+1d. W przypadku gdy wnioskodawcą dla planowanych przedsięwzięć, o których mowa w art. 75 ust. 1 pkt 4, jest jednostka samorządu terytorialnego, dla której organem wykonawczym jest organ właściwy do wydania decyzji o środowiskowych uwarunkowaniach lub podmiot od niej zależny w rozumieniu art. 24m ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153 i 1436 oraz z 2026 r. poz. 252), regionalny dyrektor ochrony środowiska, stwierdzając konieczność przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko, zamiast opinii, o której mowa w ust. 1 pkt 1, dokonuje uzgodnienia w drodze postanowienia. Postanowienie to można zaskarżyć w zażaleniu, o którym mowa w art. 65 ust. 2.
 
 2. Organ zasięgający opinii przedkłada:
 
@@ -1059,7 +1115,7 @@ Art. 137–152. (pominięte)
     - **a)** określenie założeń do: – ratowniczych badań zidentyfikowanych zabytków znajdujących się na obszarze planowanego przedsięwzięcia, odkrywanych w trakcie robót budowlanych, – programu zabezpieczenia istniejących zabytków przed negatywnym oddziaływaniem planowanego przedsięwzięcia oraz ochrony krajobrazu kulturowego,
     - **b)** analizę i ocenę możliwych zagrożeń i szkód dla zabytków chronionych na podstawie przepisów o ochronie zabytków i opiece nad zabytkami, w szczególności zabytków archeologicznych, w sąsiedztwie lub w bezpośrednim zasięgu oddziaływania planowanego przedsięwzięcia;
 
-- **10a)** dla instalacji do spalania paliw w celu wytwarzania energii elektrycznej, o elektrycznej mocy znamionowej nie mniejszej niż 300 MW ocenę gotowości instalacji do wychwytywania dwutlenku węgla, określoną na podstawie analizy:
+- **10a)** dla instalacji do spalania paliw w celu wytwarzania energii elektrycznej, o elektrycznej mocy znamionowej niemniejszej niż 300 MW ocenę gotowości instalacji do wychwytywania dwutlenku węgla, określoną na podstawie analizy:
     - **a)** dostępności podziemnych składowisk dwutlenku węgla,
     - **b)** wykonalności technicznej i ekonomicznej sieci transportowych dwutlenku węgla;
 
@@ -1109,6 +1165,9 @@ Art. 137–152. (pominięte)
 - **2)** format raportu o oddziaływaniu przedsięwzięcia na środowisko – kierując się potrzebą poszerzania dostępu do informacji o środowisku.
 
 **Art. 67.** Raport o oddziaływaniu przedsięwzięcia na środowisko, sporządzany w ramach oceny oddziaływania przedsięwzięcia na środowisko, stanowiącej część postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, oraz pozwoleń, o których mowa w art. 82 ust. 1 pkt 4b, powinien:
+
+- **1)** zawierać informacje, o których mowa w art. 66, określone ze szczegółowością i dokładnością odpowiednio do posiadanych danych wynikających z projektu budowlanego i innych informacji uzyskanych po wydaniu dla danego przedsięwzięcia decyzji o środowiskowych uwarunkowaniach oraz pozostałych wydanych decyzji, o których mowa w art. 72 ust. 1, jeżeli informacje te nie mogły być w tym zakresie przedstawione odpowiednio w raporcie o oddziaływaniu przedsięwzięcia na środowisko albo w karcie informacyjnej przedsięwzięcia;
+- **2)** określać stopień i sposób uwzględnienia wymagań dotyczących ochrony środowiska, zawartych w decyzji o środowiskowych uwarunkowaniach i decyzjach, o których mowa w art. 72 ust. 1, jeżeli były już wydane dla danego przedsięwzięcia.
 
 **Art. 68.**
 
@@ -1169,7 +1228,7 @@ Art. 137–152. (pominięte)
 
 1. Wydanie decyzji o środowiskowych uwarunkowaniach następuje przed uzyskaniem:
 
-- **1)** decyzji o pozwoleniu na budowę, decyzji o zatwierdzeniu projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego oraz decyzji o pozwoleniu na wznowienie robót budowlanych – wydawanych na podstawie ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725 i 834);
+- **1)** decyzji o pozwoleniu na budowę, decyzji o zatwierdzeniu projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego oraz decyzji o pozwoleniu na wznowienie robót budowlanych – wydawanych na podstawie ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2026 r. poz. 524 i 605);
 - **2)** decyzji o pozwoleniu na rozbiórkę obiektów jądrowych – wydawanej na podstawie ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
 - **3)** decyzji o warunkach zabudowy i zagospodarowania terenu – wydawanej na podstawie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
 - **3a)** decyzji o ustaleniu lokalizacji przedsięwzięcia – wydawanej na podstawie ustawy z dnia 2 grudnia 2021 r. o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku;
@@ -1181,19 +1240,19 @@ Art. 137–152. (pominięte)
 - **6)** pozwolenia wodnoprawnego na regulację wód, pozwolenia wodnoprawnego na wykonanie urządzeń wodnych oraz pozwolenia wodnoprawnego na wydobywanie z wód kamienia, żwiru, piasku oraz innych materiałów, wydawanych na podstawie ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
 - **7)** (uchylony)
 - **8)** decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów – wydawanej na podstawie ustawy z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2023 r. poz. 1197);
-- **9)** decyzji o zmianie lasu na użytek rolny – wydawanej na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2024 r. poz. 530);
+- **9)** decyzji o zmianie lasu na użytek rolny – wydawanej na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2025 r. poz. 567 i 1795);
 - **10)** decyzji o zezwoleniu na realizację inwestycji drogowej – wydawanej na podstawie ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311);
 - **11)** decyzji o ustaleniu lokalizacji linii kolejowej – wydawanej na podstawie ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
 - **12)** (uchylony)
-- **13)** decyzji o ustaleniu lokalizacji przedsięwzięć Euro 2012 – wydawanej na podstawie ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (Dz. U. z 2020 r. poz. 2008);
+- **13)** decyzji o ustaleniu lokalizacji przedsięwzięć Euro 2012 – wydawanej na podstawie ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (Dz. U. z 2020 r. poz. 2008 oraz z 2026 r. poz. 160);
 - **14)** decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego;
 - **15)** decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu wydawanej na podstawie ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu;
-- **16)** decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej – wydawanej na podstawie ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2024 r. poz. 604 i 834), o ile jest to wymagane;
+- **16)** decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej – wydawanej na podstawie ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2026 r. poz. 562), o ile jest to wymagane;
 - **17)** decyzji o zezwolenie na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych – wydawanej na podstawie ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. z 2022 r. poz. 2336);
 - **18)** decyzji o pozwoleniu na realizację inwestycji w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych;
 - **18a)** decyzji o ustaleniu lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej wydawanej na podstawie ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących;
 - **19)** zezwolenia na budowę obiektu jądrowego oraz zezwolenia na budowę składowiska odpadów promieniotwórczych, wydawanych na podstawie ustawy z dnia 29 listopada 2000 r. – Prawo atomowe;
-- **20)** decyzji o zezwoleniu na założenie lotniska – wydawanej na podstawie ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110 oraz z 2024 r. poz. 731);
+- **20)** decyzji o zezwoleniu na założenie lotniska – wydawanej na podstawie ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176 i 607);
 - **21)** zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów i zezwolenia na zbieranie i przetwarzanie odpadów wydawanych na podstawie ustawy z dnia 14 grudnia 2012 r. o odpadach;
 - **22)** decyzji o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowej oraz decyzji o ustaleniu lokalizacji inwestycji towarzyszącej wydawanych na podstawie ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych;
 - **23)** decyzji o zezwoleniu na realizację inwestycji w zakresie infrastruktury dostępowej wydawanej na podstawie ustawy z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską;
@@ -1247,11 +1306,11 @@ Art. 137–152. (pominięte)
 
 3. Decyzję o środowiskowych uwarunkowaniach dołącza się do wniosku o wydanie decyzji, o których mowa w ust. 1, oraz zgłoszenia, o którym mowa w ust. 1a. Złożenie wniosku lub dokonanie zgłoszenia następuje w terminie 6 lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach stała się ostateczna, z zastrzeżeniem ust. 4 i 4b.
 
-4. Złożenie wniosku lub dokonanie zgłoszenia może nastąpić w terminie 10 lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach stała się ostateczna, o ile strona, która złożyła wniosek o wydanie decyzji o środowiskowych uwarunkowaniach, lub podmiot, na który została przeniesiona ta decyzja, otrzymali, przed upływem terminu, o którym mowa w ust. 3, od organu, który wydał decyzję o środowiskowych uwarunkowaniach w pierwszej instancji, stanowisko, że aktualne są warunki realizacji przedsięwzięcia określone w decyzji o środowiskowych uwarunkowaniach lub postanowieniu, o którym mowa w art. 90 ust. 1, jeżeli było wydane. Zajęcie stanowiska następuje na wniosek uwzględniający informacje na temat stanu środowiska i możliwości realizacji warunków wynikających z decyzji o środowiskowych uwarunkowaniach lub postanowienia, o którym mowa w art. 90 ust. 1, jeżeli było wydane. Wniosek, o którym mowa w zdaniu drugim, składa się do organu nie wcześniej niż po upływie 5 lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach stała się ostateczna.
+4. Złożenie wniosku lub dokonanie zgłoszenia może nastąpić w terminie 10 lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach stała się ostateczna, o ile strona, która złożyła wniosek o wydanie decyzji o środowiskowych uwarunkowaniach, lub podmiot, na który została przeniesiona ta decyzja, otrzymali, przed upływem terminu, o którym mowa w ust. 3, od organu, który wydał decyzję o środowiskowych uwarunkowaniach w pierwszej instancji, stanowisko, że aktualne są warunki realizacji przedsięwzięcia określone w decyzji o środowiskowych uwarunkowaniach lub postanowieniu, o którym mowa w art. 90 ust. 1, jeżeli było wydane. Zajęcie stanowiska następuje na wniosek uwzględniający informacje na temat stanu środowiska i możliwości realizacji warunków wynikających z decyzji o środowiskowych uwarunkowaniach lub postanowienia, o którym mowa w art. 90 ust. 1, jeżeli było wydane. Wniosek, o którym mowa w zdaniu drugim, składa się do organu niewcześniej niż po upływie 5 lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach stała się ostateczna.
 
 4a. Zajęcie stanowiska następuje w drodze postanowienia, na które przysługuje zażalenie.
 
-4b. Złożenie wniosku o wydanie decyzji, o których mowa w ust. 1, wydawanych dla obiektu energetyki jądrowej lub inwestycji towarzyszącej, dla inwestycji w zakresie terminalu, a także dla inwestycji w zakresie morskiej farmy wiatrowej oraz zespołu urządzeń służących do wyprowadzenia mocy z morskiej farmy wiatrowej w rozumieniu odpowiednio art. 3 pkt 3 i 13 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2024 r. poz. 182), może nastąpić w terminie 10 lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach stała się ostateczna.
+4b. Złożenie wniosku o wydanie decyzji, o których mowa w ust. 1, wydawanych dla obiektu energetyki jądrowej lub inwestycji towarzyszącej, dla inwestycji w zakresie terminalu, a także dla inwestycji w zakresie morskiej farmy wiatrowej oraz zespołu urządzeń służących do wyprowadzenia mocy z morskiej farmy wiatrowej w rozumieniu odpowiednio art. 3 pkt 3 i 13 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, może nastąpić w terminie 10 lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach stała się ostateczna.
 
 5. W okresie, o którym mowa w ust. 3, 4 i 4b, dla danego przedsięwzięcia wydaje się jedną decyzję o środowiskowych uwarunkowaniach. Jedną decyzję o środowiskowych uwarunkowaniach wydaje się także w przypadku, gdy dla danego przedsięwzięcia jest wymagane uzyskanie więcej niż jednej z decyzji, o których mowa w ust. 1, lub gdy wnioskodawca uzyskuje odrębnie decyzje dla poszczególnych etapów realizacji przedsięwzięcia.
 
@@ -1296,7 +1355,7 @@ Art. 137–152. (pominięte)
 1a. Wniosek o wydanie decyzji o środowiskowych uwarunkowaniach składa się w:
 
 - **1)** postaci papierowej albo
-- **2)** formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307).
+- **2)** formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160).
 
 2. Dla przedsięwzięcia, dla którego zgodnie z odrębnymi przepisami jest wymagana decyzja o zatwierdzeniu projektu scalenia lub wymiany gruntów, postępowanie w sprawie wydania decyzji o środowiskowych uwarunkowaniach wszczyna się z urzędu. Raport o oddziaływaniu przedsięwzięcia na środowisko albo kartę informacyjną przedsięwzięcia sporządza organ właściwy do wydania decyzji.
 
@@ -1317,7 +1376,7 @@ Art. 137–152. (pominięte)
 - **5a)** (uchylony)
 - **6)** wypis z rejestru gruntów lub inny dokument, w postaci papierowej lub elektronicznej, wydane przez organ prowadzący ewidencję gruntów i budynków, pozwalający na ustalenie stron postępowania, zawierający co najmniej numer działki ewidencyjnej oraz, o ile zostały ujawnione: numer jej księgi wieczystej, imię i nazwisko albo nazwę oraz adres podmiotu ewidencyjnego, obejmujący przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz obejmujący obszar, o którym mowa w ust. 3a zdanie drugie, z zastrzeżeniem ust. 1a;
 - **7)** (uchylony)
-- **8)** analizę kosztów i korzyści, o której mowa w art. 10a ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859).
+- **8)** analizę kosztów i korzyści, o której mowa w art. 10a ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r. poz. 43, 516 i 607).
 
 1a. Jeżeli liczba stron postępowania w sprawie wydania decyzji o środowiskowych uwarunkowaniach przekracza 10, nie wymaga się dołączenia dokumentu, o którym mowa w ust. 1 pkt 6. W razie wątpliwości organ może wezwać podmiot planujący podjęcie realizacji przedsięwzięcia do dołączenia dokumentu, o którym mowa w ust. 1 pkt 6, w zakresie niezbędnym do wykazania, że liczba stron postępowania przekracza 10.
 
@@ -1550,7 +1609,7 @@ Art. 137–152. (pominięte)
     - **c)** wymagania dotyczące ochrony środowiska konieczne do uwzględnienia w dokumentacji wymaganej do wydania decyzji, o których mowa w art. 72 ust. 1, w szczególności w projekcie zagospodarowania działki lub terenu lub projekcie architektoniczno-budowlanym, w przypadku decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14, 18, 23, 26, 27 i 29,
     - **d)** wymogi w zakresie przeciwdziałania skutkom awarii przemysłowych, w odniesieniu do przedsięwzięć zaliczanych do zakładów stwarzających zagrożenie wystąpienia poważnych awarii w rozumieniu ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska,
     - **e)** wymogi w zakresie ograniczania transgranicznego oddziaływania na środowisko w odniesieniu do przedsięwzięć, dla których przeprowadzono postępowanie w sprawie transgranicznego oddziaływania na środowisko,
-    - **f)** gotowość instalacji do wychwytywania dwutlenku węgla w przypadku instalacji do spalania paliw w celu wytwarzania energii elektrycznej, o elektrycznej mocy znamionowej nie mniejszej niż 300 MW;
+    - **f)** gotowość instalacji do wychwytywania dwutlenku węgla w przypadku instalacji do spalania paliw w celu wytwarzania energii elektrycznej, o elektrycznej mocy znamionowej niemniejszej niż 300 MW;
 
 - **2)** w przypadku gdy z oceny oddziaływania przedsięwzięcia na środowisko wynika potrzeba:
     - **a)** wykonania kompensacji przyrodniczej – stwierdza konieczność wykonania tej kompensacji,
@@ -1622,6 +1681,10 @@ Art. 137–152. (pominięte)
 
 **Art. 86.** Decyzja o środowiskowych uwarunkowaniach wiąże organy:
 
+- **1)** wydające decyzje określające warunki korzystania ze środowiska w zakresie, w jakim ma być uwzględniona przy wydawaniu tych decyzji;
+- **2)** wydające decyzje, o których mowa w art. 72 ust. 1;
+- **3)** przyjmujące zgłoszenia, o których mowa w art. 72 ust. 1a.
+
 **Art. 86a.** Organ właściwy do wydania decyzji o środowiskowych uwarunkowaniach przekazuje ostateczne decyzje, o których mowa w art. 71 ust. 1, wraz z kopią załączników organowi ochrony środowiska, o którym mowa w art. 378 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 **Art. 86b.** W przypadku gdy strona złożyła odwołanie od decyzji o środowiskowych uwarunkowaniach, a organ, który wydał decyzję, uzna, że odwołanie zasługuje w całości na uwzględnienie, stosuje się przepis art. 132 § 2 Kodeksu postępowania administracyjnego, z tym że zgodę na uchylenie lub zmianę decyzji zgodnie z żądaniem odwołania wyraża jedynie podmiot planujący podjęcie realizacji przedsięwzięcia.
@@ -1649,9 +1712,9 @@ Art. 137–152. (pominięte)
 
 1. Do skargi na decyzję o środowiskowych uwarunkowaniach stosuje się przepis art. 61 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, z tym że przez trudne do odwrócenia skutki, o których mowa w tym przepisie, rozumie się następstwa wynikające z podjęcia realizacji przedsięwzięcia mogącego znacząco oddziaływać na środowisko, dla którego wydano zaskarżoną decyzję.
 
-1a. Sąd doręcza wniosek o wstrzymanie wykonania decyzji o środowiskowych uwarunkowaniach innym stronom i uczestnikom postępowania, wyznaczając termin do złożenia odpowiedzi na wniosek, nie krótszy niż 7 dni.
+1a. Sąd doręcza wniosek o wstrzymanie wykonania decyzji o środowiskowych uwarunkowaniach innym stronom i uczestnikom postępowania, wyznaczając termin do złożenia odpowiedzi na wniosek, niekrótszy niż 7 dni.
 
-2. Sąd rozpatruje na rozprawie wniosek o wstrzymanie wykonania decyzji o środowiskowych uwarunkowaniach niezwłocznie, nie później jednak niż w terminie 30 dni od dnia wpływu wniosku do sądu.
+2. Sąd rozpatruje na rozprawie wniosek o wstrzymanie wykonania decyzji o środowiskowych uwarunkowaniach niezwłocznie, niepóźniej jednak niż w terminie 30 dni od dnia wpływu wniosku do sądu.
 
 2a. Sąd może wstrzymać wykonanie decyzji o środowiskowych uwarunkowaniach, jeżeli zostanie uprawdopodobnione, że trudne do odwrócenia skutki, o których mowa w ust. 1, nastąpią w konsekwencji określonego w skardze naruszenia prawa lub interesu prawnego.
 
@@ -1713,7 +1776,7 @@ Art. 137–152. (pominięte)
 
 - **1)** na wniosek podmiotu planującego podjęcie realizacji przedsięwzięcia, złożony do organu właściwego do wydania decyzji;
 - **2)** jeżeli organ właściwy do wydania decyzji stwierdzi, że we wniosku o wydanie decyzji zostały dokonane zmiany w stosunku do wymagań określonych w decyzji o środowiskowych uwarunkowaniach;
-- **3)** w przypadku braku możliwości stwierdzenia gotowości instalacji do wychwytywania dwutlenku węgla na etapie wydawania decyzji o środowiskowych uwarunkowaniach w przypadku instalacji do spalania paliw w celu wytwarzania energii elektrycznej, o elektrycznej mocy znamionowej nie mniejszej niż 300 MW.
+- **3)** w przypadku braku możliwości stwierdzenia gotowości instalacji do wychwytywania dwutlenku węgla na etapie wydawania decyzji o środowiskowych uwarunkowaniach w przypadku instalacji do spalania paliw w celu wytwarzania energii elektrycznej, o elektrycznej mocy znamionowej niemniejszej niż 300 MW.
 
 1a. W przypadku gdy decyzja o środowiskowych uwarunkowaniach stwierdza konieczność ponownego przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko, podmiot planujący podjęcie realizacji przedsięwzięcia przedkłada raport o oddziaływaniu przedsięwzięcia na środowisko.
 
@@ -1953,7 +2016,7 @@ Art. 137–152. (pominięte)
 
 2. Uzasadnienie decyzji powinno również zawierać informacje o tym w jaki sposób zostały wzięte pod uwagę i uwzględnione warunki realizacji przedsięwzięcia określone w postanowieniu, o którym mowa w art. 98 ust. 1.
 
-### Dział VA Szczególne rozwiązania dla niektórych inwestycji strategicznych
+### DZIAŁ VA Szczególne rozwiązania dla niektórych inwestycji strategicznych
 
 **Art. 103a.**
 
@@ -2003,8 +2066,7 @@ Art. 137–152. (pominięte)
     - **e)** ministrowi właściwemu do spraw informatyzacji – w przypadku inwestycji, o której mowa w art. 59a ust. 4 pkt 7,
     - **f)** ministrowi właściwemu do spraw aktywów państwowych – w przypadku inwestycji, o której mowa w art. 59a ust. 4 pkt 9, albo Pełnomocnikowi Rządu do spraw Strategicznej Infrastruktury Energetycznej – w przypadku gdy inwestycja ta związana jest z wykonywaniem uprawnień, o których mowa w art. 12a ust. 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne,
     - **g)** ministrowi właściwemu do spraw gospodarki morskiej – w przypadku inwestycji, o której mowa w art. 59a ust. 4 pkt 11 i 16,
-    - **h)** Pełnomocnikowi Rządu do spraw Centralnego Portu Komunikacyjnego – w przypadku inwestycji, o której mowa w art. 59a ust. 4 pkt 12,
-    - **i)** ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa – w przypadku inwestycji, o której mowa w art. 59a ust. 4 pkt 13,
+    - **h)** Pełnomocnikowi Rządu do spraw Centralnego Portu Komunikacyjnego – w przypadku inwestycji, o której mowa w art. 59a ust. 4 pkt 12, [i) ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa – w przypadku inwestycji, o której mowa w art. 59a ust. 4 pkt 13,]
     - **j)** ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego – w przypadku inwestycji, o której mowa w art. 59a ust. 4 pkt 15 i 17,
     - **k)** ministrowi właściwemu do spraw kultury fizycznej – w przypadku inwestycji, o której mowa w art. 59a ust. 4 pkt 18,
     - **l)** Ministrowi Obrony Narodowej – w przypadku inwestycji, o której mowa w art. 59a ust. 4 pkt 20,
@@ -2019,7 +2081,7 @@ Art. 137–152. (pominięte)
 
 - **2)** informuje organ właściwy do wydania decyzji, o której mowa w art. 72 ust. 1 pkt 1, 6, 10, 11, 14, 15, 17–18a, 20–23, 25 i 27, o powiadomieniu Komisji Europejskiej.
 
-13. Wydanie decyzji, o której mowa w art. 72 ust. 1 pkt 1, 6, 10, 11, 14, 15, 17– 18a, 20–23, 25 i 27, następuje nie wcześniej niż po upływie 7 dni od dnia powiadomienia Komisji Europejskiej.
+13. Wydanie decyzji, o której mowa w art. 72 ust. 1 pkt 1, 6, 10, 11, 14, 15, 17– 18a, 20–23, 25 i 27, następuje niewcześniej niż po upływie 7 dni od dnia powiadomienia Komisji Europejskiej.
 
 14. Organ właściwy do wydania decyzji, o której mowa w art. 72 ust. 1 pkt 1, 6, 10, 11, 14, 15, 17–18a, 20–23, 25 i 27, podaje do publicznej wiadomości treść tej decyzji.
 
@@ -2252,9 +2314,9 @@ Art. 137–152. (pominięte)
 
 1. Jeżeli jest to konieczne ze względu na szczególne potrzeby odpowiednio Generalnej Dyrekcji Ochrony Środowiska lub regionalnych dyrekcji ochrony środowiska, zatrudniony w nich członek korpusu służby cywilnej może zostać przeniesiony między tymi urzędami, z zachowaniem prawa do dotychczasowego wynagrodzenia, jeżeli wynagrodzenie przysługujące na nowym stanowisku pracy jest niższe od wynagrodzenia przysługującego dotychczas.
 
-2. Przeniesienie urzędnika służby cywilnej do innej miejscowości w przypadku, o którym mowa w ust. 1, może nastąpić na okres nie dłuższy niż 2 lata. Przeniesienie takie może nastąpić najwyżej dwa razy w czasie trwania stosunku pracy urzędnika służby cywilnej.
+2. Przeniesienie urzędnika służby cywilnej do innej miejscowości w przypadku, o którym mowa w ust. 1, może nastąpić na okres niedłuższy niż 2 lata. Przeniesienie takie może nastąpić najwyżej dwa razy w czasie trwania stosunku pracy urzędnika służby cywilnej.
 
-3. Przeniesienie pracownika służby cywilnej w przypadku, o którym mowa w ust. 1, może nastąpić na okres nie dłuższy niż 3 miesiące, z możliwością jednokrotnego przedłużenia tego okresu maksymalnie o 3 miesiące. Przeniesienie takie może nastąpić najwyżej dwa razy w czasie trwania stosunku pracy pracownika służby cywilnej.
+3. Przeniesienie pracownika służby cywilnej w przypadku, o którym mowa w ust. 1, może nastąpić na okres niedłuższy niż 3 miesiące, z możliwością jednokrotnego przedłużenia tego okresu maksymalnie o 3 miesiące. Przeniesienie takie może nastąpić najwyżej dwa razy w czasie trwania stosunku pracy pracownika służby cywilnej.
 
 4. Niedopuszczalne jest przeniesienie, o którym mowa w ust. 1, bez zgody członka korpusu służby cywilnej – kobiety w ciąży lub osoby będącej jedynym opiekunem dziecka w wieku do lat piętnastu, a także w przypadku gdy stoją temu na przeszkodzie ważne względy osobiste lub rodzinne członka korpusu służby cywilnej.
 
@@ -2271,7 +2333,7 @@ Art. 137–152. (pominięte)
 7. Członkowi korpusu służby cywilnej przeniesionemu do innego urzędu w innej miejscowości przysługuje także:
 
 - **1)** jednorazowe świadczenie z tytułu przeniesienia:
-    - **a)** na okres nie dłuższy niż miesiąc – w wysokości miesięcznego wynagrodzenia,
+    - **a)** na okres niedłuższy niż miesiąc – w wysokości miesięcznego wynagrodzenia,
     - **b)** na okres dłuższy niż miesiąc – w wysokości trzymiesięcznego wynagrodzenia;
 
 - **2)** zwrot kosztów przejazdu członka korpusu służby cywilnej i członków jego rodziny, związanego z przeniesieniem, a także zwrot kosztów przewozu mienia;
@@ -2320,13 +2382,13 @@ Art. 137–152. (pominięte)
 
 8. Członek zespołu oraz osoba, o której mowa w ust. 7, mają obowiązek zachowania w tajemnicy informacji dotyczących osób ubiegających się o stanowisko, uzyskanych w trakcie naboru.
 
-9. W toku naboru zespół wyłania nie więcej niż 3 kandydatów, których przedstawia ministrowi właściwemu do spraw środowiska.
+9. W toku naboru zespół wyłania niewięcej niż 3 kandydatów, których przedstawia ministrowi właściwemu do spraw środowiska.
 
 10. Z przeprowadzonego naboru zespół sporządza protokół zawierający:
 
 - **1)** nazwę i adres urzędu;
 - **2)** określenie stanowiska, na które był prowadzony nabór, oraz liczbę kandydatów;
-- **3)** imiona, nazwiska i adresy nie więcej niż 3 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze;
+- **3)** imiona, nazwiska i adresy niewięcej niż 3 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze;
 - **4)** informację o zastosowanych metodach i technikach naboru;
 - **5)** uzasadnienie dokonanego wyboru albo powody niewyłonienia kandydata;
 - **6)** skład zespołu.
@@ -2467,6 +2529,10 @@ Art. 137–152. (pominięte)
 
 **Art. 136.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy sposób funkcjonowania Krajowej Komisji oraz regionalnych komisji,
+- **2)** organizację komisji,
+- **3)** tryb działania komisji – kierując się potrzebą zapewnienia prawidłowego wypełniania przez te komisje ich ustawowych zadań.
+
 ### DZIAŁ VIIA Administracyjne kary pieniężne
 
 **Art. 136a.**
@@ -2498,7 +2564,7 @@ Art. 137–152. (pominięte)
 
 4. Wpływy z kar pieniężnych stanowią dochód budżetu państwa.
 
-**Art. 136c.** Do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760), z tym że uprawnienia organów podatkowych przysługują wojewódzkiemu inspektorowi ochrony środowiska.
+**Art. 136c.** Do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2026 r. poz. 622), z tym że uprawnienia organów podatkowych przysługują wojewódzkiemu inspektorowi ochrony środowiska.
 
 ### DZIAŁ VIII Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
@@ -2571,9 +2637,9 @@ Art. 137–152. (pominięte)
 
 1. Z dniem wejścia w życie niniejszej ustawy wojewódzki konserwator przyrody, o którym mowa w art. 93 ustawy zmienianej w art. 150 , staje się regionalnym konserwatorem przyrody, o którym mowa w art. 124 ust. 2 niniejszej ustawy.
 
-2. Od dnia ogłoszenia niniejszej ustawy wojewódzki konserwator przyrody pełni funkcję regionalnego dyrektora ochrony środowiska do czasu powołania regionalnego dyrektora ochrony środowiska na podstawie przepisów niniejszej ustawy, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+2. Od dnia ogłoszenia niniejszej ustawy wojewódzki konserwator przyrody pełni funkcję regionalnego dyrektora ochrony środowiska do czasu powołania regionalnego dyrektora ochrony środowiska na podstawie przepisów niniejszej ustawy, jednak niedłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-3. Od dnia ogłoszenia niniejszej ustawy Główny Konserwator Przyrody, o którym mowa w art. 92 ustawy zmienianej w art. 150 , pełni funkcję Generalnego Dyrektora Ochrony Środowiska do czasu powołania Generalnego Dyrektora Ochrony Środowiska na podstawie przepisów niniejszej ustawy, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+3. Od dnia ogłoszenia niniejszej ustawy Główny Konserwator Przyrody, o którym mowa w art. 92 ustawy zmienianej w art. 150 , pełni funkcję Generalnego Dyrektora Ochrony Środowiska do czasu powołania Generalnego Dyrektora Ochrony Środowiska na podstawie przepisów niniejszej ustawy, jednak niedłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 164.**
 
@@ -2584,7 +2650,7 @@ Art. 137–152. (pominięte)
 3. Stosunek pracy z pracownikami, o których mowa w ust. 1, wygasa po upływie 3 miesięcy od dnia wejścia w życie niniejszej ustawy:
 
 - **1)** jeżeli przed upływem 2 miesięcy od dnia wejścia w życie niniejszej ustawy nie zostaną im zaproponowane nowe warunki pracy lub płacy albo
-- **2)** w razie odmowy przyjęcia nowych warunków pracy lub płacy w terminie nie późniejszym niż 2 tygodnie przed upływem 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **2)** w razie odmowy przyjęcia nowych warunków pracy lub płacy w terminie niepóźniejszym niż 2 tygodnie przed upływem 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 4. Wcześniejsze rozwiązanie stosunku pracy z pracownikiem może nastąpić za wypowiedzeniem.
 
@@ -2601,7 +2667,7 @@ Art. 137–152. (pominięte)
 3. Stosunek pracy z pracownikami, o których mowa w ust. 1, wygasa po upływie 3 miesięcy od dnia wejścia w życie niniejszej ustawy:
 
 - **1)** jeżeli przed upływem 2 miesięcy od dnia wejścia w życie niniejszej ustawy nie zostaną im zaproponowane nowe warunki pracy lub płacy albo
-- **2)** w razie odmowy przyjęcia nowych warunków pracy lub płacy w terminie nie późniejszym niż 2 tygodnie przed upływem 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **2)** w razie odmowy przyjęcia nowych warunków pracy lub płacy w terminie niepóźniejszym niż 2 tygodnie przed upływem 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 4. Wcześniejsze rozwiązanie stosunku pracy z pracownikiem może nastąpić za wypowiedzeniem.
 
@@ -2656,12 +2722,12 @@ Art. 137–152. (pominięte)
 
 **Art. 173.**
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 19 ust. 8, art. 24 ust. 3, art. 30 ust. 3, art. 51 ust. 8, art. 112b i art. 399 ustawy zmienianej w art. 144 oraz na podstawie art. 4 ust. 3 ustawy zmienianej w art. 149 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 23 ust. 2, art. 24 ust. 5, art. 28, art. 60 i art. 136 niniejszej ustawy, na podstawie art. 112b ust. 1 ustawy zmienianej w art. 144 oraz na podstawie art. 4 ust. 3 ustawy zmienianej w art. 149 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 19 ust. 8, art. 24 ust. 3, art. 30 ust. 3, art. 51 ust. 8, art. 112b i art. 399 ustawy zmienianej w art. 144 oraz na podstawie art. 4 ust. 3 ustawy zmienianej w art. 149 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 23 ust. 2, art. 24 ust. 5, art. 28, art. 60 i art. 136 niniejszej ustawy, na podstawie art. 112b ust. 1 ustawy zmienianej w art. 144 oraz na podstawie art. 4 ust. 3 ustawy zmienianej w art. 149 w brzmieniu nadanym niniejszą ustawą, jednak niedłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
 2. Do czasu wydania przepisów, o których mowa w art. 60 niniejszej ustawy:
 
 - **1)** za przedsięwzięcia mogące zawsze znacząco oddziaływać na środowisko, określone w art. 59 ust. 1 pkt 1 niniejszej ustawy, uważa się określone w dotychczasowych przepisach przedsięwzięcia mogące znacząco oddziaływać na środowisko, wymagające sporządzenia raportu o oddziaływaniu na środowisko;
 - **2)** za przedsięwzięcia mogące potencjalnie znacząco oddziaływać na środowisko, określone w art. 59 ust. 1 pkt 2 niniejszej ustawy, uważa się określone w dotychczasowych przepisach przedsięwzięcia mogące znacząco oddziaływać na środowisko, dla których obowiązek sporządzenia raportu o oddziaływaniu na środowisko może być stwierdzony.
 
-**Art. 174.** Ustawa wchodzi w życie z dniem 15 listopada 2008 r., z wyjątkiem art. 121 i 123f ust. 1, które wchodzą w życie z dniem ogłoszenia .
+**Art. 174.** Ustawa wchodzi w życie z dniem 15 listopada 2008 r., z wyjątkiem art. 121 i 123 ust. 1, które wchodzą w życie z dniem ogłoszenia .
 

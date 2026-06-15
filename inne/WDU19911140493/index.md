@@ -8,7 +8,7 @@ pos: 493
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o organizowaniu i prowadzeniu działalności kulturalnej
@@ -617,6 +617,9 @@ source: "isap-pdf"
 
 **Art. 29a.** Nie ujawnia się:
 
+- **1)** wysokości wynagrodzenia podmiotu świadczącego usługi lub realizującego dostawy z zakresu działalności artystycznej lub twórczej,
+- **2)** danych osobowych podmiotu świadczącego usługi lub realizującego dostawy z zakresu działalności kulturalnej, związanych z posiadanymi prawami wyłącznymi – jeżeli do tych usług lub dostaw nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, a podmiot ten zastrzegł, że powyższe informacje nie mogą być udostępniane.
+
 **Art. 30.** (uchylony)
 
 **Art. 31.**
@@ -781,6 +784,10 @@ source: "isap-pdf"
 2. Wykreślenie hipotek zabezpieczających wierzytelności Skarbu Państwa, o których mowa w ust. 1, następuje na wniosek organizatora i podlega opłacie stałej w kwocie 30 zł.
 
 **Art. 45.** Tracą moc:
+
+- **1)** ustawa z dnia 9 kwietnia 1968 r. o zezwoleniach na publiczną działalność artystyczną, rozrywkową i sportową (Dz. U. poz. 64) – w zakresie dotyczącym imprez artystycznych i rozrywkowych;
+- **2)** ustawa z dnia 26 kwietnia 1984 r. o upowszechnianiu kultury oraz o prawach i obowiązkach pracowników upowszechniania kultury (Dz. U. poz. 129, z 1988 r. poz. 132, z 1989 r. poz. 24 i 192 oraz z 1990 r. poz. 198);
+- **3)** ustawa z dnia 28 grudnia 1984 r. o instytucjach artystycznych (Dz. U. poz. 304 oraz z 1989 r. poz. 192).
 
 **Art. 46.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

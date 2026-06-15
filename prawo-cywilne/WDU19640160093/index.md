@@ -2008,7 +2008,7 @@ source: pdf
 
 **Art. 396.** Jeżeli zostało zastrzeżone, że jednej lub obu stronom wolno od umowy odstąpić za zapłatą oznaczonej sumy (odstępne), oświadczenie o odstąpieniu jest skuteczne tylko wtedy, gdy zostało złożone jednocześnie z zapłatą odstępnego.
 
-## TYTUŁ IV (zawierający
+## TYTUŁ IV (zawierający art. 397–404 – uchylony)
 
 ## TYTUŁ V Bezpodstawne wzbogacenie
 

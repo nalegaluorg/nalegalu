@@ -8,7 +8,7 @@ pos: 371
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego Sejm Rzeczypospolitej Polskiej uznaje szczególne zasługi dla Polski tych wszystkich obywateli polskich, którzy walczyli o suwerenność i niepodległość Ojczyzny, nie szczędząc życia i zdrowia na polach walki zbrojnej - w formacjach Wojska Polskiego, armii sojuszniczych, a także w podziemnych organizacjach niepodległościowych i w działalności cywilnej - z narażeniem na represje.
@@ -41,14 +41,25 @@ Kombatantom oraz ofiarom represji należny jest głęboki szacunek wszystkich ro
 - **1)** pełnienie służby wojskowej w Wojsku Polskim lub w polskich formacjach wojskowych przy armiach sojuszniczych podczas działań wojennych prowadzonych na wszystkich frontach przez Państwo Polskie,
 - **2)** uczestniczenie w ramach polskich formacji i organizacji wojskowych w I wojnie światowej, w powstaniach narodowych i walkach o odzyskanie lub utrzymanie terytoriów Rzeczypospolitej Polskiej,
 - **3)** pełnienie służby w polskich podziemnych formacjach i organizacjach, w tym w działających w ramach tych organizacji oddziałach partyzanckich w okresie wojny 1939-1945,
-- **4)** pełnienie służby wojskowej w armiach sojuszniczych, a także w sojuszniczych organizacjach ruchu oporu w okresie wojny 1939-1945, z wyjątkiem formacji Ludowego Komisariatu Spraw Wewnętrznych Związku Socjalicji, które prowadziły działalność przeciwko ludności polskiej,
+- **4)** pełnienie służby wojskowej w armiach sojuszniczych, a także w sojuszniczych organizacjach ruchu oporu w okresie wojny 1939-1945, z wyjątkiem formacji Ludowego Komisariatu Spraw Wewnętrznych Związku Socjalistycznych Republik Radzieckich (NKWD) oraz innych specjalnych formacji, które prowadziły działalność przeciwko ludności polskiej,
 - **5)** pełnienie służby w polskich podziemnych formacjach wojskowych lub organizacjach niepodległościowych na terytorium Państwa Polskiego w jego granicach sprzed dnia 1 września 1939 r. oraz w granicach powojennych w okresie od wkroczenia armii Związku Socjalistycznych Republik Radzieckich (ZSRR) do końca 1956 r., jeżeli były to formacje lub organizacje stawiające sobie za cel niepodległość i suwerenność Rzeczypospolitej,
 - **6)** uczestniczenie w walkach w jednostkach Wojska Polskiego oraz zmilitaryzowanych służbach państwowych z oddziałami Ukraińskiej Powstańczej Armii oraz grupami Wehrwolfu,
 - **7)** uczestniczenie w tzw. Niszczycielskich Batalionach („Istriebitielnych Batalionach”) na dawnych ziemiach polskich w województwach: lwowskim, stanisławowskim, tarnopolskim i wołyńskim w obronie ludności polskiej przed ukraińskimi nacjonalistami, w latach 1944-1945.
 
 **Art. 2.** Za działalność równorzędną z działalnością kombatancką uznaje się:
 
+- **1)** pełnienie funkcji cywilnych we władzach powstań narodowych oraz w administracji podziemnego Państwa Polskiego w okresie wojny 1939-1945, a także w podziemnych niepodległościowych organizacjach cywilnych w latach 1945-1956,
+- **2)** udział w okresie do 31 grudnia 1945 r. w walkach o zachowanie suwerenności i niepodległości Państwa Polskiego w zmilitaryzowanych służbach państwowych,
+- **3)** prowadzenie w okresie wojny 1939-1945 zorganizowanego i profesjonalnego tajnego nauczania dzieci i młodzieży, 3 ) dawanie schronienia osobom narodowości żydowskiej lub innym osobom, za których ukrywanie w latach 1939-1945, ze względu na ich narodowość lub działalność na rzecz suwerenności i niepodległości Rzeczypospolitej Polskiej - groziła kara śmierci,
+- **4)** zaokrętowanie marynarzy polskich w charakterze członków załogi na statku bandery własnej lub bandery koalicyjnej, przeznaczonym do działań wojennych w okresie wojny 1939-1945,
+- **5)** uczestniczenie w latach 1914-1945 w walkach o polskość i wolność narodową Śląska, Wielkopolski, Ziemi Lubuskiej, Gdańska, Pomorza i Ziemi Kaszubskiej oraz Warmii i Mazur, a także innych ziem zagarniętych przez zaborców,
+- **6)** czynny udział w zbrojnym wystąpieniu o wolność i suwerenność Polski w Poznaniu w czerwcu 1956 r., który spowodował śmierć lub uszczerbek na zdrowiu,
+- **7)** poniesienie śmierci, uszkodzenie ciała lub rozstrój zdrowia na czas powyżej siedmiu dni w grudniu 1970 r. na Wybrzeżu wskutek działania wojska lub milicji podczas wystąpień wolnościowych.
+
 **Art. 3.** Do okresów działalności kombatanckiej lub równorzędnej z działalnością kombatancką zalicza się również czas przebywania:
+
+- **1)** w niewoli lub obozach internowanych oraz w obozach podległych Głównemu Zarządowi do Spraw Jeńców Wojennych i Internowanych (GUPWI) NKWD, a od marca 1946 r. MWD ZSRR, i obozach podległych Wydziałowi Obozów Kontrolno-Filtracyjnych NKWD, a od marca 1946 r. MWD ZSRR, spowodowanego działalnością kombatancką, o której mowa w art. 1 ust. 2,
+- **2)** w hitlerowskich więzieniach, obozach koncentracyjnych i ośrodkach zagłady oraz w innych miejscach odosobnienia, w których warunki pobytu nie różniły się od warunków w obozach koncentracyjnych, a osoby tam osadzone pozostawały w dyspozycji hitlerowskich władz bezpieczeństwa, a także w więzieniach i poprawczych obozach pracy oraz poprawczych koloniach pracy podległych Głównemu Zarządowi Obozów i Kolonii Poprawczych (GUŁag) NKWD, a od marca 1946 r. MWD ZSRR, a także w więzieniach lub innych miejscach odosobnienia na terytorium Polski - spowodowanego działalnością, o której mowa w art. 1 ust. 2 i art. 2.
 
 **Art. 4.**
 
@@ -125,7 +136,8 @@ Kombatantom oraz ofiarom represji należny jest głęboki szacunek wszystkich ro
 2. Na wniosek osoby zainteresowanej:
 
 - **1)** prezes sądu okręgowego, z zastrzeżeniem pkt 2 lit. a), potwierdza okoliczność, o której mowa w art. 4 ust. 1 pkt 4,
-- **2)** Prezes Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdza okoliczność, o której mowa: lub innym miejscu odosobnienia na terytorium Polski,
+- **2)** Prezes Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdza okoliczność, o której mowa:
+    - **a)** w art. 4 ust. 1 pkt 4, w przypadku osadzenia bez wyroku w więzieniu lub innym miejscu odosobnienia na terytorium Polski,
     - **b)** w art. 4 ust. 2.
 
 #### Rozdział 2 Uprawnienia pracownicze
@@ -150,7 +162,7 @@ Kombatantom oraz ofiarom represji należny jest głęboki szacunek wszystkich ro
 
 1. Kombatantom będącym inwalidami wojennymi lub wojskowymi przysługują świadczenia pieniężne i inne uprawnienia przewidziane w przepisach ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz.U. z 2002 r. Nr 9, poz. 87 i Nr 181, poz. 1515).
 
-1a. Członkom rodzin pozostałym po kombatantach będących inwalidami wojennymi lub wojskowymi przysługują świadczenia pieniężne i inne uprawnienia przewinia określonego w art. 23b tej ustawy.
+1a. Członkom rodzin pozostałym po kombatantach będących inwalidami wojennymi lub wojskowymi przysługują świadczenia pieniężne i inne uprawnienia przewidziane w przepisach ustawy, o której mowa w ust. 1, z wyłączeniem uprawnienia określonego w art. 23b tej ustawy.
 
 2. Świadczenia pieniężne i inne uprawnienia przewidziane w przepisach ustawy, o której mowa w ust. 1, z wyłączeniem uprawnienia określonego w art. 23b tej ustawy, przysługują na zasadach określonych w tych przepisach również:
 
@@ -179,7 +191,9 @@ Kombatantom oraz ofiarom represji należny jest głęboki szacunek wszystkich ro
 
 **Art. 15.**
 
-1. Kombatantom i innym osobom uprawnionym, pobierającym emeryturę lub rentę albo uposażenie w stanie spoczynku bądź uposażenie rodzinne, przysługuje dodatek, zwany dalej „dodatkiem kombatanckim”, w wysokości 144,25 zł miesięcznie. jest uwzględniany przy ustalaniu wskaźnika indywidualnego wymiaru świadczenia, określonego w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
+1. Kombatantom i innym osobom uprawnionym, pobierającym emeryturę lub rentę albo uposażenie w stanie spoczynku bądź uposażenie rodzinne, przysługuje dodatek, zwany dalej „dodatkiem kombatanckim”, w wysokości 144,25 zł miesięcznie.
+
+2. Dodatek, o którym mowa w ust. 1, przysługuje obok emerytury lub renty i nie jest uwzględniany przy ustalaniu wskaźnika indywidualnego wymiaru świadczenia, określonego w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
 
 3. W razie zbiegu prawa do kilku świadczeń o charakterze emerytalno-rentowym, przysługuje tylko jeden dodatek kombatancki, o którym mowa w ust. 1.
 
@@ -232,7 +246,9 @@ Kombatantom oraz ofiarom represji należny jest głęboki szacunek wszystkich ro
 
 2. Dla pokrycia kosztów pomocy pielęgnacyjnej, o której mowa w ust. 1, pomoc finansową w pierwszej kolejności przyznaje się kombatantom lub innym osobom uprawnionym, wymagającym takiej pomocy, którzy przekroczyli 70 lat życia.
 
-2a. Uprawnienia, o których mowa w ust. 1 i 2, przysługują również wdowom lub wdowcom - emerytom, rencistom lub inwalidom pozostałym po kombatantach i innych osobach uprawnionych. podziału środków na pomoc pieniężną, o której mowa w ust. 1, 2 i 2a.
+2a. Uprawnienia, o których mowa w ust. 1 i 2, przysługują również wdowom lub wdowcom - emerytom, rencistom lub inwalidom pozostałym po kombatantach i innych osobach uprawnionych.
+
+3. Kierownik Urzędu do Spraw Kombatantów i Osób Represjonowanych dokonuje podziału środków na pomoc pieniężną, o której mowa w ust. 1, 2 i 2a.
 
 4. Pomoc, o której mowa w ust. 1, jest zadaniem zleconym gminie. Pomoc tę przyznaje i udziela jej kierownik ośrodka pomocy społecznej działający z upoważnienia rady gminy. W przypadkach osób pobierających rentę inwalidy wojennego pomoc tę przyznają i udzielają jej - Związek Inwalidów Wojennych RP i Związek Ociemniałych Żołnierzy RP.
 
@@ -264,8 +280,9 @@ Kombatantom oraz ofiarom represji należny jest głęboki szacunek wszystkich ro
 
 - **1)** ulga w wysokości 37% w komunikacji krajowej przy przejazdach środkami publicznego transportu zbiorowego kolejowego w:
     - **a)** 1 i 2 klasie pocią gów osobowych i pospiesznych i autobusowego w komunikacji zwykłej i przyspieszonej - na podstawie biletów jednorazowych,
-    - **b)** 2 klasie pociągów innych niż osobowe i pospieszne - na podstawie biletów jednorazowych, rym mowa w art. 15,
+    - **b)** 2 klasie pociągów innych niż osobowe i pospieszne - na podstawie biletów jednorazowych,
 
+- **2)** dodatek kompensacyjny w wysokości 15% dodatku kombatanckiego, o którym mowa w art. 15,
 - **3)** ryczałt energetyczny w wysokości 50% taryfowych opłat za korzystanie z energii elektrycznej, gazowej i cieplnej na cele domowe, obliczony na podstawie norm ilościowych ustalonych przez Kierownika Urzędu do Spraw Kombatantów i Osób Represjonowanych, z uwzględnieniem pkt 4,
 - **4)** w 2002 r. ryczałt energetyczny za korzystanie z energii elektrycznej, gazowej i cieplnej na cele domowe w wysokości 88,23 zł.
 
@@ -322,7 +339,7 @@ Kombatantom oraz ofiarom represji należny jest głęboki szacunek wszystkich ro
 - **3)** w okresie od września 1939 r. do końca 1956 r. służyła w NKWD albo w innych organach represji ZSRR działających przeciwko Narodowi i Państwu Polskiemu,
 - **4)** w latach 1944-1956:
     - **a)** pełniła służbę lub funkcję i była zatrudniona w strukturach Urzędów Bezpieczeństwa, Służby Bezpieczeństwa i Informacji Wojskowej, a także nadzorujących je komórkach jednostek zwierzchnich związanych ze stosowaniem represji wobec osób działających na rzecz suwerenności i niepodległości Rzeczypospolitej Polskiej,
-    - **b)** była zatrudniona, pełniła służbę lub funkcję w jednostkach organizacyjnych lub na stanowiskach związanych ze stosowaniem represji wobec osób podejrzanych lub skazanych za działalność podjętą na rzecz suwerenności i niepodległości Rzeczypospolitej Polskiej: - w sądownictwie powszechnym lub wojskowym, - w służbie więziennej,
+    - **b)** była zatrudniona, pełniła służbę lub funkcję w jednostkach organizacyjnych lub na stanowiskach związanych ze stosowaniem represji wobec osób podejrzanych lub skazanych za działalność podjętą na rzecz suwerenności i niepodległości Rzeczypospolitej Polskiej: - w organach prokuratury i prokuraturze wojskowej, - w sądownictwie powszechnym lub wojskowym, - w służbie więziennej,
     - **c)** była zatrudniona, pełniła służbę lub funkcję w aparacie bezpieczeństwa publicznego poza strukturami Urzędów Bezpieczeństwa, Służby Bezpieczeństwa lub Informacji Wojskowej, jeżeli podczas i w związku z tą działalnością wykonywała zadania śledcze i operacyjne związane bezpośrednio ze zwalczaniem organizacji oraz osób działających na rzecz suwerenności i niepodległości Rzeczypospolitej Polskiej,
     - **d)** była funkcjonariuszem organów bądź jednostek organizacyjnych Polskiej Partii Robotniczej lub Polskiej Zjednoczonej Partii Robotniczej, do których właściwości rzeczowej - terenowej i centralnej - należał nadzór nad instytucjami, o których mowa w lit. a) i b), bądź nad zadaniami, o których mowa w lit. c),
 
@@ -341,7 +358,7 @@ Kombatantom oraz ofiarom represji należny jest głęboki szacunek wszystkich ro
 
 1. O spełnieniu warunków, o których mowa w art. 21, orzeka Kierownik Urzędu do Spraw Kombatantów i Osób Represjonowanych lub osoby przez niego upoważnione, na podstawie udokumentowanego wniosku zainteresowanej osoby oraz rekomendacji stowarzyszenia właściwego dla określonego rodzaju działalności kombatanckiej lub represji. Rekomendacji udziela się bez względu na to, czy osoba ubiegająca się o uprawnienia zgłosi zamiar wstąpienia do stowarzyszenia. Na podstawie decyzji o przyznaniu przez Kierownika uprawnień określonych w ustawie Urząd do Spraw Kombatantów i Osób Represjonowanych wydaje odpowiednie zaświadczenie.
 
-2. W trybie, o którym mowa w ust. 1, wydawane są zaświadczenia potwierdzające uprawnienia osób, o których mowa w art. 20 ust. 3, z tym że w przypadku gdy zmarły małżonek (małżonka) posiadał potwierdzone uprawnienia, rekomendacja nie jest wymagana. [3. Wnioski o przyznanie uprawnień z tytułów określonych w art. 1-4, z zastrzeżeniem ust. 4, mogą być kierowane, w trybie, o którym mowa w ust. 1, do dnia 31 grudnia 1998 r. przez osoby zamieszkałe na stałe w Polsce, a do dnia 31 grudnia 1999 r. przez osoby zamieszkałe poza granicami Polski. ] poz. 658.
+2. W trybie, o którym mowa w ust. 1, wydawane są zaświadczenia potwierdzające uprawnienia osób, o których mowa w art. 20 ust. 3, z tym że w przypadku gdy zmarły małżonek (małżonka) posiadał potwierdzone uprawnienia, rekomendacja nie jest wymagana. [3. Wnioski o przyznanie uprawnień z tytułów określonych w art. 1-4, z zastrzeżeniem ust. 4, mogą być kierowane, w trybie, o którym mowa w ust. 1, do dnia 31 grudnia 1998 r. przez osoby zamieszkałe na stałe w Polsce, a do dnia 31 grudnia 1999 r. przez osoby zamieszkałe poza granicami Polski. ] Ust. 3 w art. 22 niezgodny z Konstytucją - wyrok TK, Dz.U. z 2003 r. Nr 72, poz. 658.
 
 4. Wnioski o przyznanie uprawnień z tytułów określonych w art. 1 ust. 2 pkt 7 i w art. 2 pkt 7 mogą być kierowane w trybie, o którym mowa w ust. 1, do dnia 31 grudnia 1999 r.
 
@@ -365,7 +382,7 @@ Kombatantom oraz ofiarom represji należny jest głęboki szacunek wszystkich ro
 
 **Art. 24.**
 
-1. Świadczenia pieniężne przewidziane dla kombatantów i innych osób uprawnionych oraz pozostałych po nich członków rodzin, a także dodatek kompensacyjny określony w art. 20 ust. 2 pkt 2 i ust. 3 oraz ryczałt energetyczny określony w ków będących w dyspozycji tych organów i finansowane z budżetu państwa. Świadczenia te oraz dodatek kompensacyjny i ryczałt energetyczny wraz z odsetkami za opóźnienie w ustaleniu prawa do nich lub ich wypłaty oraz koszty obsługi podlegają refundacji na rzecz Funduszu Ubezpieczeń Społecznych oraz Funduszu Emerytalno-Rentowego Kasy Rolniczego Ubezpieczenia Społecznego z dotacji budżetu państwa.
+1. Świadczenia pieniężne przewidziane dla kombatantów i innych osób uprawnionych oraz pozostałych po nich członków rodzin, a także dodatek kompensacyjny określony w art. 20 ust. 2 pkt 2 i ust. 3 oraz ryczałt energetyczny określony w art. 20 ust. 2 pkt 3 i ust. 3 są wypłacane przez właściwe organy rentowe ze środków będących w dyspozycji tych organów i finansowane z budżetu państwa. Świadczenia te oraz dodatek kompensacyjny i ryczałt energetyczny wraz z odsetkami za opóźnienie w ustaleniu prawa do nich lub ich wypłaty oraz koszty obsługi podlegają refundacji na rzecz Funduszu Ubezpieczeń Społecznych oraz Funduszu Emerytalno-Rentowego Kasy Rolniczego Ubezpieczenia Społecznego z dotacji budżetu państwa.
 
 2. Świadczenia, dodatek kompensacyjny oraz ryczałt energetyczny, o których mowa w ust. 1, przysługujące osobom otrzymującym uposażenie w stanie spoczynku albo uposażenie rodzinne wypłacają ze środków budżetu państwa jednostki wypłacające te uposażenia. Jeżeli jednak osoby te są uprawnione także do pobierania świadczenia o charakterze rentowym, świadczenia, o których mowa w ust. 1, wypłaca właściwy organ rentowy.
 
@@ -393,6 +410,9 @@ Kombatantom oraz ofiarom represji należny jest głęboki szacunek wszystkich ro
 
 **Art. 26.** Osoby, o których mowa w art. 25, pozbawione prawomocną decyzją uprawnień kombatanckich tracą uprawnienia wynikające z ustawy, z wyjątkiem uprawnień, o których mowa w art. 12, z tym że osobom, które w dniu wejścia w życie ustawy pobierały emerytury, renty inwalidzkie lub renty rodzinne, zamiast tych świadczeń przyznaje się:
 
+- **1)** świadczenia na zasadach ogólnych, określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin lub w innych przepisach o zaopatrzeniu emerytalnym,
+- **2)** świadczenia w kwocie najniższej, jeżeli nie spełniają warunków do przyznania świadczeń, o których mowa w pkt 1; przepisy o zaopatrzeniu emerytalnym pracowników i ich rodzin stosuje się odpowiednio.
+
 **Art. 27.** Zaświadczenia i legitymacje o uprawnieniach kombatanckich, wystawione na podstawie dotychczasowych przepisów, do czasu wydania nowych zaświadczeń zachowują moc, chyba że została wydana decyzja o pozbawieniu uprawnień.
 
 **Art. 28.** (pominięty).
@@ -414,7 +434,7 @@ Kombatantom oraz ofiarom represji należny jest głęboki szacunek wszystkich ro
 
 **Art. 32.** (pominięty).
 
-**Art. 33.** Traci moc ustawa z dnia 26 maja 1982 r. o szczególnych uprawnieniach kombatantów (Dz.U. Nr 16, poz. 122 i Nr 40, poz. 269, z 1986 r. Nr 42, poz. 202 oraz z 1987 r. Nr 14, poz. 84 i Nr 33, poz. 180).
+**Art. 33.** (kursywa) Traci moc ustawa z dnia 26 maja 1982 r. o szczególnych uprawnieniach kombatantów (Dz.U. Nr 16, poz. 122 i Nr 40, poz. 269, z 1986 r. Nr 42, poz. 202 oraz z 1987 r. Nr 14, poz. 84 i Nr 33, poz. 180).
 
 **Art. 34.** Ustawa wchodzi w życie z dniem 1 stycznia 1991 r.
 

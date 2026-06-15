@@ -193,7 +193,8 @@ nauczyciel ten pełni funkcję przewodniczącego zespołu;
 W szczególnie uzasadnionych przypadkach przewodniczący zespołu nadzorującego może zezwolić zdającemu na opuszczenie sali egzaminacyjnej po zapewnieniu warunków wykluczających możliwość kontaktowania się zdającego z innymi osobami, z wyjątkiem osób udzielających pomocy medycznej.
 4. W czasie trwania części pisemnej egzaminu zawodowego zdającym nie udziela się żadnych wyjaśnień dotyczących zadań egzaminacyjnych ani ich nie komentuje.
 5. Odległość między stanowiskami egzaminacyjnymi powinna zapewniać samodzielną pracę zdających.
-§ 27. 1. W czasie trwania części pisemnej egzaminu zawodowego w sali egzaminacyjnej mogą przebywać wyłącznie zdający, przewodniczący zespołu egzaminacyjnego, osoby wchodzące w skład zespołu nadzorującego i obserwatorzy, o których mowa w § 16.
+§ 27. 1. W czasie trwania części pisemnej egzaminu zawodowego w sali egzaminacyjnej mogą przebywać wyłącznie zdający, przewodniczący zespołu egzaminacyjnego, osoby wchodzące w skład zespołu nadzorującego i obserwatorzy, o których
+§ 16.
 2. W sali egzaminacyjnej mogą przebywać także:
 1) osoba lub osoby, o których mowa w § 22 ust. 1 – w przypadku gdy część pisemna jest przeprowadzana z wykorzystaniem elektronicznego systemu przeprowadzania tego egzaminu;
 2) specjaliści z zakresu danego rodzaju niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym – w przypadku, o którym mowa w art. 44zzzf ust. 8 pkt 5 ustawy.

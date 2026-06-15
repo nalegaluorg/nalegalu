@@ -1,0 +1,400 @@
+---
+title: Ustawa z dnia 22 maja 2009 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych
+address: WDU20090950792
+eli: DU/2009/792
+publisher: DU
+year: 2009
+pos: 792
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych
+
+*USTAWA z dnia 22 maja 2009 r.*
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2009 nr 95 poz. 792 |
+| ISAP | WDU20090950792 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2009-05-22 |
+| Data wydania | 2009-06-19 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090950792) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/792/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2007 r. Nr 231, poz. 1702, z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w ust. 1 w pkt 3: Urz. UE L 30 z 31.1.2009, str. 16) w zakresie produkcji ziemniaka skrobiowego,”,
+    - **a)** lit. d otrzymuje brzmienie: „d) skrobi, w tym warunki i tryb udzielania płatności uzupełniającej określonej w przepisach rozporządzenia Rady (WE) nr 73/2009 z dnia 19 stycznia 2009 r. ustanawiającego wspólne zasady dla systemów wsparcia bezpośredniego dla rolników w ramach wspólnej polityki rolnej i ustanawiającego określone systemy wsparcia dla rolników, zmieniającego rozporządzenia (WE) nr 1290/2005, (WE) nr 247/2006, (WE) nr 378/2007 oraz uchylającego rozporządzenie (WE) nr 1782/2003 (Dz.
+    - **b)** uchyla się lit. e i f;
+
+- **2)** w art. 2 ust. 1 otrzymuje brzmienie: „1. Agencja jest państwową osobą prawną.”;
+- **3)** w art. 6 w ust. 3 dodaje się zdanie czwarte w brzmieniu: „Prezes Agencji powołuje i odwołuje dyrektorów oddziałów terenowych i ich zastępców.”;
+- **4)** w art. 8:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przychodami Agencji są:
+
+- **1)** środki budżetowe określone corocznie w ustawie budżetowej w formie dotacji podmiotowych i dotacji celowych;
+- **2)** odsetki od lokat bankowych;
+- **3)** inne przychody.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Agencja prowadzi rachunkowość zgodnie z odrębnymi przepisami, jeżeli przepisy ustawy nie stanowią inaczej.”;
+
+- **5)** w art. 11 w ust. 1:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) gromadzi, analizuje, przetwarza i udostępnia informacje dotyczące rynków produktów rolnych i żywnościowych;”,
+    - **b)** po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) prowadzi działania promocyjne i informacyjne mające na celu promowanie produktów rolnych i żywnościowych, metod ich produkcji a także systemów jakości produktów rolnych i żywnościowych, z wyłączeniem działań informacyjnych i promocyjnych dotyczących rolnictwa i gospodarki żywnościowej realizowanych przez ministra właściwego do spraw rolnictwa, rynków rolnych, rybołówstwa lub rozwoju wsi;”,
+    - **c)** pkt 4d otrzymuje brzmienie: „4d) realizuje programy krajowe mające na celu pomoc państwa dla podmiotów sektora rolnego oraz sektora rybackiego i ich grup, prowadzących działalność związaną z produkcją, przetwórstwem lub obrotem produktami rolnymi oraz produktami rybołówstwa, w zakresie określonym przepisami Unii Europejskiej lub dopuszczonym tymi przepisami do uregulowania przez państwo członkowskie Unii Europejskiej;”;
+
+- **6)** w art. 12 ust. 1 otrzymuje brzmienie: „1. Agencja realizuje płatności ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej lub Europejskiego Funduszu Rolniczego Gwarancji oraz prowadzi wyodrębnioną ewidencję księgową wydatków z tych funduszy.”;
+- **7)** w art. 13 w ust. 1 uchyla się pkt 3;
+- **8)** po art. 13a dodaje się art. 13b w brzmieniu: „Art. 13b. 1. Dyrektor oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania lub siedzibę producenta rolnego ustala, w drodze decyzji administracyjnej, kwoty nienależnie lub nadmiernie pobranych środków krajowych przeznaczonych na udzielanie dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany.
+
+2. Do należności, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty.
+
+3. Uprawnienia organu podatkowego określone w ustawie, o której mowa w ust. 2, przysługują:
+
+- **1)** dyrektorowi oddziału terenowego Agencji, jako organowi pierwszej instancji;
+- **2)** Prezesowi Agencji, jako organowi odwoławczemu od decyzji dyrektora oddziału terenowego Agencji.”;
+- **9)** w art. 20 w ust. 1 pkt 3 otrzymuje brzmienie: „3) czynności sprawdzające u producenta rolnego w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który złożył wniosek o udzielenie dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany.”;
+- **10)** w art. 28 uchyla się pkt 3 i 5;
+- **11)** uchyla się art. 29;
+- **12)** w art. 31:
+    - **a)** w ust. 2 w pkt 3 lit. b otrzymuje brzmienie: „b) ustalenia przez Komisję Europejską współczynnika redukcji kwot produkcyjnych cukru lub kwot produkcyjnych izoglukozy;”,
+    - **b)** ust. 8 otrzymuje brzmienie: „8. Decyzje, o których mowa w ust. 2 pkt 3 i 4, powinny uwzględniać proporcjonalnie interesy wszystkich plantatorów buraków cukrowych.”,
+    - **c)** po ust. 10 dodaje się ust. 10a–10i w brzmieniu: „10a. W przypadku cofnięcia zatwierdzenia producentowi cukru zgodnie z przepisami Unii Europejskiej, o których mowa w art. 30 ust. 1, minister właściwy do spraw rynków rolnych wydaje decyzję o cofnięciu przyznanej temu producentowi kwoty produkcyjnej cukru w zakresie kwoty niewykorzystanej przez niego do dnia, w którym decyzja o cofnięciu zatwierdzenia stała się ostateczna.
+
+10b. Kwotę produkcyjną cukru, o której mowa w ust. 10a, zwaną dalej „dostępną kwotą”, przyznaje się w drodze decyzji pozostałym producentom cukru, którym przyznano na dany rok gospodarczy kwotę produkcyjną cukru, na ich wniosek.
+
+10c. W przypadku wydania decyzji, o której mowa w ust. 10a, minister właściwy do spraw rynków rolnych przesyła producentom cukru, o których mowa w ust. 10b, pisemne informacje o możliwości ubiegania się o dostępną kwotę oraz o jej wysokości.
+
+10d. Wnioski o przyznanie dostępnej kwoty producenci cukru, o których mowa w ust. 10b, mogą składać w terminie 30 dni od dnia otrzymania pisemnej informacji, o której mowa w ust. 10c.
+
+10e. Wniosek, o którym mowa w ust. 10b, zawiera w szczególności:
+
+- **1)** nazwę, siedzibę i adres producenta cukru;
+- **2)** numer identyfikacji podatkowej (NIP) producenta cukru;
+- **3)** numer producenta cukru w Krajowym Rejestrze Sądowym lub w Ewidencji Działalności Gospodarczej;
+- **4)** wskazanie wysokości wnioskowanej kwoty produkcyjnej cukru;
+- **5)** informację o zatwierdzeniu producenta cukru;
+- **6)** zobowiązanie producenta cukru do przejęcia praw i obowiązków względem plantatorów dostarczających buraki cukrowe do producenta cukru, któremu została cofnięta kwota produkcyjna cukru.
+
+10f. Dostępną kwotę przyznaje się we wnioskowanej wysokości, z zastrzeżeniem ust. 10g.
+
+10g. Jeżeli suma wnioskowanych przez producentów cukru, o których mowa w ust. 10b, kwot produkcyjnych cukru przekracza wysokość dostępnej kwoty, danemu producentowi cukru przyznaje się kwotę produkcyjną cukru w wysokości stanowiącej iloczyn ilorazu wielkości dostępnej kwoty i sumy wnioskowanych przez producentów cukru kwot produkcyjnych cukru oraz wielkości wnioskowanej przez danego producenta cukru kwoty produkcyjnej cukru.
+
+10h. Decyzje, o których mowa w ust. 10b, stanowią podstawę do zmiany umów kontraktacji zawartych z dostawcami buraków cukrowych.
+
+10i. Przed podpisaniem umów kontraktacji producent cukru, któremu została przyznana kwota na podstawie ust. 10b, jest obowiązany do przeprowadzenia konsultacji ze społeczno-zawodową organizacją rolników reprezentującą plantatorów buraków cukrowych, działającą przy producencie cukru.”;
+
+- **13)** w art. 31b:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Producent cukru jest obowiązany do 20 grudnia roku poprzedzającego rok gospodarczy dokonać rozdzielenia limitu buraków cukrowych, o którym mowa w ust. 2, pomiędzy plantatorów buraków cukrowych, przy czym suma części rozdzielonych limitów musi być równa limitowi, o którym mowa w ust. 2, oraz powiadomić tych plantatorów o wielkości przysługujących im części tego limitu.”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Część limitu buraków cukrowych określona dla plantatora w wyniku podziału, o którym mowa w ust. 3, stanowi wielkość przysługującego plantatorowi prawa do uprawy i dostawy.”,
+    - **c)** dodaje się ust. 7 i 8 w brzmieniu: „7. Producent cukru ma obowiązek zawrzeć z plantatorem, któremu przysługuje prawo do uprawy i dostawy, umowę kontraktacji, w ramach której jest obowiązany odebrać określoną przysługującym plantatorowi prawem do uprawy i dostawy ilość buraków cukrowych.
+
+8. Producent cukru przed podjęciem czynności, o których mowa w ust. 2 i 3, oraz przed zawarciem z plantatorem umowy kontraktacji, o której mowa w ust. 7, jest zobowiązany do zasięgnięcia opinii ogólnokrajowej społeczno-zawodowej organizacji rolników reprezentującej interesy plantatorów buraków cukrowych.”;
+
+- **14)** w art. 33 w ust. 1 w pkt 1 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) wyrażeniem zgody na zawarcie umowy pomiędzy producentami cukru, dotyczącej wyprodukowania cukru przez jednego z tych producentów w ramach kwoty produkcyjnej producenta zlecającego produkcję;”;
+- **15)** po art. 34 dodaje się art. 34a–34k w brzmieniu: „Art. 34a. 1. Pomoc na rzecz dywersyfikacji, o której mowa w art. 33 ust. 1 pkt 5, zwana dalej „pomocą”, przyznawana zgodnie z krajowym programem restrukturyzacji zgłoszonym przez Agencję na podstawie art. 14 ust. 1 rozporządzenia Komisji (WE) nr 968/2006 z dnia 27 czerwca 2006 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 320/2006 ustanawiającego tymczasowy system restrukturyzacji przemysłu cukrowniczego we Wspólnocie (Dz. Urz. UE L 176 z 30.06.2006, str. 32, z późn. zm.), zwanym dalej „Krajowym Programem Restrukturyzacji”, jest przyznawana w ramach działań:
+- **1)** „Modernizacja gospodarstw rolnych”;
+- **2)** „Zwiększanie wartości dodanej podstawowej produkcji rolnej i leśnej”.
+
+2. Minister właściwy do spraw rynków rolnych ogłasza Krajowy Program Restrukturyzacji, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+3. W przypadku zmiany Krajowego Programu Restrukturyzacji minister właściwy do spraw rynków rolnych ogłasza, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, zmieniony Krajowy Program Restrukturyzacji.
+
+**Art. 34b.**
+
+1. O pomoc, o której mowa w art. 34a ust. 1 pkt 1, mogą się ubiegać producenci rolni w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, którzy:
+
+- **1)** jako plantatorzy buraków cukrowych, o których mowa w art. 3 ust. 6 tiret pierwsze rozporządzenia Rady (WE) nr 320/2006 z dnia 20 lutego 2006 r. ustanawiającego tymczasowy system restrukturyzacji przemysłu cukrowniczego we Wspólnocie i zmieniającego rozporządzenie (WE) nr 1290/2005 w sprawie finansowania wspólnej polityki rolnej (Dz. Urz. UE L 58 z 28.02.2006, str. 42, z późn. zm.), są uprawnieni do otrzymania pomocy określonej w art. 4 ust. 3 lit. b tego rozporządzenia;
+- **2)** prowadzą działalność rolniczą na obszarze gmin objętych procesem restrukturyzacji, wskazanych w Krajowym Programie Restrukturyzacji.
+
+2. Pomoc, o której mowa w art. 34a ust. 1 pkt 1, polega na refundacji części kosztów zakupu nowych maszyn lub urządzeń przeznaczonych do produkcji rolnej, z wyłączeniem maszyn i urządzeń przeznaczonych wyłącznie do uprawy buraków cukrowych.
+
+**Art. 34c.**
+
+1. O pomoc, o której mowa w art. 34a ust. 1 pkt 2, mogą się ubiegać przedsiębiorcy prowadzący przedsiębiorstwo określone w art. 28 ust. 3 rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.).
+
+2. Pomoc, o której mowa w art. 34a ust. 1 pkt 2, polega na refundacji części kosztów inwestycji w zakresie przetwórstwa na cele energetyczne produktów rolnych, określonych w załączniku I do Traktatu ustanawiającego Wspólnotę Europejską, realizowanych na obszarze gmin objętych procesem restrukturyzacji, wskazanych w Krajowym Programie Restrukturyzacji.
+
+**Art. 34d.** Pomoc jest przyznawana do wysokości środków przewidzianych w Krajowym Programie Restrukturyzacji na poszczególne działania, jeżeli są spełnione warunki określone w ustawie oraz w przepisach wydanych na podstawie art. 34k.
+
+**Art. 34e.**
+
+1. Pomoc jest przyznawana na wniosek.
+
+2. Wniosek o przyznanie pomocy składa się na formularzu opracowanym i udostępnionym przez Agencję.
+
+**Art. 34f.**
+
+1. Pomoc jest przyznawana na podstawie umowy zawieranej, pod rygorem nieważności, w formie pisemnej.
+
+2. Umowa, o której mowa w ust. 1, zawiera w szczególności:
+
+- **1)** oznaczenie przedmiotu i stron umowy;
+- **2)** określenie warunków i terminu zakupu, o którym mowa w art. 34b ust. 2, albo warunków, terminu i miejsca realizacji inwestycji, o której mowa w art. 34c ust. 2;
+- **3)** określenie wysokości pomocy;
+- **4)** określenie warunków i terminów wypłaty środków finansowych z tytułu pomocy;
+- **5)** określenie warunków rozwiązania umowy;
+- **6)** określenie warunków i sposobu zwrotu środków finansowych z tytułu pomocy, w przypadku gdy pomoc jest nienależna lub wypłacona w nadmiernej wysokości.
+
+3. Zmiana umowy, o której mowa w ust. 1, powodująca zwiększenie wysokości pomocy określonej w tej umowie jest nieważna.
+
+**Art. 34g.**
+
+1. Do postępowań w sprawach dotyczących przyznania pomocy nie stosuje się przepisów Kodeksu postępowania administracyjnego, z tym że przepisy dotyczące właściwości miejscowej organów, wyłączenia pracowników organu, doręczeń i wezwań, udostępniania akt, a także skarg i wniosków, stosuje się odpowiednio.
+
+2. W postępowaniu w sprawie dotyczącej przyznania pomocy Agencja:
+
+- **1)** stoi na straży praworządności;
+- **2)** jest obowiązana w sposób wyczerpujący rozpatrzyć cały materiał dowodowy;
+- **3)** udziela wnioskodawcom, na ich żądanie, niezbędnych pouczeń co do okoliczności faktycznych i prawnych, które mogą mieć wpływ na ustalenie ich praw i obowiązków będących przedmiotem postępowania;
+- **4)** zapewnia wnioskodawcom, na ich żądanie, czynny udział w każdym stadium postępowania.
+
+3. Wnioskodawcy oraz inne osoby uczestniczące w postępowaniu w sprawie dotyczącej przyznania pomocy są obowiązane przedstawiać dowody oraz dawać wyjaśnienia co do okoliczności sprawy zgodnie z prawdą i bez zatajania czegokolwiek; ciężar udowodnienia faktu spoczywa na osobie, która z tego faktu wywodzi skutki prawne.
+
+**Art. 34h.**
+
+1. W przypadku gdy nie są spełnione warunki przyznania pomocy, Agencja informuje wnioskodawcę, w formie pisemnej, o odmowie jej przyznania z podaniem przyczyn odmowy oraz o prawie wniesienia skargi do sądu administracyjnego.
+
+2. W przypadku, o którym mowa w ust. 1, wnioskodawcy przysługuje prawo wniesienia do sądu administracyjnego skargi w trybie i na zasadach określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm. ).
+
+**Art. 34i.**
+
+1. W przypadku śmierci wnioskodawcy będącego osobą fizyczną, spadkobierca wnioskodawcy może, na swój wniosek, wstąpić do toczącego się postępowania w sprawie dotyczącej przyznania pomocy, o której mowa w art. 34a ust. 1 pkt 1, na miejsce wnioskodawcy.
+
+2. W przypadku śmierci osoby fizycznej, której przyznano pomoc, o której mowa w art. 34a ust. 1 pkt 1, pomoc ta może być przyznana spadkobiercy, na jego wniosek, jeżeli:
+
+- **1)** spełnia on warunki przyznania pomocy;
+- **2)** zostaną przez niego przejęte zobowiązania spadkodawcy związane z przyznaną pomocą.
+
+3. Pomoc, o której mowa w art. 34a ust. 1 pkt 1, może być przyznana spadkobiercy, o którym mowa w ust. 1 albo 2, mimo niespełniania przez niego warunku określonego w art. 34b ust. 1 pkt 1.
+
+4. W przypadku gdy jest kilku spadkobierców pomoc, o której mowa w art. 34a ust. 1 pkt 1, jest przyznawana temu spadkobiercy, co do którego pozostali spadkobiercy wyrazili pisemną zgodę.
+
+**Art. 34j.**
+
+1. W przypadku śmierci wnioskodawcy będącego osobą fizyczną albo rozwiązania lub przekształcenia wnioskodawcy będącego osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej lub innego zdarzenia prawnego, w wyniku których zaistnieje następstwo prawne, albo w przypadku zbycia całości lub części przedsiębiorstwa wnioskodawcy, następca prawny wnioskodawcy albo nabywca tego przedsiębiorstwa lub części tego przedsiębiorstwa może, na swój wniosek, wstąpić do toczącego się postępowania w sprawie dotyczącej przyznania pomocy, o której mowa w art. 34a ust. 1 pkt 2, na miejsce wnioskodawcy.
+
+2. W przypadku śmierci osoby fizycznej, rozwiązania lub przekształcenia osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, którym przyznano pomoc, o której mowa w art. 34a ust. 1 pkt 2, lub innego zdarzenia prawnego, w wyniku których zaistnieje następstwo prawne, albo w przypadku zbycia całości lub części przedsiębiorstwa takiego podmiotu, następcy prawnemu takiego podmiotu albo nabywcy tego przedsiębiorstwa lub części tego przedsiębiorstwa pomoc ta może być przyznana, na jego wniosek, jeżeli:
+
+- **1)** spełnia on warunki przyznania pomocy;
+- **2)** zostaną przez niego przejęte zobowiązania takiego podmiotu związane z przyznaną pomocą.
+
+**Art. 34k.** Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania, wypłaty lub zwrotu pomocy w ramach działań objętych Krajowym Programem Restrukturyzacji, w tym szczegółowe wymagania, jakim powinna odpowiadać umowa, na podstawie której jest przyznawana pomoc, mając na względzie zapewnienie prawidłowej realizacji Krajowego Programu Restrukturyzacji oraz specyfikę poszczególnych działań.”;
+
+- **16)** po art. 37 dodaje się art. 37a w brzmieniu: „Art. 37a. Płatność uzupełniająca, o której mowa w art. 1 ust. 1 pkt 3 lit. d, składa się z części związanej z produkcją, zwanej dalej „płatnością związaną”, oraz z części niezwiązanej z produkcją, zwanej dalej „płatnością niezwiązaną”.”;
+- **17)** w art. 38:
+    - **a)** ust. 1–2 otrzymują brzmienie: „1. Płatność związana przysługuje producentowi rolnemu w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, dostarczającemu producentowi skrobi ziemniaczanej ziemniaki przeznaczone do produkcji skrobi ziemniaczanej, zawierające nie mniej niż 13 % skrobi, zwane dalej „ziemniakami skrobiowymi”, na podstawie umowy kontraktacji zawartej przez tego producenta rolnego albo grupę producentów rolnych, której jest członkiem. Płatność związana przysługuje za ilość skrobi zawartej w dostarczonych ziemniakach skrobiowych.
+
+1a. Płatność związana przysługuje również za ziemniaki skrobiowe, w których zawartość skrobi jest niższa niż 13 %, w przypadku, w którym stosuje się art. 5 ust. 3 akapit drugi rozporządzenia Komisji (WE) nr 2236/2003 z dnia 23 grudnia 2003 r. ustanawiającego szczegółowe zasady w celu stosowania rozporządzenia Komisji (WE) nr 1868/94 ustanawiającego system kwot na produkcję skrobi ziemniaczanej (Dz. Urz. UE L 339 z 24.12.2003, str. 45; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 41, str. 515).
+
+2. Płatność związana jest przyznawana przez dyrektora oddziału terenowego Agencji, w drodze decyzji administracyjnej, na wniosek producenta rolnego, złożony do Agencji na formularzu opracowanym i udostępnionym przez Agencję.”,
+
+- **b)** w ust. 3: – pkt 1 otrzymuje brzmienie: „1) imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy;”, – pkt 7 otrzymuje brzmienie: „7) numer identyfikacyjny wnioskodawcy nadany na podstawie ustawy z dnia 18 grudnia 2008 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności – jeżeli został nadany.”,
+- **c)** w ust. 4 uchyla się pkt 2,
+- **d)** ust. 5 i 6 otrzymują brzmienie: „5. Rada Ministrów określa corocznie, w drodze rozporządzenia, stawki płatności związanej, w zależności od zawartości skrobi w ziemniakach skrobiowych, mając na uwadze założenia do ustawy budżetowej na dany rok oraz zobowiązania Rzeczypospolitej Polskiej zawarte w umowach międzynarodowych.
+
+6. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, terminy składania wniosków o wypłatę płatności związanej, termin wypłaty tej płatności oraz sposób jej dokonywania, mając na względzie zapewnienie prawidłowości i terminowości jej wypłacania.”;
+
+- **18)** po art. 38 dodaje się art. 38a–38g w brzmieniu: „Art. 38a. Płatność niezwiązana przysługuje za rok gospodarczy producentowi rolnemu w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który:
+- **1)** jest wpisany do rejestru, o którym mowa w art. 38c ust. 1;
+- **2)** spełnia warunki do przyznania jednolitej płatności obszarowej, określone w przepisach o płatnościach w ramach systemów wsparcia bezpośredniego.
+
+**Art. 38b.**
+
+1. Prawo do uzyskania płatności niezwiązanej nabywa, z mocy ustawy, osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, która uzyskała płatność uzupełniającą, o której mowa w art. 1 ust. 1 pkt 3 lit. d, za ziemniaki skrobiowe dostarczone producentowi skrobi ziemniaczanej na podstawie umowy kontraktacji zawartej w roku gospodarczym 2007/2008.
+
+2. Dyrektor oddziału terenowego Agencji wydaje decyzję administracyjną w sprawie stwierdzenia nabycia prawa do uzyskania płatności niezwiązanej, na wniosek.
+
+3. Wniosek składa się do dyrektora oddziału terenowego Agencji, na formularzu opracowanym i udostępnionym przez Agencję.
+
+4. Wniosek zawiera w szczególności:
+
+- **1)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy;
+- **2)** numer identyfikacji podatkowej (NIP);
+- **3)** numer REGON – w przypadku gdy wnioskodawca jest osobą prawną;
+- **4)** numer identyfikacyjny wnioskodawcy nadany na podstawie ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności – jeżeli został nadany.
+
+5. Dyrektor oddziału terenowego Agencji wydaje decyzje administracyjne o:
+
+- **1)** stwierdzeniu nabycia prawa do uzyskania płatności niezwiązanej, jeżeli wnioskodawca spełnia warunki nabycia tego prawa z mocy ustawy;
+- **2)** odmowie stwierdzenia nabycia prawa do uzyskania płatności niezwiązanej, jeżeli wnioskodawca nie spełnia warunków nabycia tego prawa z mocy ustawy.
+
+6. W przypadku wydania decyzji administracyjnej, o której mowa w ust. 5 pkt 1, dyrektor oddziału terenowego Agencji wpisuje wnioskodawcę do rejestru, o którym mowa w art. 38c ust. 1.
+
+7. W decyzjach, o których mowa w ust. 5 pkt 1, dyrektor oddziału terenowego Agencji określa ilość ekwiwalentu skrobi związaną z prawem do uzyskania płatności niezwiązanej będącą podstawą do określenia wysokości płatności niezwiązanej, zwaną dalej „indywidualną ilością referencyjną”.
+
+8. Indywidualna ilość referencyjna stanowi ilość ekwiwalentu skrobi otrzymanego z ziemniaków skrobiowych dostarczonych w ramach umowy kontraktacji zawartej na rok gospodarczy 2007/2008, dla której producent rolny lub grupa producentów rolnych, której jest członkiem, uzyskała płatność uzupełniającą, o której mowa w art. 1 ust. 1 pkt 3 lit. d.
+
+**Art. 38c.**
+
+1. Dyrektor oddziału terenowego Agencji prowadzi rejestr podmiotów posiadających prawo do uzyskania płatności niezwiązanej.
+
+2. Rejestr podmiotów posiadających prawo do uzyskania płatności niezwiązanej jest prowadzony w formie papierowej i w formie dokumentu elektronicznego z zastosowaniem systemu teleinformatycznego.
+
+3. Rejestr podmiotów posiadających prawo do uzyskania płatności niezwiązanej jest jawny i zawiera informacje, o których mowa w art. 38b ust. 4, oraz o indywidualnej ilości referencyjnej.
+
+4. Podmiot wpisany do rejestru podmiotów posiadających prawo do uzyskania płatności niezwiązanej informuje dyrektora oddziału terenowego Agencji, na formularzu opracowanym i udostępnionym przez Agencję, o zmianie danych, o których mowa w art. 38b ust. 4, w terminie 14 dni od dnia zaistnienia zmiany.
+
+**Art. 38d.**
+
+1. Prawo do uzyskania płatności niezwiązanej jest niepodzielne oraz:
+
+- **1)** podlega dziedziczeniu;
+- **2)** jest zbywalne i może być nabyte wyłącznie przez osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która nabywa w całości gospodarstwo rolne od dotychczasowego posiadacza prawa do uzyskania płatności niezwiązanej.
+
+2. Przeniesienie prawa do uzyskania płatności niezwiązanej w drodze czynności prawnej powinno być dokonane w formie pisemnej, pod rygorem nieważności.
+
+3. Jeżeli prawo do uzyskania płatności niezwiązanej przysługuje łącznie kilku podmiotom, to:
+
+- **1)** rozporządzanie tym prawem, w zakresie określonym w ust. 1, wymaga zgody wszystkich podmiotów, którym to prawo przysługuje, wyrażonej, pod rygorem nieważności, w formie pisemnej;
+- **2)** w przypadku śmierci osoby fizycznej albo rozwiązania osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, jej uprawnienia wynikające z łącznego prawa do uzyskania płatności niezwiązanej wygasają;
+- **3)** płatność niezwiązaną przyznaje się podmiotowi wskazanemu w formie pisemnej przez pozostałe podmioty, którym przysługuje prawo do uzyskania płatności niezwiązanej.
+
+4. Jeżeli zgoda, o której mowa w ust. 3 pkt 1, nie została wyrażona, każdy z podmiotów, którym łącznie przysługuje prawo do uzyskania płatności niezwiązanej, może żądać rozstrzygnięcia przez sąd. Sąd orzeka, uwzględniając interesy wszystkich podmiotów.
+
+5. W sprawach, o których mowa w ust. 4, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym.
+
+6. Nabywca prawa do uzyskania płatności niezwiązanej składa do dyrektora oddział u terenowego Agencji wniosek o wpis do rejestru, o którym mowa w art. 38c ust. 1, zawierający informacje, o których mowa w art. 38b ust. 4, w terminie 14 dni od dnia nabycia tego prawa.
+
+7. Do wniosku, o którym mowa w ust. 6, dołącza się:
+
+- **1)** w przypadku przeniesienia prawa do uzyskania płatności niezwiązanej w drodze czynności prawnej – potwierdzoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji kopię dokumentu potwierdzającego przeniesienie tego prawa albo
+- **2)** prawomocne postanowienie sądu o stwierdzeniu nabycia spadku, albo
+- **3)** w przypadku przeniesienia prawa do uzyskania płatności niezwiązanej w drodze dziedziczenia, jeżeli nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku:
+    - **a)** zaświadczenie sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo
+    - **b)** kopię wniosku o stwierdzenie nabycia spadku potwierdzoną za zgodność z oryginałem przez: – sąd albo – notariusza, albo – upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora publicznego albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji, albo
+
+- **4)** akt poświadczenia dziedziczenia sporządzony przez notariusza.
+
+8. W przypadku, o którym mowa w ust. 7 pkt 3:
+
+- **1)** spadkobierca składa prawomocne postanowienie sądu o stwierdzeniu nabycia spadku, w terminie 14 dni od dnia uprawomocnienia się tego postanowienia;
+- **2)** decyzję administracyjną w sprawie wpisu do rejestru, o którym mowa w art. 38c ust. 1, wydaje się po złożeniu przez spadkobiercę prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku.
+
+9. W przypadku nabycia prawa do uzyskania płatności niezwiązanej w sposób, o którym mowa w ust. 1, dyrektor oddziału terenowego Agencji wydaje decyzję administracyjną o skreśleniu podmiotu, któremu dotychczas przysługiwało to prawo, z rejestru, o którym mowa w art. 38c ust. 1, oraz wpisie nabywcy prawa do uzyskania płatności niezwiązanej do tego rejestru.
+
+10. W decyzji administracyjnej o wpisie nabywcy prawa do uzyskania płatności niezwiązanej do rejestru, o którym mowa w art. 38c ust. 1, dyrektor oddziału terenowego Agencji określa indywidualną ilość referencyjną równą indywidualnej ilości referencyjnej określonej dla podmiotu, któremu dotychczas przysługiwało to prawo.
+
+**Art. 38e.**
+
+1. Decyzję administracyjną w sprawie przyznania płatności niezwiązanej wydaje dyrektor oddziału terenowego Agencji, na wniosek.
+
+2. Wniosek o przyznanie płatności niezwiązanej składa się corocznie, w terminie od dnia 15 marca do dnia 15 maja, na formularzu opracowanym i udostępnionym przez Agencję.
+
+3. Wniosek o przyznanie płatności niezwiązanej zawiera w szczególności informacje, o których mowa w art. 38b ust. 4.
+
+4. Jeżeli prawo do uzyskania płatności niezwiązanej przysługuje łącznie kilku podmiotom, do wniosku dołącza się dokument sporządzony zgodnie z art. 38d ust. 3 pkt 3.
+
+5. W przypadku nabycia prawa do uzyskania płatności niezwiązanej w sposób, o którym mowa w art. 38d ust. 1, decyzję administracyjną w sprawie przyznania płatności niezwiązanej wydaje się, jeżeli decyzja administracyjna w sprawie wpisu do rejestru podmiotów posiadających prawo do uzyskania płatności niezwiązanej stała się ostateczna.
+
+6. Płatność niezwiązana jest wypłacana corocznie, od dnia 1 grudnia, i stanowi iloraz:
+
+- **1)** iloczynu indywidualnej ilości referencyjnej określonej dla wnioskodawcy i wysokości środków finansowych określonych w przepisach wydanych na podstawie art. 38f oraz
+- **2)** sumy wszystkich indywidualnych ilości referencyjnych określonych dla wnioskodawców, którzy złożyli wnioski o przyznanie płatności niezwiązanej w danym roku.
+
+7. Płatno ść niezwiązaną, ustaloną zgodnie z ust. 6, dyrektor oddziału terenowego Agencji zaokrągla w dół do pełnych groszy.
+
+**Art. 38f.** Rada Ministrów określa corocznie, w drodze rozporządzenia, wysokość środków finansowych przeznaczonych na płatności niezwiązane, mając na względzie założenia do ustawy budżetowej na dany rok, środki przewidziane w budżecie państwa na ten cel, a także zobowiązania wynikające z zawartych przez Rzeczpospolitą Polską umów międzynarodowych oraz maksymalną wysokość środków finansowych zatwierdzonych przez Komisję Europejską w decyzji wydawanej na podstawie przepisów, o których mowa w art. 1 ust. 1 pkt 3 lit. d.
+
+**Art. 38g.**
+
+1. Prezes Agencji przeprowadza kontrole podmiotów ubiegających się o przyznanie płatności niezwiązanej w zakresie spełniania warunków do przyznania jednolitej płatności obszarowej określonych w przepisach o płatnościach w ramach systemu wsparcia bezpośredniego.
+
+2. Prezes Agencji może powierzyć, w drodze umowy, przeprowadzenie kontroli, o których mowa w ust. 1, Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+
+3. Do kontroli, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 20 i 21 dotyczące czynności sprawdzających, a w przypadku, o którym mowa w ust. 2, przepisy o płatnościach w ramach systemów wsparcia bezpośredniego.”;
+
+- **19)** uchyla się rozdziały 8 i 9;
+- **20)** w art. 40c: Urz. UE L Polskie wydanie specjalne, rozdz. 3, t. 44, str. 243), o powierzchni nie mniejszej niż 0,1 ha wchodzący w skład gospodarstwa rolnego.
+    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Warunkiem uzyskania dopłaty jest posiadanie przez producenta rolnego działek rolnych o łącznej powierzchni nie mniejszej niż 1 ha, na których uprawia się gatunki roślin uprawnych objęte dopłatami, przy czym działka rolna oznacza zwarty obszar gruntu rolnego, na którym jest prowadzona uprawa lub grupa upraw, o której mowa w rozporządzeniu Komisji (WE) nr 796/2004 z dnia 21 kwietnia 2004 r. ustanawiającym szczegółowe zasady wdrażania zasady współzależności, modulacji oraz zintegrowanego systemu administracji i kontroli przewidzianych w rozporządzeniu Rady (WE) nr 1782/2003 ustanawiającego wspólne zasady dla systemów pomocy bezpośredniej w zakresie wspólnej polityki rolnej oraz określonych systemów wsparcia dla rolników, oraz wdrażania zasady współzależności przewidzianej w rozporządzeniu (WE) nr 479/2008 (Dz. Urz. UE L 141 z 30.04.2004, str. 18, z późn. zm.; Dz.
+
+3. Dopłaty udziela się do powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany gatunków roślin uprawnych określonych w przepisach wydanych na podstawie ust. 6 pkt 2, jeżeli:
+
+- **1)** ilość materiału siewnego kategorii elitarny lub kwalifikowany, zużyta do obsiania lub obsadzenia tych powierzchni, jest nie mniejsza niż minimalna ilość tego materiału określona w przepisach wydanych na podstawie art. 40d ust. 6 pkt 2;
+- **2)** materiał siewny kategorii elitarny lub kwalifikowany został wytworzony:
+    - **a)** przez przedsiębiorcę wpisanego do rejestru przedsiębiorców, o którym mowa w przepisach o nasiennictwie, albo
+    - **b)** w gospodarstwie rolnym posiadanym przez podmiot wpisany do rejestru rolników, o którym mowa w przepisach o nasiennictwie, lub
+
+- **3)** materiał siewny kategorii elitarny lub kwalifikowany został zakupiony:
+    - **a)** od przedsiębiorcy wpisanego do rejestru przedsiębiorców dokonujących obrotu materiałem siewnym, o którym mowa w przepisach o nasiennictwie, albo
+    - **b)** od podmiotu prowadzącego obrót materiałem siewnym wytworzonym w posiadanym gospodarstwie rolnym, wpisanego do rejestru rolników, o którym mowa w przepisach o nasiennictwie, albo
+    - **c)** od podmiotu prowadzącego obrót materiałem siewnym na terytorium innego państwa członkowskiego Unii Europejskiej.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Dopłatami nie obejmuje się uprawy przeznaczonej na przedplon lub poplon.”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. Dopłaty mają charakter pomocy de minimis w rolnictwie i są udzielane zgodnie z przepisami o postępowaniu w sprawach dotyczących pomocy publicznej, z zastrzeżeniem art. 40f i 40g.”;
+
+- **21)** w art. 40d:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Do wniosku producent rolny dołącza oryginał albo potwierdzoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji kopię:
+
+- **1)** faktury zakupu materiału siewnego kategorii elitarny lub kwalifikowany wystawionej w okresie od dnia 15 lipca roku poprzedzającego złożenie wniosku do dnia 15 czerwca roku złożenia wniosku, pod warunkiem że materiał ten został zużyty w tym okresie do siewu lub sadzenia;
+- **2)** dokumentu wydania z magazynu materiału siewnego kategorii elitarny lub kwalifikowany wystawionego w roku, w którym materiał ten został zużyty do siewu lub sadzenia, jeżeli producent rolny zużył do siewu lub sadzenia w posiadanym przez niego gospodarstwie rolnym materiał siewny kategorii elitarny lub kwalifikowany, o którym mowa w art. 40c ust. 3 pkt 2 lit. a lub b.”,
+    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Do dokumentów, o których mowa w ust. 3, wystawionych dla mieszanek materiału siewnego, przepisów ust. 4 pkt 2 i 3 nie stosuje się.”,
+    - **c)** po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „5a. Różnica powierzchni dla poszczególnych działek rolnych zgłoszonych we wniosku, o którym mowa w ust. 1, nie może przekroczyć 5 % powierzchni działki rolnej.
+
+5b. W przypadku stwierdzenia różnicy powierzchni działki rolnej, która przekracza 5 %, wysokość dopłaty nie może być wyższa niż przysługująca do powierzchni ustalonej w wyniku czynności sprawdzających, o których mowa w art. 20 ust. 1 pkt 3, nie większej jednak niż zgłoszonej we wniosku.”;
+
+- **22)** w art. 40e w ust. 1:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Wojewódzki inspektor ochrony roślin i nasiennictwa, zwany dalej „wojewódzkim inspektorem”, na wniosek dyrektora oddziału terenowego Agencji przekazuje nieodpłatnie informacje o:”,
+    - **b)** w pkt 1 lit. b otrzymuje brzmienie: „b) numeru w rejestrze przedsiębiorców dokonujących obrotu materiałem siewnym, prowadzonym przez wojewódzkiego inspektora,”,
+    - **c)** pkt 2 otrzymuje brzmienie: „2) podmiotach wpisanych do rejestru podmiotów prowadzących obrót materiałem siewnym w rozumieniu przepisów o nasiennictwie w zakresie, o którym mowa w pkt 1 lit. a i c, oraz o numerze w rejestrze podmiotów prowadzących obrót materiałem siewnym, prowadzonym przez wojewódzkiego inspektora;”,
+    - **d)** uchyla się ust. 2;
+
+- **23)** po art. 40f dodaje się art. 40g w brzmieniu: „Art. 40g. 1. Dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany, o których mowa w art. 40c, dla producentów rolnych, którzy w 2008 r. ponieśli szkodę w uprawach spowodowanych dotknięciem ich gospodarstw suszą, nie mają charakteru pomocy de minimis w rolnictwie.
+
+2. Dopłaty, o których mowa w ust. 1, przysługują producentowi rolnemu, który:
+
+- **1)** otrzymał pomoc z tytułu wystąpienia w 2008 r. klęski suszy na podstawie rozporządzenia Rady Ministrów z dnia 26 września 2008 r. w sprawie szczegółowych warunków realizacji programu pomocy dla rodzin rolniczych, w których gospodarstwach rolnych powstały szkody spowodowane przez suszę lub huragan w 2008 r. (Dz. U. Nr 173, poz. 1070), albo
+- **2)** nie ubiegał się o pomoc, o której mowa w pkt 1, a który poniósł szkodę w uprawach spowodowaną przez suszę, oszacowaną przez komisję powołaną przez wojewodę na podstawie odrębnych przepisów, która wynosi średnio powyżej 30 % w gospodarstwie rolnym w rozumieniu przepisów o podatku rolnym.
+
+3. W przypadku producenta rolnego, o którym mowa w ust. 2 pkt 2, po wszczęciu postępowania w sprawie udzielenia dopłaty dyrektor oddziału terenowego stwierdza średnią wysokość szkód w danym gospodarstwie rolnym na podstawie protokołu oszacowania szkód sporządzonego przez komisję, o której mowa w ust. 2 pkt
+
+2.
+
+4. Wysokość dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany dla producentów rolnych, którzy w 2008 r. ponieśli szkodę w uprawach spowodowaną przez suszę, nie może przekroczyć kwoty intensywności pomocy, o której mowa w art. 11 ust. 2 rozporządzenia Komisji (WE) nr 1857/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu w odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw prowadzących działalność związaną z wytwarzaniem produktów rolnych oraz zmieniającego rozporządzenie (WE) nr 70/2001 (Dz. Urz. UE L 358 z
+
+16. 12.2006, str. 3 – 21), zwanego dalej „rozporządzeniem nr 1857/2006”, pomniejszonej o wysokość łącznej pomocy otrzymanej na podstawie przepisów, o których mowa w ust. 2 pkt 1, oraz pomocy otrzymanej na podstawie odrębnych przepisów w przypadku gospodarstw rolnych, które poniosły szkody spowodowane przez suszę.
+
+5. Odmawia się udzielenia dopłaty, jeżeli łączna wysokość pomocy otrzymanej na podstawie odrębnych przepisów oraz otrzymanych odszkodowań w związku z suszą przekracza kwotę obniżenia dochodu obliczonego zgodnie z art. 11 ust. 2 rozporządzenia nr 1857/2006.
+
+6. W przypadku, o którym mowa w ust. 1, do wniosku określonego w art. 40d ust. 1 producent rolny dołącza:
+
+- **1)** w przypadku otrzymania pomocy, o której mowa w ust. 2 pkt 1:
+    - **a)** oryginał albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika ośrodka pomocy społecznej, wojewodę, wójta, burmistrza albo prezydenta miasta kopię decyzji o udzieleniu pomocy społecznej wydanej na podstawie przepisów o pomocy społecznej dotyczących szczegółowych warunków realizacji programu pomocy dla gospodarstw rolnych w celu złagodzenia skutków suszy przez kierownika ośrodka pomocy społecznej oraz
+    - **b)** oryginał albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika ośrodka pomocy społecznej, wojewodę, wójta, burmistrza albo prezydenta miasta kopię protokołu oszacowania szkód sporządzonego przez komisję, o której mowa w ust. 2 pkt 2, określającego wysokość szkody w uprawach spowodowanej przez suszę oraz informację o kwocie obniżenia dochodu obliczonego przez wojewodę zgodnie z art. 11 ust. 2 rozporządzenia nr 1857/2006;
+
+- **2)** w przypadku, o którym mowa w ust. 2 pkt 2 – oryginał albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika ośrodka pomocy społecznej, wojewodę, wójta, burmistrza albo prezydenta miasta kopię protokołu oszacowania szkód sporządzonego przez komisję, o której mowa w ust. 2 pkt 2, wraz z kwotą obniżenia dochodu obliczonego przez wojewodę zgodnie z art. 11 ust. 2 rozporządzenia nr 1857/2006.”.
+
+**Art. 2.**
+
+1. Minister właściwy do spraw rynków rolnych ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” Krajowy Program Restrukturyzacji, o którym mowa w art. 34a ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, w terminie 14 dni od dnia jej wejścia w życie.
+
+2. Minister właściwy do spraw rynków rolnych ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wykaz gmin objętych procesem restrukturyzacji, wskazanych w Krajowym Programie Restrukturyzacji, o którym mowa w art. 34a ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, w terminie 14 dni od dnia jej wejścia w życie.
+
+**Art. 3.** Do wniosków o przyznanie płatności związanej, o której mowa w art. 37a ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, złożonych przed dniem wejścia w życie niniejszej ustawy, na podstawie których wszczęto postępowanie o przyznanie takiej płatności i nie zakończono tego postępowania decyzją ostateczną do dnia jej wejścia w życie, przepis art. 38 ust. 4 ustawy wymienionej w art. 1 stosuje się w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 4.**
+
+1. Płatność niezwiązana, o której mowa w art. 37a ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, przysługuje również za rok gospodarczy 2008/2009.
+
+2. Wnioski o przyznanie płatności niezwiązanej, o której mowa w ust. 1, składa się w terminie od dnia 1 lipca 2009 r. do dnia 31 sierpnia 2009 r.
+
+3. Wypłata płatności niezwiązanej, o której mowa w ust. 1, następuje niezwłocznie po wydaniu decyzji administracyjnej w sprawie przyznania tej płatno ści.
+
+4. Wnioski, o których mowa w art. 38b ust. 2 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, producent rolny ubiegający się o płatność niezwiązaną za rok gospodarczy 2008/2009, składa w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
+
+5. Rada Ministrów wyda rozporządzenie, o którym mowa w art. 38f ustawy wymienionej w art. 1, w którym określa wysokość środków finansowych przeznaczonych na płatności niezwiązane za rok gospodarczy 2008/2009, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 5.** Wnioski o przyznanie płatności niezwiązanej, o której mowa w art. 37a ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, za rok gospodarczy 2009/2010 składa się w terminie od dnia 1 września 2009 r. do dnia 30 września 2009 r.
+
+**Art. 6.** Stosunki pracy dyrektorów oddziałów terenowych Agencji Rynku Rolnego i ich zastępców, nawiązane na mocy dotychczasowych przepisów, stają się stosunkami pracy na podstawie powołania z dniem wejścia w życie ustawy.
+
+**Art. 7.** Agencja Rynku Rolnego, w terminie miesiąca od dnia wejścia w życie ustawy, dostosuje zasady (politykę) rachunkowości do zasad wynikających z ustawy, o której mowa w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 8.** Przepisy wykonawcze wydane na podstawie art. 38 ust. 6 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 38 ust. 6 tej ustawy w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia jej wejścia w życie.
+
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+

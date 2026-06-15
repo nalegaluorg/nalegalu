@@ -8,7 +8,7 @@ pos: 508
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo własności przemysłowej
@@ -154,6 +154,9 @@ Art. 311–314. (pominięte)
 9. Urząd Patentowy powiadamia niezwłocznie zgłaszającego, przy użyciu takiego samego środka przekazu, że zgłoszenie przesłane telefaksem jest w całości lub części nieczytelne albo też zaszedł jeden z przypadków, o których mowa w ust. 6 lub 8, w przypadku gdy możliwe jest ustalenie adresu poczty elektronicznej lub tożsamości zgłaszającego i jego adresu oraz nie zagraża to bezpieczeństwu systemu teleinformatycznego Urzędu Patentowego, w rozumieniu art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), i pozwalają na to względy techniczne użytego przez zgłaszającego środka przekazu.
 
 **Art. 14.** Pierwszeństwo do uzyskania patentu, prawa ochronnego albo prawa z rejestracji przysługuje w Rzeczypospolitej Polskiej, na zasadach określonych w umowach międzynarodowych, według daty pierwszego prawidłowego zgłoszenia wynalazku, wzoru użytkowego albo wzoru przemysłowego we wskazanym państwie, jeżeli od tej daty zgłoszenie w Urzędzie Patentowym dokonane zostanie w okresie:
+
+- **1)** 12 miesięcy – w przypadku zgłoszeń wynalazków i wzorów użytkowych;
+- **2)** 6 miesięcy – w przypadku zgłoszeń wzorów przemysłowych.
 
 **Art. 15.** (uchylony)
 
@@ -340,6 +343,9 @@ Art. 311–314. (pominięte)
 
 **Art. 40.** Osoba mająca siedzibę lub miejsce zamieszkania w Rzeczypospolitej Polskiej może dokonać zgłoszenia wynalazku, w celu uzyskania ochrony za granicą, za pośrednictwem Urzędu Patentowego, w trybie przewidzianym:
 
+- **1)** umową międzynarodową lub przepisami prawa Unii Europejskiej, o których mowa w art. 4, albo
+- **2)** niniejszą ustawą – po dokonaniu zgłoszenia tego wynalazku w Urzędzie Patentowym.
+
 #### Rozdział 3 Rozpatrywanie zgłoszenia wynalazku
 
 **Art. 41.**
@@ -410,6 +416,13 @@ Art. 311–314. (pominięte)
 7. Do poszukiwań typu międzynarodowego prowadzonych przez Urząd Patentowy przepisy ust. 1–4 stosuje się odpowiednio.
 
 **Art. 48.** Urząd Patentowy wydaje postanowienie o odmowie przyznania uprzedniego pierwszeństwa w całości lub w części, jeżeli stwierdzi, że:
+
+- **1)** zgłaszający nie jest uprawniony do korzystania z uprzedniego pierwszeństwa;
+- **2)** zgłoszenie dokonane za granicą, na którym zgłaszający opiera swoje zastrzeżenie uprzedniego pierwszeństwa, nie jest pierwszym zgłoszeniem w rozumieniu przepisu art. 14;
+- **3)** wystawa, na której wystawienie jest podstawą zastrzeżenia uprzedniego pierwszeństwa przez zgłaszającego, nie spełnia wymagań określonych w art. 15 ;
+- **4)** wynalazek zgłoszony w Urzędzie Patentowym lub odpowiednia część tego wynalazku różni się od wynalazku, do którego zgłaszającemu przysługuje uprzednie pierwszeństwo;
+- **5)** zgłaszający uchybił przewidzianym w art. 14 i art. 15 terminom dla dokonania zgłoszenia albo terminowi dla złożenia dowodu pierwszeństwa lub innego dokumentu bądź oświadczenia wymaganego do uzyskania pierwszeństwa lub
+- **6)** zgłaszający złożył, z naruszeniem przepisu art. 35, oświadczenie o korzystaniu z uprzedniego pierwszeństwa.
 
 **Art. 49.**
 
@@ -801,6 +814,10 @@ Art. 311–314. (pominięte)
 
 **Art. 93¹.** Ilekroć w rozdziale jest mowa o:
 
+- **1)** wynalazku biotechnologicznym – rozumie się przez to wynalazek w rozumieniu art. 24, dotyczący wytworu składającego się z materiału biologicznego lub zawierającego taki materiał albo sposobu, za pomocą którego materiał biologiczny jest wytwarzany, przetwarzany lub wykorzystywany;
+- **2)** materiale biologicznym – rozumie się przez to materiał zawierający informację genetyczną i zdolny do samoreprodukcji albo nadający się do reprodukcji w systemie biologicznym;
+- **3)** sposobie mikrobiologicznym – rozumie się przez to sposób, w którym bierze udział lub który został dokonany na materiale mikrobiologicznym albo wynikiem którego jest ten materiał.
+
 **Art. 93².**
 
 1. Za wynalazki biotechnologiczne, na które mogą być udzielane patenty, uważa się w szczególności wynalazki:
@@ -1049,6 +1066,14 @@ Art. 311–314. (pominięte)
 
 **Art. 115.** Uprawniony z rejestracji wzoru przemysłowego nie może zakazać osobie trzeciej korzystania z wzoru:
 
+- **1)** do użytku osobistego lub niezwiązanego z działalnością gospodarczą;
+- **2)** w celu doświadczalnym;
+- **3)** polegającego na jego odtworzeniu do celów cytowania lub nauczania, jeżeli nie narusza dobrych obyczajów i nie utrudnia uprawnionemu w sposób nieuzasadniony korzystania z wzoru oraz wskazuje na źródło jego pochodzenia;
+- **4)** stosowanego lub zawartego w urządzeniach znajdujących się na środkach transportu lądowego i zarejestrowanych w innych państwach statkach morskich lub powietrznych, które czasowo znajdują się na obszarze Rzeczypospolitej Polskiej;
+- **5)** przez import części zamiennych i akcesoriów, w których wzór jest stosowany lub zawarty w celu napraw statków, o których mowa w pkt 4;
+- **6)** wykonywania napraw statków, o których mowa w pkt 4;
+- **7)** przez wykonanie na indywidualne zamówienie naprawy związanej z odtworzeniem części składowej wytworu złożonego, w celu przywrócenia mu pierwotnego wyglądu.
+
 **Art. 116.** (uchylony)
 
 **Art. 117.**
@@ -1064,6 +1089,11 @@ Art. 311–314. (pominięte)
 2. Doręczenia decyzji, o której mowa w ust. 1, dokonuje się wyłącznie na wniosek uprawnionego z rejestracji międzynarodowego wzoru przemysłowego złożony w terminie dwóch miesięcy od dnia doręczenia mu kopii powiadomienia o odmowie, na podstawie art. 12 ust. 3 Aktu genewskiego.
 
 **Art. 117².** Urząd Patentowy przekazuje do Biura Międzynarodowego powiadomienie o:
+
+- **1)** wydaniu decyzji o odmowie uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego wzoru przemysłowego lub wzorów przemysłowych,
+- **2)** wydaniu decyzji w wyniku ponownego rozpatrzenia sprawy zakończonej decyzją, o której mowa w pkt 1,
+- **3)** wydaniu prawomocnego wyroku sądu administracyjnego o uchyleniu decyzji, o której mowa w pkt 1,
+- **4)** unieważnieniu uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego wzoru przemysłowego – w trybie, formie i języku przewidzianych w Akcie genewskim.
 
 **Art. 117³.**
 
@@ -1511,6 +1541,10 @@ Art. 311–314. (pominięte)
 6. Urząd Patentowy, z urzędu lub na wniosek uprawnionego z prawa ochronnego lub osoby przez niego upoważnionej, w drodze postanowienia, wykreśla z rejestru znaków towarowych błędny wpis dotyczący przedłużenia prawa ochronnego.
 
 **Art. 154.** Używanie znaku towarowego polega w szczególności na:
+
+- **1)** umieszczaniu tego znaku na towarach objętych prawem ochronnym lub ich opakowaniach, oferowaniu i wprowadzaniu tych towarów do obrotu, ich imporcie lub eksporcie oraz składowaniu w celu oferowania i wprowadzania do obrotu, a także oferowaniu lub świadczeniu usług pod tym znakiem;
+- **2)** umieszczaniu znaku na dokumentach związanych z wprowadzaniem towarów do obrotu lub związanych ze świadczeniem usług;
+- **3)** posługiwaniu się nim w celu reklamy.
 
 **Art. 155.**
 
@@ -2902,6 +2936,19 @@ Art. 311–314. (pominięte)
 
 **Art. 284.** W postępowaniu w sprawach własności intelektualnej rozpatrywane są w szczególności sprawy o:
 
+- **1)** ustalenie autorstwa projektu wynalazczego;
+- **2)** ustalenie prawa do patentu, prawa ochronnego lub prawa z rejestracji;
+- **3)** wynagrodzenie za korzystanie z projektu wynalazczego;
+- **4)** wynagrodzenie za korzystanie z wynalazku, wzoru użytkowego lub topografii dla celów państwowych;
+- **5)** odszkodowanie za przejście na Skarb Państwa prawa do patentu lub prawa ochronnego odpowiednio na wynalazek tajny lub na wzór użytkowy tajny;
+- **6)** naruszenie patentu, dodatkowego prawa ochronnego, prawa ochronnego lub prawa z rejestracji;
+- **7)** stwierdzenie prawa korzystania z wynalazku, wzoru użytkowego albo wzoru przemysłowego w przypadkach określonych w art. 71 i 75;
+- **8)** stwierdzenie prawa używania w ramach lokalnej działalności oznaczenia zarejestrowanego jako znak towarowy na rzecz innej osoby;
+- **9)** stwierdzenie prawa używania oznaczenia geograficznego;
+- **10)** stwierdzenie utraty prawa używania oznaczenia geograficznego;
+- **11)** przeniesienie patentu, prawa ochronnego na wzór użytkowy albo prawa z rejestracji wzoru przemysłowego lub topografii, uzyskanego przez osobę nieuprawnioną;
+- **12)** przeniesienie prawa ochronnego na znak towarowy w przypadku określonym w art. 161.
+
 **Art. 285.** Uprawniony z patentu, dodatkowego prawa ochronnego, prawa ochronnego lub prawa z rejestracji bądź osoba, której ustawa na to zezwala, może żądać zaprzestania działań grożących naruszeniem prawa.
 
 **Art. 286.** Sąd, rozstrzygając o naruszeniu prawa, może orzec, na wniosek uprawnionego, o będących własnością naruszającego bezprawnie wytworzonych lub oznaczonych wytworach oraz środkach i materiałach, które zostały użyte do ich wytworzenia lub oznaczenia. W szczególności sąd może orzec o ich wycofaniu z obrotu, przyznaniu uprawnionemu na poczet zasądzonej na jego rzecz sumy pieniężnej albo zniszczeniu. Orzekając, sąd uwzględnia wagę naruszenia oraz interesy osób trzecich.
@@ -3165,6 +3212,12 @@ Art. 311–314. (pominięte)
 2. Prawa przysługujące Skarbowi Państwa wykonuje w jego imieniu organ administracji rządowej lub państwowa jednostka organizacyjna, według właściwości w zakresie gospodarowania mieniem Skarbu Państwa będącym przedmiotem prawa.
 
 **Art. 326.** Tracą moc:
+
+- **1)** ustawa z dnia 19 października 1972 r. o wynalazczości (Dz. U. z 1993 r. poz. 117 oraz z 1997 r. poz. 554 i 770);
+- **2)** ustawa z dnia 31 stycznia 1985 r. o znakach towarowych (Dz. U. poz. 17, z 1989 r. poz. 192, z 1993 r. poz. 46, z 1994 r. poz. 331 oraz z 1997 r. poz. 554);
+- **3)** ustawa z dnia 30 października 1992 r. o ochronie topografii układów scalonych (Dz. U. poz. 498 oraz z 1997 r. poz. 554 i 770);
+- **4)** ustawa z dnia 31 maja 1962 r. o Urzędzie Patentowym Rzeczypospolitej Polskiej (Dz. U. z 1993 r. poz. 118);
+- **5)** przepisy art. 5–7 ustawy z dnia 30 października 1992 r. o zmianie ustawy o wynalazczości i ustawy o Urzędzie Patentowym Rzeczypospolitej Polskiej (Dz. U. z 1993 r. poz. 14).
 
 **Art. 327.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia
 

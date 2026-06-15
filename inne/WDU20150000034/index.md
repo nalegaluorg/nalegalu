@@ -429,7 +429,8 @@ c) próba hydrauliczna z użyciem wody w wyjątkowych przypadkach i za zgodą TD
 3. Alarmowy sygnał akustyczny powinien być przerywany i powinien być wyraźnie słyszalny w promieniu minimum 40 m przy wietrze 7° w skali Beauforta w najmniej korzystnym kierunku i prędkości dopuszczalnej dla stanu pracy ramienia.
 § 81. (uchylony).
 § 82. Dla portowych ramion przeładunkowych pracujących w obszarach zagrożonych wybuchem, eksploatowanych przed dniem wejścia w życie rozporządzenia, niewyposażonych w kołnierze izolacyjne, dopuszcza się stosowanie instalacji uziemiającej wyposażonej w łącznik w wykonaniu przeciwwybuchowym.
-§ 83. 1. Urządzenia NO eksploatowane przed dniem wejścia w życie rozporządzenia powinny do dnia 31 grudnia 2006 r. zostać zgłoszone do badania w TDT wraz z dokumentacją techniczną w dwóch egzemplarzach, o której mowa w § 47.
+§ 83. 1. Urządzenia NO eksploatowane przed dniem wejścia w życie rozporządzenia powinny do dnia 31 grudnia 2006 r. zostać zgłoszone do badania w TDT wraz z dokumentacją techniczną w dwóch egzemplarzach, o której mowa
+§ 47.
 2. W przypadku braku dokumentacji w zakresie, o którym mowa w ust. 1, może być sporządzona dokumentacja uproszczona zawierająca co najmniej:
 1) opis i charakterystykę techniczną;
 2) rysunek zestawieniowy z podaniem głównych wymiarów urządzenia wraz z informacją o odległości od obiektów znajdujących się na stanowisku przeładunkowym oraz zastosowanych połączeniach i uszczelnieniach;

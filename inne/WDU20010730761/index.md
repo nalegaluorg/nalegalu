@@ -8,7 +8,7 @@ pos: 761
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o leśnym materiale rozmnożeniowym
@@ -31,7 +31,50 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa reguluje sprawy:
 
+- **1)** rejestracji leśnego materiału podstawowego;
+- **2)** obrotu leśnym materiałem rozmnożeniowym;
+- **3)** kontroli leśnego materiału podstawowego oraz leśnego materiału rozmnożeniowego wprowadzanego do obrotu;
+- **4)** regionalizacji nasiennej.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** leśnym materiale rozmnożeniowym – rozumie się przez to:
+    - **a)** jednostki nasienne – szyszki, owocostany, owoce i nasiona przeznaczone do produkcji materiału sadzeniowego,
+    - **b)** części roślin przeznaczone do produkcji materiału sadzeniowego,
+    - **c)** materiał sadzeniowy – rośliny wyhodowane z jednostek nasiennych, z części roślin lub rośliny z odnowienia naturalnego;
+
+- **2)** leśnym materiale podstawowym – rozumie się przez to przeznaczone do produkcji leśnego materiału rozmnożeniowego:
+    - **a)** źródło nasion – drzewa rosnące na określonym obszarze, z których pobierane są nasiona,
+    - **b)** drzewostan – zespół drzew o zbliżonych cechach morfologicznych, rosnących w bezpośrednim sąsiedztwie i wzajemnie na siebie oddziałujących,
+    - **c)** plantację nasienną – grupę wyselekcjonowanych klonów lub rodów, zagospodarowaną lub izolowaną w sposób zapobiegający zapyleniu ze źródeł zewnętrznych, prowadzoną w celu uzyskania obfitych zbiorów łatwo pozyskiwanych nasion,
+    - **d)** drzewo mateczne – drzewo wykorzystywane do pozyskiwania leśnego materiału rozmnożeniowego poprzez kontrolowane lub niekontrolowane zapylanie określonego drzewa wykorzystywanego jako osobnik żeński pyłkiem jednego lub wielu drzew,
+    - **e)** klon – grupę osobników o jednakowym składzie genetycznym pozyskanych z jednego osobnika w drodze rozmnażania bezpłciowego,
+    - **f)** mieszankę klonów – grupę różnych, zidentyfikowanych klonów zmieszanych w określonych proporcjach;
+
+- **3)** rodzajach leśnego materiału podstawowego – rozumie się przez to źródło nasion, drzewostan, plantację nasienną, drzewo mateczne, klon lub mieszankę klonów;
+- **4)** rodzie – rozumie się przez to potomstwo drzew matecznych powstałe w drodze rozmnażania płciowego;
+- **5)** autochtonicznym drzewostanie lub źródle nasion – rozumie się przez to drzewostan lub źródło nasion odnawiane naturalnie w sposób ciągły lub sztucznie z leśnego materiału rozmnożeniowego powstałego z leśnego materiału podstawowego znajdującego się w miejscu, w którym rośnie, lub w bezpośrednim sąsiedztwie tego miejsca;
+- **6)** rodzimym drzewostanie lub źródle nasion – rozumie się przez to:
+    - **a)** autochtoniczny drzewostan lub źródło nasion,
+    - **b)** drzewostan lub źródło nasion powstałe sztucznie z nasion pochodzących z tego samego regionu pochodzenia, w którym rośnie;
+
+- **7)** pochodzeniu pierwotnym – rozumie się przez to:
+    - **a)** dla autochtonicznych drzewostanów lub źródeł nasion – miejsce, w którym rosną drzewa stanowiące źródło nasion lub w którym rośnie drzewostan,
+    - **b)** dla nieautochtonicznych drzewostanów lub źródeł nasion – miejsce, w którym rósł drzewostan w chwili pobrania z niego nasion lub sadzonek, z których powstało źródło nasion lub drzewostan;
+
+- **8)** sztucznej hybrydzie – rozumie się przez to leśny materiał rozmnożeniowy powstały wskutek krzyżowania osobników dwóch lub większej liczby gatunków drzew, będący efektem zamierzonych działań człowieka;
+- **9)** leśnym materiale rozmnożeniowym przeznaczonym dla celów leśnych – rozumie się przez to leśny materiał rozmnożeniowy, który jest przeznaczony do uprawy w lasach oraz na gruntach przeznaczonych do zalesienia lub służy realizacji celów gospodarki leśnej w rozumieniu art. 6 ust. 1 pkt 1 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2018 r. poz. 2129 i 2161 oraz z 2019 r. poz. 83 i 125);
+- **10)** produkcji leśnego materiału rozmnożeniowego – rozumie się przez to wszystkie etapy wytwarzania leśnego materiału rozmnożeniowego z leśnego materiału podstawowego w celu wprowadzenia go do obrotu, w tym etap powstawania i przekształcania jednostki nasiennej oraz etap wzrostu materiału sadzeniowego wyhodowanego z jednostki nasiennej lub części rośliny;
+- **11)** zarządcy leśnego materiału podstawowego – rozumie się przez to państwową jednostkę organizacyjną nieposiadającą osobowości prawnej, wykonującą, na mocy przepisów szczególnych, uprawnienia właścicielskie względem leśnego materiału podstawowego stanowiącego własność Skarbu Państwa;
+- **12)** producencie – rozumie się przez to osobę fizyczną, prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, zajmującą się produkcją leśnego materiału rozmnożeniowego;
+- **13)** obrocie leśnym materiałem rozmnożeniowym – rozumie się przez to:
+    - **a)** nabycie leśnego materiału rozmnożeniowego,
+    - **b)** oferowanie zbycia lub zbywanie leśnego materiału rozmnożeniowego,
+    - **c)** pośrednictwo w czynnościach, o których mowa w lit. a i b;
+
+- **14)** dostawcy – rozumie się przez to osobę fizyczną, prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której przedmiotem zarobkowej działalności jest obrót leśnym materiałem rozmnożeniowym;
+- **15)** regionalizacji nasiennej – rozumie się przez to podział na regiony pochodzenia oraz zasady wykorzystywania w nich leśnego materiału rozmnożeniowego określonych gatunków;
+- **16)** regionie pochodzenia – rozumie się przez to wyznaczony obszar lub grupę obszarów, na których obecnie rośnie dany drzewostan lub źródło nasion, stanowiące materiał podstawowy.
 
 **Art. 3.** Przepisy ustawy stosuje się do gatunków drzew oraz ich sztucznych hybryd, których wykaz określa załącznik do ustawy.
 
@@ -72,6 +115,17 @@ source: "isap-pdf"
 **Art. 9.** Organem administracji rządowej właściwym w sprawach obrotu leśnym materiałem rozmnożeniowym jest minister właściwy do spraw środowiska, zwany dalej „Ministrem”.
 
 **Art. 10.** Do zadań Ministra należy:
+
+- **1)** prowadzenie Krajowego Rejestru Leśnego Materiału Podstawowego oraz Skróconego Rejestru Leśnego Materiału Podstawowego;
+- **2)** prowadzenie rejestru świadectw pochodzenia;
+- **3)** prowadzenie rejestru dostawców;
+- **4)** wydawanie pozwoleń na przywóz leśnego materiału rozmnożeniowego z państw niebędących członkami Unii Europejskiej;
+- **5)** wydawanie świadectw pochodzenia;
+- **6)** przeprowadzanie kontroli leśnego materiału podstawowego podlegającego rejestracji w Krajowym Rejestrze Leśnego Materiału Podstawowego pod względem spełniania wymagań określonych w ustawie;
+- **7)** przeprowadzanie kontroli leśnego materiału rozmnożeniowego pod względem spełniania wymagań określonych w ustawie;
+- **8)** przeprowadzanie kontroli dostawców pod względem przestrzegania przepisów ustawy, w tym prawidłowości prowadzonej dokumentacji;
+- **9)** współpraca z organizacjami międzynarodowymi w zakresie selekcji leśnej i nasiennictwa leśnego;
+- **10)** opracowywanie we współpracy z zainteresowanymi podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm. ), metod oceny leśnego materiału rozmnożeniowego oraz leśnego materiału podstawowego.
 
 **Art. 11.**
 
@@ -284,6 +338,10 @@ source: "isap-pdf"
 
 **Art. 26.** Minister wykreśla z Krajowego Rejestru leśny materiał podstawowy w przypadku:
 
+- **1)** niespełnienia wymagań określonych w ustawie lub w rozporządzeniu, o którym mowa w art. 15 ust. 6;
+- **2)** zaniedbania obowiązków określonych w art. 21 ust. 1 pkt 2 oraz ust. 2;
+- **3)** złożenia przez właściciela lub zarządcę leśnego materiału podstawowego wniosku o jego wykreślenie.
+
 **Art. 27.** Rejestracja, odmowa rejestracji oraz wykreślenie z Krajowego Rejestru następuje w drodze decyzji administracyjnej.
 
 #### Rozdział 4 Obrót leśnym materiałem rozmnożeniowym
@@ -388,6 +446,10 @@ source: "isap-pdf"
 4. Dla leśnego materiału rozmnożeniowego zmieszanego w sposób określony w ust. 1 Minister wydaje z urzędu nowe świadectwo pochodzenia.
 
 **Art. 38.** Nie może być przedmiotem obrotu leśny materiał rozmnożeniowy:
+
+- **1)** w postaci sztucznych hybryd lub wyprodukowany w drodze rozmnażania bezpłciowego, jeżeli nie należy do kategorii wyselekcjonowany, kwalifikowany lub przetestowany;
+- **2)** który w całości lub w części składa się z organizmów zmodyfikowanych genetycznie w rozumieniu przepisów o organizmach genetycznie zmodyfikowanych, jeżeli nie należy do kategorii przetestowany;
+- **3)** należący do kategorii wyselekcjonowany, rozmnażany bezpłciowo więcej niż jednokrotnie.
 
 **Art. 39.**
 
@@ -508,6 +570,12 @@ source: "isap-pdf"
 
 **Art. 49.** Minister wykreśla dostawcę z rejestru dostawców w przypadku:
 
+- **1)** stwierdzenia, że informacje zawarte we wniosku o rejestrację są nieprawdziwe;
+- **2)** nieprzestrzegania przez dostawcę przepisów ustawy w zakresie obrotu leśnym materiałem rozmnożeniowym;
+- **3)** złożenia przez dostawcę wniosku o wykreślenie z rejestru dostawców;
+- **4)** śmierci dostawcy lub wykreślenia go z Krajowego Rejestru Sądowego albo z Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
+- **5)** niewykonania przez dostawcę obowiązku określonego w art. 47 ust. 1.
+
 **Art. 50.** Rejestracja, odmowa rejestracji oraz wykreślenie z rejestru dostawców następują w drodze decyzji administracyjnej.
 
 **Art. 51.**
@@ -530,7 +598,17 @@ source: "isap-pdf"
 
 **Art. 53.** Kto:
 
+- **1)** prowadzi obrót leśnym materiałem rozmnożeniowym wyprodukowanym z leśnego materiału podstawowego niezarejestrowanego w Krajowym Rejestrze,
+- **2)** wprowadza do obrotu leśny materiał rozmnożeniowy bez świadectwa pochodzenia i nieoznaczony etykietą: „Nie dla leśnictwa”,
+- **3)** wprowadza do obrotu leśny materiał rozmnożeniowy wbrew zakazowi, o którym mowa w art. 38,
+- **4)** prowadzi obrót leśnym materiałem rozmnożeniowym, nie będąc wpisanym do rejestru dostawców,
+- **5)** wykorzystuje leśny materiał rozmnożeniowy do uprawy w lasach lub na gruntach przeznaczonych do zalesienia niezgodnie z zasadami regionalizacji nasiennej określonymi w art. 52 ust. 1 oraz na podstawie art. 52 ust. 2,
+
 **Art. 54.** Kto:
+
+- **1)** utrudnia lub uniemożliwia organom, o których mowa w art. 9, i upoważnionym przez nie pracownikom prowadzenie czynności służbowych,
+- **2)** wprowadza w błąd nabywców, podając nieprawdziwe informacje na etykietach, o których mowa w art. 36 ust. 2 oraz art. 42 ust. 1,
+- **3)** bez wymaganego pozwolenia przywozi leśny materiał rozmnożeniowy z państwa niebędącego członkiem Unii Europejskiej,
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
 
@@ -541,6 +619,10 @@ source: "isap-pdf"
 #### Rozdział 8 Przepisy przejściowe i końcowe
 
 **Art. 57.** Leśny materiał podstawowy wykorzystywany do produkcji leśnego materiału rozmnożeniowego, zarejestrowany w rejestrach Państwowego Gospodarstwa Leśnego Lasy Państwowe oraz w rejestrach parków narodowych według stanu na dzień 31 grudnia roku poprzedzającego rok wejścia w życie ustawy jako „gospodarcze drzewostany nasienne”, „wyłączone drzewostany nasienne”, „uprawy pochodne”, „plantacje nasienne”, „plantacyjne uprawy nasienne” oraz „drzewa doborowe”, podlega, z mocy prawa, rejestracji w Krajowym Rejestrze według następujących zasad:
+
+- **1)** leśny materiał podstawowy zarejestrowany jako „gospodarcze drzewostany nasienne” podlega rejestracji w części I Krajowego Rejestru;
+- **2)** leśny materiał podstawowy zarejestrowany jako „wyłączone drzewostany nasienne” oraz jako „uprawy pochodne” podlega rejestracji w części II Krajowego Rejestru;
+- **3)** leśny materiał podstawowy zarejestrowany jako „plantacje nasienne”, „plantacyjne uprawy nasienne” i „drzewa doborowe” podlega rejestracji w części III Krajowego Rejestru.
 
 **Art. 58.** (uchylony)
 

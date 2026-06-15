@@ -8,7 +8,7 @@ pos: 19
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Karta Nauczyciela Mając na względzie doniosłą rolę oświaty i wychowania w Rzeczypospolitej Polskiej, pragnąc dać wyraz szczególnej randze społecznej zawodu nauczyciela zgodnie z potrzebami i oczekiwaniami, otwierając niniejszą ustawą drogę do dalszych uregulowań prawnych systemu edukacji narodowej, stanowi się, co następuje:
@@ -64,7 +64,21 @@ source: "isap-pdf"
 
 **Art. 2.** Przepisów ustawy nie stosuje się do żołnierzy w czynnej służbie wojskowej oraz funkcjonariuszy Policji i pożarnictwa:
 
+- **1)** zajmujących stanowiska nauczycieli w szkołach i placówkach oświatowo-wychowawczych wojskowych i prowadzonych przez ministra właściwego do spraw wewnętrznych oraz organy podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane;
+- **2)** wyznaczonych do wykonywania zadań poza wojskiem oraz służbami podległymi lub nadzorowanymi przez ministra właściwego do spraw wewnętrznych, na stanowiskach wymienionych w art. 1.
+
 **Art. 3.** Ilekroć w ustawie jest mowa o:
+
+- **1)** nauczycielach bez bliższego określenia – rozumie się przez to nauczycieli, wychowawców i innych pracowników pedagogicznych zatrudnionych w przedszkolach, szkołach i placówkach wymienionych w art. 1 ust. 1;
+- **1a)** nauczycielach szkół za granicą – rozumie się przez to nauczycieli języka polskiego, historii, geografii oraz innych przedmiotów nauczanych w języku polskim w szkołach funkcjonujących w systemach oświaty innych państw lub nauczanych w innych formach prowadzonych przez organizacje społeczne zarejestrowane za granicą;
+- **2)** szkołach bez bliższego określenia – rozumie się przez to przedszkola, szkoły i placówki oraz inne jednostki organizacyjne wymienione w art. 1 ust. 1, a także odpowiednio ich zespoły;
+- **2a)** szkołach za granicą – rozumie się przez to szkoły funkcjonujące w systemach oświaty innych państw oraz inne formy nauczania prowadzone przez organizacje społeczne zarejestrowane za granicą;
+- **2b)** szkołach artystycznych bez bliższego określenia – rozumie się przez to szkoły artystyczne i placówki artystyczne;
+- **3)** (uchylony) 3a) (uchylony) 3b) prowadzeniu zajęć w szkole za granicą – rozumie się przez to prowadzenie przez nauczyciela szkoły za granicą zajęć z języka polskiego, historii, geografii oraz innych przedmiotów nauczanych w języku polskim w szkołach funkcjonujących w systemach oświaty innych państw lub nauczanych w innych formach przez organizacje społeczne zarejestrowane za granicą;
+- **4)** związkach zawodowych – rozumie się przez to związek zawodowy, którego członkiem jest nauczyciel, a jeżeli nauczyciel nie jest członkiem żadnego związku, to związek zawodowy zrzeszający nauczycieli wskazany przez nauczyciela;
+- **5)** ustawie – Prawo oświatowe – rozumie się ustawę, o której mowa w art. 1 ust. 1 pkt 1;
+- **6)** stopniu naukowym – rozumie się przez to stopień naukowy lub stopień w zakresie sztuki, o których mowa w art. 177 ust. 1 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+- **7)** szkoleniu branżowym – rozumie się przez to obowiązkową formę doskonalenia zawodowego nauczycieli teoretycznych przedmiotów zawodowych i nauczycieli praktycznej nauki zawodu, zatrudnionych w szkołach prowadzących kształcenie zawodowe w rozumieniu art. 4 pkt 28a lit. a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe oraz placówkach kształcenia ustawicznego i centrach kształcenia zawodowego, o których mowa w art. 2 pkt 4 tej ustawy, mającą na celu doskonalenie umiejętności i kwalifikacji zawodowych potrzebnych do wykonywania pracy i realizowaną odpowiednio w branżowych centrach umiejętności, u pracodawców lub w indywidualnych gospodarstwach rolnych, których działalność jest związana z nauczanym zawodem.
 
 **Art. 4.**
 
@@ -77,6 +91,13 @@ source: "isap-pdf"
 #### Rozdział 2 Obowiązki nauczycieli
 
 **Art. 6.** Nauczyciel obowiązany jest:
+
+- **1)** rzetelnie realizować zadania związane z powierzonym mu stanowiskiem oraz podstawowymi funkcjami szkoły: dydaktyczną, wychowawczą i opiekuńczą, w tym zadania związane z zapewnieniem bezpieczeństwa uczniom w czasie zajęć organizowanych przez szkołę;
+- **2)** wspierać każdego ucznia w jego rozwoju;
+- **3)** dążyć do pełni własnego rozwoju osobowego;
+- **3a)** doskonalić się zawodowo, zgodnie z potrzebami szkoły;
+- **4)** kształcić i wychowywać młodzież w umiłowaniu Ojczyzny, w poszanowaniu Konstytucji Rzeczypospolitej Polskiej, w atmosferze wolności sumienia i szacunku dla każdego człowieka;
+- **5)** dbać o kształtowanie u uczniów postaw moralnych i obywatelskich zgodnie z ideą demokracji, pokoju i przyjaźni między ludźmi różnych narodów, ras i światopoglądów.
 
 **Art. 6a.**
 
@@ -376,6 +397,47 @@ source: "isap-pdf"
 
 **Art. 9c.** (uchylony) Art. 9ca. 1. Nauczyciel, o którym mowa w art. 9a ust. 2, odbywa przygotowanie do zawodu nauczyciela w wymiarze 3 lat i 9 miesięcy. 2. Nauczyciel, o którym mowa w art. 9a ust. 2, który:
 
+- **1)** posiada stopień naukowy lub
+- **2)** przed nawiązaniem stosunku pracy w szkole w Rzeczypospolitej Polskiej prowadził zajęcia w szkole za granicą – może odbyć przygotowanie do zawodu nauczyciela w wymiarze 2 lat i 9 miesięcy.
+
+3. Nauczyciel, o którym mowa w ust. 2, składa do dyrektora szkoły oświadczenie o wymiarze, w jakim zamierza odbyć przygotowanie do zawodu nauczyciela, niepóźniej niż do zakończenia roku szkolnego w drugim roku odbywania przygotowania do zawodu nauczyciela.
+
+4. Nauczycielowi, o którym mowa w art. 9a ust. 2, który:
+
+- **1)** przed nawiązaniem stosunku pracy w szkole był nauczycielem akademickim i legitymował się co najmniej 3-letnim okresem pracy w uczelni lub
+- **2)** w dniu nawiązania po raz pierwszy stosunku pracy w szkole posiadał co najmniej 5-letni okres pracy i znaczący dorobek zawodowy – dyrektor szkoły może wyrazić zgodę na odbywanie przygotowania do zawodu nauczyciela w wymiarze 2 lat i 9 miesięcy.
+
+5. Nauczyciel, o którym mowa w ust. 4, może złożyć do dyrektora szkoły wniosek o wyrażenie zgody na odbywanie przygotowania do zawodu nauczyciela w wymiarze, o którym mowa w ust. 4, niepóźniej niż do zakończenia roku szkolnego w drugim roku odbywania przygotowania do zawodu nauczyciela.
+
+6. Nauczyciel mianowany może złożyć wniosek o podjęcie postępowania kwalifikacyjnego na stopień nauczyciela dyplomowanego po przepracowaniu w szkole co najmniej 5 lat i 9 miesięcy od dnia nadania stopnia nauczyciela mianowanego.
+
+7. Nauczyciel mianowany, który:
+
+- **1)** posiada stopień naukowy lub
+- **2)** przed nawiązaniem stosunku pracy w szkole w Rzeczypospolitej Polskiej prowadził zajęcia w szkole za granicą – może złożyć wniosek o podjęcie postępowania kwalifikacyjnego na stopień nauczyciela dyplomowanego po przepracowaniu w szkole co najmniej 4 lat i 9 miesięcy od dnia nadania stopnia nauczyciela mianowanego.
+
+8. Do okresów, o których mowa w ust. 1, 2, 4, 6 i 7, wlicza się okresy zatrudnienia w szkole w wymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć zgodnie z wymaganymi kwalifikacjami.
+
+9. Do okresów, o których mowa w ust. 1, 2, 4, 6 i 7, nie wlicza się okresów nieobecności nauczyciela w pracy trwającej nieprzerwanie dłużej niż 30 dni, z wyjątkiem okresów urlopu wypoczynkowego.
+
+10. W przypadku nauczycieli:
+
+- **1)** o których mowa w art. 1 ust. 2 pkt 1, zatrudnionych na stanowiskach, na których są wymagane kwalifikacje pedagogiczne, lub
+- **2)** urlopowanych lub zwolnionych z obowiązku świadczenia pracy na podstawie ustawy z dnia 23 maja 1991 r. o związkach zawodowych – równoważny z okresem pracy w szkole, o którym mowa w ust. 6 i 7, jest odpowiednio okres zatrudnienia na tych stanowiskach lub czas urlopowania lub zwolnienia z obowiązku świadczenia pracy.
+
+11. Nauczycielowi odbywającemu przygotowanie do zawodu nauczyciela dyrektor szkoły przydziela spośród nauczycieli mianowanych lub dyplomowanych mentora. Mentorem nie może być nauczyciel zajmujący stanowisko kierownicze, z wyjątkiem przedszkoli, szkół i placówek, o których mowa w art. 1 ust. 2 pkt 1a i 2, oraz szkół artystycznych, w których mentorem może być również nauczyciel mianowany lub dyplomowany zajmujący stanowisko kierownicze.
+
+12. Zadaniem mentora, o którym mowa w ust. 11, jest:
+
+- **1)** wspieranie na bieżąco nauczyciela w procesie wdrażania do pracy w zawodzie, w tym zapoznanie go z dokumentacją przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz innymi dokumentami obowiązującymi w szkole;
+- **2)** udzielanie nauczycielowi pomocy w doborze właściwych form doskonalenia zawodowego;
+- **3)** dzielenie się z nauczycielem wiedzą i doświadczeniem w zakresie niezbędnym do efektywnej realizacji obowiązków nauczyciela;
+- **4)** umożliwienie nauczycielowi obserwowania prowadzonych przez siebie zajęć oraz omawianie z nim tych zajęć, w wymiarze co najmniej 1 godziny w miesiącu w pierwszym roku odbywania przygotowania do zawodu nauczyciela i co najmniej 4 godzin w każdym kolejnym roku odbywania przygotowania do zawodu nauczyciela;
+- **5)** obserwowanie zajęć prowadzonych przez nauczyciela oraz omawianie z nim tych zajęć, w wymiarze co najmniej 1 godziny w miesiącu w pierwszym roku odbywania przygotowania do zawodu nauczyciela i co najmniej 4 godzin w każdym kolejnym roku odbywania przygotowania do zawodu nauczyciela, wliczając zajęcia, o których mowa w art. 9fa ust. 1 i 5;
+- **6)** inspirowanie i zachęcanie nauczyciela do podejmowania wyzwań zawodowych.
+
+13. Mentor jest obowiązany poszerzać swoją wiedzę i doskonalić umiejętności w zakresie niezbędnym do pełnienia funkcji mentora.
+
 **Art. 9d.**
 
 1. (uchylony)
@@ -399,6 +461,59 @@ source: "isap-pdf"
 **Art. 9e.** (uchylony)
 
 **Art. 9f.** (uchylony) Art. 9fa. 1. Przed dokonaniem oceny pracy, o której mowa w art. 6a ust. 1da pkt 1, nauczyciel jest obowiązany przeprowadzić zajęcia, w wymiarze co najmniej 1 godziny, w obecności:
+
+- **1)** dyrektora szkoły;
+- **2)** mentora, o którym mowa w art. 9ca ust. 11;
+- **3)** doradcy metodycznego albo nauczyciela-konsultanta, albo przedstawiciela organu sprawującego nadzór pedagogiczny, albo nauczyciela dyplomowanego, który naucza tego samego przedmiotu lub prowadzi ten sam rodzaj zajęć, zatrudnionego w tej samej lub innej szkole.
+
+2. O wymiarze zajęć, o których mowa w ust. 1, decyduje dyrektor szkoły, biorąc pod uwagę potrzeby nauczyciela w zakresie doskonalenia umiejętności praktycznych.
+
+3. Osobę, o której mowa w ust. 1 pkt 3, wskazuje dyrektor szkoły.
+
+4. Po przeprowadzeniu zajęć, o których mowa w ust. 1, osoby obecne podczas przeprowadzania zajęć omawiają je z nauczycielem.
+
+5. W ostatnim roku odbywania przygotowania do zawodu nauczyciela nauczyciel, który w tym okresie uzyskał co najmniej dobrą ocenę pracy, jest obowiązany przeprowadzić zajęcia, w wymiarze 1 godziny, w obecności komisji powołanej przez dyrektora szkoły. <5a. W przypadku nauczyciela psychologa realizującego przygotowanie do zawodu nauczyciela zajęcia, o których mowa w ust. 1 i 5, nie mogą być zajęciami realizowanymi indywidualnie z uczniami, jeżeli w ramach tych zajęć może być naruszona tajemnica, o której mowa w art. 27 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz.
+
+- **187)** .>
+
+6. W skład komisji, o której mowa w ust. 5, wchodzą:
+
+- **1)** dyrektor szkoły, jako przewodniczący komisji;
+- **2)** ekspert z listy ekspertów, o której mowa w art. 9g ust. 11, posiadający kwalifikacje z zakresu psychologii lub pedagogiki, w tym pedagogiki specjalnej, albo nauczyciel mianowany lub dyplomowany zatrudniony na stanowisku psychologa, pedagoga lub pedagoga specjalnego, w tej samej lub innej szkole;
+- **3)** doradca metodyczny albo nauczyciel-konsultant, albo przedstawiciel organu sprawującego nadzór pedagogiczny, albo nauczyciel dyplomowany, który naucza tego samego przedmiotu lub prowadzi ten sam rodzaj zajęć, zatrudniony w tej samej lub innej szkole;
+- **4)** mentor, o którym mowa w art. 9ca ust. 11.
+
+7. Na wniosek nauczyciela w pracach komisji, o której mowa w ust. 6, może brać również udział w charakterze obserwatora przedstawiciel związku zawodowego wskazanego w tym wniosku.
+
+8. Po omówieniu przeprowadzonych zajęć, o których mowa w ust. 5, i przeprowadzeniu rozmowy z nauczycielem komisja wydaje opinię. Opinia może być pozytywna albo negatywna i jest ustalana na podstawie liczby punktów przyznanych przez komisję.
+
+9. Opinia, o której mowa w ust. 8, jest sporządzana na piśmie i zawiera:
+
+- **1)** oznaczenie komisji wydającej opinię;
+- **2)** datę wydania opinii;
+- **3)** wskazanie podstawy prawnej;
+- **4)** datę przeprowadzenia zajęć i ich rodzaj;
+- **5)** imię (imiona) i nazwisko oraz datę urodzenia nauczyciela;
+- **6)** informację o uzyskanej opinii;
+- **7)** informację o liczbie punktów uzyskanych przez nauczyciela;
+- **8)** uzasadnienie opinii;
+- **9)** pouczenie, czy i w jakim trybie nauczycielowi służy wniosek o ponowne przeprowadzenie zajęć, o którym mowa w ust. 10;
+- **10)** imię i nazwisko oraz podpis przewodniczącego komisji.
+
+10. W terminie 14 dni od dnia otrzymania negatywnej opinii, o której mowa w ust. 8, nauczyciel może złożyć do dyrektora szkoły wniosek o ponowne przeprowadzenie zajęć, w wymiarze 1 godziny, w obecności komisji powołanej przez dyrektora szkoły. Przepisy ust. 6–9 stosuje się odpowiednio.
+
+11. Nauczyciel, który uzyskał negatywną opinię, o której mowa w ust. 8, oraz:
+
+- **1)** nie złożył wniosku, o którym mowa w ust. 10, lub
+- **2)** po przeprowadzeniu zajęć, o których mowa w ust. 10, uzyskał ponownie negatywną opinię – odbywa dodatkowe przygotowanie do zawodu nauczyciela w wymiarze roku i 9 miesięcy. W ostatnim roku odbywania dodatkowego przygotowania do zawodu nauczyciela nauczyciel, który w tym okresie uzyskał co najmniej dobrą ocenę pracy, ponownie przeprowadza zajęcia, w wymiarze 1 godziny, w obecności komisji powołanej przez dyrektora szkoły. Przepisy ust. 6–9 i art. 9ca ust. 8, 9 i 11 stosuje się odpowiednio.
+
+12. Nauczyciel, który uzyskał negatywną ocenę pracy, o której mowa w art. 6a ust. 1da pkt 1, nie może być ponownie zatrudniony w tej samej szkole do czasu uzyskania stopnia nauczyciela mianowanego. Po podjęciu zatrudnienia w innej szkole nauczyciel odbywa przygotowanie do zawodu nauczyciela w wymiarze, o którym mowa w art. 9ca ust. 1, 2 albo 4, do którego nie wlicza się okresu dotychczas odbytego przygotowania do zawodu nauczyciela.
+
+13. Nauczyciel, który uzyskał negatywną ocenę pracy w ostatnim roku odbywania przygotowania do zawodu nauczyciela, po podjęciu zatrudnienia w innej szkole odbywa dodatkowe przygotowanie do zawodu nauczyciela w wymiarze roku i 9 miesięcy. W ostatnim roku odbywania dodatkowego przygotowania do zawodu nauczyciela w innej szkole nauczyciel, który w tym okresie uzyskał co najmniej dobrą ocenę pracy, przeprowadza zajęcia, w wymiarze 1 godziny, w obecności komisji powołanej przez dyrektora szkoły. Przepisy ust. 6–9 oraz art. 9ca ust. 8, 9 i 11 stosuje się odpowiednio.
+
+14. W przypadku nauczycieli, o których mowa w art. 1 ust. 2 pkt 1a, zajęcia, o których mowa w ust. 1, 5, 10, 11 i 13, mogą być przeprowadzane w formie wideokonferencji przy wykorzystaniu narzędzi teleinformatycznych umożliwiających przesyłanie dźwięku i obrazu w czasie rzeczywistym.
+
+15. W przypadku przetwarzania danych osobowych i wizerunku dziecka na zajęciach, o których mowa w ust. 1, 5, 10, 11 i 13, przeprowadzanych w sposób określony w ust. 14, jest wymagana zgoda rodzica dziecka. Zgoda rodzica dziecka na przetwarzanie danych osobowych i wizerunku dziecka zawiera: datę i miejsce udzielenia zgody, cel i zakres udzielonej zgody oraz podpis rodzica potwierdzający udzielenie zgody. W przypadku braku zgody dziecko nie uczestniczy w tych zajęciach.
 
 **Art. 9g.**
 
@@ -925,6 +1040,15 @@ source: "isap-pdf"
 
 **Art. 9w.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
+- **1)** sposób odbywania przygotowania do zawodu nauczyciela,
+- **2)** tryb działania komisji, o której mowa w art. 9pa ust. 1, 5 i 6,
+- **3)** wzór opinii o przeprowadzonych zajęciach, o której mowa w art. 9pa ust. 3,
+- **4)** rodzaj dokumentacji dołączanej do wniosku o podjęcie postępowania kwalifikacyjnego,
+- **5)** szczegółowe osiągnięcia w pracy dydaktycznej i wychowawczej nauczyciela, o którym mowa w art. 9j ust. 4, które mogą być uznane za znaczący dorobek zawodowy,
+- **6)** zakres wymagań, o których mowa w art. 9j ust. 2 pkt 5 i ust. 4b pkt 3,
+- **7)** tryb działania komisji, o których mowa w art. 9s ust. 1,
+- **8)** wzory zaświadczeń o zdaniu egzaminu przed komisją egzaminacyjną lub uzyskaniu akceptacji komisji kwalifikacyjnej oraz wzory aktów nadania stopni awansu zawodowego nauczycielom, o których mowa w art. 9j ust. 2, 4 i 4b – uwzględniając potrzebę zapewnienia wsparcia nauczycielom odbywającym przygotowanie do zawodu nauczyciela w realizacji ich obowiązków oraz doskonaleniu umiejętności i pogłębianiu wiedzy, stopniowania i różnicowania wymagań stawianych nauczycielom na poszczególnych stopniach awansu zawodowego, potrzebę prawidłowego, sprawnego i rzetelnego przeprowadzania postępowań egzaminacyjnych i kwalifikacyjnych.
+
 #### Rozdział 4 Nawiązanie, zmiana i rozwiązanie stosunku pracy
 
 **Art. 10.**
@@ -1297,6 +1421,12 @@ source: "isap-pdf"
 **Art. 28a.** Nie można wypowiedzieć stosunku pracy nauczycielowi zatrudnionemu na podstawie mianowania albo umowy o pracę na czas nieokreślony, któremu brakuje niewięcej niż 4 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku.
 
 **Art. 28b.** Przepisu art. 28a nie stosuje się:
+
+- **1)** w przypadku uzyskania przez nauczyciela prawa do renty z tytułu całkowitej niezdolności do pracy;
+- **2)** w przypadkach, o których mowa w art. 20 ust. 1 pkt 1 i art. 23 ust. 1 pkt 5;
+- **3)** w przypadkach, o których mowa w art. 20 ust. 1 pkt 2, jeżeli nie jest możliwe: <Art. 28c. Stosunek pracy z nauczycielem psychologiem ulega rozwiązaniu, bez wypowiedzenia, w razie prawomocnego orzeczenia kary ograniczenia zakresu czynności w wykonywaniu zawodu psychologa, o której mowa w art. 94 ust. 1 pkt 4 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, jeżeli zakres czynności, które objęto ograniczeniem, należy do zadań nauczyciela psychologa.>
+    - **a)** ograniczenie zatrudnienia nauczyciela zatrudnionego na podstawie mianowania w trybie określonym w art. 22 ust. 2 albo nauczyciel nie wyraził na nie zgody,
+    - **b)** dalsze zatrudnienie nauczyciela na podstawie umowy o pracę na czas nieokreślony w niższym niż dotychczas wymiarze zajęć albo nauczyciel nie wyraził zgody na zmniejszenie wymiaru zatrudnienia.
 
 #### Rozdział 5 Warunki pracy i wynagrodzenie
 
@@ -1838,6 +1968,9 @@ source: "isap-pdf"
 
 **Art. 67b.** Nauczyciel może zrezygnować z udzielonego mu urlopu wychowawczego:
 
+- **1)** w każdym czasie – za zgodą organu udzielającego urlopu;
+- **2)** z początkiem roku szkolnego – po uprzednim zawiadomieniu organu udzielającego urlopu, co najmniej na 3 miesiące przed zamierzonym terminem podjęcia pracy.
+
 **Art. 67c.**
 
 1. W przypadku wykorzystywania urlopu wychowawczego nauczyciel nabywa prawo do urlopu wypoczynkowego z dniem rozpoczęcia ferii szkolnych przypadających po zakończeniu urlopu wychowawczego.
@@ -1994,6 +2127,10 @@ source: "isap-pdf"
 12. W przypadku realizacji szkoleń branżowych w wymiarze większym niż 40 godzin w trzyletnim cyklu, źródłem finansowania tych szkoleń nie mogą być środki, o których mowa w ust. 11 pkt 2 i 3.
 
 **Art. 70d.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+- **1)** rodzaje wydatków związanych z organizacją i prowadzeniem doskonalenia zawodowego nauczycieli, które mogą być dofinansowywane ze środków, o których mowa w art. 70a ust. 1,
+- **2)** warunki, tryb i kryteria przyznawania środków, o których mowa w art. 70a ust. 1,
+- **3)** szczegółowe cele szkolenia branżowego oraz tryb i warunki kierowania nauczycieli na szkolenia branżowe – uwzględniając kompetencje organów wymienionych w art. 70a ust. 1 oraz dyrektorów szkół w zakresie planowania i wydatkowania środków na doskonalenie zawodowe nauczycieli, a także konieczność organizacji doskonalenia zawodowego nauczycieli w sposób służący podnoszeniu jakości pracy szkół oraz efektywnego gospodarowania środkami przeznaczonymi na doskonalenie zawodowe nauczycieli i środkami na finansowanie kosztów szkoleń branżowych pochodzącymi z innych źródeł.
 
 #### Rozdział 8 Ochrona zdrowia
 
@@ -2804,6 +2941,10 @@ source: "isap-pdf"
 
 **Art. 91d.** W przypadku szkół i placówek prowadzonych przez jednostki samorządu terytorialnego, zadania i kompetencje organu prowadzącego określone w:
 
+- **1)** art. 30 ust. 6 i 10a, art. 42 ust. 7, art. 42a ust. 1, art. 49 ust. 2, art. 70a ust. 1 oraz art. 72 ust. 1 – wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa;
+- **2)** art. 9g ust. 2, art. 29 ust. 1, art. 30a oraz art. 53 ust. 3a i 4 – wykonuje odpowiednio: wójt, burmistrz (prezydent miasta), zarząd powiatu, zarząd województwa;
+- **3)** art. 6a ust. 1 pkt 3 oraz ust. 6, art. 9b ust. 3, 3a i 4 pkt 2 oraz ust. 6, art. 9g ust. 3 pkt 1 i ust. 4, art. 18 ust. 4 i 5, art. 22 ust. 1, art. 26 ust. 2, art. 42 ust. 6a, art. 54 ust. 5, art. 63 ust. 2, art. 75 ust. 2a, art. 85s ust. 4, art. 85t ust. 1, 2 i 5 oraz art. 85z ust. 1 pkt 2 i ust. 3 pkt 2 – wykonuje odpowiednio: wójt, burmistrz (prezydent miasta), starosta, marszałek województwa.
+
 #### Rozdział 12 Przepisy epizodyczne, przejściowe i końcowe
 
 **Art. 92.** (uchylony)
@@ -2883,6 +3024,9 @@ source: "isap-pdf"
 
 **Art. 92g.** Wydatków bieżących wynikających z wypłaty nagrody, o której mowa w art. 92a ust. 1, nie wlicza się do zaplanowanych na rok 2023:
 
+- **1)** wydatków bieżących jednostki samorządu terytorialnego uwzględnianych przy ustalaniu podstawowej kwoty dotacji, o której mowa w art. 12 i art. 50 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych;
+- **2)** wydatków bieżących budżetu państwa z części, której dysponentem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego uwzględnianych przy ustalaniu podstawowej kwoty dotacji, o której mowa w art. 13 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych.
+
 **Art. 92h.** W roku 2023 nagrodę, o której mowa w art. 92a ust. 1, przyznaje się także osobom, o których mowa w art. 15 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zatrudnionym w przedszkolach, szkołach i placówkach oraz innych jednostkach organizacyjnych, o których mowa w art. 1 ust. 1 i ust. 2 pkt 1b i 2, a także ich zespołach. Przepisy art. 92a–92g stosuje się odpowiednio.
 
 **Art. 93.** (uchylony)
@@ -2896,6 +3040,10 @@ source: "isap-pdf"
 **Art. 93b.** W roku szkolnym 2023/2024 w szkole ponadpodstawowej, o której mowa w art. 18 ust. 1 pkt 2 lit. a–c ustawy – Prawo oświatowe, nauczycielowi mogą być przydzielone, za jego zgodą, godziny ponadwymiarowe w wymiarze wyższym niż określony w art. 35 ust. 1.
 
 **Art. 93c.** Na emeryturę, o której mowa w art. 88a ust. 1, mogą przejść, począwszy od dnia:
+
+- **1)** 1 września 2024 r. – nauczyciele urodzeni przed dniem 1 września 1966 r.;
+- **2)** 1 września 2025 r. – nauczyciele urodzeni po dniu 31 sierpnia 1966 r., a przed dniem 1 września 1969 r.;
+- **3)** 1 września 2026 r. – nauczyciele urodzeni po dniu 31 sierpnia 1969 r.
 
 **Art. 93d.**
 

@@ -8,7 +8,7 @@ pos: 437
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o służbie medycyny pracy
@@ -54,6 +54,13 @@ source: "isap-pdf"
 **Art. 3.** Osoby realizujące zadania służby medycyny pracy przy wykonywaniu czynności zawodowych są niezależne od pracodawców, pracowników i ich przedstawicieli oraz innych podmiotów, na których zlecenie realizują zadania tej służby.
 
 **Art. 4.** Ilekroć w ustawie jest mowa o:
+
+- **1)** profilaktycznej opiece zdrowotnej – należy przez to rozumieć ogół działań zapobiegających powstawaniu i szerzeniu się niekorzystnych skutków zdrowotnych, które w sposób bezpośredni lub pośredni mają związek z warunkami albo charakterem pracy;
+- **2)** pracującym – należy przez to rozumieć osoby wymienione w art. 5 ust. 1 i 3;
+- **3)** pracodawcy – należy przez to rozumieć jednostkę organizacyjną, choćby nie posiadała osobowości prawnej, a także osobę fizyczną – jeżeli podmioty te zatrudniają pracowników – lub będący odpowiednikiem pracodawcy podmiot stosunku służbowego;
+- **4)** ryzyku zawodowym – należy przez to rozumieć możliwość wystąpienia niepożądanych, związanych z wykonywaną pracą zdarzeń powodujących straty, w szczególności niekorzystnych skutków zdrowotnych będących wynikiem zagrożeń zawodowych występujących w środowisku pracy lub związanych ze sposobem wykonywania pracy.
+- **4a)** (uchylony)
+- **5)** (uchylony)
 
 **Art. 5.**
 
@@ -251,6 +258,21 @@ source: "isap-pdf"
 
 **Art. 17.** Do zadań wojewódzkiego ośrodka medycyny pracy należy w szczególności:
 
+- **1)** udzielanie konsultacji podstawowym jednostkom służby medycyny pracy;
+- **2)** wykonywanie kontroli podstawowych jednostek służby medycyny pracy, w zakresie i w sposób określony w ustawie;
+- **3)** prowadzenie podyplomowego kształcenia z zakresu medycyny pracy, z wyjątkiem tych form, które z mocy odrębnych przepisów są zastrzeżone do kompetencji innych jednostek;
+- **4)** prowadzenie działalności diagnostycznej i orzeczniczej w zakresie chorób zawodowych;
+- **5)** rozpatrywanie odwołań od orzeczeń lekarskich wydawanych do celów przewidzianych w Kodeksie pracy;
+- **6)** współdziałanie w programowaniu i realizacji zadań z zakresu profilaktyki i promocji zdrowia;
+- **7)** udzielanie konsultacji i opiniowanie spraw dotyczących organizacji i funkcjonowania opieki zdrowotnej nad pracującymi oraz innych spraw związanych z ochroną zdrowia pracujących;
+- **8)** prowadzenie rejestrów zgłoszeń, o których mowa w art. 10;
+- **9)** udzielanie świadczeń zdrowotnych, w ilościach niezbędnych do prowadzenia specjalizacji z medycyny pracy i innych specjalizacji lekarskich, których program obejmuje odbycie staży kierunkowych w zakresie medycyny pracy – na zasadach określonych w art. 12;
+- **10)** udzielanie świadczeń zdrowotnych na zlecenie jednostek podstawowych służby medycyny pracy w zakresie i na zasadach określonych w art. 14;
+- **11)** przyjmowanie, gromadzenie, przechowywanie i przetwarzanie dokumentacji służby medycyny pracy, przekazanej w związku z likwidacją jednostek organizacyjnych tej służby;
+- **12)** gromadzenie, przechowywanie i przetwarzanie informacji zawartych w rejestrach, o których mowa w art. 10, oraz dokumentacji z kontroli jednostek podstawowych służby medycyny pracy zarejestrowanych na terenie województwa;
+- **13)** przeprowadzanie okresowych badań lekarskich realizowanych w trybie art. 229 § 5 Kodeksu pracy, w przypadku gdy podmiot, który zatrudniał pracownika, uległ likwidacji;
+- **14)** przeprowadzanie badań i wydawanie orzeczeń lekarskich określonych w odrębnych przepisach.
+
 **Art. 17a.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, limit badań wykonywanych do celów przewidzianych w Kodeksie pracy w ramach świadczeń zdrowotnych, o których mowa w art. 17 pkt 9, biorąc pod uwagę niezbędność ich przeprowadzania dla potrzeb szkolenia specjalizacyjnego lekarzy przez wojewódzkie ośrodki medycyny pracy.
 
 **Art. 18.**
@@ -268,6 +290,9 @@ source: "isap-pdf"
 
 **Art. 19.** Osoba wyznaczona przez kierownika wojewódzkiego ośrodka medycyny pracy, uprawniona do wykonywania kontroli, ma prawo żądać od:
 
+- **1)** kontrolowanego podmiotu – niezbędnych informacji i udostępnienia dokumentacji, z tym że dokumentacja medyczna może być udostępniona tylko osobom wykonującym odpowiedni zawód medyczny;
+- **2)** zleceniodawcy zadań służby medycyny pracy – dostępu do stanowisk pracy w celu zweryfikowania ich oceny dokonanej przez osobę będącą podstawową jednostką służby medycyny pracy, osobę zatrudnioną w podstawowej jednostce tej służby lub osobę wykonującą zadania tej służby w formach, o których mowa w art. 2 ust. 3.
+
 **Art. 20.**
 
 1. Kontrolę jakości udzielanych świadczeń zdrowotnych w wojewódzkich ośrodkach medycyny pracy oraz kontrolę realizacji zadań, o których mowa w art. 17, przeprowadzają, na zlecenie ministra właściwego do spraw zdrowia, jednostki, o których mowa w art. 2 ust. 4.
@@ -275,6 +300,14 @@ source: "isap-pdf"
 2. Przepisy ust. 1 oraz art. 18 i 19 nie naruszają przepisów o kontroli wykonywanej na podstawie przepisów o działalności leczniczej oraz przepisów o wykonywaniu zawodu lekarza lub przepisów o wykonywaniu zawodu pielęgniarki i położnej.
 
 **Art. 20a.** Jednostki, o których mowa w art. 2 ust. 4:
+
+- **1)** w zakresie zadań służby medycyny pracy, o których mowa w art. 6 ust. 1 pkt 2 lit. b–d:
+    - **a)** uczestniczą w orzekaniu w sprawach chorób zawodowych w zakresie uregulowanym w odrębnych przepisach,
+    - **b)** orzekają dla celów przewidzianych w Kodeksie pracy w przypadkach zakwestionowania treści orzeczenia lekarskiego wydanego przez lekarza zatrudnionego w wojewódzkim ośrodku medycyny pracy;
+
+- **2)** prowadzą, na podstawie odrębnych przepisów, kształcenie przeddyplomowe i podyplomowe w zakresie medycyny pracy, bezpieczeństwa i higieny pracy, ergonomii i psychologii pracy;
+- **3)** inicjują, opracowują i prowadzą, w tym również na zlecenie ministra właściwego do spraw zdrowia, programy prewencji zagrożeń zdrowia wynikających z wpływu niekorzystnych warunków środowiska pracy i sposobu wykonywania pracy, w szczególności ujawnianych w drodze badań epidemiologicznych;
+- **4)** wspomagają jednostki organizacyjne służby medycyny pracy działalnością konsultacyjną w zakresie medycyny pracy, bezpieczeństwa i higieny pracy, ergonomii i psychologii pracy oraz wykonują ekspertyzy, zwłaszcza w sytuacji wystąpienia nowych problemów dotyczących zdrowia pracujących.
 
 **Art. 21.**
 
@@ -295,9 +328,16 @@ source: "isap-pdf"
 
 **Art. 22.** Pracodawcy:
 
+- **1)** ponoszą koszty przeprowadzanych badań wstępnych, okresowych i kontrolnych oraz profilaktycznej opieki zdrowotnej niezbędnej ze względu na warunki pracy, na zasadach określonych w Kodeksie pracy oraz przepisach wydanych na jego podstawie;
+- **2)** finansują wybrane przez siebie świadczenia zdrowotne z zakresu profilaktycznej opieki zdrowotnej, należące do zadań służby medycyny pracy określonych w art. 6 ust. 1.
+
 **Art. 22a.** (uchylony)
 
 **Art. 23.** Ze środków własnych finansują profilaktyczną opiekę zdrowotną sprawowaną przez służbę medycyny pracy:
+
+- **1)** osoby prowadzące działalność gospodarczą na własny rachunek i osoby z nimi współpracujące;
+- **2)** rolnicy indywidualni i pracujący z nimi domownicy oraz członkowie spółdzielni produkcji rolnej, z wyjątkiem orzecznictwa dotyczącego rolniczych chorób zawodowych, którego finansowanie następuje na zasadach określonych w przepisach o ubezpieczeniu społecznym rolników;
+- **3)** byli pracownicy oraz osoby, które wykonywały pracę na innej podstawie niż stosunek pracy, lub osoby, które pozostawały w stosunku służbowym, o ile w odrębnych przepisach nie wskazano innego sposobu finansowania.
 
 **Art. 24.** Do jednostek organizacyjnych służby medycyny pracy będących zakładami opieki zdrowotnej , w zakresie nieuregulowanym w ustawie, stosuje się przepisy ustawy o zakładach opieki zdrowotnej .
 

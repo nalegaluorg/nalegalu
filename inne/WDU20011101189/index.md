@@ -8,7 +8,7 @@ pos: 1189
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przetwarzaniu informacji kryminalnych
@@ -41,9 +41,20 @@ Art. 45–75. (pominięte)
 
 3. Informacje kryminalne przekazuje się podmiotom uprawnionym, o których mowa w art. 19, w innych celach niż określone w ust. 1, w zakresie niezbędnym dla realizacji ich zadań ustawowych, w szczególności w celu ochrony bezpieczeństwa i porządku publicznego, zapobiegania i zwalczania zdarzeń oraz zagrożeń o charakterze terrorystycznym lub prowadzenia działań kontrterrorystycznych, jeżeli podmioty te są uprawnione na podstawie ustawy do przetwarzania informacji, w tym danych osobowych, wchodzących w zakres informacji kryminalnych w celu realizacji określonego zadania.
 
-**Art. 3.** Ustawę stosuje się do organów administracji rządowej, państwowych jednostek organizacyjnych oraz organów samorządu zadania publiczne na podstawie odrębnych przepisów.
+**Art. 3.** Ustawę stosuje się do organów administracji rządowej, państwowych jednostek organizacyjnych oraz organów samorządu terytorialnego, o których mowa w art. 19 i 20, w zakresie, w jakim realizują zadania publiczne na podstawie odrębnych przepisów.
 
 **Art. 4.** W rozumieniu ustawy:
+
+- **1)** informacje kryminalne – to określone w art. 13 ust. 1 dane dotyczące spraw będących przedmiotem czynności operacyjno-rozpoznawczych, wszczętego lub zakończonego postępowania karnego, w tym postępowania w sprawach o przestępstwa skarbowe, oraz dotyczące innych postępowań lub czynności prowadzonych na podstawie ustaw przez podmioty określone w art. 19 i 20, istotnych z punktu widzenia czynności operacyjno-rozpoznawczych lub postępowania karnego;
+- **2)** (uchylony)
+- **3)** gromadzenie informacji kryminalnych – to wprowadzanie do bazy danych informacji kryminalnych otrzymanych od podmiotów zobowiązanych, o których mowa w art. 20, przekazanych w odpowiedzi na zapytanie lub z własnej inicjatywy;
+- **4)** przetwarzanie informacji kryminalnych – oznacza przetwarzanie w rozumieniu art. 4 pkt 14 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206);
+- **5)** usuwanie informacji kryminalnych – to trwałe zniszczenie informacji kryminalnych w bazach danych lub takie ich przekształcenie, które nie pozwoli na identyfikację informacji w bazach danych;
+- **6)** analiza informacji kryminalnych – to zestawianie cech, części lub składników informacji kryminalnych, a także wniosków z nich wynikających;
+- **7)** bazy danych – to prowadzone w Krajowym Centrum Informacji Kryminalnych uporządkowane i utrwalone zbiory przekazanych i zarejestrowanych informacji kryminalnych oraz zarejestrowanych zapytań i udzielonych odpowiedzi.
+- **8)** (uchylony)
+
+#### Rozdział 2 Szef Krajowego Centrum Informacji Kryminalnych
 
 **Art. 5.**
 
@@ -55,6 +66,12 @@ Art. 45–75. (pominięte)
 
 **Art. 6.** Do zadań Komendanta Głównego Policji, będącego Szefem Krajowego Centrum Informacji Kryminalnych, zwanego dalej „Szefem Centrum”, należy w szczególności:
 
+- **1)** przetwarzanie i przekazywanie informacji kryminalnych;
+- **2)** prowadzenie baz danych oraz określanie organizacyjnych warunków i technicznych sposobów prowadzenia;
+- **3)** opracowywanie analiz informacji kryminalnych;
+- **4)** zapewnienie bezpieczeństwa przetwarzanym w Centrum informacjom kryminalnym, zgodnie z przepisami ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości oraz przepisami ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209).
+- **5)** (uchylony)
+
 **Art. 7.** (uchylony)
 
 **Art. 8.** (uchylony)
@@ -65,7 +82,7 @@ Art. 45–75. (pominięte)
 
 **Art. 11.**
 
-1. Szef Centrum składa ministrowi właściwemu do spraw wewnętrznych raz w roku, w terminie do dnia 31 marca, sprawozdanie z działalności Centrum w poprzednim roku kalendarzowym wraz z wnioskami w Centrum informacji kryminalnych, uwzględniającą zakres danych określony w art. 13 ust. 1 pkt 1, 2 i pkt 5 lit. a–c.
+1. Szef Centrum składa ministrowi właściwemu do spraw wewnętrznych raz w roku, w terminie do dnia 31 marca, sprawozdanie z działalności Centrum w poprzednim roku kalendarzowym wraz z wnioskami wynikającymi z realizacji ustawy oraz zbiorczą analizą zgromadzonych w Centrum informacji kryminalnych, uwzględniającą zakres danych określony w art. 13 ust. 1 pkt 1, 2 i pkt 5 lit. a–c.
 
 2. Minister właściwy do spraw wewnętrznych, po uzyskaniu opinii Ministra Sprawiedliwości, Ministra Obrony Narodowej, ministra właściwego do spraw finansów publicznych, ministra właściwego do spraw instytucji finansowych oraz Prokuratora Generalnego, przedkłada Prezesowi Rady Ministrów coroczne sprawozdanie z działalności Szefa Centrum wraz z uzyskanymi opiniami oraz własną oceną sprawozdania, w terminie do dnia 31 maja.
 
@@ -87,7 +104,8 @@ Art. 45–75. (pominięte)
 - **4)** nazwę organu lub jednostki organizacyjnej prowadzącej czynności lub postępowanie oraz informację o sposobie nawiązania kontaktu z tym organem lub jednostką organizacyjną;
 - **5)** informacje o:
     - **a)** osobach, przeciwko którym prowadzone jest postępowanie karne, w tym postępowanie w sprawach o przestępstwa skarbowe, lub w stosunku do których prowadzone są czynności operacyjno-rozpoznawcze,
-    - **b)** przedmiotach, w tym nieruchomościach, wykorzystanych do popełnienia przestępstwa, uzyskanych w wyniku przestępstwa lub utraconych w związku z przestępstwem, co do których zachodzi uzasadnione podejrzenie, że zostały wykorzystane w celu popełnienia przestępstwa, zgromadzone w rejestrach prowadzonych na podstawie odrębnych przepisów,
+    - **b)** przedmiotach, w tym nieruchomościach, wykorzystanych do popełnienia przestępstwa, uzyskanych w wyniku przestępstwa lub utraconych w związku z przestępstwem,
+    - **c)** przedsiębiorcach, spółkach cywilnych, fundacjach, stowarzyszeniach, co do których zachodzi uzasadnione podejrzenie, że zostały wykorzystane w celu popełnienia przestępstwa, zgromadzone w rejestrach prowadzonych na podstawie odrębnych przepisów,
     - **d)** numerach rachunków bankowych lub rachunków papierów wartościowych, co do których zachodzi uzasadnione podejrzenie, że zostały wykorzystane w celu popełnienia przestępstwa lub że gromadzone są na nich środki pochodzące z przestępstwa,
     - **e)** innych postępowaniach lub czynnościach prowadzonych na podstawie ustaw przez podmioty, o których mowa w art. 19 i 20, istotnych z punktu widzenia czynności operacyjno-rozpoznawczych lub postępowania karnego, w tym postępowania w sprawach o przestępstwa skarbowe.
 
@@ -108,7 +126,11 @@ Art. 45–75. (pominięte)
     - **l)** numer identyfikacji podatkowej NIP,
     - **m)** numer identyfikacyjny REGON;
 
-- **2)** inne dane przekazane przez podmioty, o których mowa w art. 19 i 20, pozwalające na określenie tożsamości osoby, a w szczególności rysopis i przynależność do grupy przestępczej. 4 oraz pkt 5 lit. a i e, są przechowywane w bazach danych przez okres 15 lat.
+- **2)** inne dane przekazane przez podmioty, o których mowa w art. 19 i 20, pozwalające na określenie tożsamości osoby, a w szczególności rysopis i przynależność do grupy przestępczej.
+
+**Art. 14.**
+
+1. Informacje kryminalne, o których mowa w art. 13 ust. 1 pkt 1– 4 oraz pkt 5 lit. a i e, są przechowywane w bazach danych przez okres 15 lat.
 
 2. Informacje kryminalne, o których mowa w art. 13 ust. 1 pkt 5 lit. b, c i d, są przechowywane w bazach danych przez okres 5 lat.
 
@@ -130,7 +152,11 @@ Art. 45–75. (pominięte)
 
 2. Szef Centrum udostępnia informacje kryminalne zgromadzone w bazach danych podmiotom uprawnionym oraz podmiotom zobowiązanym, które nie są podmiotami uprawnionymi, na zasadach określonych w niniejszej ustawie.
 
-3. Szef Centrum udostępnia informacje kryminalne zgromadzone w bazach danych w celu ich wymiany z organami ścigania innych państw na zasadach i w trybie określonych w przepisach ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 783 oraz z 2025 r. poz. 820). informacji kryminalnych od podmiotów zobowiązanych, które weszły w ich posiadanie zgodnie z prawem, w zakresie, o którym mowa w art. 13, nawet jeśli są one objęte ochroną na podstawie odrębnych przepisów o tajemnicach i informacjach prawnie chronionych.
+3. Szef Centrum udostępnia informacje kryminalne zgromadzone w bazach danych w celu ich wymiany z organami ścigania innych państw na zasadach i w trybie określonych w przepisach ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 783 oraz z 2025 r. poz. 820).
+
+**Art. 17.**
+
+1. Szef Centrum jest uprawniony do otrzymywania wszelkich informacji kryminalnych od podmiotów zobowiązanych, które weszły w ich posiadanie zgodnie z prawem, w zakresie, o którym mowa w art. 13, nawet jeśli są one objęte ochroną na podstawie odrębnych przepisów o tajemnicach i informacjach prawnie chronionych.
 
 2. Podmioty zobowiązane mają obowiązek przekazywania Szefowi Centrum informacji kryminalnych, o których mowa w ust. 1.
 
@@ -148,11 +174,36 @@ Art. 45–75. (pominięte)
 
 **Art. 19.** Podmiotami uprawnionymi, w zakresie swoich zadań ustawowych, do otrzymywania informacji kryminalnych z Centrum, zwanymi w niniejszej ustawie „podmiotami uprawnionymi”, są:
 
+- **1)** organy prokuratury;
+- **2)** organy Policji;
+- **2a)** Centralne Biuro Antykorupcyjne;
+- **2b)** Agencja Bezpieczeństwa Wewnętrznego;
+- **2c)** Agencja Wywiadu;
+- **3)** organy Straży Granicznej;
+- **3a)** Straż Marszałkowska;
+- **4)** (uchylony)
+- **5)** (uchylony)
+- **6)** (uchylony)
+- **7)** organy Krajowej Administracji Skarbowej;
+- **7a)** (uchylony)
+- **8)** Służba Ochrony Państwa;
+- **9)** Żandarmeria Wojskowa;
+- **10)** organy informacji finansowej;
+- **11)** (uchylony)
+- **12)** organy administracji publicznej właściwe w sprawach obywatelstwa, cudzoziemców i repatriacji;
+- **13)** Szef Służby Kontrwywiadu Wojskowego oraz Szef Służby Wywiadu Wojskowego;
+- **13a)** Przewodniczący Komisji Nadzoru Finansowego lub upoważniony przez niego przedstawiciel;
+- **13b)** (uchylony)
+- **14)** Dyrektor Generalny Lasów Państwowych, dyrektorzy regionalnych dyrekcji Lasów Państwowych, nadleśniczowie oraz Główny Inspektor Straży Leśnej;
+- **15)** dyrektorzy parków narodowych.
+- **16)** (uchylony)
+
 **Art. 20.**
 
 1. Podmiotami zobowiązanymi do przekazywania informacji kryminalnych do Centrum są podmioty uprawnione oraz:
 
-- **1)** organy administracji rządowej lub organy samorządu terytorialnego właściwe w sprawach ewidencji ludności, Powszechnego Elektronicznego Systemu Ewidencji Ludności, ewidencji paszportowych, Rejestru Dowodów Osobistych, ewidencji wojskowej, o której mowa w art. 70 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080), centralnej ewidencji pojazdów, centralnej ewidencji kierowców, rejestracji pojazdów, rejestru cywilnych statków powietrznych, rejestru administracyjnego polskich statków żeglugi śródlądowej, polskiego rejestru jachtów, polskiego rejestru okrętowego, nadzoru geodezyjnego i kartograficznego, administracji geodezyjnej i kartograficznej, ewidencji gruntów i budynków, rejestracji stanu cywilnego, publicznej służby zatrudnienia lub pomocy społecznej, zastawów,
+- **1)** organy administracji rządowej lub organy samorządu terytorialnego właściwe w sprawach ewidencji ludności, Powszechnego Elektronicznego Systemu Ewidencji Ludności, ewidencji paszportowych, Rejestru Dowodów Osobistych, ewidencji wojskowej, o której mowa w art. 70 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080), centralnej ewidencji pojazdów, centralnej ewidencji kierowców, rejestracji pojazdów, rejestru cywilnych statków powietrznych, rejestru administracyjnego polskich statków żeglugi śródlądowej, polskiego rejestru jachtów, polskiego rejestru okrętowego, nadzoru geodezyjnego i kartograficznego, administracji geodezyjnej i kartograficznej, ewidencji gruntów i budynków, rejestracji stanu cywilnego, publicznej służby zatrudnienia lub pomocy społecznej,
+- **2)** sądy prowadzące Krajowy Rejestr Sądowy, księgi wieczyste i rejestr zastawów,
 - **3)** organy Inspekcji Ochrony Środowiska,
 - **4)** organy Państwowej Straży Pożarnej,
 - **5)** organy Zakładu Ubezpieczeń Społecznych, 5a) Prezes Kasy Rolniczego Ubezpieczenia Społecznego,
@@ -176,7 +227,9 @@ Art. 45–75. (pominięte)
 
 1. Podmioty uprawnione przekazują z urzędu informacje kryminalne Szefowi Centrum niezwłocznie po ich uzyskaniu, z zastrzeżeniem art. 24 ust. 1. Informacje kryminalne, o których mowa w art. 13 ust. 1 pkt 5 lit. e, podmioty uprawnione przekazują na zapytanie.
 
-2. Podmioty uprawnione przekazują Szefowi Centrum informacje kryminalne na wypełnionych kartach rejestracyjnych, z wyjątkiem informacji, o których mowa w art. 13 ust. 1 pkt 5 lit. e, które są przekazywane w formie pisemnej. modyfikacji informacji kryminalnych w celu zapewnienia ich aktualności i zgodności z prawem.
+2. Podmioty uprawnione przekazują Szefowi Centrum informacje kryminalne na wypełnionych kartach rejestracyjnych, z wyjątkiem informacji, o których mowa w art. 13 ust. 1 pkt 5 lit. e, które są przekazywane w formie pisemnej.
+
+2a. Podmioty uprawnione dokonują niezwłocznie niezbędnych modyfikacji informacji kryminalnych w celu zapewnienia ich aktualności i zgodności z prawem.
 
 3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory kart rejestracyjnych oraz sposób ich wypełniania, uwzględniając zakres gromadzonych informacji kryminalnych określonych w art. 13.
 
@@ -191,6 +244,14 @@ Art. 45–75. (pominięte)
 2. Podmioty zobowiązane przekazują Szefowi Centrum informacje kryminalne niezwłocznie po ustaniu przyczyny nieprzekazania lub ograniczenia zakresu przekazanych informacji kryminalnych.
 
 **Art. 25.** Informacje kryminalne podlegają usunięciu z baz danych, jeżeli:
+
+- **1)** ich gromadzenie jest zabronione;
+- **2)** zarejestrowane informacje kryminalne okazały się nieprawdziwe;
+- **3)** ustał cel ich gromadzenia;
+- **4)** upłyną okresy, o których mowa w art. 14 ust. 1–3;
+- **5)** jest to uzasadnione ze względu na bezpieczeństwo państwa lub jego obronność albo mogą spowodować identyfikację osób udzielających pomocy przy wykonywaniu czynności operacyjno-rozpoznawczych prowadzonych przez upoważnione do tego podmioty uprawnione.
+
+**Art. 26.** Przetwarzanie informacji kryminalnych dokonuje się przy wykorzystaniu urządzeń i systemów informatycznych i teleinformatycznych, kartotek, skorowidzów, ksiąg, wykazów i zbiorów ewidencyjnych.
 
 **Art. 27.**
 
@@ -214,7 +275,7 @@ Art. 45–75. (pominięte)
 
 1. Szef Centrum przekazuje informacje kryminalne niezwłocznie po otrzymaniu od podmiotu uprawnionego zapytania. Szef Centrum może przekazać informacje kryminalne podmiotowi zobowiązanemu, niebędącemu podmiotem uprawnionym, na jego zapytanie zadane w związku z prowadzonym przez niego, na podstawie odrębnych przepisów, postępowaniem karnym lub postępowaniem karnym wykonawczym.
 
-2. Jeżeli zgromadzone w bazach danych informacje kryminalne są niewystarczające do udzielenia odpowiedzi na zapytanie, Szef Centrum występuje z zapytaniem do podmiotów zobowiązanych w zakresie koniecznym wystąpił z zapytaniem, jest obowiązany do niezwłocznego udzielenia odpowiedzi.
+2. Jeżeli zgromadzone w bazach danych informacje kryminalne są niewystarczające do udzielenia odpowiedzi na zapytanie, Szef Centrum występuje z zapytaniem do podmiotów zobowiązanych w zakresie koniecznym do udzielenia odpowiedzi. Podmiot zobowiązany, do którego Szef Centrum wystąpił z zapytaniem, jest obowiązany do niezwłocznego udzielenia odpowiedzi.
 
 3. Skierowanie zapytania przez podmiot uprawniony do Szefa Centrum jest dokonywane na wypełnionej karcie zapytania.
 
@@ -235,7 +296,9 @@ Art. 45–75. (pominięte)
 
 2. Na wniosek organu Policji, o którym mowa w art. 5b ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366), zwanej dalej „ustawą o Policji”, lub organu Straży Granicznej, o którym mowa w art. 3c ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366), zwanej dalej „ustawą o Straży Granicznej”, w przypadku udostępnienia informacji kryminalnej w zakresie realizacji zadań ustawowych określonych w art. 5b ust. 1 ustawy o Policji lub art. 3c ust. 1 ustawy o Straży Granicznej przepisu ust. 1 nie stosuje się.
 
-**Art. 30.** Szef Centrum nie przekazuje informacji kryminalnych, jeżeli ich przekazanie mogłoby spowodować identyfikację osób udzielających pomocy przy wykonywaniu czynności operacyjno-rozpoznawczych prowadzonych przez upoważnione do tego podmioty uprawnione. -rozpoznawcze, który przekazał informację kryminalną, może zastrzec, jeżeli groziłoby to niepowodzeniem tych czynności, aby nie została ona przekazana bez jego zgody.
+**Art. 30.** Szef Centrum nie przekazuje informacji kryminalnych, jeżeli ich przekazanie mogłoby spowodować identyfikację osób udzielających pomocy przy wykonywaniu czynności operacyjno-rozpoznawczych prowadzonych przez upoważnione do tego podmioty uprawnione.
+
+**Art. 31.** Podmiot zobowiązany prowadzący czynności operacyjno-rozpoznawcze, który przekazał informację kryminalną, może zastrzec, jeżeli groziłoby to niepowodzeniem tych czynności, aby nie została ona przekazana bez jego zgody.
 
 **Art. 32.** W sytuacji, o której mowa w art. 30, oraz w przypadku braku zgody, o której mowa w art. 31, Szef Centrum informuje podmiot występujący z zapytaniem, iż nie posiada informacji kryminalnych pozwalających na udzielenie odpowiedzi.
 
@@ -257,7 +320,11 @@ Art. 45–75. (pominięte)
 
 3. Szef Centrum prowadzi rejestr osób upoważnionych.
 
-4. Jeżeli zapytanie pochodzi od osoby nieupoważnionej, Szef Centrum nie przekazuje informacji kryminalnych oraz zawiadamia o tym podmiot uprawniony, przekazując mu treść złożonego zapytania. do prawdziwości przekazanej mu przez Szefa Centrum informacji kryminalnej, jest obowiązany niezwłocznie poinformować o tym Szefa Centrum.
+4. Jeżeli zapytanie pochodzi od osoby nieupoważnionej, Szef Centrum nie przekazuje informacji kryminalnych oraz zawiadamia o tym podmiot uprawniony, przekazując mu treść złożonego zapytania.
+
+**Art. 35.**
+
+1. Podmiot zobowiązany, który poweźmie istotną wątpliwość co do prawdziwości przekazanej mu przez Szefa Centrum informacji kryminalnej, jest obowiązany niezwłocznie poinformować o tym Szefa Centrum.
 
 2. Szef Centrum przeprowadza czynności zmierzające do ustalenia, czy informacja, o której mowa w ust. 1, jest prawdziwa.
 

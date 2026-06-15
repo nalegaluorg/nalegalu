@@ -8,7 +8,7 @@ pos: 1546
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2004-05-27 |
 | Data wydania | 2004-06-28 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041461546) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1546/text.pdf) |
 
 Art. 70zb. 1. Działalność określona w art. 70e ust. 1 nie wymaga uzyskania zezwolenia Komisji i może być wykonywana na podstawie wpisu do rejestru zarządzających ASI, jeżeli łączna wartość aktywów wchodzących w skład portfeli inwestycyjnych alternatywnych spółek inwestycyjnych, którymi zamierza zarządzać lub zarządza zarządzający ASI, nie przekracza, z uwzględnieniem art. 2 rozporządzenia 231/2013, wyrażonej w złotych równowartości kwoty 100 000 000 euro, a w przypadku gdy zarządzający ASI zarządza wyłącznie spółkami, które nie stosują dźwigni finansowej AFI i w których prawa uczestnictwa mogą być odkupione po co najmniej 5 latach od momentu ich nabycia – równowartości kwoty 500 000 000 euro.
@@ -368,6 +368,15 @@ Art. 208zzr. 1. W przypadku, o którym mowa w art. 208zzi ust. 2 pkt 2, stosuje 
 Art. 208zzs. Depozytariusz funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków określonych w art. 72, niezwłocznie po dniu, o którym mowa w art. 208zzq.
 Art. 208zzt. 1. Koszty związane z przygotowaniem i przeprowadzeniem połączenia funduszy ponosi wyłącznie towarzystwo.
 2. Towarzystwo ponosi odpowiedzialność wobec uczestników zarządzanego przez siebie funduszu inwestycyjnego za szkodę wyrządzoną połączeniem funduszy.
+2. Dokumenty, o których mowa w art. 46d ust. 1, 3 i 4, są opatrywane następującymi metadanymi:
+1) firmą towarzystwa, którego dotyczą informacje;
+2) identyfikatorem podmiotu prawnego towarzystwa, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+3) kategorią wielkości towarzystwa, którego dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+4) rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+5) wskazaniem, czy informacje zawierają dane osobowe;
+6) metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE.
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, towarzystwo występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+4. Komisja udostępnia dokumenty, o których mowa w art. 46d ust. 1, 3 i 4, w europejskim pojedynczym punkcie dostępu.
 Art. 300–319. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
@@ -396,6 +405,145 @@ Art. 300–319. (pominięte)
 - **14)** banków krajowych, spółdzielczych kas oszczędnościowo-kredytowych, firm inwestycyjnych i zakładów reasekuracji – prowadzona w zakresie uregulowanym odrębnymi przepisami.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** (uchylony) 1a) ustawie o obrocie instrumentami finansowymi – rozumie się przez to ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. );
+- **1b)** ustawie o ofercie publicznej – rozumie się przez to ustawę z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592);
+- **1c)** ustawie o nadzorze nad rynkiem kapitałowym – rozumie się przez to ustawę z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. z 2024 r. poz. 1161 i 1222 oraz z 2025 r. poz. 146 i 1069);
+- **2)** ustawie o rachunkowości – rozumie się przez to ustawę z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
+- **2a)** rozporządzeniu 584/2010 – rozumie się przez to rozporządzenie Komisji (UE) nr 584/2010 z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie formatu i treści standardowego powiadomienia w formie pisemnej i zaświadczenia dotyczącego UCITS, wykorzystania łączności elektronicznej przez właściwe organy do celów powiadamiania oraz w zakresie procedur dotyczących kontroli na miejscu i dochodzeń oraz wymiany informacji między właściwymi organami (Dz. Urz. UE L 176 z 10.07.2010, str. 16);
+- **2b)** rozporządzeniu 231/2013 – rozumie się przez to rozporządzenie delegowane Komisji (UE) nr 231/2013 z dnia 19 grudnia 2012 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do zwolnień, ogólnych warunków dotyczących prowadzenia działalności, depozytariuszy, dźwigni finansowej, przejrzystości i nadzoru (Dz. Urz. UE L 83 z 22.03.2013, str. 1);
+- **2c)** rozporządzeniu 345/2013 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 345/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy venture capital (Dz. Urz. UE L 115 z 25.04.2013, str. 1);
+- **2d)** rozporządzeniu 346/2013 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 346/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy na rzecz przedsiębiorczości społecznej (Dz. Urz. UE L 115 z 25.04.2013, str. 18);
+- **2e)** rozporządzeniu 2017/565 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/565 z dnia 25 kwietnia 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez firmy inwestycyjne oraz pojęć zdefiniowanych na potrzeby tej dyrektywy (Dz. Urz. UE L 87 z
+
+31. 03.2017, str. 1, z późn. zm. );
+
+- **2f)** rozporządzeniu 2016/679 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. );
+- **2g)** rozporządzeniu 2017/2402 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/2402 z dnia 12 grudnia 2017 r. w sprawie ustanowienia ogólnych ram dla sekurytyzacji oraz utworzenia szczególnych ram dla prostych, przejrzystych i standardowych sekurytyzacji, a także zmieniające dyrektywy 2009/65/WE, 2009/138/WE i 2011/61/UE oraz rozporządzenia (WE) nr 1060/2009 i (UE) nr 648/2012 (Dz. Urz. UE L 347 z 28.12.2017, s. 35);
+- **2h)** rozporządzeniu 2017/1129 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12);
+- **2i)** rozporządzeniu 694/2014 – rozumie się przez to rozporządzenie delegowane Komisji (UE) nr 694/2014 z dnia 17 grudnia 2013 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do regulacyjnych standardów technicznych służących określeniu typów zarządzających alternatywnymi funduszami inwestycyjnymi (Dz. Urz. UE L 183 z 24.06.2014, str. 18);
+- **2j)** rozporządzeniu 2015/760 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2015/760 z dnia 29 kwietnia 2015 r. w sprawie europejskich długoterminowych funduszy inwestycyjnych (Dz. Urz. UE L 123 z 19.05.2015, str. 98);
+- **2k)** rozporządzeniu 2019/1156 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/1156 z dnia 20 czerwca 2019 r. w sprawie ułatwienia transgranicznej dystrybucji przedsiębiorstw zbiorowego inwestowania oraz zmiany rozporządzeń (UE) nr 345/2013, (UE) nr 346/2013 i (UE) nr 1286/2014 (Dz. Urz. UE L 188 z 12.07.2019, str. 55);
+- **2l)** rozporządzeniu 1286/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm. );
+- **2m)** rozporządzeniu 2022/2554 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniające rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. ); <2n) rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );
+- **2o)** dyrektywie 2007/36/WE – rozumie się przez to dyrektywę 2007/36/WE Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie wykonywania niektórych praw akcjonariuszy spółek notowanych na rynku regulowanym (Dz. Urz. UE L 184 z 14.07.2007, str. 17, z późn. zm. );>
+- **3)** towarzystwie – rozumie się przez to towarzystwo funduszy inwestycyjnych spółka akcyjna;
+- **3a)** zarządzającym ASI – rozumie się przez to zarządzającego alternatywną spółką inwestycyjną;
+- **4)** Komisji – rozumie się przez to Komisję Nadzoru Finansowego;
+- **5)** EEA – rozumie się przez to Europejski Obszar Gospodarczy;
+- **6)** OECD – rozumie się przez to Organizację Współpracy Gospodarczej i Rozwoju;
+- **7)** państwie członkowskim – rozumie się przez to państwo inne niż Rzeczpospolita Polska, które jest członkiem Unii Europejskiej;
+- **8)** państwie goszczącym – rozumie się przez to państwo inne niż Rzeczpospolita Polska, na terytorium którego towarzystwo albo zarządzający ASI zamierza wykonywać lub wykonuje działalność, lub na terytorium którego fundusz inwestycyjny zamierza zbywać lub zbywa jednostki uczestnictwa lub zamierza oferować lub oferuje certyfikaty inwestycyjne albo zarządzający ASI zamierza wprowadzać lub wprowadza alternatywną spółkę inwestycyjną do obrotu;
+- **9)** funduszu zagranicznym – rozumie się przez to fundusz inwestycyjny otwarty lub spółkę inwestycyjną, które uzyskały zezwolenie właściwego organu w państwie członkowskim na prowadzenie działalności zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe;
+- **10)** spółce zarządzającej – rozumie się przez to podmiot lub spółkę z siedzibą w państwie członkowskim, które uzyskały zezwolenie właściwego organu w państwie członkowskim na wykonywanie działalności w zakresie zarządzania funduszami prowadzącymi działalność zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe;
+- **10a)** alternatywnym funduszu inwestycyjnym – rozumie się przez to instytucję wspólnego inwestowania, której przedmiotem działalności, w tym w ramach wydzielonego subfunduszu, jest zbieranie aktywów od wielu inwestorów w celu ich lokowania w interesie tych inwestorów zgodnie z określoną polityką inwestycyjną, niebędącą funduszem działającym zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe;
+- **10b)** unijnym AFI – rozumie się przez to alternatywny fundusz inwestycyjny, który został zarejestrowany jako alternatywny fundusz inwestycyjny przez właściwy organ w państwie członkowskim lub uzyskał zezwolenie właściwego organu w państwie członkowskim na prowadzenie działalności jako alternatywny fundusz inwestycyjny, a w przypadku braku wymogu uzyskania zezwolenia lub rejestracji – prowadząc taką działalność, ma siedzibę na terytorium państwa członkowskiego;
+- **10c)** zarządzającym z UE – rozumie się przez to osobę prawną z siedzibą na terytorium państwa członkowskiego, która uzyskała zezwolenie właściwego organu w państwie członkowskim na wykonywanie działalności zarządzania alternatywnym funduszem inwestycyjnym zgodnie z prawem wspólnotowym regulującym działalność zarządzających alternatywnymi funduszami inwestycyjnymi;
+- **10d)** spółce holdingowej – rozumie się przez to spółkę kapitałową, w tym spółkę europejską, która realizuje określoną branżową strategię biznesową przez spółki, w których posiada udziały lub akcje, lub jednostki zależne lub powiązane w rozumieniu ustawy o rachunkowości w celu generowania długoterminowego wzrostu wartości tej spółki lub jednostki, i która:
+    - **a)** wykonuje tę działalność w imieniu własnym i na własny rachunek, a jej akcje są dopuszczone do obrotu na rynku regulowanym lub
+    - **b)** nie została utworzona głównie w celu uzyskiwania przychodów dla inwestorów w drodze zbycia akcji lub udziałów w takich spółkach, jeżeli okoliczność ta jest wykazana w jej rocznym sprawozdaniu finansowym;
+
+- **11)** państwie macierzystym – rozumie się przez to państwo członkowskie, na terytorium którego, w przypadku:
+    - **a)** spółki zarządzającej lub zarządzającego z UE – podmiot ten ma siedzibę,
+    - **b)** funduszu zagranicznego – podmiot ten uzyskał zezwolenie właściwego organu na prowadzenie działalności,
+    - **c)** unijnego AFI – podmiot ten uzyskał po raz pierwszy zezwolenie lub został po raz pierwszy zarejestrowany, a w przypadku braku wymogu uzyskania zezwolenia lub rejestracji – ma siedzibę;
+
+- **12)** prawie wspólnotowym – rozumie się przez to akty prawne wydawane przez instytucje i organy Unii Europejskiej;
+- **13)** oddziale – rozumie się przez to wyodrębnioną i samodzielną organizacyjnie część działalności gospodarczej, wykonywaną przez przedsiębiorcę poza siedzibą przedsiębiorcy lub głównym miejscem wykonywania działalności, przy czym za jeden oddział uważa się wszystkie jednostki organizacyjne:
+    - **a)** spółki zarządzającej albo zarządzającego z UE zlokalizowane na terytorium Rzeczypospolitej Polskiej,
+    - **b)** towarzystwa albo zarządzającego ASI zlokalizowane na terytorium państwa goszczącego;
+
+- **13a)** kliencie profesjonalnym – rozumie się przez to podmiot, na którego rzecz jest lub ma być świadczona usługa, albo któremu proponowane jest nabycie jednostek uczestnictwa, objęcie certyfikatów inwestycyjnych albo nabycie lub objęcie praw uczestnictwa alternatywnej spółki inwestycyjnej, posiadający doświadczenie i wiedzę pozwalające na podejmowanie właściwych decyzji inwestycyjnych, jak również na właściwą ocenę ryzyka związanego z tymi decyzjami, który jest: o działalności ubezpieczeniowej i reasekuracyjnej, prowadzącym działalność na terytorium Rzeczypospolitej Polskiej,
+    - **a)** bankiem krajowym, bankiem zagranicznym lub instytucją kredytową,
+    - **b)** firmą inwestycyjną,
+    - **c)** krajowym zakładem ubezpieczeń albo zagranicznym zakładem ubezpieczeń lub krajowym zakładem reasekuracji albo zagranicznym zakładem reasekuracji, w rozumieniu ustawy z dnia 11 września 2015 r.
+    - **d)** funduszem inwestycyjnym, alternatywną spółką inwestycyjną lub inną instytucją wspólnego inwestowania, towarzystwem funduszy inwestycyjnych, zarządzającym ASI, spółką zarządzającą lub zarządzającym z UE,
+    - **e)** funduszem emerytalnym albo towarzystwem emerytalnym w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych,
+    - **f)** towarowym domem maklerskim w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych,
+    - **g)** podmiotem zawierającym, w ramach prowadzonej działalności gospodarczej, na własny rachunek transakcje na rynkach kontraktów terminowych, opcji lub innych instrumentów pochodnych albo na rynkach pieniężnych wyłącznie w celu zabezpieczenia pozycji zajętych na tych rynkach lub działającym w tym celu na rachunek innych członków takich rynków, o ile odpowiedzialność za wykonanie zobowiązań wynikających z tych transakcji ponoszą uczestnicy rozliczający tych rynków,
+    - **h)** instytucją finansową inną niż wskazane w lit. a–g,
+    - **i)** inwestorem instytucjonalnym innym niż wskazany w lit. a–h, prowadzącym działalność regulowaną na rynku finansowym,
+    - **j)** podmiotem prowadzącym poza granicami Rzeczypospolitej Polskiej działalność na warunkach równoważnych z działalnością prowadzoną przez podmioty wskazane w lit. a–i,
+    - **k)** przedsiębiorcą spełniającym co najmniej dwa z poniższych wymogów, przy czym równowartość w złotych kwot wskazanych w euro jest obliczana przy zastosowaniu średniego kursu euro ogłoszonego przez Narodowy Bank Polski na dzień sporządzenia przez danego przedsiębiorcę sprawozdania finansowego: – suma bilansowa tego przedsiębiorcy wynosi co najmniej równowartość w złotych 20 000 000 euro, – osiągnięta przez tego przedsiębiorcę wartość przychodów ze sprzedaży wynosi co najmniej równowartość w złotych 40 000 000 euro, – kapitał własny lub fundusz własny tego przedsiębiorcy wynosi co najmniej równowartość w złotych 2 000 000 euro,
+    - **l)** organem publicznym, który zarządza długiem publicznym, bankiem centralnym, Bankiem Światowym, Międzynarodowym Funduszem Walutowym, Europejskim Bankiem Centralnym, Europejskim Bankiem Inwestycyjnym lub inną organizacją międzynarodową pełniącą podobne funkcje,
+    - **m)** innym inwestorem instytucjonalnym, którego podstawowym przedmiotem działalności jest inwestowanie w instrumenty finansowe, w tym podmiotem zajmującym się sekurytyzacją aktywów lub zawieraniem innego rodzaju transakcji finansowych,
+    - **n)** podmiotem innym niż wskazane w lit. a–m, który jest traktowany jak klient profesjonalny;
+
+- **13b)** kliencie detalicznym – rozumie się przez to podmiot, na którego rzecz jest lub ma być świadczona usługa, albo któremu proponowane jest nabycie jednostek uczestnictwa, objęcie certyfikatów inwestycyjnych albo nabycie lub objęcie praw uczestnictwa alternatywnej spółki inwestycyjnej, niebędący klientem profesjonalnym albo będący klientem profesjonalnym, którego traktuje się, świadcząc na jego rzecz usługi, albo proponując nabycie jednostek uczestnictwa, objęcie certyfikatów inwestycyjnych albo nabycie lub objęcie praw uczestnictwa alternatywnej spółki inwestycyjnej, jak klienta detalicznego;
+- **13c)** inwestorze indywidualnym – rozumie się przez to inwestora indywidualnego, o którym mowa w art. 4 pkt 6 rozporządzenia 1286/2014;
+- **13d)** pośredniku – rozumie się przez to:
+    - **a)** Krajowy Depozyt Papierów Wartościowych Spółkę Akcyjną,
+    - **b)** spółkę, której Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 ustawy o obrocie instrumentami finansowymi,
+    - **c)** centralny depozyt papierów wartościowych w rozumieniu art. 2 ust. 1 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 909/2014 z dnia 23 lipca 2014 r. w sprawie usprawnienia rozrachunku papierów wartościowych w Unii Europejskiej i w sprawie centralnych depozytów papierów wartościowych, zmieniającego dyrektywy 98/26/WE i 2014/65/UE oraz rozporządzenie (UE) nr 236/2012 (Dz. Urz. UE L 257 z 29.08.2014, str. 1, z późn. zm. ), posiadający zezwolenie, o którym mowa w art. 16 tego rozporządzenia, oraz mający siedzibę na terytorium Rzeczypospolitej Polskiej,
+    - **d)** firmę inwestycyjną świadczącą usługi, o których mowa w art. 69 ust. 4 pkt 1 ustawy o obrocie instrumentami finansowymi,
+    - **e)** bank, o którym mowa w art. 119 ust. 1 ustawy o obrocie instrumentami finansowymi;
+
+- **14)** firmie inwestycyjnej – rozumie się przez to firmę inwestycyjną w rozumieniu ustawy o obrocie instrumentami finansowymi;
+- **15)** banku krajowym – rozumie się przez to bank, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
+- **16)** banku zagranicznym – rozumie się przez to bank, o którym mowa w art. 4 ust. 1 pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
+- **17)** instytucji kredytowej – rozumie się przez to instytucję kredytową, o której mowa w art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
+- **17a)** instrumentach finansowych – rozumie się przez to instrumenty finansowe, o których mowa w art. 2 ust. 1 ustawy o obrocie instrumentami finansowymi;
+- **18)** instrumentach pochodnych – rozumie się przez to prawa majątkowe, których cena rynkowa zależy bezpośrednio lub pośrednio od ceny lub wartości papierów wartościowych, o których mowa w art. 3 pkt 1 lit. a ustawy o obrocie instrumentami finansowymi, oraz inne prawa majątkowe, których cena rynkowa bezpośrednio lub pośrednio zależy od kształtowania się ceny rynkowej walut obcych lub od zmiany wysokości stóp procentowych;
+- **19)** niewystandaryzowanych instrumentach pochodnych – rozumie się przez to instrumenty pochodne, które są przedmiotem obrotu poza rynkiem zorganizowanym, a ich treść jest lub może być przedmiotem negocjacji między stronami;
+- **20)** bazie instrumentów pochodnych – rozumie się przez to papiery wartościowe, instrumenty rynku pieniężnego lub inne prawa majątkowe, a także określone indeksy, kursy walut, stopy procentowe, stanowiące podstawę do ustalenia ceny instrumentu pochodnego lub niewystandaryzowanego instrumentu pochodnego;
+- **20a)** instrumentach pochodnych właściwych AFI – rozumie się przez to instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 lit. c–i ustawy o obrocie instrumentami finansowymi, będące przedmiotem umów zawieranych przez alternatywną spółkę inwestycyjną lub unijny AFI zarządzany przez towarzystwo lub zarządzającego ASI;
+- **21)** instrumentach rynku pieniężnego – rozumie się przez to papiery wartościowe lub prawa majątkowe inkorporujące wyłącznie wierzytelności pieniężne:
+    - **a)** o terminie realizacji praw nie dłuższym niż 397 dni liczonym od dnia ich wystawienia lub od dnia ich nabycia lub
+    - **b)** które regularnie podlegają dostosowaniu do bieżących warunków panujących na rynku pieniężnym w okresach nie dłuższych niż 397 dni, lub
+    - **c)** których ryzyko inwestycyjne, w tym ryzyko kredytowe i ryzyko stopy procentowej, odpowiada ryzyku instrumentów finansowych, o których mowa w lit. a lub b – oraz co do których istnieje podaż i popyt umożliwiające ich nabywanie i zbywanie w sposób ciągły na warunkach rynkowych, przy czym przejściowa utrata płynności przez papier wartościowy lub prawo majątkowe nie powoduje utraty przez ten papier lub prawo statusu instrumentu rynku pieniężnego;
+
+- **21a)** krótkiej sprzedaży – rozumie się przez to technikę inwestycyjną, która opiera się na założeniu osiągnięcia zysku w wyniku spadku cen określonych instrumentów finansowych od momentu realizacji zlecenia ich sprzedaży, jeżeli zostały one pożyczone w celu rozliczenia transakcji przez inwestora lub przez podmiot realizujący na rachunek inwestora zlecenie sprzedaży albo nabyte w tym celu przez jeden z tych podmiotów na podstawie umowy lub umów zobowiązujących zbywcę do dokonania w przyszłości odkupu od nabywcy takich samych instrumentów finansowych, do momentu wymagalności roszczenia o zwrot sprzedanych w ten sposób instrumentów finansowych, albo jeżeli zostały spełnione warunki, o których mowa odpowiednio w art. 12 lub art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1);
+- **22)** rynku zorganizowanym – rozumie się przez to wyodrębniony pod względem organizacyjnym i finansowym system obrotu działający regularnie i zapewniający jednakowe warunki zawierania transakcji oraz powszechny i równy dostęp do informacji o transakcjach, zgodnie z zasadami określonymi przez właściwe przepisy kraju, w którym obrót ten jest dokonywany, a w szczególności obrót zorganizowany, o którym mowa w ustawie o obrocie instrumentami finansowymi;
+- **22a)** rynku regulowanym – rozumie się przez to rynek, o którym mowa w art. 14 ustawy o obrocie instrumentami finansowymi;
+- **22b)** alternatywnym systemie obrotu – rozumie się przez to alternatywny system obrotu, o którym mowa w art. 3 pkt 2 ustawy o obrocie instrumentami finansowymi;
+- **23)** bliskich powiązaniach – rozumie się przez to posiadanie bezpośrednio lub pośrednio ponad 20 % kapitału innego podmiotu lub prawa do wykonywania co najmniej 20 % głosów w organach innego podmiotu, lub sprawowanie przez podmiot kontroli, lub współkontroli nad innym podmiotem w zakresie określonym w art. 3 ust. 1 pkt 37 ustawy o rachunkowości;
+- **24)** grupie kapitałowej – rozumie się przez to podmiot dominujący wraz z podmiotami od niego zależnymi;
+- **25)** podmiocie dominującym – rozumie się przez to:
+    - **a)** podmiot dominujący w rozumieniu ustawy o ofercie publicznej,
+    - **b)** podmiot, który został uznany za podmiot dominujący na podstawie art. 2a;
+
+- **26)** podmiocie zależnym – rozumie się przez to podmiot zależny w rozumieniu ustawy o ofercie publicznej;
+- **27)** zarządzaniu portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych – rozumie się przez to zarządzanie portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych, w rozumieniu art. 75 ust. 1 ustawy o obrocie instrumentami finansowymi;
+- **28)** doradztwie inwestycyjnym – rozumie się przez to doradztwo inwestycyjne w rozumieniu art. 76 ustawy o obrocie instrumentami finansowymi;
+- **28a)** wprowadzaniu alternatywnej spółki inwestycyjnej do obrotu – rozumie się przez to:
+    - **a)** proponowanie objęcia nowych lub podwyższenia wartości nominalnej istniejących udziałów – w przypadku spółki z ograniczoną odpowiedzialnością,
+    - **b)** proponowanie objęcia akcji nowej emisji, sprzedaż akcji własnych albo podwyższenie wartości nominalnej istniejących akcji – w przypadku spółki akcyjnej i spółki komandytowo-akcyjnej,
+    - **c)** podejmowanie czynności związanych z przystąpieniem do spółki nowych komandytariuszy lub zwiększeniem wkładu dotychczasowych komandytariuszy – w przypadku spółki komandytowej;
+
+- **28b)** prime brokerze – rozumie się przez to bank krajowy, instytucję kredytową, firmę inwestycyjną lub inny podmiot podlegający wymogom ostrożnościowym wynikającym z przepisów prawa oraz nadzorowi właściwego organu nadzoru nad rynkiem finansowym, które oferują klientom profesjonalnym usługi polegające na:
+    - **a)** przyjmowaniu i przekazywaniu zleceń nabycia lub zbycia instrumentów finansowych,
+    - **b)** wykonywaniu zleceń, o których mowa w lit. a, na rachunek dającego zlecenie,
+    - **c)** udzielaniu pożyczek pieniężnych w celu dokonania transakcji, której przedmiotem jest jeden lub większa liczba instrumentów finansowych, jeżeli transakcja ma być dokonana za pośrednictwem banku krajowego, instytucji kredytowej lub firmy inwestycyjnej udzielającej pożyczki – i które jednocześnie mogą świadczyć inne usługi, takie jak prowadzenie rachunków papierów wartościowych i rachunków zbiorczych oraz prowadzenie rachunków pieniężnych lub usługi udzielania pożyczek papierów wartościowych lub rozliczania i dokonywania rozrachunku transakcji;
+
+- **29)** (uchylony)
+- **30)** puli wierzytelności – rozumie się przez to przynoszącą regularny dopływ kapitału grupę jednolitych rodzajowo wierzytelności, posiadanych i wyodrębnionych przez inicjatora przeniesienia ryzyka z wierzytelności, z których każda z wierzytelności stanowiących łącznie co najmniej 75 % grupy przynosi regularny dopływ kapitału oraz każda wierzytelność spełnia kryteria określone w statucie funduszu;
+- **31)** inicjatorze przeniesienia ryzyka z wierzytelności – rozumie się przez to jednostkę samorządu terytorialnego, związek jednostek samorządu terytorialnego lub podmiot prowadzący działalność gospodarczą, zbywające funduszowi wierzytelności pulę wierzytelności albo zobowiązujące się do przekazywania funduszowi wierzytelności wszystkich świadczeń otrzymanych przez nie z określonej puli wierzytelności;
+- **32)** (uchylony)
+- **33)** danych osobowych – rozumie się przez to imiona i nazwisko, datę i miejsce urodzenia, adres zamieszkania, a w przypadku obywateli Rzeczypospolitej Polskiej także numer PESEL;
+- **33a)** danych kontaktowych – rozumie się przez to adres korespondencyjny, numer telefonu i adres poczty elektronicznej;
+- **34)** papierach wartościowych – rozumie się przez to papiery wartościowe, o których mowa w art. 3 pkt 1 ustawy o obrocie instrumentami finansowymi, z wyłączeniem instrumentów pochodnych;
+- **35)** zdematerializowanych papierach wartościowych – rozumie się przez to papiery wartościowe, o których mowa w art. 5 ust. 1 ustawy o obrocie instrumentami finansowymi;
+- **36)** (uchylony)
+- **37)** (uchylony)
+- **38)** ofercie publicznej – rozumie się przez to ofertę publiczną papierów wartościowych, o której mowa w art. 2 lit. d rozporządzenia 2017/1129;
+- **39)** publicznym funduszu inwestycyjnym zamkniętym – rozumie się przez to fundusz portfelowy, o którym mowa w art. 179 ust. 1, lub fundusz inwestycyjny zamknięty, którego certyfikaty inwestycyjne zostały dopuszczone do obrotu na rynku regulowanym lub wprowadzone do alternatywnego systemu obrotu lub zostały objęte lub nabyte w drodze oferty publicznej, z wyjątkiem oferty publicznej, która nie wymaga sporządzenia prospektu na podstawie:
+    - **a)** art. 1 ust. 4 lit. a rozporządzenia 2017/1129, o ile jest kierowana do mniej niż 150 osób będących inwestorami kwalifikowanymi, lub
+    - **b)** art. 1 ust. 4 lit. b rozporządzenia 2017/1129;
+
+- **40)** dniu roboczym – rozumie się przez to każdy dzień od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy;
+- **41)** trwałym nośniku informacji – rozumie się przez to każdy nośnik informacji umożliwiający przechowywanie przez czas niezbędny, wynikający z charakteru informacji oraz celu ich sporządzenia lub przekazania, zawartych na nim informacji w sposób uniemożliwiający ich zmianę lub pozwalający na odtworzenie informacji w wersji i formie, w jakiej zostały sporządzone lub przekazane;
+- **42)** całkowitej ekspozycji – rozumie się przez to obliczoną uznanymi metodami, wyrażoną w walucie, w której wyceniane są aktywa funduszu inwestycyjnego otwartego, kwotę zaangażowania tego funduszu powstałego na skutek zawierania umów, których przedmiotem są instrumenty pochodne, lub innych umów stosowanych w celu zapewnienia sprawnego zarządzania portfelem inwestycyjnym funduszu inwestycyjnego otwartego;
+- **42a)** ekspozycji AFI – rozumie się przez to obliczoną z uwzględnieniem art. 6– 11 rozporządzenia 231/2013, wyrażoną w walucie, w której wyceniane są aktywa alternatywnego funduszu inwestycyjnego, kwotę zaangażowania tego funduszu uwzględniającą wszystkie aktywa i zobowiązania funduszu, instrumenty pochodne lub prawa majątkowe, o których mowa w art. 145 ust. 1 pkt 6, albo instrumenty pochodne właściwe AFI, pożyczki, których przedmiotem są środki pieniężne lub papiery wartościowe, oraz inne umowy wiążące się ze zwiększeniem zaangażowania funduszu, gdy ryzyko i korzyści wynikające z tych umów dotyczą tego funduszu;
+- **42b)** dźwigni finansowej AFI – rozumie się przez to każdą metodę zwiększania ekspozycji AFI, w szczególności przez pożyczanie środków pieniężnych lub papierów wartościowych lub przez inwestycje w instrumenty pochodne lub prawa majątkowe, o których mowa w art. 145 ust. 1 pkt 6, albo instrumenty pochodne właściwe AFI;
+- **42c)** sprawozdaniu rocznym AFI – rozumie się przez to sprawozdanie roczne alternatywnego funduszu inwestycyjnego;
+- **42d)** kluczowych informacjach – rozumie się przez to dokument zawierający kluczowe informacje, o którym mowa w art. 1 rozporządzenia 1286/2014, który zawiera informacje dotyczące detalicznego produktu zbiorowego inwestowania, o którym mowa w art. 4 pkt 1 rozporządzenia 1286/2014;
+- **43)** przedsiębiorcy – rozumie się przez to przedsiębiorcę, o którym mowa w ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480);
+- **44)** przedsiębiorcy zagranicznym – rozumie się przez to przedsiębiorcę zagranicznego, o którym mowa w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619 i 621);
+- **45)** rejestrze zarządzających EuVECA – rozumie się przez to prowadzony przez Komisję, zgodnie z art. 14 rozporządzenia 345/2013, rejestr towarzystw i zarządzających ASI, uprawnionych do zarządzania alternatywnymi funduszami inwestycyjnymi posługującymi się nazwą „EuVECA”;
+- **46)** rejestrze zarządzających EuSEF – rozumie się przez to prowadzony przez Komisję, zgodnie z art. 15 rozporządzenia 346/2013, rejestr towarzystw i zarządzających ASI, uprawnionych do zarządzania alternatywnymi funduszami inwestycyjnymi posługującymi się nazwą „EuSEF”; <47) formacie umożliwiającym ekstrakcję danych – rozumie się przez to format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;
+- **48)** formacie nadającym się do odczytu maszynowego – rozumie się przez to format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego;
+- **49)** metadanych – rozumie się przez to metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;
+- **50)** europejskim pojedynczym punkcie dostępu – rozumie się przez to europejski pojedynczy punkt dostępu w rozumieniu art. 1 ust. 1 rozporządzenia 2023/2859.>
 
 **Art. 2a.**
 
@@ -1567,9 +1715,10 @@ Art. 300–319. (pominięte)
 
 3. Informacja, o której mowa w ust. 1, może być również przekazywana wraz z rocznym sprawozdaniem finansowym, o którym mowa w art. 219 ust. 1, lub ze sprawozdaniem rocznym AFI, o którym mowa w art. 222d ust. 1.
 
-4. Przepisów ust. 1 i 3 nie stosuje się, jeżeli informacja, o której mowa w ust. 1, jest publicznie udostępniana przez towarzystwo.
+4. Przepisów ust. 1 i 3 nie stosuje się, jeżeli informacja, o której mowa w ust. 1, jest publicznie udostępniana przez towarzystwo. [Art. 46g. Za opracowanie i publikację dokumentów, o których mowa w art. 46d ust. 1, 3 i 4 oraz art. 46f ust. 1, oraz za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu towarzystwa zarządzającego funduszem, o którym mowa w art. 46d ust. 1.] <Art. 46g. Członkowie zarządu towarzystwa zarządzającego funduszem, o którym mowa w art. 46d ust. 1, są odpowiedzialni za:
 
-**Art. 46g.** Za opracowanie i publikację dokumentów, o których mowa w art. 46d ust. 1, 3 i 4 oraz art. 46f ust. 1, oraz za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu towarzystwa zarządzającego funduszem, o którym mowa w art. 46d ust. 1.
+- **1)** opracowanie, publikację i przekazanie Komisji dokumentów, o których mowa w art. 46d ust. 1, 3 i 4, oraz za informacje zawarte w tych dokumentach;
+- **2)** opracowanie i publikację informacji, o której mowa w art. 46f ust. 1, oraz jej treść.>
 
 **Art. 47.**
 
@@ -1670,6 +1819,21 @@ Art. 300–319. (pominięte)
 3. (uchylony)
 
 **Art. 48a.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+
+- **1)** sposób, warunki i szczegółowy zakres działania systemu kontroli wewnętrznej, w tym systemu nadzoru zgodności działalności z prawem, systemu zarządzania ryzykiem oraz systemu audytu wewnętrznego w towarzystwie,
+- **2)** sposób prowadzenia ewidencji transakcji zawartych przez fundusze inwestycyjne otwarte oraz transakcji zawartych na rachunek własny towarzystwa lub rachunek własny towarzystwa prowadzony dla zbiorczego portfela papierów wartościowych, ewidencji zleceń składanych przez uczestników funduszy inwestycyjnych otwartych, a także ewidencji transakcji zawartych przez towarzystwo w ramach wykonywania usługi zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych,
+- **3)** pojęcie konfliktu interesów oraz szczegółowe wymagania dotyczące postępowania w zakresie konfliktów interesów, w tym zawierania transakcji przez pracowników, członków zarządu oraz rady nadzorczej towarzystwa albo przez inne osoby fizyczne pozostające z towarzystwem w stosunku zlecenia albo innym stosunku o podobnym charakterze, które mają dostęp do informacji dotyczących obecnych i planowanych lokat funduszy inwestycyjnych oraz aktywów nabywanych do portfeli klientów, dla których towarzystwo wykonuje usługi doradztwa inwestycyjnego albo zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych,
+- **4)** sposób dokumentowania źródeł będących podstawą decyzji inwestycyjnych oraz przechowywania i archiwizowania dokumentów i innych nośników informacji związanych z działalnością funduszy inwestycyjnych i towarzystwa,
+- **5)** szczegółowe wymagania w zakresie działania towarzystwa w najlepiej pojętym interesie funduszu inwestycyjnego otwartego oraz uczestników funduszu inwestycyjnego otwartego, w tym w zakresie wykonywania decyzji inwestycyjnych w zarządzaniu portfelami inwestycyjnymi funduszy inwestycyjnych oraz w zakresie składania zleceń nabycia lub zbycia instrumentów finansowych łącznie dla różnych funduszy inwestycyjnych zarządzanych przez towarzystwo oraz łącznie z innymi zleceniami składanymi przez towarzystwo, oraz przeprowadzania analiz przy doborze lokat funduszu inwestycyjnego,
+- **6)** (uchylony)
+- **7)** tryb i warunki postępowania towarzystwa w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, w tym w zakresie świadczenia usług, promowania świadczonych usług oraz kontaktów z klientami,
+- **8)** warunki techniczne i organizacyjne prowadzenia przez towarzystwo działalności, o której mowa w art. 48 ust. 2a,
+- **9)** szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4a, wymogów posiadania odpowiedniej wiedzy i kompetencji,
+- **10)** tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4a, wymogów w zakresie posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób oraz osób, o których mowa w art. 45 ust. 4b,
+- **11)** szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4d, wymogów posiadania odpowiedniej wiedzy, kompetencji i doświadczenia,
+- **12)** tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4d, wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób,
+- **13)** szczegółowe kryteria w zakresie spełniania przez członków zarządu i rady nadzorczej towarzystwa wymogu posiadania nieposzlakowanej opinii, wiedzy, kompetencji i doświadczenia, o których mowa w art. 42 ust. 4,
+- **14)** tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez członków zarządu i rady nadzorczej towarzystwa wymogu posiadania nieposzlakowanej opinii, wiedzy, kompetencji i doświadczenia, o których mowa w art. 42 ust. 4, oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób, o których mowa w art. 42 ust. 5 – w celu zapewnienia ochrony interesu uczestników funduszy inwestycyjnych lub zbiorczych portfeli papierów wartościowych i klientów oraz dla zapewnienia prowadzenia przez towarzystwo stabilnej działalności, a także biorąc pod uwagę wytyczne w zakresie zasad uznawania posiadania odpowiedniej wiedzy i kompetencji przez osoby wykonujące usługi maklerskie, wydane przez Europejski Urząd Nadzoru Giełd i Papierów Wartościowych.
 
 **Art. 48b.**
 
@@ -2072,6 +2236,11 @@ Art. 300–319. (pominięte)
 
 **Art. 60.** Do wniosku o udzielenie zezwolenia na zarządzanie portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, zezwolenia na doradztwo inwestycyjne lub zezwolenia na przyjmowanie i przekazywanie zleceń nabycia lub zbycia instrumentów finansowych odpowiednio towarzystwo albo spółka ubiegająca się o uzyskanie zezwolenia załącza:
 
+- **1)** regulamin wykonywania działalności;
+- **2)** schemat oraz regulamin, o których mowa w art. 58 ust. 1 pkt 2, uwzględniające wykonywanie wnioskowanej działalności;
+- **3)** informację o liczbie doradców zatrudnionych do wykonywania wnioskowanej działalności;
+- **4)** kopię umowy o uczestnictwo w systemie rekompensat zawartej pod warunkiem uzyskania zezwolenia na zarządzanie portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, zezwolenia na doradztwo inwestycyjne lub zezwolenia na przyjmowanie i przekazywanie zleceń nabycia lub zbycia instrumentów finansowych, z Krajowym Depozytem Papierów Wartościowych Spółką Akcyjną.
+
 **Art. 61.**
 
 1. Komisja wydaje:
@@ -2435,7 +2604,10 @@ Art. 300–319. (pominięte)
 
 3. Informacja, o której mowa w ust. 1, może być również przekazywana wraz ze sprawozdaniem rocznym AFI, o którym mowa w art. 222d ust. 2.
 
-4. Przepisów ust. 1 i 3 nie stosuje się, jeżeli informacja, o której mowa w ust. 1, jest publicznie udostępniana przez zarządzającego ASI. Art. 70bd. Za opracowanie i publikację dokumentów, o których mowa w art. 70ba ust. 1, 3 i 4 oraz art. 70bc ust. 1, oraz za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu zarządzającego ASI zarządzającego alternatywną spółką inwestycyjną, o której mowa w art. 70ba ust. 1.
+4. Przepisów ust. 1 i 3 nie stosuje się, jeżeli informacja, o której mowa w ust. 1, jest publicznie udostępniana przez zarządzającego ASI. [Art. 70bd. Za opracowanie i publikację dokumentów, o których mowa w art. 70ba ust. 1, 3 i 4 oraz art. 70bc ust. 1, oraz za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu zarządzającego ASI zarządzającego alternatywną spółką inwestycyjną, o której mowa w art. 70ba ust. 1.] <Art. 70bd. Członkowie zarządu zarządzającego ASI zarządzającego alternatywną spółką inwestycyjną, o której mowa w art. 70ba ust. 1, są odpowiedzialni za:
+
+- **1)** opracowanie, publikację i przekazanie Komisji dokumentów, o których mowa w art. 70ba ust. 1, 3 i 4, oraz informacje zawarte w tych dokumentach;
+- **2)** opracowanie i publikację informacji, o której mowa w art. 70bc ust. 1, oraz jej treść.>
 
 **Art. 70c.**
 
@@ -3040,6 +3212,13 @@ Art. 300–319. (pominięte)
 
 **Art. 81a.** W przypadku gdy towarzystwo będące organem funduszu inwestycyjnego zawarło umowę, o której mowa w art. 4 ust. 1a albo 1b, depozytariusz tego funduszu inwestycyjnego i spółka zarządzająca albo zarządzający z UE zawierają w formie pisemnej umowę dotyczącą współpracy i wymiany informacji, która powinna określać w szczególności:
 
+- **1)** opis zasad przechowywania aktywów funduszu w odniesieniu do poszczególnych klas aktywów funduszu inwestycyjnego;
+- **2)** opis postępowania w przypadku zmiany statutu funduszu inwestycyjnego, prospektu informacyjnego, prospektu emisyjnego, memorandum informacyjnego lub warunków emisji, w szczególności w zakresie odnoszącym się do obowiązków depozytariusza;
+- **3)** opis zasad wymiany informacji niezbędnych do prawidłowego wykonywania działalności spółki zarządzającej albo zarządzającego z UE oraz depozytariusza, z uwzględnieniem uprawnień depozytariusza do weryfikowania informacji przekazywanych przez spółkę zarządzającą albo zarządzającego z UE, w tym przeprowadzania przez depozytariusza wizyt w miejscu wykonywania działalności przez spółkę zarządzającą albo zarządzającego z UE;
+- **4)** opis zasad weryfikacji przez spółkę zarządzającą albo zarządzającego z UE wypełniania obowiązków przez depozytariusza;
+- **5)** obowiązki stron w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu;
+- **6)** zasady zmiany umowy oraz jej rozwiązania.
+
 #### Rozdział 2 Depozytariusz alternatywnej spółki inwestycyjnej
 
 **Art. 81b.**
@@ -3261,6 +3440,11 @@ Art. 300–319. (pominięte)
 4. W przypadku, o którym mowa w ust. 3, za zgodą i na warunkach określonych przez Komisję zbywanie jednostek uczestnictwa może zostać zawieszone na okres dłuższy niż 2 tygodnie, nieprzekraczający jednak 2 miesięcy.
 
 **Art. 85.** Z częstotliwością określoną w statucie, nie rzadziej jednak niż w każdym dniu zbywania lub odkupywania jednostek uczestnictwa, fundusz inwestycyjny otwarty dokonuje:
+
+- **1)** wyceny aktywów funduszu;
+- **2)** ustalenia wartości aktywów netto funduszu;
+- **3)** ustalenia ceny zbycia i odkupienia jednostek uczestnictwa;
+- **4)** ustalenia wartości aktywów netto funduszu na jednostkę uczestnictwa.
 
 **Art. 86.**
 
@@ -3924,6 +4108,17 @@ Art. 300–319. (pominięte)
 6. W przypadku gdy specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego zamierza dokonywać lokat, o których mowa w art. 145 ust. 1 pkt 5 i 6, w celu innym niż ograniczenie ryzyka inwestycyjnego, statut funduszu powinien określać rodzaje instrumentów pochodnych i praw majątkowych, kryteria ich wyboru oraz warunki zastosowania tych instrumentów i praw.
 
 **Art. 116d.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+
+- **1)** warunki zawierania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego umów, których przedmiotem są instrumenty pochodne,
+- **2)** warunki lokowania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego aktywów w niewystandaryzowane instrumenty pochodne,
+- **3)** warunki, jakie powinny spełniać niewystandaryzowane instrumenty pochodne oraz podmioty będące stroną umowy ze specjalistycznym funduszem inwestycyjnym otwartym stosującym zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego,
+- **4)** warunki i zasady zajmowania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego pozycji w instrumentach pochodnych,
+- **5)** warunki zajmowania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego pozycji w lokatach, o których mowa w art. 145 ust. 1 pkt 5 i 6,
+- **6)** sposób ustalenia oraz maksymalną wartość ryzyka kontrahenta wynikającą z transakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne,
+- **7)** sposób wyznaczenia maksymalnego zaangażowania specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego w instrumenty pochodne,
+- **8)** sposób wyznaczenia maksymalnego zaangażowania specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego w lokaty, o których mowa w art. 145 ust. 1 pkt 5 i 6,
+- **9)** warunki, jakie muszą spełniać uznane indeksy,
+- **10)** warunki, jakie muszą spełniać indeksy stanowiące bazę instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych – w celu zapewnienia ochrony interesu uczestników specjalistycznego funduszu inwestycyjnego otwartego, mając na względzie możliwość stosowania przez specjalistyczny fundusz inwestycyjny otwarty zasad i ograniczeń inwestycyjnych określonych dla funduszu inwestycyjnego otwartego albo funduszu inwestycyjnego zamkniętego.
 
 #### Rozdział 3 Fundusze inwestycyjne zamknięte
 
@@ -4709,6 +4904,12 @@ Art. 300–319. (pominięte)
 
 **Art. 163.** Jeżeli funduszem z wydzielonymi subfunduszami jest fundusz inwestycyjny zamknięty:
 
+- **1)** prawa uczestników funduszu związane z inwestowaniem w dany subfundusz są inkorporowane w certyfikatach inwestycyjnych wskazanych w statucie (certyfikaty związane z danym subfunduszem);
+- **2)** certyfikaty inwestycyjne na okaziciela związane z danym subfunduszem reprezentują jednakowe prawa majątkowe;
+- **3)** cena emisyjna certyfikatów inwestycyjnych emitowanych w związku z istniejącym subfunduszem nie może być niższa niż wartość aktywów netto danego subfunduszu przypadająca na certyfikat inwestycyjny związany z danym subfunduszem według wyceny aktywów subfunduszu dokonanej na 7 dni przed dniem rozpoczęcia przyjmowania zapisów na te certyfikaty, chyba że statut funduszu określi maksymalną wysokość różnicy między wartością aktywów netto subfunduszu przypadającą na certyfikat inwestycyjny związany z danym subfunduszem według tej wyceny a ceną emisyjną certyfikatu kolejnej emisji;
+- **4)** cena wykupu certyfikatów inwestycyjnych związanych z danym subfunduszem jest równa wartości aktywów netto subfunduszu, przypadającej na certyfikat inwestycyjny związany z danym subfunduszem, według wyceny aktywów subfunduszu z dnia wykupu;
+- **5)** statut funduszu powinien zawierać dodatkowo informacje, o których mowa w art. 18 ust. 2 pkt 13 i art. 198 ust. 2, w odniesieniu do każdego subfunduszu oddzielnie, a także określać zasady tworzenia, w tym oznaczenie i liczbę subfunduszy, minimalną i maksymalną liczbę certyfikatów inwestycyjnych związanych z danym subfunduszem oraz prawa przysługujące uczestnikom z tytułu ich posiadania.
+
 **Art. 164.**
 
 1. Fundusz z wydzielonymi subfunduszami może tworzyć nowe subfundusze.
@@ -4902,6 +5103,9 @@ Art. 300–319. (pominięte)
 
 **Art. 169g.** Fundusz powiązany nie więcej niż 15 % swoich aktywów może:
 
+- **1)** utrzymywać na rachunkach bankowych na zasadach określonych w art. 109;
+- **2)** lokować w instrumenty pochodne na zasadach określonych w art. 94, jeżeli służy to ograniczeniu ryzyka inwestycyjnego związanego ze zmianą okoliczności, o których mowa w art. 94 ust. 1a pkt 2.
+
 **Art. 169h.** Fundusz podstawowy nie może być funduszem powiązanym ani posiadać jednostek uczestnictwa funduszu powiązanego lub tytułów uczestnictwa funduszu zagranicznego prowadzącego działalność polegającą na lokowaniu co najmniej 85 % swoich aktywów w tytuły uczestnictwa innego funduszu.
 
 **Art. 169i.**
@@ -4988,6 +5192,9 @@ Art. 300–319. (pominięte)
 10. Fundusz powiązany nie może pobierać od uczestników opłat manipulacyjnych z tytułu odkupienia jednostek uczestnictwa w okresie 30 dni przed datą, o której mowa w ust. 7 pkt 3.
 
 **Art. 169r.** Nie później niż w terminie 2 miesięcy od dnia otrzymania od funduszu podstawowego informacji o prawdopodobnym wystąpieniu przyczyny jego rozwiązania, a w przypadku gdy fundusz powiązany został poinformowany przez fundusz podstawowy wcześniej niż przed upływem 5 miesięcy przed dniem rozwiązania funduszu podstawowego – w terminie co najmniej 3 miesięcy przed tą datą, fundusz powiązany:
+
+- **1)** przekazuje Komisji informację o prawdopodobnym wystąpieniu przyczyny jego rozwiązania na podstawie art. 246 ust. 1 pkt 9 albo
+- **2)** występuje z wnioskiem o wydanie zezwolenia Komisji na dokonanie zmiany funduszu podstawowego, o którym mowa w art. 169p ust. 1, albo na zaprzestanie prowadzenia działalności jako fundusz powiązany, o którym mowa w art. 169s ust. 1.
 
 **Art. 169s.**
 
@@ -5411,6 +5618,12 @@ Art. 300–319. (pominięte)
 
 **Art. 191.** Fundusz wierzytelności może, uwzględniając interes uczestników funduszu, zawierać umowy związane z procesem przeniesienia ryzyka z wierzytelności, w szczególności:
 
+- **1)** o nadanie oceny inwestycyjnej (rating);
+- **2)** ubezpieczenia, w tym od ryzyka niewypłacalności dłużników;
+- **3)** (uchylony)
+- **4)** o udzielenie poręczenia za zobowiązania funduszu;
+- **5)** gwarancji udzielane na rzecz funduszu.
+
 **Art. 192.**
 
 1. Zarządzanie wierzytelnościami, o których mowa w art. 183 ust. 1, w tym zarządzanie pulą wierzytelności, przez podmiot inny niż towarzystwo wymaga uzyskania przez ten podmiot zezwolenia Komisji.
@@ -5524,6 +5737,17 @@ Art. 300–319. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 200.** Przez użyte w niniejszym dziale określenia:
+
+- **1)** fundusz krajowy – rozumie się fundusz inwestycyjny otwarty lub specjalistyczny fundusz inwestycyjny otwarty;
+- **2)** subfundusz – rozumie się subfundusz funduszu krajowego z wydzielonymi subfunduszami lub subfundusz funduszu zagranicznego z wydzielonymi subfunduszami;
+- **3)** majątek subfunduszu – rozumie się aktywa i zobowiązania subfunduszu;
+- **4)** fundusz przejmowany – rozumie się fundusz, którego majątek jest wnoszony do innego istniejącego lub do nowo tworzonego funduszu albo do istniejącego lub nowo tworzonego subfunduszu, w zamian za nabycie przez uczestników tego funduszu jednostek uczestnictwa albo tytułów uczestnictwa funduszu albo subfunduszu, do którego jest wnoszony ten majątek;
+- **5)** subfundusz przejmowany – rozumie się subfundusz, którego majątek jest:
+    - **a)** wnoszony przez fundusz z wydzielonymi subfunduszami do innego istniejącego lub do nowo tworzonego funduszu albo
+    - **b)** wnoszony przez fundusz z wydzielonymi subfunduszami do istniejącego lub nowo tworzonego subfunduszu w innym lub tym samym funduszu z wydzielonymi subfunduszami – w zamian za nabycie przez uczestników tego subfunduszu jednostek uczestnictwa albo tytułów uczestnictwa funduszu albo subfunduszu, do którego wnoszony jest ten majątek;
+
+- **6)** fundusz przejmujący – rozumie się istniejący lub nowo tworzony fundusz, do którego wnoszony jest majątek jednego lub więcej funduszy lub subfunduszy przejmowanych;
+- **7)** subfundusz przejmujący – rozumie się istniejący lub nowo tworzony subfundusz, do którego wnoszony jest majątek jednego lub więcej funduszy lub subfunduszy przejmowanych.
 
 **Art. 201.**
 
@@ -5987,6 +6211,12 @@ Art. 300–319. (pominięte)
 
 **Art. 210.** Do wniosku, o którym mowa w art. 209, załącza się:
 
+- **1)** dane osobowe osób zatrudnionych w towarzystwie, które mają istotny wpływ na zarządzanie zbiorczym portfelem papierów wartościowych, w tym w szczególności na decyzje inwestycyjne towarzystwa w tym zakresie;
+- **2)** firmę, siedzibę i adres depozytariusza;
+- **3)** listę osób wyznaczonych przez depozytariusza do wykonywania obowiązków określonych w umowie;
+- **4)** informacje o kwalifikacjach i doświadczeniu zawodowym osób, o których mowa w pkt 1 i 3, w szczególności w zakresie lokowania w papiery wartościowe i inne prawa majątkowe, które mogą wchodzić w skład zbiorczego portfela papierów wartościowych, oraz informacje z Krajowego Rejestru Karnego;
+- **5)** regulamin zbiorczego portfela papierów wartościowych.
+
 **Art. 211.** Do zezwolenia, o którym mowa w art. 209, stosuje się odpowiednio art. 23.
 
 **Art. 212.**
@@ -6094,9 +6324,10 @@ Art. 300–319. (pominięte)
 - **2)** całkowitą kwotę wynagrodzeń, w podziale na wynagrodzenia stałe i zmienne, wypłaconych przez towarzystwo pracownikom, w tym odrębnie całkowitą kwotę wynagrodzeń wypłaconych osobom, o których mowa w art. 47a ust. 1;
 - **3)** opis sposobu obliczania zmiennych składników wynagrodzeń;
 - **4)** wynik przeglądów realizacji polityki wynagrodzeń ze wskazaniem stwierdzonych nieprawidłowości;
-- **5)** istotne zmiany w przyjętej polityce wynagrodzeń.
-
-2. Fundusz inwestycyjny otwarty oraz specjalistyczny fundusz inwestycyjny otwarty publikują półroczne sprawozdania finansowe, w tym połączone sprawozdania funduszy z wydzielonymi subfunduszami oraz sprawozdania jednostkowe subfunduszy w terminie 2 miesięcy od zakończenia pierwszego półrocza roku obrotowego.
+- **5)** istotne zmiany w przyjętej polityce wynagrodzeń. [2. Fundusz inwestycyjny otwarty oraz specjalistyczny fundusz inwestycyjny otwarty publikują półroczne sprawozdania finansowe, w tym połączone sprawozdania funduszy z wydzielonymi subfunduszami oraz sprawozdania jednostkowe subfunduszy w terminie 2 miesięcy od zakończenia pierwszego półrocza roku obrotowego.] <2. Fundusz inwestycyjny otwarty oraz specjalistyczny fundusz inwestycyjny otwarty publikują:
+- **1)** prospekt informacyjny i kluczowe informacje lub kluczowe informacje dla inwestorów – niezwłocznie po ich sporządzeniu albo aktualizacji;
+- **2)** roczne sprawozdania finansowe, w tym roczne połączone sprawozdania funduszy z wydzielonymi subfunduszami oraz roczne sprawozdania jednostkowe subfunduszy – niezwłocznie po ich zbadaniu przez biegłego rewidenta, niepóźniej jednak niż w terminie 4 miesięcy od zakończenia roku obrotowego;
+- **3)** półroczne sprawozdania finansowe, w tym półroczne połączone sprawozdania funduszy z wydzielonymi subfunduszami oraz półroczne sprawozdania jednostkowe subfunduszy – niezwłocznie po dokonaniu ich przeglądu przez biegłego rewidenta, niepóźniej jednak niż w terminie 2 miesięcy od zakończenia pierwszego półrocza roku obrotowego.>
 
 3. Publiczny fundusz inwestycyjny zamknięty, niebędący funduszem portfelowym, o którym mowa w art. 179 ust. 1, udostępnia do publicznej wiadomości lub wiadomości zainteresowanych inwestorów prospekt lub memorandum informacyjne w sposób określony przepisami rozporządzenia 2017/1129, aktów delegowanych i wykonawczych wydanych na jego podstawie lub ustawy o ofercie publicznej, jeżeli obowiązek ich sporządzenia wynika z przepisów tego rozporządzenia lub rozdziału 2 tej ustawy.
 
@@ -6192,13 +6423,14 @@ Art. 300–319. (pominięte)
 
 8. Sprawozdania finansowe są udostępniane w sposób określony w kluczowych informacjach dla inwestorów oraz prospekcie informacyjnym funduszu, jednakże na żądanie uczestnika funduszu są mu dostarczane na papierze.
 
-9. Fundusz inwestycyjny otwarty działający jako fundusz powiązany dodatkowo jest obowiązany udostępnić uczestnikowi funduszu bezpłatnie, na jego żądanie, prospekt informacyjny funduszu podstawowego oraz roczne i półroczne sprawozdania finansowe funduszu podstawowego.
-
-10. Fundusz inwestycyjny otwarty przekazuje Komisji:
+9. Fundusz inwestycyjny otwarty działający jako fundusz powiązany dodatkowo jest obowiązany udostępnić uczestnikowi funduszu bezpłatnie, na jego żądanie, prospekt informacyjny funduszu podstawowego oraz roczne i półroczne sprawozdania finansowe funduszu podstawowego. [10. Fundusz inwestycyjny otwarty przekazuje Komisji:
 
 - **1)** prospekty informacyjne i kluczowe informacje lub kluczowe informacje dla inwestorów – niezwłocznie po ich sporządzeniu;
 - **2)** roczne sprawozdania finansowe, a w przypadku funduszu z wydzielonymi subfunduszami roczne połączone sprawozdanie finansowe funduszu oraz roczne sprawozdania jednostkowe subfunduszy – niezwłocznie po ich zbadaniu przez biegłego rewidenta;
-- **3)** półroczne sprawozdania finansowe, a w przypadku funduszu z wydzielonymi subfunduszami półroczne połączone sprawozdanie finansowe funduszu oraz półroczne sprawozdania jednostkowe subfunduszy – niezwłocznie po dokonaniu ich przeglądu przez biegłego rewidenta.
+- **3)** półroczne sprawozdania finansowe, a w przypadku funduszu z wydzielonymi subfunduszami półroczne połączone sprawozdanie finansowe funduszu oraz półroczne sprawozdania jednostkowe subfunduszy – niezwłocznie po dokonaniu ich przeglądu przez biegłego rewidenta.] <10. Fundusz inwestycyjny otwarty przekazuje Komisji:
+- **1)** prospekty informacyjne i kluczowe informacje lub kluczowe informacje dla inwestorów oraz ich aktualizacje,
+- **2)** roczne sprawozdania finansowe, a w przypadku funduszu z wydzielonymi subfunduszami – roczne połączone sprawozdanie finansowe funduszu oraz roczne sprawozdania jednostkowe subfunduszy,
+- **3)** półroczne sprawozdania finansowe, a w przypadku funduszu z wydzielonymi subfunduszami – półroczne połączone sprawozdanie finansowe funduszu oraz półroczne sprawozdania jednostkowe subfunduszy – równocześnie z ich opublikowaniem na stronach internetowych wskazanych w statucie funduszu.>
 
 11. Fundusz inwestycyjny otwarty będący funduszem powiązanym przekazuje Komisji, poza dokumentami wskazanymi w ust. 10, niezwłocznie:
 
@@ -6263,6 +6495,15 @@ Art. 300–319. (pominięte)
 8. Minister właściwy do spraw instytucji finansowych może określić, w drodze rozporządzenia, szczegółowy zakres informacji przedstawianych w informacji dla klienta alternatywnego funduszu inwestycyjnego oraz sposób ich przedstawiania, mając na uwadze umożliwienie właściwej oceny polityki inwestycyjnej i strategii inwestycyjnych funduszu, alternatywnej spółki inwestycyjnej lub unijnego AFI oraz ryzyka związanego z dokonywanymi przez nie lokatami.
 
 **Art. 222b.** W przypadku gdy jednostki uczestnictwa specjalistycznego funduszu inwestycyjnego otwartego, certyfikaty inwestycyjne funduszu inwestycyjnego zamkniętego, alternatywna spółka inwestycyjna lub unijny AFI są odpowiednio zbywane, emitowane lub wprowadzane do obrotu na terytorium Rzeczypospolitej Polskiej, towarzystwo, zarządzający ASI prowadzący działalność na podstawie zezwolenia albo zarządzający z UE udostępniają odpowiednio uczestnikom funduszu oraz inwestorom alternatywnej spółki inwestycyjnej lub unijnego AFI, z uwzględnieniem art. 108 i art. 109 rozporządzenia 231/2013:
+
+- **1)** okresowo – w odniesieniu do każdego funduszu, każdej alternatywnej spółki inwestycyjnej lub każdego unijnego AFI, informacje o:
+    - **a)** udziale procentowym aktywów, które są przedmiotem specjalnych ustaleń w związku z ich niepłynnością,
+    - **b)** zmianach regulacji wewnętrznych dotyczących zarządzania płynnością,
+    - **c)** aktualnym profilu ryzyka oraz systemach zarządzania ryzykiem stosowanych przez podmiot nim zarządzający;
+
+- **2)** regularnie – w odniesieniu do funduszu, alternatywnej spółki inwestycyjnej lub unijnego AFI, które stosują dźwignię finansową AFI, informacje o:
+    - **a)** zmianach maksymalnego poziomu dźwigni finansowej AFI, który może być stosowany w ich imieniu, oraz prawie do ponownego wykorzystania zabezpieczeń lub gwarancji udzielonej na podstawie porozumienia dotyczącego dźwigni finansowej AFI,
+    - **b)** łącznej wysokości zastosowanej dźwigni finansowej AFI.
 
 **Art. 222c.**
 
@@ -6331,13 +6572,25 @@ Art. 300–319. (pominięte)
 
 3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, obowiązki informacyjne zarządzających alternatywnymi funduszami inwestycyjnymi uzupełniające zakres informacji, jakie należy zamieszczać w formularzach sprawozdawczych przedstawionych w załączniku IV do rozporządzenia 231/2013 w celu zapewnienia powszechnego, jednolitego i spójnego na terenie Unii Europejskiej stosowania przez zarządzających alternatywnymi funduszami inwestycyjnymi kodów przy określaniu zarządzających alternatywnymi funduszami inwestycyjnymi, alternatywnych funduszy inwestycyjnych, rynków, instrumentów finansowych, kontrahentów i przedsiębiorstw, a także dla pozyskiwania przez Komisję dodatkowych informacji umożliwiających monitorowanie ryzyka systemowego, oraz formę i sposób wypełniania formularzy sprawozdawczych przedstawionych w załączniku IV do rozporządzenia 231/2013.
 
-**Art. 222f.** Informacje i dokumenty, których przekazanie realizuje obowiązek informacyjny nałożony na towarzystwo, fundusz inwestycyjny, likwidatora funduszu inwestycyjnego, depozytariusza i zarządzającego ASI, są przekazywane Komisji w postaci elektronicznej za pomocą systemu teleinformatycznego udostępnionego przez Komisję, w formacie danych zgodnym z formatem danych systemu teleinformatycznego Komisji udostępnionym na jej stronie internetowej.
+**Art. 222f.**
+
+1. Informacje i dokumenty, których przekazanie realizuje obowiązek informacyjny nałożony na towarzystwo, fundusz inwestycyjny, likwidatora funduszu inwestycyjnego, depozytariusza i zarządzającego ASI, są przekazywane Komisji w postaci elektronicznej za pomocą systemu teleinformatycznego udostępnionego przez Komisję, w formacie danych zgodnym z formatem danych systemu teleinformatycznego Komisji udostępnionym na jej stronie internetowej.
+
+2. System teleinformatyczny, o którym mowa w ust. 1, zapewnia możliwość przekazywania Komisji: <1) dokumentów, o których mowa w art. 46d ust. 1, 3 i 4, w formatach, o których mowa w art. 237c ust. 1;
+
+- **2)** dokumentów, o których mowa w art. 70ba ust. 1, 3 i 4, w formatach, o których mowa w art. 237d ust. 1;> <3) prospektu informacyjnego, kluczowych informacji dla inwestorów, ich aktualizacji oraz sprawozdań finansowych, o których mowa w art. 222 ust. 10 pkt 2 i 3, w formatach, o których mowa w art. 237e ust. 1.>
 
 **Art. 223.** Biegły rewident jest obowiązany, za pośrednictwem firmy audytorskiej:
+
+- **1)** towarzystwa albo zarządzającego ASI prowadzącego działalność na podstawie zezwolenia albo zarządzającego ASI prowadzącego działalność na podstawie wpisu do rejestru zarządzających ASI,
+- **2)** funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej uprawnionej do posługiwania się nazwą „EuVECA” albo alternatywnej spółki inwestycyjnej uprawnionej do posługiwania się nazwą „EuSEF”,
+- **3)** innego podmiotu wykonującego na podstawie umowy zawartej z towarzystwem lub funduszem inwestycyjnym albo z zarządzającym ASI prowadzącym działalność na podstawie zezwolenia albo z zarządzającym ASI prowadzącym działalność na podstawie wpisu do rejestru zarządzających ASI czynności w zakresie zarządzania lub obsługi odpowiednio funduszu albo alternatywnej spółki inwestycyjnej – powiadomić Komisję o stwierdzonych podczas badania, przeglądu sprawozdań finansowych lub atestacji sprawozdawczości zrównoważonego rozwoju tych podmiotów istotnych uchybieniach w działalności badanego lub podlegającego atestacji sprawozdawczości zrównoważonego rozwoju podmiotu oraz naruszeniach obowiązujących przepisów.
 
 **Art. 224.** Fundusz inwestycyjny ma obowiązek ogłaszać, w sposób określony w statucie, wartość aktywów netto na jednostkę uczestnictwa lub certyfikat inwestycyjny oraz cenę zbycia i odkupienia jednostek uczestnictwa, niezwłocznie po ich ustaleniu.
 
 **Art. 224a.** Nadzór Komisji w zakresie zgodności z prawem wykonywania działalności określonej w ustawie obejmuje zgodność tej działalności z przepisami ustawy i przepisami wydanymi na jej podstawie oraz z bezpośrednio stosowanymi przepisami prawa wspólnotowego regulującymi działalność w zakresie zbiorowego inwestowania oraz działalność zarządzania alternatywnymi funduszami inwestycyjnymi, a także z mającymi zastosowanie do tych działalności przepisami ustawy o ofercie publicznej, ustawy o obrocie instrumentami finansowymi, ustawy o rachunkowości, ustawy o nadzorze nad rynkiem kapitałowym, ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2024 r. poz. 707 oraz z 2025 r. poz.
+
+- **1216)** oraz ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
 
 **Art. 225.**
 
@@ -6733,6 +6986,10 @@ Art. 300–319. (pominięte)
 
 **Art. 234.** W przypadku gdy podmiot, o którym mowa w art. 192 ust. 1, narusza przepisy prawa lub statutu funduszu wierzytelności, nie wypełnia warunków określonych w zezwoleniu lub przekracza zakres zezwolenia, lub wykonuje działalność z naruszeniem zasad uczciwego obrotu lub z naruszeniem interesów uczestników funduszu wierzytelności, Komisja może, w drodze decyzji:
 
+- **1)** cofnąć zezwolenie;
+- **2)** nałożyć karę pieniężną do wysokości 5 000 000 zł;
+- **3)** zastosować łącznie obie sankcje, o których mowa w pkt 1 i 2.
+
 **Art. 234a.**
 
 1. W przypadku gdy podmiot obowiązany do złożenia zawiadomienia, o którym mowa w art. 54 ust. 1, nie dokonuje tego zawiadomienia, Komisja może nałożyć na ten podmiot karę pieniężną do wysokości 500 000 zł.
@@ -6806,6 +7063,66 @@ Art. 300–319. (pominięte)
 4. Komisja odbiera zgłoszenia oraz przechowuje ich treść w sposób zapewniający należytą ochronę danych osobowych osoby dokonującej zgłoszenia oraz osoby, której zarzuca się naruszenie. W tym celu Komisja wskazuje na swojej stronie internetowej bezpieczne kanały komunikacji, za pośrednictwem których jest możliwe dokonywanie zgłoszeń naruszenia lub podejrzenia naruszenia przepisów ustawy, przyjmuje procedury określające odbieranie zgłoszeń oraz działania, jakie mogą być podejmowane przez Komisję w związku z przyjętym zgłoszeniem.
 
 **Art. 237b.** Towarzystwo, spółka zarządzająca, podmiot, o którym mowa w art. 32 ust. 2, przedsiębiorca, z którym zawarto umowę, o której mowa w art. 45a, oraz depozytariusz posiadają procedury anonimowego zgłaszania wskazanemu członkowi zarządu, a w szczególnych przypadkach – radzie nadzorczej, a w przypadku braku tych organów – wskazanemu komplementariuszowi lub wspólnikowi uprawnionemu do prowadzenia spraw spółki zgodnie z przepisami Kodeksu spółek handlowych naruszeń przepisów ustawy, jakich dopuścili się pracownicy tych podmiotów.
+
+### DZIAŁ XA Udostępnianie informacji w europejskim pojedynczym punkcie dostępu <Art. 237c. 1. Towarzystwo równocześnie z publikacją dokumentów, o których mowa w art. 46d ust. 1, 3 i 4, przekazuje te dokumenty Komisji w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE.
+
+**Art. 237d.**
+
+1. Zarządzający ASI równocześnie z publikacją dokumentów, o których mowa w art. 70ba ust. 1, 3 i 4, przekazuje te dokumenty Komisji w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE.
+
+2. Dokumenty, o których mowa w art. 70ba ust. 1, 3 i 4, są opatrywane następującymi metadanymi:
+
+- **1)** firmą (nazwą) zarządzającego ASI, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego zarządzającego ASI, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości zarządzającego ASI, którego dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE.
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, zarządzający ASI występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+4. Komisja udostępnia dokumenty, o których mowa w art. 70ba ust. 1, 3 i 4, w europejskim pojedynczym punkcie dostępu.> <Art. 237e. 1. Prospekt informacyjny, kluczowe informacje dla inwestorów, ich aktualizacje oraz sprawozdania finansowe, o których mowa w art. 222 ust. 10 pkt 2 i 3, przekazuje się w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 82b ust. 6 dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE z dnia 13 lipca 2009 r. w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) (Dz. Urz. UE L 302 z 17.11.2009, str. 32, z późn. zm. ).
+
+2. Prospekt informacyjny, kluczowe informacje dla inwestorów, ich aktualizacje oraz sprawozdania finansowe, o których mowa w art. 222 ust. 10 pkt 2 i 3, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą funduszu inwestycyjnego otwartego, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego funduszu inwestycyjnego otwartego, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości funduszu inwestycyjnego otwartego, którego dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 82b ust. 6 dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE z dnia 13 lipca 2009 r. w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS).
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, fundusz inwestycyjny otwarty występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+4. Komisja udostępnia prospekty informacyjne, kluczowe informacje dla inwestorów, ich aktualizacje oraz sprawozdania finansowe, o których mowa w art. 222 ust. 10 pkt 2 i 3, w europejskim pojedynczym punkcie dostępu.
+
+**Art. 237f.**
+
+1. Komisja udostępnia w europejskim pojedynczym punkcie dostępu:
+
+- **1)** informację o wydaniu zezwolenia na wykonywanie działalności przez towarzystwo,
+- **2)** informacje, o których mowa w art. 228 ust. 9 – w formacie umożliwiającym ekstrakcję danych.
+
+2. Informacja, o której mowa w ust. 1 pkt 1, jest opatrywana następującymi metadanymi:
+
+- **1)** firmą towarzystwa, którego dotyczy informacja;
+- **2)** identyfikatorem podmiotu prawnego towarzystwa, którego dotyczy informacja, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacja zawiera dane osobowe.
+
+3. Informacje, o których mowa w art. 228 ust. 9, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą funduszu inwestycyjnego otwartego, którego dotyczą informacje, w związku z działalnością którego została nałożona sankcja na towarzystwo;
+- **2)** identyfikatorem podmiotu prawnego funduszu inwestycyjnego otwartego, którego dotyczą informacje, w związku z działalnością którego została nałożona sankcja na towarzystwo, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.> <Art. 237g. 1. Kwartalne informacje, o których mowa w art. 285a ust. 3, są przekazywane w formacie umożliwiającym ekstrakcję danych.
+
+2. Informacje, o których mowa w art. 285a ust. 3, są opatrywane następującymi metadanymi:
+
+- **1)** firmą towarzystwa, którego dotyczą informacje, wraz z nazwami zarządzanych przez towarzystwo specjalistycznych funduszy inwestycyjnych otwartych, funduszy inwestycyjnych zamkniętych i unijnych AFI oraz firmą (nazwą) zarządzającego ASI wraz z firmami (nazwami) zarządzanych przez niego alternatywnych spółek inwestycyjnych i unijnych AFI;
+- **2)** identyfikatorem podmiotu prawnego towarzystwa, którego dotyczą informacje, wraz z identyfikatorami podmiotu prawnego zarządzanych przez towarzystwo specjalistycznych funduszy inwestycyjnych otwartych, funduszy inwestycyjnych zamkniętych i unijnych AFI oraz identyfikatorem podmiotu prawnego zarządzającego ASI wraz z identyfikatorami podmiotu prawnego zarządzanych przez niego alternatywnych spółek inwestycyjnych i unijnych AFI, określonymi zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
 
 ### DZIAŁ XI Przejęcie zarządzania funduszem inwestycyjnym i alternatywną spółką inwestycyjną oraz przekształcenie, rozwiązanie i likwidacja funduszu inwestycyjnego
 
@@ -7221,6 +7538,9 @@ Art. 300–319. (pominięte)
 3. (uchylony)
 
 **Art. 258.** Fundusz zagraniczny może zbywać tytuły uczestnictwa na terytorium Rzeczypospolitej Polskiej bezpośrednio lub za pośrednictwem:
+
+- **1)** spółki zarządzającej lub oddziału tej spółki po spełnieniu warunków określonych w rozdziale 2 niniejszego działu, firmy inwestycyjnej, banku krajowego wykonującego działalność, o której mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, lub krajowego oddziału instytucji kredytowej, uprawnionych do wykonywania działalności w zakresie przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych;
+- **2)** towarzystwa oraz podmiotu, o którym mowa w art. 32 ust. 2.
 
 **Art. 258a.**
 
@@ -7900,6 +8220,10 @@ Art. 300–319. (pominięte)
 
 **Art. 265a.** Towarzystwo może prowadzić na terytorium państwa członkowskiego działalność w formie oddziału lub w formie innej niż oddział:
 
+- **1)** w zakresie zarządzania funduszami zagranicznymi – jeżeli zarządza co najmniej jednym funduszem inwestycyjnym otwartym;
+- **2)** w zakresie zarządzania unijnymi AFI – jeżeli posiada zezwolenie na zarządzanie alternatywnymi funduszami inwestycyjnymi;
+- **3)** w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, doradztwa inwestycyjnego oraz przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych – jeżeli posiada zezwolenie na zarządzanie portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, zezwolenie na doradztwo inwestycyjne oraz zezwolenie na przyjmowanie i przekazywanie zleceń nabycia lub zbycia instrumentów finansowych.
+
 **Art. 265b.** Przepisy art. 264–265a stosuje się odpowiednio, w przypadku gdy towarzystwo, które na terytorium danego państwa członkowskiego prowadzi działalność w formie oddziału lub w formie innej niż oddział, zamierza prowadzić na terytorium tego państwa działalność wymienioną w art. 265a, która nie była objęta zawiadomieniem przekazanym właściwym organom nadzoru tego państwa.
 
 **Art. 266.** Towarzystwa, które utworzyły oddział lub prowadzą działalność na terytorium państwa goszczącego w formie innej niż oddział, mają obowiązek dostarczać właściwym organom tego państwa informacje wymagane przez przepisy państwa goszczącego.
@@ -7921,6 +8245,12 @@ Art. 300–319. (pominięte)
 6. W przypadku gdy w skład lokat funduszu zagranicznego lub unijnego AFI, którym zarządza towarzystwo, wchodzą papiery wartościowe wyemitowane w ramach sekurytyzacji, która przestała spełniać wymagania określone w rozporządzeniu 2017/2402, towarzystwo to, w przypadku gdy jest to konieczne, podejmuje stosowne działania w najlepiej pojętym interesie uczestników funduszu zagranicznego lub inwestorów unijnego AFI.
 
 **Art. 267.** W przypadku powiadomienia Komisji przez właściwe organy państwa goszczącego, że towarzystwo, które prowadzi na terytorium tego państwa działalność w formie oddziału lub w formie innej niż oddział, narusza przepisy prawa obowiązujące w tym państwie i nie usunęło nieprawidłowości w terminie wyznaczonym przez te organy, Komisja może:
+
+- **1)** wezwać towarzystwo do zaprzestania naruszania przepisów prawa na terytorium państwa członkowskiego;
+- **2)** nałożyć na towarzystwo karę pieniężną w wysokości do 500 000 zł;
+- **3)** zakazać wykonywania przez towarzystwo działalności na terytorium państwa członkowskiego w całości lub w części, w zakresie której stwierdzono naruszenie;
+- **4)** zastosować łącznie sankcje, o których mowa w pkt 2 i 3;
+- **5)** zakazać zbywania na terytorium państwa goszczącego jednostek uczestnictwa zarządzanych przez towarzystwo funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych, proponowania objęcia na terytorium państwa goszczącego certyfikatów inwestycyjnych funduszy inwestycyjnych zamkniętych zarządzanych przez towarzystwo lub wprowadzania do obrotu na terytorium państwa goszczącego unijnych AFI zarządzanych przez towarzystwo.
 
 **Art. 268.**
 
@@ -8711,9 +9041,15 @@ Art. 300–319. (pominięte)
 
 **Art. 323.** W terminie 2 miesięcy od dnia wejścia w życie ustawy towarzystwo jest obowiązane dostarczyć Komisji:
 
+- **1)** listę podmiotów pośredniczących w zbywaniu i odkupywaniu jednostek uczestnictwa zarządzanych przez towarzystwo funduszy inwestycyjnych ze wskazaniem firmy (nazwy), adresu i siedziby tych podmiotów oraz nazwy funduszu inwestycyjnego, którego pośrednictwo dotyczy;
+- **2)** strukturę grupy kapitałowej towarzystwa ze wskazaniem firmy (nazwy), adresu i siedziby podmiotów wchodzących w skład grupy, procentowego udziału tych podmiotów w kapitale innych podmiotów należących do grupy oraz procentu ogólnej liczby posiadanych głosów na walnym zgromadzeniu akcjonariuszy lub zgromadzeniu wspólników tych podmiotów.
+
 **Art. 324.** W przypadku gdy towarzystwo zleciło zarządzanie portfelem inwestycyjnym funduszu lub jego częścią depozytariuszowi funduszu, fundusz inwestycyjny dokonuje zmiany depozytariusza w terminie 6 miesięcy od dnia wejścia w życie ustawy, chyba że towarzystwo w terminie miesiąca od dnia wejścia w życie ustawy zleci zarządzanie innemu podmiotowi.
 
 **Art. 325.** W terminie 2 miesięcy od dnia wejścia w życie ustawy podmiot posiadający zezwolenie, o którym mowa w art. 32 ust. 2, jest obowiązany dostarczyć Komisji:
+
+- **1)** dokumenty, o których mowa w art. 32 ust. 4 pkt 5, 6 i 11 – w przypadku gdy jest bankiem krajowym lub instytucją kredytową;
+- **2)** dokumenty, o których mowa w art. 32 ust. 4 pkt 5, 6, 11, 13 i 14 – w przypadku gdy nie jest bankiem krajowym lub instytucją kredytową.
 
 **Art. 326.** (uchylony)
 

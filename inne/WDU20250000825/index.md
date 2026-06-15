@@ -8,7 +8,7 @@ pos: 825
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o obronie Ojczyzny W trosce o bezpieczeństwo naszej Ojczyzny, kierując się konstytucyjnym obowiązkiem Jej obrony nałożonym na każdego obywatela Rzeczypospolitej Polskiej oraz pragnąc zagwarantować wszystkim, którzy realizują ten obowiązek, jak najlepsze warunki, w szczególności żołnierzom, którzy pełnią służbę wojskową dla dobra Rzeczypospolitej Polskiej, a od których służba ta wymaga zdyscyplinowania, lojalności i poświęcenia, stanowi się, co następuje:
@@ -531,7 +531,7 @@ Art. 698–776. (pominięte)
 
 6. Przedłużenie czasu prowadzenia operacji wojskowej na terytorium Rzeczypospolitej Polskiej w czasie pokoju może nastąpić wielokrotnie, za zgodą Sejmu, na czas każdorazowo nie dłuższy niż 60 dni. Prezydent Rzeczypospolitej Polskiej, na wniosek Rady Ministrów określający przyczyny konieczności przedłużenia czasu prowadzenia operacji wojskowej na terytorium Rzeczypospolitej Polskiej w czasie pokoju, wydaje postanowienie w sprawie przedłużenia czasu prowadzenia tej operacji, po uzyskaniu zgody Sejmu.
 
-7. O postanowieniu, o którym mowa w ust. 3, Prezydent Rzeczypospolitej Polskiej niezwłocznie informuje Marszałka i Marszałka Senatu.
+7. O postanowieniu, o którym mowa w ust. 3, Prezydent Rzeczypospolitej Polskiej niezwłocznie informuje Marszałka Sejmu i Marszałka Senatu.
 
 **Art. 26.**
 
@@ -588,7 +588,7 @@ Art. 698–776. (pominięte)
 
 2. Minister Obrony Narodowej, realizując politykę Rady Ministrów w zakresie ogólnego kierownictwa w dziedzinie obronności kraju i zapewnienia bezpieczeństwa zewnętrznego państwa, kieruje obronnością kraju.
 
-3. Minister Obrony Narodowej przekazuje Marszałkowi i Marszałkowi Senatu informację o przebiegu operacji wojskowej prowadzonej na terytorium Rzeczypospolitej Polskiej w czasie pokoju, w terminie 14 dni od dnia jej zakończenia.
+3. Minister Obrony Narodowej przekazuje Marszałkowi Sejmu i Marszałkowi Senatu informację o przebiegu operacji wojskowej prowadzonej na terytorium Rzeczypospolitej Polskiej w czasie pokoju, w terminie 14 dni od dnia jej zakończenia.
 
 **Art. 29.**
 
@@ -2598,7 +2598,7 @@ Art. 698–776. (pominięte)
 1. Obowiązek pełnienia zasadniczej służby wojskowej odracza się na wniosek osoby podlegającej temu obowiązkowi w przypadku:
 
 - **1)** wyboru na posła, w tym do Parlamentu Europejskiego, lub senatora – od dnia ogłoszenia wyników wyboru do dnia wygaśnięcia mandatu;
-- **2)** kandydowania do Rzeczypospolitej Polskiej, Senatu Rzeczypospolitej Polskiej lub Parlamentu Europejskiego – do dnia ogłoszenia wyników wyborów;
+- **2)** kandydowania do Sejmu Rzeczypospolitej Polskiej, Senatu Rzeczypospolitej Polskiej lub Parlamentu Europejskiego – do dnia ogłoszenia wyników wyborów;
 - **3)** udokumentowanej konieczności sprawowania bezpośredniej opieki nad członkiem rodziny wspólnie zamieszkującym, który nie ukończył 16 roku życia lub został uznany za całkowicie niezdolnego do pracy i do samodzielnej egzystencji albo który ukończył 75 rok życia, jeżeli nie ma innego pełnoletniego członka rodziny bliższego lub równego stopniem pokrewieństwa obowiązanego do sprawowania tej opieki, albo ze względu na obowiązek sprawowania opieki wynikający z prawomocnego orzeczenia sądu – na czas sprawowania tej opieki;
 - **4)** pobierania nauki w szkole ponadpodstawowej – na czas pobierania tej nauki;
 - **5)** pobierania nauki w szkole wyższej, jeżeli jest ona studentem – na czas pobierania tej nauki;
@@ -3687,7 +3687,7 @@ Art. 698–776. (pominięte)
 
 5. Na ćwiczenia wojskowe żołnierzy PR nie powołuje się osób, które są wyłączone od obowiązku pełnienia służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny lub:
 
-- **1)** prowadzą własną kampanię wyborczą w przypadku kandydowania do Rzeczypospolitej Polskiej, Senatu Rzeczypospolitej Polskiej, Parlamentu Europejskiego lub organów samorządu terytorialnego – w czasie jej trwania;
+- **1)** prowadzą własną kampanię wyborczą w przypadku kandydowania do Sejmu Rzeczypospolitej Polskiej, Senatu Rzeczypospolitej Polskiej, Parlamentu Europejskiego lub organów samorządu terytorialnego – w czasie jej trwania;
 - **2)** zostały wybrane na posła, w tym do Parlamentu Europejskiego, albo senatora – w czasie trwania kadencji;
 - **3)** pełnią funkcję organów jednostek samorządu terytorialnego albo sprawują mandat radnego;
 - **4)** zajmują kierownicze stanowiska w urzędach administracji rządowej;
@@ -4871,7 +4871,7 @@ Art. 698–776. (pominięte)
 
 3. Żołnierze niebędący żołnierzami zawodowymi, biorąc udział w zgromadzeniach o charakterze politycznym, nie mogą występować w umundurowaniu oraz odznakach i oznakach wojskowych.
 
-4. Przepisu ust. 2 nie stosuje się w przypadku kandydowania żołnierza niebędącego żołnierzem zawodowym do Rzeczypospolitej Polskiej lub Senatu Rzeczypospolitej Polskiej, Parlamentu Europejskiego lub organów samorządu terytorialnego.
+4. Przepisu ust. 2 nie stosuje się w przypadku kandydowania żołnierza niebędącego żołnierzem zawodowym do Sejmu Rzeczypospolitej Polskiej lub Senatu Rzeczypospolitej Polskiej, Parlamentu Europejskiego lub organów samorządu terytorialnego.
 
 5. Żołnierze niebędący żołnierzami zawodowymi nie mogą tworzyć związków zawodowych i wstępować do nich ani brać udziału w działalności związków zawodowych, których byli członkami w chwili powołania do służby.
 
@@ -5170,7 +5170,7 @@ Art. 698–776. (pominięte)
 
 **Art. 346.**
 
-1. Żołnierz zawodowy może kandydować do Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej oraz Parlamentu Europejskiego, na kierownicze stanowiska w państwie obsadzane na podstawie wyboru oraz do organów samorządu terytorialnego, o czym niezwłocznie informuje dowódcę jednostki wojskowej.
+1. Żołnierz zawodowy może kandydować do Sejmu Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej oraz Parlamentu Europejskiego, na kierownicze stanowiska w państwie obsadzane na podstawie wyboru oraz do organów samorządu terytorialnego, o czym niezwłocznie informuje dowódcę jednostki wojskowej.
 
 2. Na czas trwania kampanii wyborczej żołnierzowi zawodowemu udziela się urlopu bezpłatnego.
 
@@ -7590,7 +7590,7 @@ Art. 698–776. (pominięte)
 
 - **2)** na wniosek i dotyczy osób, których powołanie do służby wojskowej, o której mowa w ust. 1, groziłoby zaprzestaniem lub poważnym zakłóceniem pracy urzędu państwowego lub samorządowego albo działalności gospodarczej przedsiębiorcy niezbędnej dla zapewnienia obrony lub bezpieczeństwa państwa.
 
-6. Podstawę wyłączenia z urzędu stanowi pisemne zawiadomienie (imienny wykaz osób) przekazane przez Kancelarię Rzeczypospolitej Polskiej, Kancelarię Senatu Rzeczypospolitej Polskiej oraz kierowników urzędów jednostek samorządu terytorialnego w stosunku do osób, o których mowa w ust. 5 pkt 1 lit. a i b, lub kierowników urzędów państwowych lub urzędów jednostek samorządu terytorialnego oraz przedsiębiorców, pracodawców lub innych podmiotów uprawnionych do zatrudnienia lub nawiązania stosunku służbowego w stosunku do osób, o których mowa w ust. 5 pkt 1 lit. c i d.
+6. Podstawę wyłączenia z urzędu stanowi pisemne zawiadomienie (imienny wykaz osób) przekazane przez Kancelarię Sejmu Rzeczypospolitej Polskiej, Kancelarię Senatu Rzeczypospolitej Polskiej oraz kierowników urzędów jednostek samorządu terytorialnego w stosunku do osób, o których mowa w ust. 5 pkt 1 lit. a i b, lub kierowników urzędów państwowych lub urzędów jednostek samorządu terytorialnego oraz przedsiębiorców, pracodawców lub innych podmiotów uprawnionych do zatrudnienia lub nawiązania stosunku służbowego w stosunku do osób, o których mowa w ust. 5 pkt 1 lit. c i d.
 
 7. Podstawę wyłączenia na wniosek stanowi pisemny udokumentowany wniosek kierowników urzędów państwowych lub samorządowych albo przedsiębiorców w stosunku do osób, o których mowa w ust. 5 pkt 2.
 
@@ -8520,7 +8520,7 @@ Art. 698–776. (pominięte)
 
 1. Obowiązkowi świadczeń osobistych nie podlegają:
 
-- **1)** osoby wybrane do i Senatu Rzeczypospolitej Polskiej lub organów samorządu terytorialnego na czas pełnienia mandatu;
+- **1)** osoby wybrane do Sejmu i Senatu Rzeczypospolitej Polskiej lub organów samorządu terytorialnego na czas pełnienia mandatu;
 - **2)** żołnierze pełniący służbę wojskową oraz osoby powołane do tej służby, jeżeli termin stawienia się do służby koliduje z terminem wykonania świadczenia;
 - **3)** osoby odbywające służbę zastępczą;
 - **4)** osoby, wobec których orzeczono trwałą lub długotrwałą niezdolność do pracy w gospodarstwie rolnym na podstawie ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, osoby uznane za całkowicie niezdolne do pracy oraz samodzielnej egzystencji albo całkowicie niezdolne do pracy na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, jak również osoby zaliczone do osób o znacznym stopniu niepełnosprawności albo umiarkowanym stopniu niepełnosprawności w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych;
@@ -8562,7 +8562,7 @@ Art. 698–776. (pominięte)
 5. Przedmiotem świadczeń rzeczowych nie mogą być:
 
 - **1)** tereny, pomieszczenia, środki transportowe, maszyny i inny sprzęt, znajdujące się w posiadaniu: 146, 222 i 525), spółdzielczych kas oszczędnościowo-kredytowych, a także Polskiej Wytwórni Papierów Wartościowych,
-    - **a)** jednostek organizacyjnych służących bezpośrednio działalności i Senatu Rzeczypospolitej Polskiej, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Kancelarii Prezesa Rady Ministrów, ministerstw i urzędów wojewódzkich oraz Narodowego Banku Polskiego, banków, izby rozliczeniowej, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz.
+    - **a)** jednostek organizacyjnych służących bezpośrednio działalności Sejmu i Senatu Rzeczypospolitej Polskiej, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Kancelarii Prezesa Rady Ministrów, ministerstw i urzędów wojewódzkich oraz Narodowego Banku Polskiego, banków, izby rozliczeniowej, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz.
     - **b)** jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych odpowiednio przez Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw informatyzacji, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Centralnego Biura Antykorupcyjnego oraz Szefa Krajowej Administracji Skarbowej,
     - **c)** przedstawicielstw dyplomatycznych i urzędów konsularnych państw obcych oraz innych przedstawicielstw i instytucji zrównanych z nimi w zakresie przywilejów i immunitetów na mocy ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, jak również członków tych przedstawicielstw, urzędów i instytucji oraz członków ich rodzin, a także innych osób zrównanych z nimi w zakresie przywilejów i immunitetów, jeżeli nie posiadają obywatelstwa polskiego,
     - **d)** jednostek przewidzianych do militaryzacji i zmilitaryzowanych, które są przeznaczone na potrzeby ujęte w etacie jednostki zmilitaryzowanej;

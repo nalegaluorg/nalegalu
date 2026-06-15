@@ -8,7 +8,7 @@ pos: 1270
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo o postępowaniu przed sądami administracyjnymi
@@ -71,6 +71,15 @@ source: "isap-pdf"
 **Art. 4.** Sądy administracyjne rozstrzygają spory o właściwość między organami jednostek samorządu terytorialnego i między samorządowymi kolegiami odwoławczymi, o ile odrębna ustawa nie stanowi inaczej, oraz spory kompetencyjne między organami tych jednostek a organami administracji rządowej.
 
 **Art. 5.** Sądy administracyjne nie są właściwe w sprawach:
+
+- **1)** wynikających z nadrzędności i podległości organizacyjnej w stosunkach między organami administracji publicznej;
+- **2)** wynikających z podległości służbowej między przełożonymi i podwładnymi;
+- **3)** odmowy mianowania na stanowiska lub powołania do pełnienia funkcji w organach administracji publicznej, chyba że obowiązek mianowania lub powołania wynika z przepisów prawa;
+- **4)** wiz wydawanych przez ministra właściwego do spraw zagranicznych lub konsulów, z wyjątkiem wiz:
+    - **a)** o których mowa w art. 2 pkt 2–5 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1, z późn. zm. ),
+    - **b)** wydawanych cudzoziemcowi będącemu członkiem rodziny obywatela państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2025 r. poz. 1164 i 1794);
+
+- **5)** zezwoleń na przekraczanie granicy w ramach małego ruchu granicznego wydawanych przez konsulów.
 
 **Art. 6.** Sąd administracyjny w razie uzasadnionej potrzeby udziela stronom występującym w sprawie bez adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego niezbędnych pouczeń co do czynności procesowych i skutków ich zaniedbań.
 
@@ -334,15 +343,26 @@ source: "isap-pdf"
 
 **Art. 36.** Pełnomocnictwo może być:
 
+- **1)** ogólne – do prowadzenia spraw przed sądami administracyjnymi;
+- **2)** do prowadzenia poszczególnych spraw;
+- **3)** do niektórych tylko czynności w postępowaniu.
+
 **Art. 37.**
 
-§ 1. Pełnomocnik obowiązany jest przy pierwszej czynności procesowej dołączyć do akt sprawy pełnomocnictwo z podpisem mocodawcy lub wierzytelny odpis pełnomocnictwa. Adwokat, radca prawny, rzecznik patentowy, a także doradca podatkowy mogą sami uwierzytelnić odpis udzielonego im pełnomocnictwa oraz odpisy innych dokumentów wykazujących ich umocowanie. Sąd może w razie wątpliwości zażądać urzędowego poświadczenia podpisu strony. Złożenie dokumentu wykazującego umocowanie lub jego uwierzytelnionego odpisu nie jest wymagane, jeżeli stwierdzenie przez sąd umocowania jest możliwe na podstawie wykazu lub innego rejestru, do którego sąd ma dostęp drogą elektroniczną. [§ 1a. Jeżeli odpis pełnomocnictwa lub odpisy innych dokumentów wykazujących umocowanie zostały sporządzone w formie dokumentu elektronicznego, ich uwierzytelnienia, o którym mowa w § 1, dokonuje się z wykorzystaniem kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego. Odpisy pełnomocnictwa lub odpisy innych dokumentów wykazujących umocowanie uwierzytelniane elektronicznie sporządzane są w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.] <§ 1a. Jeżeli odpis pełnomocnictwa lub odpisy innych dokumentów wykazujących umocowanie zostały sporządzone w postaci elektronicznej, ich uwierzytelnienia, o którym mowa w § 1, dokonuje się z wykorzystaniem kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego. Odpisy pełnomocnictwa lub odpisy innych dokumentów wykazujących umocowanie uwierzytelniane elektronicznie sporządzane są w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.> § 2. W toku sprawy pełnomocnictwo może być udzielone ustnie na posiedzeniu sądu przez oświadczenie złożone przez stronę i wciągnięte do protokołu.
+§ 1. Pełnomocnik obowiązany jest przy pierwszej czynności procesowej dołączyć do akt sprawy pełnomocnictwo z podpisem mocodawcy lub wierzytelny odpis pełnomocnictwa. Adwokat, radca prawny, rzecznik patentowy, a także doradca podatkowy mogą sami uwierzytelnić odpis udzielonego im pełnomocnictwa oraz odpisy innych dokumentów wykazujących ich umocowanie. Sąd może w razie wątpliwości zażądać urzędowego poświadczenia podpisu strony. Złożenie dokumentu wykazującego umocowanie lub jego uwierzytelnionego odpisu nie jest wymagane, jeżeli stwierdzenie przez sąd umocowania jest możliwe na podstawie wykazu lub innego rejestru, do którego sąd ma dostęp drogą elektroniczną. [§ 1a. Jeżeli odpis pełnomocnictwa lub odpisy innych dokumentów wykazujących umocowanie zostały sporządzone w formie dokumentu elektronicznego, ich uwierzytelnienia, o którym mowa w § 1, dokonuje się z wykorzystaniem kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego. Odpisy pełnomocnictwa lub odpisy innych dokumentów wykazujących umocowanie uwierzytelniane elektronicznie sporządzane są w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.] <§ 1a. Jeżeli odpis pełnomocnictwa lub odpisy innych dokumentów wykazujących umocowanie zostały sporządzone w postaci elektronicznej, ich uwierzytelnienia, o którym mowa w § 1, dokonuje się z wykorzystaniem kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego. Odpisy pełnomocnictwa lub odpisy innych dokumentów wykazujących umocowanie uwierzytelniane elektronicznie sporządzane są w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.>
+
+§ 2. W toku sprawy pełnomocnictwo może być udzielone ustnie na posiedzeniu sądu przez oświadczenie złożone przez stronę i wciągnięte do protokołu.
 
 § 3. (uchylony) [Art. 37a. Pełnomocnictwo udzielone w formie dokumentu elektronicznego podpisuje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.] <Art. 37a. Pełnomocnictwo udzielone w postaci elektronicznej podpisuje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.>
 
 **Art. 38.** Za stronę, która nie może się podpisać, podpisuje pełnomocnictwo osoba przez nią upoważniona, z wymienieniem przyczyny, dla której strona sama się nie podpisała.
 
 **Art. 39.** Pełnomocnictwo ogólne lub do prowadzenia poszczególnych spraw obejmuje z samego prawa umocowanie do:
+
+- **1)** wszystkich łączących się ze sprawą czynności w postępowaniu, nie wyłączając skargi o wznowienie postępowania i postępowania wywołanego jej wniesieniem;
+- **2)** udzielenia dalszego pełnomocnictwa na zasadach określonych w odrębnych przepisach;
+- **3)** cofnięcia skargi w całości lub w części, jeżeli czynności te nie zostały wyłączone w danym pełnomocnictwie;
+- **4)** odbioru kosztów postępowania.
 
 **Art. 40.** Zakres, czas trwania i skutki umocowania szerszego niż pełnomocnictwo, o którym mowa w art. 36, ocenia się według treści pełnomocnictwa oraz przepisów prawa cywilnego.
 
@@ -386,7 +406,9 @@ source: "isap-pdf"
     - **c)** numer w Krajowym Rejestrze Sądowym, a w przypadku jego braku – numer identyfikacyjny REGON albo numer w innym właściwym rejestrze lub ewidencji, albo numer identyfikacji podatkowej strony wnoszącej pismo, niebędącej osobą fizyczną, która nie ma obowiązku wpisu we właściwym rejestrze lub ewidencji, jeżeli jest ona obowiązana do jego posiadania,
     - **d)** oznaczenie przedmiotu sprawy;
 
-- **2)** dalszych pism procesowych – sygnaturę akt. [§ 2a. W przypadku gdy pismo strony jest wnoszone w formie dokumentu elektronicznego, powinno ponadto zawierać adres elektroniczny oraz zostać podpisane przez stronę albo jej przedstawiciela ustawowego lub pełnomocnika kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.] <§ 2a. W przypadku gdy pismo strony jest wnoszone w postaci elektronicznej, powinno ponadto zawierać adres do doręczeń elektronicznych oraz zostać podpisane przez stronę albo jej przedstawiciela ustawowego lub pełnomocnika kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.> [§ 2b. Zasady podpisywania przewidziane w § 2a dotyczą także załączników wnoszonych w formie dokumentu elektronicznego.] <§ 2b. Zasady podpisywania przewidziane w § 2a dotyczą także załączników wnoszonych w postaci elektronicznej.> [§ 2c. Pismo wnoszone w innej formie niż forma dokumentu elektronicznego, zawierające żądanie doręczania pism sądu za pomocą środków komunikacji elektronicznej, powinno zawierać oznaczenie adresu elektronicznego.] <§ 2c. Pismo wnoszone w innej postaci niż postać elektroniczna, zawierające żądanie doręczania pism sądu za pomocą środków komunikacji elektronicznej, powinno zawierać adres do doręczeń elektronicznych.> [§ 2d. Jeżeli pismo, o którym mowa w § 2a, nie zawiera adresu elektronicznego, sąd przyjmuje, że właściwym jest adres elektroniczny, z którego nadano pismo wniesione w formie dokumentu elektronicznego, a gdy wniesiono je w innej formie i zawiera ono żądanie, o którym mowa w § 2c, doręczenie pism przez sąd następuje na adres wskazany zgodnie z § 2 pkt 1 lit. a, przy czym w pierwszym piśmie sąd poucza o warunku podania adresu elektronicznego w żądaniu doręczania pism środkami komunikacji elektronicznej.] <§ 2d. Jeżeli pismo, o którym mowa w § 2a, nie zawiera adresu do doręczeń elektronicznych, sąd przyjmuje, że właściwy jest adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa w art. 25 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, zwanej dalej „bazą adresów elektronicznych”, albo adres do doręczeń elektronicznych, z którego nadano pismo, a gdy wniesiono je w innej postaci niż postać elektroniczna i zawiera ono żądanie, o którym mowa w § 2c, doręczenie pism przez sąd następuje na adres wskazany zgodnie z § 2 pkt 1 lit. a, przy czym w pierwszym piśmie sąd poucza o warunku podania adresu do doręczeń elektronicznych w żądaniu doręczania pism środkami komunikacji elektronicznej.> § 3. Do pisma należy dołączyć pełnomocnictwo lub jego wierzytelny odpis, jeżeli pismo wnosi pełnomocnik, który w danej sprawie nie złożył jeszcze tych dokumentów przed sądem. Złożenie dokumentu wykazującego umocowanie lub jego uwierzytelnionego odpisu nie jest wymagane, jeżeli stwierdzenie przez sąd umocowania jest możliwe na podstawie wykazu lub innego rejestru, do którego sąd ma dostęp drogą elektroniczną.
+- **2)** dalszych pism procesowych – sygnaturę akt. [§ 2a. W przypadku gdy pismo strony jest wnoszone w formie dokumentu elektronicznego, powinno ponadto zawierać adres elektroniczny oraz zostać podpisane przez stronę albo jej przedstawiciela ustawowego lub pełnomocnika kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.] <§ 2a. W przypadku gdy pismo strony jest wnoszone w postaci elektronicznej, powinno ponadto zawierać adres do doręczeń elektronicznych oraz zostać podpisane przez stronę albo jej przedstawiciela ustawowego lub pełnomocnika kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.> [§ 2b. Zasady podpisywania przewidziane w § 2a dotyczą także załączników wnoszonych w formie dokumentu elektronicznego.] <§ 2b. Zasady podpisywania przewidziane w § 2a dotyczą także załączników wnoszonych w postaci elektronicznej.> [§ 2c. Pismo wnoszone w innej formie niż forma dokumentu elektronicznego, zawierające żądanie doręczania pism sądu za pomocą środków komunikacji elektronicznej, powinno zawierać oznaczenie adresu elektronicznego.] <§ 2c. Pismo wnoszone w innej postaci niż postać elektroniczna, zawierające żądanie doręczania pism sądu za pomocą środków komunikacji elektronicznej, powinno zawierać adres do doręczeń elektronicznych.> [§ 2d. Jeżeli pismo, o którym mowa w § 2a, nie zawiera adresu elektronicznego, sąd przyjmuje, że właściwym jest adres elektroniczny, z którego nadano pismo wniesione w formie dokumentu elektronicznego, a gdy wniesiono je w innej formie i zawiera ono żądanie, o którym mowa w § 2c, doręczenie pism przez sąd następuje na adres wskazany zgodnie z § 2 pkt 1 lit. a, przy czym w pierwszym piśmie sąd poucza o warunku podania adresu elektronicznego w żądaniu doręczania pism środkami komunikacji elektronicznej.] <§ 2d. Jeżeli pismo, o którym mowa w § 2a, nie zawiera adresu do doręczeń elektronicznych, sąd przyjmuje, że właściwy jest adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa w art. 25 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, zwanej dalej „bazą adresów elektronicznych”, albo adres do doręczeń elektronicznych, z którego nadano pismo, a gdy wniesiono je w innej postaci niż postać elektroniczna i zawiera ono żądanie, o którym mowa w § 2c, doręczenie pism przez sąd następuje na adres wskazany zgodnie z § 2 pkt 1 lit. a, przy czym w pierwszym piśmie sąd poucza o warunku podania adresu do doręczeń elektronicznych w żądaniu doręczania pism środkami komunikacji elektronicznej.>
+
+§ 3. Do pisma należy dołączyć pełnomocnictwo lub jego wierzytelny odpis, jeżeli pismo wnosi pełnomocnik, który w danej sprawie nie złożył jeszcze tych dokumentów przed sądem. Złożenie dokumentu wykazującego umocowanie lub jego uwierzytelnionego odpisu nie jest wymagane, jeżeli stwierdzenie przez sąd umocowania jest możliwe na podstawie wykazu lub innego rejestru, do którego sąd ma dostęp drogą elektroniczną.
 
 § 4. Za stronę, która nie może się podpisać, podpisuje pismo osoba przez nią upoważniona, z wymienieniem przyczyny, dla której strona sama się nie podpisała.
 
@@ -503,7 +525,9 @@ source: "isap-pdf"
 - **1)** wskazanie zaskarżonej decyzji, postanowienia, innego aktu lub czynności;
 - **2)** oznaczenie organu, którego działania, bezczynności lub przewlekłego prowadzenia postępowania skarga dotyczy;
 - **3)** określenie naruszenia prawa lub interesu prawnego.
-- **4)** (uchylony) § 2. W przypadku, o którym mowa w art. 51, skargi mogą być wniesione w jednym piśmie.
+- **4)** (uchylony)
+
+§ 2. W przypadku, o którym mowa w art. 51, skargi mogą być wniesione w jednym piśmie.
 
 § 3. Jeżeli w jednym piśmie zaskarżono więcej niż jeden akt lub czynność albo bezczynność lub przewlekłe prowadzenie postępowania, przewodniczący zarządza rozdzielenie tych skarg.
 
@@ -560,6 +584,10 @@ source: "isap-pdf"
 
 **Art. 62.** Przewodniczący wydziału lub wyznaczony sędzia:
 
+- **1)** zarządza skompletowanie akt niezbędnych do rozpoznania sprawy, a w razie potrzeby także innych dowodów;
+- **2)** wskazuje skład sędziowski orzekający w sprawie, wyznaczony w sposób, o którym mowa w art. 17;
+- **3)** wyznacza termin posiedzenia niejawnego lub rozprawy, w którym sprawa ma być rozpoznana.
+
 #### Rozdział 3 Wniosek o wszczęcie postępowania
 
 **Art. 63.** Jeżeli ustawy tak stanowią, postępowanie sądowe wszczyna się na wniosek.
@@ -614,11 +642,21 @@ source: "isap-pdf"
 
 **Art. 65b.** Pisma sądu, odpisy pism i załączników w postępowaniu sądowym oraz orzeczeń doręczane przez sąd w postaci elektronicznej opatrzone są kwalifikowanym podpisem elektronicznym albo kwalifikowaną pieczęcią elektroniczną.> [Art. 66. § 1. W toku sprawy adwokaci, radcy prawni, doradcy podatkowi, rzecznicy patentowi i Prokuratoria Generalna Rzeczypospolitej Polskiej doręczają sobie nawzajem pisma bezpośrednio za potwierdzeniem odbioru i oznaczeniem daty lub przesyłką poleconą. W treści pisma procesowego wniesionego do sądu zamieszcza się oświadczenie o doręczeniu odpisu pisma drugiej stronie albo o jego nadaniu przesyłką poleconą. Pisma niezawierające powyższego oświadczenia podlegają zwrotowi bez wzywania do usunięcia tego braku.
 
+§ 1a. Przepis § 1 nie dotyczy pism wnoszonych w formie dokumentu elektronicznego, podlegających doręczeniu adwokatowi, radcy prawnemu, doradcy podatkowemu, rzecznikowi patentowemu lub Prokuratorii Generalnej Rzeczypospolitej Polskiej, którzy stosują środki komunikacji elektronicznej do odbioru pism.
+
+§ 2. Doręczenie adresatowi może nastąpić także przez wręczenie mu pisma bezpośrednio w sekretariacie sądu.
+
+§ 3. Przepis § 1 nie dotyczy wniesienia skargi, skargi kasacyjnej, zażalenia, sprzeciwu, skargi o wznowienie postępowania i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia.] <Art. 66. § 1. W toku sprawy adwokaci, radcowie prawni, doradcy podatkowi, rzecznicy patentowi i Prokuratoria Generalna Rzeczypospolitej Polskiej doręczają sobie nawzajem pisma na wskazane adresy do doręczeń elektronicznych. W treści pisma procesowego wniesionego do sądu zamieszcza się oświadczenie o doręczeniu pisma drugiej stronie na adres do doręczeń elektronicznych. Pisma niezawierające powyższego oświadczenia podlegają zwrotowi bez wzywania do usunięcia tego braku.
+
+§ 2. Przepis § 1 nie dotyczy wniesienia skargi, sprzeciwu od decyzji, skargi kasacyjnej, odpowiedzi na skargę kasacyjną, zażalenia, sprzeciwu, skargi o wznowienie postępowania i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia.>
+
 **Art. 67.**
 
 § 1. Jeżeli stroną jest osoba fizyczna, doręczenia dokonuje się jej osobiście, a gdy nie ma ona zdolności procesowej – jej przedstawicielowi ustawowemu.
 
-§ 2. Pisma w postępowaniu sądowym lub orzeczenia dla osoby prawnej, jak również dla jednostki organizacyjnej nieposiadającej osobowości prawnej, doręcza się organowi uprawnionemu do reprezentowania ich przed sądem lub do rąk pracownika upoważnionego do odbioru pism. [§ 3. Pisma w postępowaniu sądowym dla przedsiębiorców i wspólników spółek handlowych, wpisanych do rejestru sądowego na podstawie odrębnych przepisów, doręcza się na adres podany w rejestrze, chyba że strona wskazała inny adres dla doręczeń.] <§ 3. Pisma w postępowaniu sądowym dla przedsiębiorców i wspólników spółek handlowych, wpisanych do rejestru sądowego na podstawie odrębnych przepisów, doręcza się na adres do doręczeń elektronicznych, chyba że strona wskazała inny adres do doręczeń.> § 4. W razie niemożności doręczenia w sposób określony w § 3, stosuje się odpowiednio art. 70 § 2.
+§ 2. Pisma w postępowaniu sądowym lub orzeczenia dla osoby prawnej, jak również dla jednostki organizacyjnej nieposiadającej osobowości prawnej, doręcza się organowi uprawnionemu do reprezentowania ich przed sądem lub do rąk pracownika upoważnionego do odbioru pism. [§ 3. Pisma w postępowaniu sądowym dla przedsiębiorców i wspólników spółek handlowych, wpisanych do rejestru sądowego na podstawie odrębnych przepisów, doręcza się na adres podany w rejestrze, chyba że strona wskazała inny adres dla doręczeń.] <§ 3. Pisma w postępowaniu sądowym dla przedsiębiorców i wspólników spółek handlowych, wpisanych do rejestru sądowego na podstawie odrębnych przepisów, doręcza się na adres do doręczeń elektronicznych, chyba że strona wskazała inny adres do doręczeń.>
+
+§ 4. W razie niemożności doręczenia w sposób określony w § 3, stosuje się odpowiednio art. 70 § 2.
 
 § 5. Jeżeli ustanowiono pełnomocnika lub osobę upoważnioną do odbioru pism w postępowaniu sądowym, doręczenia należy dokonać tym osobom.
 
@@ -634,7 +672,11 @@ source: "isap-pdf"
 
 § 2. Na wniosek adresata doręczenie może być dokonane na wskazany przez niego adres skrytki pocztowej. W takim przypadku pismo przesłane za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe składa się w placówce pocztowej tego operatora, umieszczając zawiadomienie o tym w skrytce pocztowej adresata. W zawiadomieniu wskazuje się placówkę pocztową operatora, w której złożono pismo, oraz zamieszcza się informację, że należy je odebrać w terminie siedmiu dni od dnia pozostawienia zawiadomienia.
 
-**Art. 70.** [§ 1. Strony i ich przedstawiciele mają obowiązek zawiadamiać sąd o każdej zmianie miejsca zamieszkania, adresu do doręczeń, w tym adresu elektronicznego, lub siedziby.] <§ 1. Strony i ich przedstawiciele mają obowiązek zawiadamiać sąd o każdej zmianie miejsca zamieszkania lub siedziby oraz adresu do doręczeń, w tym adresu do doręczeń elektronicznych.> § 2. W razie zaniedbania tego obowiązku pismo pozostawia się w aktach sprawy ze skutkiem doręczenia, chyba że nowy adres jest sądowi znany. O powyższym obowiązku i skutkach jego niedopełnienia sąd powinien pouczyć stronę przy pierwszym doręczeniu.
+**Art. 70.** [§ 1. Strony i ich przedstawiciele mają obowiązek zawiadamiać sąd o każdej zmianie miejsca zamieszkania, adresu do doręczeń, w tym adresu elektronicznego, lub siedziby.] <§ 1. Strony i ich przedstawiciele mają obowiązek zawiadamiać sąd o każdej zmianie miejsca zamieszkania lub siedziby oraz adresu do doręczeń, w tym adresu do doręczeń elektronicznych.>
+
+§ 2. W razie zaniedbania tego obowiązku pismo pozostawia się w aktach sprawy ze skutkiem doręczenia, chyba że nowy adres jest sądowi znany. O powyższym obowiązku i skutkach jego niedopełnienia sąd powinien pouczyć stronę przy pierwszym doręczeniu.
+
+§ 3. Przepisu § 2 nie stosuje się do doręczenia skargi o wznowienie postępowania.
 
 **Art. 71.**
 
@@ -709,7 +751,9 @@ source: "isap-pdf"
 
 **Art. 77.**
 
-§ 1. Odbierający pismo potwierdza odbiór i jego datę własnoręcznym podpisem. Jeżeli tego nie może lub nie chce uczynić, doręczający sam oznacza datę doręczenia oraz przyczyny braku podpisu. [§ 1a. Potwierdzenie odbioru pisma w formie dokumentu elektronicznego następuje w sposób określony w art. 74a § 5 lub 10.] § 2. Doręczający stwierdza na potwierdzeniu odbioru sposób doręczenia, a na doręczonym piśmie zaznacza dzień doręczenia i opatruje to stwierdzenie swoim podpisem.
+§ 1. Odbierający pismo potwierdza odbiór i jego datę własnoręcznym podpisem. Jeżeli tego nie może lub nie chce uczynić, doręczający sam oznacza datę doręczenia oraz przyczyny braku podpisu. [§ 1a. Potwierdzenie odbioru pisma w formie dokumentu elektronicznego następuje w sposób określony w art. 74a § 5 lub 10.]
+
+§ 2. Doręczający stwierdza na potwierdzeniu odbioru sposób doręczenia, a na doręczonym piśmie zaznacza dzień doręczenia i opatruje to stwierdzenie swoim podpisem.
 
 **Art. 78.** Jeżeli stronie, której miejsce pobytu nie jest znane, ma być doręczona skarga lub inne pismo w postępowaniu sądowym albo orzeczenie wywołujące potrzebę podjęcia obrony jej praw, doręczenie może do chwili zgłoszenia się strony albo jej przedstawiciela lub pełnomocnika nastąpić tylko do rąk kuratora ustanowionego na wniosek osoby zainteresowanej przez sąd orzekający.
 
@@ -794,6 +838,12 @@ source: "isap-pdf"
 § 2. Nieobecność prokuratora, Rzecznika Praw Obywatelskich lub Rzecznika Praw Dziecka na rozprawie nie wstrzymuje rozpoznania sprawy przez sąd.
 
 **Art. 93.** W zawiadomieniu o posiedzeniu oznacza się:
+
+- **1)** imię, nazwisko albo nazwę i siedzibę zawiadamianego oraz adres zawiadamianego;
+- **2)** sąd oraz miejsce i czas posiedzenia;
+- **3)** skarżącego oraz przedmiot sprawy;
+- **4)** cel posiedzenia;
+- **5)** skutki niestawiennictwa.
 
 **Art. 94.**
 
@@ -952,6 +1002,12 @@ source: "isap-pdf"
 § 2. Jeżeli skarga na akt lub czynność wydane lub podjęte na podstawie ustaleń, o których mowa w art. 117 § 1, nie zostanie wniesiona albo skarga ta zostanie oddalona, sąd umarza postępowanie w sprawie, w której przeprowadzono postępowanie mediacyjne.
 
 **Art. 119.** Sprawa może być rozpoznana w trybie uproszczonym, jeżeli:
+
+- **1)** decyzja lub postanowienie są dotknięte wadą nieważności, o której mowa w art. 156 § 1 Kodeksu postępowania administracyjnego lub w innych przepisach albo wydane zostały z naruszeniem prawa dającym podstawę do wznowienia postępowania;
+- **2)** strona zgłosi wniosek o skierowanie sprawy do rozpoznania w trybie uproszczonym, a żadna z pozostałych stron w terminie czternastu dni od zawiadomienia o złożeniu wniosku nie zażąda przeprowadzenia rozprawy;
+- **3)** przedmiotem skargi jest postanowienie wydane w postępowaniu administracyjnym, na które służy zażalenie albo kończące postępowanie, a także postanowienie rozstrzygające sprawę co do istoty oraz postanowienia wydane w postępowaniu egzekucyjnym i zabezpieczającym, na które służy zażalenie;
+- **4)** przedmiotem skargi jest bezczynność lub przewlekłe prowadzenie postępowania;
+- **5)** decyzja została wydana w postępowaniu uproszczonym, o którym mowa w dziale II w rozdziale 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 120.** W trybie uproszczonym sąd rozpoznaje sprawy na posiedzeniu niejawnym w składzie trzech sędziów.
 
@@ -1174,7 +1230,9 @@ source: "isap-pdf"
 
 **Art. 151a.**
 
-§ 1. Sąd, uwzględniając sprzeciw od decyzji, uchyla decyzję w całości, jeżeli stwierdzi naruszenie art. 138 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Sąd może ponadto orzec z urzędu albo na wniosek strony o wymierzeniu organowi grzywny w wysokości określonej w art. 154 § 6.
+§ 1. Sąd, uwzględniając sprzeciw od decyzji, uchyla decyzję w całości, jeżeli stwierdzi naruszenie art. 138 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Sąd może ponadto orzec z urzędu albo na wniosek strony o wymierzeniu organowi grzywny w wysokości określonej w art. 154
+
+§ 6
 
 § 2. W przypadku nieuwzględnienia sprzeciwu od decyzji sąd oddala sprzeciw.
 
@@ -1218,7 +1276,9 @@ source: "isap-pdf"
 
 § 1. Sąd może z urzędu sprostować w wyroku niedokładności, błędy pisarskie albo rachunkowe lub inne oczywiste omyłki.
 
-§ 2. Sprostowanie sąd może postanowić na posiedzeniu niejawnym. O sprostowaniu umieszcza się wzmiankę na oryginale wyroku, a na żądanie stron także na udzielonych im odpisach. Dalsze odpisy powinny być zredagowane w brzmieniu uwzględniającym postanowienie o sprostowaniu. [§ 2a. W przypadku wyroku, o którym mowa w art. 137 § 5, wzmianka o sprostowaniu ma formę dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym.] <§ 2a. W przypadku wyroku, o którym mowa w art. 137 § 5, wzmianka o sprostowaniu jest utrwalana w postaci elektronicznej i opatrywana kwalifikowanym podpisem elektronicznym.> § 3. Jeżeli sprawa toczy się przed Naczelnym Sądem Administracyjnym, Sąd ten może z urzędu sprostować wyrok pierwszej instancji.
+§ 2. Sprostowanie sąd może postanowić na posiedzeniu niejawnym. O sprostowaniu umieszcza się wzmiankę na oryginale wyroku, a na żądanie stron także na udzielonych im odpisach. Dalsze odpisy powinny być zredagowane w brzmieniu uwzględniającym postanowienie o sprostowaniu. [§ 2a. W przypadku wyroku, o którym mowa w art. 137 § 5, wzmianka o sprostowaniu ma formę dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym.] <§ 2a. W przypadku wyroku, o którym mowa w art. 137 § 5, wzmianka o sprostowaniu jest utrwalana w postaci elektronicznej i opatrywana kwalifikowanym podpisem elektronicznym.>
+
+§ 3. Jeżeli sprawa toczy się przed Naczelnym Sądem Administracyjnym, Sąd ten może z urzędu sprostować wyrok pierwszej instancji.
 
 **Art. 157.**
 
@@ -1311,6 +1371,9 @@ source: "isap-pdf"
 § 2. Skargę kasacyjną może wnieść strona, prokurator, Rzecznik Praw Obywatelskich, Rzecznik Małych i Średnich Przedsiębiorców lub Rzecznik Praw Dziecka po doręczeniu im odpisu orzeczenia z uzasadnieniem.
 
 **Art. 174.** Skargę kasacyjną można oprzeć na następujących podstawach:
+
+- **1)** naruszeniu prawa materialnego przez błędną jego wykładnię lub niewłaściwe zastosowanie;
+- **2)** naruszeniu przepisów postępowania, jeżeli uchybienie to mogło mieć istotny wpływ na wynik sprawy.
 
 **Art. 175.**
 
@@ -1488,7 +1551,13 @@ source: "isap-pdf"
 
 **Art. 203.** Stronie, która wniosła skargę kasacyjną, należy się zwrot poniesionych przez nią niezbędnych kosztów postępowania kasacyjnego:
 
+- **1)** od organu – jeżeli w wyniku uwzględnienia skargi kasacyjnej został uchylony wyrok sądu pierwszej instancji oddalający skargę;
+- **2)** od skarżącego – jeżeli w wyniku uwzględnienia skargi kasacyjnej został uchylony wyrok sądu pierwszej instancji uwzględniający skargę.
+
 **Art. 204.** W razie oddalenia skargi kasacyjnej strona, która wniosła skargę kasacyjną, obowiązana jest zwrócić niezbędne koszty postępowania kasacyjnego poniesione przez:
+
+- **1)** organ – jeżeli zaskarżono skargą kasacyjną wyrok sądu pierwszej instancji oddalający skargę;
+- **2)** skarżącego – jeżeli zaskarżono skargą kasacyjną wyrok sądu pierwszej instancji uwzględniający skargę.
 
 **Art. 205.**
 
@@ -1531,6 +1600,9 @@ source: "isap-pdf"
 § 2. Opłaty sądowe są dochodami budżetu państwa.
 
 **Art. 213.** Do wydatków zalicza się w szczególności:
+
+- **1)** należności tłumaczy i kuratorów ustanowionych w danej sprawie;
+- **2)** koszty ogłoszeń oraz diety i koszty podróży należne sędziom i pracownikom sądowym z powodu wykonania czynności sądowych poza budynkiem sądowym, określone w odrębnych przepisach.
 
 **Art. 214.**
 
@@ -1779,6 +1851,9 @@ source: "isap-pdf"
 
 **Art. 256.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** wzór i sposób udostępniania urzędowego formularza, o którym mowa w art. 252 § 2, odpowiadającego wymaganiom przewidzianym dla pism strony, szczególnym wymaganiom postępowania o przyznaniu prawa pomocy, zawierającego niezbędne pouczenie co do sposobu jego wypełnienia i skutków niedostosowania się do określonych wymagań oraz klauzulę, o której mowa w art. 252 § 1a;
+- **2)** rodzaje dokumentów źródłowych, o których mowa w art. 255, oraz okresy, za jakie mają być dokumentowane dane o majątku, dochodach i stanie rodzinnym; dokumentami tymi mogą być w szczególności odpisy zeznań podatkowych, wyciągi lub wykazy z posiadanych rachunków bankowych, w tym kont i lokat dewizowych, wypisy z rejestrów urzędowych, odpis aktualnych bilansów oraz zaświadczenia o wysokości wynagrodzeń, honorariów i innych należności i otrzymywanych świadczeń.
+
 **Art. 257.** Wniosek o przyznanie prawa pomocy, który nie został złożony na urzędowym formularzu lub którego braków strona nie uzupełniła w zakreślonym terminie, pozostawia się bez rozpoznania.
 
 **Art. 258.**
@@ -1796,7 +1871,9 @@ source: "isap-pdf"
 - **7)** wydawanie na posiedzeniu niejawnym postanowień o przyznaniu, cofnięciu, odmowie przyznania prawa pomocy albo umorzeniu postępowania w sprawie przyznania prawa pomocy;
 - **8)** wydawanie na posiedzeniu niejawnym postanowień o przyznaniu wynagrodzenia adwokatowi, radcy prawnemu, doradcy podatkowemu lub rzecznikowi patentowemu za zastępstwo prawne wykonane na zasadzie prawa pomocy oraz o zwrocie niezbędnych udokumentowanych wydatków.
 
-§ 3. (uchylony) § 4. Czynności, o których mowa w § 2, może w szczególnie uzasadnionych przypadkach wykonywać sąd. Na postanowienia albo zarządzenie sądu, o których mowa w § 2 pkt 6–8, przysługuje zażalenie.
+§ 3. (uchylony)
+
+§ 4. Czynności, o których mowa w § 2, może w szczególnie uzasadnionych przypadkach wykonywać sąd. Na postanowienia albo zarządzenie sądu, o których mowa w § 2 pkt 6–8, przysługuje zażalenie.
 
 **Art. 259.**
 
@@ -1857,6 +1934,9 @@ source: "isap-pdf"
 **Art. 270.** W przypadkach przewidzianych w dziale niniejszym można żądać wznowienia postępowania, które zostało zakończone prawomocnym orzeczeniem.
 
 **Art. 271.** Można żądać wznowienia postępowania z powodu nieważności:
+
+- **1)** jeżeli w składzie sądu uczestniczyła osoba nieuprawniona albo jeżeli orzekał sędzia wyłączony z mocy ustawy, a strona przed uprawomocnieniem się orzeczenia nie mogła domagać się wyłączenia;
+- **2)** jeżeli strona nie miała zdolności sądowej lub procesowej albo nie była należycie reprezentowana lub jeżeli wskutek naruszenia przepisów prawa była pozbawiona możności działania; nie można jednak żądać wznowienia, jeżeli przed uprawomocnieniem się orzeczenia niemożność działania ustała lub brak reprezentacji był podniesiony w drodze zarzutu albo strona potwierdziła dokonane czynności procesowe.
 
 **Art. 272.**
 

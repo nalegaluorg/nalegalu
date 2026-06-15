@@ -8,7 +8,7 @@ pos: 835
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi z 2010 r.
@@ -37,6 +37,9 @@ source: "isap-pdf"
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
 
+- **1)** powódź – zalanie wodami śródlądowymi lub morskimi wodami wewnętrznymi w następstwie opadów atmosferycznych, które miały miejsce w 2010 r.;
+- **2)** poszkodowany – osobę fizyczną, osobę prawną i jednostkę organizacyjną nieposiadającą osobowości prawnej, które na skutek powodzi doznały szkód majątkowych lub utraciły, chociażby czasowo, możliwość korzystania z posiadanej nieruchomości lub lokalu.
+
 **Art. 4.**
 
 1. Organy administracji publicznej są obowiązane załatwiać sprawy związane z usuwaniem skutków powodzi w pierwszej kolejności i bez zbędnej zwłoki, nie później niż w terminie miesiąca od dnia wszczęcia postępowania.
@@ -48,6 +51,9 @@ source: "isap-pdf"
 4. Sąd Najwyższy, Naczelny Sąd Administracyjny, sądy powszechne i wojewódzkie sądy administracyjne rozpoznają sprawy związane z usuwaniem skutków powodzi w pierwszej kolejności.
 
 **Art. 5.** Do dnia 31 grudnia 2015 r.:
+
+- **1)** do zbywania nieruchomości stanowiących własność Skarbu Państwa albo jednostek samorządu terytorialnego przeznaczonych na cele mieszkaniowe na rzecz poszkodowanych stosuje się odpowiednio art. 37 ust. 3 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651 i Nr 106, poz. 675);
+- **2)** w przypadku budowy urządzeń infrastruktury technicznej nie stosuje się przepisów działu III rozdziału 7 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
 **Art. 6.** Do dnia 31 grudnia 2012 r. na wniosek gminy zbywanie nieruchomości wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa przeznaczonych na cele mieszkaniowe na rzecz poszkodowanych następuje w trybie bezprzetargowym.
 
@@ -102,6 +108,9 @@ source: "isap-pdf"
 
 **Art. 9.** W przypadku zniszczenia na skutek powodzi dokumentów niezbędnych do ustalenia świadczeń z tytułu ubezpieczeń społecznych lub zaopatrzenia emerytalnego przyjmuje się:
 
+- **1)** wszelkie dokumenty oraz zeznania świadków pozwalające na udowodnienie okresów zatrudnienia (ubezpieczenia) oraz czasowej niezdolności do pracy z powodu choroby, macierzyństwa lub sprawowania opieki;
+- **2)** wszelkie dokumenty pozwalające na udowodnienie wysokości ich podstawy wymiaru.
+
 **Art. 10.** Środki z zakładowego funduszu świadczeń socjalnych mogą być przeznaczone na cele związane z pomocą dla poszkodowanych zatrudnionych u pracodawcy, który utworzył fundusz, a także dla poszkodowanych zatrudnionych u innego pracodawcy.
 
 **Art. 11.**
@@ -136,6 +145,9 @@ source: "isap-pdf"
 
 **Art. 13.** Pożyczki przyznane przed dniem wejścia w życie ustawy ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych:
 
+- **1)** osobom niepełnosprawnym na działalność gospodarczą lub rolniczą,
+- **2)** zakładom pracy chronionej – mogą być umarzane w całości lub w części, wraz z odsetkami, jeżeli w związku z powodzią nastąpiła utrata możliwości spłaty pożyczki.
+
 **Art. 14.**
 
 1. Organ udzielający pomocy, o której mowa w art. 12a, 26, 26d, 26e lub art. 32 ustawy o rehabilitacji, albo pomocy, o której mowa w art. 12 ustawy o rehabilitacji w brzmieniu obowiązującym do dnia 29 lipca 2007 r., może odroczyć termin płatności należności z tytułu zwrotu udzielonej pomocy, jeżeli niemożność terminowego zwrotu pomocy jest skutkiem powodzi.
@@ -143,6 +155,10 @@ source: "isap-pdf"
 2. Jeżeli naruszenie warunków umowy, na podstawie której udzielono pomocy określonej w ust. 1, nastąpiło na skutek powodzi, to organ udzielający pomocy może nie żądać zwrotu pomocy, pod warunkiem niezwłocznego usunięcia nieprawidłowości, i kontynuować realizację umowy lub odroczyć termin płatności należności z tytułu zwrotu pomocy.
 
 **Art. 15.** Podmioty zamierzające:
+
+- **1)** wystąpić o pomoc, o której mowa w art. 11 ust. 1,
+- **2)** wykorzystać fundusz rehabilitacji w sposób określony w art. 12 ust. 1, 3 i 4,
+- **3)** wystąpić o odroczenie, o którym mowa w art. 14 ust. 1 – są obowiązane odpowiednio złożyć wniosek albo wystąpić o zgodę do Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych w terminie do dnia 31 grudnia 2010 r.
 
 **Art. 16.** Za okresy przypadające na miesiące od maja 2010 r. do grudnia 2010 r. włącznie, refundacja, o której mowa w art. 25a ust. 1 ustawy o rehabilitacji, może być dokonywana w przypadku nieterminowego opłacenia składek podlegających refundacji, jeżeli uchybienie terminu płatności składek było skutkiem powodzi.
 
@@ -348,6 +364,9 @@ source: "isap-pdf"
 
 **Art. 41.** Do poszkodowanych będących beneficjentami w rozumieniu art. 3 ustawy z dnia 12 lutego 2010 r. o zmianie ustawy o uruchomieniu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej (Dz. U. Nr 57, poz. 351) stosuje się przepisy tego artykułu, z tym że:
 
+- **1)** w odniesieniu do wniosków, o których mowa w ust. 2 pkt 1 tego artykułu, termin na ich złożenie wynosi 60 dni od dnia wejścia w życie niniejszej ustawy;
+- **2)** wnioski, o których mowa w ust. 2 pkt 1 tego artykułu, złożone przed dniem wejścia w życie niniejszej ustawy z naruszeniem terminu określonego w tym przepisie podlegają rozpatrzeniu.
+
 **Art. 42.**
 
 1. Łączna wartość pomocy publicznej udzielonej na podstawie niniejszej ustawy w celu naprawienia szkód związanych z usuwaniem skutków powodzi, uzyskanej ze wszystkich źródeł, nie może przekroczyć wartości szkód materialnych poniesionych przez przedsiębiorcę na skutek powodzi.
@@ -366,7 +385,27 @@ source: "isap-pdf"
 
 **Art. 43.** W ustawie z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej (Dz. U. Nr 187, poz. 1381, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 10a: 1 i 2, mogą być przekazywane przez właściwego dysponenta w formie dotacji celowej, o której mowa w art. 127 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych:
+    - **a)** ust. 3–5 otrzymują brzmienie: „3. Środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację zadań, o których mowa w ust.
+
+- **1)** pkt 2 i 5 – do wysokości udziału krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z udziałem środków EFRROW oraz przeznaczonych na finansowanie zadań z zakresu pomocy technicznej;
+- **2)** pkt 6 – do wysokości udziału refundowanego ze środków EFRROW.
+
+4. Środki dotacji, o których mowa w ust. 3, są przekazywane jednostce samorządu terytorialnego, o której mowa w ust. 1, na podstawie przekazanych właściwemu dysponentowi harmonogramów płatności wynikających z zawartych umów lub wydanych decyzji o przyznaniu pomocy, lub zatwierdzonych przez właściwy podmiot wniosków o przyznanie pomocy, z zastrzeżeniem ust. 7.
+
+5. Jednostka samorządu terytorialnego, o której mowa w ust. 1, dokonuje zwrotu środków, o których mowa w ust. 3 pkt 2, oraz z zakresu pomocy technicznej, do wysokości udziału refundowanego ze środków EFRROW, na rachunek dochodów właściwego dysponenta, ze środków otrzymanych z agencji płatniczej tytułem refundacji kosztów kwalifikowalnych ze środków EFRROW, w terminie 7 dni roboczych od dnia otrzymania tych środków.”,
+
+- **b)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Właściwy dysponent przekazuje:
+- **1)** środki, o których mowa w ust. 5, z wyłączeniem środków z zakresu pomocy technicznej, na dochody budżetu środków europejskich,
+- **2)** środki z zakresu pomocy technicznej, o których mowa w ust. 5, na dochody budżetu państwa – w terminie 3 dni roboczych od dnia otrzymania tych środków od jednostki samorządu terytorialnego.”,
+    - **c)** w ust. 6 dodaje się zdanie drugie w brzmieniu: „Przepisy ust. 5a stosuje się odpowiednio.”;
+
+- **2)** w art. 10b dodaje się zdanie drugie w brzmieniu: „Przepisy art. 10a ust. 5a i ust. 6 stosuje się odpowiednio w zakresie terminu.”.
+
 **Art. 44.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240 oraz z 2010 r. Nr 28, poz. 146 i Nr 96, poz. 620) wprowadza się następujące zmiany:
+
+- **1)** w art. 127 w ust. 2 dodaje się pkt 6 w brzmieniu: „6) wyprzedzające finansowanie Wspólnej Polityki Rolnej, o którym mowa w odrębnych przepisach, w części podlegającej refundacji ze środków Unii Europejskiej.”;
+- **2)** w art. 208 dodaje się ust. 4 w brzmieniu: „4. Środki europejskie, w części dotyczącej wyprzedzającego finansowania w ramach Wspólnej Polityki Rolnej, o którym mowa w odrębnych przepisach, z wyłączeniem zadań z zakresu pomocy technicznej, są przekazywane właściwym dysponentom przez Bank Gospodarstwa Krajowego na podstawie dyspozycji Ministra Finansów.”.
 
 **Art. 44a.**
 

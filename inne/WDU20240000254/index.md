@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-20 |
 | Data wydania | 2024-02-26 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2025-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000254) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/254/text.pdf) |
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowego zakresu i sposobu znakowania nieprzeznaczonych bezpośrednio dla konsumenta finalnego niektórych grup i rodzajów opakowanych artykułów rolno-spożywczych lub artykułów rolno-spożywczych bez opakowań

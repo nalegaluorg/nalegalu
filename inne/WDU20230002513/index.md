@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2023-11-09 |
 | Data wydania | 2023-11-20 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2025-12-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002513) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2513/text.pdf) |
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych wymagań w zakresie jakości handlowej miodu

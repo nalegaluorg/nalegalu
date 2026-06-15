@@ -83,7 +83,8 @@ w sprawie szczegółowych kryteriów i trybu przyznawania środków finansowych 
 4) informację o działaniach zrealizowanych w celu utrzymania aparatury lub infrastruktury w okresie objętym raportem;
 5) informację o wydatkach poniesionych na utrzymanie aparatury lub infrastruktury;
 6) informację o bieżącym wykorzystaniu aparatury lub infrastruktury.
-§ 10. Do rozpatrzenia są kierowane wyłącznie raporty, które są kompletne i spełniają wymagania, o których mowa w § 9. W przypadku złożenia raportu niespełniającego tych wymagań minister wzywa podmiot, któremu zostały przyznane środki na utrzymanie aparatury lub infrastruktury, do usunięcia braków formalnych w terminie 14 dni od dnia otrzymania wezwania, z pouczeniem, że ich nieusunięcie spowoduje nieprzyjęcie raportu.
+§ 10. Do rozpatrzenia są kierowane wyłącznie raporty, które są kompletne i spełniają wymagania, o których mowa
+§ 9. W przypadku złożenia raportu niespełniającego tych wymagań minister wzywa podmiot, któremu zostały przyznane środki na utrzymanie aparatury lub infrastruktury, do usunięcia braków formalnych w terminie 14 dni od dnia otrzymania wezwania, z pouczeniem, że ich nieusunięcie spowoduje nieprzyjęcie raportu.
 § 11. Oceny raportów dokonuje zespół, z uwzględnieniem następujących kryteriów:
 1) zgodności zrealizowanych zadań z wnioskiem o przyznanie środków finansowych na utrzymanie aparatury lub infrastruktury;
 2) liczebności środowiska wykorzystującego aparaturę w roku, którego dotyczy raport, a w przypadku infrastruktury − zakresu i stopnia wykorzystania infrastruktury w roku, którego dotyczy raport;

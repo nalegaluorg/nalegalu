@@ -1,6 +1,6 @@
 # Rejected Acts
 
-Acts excluded from publication due to quality issues. Total: 443
+Acts excluded from publication due to quality issues. Total: 414
 
 | Address | Reason |
 |---------|--------|
@@ -48,77 +48,50 @@ Acts excluded from publication due to quality issues. Total: 443
 | WDU19960450198 | source article inventory failed: eli-html=0 AST=11 dup_ast=1 FAIL; duplicate in  |
 | WDU19961270593 | source article inventory failed: eli-html=0 AST=11 dup_ast=1 FAIL; duplicate in  |
 | WDU19961490704 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
-| WDU19961520723 | rendered round-trip failed: AST=48 rendered=48 missing_child_markers=1 FAIL; mis |
 | WDU19970430271 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19970800508 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19971020642 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19971100715 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19971110726 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19980460293 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU19981060668 | source article inventory failed: eli-html=0 AST=237 dup_ast=28 FAIL; duplicate i |
+| WDU19981060668 | rendered round-trip failed: AST=237 rendered=237 dup_rendered=28 low_sim=36 word |
 | WDU19981130714 | missing article structure — act type requires Art. markers but parsed AST has 0  |
-| WDU19981170759 | rendered round-trip failed: AST=10 rendered=10 missing_child_markers=1 FAIL; mis |
 | WDU19981621124 | source article inventory failed: eli-html=0 AST=11 dup_ast=1 FAIL; duplicate in  |
 | WDU19990130114 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19990400401 | source article inventory failed: eli-html=0 AST=14 dup_ast=3 FAIL; duplicate in  |
 | WDU19990410418 | excessive repetition — '..................................................…' app |
 | WDU19991011182 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20001131186 | rendered round-trip failed: AST=47 rendered=47 low_sim=1 missing_child_markers=1 |
+| WDU20001131186 | rendered round-trip failed: AST=47 rendered=47 low_sim=1 FAIL; low similarity: 4 |
 | WDU20001141190 | source article inventory failed: eli-html=0 AST=7 dup_ast=2 FAIL; duplicate in A |
-| WDU20010040031 | rendered round-trip failed: AST=384 rendered=384 missing_child_markers=2 FAIL; m |
 | WDU20011101190 | source article inventory failed: eli-html=0 AST=30 dup_ast=2 FAIL; duplicate in  |
 | WDU20011251372 | source article inventory failed: eli-html=0 AST=13 dup_ast=1 FAIL; duplicate in  |
 | WDU20011381565 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20020780717 | CID font encoding failure — unreadable glyphs (4 occurrence(s)); character-space |
-| WDU20021080945 | rendered round-trip failed: AST=24 rendered=24 missing_child_markers=1 FAIL; mis |
 | WDU20021090966 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20021351144 | rendered round-trip failed: AST=13 rendered=13 missing_child_markers=1 FAIL; mis |
 | WDU20021411183 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
-| WDU20021521265 | rendered round-trip failed: AST=7 rendered=7 missing_child_markers=1 FAIL; missi |
 | WDU20021561306 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20021861560 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20022001680 | source article inventory failed: eli-html=0 AST=6 dup_ast=2 FAIL; duplicate in A |
 | WDU20022382025 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20030060064 | rendered round-trip failed: AST=22 rendered=22 missing_child_markers=1 FAIL; mis |
-| WDU20030520452 | rendered round-trip failed: AST=2 rendered=2 missing_child_markers=1 FAIL; missi |
-| WDU20031371301 | rendered round-trip failed: AST=15 rendered=15 missing_child_markers=1 FAIL; mis |
-| WDU20031921873 | rendered round-trip failed: AST=32 rendered=32 missing_child_markers=1 FAIL; mis |
-| WDU20031931884 | rendered round-trip failed: AST=27 rendered=27 missing_child_markers=1 FAIL; mis |
 | WDU20040430412 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20041521597 | source article inventory failed: eli-html=0 AST=2 dup_ast=1 FAIL; duplicate in A |
 | WDU20042042091 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20050860744 | PostScript CE garbled diacritics — unrepaired encoding (1 occurrence(s): 'przest |
-| WDU20050940786 | rendered round-trip failed: AST=4 rendered=4 missing_child_markers=1 FAIL; missi |
-| WDU20051411183 | rendered round-trip failed: AST=6 rendered=6 missing_child_markers=1 FAIL; missi |
-| WDU20060520378 | rendered round-trip failed: AST=24 rendered=24 missing_child_markers=1 FAIL; mis |
-| WDU20060660473 | rendered round-trip failed: AST=24 rendered=24 missing_child_markers=1 FAIL; mis |
-| WDU20071230848 | rendered round-trip failed: AST=4 rendered=4 missing_child_markers=1 FAIL; missi |
 | WDU20071280903 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20071360956 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in A |
-| WDU20071360958 | rendered round-trip failed: AST=25 rendered=25 missing_child_markers=2 FAIL; mis |
 | WDU20071811291 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in A |
 | WDU20071811292 | source article inventory failed: eli-html=0 AST=2 dup_ast=1 FAIL; duplicate in A |
 | WDU20072311704 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20080470273 | rendered round-trip failed: AST=15 rendered=15 missing_child_markers=1 FAIL; mis |
 | WDU20080540326 | source article inventory failed: eli-html=0 AST=4 dup_ast=1 FAIL; duplicate in A |
 | WDU20080960621 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20081180746 | source article inventory failed: eli-html=0 AST=7 dup_ast=1 FAIL; duplicate in A |
 | WDU20082161369 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in A |
-| WDU20090690593 | rendered round-trip failed: AST=2 rendered=2 missing_child_markers=1 FAIL; missi |
-| WDU20090950792 | rendered round-trip failed: AST=25 rendered=25 missing_child_markers=1 FAIL; mis |
 | WDU20092011542 | PostScript CE garbled diacritics — unrepaired encoding (3 occurrence(s): 'àc', ' |
-| WDU20092141658 | rendered round-trip failed: AST=10 rendered=10 missing_child_markers=1 FAIL; mis |
-| WDU20100110066 | rendered round-trip failed: AST=323 rendered=323 missing_child_markers=1 FAIL; m |
+| WDU20100110066 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20100210109 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20101250852 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20101480990 | rendered round-trip failed: AST=16 rendered=16 missing_child_markers=1 FAIL; mis |
 | WDU20102441636 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20102471650 | rendered round-trip failed: AST=2 rendered=2 missing_child_markers=1 FAIL; missi |
-| WDU20110060019 | rendered round-trip failed: AST=4 rendered=4 missing_child_markers=1 FAIL; missi |
 | WDU20110640342 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20111090627 | rendered round-trip failed: AST=2 rendered=2 missing_child_markers=1 FAIL; missi |
-| WDU20111681001 | rendered round-trip failed: AST=7 rendered=7 missing_child_markers=1 FAIL; missi |
-| WDU20112301372 | rendered round-trip failed: AST=17 rendered=17 missing_child_markers=1 FAIL; mis |
 | WDU20112401437 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20120000066 | excessive repetition — '..................................................…' app |
 | WDU20120000070 | excessive repetition — '..................................................…' app |
@@ -182,7 +155,6 @@ Acts excluded from publication due to quality issues. Total: 443
 | WDU20150001170 | excessive repetition — '5) zużycie materiałów i energia' appears 26 times (likel |
 | WDU20150001209 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20150001314 | excessive repetition — 'a) dla kierujących wszystkimi pojazdami' appears 21 time |
-| WDU20150001615 | rendered round-trip failed: AST=12 rendered=11 missing_rendered=1 low_sim=1 FAIL |
 | WDU20150001783 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20160000357 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20160000369 | excessive repetition — '..................................................…' app |
@@ -234,7 +206,7 @@ Acts excluded from publication due to quality issues. Total: 443
 | WDU20180000546 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20180000605 | excessive repetition — '..................................................…' app |
 | WDU20180000640 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
-| WDU20180000650 | source article inventory failed: eli-html=0 AST=280 dup_ast=4 FAIL; duplicate in |
+| WDU20180000650 | rendered round-trip failed: AST=280 rendered=280 dup_rendered=4 low_sim=4 word_l |
 | WDU20180000888 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20180000898 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20180001237 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
@@ -411,7 +383,6 @@ Acts excluded from publication due to quality issues. Total: 443
 | WDU20240000453 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240000458 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000515 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20240000558 | rendered round-trip failed: AST=82 rendered=81 missing_rendered=1 low_sim=1 FAIL |
 | WDU20240000569 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000611 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000648 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |

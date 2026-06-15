@@ -8,7 +8,7 @@ pos: 1203
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o weteranach działań poza granicami państwa
@@ -33,11 +33,66 @@ Art. 39–44. (pominięte)
 
 **Art. 1.** Ustawa ustanawia Dzień Weterana Działań poza Granicami Państwa oraz określa:
 
+- **1)** status weterana działań poza granicami państwa i weterana poszkodowanego w działaniach poza granicami państwa;
+- **2)** uprawnienia przysługujące osobom, o których mowa w pkt 1;
+- **3)** zasady i warunki korzystania z uprawnień, o których mowa w pkt 2;
+- **4)** tryb postępowania i właściwość organów w sprawach, o których mowa w pkt 1–
+
+3.
+
 **Art. 2.** Weteranem działań poza granicami państwa, zwanym dalej „weteranem”, może być osoba, która brała udział, na podstawie skierowania, w działaniach poza granicami państwa w ramach:
+
+- **1)** misji pokojowej lub stabilizacyjnej, kontyngentu policyjnego, kontyngentu Straży Granicznej, zadań ochronnych Biura Ochrony Rządu i Służby Ochrony Państwa lub zapewniania bezpieczeństwa państwa:
+    - **a)** nieprzerwanie przez okres, na jaki została skierowana, jednak niekrócej niż przez okres 60 dni albo
+    - **b)** łącznie przez okres niekrótszy niż 90 dni;
+
+- **2)** grupy ratowniczej Państwowej Straży Pożarnej, łącznie przez okres niekrótszy niż 60 dni.
 
 **Art. 3.** Weteranem poszkodowanym w działaniach poza granicami państwa, zwanym dalej „weteranem poszkodowanym”, może być osoba, która biorąc udział na podstawie skierowania w działaniach poza granicami państwa, doznała uszczerbku na zdrowiu wskutek wypadku pozostającego w związku z tymi działaniami lub choroby nabytej podczas wykonywania zadań lub obowiązków służbowych poza granicami państwa, z tytułu których przyznano jej świadczenia odszkodowawcze.
 
 **Art. 4.** Określenia użyte w ustawie oznaczają:
+
+- **1)** skierowanie – skierowanie, wyznaczenie, delegowanie, zatrudnienie przez:
+    - **a)** Ministra Obrony Narodowej albo właściwy organ wojskowy,
+    - **b)** organizację międzynarodową, za zgodą Ministra Obrony Narodowej, ba) organizację międzynarodową, do której żołnierz został wyznaczony na stanowisko służbowe,
+    - **c)** Szefa Służby Kontrwywiadu Wojskowego,
+    - **d)** Szefa Służby Wywiadu Wojskowego,
+    - **e)** Szefa Agencji Bezpieczeństwa Wewnętrznego,
+    - **f)** Szefa Agencji Wywiadu,
+    - **g)** Komendanta Głównego Policji,
+    - **h)** Komendanta Głównego Straży Granicznej,
+    - **i)** Szefa Biura Ochrony Rządu,
+    - **j)** Komendanta Głównego Państwowej Straży Pożarnej,
+    - **k)** Komendanta Służby Ochrony Państwa;
+
+- **2)** działania poza granicami państwa – działania podjęte poza granicami państwa w ramach misji pokojowej lub stabilizacyjnej, kontyngentu policyjnego, kontyngentu Straży Granicznej, zadań ochronnych Biura Ochrony Rządu i Służby Ochrony Państwa zapewniania bezpieczeństwa państwa oraz grupy ratowniczej Państwowej Straży Pożarnej;
+- **3)** misja pokojowa lub stabilizacyjna – działania określone w art. 2 pkt 1 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. z 2023 r. poz. 755 oraz z 2026 r. poz. 50), akcje ratownicze, poszukiwawcze i humanitarne, a także inne działania o tym charakterze podejmowane przez organizacje międzynarodowe lub komisje międzynarodowe, w których uczestniczyli obywatele polscy skierowani przez podmioty, o których mowa w pkt 1 lit. a–f, w szczególności działania mające na celu przywrócenie, utrzymanie lub wsparcie pokoju i bezpieczeństwa, bądź akcje zapobiegania aktom terroryzmu lub ich skutkom;
+- **4)** kontyngent policyjny – kontyngent wydzielony w celu realizacji zadań, o których mowa w art. 145a ust. 1 pkt 1–3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366) oraz byłą Polską Grupę Policyjną;
+- **5)** kontyngent Straży Granicznej – kontyngent wydzielony w celu realizacji zadań, o których mowa w art. 147c pkt 1–3a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366 oraz z 2026 r. poz. 50);
+- **6)** zadania ochronne Biura Ochrony Rządu – zadania służbowe wykonywane na terytorium państw w całości lub w części uznanych za strefę działań wojennych oraz państw, o których mowa w przepisach wydanych na podstawie art. 60a ust. 2 ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2017 r. poz. 985, 1321 i 2405 oraz z 2018 r. poz. 106) ;
+- **6a)** zadania ochronne Służby Ochrony Państwa – zadania służbowe wykonywane na terytorium państw w całości lub w części uznanych za strefę działań wojennych oraz państw, o których mowa w przepisach wykonawczych wydanych na podstawie art. 143 ust. 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2025 r. poz. 34, z 2024 r. poz. 1871 oraz z 2025 r. poz. 179, 718, 1366 i 1823);
+- **7)** zapewnianie bezpieczeństwa państwa – zadania, o których mowa w art. 5 ust. 1 pkt 2 i w art. 6 ust. 1 pkt 2, 5 i 7 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902 i 1366 oraz z 2026 r. poz. 26), a także art. 5 ust. 1 i 2 oraz art. 6 ust. 1 pkt 1– 4 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2024 r. poz. 1405 oraz z 2025 r. poz. 179 i 1366), wykonywane na terytorium państw w całości lub w części uznanych za strefę działań wojennych odpowiednio przez funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu lub przez funkcjonariuszy i żołnierzy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego;
+- **8)** grupa ratownicza Państwowej Straży Pożarnej – grupę utworzoną do wykonywania zadań, o których mowa w art. 49b ust. 1 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2025 r. poz. 1312 i
+- **1366)** ;
+- **9)** organizacja międzynarodowa – Organizację Narodów Zjednoczonych, Organizację Bezpieczeństwa i Współpracy w Europie, Organizację Traktatu Północnoatlantyckiego oraz Unię Europejską;
+- **10)** renta inwalidzka – rentę inwalidzką, wojskową rentę inwalidzką, policyjną rentę inwalidzką, rentę z tytułu niezdolności do pracy i rentę rolniczą z tytułu niezdolności do pracy, otrzymywane odpowiednio na podstawie ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2025 r. poz. 195 oraz z 2026 r. poz. 26), ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2025 r. poz. 305 oraz z 2026 r. poz. 26), ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2024 r. poz. 1121, z późn. zm. ), ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26), ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 1644 oraz z 2026 r. poz. 26) oraz ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 1770);
+- **10a)** renta rodzinna – rentę rodzinną, wojskową rentę rodzinną, policyjną rentę rodzinną, otrzymywane odpowiednio na podstawie ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz rentę rodzinną otrzymywaną na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych i ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, a także świadczenie pieniężne otrzymane na podstawie ustawy z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658);
+- **11)** emerytura – emeryturę wojskową, emeryturę policyjną, emeryturę i emeryturę rolniczą, otrzymywane odpowiednio na podstawie ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników;
+- **12)** najbliższy członek rodziny – małżonka, wstępnych, zstępnych, rodzeństwo, osobę pozostającą w stosunku przysposobienia oraz osobę pozostającą we wspólnym pożyciu z weteranem lub weteranem poszkodowanym;
+- **13)** jednostka wojskowa – jednostkę wojskową, o której mowa w art. 2 pkt 12 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26), a także komórkę organizacyjną Ministerstwa Obrony Narodowej i jednostkę organizacyjną podległą Ministrowi Obrony Narodowej;
+- **14)** dowódca jednostki wojskowej – dowódcę, dyrektora, szefa, komendanta lub inną osobę na równorzędnym stanowisku służbowym;
+- **15)** wypadek pozostający w związku z działaniami poza granicami państwa – zdarzenie nagłe, wywołane przyczyną zewnętrzną, powodujące uszczerbek na zdrowiu, które zaistniało podczas lub w związku z:
+    - **a)** działaniami podejmowanymi w ramach uderzenia na przeciwnika bądź odparcia jego uderzeń,
+    - **b)** zamachem lub innym bezprawnym działaniem wymierzonym przeciwko osobie, która brała udział w działaniach poza granicami państwa,
+    - **c)** innymi działaniami pozostającymi w bezpośrednim związku z wykonywaniem zadań: – przez żołnierza, z wyłączeniem przypadków, w których żołnierz przy wykonywaniu zadań nie przestrzegał przepisów bezpieczeństwa i higieny pracy, – określonych w akcie utworzenia kontyngentu policyjnego, kontyngentu Straży Granicznej, grupy ratowniczej Państwowej Straży Pożarnej, w skierowaniu do wykonywania zadań ochronnych Biura Ochrony Rządu, Służby Ochrony Państwa lub w skierowaniu do wykonywania zadań mających na celu zapewnianie bezpieczeństwa państwa;
+
+- **16)** żołnierz – żołnierza zawodowego i niezawodowego, a także żołnierza rezerwy i w stanie spoczynku;
+- **17)** funkcjonariusz – funkcjonariusza i zwolnionego ze służby funkcjonariusza Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa oraz strażaka i zwolnionego ze służby strażaka Państwowej Straży Pożarnej;
+- **18)** funkcjonariusz ABW – funkcjonariusza i zwolnionego ze służby funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego;
+- **18a)** funkcjonariusz AW – funkcjonariusza i zwolnionego ze służby funkcjonariusza Agencji Wywiadu;
+- **19)** najniższa emerytura – kwotę najniższej emerytury, od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Zakładu Ubezpieczeń Społecznych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
+- **20)** Dom Weterana – zakład leczniczy funkcjonujący w ramach podmiotu leczniczego, wykonujący działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne inne niż świadczenie szpitalne w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211), dla którego podmiotem tworzącym jest odpowiednio Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych, Szef Agencji Wywiadu lub Szef Agencji Bezpieczeństwa Wewnętrznego;
+- **21)** komisja międzynarodowa – komisje powołane na mocy porozumień międzynarodowych w sprawie zawieszenia działań wojennych w Korei, Wietnamie, Kambodży i Laosie w celu kontroli i nadzoru nad wdrożeniem ich postanowień.
 
 **Art. 5.**
 
@@ -95,6 +150,11 @@ Art. 39–44. (pominięte)
 
 **Art. 8.** Podstawą do ubiegania się o przyznanie statusu weterana poszkodowanego są:
 
+- **1)** dokumenty lub dowody, o których mowa w art. 7 ust. 1 i 3;
+- **2)** protokół powypadkowy albo decyzja o stwierdzeniu choroby zawodowej;
+- **3)** orzeczenie właściwej komisji lekarskiej o związku uszczerbku na zdrowiu z wypadkiem pozostającym w związku z działaniami poza granicami państwa lub chorobą nabytą podczas wykonywania zadań lub obowiązków służbowych w ramach działań poza granicami państwa albo orzeczenie lekarza orzecznika lub komisji lekarskiej Zakładu Ubezpieczeń Społecznych ustalające uszczerbek na zdrowiu w związku z wypadkiem przy pracy lub chorobą zawodową wydane dla celów świadczeń z ubezpieczenia społecznego;
+- **4)** decyzja administracyjna o przyznaniu świadczeń odszkodowawczych albo prawomocny wyrok sądu zasądzający odszkodowanie.
+
 **Art. 9.**
 
 1. Dokumentem potwierdzającym status weterana oraz weterana poszkodowanego jest odpowiednio legitymacja weterana albo legitymacja weterana poszkodowanego wydana przez Ministra Obrony Narodowej – w odniesieniu do żołnierzy, ministra właściwego do spraw wewnętrznych – w odniesieniu do funkcjonariuszy, Szefa Agencji Bezpieczeństwa Wewnętrznego – w odniesieniu do funkcjonariuszy ABW albo Szefa Agencji Wywiadu – w odniesieniu do funkcjonariuszy AW.
@@ -116,6 +176,9 @@ Art. 39–44. (pominięte)
 5. O pozbawieniu decyzją ostateczną statusu weterana poszkodowanego Minister Obrony Narodowej – w odniesieniu do żołnierzy, minister właściwy do spraw wewnętrznych – w odniesieniu do funkcjonariuszy, Szef Agencji Bezpieczeństwa Wewnętrznego – w odniesieniu do funkcjonariuszy ABW oraz Szef Agencji Wywiadu – w odniesieniu do funkcjonariuszy AW zawiadamia właściwy organ emerytalno-rentowy oraz Prezesa NFZ w terminie 7 dni od dnia, w którym decyzja stała się ostateczna.
 
 **Art. 12.** Przepisy ustawy dotyczące:
+
+- **1)** żołnierzy, z wyjątkiem art. 19 – stosuje się odpowiednio do funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz pracowników jednostek wojskowych;
+- **2)** funkcjonariuszy – stosuje się odpowiednio do pracowników Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa i Państwowej Straży Pożarnej.
 
 **Art. 13.** Uprawnienia i obowiązki dowódcy jednostki wojskowej określone w ustawie stosuje się odpowiednio do Szefa Służby Wywiadu Wojskowego i Szefa Służby Kontrwywiadu Wojskowego.
 
@@ -724,6 +787,11 @@ Art. 39–44. (pominięte)
 2. Prawo do rekompensaty wygasa z dniem śmierci weterana poszkodowanego.
 
 **Art. 36g.** Administratorem danych osobowych, które są zawarte w dokumentacji zgromadzonej lub sporządzonej w związku z postępowaniem wszczętym na wniosek:
+
+- **1)** weterana poszkodowanego-żołnierza, jest Minister Obrony Narodowej;
+- **2)** weterana poszkodowanego-funkcjonariusza, jest minister właściwy do spraw wewnętrznych;
+- **3)** weterana poszkodowanego-funkcjonariusza ABW, jest Szef Agencji Bezpieczeństwa Wewnętrznego;
+- **4)** weterana poszkodowanego-funkcjonariusza AW, jest Szef Agencji Wywiadu.
 
 **Art. 36h.**
 

@@ -8,7 +8,7 @@ pos: 1546
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o funduszach inwestycyjnych, ustawy - Prawo bankowe oraz ustawy o nadzorze nad rynkiem finansowym
@@ -28,6 +28,190 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082311546) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1546/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2:
+    - **a)** pkt 13 otrzymuje brzmienie: „13) oddziale - rozumie się przez to oddział, o którym mowa w art. 5 pkt 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz.U. z 2007 r. Nr 155, poz. 1095, z późn. zm. ), przy czym za jeden oddział uważa się wszystkie jednostki organizacyjne spółki zarządzającej lub spółki zarządzającej funduszami inwestycyjnymi otwartymi z siedzibą w państwach należących do EEA, zlokalizowane na terytorium Rzeczypospolitej Polskiej, oraz wszystkie jednostki organizacyjne towarzystwa zlokalizowane na terytorium państwa członkowskiego lub państwa należącego do EEA;”,
+    - **b)** pkt 21 otrzymuje brzmienie: „21) instrumentach rynku pieniężnego - rozumie się przez to papiery wartościowe lub prawa majątkowe inkorporujące wyłącznie wierzytelności pieniężne:
+    - **a)** o terminie realizacji praw nie dłuższym niż 397 dni liczonym od dnia ich wystawienia lub od dnia ich nabycia lub
+    - **b)** które regularnie podlegają dostosowaniu do bieżących warunków panujących na rynku pieniężnym w okresach nie dłuższych niż 397 dni, lub
+    - **c)** których ryzyko inwestycyjne, w tym ryzyko kredytowe i ryzyko stopy procentowej, odpowiada ryzyku instrumentów finansowych, o których mowa w lit. a lub b - oraz co do których istnieje podaż i popyt umożliwiające ich nabywanie i zbywanie w sposób ciągły na warunkach rynkowych, przy czym przejściowa utrata płynności przez papier wartościowy lub prawo majątkowe nie powoduje utraty przez ten papier lub prawo statusu instrumentu rynku pieniężnego;”,
+    - **c)** pkt 27 i 28 otrzymują brzmienie: „27) zarządzaniu portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych - rozumie się przez to zarządzanie portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych, w rozumieniu art. 75 ust. 1 ustawy o obrocie instrumentami finansowymi;
+
+- **28)** doradztwie inwestycyjnym - rozumie się przez to doradztwo inwestycyjne w rozumieniu art. 76 ust. 1 ustawy o obrocie instrumentami finansowymi;”,
+    - **d)** uchyla się pkt 29,
+    - **e)** pkt 30 otrzymuje brzmienie: „30) puli wierzytelności - rozumie się przez to przynoszącą regularny dopływ kapitału grupę jednolitych rodzajowo wierzytelności, posiadanych i wyodrębnionych przez inicjatora sekurytyzacji, z których każda z wierzytelności stanowiących łącznie co najmniej 75% grupy przynosi regularny dopływ kapitału oraz każda wierzytelność spełnia kryteria określone w statucie funduszu;”,
+    - **f)** pkt 36 i 37 otrzymują brzmienie: „36) publicznych certyfikatach inwestycyjnych - rozumie się przez to certyfikaty inwestycyjne, których emisja jest związana z obowiązkiem uzyskania zatwierdzenia prospektu emisyjnego lub memorandum informacyjnego zgodnie z przepisami rozdziału 2 ustawy o ofercie publicznej albo udostępnienia memorandum informacyjnego do wiadomości w trybie art. 39 ust. 1 ustawy o ofercie publicznej lub dopuszczone do obrotu na rynku regulowanym albo wprowadzone do alternatywnego systemu obrotu;
+
+- **37)** niepublicznych certyfikatach inwestycyjnych - rozumie się przez to certyfikaty inwestycyjne, których emisja nie jest związana z obowiązkiem sporządzenia lub zatwierdzenia prospektu emisyjnego lub memorandum informacyjnego zgodnie z przepisami rozdziału 2 ustawy o ofercie publicznej albo udostępnienia memorandum informacyjnego do wiadomości w trybie art. 39 ust. 1 ustawy o ofercie publicznej i które nie podlegają dopuszczeniu do obrotu na rynku regulowanym lub wprowadzeniu do alternatywnego systemu obrotu.”;
+- **2)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Wpłaty do funduszu inwestycyjnego są dokonywane w formie pieniężnej.
+
+2. Do funduszu inwestycyjnego mogą być wniesione:
+
+- **1)** zdematerializowane papiery wartościowe - jeżeli statut funduszu tak stanowi, lub
+- **2)** inne niż zdematerializowane papiery wartościowe, udziały w spółkach z ograniczoną odpowiedzialnością lub prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2 - jeżeli ustawa oraz statut funduszu tak stanowią.
+
+3. Ilekroć w ustawie jest mowa o wpłatach, rozumie się przez to również wniesienie do funduszu praw majątkowych, o których mowa w ust. 2.”;
+
+- **3)** w art. 17 w ust. 3 uchyla się pkt 1;
+- **4)** w art. 18 w ust. 2:
+    - **a)** uchyla się pkt 4a,
+    - **b)** pkt 8 i 9 otrzymują brzmienie: „8) rodzaje zdematerializowanych papierów wartościowych, które mogą być przedmiotem wpłat oraz terminy przyjmowania wpłat papierami wartościowymi;
+
+- **9)** rodzaje innych niż zdematerializowane papierów wartościowych, które mogą być przedmiotem wpłat na objęcie certyfikatów inwestycyjnych oraz wskazuje, czy udziały w spółkach z ograniczoną odpowiedzialnością lub prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, mogą być przedmiotem wpłat na objęcie certyfikatów inwestycyjnych - w przypadku funduszu inwestycyjnego zamkniętego;”;
+- **5)** w art. 20 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Statut funduszu inwestycyjnego w części dotyczącej zasad polityki inwestycyjnej funduszu inwestycyjnego określa szczegółowe, niewynikające z przepisów ustawy, zasady dywersyfikacji lokat i innych ograniczeń inwestycyjnych.”;
+- **6)** art. 23 otrzymuje brzmienie: „Art. 23. 1. Komisja wydaje zezwolenie na utworzenie funduszu inwestycyjnego.
+
+2. Komisja odmawia zezwolenia, jeżeli osoby, o których mowa w art. 22 pkt 5-7, mogą wykonywać swoje obowiązki z naruszeniem zasad uczciwego obrotu lub w sposób nienależycie zabezpieczający interesy uczestników funduszu albo jeżeli statut funduszu inwestycyjnego lub umowa z depozytariuszem nie uwzględniają należycie interesów uczestników funduszu lub statut funduszu zawiera postanowienia uniemożliwiające zbywanie jednostek uczestnictwa na terytorium Rzeczypospolitej Polskiej.
+
+3. Wydając zezwolenie na utworzenie funduszu inwestycyjnego, Komisja zatwierdza statut funduszu oraz wybór depozytariusza funduszu.”;
+
+- **7)** w art. 24:
+    - **a)** w ust. 1 dodaje pkt 7 w brzmieniu: „7) dotyczącym utworzenia nowego subfunduszu.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Zezwolenia Komisji wymaga zmiana statutu specjalistycznego funduszu inwestycyjnego otwartego, który przy dokonywaniu lokat funduszu stosuje zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego, oraz funduszu inwestycyjnego zamkniętego w zakresie:
+
+- **1)** o którym mowa w art. 18 ust. 2 pkt 14;
+- **2)** o którym mowa w art. 139 ust. 3;
+- **3)** o którym mowa w art. 198 ust. 2;
+- **4)** dotyczącym utworzenia nowego subfunduszu.”,
+    - **c)** uchyla się ust. 3,
+    - **d)** ust. 6 otrzymuje brzmienie: „6. Zmiana statutu funduszu inwestycyjnego, która wymaga zezwolenia Komisji, wchodzi w życie:
+
+- **1)** w terminie 3 miesięcy od dnia ogłoszenia o zmianie statutu lub od dnia ostatniego ogłoszenia, jeżeli statut przewiduje więcej niż jedno ogłoszenie - w przypadku zmiany statutu w zakresie, o którym mowa w ust. 1 pkt 1-6 lub ust. 2 pkt 1-3;
+- **2)** z dniem ogłoszenia - w przypadku zmiany statutu w zakresie, o którym mowa w ust. 1 pkt 7 lub ust. 2 pkt 4;
+- **3)** z dniem wykreślenia z rejestru funduszu inwestycyjnego podlegającego przekształceniu w nowy subfundusz istniejącego funduszu z wydzielonymi subfunduszami - w przypadku zmiany statutu w zakresie, o którym mowa w art. 241 ust. 2 pkt 1.”, 1 lub 2, może wejść w życie w terminie wejścia w życie zmian statutu wymagających uzyskania zezwolenia Komisji, nie krótszym jednak niż 3 miesiące od dnia jej ogłoszenia.
+    - **e)** w ust. 8 pkt 1 otrzymuje brzmienie: „1) w terminie 3 miesięcy od dnia ogłoszenia o zmianie statutu - w przypadku zmiany statutu w zakresie, o którym mowa w art. 18 ust. 2 pkt 10 i 11, oraz w zakresie opłat manipulacyjnych, o których mowa w art. 86 ust. 2, jeżeli pobierane są przy odkupieniu jednostek uczestnictwa;”,
+    - **f)** po ust. 8 dodaje się ust. 8a-8c w brzmieniu: „8a. Zmiana statutu funduszu inwestycyjnego, o której mowa w ust. 8 pkt 1, mająca bezpośredni związek ze zmianami statutu funduszu wymagającymi uzyskania zezwolenia Komisji, o których mowa w ust.
+
+8b. W przypadku, o którym mowa w ust. 8a, ogłoszenie może być dokonanie z zastrzeżeniem, że warunkiem wejścia w życie zmian statutu, o których mowa w ust. 8 pkt 1, jest uzyskanie zezwolenia Komisji, o którym mowa w ust. 1 lub 2, z jednoczesnym wskazaniem, że wejście w życie tych zmian będzie zgodne z terminem wejścia w życie zmian wymagających uzyskania zezwolenia Komisji. W takim przypadku ogłoszenie dotyczące zmian wymagających uzyskania zezwolenia Komisji powinno zawierać informacje o wejściu w życie zmian, o których mowa w ust. 8 pkt 1.
+
+8c. W przypadku nie udzielenia przez Komisję zezwolenia na dokonanie zmian statutu powiązanych ze zmianami, o których mowa w ust. 8 pkt 1, fundusz niezwłocznie dokonuje ogłoszenia o tym fakcie wraz z podaniem informacji o nieziszczeniu się warunku wejścia w życie uprzednio ogłoszonych zmian.”,
+
+- **g)** ust. 9 otrzymuje brzmienie: „9. Fundusz inwestycyjny zawiadamia Komisję o terminach dokonanych ogłoszeń oraz o treści ogłoszeń, załączając do zawiadomienia jednolity tekst statutu oraz wypis aktu notarialnego zawierającego zmiany statutu, a także składa wniosek do sądu rejestrowego o wpisanie do rejestru zmiany statutu, załączając do wniosku jego jednolity tekst wraz z informacją o dokonaniu ogłoszeń i o terminach ich dokonania.”;
+- **8)** w art. 27:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Towarzystwo prowadzi zapisy na jednostki uczestnictwa oraz na niepubliczne certyfikaty inwestycyjne bezpośrednio lub za pośrednictwem podmiotu prowadzącego działalność maklerską w zakresie przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych, banku krajowego wykonującego działalność, o której mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, lub krajowego oddziału instytucji kredytowej uprawnionego do wykonywania działalności w zakresie przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych.”,
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Za zgodą Komisji towarzystwo może prowadzić zapisy na jednostki uczestnictwa oraz na niepubliczne certyfikaty inwestycyjne za pośrednictwem podmiotu, o którym mowa w art. 32 ust. 2. W takim przypadku do wniosku, o którym mowa w art. 22, towarzystwo załącza umowę zawartą z tym podmiotem oraz dokumenty, o których mowa w art. 32 ust. 4, dotyczące tego podmiotu.
+
+4. Komisja odmawia zgody, o której mowa w ust. 3, jeżeli podmiot pośredniczący w prowadzeniu zapisów nie zapewnia wykonywania tych czynności z zachowaniem zasad uczciwego obrotu lub w sposób należycie zabezpieczający interesy osób zapisujących się na jednostki uczestnictwa oraz na niepubliczne certyfikaty inwestycyjne.”;
+
+- **9)** w art. 28:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. W przypadku wpłat do funduszu inwestycyjnego, dokonywanych w innych niż zdematerializowane papierach wartościowych, udziałach w spółkach z ograniczoną odpowiedzialnością lub w prawach, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, osoba zapisująca się na certyfikaty inwestycyjne przenosi, w drodze umowy, zgodnie z odrębnymi przepisami, prawa z tych papierów, udziałów lub prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, na towarzystwo oraz składa u depozytariusza kopię tej umowy, a w przypadku papierów wartościowych, także te papiery lub, jeżeli papiery wartościowe nie mają formy dokumentu, dokument potwierdzający ich posiadanie wydany na podstawie właściwych przepisów.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Dokonanie wpłaty w prawach, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, wymaga dokonania wyceny tych praw przez towarzystwo nie później niż miesiąc przed zawarciem z towarzystwem umowy, o której mowa w ust. 2, i nie później niż 2 miesiące przed terminem rozpoczęcia zapisów na certyfikaty inwestycyjne funduszu. Koszty związane z wyceną i zawarciem umowy, o której mowa w ust. 2, ponosi towarzystwo lub osoba zapisująca się na certyfikaty inwestycyjne, zależnie od postanowień prospektu emisyjnego albo warunków emisji.”,
+    - **c)** dodaje się ust. 4 w brzmieniu: „4. Wpłaty, o których mowa w ust. 1, 2 i 2a, nie mogą być przedmiotem egzekucji kierowanej przeciwko towarzystwu i nie wchodzą do masy upadłości towarzystwa oraz nie mogą być objęte postępowaniem naprawczym.”;
+
+- **10)** w art. 29 ust. 2 otrzymuje brzmienie: „2. W przypadku gdy z wyceny wniesionych do funduszu inwestycyjnego papierów wartościowych lub udziałów w spółkach z ograniczoną odpowiedzialnością, dokonanej w dniu następującym po ostatnim dniu przyjmowania zapisów na certyfikaty inwestycyjne, lub z wyceny praw, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, dokonanej zgodnie z art. 28 ust. 2a, wynika, że wartość tych papierów wartościowych, udziałów lub praw przewyższa cenę emisyjną certyfikatu albo wielokrotność tej ceny, sposób postępowania określa statut funduszu inwestycyjnego, z zastrzeżeniem ust. 3.”;
+- **11)** w art. 30:
+    - **a)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) w określonym w statucie terminie na dokonanie zapisów na jednostki uczestnictwa albo certyfikaty inwestycyjne towarzystwo nie zebrało wpłat w wysokości określonej w statucie;”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Towarzystwo, w terminie 14 dni od dnia:
+
+- **1)** w którym postanowienie sądu o odmowie wpisu funduszu inwestycyjnego do rejestru funduszy inwestycyjnych stało się prawomocne lub
+- **2)** w którym decyzja Komisji o cofnięciu zezwolenia na utworzenie funduszu inwestycyjnego stała się ostateczna, lub
+- **3)** upływu terminu, o którym mowa w ust. 2 pkt 1 lub 2 - zwraca wpłaty do funduszu inwestycyjnego, w tym przenosi prawa z papierów wartościowych, udziałów w spółkach z ograniczoną odpowiedzialnością oraz przenosi prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, wraz z wartością otrzymanych pożytków i odsetkami naliczonymi przez depozytariusza za okres od dnia wpłaty na rachunek prowadzony przez depozytariusza do dnia wystąpienia jednej z przesłanek wymienionych w pkt 1-3, oraz pobrane opłaty manipulacyjne.”;
+- **12)** w art. 32:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Na terytorium Rzeczypospolitej Polskiej fundusz inwestycyjny zbywa i odkupuje jednostki uczestnictwa bezpośrednio lub za pośrednictwem towarzystwa zarządzającego tym funduszem inwestycyjnym, podmiotu prowadzącego działalność maklerską w zakresie przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych, banku krajowego wykonującego działalność, o której mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, lub krajowego oddziału instytucji kredytowej uprawnionego do wykonywania działalności w zakresie przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych.
+
+2. Za zezwoleniem Komisji jednostki uczestnictwa funduszy inwestycyjnych lub tytuły uczestnictwa funduszy zagranicznych, funduszy inwestycyjnych otwartych z siedzibą w państwach EEA oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należących do OECD innych niż państwo członkowskie lub państwo należące do EEA, mogą być zbywane i odkupywane za pośrednictwem podmiotu z siedzibą lub miejscem zamieszkania na terytorium Rzeczypospolitej Polskiej, innego niż podmioty, o których mowa w ust. 1.”,
+
+- **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Podmiot, o którym mowa w ust. 2:
+- **1)** nie przyjmuje wpłat na nabycie jednostek uczestnictwa lub tytułów uczestnictwa, nie otrzymuje i nie przekazuje wypłat z tytułu ich odkupienia oraz nie przechowuje jednostek uczestnictwa, tytułów uczestnictwa ani środków pieniężnych osób nabywających lub umarzających jednostki uczestnictwa lub tytuły uczestnictwa za pośrednictwem tego podmiotu;
+- **2)** nie wykonuje żadnych czynności, o których mowa w art. 69 ust. 2 ustawy o obrocie instrumentami finansowymi, poza czynnościami, o których mowa w ust. 2, lub czynnościami nieodpłatnego doradztwa inwestycyjnego w zakresie jednostek uczestnictwa lub tytułów uczestnictwa, w których zbywaniu i odkupywaniu pośredniczy;
+- **3)** prowadzi działalność, o której mowa w ust. 2, wyłącznie na terytorium Rzeczypospolitej Polskiej;
+- **4)** przekazuje zlecenia nabycia lub odkupienia jednostek uczestnictwa lub tytułów uczestnictwa wyłącznie do funduszu inwestycyjnego, funduszu zagranicznego, innej instytucji wspólnego inwestowania, firmy inwestycyjnej, banku lub instytucji kredytowej lub oddziału firmy inwestycyjnej posiadającej siedzibę w państwie trzecim lub oddziału banku zagranicznego.
+
+2b. Podmiot, o którym mowa w ust. 2, jest uprawniony także do świadczenia nieodpłatnego doradztwa inwestycyjnego w odniesieniu do jednostek uczestnictwa lub tytułów uczestnictwa instytucji wspólnego inwestowania, w zakresie których podmiot ten posiada zezwolenie na pośredniczenie w przyjmowaniu i przekazywaniu zleceń.”,
+
+- **c)** w ust. 4 zdanie wstępne otrzymuje brzmienie: „Do wniosku, o którym mowa w ust. 3, załącza się:”,
+- **d)** uchyla się ust. 5,
+- **e)** ust. 6 otrzymuje brzmienie: „6. Komisja odmawia zezwolenia, w przypadku gdy:
+- **1)** dokumenty załączone do wniosku nie spełniają wymogów, o których mowa w ust. 4;
+- **2)** wniosek lub załączone do niego dokumenty nie są zgodne z przepisami prawa lub ze stanem faktycznym;
+- **3)** wnioskodawca może wykonywać czynności z naruszeniem zasad uczciwego obrotu lub w sposób nienależycie zabezpieczający interesy osób zapisujących się na jednostki uczestnictwa lub tytuły uczestnictwa lub interesy uczestników funduszy.”,
+    - **f)** ust. 9 otrzymuje brzmienie: „9. Podmiot, o którym mowa w ust. 2, jest obowiązany poinformować Komisję o każdej zmianie danych, o których mowa w ust. 4 pkt 13, oraz o zmianie w dokumentach, o których mowa w ust. 4 pkt 1, 5 i 6, nie później niż w terminie 14 dni od powzięcia o nich wiadomości.”,
+    - **g)** dodaje się ust. 10 w brzmieniu: „10. W przypadku połączenia lub podziału podmiotu zezwolenie, o którym mowa w ust. 2, nie przechodzi na spółkę przejmującą lub spółkę nowo zawiązaną powstałą w związku z połączeniem lub podziałem tego podmiotu.”;
+
+- **13)** art. 32a otrzymuje brzmienie: „Art. 32a. 1. Towarzystwo oraz podmiot, o którym mowa w art. 32 ust. 2, są obowiązane prowadzić działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych lub tytułów uczestnictwa funduszy zagranicznych, funduszy inwestycyjnych otwartych z siedzibą w państwach EEA oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należących do OECD innych niż państwo członkowskie lub państwo należące do EEA, w sposób rzetelny i profesjonalny, zgodnie z zasadami uczciwego obrotu oraz ze szczególnym uwzględnieniem interesu klientów i uczestników tych funduszy.
+
+2. Towarzystwo prowadzące działalność w zakresie pośrednictwa, o którym mowa w ust. 1, oraz podmiot, o którym art. 32 ust. 2, są obowiązane stosować w prowadzonej działalności rozwiązania techniczne i organizacyjne zapewniające bezpieczeństwo oraz zapobiegać powstawaniu konfliktów interesów, a w przypadku powstania takiego konfliktu zapewnić ochronę interesów klientów i uczestników funduszu inwestycyjnego oraz ochronę informacji poufnych lub stanowiących tajemnicę zawodową.
+
+3. Informacje upowszechniane przez towarzystwo prowadzące działalność w zakresie pośrednictwa, o którym mowa w ust. 1, oraz podmiot, o którym mowa w art. 32 ust. 2, w celu reklamy lub promocji usług świadczonych przez ten podmiot powinny być rzetelne i zrozumiałe.
+
+4. Towarzystwo oraz podmiot, o którym mowa w art. 32 ust. 2, mogą jedynie przyjmować lub przekazywać, w związku ze świadczeniem usług w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych lub tytułów uczestnictwa funduszy zagranicznych, funduszy inwestycyjnych otwartych z siedzibą w państwach EEA oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należących do OECD innych niż państwo członkowskie lub państwo należące do EEA:
+
+- **1)** opłaty, prowizje i świadczenia niepieniężne przyjmowane od klienta lub osoby działającej w jego imieniu albo przekazywane klientowi lub osobie działającej w jego imieniu;
+- **2)** opłaty lub prowizje niezbędne dla świadczonej usługi na rzecz klienta;
+- **3)** opłaty, prowizje i świadczenia niepieniężne inne niż wskazane w pkt 1 i 2, pod warunkiem, że:
+    - **a)** informacja o tych opłatach, prowizjach lub świadczeniach niepieniężnych, w tym o ich istocie i wysokości lub sposobie ustalania ich wysokości, została przekazana klientowi przed świadczeniem usługi oraz
+    - **b)** są one przyjmowane albo przekazywane w celu poprawienia jakości usługi świadczonej przez ten podmiot na rzecz klienta.
+
+5. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, tryb i warunki postępowania towarzystw prowadzących działalność w zakresie pośrednictwa, o którym mowa w ust. 1, oraz podmiotów, o których mowa w art. 32 ust. 2, w zakresie:
+
+- **1)** prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych, tytułów uczestnictwa funduszy zagranicznych, funduszy inwestycyjnych otwartych z siedzibą w państwach EEA oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należących do OECD innym niż państwo członkowskie lub państwo należące do EEA,
+- **2)** doradztwa inwestycyjnego w odniesieniu do takich instrumentów finansowych - przy zapewnieniu zasad uczciwego obrotu oraz w sposób należycie zabezpieczający interesy klientów oraz z uwzględnieniem konieczności zapewnienia bezpieczeństwa i ciągłości prowadzonej działalności.”;
+- **14)** w art. 33: Umowy wyłączające odpowiedzialność są nieważne.”;
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Oświadczenia woli związane z przystąpieniem lub uczestnictwem w funduszu inwestycyjnym, funduszu zagranicznym, funduszu inwestycyjnym otwartym z siedzibą w państwie należącym do EEA oraz funduszu inwestycyjnym otwartym z siedzibą w państwie należącym do OECD innym niż państwo członkowskie lub państwo należące do EEA, w tym zlecenia nabycia lub odkupienia jednostek uczestnictwa lub tytułów uczestnictwa, mogą być składane za pośrednictwem osób fizycznych pozostających z towarzystwem lub podmiotem, o którym mowa w art. 32 ust. 2, w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze. Osoba fizyczna nie może przyjmować wpłat na nabycie jednostek uczestnictwa lub tytułów uczestnictwa lub otrzymywać i przekazywać wypłat z tytułu ich odkupienia.”,
+    - **b)** w ust. 2 uchyla się pkt 2,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Za szkody poniesione przez osoby nabywające lub odkupujące jednostki uczestnictwa funduszu inwestycyjnego za pośrednictwem podmiotu, o którym mowa w art. 32 ust. 1 i 2, odpowiadają solidarnie towarzystwo i ten podmiot, chyba że szkoda jest wynikiem okoliczności, za które podmiot ten nie ponosi odpowiedzialności.”,
+    - **d)** uchyla się ust. 4,
+    - **e)** ust. 5 otrzymuje brzmienie: „5. Odpowiedzialność, o której mowa w ust. 3, nie może być wyłączona, ograniczona lub w inny sposób zmieniona w drodze umowy.
+
+- **15)** w art. 37 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Jeżeli w przypadku, o którym mowa w art. 144 ust. 6, pomimo prawidłowo zwołanego zgromadzenia inwestorów nie zostanie osiągnięta wymagana większość, roczne sprawozdanie finansowe funduszu inwestycyjnego, roczne połączone sprawozdanie finansowe funduszu z wydzielonymi subfunduszami oraz roczne sprawozdanie jednostkowe subfunduszy zatwierdza walne zgromadzenie akcjonariuszy towarzystwa.”;
+- **16)** w art. 42:
+    - **a)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) legitymować się stażem pracy nie krótszym niż 3 lata na kierowniczym lub samodzielnym stanowisku w instytucjach rynku finansowego lub pełnieniem przez ten okres funkcji w organach tych instytucji.”,
+    - **b)** uchyla się ust. 4;
+
+- **17)** art. 45 otrzymuje brzmienie: „Art. 45. 1. Przedmiotem działalności towarzystwa jest wyłącznie tworzenie funduszy inwestycyjnych i zarządzanie nimi, w tym pośrednictwo w zbywaniu i odkupywaniu jednostek uczestnictwa, reprezentowanie ich wobec osób trzecich oraz zarządzanie zbiorczym portfelem papierów wartościowych.
+
+2. Za zezwoleniem Komisji towarzystwo może rozszerzyć przedmiot działalności o:
+
+- **1)** zarządzanie portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych;
+- **2)** doradztwo inwestycyjne, pod warunkiem że towarzystwo jednocześnie wystąpiło o zezwolenie na prowadzenie działalności, o której mowa w pkt 1, lub prowadzi taką działalność.
+
+3. Towarzystwo bez zezwolenia Komisji może rozszerzyć przedmiot działalności o:
+
+- **1)** pośrednictwo w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych utworzonych przez inne towarzystwa lub tytułów uczestnictwa funduszy zagranicznych;
+- **2)** pełnienie funkcji przedstawiciela funduszy zagranicznych, o którym mowa w art. 253 ust. 2 pkt 6.
+
+4. Towarzystwo jest obowiązane zatrudniać co najmniej:
+
+- **1)** dwóch doradców inwestycyjnych - do wykonywania czynności zarządzania funduszami inwestycyjnymi, zarządzania zbiorczym portfelem papierów wartościowych oraz zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, z zastrzeżeniem ust. 5;
+- **2)** jednego doradcę inwestycyjnego - do wykonywania czynności doradztwa inwestycyjnego.
+
+5. Towarzystwo nie musi zatrudniać doradców inwestycyjnych, jeżeli zarządza wyłącznie funduszami, o których mowa w art. 183 lub
+
+196.
+
+6. Wyłącznym przedmiotem działalności towarzystwa nie może być wykonywanie czynności, o których mowa w ust. 2, oraz zarządzanie zbiorczym portfelem papierów wartościowych.
+
+7. O rozszerzeniu przedmiotu działalności, o którym mowa w ust. 3, towarzystwo niezwłocznie informuje Komisję.”;
+
+- **18)** w art. 46:
+    - **a)** w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „1) podmiotowi prowadzącemu działalność maklerską w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, lub innemu towarzystwu posiadającemu zezwolenie, o którym mowa w art. 45 ust. 2 pkt 1,
+
+- **2)** podmiotowi prowadzącemu działalność maklerską w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, mającemu siedzibę w innym państwie członkowskim,”, – w pkt 3 lit. a otrzymuje brzmienie: „a) do portfela inwestycyjnego funduszu lub jego części mogą być nabywane papiery wartościowe i instrumenty rynku pieniężnego zgodnie z ustawą i statutem funduszu,”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Towarzystwo zarządzające funduszem inwestycyjnym, o którym mowa w art. 183, może, na podstawie umowy, zlecić zarządzanie całością lub częścią portfela inwestycyjnego obejmującego pulę wierzytelności lub sekurytyzowane wierzytelności podmiotowi, o którym mowa w art. 192.”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Towarzystwo zarządzające funduszem inwestycyjnym, o którym mowa w art. 196, może również, na podstawie umowy, zlecić zarządzanie portfelem inwestycyjnym funduszu lub jego częścią wyspecjalizowanym podmiotom innym niż podmioty, o których mowa w ust. 1, o ile podmioty te lub osoby kierujące ich działalnością posiadają doświadczenie w tym zakresie.”;
+    - **d)** ust. 6-8 otrzymują brzmienie: „6. Zawarcie przez towarzystwo umów, o których mowa w ust. 1, 2, 2a i 3, nie zwalnia towarzystwa z odpowiedzialności wobec uczestników funduszu, określonej w art. 64 ust. 1.
+
+7. Za szkody spowodowane niewykonaniem lub nienależytym wykonaniem umów, o których mowa w ust. 1, 2, 2a i 3, towarzystwo odpowiada wobec uczestników funduszu solidarnie z podmiotem, z którym zawarło umowę, chyba że szkoda jest wynikiem okoliczności, za które podmiot ten nie ponosi odpowiedzialności.
+
+8. Przepisu art. 45 ust. 4 pkt 1 nie stosuje się, w przypadku gdy na podstawie umowy lub umów, o których mowa w ust. 1, 2, 2a i 3, towarzystwo zleciło zarządzanie całością portfeli inwestycyjnych wszystkich zarządzanych przez siebie funduszy inwestycyjnych oraz nie wykonuje czynności zarządzania zbiorczym portfelem papierów wartościowych i zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych.”;
+
+- **19)** art. 47 i 48 otrzymują brzmienie: „Art. 47. 1. Towarzystwo, wykonując działalność w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, nie może inwestować przekazanych do zarządzania środków klientów w jednostki uczestnictwa lub certyfikaty inwestycyjne funduszy inwestycyjnych, którymi towarzystwo zarządza, chyba że umowa z klientem stanowi inaczej.
+
+2. Towarzystwo wycenia aktywa wchodzące w skład przekazanego do zarządzania portfela, o którym mowa w ust. 1, zgodnie z przepisami określającymi zasady i metody dokonywania wyceny aktywów funduszy inwestycyjnych, chyba że umowa z klientem stanowi inaczej.
+
+3. Towarzystwo, wykonując działalność, o której mowa w ust. 1, jest obowiązane do prowadzenia odrębnej ewidencji zawartych transakcji.
+
+4. Towarzystwo, które prowadzi działalność, o której mowa w ust. 1, podlega obowiązkowi uczestnictwa w systemie rekompensat, o którym mowa w ustawie o obrocie instrumentami finansowymi, w takim samym zakresie jak dom maklerski prowadzący działalność wyłącznie w zakresie doradztwa inwestycyjnego albo zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych. Przepisy ustawy o obrocie instrumentami finansowymi o obowiązkowym systemie rekompensat stosuje się odpowiednio.
+
+5. Towarzystwo wykonujące działalność w zakresie doradztwa inwestycyjnego lub zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, jest obowiązane stosować w prowadzonej działalności rozwiązania techniczne i organizacyjne zapewniające bezpieczeństwo i ciągłość świadczonych usług oraz ochronę najlepiej pojętego interesu klientów, w szczególności posiadać system nadzoru wewnętrznego, system zarządzania ryzykiem oraz system audytu wewnętrznego.
+
+6. W zakresie powierzenia przez towarzystwo wykonywania czynności związanych z prowadzoną przez towarzystwo działalnością w zakresie doradztwa inwestycyjnego albo zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, innym podmiotom stosuje się odpowiednio przepisy art. 81a-81g ustawy o obrocie instrumentami finansowymi.
+
+7. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+
+- **1)** tryb i warunki postępowania towarzystw funduszy inwestycyjnych wykonujących działalność w zakresie doradztwa inwestycyjnego lub zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, w zakresie świadczenia usług, promowania świadczonych usług oraz kontaktów z potencjalnymi klientami,
+- **2)** tryb, warunki i szczegółowy zakres działania w towarzystwie wykonującym czynności, o których mowa w pkt 1, systemu nadzoru zgodności z prawem działalności towarzystwa, systemu zarządzania ryzykiem oraz audytu wewnętrznego,
+- **3)** warunki techniczne i organizacyjne prowadzenia przez towarzystwo działalności, o których mowa w pkt 1 - w celu zapewnienia ochrony interesów uczestników funduszy inwestycyjnych lub zbiorczych portfeli papierów wartościowych oraz klientów, dla których towarzystwo wykonuje usługi doradztwa inwestycyjnego lub zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych.
 
 **Art. 48.**
 
@@ -607,9 +791,13 @@ source: "isap-pdf"
 
 **Art. 299.** Kto wbrew obowiązkowi, o którym mowa w art. 69 oraz art. 227 ust. 1, nie archiwizuje lub nie przechowuje dokumentów lub innych nośników informacji związanych z prowadzeniem działalności towarzystwa lub funduszu inwestycyjnego, podlega grzywnie albo karze ograniczenia wolności.”;
 
+- **119)** uchyla się art. 326.
+
 **Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm. ) uchyla się art. 92c.
 
 **Art. 3.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. Nr 157, poz. 1119 oraz z 2007 r. Nr 42, poz. 272 i Nr 49, poz. 328) w art. 12 w ust. 2 w pkt 4 lit. r i s otrzymują brzmienie: „r) nakazania towarzystwu zmiany osób, o których mowa w art. 58 ust. 1 pkt 4, 6 i 15 ustawy o funduszach inwestycyjnych,
+
+- **s)** cofnięcia zezwolenia podmiotowi, o którym mowa w art. 192 ust. 1 ustawy o funduszach inwestycyjnych,”.
 
 **Art. 4.** Fundusze inwestycyjne utworzone przed dniem wejścia w życie niniejszej ustawy są obowiązane, w terminie do dnia 31 maja 2009 r., dostosować treść statutów do przepisów wprowadzonych ustawą.
 
@@ -648,4 +836,8 @@ source: "isap-pdf"
 ##### Oddział spółki zarządzającej prowadzący działalność na terytorium Rzeczypospolitej Polskiej w dniu wejścia w życie niniejszej ustawy jest obowiązany, w terminie 6 miesięcy od dnia jej wejścia w życie, do złożenia wniosku o wpis do rejestru przedsiębiorców.
 
 **Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 30, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia;
+- **2)** art. 1 pkt 100, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+
 

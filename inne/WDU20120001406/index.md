@@ -36,7 +36,7 @@ w sprawie sposobu organizacji obsługi bibliotecznej w podmiotach leczniczych or
 1) organizację filii lub punktu bibliotecznego;
 2) warunki lokalowe oraz wyposażenie filii lub punktu bibliotecznego;
 3) zaopatrzenie filii lub punktu bibliotecznego w materiały biblioteczne.
-w § 2. Biblioteka utworzona przez podmiot leczniczy, biblioteka publiczna albo filia biblioteki publicznej, o której mowa w § 1 ust. 1 pkt 2, mogą tworzyć punkty biblioteczne w poszczególnych jednostkach lub komórkach organizacyjnych podmiotu leczniczego.
+§ 2. Biblioteka utworzona przez podmiot leczniczy, biblioteka publiczna albo filia biblioteki publicznej, o której mowa w § 1 ust. 1 pkt 2, mogą tworzyć punkty biblioteczne w poszczególnych jednostkach lub komórkach organizacyjnych podmiotu leczniczego.
 § 3. 1. Z biblioteki, filii lub punktu bibliotecznego mogą korzystać również pracownicy podmiotu leczniczego.
 w 2. Przepis ust. 1 nie dotyczy punktu bibliotecznego, o którym mowa w § 4 ust. 1.
 § 4. 1. Dla punktów bibliotecznych utworzonych w oddziałach chorób zakaźnych wydziela się materiały biblioteczne.

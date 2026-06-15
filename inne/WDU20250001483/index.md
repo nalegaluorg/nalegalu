@@ -8,7 +8,7 @@ pos: 1483
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o finansach publicznych
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-09-26 |
 | Data wydania | 2025-10-28 |
-| Ostatnia zmiana | 2026-04-03 |
+| Ostatnia zmiana | 2026-06-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1483/text.pdf) |
 
 ### DZIAŁ I Zasady finansów publicznych
@@ -33,11 +33,50 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zakres i zasady działania oraz organizację jednostek budżetowych i samorządowych zakładów budżetowych;
+- **2)** zakres i zasady działania agencji wykonawczych, instytucji gospodarki budżetowej i państwowych funduszy celowych;
+- **3)** zasady funkcjonowania jednostek sektora finansów publicznych w zakresie gospodarki finansowej;
+- **4)** zasady i tryb kontroli procesów związanych z gromadzeniem i rozdysponowywaniem środków publicznych oraz gospodarowaniem mieniem;
+- **5)** zasady zarządzania państwowym długiem publicznym oraz procedury ostrożnościowe i sanacyjne;
+- **6)** (uchylony)
+- **7)** zasady i tryb opracowywania oraz uchwalania wieloletniej prognozy finansowej jednostki samorządu terytorialnego;
+- **8)** zasady i tryb sporządzania budżetu państwa w układzie zadaniowym;
+- **9)** zakres i szczegółowość oraz zasady i tryb planowania, uchwalania i wykonywania budżetu państwa oraz budżetów jednostek samorządu terytorialnego;
+- **10)** szczególne zasady rachunkowości, planowania i sprawozdawczości obowiązujące w sektorze finansów publicznych;
+- **11)** zasady gospodarowania środkami publicznymi pochodzącymi z budżetu Unii Europejskiej oraz z innych źródeł zagranicznych;
+- **12)** zasady kontroli zarządczej i audytu wewnętrznego oraz koordynacji kontroli zarządczej i audytu wewnętrznego w jednostkach sektora finansów publicznych.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** Ministrze Finansów – rozumie się przez to odpowiednio ministra właściwego do spraw budżetu, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw instytucji finansowych;
+- **2)** zarządzie jednostki samorządu terytorialnego – rozumie się przez to również wójta, burmistrza lub prezydenta miasta;
+- **3)** układzie zadaniowym – rozumie się przez to zestawienie odpowiednio wydatków budżetu państwa lub kosztów jednostki sektora finansów publicznych sporządzone według funkcji państwa, oznaczających poszczególne obszary działań państwa, oraz:
+    - **a)** zadań budżetowych grupujących wydatki według celów,
+    - **b)** podzadań budżetowych grupujących działania umożliwiające realizację celów zadania, w ramach którego podzadania te zostały wyodrębnione – wraz z opisem celów tych zadań i podzadań, a także z bazowymi i docelowymi miernikami stopnia realizacji celów działalności państwa, oznaczającymi wartościowe, ilościowe lub opisowe określenie bazowego i docelowego poziomu efektów z poniesionych nakładów;
+
+- **4)** odrębnych ustawach – rozumie się przez to ustawy inne niż niniejsza ustawa oraz ustawa budżetowa;
+- **5)** środkach europejskich – rozumie się przez to środki, o których mowa w art. 5 ust. 3 pkt 1, 2, 4 i 5a–5d;
+- **5a)** zasobach własnych Unii Europejskiej – rozumie się przez to środki określone w decyzji, o której mowa w art. 311 Traktatu o funkcjonowaniu Unii Europejskiej;
+- **6)** organizacjach pozarządowych – rozumie się przez to organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940);
+- **7)** jednostce w dziale – rozumie się przez to jednostkę sektora finansów publicznych podległą ministrowi kierującemu określonym działem administracji rządowej lub przez niego nadzorowaną lub jednostkę sektora finansów publicznych obsługującą organ podległy ministrowi kierującemu określonym działem administracji rządowej lub przez niego nadzorowany;
+- **8)** dysponencie części budżetowej – rozumie się przez to kierowników jednostek oraz organy wymienione w art. 139 ust. 2, właściwych ministrów, kierowników urzędów centralnych, wojewodów oraz kierowników państwowych jednostek organizacyjnych, o których mowa w art. 114 ust. 3 pkt 2, dysponujących częściami budżetu państwa;
+- **9)** scenariuszu makroekonomicznym – rozumie się przez to scenariusz przedstawiający realistyczne prognozy makroekonomiczne, obejmujące w szczególności założenia dotyczące kształtowania się: podstawowych wielkości makroekonomicznych oraz celów dotyczących deficytu i długu sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską (Dz. Urz. UE L 145 z 10.06.2009, str. 1, z późn. zm. ), państwowego długu publicznego oraz poziomu kwoty wydatków, o której mowa w art. 112aa ust. 1.
 
 **Art. 3.** Finanse publiczne obejmują procesy związane z gromadzeniem środków publicznych oraz ich rozdysponowywaniem, w szczególności:
 
+- **1)** gromadzenie dochodów i przychodów publicznych;
+- **2)** wydatkowanie środków publicznych;
+- **3)** finansowanie potrzeb pożyczkowych budżetu państwa;
+- **4)** zaciąganie zobowiązań angażujących środki publiczne;
+- **5)** zarządzanie środkami publicznymi;
+- **6)** zarządzanie długiem publicznym;
+- **7)** rozliczenia z budżetem Unii Europejskiej.
+
 **Art. 3a.** Do umów i jednostronnych czynności prawnych, związanych z gromadzeniem środków publicznych oraz ich rozdysponowywaniem w zakresie:
+
+- **1)** operacji finansowych związanych z wykonywaniem budżetu państwa i budżetu środków europejskich, w tym z zakresu obsługi bankowej,
+- **2)** operacji finansowych w zakresie środków, o których mowa w art. 5 ust. 1 pkt 2 i 3,
+- **3)** zaciągania pożyczek i kredytów, emisji skarbowych papierów wartościowych oraz innych operacji związanych bezpośrednio z zarządzaniem długiem Skarbu Państwa – nie stosuje się przepisu art. 18 ust. 1 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1192 oraz z 2025 r. poz. 1172).
 
 **Art. 4.**
 
@@ -64,6 +103,7 @@ source: "isap-pdf"
 - **2)** środki pochodzące z budżetu Unii Europejskiej oraz niepodlegające zwrotowi środki z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA);
 - **2a)** środki, o których mowa w art. 3b ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198);
 - **2b)** środki, o których mowa w art. 202 ust. 4;
+- **2c)** środki finansowe, odsetki i inne przychody, a także zyski, o których mowa w art. 50d ust. 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2023 r. poz. 2298 oraz z 2026 r. poz. 680);
 - **3)** środki pochodzące ze źródeł zagranicznych niepodlegające zwrotowi, inne niż wymienione w pkt 2;
 - **4)** przychody budżetu państwa i budżetów jednostek samorządu terytorialnego oraz innych jednostek sektora finansów publicznych pochodzące:
     - **a)** ze sprzedaży papierów wartościowych,
@@ -151,6 +191,23 @@ source: "isap-pdf"
 
 **Art. 9.** Sektor finansów publicznych tworzą:
 
+- **1)** organy władzy publicznej, w tym organy administracji rządowej, organy kontroli państwowej i ochrony prawa oraz sądy i trybunały;
+- **2)** jednostki samorządu terytorialnego oraz ich związki;
+- **2a)** związki metropolitalne;
+- **3)** jednostki budżetowe;
+- **4)** samorządowe zakłady budżetowe;
+- **5)** agencje wykonawcze;
+- **6)** instytucje gospodarki budżetowej;
+- **7)** państwowe fundusze celowe;
+- **8)** Zakład Ubezpieczeń Społecznych i zarządzane przez niego fundusze oraz Kasa Rolniczego Ubezpieczenia Społecznego i fundusze zarządzane przez Prezesa Kasy Rolniczego Ubezpieczenia Społecznego;
+- **9)** Narodowy Fundusz Zdrowia;
+- **10)** samodzielne publiczne zakłady opieki zdrowotnej;
+- **11)** uczelnie publiczne;
+- **12)** Polska Akademia Nauk i tworzone przez nią jednostki organizacyjne;
+- **13)** państwowe i samorządowe instytucje kultury;
+- **14)** inne państwowe lub samorządowe osoby prawne utworzone na podstawie odrębnych ustaw w celu wykonywania zadań publicznych, z wyłączeniem przedsiębiorstw, instytutów badawczych, instytutów działających w ramach Sieci Badawczej Łukasiewicz, banków oraz spółek prawa handlowego;
+- **15)** Bankowy Fundusz Gwarancyjny.
+
 **Art. 10.**
 
 1. Jednostki budżetowe, samorządowe zakłady budżetowe, agencje wykonawcze, instytucje gospodarki budżetowej i państwowe fundusze celowe stosują zasady gospodarki finansowej określone w niniejszej ustawie.
@@ -221,6 +278,16 @@ source: "isap-pdf"
 4. Przepisy art. 12 ust. 2–7 stosuje się odpowiednio.
 
 **Art. 14.** Zadania własne jednostki samorządu terytorialnego w zakresie:
+
+- **1)** gospodarki mieszkaniowej i gospodarowania lokalami użytkowymi,
+- **2)** dróg, ulic, mostów, placów oraz organizacji ruchu drogowego,
+- **3)** wodociągów i zaopatrzenia w wodę, kanalizacji, usuwania i oczyszczania ścieków komunalnych, utrzymania czystości i porządku oraz urządzeń sanitarnych, wysypisk i unieszkodliwiania odpadów komunalnych, zaopatrzenia w energię elektryczną i cieplną oraz gaz,
+- **4)** lokalnego transportu zbiorowego,
+- **5)** targowisk i hal targowych,
+- **6)** zieleni gminnej i zadrzewień,
+- **7)** kultury fizycznej i sportu, w tym utrzymywania terenów rekreacyjnych i urządzeń sportowych, 7a) pomocy społecznej, reintegracji zawodowej i społecznej oraz rehabilitacji zawodowej i społecznej osób niepełnosprawnych,
+- **8)** utrzymywania różnych gatunków egzotycznych i krajowych zwierząt, w tym w szczególności prowadzenia hodowli zwierząt zagrożonych wyginięciem, w celu ich ochrony poza miejscem naturalnego występowania,
+- **9)** cmentarzy – mogą być wykonywane przez samorządowe zakłady budżetowe.
 
 **Art. 15.**
 
@@ -698,6 +765,13 @@ source: "isap-pdf"
 
 **Art. 34c.** (uchylony) <Art. 34d. Minister Finansów określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy sposób określania wartości umowy, o której mowa w art. 34a ust. 7 pkt 6,
+- **2)** szczegółowy zakres informacji o umowie, o których mowa w art. 34a ust. 7 pkt 3–10,
+- **3)** szczegółowy zakres danych zawartych we wniosku, o którym mowa w art. 34b ust. 3, przypadki, w jakich do tego wniosku dołącza się dokumenty, oraz rodzaj tych dokumentów, a także sposób i tryb jego składania,
+- **4)** warunki korzystania z kont w systemie, o którym mowa w art. 34b ust. 1, w tym sposób uwierzytelniania użytkowników tych kont,
+- **5)** zakres korzystania z kont w systemie, o którym mowa w art. 34b ust. 1, w tym rodzaje tych kont, i uprawnienia użytkowników tych kont,
+- **6)** sposób wyszukiwania informacji o umowie i wglądu do tych informacji udostępnionych w Centralnym Rejestrze Umów JSFP – mając na uwadze konieczność zapewnienia kompletności, jednolitości i przejrzystości informacji udostępnianych w Centralnym Rejestrze Umów JSFP, sprawną obsługę wniosków, o których mowa w art. 34b ust. 3, zapewnienie bezpieczeństwa, wiarygodności i niezaprzeczalności przekazywanych danych oraz potrzebę ich ochrony przed nieuprawnionym dostępem, efektywność zarządzania kontem w systemie, o którym mowa w art. 34b ust. 1, oraz łatwość wyszukiwania informacji w Centralnym Rejestrze Umów JSFP.>
+
 **Art. 35.** Klauzule umowne dotyczące wyłączenia jawności ze względu na tajemnicę przedsiębiorstwa w umowach zawieranych przez jednostki sektora finansów publicznych lub inne podmioty, o ile wynikające z umowy zobowiązanie jest realizowane lub przeznaczone do realizacji ze środków publicznych, uważa się za niezastrzeżone, z wyłączeniem informacji technicznych, technologicznych, organizacyjnych przedsiębiorstwa lub innych posiadających wartość gospodarczą, w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, co do których przedsiębiorca podjął niezbędne działania w celu zachowania ich w tajemnicy, lub w przypadku gdy jednostka sektora finansów publicznych wykaże, że informacja stanowi tajemnicę przedsiębiorstwa z uwagi na to, że wymaga tego istotny interes publiczny lub ważny interes państwa.
 
 **Art. 35a.**
@@ -751,9 +825,27 @@ source: "isap-pdf"
 
 **Art. 38.** Minister Finansów ogłasza, w terminie do dnia 31 maja roku następnego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
 
+- **1)** kwotę i relację do produktu krajowego brutto:
+    - **a)** państwowego długu publicznego,
+    - **b)** długu Skarbu Państwa,
+    - **c)** niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez Skarb Państwa,
+
+- **2)** kwotę niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez jednostki sektora finansów publicznych – według stanu na koniec roku budżetowego.
+
 **Art. 38a.** Minister Finansów ogłasza, w terminie do dnia 31 maja roku następnego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
 
+- **1)** kwotę ustaloną w wyniku przeliczenia kwoty państwowego długu publicznego, ogłoszonej zgodnie z art. 38, na walutę polską z zastosowaniem dla zobowiązań wyrażonych w walutach obcych średniej arytmetycznej średnich kursów każdej z walut obcych ogłaszanych przez Narodowy Bank Polski i obowiązujących w dni robocze roku budżetowego, za który ogłaszana jest relacja, o której mowa w art. 38 pkt 1 lit. a,
+- **2)** kwotę wolnych środków służących finansowaniu potrzeb pożyczkowych budżetu państwa w kolejnym roku budżetowym,
+- **3)** kwotę obliczoną jako różnica kwoty, o której mowa w pkt 1, oraz kwoty, o której mowa w pkt 2,
+- **4)** relację kwoty, o której mowa w pkt 3, do produktu krajowego brutto – według stanu na koniec roku budżetowego.
+
 **Art. 38b.** Prezes Głównego Urzędu Statystycznego ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 16 kwietnia:
+
+- **1)** (uchylony)
+- **2)** łączną dynamikę wartości produktu krajowego brutto w cenach stałych za ostatnie sześć lat;
+- **2a)** deflator produktu krajowego brutto za rok poprzedzający rok budżetowy o dwa lata;
+- **2b)** dynamikę wartości produktu krajowego brutto w cenach stałych za rok poprzedzający rok budżetowy o dwa lata.
+- **3)** (uchylony)
 
 **Art. 38c.** (uchylony)
 
@@ -909,6 +1001,8 @@ source: "isap-pdf"
 
 4. Wolne środki, o których mowa w ust. 3, nie obejmują środków w walutach obcych. Środki te mogą być lokowane w sposób, o którym mowa w ust. 1 pkt 3.
 
+4a. Bank Gospodarstwa Krajowego dokonuje lokat wolnych środków funduszy utworzonych, powierzonych lub przekazanych temu bankowi na podstawie odrębnych ustaw, w formie depozytu u Ministra Finansów. Przepisy ust. 3 i ust. 4 zdanie pierwsze stosuje się odpowiednio.
+
 5. Wolne środki agencji płatniczych będące środkami, o których mowa w art. 208 ust. 2, oraz środki przeznaczone na współfinansowanie realizacji zadań finansowanych z udziałem tych środków nie są objęte obowiązkiem lokowania w formie depozytu u Ministra Finansów. Środki te mogą być lokowane w sposób określony w ust. 1.
 
 **Art. 49.**
@@ -937,7 +1031,7 @@ source: "isap-pdf"
 
 2. Projekt ustawy skutkującej zmianą poziomu dochodów lub wydatków jednostek samorządu terytorialnego wymaga określenia wysokości skutków tych zmian, wskazania źródeł ich sfinansowania oraz zaopiniowania przez Komisję Wspólną Rządu i Samorządu Terytorialnego.
 
-3. Rada Ministrów, przekazując do projekt ustawy, o którym mowa w ust. 2, dołącza opinię Komisji Wspólnej Rządu i Samorządu Terytorialnego.
+3. Rada Ministrów, przekazując do Sejmu projekt ustawy, o którym mowa w ust. 2, dołącza opinię Komisji Wspólnej Rządu i Samorządu Terytorialnego.
 
 4. Projekt ustawy, o którym mowa w ust. 1a, zawiera mechanizmy korygujące, mające zastosowanie w przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, polegające na:
 
@@ -1081,6 +1175,9 @@ source: "isap-pdf"
 
 **Art. 57.** Na wniosek dłużnika:
 
+- **1)** należności mogą być umarzane w całości – w przypadkach uzasadnionych ważnym interesem dłużnika lub interesem publicznym;
+- **2)** należności mogą być umarzane w części, terminy spłaty całości albo części należności mogą zostać odroczone lub płatność całości albo części należności może zostać rozłożona na raty – w przypadkach uzasadnionych względami społecznymi lub gospodarczymi, w szczególności możliwościami płatniczymi dłużnika.
+
 **Art. 57a.**
 
 1. Należności zasądzone na rzecz Skarbu Państwa tytułem zwrotu kosztów zastępstwa procesowego podlegają umorzeniu na wniosek dłużnika, jeżeli zasądzono je w postępowaniu, którego celem było zapobieżenie naruszeniu Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. poz. 284, z późn. zm. ) lub Protokołów dodatkowych do tej Konwencji lub uchylenie skutków tego naruszenia, lub uzyskanie zadośćuczynienia lub odszkodowania za to naruszenie w krajowym systemie prawnym, oraz w zakresie, w jakim z orzeczenia Europejskiego Trybunału Praw Człowieka wynika, że w postępowaniu tym naruszono wobec dłużnika tę Konwencję lub Protokoły dodatkowe do tej Konwencji.
@@ -1131,6 +1228,16 @@ source: "isap-pdf"
 - **2)** programów, projektów i zadań finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3.
 
 **Art. 60.** Środkami publicznymi stanowiącymi niepodatkowe należności budżetowe o charakterze publicznoprawnym są w szczególności następujące dochody budżetu państwa, dochody budżetu jednostki samorządu terytorialnego albo przychody państwowych funduszy celowych:
+
+- **1)** kwoty dotacji podlegające zwrotowi w przypadkach określonych w niniejszej ustawie;
+- **2)** należności z tytułu gwarancji i poręczeń udzielonych przez Skarb Państwa i jednostki samorządu terytorialnego;
+- **3)** wpłaty nadwyżek środków obrotowych samorządowych zakładów budżetowych;
+- **4)** wpłaty nadwyżek środków finansowych agencji wykonawczych;
+- **5)** wpłaty środków z tytułu rozliczeń realizacji programów przedakcesyjnych;
+- **6)** należności z tytułu zwrotu środków przeznaczonych na realizację programów finansowanych z udziałem środków europejskich oraz inne należności związane z realizacją projektów finansowanych z udziałem tych środków, a także odsetki od tych środków i od tych należności;
+- **6a)** należności z tytułu grzywien nałożonych w drodze mandatu karnego w postępowaniu w sprawach o wykroczenia oraz w postępowaniu w sprawach o wykroczenia skarbowe;
+- **7)** dochody pobierane przez państwowe i samorządowe jednostki budżetowe na podstawie odrębnych ustaw;
+- **8)** pobrane przez jednostkę samorządu terytorialnego dochody związane z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostkom samorządu terytorialnego odrębnymi ustawami i nieodprowadzone na rachunek dochodów budżetu państwa.
 
 **Art. 61.**
 
@@ -1306,6 +1413,11 @@ source: "isap-pdf"
 
 **Art. 71.** Do zadań Ministra Finansów w zakresie koordynacji kontroli zarządczej w jednostkach sektora finansów publicznych należy w szczególności:
 
+- **1)** upowszechnianie standardów, o których mowa w art. 69 ust. 3;
+- **2)** wydawanie wytycznych;
+- **3)** współpraca z krajowymi i zagranicznymi organizacjami;
+- **4)** współpraca z komitetami audytu, o których mowa w art. 288.
+
 ### DZIAŁ II Państwowy dług publiczny
 
 #### Rozdział 1 Przepisy ogólne
@@ -1377,7 +1489,18 @@ source: "isap-pdf"
 
 **Art. 76.** Przez potrzeby pożyczkowe budżetu państwa rozumie się zapotrzebowanie na środki finansowe niezbędne do sfinansowania:
 
+- **1)** deficytu:
+    - **a)** budżetu państwa,
+    - **b)** budżetu środków europejskich;
+
+- **2)** rozchodów budżetu państwa.
+
 **Art. 77.** Minister Finansów w celu sfinansowania potrzeb pożyczkowych budżetu państwa oraz w związku z zarządzaniem długiem Skarbu Państwa jest upoważniony do:
+
+- **1)** zaciągania zobowiązań finansowych w imieniu Skarbu Państwa, w szczególności w drodze emisji papierów wartościowych oraz zaciągania pożyczek i kredytów na rynku krajowym i zagranicznym;
+- **2)** spłaty zaciągniętych zobowiązań, o których mowa w pkt 1;
+- **3)** przeprowadzania innych operacji finansowych związanych z zarządzaniem długiem, w tym operacji związanych z finansowymi instrumentami pochodnymi;
+- **4)** zarządzania nadwyżką budżetu środków europejskich.
 
 **Art. 77a.**
 
@@ -1411,9 +1534,15 @@ source: "isap-pdf"
 
 1. W przypadku, o którym mowa w art. 48 ust. 1 pkt 4, Minister Finansów przyjmuje wolne środki w depozyt na warunkach określonych w umowie.
 
-2. Minister Finansów może przyjmować wolne środki podmiotów niebędących jednostkami sektora finansów publicznych, a zaliczanych do sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013, str. 1, z późn. zm. ) w depozyt na warunkach określonych w umowie.
+2. Minister Finansów może przyjmować wolne środki podmiotów niebędących jednostkami sektora finansów publicznych, a zaliczanych do sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013, str. 1, z późn. zm. ) w depozyt na warunkach określonych w umowie, z zastrzeżeniem art. 78ba.
 
-3. Przyjęcie wolnych środków w depozyt na okres do 3 dni od podmiotów, o których mowa w ust. 1 i 2, może nastąpić wyłącznie w przypadku, gdy obsługę bankową prowadzi Bank Gospodarstwa Krajowego.
+3. Przyjęcie wolnych środków w depozyt na okres do 3 dni od podmiotów, o których mowa w ust. 1 i 2, może nastąpić wyłącznie w przypadku, gdy obsługę bankową prowadzi Bank Gospodarstwa Krajowego. Art. 78ba. 1. W przypadku, o którym mowa w art. 48 ust. 4a, Minister Finansów przyjmuje wolne środki w depozyt na warunkach określonych w umowie. Przepis art. 78c stosuje się odpowiednio.
+
+2. Umowa, o której mowa w ust. 1, określa co najmniej:
+
+- **1)** warunki przekazywania i przyjmowania wolnych środków w depozyt, w szczególności terminy przekazywania tych środków i terminy ich zwrotu;
+- **2)** wysokość lub sposób obliczania oprocentowania środków przyjętych w depozyt;
+- **3)** szczegółowe warunki rozwiązywania depozytu przed terminem, na jaki został on utworzony.
 
 **Art. 78c.** W przypadku, o którym mowa w art. 48 ust. 2, wolne środki są przyjmowane w depozyt przez Ministra Finansów na czas oznaczony i podlegają zwrotowi zgodnie z dyspozycją danej jednostki sektora finansów publicznych.
 
@@ -1543,7 +1672,15 @@ source: "isap-pdf"
 
 **Art. 87.** Program sanacyjny obejmuje:
 
+- **1)** wskazanie przyczyn kształtowania się relacji państwowego długu publicznego, o której mowa w art. 38 pkt 1 lit. a;
+- **2)** program przedsięwzięć mających na celu doprowadzenie do ograniczenia relacji, o której mowa w art. 38 pkt 1 lit. a, uwzględniający w szczególności propozycje rozwiązań prawnych mających wpływ na poziom wydatków i rozchodów w sektorze finansów publicznych;
+- **3)** trzyletnią prognozę dotyczącą relacji państwowego długu publicznego do produktu krajowego brutto, wraz z przewidywanym rozwojem sytuacji makroekonomicznej kraju.
+
 **Art. 88.** Przepisów art. 86 i art. 87 nie stosuje się w przypadku wprowadzenia:
+
+- **1)** stanu wojennego;
+- **2)** stanu wyjątkowego na całym terytorium Rzeczypospolitej Polskiej;
+- **3)** stanu klęski żywiołowej na całym terytorium Rzeczypospolitej Polskiej.
 
 #### Rozdział 4 Ogólne zasady zaciągania zobowiązań przez inne niż Skarb Państwa jednostki sektora finansów publicznych
 
@@ -1622,6 +1759,9 @@ source: "isap-pdf"
 6. Skarb Państwa odpowiada całym majątkiem za zobowiązania wynikające z wyemitowanych lub wystawionych skarbowych papierów wartościowych.
 
 **Art. 96.** Skarbowe papiery wartościowe mogą być emitowane lub wystawiane jako papiery wartościowe o pierwotnym terminie wykupu:
+
+- **1)** nie dłuższym niż rok, do których zalicza się w szczególności bony skarbowe (krótkoterminowe skarbowe papiery wartościowe);
+- **2)** dłuższym niż rok, do których zalicza się w szczególności obligacje skarbowe.
 
 **Art. 97.**
 
@@ -1735,6 +1875,28 @@ source: "isap-pdf"
 
 **Art. 111.** Dochodami podatkowymi i niepodatkowymi budżetu państwa są:
 
+- **1)** podatki i opłaty, w części, która zgodnie z odrębnymi ustawami nie stanowi dochodów jednostek samorządu terytorialnego, przychodów państwowych funduszy celowych oraz innych jednostek sektora finansów publicznych;
+- **2)** cła;
+- **3)** wpłaty z zysku przedsiębiorstw państwowych i jednoosobowych spółek Skarbu Państwa oraz banków państwowych;
+- **4)** wpłaty z tytułu dywidendy;
+- **5)** wpłaty z zysku Narodowego Banku Polskiego;
+- **6)** wpłaty nadwyżki środków finansowych agencji wykonawczych;
+- **7)** dochody pobierane przez państwowe jednostki budżetowe, o ile odrębne ustawy nie stanowią inaczej;
+- **8)** dochody z najmu i dzierżawy oraz z innych umów o podobnym charakterze, dotyczące składników majątkowych Skarbu Państwa, o ile odrębne ustawy nie stanowią inaczej;
+- **9)** odsetki od środków zgromadzonych na rachunkach bankowych państwowych jednostek budżetowych lub organów władzy publicznej, o ile odrębne ustawy nie stanowią inaczej;
+- **10)** odsetki od lokat terminowych ustanowionych ze środków zgromadzonych na centralnym rachunku bieżącym budżetu państwa;
+- **11)** odsetki od udzielonych z budżetu państwa pożyczek krajowych i zagranicznych;
+- **12)** grzywny, mandaty i inne kary pieniężne, o ile odrębne ustawy nie stanowią inaczej;
+- **13)** spadki, zapisy i darowizny w postaci pieniężnej na rzecz Skarbu Państwa;
+- **14)** dochody ze sprzedaży majątku, rzeczy i praw, niestanowiące przychodów w rozumieniu art. 5 ust. 1 pkt 4 lit. a i b, o ile odrębne ustawy nie stanowią inaczej;
+- **15)** inne dochody określone w odrębnych ustawach lub umowach międzynarodowych;
+- **16)** środki europejskie i środki, o których mowa w art. 5 ust. 3 pkt 5 lit. a i b, na realizację projektów pomocy technicznej oraz środki, o których mowa w art. 5 ust. 3 pkt 5 lit. c i d i pkt 6 oraz w art. 4 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549), zwanego dalej „rozporządzeniem nr 1306/2013”, a także środki, o których mowa w art. 5 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm. ), zwanego dalej „rozporządzeniem 2021/2116”, po ich przekazaniu na rachunek dochodów budżetu państwa;
+- **16a)** należności państwowych jednostek budżetowych, w tym kary umowne uzyskane w związku z realizacją przez te jednostki projektów finansowanych z udziałem środków europejskich lub środków, o których mowa w art. 5 ust. 3 pkt 6, z wyłączeniem:
+    - **a)** należności potrąconych,
+    - **b)** należności pobranych w części odpowiadającej finansowaniu z budżetu środków europejskich, jeżeli zgodnie z zasadami wdrażania programu albo programu operacyjnego pomniejszają one kwotę wydatków kwalifikowalnych;
+
+- **17)** odsetki wykupywane przez nabywców obligacji skarbowych lub nadwyżka wynikająca z różnicy pomiędzy ceną emisyjną a wartością nominalną zbywanych obligacji skarbowych.
+
 **Art. 112.**
 
 1. Wydatki budżetu państwa są przeznaczone w szczególności na:
@@ -1755,7 +1917,68 @@ source: "isap-pdf"
 
 **Art. 112a.** (uchylony)
 
-**Art. 112a¹.** (uchylony) Art. 112aa. 1. Kwota wydatków na dany rok organów i jednostek, o których mowa w art. 9 pkt 1–3, 5–9, 15, państwowych osób prawnych, o których mowa w art. 9 pkt 14, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, jest obliczana według wzoru: WYD = WYD ⋅E (DEF )⋅WPKB +K +E (∆DD ) przy czym: WYD = WYD DEF ∙ E (DEF E ∙ ) (DEF ) E (DEF ) ∙ √ E ( E ∙ ) ( ) E ( ) WPKB PKB = √ PKB ∙E PKB ( PKB )∙E PKB ( PKB ) w którym poszczególne symbole oznaczają: n – rok, na który jest obliczana kwota wydatków, n−1 – rok poprzedzający rok n, n−2 – rok poprzedzający rok n o dwa lata, n−3 – rok poprzedzający rok n o trzy lata, n−8 – rok poprzedzający rok n o osiem lat, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n ‒ 1 przedłożonym Sejmowi, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, a w przypadku gdy w roku n ‒ 1 zastosowano przepis art. 112d ust. 1 ‒ kwota wydatków, o której mowa w art. 112d ust. 2 albo art. 112da ust. 2, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n ‒ 1 przedłożonym Sejmowi, a w przypadku gdy w roku n ‒ 1 zastosowano przepis art. 112d ust. 1 ‒ kwota wydatków, o której mowa w art. 112d ust. 2 albo art. 112da ust. 2, DEF – ogłoszony przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2a deflator produktu krajowego brutto w roku n−2; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−2; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi deflator produktu krajowego brutto w roku n; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, WPKB – wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych określony w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi z dokładnością do setnych części procentu, K – wielkość korekty kwoty wydatków określona w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi, PKB ⁄ PKB – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2 łączna dynamika wartości produktu krajowego brutto; jeżeli w latach od n−8 do n−2 zawierają się rok s lub lata i , o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, PKB ⁄ PKB – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2b dynamika wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n− 2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n− 1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n; jeżeli w latach n i n−1 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n−1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n−2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E (∆DD ) – prognozowana wartość ogółem działań dyskrecjonalnych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającym rozporządzenie Rady (WE) nr 1466/97 (Dz. Urz. UE L 2024/1263 z 30.04.2024), mających wpływ na dochody organów i jednostek, o których mowa w art. 9 pkt 1–3, 5–9, 15, państwowych osób prawnych, o których mowa w art. 9 pkt 14, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, z tytułu podatków lub składek, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013), planowanych lub przyjętych na rok n, jeżeli wartość każdego z tych działań w okresie 12 kolejnych miesięcy począwszy od miesiąca rozpoczęcia stosowania działania dyskrecjonalnego przekracza 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi; w przypadku planowanej w roku n rezygnacji z działań dyskrecjonalnych dokonanych w latach poprzednich w prognozowanej wartości ogółem działań dyskrecjonalnych w roku n uwzględnia się wpływ na kwotę WYD dokonanych działań dyskrecjonalnych, który wystąpiłby w przypadku braku rezygnacji z tych działań w roku n, z tym że w przypadku dokonywania w roku n aktualizacji wartości działań dyskrecjonalnych uwzględnionych w latach poprzednich nie ma zastosowania warunek przekroczenia przez każde z nich 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi, przy czym rok n nie jest wcześniejszy niż rok 2025. 2. W kwocie wydatków, o której mowa w ust. 1, i kwocie, o którą pomniejsza się tę kwotę zgodnie z ust. 3, oraz limicie wydatków, o którym mowa w ust. 3, nie uwzględnia się:
+**Art. 112a¹.** (uchylony) Art. 112aa. 1. Kwota wydatków na dany rok organów i jednostek, o których mowa w art. 9 pkt 1–3, 5–9, 15, państwowych osób prawnych, o których mowa w art. 9 pkt 14, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, jest obliczana według wzoru: WYD = WYD ⋅E (DEF )⋅WPKB +K +E (∆DD ) przy czym: DEF E (DEF ) WYD = WYD ∙ ∙ E (DEF ) E (DEF ) E ( ) ∙ √ ∙ E ( ) E ( ) PKB PKB PKB WPKB = √ ∙E ( )∙E ( ) PKB PKB PKB w którym poszczególne symbole oznaczają: n – rok, na który jest obliczana kwota wydatków, n−1 – rok poprzedzający rok n, n−2 – rok poprzedzający rok n o dwa lata, n−3 – rok poprzedzający rok n o trzy lata, n−8 – rok poprzedzający rok n o osiem lat, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n ‒ 1 przedłożonym Sejmowi, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, a w przypadku gdy w roku n ‒ 1 zastosowano przepis art. 112d ust. 1 ‒ kwota wydatków, o której mowa w art. 112d ust. 2 albo art. 112da ust. 2, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n ‒ 1 przedłożonym Sejmowi, a w przypadku gdy w roku n ‒ 1 zastosowano przepis art. 112d ust. 1 ‒ kwota wydatków, o której mowa w art. 112d ust. 2 albo art. 112da ust. 2, DEF – ogłoszony przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2a deflator produktu krajowego brutto w roku n−2; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−2; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi deflator produktu krajowego brutto w roku n; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, WPKB – wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych określony w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi z dokładnością do setnych części procentu, K – wielkość korekty kwoty wydatków określona w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi, PKB ⁄ PKB – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2 łączna dynamika wartości produktu krajowego brutto; jeżeli w latach od n−8 do n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, PKB ⁄ PKB – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2b dynamika wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n− 2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n− 1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n; jeżeli w latach n i n−1 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n−1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n−2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ∆DD ) – prognozowana wartość ogółem działań dyskrecjonalnych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającym rozporządzenie Rady (WE) nr 1466/97 (Dz. Urz. UE L 2024/1263 z 30.04.2024), mających wpływ na dochody organów i jednostek, o których mowa w art. 9 pkt 1–3, 5–9, 15, państwowych osób prawnych, o których mowa w art. 9 pkt 14, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, z tytułu podatków lub składek, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013), planowanych lub przyjętych na rok n, jeżeli wartość każdego z tych działań w okresie 12 kolejnych miesięcy począwszy od miesiąca rozpoczęcia stosowania działania dyskrecjonalnego przekracza 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi; w przypadku planowanej w roku n rezygnacji z działań dyskrecjonalnych dokonanych w latach poprzednich w prognozowanej wartości ogółem działań dyskrecjonalnych w roku n uwzględnia się wpływ na kwotę WYD dokonanych działań dyskrecjonalnych, który wystąpiłby w przypadku braku rezygnacji z tych działań w roku n, z tym że w przypadku dokonywania w roku n aktualizacji wartości działań dyskrecjonalnych uwzględnionych w latach poprzednich nie ma zastosowania warunek przekroczenia przez każde z nich 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi, przy czym rok n nie jest wcześniejszy niż rok 2025. 2. W kwocie wydatków, o której mowa w ust. 1, i kwocie, o którą pomniejsza się tę kwotę zgodnie z ust. 3, oraz limicie wydatków, o którym mowa w ust. 3, nie uwzględnia się:
+
+- **1)** wydatków budżetu środków europejskich;
+- **2)** wydatków na realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 1 i 3–6;
+- **3)** wydatków finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2;
+- **4)** wydatków na realizację planu rozwojowego, o którym mowa w art. 5 pkt 7aa ustawy o zasadach prowadzenia polityki rozwoju w zakresie objętym finansowaniem ze środków, o których mowa w art. 5 ust. 3 pkt 5d;
+- **5)** przepływów finansowych między organami i jednostkami, o których mowa w ust. 1, z tytułu dotacji i subwencji;
+- **6)** przepływów finansowych między funduszami zarządzanymi przez Zakład Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego;
+- **7)** wydatków na spłaty wartości nominalnych instrumentów dłużnych, w szczególności kredytów, pożyczek oraz dłużnych papierów wartościowych.
+
+2a. Przepływy finansowe między organami i jednostkami, o których mowa w ust. 1, z tytułu dotacji i subwencji obejmują przepływy finansowe między tymi organami i jednostkami wynikające ze stosunków prawnych, które nazwą odpowiadają dotacjom i subwencjom, oraz z innych stosunków prawnych, które wywołują skutki ekonomiczne odpowiadające dotacjom i subwencjom.
+
+2b. (uchylony) 2c. W kwocie wydatków, o której mowa w ust. 1, i kwocie, o którą pomniejsza się tę kwotę zgodnie z ust. 3, oraz limicie wydatków, o którym mowa w ust. 3, uwzględnia się wartość nominalną skarbowych papierów wartościowych przekazanych nieodpłatnie przez organy i jednostki, o których mowa w ust. 1, podmiotom zaliczanym według stanu na dzień 31 marca roku n−1, o którym mowa w ust. 1, do sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej.
+
+2d. Kwotę wydatków organów i jednostek, o których mowa w ust. 1, ustaloną z uwzględnieniem ust. 2c, pomniejsza się o wartość nominalną skarbowych papierów wartościowych otrzymanych nieodpłatnie przez te organy i jednostki od innych organów i jednostek, o których mowa w ust. 1.
+
+2e. W kwocie wydatków, o której mowa w ust. 1, oraz limicie wydatków, o którym mowa w ust. 3, nie uwzględnia się wydatków budżetu państwa:
+
+- **1)** z tytułu przekazania środków finansowych innym jednostkom niż jednostki, o których mowa w ust. 1, na spłatę zobowiązań objętych poręczeniem lub gwarancją Skarbu Państwa, zaciągniętych przez te jednostki po dniu 13 marca 2020 r., ale nie późnej niż w dniu 30 czerwca 2023 r.;
+- **2)** związanych z udzielonymi przez Skarb Państwa poręczeniami i gwarancjami zobowiązań zaciągniętych przez jednostki inne niż jednostki, o których mowa w ust. 1, po dniu 13 marca 2020 r., ale nie późnej niż w dniu 30 czerwca 2023 r.
+
+3. Kwota wydatków, o której mowa w ust. 1, pomniejszona o kwotę:
+
+- **1)** prognozowanych w projekcie ustawy budżetowej przedłożonym Sejmowi wydatków jednostek, o których mowa w art. 9 pkt 2 i 2a, i samorządowych jednostek budżetowych, uwzględniających założenia makroekonomiczne, o których mowa w art. 142 ust. 1 pkt 2 lit. a–b, oraz wieloletnie prognozy finansowe tych jednostek, a także wysokość wydatków wykonanych w latach poprzednich, po odjęciu kwot odpowiadających wielkościom planowanych przepływów, o których mowa w ust. 2 pkt 5 i 6 oraz ust. 2a, od innych organów i jednostek, o których mowa w ust. 1,
+- **2)** planowanych wydatków organów i jednostek, o których mowa w art. 139 ust. 2, po odjęciu kwot odpowiadających wielkościom planowanych przepływów, o których mowa w ust. 2 pkt 5 i 6 oraz ust. 2a, od innych organów i jednostek, o których mowa w ust. 1,
+- **3)** planowanych wydatków Bankowego Funduszu Gwarancyjnego określonych w planie finansowym Funduszu po odjęciu kwot odpowiadających wielkościom planowanych przepływów, o których mowa w ust. 2 pkt 5 i 6 oraz ust. 2a, od innych organów i jednostek, o których mowa w ust. 1 – oraz powiększona o kwotę prognozowanych na rok n, o którym mowa w ust. 1, działań jednorazowych i tymczasowych po stronie dochodów, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającym rozporządzenie Rady (WE) nr 1466/97, mających wpływ na dochody organów i jednostek, o których mowa w ust. 1, jeżeli wartość każdego z nich przekracza 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 1, przedłożonego Sejmowi, oraz o wartość klauzuli obronnej, o której mowa w ust. 4a, stanowi limit wydatków organów i jednostek, o których mowa w art. 9 pkt 1, państwowych jednostek budżetowych z wyłączeniem organów i jednostek, o których mowa w art. 139 ust. 2, pkt 5–9, państwowych osób prawnych, o których mowa w art. 9 pkt 14, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw.
+
+4. Wielkość korekty kwoty wydatków K , o której mowa w ust. 1:
+
+- **1)** w przypadku gdy najbardziej aktualne prognozy Komisji Europejskiej przewidują, że: w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającym rozporządzenie Rady (WE) nr 1466/97, oraz przestrzeganie wartości odniesienia określonych w art. 126 ust. 2 Traktatu o funkcjonowaniu Unii Europejskiej sprecyzowanych w art. 1 Protokołu (nr 12) w sprawie procedury dotyczącej nadmiernego deficytu, załączonego do Traktatu o Unii Europejskiej i Traktatu o funkcjonowaniu Unii Europejskiej, obliczone według wzoru: DF = −0,5 %⋅E (PKB ) w którym poszczególne symbole oznaczają: 𝐷𝐹 – dostosowanie fiskalne, 𝐸 (𝑃𝐾𝐵 ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok 𝑛, o którym mowa w ust. 1, przedłożonego Sejmowi produkt krajowy brutto w cenach bieżących w roku 𝑛, o którym mowa w ust. 1;
+    - **a)** wartość relacji wyniku nominalnego sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską (Dz. Urz. UE L 145 z 10.06.2009, str. 1, z późn. zm. ) do produktu krajowego brutto w roku n−1 lub roku n, o których mowa w ust. 1, jest niższa niż -3 %, lub
+    - **b)** wartość relacji długu sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską do produktu krajowego brutto w roku n−1 lub w roku n, o których mowa w ust. 1, jest wyższa niż 60 % – nie może być wyższa niż dostosowanie fiskalne, wspierające realizację celu fiskalnego w zakresie poziomu wydatków określonego w średniookresowym planie budżetowo-strukturalnym, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r.
+
+- **2)** w przypadkach innych niż określone w pkt 1 – wynosi 0.
+
+4a. Wartość klauzuli obronnej w roku n, o którym mowa w ust. 1, jest równa różnicy pomiędzy planowanymi wydatkami na cele obronne:
+
+- **1)** budżetu państwa określonymi w art. 40 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26, 426 i 635),
+- **2)** Funduszu Wsparcia Sił Zbrojnych,
+- **3)** Funduszu Inwestycji Kapitałowych,
+- **4)** Funduszu Reprywatyzacji,
+- **5)** Rządowej Agencji Rezerw Strategicznych,
+- **6)** Agencji Mienia Wojskowego – przyjętymi do obliczenia limitu, o którym mowa w ust. 3, a wartością wydatków na cele obronne tych podmiotów ustaloną zgodnie z ust. 4c.
+
+4b. Właściwi dysponenci części budżetowych przekazują Ministrowi Obrony Narodowej dane dotyczące wydatków na cele obronne, o których mowa w ust. 4a, w obszarze swojej właściwości w zakresie, o którym mowa w ust. 4a pkt 3–5, zgodnie z przepisami dotyczącymi prac nad projektem ustawy budżetowej. Do czasu przyjęcia przez Radę Ministrów projektu ustawy budżetowej, w przypadku zaistnienia zmian mających wpływ na wartość klauzuli obronnej, dysponenci części budżetowych przekazują niezwłocznie zmienione dane. 4ba. Minister Obrony Narodowej przekazuje Ministrowi Finansów dane dotyczące wydatków na cele obronne, o których mowa w ust. 4a, w obszarze swojej właściwości w zakresie, o którym mowa w ust. 4a pkt 1, 2 i 6, zgodnie z przepisami dotyczącymi prac nad projektem ustawy budżetowej. Do czasu przyjęcia przez Radę Ministrów projektu ustawy budżetowej, w przypadku zaistnienia zmian mających wpływ na wartość klauzuli obronnej, Minister Obrony Narodowej przekazuje niezwłocznie zmienione dane. Do danych przekazywanych Ministrowi Finansów Minister Obrony Narodowej dołącza dane, o których mowa w ust. 4b.
+
+4c. Wartość wydatków na cele obronne ustala się zgodnie z zasadami ustalania danych, o których mowa w art. 3 ust. 2 lit. c rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską, oraz przekazuje się w formacie, o którym mowa w art. 8 ust. 2 tego rozporządzenia.
+
+4d. (uchylony)
+
+5. (uchylony) Art. 112ab. 1. W przypadku zatwierdzenia przez Radę Unii Europejskiej ścieżki wydatków netto, o której mowa w art. 17 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającego rozporządzenie Rady (WE) nr 1466/97, wielkość korekty kwoty wydatków K , o której mowa w art. 112aa ust. 1, odpowiada dostosowaniu zgodnemu ze ścieżką wydatków netto zatwierdzoną przez Radę Unii Europejskiej w trybie art. 17 tego rozporządzenia.
+
+2. Minister Finansów może wystąpić do Rady Fiskalnej z wnioskiem o wydanie opinii dotyczącej wielkości korekty kwoty wydatków K , o której mowa w art. 112aa ust. 1, wynikającej z art. 112aa ust. 4, oraz wpływu tej korekty na długookresową stabilność finansów publicznych oraz sytuację makroekonomiczną kraju. Przepisy art. 4 ust. 4 i 5 ustawy z dnia 20 grudnia 2024 r. o Radzie Fiskalnej (Dz. U. z 2025 r. poz. 39 i 497), zwanej dalej „ustawą o Radzie Fiskalnej”, stosuje się odpowiednio.
+
+3. Wielkość korekty kwoty wydatków K , o której mowa w art. 112aa ust. 1, może być inna niż wynikająca z ust. 1 lub art. 112aa ust. 4, jeżeli wynika to:
+
+- **1)** z opinii Rady Fiskalnej, o której mowa w ust. 2, lub
+- **2)** z zaleceń Rady Unii Europejskiej wydanych na podstawie art. 121 ust. 2 lub 4 lub art. 126 ust. 7 Traktatu o funkcjonowaniu Unii Europejskiej. Art. 112ac. 1. Określona w ustawie budżetowej kwota planowanego limitu wydatków, o którym mowa w art. 112aa ust. 3, może zostać przekroczona, jeżeli zaistnieją nadzwyczajne okoliczności, pozostające poza kontrolą Rady Ministrów, wywołujące istotne skutki gospodarcze, ekonomiczne lub społeczne, po uzyskaniu pozytywnej opinii Rady Fiskalnej w zakresie skutków tego przekroczenia dla stabilności finansów publicznych i sytuacji makroekonomicznej kraju.
+
+2. W przypadku, o którym mowa w ust. 1, w planach finansowych jednostek, o których mowa w art. 112aa ust. 3, mogą być dokonywane zmiany, w następstwie których zostanie przekroczona kwota planowanego limitu wydatków, o którym mowa w art. 112aa ust. 3, po uzyskaniu opinii, o której mowa w ust. 1, oraz zgody Ministra Finansów, wydanej po uzyskaniu pozytywnej opinii sejmowej komisji właściwej do spraw budżetu.
+
+3. Minister Finansów, występując do Rady Fiskalnej z wnioskiem o wydanie opinii, o której mowa w ust. 1, określa maksymalną wartość tego przekroczenia. Przepisy art. 4 ust. 4 i 5 ustawy o Radzie Fiskalnej stosuje się odpowiednio.
 
 **Art. 112b.** (uchylony)
 
@@ -1780,7 +2003,7 @@ source: "isap-pdf"
 
 2. W przypadkach, o których mowa w ust. 1, Minister Finansów oblicza kwotę wydatków, o której mowa w art. 112aa ust. 1.
 
-3. Po roku, w którym zastosowano przepis ust. 1, do roku poprzedzającego rok, o którym mowa w ust. 4, kwota wydatków, o której mowa w art. 112aa ust. 1, jest obliczana według wzoru: WYD = WYD k−i + (S k +S′ ) w którym poszczególne symbole oznaczają: WYD – kwota wydatków, o której mowa w art. 112aa ust. 1, powiększona o sumę skutków finansowych związanych ze stanem, o którym mowa w ust. 1, WYD – kwota wydatków, o której mowa w art. 112aa ust. 1, n – rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, s – rok zastosowania przepisu ust. 1, i – kolejne lata po roku, w którym zastosowano przepis ust. 1, przy czym i = {1, 2, 3}, k – rok, w którym kwota wydatków będzie obliczona zgodnie z art. 112aa ust. 1, licząc od roku następującego po roku, w którym zastosowano przepis ust. 1, przy czym k = {2, 3, 4}, S – suma prognozowanych w uzasadnieniu projektu ustawy budżetowej na rok s przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok s przedłożonego Sejmowi skutków finansowych po stronie dochodów i wydatków wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów, S′ – korekta sumy skutków finansowych po stronie dochodów i wydatków poniesionych w roku s wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów, wynikająca ze sprawozdania z wykonania ustawy budżetowej na rok s albo 0 w pozostałych przypadkach.
+3. Po roku, w którym zastosowano przepis ust. 1, do roku poprzedzającego rok, o którym mowa w ust. 4, kwota wydatków, o której mowa w art. 112aa ust. 1, jest obliczana według wzoru: k−i WYD = WYD + (S +S′ ) k w którym poszczególne symbole oznaczają: WYD – kwota wydatków, o której mowa w art. 112aa ust. 1, powiększona o sumę skutków finansowych związanych ze stanem, o którym mowa w ust. 1, WYD – kwota wydatków, o której mowa w art. 112aa ust. 1, n – rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, s – rok zastosowania przepisu ust. 1, i – kolejne lata po roku, w którym zastosowano przepis ust. 1, przy czym i = {1, 2, 3}, k – rok, w którym kwota wydatków będzie obliczona zgodnie z art. 112aa ust. 1, licząc od roku następującego po roku, w którym zastosowano przepis ust. 1, przy czym k = {2, 3, 4}, S – suma prognozowanych w uzasadnieniu projektu ustawy budżetowej na rok s przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok s przedłożonego Sejmowi skutków finansowych po stronie dochodów i wydatków wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów, S′ – korekta sumy skutków finansowych po stronie dochodów i wydatków poniesionych w roku s wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów, wynikająca ze sprawozdania z wykonania ustawy budżetowej na rok s albo 0 w pozostałych przypadkach.
 
 4. Rokiem, w którym kwota wydatków będzie obliczana zgodnie z art. 112aa ust. 1, licząc od roku następującego po roku zastosowania przepisu ust. 1, jest rok:
 
@@ -1981,6 +2204,11 @@ source: "isap-pdf"
 
 **Art. 123.** Plany finansowe:
 
+- **1)** agencji wykonawczych,
+- **2)** instytucji gospodarki budżetowej,
+- **3)** państwowych funduszy celowych,
+- **4)** państwowych osób prawnych, o których mowa w art. 9 pkt 8 i 14 – ujmuje się oddzielnie dla każdej z tych jednostek.
+
 #### Rozdział 3 Przeznaczenie wydatków budżetu państwa
 
 **Art. 124.**
@@ -2110,6 +2338,74 @@ source: "isap-pdf"
 
 **Art. 133a.** Inwestycje finansowane lub dofinansowane z budżetu państwa w łącznej kwocie stanowiącej minimum 50 % wartości kosztorysowej, z wyłączeniem inwestycji współfinansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 1, podlegają obowiązkowi przeprowadzania corocznej oceny stopnia realizacji założonych celów, w ramach kontroli zarządczej w jednostkach sektora finansów publicznych. Art. 133aa. 1. Przed podjęciem decyzji o realizacji inwestycji, której szacunkowy łączny koszt wynosi co najmniej 10 000 tys. zł, finansowanej lub dofinansowanej w łącznej kwocie stanowiącej co najmniej 50 % szacunkowego łącznego kosztu inwestycji:
 
+- **1)** z wydatków:
+    - **a)** budżetu państwa lub
+    - **b)** państwowych funduszy celowych, lub
+    - **c)** funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, lub
+
+- **2)** z wykorzystaniem skarbowych papierów wartościowych otrzymanych nieodpłatnie na podstawie przepisów odrębnych – podmiot, który zamierza ją realizować, sporządza ocenę w zakresie zgodności wydatkowania tych środków z zasadami celowego i oszczędnego dokonywania wydatków publicznych określonymi w art. 44 ust. 3 pkt 1, zwaną dalej „oceną inwestycji”.
+
+2. Przepisu ust. 1 nie stosuje się do inwestycji:
+
+- **1)** współfinansowanych ze środków, o których mowa w art. 5 ust. 1 pkt 2–3;
+- **2)** organów i jednostek, o których mowa w art. 139 ust. 2;
+- **3)** jednostek samorządu terytorialnego oraz ich związków, związków metropolitalnych, a także ich jednostek organizacyjnych, samorządowych osób prawnych oraz spółek kapitałowych, w których wartość nominalna udziałów albo akcji należących do jednostek samorządu terytorialnego, ich związków albo związków metropolitalnych stanowi niemniej niż 51 % kapitału zakładowego spółki lub w których jednostki samorządu terytorialnego, ich związki albo związki metropolitalne dysponują bezpośrednio większością głosów na zgromadzeniu wspólników albo walnym zgromadzeniu;
+- **4)** w dziedzinie obronności i bezpieczeństwa, w tym służących:
+    - **a)** zabezpieczeniu granicy państwowej,
+    - **b)** zapewnieniu bezpieczeństwa paliwowego państwa i bezpieczeństwa gazowego państwa w rozumieniu odpowiednio art. 2 ust. 1 pkt 1 i 1a ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2024 r. poz. 1281 oraz z 2025 r. poz. 1168 i 1303),
+    - **c)** zapewnieniu bezpieczeństwa infrastruktury krytycznej w rozumieniu art. 3 pkt 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122, z późn. zm. ).
+
+3. Ocena inwestycji jest sporządzana z uwzględnieniem w szczególności następujących kryteriów:
+
+- **1)** zgodności z:
+    - **a)** celami wynikającymi odpowiednio ze strategii rozwoju, o których mowa w art. 9 ustawy o zasadach prowadzenia polityki rozwoju, lub
+    - **b)** politykami społecznymi lub gospodarczymi państwa;
+
+- **2)** celowości objęcia inwestycji finansowaniem lub dofinansowaniem ze środków publicznych;
+- **3)** oceny finansowej inwestycji, w tym przewidywanych kosztów jej utrzymania;
+- **4)** efektywności inwestycji;
+- **5)** możliwości wykorzystania alternatywnych źródeł finansowania lub dofinansowania inwestycji.
+
+4. Ocena inwestycji jest brana pod uwagę przez:
+
+- **1)** udzielającego finansowania lub dofinansowania inwestycji – w przypadku wydatków, o których mowa w ust. 1 pkt 1;
+- **2)** organ nadzorujący jednostkę, która miałaby otrzymać skarbowe papiery wartościowe – w przypadku, o którym mowa w ust. 1 pkt 2.
+
+5. Minister kierujący działem dla kierowanego przez niego działu oraz Prezes Rady Ministrów dla jednostek, o których mowa w art. 33a ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2025 r. poz. 1275 i 1846 oraz z 2026 r. poz. 160 i 187), dla zapewnienia jednolitości i obiektywnego stosowania kryteriów, o których mowa w ust. 3, opracowują opisy tych kryteriów i publikują je w Biuletynie Informacji Publicznej na stronach podmiotowych obsługujących ich urzędów.
+
+6. Oceny inwestycji nie przeprowadza się, jeżeli przepisy odrębne przewidują przeprowadzenie oceny takiej inwestycji i określają elementy tej oceny odpowiadające kryteriom wskazanym w ust. 3, a opis tych elementów jest opublikowany w Biuletynie Informacji Publicznej na stronach podmiotowych urzędów obsługujących organy, o których mowa w ust. 5.
+
+7. Przez inwestycję, o której mowa w ust. 1, rozumie się nakłady na niefinansowe aktywa trwałe (wydatki inwestycyjne), do których zalicza się wydatki na:
+
+- **1)** nabycie lub wytworzenie aktywów trwałych;
+- **2)** ulepszenie istniejących środków trwałych;
+- **3)** pierwsze wyposażenie obiektów budowlanych.
+
+8. Dla ustalenia wartości finansowania lub dofinansowania inwestycji, o której mowa w ust. 1, w zakresie, w jakim następuje ono z wykorzystaniem skarbowych papierów wartościowych, przyjmuje się wartość nominalną tych skarbowych papierów wartościowych.
+
+9. Podmiot realizujący inwestycję, o której mowa w ust. 1, nie może w celu uniknięcia stosowania przepisu ust. 1 dzielić inwestycji. Art. 133ab. 1. Jeżeli szacunkowy łączny koszt inwestycji, o której mowa w art. 133aa ust. 1, przekracza 500 000 tys. zł, podmiot, o którym mowa w art. 133aa ust. 4, publikuje ocenę inwestycji w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu go obsługującego.
+
+2. Przepisu ust. 1 nie stosuje się w przypadku, o którym mowa w art. 133aa ust. 6. Art. 133ac. 1. W przypadku gdy wartość kosztorysowa inwestycji, o której mowa w art. 133aa ust. 1, w odniesieniu do której podjęto decyzję o realizacji, przekracza kwotę 100 000 tys. zł, właściwy dysponent części budżetowej będący ministrem, kierownikiem urzędu centralnego lub wojewodą corocznie sporządza informację o inwestycji.
+
+2. Informacja, o której mowa w ust. 1, jest sporządzana także w przypadku inwestycji finansowanej lub dofinansowanej z wydatków lub skarbowych papierów wartościowych, o których mowa odpowiednio w art. 133aa ust. 1 pkt 1 lit. b i c i pkt 2.
+
+3. Przepisu ust. 1 nie stosuje się w przypadku inwestycji, o których mowa w art. 133aa ust. 2.
+
+4. Informacja, o której mowa w ust. 1, obejmuje co najmniej wskazanie:
+
+- **1)** nazwy inwestycji;
+- **2)** podmiotu realizującego inwestycję;
+- **3)** wartości kosztorysowej inwestycji;
+- **4)** okresu realizacji inwestycji;
+- **5)** źródeł finansowania inwestycji;
+- **6)** wysokości wydatków lub wartości nominalnej skarbowych papierów wartościowych, przeznaczonych na ten cel do końca roku poprzedzającego rok budżetowy;
+- **7)** wysokości wydatków lub wartości nominalnej skarbowych papierów wartościowych, przeznaczonych na ten cel w tym roku budżetowym;
+- **8)** oczekiwanych korzyści wynikających z realizacji inwestycji.
+
+5. Informacja, o której mowa w ust. 1, jest publikowana w Biuletynie Informacji Publicznej na stronach podmiotowych urzędów obsługujących organy, o których mowa w ust. 1, w terminie 2 miesięcy od dnia ogłoszenia ustawy budżetowej.
+
+6. Minister Finansów publikuje w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzór informacji, o której mowa w ust. 1.
+
 **Art. 133b.**
 
 1. Planowanie inwestycji przez podmiot publiczny, w rozumieniu art. 2 pkt 1 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637), w tym inwestycji objętych programami rozwoju, o których mowa w art. 15 ust. 4 pkt 2 ustawy o zasadach prowadzenia polityki rozwoju, wymaga wydania niewiążącej opinii ministra właściwego do spraw rozwoju regionalnego w przedmiocie sposobu realizacji inwestycji, jeżeli planowana kwota finansowania z budżetu państwa tych inwestycji przekracza 500 000 tys. zł.
@@ -2164,6 +2460,10 @@ source: "isap-pdf"
 2. Minister właściwy do spraw rozwoju regionalnego nie ujawnia informacji pozyskanych w związku z wydaniem opinii, o której mowa w art. 133b ust. 1, jeżeli groziłoby to ujawnieniem tajemnicy przedsiębiorstwa lub innych tajemnic ustawowo chronionych.
 
 **Art. 134.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb finansowania inwestycji z budżetu państwa, w tym określania wysokości kwot dotacji w kolejnych latach realizacji inwestycji, a w szczególności:
+
+- **1)** warunki finansowania inwestycji ze środków budżetu państwa i ocenę efektywności ich wykorzystania,
+- **2)** sposób przekazywania środków budżetu państwa przewidzianych na finansowanie inwestycji,
+- **3)** sposób rozliczania inwestycji finansowanych ze środków budżetu państwa – z uwzględnieniem zasady, że łączna kwota środków z budżetu państwa nie może być wyższa niż wartość kosztorysowa inwestycji określona przy rozpoczęciu jej realizacji, obejmująca koszty przygotowania do realizacji, koszty robót budowlanych, koszty nadzoru nad wykonywaniem robót budowlanych i koszty pierwszego wyposażenia, oraz z uwzględnieniem warunków dokonywania wydatków przez państwowe jednostki budżetowe i zasad udzielania dotacji na realizację inwestycji innym jednostkom.
 
 **Art. 135.**
 
@@ -2277,7 +2577,7 @@ source: "isap-pdf"
     - **a)** wielkości wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 1,
     - **b)** wielkości korekty kwoty wydatków, o której mowa w art. 112aa ust. 1,
     - **c)** wartości klauzuli obronnej, o której mowa w art. 112aa ust. 4a,
-    - **d)** różnicach, o których mowa w art. 112aa ust. 4a pkt 1–3,
+    - **d)** (uchylona)
     - **e)** każdym dyskrecjonalnym działaniu przekraczającym 0,03 % wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 1,
     - **f)** aktualizacji wartości działań dyskrecjonalnych, o których mowa w art. 112aa ust. 1,
     - **g)** każdym jednorazowym i tymczasowym działaniu po stronie dochodów przekraczającym 0,03 % wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 3;
@@ -2353,6 +2653,9 @@ source: "isap-pdf"
 
 **Art. 148.** W terminie 21 dni od dnia ogłoszenia ustawy budżetowej dysponenci części budżetowych przekazują:
 
+- **1)** jednostkom samorządu terytorialnego informacje o kwotach dotacji celowych, dotacji na zadania z zakresu administracji rządowej, zadania inspekcji i straży, dotacji na realizację zadań własnych oraz o kwotach dochodów związanych z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych odrębnymi ustawami jednostkom samorządu terytorialnego, określonych w ustawie budżetowej;
+- **2)** samorządom województw informacje o środkach na realizację programów finansowanych z udziałem środków europejskich, dla których zarządy województw są instytucją zarządzającą lub pośredniczącą, określonych w ustawie budżetowej.
+
 **Art. 149.**
 
 1. Dotacje celowe na realizację zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami są przekazywane jednostce samorządu terytorialnego przez wojewodę w terminie umożliwiającym pełne i terminowe wykonywanie zadań.
@@ -2363,6 +2666,13 @@ source: "isap-pdf"
 - **2)** dyrektorów urzędów statystycznych na finansowanie zadań związanych z organizacją spisów powszechnych i rolnych.
 
 **Art. 150.** Dysponent części budżetowej lub dysponent środków, o których mowa w art. 127 ust. 2, udzielając dotacji celowej, w tym jednostce sektora finansów publicznych, w przypadku gdy odrębne przepisy lub umowa międzynarodowa nie określają trybu i zasad udzielania lub rozliczania tej dotacji, zawiera umowę, która określa w szczególności:
+
+- **1)** szczegółowy opis zadania, w tym cel, na jaki dotacja została przyznana, i termin jego wykonania;
+- **2)** wysokość udzielonej dotacji;
+- **3)** termin wykorzystania dotacji, nie dłuższy niż do dnia 31 grudnia danego roku budżetowego;
+- **4)** termin i sposób rozliczenia udzielonej dotacji;
+- **5)** termin zwrotu niewykorzystanej części dotacji, nie dłuższy niż 15 dni od określonego w umowie dnia wykonania zadania, a w przypadku zadania realizowanego za granicą – 30 dni od określonego w umowie dnia jego wykonania;
+- **6)** tryb kontroli wykonania zadania; w umowie można postanowić, że kontrola będzie prowadzona na zasadach i w trybie określonych w przepisach o kontroli w administracji rządowej.
 
 **Art. 151.**
 
@@ -2472,6 +2782,11 @@ source: "isap-pdf"
 4. Rada Ministrów, wydając rozporządzenie, o którym mowa w ust. 3, uwzględnia właściwość podmiotów realizujących zadania oraz zakres tych zadań.
 
 **Art. 162.** W toku wykonywania budżetu państwa obowiązują następujące zasady gospodarki finansowej:
+
+- **1)** ustalanie, pobieranie i odprowadzanie dochodów budżetu państwa następuje na zasadach i w terminach wynikających z obowiązujących przepisów;
+- **2)** pełna realizacja zadań następuje w terminach określonych przepisami i harmonogramem, o którym mowa w art. 147 ust. 1;
+- **3)** dokonywanie wydatków następuje w granicach kwot określonych w planie finansowym, z uwzględnieniem prawidłowo dokonanych przeniesień i zgodnie z planowanym przeznaczeniem, w sposób celowy i oszczędny, z zachowaniem zasady uzyskiwania najlepszych efektów z danych nakładów;
+- **4)** zlecanie zadań powinno następować na zasadzie wyboru najkorzystniejszej oferty, z uwzględnieniem przepisów o zamówieniach publicznych, o partnerstwie publiczno-prywatnym oraz o umowie koncesji na roboty budowlane lub usługi, a w odniesieniu do organizacji pozarządowych – z odpowiednim zastosowaniem art. 43 i art. 151.
 
 **Art. 163.**
 
@@ -2632,6 +2947,11 @@ source: "isap-pdf"
 
 **Art. 174.** Minister Finansów sprawuje ogólną kontrolę:
 
+- **1)** realizacji dochodów i wydatków oraz przychodów i rozchodów budżetu państwa;
+- **2)** (uchylony)
+- **3)** wykorzystania środków, o których mowa w art. 5 ust. 1 pkt 2;
+- **4)** finansów publicznych.
+
 **Art. 175.**
 
 1. Dysponenci części budżetowych sprawują nadzór i kontrolę: [1) nad całością gospodarki finansowej podległych im jednostek organizacyjnych, w tym nad dokonywaniem przez te jednostki wstępnej oceny celowości poniesionych wydatków oraz realizacją właściwych procedur;] <1) nad całością gospodarki finansowej podległych im jednostek organizacyjnych, w tym nad dokonywaniem przez te jednostki wstępnej oceny celowości poniesionych wydatków oraz realizacją właściwych procedur, w tym stosowaniem kryteriów oceny inwestycji;>
@@ -2687,6 +3007,10 @@ source: "isap-pdf"
 
 **Art. 175c.** Minister Finansów sporządza program przeglądu wydatków, który zawiera w szczególności cel i szczegółowy zakres przeglądu wydatków, w porozumieniu z:
 
+- **1)** dysponentem części budżetowej, którego wydatki (koszty) będą podlegały przeglądowi wydatków;
+- **2)** organem nadzorującym jednostkę, której wydatki (koszty) będą podlegały przeglądowi wydatków;
+- **3)** Szefem Kancelarii Prezesa Rady Ministrów, jeżeli będzie uczestniczył w przeglądzie wydatków.
+
 **Art. 175d.**
 
 1. W przeglądzie wydatków uczestniczą, w szczególności dokonują identyfikacji i analizy nakładów oraz efektów wydatkowania środków publicznych:
@@ -2721,9 +3045,20 @@ source: "isap-pdf"
 
 **Art. 175f.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** tryb:
+    - **a)** sporządzania i opiniowania planu przeglądu wydatków,
+    - **b)** sporządzania i uzgadniania programu przeglądu wydatków oraz raportu,
+
+- **2)** sposób monitorowania przez Ministra Finansów wykorzystania propozycji zmian, o których mowa w art. 175e ust. 2 i 3 – mając na względzie konieczność zapewnienia sprawnej i skutecznej realizacji przeglądu wydatków oraz potrzebę osiągnięcia celu przeglądu wydatków.
+
 **Art. 175g.** Minister Finansów zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu go obsługującego wytyczne w zakresie prowadzenia przeglądu wydatków.
 
 **Art. 175h.** W związku z prowadzonym przeglądem wydatków jednostki, których wydatki (koszty) podlegają przeglądowi wydatków, dysponenci części budżetowych, których wydatki (koszty) podlegają przeglądowi wydatków, oraz organy nadzorujące jednostki, których wydatki (koszty) podlegają przeglądowi wydatków, przekazują Ministrowi Finansów, na jego żądanie, dokumenty, informacje i dane dotyczące:
+
+- **1)** celów działalności państwa, których osiąganiu służą poniesione wydatki,
+- **2)** środków służących osiągnięciu zamierzonych celów,
+- **3)** poniesionych wydatków,
+- **4)** uzyskanych efektów – z zachowaniem przepisów o tajemnicy ustawowo chronionej.
 
 **Art. 176.**
 
@@ -2858,9 +3193,8 @@ source: "isap-pdf"
 - **4)** informacje dotyczące otrzymanych i wydatkowanych środków, o których mowa w art. 5 ust. 1 pkt 2 i 3;
 - **5)** (uchylony)
 - **6)** informację o realizacji kwoty wydatków obliczonej zgodnie z art. 112aa ust. 1 albo art. 112d ust. 3 oraz kwoty limitu wydatków, o którym mowa w art. 112aa ust. 3;
-- **6a)** informację o różnicy pomiędzy wykonanymi wydatkami na zakup sprzętu wojskowego a wartością dokonanych dostaw sprzętu wojskowego;
-- **6b)** informację o wykonaniu planów finansowych funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw.
-- **7)** (uchylony) 4a. W roku s, o którym mowa w art. 112d ust. 3, do sprawozdania nie dołącza się informacji, o których mowa w ust. 4 pkt 6 i 6a.
+- **6a)** (uchylony) 6b) informację o wykonaniu planów finansowych funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw.
+- **7)** (uchylony) 4a. W roku s, o którym mowa w art. 112d ust. 3, do sprawozdania nie dołącza się informacji, o której mowa w ust. 4 pkt 6.
 
 4b. (uchylony)
 
@@ -2898,6 +3232,13 @@ source: "isap-pdf"
 **Art. 185.** W trakcie wykonywania budżetu środków europejskich wydatki dokonywane w ramach płatności są klasyfikowane w podziale na części, działy, rozdziały i paragrafy klasyfikacji wydatków.
 
 **Art. 186.** Wydatki na realizację programów i projektów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, mogą być przeznaczone na:
+
+- **1)** realizację projektów przez jednostki budżetowe;
+- **2)** płatności w ramach programów finansowanych z udziałem środków europejskich;
+- **3)** dotacje celowe dla beneficjentów;
+- **4)** realizację projektów finansowanych w ramach Programu Środki Przejściowe;
+- **5)** realizację wspólnej polityki rolnej zgodnie z odrębnymi ustawami;
+- **6)** realizację planu rozwojowego, o którym mowa w art. 5 pkt 7aa ustawy o zasadach prowadzenia polityki rozwoju.
 
 **Art. 187.** Za obsługę płatności w ramach programów finansowanych z udziałem środków europejskich, zwanych dalej „płatnościami”, odpowiada Minister Finansów.
 
@@ -2958,6 +3299,9 @@ source: "isap-pdf"
 6. Przepisy ust. 1–4 stosuje się odpowiednio do projektów realizowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2.
 
 **Art. 190.** W przypadku gdy beneficjentem projektu finansowanego ze środków europejskich jest jednostka sektora finansów publicznych:
+
+- **1)** wydatek kwalifikowalny rozliczany w sposób określony w art. 67 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 lub w sposób określony w art. 53 ust. 1 lit. a rozporządzenia ogólnego powinien zostać ujęty we wniosku o płatność przekazywanym właściwej instytucji w terminie do 3 miesięcy, licząc od ostatniego dnia miesiąca, w którym został poniesiony;
+- **2)** wydatek kwalifikowalny rozliczany w sposób określony w art. 67 ust. 1 lit. b–e rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 lub w sposób określony w art. 53 ust. 1 lit. b–d rozporządzenia ogólnego powinien zostać ujęty we wniosku o płatność po spełnieniu warunków określonych w umowie lub decyzji o dofinansowaniu, nie później niż we wniosku o płatność końcową.
 
 **Art. 191.**
 
@@ -3063,6 +3407,15 @@ source: "isap-pdf"
 
 **Art. 198.** Minister Finansów, kierując się ogólnie sprawowaną kontrolą realizacji dochodów i wydatków budżetu państwa, określi, w drodze rozporządzenia, szczegółowy sposób wykonywania budżetu państwa, w tym:
 
+- **1)** sposób i warunki ustanawiania przez dysponentów części budżetowych dysponentów drugiego i trzeciego stopnia;
+- **2)** tryb i terminy przekazywania:
+    - **a)** na centralny rachunek bieżący budżetu państwa dochodów pobieranych przez urzędy obsługujące organy podatkowe i państwowe jednostki budżetowe z rachunków, o których mowa w art. 196 ust. 1 pkt 2 i 3,
+    - **b)** z centralnego rachunku bieżącego budżetu państwa środków na rachunki, o których mowa w art. 196 ust. 1 pkt 2 i 3, z tytułu zwrotu nadpłat dochodów, określonych w odrębnych przepisach, dokonywanych z tych rachunków,
+    - **c)** z centralnego rachunku bieżącego budżetu państwa środków na rachunki, o których mowa w art. 196 ust. 1 pkt 2, w celu dokonywania wydatków przez te jednostki,
+    - **d)** na centralny rachunek bieżący budżetu państwa niewykorzystanych środków, o których mowa w art. 197 ust. 3,
+    - **e)** na centralny rachunek bieżący budżetu państwa środków, o których mowa w art. 5 ust. 1 pkt 2,
+    - **f)** środków pozostałych po uregulowaniu zobowiązań, o których mowa w art. 181 ust. 9.
+
 **Art. 199.**
 
 1. Obsługa bankowa rachunków budżetu państwa jest prowadzona w ramach umowy rachunku bankowego.
@@ -3085,6 +3438,13 @@ source: "isap-pdf"
 2. Minister Finansów przedstawia do zaopiniowania ministrowi właściwemu do spraw rozwoju regionalnego oraz ministrowi właściwemu do spraw rybołówstwa projekt umowy, o której mowa w ust. 1.
 
 **Art. 201.** Umowa rachunku bankowego, o której mowa w art. 200 ust. 1, określa w szczególności:
+
+- **1)** liczbę i rodzaje prowadzonych rachunków bankowych;
+- **2)** wysokość oprocentowania rachunków bankowych;
+- **3)** rodzaje sprawozdań z realizacji zadań przez Bank Gospodarstwa Krajowego i terminy ich składania;
+- **4)** tryb dokonywania kontroli zadań realizowanych przez Bank Gospodarstwa Krajowego;
+- **5)** wynagrodzenie Banku Gospodarstwa Krajowego z tytułu realizowanych zadań;
+- **6)** zakres odpowiedzialności Banku Gospodarstwa Krajowego, w tym w szczególności za nieterminową realizację zadań.
 
 ### DZIAŁ IV Środki europejskie i inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi
 
@@ -3234,7 +3594,7 @@ source: "isap-pdf"
 
 1a. Zgłoszenie podmiotu do rejestru, o którym mowa w ust. 1, odbywa się za pośrednictwem elektronicznej platformy usług administracji publicznej ePUAP, o której mowa w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-1b. Minister Finansów udostępnia informacje zawarte w rejestrze, o którym mowa w ust. 1, za pośrednictwem systemu teleinformatycznego, o którym mowa w ust. 1, instytucjom zarządzającym, organom pełniącym funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, instytucjom pośredniczącym, operatorom programów, instytucjom wdrażającym, instytucji certyfikującej, instytucji audytowej oraz beneficjentom projektów grantowych.
+1b. Minister Finansów udostępnia informacje zawarte w rejestrze, o którym mowa w ust. 1, za pośrednictwem systemu teleinformatycznego, o którym mowa w ust. 1, instytucjom zarządzającym, organom pełniącym funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, instytucjom pośredniczącym, operatorom programów, instytucjom wdrażającym, instytucji certyfikującej, instytucji audytowej, dyrektorowi izby administracji skarbowej działającemu jako organ wykonujący audyt, o którym mowa w art. 95 ust. 1 pkt 1 i 1a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131, 1423, 1820 i 1863 oraz z 2026 r. poz. 415 i 483), oraz beneficjentom projektów grantowych.
 
 1c. Minister Finansów udostępnia informacje zawarte w rejestrze, o którym mowa w ust. 1, beneficjentom w zakresie ich własnego statusu.
 
@@ -3293,6 +3653,10 @@ source: "isap-pdf"
 **Art. 213.** W uchwale budżetowej nie zamieszcza się przepisów niezwiązanych z wykonywaniem budżetu jednostki samorządu terytorialnego.
 
 **Art. 214.** W załącznikach do uchwały budżetowej zamieszcza się:
+
+- **1)** zestawienie planowanych kwot dotacji udzielanych z budżetu jednostki samorządu terytorialnego;
+- **2)** plan dochodów rachunku dochodów jednostek, o których mowa w art. 223 ust. 1, oraz wydatków nimi finansowanych;
+- **3)** plany przychodów i kosztów samorządowych zakładów budżetowych.
 
 **Art. 215.**
 
@@ -3525,7 +3889,19 @@ source: "isap-pdf"
 
 **Art. 230a.** Regionalna izba obrachunkowa przekazuje, w formie dokumentu elektronicznego, Ministrowi Finansów:
 
+- **1)** projekty wieloletnich prognoz finansowych, o których mowa w art. 230 ust. 2, wraz z wynikami opinii;
+- **2)** wieloletnie prognozy finansowe wraz z wynikami rozstrzygnięć nadzorczych.
+
 **Art. 230b.** Minister Finansów określi, w drodze rozporządzenia:
+
+- **1)** wzór wieloletniej prognozy finansowej jednostki samorządu terytorialnego oraz załącznika, o których mowa w art. 226 ust. 1 i 3,
+- **2)** sposób przekazywania przez jednostkę samorządu terytorialnego regionalnej izbie obrachunkowej:
+    - **a)** projektów uchwał, o których mowa w art. 230 ust. 2,
+    - **b)** uchwał i zarządzeń w sprawie wieloletniej prognozy finansowej,
+
+- **3)** sposób i terminy przekazywania przez regionalne izby obrachunkowe Ministrowi Finansów:
+    - **a)** projektów wieloletnich prognoz finansowych, o których mowa w art. 230 ust. 2, wraz z wynikami opinii,
+    - **b)** wieloletnich prognoz finansowych wraz z wynikami rozstrzygnięć nadzorczych – mając na względzie potrzebę zapewnienia jawności i przejrzystości finansów publicznych, sporządzenia realistycznych prognoz finansowych jednostek samorządu terytorialnego oraz uzyskania przez Ministra Finansów informacji umożliwiających realizację zadań, o których mowa w art. 74 i art. 174 pkt 4.
 
 **Art. 231.**
 
@@ -3549,7 +3925,15 @@ source: "isap-pdf"
 
 **Art. 233.** Inicjatywa w sprawie sporządzenia projektu uchwały:
 
+- **1)** budżetowej,
+- **2)** o prowizorium budżetowym,
+- **3)** o zmianie uchwały budżetowej – przysługuje wyłącznie zarządowi jednostki samorządu terytorialnego.
+
 **Art. 234.** Uchwała organu stanowiącego jednostki samorządu terytorialnego w sprawie trybu prac nad projektem uchwały budżetowej określa w szczególności:
+
+- **1)** wymaganą szczegółowość projektu budżetu jednostki samorządu terytorialnego;
+- **2)** terminy obowiązujące w toku prac nad projektem uchwały budżetowej jednostki samorządu terytorialnego;
+- **3)** wymogi dotyczące uzasadnienia i materiały informacyjne, które zarząd przedłoży organowi stanowiącemu jednostki samorządu terytorialnego wraz z projektem uchwały budżetowej.
 
 **Art. 235.**
 
@@ -3731,6 +4115,8 @@ source: "isap-pdf"
 
 **Art. 243a.** Środków, o których mowa w art. 26 ust. 2 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708 oraz z 2025 r. poz.
 
+- **1069)** , ani świadczeń emitenta należnych obligatariuszom uprawnionym z obligacji przychodowych nie uwzględnia się przy ustalaniu ograniczeń zadłużenia jednostek samorządu terytorialnego, o których mowa w art. 243.
+
 **Art. 244.**
 
 1. Do łącznej kwoty przypadających w danym roku budżetowym spłat i wykupów, o których mowa w art. 243 ust. 1, dodaje się, przypadające do spłaty w tym samym roku budżetowym, kwoty zobowiązań związku współtworzonego przez daną jednostkę samorządu terytorialnego:
@@ -3791,6 +4177,10 @@ source: "isap-pdf"
 
 **Art. 250.** Zarząd jednostki samorządu terytorialnego, udzielając dotacji celowej, w tym jednostce sektora finansów publicznych, w przypadku gdy odrębne przepisy lub umowa międzynarodowa nie określają trybu i zasad udzielania lub rozliczania tej dotacji, zawiera umowę, która określa w szczególności:
 
+- **1)** wysokość dotacji, cel lub opis zakresu rzeczowego zadania, na którego realizację są przekazywane środki dotacji;
+- **2)** termin wykorzystania dotacji, nie dłuższy niż do dnia 31 grudnia danego roku budżetowego;
+- **3)** termin i sposób rozliczenia udzielonej dotacji oraz termin zwrotu niewykorzystanej części dotacji celowej, z tym że termin ten nie może być dłuższy niż terminy zwrotu określone w niniejszym dziale.
+
 **Art. 251.**
 
 1. Dotacje udzielone z budżetu jednostki samorządu terytorialnego w części niewykorzystanej do końca roku budżetowego podlegają zwrotowi do budżetu tej jednostki w terminie do dnia 31 stycznia następnego roku, z zastrzeżeniem terminów wynikających z przepisów wydanych na podstawie art. 189 ust. 4.
@@ -3827,6 +4217,11 @@ source: "isap-pdf"
 
 **Art. 254.** W toku wykonywania budżetu jednostki samorządu terytorialnego obowiązują następujące zasady gospodarki finansowej:
 
+- **1)** ustalanie, pobieranie i odprowadzanie dochodów budżetu jednostki samorządu terytorialnego następuje na zasadach i w terminach wynikających z obowiązujących przepisów;
+- **2)** pełna realizacja zadań następuje w terminach określonych w przepisach i harmonogramie, o którym mowa w art. 249 ust. 6, jeżeli został on opracowany;
+- **3)** dokonywanie wydatków następuje w granicach kwot określonych w planie finansowym, z uwzględnieniem prawidłowo dokonanych przeniesień i zgodnie z planowanym przeznaczeniem, w sposób celowy i oszczędny, z zachowaniem zasady uzyskiwania najlepszych efektów z danych nakładów;
+- **4)** zlecanie zadań powinno następować na zasadzie wyboru najkorzystniejszej oferty, z uwzględnieniem przepisów o zamówieniach publicznych, a w odniesieniu do organizacji pozarządowych – z odpowiednim zastosowaniem art. 43 i art. 221.
+
 **Art. 255.**
 
 1. Zarząd jednostki samorządu terytorialnego przekazuje pobrane dochody budżetowe związane z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostce samorządu terytorialnego odrębnymi ustawami, pomniejszone o określone w odrębnych ustawach dochody budżetowe przysługujące jednostce samorządu terytorialnego z tytułu wykonywania tych zadań, na rachunek bieżący dochodów dysponenta części budżetowej przekazującego dotację celową, według stanu środków określonego na:
@@ -3851,7 +4246,16 @@ source: "isap-pdf"
 
 **Art. 257.** W toku wykonywania budżetu zarząd może dokonywać zmian w planie dochodów i wydatków budżetu jednostki samorządu terytorialnego polegających na zmianach planu:
 
+- **1)** dochodów i wydatków związanych ze zmianą kwot lub uzyskaniem dotacji przekazywanych z budżetu państwa, z budżetów innych jednostek samorządu terytorialnego oraz innych jednostek sektora finansów publicznych;
+- **2)** dochodów jednostki samorządu terytorialnego, wynikających ze zmian kwot subwencji w wyniku podziału rezerw subwencji ogólnej;
+- **3)** wydatków jednostki samorządu terytorialnego w ramach działu w zakresie wydatków bieżących, z wyjątkiem zmian planu wydatków na uposażenia i wynagrodzenia ze stosunku pracy, o ile odrębne przepisy nie stanowią inaczej;
+- **4)** dochodów i wydatków jednostki samorządu terytorialnego związanych ze zwrotem dotacji otrzymanych z budżetu państwa lub innych jednostek samorządu terytorialnego.
+
 **Art. 257a.** Na obszarze objętym stanem klęski żywiołowej, stanem epidemii lub stanem zagrożenia epidemicznego wójt (burmistrz, prezydent miasta), zarząd powiatu lub zarząd województwa może dokonywać:
+
+- **1)** zmian w planie dochodów i wydatków budżetu jednostki samorządu terytorialnego, w tym dokonywać przeniesień wydatków między działami klasyfikacji budżetowej;
+- **2)** czynności, o których mowa w art. 258 ust. 1 pkt 2;
+- **3)** zmian w wieloletniej prognozie finansowej oraz w planie wydatków budżetu jednostki samorządu terytorialnego związanych z wprowadzeniem nowych inwestycji lub zakupów inwestycyjnych przez jednostkę, o ile zmiana ta nie pogorszy wyniku budżetu tej jednostki.
 
 **Art. 258.**
 
@@ -3938,6 +4342,9 @@ source: "isap-pdf"
 
 **Art. 265.** Jednostki, o których mowa w art. 9 pkt 10, 13 i 14, dla których organem założycielskim jest jednostka samorządu terytorialnego, przedstawiają właściwemu zarządowi jednostki samorządu terytorialnego w terminie do dnia:
 
+- **1)** 31 lipca roku budżetowego – informację o przebiegu wykonania planu finansowego jednostki za pierwsze półrocze, uwzględniającą w szczególności stan należności i zobowiązań, w tym wymagalnych;
+- **2)** 28 lutego roku następującego po roku budżetowym – sprawozdanie roczne z wykonania planu finansowego jednostki, w szczegółowości nie mniejszej niż w planie finansowym.
+
 **Art. 266.** (uchylony)
 
 **Art. 267.**
@@ -3964,6 +4371,10 @@ source: "isap-pdf"
 **Art. 268.** Roczne sprawozdanie finansowe jednostki samorządu terytorialnego, w której liczba mieszkańców, ustalona przez Główny Urząd Statystyczny, na dzień 31 grudnia roku poprzedzającego rok, za który sporządzono sprawozdanie, przekracza 150 tysięcy, podlega badaniu przez biegłego rewidenta.
 
 **Art. 269.** Sprawozdanie z wykonania budżetu jednostki samorządu terytorialnego sporządza się na podstawie danych z ewidencji księgowej budżetu. Sprawozdanie powinno uwzględniać w szczególności:
+
+- **1)** dochody i wydatki budżetu jednostki samorządu terytorialnego w szczegółowości określonej jak w uchwale budżetowej;
+- **2)** zmiany w planie wydatków na realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, dokonane w trakcie roku budżetowego;
+- **3)** stopień zaawansowania realizacji programów wieloletnich.
 
 **Art. 270.**
 
@@ -4041,6 +4452,9 @@ source: "isap-pdf"
 
 **Art. 275.** Audyt wewnętrzny prowadzi:
 
+- **1)** audytor wewnętrzny zatrudniony w jednostce albo
+- **2)** usługodawca niezatrudniony w jednostce, zwany dalej „usługodawcą”.
+
 **Art. 276.** W jednostce samorządu terytorialnego zadania przypisane kierownikowi jednostki związane z audytem wewnętrznym wykonują odpowiednio: wójt, burmistrz, prezydent miasta, przewodniczący zarządu jednostki samorządu terytorialnego.
 
 **Art. 277.**
@@ -4110,6 +4524,13 @@ source: "isap-pdf"
 
 **Art. 285.** Minister Finansów określi, w drodze rozporządzenia, szczegółowy sposób i tryb przeprowadzania audytu wewnętrznego oraz przekazywania informacji o pracy i wynikach audytu wewnętrznego, w szczególności:
 
+- **1)** sposób sporządzania oraz elementy planu audytu,
+- **2)** sposób dokumentowania przebiegu oraz wyników audytu wewnętrznego,
+- **3)** sposób sporządzania oraz elementy wyników audytu wewnętrznego,
+- **4)** sposób sporządzania oraz elementy sprawozdania z wykonania planu audytu oraz
+- **5)** tryb przeprowadzania audytu wewnętrznego zleconego, o którym mowa w art. 292 ust. 1 pkt 1 i art. 293,
+- **6)** tryb przeprowadzania oceny prowadzenia audytu wewnętrznego, o której mowa w art. 292 ust. 1 pkt 2 i art. 294 – z uwzględnieniem powszechnie uznawanych standardów audytu wewnętrznego.
+
 **Art. 286.**
 
 1. Audytorem wewnętrznym może być osoba, która:
@@ -4122,13 +4543,315 @@ source: "isap-pdf"
     - **a)** jeden z certyfikatów: Certified Internal Auditor (CIA), Certified Government Auditing Professional (CGAP), Certified Information Systems Auditor (CISA), Association of Chartered Certified Accountants (ACCA), Certified Fraud Examiner (CFE), Certification in Control Self Assessment (CCSA), Certified Financial Services Auditor (CFSA) lub Chartered Financial Analyst (CFA), lub
     - **b)** złożyła, w latach 2003–2006, z wynikiem pozytywnym egzamin na audytora wewnętrznego przed Komisją Egzaminacyjną powołaną przez Ministra Finansów, lub
     - **c)** uprawnienia biegłego rewidenta, lub
-    - **d)** dwuletnią praktykę w zakresie audytu wewnętrznego i legitymuje się dyplomem ukończenia studiów podyplomowych w zakresie audytu wewnętrznego, wydanym przez jednostkę organizacyjną, która w dniu wydania dyplomu była uprawniona, zgodnie z odrębnymi ustawami, do nadawania stopnia naukowego doktora nauk ekonomicznych lub prawnych.
+    - **d)** dwuletnią praktykę w zakresie audytu wewnętrznego i uzyskała świadectwo ukończenia studiów podyplomowych w zakresie audytu wewnętrznego, wydane przez podmiot, który w dniu wydania świadectwa był uprawniony, zgodnie z odrębnymi ustawami, do nadawania stopnia naukowego doktora w dziedzinie nauk społecznych w dyscyplinach naukowych: ekonomia i finanse, nauki o zarządzaniu i jakości, nauki o polityce i administracji lub nauki prawne, lub
+    - **e)** złożyła z wynikiem pozytywnym egzamin państwowy na audytora wewnętrznego, zwany dalej „egzaminem”.
 
 2. Za praktykę w zakresie audytu wewnętrznego, o której mowa w ust. 1 pkt 5 lit. d, uważa się udokumentowane przez kierownika jednostki wykonywanie czynności, w wymiarze czasu pracy nie mniejszym niż 1/2 etatu, związanych z:
 
 - **1)** przeprowadzaniem audytu wewnętrznego pod nadzorem audytora wewnętrznego;
 - **2)** realizacją czynności w zakresie audytu gospodarowania środkami pochodzącymi z budżetu Unii Europejskiej oraz niepodlegającymi zwrotowi środkami z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA), o którym mowa w ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131);
 - **3)** nadzorowaniem lub wykonywaniem czynności kontrolnych, o których mowa w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623).
+
+**Art. 286a.**
+
+1. Egzamin składa się przed Państwową Komisją Egzaminacyjną do Spraw Audytu Wewnętrznego, zwaną dalej „Komisją Egzaminacyjną”.
+
+2. Egzamin przeprowadza się raz w roku w okresie od dnia 1 września do dnia 30 września, w terminie ustalonym przez Ministra Finansów w porozumieniu z dyrektorem Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, zwanej dalej „KSAP”.
+
+3. Do egzaminu może zostać zakwalifikowana osoba, która złożyła wniosek o zakwalifikowanie do egzaminu, który został pozytywnie zweryfikowany i osoba ta wniosła w terminie opłatę egzaminacyjną, zwana dalej „kandydatem”.
+
+4. Egzaminu nie przeprowadza się w roku, w którym liczba kandydatów jest mniejsza niż 100.
+
+5. W przypadku gdy w dwóch kolejnych latach egzamin nie został przeprowadzony z powodu niespełnienia warunku, o którym mowa w ust. 4, w roku następującym po tym okresie Minister Finansów może zlecić KSAP przeprowadzenie egzaminu mimo niespełnienia tego warunku.
+
+6. Informację o terminie przeprowadzenia egzaminu dyrektor KSAP ogłasza, w terminie do końca kwietnia każdego roku, w Biuletynie Informacji Publicznej na stronie podmiotowej KSAP i doręcza ją kandydatom. Informację tę ogłasza się również w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów.
+
+7. W przypadku niespełnienia warunku, o którym mowa w ust. 4, dyrektor KSAP ogłasza, w terminie do dnia 15 marca danego roku, w Biuletynie Informacji Publicznej na stronie podmiotowej KSAP, informację o nieprzeprowadzeniu egzaminu w danym roku i doręcza ją osobom, które złożyły wniosek o zakwalifikowanie do egzaminu. Informację tę ogłasza się również w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów.
+
+**Art. 286b.**
+
+1. KSAP organizuje egzamin, realizuje zadania związane z jego przeprowadzeniem oraz zapewnia obsługę Komisji Egzaminacyjnej.
+
+2. KSAP może zlecić:
+
+- **1)** opracowanie testu i zadania egzaminacyjnego, o których mowa w art. 286l ust. 2, wraz z arkuszem prawidłowych odpowiedzi na pytania testowe i kluczem rozwiązania zadania egzaminacyjnego,
+- **2)** sprawdzanie prac egzaminacyjnych kandydatów,
+- **3)** przygotowanie innych materiałów niezbędnych do przeprowadzenia egzaminu – osobom niezatrudnionym w KSAP, które posiadają wiedzę i doświadczenie gwarantujące wysoką jakość wykonywanych zadań oraz ich odpowiedni poziom merytoryczny, zapewniając przy tym właściwy poziom bezpieczeństwa oraz poufności danych, w tym danych osobowych, oraz informacji i dokumentów przetwarzanych w związku z tymi zadaniami.
+
+3. KSAP pokrywa koszty organizacji i przeprowadzenia egzaminu, koszty wynagrodzeń członków Komisji Egzaminacyjnej oraz koszty jej obsługi.
+
+4. W przypadku, o którym mowa w art. 286a ust. 5, koszty, o których mowa w ust. 3, mogą zostać pokryte z dotacji celowej z budżetu państwa.
+
+5. Dyrektor KSAP przedkłada Ministrowi Finansów, w terminie do dnia 31 grudnia, sprawozdanie z realizacji zadań, o których mowa w ust. 1, w roku bieżącym.
+
+6. KSAP jest administratorem danych osobowych przetwarzanych w celach związanych z działalnością Komisji Egzaminacyjnej oraz organizacją i przeprowadzeniem egzaminu.
+
+**Art. 286c.**
+
+1. Za egzamin pobiera się opłatę egzaminacyjną, która składa się z opłaty wstępnej i opłaty za egzamin. Wysokość opłaty egzaminacyjnej nie może przekroczyć równowartości 30 % przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. Opłata egzaminacyjna stanowi przychód KSAP.
+
+2. W przypadku przyznania dotacji celowej, o której mowa w art. 286b ust. 4, opłata egzaminacyjna za egzamin, o którym mowa w art. 286a ust. 5, stanowi dochód budżetu państwa.
+
+3. Opłata wstępna stanowi 10 % opłaty egzaminacyjnej i nie podlega zwrotowi.
+
+4. W przypadku, o którym mowa w art. 286a ust. 4, opłata wstępna podlega zwrotowi w pełnej wysokości.
+
+5. Opłata za egzamin stanowi 90 % opłaty egzaminacyjnej i podlega zwrotowi w całości w przypadku:
+
+- **1)** uwzględnienia odwołania, o którym mowa w art. 286m ust. 3;
+- **2)** unieważnienia egzaminu.
+
+6. Część opłaty za egzamin w wysokości 25 % tej opłaty podlega zwrotowi na wniosek kandydata, który nie przystąpił do egzaminu, złożony w terminie 14 dni od dnia, w którym został przeprowadzony egzamin.
+
+**Art. 286d.**
+
+1. KSAP wykonuje zadania, o których mowa w art. 286b ust. 1, przy wykorzystaniu systemu teleinformatycznego, zwanego dalej „systemem”, służącego do:
+
+- **1)** składania i doręczania wniosków oraz pism w sprawach dotyczących egzaminu;
+- **2)** gromadzenia i przetwarzania danych dotyczących:
+    - **a)** osób, które założyły indywidualne konto w systemie,
+    - **b)** Komisji Egzaminacyjnej i jej członków,
+    - **c)** pracowników KSAP, którym udostępniono indywidualne konto w systemie;
+
+- **3)** obsługi indywidualnych kont w systemie;
+- **4)** realizacji innych zadań i czynności związanych z funkcjonowaniem Komisji Egzaminacyjnej i organizacją egzaminu.
+
+2. System może być wykorzystany do przeprowadzania egzaminu.
+
+3. W systemie funkcjonują indywidualne konta:
+
+- **1)** kandydackie – zakładane przez osoby, które chcą złożyć wniosek o zakwalifikowanie do egzaminu;
+- **2)** funkcyjne – zakładane i udostępniane przez KSAP członkom Komisji Egzaminacyjnej i pracownikom KSAP.
+
+4. Dostęp do indywidualnego konta w systemie jest możliwy do dnia:
+
+- **1)** upływu 3 miesięcy od dnia:
+    - **a)** ogłoszenia informacji o nieprzeprowadzeniu egzaminu – w przypadku, o którym mowa w art. 286a ust. 4,
+    - **b)** przeprowadzenia egzaminu – w przypadku konta kandydackiego;
+
+- **2)** ustania odpowiednio członkostwa w Komisji Egzaminacyjnej lub zatrudnienia w KSAP – w przypadku konta funkcyjnego.
+
+5. Warunkiem dostępu do indywidualnego konta jest uwierzytelnienie dokonywane przy wykorzystaniu numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL).
+
+6. Wnioski, o których mowa w art. 286c ust. 6 i art. 286f ust. 1 i 6, oraz pisma dotyczące egzaminu składa się i doręcza się przy wykorzystaniu systemu.
+
+7. Pisma składane za pośrednictwem indywidualnego konta wywołują takie same skutki prawne jak pisma opatrzone własnoręcznym podpisem, kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+8. Doręczenie pisma osobie, która posiada w systemie indywidualne konto następuje:
+
+- **1)** z chwilą odebrania pisma przez tę osobę w systemie – w przypadku gdy odebranie pisma nastąpiło w okresie od dnia umieszczenia pisma na jego indywidualnym koncie do końca 7. dnia, licząc od dnia następującego po dniu umieszczenia tego pisma na tym koncie, albo
+- **2)** z upływem ostatniego dnia okresu, o którym mowa w pkt 1 – w przypadku nieodebrania pisma przez tę osobę w systemie w tym okresie.
+
+9. Przez umieszczenie pisma na indywidualnym koncie w systemie rozumie się zaistnienie warunków technicznych umożliwiających odebranie w systemie pisma od KSAP lub Komisji Egzaminacyjnej doręczanego na indywidualne konto.
+
+10. W przypadku awarii systemu uniemożliwiającej przeprowadzenie egzaminu nie dochodzi on do skutku w wyznaczonym terminie.
+
+11. Informację o wystąpieniu i usunięciu awarii systemu zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej KSAP.
+
+12. W okresie trwania awarii systemu składanie i doręczanie pism innych niż wnioski, o których mowa w art. 286c ust. 6 i art. 286f ust. 1 i 6, odbywa się za pośrednictwem poczty elektronicznej na adres, o którym mowa w art. 286f ust. 3 pkt 3, oraz na adres Komisji Egzaminacyjnej wskazany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów, przy czym w tym przypadku dowodem doręczenia jest potwierdzenie transmisji danych wysłanych na te adresy.
+
+13. Dyrektor KSAP odpowiada za utrzymanie systemu oraz dostępność, autentyczność, integralność i bezpieczeństwo danych zgromadzonych w systemie. Użytkownicy indywidualnych kont w systemie odpowiadają za prawidłowość i rzetelność danych wprowadzanych do systemu.
+
+**Art. 286e.** Wniosek o zakwalifikowanie do egzaminu może złożyć osoba, która spełnia warunki, o których mowa w art. 286 ust. 1 pkt 1–4.
+
+**Art. 286f.**
+
+1. Wniosek o zakwalifikowanie do egzaminu składa się w terminie od dnia 1 lutego do końca tego miesiąca roku, w którym ma się odbyć egzamin.
+
+2. Termin na złożenie wniosku o zakwalifikowanie do egzaminu ulega wydłużeniu o czas trwającej dłużej niż godzinę awarii systemu uniemożliwiającej złożenie tego wniosku, jeżeli ta awaria nastąpiła w okresie tygodnia przed upływem terminu na złożenie tego wniosku.
+
+3. Wniosek o zakwalifikowanie do egzaminu zawiera:
+
+- **1)** imię i nazwisko,
+- **2)** numer PESEL,
+- **3)** adres do korespondencji, adres poczty elektronicznej i numer telefonu kontaktowego,
+- **4)** numer rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej do dokonania zwrotu opłaty wstępnej lub opłaty za egzamin – osoby składającej ten wniosek.
+
+4. Do wniosku o zakwalifikowanie do egzaminu dołącza się:
+
+- **1)** oświadczenie o spełnieniu warunków, o których mowa w art. 286 ust. 1 pkt 1–3;
+- **2)** dyplom w postaci elektronicznej dokumentujący posiadanie wyższego wykształcenia albo elektroniczne odwzorowanie dyplomu dokumentującego posiadanie wyższego wykształcenia;
+- **3)** potwierdzenie uiszczenia opłaty wstępnej;
+- **4)** oświadczenie o prawdziwości danych zawartych we wniosku i w załączonych dokumentach.
+
+5. Oświadczenia, o których mowa w ust. 4 pkt 1 i 4, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872) oraz zawiera się w nich klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+6. W przypadku osoby ubiegającej się o zakwalifikowanie do egzaminu będącej osobą niepełnosprawną, która wraz z wnioskiem o zakwalifikowanie do egzaminu złoży wniosek o wydłużenie czasu trwania egzaminu, do którego załączy:
+
+- **1)** kopię orzeczenia potwierdzającego niepełnosprawność w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych w dniu składania wniosku,
+- **2)** zaświadczenie lekarskie wystawione przez lekarza specjalistę właściwego ze względu na charakter niepełnosprawności, stwierdzające wynikające z niepełnosprawności trudności w wykonywaniu czynności technicznych, takich jak:
+    - **a)** odczytywanie tekstu,
+    - **b)** posługiwanie się sprzętem komputerowym w sposób umożliwiający sporządzenie odpowiedzi na pytania i rozwiązanie zadania egzaminacyjnego – czas trwania egzaminu ulega wydłużeniu.
+
+7. Osoba, która złożyła wniosek o zakwalifikowanie do egzaminu, jest obowiązana niezwłocznie poinformować Komisję Egzaminacyjną o zmianie danych oraz informacji określonych w ust. 3 pkt 1, 3 i 4, ust. 4 pkt 1 i ust. 6.
+
+8. Wniosek o zakwalifikowanie do egzaminu oraz wniosek o wydłużenie czasu trwania egzaminu podlegają weryfikacji przez KSAP.
+
+9. W przypadku negatywnej weryfikacji wniosku o zakwalifikowanie do egzaminu lub wniosku o wydłużenie czasu trwania egzaminu KSAP może zwrócić się do osoby, która złożyła te wnioski, o uzupełnienie w terminie 7 dni danych lub dokumentów niezbędnych do potwierdzenia spełnienia przez tę osobę warunków, o których mowa w ust. 6 lub art. 286 ust. 1 pkt 1–4. Brak uzupełnienia danych lub dokumentów w wyznaczonym terminie skutkuje pozostawieniem wniosku bez rozpatrzenia.
+
+**Art. 286g.**
+
+1. Osoba, która złożyła wniosek o zakwalifikowanie do egzaminu, jest informowana za pośrednictwem systemu o:
+
+- **1)** zakwalifikowaniu albo niezakwalifikowaniu do egzaminu,
+- **2)** wydłużeniu czasu trwania egzaminu – w przypadku złożenia wniosku o wydłużenie czasu trwania egzaminu – w terminie do dnia 31 marca roku, w którym odbędzie się egzamin.
+
+2. Osoba, która została zakwalifikowana do egzaminu, w terminie 7 dni od dnia doręczenia informacji, o której mowa w ust. 1, uiszcza opłatę za egzamin. Brak uiszczenia opłaty za egzamin w terminie oznacza rezygnację z udziału w egzaminie.
+
+**Art. 286h.**
+
+1. Komisja Egzaminacyjna składa się z 5 członków powoływanych i odwoływanych przez Ministra Finansów.
+
+2. Członkowie Komisji Egzaminacyjnej są powoływani spośród osób, które:
+
+- **1)** korzystają z pełni praw publicznych;
+- **2)** mają nieposzlakowaną opinię;
+- **3)** nie były skazane prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **4)** posiadają co najmniej wyższe wykształcenie;
+- **5)** posiadają co najmniej dziesięcioletnie udokumentowane doświadczenie zawodowe w jednostce sektora finansów publicznych, uczelni, instytucie badawczym lub instytucie naukowym Polskiej Akademii Nauk;
+- **6)** posiadają co najmniej dziesięcioletnie udokumentowane doświadczenie w zakresie:
+    - **a)** tworzenia lub stosowania przepisów prawa, o których mowa w art. 286l ust. 1 pkt 1 lit. a i b, lub
+    - **b)** prowadzenia zajęć dydaktycznych lub badań naukowych w dziedzinie nauk społecznych w dyscyplinie ekonomia i finanse, nauki o bezpieczeństwie, nauki o komunikacji społecznej i mediach, nauki o polityce i administracji, nauki o zarządzaniu i jakości, nauki prawne, nauki socjologiczne lub psychologia, lub
+    - **c)** prowadzenia audytu wewnętrznego.
+
+3. Spełnienie warunku, o którym mowa w ust. 2 pkt 1, osoba potwierdza poprzez złożenie oświadczenia. Do oświadczenia przepis art. 286f ust. 5 stosuje się odpowiednio.
+
+4. Co najmniej dwóch członków Komisji Egzaminacyjnej powinno posiadać doświadczenie, o którym mowa w ust. 2 pkt 6 lit. c.
+
+5. Członek Komisji Egzaminacyjnej nie może podejmować działań, które mogą powodować konflikt interesów, w szczególności nie może:
+
+- **1)** brać udziału w przedsięwzięciach związanych z przygotowywaniem kandydatów do egzaminu;
+- **2)** publikować materiałów dotyczących egzaminu, w tym materiałów służących do przygotowania do egzaminu;
+- **3)** udostępniać i wykorzystywać informacji pozyskanych w trakcie prac Komisji Egzaminacyjnej, w tym dotyczących pytań testowych oraz zadań egzaminacyjnych.
+
+6. Kadencja Komisji Egzaminacyjnej trwa 4 lata, przy czym działa ona do czasu powołania Komisji Egzaminacyjnej kolejnej kadencji, niedłużej jednak niż przez okres 6 miesięcy od dnia upływu jej kadencji.
+
+7. Nie można pełnić funkcji członka Komisji Egzaminacyjnej dłużej niż przez dwie kolejno następujące po sobie kadencje.
+
+8. Członka Komisji Egzaminacyjnej przed upływem kadencji:
+
+- **1)** odwołuje się:
+    - **a)** na jego wniosek,
+    - **b)** w przypadku naruszenia zakazu, o którym mowa w ust. 5,
+    - **c)** w przypadku zaprzestania spełniania warunków, o których mowa w ust. 2 pkt 1–3,
+    - **d)** w przypadku ujawnienia nowych okoliczności wskazujących na niespełnianie w dniu powołania warunków, o których mowa w ust. 2;
+
+- **2)** można odwołać, na wniosek przewodniczącego Komisji Egzaminacyjnej, w przypadku naruszenia regulaminu Komisji Egzaminacyjnej.
+
+9. W przypadku odwołania albo śmierci członka Komisji Egzaminacyjnej Minister Finansów powołuje nowego członka Komisji Egzaminacyjnej, przy czym jego kadencja upływa wraz z upływem kadencji Komisji Egzaminacyjnej.
+
+10. Członkom Komisji Egzaminacyjnej przysługuje w okresie od dnia 1 kwietnia do dnia 31 grudnia roku, w którym odbywa się egzamin, kwartalne wynagrodzenie w wysokości nieprzekraczającej 60 % przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. Wynagrodzenie nie przysługuje członkowi Komisji Egzaminacyjnej wyłączonemu na podstawie art. 286k ust. 1.
+
+11. Minister Finansów określi, w drodze rozporządzenia, wysokość wynagrodzenia członków Komisji Egzaminacyjnej, mając na uwadze nakład pracy oraz zakres realizowanych przez nich obowiązków związanych z przygotowaniem i przeprowadzeniem egzaminu.
+
+**Art. 286i.**
+
+1. Pracami Komisji Egzaminacyjnej kieruje przewodniczący Komisji Egzaminacyjnej wyznaczony przez Ministra Finansów spośród jej członków. Przewodniczący Komisji Egzaminacyjnej reprezentuje Komisję Egzaminacyjną. W przypadku wyłączenia przewodniczącego Komisji Egzaminacyjnej na podstawie art. 286k ust. 1 Minister Finansów powierza czasowe pełnienie obowiązków przewodniczącego Komisji Egzaminacyjnej innemu jej członkowi.
+
+2. Komisja Egzaminacyjna podejmuje rozstrzygnięcia na posiedzeniach w formie uchwał podejmowanych zwykłą większością głosów. W przypadku wyłączenia członka Komisji Egzaminacyjnej na podstawie art. 286k ust. 1, a także przy równej liczbie głosów rozstrzyga głos przewodniczącego Komisji Egzaminacyjnej.
+
+3. Posiedzenia Komisji Egzaminacyjnej mogą odbywać się w formie zdalnej.
+
+4. W przypadku utrwalania posiedzeń Komisji Egzaminacyjnej za pomocą urządzeń rejestrujących obraz i dźwięk warunki przechowywania zapisów obrazu i dźwięku oraz ochrony danych, w tym danych osobowych, utrwalonych na tych zapisach zapewnia dyrektor KSAP.
+
+5. Komisja Egzaminacyjna określa regulamin swojego działania.
+
+**Art. 286j.**
+
+1. Do zadań Komisji Egzaminacyjnej należy:
+
+- **1)** zatwierdzanie listy kandydatów;
+- **2)** zatwierdzanie pytań testowych i zadania egzaminacyjnego, o których mowa w art. 286l ust. 2, wraz z arkuszem prawidłowych odpowiedzi na pytania testowe i kluczem rozwiązania zadania egzaminacyjnego oraz innych materiałów służących do przeprowadzenia egzaminu;
+- **3)** unieważnianie egzaminu w przypadkach, o których mowa w art. 286n;
+- **4)** rozpatrywanie odwołania od wykluczenia z egzaminu oraz odwołania, o którym mowa w art. 286p ust. 1 pkt 2;
+- **5)** zatwierdzanie listy kandydatów, którzy złożyli egzamin z wynikiem pozytywnym;
+- **6)** wydawanie zaświadczeń o złożeniu egzaminu z wynikiem pozytywnym.
+
+2. Komisja Egzaminacyjna przedkłada Ministrowi Finansów, w terminie do dnia 31 grudnia, sprawozdanie z działalności w roku bieżącym.
+
+**Art. 286k.**
+
+1. Minister Finansów, na wniosek dyrektora KSAP, wyłącza członka Komisji Egzaminacyjnej z realizacji zadań Komisji Egzaminacyjnej, o których mowa w art. 286j ust. 1 pkt 2–6, w przypadku gdy do egzaminu zakwalifikowano kandydata będącego:
+
+- **1)** jego małżonkiem;
+- **2)** osobą pozostającą z nim w stosunku:
+    - **a)** pokrewieństwa albo powinowactwa do drugiego stopnia,
+    - **b)** przysposobienia;
+
+- **3)** osobą pozostającą wobec niego w stosunku osobistym innego rodzaju albo w stosunku służbowym, który mógłby wywoływać wątpliwości co do jego bezstronności.
+
+2. Powody wyłączenia trwają pomimo ustania przesłanek wyłączenia, o których mowa w ust. 1.
+
+3. Członek Komisji Egzaminacyjnej składa, w formie pisemnej, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, oświadczenie o braku istnienia okoliczności, o których mowa w ust. 1 i 2. Składający oświadczenie zamieszcza w nim klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+**Art. 286l.**
+
+1. Egzamin jest składany w formie pisemnej i obejmuje sprawdzenie przygotowania kandydata do prowadzenia audytu wewnętrznego w sektorze finansów publicznych, w tym:
+
+- **1)** wiedzy z zakresu:
+    - **a)** przepisów ustawy i przepisów wydanych na jej podstawie, w szczególności regulujących kontrolę zarządczą i audyt wewnętrzny,
+    - **b)** innych niż wskazane w lit. a przepisów regulujących funkcjonowanie sektora finansów publicznych i jednostek sektora finansów publicznych,
+    - **c)** standardów kontroli zarządczej dla sektora finansów publicznych i standardów audytu wewnętrznego dla jednostek sektora finansów publicznych;
+
+- **2)** umiejętności stosowania wiedzy z zakresu, o którym mowa w pkt 1;
+- **3)** kompetencji analitycznych, społecznych i technicznych niezbędnych do skutecznego prowadzenia audytu wewnętrznego w jednostkach sektora finansów publicznych.
+
+2. Egzamin składa się z dwóch części:
+
+- **1)** pytań testowych;
+- **2)** zadania egzaminacyjnego.
+
+3. Minister Finansów, niepóźniej niż do końca stycznia roku, w którym odbędzie się egzamin, ogłosi w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu go obsługującego wykaz tytułów aktów prawnych obejmujących przepisy, o których mowa w ust. 1 pkt 1 lit. b.
+
+**Art. 286m.**
+
+1. W trakcie egzaminu kandydat nie może korzystać z pomocy innej osoby, posiadać niedozwolonych materiałów lub urządzeń służących do kopiowania, przekazywania i odbioru informacji, a także pomagać innym kandydatom lub w inny sposób zakłócać przebiegu egzaminu.
+
+2. Członek Komisji Egzaminacyjnej wyklucza z egzaminu kandydata, który podczas egzaminu korzystał z pomocy innej osoby, posiadał niedozwolone materiały lub urządzenia, pomagał innym kandydatom lub w inny sposób zakłócał przebieg egzaminu. Wykluczenie z egzaminu jest równoznaczne z uzyskaniem negatywnego wyniku egzaminu.
+
+3. Kandydatowi wykluczonemu z egzaminu przysługuje prawo wniesienia pisemnego odwołania do Komisji Egzaminacyjnej w terminie 7 dni od dnia egzaminu, z którego został wykluczony.
+
+4. Rozstrzygnięcie Komisji Egzaminacyjnej w sprawie odwołania od wykluczenia kandydata z egzaminu jest ostateczne.
+
+**Art. 286n.** W przypadku rażących uchybień formalnych w przebiegu egzaminu lub nieprzewidzianych sytuacji mających wpływ na przebieg egzaminu Komisja Egzaminacyjna może unieważnić egzamin.
+
+**Art. 286o.** Pozytywny wynik egzaminu uzyskuje kandydat, który w każdej z dwóch części egzaminu uzyskał co najmniej 75 % możliwych do zdobycia punktów.
+
+**Art. 286p.**
+
+1. Kandydatowi, który uzyskał negatywny wynik egzaminu, przysługuje:
+
+- **1)** prawo wglądu do tej części egzaminu, z której nie otrzymał wymaganej liczby punktów – w terminie 7 dni od dnia przekazania informacji o tym wyniku;
+- **2)** prawo wniesienia pisemnego odwołania do Komisji Egzaminacyjnej odpowiednio od wyniku egzaminu albo tej części egzaminu, z której nie otrzymał wymaganej liczby punktów – w terminie 14 dni od dnia przekazania informacji o tym wyniku.
+
+2. Podczas dokonywania wglądu, o którym mowa w ust. 1 pkt 1, kandydat może sporządzać notatki.
+
+3. Rozstrzygnięcie Komisji Egzaminacyjnej w sprawie odwołania, o którym mowa w ust. 1 pkt 2, jest ostateczne.
+
+**Art. 286q.**
+
+1. Kandydat, który uzyskał pozytywny wynik egzaminu, otrzymuje zaświadczenie o złożeniu egzaminu z wynikiem pozytywnym. Zaświadczenie zawiera imię i nazwisko oraz numer PESEL kandydata oraz imię i nazwisko oraz podpis przewodniczącego Komisji Egzaminacyjnej.
+
+2. Zaświadczenie o złożeniu egzaminu z wynikiem pozytywnym jest wydawane w dwóch egzemplarzach. Jeden egzemplarz przechowuje się w KSAP w celu wydania jego kopii.
+
+**Art. 286r.**
+
+1. Dane osobowe osoby, która założyła w systemie indywidualne konto kandydackie, przechowuje się przez okres 5 lat, licząc od roku następującego po roku, w którym założono to konto.
+
+2. Egzemplarz zaświadczenia, o którym mowa w art. 286q ust. 2, KSAP przechowuje przez okres 50 lat, licząc od roku następującego po roku, w którym kandydat przystąpił do egzaminu.
+
+**Art. 286s.** Minister Finansów określi, w drodze rozporządzenia:
+
+- **1)** wysokość opłaty egzaminacyjnej, biorąc pod uwagę poziom kosztów ponoszonych przez KSAP na realizację zadań związanych z organizacją i przeprowadzeniem egzaminu oraz obsługą Komisji Egzaminacyjnej i wynagrodzeniem jej członków;
+- **2)** sposób zakładania, udostępniania i uwierzytelniania indywidualnych kont w systemie, biorąc pod uwagę konieczność zapewnienia jednolitej procedury postępowania użytkowników tych kont oraz ich jednoznacznej identyfikacji;
+- **3)** sposób uiszczania opłaty egzaminacyjnej, biorąc pod uwagę konieczność zapewnienia sprawnej weryfikacji uiszczania tej opłaty i jej prawidłowego rozliczenia;
+- **4)** sposób i tryb przeprowadzania egzaminu, biorąc pod uwagę konieczność zapewnienia obiektywnego i sprawnego przeprowadzenia egzaminu;
+- **5)** materiały, które kandydat może posiadać w trakcie egzaminu, biorąc pod uwagę konieczność zapewnienia prawidłowego przebiegu egzaminu;
+- **6)** sposób uzyskiwania przez kandydata wglądu w przypadku, o którym mowa w art. 286p ust. 1 pkt 1, biorąc pod uwagę konieczność zapewnienia sprawnego i prawidłowego dostępu do tej części egzaminu, z której kandydat nie otrzymał wymaganej liczby punktów;
+- **7)** sposób i tryb wnoszenia oraz rozpatrywania odwołania od wykluczenia kandydata z egzaminu oraz odwołania, o którym mowa w art. 286p ust. 1 pkt 2, biorąc pod uwagę konieczność zapewnienia sprawnego składania tych odwołań oraz jednolitego postępowania Komisji Egzaminacyjnej;
+- **8)** sposób składania wniosku o zwrot opłaty wstępnej lub opłaty za egzamin oraz sposób i tryb zwrotu tych opłat, biorąc pod uwagę konieczność zapewnienia sprawnego składania tego wniosku oraz prawidłowego rozliczania tych opłat;
+- **9)** wzór zaświadczenia o złożeniu egzaminu z wynikiem pozytywnym oraz tryb i sposób otrzymywania tego zaświadczenia oraz jego kopii, biorąc pod uwagę konieczność zapewnienia jednolitości danych zawartych w tym zaświadczeniu i jego kopii oraz postępowania kandydatów i KSAP;
+- **10)** sposób rozliczania oraz przekazywania do budżetu państwa pobranej od kandydatów opłaty egzaminacyjnej, biorąc pod uwagę konieczność zapewnienia prawidłowego rozliczenia się KSAP z tego tytułu z budżetem państwa.
 
 **Art. 287.**
 

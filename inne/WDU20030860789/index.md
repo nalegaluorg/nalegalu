@@ -8,7 +8,7 @@ pos: 789
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o transporcie kolejowym
@@ -36,7 +36,7 @@ Art. 9ma. 1. Zarządca może zlecić wykonywanie zadań zarządcy innemu podmiot
 4. Zarządca sprawuje nadzór nad wykonywaniem zadań lub prac przez podmioty, którym je zlecił, oraz ponosi odpowiedzialność za ich wykonanie, w szczególności przekazuje wytyczne dotyczące ich realizacji oraz kontroluje wykonywanie zleconych zadań lub prac pod względem zgodności z przepisami ustawy.
 5. Do zlecania wykonywania zadań zarządcy operatorowi zapewniającemu energię elektryczną na cele trakcyjne nie stosuje się ograniczeń określonych w ust. 1, jeżeli operator nie wykonuje funkcji podstawowych, a jego działalność nie jest dofinansowana ze środków budżetu państwa lub Funduszu Kolejowego.
 6. Podmiot, któremu zarządca zlecił wykonywanie funkcji podstawowych, wykonuje je w sposób przejrzysty, zapewniający niedyskryminujące traktowanie aplikantów i przewoźników kolejowych oraz uniemożliwiający konflikt interesów, zgodnie z przepisami niniejszego rozdziału.
-przewoźników kolejowych, a w przypadku przedsiębiorstwa zintegrowanego pionowo także od innych podmiotów wchodzących w skład tego przedsiębiorstwa.
+Art. 9mb. 1. Zarządca jest obowiązany posiadać osobowość prawną odrębną od przewoźników kolejowych, a w przypadku przedsiębiorstwa zintegrowanego pionowo także od innych podmiotów wchodzących w skład tego przedsiębiorstwa.
 2. W przypadku gdy zarządca i przewoźnik kolejowy są niezależni od siebie, jednak obydwa te podmioty są kontrolowane bezpośrednio przez Skarb Państwa, nie stosuje się do nich przepisów ustawy dotyczących przedsiębiorstwa zintegrowanego pionowo.
 3. Podmiot wchodzący w skład przedsiębiorstwa zintegrowanego pionowo nie może mieć decydującego wpływu w rozumieniu przepisów rozporządzenia (WE) nr 139/2004 na wykonywanie przez zarządcę funkcji podstawowych.
 Art. 9mc. 1. Te same osoby nie mogą:
@@ -47,7 +47,7 @@ b) rady nadzorczej;
 2. Funkcji członka zarządu zarządcy nie może pełnić osoba, która jednocześnie pełni funkcję członka rady nadzorczej podmiotu wchodzącego w skład przedsiębiorstwa zintegrowanego pionowo oraz sprawującego kontrolę nad zarządcą i przewoźnikiem kolejowym wchodzącymi w skład tego przedsiębiorstwa.
 3. Członkowie zarządu przewoźnika kolejowego nie mogą zajmować stanowisk kierowniczych właściwych w zakresie funkcji podstawowych.
 Art. 9md. 1. Członkowie zarządu zarządcy wchodzącego w skład przedsiębiorstwa zintegrowanego pionowo oraz osoby zajmujące u zarządcy wchodzącego w skład przedsiębiorstwa zintegrowanego pionowo stanowiska kierownicze właściwe w zakresie funkcji podstawowych nie mogą otrzymywać od podmiotu wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo wynagrodzenia lub premii, związanych z wynikiem finansowym przewoźnika kolejowego wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo.
-2. Osoby zajmujące u przewoźnika kolejowego stanowiska kierownicze właściwe w zakresie wykonywania przewozów kolejowych nie mogą otrzymywać od podmiotu wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo.
+2. Osoby zajmujące u przewoźnika kolejowego stanowiska kierownicze właściwe w zakresie wykonywania przewozów kolejowych nie mogą otrzymywać od podmiotu wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo wynagrodzenia lub premii, związanych z wynikiem finansowym zarządcy wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo.
 Art. 9me. 1. W przypadku gdy zarządca i podmioty wchodzące w skład przedsiębiorstwa zintegrowanego pionowo korzystają ze wspólnego systemu teleinformatycznego, dostęp do informacji dotyczących funkcji podstawowych stanowiących tajemnice przedsiębiorstwa lub informacje prawnie chronione mają wyłącznie osoby upoważnione przez zarządcę.
 2. Informacje, o których mowa w ust. 1, nie mogą być przekazywane innym podmiotom wchodzącym w skład przedsiębiorstwa zintegrowanego pionowo.
 Art. 9mf. Przewoźnik kolejowy albo inny podmiot wchodzący w skład przedsiębiorstwa zintegrowanego pionowo nie może mieć decydującego wpływu w rozumieniu przepisów rozporządzenia (WE) nr 139/2004 na powoływanie i odwoływanie członków zarządu lub członków rady nadzorczej zarządcy wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo oraz na zatrudnianie i zwalnianie osób zajmujących u tego zarządcy stanowiska kierownicze właściwe w zakresie funkcji podstawowych.
@@ -58,6 +58,7 @@ Art. 9mg. 1. Członkowie zarządu i rady nadzorczej zarządcy oraz osoby zajmuj�
 3) zakończenia przez pracownika zarządcy świadczenia pracy albo usług.
 Art. 9mh. Zarządca niezwłocznie przekazuje wszystkim przewoźnikom kolejowym, których to dotyczy, informację o wystąpieniu zakłócenia w prowadzeniu ruchu pociągów, jego skutkach i podejmowanych działaniach.
 Art. 9mi. Zarządca może wykorzystać dochód z tytułu wykonywania zadań, o których mowa w art. 5 ust. 1, oraz środki publiczne przyznane zarządcy na realizację tych zadań, wyłącznie do finansowania własnej działalności, w tym do:
+1) obsługi pożyczek;
 2) wypłaty dywidend na rzecz udziałowców i akcjonariuszy zarządcy, z wyjątkiem podmiotu wchodzącego w skład przedsiębiorstwa zintegrowanego pionowo sprawującego kontrolę nad tym zarządcą i przewoźnikiem kolejowym.
 Art. 9mj. 1. Zarządca nie może udzielać pożyczek przewoźnikowi kolejowemu.
 2. Przewoźnik kolejowy nie może udzielać pożyczek zarządcy.
@@ -67,7 +68,7 @@ Art. 9mk. Podmiot wchodzący w skład przedsiębiorstwa zintegrowanego pionowo m
 Art. 9ml. 1. Zarządca wchodzący w skład przedsiębiorstwa zintegrowanego pionowo prowadzi odrębną rachunkowość od innych podmiotów wchodzących w skład tego samego przedsiębiorstwa w sposób umożliwiający monitorowanie obiegu środków finansowych między tymi podmiotami.
 2. W przedsiębiorstwie zintegrowanym pionowo zadłużenie zarządcy jest wyodrębnione w ramach prowadzonej rachunkowości i obsługiwane oddzielnie od innych podmiotów wchodzących w skład tego samego przedsiębiorstwa zintegrowanego pionowo.
 3. Rozdzielenie rachunkowości w zakresie zadłużenia zarządcy nie wyklucza ostatecznej spłaty tego zadłużenia za pośrednictwem innego podmiotu wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo, w tym podmiotu sprawującego kontrolę nad zarządcą i przewoźnikiem kolejowym.
-4. Zarządca wchodzący w skład przedsiębiorstwa zintegrowanego pionowo prowadzi księgi rachunkowe i dokumentację dotyczącą jego sytuacji ekonomicznofinansowej, prowadzonej współpracy handlowej oraz powiązań finansowych między zintegrowanego pionowo, w celu zapewnienia przejrzystości stosunków finansowych między zarządcą a tymi podmiotami.
+4. Zarządca wchodzący w skład przedsiębiorstwa zintegrowanego pionowo prowadzi księgi rachunkowe i dokumentację dotyczącą jego sytuacji ekonomicznofinansowej, prowadzonej współpracy handlowej oraz powiązań finansowych między nim a innymi podmiotami wchodzącymi w skład tego samego przedsiębiorstwa zintegrowanego pionowo, w celu zapewnienia przejrzystości stosunków finansowych między zarządcą a tymi podmiotami.
 Art. 9mm. 1. Zarządca, z zachowaniem zasady niedyskryminującego traktowania, może zawierać z przewoźnikami kolejowymi umowy o współpracy w celu zapewnienia klientom przewoźnika kolejowego korzyści, w tym dotyczących obniżenia kosztów lub poprawy warunków świadczenia usług na części sieci kolejowej zarządcy objętej tą umową.
 2. Zarządca przekazuje projekt umowy, o której mowa w ust. 1, do zaopiniowania Prezesowi Urzędu Transportu Kolejowego, zwanemu dalej „Prezesem UTK”. Prezes UTK opiniuje projekt umowy pod względem zgodności z przepisami ustawy w terminie 21 dni od dnia jego doręczenia.
 3. Niewyrażenie opinii w terminie, o którym mowa w ust. 2, uznaje się za pozytywne zaopiniowanie projektu umowy, o której mowa w ust. 1.
@@ -78,6 +79,16 @@ Art. 67–69. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Przepisy ustawy określają:
+
+- **1)** zasady korzystania z infrastruktury kolejowej, zarządzania infrastrukturą kolejową i jej utrzymania;
+- **1a)** gwarancje niezależności i bezstronności zarządcy infrastruktury kolejowej;
+- **2)** zasady prowadzenia ruchu kolejowego i wykonywania przewozów kolejowych;
+- **3)** warunki techniczne eksploatacji pojazdów kolejowych;
+- **3a)** warunki zapewnienia interoperacyjności na terytorium Rzeczypospolitej Polskiej;
+- **4)** zasady i instrumenty regulacji transportu kolejowego;
+- **5)** szczególne zasady i warunki przygotowania inwestycji dotyczących linii kolejowych, w tym warunki lokalizacji i nabywania nieruchomości na ten cel oraz organy właściwe w tych sprawach;
+- **6)** czas pracy pracowników kolei wykonujących interoperacyjne usługi transgraniczne;
+- **7)** zasady ochrony praw pasażerów w transporcie kolejowym.
 
 **Art. 2.** (uchylony)
 
@@ -93,7 +104,7 @@ Art. 67–69. (pominięte)
 
 2. Przepisów rozdziałów 2, 2aa–4b, 5a, 5b i 6–12, z wyjątkiem art. 5 ust. 1 pkt 1 lit. a–d i pkt 3–5, ust. 1b, 2a i 2b oraz art. 38a–38ba, nie stosuje się do infrastruktury nieczynnej.
 
-3. Przepisów rozdziałów 2, 2aa, 2b, 4a, 4b, 5b, 6–6b, 7 i 10 oraz art. 17a–17ac, art. 18a–18d, art. 23–23b, art. 23ca–23e, art. 23fa i art. 23h–23k, z wyjątkiem art. 5 ust. 1 pkt 1 lit. a–d, pkt 1a lit. b i pkt 2–5, ust. 1b, 2a i 2b oraz art. 25g, nie stosuje się do bocznic kolejowych będących infrastrukturą prywatną.
+3. Przepisów rozdziałów 2, 2aa, 2b, 4a, 4b, 5b, 6–6b, 7 i 10 oraz art. 17a–17ac, art. 18a–18d, art. 23–23b, art. 23ca–23e, art. 23fa i art. 23h–23k, z wyjątkiem art. 5 ust. 1 pkt 1 lit. a–d, pkt 1a lit. b i pkt 2–5, ust. 1b, 2a i 2b oraz art. 25g, nie stosuje się do infrastruktury prywatnej i przedsiębiorców wykonujących na niej przewozy, w tym do bocznic kolejowych będących infrastrukturą prywatną.
 
 4. Przepisów rozdziałów 6, 7 i 9 nie stosuje się do infrastruktury kolejowej znajdującej się na obszarze warsztatów naprawczych taboru kolejowego, wagonowni lub lokomotywowni.
 
@@ -117,6 +128,7 @@ Art. 67–69. (pominięte)
 - **1)** które są świadczone wyłącznie na użytek historyczny lub turystyczny, z wyjątkiem przepisów art. 13 i art. 14 tego rozporządzenia;
 - **2)** miejskich i podmiejskich, z wyjątkiem przepisów art. 4–8, art. 9 ust. 1, art. 10, art. 11, art. 12 ust. 1, 2 i 4–7, art. 13, art. 14, art. 16, art. 18 ust. 1, 2, 4, 5 i 7, art. 20 ust. 1 i art. 21–30 tego rozporządzenia, z tym że:
     - **a)** art. 6 ust. 4 tego rozporządzenia stosuje się od dnia 7 czerwca 2025 r.,
+    - **b)** art. 10 tego rozporządzenia stosuje się od dnia 7 czerwca 2030 r.;
 
 - **3)** regionalnych, z wyjątkiem przepisów art. 4–14, art. 16, art. 18, art. 20 ust. 1 i art. 21–30 tego rozporządzenia, z tym że:
     - **a)** art. 6 ust. 4 tego rozporządzenia stosuje się od dnia 7 czerwca 2025 r.,
@@ -133,13 +145,150 @@ Art. 67–69. (pominięte)
 
 **Art. 4.** Użyte w ustawie określenia oznaczają:
 
+- **1)** infrastruktura kolejowa – elementy określone w załączniku nr 1 do ustawy;
+- **1a)** droga kolejowa – tor kolejowy albo tory kolejowe wraz z elementami wymienionymi w pkt 2–12 załącznika nr 1 do ustawy, o ile są z nimi funkcjonalnie połączone, niezależnie od tego, czy zarządza nimi ten sam podmiot;
+- **1b)** infrastruktura nieczynna – infrastruktura kolejowa, na której zarządca infrastruktury nie dopuścił ruchu kolejowego;
+- **1c)** infrastruktura prywatna – infrastruktura kolejowa wykorzystywana wyłącznie do realizacji własnych potrzeb jej właściciela lub jej zarządcy innych niż przewóz osób;
+- **1d)** kolej wąskotorowa – kolej, której tory mają szerokość mniejszą niż 1435 mm;
+- **1e)** pociąg – pojazd kolejowy albo skład pojazdów kolejowych, który spełnia wymagania określone dla pociągu i któremu zarządca infrastruktury nadał status pociągu;
+- **1f)** manewr – zamierzony ruch pojazdu kolejowego albo składu pojazdów kolejowych oraz związane z nim czynności na drodze kolejowej, z wyjątkiem wjazdu, wyjazdu i przejazdu pociągu;
+- **2)** linia kolejowa – wyznaczona przez zarządcę infrastruktury droga kolejowa przystosowana do prowadzenia ruchu pociągów;
+- **2a)** linia kolejowa o znaczeniu państwowym – istniejąca lub projektowana linia kolejowa, której budowa, utrzymanie i eksploatacja uzasadniona jest ważnymi względami gospodarczymi, społecznymi, ekologicznymi lub obronnymi;
+- **2b)** linia kolejowa o znaczeniu obronnym – linię kolejową, o znaczeniu państwowym, której utrzymanie i eksploatację uzasadniają względy obronności państwa, w tym potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej i wojsk sojuszniczych w czasie podwyższenia gotowości obronnej państwa i w czasie wojny, planowaną do objęcia osłoną techniczną;
+- **2c)** linia kolejowa o znaczeniu wyłącznie obronnym – linię kolejową, o znaczeniu państwowym, dla której jedynym kryterium zaliczenia do linii o znaczeniu państwowym są względy obronności państwa, w tym potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej i wojsk sojuszniczych we wszystkich stanach gotowości obronnej państwa i w czasie wojny;
+- **2d)** linia tramwajowa – tor tramwajowy albo tory tramwajowe wraz z obiektami budowlanymi, urządzeniami oraz instalacjami, stanowiącymi całość technicznoużytkową, przeznaczoną do prowadzenia ruchu tramwajów oraz obsługi pasażerów, pieszych i rowerzystów, w tym perony tramwajowe, ciągi piesze, chodniki i drogi rowerowe;
+- **3)** przyległy pas gruntu – grunty wzdłuż linii kolejowych, usytuowane po obu ich stronach, przeznaczone do zapewnienia bezpiecznego prowadzenia ruchu kolejowego;
+- **3a)** pas gruntu pod linię kolejową – powierzchnię gruntu wykorzystywaną do budowy lub przebudowy linii kolejowej określoną w decyzji o ustaleniu lokalizacji linii kolejowej;
+- **4)** sieć kolejowa – linie kolejowe, stacje pasażerskie, stacje rozrządowe, terminale towarowe i wszystkie inne elementy infrastruktury kolejowej niezbędne do zapewnienia bezpiecznej i ciągłej eksploatacji systemu kolei Unii;
+- **4a)** plan transportowy – plan zrównoważonego rozwoju publicznego transportu zbiorowego opracowany przez organizatora publicznego transportu zbiorowego i ogłoszony zgodnie z ustawą z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2025 r. poz. 285 i 1173);
+- **5)** odcinek linii kolejowej – część linii kolejowej zawartą między stacjami węzłowymi albo między punktem początkowym lub końcowym linii kolejowej i najbliższą stacją węzłową;
+- **6)** pojazd kolejowy – pojazd dostosowany do poruszania się na własnych kołach po torach kolejowych, napędzany w inny sposób niż siłą ludzkich mięśni lub bez napędu;
+- **6a)** (uchylony) 6b) dysponent – podmiot będący właścicielem pojazdu kolejowego lub posiadający prawo do korzystania z niego jako środka transportu, wpisany do europejskiego rejestru pojazdów kolejowych (EVR);
+- **6c)** podmiot odpowiedzialny za utrzymanie pojazdu kolejowego (ECM ) – wpisany do europejskiego rejestru pojazdów kolejowych (EVR) podmiot obowiązany do zagwarantowania utrzymania pojazdu kolejowego;
+- **6d)** podmiot zamawiający – podmiot, który zamawia zaprojektowanie, budowę, odnowienie lub modernizację podsystemu, w szczególności przewoźnika kolejowego, zarządcę infrastruktury lub dysponenta;
+- **6e)** (uchylony) 6f) pojazd kolejowy specjalny – pojazd kolejowy przeznaczony do utrzymania, naprawy lub budowy infrastruktury kolejowej, lub przeznaczony do prowadzenia działań ratowniczych;
+- **6g)** krajowy rejestr infrastruktury (RINF) – rejestr infrastruktury kolejowej, a także bocznic kolejowych eksploatowanych na terytorium Rzeczypospolitej Polskiej;
+- **6h)** pojazd historyczny – pojazd kolejowy:
+    - **a)** wpisany do inwentarza muzealiów, o którym mowa w ustawie z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385), lub do inwentarza muzeum lub rejestru zabytków, lub wojewódzkiej ewidencji zabytków, o których mowa w ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz.
+
+- **1168)** , lub
+    - **b)** będący lokomotywą parową eksploatowaną przed dniem 14 listopada 1997 r., lub
+    - **c)** spełniający co najmniej jeden z następujących warunków: – zawiera rozwiązania konstrukcyjne o charakterze unikatowym dokumentujące etapy rozwoju techniki kolejowej, – jest związany z wydarzeniami historycznymi lub był użytkowany przez znane postacie historyczne;
+
+- **6i)** pojazd turystyczny – pojazd kolejowy wykorzystywany wyłącznie w celach turystycznych, demonstracyjnych lub rekreacyjnych;
+- **7)** zarządca infrastruktury – podmiot odpowiedzialny za zarządzanie infrastrukturą kolejową, jej eksploatację, utrzymanie, odnowienie lub udział w rozwoju tej infrastruktury, a w przypadku budowy nowej infrastruktury, podmiot, który przystąpił do jej budowy w charakterze inwestora;
+- **8)** obszar kolejowy – powierzchnia gruntu określona działkami ewidencyjnymi, na której znajduje się droga kolejowa, budynki, budowle i urządzenia przeznaczone do zarządzania, eksploatacji i utrzymania linii kolejowej oraz przewozu osób i rzeczy;
+- **8a)** dworzec kolejowy – obiekt budowlany lub zespół obiektów budowlanych, w którym znajdują się pomieszczenia przeznaczone do obsługi podróżnych korzystających z transportu kolejowego, położony przy linii kolejowej;
+- **9)** przewoźnik kolejowy – przedsiębiorca uprawniony do wykonywania przewozów kolejowych, w tym przedsiębiorca świadczący wyłącznie usługę trakcyjną, na podstawie licencji i jednolitego certyfikatu bezpieczeństwa, lub przedsiębiorca uprawniony do wykonywania przewozów kolejowych na podstawie świadectwa bezpieczeństwa;
+- **9a)** usługa trakcyjna – działalność przewoźnika kolejowego polegającą na zapewnieniu pojazdu kolejowego z napędem wraz z obsługą maszynistów do wykonywania przewozu kolejowego albo zapewnienie obsługi maszynistów do prowadzenia pojazdu kolejowego z napędem;
+- **9b)** aplikant – przewoźnik kolejowy, międzynarodowe ugrupowanie interesów gospodarczych obejmujące przewoźników kolejowych lub inny podmiot zainteresowany uzyskaniem zdolności przepustowej, w szczególności organizator publicznego transportu kolejowego, spedytor, nadawca ładunku lub operator transportu kombinowanego;
+- **9c)** umowa ramowa – umowa zawierana między zarządcą infrastruktury a aplikantem o rezerwację zdolności przepustowej w okresie wykraczającym poza okres obowiązywania rocznego rozkładu jazdy pociągów;
+- **10)** bocznica kolejowa – wyznaczona przez zarządcę infrastruktury droga kolejowa, połączona bezpośrednio lub pośrednio z linią kolejową, służąca do wykonywania czynności ładunkowych, utrzymaniowych lub postoju pojazdów kolejowych albo przemieszczania i włączania pojazdów kolejowych do ruchu po sieci kolejowej;
+- **10a)** użytkownik bocznicy kolejowej – podmiot zarządzający bocznicą kolejową;
+- **11)** zdolność przepustowa – możliwość eksploatacyjno-ruchowa drogi kolejowej do wykonania na niej przejazdów pociągów albo manewrów w określonym czasie;
+- **12)** trasa pociągu – zdolność przepustowa zarezerwowana dla przejazdu pociągu;
+- **13)** typ pojazdu – ogół rozwiązań technicznych zastosowanych w projekcie pojazdu, określonych zasadniczymi cechami konstrukcyjnymi pojazdu;
+- **13a)** obszar użytkowania pojazdu – sieć kolejowa lub sieci kolejowe na terytorium państwa członkowskiego Unii Europejskiej lub państw członkowskich Unii Europejskiej, gdzie dany pojazd ma być użytkowany;
+- **14)** typ budowli – budowlę przeznaczoną do prowadzenia ruchu kolejowego o określonych powtarzalnych parametrach technicznych i eksploatacyjnych;
+- **14a)** typ urządzenia – urządzenie lub system przeznaczone do prowadzenia ruchu kolejowego o określonych powtarzalnych parametrach technicznych i eksploatacyjnych;
+- **15)** świadectwo dopuszczenia do eksploatacji typu – dokument uprawniający do eksploatacji odpowiednio typu pojazdu, typu budowli albo typu urządzenia;
+- **15a)** certyfikat zgodności typu – dokument wystawiony przez jednostkę organizacyjną uprawnioną do przeprowadzenia badań technicznych koniecznych do uzyskania świadectwa dopuszczenia do eksploatacji typu potwierdzający przeprowadzenie tych badań z wynikiem pozytywnym;
+- **15b)** certyfikat zgodności z typem – dokument wystawiony przez jednostkę organizacyjną uprawnioną do przeprowadzenia badań technicznych koniecznych do stwierdzania zgodności z typem, potwierdzający, że dane urządzenie, budowla albo pojazd kolejowy są zgodne z typem, który uprzednio uzyskał świadectwo dopuszczenia do eksploatacji typu;
+- **16)** (uchylony) 16a) (uchylony)
+- **17)** świadectwo sprawności technicznej pojazdu kolejowego – dokument potwierdzający, że pojazd kolejowy jest sprawny technicznie;
+- **18)** świadectwo bezpieczeństwa – dokument potwierdzający zdolność bezpiecznego prowadzenia ruchu kolejowego i wykonywania przewozów kolejowych, wydawany podmiotom zwolnionym z obowiązku uzyskania jednolitego certyfikatu bezpieczeństwa i autoryzacji bezpieczeństwa;
+- **18a)** jednolity certyfikat bezpieczeństwa – dokument potwierdzający ustanowienie przez przewoźnika kolejowego systemu zarządzania bezpieczeństwem i możliwość bezpiecznego prowadzenia działalności w planowanym obszarze działalności;
+- **18b)** autoryzacja bezpieczeństwa – dokument potwierdzający ustanowienie przez zarządcę infrastruktury systemu zarządzania bezpieczeństwem oraz zdolność spełniania przez niego wymagań niezbędnych do bezpiecznego projektowania, eksploatacji i utrzymania infrastruktury kolejowej, w tym systemu sterowania ruchem kolejowym i sygnalizacji;
+- **19)** umowa o świadczenie usług publicznych – umowa o świadczenie usług publicznych w zakresie publicznego transportu zbiorowego w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
+- **19a)** organizator publicznego transportu kolejowego – organizator publicznego transportu zbiorowego w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym w zakresie odnoszącym się do pasażerskich przewozów kolejowych;
+- **19b)** operator publicznego transportu kolejowego – operator publicznego transportu zbiorowego w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym w zakresie odnoszącym się do pasażerskich przewozów kolejowych;
+- **19c)** przewóz o charakterze użyteczności publicznej – przewóz o charakterze użyteczności publicznej w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
+- **19d)** (uchylony)
+- **20)** (uchylony) 20a) przewozy wojewódzkie – wojewódzkie przewozy pasażerskie w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
+- **20b)** przewozy lokalne – powiatowe przewozy pasażerskie, powiatowo-gminne przewozy pasażerskie, gminne przewozy pasażerskie lub metropolitarne przewozy pasażerskie w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
+- **21)** (uchylony)
+- **22)** przewóz technologiczny – przejazd wykonywany na potrzeby zarządcy infrastruktury w celu jej budowy, naprawy, utrzymania, nadzoru bądź usuwania awarii;
+- **22a)** pasażerski przewóz okazjonalny – jednorazowy przewóz w zakresie pasażerskiego transportu kolejowego mający na celu zaspokojenie potrzeb przewozowych nieprzewidzianych w realizowanych na danej linii przewozach na podstawie umowy o świadczenie usług publicznych albo decyzji o przyznaniu otwartego dostępu albo decyzji o przyznaniu ograniczonego dostępu;
+- **23)** rozkład jazdy pociągów – plan, według którego mają się odbywać przejazdy pociągów na danej sieci kolejowej lub jej części w czasie, w którym on obowiązuje;
+- **24)** (uchylony)
+- **25)** (uchylony)
+- **26)** system kolei Unii – elementy wymienione w załączniku nr 1a do ustawy;
+- **26a)** (uchylony)
+- **27)** (uchylony)
+- **28)** (uchylony)
+- **29)** interoperacyjność – zdolność systemu kolei Unii do zapewnienia bezpiecznego i nieprzerwanego przejazdu pociągów spełniających wymagany stopień wydajności;
+- **30)** składnik interoperacyjności – podstawowe składniki, grupy składników, podzespoły lub zespoły, które są włączone lub które mają być włączone do podsystemu, od którego pośrednio lub bezpośrednio zależy interoperacyjność; składnikiem interoperacyjności jest również oprogramowanie;
+- **30a)** szczególny przypadek – część systemu kolei Unii, dla którego, tymczasowo lub na stałe, ustalono odrębne przepisy w technicznych specyfikacjach interoperacyjności ze względu na istniejące ograniczenia geograficzne, topograficzne lub miejskie lub ze względu na konieczność zapewnienia zgodności z istniejącym systemem kolei Unii;
+- **30b)** punkty otwarte – wskazane w technicznych specyfikacjach interoperacyjności warunki techniczne odnoszące się do zasadniczych wymagań systemu kolei, do których stosuje się przepisy krajowe;
+- **30c)** zaawansowany etap realizacji – etap planowania albo realizacji projektu odnowienia, modernizacji lub budowy podsystemu, na którym zmiana specyfikacji technicznych mogłaby zagrozić planowanej rentowności tego projektu;
+- **31)** podsystem – część systemu kolei Unii o charakterze strukturalnym bądź funkcjonalnym, dla której ustalono odrębne zasadnicze wymagania systemu kolei;
+- **32)** zasadnicze wymagania systemu kolei – wymagania określone w dyrektywie Parlamentu Europejskiego i Rady (UE) 2016/797 z dnia 11 maja 2016 r. w sprawie interoperacyjności systemu kolei w Unii Europejskiej, dotyczące składników interoperacyjności, podsystemów i ich powiązań, których wypełnienie wymagane jest w celu zapewnienia interoperacyjności;
+- **33)** techniczne specyfikacje interoperacyjności – specyfikacje obejmujące podsystemy lub ich części w celu spełnienia zasadniczych wymagań systemu kolei, ogłaszane przez Komisję Europejską w Dzienniku Urzędowym Unii Europejskiej;
+- **33a)** specyfikacja europejska – specyfikacja należąca do jednej z następujących kategorii:
+    - **a)** specyfikacji technicznej z dziedziny technologii informacyjnokomunikacyjnych (TIK) określonej zgodnie z art. 13 i art. 14,
+    - **b)** normy europejskiej w rozumieniu art. 2 pkt 1 lit. b – rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1025/2012 z dnia 25 października 2012 r. w sprawie normalizacji europejskiej, zmieniającego dyrektywy Rady 89/686/EWG i 93/15/EWG oraz dyrektywy Parlamentu Europejskiego i Rady 94/9/WE, 94/25/WE, 95/16/WE, 97/23/WE, 98/34/WE, 2004/22/WE, 2007/23/WE, 2009/23/WE i 2009/105/WE oraz uchylającego decyzję Rady 87/95/EWG i decyzję Parlamentu Europejskiego i Rady nr 1673/2006/WE (Dz. Urz. UE L 316 z 14.11.2012, str. 12, z późn. zm. ),
+    - **c)** europejskiej aprobaty technicznej;
+
+- **33b)** procedura weryfikacji WE podsystemu – czynności podejmowane przez producenta albo jego upoważnionego przedstawiciela mającego siedzibę na terytorium państwa członkowskiego Unii Europejskiej, podmiot zamawiający, wykonawcę modernizacji, importera, inwestora, dysponenta, użytkownika bocznicy kolejowej, zarządcę infrastruktury albo przewoźnika kolejowego, mające na celu wykazanie, że podsystem jest zgodny z zasadniczymi wymaganiami systemu kolei, spełnia wymagania zawarte w odpowiednich przepisach Unii Europejskiej oraz przepisach krajowych i może zostać dopuszczony do eksploatacji w systemie kolei Unii;
+- **34)** certyfikat weryfikacji WE podsystemu – dokument wydany przez jednostkę notyfikowaną potwierdzający, że podsystem jest zgodny z zasadniczymi wymaganiami systemu kolei;
+- **34a)** (uchylony) 34b) certyfikat WE zgodności lub przydatności do stosowania składnika interoperacyjności – dokument wydany przez jednostkę notyfikowaną potwierdzający, że składnik interoperacyjności jest zgodny z zasadniczymi wymaganiami systemu kolei lub potwierdzający, że składnik interoperacyjności jest przydatny do stosowania; 34ba) certyfikat weryfikacji podsystemu – dokument wydany przez jednostkę wyznaczoną potwierdzający, że podsystem jest zgodny z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei;
+- **34c)** (uchylony) 34d) (uchylony) 34e) (uchylony) 34f) jednostka notyfikowana – podmiot odpowiedzialny za ocenę zgodności lub przydatności do stosowania składnika interoperacyjności oraz odpowiedzialny za prowadzenie procedur weryfikacji WE podsystemów;
+- **34g)** jednostka wyznaczona – podmiot wyznaczony do przeprowadzania oceny zgodności podsystemów na zgodność z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei;
+- **35)** deklaracja weryfikacji WE podsystemu – oświadczenie producenta albo jego upoważnionego przedstawiciela mającego siedzibę na terytorium państwa członkowskiego Unii Europejskiej, podmiotu zamawiającego, wykonawcy modernizacji, importera, inwestora, dysponenta, użytkownika bocznicy kolejowej, zarządcy infrastruktury albo przewoźnika kolejowego stwierdzające, na jego wyłączną odpowiedzialność, że podsystem, który został poddany procedurze weryfikacji WE podsystemu, jest zgodny z zasadniczymi wymaganiami systemu kolei i spełnia wymagania zawarte w odpowiednich przepisach Unii Europejskiej oraz przepisach krajowych;
+- **35a)** (uchylony) 35b) deklaracja WE zgodności lub przydatności do stosowania składnika interoperacyjności – oświadczenie producenta albo jego upoważnionego przedstawiciela mającego siedzibę na terytorium państwa członkowskiego Unii Europejskiej, podmiotu zamawiającego, wykonawcy modernizacji, importera, inwestora, dysponenta, użytkownika bocznicy kolejowej, zarządcy infrastruktury albo przewoźnika kolejowego stwierdzające, na jego wyłączną odpowiedzialność, że składnik interoperacyjności jest zgodny z zasadniczymi wymaganiami systemu kolei i spełnia wymagania zawarte w odpowiednich przepisach Unii Europejskiej oraz przepisach krajowych, lub potwierdzające, że składnik interoperacyjności jest przydatny do stosowania;
+- **35c)** deklaracja zgodności z typem – oświadczenie producenta albo jego upoważnionego przedstawiciela mającego siedzibę na terytorium państwa członkowskiego Unii Europejskiej, podmiotu zamawiającego, wykonawcy modernizacji, importera, inwestora, dysponenta, zarządcy infrastruktury, użytkownika bocznicy kolejowej albo przewoźnika kolejowego stwierdzające, na jego wyłączną odpowiedzialność, że dany pojazd kolejowy, urządzenie albo budowla są zgodne odpowiednio z typem pojazdu, urządzenia albo budowli, który już otrzymał zezwolenie na dopuszczenie do eksploatacji lub zezwolenie na wprowadzenie do obrotu albo świadectwo dopuszczenia do eksploatacji typu;
+- **36)** dopuszczenie do eksploatacji – wszystkie czynności, w wyniku których podsystem zostaje oddany do eksploatacji;
+- **36a)** dopuszczenie do eksploatacji typu – czynności faktyczne i prawne konieczne do dopuszczenia odpowiednio typu pojazdu, typu budowli albo typu urządzenia do użytkowania, kończące się wydaniem świadectwa dopuszczenia do eksploatacji typu;
+- **36b)** (uchylony) 36c) terminal towarowy – obiekt budowlany lub zespół obiektów budowlanych obejmujący drogę kolejową, umożliwiający załadunek lub rozładunek wagonów lub integrację różnych rodzajów transportu w zakresie przewozów towarów;
+- **37)** środki publiczne – środki publiczne w rozumieniu przepisów o finansach publicznych;
+- **37a)** państwo członkowskie Unii Europejskiej – państwo członkowskie Unii Europejskiej oraz państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym i Konfederację Szwajcarską;
+- **38)** Agencja – Agencję Kolejową Unii Europejskiej ustanowioną rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004 (Dz. Urz. UE L 138 z 26.05.2016, str. 1);
+- **38a)** punkt kompleksowej obsługi – system informacyjno-komunikacyjny, o którym mowa w art. 12 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004;
+- **39)** system zarządzania bezpieczeństwem – organizacja, środki i procedury przyjęte przez zarządcę infrastruktury i przewoźnika kolejowego w celu zapewnienia bezpiecznego zarządzania swoim działaniem;
+- **40)** wspólne wskaźniki bezpieczeństwa (CSI) – informacje statystyczne odnoszące się do wypadków i incydentów kolejowych, skutków wypadków, bezpieczeństwa technicznego infrastruktury kolejowej i zarządzania bezpieczeństwem;
+- **41)** wspólne metody oceny bezpieczeństwa (CSM) – metody opisujące ocenę poziomu bezpieczeństwa, spełniania celów bezpieczeństwa oraz zgodności z innymi wymaganiami dotyczącymi bezpieczeństwa;
+- **42)** wspólne cele bezpieczeństwa (CST) – minimalne poziomy bezpieczeństwa, które powinny być osiągnięte przez system kolei Unii jako całość lub w odpowiednich przypadkach przez różne części systemu kolei Unii;
+- **43)** modernizacja – większe prace modyfikacyjne wykonywane w podsystemie lub jego części poprawiające całkowite osiągi podsystemu oraz skutkujące zmianą dokumentacji technicznej dołączonej do deklaracji weryfikacji WE, o ile taka dokumentacja techniczna istnieje;
+- **44)** odnowienie – większe prace wymienne w podsystemie lub w części podsystemu, które nie zmieniają całkowitych osiągów podsystemu;
+- **44a)** rozwój infrastruktury kolejowej – planowanie sieci kolejowej, planowanie finansowe i inwestycyjne oraz budowa lub modernizacja infrastruktury kolejowej;
+- **45)** wypadek – niezamierzone nagłe zdarzenie lub ciąg takich zdarzeń z udziałem pojazdu kolejowego, powodujące negatywne konsekwencje dla zdrowia ludzkiego, mienia lub środowiska; do wypadków zalicza się w szczególności:
+    - **a)** kolizje,
+    - **b)** wykolejenia,
+    - **c)** zdarzenia na przejazdach,
+    - **d)** zdarzenia z udziałem osób spowodowane przez pojazd kolejowy będący w ruchu,
+    - **e)** pożar pojazdu kolejowego;
+
+- **46)** poważny wypadek – każdy wypadek spowodowany kolizją, wykolejeniem lub innym zdarzeniem mającym oczywisty wpływ na regulacje bezpieczeństwa kolei lub na zarządzanie bezpieczeństwem:
+    - **a)** z przynajmniej jedną ofiarą śmiertelną lub przynajmniej 5 ciężko rannymi osobami, lub
+    - **b)** powodujący znaczne zniszczenie pojazdu kolejowego, infrastruktury kolejowej lub środowiska, które mogą zostać natychmiast oszacowane przez komisję badającą wypadek na co najmniej 2 miliony euro;
+
+- **47)** incydent – każde zdarzenie, inne niż wypadek lub poważny wypadek, mające wpływ na bezpieczeństwo ruchu kolejowego;
+- **48)** postępowanie – proces mający na celu zapobieganie wypadkom i incydentom obejmujący zbieranie i analizę informacji, wyciąganie wniosków dotyczących przyczyn wypadków i incydentów oraz w uzasadnionych przypadkach opracowanie zaleceń dotyczących bezpieczeństwa;
+- **49)** interoperacyjne usługi transgraniczne – usługi, których świadczenie wiąże się z przekroczeniem granic Rzeczypospolitej Polskiej i wymaga uprawnień do prowadzenia działalności obejmujących przynajmniej dwa państwa członkowskie Unii Europejskiej;
+- **50)** tajemnica przedsiębiorstwa – tajemnica przedsiębiorstwa w rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233 oraz z 2025 r. poz. 794);
+- **51)** obiekt infrastruktury usługowej – obiekt budowlany wraz z gruntem, na którym jest usytuowany, oraz instalacjami i urządzeniami, przeznaczony w całości lub w części do świadczenia jednej lub większej liczby usług, o których mowa w ust. 2 i 3 załącznika nr 2 do ustawy;
+- **52)** operator obiektu infrastruktury usługowej – podmiot wykonujący działalność polegającą na zarządzaniu obiektem infrastruktury usługowej lub świadczeniu na rzecz przewoźników kolejowych co najmniej jednej z usług, o których mowa w ust. 2 i 3 załącznika nr 2 do ustawy;
+- **53)** stacja pasażerska – obiekt infrastruktury usługowej obejmujący dworzec kolejowy wraz z infrastrukturą umożliwiającą pasażerom dostęp do peronu, pieszo lub pojazdem, z drogi publicznej lub dworca kolejowego;
+- **54)** operator stacji pasażerskiej – podmiot zarządzający stacją pasażerską;
+- **55)** stacja rozrządowa – stacja kolejowa wyposażona w urządzenia do rozrządu wagonów, w skład której wchodzą urządzenia umożliwiające zestawianie składów pociągów i wykonywanie manewrów;
+- **56)** tory postojowe – tory przeznaczone specjalnie do tymczasowego postoju pojazdów kolejowych lub składów pojazdów kolejowych między dwoma okresami ich eksploatacji;
+- **57)** przedsiębiorstwo zintegrowane pionowo:
+    - **a)** podmiot lub grupę podmiotów, w których zarządca infrastruktury: – jest kontrolowany przez podmiot, który jednocześnie kontroluje co najmniej jednego przewoźnika kolejowego wykonującego przewozy na sieci kolejowej tego zarządcy, – jest kontrolowany przez co najmniej jednego przewoźnika kolejowego, który wykonuje przewozy na jego sieci kolejowej, – kontroluje co najmniej jednego przewoźnika kolejowego, który wykonuje przewozy na jego sieci kolejowej – na podstawie praw, umów lub jakichkolwiek innych środków prawnych lub faktycznych, o których mowa w art. 3 ust. 2 rozporządzenia Rady (WE) nr 139/2004 z dnia 20 stycznia 2004 r. w sprawie kontroli koncentracji przedsiębiorstw (rozporządzenie WE w sprawie kontroli łączenia przedsiębiorstw) (Dz. Urz. UE L 24 z 29.01.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 3, str. 40), zwanego dalej „rozporządzeniem (WE) nr 139/2004”,
+    - **b)** podmiot, w którego skład wchodzi zarządca infrastruktury oraz wyodrębnione organizacyjnie części tego podmiotu, nieposiadające odrębnej osobowości prawnej, wykonujące przewozy kolejowe;
+
+- **58)** przewozy pasażerskie kolejami dużych prędkości – przewozy pasażerskie wykonywane bez przystanków pośrednich między dwoma miejscami położonymi od siebie w odległości większej niż 200 km, na liniach kolejowych specjalnie przystosowanych do prędkości nie mniejszej niż 250 km/h, wykonywane średnio z taką prędkością;
+- **59)** funkcje podstawowe – podejmowanie przez zarządcę infrastruktury decyzji dotyczących udostępniania infrastruktury kolejowej i pobierania opłat za korzystanie z infrastruktury kolejowej, w tym ich ustalania, zgodnie z przepisami rozdziału 6;
+- **60)** rodzaj działalności – przewozy pasażerskie, w tym przewozy kolejami dużych prędkości, przewozy towarowe, w tym przewozy towarów niebezpiecznych, lub wyłącznie manewry;
+- **61)** zakres działalności – zakres określany w kategoriach liczby pasażerów lub wolumenu towarów oraz szacunkowej wielkości przewoźnika kolejowego wyrażonej liczbą osób zatrudnionych w sektorze kolejowym;
+- **62)** obszar działalności – sieć kolejowa lub sieci kolejowe na terytorium państwa członkowskiego Unii Europejskiej lub państw członkowskich Unii Europejskiej, gdzie przewoźnik kolejowy zamierza prowadzić działalność.
+
 #### Rozdział 2 Infrastruktura kolejowa
 
 **Art. 5.**
 
 1. Do zadań zarządcy infrastruktury, zwanego dalej „zarządcą”, należy:
 
-- **1)** zarządzanie infrastrukturą kolejową polegające na: utrzymanie stanu i zdolności istniejącej infrastruktury kolejowej do bezpiecznego prowadzenia ruchu kolejowego, w tym nadzór nad funkcjonowaniem urządzeń sterowania ruchem kolejowym i przytorowych urządzeń kontroli bezpiecznej jazdy pociągów;
+- **1)** zarządzanie infrastrukturą kolejową polegające na:
     - **a)** nadawaniu drodze kolejowej statusu linii kolejowej przez określenie: – elementów infrastruktury kolejowej wchodzących w jej skład, – jej punktu początkowego i końcowego, – stacji kolejowych wchodzących w jej skład, – odcinków, na jakie jest podzielona, – jej numeru,
     - **b)** nadawaniu drodze kolejowej statusu bocznicy kolejowej przez określenie jej punktu początkowego i końcowego,
     - **c)** znoszeniu statusu linii kolejowej i bocznicy kolejowej,
@@ -149,6 +298,7 @@ Art. 67–69. (pominięte)
     - **a)** udostępnianiu infrastruktury kolejowej, świadczeniu usług z tym związanych i pobieraniu z tego tytułu opłat,
     - **b)** prowadzeniu ruchu kolejowego;
 
+- **2)** utrzymanie infrastruktury kolejowej przez prowadzenie prac mających na celu utrzymanie stanu i zdolności istniejącej infrastruktury kolejowej do bezpiecznego prowadzenia ruchu kolejowego, w tym nadzór nad funkcjonowaniem urządzeń sterowania ruchem kolejowym i przytorowych urządzeń kontroli bezpiecznej jazdy pociągów;
 - **3)** zarządzanie nieruchomościami będącymi elementem infrastruktury kolejowej;
 - **4)** udział w rozwoju infrastruktury kolejowej;
 - **5)** odnowienie infrastruktury kolejowej.
@@ -165,7 +315,9 @@ Art. 67–69. (pominięte)
 
 3. Zarządca, który udostępnia infrastrukturę kolejową, z wyjątkiem zarządcy, który udostępnia wyłącznie infrastrukturę kolejową stanowiącą element obiektu infrastruktury usługowej, nie jest uprawniony do wykonywania przewozów kolejowych, z wyjątkiem wykonywania przewozów technologicznych dla własnych potrzeb.
 
-3a. Przewoźnik kolejowy nie jest uprawniony do zarządzania infrastrukturą kolejową z wyjątkiem infrastruktury kolejowej stanowiącej element obiektu infrastruktury usługowej, którego jest operatorem, oraz infrastruktury prywatnej. przedsiębiorcy, który łączy funkcję zarządcy i przewoźnika kolejowego przez zarządzanie infrastrukturą kolejową i wykonywanie wyłącznie miejskich, podmiejskich lub regionalnych przewozów kolejowych na sieciach kolejowych lub liniach kolejowych:
+3a. Przewoźnik kolejowy nie jest uprawniony do zarządzania infrastrukturą kolejową z wyjątkiem infrastruktury kolejowej stanowiącej element obiektu infrastruktury usługowej, którego jest operatorem, oraz infrastruktury prywatnej.
+
+3b. Przepisów ust. 3 i 3a, rozdziału 2aa oraz art. 37 ust. 3–8 nie stosuje się do przedsiębiorcy, który łączy funkcję zarządcy i przewoźnika kolejowego przez zarządzanie infrastrukturą kolejową i wykonywanie wyłącznie miejskich, podmiejskich lub regionalnych przewozów kolejowych na sieciach kolejowych lub liniach kolejowych:
 
 - **1)** wydzielonych, o zasięgu lokalnym lub regionalnym, lub
 - **2)** przeznaczonych wyłącznie do wykonywania miejskich lub podmiejskich przewozów kolejowych.
@@ -185,9 +337,14 @@ Art. 67–69. (pominięte)
 
 5. (uchylony)
 
-6. Rada Ministrów określi, w drodze rozporządzenia, zasady współdziałania Ministra Obrony Narodowej z zarządcami i przewoźnikami kolejowymi w zakresie dostosowania infrastruktury kolejowej do wymogów obronności państwa, uwzględniając wymagania związane z obronnością państwa. odniesieniu do infrastruktury kolejowej o znaczeniu obronnym, przepisów ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637) nie stosuje się.
+6. Rada Ministrów określi, w drodze rozporządzenia, zasady współdziałania Ministra Obrony Narodowej z zarządcami i przewoźnikami kolejowymi w zakresie dostosowania infrastruktury kolejowej do wymogów obronności państwa, uwzględniając wymagania związane z obronnością państwa.
+
+**Art. 5a.** Do wykonywania zadań zarządcy, o których mowa w art. 5 ust. 1, w odniesieniu do infrastruktury kolejowej o znaczeniu obronnym, przepisów ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637) nie stosuje się.
 
 **Art. 5b.** Na wniosek organizatora publicznego transportu kolejowego zarządca przygotowuje i przedstawia informacje:
+
+- **1)** niezbędne do opracowania projektu planu transportowego;
+- **2)** dotyczące przepustowości infrastruktury danej trasy i standardu jakości dostępu danej linii kolejowej oraz zakres planowanych remontów oraz inwestycji infrastruktury kolejowej służące do określenia warunków umowy o świadczenie usług publicznych.
 
 **Art. 5c.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia, zakres i tryb udzielania przez zarządcę infrastruktury organizatorowi publicznego transportu kolejowego informacji, o których mowa w art. 5b, mając na uwadze potrzebę zapewnienia danych niezbędnych do opracowania planu transportowego oraz do określenia warunków umowy o świadczenie usług publicznych, a także konieczność przeprowadzenia właściwych analiz.
 
@@ -206,7 +363,9 @@ Art. 67–69. (pominięte)
 
 4. Zarządzenie, o którym mowa w ust. 3, nie podlega ogłoszeniu.
 
-**Art. 7.** Minister właściwy do spraw transportu może nałożyć na zarządców, w drodze decyzji, obowiązek połączenia dróg kolejowych, jeżeli wymagają tego względy obronne lub inne ważne względy państwa, pod warunkiem zapewnienia niezbędnych środków finansowych na budowę, eksploatację i utrzymanie tego połączenia. użytkowania wieczystego.
+**Art. 7.** Minister właściwy do spraw transportu może nałożyć na zarządców, w drodze decyzji, obowiązek połączenia dróg kolejowych, jeżeli wymagają tego względy obronne lub inne ważne względy państwa, pod warunkiem zapewnienia niezbędnych środków finansowych na budowę, eksploatację i utrzymanie tego połączenia.
+
+**Art. 8.** Grunty zajęte pod infrastrukturę kolejową są zwolnione od opłat z tytułu użytkowania wieczystego.
 
 **Art. 9.** (uchylony)
 
@@ -226,7 +385,8 @@ Art. 67–69. (pominięte)
 
 1. Decyzję o ustaleniu lokalizacji linii kolejowej wydaje wojewoda, na wniosek:
 
-- **1)** PKP Polskich Linii Kolejowych Spółki Akcyjnej, zwanych dalej „PLK S.A.”, lub o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747), lub spółki, o której mowa w art. 15 ust. 1 tej ustawy, zwanych dalej „CPK”, lub
+- **1)** PKP Polskich Linii Kolejowych Spółki Akcyjnej, zwanych dalej „PLK S.A.”, lub
+- **2)** Spółki Celowej, o której mowa w art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747), lub spółki, o której mowa w art. 15 ust. 1 tej ustawy, zwanych dalej „CPK”, lub
 - **3)** właściwej jednostki samorządu terytorialnego.
 
 2. Do postępowania w sprawach o wydanie decyzji o ustaleniu lokalizacji linii kolejowej stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769), zwanej dalej „Kodeksem postępowania administracyjnego”, z zastrzeżeniem przepisów niniejszej ustawy.
@@ -240,12 +400,12 @@ Art. 67–69. (pominięte)
     - **b)** określającą oznaczenie terenu objętego inwestycją, w tym przebieg linii rozgraniczającej teren obejmujący nieruchomości, o których mowa w art.
     - **c)** przedstawiającą proponowane linie wydzielenia pasów drogowych dróg różnych kategorii;
 
-- **2)** określenie zmian w dotychczasowym przeznaczeniu, zagospodarowaniu i uzbrojeniu terenu, przy czym przez uzbrojenie terenu należy rozumieć wybudowane urządzenia, o których mowa w art. 143 ust. 2 ustawy z dnia 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080);
+- **2)** określenie zmian w dotychczasowym przeznaczeniu, zagospodarowaniu i uzbrojeniu terenu, przy czym przez uzbrojenie terenu należy rozumieć wybudowane urządzenia, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080);
 - **3)** mapę z rejestrem nieruchomości objętych wnioskiem, a – w przypadku konieczności dokonania podziału nieruchomości – mapę do celów prawnych, w tym z projektem podziału nieruchomości, sporządzone zgodnie z przepisami wydanymi na podstawie art. 19 ust. 1 pkt 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019);
 - **3a)** wykaz nieruchomości lub ich części, które planowane są do przejęcia na rzecz Skarbu Państwa lub jednostki samorządu terytorialnego albo stanowią ich własność, w stosunku do których decyzja o ustaleniu lokalizacji linii kolejowej ma wywołać skutek, o którym mowa w art. 9s ust. 3b i 3e, zawierający oznaczenia działek według katastru nieruchomości lub map do celów prawnych z projektem podziału nieruchomości oraz powierzchnie tych działek;
 - **3b)** wykaz nieruchomości, zawierający oznaczenia działek według katastru nieruchomości lub map do celów prawnych z projektem podziału nieruchomości, w stosunku do których decyzja o ustaleniu lokalizacji linii kolejowej ma wywołać skutki w postaci: ograniczenia sposobu korzystania z nieruchomości, o którym mowa w art. 9q ust. 1 pkt 6 lub art. 9s ust. 9, oraz uprawnienia, o którym mowa w art. 9ya ust. 1;
 - **3c)** określenie podmiotów, na rzecz których planowane jest ustalenie ograniczenia w korzystaniu z nieruchomości, o którym mowa w art. 9q ust. 1 pkt 6;
-- **4)** opinie: poz. 1135), aa) Ministra Obrony Narodowej – w odniesieniu do inwestycji dotyczących linii kolejowych o znaczeniu obronnym i linii kolejowych o znaczeniu wyłącznie obronnym oraz inwestycji lokalizowanych w całości albo w części na terenach zamkniętych niezbędnych dla obronności państwa, ustalonych na podstawie art. 4 ust. 2a ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne przez Ministra Obrony Narodowej, lub w ich strefach o planowaniu i zagospodarowaniu przestrzennym, o planowaniu i zagospodarowaniu przestrzennym – w odniesieniu do terenów nieobjętych aktualnymi planami zagospodarowania przestrzennego,
+- **4)** opinie: poz. 1135), aa) Ministra Obrony Narodowej – w odniesieniu do inwestycji dotyczących linii kolejowych o znaczeniu obronnym i linii kolejowych o znaczeniu wyłącznie obronnym oraz inwestycji lokalizowanych w całości albo w części na terenach zamkniętych niezbędnych dla obronności państwa, ustalonych na podstawie art. 4 ust. 2a ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne przez Ministra Obrony Narodowej, lub w ich strefach ochronnych, o których mowa w art. 4 ust. 3 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, o planowaniu i zagospodarowaniu przestrzennym – w odniesieniu do terenów nieobjętych aktualnymi planami zagospodarowania przestrzennego,
     - **a)** ministra właściwego do spraw zdrowia – w odniesieniu do inwestycji lokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r.
     - **b)** dyrektora właściwego urzędu morskiego – w odniesieniu do morskich portów i przystani wraz z obszarami pasa technicznego oraz pasa ochronnego,
     - **c)** właściwego organu nadzoru górniczego – w odniesieniu do terenów górniczych, ca) ministra właściwego do spraw środowiska – w odniesieniu do złóż strategicznych,
@@ -257,7 +417,7 @@ Art. 67–69. (pominięte)
     - **i)** właściwego zarządcy drogi publicznej – w odniesieniu do drogi publicznej, która krzyżuje się z linią kolejową,
     - **j)** właściwego zarządcy infrastruktury kolejowej – w odniesieniu do projektowanej linii kolejowej, która krzyżuje się z linią kolejową tego zarządcy lub jest lokalizowana w obszarze kolejowym jego linii.
 
-4. Właściwy organ, na wniosek PLK S.A., CPK lub właściwej jednostki samorządu terytorialnego, wydaje opinie, o których mowa w ust. 3 pkt 4, w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie opinii. Niewydanie o ustaleniu lokalizacji linii kolejowej.
+4. Właściwy organ, na wniosek PLK S.A., CPK lub właściwej jednostki samorządu terytorialnego, wydaje opinie, o których mowa w ust. 3 pkt 4, w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie opinii. Niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń do wniosku o wydanie decyzji o ustaleniu lokalizacji linii kolejowej.
 
 5. Z zastrzeżeniem ust. 5a i 5b, opinie, o których mowa w ust. 3 pkt 4, zastępują uzgodnienia, pozwolenia, opinie bądź stanowiska właściwych organów wymagane odrębnymi przepisami.
 
@@ -271,7 +431,9 @@ Art. 67–69. (pominięte)
 
 6. Wojewoda wysyła zawiadomienie o wszczęciu postępowania o wydanie decyzji o ustaleniu lokalizacji linii kolejowej wnioskodawcy, właścicielom lub użytkownikom wieczystym nieruchomości objętych wnioskiem o wydanie tej decyzji na adres wskazany w katastrze nieruchomości, Prezesowi UTK oraz zawiadamia pozostałe strony o wszczęciu tego postępowania w drodze obwieszczeń w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na przebieg linii kolejowej, na stronach internetowych tych gmin oraz urzędu wojewódzkiego, a także w prasie lokalnej. Doręczenie zawiadomienia na adres wskazany w katastrze nieruchomości jest skuteczne.
 
-6a. W przypadku nieruchomości o nieuregulowanym stanie prawnym oraz w sytuacji, gdy właściciel lub użytkownik wieczysty nie żyją, a ich spadkobiercy nie wykazali prawa do spadku, zawiadomienia, o którym mowa w ust. 6, dokonuje się w drodze obwieszczenia w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na przebieg linii kolejowej, w Biuletynie Informacji Publicznej na stronach podmiotowych tych gmin oraz urzędu wojewódzkiego, a także w prasie lokalnej. 3 miesięcy od dnia złożenia wniosku, o którym mowa w ust. 1.
+6a. W przypadku nieruchomości o nieuregulowanym stanie prawnym oraz w sytuacji, gdy właściciel lub użytkownik wieczysty nie żyją, a ich spadkobiercy nie wykazali prawa do spadku, zawiadomienia, o którym mowa w ust. 6, dokonuje się w drodze obwieszczenia w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na przebieg linii kolejowej, w Biuletynie Informacji Publicznej na stronach podmiotowych tych gmin oraz urzędu wojewódzkiego, a także w prasie lokalnej.
+
+7. Decyzję o ustaleniu lokalizacji linii kolejowej wydaje się w terminie 3 miesięcy od dnia złożenia wniosku, o którym mowa w ust. 1.
 
 8. Z dniem zawiadomienia, o którym mowa w ust. 6, nieruchomości stanowiące własność Skarbu Państwa lub jednostek samorządu terytorialnego, objęte wnioskiem o wydanie decyzji o ustaleniu lokalizacji linii kolejowej, nie mogą być przedmiotem obrotu w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, z zastrzeżeniem ust. 10.
 
@@ -285,7 +447,7 @@ Art. 67–69. (pominięte)
 
 11. W przypadku zbycia własności lub prawa użytkowania wieczystego nieruchomości innej niż wymieniona w ust. 8, objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji linii kolejowej, po doręczeniu zawiadomienia, o którym mowa w ust. 6, nabywca i zbywca są zobowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego w terminie 7 dni od dnia zbycia. Brak terminowego dokonania powyższego zgłoszenia i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania na podstawie art. 145 § 1 pkt 4 Kodeksu postępowania administracyjnego.
 
-12. Z dniem doręczenia zawiadomienia, o którym mowa w ust. 6, w odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji linii kolejowej, do czasu ostatecznego zakończenia postępowania w sprawie wydania takiej decyzji, nie wydaje się decyzji o pozwoleniu na budowę dla innych inwestycji, ostatecznego zakończenia postępowania w sprawie wydania decyzji o ustaleniu lokalizacji linii kolejowej.
+12. Z dniem doręczenia zawiadomienia, o którym mowa w ust. 6, w odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji linii kolejowej, do czasu ostatecznego zakończenia postępowania w sprawie wydania takiej decyzji, nie wydaje się decyzji o pozwoleniu na budowę dla innych inwestycji, a toczące się postępowania w tych sprawach podlegają zawieszeniu do czasu ostatecznego zakończenia postępowania w sprawie wydania decyzji o ustaleniu lokalizacji linii kolejowej.
 
 13. W przypadku zgłoszenia zamiaru wykonywania robót budowlanych wszczęcie postępowania w przedmiocie wydania decyzji o ustaleniu lokalizacji linii kolejowej zobowiązuje właściwy organ administracji architektoniczno-budowlanej do wniesienia sprzeciwu od zgłoszenia.
 
@@ -297,10 +459,14 @@ Art. 67–69. (pominięte)
 
 **Art. 9p.** Decyzji o ustaleniu lokalizacji linii kolejowej nie wydaje się w przypadku robót budowlanych:
 
+- **1)** polegających na remoncie, przebudowie lub rozbudowie linii kolejowej, jeżeli nie powodują zmiany sposobu zagospodarowania terenu i użytkowania obiektu budowlanego oraz nie zmieniają jego formy architektonicznej, a także nie są zaliczone do przedsięwzięć wymagających przeprowadzenia postępowania w sprawie oceny oddziaływania na środowisko, w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647 i 1080) lub
+- **2)** niewymagających pozwolenia na budowę.
+
 **Art. 9q.**
 
 1. Decyzja o ustaleniu lokalizacji linii kolejowej zawiera w szczególności:
 
+- **1)** oznaczenie terenu inwestycji, w tym linii rozgraniczających teren;
 - **2)** warunki techniczne realizacji inwestycji;
 - **3)** warunki wynikające z prawnie chronionych potrzeb ochrony środowiska, ochrony zabytków i dóbr kultury współczesnej oraz potrzeb obronności państwa;
 - **4)** wymagania dotyczące ochrony interesów osób trzecich;
@@ -314,7 +480,7 @@ Art. 67–69. (pominięte)
 
 1a. Do ograniczeń, o których mowa w ust. 1 pkt 6, stosuje się odpowiednio przepisy art. 124 ust. 4–7 oraz art. 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-2. Wojewoda doręcza decyzję o ustaleniu lokalizacji linii kolejowej wnioskodawcy oraz wysyła zawiadomienie o jej wydaniu właścicielom lub użytkownikom wieczystym nieruchomości objętych wnioskiem o wydanie tej decyzji na adres wskazany w katastrze nieruchomości i Prezesowi UTK. Pozostałe strony zawiadamia w drodze obwieszczeń w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na przebieg linii kolejowej, na stronach internetowych tych zawiadomienia na adres wskazany w katastrze nieruchomości jest skuteczne.
+2. Wojewoda doręcza decyzję o ustaleniu lokalizacji linii kolejowej wnioskodawcy oraz wysyła zawiadomienie o jej wydaniu właścicielom lub użytkownikom wieczystym nieruchomości objętych wnioskiem o wydanie tej decyzji na adres wskazany w katastrze nieruchomości i Prezesowi UTK. Pozostałe strony zawiadamia w drodze obwieszczeń w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na przebieg linii kolejowej, na stronach internetowych tych gmin oraz urzędu wojewódzkiego, a także w prasie lokalnej. Doręczenie zawiadomienia na adres wskazany w katastrze nieruchomości jest skuteczne.
 
 2a. W przypadku nieruchomości o nieuregulowanym stanie prawnym albo w sytuacji, gdy właściciel lub użytkownik wieczysty nie żyją, a ich spadkobiercy nie wykazali prawa do spadku, zawiadomienia o wydanie decyzji o ustaleniu lokalizacji linii kolejowej dokonuje się w drodze obwieszczenia w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na przebieg linii kolejowej, w Biuletynie Informacji Publicznej na stronach podmiotowych tych gmin oraz urzędu wojewódzkiego, a także w prasie lokalnej.
 
@@ -328,7 +494,11 @@ Art. 67–69. (pominięte)
 
 7. Do zmiany decyzji o ustaleniu lokalizacji linii kolejowej stosuje się odpowiednio przepis art. 155 Kodeksu postępowania administracyjnego, z zastrzeżeniem że zgodę wyraża wyłącznie strona, która złożyła wniosek o wydanie decyzji o ustaleniu lokalizacji linii kolejowej.
 
-8. Do decyzji o ustaleniu lokalizacji linii kolejowej, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940). rozpatruje się w terminie 21 dni, a skargę do sądu administracyjnego – w terminie 60 dni, licząc od dnia wpłynięcia odwołania do właściwego organu lub skargi do sądu.
+8. Do decyzji o ustaleniu lokalizacji linii kolejowej, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940).
+
+**Art. 9r.**
+
+1. Odwołanie strony od decyzji o ustaleniu lokalizacji linii kolejowej rozpatruje się w terminie 21 dni, a skargę do sądu administracyjnego – w terminie 60 dni, licząc od dnia wpłynięcia odwołania do właściwego organu lub skargi do sądu.
 
 2. W postępowaniu przed organem odwoławczym oraz przed sądem administracyjnym nie można uchylić decyzji w całości ani stwierdzić jej nieważności, gdy wadą dotknięta jest tylko część decyzji dotycząca odcinka linii kolejowej, nieruchomości lub działki.
 
@@ -349,7 +519,9 @@ Art. 67–69. (pominięte)
 
 3c. Nie pobiera się pierwszej opłaty i opłat rocznych z tytułu nabycia prawa użytkowania wieczystego nieruchomości w trybie niniejszego rozdziału, a nabycie prawa własności budynków, innych urządzeń i lokali znajdujących się na nieruchomościach, o których mowa w ust. 3b, następuje nieodpłatnie.
 
-3d. Dochód z tytułu nabycia praw, o których mowa w ust. 3b, jest zwolniony od podatku dochodowego. publicznych, określone decyzją o ustaleniu lokalizacji linii kolejowej, z dniem, w którym decyzja ta stała się ostateczna:
+3d. Dochód z tytułu nabycia praw, o których mowa w ust. 3b, jest zwolniony od podatku dochodowego.
+
+3e. Nieruchomości, na których planowana jest budowa lub przebudowa dróg publicznych, określone decyzją o ustaleniu lokalizacji linii kolejowej, z dniem, w którym decyzja ta stała się ostateczna:
 
 - **1)** wojewoda oddaje w trwały zarząd Generalnej Dyrekcji Dróg Krajowych i Autostrad – w odniesieniu do dróg krajowych;
 - **2)** stają się własnością właściwego samorządu województwa, powiatu lub gminy – w odniesieniu do dróg wojewódzkich, powiatowych i gminnych.
@@ -367,7 +539,7 @@ Art. 67–69. (pominięte)
 
 8. Z dniem, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna, PLK S.A., CPK lub właściwa jednostka samorządu terytorialnego uzyskuje prawo do dysponowania nieruchomościami, stanowiącymi teren objęty inwestycją, o którym mowa w art. 9q ust. 1 pkt 1, na cele budowlane w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080), zwanej dalej „Prawem budowlanym”, z uwzględnieniem art. 9w ust. 4.
 
-9. W odniesieniu do nieruchomości objętych decyzją o ustaleniu lokalizacji linii kolejowej, oznaczonych zgodnie z art. 9q ust. 1 pkt 8, w celu zapewnienia prawa do wejścia na teren nieruchomości w związku z prowadzeniem inwestycji kolejowej obejmującej budowę lub przebudowę tunelu, a także prace związane z jego konserwacją, utrzymaniem lub usuwaniem awarii, wojewoda w decyzji o ustaleniu lokalizacji linii kolejowej ograniczy, za odszkodowaniem, sposób korzystania z nieruchomości przez udzielenie zezwolenia na budowę lub przebudowę tunelu oraz związanych z nim układu drogowego lub urządzeń wodnych, ciągów drenażowych, elektrycznej oraz urządzeń łączności publicznej i sygnalizacji, a także innych podziemnych, naziemnych lub nadziemnych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń.
+9. W odniesieniu do nieruchomości objętych decyzją o ustaleniu lokalizacji linii kolejowej, oznaczonych zgodnie z art. 9q ust. 1 pkt 8, w celu zapewnienia prawa do wejścia na teren nieruchomości w związku z prowadzeniem inwestycji kolejowej obejmującej budowę lub przebudowę tunelu, a także prace związane z jego konserwacją, utrzymaniem lub usuwaniem awarii, wojewoda w decyzji o ustaleniu lokalizacji linii kolejowej ograniczy, za odszkodowaniem, sposób korzystania z nieruchomości przez udzielenie zezwolenia na budowę lub przebudowę tunelu oraz związanych z nim układu drogowego lub urządzeń wodnych, ciągów drenażowych, przewodów i urządzeń służących do przesyłania płynów, pary, gazów i energii elektrycznej oraz urządzeń łączności publicznej i sygnalizacji, a także innych podziemnych, naziemnych lub nadziemnych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń.
 
 10. Odszkodowanie, o którym mowa w ust. 9, przysługuje właścicielom lub użytkownikom wieczystym nieruchomości, oznaczonych zgodnie z art. 9q ust. 1 pkt 8, od podmiotu, na rzecz którego wydawana jest decyzja o ustaleniu lokalizacji linii kolejowej.
 
@@ -384,7 +556,9 @@ Art. 67–69. (pominięte)
 
 **Art. 9t.**
 
-1. (uchylony) nieruchomości, a pozostała część nie nadaje się do prawidłowego wykorzystania na dotychczasowe cele:
+1. (uchylony)
+
+2. Jeżeli w przypadku, o którym mowa w art. 9s ust. 3, została przejęta część nieruchomości, a pozostała część nie nadaje się do prawidłowego wykorzystania na dotychczasowe cele:
 
 - **1)** PLK S.A. lub CPK nabywają, w drodze umowy, na wniosek właściciela lub użytkownika wieczystego nieruchomości, w imieniu i na rzecz Skarbu Państwa tę część nieruchomości;
 - **2)** jednostka samorządu terytorialnego nabywa, w drodze umowy, na wniosek właściciela lub użytkownika wieczystego nieruchomości tę część nieruchomości.
@@ -408,7 +582,8 @@ Art. 67–69. (pominięte)
 3. Decyzja, o której mowa w ust. 1:
 
 - **1)** przyznaje PLK S.A., CPK albo jednostce samorządu terytorialnego prawo do dysponowania nieruchomością na cele budowlane;
-- **2)** zobowiązuje do niezwłocznego wydania nieruchomości, opróżnienia lokali i innych pomieszczeń; CPK albo jednostkę samorządu terytorialnego;
+- **2)** zobowiązuje do niezwłocznego wydania nieruchomości, opróżnienia lokali i innych pomieszczeń;
+- **3)** uprawnia do faktycznego objęcia nieruchomości w posiadanie przez PLK S.A., CPK albo jednostkę samorządu terytorialnego;
 - **4)** uprawnia wojewodę do wydania decyzji o pozwoleniu na budowę.
 
 3a. W przypadku, o którym mowa w ust. 3 pkt 4, projekt budowlany zawiera projekt zagospodarowania działki lub terenu, sporządzony na mapie z naniesionymi projektami podziałów nieruchomości wynikającymi z decyzji, o której mowa w ust. 1.
@@ -423,7 +598,9 @@ Art. 67–69. (pominięte)
 - **2)** społeczność lokalną zamieszkującą obszar objęty inwestycją lub jego sąsiedztwo lub
 - **3)** bezpieczeństwo prowadzenia robót budowlanych lub dalszego użytkowania infrastruktury kolejowej – w zakresie niezbędnym do usunięcia lub ograniczenia negatywnych skutków tych okoliczności.
 
-2. Przez okoliczności, o których mowa w ust. 1, rozumie się zdarzenia lub zjawiska natury technicznej, środowiskowej lub społecznej, których wystąpienie w sposób istotny zmienia uwarunkowania realizacji inwestycji dotyczącej linii kolejowej, a które nie zostały uwzględnione w dokumentacji projektowej. lokalizacji linii kolejowej wojewoda wszczyna postępowanie w sprawie zmiany tej decyzji.
+2. Przez okoliczności, o których mowa w ust. 1, rozumie się zdarzenia lub zjawiska natury technicznej, środowiskowej lub społecznej, których wystąpienie w sposób istotny zmienia uwarunkowania realizacji inwestycji dotyczącej linii kolejowej, a które nie zostały uwzględnione w dokumentacji projektowej.
+
+3. W przypadku uznania zasadności wniosku o zmianę decyzji o ustaleniu lokalizacji linii kolejowej wojewoda wszczyna postępowanie w sprawie zmiany tej decyzji.
 
 4. W przypadku zmiany decyzji, o której mowa w ust. 1, nie stosuje się wymogu uzyskania decyzji o środowiskowych uwarunkowaniach, o której mowa w przepisach ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, lub jej zmiany, jeżeli zmiana decyzji nie powoduje zmiany uwarunkowań określonych w wydanej decyzji o środowiskowych uwarunkowaniach.
 
@@ -442,7 +619,7 @@ Art. 67–69. (pominięte)
 
 **Art. 9x.**
 
-1. Z dniem, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna, następuje z mocy prawa wygaśnięcie trwałego zarządu stanowiącej własność Skarbu Państwa albo jednostki samorządu terytorialnego.
+1. Z dniem, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna, następuje z mocy prawa wygaśnięcie trwałego zarządu ustanowionego na nieruchomości przeznaczonej na pas gruntu pod linię kolejową, stanowiącej własność Skarbu Państwa albo jednostki samorządu terytorialnego.
 
 1a. Decyzja o ustaleniu lokalizacji linii kolejowej stanowi podstawę do dokonania wpisów w księdze wieczystej o wygaśnięciu trwałego zarządu, o którym mowa w ust. 1.
 
@@ -462,7 +639,7 @@ Art. 67–69. (pominięte)
 
 2. Wysokość odszkodowania ustala wojewoda w drodze decyzji, w terminie 30 dni od dnia, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna.
 
-2a. Jeżeli decyzji o ustaleniu lokalizacji linii kolejowej został nadany rygor natychmiastowej wykonalności, wysokość odszkodowania, o którym mowa w ust. 1 60 dni od dnia nadania decyzji o ustaleniu lokalizacji linii kolejowej rygoru natychmiastowej wykonalności.
+2a. Jeżeli decyzji o ustaleniu lokalizacji linii kolejowej został nadany rygor natychmiastowej wykonalności, wysokość odszkodowania, o którym mowa w ust. 1 oraz w art. 9s ust. 9, ustala wojewoda w drodze decyzji, w terminie nie dłuższym niż 60 dni od dnia nadania decyzji o ustaleniu lokalizacji linii kolejowej rygoru natychmiastowej wykonalności.
 
 3. Wysokość odszkodowania ustala się na podstawie operatu szacunkowego sporządzonego przez rzeczoznawcę majątkowego, według stanu nieruchomości w dniu wydania decyzji o ustaleniu lokalizacji linii kolejowej przez organ pierwszej instancji oraz według jej wartości w dniu wydania decyzji ustalającej wysokość odszkodowania. Odszkodowanie podlega waloryzacji na dzień wypłaty według zasad obowiązujących w przypadku zwrotu wywłaszczonych nieruchomości.
 
@@ -478,7 +655,7 @@ Art. 67–69. (pominięte)
 
 - **1)** doręczenia zawiadomienia o wydaniu decyzji, o którym mowa w art. 9q ust. 2,
 - **2)** doręczenia postanowienia o nadaniu decyzji o ustaleniu lokalizacji linii kolejowej rygoru natychmiastowej wykonalności albo
-- **3)** w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna lub wartości prawa użytkowania wieczystego.
+- **3)** w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna – wysokość odszkodowania powiększa się o kwotę równą 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego.
 
 3f. W przypadku gdy decyzja o ustaleniu lokalizacji linii kolejowej dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony lokal mieszkalny, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zamieszkałemu w tym budynku albo lokalu powiększa się o kwotę 10 000 zł w odniesieniu do tej nieruchomości.
 
@@ -488,7 +665,7 @@ Art. 67–69. (pominięte)
 
 4. Odszkodowanie jest wypłacane w terminie 14 dni od dnia, w którym decyzja o ustaleniu odszkodowania, o której mowa w ust. 2, stała się ostateczna.
 
-5. Jeżeli przejęcie nieruchomości, o których mowa w art. 9s ust. 3, dotyczy przejęcia terenu, na którym zlokalizowane są obiekty infrastruktury służące zrealizowane przy wykorzystaniu środków pochodzących z budżetu Unii Europejskiej lub innych źródeł zagranicznych, odszkodowanie powiększa się o kwotę podlegających zwrotowi środków pochodzących z dofinansowania wraz z odsetkami należnymi zgodnie z przepisami regulującymi zasady zwrotu dofinansowania. Odszkodowanie w części przenoszącej odszkodowanie należne na zasadach wynikających z ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami przyznaje się pod warunkiem rozwiązującym dokonania przez jednostkę samorządu terytorialnego, w trybie i terminie wynikającym z właściwych przepisów, zwrotu dofinansowania wraz z należnymi odsetkami.
+5. Jeżeli przejęcie nieruchomości, o których mowa w art. 9s ust. 3, dotyczy przejęcia terenu, na którym zlokalizowane są obiekty infrastruktury służące wykonywaniu przez jednostki samorządu terytorialnego zadań własnych, zrealizowane przy wykorzystaniu środków pochodzących z budżetu Unii Europejskiej lub innych źródeł zagranicznych, odszkodowanie powiększa się o kwotę podlegających zwrotowi środków pochodzących z dofinansowania wraz z odsetkami należnymi zgodnie z przepisami regulującymi zasady zwrotu dofinansowania. Odszkodowanie w części przenoszącej odszkodowanie należne na zasadach wynikających z ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami przyznaje się pod warunkiem rozwiązującym dokonania przez jednostkę samorządu terytorialnego, w trybie i terminie wynikającym z właściwych przepisów, zwrotu dofinansowania wraz z należnymi odsetkami.
 
 6. Do finansowania wypłaty odszkodowań, o których mowa w ust. 1 i 2, art. 9s ust. 9 oraz art. 9yd ust. 2, wypłaty ceny nabycia nieruchomości, o których mowa w art. 9t, oraz pozostałych kosztów związanych z jej nabyciem, kosztów wynikających z realizacji obowiązku, o którym mowa w art. 9w ust. 4, stosuje się przepisy art. 38 ust. 1 pkt 3 i ust. 2.
 
@@ -499,7 +676,9 @@ Art. 67–69. (pominięte)
 - **1)** przed wszczęciem postępowania ustalającego wysokość odszkodowania – postępowania nie wszczyna się;
 - **2)** w trakcie postępowania ustalającego wysokość odszkodowania – postępowanie umarza się. Art. 9ya. 1. W przypadku gdy realizacja inwestycji kolejowej wymaga przejścia przez tereny wód płynących bądź dróg publicznych, PLK S.A., CPK lub właściwa jednostka samorządu terytorialnego są uprawnione do ich nieodpłatnego zajęcia na czas realizacji inwestycji.
 
-2. Decyzję o zezwoleniu na nieodpłatne zajęcie pasa drogowego, o której mowa w art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889), wydaje zarządca drogi w terminie 30 dni od dnia złożenia wniosku. natychmiastowej wykonalności decyzję o zezwoleniu na nieodpłatne zajęcie pasa drogowego wydaje się niezwłocznie.
+2. Decyzję o zezwoleniu na nieodpłatne zajęcie pasa drogowego, o której mowa w art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889), wydaje zarządca drogi w terminie 30 dni od dnia złożenia wniosku.
+
+3. Jeżeli decyzji o ustaleniu lokalizacji linii kolejowej został nadany rygor natychmiastowej wykonalności decyzję o zezwoleniu na nieodpłatne zajęcie pasa drogowego wydaje się niezwłocznie.
 
 4. PLK S.A., CPK albo jednostka samorządu terytorialnego nie później niż w terminie 30 dni przed planowanym zajęciem terenu wód płynących uzgadnia, w drodze pisemnego porozumienia z odpowiednimi podmiotami, o których mowa w art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, zakres, warunki i termin tego zajęcia.
 
@@ -509,13 +688,15 @@ Art. 67–69. (pominięte)
 
 2. Drewno pozyskane z wycinki drzew i krzewów, o której mowa w ust. 1, staje się nieodpłatnie własnością Lasów Państwowych.
 
-3. Koszty wycinki drzew i krzewów w wieku do 20 lat oraz ich uprzątnięcia ponoszą PLK S.A., CPK lub właściwa jednostka samorządu terytorialnego. Art. 9yba. 1. W przypadku wystąpienia siły wyższej mającej wpływ na inwestycję dotyczącą linii kolejowej realizowanej w tunelu lub w razie potrzeby zapobieżenia powstaniu znacznej szkody będącej skutkiem oddziaływania takiej inwestycji lub konieczności ograniczenia albo wyeliminowania negatywnych skutków jej oddziaływania, lub gdy jest to niezbędne dla bezpieczeństwa prowadzenia robót lub użytkowania infrastruktury kolejowej, jeżeli niebezpieczeństwom tym nie da się zapobiec w inny sposób, wojewoda może, w drodze decyzji, nałożyć na posiadacza rzeczy ruchomej wykorzystywanej do realizacji inwestycji lub na osobę, której przysługuje prawo majątkowe do tej rzeczy, obowiązek polegający na oddaniu ich inwestorowi do korzystania przez czas oznaczony. w terminie 7 dni od dnia jego złożenia. Decyzja podlega natychmiastowemu wykonaniu.
+3. Koszty wycinki drzew i krzewów w wieku do 20 lat oraz ich uprzątnięcia ponoszą PLK S.A., CPK lub właściwa jednostka samorządu terytorialnego. Art. 9yba. 1. W przypadku wystąpienia siły wyższej mającej wpływ na inwestycję dotyczącą linii kolejowej realizowanej w tunelu lub w razie potrzeby zapobieżenia powstaniu znacznej szkody będącej skutkiem oddziaływania takiej inwestycji lub konieczności ograniczenia albo wyeliminowania negatywnych skutków jej oddziaływania, lub gdy jest to niezbędne dla bezpieczeństwa prowadzenia robót lub użytkowania infrastruktury kolejowej, jeżeli niebezpieczeństwom tym nie da się zapobiec w inny sposób, wojewoda może, w drodze decyzji, nałożyć na posiadacza rzeczy ruchomej wykorzystywanej do realizacji inwestycji lub na osobę, której przysługuje prawo majątkowe do tej rzeczy, obowiązek polegający na oddaniu ich inwestorowi do korzystania przez czas oznaczony.
+
+2. Decyzję, o której mowa w ust. 1, wojewoda wydaje na wniosek inwestora, w terminie 7 dni od dnia jego złożenia. Decyzja podlega natychmiastowemu wykonaniu.
 
 3. Wynagrodzenie od inwestora dla posiadacza rzeczy ruchomej lub osoby, której przysługuje prawo majątkowe, za korzystanie z nich przez inwestora, ustalane jest po zakończeniu tego korzystania, w drodze porozumienia między inwestorem i posiadaczem rzeczy ruchomej lub osobą, której przysługuje prawo majątkowe. Jeżeli strony nie dojdą do porozumienia w terminie 60 dni od dnia zakończenia korzystania z rzeczy ruchomej lub prawa majątkowego, każdej ze stron przysługuje prawo wystąpienia do sądu powszechnego o ustalenie wysokości należnego wynagrodzenia. Strony mogą poddać sprawę ustalenia wysokości należnego wynagrodzenia mediacji przed Sądem Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej. Art. 9yc. 1. Do gruntów rolnych i leśnych objętych decyzją o ustaleniu lokalizacji linii kolejowej nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych.
 
 2. Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji linii kolejowej, z wyjątkiem drzew i krzewów wpisanych do rejestru zabytków, nie stosuje się przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940 oraz z 2025 r. poz. 884) w zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych. Art. 9yca. PLK S.A. lub właściwa jednostka samorządu terytorialnego dysponuje na cele budowlane w rozumieniu przepisów Prawa budowlanego nieruchomością lub częścią nieruchomości, na której niezbędne jest wykonanie robót budowlanych niewymagających decyzji o pozwoleniu na budowę, o której mowa w art. 28 ust. 1 Prawa budowlanego, w ramach inwestycji dotyczących linii kolejowych. Art. 9yd. 1. Do nieruchomości stanowiących rodzinne ogrody działkowe objętych decyzją o ustaleniu lokalizacji linii kolejowej nie stosuje się przepisów art. 18–24 ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2021 r. poz. 1073).
 
-2. W przypadku gdy decyzja o ustaleniu lokalizacji linii kolejowej dotyczy rodzinnych ogrodów działkowych ustanowionych zgodnie z ustawą z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych, podmiot, w którego interesie nastąpi wypłacić odszkodowanie:
+2. W przypadku gdy decyzja o ustaleniu lokalizacji linii kolejowej dotyczy rodzinnych ogrodów działkowych ustanowionych zgodnie z ustawą z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych, podmiot, w którego interesie nastąpi likwidacja rodzinnego ogrodu działkowego lub jego części, jest zobowiązany wypłacić odszkodowanie:
 
 - **1)** działkowcom – za stanowiące ich własność nasadzenia, urządzenia i obiekty znajdujące się na działkach oraz za prawo do działki w rodzinnym ogrodzie działkowym;
 - **2)** stowarzyszeniu ogrodowemu – za stanowiące jego własność urządzenia, budynki i budowle.
@@ -528,7 +709,7 @@ Art. 67–69. (pominięte)
 
 1a. Osoba uprawniona, której wypłacono zaliczkę, jej spadkobierca albo następca prawny są obowiązani do zwrotu zaliczki po jej waloryzacji na dzień zwrotu, jeżeli decyzja o lokalizacji linii kolejowej została zmieniona w części dotyczącej tej osoby, uchylona w całości lub w części dotyczącej tej osoby lub stwierdzono jej nieważność.
 
-2. Przepisu ust. 1 zdanie pierwsze nie stosuje się, jeżeli stroną odwołującą się od decyzji ustalającej wysokość odszkodowania jest podmiot, na wniosek którego została wydana decyzja o ustaleniu lokalizacji linii kolejowej. Art. 9za. Jeżeli realizacja inwestycji dotyczącej linii kolejowej uniemożliwia korzystanie z budynków mieszkalnych albo lokali mieszkalnych przez osoby posiadające do tego tytuł prawny, PLK S.A., CPK lub właściwa jednostka samorządu terytorialnego, działający jako inwestor, mogą podejmować działania zmierzające do zabezpieczenia potrzeb mieszkaniowych mieszkańców, w szczególności przez przekazanie służących temu celowi środków finansowych. Art. 9zb. Jeżeli brak możliwości korzystania z budynków mieszkalnych albo lokali mieszkalnych przez ich mieszkańców jest skutkiem okoliczności, za które odpowiedzialność ponoszą inne podmioty, w tym w szczególności wykonawcy robót budowlanych, PLK S.A., CPK lub właściwej jednostce samorządu terytorialnego, działającym jako inwestor, przysługuje roszczenie wobec tych podmiotów o zwrot mieszkaniowych mieszkańców tych budynków albo lokali. Art. 9aa. (uchylony) Art. 9ab. (uchylony) Art. 9ac. 1. Wojewoda wydaje pozwolenie na budowę linii kolejowej lub poszczególnych odcinków tej linii oraz wszystkich obiektów związanych z jej budową, przebudową i rozbudową, położonych w granicach województwa, na zasadach i w trybie przepisów Prawa budowlanego oraz doręcza je wnioskodawcy, a pozostałe strony zawiadamia o jego wydaniu, w drodze obwieszczenia, w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na przebieg linii kolejowej, na stronach internetowych tych gmin oraz urzędu wojewódzkiego, a także w prasie lokalnej.
+2. Przepisu ust. 1 zdanie pierwsze nie stosuje się, jeżeli stroną odwołującą się od decyzji ustalającej wysokość odszkodowania jest podmiot, na wniosek którego została wydana decyzja o ustaleniu lokalizacji linii kolejowej. Art. 9za. Jeżeli realizacja inwestycji dotyczącej linii kolejowej uniemożliwia korzystanie z budynków mieszkalnych albo lokali mieszkalnych przez osoby posiadające do tego tytuł prawny, PLK S.A., CPK lub właściwa jednostka samorządu terytorialnego, działający jako inwestor, mogą podejmować działania zmierzające do zabezpieczenia potrzeb mieszkaniowych mieszkańców, w szczególności przez przekazanie służących temu celowi środków finansowych. Art. 9zb. Jeżeli brak możliwości korzystania z budynków mieszkalnych albo lokali mieszkalnych przez ich mieszkańców jest skutkiem okoliczności, za które odpowiedzialność ponoszą inne podmioty, w tym w szczególności wykonawcy robót budowlanych, PLK S.A., CPK lub właściwej jednostce samorządu terytorialnego, działającym jako inwestor, przysługuje roszczenie wobec tych podmiotów o zwrot wydatków i innych kosztów poniesionych z tytułu zabezpieczenia potrzeb mieszkaniowych mieszkańców tych budynków albo lokali. Art. 9aa. (uchylony) Art. 9ab. (uchylony) Art. 9ac. 1. Wojewoda wydaje pozwolenie na budowę linii kolejowej lub poszczególnych odcinków tej linii oraz wszystkich obiektów związanych z jej budową, przebudową i rozbudową, położonych w granicach województwa, na zasadach i w trybie przepisów Prawa budowlanego oraz doręcza je wnioskodawcy, a pozostałe strony zawiadamia o jego wydaniu, w drodze obwieszczenia, w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na przebieg linii kolejowej, na stronach internetowych tych gmin oraz urzędu wojewódzkiego, a także w prasie lokalnej.
 
 1a. Przepisy ust. 1 dotyczące sposobu powiadomienia stron stosuje się odpowiednio do zawiadomienia o wszczęciu postępowania o wydanie decyzji o pozwoleniu na budowę. Przepis ust. 1 stosuje się również w przypadku, gdy postępowanie dotyczy nieruchomości o nieuregulowanym stanie prawnym oraz w sytuacji, gdy właściciel lub użytkownik wieczysty nie żyją, a ich spadkobiercy nie wykazali prawa do spadku.
 
@@ -539,7 +720,7 @@ Art. 67–69. (pominięte)
 3a. Przepisów ust. 2 i 3 nie stosuje się w przypadku niezgodności decyzji o pozwoleniu na budowę linii kolejowej z:
 
 - **1)** decyzją o środowiskowych uwarunkowaniach lub
-- **2)** postanowieniem, o którym mowa w art. 90 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale środowisko.
+- **2)** postanowieniem, o którym mowa w art. 90 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 4. Przepisy ust. 2 i 3 stosuje się odpowiednio do decyzji o ustaleniu lokalizacji linii kolejowej.
 
@@ -549,7 +730,7 @@ Art. 67–69. (pominięte)
 
 2. (uchylony)
 
-3. W sprawach dotyczących lokalizacji linii kolejowych, realizowanych w trybie niniejszego rozdziału, nie stosuje się przepisów o planowaniu i zagospodarowaniu przestrzennym, z zastrzeżeniem art. 9n ust. 2 i art. 9o ust. 3 pkt 4 lit. g, oraz przepisów ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278). Art. 9ae. Nie można uzależnić wydania decyzji o ustaleniu lokalizacji linii kolejowej lub decyzji o pozwoleniu na budowę linii kolejowej od spełnienia świadczeń lub warunków nieprzewidzianych obowiązującymi przepisami. Art. 9af. Jeżeli realizacja inwestycji kolejowej wymaga zgody wodnoprawnej, odpowiednio Państwowe Gospodarstwo Wodne Wody Polskie albo minister właściwy do spraw gospodarki wodnej udzielają tej zgody w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jej wydanie. W sprawach dotyczących zgody wodnoprawnej nie stosuje się art. 396 ust. 1 pkt 7, art. 407 ust. 2 pkt 3 oraz art. 422 pkt 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne. Dla ustalenia stanu prawnego nieruchomości, o których mowa w art. 409 ust. 1 pkt 2 lit. e ustawy z dnia 20 lipca 2017 r. – Prawo wodne, siedziby i adresy właścicieli tych nieruchomości określa się według katastru nieruchomości. Art. 9ag. 1. Zadanie polegające na przebudowie lub budowie drogi publicznej, sieci lub urządzenia wodnego w zakresie wynikającym z konieczności ich dostosowania do inwestycji dotyczących linii kolejowych realizowane jest przez PLK S.A., CPK albo właściwą jednostkę samorządu terytorialnego na podstawie porozumienia z właściwym zarządcą drogi publicznej, sieci lub urządzenia wodnego, publicznej, sieci lub urządzenia wodnego przez właściwego zarządcę.
+3. W sprawach dotyczących lokalizacji linii kolejowych, realizowanych w trybie niniejszego rozdziału, nie stosuje się przepisów o planowaniu i zagospodarowaniu przestrzennym, z zastrzeżeniem art. 9n ust. 2 i art. 9o ust. 3 pkt 4 lit. g, oraz przepisów ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278). Art. 9ae. Nie można uzależnić wydania decyzji o ustaleniu lokalizacji linii kolejowej lub decyzji o pozwoleniu na budowę linii kolejowej od spełnienia świadczeń lub warunków nieprzewidzianych obowiązującymi przepisami. Art. 9af. Jeżeli realizacja inwestycji kolejowej wymaga zgody wodnoprawnej, odpowiednio Państwowe Gospodarstwo Wodne Wody Polskie albo minister właściwy do spraw gospodarki wodnej udzielają tej zgody w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jej wydanie. W sprawach dotyczących zgody wodnoprawnej nie stosuje się art. 396 ust. 1 pkt 7, art. 407 ust. 2 pkt 3 oraz art. 422 pkt 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne. Dla ustalenia stanu prawnego nieruchomości, o których mowa w art. 409 ust. 1 pkt 2 lit. e ustawy z dnia 20 lipca 2017 r. – Prawo wodne, siedziby i adresy właścicieli tych nieruchomości określa się według katastru nieruchomości. Art. 9ag. 1. Zadanie polegające na przebudowie lub budowie drogi publicznej, sieci lub urządzenia wodnego w zakresie wynikającym z konieczności ich dostosowania do inwestycji dotyczących linii kolejowych realizowane jest przez PLK S.A., CPK albo właściwą jednostkę samorządu terytorialnego na podstawie porozumienia z właściwym zarządcą drogi publicznej, sieci lub urządzenia wodnego, w którym określa się w szczególności termin przejęcia obowiązku utrzymania drogi publicznej, sieci lub urządzenia wodnego przez właściwego zarządcę.
 
 2. Zadanie, o którym mowa w ust. 1, może realizować właściwy zarządca drogi publicznej, sieci lub urządzenia wodnego, w trybie określonym w przepisach odrębnych, na koszt PLK S.A., CPK lub właściwej jednostki samorządu terytorialnego na podstawie porozumienia, które określa w szczególności warunki finansowania zadania przez PLK S.A., CPK albo właściwą jednostkę samorządu terytorialnego. Art. 9ah. 1. Złożenie wniosku dla realizowanego przedsięwzięcia polegającego na budowie tunelu w ciągu linii kolejowej:
 
@@ -558,7 +739,9 @@ Art. 67–69. (pominięte)
 - **3)** o wydanie pozwolenia na budowę lub dokonanie zgłoszenia budowy lub wykonywania innych robót budowlanych, o których mowa w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane,
 - **4)** o zatwierdzenie planu ruchu zakładu górniczego w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze – może nastąpić w okresie 20 lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach, o której mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, stała się ostateczna.
 
-2. Przepis ust. 1 stosuje się do decyzji o środowiskowych uwarunkowaniach, o której mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, która stała się ostateczna przed dniem 31 grudnia 2013 r. Prezes Urzędu Transportu Kolejowego
+2. Przepis ust. 1 stosuje się do decyzji o środowiskowych uwarunkowaniach, o której mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, która stała się ostateczna przed dniem 31 grudnia 2013 r.
+
+#### Rozdział 3 Prezes Urzędu Transportu Kolejowego
 
 **Art. 10.**
 
@@ -579,7 +762,9 @@ Art. 67–69. (pominięte)
 
 - **568)** w zakresie:
 - **1)** wyrobów przeznaczonych do stosowania w infrastrukturze kolejowej, na bocznicach kolejowych, kolejach wąskotorowych oraz w metrze, związanych z prowadzeniem i bezpieczeństwem ruchu, a także wykonywaniem przewozów osób i towarów oraz eksploatacją pojazdów kolejowych;
-- **2)** urządzeń kolei linowych, modyfikacji urządzeń kolei linowych wymagających nowego zezwolenia oraz do podsystemów i elementów bezpieczeństwa, wobec których stosuje się przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/424 z dnia 9 marca 2016 r. w sprawie urządzeń kolei linowych i uchylenia dyrektywy 2000/9/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 1, z późn. zm. ). autoryzacji i notyfikacji w tym zakresie, a także kontroli spełniania przez te wyroby wymagań, stwarzania przez nie zagrożenia lub w zakresie niezgodności formalnych, a także postępowań w tych sprawach, stosuje się przepisy ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
+- **2)** urządzeń kolei linowych, modyfikacji urządzeń kolei linowych wymagających nowego zezwolenia oraz do podsystemów i elementów bezpieczeństwa, wobec których stosuje się przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/424 z dnia 9 marca 2016 r. w sprawie urządzeń kolei linowych i uchylenia dyrektywy 2000/9/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 1, z późn. zm. ).
+
+3a. Do oceny zgodności wyrobów, o których mowa w ust. 3, akredytacji, autoryzacji i notyfikacji w tym zakresie, a także kontroli spełniania przez te wyroby wymagań, stwarzania przez nie zagrożenia lub w zakresie niezgodności formalnych, a także postępowań w tych sprawach, stosuje się przepisy ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
 
 3b. Prezes UTK wykonuje zadania określone w ustawie z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731).
 
@@ -608,6 +793,7 @@ Art. 67–69. (pominięte)
 4. Informację o naborze na stanowisko Prezesa UTK ogłasza się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie Urzędu Transportu Kolejowego, w Biuletynie Informacji Publicznej Urzędu Transportu Kolejowego oraz w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Ogłoszenie zawiera:
 
 - **1)** nazwę i adres Urzędu Transportu Kolejowego;
+- **2)** określenie stanowiska;
 - **3)** wymagania związane ze stanowiskiem wynikające z przepisów prawa;
 - **4)** zakres zadań wykonywanych na stanowisku;
 - **5)** wskazanie wymaganych dokumentów;
@@ -637,6 +823,7 @@ Art. 67–69. (pominięte)
 
 12. Wynik naboru na stanowisko Prezesa UTK i wiceprezesa UTK ogłasza się niezwłocznie w sposób określony w ust. 4. Informacja o wyniku naboru zawiera:
 
+- **1)** nazwę i adres Urzędu Transportu Kolejowego;
 - **2)** określenie stanowiska, na które był prowadzony nabór;
 - **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata.
 
@@ -664,7 +851,9 @@ Art. 67–69. (pominięte)
 - **2)** orzeczenia zakazu zajmowania kierowniczych stanowisk lub pełnienia funkcji związanych ze szczególną odpowiedzialnością w organach państwa;
 - **3)** choroby trwale uniemożliwiającej wykonywanie zadań;
 - **4)** zaistnienia okoliczności, które wpływają na niezależne sprawowanie funkcji;
-- **5)** złożenia rezygnacji. się do publicznej wiadomości przez ogłoszenie jej treści w Biuletynie Informacji Publicznej Urzędu Transportu Kolejowego oraz w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+- **5)** złożenia rezygnacji.
+
+5. Informację o odwołaniu Prezesa UTK wskazującą powody odwołania podaje się do publicznej wiadomości przez ogłoszenie jej treści w Biuletynie Informacji Publicznej Urzędu Transportu Kolejowego oraz w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
 
 6. W razie śmierci lub odwołania Prezesa UTK, do czasu powołania jego następcy, funkcję Prezesa UTK pełni wiceprezes UTK wskazany przez Prezesa Rady Ministrów.
 
@@ -686,11 +875,13 @@ Art. 67–69. (pominięte)
 
 1. Do zadań Prezesa UTK, w zakresie regulacji transportu kolejowego, należy:
 
-- **1)** nadzór nad sprawiedliwym i niedyskryminującym traktowaniem przez zarządców wszystkich aplikantów w zakresie dostępu do infrastruktury kolejowej przez: operatorów obiektu infrastruktury usługowej wszystkich przewoźników kolejowych w zakresie dostępu do obiektu infrastruktury usługowej przez:
+- **1)** nadzór nad sprawiedliwym i niedyskryminującym traktowaniem przez zarządców wszystkich aplikantów w zakresie dostępu do infrastruktury kolejowej przez:
     - **a)** kontrolę poprawności opracowania oraz stosowania regulaminu, o którym mowa w art. 32,
     - **b)** nadzór nad zawieraniem umów o przydzielenie zdolności przepustowej oraz o wykorzystanie zdolności przepustowej,
     - **c)** rozpatrywanie spraw dotyczących pasażerskich przewozów okazjonalnych,
     - **d)** nadzór nad poprawnością ustalania i pobierania przez zarządcę opłat za udostępnianie infrastruktury kolejowej;
+
+- **2)** nadzór nad sprawiedliwym i niedyskryminującym traktowaniem przez operatorów obiektu infrastruktury usługowej wszystkich przewoźników kolejowych w zakresie dostępu do obiektu infrastruktury usługowej przez:
     - **a)** kontrolę poprawności opracowania oraz stosowania regulaminu, o którym mowa w art. 36f,
     - **b)** nadzór nad zawieraniem umów z operatorami obiektu infrastruktury usługowej,
     - **c)** nadzór nad poprawnością ustalania i pobierania przez operatora obiektu infrastruktury usługowej opłat za korzystanie z obiektu infrastruktury usługowej;
@@ -705,7 +896,8 @@ Art. 67–69. (pominięte)
 
 - **1)** wydawanie, przedłużanie, aktualizacja, ograniczanie i cofanie jednolitych certyfikatów bezpieczeństwa i autoryzacji bezpieczeństwa oraz prowadzenie i aktualizacja rejestrów tych dokumentów;
 - **1a)** wydawanie, przedłużanie, zmiana i cofanie świadectw bezpieczeństwa oraz prowadzenie i aktualizacja rejestrów tych dokumentów;
-- **1b)** przeprowadzanie egzaminu dla: maszynisty, zwanego dalej „egzaminem na licencję maszynisty”,
+- **1b)** przeprowadzanie egzaminu dla:
+    - **a)** kandydatów na maszynistów ubiegających się o uzyskanie licencji maszynisty, zwanego dalej „egzaminem na licencję maszynisty”,
     - **b)** kandydatów na maszynistów ubiegających się o uzyskanie świadectwa maszynisty, zwanego dalej „egzaminem na świadectwo maszynisty”;
 
 - **2)** wydawanie, przedłużanie ważności, zawieszanie, przywracanie i cofanie licencji maszynisty, aktualizacja danych zawartych w licencji maszynisty, wydawanie wtórników licencji maszynisty oraz prowadzenie i aktualizacja rejestru tych dokumentów;
@@ -713,7 +905,7 @@ Art. 67–69. (pominięte)
 - **3a)** przyznawanie, odmowa przyznania, cofanie, zawieszanie i zmiana zakresu uprawnień dla jednostki organizacyjnej do wykonywania badań technicznych koniecznych do uzyskania świadectw dopuszczenia do eksploatacji typu, stwierdzenia zgodności z typem oraz wydawania certyfikatów zgodności typu i certyfikatów zgodności z typem, a także kontrola spełniania przez jednostki organizacyjne uprawnione do wykonywania tych czynności wymagań określonych w art. 22g ust. 2;
 - **3b)** wyznaczanie i odmowa wyznaczenia podmiotu wnioskującego o wykonywanie zadań jednostki wyznaczonej oraz cofanie, zawieszanie i zmiana zakresu wyznaczenia jednostek wyznaczonych;
 - **4)** kontrola spełniania warunków lub wymagań zawartych w autoryzacjach bezpieczeństwa, jednolitych certyfikatach bezpieczeństwa, świadectwach bezpieczeństwa oraz nadzorowanie zgodności działania zarządców lub przewoźników kolejowych z przepisami Unii Europejskiej i prawa krajowego w zakresie bezpieczeństwa transportu kolejowego;
-- **5)** nadzór nad ośrodkami szkolenia maszynistów oraz kandydatów na maszynistów, zwanymi dalej „ośrodkami szkolenia”, oraz podmiotami uprawnionymi do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności;
+- **5)** nadzór nad ośrodkami szkolenia maszynistów oraz kandydatów na maszynistów, zwanymi dalej „ośrodkami szkolenia”, oraz podmiotami uprawnionymi do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności;
 - **5a)** prowadzenie i aktualizacja:
     - **a)** rejestru ośrodków szkolenia,
     - **b)** listy podmiotów uprawnionych do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności,
@@ -727,7 +919,8 @@ Art. 67–69. (pominięte)
 - **7)** nadzór nad zachowaniem bezpieczeństwa w transporcie kolejowym oraz prawidłowym utrzymaniem i eksploatacją linii kolejowych, bocznic kolejowych oraz innych dróg kolejowych;
 - **7a)** nadzór nad postępowaniami prowadzonymi przez komisję kolejową, o której mowa w art. 28m ust. 1;
 - **7b)** monitorowanie kompetencji personelu kolejowego w celu zapewnienia bezpieczeństwa w transporcie kolejowym;
-- **8)** analiza raportów w sprawie bezpieczeństwa, o których mowa w art. 17ab ust. 1; bezpieczeństwa, łącznie z systemem krajowych zasad bezpieczeństwa;
+- **8)** analiza raportów w sprawie bezpieczeństwa, o których mowa w art. 17ab ust. 1;
+- **9)** monitorowanie, promowanie, wprowadzanie w życie oraz rozwijanie regulacji bezpieczeństwa, łącznie z systemem krajowych zasad bezpieczeństwa;
 - **10)** konsultowanie kierunków rozwoju ze wszystkimi podmiotami i zainteresowanymi stronami, w tym z zarządcami, przewoźnikami kolejowymi, producentami, dostawcami usług utrzymania oraz przedstawicielami personelu i użytkowników.
 
 1b. Do zadań Prezesa UTK w zakresie nadzoru nad przestrzeganiem praw pasażerów w transporcie kolejowym należy nadzór nad przestrzeganiem:
@@ -745,6 +938,7 @@ Art. 67–69. (pominięte)
 - **3a)** autoryzacja jednostek oceniających zgodność ubiegających się o notyfikację;
 - **4)** prowadzenie spraw związanych z rozpatrywaniem wniosków o nadanie, zmianę lub wycofanie identyfikatora literowego dysponenta (VKM ) oraz przekazywanie informacji w tym zakresie Agencji;
 - **5)** kontrola przewozu koleją towarów niebezpiecznych;
+- **6)** (uchylony)
 - **7)** nadawanie i zmiana europejskich numerów pojazdom kolejowym (EVN), wyrejestrowywanie pojazdów kolejowych oraz dokonywanie zmian pozostałych danych rejestrowych w europejskim rejestrze pojazdów kolejowych (EVR);
 - **7a)** prowadzenie i aktualizacja krajowego rejestru infrastruktury (RINF);
 - **8)** prowadzenie spraw związanych z rozpatrywaniem wniosków o odstępstwa, przekazywanie Komisji Europejskiej dokumentów niezbędnych do otrzymania odstępstw, o których mowa w art. 25f;
@@ -763,7 +957,8 @@ Art. 67–69. (pominięte)
     - **b)** koordynowania funkcjonowania rynku transportu kolejowego,
     - **c)** przestrzegania praw pasażerów;
 
-- **3)** może żądać od zarządców, powołanych przez zarządców wspólnych organów odpowiedzialnych za udostępnianie infrastruktury kolejowej, operatorów obiektów infrastruktury usługowej, przewoźników kolejowych i aplikantów udzielenia niezbędnych informacji dla celów regulacji i monitorowania rynku transportu kolejowego, w szczególności w zakresie zapewnienia niedyskryminującego traktowania aplikantów; wyniku nieplanowanych prac w zakresie utrzymania infrastruktury kolejowej;
+- **3)** może żądać od zarządców, powołanych przez zarządców wspólnych organów odpowiedzialnych za udostępnianie infrastruktury kolejowej, operatorów obiektów infrastruktury usługowej, przewoźników kolejowych i aplikantów udzielenia niezbędnych informacji dla celów regulacji i monitorowania rynku transportu kolejowego, w szczególności w zakresie zapewnienia niedyskryminującego traktowania aplikantów;
+- **4)** może żądać od zarządców informowania o braku zdolności przepustowej w wyniku nieplanowanych prac w zakresie utrzymania infrastruktury kolejowej;
 - **5)** nadzoruje przebieg negocjacji między aplikantami a zarządcami dotyczących poziomu opłat za dostęp do infrastruktury kolejowej, mając na względzie zapewnienie niedyskryminującego traktowania aplikantów, jeżeli takie negocjacje są prowadzone;
 - **6)** sprawuje nadzór nad zawarciem i monitoruje wykonanie umowy, o której mowa w art. 9mm ust. 1.
 
@@ -783,7 +978,9 @@ Art. 67–69. (pominięte)
 - **3)** w sprawach, o których mowa w art. 22b ust. 4;
 - **4)** pasażerów w sprawie naruszenia praw pasażerów w transporcie kolejowym.
 
-3d. W przypadku skargi lub wszczętego z własnej inicjatywy postępowania w sprawie dotyczącej udostępniania infrastruktury kolejowej lub pobierania opłat związanych z międzynarodową trasą pociągu, Prezes UTK konsultuje się z organami regulacyjnymi wszystkich pozostałych państw członkowskich Unii Europejskiej, przez które przebiega dana międzynarodowa trasa pociągu, a w stosownych przypadkach z Komisją Europejską, oraz występuje do nich o wszystkie konieczne informacje w celu ustalenia, czy wystąpiło naruszenie przepisów w tym zakresie. występuje o udzielenie informacji niezbędnych do jej rozpatrzenia lub rozpoczyna konsultacje ze wszystkimi właściwymi stronami.
+3d. W przypadku skargi lub wszczętego z własnej inicjatywy postępowania w sprawie dotyczącej udostępniania infrastruktury kolejowej lub pobierania opłat związanych z międzynarodową trasą pociągu, Prezes UTK konsultuje się z organami regulacyjnymi wszystkich pozostałych państw członkowskich Unii Europejskiej, przez które przebiega dana międzynarodowa trasa pociągu, a w stosownych przypadkach z Komisją Europejską, oraz występuje do nich o wszystkie konieczne informacje w celu ustalenia, czy wystąpiło naruszenie przepisów w tym zakresie.
+
+3e. Prezes UTK, w stosownych przypadkach, w celu rozpatrzenia skargi, występuje o udzielenie informacji niezbędnych do jej rozpatrzenia lub rozpoczyna konsultacje ze wszystkimi właściwymi stronami.
 
 4. Prezes UTK jest uprawniony do kontroli przestrzegania przepisów i realizacji decyzji oraz postanowień z zakresu kolejnictwa.
 
@@ -805,7 +1002,7 @@ Art. 67–69. (pominięte)
 
 5. (uchylony)
 
-6. (uchylony)
+6. (uchylony) 6a. (uchylony)
 
 7. (uchylony) 7a. (uchylony) 7b. (uchylony) 7c. Jeżeli Prezes UTK uzna, że obowiązujące specyfikacje europejskie nie spełniają zasadniczych wymagań systemu kolei, informuje o tym Komisję Europejską.
 
@@ -827,7 +1024,7 @@ Art. 67–69. (pominięte)
 
 1. Do postępowania przed Prezesem UTK stosuje się, z zastrzeżeniem art. 13ab i art. 13b ust. 2 i 3, przepisy Kodeksu postępowania administracyjnego.
 
-2. W przypadku gdy wniosek do Prezesa UTK jest składany w postaci elektronicznej, a do wniosku należy dołączyć dokument, który wnioskodawca posiada dokumentu.
+2. W przypadku gdy wniosek do Prezesa UTK jest składany w postaci elektronicznej, a do wniosku należy dołączyć dokument, który wnioskodawca posiada jedynie w postaci papierowej, do wniosku można dołączyć elektroniczną kopię tego dokumentu.
 
 3. W przypadku, o którym mowa w ust. 2:
 
@@ -845,7 +1042,8 @@ Art. 67–69. (pominięte)
 6. Stronom oraz podmiotom zainteresowanym udostępnia się materiał dowodowy niezawierający informacji objętych ograniczeniem, o którym mowa w ust. 1, ze stosowną adnotacją. Art. 13ab. 1. Sprawy dotyczące:
 
 - **1)** jednolitego certyfikatu bezpieczeństwa,
-- **2)** zezwoleń na wprowadzenie pojazdu kolejowego do obrotu lub zezwoleń dla typu pojazdu, przytorowych ERTMS – są prowadzone za pośrednictwem punktu kompleksowej obsługi.
+- **2)** zezwoleń na wprowadzenie pojazdu kolejowego do obrotu lub zezwoleń dla typu pojazdu,
+- **3)** zatwierdzania przewidywanych rozwiązań technicznych w zakresie urządzeń przytorowych ERTMS – są prowadzone za pośrednictwem punktu kompleksowej obsługi.
 
 2. Wnioski w sprawach, o których mowa w ust. 1, wraz z wymaganą dokumentacją, składa wnioskodawca albo jego wyznaczony pełnomocnik. W przypadku pełnomocnika do wniosku dołącza się kopię pełnomocnictwa upoważniającego do dokonywania, za pośrednictwem punktu kompleksowej obsługi, wszystkich czynności związanych ze sprawą.
 
@@ -865,7 +1063,7 @@ Art. 67–69. (pominięte)
 
 10. Wniosek o ponowne rozpatrzenie sprawy rozpatruje się w terminie 2 miesięcy od dnia jego złożenia za pośrednictwem punktu kompleksowej obsługi.
 
-11. Do opinii wydawanych przez Prezesa UTK w sprawach, o których mowa w ust. 1, kierowanych do Agencji, nie stosuje się przepisów Kodeksu postępowania administracyjnego. Art. 13ac. Prezes UTK jest administratorem danych osobowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, przetwarzanych za pośrednictwem punktu kompleksowej obsługi, uzyskanych w trakcie realizacji spraw, o których mowa w art. 13ab ust. 1, a także w ramach współpracy z Agencją w tym zakresie.
+11. Do opinii wydawanych przez Prezesa UTK w sprawach, o których mowa w ust. 1, kierowanych do Agencji, nie stosuje się przepisów Kodeksu postępowania administracyjnego. Art. 13ac. Prezes UTK jest administratorem danych osobowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, przetwarzanych za pośrednictwem punktu kompleksowej obsługi, uzyskanych w trakcie realizacji spraw, o których mowa w art. 13ab ust. 1, a także w ramach współpracy z Agencją w tym zakresie.
 
 **Art. 13b.**
 
@@ -881,7 +1079,11 @@ Art. 67–69. (pominięte)
 
 1. W zakresie regulacji transportu kolejowego Prezes UTK wydaje, na wniosek lub z urzędu, decyzje, którym może w całości lub w części nadać rygor natychmiastowej wykonalności, jeżeli wymaga tego interes społeczny lub wyjątkowo ważny interes strony. Odwołanie wstrzymuje wykonanie decyzji jedynie w przypadku, gdy niezwłoczne jej wykonanie może przynieść nieodwracalne lub wyraźnie nadmierne szkody wnoszącemu odwołanie.
 
-2. Wersje jawne decyzji dotyczących regulacji transportu kolejowego publikuje się w Dzienniku Urzędowym Prezesa Urzędu Transportu Kolejowego. Wersje jawne nie zawierają informacji objętych tajemnicą przedsiębiorstwa lub stanowiących inną tajemnicę prawnie chronioną. w określonym terminie w razie stwierdzenia naruszenia przepisów dotyczących obowiązków zarządców, przewoźników kolejowych oraz użytkowników bocznic kolejowych w zakresie bezpieczeństwa transportu kolejowego, w szczególności:
+2. Wersje jawne decyzji dotyczących regulacji transportu kolejowego publikuje się w Dzienniku Urzędowym Prezesa Urzędu Transportu Kolejowego. Wersje jawne nie zawierają informacji objętych tajemnicą przedsiębiorstwa lub stanowiących inną tajemnicę prawnie chronioną.
+
+**Art. 14.**
+
+1. Prezes UTK nakazuje, w drodze decyzji, usunięcie nieprawidłowości w określonym terminie w razie stwierdzenia naruszenia przepisów dotyczących obowiązków zarządców, przewoźników kolejowych oraz użytkowników bocznic kolejowych w zakresie bezpieczeństwa transportu kolejowego, w szczególności:
 
 - **1)** zasad prowadzenia ruchu kolejowego i sygnalizacji, o których mowa w art. 17 ust. 7;
 - **2)** warunków technicznych eksploatacji pojazdów kolejowych, o których mowa w art. 20, w tym ważności dokumentów, o których mowa w art. 24, i dokumentów, które powinny znajdować się w pojeździe kolejowym będącym w ruchu, o których mowa w art. 25;
@@ -895,7 +1097,7 @@ Art. 67–69. (pominięte)
     - **a)** nie został on dopuszczony do eksploatacji zgodnie z przepisami ustawy lub
     - **b)** jego dalsza eksploatacja wiąże się z istotnym ryzykiem dla bezpieczeństwa ruchu kolejowego lub bezpieczeństwa przewozu osób lub rzeczy.
 
-2a. Jeżeli Prezes UTK, w wyniku przeprowadzonych działań nadzorczych prowadzonych zgodnie z załącznikiem I do rozporządzenia delegowanego Komisji (UE) 2018/761 z dnia 16 lutego 2018 r. ustanawiającego wspólne metody oceny bezpieczeństwa w odniesieniu do nadzoru sprawowanego przez krajowe organy ds. bezpieczeństwa po wydaniu jednolitego certyfikatu bezpieczeństwa lub autoryzacji w zakresie bezpieczeństwa na podstawie dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/798 i uchylającego rozporządzenie Komisji (UE) nr 1077/2012 (Dz. Urz. UE L 129 z 25.05.2018, str. 16, z późn. zm. ), stwierdzi poważne zagrożenie dla bezpieczeństwa obejmujące zawieszenie lub ograniczenie działalności przewoźnika kolejowego posiadającego jednolity certyfikat bezpieczeństwa.
+2a. Jeżeli Prezes UTK, w wyniku przeprowadzonych działań nadzorczych prowadzonych zgodnie z załącznikiem I do rozporządzenia delegowanego Komisji (UE) 2018/761 z dnia 16 lutego 2018 r. ustanawiającego wspólne metody oceny bezpieczeństwa w odniesieniu do nadzoru sprawowanego przez krajowe organy ds. bezpieczeństwa po wydaniu jednolitego certyfikatu bezpieczeństwa lub autoryzacji w zakresie bezpieczeństwa na podstawie dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/798 i uchylającego rozporządzenie Komisji (UE) nr 1077/2012 (Dz. Urz. UE L 129 z 25.05.2018, str. 16, z późn. zm. ), stwierdzi poważne zagrożenie dla bezpieczeństwa ruchu kolejowego, wprowadza, w drodze decyzji, tymczasowe środki bezpieczeństwa obejmujące zawieszenie lub ograniczenie działalności przewoźnika kolejowego posiadającego jednolity certyfikat bezpieczeństwa.
 
 2b. Prezes UTK informuje Agencję o wprowadzeniu tymczasowych środków bezpieczeństwa wobec przewoźnika kolejowego posiadającego jednolity certyfikat bezpieczeństwa wydany przez Agencję, w terminie 7 dni od dnia ich wprowadzenia. Do informacji Prezes UTK dołącza materiały dowodowe uzasadniające swoją decyzję.
 
@@ -927,7 +1129,8 @@ Art. 67–69. (pominięte)
 
 5. Do skargi, o której mowa w art. 13 ust. 3c pkt 4, pasażer powinien dołączyć następujące dokumenty:
 
-- **1)** kopię skargi lub reklamacji skierowanej do przewoźnika kolejowego, operatora stacji pasażerskiej, zarządzającego peronem, sprzedawcy biletów, organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych w rozumieniu przepisów ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2023 r. poz. 2211); została udzielona;
+- **1)** kopię skargi lub reklamacji skierowanej do przewoźnika kolejowego, operatora stacji pasażerskiej, zarządzającego peronem, sprzedawcy biletów, organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych w rozumieniu przepisów ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2023 r. poz. 2211);
+- **2)** odpowiedź podmiotu, o którym mowa w pkt 1, na skargę lub reklamację, jeżeli została udzielona;
 - **3)** bilet na daną trasę, a w przypadku biletu elektronicznego – dane umożliwiające identyfikację warunków zawartej umowy przewozu, w szczególności numer biletu, datę i godziny przewozu oraz rodzaj pociągu, lub potwierdzenie rezerwacji;
 - **4)** inne istotne dokumenty potwierdzające naruszenie prawa pasażerów w ruchu kolejowym.
 
@@ -945,7 +1148,7 @@ Art. 67–69. (pominięte)
 
 **Art. 14b.**
 
-1. Zakazane jest stosowanie bezprawnych praktyk naruszających zbiorowe interesy pasażerów w transporcie kolejowym, w szczególności naruszających przepisy ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2024 r. poz. 1262) w zakresie wymogu podawania do publicznej umowy przewozu z uwzględnieniem obowiązku zapewnienia podróżnym odpowiednich warunków bezpieczeństwa i higieny oraz użycia środków transportowych odpowiednich do danego przewozu.
+1. Zakazane jest stosowanie bezprawnych praktyk naruszających zbiorowe interesy pasażerów w transporcie kolejowym, w szczególności naruszających przepisy ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2024 r. poz. 1262) w zakresie wymogu podawania do publicznej wiadomości rozkładu jazdy dla przewozu osób, taryf i cenników, wykonywania umowy przewozu z uwzględnieniem obowiązku zapewnienia podróżnym odpowiednich warunków bezpieczeństwa i higieny oraz użycia środków transportowych odpowiednich do danego przewozu.
 
 2. (uchylony)
 
@@ -963,7 +1166,9 @@ Art. 67–69. (pominięte)
 
 1b. Uprawnienia, o których mowa w ust. 1 pkt 1 i 2, przysługują także pracownikom Agencji w związku z wykonywaniem zadań, o których mowa w art. 14 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004.
 
-2. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ). 2016/679 przez osobę, której dane dotyczą, nie wpływa na przebieg kontroli prowadzonych przez Prezesa UTK ani na uprawnienie tego organu do nałożenia kary.
+2. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ).
+
+3. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679 przez osobę, której dane dotyczą, nie wpływa na przebieg kontroli prowadzonych przez Prezesa UTK ani na uprawnienie tego organu do nałożenia kary.
 
 **Art. 15a.**
 
@@ -985,7 +1190,7 @@ Art. 67–69. (pominięte)
 
 4. Prezes UTK może wystąpić do Komisji Europejskiej o uczestniczenie w działaniach dotyczących tras pociągów międzynarodowych w celu ułatwienia współpracy właściwych organów regulacyjnych.
 
-5. W przypadku prowadzenia przez Prezesa UTK postępowań dotyczących międzynarodowych przewozów kolejowych, w których konieczne jest wydanie decyzji również przez organ regulacyjny z innego państwa członkowskiego Unii Europejskiej, Prezes UTK współpracuje z tym organem, w szczególności występuje daną sprawę. Art. 15aa. 1. W zakresie bezpieczeństwa, interoperacyjności i nadzoru Prezes UTK współpracuje z krajowymi organami do spraw bezpieczeństwa z innych państw członkowskich Unii Europejskiej, w szczególności w zakresie:
+5. W przypadku prowadzenia przez Prezesa UTK postępowań dotyczących międzynarodowych przewozów kolejowych, w których konieczne jest wydanie decyzji również przez organ regulacyjny z innego państwa członkowskiego Unii Europejskiej, Prezes UTK współpracuje z tym organem, w szczególności występuje do niego o przekazanie informacji niezbędnych do wydania decyzji rozstrzygającej daną sprawę. Art. 15aa. 1. W zakresie bezpieczeństwa, interoperacyjności i nadzoru Prezes UTK współpracuje z krajowymi organami do spraw bezpieczeństwa z innych państw członkowskich Unii Europejskiej, w szczególności w zakresie:
 
 - **1)** koordynowania działań nadzorczych dotyczących przewoźnika kolejowego posiadającego obszar działalności na terytorium Rzeczypospolitej Polskiej oraz na terytorium innych państw członkowskich Unii Europejskiej w celu wyeliminowania nakładania się działań nadzorczych przy jednoczesnym zapewnieniu wystarczającego zakresu nadzoru;
 - **2)** wymiany informacji dotyczących przewoźników kolejowych, o których mowa w pkt 1, w szczególności w odniesieniu do znanych ryzyk, stosowania środków ich kontroli, podejmowanych działań nadzorczych, a także osiąganych wyników w zakresie bezpieczeństwa;
@@ -997,7 +1202,7 @@ Art. 67–69. (pominięte)
 
 3. Prezes UTK może zawierać z krajowymi organami do spraw bezpieczeństwa z innych państw członkowskich Unii Europejskiej porozumienia określające zasady współpracy, o której mowa w ust. 1 i 2.
 
-4. Prezes UTK bierze udział w pracach sieci krajowych organów do spraw bezpieczeństwa, o której mowa w art. 38 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004.
+4. Prezes UTK bierze udział w pracach sieci krajowych organów do spraw bezpieczeństwa, o której mowa w art. 38 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004. Art. 15ab. 1. Prezes UTK współpracuje z Agencją w szczególności w zakresie:
 
 - **1)** wydawania, przedłużania, aktualizacji, ograniczania i cofania jednolitych certyfikatów bezpieczeństwa;
 - **2)** wydawania, odnawiania, zmiany i unieważniania zezwoleń na wprowadzenie pojazdu kolejowego do obrotu lub zezwoleń dla typu pojazdu;
@@ -1023,7 +1228,7 @@ Art. 67–69. (pominięte)
 2. Wysokość opłat, o których mowa w ust. 1, z tytułu:
 
 - **1)** złożenia wniosku w sprawach dotyczących:
-    - **a)** autoryzacji bezpieczeństwa, jednolitego certyfikatu bezpieczeństwa, świadectwa bezpieczeństwa, certyfikatu podmiotu odpowiedzialnego za utrzymanie pojazdu kolejowego (ECM) oraz certyfikatu w zakresie funkcji niż 20 000 złotych,
+    - **a)** autoryzacji bezpieczeństwa, jednolitego certyfikatu bezpieczeństwa, świadectwa bezpieczeństwa, certyfikatu podmiotu odpowiedzialnego za utrzymanie pojazdu kolejowego (ECM) oraz certyfikatu w zakresie funkcji utrzymania, o których mowa w art. 23j ust. 3 pkt 2–4 – nie może być wyższa niż 20 000 złotych,
     - **b)** autoryzacji bezpieczeństwa lub jednolitego certyfikatu bezpieczeństwa, w której potwierdzono także zgodność z załącznikiem II do rozporządzenia (UE) nr 2019/779 – nie może być wyższa niż 40 000 złotych,
     - **c)** świadectwa dopuszczenia do eksploatacji typu – nie może być wyższa niż 20 000 złotych,
     - **d)** licencji maszynisty oraz wtórników licencji maszynisty – nie może być wyższa niż 150 złotych,
@@ -1035,7 +1240,7 @@ Art. 67–69. (pominięte)
 
 - **2)** nadzoru nad:
     - **a)** ośrodkami szkolenia,
-    - **b)** podmiotami uprawnionymi do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu sprawdzenia spełnienia wymagań maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności – nie może być wyższa niż 10 000 złotych.
+    - **b)** podmiotami uprawnionymi do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności – nie może być wyższa niż 10 000 złotych.
 
 3. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe czynności dla danego rodzaju sprawy, za które są pobierane opłaty, o których mowa w ust. 1, wysokość tych opłat, a także sposób ich uiszczania i pobierania, uwzględniając średni nakład pracy przy wykonywaniu szczegółowych czynności dla danego rodzaju sprawy, konieczność jednolitego postępowania przy pobieraniu i uiszczaniu opłat i zachowanie konkurencyjności transportu kolejowego.
 
@@ -1049,7 +1254,9 @@ Art. 67–69. (pominięte)
 
 **Art. 16b.**
 
-1. W zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823), z tym że spór może być prowadzony między przedsiębiorcami. rozwiązania sporu pasażerskiego.
+1. W zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823), z tym że spór może być prowadzony między przedsiębiorcami.
+
+2. Prowadząc postępowanie, Rzecznik przedstawia stronom propozycję rozwiązania sporu pasażerskiego.
 
 3. Strony w terminie 7 dni od dnia przedstawienia propozycji rozwiązania sporu pasażerskiego obowiązane są do podjęcia decyzji co do wyrażenia zgody na przedstawioną propozycję rozwiązania sporu lub zastosowanie się do niej.
 
@@ -1077,6 +1284,7 @@ Art. 67–69. (pominięte)
 4. Prezes UTK odwołuje Rzecznika przed upływem kadencji, na którą został powołany, w przypadku:
 
 - **1)** rażącego naruszenia prawa przy wykonywaniu swojej funkcji;
+- **2)** choroby trwale uniemożliwiającej wykonywanie zadań;
 - **3)** utraty kwalifikacji albo niespełniania warunków, o których mowa w ust. 1 i 3;
 - **4)** złożenia rezygnacji.
 
@@ -1100,7 +1308,8 @@ Art. 67–69. (pominięte)
 - **2)** wnioskodawca nie podjął przed złożeniem wniosku o wszczęcie postępowania próby kontaktu z drugą stroną i bezpośredniego rozwiązania sporu pasażerskiego;
 - **3)** spór pasażerski jest błahy lub wniosek o wszczęcie postępowania przed Rzecznikiem spowoduje uciążliwości dla drugiej strony;
 - **4)** sprawa o to samo roszczenie między tymi samymi stronami jest w toku albo została już rozpatrzona przez Rzecznika, inny właściwy podmiot albo sąd;
-- **5)** wartość przedmiotu sporu pasażerskiego jest wyższa albo niższa od progów finansowych określonych w przepisach wykonawczych wydanych na podstawie art. 16g; dnia, w którym podjął próbę kontaktu z drugą stroną i bezpośredniego rozwiązania sporu pasażerskiego;
+- **5)** wartość przedmiotu sporu pasażerskiego jest wyższa albo niższa od progów finansowych określonych w przepisach wykonawczych wydanych na podstawie art. 16g;
+- **6)** wnioskodawca złożył wniosek o wszczęcie postępowania po upływie roku od dnia, w którym podjął próbę kontaktu z drugą stroną i bezpośredniego rozwiązania sporu pasażerskiego;
 - **7)** rozpatrzenie sporu pasażerskiego spowodowałoby poważne zakłócenie działania Rzecznika.
 
 **Art. 16f.**
@@ -1118,6 +1327,12 @@ Art. 67–69. (pominięte)
 
 **Art. 16g.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
+- **1)** organizację instytucji Rzecznika,
+- **2)** sposób i formy prowadzenia postępowania w sprawie pozasądowego rozwiązywania sporów pasażerskich, w tym sposób wnoszenia wniosków o wszczęcie postępowania oraz wymiany informacji między stronami postępowania za pomocą środków komunikacji elektronicznej lub przesyłką pocztową,
+- **3)** szczegółową treść wniosku o wszczęcie postępowania w sprawie pozasądowego rozwiązywania sporów pasażerskich i niezbędne dokumenty, które należy dołączyć do wniosku,
+- **4)** wysokość progów finansowych wartości przedmiotu sporu, których przekroczenie uprawnia Rzecznika do odmowy rozpatrzenia sporu pasażerskiego,
+- **5)** szczegółowe kwalifikacje osób prowadzących postępowania w sprawie pozasądowego rozwiązywania sporów pasażerskich oraz minimalny czas, na jaki jest udzielane upoważnienie – mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.
+
 #### Rozdział 4 Bezpieczeństwo transportu kolejowego
 
 **Art. 17.**
@@ -1132,6 +1347,7 @@ Art. 67–69. (pominięte)
 
 - **1)** wdrażanie metod wyceny i oceny ryzyka, zgodnie z przepisami rozporządzenia wykonawczego Komisji (UE) nr 402/2013 z dnia 30 kwietnia 2013 r. w sprawie wspólnej metody oceny bezpieczeństwa w zakresie wyceny i oceny ryzyka i uchylającego rozporządzenie (WE) nr 352/2009 (Dz. Urz. UE L 121 z 03.05.2013, str. 8, z późn. zm. ), zwanego dalej „rozporządzeniem 402/2013”, we współpracy ze sobą i innymi podmiotami;
 - **2)** przestrzeganie przepisów Unii Europejskiej i krajowych z zakresu bezpieczeństwa kolei;
+- **3)** ustanowienie i stosowanie systemu zarządzania bezpieczeństwem;
 - **4)** stosowanie systemowego podejścia do rozwoju i poprawy bezpieczeństwa;
 - **5)** priorytetowe traktowanie zapobiegania wypadkom;
 - **6)** zobowiązanie, aby podmioty, o których mowa w ust. 1bb, mające wpływ na bezpieczeństwo kolei, wdrażały niezbędne środki kontroli ryzyka oraz stosowały wspólne metody oceny bezpieczeństwa (CSM) w zakresie monitorowania;
@@ -1145,7 +1361,7 @@ Art. 67–69. (pominięte)
 
 1d. Ruch pociągów dopuszcza się wyłącznie na liniach kolejowych.
 
-1e. W przypadku wymiany wagonów między przewoźnikami kolejowymi każdy uczestniczący w wymianie podmiot przekazuje informacje mające związek danego wagonu, oraz elementy dokumentacji dotyczące utrzymania, informacje identyfikujące operacje załadunku i listy przewozowe.
+1e. W przypadku wymiany wagonów między przewoźnikami kolejowymi każdy uczestniczący w wymianie podmiot przekazuje informacje mające związek z bezpieczną eksploatacją wagonów, w tym dotyczące stanu i historii utrzymania danego wagonu, oraz elementy dokumentacji dotyczące utrzymania, informacje identyfikujące operacje załadunku i listy przewozowe.
 
 2. (uchylony)
 
@@ -1171,6 +1387,7 @@ Art. 67–69. (pominięte)
 - **4)** opisują, w jaki sposób jest zapewniane ciągłe doskonalenie systemu zarządzania bezpieczeństwem;
 - **5)** zapewniają nadzór nad wszystkimi ryzykami związanymi z prowadzoną działalnością, łącznie z ryzykiem podwykonawców, dostawców materiałów i usług, ryzykiem społecznym oraz ryzykiem działalności innych podmiotów;
 - **6)** obejmują wszelkie inne niż wymienione w pkt 1–5 elementy konieczne do uwzględnienia ryzyka dla bezpieczeństwa, zgodnie z oceną ryzyka dotyczącą ich własnej działalności;
+- **7)** określają konieczność wdrażania niezbędnych środków kontroli ryzyka;
 - **8)** zapewniają informowanie innych podmiotów, mających potencjalny wpływ na bezpieczeństwo systemu kolei Unii, o niezbędnych do wdrożenia środkach kontroli ryzyka;
 - **9)** są stale rozwijane, w celu koordynacji procedur awaryjnych zarządcy, ze wszystkimi przewoźnikami kolejowymi działającymi na danej infrastrukturze oraz ze służbami ratunkowymi i innymi podmiotami, które mogłyby być zaangażowane w razie sytuacji awaryjnej.
 
@@ -1182,7 +1399,8 @@ Art. 67–69. (pominięte)
 - **4)** programy szkolenia personelu, w tym ustalenia dotyczące stanu zdrowia fizycznego i psychicznego, dla zapewnienia utrzymania kompetencji personelu i odpowiedniego wykonywania zadań, aby kompetencje personelu były utrzymywane;
 - **5)** ustalenia zapewniające odpowiedni dostęp do informacji w ramach organizacji oraz umożliwiające wymianę informacji między organizacjami działającymi w ramach danego systemu kolei;
 - **6)** procedury i metody określania ryzyka, przeprowadzania ocen ryzyka i stosowania środków kontroli ryzyka, w sytuacjach kiedy zmiana warunków prowadzenia działalności lub wprowadzenie nowego materiału powoduje nowe ryzyko dla infrastruktury lub interfejsu człowiek – maszyna – organizacja;
-- **7)** procedury i wzory dla dokumentowania informacji dotyczących bezpieczeństwa i wskazanie procedury ustalającej sposób nadzoru nad ważnymi informacjami dotyczącymi bezpieczeństwa; zdarzenia oraz wypadki, których uniknięto, były zgłaszane, badane i analizowane oraz aby były podejmowane niezbędne środki zapobiegawcze;
+- **7)** procedury i wzory dla dokumentowania informacji dotyczących bezpieczeństwa i wskazanie procedury ustalającej sposób nadzoru nad ważnymi informacjami dotyczącymi bezpieczeństwa;
+- **8)** procedury zapewniające, aby zaistniałe wypadki i incydenty, inne niebezpieczne zdarzenia oraz wypadki, których uniknięto, były zgłaszane, badane i analizowane oraz aby były podejmowane niezbędne środki zapobiegawcze;
 - **9)** przyjęte plany działania, alarmowania i informowania w sytuacji awaryjnej, uzgodnione z Prezesem UTK;
 - **10)** ilościowe i jakościowe cele organizacji dla utrzymania i polepszenia bezpieczeństwa oraz plany i procedury realizacji tych celów;
 - **11)** postanowienia dotyczące okresowych wewnętrznych audytów systemów zarządzania bezpieczeństwem.
@@ -1194,7 +1412,7 @@ Art. 67–69. (pominięte)
 6. Systemy zarządzania bezpieczeństwem tworzy się w oparciu o wymagania określone w:
 
 - **1)** załączniku I do rozporządzenia delegowanego Komisji (UE) 2018/762 z dnia 8 marca 2018 r. ustanawiającego wspólne metody oceny bezpieczeństwa w odniesieniu do wymogów dotyczących systemu zarządzania bezpieczeństwem na podstawie dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/798 oraz uchylającego rozporządzenia Komisji (UE) nr 1158/2010 i (UE) nr 1169/2010 (Dz. Urz. UE L 129 z 25.05.2018, str. 26, z późn. zm. ), zwanego dalej „rozporządzeniem (UE) 2018/762” – w odniesieniu do przewoźników kolejowych;
-- **2)** załączniku II do rozporządzenia (UE) 2018/762 – w odniesieniu do zarządców. Art. 17aa. Po poważnym wypadku przewoźnik kolejowy zapewnia pomoc rodzinom ofiar śmiertelnych tego wypadku oraz osobom ciężko w nim rannym, i ich rodzinom przez informowanie o:
+- **2)** załączniku II do rozporządzenia (UE) 2018/762 – w odniesieniu do zarządców. Art. 17aa. Po poważnym wypadku przewoźnik kolejowy zapewnia pomoc rodzinom ofiar śmiertelnych tego wypadku oraz osobom ciężko w nim rannym, będącym pasażerami pociągu uruchomionego przez tego przewoźnika kolejowego, i ich rodzinom przez informowanie o:
 - **1)** procedurach dochodzenia roszczeń na mocy prawa unijnego;
 - **2)** możliwości skorzystania z pomocy psychologa na koszt przewoźnika kolejowego. Art. 17ab. 1. Zarządcy i przewoźnicy kolejowi przedstawiają Prezesowi UTK corocznie, w terminie do dnia 31 maja, raporty w sprawie bezpieczeństwa za poprzedni rok kalendarzowy.
 
@@ -1208,7 +1426,7 @@ Art. 67–69. (pominięte)
 
 3. Prezes UTK sporządza roczny raport w sprawie bezpieczeństwa zawierający:
 
-- **1)** informacje o: w tym informacje o liczbie i wynikach przeprowadzonych kontroli oraz audytów;
+- **1)** informacje o:
     - **a)** stanie bezpieczeństwa kolei, z uwzględnieniem realizacji wspólnych wskaźników bezpieczeństwa (CSI) na poziomie krajowym, i realizacji krajowego planu bezpieczeństwa określającego działania przewidziane do osiągnięcia wspólnych celów bezpieczeństwa (CST),
     - **b)** zmianach w prawodawstwie dotyczącym bezpieczeństwa kolei,
     - **c)** wydanych jednolitych certyfikatach bezpieczeństwa i autoryzacjach bezpieczeństwa,
@@ -1217,6 +1435,7 @@ Art. 67–69. (pominięte)
     - **f)** przewoźnikach kolejowych realizujących zadania podmiotu odpowiedzialnego za utrzymanie pojazdu kolejowego (ECM),
     - **g)** doświadczeniach przewoźników kolejowych i zarządców w stosowaniu odpowiednich wspólnych metod oceny bezpieczeństwa (CSM);
 
+- **2)** wnioski wynikające z nadzoru nad zarządcami i przewoźnikami kolejowymi, w tym informacje o liczbie i wynikach przeprowadzonych kontroli oraz audytów;
 - **3)** krajowy plan bezpieczeństwa określający działania przewidziane do osiągnięcia wspólnych celów bezpieczeństwa (CST).
 
 4. Roczny raport, o którym mowa w ust. 3, Prezes UTK ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Prezesa Urzędu Transportu Kolejowego oraz przekazuje Agencji w terminie do dnia 30 września roku następującego po okresie sprawozdawczym. Art. 17ac. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wspólne wskaźniki bezpieczeństwa (CSI) oraz sposób ich obliczania i zestawiania, uwzględniając potrzebę jednolitego postępowania przy ich obliczaniu i zestawianiu oraz zwiększenia poziomu bezpieczeństwa kolei.
@@ -1238,7 +1457,9 @@ Art. 67–69. (pominięte)
     - **d)** stanowiących infrastrukturę prywatną,
     - **e)** posiadających status bocznicy kolejowej;
 
-- **2)** linii metra. posiadanie przez jej zarządcę świadectwa bezpieczeństwa.
+- **2)** linii metra.
+
+3. Warunkiem eksploatacji drogi kolejowej, o której mowa w ust. 2 pkt 1, jest posiadanie przez jej zarządcę świadectwa bezpieczeństwa.
 
 4. Przepisu ust. 3 nie stosuje się do zarządcy, który posiada autoryzację bezpieczeństwa.
 
@@ -1270,7 +1491,9 @@ Art. 67–69. (pominięte)
 
 **Art. 18a.**
 
-1. Prezes UTK wydaje autoryzację bezpieczeństwa dla zarządcy zarządzającego infrastrukturą kolejową usytuowaną na terytorium Rzeczypospolitej Polskiej. wniosek zarządcy, po dokonaniu oceny wniosku zgodnie z wymaganiami określonymi w załączniku II do rozporządzenia (UE) 2018/762.
+1. Prezes UTK wydaje autoryzację bezpieczeństwa dla zarządcy zarządzającego infrastrukturą kolejową usytuowaną na terytorium Rzeczypospolitej Polskiej.
+
+2. Prezes UTK wydaje autoryzację bezpieczeństwa, o której mowa w ust. 1, na wniosek zarządcy, po dokonaniu oceny wniosku zgodnie z wymaganiami określonymi w załączniku II do rozporządzenia (UE) 2018/762.
 
 3. Autoryzacja bezpieczeństwa jest wydawana na okres 5 lat i przedłużana co 5 lat na wniosek zarządcy.
 
@@ -1294,7 +1517,9 @@ Art. 67–69. (pominięte)
 1. Przewoźnik kolejowy składa wniosek o wydanie jednolitego certyfikatu bezpieczeństwa do:
 
 - **1)** Agencji albo Prezesa UTK – w przypadku gdy planowany obszar działalności obejmuje wyłącznie terytorium Rzeczypospolitej Polskiej i stacje graniczne położone w sąsiednich państwach członkowskich Unii Europejskiej;
-- **2)** Agencji – w przypadku gdy planowany obszar działalności obejmuje również inne państwa członkowskie Unii Europejskiej. rozporządzenia wykonawczego Komisji (UE) 2018/763 z dnia 9 kwietnia 2018 r. ustanawiającego praktyczne zasady wydawania jednolitych certyfikatów bezpieczeństwa przedsiębiorstwom kolejowym na podstawie dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/798 oraz uchylającego rozporządzenie Komisji (WE) nr 653/2007 (Dz. Urz. UE L 129 z 25.05.2018, str. 49, z późn. zm. ).
+- **2)** Agencji – w przypadku gdy planowany obszar działalności obejmuje również inne państwa członkowskie Unii Europejskiej.
+
+2. Sposób składania wniosku, o którym mowa w ust. 1, określa art. 4 rozporządzenia wykonawczego Komisji (UE) 2018/763 z dnia 9 kwietnia 2018 r. ustanawiającego praktyczne zasady wydawania jednolitych certyfikatów bezpieczeństwa przedsiębiorstwom kolejowym na podstawie dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/798 oraz uchylającego rozporządzenie Komisji (WE) nr 653/2007 (Dz. Urz. UE L 129 z 25.05.2018, str. 49, z późn. zm. ).
 
 3. Jednolity certyfikat bezpieczeństwa jest wydawany na okres do 5 lat.
 
@@ -1306,7 +1531,9 @@ Art. 67–69. (pominięte)
 
 7. Przewoźnik kolejowy może objąć posiadane przez siebie bocznice kolejowe jednolitym certyfikatem bezpieczeństwa, jeżeli są one ujęte w systemie zarządzania bezpieczeństwem przewoźnika kolejowego. Art. 18ba. 1. W przypadku gdy wniosek o wydanie jednolitego certyfikatu bezpieczeństwa został złożony do Agencji, Prezes UTK ocenia, czy złożona dokumentacja spełnia wymogi określone w przepisach krajowych w zakresie bezpieczeństwa, a wyniki oceny przekazuje Agencji.
 
-2. W przypadku gdy Agencja nie zgadza się z wynikami oceny, o której mowa w ust. 1, Prezes UTK i Agencja współpracują w celu wypracowania wspólnego stanowiska. W uzasadnionych przypadkach do współpracy włącza się przewoźnika kolejowego. mowa w art. 55 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004, w przypadku negatywnej oceny Prezesa UTK i braku wypracowania wspólnego stanowiska z Agencją. Art. 18bb. 1. W przypadku złożenia do Prezesa UTK wniosku o wydanie jednolitego certyfikatu bezpieczeństwa, Prezes UTK powiadamia wnioskodawcę, w terminie jednego miesiąca od dnia otrzymania wniosku, że dokumentacja jest kompletna, albo wzywa wnioskodawcę do usunięcia braków.
+2. W przypadku gdy Agencja nie zgadza się z wynikami oceny, o której mowa w ust. 1, Prezes UTK i Agencja współpracują w celu wypracowania wspólnego stanowiska. W uzasadnionych przypadkach do współpracy włącza się przewoźnika kolejowego.
+
+3. Prezes UTK może złożyć wniosek o arbitraż do Rady Odwoławczej, o której mowa w art. 55 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004, w przypadku negatywnej oceny Prezesa UTK i braku wypracowania wspólnego stanowiska z Agencją. Art. 18bb. 1. W przypadku złożenia do Prezesa UTK wniosku o wydanie jednolitego certyfikatu bezpieczeństwa, Prezes UTK powiadamia wnioskodawcę, w terminie jednego miesiąca od dnia otrzymania wniosku, że dokumentacja jest kompletna, albo wzywa wnioskodawcę do usunięcia braków.
 
 2. Prezes UTK podejmuje decyzję w sprawie wniosków o wydanie jednolitych certyfikatów bezpieczeństwa w terminie 4 miesięcy odpowiednio od dnia powiadomienia, o którym mowa w ust. 1, albo od dnia usunięcia przez wnioskodawcę braków.
 
@@ -1320,7 +1547,9 @@ Art. 67–69. (pominięte)
 
 3. Na wniosek przewoźnika kolejowego Prezes UTK przedłuża wydany przez siebie jednolity certyfikat bezpieczeństwa na okres nieprzekraczający 5 lat.
 
-4. W celu przedłużenia jednolitych certyfikatów bezpieczeństwa Prezes UTK wykorzystuje informacje uzyskane podczas działań nadzorczych. certyfikatu bezpieczeństwa stosuje się przepisy art. 18b ust. 2, 4 i 5, art. 18ba oraz art. 18bb ust. 1 i 2. Art. 18bd. 1. Przewoźnik kolejowy informuje Prezesa UTK, z co najmniej dwumiesięcznym wyprzedzeniem, o planowanym rozpoczęciu przewozów na zmienionych warunkach dotyczących rodzaju i zakresu działalności.
+4. W celu przedłużenia jednolitych certyfikatów bezpieczeństwa Prezes UTK wykorzystuje informacje uzyskane podczas działań nadzorczych.
+
+5. Do postępowań dotyczących aktualizacji lub przedłużenia jednolitego certyfikatu bezpieczeństwa stosuje się przepisy art. 18b ust. 2, 4 i 5, art. 18ba oraz art. 18bb ust. 1 i 2. Art. 18bd. 1. Przewoźnik kolejowy informuje Prezesa UTK, z co najmniej dwumiesięcznym wyprzedzeniem, o planowanym rozpoczęciu przewozów na zmienionych warunkach dotyczących rodzaju i zakresu działalności.
 
 2. Przewoźnik kolejowy informuje Prezesa UTK o znaczących zmianach dotyczących kategorii zawodowej pracowników lub typów użytkowanych pojazdów w terminie 7 dni od daty zakończenia procesu oceny znaczenia zmiany. Art. 18be. 1. Prezes UTK nadzoruje stosowanie przez zarządców i przewoźników kolejowych systemu zarządzania bezpieczeństwem, o którym mowa w art. 17a, uwzględniając zasady określone we wspólnych metodach oceny bezpieczeństwa (CSM).
 
@@ -1332,7 +1561,7 @@ Art. 67–69. (pominięte)
 
 3. W ramach wykonywanego nadzoru, o którym mowa w ust. 1, Prezes UTK wykorzystuje dokumentację zgromadzoną podczas wydawania, przedłużania lub aktualizacji jednolitego certyfikatu bezpieczeństwa lub autoryzacji bezpieczeństwa, a także może brać pod uwagę wyniki w zakresie bezpieczeństwa przewoźnika kolejowego lub zarządcy infrastruktury oraz, w odpowiednich przypadkach, ośrodków szkoleniowych w zakresie, w jakim ich działania mają wpływ na bezpieczeństwo kolei.
 
-4. W przypadku podmiotów odpowiedzialnych za utrzymanie pojazdu kolejowego (ECM) nadzór, o którym mowa w ust. 1, przeprowadza się w celu zapewnienia stosowania przez te podmioty odpowiednich wspólnych metod oceny bezpieczeństwa (CSM). Art. 18bf. 1. Prezes UTK występuje do Agencji o ograniczenie albo cofnięcie wydanego przez nią jednolitego certyfikatu bezpieczeństwa, jeżeli przewoźnik albo zastosowany wobec niego, na podstawie art. 14 ust. 2a, tymczasowy środek bezpieczeństwa obejmuje okres powyżej 3 miesięcy.
+4. W przypadku podmiotów odpowiedzialnych za utrzymanie pojazdu kolejowego (ECM) nadzór, o którym mowa w ust. 1, przeprowadza się w celu zapewnienia stosowania przez te podmioty odpowiednich wspólnych metod oceny bezpieczeństwa (CSM). Art. 18bf. 1. Prezes UTK występuje do Agencji o ograniczenie albo cofnięcie wydanego przez nią jednolitego certyfikatu bezpieczeństwa, jeżeli przewoźnik kolejowy przestał spełniać warunki wydania jednolitego certyfikatu bezpieczeństwa albo zastosowany wobec niego, na podstawie art. 14 ust. 2a, tymczasowy środek bezpieczeństwa obejmuje okres powyżej 3 miesięcy.
 
 2. W przypadku gdy Agencja nie zgadza się z wnioskiem Prezesa UTK, o którym mowa w ust. 1, stosuje się przepisy art. 18ba ust. 2 i 3. Jeżeli jednolity certyfikat bezpieczeństwa nie zostanie ograniczony albo cofnięty, Prezes UTK cofa tymczasowe środki bezpieczeństwa.
 
@@ -1350,7 +1579,9 @@ Art. 67–69. (pominięte)
 
 4. Szkolenia, o których mowa w ust. 1–3, organizują przewoźnicy kolejowi oraz zarządcy, którzy ponoszą odpowiedzialność za poziom wyszkolenia i kwalifikacji pracowników wykonujących prace związane z bezpieczeństwem.
 
-5. Jeżeli przewoźnik kolejowy lub zarządca nie ma warunków do organizowania szkoleń, o których mowa w ust. 1–3, lub przeprowadzania egzaminów, kieruje odpłatnie pracownika do innego przewoźnika kolejowego lub zarządcy. Opłata za szkolenie lub egzamin stanowi dochód podmiotów prowadzących szkolenie lub egzamin. koszty oraz niewielki zysk, nieprzekraczający 10 % tych kosztów. Opłatę tę ustala się na niedyskryminujących zasadach.
+5. Jeżeli przewoźnik kolejowy lub zarządca nie ma warunków do organizowania szkoleń, o których mowa w ust. 1–3, lub przeprowadzania egzaminów, kieruje odpłatnie pracownika do innego przewoźnika kolejowego lub zarządcy. Opłata za szkolenie lub egzamin stanowi dochód podmiotów prowadzących szkolenie lub egzamin.
+
+6. Opłata za szkolenie i egzamin powinna uwzględniać wyłącznie uzasadnione koszty oraz niewielki zysk, nieprzekraczający 10 % tych kosztów. Opłatę tę ustala się na niedyskryminujących zasadach.
 
 7. Przewoźnik kolejowy lub zarządca organizujący szkolenie wydaje zainteresowanym dokument potwierdzający odbycie szkolenia.
 
@@ -1373,7 +1604,7 @@ Art. 67–69. (pominięte)
 - **3)** oświadczenie potwierdzające, że na stanowiskach bezpośrednio związanych z prowadzeniem i bezpieczeństwem ruchu kolejowego zatrudnia pracowników spełniających warunki określone w ustawie i wydanych na jej podstawie przepisach;
 - **4)** w przypadku eksploatowania własnych pojazdów kolejowych:
     - **a)** oświadczenie o posiadaniu aktualnych świadectw sprawności technicznej eksploatowanych pojazdów kolejowych,
-    - **b)** oświadczenie potwierdzające, że na stanowiskach bezpośrednio związanych z prowadzeniem określonych rodzajów pojazdów kolejowych zatrudnia podstawie przepisach.
+    - **b)** oświadczenie potwierdzające, że na stanowiskach bezpośrednio związanych z prowadzeniem określonych rodzajów pojazdów kolejowych zatrudnia pracowników spełniających warunki określone w ustawie i wydanych na jej podstawie przepisach.
 
 2. Prezes UTK wydaje świadectwo bezpieczeństwa dla przewoźnika kolejowego, jeżeli przedstawi on:
 
@@ -1396,9 +1627,11 @@ Art. 67–69. (pominięte)
 3a. Prezes UTK wydaje świadectwo bezpieczeństwa uprawniające przedsiębiorcę do zarządzania infrastrukturą i wykonywania przewozów w metrze, jeżeli przedstawi on:
 
 - **1)** wykaz, o którym mowa w ust. 1 pkt 1;
-- **2)** wykaz przepisów wewnętrznych, określających: w art. 17d ust. 2 pkt 1, oraz przewoźnika kolejowego może uzyskać jedno świadectwo bezpieczeństwa dla obu funkcji, po łącznym spełnieniu wymogów, o których mowa w ust. 1 i 2.
+- **2)** wykaz przepisów wewnętrznych, określających:
     - **a)** szczegółowe warunki prowadzenia ruchu kolejowego oraz utrzymania i eksploatacji infrastruktury, a także pojazdów kolejowych,
     - **b)** warunki, jakie są obowiązani spełniać pracownicy wykonujący czynności na stanowiskach bezpośrednio związanych z prowadzeniem i bezpieczeństwem ruchu kolejowego oraz prowadzeniem pojazdów kolejowych.
+
+3b. Przedsiębiorca łączący funkcję zarządcy infrastruktury, o której mowa w art. 17d ust. 2 pkt 1, oraz przewoźnika kolejowego może uzyskać jedno świadectwo bezpieczeństwa dla obu funkcji, po łącznym spełnieniu wymogów, o których mowa w ust. 1 i 2.
 
 4. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
@@ -1408,9 +1641,17 @@ Art. 67–69. (pominięte)
 
 **Art. 20.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia, ogólne warunki techniczne eksploatacji pojazdów kolejowych, tak aby:
 
+- **1)** spełnione były warunki bezpieczeństwa ruchu kolejowego;
+- **2)** mogłyby być one przemieszczane w składach tych samych pociągów;
+- **3)** ich przemieszczanie po liniach kolejowych było technicznie możliwe.
+
 **Art. 20a.** Minister właściwy do spraw transportu, na wniosek Prezesa UTK, określi, w drodze rozporządzenia, procedury techniczne utrzymania i eksploatacji w transporcie kolejowym regulujące:
 
-**Art. 21.** Minister właściwy do spraw transportu może, w drodze decyzji, na wniosek przewoźnika kolejowego, zarządcy lub użytkownika bocznicy kolejowej, w uzasadnionych przypadkach, udzielić zezwolenia na odstępstwo od warunków i sygnalizacji, po uzyskaniu opinii Prezesa UTK.
+- **1)** postępowanie osób wykonujących czynności na poszczególnych stanowiskach związanych z bezpieczeństwem ruchu kolejowego,
+- **2)** sposób obsługi określonych urządzeń, pojazdów kolejowych lub ich elementów,
+- **3)** sposób przeprowadzania określonych czynności niezbędnych dla zapewnienia wykonywania przewozów kolejowych – mając na uwadze potrzebę zapewnienia jednolitych warunków wykonywania działalności na sieci kolejowej Rzeczypospolitej Polskiej przez przewoźników kolejowych i zarządców oraz względy bezpieczeństwa transportu kolejowego.
+
+**Art. 21.** Minister właściwy do spraw transportu może, w drodze decyzji, na wniosek przewoźnika kolejowego, zarządcy lub użytkownika bocznicy kolejowej, w uzasadnionych przypadkach, udzielić zezwolenia na odstępstwo od warunków technicznych eksploatacji pojazdów kolejowych oraz prowadzenia ruchu kolejowego i sygnalizacji, po uzyskaniu opinii Prezesa UTK.
 
 **Art. 22.**
 
@@ -1432,7 +1673,7 @@ Art. 67–69. (pominięte)
 
 2b. Spełnienie warunku, o którym mowa w ust. 2 pkt 1, potwierdza się złożeniem przez kandydata na maszynistę ubiegającego się o uzyskanie licencji maszynisty oświadczenia pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Oświadczenie zawiera klauzulę: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-2c. Posiadacz licencji maszynisty poddaje się badaniom lekarskim i psychologicznym oraz uzyskuje orzeczenie lekarskie potwierdzające spełnienie wymagań zdrowotnych, fizycznych i psychicznych, określonych w przepisach lekarskiego licencja maszynisty traci ważność.
+2c. Posiadacz licencji maszynisty poddaje się badaniom lekarskim i psychologicznym oraz uzyskuje orzeczenie lekarskie potwierdzające spełnienie wymagań zdrowotnych, fizycznych i psychicznych, określonych w przepisach wydanych na podstawie art. 22a ust. 11 pkt 2. W przypadku nieuzyskania orzeczenia lekarskiego licencja maszynisty traci ważność.
 
 2d. Badania, o których mowa w ust. 2c, przeprowadza się co:
 
@@ -1453,7 +1694,9 @@ Art. 67–69. (pominięte)
 
 7. Prezes UTK, w drodze decyzji, cofa licencję maszynisty osobie, która przestała spełniać warunek określony w ust. 2 pkt 1 lub trwale przestała spełniać warunek określony w ust. 2 pkt 4.
 
-8. Decyzjom, o których mowa w ust. 6–7 i 12, Prezes UTK nadaje rygor natychmiastowej wykonalności. o utracie tego dokumentu, jego zniszczeniu w stopniu powodującym nieczytelność, a także o zmianie stanu faktycznego wymagającej aktualizacji danych w nim zawartych, w terminie 30 dni od dnia zaistnienia tego zdarzenia.
+8. Decyzjom, o których mowa w ust. 6–7 i 12, Prezes UTK nadaje rygor natychmiastowej wykonalności.
+
+8a. Posiadacz licencji maszynisty jest obowiązany zawiadomić Prezesa UTK o utracie tego dokumentu, jego zniszczeniu w stopniu powodującym nieczytelność, a także o zmianie stanu faktycznego wymagającej aktualizacji danych w nim zawartych, w terminie 30 dni od dnia zaistnienia tego zdarzenia.
 
 9. W przypadkach, o których mowa w ust. 8a, Prezes UTK, na podstawie wniosku, wydaje na okres pozostający do końca okresu ważności dotychczasowej licencji maszynisty wtórnik licencji maszynisty, a w przypadku aktualizacji danych zawartych w tym dokumencie – nową licencję maszynisty.
 
@@ -1467,7 +1710,9 @@ Art. 67–69. (pominięte)
 
 12. Prezes UTK, w drodze decyzji, może wydać zakaz prowadzenia pociągu lub pojazdu kolejowego na terytorium Rzeczypospolitej Polskiej przez maszynistę, o którym mowa w ust. 11, w okresie rozpatrywania wniosku, jeżeli jest to uzasadnione względami bezpieczeństwa ruchu kolejowego.
 
-13. W przypadku wniosku organu z innego państwa członkowskiego Unii Europejskiej o przeprowadzenie kontroli lub o zawieszenie licencji maszynisty, Prezes UTK rozpatruje wniosek w terminie 4 tygodni od dnia otrzymania. O sposobie załatwienia wniosku Prezes UTK powiadamia właściwy organ tego państwa i Komisję Europejską. Europejskiej, osobom, które ukończyły 20 lat, są ważne na terytorium Rzeczypospolitej Polskiej.
+13. W przypadku wniosku organu z innego państwa członkowskiego Unii Europejskiej o przeprowadzenie kontroli lub o zawieszenie licencji maszynisty, Prezes UTK rozpatruje wniosek w terminie 4 tygodni od dnia otrzymania. O sposobie załatwienia wniosku Prezes UTK powiadamia właściwy organ tego państwa i Komisję Europejską.
+
+14. Licencje maszynistów wydane w innych państwach członkowskich Unii Europejskiej, osobom, które ukończyły 20 lat, są ważne na terytorium Rzeczypospolitej Polskiej.
 
 15. Na odcinkach linii kolejowych obejmujących przejścia graniczne z państwami sąsiadującymi z Rzecząpospolitą Polską, nienależącymi do Unii Europejskiej, pociągi lub pojazdy kolejowe prowadzi się zgodnie z międzynarodowymi porozumieniami lub umowami dwustronnymi.
 
@@ -1489,7 +1734,9 @@ Art. 67–69. (pominięte)
     - **b)** prowadzenia postępowań odnoszących się do przestrzegania przepisów Unii Europejskiej dotyczących przyznawania uprawnień maszynistom,
     - **c)** prowadzenia postępowania w sprawie poważnego wypadku, wypadku lub incydentu;
 
-- **5)** innego podmiotu, jeżeli obowiązek udostępnienia danych wynika z odrębnych przepisów. są jawne i udostępniane w Biuletynie Informacji Publicznej na stronie podmiotowej Prezesa UTK.
+- **5)** innego podmiotu, jeżeli obowiązek udostępnienia danych wynika z odrębnych przepisów.
+
+2. Rejestr, o którym mowa w ust. 1 pkt 2, oraz lista, o której mowa w ust. 1 pkt 3, są jawne i udostępniane w Biuletynie Informacji Publicznej na stronie podmiotowej Prezesa UTK.
 
 3. Za czynności Prezesa UTK w zakresie wpisu do rejestru, o którym mowa w ust. 1 pkt 2, oraz wpisu na listę, o której mowa w ust. 1 pkt 3, pobierana jest opłata w wysokości stanowiącej równowartość w złotych 200 euro, ustalonej przy zastosowaniu kursu średniego, ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu wpisu. Opłaty stanowią dochód budżetu państwa.
 
@@ -1512,7 +1759,8 @@ Art. 67–69. (pominięte)
 
 5. Działalność, o której mowa w ust. 4, może prowadzić przedsiębiorca:
 
-- **1)** (uchylony) upadłości;
+- **1)** (uchylony)
+- **2)** w stosunku do którego nie została otwarta likwidacja lub nie ogłoszono upadłości;
 - **3)** który nie był prawomocnie skazany za przestępstwo popełnione w celu osiągnięcia korzyści majątkowych lub przestępstwo przeciwko wiarygodności dokumentów – dotyczy osoby fizycznej, urzędującego członka organu zarządzającego lub organu nadzorczego, wspólnika spółki w spółce jawnej lub spółce partnerskiej, komplementariusza w spółce komandytowej lub spółce komandytowo-akcyjnej oraz prokurenta;
 - **4)** który posiada warunki lokalowe i wyposażenie dydaktyczne umożliwiające prowadzenie szkoleń oraz przeprowadzanie sprawdzianów wiedzy i umiejętności;
 - **5)** który prowadzi szkolenia na podstawie programów szkoleń, o których mowa odpowiednio w przepisach wydanych na podstawie ust. 11 pkt 6 i art. 22b ust. 21 pkt 2;
@@ -1524,7 +1772,9 @@ Art. 67–69. (pominięte)
 - **5b)** który terminowo wprowadza dane o przeprowadzonych szkoleniach oraz sprawdzianach wiedzy i umiejętności do rejestru, o którym mowa w art. 25x ust. 1;
 - **6)** który spełnia szczegółowe wymagania określone w przepisach wydanych na podstawie ust. 11 pkt 9;
 - **7)** który posiada zbiór obowiązujących przepisów w zakresie objętym programem szkoleń oraz sprawdzianów wiedzy i umiejętności;
-- **8)** który nie zalega w regulowaniu zobowiązań podatkowych, opłat i składek na ubezpieczenie społeczne. zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności, mogą prowadzić podmioty uprawnione do wykonywania badań w służbie medycyny pracy, zajmujące się zadaniami medycyny kolejowej.
+- **8)** który nie zalega w regulowaniu zobowiązań podatkowych, opłat i składek na ubezpieczenie społeczne.
+
+6. Badania lekarskie i psychologiczne w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności, mogą prowadzić podmioty uprawnione do wykonywania badań w służbie medycyny pracy, zajmujące się zadaniami medycyny kolejowej.
 
 7. Wpis do rejestru, o którym mowa w ust. 1 pkt 2, a także na listę, o której mowa w ust. 1 pkt 3, jest dokonywany na pisemny wniosek zainteresowanego podmiotu zawierający następujące informacje:
 
@@ -1547,6 +1797,7 @@ Art. 67–69. (pominięte)
 9. Oświadczenie, o którym mowa w ust. 8 pkt 3, powinno również określać:
 
 - **1)** firmę przedsiębiorcy, jego siedzibę i adres oraz adres zamieszkania;
+- **2)** oznaczenie miejsca i datę złożenia oświadczenia;
 - **3)** podpis osoby uprawnionej do reprezentowania przedsiębiorcy, ze wskazaniem imienia i nazwiska oraz pełnionej funkcji.
 
 9a. W przypadku gdy przedsiębiorca prowadzący ośrodek szkolenia składa wniosek o wpisanie do wykazu, o którym mowa w ust. 8 pkt 1, instruktorów prowadzących szkolenia w tym ośrodku szkolenia lub zmianę zakresu wykonywanych czynności, przepisy ust. 8 pkt 3 stosuje się.
@@ -1569,7 +1820,8 @@ Art. 67–69. (pominięte)
 - **1)** prowadzenie szkolenia w sposób niezgodny z programem szkolenia;
 - **2)** wydanie dokumentu potwierdzającego ukończenie szkolenia lub zdanie sprawdzianu wiedzy i umiejętności niezgodnie ze stanem faktycznym;
 - **3)** przeprowadzenie sprawdzianu wiedzy i umiejętności przez egzaminatora niewpisanego do rejestru egzaminatorów, o którym mowa w art. 22be ust. 1;
-- **4)** prowadzenie szkolenia przez osobę niewpisaną do wykazu, o którym mowa w ust. 8 pkt 1; pkt 3 – dotyczy osoby fizycznej, urzędującego członka organu zarządzającego lub organu nadzorczego, wspólnika spółki w spółce jawnej lub spółce partnerskiej, komplementariusza w spółce komandytowej lub spółce komandytowo-akcyjnej oraz prokurenta;
+- **4)** prowadzenie szkolenia przez osobę niewpisaną do wykazu, o którym mowa w ust. 8 pkt 1;
+- **5)** prawomocne skazanie przedsiębiorcy za przestępstwo, o którym mowa w ust. 5 pkt 3 – dotyczy osoby fizycznej, urzędującego członka organu zarządzającego lub organu nadzorczego, wspólnika spółki w spółce jawnej lub spółce partnerskiej, komplementariusza w spółce komandytowej lub spółce komandytowo-akcyjnej oraz prokurenta;
 - **6)** wprowadzenie do rejestru, o którym mowa w art. 25x ust. 1, danych potwierdzających ukończenie szkolenia lub zdanie sprawdzianu wiedzy i umiejętności, niezgodnych ze stanem faktycznym.
 
 10b. Prezes UTK wykreśla, w drodze decyzji, z listy, o której mowa w ust. 1 pkt 3, podmiot, który przestał spełniać wymagania, o których mowa w ust. 6, lub szczegółowe wymagania określone w przepisach wydanych na podstawie ust. 13.
@@ -1585,7 +1837,8 @@ Art. 67–69. (pominięte)
 - **7)** (uchylony)
 - **8)** sposób ustalania numeru identyfikacyjnego ośrodka szkolenia wpisywanego do rejestru, o którym mowa w ust. 1 pkt 2, zakres danych ujętych w rejestrze, a także sposób uiszczania opłat za wpis do tego rejestru;
 - **9)** szczegółowe wymagania w stosunku do przedsiębiorców ubiegających się o wpis do rejestru ośrodków szkolenia;
-- **10)** wymagania kwalifikacyjne dla instruktorów wykonujących czynności w ośrodku szkolenia, a także rodzaje dokumentów potwierdzających ich kwalifikacje i wykształcenie; w nim ujętych oraz okres ich przechowywania, wzór tego rejestru, a także tryb przekazywania danych ujętych w rejestrze podmiotom, o których mowa w ust. 1a;
+- **10)** wymagania kwalifikacyjne dla instruktorów wykonujących czynności w ośrodku szkolenia, a także rodzaje dokumentów potwierdzających ich kwalifikacje i wykształcenie;
+- **11)** warunki, sposób prowadzenia rejestru licencji maszynistów, zakres danych w nim ujętych oraz okres ich przechowywania, wzór tego rejestru, a także tryb przekazywania danych ujętych w rejestrze podmiotom, o których mowa w ust. 1a;
 - **12)** wzór:
     - **a)** wniosku o wydanie licencji maszynisty, przedłużenie ważności, wydanie wtórnika, przywrócenie tego dokumentu i aktualizację danych w nim zawartych,
     - **b)** dokumentu potwierdzającego ukończenie szkolenia w celu uzyskania licencji maszynisty,
@@ -1601,7 +1854,8 @@ Art. 67–69. (pominięte)
 - **6)** konieczność zapewnienia odpowiedniej liczby godzin szkolenia dla kandydatów na maszynistów ubiegających się o licencję maszynisty, zapewniającej uzyskanie znajomości faktów, zasad, procesów i pojęć ogólnych związanych z pracą na stanowisku maszynisty;
 - **7)** (uchylony)
 - **8)** zalecenia Komisji Europejskiej dotyczące procedury nadawania numerów identyfikacyjnych ośrodkom szkolenia;
-- **9)** przepisy Unii Europejskiej dotyczące wymagań, jakie powinny spełniać ośrodki szkolenia; egzaminów dla kandydatów na maszynistów ubiegających się o licencję maszynisty oraz określenia dodatkowych wymagań dotyczących znajomości języka polskiego, zasad ruchu kolejowego i sygnalizacji na sieci kolejowej Rzeczypospolitej Polskiej, dla instruktorów i egzaminatorów z innych państw członkowskich Unii Europejskiej, prowadzących szkolenia i egzaminy na sieci kolejowej Rzeczypospolitej Polskiej;
+- **9)** przepisy Unii Europejskiej dotyczące wymagań, jakie powinny spełniać ośrodki szkolenia;
+- **10)** konieczność zapewnienia odpowiedniego poziomu merytorycznego szkoleń oraz egzaminów dla kandydatów na maszynistów ubiegających się o licencję maszynisty oraz określenia dodatkowych wymagań dotyczących znajomości języka polskiego, zasad ruchu kolejowego i sygnalizacji na sieci kolejowej Rzeczypospolitej Polskiej, dla instruktorów i egzaminatorów z innych państw członkowskich Unii Europejskiej, prowadzących szkolenia i egzaminy na sieci kolejowej Rzeczypospolitej Polskiej;
 - **11)** przepisy Unii Europejskiej dotyczące rejestru licencji maszynistów;
 - **12)** potrzebę ujednolicenia wydawanych dokumentów i ich zabezpieczenie przed podrobieniem lub przerobieniem.
 
@@ -1613,7 +1867,7 @@ Art. 67–69. (pominięte)
 
 2. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia zajścia zdarzenia, które spowodowało zmianę tych danych.
 
-3. Prezes UTK wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru. Art. 22ab. 1. Prezes UTK jest obowiązany dokonać wpisu przedsiębiorcy do rejestru, o którym mowa w art. 22a ust. 1 pkt 2, w terminie 7 dni od dnia wpływu do prawem do wykonywania działalności, dla której rejestr jest prowadzony.
+3. Prezes UTK wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru. Art. 22ab. 1. Prezes UTK jest obowiązany dokonać wpisu przedsiębiorcy do rejestru, o którym mowa w art. 22a ust. 1 pkt 2, w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z oświadczeniem o spełnieniu warunków wymaganych prawem do wykonywania działalności, dla której rejestr jest prowadzony.
 
 2. Jeżeli Prezes UTK nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do tego organu upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy Prezes UTK wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis. Art. 22ac. 1. Prezes UTK wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem do rejestru, o którym mowa w art. 22a ust. 1 pkt 2, w przypadku gdy:
 
@@ -1631,7 +1885,8 @@ Art. 67–69. (pominięte)
 
 1a. Warunkami niezbędnymi do uzyskania świadectwa maszynisty są:
 
-- **1)** posiadanie licencji maszynisty; podstawie ust. 21 oraz zdanie egzaminu na świadectwo maszynisty – w przypadku kandydatów na maszynistów;
+- **1)** posiadanie licencji maszynisty;
+- **2)** odbycie szkolenia przeprowadzonego zgodnie z przepisami wydanymi na podstawie ust. 21 oraz zdanie egzaminu na świadectwo maszynisty – w przypadku kandydatów na maszynistów;
 - **3)** odbycie szkolenia i złożenie z wynikiem pozytywnym sprawdzianu wiedzy i umiejętności przeprowadzonych w trybie i w sposób określony w przepisach wydanych na podstawie ust. 21 pkt 4 – dotyczy maszynistów ubiegających się o uzyskanie kolejnego świadectwa maszynisty;
 - **4)** uzyskanie orzeczenia lekarskiego potwierdzającego spełnienie wymagań zdrowotnych, fizycznych i psychicznych, określonych w przepisach wydanych na podstawie ust. 22 pkt 1, po przeprowadzeniu badań lekarskich i psychologicznych.
 
@@ -1649,6 +1904,7 @@ Art. 67–69. (pominięte)
 
 - **1)** tryb wydawania świadectwa maszynisty, aktualizacji danych w nim zawartych, jego zawieszania i cofania;
 - **2)** tryb odwołania się od decyzji dotyczącej wydania świadectwa maszynisty, jego zawieszania i cofania.
+- **3)** (uchylony)
 
 6. Procedurę, o której mowa w ust. 4, przewoźnicy kolejowi i zarządcy infrastruktury kolejowej podają do publicznej wiadomości w sposób przyjęty u każdego z nich.
 
@@ -1670,7 +1926,9 @@ Art. 67–69. (pominięte)
 
 7c. Badania, o których mowa w ust. 1a pkt 4, ust. 7 i 7b, są wykonywane, z zastrzeżeniem ust. 7a oraz przepisów wydanych na podstawie ust. 22, w zakresie i na zasadach określonych w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807).
 
-7d. Przejście przez maszynistę badań, o których mowa w ust. 1a pkt 4, ust. 7 i 7b, uznaje się za równoznaczne ze spełnieniem obowiązków pracownika w zakresie wykonywania wstępnych, okresowych i kontrolnych badań lekarskich, o których mowa w art. 229 § 1 i 2 Kodeksu pracy. maszynisty osoby bez aktualnego orzeczenia lekarskiego potwierdzającego spełnienie wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania świadectwa maszynisty albo zachowania jego ważności, z wyjątkiem przypadku określonego w ust. 18 pkt 4 w odniesieniu do kandydatów na maszynistów.
+7d. Przejście przez maszynistę badań, o których mowa w ust. 1a pkt 4, ust. 7 i 7b, uznaje się za równoznaczne ze spełnieniem obowiązków pracownika w zakresie wykonywania wstępnych, okresowych i kontrolnych badań lekarskich, o których mowa w art. 229 § 1 i 2 Kodeksu pracy.
+
+7e. Przewoźnicy kolejowi i zarządcy nie mogą dopuścić do pracy na stanowisku maszynisty osoby bez aktualnego orzeczenia lekarskiego potwierdzającego spełnienie wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania świadectwa maszynisty albo zachowania jego ważności, z wyjątkiem przypadku określonego w ust. 18 pkt 4 w odniesieniu do kandydatów na maszynistów.
 
 7f. Przewoźnicy kolejowi oraz zarządcy są obowiązani do:
 
@@ -1692,7 +1950,9 @@ Art. 67–69. (pominięte)
 
 13. Przewoźnik kolejowy lub zarządca infrastruktury kolejowej cofa świadectwo maszynisty osobie, która przestała spełniać warunki, o których mowa w ust. 7.
 
-14. Przewoźnicy kolejowi i zarządcy prowadzą rejestry wydawanych przez siebie świadectw maszynistów za pomocą własnego systemu informatycznego albo za pomocą rejestru, o którym mowa w art. 25x ust. 1. w rejestrach, o których mowa w ust. 14, oraz informację o treści wydanych świadectw maszynisty:
+14. Przewoźnicy kolejowi i zarządcy prowadzą rejestry wydawanych przez siebie świadectw maszynistów za pomocą własnego systemu informatycznego albo za pomocą rejestru, o którym mowa w art. 25x ust. 1.
+
+14a. Przewoźnicy kolejowi i zarządcy udostępniają dane zgromadzone w rejestrach, o których mowa w ust. 14, oraz informację o treści wydanych świadectw maszynisty:
 
 - **1)** Prezesowi UTK;
 - **2)** Państwowej Komisji Badania Wypadków Kolejowych zgodnie z art. 28h ust. 2 pkt 4 oraz komisji kolejowej, o której mowa w art. 28m;
@@ -1711,7 +1971,7 @@ Art. 67–69. (pominięte)
 - **2)** jednorazowych przewozów kolejowych, za zgodą zarządcy,
 - **3)** dostawy lub prezentacji nowego pociągu lub pojazdu kolejowego,
 - **4)** szkolenia lub egzaminowania maszynistów oraz kandydatów na maszynistów,
-- **5)** wykonywania przewozów technologicznych – jeżeli maszynista albo kandydat na maszynistę ubiegający się o świadectwo maszynisty nie posiadają znajomości odcinków linii kolejowych, na których mają podczas jazdy obok nich znajduje się inny maszynista lub przedstawiciel zarządcy posiadający udokumentowaną znajomość tych odcinków.
+- **5)** wykonywania przewozów technologicznych – jeżeli maszynista albo kandydat na maszynistę ubiegający się o świadectwo maszynisty nie posiadają znajomości odcinków linii kolejowych, na których mają prowadzić pojazd kolejowy lub pociąg, mogą go prowadzić, pod warunkiem że podczas jazdy obok nich znajduje się inny maszynista lub przedstawiciel zarządcy posiadający udokumentowaną znajomość tych odcinków.
 
 19. W przypadkach, o których mowa w ust. 18, w razie braku możliwości zapewnienia obecności osób, o których mowa w tym przepisie, maszynista może prowadzić pojazd kolejowy lub pociąg po spełnieniu warunków określonych w przepisach wydanych na podstawie art. 17 ust. 7.
 
@@ -1726,7 +1986,7 @@ Art. 67–69. (pominięte)
 - **3)** (uchylony)
 - **4)** tryb oraz szczegółowe warunki i minimalną częstotliwość przeprowadzania szkoleń oraz sprawdzianów wiedzy i umiejętności,
 - **5)** zakres danych dotyczących infrastruktury kolejowej ujęty w świadectwie maszynisty,
-- **6)** szczegółowe warunki i sposób prowadzenia rejestru świadectw maszynistów, zakres danych w nim ujętych, a także okres ich przechowywania, wzór tego rejestru oraz tryb udostępniania danych ujętych w rejestrze podmiotom, o których mowa w ust. 14a – mając na uwadze zakres wiedzy i umiejętności niezbędny do zapewnienia właściwych kwalifikacji maszynistów, konieczność dostosowania programu szkolenia do wykształcenia i doświadczenia zawodowego kandydatów na maszynistów przy zapewnieniu niezbędnej liczby godzin stażu stanowiskowego, szkolenia teoretycznego zapewnienia ciągłości realizacji procesu doskonalenia zawodowego maszynistów i monitorowania posiadanych przez nich uprawnień oraz przepisy Unii Europejskiej dotyczące rejestru świadectw maszynistów.
+- **6)** szczegółowe warunki i sposób prowadzenia rejestru świadectw maszynistów, zakres danych w nim ujętych, a także okres ich przechowywania, wzór tego rejestru oraz tryb udostępniania danych ujętych w rejestrze podmiotom, o których mowa w ust. 14a – mając na uwadze zakres wiedzy i umiejętności niezbędny do zapewnienia właściwych kwalifikacji maszynistów, konieczność dostosowania programu szkolenia do wykształcenia i doświadczenia zawodowego kandydatów na maszynistów przy zapewnieniu niezbędnej liczby godzin stażu stanowiskowego, szkolenia teoretycznego i praktycznego oraz prowadzenia pojazdu kolejowego pod nadzorem, konieczność zapewnienia ciągłości realizacji procesu doskonalenia zawodowego maszynistów i monitorowania posiadanych przez nich uprawnień oraz przepisy Unii Europejskiej dotyczące rejestru świadectw maszynistów.
 
 22. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
 
@@ -1738,7 +1998,9 @@ Art. 67–69. (pominięte)
 
 3. Wraz z wnioskiem kandydat na maszynistę może złożyć wniosek o wydanie licencji maszynisty zawierający oświadczenie, o którym mowa w art. 22 ust. 2b.
 
-4. Prezes UTK zapewnia na stronie podmiotowej Urzędu Transportu Kolejowego dostęp do systemu teleinformatycznego wraz z możliwością dokonania opłaty za egzamin na licencję maszynisty z wykorzystaniem systemu płatności online. egzaminacyjnych dotyczących egzaminu na licencję maszynisty.
+4. Prezes UTK zapewnia na stronie podmiotowej Urzędu Transportu Kolejowego dostęp do systemu teleinformatycznego wraz z możliwością dokonania opłaty za egzamin na licencję maszynisty z wykorzystaniem systemu płatności online.
+
+5. Prezes UTK w systemie teleinformatycznym publikuje wykaz terminów sesji egzaminacyjnych dotyczących egzaminu na licencję maszynisty.
 
 6. Egzamin na licencję maszynisty przeprowadza egzaminator wyznaczony przez Prezesa UTK z rejestru egzaminatorów, o którym mowa w art. 22be ust. 1.
 
@@ -1764,7 +2026,7 @@ Art. 67–69. (pominięte)
 
 15. Prezes UTK rozpatruje odwołanie, o którym mowa w ust. 12, w terminie 30 dni od dnia jego otrzymania.
 
-16. W przypadku stwierdzenia zasadności odwołania, o którym mowa w ust. 12, Prezes UTK przeprowadza ponowny egzamin na licencję maszynisty, za który nie pobiera się opłaty. Do ponownego egzaminu na licencję maszynisty stosuje się przepisy ust. 6–11. zatrudniającego kandydata na maszynistę, przeprowadza egzamin na świadectwo maszynisty.
+16. W przypadku stwierdzenia zasadności odwołania, o którym mowa w ust. 12, Prezes UTK przeprowadza ponowny egzamin na licencję maszynisty, za który nie pobiera się opłaty. Do ponownego egzaminu na licencję maszynisty stosuje się przepisy ust. 6–11. Art. 22bb. 1. Prezes UTK, na wniosek przewoźnika kolejowego lub zarządcy zatrudniającego kandydata na maszynistę, przeprowadza egzamin na świadectwo maszynisty.
 
 2. Wniosek składa się w postaci elektronicznej za pośrednictwem systemu teleinformatycznego obsługującego rejestr, o którym mowa w art. 25x ust. 1, i podpisuje przy użyciu kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego przez osobę upoważnioną przez wnioskodawcę.
 
@@ -1789,7 +2051,7 @@ Art. 67–69. (pominięte)
 
 9. Część praktyczna egzaminu na świadectwo maszynisty polega na prowadzeniu pojazdu kolejowego po infrastrukturze kolejowej pod nadzorem egzaminatorów, o których mowa w ust. 10.
 
-10. Część praktyczną egzaminu na świadectwo maszynisty przeprowadza egzaminator oddelegowany przez ośrodek szkolenia, w którym kandydat na oraz egzaminator zatrudniony i wyznaczony przez Prezesa UTK.
+10. Część praktyczną egzaminu na świadectwo maszynisty przeprowadza egzaminator oddelegowany przez ośrodek szkolenia, w którym kandydat na maszynistę ubiegający się o uzyskanie świadectwa maszynisty odbywał szkolenie, oraz egzaminator zatrudniony i wyznaczony przez Prezesa UTK.
 
 11. Egzaminator oddelegowany przez ośrodek szkolenia, o którym mowa w ust. 10, posiada świadectwo maszynisty uprawniające do prowadzenia typu pojazdu kolejowego oraz do jazdy po infrastrukturze kolejowej, których dotyczy egzamin, albo – w przypadku kiedy nie spełnia tego warunku – ważne świadectwo maszynisty w zakresie odpowiedniej infrastruktury lub typu pojazdu kolejowego.
 
@@ -1808,7 +2070,8 @@ Art. 67–69. (pominięte)
 
 2. Minister właściwy do spraw transportu wyda rozporządzenie, o którym mowa w ust. 1, mając na uwadze:
 
-- **1)** zakres wiedzy i umiejętności niezbędny do bezpiecznego prowadzenia pojazdów kolejowych; maszynisty oraz ponownych egzaminów na licencję maszynisty;
+- **1)** zakres wiedzy i umiejętności niezbędny do bezpiecznego prowadzenia pojazdów kolejowych;
+- **2)** konieczność zagwarantowania właściwej organizacji egzaminów na licencję maszynisty oraz ponownych egzaminów na licencję maszynisty;
 - **3)** konieczność zapewnienia odpowiedniego poziomu merytorycznego egzaminów na świadectwo maszynisty;
 - **4)** konieczność zagwarantowania właściwej organizacji i odpowiedniego poziomu merytorycznego przeprowadzenia teoretycznej i praktycznej części egzaminu na świadectwo maszynisty oraz ponownego egzaminu na świadectwo maszynisty. Art. 22bd. 1. Egzaminatorem może być osoba, która:
 - **1)** posiada co najmniej 4-letnie doświadczenie zawodowe w zakresie związanym z prowadzeniem i bezpieczeństwem ruchu kolejowego, nabyte w okresie 5 lat poprzedzających datę złożenia wniosku o wpis do rejestru egzaminatorów, o którym mowa w art. 22be ust. 1;
@@ -1820,7 +2083,7 @@ Art. 67–69. (pominięte)
 - **7)** daje rękojmię wykonywania czynności egzaminatora w sposób bezstronny i niezależny;
 - **8)** jest wpisana do rejestru egzaminatorów, o którym mowa w art. 22be ust. 1.
 
-2. Egzaminatorzy są obowiązani do ustawicznego doskonalenia i aktualizowania kompetencji zawodowych przez udział w co najmniej jednym, w ciągu 3 lat, szkoleniu maszynistów organizowanym przez Prezesa UTK.
+2. Egzaminatorzy są obowiązani do ustawicznego doskonalenia i aktualizowania kompetencji zawodowych przez udział w co najmniej jednym, w ciągu 3 lat, szkoleniu doskonalącym w zakresie wiedzy i metodyki egzaminowania kandydatów na maszynistów organizowanym przez Prezesa UTK.
 
 3. Prezes UTK organizuje szkolenia, o których mowa w ust. 2, nie rzadziej niż raz na trzy lata. Art. 22be. 1. Prezes UTK prowadzi w systemie teleinformatycznym rejestr egzaminatorów w celu realizacji zadania, o którym mowa w art. 13 ust. 1a pkt 7b. Rejestr egzaminatorów jest udostępniany w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Transportu Kolejowego z wyłączeniem danych, o których mowa w ust. 2 pkt 2–7.
 
@@ -1840,7 +2103,10 @@ Art. 67–69. (pominięte)
 
 - **1)** kopie dokumentów potwierdzających spełnienie wymagań, o których mowa w art. 22bd ust. 1 pkt 1–5;
 - **2)** oświadczenie o niebyciu skazanym prawomocnym wyrokiem za popełnienie przestępstwa, o którym mowa w art. 22bd ust. 1 pkt 6, złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń; składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;
-- **3)** deklarację, o której mowa w art. 22a ust. 5 pkt 5a lit. b. w art. 22bd ust. 1 pkt 4, są:
+- **3)** deklarację, o której mowa w art. 22a ust. 5 pkt 5a lit. b.
+
+4. Dokumentami potwierdzającymi znajomość języka polskiego, o której mowa w art. 22bd ust. 1 pkt 4, są:
+
 - **1)** certyfikat znajomości języka polskiego poświadczający zdany egzamin z języka polskiego na poziomie średnim ogólnym lub zaawansowanym, wydany przez Państwową Komisję Poświadczania Znajomości Języka Polskiego jako Obcego;
 - **2)** certyfikat potwierdzający znajomość języka polskiego co najmniej na poziomie B2 w skali globalnej biegłości językowej według Europejskiego Systemu Opisu Kształcenia Językowego Rady Europy;
 - **3)** świadectwo lub inny dokument równorzędny uzyskany w polskim systemie oświaty po ukończeniu kształcenia w języku polskim lub dyplom ukończenia studiów wyższych prowadzonych w języku polskim.
@@ -1859,7 +2125,9 @@ Art. 67–69. (pominięte)
 
 6. Osoba ubiegająca się o wpis do rejestru egzaminatorów jest zwolniona z obowiązku dołączania kopii dokumentów potwierdzających spełnienie wymagań, o których mowa w art. 22bd ust. 1 pkt 1–3 i 6, jeżeli ich spełnienie zostało uprzednio sprawdzone przez właściwy organ innego państwa członkowskiego Unii Europejskiej, a nie odnoszą się one do prowadzenia egzaminów na licencję maszynisty lub egzaminów na świadectwo maszynisty wyłącznie na sieci kolejowej Rzeczypospolitej Polskiej.
 
-7. Egzaminator przekazuje Prezesowi UTK informacje o zmianie danych, o których mowa w ust. 2 pkt 1 i 3–6, w terminie 14 dni od dnia ich wystąpienia. zawierający dane, o których mowa w ust. 2.
+7. Egzaminator przekazuje Prezesowi UTK informacje o zmianie danych, o których mowa w ust. 2 pkt 1 i 3–6, w terminie 14 dni od dnia ich wystąpienia.
+
+8. Prezes UTK wydaje egzaminatorowi certyfikat uznania egzaminatora zawierający dane, o których mowa w ust. 2.
 
 9. Dane gromadzone w rejestrze egzaminatorów oraz kopie dokumentów potwierdzających spełnienie wymagań przechowuje się przez okres do 5 lat od dnia wykreślenia z rejestru.
 
@@ -1876,7 +2144,9 @@ Art. 67–69. (pominięte)
 
 3. Oświadczenie, o którym mowa w ust. 1 pkt 1, powinno zawierać informację dotyczącą przeciętnej tygodniowej liczby godzin prowadzenia pojazdu kolejowego lub pociągu u innego przewoźnika kolejowego, zarządcy, użytkownika bocznicy kolejowej lub przedsiębiorcy wykonującego przewozy w obrębie bocznicy kolejowej.
 
-4. Jeżeli zostało złożone oświadczenie, o którym mowa w ust. 1 pkt 1, przewoźnik kolejowy lub zarządca, przekazuje je Prezesowi UTK, nie później niż w terminie 14 dni od dnia jego otrzymania. kolejowe, który świadczy pracę lub usługi na rzecz użytkownika bocznicy kolejowej lub przedsiębiorcy wykonującego przewozy w obrębie bocznicy kolejowej.
+4. Jeżeli zostało złożone oświadczenie, o którym mowa w ust. 1 pkt 1, przewoźnik kolejowy lub zarządca, przekazuje je Prezesowi UTK, nie później niż w terminie 14 dni od dnia jego otrzymania.
+
+5. Przepisy ust. 1–4 stosuje się odpowiednio do prowadzącego pojazdy kolejowe, który świadczy pracę lub usługi na rzecz użytkownika bocznicy kolejowej lub przedsiębiorcy wykonującego przewozy w obrębie bocznicy kolejowej.
 
 **Art. 22d.**
 
@@ -1892,7 +2162,9 @@ Art. 67–69. (pominięte)
 3. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
 - **1)** dla stanowisk, o których mowa w ust. 1, warunki, jakie są obowiązani spełniać zatrudnieni na tych stanowiskach, a także warunki i sposób oceny ich zdolności fizycznych i psychicznych, jednostki uprawnione do oceny zdolności fizycznej i psychicznej oraz tryb orzekania o tej zdolności,
-- **2)** sposób powoływania i tryb pracy komisji egzaminacyjnych stwierdzających kwalifikacje pracowników zatrudnionych na stanowiskach, o których mowa w ust. 1, wzory dokumentów potwierdzających te kwalifikacje i upoważniających do wykonywania czynności na tych stanowiskach, wysokość wynagrodzenia członków komisji egzaminacyjnych oraz wysokość opłat związanych ze stwierdzeniem kwalifikacji pracowników, uwzględniając przepis ust. 4, a także sposób uiszczania tych opłat – mając na uwadze zapewnienie bezpieczeństwa w transporcie kolejowym, właściwych kwalifikacji osób zatrudnionych na tych stanowiskach, odpowiednich warunków przeprowadzania oceny zdolności fizycznej i psychicznej, nakład pracy członków komisji egzaminacyjnej oraz ich kwalifikacje, a także koszty rzeczowe i osobowe związane ze stwierdzaniem kwalifikacji pracowników. zatrudnionych na stanowiskach, o których mowa w ust. 1, nie może przekroczyć równowartości w złotych 30 euro, ustalonej przy zastosowaniu kursu średniego, ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu wydania dokumentu potwierdzającego kwalifikacje pracownika.
+- **2)** sposób powoływania i tryb pracy komisji egzaminacyjnych stwierdzających kwalifikacje pracowników zatrudnionych na stanowiskach, o których mowa w ust. 1, wzory dokumentów potwierdzających te kwalifikacje i upoważniających do wykonywania czynności na tych stanowiskach, wysokość wynagrodzenia członków komisji egzaminacyjnych oraz wysokość opłat związanych ze stwierdzeniem kwalifikacji pracowników, uwzględniając przepis ust. 4, a także sposób uiszczania tych opłat – mając na uwadze zapewnienie bezpieczeństwa w transporcie kolejowym, właściwych kwalifikacji osób zatrudnionych na tych stanowiskach, odpowiednich warunków przeprowadzania oceny zdolności fizycznej i psychicznej, nakład pracy członków komisji egzaminacyjnej oraz ich kwalifikacje, a także koszty rzeczowe i osobowe związane ze stwierdzaniem kwalifikacji pracowników.
+
+4. Wysokość opłaty związanej ze stwierdzeniem kwalifikacji pracowników zatrudnionych na stanowiskach, o których mowa w ust. 1, nie może przekroczyć równowartości w złotych 30 euro, ustalonej przy zastosowaniu kursu średniego, ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu wydania dokumentu potwierdzającego kwalifikacje pracownika.
 
 **Art. 22e.**
 
@@ -1912,7 +2184,9 @@ Art. 67–69. (pominięte)
 
 2. Jeżeli określony typ urządzeń albo budowli jest produkowany przez więcej niż jednego producenta, wymagane jest uzyskanie świadectwa dopuszczenia do eksploatacji typu dla pierwszego egzemplarza produkowanego przez każdego z tych producentów.
 
-3. Świadectwo dopuszczenia do eksploatacji typu wydaje się na czas nieokreślony, a w przypadku nowych typów lub konieczności wykonania prób eksploatacyjnych, na czas określony – przewidziany na przeprowadzenie tych prób. świadectwa dopuszczenia do eksploatacji typu jest Prezes UTK.
+3. Świadectwo dopuszczenia do eksploatacji typu wydaje się na czas nieokreślony, a w przypadku nowych typów lub konieczności wykonania prób eksploatacyjnych, na czas określony – przewidziany na przeprowadzenie tych prób.
+
+4. Organem właściwym w sprawach wydania, odmowy wydania i cofania świadectwa dopuszczenia do eksploatacji typu jest Prezes UTK.
 
 5. Przed uzyskaniem świadectwa dopuszczenia do eksploatacji typu, typy urządzeń i typy budowli podlegają badaniom technicznym.
 
@@ -1934,6 +2208,7 @@ Art. 67–69. (pominięte)
 
 11. W odniesieniu do sieci kolejowych warunki, o których mowa w ust. 1 i 8, dotyczą typów urządzeń i typów budowli przeznaczonych do eksploatacji:
 
+- **1)** na infrastrukturze prywatnej;
 - **2)** w zakresie, o którym mowa w art. 3 ust. 8 i ust. 9 pkt 1;
 - **3)** w przypadkach, o których mowa w art. 25d ust. 1 pkt 1 i 3–7;
 - **4)** w przypadku przyznania przez Prezesa UTK odstępstwa, o którym mowa w art. 25f ust. 1.
@@ -1961,6 +2236,7 @@ Art. 67–69. (pominięte)
 - **7)** wzór:
     - **a)** świadectwa dopuszczenia do eksploatacji typu,
     - **b)** certyfikatu zgodności typu,
+    - **c)** certyfikatu zgodności z typem,
     - **d)** deklaracji zgodności z typem.
 
 15. Wydając rozporządzenie, o którym mowa w ust. 14, uwzględnia się:
@@ -1980,7 +2256,8 @@ Art. 67–69. (pominięte)
 
 - **1)** zapewnia przeprowadzanie badań technicznych przez osoby posiadające wiedzę techniczną w zakresie odpowiednio rodzajów budowli, urządzeń albo pojazdów kolejowych podlegających badaniom technicznym i certyfikacji;
 - **2)** jest niezależna i bezstronna w stosunku do podmiotów bezpośrednio lub pośrednio związanych z procesem produkcji odpowiednio typów budowli, urządzeń albo pojazdów kolejowych podlegających badaniom technicznym i certyfikacji;
-- **3)** zapewnia przeprowadzanie badań technicznych przy użyciu niezbędnego sprzętu; o systemach oceny zgodności i nadzoru rynku w zakresie odpowiadającym prowadzonej działalności.
+- **3)** zapewnia przeprowadzanie badań technicznych przy użyciu niezbędnego sprzętu;
+- **4)** uzyskała certyfikat akredytacji na podstawie ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku w zakresie odpowiadającym prowadzonej działalności.
 
 3. Prezes UTK, w drodze decyzji, udziela zgody na wykonywanie przez jednostkę organizacyjną działalności, o której mowa w ust. 1, jeżeli jednostka ta spełnia wymagania określone w ust. 2. Decyzja wskazuje rodzaje urządzeń, budowli lub pojazdów kolejowych, które jednostka organizacyjna może badać i certyfikować.
 
@@ -1995,7 +2272,8 @@ Art. 67–69. (pominięte)
 8. Prezes UTK, w drodze decyzji, cofa uprawnienie do wykonywania przez jednostkę organizacyjną działalności, o której mowa w ust. 1, w przypadku:
 
 - **1)** bezskutecznego upływu terminu na usunięcie naruszeń stanowiących podstawę zawieszenia uprawnień tej jednostki;
-- **2)** stwierdzenia wydawania certyfikatów zgodności typu lub certyfikatów zgodności z typem bez uprzedniego przeprowadzenia wszystkich badań technicznych wskazanych w przepisach wydanych na podstawie art. 22f ust. 14 pkt 3; upadłościowego obejmującego likwidację majątku upadłego;
+- **2)** stwierdzenia wydawania certyfikatów zgodności typu lub certyfikatów zgodności z typem bez uprzedniego przeprowadzenia wszystkich badań technicznych wskazanych w przepisach wydanych na podstawie art. 22f ust. 14 pkt 3;
+- **3)** ukończenia wobec jednostki organizacyjnej postępowania likwidacyjnego albo upadłościowego obejmującego likwidację majątku upadłego;
 - **4)** złożenia przez jednostkę organizacyjną pisemnej informacji o zaprzestaniu wykonywania tej działalności.
 
 9. Prezes UTK zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Transportu Kolejowego wykaz jednostek organizacyjnych uprawnionych do wykonywania badań technicznych koniecznych do uzyskania świadectw dopuszczenia do eksploatacji typu, stwierdzania zgodności z typem oraz wydawania certyfikatów zgodności typu i certyfikatów zgodności z typem wraz ze wskazaniem zakresu ich uprawnień.
@@ -2016,7 +2294,9 @@ Art. 67–69. (pominięte)
 
 3. Przewoźnik kolejowy lub zarządca może realizować przejazdy jedynie pojazdami kolejowymi, które są oznaczone europejskim numerem pojazdu (EVN). Za zgodą Prezesa UTK przewoźnik kolejowy lub zarządca może realizować przejazdy pojazdami kolejowymi eksploatowanymi na terytorium Rzeczypospolitej Polskiej oznakowanymi odrębnym od EVN systemem numeracji.
 
-4. W przypadku pojazdu kolejowego eksploatowanego lub pojazdu kolejowego, który ma być eksploatowany na trasach kolejowych z państwami, w których szerokość toru różni się od szerokości toru na głównej sieci kolejowej na terytorium Rzeczypospolitej Polskiej, przewoźnik kolejowy albo zarządca może realizować przejazdy pojazdem kolejowym eksploatowanym na terytorium Rzeczypospolitej Polskiej oznakowanym odrębnym od EVN systemem numeracji. państwa członkowskie Unii Europejskiej po sieci kolejowej, której szerokość toru różni się od szerokości toru głównej sieci kolejowej na terytorium państw członkowskich Unii Europejskiej, zastosowanie mają właściwe krajowe specyfikacje techniczne i dokumenty normalizacyjne, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei, chyba że dwustronne umowy międzynarodowe, których Rzeczpospolita Polska jest stroną, stanowią inaczej.
+4. W przypadku pojazdu kolejowego eksploatowanego lub pojazdu kolejowego, który ma być eksploatowany na trasach kolejowych z państwami, w których szerokość toru różni się od szerokości toru na głównej sieci kolejowej na terytorium Rzeczypospolitej Polskiej, przewoźnik kolejowy albo zarządca może realizować przejazdy pojazdem kolejowym eksploatowanym na terytorium Rzeczypospolitej Polskiej oznakowanym odrębnym od EVN systemem numeracji.
+
+5. W przypadku pojazdu kolejowego przemieszczającego się z państw innych niż państwa członkowskie Unii Europejskiej po sieci kolejowej, której szerokość toru różni się od szerokości toru głównej sieci kolejowej na terytorium państw członkowskich Unii Europejskiej, zastosowanie mają właściwe krajowe specyfikacje techniczne i dokumenty normalizacyjne, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei, chyba że dwustronne umowy międzynarodowe, których Rzeczpospolita Polska jest stroną, stanowią inaczej.
 
 6. (uchylony)
 
@@ -2040,7 +2320,8 @@ Art. 67–69. (pominięte)
 - **2)** wykonując czynności, o których mowa w pkt 1, 1a i 4, sporządza raport, który przekazuje wnioskodawcy;
 - **3)** w drodze decyzji zawiesza rejestrację pojazdu kolejowego w przypadkach:
     - **a)** utraty ważności zezwolenia na wprowadzenie pojazdu kolejowego do obrotu,
-    - **b)** gdy nowy dysponent nie posiada identyfikatora literowego dysponenta (VKM), nowy dysponent nie zaakceptował statusu dysponenta,
+    - **b)** gdy nowy dysponent nie posiada identyfikatora literowego dysponenta (VKM),
+    - **c)** gdy na dzień wyrejestrowania aktualnie zarejestrowanego dysponenta żaden nowy dysponent nie zaakceptował statusu dysponenta,
     - **d)** gdy na dzień wyrejestrowania aktualnie zarejestrowanego podmiotu odpowiedzialnego za utrzymanie pojazdu kolejowego (ECM) żaden nowy podmiot nie potwierdził przyjęcia tej funkcji;
 
 - **4)** w przypadku ustania przyczyn, o których mowa w pkt 3, na wniosek dysponenta rejestruje pojazd kolejowy w europejskim rejestrze pojazdów kolejowych (EVR).
@@ -2065,7 +2346,9 @@ Art. 67–69. (pominięte)
 - **1)** Agencję – w przypadku gdy obszar użytkowania pojazdu kolejowego obejmuje jedno lub kilka państw członkowskich Unii Europejskiej;
 - **2)** Agencję albo Prezesa UTK – w przypadku gdy obszar użytkowania pojazdu kolejowego obejmuje wyłącznie terytorium Rzeczypospolitej Polskiej.
 
-2. Zezwolenie na wprowadzenie pojazdu kolejowego do obrotu wydaje się na wniosek zarządcy, przewoźnika kolejowego, dysponenta, producenta albo jego upoważnionego przedstawiciela, wykonawcy modernizacji albo importera. rozporządzenia wykonawczego Komisji (UE) 2018/545 z dnia 4 kwietnia 2018 r. ustanawiającego uzgodnienia praktyczne na potrzeby procesu udzielania zezwoleń dla pojazdów kolejowych i zezwoleń dla typu pojazdu kolejowego zgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE) 2016/797 (Dz. Urz. UE L 90 z 06.04.2018, str. 66, z późn. zm. ), zwanego dalej „rozporządzeniem wykonawczym Komisji (UE) 2018/545”.
+2. Zezwolenie na wprowadzenie pojazdu kolejowego do obrotu wydaje się na wniosek zarządcy, przewoźnika kolejowego, dysponenta, producenta albo jego upoważnionego przedstawiciela, wykonawcy modernizacji albo importera.
+
+3. Sposób złożenia wniosku, o którym mowa w ust. 2, określa art. 31 rozporządzenia wykonawczego Komisji (UE) 2018/545 z dnia 4 kwietnia 2018 r. ustanawiającego uzgodnienia praktyczne na potrzeby procesu udzielania zezwoleń dla pojazdów kolejowych i zezwoleń dla typu pojazdu kolejowego zgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE) 2016/797 (Dz. Urz. UE L 90 z 06.04.2018, str. 66, z późn. zm. ), zwanego dalej „rozporządzeniem wykonawczym Komisji (UE) 2018/545”.
 
 4. Sposób przetwarzania wniosku, o którym mowa w ust. 2, oraz podejmowane działania określa rozdział 6 rozporządzenia wykonawczego Komisji (UE) 2018/545.
 
@@ -2075,7 +2358,7 @@ Art. 67–69. (pominięte)
 
 7. Jeżeli potwierdzenie spełnienia przesłanek, o których mowa w dokumentacji danego postępowania, wymaga przeprowadzenia testów na sieci kolejowej, na której pojazd kolejowy ma być użytkowany, wnioskodawca, o którym mowa w ust. 2, może zwrócić się do Prezesa UTK z wnioskiem o wydanie tymczasowego zezwolenia na użytkowanie pojazdu kolejowego do celów testów na sieci kolejowej, na której pojazd kolejowy ma być użytkowany, oraz, w terminie 7 dni od dnia złożenia wniosku, informuje zarządcę o jego złożeniu. Prezes UTK, w drodze decyzji, wydaje zezwolenie albo odmawia jego wydania w terminie miesiąca od dnia złożenia wniosku oraz jednocześnie pisemnie informuje zarządcę o wydanej decyzji. W zezwoleniu Prezes UTK może określić warunki przeprowadzania testów na sieci kolejowej, na której pojazd kolejowy ma być użytkowany.
 
-8. Zarządca umożliwia przeprowadzenie testów, o których mowa w ust. 7, nie później niż w terminie 3 miesięcy od dnia złożenia przez wnioskodawcę, o którym mowa w ust. 2, do Prezesa UTK wniosku o wydanie tymczasowego zezwolenia na kolejowy ma być użytkowany.
+8. Zarządca umożliwia przeprowadzenie testów, o których mowa w ust. 7, nie później niż w terminie 3 miesięcy od dnia złożenia przez wnioskodawcę, o którym mowa w ust. 2, do Prezesa UTK wniosku o wydanie tymczasowego zezwolenia na użytkowanie pojazdu kolejowego do celów testów na sieci kolejowej, na której pojazd kolejowy ma być użytkowany.
 
 9. Niezależnie od przeprowadzenia testów w przypadku, o którym mowa w ust. 7, jeżeli w ramach oceny wniosku o wydanie zezwolenia na wprowadzenie pojazdu kolejowego do obrotu wystąpi uzasadniona wątpliwość, Agencja albo, w przypadku, o którym mowa w ust. 1 pkt 2, Prezes UTK może zażądać przeprowadzenia testów na sieci kolejowej, na której pojazd kolejowy ma być użytkowany. Wnioskodawca, o którym mowa w ust. 2, może zwrócić się do Prezesa UTK z wnioskiem o wydanie tymczasowego zezwolenia na użytkowanie pojazdu kolejowego do celów testów na sieci kolejowej, na której pojazd kolejowy ma być użytkowany, oraz, w terminie 7 dni od dnia złożenia wniosku, informuje zarządcę o jego złożeniu. Prezes UTK, w drodze decyzji, wydaje zezwolenie albo odmawia jego wydania w terminie miesiąca od dnia złożenia wniosku oraz jednocześnie pisemnie informuje zarządcę o wydanej decyzji. W zezwoleniu Prezes UTK może określić warunki przeprowadzania testów na sieci kolejowej, na której pojazd kolejowy ma być użytkowany. Zarządca umożliwia przeprowadzenie takich testów nie później niż w terminie 3 miesięcy od dnia, w którym Agencja albo, w przypadku, o którym mowa w ust. 1 pkt 2, Prezes UTK zażądał ich przeprowadzenia.
 
@@ -2090,7 +2373,7 @@ Art. 67–69. (pominięte)
 
 12. W przypadku zawarcia przez Prezesa UTK porozumienia z krajowymi organami do spraw bezpieczeństwa sąsiednich państw członkowskich Unii Europejskiej lub w przypadku zawarcia stosownych umów międzynarodowych w sprawie ruchu transgranicznego, zezwolenie na wprowadzenie pojazdu kolejowego do obrotu może obejmować stacje przygraniczne sąsiednich państw członkowskich Unii Europejskiej bez konieczności rozszerzania obszaru użytkowania pojazdu kolejowego.
 
-13. Wnioskodawca, o którym mowa w ust. 2, może w terminie miesiąca od dnia doręczenia decyzji odmawiającej wydania zezwolenia na wprowadzenie pojazdu rozpatrzenie sprawy.
+13. Wnioskodawca, o którym mowa w ust. 2, może w terminie miesiąca od dnia doręczenia decyzji odmawiającej wydania zezwolenia na wprowadzenie pojazdu kolejowego do obrotu wystąpić do organu, który ją wydał, z wnioskiem o ponowne rozpatrzenie sprawy.
 
 14. Wniosek o ponowne rozpatrzenie sprawy rozpatruje się w terminie 2 miesięcy od dnia jego otrzymania.
 
@@ -2106,7 +2389,7 @@ Art. 67–69. (pominięte)
 
 3. W przypadku, o którym mowa w ust. 2, zezwolenie na wprowadzenie pojazdu kolejowego do obrotu stanowi jednocześnie zezwolenie dla typu pojazdu.
 
-4. Wprowadzenie do obrotu kolejnych pojazdów kolejowych zgodnych z dopuszczonym typem pojazdu następuje na podstawie deklaracji zgodności z w art. 23b ust. 2.
+4. Wprowadzenie do obrotu kolejnych pojazdów kolejowych zgodnych z dopuszczonym typem pojazdu następuje na podstawie deklaracji zgodności z dopuszczonym typem pojazdu wystawionej przez wnioskodawcę, o którym mowa w art. 23b ust. 2.
 
 5. Deklaracja zgodności z typem jest wystawiana zgodnie z:
 
@@ -2121,9 +2404,11 @@ Art. 67–69. (pominięte)
 
 **Art. 23e.** Wykaz dokumentów, które należy załączyć do wniosku, o którym mowa w art. 23b ust. 2, określa pkt 18 załącznika I do rozporządzenia wykonawczego Komisji (UE) 2018/545.
 
-**Art. 23f.** (uchylony) Art. 23fa. 1. W przypadku gdy przewoźnik kolejowy uzyska wiedzę, że użytkowany przez niego pojazd kolejowy nie spełnia jednego z mających zastosowanie zasadniczych wymagań systemu kolei, przyjmuje niezbędne środki naprawcze w celu zapewnienia zgodności pojazdu z zasadniczymi wymaganiami systemu kolei. Przewoźnik kolejowy informuje o przyjętych środkach naprawczych Agencję i Prezesa UTK nie później niż w terminie 30 dni od dnia ich przyjęcia. 2. Jeżeli przewoźnik kolejowy uzyska dowody potwierdzające, że niezgodność z zasadniczymi wymaganiami systemu kolei istniała w momencie wydawania zezwolenia na wprowadzenie pojazdu kolejowego do obrotu, przekazuje je Agencji przyjmuje niezbędne środki naprawcze w celu zapewnienia zgodności pojazdu kolejowego z zasadniczymi wymaganiami systemu kolei. 3. Jeżeli Prezes UTK w wyniku prowadzonych działań nadzorczych lub z innych źródeł uzyska wiedzę, że pojazd kolejowy lub typ pojazdu, posiadający zezwolenie na wprowadzenie pojazdu kolejowego do obrotu lub zezwolenie dla typu pojazdu, mimo użytkowania go zgodnie z przeznaczeniem, nie spełnia jednego z mających zastosowanie zasadniczych wymagań systemu kolei, niezwłocznie wzywa przewoźnika kolejowego eksploatującego taki pojazd lub typ pojazdu do przyjęcia niezbędnych środków naprawczych w celu zapewnienia zgodności z zasadniczymi wymaganiami systemu kolei. 4. O każdym przypadku, o którym mowa w ust. 3, Prezes UTK niezwłocznie informuje Agencję i inne krajowe organy do spraw bezpieczeństwa pozostałych państw członkowskich Unii Europejskiej. 5. Jeżeli w przypadkach określonych w ust. 1 i 3 środki naprawcze zastosowane przez przewoźnika kolejowego nie zapewniają zgodności z zasadniczymi wymaganiami systemu kolei i gdy ta niezgodność prowadzi do zagrożenia bezpieczeństwa ruchu kolejowego, Prezes UTK wprowadza tymczasowe środki bezpieczeństwa, o których mowa w art. 14 ust. 2a. Równolegle Prezes UTK albo Agencja może zawiesić zezwolenie dla typu pojazdu. 6. W przypadkach, o których mowa w ust. 1 i 3, Agencja albo, w stosownych przypadkach, Prezes UTK w następstwie przeglądu skuteczności środków naprawczych może, w drodze decyzji, unieważnić albo zmienić wydane zezwolenie na wprowadzenie pojazdu kolejowego do obrotu lub zezwolenie dla typu pojazdu, w szczególności jeżeli zostanie udowodnione, że w momencie udzielania zezwolenia nie zostało spełnione jedno z zasadniczych wymagań systemu kolei i niespełnienie tego wymagania prowadziło do zagrożenia bezpieczeństwa ruchu kolejowego. 7. Jeżeli w przypadkach, o których mowa w ust. 1 i 3, niezgodność z zasadniczymi wymaganiami systemu kolei ogranicza się do części obszaru użytkowania pojazdu kolejowego lub typu pojazdu oraz niezgodność ta zachodziła w momencie wydawania zezwolenia na wprowadzenie pojazdu kolejowego do obrotu lub zezwolenia dla typu pojazdu, Agencja albo, w stosownych przypadkach, Prezes UTK zmienia, w drodze decyzji, wydane zezwolenie w celu wyłączenia części obszaru użytkowania, w której zachodzi niezgodność z zasadniczymi wymaganiami systemu kolei. obrotu lub zezwolenie dla typu pojazdu może w terminie miesiąca od dnia otrzymania decyzji Agencji albo Prezesa UTK wystąpić z wnioskiem o ponowne rozpatrzenie sprawy. Wystąpienie z wnioskiem o ponowne rozpatrzenie sprawy wstrzymuje wykonanie decyzji. Agencja albo, w stosownych przypadkach, Prezes UTK rozpatruje wniosek w terminie miesiąca od dnia jego otrzymania. 9. Jeżeli w wyniku ponownego rozpatrzenia sprawy Agencja podtrzyma dotychczasową decyzję, podmiot posiadający zezwolenie na wprowadzenie pojazdu kolejowego do obrotu lub zezwolenie dla typu pojazdu może w terminie, o którym mowa w art. 59 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004, wnieść odwołanie do Rady Odwoławczej, o której mowa w art. 55 tego rozporządzenia. 10. Jeżeli w wyniku ponownego rozpatrzenia sprawy Prezes UTK podtrzyma dotychczasową decyzję, podmiot posiadający zezwolenie na wprowadzenie pojazdu kolejowego do obrotu lub zezwolenie dla typu pojazdu może w terminie 2 miesięcy od dnia doręczenia decyzji wnieść skargę do sądu administracyjnego. 11. Prezes UTK przesyła Agencji kopię decyzji, o której mowa w ust. 6, nie później niż w terminie 14 dni od dnia jej wydania. 12. Informacja o wydaniu decyzji, o której mowa w ust. 6, jest zamieszczana odpowiednio w europejskim rejestrze pojazdów kolejowych (EVR) albo europejskim rejestrze typów pojazdów dopuszczonych do eksploatacji. 13. W przypadku podjęcia przez Agencję albo, w stosownych przypadkach, Prezesa UTK decyzji, o której mowa w ust. 6, przewoźnicy kolejowi, którzy użytkują typ pojazdu objęty decyzją, przyjmują niezbędne środki naprawcze w celu zapewnienia zgodności pojazdu z zasadniczymi wymaganiami systemu kolei. Przewoźnik kolejowy informuje o przyjętych środkach naprawczych Agencję i Prezesa UTK nie później niż w terminie 30 dni od dnia ich przyjęcia. 14. W przypadku podjęcia przez Agencję albo, w stosownych przypadkach, Prezesa UTK decyzji, o której mowa w ust. 6, żaden pojazd kolejowy typu objętego taką decyzją nie może być użytkowany na terytorium Rzeczypospolitej Polskiej. W celu przywrócenia takich pojazdów do użytkowania należy ponownie złożyć wniosek, o którym mowa w art. 23b ust. 2 lub art. 23d ust. 1.
+**Art. 23f.** (uchylony) Art. 23fa. 1. W przypadku gdy przewoźnik kolejowy uzyska wiedzę, że użytkowany przez niego pojazd kolejowy nie spełnia jednego z mających zastosowanie zasadniczych wymagań systemu kolei, przyjmuje niezbędne środki naprawcze w celu zapewnienia zgodności pojazdu z zasadniczymi wymaganiami systemu kolei. Przewoźnik kolejowy informuje o przyjętych środkach naprawczych Agencję i Prezesa UTK nie później niż w terminie 30 dni od dnia ich przyjęcia. 2. Jeżeli przewoźnik kolejowy uzyska dowody potwierdzające, że niezgodność z zasadniczymi wymaganiami systemu kolei istniała w momencie wydawania zezwolenia na wprowadzenie pojazdu kolejowego do obrotu, przekazuje je Agencji i Prezesowi UTK nie później niż w terminie 30 dni od dnia ich uzyskania oraz przyjmuje niezbędne środki naprawcze w celu zapewnienia zgodności pojazdu kolejowego z zasadniczymi wymaganiami systemu kolei. 3. Jeżeli Prezes UTK w wyniku prowadzonych działań nadzorczych lub z innych źródeł uzyska wiedzę, że pojazd kolejowy lub typ pojazdu, posiadający zezwolenie na wprowadzenie pojazdu kolejowego do obrotu lub zezwolenie dla typu pojazdu, mimo użytkowania go zgodnie z przeznaczeniem, nie spełnia jednego z mających zastosowanie zasadniczych wymagań systemu kolei, niezwłocznie wzywa przewoźnika kolejowego eksploatującego taki pojazd lub typ pojazdu do przyjęcia niezbędnych środków naprawczych w celu zapewnienia zgodności z zasadniczymi wymaganiami systemu kolei. 4. O każdym przypadku, o którym mowa w ust. 3, Prezes UTK niezwłocznie informuje Agencję i inne krajowe organy do spraw bezpieczeństwa pozostałych państw członkowskich Unii Europejskiej. 5. Jeżeli w przypadkach określonych w ust. 1 i 3 środki naprawcze zastosowane przez przewoźnika kolejowego nie zapewniają zgodności z zasadniczymi wymaganiami systemu kolei i gdy ta niezgodność prowadzi do zagrożenia bezpieczeństwa ruchu kolejowego, Prezes UTK wprowadza tymczasowe środki bezpieczeństwa, o których mowa w art. 14 ust. 2a. Równolegle Prezes UTK albo Agencja może zawiesić zezwolenie dla typu pojazdu. 6. W przypadkach, o których mowa w ust. 1 i 3, Agencja albo, w stosownych przypadkach, Prezes UTK w następstwie przeglądu skuteczności środków naprawczych może, w drodze decyzji, unieważnić albo zmienić wydane zezwolenie na wprowadzenie pojazdu kolejowego do obrotu lub zezwolenie dla typu pojazdu, w szczególności jeżeli zostanie udowodnione, że w momencie udzielania zezwolenia nie zostało spełnione jedno z zasadniczych wymagań systemu kolei i niespełnienie tego wymagania prowadziło do zagrożenia bezpieczeństwa ruchu kolejowego. 7. Jeżeli w przypadkach, o których mowa w ust. 1 i 3, niezgodność z zasadniczymi wymaganiami systemu kolei ogranicza się do części obszaru użytkowania pojazdu kolejowego lub typu pojazdu oraz niezgodność ta zachodziła w momencie wydawania zezwolenia na wprowadzenie pojazdu kolejowego do obrotu lub zezwolenia dla typu pojazdu, Agencja albo, w stosownych przypadkach, Prezes UTK zmienia, w drodze decyzji, wydane zezwolenie w celu wyłączenia części obszaru użytkowania, w której zachodzi niezgodność z zasadniczymi wymaganiami systemu kolei. 8. Podmiot posiadający zezwolenie na wprowadzenie pojazdu kolejowego do obrotu lub zezwolenie dla typu pojazdu może w terminie miesiąca od dnia otrzymania decyzji Agencji albo Prezesa UTK wystąpić z wnioskiem o ponowne rozpatrzenie sprawy. Wystąpienie z wnioskiem o ponowne rozpatrzenie sprawy wstrzymuje wykonanie decyzji. Agencja albo, w stosownych przypadkach, Prezes UTK rozpatruje wniosek w terminie miesiąca od dnia jego otrzymania. 9. Jeżeli w wyniku ponownego rozpatrzenia sprawy Agencja podtrzyma dotychczasową decyzję, podmiot posiadający zezwolenie na wprowadzenie pojazdu kolejowego do obrotu lub zezwolenie dla typu pojazdu może w terminie, o którym mowa w art. 59 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004, wnieść odwołanie do Rady Odwoławczej, o której mowa w art. 55 tego rozporządzenia. 10. Jeżeli w wyniku ponownego rozpatrzenia sprawy Prezes UTK podtrzyma dotychczasową decyzję, podmiot posiadający zezwolenie na wprowadzenie pojazdu kolejowego do obrotu lub zezwolenie dla typu pojazdu może w terminie 2 miesięcy od dnia doręczenia decyzji wnieść skargę do sądu administracyjnego. 11. Prezes UTK przesyła Agencji kopię decyzji, o której mowa w ust. 6, nie później niż w terminie 14 dni od dnia jej wydania. 12. Informacja o wydaniu decyzji, o której mowa w ust. 6, jest zamieszczana odpowiednio w europejskim rejestrze pojazdów kolejowych (EVR) albo europejskim rejestrze typów pojazdów dopuszczonych do eksploatacji. 13. W przypadku podjęcia przez Agencję albo, w stosownych przypadkach, Prezesa UTK decyzji, o której mowa w ust. 6, przewoźnicy kolejowi, którzy użytkują typ pojazdu objęty decyzją, przyjmują niezbędne środki naprawcze w celu zapewnienia zgodności pojazdu z zasadniczymi wymaganiami systemu kolei. Przewoźnik kolejowy informuje o przyjętych środkach naprawczych Agencję i Prezesa UTK nie później niż w terminie 30 dni od dnia ich przyjęcia. 14. W przypadku podjęcia przez Agencję albo, w stosownych przypadkach, Prezesa UTK decyzji, o której mowa w ust. 6, żaden pojazd kolejowy typu objętego taką decyzją nie może być użytkowany na terytorium Rzeczypospolitej Polskiej. W celu przywrócenia takich pojazdów do użytkowania należy ponownie złożyć wniosek, o którym mowa w art. 23b ust. 2 lub art. 23d ust. 1.
 
-**Art. 23g.** (uchylony) i obowiązki podmiotu, który uzyskał zezwolenie na dopuszczenie do eksploatacji, z chwilą wpisania go do europejskiego rejestru pojazdów kolejowych (EVR) jako dysponenta.
+**Art. 23g.** (uchylony)
+
+**Art. 23h.** W przypadku zmiany dysponenta nowy dysponent wstępuje w prawa i obowiązki podmiotu, który uzyskał zezwolenie na dopuszczenie do eksploatacji, z chwilą wpisania go do europejskiego rejestru pojazdów kolejowych (EVR) jako dysponenta.
 
 **Art. 23i.**
 
@@ -2144,8 +2429,9 @@ Art. 67–69. (pominięte)
 
 1. Przed rozpoczęciem użytkowania pojazdu kolejowego dysponent określa podmiot odpowiedzialny za utrzymanie pojazdu kolejowego (ECM), który zapewnia utrzymanie pojazdu w sposób gwarantujący jego bezpieczną eksploatację. Podmiot ten jest ujęty w europejskim rejestrze pojazdów kolejowych (EVR).
 
-2. Podmiot odpowiedzialny za utrzymanie pojazdu kolejowego (ECM) za pomocą udokumentowanego systemu utrzymania: utrzymania każdego pojazdu oraz obowiązującymi wymogami, w tym zasadami dotyczącymi utrzymania i odpowiednimi przepisami TSI;
+2. Podmiot odpowiedzialny za utrzymanie pojazdu kolejowego (ECM) za pomocą udokumentowanego systemu utrzymania:
 
+- **1)** zapewnia, aby pojazdy były utrzymywane zgodnie z dokumentacją dotyczącą utrzymania każdego pojazdu oraz obowiązującymi wymogami, w tym zasadami dotyczącymi utrzymania i odpowiednimi przepisami TSI;
 - **2)** wdraża niezbędne środki wyceny i oceny ryzyka, ustanowione we wspólnych metodach oceny bezpieczeństwa (CSM), w odpowiednich przypadkach we współpracy z innymi podmiotami;
 - **3)** zapewnia umowne zobowiązanie wykonawców do wdrażania środków kontroli ryzyka przez stosowanie wspólnych metod oceny bezpieczeństwa (CSM) w zakresie monitorowania;
 - **4)** zapewnia identyfikowalność działań dotyczących utrzymania.
@@ -2164,7 +2450,7 @@ Art. 67–69. (pominięte)
 6. Podstawowymi elementami systemu utrzymania są:
 
 - **1)** przywództwo – zobowiązanie do rozwijania i wdrażania systemu utrzymania, w tym ciągłe doskonalenie jego skuteczności;
-- **2)** ocena ryzyka – uporządkowane podejście do oceny ryzyka związanego z utrzymaniem pojazdów kolejowych, w tym ryzyka wynikającego bezpośrednio osób, oraz określanie właściwych środków kontroli ryzyka;
+- **2)** ocena ryzyka – uporządkowane podejście do oceny ryzyka związanego z utrzymaniem pojazdów kolejowych, w tym ryzyka wynikającego bezpośrednio z procesów eksploatacyjnych i działań innych przewoźników kolejowych lub osób, oraz określanie właściwych środków kontroli ryzyka;
 - **3)** monitorowanie – uporządkowane podejście, które ma zapewnić istnienie środków kontroli ryzyka, ich właściwe funkcjonowanie i osiąganie celów podmiotu odpowiedzialnego za utrzymanie pojazdu kolejowego (ECM);
 - **4)** ciągłe doskonalenie – uporządkowane podejście służące analizie informacji pochodzących z regularnego monitorowania, audytowania lub innych właściwych źródeł oraz wykorzystywaniu wyników, aby zdobywać doświadczenia i stosować środki zapobiegawcze lub naprawcze w celu utrzymywania lub zwiększania poziomu bezpieczeństwa;
 - **5)** struktura i odpowiedzialność – uporządkowane podejście, które ma określić zakres odpowiedzialności osób i zespołów, aby zapewnić wypełnianie zadań podmiotu odpowiedzialnego za utrzymanie pojazdu kolejowego (ECM) w zakresie bezpieczeństwa, a także wskazywać sposób, w jaki kierownictwo zapewnia kontrolę na różnych poziomach struktury organizacyjnej oraz zakres udziału osób zatrudnionych i ich przedstawicieli na wszystkich poziomach struktury organizacyjnej;
@@ -2173,7 +2459,7 @@ Art. 67–69. (pominięte)
 - **8)** dokumentacja – uporządkowane podejście, które ma zapewnić identyfikowalność wszystkich istotnych informacji;
 - **9)** działania w zakresie zlecania podwykonawstwa – uporządkowane podejście, które ma zapewnić właściwe zarządzanie podzlecanymi działaniami, aby osiągać cele podmiotu odpowiedzialnego za utrzymanie pojazdu kolejowego (ECM) oraz wypełniać wszystkie kompetencje i wymogi;
 - **10)** działania w zakresie utrzymania – uporządkowane podejście, które ma zapewnić:
-    - **a)** aby działania w zakresie utrzymania mające wpływ na bezpieczeństwo i elementy krytyczne dla bezpieczeństwa były określone i właściwie zarządzane oraz aby konieczne zmiany w tych działaniach w zakresie zarządzane z wykorzystaniem informacji uzyskanych na podstawie dotychczasowych doświadczeń oraz z zastosowaniem wspólnych metod oceny ryzyka i właściwie udokumentowane,
+    - **a)** aby działania w zakresie utrzymania mające wpływ na bezpieczeństwo i elementy krytyczne dla bezpieczeństwa były określone i właściwie zarządzane oraz aby konieczne zmiany w tych działaniach w zakresie utrzymania mające wpływ na bezpieczeństwo były określone, właściwie zarządzane z wykorzystaniem informacji uzyskanych na podstawie dotychczasowych doświadczeń oraz z zastosowaniem wspólnych metod oceny ryzyka i właściwie udokumentowane,
     - **b)** zgodność z zasadniczymi wymaganiami systemu kolei,
     - **c)** wdrożenie i sprawdzanie obiektów, wyposażenia i narzędzi utrzymania, specjalnie zaprojektowanych i wymaganych do świadczenia usług utrzymania,
     - **d)** analizę wstępnej dokumentacji związanej z pojazdem kolejowym w celu zapewnienia pierwszej dokumentacji dotyczącej utrzymania i jej właściwego wykorzystywania podczas przygotowywania zamówień na usługi utrzymania,
@@ -2183,7 +2469,8 @@ Art. 67–69. (pominięte)
 
 - **11)** działania kontrolne – uporządkowane podejście, które ma zapewnić:
     - **a)** wycofywanie pojazdów kolejowych z eksploatacji ze względu na planowane, warunkowe lub naprawcze działania w zakresie utrzymania lub w przypadku wystąpienia uszkodzenia, lub ze względu na zaistnienie innych potrzeb,
-    - **b)** konieczne środki kontroli jakości, usługi utrzymania i wydawanie dokumentów przywrócenia do eksploatacji obejmujących ewentualne ograniczenia użytkowania,
+    - **b)** konieczne środki kontroli jakości,
+    - **c)** wykonywanie zadań w zakresie utrzymania zgodnie z zamówieniami na usługi utrzymania i wydawanie dokumentów przywrócenia do eksploatacji obejmujących ewentualne ograniczenia użytkowania,
     - **d)** aby ewentualne przypadki niezgodności podczas stosowania systemu zarządzania, które mogłyby skutkować wypadkami, incydentami, wypadkami, których uniknięto, lub innymi niebezpiecznymi zdarzeniami, były zgłaszane, badane i analizowane oraz aby niezbędne działania zapobiegawcze były podejmowane zgodnie ze wspólną metodą oceny bezpieczeństwa (CSM) dotyczącą monitorowania,
     - **e)** okresowe audyty wewnętrzne i proces monitorowania zgodny ze wspólną metodą oceny bezpieczeństwa (CSM) dotyczącą monitorowania.
 
@@ -2199,7 +2486,9 @@ Art. 67–69. (pominięte)
 
 10. W postępowaniach, o których mowa w ust. 8, składa się kopie dokumentów, o których mowa w art. 7 ust. 1 rozporządzenia (UE) nr 2019/779.
 
-11. Certyfikaty wydane w innych państwach członkowskich Unii Europejskiej podmiotom, o których mowa w ust. 7, są ważne na terytorium Rzeczypospolitej Polskiej, jeżeli zostały wydane zgodnie z rozporządzeniem (UE) nr 2019/779. (ECM) w przypadku:
+11. Certyfikaty wydane w innych państwach członkowskich Unii Europejskiej podmiotom, o których mowa w ust. 7, są ważne na terytorium Rzeczypospolitej Polskiej, jeżeli zostały wydane zgodnie z rozporządzeniem (UE) nr 2019/779.
+
+12. Zadania podmiotu odpowiedzialnego za utrzymanie pojazdu kolejowego (ECM) w przypadku:
 
 - **1)** pojazdów kolejowych zarejestrowanych w państwie innym niż państwo członkowskie Unii Europejskiej i utrzymywanych zgodnie z przepisami obowiązującymi w tym państwie,
 - **2)** pojazdów kolejowych eksploatowanych na liniach kolejowych, na których szerokość torów różni się od szerokości torów wynoszącej 1435 mm, i w przypadku gdy spełnienie warunków określonych w ust. 1 zapewnia się w drodze umów międzynarodowych z państwami innymi niż państwo członkowskie Unii Europejskiej,
@@ -2216,7 +2505,8 @@ Art. 67–69. (pominięte)
 1. Przewoźnik kolejowy przed rozpoczęciem eksploatacji pojazdu kolejowego sprawdza, czy ten pojazd:
 
 - **1)** uzyskał zezwolenie na wprowadzenie pojazdu kolejowego do obrotu i jest właściwie zarejestrowany;
-- **2)** jest kompatybilny z trasą, na której będzie eksploatowany na podstawie krajowego rejestru infrastruktury (RINF), odpowiednich TSI lub innych informacji przekazanych bezpłatnie przez zarządcę; eksploatowany, z uwzględnieniem systemu zarządzania bezpieczeństwem oraz TSI Ruch kolejowy.
+- **2)** jest kompatybilny z trasą, na której będzie eksploatowany na podstawie krajowego rejestru infrastruktury (RINF), odpowiednich TSI lub innych informacji przekazanych bezpłatnie przez zarządcę;
+- **3)** jest odpowiednio zintegrowany w zestawieniu pociągu, w którym ma być eksploatowany, z uwzględnieniem systemu zarządzania bezpieczeństwem oraz TSI Ruch kolejowy.
 
 2. W przypadku gdy przewoźnik kolejowy po sprawdzeniu, o którym mowa w ust. 1, ma uzasadnione wątpliwości co do bezpiecznej eksploatacji pojazdu kolejowego, składa wniosek do zarządcy o umożliwienie przeprowadzenia dodatkowych badań pojazdu kolejowego.
 
@@ -2238,7 +2528,7 @@ Art. 67–69. (pominięte)
 
 **Art. 25.**
 
-1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wykaz dokumentów, które powinny znajdować się w pojeździe pojazdu kolejowego, oraz ich wzory.
+1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wykaz dokumentów, które powinny znajdować się w pojeździe kolejowym będącym w ruchu, umożliwiających stwierdzenie stanu technicznego pojazdu kolejowego, oraz ich wzory.
 
 2. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, sposób prowadzenia rejestru pojazdów kolejowych oraz sposób oznakowania pojazdów kolejowych, z uwzględnieniem przepisów międzynarodowych.
 
@@ -2268,11 +2558,130 @@ Art. 67–69. (pominięte)
 
 **Art. 25b.**
 
-1. Do oceny zgodności podsystemów, akredytacji, autoryzacji i notyfikacji w tym zakresie oraz kontroli spełniania zasadniczych wymagań systemu kolei, a także postępowań w sprawie tych podsystemów, stosuje się odpowiednio przepisy art. 4 pkt 1, 3, 9, 11, 14 i 24–27 oraz rozdziałów 4, 5 i 7 z wyłączeniem art. zgodności i nadzoru rynku.
+1. Do oceny zgodności podsystemów, akredytacji, autoryzacji i notyfikacji w tym zakresie oraz kontroli spełniania zasadniczych wymagań systemu kolei, a także postępowań w sprawie tych podsystemów, stosuje się odpowiednio przepisy art. 4 pkt 1, 3, 9, 11, 14 i 24–27 oraz rozdziałów 4, 5 i 7 z wyłączeniem art. 35, art. 74, art. 75 i art. 79 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
 
 2. Do oceny zgodności składników interoperacyjności, akredytacji, autoryzacji i notyfikacji w tym zakresie oraz kontroli spełniania zasadniczych wymagań systemu kolei, a także postępowań w sprawie tych składników interoperacyjności, stosuje się przepisy art. 4 pkt 1, 3, 9, 11, 14 i 24–27, art. 8 ust. 3 i 4 oraz rozdziałów 4, 5 i 7 z wyłączeniem art. 35, art. 74, art. 75 i art. 79 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
 
 **Art. 25c.** (uchylony) Art. 25ca. 1. Podczas dokonywania oceny zgodności z zasadniczymi wymaganiami systemu kolei, podsystemy i składniki interoperacyjności poddaje się:
+
+- **1)** certyfikacji,
+- **2)** badaniom,
+- **3)** sprawdzeniu zgodności z zasadniczymi wymaganiami systemu kolei – przez jednostkę notyfikowaną.
+
+1a. Podczas oceny zgodności podsystemu z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei, badanie i certyfikacja podsystemu są przeprowadzane przez jednostkę wyznaczoną.
+
+2. Domniemywa się, że podsystemy lub składniki interoperacyjności, dla których sporządzono dokumentację potwierdzającą zgodność ze zharmonizowanymi normami lub ich częściami, do których odniesienia opublikowano w Dzienniku Urzędowym Unii Europejskiej, są zgodne z zasadniczymi wymaganiami systemu kolei objętymi tymi normami lub ich częściami, jeżeli ocena zgodności została dokonana na podstawie TSI.
+
+3. Oznakowanie CE umieszcza się na składniku interoperacyjności, dla którego, po uzyskaniu certyfikatu WE zgodności lub przydatności do stosowania składnika interoperacyjności, została wystawiona deklaracja WE zgodności lub przydatności do stosowania składnika interoperacyjności tylko wtedy, gdy obowiązek oznakowania wynika z przepisów obowiązujących na terytorium Unii Europejskiej odnoszących się do zasadniczych wymagań systemu kolei.
+
+4. Podmioty, o których mowa w art. 25cb ust. 3 i art. 25cc ust. 8, są obowiązane przechowywać dokumentację techniczną dotyczącą podsystemu i składnika interoperacyjności oraz przebiegu i wyników dokonanej oceny zgodności przez cały okres eksploatacji podsystemu lub składnika interoperacyjności.
+
+5. Dokonanie weryfikacji WE podsystemu, o którym mowa w art. 25a ust. 2 pkt 1 lit. a–c, jest obowiązkowe przed złożeniem wniosku o wydanie zezwolenia na dopuszczenie do eksploatacji tego podsystemu w systemie kolei Unii.
+
+6. Po uzyskaniu zezwolenia na dopuszczenie do eksploatacji podsystemu, o którym mowa w art. 25a ust. 2 pkt 1 lit. a–c, Prezes UTK, w trakcie jego eksploatacji, może sprawdzić spełnienie wymagań bezpieczeństwa zawartych w TSI lub we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei, w ramach wydawania autoryzacji bezpieczeństwa, jednolitego certyfikatu bezpieczeństwa lub świadectwa bezpieczeństwa, a także kontroli spełnienia wymagań zawartych w autoryzacji bezpieczeństwa, jednolitym certyfikacie bezpieczeństwa lub świadectwie bezpieczeństwa, stosując procedury oceny i weryfikacji ustanowione w TSI lub we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei.
+
+7. (uchylony)
+
+8. (uchylony) Art. 25cb. 1. Jednostka notyfikowana dokonuje weryfikacji WE podsystemu z zasadniczymi wymaganiami systemu kolei określonymi w przepisach wydanych na podstawie art. 25ta ust. 1.
+
+2. Producent podsystemu albo jego upoważniony przedstawiciel, zarządca, przewoźnik kolejowy, użytkownik bocznicy kolejowej, dysponent, importer, wykonawca modernizacji, inwestor albo podmiot zamawiający zwraca się do wybranej przez siebie jednostki notyfikowanej z wnioskiem o dokonanie na podstawie TSI weryfikacji WE podsystemu z zasadniczymi wymaganiami systemu kolei.
+
+3. Producent podsystemu albo jego upoważniony przedstawiciel, zarządca, przewoźnik kolejowy, użytkownik bocznicy kolejowej, dysponent, importer, wykonawca modernizacji, inwestor albo podmiot zamawiający jest obowiązany przekazać Prezesowi UTK informację o wszczęciu procedury weryfikacji WE podsystemu z zasadniczymi wymaganiami systemu kolei w terminie 14 dni od dnia podpisania umowy z jednostką notyfikowaną.
+
+4. Jednostka notyfikowana przeprowadza weryfikację WE podsystemu z zasadniczymi wymaganiami systemu kolei, obejmującą również interfejsy danego podsystemu z systemem, do którego zostaje on włączony na etapie:
+
+- **1)** projektowania;
+- **2)** budowy;
+- **3)** końcowych prób podsystemu.
+
+5. Na wniosek producenta podsystemu albo jego upoważnionego przedstawiciela, zarządcy, przewoźnika kolejowego, użytkownika bocznicy kolejowej, dysponenta, importera, wykonawcy modernizacji, inwestora albo podmiotu zamawiającego, można podzielić podsystem na określone części lub sprawdzić jego zgodność z zasadniczymi wymaganiami systemu kolei na określonych etapach procedury weryfikacji WE. Sprawdzenia zgodności z zasadniczymi wymaganiami systemu kolei można dokonać także dla określonej części podsystemu na określonym etapie tej procedury.
+
+5a. Po przeprowadzeniu czynności, o których mowa w ust. 5, jeżeli spełnione są zasadnicze wymagania systemu kolei, jednostka notyfikowana wydaje pośrednie potwierdzenie weryfikacji.
+
+5b. (uchylony) 5c. (uchylony)
+
+6. W procedurze weryfikacji WE podsystemu jednostka notyfikowana uwzględnia pośrednie potwierdzenia weryfikacji i sprawdza:
+
+- **1)** zgodność podsystemu z projektem i pośrednimi potwierdzeniami weryfikacji, o ile uprzednio zostały wydane;
+- **2)** czy potwierdzenia, o których mowa w pkt 1, uwzględniają wymagania określone w TSI;
+- **3)** zgodność całego podsystemu z zasadniczymi wymaganiami systemu kolei;
+- **4)** kompletność i poprawność deklaracji WE zgodności lub przydatności do stosowania składnika interoperacyjności wraz z kopiami certyfikatów WE zgodności lub przydatności do stosowania składnika interoperacyjności dla wszystkich składników interoperacyjności zastosowanych w podsystemie;
+- **5)** czy budowle i urządzenia ujęte w wykazie, o którym mowa w art. 22f ust. 14 pkt 2, wchodzące w skład podsystemu, zostały wprowadzone do obrotu zgodnie z przepisami ustawy;
+- **6)** wszystkie elementy podsystemu nieobjęte pośrednimi potwierdzeniami weryfikacji;
+- **7)** wyniki końcowych prób podsystemu.
+
+7. Po dokonaniu pozytywnej weryfikacji WE podsystemu, jednostka notyfikowana wydaje certyfikat weryfikacji WE podsystemu.
+
+7a. Jeżeli jednostka notyfikowana nie sprawdziła w całości albo części zgodności ze wszystkimi TSI, które mają zastosowanie dla danego podsystemu, certyfikat weryfikacji WE podsystemu zawiera dokładne odniesienie do TSI albo ich części, z którymi zgodność nie została sprawdzona.
+
+7b. Na podstawie certyfikatu weryfikacji WE podsystemu, producent podsystemu albo jego upoważniony przedstawiciel, zarządca, przewoźnik kolejowy, użytkownik bocznicy kolejowej, dysponent, importer, wykonawca modernizacji, inwestor albo podmiot zamawiający wystawia deklarację weryfikacji WE podsystemu, do której załącza dokumentację techniczną określoną w przepisach wydanych na podstawie art. 25ta ust. 1 pkt 4. Podmiot, o którym mowa w zdaniu pierwszym, przekazuje kopię dokumentacji technicznej, o której mowa w przepisach wydanych na podstawie art. 25ta ust. 1 pkt 4, Agencji, Prezesowi UTK lub krajowemu organowi do spraw bezpieczeństwa z innego państwa członkowskiego Unii Europejskiej, na ich żądanie.
+
+8. Jednostka notyfikowana może wydać certyfikat weryfikacji WE podsystemu dla serii podsystemów lub pewnych części tych podsystemów tylko w przypadku, gdy zezwala na to TSI.
+
+8a. W przypadku dokonania zmian w podsystemie objętym certyfikatem weryfikacji WE, jednostka notyfikowana zaangażowana do przeprowadzenia weryfikacji WE tego podsystemu wykonuje wyłącznie istotne i niezbędne badania oraz testy tych części podsystemu, które uległy zmianie, oraz ich interfejsów z niezmienionymi częściami podsystemu.
+
+9. (uchylony) Art. 25cba. 1. W przypadku gdy w procedurze weryfikacji WE podsystemu jest konieczne przeprowadzenie oceny zgodności podsystemu z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei, ocena taka jest przeprowadzana przez jednostkę wyznaczoną.
+
+2. Jeżeli podczas przeprowadzania oceny zgodności, o której mowa w ust. 1, jednostka wyznaczona stwierdzi, że podmiot, o którym mowa w art. 25cb ust. 2, nie spełnia wymagań określonych we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei, pisemnie wzywa wnioskodawcę do podjęcia, w zakresie, w jakim nie spełnia tych wymagań, środków naprawczych w terminie 14 dni od dnia otrzymania wezwania i nie wydaje mu certyfikatu weryfikacji podsystemu. W przypadku niepodjęcia środków naprawczych w wyznaczonym terminie lub jeżeli środki te nie doprowadziły do spełnienia wymagań określonych we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei, jednostka wyznaczona odmawia wydania certyfikatu weryfikacji podsystemu.
+
+3. Po stwierdzeniu spełnienia przez podsystem wymagań określonych we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei, jednostka wyznaczona wydaje certyfikat weryfikacji podsystemu.
+
+3a. Wydanie certyfikatu weryfikacji podsystemu przez jednostkę wyznaczoną może zostać poprzedzone sporządzeniem pośredniego potwierdzenia weryfikacji. Przepisy art. 25cb ust. 5 i 5a stosuje się odpowiednio.
+
+4. Jeżeli po wydaniu certyfikatu weryfikacji podsystemu jednostka wyznaczona stwierdza, że wyrób przestał spełniać wymagania określone we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei, jednostka ta cofa albo, w przypadku gdy możliwe jest podjęcie środków naprawczych, które mogą doprowadzić do spełnienia przez wyrób wymagań, zawiesza wydany certyfikat. W przypadku zawieszenia wydanego certyfikatu jednostka wyznaczona pisemnie wzywa wnioskodawcę do podjęcia środków naprawczych w terminie 14 dni od dnia otrzymania wezwania.
+
+5. W przypadku niepodjęcia przez wnioskodawcę środków naprawczych w wyznaczonym terminie lub jeżeli środki te nie doprowadziły do spełnienia przez wyrób wymagań, jednostka wyznaczona:
+
+- **1)** ogranicza wydany certyfikat weryfikacji podsystemu – w zakresie, w jakim wyrób nie spełnia wymagań określonych we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei;
+- **2)** cofa wydany certyfikat weryfikacji podsystemu – jeżeli wyrób w całości nie spełnia wymagań określonych we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei.
+
+6. Od odmowy wydania, ograniczenia, zawieszenia albo cofnięcia certyfikatu weryfikacji podsystemu przysługuje odwołanie. Do odmowy wydania, ograniczenia, zawieszenia albo cofnięcia certyfikatu weryfikacji podsystemu stosuje się art. 32 ust. 2–4 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
+
+7. Jeżeli w procedurze weryfikacji WE podsystemu zadania jednostki wyznaczonej wykonuje jednostka notyfikowana, ocena zgodności podsystemu na zgodność z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei, jest uwzględniana w certyfikacie weryfikacji WE podsystemu. Art. 25cc. 1. Składniki interoperacyjności spełniają następujące wymagania:
+
+- **1)** są dopuszczone do eksploatacji, w przypadku gdy umożliwiają osiągnięcie interoperacyjności w ramach systemu kolei Unii przy jednoczesnym spełnianiu zasadniczych wymagań systemu kolei;
+- **2)** są użytkowane na przeznaczonym dla nich obszarze użytkowania oraz są odpowiednio zamontowane i utrzymywane;
+- **3)** posiadają deklaracje WE zgodności lub przydatności do stosowania składnika interoperacyjności z zasadniczymi wymaganiami systemu kolei określonymi w TSI.
+
+2. Prezes UTK nie może:
+
+- **1)** zakazywać, ograniczać lub utrudniać na terytorium Rzeczypospolitej Polskiej wprowadzania do obrotu składników interoperacyjności tworzących system kolei Unii, które spełniają zasadnicze wymagania systemu kolei;
+- **2)** wymagać kontroli, które już zostały przeprowadzone jako część procedury oceny zgodności lub przydatności do stosowania składnika interoperacyjności określonej w przepisach wydanych na podstawie art. 25ta ust. 1.
+
+3. W celu wydania deklaracji WE zgodności lub przydatności do stosowania składnika interoperacyjności stosuje się przepisy określone w TSI.
+
+4. Na wniosek producenta albo jego upoważnionego przedstawiciela, jednostka notyfikowana dokonuje oceny zgodności lub przydatności do stosowania składnika interoperacyjności z zasadniczymi wymaganiami systemu kolei. Ocena ta jest dokonywana na podstawie TSI odpowiadającej podsystemowi, do którego należy składnik.
+
+5. Deklaracja WE zgodności lub przydatności do stosowania składnika interoperacyjności stwierdza, że składnik interoperacyjności spełnia zasadnicze wymagania systemu kolei określone w TSI lub specyfikacjach europejskich. W przypadku składnika interoperacyjności będącego przedmiotem innych przepisów Unii Europejskiej obejmujących swoim zakresem zasadnicze wymagania systemu kolei dla składników interoperacyjności, deklaracja ta spełnia również wymagania określone w tych przepisach.
+
+6. W przypadku gdy producent albo jego upoważniony przedstawiciel nie wystawi deklaracji WE zgodności lub przydatności do stosowania składnika interoperacyjności, obowiązek ten spoczywa na podmiocie wprowadzającym składnik interoperacyjności na rynek. Te same obowiązki spoczywają również na każdym podmiocie, który łączy składniki interoperacyjności różnego pochodzenia lub wytwarza je na swoje własne potrzeby.
+
+7. Po dokonaniu pozytywnej oceny zgodności składnika interoperacyjności z zasadniczymi wymaganiami systemu kolei, jednostka notyfikowana wydaje certyfikat WE zgodności lub przydatności do stosowania składnika interoperacyjności producentowi albo jego upoważnionemu przedstawicielowi. Na podstawie tego certyfikatu wystawia się deklarację WE zgodności lub przydatności do stosowania składnika interoperacyjności.
+
+8. Producent składnika interoperacyjności albo jego upoważniony przedstawiciel albo podmiot wprowadzający składnik interoperacyjności na rynek są obowiązani przekazywać Prezesowi UTK deklarację WE zgodności lub przydatności do stosowania składnika interoperacyjności przed wprowadzeniem go do obrotu na terytorium Rzeczypospolitej Polskiej.
+
+9. W przypadku gdy składnik interoperacyjności posiadający deklarację WE zgodności lub przydatności do stosowania składnika interoperacyjności nie spełnia zasadniczych wymagań systemu kolei, Prezes UTK zawiesza certyfikat WE zgodności lub przydatności do stosowania składnika interoperacyjności oraz powiadamia o tym Komisję Europejską i inne państwa członkowskie Unii Europejskiej.
+
+10. W przypadku gdy składnik interoperacyjności objęty deklaracją WE zgodności lub przydatności do stosowania składnika interoperacyjności i wprowadzony na rynek nie spełnia zasadniczych wymagań systemu kolei, Prezes UTK, w drodze decyzji:
+
+- **1)** ogranicza obszar jego stosowania lub
+- **2)** zakazuje jego wykorzystania, lub
+- **3)** nakazuje wycofanie go z rynku.
+
+11. Jeżeli Prezes UTK, biorąc pod uwagę zgodność z zasadniczymi wymaganiami systemu kolei, stwierdzi, w drodze decyzji, iż deklaracja WE zgodności lub przydatności do stosowania składnika interoperacyjności została niewłaściwie sporządzona, producent albo jego upoważniony przedstawiciel mający siedzibę na terytorium Unii Europejskiej albo podmiot wprowadzający go na rynek jest obowiązany do doprowadzenia do zgodności składnika interoperacyjności z TSI oraz zaprzestania naruszenia na warunkach określonych przez Prezesa UTK.
+
+12. W przypadku gdy naruszenie, o którym mowa w ust. 11, nie zostało usunięte, Prezes UTK, w drodze decyzji:
+
+- **1)** ogranicza lub zakazuje wprowadzania danego składnika interoperacyjności na rynek lub
+- **2)** nakazuje wycofanie go z rynku.
+
+13. W przypadkach, o których mowa w ust. 10 i 12, Prezes UTK powiadamia niezwłocznie Komisję Europejską, Agencję i państwa członkowskie Unii Europejskiej o zastosowanych środkach i podaje powody swojej decyzji, stwierdzając w szczególności, czy niezgodność ta jest spowodowana:
+
+- **1)** brakiem możliwości spełnienia zasadniczych wymagań systemu kolei;
+- **2)** nieprawidłowym zastosowaniem specyfikacji europejskich, jeżeli były one zastosowane;
+- **3)** nieadekwatnością specyfikacji europejskich.
+
+14. Procedura oceny zgodności, o której mowa w ust. 4, nie jest przeprowadzana w przypadku części zamiennych do podsystemów dopuszczonych do eksploatacji w dniu wejścia w życie TSI.
 
 **Art. 25d.**
 
@@ -2281,7 +2690,8 @@ Art. 67–69. (pominięte)
 - **1)** w TSI, w szczególności dotyczących punktów otwartych, nie ujęto wszystkich aspektów zasadniczych wymagań systemu kolei;
 - **2)** została wydana decyzja o przyznaniu odstępstwa od obowiązku stosowania TSI;
 - **3)** zachodzi szczególny przypadek zdefiniowany w TSI;
-- **4)** wykonuje się ocenę zgodności technicznej między pojazdem kolejowym a siecią kolejową; interoperacyjności;
+- **4)** wykonuje się ocenę zgodności technicznej między pojazdem kolejowym a siecią kolejową;
+- **5)** typy urządzeń i typy budowli nie zostały ujęte we właściwej TSI jako składniki interoperacyjności;
 - **6)** sieci kolejowe albo ich części oraz pojazdy kolejowe nie są objęte obowiązkiem stosowania TSI;
 - **7)** zachodzi pilna potrzeba przywrócenia lub utrzymania ruchu kolejowego po wypadku, klęsce żywiołowej lub w innych sytuacjach nadzwyczajnych.
 
@@ -2304,7 +2714,9 @@ Art. 67–69. (pominięte)
 
 **Art. 25e.**
 
-1. Zarządcy, przewoźnicy kolejowi i użytkownicy bocznic kolejowych mogą eksploatować wyłącznie podsystemy strukturalne, o których mowa w art. 25a ust. 2 pkt 1 lit. a–c, na które Prezes UTK wydał zezwolenia na dopuszczenie do eksploatacji. być dopuszczony do eksploatacji, jeżeli:
+1. Zarządcy, przewoźnicy kolejowi i użytkownicy bocznic kolejowych mogą eksploatować wyłącznie podsystemy strukturalne, o których mowa w art. 25a ust. 2 pkt 1 lit. a–c, na które Prezes UTK wydał zezwolenia na dopuszczenie do eksploatacji.
+
+1a. Podsystem strukturalny, o którym mowa w art. 25a ust. 2 pkt 1 lit. a–c, może być dopuszczony do eksploatacji, jeżeli:
 
 - **1)** jest zbudowany i zainstalowany w taki sposób, że spełnia zasadnicze wymagania systemu kolei oraz jest zapewniona jego zgodność z istniejącym systemem kolei Unii, w skład którego wchodzi;
 - **2)** składniki interoperacyjności, z których jest zbudowany, są właściwie zainstalowane i wykorzystywane zgodnie z przeznaczeniem;
@@ -2323,7 +2735,7 @@ Art. 67–69. (pominięte)
 - **3)** dokumenty potwierdzające bezpieczną integrację tych podsystemów, stwierdzoną w oparciu o odpowiednie TSI, przepisy krajowe, krajowy rejestr infrastruktury (RINF), a także wspólne metody oceny bezpieczeństwa (CSM);
 - **4)** kopie dokumentów potwierdzających dopuszczenie do eksploatacji urządzeń lub budowli ujętych w wykazie, o którym mowa w art. 22f ust. 14 pkt 2, wchodzących w skład podsystemu.
 
-3b. Dokumenty, o których mowa w ust. 3, sporządza się w jednym z języków urzędowych Unii Europejskiej. Prezes UTK może żądać, aby część lub części dokumentów, o których mowa w ust. 3, zostały przetłumaczone na język polski.
+3a. (uchylony) 3b. Dokumenty, o których mowa w ust. 3, sporządza się w jednym z języków urzędowych Unii Europejskiej. Prezes UTK może żądać, aby część lub części dokumentów, o których mowa w ust. 3, zostały przetłumaczone na język polski.
 
 3c. Dokumentację techniczną załączoną do wniosku, o którym mowa w ust. 2, wnioskodawca przekazuje Prezesowi UTK w postaci dokumentu elektronicznego, w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717 oraz z 2025 r. poz. 1006, 1019 i 1158), pozbawionego możliwości jego modyfikacji.
 
@@ -2337,8 +2749,9 @@ Art. 67–69. (pominięte)
 
 4d. Prezes UTK rozpatruje wniosek o ponowne rozpatrzenie sprawy w terminie 2 miesięcy od dnia jego otrzymania.
 
-5. Prezes UTK nie może zakazywać, ograniczać lub utrudniać budowy, dopuszczania do eksploatacji oraz eksploatacji podsystemów strukturalnych, o których mowa w art. 25a ust. 2 pkt 1 lit. a–c, które spełniają zasadnicze wymagania systemu kolei. W szczególności nie może wymagać kontroli, które już zostały przeprowadzone: przydatności do stosowania składnika interoperacyjności oraz deklaracji weryfikacji WE podsystemu, określonej we właściwej TSI;
+5. Prezes UTK nie może zakazywać, ograniczać lub utrudniać budowy, dopuszczania do eksploatacji oraz eksploatacji podsystemów strukturalnych, o których mowa w art. 25a ust. 2 pkt 1 lit. a–c, które spełniają zasadnicze wymagania systemu kolei. W szczególności nie może wymagać kontroli, które już zostały przeprowadzone:
 
+- **1)** jako część procedury prowadzącej do wydania deklaracji WE zgodności lub przydatności do stosowania składnika interoperacyjności oraz deklaracji weryfikacji WE podsystemu, określonej we właściwej TSI;
 - **1a)** jako część procedury prowadzącej do wydania świadectwa dopuszczenia do eksploatacji typu dla urządzeń albo budowli ujętych w wykazie, o którym mowa w art. 22f ust. 14 pkt 2, które wchodzą w skład podsystemu;
 - **2)** w innych państwach członkowskich Unii Europejskiej w celu sprawdzenia zgodności z takimi samymi wymaganiami, w takich samych warunkach eksploatacji.
 
@@ -2353,7 +2766,7 @@ Art. 67–69. (pominięte)
 
 9. Prezes UTK opracowuje i udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Transportu Kolejowego wytyczne dotyczące procedury uzyskiwania zezwoleń na dopuszczenie do eksploatacji podsystemów strukturalnych, o których mowa w art. 25a ust. 2 pkt 1 lit. a–c, oraz wykaz wymaganych dokumentów.
 
-10. Prezes UTK wydaje niewiążące opinie w celu określenia sposobów wykazania spełnienia wymagań zawartych we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei. Art. 25ea. 1. Zarządca, użytkownik bocznicy kolejowej, przewoźnik kolejowy lub inwestor jest obowiązany złożyć do Agencji wniosek o zatwierdzenie proponowanych rozwiązań technicznych związanych z planowaną zabudową zezwolenia na dopuszczenie do eksploatacji.
+10. Prezes UTK wydaje niewiążące opinie w celu określenia sposobów wykazania spełnienia wymagań zawartych we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei. Art. 25ea. 1. Zarządca, użytkownik bocznicy kolejowej, przewoźnik kolejowy lub inwestor jest obowiązany złożyć do Agencji wniosek o zatwierdzenie proponowanych rozwiązań technicznych związanych z planowaną zabudową urządzeń przytorowych ERTMS, jeżeli zakres planowanych prac wymaga uzyskania zezwolenia na dopuszczenie do eksploatacji.
 
 2. Wniosek, o którym mowa w ust. 1, jest składany przed wszczęciem postępowania o udzielenie zamówienia publicznego, w celu potwierdzenia przez Agencję zgodności przewidzianych w nim rozwiązań z odpowiednimi TSI.
 
@@ -2377,7 +2790,7 @@ Art. 67–69. (pominięte)
 
 **Art. 25f.**
 
-1. Producent podsystemu albo jego upoważniony przedstawiciel, zarządca, przewoźnik kolejowy, użytkownik bocznicy kolejowej, dysponent, importer, wykonawca modernizacji, inwestor albo podmiot zamawiający może stosowania TSI w przypadku:
+1. Producent podsystemu albo jego upoważniony przedstawiciel, zarządca, przewoźnik kolejowy, użytkownik bocznicy kolejowej, dysponent, importer, wykonawca modernizacji, inwestor albo podmiot zamawiający może wystąpić do Prezesa UTK z wnioskiem o przyznanie odstępstwa od obowiązku stosowania TSI w przypadku:
 
 - **1)** publikacji nowych TSI w czasie:
     - **a)** projektowania lub budowy nowego podsystemu albo
@@ -2392,7 +2805,7 @@ Art. 67–69. (pominięte)
 
 3. Prezes UTK w przypadku, o którym mowa w ust. 1 pkt 2, 3 i 5, występuje do Komisji Europejskiej o zaopiniowanie wniosku o przyznanie odstępstwa od obowiązku stosowania TSI lub ich części, przekazuje dokumentację załączoną do wniosku, o którym mowa w ust. 1, oraz wskazuje regulacje, które będą miały zastosowanie zamiast właściwej TSI lub jej części, w tym w szczególności zawarte we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei.
 
-3a. Prezes UTK w przypadku, o którym mowa w ust. 1 pkt 1 i 4, wydaje decyzję w sprawie przyznania odstępstwa od obowiązku stosowania właściwej TSI lub jej części, jeżeli uzna, że zachodzą okoliczności wskazane odpowiednio w ust. 1 pkt 1 okoliczności wskazane odpowiednio w ust. 1 pkt 1 albo 4. W przypadku przyznania odstępstwa informuje o tym Komisję Europejską.
+3a. Prezes UTK w przypadku, o którym mowa w ust. 1 pkt 1 i 4, wydaje decyzję w sprawie przyznania odstępstwa od obowiązku stosowania właściwej TSI lub jej części, jeżeli uzna, że zachodzą okoliczności wskazane odpowiednio w ust. 1 pkt 1 albo 4, albo odmowy przyznania takiego odstępstwa, jeżeli stwierdzi, że nie zachodzą okoliczności wskazane odpowiednio w ust. 1 pkt 1 albo 4. W przypadku przyznania odstępstwa informuje o tym Komisję Europejską.
 
 4. Producent podsystemu albo jego upoważniony przedstawiciel, zarządca, przewoźnik kolejowy, użytkownik bocznicy kolejowej, dysponent, importer, wykonawca modernizacji, inwestor albo podmiot zamawiający stosuje wskazane przez Prezesa UTK regulacje, o których mowa w ust. 3, do czasu wydania decyzji przez Komisję Europejską.
 
@@ -2416,7 +2829,7 @@ Art. 67–69. (pominięte)
 
 2. W krajowym rejestrze infrastruktury (RINF) gromadzi się dane umożliwiające identyfikację bocznic kolejowych oraz określonych części infrastruktury kolejowej wraz ze wskazaniem charakterystyki i parametrów technicznych podsystemów strukturalnych, z których te części się składają.
 
-2a. Wartości parametrów zapisane w krajowym rejestrze infrastruktury (RINF) wykorzystuje się w połączeniu z wartościami parametrów zapisanymi w zezwoleniu technicznej między pojazdem kolejowym a siecią kolejową.
+2a. Wartości parametrów zapisane w krajowym rejestrze infrastruktury (RINF) wykorzystuje się w połączeniu z wartościami parametrów zapisanymi w zezwoleniu na wprowadzenie pojazdu kolejowego do obrotu w celu sprawdzenia zgodności technicznej między pojazdem kolejowym a siecią kolejową.
 
 2b. Krajowy rejestr infrastruktury (RINF) może określać warunki i ograniczenia korzystania z infrastruktury kolejowej w nim zawartej.
 
@@ -2437,7 +2850,7 @@ Art. 67–69. (pominięte)
 - **2)** potrzebę zagwarantowania spójności pod względem zawartości danych i ich formatu z rejestrami prowadzonymi przez zarządców w innych państwach członkowskich Unii Europejskiej;
 - **3)** parametry techniczno-eksploatacyjne infrastruktury kolejowej i bocznic kolejowych ujęte w krajowym rejestrze infrastruktury (RINF). Art. 25ga. (uchylony) Art. 25gb. 1. W odniesieniu do pojazdu kolejowego, który uzyskał zezwolenie na wprowadzenie do obrotu, dysponent składa do Prezesa UTK wniosek o rejestrację tego pojazdu w europejskim rejestrze pojazdów kolejowych (EVR), jeżeli obszar użytkowania tego pojazdu obejmuje terytorium Rzeczypospolitej Polskiej.
 
-2. W przypadku gdy obszar użytkowania wprowadzonego do obrotu pojazdu kolejowego obejmuje terytorium Rzeczypospolitej Polskiej oraz terytorium co składa wniosek o rejestrację pojazdu w europejskim rejestrze pojazdów kolejowych (EVR) do Prezesa UTK albo do jednostki rejestrującej innego państwa członkowskiego Unii Europejskiej, którego terytorium obejmuje obszar użytkowania pojazdu.
+2. W przypadku gdy obszar użytkowania wprowadzonego do obrotu pojazdu kolejowego obejmuje terytorium Rzeczypospolitej Polskiej oraz terytorium co najmniej jednego innego państwa członkowskiego Unii Europejskiej, dysponent składa wniosek o rejestrację pojazdu w europejskim rejestrze pojazdów kolejowych (EVR) do Prezesa UTK albo do jednostki rejestrującej innego państwa członkowskiego Unii Europejskiej, którego terytorium obejmuje obszar użytkowania pojazdu.
 
 3. Dysponent niezwłocznie zawiadamia Prezesa UTK o wszelkich zmianach danych w odniesieniu do zarejestrowanych przez niego pojazdów kolejowych w europejskim rejestrze pojazdów kolejowych (EVR), w tym o wycofaniu pojazdu z eksploatacji lub o decyzji o nieprzedłużeniu jego rejestracji.
 
@@ -2455,7 +2868,7 @@ Art. 67–69. (pominięte)
 
 1. Prezes UTK dokonuje notyfikacji autoryzowanych jednostek oceniających zgodność za pomocą systemu notyfikacji elektronicznej opracowanego i zarządzanego przez Komisję Europejską.
 
-1a. Do notyfikacji, o której mowa w ust. 1, dołącza się wszystkie szczegółowe informacje dotyczące działalności związanej z oceną zgodności, modułu lub modułów certyfikat akredytacji albo inny dokument potwierdzający spełnienie wymagań, o których mowa w art. 28 ust. 1 i 3 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
+1a. Do notyfikacji, o której mowa w ust. 1, dołącza się wszystkie szczegółowe informacje dotyczące działalności związanej z oceną zgodności, modułu lub modułów oceny zgodności, wyrobu lub wyrobów objętych zakresem notyfikacji oraz stosowny certyfikat akredytacji albo inny dokument potwierdzający spełnienie wymagań, o których mowa w art. 28 ust. 1 i 3 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
 
 2. W przypadku podjęcia decyzji, o której mowa w art. 25h ust. 2, Prezes UTK zawiesza notyfikację, ogranicza jej zakres lub cofa notyfikację i o podjętej decyzji informuje Komisję Europejską oraz państwa członkowskie Unii Europejskiej.
 
@@ -2465,7 +2878,7 @@ Art. 67–69. (pominięte)
 
 3. Jednostka notyfikowana stosuje wytyczne opracowane przez Agencję, uwzględniające wyniki pracy grupy ds. ERTMS.
 
-4. W przypadku gdy jednostka notyfikowana uzna wytyczne, o których mowa w ust. 3, za niewłaściwe lub niemożliwe do stosowania, przekazuje swoje uwagi grupie ds. ERTMS odpowiedzialnej za stałą poprawę jakości tych wytycznych celem ich omówienia i nie stosuje tych wytycznych do czasu rozstrzygnięcia w zakresie przekazanych uwag w ramach grupy ds. ERTMS. Art. 25ib. Wynagrodzenie kierownictwa jednostki notyfikowanej oraz jej pracowników wykonujących ocenę zgodności nie może być uzależnione od liczby wykonanych ocen zgodności ani od wyników tych ocen. Art. 25ic. Jednostka notyfikowana przekazuje Agencji certyfikaty weryfikacji WE podsystemów, certyfikaty WE zgodności składników interoperacyjności oraz certyfikaty WE przydatności do stosowania składników interoperacyjności niezwłocznie po ich wydaniu. Art. 25id. Jednostki notyfikowane są obowiązane uczestniczyć w pracach sektorowej grupy jednostek notyfikowanych ustanowionej przez Komisję Europejską. zadań jednostki wyznaczonej, jeżeli podmiot wnioskujący:
+4. W przypadku gdy jednostka notyfikowana uzna wytyczne, o których mowa w ust. 3, za niewłaściwe lub niemożliwe do stosowania, przekazuje swoje uwagi grupie ds. ERTMS odpowiedzialnej za stałą poprawę jakości tych wytycznych celem ich omówienia i nie stosuje tych wytycznych do czasu rozstrzygnięcia w zakresie przekazanych uwag w ramach grupy ds. ERTMS. Art. 25ib. Wynagrodzenie kierownictwa jednostki notyfikowanej oraz jej pracowników wykonujących ocenę zgodności nie może być uzależnione od liczby wykonanych ocen zgodności ani od wyników tych ocen. Art. 25ic. Jednostka notyfikowana przekazuje Agencji certyfikaty weryfikacji WE podsystemów, certyfikaty WE zgodności składników interoperacyjności oraz certyfikaty WE przydatności do stosowania składników interoperacyjności niezwłocznie po ich wydaniu. Art. 25id. Jednostki notyfikowane są obowiązane uczestniczyć w pracach sektorowej grupy jednostek notyfikowanych ustanowionej przez Komisję Europejską. Art. 25ie. 1. Prezes UTK, w drodze decyzji, wyznacza podmiot do wykonywania zadań jednostki wyznaczonej, jeżeli podmiot wnioskujący:
 
 - **1)** posiada osobowość prawną;
 - **2)** spełnia wymagania określone w art. 28 ust. 1 pkt 2–6 i 9 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku;
@@ -2479,7 +2892,9 @@ Art. 67–69. (pominięte)
 
 5. Jednostka wyznaczona może wystąpić do Prezesa UTK z wnioskiem o rozszerzenie zakresu uprawnień określonych w decyzji, o której mowa w ust. 1. Prezes UTK, w drodze decyzji, rozszerza zakres uprawnień jednostki wyznaczonej po stwierdzeniu spełniania wymagań określonych w art. 28 ust. 1 pkt 2–6 i 9 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku oraz posiadania certyfikatu akredytacji wydanego zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku odpowiedniego do wnioskowanego rozszerzenia zakresu uprawnień.
 
-6. W przypadku stwierdzenia naruszeń wymagań określonych w art. 28 ust. 1 pkt 2–6 i 9 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, nieposiadania certyfikatu akredytacji wydanego zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku odpowiedniego do zakresu wyznaczenia lub niewypełniania obowiązków, o których mowa w art. 34 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, Prezes UTK, w drodze decyzji, zawiesza wyznaczenie jednostki, wyznaczając termin usunięcia naruszeń stanowiących podstawę zawieszenia. jednostce wyznaczonej w decyzji, o której mowa w ust. 1 albo 5, w przypadku zaprzestania spełniania wymagań określonych w art. 28 ust. 1 pkt 2–6 i 9 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku oraz nieposiadania certyfikatu akredytacji wydanego zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, w zakresie niezbędnym do przeprowadzania oceny zgodności określonych podsystemów na zgodność z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei.
+6. W przypadku stwierdzenia naruszeń wymagań określonych w art. 28 ust. 1 pkt 2–6 i 9 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, nieposiadania certyfikatu akredytacji wydanego zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku odpowiedniego do zakresu wyznaczenia lub niewypełniania obowiązków, o których mowa w art. 34 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, Prezes UTK, w drodze decyzji, zawiesza wyznaczenie jednostki, wyznaczając termin usunięcia naruszeń stanowiących podstawę zawieszenia.
+
+7. Prezes UTK, w drodze decyzji, ogranicza zakres uprawnień przyznanych jednostce wyznaczonej w decyzji, o której mowa w ust. 1 albo 5, w przypadku zaprzestania spełniania wymagań określonych w art. 28 ust. 1 pkt 2–6 i 9 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku oraz nieposiadania certyfikatu akredytacji wydanego zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, w zakresie niezbędnym do przeprowadzania oceny zgodności określonych podsystemów na zgodność z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei.
 
 8. Prezes UTK, w drodze decyzji, cofa jednostce wyznaczenie w przypadku:
 
@@ -2497,7 +2912,9 @@ Art. 67–69. (pominięte)
 
 1. Prezes UTK sprawuje nadzór nad działalnością jednostek notyfikowanych. Nadzór nad działalnością jednostek notyfikowanych obejmuje również czynności związane z oceną zgodności powierzone do wykonania podmiotom, o których mowa w art. 33 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
 
-2. Prezes UTK może powierzyć niektóre zadania z zakresu nadzoru, o którym mowa w ust. 1, Polskiemu Centrum Akredytacji w uzgodnieniu z jego dyrektorem. Prezes UTK ponosi odpowiedzialność za zadania powierzone Polskiemu Centrum Akredytacji. notyfikowanych.
+2. Prezes UTK może powierzyć niektóre zadania z zakresu nadzoru, o którym mowa w ust. 1, Polskiemu Centrum Akredytacji w uzgodnieniu z jego dyrektorem. Prezes UTK ponosi odpowiedzialność za zadania powierzone Polskiemu Centrum Akredytacji.
+
+3. Prezes UTK zapewnia poufność informacji, które otrzymuje od jednostek notyfikowanych.
 
 **Art. 25k.**
 
@@ -2516,7 +2933,9 @@ Art. 67–69. (pominięte)
 
 1. W przypadku stwierdzenia w wyniku kontroli, że podsystem lub składnik interoperacyjności nie spełnia zasadniczych wymagań systemu kolei, opłaty związane z badaniami ponosi podmiot, w stosunku do którego została przeprowadzona ta kontrola.
 
-2. Opłaty, o których mowa w ust. 1, ustala się na podstawie uzasadnionych kosztów badań, z uwzględnieniem rodzaju badanego podsystemu lub składnika interoperacyjności oraz stopnia skomplikowania i zakresu przeprowadzonych badań. postanowienia, na które służy zażalenie.
+2. Opłaty, o których mowa w ust. 1, ustala się na podstawie uzasadnionych kosztów badań, z uwzględnieniem rodzaju badanego podsystemu lub składnika interoperacyjności oraz stopnia skomplikowania i zakresu przeprowadzonych badań.
+
+2a. Opłaty, o których mowa w ust. 1, ustala Prezes UTK, w drodze postanowienia, na które służy zażalenie.
 
 3. Opłaty, o których mowa w ust. 1, stanowią dochód budżetu państwa.
 
@@ -2546,7 +2965,8 @@ Art. 67–69. (pominięte)
 
 - **1)** wskazanie podstawy prawnej;
 - **2)** oznaczenie organu kontroli;
-- **3)** datę i miejsce wystawienia; kontroli oraz numer jego legitymacji służbowej;
+- **3)** datę i miejsce wystawienia;
+- **4)** imię i nazwisko pracownika organu kontroli uprawnionego do wykonania kontroli oraz numer jego legitymacji służbowej;
 - **5)** firmę przedsiębiorcy objętego kontrolą;
 - **6)** określenie zakresu przedmiotowego kontroli;
 - **7)** wskazanie daty rozpoczęcia i przewidywanego terminu zakończenia kontroli;
@@ -2571,7 +2991,9 @@ Art. 67–69. (pominięte)
 
 **Art. 25s.**
 
-1. Jednostki notyfikowane dokonujące oceny zgodności składników interoperacyjności i podsystemów są obowiązane do przekazywania informacji, wraz z uzasadnieniem, o zawieszonych lub cofniętych certyfikatach zgodności Prezesowi UTK, a także innym jednostkom notyfikowanym. internetowych, corocznie, w terminie do końca pierwszego kwartału:
+1. Jednostki notyfikowane dokonujące oceny zgodności składników interoperacyjności i podsystemów są obowiązane do przekazywania informacji, wraz z uzasadnieniem, o zawieszonych lub cofniętych certyfikatach zgodności Prezesowi UTK, a także innym jednostkom notyfikowanym.
+
+2. Jednostki notyfikowane są obowiązane do publikowania na swoich stronach internetowych, corocznie, w terminie do końca pierwszego kwartału:
 
 - **1)** wykazu wniosków o dokonanie:
     - **a)** weryfikacji WE podsystemu oraz o dokonanie pośredniej weryfikacji WE podsystemu,
@@ -2584,6 +3006,20 @@ Art. 67–69. (pominięte)
 
 **Art. 25t.** (uchylony) Art. 25ta. 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, dla systemu kolei Unii:
 
+- **1)** zasadnicze wymagania systemu kolei;
+- **2)** warunki przeprowadzania weryfikacji WE podsystemu;
+- **3)** procedury oceny zgodności podsystemów z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań systemu kolei, w tym moduły oceny zgodności, oraz wykaz parametrów pojazdu kolejowego do skontrolowania, w celu sprawdzenia zgodności technicznej między pojazdem kolejowym a siecią kolejową;
+- **4)** zakres dokumentacji technicznej dołączanej do deklaracji weryfikacji WE podsystemu.
+
+2. Wydając rozporządzenie, o którym mowa w ust. 1, uwzględnia się:
+
+- **1)** obowiązujące TSI;
+- **2)** konieczność zapewnienia jednostce notyfikowanej wszelkich informacji, które są niezbędne do właściwego przeprowadzenia weryfikacji WE podsystemu;
+- **3)** wymagania niezbędne dla zapewnienia bezpiecznego i niezakłóconego ruchu pojazdów kolejowych w systemie kolei Unii;
+- **4)** konieczność przeprowadzenia procedur oceny zgodności podsystemów w oparciu o moduły oceny zgodności;
+- **5)** konieczność zapewnienia bezpieczeństwa przewozu osób i rzeczy;
+- **6)** konieczność zapewnienia spójności dokumentacji technicznej dołączanej do deklaracji weryfikacji WE podsystemu.
+
 #### Rozdział 4b Czas pracy pracowników kolei wykonujących interoperacyjne usługi transgraniczne
 
 **Art. 25u.**
@@ -2594,7 +3030,7 @@ Art. 67–69. (pominięte)
 
 3. Przez transgraniczne przewozy pasażerskie, o których mowa w ust. 2, rozumie się wojewódzkie przewozy pasażerskie, o których mowa w przepisach ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym realizowane w strefie transgranicznej.
 
-4. Przepisy Umowy zbiorowej, o której mowa w ust. 1, stosuje się również do czasu pracy pracowników kolei wykonujących interoperacyjne usługi transgraniczne a korzystają z infrastruktury kolejowej innego państwa obcego, nie zatrzymując się na jego terytorium.
+4. Przepisy Umowy zbiorowej, o której mowa w ust. 1, stosuje się również do czasu pracy pracowników kolei wykonujących interoperacyjne usługi transgraniczne w pociągach, które zaczynają i kończą bieg na terytorium Rzeczypospolitej Polskiej, a korzystają z infrastruktury kolejowej innego państwa obcego, nie zatrzymując się na jego terytorium.
 
 **Art. 25w.** W zakresie uregulowanym w Umowie zbiorowej, o której mowa w art. 25u ust. 1, nie stosuje się przepisów Kodeksu pracy, chyba że przepisy te są korzystniejsze dla pracownika.
 
@@ -2618,7 +3054,7 @@ Art. 67–69. (pominięte)
     - **i)** o formie zatrudnienia,
     - **j)** o stanowisku pracy;
 
-- **2)** w przypadku maszynistów oraz kandydatów na maszynistów – informacje z rejestru licencji maszynistów i rejestru świadectw maszynistów, o których mowa w decyzji Komisji z dnia 29 października 2009 r. w sprawie przyjęcia uzupełniających określonych w dyrektywie 2007/59/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 8 z 13.01.2010, str. 17, z późn. zm. );
+- **2)** w przypadku maszynistów oraz kandydatów na maszynistów – informacje z rejestru licencji maszynistów i rejestru świadectw maszynistów, o których mowa w decyzji Komisji z dnia 29 października 2009 r. w sprawie przyjęcia podstawowych parametrów rejestrów licencji maszynisty i świadectw uzupełniających określonych w dyrektywie 2007/59/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 8 z 13.01.2010, str. 17, z późn. zm. );
 - **3)** w przypadku prowadzących pojazdy kolejowe dane dotyczące:
     - **a)** przeprowadzonych egzaminów,
     - **b)** wydanych dokumentów upoważniających do wykonywania czynności na stanowisku kolejowym,
@@ -2639,7 +3075,7 @@ Art. 67–69. (pominięte)
 - **3)** podmiot uprawniony do wydania prawa kierowania pojazdem kolejowym – w zakresie danych, o których mowa w ust. 2 pkt 1 lit. h–j i ust. 2 pkt 3,
 - **4)** podmiot uprawniony do przeprowadzania badań lekarskich kandydatów na maszynistów, maszynistów lub prowadzących pojazdy kolejowe – w zakresie danych, o których mowa w ust. 2 pkt 1 lit. g – za pomocą systemu teleinformatycznego obsługującego rejestr, nie później niż w terminie 3 dni roboczych od dnia zaistnienia zdarzenia powodującego obowiązek wprowadzenia danych.
 
-4. Prezes UTK udostępnia usługi sieciowe umożliwiające zintegrowanie systemów teleinformatycznych obsługujących zadania realizowane przez podmioty, o o którym mowa w ust. 1.
+4. Prezes UTK udostępnia usługi sieciowe umożliwiające zintegrowanie systemów teleinformatycznych obsługujących zadania realizowane przez podmioty, o których mowa w ust. 3, z systemem teleinformatycznym obsługującym rejestr, o którym mowa w ust. 1.
 
 5. Dane gromadzone w rejestrze, o którym mowa w ust. 1, przechowuje się:
 
@@ -2661,7 +3097,7 @@ Art. 67–69. (pominięte)
 6. Minister właściwy do spraw transportu, po uzyskaniu opinii Prezesa UTK, określi, w drodze rozporządzenia:
 
 - **1)** sposób prowadzenia rejestru, o którym mowa w art. 25x ust. 1, oraz jego aktualizacji, w tym wprowadzania, zmiany, udostępniania i usuwania danych,
-- **2)** wymagania techniczne i jakościowe w zakresie danych wprowadzanych do rejestru, o którym mowa w art. 25x ust. 1 zadań wynikających z ustawy oraz zapewnienie wysokiej jakości danych zawartych w rejestrze, o którym mowa w art. 25x ust. 1, i jego referencyjny charakter.
+- **2)** wymagania techniczne i jakościowe w zakresie danych wprowadzanych do rejestru, o którym mowa w art. 25x ust. 1 – mając na względzie prawidłowość wykonywania przez poszczególne podmioty zadań wynikających z ustawy oraz zapewnienie wysokiej jakości danych zawartych w rejestrze, o którym mowa w art. 25x ust. 1, i jego referencyjny charakter.
 
 7. Dane, o których mowa w ust. 1, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
 
@@ -2688,7 +3124,9 @@ Art. 67–69. (pominięte)
 
 6. Przewodniczącego Komisji powołuje minister właściwy do spraw wewnętrznych.
 
-6a. Przewodniczący Komisji kieruje jej pracami i reprezentuje Komisję na zewnątrz. minister właściwy do spraw wewnętrznych, na wniosek przewodniczącego Komisji.
+6a. Przewodniczący Komisji kieruje jej pracami i reprezentuje Komisję na zewnątrz.
+
+7. Zastępców przewodniczącego i sekretarza Komisji powołuje i odwołuje minister właściwy do spraw wewnętrznych, na wniosek przewodniczącego Komisji.
 
 8. Członka stałego Komisji powołuje minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii przewodniczącego Komisji.
 
@@ -2718,7 +3156,7 @@ Art. 67–69. (pominięte)
 - **5)** elektroenergetyki kolejowej;
 - **6)** przewozu koleją towarów niebezpiecznych.
 
-13. Za specjalistów z danego zakresu uważa się osoby posiadające wykształcenie wyższe, odpowiednie uprawnienia oraz co najmniej pięcioletnią praktykę zawodową w danej dziedzinie lub osoby posiadające wykształcenie średnie lub średnie branżowe, w danej dziedzinie.
+13. Za specjalistów z danego zakresu uważa się osoby posiadające wykształcenie wyższe, odpowiednie uprawnienia oraz co najmniej pięcioletnią praktykę zawodową w danej dziedzinie lub osoby posiadające wykształcenie średnie lub średnie branżowe, odpowiednie uprawnienia oraz co najmniej dziesięcioletnią praktykę zawodową w danej dziedzinie.
 
 13a. Komisja podejmuje rozstrzygnięcia w formie uchwały.
 
@@ -2748,7 +3186,7 @@ Art. 67–69. (pominięte)
 
 6. W razie zaistnienia poważnego wypadku, wypadku lub incydentu odpoczynek, o którym mowa w art. 133 Kodeksu pracy, może być udzielony w ciągu 7 dni od dnia, w którym ten odpoczynek był przewidziany.
 
-7. Członek Komisji pozostaje poza normalnymi godzinami pracy w gotowości do podjęcia czynności badawczych (dyżur). Za czas dyżuru przysługuje wynagrodzenie w wysokości wynikającej z liczby godzin pozostawania na dyżurze zasadniczego członka Komisji.
+7. Członek Komisji pozostaje poza normalnymi godzinami pracy w gotowości do podjęcia czynności badawczych (dyżur). Za czas dyżuru przysługuje wynagrodzenie w wysokości wynikającej z liczby godzin pozostawania na dyżurze pomnożonej przez 30 % stawki godzinowej wynikającej z wynagrodzenia zasadniczego członka Komisji.
 
 8. W momencie powiadomienia o konieczności przystąpienia do czynności badawczych członek Komisji jest obowiązany do niezwłocznego podjęcia tych czynności.
 
@@ -2770,7 +3208,9 @@ Art. 67–69. (pominięte)
 
 2b. Członek Komisji jest obowiązany do zwrotu legitymacji z dniem jego odwołania albo z dniem upływu terminu ważności legitymacji.
 
-3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór legitymacji członka Komisji, mając na uwadze konieczność umieszczenia danych niezbędnych do identyfikacji tych osób. regulamin działania Komisji, liczbę jej członków stałych oraz strukturę organizacyjną, uwzględniając charakter wykonywanych przez nią zadań i konieczność zapewnienia odpowiednich zasobów niezbędnych do prawidłowej realizacji zadań Komisji.
+3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór legitymacji członka Komisji, mając na uwadze konieczność umieszczenia danych niezbędnych do identyfikacji tych osób.
+
+4. Minister właściwy do spraw wewnętrznych określi, w drodze zarządzenia, regulamin działania Komisji, liczbę jej członków stałych oraz strukturę organizacyjną, uwzględniając charakter wykonywanych przez nią zadań i konieczność zapewnienia odpowiednich zasobów niezbędnych do prawidłowej realizacji zadań Komisji.
 
 **Art. 28e.**
 
@@ -2795,7 +3235,7 @@ Art. 67–69. (pominięte)
 
 1. Zakres postępowania i procedury ustala Komisja w zależności od wniosków, jakie zamierza uzyskać z poważnego wypadku, wypadku lub incydentu w celu poprawy bezpieczeństwa, z uwzględnieniem przepisów art. 28h, 28j i 28k.
 
-2. Postępowanie jest prowadzone przez Komisję niezależnie od prowadzonych w tym samym czasie postępowań karnych lub innych postępowań mających na celu opóźniać badania poważnego wypadku, wypadku lub incydentu prowadzonego przez Komisję.
+2. Postępowanie jest prowadzone przez Komisję niezależnie od prowadzonych w tym samym czasie postępowań karnych lub innych postępowań mających na celu ustalenie winy lub odpowiedzialności. Postępowania te nie mogą uniemożliwiać lub opóźniać badania poważnego wypadku, wypadku lub incydentu prowadzonego przez Komisję.
 
 3. Postępowania prowadzone przez Komisję nie rozstrzygają o winie lub odpowiedzialności.
 
@@ -2818,7 +3258,9 @@ Art. 67–69. (pominięte)
 
 1a. W związku z badaniem poważnych wypadków, wypadków lub incydentów Komisja jest uprawniona do przetwarzania danych osobowych, o których mowa w art. 9 ust. 1 rozporządzenia 2016/679, w zakresie danych dotyczących zdrowia.
 
-1b. Komisja wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, przy pierwszej czynności skierowanej do osoby, której dane dotyczą, chyba że informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, są w posiadaniu tej osoby, a zakres tych informacji lub ich treść nie uległy zmianie. upoważnieni do:
+1b. Komisja wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, przy pierwszej czynności skierowanej do osoby, której dane dotyczą, chyba że informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, są w posiadaniu tej osoby, a zakres tych informacji lub ich treść nie uległy zmianie.
+
+2. Członkowie Komisji, po okazaniu legitymacji członka Komisji, są upoważnieni do:
 
 - **1)** natychmiastowego dostępu do miejsca wypadku lub incydentu, pojazdów kolejowych, ich wraków i zawartości oraz urządzeń i budynków związanych z prowadzeniem ruchu kolejowego;
 - **2)** natychmiastowego dostępu do protokołów oględzin i otwarcia zwłok ofiar śmiertelnych poważnych wypadków;
@@ -2834,7 +3276,7 @@ Art. 67–69. (pominięte)
 
 3. Komisja powinna po przeprowadzeniu niezbędnych badań i czynności w możliwie najkrótszym czasie umożliwić zarządcy udostępnienie infrastruktury kolejowej dla ruchu kolejowego.
 
-3a. W przypadku postępowań dotyczących pojazdów kolejowych posiadających zezwolenie na wprowadzenie do obrotu wydane przez Agencję lub przewoźników może zwrócić się do Agencji w celu przedstawienia przez nią wyjaśnień lub przekazania niezbędnych informacji, dokumentów i zapisów dotyczących tych pojazdów kolejowych lub przewoźników kolejowych.
+3a. W przypadku postępowań dotyczących pojazdów kolejowych posiadających zezwolenie na wprowadzenie do obrotu wydane przez Agencję lub przewoźników kolejowych, którym Agencja wydała jednolity certyfikat bezpieczeństwa, Komisja może zwrócić się do Agencji w celu przedstawienia przez nią wyjaśnień lub przekazania niezbędnych informacji, dokumentów i zapisów dotyczących tych pojazdów kolejowych lub przewoźników kolejowych.
 
 4. W celu zapewnienia poufności prowadzonego badania w sprawie poważnego wypadku, wypadku lub incydentu uzyskane przez Komisję:
 
@@ -2848,7 +3290,9 @@ Art. 67–69. (pominięte)
 
 **Art. 28j.**
 
-1. W przypadku gdy nie ma możliwości ustalenia, w którym państwie wydarzył się poważny wypadek, wypadek lub incydent, lub jeżeli wydarzył się na granicy lub w jej pobliżu, Komisja uzgadnia z właściwymi podmiotami prowadzącymi postępowanie w sprawie poważnych wypadków, wypadków lub incydentów w innych państwach członkowskich Unii Europejskiej, który z podmiotów prowadzi postępowanie, lub uzgadnia prowadzenie postępowania we współpracy. przeprowadzono uzgodnienia, o których mowa w ust. 1, ma prawo do udziału w postępowaniu i do uzyskania jego pełnych wyników.
+1. W przypadku gdy nie ma możliwości ustalenia, w którym państwie wydarzył się poważny wypadek, wypadek lub incydent, lub jeżeli wydarzył się na granicy lub w jej pobliżu, Komisja uzgadnia z właściwymi podmiotami prowadzącymi postępowanie w sprawie poważnych wypadków, wypadków lub incydentów w innych państwach członkowskich Unii Europejskiej, który z podmiotów prowadzi postępowanie, lub uzgadnia prowadzenie postępowania we współpracy.
+
+2. W przypadku prowadzenia postępowania przez Komisję podmiot, z którym przeprowadzono uzgodnienia, o których mowa w ust. 1, ma prawo do udziału w postępowaniu i do uzyskania jego pełnych wyników.
 
 3. Komisja zaprasza do udziału w postępowaniu podmioty prowadzące postępowanie w sprawie poważnych wypadków, wypadków lub incydentów z państw członkowskich Unii Europejskiej, jeżeli:
 
@@ -2861,7 +3305,7 @@ Art. 67–69. (pominięte)
 
 1. Komisja prowadzi postępowanie w sposób pozwalający na wysłuchanie uczestników, świadków i innych zainteresowanych oraz umożliwia im dostęp do wyników postępowania.
 
-2. O prowadzonym postępowaniu i jego postępach Komisja informuje właściwego zarządcę, przewoźnika kolejowego, użytkownika bocznicy kolejowej, Agencję, Prezesa UTK, organ prowadzący postępowanie przygotowawcze, poszkodowanych, osoby bliskie ofiarom śmiertelnym, właścicieli zniszczonego mienia, producentów, służby ratunkowe oraz innych zainteresowanych w miarę możliwości, umożliwiając im przedkładanie opinii lub informacji w sprawie ust. 1, 5a i 6.
+2. O prowadzonym postępowaniu i jego postępach Komisja informuje właściwego zarządcę, przewoźnika kolejowego, użytkownika bocznicy kolejowej, Agencję, Prezesa UTK, organ prowadzący postępowanie przygotowawcze, poszkodowanych, osoby bliskie ofiarom śmiertelnym, właścicieli zniszczonego mienia, producentów, służby ratunkowe oraz innych zainteresowanych w miarę możliwości, umożliwiając im przedkładanie opinii lub informacji w sprawie postępowania i wnoszenie uwag do projektów raportów, o których mowa w art. 28l ust. 1, 5a i 6.
 
 **Art. 28l.**
 
@@ -2888,7 +3332,9 @@ Art. 67–69. (pominięte)
 
 8. Zalecenia, o których mowa w ust. 1, 1a i 6, są kierowane do Prezesa UTK, a w uzasadnionych przypadkach do Agencji i innych zainteresowanych podmiotów, w tym podmiotów w innych państwach członkowskich Unii Europejskiej.
 
-8a. Prezes UTK dokonuje analizy skierowanych do niego zaleceń uwzględniając konieczność zapewnienia systemowego podejścia do zarządzania bezpieczeństwem i minimalizacji ryzyka w transporcie kolejowym. przekazać je w całości albo w części do realizacji zarządcom, przewoźnikom kolejowym lub innym podmiotom, których działalność ma wpływ na bezpieczeństwo ruchu kolejowego i bezpieczeństwo eksploatacji kolei, podlegającym regulacji na podstawie przepisów ustawy. Prezes UTK informuje Komisję o sposobie postępowania z jej zaleceniami.
+8a. Prezes UTK dokonuje analizy skierowanych do niego zaleceń uwzględniając konieczność zapewnienia systemowego podejścia do zarządzania bezpieczeństwem i minimalizacji ryzyka w transporcie kolejowym.
+
+8b. Prezes UTK może uwzględnić zalecenia i przyjąć je do realizacji lub przekazać je w całości albo w części do realizacji zarządcom, przewoźnikom kolejowym lub innym podmiotom, których działalność ma wpływ na bezpieczeństwo ruchu kolejowego i bezpieczeństwo eksploatacji kolei, podlegającym regulacji na podstawie przepisów ustawy. Prezes UTK informuje Komisję o sposobie postępowania z jej zaleceniami.
 
 9. Prezes UTK sprawuje nadzór nad realizacją zaleceń przez podmioty, o których mowa w ust. 8b.
 
@@ -2908,7 +3354,9 @@ Art. 67–69. (pominięte)
 
 1. Postępowania w sprawach wypadków i incydentów prowadzi komisja kolejowa.
 
-2. W przypadku podjęcia przez Komisję postępowania w sprawie wypadku lub incydentu, o których mowa w art. 28e ust. 2 lub 2a, komisja kolejowa przekazuje Komisji prowadzenie postępowania. przewoźników kolejowych, zarządców lub użytkowników bocznic kolejowych, których pojazdy kolejowe lub zatrudnione osoby uczestniczyły w poważnym wypadku, wypadku lub incydencie lub których infrastruktura kolejowa ma związek z tym poważnym wypadkiem, wypadkiem lub incydentem.
+2. W przypadku podjęcia przez Komisję postępowania w sprawie wypadku lub incydentu, o których mowa w art. 28e ust. 2 lub 2a, komisja kolejowa przekazuje Komisji prowadzenie postępowania.
+
+3. W skład komisji kolejowych wchodzą w szczególności przedstawiciele przewoźników kolejowych, zarządców lub użytkowników bocznic kolejowych, których pojazdy kolejowe lub zatrudnione osoby uczestniczyły w poważnym wypadku, wypadku lub incydencie lub których infrastruktura kolejowa ma związek z tym poważnym wypadkiem, wypadkiem lub incydentem.
 
 4. (uchylony)
 
@@ -2918,7 +3366,7 @@ Art. 67–69. (pominięte)
 
 #### Rozdział 5b Przewozy kolejowe o charakterze użyteczności publicznej
 
-**Art. 28p.** Umowy o świadczenie usług publicznych zawierane są przez organizatorów publicznego transportu kolejowego wyłącznie na podstawie i w zakresie określonym w obowiązujących planach transportowych. Art. 28pa. 1. Prezes UTK opiniuje projekt planu transportowego, w zakresie kolejowych przewozów pasażerskich, w terminie 21 dni od dnia jego doręczenia. 2. Organizator publicznego transportu kolejowego przekazuje Prezesowi UTK projekt planu transportowego przed jego uchwaleniem lub wydaniem wraz z dokumentacją stanowiącą podstawę oceny uwarunkowań, o których mowa w art. 12 ust. 2 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, w zakresie określonym przez Prezesa UTK. 3. Niezajęcie stanowiska w terminie, o którym mowa w ust. 1, uznaje się za pozytywne zaopiniowanie projektu planu transportowego. Art. 28pb. 1. Prezes UTK opiniuje, pod względem zgodności z planem transportowym, projekt umowy o świadczenie usług publicznych w zakresie kolejowych przewozów pasażerskich, w terminie 21 dni od dnia jego doręczenia. 2. Organizator publicznego transportu kolejowego przekazuje do zaopiniowania Prezesowi UTK projekt umowy, o której mowa w ust. 1, na 30 dni przed wszczęciem postępowania o udzielenie zamówienia publicznego w trybie przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz umowy koncesji w trybie przepisów ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2023 r. poz. 140 oraz z 2025 r. poz. 620, 794, 1165 i 1173) albo przed bezpośrednim zawarciem umowy, o której mowa w art. 22 ust. 1 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym. 3. Niezajęcie stanowiska w terminie, o którym mowa w ust. 1, uznaje się za pozytywne zaopiniowanie projektu umowy o świadczenie usług publicznych w zakresie kolejowych przewozów pasażerskich. 4. Organizator publicznego transportu kolejowego przekazuje Prezesowi UTK, potwierdzoną za zgodność z oryginałem przez tego organizatora, kopię umowy o świadczenie usług publicznych w zakresie kolejowych przewozów pasażerskich, w terminie 7 dni od dnia jej zawarcia.
+**Art. 28p.** Umowy o świadczenie usług publicznych zawierane są przez organizatorów publicznego transportu kolejowego wyłącznie na podstawie i w zakresie określonym w obowiązujących planach transportowych. Art. 28pa. 1. Prezes UTK opiniuje projekt planu transportowego, w zakresie kolejowych przewozów pasażerskich, w terminie 21 dni od dnia jego doręczenia. 2. Organizator publicznego transportu kolejowego przekazuje Prezesowi UTK projekt planu transportowego przed jego uchwaleniem lub wydaniem wraz z dokumentacją stanowiącą podstawę oceny uwarunkowań, o których mowa w art. 12 ust. 2 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, w zakresie określonym przez Prezesa UTK. 3. Niezajęcie stanowiska w terminie, o którym mowa w ust. 1, uznaje się za pozytywne zaopiniowanie projektu planu transportowego. Art. 28pb. 1. Prezes UTK opiniuje, pod względem zgodności z planem transportowym, projekt umowy o świadczenie usług publicznych w zakresie kolejowych przewozów pasażerskich, w terminie 21 dni od dnia jego doręczenia. 2. Organizator publicznego transportu kolejowego przekazuje do zaopiniowania Prezesowi UTK projekt umowy, o której mowa w ust. 1, na 30 dni przed wszczęciem postępowania o udzielenie zamówienia publicznego w trybie przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620, 769, 794, 1165 i 1173) lub wszczęciem postępowania o zawarcie umowy koncesji w trybie przepisów ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2023 r. poz. 140 oraz z 2025 r. poz. 620, 794, 1165 i 1173) albo przed bezpośrednim zawarciem umowy, o której mowa w art. 22 ust. 1 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym. 3. Niezajęcie stanowiska w terminie, o którym mowa w ust. 1, uznaje się za pozytywne zaopiniowanie projektu umowy o świadczenie usług publicznych w zakresie kolejowych przewozów pasażerskich. 4. Organizator publicznego transportu kolejowego przekazuje Prezesowi UTK, potwierdzoną za zgodność z oryginałem przez tego organizatora, kopię umowy o świadczenie usług publicznych w zakresie kolejowych przewozów pasażerskich, w terminie 7 dni od dnia jej zawarcia.
 
 #### Rozdział 5c
 
@@ -2938,7 +3386,9 @@ Art. 67–69. (pominięte)
 - **3)** umożliwieniu przewoźnikowi kolejowemu wskazanemu przez aplikanta wykorzystania przydzielonej zdolności przepustowej;
 - **4)** umożliwieniu przewoźnikowi kolejowemu skorzystania z pozostałych usług, o których mowa w ust. 1 załącznika nr 2 do ustawy.
 
-2. Przydzielenie zdolności przepustowej polega na określeniu przedziału czasu zarezerwowanego dla aplikanta w celu umożliwienia przejazdu lub postoju pojazdów kolejowych. polegać na określeniu przedziału czasu, w którym zarządca umożliwi aplikantowi wykonanie manewrów.
+2. Przydzielenie zdolności przepustowej polega na określeniu przedziału czasu zarezerwowanego dla aplikanta w celu umożliwienia przejazdu lub postoju pojazdów kolejowych.
+
+3. Przydzielenie zdolności przepustowej dla wykonania manewrów może polegać na określeniu przedziału czasu, w którym zarządca umożliwi aplikantowi wykonanie manewrów.
 
 **Art. 29a.**
 
@@ -2953,11 +3403,15 @@ Art. 67–69. (pominięte)
 
 **Art. 29b.** Zarządca może, po konsultacji z zainteresowanymi stronami, wskazać odcinki linii kolejowych, na których określony rodzaj przewozów będzie uprzywilejowany, pod warunkiem:
 
+- **1)** zapewnienia dla pozostałych pociągów tras alternatywnych umożliwiających realizację przewozu z tej samej stacji początkowej i do tej samej stacji końcowej, z uwzględnieniem zastępowalności obu tras w związku ze świadczeniem przez przewoźnika kolejowego usług przewozu towarowego lub pasażerskiego;
+- **2)** zapewnienia możliwości wykorzystania pozostałej zdolności przepustowej przez pozostałe pociągi;
+- **3)** uzyskania zgody Prezesa UTK.
+
 **Art. 29c.**
 
 1. Regularny przewóz kolejowy osób niebędący przewozem o charakterze użyteczności publicznej jest wykonywany na podstawie decyzji o przyznaniu otwartego dostępu albo decyzji o przyznaniu ograniczonego dostępu.
 
-2. Aplikant, który zamierza wystąpić o przydzielenie zdolności przepustowej w celu wykonywania przewozu, o którym mowa w ust. 1, na trasie, na której są wykonywane przewozy na podstawie umowy o świadczenie usług w zakresie publicznego transportu zbiorowego, informuje o tym właściwego zarządcę oraz Prezesa UTK za pomocą standardowego formularza powiadomienia, o którym mowa w art. 4 ust. 2 rozporządzenia wykonawczego Komisji (UE) 2018/1795 z dnia 20 listopada ekonomicznej zgodnie z art. 11 dyrektywy Parlamentu Europejskiego i Rady 2012/34/UE (Dz. Urz. UE L 294 z 21.11.2018, str. 5), nie później niż w terminie 18 miesięcy przed dniem wejścia w życie rozkładu jazdy pociągów, którego będzie dotyczył wniosek o przydzielenie zdolności przepustowej.
+2. Aplikant, który zamierza wystąpić o przydzielenie zdolności przepustowej w celu wykonywania przewozu, o którym mowa w ust. 1, na trasie, na której są wykonywane przewozy na podstawie umowy o świadczenie usług w zakresie publicznego transportu zbiorowego, informuje o tym właściwego zarządcę oraz Prezesa UTK za pomocą standardowego formularza powiadomienia, o którym mowa w art. 4 ust. 2 rozporządzenia wykonawczego Komisji (UE) 2018/1795 z dnia 20 listopada 2018 r. ustanawiającego procedurę i kryteria do celów stosowania badania równowagi ekonomicznej zgodnie z art. 11 dyrektywy Parlamentu Europejskiego i Rady 2012/34/UE (Dz. Urz. UE L 294 z 21.11.2018, str. 5), nie później niż w terminie 18 miesięcy przed dniem wejścia w życie rozkładu jazdy pociągów, którego będzie dotyczył wniosek o przydzielenie zdolności przepustowej.
 
 3. Prezes UTK, nie później niż przed upływem 10 dni od dnia otrzymania informacji o zamiarze wykonywania regularnego przewozu osób, o której mowa w ust. 2, przekazuje tę informację organizatorowi publicznego transportu kolejowego i przewoźnikowi kolejowemu, którzy zawarli umowę o świadczenie usług w zakresie publicznego transportu zbiorowego na trasie, o której mowa w ust. 2.
 
@@ -2968,7 +3422,10 @@ Art. 67–69. (pominięte)
 6. Jeżeli w wyniku przeprowadzonego badania, o którym mowa w ust. 4, Prezes UTK oceni, że proponowane połączenie pasażerskie zagraża równowadze ekonomicznej umowy o świadczenie usług w zakresie publicznego transportu zbiorowego, uwzględniając stopień naruszenia równowagi ekonomicznej tej umowy, wydaje decyzję:
 
 - **1)** o przyznaniu ograniczonego dostępu,
-- **2)** odmawiającą przyznania otwartego dostępu – wskazując zakres zmian w planowanym przewozie osób, w szczególności dotyczący zmiany częstotliwości, tras, stacji pośrednich lub harmonogramu, które zapewniłyby spełnienie warunków przyznania otwartego dostępu. dostępu określa się w szczególności:
+- **2)** odmawiającą przyznania otwartego dostępu – wskazując zakres zmian w planowanym przewozie osób, w szczególności dotyczący zmiany częstotliwości, tras, stacji pośrednich lub harmonogramu, które zapewniłyby spełnienie warunków przyznania otwartego dostępu.
+
+7. W decyzji o przyznaniu otwartego dostępu albo o przyznaniu ograniczonego dostępu określa się w szczególności:
+
 - **1)** aplikanta, jego siedzibę i adres;
 - **2)** trasy, na których mają być realizowane przewozy;
 - **3)** okres, na jaki decyzja zostaje wydana;
@@ -2996,7 +3453,9 @@ Art. 67–69. (pominięte)
 2. Umowa, o której mowa w ust. 1, określa w szczególności:
 
 - **1)** prawa i obowiązki zarządcy i aplikanta w odniesieniu do przydzielonej zdolności przepustowej;
-- **2)** sposób i terminy przekazywania zarządcy informacji o przewoźniku kolejowym uprawnionym do wykorzystania zdolności przepustowej, która zostanie przydzielona aplikantowi. dotyczące gwarancji finansowych na zabezpieczenie płatności. Wymagania te muszą być odpowiednie, przejrzyste i niedyskryminacyjne.
+- **2)** sposób i terminy przekazywania zarządcy informacji o przewoźniku kolejowym uprawnionym do wykorzystania zdolności przepustowej, która zostanie przydzielona aplikantowi.
+
+3. Zarządca może określić w umowie, o której mowa w ust. 1, wymagania dotyczące gwarancji finansowych na zabezpieczenie płatności. Wymagania te muszą być odpowiednie, przejrzyste i niedyskryminacyjne.
 
 4. W zakresie kolejowych przewozów osób innych niż przewozy okazjonalne zarządca zawiera umowę o przydzielenie zdolności przepustowej w takim zakresie, w jakim aplikant zawarł umowę o świadczenie usług publicznych, przedstawił oświadczenie organizatora publicznego transportu kolejowego o zamiarze objęcia pociągów umową o świadczenie usług publicznych albo uzyskał decyzję o przyznaniu otwartego dostępu albo decyzję o przyznaniu ograniczonego dostępu.
 
@@ -3020,7 +3479,9 @@ Art. 67–69. (pominięte)
 
 2. Wniosek o przydzielenie zdolności przepustowej na więcej niż jednej sieci kolejowej aplikant składa do jednego z zarządców, których sieci wniosek dotyczy.
 
-3. Kopię wniosku, o którym mowa w ust. 2, zarządca, który go otrzymał, przekazuje do rozpatrzenia pozostałym zarządcom, których wniosek dotyczy. przydzielenia zdolności przepustowej, współpracuje z pozostałymi zarządcami w imieniu aplikanta.
+3. Kopię wniosku, o którym mowa w ust. 2, zarządca, który go otrzymał, przekazuje do rozpatrzenia pozostałym zarządcom, których wniosek dotyczy.
+
+4. Zarządca, który otrzymał wniosek, o którym mowa w ust. 2, do czasu przydzielenia zdolności przepustowej, współpracuje z pozostałymi zarządcami w imieniu aplikanta.
 
 **Art. 30.**
 
@@ -3038,7 +3499,9 @@ Art. 67–69. (pominięte)
 
 6. Zarządca, w terminie 6 miesięcy od dnia powiadomienia, o którym mowa w ust. 4, jest obowiązany dokonać analizy zdolności przepustowej odcinka linii kolejowej o niewystarczającej zdolności przepustowej i przedłożyć jej wyniki Prezesowi UTK.
 
-7. Zarządca, w terminie 6 miesięcy od dnia przedłożenia wyników analizy zdolności przepustowej, po konsultacjach z przewoźnikami wykonującymi przewozy na odcinku linii kolejowej, którego analiza dotyczy, opracowuje plan powiększenia zdolności przepustowej i przedkłada go Prezesowi UTK. aplikanta:
+7. Zarządca, w terminie 6 miesięcy od dnia przedłożenia wyników analizy zdolności przepustowej, po konsultacjach z przewoźnikami wykonującymi przewozy na odcinku linii kolejowej, którego analiza dotyczy, opracowuje plan powiększenia zdolności przepustowej i przedkłada go Prezesowi UTK.
+
+8. Po opracowaniu rocznego rozkładu jazdy pociągów zarządca, na wniosek aplikanta:
 
 - **1)** może przydzielić dodatkową zdolność przepustową;
 - **2)** może zmodyfikować przydzieloną zdolność przepustową;
@@ -3067,7 +3530,9 @@ Art. 67–69. (pominięte)
 
 **Art. 30b.**
 
-1. Zdolność przepustowa przydzielona aplikantowi nie może być przekazana innemu aplikantowi. kolejowym, nie może być wykorzystana do realizacji innego rodzaju przewozów, niż wskazany we wniosku o przydzielenie zdolności przepustowej.
+1. Zdolność przepustowa przydzielona aplikantowi nie może być przekazana innemu aplikantowi.
+
+2. Zdolność przepustowa przydzielona aplikantowi, który nie jest przewoźnikiem kolejowym, nie może być wykorzystana do realizacji innego rodzaju przewozów, niż wskazany we wniosku o przydzielenie zdolności przepustowej.
 
 3. Aplikant może wskazać różnych przewoźników kolejowych uprawnionych do wykorzystania zdolności przepustowej przydzielonej na podstawie poszczególnych wniosków.
 
@@ -3091,7 +3556,9 @@ Art. 67–69. (pominięte)
 
 **Art. 30d.**
 
-1. W przypadku gdy przewoźnik i zarządca nie dojdą do porozumienia w zakresie postanowień umowy o wykorzystanie zdolności przepustowej, Prezes UTK, na wniosek zarządcy lub przewoźnika kolejowego, wydaje decyzję w sprawie wykorzystania zdolności przepustowej, która zastępuje umowę o wykorzystanie zdolności przepustowej. zdolności przepustowej oraz aktualne stanowiska stron, z zaznaczeniem tych części umowy, co do których strony nie doszły do porozumienia.
+1. W przypadku gdy przewoźnik i zarządca nie dojdą do porozumienia w zakresie postanowień umowy o wykorzystanie zdolności przepustowej, Prezes UTK, na wniosek zarządcy lub przewoźnika kolejowego, wydaje decyzję w sprawie wykorzystania zdolności przepustowej, która zastępuje umowę o wykorzystanie zdolności przepustowej.
+
+2. Wniosek, o którym mowa w ust. 1, zawiera projekt umowy o wykorzystanie zdolności przepustowej oraz aktualne stanowiska stron, z zaznaczeniem tych części umowy, co do których strony nie doszły do porozumienia.
 
 3. Prezes UTK wydaje decyzję w sprawie wykorzystania zdolności przepustowej, określając w niej warunki umowy ustalone przez strony oraz dokonując rozstrzygnięć w tych częściach, w których strony nie doszły do porozumienia.
 
@@ -3118,7 +3585,9 @@ Art. 67–69. (pominięte)
 
 1. Zarządca monitoruje punktualność pociągów.
 
-2. Zarządca, w uzgodnieniu z przewoźnikami kolejowymi, ustala wielkość opóźnień pociągów z podziałem na ich przyczyny. wypłaca przewoźnikowi kolejowemu, którego pociąg został opóźniony, rekompensatę.
+2. Zarządca, w uzgodnieniu z przewoźnikami kolejowymi, ustala wielkość opóźnień pociągów z podziałem na ich przyczyny.
+
+3. Przewoźnik kolejowy lub zarządca, który powoduje opóźnienie pociągu, wypłaca przewoźnikowi kolejowemu, którego pociąg został opóźniony, rekompensatę.
 
 4. Zarządca opracowuje plan minimalizowania zakłóceń i poprawy wyników sieci kolejowej, zwany dalej „planem wykonania”. Zarządca uzgadnia z przewoźnikami kolejowymi szczegóły planu wykonania, w tym:
 
@@ -3142,7 +3611,21 @@ Art. 67–69. (pominięte)
 
 7. Przepisów ust. 1–6 nie stosuje się do pociągów uruchomionych na podstawie wniosków o przydzielenie tras pociągów, o których mowa w art. 30 ust. 10.
 
-**Art. 30g.** Zarządca opracowuje procedury rozwiązywania sporów dotyczących przydzielania zdolności przepustowej oraz planu wykonania zapewniające bezstronność w odniesieniu do biorących w nim udział stron oraz umożliwiające rozwiązanie sporu w terminie 10 dni roboczych. bezpieczeństwa ruchu kolejowego, bezpiecznego przewozu osób i rzeczy oraz ochrony środowiska, a także ochrony zabytków. 2. W przypadku wystąpienia zakłóceń w ruchu pociągów spowodowanych przez awarię techniczną lub wypadek zarządca podejmuje wszystkie konieczne kroki, aby przywrócić niezakłócony ruch pociągów. W tym celu opracowuje on plan postępowania uwzględniający organy, które należy poinformować w przypadku wystąpienia poważnych zdarzeń lub poważnych zakłóceń w ruchu pociągów. 2a. Jeżeli zakłócenia, o których mowa w ust. 2, mogą mieć wpływ na ruch transgraniczny na infrastrukturze kolejowej innych zarządców, zarządca współpracuje z nimi w celu przywrócenia niezakłóconego ruchu transgranicznego, w tym niezwłocznie przekazuje im informacje o tych zakłóceniach. 3. W nagłych przypadkach skutkujących ograniczeniem zdolności przepustowej, dostęp do przydzielonej zdolności przepustowej może zostać ograniczony bez uprzedzenia na tak długo, jak to jest konieczne do usunięcia zaistniałych skutków w niezbędnym zakresie. Zarządca może, jeżeli uzna to za konieczne, wymagać od przewoźników kolejowych, za opłatą, udostępnienia mu zasobów, które uważa za najbardziej odpowiednie do niezwłocznego przywrócenia niezakłóconego ruchu pociągów. 4. Zarządca niezwłocznie informuje zainteresowane strony o braku dostępności zdolności przepustowej w wyniku nieplanowanych prac w zakresie utrzymania infrastruktury kolejowej. 5. Zarządca, na żądanie Prezesa UTK, przekazuje mu niezwłocznie informacje dotyczące braku dostępności zdolności przepustowej w wyniku nieplanowanych prac w zakresie utrzymania infrastruktury kolejowej.
+**Art. 30g.** Zarządca opracowuje procedury rozwiązywania sporów dotyczących przydzielania zdolności przepustowej oraz planu wykonania zapewniające bezstronność w odniesieniu do biorących w nim udział stron oraz umożliwiające rozwiązanie sporu w terminie 10 dni roboczych.
+
+**Art. 30h.**
+
+1. Korzystanie z drogi kolejowej nie może naruszać zasad bezpieczeństwa ruchu kolejowego, bezpiecznego przewozu osób i rzeczy oraz ochrony środowiska, a także ochrony zabytków.
+
+2. W przypadku wystąpienia zakłóceń w ruchu pociągów spowodowanych przez awarię techniczną lub wypadek zarządca podejmuje wszystkie konieczne kroki, aby przywrócić niezakłócony ruch pociągów. W tym celu opracowuje on plan postępowania uwzględniający organy, które należy poinformować w przypadku wystąpienia poważnych zdarzeń lub poważnych zakłóceń w ruchu pociągów.
+
+2a. Jeżeli zakłócenia, o których mowa w ust. 2, mogą mieć wpływ na ruch transgraniczny na infrastrukturze kolejowej innych zarządców, zarządca współpracuje z nimi w celu przywrócenia niezakłóconego ruchu transgranicznego, w tym niezwłocznie przekazuje im informacje o tych zakłóceniach.
+
+3. W nagłych przypadkach skutkujących ograniczeniem zdolności przepustowej, dostęp do przydzielonej zdolności przepustowej może zostać ograniczony bez uprzedzenia na tak długo, jak to jest konieczne do usunięcia zaistniałych skutków w niezbędnym zakresie. Zarządca może, jeżeli uzna to za konieczne, wymagać od przewoźników kolejowych, za opłatą, udostępnienia mu zasobów, które uważa za najbardziej odpowiednie do niezwłocznego przywrócenia niezakłóconego ruchu pociągów.
+
+4. Zarządca niezwłocznie informuje zainteresowane strony o braku dostępności zdolności przepustowej w wyniku nieplanowanych prac w zakresie utrzymania infrastruktury kolejowej.
+
+5. Zarządca, na żądanie Prezesa UTK, przekazuje mu niezwłocznie informacje dotyczące braku dostępności zdolności przepustowej w wyniku nieplanowanych prac w zakresie utrzymania infrastruktury kolejowej.
 
 **Art. 31.**
 
@@ -3150,7 +3633,9 @@ Art. 67–69. (pominięte)
 
 2. Umowa ramowa jest zawierana na okres nie dłuższy niż 5 lat i może być przedłużana na kolejne okresy 5-letnie.
 
-3. Zawarcie umowy ramowej na okres dłuższy niż 5 lat wymaga szczegółowego uzasadnienia przez aplikanta istniejącymi długoterminowymi umowami handlowymi, poniesionymi albo planowanymi inwestycjami lub ryzykiem. uzasadnionych przypadkach, w przypadku usług świadczonych z wykorzystaniem infrastruktury kolejowej wymagającej długoterminowych inwestycji.
+3. Zawarcie umowy ramowej na okres dłuższy niż 5 lat wymaga szczegółowego uzasadnienia przez aplikanta istniejącymi długoterminowymi umowami handlowymi, poniesionymi albo planowanymi inwestycjami lub ryzykiem.
+
+4. Umowy ramowe mogą być zawierane na okres 15 lat w wyjątkowych, uzasadnionych przypadkach, w przypadku usług świadczonych z wykorzystaniem infrastruktury kolejowej wymagającej długoterminowych inwestycji.
 
 4a. Umowy ramowe zawierane na okres dłuższy niż 15 lat mogą być zawierane jedynie w wyjątkowych przypadkach, w szczególności gdy usługi są świadczone z wykorzystaniem infrastruktury kolejowej wymagającej długoterminowych inwestycji na dużą skalę oraz gdy inwestycje takie objęte są zobowiązaniami umownymi, w tym wieloletnim planem amortyzacji.
 
@@ -3176,6 +3661,8 @@ Art. 67–69. (pominięte)
 
 1a. Co najmniej raz w roku PLK S.A. zapewnia, aby zainteresowani przewoźnicy kolejowi i aplikanci, a jeżeli jest to konieczne również przedstawiciele podmiotów korzystających z usług kolejowych przewozów towarowych lub pasażerskich oraz organów państwowych i organów jednostek samorządu terytorialnego, mieli możliwość przedstawienia pisemnych opinii dotyczących treści regulaminu sieci.
 
+1b. PLK S.A. ogłasza na swojej stronie internetowej:
+
 - **1)** skonsultowane z zainteresowanymi podmiotami lub organami wytyczne dotyczące trybu przedstawiania opinii, o których mowa w ust. 1a;
 - **2)** zestawienie opinii, o których mowa w ust. 1a, wraz z informacją o działaniach podjętych w związku z przedstawionymi opiniami, oraz przekazuje to zestawienie i tę informację do wiadomości Prezesa UTK.
 
@@ -3193,7 +3680,9 @@ Art. 67–69. (pominięte)
 
 2. Zarządca może pobierać od aplikantów opłatę za obsługę wniosku o przydzielenie zdolności przepustowej, jeżeli na podstawie wniosku nie została przydzielona zdolność przepustowa, z wyłączeniem sytuacji, gdy zdolność przepustowa nie została przydzielona z przyczyn leżących po stronie zarządcy. Opłata jest ustalana jako iloraz kosztów poniesionych przez zarządcę na obsługę wniosków o przydzielenie zdolności przepustowej i liczby wniosków złożonych w ostatnim zakończonym roku.
 
-3. Zarządca pobiera od aplikanta opłatę rezerwacyjną za niewykorzystanie przydzielonej zdolności przepustowej, jeżeli aplikant nie wskaże przewoźnika kolejowego, który ma wykorzystać przydzieloną zdolność przepustową, albo przewoźnik kolejowy wskazany przez aplikanta nie zawrze z zarządcą umowy o wykorzystanie zdolności przepustowej. Opłata jest ustalana jako procentowy udział opłaty, jaką poniósłby przewoźnik kolejowy za wykorzystanie przydzielonej aplikantowi zdolności przepustowej. Zarządca nie pobiera opłaty, jeżeli przewoźnik kolejowy wystąpił do Prezesa UTK o wydanie decyzji w sprawie wykorzystania zdolności przepustowej. ramach minimalnego dostępu do infrastruktury kolejowej, związane ze zrealizowanym przejazdem pociągu, zwaną dalej „opłatą podstawową”.
+3. Zarządca pobiera od aplikanta opłatę rezerwacyjną za niewykorzystanie przydzielonej zdolności przepustowej, jeżeli aplikant nie wskaże przewoźnika kolejowego, który ma wykorzystać przydzieloną zdolność przepustową, albo przewoźnik kolejowy wskazany przez aplikanta nie zawrze z zarządcą umowy o wykorzystanie zdolności przepustowej. Opłata jest ustalana jako procentowy udział opłaty, jaką poniósłby przewoźnik kolejowy za wykorzystanie przydzielonej aplikantowi zdolności przepustowej. Zarządca nie pobiera opłaty, jeżeli przewoźnik kolejowy wystąpił do Prezesa UTK o wydanie decyzji w sprawie wykorzystania zdolności przepustowej.
+
+4. Zarządca pobiera od przewoźnika kolejowego opłatę za usługi wykonane w ramach minimalnego dostępu do infrastruktury kolejowej, związane ze zrealizowanym przejazdem pociągu, zwaną dalej „opłatą podstawową”.
 
 5. Opłata podstawowa jest obliczana jako iloczyn przebiegu pociągu i stawki jednostkowej określonej dla przejazdu pociągu na odległość jednego kilometra.
 
@@ -3218,7 +3707,9 @@ Art. 67–69. (pominięte)
 - **3)** sposób ustalania stawki jednostkowej opłaty manewrowej;
 - **4)** sposób ustalania opłat rezerwacyjnych, o których mowa w ust. 3 i 11;
 - **5)** sposób ustalania opłat za postój pojazdów kolejowych;
-- **6)** opłaty, o których mowa w ust. 12, albo sposób ich ustalania. opracowaniu, umieszcza w regulaminie sieci oraz, nie później niż w terminie 9 miesięcy przed rozpoczęciem okresu obowiązywania rocznego rozkładu jazdy pociągów, przedkłada do zatwierdzenia Prezesowi UTK w części dotyczącej sposobu ustalania stawki jednostkowej opłaty podstawowej i manewrowej obejmującego kalkulację wysokości zastosowanych stawek cząstkowych i współczynników.
+- **6)** opłaty, o których mowa w ust. 12, albo sposób ich ustalania.
+
+14. Projekt cennika, o którym mowa w ust. 13, zarządca, niezwłocznie po jego opracowaniu, umieszcza w regulaminie sieci oraz, nie później niż w terminie 9 miesięcy przed rozpoczęciem okresu obowiązywania rocznego rozkładu jazdy pociągów, przedkłada do zatwierdzenia Prezesowi UTK w części dotyczącej sposobu ustalania stawki jednostkowej opłaty podstawowej i manewrowej obejmującego kalkulację wysokości zastosowanych stawek cząstkowych i współczynników.
 
 15. Prezes UTK w terminie 90 dni od dnia otrzymania projektu cennika, o którym mowa w ust. 13, w drodze decyzji, zatwierdza go w części dotyczącej sposobu ustalania stawki jednostkowej opłaty podstawowej i manewrowej albo odmawia jego zatwierdzenia w przypadku stwierdzenia jego niezgodności z obowiązującymi przepisami.
 
@@ -3236,8 +3727,9 @@ Art. 67–69. (pominięte)
 - **1)** informuje Prezesa UTK o swojej decyzji;
 - **2)** aktualizuje regulamin sieci w zakresie cennika, o którym mowa w ust. 13.
 
-20. W przypadku, o którym mowa w ust. 18 pkt 2, zarządca w terminie 30 dni od dnia doręczenia decyzji Prezesa UTK odmawiającej zatwierdzenia projektu cennika, o którym mowa w ust. 13: 13;
+20. W przypadku, o którym mowa w ust. 18 pkt 2, zarządca w terminie 30 dni od dnia doręczenia decyzji Prezesa UTK odmawiającej zatwierdzenia projektu cennika, o którym mowa w ust. 13:
 
+- **1)** przedstawia Prezesowi UTK poprawiony projekt cennika, o którym mowa w ust. 13;
 - **2)** aktualizuje regulamin sieci w zakresie projektu cennika.
 
 21. Jeżeli decyzja Prezesa UTK o zatwierdzeniu poprawionego projektu cennika, o którym mowa w ust. 20 pkt 1, zostanie podjęta w terminie późniejszym niż 30 dni przed rozpoczęciem okresu obowiązywania rocznego rozkładu jazdy:
@@ -3262,7 +3754,7 @@ Art. 67–69. (pominięte)
 
 - **2)** pobierać opłatę podstawową obniżoną o nie więcej niż 50 % wysokości tej opłaty.
 
-2. Zwolnienie z pobierania części opłaty podstawowej, opłaty rezerwacyjnej za niewykorzystanie przydzielonej zdolności przepustowej i obniżenie opłaty podstawowej stanowią pomoc publiczną podlegającą notyfikacji Komisji Europejskiej Europejskiej wydanej w wyniku notyfikacji.
+2. Zwolnienie z pobierania części opłaty podstawowej, opłaty rezerwacyjnej za niewykorzystanie przydzielonej zdolności przepustowej i obniżenie opłaty podstawowej stanowią pomoc publiczną podlegającą notyfikacji Komisji Europejskiej i mogą być udzielone zgodnie z postanowieniami zawartymi w decyzji Komisji Europejskiej wydanej w wyniku notyfikacji.
 
 **Art. 34.**
 
@@ -3297,7 +3789,9 @@ Art. 67–69. (pominięte)
 
 2. Zarządca informuje Prezesa UTK o rozpoczęciu negocjacji, o których mowa w ust. 1.
 
-3. Prezes UTK może żądać od zarządcy i aplikanta udzielenia wyjaśnień oraz przedstawienia dokumentów dotyczących negocjacji, o których mowa w ust. 1, a także może brać udział w spotkaniach negocjacyjnych zarządcy i aplikanta. negocjacji. Opinia jest doręczana zarządcy oraz aplikantowi.
+3. Prezes UTK może żądać od zarządcy i aplikanta udzielenia wyjaśnień oraz przedstawienia dokumentów dotyczących negocjacji, o których mowa w ust. 1, a także może brać udział w spotkaniach negocjacyjnych zarządcy i aplikanta.
+
+4. Prezes UTK jest uprawniony do wyrażenia opinii na temat prowadzonych negocjacji. Opinia jest doręczana zarządcy oraz aplikantowi.
 
 5. Po zakończonych negocjacjach zarządca informuje Prezesa UTK o ich wyniku.
 
@@ -3322,7 +3816,8 @@ Art. 67–69. (pominięte)
 2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw transportu uwzględni:
 
 - **1)** konieczność zapewnienia niedyskryminacyjnego traktowania aplikantów, w szczególności w zakresie regulaminu sieci;
-- **2)** odmienny sposób postępowania z wnioskami o przydzielenie zdolności przepustowej w przypadku opracowania rozkładu jazdy pociągu i jego zmiany; przepustowej w trybie przewidzianym dla rocznego rozkładu jazdy pociągów i pozostałymi wnioskami;
+- **2)** odmienny sposób postępowania z wnioskami o przydzielenie zdolności przepustowej w przypadku opracowania rozkładu jazdy pociągu i jego zmiany;
+- **3)** odmienny sposób postępowania z wnioskami o przydzielenie zdolności przepustowej w trybie przewidzianym dla rocznego rozkładu jazdy pociągów i pozostałymi wnioskami;
 - **4)** potrzebę jak najlepszego wykorzystania istniejącej zdolności przepustowej;
 - **5)** potrzebę prowadzenia prac utrzymaniowych skutkujących ograniczeniem zdolności przepustowej;
 - **6)** czas niezbędny na opracowanie rozkładu jazdy pociągów;
@@ -3346,6 +3841,8 @@ Art. 67–69. (pominięte)
 
 3. Zarządca, w przypadku gdy podejmie decyzję, o której mowa w ust. 1, lub decyzję, o której mowa w ust. 2, niezwłocznie informuje o tym Prezesa UTK.
 
+**Art. 36.** Przepisów art. 29–35 nie stosuje się do infrastruktury kolejowej:
+
 - **1)** przeznaczonej wyłącznie do przewozów osób wykonywanych przez przewoźnika kolejowego, który równocześnie zarządza tą infrastrukturą bez udostępniania jej innym przewoźnikom;
 - **2)** przeznaczonej do użytku właściciela w celu wykonywania przewozów rzeczy wyłącznie dla jego własnych potrzeb;
 - **3)** obejmującej linie kolejowe o szerokości torów innej niż 1435 mm.
@@ -3362,7 +3859,7 @@ Art. 67–69. (pominięte)
 
 4. Uprawnienie, o którym mowa w ust. 3, przysługuje również przewoźnikom kolejowym z innych państw członkowskich Unii Europejskiej w zakresie obiektów położonych na sieci kolejowej, do dostępu do której są uprawnieni.
 
-5. Jeżeli obiekt nie był wykorzystywany do świadczenia usług, o których mowa w ust. 2 załącznika nr 2 do ustawy, przez okres co najmniej dwóch kolejnych lat i przewoźnik kolejowy zgłosił zarządzającemu obiektem lub operatorowi obiektu zainteresowanie dostępem do tego obiektu, właściciel obiektu podaje do publicznej wiadomości, że obiekt jest przeznaczony do wynajęcia lub dzierżawy, w całości albo w części, w celu świadczenia usług w zakresie, w jakim przewoźnik kolejowy zgłosił zainteresowanie dostępem do tego obiektu, chyba że zarządzający obiektem lub możliwe, z uwagi na toczące się postępowanie restrukturyzacyjne.
+5. Jeżeli obiekt nie był wykorzystywany do świadczenia usług, o których mowa w ust. 2 załącznika nr 2 do ustawy, przez okres co najmniej dwóch kolejnych lat i przewoźnik kolejowy zgłosił zarządzającemu obiektem lub operatorowi obiektu zainteresowanie dostępem do tego obiektu, właściciel obiektu podaje do publicznej wiadomości, że obiekt jest przeznaczony do wynajęcia lub dzierżawy, w całości albo w części, w celu świadczenia usług w zakresie, w jakim przewoźnik kolejowy zgłosił zainteresowanie dostępem do tego obiektu, chyba że zarządzający obiektem lub operator obiektu wykaże, że użycie obiektu przez przewoźnika kolejowego nie jest możliwe, z uwagi na toczące się postępowanie restrukturyzacyjne.
 
 6. Jeżeli operator obiektu, zwany dalej „operatorem”, świadczy usługi, o których mowa w ust. 3 załącznika nr 2 do ustawy, świadczy je na równych i niedyskryminujących zasadach.
 
@@ -3386,7 +3883,7 @@ Art. 67–69. (pominięte)
 
 **Art. 36c.**
 
-1. Przewoźnik kolejowy nabywa prawo do korzystania z usług świadczonych w obiekcie po zawarciu z operatorem umowy określającej w świadczonymi usługami.
+1. Przewoźnik kolejowy nabywa prawo do korzystania z usług świadczonych w obiekcie po zawarciu z operatorem umowy określającej w szczególności prawa i obowiązki operatora i przewoźnika kolejowego związane ze świadczonymi usługami.
 
 2. W przypadku gdy operator jest zarządcą infrastruktury kolejowej udostępnianej na zasadach opisanych w rozdziale 6, może zawrzeć z przewoźnikiem kolejowym jedną umowę zamiast umowy, o której mowa w art. 30c ust. 2, oraz umowy, o której mowa w ust. 1, zawierającą wszystkie postanowienia wymagane tymi umowami.
 
@@ -3420,7 +3917,8 @@ Art. 67–69. (pominięte)
 
 3. Operator nie później niż na 2 tygodnie przed dniem publikacji regulaminu sieci, określonym w art. 32 ust. 3:
 
-- **1)** publikuje regulamin obiektu na swojej stronie internetowej; obiekt, regulamin obiektu albo informuje ich o adresie strony internetowej, na której regulamin obiektu został opublikowany.
+- **1)** publikuje regulamin obiektu na swojej stronie internetowej;
+- **2)** przekazuje Prezesowi UTK i zarządcy, z którego siecią kolejową jest połączony obiekt, regulamin obiektu albo informuje ich o adresie strony internetowej, na której regulamin obiektu został opublikowany.
 
 4. Prezes UTK, uwzględniając konieczność zapewnienia niedyskryminującego i równego traktowania przewoźników kolejowych ubiegających się o dostęp do obiektu, z urzędu lub na wniosek przewoźnika kolejowego, w drodze decyzji, nakazuje operatorowi wprowadzenie zmian w opublikowanym regulaminie obiektu, jeżeli regulamin obiektu nie spełnia wymagań określonych w przepisach niniejszego rozdziału.
 
@@ -3439,7 +3937,7 @@ Art. 67–69. (pominięte)
 2. W przypadku gdy:
 
 - **1)** funkcje operatora wykonuje przedsiębiorca, który jest jednocześnie przewoźnikiem kolejowym mającym pozycję dominującą, w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616 oraz z 2025 r. poz. 794), dla którego wykorzystuje się dany obiekt, albo
-- **2)** operator jest bezpośrednio lub pośrednio kontrolowany przez przedsiębiorcę, o którym mowa w pkt 1 organizacyjnym i decyzyjnym.
+- **2)** operator jest bezpośrednio lub pośrednio kontrolowany przez przedsiębiorcę, o którym mowa w pkt 1 – operator powinien być niezależny od przewoźnika kolejowego w zakresie organizacyjnym i decyzyjnym.
 
 3. W celu zapewnienia niezależności, o której mowa w ust. 2, operator:
 
@@ -3466,7 +3964,7 @@ Art. 67–69. (pominięte)
 
 3. Zarządzający obiektem przekazują Prezesowi UTK dane, o których mowa w ust. 2, w zakresie swojej właściwości.
 
-**Art. 36i.** Przepisów art. 36a–36h nie stosuje się do obiektów połączonych wyłącznie z infrastrukturą kolejową, w stosunku do której zastosowano przynajmniej obiektów, które są niezbędne do świadczenia usług przewozowych albo służą one lub mogą służyć więcej niż jednemu klientowi końcowemu.
+**Art. 36i.** Przepisów art. 36a–36h nie stosuje się do obiektów połączonych wyłącznie z infrastrukturą kolejową, w stosunku do której zastosowano przynajmniej jedno z wyłączeń, o których mowa w art. 35a ust. 1 pkt 1 i 3 albo art. 36, z wyjątkiem obiektów, które są niezbędne do świadczenia usług przewozowych albo służą one lub mogą służyć więcej niż jednemu klientowi końcowemu.
 
 #### Rozdział 6b Stacje pasażerskie i perony
 
@@ -3495,7 +3993,7 @@ Art. 67–69. (pominięte)
 
 1. Nazwę stacji pasażerskiej określa zarządca linii kolejowej, przy której stacja pasażerska jest położona. Jeżeli stacja pasażerska jest położona przy liniach kolejowych zarządzanych przez różnych zarządców, nazwę stacji określają wszyscy zarządcy w porozumieniu.
 
-2. Koszty zmiany nazwy stacji pasażerskiej ponosi wnioskodawca. art. 36l.
+2. Koszty zmiany nazwy stacji pasażerskiej ponosi wnioskodawca. Art. 36la. Do peronów stosuje się przepisy art. 36j ust. 1 pkt 1, art. 36k ust. 1 i art. 36l.
 
 **Art. 36m.**
 
@@ -3526,6 +4024,7 @@ Art. 67–69. (pominięte)
 - **5)** działania podejmowane w sytuacjach wyjątkowych i w trudnych warunkach;
 - **6)** tryb wyjaśniania przyczyn poważnych wypadków, wypadków i incydentów oraz ich skutków finansowych oraz sposób prowadzenia związanej z tym dokumentacji;
 - **7)** zasady wzajemnych rozliczeń;
+- **8)** tryb rozstrzygania sporów.
 
 3. Postanowienia umowy, o której mowa w ust. 1, nie mogą naruszać zasad bezpieczeństwa ruchu kolejowego oraz bezpiecznego przewozu osób i rzeczy.
 
@@ -3554,7 +4053,9 @@ Art. 67–69. (pominięte)
 2. Zarządcy wyodrębnią, w ramach prowadzonej rachunkowości:
 
 - **1)** (uchylony)
-- **2)** ewidencję kosztów linii kolejowych, z podziałem na koszty budowy, utrzymania, prowadzenia ruchu pociągów i administrowania tymi liniami. usług oferowanych przewoźnikom kolejowym.
+- **2)** ewidencję kosztów linii kolejowych, z podziałem na koszty budowy, utrzymania, prowadzenia ruchu pociągów i administrowania tymi liniami.
+
+2a. Zarządca opracowuje metodę alokacji kosztów do poszczególnych kategorii usług oferowanych przewoźnikom kolejowym.
 
 3. Dla działalności polegającej na zarządzaniu infrastrukturą kolejową oraz wykonywaniu przewozów kolejowych prowadzi się i publikuje oddzielne bilanse oraz rachunki zysków i strat dla każdego z tych rodzajów działalności. Środki publiczne wypłacone na jeden z tych dwóch rodzajów działalności nie mogą być przenoszone na drugi z nich.
 
@@ -3579,6 +4080,8 @@ Art. 67–69. (pominięte)
 2. Minister właściwy do spraw transportu, w celu zapewnienia porównywalności danych prezentowanych w rejestrach sporządzanych przez zarządców, może wydać wytyczne dotyczące zasad przygotowania rejestru.
 
 3. Wytyczne, o których mowa w ust. 2, minister właściwy do spraw transportu przygotowuje po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych i zarządców.
+
+4. Minister właściwy do spraw transportu:
 
 - **1)** podaje do publicznej wiadomości w Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw transportu treść wytycznych, o których mowa w ust. 2, a także ich zmian;
 - **2)** ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o miejscu publikacji wytycznych oraz ich zmian, a także o terminie, od którego wytyczne lub ich zmiany będą stosowane.
@@ -3606,7 +4109,7 @@ Art. 67–69. (pominięte)
 
 5. Inwestycje obejmujące pozostałe linie kolejowe, o których mowa w art. 6 ust. 1 pkt 2, finansowane są przez zarządcę; mogą być one dofinansowywane z budżetu państwa, budżetu jednostek samorządu terytorialnego oraz z innych źródeł.
 
-6. Ze środków publicznych mogą być finansowane lub współfinansowane wydatki w zakresie zakupu i modernizacji pojazdów kolejowych przeznaczonych do wykonywania przewozów pasażerskich oraz wydatki na budowę informatycznego różnych przewoźników, w tym biletu wspólnego.
+6. Ze środków publicznych mogą być finansowane lub współfinansowane wydatki w zakresie zakupu i modernizacji pojazdów kolejowych przeznaczonych do wykonywania przewozów pasażerskich oraz wydatki na budowę informatycznego systemu rozliczeń sprzedaży biletów na przejazd środkami transportu publicznego różnych przewoźników, w tym biletu wspólnego.
 
 6a. Ze środków publicznych mogą być finansowane lub współfinansowane wydatki na budowę lub przebudowę dworców kolejowych w zakresie bezpośrednio związanym z obsługą podróżnych.
 
@@ -3623,7 +4126,11 @@ Art. 67–69. (pominięte)
 
 10. Na zobowiązania PLK S.A. z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji z przeznaczeniem na finansowanie prac przygotowawczych oraz zadań inwestycyjnych, o których mowa w ust. 1 i 6b, mogą być udzielane przez Skarb Państwa gwarancje i poręczenia, zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291), z wyjątkiem art. 2a ust. 2 tej ustawy.
 
-11. Gwarancje i poręczenia, o których mowa w ust. 10, są zwolnione z opłat prowizyjnych. budżetu państwa lub z Funduszu Kolejowego działalność zarządcy, która nie może być sfinansowana z opłat za korzystanie z infrastruktury kolejowej, pod warunkiem realizacji przez zarządcę wynikającego z przepisów rozdziału 6 obowiązku udostępniania infrastruktury kolejowej obejmującej przynajmniej jedną linię kolejową.
+11. Gwarancje i poręczenia, o których mowa w ust. 10, są zwolnione z opłat prowizyjnych.
+
+**Art. 38a.**
+
+1. Minister właściwy do spraw transportu może dofinansować z budżetu państwa lub z Funduszu Kolejowego działalność zarządcy, która nie może być sfinansowana z opłat za korzystanie z infrastruktury kolejowej, pod warunkiem realizacji przez zarządcę wynikającego z przepisów rozdziału 6 obowiązku udostępniania infrastruktury kolejowej obejmującej przynajmniej jedną linię kolejową.
 
 2. Działalność, o której mowa w ust. 1, wysokość środków publicznych przeznaczonych na jej dofinansowanie oraz zarządców uprawnionych do otrzymania dofinansowania określa program wieloletni w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, z późn. zm. ).
 
@@ -3638,7 +4145,9 @@ Art. 67–69. (pominięte)
 - **3)** przyjęte wskaźniki realizacji celów, o których mowa w pkt 2;
 - **4)** system realizacji, monitorowania oraz ewaluacji programu.
 
-4. Do oceny wysokości kosztów, o których mowa w ust. 3 pkt 1 lit. a, w zakresie naprawy lub wymiany aktywów, zarządca wykorzystuje rejestr, o którym mowa w art. 37a ust. 1. między ministrem właściwym do spraw transportu i zarządcą, na okres obowiązywania programu, o którym mowa w ust. 2.
+4. Do oceny wysokości kosztów, o których mowa w ust. 3 pkt 1 lit. a, w zakresie naprawy lub wymiany aktywów, zarządca wykorzystuje rejestr, o którym mowa w art. 37a ust. 1.
+
+5. Realizacja programu wieloletniego odbywa się na podstawie umowy zawartej między ministrem właściwym do spraw transportu i zarządcą, na okres obowiązywania programu, o którym mowa w ust. 2.
 
 6. Umowa, o której mowa w ust. 5, określa szczegółowe zasady finansowania środkami publicznymi działalności, o której mowa w ust. 1. Zakres przedmiotowy zagadnień, które reguluje umowa, określa załącznik nr 3 do ustawy.
 
@@ -3650,7 +4159,26 @@ Art. 67–69. (pominięte)
 
 2. Wypłaty środków z budżetu państwa, w ramach finansowania, o którym mowa w ust. 1, dokonuje minister właściwy do spraw transportu.
 
-**Art. 38b.** Z budżetu jednostki samorządu terytorialnego może być finansowana lub dofinansowana działalność zarządcy, o której mowa w art. 38a ust. 1. Przepisy art. 38a ust. 5–8 stosuje się odpowiednio. Art. 38ba. 1. Zarządca, który po przydzieleniu zdolności przepustowej w trybie określonym w rozdziale 6 stwierdzi, że wpływy za udostępnianie infrastruktury kolejowej oraz dofinansowanie, o którym mowa w art. 38a ust. 1, i finansowanie lub dofinansowanie, o którym mowa w art. 38b, nie pokrywają kosztów udostępniania tej infrastruktury, może rozpocząć procedurę przygotowania likwidacji linii kolejowej lub odcinka linii kolejowej. 2. Procedura przygotowania likwidacji linii kolejowej lub odcinka linii kolejowej polega na: kolejową;
+**Art. 38b.** Z budżetu jednostki samorządu terytorialnego może być finansowana lub dofinansowana działalność zarządcy, o której mowa w art. 38a ust. 1. Przepisy art. 38a ust. 5–8 stosuje się odpowiednio. Art. 38ba. 1. Zarządca, który po przydzieleniu zdolności przepustowej w trybie określonym w rozdziale 6 stwierdzi, że wpływy za udostępnianie infrastruktury kolejowej oraz dofinansowanie, o którym mowa w art. 38a ust. 1, i finansowanie lub dofinansowanie, o którym mowa w art. 38b, nie pokrywają kosztów udostępniania tej infrastruktury, może rozpocząć procedurę przygotowania likwidacji linii kolejowej lub odcinka linii kolejowej. 2. Procedura przygotowania likwidacji linii kolejowej lub odcinka linii kolejowej polega na:
+
+- **1)** dokonaniu analizy możliwości zmniejszenia kosztów zarządzania infrastrukturą kolejową;
+- **2)** dokonaniu analizy możliwości zwiększenia przychodów z zarządzanej infrastruktury kolejowej;
+- **3)** powiadomieniu zainteresowanych aplikantów i przewoźników kolejowych o zamiarze likwidacji linii kolejowej lub odcinka linii kolejowej;
+- **4)** poinformowaniu właściwych organów jednostek samorządu terytorialnego, na obszarze których zlokalizowana jest linia kolejowa lub odcinek linii kolejowej, w szczególności organizatorów przewozów pasażerskich w transporcie kolejowym w rozumieniu przepisów ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, o zamiarze likwidacji linii kolejowej lub odcinka linii kolejowej;
+- **5)** poinformowaniu ministra właściwego do spraw transportu o zamiarze likwidacji linii kolejowej lub odcinka linii kolejowej.
+
+3. Procedura przygotowania likwidacji linii kolejowej lub odcinka linii kolejowej może być wstrzymana, jeżeli:
+
+- **1)** właściwa jednostka samorządu terytorialnego lub wskazany przez nią zarządca zawrze umowę o nieodpłatne przejęcie linii kolejowej lub odcinka linii kolejowej w zarządzanie w celu ich dalszej eksploatacji;
+- **2)** minister właściwy do spraw transportu zapewni środki na dofinansowanie, o którym mowa w art. 38a ust. 1.
+
+4. W przypadku gdy nie została wstrzymana procedura przygotowania likwidacji linii kolejowej lub odcinka linii kolejowej, po upływie 3 miesięcy od dokonania czynności, o których mowa w ust. 2, zarządca może wystąpić z wnioskiem do ministra właściwego do spraw transportu o wyrażenie zgody na likwidację linii kolejowej lub odcinka linii kolejowej.
+
+5. Minister właściwy do spraw transportu, w drodze decyzji, wydaje zgodę na likwidację linii kolejowej lub odcinka linii kolejowej albo odmawia wydania zgody, w terminie 3 miesięcy od dnia złożenia wniosku, o którym mowa w ust. 4, biorąc pod uwagę względy gospodarcze, społeczne, obronne lub ekologiczne.
+
+6. Do likwidacji bocznicy kolejowej lub jej odcinka przepisy ust. 1–5 stosuje się odpowiednio.
+
+7. W przypadku linii kolejowych o znaczeniu państwowym decyzja ministra właściwego do spraw transportu jest wydawana po uprzednim usunięciu linii kolejowej lub odcinka linii kolejowej z wykazu linii kolejowych o znaczeniu państwowym.
 
 **Art. 38c.**
 
@@ -3669,7 +4197,7 @@ Art. 67–69. (pominięte)
 
 5a. Udzielenie zapewnienia finansowania lub dofinansowania w rozumieniu przepisu art. 153 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych następuje wraz z zatwierdzeniem szczegółowego planu realizacji programu wieloletniego, w zakresie kwot wydatków i źródeł finansowania wskazanych w tym planie w odniesieniu do projektów realizowanych przez PLK S.A., z udziałem środków określonych w art. 5 ust. 3 pkt 1 i 5c tej ustawy w ramach programu wieloletniego, o którym mowa w ust. 1.
 
-6. W terminie do dnia 31 maja każdego roku minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw finansów publicznych z ministrem właściwym do spraw rozwoju regionalnego, składa Radzie Ministrów sprawozdanie z wykonania planu realizacji programu wieloletniego za rok poprzedni. Sprawozdanie podaje się do publicznej wiadomości przez ogłoszenie jego treści w Biuletynie Informacji Publicznej urzędu zapewniającego obsługę ministra właściwego do spraw transportu.
+6. W terminie do dnia 31 maja każdego roku minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz w zakresie projektów realizowanych z udziałem środków europejskich z ministrem właściwym do spraw rozwoju regionalnego, składa Radzie Ministrów sprawozdanie z wykonania planu realizacji programu wieloletniego za rok poprzedni. Sprawozdanie podaje się do publicznej wiadomości przez ogłoszenie jego treści w Biuletynie Informacji Publicznej urzędu zapewniającego obsługę ministra właściwego do spraw transportu.
 
 7. Zakres sprawozdania, o którym mowa w ust. 6, jest określony w programie, o którym mowa w ust. 1. Sprawozdanie zawiera w szczególności:
 
@@ -3690,7 +4218,7 @@ Art. 67–69. (pominięte)
 
 **Art. 38f.**
 
-1. Zarządca opracowuje plan biznesowy, w którym określa programy inwestycyjne oraz sposób osiągnięcia przez zarządcę przyjętych celów technicznych, równowagi finansowej.
+1. Zarządca opracowuje plan biznesowy, w którym określa programy inwestycyjne oraz sposób osiągnięcia przez zarządcę przyjętych celów technicznych, handlowych i związanych z zarządzaniem finansowym, w tym sposób osiągnięcia równowagi finansowej.
 
 2. Zarządca zapewnia, aby współpracujący z nim aplikanci oraz, na ich żądanie, potencjalni aplikanci mieli dostęp do odpowiednich informacji oraz mieli możliwość wyrażenia swoich poglądów dotyczących treści planu biznesowego w odniesieniu do warunków dostępu do infrastruktury, korzystania z niej i jej charakteru, udostępniania i rozwoju infrastruktury, przed jego przyjęciem przez zarządcę.
 
@@ -3714,6 +4242,8 @@ Art. 67–69. (pominięte)
 **Art. 40.** (uchylony)
 
 **Art. 40a.** (uchylony)
+
+**Art. 41.** (uchylony)
 
 **Art. 42.** (uchylony)
 
@@ -3739,6 +4269,9 @@ Art. 67–69. (pominięte)
 
 **Art. 44.** Obowiązkowi uzyskania licencji nie podlegają przedsiębiorcy wykonujący przewozy wyłącznie:
 
+- **1)** koleją wąskotorową na lokalnych i regionalnych sieciach kolejowych;
+- **2)** na infrastrukturze prywatnej, w tym na bocznicach kolejowych.
+
 **Art. 45.**
 
 1. Organem właściwym do udzielania, odmowy udzielania, zmiany, zawieszania lub cofnięcia licencji przedsiębiorcy posiadającemu siedzibę na terytorium Rzeczypospolitej Polskiej jest Prezes UTK.
@@ -3753,6 +4286,7 @@ Art. 67–69. (pominięte)
 
 2. Wniosek o udzielenie licencji zawiera:
 
+- **1)** nazwę przedsiębiorcy, jego siedzibę i adres;
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada;
 - **3)** numer identyfikacji podatkowej (NIP);
 - **4)** określenie przedmiotu i zakresu wykonywania działalności, na którą ma być udzielona licencja.
@@ -3773,7 +4307,7 @@ Art. 67–69. (pominięte)
 - **3)** przedsiębiorca nie został ukarany za poważne naruszenia prawa określone w przepisach szczególnych mających zastosowanie do transportu;
 - **4)** członkowie organu zarządzającego osoby prawnej, wspólnik, komplementariusz w spółce jawnej, komandytowej lub komandytowo-akcyjnej, a w przypadku innego przedsiębiorcy – osoby prowadzące działalność gospodarczą, nie zostały skazane prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe popełnione umyślnie, powtarzające się nieumyślne naruszenie praw osób wykonujących pracę zarobkową lub poważne naruszenia prawa dotyczące obowiązków wynikających z układów zbiorowych pracy. W celu potwierdzenia spełnienia wymogów, o których mowa w zdaniu pierwszym, przedsiębiorca ubiegający się o licencję przedstawia zaświadczenia albo oświadczenia.
 
-5. Oświadczenie, o którym mowa w ust. 4, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zeznań.
+5. Oświadczenie, o którym mowa w ust. 4, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
 6. Wymagania dotyczące wiarygodności finansowej uznaje się za spełnione, gdy przedsiębiorca jest w stanie wykazać, że jest zdolny do wypełnienia rzeczywistych i potencjalnych zobowiązań finansowych przez okres 12 miesięcy od dnia udzielenia licencji. W tym celu:
 
@@ -3791,7 +4325,9 @@ Art. 67–69. (pominięte)
 
 7. Wymagania dotyczące wiarygodności finansowej uznaje się za niespełnione w przypadku przedsiębiorcy, w którego działalności występują znaczne lub powtarzające się zaległości publicznoprawne.
 
-8. W razie wątpliwości co do sytuacji finansowej przedsiębiorcy, Prezes UTK może żądać innych niż określone w ust. 6 informacji i dokumentów bankowych lub księgowych przedstawiających rzetelnie aktualną sytuację finansową przedsiębiorcy. przedsiębiorca posiada lub zobowiąże się do posiadania organizacji zarządzania, która zapewni kontrolę bezpieczeństwa, niezawodność i nadzorowanie licencjonowanej działalności. W tym celu przedsiębiorca ubiegający się o licencję przedstawia:
+8. W razie wątpliwości co do sytuacji finansowej przedsiębiorcy, Prezes UTK może żądać innych niż określone w ust. 6 informacji i dokumentów bankowych lub księgowych przedstawiających rzetelnie aktualną sytuację finansową przedsiębiorcy.
+
+9. Wymagania dotyczące kwalifikacji zawodowych uznaje się za spełnione, gdy przedsiębiorca posiada lub zobowiąże się do posiadania organizacji zarządzania, która zapewni kontrolę bezpieczeństwa, niezawodność i nadzorowanie licencjonowanej działalności. W tym celu przedsiębiorca ubiegający się o licencję przedstawia:
 
 - **1)** dokumenty dotyczące kwalifikacji pracowników odpowiedzialnych za bezpieczeństwo przewozów kolejowych oraz szczegółowe dane dotyczące szkolenia tych pracowników lub
 - **2)** oświadczenie dotyczące planowanego zatrudnienia i przeszkolenia pracowników, o których mowa w pkt 1.
@@ -3816,7 +4352,7 @@ Art. 67–69. (pominięte)
 
 **Art. 48.**
 
-1. Przewoźnik kolejowy, w przypadku zmiany mającej wpływ na jego sytuację prawną, w szczególności w przypadku połączenia lub przejęcia, informuje o zatwierdzenia, jeżeli stwierdzi zagrożenie bezpieczeństwa związanego z prowadzoną działalnością. Prezes UTK uzasadnia decyzję zatwierdzającą ponownie licencję.
+1. Przewoźnik kolejowy, w przypadku zmiany mającej wpływ na jego sytuację prawną, w szczególności w przypadku połączenia lub przejęcia, informuje o tym Prezesa UTK, który może podjąć decyzję o ponownym przedłożeniu licencji do zatwierdzenia, jeżeli stwierdzi zagrożenie bezpieczeństwa związanego z prowadzoną działalnością. Prezes UTK uzasadnia decyzję zatwierdzającą ponownie licencję.
 
 2. Przewoźnik kolejowy informuje Prezesa UTK o okolicznościach, o których mowa w ust. 1, w terminie 14 dni od dnia, w którym stały się skuteczne.
 
@@ -3840,7 +4376,7 @@ Art. 67–69. (pominięte)
 - **2)** nie wywiązał się ze zobowiązań złożonych w oświadczeniu, o którym mowa w art. 46 ust. 9 pkt 2, w określonych w nim terminach;
 - **3)** wykonujący międzynarodowe przewozy kolejowe nie przestrzega postanowień odpowiednich umów międzynarodowych, których Rzeczpospolita Polska jest stroną.
 
-2. W przypadku zawieszenia licencji z powodu niespełniania wymagań dotyczących wiarygodności finansowej, Prezes UTK może wyznaczyć termin usunięcia nieprawidłowości i udzielić licencji tymczasowej na okres przeprowadzania prowadzonej działalności. Licencja tymczasowa jest ważna nie dłużej niż przez 6 miesięcy od dnia doręczenia decyzji w przedmiocie jej udzielenia.
+2. W przypadku zawieszenia licencji z powodu niespełniania wymagań dotyczących wiarygodności finansowej, Prezes UTK może wyznaczyć termin usunięcia nieprawidłowości i udzielić licencji tymczasowej na okres przeprowadzania zmian w przedsiębiorstwie, pod warunkiem że nie będzie to zagrażać bezpieczeństwu prowadzonej działalności. Licencja tymczasowa jest ważna nie dłużej niż przez 6 miesięcy od dnia doręczenia decyzji w przedmiocie jej udzielenia.
 
 3. Prezes UTK cofa licencję, jeżeli przedsiębiorca:
 
@@ -3864,7 +4400,11 @@ Art. 67–69. (pominięte)
 
 4. Do opłaty, o której mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
 
-5. Minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość i sposób uiszczania opłaty, o której mowa w ust. 1, z uwzględnieniem kosztów nie wyższych niż uzasadnione koszty udzielenia licencji i kontroli jej wykonania. Informacji Publicznej Urzędu Transportu Kolejowego tryb udzielania licencji.
+5. Minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość i sposób uiszczania opłaty, o której mowa w ust. 1, z uwzględnieniem kosztów nie wyższych niż uzasadnione koszty udzielenia licencji i kontroli jej wykonania.
+
+**Art. 51.**
+
+1. Prezes UTK podaje do publicznej wiadomości w Biuletynie Informacji Publicznej Urzędu Transportu Kolejowego tryb udzielania licencji.
 
 2. Prezes UTK informuje Komisję Europejską o każdej zmianie trybu udzielania licencji.
 
@@ -3884,7 +4424,7 @@ Art. 67–69. (pominięte)
 
 4. Przepisu ust. 2 nie stosuje się do budynków i budowli przeznaczonych do prowadzenia ruchu kolejowego i utrzymania linii kolejowej oraz do obsługi przewozu osób i rzeczy, w tym do dróg pieszych i rowerowych, oraz do budynków lub budowli istniejących, stanowiących zabytki w rozumieniu przepisu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami.
 
-**Art. 54.** Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw środowiska, ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, wymagania w zakresie odległości i warunków dopuszczających usytuowanie drzew i krzewów, elementów ochrony akustycznej i wykonywania robót ziemnych w sąsiedztwie linii kolejowej, a także sposobu urządzania i utrzymywania zasłon bezpieczeństwa ruchu kolejowego.
+**Art. 54.** Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw środowiska, ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, wymagania w zakresie odległości i warunków dopuszczających usytuowanie drzew i krzewów, elementów ochrony akustycznej i wykonywania robót ziemnych w sąsiedztwie linii kolejowej, a także sposobu urządzania i utrzymywania zasłon odśnieżnych oraz pasów przeciwpożarowych, biorąc pod uwagę zapewnienie bezpieczeństwa ruchu kolejowego.
 
 **Art. 55.**
 
@@ -3913,7 +4453,9 @@ Art. 67–69. (pominięte)
 
 **Art. 57.**
 
-1. W przypadkach szczególnie uzasadnionych dopuszcza się odstępstwo od warunków usytuowania budynków i budowli określonych w art. 53 oraz wykonywania robót ziemnych określonych na podstawie art. 54. Odstępstwo nie może powodować zagrożenia życia ludzi lub bezpieczeństwa mienia oraz bezpieczeństwa i prawidłowego ruchu kolejowego, a także nie może zakłócać działania urządzeń służących do prowadzenia tego ruchu. przepisów Prawa budowlanego, udziela bądź odmawia zgody na odstępstwo po uzyskaniu opinii właściwego zarządcy.
+1. W przypadkach szczególnie uzasadnionych dopuszcza się odstępstwo od warunków usytuowania budynków i budowli określonych w art. 53 oraz wykonywania robót ziemnych określonych na podstawie art. 54. Odstępstwo nie może powodować zagrożenia życia ludzi lub bezpieczeństwa mienia oraz bezpieczeństwa i prawidłowego ruchu kolejowego, a także nie może zakłócać działania urządzeń służących do prowadzenia tego ruchu.
+
+2. Właściwy organ administracji architektoniczno-budowlanej, w rozumieniu przepisów Prawa budowlanego, udziela bądź odmawia zgody na odstępstwo po uzyskaniu opinii właściwego zarządcy.
 
 **Art. 57a.**
 
@@ -3937,7 +4479,7 @@ Art. 67–69. (pominięte)
 
 3. Zarządcy i przewoźnicy kolejowi obowiązani są do zapewnienia ładu i porządku na obszarze kolejowym oraz w pociągach i innych pojazdach kolejowych.
 
-**Art. 58a.** Pracownicy zatrudnieni na stanowiskach, o których mowa w art. 22d ust. 1, a także członkowie obsady pociągu, o której mowa w przepisach wydanych na podstawie art. 17 ust. 7, korzystają z ochrony przewidzianej dla funkcjonariusza karny (Dz. U. z 2025 r. poz. 383).
+**Art. 58a.** Pracownicy zatrudnieni na stanowiskach, o których mowa w art. 22d ust. 1, a także członkowie obsady pociągu, o której mowa w przepisach wydanych na podstawie art. 17 ust. 7, korzystają z ochrony przewidzianej dla funkcjonariusza publicznego na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383).
 
 **Art. 59.**
 
@@ -3969,6 +4511,10 @@ Art. 67–69. (pominięte)
 
 8. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, przepisy porządkowe obowiązujące na obszarze kolejowym, w pociągach i innych pojazdach kolejowych oraz w pomieszczeniach przeznaczonych do obsługi podróżnych korzystających z transportu kolejowego na dworcach kolejowych, uwzględniając warunki i wymagania funkcjonowania transportu kolejowego.
 
+**Art. 60.**
+
+1. Do zadań straży ochrony kolei należy:
+
 - **1)** kontrola przestrzegania przepisów porządkowych na obszarze kolejowym, w pociągach i innych pojazdach kolejowych oraz w pomieszczeniach przeznaczonych do obsługi podróżnych korzystających z transportu kolejowego na dworcach kolejowych;
 - **2)** ochrona życia i zdrowia ludzi oraz mienia na obszarze kolejowym, w pociągach i innych pojazdach kolejowych oraz w pomieszczeniach przeznaczonych do obsługi podróżnych korzystających z transportu kolejowego na dworcach kolejowych.
 
@@ -3984,7 +4530,7 @@ Art. 67–69. (pominięte)
 - **5)** przeprowadzania czynności wyjaśniających, występowania do sądu z wnioskiem o ukaranie, oskarżania przed sądem i wnoszenia środków odwoławczych w trybie określonym w Kodeksie postępowania w sprawach o wykroczenia.
 - **6)** (uchylony)
 
-3. W przypadkach, o których mowa w art. 11 pkt 1–6, 8–10 i 12–14 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, pkt 2 lit. a, pkt 7, 9, pkt 12 lit. a i pkt 13 tej ustawy, lub wykorzystać te środki.
+3. W przypadkach, o których mowa w art. 11 pkt 1–6, 8–10 i 12–14 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2025 r. poz. 555 i 820), funkcjonariusz straży ochrony kolei może użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, pkt 2 lit. a, pkt 7, 9, pkt 12 lit. a i pkt 13 tej ustawy, lub wykorzystać te środki.
 
 4. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c i e, pkt 2 i pkt 3 lit. a oraz w art. 47 pkt 3, 5 i 6 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, funkcjonariusz straży ochrony kolei może użyć broni palnej lub ją wykorzystać.
 
@@ -4007,7 +4553,11 @@ Art. 67–69. (pominięte)
 - **1)** w wyniku wykonywania czynności podejmowanych w postępowaniu w sprawach o wykroczenia;
 - **2)** z rejestrów, ewidencji i zbiorów, do których straż ochrony kolei posiada dostęp na podstawie odrębnych przepisów.
 
-2. Administratorem danych osobowych przetwarzanych przez straż ochrony kolei jest komendant straży ochrony kolei. właściwym do spraw wewnętrznych, może cofnąć decyzję, o której mowa w art. 59 ust. 2, w przypadku naruszenia przepisów art. 60.
+2. Administratorem danych osobowych przetwarzanych przez straż ochrony kolei jest komendant straży ochrony kolei.
+
+**Art. 61.**
+
+1. Minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw wewnętrznych, może cofnąć decyzję, o której mowa w art. 59 ust. 2, w przypadku naruszenia przepisów art. 60.
 
 2. Minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw wewnętrznych, może, w drodze decyzji, o której mowa w art. 59 ust. 2, ograniczyć zakres działania i uprawnień straży ochrony kolei.
 
@@ -4023,7 +4573,7 @@ Art. 67–69. (pominięte)
 
 4. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, formy współdziałania straży ochrony kolei z organami Krajowej Administracji Skarbowej, uwzględniając w szczególności: sprawy wymagające współdziałania, sposób wymiany informacji dotyczących spraw wymagających współdziałania, zasady koordynacji wspólnych przedsięwzięć.
 
-5. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw transportu, określi, w drodze rozporządzenia, przypadki, w których funkcjonariusze straży ochrony kolei mogą wykonywać swoje zadania poza o których mowa w niniejszej ustawie.
+5. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw transportu, określi, w drodze rozporządzenia, przypadki, w których funkcjonariusze straży ochrony kolei mogą wykonywać swoje zadania poza obszarem kolejowym, uwzględniając w szczególności zakres wykonywanych zadań, o których mowa w niniejszej ustawie.
 
 6. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, rodzaj i sposoby ewidencjonowania, przechowywania w straży ochrony kolei broni, amunicji i środków przymusu bezpośredniego, z uwzględnieniem specyfiki działania straży ochrony kolei oraz sposobów uniemożliwienia dostępu do tej broni, amunicji i tych środków osobom trzecim.
 
@@ -4043,7 +4593,9 @@ Art. 67–69. (pominięte)
 
 1a. Kto uchyla się od złożenia oświadczenia, o którym mowa w art. 22ca ust. 1, albo zawiera w nim informacje niezgodne ze stanem faktycznym, podlega karze grzywny.
 
-2. Kto eksploatuje pojazd kolejowy bez ważnego przywrócenia do eksploatacji, o którym mowa w art. 2 lit. d rozporządzenia (UE) nr 2019/779, podlega karze grzywny. porządkowych obowiązujących na obszarze kolejowym, w pociągach i innych pojazdach kolejowych oraz w pomieszczeniach przeznaczonych do obsługi podróżnych korzystających z transportu kolejowego na dworcach kolejowych, wydanych na podstawie art. 59 ust. 8, podlega karze grzywny.
+2. Kto eksploatuje pojazd kolejowy bez ważnego przywrócenia do eksploatacji, o którym mowa w art. 2 lit. d rozporządzenia (UE) nr 2019/779, podlega karze grzywny.
+
+3. Kto wykracza przeciwko nakazom lub zakazom zawartym w przepisach porządkowych obowiązujących na obszarze kolejowym, w pociągach i innych pojazdach kolejowych oraz w pomieszczeniach przeznaczonych do obsługi podróżnych korzystających z transportu kolejowego na dworcach kolejowych, wydanych na podstawie art. 59 ust. 8, podlega karze grzywny.
 
 4. Orzekanie w sprawach o czyny określone w ust. 1–3 następuje w trybie Kodeksu postępowania w sprawach o wykroczenia.
 
@@ -4066,7 +4618,8 @@ Art. 67–69. (pominięte)
     - **e)** nie dokonał modyfikacji odmowy albo nie cofnął odmowy rozpatrzenia wniosku o przydzielenie zdolności przepustowej zgodnie z wytycznymi określonymi przez Prezesa UTK w decyzji, o której mowa w art. 30a ust. 2,
     - **f)** nie opublikował regulaminu sieci w terminie określonym w art. 32 ust. 3 lub nie uwzględnił w nim wszystkich wymaganych elementów,
     - **g)** nie przekazał Prezesowi UTK w terminie określonym w art. 33 ust. 14 projektu cennika, o którym mowa w art. 33 ust. 13,
-    - **h)** nie poinformował w wymaganym terminie Prezesa UTK o ustaleniach, o których mowa w art. 36p ust. 2, planu biznesowego zarządcy,
+    - **h)** nie poinformował w wymaganym terminie Prezesa UTK o ustaleniach, o których mowa w art. 36p ust. 2,
+    - **i)** nie umożliwił aplikantom wyrażenia swoich poglądów dotyczących treści planu biznesowego zarządcy,
     - **j)** z naruszeniem art. 38ba dokonał likwidacji: – linii kolejowej lub jej odcinka, – bocznicy kolejowej lub jej odcinka;
 
 - **3)** przewoźnik kolejowy, który nie poinformował w wymaganym terminie Prezesa UTK o zmianie mającej wpływ na jego sytuację prawną, o której mowa w art. 48 ust. 1;
@@ -4078,11 +4631,12 @@ Art. 67–69. (pominięte)
 
 - **5)** zarządca, przewoźnik kolejowy lub przedsiębiorca wykonujący przewozy w obrębie bocznicy kolejowej, którzy nie przekazali w terminie Prezesowi UTK oświadczeń, o których mowa w art. 22ca ust. 1 pkt 1;
 - **6)** zarządca, przewoźnik kolejowy, operator stacji pasażerskiej, zarządzający peronem, sprzedawca biletów, organizator turystyki, przedsiębiorca ułatwiający nabywanie powiązanych usług turystycznych w rozumieniu ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych, który nie przestrzega lub narusza obowiązujące go przepisy art. 4, art. 6 i art. 8–30 rozporządzenia 2021/782/UE;
-- **7)** zarządca, przewoźnik kolejowy lub operator stacji pasażerskiej, lub zarządzający peronem, który: zawiadomił Prezesa UTK o wszelkich zmianach danych w odniesieniu do zarejestrowanych przez niego pojazdów kolejowych w europejskim rejestrze pojazdów kolejowych (EVR), w tym o wycofaniu pojazdu z eksploatacji lub o decyzji o nieprzedłużeniu jego rejestracji;
+- **7)** zarządca, przewoźnik kolejowy lub operator stacji pasażerskiej, lub zarządzający peronem, który:
     - **a)** nie podaje rozkładu jazdy dla przewozu osób lub jego zmiany do publicznej wiadomości w terminie i na zasadach, o których mowa w art. 30e,
     - **b)** naruszył zakaz stosowania bezprawnych praktyk naruszających zbiorowe interesy pasażerów w transporcie kolejowym, o którym mowa w art. 14b ust. 1,
     - **c)** utrudnia Prezesowi UTK lub pisemnie upoważnionym osobom wykonywanie czynności, o których mowa w art. 15;
 
+- **8)** dysponent, który, wbrew obowiązkowi określonemu w art. 25gb ust. 3, nie zawiadomił Prezesa UTK o wszelkich zmianach danych w odniesieniu do zarejestrowanych przez niego pojazdów kolejowych w europejskim rejestrze pojazdów kolejowych (EVR), w tym o wycofaniu pojazdu z eksploatacji lub o decyzji o nieprzedłużeniu jego rejestracji;
 - **9)** podmiot, który nie udzielił informacji, o których mowa w art. 13 ust. 3a pkt 3, albo udzielił tej informacji z przekroczeniem terminu, o którym mowa w art. 13 ust. 3b;
 - **10)** podmiot, który, wbrew obowiązkowi określonemu w art. 14aa ust. 3, nie udzielił odpowiedzi na ostrzeżenie Prezesa UTK;
 - **11)** podmiot, który, wbrew obowiązkowi określonemu w art. 25x ust. 3, nie dokonał za pośrednictwem systemu teleinformatycznego obsługującego rejestr, o którym mowa w art. 25x ust. 1, wprowadzenia danych do tego rejestru, dokonał tego wprowadzenia z przekroczeniem terminu lub wprowadził dane nieprawdziwe.
@@ -4092,7 +4646,7 @@ Art. 67–69. (pominięte)
 2a. Prezes UTK odstępuje od nałożenia kary, o której mowa w ust. 2, jeżeli skutki naruszenia przez przedsiębiorcę przepisu ust. 1 zostały przez niego usunięte niezwłocznie. 2aa. Prezes UTK, uwzględniając zakres naruszenia, dotychczasową działalność podmiotu oraz jego możliwości finansowe, może nałożyć, w drodze decyzji, karę pieniężną w wysokości stanowiącej równowartość do 5000 euro za każdy dzień zwłoki w wykonaniu:
 
 - **1)** decyzji, o których mowa w art. 13b ust. 1, art. 14 ust. 1–3 oraz art. 25m ust. 1 i 2, albo
-- **2)** wyroków sądowych w sprawach, o których mowa w ust. 2 i 3 oraz w art. 29 ust. 1. 2ab. Karę pieniężną, o której mowa w ust. 2aa, nakłada się, licząc od daty wskazanej w decyzji nakładającej karę. 2ac. (uchylony) 2ad. Przedsiębiorca przekazuje Prezesowi UTK, na każde jego żądanie, w terminie 30 dni od dnia otrzymania żądania, dane niezbędne do określenia podstawy wymiaru kary, o której mowa w ust. 2. przekazane dane uniemożliwiają ustalenie podstawy wymiaru kary, o której mowa w ust. 2, lub gdy przychód przedsiębiorcy uzyskany w poprzednim roku obrotowym jest niższy niż 10 000 zł, Prezes UTK nakłada karę pieniężną w wysokości nieprzekraczającej 100 000 zł.
+- **2)** wyroków sądowych w sprawach, o których mowa w ust. 2 i 3 oraz w art. 29 ust. 1. 2ab. Karę pieniężną, o której mowa w ust. 2aa, nakłada się, licząc od daty wskazanej w decyzji nakładającej karę. 2ac. (uchylony) 2ad. Przedsiębiorca przekazuje Prezesowi UTK, na każde jego żądanie, w terminie 30 dni od dnia otrzymania żądania, dane niezbędne do określenia podstawy wymiaru kary, o której mowa w ust. 2. 2ae. W przypadku nieprzekazania danych, o których mowa w ust. 2ad, lub gdy przekazane dane uniemożliwiają ustalenie podstawy wymiaru kary, o której mowa w ust. 2, lub gdy przychód przedsiębiorcy uzyskany w poprzednim roku obrotowym jest niższy niż 10 000 zł, Prezes UTK nakłada karę pieniężną w wysokości nieprzekraczającej 100 000 zł.
 
 2b. Ustalając wysokość kary pieniężnej, Prezes UTK uwzględnia zakres naruszenia przepisu, dotychczasową działalność podmiotu oraz jego możliwości finansowe.
 
@@ -4108,7 +4662,13 @@ Art. 67–69. (pominięte)
 
 #### Rozdział 13 Zmiany w przepisach obowiązujących. Przepisy przejściowe i końcowe
 
-**Art. 70.** Postępowania sądowe dotyczące zawarcia i wykonywania umów, o których mowa w art. 9 ust. 1 i art. 10 ust. 1 i 2 ustawy, o której mowa w art. 76 ust. 1, wszczęte przed dniem wejścia w życie niniejszej ustawy, są prowadzone według dotychczasowych przepisów. w życie niniejszej ustawy, na podstawie przepisów ustawy, o której mowa w art. 76 ust. 1, z zastrzeżeniem przepisów art. 68, zachowują moc. 2. Do postępowań administracyjnych w sprawach objętych przepisami ustawy, o której mowa w art. 76 ust. 1, wszczętych, a niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy niniejszej ustawy.
+**Art. 70.** Postępowania sądowe dotyczące zawarcia i wykonywania umów, o których mowa w art. 9 ust. 1 i art. 10 ust. 1 i 2 ustawy, o której mowa w art. 76 ust. 1, wszczęte przed dniem wejścia w życie niniejszej ustawy, są prowadzone według dotychczasowych przepisów.
+
+**Art. 71.**
+
+1. Uprawnienia wynikające z decyzji wydanych przed dniem wejścia w życie niniejszej ustawy, na podstawie przepisów ustawy, o której mowa w art. 76 ust. 1, z zastrzeżeniem przepisów art. 68, zachowują moc.
+
+2. Do postępowań administracyjnych w sprawach objętych przepisami ustawy, o której mowa w art. 76 ust. 1, wszczętych, a niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy niniejszej ustawy.
 
 **Art. 72.** (pominięty)
 
@@ -4134,7 +4694,11 @@ Art. 67–69. (pominięte)
 
 1. Finansowanie Urzędu Transportu Kolejowego do końca roku kalendarzowego, w którym przypada jego utworzenie, odbywa się ze środków finansowych przeznaczonych na funkcjonowanie Głównego Inspektoratu Kolejnictwa oraz z części budżetowej ministra właściwego do spraw transportu przeznaczonej na zadania realizowane dotychczas przez ministra właściwego do spraw transportu w zakresie, w którym przeszły do zakresu działania Prezesa UTK.
 
-2. Minister właściwy do spraw finansów publicznych dokona w budżecie państwa na rok 2003 odpowiednich zmian zapewniających finansowanie Urzędu Transportu Kolejowego w zakresie niezbędnym do wykonania zadań określonych w niniejszej ustawie. (Dz. U. poz. 591, z późn. zm. ).
+2. Minister właściwy do spraw finansów publicznych dokona w budżecie państwa na rok 2003 odpowiednich zmian zapewniających finansowanie Urzędu Transportu Kolejowego w zakresie niezbędnym do wykonania zadań określonych w niniejszej ustawie.
+
+**Art. 76.**
+
+1. Traci moc ustawa z dnia 27 czerwca 1997 r. o transporcie kolejowym (Dz. U. poz. 591, z późn. zm. ).
 
 2. (pominięty)
 

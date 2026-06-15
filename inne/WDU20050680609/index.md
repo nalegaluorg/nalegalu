@@ -8,7 +8,7 @@ pos: 609
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 29/3/A/2005 WYROK z dnia 31 marca 2005 r.

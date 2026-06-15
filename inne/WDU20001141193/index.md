@@ -8,7 +8,7 @@ pos: 1193
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o Krajowym Rejestrze Sądowym, Prawa upadłościowego, ustawy o postępowaniu egzekucyjnym w administracji, ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz ustawy - Prawo działalności gospodarczej
@@ -28,6 +28,286 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001141193) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1193/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz.U. Nr 121, poz. 769, z 1998 r. Nr 155, poz. 1015, z 1999 r. Nr 101, poz. 1178 oraz z 2000 r. Nr 60, poz. 702 i Nr 84, poz. 948) wprowadza się następujące zmiany:
+
+- **1)** art. 2 otrzymuje brzmienie: „Art. 2. 1. Rejestr prowadzą w systemie informatycznym sądy rejonowe (sądy gospodarcze), obejmujące swoją właściwością obszar województwa lub jego część, zwane dalej „sądami rejestrowymi”.
+
+2. Gminy, jako zadania zlecone, wykonują czynności związane z prowadzeniem Rejestru, polegające na zapewnieniu zainteresowanym:
+
+- **1)** wglądu do Polskiej Klasyfikacji Działalności (PKD),
+- **2)** urzędowych formularzy wniosków wymaganych ustawą, umożliwiających rejestrację osób fizycznych wykonujących działalność gospodarczą i spółek jawnych,
+- **3)** dostępu do informacji o wysokości opłat, sposobie ich uiszczania oraz o właściwości miejscowej sądów rejestrowych.
+
+3. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw administracji publicznej, określi, w drodze rozporządzenia, sposób wykonywania czynności, o których mowa w ust. 2, oraz sposób współpracy sądów rejestrowych i zarządów gmin w tych sprawach, w szczególności wskazując sposób postępowania i przekazywania przez sądy rejestrowe niezbędnych informacji, mając na względzie ułatwienie dostępu do Rejestru.”;
+
+- **2)** w art. 4:
+    - **a)** w ust. 2 pkt 4 otrzymuje brzmienie: „4) przekazywanie z urzędu organom samorządu gminnego, właściwym według miejsca zamieszkania (siedziby) przedsiębiorcy, danych z Rejestru o wpisaniu przedsiębiorcy i jego wykreśleniu wraz z adresem i przedmiotem jego działalności, w terminie 7 dni od dnia wprowadzenia tych danych do Rejestru.”,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Z dochodów uzyskanych z opłat, o których mowa w ust. 4, tworzy się środek specjalny Ministerstwa Sprawiedliwości, który przeznacza się na usprawnienie funkcjonowania sądów powszechnych, a w szczególności na koszty ich działalności podstawowej oraz zakupy inwestycyjne.”;
+
+- **3)** w art. 9:
+    - **a)** dotychczasową treść oznacza się jako ust. 1,
+    - **b)** po ust. 1 dodaje się ust. 2-4 w brzmieniu: „2. Jeżeli przepis szczególny nakazuje zgłoszenie określonych danych sądowi rejestrowemu lub wpisanie ich do Rejestru, a dane te nie podlegają według przepisów ustawy wpisowi do określonego działu Rejestru, dokumenty zawierające te dane składa się do akt rejestrowych.
+
+3. Jeżeli podmiot wpisywany do Rejestru działa na podstawie umowy lub statutu, do wniosku o jego wpisanie dołącza się umowę lub statut.
+
+4. Do wniosku o wpis, dotyczącego zmiany umowy spółki lub statutu spółki albo zmiany innych wpisanych podmiotów działających na podstawie umowy lub statutu, dołącza się także tekst jednolity umowy lub statutu, z uwzględnieniem wprowadzonych zmian. Do tekstu jednolitego nie stosuje się przepisów o formie czynności prawnych.”;
+
+- **4)** w art. 10:
+    - **a)** w ust. 1 wyrazy „osób prawnych” zastępuje się wyrazem „podmiotów”,
+    - **b)** po ust. 2 dodaje się ust. 3-5 w brzmieniu: „3. Akta dotyczące wpisu do rejestru dłużników niewypłacalnych podmiotu, który uległ wykreśleniu na podstawie art. 59 i 60, i nie podlega ujawnieniu, są dostępne wyłącznie dla podmiotu, którego dotyczył wpis oraz wierzyciela, na którego wniosek orzeczono o wpisaniu podmiotu.
+
+4. Dokumenty będące podstawą wpisów w dziale 4 rejestru przedsiębiorców, które zostały wykreślone na podstawie art. 46, wyłącza się z akt rejestrowych przedsiębiorcy i składa w prowadzonym oddzielnie zbiorze dokumentów, który jest dostępny jedynie dla przedsiębiorcy wpisanego w tym rejestrze oraz wierzyciela, na którego wniosek nastąpiło wykreślenie wpisu.
+
+5. Przepisy ust. 3 i 4 nie naruszają uprawnień do dostępu do akt sądowych określonych w przepisach szczególnych.”;
+
+- **5)** w art. 12 po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Jeżeli w Rejestrze są zamieszczone dane niedopuszczalne ze wzgl ędu na obowiązujące przepisy prawa, sąd rejestrowy po wysłuchaniu zainteresowanych osób na posiedzeniu lub po wezwaniu do złożenia oświadczenia pisemnego, wykreśla je z urzędu.”;
+- **6)** art. 13 otrzymuje brzmienie: „Art. 13. 1. Wpisy do Rejestru podlegają obowiązkowi ogłoszenia w Monitorze Sądowym i Gospodarczym, chyba że ustawa stanowi inaczej.
+
+2. Nie podlegają ogłoszeniu wpisy do Rejestru dotyczące wpisanych w nim osób fizycznych wykonujących działalność gospodarczą.”;
+
+- **7)** w art. 18 ust. 2 otrzymuje brzmienie: „2. Jeżeli do rejestru jest wpisana osobowa spółka handlowa, odpowiedzialność, o której mowa w ust. 1, ponoszą solidarnie ze spółką osoby odpowiadające za zobowiązania spółki całym swoim majątkiem.”;
+- **8)** art. 19 otrzymuje brzmienie: „Art. 19. 1. Wpis do Rejestru jest dokonywany na wniosek, chyba że przepis szczególny przewiduje wpis z urzędu.
+
+2. Wniosek o wpis do Rejestru składa się na urzędowym formularzu. Składając wniosek, wnioskodawca bez wezwania uiszcza opłatę sądową, a jeżeli wpis podlega ogłoszeniu - również opłatę za ogłoszenie w Monitorze Sądowym i Gospodarczym.
+
+3. Wniosek złożony z naruszeniem przepisu ust. 2 lub nieprawidłowo wypełniony podlega zwróceniu, bez wzywania do uzupełnienia braków.
+
+4. W razie zwrócenia wniosku zgodnie z ust. 3 przy pierwszym wpisie do Rejestru, może on być ponownie złożony w terminie 7 dni od daty doręczenia zarządzenia o zwrocie. Jeżeli wniosek nie jest dotknięty brakami, wywołuje skutek od daty pierwotnego wniesienia. Skutek taki nie następuje w razie kolejnego zwrotu wniosku.
+
+5. Urzędowe formularze są udostępniane w siedzibach sądów oraz poza nimi.
+
+6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory, sposób i miejsca udostępniania urzędowych formularzy. Formularze te powinny odpowiadać wymaganiom przewidzianym dla pism procesowych oraz zawierać niezbędne pouczenia dla stron co do sposobu ich wypełniania, wnoszenia i skutków niedostosowania wniosku do tych wymagań.”;
+
+- **9)** po art. 19 dodaje się art. 19a w brzmieniu: „Art. 19a. 1. Do wniosku o wpis podmiotu podlegającego obowiązkowi wpisu do Rejestru dołącza się uwierzytelnione notarialnie albo złożone przed sędzią lub upoważnionym pracownikiem sądu wzory podpisów osób upoważnionych do reprezentowania tego podmiotu.
+
+2. Przepis ust. 1 stosuje się również w przypadku zmiany osób upoważnionych do reprezentowania podmiotu wpisanego do Rejestru.
+
+3. Do wniosku, o którym mowa w ust. 1, dołącza się także dokument potwierdzający tytuł prawny wnioskodawcy do lokalu (nieruchomości), w którym ma być wykonywana działalność objęta wnioskiem.
+
+4. Przepisów ust. 1 i 2 oraz art. 11 ust. 1 nie stosuje się do osób fizycznych wykonujących działalność gospodarczą.”;
+
+- **10)** w art. 20:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wpisy, o których mowa w art. 12 ust. 3, art. 24 ust. 3 i 4 i w art. 41, a także wpis dłużnika do rejestru dłużników niewypłacalnych, następują po uprawomocnieniu się postanowienia w przedmiocie wpisu.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. W sprawach, o których mowa w ust. 2, datę uprawomocnienia wpisuje się z urzędu. Wpis ten nie podlega ogłoszeniu.”;
+
+- **11)** art. 21 otrzymuje brzmienie: „Art. 21. Organy administracji rządowej i samorządowej, sądy, banki, komornicy i notariusze są obowiązani niezwłocznie informować sąd rejestrowy o zdarzeniach, które podlegają obowiązkowi wpisu do Rejestru z urzędu.”;
+- **12)** w art. 23 ust. 2 otrzymuje brzmienie: „2. Sąd rejestrowy bada, czy dane wskazane we wniosku o wpis do Rejestru w zakresie określonym w art. 35 są prawdziwe. W pozostałym zakresie sąd rejestrowy bada, czy zgłoszone dane są zgodne z rzeczywistym stanem, jeżeli ma w tym względzie uzasadnione wątpliwości.”;
+- **13)** art. 24 otrzymuje brzmienie: „Art. 24. 1. W razie stwierdzenia, że wniosek o wpis do Rejestru lub dokumenty, których złożenie jest obowiązkowe, nie zostały złożone pomimo upływu terminu, sąd rejestrowy wzywa obowiązanych do ich złożenia, wyznaczając dodatkowy 7-dniowy termin, pod rygorem zastosowania grzywny przewidzianej w przepisach Kodeksu postępowania cywilnego o egzekucji świadczeń niepieniężnych. W razie niewykonania obowiązków w tym terminie, sąd rejestrowy nakłada grzywnę na obowiązanych. Przepisów art. 1052 zdanie drugie i art. 1053 Kodeksu postępowania cywilnego nie stosuje się.
+
+2. Sąd rejestrowy może ponawiać grzywnę, o której mowa w ust. 1.
+
+3. Jeżeli środki, o których mowa w ust. 1 i 2, nie spowodują złożenia wniosku o wpis lub dokumentów, których złożenie jest obowiązkowe, a w Rejestrze jest zamieszczony wpis niezgodny z rzeczywistym stanem rzeczy, sąd rejestrowy wykreśla ten wpis z urzędu.
+
+4. W szczególnie uzasadnionych przypadkach sąd rejestrowy może dokonać z urzędu wpisu danych odpowiadających rzeczywistemu stanowi rzeczy, o ile dokumenty stanowiące podstawę wpisu znajdują się w aktach rejestrowych, a dane te są istotne.”;
+
+- **14)** art. 25 otrzymuje brzmienie: „Art. 25. Jeżeli pomimo stosowania grzywny, o której mowa w art. 24, osobowa spółka handlowa wpisana do Rejestru nie wykonuje obowiązków określonych w art. 24 ust. 1, sąd rejestrowy z urzędu może, z ważnych powodów, orzec o rozwiązaniu spółki oraz ustanowić likwidatora.”;
+- **15)** art. 26 otrzymuje brzmienie: „Art. 26. 1. Jeżeli pomimo stosowania grzywien osoba prawna wpisana do rejestru przedsiębiorców nie wykonuje obowiązków, o których mowa w art. 24 ust. 1, sąd rejestrowy może ustanowić dla niej kuratora na okres nieprzekraczający roku. Sąd rejestrowy może przedłużyć ustanowienie kuratora na okres nieprzekraczający 6 miesięcy, jeżeli czynności kuratora nie mogły zostać zakończone przed upływem okresu, na który został ustanowiony.
+
+2. Kuratorem może być tylko osoba fizyczna, która nie była karana za popełnione umyślnie przestępstwo przeciwko mieniu, obrotowi gospodarczemu oraz obrotowi pieniędzmi i papierami wartościowymi.
+
+3. Postanowienie sądu rejestrowego o ustanowieniu kuratora jest skuteczne z chwilą jego wydania.
+
+4. Przepisu ust. 1 nie stosuje się do osób prawnych wpisanych do rejestru przedsiębiorców na podstawie art. 50.
+
+5. Prezesi sądów okręgowych, w których okręgach działają sądy rejestrowe, prowadzą listy kandydatów na kuratorów.
+
+6. Minister Sprawiedliwości określa, w drodze rozporządzenia, kwalifikacje wymagane od kandydatów na kuratorów oraz sposób prowadzenia listy tych kandydatów i dane ujmowane w liście kandydatów, mając na uwadze gwarancje należytego wykonywania obowiązków przez te osoby.”;
+
+- **16)** art. 27 otrzymuje brzmienie: „Art. 27. Na postanowienie sądu rejestrowego w przedmiocie stosowania grzywny, o której mowa w art. 24, oraz ustanowienia kuratora, jego odwołania i odmowy odwołania, przysługuje zażalenie.”;
+- **17)** art. 28 otrzymuje brzmienie: „Art. 28. Kurator ustanowiony na podstawie art. 26 ust. 1 jest obowiązany do niezwłocznego przeprowadzenia czynności wymaganych do wyboru lub powołania władz osoby prawnej.”;
+- **18)** w art. 29:
+    - **a)** dotychczasową treść oznacza się jako ust. 1,
+    - **b)** po ust. 1 dodaje się ust. 2 w brzmieniu: „2. Kurator może wystąpić do sądu rejestrowego o rozwiązanie osoby prawnej oraz ustanowienie likwidatora z powodu braku jej władz lub z innej ważnej przyczyny, jeśli czynności, o których mowa w ust. 1, nie doprowadzą do rozwiązania osoby prawnej i wszczęcia likwidacji.”;
+
+- **19)** art. 30 otrzymuje brzmienie: „Art. 30. Jeżeli kurator przy wykonywaniu swych czynności stwierdzi, że istnieją przesłanki zgłoszenia wniosku o ogłoszenie upadłości osoby prawnej dla której został ustanowiony, może zgłosić taki wniosek właściwemu sądowi.”;
+- **20)** w art. 31:
+    - **a)** dotychczasową treść oznacza się jako ust. 1,
+    - **b)** po ust 1 dodaje się ust. 2 w brzmieniu: „2. Sąd rejestrowy z urzędu odwołuje kuratora, jeżeli nienależycie wykonuje on swoje obowiązki.”;
+
+- **21)** art. 32 otrzymuje brzmienie: „Art. 32. 1. Kurator ma prawo do wynagrodzenia za swoją działalność oraz do zwrotu uzasadnionych wydatków, które poniósł w związku ze swoimi czynnościami.
+
+2. Wynagrodzenie, o którym mowa w ust. 1, przyznaje postanowieniem sąd rejestrowy, w wysokości stosownej do zakresu dokonanych przez kuratora czynności, zasądzając na rzecz kuratora należne mu kwoty od osób zobowiązanych do pokrycia kosztów jego działalności oraz orzekając o obowiązku tych osób zwrotu wydatków poniesionych przez Skarb Państwa. Sąd może postanowieniem przyznawać kuratorowi zaliczki w miarę dokonywanych czynności.
+
+3. Koszty działalności kuratora obciążają solidarnie osobę prawną, dla której został ustanowiony, oraz członków jej organu pełniącego funkcję zarządu.
+
+4. Postanowienie, o którym mowa w ust. 2, jest podstawą do prowadzenia egzekucji w zakresie kosztów należnych kuratorowi.”;
+
+- **22)** art. 33 otrzymuje brzmienie: „Art. 33. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do sprawach finansów publicznych, określa, w drodze rozporządzenia, dolną i górną granicę wynagrodzeń za działalność kuratorów, biorąc pod uwagę zróżnicowanie, stopień trudności i czas trwania poszczególnych czynności.”;
+- **23)** art. 35 otrzymuje brzmienie: „Art. 35. Ilekroć do Rejestru wpisuje się:
+- **1)** osobę fizyczną - zamieszcza się nazwisko i imiona oraz identyfikator nadany w systemie ewidencji ludności, zwany dalej „numerem PESEL”,
+- **2)** inny podmiot niż określony w pkt 1 - zamieszcza się nazwę lub firmę oraz numer identyfikacyjny nadany w rejestrze podmiotów gospodarki narodowej, na podstawie przepisów o statystyce publicznej, zwany dalej „numerem REGON”, a jeżeli podmiot jest zarejestrowany w Rejestrze, także jego numer w Rejestrze.”;
+- **24)** art. 36 otrzymuje brzmienie: „Art. 36. Przepisy niniejszego rozdziału stosuje się do następujących podmiotów:
+- **1)** osób fizycznych wykonujących działalność gospodarczą,
+- **2)** spółek jawnych,
+- **3)** spółek partnerskich,
+- **4)** spółek komandytowych,
+- **5)** spółek komandytowo-akcyjnych,
+- **6)** spółek z ograniczoną odpowiedzialnością,
+- **7)** spółek akcyjnych,
+- **8)** spółdzielni,
+- **9)** przedsiębiorstw państwowych,
+- **10)** jednostek badawczo-rozwojowych,
+- **11)** przedsiębiorców określonych w przepisach o zasadach prowadzenia na terytorium Rzeczypospolitej Polskiej działalności gospodarczej w zakresie drobnej wytwórczości przez zagraniczne osoby prawne i fizyczne, zwane dalej „przedsiębiorstwami zagranicznymi”,
+- **12)** towarzystw ubezpieczeń wzajemnych,
+- **13)** innych osób prawnych, jeżeli wykonują działalność gospodarczą i podlegają obowiązkowi wpisu do rejestru, o którym mowa w art. 1 ust. 2 pkt 2,
+- **14)** oddziałów przedsiębiorców zagranicznych działających na terytorium Rzeczypospolitej Polskiej,
+- **15)** głównych oddziałów zagranicznych zakładów ubezpieczeń.”;
+- **25)** w art. 37 skreśla się oznaczenie ust. 1 oraz skreśla się ust. 2;
+- **26)** art. 38 otrzymuje brzmienie: „Art. 38. W dziale 1 rejestru przedsiębiorców zamieszcza się następujące dane:
+- **1)** dla każdego podmiotu:
+    - **a)** nazwę lub firmę, pod którą działa, a w przypadku osoby fizycznej - jej oznaczenie zgodnie z art. 35 pkt 1 oraz nazwę, pod którą wykonuje działalność gospodarczą,
+    - **b)** oznaczenie jego formy prawnej,
+    - **c)** jego siedzibę i adres, a w przypadku osoby fizycznej również jej miejsce zamieszkania i adres,
+    - **d)** jeżeli podmiot wpisany do rejestru przedsiębiorców posiada oddziały - także ich siedziby i adresy,
+    - **e)** oznaczenie jego poprzedniego numeru rejestru sądowego lub numeru w ewidencji działalności gospodarczej,
+    - **f)** jeżeli podmiot wpisany do rejestru przedsiębiorców utworzony został w wyniku przekształcenia lub podziału innego podmiotu albo połączenia innych podmiotów, zamieszcza się w tym rejestrze wzmiankę o sposobie powstania podmiotu, a także oznaczenia poprzednich numerów rejestru. Jeżeli podmiot wpisany do rejestru przedsiębiorców utworzony został w wyniku koncentracji innych podmiotów, zamieszcza się w tym rejestrze także oznaczenie poprzednich numerów tego rejestru oraz numer i datę decyzji Prezesa Urzędu Ochrony Konkurencji i Konsumentów o zgodzie na dokonanie koncentracji, wydanej zgodnie z przepisami o ochronie konkurencji i konsumentów,
+    - **g)** wzmiankę o wykonywaniu działalności gospodarczej z innymi podmiotami na podstawie umowy spółki cywilnej,
+
+- **2)** w przypadku osoby fizycznej – informacje o pozostawaniu w związku małżeńskim, zawarciu małżeńskiej umowy majątkowej, ustaniu wspólności majątkowej między małżonkami, zaznaczenie ograniczenia jej zdolności do czynności prawnych, o ile takie istnieje,
+- **3)** w przypadku podmiotu niebędącego osobą fizyczną – informacje o statucie lub umowie, wzmiankę o ich zmianie, okres, na który podmiot został utworzony, oraz jego numer REGON,
+- **4)** w przypadku spółki jawnej:
+    - **a)** oznaczenie wspólników spółki jawnej, zgodnie z art. 35,
+    - **b)** informacje o jej wspólnikach, zgodnie z pkt 2,
+
+- **5)** w przypadku spółki partnerskiej:
+    - **a)** oznaczenie partnerów, zgodnie z art. 35,
+    - **b)** informacje o partnerach, zgodnie z pkt 2,
+    - **c)** w przypadku partnerów ponoszących odpowiedzialność zgodnie z art. 95 § 2 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz.U. Nr 94, poz. 1037) zaznaczenie tej okoliczności,
+
+- **6)** w przypadku spółki komandytowej:
+    - **a)** oznaczenie wspólników spółki komandytowej, zgodnie z art. 35,
+    - **b)** informacje o jej wspólnikach, zgodnie z pkt 2,
+    - **c)** określenie, który ze wspólników jest komplementariuszem, a który komandytariuszem,
+    - **d)** wysokość sumy komandytowej,
+    - **e)** przedmiot wkładu każdego komandytariusza, z zaznaczeniem, w jakiej części został wniesiony, oraz zwroty wkładów choćby częściowe,
+
+- **7)** w przypadku spółki komandytowo-akcyjnej:
+    - **a)** oznaczenie komplementariuszy spółki komandytowoakcyjnej, zgodnie z art. 35,
+    - **b)** informacje o jej komplementariuszach, zgodnie z pkt 2,
+    - **c)** wysokość kapitału zakładowego, liczbę i wartość nominalną akcji,
+    - **d)** ilość akcji uprzywilejowanych i rodzaj uprzywilejowania,
+    - **e)** wzmiankę, jaka część kapitału zakładowego została opłacona przed zarejestrowaniem,
+    - **f)** jeżeli przy zawiązaniu spółki akcjonariusze wnoszą wkłady niepieniężne - zaznaczenie tej okoliczności, z podaniem wartości nominalnej objętych w zamian za nie akcji,
+
+- **8)** w przypadku spółki z ograniczoną odpowiedzialnością:
+    - **a)** wysokość kapitału zakładowego, a jeżeli wspólnicy wnoszą wkłady niepieniężne – zaznaczenie tej okoliczności, z podaniem wartości objętych w zamian za nie udziałów,
+    - **b)** określenie, czy wspólnik może mieć jeden czy większą liczbę udziałów,
+    - **c)** zgodnie z art. 35, oznaczenie wspólników posiadających samodzielnie lub łącznie z innymi co najmniej 10% kapitału zakładowego oraz ilość posiadanych przez tych wspólników udziałów i łączną ich wysokość,
+    - **d)** jeżeli spółka ma tylko jednego wspólnika – wzmiankę, że jest on jedynym wspólnikiem spółki,
+    - **e)** jeżeli umowa wskazuje pismo przeznaczone do ogłoszeń spółki - oznaczenie tego pisma,
+
+- **9)** w przypadku spółki akcyjnej:
+    - **a)** wysokość kapitału zakładowego, liczbę i wartość nominalną akcji,
+    - **b)** wysokość kapitału docelowego, jeżeli statut to przewiduje,
+    - **c)** ilość akcji uprzywilejowanych i rodzaj uprzywilejowania,
+    - **d)** wzmiankę, jaka część kapitału zakładowego została opłacona przed zarejestrowaniem,
+    - **e)** jeżeli akcjonariusze wnoszą wkłady niepieniężne - zaznaczenie tej okoliczności, z podaniem wartości nominalnej objętych w zamian za nie akcji,
+    - **f)** jeżeli statut wskazuje pismo przeznaczone do ogłoszeń spółki - oznaczenie tego pisma,
+    - **g)** jeżeli statut przewiduje przyznanie uprawnień osobistych określonym akcjonariuszom lub tytuły uczestnictwa w dochodach lub majątku spółki niewynikających z akcji zaznaczenie tych okoliczności,
+    - **h)** w przypadku, gdy spółka ma tylko jednego akcjonariusza - jego oznaczenie zgodnie z art. 35, a także wzmiankę, iż jest on jedynym akcjonariuszem spółki,
+    - **i)** wzmiankę o uchwale o emisji obligacji zamiennych i akcji wydawanych za te obligacje; wzmiankę o prawie obligatariuszy do udziału w zysku,
+
+- **10)** w przypadku przedsiębiorstwa państwowego - organ założycielski,
+- **11)** w przypadku jednostki badawczo-rozwojowej - podmiot tworzący jednostkę,
+- **12)** w przypadku przedsiębiorstwa zagranicznego:
+    - **a)** nazwisko i imiona osoby fizycznej lub określenie osoby prawnej, która uzyskała zezwolenie na prowadzenie tego przedsiębiorstwa na terytorium Rzeczypospolitej Polskiej, wraz z miejscem zamieszkania (siedzibą) i adresem tej osoby,
+    - **b)** oznaczenie organu, który wydał zezwolenie na prowadzenie tego przedsiębiorstwa na terytorium Rzeczypospolitej Polskiej, oraz numer i datę tego zezwolenia,
+
+- **13)** w przypadku towarzystwa ubezpieczeń wzajemnych - oznaczenie terytorialnego zasięgu działalności towarzystwa, oznaczenie działu ubezpieczeń objętego działalnością towarzystwa, wysokość kapitału zakładowego i zapasowego, wzmiankę dotyczącą uznania towarzystwa za małe towarzystwo ubezpieczeń wzajemnych, wzmiankę o częściowym ograniczeniu lub cofnięciu zezwolenia na prowadzenie towarzystwa,
+- **14)** w przypadku oddziałów przedsiębiorców zagranicznych działających na terytorium Rzeczypospolitej Polskiej:
+    - **a)** oznaczenie przedsiębiorcy zagranicznego wraz z określeniem jego formy organizacyjno-prawnej,
+    - **b)** siedzibę i adres przedsiębiorcy zagranicznego,
+    - **c)** jeżeli przedsiębiorca zagraniczny istnieje lub wykonuje działalność na podstawie wpisu do rejestru - rejestr, w którym wpisany jest zagraniczny przedsiębiorca, wraz z numerem wpisu do rejestru oraz określeniem organu prowadzącego rejestr i przechowującego akta,
+    - **d)** jeżeli przedsiębiorca zagraniczny nie podlega prawu jednego z państw członkowskich Unii Europejskiej – określenie prawa państwa właściwego dla przedsiębiorcy,
+
+- **15)** w przypadku głównych oddziałów zagranicznych zakładów ubezpieczeń:
+    - **a)** oznaczenie zagranicznego zakładu ubezpieczeń wraz z określeniem jego formy organizacyjno-prawnej,
+    - **b)** siedzibę i adres zagranicznego zakładu ubezpieczeń,
+    - **c)** jeżeli zagraniczny zakład ubezpieczeń istnieje lub wykonuje działalność na podstawie wpisu do rejestru - rejestr, w którym wpisany jest zagraniczny zakład ubezpieczeń, wraz z numerem wpisu do rejestru oraz określeniem organu prowadzącego rejestr i przechowującego akta,
+    - **d)** jeżeli zagraniczny zakład ubezpieczeń nie podlega prawu jednego z państw członkowskich Unii Europejskiej – określenie prawa państwa właściwego dla zagranicznego zakładu ubezpieczeń.”;
+
+- **27)** art. 39 otrzymuje brzmienie: „Art. 39. W dziale 2 rejestru przedsiębiorców zamieszcza się następujące dane:
+- **1)** oznaczenie organu uprawnionego do reprezentowania podmiotu oraz osób wchodzących w jego skład, ze wskazaniem sposobu reprezentacji, a w przypadku gdy w spółkach osobowych nie ma takiego organu-wskazanie wspólników uprawnionych do reprezentowania spółki, a także sposobu reprezentacji; w przypadku oddziałów przedsiębiorców zagranicznych oraz głównych oddziałów zagranicznych zakładów ubezpieczeń dane te podlegają ujawnieniu co do przedsiębiorców zagranicznych i zagranicznych zakładów ubezpieczeń, odpowiednio z uwzględnieniem odmienności struktury ich organów,
+- **2)** oznaczenie organów nadzoru wraz z ich składem osobowym; w przypadku oddziałów przedsiębiorców zagranicznych oraz głównych oddziałów zagranicznych zakładów ubezpieczeń dane te podlegają ujawnieniu co do przedsiębiorców zagranicznych i zagranicznych zakładów ubezpieczeń, odpowiednio z uwzględnieniem odmienności struktury ich organów,
+- **3)** dotyczące prokurentów oraz zakresu prokury; w przypadku ustanowienia prokurentem podmiotu, co do którego szczególny przepis przewiduje, iż do sprawowania funkcji prokurenta wyznaczyć musi on osobę fizyczną, zamieszcza się jedynie dane tej osoby fizycznej,
+- **4)** oznaczenie osoby upoważnionej przez przedsiębiorcę zagranicznego do reprezentowania go w oddziale; dyrektora i zastępców dyrektora głównego oddziału zagranicznego zakładu ubezpieczeń oraz osoby upoważnionej do reprezentacji zagranicznego zakładu ubezpieczeń w zakresie działalności głównego oddziału; oznaczenie pełnomocnika uprawnionego do działania w imieniu przedsiębiorcy zagranicznego w zakresie przedsiębiorstwa zagranicznego wraz z zakresem jego umocowania,
+- **5)** wzmianki o zawieszeniu członków organu, o ile przepis szczególny przewiduje zawieszenie członka organu.”;
+- **28)** w art. 40:
+    - **a)** pkt 1 i 2 otrzymują brzmienie: „1) przedmiot działalności według Polskiej Klasyfikacji Działalności (PKD), z tym że w przypadku oddziałów przedsiębiorców zagranicznych oraz głównych oddziałów zagranicznych zakładów ubezpieczeń określa się przedmiot działalności oddziału,
+
+- **2)** wzmiankę o złożeniu rocznego sprawozdania finansowego z oznaczeniem daty jego złożenia,”,
+    - **b)** pkt 5 otrzymuje brzmienie: „5) w przypadku spółek z ograniczoną odpowiedzialnością, towarzystw ubezpieczeń wzajemnych, spółek akcyjnych oraz spółdzielni – wzmiankę o złożeniu sprawozdania z ich działalności, jeżeli przepisy o rachunkowości wymagają ich złożenia do sądu rejestrowego”,
+    - **c)** skreśla się pkt 6;
+
+- **29)** art. 41 otrzymuje brzmienie: „Art. 41. W dziale 4 rejestru przedsiębiorców zamieszcza się następujące dane:
+- **1)** zaległości podatkowe i celne objęte egzekucją, jeżeli dochodzona należność nie została uiszczona w terminie 60 dni od daty wszczęcia egzekucji; datę wszczęcia egzekucji tych należności oraz wysokość pozostałych do wyegzekwowania kwot, datę i sposób zakończenia egzekucji,
+- **2)** należności, do których poboru jest obowiązany Zakład Ubezpieczeń Społecznych, objęte egzekucją, jeżeli dochodzona należność nie została uiszczona w terminie 60 dni od daty wszczęcia egzekucji; datę wszczęcia egzekucji tych należności oraz wysokość pozostałych do wyegzekwowania kwot, datę i sposób zakończenia egzekucji,
+- **3)** oznaczenie wierzyciela podmiotu oraz jego wierzytelność, jeżeli posiada tytuł wykonawczy wystawiony przeciwko podmiotowi i nie został zaspokojony w ciągu 30 dni od daty wezwania do spełnienia świadczenia; w przypadku wierzytelności solidarnych ujawnieniu w rejestrze podlega jedynie wierzyciel wnoszący o dokonanie wpisu z zaznaczeniem, że jest to wierzytelność wynikająca ze zobowiązania solidarnego,
+- **4)** informacje o oddaleniu wniosku o ogłoszenie upadłości z uwagi na fakt, że majątek dłużnika nie wystarcza nawet na zaspokojenie kosztów postępowania upadłościowego,
+- **5)** informacje o umorzeniu egzekucji sądowej lub administracyjnej prowadzonej przeciwko przedsiębiorcy, z uwagi na fakt, że z egzekucji nie uzyska się sumy wyższej od kosztów egzekucyjnych.”;
+- **30)** art. 44 otrzymuje brzmienie: „Art. 44. 1. W dziale 6 rejestru przedsiębiorców zamieszcza się następujące dane:
+- **1)** informacje o otwarciu i zakończeniu likwidacji, ustanowieniu zarządu i zarządu komisarycznego,
+- **2)** dane o osobie likwidatora wraz ze sposobem reprezentacji, zarządcy oraz zarządcy komisarycznego,
+- **3)** informację o rozwiązaniu lub unieważnieniu spółki,
+- **4)** informacje o połączeniu z innymi podmiotami, podziale lub przekształceniu podmiotu w inny sposób,
+- **5)** informacje o otwarciu postępowania układowego, o ogłoszeniu upadłości, o zakończeniu tych postępowań lub uchyleniu układu, o osobie syndyka masy upadłości oraz osobach powołanych w toku postępowania upadłościowego do reprezentowania upadłego (reprezentant upadłego lub przedstawiciel upadłego).
+
+2. W przypadku oddziałów przedsiębiorców zagranicznych oraz głównych oddziałów zagranicznych zakładów ubezpieczeń działających na terytorium Rzeczypospolitej Polskiej dane, o których mowa w ust. 1, zamieszcza się co do oddziałów i odpowiednio przedsiębiorców zagranicznych lub zagranicznych zakładów ubezpieczeń.”;
+
+- **31)** art. 45 otrzymuje brzmienie: „Art. 45. 1. Wpisów w dziale 5 rejestru przedsiębiorców dokonuje się z urzędu.
+
+2. Dane, o których mowa w art. 44 ust. 1 pkt 5, w dziale 6 rejestru przedsiębiorców są wpisywane z urzędu albo na wniosek wierzycieli, syndyka masy upadłości lub wpisanego w Rejestrze podmiotu.
+
+3. Wpisów w dziale 4 rejestru przedsiębiorców, o których mowa w art. 41 pkt 1, 2 i 3, dokonuje się na wniosek wierzyciela. Zgłoszenie okoliczności, o których mowa w art. 41 pkt 1 i 2, jest obowiązkowe, a podmioty zobowiązane do zgłoszenia tych okoliczności określają odrębne przepisy. Wpisów określonych w art. 41 pkt 4 i 5 dokonuje się z urzędu.
+
+4. Wpisów w dziale 6 rejestru przedsiębiorców, o których mowa w art. 44 ust. 1 pkt 1 i 2, dokonuje się z urzędu, jeżeli likwidatora ustanowiono z urzędu.
+
+5. Jeżeli przepis szczególny nie stanowi inaczej, w przypadku przekształcenia, łączenia lub podziału podmiotu skutkującego jego likwidacją, wykreślenie podmiotu oraz wpis informacji, o których mowa w art. 44 ust. 1 pkt 4, następuje z urzędu. Sąd rejestrowy wpisujący skutki przekształcenia, łączenia lub podziału zawiadamia o tym sąd rejestrowy właściwy dla podmiotu podlegającego przekształceniom przesyłając odpisy odpowiednich postanowień o wpisie do Rejestru.
+
+6. Wniosek o wpis informacji o małżeńskich stosunkach majątkowych osób wpisanych do Rejestru jako przedsiębiorcy lub wspólnicy osobowych spółek handlowych może złożyć osoba wpisana w tym Rejestrze oraz jej małżonek.
+
+7. Przedsiębiorca, który zgłasza do Rejestru okoliczność zawarcia umowy spółki cywilnej, składa do akt rejestrowych odpis umowy spółki. O zmianach umowy przedsiębiorca jest obowiązany zawiadomić sąd rejestrowy oraz złożyć do akt rejestrowych tekst jednolity tej umowy.
+
+8. Wniosek o wykreślenie z Rejestru przedsiębiorstwa państwowego podzielonego w celu utworzenia dwóch lub więcej przedsiębiorstw oraz przedsiębiorstwa państwowego zlikwidowanego składa organ założycielski tego przedsiębiorstwa.”;
+
+- **32)** art. 46 otrzymuje brzmienie: „Art. 46. 1. Dane, o których mowa w art. 41, mogą być wykreślone w przypadku, gdy po dokonaniu wpisu zapadło orzeczenie sądowe lub decyzja administracyjna, z których wynika, że wpisana do tego rejestru należność nie istnieje lub wygasło zobowiązanie, z którego ona wynika, albo gdy tytuł wykonawczy, który stanowił podstawę wpisu został prawomocnym orzeczeniem sądu pozbawiony wykonalności. Wygaśnięcie zobowiązania powinno być stwierdzone orzeczeniem lub zaświadczeniem właściwego organu lub oświadczeniami dłużnika i wierzyciela.
+
+2. Wpisy dokonane w dziale 4 rejestru przedsiębiorców sąd wykreśla z urzędu po upływie 7 lat od dnia dokonania wpisu.
+
+3. Wpisy w całości wykreślone nie podlegają ujawnieniu.”;
+
+- **33)** art. 47 otrzymuje brzmienie: „Art. 47. Podmioty podlegające obowiązkowi wpisu do rejestru przedsiębiorców są obowiązane zgłaszać informacje wymienione w art. 3840 i w art. 44 oraz ich zmiany, niezależnie od obowiązków wynikających z odrębnych przepisów, chyba że ustawa stanowi inaczej.”;
+- **34)** art. 50 otrzymuje brzmienie: „Art. 50. Jeżeli podmiot wpisany do rejestru, o którym mowa w art. 49 ust. 1, podejmuje działalność gospodarczą, podlega obowiązkowi wpisu także do rejestru przedsiębiorców, z wyjątkiem samodzielnego publicznego zakładu opieki zdrowotnej i kolumny transportu sanitarnego.”;
+- **35)** art. 52 otrzymuje brzmienie: „Art. 52. 1. Przy rejestracji stowarzyszenia, związku zawodowego oraz organizacji pracodawców w dziale 1 wpisuje się osoby wchodzące w skład komitetu założycielskiego.
+
+2. Przy rejestracji innych organizacji społecznych i zawodowych w dziale 1 wpisuje się osoby lub inne podmioty zakładające organizację.
+
+3. Przy rejestracji fundacji w dziale 1 wpisuje się fundatorów.
+
+4. Przy rejestracji stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji, publicznych zakładów opieki zdrowotnej oraz kolumn transportu sanitarnego w dziale 1 wpisuje się organ sprawujący nadzór.”;
+
+- **36)** art. 55 otrzymuje brzmienie: „Art. 55. Do rejestru dłużników niewypłacalnych wpisuje się z urzędu:
+- **1)** osoby fizyczne wykonujące działalność gospodarczą, jeżeli ogłoszono ich upadłość lub jeżeli wniosek o ogłoszenie ich upadłości został prawomocnie oddalony z tego powodu, że majątek dłużnika nie wystarcza nawet na zaspokojenie kosztów postępowania upadłościowego albo umorzono prowadzoną przeciwko nim egzekucję sądową lub administracyjną z uwagi na fakt, iż z egzekucji nie uzyska się sumy wyższej od kosztów egzekucyjnych,
+- **2)** wspólników ponoszących odpowiedzialność całym swoim majątkiem za zobowiązania spółki, z wyłączeniem komandytariuszy w spółce komandytowej, jeżeli ogłoszono jej upadłość lub jeżeli wniosek o ogłoszenie jej upadłości został prawomocnie oddalony z tego powodu że, majątek dłużnika nie wystarcza nawet na zaspokojenie kosztów postępowania upadłościowego albo umorzono prowadzoną przeciwko nim egzekucję sądową lub administracyjną z uwagi na fakt, iż z egzekucji nie uzyska się sumy wyższej od kosztów egzekucyjnych,
+- **3)** dłużników, którzy zostali zobowiązani do wyjawienia majątku w trybie przepisów Kodeksu postępowania cywilnego o postępowaniu egzekucyjnym,
+- **4)** osoby, które przez sąd prowadzący postępowanie upadłościowe zostały pozbawione prawa wykonywania działalności gospodarczej na własny rachunek oraz pełnienia funkcji reprezentanta lub pełnomocnika przedsiębiorcy, członka rady nadzorczej i komisji rewizyjnej w spółce akcyjnej, z ograniczoną odpowiedzialnością lub spółdzielni.”;
+- **37)** w art. 57 w ust. 1 pkt 1 i 2 otrzymują brzmienie: „1) oznaczenie dłużnika, zgodnie z art. 35,
+- **2)** podstawę wpisu wraz z sygnaturą akt sprawy upadłościowej lub postępowania o wyjawienie majątku w trybie przepisów Kodeksu postępowania cywilnego o postępowaniu egzekucyjnym; w sprawach dłużników, którzy nie zaspokoili wierzycieli - oznaczenie tytułu wykonawczego i wierzyciela oraz kwotę wierzytelności - w przypadku wierzytelności pieniężnych lub opis wierzytelności - w przypadku wierzytelności niepieniężnych; w przypadku wierzytelności solidarnych ujawnieniu w rejestrze podlega jedynie wierzyciel wnoszący o dokonanie wpisu z zaznaczeniem, że jest to wierzytelność wynikająca ze zobowiązania solidarnego,”;
+- **38)** w art. 59:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Sąd rejestrowy z urzędu dokonuje wykreślenia wpisów, gdy uchylono orzeczenie o ogłoszeniu upadłości, albo na wniosek osoby wpisanej do rejestru dłużników niewypłacalnych, gdy tytuł wykonawczy, który stanowił podstawę wpisu, został prawomocnym orzeczeniem sądu pozbawiony wykonalności.”,
+    - **b)** po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Wpisy wykreślone w całości nie podlegają ujawnieniu.”;
+
+- **39)** art. 60 otrzymuje brzmienie: „Art. 60. 1. Wpisy dokonane w rejestrze dłużników niewypłacalnych podlegają wykreśleniu z urzędu po upływie 7 lat od dnia dokonania wpisu. Wpisy wykreślone w całości nie podlegają ujawnieniu.
+
+2. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób prowadzenia rejestru dłużników niewypłacalnych oraz szczegółową treść wpisów w tym rejestrze, uwzględniając konieczność zapewnienia kompletności i przejrzystości danych zawartych w rejestrze.”;
+
+- **40)** art. 63 otrzymuje brzmienie: „Art. 63. W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz.U. Nr 43, poz. 296, z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532 oraz z 2000 r. Nr 22, poz. 269 i 271, Nr 48 poz. 552 i 554, Nr 55, poz. 655, Nr 73, poz. 852 i Nr 94, poz. 1037) wprowadza się następujące zmiany:
+- **1)** w art. 133 w § 2a dodaje się zdanie drugie w brzmieniu: „Jeżeli ostatni wpisany adres został wykreślony jako niezgodny z rzeczywistym stanem rzeczy i nie zgłoszono wniosku o wpis nowego adresu, adres wykreślony jest uważany za adres podany w rejestrze.”;
+- **2)** w art. 479 w § 2 wyraz „ewidencji” zastępuje się wyrazami „Krajowego Rejestru Sądowego”;
+- **3)** w art. 518 :
+    - **a)** po § 3 dodaje się § 3a w brzmieniu: „§ 3a. W postępowaniu rejestrowym o wpis do Krajowego Rejestru Sądowego oraz rejestru zastawów w razie wniesienia skargi na orzeczenie referendarza zarządzające wpis, pozostaje ono w mocy do chwili rozpatrzenia skargi przez sąd rejonowy rozpoznający sprawę jako sąd pierwszej instancji. Rozpoznając sprawę, sąd wydaje postanowienie, w którym zaskarżone orzeczenie i dokonany na jego podstawie wpis utrzymuje w mocy albo uchyla w całości lub w części i w tym zakresie wniosek oddala bądź odrzuca, względnie postępowanie umarza.”,
+    - **b)** w § 4 pkt 3 otrzymuje brzmienie: „3) w przypadku braku zawiadomienia – od dnia dowiedzenia się o dokonaniu czynności, z tym że w postępowaniu o wpis do Krajowego Rejestru Sądowego dla uczestników postępowania, którym postanowienia co do istoty sprawy nie doręcza się, termin do wniesienia skargi biegnie od daty wpisu w Rejestrze.”;
+
+- **4)** po dziale V księgi drugiej części pierwszej dodaje się dział VI w brzmieniu: „Dział VI Postępowanie rejestrowe
 
 **Art. 694¹.**
 
@@ -59,7 +339,7 @@ source: "isap-pdf"
 
 § 2. Sąd rejestrowy z urzędu sporządza uzasadnienie postanowienia co do istoty sprawy, które zostało wydane z urzędu.
 
-**Art. 694⁷.** W razie uwzględnienia środka odwoławczego od orzeczenia wydanego w postępowaniu rejestrowym, dotyczącego wpisu do Krajowego Rejestru Sądowenie i przekazuje sprawę do ponownego rozpoznania sądowi rejestrowemu. Rozpoznając ponownie sprawę sąd rejestrowy uwzględnia wskazania sądu drugiej instancji oraz aktualny stan rejestru.
+**Art. 694⁷.** W razie uwzględnienia środka odwoławczego od orzeczenia wydanego w postępowaniu rejestrowym, dotyczącego wpisu do Krajowego Rejestru Sądowego, sąd drugiej instancji uchyla zaskarżone orzeczenie i przekazuje sprawę do ponownego rozpoznania sądowi rejestrowemu. Rozpoznając ponownie sprawę sąd rejestrowy uwzględnia wskazania sądu drugiej instancji oraz aktualny stan rejestru.
 
 **Art. 694⁸.**
 
@@ -73,7 +353,8 @@ source: "isap-pdf"
 - **6)** skreśla się art. 918;
 - **7)** w art. 920 w § 1 wyrazy „Przepisy art. 913-920” zastępuje się wyrazami „Przepisy art. 913-917, 919 i 920”.”;
 - **41)** art. 69 otrzymuje brzmienie: „Art. 69. W ustawie z dnia 20 czerwca 1985 Prawo o ustroju sądów powszechnych (Dz.U. z 1994 r. Nr 7, poz. 25, Nr 77, poz. 355, Nr 91, poz. 421 i Nr 105, poz. 509, z 1995 r. Nr 34, poz. 163 i Nr 81, poz. 406, z 1996 r. Nr 77, poz. 367, z 1997 r. Nr 75, poz. 471, Nr 98, poz. 604, Nr 106, poz. 679, Nr 117, poz. 751, 752 i 753 i Nr 124, poz. 782, z 1998 r. Nr 98, poz. 607, Nr 160, poz. 1064 i Nr 162, poz. 1118 i 1125, z 1999 r. Nr 20, poz.180, Nr 60, poz. 636, Nr 75, poz. 853, Nr 83, poz. 931 i Nr 110, poz. 1255 oraz z 2000 r. Nr 48, poz. 551, Nr 50, poz. 580 i Nr 56, poz. 678) art. 27 otrzymuje brzmienie: „Art. 27 . Minister Sprawiedliwości może powierzyć, w drodze rozporządzenia, kierując się ilością spraw wpływających do sądów rejestrowych oraz względami ekonomii postępowania rejestrowego:
-- **1)** prowadzenie rejestrów, przekazanych ustawami do właściwych sądów rejonowych, jednemu z nich dla dwu lub więcej tych sądów, z sądów rejonowych (sądów gospodarczych) dla obszaru właściwości dwu lub więcej tych sądów lub części obszarów ich właściwości.”;
+- **1)** prowadzenie rejestrów, przekazanych ustawami do właściwych sądów rejonowych, jednemu z nich dla dwu lub więcej tych sądów,
+- **2)** prowadzenie Krajowego Rejestru Sądowego jednemu z sądów rejonowych (sądów gospodarczych) dla obszaru właściwości dwu lub więcej tych sądów lub części obszarów ich właściwości.”;
 - **42)** w art. 79 dodaje się pkt 4 w brzmieniu: „4) w art. 41a wprowadza się następujące zmiany:
     - **a)** w ust. 5 i 6 wyrazy „rejestru głównych oddziałów” zastępuje się wyrazami „Krajowego Rejestru Sądowego”,
     - **b)** skreśla się ust. 7-10.”;
@@ -88,13 +369,37 @@ source: "isap-pdf"
 - **4)** w art. 70h skreśla się oznaczenie ust. 1 oraz skreśla ust. 2 i 3;”;
 - **44)** w art. 85 dodaje się pkt 13 w brzmieniu: „13) w art. 42 ust. 5 otrzymuje brzmienie: „5. Z dochodów uzyskanych z opłat, o których mowa w ust. 4, tworzy się środek specjalny Ministerstwa Sprawiedliwości, który przeznacza się na usprawnienie funkcjonowania sądów powszechnych, a w szczególności na koszty ich działalności podstawowej oraz zakupy inwestycyjne.””.
 
-**Art. 2.** W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. Prawo upadłościowe (Dz.U. z 1991 r. Nr 118, poz. 512, z 1994 r. Nr 1, poz. 1, z 1995 r. Nr 85, poz. 426, z 1996 r. Nr 6, poz. 43, Nr 43, poz. 189, Nr 106, poz. 496 i Nr 149, poz. 703, z 1997 r. Nr 28, poz. 153, Nr 54, poz. 349, Nr 117, poz. 751, Nr 121, poz. 770 i Nr 140, poz. 940, z 1998 r. Nr 117, poz. 756 oraz z 2000 r. Nr 26, poz. 306, Nr 84, poz. 948 i Nr 94, poz. 1037) wprowadza się następujące zmiany: „§ 3. Postanowienie w przedmiocie upadłości podmiotu, którego działalność obejmuje prowadzenie rachunków papierów wartościowych na podstawie właściwego zezwolenia, w szczególności domu maklerskiego, banku prowadzącego działalność maklerską lub banku prowadzącego rachunki papierów wartościowych, jak również podmiotu będącego emitentem papierów wartościowych dopuszczonych do publicznego obrotu, doręcza się także Komisji Papierów Wartościowych i Giełd.”;
+**Art. 2.** W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. Prawo upadłościowe (Dz.U. z 1991 r. Nr 118, poz. 512, z 1994 r. Nr 1, poz. 1, z 1995 r. Nr 85, poz. 426, z 1996 r. Nr 6, poz. 43, Nr 43, poz. 189, Nr 106, poz. 496 i Nr 149, poz. 703, z 1997 r. Nr 28, poz. 153, Nr 54, poz. 349, Nr 117, poz. 751, Nr 121, poz. 770 i Nr 140, poz. 940, z 1998 r. Nr 117, poz. 756 oraz z 2000 r. Nr 26, poz. 306, Nr 84, poz. 948 i Nr 94, poz. 1037) wprowadza się następujące zmiany:
+
+- **1)** w art. 16 po § 2 dodaje się § 3 w brzmieniu: „§ 3. Postanowienie w przedmiocie upadłości podmiotu, którego działalność obejmuje prowadzenie rachunków papierów wartościowych na podstawie właściwego zezwolenia, w szczególności domu maklerskiego, banku prowadzącego działalność maklerską lub banku prowadzącego rachunki papierów wartościowych, jak również podmiotu będącego emitentem papierów wartościowych dopuszczonych do publicznego obrotu, doręcza się także Komisji Papierów Wartościowych i Giełd.”;
+- **2)** art. 17 otrzymuje brzmienie: „Art. 17 . § 1. Osoby, wobec których orzeczono zakaz, o którym mowa w art. 17 § 1, podlegają wpisowi do rejestru dłużników niewypłacalnych.
+
+§ 2. Sąd rejestrowy obejmujący swoją właściwością obszar właściwości sądu, który orzekł zakaz określony w art. 17 § 1, dokonuje wpisu do rejestru dłużników niewypłacalnych niezwłocznie po uprawomocnieniu się postanowienia, o którym mowa w art. 17 §
+
+4.
+
+§ 3. Po upływie okresu, na który zakaz został orzeczony, sąd rejestrowy z urzędu wykreśla wpis z rejestru dłużników niewypłacalnych.”.
 
 **Art. 3.** W ustawie z dnia z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 1991 r. Nr 36, poz. 161, z 1992 r. Nr 20 poz. 78, z 1993 r. Nr 28, poz. 127, z 1995 r. Nr 85, poz. 426 i Nr 141, poz. 692, z 1996 r. Nr 43, poz. 189, Nr 146, poz. 680 i Nr 156, poz. 773, z 1997 r. Nr 137, poz. 926 i Nr 141, poz. 943 i 944 oraz z 1998 r Nr 133, poz. 872 i Nr 162, poz. 1126) po art. 55 dodaje się art. 55a w brzmieniu: „Art. 55a. Jeżeli egzekucja prowadzona wobec podmiotu wpisanego w Krajowym Rejestrze Sądowym dotyczy należności podatkowych, celnych lub należności, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych, a nie zostały one uiszczone w terminie 60 dni od daty wszczęcia egzekucji, organ egzekucyjny składa wniosek o wpisanie do Krajowego Rejestru Sądowego daty wszczęcia egzekucji tych należności, wysokości pozostałych do wyegzekwowania kwot oraz daty i sposobu zakończenia egzekucji.”.
 
 **Art. 4.** W ustawie z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego (Dz.U. z 1996 r. Nr 6, poz. 42 i z 1997 r. Nr 121, poz. 770) w art. 1:
 
+- **1)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) ogłoszenia wymagane przez Kodeks spółek handlowych i Kodeks postępowania cywilnego,”;
+- **2)** ust. 6 otrzymuje brzmienie: „6. Z dochodów uzyskanych z wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego tworzy się środek specjalny Ministerstwa Sprawiedliwości, który przeznacza się na usprawnienie funkcjonowania sądów powszechnych, a w szczególności na koszty ich działalności podstawowej oraz zakupy inwestycyjne.”.
+
 **Art. 5.** W ustawie z dnia 19 listopada 1999 r. - Prawo działalności gospodarczej (Dz.U. Nr 101, poz. 1178 oraz z 2000 r. Nr 86, poz. 958) wprowadza się następujące zmiany:
+
+- **1)** w art. 7 skreśla się oznaczenie ust. 1 oraz skreśla się ust. 2;
+- **2)** w art. 39 w pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4-6 w brzmieniu: „4) jeżeli działa na podstawie aktu założycielskiego, umowy lub statutu złożyć je do akt rejestrowych oddziału wraz z uwierzytelnionym tłumaczeniem na język polski; w przypadku, gdy przedsiębiorca zagraniczny utworzył na terytorium Rzeczypospolitej Polskiej więcej niż jeden oddział, złożenie tych dokumentów może nastąpić w aktach jednego z oddziałów, z tym że w aktach rejestrowych pozostałych oddziałów należy wskazać ten oddział, w którym złożono wskazane dokumenty wraz z oznaczeniem sądu, w którym znajdują się akta i numeru oddziału w rejestrze,
+- **5)** jeżeli istnieje lub wykonuje działalność na podstawie wpisu do rejestru - złożyć do akt rejestrowych oddziału odpis z tego rejestru wraz z uwierzytelnionym tłumaczeniem na język polski,
+- **6)** jeżeli jest spółką i nie podlega prawu jednego z państw członkowskich Unii Europejskiej - złożyć oświadczenie, jaka część kapitału zakładowego (akcyjnego) została wpłacona, jeżeli prawo miejsca siedziby spółki zezwala na częściowe wniesienie kapitału.”;
+- **3)** art. 73 skreśla się;
+- **4)** art. 84 skreśla się;
+- **5)** po art. 88 dodaje się art. 88a-88i w brzmieniu: „Art. 88a. 1. Do dnia 31 grudnia 2001 r. podjęcie działalności gospodarczej przez osoby fizyczne, w tym również wykonujące działalność gospodarczą na podstawie koncesji i zezwoleń, wymaga zgłoszenia do ewidencji działalności gospodarczej.
+
+2. Ewidencja działalności gospodarczej jest jawna.
+
+3. Ewidencję działalności gospodarczej prowadzą gminy jako zadanie zlecone z zakresu administracji rządowej.
 
 **Art. 88b.**
 
@@ -102,7 +407,8 @@ source: "isap-pdf"
 
 2. Zgłoszenie o dokonanie wpisu do ewidencji działalności gospodarczej powinno zawierać:
 
-- **1)** oznaczenie przedsiębiorcy, jeżeli stale wykonuje działalność poza miejscem zamieszkania - również wskazanie siedziby i adresu zakładu głównego, oddziału lub innego miejsca, o którym mowa w art. 11 ust. 1,
+- **1)** oznaczenie przedsiębiorcy,
+- **2)** oznaczenie miejsca zamieszkania i adresu przedsiębiorcy, a jeżeli stale wykonuje działalność poza miejscem zamieszkania - również wskazanie siedziby i adresu zakładu głównego, oddziału lub innego miejsca, o którym mowa w art. 11 ust. 1,
 - **3)** określenie przedmiotu wykonywanej działalności gospodarczej,
 - **4)** wskazanie daty rozpoczęcia działalności gospodarczej.
 
@@ -111,6 +417,10 @@ source: "isap-pdf"
 4. Organ ewidencyjny doręcza z urzędu przedsiębiorcy zaświadczenie o wpisie do ewidencji działalności gospodarczej, nie później niż w terminie 14 dni od dnia zgłoszenia.
 
 **Art. 88c.** Organ ewidencyjny wydaje decyzję o odmowie wpisu, gdy:
+
+- **1)** zgłoszenie dotyczy działalności gospodarczej nieobjętej przepisami ustawy,
+- **2)** zgłoszenie zawiera braki formalne, które mimo wezwania nie zostały usunięte w wyznaczonym terminie,
+- **3)** prawomocnie orzeczono zakaz wykonywania określonej w zgłoszeniu działalności gospodarczej przez przedsiębiorcę.
 
 **Art. 88d.** Przedsiębiorca jest obowiązany zgłaszać organowi ewidencyjnemu zmiany stanu faktycznego i prawnego odnoszące się do przedsiębiorcy i wykonywanej przez niego działalności gospodarczej, objęte danymi zawartymi w zgłoszeniu, o którym mowa w art. 88b ust. 2, i powstałe po dniu dokonania wpisu do ewidencji działalności gospodarczej, w terminie 14 dni od dnia powstania tych zmian. Do zgłoszenia zmian stosuje się odpowiednio przepisy art. 88b i 88c.
 
@@ -125,11 +435,20 @@ source: "isap-pdf"
 
 3. Wykre ślenie z ewidencji działalności gospodarczej następuje w drodze decyzji administracyjnej.
 
-**Art. 88f.** Jeżeli w postępowaniu ewidencyjnym zachodzi potrzeba stwierdzenia stosowania zasady wzajemności przez państwo obce w zakresie podejmowania i wykonywania działalności gospodarczej, stosuje się odpowiednio art. 86. prowadzona na podstawie ustawy, o której mowa w art. 99 pkt 2 staje się ewidencją działalności gospodarczej w rozumieniu ustawy, a dokonane w niej wpisy zachowują moc z zastrzeżeniem art. 1a ust. 3 ustawy z dnia 20 sierpnia 1997 r. - Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym (Dz.U. Nr 121, poz. 770 i z ..... r. Nr...., poz. ....).
+**Art. 88f.** Jeżeli w postępowaniu ewidencyjnym zachodzi potrzeba stwierdzenia stosowania zasady wzajemności przez państwo obce w zakresie podejmowania i wykonywania działalności gospodarczej, stosuje się odpowiednio art. 86.
+
+**Art. 88g.** Z dniem 1 stycznia 2001 r. ewidencja działalności gospodarczej prowadzona na podstawie ustawy, o której mowa w art. 99 pkt 2 staje się ewidencją działalności gospodarczej w rozumieniu ustawy, a dokonane w niej wpisy zachowują moc z zastrzeżeniem art. 1a ust. 3 ustawy z dnia 20 sierpnia 1997 r. - Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym (Dz.U. Nr 121, poz. 770 i z ..... r. Nr...., poz. ....).
 
 **Art. 88h.** Postępowanie w sprawie o wpis do ewidencji działalności gospodarczej wszczęte przed dniem wejścia w życie ustawy i do tego dnia niezakończone dokonaniem wpisu lub decyzją ostateczną o odmowie wpisu prowadzi się według przepisów tej ustawy.
 
 **Art. 88i.** Wpisy do ewidencji działalności gospodarczej jednostek organizacyjnych, które w dniu 1 stycznia 2001 r. nie są przedsiębiorcami, podlegają wykreśleniu z urzędu, z uwzględnieniem art. 88e ust. 3.”;
 
-**Art. 6.**
+- **6)** w art. 96 w ust. 1 skreśla się pkt 7;
+- **7)** w art. 98 ust. 1 i 2 otrzymują brzmienie: „1. Jeżeli w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy nie zostaną ustawowo określone zakres i warunki wykonywania działalności gospodarczej oraz udzielania koncesji, o których mowa w art. 14, jak też nie zostaną wskazane informacje i dokumenty wymagane do złożenia wniosków o wydanie koncesji, z mocy prawa wygasa obowiązek uzyskania koncesji.
+
+2. Jeżeli w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy nie zostaną ustawowo określone zakres i warunki wykonywania działalności gospodarczej oraz wydawania zezwoleń, o których mowa w art. 96 ust. 2, oraz w ustawach odrębnych, jak też nie zostaną wskazane informacje i dokumenty wymagane do złożenia wniosków o wydanie zezwolenia, z mocy prawa wygasa obowiązek uzyskania zezwolenia.”.
+
+**Art. 6.** Marszałek Sejmu, w terminie do dnia 31 marca 2001 r., ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy o Krajowym Rejestrze Sądowym.
+
+**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2001 r.
 

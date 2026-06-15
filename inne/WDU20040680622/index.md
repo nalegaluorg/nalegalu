@@ -8,7 +8,7 @@ pos: 622
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo celne
@@ -31,11 +31,22 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa reguluje w zakresie uzupełniającym przepisy prawa unijnego:
 
+- **1)** zasady przywozu towarów na obszar celny Unii Europejskiej, zwanej dalej „Unią”, i wywozu towarów z tego obszaru,
+- **2)** zasady postępowania z towarami objętymi Wspólną Polityką Rolną,
+- **3)** sposób przekazywania informacji do celów ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Unii – oraz związane z tym prawa i obowiązki osób, a także uprawnienia i obowiązki organów celnych.
+
 **Art. 2.** Wprowadzenie towaru na obszar celny Unii lub jego wyprowadzenie z tego obszaru powoduje z mocy prawa powstanie obowiązków i uprawnień przewidzianych w przepisach prawa celnego, jeżeli przepisy prawa, w tym ratyfikowane umowy międzynarodowe, nie stanowią inaczej.
 
 **Art. 3.** Ustawa ma zastosowanie na terytorium Rzeczypospolitej Polskiej, chyba że umowa międzynarodowa stanowi inaczej.
 
 **Art. 4.** Użyte w ustawie określenia oznaczają:
+
+- **1)** terytorium kraju – terytorium Rzeczypospolitej Polskiej;
+- **2)** terytorium państwa trzeciego – terytorium państwa nienależącego do Unii;
+- **3)** unijny kodeks celny – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiające unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. );
+- **4)** rozporządzenie wykonawcze – rozporządzenie wykonawcze Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiające szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm. );
+- **4a)** rozporządzenie delegowane – rozporządzenie delegowane Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1, z późn. zm. );
+- **5)** Rozporządzenie ustanawiające wspólnotowy system zwolnień celnych – rozporządzenie Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiające wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23).
 
 **Art. 5.**
 
@@ -442,7 +453,14 @@ source: "isap-pdf"
 
 **Art. 53.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
+- **1)** sposób złożenia zabezpieczenia w formie depozytu w gotówce,
+- **2)** dokumenty uważane za równoważne z depozytem w gotówce, mające wartość płatniczą, które mogą być przyjmowane przez organy celne,
+- **3)** sposób potwierdzenia przez organ celny złożenia zabezpieczenia – mając na uwadze, w szczególności, jednolitość postępowania w tym zakresie, a także uwzględniając potrzeby gospodarcze przedsiębiorców.
+
 **Art. 54.** Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia:
+
+- **1)** określić formy zabezpieczenia, o których mowa w art. 92 ust. 1 lit. c unijnego kodeksu celnego, oraz przypadki i warunki korzystania z tych form zabezpieczenia,
+- **2)** zezwolić, aby zobowiązanie gwaranta było składane w formie innej niż określono w załącznikach 32-01, 32-02 i 32-03 do rozporządzenia wykonawczego, zgodnie z art. 151 ust. 7 rozporządzenia wykonawczego, a także określić tę formę – biorąc pod uwagę zapewnienie skuteczności poboru należności celnych.
 
 **Art. 55.** Organ celny odstępuje od powiadomienia o długu celnym w przypadku, o którym mowa w art. 88 ust. 1 i 2 rozporządzenia delegowanego.
 
@@ -478,6 +496,10 @@ source: "isap-pdf"
 **Art. 58.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wyrażoną w euro równowartość kwoty, powyżej której należności uiszcza się w formie bezgotówkowej. Rozporządzenie powinno uwzględniać zachowanie bezpieczeństwa w obrocie pieniężnym.
 
 **Art. 59.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** termin, w którym może być złożony wniosek o wydanie pozwolenia na odroczenie terminu płatności należności celnych w przypadku, o którym mowa w art. 110 lit. a unijnego kodeksu celnego,
+- **2)** termin, od którego możliwe jest korzystanie z odroczenia płatności należności celnych w przypadkach, o których mowa w art. 110 lit. b lub c unijnego kodeksu celnego,
+- **3)** termin płatności należności celnych w przypadkach, o których mowa w art. 111 ust. 3 lub 4 unijnego kodeksu celnego – biorąc pod uwagę zapewnienie jednolitości postępowania organów celnych oraz ułatwienie formalności celnych.
 
 **Art. 60.** (uchylony)
 
@@ -658,6 +680,9 @@ source: "isap-pdf"
 
 **Art. 73b.** W sprawie wstrzymania wykonania decyzji właściwy jest:
 
+- **1)** organ celny, który wydał decyzję – do czasu przekazania odwołania wraz z aktami sprawy właściwemu organowi odwoławczemu;
+- **2)** organ odwoławczy – po otrzymaniu odwołania wraz z aktami sprawy.
+
 **Art. 73c.** Na potrzeby stosowania przepisów prawa celnego za osobę uznaje się również spółkę cywilną.
 
 **Art. 73d.**
@@ -667,6 +692,9 @@ source: "isap-pdf"
 2. W wyniku postępowania, o którym mowa w ust. 1, jest wydawana jedna decyzja.
 
 **Art. 73e.** Pisma w sprawie:
+
+- **1)** wiążących informacji o pochodzeniu,
+- **2)** przedłużenia użycia, cofnięcia i unieważnienia wiążących informacji taryfowych oraz odwołań składanych od rozstrzygnięć w sprawie wiążących informacji taryfowych – składa się i doręcza wyłącznie za pośrednictwem konta na PUESC, z zastrzeżeniem art. 35a ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ).
 
 **Art. 74.** W zakresie praw i obowiązków następców prawnych i podmiotów przekształconych stosuje się odpowiednio przepisy rozdziału 14 działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
@@ -891,6 +919,9 @@ source: "isap-pdf"
 #### Rozdział 8 Ewidencja i statystyka dotycząca obrotu towarowego z państwami członkowskimi Unii
 
 **Art. 97.** Użyte w niniejszym rozdziale określenia oznaczają:
+
+- **1)** zgłoszenie INTRASTAT – przekazanie organom celnym w postaci elektronicznej, sporządzonych w określony sposób, informacji dla celów ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Unii;
+- **2)** osoba zobowiązana – osobę fizyczną lub osobę prawną, a także jednostkę organizacyjną niemającą osobowości prawnej, uczestniczącą w obrocie towarowym z państwami członkowskimi Unii i zobowiązaną do przekazywania informacji dla celów ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Unii, zgodnie z przepisami unijnymi regulującymi statystykę dotyczącą obrotu towarowego pomiędzy państwami członkowskimi Unii, przepisami o statystyce publicznej oraz przepisami niniejszej ustawy, lub jej przedstawiciela podatkowego w rozumieniu przepisów o podatku od towarów i usług.
 
 **Art. 98.**
 

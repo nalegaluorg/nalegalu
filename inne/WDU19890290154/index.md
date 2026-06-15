@@ -8,7 +8,7 @@ pos: 154
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej Sejm Polskiej Rzeczypospolitej Ludowej : – wypełniając zobowiązania określone w Konstytucji Polskiej Rzeczypospolitej Ludowej , – kierując się zasadami przyjętymi w Karcie Narodów Zjednoczonych, w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Deklaracji o wyeliminowaniu wszelkich form nietolerancji i dyskryminacji z powodów religijnych lub przekonań, – mając na celu dobro osoby ludzkiej oraz potrzebę współdziałania wszystkich obywateli dla rozwoju kraju, dla bezpieczeństwa narodu i państwa polskiego stanowi, co następuje:
@@ -421,7 +421,24 @@ source: "isap-pdf"
 
 **Art. 39.** Działalność charytatywno-opiekuńcza Kościoła obejmuje w szczególności:
 
+- **1)** prowadzenie zakładów dla sierot, starców, osób upośledzonych fizycznie lub umysłowo oraz innych kategorii osób potrzebujących opieki;
+- **2)** prowadzenie szpitali i innych zakładów leczniczych oraz aptek;
+- **3)** organizowanie pomocy w zakresie ochrony macierzyństwa;
+- **4)** organizowanie pomocy sierotom, osobom dotkniętym klęskami żywiołowymi i epidemiami, ofiarom wojennym, znajdującym się w trudnym położeniu materialnym lub zdrowotnym rodzinom i osobom, w tym pozbawionym wolności;
+- **5)** prowadzenie żłobków, ochronek, burs i schronisk;
+- **6)** udzielanie pomocy w zapewnianiu wypoczynku dzieciom i młodzieży znajdującym się w potrzebie;
+- **7)** krzewienie idei pomocy bliźnim i postaw społecznych temu sprzyjających;
+- **8)** przekazywanie za granicę pomocy ofiarom klęsk żywiołowych i osobom znajdującym się w szczególnej potrzebie.
+
 **Art. 40.** Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z:
+
+- **1)** ofiar pieniężnych i w naturze;
+- **2)** spadków, zapisów i darowizn krajowych i zagranicznych;
+- **3)** dochodów z imprez i zbiórek publicznych;
+- **4)** subwencji, dotacji i ofiar pochodzących od krajowych instytucji i przedsiębiorstw państwowych, społecznych, wyznaniowych i prywatnych;
+- **5)** odpłatności za usługi świadczone przez kościelne instytucje charytatywno-opiekuńcze;
+- **6)** dochodów z działalności gospodarczej prowadzonej przez Caritas Polską i Caritas diecezji bezpośrednio lub w formie wyodrębnionych zakładów;
+- **7)** dochodów instytucji kościelnych.
 
 #### Rozdział 7 Budownictwo sakralne i kościelne. Cmentarze
 
@@ -728,6 +745,10 @@ source: "isap-pdf"
 #### Rozdział 4 Przepisy końcowe
 
 **Art. 76.** Tracą moc:
+
+- **1)** dekret z dnia 31 grudnia 1956 r. o organizowaniu i obsadzaniu stanowisk kościelnych (Dz. U. z 1957 r. poz. 6);
+- **2)** przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1932 r. – Prawo o stowarzyszeniach (Dz. U. poz. 808, z późn. zm. ) utrzymane w mocy odnośnie do związków wyznaniowych oraz zakonów i kongregacji duchownych przepisem art. 51 i art. 56 pkt 1 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. poz. 104);
+- **3)** przepisy art. 2 ust. 2 lit. a i c dekretu z dnia 5 sierpnia 1949 r. o zmianie niektórych przepisów Prawa o stowarzyszeniach (Dz. U. poz. 335).
 
 **Art. 77.** Ustawa wchodzi w życie z dniem ogłoszenia .
 

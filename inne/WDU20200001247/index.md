@@ -64,7 +64,8 @@ w sprawie wymagań w zakresie odległości i warunków dopuszczających usytuowa
 7. Żywopłoty powinny być utrzymywane zgodnie z zasadami ochrony i pielęgnacji roślin.
 § 8. 1. W miejscach, gdzie nie mogą być urządzane stałe zasłony odśnieżne, w okresie zimowym powinny być ustawiane przenośne zasłony odśnieżne.
 2. Przenośne zasłony odśnieżne wykonuje się jako zasłony drewniane lub z tworzywa sztucznego.
-3. Przenośne zasłony odśnieżne nie powinny być ustawiane i składowane pod przewodami napowietrznych linii elektroenergetycznych oraz w obrębie widoczności przejazdów i przejść kolejowych, określonych w przepisach, o których mowa w § 3.
+3. Przenośne zasłony odśnieżne nie powinny być ustawiane i składowane pod przewodami napowietrznych linii elektroenergetycznych oraz w obrębie widoczności przejazdów i przejść kolejowych, określonych w przepisach, o których mowa
+§ 3.
 § 9. 1. Pasy przeciwpożarowe w sąsiedztwie linii kolejowej, na której prowadzony jest ruch kolejowy, powinny być urządzane i utrzymywane jako jedna równoległa do linii kolejowej bruzda o szerokości co najmniej 4 m usytuowana w odległości od 2 m do 5 m od dolnej krawędzi nasypu lub górnej krawędzi przekopu linii kolejowej, a w razie występowania rowów bocznych – od zewnętrznej krawędzi tych rowów.
 2. Bruzda, o której mowa w ust. 1, powinna być oczyszczona z wszelkiej roślinności do warstwy mineralnej, a na gruntach torfiastych – posypana warstwą piasku o grubości od 0,01 m do 0,02 m. Bruzdę może stanowić inna powierzchnia pozbawiona materiałów palnych.
 § 10. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia .

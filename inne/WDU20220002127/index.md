@@ -8,7 +8,7 @@ pos: 2127
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej
@@ -33,7 +33,31 @@ Art. 39‒51. (pominięte)
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** szczególne zasady rozliczania z niektórymi odbiorcami końcowymi energii elektrycznej;
+- **2)** zasady i tryb ustalania wysokości cen energii elektrycznej dla odbiorców uprawnionych do ich stosowania oraz właściwość organów w tych sprawach;
+- **3)** zasady i tryb przyznawania i wypłacania rekompensat dla podmiotów uprawnionych, w tym z tytułu stosowania upustu za obniżenie zużycia energii elektrycznej przez odbiorców uprawnionych do jego otrzymania, oraz właściwość organów w tych sprawach;
+- **4)** zasady i tryb przyznawania i wypłacania dodatku w przypadku, gdy główne źródło ogrzewania jest zasilane energią elektryczną, zwanego dalej „dodatkiem elektrycznym”, oraz właściwość organów w tych sprawach;
+- **5)** zasady realizacji celu w zakresie zmniejszenia zużycia energii elektrycznej.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** odbiorca uprawniony – odbiorca końcowy w rozumieniu art. 3 pkt 13a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859), zwanej dalej „ustawą – Prawo energetyczne”, dokonujący zakupu energii elektrycznej w celu jej zużycia na potrzeby: o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695), a budynek ten ma służyć zaspokojeniu potrzeb mieszkaniowych inwestora lub jego osoby najbliższej w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17);
+    - **a)** gospodarstw domowych,
+    - **b)** pomieszczeń gospodarczych związanych z prowadzeniem gospodarstw domowych, o ile nie jest w nich wykonywana działalność gospodarcza,
+    - **c)** lokali o charakterze zbiorowego mieszkania, o ile nie jest w nich wykonywana działalność gospodarcza,
+    - **d)** mieszkań rotacyjnych, mieszkań pracowników placówek dyplomatycznych i pracowników zagranicznych przedstawicielstw,
+    - **e)** domów letniskowych, domów kempingowych i altan działkowych w rodzinnych ogrodach działkowych, w których nie jest wykonywana działalność gospodarcza oraz administracji rodzinnego ogrodu działkowego – w przypadkach wspólnego pomiaru,
+    - **f)** oświetlenia w budynkach mieszkalnych,
+    - **g)** zasilania dźwigów w budynkach mieszkalnych,
+    - **h)** węzłów cieplnych i hydroforni, będących w zarządzie administracji domów mieszkalnych,
+    - **i)** garaży, w których nie jest wykonywana działalność gospodarcza,
+    - **j)** budowy budynku mieszkalnego jednorodzinnego w rozumieniu odpowiednio art. 3 pkt 6 i 2a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725, 834 i 1222), o ile inwestor nie jest deweloperem w rozumieniu art. 5 pkt 1 ustawy z dnia 20 maja 2021 r.
+
+- **2)** podmiot uprawniony – przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną lub przedsiębiorstwo energetyczne zajmujące się dystrybucją energii elektrycznej;
+- **3)** przedsiębiorstwo zintegrowane pionowo – przedsiębiorstwo zintegrowane pionowo, o którym mowa w art. 9d ust. 7 ustawy – Prawo energetyczne;
+- **4)** punkt poboru energii – punkt pomiarowy, o którym mowa w art. 3 pkt 67 ustawy – Prawo energetyczne;
+- **5)** sprzedawca z urzędu – przedsiębiorstwo energetyczne w rozumieniu art. 3 pkt 29 ustawy – Prawo energetyczne;
+- **6)** umowa z gwarancją stałej ceny – umowa zawarta przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną z odbiorcą uprawnionym, w której przedsiębiorstwo to zobowiązuje się do utrzymania niezmiennej ceny energii elektrycznej przez określony w umowie okres.
 
 #### Rozdział 2 Ceny energii elektrycznej i stawki opłat dystrybucyjnych dla odbiorców uprawnionych
 
@@ -457,6 +481,21 @@ Art. 39‒51. (pominięte)
 
 **Art. 20.** Wniosek o wypłatę rekompensaty oraz wniosek o rozliczenie rekompensaty zawiera:
 
+- **1)** oznaczenie podmiotu, do którego jest kierowany wniosek;
+- **2)** oznaczenie podmiotu uprawnionego i jego siedziby;
+- **3)** numer identyfikacji podatkowej (NIP) podmiotu uprawnionego;
+- **4)** adres poczty elektronicznej podmiotu uprawnionego;
+- **5)** dla każdego punktu poboru energii:
+    - **a)** ilość energii elektrycznej,
+    - **b)** cenę energii elektrycznej albo stawki opłat z taryfy, o których mowa w art. 7 ust. 1,
+    - **c)** cenę energii elektrycznej zgodnie z odpowiednio art. 3–6 lub stawki opłat, o których mowa w art. 7,
+    - **d)** PESEL odbiorcy uprawnionego – w przypadku odbiorcy uprawnionego, o którym mowa w art. 3 ust. 1 pkt 1–3, art. 4 ust. 2 pkt 1–3, art. 5 ust. 1 pkt 1–3, art. 6 ust. 1 pkt 1–3 lub art. 7 ust. 1 pkt 1–3,
+    - **e)** rodzaj odbiorcy uprawnionego – w przypadku odbiorcy uprawnionego, o którym mowa w art. 3 ust. 1, art. 4 ust. 2, art. 5 ust. 1, art. 6 ust. 1 lub art. 7 ust. 1;
+
+- **6)** wnioskowaną wysokość rekompensaty – w przypadku wniosku o wypłatę rekompensaty;
+- **7)** numer rachunku bankowego, na który ma zostać dokonana wypłata rekompensaty;
+- **8)** inne informacje niezbędne do obliczenia i wypłaty rekompensaty lub rozliczenia rekompensaty.
+
 **Art. 21.** Środki wypłacone z tytułu rekompensat, o których mowa w art. 12 ust. 1, art. 12a ust. 1 oraz art. 15 ust. 3, zalicza się do kategorii drugiej należności podlegających zaspokojeniu z funduszów masy upadłości, o której mowa w art. 342 ust. 1 pkt 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2024 r. poz. 794 i 1222).
 
 **Art. 21a.** (uchylony)
@@ -547,6 +586,13 @@ Art. 39‒51. (pominięte)
 7. Na potrzeby składania wniosków o wypłatę dodatku elektrycznego przyjmuje się, że jedna osoba może wchodzić w skład tylko jednego gospodarstwa domowego.
 
 **Art. 29.** Jeżeli umowy międzynarodowe nie stanowią inaczej, dodatek elektryczny przysługuje:
+
+- **1)** osobom posiadającym obywatelstwo polskie mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej;
+- **2)** cudzoziemcom mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej:
+    - **a)** na podstawie zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia na pobyt czasowy udzielonego w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d lub art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769 i 1222), lub w związku z uzyskaniem w Rzeczypospolitej Polskiej statusu uchodźcy lub ochrony uzupełniającej,
+    - **b)** w związku z uzyskaniem w Rzeczypospolitej Polskiej zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany;
+
+- **3)** mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej obywatelom państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członkom ich rodzin w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633), posiadającym prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 30.**
 
@@ -663,7 +709,7 @@ Art. 39‒51. (pominięte)
 
 1. Kierownicy jednostek sektora finansów publicznych, o których mowa w art. 9 pkt 1–2a, 6–9, 11–13 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ), od dnia 1 grudnia 2022 r. do dnia 31 grudnia 2022 r. podejmują działania w celu realizacji obowiązkowego celu zmniejszenia całkowitego zużycia energii elektrycznej w zajmowanych budynkach lub częściach budynków oraz przez wykorzystywane urządzenia techniczne, instalacje i pojazdy, w danym okresie w wymiarze określonym w ust. 2.
 
-2. Cel, o którym mowa w ust. 1, oznaczony symbolem „Cel ”, oblicza się według wzoru: Cel ZEE = ∙10 %, 12 gdzie ZEE oznacza średnioroczne zużycie energii elektrycznej w latach 2018–
+2. Cel, o którym mowa w ust. 1, oznaczony symbolem „Cel ”, oblicza się według wzoru: ZEE Cel = ∙10 %, 12 gdzie ZEE oznacza średnioroczne zużycie energii elektrycznej w latach 2018–
 
 2019.
 
@@ -802,4 +848,8 @@ Art. 39‒51. (pominięte)
 2. Przepisy art. 226a ustawy zmienianej w art. 45 tracą moc z dniem 1 stycznia 2027 r.
 
 **Art. 61.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia , z wyjątkiem:
+
+- **1)** art. 37 ust. 1 i 2 oraz art. 38 ust. 1 pkt 3, które wchodzą w życie z dniem 1 grudnia 2022 r.;
+- **2)** art. 37 ust. 3 i 4 oraz art. 38 ust. 1 pkt 4, które wchodzą w życie z dniem 1 stycznia 2023 r.
+
 

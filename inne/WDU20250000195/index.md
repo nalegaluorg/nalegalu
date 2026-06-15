@@ -8,7 +8,7 @@ pos: 195
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin
@@ -31,7 +31,26 @@ source: "isap-pdf"
 
 **Art. 1.** Zaopatrzenie określone niniejszą ustawą przysługuje:
 
+- **1)** inwalidom wojennym;
+- **2)** inwalidom wojskowym;
+- **3)** członkom rodzin, pozostałym po żołnierzach poległych, zmarłych lub zaginionych w czasie służby wojskowej oraz po inwalidach wojennych i wojskowych.
+
 **Art. 2.** Zaopatrzenie obejmuje:
+
+- **1)** świadczenia pieniężne:
+    - **a)** rentę inwalidzką ,
+    - **b)** rentę rodzinną,
+    - **c)** dodatki do rent,
+    - **d)** zasiłek pogrzebowy,
+    - **e)** świadczenie pieniężne, o którym mowa w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658);
+
+- **2)** świadczenia w naturze:
+    - **a)** świadczenia lecznicze i położnicze,
+    - **b)** protezowanie,
+    - **c)** przysposobienie zawodowe,
+    - **d)** pobyt w domu rencistów;
+
+- **3)** inne uprawnienia i przywileje.
 
 **Art. 3.** Zaopatrzenie określone w ustawie przysługuje z funduszy państwowych.
 
@@ -52,11 +71,26 @@ source: "isap-pdf"
 
 **Art. 7.** Za inwalidztwo powstałe w związku z działaniami wojennymi lub mającymi charakter wojennych uważa się inwalidztwo będące następstwem zranień, kontuzji i innych obrażeń lub chorób doznanych:
 
+- **1)** w walce z wrogiem;
+- **2)** na froncie lub w związku z pobytem na froncie;
+- **3)** wskutek wypadku pozostającego w związku z pełnieniem czynnej służby wojskowej w czasie określonym w art. 6;
+- **4)** w związku z pobytem w niewoli lub w obozie dla internowanych;
+- **5)** w związku z udziałem w ruchu podziemnym lub partyzanckim oraz z pobytem w niewoli, w obozach koncentracyjnych lub w więzieniach za udział w tym ruchu.
+
 **Art. 8.** Za inwalidę wojennego uważa się również osobę mającą obywatelstwo polskie, która została zaliczona do jednej z grup inwalidów z tytułu inwalidztwa będącego następstwem zranień lub kontuzji doznanych w związku z:
+
+- **1)** pełnieniem służby w wojskowych oddziałach ludowych w czasie wojny domowej w Hiszpanii lub w okresie internowania w następstwie tej służby;
+- **2)** udziałem w obronie Poczty Gdańskiej we wrześniu 1939 r. i w walkach o Cytadelę Poznańską w lutym 1945 r.;
+- **3)** uczestniczeniem w konwojach w okresie wojny 1939–1945 w charakterze członka załóg handlowych statków morskich;
+- **4)** udziałem w Powstaniu Wielkopolskim oraz Powstaniach Śląskich;
+- **5)** rozminowywaniem kraju w czasie pełnienia służby w Siłach Zbrojnych Polskiej Rzeczypospolitej Ludowej po zakończeniu wojny 1939–1945.
 
 **Art. 9.** Renta inwalidzka przysługuje żołnierzowi, który został zaliczony do jednej z grup inwalidów wskutek inwalidztwa powstałego w związku z działaniami wojennymi lub mającymi charakter wojennych, choćby nawet inwalidztwo to powstało po zwolnieniu ze służby wojskowej.
 
 **Art. 10.** Renta inwalidzka dla inwalidy wojennego wynosi:
+
+- **1)** 100 % podstawy jej wymiaru – dla inwalidów I i II grupy;
+- **2)** 75 % podstawy jej wymiaru – dla inwalidów III grupy .
 
 **Art. 11.**
 
@@ -242,6 +276,11 @@ source: "isap-pdf"
 2. Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego oraz ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, wykazy chorób i stanów chorobowych, o których mowa w ust. 1 pkt 3 i 4, określając w szczególności rodzaj schorzenia i jego związek ze służbą wojskową.
 
 **Art. 33.** Inwalidztwo nie pozostaje w związku ze służbą wojskową, jeżeli:
+
+- **1)** powstało z innych przyczyn niż określone w art. 32;
+- **2)** jest następstwem wypadku lub choroby, których wyłączną przyczyną było udowodnione przez jednostkę wojskową umyślne lub rażąco niedbałe działanie albo zaniedbanie żołnierza naruszające obowiązujące przepisy lub rozkazy, jeżeli jego przełożeni zapewnili warunki odpowiadające tym przepisom i sprawowali we właściwy sposób nadzór nad ich przestrzeganiem, a żołnierz posiadał potrzebne umiejętności do wykonywania określonych czynności i był należycie przeszkolony w zakresie znajomości tych przepisów;
+- **3)** jest następstwem wypadku, do którego w znacznym stopniu przyczynił się sam żołnierz będąc w stanie nietrzeźwym;
+- **4)** zranienie, kontuzja i inne obrażenie lub choroba zostały spowodowane przez żołnierza rozmyślnie.
 
 **Art. 34.**
 
@@ -475,6 +514,10 @@ source: "isap-pdf"
 2. Inwalidom uznanym w myśl przepisów obowiązujących przed dniem wejścia w życie niniejszej ustawy za inwalidów wojennych z tytułu utraty zdolności zarobkowej od 25 do 44 %, pozostającej w związku ze służbą w Wojsku Polskim lub w armiach sojuszniczych, przyznaje się, w razie zaliczenia do I lub II grupy inwalidów z powodu inwalidztwa niepozostającego w związku z działaniami wojennymi lub mającymi charakter wojennych, rentę inwalidzką w wysokości przewidzianej dla III grupy inwalidów wojennych.
 
 **Art. 62.** Rada Ministrów może w drodze rozporządzenia:
+
+- **1)** podwyższać renty i dodatki do rent;
+- **2)** podwyższać podstawę wymiaru rent, określoną w art. 11 ust. 1 oraz w art. 25 ust. 2 pkt 1;
+- **3)** zmieniać wysokość kwot, o których mowa w art. 37 ust. 5, art. 46 ust. 2 i art. 59 ust. 2 i 3.
 
 **Art. 63.** Przewidziane w ustawie uprawnienia Ministra Obrony Narodowej przysługują ministrowi właściwemu do spraw wewnętrznych w stosunku do żołnierzy pełniących służbę w podległych mu jednostkach.
 

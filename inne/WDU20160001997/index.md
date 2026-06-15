@@ -8,7 +8,7 @@ pos: 1997
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o usługach płatniczych
@@ -259,6 +259,82 @@ Art. 154–167. (pominięte)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** agent – osobę fizyczną, osobę prawną oraz jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną, działającą w imieniu i na rzecz instytucji płatniczej, biura usług płatniczych, instytucji pieniądza elektronicznego albo oddziału zagranicznej instytucji pieniądza elektronicznego w zakresie świadczenia usług płatniczych, a w odniesieniu do pieniądza elektronicznego – w zakresie jego wykupu;
+- **1a)** agent rozliczeniowy – dostawcę prowadzącego działalność w zakresie świadczenia usługi płatniczej, o której mowa w art. 3 ust. 1 pkt 5, w tym agenta rozliczeniowego w rozumieniu art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/751 z dnia 29 kwietnia 2015 r. w sprawie opłat interchange w odniesieniu do transakcji płatniczych realizowanych w oparciu o kartę (Dz. Urz. UE L 123 z 19.05.2015, str. 1), zwanego dalej „rozporządzeniem (UE) 2015/751”;
+- **1b)** akceptant – odbiorcę innego niż konsument, na rzecz którego agent rozliczeniowy świadczy usługę płatniczą;
+- **2)** bazowa stopa procentowa – stopę procentową pochodzącą z publicznie dostępnego źródła, która może być zweryfikowana przez obie strony umowy o świadczenie usług płatniczych;
+- **2a)** biuro usług płatniczych – osobę fizyczną, osobę prawną oraz jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną, wpisaną do rejestru biur usług płatniczych, prowadzącą działalność w zakresie świadczenia usługi płatniczej, o której mowa w art. 3 ust. 1 pkt 6;
+- **3)** bliskie powiązania – bliskie powiązania w rozumieniu art. 4 ust. 1 pkt 15 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm. ), zwanej dalej „ustawą – Prawo bankowe”;
+- **4)** data waluty – moment w czasie, od którego lub do którego dostawca nalicza odsetki od środków pieniężnych, którymi obciążono lub uznano rachunek płatniczy;
+- **4a)** dostawca przekazujący – dostawcę usług płatniczych, który przekazuje dostawcy przyjmującemu informacje wymagane w celu przeniesienia rachunku płatniczego;
+- **4b)** dostawca przyjmujący – dostawcę usług płatniczych, któremu dostawca przekazujący przekazuje informacje wymagane w celu przeniesienia rachunku płatniczego;
+- **5)** dzień roboczy – dzień roboczy odpowiednio dostawcy płatnika lub dostawcy odbiorcy;
+- **6)** goszczące państwo członkowskie – państwo członkowskie inne niż macierzyste państwo członkowskie, w którym dostawca świadczy usługi płatnicze, w tym za pośrednictwem agenta prowadzącego działalność w tym państwie lub przez znajdujący się w tym państwie oddział, lub wydawca pieniądza elektronicznego wydaje pieniądz elektroniczny, w tym przez znajdujący się w tym państwie oddział;
+- **7)** grupa:
+    - **a)** jednostkę dominującą wraz z jednostkami zależnymi oraz: – jednostką, w której jednostka dominująca lub jej jednostka zależna posiadają udziały albo akcje, lub – jednostką współzależną,
+    - **b)** jednostki powiązane w ten sposób, że więcej niż połowa członków organu zarządzającego, nadzorującego lub organów administrujących danej jednostki jednocześnie pełni funkcje kierownicze lub jest członkami organu nadzorującego lub organu administrującego innej jednostki, lub
+    - **c)** jednostki powiązane w ten sposób, że dana jednostka ma wpływ na kierowanie polityką finansową i operacyjną innej jednostki;
+
+- **8)** hybrydowa instytucja pieniądza elektronicznego – instytucję pieniądza elektronicznego wykonującą oprócz wydawania pieniądza elektronicznego, usług płatniczych lub działalności, o której mowa w art. 132j ust. 1 pkt 1 i 2 oraz ust. 3, inną działalność gospodarczą;
+- **9)** hybrydowa instytucja płatnicza – instytucję płatniczą wykonującą oprócz usług płatniczych, wydawania pieniądza elektronicznego lub działalności, o której mowa w art. 74 ust. 1 pkt 1 i 2 oraz ust. 3, inną działalność gospodarczą;
+- **9a)** hybrydowe biuro usług płatniczych – biuro usług płatniczych wykonujące oprócz usługi płatniczej, o której mowa w art. 3 ust. 1 pkt 6, inną działalność gospodarczą;
+- **9b)** identyfikator dostawcy – kombinację cyfr pozwalającą na jednoznaczne zidentyfikowanie dostawcy usług płatniczych prowadzącego rachunki płatnicze i uczestniczącego w systemach płatności, o którym mowa w art. 4 ust. 2 pkt 4–6, 8 i 9;
+- **10)** instrument płatniczy – zindywidualizowane urządzenie lub uzgodniony przez użytkownika i dostawcę zbiór procedur, wykorzystywane przez użytkownika do złożenia zlecenia płatniczego;
+- **10a)** instytucja pieniądza elektronicznego – krajową instytucję pieniądza elektronicznego i unijną instytucję pieniądza elektronicznego;
+- **11)** instytucja płatnicza – krajową instytucję płatniczą i unijną instytucję płatniczą;
+- **12)** jednostka – jednostkę w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047), zwanej dalej „ustawą o rachunkowości”;
+- **13)** jednostka dominująca – jednostkę dominującą w rozumieniu art. 3 ust. 1 pkt 37 ustawy o rachunkowości;
+- **14)** jednostka współzależna – jednostkę współzależną w rozumieniu art. 3 ust. 1 pkt 40 ustawy o rachunkowości;
+- **15)** jednostka zależna – jednostkę zależną w rozumieniu art. 3 ust. 1 pkt 39 ustawy o rachunkowości;
+- **15a)** karta płatnicza – kartę uprawniającą do wypłaty gotówki lub umożliwiającą złożenie zlecenia płatniczego za pośrednictwem akceptanta lub agenta rozliczeniowego, akceptowaną przez akceptanta w celu otrzymania przez niego należnych mu środków, w tym kartę płatniczą w rozumieniu art. 2 pkt 15 rozporządzenia (UE) 2015/751; 15aa) uchylony 15ab) uchylony 15b) krajowa instytucja pieniądza elektronicznego – osobę prawną, która uzyskała zezwolenie, o którym mowa w art. 132a ust. 1, na prowadzenie działalności w charakterze instytucji pieniądza elektronicznego;
+- **16)** krajowa instytucja płatnicza – osobę prawną, która zgodnie z art. 60 ust. 1 uzyskała zezwolenie na prowadzenie działalności w charakterze instytucji płatniczej;
+- **16a)** krajowa transakcja płatnicza – transakcję płatniczą, w przypadku której dostawca płatnika i dostawca odbiorcy prowadzą działalność na terytorium Rzeczypospolitej Polskiej, w tym krajową transakcję płatniczą w rozumieniu art. 2 pkt 9 rozporządzenia (UE) 2015/751;
+- **16b)** kredyt w rachunku płatniczym – kredyt w rachunku oszczędnościowo-rozliczeniowym w rozumieniu art. 5 pkt 4 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2016 r. poz. 1528), zwanej dalej „ustawą o kredycie konsumenckim”, oraz kredyt płatniczy, o którym mowa w art. 74 ust. 3;
+- **17)** macierzyste państwo członkowskie – państwo członkowskie, na terenie którego dostawca lub wydawca pieniądza elektronicznego ma swoją siedzibę albo, jeżeli podmiot ten nie posiada siedziby zgodnie z właściwym dla niego prawem państwa członkowskiego, państwo członkowskie, w którym znajduje się jego główne miejsce wykonywania działalności;
+- **17a)** numer rozliczeniowy – unikatowy numer identyfikujący dostawcę usług płatniczych prowadzącego rachunki płatnicze i uczestniczącego w systemach płatności;
+- **18)** odbiorca – osobę fizyczną, osobę prawną oraz jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną, będącą odbiorcą środków pieniężnych stanowiących przedmiot transakcji płatniczej;
+- **19)** oddział – oddział w rozumieniu art. 5 pkt 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm. ), zwanej dalej „ustawą o swobodzie działalności gospodarczej”, przy czym w przypadku unijnej instytucji płatniczej, unijnej instytucji pieniądza elektronicznego oraz zagranicznej instytucji pieniądza elektronicznego wszystkie jej oddziały znajdujące się na terytorium Rzeczypospolitej Polskiej uznaje się za jeden oddział;
+- **19a)** opłata interchange – opłatę interchange w rozumieniu art. 2 pkt 10 rozporządzenia (UE) 2015/751; 19aa) opłata akceptanta – opłatę akceptanta w rozumieniu art. 2 pkt 12 rozporządzenia (UE) 2015/751; 19ab) opłata systemowa – opłatę z tytułu transakcji płatniczej wykonywanej przy użyciu karty płatniczej lub instrumentu płatniczego opartego na karcie, o którym mowa w art. 2 pkt 20 rozporządzenia (UE) 2015/751, stanowiącą przychód organizacji kartowej;
+- **19b)** organizacja kartowa – podmiot, w tym określony organ lub organizację oraz podmiot, o którym mowa w art. 2 pkt 16 rozporządzenia (UE) 2015/751, określający zasady funkcjonowania systemu kart płatniczych oraz odpowiedzialny za podejmowanie decyzji dotyczących funkcjonowania systemu kart płatniczych;
+- **19c)** organizacja płatnicza – organizację kartową oraz podmiot, w tym organ lub organizację, określający zasady funkcjonowania schematu płatniczego oraz odpowiedzialny za podejmowanie decyzji dotyczących funkcjonowania schematu płatniczego;
+- **20)** osoba zarządzająca – członka zarządu, a w przypadku podmiotu nieposiadającego zarządu – osobę odpowiedzialną za zarządzanie tym podmiotem niepodlegającą służbowo innej osobie, przy czym w przypadku hybrydowej instytucji płatniczej lub hybrydowej instytucji pieniądza elektronicznego – odpowiednio właściwego członka zarządu lub osobę odpowiedzialną za zarządzanie działalnością takiej instytucji w zakresie usług płatniczych lub wydawania pieniądza elektronicznego, a w przypadku hybrydowego biura usług płatniczych – odpowiednio właściwego członka zarządu lub osobę odpowiedzialną za zarządzanie działalnością takiego biura w zakresie usług płatniczych;
+- **21)** państwo członkowskie – państwo członkowskie Unii Europejskiej albo państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+- **21a)** pieniądz elektroniczny – wartość pieniężną przechowywaną elektronicznie, w tym magnetycznie, wydawaną, z obowiązkiem jej wykupu, w celu dokonywania transakcji płatniczych, akceptowaną przez podmioty inne niż wyłącznie wydawca pieniądza elektronicznego;
+- **22)** płatnik – osobę fizyczną, osobę prawną oraz jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną, składającą zlecenie płatnicze;
+- **22a)** podmiot uczestniczący – podmiot, który zawarł z organizacją płatniczą umowę, na podstawie której wydaje instrument płatniczy lub świadczy usługę, o której mowa w art. 3 ust. 1 pkt 5, w ramach schematu płatniczego;
+- **23)** pojedyncza transakcja płatnicza – transakcję płatniczą nieobjętą umową ramową;
+- **24)** przedsiębiorca – przedsiębiorcę w rozumieniu ustawy o swobodzie działalności gospodarczej;
+- **24a)** przetwarzanie transakcji płatniczych – czynności o charakterze technicznym i operacyjnym, stanowiące etap wykonywania transakcji płatniczej, w szczególności obejmujące:
+    - **a)** inicjację transakcji, w tym weryfikację instrumentu płatniczego oraz użytkownika tego instrumentu,
+    - **b)** sprawdzenie danych umożliwiających przeprowadzenie transakcji, w tym stanu rachunku, możliwości dokonania transakcji z wykorzystaniem instrumentu płatniczego oraz dostępności systemu łączności między dostawcami usług płatniczych,
+    - **c)** generowanie potwierdzenia dokonania transakcji;
+
+- **25)** rachunek płatniczy – rachunek prowadzony dla jednego lub większej liczby użytkowników służący do wykonywania transakcji płatniczych, przy czym przez rachunek płatniczy rozumie się także rachunek bankowy oraz rachunek członka spółdzielczej kasy oszczędnościowo-kredytowej, jeżeli rachunki te służą do wykonywania transakcji płatniczych;
+- **26)** referencyjny kurs walutowy – kurs walutowy udostępniany przez dostawcę usług płatniczych lub pochodzący z publicznie dostępnego źródła;
+- **26a)** schemat płatniczy – zbiór zasad przeprowadzania transakcji płatniczych, wydawania i akceptowania przez dostawców usług płatniczych instrumentów płatniczych i przetwarzania transakcji płatniczych wykonywanych przy użyciu instrumentów płatniczych oraz system kart płatniczych;
+- **26b)** system kart płatniczych – system kart płatniczych w rozumieniu art. 2 pkt 16 rozporządzenia (UE) 2015/751;
+- **27)** system płatności – system transferu środków pieniężnych oparty na formalnych i znormalizowanych regułach oraz wspólnych zasadach dotyczących przetwarzania, rozliczeń lub rozrachunku transakcji płatniczych, w szczególności system płatności w rozumieniu art. 1 pkt 1 ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2016 r. poz. 1224), zwanej dalej „ustawą o ostateczności rozrachunku”;
+- **27a)** średnia wartość pieniądza elektronicznego pozostającego w obiegu – ustalaną na pierwszy dzień kalendarzowy każdego miesiąca średnią arytmetyczną sum zobowiązań finansowych z tytułu wydanego pieniądza elektronicznego obliczonych na koniec każdego dnia kalendarzowego w okresie poprzednich 6 miesięcy kalendarzowych;
+- **27b)** środki finansowe – środki pieniężne oraz środki niepieniężne o wiarygodnie określonej wartości i stopniu płynności umożliwiającym niezwłoczne pokrycie ryzyka lub straty środkami pieniężnymi uzyskanymi z tych środków niepieniężnych;
+- **28)** środki porozumiewania się na odległość – środki, które mogą być wykorzystane do zawarcia umowy o usługę płatniczą, które nie wymagają jednoczesnej obecności dostawcy i użytkownika;
+- **29)** transakcja płatnicza – zainicjowaną przez płatnika lub odbiorcę wpłatę, transfer lub wypłatę środków pieniężnych;
+- **30)** trwały nośnik informacji – nośnik umożliwiający użytkownikowi przechowywanie adresowanych do niego informacji w sposób umożliwiający dostęp do nich przez okres odpowiedni do celów sporządzenia tych informacji i pozwalający na odtworzenie przechowywanych informacji w niezmienionej postaci;
+- **31)** umowa ramowa – umowę o usługę płatniczą regulującą wykonywanie indywidualnych transakcji płatniczych, która może zawierać postanowienia w zakresie prowadzenia rachunku płatniczego;
+- **31a)** unijna instytucja pieniądza elektronicznego – osobę prawną, której właściwe organy nadzorcze wydały zezwolenie na wydawanie pieniądza elektronicznego;
+- **32)** unijna instytucja płatnicza – osobę prawną, której właściwe organy nadzorcze wydały zezwolenie na świadczenie usług płatniczych;
+- **33)** unikatowy identyfikator – kombinację liter, liczb lub symboli określoną przez dostawcę dla użytkownika, która jest dostarczana przez jednego użytkownika w celu jednoznacznego zidentyfikowania drugiego biorącego udział w danej transakcji płatniczej użytkownika lub jego rachunku płatniczego;
+- **33a)** usługi powiązane z rachunkiem płatniczym – usługi świadczone w ramach otwarcia, prowadzenia i zamknięcia rachunku płatniczego, w tym usługi płatnicze, które wiążą się z korzystaniem z rachunku płatniczego, transakcje, o których mowa w art. 6 pkt 7, kredyt w rachunku płatniczym oraz przekroczenie salda na rachunku;
+- **34)** użytkownik – osobę fizyczną, osobę prawną oraz jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną, korzystającą z usług płatniczych w charakterze płatnika lub odbiorcy;
+- **35)** właściwe organy nadzorcze – władze innych niż Rzeczpospolita Polska państw członkowskich uprawnione na mocy obowiązujących w tych państwach przepisów do wydawania zezwolenia na wykonywanie usług płatniczych przez unijne instytucje płatnicze lub na wydawanie pieniądza elektronicznego przez unijne instytucje pieniądza elektronicznego;
+- **35a)** wydawca instrumentu płatniczego – podmiot świadczący usługę płatniczą, o której mowa w art. 3 ust. 1 pkt 4, w tym wydawcę w rozumieniu art. 2 pkt 2 rozporządzenia (UE) 2015/751;
+- **35b)** zagraniczna instytucja pieniądza elektronicznego – podmiot z siedzibą w państwie niebędącym państwem członkowskim, inny niż bank zagraniczny, uprawniony zgodnie z prawem państwa siedziby do wydawania pieniądza elektronicznego;
+- **35c)** wydawca karty płatniczej – dostawcę wydającego kartę płatniczą do dyspozycji płatnika;
+- **36)** zlecenie płatnicze – oświadczenie płatnika lub odbiorcy skierowane do jego dostawcy zawierające polecenie wykonania transakcji płatniczej;
+- **37)** znaczny pakiet akcji lub udziałów – akcje lub udziały w ilości:
+    - **a)** oznaczającej posiadanie przez jednostkę bezpośrednio lub pośrednio co najmniej 10% kapitału innej jednostki,
+    - **b)** uprawniającej jednostkę do wykonywania praw z co najmniej 10% głosów w organie stanowiącym innej jednostki lub
+    - **c)** dającej inne prawa do kapitału jednostki w sposób umożliwiający wywieranie wpływu na kierowanie jej polityką finansową i operacyjną.
+
 **Art. 3.**
 
 1. Przez usługi płatnicze rozumie się działalność polegającą na:
@@ -354,6 +430,35 @@ Art. 154–167. (pominięte)
 5. (uchylony)
 
 **Art. 6.** Przepisów ustawy, z zastrzeżeniem art. 6a, nie stosuje się do:
+
+- **1)** transakcji płatniczych dokonywanych wyłącznie w gotówce bezpośrednio między płatnikiem a odbiorcą;
+- **2)** transakcji płatniczych między płatnikiem a odbiorcą dokonywanych za pośrednictwem osoby wykonującej czynności zmierzające do zawarcia przez płatnika i odbiorcę oznaczonej umowy lub zawierającej taką umowę w imieniu lub na rzecz płatnika albo odbiorcy;
+- **3)** transportu banknotów i monet, w szczególności ich odbierania, przetwarzania oraz dostarczania;
+- **4)** transakcji płatniczych w ramach wykonywanego niezawodowo gromadzenia i dostarczania gotówki w toku działalności niezarobkowej, w szczególności zbierania i wydatkowania środków pieniężnych w ramach zbiórek publicznych;
+- **5)** usług, w ramach których odbiorca, na żądanie płatnika zgłoszone przed wykonaniem transakcji płatniczej mającej na celu dokonanie zapłaty za zakupione towary lub usługi, w ramach tej transakcji płatniczej wypłaca płatnikowi gotówkę (usług „cash back”);
+- **6)** wymiany walutowej z gotówki na gotówkę bez pośrednictwa rachunku płatniczego;
+- **7)** transakcji płatniczych opartych na jednym z następujących dokumentów w postaci papierowej, wystawionych na dostawcę w celu postawienia środków pieniężnych do dyspozycji odbiorcy: U. z 1937 r. poz. 181),
+    - **a)** czeku zgodnego z Konwencją w sprawie jednolitej ustawy o czekach (Dz.
+    - **b)** czeku podobnego do czeku, o którym mowa w lit. a, który podlega przepisom państw członkowskich niebędących stroną konwencji, o której mowa w lit. a,
+    - **c)** weksla trasowanego zgodnego z Konwencją w sprawie jednolitej ustawy o wekslach trasowanych i własnych (Dz. U. z 1937 r. poz. 175),
+    - **d)** weksla trasowanego podobnego do weksla, o którym mowa w lit. c, który podlega przepisom państw członkowskich niebędących stroną konwencji, o której mowa w lit. c,
+    - **e)** znaku legitymacyjnego, w tym voucherów,
+    - **f)** czeku podróżnego,
+    - **g)** przekazu pocztowego w rozumieniu aktów Światowego Związku Pocztowego;
+
+- **8)** transakcji płatniczych dokonywanych w ramach systemu płatności lub w ramach systemu rozrachunku papierów wartościowych, o którym mowa w art. 1 pkt 2 ustawy o ostateczności rozrachunku;
+- **9)** transakcji płatniczych dokonywanych w związku z obsługą instrumentów finansowych i wynikających z nich praw, w tym dywidend, innych dochodów, oraz transakcji dokonywanych w związku ze sprzedażą lub umorzeniem papierów wartościowych, w szczególności dokonywanych przez podmioty wymienione w pkt 8 lub podmioty podlegające nadzorowi sprawowanemu na podstawie ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2016 r. poz. 174, 615, 888 i 996), zwanej dalej „ustawą o nadzorze nad rynkiem finansowym”;
+- **10)** usług świadczonych przez dostawców usług technicznych, wspierających świadczenie usług płatniczych, jeżeli nie wchodzą oni w posiadanie środków pieniężnych będących przedmiotem transakcji płatniczej, w szczególności usług przetwarzania i przechowywania danych, usług powierniczych i ochrony prywatności, usług przekazywania pomiędzy płatnikiem a odbiorcą informacji o transakcji płatniczej, uwierzytelniania danych i podmiotów, dostarczania technologii informatycznych (IT) i sieci komunikacyjnych, dostarczania i utrzymania terminali i urządzeń wykorzystywanych do świadczenia usług płatniczych;
+- **11)** usług opartych na instrumentach, które można wykorzystywać:
+    - **a)** w celu nabycia towarów lub usług wyłącznie w placówkach wydawców tych instrumentów lub placówkach podmiotów trzecich związanych z wydawcą umową handlową, inną niż umowa o świadczenie usługi płatniczej, o której mowa w art. 3 ust. 1 pkt 5,
+    - **b)** w ramach ograniczonej sieci dostawców usług lub
+    - **c)** w odniesieniu do ograniczonego zakresu towarów lub usług;
+
+- **12)** transakcji płatniczych przeprowadzanych przy użyciu jakichkolwiek urządzeń telekomunikacyjnych, cyfrowych lub informatycznych, w ramach których nabywane towary lub usługi dostarczane są do urządzenia telekomunikacyjnego, cyfrowego lub informatycznego i mają być wykorzystywane przy pomocy takiego urządzenia, jeżeli dostawca usług telekomunikacyjnych, cyfrowych lub informatycznych świadczy również inne usługi, w szczególności dostarcza narzędzia dostępu, dystrybucji lub wyszukiwania;
+- **13)** transakcji płatniczych przeprowadzanych między dostawcami, ich agentami lub oddziałami na ich własny rachunek;
+- **14)** transakcji płatniczych przeprowadzanych między jednostką dominującą a jednostką zależną lub między jednostkami zależnymi od tej samej jednostki dominującej, z udziałem dostawcy należącego do tej samej grupy;
+- **15)** usług wypłat gotówki przy użyciu bankomatów, świadczonych przez dostawców działających na rzecz co najmniej jednego wydawcy instrumentów płatniczych i niebędących stroną umowy ramowej z osobą wypłacającą gotówkę z rachunku płatniczego przy użyciu bankomatu, jeżeli dostawcy ci nie świadczą innych usług płatniczych;
+- **16)** usług wykonywanych wyłącznie z wykorzystaniem papierowych książeczek oszczędnościowych, w przypadku gdy wszelkie transakcje są rejestrowane wyłącznie w tych książeczkach.
 
 **Art. 6a.** Do transakcji, o których mowa w art. 6 pkt 7, stosuje się przepisy art. 14f–14h, art. 20a, art. 20b oraz art. 32b–32d.
 
@@ -711,7 +816,19 @@ Art. 154–167. (pominięte)
 
 **Art. 24.** Niezwłocznie po otrzymaniu zlecenia płatniczego dostawca płatnika udostępnia płatnikowi informację:
 
+- **1)** umożliwiającą płatnikowi zidentyfikowanie transakcji płatniczej oraz informacje dotyczące odbiorcy;
+- **2)** o kwocie transakcji płatniczej w walucie użytej w zleceniu płatniczym;
+- **3)** o wszelkich opłatach należnych od płatnika z tytułu transakcji płatniczej, w tym wyszczególnienie kwot tych opłat;
+- **4)** o kursie walutowym zastosowanym w danej transakcji płatniczej przez dostawcę płatnika oraz o kwocie transakcji płatniczej po przeliczeniu walut, jeżeli transakcja płatnicza wiązała się z przeliczaniem waluty;
+- **5)** o dacie otrzymania zlecenia płatniczego.
+
 **Art. 25.** Niezwłocznie po wykonaniu transakcji płatniczej dostawca odbiorcy udostępnia odbiorcy informację:
+
+- **1)** umożliwiającą odbiorcy zidentyfikowanie transakcji płatniczej i, w stosownych przypadkach płatnika, oraz wszelkie inne informacje przekazane odbiorcy w związku z wykonaniem transakcji płatniczej;
+- **2)** o kwocie transakcji płatniczej w walucie, w której środki pieniężne są udostępniane odbiorcy;
+- **3)** o wszelkich opłatach należnych odbiorcy z tytułu transakcji płatniczej i w stosownych przypadkach wyszczególnienie kwot takich opłat;
+- **4)** o kursie walutowym zastosowanym w danej transakcji płatniczej przez dostawcę odbiorcy oraz o kwocie transakcji płatniczej przed przeliczeniem walut, jeżeli transakcja płatnicza wiąże się z przeliczaniem waluty;
+- **5)** o dacie waluty zastosowanej przy uznaniu rachunku.
 
 #### Rozdział 3 Umowa ramowa o usługę płatniczą
 
@@ -732,6 +849,46 @@ Art. 154–167. (pominięte)
 6. Do indywidualnych transakcji płatniczych dokonywanych na podstawie umowy ramowej przed dopełnieniem przez dostawcę obowiązku określonego w ust. 1–3 lub 4, stosuje się przepis art. 22 ust. 4.
 
 **Art. 27.** Dostawca przekazuje użytkownikowi następujące informacje:
+
+- **1)** imię i nazwisko albo nazwę (firmę) dostawcy, siedzibę i adres albo miejsce zamieszkania i adres oraz adres głównego miejsca wykonywania działalności, adres poczty elektronicznej oraz, w razie korzystania z usług agenta lub oddziału w państwie członkowskim, w którym dana usługa płatnicza jest oferowana, adres tego agenta lub oddziału, a także wszelkie inne adresy mające znaczenie do celów porozumiewania się z dostawcą, w tym wskazanie wszystkich miejsc, w których jest wykonywana działalność, oraz informacje o:
+    - **a)** organie sprawującym nadzór nad dostawcą oraz o rejestrze, ze wskazaniem numeru, pod jakim dostawca jest wpisany do tego rejestru, chyba że dostawca w zakresie świadczenia usług płatniczych nie podlega nadzorowi lub nie podlega obowiązkowi uzyskania wpisu do rejestru albo
+    - **b)** właściwym organie nadzorczym oraz o publicznym rejestrze, o którym mowa w art. 13 dyrektywy 2007/64/WE Parlamentu Europejskiego i Rady z dnia 13 listopada 2007 r. w sprawie usług płatniczych w ramach rynku wewnętrznego zmieniającej dyrektywy 97/7/WE, 2002/65/WE, 2005/60/WE i 2006/48/WE i uchylającej dyrektywę 97/5/WE (Dz. Urz. UE L 319 z 05.12.2007, str. 1, z późn. zm.), do którego dostawca jest wpisany w innym państwie członkowskim, z podaniem numeru wpisu w tym rejestrze – w przypadku unijnej instytucji płatniczej, jej agenta lub oddziału;
+
+- **2)** dotyczące korzystania z usługi płatniczej:
+    - **a)** opis najważniejszych cech świadczonej usługi płatniczej,
+    - **b)** wyszczególnienie informacji, które muszą być dostarczone przez użytkownika, aby zlecenie płatnicze mogło zostać prawidłowo wykonane albo informację, że wystarczające jest podanie unikatowego identyfikatora,
+    - **c)** określenie sposobu i procedury udzielania zgody na wykonanie transakcji płatniczej oraz wycofywania takiej zgody, a także odwołania zlecenia płatniczego na podstawie art. 40 i art. 51,
+    - **d)** informację na temat momentu, który zgodnie z art. 49 uznaje się za moment otrzymania zlecenia płatniczego,
+    - **e)** informację o maksymalnym czasie wykonania świadczonej usługi płatniczej oraz
+    - **f)** wskazanie limitu wydatków dla transakcji płatniczych wykonywanych za pomocą instrumentu płatniczego, o którym mowa w art. 41 ust. 1;
+
+- **3)** dotyczące opłat, stóp procentowych i kursów walutowych: 29 ust. 4;
+    - **a)** informację o wszelkich opłatach należnych dostawcy od użytkownika, w tym wyszczególnienie kwot tych opłat,
+    - **b)** informację o stopach procentowych, jeżeli mają zastosowanie, lub o kursach walutowych, jeżeli transakcja płatnicza wiąże się z przeliczaniem waluty, w tym o bazowych stopach procentowych i referencyjnych kursach walutowych, oraz o sposobie obliczania faktycznej wysokości odsetek i kursu walutowego oraz
+    - **c)** o ile zostało to uzgodnione – informację o stosowaniu bez uprzedzenia zmienionych wysokości bazowej stopy procentowej lub referencyjnego kursu walutowego i sposobie informowania o takiej zmianie zgodnie z art.
+
+- **4)** dotyczące komunikowania się:
+    - **a)** wskazanie środków porozumiewania się, w tym wymogów technicznych po stronie użytkownika, uzgodnionych przez strony do przekazywania informacji lub do dokonywania zgłoszeń zgodnie z ustawą,
+    - **b)** określenie sposobu oraz częstotliwości udostępniania informacji wymaganych na podstawie ustaw,
+    - **c)** wskazanie języka lub języków, w jakich zawiera się umowę ramową, oraz w jakich strony porozumiewają się w okresie jej obowiązywania oraz
+    - **d)** informację o prawie użytkownika do otrzymania postanowień umowy ramowej oraz informacji zgodnie z art. 28;
+
+- **5)** dotyczące środków ochronnych i naprawczych:
+    - **a)** opis środków, jakie powinien przedsięwziąć użytkownik w celu bezpiecznego przechowywania instrumentu płatniczego, oraz informacje dotyczące sposobu dokonania zgłoszenia dostawcy zgodnie z art. 42 ust. 1 pkt 2,
+    - **b)** o ile zostało to uzgodnione – warunki, na których dostawca zastrzega sobie prawo zablokowania instrumentu płatniczego zgodnie z art. 41,
+    - **c)** informację o odpowiedzialności płatnika zgodnie z art. 46 ust. 2–5, w tym informacje dotyczące kwoty nieautoryzowanej transakcji płatniczej podlegającej zwrotowi,
+    - **d)** określenie sposobu, w jaki użytkownik ma obowiązek powiadomić dostawcę o przypadkach nieautoryzowanych lub nieprawidłowo wykonanych transakcji płatniczych zgodnie z art. 44, oraz wskazanie terminu takiego powiadomienia, jak również informacje o odpowiedzialności za nieautoryzowane transakcje płatnicze na podstawie art. 46 ust. 1 i 2,
+    - **e)** informację o odpowiedzialności dostawcy za wykonanie transakcji płatniczych na podstawie art. 144–146 oraz
+    - **f)** informację o warunkach uzyskania, zgodnie z art. 47 i art. 48, zwrotu kwoty autoryzowanej transakcji płatniczej zainicjowanej przez odbiorcę lub za jego pośrednictwem, która została już wykonana;
+
+- **6)** dotyczące zmian i wypowiedzenia umowy ramowej: 29 ust. 1 i 2 oraz art. 35 i art. 37;
+    - **a)** o ile, zgodnie z art. 29 ust. 2, zostało to uzgodnione – informację, że jeżeli przed proponowanym dniem wejścia w życie zmian umowy ramowej użytkownik nie zgłosi dostawcy sprzeciwu wobec takich zmian, uznaje się, że użytkownik wyraził na nie zgodę,
+    - **b)** informację o okresie obowiązywania umowy ramowej oraz
+    - **c)** informację o prawie użytkownika do wypowiedzenia umowy ramowej oraz o innych uzgodnieniach dotyczących wypowiedzenia umowy zgodnie z art.
+
+- **7)** dotyczące procedur rozstrzygania sporów:
+    - **a)** informację o wszelkich klauzulach umownych mających zastosowanie do umowy ramowej, w szczególności dotyczących prawa właściwego i właściwości sądu, oraz
+    - **b)** informację o pozasądowych procedurach wnoszenia skarg, o których mowa w art. 15, i pozasądowych procedurach rozstrzygania sporów dostępnych dla użytkownika.
 
 **Art. 28.**
 
@@ -1134,6 +1291,13 @@ Art. 154–167. (pominięte)
 
 **Art. 59e.** Odmowa przyjęcia zapłaty przez akceptanta może nastąpić w przypadku:
 
+- **1)** upływu terminu, do którego jest możliwe korzystanie z instrumentu płatniczego;
+- **2)** zablokowania instrumentu płatniczego;
+- **3)** niezgodności podpisu osoby upoważnionej do używania instrumentu płatniczego na instrumencie płatniczym identyfikującym taką osobę z podpisem na dokumencie obciążeniowym;
+- **4)** odmowy okazania dokumentu stwierdzającego tożsamość w przypadku, o którym mowa w art. 59f ust. 1;
+- **5)** stwierdzenia posługiwania się instrumentem płatniczym przez osobę nieuprawnioną;
+- **6)** braku możliwości dokonania akceptacji transakcji płatniczej.
+
 **Art. 59f.**
 
 1. W przypadku uzasadnionych wątpliwości akceptant może żądać od osoby korzystającej z karty płatniczej identyfikującej osobę upoważnioną do jej używania okazania dokumentu stwierdzającego jej tożsamość.
@@ -1292,6 +1456,14 @@ Art. 154–167. (pominięte)
 4. Instytucja płatnicza na bieżąco weryfikuje i okresowo ocenia sposób funkcjonowania systemu zarządzania ryzykiem i kontroli wewnętrznej.
 
 **Art. 65.** KNF odmawia wydania zezwolenia, o którym mowa w art. 60 ust. 1, jeżeli:
+
+- **1)** wnioskodawca lub osoby, o których mowa w art. 61 ust. 1 pkt 8, nie dają rękojmi ostrożnego i stabilnego zarządzania instytucją płatniczą,
+- **2)** wnioskodawca nie posiada kapitału założycielskiego lub środków finansowych przeznaczonych na fundusze własne w wysokości wymaganej ustawą,
+- **3)** system zarządzania ryzykiem i kontroli wewnętrznej, o którym mowa w art. 64 ust. 1 pkt 3, nie zapewnia ostrożnego i stabilnego zarządzania działalnością objętą wnioskiem o wydanie zezwolenia oraz należytego wypełniania obowiązków związanych z przeciwdziałaniem praniu pieniędzy i finansowaniu terroryzmu,
+- **4)** środki finansowe na pokrycie kapitału założycielskiego pochodzą z kredytu, pożyczki albo w inny sposób są obciążone lub pochodzą z nielegalnych lub nieujawnionych źródeł,
+- **5)** plan finansowy lub program działalności nie zapewniają zdolności krajowej instytucji płatniczej do wykonywania zobowiązań wynikających z działalności objętej wnioskiem o wydanie zezwolenia,
+- **6)** bliskie powiązania między wnioskodawcą a innym podmiotem stanowią przeszkodę w skutecznym wykonywaniu nadzoru nad krajową instytucją płatniczą lub
+- **7)** przepisy prawa państwa innego niż państwo członkowskie mające zastosowanie do co najmniej jednej osoby fizycznej lub prawnej, z którą wnioskodawca ma bliskie powiązania, lub trudności związane z egzekwowaniem tych przepisów uniemożliwiałyby skuteczne wykonywanie nadzoru nad krajową instytucją płatniczą.
 
 **Art. 66.**
 
@@ -1693,6 +1865,10 @@ Art. 154–167. (pominięte)
 
 **Art. 100.** Czynności podejmowane w ramach nadzoru polegają w szczególności na:
 
+- **1)** dokonywaniu oceny sytuacji finansowej krajowej instytucji płatniczej;
+- **2)** badaniu jakości zarządzania krajową instytucją płatniczą, w tym systemu zarządzania ryzykiem i kontroli wewnętrznej.
+- **3)** (uchylony)
+
 **Art. 101.** KNF oraz osoby wykonujące czynności nadzoru nie ponoszą odpowiedzialności za szkodę wynikłą ze zgodnego z przepisami ustaw działania lub zaniechania, które pozostaje w związku ze sprawowanym przez KNF nadzorem.
 
 **Art. 102.**
@@ -1859,6 +2035,10 @@ Art. 154–167. (pominięte)
 4. Opłaty, o których mowa w ust. 1, podlegają egzekucji w trybie przepisów ustawy o postępowaniu egzekucyjnym w administracji.
 
 **Art. 115.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
+
+- **1)** terminy uiszczania, wysokość i sposób obliczania wpłat, o których mowa w art. 113 ust. 1,
+- **2)** sposób i terminy rozliczenia należności z tytułu wpłat, o których mowa w art. 113 ust. 1,
+- **3)** wysokość, a także sposób i terminy uiszczania opłat, o których mowa w art. 114 – uwzględniając charakter czynności, z którymi wiąże się obowiązek uiszczenia opłat oraz konieczność zapewnienia skuteczności sprawowanego nadzoru, mając zarazem na względzie, aby wysokość wpłat na pokrycie kosztów nadzoru i opłat nie wpływała w istotny sposób na zwiększenie kosztów działalności podmiotów obowiązanych do ich uiszczenia.
 
 **Art. 116.**
 
@@ -2393,13 +2573,93 @@ Art. 154–167. (pominięte)
 
 **Art. 134.** Rejestr krajowych instytucji płatniczych zawiera odpowiednio:
 
+- **1)** numer wpisu do rejestru;
+- **2)** dane dotyczące krajowej instytucji płatniczej, obejmujące:
+    - **a)** nazwę (firmę),
+    - **b)** numer w rejestrze przedsiębiorców,
+    - **c)** siedzibę i adres;
+
+- **3)** dane dotyczące usług płatniczych, do świadczenia których krajowa instytucja płatnicza jest uprawniona, obejmujące:
+    - **a)** datę wydania zezwolenia, o którym mowa w art. 60 ust. 1, oraz jego zmiany,
+    - **b)** wykaz usług płatniczych objętych zakresem zezwolenia, o którym mowa w art. 60 ust. 1;
+
+- **3a)** informację o wydawaniu przez krajową instytucję płatniczą pieniądza elektronicznego;
+- **4)** dane dotyczące agentów krajowej instytucji płatniczej wykonujących działalność agencyjną w zakresie świadczenia usług płatniczych, obejmujące:
+    - **a)** imię i nazwisko albo nazwę (firmę) agenta,
+    - **b)** siedzibę i adres albo adres głównego miejsca wykonywania działalności agenta;
+
+- **5)** dane dotyczące oddziałów krajowej instytucji płatniczej, obejmujące:
+    - **a)** nazwę (firmę) oddziału,
+    - **b)** adres oddziału;
+
+- **6)** dane dotyczące świadczenia przez krajową instytucję płatniczą usług płatniczych w innym państwie członkowskim, obejmujące:
+    - **a)** wykaz państw, w których krajowa instytucja płatnicza świadczy usługi płatnicze,
+    - **b)** wskazane w pkt 4 lub 5 dane dotyczące podmiotu, za pośrednictwem którego krajowa instytucja płatnicza świadczy usługi płatnicze w innym państwie członkowskim,
+    - **c)** wykaz świadczonych usług płatniczych.
+
 **Art. 135.** Rejestr kas oszczędnościowo-kredytowych zawiera odpowiednio:
+
+- **1)** numer wpisu do rejestru;
+- **2)** dane dotyczące kasy oszczędnościowo-kredytowej, obejmujące:
+    - **a)** nazwę (firmę),
+    - **b)** numer w rejestrze przedsiębiorców,
+    - **c)** siedzibę i adres;
+
+- **3)** wykaz świadczonych usług płatniczych;
+- **4)** dane dotyczące oddziałów kasy oszczędnościowo-kredytowej, obejmujące:
+    - **a)** nazwę (firmę) oddziału,
+    - **b)** adres oddziału.
 
 **Art. 136.** Rejestr biur usług płatniczych zawiera odpowiednio:
 
+- **1)** numer wpisu do rejestru;
+- **2)** dane dotyczące biura usług płatniczych, obejmujące:
+    - **a)** nazwę (firmę),
+    - **b)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile biuro usług płatniczych taki numer posiada, oraz numer identyfikacji podatkowej (NIP),
+    - **c)** siedzibę i adres albo miejsce zamieszkania i adres oraz adres głównego miejsca wykonywania działalności;
+
+- **3)** dane dotyczące agentów biura usług płatniczych, obejmujące:
+    - **a)** imię i nazwisko albo nazwę (firmę) agenta,
+    - **b)** siedzibę i adres albo adres głównego miejsca wykonywania działalności agenta;
+
+- **4)** dane dotyczące oddziałów biura usług płatniczych, obejmujące:
+    - **a)** nazwę (firmę) oddziału,
+    - **b)** adres oddziału.
+
 **Art. 136a.** Rejestr krajowych instytucji pieniądza elektronicznego zawiera odpowiednio:
 
+- **1)** numer wpisu do rejestru;
+- **2)** dane dotyczące krajowej instytucji pieniądza elektronicznego, obejmujące:
+    - **a)** nazwę (firmę),
+    - **b)** numer w rejestrze przedsiębiorców,
+    - **c)** siedzibę i adres;
+
+- **3)** dane dotyczące usług płatniczych, do świadczenia których krajowa instytucja pieniądza elektronicznego jest uprawniona, obejmujące:
+    - **a)** datę wydania zezwolenia, o którym mowa w art. 132a ust. 1, oraz jego zmiany,
+    - **b)** wykaz usług płatniczych objętych zakresem zezwolenia, o którym mowa w art. 132a ust. 1;
+
+- **4)** dane dotyczące agentów krajowej instytucji pieniądza elektronicznego wykonujących działalność agencyjną w zakresie świadczenia usług płatniczych, obejmujące:
+    - **a)** imię i nazwisko albo nazwę (firmę) agenta,
+    - **b)** siedzibę i adres albo adres głównego miejsca wykonywania działalności agenta;
+
+- **5)** dane dotyczące oddziałów krajowej instytucji pieniądza elektronicznego, obejmujące:
+    - **a)** nazwę (firmę) oddziału,
+    - **b)** adres oddziału;
+
+- **6)** dane dotyczące wydawania pieniądza elektronicznego lub świadczenia usług płatniczych przez krajową instytucję pieniądza elektronicznego w innym państwie członkowskim, obejmujące:
+    - **a)** wykaz państw, w których krajowa instytucja pieniądza elektronicznego wydaje pieniądz elektroniczny lub świadczy usługi płatnicze,
+    - **b)** dane określone w pkt 4 lub 5 dotyczące podmiotu, za pośrednictwem którego krajowa instytucja pieniądza elektronicznego prowadzi działalność w innym państwie członkowskim,
+    - **c)** wykaz świadczonych usług płatniczych.
+
 **Art. 136b.** Rejestr oddziałów zagranicznej instytucji pieniądza elektronicznego zawiera odpowiednio:
+
+- **1)** numer wpisu do rejestru;
+- **2)** dane dotyczące oddziału zagranicznej instytucji pieniądza elektronicznego, obejmujące:
+    - **a)** nazwę (firmę) oddziału,
+    - **b)** numer w rejestrze przedsiębiorców,
+    - **c)** adres oddziału;
+
+- **3)** dane dotyczące działalności związanej z wydawaniem pieniądza elektronicznego, obejmujące datę wydania zezwolenia, o którym mowa w art. 132zh ust. 1, oraz jego zmiany.
 
 **Art. 137.**
 
@@ -2578,4 +2838,8 @@ Art. 154–167. (pominięte)
 4. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, jest minister właściwy do spraw instytucji finansowych.
 
 **Art. 181.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 159, który wchodzi w życie z dniem 18 grudnia 2011 r.;
+- **2)** art. 167, który wchodzi w życie z dniem 1 stycznia 2012 r.
+
 

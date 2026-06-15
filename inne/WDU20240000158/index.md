@@ -192,7 +192,8 @@ c) dzieleniu się przyjętymi rozwiązaniami i doświadczeniami z innymi nauczyc
 a) ocenę wpływu stosowania TIK w szkołach lub SOSW na zaangażowanie nauczycieli w proces nauczania i uczniów w proces uczenia się,
 b) charakterystykę problemów i barier w realizacji Programu,
 c) ocenę stopnia realizacji przez szkoły lub SOSW zadań wynikających z udziału w Programie;
-6) wypełnianiu ankiet oraz udziale w badaniach na potrzeby przeprowadzenia ewaluacji Programu, o których mowa w § 20.
+6) wypełnianiu ankiet oraz udziale w badaniach na potrzeby przeprowadzenia ewaluacji Programu, o których mowa
+§ 20.
 § 7. 1. Środki budżetu państwa na wsparcie finansowe dla poszczególnych województw minister właściwy do spraw oświaty i wychowania dzieli w danym roku budżetowym proporcjonalnie do liczby szkół podstawowych, szkół ponadpodstawowych i SOSW w województwie oraz liczby szkół prowadzonych przez właściwego ministra.
 2. Środki budżetu państwa na wsparcie finansowe dla szkół, dla których organami prowadzącymi są ministrowie, o których mowa w § 3 ust. 1 pkt 4, są przekazywane tym ministrom na podstawie listy tych szkół uprawnionych do wzięcia udziału w Programie.
 § 8. 1. Dyrektor szkoły podstawowej, szkoły ponadpodstawowej i SOSW występuje do organu prowadzącego, o którym mowa w § 3 ust. 1 pkt 1–4, a w przypadku szkoły za granicą – do dyrektora ORPEG, z wnioskiem o udział w Programie w roku:

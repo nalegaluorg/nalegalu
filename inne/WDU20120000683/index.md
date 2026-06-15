@@ -40,7 +40,7 @@ l c r .
 w w w .
 v o g .
 l c r .
-w w w p .
+w w p .
 PODSTAWOWE KRYTERIA I SPOSÓB OKREŚLANIA POZIOMU ZAGROŻEŃ v I. Wstęp W celu prawidłowego zabezpieczenia informacji niejawnych, w tym doboru odpowiednich środków bezpieczeństwa fizycznego, o należy określić poziom zagrożeń nieuprawnionym ujawnieniem lub utratą informacji niejawnych. Określenie poziomu zagrożeń jest indywidualną oceną znaczenia czynników, o których mowa w § 3 ust. 6 rozporządzenia, mogących mieć wpływ g na bezpieczeństwo informacji niejawnych w konkretnej jednostce organizacyjnej. Z uwagi na specyfikę, zakres i różnorodność zadań realizowanych przez podmioty podlegające przepisom ustawy, ocena przedstawionych czynników leży w sferze odpowiedzialności . kierownika jednostki organizacyjnej, w której informacje niejawne są przetwarzane. l Każdy z wymienionych czynników powinien zostać poddany wnikliwej analizie pod kątem jego znaczenia dla zagrożenia ujawnieniem lub utratą c informacji niejawnych. Ocena poziomu zagrożeń uwzględniająca klauzule tajności przetwarzanych informacji będzie determinowała stosowanie odpowiednich środków bezpieczeństwa fizycznego, r o których mowa w tabeli II „Podstawowe wymagania bezpieczeństwa fizycznego” załącznika nr 2 „Metodyka doboru środków bezpieczeństwa fizycznego”. .
 Przy w określaniu poziomu zagrożeń oceniane jest znaczenie czynnika dla bezpieczeństwa informacji niejawnych w konkretnej jednostce organizacyjnej, a nie sam czynnik jako taki.
 II. Objaśnienia w

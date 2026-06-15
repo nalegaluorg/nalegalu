@@ -8,7 +8,7 @@ pos: 168
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Kodeks postępowania administracyjnego
@@ -34,6 +34,13 @@ Art. 164–179. (uchylone)
 #### Rozdział 1 Zakres obowiązywania
 
 **Art. 1.** Kodeks postępowania administracyjnego normuje:
+
+- **1)** postępowanie przed organami administracji publicznej w należących do właściwości tych organów sprawach indywidualnych rozstrzyganych w drodze decyzji administracyjnych albo załatwianych milcząco;
+- **2)** postępowanie przed innymi organami państwowymi oraz przed innymi podmiotami, gdy są one powołane z mocy prawa lub na podstawie porozumień do załatwiania spraw określonych w pkt 1;
+- **3)** postępowanie w sprawach rozstrzygania sporów o właściwość między organami jednostek samorządu terytorialnego i organami administracji rządowej oraz między organami i podmiotami, o których mowa w pkt 2;
+- **4)** postępowanie w sprawach wydawania zaświadczeń;
+- **5)** nakładanie lub wymierzanie administracyjnych kar pieniężnych lub udzielanie ulg w ich wykonaniu;
+- **6)** tryb europejskiej współpracy administracyjnej.
 
 **Art. 2.** Kodeks postępowania administracyjnego normuje ponadto postępowanie w sprawie skarg i wniosków (Dział VIII) przed organami państwowymi, organami jednostek samorządu terytorialnego oraz przed organami organizacji społecznych.
 
@@ -135,7 +142,9 @@ Art. 164–179. (uchylone)
 
 **Art. 14.**
 
-§ 1. (uchylony) § 1a. Sprawy należy prowadzić i załatwiać na piśmie utrwalonym w postaci papierowej lub elektronicznej. Pisma utrwalone w postaci papierowej opatruje się podpisem własnoręcznym. Pisma utrwalone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną organu administracji publicznej ze wskazaniem w treści pisma osoby opatrującej pismo pieczęcią.
+§ 1. (uchylony)
+
+§ 1a. Sprawy należy prowadzić i załatwiać na piśmie utrwalonym w postaci papierowej lub elektronicznej. Pisma utrwalone w postaci papierowej opatruje się podpisem własnoręcznym. Pisma utrwalone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną organu administracji publicznej ze wskazaniem w treści pisma osoby opatrującej pismo pieczęcią.
 
 § 1b. Sprawy mogą być załatwiane z wykorzystaniem pism generowanych automatycznie i opatrzonych kwalifikowaną pieczęcią elektroniczną organu administracji publicznej. W przypadku pism generowanych automatycznie przepisów o konieczności opatrzenia pisma podpisem pracownika organu administracji publicznej nie stosuje się.
 
@@ -163,7 +172,16 @@ Art. 164–179. (uchylone)
 
 **Art. 17.** Organami wyższego stopnia w rozumieniu kodeksu są:
 
+- **1)** w stosunku do organów jednostek samorządu terytorialnego – samorządowe kolegia odwoławcze, chyba że ustawy szczególne stanowią inaczej;
+- **2)** w stosunku do wojewodów – właściwi w sprawie ministrowie;
+- **3)** w stosunku do organów administracji publicznej innych niż określone w pkt 1 i 2 – odpowiednie organy nadrzędne lub właściwi ministrowie, a w razie ich braku – organy państwowe sprawujące nadzór nad ich działalnością;
+- **4)** w stosunku do organów organizacji społecznych – odpowiednie organy wyższego stopnia tych organizacji, a w razie ich braku – organ państwowy sprawujący nadzór nad ich działalnością.
+
 **Art. 18.** Organami naczelnymi w rozumieniu kodeksu są:
+
+- **1)** w stosunku do organów administracji rządowej, organów jednostek samorządu terytorialnego, z wyjątkiem samorządowych kolegiów odwoławczych, oraz organów państwowych i samorządowych jednostek organizacyjnych – Prezes Rady Ministrów lub właściwi ministrowie;
+- **2)** w stosunku do organów państwowych innych niż określone w pkt 1 – odpowiednie organy o ogólnokrajowym zasięgu działania;
+- **3)** w stosunku do organów organizacji społecznych – naczelne organy tych organizacji, a w razie braku takiego organu – Prezes Rady Ministrów lub właściwi ministrowie sprawujący zwierzchni nadzór nad ich działalnością.
 
 #### Rozdział 4 Właściwość organów
 
@@ -306,9 +324,13 @@ Art. 164–179. (uchylone)
 
 § 2. Pełnomocnictwo powinno być udzielone na piśmie lub zgłoszone do protokołu.
 
-§ 2a. (uchylony) § 3. Pełnomocnik dołącza do akt oryginał lub urzędowo poświadczony odpis pełnomocnictwa. Adwokat, radca prawny, rzecznik patentowy, a także doradca podatkowy mogą sami uwierzytelnić odpis udzielonego im pełnomocnictwa oraz odpisy innych dokumentów wykazujących ich umocowanie. Organ administracji publicznej może w razie wątpliwości zażądać urzędowego poświadczenia podpisu strony.
+§ 2a. (uchylony)
 
-§ 3a. (uchylony) § 4. W sprawach mniejszej wagi organ administracji publicznej może nie żądać pełnomocnictwa, jeśli pełnomocnikiem jest członek najbliższej rodziny lub domownik strony, a nie ma wątpliwości co do istnienia i zakresu upoważnienia do występowania w imieniu strony.
+§ 3. Pełnomocnik dołącza do akt oryginał lub urzędowo poświadczony odpis pełnomocnictwa. Adwokat, radca prawny, rzecznik patentowy, a także doradca podatkowy mogą sami uwierzytelnić odpis udzielonego im pełnomocnictwa oraz odpisy innych dokumentów wykazujących ich umocowanie. Organ administracji publicznej może w razie wątpliwości zażądać urzędowego poświadczenia podpisu strony.
+
+§ 3a. (uchylony)
+
+§ 4. W sprawach mniejszej wagi organ administracji publicznej może nie żądać pełnomocnictwa, jeśli pełnomocnikiem jest członek najbliższej rodziny lub domownik strony, a nie ma wątpliwości co do istnienia i zakresu upoważnienia do występowania w imieniu strony.
 
 **Art. 34.**
 
@@ -391,6 +413,9 @@ Art. 164–179. (uchylone)
 
 **Art. 39¹.** W przypadku doręczenia w sposób, o którym mowa w art. 39 § 1, pisma doręcza się stronie lub innemu uczestnikowi postępowania na:
 
+- **1)** adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa w art. 25 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, zwanej dalej „bazą adresów elektronicznych”, a w przypadku pełnomocnika – na adres do doręczeń elektronicznych wskazany w podaniu, albo
+- **2)** adres do doręczeń elektronicznych powiązany z kwalifikowaną usługą rejestrowanego doręczenia elektronicznego, za pomocą której wniesiono podanie, jeżeli adres do doręczeń elektronicznych strony lub innego uczestnika postępowania nie został wpisany do bazy adresów elektronicznych.
+
 **Art. 39².** (uchylony)
 
 **Art. 39³.**
@@ -469,7 +494,21 @@ Art. 164–179. (uchylone)
 
 § 2. Jeżeli odbierający pismo uchyla się od potwierdzenia doręczenia lub nie może tego uczynić, doręczający sam stwierdza datę doręczenia oraz wskazuje osobę, która odebrała pismo, i przyczynę braku jej podpisu.
 
-§ 3. (uchylony) § 4. (uchylony) § 5. (uchylony) § 6. (uchylony) § 7. (uchylony) § 8. (uchylony) § 9. (uchylony) § 10. (uchylony)
+§ 3. (uchylony)
+
+§ 4. (uchylony)
+
+§ 5. (uchylony)
+
+§ 6. (uchylony)
+
+§ 7. (uchylony)
+
+§ 8. (uchylony)
+
+§ 9. (uchylony)
+
+§ 10. (uchylony)
 
 **Art. 47.**
 
@@ -619,7 +658,9 @@ Art. 164–179. (uchylone)
 
 § 3a. Podanie wniesione na adres do doręczeń elektronicznych lub za pośrednictwem konta w systemie teleinformatycznym organu administracji publicznej zawiera dane w ustalonym formacie, zawartym we wzorze podania określonym w odrębnych przepisach, jeżeli te przepisy nakazują wnoszenie podań według określonego wzoru.
 
-§ 3b. (uchylony) § 4. Organ administracji publicznej jest obowiązany potwierdzić wniesienie podania, jeżeli wnoszący tego zażąda.
+§ 3b. (uchylony)
+
+§ 4. Organ administracji publicznej jest obowiązany potwierdzić wniesienie podania, jeżeli wnoszący tego zażąda.
 
 § 5. (uchylony)
 
@@ -791,6 +832,10 @@ Art. 164–179. (uchylone)
 - **4)** w sprawach osobowych funkcjonariuszy oraz żołnierzy zawodowych.
 
 **Art. 82.** Świadkami nie mogą być:
+
+- **1)** osoby niezdolne do spostrzegania lub komunikowania swych spostrzeżeń;
+- **2)** osoby obowiązane do zachowania w tajemnicy informacji niejawnych na okoliczności objęte tajemnicą, jeżeli nie zostały w trybie określonym obowiązującymi przepisami zwolnione od obowiązku zachowania tej tajemnicy;
+- **3)** duchowni co do faktów objętych tajemnicą spowiedzi.
 
 **Art. 83.**
 
@@ -1218,6 +1263,12 @@ Art. 164–179. (uchylone)
 
 **Art. 122b.** Za dzień wydania decyzji lub postanowienia kończącego postępowanie w sprawie, o której mowa w art. 122a § 2 pkt 1, albo wniesienia sprzeciwu, o którym mowa w art. 122a § 2 pkt 2, uznaje się dzień:
 
+- **1)** nadania sprzeciwu, decyzji lub postanowienia kończącego postępowanie w sprawie za pokwitowaniem przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe albo
+- **2)** doręczenia za pokwitowaniem sprzeciwu, decyzji lub postanowienia kończącego postępowanie w sprawie przez pracowników organu administracji publicznej lub inne upoważnione osoby, albo
+- **3)** wprowadzenia sprzeciwu, decyzji lub postanowienia kończącego postępowanie w sprawie do systemu teleinformatycznego w przypadku, o którym mowa w art.
+
+39.
+
 **Art. 122c.**
 
 § 1. Milczące załatwienie sprawy następuje w dniu następującym po dniu, w którym upływa termin przewidziany do wydania decyzji lub postanowienia kończącego postępowanie w sprawie albo wniesienia sprzeciwu. W przypadku gdy organ przed upływem terminu do załatwienia sprawy zawiadomi stronę o braku sprzeciwu, milczące załatwienie sprawy następuje w dniu doręczenia tego zawiadomienia.
@@ -1254,7 +1305,9 @@ Art. 164–179. (uchylone)
 
 § 5. W zakresie nieuregulowanym w § 1–4 do zaświadczenia o milczącym załatwieniu sprawy stosuje się przepisy działu VII.
 
-**Art. 122g.** Do spraw załatwionych milcząco przepisy rozdziałów 12 i 13 w dziale II stosuje się odpowiednio. Przyjmuje się, że skutek wydania decyzji ostatecznej powstał w terminie czternastu dni od dnia upływu terminu, o którym mowa w art. 122c § 1.
+**Art. 122g.** Do spraw załatwionych milcząco przepisy rozdziałów 12 i 13 w dziale II stosuje się odpowiednio. Przyjmuje się, że skutek wydania decyzji ostatecznej powstał w terminie czternastu dni od dnia upływu terminu, o którym mowa w art. 122c
+
+§ 1
 
 **Art. 122h.**
 
@@ -1382,7 +1435,9 @@ Art. 164–179. (uchylone)
 
 § 2b. Przepisu § 2 nie stosuje się w przypadkach, o których mowa w art. 136 § 2 lub 3. Organ odwoławczy po przeprowadzeniu postępowania wyjaśniającego w zakresie niezbędnym do rozstrzygnięcia sprawy wydaje decyzję, o której mowa w § 1 albo 4.
 
-§ 3. (uchylony) § 4. Jeżeli przepisy przewidują wydanie decyzji na blankiecie urzędowym, a istnieją podstawy do zmiany zaskarżonej decyzji, organ odwoławczy uchyla decyzję i zobowiązuje organ pierwszej instancji do wydania decyzji o określonej treści.
+§ 3. (uchylony)
+
+§ 4. Jeżeli przepisy przewidują wydanie decyzji na blankiecie urzędowym, a istnieją podstawy do zmiany zaskarżonej decyzji, organ odwoławczy uchyla decyzję i zobowiązuje organ pierwszej instancji do wydania decyzji o określonej treści.
 
 **Art. 139.** Organ odwoławczy nie może wydać decyzji na niekorzyść strony odwołującej się, chyba że zaskarżona decyzja rażąco narusza prawo lub rażąco narusza interes społeczny.
 
@@ -1592,7 +1647,9 @@ Art. 164–179. (uchylone)
 
 § 2. Urzędowy formularz zawiera pouczenie o treści § 4.
 
-§ 3. (uchylony) § 4. W sprawie wszczętej na skutek podania złożonego z wykorzystaniem urzędowego formularza nie jest dopuszczalne późniejsze zgłaszanie przez stronę nowych żądań.
+§ 3. (uchylony)
+
+§ 4. W sprawie wszczętej na skutek podania złożonego z wykorzystaniem urzędowego formularza nie jest dopuszczalne późniejsze zgłaszanie przez stronę nowych żądań.
 
 **Art. 163d.** Jeżeli uwzględnienie nowych okoliczności powołanych przez stronę w toku postępowania jest istotne dla wyniku tego postępowania, a ich uwzględnienie doprowadzi do jego przedłużenia, organ administracji publicznej w dalszym ciągu prowadzi postępowanie z pominięciem przepisów niniejszego rozdziału, o czym niezwłocznie informuje stronę.
 
@@ -1672,6 +1729,14 @@ Art. 164–179. (uchylone)
 **Art. 189c.** Jeżeli w czasie wydawania decyzji w sprawie administracyjnej kary pieniężnej obowiązuje ustawa inna niż w czasie naruszenia prawa, w następstwie którego ma być nałożona kara, stosuje się ustawę nową, jednakże należy stosować ustawę obowiązującą poprzednio, jeżeli jest ona względniejsza dla strony.
 
 **Art. 189d.** Wymierzając administracyjną karę pieniężną, organ administracji publicznej bierze pod uwagę:
+
+- **1)** wagę i okoliczności naruszenia prawa, w szczególności potrzebę ochrony życia lub zdrowia, ochrony mienia w znacznych rozmiarach lub ochrony ważnego interesu publicznego lub wyjątkowo ważnego interesu strony oraz czas trwania tego naruszenia;
+- **2)** częstotliwość niedopełniania w przeszłości obowiązku albo naruszania zakazu tego samego rodzaju co niedopełnienie obowiązku albo naruszenie zakazu, w następstwie którego ma być nałożona kara;
+- **3)** uprzednie ukaranie za to samo zachowanie za przestępstwo, przestępstwo skarbowe, wykroczenie lub wykroczenie skarbowe;
+- **4)** stopień przyczynienia się strony, na którą jest nakładana administracyjna kara pieniężna, do powstania naruszenia prawa;
+- **5)** działania podjęte przez stronę dobrowolnie w celu uniknięcia skutków naruszenia prawa;
+- **6)** wysokość korzyści, którą strona osiągnęła, lub straty, której uniknęła;
+- **7)** w przypadku osoby fizycznej – warunki osobiste strony, na którą administracyjna kara pieniężna jest nakładana.
 
 **Art. 189e.** W przypadku gdy do naruszenia prawa doszło wskutek działania siły wyższej, strona nie podlega ukaraniu.
 
@@ -1898,6 +1963,17 @@ Art. 164–179. (uchylone)
 
 **Art. 229.** Jeżeli przepisy szczególne nie określają innych organów właściwych do rozpatrywania skarg, jest organem właściwym do rozpatrzenia skargi dotyczącej zadań lub działalności:
 
+- **1)** rady gminy, rady powiatu i sejmiku województwa – wojewoda, a w zakresie spraw finansowych – regionalna izba obrachunkowa;
+- **2)** organów wykonawczych jednostek samorządu terytorialnego oraz kierowników powiatowych służb, inspekcji, straży i innych jednostek organizacyjnych w sprawach należących do zadań zleconych z zakresu administracji rządowej – wojewoda lub organ wyższego stopnia;
+- **3)** wójta (burmistrza lub prezydenta miasta) i kierowników gminnych jednostek organizacyjnych, z wyjątkiem spraw określonych w pkt 2 – rada gminy;
+- **4)** zarządu powiatu oraz starosty, a także kierowników powiatowych służb, inspekcji, straży i innych jednostek organizacyjnych, z wyjątkiem spraw określonych w pkt 2 – rada powiatu;
+- **5)** zarządu i marszałka województwa, z wyjątkiem spraw określonych w pkt 2 – sejmik województwa;
+- **6)** wojewody w sprawach podlegających rozpatrzeniu według kodeksu – właściwy minister, a w innych sprawach – Prezes Rady Ministrów;
+- **7)** innego organu administracji rządowej, organu przedsiębiorstwa państwowego lub innej państwowej jednostki organizacyjnej – organ wyższego stopnia lub sprawujący bezpośredni nadzór;
+- **8)** ministra – Prezes Rady Ministrów;
+- **8a)** konsula – minister właściwy do spraw zagranicznych;
+- **9)** organu centralnego i jego kierownika – organ, któremu podlega.
+
 **Art. 230.** Do rozpatrzenia skargi dotyczącej zadań i działalności organizacji społecznej właściwy jest organ bezpośrednio wyższego stopnia tej organizacji, a w stosunku do organu naczelnego organizacji – Prezes Rady Ministrów lub właściwi ministrowie sprawujący nadzór nad działalnością tej organizacji.
 
 **Art. 231.**
@@ -1917,6 +1993,9 @@ Art. 164–179. (uchylone)
 **Art. 233.** Skarga w sprawie indywidualnej, która nie była i nie jest przedmiotem postępowania administracyjnego, powoduje wszczęcie postępowania, jeżeli została złożona przez stronę. Jeżeli skarga taka pochodzi od innej osoby, może spowodować wszczęcie postępowania administracyjnego z urzędu, chyba że przepisy wymagają do wszczęcia postępowania żądania strony.
 
 **Art. 234.** W sprawie, w której toczy się postępowanie administracyjne:
+
+- **1)** skarga złożona przez stronę podlega rozpatrzeniu w toku postępowania, zgodnie z przepisami kodeksu;
+- **2)** skarga pochodząca od innych osób stanowi materiał, który organ prowadzący postępowanie powinien rozpatrzyć z urzędu.
 
 **Art. 235.**
 
@@ -2042,7 +2121,9 @@ Art. 164–179. (uchylone)
 
 § 1. Organy, o których mowa w art. 258, dokonują okresowo, nie rzadziej niż raz na dwa lata, ocen przyjmowania i załatwiania skarg i wniosków przez organy i jednostki organizacyjne poddane ich nadzorowi.
 
-§ 2. (uchylony) § 3. W wyniku przeprowadzonych kontroli oraz ocen organy wymienione w § 1 dążą do usunięcia przyczyn skarg oraz do pełnego wykorzystania wniosków w celu polepszenia działalności poszczególnych organów i innych państwowych jednostek organizacyjnych.
+§ 2. (uchylony)
+
+§ 3. W wyniku przeprowadzonych kontroli oraz ocen organy wymienione w § 1 dążą do usunięcia przyczyn skarg oraz do pełnego wykorzystania wniosków w celu polepszenia działalności poszczególnych organów i innych państwowych jednostek organizacyjnych.
 
 **Art. 260.** (uchylony)
 

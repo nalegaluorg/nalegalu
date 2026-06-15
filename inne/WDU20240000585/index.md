@@ -8,7 +8,7 @@ pos: 585
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami
@@ -30,6 +30,50 @@ source: "isap-pdf"
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Użyte w ustawie określenia oznaczają:
+
+- **1)** system płatności – podlegające prawu polskiemu prawne powiązania pomiędzy co najmniej trzema instytucjami, w tym co najmniej jedną z instytucji, o których mowa w pkt 5 lit. a–d lub lit. h, z wyłączeniem uczestnika pośredniego, w ramach których obowiązują wspólne dla tych uczestników zasady przeprowadzania rozliczeń lub realizacji ich zleceń rozrachunku, o których mowa w pkt 12 lit. a, z zastrzeżeniem art. 2a;
+- **2)** system rozrachunku papierów wartościowych – podlegające prawu polskiemu prawne powiązania pomiędzy co najmniej trzema instytucjami, w tym co najmniej jedną z instytucji, o których mowa w pkt 5 lit. a–d lub lit. h, z wyłączeniem uczestnika pośredniego, w ramach których obowiązują wspólne dla tych uczestników zasady przeprowadzania rozliczeń lub realizacji ich zleceń rozrachunku, o których mowa w pkt 12 lit. b, z zastrzeżeniem art. 2a;
+- **3)** system – systemy, o których mowa w pkt 1 i 2;
+- **3a)** system interoperacyjny – system płatności lub system rozrachunku papierów wartościowych, którego podmiot prowadzący system zawarł porozumienie w sprawie międzysystemowej realizacji zleceń rozrachunku z co najmniej jednym podmiotem prowadzącym system podlegający prawu polskiemu lub prawu innego państwa członkowskiego;
+- **4)** inne państwo członkowskie – inne niż Rzeczpospolita Polska państwo, które jest członkiem Unii Europejskiej, oraz Islandia, Liechtenstein i Norwegia;
+- **5)** instytucja – każdy z następujących podmiotów, który jest uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych, odpowiedzialny za wykonanie zobowiązań wynikających z realizacji zleceń rozrachunku w systemie: z 2024 r. poz. 512), d,
+    - **a)** Narodowy Bank Polski, zwany dalej „NBP”,
+    - **b)** bank centralny innego państwa,
+    - **c)** bank krajowy, oddział banku zagranicznego, instytucja kredytowa oraz oddział instytucji kredytowej w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488), spółdzielcza kasa oszczędnościowo-kredytowa oraz Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa w rozumieniu ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U.
+    - **d)** firma inwestycyjna w rozumieniu art. 3 pkt 33 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r. poz. 646, 825, 1723 i 1941),
+    - **e)** (uchylona)
+    - **f)** (uchylona)
+    - **g)** mające siedzibę na terytorium Rzeczypospolitej Polskiej i lokujące na własny rachunek środki pieniężne na rynku papierów wartościowych: – zakład ubezpieczeń w rozumieniu przepisów o działalności ubezpieczeniowej, – fundusz inwestycyjny i alternatywna spółka inwestycyjna w rozumieniu przepisów o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, – fundusz emerytalny w rozumieniu przepisów o organizacji i funkcjonowaniu funduszy emerytalnych,
+    - **h)** organ władzy publicznej,
+    - **i)** podmiot objęty gwarancjami, udzielonymi przez organ władzy publicznej,
+    - **j)** podmiot, którego siedziba znajduje się poza terytorium innych państw członkowskich, prowadzący działalność analogiczną do działalności instytucji kredytowej, o której mowa w lit. c, lub zagranicznej firmy inwestycyjnej, o której mowa w art. 3 pkt 32 ustawy wymienionej w lit.
+    - **k)** inny niż wymieniony w lit. a–j uczestnik systemu rozrachunku papierów wartościowych, ponoszący odpowiedzialność za wykonanie zobowiązań wynikających z rozliczeń lub realizacji zleceń rozrachunku w tym systemie, pod warunkiem że co najmniej trzema uczestnikami tego systemu są podmioty, o których mowa w lit. a–c,
+    - **l)** w odniesieniu do systemów płatności – instytucja płatnicza oraz instytucja pieniądza elektronicznego w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611 i 1069 oraz z 2026 r. poz. 340);
+
+- **6)** CCP – podmiot, o którym mowa w art. 2 pkt 1 rozporządzenia (UE) nr 648/2012;
+- **7)** agent rozrachunkowy – podmiot prowadzący w ramach systemu rachunki rozliczeniowe dla instytucji lub CCP, poprzez które dokonuje rozrachunku i udziela – w zależności od posiadanych uprawnień – kredytu dla celów rozrachunkowych instytucji lub CCP;
+- **8)** izba rozliczeniowa – podmiot, do którego obowiązków należy obliczanie należności lub zobowiązań netto instytucji, CCP lub agenta rozrachunkowego;
+- **9)** uczestnik – instytucję, CCP, agenta rozrachunkowego, izbę rozliczeniową, podmiot prowadzący system lub członka rozliczającego CCP, który uzyskał zezwolenie udzielone zgodnie z art. 17 rozporządzenia (UE) nr 648/2012;
+- **10)** uczestnik pośredni – instytucję, CCP, agenta rozrachunkowego, izbę rozliczeniową lub podmiot prowadzący system, związany z uczestnikiem umową umożliwiającą przekazywanie jego zleceń rozrachunku do systemu, pod warunkiem że uczestnik pośredni jest znany podmiotowi prowadzącemu system;
+- **11)** papiery wartościowe – papiery wartościowe oraz inne instrumenty finansowe w rozumieniu art. 2 ustawy, o której mowa w pkt 5 lit. d;
+- **12)** zlecenie rozrachunku:
+    - **a)** zlecenie uczestnika dotyczące przekazania kwoty pieniężnej na rachunek odbiorcy prowadzony przez agenta rozrachunkowego lub inne zlecenie, które powoduje wykonanie lub zwolnienie z zobowiązania pieniężnego, zgodnie z zasadami systemu płatności, lub
+    - **b)** zlecenie uczestnika dotyczące przeniesienia papierów wartościowych w drodze dokonania odpowiednich zapisów w prowadzonej ewidencji papierów wartościowych lub w inny sposób;
+
+- **13)** zagraniczne postępowanie upadłościowe – prowadzone na podstawie prawa państwa innego niż Rzeczpospolita Polska postępowanie sądowe lub administracyjne, w tym także postępowanie zabezpieczające, w ramach których mienie uczestnika systemu lub podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej będącego uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych podlegających prawu innego państwa członkowskiego, poddane jest kontroli lub zarządowi sądu lub innego organu, jeżeli skutkiem tego postępowania jest zawieszenie realizacji zleceń rozrachunku lub nałożenie na nie ograniczeń;
+- **14)** ogłoszenie upadłości: poz. 2309 oraz z 2023 r. poz. 1723 i 1860), wydanie przez sąd właściwy w sprawach restrukturyzacji postanowienia o otwarciu postępowania sanacyjnego, układowego albo przyspieszonego postępowania układowego,
+    - **a)** podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej, będącego uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych, w tym także podlegających prawu innego państwa członkowskiego – zgodnie z ustawą z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520 oraz z 2023 r. poz. 825, 1723, 1843 i 1860), wydanie przez sąd właściwy w sprawach upadłości postanowienia o ogłoszeniu upadłości, jak również zgodnie z ustawą z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2022 r.
+    - **b)** podmiotu mającego siedzibę poza terytorium Rzeczypospolitej Polskiej będącego uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych, wydanie przez zagraniczny sąd lub zagraniczny organ orzeczenia, postanowienia lub decyzji, którymi pozbawiono lub ograniczono uczestnika prawa zarządu jego majątkiem lub poddano majątek uczestnika kontroli celem jego reorganizacji lub likwidacji uczestnika, w postępowaniu, o którym mowa w pkt 13;
+
+- **15)** właściwe organy – organy sprawujące nadzór nad podmiotami, o których mowa w pkt 5 lit. c–g oraz i–l;
+- **16)** kompensowanie – przekształcenie, dla każdego uczestnika, w jedno zobowiązanie netto lub jedną należność netto wzajemnych zobowiązań i należności wynikających z przekazywanych pomiędzy uczestnikami zleceń rozrachunku;
+- **17)** rachunek rozliczeniowy – prowadzony przez agenta rozrachunkowego i przeznaczony do dokonywania rozrachunku pomiędzy uczestnikami systemu: rachunek bankowy, rachunek pieniężny, rachunek papierów wartościowych, rachunek derywatów, rachunek zbiorczy, konto depozytowe papierów wartościowych lub konto rozliczeniowe;
+- **18)** przedmiot zabezpieczenia – zbywalne aktywa:
+    - **a)** na których został ustanowiony w związku z uczestnictwem w systemie zastaw, kaucja lub inne zabezpieczenie, lub
+    - **b)** przyjęte przez NBP, bank centralny innego państwa członkowskiego lub Europejski Bank Centralny, w związku z wykonywaniem zadań banku centralnego;
+
+- **19)** podmiot prowadzący system – CCP, agenta rozrachunkowego oraz izbę rozliczeniową, w tym w szczególności izbę rozliczeniową lub izbę rozrachunkową działającą na podstawie ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub inne podmioty określające wspólne dla uczestników systemu zasady realizacji ich zleceń rozrachunku;
+- **20)** rozporządzenie (UE) nr 648/2012 – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm. ).
 
 **Art. 1a.** Przynajmniej jedna z instytucji, których powiązania prawne tworzą system, powinna posiadać siedzibę na terytorium Rzeczypospolitej Polskiej.
 

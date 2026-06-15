@@ -8,7 +8,7 @@ pos: 1199
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o biokomponentach i biopaliwach ciekłych
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2006-08-25 |
 | Data wydania | 2006-09-25 |
-| Ostatnia zmiana | 2026-05-12 |
+| Ostatnia zmiana | 2026-06-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061691199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1199/text.pdf) |
 
 Art. 28ya. Prezes Urzędu Regulacji Energetyki jest odpowiedzialny za:
@@ -232,6 +232,9 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 
 **Art. 3a.** W sprawach dotyczących:
 
+- **1)** działalności gospodarczej w zakresie wytwarzania biometanu stosuje się przepisy ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **2)** działalności regulowanej, nieuregulowanych w ustawie, stosuje się przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+
 #### Rozdział 2 Zasady wykonywania działalności gospodarczej w zakresie wytwarzania biokomponentów, z wyłączeniem wytwarzania biometanu
 
 **Art. 4.**
@@ -379,6 +382,11 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 3. Rejestr podmiotów sprowadzających prowadzi organ rejestrowy.
 
 **Art. 12b.** Podmiot sprowadzający jest obowiązany spełniać następujące warunki:
+
+- **1)** dysponować odpowiednimi warunkami technicznymi umożliwiającymi prawidłowe wykonywanie działalności gospodarczej, w tym obiektami budowlanymi, w szczególności w przypadku gdy odrębne przepisy nakładają na podmiot sprowadzający obowiązek prowadzenia składu podatkowego;
+- **2)** prowadzić dokumentację dotyczącą importu lub nabycia wewnątrzwspólnotowego biokomponentów dokonanego samodzielnie lub za pośrednictwem innego podmiotu oraz rozporządzania tymi biokomponentami przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych biokomponentów;
+- **3)** posiadać zezwolenie określone w przepisach o podatku akcyzowym, o ile taki obowiązek wynika z tych przepisów;
+- **4)** zapewnić, aby biokomponenty, które poddawane są jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych biokomponentów, spełniały wymagania jakościowe określone w ustawie.
 
 **Art. 12c.**
 
@@ -902,6 +910,55 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 
 **Art. 28b².** Ciekłe paliwa węglowe pochodzące z recyklingu i gazowe paliwa węglowe pochodzące z recyklingu spełniają kryterium ograniczenia emisji gazów cieplarnianych, jeżeli ograniczenie emisji tych gazów wynosi co najmniej 70 %, ustalane zgodnie z metodyką określoną w załączniku do rozporządzenia, o którym mowa w art. 28b ust. 1. Art. 28ba. 1. Biokomponenty wytworzone z biomasy rolniczej spełniają kryterium ochrony terenów o wysokiej wartości bioróżnorodności, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z terenów, które w okresie od 1 do 31 stycznia 2008 r. lub po tym okresie, posiadały następujący status, niezależnie od tego, czy posiadają go nadal:
 
+- **1)** lasów pierwotnych i innych zalesionych gruntów, czyli lasów i innych zalesionych gruntów z gatunkami rodzimymi, gdzie nie istnieją wyraźnie widoczne ślady działalności człowieka, a procesy ekologiczne nie zostały w istotny sposób zaburzone;
+- **1a)** lasów i innych zalesionych gruntów o wysokiej różnorodności biologicznej, charakteryzujących się obfitością gatunków i niezdegradowanych, które zostały przez właściwy organ uznane za mające wysoką różnorodność biologiczną, chyba że zainteresowany podmiot przedstawi dowody, że produkcja tych surowców nie narusza tych celów ochrony przyrody;
+- **2)** obszarów wyznaczonych:
+    - **a)** na cele ochrony przyrody, o których mowa w ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940),
+    - **b)** do ochrony rzadkich, zagrożonych lub poważnie zagrożonych ekosystemów lub gatunków, które zostały uznane za takie na podstawie umów międzynarodowych lub wykazów sporządzonych przez organizacje międzyrządowe lub Międzynarodową Unię Ochrony Przyrody, pod warunkiem uznania ich przez Komisję Europejską zgodnie z art. 30 ust. 4 akapit pierwszy dyrektywy 2018/2001 (w brzmieniu z dnia 7 czerwca 2022 r.);
+
+- **3)** obszarów trawiastych o wysokiej bioróżnorodności o powierzchni powyżej jednego hektara:
+    - **a)** naturalnych, czyli obszarów trawiastych, które pozostaną takimi obszarami jeżeli nie dojdzie do interwencji człowieka i które zachowają naturalny skład gatunkowy oraz cechy i procesy ekologiczne,
+    - **b)** nienaturalnych, czyli obszarów trawiastych, które przestaną być takimi obszarami na skutek braku interwencji człowieka, są bogate gatunkowo i nie są zdegradowane, chyba że zbiory surowców rolniczych są konieczne, aby mogły zachować status obszarów trawiastych.
+
+2. Uznaje się, że biokomponenty wytworzone z biomasy rolniczej pochodzące z obszarów określonych w ust. 1 pkt 2 spełniają kryterium ochrony terenów o wysokiej wartości bioróżnorodności, pod warunkiem, że zainteresowany podmiot przedstawi dowody, że produkcja biomasy wykorzystanej do ich wytworzenia nie narusza celów ochrony przyrody. Art. 28bb. 1. Biokomponenty wytworzone z biomasy rolniczej spełniają kryterium ochrony terenów zasobnych w duże ilości pierwiastka węgla, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z takich terenów.
+
+2. Do terenów zasobnych w duże ilości pierwiastka węgla zalicza się tereny, które w okresie od 1 do 31 stycznia 2008 r. posiadały jeden z poniższych statusów, ale już go nie posiadają:
+
+- **1)** terenów podmokłych, które są pokryte lub nasączone wodą stale lub przez znaczną część roku;
+- **2)** obszarów stale zalesianych, czyli obszarów obejmujących więcej niż 1 ha z drzewami o wysokości powyżej 5 metrów i pokryciem powierzchni przez korony drzew powyżej 30 %, lub drzewami mogącymi osiągnąć te wartości w miejscu ich naturalnego występowania;
+- **3)** obszarów obejmujących więcej niż 1 ha z drzewami o wysokości powyżej 5 metrów i z pokryciem powierzchni przez korony drzew pomiędzy 10 % a 30 % lub drzewami mogącymi osiągnąć te wartości w miejscu ich naturalnego występowania, z wyjątkiem sytuacji, gdy przedstawiono dowody, że obszar ten przed i po przekształceniu magazynuje taką ilość pierwiastka węgla, że stosując metodykę określoną w pkt II.3. załącznika nr 2 do ustawy, zostałoby spełnione kryterium określone w art. 28b.
+
+3. Przepisów ust. 2 nie stosuje się, jeżeli w czasie pozyskiwania biomasy teren posiadał ten sam status co w okresie od 1 do 31 stycznia 2008 r. Art. 28bc. Biokomponenty wytworzone z biomasy rolniczej spełniają kryterium ochrony torfowisk, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z terenów, które w okresie od 1 do 31 stycznia 2008 r. były torfowiskami, chyba że podmiot zainteresowany przedstawi dowody, że przy uprawie i zbiorach biomasy nie stosowano melioracji uprzednio niemeliorowanych gleb. Art. 28bca. 1. Uznaje się, że biokomponenty, biopłyny w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i paliwa z biomasy w rozumieniu art. 2 pkt 26c tej ustawy wytworzone z pozostałości pochodzących z gruntów rolnych spełniają kryteria określone w art. 29 ust. 2 dyrektywy 2018/2001 (w brzmieniu z dnia 7 czerwca 2022 r.), jeżeli producent rolny stosuje zasady ochrony powierzchni gleby, o których mowa w art. 101 pkt 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647), i działa na podstawie krajowego planu zachowania żyzności gleb, w szczególności w zakresie zachowania zasobów pierwiastka węgla w glebie. W przypadku gdy krajowy plan zachowania żyzności gleb nie został przyjęty, producent rolny jest obowiązany do działania na podstawie indywidualnego planu gospodarki glebą, opracowanego zgodnie z wymaganiami uznanego systemu certyfikacji, w którym w szczególności potwierdza, że stosuje praktyki upraw zapewniające zachowanie jak najlepszego stanu gleby, w tym zasobów pierwiastka węgla w glebie.
+
+2. Indywidualny plan gospodarki glebą, o którym mowa w ust. 1:
+
+- **1)** zawiera w szczególności wskazanie stosowanych podstawowych praktyk gospodarowania glebami mających na celu utrzymanie pierwiastka węgla w glebie (sekwestracja dwutlenku węgla), oddziałujących na zmniejszenie emisji dwutlenku węgla z gleby do atmosfery;
+- **2)** opracowuje się na podstawie analiz, o których mowa w art. 128 ust. 4a pkt 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
+
+3. Audytorzy systemów dobrowolnych, o których mowa w rozporządzeniu wykonawczym Komisji (UE) 2022/996 z dnia 14 czerwca 2022 r. w sprawie zasad weryfikacji kryteriów zrównoważonego rozwoju i ograniczania emisji gazów cieplarnianych oraz kryteriów niskiego ryzyka spowodowania pośredniej zmiany użytkowania gruntów (Dz. Urz. UE L 168 z 27.06.2022, str. 1, z późn. zm. ), weryfikują stosowanie przez producentów rolnych indywidualnych planów gospodarki glebą lub praktyk przy ustalaniu emisji gazów cieplarnianych z biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy zgodnie z art. 20 oraz art. 21 tego rozporządzenia. Art. 28bcb. Biokomponenty spełniają kryterium zrównoważonej gospodarki leśnej, jeżeli pozyskanie biomasy leśnej wykorzystywanej do ich wytworzenia było prowadzone zgodnie z:
+
+- **1)** rozporządzeniem wykonawczym Komisji (UE) 2022/2448 z dnia 13 grudnia 2022 r. ustanawiającym operacyjne wytyczne dotyczące dowodów do celów wykazania zgodności z kryteriami zrównoważonego rozwoju dotyczącymi biomasy leśnej i określonymi w art. 29 dyrektywy Parlamentu Europejskiego i Rady (UE) 2018/2001 (Dz. Urz. UE L 320 z 14.12.2022, str. 4) oraz
+- **2)** zasadami trwale zrównoważonej gospodarki leśnej określonymi w ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2025 r. poz. 567). Art. 28bcc. 1. Biokomponenty, biopłyny w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i paliwa z biomasy w rozumieniu art. 2 pkt 26c tej ustawy spełniają kryterium niskiego ryzyka spowodowania pośredniej zmiany użytkowania gruntów, jeżeli w stosunku do biomasy wykorzystywanej do ich wytworzenia nie zaobserwowano znaczącej ekspansji obszaru produkcji na tereny zasobne w pierwiastek węgla, o której mowa w art. 3 rozporządzenia delegowanego Komisji (UE) 2019/807 z dnia 13 marca 2019 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 w odniesieniu do określenia surowców o wysokim ryzyku spowodowania pośredniej zmiany użytkowania gruntów, w przypadku których zaobserwowano znaczącą ekspansję obszaru produkcji na tereny zasobne w pierwiastek węgla oraz certyfikowania biopaliw, biopłynów i paliw z biomasy o niskim ryzyku spowodowania pośredniej zmiany użytkowania gruntów (Dz. Urz. UE L 133 z 21.05.2019, str. 1), chyba że te biokomponenty spełniają warunki określone w art. 4 i art. 5 tego rozporządzenia.
+
+2. Przy obliczaniu spełnienia kryterium, o którym mowa w ust. 1, uwzględnia się dane wejściowe do obliczania emisji surowców określone w załączniku nr 3 do ustawy. Art. 28bcd. Kryteria zrównoważonego rozwoju określone w art. 28ba–28bcb i art. 28bcc ust. 1 stosuje się odpowiednio do biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i do paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy. Art. 28bd. (uchylony) Art. 28be. 1. Potwierdzenie spełnienia kryteriów zrównoważonego rozwoju oraz kryteriów ograniczenia emisji gazów cieplarnianych określonych w poświadczeniu odbywa się przez system bilansu masy.
+
+2. Podmioty certyfikowane są obowiązane do wdrożenia systemu bilansu masy, który:
+
+- **1)** umożliwia mieszanie – w szczególności w kontenerze, w zakładzie przetwórczym lub logistycznym, w infrastrukturze lub obiekcie do przesyłu lub dystrybucji – partii surowców lub paliw o różnych właściwościach pod względem zrównoważonego rozwoju i ograniczenia emisji gazów cieplarnianych;
+- **2)** dopuszcza mieszanie partii surowców o różnej wartości energetycznej w celu dalszego przetworzenia, pod warunkiem że wielkość partii jest dostosowana do ich wartości energetycznej;
+- **3)** wymaga, aby informacje na temat właściwości dotyczących zrównoważonego rozwoju i ograniczenia emisji gazów cieplarnianych, a także wielkości partii, o których mowa w pkt 1, pozostały przypisane mieszance;
+- **4)** zapewnia, że suma wszystkich partii, o których mowa w pkt 1, wycofanych z mieszanki jest opisana jako posiadająca te same właściwości dotyczące zrównoważonego rozwoju i te same ilości jak suma wszystkich partii dodanych do mieszanki oraz zawiera wymóg, aby ten bilans został uzyskany w odpowiednim czasie;
+- **5)** zapewnia, aby każda dostawa surowców lub paliw była zaliczana tylko raz do celów obliczenia końcowego zużycia energii brutto w rozumieniu art. 2 pkt 16 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii ze źródeł odnawialnych oraz zawierała informacje, czy na rzecz produkcji danej dostawy udzielono wsparcia oraz jaki jest rodzaj systemu wsparcia, jeżeli zostało ono udzielone.
+
+3. W przypadku gdy partia surowców jest przetwarzana, informacje o właściwościach partii pod względem zrównoważonego rozwoju i ograniczenia emisji gazów cieplarnianych koryguje się i przypisuje produktowi zgodnie z następującymi zasadami:
+
+- **1)** jeżeli w procesie przetwarzania partii surowca powstaje tylko jeden produkt, który jest przeznaczony do produkcji biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii lub paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy, innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu lub gazowych paliw węglowych pochodzących z recyklingu, wielkość partii i powiązane wartości zrównoważonego rozwoju i ograniczenia emisji gazów cieplarnianych koryguje się z zastosowaniem współczynników przeliczeniowych odzwierciedlających stosunek masy produktu przeznaczonego do takiej produkcji do masy surowca wprowadzonego do procesu;
+- **2)** jeżeli w procesie przetwarzania partii surowca powstaje więcej niż jeden produkt, który jest przeznaczony do produkcji biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii lub paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy, innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu lub gazowych paliw węglowych pochodzących z recyklingu, do każdego produktu stosuje się oddzielny współczynnik przeliczeniowy i osobny bilans masy. Art. 28bf. 1. Sposób weryfikacji spełnienia kryteriów zrównoważonego rozwoju, o których mowa w art. 28ba–28bcb i art. 28bcc ust. 1, zgodnie z systemem bilansu masy, o którym mowa w art. 28be, określa uznany system certyfikacji.
+
+2. Wykazanie spełnienia kryteriów zrównoważonego rozwoju określonych w art. 28ba–28bcb i art. 28bcc ust. 1 przez podmioty realizujące Narodowy Cel Wskaźnikowy odbywa się w szczególności zgodnie z art. 28i.
+
+3. (uchylony)
+
 **Art. 28c.**
 
 1. Dokumentami umożliwiającymi zaliczenie biokomponentów, innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu lub gazowych paliw węglowych pochodzących z recyklingu na poczet realizacji obowiązków, o których mowa w art. 23 ust. 1, art. 23b ust. 1 oraz art. 23c, wystawianymi na poszczególnych etapach wytwarzania biokomponentów, innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu lub gazowych paliw węglowych pochodzących z recyklingu są:
@@ -976,6 +1033,9 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 2. Weryfikacja, o której mowa w ust. 1, polega na ustaleniu, czy ilość biokomponentów, innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu lub gazowych paliw węglowych pochodzących z recyklingu wskazana w świadectwie odpowiada ilości odpowiednio biokomponentów, innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu lub gazowych paliw węglowych pochodzących z recyklingu wskazanej w poświadczeniach lub dokumentach, o których mowa w art. 28c ust. 2, posiadanych przez podmiot wystawiający świadectwo, oraz czy te poświadczenia lub dokumenty są wiarygodne.
 
 **Art. 28j.** Prezes Urzędu Regulacji Energetyki może żądać przedstawienia dokumentów i informacji dotyczących:
+
+- **1)** realizacji Narodowego Celu Wskaźnikowego,
+- **2)** dostarczenia przez operatora infrastruktury ładowania lub przewoźnika kolejowego energii elektrycznej z odnawialnych źródeł energii objętej umową, o której mowa w art. 21c ust. 1, do pojazdów drogowych lub kolejowych – z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
 
 #### Rozdział 4b Zasady wykonywania działalności gospodarczej w zakresie udzielania zgody na korzystanie z uznanego systemu certyfikacji oraz wykonywania działalności gospodarczej w zakresie wydawania certyfikatów
 
@@ -1369,6 +1429,10 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 
 **Art. 30d.** Prezes Urzędu Regulacji Energetyki jest odpowiedzialny za:
 
+- **1)** zarządzanie dostępem podmiotów realizujących Narodowy Cel Wskaźnikowy niebędących podmiotem certyfikowanym do unijnej bazy danych;
+- **2)** weryfikację poprawności informacji, o których mowa w art. 30c, wprowadzanych do unijnej bazy danych przez podmioty realizujące Narodowy Cel Wskaźnikowy;
+- **3)** współpracę z Komisją Europejską w zakresie funkcjonowania unijnej bazy danych w odniesieniu do podmiotów i informacji, o których mowa w pkt 2.
+
 **Art. 30e.** Prezes Urzędu Regulacji Energetyki może żądać przedstawienia dokumentów i informacji dotyczących realizacji obowiązku wprowadzania do unijnej bazy danych informacji, o których mowa w art. 30c, przez podmioty realizujące Narodowy Cel Wskaźnikowy, z uwzględnieniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
 
 **Art. 31.**
@@ -1554,7 +1618,19 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 
 **Art. 35b.** W 2023 r.:
 
+- **1)** minimalny poziom realizacji Narodowego Celu Wskaźnikowego, o którym mowa w art. 23 ust. 1a, wynosi 80 %;
+- **2)** wysokość współczynnika redukcyjnego, o którym mowa w art. 23 ust. 4, wynosi 0,82;
+- **3)** minimalny udział biokomponentów, o którym mowa w art. 23b ust. 1, w oleju napędowym wynosi 5,2 %;
+- **4)** udział biowęglowodorów ciekłych wykorzystanych przez podmiot realizujący Narodowy Cel Wskaźnikowy do realizacji obowiązku, o którym mowa w art. 23 ust. 1, liczony według wartości opałowej, w ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych w transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych paliw ciekłych i biopaliw ciekłych na terytorium Rzeczypospolitej Polskiej przez podmiot realizujący Narodowy Cel Wskaźnikowy lub zużywanych przez ten podmiot na potrzeby własne na tym terytorium, nie może przekroczyć 0,9 %;
+- **5)** udział biokomponentów wytworzonych z surowców określonych w załączniku nr 1 do ustawy, liczony według wartości opałowej, w ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych w transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych paliw ciekłych lub biopaliw ciekłych na terytorium Rzeczypospolitej Polskiej przez podmiot realizujący Narodowy Cel Wskaźnikowy lub zużywanych przez ten podmiot na potrzeby własne na tym terytorium, nie może przekroczyć 0,5 %.
+
 **Art. 35c.** Wysokość Narodowego Celu Wskaźnikowego wynosi:
+
+- **1)** 9,2 % – w roku 2025;
+- **2)** 10 % – w roku 2026;
+- **3)** 10 % – w roku 2027;
+- **4)** 10 % – w roku 2028;
+- **5)** 10 % – w roku 2029.
 
 **Art. 35d.**
 

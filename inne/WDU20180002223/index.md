@@ -8,7 +8,7 @@ pos: 2223
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu
@@ -31,11 +31,29 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zadania organów administracji publicznej oraz służb związane z organizacją Konferencji COP24, w szczególności w zakresie zapewnienia bezpieczeństwa i porządku publicznego, oraz pełnieniem przez Rzeczpospolitą Polską funkcji Prezydencji Konferencji Stron;
+- **2)** zasady udzielania i realizacji zamówień związanych z organizacją Konferencji COP24 oraz pełnieniem przez Rzeczpospolitą Polską funkcji Prezydencji Konferencji Stron;
+- **3)** zadania Zespołu do spraw organizacji Konferencji COP24 oraz Pełnomocnika Rządu do spraw Prezydencji Konferencji Stron;
+- **4)** zasady finansowania organizacji Konferencji COP24 oraz wykonywania zadań związanych z pełnieniem przez Rzeczpospolitą Polską funkcji Prezydencji Konferencji Stron;
+- **5)** sposób finansowania wsparcia udzielanego państwom rozwijającym się w zakresie łagodzenia zmian klimatu i adaptacji do skutków tych zmian wykonywanego w ramach realizacji celów Konwencji klimatycznej.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** Konferencji COP24 – rozumie się przez to dwudziestą czwartą sesję Konferencji Stron Konwencji klimatycznej (UNFCCC COP24), czternastą sesję Konferencji Stron służącą jako spotkanie Stron Protokołu z Kioto (CMP14) oraz wznowioną pierwszą sesję Konferencji Stron służącą jako spotkanie Stron Porozumienia paryskiego (CMA1.3);
+- **2)** Konwencji klimatycznej – rozumie się przez to Ramową konwencję Narodów Zjednoczonych w sprawie zmian klimatu, sporządzoną w Nowym Jorku dnia 9 maja 1992 r. (Dz. U. z 1996 r. poz. 238);
+- **3)** Porozumieniu paryskim – rozumie się przez to Porozumienie paryskie do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, sporządzonej w Nowym Jorku dnia 9 maja 1992 r., przyjęte w Paryżu dnia 12 grudnia 2015 r. (Dz. U. z 2017 r. poz. 36);
+- **4)** Prezydencji Konferencji Stron – rozumie się przez to Prezydencję Konferencji Stron Konwencji klimatycznej, Prezydencję Konferencji Stron służącej jako spotkanie Stron Protokołu z Kioto oraz Prezydencję Konferencji Stron służącej jako spotkanie Stron Porozumienia paryskiego;
+- **5)** Protokole z Kioto – rozumie się przez to Protokół z Kioto do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, sporządzony w Kioto dnia 11 grudnia 1997 r. (Dz. U. z 2005 r. poz. 1684);
+- **6)** Sekretariacie – rozumie się przez to Sekretariat Konwencji klimatycznej, Protokołu z Kioto i Porozumienia paryskiego;
+- **7)** związku metropolitalnym – rozumie się przez to związek metropolitalny w województwie śląskim, o którym mowa w ustawie z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim (Dz. U. poz. 730).
 
 #### Rozdział 2 Zadania Zespołu do spraw organizacji Konferencji COP24
 
 **Art. 3.** Zespół do spraw organizacji Konferencji COP24, zwany dalej „Zespołem”, wykonuje następujące zadania związane z organizacją Konferencji COP24:
+
+- **1)** koordynuje działania organów administracji publicznej związane z organizacją Konferencji COP24;
+- **2)** monitoruje postęp przygotowań organizacji Konferencji COP24 oraz dokonuje okresowej oceny stanu tych przygotowań;
+- **3)** nadzoruje realizację zadań związanych z organizacją Konferencji COP24.
 
 **Art. 4.**
 
@@ -188,6 +206,11 @@ source: "isap-pdf"
 **Art. 14.** Nie pobiera się opłaty konsularnej od przyjęcia i rozpatrzenia wniosku o wydanie wizy krajowej oraz wizy Schengen, składanego w związku z udziałem w Konferencji COP24, gdy zainteresowana osoba przedłoży wraz z tym wnioskiem potwierdzenie rejestracji jej udziału w Konferencji COP24 albo inny dokument potwierdzający udział w Konferencji COP24.
 
 **Art. 15.** Minister właściwy do spraw wewnętrznych:
+
+- **1)** koordynuje działania służb zaangażowanych w organizację Konferencji COP24 w zakresie zapewnienia bezpieczeństwa i porządku publicznego, w szczególności w zakresie realizacji planu, o którym mowa w art. 16 ust. 1;
+- **2)** kieruje, w uzasadnionych przypadkach, do wsparcia Departamentu Bezpieczeństwa Narodów Zjednoczonych siły i środki będące w jego dyspozycji w celu zapewnienia bezpieczeństwa;
+- **3)** współpracuje z Departamentem Bezpieczeństwa Narodów Zjednoczonych i Sekretariatem w sprawach dotyczących bezpieczeństwa podczas Konferencji COP24 oraz wydarzeń poprzedzających Konferencję COP24;
+- **4)** współpracuje z Prezydentem Miasta Katowice w sprawach zapewnienia bezpieczeństwa i porządku publicznego podczas Konferencji COP24.
 
 **Art. 16.**
 
@@ -396,6 +419,9 @@ source: "isap-pdf"
 6. Ekwiwalent przysługuje funkcjonariuszowi albo żołnierzowi Żandarmerii Wojskowej niezależnie od zajmowanego stanowiska służbowego, w tym również delegowanemu do pełnienia służby w innych instytucjach na podstawie odrębnych przepisów, w wymiarze odpowiadającym okresowi pełnienia służby przy realizacji zadań, o których mowa w ust. 1.
 
 **Art. 30.** Rada Ministrów określi, w drodze rozporządzenia, podział środków, o których mowa w art. 29 ust. 1, między podmioty:
+
+- **1)** wykonujące w całości lub w części zadania określone w art. 29 ust. 2,
+- **2)** wypłacające ekwiwalent – kierując się potrzebą zapewnienia finansowania wykonywanych zadań w sposób umożliwiający ich prawidłowe wykonanie oraz racjonalnością wydatków.
 
 **Art. 31.**
 

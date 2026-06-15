@@ -8,7 +8,7 @@ pos: 1604
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o specjalnych strefach ekonomicznych
@@ -36,6 +36,14 @@ Art. 21–23. (pominięte)
 **Art. 2.** Specjalną strefą ekonomiczną, zwaną dalej „strefą”, jest wyodrębniona zgodnie z przepisami ustawy, niezamieszkała część terytorium Rzeczypospolitej Polskiej, na której terenie może być prowadzona działalność gospodarcza na zasadach określonych ustawą.
 
 **Art. 3.** Strefa może być ustanowiona w celu przyspieszenia rozwoju gospodarczego części terytorium kraju, w szczególności przez:
+
+- **1)** rozwój określonych dziedzin działalności gospodarczej;
+- **2)** rozwój nowych rozwiązań technicznych i technologicznych oraz ich wykorzystanie w gospodarce narodowej;
+- **3)** rozwój eksportu;
+- **4)** zwiększenie konkurencyjności wytwarzanych wyrobów i świadczonych usług;
+- **5)** zagospodarowanie istniejącego majątku przemysłowego i infrastruktury gospodarczej;
+- **6)** tworzenie nowych miejsc pracy;
+- **7)** zagospodarowanie niewykorzystanych zasobów naturalnych z zachowaniem zasad równowagi ekologicznej.
 
 #### Rozdział 2 Ustanawianie, łączenie, znoszenie stref oraz zmiana ich obszaru
 

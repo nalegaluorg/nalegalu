@@ -8,7 +8,7 @@ pos: 869
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Krajowym Rejestrze Sądowym
@@ -148,6 +148,22 @@ Art. 61–85. (pominięte)
 
 **Art. 4a.** Za pośrednictwem systemu integracji rejestrów Centralna Informacja:
 
+- **1)** udostępnia bezpłatnie – w przypadku spółek z ograniczoną odpowiedzialnością, spółek akcyjnych, prostych spółek akcyjnych, spółek komandytowo-akcyjnych, spółek europejskich oraz oddziałów przedsiębiorców zagranicznych działających na terytorium Rzeczypospolitej Polskiej – aktualne informacje albo informację o wykreśleniu tych podmiotów z Rejestru, listę dokumentów, o których mowa w art. 4 ust. 4a, oraz ich niepowtarzalny identyfikator europejski, o którym mowa w pkt (sekcji) 9 załącznika do rozporządzenia wykonawczego Komisji (UE) 2021/1042 z dnia 18 czerwca 2021 r. ustanawiającego zasady stosowania dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 w odniesieniu do specyfikacji technicznych i procedur dotyczących systemu integracji rejestrów oraz uchylającego rozporządzenie wykonawcze Komisji (UE) 2020/2244 (Dz. Urz. L 225 z 25.06.2021, str. 7), a w przypadku spółek, które utworzyły oddziały w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym – także niepowtarzalny identyfikator europejski oddziału, numer oddziału w rejestrze oraz oznaczenie państwa, w którym zarejestrowano oddział;
+- **2)** wydaje kopie dokumentów złożonych w postaci papierowej oraz dokumenty złożone w postaci elektronicznej, o których mowa w art. 4 ust. 3a;
+- **3)** przekazuje bezpłatnie do właściwych rejestrów informacje o otwarciu likwidacji, zakończeniu likwidacji, ogłoszeniu upadłości, zakończeniu postępowania upadłościowego oraz o wykreśleniu spółek, o których mowa w pkt 1;
+- **4)** (uchylony)
+- **5)** przekazuje bezpłatnie do właściwych rejestrów informacje o zarejestrowaniu i wykreśleniu oddziału przedsiębiorcy zagranicznego działającego na terytorium Rzeczypospolitej Polskiej;
+- **6)** przekazuje bezpłatnie do właściwych rejestrów informacje o zmianach następujących informacji dotyczących spółek, o których mowa w pkt 1:
+    - **a)** firmy,
+    - **b)** siedziby,
+    - **c)** numeru w Rejestrze,
+    - **d)** formy prawnej,
+    - **e)** oznaczenia organu uprawnionego do reprezentowania podmiotu oraz osób wchodzących w jego skład, ze wskazaniem sposobu reprezentacji,
+    - **f)** oznaczenia organu nadzoru oraz osób wchodzących w jego skład;
+
+- **7)** przekazuje bezpłatnie do właściwych rejestrów informacje o złożeniu dokumentów, o których mowa w art. 8a ust. 1 pkt 5, wraz z oznaczeniem roku obrotowego;
+- **8)** potwierdza otrzymanie informacji, o których mowa w art. 21d ust. 1 i 2.
+
 **Art. 4b.**
 
 1. Dane i informacje o podmiotach wpisanych do Rejestru są przekazywane w celu ponownego wykorzystywania, z zachowaniem przepisów ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), jeżeli przepisy ustawy nie stanowią inaczej.
@@ -155,6 +171,24 @@ Art. 61–85. (pominięte)
 2. Centralna Informacja przekazuje, za pośrednictwem systemu teleinformatycznego, dane i informacje o podmiotach wpisanych do Rejestru w celu ponownego wykorzystywania na wniosek złożony w postaci elektronicznej opatrzony kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Dane zgromadzone w Rejestrze udostępnia się w celu ponownego wykorzystywania także za pośrednictwem interfejsu programistycznego aplikacji (API).
 
 **Art. 4c.** Za pośrednictwem systemu integracji rejestrów Centralna Informacja bezpłatnie:
+
+- **1)** udostępnia – w przypadku przekształcenia, podziału lub połączenia transgranicznego – odpowiednio plan przekształcenia, podziału lub połączenia transgranicznego, zawiadomienie o możliwości złożenia przez wspólników, wierzycieli, przedstawicieli pracowników, a w braku takich przedstawicieli – pracowników, uwag dotyczących tego planu oraz opinię biegłego albo
+- **2)** udostępnia złożone na podstawie art. 516 § 4, art. 550 § 3 i art. 580 § 3 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych informacje o:
+    - **a)** formie prawnej, firmie i siedzibie statutowej spółki przekształcanej, dzielonej, łączącej się oraz formie prawnej, firmie i siedzibie statutowej, proponowanej dla spółki powstałej wskutek przekształcenia transgranicznego, dla spółki albo spółek nowo zawiązanych wskutek podziału transgranicznego, dla spółki przejmującej albo spółki nowo zawiązanej wskutek połączenia transgranicznego,
+    - **b)** rejestrze, do którego zostały złożone dokumenty odpowiednio spółki przekształcanej, dzielonej, każdej z łączących się spółek, a także ich numery w rejestrze,
+    - **c)** warunkach wykonywania praw wierzycieli, pracowników i wspólników,
+    - **d)** adresie strony internetowej, na której można bezpłatnie uzyskać dokumenty, o których mowa w pkt 1;
+
+- **3)** udostępnia – w przypadku przekształcenia, podziału lub połączenia transgranicznego – zaświadczenie o zgodności z prawem polskim odpowiednio przekształcenia, podziału lub połączenia transgranicznego w zakresie procedury podlegającej temu prawu;
+- **4)** udostępnia – w przypadku przekształcenia, podziału lub połączenia transgranicznego – następujące dane:
+    - **a)** informację, że rejestracja spółki jest wynikiem odpowiednio przekształcenia, podziału lub połączenia transgranicznego,
+    - **b)** datę wpisu do Rejestru spółki odpowiednio przekształconej, powstałej w wyniku połączenia lub podziału transgranicznego,
+    - **c)** informację, że wykreślenie spółki z Rejestru jest wynikiem odpowiednio przekształcenia, połączenia lub podziału transgranicznego; nie dotyczy to podziału przez wydzielenie albo podziału przez wyodrębnienie,
+    - **d)** datę wykreślenia spółki przekształcanej, dzielonej oraz łączących się spółek z Rejestru; nie dotyczy to podziału przez wydzielenie albo podziału przez wyodrębnienie,
+    - **e)** numer spółki w rejestrze, firmę i formę prawną odpowiednio spółki przekształcanej, przekształconej, łączącej się, powstałej w wyniku połączenia, dzielonej i spółek powstałych w wyniku podziału transgranicznego;
+
+- **5)** przekazuje do właściwych rejestrów zaświadczenie o zgodności z prawem polskim odpowiednio przekształcenia, podziału lub połączenia transgranicznego w zakresie procedury podlegającej temu prawu;
+- **6)** przekazuje do właściwych rejestrów spółek informacje o przekształceniu, połączeniu transgranicznym, a w przypadku podziału transgranicznego informacje o zarejestrowaniu spółek nowo zawiązanych oraz o tym, że podział transgraniczny stał się skuteczny.
 
 **Art. 4d.**
 
@@ -186,6 +220,12 @@ Art. 61–85. (pominięte)
 **Art. 5.** Skarb Państwa oraz instytucje państwowe, których zadanie nie polega na prowadzeniu działalności gospodarczej, nie ponoszą opłat, o których mowa w art. 4 ust. 4.
 
 **Art. 6.** Minister Sprawiedliwości określa:
+
+- **1)** w drodze rozporządzenia, ustrój i organizację Centralnej Informacji oraz tryb i sposób udzielania informacji z Rejestru, wydawania dokumentów oraz kopii dokumentów z katalogu, udostępniania dokumentów z repozytorium dokumentów finansowych, a także strukturę udostępnianych informacji wymienionych w art. 4 ust. 4a, uwzględniając zadania Rejestru i Centralnej Informacji w zakresie zapewnienia powszechnego i bezpośredniego dostępu do informacji o podmiotach wpisanych do Rejestru;
+- **2)** w porozumieniu z ministrem właściwym do spraw finansów publicznych, w drodze rozporządzenia, wysokość opłat za udzielanie informacji, wydawanie odpisów, wyciągów i zaświadczeń z Rejestru oraz za udostępnianie z katalogu dokumentów złożonych w postaci elektronicznej i kopii dokumentów złożonych w postaci papierowej, uwzględniając potrzebę sprawnego działania Centralnej Informacji oraz pokrycia kosztów administracyjnych utworzenia i funkcjonowania Rejestru oraz katalogu, przy jednoczesnym zapewnieniu powszechnego dostępu do informacji i dokumentów rejestrowych;
+- **3)** w drodze rozporządzenia, warunki organizacyjno-techniczne dotyczące formy wniosków oraz ich składania do Centralnej Informacji za pośrednictwem systemu teleinformatycznego, a także odpisów, wyciągów, zaświadczeń, informacji, dokumentów oraz kopii dokumentów doręczanych wnioskodawcom za pośrednictwem systemu teleinformatycznego oraz sposób posługiwania się dokumentami oraz kopiami dokumentów wydanymi w postaci elektronicznej, uwzględniając potrzebę zapewnienia powszechnego i bezpośredniego dostępu do informacji z Rejestru i dokumentów rejestrowych oraz możliwość posługiwania się dokumentami wydanymi w postaci elektronicznej;
+- **4)** w drodze zarządzenia, sposób i tryb przekazywania przez sądy rejestrowe danych rejestrowych do Centralnej Informacji, uwzględniając możliwości techniczne i organizacyjne sądów rejestrowych oraz konieczność zapewnienia sprawnego i kompleksowego przekazywania danych rejestrowych do Centralnej Informacji, przy jednoczesnym zapewnieniu odpowiedniego poziomu bezpieczeństwa;
+- **5)** w drodze zarządzenia, warunki organizacyjno-techniczne przekazywania za pośrednictwem systemu teleinformatycznego dokumentów złożonych w postaci elektronicznej i kopii dokumentów złożonych w postaci papierowej do katalogu oraz sposób ich przechowywania, uwzględniając potrzebę zapewnienia integralności i kompletności dokumentów złożonych do akt rejestrowych.
 
 **Art. 7.** Do postępowania przed sądami rejestrowymi stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, chyba że ustawa stanowi inaczej.
 
@@ -491,6 +531,11 @@ Art. 61–85. (pominięte)
 
 **Art. 21a.** Sąd rejestrowy otrzymuje z Biura Informacyjnego Krajowego Rejestru Karnego, za pośrednictwem systemu teleinformatycznego:
 
+- **1)** w odniesieniu do osób, do których ma zastosowanie art. 18 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych – informacje o skazaniach za przestępstwa w nim określone;
+- **2)** w odniesieniu do osób podlegających wpisowi lub wpisanych w dziale 2, 5 i 6 rejestru przedsiębiorców oraz rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – informacje o orzeczonych środkach karnych, o których mowa w art. 39 pkt 2 i 2aa ustawy z dnia 6 czerwca 1997 r. – Kodeks karny;
+- **3)** w odniesieniu do osób podlegających wpisowi lub wpisanych jako członkowie organu zarządzającego lub organu kontroli lub nadzoru organizacji pożytku publicznego – informacje o skazaniach za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+- **4)** w odniesieniu do osób podlegających wpisowi lub wpisanych jako członkowie zarządu lub rady nadzorczej spółdzielczej kasy oszczędnościowo-kredytowej – informacje o skazaniach za przestępstwo umyślne przeciwko mieniu, dokumentom lub przestępstwo skarbowe.
+
 **Art. 21b.** Sąd rejestrowy otrzymuje z rejestru dłużników niewypłacalnych, za pośrednictwem systemu teleinformatycznego, informacje o wpisach do tego rejestru osób, które zostały pozbawione przez sąd upadłościowy prawa prowadzenia działalności gospodarczej na własny rachunek oraz pełnienia funkcji członka rady nadzorczej, reprezentanta lub pełnomocnika w spółce handlowej, przedsiębiorstwie państwowym, spółdzielni, fundacji lub stowarzyszeniu, w odniesieniu do osób wpisanych lub podlegających wpisowi w przypadku spółek handlowych, przedsiębiorstw państwowych, spółdzielni, fundacji lub stowarzyszeń w działach 2, 5 i 6 rejestru przedsiębiorców oraz rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej.
 
 **Art. 21c.** Sąd rejestrowy otrzymuje z Krajowego Rejestru Zadłużonych za pośrednictwem systemu teleinformatycznego informacje o obwieszczeniach dokonanych na podstawie art. 376 ust. 5 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe w odniesieniu do osób wpisanych lub podlegających wpisowi w przypadku spółek handlowych, przedsiębiorstw państwowych, spółdzielni, fundacji lub stowarzyszeń w działach 2, 5 i 6 rejestru przedsiębiorców oraz rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej.
@@ -674,21 +719,187 @@ Art. 61–85. (pominięte)
 
 **Art. 35.** Ilekroć do Rejestru wpisuje się:
 
+- **1)** osobę fizyczną – zamieszcza się nazwisko i imię (imiona) oraz numer PESEL; w przypadku gdy osoba, której dane zamieszcza się w Rejestrze, nie ma obowiązku posiadania numeru PESEL, zamieszcza się nazwisko i imię (imiona) oraz datę urodzenia lub, w przypadkach, o których mowa w art. 21d ust. 1 pkt 5 lit. e i f, nazwisko i imię (imiona) oraz datę urodzenia lub krajowy numer identyfikacyjny, udostępnione za pośrednictwem systemu integracji rejestrów;
+- **2)** inny podmiot niż określony w pkt 1 – zamieszcza się nazwę lub firmę oraz numer identyfikacyjny REGON, a gdy podmiot powstał w wyniku przekształcenia – NIP podmiotu przekształcanego, a jeżeli podmiot jest zarejestrowany w Rejestrze – także jego numer w Rejestrze; w przypadku gdy podmiot, którego dane zamieszcza się w Rejestrze, jest przedsiębiorcą zagranicznym objętym systemem integracji rejestrów będącym komplementariuszem spółki komandytowo-akcyjnej, zamieszcza się – numer podmiotu w rejestrze, nazwę tego rejestru i oznaczenie państwa, w którym zarejestrowano podmiot, a jeżeli przedsiębiorca zagraniczny nie jest objęty tym systemem – jego numer w rejestrze, o ile przedsiębiorca podlega wpisowi do rejestru;
+- **3)** siedzibę i adres podmiotu – zamieszcza się dane obejmujące: województwo, powiat, gminę, miejscowość, ulicę, miejscowość poczty zgodnie z rejestrem TERYT w rozumieniu art. 2 pkt 12b ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, z wyjątkiem przypadku, gdy nazwa miejscowości stosowana w obrocie nie jest zgodna z jej nazwą urzędową;
+- **4)** adres do doręczeń elektronicznych – zamieszcza się adres do doręczeń elektronicznych, a w przypadku gdy podmiot posiada więcej niż jeden adres do doręczeń elektronicznych – główny adres do doręczeń elektronicznych, o którym mowa w art. 32 ust. 4 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+
 **Art. 35a.** Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób prowadzenia rejestru przedsiębiorców, rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej, rejestru dłużników niewypłacalnych oraz szczegółową treść wpisów w tych rejestrach, uwzględniając konieczność zapewnienia kompletności danych zawartych w rejestrach i potrzebę zapewnienia ich przejrzystości.
 
 #### Rozdział 2 Rejestr przedsiębiorców
 
 **Art. 36.** Przepisy niniejszego rozdziału stosuje się do następujących podmiotów:
 
+- **1)** (uchylony)
+- **2)** spółek jawnych;
+- **2a)** europejskich zgrupowań interesów gospodarczych;
+- **3)** spółek partnerskich;
+- **4)** spółek komandytowych;
+- **5)** spółek komandytowo-akcyjnych;
+- **6)** spółek z ograniczoną odpowiedzialnością;
+- **6a)** prostych spółek akcyjnych;
+- **7)** spółek akcyjnych;
+- **7a)** spółek europejskich;
+- **8)** spółdzielni;
+- **8a)** spółdzielni europejskich;
+- **9)** przedsiębiorstw państwowych;
+- **10)** instytutów badawczych i instytutów działających w ramach Sieci Badawczej Łukasiewicz;
+- **11)** (uchylony)
+- **12)** towarzystw ubezpieczeń wzajemnych;
+- **12a)** towarzystw reasekuracji wzajemnej;
+- **13)** innych osób prawnych, jeżeli wykonują działalność gospodarczą i podlegają obowiązkowi wpisu do rejestru, o którym mowa w art. 1 ust. 2 pkt 2;
+- **14)** oddziałów przedsiębiorców zagranicznych działających na terytorium Rzeczypospolitej Polskiej;
+- **15)** głównych oddziałów zagranicznych zakładów ubezpieczeń;
+- **16)** głównych oddziałów zagranicznych zakładów reasekuracji;
+- **17)** instytucji gospodarki budżetowej.
+
 **Art. 37.** Dane dotyczące poszczególnych przedsiębiorców wpisanych do rejestru przedsiębiorców umieszcza się pod numerem przeznaczonym dla danego podmiotu w sześciu działach tego rejestru.
 
 **Art. 38.** W dziale 1 rejestru przedsiębiorców zamieszcza się następujące dane:
 
+- **1)** dla każdego podmiotu: Jeżeli podmiot wpisany do rejestru przedsiębiorców utworzony został w wyniku koncentracji innych podmiotów, zamieszcza się w tym rejestrze także oznaczenie poprzednich numerów tego rejestru oraz numer i datę decyzji Prezesa Urzędu Ochrony Konkurencji i Konsumentów o zgodzie na dokonanie koncentracji, wydanej zgodnie z przepisami o ochronie konkurencji i konsumentów,
+    - **a)** nazwę lub firmę, pod którą działa,
+    - **b)** oznaczenie jego formy prawnej,
+    - **c)** jego siedzibę i adres, a także adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych,
+    - **d)** jeżeli podmiot wpisany do rejestru przedsiębiorców posiada oddziały – także ich siedziby i adresy, a w przypadku oddziału spółki, o której mowa w art. 4a pkt 1, utworzonego w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym – także numer oddziału w rejestrze oraz nazwę tego rejestru,
+    - **e)** oznaczenie jego poprzedniego numeru rejestru sądowego,
+    - **f)** jeżeli podmiot wpisany do rejestru przedsiębiorców utworzony został w wyniku przekształcenia lub podziału innego podmiotu albo połączenia innych podmiotów, zamieszcza się w tym rejestrze wzmiankę o sposobie powstania podmiotu, a także oznaczenia poprzednich numerów rejestru.
+    - **g)** wzmiankę o wykonywaniu działalności gospodarczej z innymi podmiotami na podstawie umowy spółki cywilnej, ga) wzmiankę o uczestnictwie spółki lub innego przedsiębiorcy w oznaczonej grupie spółek ze wskazaniem charakteru tego uczestnictwa, w tym dane spółki dominującej albo podmiotu, do którego stosuje się przepisy o spółce dominującej, albo dane spółki zależnej,
+    - **h)** NIP albo informację o jego unieważnieniu lub uchyleniu;
+
+- **1a)** w przypadku gdy podmiot je posiada – adres strony internetowej i adres poczty elektronicznej;
+- **2)** (uchylony) 2a) w przypadku wspólników spółki jawnej, członków europejskiego zgrupowania interesów gospodarczych, wspólników spółki partnerskiej, wspólników spółki komandytowej oraz komplementariuszy spółki komandytowo-akcyjnej – informacje o pozostawaniu w związku małżeńskim, zawarciu małżeńskiej umowy majątkowej, powstaniu rozdzielności majątkowej między małżonkami, zaznaczenie ograniczenia zdolności do czynności prawnych, o ile takie istnieje;
+- **3)** w przypadku podmiotu niebędącego osobą fizyczną – informacje o statucie lub umowie, wzmiankę o ich zmianie, okres, na który podmiot został utworzony, oraz jego numer identyfikacyjny REGON;
+- **4)** w przypadku spółki jawnej:
+    - **a)** oznaczenie wspólników spółki jawnej, zgodnie z art. 35;
+    - **b)** (uchylona) 4a) w przypadku europejskiego zgrupowania interesów gospodarczych:
+    - **a)** imię i nazwisko oraz miejsce zamieszkania lub oznaczenie nazwy, firmy, formy prawnej, siedziby statutowej oraz numeru i miejsca rejestracji członków europejskiego zgrupowania interesów gospodarczych,
+    - **b)** wzmiankę o klauzulach zwalniających członka europejskiego zgrupowania interesów gospodarczych od odpowiedzialności za długi i inne zobowiązania powstałe przed jego przystąpieniem do zgrupowania;
+
+- **5)** w przypadku spółki partnerskiej:
+    - **a)** oznaczenie partnerów, zgodnie z art. 35,
+    - **b)** (uchylona)
+    - **c)** w przypadku partnerów ponoszących odpowiedzialność zgodnie z art. 95 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych – zaznaczenie tej okoliczności;
+
+- **6)** w przypadku spółki komandytowej:
+    - **a)** oznaczenie wspólników spółki komandytowej, zgodnie z art. 35,
+    - **b)** (uchylona)
+    - **c)** określenie, który ze wspólników jest komplementariuszem, a który komandytariuszem,
+    - **d)** wysokość sumy komandytowej,
+    - **e)** przedmiot wkładu każdego komandytariusza, z zaznaczeniem, w jakiej części został wniesiony, oraz zwroty wkładów choćby częściowe;
+
+- **7)** w przypadku spółki komandytowo-akcyjnej:
+    - **a)** oznaczenie komplementariuszy spółki komandytowo-akcyjnej, zgodnie z art. 35,
+    - **b)** (uchylona)
+    - **c)** wysokość kapitału zakładowego, liczbę i wartość nominalną akcji,
+    - **d)** ilość akcji uprzywilejowanych i rodzaj uprzywilejowania,
+    - **e)** wzmiankę, jaka część kapitału zakładowego została opłacona,
+    - **f)** jeżeli przy zawiązaniu spółki akcjonariusze wnoszą wkłady niepieniężne – zaznaczenie tej okoliczności, z podaniem wartości nominalnej objętych w zamian za nie akcji,
+    - **g)** wzmiankę o uchwale o emisji obligacji zamiennych i akcji przyznawanych w zamian za te obligacje, wskazującą maksymalną wysokość podwyższenia kapitału zakładowego, a także wzmiankę o prawie obligatariuszy do udziału w zysku, <h) dane podmiotu prowadzącego rejestr akcjonariuszy spółki albo depozyt papierów wartościowych, w których są zarejestrowane akcje, ze wskazaniem oznaczenia tego podmiotu;>
+
+- **8)** w przypadku spółki z ograniczoną odpowiedzialnością:
+    - **a)** wysokość kapitału zakładowego, a jeżeli wspólnicy wnoszą wkłady niepieniężne – zaznaczenie tej okoliczności, z podaniem wartości objętych w zamian za nie udziałów,
+    - **b)** określenie, czy wspólnik może mieć jeden czy większą liczbę udziałów,
+    - **c)** zgodnie z art. 35, oznaczenie wspólników posiadających samodzielnie lub łącznie z innymi co najmniej 10 % kapitału zakładowego oraz ilość posiadanych przez tych wspólników udziałów i łączną ich wysokość,
+    - **d)** jeżeli spółka ma tylko jednego wspólnika – wzmiankę, że jest on jedynym wspólnikiem spółki,
+    - **e)** jeżeli umowa wskazuje pismo przeznaczone do ogłoszeń spółki – oznaczenie tego pisma,
+    - **f)** której umowa została zawarta przy wykorzystaniu wzorca umowy udostępnionego w systemie teleinformatycznym, w której wkłady na pokrycie kapitału zakładowego nie zostały wniesione – wzmiankę, że kapitał nie został pokryty,
+    - **g)** wzmiankę o prawie obligatariuszy do udziału w zysku;
+
+- **8a)** w przypadku prostej spółki akcyjnej:
+    - **a)** wysokość kapitału akcyjnego i liczbę akcji, a jeżeli akcjonariusze wnoszą wkłady niepieniężne – zaznaczenie tej okoliczności,
+    - **b)** wzmiankę o tym, czy zarząd jest upoważniony do emisji warrantów subskrypcyjnych,
+    - **c)** liczbę akcji uprzywilejowanych i rodzaj uprzywilejowania,
+    - **d)** maksymalną liczbę akcji, które mogą być przedmiotem warunkowej emisji,
+    - **e)** jeżeli umowa spółki wskazuje pismo przeznaczone do ogłoszeń spółki – oznaczenie tego pisma,
+    - **f)** jeżeli umowa spółki przewiduje przyznanie uprawnień indywidualnych określonym akcjonariuszom albo tytuły uczestnictwa w dochodach lub majątku spółki niewynikające z akcji – zaznaczenie tych okoliczności,
+    - **g)** w przypadku gdy spółka ma tylko jednego akcjonariusza – jego oznaczenie zgodnie z art. 35, a także wzmiankę o tym, że jest on jedynym akcjonariuszem spółki,
+    - **h)** wzmiankę o uchwale o emisji obligacji zamiennych i akcji przyznawanych w zamian za te obligacje, wskazującą maksymalną liczbę emitowanych akcji, a także wzmiankę o prawie obligatariuszy do udziału w zysku,
+    - **i)** maksymalną liczbę akcji, które mogą zostać wyemitowane z upoważnienia udzielonego zarządowi, <j) dane podmiotu prowadzącego rejestr akcjonariuszy spółki ze wskazaniem oznaczenia tego podmiotu;>
+
+- **9)** w przypadku spółki akcyjnej:
+    - **a)** wysokość kapitału zakładowego, liczbę i wartość nominalną akcji, a jeżeli akcjonariusze wnoszą wkłady niepieniężne – zaznaczenie tej okoliczności, z podaniem wartości nominalnej objętych w zamian za nie akcji,
+    - **b)** wysokość kapitału docelowego, jeżeli statut to przewiduje, i wzmiankę, czy zarząd jest upoważniony do emisji warrantów subskrypcyjnych,
+    - **c)** ilość akcji uprzywilejowanych i rodzaj uprzywilejowania,
+    - **d)** wzmiankę, jaka część kapitału zakładowego została opłacona,
+    - **e)** wartość nominalną warunkowego podwyższenia kapitału zakładowego,
+    - **f)** jeżeli statut wskazuje pismo przeznaczone do ogłoszeń spółki – oznaczenie tego pisma,
+    - **g)** jeżeli statut przewiduje przyznanie uprawnień osobistych określonym akcjonariuszom lub tytuły uczestnictwa w dochodach lub majątku spółki niewynikających z akcji – zaznaczenie tych okoliczności,
+    - **h)** w przypadku gdy spółka ma tylko jednego akcjonariusza – jego oznaczenie zgodnie z art. 35, a także wzmiankę, iż jest on jedynym akcjonariuszem spółki,
+    - **i)** wzmiankę o uchwale o emisji obligacji zamiennych i akcji przyznawanych w zamian za te obligacje, wskazującą maksymalną wysokość podwyższenia kapitału zakładowego, a także wzmiankę o prawie obligatariuszy do udziału w zysku,
+    - **j)** wartość nominalną podwyższenia kapitału zakładowego w wyniku zamiany obligacji kapitałowych, o których mowa w art. 27a ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708), na akcje,
+    - **k)** wzmiankę o uchwale o emisji obligacji kapitałowych, o których mowa w art. 27a ustawy z dnia 15 stycznia 2015 r. o obligacjach, i akcji przyznawanych w zamian za te obligacje, wskazującą maksymalną wysokość podwyższenia kapitału zakładowego w wyniku zamiany obligacji kapitałowych na akcje, <l) dane podmiotu prowadzącego rejestr akcjonariuszy spółki albo depozyt papierów wartościowych, w których są zarejestrowane akcje, ze wskazaniem oznaczenia tego podmiotu;> 9a) w przypadku spółki europejskiej:
+    - **a)** wysokość kapitału zakładowego, liczbę i wartość nominalną akcji,
+    - **b)** jeżeli akcjonariusze wnoszą wkłady niepieniężne – zaznaczenie tej okoliczności, z podaniem wartości nominalnej objętych w zamian za nie akcji; nie dotyczy to spółki europejskiej przenoszącej siedzibę na terytorium Rzeczypospolitej Polskiej,
+    - **c)** wysokość kapitału docelowego, jeżeli statut to przewiduje, oraz wzmiankę, czy zarząd albo rada administrująca są upoważnieni do emisji warrantów subskrypcyjnych,
+    - **d)** liczbę akcji uprzywilejowanych i rodzaj uprzywilejowania,
+    - **e)** wzmiankę, jaka część kapitału zakładowego została opłacona; nie dotyczy to spółki europejskiej przenoszącej siedzibę na terytorium Rzeczypospolitej Polskiej,
+    - **f)** wartość nominalną warunkowego podwyższenia kapitału zakładowego,
+    - **g)** jeżeli statut wskazuje pismo przeznaczone do ogłoszeń spółki – oznaczenie tego pisma,
+    - **h)** jeżeli statut przewiduje przyznanie uprawnień osobistych określonym akcjonariuszom lub tytuły uczestnictwa w dochodach lub majątku spółki niewynikających z akcji – zaznaczenie tych okoliczności,
+    - **i)** w przypadku gdy spółka ma tylko jednego akcjonariusza – jego oznaczenie zgodnie z art. 35, a także wzmiankę, że jest on jedynym akcjonariuszem spółki europejskiej,
+    - **j)** wzmiankę o uchwale o emisji obligacji zamiennych i akcji przyznawanych za te obligacje; wzmiankę o prawie obligatariuszy do udziału w zysku, <k) dane podmiotu prowadzącego rejestr akcjonariuszy spółki albo depozyt papierów wartościowych, w których są zarejestrowane akcje, ze wskazaniem oznaczenia tego podmiotu;> 9b) w przypadku spółdzielni europejskiej:
+    - **a)** wysokość kapitału zakładowego (subskrybowanego), liczbę i wartość nominalną udziałów,
+    - **b)** jeżeli członkowie wnoszą wkłady niepieniężne – zaznaczenie tej okoliczności, z podaniem wartości nominalnej objętych w zamian za nie udziałów; nie dotyczy to spółdzielni europejskiej przenoszącej siedzibę na terytorium Rzeczypospolitej Polskiej,
+    - **c)** jeżeli statut wskazuje pismo przeznaczone do ogłoszeń spółdzielni europejskiej – oznaczenie tego pisma,
+    - **d)** wzmiankę o uchwale o emisji obligacji;
+
+- **10)** w przypadku przedsiębiorstwa państwowego – organ założycielski;
+- **11)** w przypadku instytutu badawczego i instytutu działającego w ramach Sieci Badawczej Łukasiewicz – organ nadzorujący;
+- **12)** (uchylony)
+- **13)** w przypadku towarzystwa ubezpieczeń wzajemnych – oznaczenie terytorialnego zasięgu działalności towarzystwa, oznaczenie działu ubezpieczeń objętego działalnością towarzystwa, wysokość kapitału zakładowego i zapasowego, wzmiankę dotyczącą uznania towarzystwa za małe towarzystwo ubezpieczeń wzajemnych, wzmiankę o częściowym ograniczeniu lub cofnięciu zezwolenia na prowadzenie towarzystwa;
+- **13a)** w przypadku towarzystwa reasekuracji wzajemnej – oznaczenie terytorialnego zasięgu działalności towarzystwa, oznaczenie działu ubezpieczeń objętego działalnością towarzystwa, wysokość kapitału zakładowego i zapasowego, wzmiankę o częściowym ograniczeniu lub cofnięciu zezwolenia na prowadzenie towarzystwa;
+- **14)** w przypadku oddziałów przedsiębiorców zagranicznych działających na terytorium Rzeczypospolitej Polskiej:
+    - **a)** oznaczenie przedsiębiorcy zagranicznego wraz z określeniem jego formy organizacyjno-prawnej,
+    - **b)** siedzibę i adres przedsiębiorcy zagranicznego,
+    - **c)** jeżeli przedsiębiorca zagraniczny istnieje lub wykonuje działalność na podstawie wpisu do rejestru – rejestr, w którym wpisany jest zagraniczny przedsiębiorca, wraz z numerem wpisu do rejestru oraz określeniem organu prowadzącego rejestr i przechowującego akta,
+    - **d)** jeżeli przedsiębiorca zagraniczny nie podlega prawu jednego z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym – określenie prawa państwa właściwego dla przedsiębiorcy,
+    - **e)** informacje otrzymane za pośrednictwem systemu integracji rejestrów o otwarciu likwidacji, zakończeniu likwidacji, ogłoszeniu upadłości, zakończeniu postępowania upadłościowego oraz o wykreśleniu tego przedsiębiorcy;
+
+- **15)** w przypadku głównych oddziałów zagranicznych zakładów ubezpieczeń oraz głównych oddziałów zagranicznych zakładów reasekuracji:
+    - **a)** oznaczenie zagranicznego zakładu ubezpieczeń albo zagranicznego zakładu reasekuracji wraz z określeniem jego formy organizacyjno-prawnej,
+    - **b)** siedzibę i adres zagranicznego zakładu ubezpieczeń albo zagranicznego zakładu reasekuracji,
+    - **c)** jeżeli zagraniczny zakład ubezpieczeń albo zagraniczny zakład reasekuracji istnieje lub wykonuje działalność na podstawie wpisu do rejestru – rejestr, w którym wpisany jest zagraniczny zakład ubezpieczeń albo zagraniczny zakład reasekuracji, wraz z numerem wpisu do rejestru oraz określeniem organu prowadzącego rejestr i przechowującego akta,
+    - **d)** jeżeli zagraniczny zakład ubezpieczeń albo zagraniczny zakład reasekuracji nie podlega prawu jednego z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym – określenie prawa państwa właściwego dla zagranicznego zakładu ubezpieczeń albo zagranicznego zakładu reasekuracji.
+
 **Art. 39.** W dziale 2 rejestru przedsiębiorców zamieszcza się następujące dane:
+
+- **1)** oznaczenie organu uprawnionego do reprezentowania podmiotu oraz osób wchodzących w jego skład, ze wskazaniem sposobu reprezentacji, a w przypadku gdy w spółkach osobowych nie ma takiego organu – wskazanie wspólników uprawnionych do reprezentowania spółki, a także sposobu reprezentacji; w przypadku oddziałów przedsiębiorców zagranicznych, głównych oddziałów zagranicznych zakładów ubezpieczeń oraz głównych oddziałów zagranicznych zakładów reasekuracji dane te podlegają ujawnieniu co do przedsiębiorców zagranicznych, zagranicznych zakładów ubezpieczeń i zagranicznych zakładów reasekuracji, odpowiednio z uwzględnieniem odmienności struktury ich organów;
+- **1a)** oznaczenie zarządców europejskiego zgrupowania interesów gospodarczych i osób fizycznych wyznaczonych jako przedstawiciele zarządców będących osobami prawnymi;
+- **2)** oznaczenie organów nadzoru wraz z ich składem osobowym; w przypadku oddziałów przedsiębiorców zagranicznych, głównych oddziałów zagranicznych zakładów ubezpieczeń oraz głównych oddziałów zagranicznych zakładów reasekuracji dane te podlegają ujawnieniu co do przedsiębiorców zagranicznych, zagranicznych zakładów ubezpieczeń i zagranicznych zakładów reasekuracji, odpowiednio z uwzględnieniem odmienności struktury ich organów;
+- **3)** dotyczące prokurentów oraz rodzaju prokury;
+- **3a)** dotyczące pełnomocników podmiotów, o których mowa w art. 36 pkt 8, 9 i 10, i zakresu ich pełnomocnictwa;
+- **4)** oznaczenie osoby upoważnionej przez przedsiębiorcę zagranicznego do reprezentowania go w oddziale; dyrektora i zastępców dyrektora głównego oddziału zagranicznego zakładu ubezpieczeń oraz osoby upoważnionej do reprezentacji zagranicznego zakładu ubezpieczeń w zakresie działalności głównego oddziału; dyrektora i zastępców dyrektora głównego oddziału zagranicznego zakładu reasekuracji oraz osoby upoważnionej do reprezentacji zagranicznego zakładu reasekuracji w zakresie działalności głównego oddziału;
+- **5)** wzmianki o zawieszeniu członków organu, o ile przepis szczególny przewiduje zawieszenie członka organu;
+- **5a)** w przypadku ustanowienia w prostej spółce akcyjnej rady dyrektorów – oznaczenie rady dyrektorów i osób wchodzących w jej skład ze wskazaniem sposobu reprezentacji;
+- **6)** w przypadku wyboru przez spółkę europejską systemu monistycznego:
+    - **a)** oznaczenie rady administrującej oraz osób wchodzących w jej skład,
+    - **b)** oznaczenie dyrektorów wykonawczych, niebędących członkami rady administrującej, uprawnionych do reprezentowania spółki europejskiej oraz sposobu i zakresu reprezentacji;
+
+- **7)** oznaczenie dyrektorów wykonawczych spółdzielni europejskiej, a w przypadku wyboru przez spółdzielnię europejską systemu monistycznego – oznaczenie rady administrującej oraz osób wchodzących w jej skład.
 
 **Art. 40.** W dziale 3 rejestru przedsiębiorców zamieszcza się następujące dane:
 
+- **1)** przedmiot działalności według Polskiej Klasyfikacji Działalności (PKD) – nie więcej niż dziesięć pozycji, w tym jeden przedmiot przeważającej działalności na poziomie podklasy, z tym że w przypadku oddziałów przedsiębiorców zagranicznych, głównych oddziałów zagranicznych zakładów ubezpieczeń oraz głównych oddziałów zagranicznych zakładów reasekuracji przedmiot działalności i przedmiot przeważającej działalności określa się dla oddziału;
+- **2)** wzmiankę o złożeniu sprawozdania finansowego i rocznego skonsolidowanego sprawozdania finansowego grupy kapitałowej, z oznaczeniem dat ich złożenia i roku obrotowego;
+- **3)** wzmiankę o złożeniu sprawozdania z badania, jeżeli sprawozdanie podlegało obowiązkowi badania przez firmę audytorską, na podstawie przepisów o rachunkowości;
+- **4)** wzmiankę o złożeniu uchwały bądź postanowienia o zatwierdzeniu sprawozdania finansowego i skonsolidowanego sprawozdania grupy kapitałowej oraz podziale zysku lub pokryciu straty;
+- **5)** wzmiankę o złożeniu sprawozdania z działalności i sprawozdania z działalności grupy kapitałowej, jeżeli przepisy o rachunkowości wymagają ich złożenia do sądu rejestrowego;
+- **5a)** wzmiankę o złożeniu sprawozdania z płatności na rzecz administracji publicznej oraz skonsolidowanego sprawozdania z płatności na rzecz administracji publicznej, jeżeli przepisy o rachunkowości wymagają jego złożenia do sądu rejestrowego;
+- **5b)** wzmiankę o złożeniu sprawozdawczości zrównoważonego rozwoju grupy kapitałowej jednostki dominującej z państwa spoza Europejskiego Obszaru Gospodarczego, jednostki dominującej wyższego szczebla z państwa spoza Europejskiego Obszaru Gospodarczego lub jednostki dominującej najwyższego szczebla z państwa spoza Europejskiego Obszaru Gospodarczego lub sprawozdawczości zrównoważonego rozwoju jednostki samodzielnej z państwa spoza Europejskiego Obszaru Gospodarczego, jeżeli przepisy o rachunkowości wymagają jej złożenia do sądu rejestrowego;
+- **5c)** wzmiankę o złożeniu sprawozdania z atestacji sprawozdawczości zrównoważonego rozwoju, jeżeli przepisy o rachunkowości wymagają jego złożenia do sądu rejestrowego;
+- **5d)** wzmiankę o złożeniu sprawozdania o podatku dochodowym, jeżeli przepisy o rachunkowości wymagają jego złożenia do sądu rejestrowego;
+- **6)** (uchylony)
+- **7)** wzmiankę o braku obowiązku sporządzenia i złożenia sprawozdania finansowego;
+- **8)** informację o dniu kończącym rok obrotowy.
+
 **Art. 41.** W dziale 4 rejestru przedsiębiorców zamieszcza się następujące dane:
+
+- **1)** zaległości podatkowe i celne objęte egzekucją, jeżeli dochodzona należność nie została uiszczona w terminie 60 dni od daty wszczęcia egzekucji; datę wszczęcia egzekucji tych należności oraz wysokość pozostałych do wyegzekwowania kwot, datę i sposób zakończenia egzekucji;
+- **2)** należności, do których poboru jest obowiązany Zakład Ubezpieczeń Społecznych, objęte egzekucją, jeżeli dochodzona należność nie została uiszczona w terminie 60 dni od daty wszczęcia egzekucji; datę wszczęcia egzekucji tych należności oraz wysokość pozostałych do wyegzekwowania kwot, datę i sposób zakończenia egzekucji;
+- **3)** oznaczenie wierzyciela podmiotu oraz jego wierzytelność, jeżeli posiada tytuł wykonawczy wystawiony przeciwko podmiotowi i nie został zaspokojony w ciągu 30 dni od daty wezwania do spełnienia świadczenia; w przypadku wierzytelności solidarnych ujawnieniu w rejestrze podlega jedynie wierzyciel wnoszący o dokonanie wpisu z zaznaczeniem, że jest to wierzytelność wynikająca z zobowiązania solidarnego;
+- **4)** informacje o zabezpieczeniu majątku dłużnika w postępowaniu w przedmiocie ogłoszenia upadłości albo w postępowaniu restrukturyzacyjnym przez ustanowienie tymczasowego nadzorcy sądowego lub zarządcy przymusowego i jego zmianach lub o nadzorcy sądowym lub zarządcy ustanowionym w postępowaniu restrukturyzacyjnym, który pełni funkcję po prawomocnym umorzeniu postępowania restrukturyzacyjnego w związku ze złożeniem uproszczonego wniosku o otwarcie postępowania sanacyjnego albo uproszczonego wniosku o ogłoszenie upadłości, zawieszeniu prowadzonych przeciwko dłużnikowi egzekucji, a także o oddaleniu wniosku o ogłoszenie upadłości na podstawie art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe.
+- **5)** (uchylony)
 
 **Art. 41a.** W przypadku wpisów, o których mowa w art. 41 pkt 1–3, łączna wysokość należności albo wierzytelności wpisywana do rejestru w ramach jednego postępowania nie może być niższa niż 2000 zł.
 
@@ -859,4 +1070,8 @@ Art. 61–85. (pominięte)
 **Art. 87.** (pominięty)
 
 **Art. 88.** Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą – Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym , z wyjątkiem:
+
+- **1)** przepisów art. 6, art. 19 ust. 4, art. 48, art. 54, art. 83 i art. 87, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia ;
+- **2)** przepisów art. 85, które wchodzą w życie z dniem 1 stycznia 1998 r.
+
 

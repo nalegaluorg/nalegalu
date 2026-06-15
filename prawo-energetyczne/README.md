@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo energetyczne**.
 
-Łącznie: **34** aktów
+Łącznie: **35** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -34,6 +34,7 @@ Akty prawne z dziedziny: **Prawo energetyczne**.
 | [WDU20090690586](WDU20090690586/index.md) | Ustawa z dnia 20 lutego 2009 r. o zmianie ustawy - Prawo energetyczne | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20071150790](WDU20071150790/index.md) | Ustawa z dnia 15 czerwca 2007 r. o zmianie ustawy - Prawo energetyczne | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20061581123](WDU20061581123/index.md) | Ustawa z dnia 21 lipca 2006 r. o zmianie ustawy - Prawo energetyczne | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU20021351144](WDU20021351144/index.md) | Ustawa z dnia 24 lipca 2002 r. o zmianie ustawy - Prawo energetyczne. | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20011541802](WDU20011541802/index.md) | Ustawa z dnia 21 grudnia 2001 r. o zmianie ustaw: o Bankowym Funduszu Gwara | Ustawa | obowiązujący | [tak](WDU20011541802/orzecznictwo.md) |
 | [WDU20000480555](WDU20000480555/index.md) | Ustawa z dnia 26 maja 2000 r. o zmianie ustawy - Prawo energetyczne. | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20000480555/orzecznictwo.md) |
 | [WDU19990880980](WDU19990880980/index.md) | Ustawa z dnia 10 września 1999 r. o zmianie ustawy - Prawo energetyczne. | Ustawa | akt objęty tekstem jednolitym |  |
@@ -41,4 +42,4 @@ Akty prawne z dziedziny: **Prawo energetyczne**.
 | [WDU19971581042](WDU19971581042/index.md) | Ustawa z dnia 4 grudnia 1997 r. o zmianie ustawy - Prawo budżetowe i ustawy | Ustawa | obowiązujący |  |
 | [WDU19970540348](WDU19970540348/index.md) | Ustawa z dnia 10 kwietnia 1997 r. - Prawo energetyczne. | Ustawa | akt posiada tekst jednolity | [tak](WDU19970540348/orzecznictwo.md) |
 
-*34 aktów • [← Powrót do spisu głównego](../README.md)*
+*35 aktów • [← Powrót do spisu głównego](../README.md)*

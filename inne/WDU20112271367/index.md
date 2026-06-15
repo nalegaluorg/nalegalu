@@ -8,7 +8,7 @@ pos: 1367
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przewozie towarów niebezpiecznych
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-19 |
 | Data wydania | 2011-10-24 |
-| Ostatnia zmiana | 2026-03-20 |
+| Ostatnia zmiana | 2026-06-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112271367) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1367/text.pdf) |
 
 Art. 115–124. (pominięte)
@@ -34,6 +34,37 @@ Art. 115–124. (pominięte)
 **Art. 1.** Ustawa określa zasady prowadzenia działalności w zakresie krajowego i międzynarodowego przewozu drogowego, koleją i żeglugą śródlądową towarów niebezpiecznych oraz organy i jednostki realizujące zadania związane z tym przewozem.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** ADR – Umowę europejską dotyczącą międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzoną w Genewie dnia 30 września 1957 r. (Dz. U. z 2023 r. poz. 891), wraz ze zmianami obowiązującymi od dnia ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, ogłoszonymi we właściwy sposób;
+- **2)** RID – Regulamin dla międzynarodowego przewozu kolejami towarów niebezpiecznych (RID), stanowiący załącznik C do Konwencji o międzynarodowym przewozie kolejami (COTIF), sporządzonej w Bernie dnia 9 maja 1980 r. (Dz. U. z 2007 r. poz. 674 i 675, z 2009 r. poz. 1318, z 2011 r. poz. 804 i 805 oraz z 2015 r. poz. 1726), wraz ze zmianami obowiązującymi od dnia ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, ogłoszonymi we właściwy sposób;
+- **3)** ADN – Umowę europejską dotyczącą międzynarodowego przewozu śródlądowymi drogami wodnymi towarów niebezpiecznych (ADN), zawartą w Genewie dnia 26 maja 2000 r. (Dz. U. z 2010 r. poz. 1537 i 1538), wraz ze zmianami obowiązującymi od dnia ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, ogłoszonymi we właściwy sposób;
+- **4)** towar niebezpieczny – materiał lub przedmiot, który zgodnie z ADR, RID lub ADN nie jest dopuszczony, odpowiednio, do przewozu drogowego, przewozu koleją lub przewozu żeglugą śródlądową albo jest dopuszczony do takiego przewozu na warunkach określonych w tych przepisach;
+- **5)** przewóz drogowy towarów niebezpiecznych – każde przemieszczenie towarów niebezpiecznych pojazdem po drodze publicznej lub po innych drogach ogólnodostępnych, z uwzględnieniem postojów wymaganych podczas tego przewozu oraz czynności związanych z tym przewozem;
+- **6)** przewóz koleją towarów niebezpiecznych – każde przemieszczenie towarów niebezpiecznych wagonem, z uwzględnieniem postojów wymaganych podczas tego przewozu oraz czynności związanych z tym przewozem;
+- **7)** przewóz żeglugą śródlądową towarów niebezpiecznych – każde przemieszczenie towarów niebezpiecznych statkiem po wodach śródlądowych, z uwzględnieniem postojów wymaganych podczas tego przewozu oraz czynności związanych z tym przewozem;
+- **8)** uczestnik przewozu towarów niebezpiecznych – podmioty wymienione w ADR, RID lub ADN lub jednostka wojskowa, prowadzące działalność związaną z przewozem towarów niebezpiecznych;
+- **9)** osoba wykonująca czynności związane z przewozem towarów niebezpiecznych – osobę fizyczną zatrudnioną przez uczestnika przewozu towarów niebezpiecznych albo wykonującą czynności na jego rzecz;
+- **10)** zaświadczenie ADR – dokument potwierdzający ukończenie przez kierowcę kursu ADR i złożenie z wynikiem pozytywnym egzaminu dla kierowców wykonujących przewóz drogowy towarów niebezpiecznych;
+- **11)** świadectwo eksperta ADN – dokument potwierdzający ukończenie kursu i złożenie z wynikiem pozytywnym egzaminu kończącego kurs na eksperta ADN;
+- **12)** pojazd – pojazd samochodowy albo zespół pojazdów składający się z pojazdu samochodowego i przyczepy lub naczepy, lub z ciągnika rolniczego i przyczepy, w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. );
+- **13)** wagon – pojazd kolejowy bez własnego układu napędzającego, który porusza się na własnych kołach po torach kolejowych i jest używany do przewozu towarów;
+- **14)** statek – urządzenie pływające o napędzie mechanicznym lub bez napędu mechanicznego używane do przewozu towarów;
+- **15)** środek transportu – pojazd, wagon lub statek używany do przewozu towarów niebezpiecznych;
+- **16)** urządzenie transportowe – urządzenie umieszczane w środku transportu lub trwale z nim połączone, wykorzystywane do przewozu towaru, w szczególności: cysternę, kontener, kontener do przewozu luzem, wagon-baterię, pojazd-baterię, pojazd MEMU, wieloelementowy kontener do gazu (MEGC), duży pojemnik do przewozu luzem (DPPL);
+- **17)** siły zbrojne – Siły Zbrojne Rzeczypospolitej Polskiej lub siły zbrojne państw obcych przebywające na terytorium Rzeczypospolitej Polskiej oraz członków ich personelu cywilnego, jeżeli pozostają w związku z pełnieniem obowiązków służbowych, o ile umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, nie stanowi inaczej;
+- **18)** ciśnieniowe urządzenia transportowe: Ciśnieniowe urządzenia transportowe obejmują naboje gazowe (UN 2037), ale nie obejmują aerozoli (UN 1950), otwartych naczyń kriogenicznych, butli do aparatów oddechowych, gaśnic (UN 1044), ciśnieniowych urządzeń transportowych wyłączonych zgodnie z podrozdziałem 1.1.3.2 odpowiednio ADR, RID i ADN i ciśnieniowych urządzeń transportowych wyłączonych z zakresu stosowania zasad budowy i badań opakowań zgodnie z przepisami szczególnymi działu 3.3 odpowiednio ADR, RID i ADN;
+    - **a)** naczynia ciśnieniowe, w stosownych przypadkach ich zawory i inne wyposażenie, objęte działem 6.2. ADR, RID lub ADN,
+    - **b)** zbiorniki, pojazdy-baterie, wagony-baterie, wieloelementowe kontenery do gazu (MEGC), w stosownych przypadkach ich zawory i inne wyposażenie, objęte działem 6.8 odpowiednio ADR, RID i ADN – jeżeli urządzenia określone w lit. a lub b są używane zgodnie z odpowiednio ADR, RID i ADN w transporcie gazów klasy 2, z wyłączeniem gazów lub przedmiotów mających w kodzie klasyfikacyjnym cyfry 6 i 7, oraz w transporcie niektórych towarów niebezpiecznych innych klas określonych w ustawie.
+
+- **19)** udostępnienie na rynku – każde dostarczenie ciśnieniowego urządzenia transportowego w celu jego dystrybucji lub użytkowania na rynku unijnym w ramach działalności handlowej lub działalności użyteczności publicznej odpłatnie lub nieodpłatnie;
+- **20)** użytkowanie – napełnianie, okresowe przechowywanie połączone z przewozem, opróżnianie lub ponowne napełnianie ciśnieniowych urządzeń transportowych;
+- **21)** podmiot uczestniczący w obrocie ciśnieniowymi urządzeniami transportowymi – producenta, upoważnionego przedstawiciela, importera, dystrybutora, właściciela lub użytkownika, prowadzącego działalność gospodarczą lub świadczącego usługi publiczne odpłatnie lub nieodpłatnie;
+- **22)** ocena zgodności – ocenę i procedurę oceny zgodności określona odpowiednio w ADR, RID i ADN;
+- **23)** znak zgodności  – oznakowanie potwierdzające zgodność ciśnieniowego urządzenia transportowego z wymaganiami określonymi odpowiednio w ADR, RID i ADN oraz w przepisach ustawy;
+- **24)** ponowna ocena zgodności – podjętą na wniosek właściciela lub użytkownika procedurę późniejszej oceny zgodności ciśnieniowego urządzenia transportowego;
+- **25)** autoryzacja, dystrybutor, importer, producent, upoważniony przedstawiciel – autoryzację, dystrybutora, importera, producenta, upoważnionego przedstawiciela, w rozumieniu ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854);
+- **26)** jednostka kontrolująca – jednostkę oceniającą zgodność, o której mowa w art. 2 pkt 13 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30), i jednocześnie spełniającą wymagania, o których mowa w 1.8.6.8 ADR, RID i ADN;
+- **27)** wprowadzenie do obrotu – udostępnienie wyrobu na rynku po raz pierwszy.
 
 **Art. 3.**
 
@@ -325,6 +356,13 @@ Art. 115–124. (pominięte)
 
 **Art. 31.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
+- **1)** szczegółową formę i tryb przeprowadzania egzaminu, o którym mowa w art. 20 ust. 2 pkt 4, mając na uwadze zakres egzaminu wyznaczony przepisami ADR, konieczność zapewnienia ujednoliconych procedur egzaminowania;
+- **2)** szczegółowy tryb wydawania zaświadczenia ADR oraz tryb wydawania wtórnika zaświadczenia ADR, a także sposób wypełniania zaświadczenia ADR, mając na uwadze potrzebę ujednolicenia sposobu postępowania w tym zakresie;
+- **3)** warunki i sposób przechowywania dokumentacji dotyczącej egzaminu oraz dotyczącej wydanych zaświadczeń oraz wydawania ich wtórników, uwzględniając potrzebę właściwego zabezpieczenia tej dokumentacji uniemożliwiającego dostęp osób niepowołanych oraz wyposażenie pomieszczeń w urządzenia gwarantujące bezpieczeństwo przechowywanych dokumentów;
+- **4)** wzór zaświadczenia ADR, uwzględniając postanowienia ADR i potrzebę jego należytego zabezpieczenia przed fałszowaniem;
+- **5)** wysokość wynagrodzenia członków komisji egzaminacyjnej, która nie może być wyższa niż 10 % kwoty przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzedzającym wydanie rozporządzenia, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, mając na uwadze czas trwania egzaminu i wykonywane przez członków komisji egzaminacyjnej czynności;
+- **6)** wysokość opłaty, o której mowa w art. 25 ust. 1 pkt 1, która nie może być wyższa niż 50 zł za dokument, mając na uwadze pokrycie kosztów wydawania zaświadczenia ADR i wtórnika zaświadczenia ADR, w tym pokrycie kosztów związanych z drukiem i czynnościami administracyjnymi.
+
 **Art. 32.**
 
 1. Na statku żeglugi śródlądowej przewożącym towary niebezpieczne powinien znajdować się ekspert do spraw bezpieczeństwa przewozu towarów niebezpiecznych statkami żeglugi śródlądowej, zwany dalej „ekspertem ADN”.
@@ -406,7 +444,18 @@ Art. 115–124. (pominięte)
 
 **Art. 38.** Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe warunki, formę i tryb przeprowadzania egzaminu, o którym mowa w art. 32 ust. 5 pkt 3 i ust. 6 pkt 2, mając na uwadze potrzebę zapewnienia prawidłowego przeprowadzenia egzaminu;
+- **2)** skład komisji, o której mowa w art. 32 ust. 5 pkt 3 i ust. 6 pkt 2, sposób jej działania i tryb jej powoływania oraz wymagania kwalifikacyjne dla osób wchodzących w skład komisji egzaminacyjnej i sposób ustalania wysokości ich wynagrodzenia, uwzględniając konieczność zapewnienia obiektywnego sprawdzenia przygotowania do pełnienia zadań eksperta ADN oraz czas trwania egzaminu i liczbę egzaminowanych osób;
+- **3)** tryb wydawania i przedłużania odpowiedniego świadectwa eksperta ADN oraz tryb wydawania wtórnika odpowiedniego świadectwa eksperta ADN, mając na uwadze potrzebę ujednolicenia sposobu postępowania podmiotów właściwych w tym zakresie;
+- **4)** warunki i sposób przechowywania dokumentacji dotyczącej egzaminu oraz wydanych odpowiednich świadectw eksperta ADN, ich przedłużania oraz wydawania ich wtórników, uwzględniając potrzebę właściwego zabezpieczenia dokumentacji uniemożliwiającego dostęp osób niepowołanych oraz wyposażenie pomieszczeń w urządzenia gwarantujące bezpieczeństwo przechowywanych dokumentów;
+- **5)** wzór świadectwa eksperta ADN, świadectwa eksperta ADN do spraw przewozu gazów i świadectwa eksperta ADN do spraw przewozu chemikaliów i sposób ich wypełniania, uwzględniając postanowienia ADN;
+- **6)** wysokość opłaty za egzaminy, o której mowa w art. 33 ust. 5, która nie może być wyższa niż 15 % kwoty przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzedzającym wydanie rozporządzenia, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, oraz tryb jej wnoszenia, mając na uwadze konieczność pokrycia kosztów związanych z przeprowadzeniem egzaminu, wydaniem świadectwa eksperta ADN, świadectwa eksperta ADN do spraw przewozu gazów i świadectwa eksperta ADN do spraw przewozu chemikaliów, przedłużeniem ważności dotychczasowego odpowiedniego świadectwa, w tym kosztów druku i czynności administracyjnych;
+- **7)** wysokość opłaty, o której mowa w art. 34 ust. 6, która nie może być wyższa niż 50 zł za dokument, oraz tryb jej wnoszenia, mając na uwadze pokrycie kosztów wydania wtórnika odpowiednio świadectwa eksperta ADN, świadectwa eksperta ADN do spraw przewozu gazów i świadectwa eksperta ADN do spraw przewozu chemikaliów, w tym pokrycie kosztów związanych z drukiem i czynnościami administracyjnymi.
+
 **Art. 39.** Koszt kursu ADR, kursu na eksperta ADN, kursu na eksperta ADN do spraw przewozu gazów i kursu na eksperta ADN do spraw przewozu chemikaliów oraz koszt egzaminów, o których mowa w art. 32 ust. 5 pkt 3 i ust. 6 pkt 2, w tym koszt wydania odpowiednio świadectwa eksperta ADN, świadectwa eksperta ADN do spraw przewozu gazów i świadectwa eksperta ADN do spraw przewozu chemikaliów, a także koszt wydania zaświadczenia ADR ponosi:
+
+- **1)** uczestnik przewozu towarów niebezpiecznych – w przypadku osoby wykonującej na jego rzecz czynności związane z przewozem towarów niebezpiecznych albo gdy uczestnik przewozu towarów niebezpiecznych osobiście wykonuje tę działalność;
+- **2)** uczestnik kursu lub osoba przystępująca do egzaminu – w innych przypadkach.
 
 #### Rozdział 4 Doradca do spraw bezpieczeństwa przewozu towarów niebezpiecznych
 
@@ -510,6 +559,14 @@ Art. 115–124. (pominięte)
 4. W przypadku utraty uprawnień przez doradcę Dyrektor TDT usuwa dotyczące go dane z ewidencji, o której mowa w ust. 1.
 
 **Art. 49.** Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
+
+- **1)** warunki, formę i tryb przeprowadzania egzaminu dla doradców, o którym mowa w art. 42 ust. 2 pkt 4, uwzględniając konieczność zapewnienia prawidłowego przeprowadzenia egzaminu;
+- **2)** skład komisji, o której mowa w art. 42 ust. 2 pkt 4, sposób jej działania i tryb jej powoływania oraz wymagania kwalifikacyjne dla osób wchodzących w skład komisji egzaminacyjnej i sposób ustalania wysokości ich wynagrodzenia, mając na uwadze konieczność zapewnienia obiektywnego sprawdzenia przygotowania do wykonywania zadań doradcy oraz czas trwania egzaminu i liczbę egzaminowanych osób;
+- **3)** tryb wydawania świadectwa doradcy oraz tryb wydawania wtórnika świadectwa doradcy, mając na uwadze potrzebę ujednolicenia sposobu postępowania podmiotów właściwych w tym zakresie;
+- **4)** warunki i sposób przechowywania dokumentacji dotyczącej egzaminu oraz dotyczącej wydanych świadectw doradcy, ich przedłużania oraz wydawania ich wtórników, uwzględniając potrzebę właściwego zabezpieczenia tej dokumentacji uniemożliwiającego dostęp osób niepowołanych, a także wyposażenie pomieszczeń w urządzenia gwarantujące bezpieczeństwo przechowywanych dokumentów;
+- **5)** wzór świadectwa doradcy i sposób jego wypełniania, uwzględniając postanowienia ADR, RID i ADN;
+- **6)** wysokość opłaty, o której mowa w art. 43 ust. 1, z uwzględnieniem poszczególnych części egzaminów, która nie może być wyższa niż 15 % kwoty przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzedzającym wydanie rozporządzenia, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, oraz tryb jej wnoszenia, uwzględniając konieczność pokrycia kosztów związanych z przeprowadzeniem egzaminów, wydaniem świadectwa doradcy, przedłużeniem ważności świadectwa doradcy, w tym kosztów druku i czynności administracyjnych;
+- **7)** wysokość opłaty, o której mowa w art. 44 ust. 4, oraz tryb jej wnoszenia, która nie może być wyższa niż 50 zł za dokument, mając na uwadze pokrycie kosztów wydania wtórnika świadectwa doradcy, w tym pokrycie kosztów związanych z drukiem i czynnościami administracyjnymi.
 
 #### Rozdział 5 Działalność w zakresie prowadzenia kursów ADR, kursów na ekspertów ADN, kursów dla doradców oraz kontrola tej działalności
 
@@ -716,6 +773,13 @@ Art. 115–124. (pominięte)
 
 **Art. 58.** Minister właściwy do spraw transportu oraz minister właściwy do spraw żeglugi śródlądowej określą, w drodze rozporządzenia:
 
+- **1)** szczegółowe wymagania w zakresie, o którym mowa w art. 50 ust. 4 pkt 1–3, w stosunku do podmiotów wykonujących działalność w zakresie prowadzenia kursów, mając na uwadze zapewnienie należytego przeprowadzania kursów;
+- **2)** wzór wniosku o wpis do rejestru podmiotów prowadzących kursy oraz wzór zaświadczenia potwierdzającego wpis podmiotu do tego rejestru, uwzględniając zakres niezbędnych danych;
+- **3)** wysokość opłaty za wpis do rejestru podmiotów prowadzących kursy, której wysokość nie może być wyższa niż 1000 zł, mając na uwadze wysokość rzeczywistych kosztów związanych z prowadzeniem rejestru podmiotów prowadzących kursy oraz wysokość kosztów związanych z weryfikacją dokumentów;
+- **4)** rodzaje i zakres kursów, ich ramowy program, minimalny czas trwania kursów, a także warunki wydania zaświadczenia potwierdzającego ukończenie odpowiedniego kursu, mając na uwadze wymagania określone odpowiednio w ADR, RID lub ADN oraz konieczność prawidłowego przygotowania kierowców, ekspertów ADN oraz doradców do przeciwdziałania zagrożeniom związanym z przewozem towarów niebezpiecznych;
+- **5)** warunki i sposób przechowywania dokumentacji dotyczącej prowadzonych kursów, uwzględniając potrzebę właściwego zabezpieczenia tej dokumentacji uniemożliwiającego dostęp osób niepowołanych oraz wyposażenie pomieszczeń w urządzenia gwarantujące bezpieczeństwo przechowywanych dokumentów;
+- **6)** wzór zaświadczenia o ukończeniu kursu, uwzględniając zakres niezbędnych danych dotyczących podmiotu prowadzącego kursy, uczestnika kursu i zakresu ukończonego kursu.
+
 #### Rozdział 6 Środki transportu
 
 **Art. 59.** Środki transportu przewożące towary niebezpieczne powinny być przystosowane, wyposażone i oznakowane, zgodnie z ADR, RID lub ADN, z wyłączeniem pojazdów należących do sił zbrojnych wykonujących krajowy przewóz towarów niebezpiecznych.
@@ -813,6 +877,11 @@ Art. 115–124. (pominięte)
 
 **Art. 66.** Przepisów niniejszego rozdziału nie stosuje się do:
 
+- **1)** ciśnieniowych urządzeń transportowych wykorzystywanych wyłącznie w transporcie towarów niebezpiecznych pomiędzy obszarem państw członkowskich Unii Europejskiej a obszarem kraju trzeciego,
+- **2)** ciśnieniowych urządzeń transportowych wprowadzonych do obrotu przed dniem:
+    - **a)** 1 maja 2004 r. – w przypadku butli,
+    - **b)** 1 lipca 2005 r. – w przypadku pozostałych ciśnieniowych urządzeń transportowych – i niepoddanych ponownej ocenie zgodności.
+
 **Art. 67.**
 
 1. Do oceny zgodności ciśnieniowych urządzeń transportowych, akredytacji, autoryzacji i notyfikacji jednostki kontrolującej oraz kontroli podmiotów uczestniczących w obrocie ciśnieniowymi urządzeniami transportowymi stosuje się odpowiednio przepisy wskazane w art. 1 ust. 6 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
@@ -856,6 +925,13 @@ Art. 115–124. (pominięte)
 3. Minister właściwy do spraw transportu oraz minister właściwy do spraw żeglugi śródlądowej w porozumieniu z ministrem właściwym do spraw finansów publicznych określą, w drodze rozporządzenia, sposób ustalania opłat za czynności, o których mowa w ust. 1, mając na uwadze, że stawki tych opłat powinny zapewnić pokrycie kosztów ich przeprowadzenia.
 
 **Art. 72.** Minister właściwy do spraw transportu oraz minister właściwy do spraw żeglugi śródlądowej określą, w drodze rozporządzenia:
+
+- **1)** procedury oceny zgodności ciśnieniowych urządzeń transportowych,
+- **2)** procedury ponownej oceny zgodności ciśnieniowych urządzeń transportowych,
+- **3)** procedury badań okresowych, pośrednich i nadzwyczajnych,
+- **4)** towary niebezpieczne innych klas niż klasa 2, przewożone ciśnieniowymi urządzeniami transportowymi,
+- **5)** sposób oznakowania ciśnieniowych urządzeń transportowych,
+- **6)** wzór znaku zgodności  – biorąc pod uwagę rodzaje ciśnieniowych urządzeń transportowych, stopień stwarzanych przez nie zagrożeń oraz konieczność ujednolicenia znaku zgodności dla wszystkich ciśnieniowych urządzeń transportowych.
 
 ##### Oddział II Obowiązki podmiotów uczestniczących w obrocie ciśnieniowymi urządzeniami transportowymi
 
@@ -948,9 +1024,15 @@ Art. 115–124. (pominięte)
 
 **Art. 80.** Na wniosek właściwego organu wyspecjalizowanego podmioty uczestniczące w obrocie ciśnieniowymi urządzeniami transportowymi przez okres co najmniej 10 lat dokonują identyfikacji:
 
+- **1)** każdego podmiotu uczestniczącego w obrocie ciśnieniowymi urządzeniami transportowymi, który dostarczył im ciśnieniowe urządzenia transportowe;
+- **2)** każdego podmiotu uczestniczącego w obrocie ciśnieniowymi urządzeniami transportowymi, któremu dostarczyły ciśnieniowe urządzenia transportowe.
+
 ##### Oddział III Jednostki notyfikowane
 
 **Art. 81.** Za opracowanie i stosowanie procedur koniecznych do oceny, notyfikacji i dalszego monitorowania jednostek notyfikowanych biorących udział w procedurach związanych z ciśnieniowymi urządzeniami transportowymi odpowiada:
+
+- **1)** minister właściwy do spraw transportu – w zakresie działalności związanej z przewozem drogowym oraz przewozem kolejowym towarów niebezpiecznych;
+- **2)** minister właściwy do spraw żeglugi śródlądowej – w zakresie działalności związanej z przewozem żeglugą śródlądową towarów niebezpiecznych.
 
 **Art. 82.** Odpowiednio minister właściwy do spraw transportu albo minister właściwy do spraw żeglugi śródlądowej informuje Komisję Europejską o krajowych procedurach oceny, notyfikacji i monitorowania jednostek notyfikowanych oraz o wszelkich zmianach tych informacji.
 
@@ -1038,6 +1120,9 @@ Art. 115–124. (pominięte)
 5. Jednostka notyfikowana powinna zatrudniać wykwalifikowanych pracowników oraz posiadać odpowiednie wyposażenie umożliwiające właściwe wykonywanie zadań administracyjnych i technicznych związanych z oceną zgodności, a także posiadać dostęp do sprzętu wymaganego do badań specjalistycznych.
 
 **Art. 91.** Pracownicy jednostki notyfikowanej odpowiedzialni za wykonywanie zadań, o których mowa w art. 85 ust. 4, powinni odbyć przeszkolenie w tym zakresie, a także posiadać:
+
+- **1)** wiedzę oraz odpowiednie doświadczenie do przeprowadzenia badań;
+- **2)** umiejętność sporządzenia certyfikatów, protokołów i sprawozdań wymaganych w celu uwierzytelnienia przeprowadzonych badań.
 
 **Art. 92.** Wynagrodzenie pracowników wykonujących zadania, o których mowa w art. 85 ust. 4, nie może być uzależnione bezpośrednio od liczby przeprowadzonych inspekcji lub od ich wyników.
 
@@ -1421,6 +1506,9 @@ Art. 115–124. (pominięte)
 
 **Art. 127.** W sprawach:
 
+- **1)** o nadanie uprawnień doradcy,
+- **2)** o wydanie świadectwa dopuszczenia pojazdu ADR w zakresie opłat – wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
 **Art. 128.** Badania okresowe butli niepodlegających przepisom rozdziału 7 mogą być wykonywane przez Prezesa Urzędu Dozoru Technicznego do czasu wycofania ich z eksploatacji.
 
 **Art. 129.** Umowa z producentem blankietów, o których mowa w art. 29, zawarta przed dniem wejścia w życie niniejszej ustawy zachowuje ważność przez okres, na który została zawarta.
@@ -1455,7 +1543,14 @@ Art. 115–124. (pominięte)
 
 **Art. 134.** Traci moc:
 
+- **1)** ustawa z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. poz. 1671, z 2004 r. poz. 959 i 1808, z 2005 r. poz. 757 oraz z 2011 r. poz. 622 i 1016);
+- **2)** ustawa z dnia 31 marca 2004 r. o przewozie koleją towarów niebezpiecznych (Dz. U. poz. 962, z 2005 r. poz. 1184, z 2006 r. poz. 1834, z 2007 r. poz. 1238 oraz z 2011 r. poz. 622 i 1016).
+
 **Art. 135.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem:
+
+- **1)** art. 124, który wchodzi w życie z dniem ogłoszenia ;
+- **2)** art. 131 i art. 132, które wchodzą w życie po upływie 2 miesięcy od dnia ogłoszenia. Załączniki do ustawy z dnia 19 sierpnia 2011 r. (Dz. U. z 2024 r. poz.
+- **643)** Załącznik do ustawy z dnia 19 sierpnia 2011 r.
 
 ## Załącznik nr 1 — Załącznik nr 2
 

@@ -8,7 +8,7 @@ pos: 1669
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o dokumentach publicznych
@@ -217,6 +217,9 @@ Art. 59–71. (pominięte)
 
 **Art. 15.** Przepisy niniejszego rozdziału stosuje się do:
 
+- **1)** (uchylony)
+- **2)** wprowadzania dodatkowych zabezpieczeń dokumentów publicznych przed fałszerstwem.
+
 **Art. 16.** Przepisów niniejszego rozdziału nie stosuje się do dokumentów publicznych, których wzór oraz zakres wymaganych zabezpieczeń przed fałszerstwem został określony w przepisach prawa Unii Europejskiej lub prawa międzynarodowego.
 
 #### Rozdział 4 Wytwarzanie blankietów dokumentów publicznych
@@ -267,6 +270,10 @@ Art. 59–71. (pominięte)
 4. Podmioty inne niż wytwórca wyłączny, o których mowa w art. 18, opracowują wewnętrzne zasady bezpieczeństwa wytwarzania blankietów dokumentów publicznych i prowadzą dokumentację potwierdzającą stosowanie tych zasad. Na żądanie Ministra lub emitenta dokumentu publicznego podmioty te przedstawiają tę dokumentację.
 
 **Art. 20.** Wytwórca wyłączny oraz inne podmioty, o których mowa w art. 18, współdziałają z:
+
+- **1)** Szefem Agencji Bezpieczeństwa Wewnętrznego w zakresie sporządzania dokumentów, o których mowa w art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812, 1222 i 1562);
+- **2)** Szefem Służby Wywiadu Wojskowego w zakresie sporządzania dokumentów, o których mowa w art. 39 ust. 4 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2024 r. poz. 1405);
+- **3)** organami, służbami i instytucjami państwowymi, o których mowa w art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, w zakresie sporządzania dokumentów.
 
 **Art. 21.** Minister właściwy do spraw wewnętrznych po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego określi, w drodze rozporządzenia, szczegółowe wymagania w zakresie bezpieczeństwa wytwarzania blankietów dokumentów publicznych, o których mowa w art. 5 ust. 3 i 4, w tym szczegółowe wewnętrzne zasady bezpieczeństwa wytwarzania blankietów dokumentów publicznych, mając na uwadze potrzebę ochrony materiałów i innych elementów używanych do wytwarzania blankietów dokumentów publicznych, półproduktów oraz wytworzonych blankietów dokumentów publicznych przed dostępem osób nieuprawnionych i utratą, a także konieczność prowadzenia przejrzystej ewidencji materiałów i innych elementów używanych do wytwarzania blankietów dokumentów publicznych, półproduktów i blankietów dokumentów publicznych na poszczególnych etapach procesu wytwarzania oraz ewidencji dostępu do pomieszczeń, w których są wytwarzane i przechowywane blankiety dokumentów publicznych, materiały i inne elementy używane do wytwarzania blankietów dokumentów publicznych oraz półprodukty.
 
@@ -383,6 +390,10 @@ Art. 59–71. (pominięte)
 **Art. 37.** Emitent dokumentu publicznego przekazuje Ministrowi dokument publiczny zwrócony przez posiadacza tego dokumentu wskazującego na jego uszkodzenie w wyniku wady technicznej, celem dokonania oceny jakości tego dokumentu.
 
 **Art. 38.** Emitent dokumentu publicznego współdziała z:
+
+- **1)** Szefem Agencji Bezpieczeństwa Wewnętrznego w zakresie sporządzania dokumentów, o których mowa w art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu;
+- **2)** Szefem Służby Wywiadu Wojskowego w zakresie sporządzania dokumentów, o których mowa w art. 39 ust. 4 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego;
+- **3)** organami, służbami i instytucjami państwowymi, o których mowa w art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, w zakresie sporządzania dokumentów.
 
 **Art. 39.**
 
@@ -613,4 +624,12 @@ Art. 59–71. (pominięte)
 **Art. 79.** W okresie 5 lat od dnia wejścia w życie niniejszej ustawy przez doświadczenie, o którym mowa w art. 36 ust. 2, art. 48 ust. 3 i art. 49 ust. 4, należy rozumieć doświadczenie zdobyte w obszarze dokumentów, które służą do identyfikacji osób, rzeczy lub potwierdzają stan prawny lub prawa osób posługujących się takim dokumentem, zabezpieczonych przed fałszerstwem.
 
 **Art. 80.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** (uchylony)
+- **2)** art. 3 ust. 1 pkt 7 i art. 45–48, które wchodzą w życie po upływie 18 miesięcy od dnia ogłoszenia;
+- **3)** art. 5 ust. 2 pkt 27 w zakresie, w jakim dotyczy profesjonalnego dowodu rejestracyjnego, i art. 71, które wchodzą w życie z dniem 11 lipca 2019 r.;
+- **4)** art. 17 ust. 2 i art. 22–33, które wchodzą w życie z dniem 1 sierpnia 2019 r.;
+- **5)** art. 42, który wchodzi w życie po upływie 24 miesięcy od dnia ogłoszenia;
+- **6)** art. 67, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+
 

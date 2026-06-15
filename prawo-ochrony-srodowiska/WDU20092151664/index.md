@@ -8,7 +8,7 @@ pos: 1664
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw
@@ -28,6 +28,66 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092151664) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1664/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 21 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 277 ust. 4 otrzymuje brzmienie: „4. Wpływy z tytułu opłat i kar stanowią przychody Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochody budżetów powiatów i budżetów gmin.”;
+- **2)** w art. 318 ust. 6a otrzymuje brzmienie: „6a. Organ właściwy do rozpatrzenia wniosku przesyła egzemplarz decyzji orzekającej w sprawie terminu płatności opłaty albo kary do właściwego powiatu albo gminy, których dochodów dotyczy odroczenie.”;
+- **3)** w art. 362 ust. 3 i 4 otrzymują brzmienie: „3. W przypadku braku możliwości nałożenia obowiązku podjęcia działań, o których mowa w ust. 1, organ ochrony środowiska może zobowiązać podmiot korzystający ze środowiska do uiszczenia na rzecz budżetów właściwych gmin, z zastrzeżeniem ust. 4, kwoty pieniężnej odpowiadającej wysokości szkód wynikłych z naruszenia stanu środowiska.
+
+4. Jeżeli szkody dotyczą obszaru kilku gmin, organ, o którym mowa w ust. 1, zobowiązuje do wpłaty kwot na rzecz budżetów właściwych gmin proporcjonalnie do wielkości szkód.”;
+
+- **4)** w art. 386 pkt 3 otrzymuje brzmienie: „3) Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkie fundusze ochrony środowiska i gospodarki wodnej;”;
+- **5)** w tytule VII w dziale II tytuł rozdziału 4 otrzymuje brzmienie: „Finansowanie ochrony środowiska i gospodarki wodnej”;
+- **6)** art. 400 otrzymuje brzmienie: „Art. 400. 1. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej, zwany dalej „Narodowym Funduszem”, jest państwową osobą prawną w rozumieniu art. 9 pkt 14 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240).
+
+2. Wojewódzkie fundusze ochrony środowiska i gospodarki wodnej, zwane dalej „wojewódzkimi funduszami”, są samorządowymi osobami prawnymi w rozumieniu art. 9 pkt 14 ustawy, o której mowa w ust. 1.”;
+
+- **7)** po art. 400 dodaje się art. 400a-400r w brzmieniu: „Art. 400a. 1. Finansowanie ochrony środowiska i gospodarki wodnej obejmuje:
+- **1)** opracowywanie planów służących gospodarowaniu wodami, planów ochrony przeciwpowodziowej i przeciwdziałania skutkom suszy oraz tworzenie i utrzymywanie katastru wodnego;
+- **2)** przedsięwzięcia związane z ochroną wód;
+- **3)** wspomaganie osłony hydrologicznej i meteorologicznej społeczeństwa oraz gospodarki, a także rozpoznawanie, kształtowanie i ochronę zasobów wodnych kraju;
+- **4)** wspomaganie realizacji zadań w zakresie rozpoznawania, bilansowania i ochrony wód podziemnych w celu ich racjonalnego wykorzystania przez społeczeństwo i gospodarkę;
+- **5)** wspomaganie realizacji zadań modernizacyjnych i inwestycyjnych, służących ochronie środowiska i gospodarce wodnej, w tym dotyczących instalacji lub urządzeń ochrony przeciwpowodziowej i obiektów małej retencji wodnej;
+- **6)** działania z zakresu zagospodarowania odpadów nielegalnie przemieszczonych, w przypadkach, o których mowa w art. 23-25 rozporządzenia (WE) nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów (Dz. Urz. UE L 190 z 12.07.2006, str.
+- **1)** , oraz wspomaganie realizacji zadań przeciwdziałających nielegalnemu przemieszczaniu odpadów;
+- **7)** koszty gospodarowania odpadami z wypadków, o których mowa w art. 17b ust. 5 ustawy z dnia 27 kwietnia 2001 r. o odpadach;
+- **8)** przedsięwzięcia związane z gospodarką odpadami;
+- **9)** przedsięwzięcia związane z ochroną powierzchni ziemi;
+- **10)** wydatki na prace, o których mowa w art. 7 ust. 2 ustawy z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. Nr 74, poz. 856 oraz z 2003 r. Nr 175, poz.
+- **1693)** ;
+- **11)** badania i upowszechnianie ich wyników oraz postęp techniczny w zakresie ochrony środowiska i gospodarki wodnej;
+- **12)** rozwój przemysłu produkcji środków technicznych i aparatury kontrolno-pomiarowej, służących ochronie środowiska i gospodarce wodnej;
+- **13)** rozwój sieci stacji pomiarowych, laboratoriów i ośrodków przetwarzania informacji, służących badaniu stanu środowiska;
+- **14)** system kontroli wnoszenia przewidzianych ustawą opłat za korzystanie ze środowiska, w szczególności tworzenie baz danych podmiotów korzystających ze środowiska obowiązanych do ponoszenia opłat;
+- **15)** wspomaganie realizacji zadań państwowego monitoringu środowiska, innych systemów kontrolnych i pomiarowych oraz badań stanu środowiska, a także systemów pomiarowych zużycia wody i ciepła;
+- **16)** wspomaganie systemów gromadzenia i przetwarzania danych związanych z dostępem do informacji o środowisku;
+- **17)** działania polegające na zapobieganiu i likwidowaniu poważnych awarii oraz szkód górniczych, a także ich skutków;
+- **18)** prowadzenie obserwacji terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy;
+- **19)** przeciwdziałanie klęskom żywiołowym i likwidowanie ich skutków dla środowiska;
+- **20)** zapobieganie skutkom zanieczyszczenia środowiska lub usuwanie tych skutków, w przypadku gdy nie można ustalić podmiotu za nie odpowiedzialnego;
+- **21)** przedsięwzięcia związane z ochroną powietrza;
+- **22)** wspomaganie wykorzystania lokalnych źródeł energii odnawialnej oraz wprowadzania bardziej przyjaznych dla środowiska nośników energii;
+- **23)** wspomaganie działalności związanej z wytwarzaniem biokomponentów i biopaliw ciekłych;
+- **24)** wspomaganie ekologicznych form transportu;
+- **25)** działania z zakresu rolnictwa ekologicznego bezpośrednio oddziałujące na stan gleby, powietrza i wód, w szczególności prowadzenie gospodarstw rolnych produkujących metodami ekologicznymi położonych na obszarach podlegających ochronie na podstawie przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
+- **26)** działania związane z utrzymaniem i zachowaniem parków oraz ogrodów, będących przedmiotem ochrony na podstawie przepisów o ochronie zabytków i opiece nad zabytkami;
+- **27)** opracowywanie planów ochrony dla obszarów podlegających ochronie na podstawie przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody oraz prowadzenie monitoringu przyrodniczego;
+- **28)** przedsięwzięcia związane z ochroną i przywracaniem chronionych gatunków roślin lub zwierząt;
+- **29)** przedsięwzięcia związane z ochroną przyrody, w tym urządzanie i utrzymanie terenów zieleni, zadrzewień, zakrzewień oraz parków;
+- **30)** zadania związane ze zwiększaniem lesistości kraju oraz zapobieganiem szkodom w lasach i likwidacją tych szkód, spowodowanych przez czynniki biotyczne i abiotyczne;
+- **31)** profilaktykę zdrowotną dzieci zamieszkałych na obszarach, na których występują przekroczenia standardów jakości środowiska;
+- **32)** edukację ekologiczną oraz propagowanie działań proekologicznych i zasady zrównoważonego rozwoju;
+- **33)** przygotowywanie i obsługę konferencji krajowych i międzynarodowych z zakresu ochrony środowiska i gospodarki wodnej;
+- **34)** działania z zakresu gromadzenia i rozpowszechniania informacji o najlepszych dostępnych technikach oraz działania związane z rejestracją i analizą wniosków o wydanie pozwolenia zintegrowanego i wydanych pozwoleń zintegrowanych, o których mowa w art. 206 i 212;
+- **35)** opracowywanie i wdrażanie nowych technik i technologii w zakresie ochrony środowiska i gospodarki wodnej, w szczególności dotyczących ograniczania emisji i zużycia wody, a także efektywnego wykorzystywania paliw;
+- **36)** wydatki na nabywanie, utrzymanie, obsługę i zabezpieczenie specjalistycznego sprzętu i urządzeń technicznych, służących wykonywaniu działań na rzecz ochrony środowiska i gospodarki wodnej;
+- **37)** wojewódzkie programy ochrony środowiska, programy ochrony powietrza, programy ochrony przed hałasem, programy ochrony i rozwoju zasobów wodnych, plany gospodarki odpadami, plany gospodarowania wodami, krajowy program oczyszczania ścieków komunalnych oraz plany działań krótkoterminowych, o których mowa w art. 92 ust. 1, a także wspomaganie realizacji tych programów i planów;
+- **38)** współfinansowanie projektów inwestycyjnych, kosztów operacyjnych i działań realizowanych z udziałem środków pochodzących z Unii Europejskiej niepodlegających zwrotowi;
+- **39)** przygotowywanie dokumentacji przedsięwzięć z zakresu ochrony środowiska i gospodarki wodnej, które mają być współfinansowane ze środków pochodzących z Unii Europejskiej niepodlegających zwrotowi;
+- **40)** współfinansowanie projektów inwestycyjnych, kosztów operacyjnych i działań realizowanych z udziałem środków bezzwrotnych pozyskiwanych w ramach współpracy z organizacjami międzynarodowymi oraz współpracy dwustronnej;
+- **41)** współfinansowanie przedsięwzięć z zakresu ochrony środowiska i gospodarki wodnej realizowanych na zasadach określonych w ustawie z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2009 r. Nr 19, poz. 100);
+- **42)** inne zadania służące ochronie środowiska i gospodarce wodnej, wynikające z zasady zrównoważonego rozwoju i polityki ekologicznej państwa.
+
+2. Minister właściwy do spraw środowiska może określić, w drodze rozporządzenia, szczegółowe warunki udzielania pomocy publicznej na cele z zakresu ochrony środowiska i gospodarki wodnej ze środków pozostających w dyspozycji Narodowego Funduszu oraz wojewódzkich funduszy, uwzględniając konieczność zapewnienia przejrzystości udzielania tej pomocy oraz zapewnienia zgodności udzielanej pomocy z warunkami jej dopuszczalności.
 
 **Art. 400b.**
 
@@ -51,7 +111,8 @@ source: "isap-pdf"
 
 - **1)** dwóch przedstawicieli strony samorządowej Komisji Wspólnej Rządu i Samorządu Terytorialnego;
 - **2)** przedstawiciela ministra właściwego do spraw finansów publicznych;
-- **3)** przedstawiciela ministra właściwego do spraw gospodarki; gionalnego;
+- **3)** przedstawiciela ministra właściwego do spraw gospodarki;
+- **4)** przedstawiciela ministra właściwego do spraw rozwoju regionalnego;
 - **5)** przedstawiciela organizacji ekologicznych o zasięgu ogólnokrajowym, które posiadają struktury organizacyjne na terenie całego kraju, zgłoszonego przez te organizacje i cieszącego się poparciem największej liczby tych organizacji.
 
 3. Minister właściwy do spraw środowiska ogłasza w prasie o zasięgu ogólnokrajowym oraz w Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw środowiska rozpoczęcie procedury zgłaszania kandydatów na przedstawiciela organizacji ekologicznych w Radzie Nadzorczej Narodowego Funduszu, wskazując jednocześnie miejsce i 30-dniowy termin ich zgłaszania.
@@ -81,7 +142,8 @@ source: "isap-pdf"
 - **1)** regionalni dyrektorzy ochrony środowiska albo ich zastępcy, będący regionalnymi konserwatorami przyrody, albo wojewódzcy inspektorzy ochrony środowiska albo ich zastępcy;
 - **2)** przewodniczący regionalnych rad ochrony przyrody albo ich zastępcy albo przewodniczą cy regionalnych komisji do spraw ocen oddziaływania na środowisko albo ich zastępcy;
 - **3)** przewodniczący komisji właściwych do spraw środowiska sejmików województw albo ich zastępcy;
-- **4)** dyrektorzy albo wicedyrektorzy departamentów do spraw ochrony środowiska urzędów marszałkowskich; organizacje działające i posiadające struktury organizacyjne na terenie danego województwa i cieszący się poparciem największej liczby tych organizacji;
+- **4)** dyrektorzy albo wicedyrektorzy departamentów do spraw ochrony środowiska urzędów marszałkowskich;
+- **5)** przedstawiciele organizacji ekologicznych zgłoszeni przez organizacje działające i posiadające struktury organizacyjne na terenie danego województwa i cieszący się poparciem największej liczby tych organizacji;
 - **6)** przedstawiciele samorządów gospodarczych wybrani przez sejmiki województw spośród kandydatów zgłoszonych przez samorządy gospodarcze;
 - **7)** przewodniczący rad wyznaczeni przez ministra właściwego do spraw środowiska spośród pracowników Biura Narodowego Funduszu lub urzędu obsługującego ministra właściwego do spraw środowiska.
 
@@ -105,8 +167,9 @@ source: "isap-pdf"
 
 **Art. 400h.**
 
-1. Do zadań Rady Nadzorczej Narodowego Funduszu oraz rad nadzorczych wojewódzkich funduszy należy odpowiednio: środków Narodowego Funduszu i wojewódzkich funduszy;
+1. Do zadań Rady Nadzorczej Narodowego Funduszu oraz rad nadzorczych wojewódzkich funduszy należy odpowiednio:
 
+- **1)** ustalanie kryteriów wyboru przedsięwzięć finansowanych ze środków Narodowego Funduszu i wojewódzkich funduszy;
 - **2)** zatwierdzanie wniosków Zarządu Narodowego Funduszu oraz zarządów wojewódzkich funduszy w sprawach emisji obligacji własnych oraz zaciągania kredytów i pożyczek;
 - **3)** zatwierdzanie wniosków Zarządu Narodowego Funduszu oraz zarządów wojewódzkich funduszy o udzielenie pożyczek i dotacji, których wartość jednostkowa przekracza:
     - **a)** w przypadku pożyczki lub dotacji z Narodowego Funduszu – równowartość odpowiednio kwoty 1 000 000 euro lub 500 000 euro,
@@ -123,7 +186,8 @@ source: "isap-pdf"
 
 - **1)** przedstawianie ministrowi właściwemu do spraw środowiska oraz ministrowi właściwemu do spraw gospodarki wodnej, w celu uzgodnienia, wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy;
 - **2)** uchwalanie, raz na 4 lata, wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy, do dnia 30 czerwca roku poprzedzającego pierwszy rok objęty tą strategią;
-- **3)** uchwalanie, raz na 4 lata, strategii działania Narodowego Funduszu, wynikającej ze wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy, do dnia 30 września roku poprzedzającego pierwszy rok objęty tą strategią; przedsięwzięć priorytetowych przedkładanych przez wojewódzkie fundusze, planu działalności i zatwierdzanie list priorytetowych programów Narodowego Funduszu, do dnia 31 stycznia każdego roku; listy programów priorytetowych w części dotyczącej gospodarki wodnej wymagają uzgodnienia z Prezesem Krajowego Zarządu Gospodarki Wodnej;
+- **3)** uchwalanie, raz na 4 lata, strategii działania Narodowego Funduszu, wynikającej ze wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy, do dnia 30 września roku poprzedzającego pierwszy rok objęty tą strategią;
+- **4)** uchwalanie, na podstawie polityki ekologicznej państwa i list przedsięwzięć priorytetowych przedkładanych przez wojewódzkie fundusze, planu działalności i zatwierdzanie list priorytetowych programów Narodowego Funduszu, do dnia 31 stycznia każdego roku; listy programów priorytetowych w części dotyczącej gospodarki wodnej wymagają uzgodnienia z Prezesem Krajowego Zarządu Gospodarki Wodnej;
 - **5)** uchwalanie projektów rocznych planów finansowych;
 - **6)** uchwalanie planu finansowego w układzie zadaniowym;
 - **7)** ustalanie zasad udzielania i umarzania pożyczek oraz trybu i zasad udzielania i rozliczania dotacji;
@@ -138,7 +202,8 @@ source: "isap-pdf"
 - **1)** uchwalanie, raz na 4 lata, strategii działania wojewódzkich funduszy, wynikających ze wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy oraz z uwarunkowań regionalnych, do dnia 30 września roku poprzedzającego pierwszy rok objęty tymi strategiami;
 - **2)** uchwalanie, w oparciu o politykę ekologiczną państwa, strategie działania wojewódzkich funduszy i wojewódzkie programy ochrony środowiska, planów działalności wojewódzkich funduszy, do dnia 30 listopada każdego roku, na rok następny;
 - **3)** zatwierdzanie, do dnia 30 czerwca każdego roku, na rok następny list przedsięwzięć priorytetowych wojewódzkich funduszy, po zasięgnięciu opinii Narodowego Funduszu w zakresie finansowania przedsięwzięć z udziałem środków pochodzących z Unii Europejskiej niepodlegających zwrotowi oraz po uzgodnieniu z właściwym dyrektorem regionalnego zarządu gospodarki wodnej w zakresie finansowania przedsięwzięć dotyczących gospodarki wodnej na terenie regionu wodnego;
-- **4)** uchwalanie rocznych planów finansowych; zasad udzielania i rozliczania dotacji;
+- **4)** uchwalanie rocznych planów finansowych;
+- **5)** ustalanie zasad udzielania i umarzania pożyczek oraz trybu i zasad udzielania i rozliczania dotacji;
 - **6)** dokonywanie wyboru podmiotu właściwego do badania sprawozdania finansowego.
 
 **Art. 400i.**
@@ -168,6 +233,7 @@ source: "isap-pdf"
 - **2)** określenie stanowiska;
 - **3)** wymagania związane ze stanowiskiem wynikające z przepisów prawa;
 - **4)** zakres zadań wykonywanych na stanowisku;
+- **5)** wskazanie wymaganych dokumentów;
 - **6)** termin i miejsce składania dokumentów;
 - **7)** informację o metodach i technikach naboru.
 
@@ -193,7 +259,9 @@ source: "isap-pdf"
 
 - **1)** nazwę i adres Narodowego Funduszu;
 - **2)** określenie stanowiska, na które był prowadzony nabór;
-- **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata. zesa Rady Ministrów ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
+- **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata.
+
+13. Umieszczenie w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
 
 14. Do sposobu przeprowadzania naboru na stanowiska, o których mowa w ust. 2 pkt 2, stosuje się odpowiednio przepisy ust. 4-13.
 
@@ -220,7 +288,9 @@ source: "isap-pdf"
 
 5. Prezesi zarządów wojewódzkich funduszy reprezentują wojewódzkie fundusze na zewnątrz, dokonując wszystkich czynności prawnych w zakresie praw i obowiązków majątkowych wojewódzkich funduszy, z zastrzeżeniem art. 400k ust. 5.
 
-6. Prezesi zarządów wojewódzkich funduszy dokonują czynności w sprawach z zakresu prawa pracy w stosunku do pracowników biur wojewódzkich funduszy. ków biur wojewódzkich funduszy na stanowiskach kierowniczych po zasięgnięciu opinii zarządów wojewódzkich funduszy.
+6. Prezesi zarządów wojewódzkich funduszy dokonują czynności w sprawach z zakresu prawa pracy w stosunku do pracowników biur wojewódzkich funduszy.
+
+7. Prezesi zarządów wojewódzkich funduszy zatrudniają pracowników biur wojewódzkich funduszy na stanowiskach kierowniczych po zasięgnięciu opinii zarządów wojewódzkich funduszy.
 
 **Art. 400k.**
 
@@ -239,7 +309,8 @@ source: "isap-pdf"
 - **1)** opracowywanie projektów wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy oraz projektów strategii Narodowego Funduszu, po zasięgnięciu opinii ministra właściwego do spraw rozwoju regionalnego oraz ministra właściwego do spraw gospodarki co do zawartych w nich ustaleń;
 - **2)** opracowywanie projektów planów finansowych w układzie zadaniowym;
 - **3)** sporządzanie i przekazywanie Głównemu Inspektorowi Ochrony Środowiska kwartalnych informacji o podmiotach wpłacających opłaty, o których mowa w art. 12 ust. 2, art. 14 ust. 1 oraz art. 17 ust. 1 i 2 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. Nr 25, poz. 202, z późn. zm. ), z podaniem nazwy, oznaczenia siedziby i adresu albo imienia, nazwiska i adresu tych podmiotów oraz wysokości kwoty wpłaconej z tytułu danej opłaty, w terminie do końca miesiąca po zakończeniu kwartału, którego dotyczą te informacje;
-- **4)** sporządzanie i przekazywanie ministrowi właściwemu do spraw środowiska zbiorczej informacji o: wa w art. 12 ust. 2, art. 14 ust. 1 oraz art. 17 ust. 1 i 2 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji,
+- **4)** sporządzanie i przekazywanie ministrowi właściwemu do spraw środowiska zbiorczej informacji o:
+    - **a)** zgromadzonych wpływach z tytułu opłat, o których mowa w art. 12 ust. 2, art. 14 ust. 1 oraz art. 17 ust. 1 i 2 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji,
     - **b)** liczbie, markach, masie i roku produkcji pojazdów wycofanych z eksploatacji, które zostały przyjęte do stacji demontażu,
     - **c)** masie odpadów poddanych odzyskowi i recyklingowi w stacjach demontażu oraz przekazanych do odzysku i recyklingu, a także masie przeznaczonych do ponownego użycia przedmiotów wyposażenia i części wymontowanych z pojazdów wycofanych z eksploatacji,
     - **d)** masie odpadów pochodzących z pojazdów wycofanych z eksploatacji poddanych rozdrabnianiu oraz masie wydzielonych odpadów przekazanych do odzysku i recyklingu,
@@ -257,6 +328,7 @@ source: "isap-pdf"
 
 4. Do dokonywania czynności prawnych w zakresie praw i obowiązków majątkowych Narodowego Funduszu, oprócz Prezesa Zarządu Narodowego Funduszu, są upoważnione dwie osoby, działające łącznie, spośród:
 
+- **1)** pozostałych członków Zarządu Narodowego Funduszu;
 - **2)** pełnomocników powołanych przez Prezesa Zarządu Narodowego Funduszu, działających w granicach ich umocowania.
 
 5. Do dokonywania czynności prawnych w zakresie praw i obowiązków majątkowych wojewódzkich funduszy, oprócz prezesów zarządów wojewódzkich funduszy, są upoważnione dwie osoby, działające łącznie, spośród:
@@ -287,7 +359,9 @@ source: "isap-pdf"
 - **1)** Biurze Narodowego Funduszu zamieszcza się w miejscu powszechnie dostępnym w siedzibie Narodowego Funduszu oraz w Biuletynie Informacji Publicznej Narodowego Funduszu;
 - **2)** biurze wojewódzkiego funduszu zamieszcza się w miejscu powszechnie dostępnym w siedzibie wojewódzkiego funduszu oraz w Biuletynie Informacji Publicznej wojewódzkiego funduszu.
 
-3. Informacje o kandydatach, którzy zgłosili się do naboru, stanowią informację publiczną w zakresie objętym wymaganiami określonymi w ogłoszeniu o naborze. rze, nie może być krótszy niż 14 dni od dnia opublikowania tego ogłoszenia w Biuletynie Informacji Publicznej.
+3. Informacje o kandydatach, którzy zgłosili się do naboru, stanowią informację publiczną w zakresie objętym wymaganiami określonymi w ogłoszeniu o naborze.
+
+4. Termin składania dokumentów, określony w ogłoszeniu o naborze, nie może być krótszy niż 14 dni od dnia opublikowania tego ogłoszenia w Biuletynie Informacji Publicznej.
 
 5. Po upływie terminu składania dokumentów określonego w ogłoszeniu o naborze niezwłocznie upowszechnia się listę kandydatów, którzy spełniają wymagania formalne określone w ogłoszeniu o naborze, przez umieszczenie w:
 
@@ -316,7 +390,9 @@ source: "isap-pdf"
 11. Informację o wyniku naboru upowszechnia się w:
 
 - **1)** miejscu powszechnie dostępnym w siedzibie Narodowego Funduszu oraz w Biuletynie Informacji Publicznej Narodowego Funduszu;
-- **2)** miejscu powszechnie dostępnym w siedzibie wojewódzkiego funduszu oraz w Biuletynie Informacji Publicznej wojewódzkiego funduszu. ciągu 3 miesięcy od dnia nawiązania stosunku pracy, można zatrudnić na tym samym stanowisku kolejną osobę spośród najlepszych kandydatów wymienionych w protokole tego naboru. Przepisy ust. 9-11 stosuje się odpowiednio.
+- **2)** miejscu powszechnie dostępnym w siedzibie wojewódzkiego funduszu oraz w Biuletynie Informacji Publicznej wojewódzkiego funduszu.
+
+12. Jeżeli stosunek pracy osoby wyłonionej w drodze naboru ustał w ciągu 3 miesięcy od dnia nawiązania stosunku pracy, można zatrudnić na tym samym stanowisku kolejną osobę spośród najlepszych kandydatów wymienionych w protokole tego naboru. Przepisy ust. 9-11 stosuje się odpowiednio.
 
 **Art. 400n.** Zasady prowadzenia rachunkowości Narodowego Funduszu oraz wojewódzkich funduszy określają przepisy o rachunkowości.
 
@@ -344,7 +420,9 @@ source: "isap-pdf"
 - **4)** środki na wydatki majątkowe;
 - **5)** środki przekazane innym podmiotom;
 - **6)** stan należności i zobowiązań na początek i koniec roku;
-- **7)** stan środków pieniężnych na początek i koniec roku. dokonywane zmiany przychodów i kosztów po uzyskaniu zgody ministra właściwego do spraw środowiska, wydanej po uzyskaniu opinii sejmowej komisji właściwej do spraw budżetu. O dokonanych zmianach należy niezwłocznie powiadomić ministra właściwego do spraw finansów publicznych.
+- **7)** stan środków pieniężnych na początek i koniec roku.
+
+5. W rocznym planie finansowym Narodowego Funduszu mogą być dokonywane zmiany przychodów i kosztów po uzyskaniu zgody ministra właściwego do spraw środowiska, wydanej po uzyskaniu opinii sejmowej komisji właściwej do spraw budżetu. O dokonanych zmianach należy niezwłocznie powiadomić ministra właściwego do spraw finansów publicznych.
 
 6. Narodowy Fundusz sporządza plan finansowy w układzie zadaniowym na rok budżetowy i dwa kolejne lata, w układzie funkcji państwa, zadań budżetowych i podzadań.
 
@@ -374,7 +452,7 @@ source: "isap-pdf"
 
 - **8)** art. 401 otrzymuje brzmienie: „Art. 401.1. Przychodami Narodowego Funduszu i wojewódzkich funduszy są wpływy z tytułu opłat za korzystanie ze środowiska i administracyjnych kar pieniężnych pobieranych na podstawie ustawy oraz przepisów szczególnych.
 
-2. Przychodami Narodowego Funduszu i wojewódzkich funduszy mogą być dobrowolne wpłaty, zapisy, darowizny, świadczenia sięwzięć organizowanych na rzecz ochrony środowiska i gospodarki wodnej.
+2. Przychodami Narodowego Funduszu i wojewódzkich funduszy mogą być dobrowolne wpłaty, zapisy, darowizny, świadczenia rzeczowe i wpływy pochodzące z fundacji oraz wpływy z przedsięwzięć organizowanych na rzecz ochrony środowiska i gospodarki wodnej.
 
 3. Przychodami Narodowego Funduszu i wojewódzkich funduszy mogą być środki pochodzące z budżetu Unii Europejskiej oraz środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi, inne niż środki pochodzące z budżetu Unii Europejskiej.
 
@@ -393,7 +471,7 @@ source: "isap-pdf"
 - **5)** wpływy z opłat ustalonych na podstawie przepisów ustawy z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową (Dz. U. Nr 121, poz. 1263 oraz z 2005 r. Nr 175, poz. 1458 i Nr 203, poz. 1683);
 - **6)** wpływy z kar pieniężnych wymierzanych na podstawie art. 33 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. Nr 169, poz. 1199, z 2007 r. Nr 35, poz. 217 i Nr 99, poz. 666 oraz z 2009 r. Nr 3, poz. 11);
 - **7)** wpływy z opłat za przyznanie uprawnień do emisji i opłat za wpis do Krajowego Rejestru Uprawnień do Emisji pobieranych na podstawie ustawy z dnia 22 grudnia 2004 r. o handlu uprawnieniami do emisji do powietrza gazów cieplarnianych i innych substancji, a także wpływy z kar pieniężnych wymierzanych na podstawie art. 50 ust. 1 tej ustawy;
-- **8)** wpływy z opłat produktowych pobieranych na podstawie przepisów o obowiązkach przedsiębiorców w zakresie gotowej i opłacie depozytowej;
+- **8)** wpływy z opłat produktowych pobieranych na podstawie przepisów o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej i opłacie depozytowej;
 - **9)** wpływy z opłat, o których mowa w art. 12 ust. 2, art. 14 ust. 1 oraz art. 17 ust. 1 i 2 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji;
 - **10)** wpływy z opłat, o których mowa w art. 64 ust. 2 i 3 oraz art. 69 ust. 2 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym, a także wpływy z kar pieniężnych wymierzanych na podstawie art. 80 ust. 1-9 tej ustawy;
 - **11)** środki przekazane przez wprowadzających sprzęt na podstawie art. 23a ust. 4 pkt 2 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym w wykonaniu obowiązku prowadzenia publicznych kampanii edukacyjnych;
@@ -409,7 +487,7 @@ source: "isap-pdf"
 
 3. Środki Narodowego Funduszu w wysokości nie mniejszej niż połowa kwoty przychodów, o których mowa w art. 401 ust. 7 pkt 2, po pomniejszeniu o koszty obsługi tych przychodów, przeznacza się na finansowanie potrzeb górnictwa służących ograniczeniu negatywnego oddziaływania na środowisko wynikającego z wydobywania kopalin i likwidacji zakładów górniczych.
 
-4. Środki Narodowego Funduszu w wysokości nie mniejszej niż kwota przychodów, o których mowa w art. 401 ust. 7 pkt 3, po na:
+4. Środki Narodowego Funduszu w wysokości nie mniejszej niż kwota przychodów, o których mowa w art. 401 ust. 7 pkt 3, po pomniejszeniu o koszty obsługi tych przychodów, przeznacza się na:
 
 - **1)** utrzymanie katastru wodnego;
 - **2)** opracowanie planów gospodarowania wodami;
@@ -432,7 +510,7 @@ source: "isap-pdf"
 - **1)** finansowanie funkcjonowania systemu handlu uprawnieniami do emisji, w tym prowadzenie Krajowego Rejestru Uprawnień do Emisji i realizację zadań Krajowego Administratora Systemu Handlu Uprawnieniami do Emisji oraz zadań dotyczących monitorowania wielkości emisji substancji objętych tym systemem;
 - **2)** finansowanie działalności Krajowego ośrodka bilansowania i zarządzania emisjami, o którym mowa w art. 3 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji.
 
-9. Środki Narodowego Funduszu w wysokości nie mniejszej niż kwota przychodów, o których mowa w art. 401 ust. 7 pkt 8-13, po na:
+9. Środki Narodowego Funduszu w wysokości nie mniejszej niż kwota przychodów, o których mowa w art. 401 ust. 7 pkt 8-13, po pomniejszeniu o koszty obsługi tych przychodów, przeznacza się na:
 
 - **1)** finansowanie działań w zakresie:
     - **a)** odzysku i recyklingu odpadów opakowaniowych,
@@ -461,7 +539,7 @@ source: "isap-pdf"
     - **e)** unieszkodliwiania – zużytego sprzętu elektrycznego i elektronicznego;
 
 - **8)** dofinansowanie działań w zakresie:
-    - **a)** gospodarowania odpadami w przypadkach, o których mowa w art. 23-25 rozporządzenia (WE) nr 1013/2006 2006 r. w sprawie przemieszczania odpadów,
+    - **a)** gospodarowania odpadami w przypadkach, o których mowa w art. 23-25 rozporządzenia (WE) nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów,
     - **b)** szkolenia organów administracji publicznej wykonujących obowiązki Rzeczypospolitej Polskiej związane z kontrolą i nadzorem nad międzynarodowym przemieszczaniem odpadów,
     - **c)** zakupu sprzętu i oprogramowania dla organów, o których mowa w lit. b.
 
@@ -479,7 +557,7 @@ source: "isap-pdf"
 - **2)** pokrycie wydatków związanych z obsługą Rady Konsultacyjnej, o której mowa w art. 24 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji;
 - **3)** pokrycie kosztów związanych z wykonywaniem zadań, o których mowa w art. 25 ust. 2 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji.”;
 - **12)** w art. 402:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Zarząd województwa oraz wojewódzki inspektor ochrony środowiska prowadzą wyodrębnione rachunki bankowe w celu gromadzenia i redywiększone o przychody z oprocentowania środków na rachunkach bankowych, są przekazywane na rachunki bankowe Narodowego Funduszu, wojewódzkich funduszy oraz na rachunki budżetów powiatów i budżetów gmin, w terminie do końca następnego miesiąca po ich wpływie na wyodrębnione rachunki bankowe zarządu województwa i wojewódzkiego inspektora ochrony środowiska.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zarząd województwa oraz wojewódzki inspektor ochrony środowiska prowadzą wyodrębnione rachunki bankowe w celu gromadzenia i redystrybucji wpływów, o których mowa w art. 401 ust. 1. Wpływy te, powiększone o przychody z oprocentowania środków na rachunkach bankowych, są przekazywane na rachunki bankowe Narodowego Funduszu, wojewódzkich funduszy oraz na rachunki budżetów powiatów i budżetów gmin, w terminie do końca następnego miesiąca po ich wpływie na wyodrębnione rachunki bankowe zarządu województwa i wojewódzkiego inspektora ochrony środowiska.”,
     - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Zarząd województwa pomniejsza wpływy, o których mowa w art. 401 ust. 1, powiększone o przychody z oprocentowania środków na rachunku bankowym, o opłaty poniesione na egzekucję należności oraz o koszty obsługi rachunku bankowego.
 
 1b. Wojewódzki inspektor ochrony środowiska pomniejsza wpływy, o których mowa w art. 401 ust. 1, powiększone o przychody z oprocentowania środków na rachunku bankowym, o opłaty poniesione na egzekucję należności oraz o koszty obsługi rachunku bankowego.”,
@@ -495,7 +573,7 @@ source: "isap-pdf"
 8a. Wpływy z kar pieniężnych, o których mowa w art. 32 i 33 ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów, wojewódzcy inspektorzy ochrony środowiska przekazują na rachunek bankowy Narodowego Funduszu w terminie do końca następnego miesiąca po upływie każdego kwartału.”,
 
 - **e)** uchyla się ust. 9,
-- **f)** ust. 10 i 11 otrzymują brzmienie: „10. Wpływy z kar, o których mowa w art. 97-102 ustawy z dnia 5 marca 2009 r. o bateriach i akumulatorach, wojewódzcy inspektorzy ochrony terminie do końca następnego miesiąca po upływie każdego kwartału.
+- **f)** ust. 10 i 11 otrzymują brzmienie: „10. Wpływy z kar, o których mowa w art. 97-102 ustawy z dnia 5 marca 2009 r. o bateriach i akumulatorach, wojewódzcy inspektorzy ochrony środowiska przekazują na rachunek bankowy Narodowego Funduszu w terminie do końca następnego miesiąca po upływie każdego kwartału.
 
 11. Wojewódzki inspektor ochrony środowiska przed przekazaniem na rachunek bankowy Narodowego Funduszu wpływów z kar, o których mowa w art. 97-102 ustawy z dnia 5 marca 2009 r. o bateriach i akumulatorach, pomniejsza je o 20%, a kwotę uzyskaną z tytułu pomniejszenia przeznacza na koszty egzekucji ustalonej należnej kary oraz koszty weryfikacji ustalenia jej wysokości.”;
 
@@ -512,8 +590,8 @@ source: "isap-pdf"
 4. Od kwot niewpłaconych w terminie nalicza się odsetki w wysokości ustalonej dla zaległości podatkowych.”;
 
 - **15)** uchyla się art. 405-410;
-- **16)** w art. 410a:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Środki przeznaczone na dopłaty do demontażu pojazdów wycofanych z eksploatacji są dzielone w stosunku do masy pojazdów wycofanych z eksploatacji przyjętych do stacji demontażu, wykazanych w sprawozo recyklingu pojazdów wycofanych z eksploatacji.”,
+- **16)** w art. 410a: o recyklingu pojazdów wycofanych z eksploatacji.”,
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Środki przeznaczone na dopłaty do demontażu pojazdów wycofanych z eksploatacji są dzielone w stosunku do masy pojazdów wycofanych z eksploatacji przyjętych do stacji demontażu, wykazanych w sprawozdaniu, o którym mowa w art. 30 ust. 1 ustawy z dnia 20 stycznia 2005 r.
     - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wysokość dopłaty do demontażu pojazdów wycofanych z eksploatacji wynosi 500 zł za każdą tonę pojazdów wycofanych z eksploatacji przyjętych do stacji demontażu.”,
     - **c)** ust. 3 otrzymuje brzmienie: „3. Wniosek o dopłatę przesyła się do Narodowego Funduszu w terminie do dnia 31 marca roku następującego po roku, w którym przedsiębiorca prowadzący stację demontażu spełnił warunki, o których mowa w ust. 1 pkt 1.”,
     - **d)** po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „3a. Narodowy Fundusz przekazuje dopłatę w terminie do dnia 31 lipca roku, w którym przedsiębiorca złożył wniosek, o którym mowa w ust. 3, z zastrzeżeniem ust. 3c.
@@ -529,6 +607,7 @@ source: "isap-pdf"
     - **a)** ust. 1 otrzymuje brzmienie: „1. Finansowanie działalności, o której mowa w art. 400a ust. 1 oraz art.
 
 - **1)** udzielanie oprocentowanych pożyczek, w tym pożyczek przeznaczonych na zachowanie płynności finansowej przedsięwzięć współfinansowanych ze środków Unii Europejskiej;
+- **2)** udzielanie dotacji, w tym:
     - **a)** dopłaty do oprocentowania kredytów bankowych,
     - **b)** dokonywanie częściowych spłat kapitału kredytów bankowych,
     - **c)** dopłaty do oprocentowania lub ceny wykupu obligacji,
@@ -549,7 +628,7 @@ source: "isap-pdf"
 - **f)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Dopłaty, o których mowa w ust. 1 pkt 2 lit. c, stosuje się do obligacji emitowanych na cele związane z działalnością, o której mowa w art.
 - **g)** ust. 9 i 10 otrzymują brzmienie: „9. Formy umowy cywilnoprawnej nie stosuje się do przekazywania środków na nagrody za działalność na rzecz ochrony środowiska i gospodarki wodnej niezwiązaną z wykonywaniem obowiązków pracowników administracji rządowej i samorządowej, o których mowa w ust. 1 pkt 3, jeżeli ich fundatorem jest Narodowy Fundusz lub wojewódzkie fundusze.
 
-10. Narodowy Fundusz oraz wojewódzkie fundusze mogą udostępniać środki finansowe bankom z przeznaczeniem na udzielanie kredytów przedsięwzięcia z zakresu zadań ochrony środowiska i gospodarki wodnej oraz potrzeb geologii, a także dopłaty do oprocentowania lub częściowe spłaty kapitału udzielanych na ten cel kredytów bankowych.”,
+10. Narodowy Fundusz oraz wojewódzkie fundusze mogą udostępniać środki finansowe bankom z przeznaczeniem na udzielanie kredytów bankowych, pożyczek lub dotacji na wskazane przez siebie programy i przedsięwzięcia z zakresu zadań ochrony środowiska i gospodarki wodnej oraz potrzeb geologii, a także dopłaty do oprocentowania lub częściowe spłaty kapitału udzielanych na ten cel kredytów bankowych.”,
 
 - **h)** po ust. 10 dodaje się ust. 10a-10f w brzmieniu: „10a. Dopłaty do oprocentowania i częściowe spłaty kapitału kredytów bankowych, o których mowa w ust. 10, są realizowane przez Narodowy Fundusz oraz wojewódzkie fundusze za pośrednictwem banków na podstawie zawartych z nimi umów.
 
@@ -570,7 +649,9 @@ source: "isap-pdf"
 
 2. Narodowy Fundusz mo że obejmować udziały lub akcje w spółkach innych niż określone w ust. 1 wyłącznie w zamian za nieściągalne wierzytelności wynikające z umów zawartych z tym Funduszem.
 
-3. Objęcie, nabycie lub zbycie udziałów lub akcji w spółkach oraz objęcie, nabycie lub zbycie obligacji, których emitentem jest podmiot inny niż Skarb Państwa, przez Narodowy Fundusz wymaga zgody ministra właściwego do spraw środowiska. rych emitentem jest podmiot inny niż Skarb Państwa, przez wojewódzki fundusz wymaga zgody zarządu województwa.
+3. Objęcie, nabycie lub zbycie udziałów lub akcji w spółkach oraz objęcie, nabycie lub zbycie obligacji, których emitentem jest podmiot inny niż Skarb Państwa, przez Narodowy Fundusz wymaga zgody ministra właściwego do spraw środowiska.
+
+4. Zbycie udziałów lub akcji w spółkach oraz zbycie obligacji, których emitentem jest podmiot inny niż Skarb Państwa, przez wojewódzki fundusz wymaga zgody zarządu województwa.
 
 5. Zarząd Narodowego Funduszu przedstawia ministrowi właściwemu do spraw środowiska, raz w roku, nie później niż do dnia 30 czerwca, informację o posiadanych udziałach, akcjach i obligacjach.
 
@@ -589,11 +670,26 @@ source: "isap-pdf"
 
 **Art. 5.** W ustawie z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej i opłacie depozytowej (Dz. U. z 2007 r. Nr 90, poz. 607 oraz z 2009 r. Nr 79, poz. 666) wprowadza się następujące zmiany:
 
+- **1)** w art. 27 ust. 2 otrzymuje brzmienie: „2. Wpływy z tytułu opłaty produktowej oraz dodatkowej opłaty produktowej, o której mowa w art. 17 ust. 2, powiększone o przychody z oprocentowania rachunków bankowych i pomniejszone o dochody urzędów marszałkowskich, o których mowa w ust. 3, urzędy marszałkowskie przekazują w terminie 30 dni po upływie każdego kwartału na rachunek bankowy Narodowego Funduszu.”;
+- **2)** w art. 29:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Wpływy z tytułu opłaty produktowej od wprowadzenia na rynek krajowy produktów w opakowaniach wymienionych w załączniku nr 1 do ustawy są gromadzone na rachunku bankowym Narodowego Funduszu.
+
+2. W terminach do dnia 31 maja oraz do dnia 30 listopada roku kalendarzowego następującego po roku, którego opłata dotyczy, Narodowy Fundusz przekazuje 70% zgromadzonych wpływów, o których mowa w ust. 1, wojewódzkim funduszom na zasadach okreś lonych w ust. 4.”,
+
+- **b)** uchyla się ust. 5;
+- **3)** art. 30 otrzymuje brzmienie: „Art. 30. Wpływy z tytułu opłaty produktowej od wprowadzenia na rynek krajowy produktów wymienionych w poz. 2-4 w załączniku nr 2 do ustawy są gromadzone na rachunku bankowym Narodowego Funduszu.”;
+- **4)** art. 32 i 33 otrzymują brzmienie: „Art. 32. Wpływy z tytułu opłaty produktowej od wprowadzenia na rynek krajowy produktów wymienionych w poz. 3 w załączniku nr 3 do ustawy są gromadzone na rachunku bankowym Narodowego Funduszu.
+
 **Art. 33.** Wpływy z tytułu opłaty produktowej od wprowadzenia na rynek krajowy produktów wymienionych w poz. 1 w załączniku nr 3 do ustawy są gromadzone na rachunku bankowym Narodowego Funduszu.”;
+
+- **5)** uchyla się art. 36.
 
 **Art. 6.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm. ) art. 152 otrzymuje brzmienie: „Art. 152. Należności i opłaty, o których mowa w art. 142, stanowią przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.”.
 
 **Art. 7.** W ustawie z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy (Dz. U. Nr 213, poz. 1800, z późn. zm. ) w art. 32a:
+
+- **1)** w ust. 1 pkt 4 otrzymuje brzmienie: „4) z tytułu opłat za gospodarcze korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz. U. z 1994 r. Nr 49, poz. 196, z późn. zm. ), opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm. ) oraz opłat za szczególne korzystanie z wód w rozumieniu przepisów ustawy z dnia 24 października 1974 r. – Prawo wodne (Dz. U. Nr 38, poz. 230, z późn. zm. ) stanowiących przychody Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochody budżetów powiatów i budżetów gmin;”;
+- **2)** ust. 3 otrzymuje brzmienie: „3. Nie podlegają restrukturyzacji również zaległości podatkowe i celne określone w decyzji właściwego organu podatkowego, organu celnego lub organu kontroli skarbowej oraz należności z tytułu składek na ubezpieczenia społeczne, składek na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych, wpłat do Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych oraz opłat i kar dla Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz budżetów powiatów i budżetów gmin, oraz opłat za użytkowanie wieczyste gruntów Skarbu Państwa, określone w wyniku postępowania kontrolnego, jeżeli zaległości te zostały określone jako wynikające z czynności prawnych mających na celu obejście przepisów podatkowych, o należnościach celnych, o ubezpieczeniach społecznych lub przepisów dotyczących wymiaru i poboru tych należności.”.
 
 **Art. 8.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2008 r. Nr 88, poz. 539, z późn. zm. ) w art. 8 dodaje się ust. 4 w brzmieniu: „4. Dochodami jednostek samorządu terytorialnego mogą być dotacje udzielane przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkie fundusze ochrony środowiska i gospodarki wodnej na podstawie odrębnych przepisów.”.
 
@@ -601,15 +697,48 @@ source: "isap-pdf"
 
 **Art. 10.** W ustawie z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową (Dz. U. Nr 121, poz. 1263 oraz z 2005 r. Nr 175, poz. 1458 i Nr 203, poz. 1683) wprowadza się następujące zmiany:
 
+- **1)** w art. 25 ust. 3 i 4 otrzymują brzmienie: „3. Wpływy z tytułu opłaty za substancje kontrolowane powiększone o przychody z oprocentowania rachunków bankowych i pomniejszone o dochody urzędów marszałkowskich, o których mowa w ust. 2, urzędy marszałkowskie przekazują w terminie do dnia 30 kwietnia roku następującego po roku, którego dotyczy obowiązek wpłaty, na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+
+4. Wpływy z tytułu dodatkowych opłat za substancje kontrolowane powiększone o przychody z oprocentowania rachunków bankowych i pomniejszone o dochody urzędów marszałkowskich urzędy marszałkowskie przekazują w terminie do dnia 31 grudnia roku następującego po roku, którego dotyczy obowiązek wpłaty, na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.”;
+
+- **2)** uchyla się art. 26.
+
 **Art. 11.** W ustawie z dnia 22 grudnia 2004 r. o handlu uprawnieniami do emisji do powietrza gazów cieplarnianych i innych substancji (Dz. U. Nr 281, poz. 2784 oraz z 2008 r. Nr 199, poz. 1227) wprowadza się następujące zmiany:
+
+- **1)** w art. 12 ust. 2 otrzymuje brzmienie: „2. Opłatę, o której mowa w ust. 1, wnosi się na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.”;
+- **2)** w art. 25 ust. 5 otrzymuje brzmienie: „5. Opłatę, o której mowa w ust. 1, wnosi się na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.”;
+- **3)** art. 52 otrzymuje brzmienie: „Art. 52. Kary pieniężne, o których mowa w art. 50 ust. 1, wnosi się na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.”.
 
 **Art. 12.** W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. Nr 25, poz. 202, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 12 ust. 2 otrzymuje brzmienie: „2. Wprowadzający pojazd, o którym mowa w ust. 1, który nie zapewnia sieci, oraz podmiot niebędący przedsiębiorcą, który dokonuje wewnątrzwspólnotowego nabycia lub importu pojazdu, są obowiązani do wniesienia, na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, opłaty w wysokości 500 zł od każdego pojazdu wprowadzonego na terytorium kraju. Dowód wpłaty powinien zawierać określenie cech identyfikacyjnych pojazdu, o których mowa w art. 66 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.”;
+- **2)** w art. 16 ust. 2 otrzymuje brzmienie: „2. Opłata za brak sieci jest wpłacana na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej do dnia 31 marca roku następującego po roku, którego opłata dotyczy.”;
+- **3)** po art. 17 dodaje się art. 17a w brzmieniu: „Art. 17a. Na wniosek podmiotu, który dokonał wpłaty, o której mowa w art. 12 ust. 2, nienależnie lub w nadmiernej wysokości, dokonuje się zwrotu nadpłaconej kwoty.”.
+
 **Art. 13.** W ustawie z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 6 w ust. 1 w pkt 4 część wspólna kończąca wyliczenie otrzymuje brzmienie: „– stanowiących przychody Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochody budżetów powiatów i budżetów gmin, niezależnie od tego, na rachunek bankowy którego organu administracji publicznej opłaty te powinny być wpłacone przez zakład, z zastrzeżeniem art. 9.”;
+- **2)** w art. 8 w ust. 2 pkt 4 otrzymuje brzmienie: „4) opłat i kar dla Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, budżetów powiatów i budżetów gmin;”;
+- **3)** w art. 9 ust. 1 otrzymuje brzmienie: „1. Przepisy dotyczące umorzenia zobowiązań publicznoprawnych stosuje się odpowiednio do należności z tytułu zobowiązań podatkowych stanowiących dochody budżetów jednostek samorządu terytorialnego oraz zobowiązań publicznoprawnych, o których mowa w art. 6 ust. 1 pkt 4 i 5, w części dotyczącej przychodów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochodów budżetów powiatów i bud żetów gmin, jeżeli organ stanowiący właściwej jednostki samorządu terytorialnego podejmie uchwałę o restrukturyzacji tych należności.”.
 
 **Art. 14.** W ustawie z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. Nr 180, poz. 1495, z 2008 r. Nr 223, poz. 1464 oraz z 2009 r. Nr 79, poz.
 
+- **666)** w art. 23a w ust. 4 pkt 2 otrzymuje brzmienie: „2) przekazuje, w terminie do dnia 30 czerwca następnego roku, na rachunek Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej”.
+
 **Art. 15.** W ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. Nr 130, poz. 1070) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 uchyla się ust. 2;
+- **2)** w art. 7 ust. 8 otrzymuje brzmienie: „8. Jeżeli przedsięwzięcia, o których mowa w art. 6 ust. 2 pkt 4 i 5, są realizowane przy wsparciu ze środków publicznych, informacje o wielkościach emisji unikniętej lub emisji zredukowanej i terminach osiągnięcia tych redukcji oraz informacje o wielkościach emisji i całkowitych kosztach inwestycji, w tym wysokości wsparcia ze środków publicznych, przekazują:
+- **1)** Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej, zwany dalej „Narodowym Funduszem”, w zakresie środków wydatkowanych i przekazywanych przez Narodowy Fundusz oraz wojewódzkie fundusze ochrony środowiska i gospodarki wodnej;
+- **2)** powiaty;
+- **3)** gminy;
+- **4)** dysponenci środków publicznych, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240).”;
+- **3)** po art. 59 dodaje się art. 59a w brzmieniu: „Art. 59a. Pierwsze informacje, o których mowa w art. 7 ust. 8, Narodowy Fundusz, powiaty, gminy i dysponenci środków publicznych, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, sporządzają za rok 2010 i przekazują do końca lutego 2011 r.”;
+- **4)** po art. 60 dodaje się art. 60a w brzmieniu: „Art. 60a. 1. Do opłaty za wprowadzanie gazów lub pyłów do powietrza, o której mowa w art. 273 ust. 1 pkt 1 ustawy zmienianej w art. 56, należnej za okres do dnia 31 grudnia 2010 r. stosuje się przepisy art. 285-288 ustawy zmienianej w art. 56, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
+
+2. Opłatę za wprowadzanie gazów lub pyłów do powietrza za pierwsze półrocze 2011 r. wnosi się w wysokości 50% sumy opłat za wprowadzanie gazów i pyłów do powietrza należnych za pierwsze i drugie półrocze 2010 r.”;
+
+- **5)** art. 62 otrzymuje brzmienie: „Art. 62. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 56 pkt 7, który wchodzi w życie z dniem 1 stycznia 2011 r.”.
 
 **Art. 16.**
 
@@ -637,7 +766,8 @@ source: "isap-pdf"
 - **2)** wojewódzkie fundusze ochrony środowiska i gospodarki wodnej, o których mowa w ustawie zmienianej w art. 1, zwane dalej „wojewódzkimi funduszami”, stają się samorządowymi osobami prawnymi w rozumieniu art. 9 pkt 14 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, zwanymi dalej „samorządowymi osobami prawnymi”;
 - **3)** mienie, w tym nieruchomości, należności i zobowiązania, w tym nieściągnięte należności i nieuregulowane zobowiązania, Narodowego Funduszu stają się mieniem, należnościami i zobowiązaniami państwowej osoby prawnej;
 - **4)** mienie, w tym nieruchomości, należności i zobowiązania, w tym nieściągnięte należności i nieuregulowane zobowiązania, wojewódzkich funduszy stają się mieniem, należnościami i zobowiązaniami samorządowych osób prawnych;
-- **5)** środki pieniężne Narodowego Funduszu stają się przychodami państwowej osoby prawnej; wych osób prawnych;
+- **5)** środki pieniężne Narodowego Funduszu stają się przychodami państwowej osoby prawnej;
+- **6)** środki pieniężne wojewódzkich funduszy stają się przychodami samorządowych osób prawnych;
 - **7)** poręczenia i gwarancje udzielone przez Narodowy Fundusz stają się poręczeniami i gwarancjami państwowej osoby prawnej;
 - **8)** wymagalne zobowiązania z tytułu poręczeń i gwarancji, o których mowa w pkt 7, są pokrywane ze środków państwowej osoby prawnej;
 - **9)** poręczenia i gwarancje udzielone przez wojewódzkie fundusze stają się poręczeniami i gwarancjami samorządowych osób prawnych;
@@ -656,7 +786,9 @@ source: "isap-pdf"
 
 4. Środki pieniężne wojewódzkich funduszy, o których mowa w ust. 1 pkt 6, oraz odzyskane należności, pomniejszone o zobowiązania, o których mowa w ust. 1 pkt 4, przeznacza się na finansowanie ochrony środowiska i gospodarki wodnej, w zakresie określonym w art. 400a ust. 1 pkt 1-9 i 11-42 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-5. Środki pieniężne zgromadzone na wyodrębnionych rachunkach bankowych Narodowego Funduszu przeznaczonych do gromadzenia przychodów wymienionych w art. 401 ust. 2, 4, 5, 7, 9, 11, 12a, 13, 13a, 13c i 13e oraz art. 401a ust. 1 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, w wysokości przyjętej według stanu na dzień 31 grudnia 2009 r., stają się przychodami wymienionymi w art. 401 ust. 7 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą i są uwzględniane przy ustalaniu wysokości zobowiązań określonych w art. 401c ust. 1-9 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą. się przepisu art. 104 ust. 1 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241).
+5. Środki pieniężne zgromadzone na wyodrębnionych rachunkach bankowych Narodowego Funduszu przeznaczonych do gromadzenia przychodów wymienionych w art. 401 ust. 2, 4, 5, 7, 9, 11, 12a, 13, 13a, 13c i 13e oraz art. 401a ust. 1 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, w wysokości przyjętej według stanu na dzień 31 grudnia 2009 r., stają się przychodami wymienionymi w art. 401 ust. 7 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą i są uwzględniane przy ustalaniu wysokości zobowiązań określonych w art. 401c ust. 1-9 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+6. Do akcji, udziałów i obligacji, o których mowa w ust. 1 pkt 11 i 12, nie stosuje się przepisu art. 104 ust. 1 ustawy z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241).
 
 **Art. 18.**
 
@@ -676,8 +808,9 @@ source: "isap-pdf"
 
 1. Prezes Zarządu i zastępcy Prezesa Zarządu Narodowego Funduszu, prezesi zarządów i zastępcy prezesów zarządów wojewódzkich funduszy oraz członkowie Rady Nadzorczej Narodowego Funduszu i rad nadzorczych wojewódzkich funduszy, powołani na podstawie dotychczasowych przepisów, pełnią swoje funkcje do czasu powołania organów odpowiednio państwowej osoby prawnej oraz organów samorządowych osób prawnych, na podstawie art. 400d ust. 6, art. 400f ust. 7, art. 400i ust. 2 i art. 400j ust. 2 ustawy zmienianej w art. 1.
 
-2. Z dniem powołania organów państwowej osoby prawnej oraz organów samorządowych osób prawnych: rodowego Funduszu oraz prezesów zarządów i zastępców prezesów zarządów wojewódzkich funduszy;
+2. Z dniem powołania organów państwowej osoby prawnej oraz organów samorządowych osób prawnych:
 
+- **1)** wygasają akty powołania Prezesa Zarządu i zastępców Prezesa Zarządu Narodowego Funduszu oraz prezesów zarządów i zastępców prezesów zarządów wojewódzkich funduszy;
 - **2)** ulegają rozwiązaniu Rada Nadzorcza Narodowego Funduszu oraz rady nadzorcze wojewódzkich funduszy.
 
 **Art. 20.**
@@ -701,7 +834,9 @@ source: "isap-pdf"
 
 8. Wcześniejsze rozwiązanie przez pracodawcę stosunku pracy z pracownikami, o których mowa w ust. 1, może nastąpić za wypowiedzeniem.
 
-9. W przypadku rozwiązania stosunków pracy w trybie ust. 8 albo w przypadku nieprzyjęcia zaproponowanych warunków pracy i płacy pracownikom przysługuje odprawa pieniężna, o której mowa w art. 8 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. Nr 90, poz. 844, z późn. zm. ). W pozostałym zakresie przepisów ustawy, o której mowa w zdaniu pierwszym, nie stosuje się. ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ).
+9. W przypadku rozwiązania stosunków pracy w trybie ust. 8 albo w przypadku nieprzyjęcia zaproponowanych warunków pracy i płacy pracownikom przysługuje odprawa pieniężna, o której mowa w art. 8 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. Nr 90, poz. 844, z późn. zm. ). W pozostałym zakresie przepisów ustawy, o której mowa w zdaniu pierwszym, nie stosuje się.
+
+10. Do pracowników, o których mowa w ust. 1, stosuje się przepisy art. 23 § 4 i 6 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ).
 
 **Art. 21.**
 
@@ -716,4 +851,8 @@ source: "isap-pdf"
 **Art. 23.** Przepisy art. 402 ust. 1b i 11 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, tracą moc z dniem 1 stycznia 2011 r.
 
 **Art. 24.** Ustawa wchodzi w życie z dniem 1 stycznia 2010 r., z wyjątkiem:
+
+- **1)** art. 1 pkt 7 w zakresie art. 400f ust. 10, który wchodzi w życie z dniem 1 lipca 2010 r.;
+- **2)** art. 1 pkt 12 lit. e, pkt 14, pkt 18 i pkt 20 lit. c, które wchodzą w życie z dniem 1 stycznia 2011 r.
+
 

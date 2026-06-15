@@ -8,7 +8,7 @@ pos: 722
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o obrocie instrumentami finansowymi
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-21 |
 | Data wydania | 2024-05-14 |
-| Ostatnia zmiana | 2026-04-15 |
+| Ostatnia zmiana | 2026-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/722/text.pdf) |
 
 Art. 110zc. 1. W przypadku wystąpienia sytuacji zagrażającej stabilności finansowej lub powstania niebezpieczeństwa niewypłacalności lub utraty płynności domu maklerskiego na poziomie jednostkowym lub skonsolidowanym dom maklerski niezwłocznie zawiadamia o tym Komisję oraz przedstawia jej program postępowania naprawczego.
@@ -327,6 +327,13 @@ Art. 110zzh. 1. Jeżeli dom maklerski jest zagrożony upadłością, Komisja inf
 2. Dom maklerski jest zagrożony upadłością, jeżeli spełniona jest przynajmniej jedna przesłanka, o której mowa w art. 101 ust. 3 ustawy z dnia 10 czerwca 2016 r.
 o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
 3. Zarząd domu maklerskiego, zarząd komisaryczny albo likwidator niezwłocznie zawiadamia Komisję o spełnieniu przesłanek, o których mowa w ust. 1.
+<Art. 110zzi. 1. Komisja udostępnia informacje o podjęciu w ramach wczesnej interwencji decyzji o ustanowieniu kuratora albo zarządu komisarycznego w domach maklerskich, o których mowa w art. 110zza ust. 1, w europejskim pojedynczym punkcie dostępu.
+2. Informacje, o których mowa w ust. 1, są udostępniane przez Komisję w formacie umożliwiającym ekstrakcję danych.
+3. Informacje, o których mowa w ust. 1, są opatrywane następującymi metadanymi:
+1) nazwą (firmą) domu maklerskiego, o którym mowa w art. 110zza ust. 1, którego dotyczą informacje;
+2) identyfikatorem podmiotu prawnego domu maklerskiego, o którym mowa w art. 110zza ust. 1, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
+3) rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+4) wskazaniem, czy informacje zawierają dane osobowe.>
 System rekompensat
 Art. 185–213. (pominięte)
 
@@ -373,6 +380,180 @@ Art. 185–213. (pominięte)
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** papierach wartościowych – rozumie się przez to:
+    - **a)** akcje, prawa poboru w rozumieniu przepisów ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), prawa do akcji, warranty subskrypcyjne, kwity depozytowe, obligacje, listy zastawne, certyfikaty inwestycyjne, bankowe prawa pochodne w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488) i inne zbywalne papiery wartościowe, w tym inkorporujące prawa majątkowe odpowiadające prawom wynikającym z akcji lub z zaciągnięcia długu, wyemitowane na podstawie właściwych przepisów prawa polskiego lub obcego,
+    - **b)** inne zbywalne prawa majątkowe, które powstają w wyniku emisji, inkorporujące uprawnienie do nabycia lub objęcia papierów wartościowych określonych w lit. a, lub wykonywane poprzez dokonanie rozliczenia pieniężnego, odnoszące się do papierów wartościowych określonych w lit. a, walut, stóp procentowych, stóp zwrotu, towarów oraz innych wskaźników lub mierników (prawa pochodne);
+
+- **2)** ASO – oznacza to alternatywny system obrotu, przez który rozumie się prowadzony poza rynkiem regulowanym wielostronny system kojarzący oferty kupna i sprzedaży instrumentów finansowych w taki sposób, że do zawarcia transakcji dochodzi w ramach tego systemu, zgodnie z określonymi zasadami oraz w sposób niemający charakteru uznaniowego, w tym ASO oparte na DLT;
+- **2a)** zestawianiu zleceń – rozumie się przez to wykonywanie czynności skutkujących zawarciem transakcji mających za przedmiot instrumenty finansowe, w których:
+    - **a)** podmiot zestawiający zlecenia jest podmiotem praw i obowiązków wynikających z transakcji względem każdego podmiotu składającego zlecenia, które zostały zestawione,
+    - **b)** obie transakcje zawarte w wyniku zestawienia zleceń są dokonywane w tym samym momencie,
+    - **c)** udział podmiotu zestawiającego zlecenia w transakcjach zawartych w wyniku zestawienia zleceń nie naraża go na ryzyko rynkowe oraz jest neutralny finansowo, z wyjątkiem znanej stronie transakcji opłaty, prowizji lub wynagrodzenia należnych podmiotowi z tytułu każdej transakcji;
+
+- **2b)** handlu algorytmicznym – rozumie się przez to nabywanie lub zbywanie instrumentów finansowych przy pomocy algorytmu komputerowego automatycznie ustalającego indywidualne parametry zleceń nabycia lub zbycia tych instrumentów, w tym moment złożenia zlecenia, termin jego ważności, cenę lub liczbę instrumentów będących przedmiotem zlecenia lub sposób zarządzania zleceniem po jego złożeniu, przy czym następuje to bez udziału człowieka lub przy ograniczonym udziale człowieka w rozumieniu art. 18 rozporządzenia 2017/565, z zastrzeżeniem że nie stanowi handlu algorytmicznego stosowanie automatycznych systemów wykorzystywanych wyłącznie w celu przekierowywania zleceń pomiędzy systemami obrotu instrumentami finansowymi, przetwarzania zleceń nieobejmującego określania jakichkolwiek parametrów transakcji, potwierdzania zleceń lub przetwarzania potransakcyjnego zawartych transakcji;
+- **2c)** technice handlu algorytmicznego o wysokiej częstotliwości – rozumie się przez to handel algorytmiczny, w którym:
+    - **a)** są wykorzystywane systemy teleinformatyczne: – umożliwiające skrócenie czasu przesłania zlecenia do systemu jego wykonania, z wykorzystaniem co najmniej jednego z następujących rozwiązań: usługi kolokacji, korzystania z zasobów systemów teleinformatycznych podmiotu posiadającego na podstawie odpowiedniej umowy połączenie z systemem obrotu instrumentami finansowymi lub bezpośredniego dostępu elektronicznego o wysokiej prędkości przesyłu, oraz – analizujące dane z rynku finansowego, w tym informacje dotyczące zleceń i transakcji zawieranych w ramach obrotu w systemie obrotu instrumentami finansowymi oraz powodujące niezwłoczne wykorzystanie algorytmu komputerowego bez udziału człowieka, a także
+    - **b)** występuje duża liczba komunikatów wysyłanych w dniu obrotu do systemu obrotu instrumentami finansowymi, dotyczących przekazania, modyfikowania, anulowania lub kwotowania zlecenia nabycia lub zbycia instrumentu finansowego; przez występowanie dużej liczby takich komunikatów rozumie się spełnienie kryteriów określonych w art. 19 rozporządzenia 2017/565;
+
+- **2d)** bezpośrednim dostępie elektronicznym – rozumie się przez to, z uwzględnieniem art. 20 rozporządzenia 2017/565, udostępnianie przez członka lub uczestnika systemu obrotu instrumentami finansowymi własnego połączenia z tym systemem, umożliwiającego składanie zleceń mających za przedmiot instrumenty finansowe za pośrednictwem systemu teleinformatycznego członka lub uczestnika albo bez wykorzystywania takiego systemu;
+- **2e)** podmiocie systematycznie internalizującym transakcje – rozumie się przez to firmę inwestycyjną oraz bank, o którym mowa w art. 70 ust. 2, które w sposób zorganizowany, często i systematycznie zawierają transakcje na udziałowych instrumentach finansowych, wykonując zlecenia klientów poza rynkiem regulowanym, ASO lub OTF, bez prowadzenia ASO lub OTF, albo dobrowolnie poddają się wymogom mającym zastosowanie do podmiotu systematycznie internalizującego transakcje;
+- **3)** tytułach uczestnictwa w instytucjach wspólnego inwestowania – rozumie się przez to wyemitowane na podstawie właściwych przepisów prawa polskiego lub obcego papiery wartościowe lub niebędące papierami wartościowymi instrumenty finansowe reprezentujące prawa majątkowe przysługujące uczestnikom instytucji wspólnego inwestowania, w tym w szczególności jednostki uczestnictwa funduszy inwestycyjnych;
+- **4)** ustawie o ofercie publicznej – rozumie się przez to ustawę z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2022 r. poz. 2554 oraz z 2023 r. poz. 825 i 1723);
+- **4a)** rozporządzeniu 236/2012 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1);
+- **4b)** rozporządzeniu 648/2012 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.);
+- **4c)** rozporządzeniu 1031/2010 – rozumie się przez to rozporządzenie Komisji (UE) nr 1031/2010 z dnia 12 listopada 2010 r. w sprawie harmonogramu, kwestii administracyjnych oraz pozostałych aspektów sprzedaży na aukcji uprawnień do emisji gazów cieplarnianych na mocy dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady ustanawiającej system handlu przydziałami emisji gazów cieplarnianych we Wspólnocie (Dz. Urz. UE L 302 z 18.11.2010, str. 1, z późn. zm.);
+- **4d)** rozporządzeniu 575/2013 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. );
+- **4e)** rozporządzeniu 600/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84);
+- **4f)** rozporządzeniu 596/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. w sprawie nadużyć na rynku (rozporządzenie w sprawie nadużyć na rynku) oraz uchylające dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 1, z późn. zm. );
+- **4g)** rozporządzeniu 909/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 909/2014 z dnia 23 lipca 2014 r. w sprawie usprawnienia rozrachunku papierów wartościowych w Unii Europejskiej i w sprawie centralnych depozytów papierów wartościowych, zmieniające dyrektywy 98/26/WE i 2014/65/UE oraz rozporządzenie (UE) nr 236/2012 (Dz. Urz. UE L 257 z 28.08.2014, str. 1, z późn. zm. );
+- **4h)** rozporządzeniu 2017/571 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/571 z dnia 2 czerwca 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do regulacyjnych standardów technicznych dotyczących zezwoleń, wymogów organizacyjnych i publikacji transakcji dla dostawców usług w zakresie udostępniania informacji (Dz. Urz. UE L 87 z 31.03.2017, str. 126);
+- **4i)** rozporządzeniu 1095/2010 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1095/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji Komisji 2009/77/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 84, z późn. zm. );
+- **4j)** rozporządzeniu 1227/2011 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1227/2011 z dnia 25 października 2011 r. w sprawie integralności i przejrzystości hurtowego rynku energii (Dz. Urz. UE L 326 z 08.12.2011, str. 1);
+- **4k)** rozporządzeniu 2015/2365 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2015/2365 z dnia 25 listopada 2015 r. w sprawie przejrzystości transakcji finansowanych z użyciem papierów wartościowych i ponownego wykorzystania oraz zmiany rozporządzenia (UE) nr 648/2012 (Dz. Urz. UE L 337 z 23.12.2015, str. 1);
+- **4l)** rozporządzeniu 2017/565 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/565 z dnia 25 kwietnia 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez firmy inwestycyjne oraz pojęć zdefiniowanych na potrzeby tej dyrektywy (Dz. Urz. UE L 87 z 31.03.2017, str. 1, z późn. zm. );
+- **4m)** rozporządzeniu 2016/824 – rozumie się przez to rozporządzenie wykonawcze Komisji (UE) 2016/824 z dnia 25 maja 2016 r. ustanawiające wykonawcze standardy techniczne w odniesieniu do treści i formatu opisu funkcjonowania wielostronnych platform obrotu i zorganizowanych platform obrotu oraz powiadamiania Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych zgodnie z dyrektywą Parlamentu Europejskiego i Rady 2014/65/UE w sprawie rynków instrumentów finansowych (Dz. Urz. UE L 137 z 26.05.2016, str. 10);
+- **4n)** rozporządzeniu 2016/1011 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniające dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, z późn. zm. );
+- **4o)** rozporządzeniu 2017/575 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/575 z dnia 8 czerwca 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w sprawie rynków instrumentów finansowych w odniesieniu do regulacyjnych standardów technicznych dotyczących danych publikowanych przez systemy wykonywania zlecenia na temat jakości wykonywania transakcji (Dz. Urz. UE L 87 z 31.03.2017, str. 152);
+- **4p)** rozporządzeniu 2017/1018 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/1018 z dnia 29 czerwca 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w sprawie rynków instrumentów finansowych w odniesieniu do regulacyjnych standardów technicznych określających informacje zgłaszane przez firmy inwestycyjne, operatorów rynku i instytucje kredytowe (Dz. Urz. UE L 155 z 17.06.2017, str. 1);
+- **4q)** rozporządzeniu 2017/584 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/584 z dnia 14 lipca 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do regulacyjnych standardów technicznych określających wymogi organizacyjne w zakresie systemów obrotu (Dz. Urz. UE L 87 z 31.03.2017, str. 350);
+- **4r)** rozporządzeniu 2017/588 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/588 z dnia 14 lipca 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do regulacyjnych standardów technicznych w zakresie minimalnej wielkości zmiany ceny dla akcji, kwitów depozytowych i funduszy inwestycyjnych typu ETF (Dz. Urz. UE L 87 z 31.03.2017, str. 411);
+- **4s)** rozporządzeniu 2017/1943 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/1943 z dnia 14 lipca 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do regulacyjnych standardów technicznych dotyczących informacji i wymogów w zakresie udzielania zezwoleń firmom inwestycyjnym (Dz. Urz. UE L 276 z 26.10.2017, str. 4);
+- **4t)** rozporządzeniu 2017/589 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/589 z dnia 19 lipca 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do regulacyjnych standardów technicznych określających wymogi organizacyjne dla firm inwestycyjnych prowadzących handel algorytmiczny (Dz. Urz. UE L 87 z 31.03.2017, str. 417);
+- **4u)** rozporządzeniu 2022/1302 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2022/1302 z dnia 20 kwietnia 2022 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do regulacyjnych standardów technicznych dotyczących stosowania limitów pozycji do towarowych instrumentów pochodnych oraz procedur ubiegania się o wyłączenie z limitów pozycji (Dz. Urz. UE L 197 z 26.07.2022, str. 52);
+- **4v)** (uchylony) 4w) rozporządzeniu 2017/1946 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/1946 z dnia 11 lipca 2017 r. w sprawie uzupełnienia dyrektyw 2004/39/WE i 2014/65/UE Parlamentu Europejskiego i Rady w odniesieniu do regulacyjnych standardów technicznych dotyczących wyczerpującego wykazu informacji, które potencjalni nabywcy muszą umieścić w powiadomieniu o planowanym nabyciu znacznego pakietu akcji w firmie inwestycyjnej (Dz. Urz. UE L 276 z 26.10.2017, str. 32);
+- **4x)** rozporządzeniu 2016/679 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. );
+- **4y)** rozporządzeniu 2017/1129 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12);
+- **4z)** rozporządzeniu 2018/1212 – rozumie się przez to rozporządzenie wykonawcze Komisji (UE) 2018/1212 z dnia 3 września 2018 r. ustanawiające minimalne wymogi w celu wykonania przepisów dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady w odniesieniu do identyfikacji akcjonariuszy, przekazywania informacji i ułatwiania wykonywania praw akcjonariuszy (Dz. Urz. UE L 223 z 04.09.2018, str. 1); 4za) rozporządzeniu 2017/2402 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/2402 z dnia 12 grudnia 2017 r. w sprawie ustanowienia ogólnych ram dla sekurytyzacji oraz utworzenia szczególnych ram dla prostych, przejrzystych i standardowych sekurytyzacji, a także zmieniające dyrektywy 2009/65/WE, 2009/138/WE i 2011/61/UE oraz rozporządzenia (WE) nr 1060/2009 i (UE) nr 648/2012 (Dz. Urz. UE L 347 z 28.12.2017, str. 35, z późn. zm. ); 4zb) rozporządzeniu 2017/587 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/587 z dnia 14 lipca 2016 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 600/2014 w sprawie rynków instrumentów finansowych w odniesieniu do regulacyjnych standardów technicznych dotyczących wymogów w zakresie przejrzystości dla systemów obrotu i firm inwestycyjnych w odniesieniu do akcji, kwitów depozytowych, funduszy inwestycyjnych typu ETF, certyfikatów i innych podobnych instrumentów finansowych oraz dotyczących obowiązku realizowania transakcji na określonych akcjach w systemie obrotu lub za pośrednictwem podmiotu systematycznie internalizującego transakcje (Dz. Urz. UE L 87 z 31.03.2017, str. 387, z późn. zm. ); 4zc) rozporządzeniu 2019/2033 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm. ); 4zd) rozporządzeniu 2020/1503 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniające rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1); 4ze) rozporządzeniu 2021/23 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/23 z dnia 16 grudnia 2020 r. w sprawie ram na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do kontrahentów centralnych oraz zmieniające rozporządzenia (UE) nr 1095/2010, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 806/2014 i (UE) 2015/2365 oraz dyrektywy 2002/47/WE, 2004/25/WE, 2007/36/WE, 2014/59/UE i (UE) 2017/1132 (Dz. Urz. UE L 22 z 22.01.2021, str. 1); 4zf) rozporządzeniu 2022/858 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/858 z dnia 30 maja 2022 r. w sprawie systemu pilotażowego na potrzeby infrastruktur rynkowych opartych na technologii rozproszonego rejestru, a także zmiany rozporządzeń (UE) nr 600/2014 i (UE) nr 909/2014 oraz dyrektywy 2014/65/UE (Dz. Urz. UE L 151 z 02.06.2022, str. 1); 4zg) rozporządzeniu 2022/2554 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniające rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. ); <4zh) rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );>
+- **5)** ofercie publicznej – rozumie się przez to ofertę publiczną papierów wartościowych w rozumieniu art. 2 lit. d rozporządzenia 2017/1129;
+- **6)** obrocie pierwotnym – rozumie się przez to obrót pierwotny w rozumieniu przepisów ustawy o ofercie publicznej;
+- **7)** obrocie wtórnym – rozumie się przez to:
+    - **a)** dokonywanie oferty publicznej przez podmiot inny niż emitent lub gwarant emisji, o którym mowa w art. 14a ust. 1 lub 2 ustawy o ofercie publicznej, lub nabywanie papierów wartościowych od tego podmiotu, albo
+    - **b)** proponowanie w dowolnej formie i w dowolny sposób, przez podmiot inny niż wystawca, nabycia instrumentów finansowych niebędących papierami wartościowymi lub nabywanie ich od tego innego podmiotu, jeżeli propozycja skierowana jest do co najmniej 150 osób lub do nieoznaczonego adresata;
+
+- **8)** pierwszej ofercie publicznej – rozumie się przez to pierwszą ofertę publiczną w rozumieniu przepisów ustawy o ofercie publicznej;
+- **9)** obrocie zorganizowanym – rozumie się przez to obrót papierami wartościowymi lub innymi instrumentami finansowymi dokonywany na terytorium Rzeczypospolitej Polskiej na rynku regulowanym albo w ASO;
+- **9a)** systemie obrotu instrumentami finansowymi – rozumie się przez to rynek regulowany, ASO lub OTF;
+- **9b)** wielostronnym systemie – rozumie się przez to system wielostronny w rozumieniu art. 2 ust. 1 pkt 11 rozporządzenia 600/2014;
+- **9c)** systemie wykonywania zlecenia – rozumie się przez to system wykonywania zleceń w rozumieniu art. 64 ust. 1 rozporządzenia 2017/565;
+- **9d)** ASO opartym na DLT – rozumie się przez to wielostronną platformę obrotu opartą na DLT w rozumieniu art. 2 pkt 6 rozporządzenia 2022/858;
+- **9e)** SS opartym na DLT – rozumie się przez to system rozrachunku oparty na DLT w rozumieniu art. 2 pkt 7 rozporządzenia 2022/858;
+- **9f)** TSS opartym na DLT – rozumie się przez to system obrotu i rozrachunku oparty na DLT w rozumieniu art. 2 pkt 10 rozporządzenia 2022/858;
+- **10)** (uchylony) 10a) platformie aukcyjnej – rozumie się przez to platformę aukcyjną, która na podstawie przepisów niniejszej ustawy oraz rozporządzenia 1031/2010 jest upoważniona do pełnienia funkcji, o których mowa w art. 31 ust. 1 tego rozporządzenia;
+- **10b)** OTF – oznacza to zorganizowaną platformę obrotu, przez którą rozumie się wielostronny system kojarzący w sposób uznaniowy składane przez podmioty trzecie oferty kupna i sprzedaży obligacji, strukturyzowanych produktów finansowych, uprawnień do emisji, instrumentów pochodnych lub produktów energetycznych będących przedmiotem obrotu hurtowego, które muszą być wykonywane przez dostawę, niebędący rynkiem regulowanym ani ASO;
+- **11)** emitencie – rozumie się przez to emitenta w rozumieniu art. 2 lit. h rozporządzenia 2017/1129;
+- **12)** wystawcy – rozumie się przez to podmiot wystawiający we własnym imieniu instrumenty finansowe niebędące papierami wartościowymi i uprawniony lub zobowiązany z tych instrumentów finansowych;
+- **13)** (uchylony) 13a) uczestniku rynku uprawnień do emisji – rozumie się przez to podmiot, o którym mowa w art. 3 ust. 1 pkt 20 rozporządzenia 596/2014;
+- **13b)** oferującym – rozumie się przez to oferującego w rozumieniu art. 2 lit. i rozporządzenia 2017/1129;
+- **14)** (uchylony)
+- **15)** (uchylony) 15a) umowie o gwarancję emisji – rozumie się przez to umowę o gwarancję emisji w rozumieniu ustawy o ofercie publicznej;
+- **16)** podmiocie dominującym – rozumie się przez to podmiot sprawujący nad podmiotem zależnym kontrolę w sposób, o którym mowa w art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598);
+- **17)** podmiocie zależnym – rozumie się przez to podmiot kontrolowany przez podmiot dominujący;
+- **18)** grupie kapitałowej – rozumie się przez to podmiot dominujący wraz z jego podmiotami zależnymi;
+- **18a)** bliskich powiązaniach – rozumie się przez to:
+    - **a)** posiadanie, bezpośrednio lub pośrednio: – co najmniej 20 % ogólnej liczby głosów w organie stanowiącym innego podmiotu lub – co najmniej 20 % udziału w kapitale zakładowym innego podmiotu, lub – prawa do wykonywania co najmniej 20 % głosów w organach innego podmiotu, lub
+    - **b)** sprawowanie nad innym podmiotem: – kontroli w rozumieniu art. 3 ust. 1 pkt 34 lub 37 ustawy z dnia 29 września 1994 r. o rachunkowości, lub – współkontroli w rozumieniu art. 3 ust. 1 pkt 35 ustawy z dnia 29 września 1994 r. o rachunkowości, lub
+    - **c)** wywieranie znaczącego wpływu na inny podmiot w rozumieniu art. 3 ust. 1 pkt 36 ustawy z dnia 29 września 1994 r. o rachunkowości;
+
+- **19)** ogólnej liczbie głosów – rozumie się przez to ogólną liczbę głosów w rozumieniu ustawy o ofercie publicznej albo sumę głosów przypadających na wszystkie udziały w spółce z ograniczoną odpowiedzialnością;
+- **20)** Krajowym Depozycie – rozumie się przez to Krajowy Depozyt Papierów Wartościowych S.A.;
+- **21)** depozycie papierów wartościowych – rozumie się przez to prowadzony przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1, system rejestracji zdematerializowanych papierów wartościowych, obejmujący rachunki papierów wartościowych, rachunki zbiorcze i konta depozytowe prowadzone przez podmioty upoważnione do tego przepisami ustawy;
+- **21a)** centralnym depozycie papierów wartościowych – rozumie się przez to podmiot, o którym mowa w art. 2 ust. 1 pkt 1 rozporządzenia 909/2014, posiadający zezwolenie, o którym mowa w art. 16 tego rozporządzenia, oraz mający siedzibę na terytorium Rzeczypospolitej Polskiej;
+- **21b)** podmiocie wyznaczonym – rozumie się przez to podmiot, o którym mowa w art. 54 ust. 2 lit. b rozporządzenia 909/2014, mający siedzibę na terytorium Rzeczypospolitej Polskiej;
+- **22)** państwie członkowskim – rozumie się przez to państwo, które jest członkiem Unii Europejskiej lub stroną umowy o Europejskim Obszarze Gospodarczym;
+- **23)** innym państwie członkowskim – rozumie się przez to państwo członkowskie niebędące Rzecząpospolitą Polską;
+- **24)** państwach należących do OECD – rozumie się przez to państwa należące do Organizacji Współpracy Gospodarczej i Rozwoju, z wyłączeniem państw członkowskich;
+- **25)** państwach należących do WTO – rozumie się przez to państwa należące do Światowej Organizacji Handlu, z wyłączeniem państw członkowskich;
+- **25a)** (uchylony)
+- **26)** spółce publicznej – rozumie się przez to spółkę publiczną w rozumieniu ustawy o ofercie publicznej;
+- **27)** (uchylony)
+- **28)** instrumentach rynku pieniężnego – rozumie się przez to niebędące instrumentami płatniczymi instrumenty, o których mowa w art. 11 rozporządzenia 2017/565;
+- **28a)** instrumentach pochodnych – rozumie się przez to opcje, kontrakty terminowe, swapy, umowy forward oraz inne prawa majątkowe, których cena lub wartość zależy bezpośrednio lub pośrednio od ceny lub wartości instrumentów finansowych, walut, stóp procentowych, rentowności, indeksów finansowych, wskaźników finansowych, towarów, zmian klimatycznych, stawek frachtowych, poziomów emisji, stawek inflacji lub innych oficjalnych danych statystycznych, a także innych aktywów, praw, zobowiązań, indeksów lub wskaźników, oraz instrumenty pochodne dotyczące przenoszenia ryzyka kredytowego; 28aa) instrumencie finansowym obsługiwanym przez DLT – rozumie się przez to instrument finansowy obsługiwany przez DLT w rozumieniu art. 2 pkt 11 rozporządzenia 2022/858, wymieniony w art. 3 ust. 1 tego rozporządzenia, zarejestrowany na rachunku DLT albo w ewidencji DLT, o której mowa w art. 131u ust. 1; 28ab) wtórnej rejestracji DLT – rozumie się przez to zarejestrowanie akcji, o których mowa w art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, na rachunku DLT albo w ewidencji DLT, o której mowa w art. 131u ust. 1; 28ac) rachunku DLT – rozumie się przez to rachunek papierów wartościowych w rozumieniu art. 2 ust. 1 pkt 28 rozporządzenia 909/2014, prowadzony w technologii rozproszonego rejestru poza depozytem papierów wartościowych, na którym są rejestrowane papiery wartościowe będące instrumentami finansowymi obsługiwanymi przez DLT, jeżeli rachunek ten umożliwia identyfikację osób, którym przysługują prawa z tych papierów wartościowych, oraz wyodrębnia papiery wartościowe należące do różnych osób;
+- **28b)** kapitale własnym – rozumie się przez to sumę wartości kapitału zakładowego, kapitału zapasowego, kapitału z aktualizacji wyceny, pozostałych kapitałów rezerwowych, niepodzielonego zysku z lat ubiegłych i zysku netto z bieżącej działalności, pomniejszoną o sumę wartości należnych wpłat na kapitał zakładowy, akcji własnych, niepokrytej straty z lat ubiegłych, straty netto z bieżącej działalności i odpisów z zysku netto w ciągu roku obrotowego;
+- **28c)** uprawnieniach do emisji – rozumie się przez to uprawnienia do emisji, o których mowa w art. 3 pkt 22 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2023 r. poz. 589 i 2029), oraz międzynarodowe jednostki emisji, o których mowa w art. 3 pkt 26 rozporządzenia Komisji (UE) nr 389/2013 z dnia 2 maja 2013 r. ustanawiającego rejestr Unii zgodnie z dyrektywą 2003/87/WE Parlamentu Europejskiego i Rady, decyzjami nr 280/2004/WE i nr 406/2009/WE Parlamentu Europejskiego i Rady oraz uchylającego rozporządzenia Komisji (UE) nr 920/2010 i nr 1193/2011 (Dz. Urz. UE L 122 z 03.05.2013, str. 1, z późn. zm. );
+- **29)** prawie do akcji – rozumie się przez to papier wartościowy, z którego wynika uprawnienie do otrzymania, niemających formy dokumentu, akcji nowej emisji spółki publicznej, powstające z chwilą dokonania przydziału tych akcji i wygasające z chwilą zarejestrowania akcji w depozycie papierów wartościowych albo z dniem uprawomocnienia się postanowienia sądu rejestrowego odmawiającego wpisu podwyższenia kapitału zakładowego do rejestru przedsiębiorców;
+- **29a)** (uchylony)
+- **30)** kwicie depozytowym – rozumie się przez to papier wartościowy wyemitowany przez instytucję finansową z siedzibą na terytorium państwa członkowskiego lub innego państwa należącego do OECD:
+    - **a)** poza terytorium Rzeczypospolitej Polskiej w związku z papierami wartościowymi dopuszczonymi do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej albo papierami wartościowymi wyemitowanymi poza tym terytorium, albo
+    - **b)** na terytorium Rzeczypospolitej Polskiej w związku z papierami wartościowymi wyemitowanymi poza tym terytorium – w którym inkorporowane jest prawo do zamiany tego papieru wartościowego na określone papiery wartościowe we wskazanej w warunkach emisji proporcji, przejście na właściciela tego papieru wartościowego praw majątkowych stanowiących pożytki z papierów wartościowych lub ich równowartości oraz, w przypadku akcji – możliwość wydania przez właściciela tego papieru wartościowego jego emitentowi wiążącej dyspozycji co do sposobu głosowania na walnym zgromadzeniu;
+
+- **30a)** dwudniowych kontraktach na rynku kasowym – rozumie się przez to dwudniowe kontrakty na rynku kasowym, o których mowa w art. 3 ust. 1 pkt 3 rozporządzenia 1031/2010;
+- **30b)** pięciodniowych kontraktach terminowych typu future – rozumie się przez to pięciodniowe kontrakty terminowe typu future, o których mowa w art. 3 ust. 1 pkt 4 rozporządzenia 1031/2010;
+- **30c)** strukturyzowanych produktach finansowych – rozumie się przez to strukturyzowane produkty finansowe, o których mowa w art. 2 ust. 1 pkt 28 rozporządzenia 600/2014;
+- **31)** zagranicznej instytucji kredytowej – rozumie się przez to instytucję kredytową, o której mowa w art. 4 ust. 1 pkt 1 rozporządzenia 575/2013, prowadzącą na podstawie zezwolenia właściwego organu nadzoru na terytorium innego państwa członkowskiego działalność maklerską, lub prowadzącą na podstawie zezwolenia właściwego organu nadzoru na terytorium innego państwa członkowskiego rachunki, na których rejestrowane są papiery wartościowe dopuszczone do obrotu na zagranicznym rynku regulowanym;
+- **32)** zagranicznej firmie inwestycyjnej – rozumie się przez to osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej z siedzibą na terytorium innego państwa członkowskiego, a w przypadku gdy przepisy danego państwa nie wymagają ustanowienia siedziby – z centralą na terytorium innego państwa członkowskiego, albo osobę fizyczną z miejscem zamieszkania na terytorium innego państwa członkowskiego, prowadzącą na podstawie zezwolenia właściwego organu nadzoru działalność maklerską na terytorium innego państwa członkowskiego, jak również zagraniczną instytucję kredytową;
+- **33)** firmie inwestycyjnej – rozumie się przez to dom maklerski, bank prowadzący działalność maklerską, zagraniczną firmę inwestycyjną prowadzącą działalność maklerską na terytorium Rzeczypospolitej Polskiej oraz zagraniczną osobę prawną z siedzibą na terytorium państwa innego niż państwo członkowskie, prowadzącą na terytorium Rzeczypospolitej Polskiej działalność maklerską;
+- **33a)** zatwierdzonym podmiocie publikującym – rozumie się przez to zatwierdzony podmiot publikujący, o którym mowa w art. 2 ust. 1 pkt 34 rozporządzenia 600/2014;
+- **33b)** (uchylony) 33c) zatwierdzonym mechanizmie sprawozdawczym – rozumie się przez to zatwierdzony mechanizm sprawozdawczy, o którym mowa w art. 2 ust. 1 pkt 36 rozporządzenia 600/2014; 33ca) dostawcy usług w zakresie udostępniania informacji – rozumie się przez to dostawcę usług w zakresie udostępniania informacji, o którym mowa w art. 2 ust. 1 pkt 36a rozporządzenia 600/2014;
+- **33d)** animatorze rynku – rozumie się przez to podmiot zobowiązany w sposób stały, zgodnie z ustalonymi zasadami, do nabywania lub zbywania w ramach swojej działalności instrumentów finansowych na własny rachunek, w celu wspomagania płynności danego instrumentu finansowego;
+- **34)** ustawie o nadzorze – rozumie się przez to ustawę z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. z 2023 r. poz. 188 i 1723);
+- **35)** Komisji – rozumie się przez to Komisję Nadzoru Finansowego, o której mowa w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135);
+- **36)** banku powierniczym – rozumie się przez to bank krajowy posiadający zezwolenie Komisji na prowadzenie rachunków papierów wartościowych, rachunków derywatów i rachunków zbiorczych;
+- **36a)** domu maklerskim stosującym rozporządzenie 575/2013 – rozumie się przez to dom maklerski:
+    - **a)** wobec którego została wydana decyzja, o której mowa w art. 110ac ust. 1, lub
+    - **b)** o którym mowa w art. 1 ust. 2 lit. a lub b lub ust. 5 rozporządzenia 2019/2033;
+
+- **37)** podmiocie nadzorowanym – rozumie się przez to podmiot nadzorowany w rozumieniu ustawy o nadzorze;
+- **38)** banku zagranicznym – rozumie się przez to bank mający siedzibę poza terytorium Rzeczypospolitej Polskiej, z wyłączeniem zagranicznej instytucji kredytowej;
+- **39)** zakładzie ubezpieczeń – rozumie się przez to krajowy zakład ubezpieczeń, o którym mowa w art. 3 ust. 1 pkt 18 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2023 r. poz. 656, 614, 825, 1723, 1843 i 1941), zagraniczny zakład ubezpieczeń, o którym mowa w art. 3 ust. 1 pkt 55 tej ustawy, prowadzący działalność na terytorium Rzeczypospolitej Polskiej, krajowy zakład reasekuracji, o którym mowa w art. 3 ust. 1 pkt 19 tej ustawy, oraz zagraniczny zakład reasekuracji, o którym mowa w art. 3 ust. 1 pkt 56 tej ustawy, prowadzący działalność na terytorium Rzeczypospolitej Polskiej;
+- **39a)** spółce zarządzającej – rozumie się przez to podmiot lub spółkę, o których mowa w art. 2 pkt 10 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 i 1941), zwanej dalej „ustawą o funduszach inwestycyjnych”; 39aa) zarządzającym z UE – rozumie się przez to osobę prawną, o której mowa w art. 2 pkt 10c ustawy o funduszach inwestycyjnych; 39ab) zarządzającym ASI – rozumie się przez to podmiot, o którym mowa w art. 2 pkt 3a ustawy o funduszach inwestycyjnych;
+- **39b)** kliencie profesjonalnym – rozumie się przez to podmiot, na którego rzecz jest lub ma być świadczona co najmniej jedna z usług, o których mowa w art. 69 ust. 2 lub 4, który posiada doświadczenie i wiedzę pozwalające na podejmowanie właściwych decyzji inwestycyjnych, jak również na właściwą ocenę ryzyka związanego z tymi decyzjami, który jest:
+    - **a)** bankiem,
+    - **b)** firmą inwestycyjną,
+    - **c)** zakładem ubezpieczeń,
+    - **d)** funduszem inwestycyjnym, alternatywną spółką inwestycyjną, towarzystwem funduszy inwestycyjnych lub zarządzającym ASI w rozumieniu ustawy o funduszach inwestycyjnych,
+    - **e)** funduszem emerytalnym lub towarzystwem emerytalnym w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2023 r. poz. 930, 1672 i 1941),
+    - **f)** towarowym domem maklerskim,
+    - **g)** podmiotem zawierającym, w ramach prowadzonej działalności gospodarczej, na własny rachunek transakcje na rynkach kontraktów terminowych, opcji lub innych instrumentów pochodnych albo na rynkach pieniężnych wyłącznie w celu zabezpieczenia pozycji zajętych na tych rynkach, lub działającym w tym celu na rachunek innych członków takich rynków, o ile odpowiedzialność za wykonanie zobowiązań wynikających z tych transakcji ponoszą uczestnicy rozliczający tych rynków,
+    - **h)** inną niż wskazane w lit. a–g instytucją finansową,
+    - **i)** inwestorem instytucjonalnym innym niż wskazany w lit. a–h prowadzącym regulowaną działalność na rynku finansowym,
+    - **j)** podmiotem prowadzącym poza granicami Rzeczypospolitej Polskiej działalność równoważną do działalności prowadzonej przez podmioty wskazane w lit. a–i,
+    - **k)** przedsiębiorcą spełniającym co najmniej dwa z poniższych wymogów, przy czym równowartość kwot wskazanych w euro jest obliczana przy zastosowaniu średniego kursu euro ustalanego przez Narodowy Bank Polski na dzień sporządzenia przez danego przedsiębiorcę sprawozdania finansowego: – suma bilansowa tego przedsiębiorcy wynosi co najmniej 20 000 000 euro, – osiągnięta przez tego przedsiębiorcę wartość przychodów ze sprzedaży wynosi co najmniej 40 000 000 euro, – kapitał własny lub fundusz własny tego przedsiębiorcy wynosi co najmniej 2 000 000 euro,
+    - **l)** organem publicznym, który zarządza długiem publicznym, bankiem centralnym, Bankiem Światowym, Międzynarodowym Funduszem Walutowym, Europejskim Bankiem Centralnym, Europejskim Bankiem Inwestycyjnym lub inną organizacją międzynarodową pełniącą podobne funkcje,
+    - **m)** innym inwestorem instytucjonalnym, którego głównym przedmiotem działalności jest inwestowanie w instrumenty finansowe, w tym podmioty zajmujące się sekurytyzacją aktywów lub zawieraniem innego rodzaju transakcji finansowych,
+    - **n)** podmiotem innym niż wskazane w lit. a–m, który jest traktowany jak klient profesjonalny na podstawie art. 3a ust. 1;
+
+- **39c)** kliencie detalicznym – rozumie się przez to podmiot niebędący klientem profesjonalnym, na którego rzecz jest lub ma być świadczona co najmniej jedna z usług, o których mowa w art. 69 ust. 2 lub 4;
+- **39d)** uprawnionym kontrahencie – rozumie się przez to:
+    - **a)** klienta profesjonalnego, o którym mowa w pkt 39b lit. a–j oraz l–m, z którym firma inwestycyjna, w ramach świadczenia usług, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3, zawiera transakcje lub pośredniczy w ich zawieraniu,
+    - **b)** klienta profesjonalnego, o którym mowa w pkt 39b lit. k, który na swój wniosek został przez firmę inwestycyjną uznany, na zasadach określonych w art. 71 rozporządzenia 2017/565, za uprawnionego kontrahenta, z którym firma inwestycyjna, w ramach świadczenia usług, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3, zawiera transakcje lub pośredniczy w ich zawieraniu,
+    - **c)** klienta z innego państwa członkowskiego, który posiada status uprawnionego kontrahenta zgodnie z przepisami prawa państwa członkowskiego, w którym ma siedzibę lub miejsce zamieszkania;
+
+- **40)** umowie ubezpieczenia odpowiedzialności cywilnej – rozumie się przez to umowę, o której mowa w art. 822 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933);
+- **41)** Przewodniczącym Komisji – rozumie się przez to Przewodniczącego Komisji, o której mowa w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym;
+- **42)** ustawie o ostateczności rozrachunku – rozumie się przez to ustawę z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2022 r. poz. 1581 oraz z 2023 r. poz. 1723);
+- **43)** systemie rozrachunku – rozumie się przez to system, o którym mowa w art. 1 pkt 2 ustawy o ostateczności rozrachunku;
+- **44)** zleceniu rozrachunku – rozumie się przez to zlecenie, o którym mowa w art. 1 pkt 12 lit. b ustawy o ostateczności rozrachunku;
+- **45)** przedsiębiorcy – rozumie się przez to przedsiębiorcę, o którym mowa w art. 4 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236);
+- **46)** przedsiębiorcy zagranicznym – rozumie się przez to przedsiębiorcę zagranicznego w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470);
+- **46a)** małym i średnim przedsiębiorcy – rozumie się przez to:
+    - **a)** przedsiębiorcę o średniej rynkowej kapitalizacji mniejszej niż 200 000 000 euro, wyznaczonej na podstawie notowań z końca roku w trzech ostatnich latach kalendarzowych, przy czym wskazaną kwotę wyrażoną w euro przelicza się na walutę polską przy zastosowaniu średniego kursu ogłoszonego przez Narodowy Bank Polski na dzień 31 grudnia danego roku,
+    - **b)** podmiot, o którym mowa w art. 77 rozporządzenia 2017/565;
+
+- **46b)** ASO MŚP – rozumie się przez to ASO, w którym jest dokonywany obrót instrumentami finansowymi emitowanymi przez małych i średnich przedsiębiorców, wpisany do rejestru, o którym mowa w art. 78g ust. 1;
+- **47)** krótkiej sprzedaży – rozumie się przez to krótką sprzedaż w rozumieniu art. 2 ust. 1 lit. b rozporządzenia 236/2012;
+- **48)** towarze – rozumie się przez to towar, o którym mowa w art. 2 pkt 6 rozporządzenia 2017/565;
+- **49)** CCP – rozumie się przez to podmiot, o którym mowa w art. 2 pkt 1 rozporządzenia 648/2012, mający siedzibę na terytorium Rzeczypospolitej Polskiej;
+- **50)** dniu roboczym – rozumie się przez to każdy dzień od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy;
+- **51)** danych osobowych – rozumie się przez to imiona i nazwisko, datę i miejsce urodzenia, adres zamieszkania, w przypadku obywateli Rzeczypospolitej Polskiej także numer PESEL, w odniesieniu do osób nieposiadających obywatelstwa polskiego także numer paszportu, a w przypadku jego braku – numer innego dokumentu potwierdzającego tożsamość;
+- **52)** informacji poufnej – rozumie się przez to informację poufną w rozumieniu art. 7 rozporządzenia 596/2014;
+- **53)** rynku powiązanym – rozumie się przez to system obrotu instrumentami finansowymi prowadzony na terytorium państwa członkowskiego, na którym przedmiotem obrotu są te same instrumenty, które są przedmiotem obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej, lub instrumenty, których cena jest powiązana z ceną instrumentów finansowych będących przedmiotem obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej;
+- **54)** trwałym nośniku – rozumie się przez to nośnik umożliwiający użytkownikowi przechowywanie adresowanych do niego informacji w sposób umożliwiający dostęp do nich przez okres odpowiedni do celów, którym te informacje służą, i pozwalający na odtworzenie przechowywanych informacji w niezmienionej postaci;
+- **54a)** formacie elektronicznym – rozumie się przez to trwały nośnik inny niż papier;
+- **54b)** ICT – rozumie się przez to technologie informacyjno-komunikacyjne, o których mowa w rozporządzeniu 2022/2554;
+- **55)** lokacie strukturyzowanej – rozumie się przez to lokatę strukturyzowaną, o której mowa w art. 4 ust. 1 pkt 41 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
+- **56)** osobie zaangażowanej – rozumie się przez to osobę, o której mowa w art. 2 pkt 1 rozporządzenia 2017/565;
+- **57)** administratorze – rozumie się przez to podmiot, o którym mowa w art. 3 ust. 1 pkt 6 rozporządzenia 2016/1011;
+- **58)** wskaźniku referencyjnym – rozumie się przez to wskaźnik, o którym mowa w art. 3 ust. 1 pkt 3 rozporządzenia 2016/1011;
+- **59)** towarowych instrumentach pochodnych – rozumie się przez to instrumenty finansowe określone w art. 2 ust. 1 pkt 2 lit. d–f oraz i, a także papiery wartościowe, o których mowa w pkt 1 lit. b, odnoszące się do towarów, wskaźników lub mierników, o których mowa w art. 2 ust. 1 pkt 2 lit. i;
+- **60)** kadrze kierowniczej wyższego szczebla – rozumie się przez to członka zarządu, dyrektora lub inną osobę, posiadających wiedzę z zakresu ryzyka związanego z działalnością domu maklerskiego oraz podejmujących decyzje mające wpływ na to ryzyko;
+- **61)** (uchylony)
+- **62)** przepisach prawa bankowego stosowanych przez niektóre domy maklerskie – rozumie się przez to przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz aktów wykonawczych wydanych na jej podstawie, które na podstawie art. 4c ust. 2–4 tej ustawy stosuje się do domów maklerskich stosujących rozporządzenie 575/2013;
+- **63)** instrumentach pochodnych opartych na towarach rolnych – rozumie się przez to instrumenty pochodne odnoszące się do produktów wymienionych w art. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm. ) i w załączniku I część I–XX i XXIV/1 do tego rozporządzenia oraz do produktów wymienionych w załączniku I do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm. );
+- **64)** dyrektywie 2014/65/UE – rozumie się przez to dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającą dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, z późn. zm. ); <65) europejskim pojedynczym punkcie dostępu – rozumie się przez to europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
+- **66)** formacie umożliwiającym ekstrakcję danych – rozumie się przez to format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;
+- **67)** formacie nadającym się do odczytu maszynowego – rozumie się przez to format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego;
+- **68)** metadanych – rozumie się przez to metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859.>
+
 **Art. 3a.**
 
 1. Firma inwestycyjna, na pisemne żądanie podmiotu innego niż określony w art. 3 pkt 39b lit. a–m i w zakresie określonym w takim żądaniu, może traktować go jak klienta profesjonalnego, pod warunkiem że posiada on wiedzę i doświadczenie pozwalające na podejmowanie właściwych decyzji inwestycyjnych, jak również na właściwą ocenę ryzyka związanego z tymi decyzjami. Firma inwestycyjna przed uwzględnieniem żądania jest obowiązana ustalić wiedzę klienta o zasadach traktowania klientów profesjonalnych przy świadczeniu usług, o których mowa w art. 69 ust. 2 lub 4, których żądanie dotyczy.
@@ -385,17 +566,13 @@ Art. 185–213. (pominięte)
 
 **Art. 3b.**
 
-1. Firma inwestycyjna lub bank, o którym mowa w art. 70 ust. 2, niespełniające kryteriów określonych w art. 3 pkt 2e, po uprzednim zawiadomieniu Komisji mogą dobrowolnie poddać się wymogom mającym zastosowanie do podmiotu systematycznie internalizującego transakcje.
+1. Firma inwestycyjna oraz bank, o którym mowa w art. 70 ust. 2, po uprzednim zawiadomieniu Komisji mogą w odniesieniu do transakcji zawieranych na instrumentach finansowych innych niż udziałowe instrumenty finansowe dobrowolnie poddać się wymogom mającym zastosowanie do podmiotu systematycznie internalizującego transakcje.
 
 2. Firma inwestycyjna lub bank, o którym mowa w art. 70 ust. 2, niezwłocznie informują Komisję o rezygnacji z dobrowolnego poddawania się wymogom mającym zastosowanie do podmiotu systematycznie internalizującego transakcje.
 
 3. Do firmy inwestycyjnej lub banku, o którym mowa w art. 70 ust. 2, w okresie od dokonania zawiadomienia, o którym mowa w ust. 1, do dokonania zawiadomienia, o którym mowa w ust. 2, stosuje się odpowiednio przepisy dotyczące podmiotu systematycznie internalizującego transakcje.
 
-**Art. 3c.**
-
-1. Kryteria częstości i systematyczności, o których mowa w art. 3 pkt 2e, ustala się, z uwzględnieniem art. 12–17 rozporządzenia 2017/565, na podstawie liczby transakcji, których przedmiotem jest dany instrument finansowy, zawieranych na własny rachunek poza systemem obrotu instrumentami finansowymi przez firmę inwestycyjną lub bank, o którym mowa w art. 70 ust. 2, wykonujące zlecenia klientów.
-
-2. Kryterium zawierania transakcji w znacznych wielkościach, o którym mowa w art. 3 pkt 2e, ustala się, z uwzględnieniem art. 12–17 rozporządzenia 2017/565, na podstawie wielkości transakcji zawieranych poza systemem obrotu instrumentami finansowymi przez firmę inwestycyjną lub bank, o którym mowa w art. 70 ust. 2, w odniesieniu do całkowitej wielkości transakcji, których przedmiotem jest dany instrument finansowy, zawieranych przez tę firmę inwestycyjną lub ten bank albo na podstawie wielkości transakcji poza systemem obrotu instrumentami finansowymi zawieranych przez tę firmę inwestycyjną lub ten bank, w odniesieniu do całkowitej wielkości transakcji, których przedmiotem jest dany instrument finansowy, na terytorium Unii Europejskiej.
+**Art. 3c.** (uchylony)
 
 **Art. 3d.** Ilekroć w ustawie jest mowa o zleceniu nabycia lub zbycia instrumentów finansowych, należy przez to rozumieć także oświadczenie woli, którego przedmiotem są instrumenty finansowe, wywołujące równoważne do takiego zlecenia skutki.
 
@@ -978,17 +1155,21 @@ Art. 185–213. (pominięte)
 
 **Art. 18a.**
 
-1. Spółka prowadząca rynek regulowany może czasowo zawiesić lub ograniczyć obrót instrumentami finansowymi w przypadku znacznego wahania cen tych instrumentów finansowych na tym rynku lub na rynku powiązanym, na okres nie dłuższy niż miesiąc, oraz, w przypadkach i na zasadach określonych w regulaminie rynku regulowanego, w szczególności gdy jest to niezbędne do zachowania stabilności rynku, może unieważnić, zmienić lub skorygować dowolną transakcję.
+1. Spółka prowadząca rynek regulowany może czasowo zawiesić lub ograniczyć obrót instrumentami finansowymi w sytuacjach nadzwyczajnych lub w przypadku znacznego wahania cen tych instrumentów finansowych na tym rynku lub na rynku powiązanym, na okres nie dłuższy niż miesiąc, oraz, w przypadkach i na zasadach określonych w regulaminie rynku regulowanego, w szczególności gdy jest to niezbędne do zachowania stabilności rynku, może unieważnić, zmienić lub skorygować dowolną transakcję.
 
-2. Spółka prowadząca rynek regulowany zapewnia odpowiedni sposób wyznaczania parametrów zawieszenia obrotu instrumentami finansowymi, który uwzględnia płynność różnych kategorii i podkategorii aktywów, charakter modelu rynku i rodzaje uczestników, oraz zapewnia uniknięcie poważnych zakłóceń prawidłowego zawierania transakcji.
+2. Spółka prowadząca rynek regulowany zapewnia odpowiedni sposób wyznaczania parametrów zawieszenia i ograniczenia obrotu instrumentami finansowymi, który uwzględnia płynność różnych klas i podklas aktywów, charakter modelu rynku i rodzaje uczestników oraz zapewnia uniknięcie poważnych zakłóceń prawidłowego zawierania transakcji.
 
 3. Spółka prowadząca rynek regulowany przekazuje Komisji informacje o parametrach zawieszania obrotu określonymi instrumentami finansowymi oraz informuje Komisję o istotnych zmianach tych parametrów w terminie 3 dni roboczych od dnia ich wprowadzenia.
 
 4. Komisja przekazuje informacje, o których mowa w ust. 3, Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych.
 
+4a. Spółka prowadząca rynek regulowany udostępnia na swojej stronie internetowej opis okoliczności prowadzących do zawieszenia lub ograniczenia obrotu, o których mowa w ust. 1, oraz informację o sposobie wyznaczania parametrów zawieszenia i ograniczenia obrotu, o których mowa w ust. 2.
+
 5. W przypadku gdy spółka prowadząca na terytorium Rzeczypospolitej Polskiej rynek regulowany, który jest istotny z punktu widzenia płynności danego instrumentu finansowego, zawiesza obrót tym instrumentem finansowym na podstawie ust. 1, niezwłocznie informuje o tym Komisję. Spółka prowadząca rynek regulowany powiadamia Komisję o przywróceniu obrotu danym instrumentem finansowym.
 
 6. W celu prawidłowego wykonania obowiązku, o którym mowa w ust. 5, spółka prowadząca rynek regulowany na terytorium Rzeczypospolitej Polskiej wprowadza niezbędne systemy i procedury zapewniające niezwłoczne przekazanie informacji.
+
+7. W przypadku gdy spółka prowadząca na terytorium Rzeczypospolitej Polskiej rynek regulowany nie zawiesi lub nie ograniczy obrotu instrumentami finansowymi w przypadkach, o których mowa w ust. 1, które doprowadziły do zakłócenia obrotu na jednym lub kilku rynkach, Komisja może wprowadzić ograniczenia, o których mowa w art. 20 ust. 2 i 3 oraz art. 32e ust. 1.
 
 **Art. 18b.**
 
@@ -998,6 +1179,11 @@ Art. 185–213. (pominięte)
 
 - **1)** są wyznaczane na podstawie przepisów rozporządzenia 2017/588 w sposób odzwierciedlający profil płynności danego instrumentu finansowego na różnych rynkach oraz średnią różnicę pomiędzy ceną kupna a ceną sprzedaży, z uwzględnieniem potrzeby zapewnienia rozsądnie stabilnych cen bez nieuzasadnionego dalszego ograniczania różnicy między ceną kupna a ceną sprzedaży;
 - **2)** odpowiednio dostosowują minimalną wielkość zmiany ceny dla każdego instrumentu finansowego.
+
+2a. W przypadku akcji oznaczonych międzynarodowym numerem identyfikacyjnym papieru wartościowego zgodnym z normą ISO 6166 nadanym przez podmiot uprawniony do rejestrowania takich numerów (kod ISIN) wyemitowanych w:
+
+- **1)** państwie innym niż państwo członkowskie albo
+- **2)** państwie członkowskim, które są przedmiotem obrotu w systemie obrotu państwa innego niż państwo członkowskie – w walucie tego państwa albo w walucie innej niż waluty państw członkowskich – dla których system obrotu o największej płynności znajduje się w państwie innym niż państwo członkowskie, spółka prowadząca rynek regulowany może przyjąć minimalną wielkość zmiany ceny taką samą jak minimalna wielkość zmiany ceny funkcjonująca w tym systemie obrotu.
 
 3. Spółka prowadząca rynek regulowany może odstąpić od stosowania systemów minimalnej wielkości zmiany ceny, o których mowa w ust. 1, w przypadku kojarzenia zleceń o dużej skali w porównaniu z normalną wielkością rynkową dla danych instrumentów finansowych w rozumieniu art. 7 rozporządzenia 2017/587.
 
@@ -1023,7 +1209,7 @@ Art. 185–213. (pominięte)
 
 2. Transakcja, której przedmiotem jest nabycie lub zbycie instrumentów finansowych lub która prowadzi do powstania takich instrumentów, nie stanowi gry ani zakładu w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ani gry losowej lub zakładu wzajemnego w rozumieniu przepisów o grach hazardowych, nawet jeżeli według wyraźnej lub dorozumianej woli stron rzeczywiste spełnienie wzajemnych świadczeń jest wyłączone, a tylko jedna ze stron jest obowiązana zapłacić różnicę między umówioną ceną sprzedaży a ceną rynkową w czasie wykonania umowy.
 
-**Art. 19a.** Działalność polegająca na prowadzeniu wielostronnego systemu może być prowadzona wyłącznie poprzez organizowanie rynku regulowanego, prowadzenie ASO lub OTF, na warunkach określonych w niniejszej ustawie, z wyjątkiem rynku prowadzonego poza systemem obrotu instrumentami finansowymi, o którym mowa w art. 13d.
+**Art. 19a.** (uchylony)
 
 **Art. 20.**
 
@@ -1133,7 +1319,24 @@ Art. 185–213. (pominięte)
 
 **Art. 21a.** Udzielenie przez Komisję zezwolenia na prowadzenie rynku regulowanego spółce:
 
+- **1)** która jest podmiotem zależnym od instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe albo od zagranicznego zakładu ubezpieczeń posiadającego zezwolenie na prowadzenie działalności wydane przez właściwy organ nadzoru innego państwa członkowskiego,
+- **2)** która jest podmiotem zależnym od podmiotu dominującego wobec instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe albo wobec zagranicznego zakładu ubezpieczeń posiadającego zezwolenie na prowadzenie działalności wydane przez właściwy organ nadzoru innego państwa członkowskiego,
+- **3)** na którą znaczny wpływ w rozumieniu art. 96 ust. 3 wywierają te same osoby fizyczne lub prawne, które wywierają taki znaczny wpływ na instytucję kredytową w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe albo na zagraniczny zakład ubezpieczeń posiadający zezwolenie na prowadzenie działalności wydane przez właściwy organ nadzoru innego państwa członkowskiego – następuje po zasięgnięciu pisemnej opinii właściwego organu nadzoru innego państwa członkowskiego, który udzielił podmiotowi, o którym mowa w pkt 1–3, zezwolenia na prowadzenie działalności w tym państwie, w celu dokonania oceny akcjonariuszy podmiotu należącego do tej samej grupy kapitałowej co wnioskodawca oraz oceny wiarygodności i doświadczenia członków zarządu podmiotu należącego do tej samej grupy kapitałowej co wnioskodawca lub innych osób mających wpływ na zarządzanie tym podmiotem.
+
 **Art. 22.** [1. Akcje spółki prowadzącej rynek regulowany mogą być wyłącznie imienne.] 2. Akcje spółki prowadzącej rynek regulowany mogą nabywać wyłącznie Skarb Państwa, firmy inwestycyjne, banki, towarzystwa funduszy inwestycyjnych, zarządzający ASI w rozumieniu ustawy o funduszach inwestycyjnych prowadzący działalność na podstawie zezwolenia, zakłady ubezpieczeń, powszechne towarzystwa emerytalne oraz emitenci papierów wartościowych notowanych na tym rynku regulowanym. Za zgodą Komisji akcje spółki prowadzącej rynek regulowany mogą nabywać inne krajowe i zagraniczne osoby prawne. 3. [Przepisów ust. 1 i 2 nie stosuje się w przypadku, gdy:] <Przepisu ust. 2 nie stosuje się, w przypadku gdy:>
+
+- **1)** spółka prowadząca rynek regulowany jest spółką publiczną;
+- **2)** przedmiotem obrotu na rynku regulowanym prowadzonej przez daną spółkę nie są papiery wartościowe.
+
+4. Spółka prowadząca rynek regulowany niezwłocznie po uzyskaniu zezwolenia na prowadzenie rynku regulowanego jest obowiązana podać do publicznej wiadomości listę akcjonariuszy spółki ze wskazaniem:
+
+- **1)** imienia, nazwiska oraz miejsca zamieszkania – w przypadku osób fizycznych,
+- **2)** nazwy albo firmy oraz miejsca siedziby – w przypadku osób prawnych i jednostek nieposiadających osobowości prawnej oraz
+- **3)** liczby posiadanych przez poszczególnych akcjonariuszy akcji oraz wynikającego z nich udziału w ogólnej liczbie głosów oraz w kapitale zakładowym spółki prowadzącej rynek regulowany.
+
+5. Obowiązek, o którym mowa w ust. 4, dotyczy akcjonariuszy posiadających akcje w liczbie uprawniającej do wykonywania co najmniej 5 % ogólnej liczby głosów lub stanowiącej co najmniej 5 % kapitału zakładowego spółki prowadzącej rynek regulowany.
+
+6. W przypadku zmiany danych zawartych na liście, o której mowa w ust. 4, spółka prowadząca rynek regulowany niezwłocznie podaje treść tych zmian do publicznej wiadomości.
 
 **Art. 23.** (uchylony)
 
@@ -1315,6 +1518,13 @@ Art. 185–213. (pominięte)
 
 **Art. 26a.** Komisja odmawia wydania spółce prowadzącej rynek regulowany zezwolenia odpowiednio na prowadzenie ASO lub OTF, jeżeli:
 
+- **1)** wniosek nie spełnia wymagań określonych odpowiednio w art. 25 ust. 2a lub 2b;
+- **2)** dokumenty załączone do wniosku nie są zgodne pod względem treści z przepisami prawa lub ze stanem faktycznym;
+- **3)** z analizy wniosku i załączonych do niego dokumentów wynika, że podmiot występujący z wnioskiem nie zapewni prowadzenia działalności objętej wnioskiem w sposób:
+    - **a)** zgodny z przepisami prawa regulującymi odpowiednio sposób prowadzenia ASO lub OTF lub
+    - **b)** niezagrażający bezpieczeństwu obrotu instrumentami finansowymi, lub
+    - **c)** należycie zabezpieczający interesy uczestników tego obrotu.
+
 **Art. 27.**
 
 1. Dokonanie zmian w składzie zarządu spółki prowadzącej rynek regulowany wymaga zgody Komisji, udzielanej na wniosek organu uprawnionego do powoływania i odwoływania członków zarządu spółki prowadzącej rynek regulowany. Komisja odmawia udzielenia zgody, jeżeli proponowane zmiany nie zapewniają prowadzenia działalności w sposób niezagrażający bezpieczeństwu obrotu instrumentami finansowymi lub należycie zabezpieczający interesy uczestników tego obrotu.
@@ -1352,9 +1562,9 @@ Art. 185–213. (pominięte)
 - **15)** postanowienia mające na celu wykrywanie i zapobieganie wykorzystywaniu informacji poufnych lub przeciwdziałanie i ujawnianie przypadków manipulacji na rynku, o której mowa w art. 12 rozporządzenia 596/2014;
 - **15a)** zasady zawieszania lub ograniczania obrotu instrumentami finansowymi w przypadku znacznego wahania cen tych instrumentów;
 - **15b)** zasady zmiany, unieważniania lub korekty transakcji;
-- **15c)** mechanizmy umożliwiające kontrolę otwartych pozycji w zakresie towarowych instrumentów pochodnych, innych niż towarowe instrumenty pochodne, o których mowa w art. 32f ust. 8, w szczególności umożliwiające:
+- **15c)** mechanizmy umożliwiające kontrolę otwartych pozycji w zakresie towarowych instrumentów pochodnych lub instrumentów pochodnych, których instrumentem bazowym są uprawnienia do emisji, innych niż towarowe instrumenty pochodne, o których mowa w art. 32f ust. 8, umożliwiające:
     - **a)** monitorowanie otwartych pozycji członków rynku regulowanego,
-    - **b)** uzyskiwanie od członka rynku regulowanego dostępu do informacji, w tym do istotnych dokumentów dotyczących wielkości i celu pozycji lub otwartych ekspozycji, informacji na temat beneficjentów rzeczywistych lub właścicieli instrumentu bazowego oraz do informacji na temat wspólnych ustaleń oraz powiązanych aktywów lub pasywów na rynku instrumentu bazowego, w tym pozycji utrzymywanych w towarowych instrumentach pochodnych o tym samym instrumencie bazowym i tych samych cechach w systemach obrotu instrumentami finansowymi innych niż rynek regulowany, i w ekonomicznie równoważnych kontraktach będących przedmiotem obrotu poza systemami obrotu instrumentami finansowymi,
+    - **b)** uzyskiwanie od członka rynku regulowanego dostępu do informacji, w tym do istotnych dokumentów dotyczących wielkości i celu pozycji lub otwartych ekspozycji, informacji na temat beneficjentów rzeczywistych lub właścicieli instrumentu bazowego oraz do informacji na temat wspólnych ustaleń oraz powiązanych aktywów lub pasywów na rynku instrumentu bazowego, w tym pozycji utrzymywanych w instrumentach pochodnych, których instrumentem bazowym są uprawnienia do emisji, lub w towarowych instrumentach pochodnych o tym samym instrumencie bazowym i tych samych cechach w systemach obrotu instrumentami finansowymi innych niż rynek regulowany, i w ekonomicznie równoważnych kontraktach będących przedmiotem obrotu poza systemami obrotu instrumentami finansowymi,
     - **c)** żądanie od członka rynku regulowanego, aby zamknął albo zmniejszył daną pozycję tymczasowo albo na stałe,
     - **d)** jednostronne podjęcie odpowiednich działań w celu zapewnienia zamknięcia albo zmniejszenia danej pozycji, jeżeli członek rynku regulowanego nie zastosuje się do żądania, o którym mowa w lit. c,
     - **e)** żądanie od członka rynku regulowanego, aby tymczasowo przywrócił płynność na rynku zgodnie z ustaloną ceną i wolumenem, z wyraźnym zamiarem złagodzenia skutków dużej lub dominującej pozycji;
@@ -1589,13 +1799,13 @@ Art. 185–213. (pominięte)
     - **f)** CCP,
     - **g)** centralnym depozytem papierów wartościowych;
 
-- **2)** podmiocie niefinansowym – rozumie się przez to podmiot, o którym mowa w art. 2 pkt 1 rozporządzenia 2017/591.
+- **2)** podmiocie niefinansowym – rozumie się przez to podmiot, o którym mowa w art. 2 pkt 2 rozporządzenia 2022/1302.
 
 2. W przypadku gdy działania CCP są podejmowane na podstawie regulaminów i procedur ustanowionych na podstawie odpowiednich przepisów prawa, w tym zgodnie z procedurą na wypadek niewykonania zobowiązania przez uczestnika rozliczającego, o której mowa w art. 48 ust. 1 rozporządzenia 648/2012, CCP nie jest uznawany za podmiot finansowy.
 
 **Art. 32c.**
 
-1. Komisja może, w drodze decyzji, ustalić limity otwartych pozycji dla instrumentów pochodnych opartych na towarach rolnych oraz kluczowych lub istotnych towarowych instrumentów pochodnych zgodnie z przepisami rozdziału III rozporządzenia 2017/591.
+1. Komisja może, w drodze decyzji, ustalić limity otwartych pozycji dla instrumentów pochodnych opartych na towarach rolnych oraz kluczowych lub istotnych towarowych instrumentów pochodnych zgodnie z przepisami rozdziału III rozporządzenia 2022/1302.
 
 1a. W decyzji, o której mowa w ust. 1, Komisja wskazuje termin jej wykonania, nie krótszy niż miesiąc od dnia jej ogłoszenia.
 
@@ -1611,11 +1821,11 @@ Art. 185–213. (pominięte)
 - **2)** podmiot finansowy, który wchodzi w skład grupy kapitałowej i działa w imieniu podmiotu niefinansowego wchodzącego w skład tej samej grupy kapitałowej, lub pozycji otwartych na rachunek tego podmiotu finansowego, jeżeli można je zakwalifikować jako pozycje zmniejszające ryzyko bezpośrednio związane z działalnością handlową tego podmiotu niefinansowego, o ile głównym przedmiotem działalności tej grupy kapitałowej nie jest prowadzenie działalności maklerskiej lub wykonywanie czynności bankowych;
 - **3)** podmiot finansowy lub podmiot niefinansowy, jeżeli można je zakwalifikować jako pozycje wynikające z transakcji towarowymi instrumentami pochodnymi lub uprawnieniami do emisji lub związanymi z nimi instrumentami pochodnymi, zawartych w celu spełnienia obowiązków związanych z zapewnieniem płynności w systemie obrotu.
 
-4a. Podmiot niefinansowy, o którym mowa w ust. 4 pkt 1, składa do Komisji wniosek, o którym mowa w art. 8 rozporządzenia 2017/591, o uznanie pozycji za pozycję zmniejszającą ryzyko bezpośrednio związane z jego działalnością handlową zgodnie z art. 7 tego rozporządzenia.
+4a. Podmiot niefinansowy, o którym mowa w ust. 4 pkt 1, składa do Komisji wniosek, o którym mowa w art. 8 ust. 1 rozporządzenia 2022/1302, o uznanie pozycji za pozycję zmniejszającą ryzyko bezpośrednio związane z jego działalnością handlową zgodnie z art. 7 tego rozporządzenia.
 
-4b. Podmiot finansowy, o którym mowa w ust. 4 pkt 2, składa do Komisji wniosek, o którym mowa w art. 8 rozporządzenia 2017/591, o uznanie pozycji za pozycję zmniejszającą ryzyko bezpośrednio związane z działalnością handlową podmiotu niefinansowego zgodnie z art. 7 tego rozporządzenia.
+4b. Podmiot finansowy, o którym mowa w ust. 4 pkt 2, składa do Komisji wniosek, o którym mowa w art. 8 ust. 3 rozporządzenia 2022/1302, o uznanie pozycji za pozycję zmniejszającą ryzyko bezpośrednio związane z działalnością handlową podmiotu niefinansowego zgodnie z art. 7 tego rozporządzenia.
 
-4c. Podmiot niefinansowy i podmiot finansowy, o których mowa w ust. 4 pkt 3, składają do Komisji wniosek o uznanie pozycji za pozycję wynikającą z transakcji zawartych w celu spełnienia obowiązków związanych z zapewnieniem płynności w systemie obrotu zgodnie z przepisami rozporządzenia delegowanego wydanego na podstawie art. 57 ust. 1 dyrektywy Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającej dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, z późn. zm. ).
+4c. Podmiot niefinansowy i podmiot finansowy, o których mowa w ust. 4 pkt 3, składają do Komisji wniosek, o którym mowa w art. 9 ust. 1 rozporządzenia 2022/1302, o uznanie pozycji za pozycję wynikającą z transakcji zawartych w celu spełnienia obowiązków związanych z zapewnieniem płynności w systemie obrotu zgodnie z art. 10 tego rozporządzenia.
 
 5. Limity pozycji określają maksymalną wielkość pozycji netto w instrumentach pochodnych opartych na towarach rolnych oraz kluczowych lub istotnych towarowych instrumentach pochodnych, które podmiot finansowy lub niefinansowy może posiadać, znajdujących się w obrocie w systemie obrotu instrumentami finansowymi lub znajdujących się poza systemem obrotu instrumentami finansowymi, o ile są ekonomicznie równoważne z tymi, które znajdują się w obrocie w systemie obrotu instrumentami finansowymi.
 
@@ -1629,9 +1839,9 @@ Art. 185–213. (pominięte)
 
 7. Komisja, po zasięgnięciu opinii Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych, może zmienić ustalony limit pozycji zgodnie z opinią tego Urzędu. W przypadku nieuwzględnienia opinii Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych Komisja przekazuje mu swoje stanowisko wraz z uzasadnieniem i publikuje to stanowisko wraz z uzasadnieniem na swojej stronie internetowej.
 
-8. Limity pozycji ustalone przez Komisję podlegają przeglądowi w przypadku istotnej zmiany na rynku wpływającej na wartości, na podstawie których są ustalane. W takim przypadku Komisja ustala nowy limit pozycji zgodnie z przepisami rozdziału III rozporządzenia 2017/591. Do ponownego ustalenia limitu pozycji stosuje się przepisy ust. 1–7.
+8. Limity pozycji ustalone przez Komisję podlegają przeglądowi w przypadku istotnej zmiany na rynku wpływającej na wartości, na podstawie których są ustalane. W takim przypadku Komisja ustala nowy limit pozycji zgodnie z przepisami rozdziału III rozporządzenia 2022/1302. Do ponownego ustalenia limitu pozycji stosuje się przepisy ust. 1–7.
 
-9. W przypadku gdy jest to uzasadnione koniecznością zapewnienia płynności rynku i prawidłowości funkcjonowania tego rynku, Komisja może, w decyzji, o której mowa w ust. 1, ustalić limity pozycji niższe od określanych zgodnie z przepisami rozdziału III rozporządzenia 2017/591. Limity takie nie mogą zostać wprowadzone na dłużej niż 6 miesięcy. W przypadku gdy jest to uzasadnione koniecznością zapewnienia płynności rynku i prawidłowości funkcjonowania tego rynku, Komisja może przedłużyć okres obowiązywania niższego limitu pozycji o kolejne 6 miesięcy.
+9. W przypadku gdy jest to uzasadnione koniecznością zapewnienia płynności rynku i prawidłowości funkcjonowania tego rynku, Komisja może, w decyzji, o której mowa w ust. 1, ustalić limity pozycji niższe od określanych zgodnie z przepisami rozdziału III rozporządzenia 2022/1302. Limity takie nie mogą zostać wprowadzone na dłużej niż 6 miesięcy. W przypadku gdy jest to uzasadnione koniecznością zapewnienia płynności rynku i prawidłowości funkcjonowania tego rynku, Komisja może przedłużyć okres obowiązywania niższego limitu pozycji o kolejne 6 miesięcy.
 
 10. W przypadku ustalenia przez Komisję limitów pozycji zgodnie z ust. 9 Komisja informuje o tym Europejski Urząd Nadzoru Giełd i Papierów Wartościowych. W przypadku jego negatywnej opinii Komisja może zmienić ustalony limit pozycji zgodnie z tą opinią. W przypadku nieuwzględnienia opinii tego Urzędu Komisja publikuje swoje stanowisko wraz z uzasadnieniem na swojej stronie internetowej.
 
@@ -1665,7 +1875,7 @@ Art. 185–213. (pominięte)
 
 - **1)** informacje o przyczynach zastosowania takich środków;
 - **2)** imię i nazwisko lub nazwę (firmę) oraz informacje o siedzibie i adresie podmiotu, wobec którego takie środki mają być zastosowane;
-- **3)** informacje o limicie, który zgodnie z art. 32c ust. 1 obowiązuje podmiot, wobec którego takie środki mają być zastosowane, oraz o rodzaju towarowego instrumentu pochodnego, którego ten limit dotyczy, i o niestosowaniu przez ten podmiot limitów pozycji na podstawie art. 8 rozporządzenia 2017/591, ze wskazaniem przyczyn ich niestosowania.
+- **3)** informacje o limicie, który zgodnie z art. 32c ust. 1 obowiązuje podmiot, wobec którego takie środki mają być zastosowane, oraz o rodzaju towarowego instrumentu pochodnego, którego ten limit dotyczy, i o niestosowaniu przez ten podmiot limitów pozycji na podstawie art. 8 rozporządzenia 2022/1302, ze wskazaniem przyczyn ich niestosowania.
 
 3. Informacje, o których mowa w ust. 2, Komisja przekazuje Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych oraz właściwemu organowi nadzoru innego państwa członkowskiego nie później niż 24 godziny przed wydaniem decyzji.
 
@@ -1681,12 +1891,12 @@ Art. 185–213. (pominięte)
 
 **Art. 32f.**
 
-1. Firma inwestycyjna lub spółka prowadząca rynek regulowany, prowadzące system obrotu instrumentami finansowymi, które dopuszczają do obrotu towarowe instrumenty pochodne, uprawnienia do emisji lub instrumenty pochodne, których instrumentem bazowym są uprawnienia do emisji:
+1. Firma inwestycyjna lub spółka prowadząca rynek regulowany, prowadzące system obrotu instrumentami finansowymi, w którym jest prowadzony obrót towarowymi instrumentami pochodnymi lub instrumentami pochodnymi, których instrumentem bazowym są uprawnienia do emisji:
 
-- **1)** podają do publicznej wiadomości, za pośrednictwem agencji informacyjnej, o której mowa w art. 58 ust. 1 ustawy o ofercie publicznej, oraz przekazują Komisji i Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych cotygodniowe sprawozdanie zawierające zbiorcze zestawienie pozycji utrzymywanych przez poszczególne kategorie podmiotów, o których mowa w ust. 4 pkt 1–5, w odniesieniu do poszczególnych towarowych instrumentów pochodnych, uprawnień do emisji lub instrumentów pochodnych, których instrumentem bazowym są uprawnienia do emisji, będących przedmiotem obrotu w prowadzonych przez firmę inwestycyjną lub spółkę prowadzącą rynek regulowany systemach obrotu instrumentami finansowymi, z uwzględnieniem liczby długich i krótkich pozycji w każdym towarowym instrumencie pochodnym, uprawnieniach do emisji lub instrumentach pochodnych, których instrumentem bazowym są uprawnienia do emisji, dla każdej z takich kategorii podmiotów, ich zmian od czasu poprzedniego sprawozdania, procentowego udziału całkowitej liczby otwartych pozycji w każdym towarowym instrumencie pochodnym, uprawnieniu do emisji lub instrumencie pochodnym, którego instrumentem bazowym są uprawnienia do emisji, dla każdej z takich kategorii podmiotów, i liczby osób posiadających takie pozycje w każdej z takich kategorii podmiotów;
+- **1)** podają do publicznej wiadomości, za pośrednictwem agencji informacyjnej, o której mowa w art. 58 ust. 1 ustawy o ofercie publicznej, oraz przekazują Komisji i Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych cotygodniowe sprawozdanie, a w przypadku systemów obrotu instrumentami finansowymi, w których jest prowadzony obrót opcjami – dwa cotygodniowe sprawozdania, w tym jedno z wyłączeniem opcji, przy czym sprawozdania te zawierają zbiorcze zestawienie pozycji utrzymywanych przez poszczególne kategorie podmiotów, o których mowa w ust. 4 pkt 1–5, w odniesieniu do poszczególnych towarowych instrumentów pochodnych lub instrumentów pochodnych, których instrumentem bazowym są uprawnienia do emisji, będących przedmiotem obrotu w prowadzonych przez firmę inwestycyjną lub spółkę prowadzącą rynek regulowany systemach obrotu instrumentami finansowymi, z uwzględnieniem liczby długich i krótkich pozycji w każdym towarowym instrumencie pochodnym lub instrumencie pochodnym, którego instrumentem bazowym są uprawnienia do emisji, dla każdej z takich kategorii podmiotów, ich zmian od czasu poprzedniego sprawozdania, procentowego udziału całkowitej liczby otwartych pozycji w każdym towarowym instrumencie pochodnym lub instrumencie pochodnym, którego instrumentem bazowym są uprawnienia do emisji, dla każdej z takich kategorii podmiotów, i liczby osób posiadających takie pozycje w każdej z takich kategorii podmiotów;
 - **2)** przekazują Komisji, co najmniej raz dziennie oraz na żądanie Komisji, zestawienie pozycji posiadanych w ramach danego systemu obrotu instrumentami finansowymi przez wszystkie osoby, w tym członków lub uczestników oraz ich klientów.
 
-2. W przypadku gdy firma inwestycyjna zawiera transakcje poza systemem obrotu instrumentami finansowymi na terytorium Rzeczypospolitej Polskiej lub poza systemem obrotu instrumentami finansowymi innego państwa członkowskiego, których przedmiotem są towarowe instrumenty pochodne, uprawnienia do emisji lub instrumenty pochodne, których instrumentem bazowym są uprawnienia do emisji, będące przedmiotem obrotu w systemie obrotu instrumentami finansowymi na terytorium Rzeczypospolitej Polskiej lub w systemie obrotu instrumentami finansowymi innego państwa członkowskiego, lub pośredniczy w zawieraniu takich transakcji, firma inwestycyjna przekazuje, raz dziennie, odpowiednio Komisji lub właściwemu organowi nadzoru innego państwa członkowskiego właściwemu dla systemu obrotu instrumentami finansowymi innego państwa członkowskiego, w którym te instrumenty finansowe znajdują się w obrocie, a w przypadku gdy towarowe instrumenty pochodne, uprawnienia do emisji lub instrumenty pochodne, których instrumentem bazowym są uprawnienia do emisji, znajdują się w obrocie w systemach obrotu instrumentami finansowymi kilku państw członkowskich – organowi nadzoru państwa członkowskiego właściwemu ze względu na największy wolumen obrotu tym instrumentem finansowym, zestawienie pozycji w zakresie tych instrumentów finansowych lub ekonomicznie równoważnych kontraktów będących przedmiotem obrotu poza systemem obrotu instrumentami finansowymi, a także pozycji jej klientów, zgodnie z art. 26 rozporządzenia 600/2014, a także w przypadku, gdy zgodnie z art. 8 rozporządzenia 1227/2011 przekazanie takiego zestawienia jest wymagane.
+2. W przypadku gdy firma inwestycyjna zawiera transakcje poza systemem obrotu instrumentami finansowymi na terytorium Rzeczypospolitej Polskiej lub poza systemem obrotu instrumentami finansowymi innego państwa członkowskiego, których przedmiotem są towarowe instrumenty pochodne lub instrumenty pochodne, których instrumentem bazowym są uprawnienia do emisji, będące przedmiotem obrotu w systemie obrotu instrumentami finansowymi na terytorium Rzeczypospolitej Polskiej lub w systemie obrotu instrumentami finansowymi innego państwa członkowskiego, lub pośredniczy w zawieraniu takich transakcji, firma inwestycyjna przekazuje, raz dziennie, odpowiednio Komisji lub właściwemu organowi nadzoru innego państwa członkowskiego właściwemu dla systemu obrotu instrumentami finansowymi innego państwa członkowskiego, w którym te instrumenty finansowe znajdują się w obrocie, a w przypadku gdy towarowe instrumenty pochodne lub instrumenty pochodne, których instrumentem bazowym są uprawnienia do emisji, znajdują się w obrocie w systemach obrotu instrumentami finansowymi kilku państw członkowskich – organowi nadzoru państwa członkowskiego właściwemu ze względu na największy wolumen obrotu tym instrumentem finansowym, zestawienie pozycji w zakresie tych instrumentów finansowych lub ekonomicznie równoważnych kontraktów będących przedmiotem obrotu poza systemem obrotu instrumentami finansowymi, a także pozycji jej klientów, zgodnie z art. 26 rozporządzenia 600/2014. Firma inwestycyjna przekazuje takie zestawienie także w przypadku, gdy zgodnie z art. 8 rozporządzenia 1227/2011 przekazanie takiego zestawienia jest wymagane.
 
 3. Członkowie rynku regulowanego, ASO oraz OTF przekazują, co najmniej raz dziennie, firmie inwestycyjnej lub spółce prowadzącej rynek regulowany szczegółowe informacje o ich własnych pozycjach w kontraktach znajdujących się w obrocie w systemie obrotu instrumentami finansowymi prowadzonym przez tę firmę inwestycyjną lub przez tę spółkę, a także o pozycjach swoich klientów.
 
@@ -1695,7 +1905,7 @@ Art. 185–213. (pominięte)
 - **1)** firmy inwestycyjne, banki lub instytucje kredytowe w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
 - **2)** towarzystwa funduszy inwestycyjnych, fundusze inwestycyjne, alternatywne spółki inwestycyjne, zarządzających ASI, spółki zarządzające, fundusze zagraniczne, unijne AFI lub zarządzających z UE w rozumieniu ustawy o funduszach inwestycyjnych;
 - **3)** inne instytucje finansowe, w tym zakłady ubezpieczeń oraz fundusze emerytalne lub towarzystwa emerytalne w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
-- **4)** operatorów statków powietrznych, o których mowa w art. 3 pkt 14 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, lub podmioty prowadzące instalację, o których mowa w art. 3 pkt 16 tej ustawy, wykonujące wyłącznie czynności określone w art. 69 ust. 2 pkt 3, których przedmiotem są uprawnienia do emisji – w przypadku uprawnień do emisji lub związanych z nimi instrumentów pochodnych;
+- **4)** operatorów statków powietrznych, o których mowa w art. 3 pkt 14 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, lub podmioty prowadzące instalację, o których mowa w art. 3 pkt 16 tej ustawy, wykonujące wyłącznie czynności określone w art. 69 ust. 2 pkt 3, których przedmiotem są uprawnienia do emisji – w przypadku instrumentów pochodnych, których instrumentem bazowym są uprawnienia do emisji;
 - **5)** inne podmioty.
 
 5. Sprawozdania, o których mowa w ust. 1 pkt 1, oraz zestawienia, o których mowa w ust. 2, zawierają rozróżnienie między pozycjami zidentyfikowanymi jako pozycje, które obiektywnie zmniejszają ryzyko bezpośrednio związane z działalnością handlową, a innymi pozycjami.
@@ -1733,6 +1943,9 @@ Art. 185–213. (pominięte)
 2. Rozrachunkiem transakcji mających za przedmiot instrumenty finansowe jest obciążenie lub uznanie konta depozytowego, rachunku zbiorczego lub rachunku papierów wartościowych prowadzonego przez Krajowy Depozyt, spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1, lub przez izbę rozrachunkową (podmiot przeprowadzający rozrachunek), odpowiednio w związku z transakcją zbycia lub nabycia instrumentów finansowych, a także odpowiednio do ustalonych w trakcie rozliczenia kwot świadczeń, uznanie lub obciążenie rachunku bankowego lub rachunku pieniężnego wskazanego przez uczestnika będącego stroną transakcji albo stroną rozliczenia.
 
 **Art. 45c.** Rozliczanie i rozrachunek transakcji oraz rejestracja w zakresie papierów wartościowych:
+
+- **1)** emitowanych przez Skarb Państwa lub Narodowy Bank Polski,
+- **2)** opiewających na zbywalne prawa majątkowe wynikające z papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski – mogą być dokonane w odrębnym systemie prowadzonym przez Narodowy Bank Polski.
 
 **Art. 45d.** Jeżeli sposób rozliczenia transakcji polega na tym, że podmiot, o którym mowa w art. 45b ust. 1, zobowiązany jest do spełnienia świadczenia w wysokości stanowiącej nadwyżkę ponad wartość należnego mu świadczenia pieniężnego lub niepieniężnego, obowiązek spełnienia przez ten podmiot świadczenia w tej wysokości powstaje z chwilą zawarcia transakcji, a w przypadku, o którym mowa w art. 45h ust. 1 – z momentem przyjęcia transakcji do rozliczenia. Nie wyłącza to możliwości ustalenia innej wysokości świadczenia w przypadkach określonych w art. 45f.
 
@@ -2011,7 +2224,7 @@ Art. 185–213. (pominięte)
 5a. Krajowy Depozyt może również:
 
 - **1)** na zasadach określonych w odrębnym regulaminie, gromadzić i przechowywać informacje dotyczące transakcji, których przedmiotem są instrumenty finansowe, oraz informacje dotyczące tych instrumentów (repozytorium transakcji);
-- **2)** prowadzić działalność w zakresie nadawania identyfikatorów, o których mowa w art. 3 ust. 1 i 2 rozporządzenia wykonawczego Komisji (UE) nr 1247/2012 z dnia 19 grudnia 2012 r. ustanawiającego wykonawcze standardy techniczne w odniesieniu do formatu i częstotliwości dokonywania zgłoszeń dotyczących transakcji do repozytoriów transakcji zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 648/2012 w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 352 z 21.12.2012, str. 20);
+- **2)** prowadzić działalność w zakresie nadawania identyfikatorów, o których mowa w art. 3 ust. 1 rozporządzenia wykonawczego Komisji (UE) 2022/1860 z dnia 10 czerwca 2022 r. ustanawiającego, na potrzeby stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012, wykonawcze standardy techniczne w odniesieniu do standardów, formatów, częstotliwości i metod oraz zasad dokonywania zgłoszeń (Dz. Urz. UE L 262 z 07.10.2022, str. 68, z późn. zm. );
 - **3)** prowadzić działalność jako dostawca usług w zakresie udostępniania informacji.
 
 5b. (uchylony) 5c. (uchylony) 5d. (uchylony) 5e. Krajowy Depozyt gromadzi i udostępnia do publicznej wiadomości informacje o nieumorzonych obligacjach, listach zastawnych oraz certyfikatach inwestycyjnych wyemitowanych przez poszczególnych emitentów posiadających siedzibę na terytorium Rzeczypospolitej Polskiej, informacje dotyczące wielkości ich zobowiązań z tytułu tych papierów wartościowych, a także informacje pozwalające ustalić zakres i terminowość wykonywania przez nich tych zobowiązań.
@@ -2550,7 +2763,7 @@ Art. 185–213. (pominięte)
 
 2. W przypadku gdy dom maklerski wykonuje czynności, o których mowa w ust. 1, przepisy art. 3a, art. 73 ust. 6a, art. 76, art. 82a ust. 1 i 3, art. 83a ust. 3a–3f i 3h–4d, art. 83b ust. 1–3 i 7–17 oraz art. 83c–83j stosuje się odpowiednio, z tym że do lokat strukturyzowanych, których konstrukcja nie utrudnia klientowi lub potencjalnemu klientowi zrozumienia ryzyka związanego ze stopą zwrotu lub zrozumienia kosztów likwidacji lokaty przed terminem, jeżeli spełnione są warunki określone w art. 83h ust. 5 pkt 2–4, przepisów art. 83h ust. 1–4 nie stosuje się.
 
-**Art. 69i.** W przypadku świadczenia przez firmę inwestycyjną usług w zakresie produktów energetycznych będących przedmiotem obrotu hurtowego na OTF, które muszą być wykonywane przez dostawę, o których mowa w art. 2 ust. 1 pkt 2 lit. e, przepisy art. 73 ust. 4–5e i 5g–6a, art. 73a ust. 5, art. 83a ust. 3a–3c, art. 83b ust. 7 oraz art. 83c ust. 1 i 2 stosuje się odpowiednio.
+**Art. 69i.** W przypadku świadczenia przez firmę inwestycyjną usług w zakresie produktów energetycznych będących przedmiotem obrotu hurtowego na OTF, które muszą być wykonywane przez dostawę, o których mowa w art. 2 ust. 1 pkt 2 lit. e, przepisy art. 73 ust. 4–5e i 5g–6a, art. 83a ust. 3a–3c, art. 83b ust. 7 oraz art. 83c ust. 1 i 2 stosuje się odpowiednio.
 
 **Art. 70.**
 
@@ -2561,7 +2774,7 @@ Art. 185–213. (pominięte)
 - **3)** podmiotów prowadzących działalność gospodarczą inną niż działalność maklerska, wykonujących czynności określone w art. 69 ust. 2 w sposób incydentalny w związku z prowadzoną działalnością, o ile działalność ta jest regulowana przepisami lub podlega zasadom etyki zawodowej i o ile przepisy te nie wyłączają możliwości wykonywania tych czynności;
 - **4)** podmiotów, które spośród czynności wymienionych w art. 69 ust. 2 wykonują wyłącznie czynności określone w art. 69 ust. 2 pkt 3, których przedmiotem są instrumenty finansowe inne niż towarowe instrumenty pochodne, uprawnienia do emisji lub instrumenty pochodne, których instrumentem bazowym są uprawnienia do emisji, chyba że czynności te są wykonywane w ramach:
     - **a)** funkcji animatora rynku lub
-    - **b)** członkostwa lub uczestnictwa w rynku regulowanym lub ASO, lub w ramach bezpośredniego dostępu elektronicznego, z wyjątkiem podmiotów niefinansowych, o których mowa w art. 2 pkt 1 rozporządzenia 2017/591, zawierających wskutek tych czynności transakcje, co do których, zgodnie z art. 8 rozporządzenia 2017/591, uznano, że zmniejszają ryzyko bezpośrednio związane z działalnością gospodarczą lub działalnością w zakresie zarządzania aktywami i pasywami tych podmiotów lub grupy, do której należą te podmioty, lub
+    - **b)** członkostwa lub uczestnictwa w rynku regulowanym lub ASO, z wyjątkiem podmiotów niefinansowych: – o których mowa w art. 2 pkt 2 rozporządzenia 2022/1302, zawierających wskutek tych czynności transakcje na potrzeby zarządzania płynnością tych podmiotów lub grupy, do której należą, – w przypadku których, zgodnie z art. 9 rozporządzenia 2022/1302, uznano, że zmniejszają ryzyko bezpośrednio związane z działalnością gospodarczą lub działalnością w zakresie zarządzania aktywami i pasywami tych podmiotów lub grupy, do której należą, lub
     - **c)** stosowania techniki handlu algorytmicznego o wysokiej częstotliwości, lub
     - **d)** wykonywania zleceń nabycia lub zbycia instrumentów finansowych na rachunek dającego zlecenie, w tym przez zestawianie zleceń;
 
@@ -2597,7 +2810,7 @@ Art. 185–213. (pominięte)
 
 1d. Wykonywanie zleceń nabycia lub zbycia instrumentów finansowych, o których mowa w ust. 1 pkt 10, dokonywane w ramach wyłączenia, o którym mowa w ust. 1 pkt 10, uznaje się za objęte zakresem tego wyłączenia.
 
-1e. Przez charakter dodatkowy czynności w stosunku do głównego przedmiotu działalności, o którym mowa w ust. 1 pkt 10, rozumie się spełnianie warunków przewidzianych w rozporządzeniu 2017/592.
+1e. Przez charakter dodatkowy czynności w stosunku do głównego przedmiotu działalności, o którym mowa w ust. 1 pkt 10, rozumie się spełnianie warunków przewidzianych w rozporządzeniu delegowanym Komisji (UE) 2021/1833 z dnia 14 lipca 2021 r. uzupełniającym dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE poprzez sprecyzowanie kryteriów ustalania, kiedy działalność ma być uznawana za działalność dodatkową względem głównego zakresu działalności na poziomie grupy (Dz. Urz. UE L 372 z 20.10.2021, str. 1).
 
 1f. (uchylony) 1g. (uchylony) 1h. Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania podmiotów, o których mowa w ust. 1 pkt 10, lub wchodzące w skład ich statutowych organów albo pozostające z tymi podmiotami w stosunku pracy niezwłocznie sporządzają i przekazują, na koszt tych podmiotów, kopie dokumentów i innych nośników informacji oraz udzielają pisemnych lub ustnych wyjaśnień w zakresie korzystania z wyłączenia, o którym mowa w ust. 1 pkt 10, niezbędnych do ustalenia, czy czynności mają charakter dodatkowy w stosunku do głównego przedmiotu działalności.
 
@@ -2617,13 +2830,19 @@ Art. 185–213. (pominięte)
 
 3. Wykonywanie przez bank, zgodnie z ust. 2, czynności, o których mowa w art. 69 ust. 2 pkt 1–7 i ust. 4, nie stanowi działalności maklerskiej.
 
-4. W zakresie wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 1–7 i ust. 4, do banku, o którym mowa w ust. 2, stosuje się odpowiednio przepisy art. 3a, art. 72, art. 73 ust. 1, 2, 5j–5o i 6a, art. 73a–73d, art. 74b–76, art. 77, art. 79–81a, art. 81c, art. 81d, art. 81f, art. 82a, art. 83a–83ja, art. 88 i art. 90 oraz bezpośrednio obowiązujące przepisy prawa Unii Europejskiej odnoszące się do prowadzenia działalności w zakresie wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 1–7 i ust. 4, a w zakresie nieuregulowanym w tych przepisach stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
+4. W zakresie wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 1–7 i ust. 4, do banku, o którym mowa w ust. 2, stosuje się odpowiednio przepisy art. 3a, art. 72, art. 73 ust. 1, 2, 5j–5o i 6a, art. 73a, art. 73b, art. 73d, art. 74b–76, art. 77, art. 79–81a, art. 81c, art. 81d, art. 81f, art. 82a, art. 83a–83ja, art. 88 i art. 90 oraz bezpośrednio obowiązujące przepisy prawa Unii Europejskiej odnoszące się do prowadzenia działalności w zakresie wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 1–7 i ust. 4, a w zakresie nieuregulowanym w tych przepisach stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 5. W zakresie wykonywania przez agenta firmy inwestycyjnej czynności na rzecz banku, o którym mowa w ust. 2, stosuje się odpowiednio art. 79–81.
 
 **Art. 71.** (uchylony)
 
 **Art. 72.** Przez oferowanie instrumentów finansowych rozumie się podejmowanie na rzecz emitenta papierów wartościowych, wystawcy instrumentu finansowego lub oferującego instrument finansowy czynności prowadzących do nabycia przez inne podmioty instrumentów finansowych, przez:
+
+- **1)** prezentowanie, w dowolnej formie i w dowolny sposób, udostępnianych przez emitenta, wystawcę lub oferującego, informacji o instrumentach finansowych i warunkach ich nabycia, stanowiących wystarczającą podstawę do podjęcia decyzji o nabyciu tych instrumentów lub
+- **2)** pośredniczenie w zbywaniu instrumentów finansowych nabywanych przez podmioty w wyniku prezentowania informacji, o których mowa w pkt 1, lub
+- **3)** prezentowanie indywidualnie oznaczonym adresatom, w dowolnej formie i w dowolny sposób, udostępnianych przez emitenta, wystawcę lub oferującego informacji w celu:
+    - **a)** promowania, bezpośrednio lub pośrednio, nabycia instrumentów finansowych lub
+    - **b)** zachęcania, bezpośrednio lub pośrednio, do nabycia instrumentów finansowych.
 
 **Art. 73.**
 
@@ -2706,15 +2925,15 @@ Art. 185–213. (pominięte)
 
 4. W przypadku gdy zlecenie składane jest przez klienta detalicznego, możliwie najlepszy wynik określa się w ujęciu ogólnym, z uwzględnieniem ceny instrumentu finansowego oraz kosztów związanych z wykonaniem transakcji, obejmujących wydatki, jakie klient poniósłby w związku z wykonaniem zlecenia, w szczególności opłaty transakcyjne, opłaty z tytułu rozliczenia i rozrachunku transakcji, oraz koszty ponoszone na rzecz podmiotów trzecich uczestniczących w wykonaniu zlecenia.
 
-5. W związku z kierowaniem zleceń do systemu obrotu instrumentami finansowymi lub innych systemów wykonywania zlecenia firma inwestycyjna nie może przyjmować świadczeń pieniężnych lub niepieniężnych, które naruszałyby jej obowiązki związane z zarządzaniem konfliktami interesów oraz przyjmowaniem świadczeń pieniężnych lub niepieniężnych.
+5. (uchylony)
 
-6. W odniesieniu do instrumentów finansowych podlegających obowiązkowi obrotu, o którym mowa w art. 23 lub art. 28 rozporządzenia 600/2014, podmiot prowadzący system obrotu instrumentami finansowymi lub podmiot systematycznie internalizujący transakcje są obowiązane podawać nieodpłatnie do publicznej wiadomości, co najmniej raz w roku, raport dotyczący sposobu, w jaki wykonywano zlecenia w tym systemie. W odniesieniu do każdego instrumentu finansowego raport obejmuje informacje dotyczące ceny instrumentu finansowego, kosztów związanych z wykonaniem zlecenia, czasu zawarcia transakcji oraz prawdopodobieństwa zawarcia transakcji.
+6. (uchylony)
 
-7. Przepis ust. 6 stosuje się również do systemów wykonywania zlecenia w zakresie instrumentów finansowych innych niż podlegające obowiązkowi obrotu, o którym mowa w art. 23 lub art. 28 rozporządzenia 600/2014, jeżeli są przedmiotem obrotu w tym systemie.
+7. (uchylony)
 
-8. Podanie do publicznej wiadomości informacji, o których mowa w ust. 6 i 7, następuje z uwzględnieniem art. 3 rozporządzenia 2017/575.
+8. (uchylony)
 
-9. Firma inwestycyjna jest obowiązana informować klienta o systemie wykonywania zlecenia, w którym jego zlecenie zostało wykonane.
+9. W odniesieniu do instrumentów finansowych podlegających obowiązkowi obrotu, o którym mowa w art. 23 lub art. 28 rozporządzenia 600/2014, firma inwestycyjna jest obowiązana informować klienta o systemie wykonywania zlecenia, w którym jego zlecenie zostało wykonane.
 
 **Art. 73b.**
 
@@ -2726,11 +2945,7 @@ Art. 185–213. (pominięte)
 
 4. W przypadku gdy polityka wykonywania zleceń przewiduje możliwości wykonywania zleceń poza systemem obrotu instrumentami finansowymi, firma inwestycyjna uzyskuje uprzednią, wyraźną zgodę klienta na wykonanie jego zlecenia poza systemem obrotu instrumentami finansowymi. Zgoda klienta może mieć charakter ogólny lub dotyczyć poszczególnych transakcji.
 
-**Art. 73c.**
-
-1. Firma inwestycyjna świadcząca usługi wykonywania zleceń nabycia lub zbycia instrumentów finansowych sporządza i podaje do publicznej wiadomości, w odniesieniu do każdej klasy instrumentów finansowych, coroczny raport zawierający wykaz pięciu najlepszych systemów wykonywania zlecenia, ustalonych przy uwzględnieniu wolumenu obrotu zrealizowanego przez firmę w danym systemie wykonywania zlecenia w okresie, za który jest sporządzany raport, oraz informację o jakości wykonanych zleceń.
-
-2. Podanie przez firmę inwestycyjną do publicznej wiadomości raportu, o którym mowa w ust. 1, następuje z uwzględnieniem przepisów rozporządzenia delegowanego Komisji (UE) 2017/576 z dnia 8 czerwca 2016 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do regulacyjnych standardów technicznych dotyczących podawania co roku do wiadomości publicznej przez firmy inwestycyjne informacji o tożsamości systemów wykonywania zleceń i jakości wykonywania zleceń (Dz. Urz. UE L 87 z 31.03.2017, str. 166).
+**Art. 73c.** (uchylony)
 
 **Art. 73d.**
 
@@ -2756,6 +2971,10 @@ Art. 185–213. (pominięte)
 2. (uchylony)
 
 **Art. 74c.** Nie stanowi działalności maklerskiej, o której mowa w art. 69 ust. 2 pkt 3, przeniesienie przez firmę inwestycyjną instrumentów finansowych:
+
+- **1)** na rzecz pożyczkobiorcy, w wykonaniu umowy pożyczki instrumentów finansowych zawartej w imieniu własnym przez firmę inwestycyjną działającą na rachunek pożyczkobiorcy lub pożyczkodawcy;
+- **2)** na rzecz pożyczkodawcy, w wyniku zwrotu instrumentów finansowych będących przedmiotem pożyczki instrumentów finansowych lub w wyniku ustanowienia zabezpieczenia pożyczki instrumentów finansowych przez pożyczkobiorcę;
+- **3)** na rzecz pożyczkobiorcy, w wyniku zwrotu instrumentów finansowych będących przedmiotem zabezpieczenia pożyczki instrumentów finansowych.
 
 **Art. 74d.**
 
@@ -2888,7 +3107,7 @@ Art. 185–213. (pominięte)
 
 4b. W przypadkach, o których mowa w ust. 3 i 4, Komisja może zażądać od firmy inwestycyjnej prowadzącej ASO lub OTF zawieszenia lub wykluczenia z obrotu instrumentów pochodnych powiązanych z papierami wartościowymi lub instrumentami finansowymi niebędącymi papierami wartościowymi, o ile jest to konieczne dla osiągnięcia celów zawieszenia lub wykluczenia z obrotu papierów wartościowych lub instrumentów finansowych niebędących papierami wartościowymi stanowiących instrument bazowy tego instrumentu pochodnego.
 
-4c. Firma inwestycyjna prowadząca ASO lub OTF, która zawiesiła lub wykluczyła z obrotu w tym systemie instrument finansowy, odpowiednio zawiesza lub wyklucza z obrotu powiązane z nim instrumenty pochodne, w przypadku gdy jest to konieczne do osiągnięcia celów zawieszenia lub wykluczenia bazowego instrumentu finansowego.
+4c. Firma inwestycyjna prowadząca ASO lub OTF, która zawiesiła lub wykluczyła z obrotu w tym systemie instrument finansowy, odpowiednio zawiesza lub wyklucza z obrotu powiązane z nim instrumenty pochodne, w przypadku gdy jest to konieczne do osiągnięcia celów zawieszenia lub wykluczenia bazowego instrumentu finansowego. Firma inwestycyjna prowadząca ASO lub OTF informuje Komisję o podjęciu decyzji o zawieszeniu lub wykluczeniu z obrotu instrumentów pochodnych powiązanych z zawieszonym lub wykluczonym z obrotu instrumentem finansowym i podaje tę informację do publicznej wiadomości.
 
 4d. W przypadku zawieszenia lub wykluczenia z obrotu w ASO lub na OTF na podstawie ust. 4a lub 4c Komisja występuje do spółek prowadzących rynek regulowany, innych podmiotów prowadzących ASO, innych podmiotów prowadzących OTF oraz podmiotów systematycznie internalizujących transakcje z siedzibą na terytorium Rzeczypospolitej Polskiej, organizujących obrót tymi samymi instrumentami finansowymi lub powiązanymi z nimi instrumentami pochodnymi, z żądaniem zawieszenia lub wykluczenia z obrotu tego instrumentu finansowego lub powiązanego z nim instrumentu pochodnego, w przypadku gdy takie zawieszenie lub wykluczenie z obrotu związane jest z podejrzeniem wykorzystania informacji poufnej, bezprawnego ujawnienia informacji poufnej, manipulacji na rynku, ogłoszenia wezwania do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej lub podejrzeniem naruszenia obowiązku publikacji informacji poufnej o emitencie lub instrumencie finansowym zgodnie z przepisami art. 7 i art. 17 rozporządzenia 596/2014, chyba że takie zawieszenie lub wykluczenie z obrotu mogłoby spowodować poważną szkodę dla interesów inwestorów lub prawidłowego funkcjonowania rynku.
 
@@ -2954,7 +3173,7 @@ Art. 185–213. (pominięte)
 
 2. Zasady zawierania transakcji w ASO nie mogą przewidywać zaangażowania środków własnych firmy inwestycyjnej w wykonywanie zleceń w tym systemie lub zestawiania zleceń.
 
-3. Do transakcji zawieranych w ASO pomiędzy jego członkami oraz do umowy o korzystanie z tego systemu między firmą inwestycyjną prowadzącą ASO a członkiem ASO przepisów art. 73 ust. 6a–6c, art. 73a ust. 1–5, art. 73b–73d, art. 82a, art. 83b ust. 8 i art. 83c–83h nie stosuje się.
+3. Do transakcji zawieranych w ASO pomiędzy jego członkami oraz do umowy o korzystanie z tego systemu między firmą inwestycyjną prowadzącą ASO a członkiem ASO przepisów art. 73 ust. 6a–6c, art. 73a ust. 1–4, art. 73b, art. 73d, art. 82a, art. 83b ust. 8 i art. 83c–83h nie stosuje się.
 
 **Art. 78c.**
 
@@ -3012,7 +3231,7 @@ Art. 185–213. (pominięte)
 
 3. W odniesieniu do instrumentów finansowych innych niż udziałowe firma inwestycyjna prowadząca OTF może ułatwiać negocjacje między klientami w celu skojarzenia ze sobą dwóch lub więcej zleceń w jednej transakcji.
 
-4. Do wykonywania zleceń klientów na OTF przepisy art. 73 ust. 5i i 6a–6c, art. 73a–73d, art. 82a, art. 83b ust. 8 oraz art. 83c–83h stosuje się odpowiednio.
+4. Do wykonywania zleceń klientów na OTF przepisy art. 73 ust. 5i i 6a–6c, art. 73a, art. 73b, art. 73d, art. 82a, art. 83b ust. 8 oraz art. 83c–83h stosuje się odpowiednio.
 
 **Art. 78g.**
 
@@ -3565,7 +3784,7 @@ Art. 185–213. (pominięte)
 
 7. Przepisy ust. 1–6 stosuje się odpowiednio do usług maklerskich świadczonych na rzecz klienta profesjonalnego, na żądanie takiego klienta. Klient profesjonalny może zgłosić takie żądanie na piśmie lub w postaci elektronicznej spełniającej wymogi, o których mowa w art. 13 ust. 2 i 3.
 
-8. Firma inwestycyjna ewidencjonuje i przechowuje dokumenty, korespondencję elektroniczną oraz inne informacje przekazywane lub otrzymywane w związku z żądaniami klientów profesjonalnych, o których mowa w ust. 7. Art. 83ja. 1. W przypadku gdy firma inwestycyjna uprawniona do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1–3, zawiera transakcje lub pośredniczy w zawieraniu transakcji z uprawnionym kontrahentem, przepisów art. 73 ust. 6a, art. 73a ust. 1–3 i 5, art. 73b, art. 73d ust. 2 i 3, art. 83b ust. 8–17, art. 83c ust. 2–4, art. 83d ust. 1 i 6, art. 83e, art. 83f, art. 83h ust. 1–4 oraz art. 83j ust. 1, 2 i 4 nie stosuje się do tych transakcji ani do związanych z nimi usług, o których mowa w art. 69 ust. 4.
+8. Firma inwestycyjna ewidencjonuje i przechowuje dokumenty, korespondencję elektroniczną oraz inne informacje przekazywane lub otrzymywane w związku z żądaniami klientów profesjonalnych, o których mowa w ust. 7. Art. 83ja. 1. W przypadku gdy firma inwestycyjna uprawniona do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1–3, zawiera transakcje lub pośredniczy w zawieraniu transakcji z uprawnionym kontrahentem, przepisów art. 73 ust. 6a, art. 73a ust. 1–3, art. 73b, art. 73d ust. 2 i 3, art. 83b ust. 8–17, art. 83c ust. 2– 4, art. 83d ust. 1 i 6, art. 83e, art. 83f, art. 83h ust. 1–4 oraz art. 83j ust. 1, 2 i 4 nie stosuje się do tych transakcji ani do związanych z nimi usług, o których mowa w art. 69 ust. 4.
 
 2. Firma inwestycyjna pośrednicząca w zawieraniu transakcji z uprawnionym kontrahentem lub zawierająca takie transakcje jest obowiązana działać w sposób rzetelny i profesjonalny. Informacje przekazywane w związku z transakcją muszą być rzetelne, nie mogą budzić wątpliwości ani wprowadzać w błąd oraz muszą uwzględniać charakter uprawnionego kontrahenta i jego działalności.
 
@@ -4252,6 +4471,9 @@ Art. 185–213. (pominięte)
 
 **Art. 108a.** Przepisy art. 106–108 stosuje się odpowiednio do:
 
+- **1)** udziałów domu maklerskiego w formie spółki z ograniczoną odpowiedzialnością oraz udziałów z tytułu wkładu w domu maklerskim w spółce, o której mowa w art. 95 ust. 1 pkt 4–6;
+- **2)** komplementariuszy domu maklerskiego, o którym mowa w art. 95 ust. 1 pkt 2 i 4, oraz osób uprawnionych do reprezentowania domu maklerskiego, o którym mowa w art. 95 ust. 1 pkt 5 i 6.
+
 **Art. 109.**
 
 1. Dom maklerski nie może nabywać na własny rachunek akcji wyemitowanych przez podmioty, wobec których jest podmiotem zależnym.
@@ -4371,6 +4593,9 @@ Art. 185–213. (pominięte)
 4. Rada nadzorcza domu maklerskiego oraz komitet do spraw ryzyka, jeżeli został powołany, mają prawo dostępu do informacji dotyczących ryzyka związanego z działalnością domu maklerskiego, w szczególności mogą żądać informacji od osób wykonujących w domu maklerskim funkcje w zakresie zarządzania ryzykiem oraz wyjaśnień od ekspertów zewnętrznych świadczących usługi w zakresie zarządzania ryzykiem na rzecz domu maklerskiego. Art. 110ca. (uchylony) Art. 110cb. (uchylony)
 
 **Art. 110d.** Na potrzeby stosowania:
+
+- **1)** rozporządzenia 2019/2033 zarząd domu maklerskiego uznaje się za organ zarządzający w rozumieniu art. 4 ust. 1 pkt 39 rozporządzenia 2019/2033,
+- **2)** rozporządzenia 575/2013 – w przypadku domu maklerskiego stosującego rozporządzenie 575/2013 – zarząd domu maklerskiego uznaje się za organ zarządzający w rozumieniu art. 4 ust. 1 pkt 9 rozporządzenia 575/2013 – chyba że przepisy odrębne stanowią inaczej.
 
 **Art. 110e.**
 
@@ -4748,6 +4973,11 @@ Art. 185–213. (pominięte)
 
 **Art. 110x.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe warunki i sposób szacowania przez dom maklerski oraz mały dom maklerski objęty obowiązkami, o których mowa w art. 110e ust. 1–2, kapitału wewnętrznego i aktywów płynnych oraz dokonywania przeglądów procesu szacowania i utrzymywania tego kapitału i tych aktywów,
+- **2)** szczegółowe warunki i sposób funkcjonowania systemu zarządzania ryzykiem w domu maklerskim i małym domu maklerskim, w tym skład, szczegółowe zadania i sposób funkcjonowania komitetu do spraw ryzyka,
+- **3)** sposób przeprowadzania oraz szczegółowy zakres badania i oceny nadzorczej,
+- **4)** szczegółowy zakres polityki wynagrodzeń, w tym kategorie osób, dla których sporządza się i do których stosuje się politykę wynagrodzeń, a także sposób jej ustalania i dokonywania jej przeglądów oraz ocen – mając na względzie potrzebę zapewnienia skutecznego funkcjonowania organów domu maklerskiego i małego domu maklerskiego, należytego podejścia do podejmowanego ryzyka w zakresie prowadzonej działalności, właściwego funkcjonowania systemu zarządzania ryzykiem, szacowania kapitału wewnętrznego i aktywów płynnych, realizacji celów badania i oceny nadzorczej, a także sprawnego ich przebiegu, jak również zapewnienia właściwego funkcjonowania w domu maklerskim i małym domu maklerskim polityki wynagrodzeń, w tym wyeliminowania negatywnego wpływu systemów wynagrodzeń na należyte zarządzanie ryzykiem, oraz uwzględniając rozwiązania umożliwiające Komisji monitorowanie prawidłowości stosowanych w domach maklerskich i małych domach maklerskich wewnętrznych rozwiązań w zakresie zarządzania. Art. 110xa. (uchylony)
+
 **Art. 110y.**
 
 1. W przypadku naruszenia przez dom maklerski przepisów niniejszego oddziału lub rozporządzenia 2019/2033 oraz gdy zachodzi uzasadnione prawdopodobieństwo ich naruszenia przez dom maklerski w okresie kolejnych 12 miesięcy, Komisja może, w drodze decyzji:
@@ -5007,6 +5237,12 @@ Art. 185–213. (pominięte)
 
 **Art. 115b.** Komisja odmawia udzielenia zezwolenia zagranicznej osobie prawnej, o której mowa w art. 115 ust. 1, w przypadku gdy:
 
+- **1)** wniosek lub załączone do niego dokumenty nie są zgodne pod względem treści z przepisami prawa lub ze stanem faktycznym;
+- **2)** warunki określone w art. 115 ust. 4 nie są spełnione;
+- **3)** osoby wchodzące w skład władz oddziału nie spełniają warunków określonych w art. 115 ust. 5;
+- **4)** z analizy wniosku i załączonych do niego dokumentów wynika, że wnioskodawca nie zapewni prowadzenia działalności w sposób zgodny z ustawą, przepisami wykonawczymi wydanymi na jej podstawie lub nie zapewni jej prowadzenia w sposób niezagrażający bezpieczeństwu obrotu instrumentami finansowymi lub należycie zabezpieczający interesy klientów;
+- **5)** podmioty posiadające bezpośrednio lub pośrednio przez podmioty zależne akcje albo udziały wnioskodawcy reprezentujące łącznie co najmniej 10 % ogólnej liczby głosów lub 10 % kapitału zakładowego nie zapewniają właściwego prowadzenia przez wnioskodawcę działalności maklerskiej.
+
 **Art. 115c.**
 
 1. Oddział zagranicznej osoby prawnej, o której mowa w art. 115 ust. 1, przekazuje Komisji, corocznie, informacje o:
@@ -5181,7 +5417,7 @@ Art. 185–213. (pominięte)
 
 **Art. 123d.**
 
-1. Do banku powierniczego wykonującego czynności pośrednictwa w pożyczkach papierów wartościowych stosuje się odpowiednio przepisy art. 3a, art. 73 ust. 1, 5j–5o i 6a, art. 73a ust. 1–5 i 9, art. 73b–73d, art. 74b, art. 74c, art. 79– 81a, art. 81c, art. 81d, art. 81f, art. 82a, art. 83a ust. 1–5, art. 83b, art. 83c ust. 1–4, art. 83d ust. 1 i 6, art. 83e, art. 83f, art. 83h, art. 83i, art. 83j ust. 1, 2 i 4, art. 83ja, art. 83k oraz art. 88.
+1. Do banku powierniczego wykonującego czynności pośrednictwa w pożyczkach papierów wartościowych stosuje się odpowiednio przepisy art. 3a, art. 73 ust. 1, 5j–5o i 6a, art. 73a ust. 1–4 i 9, art. 73b, art. 73d, art. 73b–73d, art. 74b, art. 74c, art. 79–81a, art. 81c, art. 81d, art. 81f, art. 82a, art. 83a ust. 1–5, art. 83b, art. 83c ust. 1–4, art. 83d ust. 1 i 6, art. 83e, art. 83f, art. 83h, art. 83i, art. 83j ust. 1, 2 i 4, art. 83ja, art. 83k oraz art. 88.
 
 2. Do banku powierniczego wykonującego czynności pośrednictwa w pożyczkach papierów wartościowych stosuje się bezpośrednio obowiązujące przepisy prawa Unii Europejskiej odnoszące się do wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 1 i 2 oraz art. 119 ust. 1, a w zakresie nieuregulowanym w tych przepisach odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
@@ -5449,9 +5685,7 @@ Art. 185–213. (pominięte)
 
 3. Informacja, o której mowa w ust. 1, może być również przekazywana wraz ze sprawozdaniem, o którym mowa w art. 83j.
 
-4. Przepisów ust. 1 i 3 nie stosuje się, jeżeli informacja, o której mowa w ust. 1, jest publicznie udostępniana przez firmę inwestycyjną.
-
-**Art. 131r.** Za opracowanie i publikację dokumentów, o których mowa w art. 131o ust. 1, 3 i 4 oraz art. 131q ust. 1, oraz za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu firmy inwestycyjnej, a w przypadku firmy inwestycyjnej będącej spółką osobową – wspólnicy lub komplementariusze w tej spółce, którym przysługuje prawo prowadzenia spraw spółki lub jej reprezentowania zgodnie z przepisami ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
+4. Przepisów ust. 1 i 3 nie stosuje się, jeżeli informacja, o której mowa w ust. 1, jest publicznie udostępniana przez firmę inwestycyjną. [Art. 131r. Za opracowanie i publikację dokumentów, o których mowa w art. 131o ust. 1, 3 i 4 oraz art. 131q ust. 1, oraz za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu firmy inwestycyjnej, a w przypadku firmy inwestycyjnej będącej spółką osobową – wspólnicy lub komplementariusze w tej spółce, którym przysługuje prawo prowadzenia spraw spółki lub jej reprezentowania zgodnie z przepisami ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.] <Art. 131r. Za opracowanie, publikację i przekazanie Komisji dokumentów, o których mowa w art. 131o ust. 1, 3 i 4, oraz opracowanie i publikację dokumentów, o których mowa w art. 131q ust. 1, a także za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu firmy inwestycyjnej, a w przypadku firmy inwestycyjnej będącej spółką osobową – wspólnicy lub komplementariusze w tej spółce, którym przysługuje prawo prowadzenia spraw spółki lub jej reprezentowania zgodnie z przepisami ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.>
 
 ### DZIAŁ IVA Uczestnictwo w systemie pilotażowym na potrzeby infrastruktury rynkowej opartej na technologii rozproszonego rejestru
 
@@ -5870,13 +6104,150 @@ Art. 185–213. (pominięte)
 
 1. Krajowy Depozyt składa Komisji corocznie sprawozdanie z działalności systemu rekompensat za rok poprzedni, nie później niż w terminie 3 miesięcy od dnia kończącego poprzedni rok obrotowy.
 
-2. Sprawozdanie z działalności systemu rekompensat podlega zbadaniu przez firmę audytorską.
+2. Sprawozdanie z działalności systemu rekompensat podlega zbadaniu przez firmę audytorską. <DZIAŁ VA Udostępnianie informacji w europejskim pojedynczym punkcie dostępu
+
+**Art. 146a.**
+
+1. Spółka prowadząca rynek regulowany równocześnie z podaniem do wiadomości publicznej informacji, o których mowa w art. 22 ust. 4 i 6, przekazuje te informacje Komisji w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 87a ust. 7 dyrektywy 2014/65/UE.
+
+2. Informacje, o których mowa w art. 22 ust. 4 i 6, są opatrywane następującymi metadanymi:
+
+- **1)** firmą spółki prowadzącej rynek regulowany, której dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego spółki prowadzącej rynek regulowany, której dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości spółki prowadzącej rynek regulowany, której dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 87a ust. 7 dyrektywy 2014/65/UE.
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, spółka prowadząca rynek regulowany występuje o nadanie identyfikatora podmiotu prawnego określonego zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+4. Komisja udostępnia informacje, o których mowa w art. 22 ust. 4 i 6, w europejskim pojedynczym punkcie dostępu.
+
+**Art. 146b.**
+
+1. Emitent instrumentów finansowych wprowadzonych do ASO MŚP równocześnie z podaniem do wiadomości publicznej dokumentów oraz sprawozdań finansowych, o których mowa w art. 78 ust. 2 lit. h rozporządzenia 2017/565, przekazuje je Komisji w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 87a ust. 7 dyrektywy 2014/65/UE.
+
+2. Dokumenty oraz sprawozdania finansowe, o których mowa w art. 78 ust. 2 lit. h rozporządzenia 2017/565, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą (firmą) emitenta, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego emitenta, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości emitenta, którego dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 87a ust. 7 dyrektywy 2014/65/UE.
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, emitent występuje o nadanie mu identyfikatora podmiotu prawnego określonego zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+4. Komisja udostępnia dokumenty oraz sprawozdania finansowe, o których mowa w art. 78 ust. 2 lit. h rozporządzenia 2017/565, w europejskim pojedynczym punkcie dostępu.
+
+**Art. 146c.**
+
+1. Firma inwestycyjna, która świadczy usługi, o których mowa w art. 69 ust. 2 pkt 4, równocześnie z opublikowaniem dokumentów, o których mowa w art. 131o ust. 1, 3 i 4, przekazuje te dokumenty Komisji w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie wykonywania niektórych praw akcjonariuszy spółek notowanych na rynku regulowanym (Dz. Urz. UE L 184 z 14.07.2007, str. 17, z późn. zm. ).
+
+2. Dokumenty, o których mowa w art. 131o ust. 1, 3 i 4, są opatrywane następującymi metadanymi:
+
+- **1)** firmą (nazwą) firmy inwestycyjnej, której dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego firmy inwestycyjnej, której dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości firmy inwestycyjnej, której dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie wykonywania niektórych praw akcjonariuszy spółek notowanych na rynku regulowanym.
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, firma inwestycyjna występuje o nadanie jej identyfikatora podmiotu prawnego określonego zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+4. Komisja udostępnia dokumenty, o których mowa w art. 131o ust. 1, 3 i 4, w europejskim pojedynczym punkcie dostępu.
+
+**Art. 146d.**
+
+1. Komisja udostępnia w europejskim pojedynczym punkcie dostępu, w formacie umożliwiającym ekstrakcję danych, informacje:
+
+- **1)** o przypadkach, o których mowa w art. 20 ust. 2, 3 i 3a oraz art. 78 ust. 3, 4 i 4b, podane przez nią do publicznej wiadomości;
+- **2)** o przypadkach, o których mowa w art. 20 ust. 4b i 7a, otrzymane od spółki prowadzącej rynek regulowany;
+- **3)** o przypadkach, o których mowa w art. 78 ust. 4a i 4c, otrzymane od firmy inwestycyjnej prowadzącej ASO lub OTF lub spółki prowadzącej rynek regulowany prowadzącej ASO lub OTF;
+- **4)** o których mowa w art. 176h ust. 1, przekazane przez Komisję do publicznej wiadomości.
+
+2. Informacje o przypadkach, o których mowa w art. 20 ust. 2, 3, 3a, 4b i 7a oraz art. 78 ust. 3 i 4–4c, są opatrywane następującymi metadanymi:
+
+- **1)** firmą spółki prowadzącej rynek regulowany, spółki prowadzącej rynek regulowany prowadzącej ASO lub OTF albo nazwą (firmą) firmy inwestycyjnej prowadzącej ASO lub OTF, których dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego spółki prowadzącej rynek regulowany, spółki prowadzącej rynek regulowany prowadzącej ASO lub OTF albo firmy inwestycyjnej prowadzącej ASO lub OTF, których dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
+
+3. Informacje, o których mowa w art. 176h ust. 1, są opatrywane następującymi metadanymi:
+
+- **1)** imieniem i nazwiskiem osoby fizycznej lub firmą (nazwą) innego podmiotu, na które nałożona została sankcja;
+- **2)** identyfikatorem podmiotu prawnego podmiotu, na który nałożona została sankcja, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
+
+**Art. 146e.**
+
+1. Informacje, o których mowa w art. 17 ust. 4 zdanie pierwsze, art. 84 ust. 4 i art. 96 ust. 4 w zakresie informacji o wydaniu zezwolenia na prowadzenie przez firmę inwestycyjną ASO lub OTF, są przekazywane Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych w formacie umożliwiającym ekstrakcję danych.
+
+2. Cotygodniowe sprawozdania, o których mowa w art. 32f ust. 1 pkt 1, są przekazywane Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych w formacie umożliwiającym ekstrakcję danych.
+
+3. Informacje, o których mowa w art. 17 ust. 4 zdanie pierwsze, art. 84 ust. 4 i art. 96 ust. 4 w zakresie informacji o wydaniu zezwolenia na prowadzenie przez firmę inwestycyjną ASO lub OTF, oraz cotygodniowe sprawozdania, o których mowa w art. 32f ust. 1 pkt 1, są opatrywane następującymi metadanymi:
+
+- **1)** firmą spółki prowadzącej rynek regulowany albo nazwą (firmą) firmy inwestycyjnej, których dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego spółki prowadzącej rynek regulowany albo firmy inwestycyjnej, których dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
+
+**Art. 146f.**
+
+1. Komisja udostępnia w europejskim pojedynczym punkcie dostępu informacje zawarte w rejestrze, o którym mowa w art. 79 ust. 8, w formacie umożliwiającym ekstrakcję danych.
+
+2. Informacje zawarte w rejestrze, o którym mowa w art. 79 ust. 8, udostępniane przez Komisję w europejskim pojedynczym punkcie dostępu są opatrywane następującymi metadanymi:
+
+- **1)** imieniem i nazwiskiem agenta firmy inwestycyjnej – w przypadku osoby fizycznej albo firmą (nazwą) agenta firmy inwestycyjnej – w przypadku osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, których dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego agenta firmy inwestycyjnej, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
+
+**Art. 146g.**
+
+1. Dom maklerski, o którym mowa w art. 110a ust. 1 pkt 4, mały dom maklerski, o którym mowa w art. 110a ust. 1 pkt 9b, i podmiot dominujący, o którym mowa w art. 110a ust. 1 pkt 10, równocześnie z ogłoszeniem informacji i dokumentów, o których mowa w art. 110w ust. 6 pkt 1 i ust. 7, przekazują te informacje i dokumenty Komisji w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji i dokumentów w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 44a ust. 5 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/2034 z dnia 27 listopada 2019 r. w sprawie nadzoru ostrożnościowego nad firmami inwestycyjnymi oraz zmieniającej dyrektywy 2002/87/WE, 2009/65/WE, 2011/61/UE, 2013/36/UE, 2014/59/UE i 2014/65/UE.
+
+2. Informacje i dokumenty, o których mowa w art. 110w ust. 6 pkt 1 i ust. 7, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą (firmą) domu maklerskiego, o którym mowa w art. 110a ust. 1 pkt 4, albo małego domu maklerskiego, o którym mowa w art. 110a ust. 1 pkt 9b, albo imieniem i nazwiskiem podmiotu dominującego, o którym mowa w art. 110a ust. 1 pkt 10 – w przypadku osoby fizycznej albo nazwą (firmą) podmiotu dominującego, o którym mowa w art. 110a ust. 1 pkt 10 – w przypadku osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, których dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego domu maklerskiego, o którym mowa w art. 110a ust. 1 pkt 4, małego domu maklerskiego, o którym mowa w art. 110a ust. 1 pkt 9b, albo podmiotu dominującego, o którym mowa w art. 110a ust. 1 pkt 10, których dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości domu maklerskiego, o którym mowa w art. 110a ust. 1 pkt 4, małego domu maklerskiego, o którym mowa w art. 110a ust. 1 pkt 9b, albo podmiotu dominującego, o którym mowa w art. 110a ust. 1 pkt 10, których dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 44a ust. 5 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/2034 z dnia 27 listopada 2019 r. w sprawie nadzoru ostrożnościowego nad firmami inwestycyjnymi oraz zmieniającej dyrektywy 2002/87/WE, 2009/65/WE, 2011/61/UE, 2013/36/UE, 2014/59/UE i 2014/65/UE.
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, dom maklerski, o którym mowa w art. 110a ust. 1 pkt 4, mały dom maklerski, o którym mowa w art. 110a ust. 1 pkt 9b, albo podmiot dominujący, o którym mowa w art. 110a ust. 1 pkt 10, występują o nadanie im identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+4. Komisja udostępnia informacje i dokumenty, o których mowa w art. 110w ust. 6 pkt 1 i ust. 7, w europejskim pojedynczym punkcie dostępu.
+
+**Art. 146h.**
+
+1. Dom maklerski, o którym mowa w art. 110zi ust. 1 pkt 4, równocześnie z podaniem do publicznej wiadomości informacji, o której mowa w art. 110zy, przekazuje tę informację Komisji w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 128a ust. 6 dyrektywy Parlamentu Europejskiego i Rady 2014/59/UE z dnia 15 maja 2014 r. ustanawiającej ramy na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do instytucji kredytowych i firm inwestycyjnych oraz zmieniającej dyrektywę Rady 82/891/EWG i dyrektywy Parlamentu Europejskiego i Rady 2001/24/WE, 2002/47/WE, 2004/25/WE, 2005/56/WE, 2007/36/WE, 2011/35/UE, 2012/30/UE i 2013/36/EU oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 i (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 190, z późn. zm. ).
+
+2. Informacja, o której mowa w art. 110zy, jest opatrywana następującymi metadanymi:
+
+- **1)** nazwą (firmą) domu maklerskiego, o którym mowa w art. 110zi ust. 1 pkt 4, którego dotyczy informacja;
+- **2)** identyfikatorem podmiotu prawnego domu maklerskiego, o którym mowa w art. 110zi ust. 1 pkt 4, którego dotyczy informacja, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości domu maklerskiego, o którym mowa w art. 110zi ust. 1 pkt 4, którego dotyczy informacja, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacja zawiera dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 128a ust. 6 dyrektywy Parlamentu Europejskiego i Rady 2014/59/UE z dnia 15 maja 2014 r. ustanawiającej ramy na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do instytucji kredytowych i firm inwestycyjnych oraz zmieniającej dyrektywę Rady 82/891/EWG i dyrektywy Parlamentu Europejskiego i Rady 2001/24/WE, 2002/47/WE, 2004/25/WE, 2005/56/WE, 2007/36/WE, 2011/35/UE, 2012/30/UE i 2013/36/EU oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 i (UE) nr 648/2012.
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, dom maklerski, o którym mowa w art. 110zi ust. 1 pkt 4, występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+4. Komisja udostępnia informację, o której mowa w art. 110zy, w europejskim pojedynczym punkcie dostępu.>
 
 ### DZIAŁ VI Dostęp do informacji o szczególnym charakterze
 
 #### Rozdział 1 Tajemnica zawodowa
 
 **Art. 147.** Tajemnica zawodowa obejmuje informację uzyskaną, przez osobę wymienioną w art. 148 ust. 1, w związku z podejmowanymi czynnościami służbowymi w ramach pozostawania w stosunku pracy, zlecenia lub w innym stosunku prawnym o podobnym charakterze, dotyczącą chronionych prawem interesów podmiotów dokonujących czynności związanych z obrotem instrumentami finansowymi, lub innych czynności w ramach regulowanej ustawą działalności objętej nadzorem Komisji lub zagranicznego organu nadzoru, jak również dotyczącą czynności podejmowanych w ramach wykonywania tego nadzoru, oraz czynności związanych z prowadzeniem rejestru akcjonariuszy, w szczególności informację zawierającą:
+
+- **1)** dane identyfikujące stronę umowy lub innej czynności prawnej;
+- **2)** treść umowy lub przedmiot czynności prawnej;
+- **3)** dane o sytuacji majątkowej strony umowy, w tym oznaczenie rachunku papierów wartościowych, innego rachunku, na którym zapisywane są instrumenty finansowe niebędące papierami wartościowymi, lub rachunku pieniężnego służącego do obsługi tych rachunków, liczbę i oznaczenie instrumentów finansowych, oraz wartość środków zgromadzonych na tych rachunkach;
+- **4)** oznaczenie rachunku zbiorczego, liczbę i oznaczenie zapisanych na nim instrumentów finansowych oraz dane osób uprawnionych z tych instrumentów finansowych.
 
 **Art. 148.**
 
@@ -6048,6 +6419,11 @@ Art. 185–213. (pominięte)
 **Art. 150a.** Nie narusza obowiązku zachowania tajemnicy zawodowej przekazywanie przez Komisję ministrowi właściwemu do spraw finansów publicznych informacji w ramach współpracy przy wykonywaniu zadań właściwego organu w rozumieniu rozporządzenia 236/2012.
 
 **Art. 151.** Komisja może również przekazać będące w jej posiadaniu informacje stanowiące tajemnicę zawodową:
+
+- **1)** rzecznikowi dyscyplinarnemu lub sądowi dyscyplinarnemu stowarzyszenia zrzeszającego maklerów lub doradców, wyłącznie w zakresie niezbędnym do ustalenia, na potrzeby wszczęcia lub prowadzenia postępowania dyscyplinarnego, naruszenia zasad etyki zawodowej przez maklera lub doradcę;
+- **2)** rzecznikowi sądu lub sądowi izby, wyłącznie w zakresie niezbędnym do ustalenia, na potrzeby prowadzonego postępowania, naruszenia przez członka izby zasad etyki lub zasad rzetelnego wykonywania działalności gospodarczej;
+- **3)** Krajowemu Depozytowi, spółce prowadzącej izbę rozliczeniową, spółce prowadzącej izbę rozrachunkową, spółce prowadzącej rynek regulowany, o ile przekazanie takiej informacji jest niezbędne do wykonywania ustawowo określonych zadań tych podmiotów;
+- **4)** spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1–6 lub ust. 2, o ile przekazanie takiej informacji jest niezbędne do wykonywania tych czynności.
 
 **Art. 151a.** Informacje dotyczące firmy inwestycyjnej, banku państwowego prowadzącego działalność maklerską albo banku, o którym mowa w art. 70 ust. 2, przekazane przez tę firmę albo ten bank Komisji w ramach sprawowanego nadzoru oraz oświadczenia Komisji dotyczące tej firmy albo tego banku, zawarte w dokumentacji nadzorczej, mogą zostać ujawnione, o ile nie narusza to interesu podmiotu, który je przekazał, lub interesu osób trzecich lub nie stanowi zagrożenia dla prawidłowego funkcjonowania systemu nadzoru nad działalnością firm inwestycyjnych lub banków.
 
@@ -6474,6 +6850,26 @@ Art. 185–213. (pominięte)
 5. Stroną postępowania w sprawie, o której mowa w ust. 1 pkt 5, jest agent firmy inwestycyjnej i firma inwestycyjna, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2, z którymi agent firmy inwestycyjnej pozostawał w stosunku umownym o wykonywanie czynności pośrednictwa w czasie gdy naruszył przepisy, o których mowa w ust. 1, wykonywał powierzone mu czynności wynikające z umowy zawartej z firmą inwestycyjną lub bankiem, o którym mowa w art. 70 ust. 2, niezgodnie z przepisami prawa, nie przestrzegał zasad uczciwego obrotu lub naruszył interesy zleceniodawcy firmy inwestycyjnej lub banku, o którym mowa w art. 70 ust. 2, których był agentem.
 
 **Art. 167b.** (uchylony) Art. 167ba. 1. W przypadku gdy zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy posiadające zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, naruszają wymogi:
+
+- **1)** określone w art. 27f ust. 1–3 rozporządzenia 600/2014 wobec organu zarządzającego odpowiednio zatwierdzonego podmiotu publikującego i zatwierdzonego mechanizmu sprawozdawczego,
+- **2)** organizacyjne, dotyczące zatwierdzonych podmiotów publikujących lub zatwierdzonych mechanizmów sprawozdawczych, określone odpowiednio w art. 27g ust. 1–5 i art. 27i ust. 1–4 rozporządzenia 600/2014 – Komisja może, w przypadku innym niż określony w art. 167c ust. 1, nakazać odpowiednio zatwierdzonemu podmiotowi publikującemu i zatwierdzonemu mechanizmowi sprawozdawczemu zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie takich działań w przyszłości lub nałożyć na zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy posiadające zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, karę pieniężną w wysokości do 20 750 000 złotych albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym, jeżeli przekracza ona 20 750 000 złotych.
+
+2. Komisja, ustalając wysokość kary pieniężnej, o której mowa w ust. 1, uwzględnia w szczególności:
+
+- **1)** wagę naruszenia i czas jego trwania;
+- **2)** stopień przyczynienia się zatwierdzonego podmiotu publikującego lub zatwierdzonego mechanizmu sprawozdawczego posiadających zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, do powstania naruszenia;
+- **3)** sytuację finansową zatwierdzonego podmiotu publikującego lub zatwierdzonego mechanizmu sprawozdawczego posiadających zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, na który jest nakładana kara, w szczególności wysokość całkowitych obrotów danego podmiotu;
+- **4)** kwotę korzyści osiągniętych lub strat unikniętych przez zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy posiadające zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, jeżeli można ustalić kwotę tych korzyści lub strat;
+- **5)** straty poniesione przez podmioty trzecie w związku z naruszeniem, jeżeli można je ustalić;
+- **6)** gotowość zatwierdzonego podmiotu publikującego lub zatwierdzonego mechanizmu sprawozdawczego posiadających zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, do współpracy z Komisją podczas wyjaśniania okoliczności naruszenia;
+- **7)** stopień naprawienia szkody wyrządzonej inwestorom wskutek działań zatwierdzonego podmiotu publikującego lub zatwierdzonego mechanizmu sprawozdawczego posiadających zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014;
+- **8)** uprzednie naruszenia przepisów prawa regulujących działalność zatwierdzonego podmiotu publikującego lub zatwierdzonego mechanizmu sprawozdawczego posiadających zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, popełnione przez dany podmiot, na który jest nakładana kara.
+
+3. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej przez zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy posiadające zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, w wyniku naruszenia, o którym mowa w ust. 1, kara pieniężna, o której mowa w ust. 1, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści.
+
+4. W przypadku gdy zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy posiadające zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, są podmiotami dominującymi, które sporządzają skonsolidowane sprawozdanie finansowe, lub podmiotami zależnymi od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód wykazany w ostatnim zbadanym sprawozdaniu finansowym stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona w ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+5. Równowartość w złotych kwoty w walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski w dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy.
 
 **Art. 167c.**
 
@@ -7092,6 +7488,8 @@ Art. 185–213. (pominięte)
 1. W przypadku gdy emitent nie wykonuje lub nienależycie wykonuje obowiązki, o których mowa w art. 18 ust. 1–6 rozporządzenia 596/2014, Komisja może, w drodze decyzji, nałożyć karę pieniężną do wysokości 4 145 600 zł lub do kwoty stanowiącej równowartość 2 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 4 145 600 zł.
 
 2. W przypadku naruszenia obowiązków, o których mowa w art. 18 ust. 1– 6 rozporządzenia 596/2014, Komisja może nałożyć na osobę, która w tym okresie pełniła funkcję członka zarządu emitenta, zewnętrznie zarządzającego ASI lub zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych lub towarzystwa funduszy inwestycyjnych będącego organem funduszu inwestycyjnego zamkniętego, karę pieniężną do wysokości 2 072 800 zł.
+
+2a. W przypadku gdy podmiot, który działa w imieniu lub na rzecz emitenta, nie wykonuje obowiązków lub nienależycie wykonuje obowiązki, o których mowa w art. 18 ust. 1–5 rozporządzenia 596/2014, Komisja może, w drodze decyzji, nałożyć karę pieniężną do wysokości 4 145 600 zł lub kwoty stanowiącej równowartość 2 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy tego podmiotu, jeżeli przekracza ona 4 145 600 zł, a w przypadku gdy podmiotem tym jest osoba fizyczna – karę pieniężną do wysokości 2 072 800 zł.
 
 3. Przepisy art. 96 ust. 6 pkt 2 oraz ust. 7–8a ustawy o ofercie publicznej stosuje się odpowiednio.
 

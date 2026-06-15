@@ -8,7 +8,7 @@ pos: 616
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Narodowym Centrum Badań i Rozwoju
@@ -47,9 +47,17 @@ source: "isap-pdf"
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** projekcie – należy przez to rozumieć przedsięwzięcie realizowane w ramach strategicznego programu badań naukowych i prac rozwojowych albo innych zadań Centrum, o których mowa w art. 29 i art. 30 ust. 1 i 2, zwanych dalej „innymi zadaniami Centrum”, o określonej wartości finansowej, prowadzone w ustalonych ramach czasowych, na podstawie umowy o wykonanie i finansowanie w całości lub w części działań nim objętych, zawieranej między wykonawcą projektu a Centrum;
+- **2)** programie – należy przez to rozumieć podstawowy instrument realizacji innych zadań Centrum, wyznaczający cele i działania niezbędne do ich osiągnięcia oraz definiujący w sposób mierzalny oczekiwane efekty;
+- **3)** strategicznym programie badań naukowych i prac rozwojowych – należy przez to rozumieć program określony w ramach jednego ze strategicznych kierunków badań naukowych lub prac rozwojowych, określonego w polityce naukowej państwa.
+
 #### Rozdział 2 Organy i organizacja Centrum
 
 **Art. 3.** Organami Centrum są:
+
+- **1)** Dyrektor Centrum, zwany dalej „Dyrektorem”;
+- **2)** Rada Centrum, zwana dalej „Radą”;
+- **3)** Komitet Sterujący do spraw badań naukowych i prac rozwojowych w obszarze bezpieczeństwa i obronności państwa, zwany dalej „Komitetem Sterującym”.
 
 **Art. 4.**
 
@@ -291,6 +299,18 @@ source: "isap-pdf"
 
 **Art. 17.** Do zadań Komitetu Sterującego należy:
 
+- **1)** przygotowywanie i przedstawianie Ministrowi do zatwierdzenia projektów strategicznych programów badań naukowych i prac rozwojowych na rzecz obronności i bezpieczeństwa państwa;
+- **2)** określanie zakresów tematycznych badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa;
+- **3)** koordynowanie realizacji badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa w ramach strategicznych programów badań naukowych i prac rozwojowych lub innych zadań Centrum;
+- **4)** wyrażanie opinii w sprawach okresowych sprawozdań i końcowego sprawozdania z realizacji strategicznego programu badań naukowych i prac rozwojowych, w ramach którego są realizowane badania naukowe lub prace rozwojowe na rzecz obronności i bezpieczeństwa państwa;
+- **5)** przygotowywanie propozycji podziału środków finansowych na badania naukowe i prace rozwojowe na rzecz obronności i bezpieczeństwa państwa w ramach środków finansowych, o których mowa w art. 365 pkt 11 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+- **6)** ogłaszanie konkursów na wykonanie projektów w zakresie badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa;
+- **7)** ustalanie i ogłaszanie regulaminów konkursów, o których mowa w pkt 6;
+- **8)** wyznaczanie ekspertów lub zespołów ekspertów do oceny wniosków złożonych w konkursach, o których mowa w pkt 6;
+- **9)** przygotowywanie i przekazywanie Dyrektorowi list rankingowych pozytywnie zaopiniowanych wniosków złożonych w konkursach, o których mowa w pkt 6;
+- **10)** rozpatrywanie odwołań, o których mowa w art. 40 ust. 2;
+- **11)** końcowa ocena merytoryczna projektów, o których mowa w pkt 6.
+
 **Art. 18.**
 
 1. Pracami Komitetu Sterującego kieruje przewodniczący wybierany przez Komitet Sterujący spośród jego członków.
@@ -376,6 +396,9 @@ source: "isap-pdf"
 3. Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia, sposób realizacji przez Centrum zadań, o których mowa w ust. 1, a także kryteria i warunki udziału w konkursach na wykonanie poszczególnych projektów, uwzględniając konieczność zapewnienia zgodności tych projektów z polityką naukową państwa oraz polityką obronności i bezpieczeństwa państwa.
 
 **Art. 29.** Do zadań Centrum należy pobudzanie inwestowania przez przedsiębiorców w działalność naukową, w szczególności przez:
+
+- **1)** współfinansowanie przedsięwzięć prowadzonych przez podmiot posiadający zdolność do zastosowania wyników projektu w praktyce;
+- **2)** wspieranie pozyskiwania przez podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, środków na działalność naukową pochodzących z innych źródeł niż budżet państwa.
 
 **Art. 30.**
 
@@ -604,6 +627,11 @@ source: "isap-pdf"
 4. Dyrektor, na wniosek kierownika projektu, może wyrazić zgodę na zmianę podmiotu realizującego projekt po pozytywnym zaopiniowaniu przez kierownika jednostki organizacyjnej wykonującej projekt i jednostki przejmującej wykonanie projektu.
 
 **Art. 42.** Nadzór nad wykonaniem projektu obejmuje:
+
+- **1)** ocenę raportów okresowych z wykonania projektu;
+- **2)** kontrolę w siedzibie wykonawcy projektu przez wyznaczony przez Dyrektora zespół kontrolujący;
+- **3)** uprawnienia Dyrektora do wstrzymania finansowania projektu w przypadku wydatkowania przez wykonawcę środków finansowych niezgodnie z umową lub nieosiągnięcia wyników zaplanowanych na danym etapie realizacji projektu do czasu wyjaśnienia nieprawidłowości;
+- **4)** uprawnienia Dyrektora do przerwania finansowania projektu w przypadku wydatkowania przez wykonawcę środków finansowych niezgodnie z umową lub nieterminowego albo nienależytego wykonywania umowy, w szczególności stwierdzenia, na podstawie opinii komisji Rady do spraw realizacji strategicznych programów badań naukowych i prac rozwojowych lub innej właściwej komisji Rady, lub – w odniesieniu do projektów, o których mowa w art. 17 pkt 6 – Komitetu Sterującego, zmniejszenia zakresu rzeczowego realizowanego projektu.
 
 **Art. 43.**
 

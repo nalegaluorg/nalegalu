@@ -43,7 +43,8 @@ w sprawie Funduszu Gwarancyjnego Na podstawie art. 185 ust. 4 ustawy z dnia 28 s
 3) kartę wzorów podpisów osób upoważnionych do reprezentowania powszechnego towarzystwa wobec Krajowego Depozytu;
 4) listę osób upoważnionych przez powszechne towarzystwo do składania wobec Krajowego Depozytu i odbierania w imieniu powszechnego towarzystwa oświadczeń niebędących oświadczeniami woli oraz kartę wzorów podpisów tych osób;
 5) dokument zawierający wskazanie adresu, pod który powinny być przesyłane powszechnemu towarzystwu zawiadomienia, wezwania i informacje, o których mowa w rozporządzeniu;
-6) dokument zawierający wskazanie rachunku rozliczeniowego, na który mają być zwracane nadpłaty, o których mowa w § 7.
+6) dokument zawierający wskazanie rachunku rozliczeniowego, na który mają być zwracane nadpłaty, o których mowa
+§ 7.
 2. Powszechne towarzystwo niezwłocznie informuje Krajowy Depozyt o wszelkich zmianach danych zawartych w dokumentach, o których mowa w ust. 1. Do informacji takiej powszechne towarzystwo załącza dokumenty zawierające aktualne dane.
 3. Dokumenty, o których mowa w ust. 1 i 2, składa się w oryginale lub uwierzytelnionym we właściwy sposób odpisie, przez który rozumie się:
 1) w przypadku dokumentów urzędowych – odpis urzędowo albo notarialnie poświadczony za zgodność z oryginałem;

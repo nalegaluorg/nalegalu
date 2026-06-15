@@ -156,7 +156,7 @@ c) adres podmiotu, o którym mowa w lit. a lub b, w tym: – kod pocztowy, – m
 § 28. Umieszczenie wzoru dokumentu elektronicznego w BIP na podstawie art. 19b ust. 3 ustawy polega na umieszczeniu na stronie podmiotowej BIP odwołania (hiperłącza), w formie identyfikatora URI, do wzoru umieszczonego w centralnym repozytorium lub lokalnym repozytorium.
 § 29. 1. Wzór dokumentu elektronicznego umieszcza się w centralnym repozytorium na wniosek przedstawiciela podmiotu odpowiedzialnego za wzór i jego zgodność z przepisami prawa.
 2. Wniosek, o którym mowa w ust. 1, podpisuje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
-§ 30. 1. Minister określa i umieszcza w centralnym repozytorium wzór dokumentu elektronicznego wniosku, o którym mowa w § 29.
+§ 30. 1. Minister określa i umieszcza w centralnym repozytorium wzór dokumentu elektronicznego wniosku, o którym mowa § 29.
 2. Minister udostępnia na ePUAP formularz elektroniczny umożliwiający złożenie tego wniosku za pomocą środków komunikacji elektronicznej.
 3. Minister umieszcza w BIP odwołanie do formularza elektronicznego, o którym mowa w ust. 2.
 § 31. Jeżeli wniosek o umieszczenie wzoru dokumentu elektronicznego jest:

@@ -8,7 +8,7 @@ pos: 13
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o publicznym transporcie zbiorowym
@@ -38,6 +38,11 @@ Art. 66–76. (pominięte)
 2. Ustawa określa także zasady finansowania regularnego przewozu osób w publicznym transporcie zbiorowym, realizowanego na terytorium Rzeczypospolitej Polskiej w transporcie, o którym mowa w ust. 1.
 
 **Art. 2.** Przepisów ustawy nie stosuje się do regularnego przewozu osób realizowanego w:
+
+- **1)** międzynarodowym transporcie drogowym;
+- **2)** międzynarodowym transporcie morskim;
+- **3)** międzynarodowej żegludze śródlądowej;
+- **4)** celach turystycznych.
 
 **Art. 3.**
 
@@ -181,6 +186,11 @@ Art. 66–76. (pominięte)
 
 **Art. 8.** Do zadań organizatora należy:
 
+- **1)** planowanie rozwoju transportu;
+- **2)** organizowanie publicznego transportu zbiorowego;
+- **3)** zarządzanie publicznym transportem zbiorowym;
+- **4)** możliwość ustanowienia zintegrowanego systemu taryfowo-biletowego obowiązującego w jego granicach.
+
 #### Rozdział 2 Plan zrównoważonego rozwoju publicznego transportu zbiorowego
 
 **Art. 9.**
@@ -216,6 +226,9 @@ Art. 66–76. (pominięte)
 3. Plan transportowy uchwalony przez właściwe organy jednostek samorządu terytorialnego stanowi akt prawa miejscowego.
 
 **Art. 9a.** W przypadku opracowania planu transportowego przez związek metropolitalny:
+
+- **1)** gminy, związki międzygminne, powiaty lub związki powiatów, których obszar jest objęty związkiem metropolitalnym i które wchodzą w skład związku metropolitalnego, nie opracowują planów transportowych;
+- **2)** z dniem wejścia w życie tego planu tracą moc plany transportowe opracowane przez gminy, związki międzygminne, powiaty lub związki powiatów, których obszar jest objęty związkiem metropolitalnym i które wchodzą w skład związku metropolitalnego.
 
 **Art. 10.**
 
@@ -389,6 +402,9 @@ Art. 66–76. (pominięte)
 2. W transporcie innym szynowym, linowym, linowo-terenowym, morskim i w żegludze śródlądowej, stawki opłat za korzystanie przez operatora i przewoźnika z przystanków komunikacyjnych lub dworców, standardy, o których mowa w art. 15 ust. 1 pkt 3 lit. a, oraz zasady korzystania z tych obiektów ustalane są przez operatora lub przewoźnika z właścicielem albo zarządzającym przystankiem komunikacyjnym lub dworcem.
 
 **Art. 18.** Do zadań własnych gminy w zakresie publicznego transportu zbiorowego należą budowa, przebudowa i remont:
+
+- **1)** przystanków komunikacyjnych oraz dworców, których właścicielem lub zarządzającym jest gmina;
+- **2)** wiat przystankowych lub innych budynków służących pasażerom, posadowionych na miejscu przeznaczonym do wsiadania i wysiadania pasażerów lub przylegających do tego miejsca, usytuowanych w pasie drogowym dróg publicznych bez względu na kategorię tych dróg.
 
 **Art. 18a.** Minister właściwy do spraw informatyzacji zapewnia organizatorowi możliwość świadczenia usługi, która pozwala na wydawanie i obsługę dokumentów elektronicznych uprawniających do korzystania z usług związanych ze świadczeniem publicznego transportu zbiorowego, jeżeli organizator takie dokumenty wydaje, obsługiwanych przy użyciu aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717).
 
@@ -719,6 +735,11 @@ Art. 66–76. (pominięte)
 
 **Art. 50.** Finansowanie przewozów o charakterze użyteczności publicznej może polegać w szczególności na:
 
+- **1)** pobieraniu przez operatora lub organizatora opłat w związku z realizacją usług świadczonych w zakresie publicznego transportu zbiorowego lub
+- **2)** przekazaniu operatorowi dopłaty, o której mowa w art. 55, lub
+- **3)** przekazaniu operatorowi rekompensaty z tytułu świadczenia usług w zakresie publicznego transportu zbiorowego, lub
+- **4)** udostępnianiu operatorowi przez organizatora środków transportu na realizację przewozów w zakresie publicznego transportu zbiorowego.
+
 **Art. 50a.**
 
 1. Rada gminy może ustalać ceny za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w gminnych przewozach pasażerskich. W mieście stołecznym Warszawie uprawnienia te przysługują Radzie Warszawy.
@@ -861,6 +882,9 @@ Art. 66–76. (pominięte)
 4. Kary pieniężne, o których mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, właściwy organizator.
 
 **Art. 65.** Kary pieniężne, o których mowa w art. 62 ust. 1, art. 63 ust. 1 oraz art. 64 ust. 1, stanowią dochód właściwego organizatora, z przeznaczeniem na realizację zadań:
+
+- **1)** wynikających z organizacji publicznego transportu zbiorowego oraz
+- **2)** określonych w art. 18 – w przypadku gdy organizatorem jest gmina.
 
 ### DZIAŁ IV Zmiany w przepisach obowiązujących
 

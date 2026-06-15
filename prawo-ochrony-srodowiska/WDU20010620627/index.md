@@ -8,7 +8,7 @@ pos: 627
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo ochrony środowiska
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2001-04-27 |
 | Data wydania | 2001-06-20 |
-| Ostatnia zmiana | 2026-05-12 |
+| Ostatnia zmiana | 2026-06-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010620627) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/627/text.pdf) |
 
 ## TYTUŁ I Przepisy ogólne
@@ -32,6 +32,16 @@ source: "isap-pdf"
 ### DZIAŁ I Zakres obowiązywania ustawy
 
 **Art. 1.** Ustawa określa zasady ochrony środowiska oraz warunki korzystania z jego zasobów, z uwzględnieniem wymagań zrównoważonego rozwoju, a w szczególności:
+
+- **1)** zasady ustalania:
+    - **a)** warunków ochrony zasobów środowiska,
+    - **b)** warunków wprowadzania substancji lub energii do środowiska,
+    - **c)** kosztów korzystania ze środowiska;
+
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** obowiązki organów administracji;
+- **5)** odpowiedzialność i sankcje.
 
 **Art. 2.**
 
@@ -51,6 +61,130 @@ source: "isap-pdf"
 ### DZIAŁ II Definicje i zasady ogólne
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
+
+- **1)** aglomeracji – rozumie się przez to miasto lub kilka miast o wspólnych granicach administracyjnych;
+- **2)** autostradzie – rozumie się przez to także drogę ekspresową, jeżeli przepisy o autostradach płatnych mają zastosowanie do tej drogi;
+- **2a)** badaniach zanieczyszczenia gleby i ziemi – rozumie się przez to pomiary zawartości substancji powodującej ryzyko w glebie i w ziemi, w tym pobieranie próbek oraz związane z tymi pomiarami badania właściwości gleby i ziemi;
+- **2b)** dokumencie referencyjnym BAT – rozumie się przez to dokument, będący wynikiem wymiany informacji zorganizowanej przez Komisję Europejską zgodnie z przepisami dotyczącymi emisji przemysłowych, sporządzony dla określonego rodzaju działalności i opisujący w szczególności stosowane techniki, aktualne wielkości emisji i zużycia, techniki uwzględniane przy okazji ustalania najlepszych dostępnych technik, a także opisujący konkluzje BAT oraz wszelkie nowe techniki;
+- **3)** eksploatacji instalacji lub urządzenia – rozumie się przez to użytkowanie instalacji lub urządzenia oraz utrzymywanie ich w sprawności;
+- **4)** emisji – rozumie się przez to wprowadzane bezpośrednio lub pośrednio, w wyniku działalności człowieka, do powietrza, wody, gleby lub ziemi:
+    - **a)** substancje,
+    - **b)** energie, takie jak ciepło, hałas, wibracje lub pola elektromagnetyczne;
+
+- **4a)** granicznych wielkościach emisyjnych – rozumie się przez to najwyższe z określonych w konkluzjach BAT wielkości emisji powiązane z najlepszymi dostępnymi technikami, uzyskiwane w normalnych warunkach eksploatacji z wykorzystaniem najlepszej dostępnej techniki lub kombinacji najlepszych dostępnych technik;
+- **5)** hałasie – rozumie się przez to dźwięki o częstotliwościach od 16 Hz do 16 000 Hz;
+- **5a)** historycznym zanieczyszczeniu powierzchni ziemi – rozumie się przez to zanieczyszczenie powierzchni ziemi, które zaistniało przed dniem 30 kwietnia 2007 r. lub wynika z działalności, która została zakończona przed dniem 30 kwietnia 2007 r.; rozumie się przez to także szkodę w środowisku w powierzchni ziemi w rozumieniu art. 6 pkt 11 lit. c ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2020 r. poz. 2187), która została spowodowana przez emisję lub zdarzenie, od którego upłynęło więcej niż 30 lat;
+- **6)** instalacji – rozumie się przez to:
+    - **a)** stacjonarne urządzenie techniczne,
+    - **b)** zespół stacjonarnych urządzeń technicznych powiązanych technologicznie, do których tytułem prawnym dysponuje ten sam podmiot i położonych na terenie jednego zakładu,
+    - **c)** budowle niebędące urządzeniami technicznymi ani ich zespołami, których eksploatacja może spowodować emisję;
+
+- **7)** istotnej zmianie instalacji – rozumie się przez to taką zmianę sposobu funkcjonowania instalacji lub jej rozbudowę, która może powodować znaczące zwiększenie negatywnego oddziaływania na środowisko;
+- **8)** kompensacji przyrodniczej – rozumie się przez to zespół działań obejmujących w szczególności roboty budowlane, roboty ziemne, rekultywację gleby, zalesianie, zadrzewianie lub tworzenie skupień roślinności, prowadzących do przywrócenia równowagi przyrodniczej lub tworzenie skupień roślinności, prowadzących do przywrócenia równowagi przyrodniczej na danym terenie, wyrównania szkód dokonanych w środowisku przez realizację przedsięwzięcia i zachowanie walorów krajobrazowych;
+- **8a)** lotnisku – rozumie się przez to także port lotniczy oraz lądowisko;
+- **8b)** krajowym celu redukcji narażenia – rozumie się przez to procentowe zmniejszenie krajowego wskaźnika średniego narażenia dla roku odniesienia, w celu ograniczenia szkodliwego wpływu danej substancji na zdrowie ludzi, który ma być osiągnięty w określonym terminie;
+- **8c)** krajowym wskaźniku średniego narażenia – rozumie się przez to średni poziom substancji w powietrzu wyznaczony na podstawie pomiarów przeprowadzonych na obszarach tła miejskiego w miastach o liczbie mieszkańców większej niż 100 tysięcy i aglomeracjach na terenie całego kraju, wykorzystywany do określenia i dotrzymania krajowego celu redukcji narażenia oraz dotrzymania pułapu stężenia ekspozycji;
+- **8d)** konkluzji BAT – rozumie się przez to dokument sporządzony na podstawie dokumentu referencyjnego BAT, przyjmowany przez Komisję Europejską, w drodze decyzji, zgodnie z przepisami dotyczącymi emisji przemysłowych, formułujący wnioski dotyczące najlepszych dostępnych technik, ich opisu, informacji służącej ocenie ich przydatności, wielkości emisji powiązanych z najlepszymi dostępnymi technikami, powiązanego monitoringu, powiązanych poziomów zużycia oraz, w stosownych przypadkach, odpowiednich sposobów przeprowadzenia remediacji;
+- **9)** metodyce referencyjnej – rozumie się przez to określoną na podstawie ustawy metodę pomiarów lub badań, która może obejmować w szczególności sposób poboru próbek, sposób interpretacji uzyskanych danych, a także metodyki modelowania rozprzestrzeniania substancji oraz energii w środowisku;
+- **9a)** miejskim planie adaptacji – rozumie się przez to dokument o charakterze strategiczno-wdrożeniowym obejmujący swoim zakresem obszar danego miasta, mający na celu zmniejszenie podatności miasta na zmiany klimatu, w tym poprawę zdolności przystosowania miasta do zmian klimatu;
+- **10)** najlepszych dostępnych technikach – rozumie się przez to najbardziej efektywny i zaawansowany poziom rozwoju technologii i metod prowadzenia danej działalności, który wskazuje możliwe wykorzystanie poszczególnych technik jako podstawy przy ustalaniu dopuszczalnych wielkości emisji i innych warunków pozwolenia mających na celu zapobieganie powstawaniu, a jeżeli nie jest to możliwe, ograniczenie emisji i oddziaływania na środowisko jako całość, z tym że:
+    - **a)** technika – oznacza zarówno stosowaną technologię, jak i sposób, w jaki dana instalacja jest projektowana, wykonywana, eksploatowana oraz likwidowana,
+    - **b)** dostępne techniki – oznaczają techniki o takim stopniu rozwoju, który umożliwia ich praktyczne zastosowanie w danej dziedzinie przemysłu, z uwzględnieniem warunków ekonomicznych i technicznych oraz rachunku kosztów i korzyści, a które to techniki prowadzący daną działalność może uzyskać,
+    - **c)** najlepsza technika – oznacza najbardziej efektywną technikę w osiąganiu wysokiego ogólnego poziomu ochrony środowiska jako całości;
+
+- **10a)** obszarze cichym w aglomeracji – rozumie się przez to obszar, na którym nie występują przekroczenia dopuszczalnych poziomów hałasu wyrażonych wskaźnikiem hałasu L ;
+- **10b)** obszarze cichym poza aglomeracją – rozumie się przez to obszar, który nie jest narażony na oddziaływanie hałasu komunikacyjnego, przemysłowego lub pochodzącego z działalności rekreacyjno-wypoczynkowej;
+- **10c)** (uchylony) 10d) obszarze tła miejskiego – rozumie się przez to obszar miasta, w którym poziomy substancji w powietrzu są reprezentatywne dla narażenia ludności zamieszkującej tereny miejskie na działanie substancji;
+- **11)** oddziaływaniu na środowisko – rozumie się przez to również oddziaływanie na zdrowie ludzi;
+- **11a)** (uchylony)
+- **12)** odpadach – rozumie się przez to odpady w rozumieniu ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, z późn. zm. );
+- **13)** ochronie środowiska – rozumie się przez to podjęcie lub zaniechanie działań, umożliwiające zachowanie lub przywracanie równowagi przyrodniczej; ochrona ta polega w szczególności na:
+    - **a)** racjonalnym kształtowaniu środowiska i gospodarowaniu zasobami środowiska zgodnie z zasadą zrównoważonego rozwoju,
+    - **b)** przeciwdziałaniu zanieczyszczeniom,
+    - **c)** przywracaniu elementów przyrodniczych do stanu właściwego;
+
+- **14)** organie administracji – rozumie się przez to:
+    - **a)** ministrów, centralne organy administracji rządowej, wojewodów, działające w ich lub we własnym imieniu inne terenowe organy administracji rządowej, organy jednostek samorządu terytorialnego,
+    - **b)** inne podmioty, gdy są one powołane z mocy prawa lub na podstawie porozumień do wykonywania zadań publicznych dotyczących środowiska i jego ochrony;
+
+- **15)** organie ochrony środowiska – rozumie się przez to organy administracji powołane do wykonywania zadań publicznych z zakresu ochrony środowiska, stosownie do ich właściwości określonej w tytule VII w dziale I;
+- **16)** organizacji ekologicznej – rozumie się przez to organizacje społeczne, których statutowym celem jest ochrona środowiska;
+- **17)** PCB – rozumie się przez to substancje, o których mowa w art. 3 pkt 17 ustawy z dnia 14 grudnia 2012 r. o odpadach;
+- **18)** polach elektromagnetycznych – rozumie się przez to pole elektryczne, magnetyczne oraz elektromagnetyczne o częstotliwościach od 0 Hz do 300 GHz;
+- **19)** (uchylony)
+- **20)** podmiocie korzystającym ze środowiska – rozumie się przez to: poz. 89), a także osoby prowadzące działalność wytwórczą w rolnictwie w zakresie upraw rolnych, chowu lub hodowli zwierząt, ogrodnictwa, warzywnictwa, leśnictwa i rybactwa śródlądowego,
+    - **a)** przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222) oraz przedsiębiorcę zagranicznego w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r.
+    - **b)** jednostkę organizacyjną niebędącą przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców,
+    - **c)** osobę fizyczną niebędącą podmiotem, o którym mowa w lit. a, korzystającą ze środowiska w zakresie, w jakim korzystanie ze środowiska wymaga pozwolenia;
+
+- **21)** pomiarze – rozumie się przez to również obserwacje oraz analizy;
+- **22)** (uchylony)
+- **23)** poważnej awarii – rozumie się przez to zdarzenie, w szczególności emisję, pożar lub eksplozję, powstałe w trakcie procesu przemysłowego, magazynowania lub transportu, w których występuje jedna lub więcej niebezpiecznych substancji, prowadzące do natychmiastowego powstania zagrożenia życia lub zdrowia ludzi lub środowiska lub powstania takiego zagrożenia z opóźnieniem;
+- **24)** poważnej awarii przemysłowej – rozumie się przez to poważną awarię w zakładzie;
+- **25)** powierzchni ziemi – rozumie się przez to ukształtowanie terenu, glebę, ziemię oraz wody gruntowe, z tym że: 1087, 1089 i 1473 oraz z 2025 r. poz. 216), które znajdują się w strefie nasycenia i pozostają w bezpośredniej styczności z gruntem lub podglebiem;
+    - **a)** gleba – oznacza górną warstwę litosfery, złożoną z części mineralnych, materii organicznej, wody glebowej, powietrza glebowego i organizmów, obejmującą wierzchnią warstwę gleby i podglebie,
+    - **b)** ziemia – oznacza górną warstwę litosfery, znajdującą się poniżej gleby, do głębokości oddziaływania człowieka,
+    - **c)** wody gruntowe – oznaczają wody podziemne w rozumieniu art. 16 pkt 68 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz.
+
+- **26)** powietrzu – rozumie się przez to powietrze znajdujące się w troposferze, z wyłączeniem wnętrz budynków i miejsc pracy;
+- **26a)** poziomie dźwięku A wyrażonym w decybelach (dB) – rozumie się przez to wartość poziomu ciśnienia akustycznego, skorygowaną według charakterystyki częstotliwościowej A, wyznaczoną zgodnie z Polską Normą;
+- **27)** (uchylony)
+- **28)** poziomie substancji w powietrzu – rozumie się przez to stężenie substancji w powietrzu w odniesieniu do ustalonego czasu lub opad takiej substancji w odniesieniu do ustalonego czasu i powierzchni, przy czym:
+    - **a)** poziom dopuszczalny – jest to poziom substancji, który ma być osiągnięty w określonym terminie i który po tym terminie nie powinien być przekraczany; poziom dopuszczalny jest standardem jakości powietrza,
+    - **b)** poziom docelowy – jest to poziom substancji, który ma być osiągnięty w określonym czasie za pomocą ekonomicznie uzasadnionych działań technicznych i technologicznych; poziom ten ustala się w celu unikania, zapobiegania lub ograniczania szkodliwego wpływu danej substancji na zdrowie ludzi lub środowisko jako całość,
+    - **c)** poziom celu długoterminowego – jest to poziom substancji, poniżej którego, zgodnie ze stanem współczesnej wiedzy, bezpośredni szkodliwy wpływ na zdrowie ludzi lub środowisko jako całość jest mało prawdopodobny; poziom ten ma być osiągnięty w długim okresie czasu, z wyjątkiem sytuacji, gdy nie może być osiągnięty za pomocą ekonomicznie uzasadnionych działań technicznych i technologicznych;
+
+- **28a)** poziomie informowania – rozumie się przez to stężenie substancji w powietrzu, powyżej którego istnieje zagrożenie zdrowia ludzkiego wynikające z krótkotrwałego narażenia na działanie zanieczyszczeń wrażliwych grup ludności, w przypadku którego niezbędna jest natychmiastowa i właściwa informacja;
+- **29)** pozwoleniu, bez podania jego rodzaju – rozumie się przez to pozwolenie na wprowadzanie do środowiska substancji lub energii, o którym mowa w art. 181 ust. 1;
+- **30)** produkcie – rozumie się przez to wprowadzaną do obrotu substancję, energię, instalację, urządzenie oraz inny przedmiot lub jego część;
+- **30a)** programie ochrony środowiska przed hałasem – rozumie się przez to program sporządzany na potrzeby zarządzania emisją i skutkami hałasu, w tym w celu zmniejszenia hałasu;
+- **31)** prowadzącym instalację – rozumie się przez to podmiot uprawniony na podstawie określonego tytułu prawnego do władania instalacją w celu jej eksploatacji zgodnie z wymaganiami ochrony środowiska, na zasadach wskazanych w ustawie;
+- **31a)** pułapie stężenia ekspozycji – rozumie się przez to poziom substancji w powietrzu wyznaczony na podstawie wartości krajowego wskaźnika średniego narażenia, w celu ograniczenia szkodliwego wpływu danej substancji na zdrowie ludzi, który ma być osiągnięty w określonym terminie; pułap stężenia ekspozycji jest standardem jakości powietrza;
+- **31b)** remediacji – rozumie się przez to poddanie gleby, ziemi i wód gruntowych działaniom mającym na celu usunięcie lub zmniejszenie ilości substancji powodujących ryzyko, ich kontrolowanie oraz ograniczenie rozprzestrzeniania się, tak aby teren zanieczyszczony przestał stwarzać zagrożenie dla zdrowia ludzi lub stanu środowiska, z uwzględnieniem obecnego i, o ile jest to możliwe, planowanego w przyszłości sposobu użytkowania terenu; remediacja może polegać na samooczyszczaniu, jeżeli przynosi największe korzyści dla środowiska;
+- **32)** równowadze przyrodniczej – rozumie się przez to stan, w którym na określonym obszarze istnieje równowaga we wzajemnym oddziaływaniu: człowieka, składników przyrody żywej i układu warunków siedliskowych tworzonych przez składniki przyrody nieożywionej;
+- **32a)** ruchach masowych ziemi – rozumie się przez to powstające naturalnie lub na skutek działalności człowieka osuwanie, spełzywanie lub obrywanie powierzchniowych warstw skał, zwietrzeliny i gleby;
+- **32b)** równoważnym poziomie hałasu – rozumie się przez to wartość poziomu ciśnienia akustycznego ciągłego ustalonego dźwięku, skorygowaną według charakterystyki częstotliwościowej A, która w określonym przedziale czasu odniesienia jest równa średniemu kwadratowi ciśnienia akustycznego analizowanego dźwięku o zmiennym poziomie w czasie; równoważny poziom hałasu wyraża się wzorem zgodnie z Polską Normą;
+- **32c)** ryzyku – rozumie się przez to prawdopodobieństwo wystąpienia konkretnego skutku w określonym czasie lub w określonej sytuacji;
+- **32d)** samooczyszczaniu – rozumie się przez to biologiczne, chemiczne i fizyczne procesy, których skutkiem jest ograniczenie ilości, ładunku, stężenia, toksyczności, dostępności oraz rozprzestrzeniania się zanieczyszczeń w glebie, ziemi i wodach, przebiegające samoistnie, bez ingerencji człowieka, ale których przebieg może być przez człowieka wspomagany;
+- **33)** standardach emisyjnych – rozumie się przez to dopuszczalne wielkości emisji;
+- **34)** standardzie jakości środowiska – rozumie się przez to poziomy dopuszczalne substancji lub energii oraz pułap stężenia ekspozycji, które muszą być osiągnięte w określonym czasie przez środowisko jako całość lub jego poszczególne elementy przyrodnicze;
+- **35)** staroście – rozumie się przez to także prezydenta miasta na prawach powiatu;
+- **35a)** strategicznej mapie hałasu – rozumie się przez to mapę sporządzoną do celów całościowej oceny narażenia na hałas z różnych źródeł na danym terenie albo do celów sporządzania ogólnych prognoz dla danego terenu;
+- **36)** substancji – rozumie się przez to pierwiastki chemiczne oraz ich związki, mieszaniny lub roztwory występujące w środowisku lub powstałe w wyniku działalności człowieka;
+- **37)** substancji niebezpiecznej – rozumie się przez to jedną lub więcej substancji albo mieszaniny substancji, które ze względu na swoje właściwości chemiczne, biologiczne lub promieniotwórcze mogą, w razie nieprawidłowego obchodzenia się z nimi, spowodować zagrożenie życia lub zdrowia ludzi lub środowiska; substancją niebezpieczną może być surowiec, produkt, półprodukt, odpad, a także substancja powstała w wyniku awarii;
+- **37a)** substancji powodującej ryzyko – rozumie się przez to substancję stwarzającą zagrożenie i mieszaninę stwarzającą zagrożenie, należącą co najmniej do jednej z klas zagrożenia wymienionych w częściach 2–5 załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, str. 1, z późn. zm.), w szczególności substancje powodujące ryzyko, o których mowa w przepisach wydanych na podstawie art. 101a ust. 5 pkt 1;
+- **38)** ściekach – rozumie się przez to wprowadzane do wód lub do ziemi: o nawozach i nawożeniu (Dz. U. z 2024 r. poz. 105),
+    - **a)** wody zużyte na cele bytowe lub gospodarcze,
+    - **b)** ciekłe odchody zwierzęce, z wyjątkiem gnojówki i gnojowicy przeznaczonych do rolniczego wykorzystania w sposób i na zasadach określonych w przepisach działu III rozdziału 4 ustawy z dnia 20 lipca 2017 r. – Prawo wodne oraz w przepisach ustawy z dnia 10 lipca 2007 r.
+    - **c)** wody odciekowe ze składowisk odpadów oraz obiektów unieszkodliwiania odpadów wydobywczych, w których są składowane odpady wydobywcze niebezpieczne oraz odpady wydobywcze inne niż niebezpieczne i obojętne, miejsc magazynowania, prowadzenia odzysku lub unieszkodliwiania odpadów, wykorzystane solanki, wody lecznicze i termalne,
+    - **d)** wody pochodzące z obiegów chłodzących elektrowni lub elektrociepłowni,
+    - **e)** wody pochodzące z odwodnienia zakładów górniczych, z wyjątkiem wód wtłaczanych do górotworu, jeżeli rodzaje i ilość substancji zawartych w wodzie wtłaczanej do górotworu są tożsame z rodzajami i ilościami substancji zawartych w pobranej wodzie, z wyłączeniem niezanieczyszczonych wód pochodzących z odwodnienia zakładów górniczych,
+    - **f)** wody wykorzystane, odprowadzane z obiektów chowu lub hodowli ryb w obiektach przepływowych, charakteryzujących się poborem zwrotnym, o ile ilość i rodzaj substancji zawartych w tych wodach przekracza wartości ustalone w warunkach wprowadzania ścieków do wód określonych w pozwoleniu wodnoprawnym,
+    - **g)** wody wykorzystane, odprowadzane z obiektów chowu lub hodowli ryb albo innych organizmów wodnych w stawach o wodzie stojącej, o ile produkcja tych ryb lub organizmów rozumiana jako średnioroczny przyrost masy tych ryb albo tych organizmów w poszczególnych latach cyklu produkcyjnego przekracza 1500 kg z 1 ha powierzchni użytkowej stawów rybnych tego obiektu w jednym roku danego cyklu;
+
+- **38a)** ściekach bytowych – rozumie się przez to ścieki z budynków mieszkalnych, zamieszkania zbiorowego oraz użyteczności publicznej, powstające w wyniku ludzkiego metabolizmu lub funkcjonowania gospodarstw domowych oraz ścieki o zbliżonym składzie pochodzące z tych budynków;
+- **38b)** ściekach komunalnych – rozumie się przez to ścieki bytowe lub mieszaninę ścieków bytowych ze ściekami przemysłowymi albo wodami opadowymi lub roztopowymi będącymi skutkiem opadów atmosferycznych, odprowadzane urządzeniami służącymi do realizacji zadań własnych gminy w zakresie kanalizacji i oczyszczania ścieków komunalnych;
+- **38c)** ściekach przemysłowych – rozumie się przez to ścieki niebędące ściekami bytowymi albo wodami opadowymi lub roztopowymi będącymi skutkiem opadów atmosferycznych, powstałe w związku z prowadzoną przez zakład działalnością handlową, przemysłową, składową, transportową lub usługową, a także będące ich mieszaniną ze ściekami innego podmiotu, odprowadzane urządzeniami kanalizacyjnymi tego zakładu;
+- **39)** środowisku – rozumie się przez to ogół elementów przyrodniczych, w tym także przekształconych w wyniku działalności człowieka, a w szczególności powierzchnię ziemi, kopaliny, wody, powietrze, krajobraz, klimat oraz pozostałe elementy różnorodności biologicznej, a także wzajemne oddziaływania pomiędzy tymi elementami;
+- **40)** terenie zamkniętym – rozumie się przez to teren, a w szczególnych przypadkach obiekt budowlany lub jego część, dostępny wyłącznie dla osób uprawnionych oraz wyznaczony w sposób określony w ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824);
+- **41)** tytule prawnym – rozumie się przez to prawo własności, użytkowanie wieczyste, trwały zarząd, ograniczone prawo rzeczowe albo stosunek zobowiązaniowy;
+- **42)** urządzeniu – rozumie się przez to niestacjonarne urządzenie techniczne, w tym środki transportu;
+- **42a)** użytkowniku urządzenia – rozumie się przez to podmiot uprawniony na podstawie określonego tytułu prawnego do władania urządzeniem w celu jego eksploatacji zgodnie z wymaganiami ochrony środowiska, na zasadach wskazanych w ustawie;
+- **43)** wielkości emisji – rozumie się przez to rodzaj i ilość wprowadzanych substancji lub energii w określonym czasie oraz stężenia lub poziomy substancji lub energii, w szczególności w gazach odlotowych, wprowadzanych ściekach oraz wytwarzanych odpadach;
+- **44)** władającym powierzchnią ziemi – rozumie się przez to właściciela nieruchomości, a jeżeli w ewidencji gruntów i budynków prowadzonej na podstawie ustawy – Prawo geodezyjne i kartograficzne ujawniono inny podmiot władający gruntem – podmiot ujawniony jako władający;
+- **45)** właściwym organie Państwowej Straży Pożarnej – rozumie się przez to właściwego miejscowo ze względu na lokalizację zakładu:
+    - **a)** komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej – w sprawach dotyczących zakładów o zwiększonym ryzyku wystąpienia poważnej awarii przemysłowej,
+    - **b)** komendanta wojewódzkiego Państwowej Straży Pożarnej – w sprawach dotyczących zakładów o dużym ryzyku wystąpienia poważnej awarii przemysłowej;
+
+- **46)** wprowadzaniu ścieków do ziemi – rozumie się przez to także wprowadzanie ścieków do gleby;
+- **46a)** wskaźniku średniego narażenia dla miasta o liczbie mieszkańców większej niż 100 tysięcy i aglomeracji – rozumie się przez to średni poziom substancji w powietrzu wyznaczony na podstawie pomiarów przeprowadzonych na obszarach tła miejskiego w miastach o liczbie mieszkańców większej niż 100 tysięcy i aglomeracjach, wykorzystywany do dotrzymania pułapu stężenia ekspozycji oraz określenia i dotrzymania krajowego celu redukcji narażenia;
+- **47)** wykorzystywaniu substancji – rozumie się przez to także ich gromadzenie;
+- **47a)** wyłącznej strefie ekonomicznej Rzeczypospolitej Polskiej – rozumie się przez to wyłączną strefę ekonomiczną Rzeczypospolitej Polskiej w rozumieniu ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125 oraz z 2025 r. poz. 409);
+- **48)** zakładzie – rozumie się przez to jedną lub kilka instalacji wraz z terenem, do którego prowadzący instalacje posiada tytuł prawny, oraz znajdującymi się na nim urządzeniami;
+- **48a)** zakładzie stwarzającym zagrożenie wystąpienia poważnej awarii przemysłowej – rozumie się przez to zakład o zwiększonym ryzyku wystąpienia poważnej awarii przemysłowej lub zakład o dużym ryzyku wystąpienia poważnej awarii przemysłowej, o których mowa w art. 248 ust. 1;
+- **49)** zanieczyszczeniu – rozumie się przez to emisję, która może być szkodliwa dla zdrowia ludzi lub stanu środowiska, może powodować szkodę w dobrach materialnych, może pogarszać walory estetyczne środowiska lub może kolidować z innymi, uzasadnionymi sposobami korzystania ze środowiska;
+- **49a)** udziale zanieczyszczeń pochodzących ze źródeł naturalnych – rozumie się przez to tę część emisji zanieczyszczeń, która nie jest spowodowana bezpośrednio lub pośrednio działalnością człowieka, w tym zjawiska naturalne, takie jak wybuchy wulkanów, aktywność sejsmiczna, aktywność geotermiczna, pożary lasów i nieużytków, gwałtowne wichury, aerozole morskie, emisja wtórna lub przenoszenie w powietrzu cząstek pochodzenia naturalnego z regionów suchych;
+- **50)** zrównoważonym rozwoju – rozumie się przez to taki rozwój społeczno-gospodarczy, w którym następuje proces integrowania działań politycznych, gospodarczych i społecznych, z zachowaniem równowagi przyrodniczej oraz trwałości podstawowych procesów przyrodniczych, w celu zagwarantowania możliwości zaspokajania podstawowych potrzeb poszczególnych społeczności lub obywateli zarówno współczesnego pokolenia, jak i przyszłych pokoleń.
 
 **Art. 4.**
 
@@ -310,6 +444,10 @@ source: "isap-pdf"
 
 **Art. 73a.** Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw wewnętrznych i ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może określić, w drodze rozporządzenia:
 
+- **1)** sposób ustalania bezpiecznej odległości, o której mowa w art. 73 ust. 4 i 5,
+- **2)** rodzaje poważnych awarii przemysłowych, których potencjalne skutki należy uwzględnić przy ustalaniu bezpiecznej odległości, o której mowa w art. 73 ust. 4 i 5,
+- **3)** parametry graniczne oddziaływania potencjalnych skutków poważnych awarii przemysłowych w zakresie palności, wybuchowości i toksyczności substancji niebezpiecznych, których miejsca występowania należy uwzględnić przy ustalaniu bezpiecznej odległości, o której mowa w art. 73 ust. 4 i 5 – kierując się potrzebą zapewnienia wysokiego poziomu ochrony ludzi i środowiska.
+
 **Art. 74.**
 
 1. W trakcie przygotowywania i realizacji inwestycji należy zapewnić oszczędne korzystanie z terenu.
@@ -395,6 +533,9 @@ source: "isap-pdf"
 
 **Art. 82.** Ochrona zasobów środowiska jest realizowana w szczególności poprzez:
 
+- **1)** określenie standardów jakości środowiska oraz kontrolę ich osiągania, a także podejmowanie działań służących ich nieprzekraczaniu lub przywracaniu;
+- **2)** ograniczanie emisji, na zasadach określonych w tytule III.
+
 **Art. 83.**
 
 1. Określając standardy jakości środowiska, należy kierować się skalą występowania i rodzajem oddziaływania substancji lub energii na środowisko.
@@ -433,7 +574,14 @@ source: "isap-pdf"
 
 **Art. 84a.** Ilekroć w przepisach niniejszego działu jest mowa o:
 
+- **1)** aglomeracji o liczbie mieszkańców większej niż 250 tysięcy,
+- **2)** mieście o liczbie mieszkańców większej niż 100 tysięcy – należy przez to rozumieć, że liczby te zostały ustalone zgodnie z danymi statystycznymi na koniec roku poprzedniego.
+
 **Art. 85.** Ochrona powietrza polega na zapewnieniu jak najlepszej jego jakości, w szczególności przez:
+
+- **1)** utrzymanie poziomów substancji w powietrzu poniżej dopuszczalnych dla nich poziomów lub co najmniej na tych poziomach;
+- **2)** zmniejszanie poziomów substancji w powietrzu co najmniej do dopuszczalnych, gdy nie są one dotrzymane;
+- **3)** zmniejszanie i utrzymanie poziomów substancji w powietrzu poniżej poziomów docelowych albo poziomów celów długoterminowych lub co najmniej na tych poziomach.
 
 **Art. 86.**
 
@@ -480,6 +628,9 @@ source: "isap-pdf"
 3. Główny Inspektor Ochrony Środowiska niezwłocznie przekazuje ministrowi właściwemu do spraw klimatu informację o wartościach wskaźników, o których mowa w ust. 2.
 
 **Art. 86b.** Minister właściwy do spraw klimatu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 30 września każdego roku, wykaz miast o liczbie mieszkańców większej niż 100 tysięcy i aglomeracji, w których:
+
+- **1)** wartość wskaźnika średniego narażenia dla miasta o liczbie mieszkańców większej niż 100 tysięcy i aglomeracji przekracza wartość pułapu stężenia ekspozycji;
+- **2)** wartość wskaźnika średniego narażenia dla miasta o liczbie mieszkańców większej niż 100 tysięcy i aglomeracji nie przekracza wartości pułapu stężenia ekspozycji.
 
 **Art. 86c.** Minister właściwy do spraw klimatu określi, w drodze rozporządzenia, krajowy cel redukcji narażenia, kierując się potrzebą ochrony zdrowia ludzi.
 
@@ -843,6 +994,36 @@ source: "isap-pdf"
 
 **Art. 101.** Ochrona powierzchni ziemi polega na:
 
+- **1)** racjonalnym gospodarowaniu;
+- **2)** zachowaniu funkcji środowiskowych, gospodarczych, społecznych i kulturowych, w tym między innymi:
+    - **a)** produkcji żywności oraz biomasy,
+    - **b)** magazynowaniu, filtrowaniu i przekształcaniu składników odżywczych, substancji i wody,
+    - **c)** podstaw rozwoju życia i różnorodności biologicznej,
+    - **d)** źródła surowców,
+    - **e)** rezerwuaru pierwiastka węgla,
+    - **f)** zbioru dziedzictwa geologicznego, geomorfologicznego i archeologicznego;
+
+- **3)** zapobieganiu zanieczyszczeniu substancjami powodującymi ryzyko oraz na remediacji;
+- **4)** zachowaniu jak najlepszego stanu gleby poprzez zapobieganie:
+    - **a)** erozji wodnej i wietrznej,
+    - **b)** spadkowi zawartości próchnicy glebowej,
+    - **c)** zagęszczaniu, przez co rozumie się wzrost gęstości objętościowej i zmniejszanie porowatości gleby,
+    - **d)** zasoleniu na skutek gromadzenia się w glebie soli rozpuszczalnych,
+    - **e)** działaniom powodującym zakwaszanie;
+
+- **5)** minimalizacji stopnia i łagodzeniu skutków zasklepienia gleby poprzez:
+    - **a)** ograniczanie do niezbędnego minimum powierzchni gleby objętej zabudową,
+    - **b)** zachowywanie lub tworzenie powierzchni biologicznie czynnych gleby, zdolnych do łagodzenia degradującego działania terenów zabudowanych i zanieczyszczeń środowiska;
+
+- **6)** zapobieganiu ruchom masowym ziemi i ich skutkom;
+- **7)** przeciwdziałaniu niekorzystnym zmianom naturalnego ukształtowania powierzchni ziemi polegającym na:
+    - **a)** ograniczaniu tworzenia, powstałych w wyniku przemieszczania lub usuwania mas ziemnych i skalnych oraz odpadów wydobywczych, wykopów, wyrobisk, nasypów i zwałowisk,
+    - **b)** zapobieganiu niszczeniu gleby, w tym mieszaniu jej poziomów genetycznych, które nie wynika z uprawy gruntów ornych,
+    - **c)** zapobieganiu i ograniczaniu niszczenia pokrycia terenu roślinnością,
+    - **d)** zapewnieniu racjonalnego wykorzystania przemieszczanych lub usuwanych mas ziemnych i skalnych,
+    - **e)** zapewnieniu racjonalnego wykorzystania warstwy próchnicznej gleb, głównie w kierunku odtworzenia i ulepszania gleb,
+    - **f)** ponownym kształtowaniu funkcji lub przygotowaniu do pełnienia nowych funkcji terenów, na których występuje niekorzystne przekształcenie naturalnego ukształtowania powierzchni ziemi.
+
 **Art. 101a.**
 
 1. Zanieczyszczenie powierzchni ziemi ocenia się na podstawie przekroczenia dopuszczalnych zawartości substancji powodujących ryzyko w glebie lub w ziemi.
@@ -1015,6 +1196,11 @@ source: "isap-pdf"
 4. W przypadku, o którym mowa w ust. 3, decyzję, o której mowa w art. 101l ust. 4 i art. 101m ust. 1 pkt 2, kieruje się także do władającego powierzchnią ziemi.
 
 **Art. 101i.** Regionalny dyrektor ochrony środowiska, w przypadku historycznego zanieczyszczenia powierzchni ziemi, przeprowadza remediację, jeżeli:
+
+- **1)** nie można wszcząć wobec władającego powierzchnią ziemi postępowania egzekucyjnego dotyczącego obowiązku przeprowadzenia remediacji albo egzekucja okazała się bezskuteczna;
+- **2)** władający powierzchnią ziemi wykaże, że zanieczyszczenie, dokonane po dniu objęcia przez niego władania, spowodował inny sprawca, wobec którego nie można wszcząć postępowania egzekucyjnego dotyczącego obowiązku przeprowadzenia remediacji, lub egzekucja okazała się bezskuteczna;
+- **3)** władający powierzchnią ziemi dokonał zgłoszenia na podstawie art. 12 ustawy z dnia 27 lipca 2001 r. o wprowadzeniu ustawy – Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw (Dz. U. poz. 1085, z późn. zm. ) oraz starosta uwzględnił zgłoszenie w rejestrze zawierającym informacje o terenach, na których stwierdzono przekroczenie standardów jakości gleby lub ziemi, z wyszczególnieniem terenów, na których obowiązek rekultywacji obciążał starostę;
+- **4)** z uwagi na zagrożenie dla zdrowia ludzi lub możliwość zaistnienia nieodwracalnych szkód w środowisku jest konieczne niezwłoczne jej przeprowadzenie.
 
 **Art. 101j.**
 
@@ -1225,7 +1411,18 @@ source: "isap-pdf"
 
 **Art. 112.** Ochrona przed hałasem polega na zapewnieniu jak najlepszego stanu akustycznego środowiska, w szczególności poprzez:
 
+- **1)** utrzymanie poziomu hałasu poniżej dopuszczalnego lub co najmniej na tym poziomie;
+- **2)** zmniejszanie poziomu hałasu co najmniej do dopuszczalnego, gdy nie jest on dotrzymany.
+
 **Art. 112a.** Ilekroć w przepisach niniejszego działu jest mowa o:
+
+- **1)** wskaźnikach hałasu – rozumie się przez to wskaźniki hałasu mające zastosowanie do: 22 ) oraz pory nocy (rozumianej jako przedział czasu od godz. 22 do godz. 6 ); wskaźnik ten służy do określenia ogólnej dokuczliwości hałasu, – L – długookresowy średni poziom dźwięku A, wyrażony w decybelach (dB), wyznaczony zgodnie z ISO 1996-2: 1987 w ciągu wszystkich pór nocy (rozumianych jako przedział czasu od godz. 22 do godz. 6 ) w roku (rozumianym jako dany rok kalendarzowy w odniesieniu do emisji dźwięku i średni rok w odniesieniu do warunków meteorologicznych); wskaźnik ten służy do określenia zaburzenia snu,
+    - **a)** sporządzania strategicznych map hałasu oraz programów ochrony środowiska przed hałasem: – L – długookresowy średni poziom dźwięku A wyrażony w decybelach (dB), wyznaczony zgodnie z ISO 1996-2: 1987 w ciągu wszystkich dób w roku (rozumianym jako dany rok kalendarzowy w odniesieniu do emisji dźwięku i średni rok w odniesieniu do warunków meteorologicznych), z uwzględnieniem pory dnia (rozumianej jako przedział czasu od godz. 6 do godz. 18 ), pory wieczoru (rozumianej jako przedział czasu od godz. 18 do godz.
+    - **b)** ustalania i kontroli warunków korzystania ze środowiska w odniesieniu do jednej doby: – L – równoważny poziom dźwięku A dla pory dnia (rozumianej jako przedział czasu od godz. 6 do godz. 22 ), – L – równoważny poziom dźwięku A dla pory nocy (rozumianej jako przedział czasu od godz. 22 do godz. 6 );
+
+- **2)** głównej drodze – rozumie się przez to drogę, po której przejeżdża rocznie więcej niż 3 miliony pojazdów;
+- **3)** głównej linii kolejowej – rozumie się przez to linię kolejową, po której przejeżdża rocznie więcej niż 30 tysięcy pociągów;
+- **4)** głównym lotnisku – rozumie się przez to lotnisko cywilne, na którym rocznie odbywa się więcej niż 50 tysięcy operacji (startów lub lądowań), z wyłączeniem operacji dokonywanych wyłącznie w celach szkoleniowych przy użyciu samolotów o masie startowej poniżej 5700 kg.
 
 **Art. 112b.** Minister właściwy do spraw klimatu określi, w drodze rozporządzenia, sposób ustalania wartości wskaźnika hałasu, o którym mowa w art. 112a pkt 1 lit. a tiret pierwsze, uwzględniając potrzebę jego wykorzystania przy sporządzaniu strategicznych map hałasu oraz obowiązujące w tym zakresie dokumenty normalizacyjne w rozumieniu ustawy z dnia 12 września 2002 r. o normalizacji (Dz. U. z 2015 r. poz. 1483).
 
@@ -1556,6 +1753,9 @@ source: "isap-pdf"
 
 **Art. 121.** Ochrona przed polami elektromagnetycznymi polega na zapewnieniu jak najlepszego stanu środowiska poprzez:
 
+- **1)** utrzymanie poziomów pól elektromagnetycznych poniżej dopuszczalnych lub co najmniej na tych poziomach;
+- **2)** zmniejszanie poziomów pól elektromagnetycznych co najmniej do dopuszczalnych, gdy nie są one dotrzymane.
+
 **Art. 122.**
 
 1. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, zróżnicowane dopuszczalne poziomy pól elektromagnetycznych w środowisku dla terenów przeznaczonych pod zabudowę mieszkaniową i miejsc dostępnych dla ludności poprzez wskazanie:
@@ -1712,6 +1912,10 @@ source: "isap-pdf"
 
 **Art. 134.** Obowiązanymi do wypłaty odszkodowania lub wykupu nieruchomości są:
 
+- **1)** właściwa jednostka samorządu terytorialnego – jeżeli ograniczenie sposobu korzystania z nieruchomości nastąpiło w wyniku uchwalenia aktu prawa miejscowego przez organ samorządu terytorialnego;
+- **2)** reprezentowany przez wojewodę Skarb Państwa – jeżeli ograniczenie sposobu korzystania z nieruchomości nastąpiło w wyniku wydania rozporządzenia Rady Ministrów, właściwego ministra albo wojewody.
+- **3)** (uchylony)
+
 #### Rozdział 3 Obszary ograniczonego użytkowania
 
 **Art. 135.**
@@ -1851,6 +2055,15 @@ source: "isap-pdf"
 
 **Art. 143.** Technologia stosowana w nowo uruchamianych lub zmienianych w sposób istotny instalacjach i urządzeniach powinna spełniać wymagania, przy których określaniu uwzględnia się w szczególności:
 
+- **1)** stosowanie substancji o małym potencjale zagrożeń;
+- **2)** efektywne wytwarzanie oraz wykorzystanie energii;
+- **3)** zapewnienie racjonalnego zużycia wody i innych surowców oraz materiałów i paliw;
+- **4)** stosowanie technologii bezodpadowych i małoodpadowych oraz możliwość odzysku powstających odpadów;
+- **5)** rodzaj, zasięg oraz wielkość emisji;
+- **6)** wykorzystywanie porównywalnych procesów i metod, które zostały skutecznie zastosowane w skali przemysłowej;
+- **7)** (uchylony)
+- **8)** postęp naukowo-techniczny.
+
 **Art. 144.**
 
 1. Eksploatacja instalacji nie powinna powodować przekroczenia standardów jakości środowiska.
@@ -1868,6 +2081,21 @@ source: "isap-pdf"
 4. Zastosowanie technologii spełniającej wymagania, o których mowa w art. 143, a także dotrzymanie standardów emisyjnych określonych w przepisach wydanych na podstawie art. 146 ust. 3 oraz w przepisach odrębnych, nie zwalnia z obowiązku zachowania standardów jakości środowiska.
 
 **Art. 145.** Prowadzący instalację oraz użytkownik urządzenia są obowiązani do:
+
+- **1)** dotrzymywania standardów emisyjnych, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 3 i 4, z uwzględnieniem warunków uznawania ich za dotrzymane, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. a, oraz stałych lub przejściowych odstępstw od standardów emisyjnych, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. c;
+- **2)** dotrzymywania standardów emisyjnych, o których mowa w przepisach wydanych na podstawie art. 169 ust. 3 pkt 3 lit. a;
+- **3)** zapewnienia ich prawidłowej eksploatacji, polegającej w szczególności na:
+    - **a)** stosowaniu paliw, surowców lub materiałów zapewniających ograniczanie ich negatywnego oddziaływania na środowisko,
+    - **b)** podejmowaniu odpowiednich działań w przypadku powstania zakłóceń w procesach technologicznych i operacjach technicznych lub w pracy urządzeń ochronnych ograniczających emisję, w celu ograniczenia ich skutków dla środowiska,
+    - **c)** podejmowaniu odpowiednich działań niezwłocznie po stwierdzeniu niedotrzymania standardów emisyjnych, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 3 i 4, z uwzględnieniem warunków i odstępstw, o których mowa w pkt 1, w celu przywrócenia zgodności z tymi standardami w jak najkrótszym czasie;
+
+- **4)** postępowania w sposób, o którym mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. e, w przypadku zakłóceń w pracy urządzeń ochronnych ograniczających emisję;
+- **5)** wstrzymania podawania odpadów do spalania lub współspalania lub zatrzymania instalacji i urządzenia spalania lub współspalania odpadów, w przypadkach, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. f;
+- **6)** stosowania paliw, surowców lub materiałów, w tym substancji lub mieszanin, zgodnie z wymaganiami lub ograniczeniami, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. g;
+- **7)** stosowania rozwiązań technicznych, zgodnie z wymaganiami, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. h;
+- **8)** przekazywania organowi właściwemu do wydania pozwolenia, wojewódzkiemu inspektorowi ochrony środowiska lub ministrowi właściwemu do spraw klimatu:
+    - **a)** informacji o niedotrzymaniu standardów emisyjnych oraz o odstępstwach od standardów emisyjnych,
+    - **b)** informacji lub danych dotyczących warunków lub wielkości emisji, a także działań zmierzających do ograniczenia emisji, w tym realizacji planu obniżenia emisji – w przypadkach, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. i.
 
 **Art. 145a.**
 
@@ -1990,7 +2218,22 @@ source: "isap-pdf"
 
 **Art. 146g.** Prowadzący instalację spalania paliw, której częścią jest źródło spalania paliw, uwzględnione w wykazie, o którym mowa w art. 146h pkt 1, jest obowiązany do:
 
+- **1)** dotrzymywania maksymalnych emisji substancji, o których mowa w przepisach wydanych na podstawie art. 146h pkt 2, z uwzględnieniem warunków uznawania ich za dotrzymane, o których mowa w przepisach wydanych na podstawie art. 146h pkt 4;
+- **2)** realizacji działań w celu nieprzekraczania maksymalnych emisji substancji, o których mowa w przepisach wydanych na podstawie art. 146h pkt 5;
+- **3)** przekazywania organowi właściwemu do wydania pozwolenia i ministrowi właściwemu do spraw klimatu:
+    - **a)** w terminie do końca miesiąca po upływie każdego kwartału – aktualizowanej co kwartał informacji o wielkości emisji substancji, dla których dla danego źródła spalania paliw są określone maksymalne emisje substancji, o których mowa w przepisach wydanych na podstawie art. 146h pkt 2,
+    - **b)** w terminie dwóch miesięcy po upływie każdego roku – informacji o realizacji działań, o których mowa w pkt 2,
+    - **c)** informacji o każdej planowanej zmianie dotyczącej źródła spalania paliw, o którym mowa w przepisach wydanych na podstawie art. 146h, która może mieć wpływ na zmianę wielkości emisji substancji z tego źródła, w szczególności o planowanym wyłączeniu źródła spalania paliw z eksploatacji oraz o rozpoczęciu współspalania odpadów w źródle spalania paliw;
+
+- **4)** przestrzegania wymagań, o których mowa w art. 146i. Art. 146ga. Minister właściwy do spraw klimatu, po otrzymaniu informacji, o których mowa w art. 146g pkt 3 lit. a oraz c, przekazuje je niezwłocznie Krajowemu ośrodkowi bilansowania i zarządzania emisjami.
+
 **Art. 146h.** Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw energii, mając na uwadze art. 146f ust. 2, przepisy prawa Unii Europejskiej w sprawie emisji przemysłowych oraz cofnięte wnioski prowadzących instalacje, o których mowa w art. 146e, określi, w drodze rozporządzenia:
+
+- **1)** wykaz źródeł spalania paliw wraz z danymi dotyczącymi ich parametrów eksploatacyjnych;
+- **2)** maksymalne emisje substancji dla źródła spalania paliw na okres, o którym mowa w art. 146f ust. 3 – roczne dla lat 2016–2019 i na pierwsze półrocze 2020 r.;
+- **3)** łączne maksymalne emisje substancji dla wszystkich źródeł spalania paliw na okres, o którym mowa w art. 146f ust. 3 – roczne dla lat 2016–2019 i na pierwsze półrocze 2020 r.;
+- **4)** warunki uznawania za dotrzymane maksymalnych emisji substancji, o których mowa w pkt 2;
+- **5)** działania, które prowadzący instalację ma zrealizować w celu nieprzekraczania maksymalnych emisji substancji, o których mowa w pkt 2.
 
 **Art. 146i.** Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw energii, mając na uwadze art. 146f ust. 2 oraz przepisy prawa Unii Europejskiej w sprawie emisji przemysłowych, może określić, w drodze rozporządzenia, inne wymagania istotne dla realizacji Przejściowego Planu Krajowego.
 
@@ -2433,11 +2676,22 @@ source: "isap-pdf"
 
 **Art. 164.** Ilekroć w art. 160–163 jest mowa o:
 
+- **1)** substancjach stwarzających szczególne zagrożenie dla środowiska – rozumie się przez to także substancje i przedmioty, w których zawarte są substancje stwarzające szczególne zagrożenie dla środowiska;
+- **1a)** instalacjach – rozumie się przez to również budynki oraz obiekty małej architektury;
+- **2)** instalacjach lub urządzeniach, w których były wykorzystywane substancje stwarzające szczególne zagrożenie dla środowiska – rozumie się przez to instalacje i urządzenia, które nie zostały poddane wymaganemu ustawą procesowi oczyszczenia.
+
 **Art. 165.** Szczegółowe zasady postępowania z substancjami chemicznymi, zasady zamierzonego uwalniania GMO do środowiska oraz zasady ich wprowadzania do obrotu określają przepisy odrębne.
 
 #### Rozdział 3 Produkty
 
 **Art. 166.** Przy wytwarzaniu produktu, bez uszczerbku dla jego walorów użytkowych i bezpieczeństwa użytkownika, należy ograniczać:
+
+- **1)** zużycie substancji i energii;
+- **2)** wykorzystywanie substancji i rozwiązań technicznych mogących negatywnie oddziaływać na środowisko w okresie użytkowania produktu oraz po jego zużyciu;
+- **3)** wykorzystywanie substancji i rozwiązań technicznych utrudniających:
+    - **a)** naprawę produktu,
+    - **b)** demontaż produktu w celu oddzielenia zużytych elementów wymagających szczególnego postępowania na podstawie przepisów ustawy o odpadach,
+    - **c)** użycie części produktu w innym produkcie lub ich wykorzystanie do innych celów użytkowych po zużyciu produktu.
 
 **Art. 167.**
 
@@ -2575,9 +2829,19 @@ source: "isap-pdf"
 
 **Art. 172a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
+- **1)** kotle na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW – rozumie się przez to kocioł na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW, w tym kocioł wchodzący w skład zestawów zawiera-jących kocioł na paliwo stałe, ogrzewacze dodatkowe, regulatory temperatury i urządzenia słoneczne, o którym mowa w art. 1 ust. 2 lit. a i d rozporządzenia Komisji (UE) 2015/1189 z dnia 28 kwietnia 2015 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE w odniesieniu do wymogów dotyczących ekoprojektu dla kotłów na paliwo stałe (Tekst mający znaczenie dla EOG) (Dz. Urz. UE L 193 z 21.07.2015, str. 100, z późn. zm. ), z wyłączeniem kotła o znamionowej mocy cieplnej większej niż 100 kW z ręcznym zasilaniem balotami słomy;
+- **2)** wprowadzeniu do obrotu kotła na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW – rozumie się przez to każde rozporządzenie kotłem na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW na terytorium Rzeczypospolitej Polskiej przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej, w tym najem oraz sprzedaż za pomocą środków porozumiewania się na odległość, w ramach prowadzonej działalności gospodarczej lub realizowane w innej formie niż w ramach prowadzonej działalności gospodarczej.
+
 ### DZIAŁ III Drogi, linie kolejowe, linie tramwajowe, lotniska oraz porty
 
 **Art. 173.** Ochronę przed zanieczyszczeniami powstającymi w związku z eksploatacją dróg, linii kolejowych, linii tramwajowych, lotnisk oraz portów zapewnia się przez:
+
+- **1)** stosowanie rozwiązań technicznych ograniczających rozprzestrzenianie zanieczyszczeń, a w szczególności:
+    - **a)** zabezpieczeń akustycznych,
+    - **b)** zabezpieczeń przed przedostawaniem się zanieczyszczonych wód opadowych lub roztopowych będących skutkiem opadów atmosferycznych do gleby lub ziemi,
+    - **c)** środków umożliwiających usuwanie odpadów powstających w trakcie eksploatacji dróg, linii kolejowych, linii tramwajowych, lotnisk oraz portów;
+
+- **2)** właściwą organizację ruchu.
 
 **Art. 174.**
 
@@ -2673,7 +2937,16 @@ source: "isap-pdf"
 
 **Art. 180.** Eksploatacja instalacji powodująca:
 
+- **1)** wprowadzanie gazów lub pyłów do powietrza,
+- **2)** wprowadzanie ścieków do wód lub do ziemi,
+- **3)** wytwarzanie odpadów
+- **4)** (uchylony)
+- **5)** (uchylony) jest dozwolona po uzyskaniu pozwolenia, jeżeli jest ono wymagane.
+
 **Art. 180a.** Pozwolenie na wytwarzanie odpadów jest wymagane do wytwarzania odpadów:
+
+- **1)** o masie powyżej 1 Mg rocznie – w przypadku odpadów niebezpiecznych lub
+- **2)** o masie powyżej 5000 Mg rocznie – w przypadku odpadów innych niż niebezpieczne.
 
 **Art. 181.**
 
@@ -2980,7 +3253,8 @@ source: "isap-pdf"
 - **2)** przepisy dotyczące ochrony środowiska zmieniły się w stopniu uniemożliwiającym emisję lub korzystanie ze środowiska na warunkach określonych w pozwoleniu;
 - **3)** instalacja jest objęta postępowaniem, o którym mowa w art. 227–229;
 - **4)** nastąpiło przekroczenie krajowych pułapów emisji, o których mowa w art. 15 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji;
-- **5)** prowadzący instalację nie wystąpił z wnioskiem, o którym mowa w art. 215 ust. 4 pkt 2 lub art. 216 ust. 3.
+- **5)** prowadzący instalację nie wystąpił z wnioskiem, o którym mowa w art. 215 ust. 4 pkt 2 lub art. 216 ust. 3;
+- **6)** jest to konieczne w celu zapobiegania ryzyku, o którym mowa w art. 4f ust. 6 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757 oraz z 2026 r. poz. 605), lub służy jego kontroli oraz jest to uzasadnione wynikami dodatkowego przeglądu pozwoleń zintegrowanych, o których mowa w art. 4f ust. 15 tej ustawy.
 
 2. W przypadku, o którym mowa w ust. 1 pkt 1, przed wydaniem decyzji w przedmiocie cofnięcia lub ograniczenia pozwolenia organ wzywa prowadzącego instalację do usunięcia naruszeń w oznaczonym terminie.
 
@@ -3368,6 +3642,11 @@ source: "isap-pdf"
 
 **Art. 218.** Organ administracji zapewnia możliwość udziału społeczeństwa, na zasadach i w trybie określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, w postępowaniu, którego przedmiotem jest:
 
+- **1)** wydanie pozwolenia zintegrowanego dla nowej instalacji;
+- **2)** wydanie decyzji dotyczącej istotnej zmiany instalacji;
+- **3)** wydanie pozwolenia z odstępstwem, o którym mowa w art. 204 ust. 2, lub jego zmiana polegająca na udzieleniu takiego odstępstwa;
+- **4)** wydanie decyzji o zmianie pozwolenia zintegrowanego wynikającej z analizy, o której mowa w art. 216 ust. 1 pkt 2.
+
 **Art. 219.**
 
 1. W razie możliwości wystąpienia znaczącego transgranicznego oddziaływania na środowisko na terytorium innego państwa członkowskiego Unii Europejskiej, w przypadku nowej lub istotnie zmienianej instalacji wymagającej uzyskania pozwolenia zintegrowanego, stosuje się odpowiednio przepisy działu VI ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, z tym że przez dokumentację, o której mowa w art. 108 ust. 1 pkt 1 tej ustawy, rozumie się część wniosku o wydanie pozwolenia zintegrowanego, która umożliwi państwu, na którego terytorium może oddziaływać instalacja wymagająca uzyskania takiego pozwolenia, ocenę możliwego znaczącego transgranicznego oddziaływania na środowisko.
@@ -3501,6 +3780,10 @@ source: "isap-pdf"
 
 **Art. 228.** Do wniosku o wszczęcie postępowania kompensacyjnego należy dołączyć:
 
+- **1)** wniosek o wydanie pozwolenia na wprowadzanie gazów lub pyłów do powietrza;
+- **2)** zgodę uczestników postępowania lub osób fizycznych niebędących przedsiębiorcami, o których mowa w art. 225 ust. 2, na dokonanie odpowiedniej redukcji ilości substancji wprowadzanej do powietrza, dla której standard jakości powietrza został przekroczony;
+- **3)** rozliczenie łącznej redukcji ilości substancji dotyczące wszystkich instalacji objętych postępowaniem kompensacyjnym.
+
 **Art. 229.**
 
 1. Pozwolenie na wprowadzanie do powietrza gazów lub pyłów z instalacji nowo zbudowanej lub zmienionej w sposób istotny jest wykonalne nie wcześniej niż od dnia, w którym:
@@ -3568,6 +3851,9 @@ source: "isap-pdf"
 
 **Art. 236c.** Główny Inspektor Ochrony Środowiska przekazuje Komisji Europejskiej sprawozdanie zawierające:
 
+- **1)** dane objęte Krajowym Rejestrem, o których mowa w art. 236b ust. 1 pkt 1;
+- **2)** informacje i dane, o których mowa w art. 11 ust. 2 pkt 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, w zakresie realizacji obowiązków sprawozdawczych wynikających z art. 72 dyrektywy Parlamentu Europejskiego i Rady 2010/75/UE z dnia 24 listopada 2010 r. w sprawie emisji przemysłowych (zintegrowane zapobieganie zanieczyszczeniom i ich kontrola) (Dz. Urz. UE L 334 z 17.12.2010, str. 17, z późn. zm. ).
+
 **Art. 236d.**
 
 1. Wojewódzki inspektor ochrony środowiska nakłada na prowadzącego instalację, w drodze decyzji, administracyjną karę pieniężną w przypadku niewypełnienia obowiązku, o którym mowa:
@@ -3604,7 +3890,25 @@ source: "isap-pdf"
 
 **Art. 238.** Przegląd ekologiczny instalacji, która jest kwalifikowana jako przedsięwzięcie mogące zawsze znacząco oddziaływać na środowisko w rozumieniu ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, powinien zawierać:
 
+- **1)** opis obejmujący:
+    - **a)** rodzaj, wielkość i usytuowanie instalacji wraz z informacją o jej stanie technicznym,
+    - **b)** powierzchnię zajmowanego terenu lub obiektu budowlanego,
+    - **c)** rodzaj technologii,
+    - **d)** istniejące w sąsiedztwie lub bezpośrednim zasięgu oddziaływania instalacji obiekty mieszkalne i użyteczności publicznej,
+    - **e)** istniejące w sąsiedztwie lub bezpośrednim zasięgu oddziaływania instalacji zabytki chronione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami,
+    - **f)** istniejące w sąsiedztwie lub bezpośrednim zasięgu oddziaływania instalacji obiekty i obszary poddane ochronie na podstawie przepisów ustawy o ochronie przyrody, ustawy o lasach, ustawy – Prawo wodne oraz przepisów ustawy o uzdrowiskach i lecznictwie uzdrowiskowym;
+
+- **2)** określenie oddziaływania na środowisko instalacji, w tym również w przypadku wystąpienia poważnej awarii przemysłowej;
+- **3)** opis działań mających na celu zapobieganie i ograniczanie oddziaływania na środowisko;
+- **4)** porównanie wykorzystywanej technologii z technologią spełniającą wymagania, o których mowa w art. 143;
+- **5)** wskazanie, czy dla instalacji konieczne jest ustanowienie obszaru ograniczonego użytkowania, określenie granic takiego obszaru, ograniczeń w zakresie przeznaczenia terenu, wymagań technicznych dotyczących obiektów budowlanych i sposobów korzystania z nich;
+- **6)** zwięzłe streszczenie w języku niespecjalistycznym informacji zawartych w przeglądzie;
+- **7)** nazwisko osoby lub osób sporządzających przegląd.
+
 **Art. 239.** W decyzji, o której mowa w art. 237, organ właściwy do jej wydania może:
+
+- **1)** ograniczyć zakres przedmiotowy przeglądu ekologicznego;
+- **2)** wskazać metody badań i studiów.
 
 **Art. 240.** Jeżeli możliwość negatywnego oddziaływania na środowisko wynika z funkcjonowania instalacji, która nie jest kwalifikowana jako przedsięwzięcie mogące zawsze znacząco oddziaływać na środowisko w rozumieniu ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, organ właściwy do nałożenia obowiązku sporządzenia przeglądu ekologicznego określa, które z wymagań wymienionych w art. 238 należy spełnić, sporządzając przegląd.
 
@@ -3633,6 +3937,23 @@ source: "isap-pdf"
 **Art. 243.** Ochrona środowiska przed poważną awarią, zwaną dalej „awarią”, oznacza zapobieganie zdarzeniom mogącym powodować awarię oraz ograniczanie jej skutków dla ludzi i środowiska.
 
 **Art. 243a.** Ilekroć w przepisach niniejszego tytułu jest mowa o:
+
+- **1)** efekcie domina – rozumie się przez to potencjalne oddziaływanie instalacji lub zakładów, których zlokalizowanie może zwiększyć prawdopodobieństwo wystąpienia awarii lub pogłębić jej skutki, w szczególności ze względu na skoncentrowanie posiadanych rodzajów i ilości składowanych substancji niebezpiecznych, a także ze względu na położenie geograficzne;
+- **2)** składowanej substancji niebezpiecznej – rozumie się przez to substancję niebezpieczną pozostającą pod nadzorem zakładu lub przechowywaną na jego terenie;
+- **3)** uruchomieniu zakładu lub jego części – rozumie się przez to moment rozpoczęcia eksploatacji położonych na terenie zakładu instalacji lub urządzeń, w których znajduje się lub może znajdować się substancja niebezpieczna w ilości decydującej o zaliczeniu zakładu do zakładu o zwiększonym ryzyku lub zakładu o dużym ryzyku wystąpienia poważnej awarii przemysłowej;
+- **4)** zakładzie nowym – rozumie się przez to: albo po tej dacie,
+    - **a)** zakład o zwiększonym ryzyku lub zakład o dużym ryzyku wystąpienia poważnej awarii przemysłowej, uruchomiony dnia 1 czerwca 2015 r.
+    - **b)** zakład niebędący zakładem o zwiększonym ryzyku lub zakładem o dużym ryzyku wystąpienia poważnej awarii przemysłowej lub zakład o zwiększonym ryzyku wystąpienia poważnej awarii przemysłowej, który z dniem 1 czerwca 2015 r. albo po tej dacie staje się zakładem o dużym ryzyku wystąpienia poważnej awarii przemysłowej ze względu na zmiany w instalacjach lub działalności powodujące zmianę w ilości lub rodzaju substancji niebezpiecznych,
+    - **c)** zakład niebędący zakładem o zwiększonym ryzyku lub zakładem o dużym ryzyku wystąpienia poważnej awarii przemysłowej lub zakład o dużym ryzyku wystąpienia poważnej awarii przemysłowej, który z dniem 1 czerwca 2015 r. albo po tej dacie staje się zakładem o zwiększonym ryzyku wystąpienia poważnej awarii przemysłowej ze względu na zmiany w instalacjach lub działalności powodujące zmianę w ilości lub rodzaju substancji niebezpiecznych;
+
+- **5)** zakładzie innym – rozumie się przez to:
+    - **a)** zakład niebędący zakładem o zwiększonym ryzyku lub zakładem o dużym ryzyku wystąpienia poważnej awarii przemysłowej, który z powodów innych niż określone dla zakładu nowego z dniem 1 czerwca 2015 r. albo po tej dacie staje się zakładem o zwiększonym ryzyku lub zakładem o dużym ryzyku wystąpienia poważnej awarii przemysłowej,
+    - **b)** zakład o zwiększonym ryzyku wystąpienia poważnej awarii przemysłowej, który z powodów innych niż określone dla zakładu nowego z dniem 1 czerwca 2015 r. albo po tej dacie staje się zakładem o dużym ryzyku wystąpienia poważnej awarii przemysłowej,
+    - **c)** zakład o dużym ryzyku wystąpienia poważnej awarii przemysłowej, który z powodów innych niż określone dla zakładu nowego z dniem 1 czerwca 2015 r. albo po tej dacie staje się zakładem o zwiększonym ryzyku wystąpienia poważnej awarii przemysłowej;
+
+- **6)** zakładzie sąsiednim – rozumie się przez to każdy zakład zlokalizowany w takiej odległości od innego zakładu, która zwiększa prawdopodobieństwo i skutki awarii;
+- **7)** zagrożeniu – rozumie się przez to samoistną właściwość substancji niebezpiecznej lub warunki fizyczne, które mogą spowodować negatywne skutki dla zdrowia ludzi lub środowiska;
+- **8)** znajdowaniu się w zakładzie substancji niebezpiecznych – rozumie się przez to faktyczną lub przewidywaną obecność substancji niebezpiecznych w zakładzie lub substancji niebezpiecznych, które mogą powstać podczas utraty kontroli nad procesami, w tym magazynowaniem, w odniesieniu do każdej instalacji w zakładzie, w ilościach decydujących o zaliczeniu zakładu do zakładu o zwiększonym ryzyku lub zakładu o dużym ryzyku wystąpienia poważnej awarii przemysłowej.
 
 **Art. 244.** Prowadzący zakład, którego działalność może być przyczyną wystąpienia awarii, podmiot transportujący substancje niebezpieczne oraz organy administracji są obowiązani do ochrony środowiska przed awariami.
 
@@ -3937,6 +4258,15 @@ source: "isap-pdf"
 
 **Art. 264.** Prowadzący zakład o zwiększonym ryzyku lub o dużym ryzyku w razie wystąpienia awarii przemysłowej jest obowiązany do:
 
+- **1)** natychmiastowego zawiadomienia o tym fakcie właściwego organu Państwowej Straży Pożarnej oraz wojewódzkiego inspektora ochrony środowiska;
+- **2)** niezwłocznego przekazania organom, o których mowa w pkt 1, informacji:
+    - **a)** o okolicznościach awarii przemysłowej,
+    - **b)** o niebezpiecznych substancjach związanych z awarią przemysłową,
+    - **c)** umożliwiających dokonanie oceny skutków awarii przemysłowej dla ludzi, mienia i środowiska,
+    - **d)** o podjętych działaniach ratunkowych, a także działaniach mających na celu ograniczenie skutków awarii przemysłowej i zapobieżenie jej powtórzeniu się;
+
+- **3)** stałej aktualizacji informacji, o których mowa w pkt 2, odpowiednio do zmiany sytuacji.
+
 #### Rozdział 3 Obowiązki organów administracji związane z awarią przemysłową
 
 **Art. 264a.**
@@ -4034,6 +4364,12 @@ source: "isap-pdf"
 
 **Art. 268.** Właściwe organy Państwowej Straży Pożarnej, w razie wystąpienia awarii przemysłowej w zakładzie o zwiększonym ryzyku lub zakładzie o dużym ryzyku, są obowiązane do:
 
+- **1)** podjęcia działań operacyjno-ratowniczych we współpracy z prowadzącym zakład;
+- **2)** zebrania informacji niezbędnych do dokonania analizy awarii przemysłowych i sformułowania zaleceń dla prowadzącego zakład;
+- **3)** sprawdzenia, czy prowadzący zakład podjął wszystkie konieczne środki zaradcze;
+- **4)** opracowania zaleceń dotyczących zastosowania w przyszłości określonych środków zapobiegawczych;
+- **5)** sprawdzenia, czy prowadzący zakład wdrożył zalecenia właściwego organu Państwowej Straży Pożarnej.
+
 **Art. 268a.** Organy administracji publicznej oraz podmioty wymienione w zewnętrznym planie operacyjno-ratowniczym, w razie wystąpienia awarii przemysłowej, są obowiązane do poinformowania o jej wystąpieniu osób narażonych na jej skutki.
 
 **Art. 269.**
@@ -4126,6 +4462,11 @@ source: "isap-pdf"
 ### DZIAŁ I Przepisy ogólne
 
 **Art. 272.** Środki finansowo-prawne ochrony środowiska stanowią w szczególności:
+
+- **1)** opłata za korzystanie ze środowiska;
+- **2)** administracyjna kara pieniężna;
+- **3)** zróżnicowane stawki podatków i innych danin publicznych służące celom ochrony środowiska;
+- **4)** opłata emisyjna, o której mowa w art. 321a ust. 1.
 
 **Art. 273.**
 
@@ -4371,6 +4712,9 @@ source: "isap-pdf"
 #### Rozdział 3 Opłaty podwyższone
 
 **Art. 292.** W przypadku braku wymaganego pozwolenia podmiot korzystający ze środowiska ponosi opłaty podwyższone o 500 % za:
+
+- **1)** wprowadzanie do powietrza gazów lub pyłów.
+- **2)** (uchylony)
 
 **Art. 293.**
 
@@ -4791,6 +5135,9 @@ source: "isap-pdf"
 
 **Art. 321f.** Stawka opłaty emisyjnej dla:
 
+- **1)** benzyn silnikowych – wynosi 80 zł za 1000 litrów;
+- **2)** olejów napędowych – wynosi 80 zł za 1000 litrów.
+
 **Art. 321g.**
 
 1. Organem właściwym w sprawach opłaty emisyjnej jest naczelnik urzędu skarbowego, naczelnik urzędu celno-skarbowego i dyrektor izby administracji skarbowej.
@@ -4941,6 +5288,11 @@ source: "isap-pdf"
 
 **Art. 339a.** Kto, będąc do tego obowiązany na podstawie art. 146g:
 
+- **1)** nie dotrzymuje maksymalnych emisji substancji, o których mowa w art. 146g pkt 1,
+- **2)** nie realizuje działań zapobiegających, o których mowa w art. 146g pkt 2,
+- **3)** nie przekazuje informacji, zgodnie z art. 146g pkt 3,
+- **4)** nie przestrzega wymagań, o których mowa w art. 146g pkt 4, podlega karze grzywny.
+
 **Art. 340.**
 
 1. Kto, będąc obowiązany na podstawie:
@@ -5031,7 +5383,13 @@ source: "isap-pdf"
 
 **Art. 354.** Kto, prowadząc:
 
+- **1)** zakład o zwiększonym ryzyku, nie wypełnia obowiązków określonych w art. 250 ust. 1, 4, 5, 8 i 9, art. 251 ust. 1, 5–8, art. 252 ust. 1, art. 258, art. 261a ust. 1 lub art. 264,
+- **2)** zakład o dużym ryzyku, nie wypełnia obowiązków określonych w art. 250 ust. 1, 4, 5, 8 i 9, art. 251 ust. 1, 5–8, art. 252 ust. 1, art. 253 ust. 1, art. 254 ust. 1, art. 256, art. 257, art. 261 ust. 1 pkt 1 i 2 oraz ust. 2–5, art. 261a ust. 1 i 2, art. 262, art. 263 lub art. 264 podlega karze aresztu albo ograniczenia wolności albo grzywny.
+
 **Art. 355.** Kto, prowadząc:
+
+- **1)** zakład o zwiększonym ryzyku, wbrew art. 255 ust. 1 uruchamia zakład lub jego część albo dokonuje zmiany, o której mowa w art. 258 ust. 1, bez pozytywnego zaopiniowania przez komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej programu zapobiegania awariom albo zmian tego programu,
+- **2)** zakład o dużym ryzyku, wbrew art. 255 ust. 2 uruchamia zakład lub jego część albo dokonuje zmiany, o której mowa w art. 257 ust. 1, bez pozytywnego zaopiniowania przez komendanta wojewódzkiego Państwowej Straży Pożarnej programu zapobiegania awariom i wewnętrznego planu operacyjno-ratowniczego albo ich zmian lub zatwierdzenia przez ten organ raportu o bezpieczeństwie albo zmian tego raportu podlega karze aresztu albo ograniczenia wolności albo grzywny.
 
 **Art. 356.** (uchylony)
 
@@ -5046,6 +5404,11 @@ source: "isap-pdf"
 2. Kto, będąc do tego obowiązany na podstawie art. 286, nie dopełnia obowiązku terminowego przedkładania wykazu podlega karze grzywny.
 
 **Art. 360.** Kto nie wykonuje decyzji:
+
+- **1)** o wstrzymaniu działalności, wydanej na podstawie art. 364,
+- **2)** o wstrzymaniu oddania do użytkowania lub zakazu użytkowania obiektu budowlanego, zespołu obiektów, instalacji lub urządzenia, wydanej na podstawie art. 365, 367 lub 368,
+- **3)** o zakazie produkcji, sprowadzania z zagranicy lub wprowadzania do obrotu produktów niespełniających wymagań ochrony środowiska, wydanej na podstawie art. 370,
+- **4)** nakazującej usunięcie w określonym terminie stwierdzonych uchybień lub wstrzymującej uruchomienie albo użytkowanie zakładu, instalacji, w tym magazynu lub jakiejkolwiek ich części, wydanej na podstawie art. 373 ust. 1, podlega karze aresztu albo ograniczenia wolności, albo grzywny.
 
 **Art. 361.** Orzekanie w sprawach o czyny określone w art. 330–360 następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
@@ -5169,6 +5532,15 @@ source: "isap-pdf"
 
 **Art. 376.** Organami ochrony środowiska, z zastrzeżeniem art. 377, są:
 
+- **1)** wójt, burmistrz lub prezydent miasta;
+- **2)** starosta;
+- **2a)** sejmik województwa;
+- **2b)** marszałek województwa;
+- **3)** wojewoda;
+- **4)** minister właściwy do spraw klimatu;
+- **5)** Generalny Dyrektor Ochrony Środowiska;
+- **6)** regionalny dyrektor ochrony środowiska.
+
 **Art. 377.** Organy Inspekcji Ochrony Środowiska działające na podstawie przepisów ustawy o Inspekcji Ochrony Środowiska wykonują zadania w zakresie ochrony środowiska, jeżeli ustawa tak stanowi.
 
 **Art. 377a.** Minister właściwy do spraw klimatu jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w art. 95 ust. 1, oraz w art. 378 ust. 2a i 2aa.
@@ -5275,6 +5647,11 @@ source: "isap-pdf"
 
 **Art. 386.** Instytucjami ochrony środowiska są:
 
+- **1)** Państwowa Rada Ochrony Środowiska;
+- **2)** komisje do spraw ocen oddziaływania na środowisko;
+- **3)** Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkie fundusze ochrony środowiska i gospodarki wodnej.
+- **4)** (uchylony)
+
 #### Rozdział 2 Państwowa Rada Ochrony Środowiska
 
 **Art. 387.** Tworzy się Państwową Radę Ochrony Środowiska, zwaną dalej „Radą”, jako organ doradczy i opiniodawczy ministra właściwego do spraw klimatu.
@@ -5324,6 +5701,7 @@ source: "isap-pdf"
 - **2a)** przedsięwzięcia związane z wdrożeniem programu działań, o którym mowa w art. 104 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
 - **2b)** wspomaganie osłony hydrologicznej i meteorologicznej społeczeństwa oraz gospodarki, a także rozpoznawanie, kształtowanie i ochronę zasobów wodnych kraju;
 - **2c)** wspomaganie realizacji zadań w zakresie rozpoznawania, bilansowania i ochrony wód podziemnych w celu ich racjonalnego wykorzystania przez społeczeństwo i gospodarkę;
+- **2d)** przedsięwzięcia związane z zaopatrzeniem w wodę przeznaczoną do spożycia przez ludzi w rozumieniu art. 2 pkt 18 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków;
 - **3)** (uchylony)
 - **4)** (uchylony)
 - **5)** wspomaganie realizacji zadań modernizacyjnych i inwestycyjnych służących ochronie środowiska i gospodarce wodnej, w tym dotyczących instalacji lub urządzeń ochrony przeciwpowodziowej i obiektów małej retencji wodnej, zaopatrzenia ludności w wodę, odprowadzania i oczyszczania ścieków oraz instalacji i urządzeń służących ponownemu wykorzystaniu wód;
@@ -5388,7 +5766,7 @@ source: "isap-pdf"
 
 1. Celem działania Narodowego Funduszu jest finansowanie ochrony środowiska i gospodarki wodnej w zakresie określonym w art. 400a ust. 1 pkt 1a‒2c, 5–9b, 11–22 i 24–42 oraz art. 410a ust. 4–6.
 
-2. Celem działania wojewódzkich funduszy jest finansowanie ochrony środowiska i gospodarki wodnej w zakresie określonym w art. 400a ust. 1 pkt 2, 2a, 5–9a, 11–22 i 24–42.
+2. Celem działania wojewódzkich funduszy jest finansowanie ochrony środowiska i gospodarki wodnej w zakresie określonym w art. 400a ust. 1 pkt 2, 2a, 2d, 5–9a, 11–22 i 24–42.
 
 2a. Celem działania Narodowego Funduszu oraz wojewódzkich funduszy jest również tworzenie warunków do wdrażania finansowania ochrony środowiska i gospodarki wodnej, w szczególności poprzez zapewnienie wsparcia działaniom służącym temu wdrażaniu oraz jego promocję, a także poprzez współpracę z innymi podmiotami, w tym z jednostkami samorządu terytorialnego, przedsiębiorcami oraz podmiotami mającymi siedzibę poza granicami Rzeczypospolitej Polskiej.
 
@@ -5659,7 +6037,7 @@ source: "isap-pdf"
 
 - **1)** opracowywanie projektów wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy oraz projektów strategii Narodowego Funduszu, po zasięgnięciu opinii ministra właściwego do spraw rozwoju regionalnego oraz ministra właściwego do spraw energii co do zawartych w nich ustaleń;
 - **1a)** sporządzanie list programów priorytetowych Narodowego Funduszu i przedstawianie ich w celu uzgodnienia ministrowi właściwemu do spraw klimatu; listy programów priorytetowych w części dotyczącej gospodarki wodnej uzgadnia się z Prezesem Państwowego Gospodarstwa Wodnego Wody Polskie;
-- **1b)** przyjmowanie programów priorytetowych, po uprzednim ich zaopiniowaniu przez ministra właściwego do spraw klimatu;
+- **1b)** przyjmowanie programów priorytetowych, po uprzednim ich zaopiniowaniu przez ministra właściwego do spraw klimatu, a w przypadku programów priorytetowych dotyczących przedsięwzięć i zadań w zakresie wytwarzania zrównoważonych paliw lotniczych (SAF) w rozumieniu art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2405 z dnia 18 października 2023 r. w sprawie zapewnienia równych warunków działania dla zrównoważonego transportu lotniczego (ReFuelEU Aviation) (Dz. Urz. UE L 2023/2405 z 31.10.2023, z późn. zm. ), zwanego dalej „rozporządzeniem 2023/2405”, oraz badań naukowych i innowacji mających na celu rozwój takich paliw – także przez ministra właściwego do spraw energii oraz ministra właściwego do spraw transportu;
 - **2)** opracowywanie projektów planów finansowych w układzie zadaniowym;
 - **3)** sporządzanie i przekazywanie Głównemu Inspektorowi Ochrony Środowiska kwartalnych informacji o podmiotach uiszczających opłaty, o których mowa w art. 14 ust. 1 oraz art. 17 ust. 1 i 2 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2020 r. poz. 2056), z podaniem nazwy, siedziby i adresu albo imienia, nazwiska i adresu tych podmiotów, wysokości kwoty wpłaconej z tytułu opłaty oraz daty dokonania zapłaty w rozumieniu art. 60 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, w terminie do końca miesiąca po zakończeniu kwartału, którego dotyczą te informacje;
 - **4)** sporządzanie i przekazywanie ministrowi właściwemu do spraw klimatu, w terminie do dnia 30 czerwca następnego roku za poprzedni rok kalendarzowy, zbiorczej informacji o: o recyklingu pojazdów wycofanych z eksploatacji,
@@ -5667,7 +6045,8 @@ source: "isap-pdf"
     - **b)** gminach, które uzyskały dofinansowanie w zakresie zbierania porzuconych pojazdów wycofanych z eksploatacji,
     - **c)** powiatach, które uzyskały dofinansowanie w zakresie zbierania pojazdów wycofanych z eksploatacji;
 
-- **5)** sporządzanie i przekazywanie ministrowi właściwemu do spraw klimatu zbiorczej informacji o zgromadzonych wpływach z tytułu środków, o których mowa w art. 15 ust. 3 pkt 2, art. 62 ust. 6 oraz wpływach z tytułu opłat, o których mowa w art. 72 ust. 2 i art. 77 ust. 2 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2024 r. poz. 573), w terminie do dnia 30 czerwca następnego roku za poprzedni rok kalendarzowy.
+- **5)** sporządzanie i przekazywanie ministrowi właściwemu do spraw klimatu zbiorczej informacji o zgromadzonych wpływach z tytułu środków, o których mowa w art. 15 ust. 3 pkt 2, art. 62 ust. 6 oraz wpływach z tytułu opłat, o których mowa w art. 72 ust. 2 i art. 77 ust. 2 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2024 r. poz. 573), w terminie do dnia 30 czerwca następnego roku za poprzedni rok kalendarzowy;
+- **6)** sporządzanie sprawozdania i informacji, o których mowa w art. 12 ust. 10 akapit trzeci rozporządzenia 2023/2405, oraz przekazywanie ich do wiadomości publicznej w terminach, o których mowa w tym przepisie.
 
 3. Do zadań zarządów wojewódzkich funduszy należy także:
 
@@ -5855,7 +6234,10 @@ source: "isap-pdf"
 - **20)** wpływy z tytułu:
     - **a)** zwrotu środków finansowych, o których mowa w art. 16 ust. 2 ustawy z dnia 16 czerwca 2023 r. o wielkoobszarowych terenach zdegradowanych,
     - **b)** zwrotu kosztów, o których mowa w art. 19 ust. 1 ustawy z dnia 16 czerwca 2023 r. o wielkoobszarowych terenach zdegradowanych,
-    - **c)** opłat, o których mowa w art. 20 ust. 1 i art. 25 ust. 5 ustawy z dnia 16 czerwca 2023 r. o wielkoobszarowych terenach zdegradowanych.
+    - **c)** opłat, o których mowa w art. 20 ust. 1 i art. 25 ust. 5 ustawy z dnia 16 czerwca 2023 r. o wielkoobszarowych terenach zdegradowanych;
+
+- **21)** wpływy z kar pieniężnych wymierzanych na podstawie art. 33 ust. 1 pkt 10– 14 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych oraz art. 209uo ust. 1, 4–7 i 9 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176 i 607);
+- **22)** wpływy z kar pieniężnych wymierzanych na podstawie art. 33 ust. 1 pkt 15 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych.
 
 7a. Przychody, o których mowa w ust. 7 pkt 14, przeznacza się wyłącznie na cele związane z ochroną środowiska.
 
@@ -5943,7 +6325,7 @@ source: "isap-pdf"
 
 9b. Środki Narodowego Funduszu w wysokości nie mniejszej niż 80 % kwoty przychodów, o których mowa w art. 401 ust. 7 pkt 15, po pomniejszeniu o koszty obsługi tych przychodów, przeznacza się na przedsięwzięcia mające na celu zmniejszenie lub uniknięcie szkodliwej emisji substancji gazowych, stałych lub ciekłych powodujących zanieczyszczenie powietrza.
 
-9c. [Środki Narodowego Funduszu w wysokości nie mniejszej niż 15 % kwoty przychodów, o których mowa w art. 401 ust. 7 pkt 15, i kwota przychodów, o których mowa w art. 401 ust. 7 pkt 16–19, po pomniejszeniu o koszty obsługi tych przychodów, jednak nie więcej niż o 2 % tych przychodów, przeznacza się na:] <Środki Narodowego Funduszu w wysokości nie mniejszej niż 15 % kwoty przychodów, o których mowa w art. 401 ust. 7 pkt 15, i kwota przychodów, o których mowa w art. 401 ust. 7 pkt 16 i 17, po pomniejszeniu o koszty obsługi tych przychodów, jednak nie więcej niż o 2 % tych przychodów, przeznacza się na:>
+9c. [Środki Narodowego Funduszu w wysokości nie mniejszej niż 15 % kwoty przychodów, o których mowa w art. 401 ust. 7 pkt 15, i kwota przychodów, o których mowa w art. 401 ust. 7 pkt 16–19 i 22, po pomniejszeniu o koszty obsługi tych przychodów, jednak nie więcej niż o 2 % tych przychodów, przeznacza się na:] <Środki Narodowego Funduszu w wysokości nie mniejszej niż 15 % kwoty przychodów, o których mowa w art. 401 ust. 7 pkt 15, i kwota przychodów, o których mowa w art. 401 ust. 7 pkt 16 i 17, po pomniejszeniu o koszty obsługi tych przychodów, jednak nie więcej niż o 2 % tych przychodów, przeznacza się na:>
 
 - **1)** dofinansowanie inwestycji w zakresie wytwarzania biokomponentów, biopaliw ciekłych lub innych paliw odnawialnych;
 - **2)** dofinansowanie budowy lub rozbudowy infrastruktury dla dystrybucji lub sprzedaży sprężonego gazu ziemnego (CNG) lub skroplonego gazu ziemnego (LNG), w tym pochodzącego z biometanu, lub wodoru lub budowy lub rozbudowy infrastruktury do ładowania pojazdów energią elektryczną, wykorzystywanych w transporcie;
@@ -5966,9 +6348,11 @@ source: "isap-pdf"
 - **12)** (uchylony)
 - **13)** Fundusz rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, w kwocie stanowiącej 55 % wpływów z tytułu opłaty zastępczej, o której mowa w art. 35d ust. 2 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych.
 
-10. Zobowiązania Narodowego Funduszu związane z przeznaczaniem środków na cele, o których mowa w ust. 1–5 i 8–9c, są zobowiązaniami wieloletnimi.
+9d. Środki Narodowego Funduszu w wysokości niemniejszej niż kwota przychodów, o których mowa w art. 401 ust. 7 pkt 21, po pomniejszeniu o koszty obsługi tych przychodów, jednak niewięcej niż o 1,5 % tych przychodów, przeznacza się na dofinansowanie przedsięwzięć i zadań w zakresie wytwarzania zrównoważonych paliw lotniczych (SAF) w rozumieniu art. 3 pkt 7 rozporządzenia 2023/2405 oraz badań naukowych i innowacji mających na celu rozwój takich paliw.
 
-11. Wysokości zobowiązań określonych w ust. 1–5 i 8–9c mogą być zmniejszane za zgodą ministra właściwego do spraw klimatu. Przy udzielaniu zgody minister właściwy do spraw klimatu uwzględnia w szczególności potrzeby realizacji zasady zrównoważonego rozwoju, strategii, programów i dokumentów programowych, o których mowa w art. 14 ust. 1, oraz zobowiązań określonych w przepisach prawa Unii Europejskiej i umowach międzynarodowych, których stroną jest Rzeczpospolita Polska.
+10. Zobowiązania Narodowego Funduszu związane z przeznaczaniem środków na cele, o których mowa w ust. 1–5 i 8–9d, są zobowiązaniami wieloletnimi.
+
+11. Wysokości zobowiązań określonych w ust. 1–5 i 8–9d mogą być zmniejszane za zgodą ministra właściwego do spraw klimatu. Przy udzielaniu zgody minister właściwy do spraw klimatu uwzględnia w szczególności potrzeby realizacji zasady zrównoważonego rozwoju, strategii, programów i dokumentów programowych, o których mowa w art. 14 ust. 1, oraz zobowiązań określonych w przepisach prawa Unii Europejskiej i umowach międzynarodowych, których stroną jest Rzeczpospolita Polska.
 
 11a. Narodowy Fundusz corocznie dokonuje wpłat na rzecz Rządowego Funduszu Rozwoju Dróg w wysokości i na zasadach określonych w przepisach ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2025 r. poz. 94).
 
@@ -6425,9 +6809,11 @@ source: "isap-pdf"
 - **1)** środków przekazanych przez Narodowy Fundusz Bankowi Gospodarstwa Krajowego zgodnie z art. 411 ust. 10t;
 - **2)** opłat prowizyjnych z tytułu poręczeń i gwarancji udzielanych w ramach Ekologicznego Funduszu Poręczeń i Gwarancji;
 - **3)** wpływów z tytułu odzyskanych kwot zapłaconych przez Bank Gospodarstwa Krajowego w wykonaniu umowy poręczenia lub gwarancji udzielonej w ramach Ekologicznego Funduszu Poręczeń i Gwarancji;
-- **4)** odsetek z tytułu oprocentowania środków Ekologicznego Funduszu Poręczeń i Gwarancji;
+- **4)** odsetek od wolnych środków Ekologicznego Funduszu Poręczeń i Gwarancji przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **5)** środków, o których mowa w ust. 5;
 - **6)** wpływów z innych tytułów.
+
+4a. Wolne środki Ekologicznego Funduszu Gwarancji i Poręczeń w walutach obcych mogą być lokowane w bankach.
 
 5. Minister właściwy do spraw klimatu przekazuje do Ekologicznego Funduszu Poręczeń i Gwarancji środki na pokrycie kosztów i wydatków, o których mowa w ust. 2, które nie znajdują pokrycia ze środków, o których mowa w ust. 4 pkt 1–4 i 6.
 

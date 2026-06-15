@@ -8,7 +8,7 @@ pos: 1125
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
@@ -78,6 +78,12 @@ Art. 61–65. (pominięte)
 
 **Art. 4.** Morskimi wodami wewnętrznymi są:
 
+- **1)** część Jeziora Nowowarpieńskiego i część Zalewu Szczecińskiego wraz ze Świną i Dziwną oraz Zalewem Kamieńskim, znajdująca się na wschód od granicy państwowej między Rzecząpospolitą Polską a Republiką Federalną Niemiec, oraz rzeka Odra pomiędzy Zalewem Szczecińskim a wodami portu Szczecin;
+- **2)** część Zatoki Gdańskiej zamknięta linią podstawową morza terytorialnego;
+- **3)** część Zalewu Wiślanego, znajdująca się na południowy zachód od granicy państwowej między Rzecząpospolitą Polską a Federacją Rosyjską na tym Zalewie;
+- **4)** wody portów określone od strony morza linią łączącą najdalej wysunięte w morze stałe urządzenia portowe, stanowiące integralną część systemu portowego;
+- **5)** wody znajdujące się pomiędzy linią brzegu morskiego ustaloną zgodnie z przepisami ustawy z dnia 20 lipca 2017 r. – Prawo wodne a linią podstawową morza terytorialnego.
+
 #### Rozdział 2 Morze terytorialne
 
 **Art. 5.**
@@ -113,6 +119,19 @@ Art. 61–65. (pominięte)
 **Art. 8.** Przepływ uważa się za nieszkodliwy dopóty, dopóki nie zagraża pokojowi, porządkowi publicznemu lub bezpieczeństwu Rzeczypospolitej Polskiej.
 
 **Art. 9.** Przepływ uważa się za zagrażający pokojowi, porządkowi publicznemu lub bezpieczeństwu Rzeczypospolitej Polskiej, jeżeli obcy statek lub okręt wojenny podejmuje na morzu terytorialnym działania polegające na:
+
+- **1)** groźbie użycia siły lub użyciu siły przeciwko suwerenności, integralności terytorialnej lub niezawisłości politycznej Rzeczypospolitej Polskiej albo pogwałceniu w jakikolwiek inny sposób zasad prawa międzynarodowego zawartych w Karcie Narodów Zjednoczonych;
+- **2)** ćwiczeniach lub użyciu broni wszelkiego rodzaju;
+- **3)** zbieraniu informacji na szkodę obronności lub bezpieczeństwa Rzeczypospolitej Polskiej;
+- **4)** propagandzie mającej na celu osłabienie obronności lub bezpieczeństwa Rzeczypospolitej Polskiej;
+- **5)** startowaniu, lądowaniu lub przyjmowaniu na pokład jakiegokolwiek statku powietrznego;
+- **6)** startowaniu, lądowaniu lub przyjmowaniu na pokład jakiegokolwiek urządzenia wojskowego;
+- **7)** ładowaniu lub wyładowywaniu towarów, walut albo przyjmowaniu na statek lub wysadzaniu ze statku ludzi z naruszeniem przepisów celnych, skarbowych, imigracyjnych lub sanitarnych Rzeczypospolitej Polskiej;
+- **8)** umyślnym zanieczyszczeniu morza;
+- **9)** uprawianiu rybołówstwa;
+- **10)** prowadzeniu badań lub działalności hydrograficznej;
+- **11)** zakłócaniu systemu łączności lub innych urządzeń i instalacji Rzeczypospolitej Polskiej;
+- **12)** wszelkich innych działaniach niezwiązanych bezpośrednio z przepływem.
 
 **Art. 10.**
 
@@ -157,6 +176,11 @@ Art. 61–65. (pominięte)
 
 **Art. 13b.** W strefie przyległej Rzeczpospolita Polska ma prawo do:
 
+- **1)** zapobiegania naruszaniu na terytorium Rzeczypospolitej Polskiej polskich przepisów celnych, skarbowych, dotyczących nielegalnej imigracji i sanitarnych;
+- **2)** ścigania, zatrzymywania i karania sprawców naruszeń przepisów, o których mowa w pkt 1, jeżeli:
+    - **a)** miały one miejsce na terytorium lądowym, morskich wodach wewnętrznych, albo morzu terytorialnym Rzeczypospolitej Polskiej albo
+    - **b)** obowiązek ścigania, zatrzymania i karania sprawców wynika z prawa Unii Europejskiej lub umów międzynarodowych, których Rzeczpospolita Polska jest stroną.
+
 #### Rozdział 3 Wyłączna strefa ekonomiczna
 
 **Art. 14.** Ustanawia się wyłączną strefę ekonomiczną Rzeczypospolitej Polskiej.
@@ -170,6 +194,14 @@ Art. 61–65. (pominięte)
 2. W razie braku umów międzynarodowych, o których mowa w ust. 1, Rada Ministrów, w drodze rozporządzenia, może określić przebieg granicy wyłącznej strefy ekonomicznej.
 
 **Art. 17.** Rzeczypospolitej Polskiej przysługują w wyłącznej strefie ekonomicznej:
+
+- **1)** suwerenne prawa w celu rozpoznawania, zarządzania i eksploatacji zasobów naturalnych, zarówno żywych, jak i mineralnych, dna morza i wnętrza ziemi pod nim oraz pokrywających je wód, a także ochrona tych zasobów oraz suwerenne prawa w odniesieniu do innych gospodarczych przedsięwzięć w strefie;
+- **2)** władztwo w zakresie:
+    - **a)** budowania i użytkowania sztucznych wysp, konstrukcji i innych urządzeń,
+    - **b)** badań,
+    - **c)** ochrony i zachowania środowiska morskiego;
+
+- **3)** inne uprawnienia przewidziane w prawie międzynarodowym.
 
 **Art. 18.** Obce państwa korzystają w wyłącznej strefie ekonomicznej z wolności żeglugi i przelotu, układania kabli podmorskich i rurociągów oraz innych, zgodnych z prawem międzynarodowym, sposobów korzystania z morza, wiążących się z tymi wolnościami, z zastrzeżeniem przepisów ustawy.
 
@@ -554,6 +586,9 @@ Art. 61–65. (pominięte)
 
 **Art. 27t.** Podmiot, któremu udzielono pozwolenia, o którym mowa w art. 23 ust. 1 lub art. 26 ust. 1, lub uzgodnienia, o którym mowa w art. 27 ust. 1, przed rozpoczęciem użytkowania przedsięwzięcia lub jego części, w przypadku przedsięwzięcia realizowanego etapowo, przekazuje dyrektorowi urzędu morskiego właściwemu dla miejsca położenia przedsięwzięcia:
 
+- **1)** dokumentację geodezyjną, zawierającą wyniki geodezyjnej inwentaryzacji powykonawczej, w tym mapę, o której mowa w art. 2 pkt 7b ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762), oraz informację o zgodności usytuowania obiektu budowlanego z projektem zagospodarowania działki lub terenu lub odstępstwach od tego projektu sporządzone przez osobę posiadającą odpowiednie uprawnienia zawodowe w dziedzinie geodezji i kartografii;
+- **2)** w przypadku braku obowiązku sporządzania dokumentacji geodezyjnej dla przedsięwzięcia – geodezyjną dokumentację powykonawczą zawierającą dane dotyczące osnowy geodezyjnej, szkice określające położenie obiektów podlegających inwentaryzacji oraz wyniki pomiarów umożliwiające lokalizację każdego elementu przedsięwzięcia za pomocą współrzędnych geocentrycznych geodezyjnych.
+
 #### Rozdział 5 Badania na polskich obszarach morskich
 
 **Art. 28.**
@@ -598,6 +633,12 @@ Art. 61–65. (pominięte)
 **Art. 29.** (uchylony)
 
 **Art. 30.** Obce państwa oraz obce osoby prawne, obce jednostki organizacyjne nieposiadające osobowości prawnej i obce osoby fizyczne, a także właściwe organizacje międzynarodowe przeprowadzające badania naukowe na polskich obszarach morskich są obowiązane do:
+
+- **1)** zapewnienia udziału polskich przedstawicieli w badaniach, włączając w to ich obecność na pokładach statków badawczych i innych urządzeń;
+- **2)** poinformowania ministra właściwego do spraw gospodarki morskiej o wynikach badań w terminie 6 miesięcy od dnia ich zakończenia;
+- **3)** udostępnienia nieodpłatnie ministrowi właściwemu do spraw gospodarki morskiej danych uzyskanych w ramach badań w terminie 6 miesięcy od dnia ich zakończenia;
+- **4)** niezwłocznego informowania ministra właściwego do spraw gospodarki morskiej o każdej istotnej zmianie w programie badań;
+- **5)** niezwłocznego usunięcia urządzeń naukowo-badawczych i wyposażenia po zakończeniu badań, chyba że na ich pozostawienie uzyskano odrębne pozwolenie.
 
 **Art. 30a.** Niespełnienie przez podmioty, o których mowa w art. 30, wymagań określonych w tym przepisie, stanowi podstawę do odmowy wydania kolejnych pozwoleń, o których mowa w art. 28, albo do stwierdzenia utraty ważności wydanych już pozwoleń.
 
@@ -656,6 +697,10 @@ Art. 61–65. (pominięte)
 #### Rozdział 5a Zatopione materiały niebezpieczne
 
 **Art. 32b.** Zatopione materiały niebezpieczne oznaczają następujące kategorie substancji i obiektów zalegających na polskich obszarach morskich:
+
+- **1)** amunicję, o której mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), broń, o której mowa w art. 3 ust. 1 pkt 2 tej ustawy, lub materiały wybuchowe, o których mowa w art. 3 ust. 1 pkt 9 tej ustawy;
+- **2)** broń chemiczną w rozumieniu ustawy z dnia 22 czerwca 2001 r. o wykonywaniu Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów (Dz. U. z 2018 r. poz. 359);
+- **3)** wraki, o których mowa w art. 35a ust. 1a, na których lub w bezpośredniej bliskości których znajdują się pozostałości paliwa, różnego rodzaju substancje ropopochodne lub obiekty i substancje wymienione w pkt 1 i 2.
 
 **Art. 32c.** W przypadku podejrzenia wykrycia lub identyfikacji zatopionych materiałów niebezpiecznych jest to zgłaszane Biuru Hydrograficznemu Marynarki Wojennej, zgodnie z art. 41c ust. 1. Biuro Hydrograficzne Marynarki Wojennej niezwłocznie powiadamia o tym właściwego terytorialnie dyrektora urzędu morskiego oraz Dyrektora Morskiej Służby Poszukiwania i Ratownictwa.
 
@@ -865,6 +910,10 @@ Art. 61–65. (pominięte)
 
 **Art. 37d.** Plan może zawierać ustalenia wiążące samorządy województw oraz gminy, w obszarze których występują morskie wody wewnętrzne, lub gminy sąsiadujące z obszarem planu poprzez linię brzegową lub odpowiadające tej linii granice obszarów morskich, przy sporządzaniu odpowiednio planów zagospodarowania przestrzennego województw, planów ogólnych gmin oraz miejscowych planów zagospodarowania przestrzennego w zakresie:
 
+- **1)** rozmieszczenia inwestycji celu publicznego o znaczeniu krajowym określonych w średniookresowej strategii rozwoju kraju i innych strategiach rozwoju;
+- **2)** obszarów chronionych, w tym obszarów przestrzeni chronionej;
+- **3)** sposobu korzystania z obszarów morskich, w tym ograniczeń i dopuszczeń.
+
 **Art. 37e.**
 
 1. Przystępując do sporządzenia projektu planu, właściwy terytorialnie dyrektor urzędu morskiego, kolejno:
@@ -930,6 +979,10 @@ Art. 61–65. (pominięte)
 5. Nieprzedstawienie stanowiska lub warunków, o których mowa w ust. 4 i 4a, w terminie, o którym mowa w ust. 3 i 4a, uważa się za równoznaczne odpowiednio z uzgodnieniem lub zaopiniowaniem projektu planu.
 
 **Art. 37h.** Dyrektor urzędu morskiego, podejmując rozstrzygnięcia, o których mowa w art. 37e ust. 1 pkt 3, 6 i 11, ma na względzie:
+
+- **1)** osiągnięcie zrównoważonego rozwoju obszaru objętego planem oraz obszarów do niego przyległych w wymiarze ekonomicznym, społecznym i środowiskowym;
+- **2)** zapewnienie obronności i bezpieczeństwa państwa;
+- **3)** wzajemne oddziaływanie lądu i morza.
 
 **Art. 37i.**
 
@@ -1442,6 +1495,27 @@ Art. 61–65. (pominięte)
 
 **Art. 56.** Kto:
 
+- **1)** zatrzymuje lub zakotwicza statek poza miejscem do tego przeznaczonym,
+- **2)** prowadzi statek poza torami wodnymi lub nie utrzymuje kursu wskazanego przez właściwy organ,
+- **3)** (uchylony)
+- **4)** wyprowadza statek z portu wbrew otrzymanemu zakazowi,
+- **5)** ładuje lub wyładowuje towar ze statku w miejscu do tego niewyznaczonym,
+- **6)** nawiązuje łączność z wybrzeżem, powodując zagrożenie bezpieczeństwa żeglugi,
+- **7)** opuszcza statek w miejscu niedozwolonym,
+- **8)** przyjmuje lub wysadza ze statku ludzi z naruszeniem przepisów celnych, skarbowych, imigracyjnych lub sanitarnych,
+- **9)** wykracza przeciwko przepisom wydanym na podstawie art. 47 i 48, 9a) wykorzystuje pas techniczny do innego celu niż utrzymanie brzegu w stanie zgodnym z wymogami bezpieczeństwa i ochrony środowiska bez zgody dyrektora urzędu morskiego albo wykorzystuje pas techniczny niezgodnie z warunkami określonymi przez dyrektora urzędu morskiego,
+- **10)** nie stosuje się do nakazów określonych w art. 52 ust. 1,
+- **11)** (uchylony)
+- **12)** uszkadza lub przesuwa znaki nawigacyjne albo użytkuje je niezgodnie z przeznaczeniem,
+- **13)** uruchamia urządzenia pogarszające skuteczność oznakowania nawigacyjnego,
+- **14)** wykracza przeciwko przepisom o prowadzeniu i przechowywaniu na statku dokumentów,
+- **15)** wykracza przeciwko przepisom o okazywaniu bądź podnoszeniu bandery,
+- **16)** wykracza przeciwko obowiązkowi przedstawiania statku do pomiaru,
+- **17)** wykracza przeciwko obowiązkowi zgłoszenia statku lub okoliczności podlegającej wpisowi do rejestru okrętowego albo do rejestracji w urzędzie morskim, 17a) utrudnia lub uniemożliwia przeprowadzenie inspekcji, o której mowa w art. 50 ust. 1,
+- **18)** wykracza przeciwko obowiązkowi umieszczania na statku oznaczenia nazwy, portu macierzystego i numeru identyfikacyjnego statku,
+- **19)** nurkuje na wraku bez wymaganego pozwolenia na nurkowanie na wraku lub nie stosuje się do warunków określonych w tym pozwoleniu, 19a) uprawia żeglugę z naruszeniem obowiązku posiadania dokumentu ubezpieczenia odpowiedzialności za roszczenia morskie, o którym mowa w art. 102c Kodeksu morskiego, 19b) nie stosuje się do zakazu określonego w art. 35a ust. 10,
+- **20)** podejmuje się przewozu pasażerów z naruszeniem obowiązku posiadania dokumentu ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art. 182 § 3 lub art. 182a § 2 Kodeksu morskiego, <20a) przekazuje lub upublicznia udostępnione dane lub informacje z rejestru zatopionych materiałów niebezpiecznych bez uzyskania uprzedniej pisemnej zgody Szefa Biura Hydrograficznego Marynarki Wojennej, o której mowa w art. 41ca ust. 10> – podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
+
 **Art. 56a.**
 
 1. Przewoźnik, operator terminalu lub sprzedawca biletów, w rozumieniu rozporządzenia nr 1177/2010, którzy działają z naruszeniem obowiązków lub warunków określonych w art. 4 ust. 2, art. 7, art. 8 ust. 2, 3 i 5, art. 9 ust. 1, 2 i 4, art. 10, art. 11 ust. 1, 4 i 5, art. 12–19, art. 22, art. 23 ust. 1 i 3 oraz art. 24 rozporządzenia nr 1177/2010, podlegają karze pieniężnej do 50 000 zł.
@@ -1491,9 +1565,39 @@ Art. 61–65. (pominięte)
 
 **Art. 60a.** Kto na obszarze morskich wód wewnętrznych i morza terytorialnego:
 
+- **1)** wprowadza statek do strefy zamkniętej dla żeglugi i rybołówstwa lub pozostawia w tej strefie sprzęt rybacki,
+- **2)** przeprowadza próby statecznościowe lub testuje urządzenia napędowe statku bez zgody kapitana portu,
+- **3)** nadużywa środków sygnałowych i pirotechnicznych lub usuwa i uszkadza środki ratunkowe,
+- **4)** zakrywa i tarasuje urządzenia cumownicze oraz zasłania znaki ostrzegawcze,
+- **5)** bez zgody kapitana portu spłukuje nadbudówki i pokłady statku,
+- **6)** przewozi pasażerów statkiem, którego dokument bezpieczeństwa takiego przewozu nie przewiduje,
+- **7)** uprawiając żeglugę statkiem przekracza dopuszczalną prędkość określoną obowiązującymi przepisami,
+- **8)** cumuje do znaku nawigacyjnego – podlega karze grzywny.
+
 **Art. 60b.** Kto na obszarze portu morskiego lub przystani morskiej, a także kotwicowisk położonych poza obszarem portów oraz torów wodnych łączących te kotwicowiska z wodami portowymi:
 
+- **1)** kąpie się lub bez zezwolenia nurkuje,
+- **2)** zanieczyszcza lub zaśmieca teren,
+- **3)** zacumował jednostkę burta w burtę bez zgody kapitana portu,
+- **4)** wchodzi lub wjeżdża na lód,
+- **5)** łowi ryby wbrew zakazowi lub bez wydanego zezwolenia,
+- **6)** opuszcza na wodę łodzie ze statku bez zgody kapitana portu,
+- **7)** usuwa lub uszkadza środki ratunkowe,
+- **8)** zakrywa i tarasuje urządzenia cumownicze, hydranty oraz zasłania znaki ostrzegawcze,
+- **9)** nie oświetla statku zacumowanego do nabrzeża od zachodu do wschodu słońca lub od wschodu do zachodu słońca podczas ograniczonej widzialności,
+- **10)** nie używa tarcz przeciw szczurom na linach cumowniczych statku zacumowanego do nabrzeża,
+- **11)** nie zacumował lub nieprawidłowo zacumował statek do urządzeń cumowniczych,
+- **12)** nie zapewnia bezpiecznego połączenia statku z lądem – podlega karze grzywny.
+
 **Art. 60c.** Kto na obszarze pasa technicznego:
+
+- **1)** zaśmieca lub zanieczyszcza teren,
+- **2)** bez zgody właściwego terytorialnie dyrektora urzędu morskiego, o której mowa w art. 37 ust. 1, rozpala ognisko na plaży,
+- **3)** nie będąc uprawnionym do wjazdu albo bez zgody właściwego terytorialnie dyrektora urzędu morskiego, o której mowa w art. 37 ust. 1, używa pojazdu silnikowego lub zaprzęgowego lub motoroweru,
+- **4)** jako osoba nieupoważniona przebywa na terenach (ogrodzonych lub oznakowanych) objętych pracami hydrotechnicznymi lub pomiarowymi, zagrożonych erozją, pożarem i innymi zdarzeniami, w szczególności skażeniami, zanieczyszczeniami lub obecnością niebezpiecznych przedmiotów – podlega karze grzywny. Art. 60ca. Kto na obszarach określonych w art. 60a lub art. 60b:
+- **1)** wbrew przepisom art. 51 § 1 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2023 r. poz. 1309) uprawia żeglugę jachtem, nie posiadając na nim karty bezpieczeństwa wydanej na podstawie art. 23 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim,
+- **2)** uprawia żeglugę jachtem nieoznaczonym zgodnie z przepisami art. 12 § 1 i § 2a ustawy z dnia 18 września 2001 r. – Kodeks morski albo art. 21 ust. 1 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2024 r. poz. 395 i 731) oraz przepisami wydanymi na podstawie art. 21 ust. 3 tej ustawy,
+- **3)** narusza przepisy wydane na podstawie art. 3 ust. 2, art. 3b ust. 1 oraz art. 48 ust. 1 w ten sposób, że uprawia żeglugę na akwenach zamkniętych dla ruchu jednostek sportowo-rekreacyjnych albo bez wymaganej zgody – podlega karze grzywny.
 
 **Art. 60d.**
 
@@ -1539,6 +1643,10 @@ Art. 61–65. (pominięte)
 **Art. 69.** Do czasu wydania przepisów wykonawczych przewidzianych w ustawie pozostają w mocy dotychczasowe przepisy, o ile nie są z nią sprzeczne.
 
 **Art. 70.** Tracą moc:
+
+- **1)** dekret z dnia 2 lutego 1955 r. o terenowych organach administracji morskiej (Dz. U. poz. 35, z 1961 r. poz. 42, z 1971 r. poz. 117 oraz z 1989 r. poz. 192);
+- **2)** ustawa z dnia 17 grudnia 1977 r. o morzu terytorialnym Polskiej Rzeczypospolitej Ludowej (Dz. U. poz. 162);
+- **3)** ustawa z dnia 17 grudnia 1977 r. o szelfie kontynentalnym Polskiej Rzeczypospolitej Ludowej (Dz. U. poz. 164 oraz z 1989 r. poz. 192).
 
 **Art. 71.** Ustawa wchodzi w życie z dniem 1 lipca 1991 r.
 

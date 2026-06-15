@@ -91,7 +91,8 @@ b) własnej w placówkach operatora wyznaczonego, których utrzymanie wynika z o
 § 10. 1. Minister zatwierdza wniosek, o którym mowa w § 9, w terminie 14 dni od dnia jego otrzymania, po zweryfikowaniu zgodności wniosku z decyzją Prezesa UKE, o której mowa w art. 112 ust. 5 ustawy.
 2. W przypadku konieczności uzupełnienia lub poprawienia wniosku minister wzywa operatora wyznaczonego do jego uzupełnienia lub poprawienia w terminie 7 dni od dnia doręczenia wezwania.
 3. Terminu przewidzianego na uzupełnienie lub poprawienie wniosku przez operatora wyznaczonego nie wlicza się do terminu, o którym mowa w ust. 1.
-§ 11. Minister dokonuje wypłaty finansowania kosztu netto w terminie 30 dni od dnia zatwierdzenia wniosku, o którym mowa w § 9.
+§ 11. Minister dokonuje wypłaty finansowania kosztu netto w terminie 30 dni od dnia zatwierdzenia wniosku, o którym
+§ 9.
 § 12. 1. W kalkulacji kosztu netto za 2021 r. nie są uwzględniane korzyści operatora wyznaczonego związane ze świadczeniem publicznej usługi rejestrowanego doręczenia elektronicznego oraz publicznej usługi hybrydowej, o których mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
 2. W pozostałym zakresie do kalkulacji kosztu netto za 2021 r. i 2022 r. stosuje się przepisy dotychczasowe.
 § 13. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

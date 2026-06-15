@@ -69,25 +69,36 @@ source: pdf
 
 **Art. 5a.**
 
-1. Przepisy art. 15 ust. 1 i 3, art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ) stosuje się w zakresie, w jakim nie naruszają obowiązku zachowania przez radcę prawnego tajemnicy, o której mowa w art. 3.
+1. Przepisy art. 15 ust. 1 i 3, art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, stosuje się w zakresie, w jakim nie naruszają obowiązku zachowania przez radcę prawnego tajemnicy, o której mowa w art. 3.
 
-2. Przepisu art. 21 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) w przypadku danych osobowych pozyskanych przez radcę prawnego w związku z udzielaniem pomocy prawnej nie stosuje się.
+2. Przepisu art. 21 ust. 1 , rozporządzenia 2016/679 w przypadku danych osobowych pozyskanych przez radcę prawnego w związku z udzielaniem pomocy prawnej nie stosuje się.
 
-**Art. 5b.** Obowiązek zachowania tajemnicy, o której mowa w art. 3 ust. 4–6, nie ustaje, w przypadku gdy z żądaniem ujawnienia informacji uzyskanych przez radcę prawnego w związku z udzielaniem pomocy prawnej występuje Prezes Urzędu Ochrony Danych Osobowych.
+**Art. 5b.** Obowiązek zachowania tajemnicy, o której mowa w art. 3 ust. 3–6, nie ustaje, w przypadku gdy z żądaniem ujawnienia informacji uzyskanych przez radcę prawnego w związku z udzielaniem pomocy prawnej występuje organ nadzorczy, którego sprawa dotyczy w rozumieniu art. 4 pkt 22 rozporządzenia 2016/679.
 
 **Art. 5c.**
 
 1. Okres przechowywania danych osobowych wynosi:
 
-- **1)** 5 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone – w przypadku danych osobowych przetwarzanych przez organy samorządu radców prawnych w zakresie niezbędnym do prawidłowej realizacji zadań publicznych określonych w ustawie oraz danych osobowych przetwarzanych w ramach nadzoru nad działalnością samorządu radców prawnych;
-- **2)** 10 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone – w przypadku danych osobowych przetwarzanych:
-    - **a)** w toku prowadzonych przez organy samorządu radców prawnych postępowań: – administracyjnych, – w zakresie skarg i wniosków, – innych przewidzianych przez ustawę lub wydane na podstawie ustawy akty prawne organów samorządu radców prawnych dotyczących radców prawnych, aplikantów radcowskich lub osób ubiegających się o wpis na listę radców prawnych lub listę aplikantów radcowskich, a także osób przystępujących do egzaminu wstępnego na aplikację radcowską i egzaminu radcowskiego,
-    - **b)** w ramach nadzoru nad tymi postępowaniami, o których mowa w lit. a,
-    - **c)** przez radców prawnych w ramach wykonywania zawodu;
+- **1)** 10 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone – w przypadku danych osobowych przetwarzanych:
+    - **a)** w toku prowadzonych przez organy samorządu radców prawnych postępowań: – administracyjnych, – w zakresie skarg i wniosków, – innych przewidzianych przez ustawę lub wydane na podstawie ustawy akty prawne organów samorządu radców prawnych dotyczących radców prawnych, aplikantów radcowskich lub osób ubiegających się o wpis na listę radców prawnych lub listę aplikantów radcowskich,
+    - **b)** w ramach nadzoru nad postępowaniami, o których mowa w lit. a;
 
-- **3)** 15 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone – w przypadku danych osobowych przetwarzanych w toku prowadzonych przez organy samorządu radców prawnych postępowań dyscyplinarnych wobec radców prawnych i aplikantów radcowskich oraz podczas wykonywania przewidzianych przez ustawę kompetencji nadzorczych nad postępowaniami dyscyplinarnymi w sprawach radców prawnych i aplikantów radcowskich.
+- **2)** 15 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone – w przypadku danych osobowych przetwarzanych w toku prowadzonych przez organy samorządu radców prawnych postępowań dyscyplinarnych wobec radców prawnych i aplikantów radcowskich oraz podczas wykonywania przewidzianych przez ustawę kompetencji nadzorczych nad postępowaniami dyscyplinarnymi w sprawach radców prawnych i aplikantów radcowskich.
 
-2. Po upływie okresów, o których mowa w ust. 1, w przypadku danych osobowych przetwarzanych przez radców prawnych w ramach wykonywania zawodu, dane osobowe ulegają usunięciu.
+2. W przypadkach nieuregulowanych w ust. 1 oraz, o ile przepisy odrębne nie stanowią inaczej, dane osobowe przetwarzane w związku z realizacją zadań określonych w ustawie przechowuje się przez okres niezbędny dla realizacji tych zadań, jednak niedłuższy niż 10 lat od końca roku, w którym je pozyskano. W celu oceny dalszej niezbędności przechowywania tych danych dokonywany jest regularnie ich przegląd, nierzadziej niż raz na 2 lata.
+
+**Art. 5d.**
+
+1. Krajowa Izba Radców Prawnych jest administratorem danych osobowych przetwarzanych w celach realizacji zadań lub obowiązków przez Krajowy Zjazd Radców Prawnych, Krajową Radę Radców Prawnych, Wyższą Komisję Rewizyjną, Wyższy Sąd Dyscyplinarny i Głównego Rzecznika Dyscyplinarnego.
+
+2. Okręgowe izby radców prawnych są administratorami danych osobowych przetwarzanych w celach realizacji zadań lub obowiązków przez zgromadzenia okręgowych izb radców prawnych, rady okręgowych izb radców prawnych, okręgowe komisje rewizyjne, okręgowe sądy dyscyplinarne oraz rzeczników dyscyplinarnych.
+
+3. Do przetwarzania danych osobowych w ramach realizacji zadań lub obowiązków, o których mowa w ust. 1 i 2, mogą być dopuszczone wyłącznie osoby upoważnione. Takie osoby są obowiązane do zachowania poufności przetwarzanych danych osobowych i sposobów ich przetwarzania.
+
+4. Administrator, o którym mowa w ust. 1 i 2, zapewnia, aby dostęp do danych osobowych przetwarzanych w ramach realizacji zadań lub obowiązków, o których mowa w ust. 1 i 2, mieli wyłącznie:
+
+- **1)** członkowie organów samorządu radców prawnych realizujących te zadania lub obowiązki oraz inne osoby, którym powierzono realizację tych zadań lub obowiązków;
+- **2)** inne osoby niż wskazane w pkt 1, jeżeli jest to niezbędne dla zapewnienia obsługi administracyjnej, technicznej lub organizacyjnej.
 
 #### Rozdział 2 Wykonywanie zawodu radcy prawnego
 
@@ -121,6 +132,12 @@ source: pdf
 
 6. Pomoc prawna polegająca na występowaniu przez radcę prawnego w charakterze obrońcy w sprawach o przestępstwa i przestępstwa skarbowe może być świadczona w ramach wykonywania przez niego zawodu na podstawie umowy cywilnoprawnej, w kancelarii radcy prawnego oraz w spółce, o której mowa w ust. 1, pod warunkiem że radca prawny nie pozostaje w stosunku pracy. Zakaz zatrudnienia nie dotyczy pracowników badawczych i badawczo-dydaktycznych.
 
+**Art. 8a.**
+
+1. Oznaczenia „kancelaria radcy prawnego” oraz „kancelaria radców prawnych” podlegają ochronie prawnej.
+
+2. Oznaczeniem „kancelaria radcy prawnego” lub „kancelaria radców prawnych” może posługiwać się wyłącznie kancelaria radcy prawnego lub spółka, o której mowa w art. 8 ust. 1.
+
 **Art. 9.**
 
 1. Radca prawny wykonujący zawód w ramach stosunku pracy zajmuje samodzielne stanowisko podległe bezpośrednio kierownikowi jednostki organizacyjnej.
@@ -145,9 +162,17 @@ source: pdf
 
 **Art. 12.**
 
-1. Radca prawny podczas i w związku z wykonywaniem czynności zawodowych korzysta z ochrony prawnej przysługującej sędziemu i prokuratorowi.
+1. Radca prawny podczas wykonywania czynności zawodowych lub w związku z ich wykonywaniem korzysta z ochrony przysługującej funkcjonariuszowi publicznemu na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872).
 
-2. Minister Sprawiedliwości, w drodze rozporządzenia, określi strój urzędowy radców prawnych biorących udział w rozprawach sądowych, uwzględniając uroczysty charakter stroju, odpowiedni do powagi sądu i utrwalonej tradycji.
+2. (uchylony)
+
+**Art. 12a.**
+
+1. Strojem urzędowym radcy prawnego jest toga z żabotem i wypustką koloru ciemnoniebieskiego.
+
+2. Radca prawny, biorąc udział w rozprawach sądowych, występuje w stroju urzędowym.
+
+3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór stroju urzędowego radców prawnych, uwzględniając uroczysty charakter stroju, odpowiedni do powagi sądu i utrwalonej tradycji.
 
 **Art. 13.**
 
@@ -197,7 +222,19 @@ source: pdf
 
 **Art. 22¹.** Rada okręgowej izby radców prawnych jest uprawniona do kontroli i oceny wykonywania zawodu przez radcę prawnego i prawnika zagranicznego wpisanego na listę prawników zagranicznych, prowadzoną przez radę okręgowej izby radców prawnych. Kontrolę przeprowadzają i oceny dokonują wizytatorzy powołani przez radę spośród radców prawnych.
 
-**Art. 22².** Rada okręgowej izby radców prawnych na podstawie orzeczenia lekarskiego i po przeprowadzeniu szczegółowego postępowania wyjaśniającego może – na wniosek Prezesa Krajowej Rady Radców Prawnych lub dziekana rady okręgowej izby radców prawnych – podjąć uchwałę o trwałej niezdolności radcy prawnego do wykonywania zawodu. W razie wszczęcia takiego postępowania rada może zawiesić radcę prawnego w wykonywaniu czynności na czas trwania postępowania.
+**Art. 22².**
+
+1. Rada okręgowej izby radców prawnych na podstawie orzeczenia lekarskiego i po przeprowadzeniu szczegółowego postępowania wyjaśniającego może – na wniosek Prezesa Krajowej Rady Radców Prawnych lub dziekana rady okręgowej izby radców prawnych – podjąć uchwałę o niezdolności radcy prawnego do wykonywania zawodu.
+
+2. Uchwała zapada po wysłuchaniu radcy prawnego lub jego pełnomocnika ustanowionego spośród radców prawnych. Rada okręgowej izby radców prawnych wyznacza pełnomocnika z urzędu, jeżeli radca prawny go nie ustanowi.
+
+3. Rada okręgowej izby radców prawnych może żądać od radcy prawnego poddania się niezbędnym badaniom lekarskim i okazania ich wyników.
+
+4. W razie wszczęcia postępowania, o którym mowa w ust. 1, lub jeżeli radca prawny odmawia poddania się badaniom lekarskim, o których mowa w ust. 3, uporczywie się na te badania nie stawia lub odmawia okazania ich wyników, rada okręgowej izby radców prawnych może tymczasowo zawiesić radcę prawnego w wykonywaniu czynności zawodowych. To samo uprawnienie przysługuje radzie okręgowej izby radców prawnych, gdy przeciwko radcy prawnemu zostało wszczęte postępowanie o ubezwłasnowolnienie.
+
+5. Jeżeli przemawia za tym ważny interes publiczny, uchwale stwierdzającej niezdolność radcy prawnego do wykonywania zawodu, nadaje się rygor natychmiastowej wykonalności.
+
+6. W każdym czasie radca prawny, wobec którego podjęto uchwałę na podstawie ust. 1, w przypadku zmiany okoliczności lub ustania podstawy powodującej niezdolność do wykonywania zawodu, może zwrócić się do rady okręgowej izby radców prawnych o uchylenie lub zmianę tej uchwały.
 
 **Art. 22³.**
 
@@ -223,17 +260,29 @@ source: pdf
 
 **Art. 22⁷.**
 
-1. Radca prawny podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone przy wykonywaniu czynności, o których mowa w art. 4 ust. 1 i art. 6 ust. 1.
+1. Radca prawny podlega obowiązkowemu ubezpieczeniu odpowiedzialności cywilnej za szkody wyrządzone przy wykonywaniu czynności, o których mowa w art. 4 i art. 6 ust. 1.
 
-2. Przepis ust. 1 nie narusza przepisów art. 120 Kodeksu pracy.
+2. Obowiązek ubezpieczenia nie dotyczy radców prawnych niewykonujących zawodu.
 
-3. Obowiązek ubezpieczenia, o którym mowa w ust. 1, nie dotyczy radców prawnych niewykonujących zawodu.
+3. Umowę ubezpieczenia zawiera na rachunek radców prawnych Krajowa Izba Radców Prawnych.
 
-4. Rada okręgowej izby radców prawnych właściwa ze względu na miejsce zamieszkania radcy prawnego jest obowiązana do przeprowadzania kontroli spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w ust. 1. Spełnienie tego obowiązku ustala się na podstawie okazanej przez radcę prawnego polisy lub innego dokumentu ubezpieczenia, potwierdzającego zawarcie umowy tego ubezpieczenia, wystawionego przez zakład ubezpieczeń.
+4. Umowa, o której mowa w ust. 3, zawierana jest na okres roku kalendarzowego lub kilku kolejnych lat kalendarzowych.
 
-5. Minister Sprawiedliwości nadzoruje wykonywanie przez rady okręgowe izb radców prawnych zadań określonych w ust. 4. Dziekani rad okręgowych izb radców prawnych obowiązani są do składania Ministrowi Sprawiedliwości raz w roku, w terminie do dnia 15 marca, sprawozdań z kontroli przeprowadzonych w poprzednim roku kalendarzowym.
+5. Informacja o zawarciu i warunkach umowy, o której mowa w ust. 3, udostępniana jest radcom prawnym niepóźniej niż do końca listopada roku poprzedzającego pierwszy rok objęty tą umową.
 
-**Art. 22⁸.** Minister właściwy do spraw instytucji finansowych, w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Radców Prawnych oraz Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w art. 22 , termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanego zawodu oraz zakres realizowanych zadań.
+6. Zasady udostępniania radcom prawnym informacji, o której mowa w ust. 5, określa Krajowa Rada Radców Prawnych.
+
+7. W terminie 14 dni od dnia udostępnienia radcom prawnym informacji, o której mowa w ust. 5, albo w terminie 14 dni od dnia uzyskania prawa wykonywania zawodu radcy prawnego radca prawny może złożyć dziekanowi właściwej ze względu na miejsce zamieszkania radcy prawnego rady okręgowej izby radców prawnych oświadczenie o rezygnacji z objęcia umową, o której mowa w ust. 3, wraz z dowodem zawarcia przez radcę prawnego umowy ubezpieczenia w zakresie spełniającym wymogi określone w przepisach wydanych na podstawie art. 22[8].
+
+8. Jeżeli niepóźniej niż 14 dni przed końcem okresu objętego umową ubezpieczenia zawartą przez radcę prawnego radca prawny nie złoży oświadczenia wraz z dowodem zawarcia umowy ubezpieczenia w zakresie spełniającym wymogi określone w przepisach wydanych na podstawie art. 22 , na kolejny okres, radcę prawnego obejmuje się z dniem następującym po upływie okresu objętego umową ubezpieczenia zawartą przez radcę prawnego umową, o której mowa w ust. 3.
+
+9. Dziekani rad okręgowych izb radców prawnych przekazują – na podstawie list radców prawnych prowadzonych przez te izby, w terminach i na zasadach określonych przez Krajową Radę Radców Prawnych – dane radców prawnych objętych umową, o której mowa w ust. 3, odpowiednio ubezpieczającemu, agentowi ubezpieczeniowemu lub brokerowi ubezpieczeniowemu.
+
+10. Rada okręgowej izby radców prawnych właściwa ze względu na miejsce zamieszkania radcy prawnego jest obowiązana do przeprowadzania kontroli spełnienia obowiązku zawarcia umowy ubezpieczenia przez radców prawnych, którzy złożyli oświadczenie, o którym mowa w ust. 7. Spełnienie tego obowiązku ustala się na podstawie okazanej przez radcę prawnego polisy lub innego dokumentu ubezpieczenia, potwierdzającego zawarcie umowy ubezpieczenia, wystawionego przez zakład ubezpieczeń.
+
+11. Minister Sprawiedliwości nadzoruje wykonywanie przez rady okręgowe izb radców prawnych zadań określonych w ust. 10. Dziekani rad okręgowych izb radców prawnych obowiązani są do składania Ministrowi Sprawiedliwości raz w roku, w terminie do dnia 15 marca, sprawozdań z kontroli przeprowadzonych w poprzednim roku kalendarzowym.
+
+**Art. 22⁸.** Minister właściwy do spraw instytucji finansowych, w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Radców Prawnych oraz Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w art. 22 ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanego zawodu oraz zakres realizowanych zadań.
 
 **Art. 22⁹.**
 
@@ -249,7 +298,7 @@ source: pdf
 
 1. Radca prawny wykonujący zawód jest obowiązany posiadać adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.
 
-2. Dziekan rady okręgowej izby radców prawnych występuje do ministra właściwego do spraw informatyzacji o wykreślenie adresu do doręczeń elektronicznych z bazy adresów elektronicznych w przypadkach, o których mowa w art. 22 , art. 28 ust. 1 pkt 2 i 3 i ust. 2, art. 29 oraz art. 65 .
+2. Dziekan rady okręgowej izby radców prawnych występuje do ministra właściwego do spraw informatyzacji o wykreślenie adresu do doręczeń elektronicznych z bazy adresów elektronicznych w przypadkach, o których mowa w art. 22 , art. 28 ust. 1 pkt 2 i 3, ust. 1a i 2, art. 29 oraz art. 65 .
 
 **Art. 22¹¹.**
 
@@ -353,6 +402,8 @@ source: pdf
 - **1)** wykonywania zawodu adwokata;
 - **2)** podjęcia pracy w organach wymiaru sprawiedliwości, w organach ścigania lub kancelarii notarialnej;
 - **3)** podjęcia zatrudnienia na stanowisku Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej, jej wiceprezesa, radcy lub referendarza.
+
+1a. Zawieszenie prawa do wykonywania zawodu radcy prawnego następuje także z chwilą uprawomocnienia się uchwały stwierdzającej niezdolność radcy prawnego do wykonywania zawodu lub nadania jej rygoru natychmiastowej wykonalności.
 
 2. Zawieszenie prawa do wykonywania zawodu radcy prawnego następuje także z chwilą uprawomocnienia się orzeczenia dyscyplinarnego o zastosowaniu tej kary.
 
@@ -676,7 +727,7 @@ source: pdf
 
 4. Aplikant radcowski może sporządzać i podpisywać pisma procesowe związane z występowaniem radcy prawnego przed sądami, organami ścigania i organami państwowymi, samorządowymi i innymi instytucjami – z wyraźnego upoważnienia radcy prawnego, z wyłączeniem apelacji, skargi kasacyjnej i skargi konstytucyjnej.
 
-5. Aplikant adwokacki może zastępować radcę prawnego na takich samych zasadach jak adwokata, jeżeli radca prawny jest wspólnikiem w spółce adwokacko-radcowskiej.
+5. Aplikant adwokacki może zastępować radcę prawnego na takich samych zasadach jak aplikant radcowski.
 
 **Art. 36.**
 
@@ -923,7 +974,7 @@ source: pdf
 - **1)** o którym mowa w art. 29 pkt 1 lub 3–5 albo art. 29 , stosowanych odpowiednio;
 - **1a)** o którym mowa w art. 29 pkt 6, stosowanym odpowiednio;
 - **2)** niezakończenia przez niego bez usprawiedliwionej przyczyny aplikacji radcowskiej w terminie, o którym mowa w art. 32 ust. 2;
-- **3)** wpisu na listę radców prawnych;
+- **3)** uzyskania prawa wykonywania zawodu radcy prawnego zgodnie z art. 23;
 - **4)** upływu roku od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji radcowskiej;
 - **5)** podjęcia uchwały, o której mowa w art. 37 , wydłużającej okres, o którym mowa w pkt 4, po upływie dwóch lat od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji radcowskiej.
 
@@ -987,7 +1038,24 @@ source: pdf
 
 **Art. 44.** Wybory do organów samorządu odbywają się w głosowaniu tajnym przy nieograniczonej liczbie kandydatów.
 
-**Art. 45.** Organy samorządu podejmują uchwały w obecności co najmniej połowy członków danego organu.
+**Art. 45.**
+
+1. Organy samorządu, Prezydium Krajowej Rady Radców Prawnych oraz prezydia rad okręgowych izb radców prawnych podejmują uchwały w obecności co najmniej połowy członków odpowiednio organu lub prezydium.
+
+2. Uchwały Krajowej Rady Radców Prawnych oraz uchwały Prezydium Krajowej Rady Radców Prawnych są podpisywane przez Prezesa Krajowej Rady Radców Prawnych albo działającego z jego upoważnienia innego członka danego organu lub prezydium biorącego udział w głosowaniu.
+
+3. Uchwały rady okręgowej izby radców prawnych oraz uchwały prezydium rady okręgowej izby radców prawnych są podpisywane przez dziekana rady okręgowej izby radców prawnych albo działającego z jego upoważnienia innego członka danego organu lub prezydium biorącego udział w głosowaniu.
+
+**Art. 45¹.**
+
+1. Organy samorządu, Prezydium Krajowej Rady Radców Prawnych oraz prezydia rad okręgowych izb radców prawnych mogą:
+
+- **1)** odbywać posiedzenia z wykorzystaniem przez wszystkich albo niektórych uczestników posiedzenia środków bezpośredniego porozumiewania się na odległość;
+- **2)** podejmować uchwały z wykorzystaniem środków bezpośredniego porozumiewania się na odległość lub w trybie obiegowym.
+
+2. Wyboru trybu odbywania posiedzenia lub podjęcia uchwały dokonuje przewodniczący odpowiednio organu lub prezydium albo organ uprawniony do zwołania posiedzenia. W przypadku odbywania posiedzenia w trybie, o którym mowa w ust. 1 pkt 1, głosowanie przeprowadza się z wykorzystaniem środków bezpośredniego porozumiewania się na odległość.
+
+3. Środki bezpośredniego porozumiewania się na odległość, o których mowa w ust. 1 i 2, zapewniają dostępność, integralność, autentyczność i poufność danych oraz gwarantują odpowiedni poziom bezpieczeństwa.
 
 **Art. 46.** Krajowa Rada Radców Prawnych przedstawia corocznie informację o funkcjonowaniu samorządu Prezydentowi Rzeczypospolitej Polskiej.
 
@@ -1048,8 +1116,9 @@ source: pdf
 3. Do zakresu działania rady okręgowej izby radców prawnych należy w szczególności:
 
 - **1)** reprezentowanie interesów zawodowych członków okręgowej izby radców prawnych;
+- **1a)** ochrona niezależności radców prawnych oraz tajemnicy zawodowej;
 - **2)** doskonalenie zawodowe radców prawnych;
-- **3)** nadzór nad należytym wykonywaniem zawodu przez radców prawnych i aplikantów radcowskich;
+- **3)** nadzór nad należytym wykonywaniem zawodu przez radców prawnych i aplikantów radcowskich oraz warunkami jego wykonywania;
 - **4)** występowanie do organów rejestrowych lub ewidencyjnych z wnioskiem o wszczęcie postępowania o wykreślenie z rejestru lub ewidencji podmiotu prowadzącego działalność w zakresie pomocy prawnej niezgodnie z przepisami niniejszej ustawy.
 - **5)** (uchylony)
 
@@ -1058,6 +1127,8 @@ source: pdf
 5. Rada okręgowej izby radców prawnych prowadzi listę prawników zagranicznych na zasadach określonych w ustawie z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej.
 
 6. Rada okręgowej izby radców prawnych prowadzi w systemie teleinformatycznym udostępnianym przez Krajową Radę Radców Prawnych listy, o których mowa w ust. 4 i 5. Rada okręgowej izby radców prawnych umożliwia Krajowej Radzie Radców Prawnych dostęp do tych list.
+
+**Art. 52a.** Okręgowym izbom radców prawnych realizującym zadania, o których mowa w art. 52 ust. 3 pkt 1a, w postępowaniu cywilnym, karnym, administracyjnym i sądowoadministracyjnym przysługują odpowiednio uprawnienia organizacji pozarządowej, o których mowa w art. 61–63 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i 473), oraz organizacji społecznej, o których mowa w art. 90 i art. 91 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2026 r. poz. 490, 421 i 638), art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691) oraz art. 25 § 4, art. 33 § 2 i art. 50 § 1 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143).
 
 **Art. 53.** Do zakresu działania okręgowej komisji rewizyjnej należy kontrola działalności finansowej rady okręgowej izby radców prawnych.
 
@@ -1117,6 +1188,7 @@ source: pdf
 **Art. 60.** Do zakresu działania Krajowej Rady Radców Prawnych należy:
 
 - **1)** reprezentowanie samorządu wobec sądów, organów państwowych i samorządowych, instytucji i organizacji;
+- **1a)** ochrona autonomii i niezależności samorządu;
 - **2)** udzielanie opinii o projektach aktów prawnych oraz przedstawianie wniosków dotyczących unormowań prawnych;
 - **3)** koordynowanie działalności okręgowych izb radców prawnych i sprawowanie nadzoru nad ich działalnością;
 - **4)** uchwalanie budżetu Krajowej Rady Radców Prawnych i zatwierdzanie sprawozdań z jego wykonania oraz rozpatrywanie wniosków Wyższej Komisji Rewizyjnej;
@@ -1142,8 +1214,11 @@ source: pdf
 - **10)** ustalanie zasad gospodarki finansowej samorządu;
 - **11)** określanie wysokości składki członkowskiej i zasad jej podziału oraz wysokości opłat związanych z decyzją w sprawie wpisu na listę radców prawnych i aplikantów radcowskich oraz opłat manipulacyjnych;
 - **11a)** uchwalanie zasad zwalniania aplikantów od ponoszenia w całości lub w części opłaty rocznej, a także odraczania jej płatności lub rozkładania jej na raty;
+- **11b)** zawieranie na rachunek radców prawnych umowy ubezpieczenia odpowiedzialności cywilnej radców prawnych za szkody wyrządzone przy wykonywaniu czynności, o których mowa w art. 4 i art. 6 ust. 1, oraz pobór przypadającej na radcę prawnego części składki z tytułu zawartej umowy ubezpieczenia;
 - **12)** wykonywanie zadań określonych w ustawie o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej;
 - **13)** współdziałanie z Ministrem Sprawiedliwości w zakresie określonym w ustawie.
+
+**Art. 60a.** Krajowej Izbie Radców Prawnych realizującej zadania, o których mowa w art. 60 pkt 1a, w postępowaniu cywilnym, karnym, administracyjnym i sądowoadministracyjnym przysługują odpowiednio uprawnienia organizacji pozarządowej, o których mowa w art. 61–63 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, oraz organizacji społecznej, o których mowa w art. 90 i art. 91 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego oraz art. 25 § 4, art. 33 § 2 i art. 50 § 1 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 **Art. 60¹.**
 
@@ -1171,9 +1246,9 @@ source: pdf
 
 **Art. 62².**
 
-1. Od orzeczenia wydanego przez Wyższy Sąd Dyscyplinarny w drugiej instancji przysługuje stronom, Ministrowi Sprawiedliwości, Rzecznikowi Praw Obywatelskich oraz Prezesowi Krajowej Rady Radców Prawnych kasacja do Sądu Najwyższego.
+1. Od prawomocnego orzeczenia kończącego postępowanie wydanego przez Wyższy Sąd Dyscyplinarny w drugiej instancji przysługuje stronom, Ministrowi Sprawiedliwości, Rzecznikowi Praw Obywatelskich oraz Prezesowi Krajowej Rady Radców Prawnych kasacja do Sądu Najwyższego.
 
-2. Orzeczenie, od którego służy kasacja podmiotom wymienionym w ust. 1, nie podlega wykonaniu do czasu wniesienia kasacji lub bezskutecznego upływu terminu do jej wniesienia.
+2. (uchylony)
 
 **Art. 62³.** Kasacja może być wniesiona z powodu rażącego naruszenia prawa, jak również rażącej niewspółmierności kary dyscyplinarnej.
 
@@ -1183,7 +1258,7 @@ source: pdf
 
 1. Od kasacji, o której mowa w art. 62 ust. 1, nie uiszcza się opłaty sądowej.
 
-2. Orzeczenie, od którego wniesiono kasację, nie podlega wykonaniu do czasu rozpoznania kasacji.
+2. (uchylony)
 
 3. Sąd Najwyższy rozpoznaje kasację na rozprawie w składzie trzech sędziów.
 
@@ -1200,7 +1275,9 @@ source: pdf
 
 1. Radcowie prawni i aplikanci radcowscy podlegają odpowiedzialności dyscyplinarnej za postępowanie sprzeczne z prawem, zasadami etyki lub godnością zawodu bądź za naruszenie swych obowiązków zawodowych.
 
-1a. Radcowie prawni podlegają odpowiedzialności dyscyplinarnej również za niespełnienie obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 22 ust. 1, zgodnie z przepisami wydanymi na podstawie art. 22 .
+1a. Radcowie prawni objęci umową, o której mowa w art. 22 ust. 3, podlegają odpowiedzialności dyscyplinarnej za nieopłacanie w terminie przypadającej na radcę prawnego części składki z tytułu zawartej umowy ubezpieczenia.
+
+1b. Radcowie prawni, którzy złożyli oświadczenie o rezygnacji z objęcia umową, o której mowa w art. 22 ust. 3, podlegają odpowiedzialności dyscyplinarnej za niespełnienie obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 22 ust. 1, zgodnie z przepisami wydanymi na podstawie art. 22 .
 
 2. Od odpowiedzialności dyscyplinarnej wyłączone są czyny naruszające przepisy dotyczące porządku i dyscypliny pracy, określone w Kodeksie pracy.
 
@@ -1417,6 +1494,16 @@ source: pdf
 
 - **1)** Kodeksu postępowania karnego;
 - **2)** rozdziałów I–III Kodeksu karnego.
+
+#### Rozdział 6a Przepis karny
+
+**Art. 74².**
+
+1. Kto, nie będąc uprawnionym posługuje się tytułem zawodowym „radca prawny” lub oznaczeniem „kancelaria radcy prawnego” lub „kancelaria radców prawnych” podlega grzywnie od 5000 do 200 000 złotych albo karze ograniczenia wolności albo obu tym karom łącznie.
+
+2. Tej samej karze podlega, kto dopuszcza się̨ czynu określonego w ust. 1 działając w imieniu lub w interesie innego podmiotu.
+
+3. Orzekanie w sprawach o czyny, o których mowa w ust. 1 i 2, następuje w trybie przepisów ustawy z dnia 6 czerwca 1997 r. ‒ Kodeks postępowania karnego.
 
 #### Rozdział 7 Przepisy szczególne, przejściowe i końcowe
 

@@ -8,7 +8,7 @@ pos: 643
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 38/4/A/2005 WYROK z dnia 20 kwietnia 2005 r.

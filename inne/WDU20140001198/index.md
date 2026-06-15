@@ -8,7 +8,7 @@ pos: 1198
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw
@@ -28,6 +28,382 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1198/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2: 18eb) profil ogólnoakademicki – profil programu kształcenia obejmującego moduły zajęć powiązane z prowadzonymi w uczelni badaniami naukowymi, realizowany przy założeniu, że ponad połowa programu studiów określonego w punktach ECTS obejmuje zajęcia służące zdobywaniu przez studenta pogłębionej wiedzy;”, – po pkt 18m dodaje się pkt 18n i 18o w brzmieniu: „18n) efekty uczenia się – zasób wiedzy, umiejętności i kompetencji społecznych uzyskiwanych w procesie uczenia się poza systemem studiów;
+    - **a)** w ust. 1: – pkt 18c otrzymuje brzmienie: „18c) efekty kształcenia – zasób wiedzy, umiejętności i kompetencji społecznych uzyskiwanych w procesie kształcenia w systemie studiów oraz studiów trzeciego stopnia;”, – pkt 18e otrzymuje brzmienie: „18e) profil kształcenia – profil praktyczny lub profil ogólnoakademicki;”, – po pkt 18e dodaje się pkt 18ea i 18eb w brzmieniu: „18ea) profil praktyczny – profil programu kształcenia obejmującego moduły zajęć służące zdobywaniu przez studenta umiejętności praktycznych i kompetencji społecznych, realizowany przy założeniu, że ponad połowa programu studiów określonego w punktach ECTS obejmuje zajęcia praktyczne kształtujące te umiejętności i kompetencje, w tym umiejętności uzyskiwane na zajęciach warsztatowych, które są prowadzone przez osoby posiadające doświadczenie zawodowe zdobyte poza uczelnią;
+
+- **18o)** potwierdzenie efektów uczenia się – formalny proces weryfikacji posiadanych efektów uczenia się zorganizowanego instytucjonalnie poza systemem studiów oraz uczenia się niezorganizowanego instytucjonalnie, realizowanego w sposób i metodami zwiększającymi zasób wiedzy, umiejętności i kompetencji społecznych, nie ma zastosowania do kierunku analityka medyczna/medycyna laboratoryjna;”, – pkt 22 otrzymuje brzmienie: „22) uczelnia akademicka – uczelnię prowadzącą badania naukowe, w której co najmniej jedna jednostka organizacyjna posiada uprawnienie do nadawania stopnia naukowego doktora;”, – w pkt 34 kropkę zastępuje się średnikiem i dodaje się pkt 35 i 36 w brzmieniu: „35) komercjalizacja bezpośrednia – sprzedaż wyników badań naukowych, prac rozwojowych lub know-how związanego z tymi wynikami albo oddawanie do używania tych wyników lub knowhow, w szczególności na podstawie umowy licencyjnej, najmu oraz dzierżawy;
+- **36)** komercjalizacja pośrednia – obejmowanie lub nabywanie udziałów lub akcji w spółkach w celu wdrożenia lub przygotowania do wdrożenia wyników badań naukowych, prac rozwojowych lub know-how związanego z tymi wynikami.”,
+    - **b)** w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) komercjalizacji, bez bliższego określenia – rozumie się przez to komercjalizację bezpośrednią i pośrednią.”,
+    - **c)** dodaje się ust. 4 w brzmieniu: „4. Jeżeli żadna z podstawowych jednostek organizacyjnych uczelni nie prowadzi:
+
+- **1)** działalności naukowej i studiów doktoranckich albo
+- **2)** kierunku studiów – przepisy ustawy dotyczące podstawowych jednostek organizacyjnych w zakresie tej działalności stosuje się odpowiednio do całej uczelni.”;
+- **2)** w art. 6 w ust. 1:
+    - **a)** w pkt 4 lit. b otrzymuje brzmienie: „b) ustalania programów kształcenia uwzględniających efekty kształcenia zgodnie z Krajowymi Ramami Kwalifikacji dla Szkolnictwa Wyższego, zwanymi dalej „Krajowymi Ramami Kwalifikacji”, dla obszarów kształcenia określonych w przepisach wydanych na podstawie art. 9 ust. 1 pkt 2;”,
+    - **b)** pkt 6 otrzymuje brzmienie: „6) wydawania dyplomów ukończenia studiów potwierdzających uzyskanie tytułu zawodowego, świadectw ukończenia studiów podyplomowych, kursów dokształcających i szkoleń;”,
+    - **c)** dodaje się pkt 7 w brzmieniu: „7) potwierdzania efektów uczenia się na zasadach określonych w ustawie.”;
+
+- **3)** art. 7 otrzymuje brzmienie: „Art. 7. Uczelnia może prowadzić działalność gospodarczą wyodrębnioną organizacyjnie i finansowo od działalności, o której mowa w art. 13 i art. 14, w zakresie i formach określonych w statucie, w szczególności w formie spółek kapitałowych.”;
+- **4)** w art. 8:
+    - **a)** ust. 3 i 4 otrzymują brzmienie: „3. Senat uczelni publicznej określa, w drodze uchwały, liczbę miejsc na poszczególnych kierunkach studiów stacjonarnych na dany rok akademicki, w tym liczbę miejsc dla osób, dla których będzie to kolejny kierunek studiów stacjonarnych w uczelni publicznej, kierując się zasadą odpowiedzialności za jakość kształcenia oraz możliwościami zapewnienia finansowania ich ze środków publicznych, a także dbając o zgodność struktury kierunków studiów z misją uczelni. Uchwałę senatu przesyła się w terminie miesiąca od dnia jej podjęcia ministrowi właściwemu do spraw szkolnictwa wyższego i właściwemu ministrowi nadzorującemu uczelnię, o którym mowa w art. 33 ust. 2.
+
+4. Zwiększenie ogólnej liczby osób, które uczelnia publiczna może przyjąć na studia stacjonarne na dany rok akademicki, powyżej 2% liczby studentów przyjętych na studia stacjonarne na poprzedni rok akademicki następuje, na wniosek rektora, w drodze decyzji ministra właściwego do spraw szkolnictwa wyższego albo w drodze decyzji właściwego ministra nadzorującego uczelnię, o którym mowa w art. 33 ust. 2, podjętej w uzgodnieniu z ministrem właściwym do spraw szkolnictwa wyższego, uwzględniającej:
+
+- **1)** strukturę kierunków studiów w uczelni i liczbę studentów na poszczególnych kierunkach studiów, w tym kierunkach priorytetowych dla rozwoju kraju;
+- **2)** osiągnięcia uczelni w określonych dziedzinach nauki i związany z nimi zakres kształcenia;
+- **3)** oceny jakości kształcenia dokonane przez Polską Komisję Akredytacyjną;
+- **4)** zasadę dążenia do zapewnienia równomiernego dostępu do studiów nieodpłatnych na obszarze kraju;
+- **5)** zapotrzebowanie rynku pracy na absolwentów poszczególnych kierunków studiów;
+- **6)** liczbę studentów przyjętych na studia stacjonarne w poprzednim roku akademickim, w tym studentów, dla których jest to kolejny kierunek studiów stacjonarnych w uczelni publicznej.”, 4, termin składania wniosków, o których mowa w ust. 4, i zakres danych zawartych we wnioskach, niezbędnych do podjęcia tych decyzji, w szczególności informacje o możliwości zapewnienia udziału studentów kierunku studiów o profilu ogólnoakademickim w badaniach naukowych prowadzonych przez podstawową jednostkę organizacyjną oraz informacje o liczbie miejsc przewidzianych dla studentów kierunku studiów o profilu praktycznym biorących udział w obowiązkowych praktykach zawodowych, mając na względzie strukturę kształcenia i zapotrzebowanie rynku pracy na absolwentów poszczególnych kierunków studiów.”,
+    - **b)** uchyla się ust. 5,
+    - **c)** ust. 6 otrzymuje brzmienie: „6. Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, tryb podejmowania decyzji, o których mowa w ust.
+    - **d)** ust. 11 otrzymuje brzmienie: „11. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, limit miejsc na kierunki studiów dla strażaków w służbie kandydackiej oraz dla strażaków w służbie stałej skierowanych na studia przez właściwego przełożonego, uwzględniając możliwości dydaktyczne uczelni oraz zapotrzebowanie na absolwentów tych kierunków.”;
+
+- **5)** art. 8a otrzymuje brzmienie: „Art. 8a. Studia podyplomowe trwają nie krócej niż dwa semestry. Program kształcenia powinien umożliwiać uzyskanie przez słuchacza co najmniej 30 punktów ECTS. Uczelnia jest obowiązana do określenia efektów kształcenia oraz sposobu ich weryfikowania i dokumentowania.”;
+- **6)** w art. 9 w ust. 3:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) warunki, jakie muszą spełniać jednostki organizacyjne, aby prowadzić studia na określonym kierunku, poziomie i profilu kształcenia, a w szczególności:
+    - **a)** liczbę nauczycieli akademickich posiadających tytuł naukowy lub stopień naukowy lub będących osobami, które nabyły uprawnienia równoważne z uprawnieniami doktora habilitowanego na podstawie art. 21a ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, zaliczanych do minimum kadrowego,
+    - **b)** proporcje liczby pracowników, o których mowa w lit. a, do liczby studentów na danym kierunku studiów,
+    - **c)** zakres informacji objętych wnioskiem o nadanie podstawowej jednostce organizacyjnej uczelni, o której mowa w art. 11 ust. 3 i 5, uprawnienia do prowadzenia studiów na określonym kierunku, poziomie i profilu kształcenia, składanym w formie elektronicznej do ministra właściwego do spraw szkolnictwa wyższego,
+    - **d)** zakres informacji objętych wnioskiem o przywrócenie podstawowej jednostce organizacyjnej uczelni uprawnienia do prowadzenia studiów na określonym kierunku, poziomie i profilu kształcenia, składanym w formie elektronicznej do ministra właściwego do spraw szkolnictwa wyższego – uwzględniając zasady określone w art. 9a i art. 112a, potrzeby rynku pracy, a także mając na celu zapewnienie wysokiej jakości kształcenia;”,
+    - **b)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) kierunki studiów, które są prowadzone jako jednolite studia magisterskie, kierunki studiów, które są prowadzone jako studia drugiego stopnia, oraz kierunki studiów, które mogą być prowadzone jako jednolite studia magisterskie, uwzględniając zróżnicowane kwalifikacje absolwentów studiów pierwszego i drugiego stopnia oraz potrzeby rynku pracy;”,
+    - **c)** pkt 3 i 4 otrzymują brzmienie: „3) podstawowe kryteria i zakres oceny programowej, o której mowa w art. 48a ust. 3, uwzględniając:
+    - **a)** spełnianie warunków prowadzenia studiów na określonym kierunku, poziomie i profilu kształcenia, w tym opis i analizę efektów kształcenia,
+    - **b)** akredytacje lub certyfikaty instytucji międzynarodowych,
+    - **c)** działanie wewnętrznego systemu zapewnienia jakości kształcenia,
+    - **d)** organizację i realizację procesu kształcenia oraz udział studentów w jego kształtowaniu i ocenie,
+    - **e)** współpracę z otoczeniem społeczno-gospodarczym w procesie kształcenia,
+    - **f)** umiędzynarodowienie procesu kształcenia,
+    - **g)** funkcjonowanie potwierdzania efektów uczenia się – mając na uwadze zapewnienie wysokiej jakości kształcenia;
+
+- **4)** podstawowe kryteria i zakres oceny instytucjonalnej, o której mowa w art. 48a ust. 4 i 4a, uwzględniając:
+    - **a)** funkcjonowanie i doskonalenie systemów zapewnienia jakości kształcenia,
+    - **b)** akredytacje lub certyfikaty instytucji międzynarodowych,
+    - **c)** wyniki oceny programowej kierunków studiów prowadzonych w podstawowej jednostce organizacyjnej uczelni,
+    - **d)** zgodność działania podstawowej jednostki organizacyjnej z misją i strategią rozwoju uczelni,
+    - **e)** współdziałanie z otoczeniem społeczno-gospodarczym, w tym współpracę z instytucjami akademickimi i naukowymi w realizacji strategii rozwoju podstawowej jednostki organizacyjnej uczelni – mając na uwadze podnoszenie jakości działania, pomnażanie osiągnięć i efektywne wykorzystanie potencjału ocenianej podstawowej jednostki organizacyjnej uczelni;”;
+
+- **7)** w art. 9a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Podstawowa jednostka organizacyjna uczelni zalicza do minimum kadrowego nauczyciela akademickiego zatrudnionego w pełnym wymiarze czasu pracy, na podstawie złożonego przez niego oświadczenia, o którym mowa w art. 112a, z tym że nauczyciele akademiccy zaliczani do minimum kadrowego kierunków studiów o profilu praktycznym na zasadach, o których mowa w ust. 2 i 3, posiadający doświadczenie zawodowe zdobyte poza uczelnią mogą być zatrudnieni w wymiarze nie mniejszym niż 25% pełnego wymiaru czasu pracy.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Podstawowe jednostki organizacyjne uczelni prowadzące wspólnie kierunek studiów interdyscyplinarnych, o których mowa w art. 10a ust. 1, mogą utworzyć wspólne minimum kadrowe dla tego kierunku studiów.”,
+    - **c)** ust. 2 otrzymuje brzmienie: „2. Podstawowa jednostka organizacyjna uczelni prowadząca studia pierwszego lub drugiego stopnia lub jednolite studia magisterskie o profilu praktycznym może zaliczyć do minimum kadrowego, w miejsce nauczyciela akademickiego posiadającego tytuł naukowy profesora lub stopień naukowy doktora habilitowanego lub będącego osobą, która nabyła uprawnienie równoważne z uprawnieniami doktora habilitowanego na podstawie art. 21a ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, dwie osoby posiadające stopień naukowy doktora i znaczne doświadczenie zawodowe zdobyte poza uczelnią w dziedzinie związanej z kierunkiem studiów.”,
+    - **d)** ust. 4 otrzymuje brzmienie: „4. Liczba osób, o których mowa w ust. 2 lub 3, nie może przekroczyć 50% liczby osób zaliczanych do minimum kadrowego, określonych w przepisach wydanych na podstawie art. 9 ust. 3 pkt 1, w grupie nauczycieli akademickich posiadających tytuł naukowy profesora lub stopień naukowy doktora habilitowanego lub będących osobami, które nabyły uprawnienia równoważne z uprawnieniami doktora habilitowanego na podstawie art. 21a ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, a także 50% liczby osób zaliczonych do grupy nauczycieli akademickich posiadających stopień naukowy doktora.”;
+
+- **8)** w art. 9b po ust.1 dodaje się ust. 1a w brzmieniu: „1a. Minister właściwy do spraw szkolnictwa wyższego w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, standardy kształcenia na kierunku analityka medyczna/medycyna laboratoryjna, uwzględniając wymogi dotyczące kształcenia i szkolenia przygotowujące do wykonywania zawodu diagnosty laboratoryjnego.”;
+- **9)** po art. 10 dodaje się art. 10a w brzmieniu: „Art. 10a. 1. Podstawowe jednostki organizacyjne dwóch lub więcej uczelni, spełniające warunki określone w przepisach wydanych na podstawie art. 9 ust. 3 pkt 1, mogą na podstawie uchwał senatów tych uczelni prowadzić wspólnie kierunek studiów interdyscyplinarnych na określonym poziomie i profilu kształcenia, jeżeli posiadają uprawnienia do nadawania stopnia naukowego doktora habilitowanego, każda w ramach innej dyscypliny naukowej lub artystycznej odpowiadającej kierunkowi studiów interdyscyplinarnych.
+
+2. Sposób prowadzenia studiów, o których mowa w ust. 1, i ich organizację oraz zasady finansowania tych studiów i rozliczania kosztów ich prowadzenia określa umowa zawarta między uczelniami.
+
+3. Absolwent kierunku studiów interdyscyplinarnych otrzymuje wspólny dyplom ukończenia studiów spełniający wymagania określone w przepisach wydanych na podstawie art. 167 ust. 3.”;
+
+- **10)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Podstawowa jednostka organizacyjna uczelni posiadająca uprawnienie do nadawania stopnia naukowego doktora habilitowanego i spełniająca warunki określone w przepisach wydanych na podstawie art. 9 ust. 3 pkt 1 i 2 może prowadzić studia o profilu ogólnoakademickim oraz studia o profilu praktycznym na określonym przez senat uczelni, w drodze uchwały, kierunku studiów i poziomie kształcenia, w ramach obszarów kształcenia oraz dziedzin odpowiadających uprawnieniom do nadawania stopnia naukowego doktora habilitowanego. Uchwała senatu uczelni określa efekty kształcenia, do których są dostosowane programy studiów, w tym plany studiów, odpowiednio do poziomu i profilu kształcenia. W przypadku kierunków studiów wymienionych w art. 9b uchwała senatu uwzględnia standardy kształcenia określone dla tych kierunków.
+
+2. Przepis ust. 1 stosuje się odpowiednio do uczelni, w której nie ma podstawowej jednostki organizacyjnej prowadzącej co najmniej jeden kierunek studiów, jeżeli w jej strukturze występuje co najmniej jedna jednostka organizacyjna posiadająca uprawnienie do nadawania stopnia naukowego doktora habilitowanego.
+
+3. Podstawowa jednostka organizacyjna uczelni nieposiadająca uprawnienia do nadawania stopnia naukowego doktora habilitowanego w obszarze kształcenia i dziedzinie, do których jest przyporządkowany kierunek studiów, spełniająca warunki określone w przepisach wydanych na podstawie art. 9 ust. 3 pkt 1 i 2, a także na podstawie art. 9c – w przypadku kształcenia przygotowującego do wykonywania zawodu nauczyciela, która:
+
+- **1)** posiada uprawnienie do nadawania stopnia naukowego doktora w obszarze kształcenia i dziedzinie, do których jest przyporządkowany kierunek studiów – może uzyskać uprawnienie do prowadzenia, zgodnie z opisem efektów kształcenia określonym przez senat uczelni:
+    - **a)** studiów o profilu praktycznym na tym kierunku i określonym poziomie kształcenia,
+    - **b)** studiów o profilu ogólnoakademickim na tym kierunku i określonym poziomie kształcenia;
+
+- **2)** nie posiada uprawnienia do nadawania stopnia naukowego doktora w obszarze kształcenia i dziedzinie, do których jest przyporządkowany kierunek studiów – może uzyskać uprawnienie do prowadzenia, zgodnie z opisem efektów kształcenia określonym przez senat uczelni:
+    - **a)** studiów o profilu praktycznym na określonym kierunku i poziomie kształcenia,
+    - **b)** studiów o profilu ogólnoakademickim na określonym kierunku i poziomie kształcenia, jeżeli: – prowadzone na tym kierunku studia pierwszego lub drugiego stopnia o profilu praktycznym uzyskały co najmniej pozytywną ocenę jakości kształcenia Polskiej Komisji Akredytacyjnej, – zatrudnia w pełnym wymiarze czasu pracy co najmniej ośmiu nauczycieli akademickich posiadających tytuł naukowy profesora lub stopień naukowy doktora habilitowanego lub będących osobami, które nabyły uprawnienia równoważne z uprawnieniami doktora habilitowanego na podstawie art. 21a ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, dla których uczelnia stanowi podstawowe miejsce pracy, reprezentujących dziedzinę nauki lub sztuki związaną z danym kierunkiem studiów, – prowadzi badania naukowe w dziedzinie związanej z kierunkiem studiów.
+
+4. Podstawowym jednostkom organizacyjnym uczelni, o których mowa w ust. 3, uprawnienie do prowadzenia studiów nadaje, na wniosek rektora, w drodze decyzji, minister właściwy do spraw szkolnictwa wyższego, po zasięgnięciu opinii:
+
+- **1)** Polskiej Komisji Akredytacyjnej – dotyczącej efektów kształcenia określonych przez senat uczelni oraz spełniania warunków określonych w przepisach wydanych na podstawie art. 9 ust. 3 pkt 1 i 2, a także na podstawie art. 9c – w przypadku kształcenia przygotowującego do wykonywania zawodu nauczyciela;
+- **2)** właściwego ministra nadzorującego uczelnię, o którym mowa w art. 33 ust.
+
+2.
+
+5. Podstawowa jednostka organizacyjna uczelni nieposiadająca uprawnienia do nadawania stopnia naukowego doktora habilitowanego w obszarze kształcenia i dziedzinie, do których jest przyporządkowany kierunek studiów, spełniająca warunki określone w przepisach wydanych na podstawie art. 9 ust. 3 pkt 1 i 2 oraz art. 9b, może uzyskać uprawnienie do prowadzenia studiów na kierunku, o którym mowa w art. 9b, na podstawie decyzji ministra właściwego do spraw szkolnictwa wyższego, wydanej po zasięgnięciu opinii Polskiej Komisji Akredytacyjnej i właściwego ministra nadzorującego uczelnię, o którym mowa w art. 33 ust. 2, oraz ministra właściwego do spraw zdrowia – w przypadku uprawnienia do prowadzenia studiów na kierunku lekarskim, kierunku lekarskodentystycznym i kierunku farmacja.
+
+6. Przepisy ust. 3–5 stosuje się odpowiednio do uczelni, w której nie ma podstawowej jednostki organizacyjnej prowadzącej co najmniej jeden kierunek studiów, jeżeli w jej strukturze nie występuje jednostka organizacyjna posiadająca uprawnienie do nadawania stopnia naukowego doktora habilitowanego.
+
+7. Warunkiem wydania decyzji, o której mowa w ust. 5, uprawniającej do prowadzenia studiów na kierunkach pielęgniarstwo lub położnictwo jest uzyskanie akredytacji ministra właściwego do spraw zdrowia na podstawie art. 59 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039, z późn. zm. ).
+
+8. Warunkiem wydania decyzji, o której mowa w ust. 4, uprawniającej do prowadzenia studiów na kierunku analityka medyczna jest uzyskanie zgody ministra właściwego do spraw zdrowia. W przypadku gdy o nadanie uprawnienia wystąpiła podstawowa jednostka organizacyjna uczelni, nad którą nadzór sprawuje minister właściwy do spraw zdrowia, opinia, o której mowa w ust. 4 pkt 2, nie jest wymagana.
+
+9. Podstawowa jednostka organizacyjna uczelni prowadząca kształcenie na określonym kierunku studiów i poziomie kształcenia o profilu praktycznym jest obowiązana uwzględnić w programie kształcenia co najmniej trzymiesięczne praktyki zawodowe. Jednostka ta może organizować kształcenie przemiennie w formie zajęć dydaktycznych realizowanych w uczelni i w formie praktyk odbywanych u pracodawcy, uwzględniając realizację wszystkich efektów kształcenia przewidzianych w programie kształcenia dla tego kierunku, poziomu i profilu kształcenia.
+
+10. Jeżeli senat uczelni określił efekty kształcenia dla danego kierunku, poziomu i profilu kształcenia, przyjmując w całości wzorcowy opis tych efektów określony w przepisach wydanych na podstawie art. 9 ust. 2, opinia Polskiej Komisji Akredytacyjnej, o której mowa w ust. 4 pkt 1, nie obejmuje oceny tych efektów.
+
+11. Senat uczelni, określając efekty kształcenia dla kierunku analityka medyczna, przyjmuje w całości wzorcowy opis efektów kształcenia określony w przepisach wydanych na podstawie art. 9 ust. 2.
+
+12. W publicznej uczelni zawodowej opis efektów kształcenia określa senat, po zasięgnięciu opinii konwentu.
+
+13. Do prowadzenia studiów przez jednostki międzyuczelniane lub jednostki wspólne stosuje się odpowiednio przepisy ust. 1–9 i art. 10a.”;
+
+- **11)** w art. 11a:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. W przypadku wątpliwości co do spełniania warunków do prowadzenia studiów określonych w art. 9a oraz w przepisach wydanych na podstawie art. 9 ust. 3 pkt 1 i 2 oraz art. 9b lub art. 9c przez podstawowe jednostki organizacyjne, o których mowa w art. 11, minister właściwy do spraw szkolnictwa wyższego, po otrzymaniu zawiadomienia rektora o uruchomieniu kształcenia, występuje do Polskiej Komisji Akredytacyjnej z wnioskiem o dokonanie oceny.”,
+    - **b)** dodaje się ust. 4 i 5 w brzmieniu: „4. W przypadku nieuruchomienia studiów na danym kierunku, poziomie i profilu kształcenia w okresie dwóch lat od dnia uzyskania uprawnienia, o którym mowa w art. 11 ust. 3 i 5, uprawnienie to wygasa z mocy prawa.
+
+5. W przypadku gdy uczelnia nie przeprowadziła rekrutacji na dany kierunek, poziom i profil kształcenia w okresie dwóch lat od końca semestru, w którym przeprowadzono ostatnią rekrutację, rekrutacja na ten kierunek zostaje wstrzymana do końca cyklu kształcenia, a uprawnienie do prowadzenia studiów wygasa z mocy prawa z dniem zakończenia cyklu kształcenia na tym kierunku, poziomie i profilu kształcenia.”;
+
+- **12)** w art. 11b:
+    - **a)** ust. 1–3 otrzymują brzmienie: „1. Rektor niezwłocznie zawiadamia ministra właściwego do spraw szkolnictwa wyższego, właściwego ministra nadzorującego uczelnię, o którym mowa w art. 33 ust. 2, i Polską Komisję Akredytacyjną o zaprzestaniu spełniania przez podstawową jednostkę organizacyjną warunków do prowadzenia studiów, w tym o zmianach w stanie zatrudnienia wpływających na posiadanie uprawnienia do prowadzenia studiów.
+
+2. Minister właściwy do spraw szkolnictwa wyższego może podjąć decyzję o cofnięciu albo zawieszeniu podstawowej jednostce organizacyjnej uczelni uprawnienia do prowadzenia studiów na danym kierunku, poziomie i profilu kształcenia w przypadku zaprzestania spełniania przez tę jednostkę warunków do prowadzenia studiów, w tym zmian w stanie zatrudnienia wpływających na posiadanie uprawnienia do prowadzenia studiów.
+
+3. W przypadku negatywnej oceny jakości kształcenia dokonanej przez Polską Komisję Akredytacyjną minister właściwy do spraw szkolnictwa wyższego, uwzględniając w szczególności rodzaj i zakres stwierdzonych naruszeń, może podjąć decyzję o cofnięciu albo zawieszeniu podstawowej jednostce organizacyjnej uczelni uprawnienia do prowadzenia studiów na danym kierunku, poziomie i profilu kształcenia.”, 2, ministra właściwego do spraw zdrowia w przypadku kierunków studiów, o których mowa w art. 11 ust. 5, oraz Polską Komisję Akredytacyjną o podjętych decyzjach w sprawie zawieszenia lub cofnięcia podstawowej jednostce organizacyjnej uprawnień do prowadzenia studiów oraz przywrócenia zawieszonych uprawnień.”,
+
+- **b)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw szkolnictwa wyższego powiadamia właściwego ministra nadzorującego uczelnię, o którym mowa w art. 33 ust.
+- **c)** dodaje się ust. 5 w brzmieniu: „5. Minister właściwy do spraw zdrowia powiadamia ministra właściwego do spraw szkolnictwa wyższego oraz Polską Komisję Akredytacyjną o nieudzieleniu lub cofnięciu podstawowej jednostce organizacyjnej uczelni akredytacji dotyczącej prowadzenia kształcenia na kierunkach pielęgniarstwo lub położnictwo.”;
+- **13)** w art. 11c:
+    - **a)** uchyla się ust. 1,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. W okresie zawieszenia podstawowej jednostce organizacyjnej uczelni uprawnienia do prowadzenia studiów na danym kierunku, poziomie i profilu kształcenia zostają wstrzymane przyjęcia studentów na ten kierunek, poziom i profil kształcenia.”,
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wszczęcie postępowania w sprawie przywrócenia zawieszonego uprawnienia do prowadzenia studiów na określonym kierunku, poziomie i profilu kształcenia następuje na wniosek uczelni złożony do ministra właściwego do spraw szkolnictwa wyższego. W przypadku niezłożenia przez uczelnię wniosku przed upływem dwunastu miesięcy od dnia doręczenia decyzji o zawieszeniu uprawnienia, o której mowa w art. 11b ust. 2 i 3, uprawnienie to wygasa z mocy prawa z upływem ostatniego dnia tego terminu.”,
+    - **d)** ust. 3–5 otrzymują brzmienie: „3. Polska Komisja Akredytacyjna w terminie nie dłuższym niż trzy miesiące od dnia doręczenia jej wniosku, o którym mowa w ust. 2a, wydaje opinię dotyczącą przywrócenia zawieszonego uprawnienia.
+
+4. Po uzyskaniu opinii Polskiej Komisji Akredytacyjnej dotyczącej wniosku, o którym mowa w ust. 2a, minister właściwy do spraw szkolnictwa wyższego wydaje decyzję o przywróceniu albo cofnięciu zawieszonego uprawnienia.
+
+5. W przypadku cofnięcia albo wygaśnięcia uprawnienia do prowadzenia studiów na danym kierunku, poziomie i profilu kształcenia, o których mowa w ust. 2a i 4 oraz w art. 11b ust. 2 i 3, rektor uczelni zapewnia studentom możliwość kontynuowania studiów na tym samym kierunku albo innym kierunku związanym z dyscypliną, do której był przyporządkowany dotychczas prowadzony kierunek studiów.”, 1, uczelnia może utworzyć w tej jednostce ten sam kierunek studiów po upływie dwudziestu czterech miesięcy od dnia wygaśnięcia uprawnienia albo doręczenia decyzji o cofnięciu uprawnienia.
+
+- **e)** uchyla się ust. 6,
+- **f)** ust. 7 otrzymuje brzmienie: „7. W przypadku cofnięcia albo wygaśnięcia uprawnienia do prowadzenia studiów na danym kierunku, poziomie i profilu kształcenia z wnioskiem o przyznanie podstawowej jednostce organizacyjnej, o której mowa w art. 11 ust. 3 i 5, uprawnienia do prowadzenia studiów na tym samym kierunku, poziomie i profilu kształcenia uczelnia może wystąpić po upływie dwudziestu czterech miesięcy od dnia wygaśnięcia uprawnienia albo doręczenia decyzji o cofnięciu uprawnienia.”,
+- **g)** dodaje się ust. 8–10 w brzmieniu: „8. W przypadku cofnięcia albo wygaśnięcia uprawnienia do prowadzenia studiów na danym kierunku, poziomie i profilu kształcenia podstawowej jednostce organizacyjnej uczelni, o której mowa w art. 11 ust.
+
+9. W przypadku wydania przez ministra właściwego do spraw szkolnictwa wyższego decyzji o cofnięciu albo zawieszeniu podstawowej jednostce organizacyjnej uczelni, o której mowa w art. 11 ust. 3 i 5, uprawnienia do prowadzenia studiów na danym kierunku, poziomie i profilu kształcenia uczelnia może wystąpić z wnioskiem o przyznanie tej jednostce uprawnienia do prowadzenia studiów na innym kierunku, poziomie i profilu kształcenia po upływie dwunastu miesięcy od dnia doręczenia decyzji o cofnięciu albo zawieszeniu uprawnienia.
+
+10. W przypadku wydania przez ministra właściwego do spraw szkolnictwa wyższego decyzji o cofnięciu albo zawieszeniu podstawowej jednostce organizacyjnej uczelni, o której mowa w art. 11 ust. 1, uprawnienia do prowadzenia studiów na danym kierunku, poziomie i profilu kształcenia uczelnia może utworzyć w tej jednostce inny kierunek studiów po upływie dwunastu miesięcy od dnia doręczenia decyzji o cofnięciu albo zawieszeniu uprawnienia.”;
+
+- **14)** po art. 11c dodaje się art. 11ca w brzmieniu: „Art. 11ca. Przepisy art. 11a–11c stosuje się odpowiednio do uczelni prowadzącej kierunek studiów zgodnie z art. 2 ust. 4 pkt 2.”;
+- **15)** w art. 11d:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W przypadku połączenia podstawowych jednostek organizacyjnych uczelni lub zmiany nazwy podstawowej jednostki organizacyjnej uprawnienia do prowadzenia kierunków studiów na określonym poziomie i profilu kształcenia zachowuje nowo utworzona podstawowa jednostka organizacyjna lub podstawowa jednostka organizacyjna o nowej nazwie, jeżeli spełniają one warunki określone w przepisach wydanych na podstawie art. 9 ust. 3 pkt 1 i 2.”,
+    - **b)** uchyla się ust. 2,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. W przypadku podziału podstawowej jednostki organizacyjnej uczelni każde posiadane uprawnienie do prowadzenia studiów na określonym kierunku, poziomie i profilu kształcenia może zachować tylko jedna z nowo utworzonych podstawowych jednostek organizacyjnych uczelni, jeżeli spełnia ona warunki określone w przepisach wydanych na podstawie art. 9 ust. 3 pkt 1 i 2.”,
+    - **d)** po ust. 3 dodaje się ust. 3a–3c w brzmieniu: „3a. W przypadkach, o których mowa w ust. 1 i 3, uprawnienia do prowadzenia kierunków studiów na określonym poziomie i profilu kształcenia nie mogą być przenoszone poza siedzibę uczelni na zamiejscowe jednostki organizacyjne, o których mowa w art. 85 ust. 1.
+
+3b. W przypadku utworzenia zamiejscowej jednostki organizacyjnej, o której mowa w art. 85 ust. 1, w wyniku podziału podstawowej jednostki organizacyjnej uczelni, zamiejscowa jednostka organizacyjna może uzyskać uprawnienie do prowadzenia studiów na określonym kierunku, poziomie i profilu kształcenia, zgodnie z art. 11.
+
+3c. Przepisów ust. 3a i 3b nie stosuje się w przypadku zmiany struktury organizacyjnej uczelni w wyniku połączenia uczelni.”,
+
+- **e)** ust. 4 otrzymuje brzmienie: „4. Rektor uczelni jest obowiązany zawiadomić ministra właściwego do spraw szkolnictwa wyższego, ministra nadzorującego uczelnię oraz Polską Komisję Akredytacyjną o zmianie, o której mowa w ust. 1 lub 3, w terminie miesiąca od dnia jej dokonania.”;
+- **16)** po art. 11d dodaje się art. 11e w brzmieniu: „Art. 11e. Przepisy art. 11d stosuje się odpowiednio do przekształcenia uczelni:
+- **1)** nieposiadającej podstawowych jednostek organizacyjnych w uczelnię posiadającą podstawowe jednostki organizacyjne;
+- **2)** posiadającej podstawowe jednostki organizacyjne w uczelnię nieposiadającą podstawowych jednostek organizacyjnych.”;
+- **17)** w art. 13:
+    - **a)** w ust. 1: – pkt 3 otrzymuje brzmienie: „3) prowadzenie badań naukowych i prac rozwojowych, świadczenie usług badawczych oraz transfer technologii do gospodarki;”, – pkt 9 otrzymuje brzmienie: „9) stwarzanie osobom niepełnosprawnym warunków do pełnego udziału w:
+    - **a)** procesie kształcenia,
+    - **b)** badaniach naukowych.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Uczelnia zawodowa prowadząca wyłącznie studia o profilu praktycznym nie jest obowiązana do wykonywania zadań określonych w ust. 1 pkt 3, 4 i 9 lit. b.”;
+
+- **18)** uchyla się art. 13a;
+- **19)** po art. 13a dodaje się art. 13b w brzmieniu: „Art. 13b. 1. Minister właściwy do spraw szkolnictwa wyższego prowadzi monitoring karier zawodowych absolwentów, zwany dalej „monitoringiem”.
+
+2. Monitoring jest prowadzony na podstawie danych zawartych w wykazie, o którym mowa w art. 170c, oraz danych gromadzonych przez Zakład Ubezpieczeń Społecznych na kontach ubezpieczonych lub kontach płatników składek.
+
+3. Minister właściwy do spraw szkolnictwa wyższego przekazuje w formie elektronicznej Zakładowi Ubezpieczeń Społecznych raz w roku, w terminie do końca września, dane absolwentów, którzy ukończyli studia w okresie pięciu lat kalendarzowych poprzedzających rok przekazania danych, obejmujące:
+
+- **1)** numer PESEL, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość oraz kraj wydania dokumentu tożsamości;
+- **2)** informacje o ukończonych oraz odbywanych studiach, w tym:
+    - **a)** nazwę uczelni,
+    - **b)** nazwę jednostki prowadzącej studia,
+    - **c)** formę studiów oraz kierunek, poziom i profil kształcenia,
+    - **d)** rok i miesiąc rozpoczęcia studiów,
+    - **e)** rok i miesiąc ukończenia studiów.
+
+4. Zakład Ubezpieczeń Społecznych przekazuje w formie elektronicznej ministrowi właściwemu do spraw szkolnictwa wyższego, w terminie trzech miesięcy od dnia otrzymania danych, o których mowa w ust. 3, dane określone w ust. 3 pkt 2, uzupełnione o:
+
+- **1)** kod osoby ubezpieczonej wygenerowany przez Zakład Ubezpieczeń Społecznych, niepozwalający na identyfikację absolwenta;
+- **2)** rok urodzenia i płeć osoby ubezpieczonej;
+- **3)** kod tytułu ubezpieczenia;
+- **4)** pierwsze trzy cyfry kodu pocztowego adresu zameldowania lub adresu zamieszkania, lub adresu do korespondencji osoby ubezpieczonej;
+- **5)** kod Polskiej Klasyfikacji Działalności płatnika składek;
+- **6)** kod płatnika składek wygenerowany przez Zakład Ubezpieczeń Społecznych, niepozwalający na identyfikację płatnika;
+- **7)** podstawę wymiaru składek na ubezpieczenie emerytalne i rentowe osoby ubezpieczonej lub podstawę wymiaru składek na ubezpieczenie wypadkowe osoby ubezpieczonej, lub podstawę wymiaru składek na ubezpieczenie zdrowotne.
+
+5. Dane, o których mowa w ust. 4, są przekazywane za okres od stycznia roku, w którym dany rocznik absolwentów objętych monitoringiem ukończył studia, do miesiąca przekazania danych, o których mowa w ust. 3, przez ministra właściwego do spraw szkolnictwa wyższego. Dane są przekazywane w podziale na miesiące tego okresu.
+
+6. Zakład Ubezpieczeń Społecznych dokonuje połączenia danych, o których mowa w ust. 3 i ust. 4 pkt 2–7.
+
+7. W procesie tworzenia zbioru danych, o których mowa w ust. 4, Zakład Ubezpieczeń Społecznych nie zapisuje na trwałym nośniku danych zawierających numer PESEL.
+
+8. Zakład Ubezpieczeń Społecznych przechowuje dane, o których mowa w ust. 3, do dnia przekazania ministrowi właściwemu do spraw szkolnictwa wyższego danych, o których mowa w ust. 4.
+
+9. Minister właściwy do spraw szkolnictwa wyższego nie upublicznia ani nie udostępnia danych, o których mowa w ust. 4.
+
+10. Wyniki monitoringu w postaci zagregowanej, przedstawiające w szczególności losy zawodowe grup absolwentów po roku, trzech latach i pięciu latach od ukończenia studiów, udostępnia się na stronie internetowej urzędu obsługującego ministra właściwego do spraw szkolnictwa wyższego. Nie udostępnia się zagregowanych wyników monitoringu obejmujących mniej niż dziesięć osób.
+
+11. Minister właściwy do spraw szkolnictwa wyższego przechowuje dane, o których mowa w ust. 4, przez okres pięciu lat od dnia przekazania danych przez Zakład Ubezpieczeń Społecznych.
+
+12. W celu dostosowania programu kształcenia do potrzeb rynku pracy uczelnia może prowadzić własny monitoring karier zawodowych swoich absolwentów.
+
+13. W celu prowadzenia monitoringu, o którym mowa w ust. 12, uczelnia może przetwarzać dane osobowe absolwentów obejmujące:
+
+- **1)** imiona i nazwisko;
+- **2)** adres do korespondencji.”;
+- **20)** w art. 15 ust. 2–4 otrzymują brzmienie: „2. Środki finansowe niezbędne do funkcjonowania Polskiej Komisji Akredytacyjnej są zapewniane w części budżetu państwa, której dysponentem jest minister właściwy do spraw szkolnictwa wyższego. Środki finansowe niezbędne do funkcjonowania Rady Głównej Nauki i Szkolnictwa Wyższego, komisji dyscyplinarnej przy tej Radzie, komisji dyscyplinarnej powołanej przez ministra właściwego do spraw szkolnictwa wyższego oraz rzeczników dyscyplinarnych powołanych przez ministra właściwego do spraw szkolnictwa wyższego są zapewniane w częściach budżetu państwa, których dysponentami są minister właściwy do spraw szkolnictwa wyższego i minister właściwy do spraw nauki. Funkcjonowanie Rzecznika Praw Absolwenta jest finansowane w ramach środków przyznanych Radzie.
+
+3. Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, wysokość wynagrodzenia członków Rady Głównej Nauki i Szkolnictwa Wyższego, członków Polskiej Komisji Akredytacyjnej, wyznaczanych przez nie recenzentów i ekspertów, członków komisji dyscyplinarnej przy tej Radzie, członków komisji dyscyplinarnej powołanej przez ministra właściwego do spraw szkolnictwa wyższego, rzeczników dyscyplinarnych powołanych przez ministra właściwego do spraw szkolnictwa wyższego oraz Rzecznika Praw Absolwenta, uwzględniając zasadę, że wysokość wynagrodzenia będzie ustalana w relacji do minimalnej stawki wynagrodzenia zasadniczego profesora zwyczajnego, określonej w przepisach o wynagradzaniu nauczycieli akademickich, w wysokości adekwatnej do wykonywanych zadań.
+
+4. Zwrot kosztów podróży członkom Rady Głównej Nauki i Szkolnictwa Wyższego, członkom Polskiej Komisji Akredytacyjnej i wyznaczonym przez nie recenzentom i ekspertom, członkom komisji dyscyplinarnej przy tej Radzie, członkom komisji dyscyplinarnej powołanej przez ministra właściwego do spraw szkolnictwa wyższego, rzecznikom dyscyplinarnym powołanym przez ministra właściwego do spraw szkolnictwa wyższego oraz Rzecznikowi Praw Absolwenta następuje na zasadach określonych w przepisach wydanych na podstawie art. 77 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ).”;
+
+- **21)** w art. 18:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Utworzenie publicznej uczelni akademickiej, jej likwidacja oraz połączenie z inną uczelnią publiczną następują w drodze ustawy, z zastrzeżeniem ust. 6.”,
+    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Zmiana nazwy publicznej uczelni akademickiej następuje w drodze rozporządzenia ministra właściwego do spraw szkolnictwa wyższego, z zastrzeżeniem ust. 1b.
+
+1b. Zmiany nazwy publicznej uczelni akademickiej dokonuje, w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego, w drodze rozporządzenia:
+
+- **1)** Minister Obrony Narodowej – w odniesieniu do uczelni wojskowych;
+- **2)** minister właściwy do spraw wewnętrznych – w odniesieniu do uczelni służb państwowych;
+- **3)** minister właściwy do spraw kultury i ochrony dziedzictwa narodowego – w odniesieniu do uczelni artystycznych;
+- **4)** minister właściwy do spraw zdrowia – w odniesieniu do uczelni medycznych;
+- **5)** minister właściwy do spraw gospodarki morskiej – w odniesieniu do uczelni morskich.”;
+- **22)** w art. 20 w ust. 5 pkt 1 otrzymuje brzmienie: „1) została skazana prawomocnym wyrokiem za przestępstwo umyślne lub umyślne przestępstwo skarbowe;”;
+- **23)** po art. 23 dodaje się art. 23a w brzmieniu: „Art. 23a. Minister właściwy do spraw szkolnictwa wyższego może cofnąć pozwolenie na utworzenie uczelni niepublicznej, w przypadku gdy:
+- **1)** po dniu wydania decyzji o pozwoleniu na utworzenie uczelni niepublicznej zaistniały przesłanki określone w art. 20 ust. 5 lub 6;
+- **2)** wszystkie uprawnienia podstawowych jednostek organizacyjnych uczelni do prowadzenia kierunków studiów zostały cofnięte lub wygasły;
+- **3)** działania lub zaniechania założyciela uczelni uniemożliwiają jej funkcjonowanie zgodnie z prawem;
+- **4)** uczelnia uniemożliwia lub utrudnia przeprowadzenie oceny przez Polską Komisję Akredytacyjną;
+- **5)** uczelnia lub jej założyciel uniemożliwiają lub utrudniają przeprowadzenie kontroli działalności uczelni, o której mowa w art. 34 ust. 1, lub w wyznaczonym terminie nie zaprzestali działalności niezgodnej z przepisami prawa, statutem lub pozwoleniem, o którym mowa w art. 20 ust. 2, i nie usunęli jej skutków lub nie zrealizowali wniosków lub zaleceń, o których mowa w art. 37 ust. 1 lub 2.”;
+- **24)** po art. 25 dodaje się art. 25a w brzmieniu: „Art. 25a. 1. W przypadku połączenia uczelni niepublicznych nowo powstała uczelnia wstępuje w prawa i obowiązki łączonych uczelni, w tym w prawa i obowiązki nabyte przez te uczelnie na podstawie decyzji ministra właściwego do spraw szkolnictwa wyższego.
+
+2. W przypadku włączenia uczelni niepublicznej do innej uczelni niepublicznej przepis ust. 1 stosuje się odpowiednio.”;
+
+- **25)** w art. 26:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Postawienie uczelni niepublicznej w stan likwidacji następuje z mocy prawa z dniem, w którym decyzja o cofnięciu pozwolenia na utworzenie uczelni niepublicznej stała się ostateczna; dzień ten jest dniem otwarcia likwidacji.”,
+    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. W okresie likwidacji uczelnia używa nazwy z dodaniem oznaczenia „w likwidacji”.
+
+2b. Minister właściwy do spraw szkolnictwa wyższego dokonuje w rejestrze uczelni niepublicznych i związków uczelni niepublicznych wpisu o dodaniu do nazwy uczelni oznaczenia „w likwidacji”.”;
+
+- **26)** w art. 27:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Likwidację uczelni niepublicznej prowadzi likwidator powołany przez założyciela w trybie określonym w statucie.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Jeżeli założyciel uczelni niepublicznej nie powoła w terminie likwidatora, minister właściwy do spraw szkolnictwa wyższego powołuje likwidatora uczelni oraz wyznacza termin zakończenia likwidacji. Koszty likwidacji uczelni i wynagrodzenia likwidatora są pokrywane zgodnie z zasadami określonymi w ust. 6 i 6a.”,
+    - **c)** w ust. 4 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „3) uczelnia traci prawo do otrzymywania z budżetu państwa dotacji podmiotowych, o których mowa w art. 94 ust. 4a oraz art. 94b;
+
+- **4)** dotacja podmiotowa na zadania związane z bezzwrotną pomocą materialną dla studentów i doktorantów, o której mowa w art. 94 ust. 4, jest przekazywana uczelni w zakresie niezbędnym do realizacji tych zadań.”,
+    - **d)** ust. 6 otrzymuje brzmienie: „6. Koszty likwidacji uczelni niepublicznej, w tym koszty wynagrodzenia likwidatora, są pokrywane z jej majątku, z pierwszeństwem przed roszczeniami wierzycieli.”,
+    - **e)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. W przypadku gdy koszty likwidacji uczelni niepublicznej przekraczają jej majątek, koszty wynagrodzenia likwidatora są pokrywane z majątku założyciela uczelni niepublicznej.”;
+
+- **27)** w art. 28: 14, uczelnie mogą utworzyć związek uczelni publicznych albo związek uczelni niepublicznych.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W celu wspierania realizacji zadań, o których mowa w art. 13 i art.
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Zadaniem związku uczelni jest w szczególności optymalizacja wykorzystania zasobów uczelni tworzących związek, która może być realizowana przez:
+
+- **1)** administrowanie wydzielonym majątkiem uczelni;
+- **2)** prowadzenie obsługi administracyjnej w zakresie kształcenia, systemu pomocy materialnej i biur karier;
+- **3)** prowadzenie działalności wydawniczej uczelni;
+- **4)** obsługę uczelni w zakresie finansowym, kadrowym, pomocy prawnej i zamówień publicznych;
+- **5)** wspieranie badań naukowych i prac rozwojowych prowadzonych w uczelniach.”,
+    - **c)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Do związku uczelni i realizowanych przez niego zadań na rzecz uczelni tworzących związek, w zakresie, o którym mowa w ust. 1 i 1a, stosuje się przepisy art. 91.
+
+2b. Związek uczelni może prowadzić działalność gospodarczą wyodrębnioną finansowo od działalności, o której mowa w ust. 1 i 1a, w zakresie i formach określonych w statucie.”,
+
+- **d)** ust. 3 otrzymuje brzmienie: „3. Utworzenie związku uczelni, zmiana jego nazwy, zmiana w jego składzie oraz jego likwidacja następują w drodze decyzji ministra właściwego do spraw szkolnictwa wyższego po podjęciu przez właściwe organy kolegialne zainteresowanych uczelni uchwał o utworzeniu związku, określających w szczególności uczestników związku, jego nazwę, siedzibę, zadania oraz składniki mienia przekazywane przez uczestników w celu wykonywania zadań związku oraz projekt statutu związku.”,
+- **e)** uchyla się ust. 3a i 4,
+- **f)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W przypadku tworzenia związku uczelni publicznych z udziałem uczelni nadzorowanych przez ministrów, o których mowa w art. 33 ust. 2, wydanie decyzji, o której mowa w ust. 3, następuje po zasięgnięciu opinii właściwego ministra.”,
+- **g)** ust. 5 otrzymuje brzmienie: „5. Statut związku uczelni określa jego uczestników, ustrój, w tym organy jednoosobowe i kolegialne, tryb ich wyboru, odwołania i uzupełniania składu oraz kompetencje, zasady zatrudniania przez związek pracowników, zasady funkcjonowania oraz zasady finansowania związku ze środków jego uczestników, a także tryb likwidacji związku, zadysponowanie składnikami materialnymi i niematerialnymi pozostałymi po zaspokojeniu wierzycieli w przypadku likwidacji związku albo zmiany jego składu.”,
+- **h)** uchyla się ust. 6,
+- **i)** ust. 7 otrzymuje brzmienie: „7. Związek uczelni i uczelnie wchodzące w jego skład mogą zostać przekształcone w uczelnię w trybie właściwym dla połączenia uczelni publicznych albo uczelni niepublicznych.”;
+- **28)** w art. 29:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Wpis uczelni niepublicznej do rejestru jest dokonywany na wniosek jej założyciela, a w przypadku związku uczelni niepublicznych – na zgodny wniosek wszystkich założycieli uczelni tworzących związek.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw szkolnictwa wyższego odmawia wpisania uczelni niepublicznej lub związku uczelni niepublicznych do rejestru, jeżeli akt założycielski lub statut jest niezgodny z przepisami prawa lub udzielonym pozwoleniem.”;
+
+- **29)** po art. 29 dodaje się art. 29a w brzmieniu: „Art. 29a. 1. Związek uczelni publicznych uzyskuje osobowość prawną z chwilą wpisania do rejestru związków uczelni publicznych.
+
+2. Wpis związku uczelni publicznych do rejestru związków uczelni publicznych jest dokonywany na zgodny wniosek wszystkich uczelni tworzących związek.
+
+3. Rejestr związków uczelni publicznych prowadzi minister właściwy do spraw szkolnictwa wyższego.
+
+4. Minister właściwy do spraw szkolnictwa wyższego odmawia wpisania związku uczelni publicznych do rejestru związków uczelni publicznych, jeżeli statut związku jest niezgodny z przepisami prawa.
+
+5. Rejestr związków uczelni publicznych jest jawny. Każdy ma prawo:
+
+- **1)** dostępu do danych zawartych w rejestrze;
+- **2)** do otrzymania poświadczonych odpisów, wyciągów i zaświadczeń o danych zawartych w rejestrze.
+
+6. Za wydawanie odpisów, wyciągów i zaświadczeń, o których mowa w ust. 5 pkt 2, jest pobierana opłata. Opłata stanowi dochód budżetu państwa.
+
+7. Minister właściwy do spraw szkolnictwa wyższego określa, w drodze rozporządzenia:
+
+- **1)** sposób prowadzenia rejestru związków uczelni publicznych, uwzględniając dane, jakie musi zawierać wniosek o wpisanie związku uczelni publicznych do rejestru związków uczelni publicznych, w tym rodzaj dokumentów, które należy dołączyć do wniosku, nazwy rubryk rejestru związków uczelni publicznych, tryb dokonywania w nim wpisów i zmian oraz warunki wykreślenia z rejestru związków uczelni publicznych;
+- **2)** szczegółowy tryb udostępniania rejestru związków uczelni publicznych, uwzględniając sposób sporządzania i wydawania odpisów, wyciągów i zaświadczeń, o których mowa w ust. 5 pkt 2, oraz wysokość opłat za ich wydawanie.”;
+- **30)** art. 30 otrzymuje brzmienie: „Art. 30. Udzielenie albo odmowa udzielenia pozwolenia na utworzenie uczelni niepublicznej, cofnięcie pozwolenia na utworzenie uczelni niepublicznej, nadanie i odmowa nadania uprawnienia do prowadzenia studiów na danym kierunku, poziomie i profilu kształcenia, zawieszenie lub cofnięcie oraz przywrócenie uprawnienia do prowadzenia studiów na danym kierunku, poziomie i profilu kształcenia, pozwolenie na połączenie uczelni niepublicznych, wpis albo odmowa wpisu związku uczelni publicznych do rejestru związków uczelni publicznych, wpis albo odmowa wpisu uczelni niepublicznej lub związku uczelni niepublicznych do rejestru, zarządzenie wpisu w rejestrze związków uczelni publicznych albo w rejestrze oraz nakaz likwidacji uczelni niepublicznej następują w drodze decyzji administracyjnej.”;
+- **31)** art. 32 otrzymuje brzmienie: „Art. 32. 1. Minister właściwy do spraw szkolnictwa wyższego ogłasza w wydawanym przez siebie dzienniku urzędowym wykaz uczelni i związków uczelni.
+
+2. Wykaz, o którym mowa w ust. 1, zamieszcza się na stronie internetowej urzędu obsługującego ministra właściwego do spraw szkolnictwa wyższego.”;
+
+- **32)** w art. 34 ust. 1a otrzymuje brzmienie: „1a. Do kontroli, o której mowa w ust. 1, stosuje się przepisy o kontroli w administracji rządowej.”;
+- **33)** w art. 34a: 1 i 2 oraz ust. 3 pkt 2 i 3 oraz art. 100 ust. 3, repozytorium, o którym mowa w art. 167b ust. 1, wykazy, o których mowa w art. 129a, art. 170c i art. 201a, a także wykazy, o których mowa w art. 31a ust. 1 i art. 31b ust. 1, oraz bazę, o której mowa w art. 31d ust. 1 ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki.”, 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114) prowadzonym przez ministra właściwego do spraw szkolnictwa wyższego oraz ministra właściwego do spraw nauki.
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw szkolnictwa wyższego prowadzi System Informacji o Szkolnictwie Wyższym w ramach Zintegrowanego Systemu Informacji o Nauce i Szkolnictwie Wyższym „POL-on”, zwany dalej „Systemem POL-on”, obejmujący dane, o których mowa w art. 35 ust.
+    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Zintegrowany System Informacji o Nauce i Szkolnictwie Wyższym „POL-on” jest systemem teleinformatycznym w rozumieniu art.
+
+1b. Dane osobowe zgromadzone w Systemie POL-on nie są podawane do publicznej wiadomości, z wyłączeniem następujących danych zamieszczonych w:
+
+- **1)** ogólnopolskim wykazie osób, którym nadano stopień doktora lub doktora habilitowanego, o którym mowa w art. 31a ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki:
+    - **a)** imion i nazwiska,
+    - **b)** nadanego stopnia,
+    - **c)** obszaru wiedzy, dziedziny nauki lub sztuki, dyscypliny naukowej lub artystycznej, a także specjalności – jeżeli została określona,
+    - **d)** danych jednostki organizacyjnej, która nadała stopień;
+
+- **2)** ogólnopolskim wykazie osób, którym nadano tytuł profesora, o którym mowa w art. 31b ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki:
+    - **a)** imion i nazwiska,
+    - **b)** daty nadania tytułu,
+    - **c)** obszaru wiedzy i dziedziny nauki albo sztuki;
+
+- **3)** ogólnopolskim wykazie nauczycieli akademickich i pracowników naukowych, o którym mowa w art. 129a:
+    - **a)** imion i nazwiska,
+    - **b)** tytułu zawodowego, stopnia naukowego lub tytułu naukowego,
+    - **c)** informacji o podstawowym miejscu pracy i miejscu dodatkowego zatrudnienia.”,
+    - **c)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw szkolnictwa wyższego może zlecić instytutowi badawczemu administrowanie bazami danych Systemu POLon, zapewniając na ten cel środki finansowe.”,
+    - **d)** dodaje się ust. 3–6 w brzmieniu: „3. Dane do Systemu POL-on wprowadzają, aktualizują, archiwizują i usuwają podmioty, o których mowa w art. 129a ust. 3, art. 167b ust. 4 zdanie pierwsze, art. 170c ust. 2a i art. 201a ust. 3 oraz w art. 31a ust. 3, art. 31b ust. 3 i art. 31d ust. 3 ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, a także Centrum Medyczne Kształcenia Podyplomowego oraz uczelnie prowadzone przez kościoły i związki wyznaniowe otrzymujące dotacje i inne środki z budżetu państwa.
+
+4. Rektor uczelni corocznie składa w Systemie POL-on oświadczenie potwierdzające, że dane, o których mowa w ust. 1, wprowadzone przez niego do Systemu POL-on, są zgodne ze stanem faktycznym. Oświadczenie nie obejmuje danych wprowadzanych do repozytorium, o których mowa w art. 167b ust. 2. Oświadczenie dotyczące liczby studentów składa się do dnia 15 grudnia według stanu na dzień 30 listopada, oświadczenie dotyczące danych, o których mowa w art. 35 ust. 2 oraz art. 100 ust. 3 – jednocześnie z przekazaniem tych danych w Systemie POL-on, a oświadczenie w pozostałym zakresie – do dnia 15 stycznia według stanu na dzień 31 grudnia.
+
+5. Przepis ust. 4 stosuje się odpowiednio do Przewodniczącego Centralnej Komisji do Spraw Stopni i Tytułów, dyrektora Centrum Medycznego Kształcenia Podyplomowego, dyrektora instytutu naukowego i pomocniczej jednostki naukowej Polskiej Akademii Nauk, dyrektora instytutu badawczego, dyrektora państwowej jednostki organizacyjnej podległej Ministrowi Sprawiedliwości, prowadzącej działalność naukową i badawczo-rozwojową, oraz dyrektora międzynarodowego instytutu naukowego utworzonego na podstawie odrębnych przepisów, działającego na terytorium Rzeczypospolitej Polskiej.
+
+6. Dostęp do danych zawartych w Systemie POL-on, o których mowa w ust. 1, przysługuje Prezesowi Głównego Urzędu Statystycznego w zakresie wynikającym z przepisów o statystyce publicznej.”;
+
+- **34)** w art. 35: 196 ust. 6.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Rektor uczelni przedstawia, w terminie do dnia 30 listopada roku następującego po roku sprawozdawczym, ministrowi właściwemu do spraw szkolnictwa wyższego roczne sprawozdanie z działalności uczelni.”,
+    - **b)** w ust. 3 pkt 5 otrzymuje brzmienie: „5) przyjęcia lub zmiany regulaminu studiów lub regulaminu studiów doktoranckich oraz zasad i trybu przyjmowania na studia i studia doktoranckie wraz z uchwałami odpowiednio uczelnianego organu uchwałodawczego samorządu studenckiego podjętymi na podstawie art. 161 ust. 2 lub uczelnianego organu uchwałodawczego samorządu doktorantów podjętymi na podstawie art. 161 ust. 2 w związku z art.
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Przepis ust. 3 pkt 1 stosuje się odpowiednio do organu zarządzającego związku uczelni.”,
+    - **d)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Przepis ust. 3 pkt 1 stosuje się odpowiednio do założyciela uczelni niepublicznej w przypadku nadania statutu przez założyciela.”,
+    - **e)** uchyla się ust. 7,
+    - **f)** dodaje się ust. 8 w brzmieniu: „8. Sprawozdania, o których mowa w ust. 1 i 2, składa się za pomocą formularzy w Systemie POL-on.”;
+
+- **35)** w art. 36:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw szkolnictwa wyższego stwierdza nieważność:
+
+- **1)** uchwały organu kolegialnego uczelni lub decyzji rektora uczelni, z wyłączeniem decyzji administracyjnej – w przypadku stwierdzenia jej niezgodności z przepisami prawa lub statutem uczelni,
+- **2)** decyzji założyciela uczelni niepublicznej w sprawie nadania statutu – w przypadku stwierdzenia jej niezgodności z przepisami prawa – nie później niż w terminie dwóch miesięcy od dnia otrzymania uchwały lub decyzji.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Na rozstrzygnięcie ministra właściwego do spraw szkolnictwa wyższego w sprawie stwierdzenia nieważności uchwały lub decyzji służy, w terminie trzydziestu dni od dnia jego doręczenia, skarga do właściwego sądu administracyjnego. Przepisy o zaskarżaniu do sądu administracyjnego decyzji z zakresu administracji publicznej stosuje się odpowiednio.”;
+
+- **36)** art. 37 otrzymuje brzmienie: „Art. 37. 1. Jeżeli uczelnia lub założyciel uczelni niepublicznej naruszają przepisy prawa, statut lub pozwolenie, o którym mowa w art. 20 ust. 2, minister właściwy do spraw szkolnictwa wyższego wzywa organy uczelni lub założyciela uczelni niepublicznej do zaprzestania tej działalności i usunięcia jej skutków, wyznaczając w tym celu odpowiedni termin.
+
+2. Przepis ust. 1 stosuje się w przypadku stwierdzenia, że uczelnia lub założyciel uczelni niepublicznej nie zrealizowali wniosków lub zaleceń sporządzonych w wyniku kontroli działalności uczelni, o której mowa w art. 34 ust. 1.
+
+3. Uprawnienia ministra właściwego do spraw szkolnictwa wyższego, o których mowa w ust. 1 i 2, w odniesieniu do uczelni wojskowych, służb państwowych, artystycznych, medycznych oraz morskich wykonują odpowiednio ministrowie wskazani w art. 33 ust. 2 w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego.”;
+
+- **37)** w art. 37a ust. 4 otrzymuje brzmienie: „4. Uprawnienia ministra właściwego do spraw szkolnictwa wyższego określone w ust. 1–3 w odniesieniu do uczelni wojskowych, służb państwowych, artystycznych, medycznych oraz morskich wykonują odpowiednio ministrowie wskazani w art. 33 ust. 2 w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego.”;
+- **38)** po art. 37a dodaje się art. 37b w brzmieniu: „Art. 37b. 1. Minister właściwy do spraw szkolnictwa wyższego zamieszcza na stronie internetowej obsługującego go urzędu oraz w Systemie POL-on listę ostrzeżeń zawierającą informacje o uczelniach dotyczące:
+- **1)** podstawowych jednostek organizacyjnych uczelni, które otrzymały negatywną ocenę programową na prowadzonych kierunkach studiów;
+- **2)** zawieszonych lub cofniętych uprawnień do prowadzenia studiów na określonym kierunku, poziomie i profilu kształcenia;
+- **3)** wygaśnięcia uprawnień do prowadzenia studiów na określonym kierunku, poziomie i profilu kształcenia;
+- **4)** cofnięcia pozwolenia na utworzenie uczelni niepublicznej;
+- **5)** likwidacji uczelni niepublicznej.
+
+2. Informację, o której mowa w ust. 1 pkt 1, zamieszcza się w terminie siedmiu dni od dnia uprawomocnienia się uchwały prezydium Polskiej Komisji Akredytacyjnej lub dnia przedstawienia ministrowi właściwemu do spraw szkolnictwa wyższego uchwały dotyczącej ponownego rozpatrzenia sprawy.
+
+3. Informacje, o których mowa w ust. 1 pkt 2–5, zamieszcza się w terminie siedmiu dni od dnia podjęcia decyzji w tych sprawach.”;
+
+- **39)** w art. 38:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw szkolnictwa wyższego może wystąpić do senatu uczelni z wnioskiem o odwołanie rektora w przypadku stwierdzenia naruszenia przez rektora przepisów prawa lub statutu. Senat uczelni po zaopiniowaniu wniosku przekazuje go organowi właściwemu do odwołania rektora albo założycielowi uczelni niepublicznej, jeżeli jest właściwy do odwołania rektora.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Rektor zostaje zawieszony w pełnieniu funkcji z mocy prawa, w przypadku gdy toczy się przeciwko niemu postępowanie karne z oskarżenia publicznego o przestępstwo umyślne lub postępowanie o umyślne przestępstwo skarbowe.”,
+    - **c)** po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „5a. Opinie, o których mowa w ust. 5, są przedstawiane ministrowi właściwemu do spraw szkolnictwa wyższego w terminie trzydziestu dni od dnia doręczenia wniosku o ich wydanie.
+
+5b. W przypadku bezskutecznego upływu terminu, o którym mowa w ust. 5a, wymóg zasięgnięcia opinii uważa się za spełniony.”,
+
+- **d)** dodaje się ust. 7 w brzmieniu: „7. W sprawach, o których mowa w ust. 1–5b, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267 oraz z 2014 r. poz. 183).”;
+- **40)** art. 39 otrzymuje brzmienie: „Art. 39. Przepisy art. 33, art. 34, art. 36 ust. 1 oraz art. 37 stosuje się odpowiednio do związku uczelni.”;
+- **41)** w art. 40 dodaje się ust. 5 w brzmieniu: „5. Minister właściwy do spraw kultury fizycznej w uzgodnieniu z ministrem właściwym do spraw szkolnictwa wyższego, po zasięgnięciu opinii senatu uczelni publicznej prowadzącej kształcenie w zakresie sportu, może zlecić tej uczelni wykonanie określonego zadania w dziedzinie nauczania lub kształcenia kadr dla potrzeb sportu, zapewniając odpowiednie środki na jego realizację.”;
+- **42)** po art. 40 dodaje się art. 40a i art. 40b w brzmieniu: „Art. 40a. 1. Minister Obrony Narodowej może zlecić uczelni wojskowej wykonanie zadania związanego z działaniem uczelni jako jednostki wojskowej, jeżeli zadanie to jest niezbędne ze względu na potrzeby obronności i bezpieczeństwa publicznego, stan klęski żywiołowej lub w celu wykonania zobowiązań międzynarodowych.
+
+2. Środki niezbędne do wykonania zadania, o którym mowa w ust. 1, zapewnia Minister Obrony Narodowej, chyba że umowa o wykonanie tego zadania stanowi inaczej.
+
+3. Zadanie, o którym mowa w ust. 1, wykonują żołnierze zawodowi, kandydaci na żołnierzy zawodowych lub pracownicy uczelni.
 
 **Art. 40b.**
 
@@ -342,6 +718,317 @@ source: "isap-pdf"
 
 **Art. 86i.** W sprawach nieuregulowanych ustawą stosuje się przepisy ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm. ), ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2013 r. poz. 1410) oraz ustawy z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. Nr 137, poz. 1300, z późn. zm. ).”;
 
+- **71)** w art. 92 dodaje się ust. 3 w brzmieniu: „3. Środki z dotacji z budżetu państwa na zadania ustawowo określone uczelnia niepubliczna gromadzi na odrębnych rachunkach bankowych.”;
+- **72)** w art. 94:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) zadania związane z:
+    - **a)** kształceniem studentów studiów stacjonarnych,
+    - **b)** kształceniem uczestników stacjonarnych studiów doktoranckich,
+    - **c)** kształceniem kadr naukowych,
+    - **d)** utrzymaniem uczelni, w tym na remonty;”, – pkt 3 otrzymuje brzmienie: „3) zadania uczelni służb państwowych związane z bezpieczeństwem obywateli i ochroną ludności;”,
+    - **b)** uchyla się ust. 5,
+    - **c)** uchyla się ust. 7;
+
+- **73)** w art. 94b:
+    - **a)** w ust. 1: – pkt 2 otrzymuje brzmienie: „2) dofinansowanie podstawowych jednostek organizacyjnych uczelni prowadzących kierunek studiów, który uzyskał ocenę wyróżniającą Komisji w ramach oceny programowej;”, – uchyla się pkt 3, – pkt 4 i 5 otrzymują brzmienie: „4) finansowanie zadań związanych z kształceniem uczestników stacjonarnych studiów doktoranckich prowadzonych w uczelniach niepublicznych; dotacja nie przysługuje, jeżeli:
+    - **a)** wydano prawomocną decyzję o cofnięciu uprawnienia do prowadzenia w danej uczelni jednego z kierunków studiów w okresie ostatnich pięciu lat lub
+    - **b)** kierunek studiów prowadzony w uczelni lub jej podstawowej jednostce organizacyjnej uzyskał ocenę negatywną Komisji w ramach oceny programowej;
+
+- **5)** finansowanie zwiększenia wysokości stypendiów doktoranckich, o których mowa w art. 200a, dla nie więcej niż 30% najlepszych doktorantów w uczelniach publicznych i niepublicznych.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Dotacja, o której mowa w ust. 1, może być także przeznaczona na dofinansowanie podstawowych jednostek organizacyjnych uczelni w zakresie wdrażania systemów poprawy jakości kształcenia oraz Krajowych Ram Kwalifikacji.”,
+    - **c)** ust. 2–4 otrzymują brzmienie: „2. Zadania określone w ust. 1a są finansowane w drodze konkursu.
+
+3. Wydatki budżetu państwa planowane na dotację, o której mowa w ust. 1 i 1a, są waloryzowane corocznie co najmniej o średnioroczny wskaźnik, o którym mowa w art. 93 ust. 2.
+
+4. Dotacja, o której mowa w ust. 1 i 1a, jest udzielana z budżetu państwa z części, której dysponentem jest minister właściwy do spraw szkolnictwa wyższego.”;
+
+- **74)** art. 94c otrzymuje brzmienie: „Art. 94c. Środki finansowe przyznawane na finansowanie zadań określonych w art. 94 ust. 1 pkt 1–9 i 11, ust. 4 i 4a oraz art. 94b ust. 1 i 1a są przekazywane w formie dotacji podmiotowej, a środki finansowe na dofinansowanie lub finansowanie kosztów realizacji inwestycji, a także zakupów środków trwałych służących kształceniu studentów i doktorantów, będących osobami niepełnosprawnymi, określone w art. 94 ust. 1 pkt 10, są przekazywane w formie dotacji celowej.”;
+- **75)** art. 95 otrzymuje brzmienie: „Art. 95. 1. Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, sposób podziału i tryb przekazywania uczelniom niepublicznym dotacji, o której mowa w art. 94b ust. 1 pkt 4, biorąc pod uwagę liczbę uczestników stacjonarnych studiów doktoranckich i kosztochłonność stacjonarnych studiów doktoranckich w poszczególnych dziedzinach nauki i sztuki oraz mając na względzie podniesienie jakości kształcenia uczestników stacjonarnych studiów doktoranckich w uczelni niepublicznej.
+
+2. Minister właściwy do spraw szkolnictwa wyższego przyznaje dotacje, o których mowa w art. 94 ust. 1, 4 i 4a, określając ich wysokość i przeznaczenie. Dotacje, o których mowa w art. 94 ust. 3, przyznaje właściwy minister, określając ich wysokość i przeznaczenie.”;
+
+- **76)** art. 96a otrzymuje brzmienie: „Art. 96a. Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, sposób podziału i tryb przekazywania podmiotowej dotacji na dofinansowanie zadań projakościowych, o których mowa w art. 94b ust. 1 pkt 1, 2 i 5 oraz ust. 1a, biorąc pod uwagę:
+- **1)** w zakresie zadań, o których mowa w art. 94b ust. 1 pkt 1 – możliwość ich dofinansowania przez okres posiadania statusu KNOW, uwzględniając dane o liczbie nauczycieli akademickich, a w jednostkach naukowych – pracowników naukowych, a także uczestników stacjonarnych studiów doktoranckich i studentów studiów stacjonarnych w jednostkach organizacyjnych posiadających status KNOW,
+- **2)** w zakresie zadań, o których mowa w art. 94b ust. 1 pkt 2 – możliwość dofinansowania nie więcej niż dwudziestu pięciu podstawowych jednostek organizacyjnych uczelni przez okres trzech lat, uwzględniając dane o liczbie nauczycieli akademickich, studentów studiów stacjonarnych i uczestników stacjonarnych studiów doktoranckich w jednostkach organizacyjnych uczelni prowadzących kierunek studiów, który uzyskał ocenę wyróżniającą Komisji w ramach oceny programowej,
+- **3)** w zakresie zadań, o których mowa w art. 94b ust. 1 pkt 5 – dane o liczbie uczestników stacjonarnych studiów doktoranckich,
+- **4)** w zakresie zadań, o których mowa w art. 94b ust. 1a – poprawę jakości kształcenia oraz restrukturyzację organizacyjną i programową zgodną z Krajowymi Ramami Kwalifikacji – uwzględniając jakość badań naukowych i kształcenia.”;
+- **77)** w art. 98 w ust. 1:
+    - **a)** pkt 3 otrzymuje brzmienie: „3) odpłatności za świadczone usługi edukacyjne oraz za kształcenie na studiach i studiach doktoranckich prowadzonych w formach niestacjonarnych, a także za świadczone przez uczelnie artystyczne usługi artystyczne;”,
+    - **b)** po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) opłaty za postępowanie związane z potwierdzeniem efektów uczenia się;”,
+    - **c)** w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „13) przychody z wynagrodzenia, o którym mowa w art. 86e ust. 2, oraz z części środków przysługujących uczelni z tytułu komercjalizacji dokonanej przez pracowników.”;
+
+- **78)** w art. 99:
+    - **a)** w ust. 1: – uchyla się pkt 1a i 1b, – pkt 4 i 5 otrzymują brzmienie: „4) prowadzeniem zajęć nieobjętych planem studiów, w tym zajęć uzupełniających efekty kształcenia niezbędne do podjęcia studiów drugiego stopnia na określonym kierunku;
+
+- **5)** prowadzeniem studiów podyplomowych, kursów dokształcających oraz szkoleń;”, – dodaje się pkt 6 w brzmieniu: „6) przeprowadzaniem potwierdzania efektów uczenia się.”,
+    - **b)** uchyla się ust. 1a i 1b,
+    - **c)** ust. 2 otrzymuje brzmienie: „2. Wysokość opłat, o których mowa w ust. 1, ustala rektor uczelni publicznej, z tym że opłaty, o których mowa w ust. 1 pkt 1 i 2, nie mogą przekraczać kosztów ponoszonych w zakresie niezbędnym do uruchomienia i prowadzenia w danej uczelni, odpowiednio studiów lub studiów doktoranckich, o których mowa w ust. 1 pkt 1, oraz zajęć na studiach i studiach doktoranckich, o których mowa w ust. 1 pkt 2, z uwzględnieniem kosztów przygotowania i wdrażania strategii rozwoju uczelni, w szczególności rozwoju kadr naukowych i infrastruktury dydaktycznonaukowej, w tym amortyzacji i remontów.”,
+    - **d)** uchyla się ust. 2a,
+    - **e)** ust. 3 otrzymuje brzmienie: „3. Senat uczelni publicznej określa zasady pobierania opłat wiążące rektora przy zawieraniu umowy, o której mowa w art. 160a ust. 1, oraz tryb i warunki zwalniania – w całości lub części – z tych opłat studentów lub doktorantów, w szczególności tych, którzy osiągają wybitne wyniki w nauce lub uczestniczyli w międzynarodowych programach stypendialnych, a także tych, którzy znaleźli się w trudnej sytuacji materialnej.”,
+    - **f)** dodaje się ust. 5 i 6 w brzmieniu: „5. Wysokość opłat za przeprowadzenie potwierdzenia efektów uczenia się nie może przekroczyć kosztów ponoszonych w zakresie świadczenia tej usługi o więcej niż 20%.
+
+6. Informację o wysokości opłat za usługi edukacyjne, o których mowa w ust. 1 i 4, oraz o wysokości kosztów ponoszonych w zakresie niezbędnym do świadczenia tych usług uczelnia zamieszcza na swojej stronie internetowej.”;
+
+- **79)** w art. 100 po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. W uczelni rokiem obrotowym jest rok kalendarzowy.”;
+- **80)** w art. 103:
+    - **a)** ust. 4 otrzymuje brzmienie: „4. Fundusz pomocy materialnej dla studentów i doktorantów w części, o której mowa w ust. 2 pkt 2–4, przeznacza się na pokrycie kosztów utrzymania domów i stołówek studenckich, w tym na wynagrodzenia pracowników zatrudnionych w tych domach i stołówkach studenckich, oraz na odpis na zakładowy fundusz świadczeń socjalnych dla tych pracowników.”,
+    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Odpis na zakładowy fundusz świadczeń socjalnych dla pracowników, o których mowa w ust. 4, zatrudnionych w uczelni publicznej jest dokonywany zgodnie z art. 157.”,
+    - **c)** ust. 5–7 otrzymują brzmienie: „5. Fundusz pomocy materialnej dla studentów i doktorantów w części, o której mowa w ust. 2 pkt 2–4, może być również przeznaczony na wypłatę stypendiów i zapomóg oraz na remonty i modernizację domów i stołówek studenckich, a także na pokrywanie kosztów, o których mowa w ust. 6.
+
+6. Uczelnia może przeznaczyć część dotacji, o której mowa w art. 94 ust. 1 pkt 7 i ust. 4, w wysokości nieprzekraczającej w danym roku budżetowym 0,2%, na pokrywanie ponoszonych przez uczelnię kosztów realizacji zadań związanych z przyznawaniem i wypłacaniem stypendiów i zapomóg dla studentów i doktorantów.
+
+7. Niewykorzystane w danym roku budżetowym środki funduszu pomocy materialnej dla studentów i doktorantów pochodzące ze źródła, o którym mowa w ust. 2 pkt 1, przechodzą na rok następny do wykorzystania na cele określone w ust. 3, a środki pochodzące ze źródeł określonych w ust. 2 pkt 2–4 – na cele określone w ust. 4–6.”,
+
+- **d)** dodaje się ust. 8 w brzmieniu: „8. Środki funduszu pomocy materialnej dla studentów i doktorantów wydatkowane z naruszeniem ust. 3–7 podlegają zwrotowi do funduszu.”;
+- **81)** w art. 104 ust. 1 otrzymuje brzmienie: „1. Uczelnia może utworzyć, ze środków innych niż określone w art. 94 ust. 1 i 6, własny fundusz stypendialny na stypendia dla pracowników i studentów oraz doktorantów, a uczelnia wojskowa także dla żołnierzy zawodowych pełniących zawodową służbę wojskową na stanowiskach służbowych w tej uczelni. Stypendia z tego funduszu mogą być przyznawane, jeżeli statut uczelni tak stanowi, niezależnie od stypendiów, o których mowa w art. 173 ust. 1 oraz w art. 199 ust. 1.”;
+- **82)** po art. 106 dodaje się art. 106a w brzmieniu: „Art. 106a. 1. W przypadku gdy w uczelni niepublicznej niewykorzystane środki pochodzące z dotacji na dofinansowanie zadania, o którym mowa w art. 94 ust. 4 lub 4a lub art. 94b ust. 1, na koniec poprzedniego roku budżetowego przewyższają kwotę dotacji kalkulacyjnej na dofinansowanie danego zadania na dany rok budżetowy:
+- **1)** minister właściwy do spraw szkolnictwa wyższego nie przyznaje uczelni dotacji na dofinansowanie danego zadania;
+- **2)** uczelnia dokonuje zwrotu do budżetu państwa niewykorzystanych środków dotacji na dofinansowanie danego zadania w kwocie stanowiącej różnicę między stanem środków na koniec poprzedniego roku budżetowego a wysokością dotacji kalkulacyjnej.
+
+2. Do zwrotu środków stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych dotyczące zwrotu dotacji niewykorzystanej do końca roku budżetowego, z tym że dotacja podlega zwrotowi w terminie siedmiu dni od dnia otrzymania przez uczelnię od ministra właściwego do spraw szkolnictwa wyższego informacji o wysokości dotacji kalkulacyjnej.
+
+3. Wysokość dotacji kalkulacyjnej ustala się dla zadań, o których mowa:
+
+- **1)** w art. 94 ust. 4 – biorąc pod uwagę dane o liczbie studentów i doktorantów, w tym znajdujących się w trudnej sytuacji materialnej, oraz liczbie studentów i doktorantów, będących osobami niepełnosprawnymi;
+- **2)** w art. 94 ust. 4a – biorąc pod uwagę dane o liczbie studentów i doktorantów, będących osobami niepełnosprawnymi;
+- **3)** w art. 94b ust. 1 pkt 1 – biorąc pod uwagę dane o liczbie nauczycieli akademickich, a w jednostkach naukowych – pracowników naukowych, a także uczestników stacjonarnych studiów doktoranckich i studentów studiów stacjonarnych w jednostkach organizacyjnych posiadających status KNOW, oraz możliwość dofinansowania jednostek organizacyjnych w okresie posiadania statusu KNOW;
+- **4)** w art. 94b ust. 1 pkt 2 – biorąc pod uwagę dane o liczbie nauczycieli akademickich, studentów studiów stacjonarnych i uczestników stacjonarnych studiów doktoranckich w jednostkach organizacyjnych uczelni prowadzących kierunek studiów, który uzyskał ocenę wyróżniającą Komisji w ramach oceny programowej, oraz możliwość dofinansowania jednostek organizacyjnych uczelni przez okres trzech lat;
+- **5)** w art. 94b ust. 1 pkt 4 – biorąc pod uwagę liczbę uczestników stacjonarnych studiów doktoranckich i kosztochłonność stacjonarnych studiów doktoranckich w poszczególnych dziedzinach nauki i sztuki;
+- **6)** w art. 94b ust. 1 pkt 5 – biorąc pod uwagę dane o liczbie uczestników stacjonarnych studiów doktoranckich.”;
+- **83)** w art. 112a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Nauczyciel akademicki składa w uczelni oświadczenie, w którym upoważnia wybraną podstawową jednostkę organizacyjną uczelni, a w uczelni nieposiadającej podstawowych jednostek organizacyjnych prowadzących co najmniej jeden kierunek studiów – uczelnię, do zaliczania go do minimum kadrowego jednego kierunku jednolitych studiów magisterskich albo jednego kierunku studiów pierwszego stopnia oraz drugiego stopnia albo jednego kierunku studiów tylko pierwszego stopnia albo jednego kierunku studiów tylko drugiego stopnia.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Oświadczenia, o których mowa w ust. 1 i 2, składa się przed rozpoczęciem roku akademickiego, nie później jednak niż do dnia 30 czerwca roku poprzedzającego rok akademicki, lub przed rozpoczęciem semestru w przypadku zmian w zatrudnieniu wpływających na minimum kadrowe.”;
+
+- **84)** w art. 115 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Warunkiem zatrudnienia na stanowisku profesora nadzwyczajnego osoby niespełniającej wymagań określonych w art. 114 ust. 2 jest uzyskanie pozytywnej opinii Centralnej Komisji do Spraw Stopni i Tytułów, z zastrzeżeniem ust. 1b.
+
+1b. Na stanowisku profesora nadzwyczajnego lub profesora wizytującego rektor może zatrudnić osobę niespełniającą wymagań określonych odpowiednio w art. 114 ust. 2 i 3, jeżeli osoba ta uzyskała stopnień naukowy doktora w Rzeczypospolitej Polskiej lub za granicą i przez co najmniej pięć lat kierowała samodzielnie zespołami badawczymi w innym państwie oraz posiada znaczące osiągnięcia naukowe.”;
+
+- **85)** w art. 118 ust. 5 otrzymuje brzmienie: „5. W uczelni wojskowej żołnierzy zawodowych wyznacza się na stanowiska nauczycieli akademickich na zasadach i w trybie określonych w przepisach o służbie wojskowej żołnierzy zawodowych, na wniosek rektora, z zachowaniem przepisów art. 114–116.”;
+- **86)** w art. 118a dodaje się ust. 4 w brzmieniu: „4. Przepisów o postępowaniu konkursowym nie stosuje się w przypadku zatrudnienia na czas określony nauczyciela akademickiego:
+- **1)** skierowanego do pracy w uczelni na podstawie umowy zawartej z zagraniczną instytucją naukową;
+- **2)** będącego beneficjentem krajowego konkursu ogłoszonego przez Narodowe Centrum Nauki lub Narodowe Centrum Badań i Rozwoju lub międzynarodowego konkursu na realizację projektu badawczego związanego z obszarem kształcenia;
+- **3)** zatrudnianego na czas realizacji projektu finansowanego:
+    - **a)** ze środków pochodzących z Unii Europejskiej,
+    - **b)** przez inny podmiot przyznający grant;
+
+- **4)** na tym samym stanowisku, jeżeli poprzednia umowa o pracę była zawarta na czas nie krótszy niż trzy lata.”;
+- **87)** art. 120 otrzymuje brzmienie: „Art. 120. 1. Okres zatrudnienia na stanowisku asystenta osoby nieposiadającej stopnia naukowego doktora oraz okres zatrudnienia na stanowisku adiunkta osoby nieposiadającej stopnia naukowego doktora habilitowanego, a także warunki skracania i przedłużania oraz zawieszania tych okresów określa statut, z tym że zatrudnienie na każdym z tych stanowisk osoby nieposiadającej stopnia naukowego doktora lub doktora habilitowanego nie może trwać dłużej niż osiem lat.
+
+2. Do okresu, o którym mowa w ust. 1, nie wlicza się przerwy związanej z:
+
+- **1)** urlopem macierzyńskim, urlopem na warunkach urlopu macierzyńskiego, dodatkowym urlopem macierzyńskim, dodatkowym urlopem na warunkach urlopu macierzyńskiego, urlopem ojcowskim, urlopem rodzicielskim lub urlopem wychowawczym, udzielonych na zasadach określonych w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **2)** pobieraniem zasiłku chorobowego lub świadczenia rehabilitacyjnego w związku z niezdolnością do pracy, w tym spowodowaną chorobą wymagającą rehabilitacji leczniczej.”;
+- **88)** w art. 127 dodaje się ust. 5 w brzmieniu: „5. Stosunek pracy mianowanego nauczyciela akademickiego pełniącego funkcję prorektora, kierownika podstawowej jednostki organizacyjnej i jego zastępcy, z końcem roku akademickiego, w którym ukończył on 67. rok życia, a w przypadku mianowanego nauczyciela akademickiego posiadającego tytuł naukowy profesora z końcem roku akademickiego, w którym ukończył on 70. rok życia, przekształca się – na czas pozostały do zakończenia pełnienia tej funkcji – w stosunek pracy na podstawie umowy o pracę.”;
+- **89)** art. 129a otrzymuje brzmienie: „Art. 129a. 1. Minister właściwy do spraw szkolnictwa wyższego prowadzi ogólnopolski wykaz nauczycieli akademickich i pracowników naukowych.
+
+2. W wykazie zamieszcza się następujące dane dotyczące nauczyciela akademickiego lub pracownika naukowego:
+
+- **1)** imiona i nazwisko;
+- **2)** numer PESEL, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość oraz kraj wydania dokumentu tożsamości;
+- **3)** kraj pochodzenia – w przypadku cudzoziemców;
+- **4)** rok urodzenia;
+- **5)** płeć;
+- **6)** tytuł zawodowy, stopień naukowy lub tytuł naukowy;
+- **7)** informacje o uprawnieniach równoważnych z uprawnieniami doktora habilitowanego nabytych na podstawie art. 21a ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki;
+- **8)** informacje o podstawowym miejscu pracy i miejscu dodatkowego zatrudnienia;
+- **9)** informacje o zaliczeniu do minimum kadrowego.
+
+3. Dane, o których mowa w ust. 2, wprowadzają do Systemu POL-on rektorzy uczelni, dyrektorzy instytutów naukowych i pomocniczych jednostek naukowych Polskiej Akademii Nauk, dyrektorzy instytutów badawczych, dyrektor Centrum Medycznego Kształcenia Podyplomowego, dyrektorzy państwowych jednostek organizacyjnych podległych Ministrowi Sprawiedliwości, prowadzących działalność naukową i badawczo-rozwojową, oraz dyrektorzy międzynarodowych instytutów naukowych utworzonych na podstawie odrębnych przepisów, działających na terytorium Rzeczypospolitej Polskiej.
+
+4. Dostęp do danych zawartych w wykazie przysługuje:
+
+- **1)** właściwym ministrom wskazanym w art. 33 ust. 2, organom Centralnej Komisji do Spraw Stopni i Tytułów, Komitetowi Ewaluacji Jednostek Naukowych, Radzie oraz Komisji;
+- **2)** rektorom uczelni, Prezesowi Polskiej Akademii Nauk, dyrektorom instytutów naukowych i pomocniczych jednostek naukowych Polskiej Akademii Nauk, dyrektorom instytutów badawczych, dyrektorowi Centrum Medycznego Kształcenia Podyplomowego, dyrektorom państwowych jednostek organizacyjnych podległych Ministrowi Sprawiedliwości, prowadzących działalność naukową i badawczo-rozwojową, oraz dyrektorom międzynarodowych instytutów naukowych utworzonych na podstawie odrębnych przepisów, działających na terytorium Rzeczypospolitej Polskiej – w zakresie danych dotyczących nauczycieli akademickich i pracowników naukowych zatrudnionych w kierowanych przez nich jednostkach.
+
+5. Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy zakres danych, o których mowa w ust. 2 pkt 7–9, zamieszczanych w wykazie;
+- **2)** tryb i terminy wprowadzania danych do wykazu oraz aktualizowania, archiwizowania i usuwania tych danych przez uczelnie oraz jednostki, o których mowa w ust. 3;
+- **3)** tryb i sposób udostępniania danych.
+
+6. Minister właściwy do spraw szkolnictwa wyższego, wydając rozporządzenie, o którym mowa w ust. 5, uwzględni potrzebę zapewnienia:
+
+- **1)** kompletności i aktualności zgromadzonych w wykazie danych służących właściwej realizacji zadań z zakresu polityki kadrowej przez podmioty wymienione w ust. 4;
+- **2)** odpowiedniego poziomu ochrony przetwarzanych danych.”;
+- **90)** w art. 134:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Rektor może udzielić nauczycielowi akademickiemu posiadającemu co najmniej stopień naukowy doktora, nie częściej niż raz na siedem lat zatrudnienia w danej uczelni, płatnego urlopu naukowego w wymiarze nieprzekraczającym roku w celu przeprowadzenia badań poza uczelnią.”,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Nauczyciel akademicki zatrudniony w pełnym wymiarze czasu pracy, po przepracowaniu co najmniej piętnastu lat w uczelni, ma prawo do płatnego urlopu dla poratowania zdrowia w celu przeprowadzenia zaleconego leczenia, jeżeli stan jego zdrowia wymaga powstrzymania się od pracy.”,
+    - **c)** po ust. 5 dodaje się ust. 5a–5l w brzmieniu: „5a. Łączny wymiar urlopu dla poratowania zdrowia w całym okresie zatrudnienia nauczyciela akademickiego nie może przekroczyć jednego roku.
+
+5b. W przypadku gdy urlop dla poratowania zdrowia jest wykorzystywany w częściach, kolejnego urlopu można udzielić nie wcześniej niż po upływie trzech lat od dnia zakończenia ostatnio udzielonego urlopu.
+
+5c. O potrzebie udzielenia nauczycielowi akademickiemu urlopu dla poratowania zdrowia orzeka lekarz posiadający uprawnienia do wykonywania badań profilaktycznych zgodnie z przepisami wydanymi na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, wykonujący działalność w jednostce służby medycyny pracy, z którą uczelnia zawarła umowę, o której mowa w art. 12 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2014 r. poz. 1184), zwany dalej „uprawnionym lekarzem”.
+
+5d. Uprawniony lekarz przeprowadza badanie lekarskie na podstawie skierowania wydanego przez rektora na wniosek nauczyciela akademickiego o udzielenie urlopu dla poratowania zdrowia.
+
+5e. Uprawniony lekarz orzeka o potrzebie udzielenia nauczycielowi akademickiemu urlopu dla poratowania zdrowia i określa czas potrzebny na przeprowadzenie zalecanego leczenia na podstawie:
+
+- **1)** wyników przeprowadzonego przez siebie badania lekarskiego;
+- **2)** wyników badań pomocniczych lub konsultacji specjalistycznych, których wykonanie uzna za niezbędne;
+- **3)** dokumentacji medycznej z przebiegu dotychczasowego leczenia.
+
+5f. Po przeprowadzeniu badania lekarskiego uprawniony lekarz wydaje orzeczenie lekarskie o potrzebie udzielenia nauczycielowi akademickiemu urlopu dla poratowania zdrowia, zwane dalej „orzeczeniem lekarskim”.
+
+5g. Nauczycielowi akademickiemu oraz uczelni przysługuje odwołanie od orzeczenia lekarskiego do wojewódzkiego ośrodka medycyny pracy właściwego ze względu na miejsce zamieszkania nauczyciela akademickiego lub ze względu na siedzibę uczelni. W przypadku gdy orzeczenie lekarskie zostało wydane przez uprawnionego lekarza zatrudnionego w wojewódzkim ośrodku medycyny pracy, odwołanie od tego orzeczenia wnosi się do instytutu badawczego w dziedzinie medycyny pracy najbliższego ze względu na miejsce zamieszkania nauczyciela akademickiego lub ze względu na siedzibę uczelni.
+
+5h. Odwołanie wraz z uzasadnieniem wnosi się na piśmie w terminie czternastu dni od dnia otrzymania orzeczenia lekarskiego, za pośrednictwem uprawnionego lekarza, który wydał orzeczenie lekarskie.
+
+5i. Uprawniony lekarz, za którego pośrednictwem jest wnoszone odwołanie, przekazuje je wraz z dokumentacją badań podmiotowi odwoławczemu w terminie siedmiu dni od dnia otrzymania odwołania.
+
+5j. Badanie lekarskie w trybie odwoławczym przeprowadza się w terminie trzydziestu dni od dnia otrzymania odwołania.
+
+5k. Orzeczenie lekarskie wydane w trybie odwoławczym jest ostateczne.
+
+5l. Koszty badań, o których mowa w ust. 5e pkt 1 i 2, przeprowadzanych nie częściej niż raz na trzy lata oraz koszty badań przeprowadzanych w trybie odwoławczym ponosi uczelnia.”,
+
+- **d)** ust. 6 i 7 otrzymują brzmienie: „6. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego określi, w drodze rozporządzenia:
+- **1)** zakres oraz tryb przeprowadzania badania lekarskiego, któremu jest obowiązany poddać się nauczyciel akademicki,
+- **2)** wzór skierowania na badanie lekarskie w celu stwierdzenia potrzeby udzielenia nauczycielowi akademickiemu urlopu dla poratowania zdrowia,
+- **3)** wzór orzeczenia lekarskiego o potrzebie udzielenia nauczycielowi akademickiemu urlopu dla poratowania zdrowia – uwzględniając konieczność przyjęcia obiektywnych i niezbędnych kryteriów oceny stanu zdrowia dokonywanej w celu stwierdzenia potrzeby leczenia oraz określenia czasu na jego przeprowadzenie, a także zapewnienia jednolitości stosowanych dokumentów.
+
+7. Rektor udziela nauczycielowi akademickiemu urlopu dla poratowania zdrowia na podstawie orzeczenia lekarskiego.”,
+
+- **e)** uchyla się ust. 8 i 9,
+- **f)** ust. 10 otrzymuje brzmienie: „10. Nauczyciel akademicki korzystający z urlopu dla poratowania zdrowia nie może w tym czasie wykonywać pracy zarobkowej ani prowadzić działalności gospodarczej.”;
+- **91)** w art. 139:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Nauczyciel akademicki podlega odpowiedzialności dyscyplinarnej za postępowanie uchybiające obowiązkom nauczyciela akademickiego lub godności zawodu nauczyciela akademickiego.”,
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. Postępowanie dyscyplinarne może być wszczęte również po ustaniu zatrudnienia nauczyciela akademickiego w uczelni. Przepis art. 144 ust. 2a stosuje się odpowiednio.
+
+4. Postępowanie dyscyplinarne toczy się przed komisjami dyscyplinarnymi do spraw nauczycieli akademickich i jest dwuinstancyjne.”;
+
+- **92)** w art. 140:
+    - **a)** w ust. 1 pkt 3 i 4 otrzymują brzmienie: „3) nagana z pozbawieniem prawa do pełnienia funkcji kierowniczych w uczelniach na okres od trzech miesięcy do pięciu lat;
+
+- **4)** pozbawienie prawa do wykonywania zawodu nauczyciela akademickiego na okres od pięciu miesięcy do pięciu lat lub na stałe.”, Sentencje prawomocnych orzeczeń komisji dyscyplinarnych do spraw nauczycieli akademickich, o których mowa w art. 142 ust. 1 i art. 142a, orzekające karę, o której mowa w ust. 1 pkt 4, są ogłaszane przez ministra właściwego do spraw szkolnictwa wyższego w wydawanym przez niego dzienniku urzędowym.”;
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Odpis prawomocnego orzeczenia o udzieleniu kary dyscyplinarnej z uzasadnieniem dołącza się do akt osobowych nauczyciela akademickiego.
+
+- **93)** w art. 142: Nowych członków składu orzekającego wyznacza przewodniczący uczelnianej komisji dyscyplinarnej do spraw nauczycieli akademickich lub komisji dyscyplinarnej do spraw nauczycieli akademickich przy ministrze albo przy Radzie.”,
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Jeżeli w toku postępowania zostaną ujawnione okoliczności uzasadniające rozpoznanie sprawy w składzie pięcioosobowym, komisja orzekająca wydaje postanowienie o rozpoznaniu sprawy w takim składzie.
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Przewodniczącym składu orzekającego powinien być nauczyciel akademicki posiadający tytuł naukowy lub stopień naukowy nie niższy niż tytuł naukowy lub stopień naukowy obwinionego.”;
+
+- **94)** po art. 142 dodaje się art. 142a w brzmieniu: „Art. 142a. 1. W sprawach dyscyplinarnych osób, o których mowa w art. 145 ust. 6, w pierwszej instancji orzeka komisja dyscyplinarna powołana przez ministra właściwego do spraw szkolnictwa wyższego do prowadzenia postępowań dyscyplinarnych wszczynanych na wniosek rzecznika dyscyplinarnego powołanego przez ministra.
+
+2. W sprawach, o których mowa w ust. 1, w drugiej instancji orzeka komisja dyscyplinarna, o której mowa w art. 142 ust. 1 pkt 2.
+
+3. W skład komisji, o której mowa w ust. 1, minister powołuje szesnastu członków.
+
+4. Do komisji, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 142 ust. 1 pkt 1, ust. 2, 4 i 5.”;
+
+- **95)** w art. 143:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Osoby pełniące funkcje organów jednoosobowych uczelni mogą być członkami komisji dyscyplinarnej po upływie czterech lat od zaprzestania pełnienia tych funkcji.”,
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Komisje dyscyplinarne są niezawisłe w zakresie orzekania.
+
+4. Komisje dyscyplinarne rozstrzygają samodzielnie wszelkie zagadnienia faktyczne oraz prawne i nie są związane rozstrzygnięciami innych organów stosujących prawo, z wyjątkiem prawomocnego skazującego wyroku sądu oraz opinii komisji, o której mowa w art. 144a.”, 1 pkt 2 i art. 142a, trwa cztery lata i rozpoczyna się w dniu 1 stycznia.
+
+- **c)** ust. 7 i 8 otrzymują brzmienie: „7. Kadencja komisji dyscyplinarnych, o których mowa w art. 142 ust.
+
+8. Obsługę komisji dyscyplinarnych, o których mowa w art. 142 ust. 1 pkt 2 i art. 142a, wykonują komórki organizacyjne urzędu obsługującego ministra właściwego do spraw szkolnictwa wyższego.”;
+
+- **96)** w art. 144:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Postępowanie dyscyplinarne komisja dyscyplinarna wszczyna na wniosek rzecznika dyscyplinarnego po przeprowadzeniu przez niego postępowania wyjaśniającego wszczętego z urzędu lub na polecenie organu, który go powołał.
+
+2. Postępowanie wyjaśniające rzecznik dyscyplinarny wszczyna niezwłocznie, nie później niż w terminie trzech miesięcy od dnia powzięcia wiadomości o popełnieniu czynu skutkującego możliwością poniesienia odpowiedzialności dyscyplinarnej.”,
+
+- **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Postępowanie wyjaśniające nie może być wszczęte po upływie pięciu lat od popełnienia czynu, z zastrzeżeniem że jeżeli czyn zawiera znamiona przestępstwa, postępowanie wyjaśniające może być wszczęte aż do upływu okresu przedawnienia przewidzianego dla tego przestępstwa.
+
+2b. W przypadku niewszczęcia postępowania wyjaśniającego w terminie, o którym mowa w ust. 2, rzecznik dyscyplinarny niezwłocznie informuje o tym rektora i ministra nadzorującego uczelnię.”,
+
+- **c)** ust. 3 i 4 otrzymują brzmienie: „3. Rzecznik dyscyplinarny wszczyna postępowanie wyjaśniające z urzędu, w szczególności w przypadku gdy nauczycielowi akademickiemu zarzuca się popełnienie czynu polegającego na:
+- **1)** przywłaszczeniu sobie autorstwa albo wprowadzeniu w błąd co do autorstwa całości lub części cudzego utworu albo artystycznego wykonania;
+- **2)** rozpowszechnieniu, bez podania nazwiska lub pseudonimu twórcy, cudzego utworu w wersji oryginalnej albo w postaci opracowania;
+- **3)** rozpowszechnieniu, bez podania nazwiska lub pseudonimu twórcy, cudzego artystycznego wykonania albo publicznym zniekształceniu takiego utworu, artystycznego wykonania, fonogramu, wideogramu lub nadania;
+- **4)** naruszeniu cudzych praw autorskich lub praw pokrewnych w inny sposób;
+- **5)** sfałszowaniu badań lub wyników badań naukowych lub dokonaniu innego oszustwa naukowego;
+- **6)** przyjęciu lub żądaniu korzyści majątkowej lub osobistej albo jej obietnicy w związku z pełnieniem funkcji lub zajmowaniem stanowiska w uczelni;
+- **7)** powołaniu się na wpływy w uczelni, instytucji państwowej lub samorządowej albo wywoływaniu przekonania innej osoby lub utwierdzaniu jej w przekonaniu o istnieniu takich wpływów i podjęciu się pośrednictwa w załatwieniu sprawy w zamian za korzyść majątkową lub osobistą albo jej obietnicę;
+- **8)** udzieleniu albo obietnicy udzielenia korzyści majątkowej lub osobistej w zamian za pośrednictwo w załatwieniu sprawy w uczelni poprzez wywarcie wpływu na decyzję, działanie lub zaniechanie osoby pełniącej funkcję lub zajmującej stanowisko w uczelni, w związku z pełnieniem tej funkcji lub zajmowaniem stanowiska.
+
+4. Rzecznik dyscyplinarny w terminie trzech miesięcy od dnia wszczęcia postępowania wyjaśniającego powinien skierować do właściwej komisji dyscyplinarnej wniosek o wszczęcie postępowania dyscyplinarnego lub wydać postanowienie o umorzeniu postępowania wyjaśniającego.”,
+
+- **d)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Komisja dyscyplinarna wydaje orzeczenie nie później niż w terminie dwóch lat od dnia przekazania wniosku rzecznika dyscyplinarnego o wszczęcie postępowania.”,
+- **e)** ust. 6 otrzymuje brzmienie: „6. Kary dyscyplinarne określone w art. 140 ust. 1 pkt 1 i 2 ulegają zatarciu po upływie trzech lat, a kary określone w art. 140 ust. 1 pkt 3 i 4, z wyłączeniem kary orzeczonej na stałe, po upływie pięciu lat od dnia doręczenia nauczycielowi akademickiemu prawomocnego orzeczenia o ukaraniu, jeżeli w tym okresie nie został on ponownie ukarany dyscyplinarnie albo ukarany sądownie za przestępstwo umyślne. Odpis orzeczenia o ukaraniu, dołączony do akt osobowych nauczyciela akademickiego, podlega usunięciu z tych akt z dniem zatarcia kary.”,
+- **f)** dodaje się ust. 7 w brzmieniu: „7. Komisja dyscyplinarna, która orzekła karę dyscyplinarną, z wyłączeniem kary, o której mowa w art. 140 ust. 1 pkt 4, orzeczonej na stałe, na wniosek ukaranego złożony nie wcześniej niż po upływie dwóch lat od dnia uprawomocnienia się orzeczenia o ukaraniu może postanowić o jej zatarciu.”;
+- **97)** w art. 145:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Rzeczników dyscyplinarnych w uczelni powołuje rektor spośród nauczycieli akademickich posiadających co najmniej stopień naukowy doktora habilitowanego.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Minister właściwy do spraw szkolnictwa wyższego powołuje szesnastu rzeczników dyscyplinarnych spośród nauczycieli akademickich, z których:
+
+- **1)** ośmiu reprezentuje po jednym z obszarów wiedzy określonych w przepisach wydanych na podstawie art. 3 ust. 1 ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki i posiada co najmniej stopień naukowy doktora habilitowanego;
+- **2)** ośmiu posiada co najmniej stopień doktora nauk prawnych.”,
+    - **c)** uchyla się ust. 2,
+    - **d)** ust. 4 otrzymuje brzmienie: „4. Kadencja rzeczników dyscyplinarnych powoływanych przez rektora trwa cztery lata i rozpoczyna się z dniem 1 stycznia roku następującego po roku, w którym rozpoczęła się kadencja organów uczelni.”,
+    - **e)** dodaje się ust. 6 w brzmieniu: „6. Minister właściwy do spraw szkolnictwa wyższego poleca rzecznikom dyscyplinarnym powołanym przez ministra wszczęcie postępowania wyjaśniającego w przypadku powzięcia wiadomości o przewinieniu dyscyplinarnym zarzucanym rektorom, prorektorom, przewodniczącemu komisji, o której mowa w art. 142 ust. 1 pkt 1, oraz przewodniczącemu i członkom komisji, o której mowa w art. 142 ust. 1 pkt 2 i art. 142a.”;
+
+- **98)** po art. 145 dodaje się art. 145a w brzmieniu: „Art. 145a. 1. Rzecznicy dyscyplinarni powołani przez ministra tworzą Konwent Rzeczników przy ministrze właściwym do spraw szkolnictwa wyższego.
+
+2. Do zadań Konwentu Rzeczników należy:
+
+- **1)** formułowanie opinii i wniosków w sprawach niebędących przedmiotem postępowania dyscyplinarnego, dotyczących dobrych praktyk w nauce i pracy akademickiej, w tym w sprawach kierowanych do ministra właściwego do spraw nauki i ministra właściwego do spraw szkolnictwa wyższego;
+- **2)** formułowanie opinii w sprawach szczególnie skomplikowanych wynikających z prowadzonych postępowań, na wniosek uczelnianych komisji dyscyplinarnych, z wyłączeniem spraw zastrzeżonych dla komisji, o której mowa w art. 144a;
+- **3)** inicjowanie prac nad projektami określającymi zasady dobrych praktyk w nauce i szkolnictwie wyższym.
+
+3. Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, organizację wewnętrzną Konwentu Rzeczników oraz tryb realizacji zadań przez Konwent Rzeczników, mając na uwadze promowanie dobrych praktyk w nauce i szkolnictwie wyższym oraz zapewnienie wsparcia uczelnianym komisjom dyscyplinarnym.”;
+
+- **99)** w art. 146:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Posiedzenie komisji dyscyplinarnej może odbyć się pod nieobecność obwinionego lub rzecznika dyscyplinarnego, o ile zostali oni prawidłowo zawiadomieni o terminie i miejscu posiedzenia.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Rozprawa dyscyplinarna jest jawna tylko dla pracowników danej uczelni, osoby pokrzywdzonej, przedstawicieli Rady i ministra sprawującego nadzór nad uczelnią, osoby, na żądanie której prowadzi się postępowanie w przypadku gdy obwiniony zmarł, obrońcy oraz, za zgodą obwinionego, dla przedstawiciela związku zawodowego, którego obwiniony jest członkiem.”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Od orzeczenia uczelnianej komisji dyscyplinarnej do spraw nauczycieli akademickich oraz komisji, o której mowa w art. 142a, strony mogą odwołać się do komisji, o której mowa w art. 142 ust. 1 pkt 2, w terminie czternastu dni od dnia doręczenia orzeczenia wraz z uzasadnieniem.”;
+
+- **100)** w art. 148 ust. 1 otrzymuje brzmienie: „1. Wynagrodzenie zasadnicze nauczyciela akademickiego w okresie zawieszenia w pełnieniu obowiązków może ulec obniżeniu najwyżej do połowy, a tymczasowo aresztowanego ulega obniżeniu najwyżej do połowy, począwszy od pierwszego dnia miesiąca kalendarzowego następującego po miesiącu, w którym nastąpiło zawieszenie. W okresie zawieszenia w pełnieniu obowiązków nie przysługują dodatki do wynagrodzenia.”;
+- **101)** w art. 149:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Ministrowi właściwemu do spraw szkolnictwa wyższego w postępowaniu wyjaśniającym i dyscyplinarnym przysługują uprawnienia rektora, jeżeli przewinienie jest zarzucane rektorowi, prorektorom, przewodniczącemu komisji, o której mowa w art. 142 ust. 1 pkt 1, oraz przewodniczącemu i członkom komisji, o której mowa w art. 142 ust. 1 pkt 2 i art. 142a.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, szczegółowy tryb postępowania wyjaśniającego i postępowania dyscyplinarnego, w tym przebieg postępowania wyjaśniającego i dyscyplinarnego, tryb zawieszania i wznawiania postępowania dyscyplinarnego, sposób i warunki wzywania i przesłuchiwania obwinionego, świadków i biegłych oraz przeprowadzania innych dowodów, a także sposób wykonywania kar dyscyplinarnych i ich zatarcia, biorąc pod uwagę konieczność zapewnienia rzetelności, obiektywności, przejrzystości i sprawności rozpatrywania spraw.”;
+
+- **102)** w art. 152 uchyla się ust. 1 i 2;
+- **103)** art. 159 otrzymuje brzmienie: „Art. 159. Studia w uczelni są prowadzone jako studia pierwszego lub drugiego stopnia. Jednolite studia magisterskie są prowadzone na kierunkach określonych w przepisach wydanych na podstawie art. 9 ust. 3 pkt 1a oraz art.
+
+9b. ”;
+
+- **104)** w art. 160:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Studia w uczelni są prowadzone zgodnie z efektami kształcenia, do których są dostosowane programy studiów, w tym plany studiów.”,
+    - **b)** uchyla się ust. 3;
+
+- **105)** po art. 160 dodaje się art. 160a w brzmieniu: „Art. 160a. 1. Warunki pobierania opłat związanych z odbywaniem studiów, o których mowa w art. 98 ust. 1 pkt 5, oraz opłat za usługi edukacyjne, o których mowa w art. 99 ust. 1 pkt 1–6, a także wysokość tych opłat określa umowa między uczelnią a studentem lub osobą przyjętą na studia, zawarta w formie pisemnej pod rygorem nieważności.
+
+2. Umowa jest zawierana nie wcześniej niż po wydaniu decyzji o przyjęciu na studia i nie później niż w terminie trzydziestu dni od rozpoczęcia zajęć.
+
+3. Umowa jest zawierana na cały przewidywany okres studiów; student nie jest obowiązany do uiszczania opłat innych niż określone w umowie.
+
+4. Opłaty określone w umowie uczelnia może pobierać nie wcześniej niż po jej zawarciu.
+
+5. Wzór umowy określa senat uczelni publicznej, a w przypadku uczelni niepublicznej – organ wskazany w statucie.
+
+6. Uczelnia jest obowiązana zamieścić wzór umowy na swojej stronie internetowej.
+
+7. Roszczenia wynikające z umowy przedawniają się z upływem trzech lat.”;
+
+- **106)** art. 162 otrzymuje brzmienie: „Art. 162. Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, warunki, jakim muszą odpowiadać postanowienia regulaminu studiów w uczelniach, uwzględniając:
+- **1)** czas trwania roku akademickiego,
+- **2)** warunki i tryb odbywania zajęć dydaktycznych,
+- **3)** stosowane skale ocen,
+- **4)** tryb przeprowadzania, na wniosek studenta lub promotora, otwartego egzaminu dyplomowego,
+- **5)** tryb skreślania z listy studentów,
+- **6)** warunki:
+    - **a)** odbywania studiów według indywidualnego programu studiów, w tym planu studiów, z uwzględnieniem opieki naukowej,
+    - **b)** przyznawania urlopów,
+    - **c)** wznawiania studiów,
+    - **d)** zmiany kierunku lub formy studiów,
+    - **e)** przeprowadzania egzaminów i uzyskiwania zaliczeń,
+    - **f)** dopuszczenia do egzaminu dyplomowego,
+    - **g)** ukończenia studiów,
+
+- **7)** warunki właściwej realizacji procesu dydaktycznego, z uwzględnieniem szczególnych potrzeb studentów będących osobami niepełnosprawnymi,
+- **8)** warunki odbywania studiów przez studentów przyjętych na studia w wyniku potwierdzenia efektów uczenia się, z uwzględnieniem indywidualnego planu studiów i opieki naukowej – mając na uwadze potrzebę zapewnienia prawidłowego wykonywania praw studenta w toku studiów.”;
+- **107)** po art. 163 dodaje się art. 163a w brzmieniu: „Art. 163a. W uczelni służb państwowych do liczby studentów studiujących na studiach niestacjonarnych nie wlicza się strażaków w służbie stałej skierowanych na te studia przez właściwego przełożonego, o którym mowa w art. 32 ust. 1 pkt 1–3, 5, 6 i 8 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm. ).”;
+- **108)** w art. 164a ust. 1 otrzymuje brzmienie: „1. Wynikającym z programu kształcenia zajęciom zaliczonym przez studenta przypisuje się punkty ECTS.”;
+- **109)** w art. 166 ust. 4 otrzymuje brzmienie: „4. Studia drugiego stopnia trwają od trzech do pięciu semestrów.”;
+- **110)** w art. 167 ust. 2a otrzymuje brzmienie: „2a. Osoba, która ukończyła studia pierwszego stopnia, zachowuje prawa studenta do dnia 31 października roku, w którym ukończyła te studia, z wyłączeniem prawa do pomocy materialnej, o której mowa w art. 173.”;
+- **111)** po art. 167 dodaje się art. 167a i art. 167b w brzmieniu: „Art. 167a. 1. Warunkiem przystąpienia do egzaminu dyplomowego jest pozytywna ocena pracy dyplomowej.
+
+2. Praca dyplomowa jest samodzielnym opracowaniem określonego zagadnienia naukowego lub artystycznego lub dokonaniem artystycznym prezentującym ogólną wiedzę i umiejętności studenta związane z danym kierunkiem studiów, poziomem i profilem kształcenia oraz umiejętności samodzielnego analizowania i wnioskowania.
+
+3. Pracę dyplomową może stanowić w szczególności praca pisemna, opublikowany artykuł, praca projektowa, w tym projekt i wykonanie programu lub systemu komputerowego, oraz praca konstrukcyjna, technologiczna lub artystyczna.
+
+4. Uczelnia jest obowiązana do sprawdzania pisemnych prac dyplomowych przed egzaminem dyplomowym z wykorzystaniem programów antyplagiatowych współpracujących z ogólnopolskim repozytorium pisemnych prac dyplomowych.
+
 **Art. 167b.**
 
 1. Minister właściwy do spraw szkolnictwa wyższego prowadzi ogólnopolskie repozytorium pisemnych prac dyplomowych.
@@ -408,6 +1095,9 @@ source: "isap-pdf"
 3. Efektów uczenia się nie potwierdza się na kierunkach studiów, o których mowa w art. 9b.
 
 **Art. 170f.** Senat uczelni określa organizację potwierdzania efektów uczenia się, w tym:
+
+- **1)** zasady, warunki i tryb potwierdzania efektów uczenia się;
+- **2)** sposób powoływania i tryb działania komisji weryfikujących efekty uczenia się.
 
 **Art. 170g.**
 
@@ -551,9 +1241,70 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2012 r. poz. 461, z późn. zm. ) w art. 39:
 
+- **1)** w ust. 1 uchyla się pkt 5;
+- **2)** ust. 6 otrzymuje brzmienie: „6. Skreślenie z listy studentów, słuchaczy lub uczniów oraz niewywiązywanie się osoby podlegającej obowiązkowi odbycia zasadniczej służby wojskowej z umowy, o której mowa w art. 132a ust. 3, lub z obowiązku określonego w skierowaniu wskazanym w art. 132b ust. 2, powodują utratę udzielonego odroczenia zasadniczej służby wojskowej z tytułu pobierania nauki.”.
+
 **Art. 3.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2014 r. poz. 191) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 w ust. 1 pkt 1 otrzymuje brzmienie: „1) publicznych przedszkolach, szkołach i placówkach oraz placówkach doskonalenia nauczycieli działających na podstawie ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ), z zastrzeżeniem ust. 2 pkt 1a, 1b oraz pkt 2 lit. a;”;
+- **2)** w art. 9a ust. 4 otrzymuje brzmienie: „4. Nauczyciele akademiccy, posiadający stopień naukowy oraz legitymujący się co najmniej 3-letnim okresem pracy w szkole wyższej, z dniem nawiązania stosunku pracy w kolegium pracowników służb społecznych uzyskują stopień nauczyciela mianowanego.”;
+- **3)** w art. 42:
+    - **a)** w ust. 3 w tabeli uchyla się lp. 4,
+    - **b)** (uchylony)
+
 **Art. 4.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 pkt 9 otrzymuje brzmienie: „9) placówki doskonalenia nauczycieli;”;
+- **2)** w art. 3 pkt 9 otrzymuje brzmienie: „9) nauczycielu – należy przez to rozumieć także wychowawcę i innego pracownika pedagogicznego szkoły, placówki i placówki doskonalenia nauczycieli;”;
+- **3)** w art. 5:
+    - **a)** ust. 6 i 6a otrzymują brzmienie: „6. Zakładanie i prowadzenie publicznych placówek doskonalenia nauczycieli, bibliotek pedagogicznych oraz szkół i placówek wymienionych w ust. 5a o znaczeniu regionalnym lub ponadregionalnym należy do zadań samorządu województwa, z zastrzeżeniem ust. 3c i 6c.
+
+6a. Powiat i gmina mogą zakładać i prowadzić w ramach zadań własnych publiczne placówki doskonalenia nauczycieli i biblioteki pedagogiczne, z zastrzeżeniem ust. 3c.”,
+
+- **b)** ust. 6c otrzymuje brzmienie: „6c. Plan sieci publicznych placówek doskonalenia nauczycieli, bibliotek pedagogicznych oraz szkół i placówek, o których mowa w ust. 6, określa strategia rozwoju województwa ustalona na podstawie odrębnych przepisów.”;
+- **4)** w art. 5a w ust. 2 pkt 3 otrzymuje brzmienie: „3) samorządów województw – w szkołach, placówkach i placówkach doskonalenia nauczycieli oraz kolegiach pracowników służb społecznych, o których mowa w art. 5 ust. 6.”;
+- **5)** w art. 11 ust. 1 otrzymuje brzmienie: „1. Świadectwa i dyplomy państwowe wydawane przez uprawnione do tego szkoły, placówki kształcenia ustawicznego i placówki kształcenia praktycznego, kolegia pracowników służb społecznych oraz okręgowe komisje egzaminacyjne są dokumentami urzędowymi.”;
+- **6)** w art. 39 w ust. 1 pkt 7 otrzymuje brzmienie: „7) współdziała ze szkołami wyższymi w organizacji praktyk pedagogicznych;”;
+- **7)** tytuł rozdziału 6 otrzymuje brzmienie: „Placówki doskonalenia nauczycieli”;
+- **8)** uchyla się art. 77;
+- **9)** w art. 78 ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego oraz z ministrem właściwym do spraw rolnictwa, określi, w drodze rozporządzenia:
+- **1)** warunki i tryb tworzenia, przekształcania i likwidowania oraz organizację i sposób działania placówek doskonalenia, w tym zakres ich działalności obowiązkowej,
+- **2)** zadania doradców metodycznych, warunki i tryb powierzania nauczycielom zadań doradcy metodycznego – z uwzględnieniem zapewnienia nauczycielom dostępu do form doskonalenia i dokształcania umożliwiających podnoszenie wiedzy ogólnej i umiejętności zawodowych, a także możliwości prowadzenia niektórych form doskonalenia i dokształcania przez szkoły wyższe oraz inne jednostki.”;
+- **10)** art. 81 otrzymuje brzmienie: „Art. 81. 1. Publiczne szkoły, placówki, a także inne formy wychowania przedszkolnego, placówki doskonalenia nauczycieli i kolegia pracowników służb społecznych oraz prowadzące je organy są zwolnione z opłat z tytułu trwałego zarządu, użytkowania i użytkowania wieczystego nieruchomości stanowiących własność Skarbu Państwa lub jednostek samorządu terytorialnego i ich związków, zajętych na działalność oświatową.
+
+2. Publiczne szkoły, placówki, a także inne formy wychowania przedszkolnego, placówki doskonalenia nauczycieli i kolegia pracowników służb społecznych oraz prowadzące je organy są zwolnione z podatku od nieruchomości, podatku leśnego i podatku rolnego w zakresie nieruchomości zajętych na działalność oświatową, na zasadach określonych odpowiednio w przepisach o podatkach i opłatach lokalnych, podatku leśnym oraz podatku rolnym.”;
+
+- **11)** w art. 90 ust. 7 otrzymuje brzmienie: „7. Zwolnienia z podatków i opłat, o których mowa w art. 81, stosuje się również do niepublicznych szkół, placówek, a także innych form wychowania przedszkolnego, placówek doskonalenia nauczycieli i kolegiów pracowników służb społecznych oraz organów je prowadzących.”;
+- **12)** w art. 90b: 2, przysługują również uczniom szkół niepublicznych nieposiadających uprawnień szkół publicznych dla młodzieży i dla dorosłych – do czasu ukończenia realizacji obowiązku nauki.”;
+    - **a)** w ust. 3 pkt 1 otrzymuje brzmienie: „1) uczniom szkół publicznych i niepublicznych o uprawnieniach szkół publicznych dla młodzieży i dla dorosłych oraz słuchaczom kolegiów pracowników służb społecznych – do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 24. roku życia;”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Świadczenia pomocy materialnej, o których mowa w art. 90c ust.
+
+- **13)** w art. 90d:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Przepis ust. 2 stosuje się odpowiednio do wychowanków ośrodków, o których mowa w art. 90b ust. 3 pkt 2, oraz słuchaczy kolegiów pracowników służb społecznych.”,
+    - **b)** ust. 10 i 11 otrzymują brzmienie: „10. Stypendium szkolne jest przyznawane na okres nie krótszy niż miesiąc i nie dłuższy niż 10 miesięcy w danym roku szkolnym, a w przypadku słuchaczy kolegiów pracowników służb społecznych – na okres nie krótszy niż miesiąc i nie dłuższy niż 9 miesięcy w danym roku szkolnym.
+
+11. Jeżeli forma stypendium szkolnego tego wymaga, stypendium szkolne może być realizowane w okresach innych niż miesięczne lub jednorazowo, z tym że wartość stypendium szkolnego w danym roku szkolnym nie może przekroczyć łącznie dwudziestokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, a w przypadku słuchaczy kolegiów pracowników służb społecznych – osiemnastokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.”,
+
+- **c)** ust. 13 otrzymuje brzmienie: „13. Uczeń, który otrzymuje inne stypendium o charakterze socjalnym ze środków publicznych, może otrzymać stypendium szkolne w wysokości, która łącznie z innym stypendium o charakterze socjalnym ze środków publicznych nie przekracza dwudziestokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, a w przypadku słuchaczy kolegiów pracowników służb społecznych – osiemnastokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.”;
+- **14)** w art. 90g ust. 12 otrzymuje brzmienie: „12. Przepisy ust. 1–3 i 6–11 stosuje się odpowiednio do kolegium pracowników służb społecznych, z tym że wniosek o przyznanie stypendium za wyniki w nauce lub za osiągnięcia sportowe składa słuchacz.”;
+- **15)** w art. 90n:
+    - **a)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) wniosek odpowiednio dyrektora szkoły, kolegium pracowników służb społecznych lub ośrodka, o którym mowa w art. 90b ust. 3 pkt 2.”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Wniosek o przyznanie stypendium szkolnego składa się do dnia 15 września danego roku szkolnego, a w przypadku słuchaczy kolegiów pracowników służb społecznych – do dnia 15 października danego roku szkolnego.”;
+
+- **16)** w art. 90o ust. 3 otrzymuje brzmienie: „3. Przepis ust. 1 stosuje się odpowiednio do dyrektora szkoły, kolegium pracowników służb społecznych lub ośrodka, o którym mowa w art. 90b ust. 3 pkt 2, w przypadku gdy dyrektor poweźmie informację o ustaniu przyczyn, które stanowiły podstawę przyznania stypendium szkolnego.”;
+- **17)** w art. 90p w ust. 2 pkt 1 otrzymuje brzmienie: „1) publicznych szkołach, kolegiach pracowników służb społecznych prowadzonych przez jednostki samorządu terytorialnego jest zadaniem własnym tych jednostek;”;
+- **18)** w art. 94 ust. 1 otrzymuje brzmienie: „1. Kształcenie uczniów oraz doskonalenie nauczycieli może odbywać się za granicą, na podstawie umów międzynarodowych, porozumień o współpracy bezpośredniej zawieranych przez szkoły, organy prowadzące szkoły, jednostki samorządu terytorialnego, organy administracji rządowej i placówki doskonalenia, programów edukacyjnych Unii Europejskiej lub na zaproszenie podmiotów zagranicznych.”;
+- **19)** w art. 94a:
+    - **a)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Na warunkach dotyczących obywateli polskich z nauki w publicznych szkołach dla dorosłych, publicznych szkołach policealnych, publicznych szkołach artystycznych, publicznych placówkach i publicznych kolegiach pracowników służb społecznych oraz z kształcenia ustawicznego w formie kwalifikacyjnych kursów zawodowych korzystają:”,
+    - **b)** ust. 3 i 3a otrzymują brzmienie: „3. Osoby niebędące obywatelami polskimi, niewymienione w ust. 2, mogą korzystać z nauki w publicznych szkołach dla dorosłych, publicznych szkołach policealnych, publicznych szkołach artystycznych, publicznych placówkach i publicznych kolegiach pracowników służb społecznych oraz z kształcenia ustawicznego w formie kwalifikacyjnych kursów zawodowych:
+
+- **1)** jako stypendyści otrzymujący stypendium przyznane przez ministra właściwego do spraw oświaty i wychowania;
+- **2)** jako stypendyści otrzymujący stypendium przyznane przez organ prowadzący szkołę lub placówkę, przez dyrektora szkoły lub placówki;
+- **3)** na warunkach odpłatności.
+
+3a. Wysokość odpłatności za korzystanie z nauki w publicznych szkołach, placówkach i kolegiach pracowników służb społecznych oraz za kształcenie ustawiczne w formie kwalifikacyjnych kursów zawodowych, o której mowa w ust. 3 pkt 3, oraz sposób wnoszenia opłat ustala organ prowadzący, uwzględniając przewidywane koszty kształcenia lub koszty udzielanych świadczeń oraz możliwość całkowitego lub częściowego zwolnienia z tej odpłatności.”,
+
+- **c)** (uchylona).
 
 **Art. 5.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2012 r. poz. 592, z późn. zm. ) w art. 5 w ust. 8 pkt 1 otrzymuje brzmienie: „1) uczelni publicznych działających na podstawie przepisów o szkolnictwie wyższym;”.
 
@@ -562,6 +1313,95 @@ source: "isap-pdf"
 **Art. 7.** W ustawie z dnia 17 lipca 1998 r. o pożyczkach i kredytach studenckich (Dz. U. z 2014 r. poz. 1026) w art. 1 ust. 1 otrzymuje brzmienie: „1. Prawo do otrzymania pożyczek i kredytów, zwanych dalej „pożyczkami studenckimi” i „kredytami studenckimi”, na zasadach określonych w ustawie mają studenci i doktoranci, o których mowa w ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm. ), będący osobami cywilnymi, zwani dalej „studentami”.”.
 
 **Art. 8.** W ustawie z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. Nr 65, poz. 595, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 11:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Warunkiem wszczęcia przewodu doktorskiego jest posiadanie wydanej lub przyjętej do druku publikacji naukowej w formie książki lub co najmniej jednej publikacji naukowej w recenzowanym czasopiśmie naukowym wymienionym w wykazie czasopism naukowych ogłaszanym przez ministra właściwego do spraw nauki zgodnie z przepisami wydanymi na podstawie art. 44 ust. 2 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615, z późn. zm. ) lub w recenzowanych materiałach z międzynarodowej konferencji naukowej lub publiczna prezentacja dzieła artystycznego.”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. W przypadku osoby będącej beneficjentem programu „Diamentowy Grant”, o którym mowa w art. 187a ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym, która nie spełnia warunku wszczęcia przewodu doktorskiego określonego w ust. 2, warunkiem wszczęcia tego przewodu jest dołączenie do wniosku opinii potwierdzającej wysoką jakość prac badawczych prowadzonych przez tę osobę oraz wysoki stopień zaawansowania tych prac, wydanej przez opiekuna naukowego posiadającego tytuł profesora lub stopień doktora habilitowanego lub uprawnienie równoważne z uprawnieniami doktora habilitowanego, nabyte na podstawie art. 21a.”;
+
+- **2)** w art. 13 ust. 8 otrzymuje brzmienie: „8. Streszczenia rozpraw doktorskich i recenzje podlegające zamieszczeniu na stronie internetowej przekazuje się niezwłocznie po ich złożeniu do Centralnej Komisji w celu ich opublikowania w Biuletynie Informacji Publicznej.”;
+- **3)** art. 13a otrzymuje brzmienie: „Art. 13a. 1. W szczególnych przypadkach, uzasadnionych najwyższą jakością osiągnięć naukowych, stopień doktora można nadać osobie będącej:
+- **1)** studentem, który ukończył trzeci rok jednolitych studiów magisterskich albo
+- **2)** absolwentem studiów pierwszego stopnia, który posiada tytuł zawodowy licencjata, inżyniera lub równorzędny – i beneficjentem programu „Diamentowy Grant” ustanowionego przez ministra właściwego do spraw nauki oraz spełniła warunki określone w art. 12 ust. 1 pkt 2–4 i ust. 2 oraz art. 13.
+
+2. Beneficjent programu „Diamentowy Grant” po nadaniu stopnia doktora nabywa uprawnienia równoważne z uprawnieniami wynikającymi z odbycia studiów wyższych kończących się uzyskaniem kwalifikacji drugiego stopnia.”;
+
+- **4)** art. 14a otrzymuje brzmienie: „Art. 14a. 1. Przewody doktorskie, w ramach których są przygotowywane:
+- **1)** rozprawy doktorskie w zakresie określonej dyscypliny naukowej,
+- **2)** interdyscyplinarne rozprawy doktorskie – mogą być przeprowadzane wspólnie w zakresie jednej lub kilku dyscyplin naukowych.
+
+2. Wspólne przewody doktorskie przeprowadzają, na podstawie porozumienia, rady jednostek organizacyjnych, w tym także zagranicznych, jeżeli posiadają uprawnienie do nadawania stopnia doktora w zakresie dyscyplin, w których jest przeprowadzany przewód doktorski.
+
+3. W przypadku szkoły wyższej stroną porozumienia, o którym mowa w ust. 2, jest szkoła wyższa, której jednostki organizacyjne przeprowadzają wspólnie przewód doktorski.
+
+4. W przypadku gdy przewód doktorski jest przeprowadzany wspólnie z inną szkołą wyższą lub inną jednostką organizacyjną, w tym zagraniczną, czynności przewodu doktorskiego, o których mowa w art. 14 ust. 2 pkt 1, 2 i 5, kończą się uchwałami podejmowanymi w trybie określonym w porozumieniu, z uwzględnieniem przepisu art. 14 ust. 2 pkt 4.
+
+5. W przypadku, o którym mowa w ust. 4, uprawnienie do podejmowania uchwał, o których mowa w art. 14 ust. 2 pkt 3 i 4, przysługuje wspólnej komisji powołanej przez rady jednostek przeprowadzających przewód doktorski.
+
+6. W przypadku przewodu doktorskiego, o którym mowa w ust. 1 pkt 2, wspólna komisja przygotowuje projekt uchwały w sprawie nadania stopnia doktora w zakresie dyscypliny wiodącej, w którą osoba ubiegająca się o nadanie stopnia doktora wniosła największy wkład naukowy, i przedstawia go radzie jednostki organizacyjnej posiadającej uprawnienie do nadawania stopnia doktora w zakresie tej dyscypliny.
+
+7. Osobie, której nadano stopień doktora w zakresie określonej dyscypliny naukowej po przeprowadzeniu przewodu doktorskiego, o którym mowa w ust. 1 pkt 1:
+
+- **1)** wspólny dyplom wydają jednostki organizacyjne, które przeprowadziły ten przewód, albo
+- **2)** dyplom wydaje jedna z jednostek organizacyjnych, które przeprowadziły ten przewód, wskazana w porozumieniu.
+
+8. Osobie, której nadano stopień doktora w zakresie dyscypliny wiodącej, w którą osoba ta wniosła największy wkład naukowy, po przeprowadzeniu przewodu doktorskiego, o którym mowa w ust. 1 pkt 2:
+
+- **1)** wspólny dyplom wydają jednostki organizacyjne, które przeprowadziły ten przewód, albo
+- **2)** dyplom wydaje jedna z jednostek organizacyjnych, które przeprowadziły ten przewód, posiadająca uprawnienie do nadawania stopnia doktora w zakresie tej dyscypliny, wskazana w porozumieniu.
+
+9. Wzory dyplomów, o których mowa w ust. 7 i 8, zawierające niezbędne elementy określone w przepisach wydanych na podstawie art. 31 pkt 7, określa porozumienie, o którym mowa w ust. 2.”;
+
+- **5)** w art. 16 w ust. 2 pkt 1 otrzymuje brzmienie: „1) dzieło opublikowane w całości lub w zasadniczej części, albo cykl publikacji powiązanych tematycznie;”;
+- **6)** w art. 18a ust. 4 otrzymuje brzmienie: „4. Centralna Komisja dokonuje oceny formalnej wniosku w terminie 14 dni od dnia jego otrzymania. W przypadku uznania wniosku za niekompletny lub nieodpowiadający wymogom ustawy Centralna Komisja wzywa do jego uzupełnienia lub poprawienia, wskazując sposób i wyznaczając termin uzupełnienia lub poprawienia wniosku.”;
+- **7)** w art. 20 po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. W przypadku przygotowywania interdyscyplinarnej rozprawy doktorskiej można powołać drugiego promotora.
+
+4b. Przepisy dotyczące promotora stosuje się odpowiednio do kopromotora i drugiego promotora, z zastrzeżeniem że kopromotorowi nie przysługuje wynagrodzenie, o którym mowa w przepisach wydanych na podstawie art. 30 ust. 3.”;
+
+- **8)** w art. 21a ust. 3 otrzymuje brzmienie: „3. Decyzja rektora w sprawie nabycia uprawnień równoważnych uprawnieniom wynikającym z posiadania stopnia doktora habilitowanego wchodzi w życie po upływie czterech miesięcy od dnia jej otrzymania przez Centralną Komisję, jeżeli w tym okresie Centralna Komisja, w drodze decyzji administracyjnej, nie wyraziła sprzeciwu i nie uchyliła tej decyzji.”;
+- **9)** w art. 26 w ust. 1:
+    - **a)** pkt 1–3 otrzymują brzmienie: „1) posiada osiągnięcia naukowe znacznie przekraczające wymagania stawiane w postępowaniu habilitacyjnym;
+
+- **2)** posiada doświadczenie w kierowaniu zespołami badawczymi realizującymi projekty finansowane w drodze konkursów krajowych lub zagranicznych lub odbyła staże naukowe w instytucjach naukowych, w tym zagranicznych, lub prowadziła prace naukowe w instytucjach naukowych, w tym zagranicznych;
+- **3)** posiada osiągnięcia w opiece naukowej – uczestniczyła co najmniej:
+    - **a)** raz w charakterze promotora w przewodzie doktorskim zakończonym nadaniem stopnia oraz
+    - **b)** raz w charakterze promotora pomocniczego w przewodzie doktorskim zakończonym nadaniem stopnia lub uczestniczy w charakterze promotora w otwartym przewodzie doktorskim, oraz
+    - **c)** dwa razy w charakterze recenzenta w przewodzie doktorskim lub w przewodzie habilitacyjnym lub w postępowaniu habilitacyjnym – z zastrzeżeniem ust. 2 i 3.”,
+    - **b)** uchyla się pkt 4;
+
+- **10)** w art. 27 dodaje się ust. 6 w brzmieniu: „6. W postępowaniu o nadanie tytułu profesora stosuje się odpowiednio art. 20 ust. 1 i 2 oraz art. 21.”;
+- **11)** w art. 28 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. W przypadku powzięcia wiadomości o możliwości naruszenia przez kandydata do tytułu profesora praw autorskich Prezydent Rzeczypospolitej Polskiej może zwrócić się do Centralnej Komisji o dołączenie do wniosku opinii komisji do spraw etyki w nauce przy Polskiej Akademii Nauk.
+
+3b. W przypadku wydania przez komisję, o której mowa w ust. 3a, negatywnej opinii Centralna Komisja wznawia postępowanie o nadanie tytułu profesora lub wszczyna postępowanie w sprawie stwierdzenia nieważności postępowania o nadanie tytułu profesora.”;
+
+- **12)** po art. 29a dodaje się art. 29b w brzmieniu: „Art. 29b. W przypadku stwierdzenia nieważności postępowania o nadanie tytułu profesora albo uchylenia, w wyniku wznowienia postępowania, uchwały o przedstawieniu kandydata do tytułu profesora, osoba, której nadano tytuł profesora, traci prawo do posługiwania się tym tytułem.”;
+- **13)** art. 31 otrzymuje brzmienie: „Art. 31. Minister właściwy do spraw szkolnictwa wyższego, po zasięgnięciu opinii Centralnej Komisji, określi, w drodze rozporządzenia, szczegółowy tryb i warunki przeprowadzania czynności w przewodach doktorskich, w postępowaniu habilitacyjnym oraz w postępowaniu o nadanie tytułu profesora, a w szczególności:
+- **1)** dokumenty, jakie powinna przedstawić osoba ubiegająca się o wszczęcie przewodu doktorskiego, postępowania habilitacyjnego lub postępowania o nadanie tytułu profesora,
+- **2)** wzór ankiety oceny osiągnięć naukowych lub artystycznych osoby ubiegającej się o nadanie tytułu profesora, uwzględniając różne dziedziny nauki i sztuki,
+- **3)** skład oraz tryb działania komisji i zespołów powoływanych przez rady jednostek organizacyjnych przeprowadzających przewody doktorskie lub postępowanie o nadanie tytułu profesora, uwzględniając możliwość powoływania do składu komisji i zespołów osób posiadających tytuł profesora lub stopień doktora habilitowanego lub osób, które nabyły uprawnienia równoważne z uprawnieniami doktora habilitowanego na podstawie art. 21a, a w przypadku postępowania o nadanie tytułu naukowego – wyłącznie osób z tytułem profesora,
+- **4)** możliwość i warunki powtórnego zdawania egzaminów doktorskich,
+- **5)** wykaz certyfikatów potwierdzających znajomość języka obcego,
+- **6)** sposób przedstawiania i oceniania rozpraw doktorskich, w tym będących pracami zbiorowymi, z uwzględnieniem zróżnicowania ze względu na dziedziny nauk i sztuki, a także podejmowania uchwał o nadaniu stopnia doktora lub doktora habilitowanego,
+- **7)** niezbędne elementy dyplomów doktorskiego i habilitacyjnego, uwzględniając zasadę, że dyplom doktorski zawiera godło szkoły wyższej lub innej jednostki organizacyjnej oraz podpisy rektora (dyrektora innej jednostki organizacyjnej), przewodniczącego rady i promotora, a dyplom habilitacyjny – godło szkoły wyższej lub innej jednostki organizacyjnej oraz podpisy rektora (dyrektora innej jednostki organizacyjnej), przewodniczącego rady i przewodniczącego komisji habilitacyjnej,
+- **8)** wysokość opłat za wydanie dyplomu doktorskiego i habilitacyjnego oraz ich duplikatów i odpisów w języku angielskim albo języku łacińskim, nieprzekraczających kosztów sporządzenia dokumentów,
+- **9)** sposób ogłaszania przez ministra właściwego do spraw szkolnictwa wyższego informacji o nadanych stopniach doktora i doktora habilitowanego – mając na uwadze potrzebę zapewnienia rozwoju kadr naukowych oraz sprawnego i przejrzystego przeprowadzania postępowań.”;
+- **14)** po art. 31 dodaje się art. 31a–31d w brzmieniu: „Art. 31a. 1. Minister właściwy do spraw szkolnictwa wyższego prowadzi ogólnopolski wykaz osób, którym nadano stopień doktora lub doktora habilitowanego.
+
+2. W wykazie zamieszcza się następujące dane dotyczące osoby, której nadano stopień doktora lub doktora habilitowanego:
+
+- **1)** imiona i nazwisko;
+- **2)** numer PESEL, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość oraz kraj wydania dokumentu tożsamości;
+- **3)** obywatelstwo;
+- **4)** kraj pochodzenia – w przypadku osoby niebędącej obywatelem polskim;
+- **5)** rok urodzenia;
+- **6)** płeć;
+- **7)** nadany stopień;
+- **8)** datę wszczęcia przewodu doktorskiego albo postępowania habilitacyjnego, albo przewodu habilitacyjnego;
+- **9)** datę i numer uchwały o nadaniu stopnia albo datę zatwierdzenia tej uchwały przez Centralną Komisję;
+- **10)** obszar wiedzy, dziedzinę nauki lub sztuki, dyscyplinę naukową lub artystyczną, a także specjalność – jeżeli została określona;
+- **11)** dane jednostki organizacyjnej, która nadała stopień;
+- **12)** datę wydania i numer decyzji rady właściwej jednostki organizacyjnej w sprawie stwierdzenia nieważności postępowania o nadanie stopnia.
+
+3. Dane, o których mowa w ust. 2, wprowadzają do Systemu POL-on rektorzy uczelni lub dyrektorzy innych jednostek organizacyjnych w terminie 30 dni od dnia nadania stopnia doktora albo doktora habilitowanego.
 
 **Art. 31b.**
 
@@ -583,6 +1423,9 @@ source: "isap-pdf"
 3. Dane, o których mowa w ust. 2, wprowadza do Systemu POL-on Przewodniczący Centralnej Komisji w terminie 30 dni od dnia nadania tytułu profesora.
 
 **Art. 31c.** Dostęp do danych zawartych w wykazach, o których mowa w art. 31a ust. 1 i art. 31b ust. 1, przysługuje:
+
+- **1)** właściwym ministrom wskazanym w art. 33 ust. 2 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym, Przewodniczącemu Centralnej Komisji, Przewodniczącemu Rady Głównej Nauki i Szkolnictwa Wyższego, Przewodniczącemu Polskiej Komisji Akredytacyjnej, Prezesowi Polskiej Akademii Nauk;
+- **2)** rektorom uczelni i dyrektorom innych jednostek organizacyjnych w zakresie danych dotyczących kierowanych przez nich jednostek.
 
 **Art. 31d.**
 
@@ -612,6 +1455,10 @@ source: "isap-pdf"
 
 **Art. 9.** W ustawie z dnia 28 listopada 2003 r. o służbie zastępczej (Dz. U. z 2014 r. poz. 1027) w art. 21:
 
+- **1)** w ust. 1 pkt 4 otrzymuje brzmienie: „4) pobieranie nauki w uczelni – na czas pobierania tej nauki, nie dłużej jednak niż do końca roku akademickiego w tym roku kalendarzowym, w którym osoba podlegająca kwalifikacji wojskowej kończy 27. rok życia;”;
+- **2)** ust. 6 otrzymuje brzmienie: „6. Skreślenie z listy studentów powoduje utratę udzielonego odroczenia służby zastępczej z tytułu pobierania nauki.”;
+- **3)** ust. 7a otrzymuje brzmienie: „7a. Na wezwanie marszałka województwa osoba podlegająca kwalifikacji wojskowej okazuje odpowiednio: zaświadczenie potwierdzające status studenta, świadectwo szkolne z wpisem o zaliczeniu (zdaniu) roku (semestru) nauki oraz legitymację szkolną (studencką) z wpisem o rozpoczęciu nauki w kolejnym roku (semestrze).”.
+
 **Art. 10.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2013 r. poz. 1456, z późn. zm. ) w art. 3 pkt 19 otrzymuje brzmienie: „19) szkole wyższej – oznacza to uczelnię w rozumieniu przepisów o szkolnictwie wyższym oraz kolegium pracowników służb społecznych;”.
 
 **Art. 11.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243 i 827) w art. 81 w ust. 5 uchyla się pkt 3.
@@ -628,9 +1475,53 @@ source: "isap-pdf"
 
 **Art. 17.** W ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618 oraz z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092) wprowadza się następujące zmiany:
 
+- **1)** w art. 17 ust. 1 otrzymuje brzmienie: „1. Do czynności prawnych dokonywanych przez instytut, z wyłączeniem czynności w zakresie komercjalizacji wyników badań naukowych i prac rozwojowych, stosuje się przepisy art. 5a–5c ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. z 2012 r. poz. 1224).”;
+- **2)** w art. 24 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Dyrektor, po zaopiniowaniu przez radę naukową, ustala regulamin zarządzania prawami autorskimi i prawami pokrewnymi oraz prawami własności przemysłowej oraz zasad komercjalizacji wyników badań naukowych i prac rozwojowych, który określa w szczególności:
+- **1)** prawa i obowiązki instytutu, pracowników oraz doktorantów w zakresie ochrony i korzystania z praw autorskich i praw pokrewnych oraz praw własności przemysłowej;
+- **2)** zasady wynagradzania twórców;
+- **3)** zasady podziału środków uzyskanych z komercjalizacji między twórcą będącym pracownikiem instytutu a tym instytutem;
+- **4)** zasady i procedury komercjalizacji wyników badań naukowych i prac rozwojowych oraz know-how związanego z tymi wynikami;
+- **5)** zasady korzystania z majątku instytutu wykorzystywanego do komercjalizacji wyników badań naukowych i prac rozwojowych oraz świadczenia usług naukowo-badawczych.”;
+- **3)** w art. 29 w ust. 2 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „17) opiniowanie regulaminu zarządzania prawami autorskimi i prawami pokrewnymi oraz prawami własności przemysłowej oraz zasad komercjalizacji wyników badań naukowych i prac rozwojowych.”;
+- **4)** po art. 37 dodaje się art. 37a w brzmieniu: „Art. 37a. 1. Minister nadzorujący może przyznać, na wniosek dyrektora zaopiniowany przez radę naukową, stypendium za wybitne osiągnięcia uczestnikowi studiów doktoranckich prowadzonych przez instytut badawczy posiadającemu wybitne osiągnięcia naukowe.
+
+2. Do przyznawania stypendium stosuje się odpowiednio przepisy wydane na podstawie art. 199c ust. 3 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm. ) w zakresie:
+
+- **1)** warunków przyznawania stypendium;
+- **2)** trybu składania wniosku do ministra nadzorującego;
+- **3)** wzoru wniosku.
+
+3. Stypendium za wybitne osiągnięcia jest finansowane z budżetu państwa z części, której dysponentem jest minister nadzorujący.”.
+
 **Art. 18.** W ustawie z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. Nr 96, poz. 619, z 2011 r. Nr 84, poz. 455 oraz z 2013 r. poz. 675) wprowadza się następujące zmiany:
 
+- **1)** w art. 24 ust. 3 otrzymuje brzmienie: „3. Do rozporządzania składnikami aktywów trwałych Akademii o wartości rynkowej przekraczającej równowartość w złotych 50 000 euro, z wyłączeniem czynności w zakresie komercjalizacji wyników badań naukowych i prac rozwojowych, stosuje się przepisy art. 5a–5c ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. z 2012 r. poz. 1224).”;
+- **2)** w art. 54 ust. 2 otrzymuje brzmienie: „2. Dyrektor rozporządza składnikami aktywów trwałych instytutu. Do czynności prawnych w zakresie rozporządzania składnikami aktywów trwałych instytutu o wartości rynkowej przekraczającej równowartość 50 000 euro, z wyłączeniem czynności w zakresie komercjalizacji wyników badań naukowych i prac rozwojowych, stosuje się przepisy art. 5a–5c ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa.”;
+- **3)** w art. 55 w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) uchwala regulamin zarządzania prawami autorskimi i prawami pokrewnymi oraz prawami własności przemysłowej oraz zasad komercjalizacji wyników badań naukowych i prac rozwojowych.”;
+- **4)** po art. 70 dodaje się art. 70a w brzmieniu: „Art. 70a. 1. Prezes Akademii może przyznać, na wniosek dyrektora zaopiniowany przez radę naukową, stypendium za wybitne osiągnięcia uczestnikowi studiów doktoranckich prowadzonych przez instytut posiadającemu wybitne osiągnięcia naukowe.
+
+2. Do przyznawania stypendium stosuje się odpowiednio przepisy wydane na podstawie art. 199c ust. 3 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm. ) w zakresie:
+
+- **1)** warunków przyznawania stypendium;
+- **2)** trybu składania wniosku do ministra nadzorującego;
+- **3)** wzoru wniosku.
+
+3. Stypendium za wybitne osiągnięcia jest finansowane z budżetu Akademii ze środków, o których mowa w art. 79 ust. 1 pkt 2.”;
+
+- **5)** w art. 84 ust. 6 otrzymuje brzmienie: „6. Instytuty prowadzą samodzielną gospodarkę finansową, pokrywając koszty działalności z przydzielonych im środków publicznych na zasadach określonych w przepisach ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki oraz ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. ), a także z innych środków pozyskiwanych przez instytuty, w tym z wynagrodzenia, o którym mowa w art. 94c ust. 2, oraz z części środków przysługujących instytutom z tytułu komercjalizacji przez pracownika instytutu wyników badań naukowych, prac rozwojowych lub know-how związanego z tymi wynikami.”;
+- **6)** po art. 94 dodaje się art. 94a–94g w brzmieniu: „Art. 94a. Rada naukowa uchwala regulamin zarządzania prawami autorskimi i prawami pokrewnymi oraz prawami własności przemysłowej oraz zasad komercjalizacji wyników badań naukowych i prac rozwojowych, który określa w szczególności:
+- **1)** prawa i obowiązki instytutu, pracowników oraz doktorantów w zakresie ochrony i korzystania z praw autorskich i praw pokrewnych oraz praw własności przemysłowej;
+- **2)** zasady wynagradzania twórców;
+- **3)** zasady podziału środków uzyskanych z komercjalizacji między twórcą będącym pracownikiem instytutu a tym instytutem;
+- **4)** zasady i procedury komercjalizacji wyników badań naukowych i prac rozwojowych oraz know-how związanego z tymi wynikami;
+- **5)** zasady korzystania z majątku instytutu wykorzystywanego do komercjalizacji wyników badań naukowych i prac rozwojowych oraz świadczenia usług naukowo-badawczych;
+- **6)** zasady i tryb przekazywania instytutowi przez pracownika lub doktoranta tego instytutu informacji o wynikach badań naukowych lub prac rozwojowych oraz o know-how związanym z tymi wynikami, informacji o uzyskanych przez pracownika instytutu środkach z komercjalizacji oraz zasady i tryb przekazywania przez pracownika instytutu przysługujących instytutowi części środków uzyskanych z komercjalizacji;
+- **7)** zasady i tryb przekazywania pracownikowi przez instytut informacji o decyzjach, o których mowa w art. 94c ust. 1 i 2, oraz zasady i tryb przekazywania przez instytut przysługujących pracownikowi części środków uzyskanych z komercjalizacji.
+
 **Art. 94b.** Do wyników:
+
+- **1)** badań naukowych będących wynalazkiem, wzorem użytkowym, wzorem przemysłowym lub topografią układu scalonego, wyhodowaną albo odkrytą i wyprowadzoną odmianą rośliny,
+- **2)** prac rozwojowych – powstałych w ramach wykonywania przez pracownika instytutu obowiązków ze stosunku pracy oraz do know-how związanego z tymi wynikami stosuje się przepisy art. 94c–94f.
 
 **Art. 94c.**
 
@@ -682,7 +1573,25 @@ source: "isap-pdf"
 
 **Art. 19.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. Nr 139, poz. 814, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 7:
+    - **a)** uchyla się pkt 22,
+    - **b)** pkt 23 otrzymuje brzmienie: „23) nazwa i siedziba uczelni sprawującej opiekę naukowo-dydaktyczną nad kolegium pracowników służb społecznych;”;
+
+- **2)** w art. 15 wprowadzenie do wyliczenia otrzymuje brzmienie: „Dane dziedzinowe w związku z nauką ucznia w kolegium pracowników służb społecznych obejmują:”;
+- **3)** w art. 33 pkt 2 otrzymuje brzmienie: „2) minister właściwy do spraw oświaty i wychowania przekazuje dane prowadzonych przez tego ministra:
+    - **a)** publicznych placówek doskonalenia nauczycieli o zasięgu ogólnokrajowym,
+    - **b)** publicznych szkół i placówek o charakterze eksperymentalnym,
+    - **c)** publicznych placówek kształcenia ustawicznego o zasięgu ogólnokrajowym,
+    - **d)** zespołów szkół lub placówek oświatowych;”;
+
+- **4)** w art. 42 pkt 3 otrzymuje brzmienie: „3) dane w związku z nauką ucznia – szkoła albo kolegium pracowników służb społecznych, do którego uczeń uczęszcza;”;
+- **5)** w art. 45 ust. 1 otrzymuje brzmienie: „1. Po przekazaniu przez szkołę lub placówkę oświatową do bazy danych SIO informacji o zakończeniu uczęszczania przez ucznia do przedszkola, oddziału przedszkolnego zorganizowanego w szkole podstawowej lub innej formy wychowania przedszkolnego, zakończeniu nauki przez ucznia w szkole lub kolegium pracowników służb społecznych, zakończeniu przez ucznia kwalifikacyjnego kursu zawodowego w placówce kształcenia ustawicznego, placówce kształcenia praktycznego lub ośrodku dokształcania i doskonalenia zawodowego albo ustaniu pobytu ucznia w placówce oświatowej, zbiór danych o uczniu w lokalnej bazie danych SIO prowadzonej przez daną szkołę lub placówkę oświatową, z dniem przekazania tej informacji, staje się nieaktywny i nie może być zmieniany ani uzupełniany.”;
+- **6)** art. 46 otrzymuje brzmienie: „Art. 46. Przekazywanie do bazy danych SIO danych dziedzinowych ucznia przez przedszkole, szkołę podstawową, w której został zorganizowany oddział przedszkolny, inną formę wychowania przedszkolnego, szkołę lub kolegium pracowników służb społecznych, w których uczeń odpowiednio rozpoczął naukę w ramach kolejnego etapu edukacyjnego albo w ramach danego etapu edukacyjnego w związku ze zmianą odpowiednio przedszkola, innej formy wychowania przedszkolnego, szkoły lub kolegium pracowników służb społecznych, następuje po przekazaniu do bazy danych SIO przez odpowiednio przedszkole, inną formę wychowania przedszkolnego, szkołę lub kolegium pracowników służb społecznych, do których uczeń dotychczas uczęszczał, informacji o dacie zakończenia uczęszczania do przedszkola, oddziału przedszkolnego zorganizowanego w szkole podstawowej lub innej formy wychowania przedszkolnego lub zakończenia nauki w szkole lub kolegium pracowników służb społecznych.”.
+
 **Art. 20.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2013 r. poz. 135, ze zm. ) w art. 37 w ust. 2:
+
+- **1)** w pkt 1 uchyla się lit. b;
+- **2)** w pkt 2 uchyla się lit. b.
 
 **Art. 21.** Z dniem 1 października 2016 r. likwiduje się kolegia nauczycielskie i nauczycielskie kolegia języków obcych.
 
@@ -801,7 +1710,21 @@ source: "isap-pdf"
 
 **Art. 46.** W terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy:
 
+- **1)** senat, a w przypadku uczelni niepublicznej – organ wskazany w statucie, uchwali regulaminy, o których mowa w art. 86c ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą;
+- **2)** dyrektor instytutu badawczego ustali regulamin, o którym mowa w art. 24 ust. 1a ustawy, o której mowa w art. 17, w brzmieniu nadanym niniejszą ustawą;
+- **3)** rada naukowa instytutu Polskiej Akademii Nauk uchwali regulamin, o którym mowa w art. 94a ustawy, o której mowa w art. 18, w brzmieniu nadanym niniejszą ustawą.
+
 **Art. 47.** Wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy postępowania w sprawach:
+
+- **1)** dotyczących:
+    - **a)** pozwoleń na utworzenie uczelni niepublicznych niezaopiniowanych przez Polską Komisję Akredytacyjną,
+    - **b)** uprawnień do prowadzenia studiów na określonym kierunku, poziomie i profilu kształcenia niezaopiniowanych przez Polską Komisję Akredytacyjną – są prowadzone na zasadach i w trybie określonych w ustawie, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą;
+
+- **2)** dotyczących:
+    - **a)** pozwoleń na utworzenie uczelni niepublicznych zaopiniowanych przez Polską Komisję Akredytacyjną,
+    - **b)** uprawnień do prowadzenia studiów na określonym kierunku, poziomie i profilu kształcenia zaopiniowanych przez Polską Komisję Akredytacyjną – są prowadzone na zasadach i w trybie określonych w przepisach dotychczasowych;
+
+- **3)** w których nie została wydana decyzja w wyniku ponownego rozpatrzenia sprawy, są prowadzone na podstawie przepisów dotychczasowych.
 
 **Art. 48.** Wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy postępowania w sprawach dotyczących odpowiedzialności dyscyplinarnej nauczycieli akademickich są prowadzone do czasu ich zakończenia na podstawie przepisów dotychczasowych przez komisje dyscyplinarne, które w dniu wejścia w życie niniejszej ustawy prowadziły postępowanie.
 
@@ -837,5 +1760,14 @@ source: "isap-pdf"
 
 **Art. 56.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
+- **1)** art. 8 ust. 6, art. 9 ust. 1 pkt 1 i ust. 3 pkt 1, 2 i 5, art. 9 ust. 3 pkt 3 i 4, art. 15 ust. 3, art. 149 ust. 3, art. 162 oraz art. 201 ust. 1 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 8 ust. 6, art. 9 ust. 1 pkt 1 i ust. 3 pkt 1, 2 i 5, art. 9 ust. 3 pkt 3 i 4, art. 15 ust. 3, art. 149 ust. 3, art. 162 oraz art. 201 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą,
+- **2)** art. 31 ustawy, o której mowa w art. 8, zachowuje moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 31 ustawy, o której mowa w art. 8, w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
 **Art. 57.** Ustawa wchodzi w życie z dniem 1 października 2014 r., z wyjątkiem:
+
+- **1)** art. 21, który wchodzi w życie z dniem ogłoszenia;
+- **2)** art. 1 pkt 72–76, 79 i 82, które wchodzą w życie z dniem 1 stycznia 2015 r.;
+- **3)** art. 1 pkt 121, 123 lit. b i 134, które wchodzą w życie z dniem 1 lipca 2015 r.;
+- **4)** art. 2–4, art. 6, art. 9–13, art. 19, art. 20 i art. 22, które wchodzą w życie z dniem 1 października 2016 r.
+
 

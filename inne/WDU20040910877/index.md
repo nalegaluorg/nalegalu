@@ -8,7 +8,7 @@ pos: 877
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o środkach żywienia zwierząt oraz o zmianie niektórych innych ustaw
@@ -29,14 +29,99 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 23 sierpnia 2001 r. o środkach żywienia zwierząt (Dz.U. Nr 123, poz. 1350 oraz z 2003 r. Nr 122, poz. 1144 i Nr 208, poz. 2020) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 w ust. 1 pkt 1 i 2 otrzymują brzmienie: „1)zasady wytwarzania i stosowania środków żywienia zwierząt i pasz leczniczych oraz obrotu nimi,
+- **2)** zasady sprawowania nadzoru przez Inspekcję Weterynaryjną w zakresie, o którym mowa w pkt 1,”;
+- **2)** w art. 2:
+    - **a)** po pkt 2 dodaje się pkt 2a w brzmieniu: „2a)pasze lecznicze - mieszaninę jednego lub kilku premiksów leczniczych weterynaryjnych z jedną lub kilkoma paszami, przeznaczoną, ze względu na swoje właściwości profilaktyczne lub lecznicze, do podawania zwierzętom w formie niezmienionej,”,
+    - **b)** pkt 3 otrzymuje brzmienie: „3)materiały paszowe - produkty pochodzenia roślinnego lub zwierzęcego występujące w stanie naturalnym, świeże lub konserwowane albo przetworzone, oraz inne substancje organiczne, a także substancje nieorganiczne, zawierające dodatki paszowe albo niezawierające tych dodatków, przeznaczone do żywienia zwierząt, w formie nieprzetworzonej lub przetworzonej, albo do sporządzania mieszanek paszowych, albo jako nośniki premiksów,”,
+    - **c)** po pkt 5 dodaje się pkt 5a w brzmieniu: „5a)dawka dzienna - całkowitą ilość pasz obliczoną w odniesieniu do pasz zawierających wodę w ilości 12%, niezbędną do zaspokojenia dziennych potrzeb żywieniowych zwierząt danego gatunku, o określonym wieku i kierunku użytkowania,”,
+    - **d)** pkt 6 otrzymuje brzmienie: „6)mieszanki paszowe - mieszaniny materiałów paszowych zawierające dodatki paszowe lub premiksy albo niezawierające tych dodatków lub premiksów, przeznaczone do stosowania w żywieniu zwierząt, w formie mieszanki paszowej pełnoporcjowej albo mieszanki paszowej uzupełniającej,”,
+    - **e)** pkt 8 otrzymuje brzmienie: „8)mieszanka paszowa uzupełniająca - mieszankę paszową charakteryzującą się wysoką zawartością niektórych substancji, która ze względu na swój skład jest wystarczająca dla zapewnienia dawki dziennej, wyłącznie w przypadku gdy jest stosowana z innymi paszami,”,
+    - **f)** pkt 18 otrzymuje brzmienie: „18) zwierzęta domowe - zwierzęta, z wyjątkiem zwierząt futerkowych, utrzymywane i karmione przez ludzi w celu innym niż pozyskanie produktów spożywczych pochodzenia zwierzęcego,”,
+    - **g)** w pkt 19 kropkę zastępuje się przecinkiem i dodaje się pkt 20-22 w brzmieniu: „20) zakład - przedsiębiorstwo wytwarzające, magazynujące lub wprowadzające do obrotu środki żywienia zwierząt lub pasze lecznicze,
+
+- **21)** przesyłka - określoną ilość środków żywienia zwierząt lub pasz leczniczych, objętą tym samym dokumentem potwierdzającym przeprowadzenie kontroli przesyłki, przewożoną jednym środkiem transportu oraz pochodzącą z jednego państwa trzeciego lub jego części,
+- **22)** osoba odpowiedzialna za przesyłkę - osobę odpowiedzialną za przesyłkę w rozumieniu przepisów o weterynaryjnej kontroli granicznej.”;
+- **3)** po art. 2 dodaje się art. 2a w brzmieniu: „Art. 2a. Przepisy ustawy nie naruszają przepisów o weterynaryjnej kontroli granicznej oraz przepisów o kontroli weterynaryjnej w handlu.”;
+- **4)** art. 3 otrzymuje brzmienie: „Art. 3. Środki żywienia zwierząt powinny być właściwej jakości, dostosowane do potrzeb żywieniowych zwierząt, dla których są przeznaczone, i nie mogą szkodliwie wpływać na zdrowie ludzi lub zwierząt, jakość środków spożywczych pochodzenia zwierzęcego oraz na środowisko.”;
+- **5)** art. 5 otrzymuje brzmienie: „Art. 5. Działalność gospodarcza w zakresie wytwarzania środków żywienia zwierząt i pasz leczniczych powinna być prowadzona w specjalnie do tego celu przystosowanych pomieszczeniach.”;
+- **6)** w art. 6:
+    - **a)** w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) pasz leczniczych”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku prowadzenia działalności gospodarczej w zakresie wytwarzania pasz leczniczych wytwórca pasz leczniczych prowadzi:
+
+- **1)** dokumentację wytwarzania pasz leczniczych, zwaną dalej „raportem wytwarzania”,
+- **2)** dokumentację obrotu paszami leczniczymi, zwaną dalej „raportem obrotu.”,
+    - **c)** dodaje się ust. 4 i 5 w brzmieniu: „4. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe warunki techniczne i organizacyjne, jakie powinien spełniać zakład wytwarzający pasze lecznicze, oraz sposób ich produkcji,
+- **2)** warunki, sposób przechowywania i wprowadzania do obrotu pasz leczniczych oraz wzór zlecenia na wprowadzenie ich do obrotu,
+- **3)** sposób prowadzenia raportu wytwarzania i raportu obrotu,
+- **4)** sposób znakowania i transportu pasz leczniczych oraz sposób dokumentowania użycia do produkcji oraz przechowywania premiksów leczniczych zakupionych przez zakład wytwarzający pasze lecznicze,
+- **5)** warunki i sposób pobierania próbek pasz leczniczych - mając na względzie zapewnienie właściwej jakości pasz leczniczych, bezpieczeństwo tych pasz dla zdrowia ludzi i zwierząt oraz ich skuteczność w leczeniu zwierząt.
+
+5. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, sposób postępowania z odpadami powstałymi w procesie wytwarzania pasz leczniczych oraz w wyniku ich wykorzystywania, mając na względzie bezpieczne usunięcie tych odpadów oraz eliminację zagrożeń, które mogą być stwarzane przez te odpady dla ludzi, zwierząt i środowiska.”;
+
+- **7)** w art. 7 w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „3) w zakresie wytwarzania pasz leczniczych procesem produkcji powinna kierować osoba, która ukończyła studia wyższe na jednym z kierunków: biologia, chemia, farmacja, rolnictwo, zootechnika lub weterynaria.”;
+- **8)** po art. 8 dodaje się art. 8a w brzmieniu: „Art. 8a. Spis wytwarzanych środków żywienia zwierząt, o którym mowa w art. 6 ust. 2 pkt 7, oraz raporty wytwarzania i raporty obrotu przechowuje się przez okres 3 lat od dnia dokonania ostatniego wpisu.”;
+- **9)** w art. 12 dodaje się ust. 3 i 4 w brzmieniu: „3. Podjęcie działalności gospodarczej w zakresie wytwarzania pasz leczniczych wymaga zezwolenia wydanego, w drodze decyzji administracyjnej, przez właściwego wojewódzkiego lekarza weterynarii.
+
+4. Zezwolenie na wytwarzanie pasz leczniczych uprawnia do wprowadzania pasz leczniczych do obrotu, z zastrzeżeniem art. 38a ust. 1 i 2.”;
+
+- **10)** art. 13 i 14 otrzymują brzmienie: „Art. 13. Zezwolenia, o których mowa w art. 12, wydaje się po stwierdzeniu, że wnioskodawca spełnia wymagania techniczne i organizacyjne obowiązujące w zakresie wytwarzania środków żywienia zwierząt lub pasz leczniczych.
+
 **Art. 14.** Wnioskodawca w celu uzyskania zezwolenia, o którym mowa w art. 12 ust. 1 i 2, składa wniosek do właściwego ze względu na miejsce prowadzenia działalności powiatowego lekarza weterynarii, a w przypadku zezwolenia, o którym mowa w art. 12 ust. 3 - do wojewódzkiego lekarza weterynarii właściwego ze względu na miejsce prowadzenia działalności.”;
+
+- **11)** w art. 15 ust. 1 otrzymuje brzmienie: „1. Wniosek o wydanie zezwolenia, o którym mowa w art. 12 ust. 1, zawiera:
+- **1)** imię, nazwisko i adres albo nazwę i adres siedziby wytwórcy,
+- **2)** określenie zakresu wykonywanej działalności gospodarczej z podaniem rodzajów wytwarzanych środków żywienia zwierząt,
+- **3)** wskazanie miejsca wytwarzania środków żywienia zwierząt.”;
+- **12)** po art. 16 dodaje się art. 16a w brzmieniu: „Art. 16a. Wniosek o wydanie zezwolenia, o którym mowa w art. 12 ust. 3, zawiera:
+- **1)** imię, nazwisko i adres albo nazwę i adres siedziby wytwórcy,
+- **2)** określenie zakresu wykonywanej działalności gospodarczej,
+- **3)** wskazanie miejsca wytwarzania pasz leczniczych.”;
+- **13)** w art. 17 ust. 3 otrzymuje brzmienie: „3. Powiatowy lekarz weterynarii, a w przypadku, o którym mowa w art. 12 ust. 3, wojewódzki lekarz weterynarii, odmawia wydania zezwolenia, w drodze decyzji administracyjnej, jeżeli wnioskodawca nie spełnia wymagań, o których mowa w art. 13.”;
+- **14)** art. 18 otrzymuje brzmienie: „Art. 18. Zezwolenia, o których mowa w art. 12 ust. 1 i 2, mogą być cofnięte przez powiatowego lekarza weterynarii, a w przypadku zezwolenia, o którym mowa w art. 12 ust. 3 - przez wojewódzkiego lekarza weterynarii, jeżeli wytwarzanie środków żywienia zwierząt lub pasz leczniczych odbywa się niezgodnie z przepisami prawa.”;
+- **15)** w art. 19:
+    - **a)** uchyla się ust. 5,
+    - **b)** ust. 8 otrzymuje brzmienie: „8. Do zgłoszeń, o których mowa w ust. 6 i 7, stosuje się odpowiednio przepisy ust. 2 i 3.”;
+
+- **16)** w art. 34 ust. 3 otrzymuje brzmienie: „3. Przepis ust. 1 nie dotyczy przedsiębiorcy, który uzyskał zezwolenie, o którym mowa w art. 12 ust. 1, oraz przedsiębiorcy, o którym mowa w art. 34a ust. 1.”;
+- **17)** po art. 34 dodaje się art. 34a w brzmieniu: „Art. 34a. 1. Przedsiębiorca zamierzający prowadzić działalność gospodarczą w zakresie oferowania do sprzedaży lub sprzedaży środków żywienia zwierząt, który nie wytwarza i nie przechowuje tych środków, zgłasza zamiar prowadzenia tej działalności do powiatowego lekarza weterynarii właściwego ze względu na siedzibę przedsiębiorcy.
+
+2. Przedsiębiorca, o którym mowa w ust. 1, jest obowiązany prowadzić spis oferowanych do sprzedaży lub sprzedawanych środków żywienia zwierząt. Przepisy art. 8 stosuje się odpowiednio.
+
+3. Zgłoszenie, o którym mowa w ust. 1, zawiera:
+
+- **1)** imię, nazwisko i adres albo nazwę i adres siedziby wnioskodawcy,
+- **2)** określenie zakresu wykonywanej działalności gospodarczej z podaniem rodzaju oferowanych do sprzedaży lub sprzedawanych środków żywienia zwierząt,
+- **3)** oświadczenie wnioskodawcy o prowadzeniu spisu, o którym mowa w ust. 2.”;
+- **18)** w art. 36 ust. 1 otrzymuje brzmienie: „1. Główny Lekarz Weterynarii prowadzi ewidencję przedsiębiorców prowadzących działalność gospodarczą w zakresie wytwarzania środków żywienia zwierząt lub pasz leczniczych oraz obrotu nimi, a także podmiotów wytwarzających mieszanki paszowe, o których mowa w art. 12 ust. 2 pkt 1 i art. 19 ust. 6. Ewidencja jest jawna.”;
+- **19)** po art. 38 dodaje się art. 38a i 38b w brzmieniu: „Art. 38a. 1. Wytwórca pasz leczniczych wprowadza je do obrotu na podstawie zlecenia na wprowadzenie do obrotu paszy leczniczej wystawionego przez lekarza weterynarii świadczącego usługi z zakresu medycyny weterynaryjnej.
+
+2. Paszę leczniczą wprowadza się do obrotu wyłącznie przez jej bezpośrednie dostarczenie do odbiorcy wskazanego w zleceniu, o którym mowa w ust. 1.
+
+3. Pasze lecznicze wytwarza się z premiksów leczniczych dopuszczonych do obrotu na podstawie przepisów Prawa farmaceutycznego.
+
+4. W przypadku braku dopuszczonego do obrotu premiksu leczniczego właściwego dla danego gatunku zwierząt lub leczonej jednostki chorobowej lekarz weterynarii, o którym mowa w ust. 1, może zlecić wytwórcy paszy leczniczej wytworzenie jej z innych dopuszczonych do obrotu premiksów leczniczych, podając w zleceniu:
+
+- **1)** dokładny skład paszy leczniczej, ze szczególnym uwzględnieniem sposobu dawkowania premiksu leczniczego,
+- **2)** okres karencji paszy leczniczej.
+
+5. Jeżeli zachodzą wyjątkowe okoliczności, w przypadku, o którym mowa w ust. 4, paszę leczniczą może wytworzyć, na własną odpowiedzialność, lekarz weterynarii świadczący usługi z zakresu medycyny weterynaryjnej.
+
+6. Dopuszcza się wytwarzanie paszy leczniczej z produktów pośrednich, którymi są mieszanki dopuszczonego do obrotu premiksu leczniczego z paszą, które mogą być wprowadzone do obrotu z przeznaczeniem dla innego zakładu wytwarzającego paszę leczniczą.
+
+7. Mieszankę, o której mowa w ust. 6, wytwarza i wprowadza do obrotu wytwórca pasz leczniczych posiadający zezwolenie, o którym mowa w art. 12 ust. 3.
+
+8. Wprowadzane do obrotu pasze lecznicze powinny być zabezpieczone i oznakowane zgodnie z przepisami wydanymi na podstawie art. 6 ust. 4.
 
 **Art. 38b.**
 
 1. Materiały paszowe inne niż wymienione w art. 6 ust. 1 pkt 3, które nie spełniają wymagań określonych w przepisach wydanych na podstawie art. 38 ust. 5 pkt 1 na skutek braku możliwości przeprowadzenia odpowiednich badań w państwie dostawcy, mogą być przywożone z państw trzecich, pod warunkiem że:
 
 - **1)** importer dostarczy wstępne informacje dotyczące składu materiału paszowego, wymagające potwierdzenia wdrodze badania laboratoryjnego,
-- **2)** materiał paszowy nie był dotychczas stosowany w żywieniu zwierząt i z takim przeznaczeniem jest wprowadzany po raz pierwszy, rynarii o przewidywanej dostawie takiego materiału paszowego na co najmniej 7 dni przed przewidywanym terminem dostawy,
+- **2)** materiał paszowy nie był dotychczas stosowany w żywieniu zwierząt i z takim przeznaczeniem jest wprowadzany po raz pierwszy,
+- **3)** importer powiadomi właściwego powiatowego lekarza weterynarii o przewidywanej dostawie takiego materiału paszowego na co najmniej 7 dni przed przewidywanym terminem dostawy,
 - **4)** ostateczne informacje dotyczące zawartości składników pokarmowych w tym materiale paszowym zostaną przekazane jego nabywcy oraz właściwemu powiatowemu lekarzowi weterynarii w terminie 10 dni roboczych od dnia dostarczenia tego materiału,
 - **5)** w oznakowaniu takiego materiału paszowego, w odniesieniu do zawartości składników pokarmowych, jest zamieszczony wytłuszczonym drukiem napis: „dane tymczasowe, wymagające potwierdzenia przez……. (nazwa i adres laboratorium, któremu zlecono przeprowadzenie analiz), dotyczące …. (numer referencyjny próbki przekazanej do analizy), przed ..….. (data)”.
 
@@ -57,7 +142,8 @@ source: "isap-pdf"
 
 - **1)** dodatków paszowych i ich zawartości w środkach żywienia zwierząt oraz w paszach leczniczych,
 - **2)** zawartości niepożądanych substancji w środkach żywienia zwierząt i w paszach leczniczych,
-- **3)** substancji, których stosowanie w żywieniu zwierząt jest zabronione, ich przydatności w żywieniu zwierząt,
+- **3)** substancji, których stosowanie w żywieniu zwierząt jest zabronione,
+- **4)** materiałów paszowych i mieszanek paszowych, w zakresie ich przydatności w żywieniu zwierząt,
 - **5)** w zakresie zawartości pozostałości środków ochrony roślin w materiałach paszowych,
 - **6)** obecności, oznaczania zawartości i identyfikacji gatunkowej przetworzonego białka zwierzęcego,
 - **7)** obecności substancji o działaniu hormonalnym, tyreostatycznym i betaagonistycznym,
@@ -81,7 +167,8 @@ source: "isap-pdf"
 - **2)** metodykę postępowania analitycznego w zakresie określania zawartości składników pokarmowych i dodatków paszowych w materiałach paszowych, premiksach, mieszankach paszowych i paszach leczniczych, mając na względzie przeprowadzenie analizy według metodyki zatwierdzonej przez Unię Europejską ,
 - **3)** wykaz laboratoriów upoważnionych do prowadzenia badań w ramach kontroli urzędowej, mając na względzie zachowanie rzetelności i obiektywności przeprowadzanych badań.”;
 - **22)** w art. 44a:
-    - **a)** uchyla się ust. 2, „3. W zakresie nadzoru nad wytwarzaniem i stosowaniem środków żywienia zwierząt i pasz leczniczych oraz obrotem nimi sprawowanego przez Inspekcję Weterynaryjną działają laboratoria referencyjne określone w przepisach wydanych na podstawie ust. 6 oraz laboratoria referencyjne utworzone na podstawie przepisów o Inspekcji Weterynaryjnej.”;
+    - **a)** uchyla się ust. 2,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. W zakresie nadzoru nad wytwarzaniem i stosowaniem środków żywienia zwierząt i pasz leczniczych oraz obrotem nimi sprawowanego przez Inspekcję Weterynaryjną działają laboratoria referencyjne określone w przepisach wydanych na podstawie ust. 6 oraz laboratoria referencyjne utworzone na podstawie przepisów o Inspekcji Weterynaryjnej.”;
 
 - **23)** po art. 44a dodaje się art. 44b-44n w brzmieniu: „Art. 44b. Do kontroli urzędowej przeprowadzanej przez pracowników Inspekcji Weterynaryjnej stosuje się odpowiednio przepisy o Inspekcji Weterynaryjnej.
 
@@ -101,7 +188,10 @@ source: "isap-pdf"
 - **2)** nakazuje przeprowadzenie w wyznaczonym terminie określonych działań, w wyniku których środek żywienia zwierząt będzie spełniał wymagania, w szczególności jego uzdatnienie lub przetworzenie, lub
 - **3)** określa inne przeznaczenie środka żywienia zwierząt niż zastosowanie w żywieniu zwierząt, lub
 - **4)** nakazuje wywóz środka żywienia zwierząt lub paszy leczniczej do państwa czł onkowskiego Unii Europejskiej, z którego zostały przywiezione, po uprzednim poinformowaniu, za pośrednictwem Głównego Lekarza Weterynarii, właściwego w zakresie sprawowania nadzoru nad środkami żywienia zwierząt lub paszami leczniczymi organu tego państwa,
-- **5)** nakazuje zniszczenie środka żywienia zwierząt lub paszy leczniczej. nicze pochodzące z państwa trzeciego nie spełniają wymagań określonych w ustawie, powiatowy lekarz weterynarii, w drodze decyzji administracyjnej:
+- **5)** nakazuje zniszczenie środka żywienia zwierząt lub paszy leczniczej.
+
+2. W razie stwierdzenia, że środki żywienia zwierząt lub pasze lecznicze pochodzące z państwa trzeciego nie spełniają wymagań określonych w ustawie, powiatowy lekarz weterynarii, w drodze decyzji administracyjnej:
+
 - **1)** zakazuje wprowadzania środka żywienia zwierząt lub paszy leczniczej do obrotu lub nakazuje wycofanie ich z obrotu w kraju oraz nakazuje ich wywóz poza terytorium państw członkowskich Unii Europejskiej lub
 - **2)** nakazuje przeprowadzenie w wyznaczonym terminie określonych działań, w wyniku których środek żywienia zwierząt będzie spełniał wymagania, w szczególności jego uzdatnienie lub przetworzenie, lub
 - **3)** określa inne przeznaczenie środka żywienia zwierząt niż zastosowanie w żywieniu zwierząt, lub
@@ -123,7 +213,7 @@ source: "isap-pdf"
 
 2. Główny Lekarz Weterynarii niezwłocznie po otrzymaniu kopii decyzji, o których mowa w art. 44d ust. 1, informuje o tych decyzjach i o przyczynach ich wydania właściwy w zakresie sprawowania nadzoru nad środkami żywienia zwierząt lub paszami leczniczymi organ państwa członkowskiego Unii Europejskiej, z którego został przywieziony środek żywienia zwierząt lub pasza lecznicza.
 
-3. Główny Lekarz Weterynarii w przypadku otrzymania od organu państwa członkowskiego Unii Europejskiej właściwego w zakresie sprawowania nadzoru nad środkami żywienia zwierząt lub pao którym mowa w art. 44d ust. 1, dotyczących środków żywienia zwierząt lub pasz leczniczych przywiezionych z terytorium Rzeczypospolitej Polskiej nakazuje przeprowadzenie kontroli urzędowej mającej na celu ustalenie przyczyn nieprawidłowości stwierdzonych w miejscu przeznaczenia środków żywienia zwierząt lub pasz leczniczych.
+3. Główny Lekarz Weterynarii w przypadku otrzymania od organu państwa członkowskiego Unii Europejskiej właściwego w zakresie sprawowania nadzoru nad środkami żywienia zwierząt lub paszami leczniczymi informacji o podjętych działaniach w zakresie, o którym mowa w art. 44d ust. 1, dotyczących środków żywienia zwierząt lub pasz leczniczych przywiezionych z terytorium Rzeczypospolitej Polskiej nakazuje przeprowadzenie kontroli urzędowej mającej na celu ustalenie przyczyn nieprawidłowości stwierdzonych w miejscu przeznaczenia środków żywienia zwierząt lub pasz leczniczych.
 
 4. Główny Lekarz Weterynarii informuje organ państwa członkowskiego Unii Europejskiej właściwy w zakresie sprawowania nadzoru nad środkami żywienia zwierząt lub paszami leczniczymi o wynikach kontroli urzędowej przeprowadzonej w związku z informacją, o której mowa w ust. 3, oraz o działaniach podjętych w jej wyniku.
 
@@ -148,7 +238,9 @@ source: "isap-pdf"
 
 5. Właściwe organy celne nadają przeznaczenie celne przesyłce zgodnie z warunkami ustalonymi w decyzji, o której mowa w ust.
 
-4. mowa w ust. 4, ponosi osoba odpowiedzialna za przesyłkę.
+4.
+
+6. Koszty działań podjętych w wyniku wydania decyzji, o której mowa w ust. 4, ponosi osoba odpowiedzialna za przesyłkę.
 
 7. Decyzji, o której mowa w ust. 4, nadaje się rygor natychmiastowej wykonalności.
 
@@ -172,7 +264,7 @@ source: "isap-pdf"
 
 **Art. 44h.**
 
-1. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wzór dokumentu potwierdzającego przeprowadzenie kontroli przesyłki, o którym mowa w art. 44g ust. 1, oraz sposób ujednolicenia wzoru tego dokumentu oraz sposobu jego wystawiania i wypełniania z zasadami obowiązującymi w tym zakresie w pozostałych państwach członkowskich Unii Europejskiej.
+1. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wzór dokumentu potwierdzającego przeprowadzenie kontroli przesyłki, o którym mowa w art. 44g ust. 1, oraz sposób jego wystawiania i wypełniania, mając na względzie zapewnienie ujednolicenia wzoru tego dokumentu oraz sposobu jego wystawiania i wypełniania z zasadami obowiązującymi w tym zakresie w pozostałych państwach członkowskich Unii Europejskiej.
 
 2. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw administracji publicznej określi, w drodze rozporządzenia, wykaz przejść granicznych, na których może być dokonywana kontrola graniczna środków żywienia zwierząt i pasz leczniczych, oraz rodzaje środków żywienia zwierząt i pasz leczniczych, które mogą być poddawane kontroli granicznej na poszczególnych przejściach granicznych, mając na uwadze podział na przejścia graniczne, w których dokonuje się wyłącznie kontroli środków żywienia zwierząt i pasz leczniczych niezawierających materiałów pochodzących z tkanek zwierząt, oraz na przejścia graniczne, w których dokonuje się kontroli wszystkich środków żywienia zwierząt i pasz leczniczych.
 
@@ -194,7 +286,8 @@ source: "isap-pdf"
 
 3. Plan gotowości określa:
 
-- **1)** potencjalne źródła i rodzaje zagrożeń oraz środki, które powinny być zastosowane na wypadek ich wystąpienia, nej związanej z usuwaniem zagrożeń i skutków ich wystąpienia,
+- **1)** potencjalne źródła i rodzaje zagrożeń oraz środki, które powinny być zastosowane na wypadek ich wystąpienia,
+- **2)** zakres współpracy z innymi organami administracji publicznej związanej z usuwaniem zagrożeń i skutków ich wystąpienia,
 - **3)** zakres i sposób przekazywania informacji w ramach realizacji planu,
 - **4)** źródła finansowania zadań określonych w planie.
 
@@ -220,7 +313,9 @@ source: "isap-pdf"
 4. Po otrzymaniu informacji, że środek żywienia zwierząt lub pasza lecznicza nie spełniają wymagań określonych w ustawie, powiatowy lekarz weterynarii podejmuje działania uniemożliwiające wykorzystanie w żywieniu zwierząt takiego środka żywienia zwierząt lub paszy leczniczej i niezwłocznie przystępuje do oceny ryzyka polegającej na przeprowadzeniu badań mających na celu określenie:
 
 - **1)** charakteru zagrożenia, a w przypadku gdy jest to niezbędne zawartości substancji niepożądanych,
-- **2)** źródła zagrożenia lub źródła pochodzenia substancji niepożądanych. mowa w ust. 4, także inne przesyłki tego samego środka żywienia zwierząt lub paszy leczniczej, które mogą zawierać substancje niepożądane w ilości przekraczającej ich dopuszczalną zawartość lub stwarzać zagrożenie wynikające z niespełniania przez te środki lub pasze wymagań określonych w ustawie.
+- **2)** źródła zagrożenia lub źródła pochodzenia substancji niepożądanych.
+
+5. Powiatowy lekarz weterynarii może objąć oceną ryzyka, o której mowa w ust. 4, także inne przesyłki tego samego środka żywienia zwierząt lub paszy leczniczej, które mogą zawierać substancje niepożądane w ilości przekraczającej ich dopuszczalną zawartość lub stwarzać zagrożenie wynikające z niespełniania przez te środki lub pasze wymagań określonych w ustawie.
 
 6. Powiatowy lekarz weterynarii w przypadku stwierdzenia, że środek żywienia zwierząt lub pasza lecznicza, o których mowa w ust. 1, stwarzają poważne zagrożenie dla zdrowia ludzi, zwierząt oraz dla środowiska:
 
@@ -245,7 +340,7 @@ source: "isap-pdf"
 1. W przypadku poważnego zagrożenia dla zdrowia ludzi, zwierząt oraz dla środowiska minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw środowiska może, w drodze rozporządzenia:
 
 - **1)** wprowadzić czasowy zakaz przywozu na terytorium Rzeczypospolitej Polskiej lub przewozu przez jej terytorium środków żywienia zwierząt lub pasz leczniczych z państw, w których to zagrożenie występuje,
-- **2)** określić specjalne wymagania dla środków żywienia zwierząt lub pasz leczniczych przywożonych na terytorium Rzeczypospolitej Polskiej z innych państw środowiska oraz opinię Komisji Europejskiej w zakresie zastosowania wymienionych zakazów lub ograniczeń.
+- **2)** określić specjalne wymagania dla środków żywienia zwierząt lub pasz leczniczych przywożonych na terytorium Rzeczypospolitej Polskiej z innych państw - mając na względzie zdrowie ludzi, zwierząt i bezpieczeństwo środowiska oraz opinię Komisji Europejskiej w zakresie zastosowania wymienionych zakazów lub ograniczeń.
 
 2. Rozporządzenie, o którym mowa w ust. 1, wydaje się po uprzednim powiadomieniu Komisji Europejskiej o zamiarze wprowadzenia zakazów lub ograniczeń, w przypadku braku niezwłocznych działań Komisji Europejskiej w tym zakresie.
 
@@ -272,14 +367,28 @@ source: "isap-pdf"
 - **25)** w art. 46 w ust. 1:
     - **a)** pkt 6 otrzymuje brzmienie: „6) dopuszcza, aby procesem produkcji pasz, dodatków paszowych lub premiksów wymienionych w art. 6 ust. 1 oraz pasz leczniczych kierowała osoba niemająca kwalifikacji, o których mowa w art. 7,”,
     - **b)** pkt 7 otrzymuje brzmienie: „7) nie prowadzi spisu, o którym mowa w art. 6 ust. 2 pkt 7, oraz dokumentacji, o której mowa w art. 6 ust. 2a, lub prowadzi je niezgodnie z przepisami ustawy,”,
-    - **c)** po pkt 13 dodaje się pkt 13a i 13b w brzmieniu: portuje pasze lecznicze niezgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 6 ust. 4, 13b) postępuje z odpadami powstałymi w procesie wytwarzania pasz leczniczych oraz w wyniku ich wykorzystania w sposób niezgodny z wymaganiami określonymi w przepisach wydanych na podstawie art. 6 ust. 5,”,
+    - **c)** po pkt 13 dodaje się pkt 13a i 13b w brzmieniu: „13a) wytwarza, przechowuje, wprowadza do obrotu, znakuje lub transportuje pasze lecznicze niezgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 6 ust. 4, 13b) postępuje z odpadami powstałymi w procesie wytwarzania pasz leczniczych oraz w wyniku ich wykorzystania w sposób niezgodny z wymaganiami określonymi w przepisach wydanych na podstawie art. 6 ust. 5,”,
     - **d)** po pkt 17 dodaje się pkt 18 i 19 w brzmieniu: „18) nie informuje powiatowego lekarza weterynarii o rodzaju i ilości środków żywienia zwierząt lub pasz leczniczych przywiezionych z innego państwa członkowskiego Unii Europejskiej,
 
 - **19)** nie informuje powiatowego lekarza weterynarii o tym, że środek żywienia zwierząt lub pasza lecznicza niespełniające wymagań określonych w ustawie mogą stwarzać poważne zagrożenie dla zdrowia ludzi, zwierząt oraz dla środowiska,”.
 
 **Art. 2.** W ustawie z dnia 6 września 2001 r. - Prawo farmaceutyczne (Dz.U. z 2004 r. Nr 53, poz. 533 i Nr 69, poz. 625) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 uchyla się pkt 23;
+- **2)** uchyla się art. 45;
+- **3)** w art. 69 ust. 1 otrzymuje brzmienie: „1. Lekarz weterynarii prowadzący obrót detaliczny produktami leczniczymi weterynaryjnymi jest obowiązany do:
+- **1)** prowadzenia dokumentacji obrotu produktami leczniczymi weterynaryjnymi,
+- **2)** przeprowadzania, przynajmniej raz w roku, spisu kontrolnego stanu magazynowego produktów leczniczych weterynaryjnych oraz ich dostaw, wraz z odnotowaniem wszelkich stwierdzonych niezgodności.”.
+
 **Art. 3.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz.U. Nr 33, poz.
 
-**Art. 4.**
+- **287)** w art. 30 w ust. 1 w pkt 5 w lit. l ś rednik zastępuje się przecinkiem i dodaje się lit. m oraz n w brzmieniu: „m) wytwarzaniem środków żywienia zwierząt i pasz leczniczych przeznaczonych do obrotu oraz warunkami ich przechowywania lub sprzedaży,
+    - **n)** wytwarzaniem środków żywienia zwierząt nieprzeznaczonych do obrotu, zawierających dodatki paszowe z grup: antybiotyków, kokcydiostatyków i innych produktów leczniczych i stymulatorów wzrostu oraz warunkami ich przechowywania;”.
+
+**Art. 4.** Prezes Rady Ministrów na wniosek ministra właściwego do spraw rolnictwa, w drodze rozporządzenia, dokona przeniesienia planowanych dochodów i wydatków budżetowych, w tym na wynagrodzenia, oraz limitów zatrudnienia przeznaczonych na finansowanie kontroli jakości handlowej środków żywienia zwierząt z Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych do Inspekcji Weterynaryjnej:
+
+- **1)** z części, której dysponentem jest minister właściwy do spraw rynków rolnych, z której finansowana jest Inspekcja Jakości Handlowej Artykułów Rolno- Spożywczych, do części, której dysponentem jest minister właściwy do spraw rolnictwa, z której finansowany jest Główny Inspektorat Weterynarii,
+- **2)** w ramach budżetów wojewodów - z Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych do wojewódzkich i powiatowych inspektoratów weterynarii - z uwzględnieniem zadań przejętych przez te jednostki.
+
+**Art. 5.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 

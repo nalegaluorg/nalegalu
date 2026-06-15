@@ -310,7 +310,8 @@ W przypadku konfliktu interesów członek Zarządu, którego konflikt dotyczy, n
 3. Zysk netto osiągnięty na działalności funduszy, których aktywa spełniają definicję aktywów Banku w rozumieniu przepisów o rachunkowości, może być również przeznaczony na fundusz zapasowy.
 4. Zysk Banku osiągnięty od końca poprzedniego roku obrotowego wykazany w sprawozdaniu finansowym zbadanym przez biegłego rewidenta pomniejszony o zysk, o którym mowa w ust. 3, oraz o niepokryte straty, może zostać przeznaczony na zaliczkową wpłatę do budżetu państwa, w przypadku gdy Bank posiada fundusze własne, o których mowa w § 30, na poziomie wyższym niż poziom, który Bank jest zobowiązany utrzymywać zgodnie z ustawą z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 5. Wysokość zaliczkowej wpłaty do budżetu państwa może stanowić maksymalnie 90% zysku określonego zgodnie z ust. 4.
-§ 37a. Zysk z lat ubiegłych jest przeznaczany, zgodnie z treścią uchwały Rady Nadzorczej, na cele wskazane w § 37.
+§ 37a. Zysk z lat ubiegłych jest przeznaczany, zgodnie z treścią uchwały Rady Nadzorczej, na cele wskazane
+§ 37.
 § 38. W przypadku wystąpienia strat na działalności któregoś z funduszy, o których mowa w § 6, strata pokrywana jest w ciężar tego funduszu.
 § 39. Bank prowadzi rachunkowość zgodnie z odrębnymi przepisami.
 

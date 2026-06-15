@@ -8,7 +8,7 @@ pos: 1146
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020
@@ -40,6 +40,52 @@ Art. 73–95. (pominięte)
 3. Ustawy nie stosuje się do programów, o których mowa w art. 15 ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2019 r. poz. 1295 i 2020).
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** beneficjent – podmiot, o którym mowa w art. 2 pkt 10 rozporządzenia ogólnego, oraz podmiot, o którym mowa w art. 63 rozporządzenia ogólnego;
+- **2)** decyzja o dofinansowaniu projektu – decyzję podjętą przez jednostkę sektora finansów publicznych, która stanowi podstawę dofinansowania projektu, w przypadku gdy ta jednostka jest jednocześnie wnioskodawcą;
+- **3)** desygnacja – potwierdzenie przez ministra właściwego do spraw rozwoju regionalnego wykonującego zadania państwa członkowskiego spełniania przez instytucję zarządzającą, instytucję pośredniczącą i instytucję wdrażającą lub krajowego kontrolera lub wspólny sekretariat warunków zapewniających prawidłową realizację programu operacyjnego;
+- **4)** dofinansowanie – współfinansowanie UE lub współfinansowanie krajowe z budżetu państwa, wypłacane na podstawie umowy o dofinansowanie projektu albo decyzji o dofinansowaniu projektu;
+- **5)** fundusze strukturalne – Europejski Fundusz Rozwoju Regionalnego oraz Europejski Fundusz Społeczny, o których mowa w art. 1 rozporządzenia ogólnego;
+- **6)** Fundusz Spójności – Fundusz Spójności, o którym mowa w art. 1 rozporządzenia ogólnego;
+- **7)** instrument finansowy – instrument finansowy, o którym mowa w części drugiej w tytule IV rozporządzenia ogólnego;
+- **8)** instytucja audytowa – instytucję audytową, o której mowa w art. 127 rozporządzenia ogólnego lub w art. 25 rozporządzenia EWT;
+- **9)** instytucja pośrednicząca – podmiot, któremu została powierzona, w drodze porozumienia albo umowy zawartych z instytucją zarządzającą, realizacja zadań w ramach krajowego lub regionalnego programu operacyjnego;
+- **10)** instytucja wdrażająca – podmiot, któremu została powierzona, w drodze porozumienia albo umowy zawartych z instytucją pośredniczącą, realizacja zadań w ramach krajowego lub regionalnego programu operacyjnego;
+- **11)** instytucja zarządzająca – instytucję, o której mowa w art. 125 rozporządzenia ogólnego lub w art. 23 rozporządzenia EWT;
+- **12)** korekta finansowa – kwotę, o jaką pomniejsza się współfinansowanie UE dla projektu lub programu operacyjnego w związku z nieprawidłowością indywidualną lub systemową;
+- **13)** krajowy kontroler – kontrolera wyznaczonego zgodnie z art. 23 ust. 4 rozporządzenia EWT;
+- **13a)** kryteria wyboru projektów – kryteria umożliwiające ocenę projektu opisanego we wniosku o dofinansowanie projektu, wybór projektu do dofinansowania i zawarcie umowy o dofinansowanie projektu albo podjęcie decyzji o dofinansowaniu projektu, zgodne z warunkami, o których mowa w art. 125 ust. 3 lit. a rozporządzenia ogólnego, zatwierdzone przez komitet monitorujący, o którym mowa w art. 47 rozporządzenia ogólnego;
+- **14)** nieprawidłowość indywidualna – nieprawidłowość, o której mowa w art. 2 pkt 36 rozporządzenia ogólnego;
+- **15)** nieprawidłowość systemowa – nieprawidłowość, o której mowa w art. 2 pkt 38 rozporządzenia ogólnego;
+- **16)** portal – portal internetowy, o którym mowa w art. 115 ust. 1 lit. b rozporządzenia ogólnego;
+- **17)** program operacyjny:
+    - **a)** krajowy program operacyjny – program służący realizacji umowy partnerstwa w zakresie polityki spójności w rozumieniu art. 5 pkt 7a lit. a ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, uchwalony przez Radę Ministrów i przyjęty przez Komisję Europejską, odzwierciedlający cele zawarte we Wspólnych Ramach Strategicznych stanowiących załącznik I do rozporządzenia ogólnego oraz w umowie partnerstwa, które mają być osiągnięte za pomocą funduszy strukturalnych lub Funduszu Spójności, będący podstawą realizacji działań w nim określonych, stanowiący program, o którym mowa w art. 96 rozporządzenia ogólnego,
+    - **b)** program EWT – program Europejskiej Współpracy Terytorialnej, o którym mowa w art. 8 rozporządzenia EWT, na przystąpienie do którego wyraziła zgodę Rada Ministrów, przyjęty przez Komisję Europejską, odzwierciedlający cele zawarte we Wspólnych Ramach Strategicznych stanowiących załącznik I do rozporządzenia ogólnego oraz w umowie partnerstwa, będący podstawą realizacji działań w nim określonych,
+    - **c)** regionalny program operacyjny – program służący realizacji umowy partnerstwa w zakresie polityki spójności w rozumieniu art. 5 pkt 7a lit. a ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, uchwalony przez zarząd województwa i przyjęty przez Komisję Europejską, odzwierciedlający cele zawarte we Wspólnych Ramach Strategicznych stanowiących załącznik I do rozporządzenia ogólnego oraz w umowie partnerstwa, które mają być osiągnięte za pomocą funduszy strukturalnych, będący podstawą realizacji działań w nim określonych, stanowiący program, o którym mowa w art. 96 rozporządzenia ogólnego;
+
+- **18)** projekt – przedsięwzięcie zmierzające do osiągnięcia założonego celu określonego wskaźnikami, z określonym początkiem i końcem realizacji, zgłoszone do objęcia albo objęte współfinansowaniem UE jednego z funduszy strukturalnych albo Funduszu Spójności w ramach programu operacyjnego;
+- **19)** rozporządzenie EFRR – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1301/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i przepisów szczególnych dotyczących celu „Inwestycje na rzecz wzrostu i zatrudnienia” oraz w sprawie uchylenia rozporządzenia (WE) nr 1080/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 289);
+- **20)** rozporządzenie EFS – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylające rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470);
+- **21)** rozporządzenie EWT – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1299/2013 z dnia 17 grudnia 2013 r. w sprawie przepisów szczegółowych dotyczących wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Europejska współpraca terytorialna” (Dz. Urz. UE L 347 z 20.12.2013, str. 259);
+- **22)** rozporządzenie ogólne – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiające wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiające przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylające rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320);
+- **23)** system teleinformatyczny – system, o którym mowa w art. 125 ust. 2 lit. d rozporządzenia ogólnego;
+- **24)** system zarządzania i kontroli – system, o którym mowa w części drugiej w tytule VIII rozporządzenia ogólnego;
+- **25)** szczegółowy opis osi priorytetowych programu operacyjnego – dokument przygotowany i przyjęty przez instytucję zarządzającą krajowym albo regionalnym programem operacyjnym oraz zatwierdzony w zakresie kryteriów wyboru projektów przez komitet monitorujący, o którym mowa w art. 47 rozporządzenia ogólnego, określający w szczególności zakres działań lub poddziałań realizowanych w ramach poszczególnych osi priorytetowych programu operacyjnego;
+- **26)** umowa o dofinansowanie projektu:
+    - **a)** umowę zawartą między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania, zawierającą co najmniej elementy, o których mowa w art. 206 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm. ),
+    - **b)** porozumienie, o którym mowa w art. 206 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, zawarte między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania,
+    - **c)** umowę lub porozumienie zawarte między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania – w ramach programu EWT;
+
+- **27)** umowa partnerstwa – umowę partnerstwa, o której mowa w art. 2 pkt 20 rozporządzenia ogólnego;
+- **27a)** warunki formalne – warunki odnoszące się do kompletności, formy oraz terminu złożenia wniosku o dofinansowanie projektu, których weryfikacja odbywa się przez stwierdzenie spełniania albo niespełniania danego warunku;
+- **28)** wnioskodawca – podmiot, który złożył wniosek o dofinansowanie projektu;
+- **29)** wspólny sekretariat – wspólny sekretariat, o którym mowa w art. 23 ust. 2 rozporządzenia EWT;
+- **30)** współfinansowanie krajowe z budżetu państwa – środki z budżetu państwa niepochodzące z budżetu środków europejskich, o którym mowa w art. 117 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, wypłacane na rzecz beneficjenta albo wydatkowane przez państwową jednostkę budżetową w ramach projektu, z wyłączeniem podlegających refundacji przez Komisję Europejską środków budżetu państwa przeznaczonych na realizację projektów pomocy technicznej i projektów EWT;
+- **31)** współfinansowanie UE:
+    - **a)** środki pochodzące z budżetu środków europejskich, o którym mowa w art. 117 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, oraz podlegające refundacji przez Komisję Europejską środki budżetu państwa przeznaczone na realizację projektów pomocy technicznej, wypłacane na rzecz beneficjenta albo wydatkowane przez państwową jednostkę budżetową w ramach projektu – w przypadku krajowego lub regionalnego programu operacyjnego,
+    - **b)** środki Europejskiego Funduszu Rozwoju Regionalnego pochodzące z budżetu programu EWT, wypłacane na rzecz beneficjenta w ramach projektu – w przypadku programu EWT;
+
+- **32)** wytyczne – instrument prawny określający ujednolicone warunki i procedury wdrażania funduszy strukturalnych i Funduszu Spójności skierowane do instytucji uczestniczących w realizacji programów operacyjnych oraz stosowane przez te instytucje na podstawie właściwego porozumienia, kontraktu terytorialnego albo umowy oraz przez beneficjentów na podstawie umowy o dofinansowanie projektu albo decyzji o dofinansowaniu projektu.
 
 **Art. 3.** Minister właściwy do spraw rozwoju regionalnego wykonuje, o ile ustawa nie stanowi inaczej, zadania państwa członkowskiego określone w przepisach rozporządzenia ogólnego.
 
@@ -968,6 +1014,13 @@ Art. 73–95. (pominięte)
 
 **Art. 50a.** W toku postępowania w zakresie ubiegania się o dofinansowanie, w tym w toku procedury odwoławczej, oraz udzielania dofinansowania właściwa instytucja nie może żądać zaświadczeń ani dokumentów na potwierdzenie faktów lub stanu prawnego, jeżeli:
 
+- **1)** są one znane instytucji z urzędu;
+- **2)** są możliwe do ustalenia przez instytucję na podstawie:
+    - **a)** posiadanych przez nią ewidencji, rejestrów lub innych danych,
+    - **b)** rejestrów publicznych posiadanych przez inne podmioty publiczne, do których instytucja ma dostęp w drodze elektronicznej na zasadach określonych w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne,
+    - **c)** wymiany informacji z innym podmiotem publicznym na zasadach określonych w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne,
+    - **d)** przedstawionych przez wnioskodawcę do wglądu dokumentów urzędowych.
+
 **Art. 51.** Przepisów niniejszego rozdziału, z wyjątkiem art. 37 ust. 6 i 7, nie stosuje się do programów EWT.
 
 #### Rozdział 14 Umowa o dofinansowanie projektu i decyzja o dofinansowaniu projektu
@@ -1034,6 +1087,9 @@ Art. 73–95. (pominięte)
 6. W przypadku wycofania protestu wnioskodawca nie może wnieść skargi do sądu administracyjnego.
 
 **Art. 55.** Protest jest rozpatrywany przez instytucję:
+
+- **1)** zarządzającą albo
+- **2)** pośredniczącą – jeżeli została ustanowiona dla danego programu operacyjnego i instytucja zarządzająca powierzyła jej zadania w tym zakresie na podstawie porozumienia albo umowy, o których mowa w art. 10 ust. 1.
 
 **Art. 56.**
 

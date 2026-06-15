@@ -8,7 +8,7 @@ pos: 2781
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o systemie oświaty oraz ustawy o podatku dochodowym od osób fizycznych
@@ -29,6 +29,8 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572 i Nr 273, poz. 2703) wprowadza się następujące zmiany:
 
+- **1)** po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „Rozdział 8a Pomoc materialna dla uczniów
+
 **Art. 90b.**
 
 1. Uczniowi przysługuje prawo do pomocy materialnej ze środków przeznaczonych na ten cel w budżecie państwa lub budżecie właściwej jednostki samorządu terytorialnego.
@@ -42,7 +44,8 @@ source: "isap-pdf"
 
 4. Świadczenia pomocy materialnej, o których mowa w art. 90c ust. 2, przysługują również:
 
-- **1)** uczniom szkół niepublicznych nieposiadających uprawnień szkół publicznych dla młodzieży i dla dorosłych - do czasu ukończenia realizacji obowiązku nauki, uczycielskich kolegiów języków obcych - do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 24 roku życia.
+- **1)** uczniom szkół niepublicznych nieposiadających uprawnień szkół publicznych dla młodzieży i dla dorosłych - do czasu ukończenia realizacji obowiązku nauki,
+- **2)** słuchaczom niepublicznych kolegiów nauczycielskich i nauczycielskich kolegiów języków obcych - do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 24 roku życia.
 
 **Art. 90c.**
 
@@ -75,7 +78,7 @@ source: "isap-pdf"
 
 4. Stypendium szkolne może być udzielane uczniom szkół ponadgimnazjalnych oraz słuchaczom kolegiów, o których mowa w ust. 3, także w formie całkowitego lub częściowego pokrycia kosztów związanych z pobieraniem nauki poza miejscem zamieszkania.
 
-5. Stypendium szkolne może być także udzielone w formie świadczenia pieniężnego, jeżeli organ przyznający stypendium uzna, że udzielenie stypendium w formach, o których mowa w ust. 2, a w której mowa w ust. 4, nie jest możliwe, natomiast w przypadku słuchaczy kolegiów, o których mowa w ust. 3, udzielenie stypendium w formach, o których mowa w ust. 2 i 4, nie jest celowe.
+5. Stypendium szkolne może być także udzielone w formie świadczenia pieniężnego, jeżeli organ przyznający stypendium uzna, że udzielenie stypendium w formach, o których mowa w ust. 2, a w przypadku uczniów szkół ponadgimnazjalnych także w formie, o której mowa w ust. 4, nie jest możliwe, natomiast w przypadku słuchaczy kolegiów, o których mowa w ust. 3, udzielenie stypendium w formach, o których mowa w ust. 2 i 4, nie jest celowe.
 
 6. Stypendium szkolne może być udzielone w jednej lub kilku formach jednocześnie.
 
@@ -91,7 +94,7 @@ source: "isap-pdf"
 
 12. Stypendium szkolne nie przysługuje uczniowi, który otrzymuje inne stypendium o charakterze socjalnym ze środków publicznych, z zastrzeżeniem ust. 13.
 
-13. Uczeń, który otrzymuje inne stypendium o charakterze socjalnym ze środków publicznych może otrzymać stypendium szkolne w wysokości, która łącznie z innym stypendium o charakterze socjalnym ze środków publicznych nie przekracza dwudziestokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, a w przypadku języków obcych i kolegiów pracowników służb społecznych osiemnastokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
+13. Uczeń, który otrzymuje inne stypendium o charakterze socjalnym ze środków publicznych może otrzymać stypendium szkolne w wysokości, która łącznie z innym stypendium o charakterze socjalnym ze środków publicznych nie przekracza dwudziestokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, a w przypadku słuchaczy kolegiów nauczycielskich, nauczycielskich kolegiów języków obcych i kolegiów pracowników służb społecznych osiemnastokrotności kwoty, o której mowa w art. 6 ust. 2 pkt 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
 
 **Art. 90e.**
 
@@ -105,6 +108,11 @@ source: "isap-pdf"
 
 **Art. 90f.** Rada gminy uchwala regulamin udzielania pomocy materialnej o charakterze socjalnym dla uczniów zamieszkałych na terenie gminy, kierując się celami pomocy materialnej o charakterze socjalnym, w którym określa w szczególności:
 
+- **1)** sposób ustalania wysokości stypendium szkolnego w zależności od sytuacji materialnej uczniów i ich rodzin oraz innych okoliczności, o których mowa w art. 90d ust. 1;
+- **2)** formy, w jakich udziela się stypendium szkolnego w zależności od potrzeb uczniów zamieszkałych na terenie gminy;
+- **3)** tryb i sposób udzielania stypendium szkolnego;
+- **4)** tryb i sposób udzielania zasiłku szkolnego w zależności od zdarzenia losowego.
+
 **Art. 90g.**
 
 1. Szkoła może udzielać stypendium za wyniki w nauce lub za osiągnięcia sportowe.
@@ -113,7 +121,9 @@ source: "isap-pdf"
 
 3. O przyznanie stypendium za wyniki w nauce lub za osiągnięcia sportowe uczeń może ubiegać się nie wcześniej niż po ukończeniu pierwszego okresu (semestru) nauki w danym typie szkoły, z zastrzeżeniem ust. 4 i 5.
 
-4. Stypendium za wyniki w nauce nie udziela się uczniom klas I-III szkoły podstawowej oraz uczniom klasy IV szkoły podstawowej do ukończenia pierwszego okresu nauki. I-III szkoły podstawowej.
+4. Stypendium za wyniki w nauce nie udziela się uczniom klas I-III szkoły podstawowej oraz uczniom klasy IV szkoły podstawowej do ukończenia pierwszego okresu nauki.
+
+5. Stypendium za osiągnięcia sportowe nie udziela się uczniom klas I-III szkoły podstawowej.
 
 6. Dyrektor szkoły powołuje w szkole komisję stypendialną.
 
@@ -141,8 +151,9 @@ source: "isap-pdf"
 
 **Art. 90i.**
 
-1. Stypendium ministra właściwego do spraw oświaty i wychowania może być przyznane uczniowi szkoły publicznej dla młodzieży lub szkoły niepublicznej o uprawnieniach szkoły publicznej dla młodzieży, uzyskującemu wybitne osiągnięcia edukacyjne, w szczególności: naliście olimpiady przedmiotowej o zasięgu ogólnopolskim lub turnieju;
+1. Stypendium ministra właściwego do spraw oświaty i wychowania może być przyznane uczniowi szkoły publicznej dla młodzieży lub szkoły niepublicznej o uprawnieniach szkoły publicznej dla młodzieży, uzyskującemu wybitne osiągnięcia edukacyjne, w szczególności:
 
+- **1)** laureatowi międzynarodowej olimpiady lub laureatowi i finaliście olimpiady przedmiotowej o zasięgu ogólnopolskim lub turnieju;
 - **2)** laureatowi konkursu na pracę naukową, organizowanego przez instytucję naukową lub stowarzyszenie naukowe;
 - **3)** uczniowi szkoły ponadgimnazjalnej uzyskującemu najwyższe wyniki w nauce według indywidualnego programu lub toku nauki;
 - **4)** uczniowi uczestniczącemu w zajęciach przewidzianych tokiem studiów na podstawie przepisów w sprawie zasad i warunków uczestniczenia wybitnie uzdolnionych uczniów w zajęciach przewidzianych tokiem studiów na kierunkach zgodnych z uzdolnieniami oraz zasad zaliczania tych zajęć;
@@ -164,7 +175,9 @@ source: "isap-pdf"
 
 5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego ogłasza na stronach internetowych właściwego ministerstwa liczbę stypendiów oraz wysokość stypendium w każdym roku szkolnym.
 
-**Art. 90k.** Rada Ministrów określi, w drodze rozporządzenia, wysokość stypendium Prezesa Rady Ministrów, a także szczegółowy sposób i tryb przyznawania i wypłacania stypendiów, o których mowa w art. 90c ust. 3 pkt 2-4, uwzględniając udział organów szkoły oraz kuratora oświaty w procesie wyłaniania kandydatów do stypendiów oraz terminy składania wniosków o przyznanie stypendium. rialnego, przyznające ze środków własnych uczniom stypendia za wyniki w nauce lub za osiągnięcia sportowe, na warunkach i w trybie określonych w ustalonym przez siebie regulaminie, mogą ubiegać się o zatwierdzenie tego regulaminu przez ministra właściwego do spraw oświaty i wychowania.
+**Art. 90k.** Rada Ministrów określi, w drodze rozporządzenia, wysokość stypendium Prezesa Rady Ministrów, a także szczegółowy sposób i tryb przyznawania i wypłacania stypendiów, o których mowa w art. 90c ust. 3 pkt 2-4, uwzględniając udział organów szkoły oraz kuratora oświaty w procesie wyłaniania kandydatów do stypendiów oraz terminy składania wniosków o przyznanie stypendium.
+
+**Art. 90l.** Osoby fizyczne i osoby prawne inne niż jednostki samorządu terytorialnego, przyznające ze środków własnych uczniom stypendia za wyniki w nauce lub za osiągnięcia sportowe, na warunkach i w trybie określonych w ustalonym przez siebie regulaminie, mogą ubiegać się o zatwierdzenie tego regulaminu przez ministra właściwego do spraw oświaty i wychowania.
 
 **Art. 90m.**
 
@@ -192,7 +205,9 @@ source: "isap-pdf"
 
 5. W przypadku ubiegania się o stypendium szkolne dla ucznia, którego rodzina korzysta ze świadczeń pieniężnych z pomocy społecznej, zamiast zaświadczenia o wysokości dochodów przedkłada się zaświadczenie o korzystaniu ze świadczeń pieniężnych z pomocy społecznej.
 
-6. Wniosek o przyznanie stypendium szkolnego składa się do dnia 15 września danego roku szkolnego, a w przypadku słuchaczy kolegiów nauczycielskich, nauczycielskich kolegiów języków obcych i kolegiów pracowników służb społecznych - do dnia 15 października danego roku szkolnego. dium szkolnego może być złożony po upływie terminu, o którym mowa w ust. 6.
+6. Wniosek o przyznanie stypendium szkolnego składa się do dnia 15 września danego roku szkolnego, a w przypadku słuchaczy kolegiów nauczycielskich, nauczycielskich kolegiów języków obcych i kolegiów pracowników służb społecznych - do dnia 15 października danego roku szkolnego.
+
+7. W uzasadnionych przypadkach, wniosek o przyznanie stypendium szkolnego może być złożony po upływie terminu, o którym mowa w ust. 6.
 
 **Art. 90o.**
 
@@ -225,7 +240,7 @@ source: "isap-pdf"
 
 2. Dotacji, o której mowa w ust. 1, udziela minister właściwy do spraw finansów publicznych, na wniosek ministra właściwego do spraw oświaty i wychowania.
 
-3. Minister właściwy do spraw oświaty i wychowania, po zasięgnięciu opinii reprezentacji jednostek samorządu terytorialnego, okrektórej mowa w ust. 1, gminom oraz sposób ustalania wysokości tej dotacji, uwzględniając w szczególności:
+3. Minister właściwy do spraw oświaty i wychowania, po zasięgnięciu opinii reprezentacji jednostek samorządu terytorialnego, określi, w drodze rozporządzenia, terminy przekazywania dotacji, o której mowa w ust. 1, gminom oraz sposób ustalania wysokości tej dotacji, uwzględniając w szczególności:
 
 - **1)** wskaźnik dochodów podatkowych na jednego mieszkańca w gminie;
 - **2)** liczbę dzieci w wieku od 6 do 18 lat, zameldowanych na terenie gminy na pobyt stały;
@@ -255,6 +270,7 @@ source: "isap-pdf"
 
 1. Jednostki samorządu terytorialnego mogą tworzyć regionalne lub lokalne programy:
 
+- **1)** wyrównywania szans edukacyjnych dzieci i młodzieży;
 - **2)** wspierania edukacji uzdolnionych dzieci i młodzieży.
 
 2. Na realizację programów, o których mowa w ust. 1, jednostki samorządu terytorialnego przeznaczają środki własne.
@@ -276,13 +292,13 @@ source: "isap-pdf"
 
 4. W przypadku przyjęcia programu albo programów, o których mowa w ust. 1, Rada Ministrów określi, w drodze rozporządzenia, odpowiednio:
 
-- **1)** szczegółowe warunki udzielania pomocy dzieciom i młodzieży oraz innym grupom społecznym objętym programem, o którym mowa w ust. 1 pkt 1, formy i zakres tej pomocy szczególności przedsięwzięcia sprzyjające eliminowaniu barier edukacyjnych, a także osoby i grupy osób uprawnione do pomocy;
+- **1)** szczegółowe warunki udzielania pomocy dzieciom i młodzieży oraz innym grupom społecznym objętym programem, o którym mowa w ust. 1 pkt 1, formy i zakres tej pomocy oraz tryb postępowania w tych sprawach, uwzględniając w szczególności przedsięwzięcia sprzyjające eliminowaniu barier edukacyjnych, a także osoby i grupy osób uprawnione do pomocy;
 - **2)** szczegółowe warunki dofinansowania regionalnych lub lokalnych programów, o których mowa w ust. 1 pkt 2, warunki, jakie muszą spełnić te programy, podmioty dokonujące oceny programów oraz udział środków własnych niezbędnych do ubiegania się o udzielenie dofinansowania, a także sposób i tryb wyboru programów, którym zostanie udzielone dofinansowanie, uwzględniając w szczególności potrzeby edukacyjne na danym obszarze, osiągnięcia uczniów, w tym w szczególności wyniki ze sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, a w przypadku ubiegania się o dofinansowanie przez jednostkę samorządu terytorialnego - także udział nakładów na oświatę w budżecie tej jednostki;
 - **3)** szczegółowe warunki dofinansowania regionalnych lub lokalnych programów, o których mowa w ust. 1 pkt 3, warunki, jakie muszą spełnić te programy, podmioty dokonujące oceny programów oraz udział środków własnych niezbędnych do ubiegania się o udzielenie dofinansowania, a także sposób i tryb wyboru programów, którym zostanie udzielone dofinansowanie, uwzględniając w szczególności potrzeby i możliwości edukacyjne uczniów, ich osiągnięcia, bazę dydaktyczną niezbędną do realizacji programu, przygotowanie kadry pedagogicznej i warunki materialne uczniów;
 - **4)** szczegółowe warunki, formy i tryb wspomagania tworzenia warunków do sprawowania profilaktycznej opieki zdrowotnej nad uczniami, uwzględniając w szczególności tworzenie gabinetów profilaktyki zdrowotnej dla uczniów.”;
 - **2)** uchyla się art. 91 i 91a.
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm. ) w art. 21 w ust. 1 pkt 40b otrzymuje brzmienie: „40b) stypendia dla uczniów i studentów, których wysokość i zasady udzielania zostały określone w uchwale organu stanowiącego jednostki samorządu organizacje, o których mowa w art. 3 ust. 2 i 3 ustawy o działalności pożytku publicznego i o wolontariacie, na podstawie regulaminów zatwierdzonych przez organy statutowe udostępnianych do publicznej wiadomości za pomocą internetu, środków masowego przekazu lub wykładanych (wywieszanych) dla zainteresowanych w pomieszczeniach ogólnie dostępnych - do wysokości nieprzekraczającej miesięcznie kwoty 380 zł, z zastrzeżeniem ust. 10,”.
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm. ) w art. 21 w ust. 1 pkt 40b otrzymuje brzmienie: „40b) stypendia dla uczniów i studentów, których wysokość i zasady udzielania zostały określone w uchwale organu stanowiącego jednostki samorządu terytorialnego, oraz stypendia dla uczniów i studentów przyznane przez organizacje, o których mowa w art. 3 ust. 2 i 3 ustawy o działalności pożytku publicznego i o wolontariacie, na podstawie regulaminów zatwierdzonych przez organy statutowe udostępnianych do publicznej wiadomości za pomocą internetu, środków masowego przekazu lub wykładanych (wywieszanych) dla zainteresowanych w pomieszczeniach ogólnie dostępnych - do wysokości nieprzekraczającej miesięcznie kwoty 380 zł, z zastrzeżeniem ust. 10,”.
 
 **Art. 3.**
 

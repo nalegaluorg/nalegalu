@@ -77,7 +77,8 @@ Informacja ta zawiera:
 3) zgłoszenie nie zawiera danych, o których mowa w § 3 ust. 2.
 2. Zakład informuje otwarty fundusz o odmowie przyjęcia zgłoszenia o przystąpieniu członka do funduszu, w terminie czterech dni roboczych, podając dane wymienione w § 3 ust. 2, odrębnie dla każdego zestawienia, o którym mowa w § 3 ust. 3.
 3. W informacji o odmowie przyjęcia zgłoszenia o przystąpieniu członka do funduszu Zakład podaje przyczynę odmowy.
-§ 8. 1. W przypadku przyjęcia zgłoszenia o przystąpieniu członka do funduszu Zakład wpisuje na koncie ubezpieczonego oraz w Centralnym Rejestrze Członków informację o członkostwie w otwartym funduszu w terminie, o którym mowa w § 6.
+§ 8. 1. W przypadku przyjęcia zgłoszenia o przystąpieniu członka do funduszu Zakład wpisuje na koncie ubezpieczonego oraz w Centralnym Rejestrze Członków informację o członkostwie w otwartym funduszu w terminie, o którym mowa
+§ 6.
 2. Jeżeli przyjęte zgłoszenie o przystąpieniu członka do funduszu dotyczy osoby, o której mowa w § 3 ust. 3 pkt 1, Zakład wpisuje na koncie ubezpieczonego oraz w Centralnym Rejestrze Członków informację o członkostwie w otwartym funduszu po stwierdzeniu, że został spełniony warunek, o którym mowa w art. 81 ust. 1 pkt 1 ustawy, w terminie 30 dni roboczych od dnia otrzymania zestawienia.
 3. W terminie 30 dni roboczych od dnia otrzymania zgłoszenia, o którym mowa w § 3 ust. 3 pkt 1, Zakład informuje otwarty fundusz, czy osoba, która zawarła umowę z funduszem, spełnia warunki, o których mowa w art. 81 ust. 1 ustawy.
 4. Zakład raz w tygodniu informuje Komisję Nadzoru o liczbie osób wpisanych i niewpisanych do Centralnego Rejestru Członków według stanu na ostatni dzień roboczy każdego tygodnia odrębnie dla każdego otwartego funduszu i przekazuje tę informację w terminie czterech dni roboczych od ostatniego dnia roboczego tygodnia.

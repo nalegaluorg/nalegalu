@@ -8,7 +8,7 @@ pos: 826
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa

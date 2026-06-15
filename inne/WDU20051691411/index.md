@@ -8,7 +8,7 @@ pos: 1411
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
@@ -274,6 +274,9 @@ source: "isap-pdf"
 **Art. 9b.** W postępowaniu obejmującym pobieranie i przeszczepianie komórek, tkanek lub narządów od osoby zmarłej nie może brać udziału lekarz, który stwierdził zgon tej osoby.
 
 **Art. 10.** Przed pobraniem komórek, tkanek lub narządów od osoby zmarłej lekarz lub osoba przez niego upoważniona:
+
+- **1)** zasięgają informacji, czy nie został zgłoszony sprzeciw w formie określonej w art. 6 ust. 1 pkt 1;
+- **2)** ustalają istnienie sprzeciwu wyrażonego w formach, o których mowa w art. 6 ust. 1 pkt 2 i 3, na podstawie dostępnych informacji lub dokumentów.
 
 **Art. 11.** Lekarz pobierający ze zwłok ludzkich komórki, tkanki lub narządy jest obowiązany zapewnić nadanie zwłokom należytego wyglądu.
 
@@ -838,6 +841,10 @@ source: "isap-pdf"
 
 **Art. 32.** Bank tkanek i komórek jest obowiązany:
 
+- **1)** znakować, pakować tkanki i komórki oraz dokumentować te czynności;
+- **2)** zapewniać najwyższą jakość tkanek i komórek podczas dystrybucji;
+- **3)** zapewnić, aby wszystkie czynności związane z przechowywaniem tkanek i komórek były przeprowadzane w warunkach kontrolowanych właściwych dla każdej czynności.
+
 **Art. 32a.**
 
 1. Bank tkanek i komórek zawiera umowę o przechowywanie komórek lub tkanek z osobą, która te komórki lub tkanki oddała do przechowania.
@@ -1119,7 +1126,16 @@ source: "isap-pdf"
 
 **Art. 37d.** Bank tkanek i komórek, podmiot leczniczy, o którym mowa w art. 36 ust. 1 pkt 1, 2 i 5, oraz medyczne laboratorium diagnostyczne, o którym mowa w art. 37 ust. 1, są obowiązane:
 
+- **1)** prowadzić walidację wszystkich procesów,
+- **2)** określać krytyczne momenty wszystkich procesów, które powinny być kontrolowane w oparciu o wyznaczone kryteria akceptacji,
+- **3)** prowadzić kwalifikację sprzętu, urządzeń technicznych i środowiska przebiegającego procesu rozumianą jako udokumentowane działanie mające na celu wykazanie, że to środowisko, sprzęt lub urządzenia są odpowiednio zainstalowane i pracują właściwie – w celu zapewnienia jakości i bezpieczeństwa wymaganego dla danego typu komórki, tkanki lub narządu oraz uzyskania oczekiwanych wyników.
+
 **Art. 37e.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy komórek lub tkanek oraz sposób oznaczania komórek lub tkanek – w postaci zastosowania jednolitego kodu europejskiego,
+- **2)** sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy komórek lub tkanek oraz sposób oznaczania komórek lub tkanek – bez zastosowania jednolitego kodu europejskiego – w przypadkach, o których mowa w art. 37b ust. 2 pkt 2,
+- **3)** sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy narządów oraz sposób oznaczania narządów za pomocą tego oznakowania,
+- **4)** wymagania w zakresie monitorowania, o którym mowa w art. 37c ust. 3 – uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego biorców oraz możliwość prawidłowego przeanalizowania i prześledzenia drogi tkanek i komórek od dawcy do biorcy i odwrotnie.
 
 #### Rozdział 8 Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”, Krajowe Centrum Bankowania Tkanek i Komórek i Krajowa Rada Transplantacyjna
 
@@ -1362,4 +1378,8 @@ source: "isap-pdf"
 **Art. 58.** Traci moc ustawa z dnia 26 października 1995 r. o pobieraniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 682, z 1997 r. poz. 554 i 661 oraz z 2000 r. poz. 1268).
 
 **Art. 59.** Ustawa wchodzi w życie z dniem 1 stycznia 2006 r., z tym że przepisy:
+
+- **1)** art. 22–35 ust. 1, 2 i 11 oraz art. 36 i 37,
+- **2)** art. 38 ust. 3 pkt 11, art. 39 ust. 6, art. 41 ust. 6 pkt 6 i pkt 8 lit. a, art. 42 ust. 2 pkt 3 i 5, art. 45 i 48 – stosuje się od dnia 31 grudnia 2006 r.
+
 

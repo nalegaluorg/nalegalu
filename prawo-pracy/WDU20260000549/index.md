@@ -30,22 +30,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 23 maja 1991 r.
 o związkach zawodowych
-Art. 25 [2] . 1. Reprezentatywną ponadzakładową organizacją związkową jest ponadzakładowa organizacja związkowa:
-1) reprezentatywna w rozumieniu ustawy o Radzie Dialogu Społecznego lub
-2) zrzeszająca co najmniej 15 % ogółu osób wykonujących pracę zarobkową objętych zakresem działania statutu, niemniej jednak niż 10 000 osób wykonujących pracę zarobkową, lub
-3) zrzeszająca największą liczbę osób wykonujących pracę zarobkową, dla których ma być zawarty określony ponadzakładowy układ zbiorowy pracy.
-2. Ponadzakładowa organizacja związkowa, o której mowa w ust. 1 pkt 2 i 3, występuje do Sądu Okręgowego w Warszawie z wnioskiem o stwierdzenie reprezentatywności, zawierającym informację o liczbie jej członków, który wydaje w tej sprawie orzeczenie w terminie 30 dni od dnia złożenia wniosku, w trybie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o postępowaniu nieprocesowym.
-3. W przypadku stwierdzenia reprezentatywności ogólnokrajowej organizacji międzyzwiązkowej (konfederacji) z mocy prawa stają się reprezentatywne, wchodzące w jej skład, ogólnokrajowe związki zawodowe i zrzeszenia (federacje) związków zawodowych.
-Art. 25 [3] . 1. Reprezentatywną zakładową organizacją związkową jest zakładowa organizacja związkowa:
-1) będąca jednostką organizacyjną albo organizacją członkowską ponadzakładowej organizacji związkowej uznanej za reprezentatywną w rozumieniu ustawy o Radzie Dialogu Społecznego, zrzeszająca co najmniej 8 % osób wykonujących pracę zarobkową zatrudnionych u pracodawcy lub
-2) zrzeszająca co najmniej 15 % osób wykonujących pracę zarobkową zatrudnionych u pracodawcy.
-2. Jeżeli żadna z zakładowych organizacji związkowych nie spełnia wymogów, o których mowa w ust. 1, reprezentatywną zakładową organizacją związkową jest organizacja zrzeszająca największą liczbę osób wykonujących pracę zarobkową zatrudnionych u pracodawcy.
-3. Jeżeli u pracodawcy działa więcej niż jedna organizacja związkowa reprezentatywna w rozumieniu ust. 1 pkt 1, wchodząca w skład tego samego zrzeszenia (federacji) związków zawodowych lub ogólnokrajowej organizacji międzyzwiązkowej (konfederacji), organizacje te wyłaniają wspólną reprezentację w sprawach dotyczących zbiorowych praw i interesów osób wykonujących pracę zarobkową.
-4. W przypadku niewyłonienia wspólnej reprezentacji, o której mowa w ust. 3, reprezentatywną zakładową organizacją związkową jest organizacja zrzeszająca największą spośród nich liczbę osób wykonujących pracę zarobkową zatrudnionych u pracodawcy lub organizacja spełniająca kryterium reprezentatywności, o którym mowa w ust. 1 pkt 2.
-5. Utrata przymiotu reprezentatywności w sprawach dotyczących zbiorowych praw i interesów osób wykonujących pracę zarobkową pozostaje bez wpływu na pozostałe uprawnienia reprezentatywnych zakładowych organizacji związkowych i posiadanie przymiotu reprezentatywności w pozostałych sprawach.
-6. Przy ustalaniu liczby osób wykonujących pracę zarobkową zrzeszonych w zakładowej organizacji związkowej, o której mowa w ust. 1 lub 2, uwzględnia się wyłącznie osoby wykonujące pracę zarobkową należące do tej organizacji przez okres co najmniej 6 miesięcy przed przystąpieniem do rokowań lub uzgodnień.
-7. Przy ustalaniu liczby osób wykonujących pracę zarobkową zatrudnionych u pracodawcy, od której liczy się procent wskazany w ust. 1 pkt 1 lub 2, lub przy ustalaniu największej liczby osób wykonujących pracę zarobkową zatrudnionych u pracodawcy, o której mowa w ust. 2, uwzględnia się wyłącznie osoby wykonujące pracę zarobkową zatrudnione u pracodawcy przez okres co najmniej 6 miesięcy przed rozpoczęciem rokowań lub uzgodnień.
-8. W celu stwierdzenia reprezentatywności stosuje się odpowiednio przepisy art. 25 ust. 2–12.
 Art. 40–45. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
@@ -56,7 +40,9 @@ Art. 40–45. (pominięte)
 
 2. Związek zawodowy jest niezależny w swojej działalności statutowej od pracodawców, administracji państwowej i samorządu terytorialnego oraz od innych organizacji.
 
-3. Organy państwowe, samorządu terytorialnego i pracodawcy obowiązani są traktować jednakowo wszystkie związki zawodowe. Art. 1 [1] . Ilekroć w ustawie jest mowa o:
+3. Organy państwowe, samorządu terytorialnego i pracodawcy obowiązani są traktować jednakowo wszystkie związki zawodowe.
+
+**Art. 1¹.** Ilekroć w ustawie jest mowa o:
 
 - **1)** osobie wykonującej pracę zarobkową – należy przez to rozumieć pracownika lub osobę świadczącą pracę za wynagrodzeniem na innej podstawie niż stosunek pracy, jeżeli nie zatrudnia do tego rodzaju pracy innych osób, niezależnie od podstawy zatrudnienia, oraz ma takie prawa i interesy związane z wykonywaniem pracy, które mogą być reprezentowane i bronione przez związek zawodowy;
 - **2)** pracodawcy – należy przez to rozumieć pracodawcę w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25 i 473), a także osobę fizyczną, osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną i do której stosuje się odpowiednio przepisy o osobach prawnych, jeżeli zatrudniają one inną niż pracownik osobę wykonującą pracę zarobkową;
@@ -120,7 +106,11 @@ Art. 40–45. (pominięte)
 
 2. Ogólnokrajowe związki zawodowe i zrzeszenia związków zawodowych mogą tworzyć ogólnokrajowe organizacje międzyzwiązkowe (konfederacje).
 
-3. Organizacje związkowe, w tym federacje i konfederacje, mają prawo tworzenia i wstępowania do międzynarodowych organizacji związkowych. Art. 11 [1] . 1. Składki członkowskie wnoszone do międzynarodowych organizacji związkowych, reprezentujących interesy osób wykonujących pracę zarobkową wobec instytucji Unii Europejskiej, przez organizacje związkowe, reprezentatywne w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ), zwanej dalej „ustawą o Radzie Dialogu Społecznego”, wchodzące w skład Rady Dialogu Społecznego, mogą być dofinansowane z budżetu państwa w formie dotacji celowej.
+3. Organizacje związkowe, w tym federacje i konfederacje, mają prawo tworzenia i wstępowania do międzynarodowych organizacji związkowych.
+
+**Art. 11¹.**
+
+1. Składki członkowskie wnoszone do międzynarodowych organizacji związkowych, reprezentujących interesy osób wykonujących pracę zarobkową wobec instytucji Unii Europejskiej, przez organizacje związkowe, reprezentatywne w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ), zwanej dalej „ustawą o Radzie Dialogu Społecznego”, wchodzące w skład Rady Dialogu Społecznego, mogą być dofinansowane z budżetu państwa w formie dotacji celowej.
 
 2. Dotacji celowej, o której mowa w ust. 1, udziela – na wniosek organizacji związkowej – minister właściwy do spraw pracy, na podstawie umowy zawartej z tą organizacją.
 
@@ -195,7 +185,11 @@ Art. 40–45. (pominięte)
 
 3. W razie odrzucenia w całości lub w części stanowiska związku, właściwy organ administracji rządowej lub samorządu terytorialnego informuje o tym związek na piśmie, podając uzasadnienie swojego stanowiska. W razie rozbieżności stanowisk związek może przedstawić swoją opinię na posiedzeniu właściwej komisji sejmowej, senackiej lub samorządu terytorialnego.
 
-4. Związkom zawodowym przysługuje prawo wyrażania publicznie opinii na temat założeń lub projektów, o których mowa w ust. 1, w środkach masowego przekazu, w tym także w radio i telewizji. Art. 19 [1] . 1. Organizacja związkowa, reprezentatywna w rozumieniu ustawy o Radzie Dialogu Społecznego, ma prawo opiniowania dokumentów konsultacyjnych Unii Europejskiej, w szczególności białych ksiąg, zielonych ksiąg i komunikatów, oraz projektów aktów prawnych Unii Europejskiej w zakresie spraw objętych zadaniami związków zawodowych.
+4. Związkom zawodowym przysługuje prawo wyrażania publicznie opinii na temat założeń lub projektów, o których mowa w ust. 1, w środkach masowego przekazu, w tym także w radio i telewizji.
+
+**Art. 19¹.**
+
+1. Organizacja związkowa, reprezentatywna w rozumieniu ustawy o Radzie Dialogu Społecznego, ma prawo opiniowania dokumentów konsultacyjnych Unii Europejskiej, w szczególności białych ksiąg, zielonych ksiąg i komunikatów, oraz projektów aktów prawnych Unii Europejskiej w zakresie spraw objętych zadaniami związków zawodowych.
 
 2. Organy władzy i administracji państwowej kierują dokumenty konsultacyjne Unii Europejskiej oraz projekty aktów prawnych, o których mowa w ust. 1, do odpowiednich władz statutowych związku, określając termin przedstawienia opinii.
 
@@ -245,7 +239,11 @@ Art. 40–45. (pominięte)
 
 7. Umowa zawarta między pracodawcą a inną niż pracownik osobą wykonującą pracę zarobkową, w której określono termin wykonania pracy, nie ulega przedłużeniu o czas zwolnienia od pracy, o którym mowa w ust. 6.
 
-8. W układzie zbiorowym pracy można określić limity czasu zwolnień od pracy zawodowej na czas niezbędny do wykonania doraźnej czynności wynikającej z funkcji związkowej osób wykonujących pracę zarobkową. Art. 25 [1] . 1. Uprawnienia zakładowej organizacji związkowej przysługują organizacji zrzeszającej co najmniej 10 członków będących:
+8. W układzie zbiorowym pracy można określić limity czasu zwolnień od pracy zawodowej na czas niezbędny do wykonania doraźnej czynności wynikającej z funkcji związkowej osób wykonujących pracę zarobkową.
+
+**Art. 25¹.**
+
+1. Uprawnienia zakładowej organizacji związkowej przysługują organizacji zrzeszającej co najmniej 10 członków będących:
 
 - **1)** pracownikami u pracodawcy objętego działaniem tej organizacji lub
 - **2)** innymi niż pracownicy osobami wykonującymi pracę zarobkową, które świadczą pracę przez co najmniej 6 miesięcy na rzecz pracodawcy objętego działaniem tej organizacji.
@@ -274,6 +272,39 @@ Art. 40–45. (pominięte)
 
 #### Rozdział 3a Reprezentatywna organizacja związkowa
 
+**Art. 25².**
+
+1. Reprezentatywną ponadzakładową organizacją związkową jest ponadzakładowa organizacja związkowa:
+
+- **1)** reprezentatywna w rozumieniu ustawy o Radzie Dialogu Społecznego lub
+- **2)** zrzeszająca co najmniej 15 % ogółu osób wykonujących pracę zarobkową objętych zakresem działania statutu, niemniej jednak niż 10 000 osób wykonujących pracę zarobkową, lub
+- **3)** zrzeszająca największą liczbę osób wykonujących pracę zarobkową, dla których ma być zawarty określony ponadzakładowy układ zbiorowy pracy.
+
+2. Ponadzakładowa organizacja związkowa, o której mowa w ust. 1 pkt 2 i 3, występuje do Sądu Okręgowego w Warszawie z wnioskiem o stwierdzenie reprezentatywności, zawierającym informację o liczbie jej członków, który wydaje w tej sprawie orzeczenie w terminie 30 dni od dnia złożenia wniosku, w trybie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o postępowaniu nieprocesowym.
+
+3. W przypadku stwierdzenia reprezentatywności ogólnokrajowej organizacji międzyzwiązkowej (konfederacji) z mocy prawa stają się reprezentatywne, wchodzące w jej skład, ogólnokrajowe związki zawodowe i zrzeszenia (federacje) związków zawodowych.
+
+**Art. 25³.**
+
+1. Reprezentatywną zakładową organizacją związkową jest zakładowa organizacja związkowa:
+
+- **1)** będąca jednostką organizacyjną albo organizacją członkowską ponadzakładowej organizacji związkowej uznanej za reprezentatywną w rozumieniu ustawy o Radzie Dialogu Społecznego, zrzeszająca co najmniej 8 % osób wykonujących pracę zarobkową zatrudnionych u pracodawcy lub
+- **2)** zrzeszająca co najmniej 15 % osób wykonujących pracę zarobkową zatrudnionych u pracodawcy.
+
+2. Jeżeli żadna z zakładowych organizacji związkowych nie spełnia wymogów, o których mowa w ust. 1, reprezentatywną zakładową organizacją związkową jest organizacja zrzeszająca największą liczbę osób wykonujących pracę zarobkową zatrudnionych u pracodawcy.
+
+3. Jeżeli u pracodawcy działa więcej niż jedna organizacja związkowa reprezentatywna w rozumieniu ust. 1 pkt 1, wchodząca w skład tego samego zrzeszenia (federacji) związków zawodowych lub ogólnokrajowej organizacji międzyzwiązkowej (konfederacji), organizacje te wyłaniają wspólną reprezentację w sprawach dotyczących zbiorowych praw i interesów osób wykonujących pracę zarobkową.
+
+4. W przypadku niewyłonienia wspólnej reprezentacji, o której mowa w ust. 3, reprezentatywną zakładową organizacją związkową jest organizacja zrzeszająca największą spośród nich liczbę osób wykonujących pracę zarobkową zatrudnionych u pracodawcy lub organizacja spełniająca kryterium reprezentatywności, o którym mowa w ust. 1 pkt 2.
+
+5. Utrata przymiotu reprezentatywności w sprawach dotyczących zbiorowych praw i interesów osób wykonujących pracę zarobkową pozostaje bez wpływu na pozostałe uprawnienia reprezentatywnych zakładowych organizacji związkowych i posiadanie przymiotu reprezentatywności w pozostałych sprawach.
+
+6. Przy ustalaniu liczby osób wykonujących pracę zarobkową zrzeszonych w zakładowej organizacji związkowej, o której mowa w ust. 1 lub 2, uwzględnia się wyłącznie osoby wykonujące pracę zarobkową należące do tej organizacji przez okres co najmniej 6 miesięcy przed przystąpieniem do rokowań lub uzgodnień.
+
+7. Przy ustalaniu liczby osób wykonujących pracę zarobkową zatrudnionych u pracodawcy, od której liczy się procent wskazany w ust. 1 pkt 1 lub 2, lub przy ustalaniu największej liczby osób wykonujących pracę zarobkową zatrudnionych u pracodawcy, o której mowa w ust. 2, uwzględnia się wyłącznie osoby wykonujące pracę zarobkową zatrudnione u pracodawcy przez okres co najmniej 6 miesięcy przed rozpoczęciem rokowań lub uzgodnień.
+
+8. W celu stwierdzenia reprezentatywności stosuje się odpowiednio przepisy art. 25 ust. 2–12.
+
 #### Rozdział 4 Zakładowa organizacja związkowa
 
 **Art. 26.** Do zakresu działania zakładowej organizacji związkowej należy w szczególności:
@@ -282,7 +313,11 @@ Art. 40–45. (pominięte)
 - **2)** zajmowanie stanowiska wobec pracodawcy lub organu samorządu załogi w sprawach dotyczących zbiorowych interesów i praw osób wykonujących pracę zarobkową;
 - **3)** sprawowanie kontroli nad przestrzeganiem w zakładzie pracy przepisów prawa pracy, a w szczególności przepisów oraz zasad bezpieczeństwa i higieny pracy;
 - **4)** kierowanie działalnością społecznej inspekcji pracy i współdziałanie z państwową inspekcją pracy;
-- **5)** zajmowanie się warunkami życia emerytów i rencistów. Art. 26 [1] . 1. W razie przejścia zakładu pracy lub jego części na nowego pracodawcę w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, dotychczasowy i nowy pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy są obowiązani do poinformowania na piśmie działających u każdego z nich zakładowych organizacji związkowych o przewidywanym terminie tego przejścia, jego przyczynach, prawnych, ekonomicznych oraz socjalnych skutkach dla swoich pracowników, a także zamierzonych działaniach dotyczących warunków zatrudnienia tych pracowników, w szczególności warunków pracy, płacy i przekwalifikowania.
+- **5)** zajmowanie się warunkami życia emerytów i rencistów.
+
+**Art. 26¹.**
+
+1. W razie przejścia zakładu pracy lub jego części na nowego pracodawcę w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, dotychczasowy i nowy pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy są obowiązani do poinformowania na piśmie działających u każdego z nich zakładowych organizacji związkowych o przewidywanym terminie tego przejścia, jego przyczynach, prawnych, ekonomicznych oraz socjalnych skutkach dla swoich pracowników, a także zamierzonych działaniach dotyczących warunków zatrudnienia tych pracowników, w szczególności warunków pracy, płacy i przekwalifikowania.
 
 2. Informacje, o których mowa w ust. 1, dotychczasowy i nowy pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy są obowiązani przekazać co najmniej na 30 dni przed przewidywanym terminem przejścia zakładu pracy lub jego części.
 
@@ -315,7 +350,11 @@ Art. 40–45. (pominięte)
 - **3)** stanu, struktury i przewidywanych zmian zatrudnienia oraz działań mających na celu utrzymanie poziomu zatrudnienia;
 - **4)** działań, które mogą powodować istotne zmiany w organizacji pracy lub podstawach zatrudnienia.
 
-2. Pracodawca udziela zakładowej organizacji związkowej informacji, o których mowa w ust. 1, w terminie 30 dni od dnia otrzymania wniosku. Art. 28 [1] . 1. Pracodawca zapewnia dostęp do zakładu pracy lub innego miejsca wyznaczonego przez pracodawcę do wykonywania pracy osobom niezatrudnionym przez tego pracodawcę, działającym w celu podjęcia rokowań nad zakładowym układem zbiorowym pracy, podjęcia przygotowań do rokowań lub w celu dokonania okresowych ocen przestrzegania obowiązującego układu.
+2. Pracodawca udziela zakładowej organizacji związkowej informacji, o których mowa w ust. 1, w terminie 30 dni od dnia otrzymania wniosku.
+
+**Art. 28¹.**
+
+1. Pracodawca zapewnia dostęp do zakładu pracy lub innego miejsca wyznaczonego przez pracodawcę do wykonywania pracy osobom niezatrudnionym przez tego pracodawcę, działającym w celu podjęcia rokowań nad zakładowym układem zbiorowym pracy, podjęcia przygotowań do rokowań lub w celu dokonania okresowych ocen przestrzegania obowiązującego układu.
 
 2. Osoby, o których mowa w ust. 1, są przedstawicielami:
 
@@ -436,7 +475,11 @@ Art. 40–45. (pominięte)
 
 3. Jeżeli warunki udostępniania organizacji związkowej pomieszczeń i urządzeń technicznych określają postanowienia układu zbiorowego pracy, prawo wystąpienia z roszczeniem, o którym mowa w ust. 2, przysługuje pracodawcy lub każdej z organizacji związkowych, której postanowienia te dotyczą.
 
-4. Do postępowania w sprawach, o których mowa w ust. 2 i 3, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu z zakresu prawa pracy. Art. 33 [1] . 1. Pracodawca, na pisemny wniosek zakładowej organizacji związkowej i za pisemną zgodą osoby wykonującej pracę zarobkową, jest obowiązany pobierać z wynagrodzenia tej osoby składkę związkową w zadeklarowanej przez nią wysokości.
+4. Do postępowania w sprawach, o których mowa w ust. 2 i 3, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu z zakresu prawa pracy.
+
+**Art. 33¹.**
+
+1. Pracodawca, na pisemny wniosek zakładowej organizacji związkowej i za pisemną zgodą osoby wykonującej pracę zarobkową, jest obowiązany pobierać z wynagrodzenia tej osoby składkę związkową w zadeklarowanej przez nią wysokości.
 
 2. Pracodawca jest obowiązany niezwłocznie przekazywać kwoty pobranych składek związkowych na rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej wskazany przez zakładową organizację związkową.
 
@@ -444,7 +487,11 @@ Art. 40–45. (pominięte)
 
 1. Przepisy art. 25 –33 stosuje się do międzyzakładowej organizacji związkowej obejmującej swoim działaniem pracodawcę, z zastrzeżeniem ust. 2 oraz art. 34 i 34 .
 
-2. Przy ustalaniu liczby członków, o której mowa w art. 25 ust. 1, oraz prawa do zwolnienia z obowiązku świadczenia pracy, o którym mowa w art. 31 ust. 1, uwzględnia się liczbę członków międzyzakładowej organizacji związkowej zatrudnionych u wszystkich pracodawców objętych działaniem tej organizacji. Art. 34 [1] . 1. Pracodawcy objęci działaniem międzyzakładowej organizacji związkowej ponoszą koszty, w tym koszty wynagrodzeń i składek na ubezpieczenia społeczne, związane z zatrudnianiem osoby wykonującej pracę zarobkową zwolnionej:
+2. Przy ustalaniu liczby członków, o której mowa w art. 25 ust. 1, oraz prawa do zwolnienia z obowiązku świadczenia pracy, o którym mowa w art. 31 ust. 1, uwzględnia się liczbę członków międzyzakładowej organizacji związkowej zatrudnionych u wszystkich pracodawców objętych działaniem tej organizacji.
+
+**Art. 34¹.**
+
+1. Pracodawcy objęci działaniem międzyzakładowej organizacji związkowej ponoszą koszty, w tym koszty wynagrodzeń i składek na ubezpieczenia społeczne, związane z zatrudnianiem osoby wykonującej pracę zarobkową zwolnionej:
 
 - **1)** z obowiązku świadczenia pracy na okres kadencji w zarządzie międzyzakładowej organizacji związkowej – na podstawie art. 31 ust. 1 w związku z art. 34 ust. 2,
 - **2)** od pracy zawodowej z zachowaniem prawa do wynagrodzenia – na podstawie art. 31 ust. 3 lub od pracy z zachowaniem prawa do wynagrodzenia – na podstawie art. 31 ust. 4 – odpowiednio do udziału liczby członków tej organizacji zatrudnionych u danego pracodawcy w łącznej liczbie członków tej organizacji zatrudnionych u wszystkich pracodawców objętych działaniem tej organizacji – w przeliczeniu na pełny wymiar czasu pracy.
@@ -457,7 +504,11 @@ Art. 40–45. (pominięte)
 
 4. Na potrzeby przeliczenia, o którym mowa w ust. 1 i 2, w przypadku innych niż pracownicy osób wykonujących pracę zarobkową będących członkami międzyzakładowej organizacji związkowej przyjmuje się, że osoby te są zatrudnione w pełnym wymiarze czasu pracy.
 
-5. Sposób i tryb ponoszenia kosztów, o których mowa w ust. 1, określa każdy pracodawca, który zwolni osobę lub osoby wykonujące pracę zarobkową z obowiązku świadczenia pracy lub od pracy zawodowej z zachowaniem prawa do wynagrodzenia, w zakresie dotyczącym kosztów związanych z zatrudnianiem tej osoby lub tych osób wykonujących pracę zarobkową. Art. 34 [2] . 1. Zarząd międzyzakładowej organizacji związkowej, która co najmniej u jednego pracodawcy objętego jej działaniem zrzesza osoby wykonujące pracę zarobkową w liczbie wymaganej do uzyskania statusu organizacji reprezentatywnej w rozumieniu art. 25 ust. 1 lub 2, może wskazać osoby wykonujące pracę zarobkową podlegające ochronie przewidzianej w art. 32 ust. 1:
+5. Sposób i tryb ponoszenia kosztów, o których mowa w ust. 1, określa każdy pracodawca, który zwolni osobę lub osoby wykonujące pracę zarobkową z obowiązku świadczenia pracy lub od pracy zawodowej z zachowaniem prawa do wynagrodzenia, w zakresie dotyczącym kosztów związanych z zatrudnianiem tej osoby lub tych osób wykonujących pracę zarobkową.
+
+**Art. 34².**
+
+1. Zarząd międzyzakładowej organizacji związkowej, która co najmniej u jednego pracodawcy objętego jej działaniem zrzesza osoby wykonujące pracę zarobkową w liczbie wymaganej do uzyskania statusu organizacji reprezentatywnej w rozumieniu art. 25 ust. 1 lub 2, może wskazać osoby wykonujące pracę zarobkową podlegające ochronie przewidzianej w art. 32 ust. 1:
 
 - **1)** w liczbie ustalonej zgodnie z art. 32 ust. 3 albo 4 lub
 - **2)** w liczbie ustalonej zgodnie z art. 32 ust. 3 albo 4 u jednego pracodawcy wskazanego przez tę organizację spośród pracodawców objętych jej działaniem, u którego ta organizacja zrzesza osoby wykonujące pracę zarobkową w liczbie wymaganej do uzyskania statusu organizacji reprezentatywnej w rozumieniu art. 25 ust. 1 lub 2, powiększonej o liczbę pozostałych pracodawców objętych działaniem tej organizacji, u których jest zatrudnionych co najmniej 10 osób wykonujących pracę zarobkową będących jej członkami.

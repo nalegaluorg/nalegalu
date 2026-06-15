@@ -8,7 +8,7 @@ pos: 1194
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o dozorze technicznym
@@ -43,7 +43,37 @@ Art. 66–68. (pominięte)
 
 **Art. 3.** Przepisów ustawy nie stosuje się do:
 
+- **1)** urządzeń technicznych, nad którymi są prowadzone prace naukowo-badawcze;
+- **2)** górniczych szybowych urządzeń wyciągowych oraz urządzeń technicznych w podziemnych wyrobiskach zakładów górniczych.
+
 **Art. 4.** Ilekroć w ustawie jest mowa o:
+
+- **1)** urządzeniach technicznych – należy przez to rozumieć urządzenia, które mogą stwarzać zagrożenie dla życia lub zdrowia ludzkiego oraz mienia i środowiska wskutek:
+    - **a)** rozprężenia cieczy lub gazów znajdujących się pod ciśnieniem różnym od atmosferycznego,
+    - **b)** wyzwolenia energii potencjalnej lub kinetycznej przy przemieszczaniu ludzi lub ładunków w ograniczonym zasięgu,
+    - **c)** rozprzestrzeniania się materiałów niebezpiecznych podczas ich magazynowania lub transportu;
+
+- **1a)** urządzeniach do odzyskiwania par paliwa – należy przez to rozumieć urządzenia zainstalowane na stacjach paliw płynnych, służące do odzyskiwania par produktów naftowych I klasy ulatniających się podczas ich wydawania do zbiornika pojazdu i przekazujące te pary do zbiornika magazynowego tych produktów lub do odmierzacza paliw płynnych;
+- **2)** warunkach technicznych dozoru technicznego – należy przez to rozumieć ustalone przez właściwych ministrów na podstawie ustawy wymagania, jakim powinny odpowiadać urządzenia techniczne albo urządzenia do odzyskiwania par paliwa;
+- **3)** jednostkach dozoru technicznego – należy przez to rozumieć Urząd Dozoru Technicznego oraz specjalistyczne jednostki dozoru technicznego;
+- **4)** specjalistycznych jednostkach dozoru technicznego – należy przez to rozumieć Transportowy Dozór Techniczny i Wojskowy Dozór Techniczny;
+- **5)** modernizacji – należy przez to rozumieć zespół czynności niebędących wytworzeniem nowego urządzenia technicznego, zmieniających cechy urządzenia technicznego, w szczególności jego:
+    - **a)** konstrukcję lub zastosowane w nim materiały, lub
+    - **b)** parametry techniczne, lub
+    - **c)** automatykę zabezpieczającą lub jej podzespoły – bez istotnych zmian jego charakterystyki lub przeznaczenia i niepowodujących wzrostu zagrożenia związanego z jego eksploatacją;
+
+- **6)** naprawie – należy przez to rozumieć zespół czynności mających na celu przywrócenie stanu zdatności użytkowej urządzenia technicznego, w tym wykonywanych metodami chemicznymi, bez wprowadzania zmian w konstrukcji lub parametrów technicznych;
+- **7)** konserwacji – należy przez to rozumieć zespół czynności wykonywanych w celu utrzymania stanu zdatności użytkowej urządzenia technicznego, prowadzonych zgodnie z instrukcją eksploatacji, niebędących naprawą urządzenia.
+
+**Art. 5.**
+
+1. Dozorowi technicznemu podlegają urządzenia techniczne w toku ich projektowania, wytwarzania, w tym wytwarzania materiałów i elementów, naprawy i modernizacji, obrotu oraz eksploatacji.
+
+2. Rada Ministrów określi, w drodze rozporządzenia, rodzaje urządzeń technicznych podlegających dozorowi technicznemu, z wyłączeniem urządzeń technicznych w elektrowniach jądrowych, biorąc pod uwagę konieczność zapewnienia bezpiecznego funkcjonowania tych urządzeń.
+
+3. Rada Ministrów może, w drodze rozporządzenia, objąć przepisami ustawy urządzenia mogące stwarzać inne niż określone w art. 4 pkt 1 zagrożenia dla życia lub zdrowia ludzkiego oraz mienia i środowiska, z wyłączeniem urządzeń w elektrowni jądrowej, biorąc pod uwagę konieczność zapewnienia bezpiecznego funkcjonowania tych urządzeń.
+
+4. Rada Ministrów określi, w drodze rozporządzenia, rodzaje urządzeń technicznych lub urządzeń mogących stwarzać inne niż określone w art. 4 pkt 1 zagrożenia dla życia lub zdrowia ludzkiego oraz mienia i środowiska, podlegające dozorowi technicznemu w elektrowni jądrowej, biorąc pod uwagę realizowane przez te urządzenia funkcje bezpieczeństwa w elektrowni jądrowej.
 
 **Art. 6.** Urządzenia techniczne powinny być projektowane, wytwarzane, naprawiane, modernizowane oraz eksploatowane zgodnie z ich przeznaczeniem, w sposób zapewniający bezpieczeństwo ich eksploatacji – zgodnie z przepisami ustawy i przepisami odrębnymi.
 
@@ -55,7 +85,9 @@ Art. 66–68. (pominięte)
 
 2. W sprawach należących do zakresu działania Urzędu Dozoru Technicznego, o którym mowa w art. 35 ust. 1, organem właściwym, w rozumieniu przepisów Kodeksu postępowania administracyjnego, jest Prezes Urzędu, a organem wyższego stopnia – minister właściwy do spraw gospodarki.
 
-2a. W sprawach należących do zakresu działania Urzędu Dozoru Technicznego dotyczących urządzeń technicznych lub urządzeń w elektrowniach jądrowych organem właściwym w rozumieniu przepisów Kodeksu postępowania administracyjnego jest Prezes Urzędu, a organem wyższego stopnia – minister właściwy do spraw gospodarki surowcami energetycznymi. Technicznego, o którym mowa w art. 42 ust. 1, organem właściwym, w rozumieniu przepisów Kodeksu postępowania administracyjnego, jest Dyrektor Transportowego Dozoru Technicznego, a organem wyższego stopnia – minister właściwy do spraw transportu.
+2a. W sprawach należących do zakresu działania Urzędu Dozoru Technicznego dotyczących urządzeń technicznych lub urządzeń w elektrowniach jądrowych organem właściwym w rozumieniu przepisów Kodeksu postępowania administracyjnego jest Prezes Urzędu, a organem wyższego stopnia – minister właściwy do spraw gospodarki surowcami energetycznymi.
+
+3. W sprawach należących do zakresu działania Transportowego Dozoru Technicznego, o którym mowa w art. 42 ust. 1, organem właściwym, w rozumieniu przepisów Kodeksu postępowania administracyjnego, jest Dyrektor Transportowego Dozoru Technicznego, a organem wyższego stopnia – minister właściwy do spraw transportu.
 
 4. W sprawach należących do zakresu działania Wojskowego Dozoru Technicznego, o którym mowa w art. 48, organem właściwym, w rozumieniu przepisów Kodeksu postępowania administracyjnego, jest Szef Wojskowego Dozoru Technicznego, a organem wyższego stopnia – Minister Obrony Narodowej.
 
@@ -77,7 +109,7 @@ Art. 66–68. (pominięte)
 - **4)** eksploatacji urządzeń technicznych;
 - **5)** naprawy i modernizacji urządzeń technicznych.
 
-5. Minister właściwy do spraw gospodarki, wydając rozporządzenie, o którym mowa w ust. 4, uwzględni w szczególności wymagania dotyczące konstrukcji, obliczeń wytrzymałościowych, wykonania, osprzętu, oznaczeń, materiałów i elementów, naprawy lub modernizacji, zakresu badań technicznych urządzeń i elementów, terminów badań okresowych, rodzaju dokumentacji niezbędnej do objęcia dozorem i potwierdzenia prawidłowości wykonania, spawania, zgrzewania, lutowania, i konserwacji.
+5. Minister właściwy do spraw gospodarki, wydając rozporządzenie, o którym mowa w ust. 4, uwzględni w szczególności wymagania dotyczące konstrukcji, obliczeń wytrzymałościowych, wykonania, osprzętu, oznaczeń, materiałów i elementów, naprawy lub modernizacji, zakresu badań technicznych urządzeń i elementów, terminów badań okresowych, rodzaju dokumentacji niezbędnej do objęcia dozorem i potwierdzenia prawidłowości wykonania, spawania, zgrzewania, lutowania, przeróbki plastycznej i obróbki cieplnej, badań nieniszczących oraz obsługi i konserwacji.
 
 5a. Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia, warunki techniczne dozoru technicznego dla urządzeń technicznych lub urządzeń, o których mowa w przepisach wykonawczych wydanych na podstawie art. 5 ust. 4, w zakresie:
 
@@ -94,7 +126,9 @@ Art. 66–68. (pominięte)
 
 **Art. 9.**
 
-1. Urządzenia techniczne oraz materiały i elementy stosowane do ich wytwarzania, naprawy lub modernizacji mogą być wytwarzane, naprawiane lub modernizowane przez wytwarzającego, naprawiającego lub modernizującego, który posiada uprawnienie, wydane w formie decyzji administracyjnej, do ich wytwarzania, naprawiania lub modernizacji, zwane dalej „uprawnieniem”, wydane przez organ właściwej jednostki dozoru technicznego, chyba że przepisy szczególne stanowią inaczej. usług w zakresie naprawiania lub modernizacji urządzeń technicznych oraz wytwarzania materiałów i elementów stosowanych do ich modernizowania lub naprawiania przez usługodawców z państwa członkowskiego, o których mowa w art. 3 pkt 10 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470).
+1. Urządzenia techniczne oraz materiały i elementy stosowane do ich wytwarzania, naprawy lub modernizacji mogą być wytwarzane, naprawiane lub modernizowane przez wytwarzającego, naprawiającego lub modernizującego, który posiada uprawnienie, wydane w formie decyzji administracyjnej, do ich wytwarzania, naprawiania lub modernizacji, zwane dalej „uprawnieniem”, wydane przez organ właściwej jednostki dozoru technicznego, chyba że przepisy szczególne stanowią inaczej.
+
+1a. Uzyskania uprawnienia, o którym mowa w ust. 1, wymaga także świadczenie usług w zakresie naprawiania lub modernizacji urządzeń technicznych oraz wytwarzania materiałów i elementów stosowanych do ich modernizowania lub naprawiania przez usługodawców z państwa członkowskiego, o których mowa w art. 3 pkt 10 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470).
 
 1b. Uzyskanie uprawnienia nie jest wymagane, gdy podmiot naprawiający lub modernizujący świadczy taką usługę okazjonalnie i zastosuje właściwą technologię naprawy lub modernizacji, uzgodnioną i nadzorowaną przez organ właściwej jednostki dozoru technicznego.
 
@@ -108,7 +142,7 @@ Art. 66–68. (pominięte)
 
 3. Wymagania określone w ust. 2 uważa się za spełnione, jeżeli wytwarzający, naprawiający lub modernizujący urządzenia techniczne posiada system jakości zgodny z Polskimi Normami, zatwierdzony i nadzorowany przez organ właściwej jednostki dozoru technicznego.
 
-3a. Prezes Urzędu Dozoru Technicznego, Dyrektor Transportowego Dozoru Technicznego i Szef Wojskowego Dozoru Technicznego, każdy w zakresie swojej właściwości, określą wzór wniosku, o którym mowa w ust. 2, w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o z 2024 r. poz. 307).
+3a. Prezes Urzędu Dozoru Technicznego, Dyrektor Transportowego Dozoru Technicznego i Szef Wojskowego Dozoru Technicznego, każdy w zakresie swojej właściwości, określą wzór wniosku, o którym mowa w ust. 2, w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307).
 
 4. Dokument potwierdzający przyznanie uprawnienia zawiera określenie warunków stanowiących podstawę jego wydania, a w szczególności:
 
@@ -127,11 +161,15 @@ Art. 66–68. (pominięte)
 
 **Art. 11.**
 
-1. W przypadku nieprzestrzegania warunków określonych w uprawnieniu lub wytwarzania materiałów, elementów lub urządzeń technicznych organ właściwej jednostki dozoru technicznego zawiesza uprawnienie.
+1. W przypadku nieprzestrzegania warunków określonych w uprawnieniu lub wytwarzania materiałów, elementów lub urządzeń technicznych niewłaściwej jakości, mającej wpływ na bezpieczeństwo eksploatacji tych urządzeń, organ właściwej jednostki dozoru technicznego zawiesza uprawnienie.
 
 2. Organ właściwej jednostki dozoru technicznego, zawieszając uprawnienie, wyznacza termin usunięcia uchybień stanowiących podstawę zawieszenia, po którego upływie, w razie ich nieusunięcia, cofa uprawnienie.
 
 **Art. 12.** Dozór techniczny nad urządzeniami technicznymi, niezależnie od czynności, o których mowa w art. 8 ust. 1–3, 6 i 7, jest wykonywany w formie:
+
+- **1)** dozoru technicznego pełnego;
+- **2)** dozoru technicznego ograniczonego;
+- **3)** dozoru technicznego uproszczonego.
 
 **Art. 13.**
 
@@ -148,7 +186,7 @@ Art. 66–68. (pominięte)
     - **b)** wykonuje doraźne badania techniczne,
     - **c)** sprawdza zaświadczenia kwalifikacyjne osób obsługujących i konserwujących urządzenia techniczne;
 
-- **4)** w toku wytwarzania urządzeń technicznych objętych dozorem technicznym uproszczonym organ właściwej jednostki dozoru technicznego przeprowadza określonymi w art. 9 ust. 4.
+- **4)** w toku wytwarzania urządzeń technicznych objętych dozorem technicznym uproszczonym organ właściwej jednostki dozoru technicznego przeprowadza badania typu oraz sprawdza, czy urządzenia są wytwarzane zgodnie z warunkami określonymi w art. 9 ust. 4.
 
 2. W przypadku zagrożenia utrzymania ciągłości produkcji w zakładzie o ruchu ciągłym organ właściwej jednostki dozoru technicznego jest obowiązany przystąpić do doraźnego badania technicznego w czasie nie dłuższym niż 12 godzin od zgłoszenia zagrożenia.
 
@@ -167,7 +205,9 @@ Art. 66–68. (pominięte)
 
 4. Na podstawie pozytywnych wyników badań i wykonanych czynności, o których mowa w ust. 2, organ właściwej jednostki dozoru technicznego wydaje decyzję zezwalającą na eksploatację urządzenia, w której ustala formę dozoru technicznego, jaką będzie objęte to urządzenie.
 
-5. Decyzja, o której mowa w ust. 4, podlega wykonaniu z dniem jej doręczenia eksploatującemu lub osobie przez niego upoważnionej. sprawdzających, o których mowa w ust. 2, w przypadku braku decyzji zezwalającej na eksploatację urządzenia, organ właściwej jednostki dozoru technicznego, w drodze decyzji, odmawia wydania decyzji zezwalającej na eksploatację urządzenia.
+5. Decyzja, o której mowa w ust. 4, podlega wykonaniu z dniem jej doręczenia eksploatującemu lub osobie przez niego upoważnionej.
+
+6. Na podstawie negatywnych wyników badań i wykonanych czynności sprawdzających, o których mowa w ust. 2, w przypadku braku decyzji zezwalającej na eksploatację urządzenia, organ właściwej jednostki dozoru technicznego, w drodze decyzji, odmawia wydania decyzji zezwalającej na eksploatację urządzenia.
 
 **Art. 15.**
 
@@ -190,7 +230,9 @@ Art. 66–68. (pominięte)
 
 1. Oznaczeniu znakiem dozoru technicznego, o którym mowa w art. 15 ust. 1, podlegają urządzenia techniczne dopuszczone do obrotu na podstawie decyzji o dopuszczeniu do obrotu, wydanej przez organ właściwej jednostki dozoru technicznego.
 
-2. Organ właściwej jednostki dozoru technicznego może, na wniosek wytwarzającego, wydać decyzję, o której mowa w ust. 1, jeżeli urządzenie techniczne objęte dozorem technicznym uproszczonym jest produkowane seryjnie na podstawie tej samej dokumentacji i według tej samej technologii oraz jest sprzedawane w stanie przygotowanym do eksploatacji. przeprowadzeniem badania typu urządzenia.
+2. Organ właściwej jednostki dozoru technicznego może, na wniosek wytwarzającego, wydać decyzję, o której mowa w ust. 1, jeżeli urządzenie techniczne objęte dozorem technicznym uproszczonym jest produkowane seryjnie na podstawie tej samej dokumentacji i według tej samej technologii oraz jest sprzedawane w stanie przygotowanym do eksploatacji.
+
+3. Wydanie decyzji, o której mowa w ust. 1, powinno być poprzedzone przeprowadzeniem badania typu urządzenia.
 
 4. Badanie, o którym mowa w ust. 3, polega na zbadaniu wybranego losowo urządzenia w zakresie zgodności wykonania urządzenia z uzgodnioną dokumentacją oraz przeprowadzeniu prób technicznych w warunkach gotowości do pracy, z zastrzeżeniem ust. 5, jeśli przewidują to warunki techniczne dozoru technicznego.
 
@@ -218,7 +260,7 @@ Art. 66–68. (pominięte)
 
 **Art. 19.**
 
-1. Eksploatujący urządzenie techniczne jest obowiązany niezwłocznie zawiadomić organ właściwej jednostki dozoru technicznego o każdym związanym z jego eksploatacją.
+1. Eksploatujący urządzenie techniczne jest obowiązany niezwłocznie zawiadomić organ właściwej jednostki dozoru technicznego o każdym niebezpiecznym uszkodzeniu urządzenia technicznego lub nieszczęśliwym wypadku związanym z jego eksploatacją.
 
 2. Organy administracji publicznej, które wykonują czynności w związku z niebezpiecznym uszkodzeniem urządzenia technicznego lub nieszczęśliwym wypadkiem związanym z jego eksploatacją, przekazują właściwej jednostce dozoru technicznego, niezwłocznie po ich powzięciu, informacje obejmujące co najmniej:
 
@@ -251,6 +293,7 @@ Art. 66–68. (pominięte)
 - **1)** wymagania w zakresie konstrukcji i wytwarzania urządzeń technicznych;
 - **2)** normy i przepisy, na podstawie których wytwarzane będą materiały i elementy stosowane do wytwarzania, naprawy lub modernizacji urządzeń technicznych;
 - **3)** zakres badań odbiorczych oraz przeprowadzającego te badania;
+- **4)** zakres dokumentacji technicznej.
 
 5. Uzgodnienie, o którym mowa w ust. 1, nie zwalnia od obowiązku uzyskania decyzji, o których mowa w art. 9 i art. 14.
 
@@ -258,13 +301,22 @@ Art. 66–68. (pominięte)
 
 **Art. 20a.** Przepisów art. 8 ust. 1–3, art. 9, art. 13 ust. 1 pkt 4 oraz art. 20 nie stosuje się do urządzeń technicznych:
 
+- **1)** zgodnie z prawem wyprodukowanych lub dopuszczonych do obrotu w innym państwie członkowskim Unii Europejskiej albo w Republice Turcji;
+- **2)** zgodnie z prawem wyprodukowanych w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) będącym stroną umowy o Europejskim Obszarze Gospodarczym;
+- **3)** zgodnie z prawem wyprodukowanych w innym państwie na potrzeby jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych;
+- **4)** należących do wojsk obcych przebywających na terytorium Rzeczypospolitej Polskiej na podstawie przepisów umów międzynarodowych.
+
 **Art. 21.** Dokumenty wydane za granicą, stwierdzające wykonanie badań urządzenia technicznego, mogą być uznane przez organ właściwej jednostki dozoru technicznego, jeżeli:
+
+- **1)** przewidują to odpowiednie porozumienia zawarte między jednostkami dozoru technicznego a właściwą w danym państwie instytucją wykonującą funkcję dozoru technicznego lub
+- **2)** wymagania techniczne, na podstawie których urządzenie zostało zaprojektowane i wytworzone, zapewniają bezpieczeństwo nie mniejsze niż polskie przepisy o dozorze technicznym.
 
 **Art. 22.**
 
 1. Osoby odpowiedzialne za wytwarzanie, naprawę, modernizację i kontrolę jakości urządzeń technicznych oraz materiałów i elementów stosowanych do wytwarzania, naprawy lub modernizacji tych urządzeń powinny posiadać:
 
-- **1)** wyższe wykształcenie techniczne i co najmniej dwuletnią praktykę zawodową lub praktykę zawodową oraz
+- **1)** wyższe wykształcenie techniczne i co najmniej dwuletnią praktykę zawodową lub
+- **2)** wykształcenie średnie techniczne lub średnie branżowe i co najmniej pięcioletnią praktykę zawodową oraz
 - **3)** znajomość norm, przepisów o dozorze technicznym i warunków technicznych dozoru technicznego w zakresie prowadzonej działalności.
 
 2. Osoby wykonujące czynności spawania, zgrzewania, lutowania oraz przeróbkę plastyczną i obróbkę cieplną w toku wytwarzania, naprawy i modernizacji urządzeń technicznych oraz wytwarzania elementów stosowanych do wytwarzania, naprawy lub modernizacji tych urządzeń obowiązane są posiadać zaświadczenia kwalifikacyjne potwierdzające umiejętność praktycznego wykonywania tych czynności oraz znajomość warunków technicznych dozoru technicznego, norm i przepisów prawnych w tym zakresie.
@@ -277,7 +329,11 @@ Art. 66–68. (pominięte)
 
 4. W razie nieprzestrzegania przez osoby wymienione w ust. 2 i 3 warunków technicznych dozoru technicznego oraz norm i przepisów prawnych w tym zakresie, organ właściwej jednostki dozoru technicznego cofa, w drodze decyzji, uprawnienia kwalifikacyjne wynikające z zaświadczenia kwalifikacyjnego wydanego osobom, o których mowa w ust. 2 i 3.
 
-5. Przepisu ust. 3 nie stosuje się do wojsk obcych w rozumieniu art. 2 pkt 1 ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2023 r. poz. 807) obsługujących i konserwujących urządzenia techniczne należące do tych wojsk lub za które wojska te są odpowiedzialne. zainteresowanych osób, sprawdza kwalifikacje, o których mowa w art. 22 ust. 2 i 3, w drodze postępowania kwalifikacyjnego.
+5. Przepisu ust. 3 nie stosuje się do wojsk obcych w rozumieniu art. 2 pkt 1 ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2023 r. poz. 807) obsługujących i konserwujących urządzenia techniczne należące do tych wojsk lub za które wojska te są odpowiedzialne.
+
+**Art. 23.**
+
+1. Organ właściwej jednostki dozoru technicznego, na wniosek zainteresowanych osób, sprawdza kwalifikacje, o których mowa w art. 22 ust. 2 i 3, w drodze postępowania kwalifikacyjnego.
 
 1a. Wniosek o sprawdzenie kwalifikacji osób, o których mowa w art. 22 ust. 2 i 3, zawiera następujące dane: imię i nazwisko osoby zainteresowanej sprawdzeniem kwalifikacji, jej adres do korespondencji, numer PESEL, a w przypadku braku numeru PESEL – rodzaj i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia i obywatelstwo.
 
@@ -298,7 +354,9 @@ Art. 66–68. (pominięte)
 
 2a. Przedłużenie okresu ważności zaświadczenia kwalifikacyjnego osób, o których mowa w art. 22 ust. 3, jest bezpłatne i następuje na wniosek.
 
-2b. Wniosek, o którym mowa w ust. 2a, zawiera dane osoby zainteresowanej przedłużeniem okresu ważności zaświadczenia kwalifikacyjnego wymienione w ust. 1a oraz numer i zakres zaświadczenia kwalifikacyjnego będącego przedmiotem tego wniosku. jest:
+2b. Wniosek, o którym mowa w ust. 2a, zawiera dane osoby zainteresowanej przedłużeniem okresu ważności zaświadczenia kwalifikacyjnego wymienione w ust. 1a oraz numer i zakres zaświadczenia kwalifikacyjnego będącego przedmiotem tego wniosku.
+
+2c. Warunkiem przedłużenia okresu ważności zaświadczenia kwalifikacyjnego jest:
 
 - **1)** złożenie wniosku, o którym mowa w ust. 2a, nie później niż w terminie 3 miesięcy przed dniem upływu okresu ważności tego zaświadczenia;
 - **2)** wykonywanie czynności w zakresie określonym w zaświadczeniu kwalifikacyjnym przez co najmniej 3 lata w okresie ostatnich 5 lat ważności zaświadczenia.
@@ -314,7 +372,8 @@ Art. 66–68. (pominięte)
 5. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
 
 - **1)** sposób i tryb sprawdzania kwalifikacji wymaganych przy obsłudze i konserwacji urządzeń technicznych, biorąc pod uwagę potrzebę zapewnienia możliwości właściwego sprawdzenia umiejętności teoretycznych i praktycznych osób przystępujących do sprawdzenia kwalifikacji,
-- **2)** sposób i tryb przedłużania okresu ważności zaświadczeń kwalifikacyjnych, jest posiadanie kwalifikacji,
+- **2)** sposób i tryb przedłużania okresu ważności zaświadczeń kwalifikacyjnych,
+- **3)** rodzaje urządzeń technicznych, przy których obsłudze i konserwacji wymagane jest posiadanie kwalifikacji,
 - **4)** okresy ważności zaświadczeń kwalifikacyjnych,
 - **5)** wzór wniosku o sprawdzenie kwalifikacji wymaganych przy obsłudze i konserwacji urządzeń technicznych,
 - **6)** wzór wniosku o przedłużenie okresu ważności zaświadczenia kwalifikacyjnego,
@@ -333,7 +392,9 @@ Art. 66–68. (pominięte)
 - **3)** poddania tego urządzenia badaniom technicznym, w tym okresowym badaniom technicznym z częstotliwością określoną w przepisach wydanych na podstawie ust. 6;
 - **4)** uzyskania potwierdzenia przez organ właściwej jednostki dozoru technicznego spełnienia wymagań dotyczących minimalnego poziomu odzyskiwania par paliwa określonych w przepisach wydanych na podstawie ust. 6 w wyniku przeprowadzonego badania technicznego.
 
-4. W przypadku naruszenia przez eksploatującego urządzenie do odzyskiwania par paliwa obowiązku, o którym mowa w ust. 3 pkt 1 lub 2, organ właściwej jednostki dozoru technicznego wydaje decyzję o wstrzymaniu eksploatacji tego urządzenia. następuje na podstawie protokołu z doraźnego badania technicznego przeprowadzonego przez organ właściwej jednostki dozoru technicznego potwierdzającego pozytywny wynik tego badania.
+4. W przypadku naruszenia przez eksploatującego urządzenie do odzyskiwania par paliwa obowiązku, o którym mowa w ust. 3 pkt 1 lub 2, organ właściwej jednostki dozoru technicznego wydaje decyzję o wstrzymaniu eksploatacji tego urządzenia.
+
+5. Ponowne dopuszczenie do eksploatacji urządzenia do odzyskiwania par paliwa następuje na podstawie protokołu z doraźnego badania technicznego przeprowadzonego przez organ właściwej jednostki dozoru technicznego potwierdzającego pozytywny wynik tego badania.
 
 6. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, warunki techniczne dozoru technicznego dla urządzeń do odzyskiwania par paliwa w toku ich eksploatacji, w tym rodzaj dokumentu potwierdzającego spełnienie przez te urządzenia wymagań dotyczących minimalnego poziomu odzyskiwania par paliwa, wymagania dotyczące minimalnego poziomu odzyskiwania par paliwa przez te urządzenia, metody przeprowadzania badań technicznych tych urządzeń oraz częstotliwość przeprowadzania okresowych badań technicznych, uwzględniając przepisy Unii Europejskiej i właściwe normy zharmonizowane określające wymagania dla urządzeń do odzyskiwania par paliwa.
 
@@ -345,11 +406,25 @@ Art. 66–68. (pominięte)
 
 **Art. 25.** Czynności dozoru technicznego inspektorzy wykonują u:
 
+- **1)** projektujących i wytwarzających urządzenia techniczne, a także wytwarzających materiały i elementy stosowane do ich wytwarzania, naprawy lub modernizacji oraz eksploatujących, naprawiających i modernizujących te urządzenia,
+- **2)** eksploatujących urządzenia do odzyskiwania par paliwa – zwanych dalej „przedsiębiorcami, u których są wykonywane czynności dozoru technicznego”.
+
 **Art. 26.** Przedsiębiorca, u którego są wykonywane czynności dozoru technicznego, jest obowiązany:
+
+- **1)** zapewnić warunki do bezpiecznego i sprawnego ich wykonania, w tym obecność konserwującego i obsługującego, jeżeli jest wymagana, oraz
+- **2)** przedstawić dokumenty i udzielić informacji koniecznych do prawidłowego wykonania tych czynności, na żądanie inspektora.
 
 **Art. 27.** Inspektor nie podlega przeszukaniu przewidzianemu w wewnętrznych regulaminach przedsiębiorcy, u którego wykonuje czynności dozoru technicznego.
 
 **Art. 28.** Inspektor jest uprawniony do:
+
+- **1)** wstępu za okazaniem upoważnienia i legitymacji służbowej, o których mowa w art. 24 ust. 1, bez potrzeby uzyskiwania przepustki, do pomieszczeń i obiektów, w których znajdują się urządzenia techniczne lub urządzenia do odzyskiwania par paliwa;
+- **2)** swobodnego poruszania się w tych pomieszczeniach i obiektach, chyba że odrębne przepisy stanowią inaczej;
+- **3)** dostępu do urządzeń technicznych lub urządzeń do odzyskiwania par paliwa;
+- **4)** żądania od przedsiębiorcy udzielania niezbędnych informacji i przedstawienia koniecznych dokumentów oraz wyników badań;
+- **5)** przeprowadzania w wyznaczonych terminach badań, prób i pomiarów oraz innych czynności potrzebnych do ustalenia stanu urządzenia technicznego, prawidłowości jego eksploatacji, naprawy lub modernizacji, a także prawidłowości wykonania określonych materiałów i elementów stosowanych do wytwarzania, naprawy lub modernizacji urządzenia technicznego;
+- **5a)** przeprowadzania okresowych i doraźnych badań technicznych urządzeń do odzyskiwania par paliwa w toku ich eksploatacji;
+- **6)** wydawania zaleceń technicznych.
 
 **Art. 29.** Czynności dozoru technicznego inspektorzy wykonują w obecności przedsiębiorcy lub osoby upoważnionej przez przedsiębiorcę.
 
@@ -357,9 +432,15 @@ Art. 66–68. (pominięte)
 
 **Art. 31.**
 
-1. Przedsiębiorca, u którego są wykonywane czynności dozoru technicznego, w celu sprawnego ich przeprowadzenia jest obowiązany zapewnić bezpieczne warunki pracy przez umożliwienie inspektorowi bezpiecznego dostępu do badanego urządzenia technicznego lub urządzenia do odzyskiwania par paliwa, w szczególności spowodowanie wstrzymania, w bezpośrednim otoczeniu badanego urządzenia, prac budowlanych, montażowych, remontowych i innych, mogących zagrażać bezpieczeństwu inspektora. obowiązany na polecenie inspektora do wykonania czynności przy urządzeniu technicznym lub urządzeniu do odzyskiwania par paliwa.
+1. Przedsiębiorca, u którego są wykonywane czynności dozoru technicznego, w celu sprawnego ich przeprowadzenia jest obowiązany zapewnić bezpieczne warunki pracy przez umożliwienie inspektorowi bezpiecznego dostępu do badanego urządzenia technicznego lub urządzenia do odzyskiwania par paliwa, w szczególności spowodowanie wstrzymania, w bezpośrednim otoczeniu badanego urządzenia, prac budowlanych, montażowych, remontowych i innych, mogących zagrażać bezpieczeństwu inspektora.
+
+2. Przedsiębiorca, u którego są wykonywane czynności dozoru technicznego, jest obowiązany na polecenie inspektora do wykonania czynności przy urządzeniu technicznym lub urządzeniu do odzyskiwania par paliwa.
 
 **Art. 32.** Inspektor ma prawo odmówić wykonania czynności dozoru technicznego w przypadku wystąpienia niewłaściwych warunków do ich przeprowadzenia, a w szczególności:
+
+- **1)** niedostatecznego stanu przygotowania urządzenia technicznego lub urządzenia do odzyskiwania par paliwa do badania;
+- **2)** niewłaściwego oświetlenia lub występowania oparów utrudniających widoczność;
+- **3)** przekroczenia dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy lub dopuszczalnej granicy niskich i wysokich temperatur.
 
 **Art. 33.**
 
@@ -380,7 +461,7 @@ Art. 66–68. (pominięte)
 - **1)** stawki jednostkowej wynoszącej 100 zł pomnożonej przez liczbę poddanych badaniu węży nalewczych znajdujących się przy odmierzaczach paliw płynnych;
 - **2)** kosztu podróży służbowej inspektora.
 
-3. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, uwzględniając w szczególności rodzaje technicznego, za które pobierane są opłaty.
+3. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, uwzględniając w szczególności rodzaje urządzeń technicznych oraz czynności wykonywane przez jednostki dozoru technicznego, za które pobierane są opłaty.
 
 #### Rozdział 3 Jednostki dozoru technicznego
 
@@ -395,6 +476,32 @@ Art. 66–68. (pominięte)
 **Art. 36.** UDT podlega ministrowi właściwemu do spraw gospodarki.
 
 **Art. 37.** Do zakresu działania UDT należy:
+
+- **1)** nadzór i kontrola przestrzegania przepisów o dozorze technicznym, a także przepisów i zasad z zakresu bezpieczeństwa techniki, dotyczących urządzeń technicznych;
+- **1a)** nadzór i kontrola przestrzegania przepisów o dozorze technicznym dotyczących urządzeń do odzyskiwania par paliwa;
+- **2)** wykonywanie dozoru technicznego nad urządzeniami technicznymi, w zakresie określonym ustawą;
+- **2a)** wykonywanie dozoru technicznego nad urządzeniami do odzyskiwania par paliwa, w zakresie określonym ustawą;
+- **3)** wydawanie decyzji w sprawach wynikających z wykonywania dozoru technicznego;
+- **4)** szkolenie pracowników dozoru technicznego;
+- **5)** prowadzenie ewidencji eksploatowanych urządzeń technicznych;
+- **6)** współpraca ze specjalistycznymi jednostkami dozoru technicznego w zakresie wykonywania dozoru technicznego;
+- **7)** inicjowanie działalności normalizacyjnej, współudział w opracowywaniu lub opracowywanie projektów warunków technicznych dozoru technicznego oraz norm określających zasady i warunki bezpiecznej pracy urządzeń technicznych;
+- **8)** analizowanie przyczyn i skutków uszkodzeń urządzeń technicznych oraz stała ocena stopnia zagrożenia stwarzanego przez te urządzenia;
+- **9)** inicjowanie przedsięwzięć oraz prac badawczych w zakresie bezpiecznej pracy urządzeń technicznych oraz prowadzenie w tym zakresie badań diagnostycznych i wykonywanie ekspertyz;
+- **10)** inicjowanie działalności mającej na celu podnoszenie zawodowych kwalifikacji wytwórców oraz użytkowników w zakresie bezpiecznej pracy urządzeń technicznych;
+- **11)** popularyzowanie zagadnień związanych z bezpieczną pracą urządzeń technicznych oraz organizowanie doradztwa w tym zakresie;
+- **12)** współpraca z organami państwowymi, właściwymi organami innych państw, instytucjami polskimi i zagranicznymi, w zakresie zagadnień dotyczących bezpiecznego funkcjonowania urządzeń technicznych;
+- **13)** współpraca z instytucjami polskimi i zagranicznymi w zakresie działań zmierzających do harmonizacji przepisów dozoru technicznego z wymaganiami Unii Europejskiej;
+- **14)** uzgadnianie programów szkolenia osób obsługujących i konserwujących urządzenia techniczne;
+- **15)** sprawdzanie kwalifikacji osób wytwarzających, naprawiających, modernizujących, obsługujących i konserwujących urządzenia techniczne oraz osób wykonujących badania nieniszczące;
+- **16)** certyfikowanie systemów jakości dotyczących urządzeń technicznych;
+- **17)** występowanie z wnioskami o zmianę wysokości opłat za czynności jednostek dozoru technicznego;
+- **18)** wykonywanie zadań określonych w przepisach ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597, 1681 i 1762 oraz z 2024 r. poz. 834);
+- **19)** kontrola spełniania obowiązków, o których mowa w art. 23r ust. 3 i 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i
+- **859)** ;
+- **20)** wydawanie opinii, o których mowa w art. 15 ust. 1, art. 26 ust. 1 i art. 29b ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2023 r. poz. 875, 1394, 1506 i 1681 oraz z 2024 r. poz. 834 i 1006), przeprowadzanie badań, o których mowa w art. 16, art. 27 i art. 29c tej ustawy, oraz przeprowadzanie kontroli, o której mowa w art. 29f ust. 1 i 2 tej ustawy, z wyłączeniem wydawania opinii, przeprowadzania badań i przeprowadzania kontroli, których przedmiotem są stacje gazu ziemnego i stacje wodoru, zainstalowane na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej;
+- **21)** wykonywanie czynności związanych z certyfikacją i prowadzeniem rejestru przedsiębiorców uprawnionych do wykonywania czynności i przeglądów serwisowych elementów technicznych elektrowni wiatrowych oraz innych obowiązków, o których mowa w rozdziale 2a ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2024 r. poz. 317);
+- **22)** wykonywanie zadań określonych w przepisach ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2026 r. poz. 20 i 252), w szczególności w zakresie zadań powierzonych przez organ właściwy do spraw cyberbezpieczeństwa w ramach zadań CSIRT sektorowego.
 
 **Art. 37a.**
 
@@ -416,7 +523,9 @@ Art. 66–68. (pominięte)
 
 6. UDT kontroluje wykorzystanie wsparcia zgodnie z celem, na jaki zostało ono udzielone, w formie sprawozdań.
 
-7. Podmiot, który otrzymał wsparcie finansowe, jest obowiązany do rozliczenia udzielanego wsparcia. Wsparcie wykorzystane w części lub w całości niezgodnie z przeznaczeniem albo pobrane w nadmiernej wysokości podlega zwrotowi do UDT. umowy. Umowa określa w szczególności:
+7. Podmiot, który otrzymał wsparcie finansowe, jest obowiązany do rozliczenia udzielanego wsparcia. Wsparcie wykorzystane w części lub w całości niezgodnie z przeznaczeniem albo pobrane w nadmiernej wysokości podlega zwrotowi do UDT.
+
+8. Szczegółowe warunki udzielenia wsparcia są określane każdorazowo w drodze umowy. Umowa określa w szczególności:
 
 - **1)** szczegółowe przeznaczenie i cel wsparcia;
 - **2)** formę wsparcia;
@@ -448,7 +557,9 @@ Art. 66–68. (pominięte)
 - **4)** zakres zadań wykonywanych na stanowisku;
 - **5)** wskazanie wymaganych dokumentów;
 - **6)** termin i miejsce składania dokumentów;
-- **7)** informację o metodach i technikach naboru. dnia opublikowania ogłoszenia w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+- **7)** informację o metodach i technikach naboru.
+
+1c. Termin, o którym mowa w ust. 1b pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
 
 1d. Nabór na stanowisko Prezesa przeprowadza zespół, powołany przez ministra właściwego do spraw gospodarki, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
 
@@ -471,7 +582,9 @@ Art. 66–68. (pominięte)
 
 - **1)** nazwę i adres urzędu;
 - **2)** określenie stanowiska, na które był prowadzony nabór;
-- **3)** imiona, nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata. Ministrów ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
+- **3)** imiona, nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata.
+
+1j. Umieszczenie w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
 
 2. Prezes kieruje UDT i reprezentuje go na zewnątrz.
 
@@ -502,7 +615,9 @@ Art. 66–68. (pominięte)
 
 **Art. 40a.**
 
-1. UDT udostępnia organom administracji publicznej, na ich wniosek, informacje z prowadzonej ewidencji eksploatowanych urządzeń technicznych w zakresie dotyczącym urządzenia technicznego oraz wydanych decyzji, o których mowa w art. 14 ust. 1 i 6 oraz art. 18 ust. 1. od daty wpływu wniosku do UDT.
+1. UDT udostępnia organom administracji publicznej, na ich wniosek, informacje z prowadzonej ewidencji eksploatowanych urządzeń technicznych w zakresie dotyczącym urządzenia technicznego oraz wydanych decyzji, o których mowa w art. 14 ust. 1 i 6 oraz art. 18 ust. 1.
+
+2. Informacje, o których mowa w ust. 1, są przekazywane w terminie 30 dni od daty wpływu wniosku do UDT.
 
 **Art. 41.**
 
@@ -529,7 +644,7 @@ Art. 66–68. (pominięte)
     - **b)** osobowymi i towarowymi kolejami linowymi oraz wyciągami narciarskimi,
     - **c)** zbiornikami, w tym cysternami wykorzystywanymi w ruchu kolejowym, drogowym i żegludze śródlądowej,
     - **d)** urządzeniami technicznymi: – znajdującymi się na statkach morskich i żeglugi śródlądowej, – znajdującymi się na pontonach, – znajdującymi się w dokach, – znajdującymi się na terenie portów i przystani morskich oraz żeglugi śródlądowej, – związanymi z żeglugą morską i śródlądową, w szczególności urządzeniami ciśnieniowymi, bezciśnieniowymi zbiornikami (cysternami) i dźwignicami,
-    - **e)** urządzeniami technicznymi w ciągach technologicznych portowych baz przeładunkowych oraz urządzeniami technicznymi stanowiącymi wyposażenie innych stanowisk usytuowanych na terenie przeznaczonym do żeglugi morskiej,
+    - **e)** urządzeniami technicznymi w ciągach technologicznych portowych baz przeładunkowych oraz urządzeniami technicznymi stanowiącymi wyposażenie innych stanowisk usytuowanych na terenie przeznaczonym do prac przeładunkowych i innych czynności wchodzących w zakres obsługi żeglugi morskiej,
     - **f)** urządzeniami do odzyskiwania par paliwa zainstalowanymi na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej,
     - **g)** urządzeniami do przewozu osób lub rzeczy poruszającymi się po jednej szynie lub na poduszkach powietrznych lub magnetycznych oraz związanymi z tym przewozem urządzeniami technicznymi, innymi niż używane w transporcie kolejowym i transporcie linowo-terenowym;
 
@@ -542,7 +657,7 @@ Art. 66–68. (pominięte)
 - **7)** wykonywanie zadań określonych w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. );
 - **8)** kontrola spełniania obowiązków, o których mowa w art. 23r ust. 3 i 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
 - **9)** przeprowadzanie badań, o których mowa w art. 18 ust. 1 i art. 28 ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, oraz badań, o których mowa w art. 27 ust. 1 i art. 29c tej ustawy, których przedmiotem są stacje gazu ziemnego i stacje wodoru, zainstalowane na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej;
-- **10)** wydawanie opinii, o których mowa w art. 18a ust. 1 i art. 28a ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, oraz opinii, o których mowa w art. 26 ust. 1 i art. 29b ust. 1 tej ustawy, których przedmiotem kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej;
+- **10)** wydawanie opinii, o których mowa w art. 18a ust. 1 i art. 28a ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, oraz opinii, o których mowa w art. 26 ust. 1 i art. 29b ust. 1 tej ustawy, których przedmiotem są stacje gazu ziemnego i stacje wodoru, zainstalowane na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej;
 - **10a)** przeprowadzanie kontroli, o której mowa w art. 29f ust. 3 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, której przedmiotem są stacje gazu ziemnego i stacje wodoru, zainstalowane na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej;
 - **11)** inicjowanie działalności mającej na celu zwiększanie bezpieczeństwa publicznego w transporcie;
 - **12)** współpraca z jednostkami dozoru technicznego w zakresie wykonywania dozoru technicznego;
@@ -559,7 +674,9 @@ Art. 66–68. (pominięte)
 
 2. Dyrektor kieruje TDT i reprezentuje go na zewnątrz.
 
-3. Dyrektor TDT sporządza roczne sprawozdanie z działalności TDT i przedstawia je ministrowi właściwemu do spraw transportu w terminie do dnia 31 maja każdego roku, w celu jego zatwierdzenia. minister właściwy do spraw transportu.
+3. Dyrektor TDT sporządza roczne sprawozdanie z działalności TDT i przedstawia je ministrowi właściwemu do spraw transportu w terminie do dnia 31 maja każdego roku, w celu jego zatwierdzenia.
+
+4. Zastępców Dyrektora TDT powołuje i odwołuje, na wniosek Dyrektora TDT, minister właściwy do spraw transportu.
 
 **Art. 46.**
 
@@ -592,7 +709,9 @@ Art. 66–68. (pominięte)
 
 - **2)** wydawanie decyzji w sprawach wynikających z wykonywania dozoru technicznego nad urządzeniami, o których mowa w pkt 1;
 - **3)** współpraca z innymi instytucjami w zakresie zagadnień dotyczących bezpiecznej pracy urządzeń, o których mowa w pkt 1;
-- **4)** wydawanie świadectw dopuszczenia pojazdów do przewozu niektórych materiałów niebezpiecznych, na podstawie odrębnych przepisów. urządzenia techniczne inne niż określone w przepisach wydanych na podstawie art. 5 ust. 2 i 3, które będą podlegały dozorowi technicznemu WDT, jeżeli urządzenia takie występują wyłącznie w jednostkach określonych w ust. 1 pkt 1.
+- **4)** wydawanie świadectw dopuszczenia pojazdów do przewozu niektórych materiałów niebezpiecznych, na podstawie odrębnych przepisów.
+
+2. Minister Obrony Narodowej może określić, w drodze rozporządzenia, urządzenia techniczne inne niż określone w przepisach wydanych na podstawie art. 5 ust. 2 i 3, które będą podlegały dozorowi technicznemu WDT, jeżeli urządzenia takie występują wyłącznie w jednostkach określonych w ust. 1 pkt 1.
 
 **Art. 51.**
 
@@ -619,7 +738,7 @@ Art. 66–68. (pominięte)
 
 2. Właściwi ministrowie, którym podlegają specjalistyczne organy dozoru technicznego, ustalają, w drodze rozporządzenia, dla urządzeń technicznych o szczególnej konstrukcji, sposobie eksploatacji lub przeznaczeniu, objętych dozorem technicznym tych organów, warunki techniczne dozoru technicznego w zakresie określonym w art. 8 ust. 4 oraz rodzaje specjalistycznych urządzeń, przy których obsłudze i konserwacji wymagane jest posiadanie szczególnych kwalifikacji.
 
-3. Właściwi ministrowie, wydając rozporządzenie, o którym mowa w ust. 2, uwzględnią w szczególności wymagania dotyczące konstrukcji, obliczeń wytrzymałościowych, wykonania, osprzętu, oznaczeń, materiałów i elementów, naprawy lub modernizacji, zakresu badań technicznych urządzeń i elementów, i potwierdzenia prawidłowości wykonania, spawania, zgrzewania, lutowania, przeróbki plastycznej i obróbki cieplnej, badań nieniszczących oraz obsługi i konserwacji.
+3. Właściwi ministrowie, wydając rozporządzenie, o którym mowa w ust. 2, uwzględnią w szczególności wymagania dotyczące konstrukcji, obliczeń wytrzymałościowych, wykonania, osprzętu, oznaczeń, materiałów i elementów, naprawy lub modernizacji, zakresu badań technicznych urządzeń i elementów, terminów badań okresowych, rodzaju dokumentacji niezbędnej do objęcia dozorem i potwierdzenia prawidłowości wykonania, spawania, zgrzewania, lutowania, przeróbki plastycznej i obróbki cieplnej, badań nieniszczących oraz obsługi i konserwacji.
 
 #### Rozdział 4 Gospodarka finansowa jednostek dozoru technicznego
 
@@ -643,7 +762,7 @@ Art. 66–68. (pominięte)
 - **1)** należności nie odzyskano w wyniku przeprowadzonego postępowania likwidacyjnego albo upadłościowego;
 - **2)** zachodzi uzasadnione przypuszczenie, które zostało udokumentowane, że w postępowaniu egzekucyjnym nie uzyska się kwoty wyższej od kosztów dochodzenia i egzekucji należności, lub postępowanie egzekucyjne okazało się nieskuteczne;
 - **3)** łączna kwota należności od jednego podmiotu nie przekracza 100 zł;
-- **4)** nie można ustalić miejsca zamieszkania lub pobytu dłużnika będącego osobą fizyczną, albo dłużnik zmarł, nie pozostawiając żadnego majątku, lub pozostawił ruchomości niepodlegające egzekucji na podstawie odrębnych przepisów, albo pozostawił przedmioty codziennego użytku domowego, których łączna wartość nie przekracza kwoty stanowiącej trzykrotność przeciętnego miesięcznego wynagrodzenia w roku poprzedzającym umorzenie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej świadczeń socjalnych;
+- **4)** nie można ustalić miejsca zamieszkania lub pobytu dłużnika będącego osobą fizyczną, albo dłużnik zmarł, nie pozostawiając żadnego majątku, lub pozostawił ruchomości niepodlegające egzekucji na podstawie odrębnych przepisów, albo pozostawił przedmioty codziennego użytku domowego, których łączna wartość nie przekracza kwoty stanowiącej trzykrotność przeciętnego miesięcznego wynagrodzenia w roku poprzedzającym umorzenie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” dla celów naliczania odpisu na zakładowy fundusz świadczeń socjalnych;
 - **5)** egzekucja należności zagraża ważnym interesom dłużnika, w tym jego egzystencji, lub zachodzi ważny interes publiczny;
 - **6)** dłużnik będący osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej został wykreślony z właściwego rejestru, przy jednoczesnym braku majątku, z którego można by egzekwować należności UDT.
 
@@ -665,7 +784,10 @@ Art. 66–68. (pominięte)
 - **2)** kwotę należności, z wyodrębnieniem odsetek;
 - **3)** podanie przyczyny ubiegania się o umorzenie całości lub części zadłużenia, odroczenia lub rozłożenia na raty jego spłaty;
 - **4)** informację o aktualnej sytuacji majątkowej dłużnika;
-- **5)** informację, czy wnioskodawcy już umarzano należność UDT, odraczano lub rozkładano na raty jej spłatę. należności, powinien zawierać także:
+- **5)** informację, czy wnioskodawcy już umarzano należność UDT, odraczano lub rozkładano na raty jej spłatę.
+
+2. Wniosek o odroczenie, rozłożenie na raty spłaty lub częściowe umorzenie należności, powinien zawierać także:
+
 - **1)** proponowane terminy i kwoty spłaty zadłużenia;
 - **2)** wskazanie źródeł pokrycia spłat zadłużenia w terminach, o których mowa w pkt
 
@@ -698,7 +820,9 @@ Art. 66–68. (pominięte)
 - **5)** warunki spłaty pozostałej części należności – w przypadku umorzenia ich w części;
 - **6)** warunki i terminy spłaty należności – w przypadku odroczenia lub rozłożenia spłaty na raty.
 
-3. W sprawach nieuregulowanych w umowie, o której mowa w ust. 1, mają zastosowanie przepisy prawa cywilnego. należności następuje w formie jednostronnego oświadczenia woli.
+3. W sprawach nieuregulowanych w umowie, o której mowa w ust. 1, mają zastosowanie przepisy prawa cywilnego.
+
+4. W przypadkach, o których mowa w art. 55a ust. 1 pkt 1–4 i 6, umorzenie należności następuje w formie jednostronnego oświadczenia woli.
 
 5. Przepisy ust. 1–4 oraz art. 55a i art. 55b stosuje się odpowiednio do umarzania, odraczania lub rozkładania na raty spłaty odsetek od tych należności oraz do umarzania, odraczania lub rozkładania na raty spłat innych należności ubocznych.
 
@@ -723,6 +847,8 @@ Art. 66–68. (pominięte)
 
 2. (uchylony)
 
+**Art. 57.** UDT finansuje inwestycje ze środków własnych.
+
 **Art. 58.**
 
 1. Roczne sprawozdanie finansowe UDT zatwierdza minister właściwy do spraw gospodarki.
@@ -745,6 +871,9 @@ Art. 66–68. (pominięte)
 
 **Art. 60.** Zysk netto UDT przeznacza się na:
 
+- **1)** fundusz rezerwowy – 70 %;
+- **2)** wpłatę do budżetu – 30 %.
+
 **Art. 60a.**
 
 1. Roczne sprawozdanie finansowe UDT podlega badaniu przez firmę audytorską.
@@ -763,7 +892,9 @@ Art. 66–68. (pominięte)
 
 5. Dyrektor TDT przedstawia ministrowi właściwemu do spraw transportu sprawozdanie, o którym mowa w ust. 4, wraz ze sprawozdaniem z badania, w terminie do dnia 31 maja każdego roku.
 
-6. Minister właściwy do spraw transportu dokonuje wyboru firmy audytorskiej. jest Minister Obrony Narodowej.
+6. Minister właściwy do spraw transportu dokonuje wyboru firmy audytorskiej.
+
+**Art. 62.** WDT jest finansowany z budżetu państwa z części, której dysponentem jest Minister Obrony Narodowej.
 
 #### Rozdział 5 Przepisy karne
 
@@ -781,6 +912,9 @@ Art. 66–68. (pominięte)
 
 **Art. 64.** Kto:
 
+- **1)** uniemożliwia lub utrudnia wykonywanie czynności, o których mowa w art. 14 ust. 2,
+- **2)** nie wykonuje obowiązku zawiadomienia organu właściwej jednostki dozoru technicznego o niebezpiecznym uszkodzeniu urządzenia technicznego lub nieszczęśliwym wypadku związanym z eksploatacją urządzenia technicznego, podlega karze grzywny.
+
 **Art. 65.** Postępowanie w sprawach określonych w art. 64 następuje w trybie określonym w przepisach Kodeksu postępowania w sprawach o wykroczenia.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
@@ -789,7 +923,7 @@ Art. 66–68. (pominięte)
 
 **Art. 68a.**
 
-1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii albo w przypadku niebezpieczeństwa szerzenia się zakażenia lub choroby jednostki dozoru technicznego może w latach 2020–2021, na wniosek eksploatującego, odroczyć termin wykonania badań technicznych i zezwolić na eksploatację urządzenia technicznego na okres nie dłuższy niż 6 miesięcy pod warunkiem, że eksploatujący złoży oświadczenie, że od dnia przeprowadzenia ostatniego badania urządzenia technicznego nie wprowadzono zmian dotyczących eksploatacji urządzenia technicznego oraz, że jego dalsza eksploatacja, w ocenie eksploatującego, nie stwarza zagrożenia dla życia lub zdrowia ludzkiego oraz mienia i środowiska.
+1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii albo w przypadku niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego organ właściwej jednostki dozoru technicznego może w latach 2020–2021, na wniosek eksploatującego, odroczyć termin wykonania badań technicznych i zezwolić na eksploatację urządzenia technicznego na okres nie dłuższy niż 6 miesięcy pod warunkiem, że eksploatujący złoży oświadczenie, że od dnia przeprowadzenia ostatniego badania urządzenia technicznego nie wprowadzono zmian dotyczących eksploatacji urządzenia technicznego oraz, że jego dalsza eksploatacja, w ocenie eksploatującego, nie stwarza zagrożenia dla życia lub zdrowia ludzkiego oraz mienia i środowiska.
 
 2. Wniosek oraz oświadczenie, o których mowa w ust. 1, mogą zostać złożone pisemnie lub za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344). Organ właściwej jednostki dozoru technicznego, do którego wpłynął wniosek oraz oświadczenie, może dokonywać wezwań do uzupełnienia braków wniosku lub oświadczenia pisemnie, za pomocą środków komunikacji elektronicznej, telefonicznie lub w inny sposób; sposób wezwania należy udokumentować, dołączając do akt sprawy notatkę służbową lub potwierdzenie transmisji danych.
 
@@ -805,7 +939,7 @@ Art. 66–68. (pominięte)
 
 3. Termin 30 dni roboczych na wyznaczenie terminu egzaminu może być przedłużony w przypadku, gdy liczba składanych oraz rozpatrywanych wniosków to uzasadnia.
 
-4. Część teoretyczną egzaminu przeprowadza się w formie ustalonej z właściwą jednostką dozoru technicznego, ze szczególnym uwzględnieniem formy zdalnej, i z zachowaniem należytych środków ostrożności oraz pod warunkiem zachowania możliwości identyfikacji osoby, której kwalifikacje się sprawdza, i zabezpieczenia przebiegu egzaminu przed ingerencją osób trzecich.
+4. Część teoretyczną egzaminu przeprowadza się w formie ustalonej z właściwą jednostką dozoru technicznego, ze szczególnym uwzględnieniem formy zdalnej, w sposób zapobiegający szerzeniu się zakażenia wirusem SARS-CoV-2 i z zachowaniem należytych środków ostrożności oraz pod warunkiem zachowania możliwości identyfikacji osoby, której kwalifikacje się sprawdza, i zabezpieczenia przebiegu egzaminu przed ingerencją osób trzecich.
 
 5. Część praktyczną egzaminu przeprowadza się w sposób zapobiegający szerzeniu się zakażenia wirusem SARS-CoV-2 i z zachowaniem należytych środków ostrożności.
 
@@ -833,7 +967,9 @@ Art. 66–68. (pominięte)
 
 1. Do dnia powołania Prezesa UDT, o którym mowa w art. 38 ust. 1, jego funkcje sprawuje Prezes Urzędu Dozoru Technicznego powołany w trybie ustawy, o której mowa w art. 69 ust. 1.
 
-2. Z dniem powołania Prezesa UDT, o którym mowa w art. 38 ust. 1, wygasa akt powołania Prezesa Urzędu Dozoru Technicznego. Dozoru Technicznego działającym na podstawie ustawy, o której mowa w art. 69 ust. 1, staje się, na zasadach określonych w art. 23 Kodeksu pracy, UDT.
+2. Z dniem powołania Prezesa UDT, o którym mowa w art. 38 ust. 1, wygasa akt powołania Prezesa Urzędu Dozoru Technicznego.
+
+**Art. 72.** Stroną stosunków pracy pracowników zatrudnionych w Urzędzie Dozoru Technicznego działającym na podstawie ustawy, o której mowa w art. 69 ust. 1, staje się, na zasadach określonych w art. 23 Kodeksu pracy, UDT.
 
 **Art. 73.**
 
@@ -863,5 +999,7 @@ Art. 66–68. (pominięte)
 
 **Art. 77.** Ilekroć w obowiązujących przepisach jest mowa o Urzędzie Dozoru Technicznego, należy przez to rozumieć UDT utworzony niniejszą ustawą.
 
-**Art. 78.** Traci moc ustawa z dnia 19 listopada 1987 r. o dozorze technicznym (Dz. U. poz. 202, z późn. zm. ). ust. 2 i art. 73 ust. 2, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 78.** Traci moc ustawa z dnia 19 listopada 1987 r. o dozorze technicznym (Dz. U. poz. 202, z późn. zm. ).
+
+**Art. 79.** Ustawa wchodzi w życie z dniem 1 stycznia 2001 r., z wyjątkiem art. 69 ust. 2 i art. 73 ust. 2, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia .
 

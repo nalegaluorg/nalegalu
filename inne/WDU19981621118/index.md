@@ -8,7 +8,7 @@ pos: 1118
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych
@@ -24,12 +24,12 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1998-12-17 |
 | Data wydania | 1998-12-30 |
-| Ostatnia zmiana | 2026-05-11 |
+| Ostatnia zmiana | 2026-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981621118) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/1118/text.pdf) |
 
 3) zwolnienia od pracy oraz zwolnienia od wykonywania obowiązków służbowych na podstawie ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U.
 z 2024 r. poz. 1782) – bezpośrednio poprzedzone pracą górniczą wykonywaną pod ziemią stale i w pełnym wymiarze czasu pracy, przypadające w czasie trwania stosunku pracy.
-pracownik nie przystąpił do otwartego funduszu emerytalnego albo złożył wniosek o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym, za pośrednictwem Zakładu, na dochody budżetu państwa.
+3. Prawo do emerytury, o której mowa w ust. 1, przysługuje pod warunkiem, że pracownik nie przystąpił do otwartego funduszu emerytalnego albo złożył wniosek o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym, za pośrednictwem Zakładu, na dochody budżetu państwa.
 Art. 145–172. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
@@ -55,11 +55,35 @@ Art. 145–172. (pominięte)
 1. Świadczenia na warunkach i w wysokości określonych w ustawie przysługują:
 
 - **1)** ubezpieczonym – w przypadku spełnienia warunków do nabycia prawa do świadczeń pieniężnych z ubezpieczeń emerytalnego i rentowych Funduszu Ubezpieczeń Społecznych;
-- **2)** członkom rodziny pozostałym po ubezpieczonym albo po osobie uprawnionej do świadczeń pieniężnych z ubezpieczeń emerytalnego i rentowych Funduszu Ubezpieczeń Społecznych. również żołnierzom zawodowym oraz funkcjonariuszom Policji, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celnej, Służby Celno-Skarbowej i Służby Więziennej, jeżeli nie spełniają oni warunków do nabycia prawa lub utracili prawo do świadczeń określonych w przepisach o zaopatrzeniu emerytalnym tych osób, oraz członkom rodzin pozostałym po tych osobach.
+- **2)** członkom rodziny pozostałym po ubezpieczonym albo po osobie uprawnionej do świadczeń pieniężnych z ubezpieczeń emerytalnego i rentowych Funduszu Ubezpieczeń Społecznych.
+
+2. Świadczenia na warunkach i w wysokości określonych w ustawie przysługują również żołnierzom zawodowym oraz funkcjonariuszom Policji, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celnej, Służby Celno-Skarbowej i Służby Więziennej, jeżeli nie spełniają oni warunków do nabycia prawa lub utracili prawo do świadczeń określonych w przepisach o zaopatrzeniu emerytalnym tych osób, oraz członkom rodzin pozostałym po tych osobach.
 
 **Art. 3.** Świadczenia określone w ustawie obejmują:
 
+- **1)** emeryturę;
+- **2)** rentę z tytułu niezdolności do pracy, w tym rentę szkoleniową;
+- **3)** rentę rodzinną;
+- **4)** dodatek pielęgnacyjny;
+- **5)** dodatek do renty rodzinnej dla sieroty zupełnej;
+- **6)** zasiłek pogrzebowy.
+
 **Art. 4.** Użyte w ustawie określenia oznaczają:
+
+- **1)** emeryt – osobę mającą ustalone prawo do emerytury;
+- **2)** (uchylony) 2a) okresowa emerytura kapitałowa – emeryturę, o której mowa w ustawie z dnia 21 listopada 2008 r. o emeryturach kapitałowych;
+- **3)** Fundusz – Fundusz Ubezpieczeń Społecznych, o którym mowa w przepisach o systemie ubezpieczeń społecznych;
+- **4)** konto ubezpieczonego – konto ubezpieczonego, na którym ewidencjonuje się informacje o zwaloryzowanej wysokości składek na ubezpieczenie emerytalne, z wyłączeniem składek podlegających odprowadzeniu do otwartego funduszu emerytalnego i zewidencjonowaniu na subkoncie, o którym mowa w art. 40a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ), prowadzone przez Zakład Ubezpieczeń Społecznych, zwany dalej „Zakładem”;
+- **4a)** kwota rocznej podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe – roczną podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe w danym roku kalendarzowym, określoną w art. 19 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;
+- **5)** okres ubezpieczenia – okres opłacania składek na ubezpieczenia emerytalne i rentowe oraz okres nieopłacania składek z powodu przekroczenia w trakcie roku kalendarzowego kwoty rocznej podstawy wymiaru składek, o którym mowa w przepisach o systemie ubezpieczeń społecznych;
+- **6)** organ rentowy – jednostkę organizacyjną Zakładu, określoną w przepisach o systemie ubezpieczeń społecznych, właś-ciwą do wydawania decyzji w sprawach świadczeń;
+- **7)** otwarty fundusz emerytalny – fundusz wybrany przez ubezpieczonego spośród funduszy emerytalnych, o których mowa w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych;
+- **8)** płatnik składek – płatnika składek, o którym mowa w przepisach o systemie ubezpieczeń społecznych;
+- **9)** przeciętne wynagrodzenie – przeciętne wynagrodzenie miesięczne brutto w gospodarce narodowej, ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego;
+- **10)** renta – rentę z tytułu niezdolności do pracy i rentę rodzinną;
+- **11)** rencista – osobę mającą ustalone prawo do renty z tytułu niezdolności do pracy lub do renty rodzinnej;
+- **12)** ubezpieczenia emerytalne i rentowe – ubezpieczenia, o których mowa w przepisach o systemie ubezpieczeń społecznych;
+- **13)** ubezpieczony – osobę podlegającą ubezpieczeniom emerytalnemu i rentowym, określonym w przepisach o systemie ubezpieczeń społecznych, a także osobę, która przed dniem wejścia w życie ustawy podlegała ubezpieczeniu społecznemu lub zaopatrzeniu emerytalnemu, z wyłączeniem ubezpieczenia społecznego rolników.
 
 #### Rozdział 2 Okresy uwzględniane przy ustalaniu prawa do świadczeń i ich wysokości
 
@@ -68,7 +92,9 @@ Art. 145–172. (pominięte)
 1. Przy ustalaniu prawa do emerytury i renty i obliczaniu ich wysokości uwzględnia się, z zastrzeżeniem ust. 2–5, następujące okresy:
 
 - **1)** składkowe, o których mowa w art. 6;
-- **2)** nieskładkowe, o których mowa w art. 7. okresy nieskładkowe uwzględnia się w wymiarze nieprzekraczającym jednej trzeciej udowodnionych okresów składkowych.
+- **2)** nieskładkowe, o których mowa w art. 7.
+
+2. Przy ustalaniu prawa do emerytury i renty oraz obliczaniu ich wysokości okresy nieskładkowe uwzględnia się w wymiarze nieprzekraczającym jednej trzeciej udowodnionych okresów składkowych.
 
 2a. Okresów, o których mowa w art. 6 ust. 1 pkt 4 i 6, nie uwzględnia się przy ustalaniu prawa do emerytury i renty oraz obliczaniu ich wysokości, jeżeli z ich tytułu ustalono prawo do świadczeń pieniężnych określonych w przepisach o zaopatrzeniu emerytalnym osób, o których mowa w art. 2 ust. 2.
 
@@ -92,7 +118,7 @@ Art. 145–172. (pominięte)
 
 2. Okresy niepełnych miesięcy oblicza się w dniach. Sumę dni zamienia się na miesiące, przyjmując za miesiąc 30 dni kalendarzowych, a sumę miesięcy zamienia się na lata, przyjmując pełne 12 miesięcy za jeden rok.
 
-3. Jeżeli w zaświadczeniu stwierdzającym okresy zatrudnienia są podane dniówki robocze, a nie okresy zatrudnienia, sumę dni zamienia się na miesiące, 25 dni roboczych.
+3. Jeżeli w zaświadczeniu stwierdzającym okresy zatrudnienia są podane dniówki robocze, a nie okresy zatrudnienia, sumę dni zamienia się na miesiące, przyjmując za miesiąc 22 dni robocze, a za okresy przed dniem 1 stycznia 1981 r. – 25 dni roboczych.
 
 **Art. 6.**
 
@@ -114,6 +140,7 @@ Art. 145–172. (pominięte)
     - **e)** w Państwowej Straży Pożarnej,
     - **f)** w Służbie Celnej,
     - **g)** w Biurze Ochrony Rządu,
+    - **h)** w Służbie Celno-Skarbowej,
     - **i)** w Służbie Ochrony Państwa;
 
 - **7)** pobierania zasiłku macierzyńskiego;
@@ -126,7 +153,8 @@ Art. 145–172. (pominięte)
 - **1)** zatrudnienia po ukończeniu 15 lat życia:
     - **a)** na obszarze Państwa Polskiego – w wymiarze nie niższym niż połowa pełnego wymiaru czasu pracy, jeżeli w tych okresach pracownik pobierał wynagrodzenie lub zasiłki z ubezpieczenia społecznego: chorobowy, macierzyński lub opiekuńczy albo rentę chorobową,
     - **b)** obywateli polskich za granicą – w polskich przedstawicielstwach dyplomatycznych i urzędach konsularnych, w stałych przedstawicielstwach przy Organizacji Narodów Zjednoczonych i w innych misjach lub misjach spec-jalnych, a także w innych polskich placówkach, instytucjach lub przedsiębiorstwach, do których zostali delegowani lub skierowani; dotyczy to również członków rodziny delegowanego lub skierowanego tam pracownika, którzy podjęli zatrudnienie w tych placówkach w czasie pobytu za granicą,
-    - **c)** obywateli polskich za granicą – w organizacjach międzynarodowych, zagranicznych instytucjach i w zakładach, do których zostali skierowani w ramach współpracy międzynarodowej lub w których byli zatrudnieni za zgodą właściwych władz polskich; zgoda nie jest wymagana w stosunku do pracowników, którzy wyjechali za granicę przed dniem 9 maja 1945 r., jeżeli w okresie pracy za granicą były opłacane składki na ubezpieczenie społeczne w Polsce;
+    - **c)** obywateli polskich za granicą – w organizacjach międzynarodowych, zagranicznych instytucjach i w zakładach, do których zostali skierowani w ramach współpracy międzynarodowej lub w których byli zatrudnieni za zgodą właściwych władz polskich; zgoda nie jest wymagana w stosunku do pracowników, którzy wyjechali za granicę przed dniem 9 maja 1945 r.,
+    - **d)** obywateli polskich za granicą – u innych pracodawców zagranicznych, jeżeli w okresie pracy za granicą były opłacane składki na ubezpieczenie społeczne w Polsce;
 
 - **2)** pracy przymusowej:
     - **a)** wykonywanej na rzecz hitlerowskich Niemiec w okresie II wojny światowej,
@@ -141,7 +169,8 @@ Art. 145–172. (pominięte)
 - **6a)** niewykonywania pracy przed dniem 31 lipca 1990 r. na skutek represji politycznych;
 - **6b)** pozbawienia możliwości wykonywania swojego zawodu przed dniem 31 lipca 1990 r. na skutek represji politycznych za działania na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania politycznych praw człowieka w Polsce;
 - **7)** sprawowania mandatu posła lub senatora w Państwie Polskim;
-- **8)** internowania na podstawie art. 42 dekretu z dnia 12 grudnia 1981 r. o stanie wojennym (Dz. U. poz. 154, z 1982 r. poz. 18 oraz z 1989 r. poz. 178); Polskiego:
+- **8)** internowania na podstawie art. 42 dekretu z dnia 12 grudnia 1981 r. o stanie wojennym (Dz. U. poz. 154, z 1982 r. poz. 18 oraz z 1989 r. poz. 178);
+- **9)** wykonywania działalności twórczej lub artystycznej na obszarze Państwa Polskiego:
     - **a)** objętej obowiązkiem ubezpieczenia społecznego, za które opłacono składkę na ubezpieczenie społeczne lub w których ubezpieczony był zwolniony od opłacania składki,
     - **b)** przypadającej przed dniem 1 stycznia 1974 r., uznane przez Komisję do Spraw Zaopatrzenia Emerytalnego Twórców, działającą przy ministrze właściwym do spraw kultury, pod warunkiem że twórca lub artysta opłacał składki na ubezpieczenie społeczne po dniu 31 grudnia 1973 r.;
 
@@ -157,7 +186,8 @@ Art. 145–172. (pominięte)
     - **a)** objętej obowiązkiem ubezpieczenia społecznego, za które opłacono składkę na to ubezpieczenie lub w których występowało zwolnienie od opłacania składki,
     - **b)** przed dniem objęcia obowiązkiem ubezpieczenia społecznego z tego tytułu;
 
-- **13)** pracy na obszarze Państwa Polskiego wykonywanej na rzecz jednostek gospodarki uspołecznionej na podstawie umowy agencyjnej lub umowy zlecenia oraz współpracy przy wykonywaniu takiej umowy: tego ubezpieczenia, za które opłacono składkę na to ubezpieczenie lub w których występowało zwolnienie od opłacania składki,
+- **13)** pracy na obszarze Państwa Polskiego wykonywanej na rzecz jednostek gospodarki uspołecznionej na podstawie umowy agencyjnej lub umowy zlecenia oraz współpracy przy wykonywaniu takiej umowy:
+    - **a)** objętej obowiązkiem ubezpieczenia społecznego i okresy kontynuowania tego ubezpieczenia, za które opłacono składkę na to ubezpieczenie lub w których występowało zwolnienie od opłacania składki,
     - **b)** wykonywanej przed dniem 1 stycznia 1976 r., jeżeli umowa odpowiadała warunkom ubezpieczenia obowiązującym w tym dniu;
 
 - **14)** pozarolniczej działalności gospodarczej na obszarze Państwa Polskiego:
@@ -175,15 +205,44 @@ Art. 145–172. (pominięte)
 
 **Art. 7.** Okresami nieskładkowymi są następujące okresy:
 
+- **1)** pobierania:
+    - **a)** wynagrodzenia za czas niezdolności do pracy wypłaconego na podstawie przepisów Kodeksu pracy,
+    - **b)** zasiłków z ubezpieczenia społecznego: chorobowego lub opiekuńczego,
+    - **c)** świadczenia rehabilitacyjnego,
+    - **d)** świadczeń wymienionych w lit. b i c po ustaniu obowiązku ubezpieczenia;
+
+- **2)** pobierania renty chorobowej po ustaniu zatrudnienia w wymiarze czasu pracy nie niższym niż połowa obowiązującego w danym zawodzie lub po ustaniu obowiązku ubezpieczenia społecznego z innego tytułu;
+- **3)** niewykonywania pracy po ustaniu zatrudnienia, jeżeli za te okresy, na podstawie przepisów Kodeksu pracy, zostało wypłacone odszkodowanie;
+- **4)** (uchylony)
+- **5)** przypadające przed dniem nabycia prawa do emerytury lub renty okresy urlopu wychowawczego, urlopu bezpłatnego udzielonego na podstawie przepisów w sprawie bezpłatnych urlopów dla matek pracujących opiekujących się małymi dziećmi, innych udzielonych w tym celu urlopów bezpłatnych oraz okresy niewykonywania pracy – z powodu opieki nad dzieckiem:
+    - **a)** w wieku do lat 4 – w granicach do 3 lat na każde dziecko oraz łącznie – bez względu na liczbę dzieci – do 6 lat,
+    - **b)** na które ze względu na jego stan fizyczny, psychiczny lub psychofizyczny przysługuje zasiłek pielęgnacyjny – dodatkowo w granicach do 3 lat na każde dziecko;
+
+- **6)** przypadające przed dniem nabycia prawa do emerytury lub renty okresy opieki pielęgnacyjnej nad inwalidą wojennym zaliczonym do I grupy inwalidów lub uznanym za całkowicie niezdolnego do pracy oraz do samodzielnej egzystencji, sprawowanej przez członka jego rodziny w wieku powyżej 16 lat, który w okresie sprawowania opieki nie osiągnął przychodu przekraczającego miesięcznie połowę najniższego wynagrodzenia;
+- **7)** przypadające przed dniem nabycia prawa do emerytury lub renty okresy niewykonywania pracy, w granicach do 6 lat, spowodowane koniecznością opieki nad innym niż dziecko członkiem rodziny zaliczonym do I grupy inwalidów lub uznanym za całkowicie niezdolnego do pracy oraz do samodzielnej egzystencji albo uznanym za osobę niepełnosprawną w stopniu znacznym, sprawowanej przez członka jego rodziny w wieku powyżej 16 lat, który w okresie sprawowania opieki nie osiągnął przychodu przekraczającego miesięcznie połowę najniższego wynagrodzenia;
+- **8)** urlopu bezpłatnego oraz przerw w zatrudnieniu w razie nieudzielenia urlopu bezpłatnego małżonkom pracowników skierowanych do pracy w przedstawicielstwach dyplomatycznych, urzędach konsularnych, w stałych przedstawicielstwach przy Organizacji Narodów Zjednoczonych i w innych misjach specjalnych za granicą, w instytutach, ośrodkach informacji i kultury za granicą;
+- **9)** nauki w szkole wyższej na jednym kierunku, pod warunkiem ukończenia tej nauki, w wymiarze określonym w programie studiów;
+- **9a)** studiów doktoranckich i aspirantury naukowej w wymiarze określonym w decyzji o ich utworzeniu;
+- **9b)** asystenckich studiów przygotowawczych;
+- **10)** dokształcania zawodowego lekarzy w klinikach akademii medycznych i oddziałach instytutów naukowych w charakterze wolontariusza – w granicach do 1 roku;
+- **11)** pobierania zasiłku przedemerytalnego i świadczenia przedemerytalnego;
+- **12)** udokumentowanej niezdolności do pracy, za które wypłacone zostały z Funduszu Pracy: zasiłki dla bezrobotnych, zasiłki szkoleniowe lub stypendia;
+- **13)** udokumentowanego okresu odbytego stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160).
+
 **Art. 8.** Przy ustalaniu prawa do emerytury i renty oraz przy obliczaniu ich wysokości uwzględnia się okresy ubezpieczenia za granicą, jeżeli tak stanowią umowy międzynarodowe.
 
 **Art. 9.** Przy ustalaniu prawa do świadczeń:
+
+- **1)** okresów, o których mowa w art. 6 ust. 1 pkt 9 i ust. 2 pkt 1 lit. c oraz w art. 7 pkt 8,
+- **2)** okresów zatrudnienia wykonywanego na obszarze Państwa Polskiego w czasie, gdy obszar ten nie wchodził w skład Państwa Polskiego, o których mowa w art. 6 ust. 2 pkt 1 lit. a,
+- **3)** okresów pracy przymusowej, o których mowa w art. 6 ust. 2 pkt 2 lit. a i b – nie uwzględnia się, jeżeli z ich tytułu jest wypłacane świadczenie rentowe z instytucji zagranicznej inne niż renta z ubezpieczenia dodatkowego.
 
 **Art. 10.**
 
 1. Przy ustalaniu prawa do emerytury oraz przy obliczaniu jej wysokości uwzględnia się również następujące okresy, traktując je, z zastrzeżeniem art. 56, jak okresy składkowe:
 
-- **1)** okresy ubezpieczenia społecznego rolników, za które opłacono przewidziane w odrębnych przepisach składki, rolnego po ukończeniu 16 roku życia,
+- **1)** okresy ubezpieczenia społecznego rolników, za które opłacono przewidziane w odrębnych przepisach składki,
+- **2)** przypadające przed dniem 1 lipca 1977 r. okresy prowadzenia gospodarstwa rolnego po ukończeniu 16 roku życia,
 - **3)** przypadające przed dniem 1 stycznia 1983 r. okresy pracy w gospodarstwie rolnym po ukończeniu 16 roku życia, jeżeli okresy składkowe i nieskładkowe, ustalone na zasadach określonych w art. 5–7, są krótsze od okresu wymaganego do przyznania emerytury, w zakresie niezbędnym do uzupełnienia tego okresu.
 
 2. Okresy wymienione w ust. 1 pkt 1 uwzględnia się także przy ustalaniu prawa do renty z tytułu niezdolności do pracy, jeżeli okresy składkowe i nieskładkowe ustalone na zasadach określonych w art. 5–7 są krótsze od okresu wymaganego do przyznania renty, w zakresie niezbędnym do uzupełnienia tego okresu.
@@ -204,7 +263,9 @@ Art. 145–172. (pominięte)
 
 1. Niezdolną do pracy w rozumieniu ustawy jest osoba, która całkowicie lub częściowo utraciła zdolność do pracy zarobkowej z powodu naruszenia sprawności organizmu i nie rokuje odzyskania zdolności do pracy po przekwalifikowaniu.
 
-2. Całkowicie niezdolną do pracy jest osoba, która utraciła zdolność do wykonywania jakiejkolwiek pracy. zdolność do pracy zgodnej z poziomem posiadanych kwalifikacji.
+2. Całkowicie niezdolną do pracy jest osoba, która utraciła zdolność do wykonywania jakiejkolwiek pracy.
+
+3. Częściowo niezdolną do pracy jest osoba, która w znacznym stopniu utraciła zdolność do pracy zgodnej z poziomem posiadanych kwalifikacji.
 
 **Art. 13.**
 
@@ -225,6 +286,51 @@ Art. 145–172. (pominięte)
 
 **Art. 14.** [1. Oceny niezdolności do pracy, jej stopnia oraz ustalenia:
 
+- **1)** daty powstania niezdolności do pracy,
+- **2)** trwałości lub przewidywanego okresu niezdolności do pracy,
+- **3)** związku przyczynowego niezdolności do pracy lub śmierci z określonymi okolicznościami,
+- **4)** trwałości lub przewidywanego okresu niezdolności do samodzielnej egzystencji,
+- **5)** celowości przekwalifikowania zawodowego – dokonuje w formie orzeczenia lekarz orzecznik Zakładu, zwany dalej „lekarzem orzecznikiem”.] <1. Ocena niezdolności do pracy, jej stopnia oraz ustalenie:
+- **1)** daty powstania niezdolności do pracy,
+- **2)** trwałości lub przewidywanego okresu niezdolności do pracy,
+- **3)** związku przyczynowego niezdolności do pracy lub śmierci z określonymi okolicznościami,
+- **4)** trwałości lub przewidywanego okresu niezdolności do samodzielnej egzystencji,
+- **5)** celowości przekwalifikowania zawodowego – jest dokonywana w formie orzeczenia wydanego na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.>
+
+2. Jeżeli nie ma możliwości ustalenia daty powstania niezdolności do pracy, natomiast ustalono okres, w którym niezdolność do pracy powstała, za datę powstania niezdolności przyjmuje się datę końcową tego okresu. Jeżeli nie ma możliwości ustalenia ani daty, ani okresu powstania niezdolności do pracy, za datę powstania niezdolności przyjmuje się datę zgłoszenia wniosku o świadczenie. [2a. Od orzeczenia lekarza orzecznika osobie zainteresowanej przysługuje sprzeciw do komisji lekarskiej Zakładu, zwanej dalej „komisją lekarską”, w ciągu 14 dni od dnia doręczenia tego orzeczenia.
+
+2b. Sprzeciw wnosi się za pośrednictwem jednostki organizacyjnej Zakładu właściwej ze względu na miejsce zamieszkania osoby zainteresowanej.
+
+2c. Komisja lekarska nie rozpatruje sprzeciwu wniesionego po terminie. W uzasadnionych przypadkach Zakład, na wniosek osoby zainteresowanej, może przywrócić termin na wniesienie sprzeciwu, w tym w szczególności w razie odrzucenia przez sąd odwołania od decyzji w przypadku określonym w art. 477 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620, 1172 i 1302).
+
+2d. Prezes Zakładu, w terminie 14 dni od dnia wydania orzeczenia przez lekarza orzecznika, może zgłosić zarzut wadliwości orzeczenia i przekazać sprawę do rozpatrzenia komisji lekarskiej. O zgłoszeniu zarzutu wadliwości orzeczenia jednostka organizacyjna Zakładu niezwłocznie zawiadamia osobę zainteresowaną.
+
+2e. Komisja lekarska, rozpatrując sprzeciw lub zarzut wadliwości, dokonuje oceny niezdolności do pracy i jej stopnia oraz ustalenia okoliczności, o których mowa w ust. 1.
+
+2f. Komisja lekarska dokonuje rozstrzygnięcia w formie orzeczenia.
+
+3. Orzeczenie lekarza orzecznika, od którego nie wniesiono sprzeciwu lub co do którego nie zgłoszono zarzutu wadliwości, albo orzeczenie komisji lekarskiej, stanowi dla organu rentowego podstawę do wydania decyzji w sprawie świadczeń przewidzianych w ustawie, do których prawo jest uzależnione od stwierdzenia niezdolności do pracy oraz niezdolności do samodzielnej egzystencji.
+
+4. Nadzór nad wykonywaniem orzecznictwa o niezdolności do pracy sprawuje Prezes Zakładu.
+
+5. Nadzór, o którym mowa w ust. 4, obejmuje:
+
+- **1)** kontrolę prawidłowości i jednolitości stosowania zasad orzecznictwa o niezdolności do pracy przez lekarzy orzeczników i komisje lekarskie;
+- **2)** udzielanie lekarzom orzecznikom i komisjom lekarskim wytycznych w zakresie stosowania zasad orzecznictwa o niezdolności do pracy;
+- **3)** prawo przekazania sprawy do rozpatrzenia przez komisję lekarską, jeżeli w wyniku kontroli, o której mowa w pkt 1, zostanie stwierdzony brak zgodności orzeczenia lekarza orzecznika lub komisji lekarskiej ze stanem faktycznym lub zasadami orzecznictwa o niezdolności do pracy.
+
+6. Minister właściwy do spraw zabezpieczenia społecznego określa, w drodze rozporządzenia, uwzględniając konieczność zapewnienia prawidłowego i sprawnego orzekania o niezdolności do pracy:
+
+- **1)** szczegółowe zasady i tryb orzekania o niezdolności do pracy przez lekarzy orzeczników i komisje lekarskie;
+- **2)** szczegółowe zasady organizacji orzekania o niezdolności do pracy, w tym w szczególności:
+    - **a)** miejsce działania lekarzy orzeczników,
+    - **b)** sposób tworzenia i znoszenia komisji lekarskich,
+    - **c)** sposób określania siedziby komisji lekarskiej i ich właściwości terytorialnej,
+    - **d)** skład komisji lekarskich;
+
+- **3)** szczególne kwalifikacje zawodowe wymagane od lekarzy orzeczników i lekarzy wchodzących w skład komisji lekarskiej;
+- **4)** szczegółowe zasady sprawowania nadzoru nad wykonywaniem orzekania o niezdolności do pracy.]
+
 #### Rozdział 4 Podstawa wymiaru emerytur i rent
 
 **Art. 15.**
@@ -237,7 +343,7 @@ Art. 145–172. (pominięte)
 
 2b. Przepisy ust. 2a stosuje się odpowiednio do osób uznanych za repatriantów.
 
-3. Do podstawy wymiaru emerytury lub renty, o której mowa w ust. 1 i 2, dolicza się kwoty przysługujących ubezpieczonemu w danym roku kalendarzowym wynagrodzeń za czas niezdolności do pracy oraz kwoty zasiłków: chorobowego, macierzyńskiego, opiekuńczego, świadczenia rehabilitacyjnego, zasiłku wyrównawczego, świadczenia wyrównawczego lub dodatku wyrównawczego, a także wartość rekompensaty pieniężnej ustaloną zgodnie z pkt 3 załącznika do ustawy z dnia 6 marca 1997 r. o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent. szkoleniowych lub stypendiów wypłaconych z Funduszu Pracy za okres udokumentowanej niezdolności do pracy, z zastrzeżeniem ust. 3a.
+3. Do podstawy wymiaru emerytury lub renty, o której mowa w ust. 1 i 2, dolicza się kwoty przysługujących ubezpieczonemu w danym roku kalendarzowym wynagrodzeń za czas niezdolności do pracy oraz kwoty zasiłków: chorobowego, macierzyńskiego, opiekuńczego, świadczenia rehabilitacyjnego, zasiłku wyrównawczego, świadczenia wyrównawczego lub dodatku wyrównawczego, a także wartość rekompensaty pieniężnej ustaloną zgodnie z pkt 3 załącznika do ustawy z dnia 6 marca 1997 r. o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent. Do podstawy wymiaru wlicza się również kwoty zasiłków dla bezrobotnych, zasiłków szkoleniowych lub stypendiów wypłaconych z Funduszu Pracy za okres udokumentowanej niezdolności do pracy, z zastrzeżeniem ust. 3a.
 
 3a. Przy ustalaniu podstawy wymiaru emerytury lub renty uwzględnia się kwoty wynagrodzeń za czas niezdolności do pracy, oraz kwoty zasiłków: chorobowego, macierzyńskiego, opiekuńczego, przysługujących ubezpieczonemu w roku kalendarzowym przypadającym po 2004 r., z tym że łączna kwota podstaw wymiaru składek na ubezpieczenia emerytalne i rentowe oraz wynagrodzeń i zasiłków nie może przekroczyć maksymalnej kwoty rocznej podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe.
 
@@ -254,7 +360,9 @@ Art. 145–172. (pominięte)
 
 7. Przepisy ust. 1–6 stosuje się odpowiednio do osoby, która osiągała uposażenie.
 
-8. Do ustalenia podstawy wymiaru emerytury lub renty przysługującej duchownym przyjmuje się przeciętną podstawę wymiaru składek z pełnych lat kalendarzowych ubezpieczenia przypadających po dniu 1 lipca 1989 r. do dnia, w którym zgłoszono wniosek o świadczenie, z tym że z okresu nie dłuższego niż określony w ust. 1; na wniosek ubezpieczonego podstawę wymiaru ustala się w myśl ust. 1. w art. 15 ust. 1 i 2, przyjmuje się lata kalendarzowe następujące bezpośrednio po sobie, chociażby ubezpieczony w niektórych z tych lat przez okres roku lub w okresie krótszym niż rok nie pozostawał w ubezpieczeniu.
+8. Do ustalenia podstawy wymiaru emerytury lub renty przysługującej duchownym przyjmuje się przeciętną podstawę wymiaru składek z pełnych lat kalendarzowych ubezpieczenia przypadających po dniu 1 lipca 1989 r. do dnia, w którym zgłoszono wniosek o świadczenie, z tym że z okresu nie dłuższego niż określony w ust. 1; na wniosek ubezpieczonego podstawę wymiaru ustala się w myśl ust. 1.
+
+**Art. 16.** Przy ustalaniu kolejnych 10 lat kalendarzowych, o których mowa w art. 15 ust. 1 i 2, przyjmuje się lata kalendarzowe następujące bezpośrednio po sobie, chociażby ubezpieczony w niektórych z tych lat przez okres roku lub w okresie krótszym niż rok nie pozostawał w ubezpieczeniu.
 
 **Art. 17.**
 
@@ -272,9 +380,17 @@ Art. 145–172. (pominięte)
 
 3. Jeżeli w ciągu 20 lat poprzedzających bezpośrednio rok, w którym zgłoszono wniosek o emeryturę lub rentę, zainteresowany nie był ubezpieczony w Polsce, podstawę wymiaru emerytury lub renty stanowi przeciętna podstawa wymiaru składki na ubezpieczenie społeczne lub ubezpieczenia emerytalne i rentowe w okresie kolejnych 10 lat kalendarzowych poprzedzających bezpośrednio rok, w którym zainteresowany przystąpił po raz pierwszy do ubezpieczenia za granicą.
 
-**Art. 19.** Kwota bazowa wynosi 100 % przeciętnego wynagrodzenia pomniejszonego o potrącone od ubezpieczonych składki na ubezpieczenia społeczne, określone w przepisach o systemie ubezpieczeń społecznych, w poprzednim roku kalendarzowym. i obowiązuje od dnia 1 marca każdego roku kalendarzowego do końca lutego następnego roku kalendarzowego.
+**Art. 19.** Kwota bazowa wynosi 100 % przeciętnego wynagrodzenia pomniejszonego o potrącone od ubezpieczonych składki na ubezpieczenia społeczne, określone w przepisach o systemie ubezpieczeń społecznych, w poprzednim roku kalendarzowym.
+
+**Art. 19a.** Kwota bazowa jest ustalana corocznie na podstawie art. 19 i obowiązuje od dnia 1 marca każdego roku kalendarzowego do końca lutego następnego roku kalendarzowego.
 
 **Art. 20.** Prezes Głównego Urzędu Statystycznego ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie:
+
+- **1)** do 7 roboczego dnia lutego każdego roku:
+    - **a)** kwotę przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym,
+    - **b)** kwotę bazową, o której mowa w art. 19;
+
+- **2)** do 7 roboczego dnia drugiego miesiąca każdego kwartału kwotę przeciętnego wynagrodzenia w poprzednim kwartale.
 
 **Art. 21.**
 
@@ -291,6 +407,9 @@ Art. 145–172. (pominięte)
 3. Podstawę wymiaru emerytury dla osoby, która wcześniej pobierała świadczenie przedemerytalne na podstawie przepisów o zatrudnieniu i przeciwdziałaniu bezrobociu, stanowi podstawa wymiaru emerytury przyjęta do ustalenia świadczenia przedemerytalnego – w wysokości uwzględniającej wszystkie kolejne waloryzacje przypadające w okresie następującym po ustaleniu prawa do świadczenia przedemerytalnego albo podstawa wymiaru ustalona na nowo w myśl art. 15.
 
 **Art. 22.** Rada Ministrów, w drodze rozporządzenia, określa szczegółowe zasady ustalania podstawy wymiaru emerytury i renty, uwzględniające w szczególności:
+
+- **1)** przypadki, w których do podstawy wymiaru emerytury lub renty dolicza się niektóre wypłaty dokonane na rzecz pracownika, jeżeli wypłaty te w okresie przed dniem wejścia w życie ustawy były uwzględniane przy ustalaniu podstawy wymiaru emerytury lub renty, mimo że były wyłączone z podstawy wymiaru składek;
+- **2)** przypadki, w których podstawę wymiaru emerytury lub renty dla pracowników zatrudnionych za granicą ustala się na podstawie wynagrodzenia przysługującego pracownikom zatrudnionym w tym okresie w kraju w tym samym lub podobnym charakterze, w jakim pracownik był zatrudniony przed wyjazdem za granicę, albo na podstawie kwot ryczałtowych.
 
 **Art. 23.**
 
@@ -311,7 +430,7 @@ Art. 145–172. (pominięte)
 
 1a. (uchylony) 1b. (uchylony)
 
-2. Dla ubezpieczonych urodzonych po dniu 31 grudnia 1948 r., zatrudnionych w szczególnych warunkach lub szczególnym charakterze, z wyjątkiem ubezpieczonych mających prawo do emerytury na warunkach określonych w art. 32, zostaną ustanowione emerytury pomostowe.
+2. Dla ubezpieczonych urodzonych po dniu 31 grudnia 1948 r., zatrudnionych w szczególnych warunkach lub szczególnym charakterze, z wyjątkiem ubezpieczonych mających prawo do emerytury na warunkach określonych w art. 32, 33, 39, 40, 46, 50, 50a i 50e, 184 oraz w art. 88 ustawy, o której mowa w art. 150 , zostaną ustanowione emerytury pomostowe.
 
 2a. Ubezpieczonym spełniającym warunki określone w art. 50a lub 50e przysługuje emerytura po osiągnięciu wieku i okresów pracy lub okresu pracy, określonych w tych przepisach.
 
@@ -335,7 +454,7 @@ Art. 145–172. (pominięte)
 
 1. Podstawę obliczenia emerytury, o której mowa w art. 24, stanowi kwota składek na ubezpieczenie emerytalne, z uwzględnieniem waloryzacji składek zewidencjonowanych na koncie ubezpieczonego do końca miesiąca poprzedzającego miesiąc, od którego przysługuje wypłata emerytury, zwaloryzowanego kapitału początkowego określonego w art. 173–175 oraz kwot środków zewidencjonowanych na subkoncie, o którym mowa w art. 40a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, z zastrzeżeniem ust. 1a i 1b oraz art. 185.
 
-1a. Przy ustalaniu podstawy obliczenia emerytury, o której mowa w art. 24, dla osoby, która miała ustalone prawo do emerytury częściowej, nie uwzględnia się kwot zwiększeń składek na ubezpieczenie emerytalne oraz kapitału początkowego mowa w art. 25a, przeprowadzonej w celu obliczenia emerytury częściowej.
+1a. Przy ustalaniu podstawy obliczenia emerytury, o której mowa w art. 24, dla osoby, która miała ustalone prawo do emerytury częściowej, nie uwzględnia się kwot zwiększeń składek na ubezpieczenie emerytalne oraz kapitału początkowego określonego w art. 173–175, uzyskanych w wyniku waloryzacji kwartalnej, o której mowa w art. 25a, przeprowadzonej w celu obliczenia emerytury częściowej.
 
 1b. Jeżeli ubezpieczony pobrał emeryturę częściową lub emeryturę na podstawie przepisów art. 46, 50, 50a, 50e lub 184, a także art. 88 lub art. 88a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, podstawę obliczenia emerytury, o której mowa w art. 24, ustaloną zgodnie z ust. 1, pomniejsza się o kwotę stanowiącą sumę kwot pobranych emerytur w wysokości przed odliczeniem zaliczki na podatek dochodowy od osób fizycznych i składki na ubezpieczenie zdrowotne.
 
@@ -355,7 +474,9 @@ Art. 145–172. (pominięte)
 
 4. Waloryzacji podlega kwota składek zewidencjonowanych na koncie ubezpieczonego na dzień 31 stycznia roku, za który jest przeprowadzana waloryzacja, powiększona o kwoty z tytułu przeprowadzonych waloryzacji.
 
-5. Waloryzacja składek polega na pomnożeniu zewidencjonowanych na koncie ubezpieczonego składek przez wskaźnik waloryzacji. konsumpcyjnych ogółem w roku kalendarzowym poprzedzającym termin waloryzacji w stosunku do poprzedniego roku powiększonemu o wzrost realny sumy przypisu składek na ubezpieczenie emerytalne w roku kalendarzowym poprzedzającym termin waloryzacji w stosunku do roku poprzedniego, z zastrzeżeniem ust. 9. Wskaźnik waloryzacji składek nie może być niższy niż wskaźnik cen towarów i usług konsumpcyjnych ogółem w roku kalendarzowym poprzedzającym termin waloryzacji w stosunku do poprzedniego roku.
+5. Waloryzacja składek polega na pomnożeniu zewidencjonowanych na koncie ubezpieczonego składek przez wskaźnik waloryzacji.
+
+6. Wskaźnik waloryzacji składek jest równy wskaźnikowi cen towarów i usług konsumpcyjnych ogółem w roku kalendarzowym poprzedzającym termin waloryzacji w stosunku do poprzedniego roku powiększonemu o wzrost realny sumy przypisu składek na ubezpieczenie emerytalne w roku kalendarzowym poprzedzającym termin waloryzacji w stosunku do roku poprzedniego, z zastrzeżeniem ust. 9. Wskaźnik waloryzacji składek nie może być niższy niż wskaźnik cen towarów i usług konsumpcyjnych ogółem w roku kalendarzowym poprzedzającym termin waloryzacji w stosunku do poprzedniego roku.
 
 7. Wskaźnik wzrostu realnego sumy przypisu składek na ubezpieczenie emerytalne, o którym mowa w ust. 6, otrzymuje się poprzez podzielenie wskaźnika wzrostu nominalnego sumy przypisu składek na ubezpieczenie emerytalne w roku kalendarzowym poprzedzającym termin waloryzacji w stosunku do roku poprzedniego przez wskaźnik cen towarów i usług konsumpcyjnych ogółem ustalony dla analogicznego okresu.
 
@@ -373,6 +494,8 @@ Art. 145–172. (pominięte)
 
 1. Przy ustalaniu wysokości emerytury kwota składek na ubezpieczenie emerytalne zewidencjonowanych na koncie ubezpieczonego po dniu 31 stycznia roku, za który przeprowadzono ostatnią waloryzację, o której mowa w art. 25, jest waloryzowana kwartalnie.
 
+2. W przypadku ustalania wysokości emerytury:
+
 - **1)** w pierwszym kwartale danego roku – ostatniej kwartalnej waloryzacji składek dokonuje się za trzeci kwartał poprzedniego roku;
 - **2)** w drugim kwartale danego roku – ostatniej kwartalnej waloryzacji składek dokonuje się za czwarty kwartał poprzedniego roku, z uwzględnieniem ust. 2a;
 - **3)** w trzecim kwartale danego roku – ostatniej kwartalnej waloryzacji składek dokonuje się za pierwszy kwartał danego roku;
@@ -388,7 +511,9 @@ Art. 145–172. (pominięte)
 
 5. Wskaźnik waloryzacji kwartalnej składek jest równy wskaźnikowi cen towarów i usług konsumpcyjnych ogółem w kwartale, za który przeprowadzana jest waloryzacja w stosunku do poprzedniego kwartału, powiększonemu o wzrost realny sumy przypisu składek na ubezpieczenie emerytalne w kwartale, za który przeprowadzana jest waloryzacja w stosunku do kwartału poprzedniego. Wskaźnik waloryzacji składek nie może być niższy niż wskaźnik cen towarów i usług konsumpcyjnych ogółem w kwartale, za który przeprowadzana jest waloryzacja w stosunku do poprzedniego kwartału.
 
-6. Wskaźnik wzrostu realnego sumy przypisu składek na ubezpieczenie emerytalne, o którym mowa w ust. 5, otrzymuje się poprzez podzielenie wskaźnika wzrostu nominalnego sumy przypisu składek na ubezpieczenie emerytalne w kwartale, za który jest przeprowadzana waloryzacja w stosunku do kwartału poprzedniego, przez wskaźnik cen towarów i usług konsumpcyjnych ogółem ustalony dla analogicznego okresu. emerytalne, o którym mowa w ust. 6, stanowi iloraz sumy przypisu składek na ubezpieczenie emerytalne w kwartale, za który jest przeprowadzana waloryzacja, i w kwartale poprzednim.
+6. Wskaźnik wzrostu realnego sumy przypisu składek na ubezpieczenie emerytalne, o którym mowa w ust. 5, otrzymuje się poprzez podzielenie wskaźnika wzrostu nominalnego sumy przypisu składek na ubezpieczenie emerytalne w kwartale, za który jest przeprowadzana waloryzacja w stosunku do kwartału poprzedniego, przez wskaźnik cen towarów i usług konsumpcyjnych ogółem ustalony dla analogicznego okresu.
+
+7. Wskaźnik wzrostu nominalnego sumy przypisu składek na ubezpieczenie emerytalne, o którym mowa w ust. 6, stanowi iloraz sumy przypisu składek na ubezpieczenie emerytalne w kwartale, za który jest przeprowadzana waloryzacja, i w kwartale poprzednim.
 
 8. Wskaźnik waloryzacji składek ustala się z dokładnością do setnych części procentu.
 
@@ -406,7 +531,9 @@ Art. 145–172. (pominięte)
 
 4. Osoba uposażona, zgodnie z dyspozycją emeryta, nabywa prawo do całości albo części wypłaty gwarantowanej, jeżeli śmierć emeryta pobierającego emeryturę, o którym mowa w ust. 1, nastąpiła w okresie trzech lat od miesiąca, od którego po raz pierwszy wypłacono emeryturę.
 
-5. Brak wskazania osoby uposażonej oznacza wskazanie jako osoby uposażonej małżonka, o ile w chwili śmierci emeryta pozostawał z nim we wspólności majątkowej, a w pozostałych przypadkach wypłata gwarantowana wchodzi w skład spadku. w wypłacie gwarantowanej, uważa się, że udziały tych osób są równe.
+5. Brak wskazania osoby uposażonej oznacza wskazanie jako osoby uposażonej małżonka, o ile w chwili śmierci emeryta pozostawał z nim we wspólności majątkowej, a w pozostałych przypadkach wypłata gwarantowana wchodzi w skład spadku.
+
+6. Jeżeli emeryt wskazał kilka osób uposażonych, a nie oznaczył ich udziału w wypłacie gwarantowanej, uważa się, że udziały tych osób są równe.
 
 7. Emeryt może w każdym czasie zmienić poprzednią dyspozycję, wskazując inne osoby uposażone zamiast lub oprócz osób, o których mowa w ust. 1, jak również oznaczając w inny sposób udział wskazanych osób w wypłacie gwarantowanej, albo odwołać poprzednią dyspozycję, nie wskazując żadnych innych osób.
 
@@ -428,7 +555,7 @@ Art. 145–172. (pominięte)
 
 **Art. 26a.**
 
-1. Wysokość emerytury ustalonej zgodnie z art. 26 ulega zwiększeniu za okresy opłacania składek na Fundusz Emerytalny Rolników, Fundusz Ubezpieczenia Społecznego Rolników i ubezpieczenie emerytalno-rentowe, o których mowa w przepisach o ubezpieczeniu społecznym rolników. Zwiększenie to ustala się według zasad wymiaru części składkowej emerytury rolniczej przewidzianych Rolniczego Ubezpieczenia Społecznego o okresach opłacania składek.
+1. Wysokość emerytury ustalonej zgodnie z art. 26 ulega zwiększeniu za okresy opłacania składek na Fundusz Emerytalny Rolników, Fundusz Ubezpieczenia Społecznego Rolników i ubezpieczenie emerytalno-rentowe, o których mowa w przepisach o ubezpieczeniu społecznym rolników. Zwiększenie to ustala się według zasad wymiaru części składkowej emerytury rolniczej przewidzianych w przepisach o ubezpieczeniu społecznym rolników na podstawie zaświadczenia Kasy Rolniczego Ubezpieczenia Społecznego o okresach opłacania składek.
 
 2. Zwiększenie, o którym mowa w ust. 1, nie przysługuje osobie mającej ustalone prawo do emerytury na podstawie przepisów o ubezpieczeniu społecznym rolników.
 
@@ -446,15 +573,21 @@ Art. 145–172. (pominięte)
 
 3. Emerytura z Funduszu nie może być niższa od kwoty odpowiadającej wysokości emerytury z Funduszu i okresowej emerytury kapitałowej przysługującej w dniu poprzedzającym osiągnięcie wieku emerytalnego wynoszącego 65 lat.
 
-4. Przepisy ust. 1–3 stosuje się odpowiednio do ustalenia wysokości emerytury z Funduszu dla osoby, której ustalono prawo do tej emerytury oraz do okresowej emerytury kapitałowej, a która do dnia poprzedzającego dzień osiągnięcia wieku do świadczenia, zgodnie z art. 103a.
+4. Przepisy ust. 1–3 stosuje się odpowiednio do ustalenia wysokości emerytury z Funduszu dla osoby, której ustalono prawo do tej emerytury oraz do okresowej emerytury kapitałowej, a która do dnia poprzedzającego dzień osiągnięcia wieku emerytalnego wynoszącego 65 lat nie pobrała emerytury wskutek zawieszenia prawa do świadczenia, zgodnie z art. 103a.
 
 #### Rozdział 2 Emerytura dla ubezpieczonych urodzonych przed dniem 1 stycznia 1949 r.
 
 **Art. 27.** Ubezpieczonym urodzonym przed dniem 1 stycznia 1949 r. przysługuje emerytura, jeżeli spełnili łącznie następujące warunki:
 
+- **1)** osiągnęli wiek emerytalny wynoszący co najmniej 60 lat dla kobiet i co najmniej 65 lat dla mężczyzn;
+- **2)** mają okres składkowy i nieskładkowy wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, z zastrzeżeniem art. 27a.
+
 **Art. 27a.** Emeryturę przyznaje się z urzędu zamiast pobieranej renty z tytułu niezdolności do pracy osobie, która osiąg-nęła wiek emerytalny wynoszący 60 lat dla kobiet i 65 lat dla mężczyzn oraz podlegała ubezpieczeniu społecznemu albo ubezpieczeniom emerytalnemu i rentowym. Przepis art. 24a ust. 2 stosuje się odpowiednio.
 
 **Art. 28.** Ubezpieczonym urodzonym przed dniem 1 stycznia 1949 r., którzy nie osiągnęli okresu składkowego i nieskładkowego, o którym mowa w art. 27 pkt 2, przysługuje emerytura, jeżeli spełnili łącznie następujące warunki:
+
+- **1)** osiągnęli wiek emerytalny wynoszący co najmniej 60 lat dla kobiet i co najmniej 65 lat dla mężczyzn;
+- **2)** mają okres składkowy i nieskładkowy wynoszący co najmniej 15 lat dla kobiet i co najmniej 20 lat dla mężczyzn.
 
 **Art. 29.**
 
@@ -465,20 +598,31 @@ Art. 145–172. (pominięte)
 
 2. Emerytura, o której mowa w ust. 1, przysługuje ubezpieczonym, którzy:
 
-- **1)** ostatnio, przed zgłoszeniem wniosku o emeryturę, byli pracownikami oraz ubezpieczeniom emerytalnemu i rentowym pozostawali w stosunku pracy co najmniej przez 6 miesięcy, chyba że w dniu zgłoszenia wniosku o emeryturę są uprawnieni do renty z tytułu niezdolności do pracy.
+- **1)** ostatnio, przed zgłoszeniem wniosku o emeryturę, byli pracownikami oraz
+- **2)** w okresie ostatnich 24 miesięcy podlegania ubezpieczeniu społecznemu lub ubezpieczeniom emerytalnemu i rentowym pozostawali w stosunku pracy co najmniej przez 6 miesięcy, chyba że w dniu zgłoszenia wniosku o emeryturę są uprawnieni do renty z tytułu niezdolności do pracy.
 
 3. Spełnienia warunków, o których mowa w ust. 2, nie wymaga się od ubezpieczonych, którzy przez cały wymagany okres, o którym mowa w ust. 1 pkt 1 i 2, podlegali ubezpieczeniu społecznemu lub ubezpieczeniom emerytalnemu i rentowym z tytułu pozostawania w stosunku pracy.
 
 **Art. 30.** Odrębne przepisy określają zasady wcześniejszego przechodzenia na emeryturę dla osób, określonych w art. 27, które są:
 
+- **1)** inwalidami wojennymi i wojskowymi oraz kombatantami;
+- **2)** pracownikami urzędów państwowych;
+- **3)** pracownikami samorządowymi;
+- **4)** żołnierzami zastępczej służby wojskowej przymusowo zatrudnianymi w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu;
+- **5)** nauczycielami akademickimi.
+
 **Art. 31.** Osoby urodzone przed dniem 1 stycznia 1949 r., uprawnione do renty z tytułu niezdolności do pracy spowodowanej wypadkiem przy pracy, wypadkiem przy wykonywaniu pozarolniczej działalności gospodarczej, działalności twórczej lub artystycznej, umowy agencyjnej lub umowy zlecenia albo przy wykonywaniu przez osoby duchowne i zakonne czynności religijnych lub czynności związanych z powierzonymi funkcjami duszpasterskimi lub zakonnymi, wypadkiem w drodze do pracy lub z pracy zaistniałym do dnia 31 grudnia 2002 r., albo wskutek choroby zawodowej, mogą przejść na emeryturę:
+
+- **1)** kobieta – po osiągnięciu wieku 55 lat, jeżeli ma co najmniej 20-letni okres składkowy i nieskładkowy;
+- **2)** mężczyzna – po osiągnięciu wieku 60 lat, jeżeli ma co najmniej 25-letni okres składkowy i nieskładkowy.
 
 **Art. 32.**
 
 1. Ubezpieczonym urodzonym przed dniem 1 stycznia 1949 r., będącym pracownikami, o których mowa w ust. 2 i 3, zatrudnionymi w szczególnych warunkach lub w szczególnym charakterze, przysługuje emerytura w wieku niższym niż określony w art. 27 pkt 1.
 
-1a. Przy ustalaniu okresu zatrudnienia w szczególnych warunkach lub w szczególnym charakterze nie uwzględnia się: 14 listopada 1991 r. wynagrodzenie lub świadczenia z ubezpieczenia społecznego w razie choroby i macierzyństwa.
+1a. Przy ustalaniu okresu zatrudnienia w szczególnych warunkach lub w szczególnym charakterze nie uwzględnia się:
 
+- **1)** okresów niewykonywania pracy, za które pracownik otrzymał po dniu 14 listopada 1991 r. wynagrodzenie lub świadczenia z ubezpieczenia społecznego w razie choroby i macierzyństwa.
 - **2)** (uchylony)
 
 2. Dla celów ustalenia uprawnień, o których mowa w ust. 1, za pracowników zatrudnionych w szczególnych warunkach uważa się pracowników zatrudnionych przy pracach o znacznej szkodliwości dla zdrowia oraz o znacznym stopniu uciążliwości lub wymagających wysokiej sprawności psychofizycznej ze względu na bezpieczeństwo własne lub otoczenia.
@@ -494,6 +638,8 @@ Art. 145–172. (pominięte)
 - **7)** pracowników jednostek ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a–5 i 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2025 r. poz. 188).
 
 4. Wiek emerytalny, o którym mowa w ust. 1, rodzaje prac lub stanowisk oraz warunki, na podstawie których osobom wymienionym w ust. 2 i 3 przysługuje prawo do emerytury, ustala się na podstawie przepisów dotychczasowych.
+
+4a. (utracił moc)
 
 5. Odrębne przepisy określają zasady przechodzenia na emeryturę, bez względu na wiek, nauczycieli urodzonych przed dniem 1 stycznia 1949 r.
 
@@ -511,7 +657,15 @@ Art. 145–172. (pominięte)
 
 **Art. 39.** Ubezpieczonemu urodzonemu przed dniem 1 stycznia 1949 r., spełniającemu warunek określony w art. 27 pkt 2 i niespełniającemu warunków wymaganych do uzyskania górniczej emerytury na podstawie art. 50a, który ma co najmniej 5 lat:
 
+- **1)** pracy górniczej, o której mowa w art. 50c ust. 1, wykonywanej pod ziemią stale i w pełnym wymiarze czasu pracy, albo
+- **2)** pracy górniczej, o której mowa w art. 50c ust. 1 pkt 4 i 5, wykonywanej stale i w pełnym wymiarze czasu pracy na odkrywce w kopalniach siarki i węgla brunatnego oraz w kopalniach otworowych siarki – wiek emerytalny, o którym mowa w art. 27 pkt 1, obniża się o 6 miesięcy za każdy rok takiej pracy, nie więcej jednak niż o 15 lat.
+
 **Art. 40.** Kolejowa emerytura przysługuje pracownikowi kolejowemu urodzonemu przed dniem 1 stycznia 1949 r., który spełnia łącznie następujące warunki:
+
+- **1)** osiągnął wiek emerytalny wynoszący dla kobiet 55 lat, mężczyzn 60 lat;
+- **2)** ma okres składkowy i nieskładkowy wynoszący co najmniej 20 lat dla kobiety i 25 lat dla mężczyzny, w tym co najmniej 15 lat zatrudnienia na kolei, łącznie z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia na kolei, o których mowa w art. 44–45.
+
+**Art. 41.** Przy ustalaniu prawa do emerytury kolejowej uwzględnia się okresy pracy na kolei i pracy równorzędnej z pracą na kolei oraz okresy zaliczalne do pracy na kolei, będące okresami składkowymi lub nieskładkowymi w rozumieniu ustawy.
 
 **Art. 42.**
 
@@ -529,9 +683,26 @@ Art. 145–172. (pominięte)
 
 1. Za okresy zatrudnienia na kolei uważa się okresy pozostawania w stosunku pracy w kolejowych jednostkach organizacyjnych, w czasie których pracownik pobierał wynagrodzenie lub zasiłki z ubezpieczenia społecznego: chorobowy, macierzyński lub opiekuńczy.
 
-2. Każdy pełny rok zatrudnienia na kolei na parowym, spalinowym lub elektrycznym pojeździe trakcyjnym, w drużynach konduktorskich oraz na na kolei.
+2. Każdy pełny rok zatrudnienia na kolei na parowym, spalinowym lub elektrycznym pojeździe trakcyjnym, w drużynach konduktorskich oraz na stanowiskach manewrowych lub ustawiaczy liczy się jako 14 miesięcy zatrudnienia na kolei.
 
 **Art. 44.** Za okresy równorzędne z okresami zatrudnienia na kolei uważa się okresy:
+
+- **1)** pobierania – po ustaniu zatrudnienia na kolei w wymiarze czasu pracy nie niższym niż połowa obowiązującego w danym zawodzie – zasiłku chorobowego, macierzyńskiego lub opiekuńczego z tytułu tego zatrudnienia;
+- **2)** pobierania renty chorobowej przyznanej przez właściwą kolejową jednostkę organizacyjną;
+- **3)** wykonywania przed dniem 1 stycznia 1975 r. pracy w kolejowej jednostce organizacyjnej na podstawie umowy o naukę zawodu, przyuczenia do określonej pracy lub odbycia wstępnego stażu pracy;
+- **4)** zatrudnienia lub pełnienia funkcji z wyboru w związkach zawodowych w czasie bezpłatnego urlopu udzielonego pracownikowi na ten cel;
+- **5)** zatrudnienia, jednak nie dłuższego niż 5 lat, licząc od ustania zatrudnienia na kolei, jeżeli zatrudnienie na kolei ustało wskutek:
+    - **a)** przejścia za zgodą kolejowej jednostki organizacyjnej do zatrudnienia w resorcie komunikacji niebędącego zatrudnieniem na kolei,
+    - **b)** przejścia z zatrudnienia na kolei do zatrudnienia w urzędach naczelnych i centralnych organów administracji państwowej,
+    - **c)** nawiązania stosunku pracy na podstawie wyboru,
+    - **d)** przejścia za zgodą kolejowej jednostki organizacyjnej do zatrudnienia na kolejach użytku niepublicznego,
+    - **e)** przejścia za zgodą kolejowej jednostki organizacyjnej do zatrudnienia w innych resortach w celu zorganizowania lub budowy transportu kolejowego;
+
+- **6)** zatrudnienia, jednak nie dłuższego niż 5 lat, w jednostkach (komórkach) organizacyjnych resortu komunikacji niebędących kolejowymi jednostkami organizacyjnymi, jeżeli nastąpiła zmiana tego zatrudnienia na zatrudnienie na kolei i jeżeli okres 5 lat zatrudnienia w tych jednostkach nie podlega zaliczeniu na podstawie pkt 5 lit. a;
+- **7)** zatrudnienia w międzynarodowych organizacjach kolejowych i w zagranicznych placówkach kolejowych po oddelegowaniu do tego zatrudnienia z zatrudnienia na kolei;
+- **8)** wykonywania zatrudnienia za granicą przez specjalistów w czasie trwania stosunku pracy z kolejową jednostką organizacyjną;
+- **9)** niewykonywania pracy na kolei, jeżeli za okresy te przysługuje wynagrodzenie w wyniku przywrócenia do pracy albo odszkodowanie;
+- **10)** zatrudnienia na kolejach innych państw, pod warunkiem że pracownik po tych okresach był zatrudniony na kolejach polskich.
 
 **Art. 45.**
 
@@ -555,8 +726,9 @@ Art. 145–172. (pominięte)
 
 **Art. 46.**
 
-1. Prawo do emerytury na warunkach określonych w art. 29, 32, 33 i 39 przysługuje również ubezpieczonym urodzonym po dniu 31 grudnia 1948 r. a przed dniem 1 stycznia 1969 r., jeżeli spełniają łącznie następujące warunki: o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym, za pośrednictwem Zakładu, na dochody budżetu państwa;
+1. Prawo do emerytury na warunkach określonych w art. 29, 32, 33 i 39 przysługuje również ubezpieczonym urodzonym po dniu 31 grudnia 1948 r. a przed dniem 1 stycznia 1969 r., jeżeli spełniają łącznie następujące warunki:
 
+- **1)** nie przystąpili do otwartego funduszu emerytalnego albo złożyli wniosek o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym, za pośrednictwem Zakładu, na dochody budżetu państwa;
 - **2)** warunki do uzyskania emerytury określone w tych przepisach spełnią do dnia 31 grudnia 2008 r.
 - **3)** (uchylony)
 
@@ -585,11 +757,15 @@ Art. 145–172. (pominięte)
 1. Górnicza emerytura przysługuje pracownikowi, który spełnia łącznie następujące warunki:
 
 - **1)** ukończył 55 lat życia;
-- **2)** ma okres pracy górniczej wynoszący łącznie z okresami pracy równorzędnej co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, w tym co najmniej 10 lat pracy górniczej określonej w art. 50c ust. 1; o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym, za pośrednictwem Zakładu, na dochody budżetu państwa.
+- **2)** ma okres pracy górniczej wynoszący łącznie z okresami pracy równorzędnej co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, w tym co najmniej 10 lat pracy górniczej określonej w art. 50c ust. 1;
+- **3)** nie przystąpili do otwartego funduszu emerytalnego albo złożyli wniosek o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym, za pośrednictwem Zakładu, na dochody budżetu państwa.
 
 2. Wiek emerytalny wymagany od pracowników: kobiet mających co najmniej 20 lat, a mężczyzn co najmniej 25 lat pracy górniczej i równorzędnej, w tym co najmniej 15 lat pracy górniczej, o której mowa w art. 50c ust. 1, wynosi 50 lat.
 
 **Art. 50b.** Przy ustalaniu prawa do emerytury górniczej uwzględnia się okresy pracy górniczej i pracy równorzędnej z pracą górniczą, będące okresami składkowymi lub nieskładkowymi w rozumieniu ustawy, z tym że okresy pracy górniczej i pracy równorzędnej z pracą górniczą uwzględnia się, jeżeli praca ta wykonywana była co najmniej w połowie wymiaru czasu pracy. Art. 50ba. Ilekroć w ustawie jest mowa o:
+
+- **1)** kopalni – oznacza to zakład górniczy w rozumieniu art. 6 ust. 1 pkt 18 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290 oraz z 2025 r. poz. 769 i 1023);
+- **2)** odkrywce – oznacza to odkrywkowy zakład górniczy.
 
 **Art. 50c.**
 
@@ -598,7 +774,7 @@ Art. 145–172. (pominięte)
 - **1)** pod ziemią w kopalniach węgla, rud, kruszców, surowców ogniotrwałych, glin szlachetnych, kaolinów, magnezytów, gipsu, anhydrytu, soli kamiennej i potasowej, fosforytów oraz barytu;
 - **2)** pod ziemią i przy głębieniu szybów w przedsiębiorstwach budowy kopalń określonych w pkt 1 oraz pod ziemią w przed-siębiorstwach i innych podmiotach wykonujących dla tych kopalń roboty górnicze lub przy budowie szybów;
 - **3)** pod ziemią w przedsiębiorstwach montażowych, przedsiębiorstwach maszyn górniczych, zakładach naprawczych i innych podmiotach wykonujących dla kopalń określonych w pkt 1 podziemne roboty budowlano-montażowe, roboty przy naprawie maszyn i wdrażaniu nowych urządzeń; pracownikom zatrudnionym w tych przedsiębiorstwach, zakładach i innych podmiotach uznaje się za pracę górniczą te miesiące zatrudnienia, w których co najmniej połowę dniówek roboczych przepracowali pod ziemią;
-- **4)** na odkrywce w kopalniach siarki i węgla brunatnego przy ręcznym lub zmechanizowanym urabianiu, ładowaniu oraz przewozie nadkładu i złoża, przy pomiarach w zakresie miernictwa górniczego oraz przy bieżącej konserwacji agregatów i urządzeń wydobywczych, a także w kopalniach otworowych siarki dla kopalń siarki i węgla brunatnego, na stanowiskach określonych w drodze rozporządzenia przez [ministra właściwego do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw gospodarki i ministrem właściwym do spraw gospodarki surowcami energetycznymi] <ministra właściwego do spraw gospodarki surowcami energetycznymi w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego>;
+- **4)** na odkrywce w kopalniach siarki i węgla brunatnego przy ręcznym lub zmechanizowanym urabianiu, ładowaniu oraz przewozie nadkładu i złoża, przy pomiarach w zakresie miernictwa górniczego oraz przy bieżącej konserwacji agregatów i urządzeń wydobywczych, a także w kopalniach otworowych siarki oraz w przedsiębiorstwach i innych podmiotach wykonujących roboty górnicze dla kopalń siarki i węgla brunatnego, na stanowiskach określonych w drodze rozporządzenia przez [ministra właściwego do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw gospodarki i ministrem właściwym do spraw gospodarki surowcami energetycznymi] <ministra właściwego do spraw gospodarki surowcami energetycznymi w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego>;
 - **5)** pod ziemią na stanowiskach dozoru ruchu oraz kierownictwa ruchu kopalń, przedsiębiorstw i innych podmiotów okreś-lonych w pkt 1–3, a także w kopalniach siarki i węgla brunatnego oraz w przedsiębiorstwach i innych podmiotach, o których mowa w pkt 4, na stanowiskach określonych w drodze rozporządzenia przez [ministra właściwego do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw gospodarki surowcami energetycznymi i ministrem właściwym do spraw zabezpieczenia społecznego] <ministra właściwego do spraw gospodarki surowcami energetycznymi w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego>;
 - **6)** w charakterze członków drużyn ratowniczych kopalń określonych w pkt 1 i 4, mechaników sprzętu ratowniczego tych drużyn oraz w charakterze ratowników zawodowych w stacjach ratownictwa górniczego;
 - **7)** na stanowiskach maszynistów wyciągowych na szybach oraz na stanowiskach sygnalistów na nadszybiach szybów w kopalniach, przedsiębiorstwach i innych podmiotach określonych w pkt 1 i 2;
@@ -607,7 +783,7 @@ Art. 145–172. (pominięte)
 
 2. Za pracę równorzędną z pracą górniczą uważa się:
 
-- **1)** zatrudnienie na stanowiskach wymagających kwalifikacji inżyniera lub technika w zakresie górnictwa w urzędach górniczych, jeżeli zatrudnienie jest związane z wykonywaniem czynności inspekcyjno-technicznych w kopalniach, przedsiębiorstwach i innych podmiotach określonych w ust. 1 pkt 1–4, pod warunkiem uprzedniego przepracowania w kopalniach, przedsiębiorstwach i innych podmiotach określonych w ust. 1 pkt 1–4 co najmniej 10 lat pod ziemią, otworowych siarki albo na stanowiskach dozoru lub kierownictwa ruchu;
+- **1)** zatrudnienie na stanowiskach wymagających kwalifikacji inżyniera lub technika w zakresie górnictwa w urzędach górniczych, jeżeli zatrudnienie jest związane z wykonywaniem czynności inspekcyjno-technicznych w kopalniach, przedsiębiorstwach i innych podmiotach określonych w ust. 1 pkt 1–4, pod warunkiem uprzedniego przepracowania w kopalniach, przedsiębiorstwach i innych podmiotach określonych w ust. 1 pkt 1–4 co najmniej 10 lat pod ziemią, na odkrywce w kopalniach siarki lub węgla brunatnego, a także w kopalniach otworowych siarki albo na stanowiskach dozoru lub kierownictwa ruchu;
 - **2)** zatrudnienie przy innych pracach, nie dłuższe niż 5 lat, do których pracownicy wykonujący prace określone w ust. 1 i w pkt 1 i 2 przeszli w związku z likwidacją kopalni, zakładu górniczego, przedsiębiorstwa lub innego podmiotu, o którym mowa w ust. 1 pkt 1–4.
 
 3. Za pracowników zatrudnionych na stanowiskach wymagających kwalifikacji inżyniera lub technika w zakresie górnictwa w jednostkach organizacyjnych określonych w ust. 2 pkt 1 uważa się osoby, które posiadają tytuł inżyniera lub technika i są zatrudnione zgodnie z posiadanymi kwalifikacjami w zakresie górnictwa.
@@ -623,7 +799,9 @@ Art. 145–172. (pominięte)
 
 1a. Przez przodek rozumie się obszar wyrobiska górniczego, w którym są wykonywane prace bezpośrednio związane z wydobywaniem kopaliny lub drążeniem tego wyrobiska, w tym ścianę, a w odkrywkach również obszar związany bezpośrednio z urabianiem kopaliny, nadkładu lub skał otaczających oraz ze zwałowaniem, w tym formowaniem korpusu zwału, a także strefę przyprzodkową stanowiącą obszar bezpośrednio przyległy do przodka, ustalony w kopalni na podstawie organizacyjno-technicznych metod wykonywania robót górniczych, w której są wykonywane prace związane z odstawą urobku oraz utrzymaniem wyrobiska.
 
-2. Okresy pracy wymienione w ust. 1 pkt 2 zalicza się w wymiarze półtorakrotnym również tym pracownikom dozoru ruchu i kierownictwa ruchu kopalń, którzy pracują przez co najmniej połowę dniówek roboczych w miesiącu pod ziemią, w kopalniach siarki lub w kopalniach węgla brunatnego. z ministrem właściwym do spraw gospodarki i ministrem właściwym do spraw gospodarki surowcami energetycznymi] <Minister właściwy do spraw gospodarki surowcami energetycznymi w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego>, w drodze rozporządzenia, określi szczegółowo stanowiska pracy, na których zatrudnienie zalicza się zgodnie z ust. 1 i 2 w wymiarze półtorakrotnym.
+2. Okresy pracy wymienione w ust. 1 pkt 2 zalicza się w wymiarze półtorakrotnym również tym pracownikom dozoru ruchu i kierownictwa ruchu kopalń, którzy pracują przez co najmniej połowę dniówek roboczych w miesiącu pod ziemią, w kopalniach siarki lub w kopalniach węgla brunatnego.
+
+3. [Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw gospodarki i ministrem właściwym do spraw gospodarki surowcami energetycznymi] <Minister właściwy do spraw gospodarki surowcami energetycznymi w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego>, w drodze rozporządzenia, określi szczegółowo stanowiska pracy, na których zatrudnienie zalicza się zgodnie z ust. 1 i 2 w wymiarze półtorakrotnym.
 
 4. [Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw gospodarki surowcami energetycznymi i ministrem właściwym do spraw zabezpieczenia społecznego] <Minister właściwy do spraw gospodarki surowcami energetycznymi w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego>, określi, w drodze rozporządzenia, zasady ewidencjonowania przez pracodawców okresów zatrudnienia na stanowiskach, na których okresy pracy górniczej zalicza się w wymiarze półtorakrotnym przy ustalaniu prawa do górniczej emerytury, oraz na niektórych innych stanowiskach pracy górniczej.
 
@@ -658,7 +836,9 @@ Art. 145–172. (pominięte)
 1. Przy ustalaniu wysokości emerytur innych niż określone w art. 51 stosuje się następujące przeliczniki:
 
 - **1)** 1,5 za każdy rok pracy górniczej wykonywanej pod ziemią stale i w pełnym wymiarze czasu pracy,
-- **2)** 1,8 za każdy rok pracy górniczej wykonywanej pod ziemią, o której mowa w art. 50d ust. 1, pod warunkiem wykonywania takiej pracy co najmniej przez 5 lat, z zastrzeżeniem ust. 2. z zastosowaniem przeliczników, o których mowa w ust. 1, uwzględnia się w wymiarze nie dłuższym niż 40 lat.
+- **2)** 1,8 za każdy rok pracy górniczej wykonywanej pod ziemią, o której mowa w art. 50d ust. 1, pod warunkiem wykonywania takiej pracy co najmniej przez 5 lat, z zastrzeżeniem ust. 2.
+
+2. Przy ustalaniu wysokości emerytur łączny okres pracy obliczony z zastosowaniem przeliczników, o których mowa w ust. 1, uwzględnia się w wymiarze nie dłuższym niż 40 lat.
 
 **Art. 53.**
 
@@ -684,7 +864,15 @@ Art. 145–172. (pominięte)
 
 2. Emerytura, o której mowa w art. 27a, nie może być niższa od pobieranej dotychczas renty z tytułu niezdolności do pracy.
 
-**Art. 55.** Ubezpieczonemu spełniającemu warunki do uzyskania emerytury na podstawie art. 27, który kontynuował ubezpieczenia emerytalne i rentowe po osiągnięciu przewidzianego w tym przepisie wieku emerytalnego i wystąpił z wnioskiem o przyznanie emerytury po dniu 31 grudnia 2008 r., może być obliczona emerytura na podstawie art. 26, jeżeli jest wyższa od obliczonej zgodnie z art. 53. ustalone prawo do emerytury przed zgłoszeniem wniosku o emeryturę, o której mowa w art. 27. 2. Jeżeli ubezpieczony pobrał emeryturę, do której miał ustalone prawo przed ustaleniem prawa do emerytury z tytułu osiągnięcia wieku emerytalnego, określonego w art. 27 ust. 2 i 3, podstawę obliczenia emerytury zgodnie z art. 26 pomniejsza się o kwotę stanowiącą sumę kwot pobranych emerytur w wysokości przed odliczeniem zaliczki na podatek dochodowy od osób fizycznych i składki na ubezpieczenie zdrowotne. 3. Prawo do emerytury ustalone przed osiągnięciem wieku emerytalnego, określonego w art. 27 ust. 2 i 3, ustaje z dniem, od którego została przyznana emerytura na podstawie art. 27, obliczona zgodnie z art. 26.
+**Art. 55.** Ubezpieczonemu spełniającemu warunki do uzyskania emerytury na podstawie art. 27, który kontynuował ubezpieczenia emerytalne i rentowe po osiągnięciu przewidzianego w tym przepisie wieku emerytalnego i wystąpił z wnioskiem o przyznanie emerytury po dniu 31 grudnia 2008 r., może być obliczona emerytura na podstawie art. 26, jeżeli jest wyższa od obliczonej zgodnie z art. 53.
+
+**Art. 55a.**
+
+1. Przepis art. 55 stosuje się również do ubezpieczonego, który miał ustalone prawo do emerytury przed zgłoszeniem wniosku o emeryturę, o której mowa w art. 27.
+
+2. Jeżeli ubezpieczony pobrał emeryturę, do której miał ustalone prawo przed ustaleniem prawa do emerytury z tytułu osiągnięcia wieku emerytalnego, określonego w art. 27 ust. 2 i 3, podstawę obliczenia emerytury zgodnie z art. 26 pomniejsza się o kwotę stanowiącą sumę kwot pobranych emerytur w wysokości przed odliczeniem zaliczki na podatek dochodowy od osób fizycznych i składki na ubezpieczenie zdrowotne.
+
+3. Prawo do emerytury ustalone przed osiągnięciem wieku emerytalnego, określonego w art. 27 ust. 2 i 3, ustaje z dniem, od którego została przyznana emerytura na podstawie art. 27, obliczona zgodnie z art. 26.
 
 **Art. 56.**
 
@@ -694,7 +882,7 @@ Art. 145–172. (pominięte)
 
 3. Świadczenie, którego wysokość ustalono w myśl ust. 1 lub 2, zwiększa się o kwotę odpowiadającą części składkowej emerytury ustalonej według zasad wymiaru określonych w przepisach o ubezpieczeniu społecznym rolników, z uwzględnieniem całego udowodnionego okresu pracy w gospodarstwie rolnym, z tym że okresy prowadzenia gospodarstwa rolnego lub pracy w gospodarstwie rolnym – bez podlegania innemu ubezpieczeniu społecznemu – po ukończeniu 16 roku życia, przypadające przed dniem 1 lipca 1977 r., uwzględnia się, jeżeli przypadają nie wcześniej niż 25 lat przed ustaleniem prawa do emerytury.
 
-4. Jeżeli okresy składkowe i nieskładkowe nie zostały uzupełnione okresami wymienionymi w art. 10, emerytura ulega zwiększeniu za okres opłacania składek na i ubezpieczenie emerytalno-rentowe rolników. Zwiększenie to ustala się według zasad wymiaru przewidzianych dla części składkowej w przepisach, o których mowa w ust. 3.
+4. Jeżeli okresy składkowe i nieskładkowe nie zostały uzupełnione okresami wymienionymi w art. 10, emerytura ulega zwiększeniu za okres opłacania składek na Fundusz Emerytalny Rolników, Fundusz Ubezpieczenia Społecznego Rolników i ubezpieczenie emerytalno-rentowe rolników. Zwiększenie to ustala się według zasad wymiaru przewidzianych dla części składkowej w przepisach, o których mowa w ust. 3.
 
 5. Zwiększenie, o którym mowa w ust. 4, nie przysługuje osobie mającej ustalone prawo do emerytury lub renty na podstawie przepisów o ubezpieczeniu społecznym rolników.
 
@@ -715,7 +903,8 @@ Art. 145–172. (pominięte)
 
 - **1)** jest niezdolny do pracy;
 - **2)** ma wymagany okres składkowy i nieskładkowy;
-- **3)** niezdolność do pracy powstała w okresach, o których mowa w art. 6 ust. 1 pkt 1 i 2, pkt 3 lit. b, pkt 4, 6, 7 i 9, ust. 2 pkt 1, 3–8 i pkt 9 lit. a, pkt 10 lit. a, pkt 11, 12 i pkt 13 lit. a, pkt 14 lit. a i pkt 15–17 oraz art. 7 pkt 1–3, pkt 5 lit. a, pkt 6 i 12, oraz w okresach pobierania świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego określonych w przepisach o świadczeniach rodzinnych lub zasiłku dla opiekuna określonego w przepisach o ustaleniu i wypłacie zasiłków dla opiekunów, za które nie było obowiązku opłacania składek na ubezpieczenia emerytalne i rentowe, albo nie później niż w ciągu 18 miesięcy od ustania tych okresów; jej uzyskania.
+- **3)** niezdolność do pracy powstała w okresach, o których mowa w art. 6 ust. 1 pkt 1 i 2, pkt 3 lit. b, pkt 4, 6, 7 i 9, ust. 2 pkt 1, 3–8 i pkt 9 lit. a, pkt 10 lit. a, pkt 11, 12 i pkt 13 lit. a, pkt 14 lit. a i pkt 15–17 oraz art. 7 pkt 1–3, pkt 5 lit. a, pkt 6 i 12, oraz w okresach pobierania świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego określonych w przepisach o świadczeniach rodzinnych lub zasiłku dla opiekuna określonego w przepisach o ustaleniu i wypłacie zasiłków dla opiekunów, za które nie było obowiązku opłacania składek na ubezpieczenia emerytalne i rentowe, albo nie później niż w ciągu 18 miesięcy od ustania tych okresów;
+- **4)** nie ma ustalonego prawa do emerytury z Funduszu lub nie spełnia warunków do jej uzyskania.
 
 2. Przepisu ust. 1 pkt 3 nie stosuje się do ubezpieczonego, który udowodnił okres składkowy i nieskładkowy wynoszący co najmniej 20 lat dla kobiety lub 25 lat dla mężczyzny oraz jest całkowicie niezdolny do pracy.
 
@@ -734,7 +923,11 @@ Art. 145–172. (pominięte)
 
 3. Ustalenia okoliczności i przyczyn wypadku w drodze do pracy lub z pracy dokonują w karcie wypadku w drodze do pracy lub z pracy pracodawcy w stosunku do ubezpieczonych, będących pracownikami, a w stosunku do pozostałych ubezpieczonych podmioty określone w art. 5 ust. 1 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 257, 620 i 1083).
 
-4. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowe zasady, tryb uznawania zdarzenia za wypadek w drodze do pracy lub z pracy, sposób jego dokumentowania, wzór karty wypadku w drodze do pracy lub z pracy oraz termin jej sporządzania, biorąc pod uwagę konieczność zapewnienia jednolitości sposobu informowania o zaistnieniu wypadku. i nieskładkowego, w myśl art. 57 ust. 1 pkt 2, uważa się za spełniony, gdy ubezpieczony osiągnął okres składkowy i nieskładkowy wynoszący łącznie co najmniej:
+4. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowe zasady, tryb uznawania zdarzenia za wypadek w drodze do pracy lub z pracy, sposób jego dokumentowania, wzór karty wypadku w drodze do pracy lub z pracy oraz termin jej sporządzania, biorąc pod uwagę konieczność zapewnienia jednolitości sposobu informowania o zaistnieniu wypadku.
+
+**Art. 58.**
+
+1. Warunek posiadania wymaganego okresu składkowego i nieskładkowego, w myśl art. 57 ust. 1 pkt 2, uważa się za spełniony, gdy ubezpieczony osiągnął okres składkowy i nieskładkowy wynoszący łącznie co najmniej:
 
 - **1)** 1 rok – jeżeli niezdolność do pracy powstała przed ukończeniem 20 lat;
 - **2)** 2 lata – jeżeli niezdolność do pracy powstała w wieku powyżej 20 do 22 lat;
@@ -759,7 +952,7 @@ Art. 145–172. (pominięte)
 
 **Art. 60.**
 
-1. Osobie spełniającej warunki określone w art. 57, w stosunku do której orzeczono celowość przekwalifikowania zawodowego ze względu na niezdolność do 6 miesięcy, z zastrzeżeniem ust. 2 i 4.
+1. Osobie spełniającej warunki określone w art. 57, w stosunku do której orzeczono celowość przekwalifikowania zawodowego ze względu na niezdolność do pracy w dotychczasowym zawodzie, przysługuje renta szkoleniowa przez okres 6 miesięcy, z zastrzeżeniem ust. 2 i 4.
 
 2. Okres 6 miesięcy, o którym mowa w ust. 1, ulega wydłużeniu na czas niezbędny do przekwalifikowania zawodowego, nie dłużej niż o 30 miesięcy.
 
@@ -791,8 +984,9 @@ Art. 145–172. (pominięte)
 
 1. Osobie, której przy ustalaniu prawa do renty z tytułu niezdolności do pracy uwzględniono okresy pracy w gospodarstwie rolnym wymienione w art. 10 ust. 1 pkt 1, wysokość tej renty oblicza się z uwzględnieniem liczby lat i miesięcy tych okresów, w wymiarze przyjętym do ustalenia prawa do renty.
 
-2. Renty, o których mowa w ust. 1, wypłaca się z Funduszu, z tym że koszty tych rent podlegają odpowiedniej refundacji: rolnym – z funduszu emerytalno-rentowego określonego w przepisach o ubezpieczeniu społecznym rolników;
+2. Renty, o których mowa w ust. 1, wypłaca się z Funduszu, z tym że koszty tych rent podlegają odpowiedniej refundacji:
 
+- **1)** w części odpowiadającej uwzględnionym okresom pracy w gospodarstwie rolnym – z funduszu emerytalno-rentowego określonego w przepisach o ubezpieczeniu społecznym rolników;
 - **2)** w części odpowiadającej podwyższeniu do kwoty świadczenia najniższego – z budżetu państwa.
 
 **Art. 64.**
@@ -822,7 +1016,9 @@ Art. 145–172. (pominięte)
 - **1)** dzieci własne, dzieci drugiego małżonka oraz dzieci przysposobione;
 - **2)** przyjęte na wychowanie i utrzymanie przed osiągnięciem pełnoletności wnuki, rodzeństwo i inne dzieci, z wyłączeniem dzieci przyjętych na wychowanie i utrzymanie w ramach rodziny zastępczej lub rodzinnego domu dziecka;
 - **3)** małżonek (wdowa i wdowiec);
-- **4)** rodzice. osoby przysposabiające.
+- **4)** rodzice.
+
+2. Za rodziców w rozumieniu ustawy uważa się również ojczyma i macochę oraz osoby przysposabiające.
 
 **Art. 68.**
 
@@ -836,6 +1032,11 @@ Art. 145–172. (pominięte)
 
 **Art. 69.** Przyjęte na wychowanie i utrzymanie wnuki, rodzeństwo i inne dzieci, o których mowa w art. 67 ust. 1 pkt 2, mają prawo do renty rodzinnej, jeżeli spełniają warunki określone w art. 68, a ponadto:
 
+- **1)** zostały przyjęte na wychowanie i utrzymanie co najmniej na rok przed śmiercią ubezpieczonego (emeryta lub rencisty), chyba że śmierć była następstwem wypadku, oraz
+- **2)** nie mają prawa do renty po zmarłych rodzicach, a gdy rodzice żyją, jeżeli:
+    - **a)** nie mogą zapewnić im utrzymania albo
+    - **b)** ubezpieczony (emeryt lub rencista) lub jego małżonek był ich opiekunem ustanowionym przez sąd.
+
 **Art. 70.**
 
 1. Wdowa ma prawo do renty rodzinnej, jeżeli:
@@ -843,7 +1044,9 @@ Art. 145–172. (pominięte)
 - **1)** w chwili śmierci męża osiągnęła wiek 50 lat lub była niezdolna do pracy albo
 - **2)** wychowuje co najmniej jedno z dzieci, wnuków lub rodzeństwa uprawnione do renty rodzinnej po zmarłym mężu, które nie osiągnęło 16 lat, a jeżeli kształci się w szkole – 18 lat życia, lub jeżeli sprawuje pieczę nad dzieckiem całkowicie niezdolnym do pracy oraz do samodzielnej egzystencji lub całkowicie niezdolnym do pracy, uprawnionym do renty rodzinnej.
 
-2. Prawo do renty rodzinnej nabywa również wdowa, która osiągnęła wiek 50 lat lub stała się niezdolna do pracy po śmierci męża, nie później jednak niż w ciągu 5 lat od jego śmierci lub od zaprzestania wychowywania osób wymienionych w ust. 1 pkt 2. pozostawała z nim we wspólności małżeńskiej, ma prawo do renty rodzinnej, jeżeli oprócz spełnienia warunków określonych w ust. 1 lub 2 miała w dniu śmierci męża prawo do alimentów z jego strony ustalone wyrokiem lub ugodą sądową.
+2. Prawo do renty rodzinnej nabywa również wdowa, która osiągnęła wiek 50 lat lub stała się niezdolna do pracy po śmierci męża, nie później jednak niż w ciągu 5 lat od jego śmierci lub od zaprzestania wychowywania osób wymienionych w ust. 1 pkt 2.
+
+3. Małżonka rozwiedziona lub wdowa, która do dnia śmierci męża nie pozostawała z nim we wspólności małżeńskiej, ma prawo do renty rodzinnej, jeżeli oprócz spełnienia warunków określonych w ust. 1 lub 2 miała w dniu śmierci męża prawo do alimentów z jego strony ustalone wyrokiem lub ugodą sądową.
 
 4. Wdowa niespełniająca warunków do renty rodzinnej określonych w ust. 1 lub 2 i niemająca niezbędnych źródeł utrzymania ma prawo do okresowej renty rodzinnej:
 
@@ -853,6 +1056,9 @@ Art. 145–172. (pominięte)
 5. Przepisy ust. 1–4 stosuje się odpowiednio do wdowca.
 
 **Art. 71.** Rodzice mają prawo do renty rodzinnej, jeżeli:
+
+- **1)** ubezpieczony (emeryt lub rencista) bezpośrednio przed śmiercią przyczyniał się do ich utrzymania;
+- **2)** spełniają odpowiednio warunki określone dla wdowy i wdowca w art. 70 ust. 1 i 2 oraz, co do wieku, również w art. 70 ust. 5.
 
 **Art. 72.** W razie ustania prawa do renty rodzinnej z powodu ustąpienia niezdolności do pracy stosuje się odpowiednio przepis art. 61.
 
@@ -866,7 +1072,7 @@ Art. 145–172. (pominięte)
 
 2. Za kwotę świadczenia, które przysługiwałoby zmarłemu, uważa się kwotę emerytury, z zastrzeżeniem ust. 3 i 3a, lub renty z tytułu całkowitej niezdolności do pracy.
 
-2a. W razie śmierci osoby pobierającej emeryturę częściową lub spełniającej warunki do uzyskania tej emerytury, za kwotę świadczenia, które przysługiwałoby emerytury częściowej, z zastrzeżeniem ust. 3, w pełnej wysokości.
+2a. W razie śmierci osoby pobierającej emeryturę częściową lub spełniającej warunki do uzyskania tej emerytury, za kwotę świadczenia, które przysługiwałoby zmarłemu, uważa się kwotę emerytury ustaloną zgodnie z art. 26 dla celów obli-czenia emerytury częściowej, z zastrzeżeniem ust. 3, w pełnej wysokości.
 
 3. Jeżeli emerytura zmarłego została obliczona wraz ze zwiększeniami, o których mowa w art. 26a lub art. 56 ust. 3 i 4, rentę rodzinną oblicza się jako procent świadczenia zmarłego w wysokości pomniejszonej o te zwiększenia, odpowiednio do liczby uprawnionych do renty. Tak obliczoną rentę rodzinną uzupełnia się do wysokości uwzględniającej 50 % zwiększenia, które przysługiwałoby zmarłemu.
 
@@ -887,7 +1093,9 @@ Art. 145–172. (pominięte)
 
 2. Renta rodzinna podlega podziałowi na równe części między uprawnionych.
 
-3. W razie ujawnienia okoliczności powodujących konieczność dokonania podziału renty rodzinnej po raz pierwszy lub zmiany warunków dotychczasowego podziału renty ze względu na zmianę liczby osób uprawnionych organ rentowy dokonuje podziału świadczenia od miesiąca ujawnienia tych okoliczności. Przepisy art. 129 ust. 1 i 2 stosuje się odpowiednio. rodzinnej przepis art. 133 stosuje się odpowiednio.
+3. W razie ujawnienia okoliczności powodujących konieczność dokonania podziału renty rodzinnej po raz pierwszy lub zmiany warunków dotychczasowego podziału renty ze względu na zmianę liczby osób uprawnionych organ rentowy dokonuje podziału świadczenia od miesiąca ujawnienia tych okoliczności. Przepisy art. 129 ust. 1 i 2 stosuje się odpowiednio.
+
+4. W razie ujawnienia okoliczności powodujących ustanie podziału renty rodzinnej przepis art. 133 stosuje się odpowiednio.
 
 ### DZIAŁ IV Dodatki do emerytur i rent
 
@@ -922,6 +1130,7 @@ Art. 145–172. (pominięte)
 
 2. Członkami rodziny, o których mowa w ust. 1 pkt 4, są:
 
+- **1)** małżonek (wdowa i wdowiec);
 - **2)** rodzice, ojczym, macocha oraz osoby przysposabiające;
 - **3)** dzieci własne, dzieci drugiego małżonka, dzieci przysposobione i dzieci umieszczone w rodzinie zastępczej;
 - **4)** przyjęte na wychowanie i utrzymanie przed osiągnięciem pełnoletności inne dzieci niż wymienione w pkt 3;
@@ -952,7 +1161,9 @@ Art. 145–172. (pominięte)
 
 1. Zasiłek pogrzebowy przysługuje w wysokości 7000 zł.
 
-2. Kwota zasiłku pogrzebowego podlega waloryzacji od dnia 1 marca, jeżeli wskaźnik waloryzacji zasiłku pogrzebowego jest wyższy niż 105. cen towarów i usług konsumpcyjnych ogółem w poprzednim roku kalendarzowym, ogłoszony przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 94 ust. 1 pkt 1 lit. a.
+2. Kwota zasiłku pogrzebowego podlega waloryzacji od dnia 1 marca, jeżeli wskaźnik waloryzacji zasiłku pogrzebowego jest wyższy niż 105.
+
+3. Wskaźnikiem waloryzacji zasiłku pogrzebowego jest średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem w poprzednim roku kalendarzowym, ogłoszony przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 94 ust. 1 pkt 1 lit. a.
 
 4. Waloryzacja polega na pomnożeniu kwoty zasiłku pogrzebowego przez wskaźnik waloryzacji zasiłku pogrzebowego podzielony przez 100.
 
@@ -976,7 +1187,9 @@ Art. 145–172. (pominięte)
 
 1. Prezes Rady Ministrów w szczególnie uzasadnionych przypadkach może przyznać emeryturę lub rentę na warunkach i w wysokości innej niż określone w ustawie.
 
-1a. Decyzje o przyznaniu świadczenia, o którym mowa w ust. 1, oraz decyzje o odmowie przyznania tego świadczenia są ostateczne. w terminie do dnia 31 stycznia każdego roku kalendarzowego informację o przyznanych w roku poprzedzającym emeryturach i rentach na podstawie ust. 1.
+1a. Decyzje o przyznaniu świadczenia, o którym mowa w ust. 1, oraz decyzje o odmowie przyznania tego świadczenia są ostateczne.
+
+2. Prezes Rady Ministrów przedstawia Sejmowi Rzeczypospolitej Polskiej w terminie do dnia 31 stycznia każdego roku kalendarzowego informację o przyznanych w roku poprzedzającym emeryturach i rentach na podstawie ust. 1.
 
 **Art. 83.**
 
@@ -1003,7 +1216,8 @@ Art. 145–172. (pominięte)
 
 2a. Jeżeli w wyniku waloryzacji emerytura przyznana na podstawie art. 24a lub art. 27a, osobie niemającej okresu składkowego i nieskładkowego wymaganego do ustalenia tej emerytury w wysokości najniższej emerytury, jest niższa od obowiązujących od terminu waloryzacji nowych kwot najniższych rent z tytułu niezdolności do pracy, emeryturę tę podwyższa się odpowiednio do:
 
-- **1)** kwoty, o której mowa w art. 85 ust. 1 pkt 1, jeżeli emerytura z urzędu została przyznana osobie uprzednio uprawnionej do renty z tytułu całkowitej niezdolności do pracy; przyznana osobie uprzednio uprawnionej do renty z tytułu częściowej niezdolności do pracy.
+- **1)** kwoty, o której mowa w art. 85 ust. 1 pkt 1, jeżeli emerytura z urzędu została przyznana osobie uprzednio uprawnionej do renty z tytułu całkowitej niezdolności do pracy;
+- **2)** kwoty, o której mowa w art. 85 ust. 1 pkt 2, jeżeli emerytura z urzędu została przyznana osobie uprzednio uprawnionej do renty z tytułu częściowej niezdolności do pracy.
 
 3. Kwoty najniższych świadczeń, o których mowa w ust. 1–2a, podwyższa się przy zastosowaniu wskaźnika waloryzacji, o którym mowa w art. 89–94.
 
@@ -1019,7 +1233,11 @@ Art. 145–172. (pominięte)
 
 2. Ograniczenie wysokości świadczeń do 100 % podstawy ich wymiaru nie dotyczy rent i emerytury w wysokości określonej w art. 85.
 
-3. Do świadczeń ustalonych w myśl art. 23 w kwotach najniższych nie przysługują zwiększenia, o których mowa w art. 56 ust. 3 i 4 oraz w art. 73 ust. 3 i 4. w art. 26, łącznie z okresową emeryturą kapitałową, albo emerytura przysługująca z Funduszu określona w art. 26, jest niższa niż kwota, o której mowa w art. 85 ust. 2 i 3, emeryturę przysługującą z Funduszu, w tym emeryturę ustaloną ze zwiększeniem, o którym mowa w art. 26a, podwyższa się w taki sposób, aby suma tych świadczeń nie była niższa od tej kwoty, o ile ubezpieczony:
+3. Do świadczeń ustalonych w myśl art. 23 w kwotach najniższych nie przysługują zwiększenia, o których mowa w art. 56 ust. 3 i 4 oraz w art. 73 ust. 3 i 4.
+
+**Art. 87.**
+
+1. W przypadku gdy emerytura przysługująca z Funduszu określona w art. 26, łącznie z okresową emeryturą kapitałową, albo emerytura przysługująca z Funduszu określona w art. 26, jest niższa niż kwota, o której mowa w art. 85 ust. 2 i 3, emeryturę przysługującą z Funduszu, w tym emeryturę ustaloną ze zwiększeniem, o którym mowa w art. 26a, podwyższa się w taki sposób, aby suma tych świadczeń nie była niższa od tej kwoty, o ile ubezpieczony:
 
 - **1)** mężczyzna – osiągnął wiek emerytalny wynoszący 65 lat i ma okres składkowy i nieskładkowy wynoszący co najmniej 25 lat,
 - **2)** kobieta – osiągnęła wiek emerytalny wynoszący 60 lat i ma okres składkowy i nieskładkowy wynoszący co najmniej 20 lat – z uwzględnieniem ust. 3–7. Przepis art. 5 ust. 2 stosuje się odpowiednio.
@@ -1032,7 +1250,7 @@ Art. 145–172. (pominięte)
 
 3. Przy obliczaniu okresów składkowych przypadających po dniu wejścia w życie ustawy dla celów podwyższenia emerytury w myśl ust. 1 miesiące, w których składki na ubezpieczenia emerytalne i rentowe były obliczone od podstawy wymiaru niższej od kwoty minimalnego wynagrodzenia pracowników, uwzględnia się w części odpowiadającej proporcji tej podstawy do kwoty minimalnego wynagrodzenia.
 
-4. Zasady, o której mowa w ust. 3, nie stosuje się, jeżeli zmniejszenie podstawy wymiaru składek poniżej minimalnego wynagrodzenia nastąpiło na skutek pobierania wynagrodzenia za czas niezdolności do pracy wypłaconego na podstawie przepisów Kodeksu pracy, zasiłków i świadczenia rehabilitacyjnego z ubezpieczenia chorobowego lub z ubezpieczenia wypadkowego. Zasady tej nie stosuje się również, jeżeli podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe stanowiła kwota zasiłku stałego z pomocy społecznej, świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego określonych w przepisach o świadczeniach rodzinnych lub zasiłku dla opiekuna określonego w przepisach o ustaleniu i wypłacie zasiłków dla opiekunów, oraz do: pracowników, o których mowa w art. 6 ust. 2 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), żołnierzy niezawodowych w służbie czynnej, ubezpieczonych odbywających służbę zastępczą, a także pozostających w służbie kandydackiej Pożarnej i Służby Więziennej.
+4. Zasady, o której mowa w ust. 3, nie stosuje się, jeżeli zmniejszenie podstawy wymiaru składek poniżej minimalnego wynagrodzenia nastąpiło na skutek pobierania wynagrodzenia za czas niezdolności do pracy wypłaconego na podstawie przepisów Kodeksu pracy, zasiłków i świadczenia rehabilitacyjnego z ubezpieczenia chorobowego lub z ubezpieczenia wypadkowego. Zasady tej nie stosuje się również, jeżeli podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe stanowiła kwota zasiłku stałego z pomocy społecznej, świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego określonych w przepisach o świadczeniach rodzinnych lub zasiłku dla opiekuna określonego w przepisach o ustaleniu i wypłacie zasiłków dla opiekunów, oraz do: pracowników, o których mowa w art. 6 ust. 2 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), żołnierzy niezawodowych w służbie czynnej, ubezpieczonych odbywających służbę zastępczą, a także pozostających w służbie kandydackiej funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej.
 
 5. Prawo do podwyższenia, o którym mowa w ust. 1, nie przysługuje emerytom, którzy osiągają przychód z tytułu działalności, o której mowa w art. 104 ust. 1–4, jeżeli przychód ten przekracza kwotę podwyższenia.
 
@@ -1063,7 +1281,7 @@ Art. 145–172. (pominięte)
 
 1. Wskaźnik waloryzacji to średnioroczny wskaźnik cen towarów i usług konsumpcyjnych w poprzednim roku kalendarzowym zwiększony o co najmniej 20 % realnego wzrostu przeciętnego wynagrodzenia w poprzednim roku kalendarzowym.
 
-2. Wskaźnikiem cen towarów i usług konsumpcyjnych, o którym mowa w ust. 1, jest średnioroczny wskaźnik cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów albo średnioroczny wskaźnik cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów.
+2. Wskaźnikiem cen towarów i usług konsumpcyjnych, o którym mowa w ust. 1, jest średnioroczny wskaźnik cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów albo średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, jeżeli jest on wyższy od wskaźnika cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów.
 
 3. Zwiększenie o co najmniej 20 % realnego wzrostu przeciętnego wynagrodzenia, o którym mowa w ust. 1, jest przedmiotem corocznych negocjacji, w ramach Rady Dialogu Społecznego, przeprowadzanych w czerwcu, w roku poprzedzającym waloryzację.
 
@@ -1081,7 +1299,9 @@ Art. 145–172. (pominięte)
 
 **Art. 93.**
 
-1. Zmiana wysokości emerytur i rent w ramach waloryzacji następuje z urzędu, a jeżeli wypłata świadczenia była wstrzymana – po jej wznowieniu, z uwzględnieniem wszystkich kolejnych waloryzacji i waloryzacji dodatkowych, przypadających w okresie wstrzymania wypłaty. systemu teleinformatycznego mogą zamiast podpisu zawierać nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania.
+1. Zmiana wysokości emerytur i rent w ramach waloryzacji następuje z urzędu, a jeżeli wypłata świadczenia była wstrzymana – po jej wznowieniu, z uwzględnieniem wszystkich kolejnych waloryzacji i waloryzacji dodatkowych, przypadających w okresie wstrzymania wypłaty.
+
+2. Decyzje dotyczące waloryzacji emerytur i rent sporządzone z wykorzystaniem systemu teleinformatycznego mogą zamiast podpisu zawierać nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania.
 
 **Art. 94.**
 
@@ -1108,7 +1328,7 @@ Art. 145–172. (pominięte)
 
 1. W razie zbiegu u jednej osoby prawa do kilku świadczeń przewidzianych w ustawie wypłaca się jedno z tych świadczeń – wyższe lub wybrane przez zainteresowanego, z zastrzeżeniem art. 95a.
 
-2. Przepis ust. 1 stosuje się również, z uwzględnieniem art. 96, w razie zbiegu prawa do emerytury lub renty określonych w ustawie z prawem do świadczeń przewidzianych w przepisach o zaopatrzeniu emerytalnym osób, o których mowa w art. 2 ust. 2, z wyjątkiem przypadku, gdy emerytura wojskowa lub policyjna została obliczona według zasad określonych w art. 15a albo art. 18e ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin lub w art. 15a lub art. 15d lub art. 18e ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
+2. Przepis ust. 1 stosuje się również, z uwzględnieniem art. 96, w razie zbiegu prawa do emerytury lub renty określonych w ustawie z prawem do świadczeń przewidzianych w przepisach o zaopatrzeniu emerytalnym osób, o których mowa w art. 2 ust. 2, z wyjątkiem przypadku, gdy emerytura wojskowa lub policyjna została obliczona według zasad określonych w art. 15a albo art. 18e ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin lub w art. 15a lub art. 15d lub art. 18e ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
 
 3. Przepis ust. 1 stosuje się także w razie zbiegu u jednej osoby prawa do renty rodzinnej z prawem do zasiłku lub świadczenia przedemerytalnego.
 
@@ -1117,7 +1337,10 @@ Art. 145–172. (pominięte)
 1. Osobie uprawnionej do renty rodzinnej, o której mowa w art. 67 ust. 1 pkt 3, oraz do emerytury, emerytury rolniczej, emerytury z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, emerytury wojskowej, emerytury policyjnej, zasiłku przedemerytalnego, świadczenia przedemerytalnego, emerytury pomostowej, nauczycielskiego świadczenia kompensacyjnego, renty z tytułu niezdolności do pracy, w tym renty szkoleniowej, renty rolniczej z tytułu niezdolności do pracy, renty rolniczej szkoleniowej, renty z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, wojskowej renty inwalidzkiej albo policyjnej renty inwalidzkiej wypłaca się, zależnie od jej wyboru:
 
 - **1)** przysługującą rentę rodzinną oraz 25 % emerytury, emerytury rolniczej, emerytury z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, emerytury wojskowej, emerytury policyjnej, zasiłku przedemerytalnego, świadczenia przedemerytalnego, emerytury pomostowej, nauczycielskiego świadczenia kompensacyjnego, renty z tytułu niezdolności do pracy, w tym renty szkoleniowej, renty rolniczej z tytułu niezdolności do pracy, renty rolniczej szkoleniowej, renty z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, wojskowej renty inwalidzkiej albo policyjnej renty inwalidzkiej, albo
-- **2)** przysługującą emeryturę, emeryturę rolniczą, emeryturę z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, emeryturę wojskową, emeryturę policyjną, zasiłek przedemerytalny, świadczenie przedemerytalne, emeryturę pomostową, nauczycielskie świadczenie kompensacyjne, rentę z tytułu niezdolności do pracy, w tym rentę szkoleniową, rentę rolniczą z tytułu niezdolności do pracy, rentę rolniczą szkoleniową, rentę z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, wojskową rentę inwalidzką albo policyjną rentę inwalidzką, oraz 25 % renty rodzinnej. w ust. 1 w przypadku:
+- **2)** przysługującą emeryturę, emeryturę rolniczą, emeryturę z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, emeryturę wojskową, emeryturę policyjną, zasiłek przedemerytalny, świadczenie przedemerytalne, emeryturę pomostową, nauczycielskie świadczenie kompensacyjne, rentę z tytułu niezdolności do pracy, w tym rentę szkoleniową, rentę rolniczą z tytułu niezdolności do pracy, rentę rolniczą szkoleniową, rentę z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, wojskową rentę inwalidzką albo policyjną rentę inwalidzką, oraz 25 % renty rodzinnej.
+
+2. Osoba uprawniona ma prawo do wypłaty świadczeń na zasadach określonych w ust. 1 w przypadku:
+
 - **1)** osiągnięcia wieku emerytalnego określonego w art. 24 ust. 1;
 - **2)** pozostawania we wspólności małżeńskiej do dnia śmierci małżonka;
 - **3)** nabycia prawa do renty rodzinnej po zmarłym małżonku nie wcześniej niż 5 lat przed osiągnięciem wieku emerytalnego określonego w art. 24 ust. 1.
@@ -1139,6 +1362,7 @@ Art. 145–172. (pominięte)
 
 - **2)** świadczenia finansowane z Funduszu Emerytalno-Rentowego Kasy Rolniczego Ubezpieczenia Społecznego;
 - **3)** świadczenia finansowane z Funduszu Pracy;
+- **4)** świadczenia finansowane z Funduszu Emerytur Pomostowych;
 - **5)** świadczenia finansowane z Funduszu.
 
 8. W przypadku gdy suma świadczeń w zbiegu przekracza trzykrotność kwoty najniższej emerytury, o której mowa w art. 85 ust. 2, decyzje o pomniejszeniu świadczeń w celu wypłaty świadczeń w zbiegu, o których mowa w art. 95a ust. 1, wydaje organ rentowy albo organ emerytalny dokonujący pomniejszenia.
@@ -1150,7 +1374,8 @@ Art. 145–172. (pominięte)
 - **3)** wojskowej renty rodzinnej, o której mowa w ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, jeśli prawo do tego świadczenia wynika z okoliczności wskazanej w art. 67 ust. 1 pkt 3;
 - **4)** policyjnej renty rodzinnej, o której mowa w ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, jeśli prawo do tego świadczenia wynika z okoliczności wskazanej w art. 67 ust. 1 pkt 3;
 - **5)** renty rodzinnej, o której mowa w ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, jeśli prawo do tego świadczenia wynika z okoliczności wskazanej w art. 67 ust. 1 pkt 3;
-- **6)** renty rodzinnej, o której mowa w ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz. U. z 2025 r. poz. 173 i 620), jeśli prawo do tego świadczenia wynika z okoliczności wskazanej w art. 67 ust. 1 pkt 3; o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658), jeśli prawo do tego świadczenia wynika z okoliczności wskazanej w art. 67 ust. 1 pkt 3.
+- **6)** renty rodzinnej, o której mowa w ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz. U. z 2025 r. poz. 173 i 620), jeśli prawo do tego świadczenia wynika z okoliczności wskazanej w art. 67 ust. 1 pkt 3;
+- **7)** świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658), jeśli prawo do tego świadczenia wynika z okoliczności wskazanej w art. 67 ust. 1 pkt 3.
 
 10. Przepisy ust. 1 stosuje się do:
 
@@ -1174,7 +1399,8 @@ Art. 145–172. (pominięte)
 
 1. Odrębne przepisy określają prawo do pobierania świadczeń w razie zbiegu u jednej osoby prawa do emerytury z prawem do:
 
-- **1)** renty inwalidy wojennego i wojskowego, którego niezdolność do pracy pozostaje w związku ze służbą wojskową; o których mowa w art. 3 i 4 ust. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039);
+- **1)** renty inwalidy wojennego i wojskowego, którego niezdolność do pracy pozostaje w związku ze służbą wojskową;
+- **2)** renty z tytułu niezdolności do pracy spowodowanej pobytem w miejscach, o których mowa w art. 3 i 4 ust. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039);
 - **3)** renty z tytułu niezdolności do pracy spowodowanej wypadkiem przy pracy, wypadkiem w drodze do pracy lub z pracy lub chorobą zawodową.
 
 2. Odrębne przepisy określają prawo do pobierania świadczeń w razie zbiegu u jednej osoby prawa do emerytury lub renty z prawem do emerytury lub renty z ubezpieczenia społecznego rolników.
@@ -1191,7 +1417,9 @@ Art. 145–172. (pominięte)
 
 4. Rozliczenia, o którym mowa w ust. 3, dokonuje się z uwzględnieniem zasad finansowania świadczeń określonych w przepisach o systemie ubezpieczeń społecznych.
 
-**Art. 99.** W razie zbiegu prawa do zasiłku pogrzebowego określonego ustawą z prawem do zasiłku pogrzebowego ustalanym na podstawie odrębnych ustaw przysługuje tylko jeden zasiłek. Zasady ustalania świadczeń
+**Art. 99.** W razie zbiegu prawa do zasiłku pogrzebowego określonego ustawą z prawem do zasiłku pogrzebowego ustalanym na podstawie odrębnych ustaw przysługuje tylko jeden zasiłek.
+
+### DZIAŁ VIII Zasady ustalania świadczeń
 
 #### Rozdział 1 Powstanie i ustanie prawa do świadczeń
 
@@ -1205,6 +1433,9 @@ Art. 145–172. (pominięte)
 
 **Art. 101.** Prawo do świadczeń ustaje:
 
+- **1)** gdy ustanie którykolwiek z warunków wymaganych do uzyskania tego prawa;
+- **2)** ze śmiercią osoby uprawnionej.
+
 **Art. 101a.** Prawo do renty z tytułu niezdolności do pracy ustaje z dniem, od którego została przyznana emerytura z Funduszu.
 
 **Art. 102.**
@@ -1216,7 +1447,9 @@ Art. 145–172. (pominięte)
 - **1)** z upływem 6 miesięcy, jeżeli starosta nie wystąpi z wnioskiem o przedłużenie tego okresu;
 - **2)** od dnia otrzymania zawiadomienia starosty o braku możliwości przekwalifikowania do innego zawodu, także wówczas, gdy zawiadomienie to organ rentowy otrzymał przed upływem 6 miesięcy;
 - **3)** z upływem okresu, na jaki świadczenie przyznano na wniosek starosty;
-- **4)** od dnia otrzymania zawiadomienia starosty o tym, że osoba zainteresowana przed upływem 6 miesięcy lub w okresie, o którym mowa w pkt 3, nie poddaje się przekwalifikowaniu zawodowemu. Zawieszanie lub zmniejszanie świadczeń
+- **4)** od dnia otrzymania zawiadomienia starosty o tym, że osoba zainteresowana przed upływem 6 miesięcy lub w okresie, o którym mowa w pkt 3, nie poddaje się przekwalifikowaniu zawodowemu.
+
+#### Rozdział 2 Zawieszanie lub zmniejszanie świadczeń
 
 **Art. 103.**
 
@@ -1238,7 +1471,7 @@ Art. 145–172. (pominięte)
 
 1. Prawo do emerytury lub renty ulega zawieszeniu lub świadczenia te ulegają zmniejszeniu, na zasadach określonych w ust. 3–8 oraz w art. 105, w razie osiągania przychodu z tytułu działalności podlegającej obowiązkowi ubezpieczenia społecznego, o której mowa w ust. 2 oraz z tytułu służby wymienionej w art. 6 ust. 1 pkt 4 i 6.
 
-1a. Dla emerytów i rencistów prowadzących pozarolniczą działalność za przychód, o którym mowa w ust. 1, przyjmuje się przychód stanowiący podstawę ubezpieczeń społecznych.
+1a. Dla emerytów i rencistów prowadzących pozarolniczą działalność za przychód, o którym mowa w ust. 1, przyjmuje się przychód stanowiący podstawę wymiaru składki na ubezpieczenia społeczne w rozumieniu przepisów o systemie ubezpieczeń społecznych.
 
 2. Za działalność podlegającą obowiązkowi ubezpieczenia społecznego, o której mowa w ust. 1, uważa się zatrudnienie, służbę lub inną pracę zarobkową albo prowadzenie pozarolniczej działalności, z uwzględnieniem ust. 3.
 
@@ -1256,7 +1489,9 @@ Art. 145–172. (pominięte)
 
 - **1)** 24 % kwoty bazowej obowiązującej przy ostatniej waloryzacji w 1998 r. – dla emerytury lub renty z tytułu całkowitej niezdolności do pracy;
 - **2)** 18 % kwoty bazowej, o której mowa w pkt 1 – dla renty z tytułu częściowej niezdolności do pracy;
-- **3)** 20,4 % kwoty bazowej, o której mowa w pkt 1 – dla renty rodzinnej, do której uprawniona jest jedna osoba. niezdolności do pracy, wypłacanej w 25 % pełnej wysokości świadczenia zgodnie z art. 95a ust. 1, wynosi 25 % kwoty, o której mowa w ust. 8.
+- **3)** 20,4 % kwoty bazowej, o której mowa w pkt 1 – dla renty rodzinnej, do której uprawniona jest jedna osoba.
+
+8a. Kwota maksymalnego zmniejszenia emerytury lub renty z tytułu niezdolności do pracy, wypłacanej w 25 % pełnej wysokości świadczenia zgodnie z art. 95a ust. 1, wynosi 25 % kwoty, o której mowa w ust. 8.
 
 8b. Kwotę maksymalnego zmniejszenia emerytury lub renty z tytułu niezdolności do pracy, wypłacanej w wysokości zmniejszonej zgodnie z art. 95a ust. 7, ustala się przez pomnożenie kwoty, o której mowa w ust. 8, przez iloraz emerytury lub renty z tytułu niezdolności do pracy, wypłacanej w wysokości zmniejszonej zgodnie z art. 95a ust. 7, do pełnej kwoty emerytury lub renty z tytułu niezdolności do pracy.
 
@@ -1275,9 +1510,14 @@ Art. 145–172. (pominięte)
 
 2a. Do ustalenia kwoty maksymalnego zmniejszenia renty rodzinnej wypłacanej w 25 % pełnej wysokości świadczenia zgodnie z art. 95a ust. 1 oraz do ustalenia kwoty maksymalnego zmniejszenia renty rodzinnej wypłacanej w wysokości zmniejszonej zgodnie z art. 95a ust. 7, stosuje się przepisy art. 104 ust. 8a i 8b.
 
-3. Przychód osiągany przez osobę uprawnioną do renty rodzinnej w wysokości przekraczającej kwotę równą 130 % przeciętnego wynagrodzenia za kwartał kalendarzowy, ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, części renty przysługujących pozostałym członkom rodziny nie ulegają zmianie.
+3. Przychód osiągany przez osobę uprawnioną do renty rodzinnej w wysokości przekraczającej kwotę równą 130 % przeciętnego wynagrodzenia za kwartał kalendarzowy, ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, powoduje zawieszenie prawa do części renty rodzinnej dla tej osoby. Wysokości części renty przysługujących pozostałym członkom rodziny nie ulegają zmianie.
 
 **Art. 106.** Minister właściwy do spraw zabezpieczenia społecznego określa, w drodze rozporządzenia:
+
+- **1)** szczegółowe zasady zawieszania i zmniejszania świadczeń;
+- **2)** obowiązki emerytów i rencistów oraz płatników składek i urzędów skarbowych;
+- **3)** szczegółowe zasady rocznego i miesięcznego rozliczania świadczeń;
+- **4)** szczegółowe zasady zawieszania i zmniejszania świadczeń osobom, którym świadczenia przyznano z uwzględnieniem okresów ubezpieczenia za granicą.
 
 #### Rozdział 3 Zmiany w prawie do świadczeń i ich wysokości
 
@@ -1297,7 +1537,7 @@ Art. 145–172. (pominięte)
 
 1. Jeżeli po dniu, od którego przyznano emeryturę określoną w art. 24 lub 24a, emeryt podlegał ubezpieczeniom emerytalnemu i rentowym, wysokość świadczenia ulega ponownemu ustaleniu w sposób określony w ust. 2.
 
-2. Emerytury obliczone według zasad określonych w art. 26 powiększa się o kwotę wynikającą z podzielenia składek zewidencjonowanych na koncie ubezpieczonego po dniu ustalenia prawa do emerytury, o której mowa w art. 24 i 24a, trwanie życia ustalone dla wieku danego ubezpieczonego w dniu złożenia wniosku o przeliczenie wysokości emerytury, z uwzględnieniem ust. 4 i 5.
+2. Emerytury obliczone według zasad określonych w art. 26 powiększa się o kwotę wynikającą z podzielenia składek zewidencjonowanych na koncie ubezpieczonego po dniu ustalenia prawa do emerytury, o której mowa w art. 24 i 24a, i zwaloryzowanych zgodnie z art. 25 przez wyrażone w miesiącach średnie dalsze trwanie życia ustalone dla wieku danego ubezpieczonego w dniu złożenia wniosku o przeliczenie wysokości emerytury, z uwzględnieniem ust. 4 i 5.
 
 2a. Złożenie przez członka otwartego funduszu emerytalnego wniosku o ponowne ustalenie wysokości emerytury, o której mowa w art. 24 lub art. 24a, oznacza jednocześnie złożenie wniosku o ponowne ustalenie wysokości okresowej emerytury kapitałowej w trybie art. 25 ustawy z dnia 21 listopada 2008 r. o emeryturach kapitałowych.
 
@@ -1326,7 +1566,7 @@ Art. 145–172. (pominięte)
 1. Wysokość emerytury lub renty oblicza się ponownie, z zastrzeżeniem ust. 2 i 3, od podstawy wymiaru ustalonej w myśl art. 15, jeżeli do jej obliczenia wskazano podstawę wymiaru składki na ubezpieczenie społeczne lub ubezpieczenia emerytalne i rentowe na podstawie przepisów prawa polskiego:
 
 - **1)** z liczby kolejnych lat kalendarzowych i w okresie wskazanym do ustalenia poprzedniej podstawy wymiaru świadczenia,
-- **2)** z kolejnych 10 lat kalendarzowych wybranych z 20 lat kalendarzowych, poprzedzających bezpośrednio rok kalendarzowy, w którym zgłoszono wniosek z uwzględnieniem art. 176,
+- **2)** z kolejnych 10 lat kalendarzowych wybranych z 20 lat kalendarzowych, poprzedzających bezpośrednio rok kalendarzowy, w którym zgłoszono wniosek o przyznanie emerytury lub renty albo o ponowne ustalenie emerytury lub renty, z uwzględnieniem art. 176,
 - **3)** z 20 lat kalendarzowych wybranych z całego okresu podlegania ubezpieczeniu, przypadających przed rokiem zgłoszenia wniosku o ponowne ustalenie emerytury lub renty – a wskaźnik wysokości podstawy wymiaru jest wyższy od poprzednio obliczonego.
 
 2. Wskaźnik wysokości podstawy wymiaru, obliczony na zasadach określonych w art. 15, mnoży się przez kwotę bazową ostatnio przyjętą do obliczenia świadczenia.
@@ -1346,7 +1586,11 @@ Art. 145–172. (pominięte)
 
 1. Ponowne ustalenie wysokości emerytury lub renty z tytułu niezdolności do pracy, poprzez doliczenie nieuwzględnionych dotychczas w wymiarze świadczenia okresów składkowych, następuje na wniosek zgłoszony nie wcześniej niż po zakończeniu kwartału kalendarzowego, jeżeli emeryt lub rencista pozostaje w ubezpieczeniu, chyba że w kwartale kalendarzowym ustało ubezpieczenie.
 
-2. Wniosek, o którym mowa w ust. 1, może być złożony nie częściej niż raz w roku kalendarzowym. wniosek osoby zainteresowanej lub z urzędu, uchyla lub zmienia decyzję i ponownie ustala prawo do świadczeń lub ich wysokość, jeżeli:
+2. Wniosek, o którym mowa w ust. 1, może być złożony nie częściej niż raz w roku kalendarzowym.
+
+**Art. 114.**
+
+1. W sprawie zakończonej prawomocną decyzją organ rentowy, na wniosek osoby zainteresowanej lub z urzędu, uchyla lub zmienia decyzję i ponownie ustala prawo do świadczeń lub ich wysokość, jeżeli:
 
 - **1)** po uprawomocnieniu się decyzji zostaną przedłożone nowe dowody lub ujawniono nowe okoliczności istniejące przed wydaniem tej decyzji, które mają wpływ na prawo do świadczeń lub ich wysokość;
 - **2)** decyzja została wydana w wyniku przestępstwa;
@@ -1366,6 +1610,9 @@ Art. 145–172. (pominięte)
 - **1)** 10 lat – w przypadkach określonych w ust. 1 pkt 2–4;
 - **2)** 5 lat – w przypadkach określonych w ust. 1 pkt 1 i 5;
 - **3)** 3 lat – w przypadku określonym w ust. 1 pkt 6.
+
+1f. Przepisu ust. 1e nie stosuje się, jeżeli:
+
 - **1)** w wyniku uchylenia lub zmiany decyzji z przyczyn określonych w ust. 1 osoba zainteresowana nabędzie prawo do świadczenia lub świadczenie w wyższej wysokości;
 - **2)** uchyleniu lub zmianie podlega decyzja o ustaleniu kapitału początkowego, który nie został uwzględniony do obliczania wysokości emerytury ustalonej prawomocną decyzją.
 
@@ -1388,7 +1635,9 @@ Art. 145–172. (pominięte)
 2. Wyznaczone przez Prezesa Zakładu jednostki organizacyjne Zakładu wydają decyzje w sprawie świadczeń i świadczenia te wypłacają:
 
 - **1)** osobom zamieszkałym za granicą w państwie, z którym łączy Rzeczpospolitą Polską umowa międzynarodowa w dziedzinie ubezpieczeń społecznych;
-- **2)** osobom, którym przy ustalaniu prawa i wysokości emerytury lub renty uwzględniono okresy ubezpieczenia, o których mowa w art. 8. Rzeczpospolitą Polską umowa międzynarodowa w dziedzinie ubezpieczeń społecznych, decyzje w sprawach świadczeń wydają i świadczenia te wypłacają organy rentowe właściwe ze względu na ostatnie miejsce zamieszkania w Polsce osoby zainteresowanej (ubezpieczonego).
+- **2)** osobom, którym przy ustalaniu prawa i wysokości emerytury lub renty uwzględniono okresy ubezpieczenia, o których mowa w art. 8.
+
+3. Osobom zamieszkałym za granicą w państwie, z którym nie łączy Rzeczpospolitą Polską umowa międzynarodowa w dziedzinie ubezpieczeń społecznych, decyzje w sprawach świadczeń wydają i świadczenia te wypłacają organy rentowe właściwe ze względu na ostatnie miejsce zamieszkania w Polsce osoby zainteresowanej (ubezpieczonego).
 
 3a. Ustalenie prawa do zasiłku pogrzebowego oraz jego wysokości nie wymaga wydania decyzji, z wyjątkiem przypadków, o których mowa w art. 78 ust. 3 oraz art. 79 ust. 1. Przepis art. 114 stosuje się odpowiednio.
 
@@ -1414,7 +1663,9 @@ Art. 145–172. (pominięte)
 
 3a. Wniosek w sprawie przyznania zasiłku pogrzebowego zgłasza się w organie rentowym bezpośrednio lub za pośrednictwem zakładu pogrzebowego.
 
-4. Wnioski w sprawie przyznania świadczeń osobom, o których mowa w art. 115 ust. 2 i 3, zgłasza się w organach rentowych wymienionych w tych przepisach, z uwzględnieniem postanowień umów międzynarodowych. uzasadniające prawo do świadczeń i ich wysokości, określone w drodze rozporządzenia przez ministra właściwego do spraw zabezpieczenia społecznego.
+4. Wnioski w sprawie przyznania świadczeń osobom, o których mowa w art. 115 ust. 2 i 3, zgłasza się w organach rentowych wymienionych w tych przepisach, z uwzględnieniem postanowień umów międzynarodowych.
+
+5. Do wniosku w sprawie przyznania świadczeń powinny być dołączone dowody uzasadniające prawo do świadczeń i ich wysokości, określone w drodze rozporządzenia przez ministra właściwego do spraw zabezpieczenia społecznego.
 
 6. Do wniosku w sprawie przyznania świadczeń zainteresowanemu, który podlegał po raz pierwszy ubezpieczeniu albo rozpoczął podleganie kolejnemu ubezpieczeniu na podstawie art. 6 ust. 1 pkt 1 i 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, organ rentowy nie może żądać dowodów potwierdzających dane znajdujące się na koncie ubezpieczonego, z wyjątkiem okresów pracy w szczególnych warunkach lub w szczególnym charakterze oraz dowodów potwierdzających wykonywanie pracy w szczególnych warunkach lub o szczególnym charakterze, o której mowa w art. 3 ust. 1 i 3 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych – przypadających do dnia 31 grudnia 2008 r.
 
@@ -1432,7 +1683,7 @@ Art. 145–172. (pominięte)
 
 1. Organ rentowy pozyskuje za pośrednictwem systemu, o którym mowa w art. 68aa ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, dane od innych organów emerytalno-rentowych, którym został udostępniony ten system, niezbędne do ustalania prawa i wysokości oraz wypłaty świadczeń, rozliczeń z tytułu tych świadczeń pomiędzy tymi organami oraz do ustalania zbiegu świadczeń.
 
-2. Na żądanie organu rentowego złożone za pośrednictwem systemu, o którym mowa w art. 68aa ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, każdy z organów emerytalno-rentowych, którym został udostępniony ten system, udostępnia dane niezbędne do ustalania prawa i wysokości oraz wypłaty ustalenia zbiegu świadczeń.
+2. Na żądanie organu rentowego złożone za pośrednictwem systemu, o którym mowa w art. 68aa ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, każdy z organów emerytalno-rentowych, którym został udostępniony ten system, udostępnia dane niezbędne do ustalania prawa i wysokości oraz wypłaty świadczeń, rozliczeń z tytułu tych świadczeń pomiędzy tymi organami oraz do ustalenia zbiegu świadczeń.
 
 **Art. 117.**
 
@@ -1452,7 +1703,7 @@ Art. 145–172. (pominięte)
 
 1. Organ rentowy wydaje decyzję w sprawie prawa do świadczenia lub ustalenia jego wysokości po raz pierwszy w ciągu 30 dni od dnia wyjaśnienia ostatniej okoliczności niezbędnej do wydania tej decyzji, z uwzględnieniem ust. 1a–3 oraz art. 120.
 
-1a. W razie ustalenia prawa do świadczenia lub jego wysokości orzeczeniem organu odwoławczego za dzień wyjaśnienia ostatniej okoliczności niezbędnej do wydania decyzji uważa się również dzień wpływu prawomocnego orzeczenia organu odwoławczego, jeżeli organ rentowy nie ponosi odpowiedzialności za nieustalenie orzeczenie, stwierdza odpowiedzialność organu rentowego.
+1a. W razie ustalenia prawa do świadczenia lub jego wysokości orzeczeniem organu odwoławczego za dzień wyjaśnienia ostatniej okoliczności niezbędnej do wydania decyzji uważa się również dzień wpływu prawomocnego orzeczenia organu odwoławczego, jeżeli organ rentowy nie ponosi odpowiedzialności za nieustalenie ostatniej okoliczności niezbędnej do wydania decyzji. Organ odwoławczy, wydając orzeczenie, stwierdza odpowiedzialność organu rentowego.
 
 1b. W przypadku gdy ustalenie prawa do zasiłku pogrzebowego oraz jego wysokości wymaga wydania decyzji, decyzja ta jest wydawana w ciągu 14 dni od dnia wyjaśnienia ostatniej okoliczności niezbędnej do wydania tej decyzji.
 
@@ -1472,13 +1723,9 @@ Art. 145–172. (pominięte)
 
 1. Decyzja w sprawie świadczenia może być podejmowana w oparciu o wyłącznie zautomatyzowane przetwarzanie danych osobowych, pod warunkiem zapewnienia osobie, której dotyczy podejmowane rozstrzygnięcie, prawa do otrzymania stosownych wyjaśnień co do podstaw podjętego rozstrzygnięcia oraz prawa do uzyskania interwencji ludzkiej, do wyrażenia własnego stanowiska i do zakwestionowania takiego rozstrzygnięcia. W stosunku do rozstrzygnięć następujących w drodze decyzji osoba, której dotyczy decyzja, może skorzystać z tych uprawnień w terminie miesiąca od dnia doręczenia decyzji.
 
-2. Decyzja, o której mowa w ust. 1, zamiast podpisu zawiera nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do jej wydania. okresowej niezdolności do pracy na okres wskazany w orzeczeniu lekarza orzecznika lub w orzeczeniu komisji lekarskiej.] <1. Organ rentowy wydaje decyzję o przyznaniu renty z tytułu okresowej niezdolności do pracy na okres wskazany w orzeczeniu lekarza orzecznika.>
+2. Decyzja, o której mowa w ust. 1, zamiast podpisu zawiera nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do jej wydania.
 
-2. W razie orzeczenia o celowości przekwalifikowania zawodowego organ rentowy wydaje decyzję o przyznaniu renty szkoleniowej na okres 6 miesięcy i kieruje zainteresowanego do powiatowego urzędu pracy w celu poddania przekwalifikowaniu zawodowemu.
-
-3. Na wniosek starosty organ rentowy wydaje decyzję o przedłużeniu prawa do renty szkoleniowej na okres wskazany w tym wniosku, z uwzględnieniem przepisu art. 60 ust. 2.
-
-4. Organ rentowy ponownie kieruje zainteresowanego do lekarza orzecznika, jeżeli starosta zawiadomi o braku możliwości przekwalifikowania do innego zawodu.
+**Art. 119.** [1. Organ rentowy wydaje decyzję o przyznaniu renty z tytułu okresowej niezdolności do pracy na okres wskazany w orzeczeniu lekarza orzecznika lub w orzeczeniu komisji lekarskiej.] <1. Organ rentowy wydaje decyzję o przyznaniu renty z tytułu okresowej niezdolności do pracy na okres wskazany w orzeczeniu lekarza orzecznika.> 2. W razie orzeczenia o celowości przekwalifikowania zawodowego organ rentowy wydaje decyzję o przyznaniu renty szkoleniowej na okres 6 miesięcy i kieruje zainteresowanego do powiatowego urzędu pracy w celu poddania przekwalifikowaniu zawodowemu. 3. Na wniosek starosty organ rentowy wydaje decyzję o przedłużeniu prawa do renty szkoleniowej na okres wskazany w tym wniosku, z uwzględnieniem przepisu art. 60 ust. 2. 4. Organ rentowy ponownie kieruje zainteresowanego do lekarza orzecznika, jeżeli starosta zawiadomi o braku możliwości przekwalifikowania do innego zawodu.
 
 **Art. 120.**
 
@@ -1490,7 +1737,11 @@ Art. 145–172. (pominięte)
 
 1. Wyciągi z akt stanu cywilnego, zaświadczenia wydawane w celu ustalenia uprawnień do świadczeń oraz pisma o wydanie tych dokumentów są wolne od opłat.
 
-2. W sprawach świadczeń przewidzianych w ustawie osoby zainteresowane i organy rentowe są zwolnione od wszelkich opłat, z wyłączeniem opłat ponoszonych na podstawie art. 16 ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ). zobowiązane do udzielania organom rentowym pomocy i informacji w sprawach świadczeń przewidzianych w ustawie.
+2. W sprawach świadczeń przewidzianych w ustawie osoby zainteresowane i organy rentowe są zwolnione od wszelkich opłat, z wyłączeniem opłat ponoszonych na podstawie art. 16 ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ).
+
+**Art. 122.**
+
+1. Organy administracji rządowej, samorządowej i pracodawcy są zobowiązane do udzielania organom rentowym pomocy i informacji w sprawach świadczeń przewidzianych w ustawie.
 
 2. Podmioty, o których mowa w ust. 1, są zobowiązane – na wniosek osób zainteresowanych lub organu rentowego – do nieodpłatnego poświadczania własnoręczności lub autentyczności podpisów na oświadczeniach (deklaracjach) i formularzach rentowych wymaganych do uzyskania lub pobierania rent z instytucji zagranicznych.
 
@@ -1512,7 +1763,11 @@ Art. 145–172. (pominięte)
 - **4)** przygotowania, za zgodą pracownika, wniosku o rentę z tytułu niezdolności do pracy i przedłożenia go organowi rentowemu na 30 dni przed ustaniem prawa do zasiłków chorobowych;
 - **5)** poinformowania bezzwłocznie, po śmierci pracownika, pozostałej po nim rodziny o warunkach uzyskania renty rodzinnej, przygotowania wniosku o rentę i przedłożenia go organowi rentowemu.
 
-2. Przepisy ust. 1 stosuje się odpowiednio do innych płatników składek, z wyjątkiem zleceniodawców, osób fizycznych zatrudniających pracowników, niewypłacających świadczeń z ubezpieczenia chorobowego oraz płatników składek, którzy opłacają składkę za siebie i osoby współpracujące. wystawienia dokumentów (zaświadczeń) w celu udowodnienia okresów składkowych, o których mowa w art. 6 ust. 1 pkt 1, oraz okresów nieskładkowych, o których mowa w art. 7 pkt 1, z uwzględnieniem ust. 2 i 5.
+2. Przepisy ust. 1 stosuje się odpowiednio do innych płatników składek, z wyjątkiem zleceniodawców, osób fizycznych zatrudniających pracowników, niewypłacających świadczeń z ubezpieczenia chorobowego oraz płatników składek, którzy opłacają składkę za siebie i osoby współpracujące.
+
+**Art. 125a.**
+
+1. Płatnik składek jest zobowiązany, na żądanie organu rentowego, do wystawienia dokumentów (zaświadczeń) w celu udowodnienia okresów składkowych, o których mowa w art. 6 ust. 1 pkt 1, oraz okresów nieskładkowych, o których mowa w art. 7 pkt 1, z uwzględnieniem ust. 2 i 5.
 
 2. Płatnik składek jest zobowiązany do wystawienia dokumentów (zaświadczeń) w celu udowodnienia okresów pracy w szczególnych warunkach lub w szczególnym charakterze, okresów pracy górniczej oraz okresów pracy na kolei.
 
@@ -1527,7 +1782,9 @@ Art. 145–172. (pominięte)
 
 4b. Płatnik składek, który nie przekazał raportu informacyjnego za ubezpieczonego, o którym mowa w ust. 4a, z wyjątkiem ubezpieczonego zgłoszonego do ubezpieczeń po dniu 31 grudnia 2018 r., jest zobowiązany przechowywać listy płac, karty wynagrodzeń albo inne dowody, na podstawie których następuje ustalenie podstawy wymiaru emerytury lub renty, przez okres, o którym mowa w ust. 4.
 
-5. Od osoby opłacającej składki na własne ubezpieczenia społeczne organ rentowy może żądać przedłożenia dowodów potwierdzających opłacanie składek oraz wysokości podstawy wymiaru składek za okres przypadający po dniu 31 grudnia 1998 r. prawo jest uzależnione od stwierdzenia niezdolności do pracy, oraz osoba mająca ustalone prawo do takiego świadczenia jest zobowiązana, na żądanie organu rentowego, poddać się badaniom lekarskim oraz, na wniosek lekarza orzecznika lub na wniosek komisji lekarskiej, badaniom psychologicznym, jeżeli są one niezbędne do ustalenia prawa do świadczeń określonych ustawą.] <Osoba, która złożyła wniosek o przyznanie świadczenia, do którego prawo jest uzależnione od stwierdzenia niezdolności do pracy oraz do samodzielnej egzystencji, oraz osoba mająca ustalone prawo do takiego świadczenia jest obowiązana, na żądanie organu rentowego, poddać się badaniom lekarskim, badaniom psychologicznym lub badaniu przez osobę wykonującą samodzielny zawód medyczny, o której mowa w art. 4 pkt 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, jeżeli są one niezbędne do ustalenia prawa do świadczeń określonych ustawą.> Przepis art. 134 ust. 1 pkt 3 stosuje się odpowiednio.
+5. Od osoby opłacającej składki na własne ubezpieczenia społeczne organ rentowy może żądać przedłożenia dowodów potwierdzających opłacanie składek oraz wysokości podstawy wymiaru składek za okres przypadający po dniu 31 grudnia 1998 r.
+
+**Art. 126.** [Osoba, która złożyła wniosek o przyznanie świadczenia, do którego prawo jest uzależnione od stwierdzenia niezdolności do pracy, oraz osoba mająca ustalone prawo do takiego świadczenia jest zobowiązana, na żądanie organu rentowego, poddać się badaniom lekarskim oraz, na wniosek lekarza orzecznika lub na wniosek komisji lekarskiej, badaniom psychologicznym, jeżeli są one niezbędne do ustalenia prawa do świadczeń określonych ustawą.] <Osoba, która złożyła wniosek o przyznanie świadczenia, do którego prawo jest uzależnione od stwierdzenia niezdolności do pracy oraz do samodzielnej egzystencji, oraz osoba mająca ustalone prawo do takiego świadczenia jest obowiązana, na żądanie organu rentowego, poddać się badaniom lekarskim, badaniom psychologicznym lub badaniu przez osobę wykonującą samodzielny zawód medyczny, o której mowa w art. 4 pkt 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, jeżeli są one niezbędne do ustalenia prawa do świadczeń określonych ustawą.> Przepis art. 134 ust. 1 pkt 3 stosuje się odpowiednio.
 
 **Art. 127.**
 
@@ -1541,7 +1798,9 @@ Art. 145–172. (pominięte)
 
 1. Na żądanie organu rentowego emeryt lub rencista jest zobowiązany do potwierdzania własnoręcznym podpisem istnienia dalszego prawa do pobierania świadczeń określonych ustawą.
 
-2. W razie zaistnienia okoliczności uniemożliwiających lub utrudniających emerytowi lub renciście złożenie tego podpisu, istnienie dalszego prawa do pobierania świadczeń przez tego emeryta lub rencistę może potwierdzić własnoręcznym podpisem upoważniona osoba sprawująca faktyczną opiekę nad emerytem lub rencistą. nieodpłatnie właściwe organy administracji rządowej lub jednostek samorządu terytorialnego.
+2. W razie zaistnienia okoliczności uniemożliwiających lub utrudniających emerytowi lub renciście złożenie tego podpisu, istnienie dalszego prawa do pobierania świadczeń przez tego emeryta lub rencistę może potwierdzić własnoręcznym podpisem upoważniona osoba sprawująca faktyczną opiekę nad emerytem lub rencistą.
+
+3. Własnoręczność podpisu osób, o których mowa w ust. 1 i 2, potwierdzają nieodpłatnie właściwe organy administracji rządowej lub jednostek samorządu terytorialnego.
 
 4. Przepis ust. 3 nie narusza przepisów art. 96 ustawy – Prawo o notariacie.
 
@@ -1550,6 +1809,18 @@ Art. 145–172. (pominięte)
 6. Organ rentowy wypłacający świadczenia, o których mowa w art. 132, osobom zamieszkałym za granicą może potwierdzić istnienie dalszego prawa do pobierania świadczeń, o którym mowa w ust. 1, również poprzez wymianę informacji z właściwą zagraniczną instytucją administracji zabezpieczenia społecznego, w szczególności w formie elektronicznej.
 
 **Art. 128a.** Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia:
+
+- **1)** zakres obowiązków informacyjnych organów rentowych,
+- **2)** warunki i tryb wszczęcia postępowania w sprawach świadczeń,
+- **3)** sposób ustalania daty zgłoszenia wniosku o świadczenie lub o ustalenie jego wysokości, jeżeli wniosek nie został złożony w organie rentowym,
+- **4)** rodzaje dowodów uzasadniających prawo do świadczeń lub ich wysokość, w przypadku gdy konto ubezpieczonego nie zawiera tych danych,
+- **5)** zakres danych, które mogą być udowodnione w drodze zeznań świadków lub oświadczeń ubezpieczonych, wraz ze wskazaniem formy tych zeznań lub oświadczeń,
+- **6)** sposób obliczania świadczeń i okresów uwzględnianych przy ustalaniu świadczeń,
+- **7)** elementy, jakie powinna zawierać decyzja organu rentowego oraz jej uzasadnienie, a także zakres informacji, które powinny być zawarte w pouczeniu do tej decyzji,
+- **8)** formę prowadzenia akt sprawy i ich przechowywania oraz okres przechowywania akt sprawy prowadzonych w formie elektronicznej,
+- **9)** tryb postępowania oraz rodzaje dowodów niezbędnych do przyznania przez Prezesa Zakładu świadczeń w drodze wyjątku – uwzględniając konieczność zapewnienia sprawnego i terminowego ustalania prawa i wysokości świadczeń przewidzianych w ustawie.
+
+#### Rozdział 3 Ogólne zasady wypłaty świadczeń
 
 **Art. 129.**
 
@@ -1572,7 +1843,7 @@ Art. 145–172. (pominięte)
 
 2a. Przepis ust. 2 stosuje się odpowiednio do osób sprawujących opiekę prawną nad osobami uprawnionymi do emerytury lub renty z tytułu niezdolności do pracy oraz osób sprawujących opiekę nad osobami, o których mowa w art. 131 ust. 1.
 
-2b. Przepisu ust. 2 nie stosuje się w przypadku, gdy osoba sprawująca opiekę prawną nad osobami uprawnionymi do emerytury lub renty z tytułu niezdolności do odbywa karę pozbawienia wolności, karę aresztu wojskowego albo karę aresztu za wykroczenie lub jest tymczasowo aresztowana.
+2b. Przepisu ust. 2 nie stosuje się w przypadku, gdy osoba sprawująca opiekę prawną nad osobami uprawnionymi do emerytury lub renty z tytułu niezdolności do pracy oraz osoba sprawująca opiekę nad osobami, o których mowa w art. 131 ust. 1, odbywa karę pozbawienia wolności, karę aresztu wojskowego albo karę aresztu za wykroczenie lub jest tymczasowo aresztowana.
 
 2c. Zasiłek pogrzebowy wypłaca się w całości lub w części, zgodnie z wnioskiem, upoważnionemu przez osobę uprawnioną zakładowi pogrzebowemu, o którym mowa w art. 116 ust. 3a, w formie bezgotówkowej na wskazany w upoważnieniu rachunek płatniczy tego zakładu pogrzebowego prowadzony w kraju lub wydany w kraju zakładowi pogrzebowemu instrument płatniczy w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych.
 
@@ -1592,7 +1863,7 @@ Art. 145–172. (pominięte)
 1. Rentę rodzinną lub jej część, o której mowa w art. 74 ust. 2, przysługującą:
 
 - **1)** osobie małoletniej,
-- **2)** osobie pełnoletniej, nad którą ustanowiona została opieka prawna, o okolicznościach, o których mowa w art. 138 ust. 2 pkt 1, z zastrzeżeniem ust. 5 i 6.
+- **2)** osobie pełnoletniej, nad którą ustanowiona została opieka prawna, wypłaca się osobom sprawującym opiekę nad tymi osobami, po uprzednim pouczeniu o okolicznościach, o których mowa w art. 138 ust. 2 pkt 1, z zastrzeżeniem ust. 5 i 6.
 
 2. Część renty rodzinnej, przysługującą osobie pełnoletniej innej niż wymieniona w ust. 1 pkt 2, wypłaca się – na wniosek tej osoby – innej osobie pełnoletniej uprawnionej do części tej renty rodzinnej albo osobie, która sprawowała opiekę nad wnioskodawcą przed osiągnięciem pełnoletności, po uprzednim pouczeniu o okolicznościach, o których mowa w art. 138 ust. 2 pkt 1.
 
@@ -1612,7 +1883,9 @@ Art. 145–172. (pominięte)
 1. Emerytowi lub renciście, który mieszka za granicą, świadczenie wypłaca się w formie bezgotówkowej:
 
 - **1)** na wskazany przez niego jego rachunek płatniczy prowadzony w kraju lub wydany w kraju jego instrument płatniczy w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych albo
-- **2)** na jego wniosek, na wskazany przez niego rachunek płatniczy prowadzony w kraju lub wydany w kraju instrument płatniczy w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych osoby przez niego upoważnionej do odbioru świadczenia, zamieszkałej w kraju – chyba że umowy międzynarodowe stanowią inaczej. członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) lub w państwie, z którym Rzeczpospolitą Polską łączy umowa międzynarodowa w dziedzinie ubezpieczeń społecznych przewidująca transfer emerytur lub rent, przysługujące świadczenia wypłaca się w państwie zamieszkania, na rachunek bankowy tej osoby za granicą lub w innej formie wskazanej przez organ rentowy, w terminach, walucie i trybie ustalonych przez ten organ rentowy.
+- **2)** na jego wniosek, na wskazany przez niego rachunek płatniczy prowadzony w kraju lub wydany w kraju instrument płatniczy w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych osoby przez niego upoważnionej do odbioru świadczenia, zamieszkałej w kraju – chyba że umowy międzynarodowe stanowią inaczej.
+
+1a. Na wniosek emeryta lub rencisty zamieszkałego za granicą w państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) lub w państwie, z którym Rzeczpospolitą Polską łączy umowa międzynarodowa w dziedzinie ubezpieczeń społecznych przewidująca transfer emerytur lub rent, przysługujące świadczenia wypłaca się w państwie zamieszkania, na rachunek bankowy tej osoby za granicą lub w innej formie wskazanej przez organ rentowy, w terminach, walucie i trybie ustalonych przez ten organ rentowy.
 
 2. Do wypłaty świadczeń osobom uprawnionym do świadczeń przewidzianych przepisami o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, przepisami o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, przepisami o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, przepisami o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich oraz przepisami o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych, zamieszkałym za granicą, stosuje się zasady określone w tych przepisach.
 
@@ -1624,6 +1897,10 @@ Art. 145–172. (pominięte)
 - **2)** za okres 3 lat poprzedzających bezpośrednio miesiąc, o którym mowa w pkt 1, jeżeli odmowa lub przyznanie niższych świadczeń były następstwem błędu organu rentowego lub odwoławczego.
 
 2. Przepis ust. 1 stosuje się odpowiednio również w razie ponownego ustalenia prawa do świadczeń lub ich wysokości wskutek wznowienia postępowania przed organami odwoławczymi albo wskutek kasacji, z tym że za miesiąc zgłoszenia wniosku przyjmuje się miesiąc wniesienia wniosku o wznowienie postępowania lub o kasację.
+
+**Art. 134.**
+
+1. Wypłatę świadczeń wstrzymuje się, jeżeli:
 
 - **1)** powstaną okoliczności uzasadniające zawieszenie prawa do świadczeń lub ustanie tego prawa;
 - **2)** osoba pobierająca świadczenia mimo pouczenia lub żądania organu rentowego nie przedłoży dowodów stwierdzających dalsze istnienie prawa do świadczeń; [3) osoba uprawniona do świadczeń nie poddała się badaniu lekarskiemu lub psychologicznemu, bez uzasadnionych przyczyn, mimo wezwania organu rentowego;] <3) osoba uprawniona do świadczeń nie poddała się badaniu lekarskiemu, psychologicznemu lub badaniu przez osobę wykonującą samodzielny zawód medyczny, o której mowa w art. 4 pkt 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, bez uzasadnionych przyczyn, mimo wezwania organu rentowego;>
@@ -1644,7 +1921,7 @@ Art. 145–172. (pominięte)
 
 1. W razie ustania przyczyny powodującej wstrzymanie wypłaty świadczenia, wypłatę wznawia się od miesiąca ustania tej przyczyny, jednak nie wcześniej niż od miesiąca, w którym zgłoszono wniosek o wznowienie wypłaty lub wydano z urzędu decyzję o jej wznowieniu, z uwzględnieniem ust. 2.
 
-2. W przypadkach określonych w art. 134 ust. 1 pkt 5 wypłatę świadczenia wznawia się od miesiąca, w którym ją wstrzymano, jednak za okres nie dłuższy niż o wznowienie wypłaty.
+2. W przypadkach określonych w art. 134 ust. 1 pkt 5 wypłatę świadczenia wznawia się od miesiąca, w którym ją wstrzymano, jednak za okres nie dłuższy niż 3 lata poprzedzające bezpośrednio miesiąc, w którym zgłoszono wniosek o wznowienie wypłaty.
 
 3. Jeżeli wstrzymanie wypłaty świadczeń nastąpiło na skutek błędu organu rentowego, wypłatę wznawia się poczynając od miesiąca, w którym je wstrzymano, jednak za okres nie dłuższy niż 3 lata poprzedzające bezpośrednio miesiąc, w którym zgłoszono wniosek o wznowienie wypłaty lub wydano decyzję z urzędu o jej wznowieniu.
 
@@ -1664,7 +1941,7 @@ Art. 145–172. (pominięte)
 
 **Art. 136b.**
 
-1. Jeżeli z akt sprawy wynika konieczność ustanowienia dla osoby uprawnionej do emerytury lub renty opiekuna prawnego, do czasu jego ustanowienia świadczenia mogą być wypłacane osobie sprawującej faktyczną opiekę nad emerytem lub rencistą, po uprzednim pouczeniu o konieczności poinformowania organu rentowego o zajściu okoliczności powodujących ustanie lub zawieszenie prawa do świadczenia albo wstrzymanie wypłaty świadczenia w całości lub w części oraz nienależnie.
+1. Jeżeli z akt sprawy wynika konieczność ustanowienia dla osoby uprawnionej do emerytury lub renty opiekuna prawnego, do czasu jego ustanowienia świadczenia mogą być wypłacane osobie sprawującej faktyczną opiekę nad emerytem lub rencistą, po uprzednim pouczeniu o konieczności poinformowania organu rentowego o zajściu okoliczności powodujących ustanie lub zawieszenie prawa do świadczenia albo wstrzymanie wypłaty świadczenia w całości lub w części oraz o obowiązku zwrotu świadczenia przez tę osobę, w przypadku gdy zostało pobrane nienależnie.
 
 2. Świadczenie jest wypłacane osobie sprawującej faktyczną opiekę nad emerytem lub rencistą na podstawie oświadczenia o sprawowaniu tej opieki, potwierdzonego przez organ, który z racji wykonywanych zadań posiada informacje dotyczące sprawowania tej opieki.
 
@@ -1687,7 +1964,7 @@ Art. 145–172. (pominięte)
 
 4. Nie można żądać zwrotu kwot nienależnie pobranych świadczeń za okres dłuższy niż 12 miesięcy, jeżeli osoba pobierająca świadczenia zawiadomiła organ rentowy o zajściu okoliczności powodujących ustanie lub zawieszenie prawa do świadczeń albo wstrzymanie wypłaty świadczeń w całości lub w części, a mimo to świadczenia były jej nadal wypłacane, w pozostałych zaś wypadkach – za okres dłuższy niż 3 lata, z zastrzeżeniem ust. 5.
 
-5. Kwoty nienależnie pobranych świadczeń w związku z osiągnięciem przychodów, o których mowa w art. 104 ust. 1, podlegają zwrotowi za okres nie dłuższy niż 1 rok kalendarzowy poprzedzający rok, w którym wydano decyzję rentowy o osiągnięciu przychodu, w pozostałych zaś przypadkach – za okres nie dłuższy niż 3 lata kalendarzowe poprzedzające rok wydania tej decyzji.
+5. Kwoty nienależnie pobranych świadczeń w związku z osiągnięciem przychodów, o których mowa w art. 104 ust. 1, podlegają zwrotowi za okres nie dłuższy niż 1 rok kalendarzowy poprzedzający rok, w którym wydano decyzję o rozliczeniu świadczenia, jeżeli osoba pobierająca to świadczenie powiadomiła organ rentowy o osiągnięciu przychodu, w pozostałych zaś przypadkach – za okres nie dłuższy niż 3 lata kalendarzowe poprzedzające rok wydania tej decyzji.
 
 6. Organ rentowy może odstąpić od żądania zwrotu kwot nienależnie pobranych świadczeń w całości lub w części, zmniejszyć wysokość potrąceń, ustaloną zgodnie z art. 140 ust. 4 pkt 1, lub zawiesić dokonywanie tych potrąceń na okres nie dłuższy niż 12 miesięcy, jeżeli zachodzą szczególnie uzasadnione okoliczności.
 
@@ -1704,14 +1981,14 @@ Art. 145–172. (pominięte)
     - **c)** zaopatrzenia określonego w odrębnych przepisach;
 
 - **2a)** kwoty nienależnie pobranych świadczeń uzupełniających dla osób niezdolnych do samodzielnej egzystencji;
-- **2b)** kwoty nienależnie pobranych świadczeń postojowych otrzymane na podstawie przepisów ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2025 r. poz. 764);
+- **2b)** kwoty nienależnie pobranych świadczeń postojowych otrzymane na podstawie przepisów ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2025 r. poz. 764);
 - **2c)** nieopłacone należności z tytułu składek, o których mowa w art. 24 ust. 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, do których poboru jest obowiązany Zakład;
 - **2d)** kwoty nienależnie pobranych świadczeń wychowawczych i świadczeń dobry start;
 - **2e)** kwoty nienależnie pobranego świadczenia honorowego z tytułu ukończenia 100 lat życia, o którym mowa w ustawie z dnia 18 października 2024 r. o świadczeniu honorowym z tytułu ukończenia 100 lat życia;
 - **3)** sumy egzekwowane na mocy tytułów wykonawczych na zaspokojenie: należności alimentacyjnych, należności z tytułu świadczeń z funduszu alimentacyjnego wypłaconych osobie uprawnionej na podstawie ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2025 r. poz. 438 i 620), należności likwidatora funduszu alimentacyjnego powstałych z tytułu świadczeń alimentacyjnych wypłaconych na podstawie ustawy z dnia 18 lipca 1974 r. o funduszu alimentacyjnym (Dz. U. z 1991 r. poz. 200, z późn. zm. ) oraz należności z tytułu wypłaconej zaliczki alimentacyjnej wypłaconych osobie uprawnionej na podstawie ustawy z dnia 22 kwietnia 2005 r. o postępowaniu wobec dłużników alimentacyjnych oraz zaliczce alimentacyjnej (Dz. U. poz. 732 i 1366, z 2007 r. poz. 1378, z 2008 r. poz. 770 oraz z 2009 r. poz. 1261);
 - **4)** należności alimentacyjne potrącane na wniosek wierzyciela na podstawie przedłożonego przez niego tytułu wykonawczego;
 - **5)** sumy egzekwowane na mocy tytułów wykonawczych na pokrycie należności innych niż należności, o których mowa w pkt 3;
-- **6)** kwoty nienależnie pobranych zasiłków rodzinnych lub pielęgnacyjnych, świadczeń rodzinnych oraz zasiłków dla opiekunów w razie braku możliwości potrącenia z wypłacanych zasiłków rodzinnych, pielęgnacyjnych, świadczeń rodzinnych oraz zasiłków dla opiekunów, wraz z odsetkami za zwłokę w ich przyznano dodatek pielęgnacyjny;
+- **6)** kwoty nienależnie pobranych zasiłków rodzinnych lub pielęgnacyjnych, świadczeń rodzinnych oraz zasiłków dla opiekunów w razie braku możliwości potrącenia z wypłacanych zasiłków rodzinnych, pielęgnacyjnych, świadczeń rodzinnych oraz zasiłków dla opiekunów, wraz z odsetkami za zwłokę w ich spłacie, a także kwoty zasiłku pielęgnacyjnego wypłaconego za okres, za który przyznano dodatek pielęgnacyjny;
 - **6a)** kwoty nienależnie pobranego dodatku weterana poszkodowanego;
 - **6b)** kwoty nienależnie pobranych świadczeń wyrównawczych otrzymane na podstawie przepisów ustawy z dnia 29 października 2021 r. o świadczeniu wyrównawczym dla osób uprawnionych do wcześniejszej emerytury z tytułu opieki nad dziećmi wymagającymi stałej opieki (Dz. U. poz. 2314);
 - **7)** kwoty nienależnie pobranych świadczeń z funduszu alimentacyjnego;
@@ -1725,7 +2002,11 @@ Art. 145–172. (pominięte)
 
 3. Potrącenia należności wymienionych w ust. 1 dokonuje się w kolejności podanej w tym przepisie.
 
-4. Przy dokonywaniu potrąceń, o których mowa w ust. 1 pkt 4, potrąca się w pierwszej kolejności alimenty zaległe za okres wskazany w tytule wykonawczym, pod warunkiem uzyskania od wierzyciela oświadczenia, że nie zostały w inny sposób uiszczone przez dłużnika. z zastrzeżeniem art. 141, w następujących granicach:
+4. Przy dokonywaniu potrąceń, o których mowa w ust. 1 pkt 4, potrąca się w pierwszej kolejności alimenty zaległe za okres wskazany w tytule wykonawczym, pod warunkiem uzyskania od wierzyciela oświadczenia, że nie zostały w inny sposób uiszczone przez dłużnika.
+
+**Art. 140.**
+
+1. Potrącenia, o których mowa w art. 139, mogą być dokonywane, z zastrzeżeniem art. 141, w następujących granicach:
 
 - **1)** świadczeń alimentacyjnych, o których mowa w art. 139 ust. 1 pkt 3 – do wysokości 60 % świadczenia;
 - **2)** należności egzekwowanych związanych z:
@@ -1740,7 +2021,9 @@ Art. 145–172. (pominięte)
 - **1)** administracyjnej i sądowej albo egzekucji administracyjnych, gdy zajęte kwoty nie wystarczają na pokrycie egzekwowanych należności pieniężnych – organ rentowy uiszcza je, z uwzględnieniem pkt 2, na rzecz właściwego organu egzekucyjnego wskazanego w przepisach ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132, 620 i 1302) lub ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. W razie powzięcia informacji o sporze co do właściwości organu egzekucyjnego w zakresie dalszego łącznego prowadzenia egzekucji, kwoty potrącone ze świadczenia pozostają w depozycie Zakładu do czasu rozstrzygnięcia sporu o właściwość. Kwoty te uiszczane są w najbliższym możliwym technicznie terminie płatności po uzyskaniu informacji pochodzącej od organu właściwego do dalszego łącznego prowadzenia egzekucji;
 - **2)** sądowych, gdy zajęte kwoty nie wystarczają na pokrycie egzekwowanych należności pieniężnych – organ rentowy przekazuje potrącone kwoty po uzyskaniu postanowienia, o którym mowa w art. 763 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, wskazującego komornika sądowego właściwego do dalszego prowadzenia egzekucji. Do czasu uzyskania postanowienia, o którym mowa w art. 763 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, kwoty te pozostają w depozycie Zakładu. Kwoty te uiszczane są w najbliższym możliwym technicznie terminie płatności po uzyskaniu tego postanowienia.
 
-2a. Przepisy ust. 2 stosuje się odpowiednio w przypadku potrącania sum, o których mowa w art. 139 ust. 1 pkt 5. z potrąceniem należności alimentacyjnych, o których mowa w art. 139 ust. 1 pkt 4, gdy łączna wysokość kwot możliwych do egzekucji i potrącenia nie wystarcza na pokrycie należności pieniężnych, organ rentowy realizuje egzekucję sum, o których mowa w art. 139 ust. 1 pkt 3, oraz wstrzymuje potrącanie należności alimentacyjnych, o których mowa w art. 139 ust. 1 pkt 4, w całości lub w części, o czym zawiadamia wierzyciela. Zwrot tytułu wykonawczego, o którym mowa w art. 139 ust. 1 pkt 4, następuje na wniosek wierzyciela.
+2a. Przepisy ust. 2 stosuje się odpowiednio w przypadku potrącania sum, o których mowa w art. 139 ust. 1 pkt 5.
+
+3. W przypadku zbiegu egzekucji sum, o których mowa w art. 139 ust. 1 pkt 3, z potrąceniem należności alimentacyjnych, o których mowa w art. 139 ust. 1 pkt 4, gdy łączna wysokość kwot możliwych do egzekucji i potrącenia nie wystarcza na pokrycie należności pieniężnych, organ rentowy realizuje egzekucję sum, o których mowa w art. 139 ust. 1 pkt 3, oraz wstrzymuje potrącanie należności alimentacyjnych, o których mowa w art. 139 ust. 1 pkt 4, w całości lub w części, o czym zawiadamia wierzyciela. Zwrot tytułu wykonawczego, o którym mowa w art. 139 ust. 1 pkt 4, następuje na wniosek wierzyciela.
 
 4. Potrącenia, z zastrzeżeniem art. 141, nie mogą przekraczać:
 
@@ -1758,7 +2041,9 @@ Art. 145–172. (pominięte)
     - **c)** 25 % świadczenia, jeżeli podlegają potrąceniu wyłącznie należności egzekwowane, o których mowa w ust. 1 pkt 3;
 
 - **2)** potrąceń sum egzekwowanych, o których mowa w art. 139 ust. 1 pkt 3 i 5, z potrąceniami innych należności, o których mowa w art. 139 ust. 1 pkt 1–2d, 4 i 6–9 – stosuje się odpowiednio przepis pkt 1 lit. a i b;
-- **3)** potrąceń, o których mowa w ust. 4 pkt 1 i 2 – stosuje się odpowiednio przepis pkt 1 lit. a i b. z potrąceniami, o których mowa w art. 139 ust. 1 pkt 1–9, potrącenia nie mogą przekraczać łącznie 70 % świadczenia.
+- **3)** potrąceń, o których mowa w ust. 4 pkt 1 i 2 – stosuje się odpowiednio przepis pkt 1 lit. a i b.
+
+6a. W przypadku zbiegu potrąceń, o których mowa w art. 139 ust. 1 pkt 10, z potrąceniami, o których mowa w art. 139 ust. 1 pkt 1–9, potrącenia nie mogą przekraczać łącznie 70 % świadczenia.
 
 7. Wysokość części świadczenia podlegającego egzekucjom, o których mowa w ust. 1, oraz wysokość potrąceń, o których mowa w ust. 4, a także wysokość części świadczenia podlegającego potrąceniom, o których mowa w ust. 6 i 6a, oraz ustaloną orzeczeniem sądu, ugodą sądową lub aktem notarialnym procentową wysokość potrąceń ze świadczeń z tytułu należności alimentacyjnych bez wskazania sposobu ich naliczania, ustala się od kwoty świadczenia przed odliczeniem miesięcznej zaliczki na podatek dochodowy od osób fizycznych oraz składki na ubezpieczenie zdrowotne.
 
@@ -1778,7 +2063,9 @@ Art. 145–172. (pominięte)
 
 1a. Kwoty, o których mowa w ust. 1, podlegają corocznej waloryzacji od dnia 1 marca na zasadach określonych dla emerytur i rent.
 
-1b. Jeżeli po odliczeniu składki na ubezpieczenie zdrowotne oraz zaliczki i innych należności z tytułu podatku dochodowego od osób fizycznych wysokość świadczenia jest niższa niż kwota świadczenia wolna od potrąceń i egzekucji, o której mowa w ust. 1, potrąceń i egzekucji nie dokonuje się. za granicą, wolne od potrąceń i egzekucji, ustala się proporcjonalnie do wypłacanego świadczenia.
+1b. Jeżeli po odliczeniu składki na ubezpieczenie zdrowotne oraz zaliczki i innych należności z tytułu podatku dochodowego od osób fizycznych wysokość świadczenia jest niższa niż kwota świadczenia wolna od potrąceń i egzekucji, o której mowa w ust. 1, potrąceń i egzekucji nie dokonuje się.
+
+2. Kwoty emerytur i rent przyznanych z uwzględnieniem okresów ubezpieczenia za granicą, wolne od potrąceń i egzekucji, ustala się proporcjonalnie do wypłacanego świadczenia.
 
 3. Kwoty wolne od potrąceń i egzekucji ustala się dla emerytur i rent wraz ze wszystkimi wzrostami i zwiększeniami, dodatkami oraz innymi świadczeniami wypłacanymi wraz z emeryturą lub rentą na podstawie odrębnych przepisów, z wyłączeniem świadczeń rodzinnych oraz dodatku dla sierot zupełnych, dodatku pielęgnacyjnego, dodatku weterana poszkodowanego i dodatku pieniężnego do renty inwalidzkiej.
 
@@ -1790,7 +2077,9 @@ Art. 145–172. (pominięte)
 
 **Art. 142.** W zakresie nieuregulowanym w art. 139–141 do egzekucji ze świadczeń pieniężnych stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego albo przepisy o postępowaniu egzekucyjnym w administracji.
 
-**Art. 143.** W razie przyznania lub podwyższenia świadczeń za okres wsteczny organ rentowy ma prawo potrącić na zaspokojenie należności, o których mowa w art. 139 ust. 1 pkt 1–2d, 4 i 6–10, kwotę wyrównania należną do miesiąca poprzedzającego miesiąc, w którym wydano decyzję ustalającą prawo do świadczeń lub decyzję ustalającą prawo do świadczeń w podwyższonej wysokości. za pobyt osób uprawnionych do świadczeń w placówkach, o których mowa w art. 139 ust. 1 pkt 10, należności z tego tytułu przekazane za okres po dniu śmierci świadczeniobiorcy podlegają zwrotowi przez właściwą placówkę albo organ nadrzędny w stosunku do tej placówki. Przepis art. 134 ust. 1 pkt 3 stosuje się odpowiednio.
+**Art. 143.** W razie przyznania lub podwyższenia świadczeń za okres wsteczny organ rentowy ma prawo potrącić na zaspokojenie należności, o których mowa w art. 139 ust. 1 pkt 1–2d, 4 i 6–10, kwotę wyrównania należną do miesiąca poprzedzającego miesiąc, w którym wydano decyzję ustalającą prawo do świadczeń lub decyzję ustalającą prawo do świadczeń w podwyższonej wysokości.
+
+**Art. 143a.** W przypadku dokonywania potrąceń należności z tytułu odpłatności za pobyt osób uprawnionych do świadczeń w placówkach, o których mowa w art. 139 ust. 1 pkt 10, należności z tego tytułu przekazane za okres po dniu śmierci świadczeniobiorcy podlegają zwrotowi przez właściwą placówkę albo organ nadrzędny w stosunku do tej placówki. Przepis art. 134 ust. 1 pkt 3 stosuje się odpowiednio.
 
 **Art. 144.**
 
@@ -1811,7 +2100,7 @@ Art. 145–172. (pominięte)
 
 1. Dla ubezpieczonych urodzonych po dniu 31 grudnia 1948 r., którzy przed dniem wejścia w życie ustawy opłacali składki na ubezpieczenie społeczne lub za których składki opłacali płatnicy składek, ustala się kapitał początkowy.
 
-1a. Kapitał początkowy ustala się także dla zwolnionych ze służby: żołnierzy zawodowych i funkcjonariuszy Policji, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Państwa, Państwowej Straży Pożarnej oraz Służby Więziennej, urodzonych po dniu 31 grudnia 1948 r., jeżeli przed dniem 1 stycznia 1999 r. pozostawali oni w służbie i nie mają ustalonego prawa do świadczeń określonych w przepisach o zaopatrzeniu emerytalnym tych osób.
+1a. Kapitał początkowy ustala się także dla zwolnionych ze służby: żołnierzy zawodowych i funkcjonariuszy Policji, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Państwowej Straży Pożarnej oraz Służby Więziennej, urodzonych po dniu 31 grudnia 1948 r., jeżeli przed dniem 1 stycznia 1999 r. pozostawali oni w służbie i nie mają ustalonego prawa do świadczeń określonych w przepisach o zaopatrzeniu emerytalnym tych osób.
 
 1b. Przepis ust. 1a stosuje się również do funkcjonariuszy, o których mowa w ust. 1a, którzy po zwolnieniu ze służby nabyli prawo do policyjnego zaopatrzenia emerytalnego, a następnie utracili to prawo w związku ze skazaniem prawomocnym wyrokiem sądu za przestępstwo umyślne lub przestępstwo skarbowe umyślne, ścigane z oskarżenia publicznego, popełnione w związku z wykonywaniem czynności służbowych i w celu osiągnięcia korzyści majątkowej lub osobistej, albo za przestępstwo określone w art. 258 Kodeksu karnego lub wobec którego orzeczono prawomocnie środek karny pozbawienia praw publicznych za przestępstwo lub przestępstwo skarbowe popełnione przed zwolnieniem ze służby.
 
@@ -1835,6 +2124,7 @@ Art. 145–172. (pominięte)
 
 2. Przy ustalaniu kapitału początkowego przyjmuje się przebyte przed dniem wejścia w życie ustawy:
 
+- **1)** okresy składkowe, o których mowa w art. 6;
 - **2)** okresy nieskładkowe, o których mowa w art. 7 pkt 5;
 - **3)** okresy nieskładkowe, o których mowa w art. 7 pkt 1–3 i 6–12, w wymiarze nie większym niż określony w art. 5 ust. 2.
 
@@ -1850,7 +2140,9 @@ Art. 145–172. (pominięte)
 
 5. Jeżeli z powodu niemożności ustalenia podstawy wymiaru renty jej wysokość została ustalona w kwocie najniższej renty, do ustalenia podstawy wymiaru kapitału początkowego przyjmuje się najniższe wynagrodzenie pracowników obowiązujące w okresie przyjętym do obliczenia podstawy wymiaru renty.
 
-6. Przepisy ust. 5 stosuje się odpowiednio do ustalenia kapitału początkowego osób uznanych za repatriantów. 100 % przeciętnego miesięcznego wynagrodzenia w II kwartale kalendarzowym 1998 r.
+6. Przepisy ust. 5 stosuje się odpowiednio do ustalenia kapitału początkowego osób uznanych za repatriantów.
+
+7. Do obliczenia kapitału początkowego przyjmuje się kwotę bazową wynoszącą 100 % przeciętnego miesięcznego wynagrodzenia w II kwartale kalendarzowym 1998 r.
 
 8. Przy obliczaniu kapitału początkowego część kwoty bazowej wynoszącej 24 % tej kwoty mnoży się przez współczynnik proporcjonalny do wieku ubezpieczonego oraz okresu składkowego i nieskładkowego osiągniętego do dnia 31 grudnia 1998 r. Współczynnik ten oblicza się według następującego wzoru: gdzie: „p” – oznacza współczynnik; wiek ubezpieczonego – oznacza wiek w dniu 31 grudnia 1998 r.; wiek emerytalny – oznacza 60 – dla kobiet i 65 – dla mężczyzn; staż ubezpieczeniowy – oznacza udowodniony okres składkowy i nieskładkowy; wymagany staż – oznacza 20 – dla kobiet i 25 – dla mężczyzn; z zastrzeżeniem ust. 12.
 
@@ -1871,7 +2163,7 @@ Art. 145–172. (pominięte)
 
 **Art. 175.**
 
-1. Ubezpieczeni oraz płatnicy składek zobowiązani są do przekazywania Zakładowi, w terminie i trybie ustalonym przez organ rentowy, 31 grudnia 2006 r. Przepisy art. 115 ust. 1–3, art. 116 ust. 5, art. 117, 121, 122 ust. 1, art. 123, 124 i 125 stosuje się odpowiednio.
+1. Ubezpieczeni oraz płatnicy składek zobowiązani są do przekazywania Zakładowi, w terminie i trybie ustalonym przez organ rentowy, dokumentacji umożliwiającej ustalenie kapitału początkowego nie później niż do dnia 31 grudnia 2006 r. Przepisy art. 115 ust. 1–3, art. 116 ust. 5, art. 117, 121, 122 ust. 1, art. 123, 124 i 125 stosuje się odpowiednio.
 
 1a. Płatnicy składek są zobowiązani do skompletowania dokumentacji umożliwiającej ustalenie kapitału początkowego dla ubezpieczonych, za których przekazują do Zakładu imienne raporty miesięczne, a następnie przekazania tej dokumentacji na żądanie organu rentowego i w terminie wyznaczonym przez ten organ.
 
@@ -1889,7 +2181,7 @@ Art. 145–172. (pominięte)
 
 **Art. 178.** W okresie od dnia 1 stycznia 1999 r. do dnia 31 maja 1999 r. do przychodu, o którym mowa w art. 104 ust. 8, nie wlicza się płaconej przez ubezpieczonego składki z tytułu ubezpieczenia emerytalnego, rentowego i chorobowego.
 
-**Art. 179.** Od 1 stycznia 1999 r. emerytury i renty przyznane od uposażeń osiągniętych przed tą datą na podstawie przepisów o zaopatrzeniu emerytalnym osób, 104,3 %.
+**Art. 179.** Od 1 stycznia 1999 r. emerytury i renty przyznane od uposażeń osiągniętych przed tą datą na podstawie przepisów o zaopatrzeniu emerytalnym osób, o których mowa w art. 1 ust. 2, podlegają dodatkowej waloryzacji wskaźnikiem 104,3 %.
 
 **Art. 180.**
 
@@ -1911,13 +2203,17 @@ Art. 145–172. (pominięte)
 
 7. W razie złożenia wniosku o ponowne ustalenie wysokości świadczenia:
 
-- **1)** przez doliczenie nieuwzględnionych dotychczas w wymiarze świadczenia okresów składkowych lub nieskładkowych stosuje się art. 112 i 113; podstawę wymiaru świadczenia, stosuje się odpowiednio art. 110 lub art. 111.
+- **1)** przez doliczenie nieuwzględnionych dotychczas w wymiarze świadczenia okresów składkowych lub nieskładkowych stosuje się art. 112 i 113;
+- **2)** przez zmianę okresu, z którego podstawę wymiaru składki przyjmuje się jako podstawę wymiaru świadczenia, stosuje się odpowiednio art. 110 lub art. 111.
 
 8. Do ustalenia wysokości świadczeń dla osób wymienionych w ust. 1 pkt 1, które zgłoszą wniosek o zastosowanie przeliczników do okresów pracy górniczej, stosuje się odpowiednio przepisy art. 51 lub 52.
 
 9. W razie przyznania emerytury osobie, która wcześniej miała ustalone prawo do renty z tytułu niezdolności do pracy, przyjmuje się wszystkie okresy uwzględnione w decyzji o przyznaniu renty z tytułu niezdolności do pracy lub o ponownym ustaleniu jej wysokości.
 
 **Art. 181.** Prawo do górniczej renty rodzinnej ustalonej na podstawie przepisów ustawy, o której mowa w art. 195 pkt 6, zachowuje wdowa, która zawarła ponownie związek małżeński przed dniem wejścia w życie niniejszej ustawy, jeżeli:
+
+- **1)** wychowuje co najmniej jedno z dzieci, wnuków lub rodzeństwa, uprawnione do renty rodzinnej po zmarłym mężu;
+- **2)** po dniu wejścia w życie niniejszej ustawy osiągnie wiek 50 lat życia albo stanie się niezdolna do pracy, jeżeli nie wychowuje co najmniej jednego z dzieci, wnuków lub rodzeństwa, uprawnionych do renty rodzinnej po zmarłym mężu.
 
 **Art. 182.** Ubezpieczeni urodzeni po dniu 31 grudnia 1948 r., do których nie stosuje się art. 46–47, 50, 50a oraz 50e, zgłaszają wnioski o emeryturę bezpośrednio w organie rentowym.
 
@@ -1931,7 +2227,10 @@ Art. 145–172. (pominięte)
 2. Emerytura przyznana na wniosek osoby ubezpieczonej, o której mowa w ust. 1, która osiągnęła wiek uprawniający do emerytury w roku kalendarzowym 2010, wynosi:
 
 - **1)** 70 % emerytury obliczonej na podstawie art. 53 oraz
-- **2)** 30 % emerytury obliczonej na podstawie art. 26. w ust. 1, która osiągnęła wiek uprawniający do emerytury w roku kalendarzowym 2011, wynosi:
+- **2)** 30 % emerytury obliczonej na podstawie art. 26.
+
+3. Emerytura przyznana na wniosek osoby ubezpieczonej, o której mowa w ust. 1, która osiągnęła wiek uprawniający do emerytury w roku kalendarzowym 2011, wynosi:
+
 - **1)** 55 % emerytury obliczonej na podstawie art. 53 oraz
 - **2)** 45 % emerytury obliczonej na podstawie art. 26.
 
@@ -1958,7 +2257,7 @@ Art. 145–172. (pominięte)
 
 2. Emerytura, o której mowa w ust. 1, przysługuje pod warunkiem nieprzystąpienia do otwartego funduszu emerytalnego albo złożenia wniosku o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym, za pośrednictwem Zakładu, na dochody budżetu państwa.
 
-3. Przy ustalaniu podstawy obliczenia emerytury ubezpieczonego, który złożył wniosek o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym na dochody budżetu państwa, składki na ubezpieczenie emerytalne, wskaźnikiem korygującym 19,52/12,22, stanowiącym stosunek pełnej wysokości składki na ubezpieczenie emerytalne do wysokości zaewidencjonowanej na koncie ubezpieczonego w Zakładzie.
+3. Przy ustalaniu podstawy obliczenia emerytury ubezpieczonego, który złożył wniosek o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym na dochody budżetu państwa, składki na ubezpieczenie emerytalne, zaewidencjonowane na jego koncie w Zakładzie, zwiększa się przez pomnożenie wskaźnikiem korygującym 19,52/12,22, stanowiącym stosunek pełnej wysokości składki na ubezpieczenie emerytalne do wysokości zaewidencjonowanej na koncie ubezpieczonego w Zakładzie.
 
 **Art. 185.**
 
@@ -1982,7 +2281,9 @@ Art. 145–172. (pominięte)
 2. Przepisy ustawy stosuje się do wniosków o świadczenia zgłoszonych:
 
 - **1)** począwszy od dnia wejścia w życie ustawy;
-- **2)** przed dniem wejścia w życie ustawy, jeżeli choćby jeden z warunków do uzyskania prawa do świadczenia został spełniony, poczynając od tego dnia. dnia wejścia w życie ustawy nie zgłosiły wniosku o emeryturę, mimo że spełniły warunki do nabycia prawa do tego świadczenia – stosuje się przepisy ustaw i dekretu wymienionych w art. 195 dotyczące warunków nabycia prawa do emerytury, chyba że przepisy ustawy są dla tych osób korzystniejsze.
+- **2)** przed dniem wejścia w życie ustawy, jeżeli choćby jeden z warunków do uzyskania prawa do świadczenia został spełniony, poczynając od tego dnia.
+
+3. Do wniosków osób urodzonych przed dniem 1 stycznia 1949 r., które do dnia wejścia w życie ustawy nie zgłosiły wniosku o emeryturę, mimo że spełniły warunki do nabycia prawa do tego świadczenia – stosuje się przepisy ustaw i dekretu wymienionych w art. 195 dotyczące warunków nabycia prawa do emerytury, chyba że przepisy ustawy są dla tych osób korzystniejsze.
 
 4. Prawo do emerytury określonej w art. 28 ust. 3 ustawy, o której mowa w art. 166 , w brzmieniu obowiązującym do dnia wejścia w życie niniejszej ustawy, zachowuje poseł lub senator, który do dnia 31 grudnia 1997 r. spełnił warunki wymagane do jej przyznania.
 
@@ -1994,7 +2295,9 @@ Art. 145–172. (pominięte)
 
 **Art. 190.**
 
-1. Członków rodziny emeryta lub rencisty, odbywającego karę pozbawienia wolności na mocy orzeczenia sądu, którym wypłacano przysługujące emerytowi lub renciście świadczenia w całości lub w części, uznaje się począwszy od dnia wejścia w życie ustawy za osoby, o których mowa w art. 130 ust. 3 pkt 2, bez konieczności ich wskazania przez osobę uprawnioną do świadczeń. pouczeniu o okolicznościach, o których mowa w art. 138 ust. 2 pkt 1.
+1. Członków rodziny emeryta lub rencisty, odbywającego karę pozbawienia wolności na mocy orzeczenia sądu, którym wypłacano przysługujące emerytowi lub renciście świadczenia w całości lub w części, uznaje się począwszy od dnia wejścia w życie ustawy za osoby, o których mowa w art. 130 ust. 3 pkt 2, bez konieczności ich wskazania przez osobę uprawnioną do świadczeń.
+
+2. Osobom tym wypłaca się świadczenia określone ustawą, po uprzednim pouczeniu o okolicznościach, o których mowa w art. 138 ust. 2 pkt 1.
 
 3. W razie wydania orzeczenia uniewinniającego lub umarzającego postępowanie emerytowi lub renciście wypłaca się, za cały okres pozbawienia wolności przypadający przed dniem wejścia w życie ustawy, część świadczenia, której wypłata była wstrzymana na podstawie art. 85 ust. 1 lub 4 ustawy wymienionej w art. 195 pkt 5.
 
@@ -2012,7 +2315,9 @@ Art. 145–172. (pominięte)
 
 1. Zasiłek chorobowy, do którego prawo określone w przepisach wymienionych w art. 147 , 149 , 154 , art. 195 pkt 2 i 3 powstało przed dniem wejścia w życie ustawy, wypłaca się w wysokości i na zasadach określonych w przepisach dotychczasowych za cały okres nieprzerwanej niezdolności do pracy z powodu choroby.
 
-2. Przepis ust. 1 stosuje się do zasiłku wyrównawczego, macierzyńskiego, opiekuńczego i świadczenia rehabilitacyjnego. pobierania zasiłku chorobowego ustalonego według dotychczasowych przepisów ustala się z uwzględnieniem podstawy wymiaru zasiłku chorobowego ustalonej według dotychczasowych zasad.
+2. Przepis ust. 1 stosuje się do zasiłku wyrównawczego, macierzyńskiego, opiekuńczego i świadczenia rehabilitacyjnego.
+
+3. Wysokość świadczenia rehabilitacyjnego przyznanego po zakończeniu pobierania zasiłku chorobowego ustalonego według dotychczasowych przepisów ustala się z uwzględnieniem podstawy wymiaru zasiłku chorobowego ustalonej według dotychczasowych zasad.
 
 **Art. 194.** Do czasu wydania przepisów wykonawczych przewidzianych w ustawie pozostają w mocy przepisy wykonawcze wydane na podstawie ustaw i dekretu wymienionych w art. 195, jeżeli nie są sprzeczne z przepisami niniejszej ustawy.
 
@@ -2033,7 +2338,11 @@ Art. 145–172. (pominięte)
 
 6. Przeliczona emerytura i renta podlega podwyższeniu w ramach waloryzacji przypadających do dnia, od którego przysługuje prawo do świadczenia w przeliczonej wysokości, a jeżeli wypłata była wstrzymana – z uwzględnieniem waloryzacji przypadających w okresie do dnia jej wznowienia.
 
-7. Emerytury i renty przelicza się z urzędu, a jeżeli wypłata świadczenia jest wstrzymana – po jej wznowieniu. niż kwota najniższej emerytury lub renty przysługuje jednorazowa wypłata w wysokości:
+7. Emerytury i renty przelicza się z urzędu, a jeżeli wypłata świadczenia jest wstrzymana – po jej wznowieniu.
+
+**Art. 194b.**
+
+1. Osobom pobierającym świadczenia ustalone w kwocie nie wyższej niż kwota najniższej emerytury lub renty przysługuje jednorazowa wypłata w wysokości:
 
 - **1)** 100 zł – dla osób pobierających emeryturę, rentę z tytułu całkowitej niezdolności do pracy lub rentę rodzinną;
 - **2)** 75 zł – dla osób pobierających rentę z tytułu częściowej niezdolności do pracy.
@@ -2058,7 +2367,9 @@ Art. 145–172. (pominięte)
 
 4. Do ustalenia wysokości emerytury przyjmuje się wiek ubezpieczonego w dniu zgłoszenia wniosku o ponowne ustalenie wysokości emerytury.
 
-5. Jeżeli wniosek o ponowne ustalenie wysokości emerytury złożył członek otwartego funduszu emerytalnego, przepis art. 108 ust. 2a stosuje się odpowiednio. wystąpi emeryt, któremu przyznano emeryturę na podstawie art. 24 ust. 1 i obliczono jej wysokość zgodnie z art. 183 ust. 1 lub 2, wysokość emerytury ustala się na nowo zgodnie z art. 183 ust. 1 lub 2 – z tym, że podstawę obliczenia emerytury w części ustalonej zgodnie z art. 26, z uwzględnieniem zasad określonych w art. 194e ust. 3, pomniejsza się w proporcji do części emerytury obliczonej zgodnie z art. 183 ust. 1 pkt 2 lub ust. 2 pkt 2.
+5. Jeżeli wniosek o ponowne ustalenie wysokości emerytury złożył członek otwartego funduszu emerytalnego, przepis art. 108 ust. 2a stosuje się odpowiednio.
+
+**Art. 194f.** Jeżeli z wnioskiem o ponowne ustalenie wysokości emerytury wystąpi emeryt, któremu przyznano emeryturę na podstawie art. 24 ust. 1 i obliczono jej wysokość zgodnie z art. 183 ust. 1 lub 2, wysokość emerytury ustala się na nowo zgodnie z art. 183 ust. 1 lub 2 – z tym, że podstawę obliczenia emerytury w części ustalonej zgodnie z art. 26, z uwzględnieniem zasad określonych w art. 194e ust. 3, pomniejsza się w proporcji do części emerytury obliczonej zgodnie z art. 183 ust. 1 pkt 2 lub ust. 2 pkt 2.
 
 **Art. 194g.** Przepisy art. 194e stosuje się do emerytur obliczonych zgodnie z art. 55.
 
@@ -2080,7 +2391,7 @@ Art. 145–172. (pominięte)
 
 3. Do ustalenia nowej kwoty emerytury przyjmuje się średnie dalsze trwanie życia przyjęte w decyzji o ustaleniu prawa do emerytury, a następnie uwzględnia się kolejne zmiany wysokości świadczenia.
 
-4. Emerytura w ponownie ustalonej wysokości przysługuje od dnia, od którego podjęto wypłatę emerytury przyznanej na podstawie art. 24, a w przypadku gdy prawo wypłata.
+4. Emerytura w ponownie ustalonej wysokości przysługuje od dnia, od którego podjęto wypłatę emerytury przyznanej na podstawie art. 24, a w przypadku gdy prawo do tej emerytury było zawieszone – od dnia, od którego mogłaby być podjęta jej wypłata.
 
 5. Jeżeli ponownie ustalona wysokość emerytury przyznanej na podstawie art. 24 jest wyższa od wypłacanej dotychczas, emerytowi wypłaca się wyrównanie. Kwotę wyrównania stanowi różnica między sumą kwot emerytur, jakie przysługiwałyby w okresie od dnia, o którym mowa w ust. 4, do dnia wydania decyzji, o której mowa w ust. 1, z uwzględnieniem ich waloryzacji, a sumą kwot wypłaconych w tym okresie.
 
@@ -2089,6 +2400,18 @@ Art. 145–172. (pominięte)
 #### Rozdział 3 Przepisy końcowe i uchylające
 
 **Art. 195.** Tracą moc:
+
+- **1)** art. 2 pkt 1 lit. a i e, art. 3, art. 4 ust. 1 pkt 3 i ust. 6, art. 6 pkt 1, art. 7 ust. 1, ust. 2 pkt 3 i ust. 3, art. 9, art. 10, art. 11, art. 12, art. 13, art. 17, art. 18, art. 19 pkt 1 i art. 20 ustawy z dnia 27 września 1973 r. o zaopatrzeniu emerytalnym twórców i ich rodzin (Dz. U. z 1983 r. poz. 145, z późn. zm. );
+- **2)** art. 6 ust. 1 pkt 4 i 7, ust. 2 pkt 3, art. 15–18, art. 24, art. 33 ust. 1–3 i art. 41 ustawy z dnia 19 grudnia 1975 r. o ubezpieczeniu społecznym osób wykonujących pracę na podstawie umowy agencyjnej lub umowy zlecenia (Dz. U. z 1995 r. poz. 333 i 617, z 1996 r. poz. 461, z 1997 r. poz. 153 oraz z 1998 r. poz. 887);
+- **3)** art. 1, 2, 3 pkt 3, 5 i 9, ust. 2 pkt 3 i ust. 3, art. 13–16, art. 18–20, art. 22, art. 25, art. 26, art. 28 dekretu z dnia 4 marca 1976 r. o ubezpieczeniu społecznym członków rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych oraz ich rodzin (Dz. U. z 1983 r. poz. 135, z 1989 r. poz. 190, z 1990 r. poz. 206, z 1995 r. poz. 17, z 1996 r. poz. 461 oraz z 1997 r. poz. 153);
+- **4)** art. 5 pkt 4 i 7, art. 9, art. 11 ust. 1 pkt 3 i ust. 2, art. 12, art. 15 ust. 2 i 3, art. 16, art. 17, art. 21, art. 29, art. 31 ustawy z dnia 18 grudnia 1976 r. o ubezpieczeniu społecznym osób prowadzących działalność gospodarczą oraz ich rodzin (Dz. U. z 1989 r. poz. 250, z późn. zm. );
+- **5)** ustawa z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. poz. 267, z późn. zm. );
+- **6)** ustawa z dnia 1 lutego 1983 r. o zaopatrzeniu emerytalnym górników i ich rodzin (Dz. U. z 1995 r. poz. 154, z 1997 r. poz. 153 oraz z 1998 r. poz. 473);
+- **7)** ustawa z dnia 28 kwietnia 1983 r. o zaopatrzeniu emerytalnym pracowników kolejowych i ich rodzin (Dz. U. poz. 99, z 1985 r. poz. 85, z 1990 r. poz. 206, z 1997 r. poz. 272 oraz z 1998 r. poz. 431);
+- **8)** art. 7 ust. 1 pkt 4 i 7, ust. 2 pkt 3, art. 11, art. 12 pkt 3, art. 17, 21, 22, 24, 25, 33, 34, 36 i 37 ustawy z dnia 17 maja 1989 r. o ubezpieczeniu społecznym duchownych (Dz. U. poz. 156, z późn. zm. );
+- **9)** ustawa z dnia 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw (Dz. U. poz. 450, z późn. zm. );
+- **10)** art. 2–4 ustawy z dnia 30 czerwca 1994 r. o zmianie ustawy o zaopatrzeniu emerytalnym górników i ich rodzin oraz o zmianie niektórych innych ustaw (Dz. U. poz. 385 oraz z 1997 r. poz. 164);
+- **11)** ustawa z dnia 25 października 1996 r. o waloryzacji emerytur i rent oraz o zmianie niektórych ustaw (Dz. U. poz. 636).
 
 **Art. 196.** Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z tym że art. 182 wchodzi w życie z dniem 1 stycznia 2004 r.
 

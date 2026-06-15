@@ -8,7 +8,7 @@ pos: 104
 act_type: Ustawa
 status: akt objęty tekstem jednolitym
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy - Kodeks postępowania karnego
@@ -35,7 +35,7 @@ source: "isap-pdf"
 
 § 4. Na postanowienia, o których mowa w § 2 i 3, przysługuje zażalenie. Sąd rozpoznaje zażalenie niezwłocznie.”.
 
-**Art. 2.** Z dniem wejścia w życie ustawy tracą moc postanowienia o poddaniu oskarżonego badaniu psychiatrycznemu połączonemu z obserwacją w zakładzie leczniczym albo o przedłużeniu takiego badania, wydane na podstawie art. 203 § 3 ustawy, o której okres obserwacji ponad 8 tygodni.
+**Art. 2.** Z dniem wejścia w życie ustawy tracą moc postanowienia o poddaniu oskarżonego badaniu psychiatrycznemu połączonemu z obserwacją w zakładzie leczniczym albo o przedłużeniu takiego badania, wydane na podstawie art. 203 § 3 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, w zakresie zarządzającym łączny okres obserwacji ponad 8 tygodni.
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

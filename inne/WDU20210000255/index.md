@@ -35,31 +35,30 @@ Art. 51–66. (pominięte)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
-- **1)** infrastruktura krytyczna – infrastrukturę, o której mowa w art. 3 pkt 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222 i 1473);
-- **2)** klęska żywiołowa – zdarzenia, o których mowa w art. 3 ust. 1 ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897);
+- **1)** infrastruktura krytyczna – infrastrukturę, o której mowa w art. 3 pkt 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2026 r. poz.
+- **574)** ;
+- **2)** klęska żywiołowa – zdarzenia, o których mowa w art. 3 ust. 1 ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2025 r. poz. 112);
 - **3)** specjalistyczny asortyment techniczny rezerw strategicznych – stanowiące część rezerw strategicznych materiały, maszyny, urządzenia i konstrukcje umożliwiające sprawne odtwarzanie uszkodzonych lub zniszczonych elementów infrastruktury, których wykorzystanie może ograniczyć skutki zaistniałej katastrofy naturalnej lub awarii technicznej;
 - **4)** specjalistyczny asortyment medyczny rezerw strategicznych – stanowiące część rezerw strategicznych maszyny, urządzenia i inne przedmioty wykorzystywane do celów związanych z ochroną zdrowia;
 - **5)** sytuacja kryzysowa – sytuację, o której mowa w art. 3 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym;
 - **6)** wymiana rezerw strategicznych – cykliczne zastępowanie określonej ilości danego asortymentu rezerw strategicznych o upływającym terminie ważności, przydatności do spożycia lub używania tym samym asortymentem i w tej samej ilości, posiadającym wymagane cechy lub właściwości;
 - **7)** zamiana rezerw strategicznych – zastępowanie asortymentu rezerw strategicznych innym asortymentem w ramach jednej grupy rodzajowej, równoważnym pod względem ilości, jakości i zastosowania lub właściwości;
-- **8)** ustawa o finansach publicznych – ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. );
-- **9)** ustawa – Kodeks cywilny – ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237);
-- **10)** ustawa – Prawo restrukturyzacyjne – ustawę z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428);
-- **11)** ustawa – Prawo upadłościowe – ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2024 r. poz. 794 i 1222);
-- **12)** ustawa o zapasach ropy naftowej, produktów naftowych i gazu ziemnego – ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2024 r. poz. 1281);
+- **8)** ustawa o finansach publicznych – ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426, 635 i 680);
+- **9)** ustawa – Kodeks cywilny – ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184 i 507);
+- **10)** ustawa – Prawo restrukturyzacyjne – ustawę z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2026 r. poz. 533);
+- **11)** ustawa – Prawo upadłościowe – ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172 oraz z 2026 r. poz. 331 i 340);
+- **12)** ustawa o zapasach ropy naftowej, produktów naftowych i gazu ziemnego – ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2026 r. poz. 599);
 - **13)** ustawa o zarządzaniu kryzysowym – ustawę z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym.
 
 **Art. 3.** Rezerwy strategiczne tworzy się na wypadek zagrożenia bezpieczeństwa i obronności państwa, bezpieczeństwa, porządku i zdrowia publicznego oraz wystąpienia klęski żywiołowej lub sytuacji kryzysowej, w celach wsparcia wykonywania zadań w zakresie bezpieczeństwa i obronności państwa, ochrony ludności i obrony cywilnej, odtworzenia infrastruktury krytycznej, złagodzenia zakłóceń w ciągłości dostaw służących funkcjonowaniu gospodarki i zaspokojeniu podstawowych potrzeb obywateli, ratowania ich życia i zdrowia, realizacji interesów narodowych Rzeczypospolitej Polskiej w dziedzinie bezpieczeństwa narodowego, wypełnienia jej zobowiązań międzynarodowych, a także udzielania pomocy i wsparcia podmiotom prawa międzynarodowego publicznego.
 
-**Art. 4.** Rezerwy strategiczne mogą stanowić surowce, materiały, urządzenia, maszyny, konstrukcje, elementy infrastruktury krytycznej, moc produkcyjna, moc usługowa, zwierzęta gospodarskie, produkty naftowe, produkty rolne i rolno-spożywcze, środki spożywcze i ich składniki, wyroby medyczne, produkty lecznicze, produkty lecznicze weterynaryjne oraz substancje czynne w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz.
-
-- **686)** , materiały wybuchowe, broń, amunicja oraz ich istotne części, ładunki miotające oraz wyroby i technologie o przeznaczeniu wojskowym lub policyjnym w rozumieniu ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), produkty biobójcze, a także inne produkty – niezbędne do realizacji celów, o których mowa w art. 3.
+**Art. 4.** Rezerwy strategiczne mogą stanowić surowce, materiały, urządzenia, maszyny, konstrukcje, elementy infrastruktury krytycznej, moc produkcyjna, moc usługowa, zwierzęta gospodarskie, produkty naftowe, produkty rolne i rolno-spożywcze, środki spożywcze i ich składniki, wyroby medyczne, produkty lecznicze, produkty lecznicze weterynaryjne oraz substancje czynne w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2026 r. poz. 612), materiały wybuchowe, broń, amunicja oraz ich istotne części, ładunki miotające oraz wyroby i technologie o przeznaczeniu wojskowym lub policyjnym w rozumieniu ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743 oraz z 2026 r. poz. 471 i 646), produkty biobójcze, a także inne produkty – niezbędne do realizacji celów, o których mowa w art. 3.
 
 **Art. 5.** Rezerwy strategiczne stanowią wyodrębniony majątek Skarbu Państwa, z zastrzeżeniem art. 6.
 
 **Art. 6.** W przypadkach uzasadnionych rachunkiem ekonomicznym lub szczególnymi względami technologicznymi lub organizacyjnymi dopuszcza się utrzymywanie rezerw strategicznych w postaci asortymentu powierzonego organom administracji publicznej albo stanowiącego własność przedsiębiorców lub podmiotów niebędących przedsiębiorcami, w magazynach będących w ich dyspozycji.
 
-**Art. 7.** Do decyzji wydawanych przez ministra właściwego do spraw wewnętrznych w zakresie rezerw strategicznych oraz organy i podmioty, o których mowa w art. 8 ust. 2, w przypadku, o którym mowa w art. 29, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+**Art. 7.** Do decyzji wydawanych przez ministra właściwego do spraw wewnętrznych w zakresie rezerw strategicznych oraz organy i podmioty, o których mowa w art. 8 ust. 2, w przypadku, o którym mowa w art. 29, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
 #### Rozdział 2 Zasady opracowywania Rządowego Programu Rezerw Strategicznych i finansowania rezerw strategicznych
 
@@ -217,10 +216,10 @@ Art. 51–66. (pominięte)
 
 1. Agencja może oddać dany asortyment rezerw strategicznych na przechowanie, za wynagrodzeniem, na podstawie umowy przechowania zawartej z:
 
-- **1)** przedsiębiorcą:
+- **1)** przedsiębiorcą: o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, zapewniającym przechowanie tego asortymentu zgodnie z warunkami określonymi w art. 33 ust. 1–3a tej ustawy oraz przepisami wydanymi na podstawie art. 33 ust. 4 tej ustawy,
     - **a)** wykonującym działalność gospodarczą w zakresie produkcji, handlu lub magazynowania danego asortymentu,
     - **b)** dysponującym odpowiednią bazą magazynową,
-    - **c)** gwarantującym właściwą jakość przechowywanego asortymentu rezerw strategicznych w okresie jego przechowywania, a w przypadku materiałów wybuchowych, broni, amunicji oraz ich istotnych części, ładunków miotających oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym w rozumieniu ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, zapewniającym przechowanie tego asortymentu zgodnie z warunkami określonymi w art. 33 ust. 1–3a tej ustawy oraz przepisami wydanymi na podstawie art. 33 ust. 4 tej ustawy,
+    - **c)** gwarantującym właściwą jakość przechowywanego asortymentu rezerw strategicznych w okresie jego przechowywania, a w przypadku materiałów wybuchowych, broni, amunicji oraz ich istotnych części, ładunków miotających oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym w rozumieniu ustawy z dnia 13 czerwca 2019 r.
     - **d)** posiadającym odpowiednie zezwolenia, koncesje lub licencje na przechowywanie danego asortymentu, wymagane na podstawie odrębnych ustaw;
 
 - **2)** organem administracji publicznej lub podmiotem niebędącym przedsiębiorcą, spełniającymi warunki, o których mowa w pkt 1 lit. b–d.
@@ -398,7 +397,7 @@ Art. 51–66. (pominięte)
 
 6. Wykonując decyzję o likwidacji rezerw strategicznych, Agencja:
 
-- **1)** dokonuje sprzedaży przeznaczonych do likwidacji rezerw strategicznych na giełdzie towarowej w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2024 r. poz. 910) lub innej giełdzie towarowej albo w drodze przetargu lub aukcji w rozumieniu ustawy – Kodeks cywilny, w tym w szczególności:
+- **1)** dokonuje sprzedaży przeznaczonych do likwidacji rezerw strategicznych na giełdzie towarowej w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2025 r. poz. 1119 oraz z 2026 r. poz. 176 i 516) lub innej giełdzie towarowej albo w drodze przetargu lub aukcji w rozumieniu ustawy – Kodeks cywilny, w tym w szczególności:
     - **a)** sporządza wykaz likwidowanych rezerw strategicznych, określając nazwę, ilość oraz cenę każdego asortymentu rezerw strategicznych przeznaczonego do sprzedaży, skalkulowaną według jego wartości rynkowej,
     - **b)** przekazuje do publicznej wiadomości wykaz, o którym mowa w lit. a, zamieszczając ogłoszenie w Biuletynie Informacji Publicznej Agencji,
     - **c)** dokonuje wyboru najkorzystniejszej ekonomicznie oferty kupna likwidowanych rezerw strategicznych i przedstawia projekt umowy sprzedaży,
@@ -450,7 +449,7 @@ Art. 51–66. (pominięte)
 
 **Art. 28a.**
 
-1. Minister właściwy do spraw wewnętrznych może utworzyć, w drodze decyzji, rezerwy strategiczne surowców i materiałów nieobjęte Programem, niezbędne do zabezpieczenia zadań określonych w Planie zabezpieczenia potrzeb Sił Zbrojnych realizowanych przez przedsiębiorców, o którym mowa w art. 651 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222 i 1248).
+1. Minister właściwy do spraw wewnętrznych może utworzyć, w drodze decyzji, rezerwy strategiczne surowców i materiałów nieobjęte Programem, niezbędne do zabezpieczenia zadań określonych w Planie zabezpieczenia potrzeb Sił Zbrojnych realizowanych przez przedsiębiorców, o którym mowa w art. 651 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26, 426 i 635).
 
 2. Do decyzji o utworzeniu rezerw strategicznych, o których mowa w ust. 1, stosuje się przepis art. 13 ust. 2.
 
@@ -548,12 +547,12 @@ Art. 51–66. (pominięte)
 1. Do zadań Agencji należy:
 
 - **1)** utrzymywanie rezerw strategicznych, w tym ich przechowywanie, dokonywanie wymiany lub zamiany oraz przeprowadzanie konserwacji przechowywanych rezerw strategicznych;
-- **2)** wykonywanie decyzji ministra właściwego do spraw wewnętrznych dotyczących tworzenia, udostępniania i likwidacji rezerw strategicznych, zgodnie z zasadami określonymi w rozdziałach 3–5a, przez: z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029),
+- **2)** wykonywanie decyzji ministra właściwego do spraw wewnętrznych dotyczących tworzenia, udostępniania i likwidacji rezerw strategicznych, zgodnie z zasadami określonymi w rozdziałach 3–5a, przez:
     - **a)** nabywanie określonych ilości asortymentu rezerw strategicznych,
     - **b)** organizowanie wydawania udostępnionych rezerw strategicznych,
     - **c)** zapewnienie przetworzenia rezerw strategicznych utrzymywanych w postaci surowców i półproduktów przed ich wydaniem,
     - **d)** sprzedaż zlikwidowanych rezerw strategicznych albo nieodpłatne przekazanie niesprzedanych rezerw strategicznych jednostkom, o których mowa w art. 21 ust. 3, lub podmiotom, których cele statutowe uzasadniają decyzję o nieodpłatnym przekazaniu,
-    - **e)** poddanie zlikwidowanych rezerw odzyskowi lub przekazanie ich do unieszkodliwienia, zgodnie z zasadami gospodarowania odpadami określonymi w ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U.
+    - **e)** poddanie zlikwidowanych rezerw odzyskowi lub przekazanie ich do unieszkodliwienia, zgodnie z zasadami gospodarowania odpadami określonymi w ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, z późn. zm. ),
     - **f)** zawieranie i wykonywanie umów, o których mowa w art. 16–18;
 
 - **3)** wykonywanie decyzji organów lub podmiotów, o których mowa w art. 8 ust. 2, dotyczących zakupu, magazynowania i wydawania określonych asortymentów towarów zgodnie z zasadami określonymi w rozdziale 6;
@@ -568,9 +567,7 @@ Art. 51–66. (pominięte)
 - **12)** sporządzanie planów, informacji, procedur i sprawozdań oraz innych dokumentów w zakresie określonym w ustawie lub w innych ustawach;
 - **13)** wykonywanie innych zadań określonych w odrębnych ustawach lub w Programie.
 
-2. Do czynności realizowanych przez Agencję w ramach zadań, o których mowa w ust. 1 pkt 6, nie stosuje się przepisów art. 38–41 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125 i
-
-- **834)** .
+2. Do czynności realizowanych przez Agencję w ramach zadań, o których mowa w ust. 1 pkt 6, nie stosuje się przepisów art. 38–41 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2026 r. poz. 373).
 
 **Art. 32.**
 
@@ -616,8 +613,7 @@ Art. 51–66. (pominięte)
 - **6)** posiada co najmniej 10-letni staż pracy, w tym co najmniej 5-letni staż pracy na stanowisku kierowniczym;
 - **7)** posiada wiedzę z zakresu spraw należących do właściwości Agencji;
 - **8)** posiada poświadczenie bezpieczeństwa dostępu do informacji niejawnych oznaczonych klauzulą „tajne” albo złoży oświadczenie w sprawie poddania się postępowaniu sprawdzającemu w związku z dostępem do informacji niejawnych;
-- **9)** nie pełniła służby zawodowej ani nie pracowała w organach bezpieczeństwa państwa wymienionych w art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 273 i
-- **834)** , ani nie była ich współpracownikiem.
+- **9)** nie pełniła służby zawodowej ani nie pracowała w organach bezpieczeństwa państwa wymienionych w art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2025 r. poz. 1519), ani nie była ich współpracownikiem.
 
 2. Informację o naborze na stanowisko Prezesa Agencji ogłasza się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie Agencji oraz w Biuletynie Informacji Publicznej Agencji i Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw wewnętrznych. Ogłoszenie powinno zawierać:
 
@@ -696,7 +692,7 @@ Art. 51–66. (pominięte)
 
 - **1)** na stanowisku zastępcy dyrektora biura lub na stanowisku równorzędnym,
 - **2)** na stanowisku kierownika działu lub na stanowisku równorzędnym,
-- **3)** na stanowisku kierownika składnicy lub na stanowisku równorzędnym – podlegają ograniczeniom w prowadzeniu działalności gospodarczej, takim jak pracownicy agencji państwowych, o których mowa w art. 2 pkt 10 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2023 r. poz. 1090).
+- **3)** na stanowisku kierownika składnicy lub na stanowisku równorzędnym – podlegają ograniczeniom w prowadzeniu działalności gospodarczej, takim jak pracownicy agencji państwowych, o których mowa w art. 2 pkt 10 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2025 r. poz. 499 oraz z 2026 r. poz. 160 i 177).
 
 2. Pracownicy Agencji zatrudnieni:
 
@@ -877,7 +873,7 @@ Art. 51–66. (pominięte)
 - **1)** wejścia na teren nieruchomości, do obiektów i pomieszczeń kontrolowanego podmiotu;
 - **2)** żądania ustnych i pisemnych wyjaśnień;
 - **3)** żądania wglądu do dokumentów i innych nośników informacji zawierających dane dotyczące przechowywanych rezerw strategicznych;
-- **4)** sporządzania odpisów oraz kopii dokumentów, z zastrzeżeniem przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222);
+- **4)** sporządzania odpisów oraz kopii dokumentów, z zastrzeżeniem przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209);
 - **5)** zabezpieczenia kontrolowanej dokumentacji;
 - **6)** wykonywania innych czynności niezbędnych do prawidłowego przeprowadzenia kontroli.
 

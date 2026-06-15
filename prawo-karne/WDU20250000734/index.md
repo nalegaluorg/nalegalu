@@ -8,7 +8,7 @@ pos: 734
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Kodeks wykroczeń
@@ -318,7 +318,9 @@ source: "isap-pdf"
 
 § 2. Nadzwyczajne złagodzenie polega na wymierzeniu kary poniżej dolnej granicy ustawowego zagrożenia albo kary łagodniejszego rodzaju.
 
-§ 3. (uchylony) § 4. W razie odstąpienia od wymierzenia kary można zastosować do sprawcy środek oddziaływania społecznego, mający na celu przywrócenie naruszonego porządku prawnego lub naprawienie wyrządzonej krzywdy, polegający zwłaszcza na przeproszeniu pokrzywdzonego, uroczystym zapewnieniu niepopełniania więcej takiego czynu albo zobowiązania sprawcy do przywrócenia stanu poprzedniego.
+§ 3. (uchylony)
+
+§ 4. W razie odstąpienia od wymierzenia kary można zastosować do sprawcy środek oddziaływania społecznego, mający na celu przywrócenie naruszonego porządku prawnego lub naprawienie wyrządzonej krzywdy, polegający zwłaszcza na przeproszeniu pokrzywdzonego, uroczystym zapewnieniu niepopełniania więcej takiego czynu albo zobowiązania sprawcy do przywrócenia stanu poprzedniego.
 
 #### Rozdział III Zastosowanie środków oddziaływania wychowawczego
 
@@ -427,7 +429,9 @@ source: "isap-pdf"
 
 § 1. Kto krzykiem, hałasem, alarmem lub innym wybrykiem zakłóca spokój, porządek publiczny, spoczynek nocny albo wywołuje zgorszenie w miejscu publicznym, podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-§ 2. Jeżeli czyn określony w § 1 ma charakter chuligański lub sprawca dopuszcza się go, będąc pod wpływem alkoholu, środka odurzającego lub innej podobnie działającej substancji lub środka, podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 złotych § 2a. Tej samej karze podlega, kto dopuszcza się czynu określonego w § 1 w zakładzie leczniczym w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211) lub w trakcie akcji medycznej w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91 i 637), lub w siedzibie organu administracji rządowej, innego organu państwowego lub samorządu terytorialnego.
+§ 2. Jeżeli czyn określony w § 1 ma charakter chuligański lub sprawca dopuszcza się go, będąc pod wpływem alkoholu, środka odurzającego lub innej podobnie działającej substancji lub środka, podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 złotych
+
+§ 2a. Tej samej karze podlega, kto dopuszcza się czynu określonego w § 1 w zakładzie leczniczym w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211) lub w trakcie akcji medycznej w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91 i 637), lub w siedzibie organu administracji rządowej, innego organu państwowego lub samorządu terytorialnego.
 
 § 3. Podżeganie i pomocnictwo są karalne.
 
@@ -524,7 +528,11 @@ source: "isap-pdf"
 - **4)** świadczy usługi hotelarskie wbrew decyzji nakazującej wstrzymanie ich świadczenia,
 - **5)** nie zawiadamia organu prowadzącego rejestr organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych o zawieszeniu wykonywania działalności w terminie 7 dni od dnia tego zawieszenia – podlega karze ograniczenia wolności albo grzywny.
 
-§ 5. (uchylony) § 6. (uchylony) § 7. (uchylony)
+§ 5. (uchylony)
+
+§ 6. (uchylony)
+
+§ 7. (uchylony)
 
 **Art. 60².** (uchylony)
 
@@ -548,7 +556,9 @@ source: "isap-pdf"
 
 § 1. Kto bez złożenia pisemnego wniosku o dokonanie wpisu do rejestru przedsiębiorców telekomunikacyjnych wykonuje działalność telekomunikacyjną, podlega karze aresztu, ograniczenia wolności lub grzywny.
 
-§ 2. (uchylony) § 3. Kto wprowadza do obrotu urządzenia radiowe i telekomunikacyjne urządzenia końcowe podlegające obowiązkowej ocenie zgodności z zasadniczymi wymaganiami, nieposiadające wymaganego znaku zgodności, podlega karze grzywny.
+§ 2. (uchylony)
+
+§ 3. Kto wprowadza do obrotu urządzenia radiowe i telekomunikacyjne urządzenia końcowe podlegające obowiązkowej ocenie zgodności z zasadniczymi wymaganiami, nieposiadające wymaganego znaku zgodności, podlega karze grzywny.
 
 § 4. (uchylony)
 
@@ -1177,7 +1187,9 @@ source: "isap-pdf"
 
 **Art. 137.**
 
-§ 1. (uchylony) § 2. Kierownik punktu sprzedaży detalicznej lub zakładu gastronomicznego, który nie ma faktur albo innych dowodów dostawy lub przyjęcia na towary przechowywane w punkcie sprzedaży detalicznej lub zakładzie gastronomicznym, podlega karze aresztu albo grzywny.
+§ 1. (uchylony)
+
+§ 2. Kierownik punktu sprzedaży detalicznej lub zakładu gastronomicznego, który nie ma faktur albo innych dowodów dostawy lub przyjęcia na towary przechowywane w punkcie sprzedaży detalicznej lub zakładzie gastronomicznym, podlega karze aresztu albo grzywny.
 
 **Art. 138.**
 

@@ -92,7 +92,8 @@ Intensywność pomocy można zwiększyć o 20 punktów procentowych w przypadku 
 § 15. Podmiotem udzielającym pomocy publicznej lub pomocy de minimis jest Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej.
 § 16. Pomoc publiczna i pomoc de minimis jest udzielana w formie dotacji.
 § 17. Pomoc publiczna lub pomoc de minimis może być udzielona, pod warunkiem że przedsiębiorca złożył wniosek o objęcie przedsięwzięcia wsparciem z planu rozwojowego, zwany dalej „wnioskiem”.
-§ 18. 1. Przedsiębiorca składa wniosek do podmiotu udzielającego pomocy publicznej lub pomocy de minimis, o którym mowa w § 15.
+§ 18. 1. Przedsiębiorca składa wniosek do podmiotu udzielającego pomocy publicznej lub pomocy de minimis, o którym
+§ 15.
 2. Wniosek zawiera:
 1) nazwę przedsiębiorcy i informację o jego wielkości;
 2) opis przedsięwzięcia, w tym daty jego rozpoczęcia i zakończenia;

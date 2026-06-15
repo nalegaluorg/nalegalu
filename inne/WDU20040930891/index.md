@@ -8,7 +8,7 @@ pos: 891
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o ochronie konkurencji i konsumentów oraz o zmianie niektórych innych ustaw
@@ -28,6 +28,77 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040930891) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/891/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów (Dz.U. z 2003 r. Nr 86, poz. 804 i Nr 170, poz. 1652) wprowadza się następujące zmiany:
+
+- **1)** w art. 4:
+    - **a)** w pkt 3 lit. c otrzymuje brzmienie: „c) członkowie jego zarządu lub rady nadzorczej stanowią więcej niż połowę członków zarządu innego przedsiębiorcy (przedsiębiorcy zależnego), lub”,
+    - **b)** pkt 11 otrzymuje brzmienie: „11) „konsumencie” - rozumie się przez to konsumenta w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz.U. Nr 16, poz. 93, z późn. zm. ),”,
+    - **c)** pkt 12 otrzymuje brzmienie: „12)„organizacjach konsumenckich” - rozumie się przez to niezależne od przedsiębiorców i ich związków organizacje społeczne, do których zadań statutowych należy ochrona interesów konsumentów; organizacje konsumenckie mogą prowadzić działalność gospodarczą na zasadach ogólnych, o ile dochód z działalności służy wyłącznie realizacji celów statutowych;”,
+    - **d)** pkt 14 otrzymuje brzmienie: „14) „grupie kapitałowej” - rozumie się przez to wszystkich przedsiębiorców, którzy są kontrolowani w sposób bezpośredni lub pośredni przez jednego przedsiębiorcę, w tym również tego przedsiębiorcę;”,
+    - **e)** w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17-19 w brzmieniu: „17) „tajemnicy przedsiębiorstwa” - rozumie się przez to tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz.U. z 2003 r. Nr 153, poz. 1503);
+
+- **18)** „rozporządzeniu nr 1/2003/WE” - rozumie się przez to rozporządzenie Rady nr 1/2003/WE z dnia 16 grudnia 2002 r. w sprawie wprowadzenia w życie przepisów o konkurencji ustanowionych w art. 81 i art. 82 Traktatu (Dz.Urz. WE L 1 z
+
+4. 01.2003);
+
+- **19)** „rozporządzeniu nr 139/2004/WE” - rozumie się przez to rozporządzenie nr 139/2004/WE z dnia 20 stycznia 2004 r. w sprawie kontroli koncentracji przedsiębiorców (Dz. Urz. UE L 024 z
+
+29. 01.2004, str. 1 i n.).”;
+
+- **2)** w art. 5 w ust. 1 pkt 7 otrzymuje brzmienie: „7)uzgadnianiu przez przedsiębiorców przystępujących do przetargu lub przez tych przedsiębiorców i przedsiębiorcę będącego organizatorem przetargu warunków składanych ofert, w szczególności zakresu prac lub ceny;”;
+- **3)** w art. 6 ust. 2 otrzymuje brzmienie: „2. Wyłączeń, o których mowa w ust. 1, nie stosuje się do przypadków określonych w art. 5 ust. 1 pkt 1-3 i pkt 7.”;
+- **4)** w art. 8 w ust. 2 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8)podziale rynku według kryteriów terytorialnych, asortymentowych lub podmiotowych.”;
+- **5)** w art. 11 dodaje się ust. 3 w brzmieniu: „3. Ciężar udowodnienia okoliczności, o których mowa w ust. 2, spoczywa na przedsiębiorcy lub związku przedsiębiorców.”;
+- **6)** po art. 11 dodaje się art. 11a w brzmieniu: „Art. 11a. 1. Jeżeli w toku postępowania antymonopolowego zostanie uprawdopodobnione - na podstawie okoliczności sprawy, informacji zawartych we wniosku lub będących podstawą wszczęcia postępowania z urzędu - że został naruszony zakaz, o którym mowa w art. 5 lub art. 8, a przedsiębiorca lub związek przedsiębiorców, któremu jest zarzucane naruszenie tego zakazu, zobowiąże się do podjęcia lub zaniechania określonych działań zmierzających do zapobieżenia tym naruszeniom, Prezes Urzędu może, w drodze decyzji, zobowiązać przedsiębiorcę lub związek przedsiębiorców do wykonania tych zobowiązań.
+
+2. W decyzji, o której mowa w ust. 1, Prezes Urzędu może określić termin wykonania zobowiązań.
+
+3. W decyzji, o której mowa w ust. 1, Prezes Urzędu nakłada na przedsiębiorcę lub związek przedsiębiorców obowiązek składania w wyznaczonym terminie informacji o stopniu realizacji zobowiązań.
+
+4. W przypadku wydania decyzji, o której mowa w ust. 1, nie stosuje się art. 9-11 oraz art. 101 ust. 1 pkt 1 i pkt 2, z zastrzeżeniem ust.
+
+7.
+
+5. Prezes Urzędu może, z urzędu, uchylić decyzję, o której mowa w ust. 1, w przypadku gdy:
+
+- **1)** została ona wydana w oparciu o nieprawdziwe, niekompletne lub wprowadzające w błąd informacje lub dokumenty;
+- **2)** przedsiębiorca lub związek przedsiębiorców nie wykonuje zobowiązań i obowiązków nałożonych w decyzji, o której mowa w ust. 1-3.
+
+6. Prezes Urzędu może, za zgodą przedsiębiorcy lub związku przedsiębiorców, z urzędu, uchylić decyzję, o której mowa w ust. 1, w przypadku gdy nastąpiła zmiana okoliczności mających istotny wpływ na wydanie decyzji.
+
+7. W przypadku uchylenia decyzji Prezes Urzędu orzeka co do istoty sprawy.”;
+
+- **7)** w art. 13:
+    - **a)** uchyla się pkt 2,
+    - **b)** pkt 5 otrzymuje brzmienie: „5) następującej w toku postępowania upadłościowego, z wyłączeniem przypadków, gdy zamierzający przejąć kontrolę jest konkurentem albo należy do grupy kapitałowej, do której należą konkurenci przedsiębiorcy przejmowanego;”;
+
+- **8)** po art. 13 dodaje się art. 13a w brzmieniu: „Art. 13a. Przepisu art. 13 pkt 1 nie stosuje się w przypadku koncentracji, w wyniku których powstanie lub umocni się pozycja dominująca na rynku, na którym następuje koncentracja.”;
+- **9)** art. 17 otrzymuje brzmienie: „Art. 17. Prezes Urzędu, w drodze decyzji, wydaje zgodę na dokonanie koncentracji, w wyniku której konkurencja na rynku nie zostanie istotnie ograniczona, w szczególności przez powstanie lub umocnienie pozycji dominującej na rynku.”;
+- **10)** w art. 18:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Prezes Urzędu, w drodze decyzji, wydaje zgodę na dokonanie koncentracji, gdy - po spełnieniu przez przedsiębiorców zamierzających dokonać koncentracji warunków określonych w ust. 2 - konkurencja na rynku nie zostanie istotnie ograniczona, w szczególności przez powstanie lub umocnienie pozycji dominującej na rynku.”,
+    - **b)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) wyzbycia się kontroli nad określonym przedsiębiorcą lub przedsiębiorcami, w szczególności przez zbycie określonego pakietu akcji lub udziałów, lub odwołania z funkcji członka organu zarządzającego lub kontrolnego jednego lub kilku przedsiębiorców;”;
+
+- **11)** art. 19 otrzymuje brzmienie: „Art. 19. 1. Prezes Urzędu zakazuje, w drodze decyzji, dokonania koncentracji, w wyniku której konkurencja na rynku zostanie istotnie ograniczona, w szczególności przez powstanie lub umocnienie pozycji dominującej na rynku.
+
+2. Prezes Urzędu wydaje, w drodze decyzji, zgodę na dokonanie koncentracji, w wyniku której konkurencja na rynku zostanie istotnie ograniczona, w szczególności przez powstanie lub umocnienie pozycji dominującej na rynku, w przypadku gdy odstąpienie od zakazu koncentracji jest uzasadnione, a w szczególności:
+
+- **1)** przyczyni się ona do rozwoju ekonomicznego lub postępu technicznego;
+- **2)** może ona wywrzeć pozytywny wpływ na gospodarkę narodową.”;
+- **12)** w art. 20 ust. 4 otrzymuje brzmienie: „4. Przepisy ust. 2 i ust. 3 stosuje się odpowiednio w przypadku niezgłoszenia Prezesowi Urzędu zamiaru koncentracji, o którym mowa w art. 12 ust. 1, oraz w przypadku niewykonania decyzji o zakazie koncentracji.”;
+- **13)** art. 21 otrzymuje brzmienie: „Art. 21. 1. Decyzje, o których mowa w art. 17 i art. 18 ust. 1 lub art. 19 ust. 2, wygasają, jeżeli w terminie 2 lat od dnia ich wydania koncentracja nie została dokonana.
+
+2. Prezes Urzędu może, na wniosek przedsiębiorcy uczestniczącego w koncentracji, przedłużyć, w drodze postanowienia, termin, o którym mowa w ust. 1, o rok, jeżeli przedsiębiorca wykaże, że nie nastąpiła zmiana okoliczności, w wyniku której koncentracja może spowodować istotne ograniczenie konkurencji na rynku.
+
+3. Przed wydaniem postanowienia o przedłużeniu terminu, o którym mowa w ust. 1, Prezes Urzędu może przeprowadzić postępowanie wyjaśniające.
+
+4. Na postanowienie w sprawie odmowy przedłużenia terminu, o którym mowa w ust. 1, przysługuje zażalenie.
+
+5. W przypadku wydania postanowienia o odmowie przedłużenia terminu, o którym mowa w ust. 1, dokonanie koncentracji po upływie tego terminu wymaga zgłoszenia zamiaru koncentracji Prezesowi Urzędu i uzyskania zgody na jej dokonanie na zasadach i w trybie określonym w ustawie.”;
+
+- **14)** po art. 23d dodaje się art. 23e i art. 23f w brzmieniu: „Art. 23e. 1. Nie wydaje się decyzji o uznaniu praktyki za naruszającą zbiorowe interesy konsumentów i nakazującej zaniechanie jej stosowania, jeżeli przedsiębiorca zaprzestał stosowania praktyki, o której mowa w art. 23a.
+
+2. W przypadku określonym w ust. 1 Prezes Urzędu wydaje decyzję o uznaniu praktyki za naruszającą zbiorowe interesy konsumentów i stwierdzającą zaniechanie jej stosowania.
+
+3. Ciężar udowodnienia okoliczności, o których mowa w ust. 1, spoczywa na przedsiębiorcy.
 
 **Art. 23f.**
 
@@ -314,6 +385,8 @@ source: "isap-pdf"
 2. Orzekanie w sprawach o czyny określone w ust. 1 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.”.
 
 **Art. 2.** W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz.U. Nr 43, poz. 296, z późn. zm. ) po art. 479 dodaje się art. 479 w brzmieniu: „Art. 479 § 1. Jeżeli przepisy odrębne przyznają określonym podmiotom, które nie uczestniczą w sprawie, uprawnienie do przedstawiania sądowi istotnego dla sprawy poglądu, do podmiotów tych stosuje się odpowiednio art. 63. Jednak na wniosek podmiotu uprawnionego sąd może zezwolić, aby pogląd został przedstawiony także ustnie na rozprawie.
+
+§ 2. Na wniosek podmiotu uprawnionego sąd udostępnia akta sprawy w zakresie niezbędnym do przedstawienia poglądu.”.
 
 **Art. 3.** W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń (Dz.U. Nr 12, poz. 114 z późn. zm. ) w art. 138c § 2 otrzymuje brzmienie: „§ 2. Tej samej karze podlega, kto w ofertach i reklamach dotyczących kredytu konsumenckiego zawierających jakiekolwiek dane dotyczące kosztu kredytu konsumenckiego, nie podaje rzeczywistej rocznej stopy oprocentowania.”.
 

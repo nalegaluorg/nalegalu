@@ -119,7 +119,7 @@ o zasadach realizacji programów w zakresie polityki spójności finansowanych w
 3. Za kwalifikowalne mogą zostać uznane wydatki i koszty poniesione przez przedsiębiorcę w okresie od dnia otrzymania informacji, o której mowa w § 5 ust. 7, do dnia 31 grudnia 2023 r.
 § 7. Maksymalna intensywność pomocy wynosi 50% wydatków kwalifikowalnych, o których mowa w § 6 ust. 1.
 § 8. 1. Pomoc udzielana w odniesieniu do tych samych wydatków kwalifikowalnych podlega sumowaniu z każdą inną pomocą publiczną lub pomocą de minimis, udzieloną przedsiębiorcy, któremu przyznano pomoc na podstawie niniejszego rozporządzenia, niezależnie od jej formy i źródła.
-2. Skumulowana pomoc, o której mowa w ust. 1, nie może przekroczyć maksymalnej intensywności pomocy, o której mowa w § 7.
+2. Skumulowana pomoc, o której mowa w ust. 1, nie może przekroczyć maksymalnej intensywności pomocy, o której mowa § 7.
 3. Przedsiębiorca informuje CUPT o każdej innej pomocy publicznej lub pomocy de minimis otrzymanej na realizację tego samego projektu.
 § 9. Pomoc może być udzielana w okresie obowiązywania decyzji Komisji Europejskiej, o której mowa odpowiednio w art. 4 ust. 3 albo art. 9 ust. 3 i 4 rozporządzenia Rady (UE) 2015/1589 z dnia 13 lipca 2015 r. ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 248 z 24.09.2015, str. 9), nie dłużej jednak niż do dnia 31 grudnia 2023 r.
 § 10. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.

@@ -8,7 +8,7 @@ pos: 1123
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-16 |
 | Data wydania | 2019-06-17 |
-| Ostatnia zmiana | 2026-02-04 |
+| Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1123/text.pdf) |
 
 Art. 31–43. (pominięte)
@@ -42,6 +42,15 @@ Art. 31–43. (pominięte)
 
 **Art. 2.** Użyte w przepisach ustawy określenia oznaczają:
 
+- **1)** cena usługi – kwotę deficytu pojedynczej linii komunikacyjnej w przewozach autobusowych o charakterze użyteczności publicznej wyrażoną w złotych w odniesieniu do 1 wozokilometra;
+- **2)** kwota deficytu pojedynczej linii komunikacyjnej w przewozach autobusowych o charakterze użyteczności publicznej – ujemny wynik finansowy netto wyliczony dla tej linii nieuwzględniający rozsądnego zysku, o których mowa w rozporządzeniu (WE) 1370/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącym usług publicznych w zakresie kolejowego i drogowego transportu pasażerskiego oraz uchylającym rozporządzenie Rady (EWG) nr 1191/69 i (EWG) nr 1107/70 (Dz. Urz. UE L 315 z 03.12.2007, str. 1, z późn. zm. );
+- **3)** organizator – organizatora publicznego transportu zbiorowego, o którym mowa w art. 7 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2023 r. poz. 2778), z wyłączeniem związku metropolitalnego i ministra właściwego do spraw transportu;
+- **4)** operator – operatora publicznego transportu zbiorowego w rozumieniu art. 4 ust. 1 pkt 8 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
+- **5)** plan transportowy – plan zrównoważonego rozwoju publicznego transportu zbiorowego, o którym mowa w art. 9 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
+- **6)** przewóz o charakterze użyteczności publicznej – przewóz o charakterze użyteczności publicznej w rozumieniu art. 4 ust. 1 pkt 12 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
+- **7)** umowa o świadczenie usług w zakresie publicznego transportu zbiorowego – umowę o świadczenie usług w zakresie publicznego transportu zbiorowego w rozumieniu art. 4 ust. 1 pkt 24 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
+- **8)** wozokilometr – jednostkę miary pracy eksploatacyjnej autobusu, przy czym 1 wozokilometr to przejazd 1 autobusu na odległość 1 kilometra.
+
 ### DZIAŁ II Fundusz rozwoju przewozów autobusowych o charakterze użyteczności publicznej
 
 **Art. 3.**
@@ -58,7 +67,21 @@ Art. 31–43. (pominięte)
 
 **Art. 5.** Środki Funduszu pochodzą z:
 
+- **1)** wpływów z tytułu opłaty emisyjnej, o której mowa w art. 321a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54), w wysokości 5 % wpływów z tej opłaty;
+- **2)** wpływów z tytułu opłaty zastępczej, o której mowa w art. 35d ust. 2 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2024 r. poz. 20, 834 i 1946 oraz z 2025 r. poz. 303), w wysokości 55 % wpływów z tej opłaty;
+- **3)** wpływów z tytułu opłaty paliwowej, o której mowa w art. 37h ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 2483 i 2707 oraz z 2023 r. poz. 760, 1193 i
+- **1688)** , w wysokości 3,65 % wpływów z tej opłaty;
+- **4)** wpływów w wysokości wynikającej z ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201, z późn. zm. ), ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2022 r. poz. 2147 oraz z 2023 r. poz. 1123), ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ), ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580), ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz. 2063), ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. z 2023 r. poz. 324 i 1523) oraz ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów (Dz. U. z 2023 r. poz. 104 i 1523);
+- **5)** budżetu państwa w części, której dysponentem jest minister właściwy do spraw transportu;
+- **6)** odsetek, o których mowa w art. 17 ust. 1;
+- **7)** odsetek od wolnych środków przekazanych albo przyjmowanych w zarządzanie zgodnie z przepisami o finansach publicznych;
+- **8)** darowizn i zapisów;
+- **9)** innych źródeł.
+
 **Art. 6.** Środki Funduszu przeznacza się na:
+
+- **1)** dofinansowanie realizacji zadań własnych organizatorów w zakresie przewozów autobusowych o charakterze użyteczności publicznej przez dopłatę do ceny usługi, zwaną dalej „dopłatą”;
+- **2)** wydatki na obsługę Funduszu.
 
 **Art. 6a.** Dopłacie ze środków Funduszu podlegają linie komunikacyjne niefunkcjonujące co najmniej 3 miesiące przed dniem wejścia w życie ustawy oraz, na które umowa o świadczenie usług w zakresie publicznego transportu zbiorowego zostanie zawarta po dniu wejścia w życie ustawy.
 
@@ -136,6 +159,10 @@ Art. 31–43. (pominięte)
 5. Do wniosku, o którym mowa w ust. 1 pkt 4, organizator dołącza dokumenty potwierdzające dane i informacje zawarte we wniosku.
 
 **Art. 11.** Dysponent Funduszu zawiera z wojewodą porozumienie określające w szczególności:
+
+- **1)** sposób i terminy wypłaty dofinansowania,
+- **2)** zasady i warunki wykorzystania i zwrotu dofinansowania,
+- **3)** wytyczne dotyczące treści umowy o dopłatę – mając na uwadze zapewnienie jednolitych warunków otrzymywania dopłaty przez organizatorów we wszystkich województwach.
 
 **Art. 11a.**
 
@@ -536,4 +563,8 @@ Art. 31–43. (pominięte)
 4. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego nie przekracza 65 % limitu wydatków przewidzianych na dany rok, przepisu ust. 3 nie stosuje się.
 
 **Art. 54.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 5 pkt 2 i art. 39, które wchodzą w życie z dniem 1 stycznia 2020 r.;
+- **2)** art. 5 pkt 3, art. 31 pkt 1 i 3–4, art. 38 i art. 40 pkt 1, które wchodzą w życie z dniem 1 stycznia 2022 r.
+
 

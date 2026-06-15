@@ -8,7 +8,7 @@ pos: 348
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo energetyczne
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1997-04-10 |
 | Data wydania | 1997-06-04 |
-| Ostatnia zmiana | 2026-05-12 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970540348) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/348/text.pdf) |
 
 Art. 11zi. 1. Obywatelska społeczność energetyczna może wykonywać działalność w formie:
@@ -122,6 +122,294 @@ Art. 58–62. (pominięte)
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
 
+- **1)** energia – energię przetworzoną w dowolnej postaci;
+- **2)** ciepło – energię cieplną w wodzie gorącej, parze lub w innych nośnikach;
+- **3)** paliwa – paliwa stałe, ciekłe, gazowe i wodór będące nośnikami energii chemicznej;
+- **3a)** paliwa gazowe:
+    - **a)** gaz ziemny wysokometanowy lub zaazotowany, w tym skroplony gaz ziemny oraz propan-butan lub inne rodzaje gazu palnego, dostarczane za pomocą sieci gazowej,
+    - **b)** biometan i biogaz rolniczy – niezależnie od ich przeznaczenia, zawierające również domieszkę wodoru;
+
+- **3b)** paliwa ciekłe – ciekłe nośniki energii, w tym zawierające dodatki: o biokomponentach i biopaliwach ciekłych (Dz. U. z 2025 r. poz. 901), zwanej dalej „ustawą o biokomponentach i biopaliwach ciekłych”, których szczegółowy wykaz określają przepisy wydane na podstawie art. 32 ust. 6;
+    - **a)** półprodukty rafineryjne,
+    - **b)** gaz płynny LPG,
+    - **c)** benzyny ciężkie,
+    - **d)** benzyny silnikowe,
+    - **e)** benzyny lotnicze,
+    - **f)** paliwa typu benzynowego do silników odrzutowych,
+    - **g)** paliwa typu nafty do silników odrzutowych,
+    - **h)** inne rodzaje nafty,
+    - **i)** oleje napędowe, w tym lekkie oleje opałowe,
+    - **j)** ciężkie oleje opałowe,
+    - **k)** benzyny lakowe i przemysłowe,
+    - **l)** biopaliwa ciekłe,
+    - **m)** smary – określone w rozdziale 3 w załączniku A do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1099/2008 z dnia 22 października 2008 r. w sprawie statystyki energii (Dz. Urz. UE L 304 z 14.11.2008, str. 1, z późn. zm. ), niezależnie od ich przeznaczenia, a także ciekłe paliwo węglowe pochodzące z recyklingu, w rozumieniu art. 2 ust. 1 pkt 10b ustawy z dnia 25 sierpnia 2006 r.
+
+- **3c)** wodór niskoemisyjny – wodór pochodzący ze źródeł nieodnawialnych, wytworzony w sposób niewyrządzający poważnych szkód dla celów środowiskowych, który spełnia wymaganie dotyczące osiągnięcia progu redukcji emisji gazów cieplarnianych na poziomie 70 % w porównaniu z wartością odpowiednika kopalnego dla paliw odnawialnych pochodzenia niebiologicznego określoną zgodnie z metodyką, o której mowa w przepisach rozporządzenia delegowanego Komisji (UE) 2023/1185 z dnia 10 lutego 2023 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 poprzez ustanowienie minimalnego progu ograniczenia emisji gazów cieplarnianych w przypadku pochodzących z recyklingu paliw węglowych oraz poprzez określenie metodyki oceny ograniczenia emisji gazów cieplarnianych, uzyskanego dzięki odnawialnym ciekłym i gazowym paliwom transportowym pochodzenia niebiologicznego oraz pochodzącym z recyklingu paliwom węglowym (Dz. Urz. UE L 157 z 20.06.2023, str. 20);
+- **3d)** wodór odnawialny – wodór wytworzony z odnawialnego źródła energii;
+- **3e)** wodór odnawialny pochodzenia niebiologicznego – wodór odnawialny wytworzony zgodnie z metodykami, o których mowa w przepisach: Urz. UE L 157 z 20.06.2023, str. 11, z późn. zm. ), do którego wytworzenia wykorzystano energię odnawialną inną niż energia otrzymywana z biomasy, biogazu, biogazu rolniczego, biometanu, biopłynów oraz wodoru odnawialnego, oraz
+    - **a)** rozporządzenia delegowanego Komisji (UE) 2023/1184 z dnia 10 lutego 2023 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 przez ustanowienie unijnej metodyki określającej szczegółowe zasady produkcji paliw odnawialnych pochodzenia niebiologicznego (Dz.
+    - **b)** rozporządzenia delegowanego Komisji (UE) 2023/1185 z dnia 10 lutego 2023 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 poprzez ustanowienie minimalnego progu ograniczenia emisji gazów cieplarnianych w przypadku pochodzących z recyklingu paliw węglowych oraz poprzez określenie metodyki oceny ograniczenia emisji gazów cieplarnianych, uzyskanego dzięki odnawialnym ciekłym i gazowym paliwom transportowym pochodzenia niebiologicznego oraz pochodzącym z recyklingu paliwom węglowym;
+
+- **4)** przesyłanie – transport:
+    - **a)** paliw gazowych oraz energii elektrycznej sieciami przesyłowymi w celu ich dostarczania do sieci dystrybucyjnych lub odbiorcom końcowym przyłączonym do sieci przesyłowych,
+    - **b)** paliw ciekłych siecią rurociągów,
+    - **c)** ciepła siecią ciepłowniczą do odbiorców przyłączonych do tej sieci – z wyłączeniem sprzedaży tych paliw lub energii;
+
+- **4a)** przesyłanie dwutlenku węgla – transport dwutlenku węgla w celu podziemnego składowania dwutlenku węgla w rozumieniu art. 6 ust. 1 pkt 5b ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;
+- **5)** dystrybucja:
+    - **a)** transport paliw gazowych oraz energii elektrycznej sieciami dystrybucyjnymi w celu ich dostarczania odbiorcom,
+    - **b)** rozdział paliw ciekłych do odbiorców przyłączonych do sieci rurociągów,
+    - **c)** rozdział ciepła do odbiorców przyłączonych do sieci ciepłowniczej – z wyłączeniem sprzedaży tych paliw lub energii oraz sprężania gazu w stacji gazu ziemnego i dostarczania energii elektrycznej w stacji ładowania do zainstalowanych w niej punktów ładowania w rozumieniu ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289, 1853 i 1881);
+
+- **6)** obrót – działalność gospodarczą polegającą na handlu hurtowym albo detalicznym paliwami lub energią;
+- **6a)** sprzedaż – bezpośrednią sprzedaż paliw lub energii przez podmiot zajmujący się ich wytwarzaniem lub odsprzedaż tych paliw lub energii przez podmiot zajmujący się ich obrotem; sprzedaż ta nie obejmuje derywatu elektroenergetycznego i derywatu gazowego oraz tankowania pojazdów sprężonym gazem ziemnym (CNG) oraz skroplonym gazem ziemnym (LNG) na stacjach gazu ziemnego, a także ładowania energią elektryczną w punktach ładowania i tankowania pojazdów wodorem na stacjach wodoru;
+- **6b)** sprzedaż rezerwowa paliw gazowych – sprzedaż paliw gazowych odbiorcy końcowemu przyłączonemu do sieci dystrybucyjnej gazowej lub do sieci przesyłowej gazowej dokonywana przez sprzedawcę rezerwowego paliw gazowych w przypadku zaprzestania sprzedaży paliw gazowych przez dotychczasowego sprzedawcę, realizowana na podstawie umowy sprzedaży paliw gazowych lub umowy kompleksowej, o której mowa w art. 5 ust. 3, zwanej dalej „umową kompleksową”;
+- **6c)** sprzedaż rezerwowa energii elektrycznej – sprzedaż energii elektrycznej odbiorcy końcowemu przyłączonemu do sieci dystrybucyjnej elektroenergetycznej dokonywana przez sprzedawcę rezerwowego energii elektrycznej w przypadku nieprzekazania do centralnego systemu informacji rynku energii informacji o zawarciu umowy sprzedaży energii elektrycznej lub umowy kompleksowej dla danego punktu poboru energii;
+- **6d)** umowa z ceną dynamiczną energii elektrycznej – umowę sprzedaży energii elektrycznej lub umowę kompleksową, zawartą między sprzedawcą energii elektrycznej a odbiorcą końcowym, odzwierciedlającą wahania cen na rynkach energii elektrycznej, w szczególności na rynkach dnia następnego i dnia bieżącego, w odstępach co najmniej równych okresowi rozliczania niezbilansowania w rozumieniu art. 2 pkt 10 rozporządzenia Komisji (UE) 2017/2195 z dnia 23 listopada 2017 r. ustanawiającego wytyczne dotyczące bilansowania (Dz. Urz. UE L 312 z 28.11.2017, str. 6, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/2195”; 6da) umowa na czas oznaczony z gwarancją stałej ceny – zawartą z odbiorcą końcowym na czas oznaczony umowę sprzedaży energii elektrycznej lub umowę kompleksową, której warunki, w tym ceny i dodatkowe opłaty stosowane w rozliczeniach w obrocie energią elektryczną, pozostają niezmienione przez cały okres obowiązywania umowy, z wyjątkiem postanowień o charakterze elastycznym, w tym zróżnicowania cen w okresach szczytowych i pozaszczytowych oraz elementów rachunku, których wysokość nie jest określana przez sprzedawców energii elektrycznej, w szczególności podatków i opłat;
+- **6e)** agregacja – działalność polegającą na łączeniu wielkości mocy lub energii elektrycznej oferowanej przez odbiorców, wytwórców energii elektrycznej lub posiadaczy magazynów energii elektrycznej, z uwzględnieniem zdolności technicznych sieci, do której są przyłączeni, w celu sprzedaży energii elektrycznej, świadczenia usług systemowych lub usług elastyczności na rynkach energii elektrycznej;
+- **6f)** agregator – uczestnika rynku działającego na rynku energii elektrycznej zajmującego się agregacją;
+- **6g)** niezależny agregator – agregatora niepowiązanego ze sprzedawcą energii elektrycznej odbiorcy oraz niezaliczającego się do grupy kapitałowej w rozumieniu art. 4 pkt 14 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616 oraz z 2025 r. poz. 794), do której zalicza się ten sprzedawca;
+- **7)** procesy energetyczne – techniczne procesy w zakresie wytwarzania, przetwarzania, przesyłania, magazynowania, dystrybucji oraz użytkowania paliw lub energii;
+- **7a)** proces rynku energii – sekwencję działań realizowanych przez co najmniej dwa podmioty będące użytkownikiem systemu elektroenergetycznego lub operatorem informacji rynku energii, na podstawie których następuje sprzedaż energii elektrycznej, jej wprowadzenie do sieci lub pobór lub świadczenie usług związanych z energią elektryczną;
+- **8)** zaopatrzenie w ciepło, energię elektryczną, paliwa gazowe lub wodór – procesy związane z dostarczaniem ciepła, energii elektrycznej, paliw gazowych lub wodoru do odbiorców;
+- **9)** urządzenia – urządzenia techniczne stosowane w procesach energetycznych;
+- **10)** instalacje – urządzenia z układami połączeń między nimi;
+- **10a)** instalacja magazynowa – instalację używaną do magazynowania paliw gazowych, w tym bezzbiornikowy magazyn gazu ziemnego oraz pojemności magazynowe gazociągów, będącą własnością przedsiębiorstwa energetycznego lub eksploatowaną przez to przedsiębiorstwo, włącznie z częścią instalacji skroplonego gazu ziemnego używaną do jego magazynowania, z wyłączeniem tej części instalacji, która jest wykorzystywana do działalności produkcyjnej, oraz instalacji służącej wyłącznie do realizacji zadań operatorów systemu przesyłowego gazowego;
+- **10b)** instalacja skroplonego gazu ziemnego – terminal przeznaczony do:
+    - **a)** skraplania gazu ziemnego lub
+    - **b)** sprowadzania, wyładunku i regazyfikacji skroplonego gazu ziemnego wraz z instalacjami pomocniczymi i zbiornikami magazynowymi wykorzystywanymi w procesie regazyfikacji i dostarczania gazu ziemnego do systemu przesyłowego – z wyłączeniem części terminalu służącej do magazynowania;
+
+- **10c)** pojemności magazynowe gazociągów – pojemności umożliwiające magazynowanie gazu ziemnego pod ciśnieniem w sieciach przesyłowych lub w sieciach dystrybucyjnych z wyłączeniem instalacji służących wyłącznie do realizacji zadań operatora systemu przesyłowego;
+- **10d)** infrastruktura paliw ciekłych – instalację wytwarzania, magazynowania i przeładunku paliw ciekłych, rurociąg przesyłowy lub dystrybucyjny paliw ciekłych, stację paliw ciekłych, a także środek transportu paliw ciekłych;
+- **10e)** instalacja wytwarzania paliw ciekłych – instalację lub zespół instalacji technologicznych oraz urządzenia techniczne, w tym zbiorniki, powiązane technicznie z tymi instalacjami, wykorzystywane w procesie wytwarzania paliw ciekłych;
+- **10f)** instalacja magazynowania paliw ciekłych – zbiorniki magazynowe oraz instalacje przeładunkowe paliw ciekłych wykorzystywane do przechowywania oraz przeładunku paliw ciekłych z wyłączeniem stacji paliw ciekłych, a także bezzbiornikowe magazyny paliw ciekłych;
+- **10g)** instalacja przeładunku paliw ciekłych – instalację używaną do rozładunku lub załadunku paliw ciekłych na cysterny drogowe, cysterny kolejowe, cysterny kontenerowe lub statki;
+- **10h)** stacja paliw ciekłych – zespół urządzeń służących do zaopatrywania w paliwa ciekłe w szczególności pojazdów, w tym ciągników rolniczych, maszyn nieporuszających się po drogach, a także rekreacyjnych jednostek pływających;
+- **10i)** stacja kontenerowa – stację paliw ciekłych o konstrukcji umożliwiającej jej przemieszczanie;
+- **10j)** środek transportu paliw ciekłych – cysternę drogową, cysternę kolejową, cysternę kontenerową lub statek przystosowane do załadunku, transportu i rozładunku paliw ciekłych, wykorzystywane do sprzedaży paliw ciekłych bezpośrednio odbiorcom końcowym na podstawie koncesji, o których mowa w art. 32 ust. 1 pkt 1 i 4, lub do przywozu paliw ciekłych na podstawie wpisu do rejestru, o którym mowa w art. 32a;
+- **10k)** magazyn energii elektrycznej – instalację umożliwiającą magazynowanie energii elektrycznej i wprowadzenie jej do sieci elektroenergetycznej; 10ka) magazyn energii – instalację umożliwiającą magazynowanie energii, w tym magazyn energii elektrycznej;
+- **10l)** stacja gazu ziemnego – stację gazu ziemnego w rozumieniu art. 2 pkt 26 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych;
+- **10m)** ogólnodostępna stacja ładowania – ogólnodostępną stację ładowania w rozumieniu art. 2 pkt 6 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych;
+- **10n)** infrastruktura ładowania drogowego transportu publicznego – infrastrukturę ładowania drogowego transportu publicznego w rozumieniu art. 2 pkt 3 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych;
+- **11)** sieci – instalacje połączone i współpracujące ze sobą, służące do przesyłania lub dystrybucji paliw lub energii, należące do przedsiębiorstwa energetycznego;
+- **11a)** sieć przesyłowa – sieć gazową wysokich i średnich ciśnień funkcjonalnie ze sobą związanych, z wyłączeniem gazociągów kopalnianych i bezpośrednich, albo sieć elektroenergetyczną najwyższych lub wysokich napięć, za których ruch sieciowy są odpowiedzialni odpowiednio operator systemu przesyłowego gazowego oraz operator systemu przesyłowego elektroenergetycznego, z wyłączeniem linii bezpośrednich;
+- **11b)** sieć dystrybucyjna – sieć gazową wysokich, średnich i niskich ciśnień, z wyłączeniem gazociągów kopalnianych i bezpośrednich, albo sieć elektroenergetyczną wysokich, średnich i niskich napięć, za których ruch sieciowy są odpowiedzialni odpowiednio operator systemu dystrybucyjnego gazowego oraz operator systemu dystrybucyjnego elektroenergetycznego, z wyłączeniem linii bezpośrednich; 11ba) w pełni zintegrowany element sieci – urządzenie lub instalację współpracującą z siecią przesyłową lub siecią dystrybucyjną, w tym magazyn energii elektrycznej, która jest wykorzystywana wyłącznie do zapewniania bezpieczeństwa pracy sieci elektroenergetycznej, w tym do zapewnienia ciągłości zasilania, zapewnienia parametrów jakościowych energii elektrycznej i technicznego bilansowania lokalnego i nie służy do bilansowania, o którym mowa w art. 2 pkt 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/943 z dnia 5 czerwca 2019 r. w sprawie rynku wewnętrznego energii elektrycznej (Dz. Urz. UE L 158 z 14.06.2019, str. 54, z późn. zm. ), zwanego dalej „rozporządzeniem 2019/943”, ani zarządzania ograniczeniami sieciowymi;
+- **11c)** sieć gazociągów kopalnianych – gazociąg lub sieć gazociągów:
+    - **a)** zbudowanych i eksploatowanych w ramach przedsięwzięcia polegającego na wydobywaniu ropy naftowej lub gazu ziemnego ze złóż lub
+    - **b)** wykorzystywanych do transportu gazu ziemnego z jednego lub z większej liczby miejsc jego wydobycia do zakładu oczyszczania i obróbki lub do terminalu albo wykorzystywanych do transportu gazu ziemnego do końcowego przeładunkowego terminalu przybrzeżnego;
+
+- **11d)** gazociąg międzysystemowy – gazociąg przesyłowy przebiegający przez granicę Rzeczypospolitej Polskiej:
+    - **a)** mający na celu połączenie systemów przesyłowych państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub
+    - **b)** łączący system przesyłowy z infrastrukturą gazową państwa innego niż określone w lit. a;
+
+- **11e)** gazociąg bezpośredni – gazociąg, który został zbudowany w celu bezpośredniego dostarczania paliw gazowych do instalacji odbiorcy z pominięciem systemu gazowego;
+- **11f)** linia bezpośrednia – linię elektroenergetyczną łączącą wydzieloną jednostkę wytwórczą z wydzielonym odbiorcą, w celu bezpośredniego dostarczania energii elektrycznej do tego odbiorcy, lub linię elektroenergetyczną łączącą jednostkę wytwórczą z przedsiębiorstwem energetycznym innym niż wytwarzające energię elektryczną w tej jednostce, wykonującym działalność gospodarczą w zakresie obrotu energią elektryczną, w celu bezpośredniego dostarczenia energii elektrycznej do ich własnych obiektów, w tym urządzeń lub instalacji, podmiotów będących ich jednostkami podporządkowanymi w rozumieniu art. 3 ust. 1 pkt 42 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ) lub do odbiorców przyłączonych do sieci, urządzeń lub instalacji tych przedsiębiorstw; 11fa) wydzielona jednostka wytwórcza – jednostkę wytwórczą, z której cała wytworzona energia elektryczna jest objęta bezpośrednim dostarczaniem energii elektrycznej do wydzielonego odbiorcy; 11fb) wydzielony odbiorca – odbiorcę, który nie jest przyłączony do sieci elektroenergetycznej lub jest przyłączony do sieci elektroenergetycznej w sposób uniemożliwiający wprowadzanie energii elektrycznej wytworzonej w wydzielonej jednostce wytwórczej do tej sieci, lub spełnia warunki, wymagania techniczne i obowiązki, o których mowa w art. 7aa ust. 3; 11fc) bezpośrednie dostarczanie energii elektrycznej – dostawy energii elektrycznej realizowane bez wykorzystania sieci elektroenergetycznej lub realizowane z wykorzystaniem sieci elektroenergetycznej przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu energią elektryczną, o którym mowa w pkt 11f;
+- **11g)** koordynowana sieć 110 kV – część sieci dystrybucyjnej 110 kV, w której przepływy energii elektrycznej zależą także od warunków pracy sieci przesyłowej;
+- **11h)** sieć transportowa dwutlenku węgla – sieć służącą do przesyłania dwutlenku węgla, wraz z towarzyszącymi jej tłoczniami lub stacjami redukcyjnymi, za której ruch sieciowy jest odpowiedzialny operator sieci transportowej dwutlenku węgla; 11ha) bezpośredni gazociąg transportu dwutlenku węgla – rurociąg, wraz z towarzyszącymi mu tłoczniami lub stacjami redukcyjnymi, który został zbudowany w celu bezpośredniego transportu dwutlenku węgla z instalacji wychwytywania do składowiska z pominięciem sieci transportowej dwutlenku węgla;
+- **11i)** instalacja zarządzania popytem – jednostkę fizyczną redukcji zapotrzebowania w rozumieniu art. 2 ust. 1 pkt 7 ustawy z dnia 8 grudnia 2017 r. o rynku mocy (Dz. U. z 2025 r. poz. 610 i 1302) lub instalację odbiorcy końcowego, której urządzenia umożliwiają odpowiedź odbioru lub usługi elastyczności;
+- **11j)** odpowiedź odbioru – zmianę zużycia energii elektrycznej odbiorcy końcowego w stosunku do jego zwykłego lub bieżącego zużycia energii elektrycznej w odpowiedzi na sygnały rynkowe, w tym w odpowiedzi na zmienne w czasie ceny energii elektrycznej lub zachęty finansowe, lub w następstwie przyjęcia oferty odbiorcy końcowego, złożonej indywidualnie lub w ramach agregacji, dotyczącej sprzedaży zmniejszenia lub zwiększenia poboru po cenie obowiązującej na rynku zorganizowanym w rozumieniu art. 2 pkt 4 rozporządzenia wykonawczego Komisji (UE) nr 1348/2014 z dnia 17 grudnia 2014 r. w sprawie przekazywania danych wdrażającego art. 8 ust. 2 i 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1227/2011 w sprawie integralności i przejrzystości hurtowego rynku energii (Dz. Urz. UE L 363 z
+
+18. 12.2014, str. 121, z późn. zm. ), zwanego dalej „rozporządzeniem 1348/2014”;
+
+- **11k)** usługi elastyczności – usługi świadczone na rzecz operatora systemu dystrybucyjnego elektroenergetycznego przez agregatora lub przez użytkowników systemu będących odbiorcami aktywnymi, wytwórcami, posiadaczami magazynów energii elektrycznej, których sieci, instalacje lub urządzenia są przyłączone do sieci dystrybucyjnej elektroenergetycznej, z wyłączeniem koordynowanej sieci 110 kV, w celu zapewnienia bezpieczeństwa i zwiększenia efektywności rozwoju systemu dystrybucyjnego, w tym zarządzania ograniczeniami sieciowymi w sieci dystrybucyjnej elektroenergetycznej, z wyłączeniem koordynowanej sieci 110 kV;
+- **11l)** elastyczna umowa o przyłączenie do sieci – umowę o przyłączenie do sieci elektroenergetycznej zawierającą postanowienia dotyczące ograniczenia wprowadzania energii elektrycznej do sieci elektroenergetycznej lub poboru energii elektrycznej z tej sieci;
+- **11m)** konfigurowalna umowa o przyłączenie do sieci – umowę o przyłączenie do sieci elektroenergetycznej zawierającą postanowienia dotyczące ograniczenia wprowadzania energii elektrycznej do sieci elektroenergetycznej lub poboru energii elektrycznej z tej sieci, w zależności od zastosowanej technologii wytwarzania lub poboru energii elektrycznej, które mogą być zmienne w czasie i mogą odnosić się do zdefiniowanych zdarzeń lub parametrów związanych z pracą tej sieci;
+- **12)** przedsiębiorstwo energetyczne – podmiot prowadzący działalność gospodarczą w zakresie:
+    - **a)** wytwarzania, przetwarzania, magazynowania, przesyłania, dystrybucji paliw albo energii lub obrotu nimi lub
+    - **b)** przesyłania dwutlenku węgla, lub
+    - **c)** przeładunku paliw ciekłych, lub
+    - **d)** agregacji;
+
+- **12a)** przedsiębiorstwo zintegrowane pionowo – przedsiębiorstwo energetyczne lub grupę przedsiębiorstw, których wzajemne relacje są określone w art. 3 ust. 2 rozporządzenia nr 139/2004 z dnia 20 stycznia 2004 r. w sprawie kontroli koncentracji przedsiębiorstw (Dz. Urz. WE L 024 z 29.01.2004), zajmujące się:
+    - **a)** w odniesieniu do paliw gazowych: – przesyłaniem lub – dystrybucją, lub – magazynowaniem, lub – skraplaniem, lub – regazyfikacją – oraz wytwarzaniem lub sprzedażą tych paliw, albo
+    - **b)** w odniesieniu do energii elektrycznej: – przesyłaniem lub – dystrybucją – oraz wytwarzaniem lub sprzedażą tej energii, albo
+    - **c)** w odniesieniu do wodoru: – przesyłaniem lub – dystrybucją, lub – magazynowaniem – oraz wytwarzaniem lub sprzedażą tego wodoru;
+
+- **12b)** użytkownik systemu – podmiot dostarczający paliwa gazowe do systemu gazowego lub zaopatrywany z tego systemu albo podmiot dostarczający energię elektryczną do systemu elektroenergetycznego lub zaopatrywany z tego systemu;
+- **12c)** podmiot przywożący – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która samodzielnie lub za pośrednictwem innego podmiotu dokonuje przywozu paliw ciekłych, z wyłączeniem przywozu paliw ciekłych: 32 ust. 1 pkt 4, lub
+    - **a)** w ramach wykonywania działalności polegającej na obrocie paliwami ciekłymi z zagranicą wymagającej uzyskania koncesji, o której mowa w art.
+    - **b)** przeznaczonych do użycia podczas transportu i przywożonych w standardowych zbiornikach, o których mowa w art. 33 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2025 r. poz. 126, 222 i
+
+- **340)** ;
+- **12d)** przywóz paliw ciekłych – sprowadzenie na terytorium Rzeczypospolitej Polskiej paliw ciekłych w ramach nabycia wewnątrzwspólnotowego lub importu;
+- **12e)** wywóz paliw ciekłych – wywóz paliw ciekłych poza terytorium Rzeczypospolitej Polskiej w ramach dostawy wewnątrzwspólnotowej lub eksportu;
+- **12f)** nabycie wewnątrzwspólnotowe paliw ciekłych – przemieszczenie paliw ciekłych z terytorium innego państwa członkowskiego Unii Europejskiej na terytorium Rzeczypospolitej Polskiej, w rozumieniu przepisów o podatku akcyzowym;
+- **12g)** dostawa wewnątrzwspólnotowa paliw ciekłych – przemieszczenie paliw ciekłych z terytorium Rzeczypospolitej Polskiej na terytorium innego państwa członkowskiego Unii Europejskiej, w rozumieniu przepisów o podatku akcyzowym;
+- **12h)** import paliw ciekłych – import paliw ciekłych w rozumieniu przepisów o podatku akcyzowym;
+- **12i)** eksport paliw ciekłych – eksport paliw ciekłych w rozumieniu przepisów o podatku akcyzowym;
+- **13)** odbiorca – każdego, kto otrzymuje lub pobiera paliwa lub energię na podstawie umowy z przedsiębiorstwem energetycznym;
+- **13a)** odbiorca końcowy – odbiorcę dokonującego zakupu paliw lub energii na własny użytek; do własnego użytku nie zalicza się energii elektrycznej zakupionej w celu jej magazynowania lub zużycia na potrzeby wytwarzania, przesyłania lub dystrybucji energii elektrycznej oraz paliw gazowych zakupionych w celu ich zużycia na potrzeby przesyłania, dystrybucji, magazynowania paliw gazowych, skraplania gazu ziemnego lub regazyfikacji skroplonego gazu ziemnego;
+- **13b)** odbiorca paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym – odbiorcę końcowego dokonującego zakupu paliw gazowych, energii elektrycznej lub ciepła wyłącznie w celu ich zużycia w gospodarstwie domowym;
+- **13c)** odbiorca wrażliwy energii elektrycznej – osobę, której przyznano dodatek mieszkaniowy w rozumieniu art. 2 ust. 1 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2023 r. poz. 1335), która jest stroną umowy kompleksowej lub umowy sprzedaży energii elektrycznej zawartej z przedsiębiorstwem energetycznym i zamieszkuje w miejscu dostarczania energii elektrycznej;
+- **13d)** odbiorca wrażliwy paliw gazowych – osobę, której przyznano ryczałt na zakup opału w rozumieniu art. 6 ust. 7 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych, która jest stroną umowy kompleksowej lub umowy sprzedaży paliw gazowych zawartej z przedsiębiorstwem energetycznym i zamieszkuje w miejscu dostarczania paliw gazowych;
+- **13e)** odbiorca aktywny – odbiorcę końcowego działającego indywidualnie albo w grupie, który:
+    - **a)** zużywa wytworzoną we własnym zakresie energię elektryczną lub
+    - **b)** magazynuje wytworzoną we własnym zakresie energię elektryczną, lub
+    - **c)** sprzedaje wytworzoną we własnym zakresie energię elektryczną, lub
+    - **d)** realizuje przedsięwzięcia służące poprawie efektywności energetycznej w rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2025 r. poz. 711), lub
+    - **e)** świadczy usługi systemowe, lub
+    - **f)** świadczy usługi elastyczności – pod warunkiem, że działalności, o których mowa w lit. b–f, nie stanowią przedmiotu podstawowej działalności gospodarczej tego odbiorcy, określonej zgodnie z przepisami wydanymi na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799);
+
+- **13f)** obywatelska społeczność energetyczna – podmiot posiadający zdolność prawną, który: o efektywności energetycznej, lub – świadczeniem usług ładowania pojazdów elektrycznych, o których mowa w ustawie z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, lub – świadczeniem innych usług na rynkach energii elektrycznej, w tym usług systemowych lub usług elastyczności, lub – wytwarzaniem, zużywaniem, magazynowaniem lub sprzedażą biogazu, biogazu rolniczego, biomasy i biomasy pochodzenia rolniczego w rozumieniu art. 2 pkt 1, 2, 3 i 3b ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2024 r. poz. 1361, z późn. zm. );
+    - **a)** opiera się na dobrowolnym i otwartym uczestnictwie i w którym uprawnienia decyzyjne i kontrolne przysługują członkom, udziałowcom lub wspólnikom będącym wyłącznie osobami fizycznymi, jednostkami samorządu terytorialnego, mikroprzedsiębiorcami lub małymi przedsiębiorcami w rozumieniu art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480), dla których działalność gospodarcza w sektorze energetycznym nie stanowi przedmiotu podstawowej działalności gospodarczej określonej zgodnie z przepisami wydanymi na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej,
+    - **b)** za główny cel ma zapewnienie korzyści środowiskowych, gospodarczych lub społecznych dla swoich członków, udziałowców lub wspólników lub obszarów lokalnych, na których prowadzi działalność,
+    - **c)** może zajmować się: – w odniesieniu do energii elektrycznej: – – wytwarzaniem, zużywaniem lub – – dystrybucją, lub – – sprzedażą, lub – – obrotem, lub – – agregacją, lub – – magazynowaniem, lub – realizowaniem przedsięwzięć służących poprawie efektywności energetycznej w rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r.
+
+- **14)** gmina – gminy oraz związki i porozumienia międzygminne w zakresie uregulowanym ustawą z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153 i 1436);
+- **15)** regulacja – stosowanie określonych ustawą środków prawnych, włącznie z koncesjonowaniem, służących do zapewnienia bezpieczeństwa energetycznego, prawidłowej gospodarki paliwami i energią oraz ochrony interesów odbiorców;
+- **16)** bezpieczeństwo energetyczne – stan gospodarki umożliwiający pokrycie bieżącego i perspektywicznego zapotrzebowania odbiorców na paliwa i energię w sposób technicznie i ekonomicznie uzasadniony, przy zachowaniu wymagań ochrony środowiska;
+- **16a)** bezpieczeństwo dostaw energii elektrycznej – zdolność systemu elektroenergetycznego do zapewnienia bezpieczeństwa pracy sieci elektroenergetycznej oraz równoważenia dostaw energii elektrycznej z zapotrzebowaniem na tę energię;
+- **16b)** bezpieczeństwo pracy sieci elektroenergetycznej – nieprzerwaną pracę sieci elektroenergetycznej, a także spełnianie wymagań w zakresie parametrów jakościowych energii elektrycznej i standardów jakościowych obsługi odbiorców, w tym dopuszczalnych przerw w dostawach energii elektrycznej odbiorcom końcowym, w możliwych do przewidzenia warunkach pracy tej sieci;
+- **16c)** równoważenie dostaw energii elektrycznej z zapotrzebowaniem na tę energię – zaspokojenie możliwego do przewidzenia, bieżącego i perspektywicznego zapotrzebowania odbiorców na energię elektryczną i moc, bez konieczności podejmowania działań mających na celu wprowadzenie ograniczeń w jej dostarczaniu i poborze;
+- **16d)** zagrożenie bezpieczeństwa dostaw energii elektrycznej – stan systemu elektroenergetycznego lub jego części, uniemożliwiający zapewnienie bezpieczeństwa pracy sieci elektroenergetycznej lub równoważenie dostaw energii elektrycznej z zapotrzebowaniem na tę energię;
+- **17)** taryfa – zbiór cen i stawek opłat oraz warunków ich stosowania, opracowany przez przedsiębiorstwo energetyczne i wprowadzany jako obowiązujący dla określonych w nim odbiorców w trybie określonym ustawą;
+- **18)** nielegalne pobieranie paliw lub energii – pobieranie paliw lub energii bez zawarcia umowy, z całkowitym albo częściowym pominięciem układu pomiarowo-rozliczeniowego lub poprzez ingerencję w ten układ mającą wpływ na zafałszowanie pomiarów dokonywanych przez układ pomiarowo-rozliczeniowy;
+- **19)** ruch sieciowy – sterowanie pracą sieci;
+- **20)** odnawialne źródło energii – odnawialne źródło energii w rozumieniu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **20a)** (uchylony) 20b) mikroinstalacja – mikroinstalację w rozumieniu ustawy wymienionej w pkt 20;
+- **20c)** mała instalacja – małą instalację w rozumieniu ustawy wymienionej w pkt 20;
+- **20d)** (uchylony) 20e) (uchylony) 20f) (uchylony) 20g) (uchylony) 20h) instalacja odnawialnego źródła energii – instalację odnawialnego źródła energii w rozumieniu ustawy wymienionej w pkt 20;
+- **20i)** ciepło odpadowe i chłód odpadowy – niemożliwe do uniknięcia ciepło lub chłód, które są wytwarzane jako produkty uboczne w instalacjach przemysłowych lub instalacjach wytwórczych energii, lub w sektorze usług i które bez dostępu do systemu ciepłowniczego lub chłodniczego pozostałyby niewykorzystane, rozpraszając się w powietrzu lub w wodzie, w przypadku gdy jest lub będzie wykorzystywana kogeneracja lub gdy wykorzystanie kogeneracji nie jest możliwe;
+- **21)** koszty uzasadnione – koszty niezbędne do wykonania zobowiązań powstałych w związku z prowadzoną przez przedsiębiorstwo energetyczne działalnością w zakresie wytwarzania, przetwarzania, magazynowania, przesyłania i dystrybucji, obrotu paliwami lub energią oraz przyjmowane przez przedsiębiorstwo energetyczne do kalkulacji cen i stawek opłat ustalanych w taryfie w sposób ekonomicznie uzasadniony, z zachowaniem należytej staranności zmierzającej do ochrony interesów odbiorców; koszty uzasadnione nie są kosztami uzyskania przychodów w rozumieniu przepisów podatkowych;
+- **22)** finansowanie oświetlenia – finansowanie kosztów energii elektrycznej pobranej przez punkty świetlne oraz koszty ich budowy i utrzymania;
+- **23)** system gazowy albo elektroenergetyczny – sieci gazowe, instalacje magazynowe lub instalacje skroplonego gazu ziemnego albo sieci elektroenergetyczne oraz przyłączone do nich urządzenia i instalacje, współpracujące z tymi sieciami lub instalacjami;
+- **23a)** bilansowanie systemu – działalność gospodarczą wykonywaną przez operatora systemu: 2 pkt 10 rozporządzenia 2019/943,
+    - **a)** przesyłowego elektroenergetycznego w ramach świadczonych usług przesyłania, polegającą na równoważeniu zapotrzebowania na energię elektryczną z dostawami tej energii, w tym bilansowanie w rozumieniu art.
+    - **b)** przesyłowego lub dystrybucyjnego gazowego w ramach świadczonych usług przesyłania lub dystrybucji, polegającą na równoważeniu zapotrzebowania na paliwa gazowe z dostawami tych paliw, w tym działanie bilansujące w rozumieniu art. 3 pkt 2 rozporządzenia Komisji (UE) nr 312/2014 z dnia 26 marca 2014 r. ustanawiającego kodeks sieci dotyczący bilansowania gazu w sieciach przesyłowych (Dz. Urz. UE L 91 z
+
+27. 03.2014, str. 15), zwanego dalej „rozporządzeniem 312/2014”;
+
+- **23b)** zarządzanie ograniczeniami systemowymi – działalność gospodarczą wykonywaną przez operatora systemu w ramach świadczonych odpowiednio usług przesyłania lub dystrybucji, lub przesyłania wodoru, lub dystrybucji wodoru, w celu zapewnienia bezpiecznego funkcjonowania systemu:
+    - **a)** elektroenergetycznego oraz zapewnienia, zgodnie z przepisami wydanymi na podstawie art. 9 ust. 3 i 4, wymaganych parametrów jakościowych energii elektrycznej w przypadku wystąpienia ograniczeń technicznych, w tym ograniczeń sieciowych, w pracy tego systemu,
+    - **b)** gazowego oraz zapewnienia, zgodnie z przepisami wydanymi na podstawie art. 9 ust. 1 i 2, wymaganych parametrów technicznych paliw gazowych w przypadku wystąpienia ograniczeń technicznych w przepustowości tego systemu,
+    - **c)** wodorowego oraz zapewnienia, zgodnie z przepisami wydanymi na podstawie art. 9 ust. 8a, wymaganych parametrów technicznych wodoru w przypadku wystąpienia ograniczeń technicznych w przepustowości tego systemu;
+
+- **23c)** niezbilansowanie – niezbilansowanie w rozumieniu art. 2 pkt 8 rozporządzenia 2017/2195;
+- **23d)** ograniczenia sieciowe – ograniczenia przesyłowe w rozumieniu art. 2 pkt 4 rozporządzenia 2019/943;
+- **23e)** usługi systemowe – usługi świadczone na rzecz operatora systemu elektroenergetycznego niezbędne do funkcjonowania systemu elektroenergetycznego, w tym usługi bilansujące i usługi systemowe niedotyczące częstotliwości, z wyłączeniem usług świadczonych w ramach zarządzania ograniczeniami sieciowymi aktywowanych poza zintegrowanym procesem grafikowania w rozumieniu art. 2 pkt 19 rozporządzenia 2017/2195;
+- **23f)** usługi systemowe niedotyczące częstotliwości – usługi systemowe wykorzystywane do:
+    - **a)** regulacji napięcia w stanach ustalonych,
+    - **b)** szybkiej iniekcji prądu biernego oraz regulacji mocy biernej,
+    - **c)** zapewnienia inercji w celu zachowania stabilności sieci lokalnej,
+    - **d)** dostarczania prądu zwarciowego,
+    - **e)** zapewnienia zdolności do uruchomienia bez zasilania z systemu,
+    - **f)** pracy w układzie wydzielonym oraz pracy wyspowej;
+
+- **24)** operator systemu przesyłowego – przedsiębiorstwo energetyczne zajmujące się przesyłaniem paliw gazowych lub energii elektrycznej, odpowiedzialne za ruch sieciowy w systemie przesyłowym gazowym albo systemie przesyłowym elektroenergetycznym, bieżące i długookresowe bezpieczeństwo funkcjonowania tego systemu, eksploatację, konserwację, remonty oraz niezbędną rozbudowę sieci przesyłowej, w tym połączeń z innymi systemami gazowymi albo innymi systemami elektroenergetycznymi;
+- **25)** operator systemu dystrybucyjnego – przedsiębiorstwo energetyczne zajmujące się dystrybucją paliw gazowych lub energii elektrycznej, odpowiedzialne za ruch sieciowy w systemie dystrybucyjnym gazowym albo systemie dystrybucyjnym elektroenergetycznym, bieżące i długookresowe bezpieczeństwo funkcjonowania tego systemu, eksploatację, konserwację, remonty oraz niezbędną rozbudowę sieci dystrybucyjnej, w tym połączeń z innymi systemami gazowymi albo innymi systemami elektroenergetycznymi;
+- **26)** operator systemu magazynowania – przedsiębiorstwo energetyczne zajmujące się magazynowaniem paliw gazowych, odpowiedzialne za eksploatację instalacji magazynowej;
+- **27)** operator systemu skraplania gazu ziemnego – przedsiębiorstwo energetyczne zajmujące się skraplaniem gazu ziemnego, sprowadzaniem, wyładunkiem lub regazyfikacją skroplonego gazu ziemnego, odpowiedzialne za eksploatację instalacji tego gazu;
+- **28)** operator systemu połączonego – przedsiębiorstwo energetyczne zarządzające systemami połączonymi gazowymi albo systemami połączonymi elektroenergetycznymi, w tym systemem przesyłowym i dystrybucyjnym, albo systemem przesyłowym, dystrybucyjnym, magazynowania lub skraplania gazu ziemnego;
+- **28a)** operator sieci transportowej dwutlenku węgla – przedsiębiorstwo energetyczne zajmujące się przesyłaniem dwutlenku węgla, odpowiedzialne za ruch sieciowy sieci transportowej dwutlenku węgla, bieżące i długookresowe bezpieczeństwo funkcjonowania tej sieci, jej eksploatację, konserwację, remonty oraz niezbędną rozbudowę;
+- **28b)** wyznaczony operator rynku energii elektrycznej – podmiot wyznaczony na terytorium Rzeczypospolitej Polskiej do wykonywania zadań związanych z jednolitym łączeniem rynków dnia następnego lub dnia bieżącego w rozumieniu art. 2 pkt 23 rozporządzenia Komisji (UE) 2015/1222 z dnia 24 lipca 2015 r. ustanawiającego wytyczne dotyczące alokacji zdolności przesyłowych i zarządzania ograniczeniami przesyłowymi (Dz. Urz. UE L 197 z 25.07.2015, str. 24, z późn. zm. ), zwanego dalej „rozporządzeniem 2015/1222”, lub podmiot oferujący na terytorium Rzeczypospolitej Polskiej usługi związane z jednolitym łączeniem rynków dnia następnego i dnia bieżącego, będący wyznaczonym na operatora rynku energii elektrycznej w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub Turcji, w stosunku do którego nie stwierdzono podstaw do odrzucenia tych usług zgodnie z tym rozporządzeniem;
+- **29)** sprzedawca z urzędu – przedsiębiorstwo energetyczne posiadające koncesję na obrót paliwami gazowymi lub energią elektryczną, świadczące usługi kompleksowe odbiorcom paliw gazowych lub energii elektrycznej w gospodarstwie domowym, niekorzystającym z prawa wyboru sprzedawcy;
+- **29a)** sprzedawca rezerwowy paliw gazowych – przedsiębiorstwo energetyczne posiadające koncesję na obrót paliwami gazowymi, wskazane przez odbiorcę końcowego, zapewniające temu odbiorcy końcowemu sprzedaż rezerwową paliw gazowych;
+- **29b)** sprzedawca rezerwowy energii elektrycznej – przedsiębiorstwo energetyczne wyznaczone zgodnie z art. 40 ust. 3 pkt 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii na sprzedawcę zobowiązanego na obszarze działania danego operatora systemu dystrybucyjnego elektroenergetycznego, zapewniające odbiorcom końcowym przyłączonym do danego systemu elektroenergetycznego sprzedaż rezerwową energii elektrycznej;
+- **30)** usługa kompleksowa – usługę świadczoną na podstawie umowy zawierającej postanowienia umowy sprzedaży i umowy o świadczenie usługi przesyłania lub dystrybucji paliw gazowych lub energii albo umowy sprzedaży, umowy o świadczenie usługi przesyłania lub dystrybucji paliw gazowych i umowy o świadczenie usługi magazynowania paliw gazowych;
+- **31)** normalny układ pracy sieci – układ pracy sieci i przyłączonych źródeł wytwórczych, zapewniający najkorzystniejsze warunki techniczne i ekonomiczne transportu energii elektrycznej oraz spełnienie kryteriów niezawodności pracy sieci i jakości energii elektrycznej dostarczanej użytkownikom sieci;
+- **32)** subsydiowanie skrośne – pokrywanie kosztów jednego rodzaju wykonywanej działalności gospodarczej lub kosztów dotyczących jednej grupy odbiorców przychodami pochodzącymi z innego rodzaju wykonywanej działalności gospodarczej lub od innej grupy odbiorców;
+- **33)** kogeneracja – równoczesne wytwarzanie ciepła i energii elektrycznej lub mechanicznej w trakcie tego samego procesu technologicznego;
+- **34)** ciepło użytkowe w kogeneracji – ciepło wytwarzane w kogeneracji, służące zaspokojeniu niezbędnego zapotrzebowania na ciepło lub chłód, które gdyby nie było wytworzone w kogeneracji, zostałoby pozyskane z innych źródeł;
+- **35)** jednostka kogeneracji – wyodrębniony zespół urządzeń, który może wytwarzać energię elektryczną w kogeneracji, opisany poprzez dane techniczne;
+- **36)** energia elektryczna z kogeneracji – energię elektryczną wytwarzaną w kogeneracji i obliczoną jako: współczynnik ten jest obliczany na podstawie pomiarów parametrów technologicznych jednostki kogeneracji, dla danego przedziału czasowego, i określa stosunek energii elektrycznej z kogeneracji do ciepła użytkowego w kogeneracji;
+    - **a)** całkowitą roczną produkcję energii elektrycznej w jednostce kogeneracji w roku kalendarzowym, wytworzoną ze średnioroczną sprawnością przemiany energii chemicznej paliwa w energię elektryczną lub mechaniczną i ciepło użytkowe w kogeneracji, co najmniej równą sprawności granicznej: – 75 % dla jednostki kogeneracji z urządzeniami typu: turbina parowa przeciwprężna, turbina gazowa z odzyskiem ciepła, silnik spalinowy, mikroturbina, silnik Stirlinga, ogniwo paliwowe, albo – 80 % dla jednostki kogeneracji z urządzeniami typu: układ gazowo-parowy z odzyskiem ciepła, turbina parowa upustowo-kondensacyjna, albo
+    - **b)** iloczyn współczynnika i rocznej ilości ciepła użytkowego w kogeneracji wytworzonego ze średnioroczną sprawnością przemiany energii chemicznej paliwa w energię elektryczną lub mechaniczną i ciepło użytkowe w kogeneracji niższą niż sprawności graniczne, o których mowa w lit. a;
+
+- **37)** referencyjna wartość sprawności dla wytwarzania rozdzielonego – sprawność wytwarzania rozdzielonego energii elektrycznej albo ciepła stosowana do obliczenia oszczędności energii pierwotnej uzyskanej w wyniku zastosowania kogeneracji zamiast wytwarzania rozdzielonego energii elektrycznej i ciepła;
+- **38)** wysokosprawna kogeneracja – wytwarzanie energii elektrycznej lub mechanicznej i ciepła użytkowego w kogeneracji, które zapewnia oszczędność energii pierwotnej zużywanej w:
+    - **a)** jednostce kogeneracji w wysokości nie mniejszej niż 10 % w porównaniu z wytwarzaniem energii elektrycznej i ciepła w układach rozdzielonych o referencyjnych wartościach sprawności dla wytwarzania rozdzielonego lub
+    - **b)** jednostce kogeneracji o mocy zainstalowanej elektrycznej poniżej 1 MW w porównaniu z wytwarzaniem energii elektrycznej i ciepła w układach rozdzielonych o referencyjnych wartościach sprawności dla wytwarzania rozdzielonego;
+
+- **39)** standardowy profil zużycia – zbiór danych o przeciętnym zużyciu energii elektrycznej w poszczególnych godzinach doby przez grupę odbiorców końcowych:
+    - **a)** nieposiadających urządzeń pomiarowo-rozliczeniowych umożliwiających rejestrację tych danych,
+    - **b)** o zbliżonej charakterystyce poboru energii elektrycznej,
+    - **c)** zlokalizowanych na obszarze działania danego operatora systemu dystrybucyjnego elektroenergetycznego;
+
+- **40)** bilansowanie handlowe – zgłaszanie operatorowi systemu przesyłowego elektroenergetycznego przez podmiot odpowiedzialny za bilansowanie do realizacji umów sprzedaży energii elektrycznej zawartych przez użytkowników systemu i prowadzenie rozliczania niezbilansowania w rozumieniu art. 2 pkt 9 rozporządzenia 2017/2195 dla każdego okresu rozliczania niezbilansowania w rozumieniu art. 2 pkt 10 tego rozporządzenia;
+- **40a)** rynek bilansujący energii elektrycznej – rynek bilansujący w rozumieniu art. 2 pkt 2 rozporządzenia 2017/2195, w ramach którego operator systemu przesyłowego elektroenergetycznego:
+    - **a)** nabywa usługi bilansujące świadczone przez dostawców usług bilansujących w rozumieniu art. 2 pkt 6 tego rozporządzenia,
+    - **b)** prowadzi zintegrowany proces grafikowania w rozumieniu art. 2 pkt 19 tego rozporządzenia,
+    - **c)** prowadzi bilansowanie systemu,
+    - **d)** zarządza ograniczeniami systemowymi,
+    - **e)** prowadzi mechanizm bilansowania handlowego;
+
+- **41)** (uchylony)
+- **42)** podmiot odpowiedzialny za bilansowanie – podmiot w rozumieniu art. 2 pkt 14 rozporządzenia 2019/943 uczestniczący w rynku bilansującym energii elektrycznej na podstawie umowy o świadczenie usług przesyłania zawartej z operatorem systemu przesyłowego;
+- **43)** jednostka wytwórcza – wyodrębniony zespół urządzeń należący do przedsiębiorstwa energetycznego, służący do wytwarzania energii i wyprowadzania mocy;
+- **44)** rynek organizowany przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany – obrót towarami giełdowymi lub instrumentami finansowymi, których instrumentem bazowym jest towar i które są wykonywane wyłącznie przez dostawę, albo obrót produktami energetycznymi sprzedawanymi w obrocie hurtowym, które są wykonywane wyłącznie przez dostawę, na zorganizowanej platformie obrotu, organizowany na podstawie przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ) przez spółkę prowadzącą na terytorium Rzeczypospolitej Polskiej rynek regulowany;
+- **44a)** zorganizowana platforma obrotu – zorganizowaną platformę obrotu w rozumieniu art. 2 pkt 20 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1227/2011 z dnia 25 października 2011 r. w sprawie integralności i przejrzystości hurtowego rynku energii (Dz. Urz. UE L 326 z 08.12.2011, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 1227/2011”;
+- **44b)** rynki energii elektrycznej – rynki energii elektrycznej, w tym rynki pozagiełdowe i giełdy energii elektrycznej oraz rynek bilansujący energii elektrycznej, służące handlowi energią elektryczną, zdolnościami wytwórczymi, bilansowaniem i usługami systemowymi oraz usługami elastyczności w dowolnych przedziałach czasowych, w tym rynki terminowe, dnia następnego i dnia bieżącego oraz rzeczywistego czasu;
+- **45)** wytwarzanie: o odpadach (Dz. U. z 2023 r. poz. 1587, z późn. zm. ) zgodnie z hierarchią sposobów postępowania z odpadami określoną w tej ustawie, lub gazu odlotowego z procesów technologicznych, lub gazu spalinowego, które powstały jako nieuniknione i niezamierzone następstwo procesu produkcyjnego,
+    - **a)** produkcję paliw stałych, paliw gazowych lub energii w procesie energetycznym,
+    - **b)** produkcję paliw ciekłych w instalacjach wytwarzania paliw ciekłych, w procesach: – przerobu ropy naftowej, kondensatu gazu ziemnego (NGL), półproduktów rafinacji ropy naftowej i innych węglowodorów albo przerobu biomasy, – przetwarzania poprzez mieszanie komponentów lub paliw ciekłych lub poprzez mieszanie komponentów z paliwami ciekłymi, – przeklasyfikowywania komponentów w paliwa ciekłe w rozumieniu przepisów o podatku akcyzowym, – przerobu pochodzących ze źródeł nieodnawialnych, ciekłych i stałych strumieni odpadów, które nie nadają się do odzysku materiałów w rozumieniu art. 3 ust. 1 pkt 15a ustawy z dnia 14 grudnia 2012 r.
+    - **c)** produkcję wodoru;
+
+- **46)** przedsiębiorstwo powiązane – jednostkę powiązaną z jednostką w rozumieniu art. 3 pkt 43 ustawy z dnia 29 września 1994 r. o rachunkowości;
+- **47)** derywat elektroenergetyczny – instrument finansowy w rozumieniu art. 2 ust. 1 pkt 2 lit. d–f ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, który odnosi się do energii elektrycznej;
+- **48)** derywat gazowy – instrument finansowy w rozumieniu art. 2 ust. 1 pkt 2 lit. d–f ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, który odnosi się do paliw gazowych;
+- **49)** system gazowy wzajemnie połączony – wzajemnie połączone sieci gazowe, instalacje magazynowe lub instalacje skroplonego gazu ziemnego oraz przyłączone do nich urządzenia i instalacje współpracujące z tymi sieciami lub instalacjami;
+- **50)** informacja wewnętrzna – informację wewnętrzną w rozumieniu art. 2 pkt 1 rozporządzenia 1227/2011;
+- **51)** manipulacja na rynku – manipulację na rynku, o której mowa w art. 2 pkt 2 rozporządzenia 1227/2011;
+- **52)** próba manipulacji na rynku – próbę manipulacji na rynku, o której mowa w art. 2 pkt 3 rozporządzenia 1227/2011;
+- **53)** produkty energetyczne sprzedawane w obrocie hurtowym – umowy i instrumenty pochodne, o których mowa w art. 2 pkt 4 rozporządzenia 1227/2011;
+- **54)** uczestnik rynku – osobę fizyczną, osobę prawną oraz jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną, zawierającą transakcje, obejmujące składanie zleceń, na co najmniej jednym hurtowym rynku energii elektrycznej lub paliw gazowych w rozumieniu art. 2 pkt 6 rozporządzenia 1227/2011;
+- **55)** prosument energii odnawialnej – prosumenta energii odnawialnej w rozumieniu ustawy, o której mowa w pkt 20;
+- **55a)** prosument wirtualny energii odnawialnej – prosumenta wirtualnego energii odnawialnej w rozumieniu ustawy, o której mowa w pkt 20;
+- **55b)** prosument zbiorowy energii odnawialnej – prosumenta zbiorowego energii odnawialnej w rozumieniu ustawy, o której mowa w pkt 20;
+- **55c)** partnerski handel energią z odnawialnych źródeł energii – partnerski handel energią z odnawialnych źródeł energii w rozumieniu art. 2 pkt 27 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **56)** magazynowanie paliw gazowych – świadczenie usług przechowywania paliw gazowych w instalacji magazynowej;
+- **57)** magazynowanie paliw ciekłych – świadczenie usług przechowywania paliw ciekłych w instalacji magazynowania paliw ciekłych;
+- **58)** przeładunek paliw ciekłych – świadczenie usług załadowywania lub rozładowywania cystern drogowych, cystern kolejowych, cystern kontenerowych lub statków z wykorzystaniem instalacji przeładunku paliw ciekłych;
+- **59)** magazynowanie energii elektrycznej – odroczenie, w systemie elektroenergetycznym, końcowego zużycia energii elektrycznej lub przetworzenie energii elektrycznej pobranej z sieci elektroenergetycznej lub wytworzonej przez jednostkę wytwórczą przyłączoną do sieci elektroenergetycznej i współpracującą z tą siecią do innej postaci energii, przechowanie tej energii, a następnie ponowne jej przetworzenie na energię elektryczną;
+- **59a)** magazynowanie energii:
+    - **a)** magazynowanie energii elektrycznej lub
+    - **b)** przetworzenie energii elektrycznej pobranej z sieci elektroenergetycznej lub wytworzonej przez jednostkę wytwórczą przyłączoną do sieci elektroenergetycznej i współpracującą z tą siecią do innej postaci energii, w tym do postaci paliwa, przechowanie tej energii, a następnie wykorzystanie jej w postaci nośnika energii, lub
+    - **c)** przetworzenie energii elektrycznej pobranej z systemu nieprzyłączonego do sieci elektroenergetycznej, przechowanie tej energii, a następnie wykorzystanie jej w postaci nośnika energii;
+
+- **60)** grupy i podgrupy przyłączeniowe – grupy podmiotów ubiegające się o przyłączenie do sieci, określone w przepisach wydanych na podstawie art. 9 ust. 1–4;
+- **61)** dane pomiarowe – dane pozyskiwane lub wyznaczane dla punktu pomiarowego;
+- **62)** informacje rynku energii – informacje dotyczące punktu pomiarowego, dane pomiarowe, informacje o zdarzeniach rejestrowanych przez licznik zdalnego odczytu, polecenia odbierane przez licznik zdalnego odczytu oraz inne informacje niezbędne do dostarczania energii elektrycznej;
+- **63)** układ pomiarowo-rozliczeniowy – urządzenia pomiarowo-rozliczeniowe, liczniki i inne przyrządy pomiarowe, a także układy połączeń między nimi, służące bezpośrednio lub pośrednio do pomiarów ilości energii elektrycznej, paliw gazowych lub ciepła i rozliczeń za tę energię, paliwa gazowe lub ciepło, w szczególności gazomierze, ciepłomierze oraz liczniki energii czynnej i liczniki energii biernej, w tym takie liczniki wraz z przekładnikami prądowymi i napięciowymi;
+- **64)** licznik zdalnego odczytu – przyrząd pomiarowy w rozumieniu art. 4 pkt 5 ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz. 2063), służący do pomiaru energii elektrycznej i rozliczeń za tę energię, wyposażony w funkcję komunikacji z systemem zdalnego odczytu;
+- **65)** licznik konwencjonalny – przyrząd pomiarowy w rozumieniu art. 4 pkt 5 ustawy z dnia 11 maja 2001 r. – Prawo o miarach, służący do pomiaru energii elektrycznej i rozliczeń za tę energię, niewyposażony w funkcję komunikacji z systemem zdalnego odczytu;
+- **66)** punkt pomiarowy – miejsce w urządzeniu, instalacji lub sieci, w którym dokonuje się pomiaru lub wyznaczenia wielkości fizycznych dotyczących energii elektrycznej;
+- **67)** punkt poboru energii – punkt pomiarowy w instalacji lub sieci, dla którego dokonuje się rozliczeń oraz dla którego może nastąpić zmiana sprzedawcy;
+- **68)** system zdalnego odczytu – system informacyjny służący do pozyskiwania danych pomiarowych z liczników zdalnego odczytu i informacji o zdarzeniach rejestrowanych przez te liczniki oraz służący do wysyłania poleceń do liczników zdalnego odczytu;
+- **69)** centralny system informacji rynku energii – system informacyjny służący do przetwarzania informacji rynku energii na potrzeby realizacji procesów rynku energii oraz wymiany informacji pomiędzy użytkownikami systemu elektroenergetycznego;
+- **70)** system pomiarowy – system zdalnego odczytu, liczniki zdalnego odczytu wraz z niezbędną infrastrukturą techniczną skomunikowane z tym systemem zdalnego odczytu oraz liczniki konwencjonalne, służący do przetwarzania danych pomiarowych, w celu ich przekazania do centralnego systemu informacji rynku energii;
+- **71)** system informacyjny – system informacyjny w rozumieniu art. 2 pkt 14 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2024 r. poz. 1077 i 1222 oraz z 2025 r. poz. 1017 i 1069);
+- **72)** operator informacji rynku energii – podmiot odpowiedzialny za zarządzanie i administrowanie centralnym systemem informacji rynku energii oraz przetwarzanie zgromadzonych w nim informacji na potrzeby realizacji procesów rynku energii;
+- **73)** jednostkowe dane pomiarowe – dane pomiarowe dotyczące pomiarów dla pojedynczego punktu pomiarowego, dla których jest możliwe ich przypisanie do danego użytkownika systemu elektroenergetycznego;
+- **74)** zagregowane dane pomiarowe – dane pomiarowe dla zbioru punktów pomiarowych, dla których nie jest możliwe przypisanie ich do danego użytkownika systemu elektroenergetycznego;
+- **75)** operator ogólnodostępnej stacji ładowania – operatora ogólnodostępnej stacji ładowania w rozumieniu art. 2 pkt 7 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych;
+- **76)** regionalne centrum koordynacyjne – regionalne centrum koordynacyjne, o którym mowa w art. 35 rozporządzenia 2019/943;
+- **77)** sieć przesyłowa wodorowa – sieć wodorową, z wyłączeniem sieci wodorowej ograniczonej geograficznie, za której ruch sieciowy jest odpowiedzialny operator systemu przesyłowego wodorowego, która:
+    - **a)** jest bezpośrednio połączona z instalacją magazynową wodoru, lub
+    - **b)** służy do transportu wodoru do innej sieci wodorowej lub instalacji magazynowej wodoru – w tym sieć wodorową mogącą służyć do dostarczania wodoru do odbiorców bezpośrednio przyłączonych do tej sieci;
+
+- **78)** sieć dystrybucyjna wodorowa – sieć wodorową, z wyłączeniem sieci wodorowej ograniczonej geograficznie, za której ruch sieciowy jest odpowiedzialny operator systemu dystrybucyjnego wodorowego, która:
+    - **a)** nie jest bezpośrednio połączona z instalacją magazynową wodoru, oraz
+    - **b)** służy do dostarczania wodoru do odbiorców bezpośrednio przyłączonych do tej sieci;
+
+- **79)** sieć wodorowa ograniczona geograficznie – sieć wodorową przeznaczoną do dystrybucji wodoru niskoemisyjnego, wodoru odnawialnego lub wodoru odnawialnego pochodzenia niebiologicznego, obejmującą swoim zasięgiem ograniczony geograficznie obszar przemysłowy lub handlowy albo rurociąg przeznaczony do dystrybucji wodoru niskoemisyjnego, wodoru odnawialnego lub wodoru odnawialnego pochodzenia niebiologicznego, który został zbudowany w celu bezpośredniego dostarczania wodoru do instalacji odbiorcy z pominięciem systemu wodorowego;
+- **80)** system wodorowy – sieci wodorowe lub instalacje magazynowe wodoru oraz przyłączone do nich urządzenia i instalacje współpracujące z tymi sieciami lub instalacjami, zawierające wodór, dla którego wartość ułamka molowego wodoru wynosi przynajmniej 0,95 i wartość ułamka molowego innych gazów niż wodór nie przekracza 0,05;
+- **81)** użytkownik systemu wodorowego – podmiot dostarczający wodór do systemu wodorowego lub pobierający wodór z tego systemu;
+- **82)** przesyłanie wodoru – transport wodoru sieciami przesyłowymi wodorowymi w celu jego dostarczania do innych sieci wodorowych, instalacji magazynowych wodoru lub odbiorców bezpośrednio przyłączonych do sieci przesyłowych wodorowych, z wyłączeniem sprzedaży wodoru;
+- **83)** dystrybucja wodoru – transport wodoru sieciami dystrybucyjnymi wodorowymi w celu jego dostarczania do odbiorców bezpośrednio przyłączonych do sieci dystrybucyjnych wodorowych lub transport wodoru sieciami wodorowymi ograniczonymi geograficznie, z wyłączeniem sprzedaży wodoru;
+- **84)** magazynowanie wodoru – świadczenie usług przechowywania wodoru w instalacji magazynowej wodoru;
+- **85)** lokalne magazynowanie wodoru – magazynowanie wodoru wykonywane w miejscu jego wytworzenia lub magazynowanie wodoru w miejscu przeznaczonym do jego sprzedaży;
+- **86)** mała instalacja magazynowa wodoru – instalację używaną do magazynowania wodoru, dla którego wartość ułamka molowego wodoru wynosi przynajmniej 0,95 i wartość ułamka molowego innych gazów niż wodór nie przekracza 0,05, o pojemności mniejszej lub równej 85 000 Nm ;
+- **87)** instalacja magazynowa wodoru – instalację używaną do magazynowania wodoru, dla którego wartość ułamka molowego wodoru wynosi przynajmniej 0,95 i wartość ułamka molowego innych gazów niż wodór nie przekracza 0,05, o pojemności większej niż 85 000 Nm ;
+- **88)** operator systemu przesyłowego wodorowego – przedsiębiorstwo energetyczne zajmujące się przesyłaniem wodoru, odpowiedzialne za ruch sieciowy w sieci przesyłowej wodorowej, bieżące i długookresowe bezpieczeństwo funkcjonowania tej sieci, eksploatację, konserwację, remonty oraz niezbędną rozbudowę sieci przesyłowej wodorowej, w tym połączeń z innymi systemami wodorowymi;
+- **89)** operator systemu dystrybucyjnego wodorowego – przedsiębiorstwo energetyczne zajmujące się dystrybucją wodoru, odpowiedzialne za ruch sieciowy w sieci dystrybucyjnej wodorowej, bieżące i długookresowe bezpieczeństwo funkcjonowania tej sieci, eksploatację, konserwację, remonty oraz niezbędną rozbudowę sieci dystrybucyjnej wodorowej, w tym połączeń z innymi systemami wodorowymi;
+- **90)** operator systemu magazynowania wodoru – przedsiębiorstwo energetyczne zajmujące się magazynowaniem wodoru, odpowiedzialne za eksploatację instalacji magazynowej wodoru;
+- **91)** operator systemu połączonego wodorowego – przedsiębiorstwo energetyczne zarządzające systemami połączonymi wodorowymi, w tym systemem przesyłowym wodorowym, systemem dystrybucyjnym wodorowym lub systemem magazynowania wodoru;
+- **92)** operator systemu wodorowego – operatora systemu przesyłowego wodorowego, operatora systemu dystrybucyjnego wodorowego, operatora systemu połączonego wodorowego lub operatora systemu magazynowania wodoru;
+- **93)** osoba zawodowo pośrednicząca w zawieraniu transakcji lub zawodowo realizująca transakcje – osobę zawodowo pośredniczącą w zawieraniu transakcji lub zawodowo realizującą transakcje w rozumieniu art. 2 pkt 8a rozporządzenia 1227/2011;
+- **94)** zarejestrowany mechanizm sprawozdawczy – zarejestrowany mechanizm sprawozdawczy w rozumieniu art. 2 pkt 16 rozporządzenia 1227/2011;
+- **95)** platforma informacji wewnętrznych – platformę informacji wewnętrznych w rozumieniu art. 2 pkt 17 rozporządzenia 1227/2011;
+- **96)** handel algorytmiczny – handel algorytmiczny w rozumieniu art. 2 pkt 18 rozporządzenia 1227/2011.
+
 **Art. 3a.**
 
 1. Korespondencja między przedsiębiorstwami energetycznymi, odbiorcami, organami administracji publicznej oraz innymi podmiotami, w tym wnioski, oświadczenia, informacje, powiadomienia, jest wymieniana w postaci papierowej, dokumentowej, elektronicznej lub za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513).
@@ -139,6 +427,38 @@ Art. 58–62. (pominięte)
 **Art. 4a.** (uchylony)
 
 **Art. 4b.** (uchylony) Art. 4ba. 1. Przedsiębiorstwo energetyczne zajmujące się magazynowaniem, przeładunkiem, przesyłaniem lub dystrybucją paliw ciekłych prowadzi wykaz przedsiębiorstw energetycznych zajmujących się wytwarzaniem, obrotem, w tym obrotem z zagranicą paliwami ciekłymi, podmiotów przywożących i odbiorców końcowych paliw ciekłych, którym świadczyli w ciągu ostatnich 12 miesięcy odpowiednio usługi magazynowania, przeładunku, przesyłania lub dystrybucji. Wykaz ustalany jest na ostatni dzień każdego miesiąca kalendarzowego w terminie do 7 dni od ostatniego dnia miesiąca. 2. Wykaz, o którym mowa w ust. 1, zawiera:
+
+- **1)** oznaczenie przedsiębiorstwa energetycznego, podmiotu przywożącego lub odbiorcy końcowego paliw ciekłych poprzez:
+    - **a)** imię i nazwisko albo nazwę wraz z oznaczeniem formy prawnej,
+    - **b)** miejsce zamieszkania albo siedzibę oraz ich adres,
+    - **c)** numer PESEL lub numer identyfikacji podatkowej (NIP), jeżeli posiada,
+    - **d)** (uchylona)
+    - **e)** numer akcyzowy wydany przez właściwego naczelnika urzędu skarbowego, jeżeli posiada,
+    - **f)** serię i numer dokumentu tożsamości w przypadku osób fizycznych;
+
+- **2)** informacje o rodzajach paliw ciekłych będących przedmiotem usług, o których mowa w ust. 1;
+- **3)** informacje o posiadanych koncesjach lub o wpisie do rejestru podmiotów przywożących;
+- **4)** informacje o wpisie do rejestru zapasów interwencyjnych, o którym mowa w art. 13 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2024 r. poz. 1281 oraz z 2025 r. poz. 1168 i 1303), zwanej dalej „ustawą o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym”.
+
+3. Przedsiębiorstwo energetyczne świadczące usługi, o których mowa w ust. 1, udostępnia wykaz w swojej siedzibie oraz publikuje go na swojej stronie internetowej, jeżeli ją posiada, z wyłączeniem danych dotyczących miejsca zamieszkania, numeru PESEL oraz serii i numeru dokumentu tożsamości.
+
+4. Przedsiębiorstwo energetyczne świadczące usługi, o których mowa w ust. 1, przekazuje Prezesowi Urzędu Regulacji Energetyki miesięczne sprawozdanie zawierające informacje o podmiotach zlecających usługi, o których mowa w ust. 1, w terminie 20 dni od dnia zakończenia miesiąca, którego dotyczy sprawozdanie.
+
+5. Sprawozdanie, o którym mowa w ust. 4, zawiera:
+
+- **1)** nazwę przedsiębiorstwa energetycznego świadczącego usługi, o których mowa w ust. 1, adres siedziby oraz numer identyfikacji podatkowej (NIP), a także imię i nazwisko oraz numer telefonu, o ile taki numer posiada, osoby podpisującej sprawozdanie;
+- **1a)** oznaczenie przedsiębiorstwa energetycznego, podmiotu przywożącego lub odbiorcy końcowego paliw ciekłych, na rzecz których są świadczone usługi, o których mowa w ust. 1, poprzez wskazanie danych określonych w ust. 2 pkt 1;
+- **2)** informacje o rodzajach i ilości paliw ciekłych oraz ich pochodzeniu, poprzez wskazanie informacji o przywozie na terytorium Rzeczypospolitej Polskiej lub wytworzeniu lub nabyciu na tym terytorium, będących przedmiotem usług, o których mowa w ust. 1, wraz z podaniem miejsca ich świadczenia.
+
+5a. Sprawozdanie, o którym mowa w ust. 4, przekazuje się w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym za pośrednictwem portalu Platforma Paliwowa.
+
+6. (uchylony)
+
+7. (uchylony)
+
+8. Na podstawie sprawozdań, o których mowa w ust. 4, Prezes Rządowej Agencji Rezerw Strategicznych sporządza miesięczne zestawienie danych indywidualnych zawartych w tych sprawozdaniach.
+
+9. (uchylony)
 
 **Art. 4c.**
 
@@ -1881,6 +2201,11 @@ Art. 58–62. (pominięte)
 
 **Art. 9a.** (uchylony) Art. 9aa. 1. Maksymalna utrata generacji mocy czynnej z jednostki wytwórczej nie może przekraczać największej mocy przyłączeniowej określonej dla niepodzielnego synchronicznego modułu wytwarzania energii w warunkach przyłączenia do sieci przesyłowej elektroenergetycznej oraz koordynowanej sieci 110 kV. Operator systemu przesyłowego elektroenergetycznego określa w instrukcji, o której mowa w art. 9g ust. 1:
 
+- **1)** wartość maksymalnej utraty generacji mocy czynnej,
+- **2)** datę, od której ta wartość obowiązuje – biorąc pod uwagę bezpieczeństwo i niezawodne funkcjonowanie krajowego systemu elektroenergetycznego.
+
+2. Wytwórca stosuje rozwiązania techniczne zapewniające spełnienie wymagań przez jednostkę wytwórczą.
+
 **Art. 9b.** Przedsiębiorstwa energetyczne zajmujące się przesyłaniem i dystrybucją ciepła są odpowiedzialne za ruch sieciowy i zapewnienie utrzymania należących do nich sieci oraz współdziałanie z innymi przedsiębiorstwami energetycznymi i odbiorcami korzystającymi z sieci, na warunkach określonych w rozporządzeniu wydanym na podstawie art. 9 ust. 7 i 8.
 
 **Art. 9c.**
@@ -3413,6 +3738,13 @@ Art. 58–62. (pominięte)
 
 **Art. 11f.** Ograniczenia w dostarczaniu i poborze energii elektrycznej, o których mowa w art. 11, lub działania i środki, o których mowa w art. 11c i art. 11d niniejszej ustawy oraz w art. 16 ust. 2 rozporządzenia 2019/943, powinny:
 
+- **1)** powodować jak najmniejsze zakłócenia w funkcjonowaniu rynku energii elektrycznej;
+- **2)** być stosowane:
+    - **a)** w zakresie niezbędnym do przywrócenia prawidłowego funkcjonowania systemu elektroenergetycznego,
+    - **b)** na podstawie kryteriów przyjętych dla bieżącego bilansowania systemu elektroenergetycznego i zarządzania ograniczeniami systemowymi;
+
+- **3)** być podejmowane w uzgodnieniu z właściwymi operatorami systemów przesyłowych elektroenergetycznych, stosownie do postanowień umów, w szczególności dotyczących wymiany informacji.
+
 #### Rozdział 2a
 
 #### Rozdział 2b Przesyłanie dwutlenku węgla
@@ -3568,6 +3900,9 @@ Art. 58–62. (pominięte)
 - **4)** podmiot upoważniony przez odbiorcę końcowego – w zakresie określonym w upoważnieniu lub w instrukcji, o której mowa w art. 9g ust. 5c.
 
 **Art. 11w.** W przypadku:
+
+- **1)** braku możliwości pozyskania rzeczywistych danych pomiarowych z licznika konwencjonalnego lub z licznika zdalnego odczytu – wyznacza się zastępcze dane pomiarowe;
+- **2)** gdy dane pomiarowe pozyskane z licznika konwencjonalnego lub z licznika zdalnego odczytu są błędne – wyznacza się skorygowane dane pomiarowe.
 
 **Art. 11x.**
 
@@ -3824,6 +4159,10 @@ Art. 58–62. (pominięte)
 **Art. 14.** (uchylony)
 
 **Art. 15.** Polityka energetyczna państwa jest opracowywana zgodnie z zasadą zrównoważonego rozwoju kraju i zawiera w szczególności:
+
+- **1)** diagnozę sytuacji w sektorze energii;
+- **2)** priorytetowe kierunki działań państwa w sektorze energii;
+- **3)** część prognostyczną obejmującą okres nie krótszy niż 10 lat, w tym prognozy zmian bilansu paliwowo-energetycznego.
 
 **Art. 15a.**
 
@@ -4389,6 +4728,9 @@ Art. 58–62. (pominięte)
 
 **Art. 21a.** Organami właściwymi w sprawach regulacji gospodarki paliwami i energią dla:
 
+- **1)** jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, jednostek organizacyjnych Policji, Państwowej Straży Pożarnej, Straży Granicznej i Służby Ochrony Państwa oraz jednostek organizacyjnych więziennictwa podległych Ministrowi Sprawiedliwości są inspekcje gospodarki energetycznej powoływane przez właściwych ministrów w uzgodnieniu z Prezesem URE;
+- **2)** jednostek organizacyjnych Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego są inspekcje gospodarki energetycznej powoływane przez Szefów tych Agencji w uzgodnieniu z Prezesem URE.
+
 **Art. 22.** (uchylony)
 
 **Art. 23.**
@@ -4923,7 +5265,34 @@ Art. 58–62. (pominięte)
 
 **Art. 28b.** Tajemnica służbowa, o której mowa w art. 17 rozporządzenia 1227/2011, może być ujawniana wyłącznie na żądanie:
 
+- **1)** sądu lub prokuratora w związku z:
+    - **a)** toczącym się przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji objętych tajemnicą służbową, postępowaniem karnym lub karnym skarbowym,
+    - **b)** toczącym się postępowaniem karnym lub karnym skarbowym o przestępstwo popełnione w związku z działaniem osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy, czynności lub transakcji objętych tajemnicą służbową,
+    - **c)** wykonaniem wniosku o udzielenie pomocy prawnej, pochodzącego od państwa obcego, które na mocy ratyfikowanej umowy międzynarodowej wiążącej Rzeczpospolitą Polską ma prawo występować o udostępnienie tajemnicy służbowej;
+
+- **2)** organu Krajowej Administracji Skarbowej – w związku z prowadzonym przez ten organ postępowaniem w sprawie o przestępstwo, przestępstwo skarbowe lub wykroczenie skarbowe, w zakresie informacji dotyczących danej osoby fizycznej, prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej:
+    - **a)** przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji objętych tajemnicą służbową,
+    - **b)** popełnione w zakresie działalności osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy, czynności lub transakcji objętych tajemnicą służbową;
+
+- **3)** Prezesa Najwyższej Izby Kontroli lub upoważnionego przez niego kontrolera – w zakresie danych dotyczących jednostki kontrolowanej, niezbędnych do ustalenia stanu faktycznego w prowadzonym postępowaniu kontrolnym dotyczącym tej jednostki, określonym w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623);
+- **4)** Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa i ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy – w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
+- **5)** Prezesa URE – w związku z wykonywaniem zadań wynikających z rozporządzenia 1227/2011;
+- **6)** Prezesa Urzędu Ochrony Konkurencji i Konsumentów – w zakresie realizacji zadań wynikających z ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów;
+- **7)** Przewodniczącego Komisji Nadzoru Finansowego – w zakresie realizacji zadań wynikających z ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym;
+- **8)** Policji – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 20 ust. 1d i 1e ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366);
+- **9)** Agencji Bezpieczeństwa Wewnętrznego – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 34 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902 i 1366);
+- **10)** Centralnego Biura Antykorupcyjnego – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 23 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718);
+- **11)** komornika sądowego – w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym w sprawie roszczeń wobec podmiotu będącego stroną umowy lub innej czynności prawnej objętej tajemnicą służbową albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza dotyczących spadku po takim podmiocie – w zakresie informacji dotyczących tego podmiotu;
+- **12)** administracyjnego organu egzekucyjnego – w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym.
+
 **Art. 28c.** Zakazu ujawniania tajemnicy służbowej, o której mowa w art. 17 rozporządzenia 1227/2011, nie narusza przekazywanie takiej informacji:
+
+- **1)** właściwym organom w zawiadomieniu o podejrzeniu popełnienia przestępstwa lub w załączonych do niego dokumentach;
+- **2)** Generalnemu Inspektorowi Informacji Finansowej, Szefowi Krajowego Centrum Informacji Kryminalnych lub organom Krajowej Administracji Skarbowej – w zakresie, trybie i na warunkach określonych w odrębnych ustawach;
+- **3)** przez Prezesa URE lub jego upoważnionego przedstawiciela do publicznej wiadomości – w zakresie dotyczącym treści podjętych decyzji, także w sprawach indywidualnych, na podstawie których są wydawane decyzje administracyjne, jeżeli ze względu na przejrzystość rynku energetycznego Prezes URE uznał przekazanie takiej informacji za uzasadnione;
+- **4)** w wykonaniu obowiązków informacyjnych, publikacyjnych lub sprawozdawczych określonych w ustawie lub przepisach wydanych na jej podstawie;
+- **5)** bezpośrednio osobie, której informacja dotyczy, lub za zgodą tej osoby;
+- **6)** w wykonaniu obowiązków, o których mowa w art. 16 rozporządzenia 1227/2011.
 
 **Art. 29.** Prezes Rady Ministrów określa, w drodze rozporządzenia, zasady wynagradzania pracowników URE.
 
@@ -6858,6 +7227,19 @@ Art. 58–62. (pominięte)
 
 **Art. 62d.** Od dnia 1 stycznia 2020 r. do dnia 30 czerwca 2021 r.:
 
+- **1)** przedsiębiorstwo energetyczne świadczące usługi, o których mowa w art. 4ba ust. 1, przekazuje Prezesowi URE miesięczne sprawozdanie zawierające informacje o podmiotach zlecających usługi, o których mowa w art. 4ba ust. 1, w terminie 14 dni od dnia zakończenia miesiąca, którego dotyczy to sprawozdanie;
+- **2)** na wniosek Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych lub ministra właściwego do spraw energii, Prezes URE przekazuje kopie sprawozdań, o których mowa w pkt 1, do wnioskującego organu;
+- **3)** Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienie danych, o których mowa w art. 4ba ust. 8, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych;
+- **4)** przedsiębiorstwo energetyczne posiadające koncesję na wytwarzanie paliw ciekłych lub koncesję na obrót paliwami ciekłymi z zagranicą, a także podmiot przywożący stosownie do swojej działalności przekazuje Prezesowi URE miesięczne sprawozdanie o rodzajach oraz ilości wytworzonych, przywiezionych i wywiezionych paliw ciekłych, a także ich przeznaczeniu – w terminie 20 dni od dnia zakończenia miesiąca, którego dotyczy to sprawozdanie;
+- **5)** na wniosek Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych lub ministra właściwego do spraw energii, Prezes URE przekazuje kopie sprawozdań, o których mowa w pkt 4, do wnioskującego organu;
+- **6)** Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienia danych, o których mowa w art. 43d ust. 5, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych. Art. 62da. Od dnia 1 lipca 2021 r. do dnia 30 czerwca 2023 r.:
+- **1)** przedsiębiorstwo energetyczne świadczące usługi, o których mowa w art. 4ba ust. 1, przekazuje Prezesowi URE miesięczne sprawozdanie zawierające informacje o podmiotach zlecających usługi, o których mowa w art. 4ba ust. 1, w terminie 14 dni od dnia zakończenia miesiąca, którego dotyczy to sprawozdanie;
+- **2)** na wniosek Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych lub ministra właściwego do spraw energii Prezes URE przekazuje kopie sprawozdań, o których mowa w pkt 1, do wnioskującego organu;
+- **3)** Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienie danych, o których mowa w art. 4ba ust. 8, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych;
+- **4)** przedsiębiorstwo energetyczne posiadające koncesję na wytwarzanie paliw ciekłych lub koncesję na obrót paliwami ciekłymi z zagranicą, a także podmiot przywożący stosownie do swojej działalności przekazuje Prezesowi URE miesięczne sprawozdanie o rodzajach oraz ilości wytworzonych, przywiezionych i wywiezionych paliw ciekłych, a także ich przeznaczeniu – w terminie 20 dni od dnia zakończenia miesiąca, którego dotyczy to sprawozdanie;
+- **5)** na wniosek Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych lub ministra właściwego do spraw energii Prezes URE przekazuje kopie sprawozdań, o których mowa w pkt 4, do wnioskującego organu;
+- **6)** Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienia danych, o których mowa w art. 43d ust. 5, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych.
+
 **Art. 62e.**
 
 1. Przedsiębiorstwo energetyczne wykonujące działalność polegającą na wytwarzaniu paliw ciekłych, magazynowaniu lub przeładunku paliw ciekłych, przesyłaniu lub dystrybucji paliw ciekłych, obrocie paliwami ciekłymi, w tym obrocie nimi z zagranicą, a także podmiot przywożący, które nie wykonały obowiązku, o którym mowa w art. 31 ust. 1 i 2 ustawy z dnia 22 lipca 2016 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1165 i 1986 oraz z 2017 r. poz. 1387), przekazują do Prezesa URE informacje o rodzajach i lokalizacji infrastruktury paliw ciekłych wykorzystywanej do prowadzonej działalności, zgodnie z wzorem określonym w przepisach wydanych na podstawie art. 43e ust. 2, w terminie do dnia 31 grudnia 2021 r.
@@ -6990,6 +7372,8 @@ Art. 58–62. (pominięte)
 
 **Art. 62k.** Środki wypłacone z tytułu rekompensat, o których mowa w art. 62g oraz art. 62h, zalicza się do kategorii drugiej należności podlegających zaspokojeniu z funduszów masy upadłości, o której mowa w art. 342 ust. 1 pkt 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i
 
+- **1172)** . Art. 63–67. (pominięte)
+
 **Art. 68.**
 
 1. Z dniem wejścia w życie ustawy znosi się Okręgowe Inspektoraty Gospodarki Energetycznej, utworzone ustawą z dnia 6 kwietnia 1984 r. o gospodarce energetycznej (Dz. U. poz. 96, z 1987 r. poz. 180, z 1988 r. poz. 132, z 1989 r. poz. 192 oraz z 1990 r. poz. 89 i 198).
@@ -7017,6 +7401,10 @@ Art. 58–62. (pominięte)
 2. Zaświadczenia kwalifikacyjne wydane na podstawie przepisów dotychczasowych zachowują moc przez okres w nich oznaczony.
 
 **Art. 71.** Tracą moc:
+
+- **1)** ustawa z dnia 28 czerwca 1950 r. o powszechnej elektryfikacji wsi i osiedli (Dz. U. z 1954 r. poz. 135);
+- **2)** ustawa z dnia 6 kwietnia 1984 r. o gospodarce energetycznej (Dz. U. poz. 96, z 1987 r. poz. 180, z 1988 r. poz. 132, z 1989 r. poz. 192 oraz z 1990 r. poz. 89 i
+- **198)** .
 
 **Art. 72.** Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia , z wyjątkiem art. 21, który wchodzi w życie z dniem ogłoszenia ustawy oraz art. 18 ust. 3 i 4, który wchodzi w życie z dniem 1 stycznia 1999 r.
 

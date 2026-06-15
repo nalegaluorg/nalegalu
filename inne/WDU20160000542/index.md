@@ -8,7 +8,7 @@ pos: 542
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o systemach oceny zgodności i nadzoru rynku
@@ -71,6 +71,10 @@ Art. 99–121. (pominięte)
 
 **Art. 2.** Celem ustawy jest:
 
+- **1)** zapewnienie konkurencyjności i innowacyjności gospodarki;
+- **2)** eliminowanie zagrożeń stwarzanych przez wyroby dla zdrowia i bezpieczeństwa, w tym w miejscu pracy, w celu ochrony konsumentów, mienia, środowiska i bezpieczeństwa publicznego;
+- **3)** znoszenie barier technicznych w handlu i ułatwianie obrotu towarowego.
+
 **Art. 3.**
 
 1. System oceny zgodności tworzą zasady, procedury oraz normy określające sposób przeprowadzania oceny zgodności, oraz wymagania dotyczące wyrobów podlegających ocenie zgodności.
@@ -83,11 +87,66 @@ Art. 99–121. (pominięte)
 
 **Art. 4.** Ilekroć w ustawie jest mowa o:
 
+- **1)** akredytacji – należy przez to rozumieć akredytację, o której mowa w art. 2 pkt 10 rozporządzenia (WE) nr 765/2008;
+- **2)** akredytowanej jednostce własnej – należy przez to rozumieć jednostkę prowadzącą działalność w zakresie oceny zgodności na rzecz podmiotu gospodarczego, którego jest częścią;
+- **3)** autoryzacji – należy przez to rozumieć potwierdzenie przez ministra albo kierownika urzędu centralnego właściwych ze względu na przedmiot oceny zgodności, że jednostka oceniająca zgodność spełnia warunki do notyfikacji, i zakwalifikowanie tej jednostki do procesu notyfikacji;
+- **4)** certyfikacie – należy przez to rozumieć dokument wydany przez jednostkę notyfikowaną, potwierdzający, że wyrób, projekt wyrobu lub proces jego wytwarzania są zgodne z wymaganiami;
+- **5)** certyfikacji – należy przez to rozumieć działanie jednostki oceniającej zgodność, wykazujące, że należycie zidentyfikowany wyrób, projekt wyrobu lub proces jego wytwarzania są zgodne z wymaganiami;
+- **6)** deklaracji zgodności – należy przez to rozumieć oświadczenie producenta, instalatora lub ich upoważnionego przedstawiciela albo prywatnego importera, na ich wyłączną odpowiedzialność, że wyrób jest zgodny z wymaganiami;
+- **7)** dyrektywach nowego podejścia – należy przez to rozumieć dyrektywy Unii Europejskiej, uchwalone zgodnie z zasadami zawartymi w uchwale Rady Unii Europejskiej z dnia 7 maja 1985 r. w sprawie nowego podejścia do harmonizacji technicznej oraz normalizacji;
+- **8)** dystrybutorze – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, inną niż producent lub importer, która udostępnia wyrób na rynku w ramach działalności handlowej;
+- **9)** importerze – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą miejsce zamieszkania albo siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, która wprowadza do obrotu wyroby pochodzące z państw trzecich;
+- **10)** instalatorze – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, która bierze odpowiedzialność za projekt, wykonanie, zainstalowanie oraz wprowadzenie do obrotu dźwigu;
+- **11)** jednostce oceniającej zgodność – należy przez to rozumieć jednostkę, o której mowa w art. 2 pkt 13 rozporządzenia (WE) nr 765/2008;
+- **12)** jednostce notyfikowanej – należy przez to rozumieć jednostkę oceniającą zgodność właściwą do wykonywania czynności określonych w procedurach oceny zgodności, notyfikowaną zgodnie z art. 29;
+- **12a)** niezgodnościach formalnych – należy przez to rozumieć niezgodności polegające na naruszeniu przez podmiot gospodarczy obowiązków, o których mowa w art. 13 pkt 2, 4 i 6–9, art. 16 pkt 2 i 4–6 oraz art. 17 pkt 2 i 3;
+- **13)** normie zharmonizowanej – należy przez to rozumieć normę zharmonizowaną w rozumieniu art. 2 pkt 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1025/2012 z dnia 25 października 2012 r. w sprawie normalizacji europejskiej, zmieniającego dyrektywy Rady 89/686/EWG i 93/15/EWG oraz dyrektywy Parlamentu Europejskiego i Rady 94/9/WE, 94/25/WE, 95/16/WE, 97/23/WE, 98/34/WE, 2004/22/WE, 2007/23/WE, 2009/23/WE i 2009/105/WE oraz uchylającego decyzję Rady 87/95/EWG i decyzję Parlamentu Europejskiego i Rady nr 1673/2006/WE (Dz. Urz. UE L 316 z 14.11.2012, str.
+- **12)** , której tytuł i numer zostały opublikowane w Dzienniku Urzędowym Unii Europejskiej;
+- **14)** notyfikacji – należy przez to rozumieć zgłoszenie Komisji Europejskiej i państwom członkowskim Unii Europejskiej autoryzowanych jednostek oceniających zgodność;
+- **15)** ocenie zgodności – należy przez to rozumieć ocenę zgodności w rozumieniu art. 2 pkt 12 rozporządzenia (WE) nr 765/2008;
+- **16)** oddaniu do użytku – należy przez to rozumieć pierwsze użycie wyrobu zgodne z jego przeznaczeniem na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
+- **17)** odzyskaniu wyrobu – należy przez to rozumieć dowolne działanie prowadzące do zwrotu wyrobu, który został udostępniony użytkownikowi końcowemu; w przypadku dźwigów należy przez to rozumieć każdy środek mający na celu doprowadzenie do demontażu i bezpiecznego składowania dźwigu;
+- **18)** oznakowaniu CE – należy przez to rozumieć oznakowanie CE w rozumieniu art. 2 pkt 20 rozporządzenia (WE) nr 765/2008;
+- **19)** podmiocie gospodarczym – należy przez to rozumieć producenta, upoważnionego przedstawiciela, importera, dystrybutora albo instalatora;
+- **20)** producencie – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która wytwarza wyrób albo dla której ten wyrób zaprojektowano lub wytworzono, w celu wprowadzenia go do obrotu lub oddania do użytku pod własną nazwą lub znakiem towarowym;
+- **21)** prywatnym importerze – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą miejsce zamieszkania albo siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, która w ramach działalności niehandlowej przywozi wyroby, o których mowa w dyrektywie Parlamentu Europejskiego i Rady 2013/53/UE z dnia 20 listopada 2013 r. w sprawie rekreacyjnych jednostek pływających i skuterów wodnych i uchylającej dyrektywę 94/25/WE (Dz. Urz. UE L 354 z 28.12.2013, str. 90), z państwa trzeciego w celu oddania ich do użytku dla własnych potrzeb;
+- **22)** specyfikacji technicznej – należy przez to rozumieć specyfikację techniczną w rozumieniu art. 2 pkt 8 rozporządzenia (WE) nr 765/2008;
+- **23)** udostępnieniu wyrobu na rynku – należy przez to rozumieć każde dostarczenie wyrobu w celu jego dystrybucji, konsumpcji lub używania na rynku państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w ramach działalności gospodarczej, odpłatnie lub nieodpłatnie;
+- **24)** unijnym prawodawstwie harmonizacyjnym – należy przez to rozumieć prawodawstwo, o którym mowa w art. 2 pkt 21 rozporządzenia (WE) nr 765/2008;
+- **25)** upoważnionym przedstawicielu – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą miejsce zamieszkania albo siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, upoważnioną przez producenta na piśmie do działania w jego imieniu, w odniesieniu do określonych zadań;
+- **25a)** uznanej organizacji strony trzeciej – należy przez to rozumieć jednostkę oceniającą zgodność, autoryzowaną do:
+    - **a)** uprawniania personelu, gdy zgodnie z wymaganiami dla wytwarzania urządzeń ciśnieniowych personel powinien posiadać uprawnienia do przeprowadzania badań nieniszczących połączeń, których nie można rozdzielić inaczej niż metodami niszczącymi, lub
+    - **b)** uprawniania personelu lub zatwierdzania instrukcji technologicznych, gdy zgodnie z wymaganiami dla wytwarzania urządzeń ciśnieniowych personel powinien posiadać uprawnienia do wykonywania połączeń elementów składowych obciążonych działaniem ciśnienia oraz elementów bezpośrednio do nich przyłączonych, a połączeń tych nie można rozdzielić inaczej niż metodami niszczącymi – notyfikowaną zgodnie z art. 29;
+
+- **26)** wprowadzeniu do obrotu – należy przez to rozumieć udostępnienie wyrobu na rynku po raz pierwszy;
+- **27)** wycofaniu z obrotu – należy przez to rozumieć działanie, którego celem jest zapobieżenie udostępnieniu wyrobu na rynku w danym łańcuchu dostaw;
+- **28)** wymaganiach – należy przez to rozumieć wymagania, o których mowa w bezpośrednio stosowanym unijnym prawodawstwie harmonizacyjnym lub w przepisach wdrażających unijne prawodawstwo harmonizacyjne;
+- **29)** wyrobie – należy przez to rozumieć rzecz, bez względu na stopień jej przetworzenia, przeznaczoną do wprowadzenia do obrotu lub oddania do użytku, z wyjątkiem artykułów rolno-spożywczych oraz pasz, żywych zwierząt lub roślin, produktów pochodzenia ludzkiego oraz produktów uzyskanych z roślin lub zwierząt związanych bezpośrednio z ich przyszłą reprodukcją.
+
 **Art. 4a.** W przypadku gdy przepisy ustawy stosuje się do urządzeń kolei linowych, modyfikacji urządzeń kolei linowych wymagających nowego zezwolenia oraz do podsystemów i elementów bezpieczeństwa, do których stosuje się przepisy rozporządzenia (UE) 2016/424, użyte w tych przepisach ustawy określenia:
+
+- **1)** dystrybutor, importer, jednostka oceniająca zgodność, ocena zgodności, oddanie do użytku, oznakowanie CE, podmiot gospodarczy, producent, unijne prawodawstwo harmonizacyjne, upoważniony przedstawiciel, wprowadzenie do obrotu, wycofanie z obrotu – mają znaczenie nadane im w art. 3 rozporządzenia (UE) 2016/424;
+- **2)** udostępnianie wyrobu na rynku – oznacza udostępnianie na rynku w rozumieniu art. 3 pkt 10 rozporządzenia (UE) 2016/424;
+- **3)** odzyskanie wyrobu – oznacza odzyskanie w rozumieniu art. 3 pkt 24 rozporządzenia (UE) 2016/424;
+- **4)** deklaracja zgodności – oznacza deklarację zgodności UE, o której mowa w art. 19 rozporządzenia (UE) 2016/424;
+- **5)** niezgodności formalne – oznacza niezgodność pod względem formalnym, o której mowa w art. 43 rozporządzenia (UE) 2016/424.
 
 **Art. 4b.** W przypadku gdy przepisy ustawy stosuje się do środków ochrony indywidualnej, do których stosuje się przepisy rozporządzenia (UE) 2016/425, użyte w tych przepisach ustawy określenia:
 
+- **1)** dystrybutor, importer, jednostka oceniająca zgodność, ocena zgodności, oznakowanie CE, podmiot gospodarczy, producent, unijne prawodawstwo harmonizacyjne, upoważniony przedstawiciel, wprowadzenie do obrotu, wycofanie z obrotu – mają znaczenie nadane im w art. 3 rozporządzenia (UE) 2016/425;
+- **2)** udostępnianie wyrobu na rynku – oznacza udostępnianie na rynku w rozumieniu art. 3 pkt 2 rozporządzenia (UE) 2016/425;
+- **3)** odzyskanie wyrobu – oznacza odzyskanie w rozumieniu art. 3 pkt 15 rozporządzenia (UE) 2016/425;
+- **4)** deklaracja zgodności – oznacza deklarację zgodności UE, o której mowa w art. 15 rozporządzenia (UE) 2016/425;
+- **5)** niezgodności formalne – oznacza niezgodność pod względem formalnym, o której mowa w art. 41 rozporządzenia (UE) 2016/425.
+
 **Art. 4c.** W przypadku gdy przepisy ustawy stosuje się do urządzeń i osprzętu, do których stosuje się przepisy rozporządzenia (UE) 2016/426, użyte w tych przepisach ustawy określenia:
+
+- **1)** dystrybutor, importer, jednostka oceniająca zgodność, ocena zgodności, oddanie do użytku, oznakowanie CE, podmiot gospodarczy, producent, unijne prawodawstwo harmonizacyjne, upoważniony przedstawiciel, wprowadzenie do obrotu – mają znaczenie nadane im w art. 2 rozporządzenia (UE) 2016/426;
+- **2)** udostępnianie wyrobu na rynku – oznacza udostępnianie na rynku w rozumieniu art. 2 pkt 14 rozporządzenia (UE) 2016/426;
+- **3)** odzyskanie wyrobu – oznacza odzyskanie w rozumieniu art. 2 pkt 28 rozporządzenia (UE) 2016/426;
+- **4)** wycofanie z obrotu – oznacza wycofanie w rozumieniu art. 2 pkt 29 rozporządzenia (UE) 2016/426;
+- **5)** deklaracja zgodności – oznacza deklarację zgodności UE, o której mowa w art. 15 rozporządzenia (UE) 2016/426;
+- **6)** niezgodności formalne – oznacza brak zgodności pod względem formalnym, o której mowa w art. 40 rozporządzenia (UE) 2016/426.
 
 **Art. 4d.** Jednostki organizacyjne niebędące osobami prawnymi, którym odrębna ustawa przyznaje zdolność prawną, uważa się za osoby prawne, o których mowa odpowiednio w art. 3 pkt 13–16 rozporządzenia (UE) 2016/424, art. 3 pkt 4–7 rozporządzenia (UE) 2016/425 oraz art. 2 pkt 17–20 rozporządzenia (UE) 2016/426.
 
@@ -145,9 +204,33 @@ Art. 99–121. (pominięte)
 
 **Art. 12.** Minister kierujący działem administracji rządowej właściwym ze względu na przedmiot oceny zgodności określi, w drodze rozporządzenia:
 
+- **1)** wymagania dla wyrobów podlegających ocenie zgodności określonych w dyrektywach nowego podejścia,
+- **2)** procedury oceny zgodności,
+- **3)** zakres dokumentacji technicznej wyrobów,
+- **4)** sposób oznakowania wyrobów,
+- **5)** elementy deklaracji zgodności,
+- **6)** dodatkowe warunki udzielania autoryzacji jednostkom oceniającym zgodność, jeśli takie warunki są określone w dyrektywach nowego podejścia – biorąc pod uwagę rodzaje wyrobów oraz stopień stwarzanych przez nie zagrożeń, a także inne wymagania zawarte w dyrektywach nowego podejścia.
+
 #### Rozdział 3 Obowiązki podmiotów gospodarczych oraz prywatnego importera
 
 **Art. 13.** Producent ma obowiązek:
+
+- **1)** zapewnić, żeby wyrób został zaprojektowany i wytworzony zgodnie z wymaganiami;
+- **2)** sporządzić dokumentację techniczną wyrobu;
+- **3)** przeprowadzić lub zlecić przeprowadzenie procedury oceny zgodności;
+- **4)** sporządzić deklarację zgodności i umieścić oznakowanie CE, a w przypadkach określonych w przepisach szczególnych inne oznakowanie, zgodnie z wymaganiami;
+- **5)** zapewnić stosowanie procedur mających na celu utrzymanie zgodności produkcji seryjnej z wymaganiami, z uwzględnieniem zmian w projekcie lub cechach charakterystycznych wyrobu oraz w innych dokumentach, w odniesieniu do których jest deklarowana jego zgodność;
+- **6)** przechowywać przez 10 lat od dnia wprowadzenia wyrobu do obrotu dokumentację techniczną, deklarację zgodności oraz dokumentację niezbędną do wykazania zgodności wyrobu z wymaganiami;
+- **7)** umieścić na wyrobie, a w przypadkach określonych w przepisach szczególnych na opakowaniu, w załączonym dokumencie lub na etykiecie, informacje umożliwiające identyfikację wyrobu;
+- **8)** umieścić na wyrobie, a w przypadkach określonych w przepisach szczególnych na opakowaniu, w załączonym dokumencie lub na etykiecie, swoją nazwę, zarejestrowany znak towarowy, o ile taki posiada, i adres; dane te podaje się w języku polskim;
+- **9)** dołączyć do wyrobu instrukcje, informacje, w tym dotyczące bezpieczeństwa użytkowania oraz, jeżeli jest to wymagane, kopie deklaracji zgodności i etykiety, sporządzone w języku polskim w sposób jasny, zrozumiały i czytelny;
+- **10)** prowadzić i analizować ewidencje skarg dotyczących wyrobów, wyrobów niezgodnych z wymaganiami i przypadków odzyskania wyrobów;
+- **11)** badać w uzasadnionych przypadkach próbki wyrobów udostępnionych na rynku, w szczególności z uwagi na zagrożenie stwarzane przez wyrób;
+- **12)** informować dystrybutorów o działaniach, o których mowa w pkt 10 i 11;
+- **13)** niezwłocznie podjąć działania w celu zapewnienia zgodności wyrobu, jego wycofania z obrotu lub odzyskania – w przypadku zaistnienia uzasadnionego podejrzenia, że jest on niezgodny z wymaganiami;
+- **14)** niezwłocznie informować właściwy organ nadzoru rynku, o którym mowa w art. 58 ust. 3, oraz właściwe organy nadzoru rynku państw członkowskich Unii Europejskiej, a także państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w których wyrób został udostępniony, o stwarzanym przez niego zagrożeniu, podając szczegółowe informacje, dotyczące w szczególności niezgodności z wymaganiami i podjętych działań;
+- **15)** udzielać na uzasadnione żądanie organu nadzoru rynku, o którym mowa w art. 58 ust. 2 i 3, informacji i udostępnić dokumentację w języku polskim, w postaci papierowej lub elektronicznej, w celu wykazania zgodności wyrobu z wymaganiami;
+- **16)** na żądanie organu nadzoru rynku, o którym mowa w art. 58 ust. 2 i 3, współpracować w celu usunięcia zagrożenia, jakie stwarza wyrób wprowadzony przez niego do obrotu.
 
 **Art. 14.**
 
@@ -165,9 +248,44 @@ Art. 99–121. (pominięte)
 
 **Art. 16.** Importer ma obowiązek:
 
+- **1)** wprowadzać do obrotu wyłącznie wyrób, który spełnia wymagania;
+- **2)** zapewnić, żeby producent spełnił obowiązki określone w art. 13 pkt 2–4, 7 i 8, a także, w stosownych przypadkach, żeby dołączył kopie deklaracji zgodności lub inne dokumenty;
+- **3)** nie wprowadzać do obrotu ani nie oddawać do użytku wyrobu, co do którego istnieje uzasadniona wątpliwość w zakresie spełniania wymagań;
+- **4)** umieścić na wyrobie, a w przypadkach określonych w przepisach szczególnych na opakowaniu, w załączonym dokumencie lub na etykiecie, swoją nazwę, zarejestrowany znak towarowy, o ile taki posiada, i adres; dane te podaje się w języku polskim;
+- **5)** zapewnić, żeby do wyrobu dołączone były instrukcje, informacje dotyczące bezpieczeństwa użytkowania oraz, jeżeli jest to wymagane, etykiety, sporządzone w języku polskim w sposób jasny, zrozumiały i czytelny;
+- **6)** przechowywać przez 10 lat od dnia wprowadzenia wyrobu do obrotu kopię deklaracji zgodności i zapewnić udostępnienie dokumentacji technicznej organowi nadzoru rynku, o którym mowa w art. 58 ust. 2 i 3;
+- **7)** zapewnić, żeby warunki przechowywania i transportu wyrobu nie wpływały negatywnie na zgodność z wymaganiami w czasie, gdy ponosi on odpowiedzialność za wyrób;
+- **8)** prowadzić i analizować ewidencje skarg dotyczących wyrobów, wyrobów niezgodnych z wymaganiami i przypadków odzyskania wyrobów;
+- **9)** badać w uzasadnionych przypadkach próbki wyrobów wprowadzanych do obrotu, w szczególności z uwagi na zagrożenie stwarzane przez wyrób;
+- **10)** informować dystrybutorów o działaniach, o których mowa w pkt 8 i 9;
+- **11)** niezwłocznie podjąć działania w celu zapewnienia zgodności wyrobu, jego wycofania z obrotu lub odzyskania – w przypadku zaistnienia uzasadnionego podejrzenia, że jest on niezgodny z wymaganiami;
+- **12)** niezwłocznie informować:
+    - **a)** właściwy organ nadzoru rynku, o którym mowa w art. 58 ust. 3, oraz właściwe organy nadzoru rynku państw członkowskich Unii Europejskiej, a także państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w których wyrób udostępnił, oraz
+    - **b)** producenta lub dystrybutora – o stwarzanym przez wyrób zagrożeniu, podając szczegółowe informacje dotyczące w szczególności niezgodności wyrobu z wymaganiami i podjętych działań;
+
+- **13)** udzielać na uzasadnione żądanie organu nadzoru rynku, o którym mowa w art. 58 ust. 2 i 3, informacji i udostępnić dokumentację w języku polskim, w postaci papierowej lub elektronicznej, w celu wykazania zgodności wyrobu z wymaganiami;
+- **14)** na żądanie organu nadzoru rynku, o którym mowa w art. 58 ust. 2 i 3, współpracować w celu usunięcia zagrożenia, jakie stwarza wyrób wprowadzony przez niego do obrotu.
+
 **Art. 17.** Dystrybutor ma obowiązek:
 
+- **1)** działać z należytą starannością przy udostępnianiu wyrobu na rynku;
+- **2)** sprawdzić, przed udostępnieniem wyrobu na rynku, czy producent i importer spełnili obowiązki określone odpowiednio w art. 13 pkt 7–9 oraz art. 16 pkt 4 i 5;
+- **3)** sprawdzić, czy na wyrób naniesiono oznakowanie CE, a w stosownych przypadkach także inne oznakowanie;
+- **4)** nie udostępniać na rynku wyrobu, co do którego istnieją uzasadnione wątpliwości w zakresie spełniania wymagań;
+- **5)** zapewnić, żeby warunki przechowywania i transportu wyrobu nie wpływały negatywnie na zgodność z wymaganiami w czasie, gdy ponosi on odpowiedzialność za wyrób;
+- **6)** zapewnić niezwłoczne podjęcie działań w celu doprowadzenia do zgodności wyrobu, jego wycofania z obrotu lub odzyskania, w przypadku zaistnienia uzasadnionego podejrzenia, że wyrób jest niezgodny z wymaganiami;
+- **7)** niezwłocznie informować:
+    - **a)** właściwy organ nadzoru rynku, o którym mowa w art. 58 ust. 3, oraz właściwe organy nadzoru rynku państw członkowskich Unii Europejskiej, a także państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w których wyrób udostępnił, oraz
+    - **b)** producenta lub importera – o stwarzanym przez wyrób zagrożeniu, podając szczegółowe informacje dotyczące w szczególności niezgodności wyrobu z wymaganiami i podjętych działań;
+
+- **8)** udzielać na uzasadnione żądanie organu nadzoru rynku, o którym mowa w art. 58 ust. 2 i 3, informacji i udostępnić dokumentację w języku polskim, w postaci papierowej lub elektronicznej, w celu wykazania zgodności wyrobu z wymaganiami;
+- **9)** na żądanie organu nadzoru rynku, o którym mowa w art. 58 ust. 2 i 3, współpracować w celu usunięcia zagrożenia, jakie stwarza wyrób, który udostępnił na rynku.
+
 **Art. 18.** Prywatny importer ma obowiązek:
+
+- **1)** zapewnić, przed oddaniem wyrobu do użytku, żeby został on zaprojektowany i wyprodukowany zgodnie z wymaganiami oraz wypełnić lub zlecić wypełnienie obowiązków producenta, określonych w art. 13 pkt 2–4, 6, 9, 15 i 16 – w przypadku jeśli producent nie wypełnił swoich obowiązków w zakresie zgodności wyrobu z wymaganiami;
+- **2)** zlecić specjalistom sporządzenie dokumentacji technicznej – w przypadku gdy nie jest udostępniona przez producenta;
+- **3)** zapewnić umieszczenie na wyrobie nazwy i adresu jednostki notyfikowanej, która przeprowadziła ocenę zgodności wyrobu.
 
 **Art. 19.** Importera lub dystrybutora traktuje się jak producenta w rozumieniu ustawy, jeżeli wprowadza do obrotu wyrób pod własną nazwą lub znakiem towarowym, o ile taki posiada, lub modyfikuje wyrób znajdujący się w obrocie w taki sposób, że może mieć to wpływ na zgodność z wymaganiami.
 
@@ -437,6 +555,9 @@ Art. 99–121. (pominięte)
 
 **Art. 40.** Organami Centrum są:
 
+- **1)** Dyrektor Centrum, zwany dalej „Dyrektorem”;
+- **2)** Rada do Spraw Akredytacji, zwana dalej „Radą”.
+
 **Art. 41.**
 
 1. Dyrektor jest powoływany przez Ministra. Kandydata na stanowisko Dyrektora wyłania się w drodze konkursu przeprowadzonego przez Ministra.
@@ -637,6 +758,13 @@ Art. 99–121. (pominięte)
 2. Minister dokonuje wyboru firmy audytorskiej.
 
 **Art. 56.** W ramach nadzoru, o którym mowa w art. 38 ust. 3, Minister:
+
+- **1)** sprawuje kontrolę finansową nad Centrum na zasadach i w trybie określonych w przepisach o kontroli w administracji rządowej;
+- **2)** zatwierdza projekt rocznego planu finansowego Centrum;
+- **3)** wyraża zgodę na zmianę planu finansowego Centrum;
+- **4)** zatwierdza roczne sprawozdanie finansowe Centrum;
+- **5)** przyjmuje sprawozdanie z działalności Centrum przedstawione przez Dyrektora;
+- **6)** dokonuje oceny działalności Centrum na podstawie sprawozdania, o którym mowa w pkt 5.
 
 **Art. 57.**
 
@@ -902,6 +1030,9 @@ Art. 99–121. (pominięte)
 
 **Art. 77.** Organ nadzoru rynku w celu zbadania zasadności wszczęcia postępowania lub w jego toku, może w szczególności:
 
+- **1)** przeprowadzić lub zlecić przeprowadzenie dodatkowej kontroli;
+- **2)** zwrócić się do podmiotu gospodarczego o udzielenie dodatkowych informacji lub wyjaśnień dotyczących wyrobu.
+
 **Art. 78.** Organ nadzoru rynku prowadzący postępowanie może, w drodze decyzji, przedłużyć okres obowiązywania zakazu, o którym mowa w art. 75 ust. 1, do czasu zakończenia postępowania.
 
 **Art. 79.**
@@ -936,6 +1067,9 @@ Art. 99–121. (pominięte)
 4. Organ nadzoru rynku prowadzący postępowanie może przeprowadzić albo zlecić organowi, o którym mowa w art. 58 ust. 2, przeprowadzenie kontroli mającej na celu ustalenie, czy strona postępowania podjęła działania, o których mowa w ust. 1.
 
 **Art. 83.** Do terminu określonego w art. 76 ust. 2 nie wlicza się:
+
+- **1)** terminu wyznaczonego stronie postępowania na przedstawienie dowodów, o których mowa w art. 82 ust. 1;
+- **2)** okresu od dnia wystąpienia o przeprowadzenie kontroli, o której mowa w art. 82 ust. 4, do dnia przedstawienia wyników tej kontroli organowi nadzoru rynku prowadzącemu postępowanie.
 
 **Art. 84.**
 
@@ -1156,6 +1290,11 @@ Art. 99–121. (pominięte)
 
 **Art. 96.** Kontrolowany, który:
 
+- **1)** niszczy próbkę kontrolną, lub
+- **2)** usuwa ją spod zabezpieczenia, lub
+- **3)** uniemożliwia zbadanie tej próbki, lub
+- **4)** przechowuje ją niezgodnie z warunkami określonymi w art. 72 ust. 4 – podlega karze pieniężnej w wysokości do 30 000 zł.
+
 **Art. 97.**
 
 1. Kary pieniężne, o których mowa w art. 88–94, nakłada, w drodze decyzji, organ nadzoru rynku prowadzący postępowanie, o którym mowa w art. 76 ust. 1 lub 1a lub art. 85 ust. 1.
@@ -1317,4 +1456,10 @@ Art. 99–121. (pominięte)
 6. Postanowienia ust. 5 nie stoją na przeszkodzie udostępnianiu, do dnia wejścia w życie odnoszących się do nich aktów wykonawczych wydanych na podstawie art. 12, wyrobów zgodnych z przepisami dyrektywy 2014/31/UE.
 
 **Art. 133.** Ustawa wchodzi w życie z dniem 20 kwietnia 2016 r., z wyjątkiem:
+
+- **1)** art. 102 pkt 1 lit. c w zakresie art. 1 ust. 2 pkt 2, który wchodzi w życie z dniem 22 lipca 2016 r.;
+- **2)** art. 105 pkt 4–8, które wchodzą w życie z dniem 1 stycznia 2017 r.;
+- **3)** art. 107 pkt 15 w zakresie art. 158a, który wchodzi w życie z dniem 12 czerwca 2018 r. Załącznik do ustawy z dnia 13 kwietnia 2016 r. (Dz. U. z 2025 r. poz.
+- **568)** (pominięty)
+
 

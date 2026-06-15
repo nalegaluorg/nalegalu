@@ -8,7 +8,7 @@ pos: 1566
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo wodne
@@ -70,7 +70,21 @@ Art. 480–524. (pominięte)
 
 **Art. 10.** Zarządzanie zasobami wodnymi służy zaspokajaniu potrzeb ludności i gospodarki oraz ochronie wód i środowiska związanego z tymi zasobami, w szczególności w zakresie:
 
+- **1)** zapewnienia odpowiedniej ilości i jakości wody dla ludności;
+- **2)** ochrony przed powodzią oraz suszą;
+- **3)** ochrony zasobów wodnych przed zanieczyszczeniem oraz niewłaściwą lub nadmierną eksploatacją;
+- **4)** utrzymywania lub poprawy stanu ekosystemów wodnych i zależnych od wód;
+- **5)** zapewnienia wody na potrzeby rolnictwa oraz przemysłu;
+- **6)** tworzenia warunków dla energetycznego, transportowego oraz rybackiego wykorzystania wód;
+- **7)** zaspokojenia potrzeb związanych z turystyką, sportem oraz rekreacją.
+
 **Art. 11.** Instrumenty zarządzania zasobami wodnymi obejmują:
+
+- **1)** planowanie w gospodarowaniu wodami;
+- **2)** zgody wodnoprawne;
+- **3)** opłaty za usługi wodne oraz inne należności;
+- **4)** kontrolę gospodarowania wodami;
+- **5)** system informacyjny gospodarowania wodami.
 
 **Art. 12.** Zarządzanie zasobami wodnymi jest realizowane z uwzględnieniem podziału państwa na obszary dorzeczy, regiony wodne i zlewnie.
 
@@ -172,9 +186,179 @@ Art. 480–524. (pominięte)
 
 **Art. 15.** W celu zapewnienia prawidłowego gospodarowania wodami na obszarach dorzeczy zarządzanie zasobami wodnymi wymaga:
 
+- **1)** koordynowania działań określonych w planach gospodarowania wodami na obszarach dorzeczy z właściwymi organami państw członkowskich Unii Europejskiej, na których terytoriach znajdują się pozostałe części obszarów dorzeczy, o których mowa w art. 13 ust. 1;
+- **2)** podejmowania działań na rzecz nawiązania współpracy z właściwymi władzami państw leżących poza granicami Unii Europejskiej, na których terytoriach znajdują się pozostałe części obszarów dorzeczy, o których mowa w art. 13 ust. 1.
+
 #### Rozdział 2 Objaśnienia określeń ustawowych
 
 **Art. 16.** Ilekroć w ustawie jest mowa o:
+
+- **1)** budowlach przeciwpowodziowych rozumie się przez to:
+    - **a)** kanały ulgi,
+    - **b)** kierownice w ujściach rzek do morza,
+    - **c)** poldery przeciwpowodziowe,
+    - **d)** sztuczne zbiorniki przeciwpowodziowe,
+    - **e)** suche zbiorniki przeciwpowodziowe,
+    - **f)** wały przeciwpowodziowe,
+    - **g)** budowle regulacyjne,
+    - **h)** wrota przeciwpowodziowe i przeciwsztormowe,
+    - **i)** falochrony,
+    - **j)** budowle ochrony brzegów morskich,
+    - **k)** stopnie wodne – wraz z obiektami związanymi z nimi technicznie i funkcjonalnie lub nieruchomościami przeznaczonymi na potrzeby ochrony przed powodzią;
+
+- **2)** budowlach piętrzących – rozumie się przez to budowle umożliwiające stałe lub okresowe piętrzenie wód powierzchniowych ponad przyległy teren lub naturalny poziom zwierciadła wód;
+- **3)** celach środowiskowych dla wód morskich – rozumie się przez to:
+    - **a)** pożądany stan podstawowych cech i właściwości wód morskich, w tym dna i skały macierzystej znajdujących się na obszarze morza terytorialnego, wyłącznej strefy ekonomicznej Rzeczypospolitej Polskiej i wód przybrzeżnych,
+    - **b)** presje i oddziaływania na wody morskie, w tym na dno i skałę macierzystą znajdujące się na obszarze morza terytorialnego, wyłącznej strefy ekonomicznej Rzeczypospolitej Polskiej i wód przybrzeżnych – określone jakościowo lub ilościowo;
+
+- **4)** celach zarządzania ryzykiem powodziowym – rozumie się przez to ograniczenie potencjalnych negatywnych skutków powodzi dla życia i zdrowia ludzi, środowiska, dziedzictwa kulturowego oraz działalności gospodarczej;
+- **5)** ciekach naturalnych – rozumie się przez to rzeki, strugi, strumienie i potoki oraz inne wody płynące w sposób ciągły lub okresowy naturalnymi lub uregulowanymi korytami;
+- **6)** dobrym potencjale ekologicznym – rozumie się przez to taki potencjał silnie zmienionych jednolitych części wód powierzchniowych lub sztucznych jednolitych części wód powierzchniowych, który na podstawie klasyfikacji potencjału ekologicznego tych wód, dokonanej z uwzględnieniem definicji klasyfikacji tego potencjału określonej w przepisach wydanych na podstawie art. 53 ust. 4, jest określony jako dobry;
+- **7)** dobrym stanie chemicznym wód podziemnych – rozumie się przez to taki stan chemiczny jednolitych części wód podziemnych, który na podstawie oceny stanu chemicznego tych wód, dokonanej z uwzględnieniem definicji klasyfikacji tego stanu, jest określony jako dobry;
+- **8)** dobrym stanie chemicznym wód powierzchniowych – rozumie się przez to taki stan chemiczny jednolitych części wód powierzchniowych, który na podstawie klasyfikacji stanu chemicznego tych wód, dokonanej z uwzględnieniem definicji klasyfikacji tego stanu, jest określony jako dobry;
+- **9)** dobrym stanie ekologicznym – rozumie się przez to taki stan jednolitych części wód powierzchniowych innych niż silnie zmienione jednolite części wód powierzchniowych lub sztuczne jednolite części wód powierzchniowych, który na podstawie klasyfikacji stanu ekologicznego tych wód, dokonanej z uwzględnieniem definicji klasyfikacji tego stanu określonej w przepisach wydanych na podstawie art. 53 ust. 4, jest określony jako dobry;
+- **10)** dobrym stanie ilościowym wód podziemnych – rozumie się przez to taki stan jednolitych części wód podziemnych, który na podstawie oceny stanu ilościowego tych wód, dokonanej z uwzględnieniem definicji klasyfikacji tego stanu, jest określony jako dobry;
+- **11)** dobrym stanie wód podziemnych – rozumie się przez to taki stan jednolitych części wód podziemnych, w którym stan ilościowy wód podziemnych oraz stan chemiczny tych wód są określone co najmniej jako dobre;
+- **12)** dobrym stanie wód powierzchniowych – rozumie się przez to stan jednolitych części wód powierzchniowych charakteryzujący się dobrym stanem chemicznym wód powierzchniowych oraz co najmniej dobrym stanem ekologicznym lub co najmniej dobrym potencjałem ekologicznym;
+- **13)** dobrym stanie środowiska wód morskich – rozumie się przez to stan środowiska wód morskich, w którym wody morskie są czyste, zdrowe i urodzajne w odniesieniu do panujących w nich warunków, natomiast wykorzystanie środowiska morskiego zachodzi na poziomie zrównoważonym i gwarantującym zachowanie możliwości użytkowania i prowadzenia działalności przez człowieka, dla którego osiągnięcia podejmuje się działania oparte na podejściu ekosystemowym i w którym:
+    - **a)** struktura, funkcje i procesy zachodzące w składających się na wody morskie ekosystemach morskich oraz powiązane z nimi czynniki fizjograficzne, geograficzne, geologiczne i klimatyczne umożliwiają ekosystemom morskim prawidłowe funkcjonowanie i zachowanie odporności na zmiany środowiskowe powstałe w wyniku działalności człowieka, a także chroni się gatunki i siedliska występujące w wodach morskich oraz zapobiega powstawaniu w wyniku działalności człowieka zanikania naturalnej różnorodności biologicznej, a równowaga funkcjonowania różnorodnych składników biologicznych jest zachowana,
+    - **b)** właściwości hydromorfologiczne, fizyczne i chemiczne ekosystemów morskich, w tym właściwości będące wynikiem działalności człowieka na wodach morskich, umożliwiają prawidłowe funkcjonowanie tych ekosystemów,
+    - **c)** substancje i energia, w tym podmorski hałas, wprowadzane do środowiska wód morskich w wyniku działalności człowieka nie powodują zanieczyszczenia wód morskich;
+
+- **14)** dostępnych zasobach wód podziemnych – rozumie się przez to zasoby wód podziemnych stanowiące średnią roczną z wielolecia wielkość całkowitego zasilania wód podziemnych określonej jednolitej części wód podziemnych pomniejszoną o wielkość średnią z wielolecia przepływu wód wymaganego dla osiągnięcia celów środowiskowych dla jednolitych części wód powierzchniowych związanych z określoną jednolitą częścią wód podziemnych, tak aby nie dopuścić do:
+    - **a)** znacznego pogorszenia stanu ekologicznego tych jednolitych części wód powierzchniowych,
+    - **b)** powstania szkód w ekosystemach lądowych zależnych od wód podziemnych;
+
+- **15)** dorzeczu – rozumie się przez to obszar lądu, z którego całkowity odpływ wód powierzchniowych do wód morskich następuje ciekami naturalnymi przez jedno ujście, estuarium lub deltę;
+- **16)** gruntach pokrytych wodami – rozumie się przez to grunty tworzące dna i brzegi cieków naturalnych, jezior oraz innych naturalnych zbiorników wodnych w granicach linii brzegu, a także grunty wchodzące w skład sztucznych zbiorników wodnych, stopni wodnych oraz jezior podpiętrzonych, będące gruntami pokrytymi wodami powierzchniowymi przed wykonaniem urządzeń piętrzących;
+- **17)** gatunku – rozumie się przez to gatunek w rozumieniu art. 5 pkt 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940);
+- **18)** gatunku obcym – rozumie się przez to gatunek obcy w rozumieniu art. 3 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35);
+- **19)** jednolitych częściach wód podziemnych – rozumie się przez to określoną objętość wód podziemnych występującą w obrębie warstwy wodonośnej lub zespołu warstw wodonośnych;
+- **20)** jednolitych częściach wód powierzchniowych – rozumie się przez to oddzielny i znaczący element wód powierzchniowych, taki jak:
+    - **a)** jezioro lub inny naturalny zbiornik wodny,
+    - **b)** sztuczny zbiornik wodny,
+    - **c)** struga, strumień, potok, rzeka i kanał lub ich części,
+    - **d)** morskie wody wewnętrzne, wody przejściowe lub wody przybrzeżne;
+
+- **21)** kanałach – rozumie się przez to sztuczne koryta prowadzące wody w sposób ciągły lub okresowy, o szerokości dna co najmniej 1,5 m przy ich ujściu lub ujęciu;
+- **22)** kąpielisku – rozumie się przez to wyznaczony przez radę gminy wydzielony i oznakowany fragment wód powierzchniowych, wykorzystywany przez dużą liczbę osób kąpiących się, pod warunkiem że w stosunku do tego kąpieliska nie wydano stałego zakazu kąpieli; kąpieliskiem nie jest: pływalnia, basen pływacki lub uzdrowiskowy, zamknięty zbiornik wodny podlegający oczyszczaniu lub wykorzystywaniu w celach terapeutycznych, sztuczny, zamknięty zbiornik wodny, oddzielony od wód powierzchniowych i wód podziemnych;
+- **23)** klasyfikacji wody w kąpielisku – rozumie się przez to przyporządkowanie wody w kąpielisku do odpowiedniej klasy ze względu na jej właściwości, dokonane przez organy Państwowej Inspekcji Sanitarnej na podstawie oceny jakości wody;
+- **24)** kosztach środowiskowych – rozumie się przez to wartość materialną strat w środowisku powodowanych przez korzystanie z wód;
+- **25)** kosztach zasobowych – rozumie się przez to wartość utraconych korzyści, które mogłyby być osiągnięte, gdyby zasoby wodne i ich zdolność do samoodtwarzania nie były zmniejszane przez podmioty aktualnie je użytkujące;
+- **26)** liście obserwacyjnej – rozumie się przez to sporządzaną przez Komisję Europejską listę zawierającą wykaz substancji lub grup substancji szczególnie szkodliwych dla środowiska wodnego, zawierającą matryce do monitorowania tych substancji i odpowiednie metody analizy tych substancji;
+- **27)** matrycy – rozumie się przez to element środowiska wodnego będący wodą, osadami, florą lub fauną;
+- **28)** miejscu okazjonalnie wykorzystywanym do kąpieli – rozumie się przez to wykorzystywany do kąpieli wydzielony i oznakowany fragment wód powierzchniowych niebędący kąpieliskiem;
+- **29)** morskich wodach wewnętrznych – rozumie się przez to morskie wody wewnętrzne, o których mowa w art. 4 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
+- **30)** najlepszych dostępnych technikach – rozumie się przez to najlepsze dostępne techniki w rozumieniu art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647);
+- **30a)** nawozach – rozumie się przez to każdą substancję zawierającą związek azotu lub związki azotu rolniczo wykorzystywaną w celu zwiększenia wzrostu roślinności, a także odchody zwierzęce, pozostałości z gospodarstw rybackich oraz osady ściekowe;
+- **30b)** nawozach naturalnych – rozumie się przez to nawozy pochodzące od zwierząt gospodarskich – obornik, gnojówka, gnojowica, pomiot ptasi, przeznaczone do rolniczego wykorzystania, w tym również w formie przetworzonej:
+    - **a)** nawóz naturalny płynny: – gnojowica – mieszanina kału i moczu zwierząt z domieszką wody, – gnojówka – odciek z obornika (przefermentowany mocz zwierząt),
+    - **b)** nawóz naturalny stały: – obornik – mieszanina kału i moczu zwierząt wraz ze ściółką, w szczególności słomą, trocinami lub korą, – pomiot ptasi – odchody drobiu z bezściołowego systemu utrzymywania zwierząt gospodarskich;
+
+- **31)** obszarze dorzecza – rozumie się przez to obszar lądu i morza składający się z jednego lub wielu sąsiadujących ze sobą dorzeczy wraz ze związanymi z nimi wodami podziemnymi, morskimi wodami wewnętrznymi, wodami przejściowymi i wodami przybrzeżnymi, będący główną jednostką przestrzenną gospodarowania wodami;
+- **32)** obszarach chronionych – rozumie się przez to:
+    - **a)** jednolite części wód przeznaczone do poboru wody na potrzeby zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi,
+    - **b)** jednolite części wód przeznaczone do celów rekreacyjnych, w tym kąpieliskowych,
+    - **c)** obszary wrażliwe na eutrofizację wywołaną zanieczyszczeniami pochodzącymi ze źródeł komunalnych, rozumianą jako wzbogacanie wód biogenami, w szczególności związkami azotu lub fosforu, powodującymi przyspieszony wzrost glonów oraz wyższych form życia roślinnego, w wyniku którego następują niepożądane zakłócenia biologicznych stosunków w środowisku wodnym oraz pogorszenie jakości tych wód,
+    - **d)** obszary przeznaczone do ochrony siedlisk lub gatunków, o których mowa w przepisach ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, dla których utrzymanie lub poprawa stanu wód jest ważnym czynnikiem w ich ochronie,
+    - **e)** obszary przeznaczone do ochrony gatunków zwierząt wodnych o znaczeniu gospodarczym;
+
+- **33)** obszarach narażonych na niebezpieczeństwo powodzi – rozumie się przez to obszary, na których istnieje znaczące ryzyko powodzi lub jest prawdopodobne wystąpienie znaczącego ryzyka powodzi;
+- **34)** obszarach szczególnego zagrożenia powodzią – rozumie się przez to:
+    - **a)** obszary, na których prawdopodobieństwo wystąpienia powodzi jest średnie i wynosi 1 %,
+    - **b)** obszary, na których prawdopodobieństwo wystąpienia powodzi jest wysokie i wynosi 10 %,
+    - **c)** obszary między linią brzegu a wałem przeciwpowodziowym lub naturalnym wysokim brzegiem, w który wbudowano wał przeciwpowodziowy, a także wyspy i przymuliska, o których mowa w art. 224, stanowiące działki ewidencyjne,
+    - **d)** pas techniczny;
+
+- **35)** odchodach zwierzęcych – rozumie się przez to wszelkie odchody wydalane przez zwierzęta gospodarskie lub mieszaninę ściółki i odchodów wydalanych przez te zwierzęta, także w formie przetworzonej;
+- **36)** ograniczaniu emisji do wód – rozumie się przez to działania mające na celu ograniczenie emisji bezpośrednio do wód lub do ziemi, w szczególności przez nieprzekraczanie dopuszczalnych wartości emisji, a także ograniczenia i warunki odnoszące się do sposobu oddziaływania, rodzaju lub innych niż rodzaj cech emisji oraz do ustanowionych na potrzeby działalności zakładów norm mających wpływ na wielkość emisji do wód lub do ziemi;
+- **37)** organizatorze – rozumie się przez to osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która prowadzi kąpielisko lub miejsce okazjonalnie wykorzystywane do kąpieli albo podjęła się organizacji kąpieliska lub miejsca okazjonalnie wykorzystywanego do kąpieli;
+- **38)** osłonie hydrologiczno-meteorologicznej – rozumie się przez to zespół czynności polegających na wykonywaniu i udostępnianiu prognoz meteorologicznych oraz hydrologicznych, mających na celu informowanie społeczeństwa i administracji publicznej o zjawiskach meteorologicznych oraz hydrologicznych, a także ostrzeganie przed nimi;
+- **39)** pasie technicznym – rozumie się przez to pas techniczny w rozumieniu art. 36 ust. 2 pkt 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
+- **40)** poborze zwrotnym – rozumie się przez to pobór wód, po którym następuje odprowadzenie nieprzekształconych w ścieki wód w tej samej ilości;
+- **41)** polderze przeciwpowodziowym – rozumie się przez to urządzenie wodne odgrodzone od koryta rzeki, mogące okresowo przetrzymywać nadmiar wód powodziowych, zalewane, a następnie odwadniane przy pomocy urządzeń wlotowych i upustowych, samoczynnie lub w sposób kontrolowany;
+- **42)** potencjale ekologicznym – rozumie się przez to określoną jakość struktury i funkcjonowania ekosystemu wodnego związanego z silnie zmienionymi jednolitymi częściami wód powierzchniowych lub sztucznymi jednolitymi częściami wód powierzchniowych;
+- **43)** powodzi – rozumie się przez to czasowe pokrycie przez wodę terenu, który w normalnych warunkach nie jest pokryty wodą, w szczególności wywołane przez wezbranie wody w ciekach naturalnych, zbiornikach wodnych, kanałach oraz od strony morza, z wyłączeniem pokrycia przez wodę terenu wywołanego przez wezbranie wody w systemach kanalizacyjnych;
+- **44)** profilu wody w kąpielisku – rozumie się przez to zespół danych i informacji dotyczących cech fizycznych, geograficznych i hydrologicznych wody w kąpielisku oraz wód powierzchniowych, mających wpływ na ich jakość, wraz z identyfikacją i oceną przyczyn występowania zanieczyszczeń mogących wywierać niekorzystny wpływ na jakość wody w kąpielisku i stan zdrowia osób z niego korzystających;
+- **45)** przerzutach wód – rozumie się przez to ujmowanie i przemieszczanie wód powierzchniowych oraz niezanieczyszczonych wód pochodzących z odwodnienia zakładów górniczych, w celu zwiększenia zasobów wodnych innych cieków naturalnych, kanałów, jezior oraz innych zbiorników wodnych, a także wód podziemnych;
+- **46)** regionie wodnym – rozumie się przez to część obszaru dorzecza wyodrębnioną na podstawie kryterium hydrograficznego na potrzeby zarządzania zasobami wodnymi lub znajdującą się na terytorium Rzeczypospolitej Polskiej część międzynarodowego dorzecza;
+- **47)** rowach – rozumie się przez to sztuczne koryta prowadzące wodę w sposób ciągły lub okresowy, o szerokości dna mniejszej niż 1,5 m przy ujściu;
+- **48)** ryzyku powodziowym – rozumie się przez to kombinację prawdopodobieństwa wystąpienia powodzi i potencjalnych negatywnych skutków powodzi dla życia i zdrowia ludzi, środowiska, dziedzictwa kulturowego oraz działalności gospodarczej;
+- **49)** siedlisku – rozumie się przez to siedlisko roślin, siedlisko zwierząt lub siedlisko grzybów w rozumieniu art. 5 pkt 18 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
+- **50)** silnie zmienionej jednolitej części wód powierzchniowych – rozumie się przez to jednolitą część wód powierzchniowych, której charakter został w znacznym stopniu zmieniony w następstwie fizycznych przeobrażeń będących wynikiem działalności człowieka;
+- **50a)** systemie oczyszczania lub podczyszczania ścieków zasolonych ‒ rozumie się przez to urządzenia lub zespół urządzeń do oczyszczania lub podczyszczania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, pozwalające zmniejszyć sumaryczne stężenie chlorków i siarczanów do poziomu stężenia poniżej 1500 mg/l, a w przypadku zakładów innych niż zakłady odprowadzające ścieki o zwiększonym zasoleniu – system pozwalający zmniejszyć sumaryczne stężenie chlorków i siarczanów co najmniej o 500 mg/l, nie wliczając w to wartości oczyszczenia lub podczyszczenia ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, wynikających z obowiązków oczyszczania lub podczyszczania tych ścieków lub wód nałożonych na zakład w pozwoleniu wodnoprawnym lub pozwoleniu zintegrowanym;
+- **50b)** systemie retencyjno-dozującym – rozumie się przez to zespół urządzeń służący do wprowadzania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, z zakładów do końcowego odbiornika tych ścieków lub wód i ich retencjonowania w okresach obowiązywania na obszarze, na którym są zlokalizowane odbiorniki ścieków, ostrzeżenia przed suszą hydrologiczną, wydanego przez państwową służbę hydrologiczno-meteorologiczną, umożliwiający okresowe wstrzymanie lub ograniczenie wprowadzania tych ścieków lub wód do wód;
+- **51)** stanie ekologicznym – rozumie się przez to określoną jakość struktury i funkcjonowania ekosystemu wodnego związanego z jednolitymi częściami wód powierzchniowych niewyznaczonymi jako silnie zmienione jednolite części wód powierzchniowych lub sztuczne jednolite części wód powierzchniowych;
+- **52)** stanie ilościowym wód podziemnych – rozumie się przez to określony poziom, na jakim pobór wody ma wpływ na jednolitą część wód podziemnych;
+- **53)** stanie wód podziemnych – rozumie się przez to ogólny stan jednolitych części wód podziemnych, który określa się na podstawie oceny stanu ilościowego wód podziemnych oraz oceny stanu chemicznego tych wód, przy czym o ogólnym stanie decyduje gorszy ze stanów;
+- **54)** stanie wód powierzchniowych – rozumie się przez to ogólny stan jednolitych części wód powierzchniowych, który określa się w przypadku:
+    - **a)** silnie zmienionych jednolitych części wód powierzchniowych lub sztucznych jednolitych części wód powierzchniowych – na podstawie potencjału ekologicznego oraz stanu chemicznego,
+    - **b)** jednolitych części wód powierzchniowych innych niż wymienione w lit. a – na podstawie stanu ekologicznego oraz stanu chemicznego – przy czym o ogólnym stanie decyduje gorszy ze stanów;
+
+- **55)** stanie środowiska wód morskich – rozumie się przez to ogólny stan środowiska wód morskich, z uwzględnieniem struktury, funkcji i procesów zachodzących w składających się na te wody ekosystemach morskich wraz z naturalnymi czynnikami fizjograficznymi, geograficznymi, biologicznymi, geologicznymi i klimatycznymi, jak również uwarunkowaniami fizycznymi, akustycznymi i chemicznymi, w tym uwarunkowaniami będącymi wynikiem działalności człowieka;
+- **56)** substancjach priorytetowych – rozumie się przez to substancje stanowiące zanieczyszczenie chemiczne wód powierzchniowych oraz zagrożenie, które może spowodować w szczególności ostrą i chroniczną toksyczność dla organizmów wodnych, akumulację zanieczyszczeń w ekosystemie oraz utratę siedlisk i różnorodności biologicznej, jak również zagrożenia dla zdrowia ludzkiego, i których emisje do wód należy stopniowo ograniczać, a w przypadku priorytetowych substancji niebezpiecznych – substancje lub grupy substancji, które są toksyczne, trwałe i podatne na bioakumulację, oraz inne substancje lub grupy substancji, których poziom osiąga stan niepokojący, które stopniowo należy usuwać ze środowiska wodnego w celu ich wyeliminowania;
+- **57)** substancjach szczególnie szkodliwych dla środowiska wodnego – rozumie się przez to substancje lub grupy substancji, które są toksyczne, trwałe oraz zdolne do bioakumulacji, a także inne substancje lub grupy substancji, których poziom osiąga stan niepokojący;
+- **58)** substancjach zanieczyszczających – rozumie się przez to substancje mogące spowodować zanieczyszczenie, w szczególności:
+    - **a)** organiczne związki chlorowcowe lub substancje, które mogą tworzyć takie związki w środowisku wodnym,
+    - **b)** związki fosforoorganiczne,
+    - **c)** związki cynoorganiczne,
+    - **d)** substancje lub preparaty, lub produkty ich rozkładu, o udowodnionych właściwościach rakotwórczych lub mutagennych lub właściwościach mogących zakłócać w środowisku wodnym lub przez to środowisko funkcje: reprodukcyjne, steroidogenowe, hormonów tarczycy lub inne funkcje endokrynologiczne,
+    - **e)** trwałe węglowodory oraz trwałe i bioakumulujące się toksyczne substancje organiczne,
+    - **f)** cyjanki,
+    - **g)** metale lub ich związki,
+    - **h)** arsen lub jego związki,
+    - **i)** produkty biobójcze lub środki ochrony roślin,
+    - **j)** substancje w zawiesinie,
+    - **k)** substancje, które przyczyniają się do eutrofizacji rozumianej jako wzbogacanie wód biogenami, w szczególności związkami azotu lub fosforu, powodującymi przyspieszony wzrost glonów oraz wyższych form życia roślinnego, w wyniku którego następują niepożądane zakłócenia biologicznych stosunków w środowisku wodnym oraz pogorszenie jakości tych wód,
+    - **l)** substancje wywierające niekorzystny wpływ na bilans tlenu, których pomiaru można dokonać przy użyciu wskaźników takich jak: pięciodobowe biochemiczne zapotrzebowanie tlenu (BZT ) i chemiczne zapotrzebowanie tlenu;
+
+- **59)** systemie kanalizacji zbiorczej – rozumie się przez to sieć w rozumieniu art. 2 pkt 7 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, zakończoną oczyszczalnią ścieków albo końcowym punktem zrzutu ścieków;
+- **60)** sztucznej jednolitej części wód powierzchniowych – rozumie się przez to jednolitą część wód powierzchniowych powstałą w wyniku działalności człowieka;
+- **61)** ściekach – rozumie się przez to wprowadzane do wód lub do ziemi:
+    - **a)** wody zużyte na cele bytowe lub gospodarcze,
+    - **b)** ciekłe odchody zwierzęce, z wyjątkiem gnojówki i gnojowicy przeznaczonych do rolniczego wykorzystania w sposób i na zasadach określonych w przepisach działu III rozdziału 4 oraz w przepisach ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2024 r. poz. 105),
+    - **c)** wody odciekowe ze składowisk odpadów oraz obiektów unieszkodliwiania odpadów wydobywczych, w których są składowane odpady wydobywcze niebezpieczne oraz odpady wydobywcze inne niż niebezpieczne i obojętne, miejsc magazynowania, prowadzenia odzysku lub unieszkodliwiania odpadów, wykorzystane solanki, wody lecznicze i termalne,
+    - **d)** wody pochodzące z obiegów chłodzących elektrowni lub elektrociepłowni,
+    - **e)** wody pochodzące z odwodnienia zakładów górniczych, z wyjątkiem wód wtłaczanych do górotworu, jeżeli rodzaje i ilość substancji zawartych w wodzie wtłaczanej do górotworu są tożsame z rodzajami i ilościami substancji zawartych w pobranej wodzie, z wyłączeniem niezanieczyszczonych wód pochodzących z odwodnienia zakładów górniczych,
+    - **f)** wody wykorzystane, odprowadzane z obiektów chowu lub hodowli ryb w obiektach przepływowych, charakteryzujących się poborem zwrotnym, o ile ilość i rodzaj substancji zawartych w tych wodach przekracza wartości ustalone w warunkach wprowadzania ścieków do wód określonych w pozwoleniu wodnoprawnym,
+    - **g)** wody wykorzystane, odprowadzane z obiektów chowu lub hodowli ryb albo innych organizmów wodnych w stawach o wodzie stojącej, o ile produkcja tych ryb lub organizmów rozumiana jako średnioroczny przyrost masy tych ryb albo tych organizmów w poszczególnych latach cyklu produkcyjnego przekracza 1500 kg z 1 ha powierzchni użytkowej stawów rybnych tego obiektu w jednym roku danego cyklu;
+
+- **62)** ściekach bytowych – rozumie się przez to ścieki z budynków mieszkalnych, zamieszkania zbiorowego oraz użyteczności publicznej powstające w wyniku ludzkiego metabolizmu lub funkcjonowania gospodarstw domowych oraz ścieki o zbliżonym składzie pochodzące z tych budynków;
+- **63)** ściekach komunalnych – rozumie się przez to ścieki bytowe lub mieszaninę ścieków bytowych ze ściekami przemysłowymi albo wodami opadowymi lub roztopowymi, odprowadzane urządzeniami służącymi do realizacji zadań własnych gminy w zakresie kanalizacji i oczyszczania ścieków komunalnych;
+- **64)** ściekach przemysłowych – rozumie się przez to ścieki niebędące ściekami bytowymi albo wodami opadowymi lub roztopowymi, powstałe w związku z prowadzoną przez zakład działalnością handlową, przemysłową, składową, transportową lub usługową, a także będące ich mieszaniną ze ściekami innego podmiotu, odprowadzane urządzeniami kanalizacyjnymi tego zakładu;
+- **65)** urządzeniach wodnych – rozumie się przez to urządzenia lub budowle służące do kształtowania zasobów wodnych lub korzystania z tych zasobów, w tym:
+    - **a)** urządzenia lub budowle piętrzące, przeciwpowodziowe i regulacyjne, a także kanały i rowy,
+    - **b)** sztuczne zbiorniki usytuowane na wodach płynących oraz obiekty związane z tymi zbiornikami,
+    - **c)** stawy, w szczególności stawy rybne oraz stawy przeznaczone do oczyszczania ścieków albo rekreacji,
+    - **d)** obiekty służące do ujmowania wód powierzchniowych oraz wód podziemnych,
+    - **e)** obiekty energetyki wodnej,
+    - **f)** wyloty urządzeń kanalizacyjnych służące do wprowadzania ścieków do wód, do ziemi lub do urządzeń wodnych oraz wyloty służące do wprowadzania wody do wód, do ziemi lub do urządzeń wodnych,
+    - **g)** stałe urządzenia służące do połowu ryb lub do pozyskiwania innych organizmów wodnych,
+    - **h)** urządzenia służące do chowu ryb lub innych organizmów wodnych w wodach powierzchniowych,
+    - **i)** mury oporowe, bulwary, nabrzeża, mola, pomosty i przystanie,
+    - **j)** stałe urządzenia służące do dokonywania przewozów międzybrzegowych;
+
+- **66)** warstwie wodonośnej – rozumie się przez to warstwowane lub niewarstwowane utwory skalne przepuszczalne i nasycone wodą, wykazujące wystarczającą porowatość i przepuszczalność umożliwiającą znaczący przepływ wód podziemnych lub pobór znaczących ilości wód podziemnych;
+- **67)** wodach granicznych – rozumie się przez to wody, którymi przebiega granica państwa, lub wody w tych miejscach, w których są one przecięte granicą państwa;
+- **68)** wodach podziemnych – rozumie się przez to wszystkie wody znajdujące się pod powierzchnią ziemi w strefie nasycenia, w tym wody gruntowe pozostające w bezpośredniej styczności z gruntem lub podglebiem;
+- **69)** wodach opadowych lub roztopowych – rozumie się przez to wody będące skutkiem opadów atmosferycznych;
+- **70)** wodzie przeznaczonej do spożycia przez ludzi – rozumie się przez to: Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 463) do wytworzenia, przetworzenia, konserwowania lub wprowadzania do obrotu produktów lub substancji przeznaczonych do spożycia przez ludzi, z wyłączeniem wody wykorzystywanej przez to przedsiębiorstwo spożywcze, której jakość nie może wpływać na bezpieczeństwo środków spożywczych w ich końcowej postaci, oraz pod warunkiem, że podmiot prowadzący to przedsiębiorstwo spożywcze spełnia wymagania określone w rozporządzeniu WE nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych (Dz. Urz. UE L 139 z 30.04.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319);
+    - **a)** wodę w stanie pierwotnym lub po uzdatnieniu, przeznaczoną do picia, wytwarzania, przygotowania żywności lub innych celów gospodarczych zarówno w obiektach publicznych, jak i prywatnych, niezależnie od jej pochodzenia i od tego, czy jest dostarczana z sieci wodociągowej, cystern, w tym również przewoźnych zbiorników, lub rozlewana do butelek lub pojemników,
+    - **b)** wodę wykorzystywaną przez przedsiębiorstwo spożywcze w rozumieniu art. 3 ust. 2 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds.
+
+- **71)** współrzędnych – rozumie się przez to współrzędne w geodezyjnym układzie odniesienia PL-ETRF2000, o których mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824);
+- **72)** wyłącznej strefie ekonomicznej Rzeczypospolitej Polskiej – rozumie się przez to wyłączną strefę ekonomiczną, o której mowa w art. 15 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
+- **73)** zakładach – rozumie się przez to podmioty korzystające z wód w ramach usług wodnych, wykonujące urządzenia wodne lub wykonujące inne działania wymagające zgody wodnoprawnej;
+- **73a)** zakładzie odprowadzającym ścieki o zwiększonym zasoleniu – rozumie się przez to zakład wprowadzający do śródlądowych wód powierzchniowych płynących ścieki przemysłowe o sumarycznym stężeniu chlorków i siarczanów powyżej 1500 mg/l lub wody pochodzące z odwodnienia zakładów górniczych, zawierające chlorki i siarczany, niezależnie od sumy stężeń chlorków i siarczanów, jeżeli sumaryczna zawartość stężeń chlorków i siarczanów w odbiornikach tych ścieków lub wód, wyliczona przy założeniu pełnego wymieszania, przekracza 1000 mg/l;
+- **74)** zanieczyszczeniu – rozumie się przez to emisję w rozumieniu art. 3 pkt 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, która może być szkodliwa dla zdrowia ludzi lub stanu środowiska, w tym jakości ekosystemów wodnych lub ekosystemów lądowych bezpośrednio zależnych od ekosystemów wodnych, powodować szkodę w dobrach materialnych, pogarszać walory estetyczne środowiska lub kolidować z uzasadnionymi sposobami korzystania ze środowiska, w szczególności powodować zanieczyszczenie wód powierzchniowych i wód podziemnych;
+- **75)** zanieczyszczeniu wód morskich – rozumie się przez to będące wynikiem działalności człowieka bezpośrednie lub pośrednie wprowadzanie do środowiska wód morskich, w tym dna i skały macierzystej znajdujących się na obszarze morza terytorialnego, morskich wód wewnętrznych, wyłącznej strefy ekonomicznej Rzeczypospolitej Polskiej i wód przybrzeżnych, substancji lub energii, w tym podmorskiego hałasu, które wywołuje lub może wywoływać negatywne skutki, takie jak:
+    - **a)** straty w żywych zasobach i ekosystemach morskich, w tym utratę różnorodności biologicznej,
+    - **b)** zagrożenie dla zdrowia ludzkiego,
+    - **c)** utrudnienia w działalności morskiej, w tym w zakresie rybołówstwa, żeglugi, turystyki i rekreacji, oraz w innych sposobach korzystania z wód morskich,
+    - **d)** pogorszenie jakości wód morskich i zmniejszenie ich walorów estetycznych lub ograniczenie możliwości zrównoważonego korzystania z zasobów i usług morskich;
+
+- **76)** zanieczyszczeniu wody w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli – rozumie się przez to obecność skażenia mikrobiologicznego lub innych organizmów lub odpadów lub substancji niekorzystnie wpływających na jakość wody i stanowiących zagrożenie dla zdrowia kąpiących się;
+- **77)** zlewni – rozumie się przez to obszar lądu, z którego cały spływ powierzchniowy wód jest odprowadzany przez system strug, strumieni, potoków, rzek i kanałów do wybranego przekroju cieku.
 
 **Art. 17.**
 
@@ -206,6 +390,11 @@ Art. 480–524. (pominięte)
 
 **Art. 22.** Śródlądowymi wodami płynącymi są wody w:
 
+- **1)** ciekach naturalnych oraz źródłach, z których te cieki biorą początek;
+- **2)** jeziorach oraz innych naturalnych zbiornikach wodnych o ciągłym albo okresowym naturalnym dopływie lub odpływie wód powierzchniowych;
+- **3)** sztucznych zbiornikach wodnych usytuowanych na wodach płynących;
+- **4)** kanałach.
+
 **Art. 23.**
 
 1. Śródlądowymi wodami stojącymi są wody śródlądowe w jeziorach oraz innych naturalnych zbiornikach wodnych niezwiązanych bezpośrednio, w sposób naturalny, z powierzchniowymi śródlądowymi wodami płynącymi.
@@ -213,6 +402,12 @@ Art. 480–524. (pominięte)
 2. Przepisy o śródlądowych wodach stojących stosuje się odpowiednio do wód znajdujących się w zagłębieniach terenu powstałych w wyniku działalności człowieka, niebędących stawami.
 
 **Art. 24.** Dla potrzeb zarządzania wodami, w tym planowania w gospodarowaniu wodami, wody dzieli się na jednolite części wód, uwzględniając:
+
+- **1)** jednolite części wód powierzchniowych, w tym jednolite części:
+    - **a)** wód przejściowych lub przybrzeżnych,
+    - **b)** wód sztucznych lub silnie zmienionych;
+
+- **2)** jednolite części wód podziemnych, z wyodrębnieniem wód podziemnych w obszarach bilansowych, będących jednostkami hydrogeologicznymi wytypowanymi w celu ustalenia zasobów odnawialnych i zasobów dyspozycyjnych wód podziemnych, wraz z oceną stopnia zagospodarowania tych wód, zgodnie z przepisami wydanymi na podstawie art. 97 ust. 1 pkt 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
 
 **Art. 25.** Wodami przejściowymi są wody powierzchniowe znajdujące się w ujściach rzek lub w pobliżu ujść rzek, które z uwagi na bliskość wód słonych wykazują częściowe zasolenie, pozostając w zasięgu znaczących wpływów wód słodkich, oraz morskie wody wewnętrzne Zatoki Gdańskiej.
 
@@ -277,6 +472,23 @@ Art. 480–524. (pominięte)
 - **2)** wprowadzanie ścieków do wód lub do ziemi w ilości nieprzekraczającej łącznie 5 m na dobę.
 
 **Art. 34.** Szczególnym korzystaniem z wód jest korzystanie z wód wykraczające poza powszechne korzystanie z wód oraz zwykłe korzystanie z wód, obejmujące:
+
+- **1)** odwadnianie gruntów i upraw;
+- **2)** użytkowanie wody znajdującej się w stawach i rowach;
+- **3)** wprowadzanie do urządzeń kanalizacyjnych będących własnością innych podmiotów ścieków przemysłowych zawierających substancje szczególnie szkodliwe dla środowiska wodnego określone w przepisach wydanych na podstawie art. 100 ust. 1;
+- **4)** wykonywanie na nieruchomości o powierzchni powyżej 3500 m robót lub obiektów budowlanych trwale związanych z gruntem, mających wpływ na zmniejszenie naturalnej retencji terenowej przez wyłączenie więcej niż 70 % powierzchni nieruchomości z powierzchni biologicznie czynnej na obszarach nieujętych w systemy kanalizacji otwartej lub zamkniętej;
+- **5)** rybackie korzystanie ze śródlądowych wód powierzchniowych;
+- **6)** wykorzystywanie wód do celów żeglugi oraz spławu;
+- **7)** przerzuty wód oraz sztuczne zasilanie wód podziemnych;
+- **8)** wydobywanie z wód powierzchniowych, w tym z morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamienia, żwiru, piasku oraz innych materiałów, a także wycinanie roślin z wód lub brzegu;
+- **9)** (uchylony)
+- **10)** chów ryb w sadzach;
+- **11)** zapewnienie wody dla funkcjonowania urządzeń umożliwiających migrację ryb;
+- **12)** korzystanie z wód do nawadniania gruntów lub upraw, a także na potrzeby działalności rolniczej w rozumieniu art. 2 ust. 2 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2024 r. poz. 1176, 1635 i 1757), w ilości większej niż średniorocznie 5 m na dobę;
+- **13)** korzystanie z wód na potrzeby działalności gospodarczej, innej niż działalność rolnicza w rozumieniu art. 2 ust. 2 ustawy z dnia 15 listopada 1984 r. o podatku rolnym;
+- **14)** rolnicze wykorzystanie ścieków, jeżeli ich łączna ilość jest większa niż 5 m na dobę;
+- **15)** chów lub hodowlę ryb oraz innych organizmów wodnych w sztucznych zbiornikach wodnych usytuowanych na wodach płynących, przeznaczonych na te cele.
+- **16)** (uchylony)
 
 **Art. 35.**
 
@@ -567,6 +779,10 @@ Art. 480–524. (pominięte)
 
 **Art. 49.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki wodnej, ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy zakres informacji objętych ewidencją kąpielisk oraz miejsc okazjonalnie wykorzystywanych do kąpieli,
+- **2)** wzór ewidencji kąpielisk oraz ewidencji miejsc okazjonalnie wykorzystywanych do kąpieli,
+- **3)** sposób oznakowania kąpieliska oraz miejsca okazjonalnie wykorzystywanego do kąpieli – mając na względzie bezpieczeństwo oraz zagrożenia dla zdrowia kąpiących się, a także potrzebę przekazywania społeczeństwu aktualnych informacji o jakości wody w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli.
+
 ### DZIAŁ III Ochrona wód
 
 #### Rozdział 1 Cel ochrony wód i cele środowiskowe
@@ -735,6 +951,10 @@ Art. 480–524. (pominięte)
 
 **Art. 59.** Celem środowiskowym dla jednolitych części wód podziemnych jest:
 
+- **1)** zapobieganie lub ograniczanie wprowadzania do nich zanieczyszczeń;
+- **2)** zapobieganie pogorszeniu oraz poprawa ich stanu;
+- **3)** ich ochrona i podejmowanie działań naprawczych, a także zapewnianie równowagi między poborem a zasilaniem tych wód, tak aby osiągnąć ich dobry stan.
+
 **Art. 60.**
 
 1. Cel środowiskowy, o którym mowa w art. 59, realizuje się przez podejmowanie działań zawartych w planie gospodarowania wodami na obszarze dorzecza.
@@ -793,17 +1013,35 @@ Art. 480–524. (pominięte)
 
 **Art. 66.** Dopuszczalne jest:
 
+- **1)** nieosiągnięcie dobrego stanu ekologicznego lub dobrego potencjału ekologicznego oraz niezapobieżenie pogorszeniu stanu ekologicznego lub potencjału ekologicznego, jeżeli jest ono skutkiem nowych zmian właściwości fizycznych jednolitych części wód powierzchniowych;
+- **2)** niezapobieżenie pogorszeniu stanu ekologicznego jednolitych części wód powierzchniowych ze stanu bardzo dobrego do dobrego lub niezapobieżenie pogorszeniu potencjału ekologicznego z maksymalnego do dobrego, jeżeli jest ono wynikiem nowych działań człowieka, zgodnych z zasadą zrównoważonego rozwoju i niezbędnych dla rozwoju społeczeństwa.
+
 **Art. 67.** Dopuszczalne jest nieosiągnięcie dobrego stanu oraz niezapobieżenie pogorszeniu stanu jednolitych części wód podziemnych, jeżeli jest ono skutkiem:
+
+- **1)** nowych zmian właściwości fizycznych jednolitych części wód powierzchniowych;
+- **2)** zmian poziomu zwierciadła wód podziemnych.
 
 **Art. 68.** Przepisy art. 66 i art. 67 stosuje się, jeżeli są spełnione łącznie następujące warunki:
 
+- **1)** podejmowane są wszelkie działania, aby łagodzić skutki negatywnych oddziaływań na stan jednolitych części wód;
+- **2)** przyczyny zmian i działań, o których mowa w art. 66 i art. 67, są szczegółowo przedstawione w planie gospodarowania wodami na obszarze dorzecza i są aktualizowane co 6 lat;
+- **3)** przyczyny zmian i działań, o których mowa w art. 66, są uzasadnione nadrzędnym interesem publicznym, a pozytywne efekty związane z ochroną zdrowia, utrzymaniem bezpieczeństwa oraz zrównoważonym rozwojem przeważają nad korzyściami dla społeczeństwa i środowiska związanymi z osiągnięciem celów środowiskowych, o których mowa w art. 55, utraconymi w następstwie tych zmian i działań;
+- **4)** zakładane korzyści wynikające ze zmian i działań, o których mowa w pkt 1–3, nie mogą zostać osiągnięte przy zastosowaniu innych działań, znacząco korzystniejszych z punktu widzenia interesów środowiska, ze względu na negatywne uwarunkowania wykonalności technicznej lub nieproporcjonalnie wysokie koszty.
+
 **Art. 69.** Wyznaczanie jednolitych części wód powierzchniowych jako sztucznych lub silnie zmienionych, o którym mowa w art. 64 ust. 1, ustalanie mniej rygorystycznych celów środowiskowych, o którym mowa w art. 63 ust. 1, dopuszczanie czasowego pogorszenia stanu jednolitych części wód, o którym mowa w art. 65 ust. 1, oraz stosowanie przepisów art. 66, nie może trwale uniemożliwiać ani zagrażać realizacji:
+
+- **1)** celów środowiskowych ustalonych dla innych jednolitych części wód w granicach tego samego dorzecza;
+- **2)** wymogów dotyczących ochrony środowiska wynikających z odrębnych przepisów.
 
 **Art. 70.** Celem ochrony jednolitych części wód przeznaczonych do poboru wody na potrzeby zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi oraz zaopatrzenia zakładów wymagających wody wysokiej jakości jest zapobieganie pogorszeniu jakości tych jednolitych części wód w taki sposób, aby w szczególności zminimalizować potrzebę ich uzdatniania.
 
 **Art. 71.** Dla jednolitych części wód przeznaczonych do poboru wody na potrzeby zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi realizuje się cele środowiskowe, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61, oraz stosuje się wymagania wynikające z przepisów ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków.
 
 **Art. 72.** Jednolite części wód przeznaczone do poboru wody na potrzeby zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi obejmują:
+
+- **1)** jednolite części wód wykorzystywane do poboru wody przeznaczonej do spożycia przez ludzi, dostarczające średnio więcej niż 10 m wody na dobę lub służące więcej niż 50 osobom;
+- **2)** jednolite części wód, które są przewidywane do takich celów w przyszłości;
+- **3)** jednolite części wód wykorzystywane do działalności handlowej lub w budynkach użyteczności publicznej.
 
 **Art. 73.** Wody powierzchniowe, które nie spełniają wymagań określonych w przepisach wydanych na podstawie art. 74 ust. 1, nie mogą być wykorzystywane do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi.
 
@@ -817,7 +1055,25 @@ Art. 480–524. (pominięte)
 
 **Art. 75.** Zakazuje się wprowadzania ścieków:
 
+- **1)** bezpośrednio do wód podziemnych;
+- **2)** do wód:
+    - **a)** powierzchniowych, jeżeli byłoby to sprzeczne z warunkami wynikającymi z istniejących form ochrony przyrody, stref ochrony zwierząt łownych albo ostoi utworzonych na podstawie przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, a także stref ochronnych ujęć wody ustanowionych na podstawie art. 135 ust. 1 oraz obszarów ochronnych zbiorników wód śródlądowych ustanowionych na podstawie art. 141 ust. 1,
+    - **b)** powierzchniowych w obrębie kąpielisk, miejsc okazjonalnie wykorzystywanych do kąpieli i plaż publicznych nad wodami oraz w odległości mniejszej niż 1 kilometr od ich granic,
+    - **c)** stojących,
+    - **d)** jezior, jeżeli czas dopływu ścieków do jeziora byłby krótszy niż 24 godziny,
+    - **e)** cieków naturalnych oraz kanałów będących dopływami jezior, jeżeli czas dopływu ścieków do jeziora byłby krótszy niż 24 godziny;
+
+- **3)** do ziemi:
+    - **a)** zawierających substancje szczególnie szkodliwe dla środowiska wodnego określone w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1, jeżeli byłoby to niezgodne z warunkami określonymi w przepisach wydanych na podstawie art. 99 ust. 1 pkt 2,
+    - **b)** jeżeli byłoby to sprzeczne z warunkami wynikającymi z istniejących form ochrony przyrody, stref ochrony zwierząt łownych albo ostoi utworzonych na podstawie przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, a także stref ochronnych ujęć wody ustanowionych na podstawie art. 135 ust. 1 oraz obszarów ochronnych zbiorników wód śródlądowych ustanowionych na podstawie art. 141 ust. 1,
+    - **c)** jeżeli stopień oczyszczania ścieków lub miąższość utworów skalnych nad zwierciadłem wód podziemnych nie stanowi zabezpieczenia tych wód przed zanieczyszczeniem,
+    - **d)** w pasie technicznym,
+    - **e)** w odległości mniejszej niż 1 kilometr od granic kąpielisk, miejsc okazjonalnie wykorzystywanych do kąpieli oraz plaż publicznych nad wodami.
+
 **Art. 75a.** Zakazuje się wprowadzania wód opadowych lub roztopowych, ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych:
+
+- **1)** bezpośrednio do wód podziemnych;
+- **2)** do urządzeń wodnych, o ile wody te zawierają substancje szczególnie szkodliwe dla środowiska wodnego określone w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1, jeżeli byłoby to niezgodne z warunkami określonymi w przepisach wydanych na podstawie art. 99 ust. 1 pkt 4.
 
 **Art. 76.**
 
@@ -884,6 +1140,16 @@ Art. 480–524. (pominięte)
 
 **Art. 78.** Ścieki wprowadzane do wód lub do ziemi w ramach zwykłego korzystania z wód albo usług wodnych powinny być oczyszczone w stopniu wymaganym przepisami ustawy i nie mogą:
 
+- **1)** zawierać: o odpadach oraz zanieczyszczeń pływających,
+    - **a)** odpadów w rozumieniu art. 3 ust. 1 pkt 6 ustawy z dnia 14 grudnia 2012 r.
+    - **b)** substancji priorytetowych określonych w przepisach wydanych na podstawie art. 114,
+    - **c)** chorobotwórczych drobnoustrojów pochodzących z obiektów, w których leczeni są chorzy na choroby zakaźne;
+
+- **2)** powodować w tych wodach:
+    - **a)** zmian w naturalnej, charakterystycznej dla nich biocenozie,
+    - **b)** zmian naturalnej mętności, barwy lub zapachu,
+    - **c)** formowania się osadów lub piany.
+
 **Art. 79.** Zakazuje się rozcieńczania ścieków w celu uzyskania ich stanu, składu oraz minimalnego procentu redukcji substancji zanieczyszczających zgodnych z przepisami wydanymi na podstawie art. 99 ust. 1 pkt 2.
 
 **Art. 80.** Dopuszcza się wprowadzanie do wód lub do ziemi wód opadowych lub roztopowych z przelewów kanalizacji deszczowej lub ścieków z przelewów burzowych komunalnej kanalizacji ogólnospławnej na warunkach określonych w przepisach wydanych na podstawie art. 99 ust. 1 pkt 2, o ile właściwy organ Wód Polskich ustali, w drodze decyzji, że takie dopuszczenie nie koliduje z celami środowiskowymi dla wód lub wymaganiami jakościowymi dla wód.
@@ -891,6 +1157,9 @@ Art. 480–524. (pominięte)
 **Art. 81.** Organ właściwy w sprawach pozwoleń wodnoprawnych, ustalając warunki wprowadzania do wód lub do ziemi ścieków bytowych lub komunalnych, może określić w pozwoleniu wodnoprawnym minimalny procent redukcji substancji zanieczyszczających, jeżeli zapewni się nieprzekroczenie najwyższych dopuszczalnych wartości zanieczyszczeń określonych w przepisach wydanych na podstawie art. 99 ust. 1 pkt 2.
 
 **Art. 82.** Organ właściwy w sprawach pozwoleń wodnoprawnych, ustalając warunki wprowadzania ścieków do wód lub do ziemi, może określić w pozwoleniu wodnoprawnym wartości zanieczyszczeń w ściekach:
+
+- **1)** niższe niż najwyższe dopuszczalne wartości substancji zanieczyszczających określone w przepisach wydanych na podstawie art. 99 ust. 1 pkt 2, jeżeli istniejące urządzenia oczyszczające umożliwiają ich osiągnięcie;
+- **2)** wyższe niż najwyższe dopuszczalne wartości substancji zanieczyszczających określone w przepisach wydanych na podstawie art. 99 ust. 1 pkt 2, jeżeli dotrzymanie najwyższych dopuszczalnych wartości nie jest możliwe mimo zastosowania dostępnych technik i technologii oczyszczania ścieków oraz zmian w procesie produkcji, a jednocześnie stan wód odbiornika i ich podatność na eutrofizację rozumianą jako wzbogacanie wód biogenami, w szczególności związkami azotu lub fosforu, powodującymi przyspieszony wzrost glonów oraz wyższych form życia roślinnego, w wyniku którego następują niepożądane zakłócenia biologicznych stosunków w środowisku wodnym oraz pogorszenie jakości tych wód, pozwala na dokonanie odstępstw.
 
 **Art. 83.**
 
@@ -983,6 +1252,14 @@ Art. 480–524. (pominięte)
 9. Aglomeracje wyznaczone na podstawie ust. 1, w których nastąpiło zmniejszenie równoważnej liczby mieszkańców poniżej 2000, mogą nie podlegać zniesieniu, jeżeli przedsięwzięcie planowane, realizowane lub zrealizowane na ich obszarze zostało ujęte w zestawieniu niezbędnych przedsięwzięć w zakresie budowy, rozbudowy i modernizacji urządzeń kanalizacyjnych, o którym mowa w art. 88 ust. 1, przez okres planowania, realizacji i 5 lat po zrealizowaniu tego przedsięwzięcia.
 
 **Art. 87a.** Aglomeracja wyznaczona na podstawie art. 87 ust. 1 powinna spełniać następujące warunki:
+
+- **1)** być wyposażona w sieć kanalizacyjną gwarantującą zbieranie co najmniej 98 % ładunku zanieczyszczeń z obszaru aglomeracji wyrażonego w równoważnej liczbie mieszkańców;
+- **2)** ładunek zanieczyszczeń niezebrany siecią kanalizacyjną, o której mowa w pkt 1:
+    - **a)** w przypadku gdy stanowi nie więcej niż 2 % ładunku zanieczyszczeń z obszaru aglomeracji – jest mniejszy niż 2000 równoważnej liczby mieszkańców oraz
+    - **b)** jest oczyszczany w innych systemach oczyszczania ścieków, zapewniających taki sam poziom ochrony środowiska jak dla całej aglomeracji;
+
+- **3)** zapewniać wydajność oczyszczalni ścieków pozwalającą odebrać całość ładunku zanieczyszczeń powstających w aglomeracji wyrażonego w równoważnej liczbie mieszkańców oraz
+- **4)** stosować technologię oczyszczania ścieków z aglomeracji gwarantującą osiągnięcie wymaganych przepisami powszechnie obowiązującymi standardów oczyszczania ścieków dla oczyszczalni ścieków w aglomeracji o określonej wielkości wyrażonej równoważną liczbą mieszkańców.
 
 **Art. 88.**
 
@@ -1401,6 +1678,10 @@ Art. 480–524. (pominięte)
 
 **Art. 116.** Właściwy organ Inspekcji Ochrony Środowiska wykonuje badania:
 
+- **1)** substancji priorytetowych, dla których środowiskowe normy jakości zostały określone we florze i faunie;
+- **2)** substancji priorytetowych, które wykazują tendencje do akumulowania się w osadach;
+- **3)** substancji szczególnie szkodliwych dla środowiska wodnego zawartych na liście obserwacyjnej.
+
 **Art. 117.** Minister właściwy do spraw gospodarki wodnej sporządza, dla każdego obszaru dorzecza, wykaz emisji, zrzutów oraz strat substancji priorytetowych, o których mowa w przepisach wydanych na podstawie art. 114, uwzględniając przepisy prawa Unii Europejskiej dotyczące substancji priorytetowych w dziedzinie polityki wodnej, i udostępnia ten wykaz na stronie podmiotowej Biuletynu Informacji Publicznej urzędu zapewniającego jego obsługę.
 
 **Art. 118.**
@@ -1422,6 +1703,9 @@ Art. 480–524. (pominięte)
 #### Rozdział 6 Ochrona ujęć wody oraz zbiorników wód śródlądowych
 
 **Art. 120.** Zapewnieniu odpowiedniej jakości wód ujmowanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi oraz zaopatrzenia zakładów wymagających wody wysokiej jakości, a także ochronie zasobów wodnych, służy ustanawianie:
+
+- **1)** stref ochronnych ujęć wody, zwanych dalej „strefami ochronnymi”;
+- **2)** obszarów ochronnych zbiorników wód śródlądowych, zwanych dalej „obszarami ochronnymi”.
 
 **Art. 121.**
 
@@ -1461,6 +1745,11 @@ Art. 480–524. (pominięte)
 **Art. 127.** Na terenie ochrony bezpośredniej zakazuje się użytkowania gruntów do celów niezwiązanych z eksploatacją ujęcia wody.
 
 **Art. 128.** Na terenie ochrony bezpośredniej należy:
+
+- **1)** odprowadzać wody opadowe lub roztopowe w sposób uniemożliwiający przedostawanie się ich do urządzeń służących do poboru wody;
+- **2)** zagospodarować teren zielenią;
+- **3)** odprowadzać poza granicę terenu ochrony bezpośredniej ścieki z urządzeń sanitarnych przeznaczonych do użytku dla osób zatrudnionych przy obsłudze urządzeń służących do poboru wody;
+- **4)** ograniczyć wyłącznie do niezbędnych potrzeb przebywanie osób niezatrudnionych przy obsłudze urządzeń służących do poboru wody.
 
 **Art. 129.**
 
@@ -1582,6 +1871,27 @@ Art. 480–524. (pominięte)
 
 **Art. 140.** Na obszarach ochronnych może być zakazane lub ograniczone wykonywanie robót lub czynności, które mogą spowodować trwałe zanieczyszczenie gruntów lub wód, obejmujących:
 
+- **1)** wprowadzanie ścieków do wód lub do ziemi;
+- **2)** rolnicze wykorzystanie ścieków;
+- **3)** przechowywanie lub składowanie odpadów promieniotwórczych;
+- **4)** stosowanie nawozów oraz środków ochrony roślin;
+- **5)** budowę nowych dróg, linii kolejowych, lotnisk lub lądowisk;
+- **6)** lokalizowanie zakładów przemysłowych oraz ferm chowu lub hodowli zwierząt;
+- **7)** lokalizowanie magazynów produktów ropopochodnych oraz innych substancji, a także rurociągów do ich transportu;
+- **8)** lokalizowanie składowisk odpadów niebezpiecznych, innych niż niebezpieczne i obojętne oraz obojętnych;
+- **9)** mycie pojazdów mechanicznych;
+- **10)** urządzanie parkingów, obozowisk oraz kąpielisk i miejsc okazjonalnie wykorzystywanych do kąpieli;
+- **11)** lokalizowanie cmentarzy oraz grzebanie martwych zwierząt;
+- **12)** wydobywanie kopalin;
+- **13)** wykonywanie odwodnień budowlanych lub górniczych;
+- **14)** używanie statków powietrznych do przeprowadzania zabiegów rolniczych;
+- **15)** urządzanie pryzm kiszonkowych;
+- **16)** chów lub hodowlę ryb, ich dokarmianie lub zanęcanie;
+- **17)** lokalizowanie nowych przedsięwzięć mogących znacząco oddziaływać na środowisko;
+- **18)** składowanie opakowań po nawozach i środkach ochrony roślin;
+- **19)** stosowanie i składowanie chemicznych środków zimowego utrzymania dróg;
+- **20)** lokalizowanie pomp ciepła i akumulatorów ciepła warstwy wodonośnej.
+
 **Art. 141.**
 
 1. Wojewoda, na wniosek Wód Polskich, ustanawia obszar ochronny, w drodze aktu prawa miejscowego, wskazując ograniczenia lub zakazy dotyczące użytkowania gruntów oraz korzystania z wód na terenie obszaru ochronnego oraz granice tego obszaru.
@@ -1625,6 +1935,10 @@ Art. 480–524. (pominięte)
 **Art. 147.** Jeżeli minister właściwy do spraw gospodarki wodnej stwierdzi, że działalność człowieka w innym państwie członkowskim Unii Europejskiej lub w państwie leżącym poza granicami Unii Europejskiej może mieć znaczący wpływ na środowisko wód morskich, w szczególności na obszarach wód morskich objętych formami ochrony przyrody, o których mowa w art. 6 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, w tym chronionych zgodnie z umowami międzynarodowymi, których Rzeczpospolita Polska jest stroną, po uzyskaniu zgody Rady Ministrów, występuje do właściwego organu Unii Europejskiej lub organizacji międzynarodowej o podjęcie działań niezbędnych dla osiągnięcia dobrego stanu środowiska wód morskich oraz zapewnienia integralności, funkcjonowania i zachowania struktury ekosystemów morskich, które mają być utrzymane lub, w razie potrzeby, odtworzone.
 
 **Art. 148.** Podjęcie działań, których celem jest zapewnienie osiągnięcia celów środowiskowych dla wód morskich oraz dobrego stanu środowiska wód morskich, w tym odpowiednio opracowanie, wdrożenie i przegląd wstępnej oceny stanu środowiska wód morskich, zestawu właściwości typowych dla dobrego stanu środowiska wód morskich, zestawu celów środowiskowych dla wód morskich, programu monitoringu wód morskich oraz programu ochrony wód morskich, wymaga współpracy, w szczególności:
+
+- **1)** w ramach Konwencji o ochronie środowiska morskiego obszaru Morza Bałtyckiego, sporządzonej w Helsinkach dnia 9 kwietnia 1992 r. (Dz. U. z 2000 r. poz. 346), zwanej dalej „Konwencją Helsińską”;
+- **2)** z właściwymi organami innych państw członkowskich Unii Europejskiej położonych w regionie Morza Bałtyckiego;
+- **3)** z właściwymi organami państw leżących poza granicami Unii Europejskiej, które graniczą z regionem Morza Bałtyckiego.
 
 **Art. 149.** Organy administracji rządowej i samorządowej, państwowa służba hydrologiczno-meteorologiczna i państwowa służba geologiczna oraz instytuty badawcze są obowiązane do nieodpłatnego przekazywania posiadanych danych niezbędnych do opracowania wstępnej oceny stanu środowiska wód morskich, zestawu właściwości typowych dla dobrego stanu środowiska wód morskich, zestawu celów środowiskowych dla wód morskich, programu monitoringu wód morskich oraz programu ochrony wód morskich, w tym danych dotyczących wód śródlądowych, organom opracowującym i aktualizującym te dokumenty.
 
@@ -3265,6 +3579,12 @@ Art. 480–524. (pominięte)
 
 **Art. 231.** Właściciel śródlądowych wód powierzchniowych:
 
+- **1)** zapewnia osiągnięcie celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61;
+- **2)** utrzymuje w należytym stanie technicznym koryta cieków naturalnych oraz kanały, będące w jego władaniu;
+- **3)** zapewnia swobodny spływ wód powodziowych oraz lodów;
+- **4)** współuczestniczy w odbudowywaniu ekosystemów zdegradowanych przez niewłaściwą eksploatację zasobów wodnych;
+- **5)** umożliwia wykonywanie obserwacji i pomiarów hydrologiczno-meteorologicznych oraz hydrogeologicznych.
+
 **Art. 232.**
 
 1. Zakazuje się grodzenia nieruchomości przyległych do publicznych śródlądowych wód powierzchniowych oraz do brzegu wód morskich i morza terytorialnego w odległości mniejszej niż 1,5 m od linii brzegu, a także zakazywania lub uniemożliwiania przechodzenia przez ten obszar.
@@ -3682,6 +4002,10 @@ Art. 480–524. (pominięte)
 
 **Art. 251b.** Zadaniem Inspekcji Wodnej jest:
 
+- **1)** kontrola przestrzegania przepisów niniejszej ustawy, ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym oraz przepisów wydanych na podstawie tych ustaw;
+- **2)** kontrola gospodarowania wodami w zakresie określonym w przepisach działu VII rozdziału 3;
+- **3)** dokonywanie czynności, o których mowa w art. 190a ust. 1 i 3 pkt 1.
+
 **Art. 251c.**
 
 1. Krajowy Inspektor Wodny kieruje pracą Krajowej Inspekcji Wodnej.
@@ -3827,6 +4151,20 @@ Art. 480–524. (pominięte)
 **Art. 254.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób prowadzenia gospodarki finansowej Wód Polskich, kierując się potrzebą zapewnienia sposobu przeznaczania środków publicznych na realizację zadań Wód Polskich oraz przestrzegania ładu finansów publicznych.
 
 **Art. 255.** Przychodami Wód Polskich są:
+
+- **1)** wpływy z tytułu opłat za usługi wodne oraz opłat podwyższonych;
+- **1a)** wpływy z tytułu administracyjnych kar pieniężnych nakładanych przez Wody Polskie;
+- **2)** wpływy z tytułu należności za korzystanie ze śródlądowych dróg wodnych oraz urządzeń wodnych stanowiących własność Skarbu Państwa, usytuowanych na śródlądowych wodach powierzchniowych;
+- **3)** wpływy z opłat rocznych z tytułu oddania w użytkowanie gruntów pokrytych wodami, wobec których Wody Polskie wykonują prawa właścicielskie Skarbu Państwa;
+- **4)** wpływy z opłat z tytułu umów dotyczących wykonywania rybactwa śródlądowego na śródlądowych wodach płynących stanowiących własność Skarbu Państwa;
+- **5)** wpływy z tytułu najmu i dzierżawy oraz z innych umów o podobnym charakterze obejmujących składniki majątkowe Skarbu Państwa oraz inne przychody z tytułu gospodarowania mieniem Skarbu Państwa związanym z gospodarką wodną;
+- **6)** wpływy z tytułu partycypacji w kosztach utrzymywania wód lub urządzeń wodnych;
+- **7)** dobrowolne wpłaty, zapisy, darowizny, w tym darowizny materialne, i środki pochodzące z fundacji oraz wpływy z przedsięwzięć organizowanych na rzecz gospodarki wodnej;
+- **8)** wpływy z tytułu opłaty legalizacyjnej;
+- **9)** wpływy z tytułu opłaty za udzielenie zgody wodnoprawnej;
+- **10)** przychody:
+    - **a)** inne niż wymienione w pkt 1–9,
+    - **b)** z tytułu wykonywania działalności gospodarczej, o której mowa w art. 240 ust. 6.
 
 **Art. 256.**
 
@@ -4085,9 +4423,26 @@ Art. 480–524. (pominięte)
 
 **Art. 266.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
+- **1)** sposób przeprowadzania przetargu ustnego nieograniczonego i przetargu pisemnego nieograniczonego, o których mowa w art. 265 ust. 2,
+- **2)** sposób określania wysokości wadium oraz terminy i formy jego wnoszenia i zwrotu,
+- **3)** sposób i terminy ogłaszania przetargu oraz treść ogłoszenia o przetargu,
+- **4)** sposób powoływania i działania komisji przetargowej,
+- **5)** sposób sporządzania oraz treść protokołu z przeprowadzonego przetargu,
+- **6)** sposób postępowania w przypadku zaskarżenia przetargu – kierując się koniecznością zapewnienia jawności i jednolitości postępowania, równego dostępu do udziału w przetargu oraz uzyskania najkorzystniejszego wyniku przetargu.
+
 #### Rozdział 5 Instrumenty ekonomiczne w gospodarowaniu wodami
 
 **Art. 267.** Instrumenty ekonomiczne służące gospodarowaniu wodami stanowią:
+
+- **1)** opłaty za usługi wodne;
+- **2)** opłaty podwyższone;
+- **3)** należności za korzystanie ze śródlądowych dróg wodnych i ich odcinków oraz urządzeń wodnych stanowiących własność Skarbu Państwa, usytuowanych na śródlądowych wodach powierzchniowych;
+- **4)** opłata legalizacyjna, o której mowa w art. 190 ust. 2;
+- **5)** opłata roczna, o której mowa w art. 261 ust. 1;
+- **6)** wpływy z tytułu rozporządzania nieruchomościami, o którym mowa w art. 264 ust. 1;
+- **7)** opłata roczna, o której mowa w art. 6d ust. 4 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym;
+- **8)** wpływy z tytułu opłaty, o której mowa w art. 7 ust. 8 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym, w przypadkach, w których Wody Polskie są uprawnionym do rybactwa;
+- **9)** wpływy z umów dotyczących wykonywania rybactwa śródlądowego, o których mowa w art. 534 ust. 1 pkt 5.
 
 **Art. 268.**
 
@@ -4347,6 +4702,86 @@ Art. 480–524. (pominięte)
 
 **Art. 274.** Górne jednostkowe stawki opłat za usługi wodne, o których mowa w art. 268 ust. 1 pkt 1–3 oraz w art. 269, wynoszą:
 
+- **1)** za pobór wód w formie opłaty stałej:
+    - **a)** za pobór wód podziemnych – 500 zł na dobę za 1 m /s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód,
+    - **b)** za pobór wód powierzchniowych – 250 zł na dobę za 1 m /s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód;
+
+- **2)** za pobór wód w formie opłaty zmiennej, w zależności od ilości pobieranej wody w ramach pozwolenia wodnoprawnego albo pozwolenia zintegrowanego:
+    - **a)** do celów wydobywania węgla kamiennego i węgla brunatnego (lignitu): – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **b)** do celów pozostałego górnictwa i wydobywania: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **c)** do celów produkcji artykułów spożywczych: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **d)** do celów produkcji napojów: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **e)** do celów produkcji wyrobów tekstylnych: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **f)** do celów produkcji odzieży: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **g)** do celów produkcji skór i wyrobów ze skór wyprawionych: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **h)** do celów produkcji wyrobów z drewna oraz korka, z wyłączeniem mebli, oraz do celów produkcji wyrobów ze słomy i materiałów używanych do wyplatania: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **i)** do celów produkcji papieru i wyrobów z papieru: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **j)** do celów wytwarzania i przetwarzania koksu i produktów rafinacji ropy naftowej: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **k)** do celów produkcji chemikaliów i wyrobów chemicznych: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **l)** do celów produkcji podstawowych substancji farmaceutycznych oraz leków i pozostałych wyrobów farmaceutycznych: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **m)** do celów produkcji wyrobów z gumy i tworzyw sztucznych: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **n)** do celów produkcji wyrobów z pozostałych mineralnych surowców niemetalicznych: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **o)** do celów produkcji metali: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **p)** do celów produkcji metalowych wyrobów gotowych, z wyłączeniem maszyn i urządzeń: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **q)** do celów produkcji komputerów oraz wyrobów elektronicznych i optycznych: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **r)** do celów produkcji urządzeń elektrycznych: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **s)** do celów produkcji innych maszyn i urządzeń: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **t)** do celów produkcji pojazdów samochodowych oraz przyczep i naczep, z wyłączeniem motocykli: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **u)** do celów produkcji innego sprzętu transportowego: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **v)** do celów produkcji mebli: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **w)** do celów produkcji wyrobów tytoniowych, poligrafii i reprodukcji zapisanych nośników informacji, produkcji innych wyrobów, naprawy, konserwacji i instalowania maszyn i urządzeń: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **x)** do celów wytwarzania i zaopatrywania w energię elektryczną, gaz, parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych,
+    - **y)** do celów zapewnienia funkcjonowania systemów chłodzenia elektrowni i elektrociepłowni dla instalacji posiadających w dniu wejścia w życie ustawy ważne pozwolenia wodnoprawne albo pozwolenia zintegrowane: – 0,70 zł za 1 m różnicy między ilością wód podziemnych pobranych do tych celów a ilością wód z obiegów chłodzących elektrowni lub elektrociepłowni – wprowadzanych do wód lub do ziemi, – 0,35 zł za 1 m różnicy między ilością wód powierzchniowych pobranych do tych celów a ilością wód z obiegów chłodzących elektrowni lub elektrociepłowni – wprowadzanych do wód lub do ziemi,
+    - **z)** do celów zapewnienia funkcjonowania systemów chłodzenia elektrowni i elektrociepłowni dla instalacji, które po dniu wejścia w życie ustawy uzyskały pozwolenia wodnoprawne albo pozwolenia zintegrowane: – 0,70 zł za 1 m różnicy między ilością wód podziemnych pobranych do tych celów a ilością wód z obiegów chłodzących elektrowni lub elektrociepłowni – wprowadzanych do wód lub do ziemi, – 0,35 zł za 1 m różnicy między ilością wód powierzchniowych pobranych do tych celów a ilością wód z obiegów chłodzących elektrowni lub elektrociepłowni – wprowadzanych do wód lub do ziemi, za) do celów poboru, uzdatniania i dostarczania wody: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych, zb) do celów odprowadzania i oczyszczania ścieków: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych, zc) do celów działalności związanej ze zbieraniem, przetwarzaniem i unieszkodliwianiem odpadów oraz do celu odzysku surowców: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych, zd) do celów robót budowlanych związanych ze wznoszeniem budynków: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych, ze) do celów robót związanych z budową obiektów inżynierii lądowej i wodnej: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych, zf) do celów robót budowlanych specjalistycznych: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych, zg) do celów handlu hurtowego i detalicznego, naprawy pojazdów samochodowych, włączając motocykle: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych, zh) do celów administracji publicznej i obrony narodowej, obowiązkowego zabezpieczenia społecznego: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych, zi) do celów opieki zdrowotnej i pomocy społecznej: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych, zj) do innych celów niż wymienione w lit. a–zi, określonych w Polskiej Klasyfikacji Działalności: – 0,70 zł za 1 m pobranych wód podziemnych, – 0,35 zł za 1 m pobranych wód powierzchniowych;
+
+- **3)** za pobór wód w formie opłaty zmiennej, w zależności od ilości pobieranej wody w ramach pozwolenia wodnoprawnego albo pozwolenia zintegrowanego:
+    - **a)** do celów elektrowni wodnych – 1,24 zł za 1 MWh wyprodukowanej energii elektrycznej w obiekcie energetyki wodnej oraz 0,35 zł za pobór bezzwrotny 1 m wody technologicznej nieprzeznaczonej wprost do produkcji energii elektrycznej,
+    - **b)** do celów rolniczych na potrzeby zaopatrzenia w wodę ludzi i zwierząt gospodarskich, w zakresie niebędącym zwykłym korzystaniem z wód: – 0,10 zł za 1 m pobranych wód podziemnych, – 0,05 zł za 1 m pobranych wód powierzchniowych,
+    - **c)** do celów rolniczych lub leśnych na potrzeby nawadniania gruntów i upraw, pobieranej za pomocą urządzeń pompowych – 0,15 zł za 1 m pobranych wód podziemnych,
+    - **d)** do celów, o których mowa w art. 270 ust. 2 pkt 4 – 1,00 zł za 1 MWh energii cieplnej wyprodukowanej lub pobranej przez instalacje oraz 0,80 zł za pobór bezzwrotny 1 m wody technologicznej nieprzeznaczonej wprost do produkcji lub poboru energii cieplnej;
+
+- **4)** za pobór wód w formie opłaty zmiennej, w zależności od ilości pobieranych wód podziemnych lub wód powierzchniowych w ramach pozwoleń wodnoprawnych albo pozwoleń zintegrowanych, do celów realizacji zadań własnych gminy w zakresie zbiorowego zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi:
+    - **a)** 0,30 za 1 m pobranych wód podziemnych lub wód powierzchniowych w ilości średniorocznej przekraczającej 1,0 m /s,
+    - **b)** 0,20 zł za 1 m pobranych wód podziemnych lub wód powierzchniowych w ilości średniorocznej od 0,26 do 1,0 m /s,
+    - **c)** 0,15 zł za 1 m pobranych wód podziemnych lub wód powierzchniowych w ilości średniorocznej nieprzekraczającej 0,25 m /s;
+
+- **5)** za odprowadzanie do wód – wód:
+    - **a)** w formie opłaty stałej – 5 zł na dobę za 1 m /s za określoną w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalną ilość wód opadowych lub roztopowych odprowadzanych do wód z otwartych lub zamkniętych systemów kanalizacji deszczowej służących do odprowadzania opadów atmosferycznych,
+    - **b)** w formie opłaty stałej – 0,70 zł za 1 m /s za określoną w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalną ilość wód pochodzących z odwodnienia gruntów w granicach administracyjnych miast,
+    - **c)** w formie opłaty zmiennej: – wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych w granicach administracyjnych miast bez urządzeń do retencjonowania wody z terenów uszczelnionych – 1,50 zł za 1 m na 1 rok, – wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych w granicach administracyjnych miast z urządzeniami do retencjonowania wody o pojemności do 10 % odpływu rocznego z terenów uszczelnionych – 1,25 zł za 1 m na 1 rok, – wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych w granicach administracyjnych miast z urządzeniami do retencjonowania wody o pojemności powyżej 10 % odpływu rocznego z terenów uszczelnionych – 1,00 zł za 1 m na 1 rok, – wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych w granicach administracyjnych miast z urządzeniami do retencjonowania wody o pojemności powyżej 20 % odpływu rocznego z terenów uszczelnionych – 0,75 zł za 1 m na 1 rok, – wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych w granicach administracyjnych miast z urządzeniami do retencjonowania wody o pojemności powyżej 30 % odpływu rocznego z terenów uszczelnionych – 0,15 zł za 1 m na 1 rok;
+
+- **6)** za zmniejszenie naturalnej retencji terenowej na skutek wykonywania na nieruchomości o powierzchni powyżej 3500 m robót lub obiektów budowlanych trwale związanych z gruntem mających wpływ na zmniejszenie tej retencji przez wyłączenie więcej niż 70 % powierzchni nieruchomości z powierzchni biologicznie czynnej na obszarach nieujętych w systemy kanalizacji otwartej lub zamkniętej:
+    - **a)** bez urządzeń do retencjonowania wody z powierzchni uszczelnionych trwale związanych z gruntem – 1,00 zł za 1 m na 1 rok,
+    - **b)** z urządzeniami do retencjonowania wody z powierzchni uszczelnionych o pojemności do 10 % odpływu rocznego z powierzchni uszczelnionych trwale związanych z gruntem – 0,60 zł za 1 m na 1 rok,
+    - **c)** z urządzeniami do retencjonowania wody z powierzchni uszczelnionych o pojemności od 10 do 30 % odpływu rocznego z powierzchni uszczelnionych trwale związanych z gruntem – 0,30 zł za 1 m na 1 rok,
+    - **d)** z urządzeniami do retencjonowania wody z powierzchni uszczelnionych o pojemności powyżej 30 % odpływu rocznego z powierzchni uszczelnionych trwale związanych z gruntem – 0,10 zł za 1 m na 1 rok;
+
+- **7)** za wprowadzanie ścieków do wód lub do ziemi w formie opłaty stałej – 500 zł na dobę za 1 m /s za określoną w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalną ilość ścieków wprowadzanych do wód lub do ziemi;
+- **8)** za wprowadzanie ścieków do wód lub do ziemi w formie opłaty zmiennej za 1 kg substancji wprowadzanych ze ściekami do wód lub do ziemi, wyrażonych jako wskaźnik:
+    - **a)** pięciodobowego biochemicznego zapotrzebowania tlenu (BZT ) – 4,28 zł,
+    - **b)** chemicznego zapotrzebowania tlenu – 1,71 zł,
+    - **c)** zawiesiny ogólnej – 0,52 zł, [d) sumy chlorków i siarczanów (Cl+SO ) – 0,050 zł;] <d) sumy chlorków i siarczanów (Cl+SO ): – 0,10 zł – dla zakładów odprowadzających ścieki o zwiększonym zasoleniu, – 0,05 zł – dla pozostałych ścieków;>
+
+- **9)** za wprowadzanie ścieków do wód lub do ziemi w formie opłaty zmiennej za 1 kg substancji wprowadzanych ze ściekami do wód lub do ziemi dla:
+    - **a)** fenoli lotnych – 45,55 zł,
+    - **b)** heksachlorocykloheksanu (HCH), tetrachlorometanu (czterochlorku węgla – CCl ), pentachlorofenolu (PCP), aldryny, dieldryny, endryny, izodryny, heksachlorobenzenu (HCB), heksachlorobutadienu (HCBD), trichlorometanu (chloroformu – CHCl ), 1,2-dichloroetanu (EDC), trichloroetylenu (TRI), tetrachloroetylenu (nadchloroetylenu – PER), trichlorobenzenu (TCB), rtęci, kadmu, cynku, miedzi, niklu, chromu, ołowiu, arsenu, wanadu i srebra – 124,56 zł;
+
+- **10)** za wprowadzanie do wód lub do ziemi 1 dam wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni:
+    - **a)** 0,68 zł – jeżeli temperatura wprowadzanych wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni jest wyższa niż +26 °C, a nie przekracza +32 °C,
+    - **b)** 1,36 zł – jeżeli temperatura wprowadzanych wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni jest wyższa niż +32 °C, a nie przekracza +35 °C,
+    - **c)** 4,24 zł – jeżeli temperatura wprowadzanych wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni jest wyższa niż +35 °C;
+
+- **10a)** za wprowadzanie do wód podziemnych 1 m wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej:
+    - **a)** 0,68 zł – jeżeli temperatura wprowadzanych wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej jest wyższa niż +26 °C, a nie przekracza +32 °C,
+    - **b)** 1,36 zł – jeżeli temperatura wprowadzanych wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej jest wyższa niż +32 °C, a nie przekracza +35 °C,
+    - **c)** 4,24 zł – jeżeli temperatura wprowadzanych wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej jest wyższa niż +35 °C;
+
+- **11)** za wydobywanie z wód powierzchniowych, w tym z morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamienia, żwiru, piasku oraz innych materiałów, a także wycinanie roślin z wód lub brzegu:
+    - **a)** 0,75 zł za 1 Mg wydobytego kamienia,
+    - **b)** 0,50 zł za 1 Mg wydobytego żwiru lub piasku,
+    - **c)** 0,60 zł za 1 Mg wydobytych innych materiałów,
+    - **d)** 10,70 zł za 1 m wyciętej trzciny lub wikliny.
+
 **Art. 275.**
 
 1. Wysokość opłaty za usługi wodne za pobór wód powierzchniowych na potrzeby chowu lub hodowli ryb w obiektach przepływowych, charakteryzujących się poborem zwrotnym, zależy od maksymalnej ilości wód możliwej do pobrania określonej w pozwoleniu wodnoprawnym.
@@ -4472,6 +4907,13 @@ Art. 480–524. (pominięte)
 
 **Art. 279.** Zwolnione z opłat za usługi wodne jest wprowadzanie:
 
+- **1)** do ziemi – ścieków w celu rolniczego wykorzystania, w przypadku posiadania pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na takie ich wykorzystanie;
+- **2)** do wód lub do ziemi – wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni, jeżeli ich temperatura nie przekracza +26 °C albo różnica między temperaturą wód pobranych i wprowadzanych do wód lub do ziemi pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni jest mniejsza niż 11 °C;
+- **2a)** do wód – wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej, jeżeli ich temperatura nie przekracza +26 °C;
+- **3)** do wód lub do ziemi – ścieków będących wodami zasolonymi, jeżeli wartość sumy chlorków i siarczanów (Cl+SO ) w tych wodach nie przekracza 500 mg/l;
+- **4)** do wód lub do ziemi – wód wykorzystanych na potrzeby chowu i hodowli ryb w obiektach przepływowych, charakteryzujących się poborem zwrotnym, pod warunkiem że ilość i rodzaj substancji w nich zawartych nie przekroczy wartości ustalonych w warunkach wprowadzania ścieków do wód określonych w pozwoleniu wodnoprawnym;
+- **5)** do wód lub do ziemi – wód wykorzystanych, odprowadzanych z obiektów chowu i hodowli ryb oraz innych organizmów wodnych w stawach o wodzie stojącej, o ile produkcja tych ryb oraz tych organizmów, rozumiana jako średnioroczny przyrost masy tych ryb oraz tych organizmów w poszczególnych latach cyklu produkcyjnego, nie przekracza 1500 kg z 1 ha powierzchni użytkowej stawów rybnych tego obiektu w jednym roku danego cyklu produkcyjnego.
+
 **Art. 279a.**
 
 1. Nie wnosi się opłaty za usługi wodne, jeżeli wysokość tej opłaty ustalona przez Wody Polskie albo wójta, burmistrza lub prezydenta miasta nie przekracza 20 zł.
@@ -4479,6 +4921,11 @@ Art. 480–524. (pominięte)
 2. W przypadku, o którym mowa w ust. 1, podmiotowi obowiązanemu do ponoszenia opłat za usługi wodne nie przekazuje się informacji, o której mowa w art. 271 ust. 1 lub w art. 272 ust. 17 albo 22, lub w art. 275 ust. 13.
 
 **Art. 280.** Opłatę podwyższoną ponosi się w razie:
+
+- **1)** (uchylony)
+- **2)** korzystania z usług wodnych polegających na:
+    - **a)** poborze wód podziemnych lub wód powierzchniowych,
+    - **b)** wprowadzaniu ścieków do wód lub do ziemi – z przekroczeniem warunków określonych w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym.
 
 **Art. 281.** (uchylony)
 
@@ -4524,19 +4971,44 @@ Art. 480–524. (pominięte)
 
 **Art. 284.** Właściwy organ Inspekcji Ochrony Środowiska stwierdza przekroczenie określonych w pozwoleniu wodnoprawnym albo pozwoleniu zintegrowanym warunków wprowadzania ścieków do wód lub do ziemi, o których mowa w art. 283 ust. 1, na podstawie:
 
+- **1)** pomiarów prowadzonych przez podmiot obowiązany do ponoszenia opłat za usługi wodne;
+- **2)** innych środków dowodowych niezbędnych do ustalenia wielkości przekroczenia.
+
 **Art. 285.** Właściwy organ Inspekcji Ochrony Środowiska stwierdza przekroczenie określonych w pozwoleniu wodnoprawnym albo pozwoleniu zintegrowanym warunków wprowadzania ścieków do wód lub do ziemi, o których mowa w art. 283 ust. 1, dokonując oceny wyników pomiarów dotyczących ilości, stanu i składu ścieków albo minimalnego procentu redukcji substancji zanieczyszczających w procesie oczyszczania ścieków, a w przypadku ścieków przemysłowych, dopuszczalnej ilości substancji zanieczyszczających, w szczególności minimalnej procentowej redukcji stężeń substancji w ściekach oraz dopuszczalnej masy substancji, w tym substancji szczególnie szkodliwych dla środowiska wodnego, o których mowa w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1, w odprowadzanych ściekach przypadającej na wyrażone w jednostkach masy przypadających na jednostkę wykorzystywanego surowca, materiału, paliwa lub wytworzonego powstającego produktu, prowadzonych przez podmiot obowiązany do ich prowadzenia, zgodnie z przepisami wydanymi na podstawie art. 99 ust. 1 pkt 2.
 
 **Art. 286.** Właściwy organ Inspekcji Ochrony Środowiska stwierdza przekroczenie określonych w pozwoleniu wodnoprawnym albo pozwoleniu zintegrowanym warunków wprowadzania ścieków do wód lub do ziemi, o których mowa w art. 283 ust. 1, na podstawie pomiarów, o których mowa w art. 284 pkt 1, jeżeli podmiot obowiązany do ponoszenia opłat za usługi wodne:
+
+- **1)** prowadzi wymagane pomiary ilości, stanu i składu ścieków albo minimalnego procentu redukcji substancji zanieczyszczających w procesie oczyszczania ścieków, a w przypadku ścieków przemysłowych, dopuszczalnej ilości substancji zanieczyszczających, w szczególności substancji szczególnie szkodliwych dla środowiska wodnego, o których mowa w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1, wyrażone w jednostkach masy przypadających na jednostkę wykorzystywanego surowca, materiału, paliwa lub powstającego produktu, minimalnej procentowej redukcji stężeń substancji w ściekach oraz dopuszczalnej masy substancji, w tym substancji szczególnie szkodliwych dla środowiska wodnego, w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu;
+- **2)** zapewnił wykonanie pomiarów, w tym pobieranie próbek, przez akredytowane laboratorium w rozumieniu przepisów ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2023 r. poz. 215) w zakresie badań, do których wykonywania jest obowiązany.
 
 **Art. 287.** Właściwy organ Inspekcji Ochrony Środowiska może nie uznać przedkładanych mu wyników wymaganych pomiarów ilości, stanu i składu ścieków albo minimalnego procentu redukcji substancji zanieczyszczających w procesie oczyszczania ścieków, a w przypadku ścieków przemysłowych, dopuszczalnej ilości substancji zanieczyszczających, w szczególności substancji szczególnie szkodliwych dla środowiska wodnego, o których mowa w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1, wyrażone w jednostkach masy przypadających na jednostkę wykorzystywanego surowca, materiału, paliwa lub powstającego produktu oraz przewidywany sposób i efekt ich oczyszczania, minimalnej procentowej redukcji stężeń substancji w ściekach oraz dopuszczalnej masy substancji, w tym substancji szczególnie szkodliwych dla środowiska wodnego w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu, jeżeli pomiary te nasuwają zastrzeżenia.
 
 **Art. 288.** Wyniki pomiarów, o których mowa w art. 287, prowadzonych przez podmiot obowiązany do ponoszenia opłat za usługi wodne nasuwają zastrzeżenia, jeżeli:
 
+- **1)** jest oczywiste, że środki techniczne mające na celu zapobieganie lub ograniczanie ilości, stanu i składu ścieków albo minimalnego procentu redukcji substancji zanieczyszczających w procesie oczyszczania ścieków, a w przypadku ścieków przemysłowych, dopuszczalnej ilości substancji zanieczyszczających, w szczególności substancji szczególnie szkodliwych dla środowiska wodnego, o których mowa w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1, wyrażone w jednostkach masy przypadających na jednostkę wykorzystywanego surowca, materiału, paliwa lub powstającego produktu oraz przewidywany sposób i efekt ich oczyszczania, minimalnej procentowej redukcji stężeń substancji w ściekach oraz masy substancji, w tym substancji szczególnie szkodliwych dla środowiska wodnego, w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu, ze względu na ich rodzaj, nie mogą zapewnić spełnienia warunków wprowadzania ścieków do wód lub do ziemi określonych w pozwoleniu wodnoprawnym albo pozwoleniu zintegrowanym;
+- **2)** podmiot obowiązany do ponoszenia opłat za usługi wodne nie zapewnił wykonania pomiarów, w tym pobierania próbek, przez akredytowane laboratorium w rozumieniu przepisów ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności w zakresie badań, do których wykonywania jest obowiązany;
+- **3)** (uchylony)
+- **4)** nie były przestrzegane zasady pobierania próbek, przez co wyniki analiz nie są miarodajne dla ustalenia ilości, stanu i składu ścieków albo minimalnego procentu redukcji substancji zanieczyszczających w procesie oczyszczania ścieków, a w przypadku ścieków przemysłowych, dopuszczalnej ilości substancji zanieczyszczających, w szczególności substancji szczególnie szkodliwych dla środowiska wodnego, o których mowa w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1, wyrażone w jednostkach masy przypadających na jednostkę wykorzystywanego surowca, materiału, paliwa lub powstającego produktu oraz przewidywany sposób i efekt ich oczyszczania, minimalnej procentowej redukcji stężeń substancji w ściekach oraz masy substancji, w tym substancji szczególnie szkodliwych dla środowiska wodnego, w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu;
+- **5)** pomiary wykonano metodykami innymi niż metodyki referencyjne analizy określone w przepisach wydanych na podstawie art. 99 ust. 1 pkt 2, bez udowodnienia przez podmiot korzystający z usług wodnych równoważności uzyskiwanych wyników z metodyką referencyjną analizy.
+
 **Art. 289.** W przypadkach, o których mowa w art. 286, art. 287 i art. 290, właściwy organ Inspekcji Ochrony Środowiska wymierza opłatę podwyższoną, o której mowa w art. 280 pkt 2 lit. b, za przekroczenie stwierdzone w roku kalendarzowym.
 
 **Art. 290.** Jeżeli podmiot obowiązany do ponoszenia opłat za usługi wodne nie prowadzi wymaganych pomiarów wielkości, ustalenia ilości, stanu i składu ścieków albo minimalnego procentu redukcji substancji zanieczyszczających w procesie oczyszczania ścieków, a w przypadku ścieków przemysłowych, dopuszczalnej ilości substancji zanieczyszczających, w szczególności substancji szczególnie szkodliwych dla środowiska wodnego, o których mowa w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1, wyrażonych w jednostkach masy przypadających na jednostkę wykorzystywanego surowca, materiału, paliwa lub powstającego produktu, minimalnej procentowej redukcji stężeń substancji w ściekach oraz masy substancji, w tym substancji szczególnie szkodliwych dla środowiska wodnego, w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu, pomiary ciągłe nie są prowadzone przez rok kalendarzowy lub pomiary nasuwają zastrzeżenia, przyjmuje się, że warunki wprowadzania ścieków do wód lub do ziemi określone w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym, dla każdego z tych pomiarów, zostały przekroczone:
 
+- **1)** o 80 % – w przypadku składu ścieków;
+- **2)** o 10 % – w przypadku minimalnej procentowej redukcji stężeń substancji w ściekach;
+- **3)** w stopniu powodującym zastosowanie maksymalnej stawki opłaty podwyższonej – w przypadku stanu ścieków;
+- **4)** o 10 % – w przypadku ilości ścieków.
+
 **Art. 291.** Górne jednostkowe stawki opłaty podwyższonej, o której mowa w art. 280 pkt 2 lit. b, wynoszą:
+
+- **1)** 1300 zł – za 1 kg substancji w przypadku przekroczenia:
+    - **a)** dopuszczalnej ilości i składu ścieków, z wyjątkiem zawiesiny łatwo opadającej,
+    - **b)** minimalnej procentowej redukcji stężeń substancji w ściekach,
+    - **c)** dopuszczalnej masy substancji w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu;
+
+- **2)** 14 zł – za 1 dm zawiesiny łatwo opadającej;
+- **3)** 14 zł – za 1 m ścieków w przypadku przekroczenia dopuszczalnej temperatury, odczynu pH, poziomu sztucznych substancji promieniotwórczych lub dopuszczalnego stopnia rozcieńczenia ścieków eliminującego toksyczne oddziaływanie ścieków na ryby.
 
 **Art. 292.**
 
@@ -4614,6 +5086,15 @@ Art. 480–524. (pominięte)
 **Art. 297.** Organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w sprawach decyzji, o których mowa w art. 296 ust. 7, 8, 10 i 12–15, jest właściwy organ Inspekcji Ochrony Środowiska.
 
 **Art. 298.** Opłatę za usługi wodne są obowiązane ponosić:
+
+- **1)** podmioty korzystające z usług wodnych;
+- **2)** osoby fizyczne, osoby prawne, jednostki organizacyjne, w tym spółki nieposiadające osobowości prawnej, będące:
+    - **a)** właścicielami nieruchomości lub obiektów budowlanych,
+    - **b)** posiadaczami samoistnymi nieruchomości lub obiektów budowlanych,
+    - **c)** użytkownikami wieczystymi gruntów,
+    - **d)** posiadaczami nieruchomości lub ich części albo obiektów budowlanych lub ich części, stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego – które na skutek wykonywania robót i obiektów mających wpływ na zmniejszenie naturalnej retencji terenowej doprowadziły do zmniejszenia tej retencji;
+
+- **3)** podmioty wydobywające z wód powierzchniowych, w tym z morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamień, żwir, piasek oraz inne materiały, a także wycinające rośliny z wód lub brzegu.
 
 **Art. 299.**
 
@@ -4850,7 +5331,27 @@ Art. 480–524. (pominięte)
 
 **Art. 315.** Planowanie w gospodarowaniu wodami obejmuje następujące dokumenty planistyczne:
 
+- **1)** plany gospodarowania wodami na obszarach dorzeczy;
+- **2)** plany zarządzania ryzykiem powodziowym;
+- **3)** plan przeciwdziałania skutkom suszy;
+- **4)** plany utrzymania wód;
+- **5)** wstępną ocenę ryzyka powodziowego;
+- **6)** mapy zagrożenia powodziowego;
+- **7)** mapy ryzyka powodziowego;
+- **8)** wstępną ocenę stanu środowiska wód morskich;
+- **9)** zestaw właściwości typowych dla dobrego stanu środowiska wód morskich;
+- **10)** zestaw celów środowiskowych dla wód morskich;
+- **11)** program monitoringu wód morskich;
+- **12)** program ochrony wód morskich.
+
 **Art. 316.** Planowanie w gospodarowaniu wodami służy programowaniu i koordynowaniu działań mających na celu:
+
+- **1)** osiągnięcie lub utrzymanie dobrego stanu wód oraz ekosystemów zależnych od wód, a także ochronę, poprawę i zapobieganie dalszemu pogarszaniu stanu ekosystemów wodnych, lądowych i terenów podmokłych;
+- **2)** poprawę stanu zasobów wodnych;
+- **3)** promowanie zrównoważonego korzystania z wód opartego na długoterminowej ochronie dostępnych zasobów wodnych;
+- **4)** zmniejszanie ilości wprowadzanych do wód lub do ziemi substancji i energii mogących negatywnie oddziaływać na wody;
+- **5)** poprawę ochrony przeciwpowodziowej oraz przeciwdziałanie skutkom suszy;
+- **6)** osiągnięcie celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61.
 
 **Art. 317.**
 
@@ -5281,6 +5782,21 @@ Art. 480–524. (pominięte)
 #### Rozdział 3 Kontrola gospodarowania wodami
 
 **Art. 334.** Kontrola gospodarowania wodami dotyczy:
+
+- **1)** korzystania z wód oraz ochrony zasobów wodnych;
+- **2)** przestrzegania warunków ustalonych w decyzjach wydanych na podstawie ustawy;
+- **3)** przestrzegania warunków ustalonych w pozwoleniach zintegrowanych;
+- **4)** wykonywania urządzeń wodnych;
+- **5)** utrzymywania wód oraz urządzeń wodnych;
+- **6)** przestrzegania nałożonych na właścicieli gruntów obowiązków oraz ograniczeń;
+- **6a)** stanu jakości wody ujmowanej do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi;
+- **7)** przestrzegania warunków obowiązujących w strefach ochronnych i obszarach ochronnych;
+- **8)** stanu jakości wody w kąpieliskach i miejscu okazjonalnie wykorzystywanym do kąpieli;
+- **9)** przestrzegania warunków obowiązujących na wałach przeciwpowodziowych oraz na obszarach szczególnego zagrożenia powodzią;
+- **10)** stanu zabezpieczenia przed powodzią oraz przebiegu usuwania skutków powodzi związanych z utrzymaniem wód oraz urządzeń wodnych;
+- **11)** ustawiania i utrzymywania stałych urządzeń pomiarowych na brzegach i w wodach;
+- **12)** wykonywania w pobliżu urządzeń wodnych robót lub czynności, które mogą zagrażać tym urządzeniom lub spowodować ich uszkodzenie;
+- **13)** usuwania szkód związanych z ruchem zakładu górniczego w zakresie gospodarki wodnej.
 
 **Art. 335.**
 
@@ -5760,7 +6276,14 @@ Art. 480–524. (pominięte)
 
 **Art. 360.** Minister właściwy do spraw gospodarki wodnej sprawuje nadzór nad działalnością:
 
+- **1)** państwowej służby hydrologiczno-meteorologicznej;
+- **2)** (uchylony)
+- **3)** państwowej służby do spraw bezpieczeństwa budowli piętrzących.
+
 **Art. 361.** Nadzór, o którym mowa w art. 360, polega w szczególności na:
+
+- **1)** zatwierdzaniu rocznych sprawozdań z realizacji przez państwową służbę hydrologiczno-meteorologiczną oraz państwową służbę do spraw bezpieczeństwa budowli piętrzących zadań określonych w przepisach ustawy;
+- **2)** kontroli efektywności i celowości wydatkowania środków publicznych, w tym wykorzystania środków przekazanych przez Wody Polskie, na realizację zadań przez państwową służbę hydrologiczno-meteorologiczną oraz państwową służbę do spraw bezpieczeństwa budowli piętrzących.
 
 **Art. 362.** Państwowa Rada Gospodarki Wodnej, zwana dalej „Państwową Radą”, jest organem opiniodawczo-doradczym ministra właściwego do spraw gospodarki wodnej.
 
@@ -5843,6 +6366,18 @@ Art. 480–524. (pominięte)
 
 **Art. 376.** Do zadań państwowej służby hydrologiczno-meteorologicznej należy:
 
+- **1)** wykonywanie pomiarów i obserwacji hydrologicznych oraz meteorologicznych;
+- **2)** wykonywanie badań elementów hydrologicznych i morfologicznych wód powierzchniowych na potrzeby planowania w gospodarowaniu wodami, w szczególności sporządzania dokumentacji planistycznych, o których mowa w art. 317 ust. 1;
+- **3)** gromadzenie, przetwarzanie, archiwizowanie i udostępnianie informacji hydrologicznych oraz meteorologicznych;
+- **4)** wykonywanie bieżących analiz i ocen sytuacji hydrologicznej oraz meteorologicznej;
+- **5)** opracowywanie i przekazywanie prognoz meteorologicznych oraz hydrologicznych;
+- **6)** opracowywanie i przekazywanie organom administracji publicznej ostrzeżeń przed niebezpiecznymi zjawiskami zachodzącymi w atmosferze i hydrosferze;
+- **7)** realizowanie zadań wynikających z przynależności do organizacji międzynarodowych w zakresie dotyczącym meteorologii, hydrologii i oceanologii;
+- **8)** wykonywanie modelowania hydrologicznego i hydraulicznego w zakresie zagrożeń powodziowych oraz zjawiska suszy;
+- **9)** prowadzenie działań edukacyjnych w zakresie hydrologii, meteorologii i oceanologii;
+- **10)** współpraca z organami administracji publicznej w zakresie ograniczania skutków niebezpiecznych zjawisk zachodzących w atmosferze i hydrosferze;
+- **11)** przygotowywanie scenariuszy ekstremalnych zdarzeń hydrologicznych i meteorologicznych.
+
 **Art. 377.**
 
 1. Do zadań państwowej służby do spraw bezpieczeństwa budowli piętrzących należy:
@@ -5909,7 +6444,37 @@ Art. 480–524. (pominięte)
 
 **Art. 379.** Państwowa służba do spraw bezpieczeństwa budowli piętrzących posiada i utrzymuje:
 
+- **1)** specjalistyczny sprzęt niezbędny do prowadzenia badań i pomiarów stanu technicznego i stanu bezpieczeństwa budowli piętrzących;
+- **2)** system gromadzenia, przetwarzania i wymiany danych;
+- **3)** komórki organizacyjne, które:
+    - **a)** wykonują badania i pomiary niezbędne do sporządzania ocen stanu technicznego i stanu bezpieczeństwa budowli piętrzących,
+    - **b)** opracowują oceny stanu technicznego i stanu bezpieczeństwa budowli piętrzących,
+    - **c)** opracowują raport o stanie bezpieczeństwa budowli piętrzących na podstawie analizy oceny stanu technicznego i stanu bezpieczeństwa budowli piętrzących, o której mowa w art. 377 ust. 1 pkt 1,
+    - **d)** prowadzą prace rozwojowe i metodyczne w zakresie oceny stanu technicznego i stanu bezpieczeństwa budowli piętrzących oraz w zakresie określonym w pkt 2 i w art. 377 ust. 1 pkt 1, 5 i 6.
+
 **Art. 380.** Do zadań państwowej służby geologicznej należy:
+
+- **1)** wykonywanie pomiarów, obserwacji i badań hydrogeologicznych;
+- **2)** gromadzenie, przetwarzanie, archiwizowanie oraz udostępnianie zgromadzonych informacji dotyczących warunków hydrogeologicznych, wielkości zasobów, stanu chemicznego i ilościowego wód podziemnych;
+- **3)** prowadzenie i aktualizacja baz danych hydrogeologicznych, w szczególności:
+    - **a)** wykazu wielkości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych i zasobów eksploatacyjnych ujęć wód podziemnych,
+    - **b)** bazy danych o obiektach hydrogeologicznych,
+    - **c)** bazy danych mapy hydrogeologicznej kraju,
+    - **d)** bazy danych monitoringu wód podziemnych,
+    - **e)** bazy danych o poborze wód podziemnych,
+    - **f)** bazy danych jednolitych części wód podziemnych,
+    - **g)** bazy danych o obiektach związanych z działalnością człowieka oddziaływujących na stan wód podziemnych,
+    - **h)** bazy danych zasięgów powodzi wywołanych przez wody gruntowe;
+
+- **4)** wykonywanie bieżących analiz i ocen sytuacji hydrogeologicznej;
+- **5)** opracowywanie oraz przekazywanie prognoz zmian wielkości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych oraz stanu wód podziemnych, a także ich zagrożeń;
+- **6)** opracowywanie i przekazywanie organom administracji publicznej ostrzeżeń przed niebezpiecznymi zjawiskami zachodzącymi w strefach zasilania oraz poboru wód podziemnych;
+- **6a)** monitorowanie i bilansowanie transgranicznych jednolitych części wód podziemnych na obszarach szczególnie ważnych ze względu na interes publiczny;
+- **7)** udział w działaniach związanych z zapobieganiem skutkom nadzwyczajnych zagrożeń wywołanych w szczególności przez powodzie, o których mowa w pkt 3 lit. h, oraz susze, a także wyznaczanie zasięgów powodzi historycznych na podstawie danych geologicznych;
+- **8)** ocena wpływu i oddziaływań na stan chemiczny i ilościowy wód podziemnych;
+- **9)** wykonywanie badań hydrogeologicznych na potrzeby planowania w gospodarowaniu wodami;
+- **10)** prowadzenie działań edukacyjnych w zakresie hydrogeologii;
+- **11)** prowadzenie prac rozwojowych i metodycznych w zakresie zadań wymienionych w pkt 1–9.
 
 **Art. 381.**
 
@@ -6104,6 +6669,17 @@ Art. 480–524. (pominięte)
 
 **Art. 389.** Jeżeli ustawa nie stanowi inaczej, pozwolenie wodnoprawne jest wymagane na:
 
+- **1)** usługi wodne;
+- **2)** szczególne korzystanie z wód;
+- **3)** długotrwałe obniżenie poziomu zwierciadła wody podziemnej;
+- **4)** rekultywację wód powierzchniowych lub wód podziemnych;
+- **5)** wprowadzanie do wód powierzchniowych substancji hamujących rozwój glonów;
+- **6)** wykonanie urządzeń wodnych;
+- **7)** regulację wód, zabudowę potoków górskich oraz kształtowanie nowych koryt cieków naturalnych;
+- **8)** zmianę ukształtowania terenu na gruntach przylegających do wód, mającą wpływ na warunki przepływu wód;
+- **9)** prowadzenie przez wody powierzchniowe płynące oraz przez wały przeciwpowodziowe obiektów mostowych, rurociągów, przewodów w rurociągach osłonowych lub przepustów;
+- **10)** prowadzenie przez śródlądowe drogi wodne oraz przez wały przeciwpowodziowe napowietrznych linii energetycznych i telekomunikacyjnych.
+
 **Art. 390.**
 
 1. Pozwolenie wodnoprawne jest wymagane również na:
@@ -6162,6 +6738,25 @@ Art. 480–524. (pominięte)
 4. Jeżeli przedsięwzięcie obejmuje działania wymagające uzyskania pozwolenia wodnoprawnego i zgłoszenia wodnoprawnego, wniosek o wydanie pozwolenia wodnoprawnego i zgłoszenie wodnoprawne rozpatruje się w ramach jednego postępowania zakończonego wydaniem pozwolenia wodnoprawnego.
 
 **Art. 395.** Pozwolenia wodnoprawnego albo zgłoszenia wodnoprawnego nie wymaga:
+
+- **1)** uprawianie żeglugi na śródlądowych drogach wodnych;
+- **2)** holowanie oraz spław drewna;
+- **3)** wycinanie roślin z wód lub brzegu w związku z utrzymywaniem wód, śródlądowych dróg wodnych oraz remontem urządzeń wodnych;
+- **4)** wykonanie pilnych prac zabezpieczających w okresie powodzi, klęski żywiołowej, ogłoszonych stanów zagrożenia epidemicznego, epidemii albo w razie niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które mogą stanowić zagrożenie dla zdrowia publicznego;
+- **5)** wykonanie urządzeń wodnych do poboru wód podziemnych na potrzeby zwykłego korzystania z wód z ujęć o głębokości do 30 m;
+- **6)** rybackie korzystanie ze śródlądowych wód powierzchniowych;
+- **7)** pobór wód powierzchniowych lub wód podziemnych w ilości średniorocznie nieprzekraczającej 5 m na dobę oraz wprowadzanie ścieków do wód lub do ziemi w ilości nieprzekraczającej łącznie 5 m na dobę, na potrzeby zwykłego korzystania z wód;
+- **8)** pobór i odprowadzanie wód w związku z wykonywaniem odwiertów lub otworów strzałowych przy użyciu płuczki wodnej na cele badań sejsmicznych;
+- **9)** wykonanie, odbudowa, rozbudowa, przebudowa lub rozbiórka urządzeń pomiarowych należących do służb państwowych lub Wód Polskich, a także lokalizowanie tych urządzeń na obszarach szczególnego zagrożenia powodzią;
+- **9a)** prowadzenie przez wody powierzchniowe płynące lub przez wały przeciwpowodziowe rurociągów oraz przewodów w rurociągach osłonowych służących urządzeniom, o których mowa w pkt 9;
+- **10)** wyznaczanie szlaku turystycznego pieszego lub rowerowego oraz budowa, przebudowa lub remont drogi rowerowej, z wyjątkiem prowadzenia dróg rowerowych przez wody powierzchniowe;
+- **11)** zatrzymywanie wody w rowach, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem, lub terenu znajdującego się w zasięgu oddziaływania, gdy zakład posiada uprzednią pisemną zgodę właścicieli gruntów objętych oddziaływaniem na zatrzymywanie wody w rowach;
+- **12)** hamowanie odpływu wody z obiektów drenarskich, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem, lub terenu znajdującego się w zasięgu oddziaływania, gdy zakład posiada uprzednią pisemną zgodę właścicieli gruntów objętych oddziaływaniem na hamowanie odpływu wody z obiektów drenarskich;
+- **13)** (uchylony)
+- **14)** lokalizowanie, na okres do 180 dni, tymczasowych obiektów budowlanych na obszarach szczególnego zagrożenia powodzią;
+- **15)** przebudowa rowów w celu zatrzymywania wody, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem, lub terenu znajdującego się w zasięgu oddziaływania, gdy zakład posiada uprzednią pisemną zgodę właścicieli gruntów objętych oddziaływaniem na przebudowę rowów w celu zatrzymywania wody;
+- **16)** przebudowa obiektów drenarskich w celu hamowania odpływu wody, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem, lub terenu znajdującego się w zasięgu oddziaływania, gdy zakład posiada uprzednią pisemną zgodę właścicieli gruntów objętych oddziaływaniem na przebudowę obiektów drenarskich w celu hamowania odpływu wody;
+- **17)** ułożenie i utrzymywanie na obszarach morskich wód wewnętrznych i morza terytorialnego kabli służących do wyprowadzenia mocy z morskich farm wiatrowych w rozumieniu art. 3 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2025 r. poz. 498), dla których wydane zostało pozwolenie, o którym mowa w art. 26 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
 
 **Art. 395a.**
 
@@ -6632,6 +7227,16 @@ Art. 480–524. (pominięte)
 
 **Art. 415.** Pozwolenie wodnoprawne można cofnąć lub ograniczyć bez odszkodowania, jeżeli:
 
+- **1)** zakład zmienia cel i zakres korzystania z wód lub warunki wykonywania uprawnień ustalonych w pozwoleniu wodnoprawnym;
+- **2)** urządzenia wodne wykonane zostały niezgodnie z warunkami ustalonymi w pozwoleniu wodnoprawnym lub nie są należycie utrzymywane;
+- **3)** zakład nie realizuje obowiązków wobec innych zakładów posiadających pozwolenie wodnoprawne, uprawnionych do rybactwa, oraz osób narażonych na szkody albo nie realizuje przedsięwzięć ograniczających negatywne oddziaływanie na środowisko, ustalonych w pozwoleniu wodnoprawnym;
+- **4)** zasoby wód podziemnych uległy zmniejszeniu w sposób naturalny;
+- **5)** zakład nie rozpoczął w terminie korzystania z uprawnień wynikających z pozwolenia wodnoprawnego innych niż określone w art. 414 ust. 1 pkt 3 lub nie korzystał z tych uprawnień przez okres co najmniej 2 lat;
+- **6)** nastąpiła zmiana przepisów wydanych na podstawie art. 99 ust. 1 pkt 2 i 3 oraz ust. 2;
+- **7)** nastąpiło zagrożenie osiągnięcia celów środowiskowych i jest to uzasadnione danymi z monitoringu wód oraz wynikami dodatkowego przeglądu pozwoleń wodnoprawnych, o którym mowa w art. 325 ust. 1 pkt 2;
+- **8)** nie wykonano lub nie przedłożono analizy ryzyka, o której mowa w art. 133 ust. 3, jeżeli taka analiza była wymagana;
+- **9)** dalsze korzystanie z wód na warunkach ustalonych w pozwoleniu wodnoprawnym stwarza stan zagrażający życiu lub zdrowiu ludzi lub stan zagrażający powstaniu poważnych szkód w środowisku, w szczególności z uwagi na występujące zmiany w środowisku wodnym.
+
 **Art. 416.**
 
 1. Organ właściwy w sprawach pozwoleń wodnoprawnych dokonuje przeglądu pozwoleń wodnoprawnych na pobór wód lub wprowadzanie ścieków do wód lub do ziemi, lub do urządzeń kanalizacyjnych, a także realizacji tych pozwoleń, co najmniej raz na 4 lata.
@@ -6682,11 +7287,29 @@ Art. 480–524. (pominięte)
 
 **Art. 420a.** Organ właściwy w sprawach pozwoleń wodnoprawnych, na podstawie informacji uzyskiwanych o wydanym, cofniętym, przeniesionym lub ograniczonym pozwoleniu wodnoprawnym, po uprawomocnieniu się decyzji, niezwłocznie informuje państwową służbę hydrologiczno-meteorologiczną oraz wojewódzkiego inspektora ochrony środowiska o zakładzie, który stał się albo przestał być zakładem odprowadzającym ścieki o zwiększonym zasoleniu, a także o wszelkich zmianach:
 
+- **1)** nazwy tego zakładu i jego adresu do korespondencji;
+- **2)** adresu do korespondencji elektronicznej tego zakładu;
+- **3)** współrzędnych geograficznych lokalizacji zrzutu wód przez ten zakład, zawierających chlorki i siarczany, do odbiornika wraz z podaniem nazwy tego odbiornika, a jeżeli występuje kilka takich miejsc – współrzędnych każdego z tych miejsc.
+
 #### Rozdział 4 Zgłoszenie wodnoprawne
 
 **Art. 421.** Zgłoszenie wodnoprawne zawiera:
 
+- **1)** oznaczenie zakładu dokonującego zgłoszenia z podaniem jego siedziby i adresu;
+- **2)** określenie:
+    - **a)** celu planowanych do wykonania czynności, robót lub urządzeń wodnych,
+    - **b)** stanu prawnego nieruchomości, na której czynności, roboty lub urządzenia wodne będą wykonywane,
+    - **c)** wykonywanych robót w sposób opisowy, podstawowych parametrów charakteryzujących planowane roboty oraz warunków ich wykonania,
+    - **d)** lokalizacji czynności, robót lub urządzeń wodnych, z podaniem nazwy lub numeru obrębu ewidencyjnego z numerem lub numerami działek ewidencyjnych oraz współrzędnymi,
+    - **e)** planowanego terminu rozpoczęcia robót lub czynności.
+
 **Art. 422.** Do zgłoszenia wodnoprawnego dołącza się:
+
+- **1)** mapę sytuacyjno-wysokościową pobraną z państwowego zasobu geodezyjnego i kartograficznego z naniesionym schematem planowanych czynności, robót lub urządzeń wodnych i zasięgiem ich oddziaływania lub inną mapę opatrzoną przez organ Służby Geodezyjnej i Kartograficznej odpowiednią klauzulą urzędową;
+- **2)** odpowiednie szkice lub rysunki;
+- **3)** wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, a w przypadku jego braku – decyzję o ustaleniu lokalizacji inwestycji celu publicznego albo decyzję o warunkach zabudowy, jeżeli są wymagane;
+- **4)** zgodę właściciela urządzenia wodnego, które jest niezbędne do wykonania planowanych czynności, robót lub urządzeń wodnych;
+- **5)** potwierdzenie skutecznego zgłoszenia, o którym mowa w art. 118 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, jeżeli jest wymagane.
 
 **Art. 423.**
 
@@ -7165,6 +7788,11 @@ Art. 480–524. (pominięte)
 
 **Art. 466.** Zobowiązania spółki wodnej będącej w likwidacji pokrywa się w następującej kolejności:
 
+- **1)** zobowiązania ze stosunku pracy;
+- **2)** zobowiązania w zakresie danin publicznych;
+- **3)** koszty prowadzenia likwidacji;
+- **4)** inne zobowiązania.
+
 **Art. 467.** Starosta po otrzymaniu uchwały walnego zgromadzenia spółki wodnej w likwidacji o zatwierdzeniu ostatecznych rachunków i sprawozdań likwidatora występuje z wnioskiem o wykreślenie spółki wodnej z systemu informacyjnego gospodarki wodnej.
 
 ### DZIAŁ XI Odpowiedzialność odszkodowawcza
@@ -7328,7 +7956,49 @@ Art. 480–524. (pominięte)
 
 **Art. 477.** Kto wbrew:
 
+- **1)** przepisowi art. 42 ust. 1 nie wykonuje badania jakości wody w miejscu okazjonalnie wykorzystywanym do kąpieli,
+- **2)** przepisowi art. 42 ust. 3 nie przekazuje właściwemu państwowemu powiatowemu lub państwowemu granicznemu inspektorowi sanitarnemu wyników badań jakości wody w miejscu okazjonalnie wykorzystywanym do kąpieli,
+- **3)** przepisowi art. 45 ust. 1 nie oznakowuje kąpieliska lub miejsca okazjonalnie wykorzystywanego do kąpieli,
+- **4)** przepisowi art. 101 ust. 1 nie prowadzi pomiarów ilości pobranej wody lub ilości i jakości ścieków,
+- **5)** przepisowi art. 101 ust. 3 nie prowadzi pomiarów ilości pobieranej wody,
+- **6)** przepisowi art. 188 ust. 1 nie utrzymuje urządzeń wodnych,
+- **7)** przepisowi art. 192 ust. 1 pkt 1 niszczy lub uszkadza urządzenia wodne,
+- **8)** przepisowi art. 192 ust. 1 pkt 2 utrudnia przepływ wody w związku z wykonywaniem lub utrzymywaniem urządzeń wodnych,
+- **9)** przepisowi art. 208 uniemożliwia wejście na grunt,
+- **10)** przepisowi art. 233 ust. 1 uniemożliwia dostęp do wód na potrzeby wykonywania robót związanych z utrzymywaniem wód lub dla ustawiania znaków żeglugowych lub hydrologiczno-meteorologicznych urządzeń pomiarowych,
+- **11)** przepisowi art. 233 ust. 2 nie zapewnia dostępu do wody w sposób umożliwiający powszechne korzystanie z wód,
+- **12)** przepisowi art. 304 ust. 1 nie przekazuje wyników prowadzonych pomiarów ilości pobieranych wód podziemnych i wód powierzchniowych lub ilości i jakości ścieków wprowadzanych do wód lub do ziemi lub nieterminowo przekazuje te wyniki,
+- **13)** przepisowi art. 344 ust. 4 nie prowadzi kontroli wewnętrznej ‒ podlega karze grzywny, przy czym grzywna za wykroczenia, o których mowa w pkt 4–8 i 12, wynosi od 1000 zł do 7500 zł.
+
 **Art. 478.** Kto:
+
+- **1)** wbrew przepisowi art. 234 ust. 1 zmienia kierunek i natężenie odpływu znajdujących się na jego gruncie wód opadowych lub roztopowych lub kierunek odpływu wód ze źródeł, lub odprowadza wody, lub wprowadza ścieki na grunty sąsiednie,
+- **2)** wbrew przepisowi art. 232 ust. 1 grodzi nieruchomości przyległe do publicznych śródlądowych wód powierzchniowych lub do brzegu wód morskich lub morza terytorialnego, w odległości mniejszej niż 1,5 m od linii brzegu, lub zakazuje lub uniemożliwia przechodzenie przez ten obszar,
+- **3)** wbrew przepisowi art. 331 ust. 2 nie przekazuje danych wchodzących w zakres informacji gromadzonych w systemie informacyjnym gospodarowania wodami,
+- **4)** wbrew przepisowi art. 36 ust. 7, będąc właścicielem gruntu, któremu przysługuje prawo do zwykłego korzystania z wód, o którym mowa w art. 33, dokonującym poboru wód lub wprowadzania ścieków do wód lub do ziemi, o którym mowa w art. 36 ust. 6, nie zapewnia dostępu do nieruchomości w zakresie niezbędnym do wyposażenia w przyrządy pomiarowe,
+- **5)** wbrew przepisom art. 75 wprowadza ścieki do wód lub do ziemi, 5a) wbrew przepisom art. 75a wprowadza wody opadowe lub roztopowe, ujęte w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych:
+    - **a)** bezpośrednio do wód podziemnych,
+    - **b)** do urządzeń wodnych, o ile wody te zawierają substancje szczególnie szkodliwe dla środowiska wodnego określone w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1, jeżeli byłoby to niezgodne z warunkami określonymi w przepisach wydanych na podstawie art. 99 ust. 1 pkt 4,
+
+- **6)** wbrew przepisom art. 77 ust. 1:
+    - **a)** wprowadza do wód odpady lub ciekłe odchody zwierzęce,
+    - **b)** spławia do wód śnieg wywożony z terenów zanieczyszczonych, w szczególności z centrów miast, terenów przemysłowych, terenów składowych, baz transportowych, dróg o dużym natężeniu ruchu wraz z parkingami, lub go składuje na terenach położonych między wałem przeciwpowodziowym a linią brzegu wody lub w odległości mniejszej niż 50 m od linii brzegu wody,
+    - **c)** na obszarach szczególnego zagrożenia powodzią gromadzi ścieki, nawozy naturalne, środki chemiczne lub inne substancje lub materiały, które mogą zanieczyścić wody, prowadzi odzysk lub unieszkodliwianie odpadów, w tym w szczególności składuje odpady, lub lokalizuje nowe cmentarze,
+    - **d)** myje pojazdy w wodach powierzchniowych lub nad brzegami tych wód,
+    - **e)** pobiera z wód powierzchniowych wodę bezpośrednio do opryskiwaczy rolniczych oraz myje opryskiwacze rolnicze i sprzęt do aplikacji nawozów, oraz wylewa wodę z ich mycia w odległości mniejszej niż 25 m od brzegu zbiorników wodnych, jezior, cieków naturalnych, rowów, kanałów, ujęć wody, jeżeli nie ustanowiono strefy ochronnej na podstawie art. 135 ust. 1,
+    - **f)** używa farb produkowanych na bazie związków organiczno-cynowych (TBT) do konserwacji technicznych konstrukcji podwodnych,
+    - **g)** porusza się pojazdami w wodach powierzchniowych lub po gruntach pokrytych wodami, 6a) wbrew przepisowi art. 175a ust. 1 na obszarze nieruchomości, które zostały nabyte przez Wody Polskie na podstawie art. 258a ust. 1 i art. 17–21 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw, buduje, rozbudowuje lub odbudowuje obiekty budowlane lub wykonuje inne obiekty lub urządzenia,
+
+- **7)** wbrew przepisom art. 83 nie zapewnia ochrony wód przed zanieczyszczeniem,
+- **8)** wbrew przepisowi art. 177, będąc właścicielem lub zarządcą wału przeciwpowodziowego, nie wprowadza czasowego zakazu poruszania się po wałach przeciwpowodziowych,
+- **9)** wbrew przepisowi art. 79 rozcieńcza ścieki w celu uzyskania ich stanu, składu lub minimalnego procentu redukcji substancji zanieczyszczających zgodnego z przepisami wydanymi na podstawie art. 99 ust. 1 pkt 2,
+- **10)** wbrew przepisowi art. 84 ust. 4 rolniczo wykorzystuje ścieki,
+- **11)** wbrew przepisowi art. 83 ust. 5 nie usuwa ścieków ze statku do urządzenia odbiorczego na lądzie,
+- **12)** wbrew przepisowi art. 125 ust. 1 lub art. 129 ust. 1 nie oznacza granic terenu ochrony pośredniej lub ochrony bezpośredniej,
+- **13)** nie stosuje się do zakazów, nakazów lub ograniczeń obowiązujących w strefie ochronnej, na obszarze ochronnym lub w strefie ochronnej urządzeń pomiarowych służb państwowych,
+- **14)** wbrew przepisom art. 125 ust. 2 lub art. 129 ust. 3 niszczy, uszkadza lub przemieszcza tablice zawierające informacje o ustanowieniu strefy ochronnej lub stałe znaki stojące lub pływające, lub tablice zawierające informacje o ustanowieniu strefy ochronnej i zakazie wstępu osób nieupoważnionych,
+- **15)** wbrew przepisowi art. 382 ust. 2 pkt 1 bez upoważnienia przemieszcza urządzenia pomiarowe służb państwowych,
+- **16)** wbrew przepisowi art. 403 ust. 1 pkt 2 nie wykonuje określonego w pozwoleniu wodnoprawnym obowiązku wykonania urządzeń zapobiegających szkodom lub zmniejszających negatywne skutki wykonywania tego pozwolenia ‒ podlega karze grzywny, przy czym grzywna za wykroczenia, o których mowa w pkt 2, 6, 7, 9, 10 i 12‒16, wynosi od 1000 zł do 7500 zł.
 
 **Art. 478a.** Kto utrudnia lub udaremnia przeprowadzenie kontroli gospodarowania wodami albo wykrywanie i zwalczanie przestępstw lub wykroczeń przez Inspekcję Wodną, podlega karze ograniczenia wolności albo grzywny.
 
@@ -7796,6 +8466,11 @@ Art. 480–524. (pominięte)
 
 **Art. 552a.** W przypadku gdy pozwolenie wodnoprawne albo pozwolenie zintegrowane nie określa zakresu korzystania z wód w m /s, ustalenia wysokości opłaty stałej za usługi wodne, o których mowa w art. 271 ust. 2–5, dokonuje się z uwzględnieniem wyrażonych w m na godzinę maksymalnych ilości możliwych do:
 
+- **1)** pobrania wód podziemnych albo powierzchniowych,
+- **2)** odprowadzania do wód – wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast,
+- **3)** odprowadzania do wód – wód pochodzących z odwodnienia gruntów w granicach administracyjnych miast,
+- **4)** wprowadzania ścieków do wód lub do ziemi – określonych w pozwoleniach wodnoprawnych albo pozwoleniach zintegrowanych i przeliczonych na m /s.
+
 **Art. 553.**
 
 1. Organizator badań biegłości, o których mowa w art. 348 ust. 6 niniejszej ustawy oraz w art. 12a ust. 5 ustawy zmienianej w art. 494 , w okresie 2 lat od dnia wejścia w życie ustawy powinien uzyskać potwierdzenie przez właściwą krajową lub międzynarodową jednostkę do spraw akredytacji, kompetencji spełnienia wymagań zawartych w aktualnym wydaniu normy PN-EN ISO/IEC 17043 i postępować zgodnie z wymaganiami zawartymi w aktualnym wydaniu tej normy.
@@ -7966,7 +8641,19 @@ Art. 480–524. (pominięte)
 
 **Art. 572.** Minister właściwy do spraw gospodarki wodnej, po upływie 5 lat od dnia wejścia w życie ustawy, przedstawi Sejmowi informację o skutkach jej stosowania, obejmującą w szczególności informacje dotyczące:
 
+- **1)** dostępności i jakości wody dla ludności i gospodarki;
+- **2)** ochrony przed powodzią oraz suszą;
+- **3)** kosztów ponoszonych przez poszczególne sektory gospodarki z tytułu poboru wody;
+- **4)** kosztów ponoszonych przez prowadzących działalność gospodarczą z tytułu poboru wody.
+
 **Art. 573.** Traci moc ustawa z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2017 r. poz. 1121).
 
 **Art. 574.** Ustawa wchodzi w życie z dniem 1 stycznia 2018 r., z wyjątkiem:
+
+- **1)** art. 102–112, art. 494, art. 502, art. 506, art. 515, art. 525 ust. 3–6 oraz 8 i 9, art. 539 ust. 3–5 i 7, art. 540 ust. 1–4, 6 i 7, art. 541, art. 542, art. 544 ust. 1, art. 554 oraz art. 570, które wchodzą w życie z dniem następującym po dniu ogłoszenia ;
+- **2)** art. 532 ust. 5 i 6, które wchodzą w życie z dniem 31 grudnia 2017 r.;
+- **3)** art. 524, który wchodzi w życie z dniem 1 stycznia 2019 r.;
+- **4)** (uchylony)
+- **5)** art. 36 ust. 1–3 oraz 6 i 7 oraz art. 303 ust. 1 i 4, które wchodzą w życie z dniem 1 stycznia 2027 r.
+
 

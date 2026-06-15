@@ -8,7 +8,7 @@ pos: 2490
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochotniczych strażach pożarnych Doceniając szczególną postawę obywatelską ochotniczego pożarnictwa „Bogu na chwałę, ludziom na pożytek” na przestrzeni dziejów naszej państwowości, kierując się konstytucyjnym prawem do dobrowolnego zrzeszania się, stanowi się, co następuje:
@@ -45,7 +45,27 @@ Art. 37–47. (pominięte)
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** działaniach ratowniczych – należy przez to rozumieć działania, o których mowa w art. 2 pkt 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2025 r. poz. 188);
+- **2)** akcjach ratowniczych – należy przez to rozumieć akcje, o których mowa w art. 7 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 1443, 1473, 1717, 1871 i 1907).
+
 **Art. 3.** Do zadań ochotniczych straży pożarnych należy w szczególności podejmowanie działań w celu ochrony życia, zdrowia, mienia lub środowiska przez:
+
+- **1)** prowadzenie działań ratowniczych, udział w działaniach ratowniczych oraz akcjach ratowniczych, a także udział w działaniach prowadzonych przez inne służby, inspekcje i straże;
+- **2)** udział w działaniach ratowniczych i akcjach ratowniczych poza granicami kraju na podstawie umów międzynarodowych;
+- **3)** udział w alarmowaniu i ostrzeganiu ludności o zagrożeniach;
+- **4)** udział w ochronie ludności i obronie cywilnej;
+- **4a)** zapobieganie powstawaniu i rozprzestrzenianiu się pożaru, klęski żywiołowej lub innego miejscowego zagrożenia;
+- **5)** wykonywanie pierwszej pomocy oraz kwalifikowanej pierwszej pomocy;
+- **6)** organizowanie ćwiczeń oraz udział w szkoleniach, ćwiczeniach i zawodach sportowo-pożarniczych organizowanych przez Państwową Straż Pożarną, gminę lub inne uprawnione podmioty;
+- **7)** zabezpieczanie obszaru chronionego właściwej jednostki ratowniczo-gaśniczej Państwowej Straży Pożarnej, określonego w powiatowym (miejskim) planie ratowniczym;
+- **8)** propagowanie zasad i dobrych praktyk w zakresie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów;
+- **9)** organizowanie przedsięwzięć służących krzewieniu sportu i kultury fizycznej;
+- **10)** organizowanie przedsięwzięć oświatowo-kulturalnych propagujących wiedzę i umiejętności w zakresie ochrony przeciwpożarowej;
+- **11)** upowszechnianie i wspieranie współdziałania między lokalnymi partnerami społecznymi i gospodarczymi z zakresu ochrony przeciwpożarowej;
+- **12)** propagowanie zasad udzielania pierwszej pomocy;
+- **13)** wspieranie gminy w realizacji pomocy na rzecz społeczności lokalnej;
+- **14)** integrowanie społeczności lokalnej;
+- **15)** udział we współpracy międzynarodowej gminy.
 
 **Art. 4.**
 
@@ -70,6 +90,12 @@ Art. 37–47. (pominięte)
 #### Rozdział 2 Zasady przygotowania strażaków ratowników ochotniczych straży pożarnych do udziału w działaniach ratowniczych
 
 **Art. 8.** Do udziału w działaniach ratowniczych i akcjach ratowniczych jest uprawniony strażak OSP, który:
+
+- **1)** ukończył 18 lat, a nie ukończył 65 lat,
+- **2)** posiada aktualne ubezpieczenie, o którym mowa w art. 10 ust. 1 pkt 2,
+- **3)** posiada aktualne orzeczenie lekarskie stwierdzające brak przeciwwskazań do udziału w działaniach ratowniczych,
+- **4)** odbył szkolenie z zakresu bezpieczeństwa i higieny pracy,
+- **5)** ukończył z wynikiem pozytywnym szkolenie podstawowe przygotowujące do bezpośredniego udziału w działaniach ratowniczych – zwany dalej „strażakiem ratownikiem OSP”.
 
 **Art. 9.**
 

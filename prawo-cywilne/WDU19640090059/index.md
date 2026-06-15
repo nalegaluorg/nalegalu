@@ -8,7 +8,7 @@ pos: 59
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Kodeks rodzinny i opiekuńczy Tytuł I Małżeństwo
@@ -230,6 +230,17 @@ source: "isap-pdf"
 **Art. 32.** (uchylony)
 
 **Art. 33.** Do majątku osobistego każdego z małżonków należą:
+
+- **1)** przedmioty majątkowe nabyte przed powstaniem wspólności ustawowej;
+- **2)** przedmioty majątkowe nabyte przez dziedziczenie, zapis lub darowiznę, chyba że spadkodawca lub darczyńca inaczej postanowił;
+- **3)** prawa majątkowe wynikające ze wspólności łącznej podlegającej odrębnym przepisom;
+- **4)** przedmioty majątkowe służące wyłącznie do zaspokajania osobistych potrzeb jednego z małżonków;
+- **5)** prawa niezbywalne, które mogą przysługiwać tylko jednej osobie;
+- **6)** przedmioty uzyskane z tytułu odszkodowania za uszkodzenie ciała lub wywołanie rozstroju zdrowia albo z tytułu zadośćuczynienia za doznaną krzywdę; nie dotyczy to jednak renty należnej poszkodowanemu małżonkowi z powodu całkowitej lub częściowej utraty zdolności do pracy zarobkowej albo z powodu zwiększenia się jego potrzeb lub zmniejszenia widoków powodzenia na przyszłość;
+- **7)** wierzytelności z tytułu wynagrodzenia za pracę lub z tytułu innej działalności zarobkowej jednego z małżonków;
+- **8)** przedmioty majątkowe uzyskane z tytułu nagrody za osobiste osiągnięcia jednego z małżonków;
+- **9)** prawa autorskie i prawa pokrewne, prawa własności przemysłowej oraz inne prawa twórcy;
+- **10)** przedmioty majątkowe nabyte w zamian za składniki majątku osobistego, chyba że przepis szczególny stanowi inaczej.
 
 **Art. 34.** Przedmioty zwykłego urządzenia domowego służące do użytku obojga małżonków są objęte wspólnością ustawową także w wypadku, gdy zostały nabyte przez dziedziczenie, zapis lub darowiznę, chyba że spadkodawca lub darczyńca inaczej postanowił.
 
@@ -774,7 +785,9 @@ source: "isap-pdf"
 
 § 1. Jeżeli jedno z rodziców nie żyje albo nie ma pełnej zdolności do czynności prawnych, władza rodzicielska przysługuje drugiemu z rodziców. To samo dotyczy wypadku, gdy jedno z rodziców zostało pozbawione władzy rodzicielskiej albo gdy jego władza rodzicielska uległa zawieszeniu.
 
-§ 2. (uchylony) § 3. Jeżeli żadnemu z rodziców nie przysługuje władza rodzicielska albo jeżeli rodzice są nieznani, ustanawia się dla dziecka opiekę.
+§ 2. (uchylony)
+
+§ 3. Jeżeli żadnemu z rodziców nie przysługuje władza rodzicielska albo jeżeli rodzice są nieznani, ustanawia się dla dziecka opiekę.
 
 **Art. 95.**
 

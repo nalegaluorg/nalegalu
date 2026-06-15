@@ -29,7 +29,7 @@ Pozycja 14 o g .
 l c r .
 w w v o g .
 l c r .
-w w w Załączniki do rozporządzenia Ministra Zdrowia z dnia …….…………………….. p (poz…..) Załącznik nr 1 v I. Choroby ortopedyczno-urazowe (ortopedia) Szczegółowe wskazania: o
+w w Załączniki do rozporządzenia Ministra Zdrowia z dnia …….…………………….. p (poz…..) Załącznik nr 1 v I. Choroby ortopedyczno-urazowe (ortopedia) Szczegółowe wskazania: o
 1) szpital:
 a) S32, T92, T93 – stany po urazach kończyn, kręgosłupa lub miednicy ze znacznym ograniczeniem sprawności lub znacznymi zanikami mięśniowymi, po zakończeniu leczenia szpitalnego, w okresie do 12 miesięcy od wystąpienia g urazu,
 b) T02 – stany po licznych złamaniach kości z ograniczeniem sprawności, w okresie do 12 miesięcy od wystąpienia urazu,

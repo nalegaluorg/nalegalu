@@ -8,7 +8,7 @@ pos: 2371
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2018
@@ -28,6 +28,9 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002371) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2371/text.pdf) |
 
 **Art. 1.** W roku 2018 środki, o których mowa w:
+
+- **1)** art. 70a ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2017 r. poz. 1189 i 2203), przeznaczone na wsparcie na obszarze województwa doskonalenia zawodowego nauczycieli wyodrębnia się w budżetach wojewodów w łącznej wysokości do 5000 średnich wynagrodzeń nauczyciela stażysty ustalonego w oparciu o kwotę bazową, o której mowa w art. 30 ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, obowiązującą w dniu 1 stycznia 2018 r.;
+- **2)** art. 70a ust. 4 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, przeznaczone na realizację ogólnokrajowych zadań w zakresie doskonalenia zawodowego nauczycieli wyodrębnia się w budżecie ministra właściwego do spraw oświaty i wychowania w łącznej wysokości do 5000 średnich wynagrodzeń nauczyciela stażysty ustalonego w oparciu o kwotę bazową, o której mowa w art. 30 ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, obowiązującą w dniu 1 stycznia 2018 r.
 
 **Art. 2.** W roku 2018 środki wyodrębniane w budżetach wojewodów i w budżecie ministra właściwego do spraw oświaty i wychowania na specjalny fundusz na nagrody dla nauczycieli za ich osiągnięcia dydaktyczno-wychowawcze, o którym mowa w art. 49 ust. 1 pkt 2 i 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustala się w oparciu o średnie wynagrodzenie nauczyciela stażysty wyliczone na podstawie kwoty bazowej, o której mowa w art. 30 ust. 3 ustawy – Karta Nauczyciela, obowiązującej w dniu 1 stycznia 2018 r.
 
@@ -176,6 +179,8 @@ source: "isap-pdf"
 
 **Art. 23.** W roku 2018 nie stosuje się przepisu art. 37a ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2017 r. poz. 285, 624 i
 
+- **2290)** .
+
 **Art. 24.** Przepisu art. 122 ust. 1 pkt 2 lit. c ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się do ustawy budżetowej na rok 2018 w odniesieniu do wydatków w ramach Wspólnej Polityki Rolnej.
 
 **Art. 25.** W roku 2018 do rezerwy utworzonej na podstawie art. 140 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się ograniczeń wskazanych w tym przepisie.
@@ -236,25 +241,125 @@ source: "isap-pdf"
 
 **Art. 31.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2017 r. poz. 125 i 767) wprowadza się następujące zmiany:
 
+- **1)** w art. 15 po ust. 4i dodaje się ust. 4j w brzmieniu: „4j. W roku 2018 środki przeznaczone na sfinansowanie stażu podyplomowego, o którym mowa w ust. 4, wraz z kosztem obsługi określonym przepisami, przekazuje marszałkowi województwa minister właściwy do spraw zdrowia ze środków Funduszu Pracy.”;
+- **2)** w art. 16j po ust. 1f dodaje się ust. 1g w brzmieniu: „1g. W roku 2018 rezydentura jest finansowana przez ministra właściwego do spraw zdrowia ze środków Funduszu Pracy.”;
+- **3)** w art. 16k po ust. 1f dodaje się ust. 1g w brzmieniu: „1g. W roku 2018 szkolenie specjalizacyjne jest dofinansowywane przez ministra właściwego do spraw zdrowia ze środków Funduszu Pracy.”.
+
 **Art. 32.** W ustawie z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2017 r. poz. 1222) po art. 29f dodaje się art. 29g w brzmieniu: „Art. 29g. Przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale 2016 r. stanowi w 2018 r. podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego, o którym mowa w art. 8.”.
 
 **Art. 33.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, 1292, 1321, 1428 i 1543) wprowadza się następujące zmiany:
 
+- **1)** w art. 108:
+    - **a)** po ust. 1fc dodaje się ust. 1fd w brzmieniu: „1fd. Ze środków Funduszu Pracy w 2018 r. są finansowane:
+
+- **1)** staże podyplomowe wraz z kosztem obsługi określonym w przepisach o zawodach lekarza i lekarza dentysty oraz szkolenia specjalizacyjne lekarzy i lekarzy dentystów, o których mowa w przepisach o zawodach lekarza i lekarza dentysty;
+- **2)** specjalizacje pielęgniarek i położnych, o których mowa w przepisach o zawodach pielęgniarki i położnej.”,
+    - **b)** ust. 1j otrzymuje brzmienie: „1j. Ze środków Funduszu Pracy w latach 2016–2018 są finansowane koszty, o których mowa w art. 150f i art. 150g.”;
+
+- **2)** po art. 108 dodaje się art. 108a w brzmieniu: „Art. 108a. 1. W celu wsparcia samorządów powiatów w uzyskiwaniu lepszej efektywności działań na rzecz aktywizacji bezrobotnych minister właściwy do spraw pracy przekazuje w roku 2018 samorządom powiatów środki Funduszu Pracy na finansowanie kosztów określonych w ust. 2, 3 i 7.
+
+2. W roku 2018 na dofinansowanie kosztów wynagrodzeń zasadniczych, o których mowa w przepisach o pracownikach samorządowych, oraz składek na ubezpieczenia społeczne pracowników powiatowego urzędu pracy, w szczególności pełniących funkcje doradców klienta, przeznacza się środki w wysokości 6% kwoty środków ustalonej w planie finansowym Funduszu Pracy na rok 2018 na finansowanie programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej, pomniejszonej o kwotę środków stanowiącą rezerwę dysponenta Funduszu Pracy.
+
+3. W roku 2018 na finansowanie kosztów nagród oraz składek na ubezpieczenia społeczne pracowników powiatowego urzędu pracy, w szczególności pełniących funkcje doradców klienta oraz zajmujących stanowiska kierownicze, przeznacza się środki w wysokości 2% kwoty środków ustalonej w planie finansowym Funduszu Pracy na rok 2018 na finansowanie programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej, pomniejszonej o kwotę środków stanowiącą rezerwę dysponenta Funduszu Pracy.
+
+4. Środki, o których mowa w ust. 2 i 3, są przekazywane w wysokości proporcjonalnej do udziału powiatowego urzędu pracy w wydatkach ogółem w skali kraju poniesionych w roku 2016 z Funduszu Pracy na realizację programów na rzecz promocji zatrudnienia wykazanych w informacji uzyskanej na podstawie badań statystycznych prowadzonych wspólnie przez ministra właściwego do spraw pracy i Prezesa Głównego Urzędu Statystycznego zgodnie z przepisami o statystyce publicznej.
+
+5. Kwota środków, o której mowa w ust. 2, jest przekazywana samorządom powiatów w okresach miesięcznych, w wysokości 1/12 kwoty ustalonej na rok
+
+2018.
+
+6. Kwota środków, o której mowa w ust. 3, jest przekazywana na wniosek starosty po spełnieniu przez powiatowy urząd pracy łącznie następujących warunków:
+
+- **1)** osiągnięciu za rok 2017 wskaźnika efektywności zatrudnieniowej podstawowych form aktywizacji zawodowej, o którym mowa w art. 4 ust. 1 pkt 2 lit. b, na poziomie wyższym niż średnia wartość wskaźnika efektywności zatrudnieniowej podstawowych form aktywizacji zawodowej uzyskana we wszystkich powiatowych urzędach pracy;
+- **2)** osiągnięciu za rok 2017 wskaźnika efektywności kosztowej podstawowych form aktywizacji zawodowej, o którym mowa w art. 4 ust. 1 pkt 2 lit. c, na poziomie niższym niż średnia wartość wskaźnika efektywności kosztowej podstawowych form aktywizacji zawodowej uzyskana we wszystkich powiatowych urzędach pracy.
+
+7. Kwota środków, o której mowa w ust. 3, nieprzekazana samorządom powiatów w związku z niespełnieniem warunków, o których mowa w ust. 6, pozostaje w dyspozycji ministra właściwego do spraw pracy z przeznaczeniem dla samorządów powiatów na finansowanie kosztów nagród specjalnych oraz składek na ubezpieczenia społeczne pracowników powiatowych urzędów pracy, które uzyskują najlepsze wskaźniki efektywności, o których mowa w art. 4 ust. 1 pkt 2, oraz na finansowanie zadań określonych w ustawie.
+
+8. Środki, o których mowa w ust. 2, 3 i 7, niewykorzystane do dnia 31 grudnia 2018 r., podlegają zwrotowi na rachunek dysponenta Funduszu Pracy do dnia 31 stycznia 2019 r.
+
+9. Przekazane samorządom powiatów kwoty środków, o których mowa w ust. 2, 3 i 7, stanowią dochód powiatu, o którym mowa w art. 8 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2017 r. poz. 1453, 2203 i 2260).”;
+
+- **3)** w art. 109 po ust. 2n dodaje się ust. 2o i 2p w brzmieniu: „2o. W roku 2018 w kwocie środków Funduszu Pracy określonej w planie finansowym Funduszu Pracy na rok 2018, jaka może być wydatkowana na realizację programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej, minister właściwy do spraw pracy ustala na finansowanie zadań realizowanych w województwie kwoty środków (limity) Funduszu Pracy w wysokości odpowiadającej sumie kwot środków przeznaczonych na realizację projektów współfinansowanych z Europejskiego Funduszu Społecznego i kwot środków przeznaczonych na realizację programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej, ustalonych według algorytmu, o którym mowa w ust. 2, z zastrzeżeniem ust. 2p.
+
+2p. Do ustalenia według algorytmu kwot środków (limitów) Funduszu Pracy przeznaczonych na realizację w województwie programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej, o których mowa w ust. 2o, przyjmuje się kwotę środków w wysokości odpowiadającej różnicy między kwotą środków określoną w planie finansowym Funduszu Pracy na rok 2018, jaka może być wydatkowana na realizację programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej a kwotą środków w wysokości odpowiadającej 10% rezerwie, o której mowa w przepisach wydanych na podstawie ust. 11, będącej w dyspozycji ministra właściwego do spraw pracy oraz kwotą środków przeznaczonych na realizację projektów współfinansowanych z Europejskiego Funduszu Społecznego.”;
+
+- **4)** po art. 150g dodaje się art. 150h w brzmieniu: „Art. 150h. 1. W roku 2018 nie stosuje się przepisu art. 150g ust. 4, 13 i 14.
+
+2. Starosta, do dnia 31 stycznia 2018 r., informuje ministra właściwego do spraw pracy o kwocie środków Funduszu Pracy niezaangażowanych w umowy, o których mowa w art. 150f, zawarte do dnia 31 grudnia 2017 r.
+
+3. Starosta, do dnia 31 października 2018 r., informuje ministra właściwego do spraw pracy o kwocie środków zaangażowanych w umowy realizowane w roku 2018 i niewykorzystanych na finansowanie zadania, o którym mowa w art. 150f.
+
+4. Minister właściwy do spraw pracy z dokonanych zmniejszeń limitów środków na podstawie informacji, o których mowa w ust. 2 i 3, zasila rezerwę określoną w przepisach wydanych na podstawie art. 109 ust. 11, dokonując stosownych zmian w planie finansowym Funduszu Pracy.”.
+
 **Art. 34.** W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2017 r. poz. 2136) wprowadza się następujące zmiany:
 
+- **1)** w art. 78:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Podmioty prowadzące działalność w zakresie regularnego przewozu osób w krajowym transporcie drogowym, kolejowym, innym szynowym, linowym, linowo-terenowym, morskim i w żegludze śródlądowej mogą ją nadal wykonywać na podstawie posiadanych uprawnień, jednak nie dłużej niż do dnia 31 grudnia 2018 r.”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, których termin ważności upływa w dniu 31 grudnia 2017 r., wydane na podstawie przepisów dotychczasowych, zachowują ważność do dnia 31 grudnia 2018 r.”;
+
+- **2)** użyte w art. 79 w ust. 1 i 2, w art. 80, w art. 82 w ust. 2 oraz w art. 87 w ust. 1 i 3 wyrazy „31 grudnia 2017 r.” zastępuje się wyrazami „31 grudnia 2018 r.”;
+- **3)** użyte w art. 81, w art. 85 w ust. 2 oraz w art. 90 wyrazy „1 stycznia 2018 r.” zastępuje się wyrazami „1 stycznia 2019 r.”.
+
 **Art. 34a.** W ustawie z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2017 r. poz. 1832 i 2161 oraz z 2018 r. poz. 1544 i 1669) w art. 36 w ust. 1:
+
+- **1)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Maksymalny limit wydatków z budżetu państwa na lata 2017–2028 na realizację ustawy przez gminy, wojewodów, ministra właściwego do spraw rodziny i ministra właściwego do spraw transportu wynosi 756,91 mln zł, z tego:”;
+- **2)** w pkt 2:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „w 2018 r. – 34,54 mln zł, w tym:”,
+    - **b)** lit. c otrzymuje brzmienie: „c) 21,00 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,”.
 
 **Art. 35.** W ustawie z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. poz. 1240) w art. 88 w ust. 1 w pkt 2 lit. c otrzymuje brzmienie: „c) 2018 – 3 200,00 tys. zł,”.
 
 **Art. 36.** W ustawie z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2017 r. poz. 2237) w art. 29:
 
+- **1)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) 2018 – 40,7 mln zł, w tym 0,7 mln zł w budżetach wojewodów;”;
+- **2)** w ust. 2 pkt 3 otrzymuje brzmienie: „3) 2018 – 100 mln zł;”.
+
 **Art. 37.** W ustawie z dnia 22 czerwca 2016 r. o zmianie ustawy – Prawo łowieckie (Dz. U. poz. 1082 i 1984) wprowadza się następujące zmiany:
+
+- **1)** art. 2 otrzymuje brzmienie: „Art. 2. Do dnia 15 czerwca 2019 r. środki Funduszu Odszkodowawczego, o którym mowa w art. 50a ustawy zmienianej w art. 1, na wypłatę odszkodowań za szkody, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, wyrządzone na obszarach obwodów łowieckich, z wyjątkiem szkód wyrządzonych przez zwierzęta łowne, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, objęte całoroczną ochroną, oraz na pokrycie kosztów związanych z realizacją zadań w zakresie tych szkód będą pochodziły z dotacji z budżetu państwa.”;
+- **2)** art. 5 otrzymuje brzmienie: „Art. 5. Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 pkt 2 w zakresie art. 46b ust. 4 w zakresie dotyczącym wpisu na listę rzeczoznawców prowadzoną przez izbę rolniczą oraz art. 1 pkt 2 w zakresie art. 46b ust. 5–9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”.
 
 **Art. 38.** W ustawie z dnia 15 września 2017 r. o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. poz. 1909) w art. 46 ust. 1 otrzymuje brzmienie: „1. Maksymalny limit wydatków budżetu państwa będący skutkiem finansowania ustawy na lata 2017–2026 wyniesie 65 660 000 zł, z tym że w roku:
 
+- **1)** 2017 – 1 580 000 zł;
+- **2)** 2018 – 33 600 000 zł;
+- **3)** 2019 – 3 700 000 zł;
+- **4)** 2020 – 3 820 000 zł;
+- **5)** 2021 – 3 850 000 zł;
+- **6)** 2022 – 3 760 000 zł;
+- **7)** 2023 – 3 780 000 zł;
+- **8)** 2024 – 3 800 000 zł;
+- **9)** 2025 – 3 930 000 zł;
+- **10)** 2026 – 3 840 000 zł.”.
+
 **Art. 38a.** W ustawie z dnia 5 lipca 2018 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1532) wprowadza się następujące zmiany:
 
+- **1)** art. 11 otrzymuje brzmienie: „Art. 11. 1. W roku 2019 środki finansowe na finansowanie zadań, o których mowa w art. 97 ust. 3 pkt 2a, 3 i 3b ustawy zmienianej w art. 1, wynoszą 320 232 tys. zł.
+
+2. Minister właściwy do spraw zdrowia, w terminie do dnia 31 grudnia 2018 r., może przekazać środki w wysokości, o której mowa w ust. 1, do Narodowego Funduszu Zdrowia w formie dotacji celowej.
+
+3. Kwotę dotacji, o której mowa w ust. 2, Narodowy Fundusz Zdrowia wykorzysta do dnia 31 grudnia 2019 r.
+
+4. Odsetki od lokat przekazanych środków stanowią przychód Narodowego Funduszu Zdrowia.”;
+
+- **2)** w art. 12:
+    - **a)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) art. 11, który wchodzi w życie z dniem 24 grudnia 2018 r.;”,
+    - **b)** pkt 2 otrzymuje brzmienie: „2) art. 1 pkt 1, pkt 3 lit. a i b w zakresie art. 97 ust. 8a zdanie drugie i pkt 4 w zakresie art. 116 ust. 1 pkt 5, które wchodzą w życie z dniem 1 stycznia 2019 r.;”.
+
 **Art. 38b.** W ustawie z dnia 23 października 2018 r. o Funduszu Dróg Samorządowych (Dz. U. poz. 2161) wprowadza się następujące zmiany:
+
+- **1)** w art. 50 dodaje się ust. 3 w brzmieniu: „3. Środki Funduszu Dróg Samorządowych, o których mowa w art. 5 ust. 1 pkt 3, przekazane w 2018 r. mogą być wykorzystane do dnia 31 grudnia 2019 r.”;
+- **2)** w art. 51 ust. 1 otrzymuje brzmienie: „1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na dofinansowanie Funduszu Dróg Samorządowych wynosi w roku:
+- **1)** 2018 – 1,1 mld zł;
+- **2)** 2019 – 0,5 mld zł;
+- **3)** 2020 – 1,6 mld zł;
+- **4)** 2021 – 1,6 mld zł;
+- **5)** 2022 – 1,6 mld zł;
+- **6)** 2023 – 1,6 mld zł;
+- **7)** 2024 – 1,6 mld zł;
+- **8)** 2025 – 1,6 mld zł;
+- **9)** 2026 – 1,6 mld zł;
+- **10)** 2027 – 1,6 mld zł.”.
 
 **Art. 38c.** Środki, o których mowa w art. 29b–29d i art. 29f oraz art. 50 ust. 3 ustawy zmienianej w art. 38b, stanowią wydatki budżetu państwa, które nie wygasają z upływem roku budżetowego. Przepisy art. 41 ust. 1 i 7 i art. 181 ust. 5 i 8 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz przepisy wydane na podstawie art. 41 ust. 2–6 i art. 198 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych stosuje się odpowiednio.
 
