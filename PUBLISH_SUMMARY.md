@@ -1,14 +1,14 @@
 # Publish Summary
 
-Generated: 2026-06-15 18:50 UTC
+Generated: 2026-06-15 20:18 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
 | Published | 18553 |
-| Updated/new | 566 |
-| Unchanged | 12857 |
+| Updated/new | 6 |
+| Unchanged | 13417 |
 | Skipped incomplete orzeczenia | 0 |
 | Skipped regressions | 5130 |
 | Blocked by quality gate | 668 |
@@ -94,40 +94,6 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | Issue | Count |
 |-------|------:|
 | Original PDF candidate for unified act | 4943 |
-
-## Fixed — no longer rejected (29)
-
-| Address |
-|---------|
-| WDU19961520723 |
-| WDU19981170759 |
-| WDU20010040031 |
-| WDU20021080945 |
-| WDU20021351144 |
-| WDU20021521265 |
-| WDU20030060064 |
-| WDU20030520452 |
-| WDU20031371301 |
-| WDU20031921873 |
-| WDU20031931884 |
-| WDU20050940786 |
-| WDU20051411183 |
-| WDU20060520378 |
-| WDU20060660473 |
-| WDU20071230848 |
-| WDU20071360958 |
-| WDU20080470273 |
-| WDU20090690593 |
-| WDU20090950792 |
-| WDU20092141658 |
-| WDU20101480990 |
-| WDU20102471650 |
-| WDU20110060019 |
-| WDU20111090627 |
-| WDU20111681001 |
-| WDU20112301372 |
-| WDU20150001615 |
-| WDU20240000558 |
 
 ## Blocked acts (668)
 
