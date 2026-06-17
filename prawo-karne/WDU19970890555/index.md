@@ -8,7 +8,7 @@ pos: 555
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Kodeks postępowania karnego
@@ -24,447 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1997-06-06 |
 | Data wydania | 1997-08-02 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970890555) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/555/text.pdf) |
-
-§ 2. Oświadczenie składane elektronicznie opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym i wysyła na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3), zwany dalej „adresem do doręczeń elektronicznych”, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.
-§ 3. Oświadczenie złożone elektronicznie włącza się do akt sprawy.>
-Wstępna kontrola oskarżenia
-Art. 589ze. § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie europejskiego nakazu dochodzeniowego, zwanego w niniejszym rozdziale „END”, postanowienie w przedmiocie jego wykonania wydaje prokurator albo sąd rejonowy, w którego okręgu znajduje się lub może zostać przeprowadzony dowód.
-§ 2. Jeżeli dopuszczenie, uzyskanie lub przeprowadzenie dowodu jest zastrzeżone do właściwości sądu albo uzależnione od zarządzenia tego sądu, postanowienie, o którym mowa w § 1, wydaje ten sąd.
-§ 3. Sąd okręgowy jest właściwy do wydania postanowienia w przedmiocie wykonania END dotyczącego czasowego wydania osoby pozbawionej wolności do państwa wydania orzeczenia w celu przeprowadzenia w tym państwie czynności dochodzeniowej. Przed wydaniem postanowienia należy wysłuchać osoby, której dotyczy END.
-§ 4. Sąd okręgowy jest właściwy do wydania postanowienia w przedmiocie wykonania END dotyczącego czasowego wydania osoby pozbawionej wolności do Rzeczypospolitej Polskiej w celu przeprowadzenia czynności dochodzeniowej.
-§ 5. Jeżeli sąd lub prokurator, do którego został skierowany END, nie jest właściwy do nadania mu biegu, przekazuje go właściwemu sądowi lub prokuratorowi i powiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia, zwane w niniejszym rozdziale „organem wydającym END”.
-§ 6. Jeżeli END został wydany przez nieuprawniony organ państwa wydania orzeczenia, zwraca się go bez wykonania, informując ten organ o przyczynie zwrotu.
-§ 7. Na postanowienie o wykonaniu END zażalenie nie przysługuje, chyba że przepis szczególny dotyczący postanowienia o wykonaniu czynności tożsamej z czynnością wskazaną w END stanowi inaczej. W zażaleniu na czynność skarżący może domagać się wyłącznie zbadania zgodności postanowienia o wykonaniu END z prawem polskim i prawidłowości jej przeprowadzenia.
-§ 8. O wniesieniu zażalenia, jak również o treści rozstrzygnięcia zapadłego w wyniku jego rozpoznania należy niezwłocznie powiadomić organ wydający END.
-§ 9. Jeżeli przepis szczególny uzależnia ujawnienie informacji od wystąpienia przez sąd lub prokuratora z żądaniem ich ujawnienia w związku z toczącym się postępowaniem o przestępstwo lub przestępstwo skarbowe, END wraz z prawomocnym postanowieniem sądu lub prokuratora o jego wykonaniu zastępuje takie żądanie.
-§ 10. Postanowienie o wykonaniu END, który dotyczy kontroli i utrwalania treści rozmów telefonicznych oraz utrwalania przy użyciu środków technicznych treści innych rozmów lub przekazów informacji, w tym korespondencji przesyłanej pocztą elektroniczną, zastępuje postanowienie, o którym mowa w art. 237 § 1. Przepisy art.
-237 § 3–7, art. 238 § 1 i 2, art. 239 § 1 i art. 241 stosuje się odpowiednio.
-Art. 589zf. § 1. Jeżeli END dotyczy czasowego wydania do Rzeczypospolitej Polskiej osoby pozbawionej wolności w celu przeprowadzenia czynności dochodzeniowej, przepis art. 589a stosuje się odpowiednio. Sąd lub prokurator zarządza zwolnienie osoby, jeżeli państwo wydania orzeczenia o to wystąpi. Sąd albo prokurator informuje organ wydający END o faktycznym okresie pozbawienia wolności tej osoby w Rzeczypospolitej Polskiej.
-§ 2. Wydana czasowo osoba pozbawiona wolności, o której mowa w § 1, nie może być ścigana ani zatrzymana, ani tymczasowo aresztowana z powodu przestępstwa popełnionego przed przekroczeniem polskiej granicy państwowej, niewskazanego w END. Nie może być także w stosunku do takiej osoby wykonana kara orzeczona za takie przestępstwo.
-§ 3. Zakazów określonych w § 2 nie stosuje się wobec osoby, która mogąc opuścić terytorium Rzeczypospolitej Polskiej, znajduje się na nim po upływie 15 dni od dnia otrzymania informacji sądu lub prokuratora, że jej obecność stała się zbędna dla postępowania karnego, albo powróci na terytorium Rzeczypospolitej Polskiej po upływie tego terminu.
-§ 4. Jeżeli END dotyczy czasowego wydania osoby pozbawionej wolności do państwa wydania orzeczenia w celu przeprowadzenia czynności dochodzeniowej, okres faktycznego pozbawienia wolności tej osoby w tym państwie zalicza się na poczet orzeczonej lub wykonywanej w Rzeczypospolitej Polskiej kary pozbawienia wolności.
-Art. 589zg. § 1. Sąd lub prokurator orzeka w przedmiocie wykonania END niezwłocznie, niepóźniej jednak niż w terminie 30 dni, licząc od dnia jego otrzymania.
-§ 2. Jeżeli termin określony w § 1 nie może być dotrzymany, orzeczenie w przedmiocie wykonania END powinno zostać wydane w terminie kolejnych 30 dni, licząc od dnia upływu tego terminu. O opóźnieniu należy powiadomić organ wydający END, podając przyczynę opóźnienia oraz przewidywany termin wydania orzeczenia w przedmiocie wykonania END.
-Art. 589zh. § 1. Jeżeli dowód, którego dotyczy END, nie został jeszcze przeprowadzony, sąd lub prokurator przeprowadza ten dowód niezwłocznie po wydaniu postanowienia o wykonaniu END, niepóźniej jednak niż w terminie 90 dni, licząc od dnia wydania tego postanowienia. Jeżeli organ wydający END określił termin do przeprowadzenia dowodu, sąd lub prokurator w miarę możliwości uwzględnia ten termin.
-§ 2. Jeżeli termin określony w § 1 nie może być dotrzymany, o opóźnieniu należy powiadomić organ wydający END, podając przyczynę opóźnienia oraz przewidywany termin przeprowadzenia dowodu.
-Art. 589zi. § 1. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu END stosuje się przepisy prawa polskiego. Należy jednak uczynić zadość życzeniu organu wydającego END, aby przy dokonaniu czynności zastosowano szczególny tryb postępowania lub szczególną formę, jeżeli nie jest to sprzeczne z zasadami porządku prawnego Rzeczypospolitej Polskiej.
-§ 2. Jeżeli czynność dochodzeniowa określona w END nie jest przewidziana przez prawo polskie lub byłaby niedopuszczalna w podobnej sprawie krajowej, sąd lub prokurator informuje o tym organ wydający END, wskazując termin do zmiany, uzupełnienia lub cofnięcia END oraz określając możliwą do przeprowadzenia zastępczą czynność dochodzeniową zgodną z celem END. Po upływie terminu sąd lub prokurator postanawia o wykonaniu zastępczej czynności dochodzeniowej. Jeżeli zastępczej czynności nie da się określić, sąd lub prokurator odmawia wykonania END.
-§ 3. Zastępczej czynności dochodzeniowej nie przeprowadza się, jeżeli END dotyczy:
-1) dowodów już znajdujących się w posiadaniu sądu lub prokuratora;
-2) informacji uzyskanych z rejestrów i baz danych dostępnych dla sądu lub prokuratora wykonującego END;
-3) przesłuchania osoby na terytorium Rzeczypospolitej Polskiej;
-4) dowodu, którego dopuszczenie, uzyskanie ani przeprowadzenie nie wymaga wydania postanowienia;
-5) identyfikacji abonenta telefonu lub adresu IP.
-§ 4. W przypadkach, o których mowa w § 3, przeprowadza się czynność wskazaną w END.
-§ 5. Jeżeli uzyskanie dowodu określonego w END jest możliwe przez przeprowadzenie zastępczej czynności dochodzeniowej, innej niż wskazana w tym orzeczeniu i mniej dolegliwej dla osoby, której END dotyczy, sąd lub prokurator informuje o tym organ wydający END, wskazując termin do zmiany, uzupełnienia lub cofnięcia END. Po upływie terminu sąd lub prokurator określa w postanowieniu przeprowadzenie zastępczej czynności dochodzeniowej.
-§ 6. Jeżeli END zawiera wniosek o przeprowadzenie czynności operacyjnorozpoznawczych, w zakresie tego wniosku odpowiednie służby polskie i służby państwa wydania orzeczenia uzgadniają czas trwania i warunki wykonywania czynności. Można odmówić wykonania END, który nie zawiera informacji o uzgodnieniu, a organ wydający END nie uzupełni tej informacji w terminie wskazanym przez sąd lub prokuratora. Odmawia się wykonania END, jeżeli wykonanie czynności w nim określonych nie byłoby dopuszczalne w podobnej sprawie krajowej.
-§ 7. Do czasu otrzymania informacji lub upływu terminu, o których mowa w § 6, termin określony w art. 589zg § 1 nie biegnie.
-Art. 589zj. § 1. Odmawia się wykonania END, jeżeli:
-1) sąd lub prokurator nie uzyskał wymaganego zezwolenia umożliwiającego przeprowadzenie czynności z udziałem osoby wskazanej w END;
-2) w stosunku do osoby ściganej zapadło w państwie członkowskim Unii Europejskiej prawomocne orzeczenie co do tych samych czynów, które zostały wskazane w END, oraz, w przypadku skazania za te same czyny, osoba ścigana odbywa karę lub ją odbyła albo kara nie może być wykonana według prawa państwa, w którym zapadł wyrok skazujący;
-3) wykonanie END mogłoby narazić na niebezpieczeństwo funkcjonariusza przy wykonywaniu czynności operacyjno-rozpoznawczych oraz osobę udzielającą mu pomocy w zakresie tych czynności;
-4) END dotyczy przesłuchania na okoliczność objętą bezwzględnym zakazem przesłuchania;
-5) wykonanie END naruszyłoby wolności i prawa człowieka i obywatela;
-6) żądana czynność zagrażałaby bezpieczeństwu narodowemu;
-7) END dotyczy czasowego wydania osoby pozbawionej wolności do państwa wydania orzeczenia, a jego wykonanie skutkowałoby przedłużeniem okresu pozbawienia wolności tej osoby.
-§ 2. Można odmówić wykonania END, jeżeli:
-1) czyn będący podstawą wydania END, inny niż wymieniony w art. 607w, nie stanowi przestępstwa według prawa polskiego;
-2) czyn będący podstawą wydania END według prawa polskiego został popełniony w całości lub w części na terytorium Rzeczypospolitej Polskiej lub na polskim statku wodnym lub powietrznym i nie stanowi przestępstwa według prawa polskiego;
-3) wykonanie END wiązałoby się z ujawnieniem informacji niejawnych uzyskanych w toku czynności operacyjno-rozpoznawczych, jak również związanych z prowadzeniem tych czynności;
-4) według prawa polskiego czynność dochodzeniowa, której dotyczy END, nie może być przeprowadzona w sprawie o przestępstwo będące podstawą jego wydania;
-5) według prawa polskiego czynność dochodzeniowa, której dotyczy END, nie może być przeprowadzona w postępowaniu, w którym został on wydany;
-6) END dotyczy czasowego wydania osoby pozbawionej wolności do państwa wydania orzeczenia albo do Rzeczypospolitej Polskiej, a osoba ta nie wyraża na to zgody;
-7) END dotyczy przesłuchania przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku, a oskarżony, który ma zostać przesłuchany, nie wyraża na to zgody;
-8) END dotyczy przesłuchania osób, o których mowa w art. 179 § 1 lub art. 180 § 1 i 2, co do okoliczności określonych w tych przepisach.
-§ 3. Przepisów § 2 pkt 1 i 2 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.
-§ 4. W przypadku określonym w § 2 pkt 8 sąd, działając z urzędu lub na wniosek prokuratora, orzeka w przedmiocie zwolnienia tych osób z zachowania tajemnicy.
-Przepisy art. 179 i art. 180 § 1–4 stosuje się.
-§ 5. Przed wydaniem postanowienia o odmowie wykonania END z przyczyn określonych w § 1 pkt 1–6 lub § 2 pkt 2, 3 i 8 sąd lub prokurator konsultuje się z organem wydającym END w celu umożliwienia mu zmiany lub uzupełnienia END.
-§ 6. Nie można odmówić wykonania END z przyczyn określonych w § 2 pkt 1 i 4, jeżeli dotyczy on czynności dochodzeniowych określonych w art. 589zi § 3.
-Art. 589zk. § 1. Właściwy sąd lub prokurator może postanowić o odroczeniu wykonania END na niezbędny okres, jeżeli:
-1) jego wykonanie mogłoby zaszkodzić toczącemu się postępowaniu karnemu;
-2) przedmioty, dokumenty lub dane są wykorzystywane w innym postępowaniu.
-§ 2. Po ustaniu przyczyny odroczenia wykonania END właściwy sąd lub prokurator niezwłocznie przystępuje do jego wykonania, informując o tym jednocześnie organ wydający END.
-Art. 589zl. § 1. Sąd lub prokurator potwierdza otrzymanie END niezwłocznie, nie później jednak niż w terminie tygodnia, licząc od dnia jego otrzymania.
-§ 2. Potwierdzenie, o którym mowa w § 1, zawiera informacje dotyczące organu, który otrzymał END, lub organu, któremu END został przekazany zgodnie z właściwością.
-§ 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór formularza potwierdzenia otrzymania END, mając na uwadze konieczność udostępnienia państwu wydania orzeczenia pełnych informacji o otrzymaniu END.
-Art. 589zm. Sąd lub prokurator niezwłocznie informuje organ wydający END:
-1) o niemożności wydania postanowienia w sprawie END, w przypadku gdy formularz END jest niekompletny lub błędnie wypełniony;
-2) jeżeli uzna, że może być celowe przeprowadzenie czynności dochodzeniowych, których nie przewidziano lub których nie można było wskazać w chwili wydawania END;
-3) o niemożności dopełnienia formalności i procedur wskazanych przez organ wydający END;
-4) o każdym przypadku odmowy wykonania END lub o postanowieniu przeprowadzenia zastępczej czynności dochodzeniowej na podstawie art. 589zi § 2 lub 5;
-5) o każdym przypadku odroczenia wykonania END, podając przyczyny uzasadniające to odroczenie i jego okres;
-6) o uchyleniu lub zakończeniu okresu zabezpieczenia stosowanego zgodnie z art.
-589zq.
-Art. 589zn. § 1. W przypadku powzięcia wątpliwości, czy wydanie END było uzasadnione lub celowe lub czy dana czynność dochodzeniowa byłaby dopuszczalna w państwie wydania orzeczenia, właściwy sąd lub prokurator konsultuje się z organem wydającym END i jeżeli wymaga tego interes wymiaru sprawiedliwości, występuje z wnioskiem o cofnięcie END.
-§ 2. W przypadku powzięcia wątpliwości co do autentyczności dokumentów niezbędnych do wykonania END lub wystąpienia technicznych przeszkód uniemożliwiających jego wykonanie, przepis § 1 stosuje się odpowiednio.
-Art. 589zo. § 1. Na wniosek państwa wydania orzeczenia przedstawicielowi organu wydającego END umożliwia się obecność przy wykonywaniu czynności, których dotyczy END, jeżeli nie jest to sprzeczne z zasadami porządku prawnego Rzeczypospolitej Polskiej i nie stanowi zagrożenia dla bezpieczeństwa narodowego.
-§ 2. Przedstawiciel, o którym mowa w § 1, za zgodą sądu lub prokuratora, może zadawać określone pytania lub w inny sposób uczestniczyć w przeprowadzeniu dowodu.
-§ 3. Przedstawiciela, o którym mowa w § 1, uważa się za funkcjonariusza publicznego w rozumieniu przepisów Kodeksu karnego.
-§ 4. Jeżeli Skarb Państwa poniósł odpowiedzialność za szkodę wyrządzoną przez przedstawiciela, o którym mowa w § 1, w związku z wykonaniem END, Skarb Państwa występuje do organu wydającego END o zwrot wypłaconej kwoty pieniężnej stanowiącej równowartość wypłaconego odszkodowania.
-Art. 589zp. § 1. Dowody uzyskane w związku z wykonaniem END są niezwłocznie przekazywane państwu wydania orzeczenia. W przypadku określonym w art. 589zo § 1 mogą być one przekazywane, na wniosek państwa wydania orzeczenia, przedstawicielowi organu wydającego END.
-§ 2. Przekazując dowody uzyskane w związku z wykonaniem END, sąd lub prokurator może, po konsultacjach z organem wydającym END, zastrzec ich zwrot.
-Art. 589zq. § 1. Jeżeli END został wydany w celu zabezpieczenia śladów i dowodów przestępstwa przed ich utratą, zniekształceniem lub zniszczeniem, właściwy sąd lub prokurator orzeka w przedmiocie wykonania END w terminie 24 godzin od jego otrzymania, a jeżeli nie jest to możliwe – niezwłocznie po upływie tego terminu.
-Zgodnie z wnioskiem państwa wydania orzeczenia sąd lub prokurator przekazuje dowód państwu wydania orzeczenia lub pozostawia dowód do swojej dyspozycji na czas określony przez państwo wydania orzeczenia.
-§ 2. Sąd lub prokurator po konsultacji z organem wydającym END może zdecydować o skróceniu okresu zabezpieczenia.
-Art. 589zr. § 1. Koszty związane z wykonaniem END ponosi Skarb Państwa. W uzasadnionych przypadkach sąd lub prokurator może wystąpić do organu wydającego END o zwrot całości lub części przewidywanych wydatków albo o zmianę END.
-§ 2. Koszty związane z czasowym wydaniem osoby pozbawionej wolności ponosi państwo wydania orzeczenia.
-Art. 589zs. § 1. Na wniosek innego państwa członkowskiego Unii Europejskiej Minister Sprawiedliwości udziela zezwolenia na przewóz przez terytorium Rzeczypospolitej Polskiej osoby pozbawionej wolności czasowo wydanej.
-§ 2. Wniosek o zezwolenie na przewóz zawiera:
-1) oznaczenie organu wnioskującego;
-2) datę oraz wskazanie miejsca wydania END;
-3) dane określające tożsamość i obywatelstwo osoby;
-4) wskazanie czynności dochodzeniowej, na potrzeby której osoba jest czasowo wydawana.
-§ 3. W przypadku korzystania z drogi powietrznej bez planowanego lądowania można poprzestać na powiadomieniu Ministra Sprawiedliwości o przewożeniu osoby pozbawionej wolności czasowo wydanej nad terytorium Rzeczypospolitej Polskiej.
-Jeżeli jednak nastąpi nieprzewidziane lądowanie, państwo, które wystąpiło z wnioskiem, dostarcza niezwłocznie dane, o których mowa w § 2.
-§ 4. Jeżeli jest to uzasadnione długością pobytu na terytorium Rzeczypospolitej Polskiej osoby pozbawionej wolności i przewożonej przez to terytorium w celu jej czasowego wydania, do osoby tej stosuje się odpowiednio przepis art. 589zf.
-Art. 589zt. § 1. Jeżeli organ innego państwa członkowskiego Unii Europejskiej zamiast END przekazał powiadomienie o zamiarze przeprowadzenia albo o przeprowadzeniu kontroli i utrwalania treści rozmów telefonicznych, prokurator bezpośrednio lub za pośrednictwem właściwego komendanta Policji przekazuje temu organowi informacje w przedmiocie dopuszczalności:
-1) czynności, mając na względzie art. 237 § 3–4 oraz art. 238 § 1 i 2;
-2) wykorzystania uzyskanego dowodu w postępowaniu karnym.
-§ 2. Informacje, o których mowa w § 1, przekazuje się w terminie 96 godzin od otrzymania powiadomienia.
-Art. 607zd. § 1. W razie orzeczenia przez polski sąd lub prokuratora środka zapobiegawczego określonego w art. 272, art. 275, art. 275a lub art. 276 oraz jeżeli zapewni to prawidłowy tok postępowania, sąd lub prokurator może wystąpić o wykonanie tego orzeczenia do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, w którym oskarżony posiada legalne stałe miejsce pobytu, o ile przebywa on w tym państwie lub oświadczy, że zamierza tam powrócić.
-§ 2. Wystąpienie, o którym mowa w § 1, może być na wniosek oskarżonego skierowane również do innego państwa członkowskiego niż państwo legalnego stałego miejsca pobytu oskarżonego, za zgodą właściwego sądu lub innego organu tego państwa.
-§ 3. Wystąpienie, o którym mowa w § 1, sąd lub prokurator kieruje każdorazowo wyłącznie do jednego państwa wykonania orzeczenia. Ponowne wystąpienie do innego państwa wykonania orzeczenia może nastąpić jedynie w razie niewykonania albo częściowego wykonania orzeczenia.
-§ 4. Do poświadczonego za zgodność z oryginałem odpisu orzeczenia, o którym mowa w § 1, dołącza się zaświadczenie zawierające informacje umożliwiające jego prawidłowe wykonanie dotyczące: orzeczenia, osoby oskarżonego, środka zapobiegawczego i kwalifikacji prawnej czynu.
-§ 5. Zaświadczenie powinno zostać przetłumaczone na język urzędowy państwa wykonania orzeczenia albo na inny język wskazany przez to państwo.
-§ 6. Przekazanie odpisu orzeczenia oraz zaświadczenia, o którym mowa w § 4, może nastąpić również z wykorzystaniem urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności tych dokumentów. Na żądanie właściwego sądu lub innego organu państwa wykonania orzeczenia sąd lub prokurator przekazuje odpis orzeczenia oraz oryginał zaświadczenia.
-§ 7. W razie trudności w ustaleniu właściwego sądu lub innego organu państwa wykonania orzeczenia sąd lub prokurator może również zwracać się do właściwych jednostek organizacyjnych Europejskiej Sieci Sądowej.
-§ 8. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 4, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania orzeczenia.
-Art. 607ze. § 1. Do chwili otrzymania informacji o przejęciu wykonania orzeczenia, o którym mowa w art. 607zd § 1, przez właściwy sąd lub inny organ państwa wykonania orzeczenia, a także w razie otrzymania informacji o niemożności lub odmowie wykonania orzeczenia przez właściwy sąd lub inny organ państwa wykonania orzeczenia, o zaprzestaniu jego wykonywania przez ten organ, a także w wypadku cofnięcia wystąpienia środek zapobiegawczy jest wykonywany w dalszym ciągu przez właściwy organ.
-§ 2. W razie otrzymania informacji o dostosowaniu środka zapobiegawczego do prawa państwa wykonania orzeczenia i przed rozpoczęciem wykonywania tego środka w tym państwie sąd lub prokurator w ciągu 10 dni od dnia otrzymania informacji może cofnąć wystąpienie, o którym mowa w art. 607zd § 1, mając na uwadze cele środka.
-Art. 607zf. § 1. W razie zmiany lub uchylenia środka zapobiegawczego albo zmiany obowiązków nałożonych na oskarżonego sąd lub prokurator niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania orzeczenia.
-§ 2. Zawiadomienie, o którym mowa w § 1, może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
-Art. 607zg. Na postanowienie sądu lub prokuratora w sprawie wystąpienia do właściwego sądu lub innego organu państwa wykonania orzeczenia zażalenie nie przysługuje.
-Art. 607zh. § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie orzeczenia wydanego w celu zapewnienia prawidłowego toku postępowania i nakładającego na osobę, przeciwko której w tym państwie prowadzone jest postępowanie karne, obowiązek:
-1) stawiennictwa przed określonym organem,
-2) powstrzymania się od opuszczania miejsca pobytu lub kraju,
-3) informowania określonego organu o zmianie miejsca pobytu albo uzyskiwania zgody na taką zmianę,
-4) przebywania albo powstrzymania się od przebywania w określonych środowiskach lub miejscach,
-5) powstrzymania się od kontaktów z określonymi osobami lub zbliżania się do określonych osób,
-6) powstrzymania się od wykonywania czynności służbowych lub zawodu,
-7) powstrzymania się od określonej działalności,
-8) powstrzymania się od prowadzenia określonego rodzaju pojazdów – orzeczenie to podlega wykonaniu przez prokuratora właściwego miejscowo ze względu na legalne stałe miejsce pobytu tej osoby.
-§ 2. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające informacje umożliwiające jego prawidłowe wykonanie.
-§ 3. Jeżeli prokurator, do którego zostało skierowane wystąpienie, nie jest właściwy do nadania mu biegu, przekazuje je właściwemu prokuratorowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia.
-§ 4. Na wniosek właściwego sądu lub innego organu państwa wydania orzeczenia prokurator może wyrazić zgodę na wykonanie orzeczenia, o którym mowa w § 1, wydanego wobec osoby określonej w tym paragrafie, nieposiadającej legalnego stałego miejsca pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli w większym stopniu zapewni to prawidłowy tok postępowania.
-§ 5. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu orzeczeń, o których mowa w § 1, stosuje się przepisy prawa polskiego.
-Art. 607zi. § 1. Jeżeli państwo wydania orzeczenia nie przekazało wszystkich informacji potrzebnych do podjęcia decyzji w przedmiocie wykonania orzeczenia, prokurator wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do ich uzupełnienia we wskazanym terminie. W razie niedotrzymania terminu postanowienie w przedmiocie wykonania orzeczenia wydaje się w oparciu o posiadane informacje.
-§ 2. Jeżeli rodzaj albo sposób wykonania obowiązków są nieznane ustawie, prokurator określa środek lub obowiązek według prawa polskiego, z uwzględnieniem różnic na korzyść osoby, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne.
-Art. 607zj. § 1. Postanowienie w przedmiocie wykonania orzeczenia, o którym mowa w art. 607zh § 1, prokurator wydaje w terminie 30 dni od dnia otrzymania orzeczenia wraz z zaświadczeniem.
-§ 2. Na postanowienie prokuratora w przedmiocie wykonania orzeczenia, o którym mowa w art. 607zh § 1, przysługuje zażalenie do sądu rejonowego, w okręgu którego osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, posiada legalne stałe miejsce pobytu. Sąd rozpoznaje zażalenie na posiedzeniu, w którym ma prawo wziąć udział prokurator, osoba wymieniona w zdaniu pierwszym, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jej obrońca, jeżeli się na nie stawi. Jeżeli osoba wymieniona w zdaniu pierwszym nie przebywa na terytorium Rzeczypospolitej Polskiej i nie posiada obrońcy, prezes sądu właściwego do rozpoznania zażalenia może jej wyznaczyć obrońcę z urzędu.
-§ 3. Postępowanie w przedmiocie wykonania orzeczenia powinno zakończyć się prawomocnie w terminie 60 dni od dnia otrzymania orzeczenia wraz z zaświadczeniem.
-§ 4. W wypadku gdy termin określony w § 3 nie może być dotrzymany, należy zawiadomić właściwy sąd lub inny organ państwa wydania orzeczenia o przyczynie opóźnienia i podać przewidywany termin wydania postanowienia.
-§ 5. Do wykonania orzeczenia właściwego sądu lub innego organu państwa wydania orzeczenia prokurator przystępuje niezwłocznie.
-Art. 607zk. § 1. Odmawia się wykonania orzeczenia, o którym mowa w art. 607zh § 1, jeżeli:
-1) czyn, w związku z którym zastosowano środek zapobiegawczy, nie stanowi przestępstwa według prawa polskiego;
-2) osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, nie przebywa na terytorium Rzeczypospolitej Polskiej, chyba że istnieją podstawy do uznania, że na nie powróci.
-§ 2. Przepisu § 1 pkt 1 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.
-§ 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 607zh § 1, jeżeli:
-1) pomimo wezwania przez prokuratora do uzupełnienia informacji we wskazanym terminie do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 607zh § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;
-2) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a osoba ta odbywa karę lub ją odbyła albo kara nie może być wykonana według prawa państwa, w którym zapadł wyrok skazujący;
-3) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;
-4) orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;
-5) osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyn będący podstawą wydania orzeczenia;
-6) osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, korzysta z immunitetu, zgodnie z którym niemożliwy jest nadzór nad przestrzeganiem nałożonych obowiązków;
-7) orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 607zh § 1;
-8) orzeczenie zostało przekazane pomimo niespełnienia warunków przewidzianych w art. 607zh § 4;
-9) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii;
-10) pomimo niestosowania się osoby, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, do wymagań określonych w orzeczeniu nie jest możliwe przekazanie jej z terytorium Rzeczypospolitej Polskiej na podstawie europejskiego nakazu aresztowania.
-§ 4. W wypadku wskazanym w § 3 pkt 10, gdy przemawiają za tym szczególne względy, prokurator, w uzgodnieniu z właściwym sądem lub innym organem państwa wydania orzeczenia, może orzec o wykonaniu orzeczenia.
-§ 5. W wypadkach przewidzianych w § 1 pkt 2 oraz w § 3 pkt 1, 2 i 7 prokurator przed podjęciem decyzji w przedmiocie wykonania orzeczenia informuje o możliwości odmowy wykonania orzeczenia właściwy sąd lub inny organ państwa wydania orzeczenia.
-Art. 607zl. § 1. W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, iż orzeczenie przekazane do wykonania nie podlega dalszemu wykonaniu, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu wykonywania orzeczenia.
-§ 2. Jeżeli dalsze wykonywanie orzeczenia nie jest możliwe z przyczyn faktycznych lub prawnych, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu wykonywania orzeczenia i zawiadamia właściwy sąd lub inny organ państwa wydania orzeczenia.
-§ 3. W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o zmianie obowiązku nałożonego na osobę, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, prokurator rozpoznaje sprawę wykonania zmienionego orzeczenia na zasadach określonych w niniejszym rozdziale. Przepisu art. 607zk nie stosuje się, z wyjątkiem § 1 pkt 2 i § 3 pkt 7.
-Art. 607zm. § 1. O treści postanowienia w przedmiocie wykonania orzeczenia, o którym mowa w art. 607zh § 1, o wniesieniu środka odwoławczego od tego postanowienia, o istotnych orzeczeniach zapadłych w trakcie postępowania, jak również w razie zmiany legalnego stałego miejsca pobytu przez osobę, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia.
-§ 2. Prokurator zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia o wszelkich okolicznościach mających wpływ na jego wykonanie.
-Zawiadomienie następuje w formie zaświadczenia zawierającego informacje dotyczące osoby określonej w § 1 oraz naruszonego obowiązku.
-§ 3. W razie ustania przyczyn, na skutek których obowiązek został zastosowany, lub powstania przyczyn uzasadniających jego uchylenie lub zmianę prokurator może wystąpić do właściwego sądu lub innego organu państwa wydania orzeczenia o jego uchylenie lub zmianę.
-§ 4. Zawiadomienia, o których mowa w § 1 i 2 oraz wystąpienie, o którym mowa w § 3, mogą być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
-§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 2, mając na uwadze konieczność udostępnienia państwu wydania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji.
-Art. 607zn. Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 607zh § 1, ponosi Skarb Państwa.
-Art. 611fa. § 1. W razie prawomocnego orzeczenia przez sąd polski wobec obywatela polskiego lub cudzoziemca grzywny, nawiązki, świadczenia pieniężnego lub zasądzenia od sprawcy kosztów procesu sąd może wystąpić o jego wykonanie bezpośrednio do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, w którym sprawca posiada mienie lub osiąga dochody albo ma stałe lub czasowe miejsce pobytu.
-§ 2. Wystąpienie, o którym mowa w § 1, każdorazowo sąd kieruje wyłącznie do jednego państwa wykonania orzeczenia. Ponowne wystąpienie do innego państwa wykonania orzeczenia może nastąpić jedynie w razie niewykonania albo częściowego wykonania orzeczenia.
-§ 3. Do poświadczonego za zgodność z oryginałem odpisu orzeczenia, o którym mowa w § 1, dołącza się zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
-§ 4. Zaświadczenie powinno zostać przetłumaczone na język urzędowy państwa wykonania orzeczenia albo na inny język wskazany przez to państwo.
-§ 5. Przekazanie odpisu orzeczenia oraz zaświadczenia, o którym mowa w § 3, może nastąpić również z wykorzystaniem urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności tych dokumentów. Na żądanie właściwego sądu lub innego organu państwa wykonania orzeczenia sąd przekazuje odpis orzeczenia oraz oryginał zaświadczenia.
-§ 6. W razie trudności w ustaleniu właściwego sądu lub innego organu państwa wykonania orzeczenia sąd może również zwracać się do właściwych jednostek organizacyjnych Europejskiej Sieci Sądowej.
-§ 7. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 3, obejmujący szczegółowe informacje dotyczące przekazanego do wykonania orzeczenia, w tym informacje o każdej wpłacie dokonanej na poczet orzeczonej kary, środka karnego, środka kompensacyjnego lub kosztów procesu oraz o ewentualnej zgodzie na zamianę grzywny na pracę społecznie użyteczną, wykonanie zastępczej kary pozbawienia wolności lub inny środek, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania orzeczenia.
-Art. 611fb. § 1. Kwoty uzyskane z egzekucji orzeczeń, o których mowa w art. 611fa § 1, przypadają państwu wykonania orzeczenia.
-§ 2. Minister Sprawiedliwości może zawrzeć z odpowiednim organem państwa wykonania orzeczenia porozumienie przewidujące podział kwot uzyskanych z egzekucji orzeczeń, o których mowa w § 1.
-§ 3. W wypadku zawarcia porozumienia, o którym mowa w § 2, sąd wzywa właściwy sąd lub inny organ państwa wykonania orzeczenia do przekazania całości albo części wyegzekwowanej kwoty na rachunek bankowy tego sądu lub rachunek bankowy innego wskazanego podmiotu. Przekazana na rachunek sądu kwota uzyskana z egzekucji środka karnego lub środka kompensacyjnego orzeczonego na rzecz pokrzywdzonego lub innej osoby uprawnionej albo wskazanej w orzeczeniu instytucji, stowarzyszenia, fundacji lub organizacji społecznej zostaje następnie przekazana tej osobie lub podmiotowi.
-Art. 611fc. § 1. W razie wystąpienia o wykonanie orzeczenia, o którym mowa w art. 611fa § 1, postępowanie wykonawcze zawiesza się.
-§ 2. Po otrzymaniu informacji o wykonaniu orzeczenia sąd podejmuje zawieszone postępowanie i umarza je. Postępowanie umarza się również, jeżeli w stosunku do sprawcy zapadło w innym państwie członkowskim i zostało wykonane prawomocne orzeczenie co do tego samego czynu.
-§ 3. W razie otrzymania informacji o niemożności wykonania orzeczenia w całości albo części z powodów innych niż wskazane w § 2 zdanie drugie sąd podejmuje zawieszone postępowanie celem jego dalszego prowadzenia.
-Art. 611fd. § 1. W razie uchylenia orzeczenia na skutek kasacji albo wznowienia postępowania, darowania kary, przedawnienia jej wykonania lub też w razie wystąpienia innych okoliczności skutkujących niemożnością wykonania orzeczenia, o którym mowa w art. 611fa § 1, sąd niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania orzeczenia.
-§ 2. Sąd zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wykonania orzeczenia o każdej wpłacie dokonanej na poczet orzeczonej kary, środków karnych, środków kompensacyjnych lub kosztów procesu, o których mowa w art. 611fa § 1, a także o orzeczonym przepadku.
-Art. 611fe. Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu państwa wykonania orzeczenia na posiedzeniu, w którym ma prawo wziąć udział prokurator, pokrzywdzony lub inna osoba albo podmiot uprawniony, o których mowa w art. 611fb § 3, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej i jego obrońca, jeżeli się na nie stawi. Na postanowienie sądu zażalenie nie przysługuje.
-Art. 611ff. § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie prawomocnego orzeczenia o karach o charakterze pieniężnym, orzeczenie to podlega wykonaniu przez sąd rejonowy, w okręgu którego sprawca posiada mienie lub osiąga dochody, albo ma stałe lub czasowe miejsce pobytu. W rozumieniu przepisów niniejszego rozdziału „karą o charakterze pieniężnym” jest obowiązek uiszczenia przez sprawcę określonych w orzeczeniu:
-1) kwoty pieniężnej jako kary za popełnione przestępstwo;
-2) zadośćuczynienia na rzecz pokrzywdzonego, jeżeli nie mógł on w ramach postępowania karnego dochodzić roszczeń o charakterze cywilnym;
-3) kwoty pieniężnej na rzecz funduszu publicznego lub organizacji pomocy ofiarom przestępstw;
-4) kosztów procesu.
-§ 2. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
-§ 3. Do wykonania orzeczenia sądu lub innego organu państwa wydania orzeczenia sąd przystępuje niezwłocznie.
-§ 4. Jeżeli sąd, do którego zostało skierowane orzeczenie, nie jest właściwy do nadania mu biegu, przekazuje je właściwemu sądowi i powiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia.
-§ 5. Jeżeli orzeczenie, o którym mowa w § 1, dotyczy czynów, które nie zostały popełnione na terytorium państwa wydania orzeczenia i podlegają jurysdykcji sądów polskich, sąd może postanowić o obniżeniu wysokości podlegającej egzekucji kary o charakterze pieniężnym do maksymalnej wysokości kary lub środka karnego jakie mogłyby być orzeczone za takie same czyny według prawa polskiego.
-§ 6. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu orzeczeń, o których mowa w § 1, stosuje się przepisy prawa polskiego.
-Przepis art. 611c § 3 stosuje się odpowiednio.
-Art. 611fg. Można odmówić wykonania orzeczenia, o którym mowa w art. 611ff § 1, jeżeli:
-1) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w lub zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo:
-a) popełnione z użyciem przemocy na osobie lub gróźb karalnych,
-b) popełnione w związku z imprezą masową,
-c) przeciwko bezpieczeństwu w komunikacji,
-d) kradzieży,
-e) zniszczenia lub uszkodzenia mienia,
-f) przemytu towarów,
-g) przeciwko prawom własności intelektualnej,
-h) określone w celu wykonania wynikających z aktów prawnych przyjętych przez właściwe instytucje Unii Europejskiej zobowiązań do ustanowienia sankcji w prawie wewnętrznym państw członkowskich, jednakże wyłącznie w granicach, w jakich zobowiązanie to zostało w tych aktach określone;
-2) do orzeczenia nie dołączono zaświadczenia o którym mowa w art. 611ff § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty jest niezgodne z treścią orzeczenia;
-3) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim, a orzeczenie w zakresie kary o charakterze pieniężnym zostało wykonane;
-4) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwa, których to dotyczy, podlegały jurysdykcji sądów polskich;
-5) orzeczenie dotyczy przestępstw, które według prawa polskiego zostały popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;
-6) orzeczenie dotyczy przestępstw popełnionych poza terytorium państwa wydania orzeczenia, a prawo polskie nie dopuszcza ścigania takiego rodzaju przestępstw, jeżeli zostały one popełnione poza terytorium Rzeczypospolitej Polskiej;
-7) sprawca nie podlega jurysdykcji polskich sądów karnych, lub też brak jest wymaganego zezwolenia na jego ściganie;
-8) osoba, której dotyczy orzeczenie, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania orzeczenia;
-9) z treści zaświadczenia, o którym mowa w art. 611ff § 2, wynika, iż osoba, której dotyczy orzeczenie, nie została należycie pouczona o możliwości i prawie do zaskarżenia tego orzeczenia;
-10) z treści zaświadczenia, o którym mowa w art. 611ff § 2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:
-a) sprawcę wezwano do udziału w postępowaniu lub w inny sposób zawiadomiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia albo sprawca miał obrońcę, który był obecny na rozprawie lub posiedzeniu,
-b) po doręczeniu sprawcy odpisu orzeczenia wraz z pouczeniem o przysługującym mu prawie, terminie i sposobie złożenia w państwie wydania nakazu wniosku o przeprowadzenie z jego udziałem nowego postępowania sądowego w tej samej sprawie, sprawca w ustawowym terminie nie złożył takiego wniosku albo oświadczył, że nie kwestionuje orzeczenia;
-11) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych, podlega darowaniu na mocy amnestii;
-12) orzeczenie dotyczy kary o charakterze pieniężnym niższej niż 70 euro lub niższej niż równowartość tej kwoty w innej walucie.
-Art. 611fh. § 1. Sąd rozpoznaje sprawę wykonania orzeczenia o karach o charakterze pieniężnym na posiedzeniu, w którym ma prawo wziąć udział prokurator, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Jeżeli sprawca, który nie przebywa na terytorium Rzeczypospolitej Polskiej, nie posiada obrońcy, prezes sądu właściwego do rozpoznania sprawy może mu wyznaczyć obrońcę z urzędu.
-§ 2. Na postanowienie sądu w przedmiocie wykonania orzeczenia o karach o charakterze pieniężnym przysługuje zażalenie.
-§ 3. Prawomocne orzeczenie o karach o charakterze pieniężnym wraz z dołączonym zaświadczeniem, o którym mowa w art. 611ff § 2, stanowi tytuł egzekucyjny i podlega wykonaniu w Rzeczypospolitej Polskiej po wydaniu postanowienia o jego wykonaniu.
-§ 4. Jeżeli informacje przekazane przez państwo wydania orzeczenia nie są wystarczające do podjęcia decyzji w przedmiocie wykonania orzeczenia o karach o charakterze pieniężnym, sąd wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do ich uzupełnienia we wskazanym terminie.
-§ 5. W razie niedotrzymania terminu, o którym mowa w § 4, postanowienie w przedmiocie wykonania orzeczenia wydaje się w oparciu o informacje przekazane wcześniej.
-Art. 611fi. § 1. Kwota uzyskana z tytułu wykonania orzeczenia, o którym mowa w art. 611ff § 1, stanowi dochód budżetu państwa.
-§ 2. Minister Sprawiedliwości może zawrzeć z odpowiednim organem państwa wydania orzeczenia porozumienie przewidujące podział kwot uzyskanych z wykonania orzeczenia, o którym mowa w § 1.
-§ 3. W wypadku zawarcia porozumienia, o którym mowa w § 2, sąd, na wezwanie właściwego sądu lub innego organu państwa wydania orzeczenia, przekazuje całość albo część kwoty uzyskanej z tytułu wykonania orzeczenia, zgodnie z porozumieniem.
-Art. 611fj. § 1. Jeżeli sprawca lub inna osoba przedstawi dowód uiszczenia w całości albo części kar o charakterze pieniężnym, o których mowa w podlegającym wykonaniu orzeczeniu, sąd, przed wydaniem postanowienia w przedmiocie wykonania tego orzeczenia, wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do potwierdzenia dokonanej wpłaty.
-§ 2. Kwoty uprzednio uzyskane na poczet kary w państwie wydania lub wykonania orzeczenia są odliczane od kwoty, która ma być wyegzekwowana.
-Art. 611fk. W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, iż orzeczenie przekazane do wykonania nie podlega dalszemu wykonaniu, sąd wydaje niezwłocznie postanowienie o umorzeniu postępowania wykonawczego.
-Art. 611fl. O treści postanowienia w przedmiocie wykonania orzeczenia o karach o charakterze pieniężnym, jak również o zakończeniu postępowania egzekucyjnego, a także o zamianie kary o charakterze pieniężnym na pracę społecznie użyteczną lub o wykonaniu zastępczej kary pozbawienia wolności, jeżeli prawo polskie dopuszcza taką możliwość, powiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Powiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
-Art. 611fm. Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611ff § 1, ponosi Skarb Państwa.
-Art. 611fn. § 1. W razie prawomocnego orzeczenia przez sąd polski wobec obywatela polskiego lub cudzoziemca przepadku, sąd może wystąpić o jego wykonanie bezpośrednio do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, w którym sprawca posiada mienie lub osiąga dochody, a w razie niemożności jego ustalenia, państwa, w którym ma stałe lub czasowe miejsce pobytu.
-§ 2. Wystąpienie, o którym mowa w § 1, sąd każdorazowo kieruje wyłącznie do jednego państwa wykonania orzeczenia, z zastrzeżeniem § 3 i 4.
-§ 3. Jeżeli wystąpienie dotyczy określonych składników mienia, może ono nastąpić do więcej niż jednego państwa wykonania orzeczenia, jeżeli istnieje prawdopodobieństwo, że:
-1) określone składniki mienia znajdują się w więcej niż jednym państwie wykonania orzeczenia lub w jednym z wielu państw wykonania orzeczenia lub
-2) postępowanie wykonawcze będzie prowadzone w więcej niż jednym państwie wykonania orzeczenia.
-§ 4. Jeżeli wystąpienie dotyczy kwoty pieniężnej, może być skierowane do więcej niż jednego państwa wykonania orzeczenia, jeżeli mienie, co do którego może nastąpić przepadek, nie zostało zabezpieczone na podstawie postanowienia, o którym mowa w art. 589g § 1, lub gdy jego wartość nie jest wystarczająca do wyegzekwowania kwoty pieniężnej, co do której orzeczono przepadek, lub gdy przemawia za tym dobro postępowania.
-§ 5. Do poświadczonego za zgodność z oryginałem odpisu orzeczenia, o którym mowa w § 1, dołącza się zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
-§ 6. Zaświadczenie powinno zostać przetłumaczone na język urzędowy państwa wykonania orzeczenia albo na inny język wskazany przez to państwo.
-§ 7. Przekazanie odpisu orzeczenia oraz zaświadczenia, o którym mowa w § 5, może nastąpić również z wykorzystaniem urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności tych dokumentów. Na żądanie właściwego sądu lub innego organu państwa wykonania orzeczenia sąd przekazuje odpis orzeczenia oraz oryginał zaświadczenia.
-§ 8. W razie trudności w ustaleniu właściwego sądu lub innego organu państwa wykonania orzeczenia sąd może również zwracać się do właściwych jednostek organizacyjnych Europejskiej Sieci Sądowej.
-§ 9. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 5, zawierając w nim szczegółowe informacje dotyczące przekazanego do wykonania orzeczenia, w tym informacje o każdej wpłacie dokonanej na poczet orzeczonego przepadku kwoty pieniężnej, przepadku równowartości przedmiotów lub przepadku równowartości korzyści majątkowej oraz o ewentualnej zgodzie na wykonanie przepadku przez zapłatę jego równowartości pieniężnej, o zgodzie na przekazanie mienia innego niż pieniądze oraz o zastępczych formach wykonania przepadku, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania orzeczenia.
-Art. 611fo. § 1. Jeżeli kwota uzyskana z tytułu wykonania orzeczeń, o których mowa w art. 611fn § 1, przewyższa równowartość 10 000 euro, sąd wzywa właściwy sąd lub inny organ państwa wykonania orzeczenia do przekazania połowy uzyskanej kwoty na rachunek bankowy tego sądu.
-§ 2. Jeżeli wystąpienie obejmuje przepadek kwoty pieniężnej, sąd może wezwać właściwy sąd lub inny organ państwa wykonania orzeczenia do przekazania mienia innego niż pieniądze, uzyskanego z tytułu wykonania orzeczenia objętego wystąpieniem.
-§ 3. Minister Sprawiedliwości może zawrzeć z odpowiednim organem państwa wykonania orzeczenia porozumienie co do sposobu wykonania orzeczenia przepadku, w szczególności przewidując odmienny podział kwot uzyskanych z egzekucji orzeczeń, o których mowa w § 1.
-§ 4. W wypadku zawarcia porozumienia, o którym mowa w § 3, sąd wzywa właściwy sąd lub inny organ państwa wykonania orzeczenia do przekazania całości albo części wyegzekwowanej kwoty lub mienia innego niż pieniądze, uzyskanych z tytułu wykonania orzeczenia, zgodnie z porozumieniem.
-Art. 611fp. Wystąpienie o wykonanie orzeczenia, o którym mowa w art. 611fn § 1, nie wstrzymuje postępowania wykonawczego.
-Art. 611fr. § 1. W razie uchylenia orzeczenia na skutek kasacji albo wznowienia postępowania, darowania kary, przedawnienia jej wykonania lub też w razie wystąpienia innych okoliczności skutkujących niemożnością wykonania orzeczenia, o którym mowa w art. 611fn § 1, sąd niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania orzeczenia.
-§ 2. Sąd zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wykonania orzeczenia o każdej kwocie pieniężnej uzyskanej z tytułu wykonania orzeczeń, o których mowa w art. 611fn § 1.
-Art. 611fs. Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu państwa wykonania orzeczenia na posiedzeniu, w którym ma prawo wziąć udział prokurator, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Na postanowienie sądu zażalenie nie przysługuje.
-Art. 611ft. § 1. Jeżeli według prawa państwa wykonania orzeczenia państwo to ponosi odpowiedzialność za szkodę wyrządzoną w związku z wykonaniem orzeczenia przepadku wydanego przez polski sąd, na wniosek właściwego sądu lub innego organu tego państwa Skarb Państwa zwraca mu kwotę pieniężną stanowiącą równowartość wypłaconego odszkodowania.
-§ 2. Przepisu § 1 nie stosuje się, jeżeli szkoda jest wyłącznym następstwem działania lub zaniechania organu państwa wykonania orzeczenia.
-Art. 611fu. § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie prawomocnego orzeczenia przepadku, orzeczenie to podlega wykonaniu przez sąd rejonowy, w okręgu którego sprawca posiada mienie lub osiąga dochody albo ma stałe lub czasowe miejsce pobytu.
-§ 2. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
-§ 3. Do wykonania orzeczenia państwa wydania orzeczenia sąd przystępuje niezwłocznie.
-§ 4. Jeżeli sąd, do którego zostało skierowane orzeczenie, nie jest właściwy do nadania mu biegu, przekazuje je właściwemu sądowi i powiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia.
-§ 5. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu orzeczeń, o których mowa w § 1, stosuje się przepisy prawa polskiego.
-Przepis art. 611c § 3 stosuje się odpowiednio.
-Art. 611fw. § 1. Odmawia się wykonania orzeczenia przepadku korzyści majątkowej albo jej równowartości w części, w której zostało ono wydane w oparciu o domniemanie pochodzenia tej korzyści z przestępstwa, inne niż domniemanie:
-1) pochodzenia korzyści majątkowej z przestępstwa innego niż to, za które sprawca został skazany, popełnionego do chwili wydania chociażby nieprawomocnego wyroku;
-2) pochodzenia korzyści majątkowej z innego przestępstwa podobnego do przestępstwa, za które sprawca został skazany, popełnionego do chwili wydania chociażby nieprawomocnego wyroku;
-3) pochodzenia z przestępstwa mienia nieznajdującego pokrycia w ujawnionych źródłach przychodu sprawcy.
-§ 2. Można odmówić wykonania orzeczenia przepadku korzyści majątkowej albo jej równowartości, wydanego w oparciu o domniemania, o których mowa w § 1, w części, w której orzeczenie przepadku byłoby niedopuszczalne według prawa polskiego.
-§ 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 611fu § 1, jeżeli:
-1) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego lub za przestępstwo będące podstawą wydania orzeczenia nie można orzec przepadku według prawa polskiego, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w; przepis art. 607r § 2 stosuje się odpowiednio;
-2) do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 611fu § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty jest niezgodne z treścią orzeczenia;
-3) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim, a orzeczenie w zakresie przepadku zostało wykonane;
-4) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwa, których to dotyczy, podlegały jurysdykcji sądów polskich;
-5) orzeczenie dotyczy przestępstw, które według prawa polskiego zostały popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;
-6) orzeczenie dotyczy przestępstw popełnionych poza terytorium państwa wydania orzeczenia, a prawo polskie nie dopuszcza ścigania takiego rodzaju przestępstw, jeżeli zostały one popełnione poza terytorium Rzeczypospolitej Polskiej;
-7) sprawca nie podlega jurysdykcji polskich sądów karnych lub też brak jest wymaganego zezwolenia na jego ściganie;
-8) z treści zaświadczenia, o którym mowa w art. 611fu § 2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:
-a) sprawcę wezwano do udziału w postępowaniu lub w inny sposób zawiadomiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia albo sprawca miał obrońcę, który był obecny na rozprawie lub posiedzeniu,
-b) po doręczeniu sprawcy odpisu orzeczenia wraz z pouczeniem o przysługującym mu prawie, terminie i sposobie złożenia w państwie wydania nakazu wniosku o przeprowadzenie z jego udziałem nowego postępowania sądowego w tej samej sprawie, sprawca w ustawowym terminie nie złożył takiego wniosku albo oświadczył, że nie kwestionuje orzeczenia;
-9) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych, podlega darowaniu na mocy amnestii;
-10) zachodzi uzasadniona obawa, że wykonanie orzeczenia może naruszyć prawa osób trzecich.
-§ 4. Jeżeli informacje przekazane przez państwo wydania orzeczenia nie są wystarczające do podjęcia decyzji w przedmiocie wykonania orzeczenia przepadku, sąd wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do ich uzupełnienia we wskazanym terminie.
-§ 5. W razie niedotrzymania terminu, o którym mowa w § 4, postanowienie w przedmiocie wykonania orzeczenia wydaje się w oparciu o informacje przekazane wcześniej.
-§ 6. Jeżeli wykonanie orzeczenia nie jest możliwe z przyczyn faktycznych lub prawnych, sąd niezwłocznie powiadamia właściwy sąd lub inny organ państwa wydania orzeczenia.
-Art. 611fx. § 1. Sąd rozpoznaje sprawę wykonania orzeczenia przepadku na posiedzeniu, w którym ma prawo wziąć udział prokurator, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi, oraz osoba trzecia, której prawa mogą zostać naruszone przez wykonanie orzeczenia. Jeżeli sprawca, który nie przebywa na terytorium Rzeczypospolitej Polskiej, nie posiada obrońcy, prezes sądu właściwego do rozpoznania sprawy może mu wyznaczyć obrońcę z urzędu.
-§ 2. Na postanowienie sądu w przedmiocie wykonania orzeczenia przepadku zażalenie przysługuje stronom oraz osobie trzeciej, o której mowa w § 1. Sąd, który wydał postanowienie, powiadamia właściwy sąd lub inny organ państwa wydania orzeczenia o wniesieniu zażalenia.
-§ 3. Prawomocne orzeczenie przepadku wraz z dołączonym zaświadczeniem stanowi tytuł egzekucyjny i podlega wykonaniu w Rzeczypospolitej Polskiej po wydaniu postanowienia o jego wykonaniu.
-Art. 611fy. § 1. Sąd może zawiesić postępowanie w przedmiocie wykonania orzeczenia, o którym mowa w art. 611fu § 1, jeżeli:
-1) wystąpienie, dotyczące kwoty pieniężnej, nastąpiło do więcej niż jednego państwa członkowskiego, a istnieje prawdopodobieństwo, że wskutek wykonania orzeczenia w kilku państwach członkowskich przepadkowi ulegnie kwota wyższa niż określona w orzeczeniu;
-2) wykonanie orzeczenia mogłoby utrudnić toczące się postępowanie karne;
-3) mienie może podlegać przepadkowi w toczącym się w Polsce postępowaniu;
-4) uzna za niezbędne przetłumaczenie orzeczenia na język polski.
-§ 2. Na postanowienie w przedmiocie zawieszenia postępowania zażalenie przysługuje stronom oraz osobie trzeciej, o której mowa w art. 611fx § 1. Sąd, który wydał postanowienie, powiadamia właściwy sąd lub inny organ państwa wydania orzeczenia o zawieszeniu postępowania i jego przyczynach.
-§ 3. W razie zawieszenia postępowania sąd z urzędu może zabezpieczyć wykonanie orzeczenia. Przepisy o zabezpieczeniu majątkowym na mieniu oskarżonego stosuje się odpowiednio.
-Art. 611fz. Jeżeli mienie podlegające egzekucji nie jest wystarczające do wykonania dwóch lub więcej orzeczeń, o których mowa w art. 611fu § 1, wydanych przeciwko tej samej osobie i dotyczących kwoty pieniężnej, albo jeżeli dwa lub więcej orzeczeń dotyczy określonego składnika mienia, sąd orzeka łącznie w przedmiocie wykonania orzeczeń w całości albo części.
-Art. 611fza. § 1. Jeżeli sprawca lub inna osoba przedstawi dowód wykonania w całości albo części orzeczenia, o którym mowa w art. 611fu § 1, sąd, przed wydaniem postanowienia w przedmiocie wykonania tego orzeczenia, wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do potwierdzenia dokonanej wpłaty.
-§ 2. Kwoty uprzednio uzyskane z tytułu przepadku w państwie wydania orzeczenia lub państwie wykonania orzeczenia są zaliczane na poczet kwoty podlegającej egzekucji.
-Art. 611fzb. § 1. Kwota uzyskana z tytułu wykonania orzeczenia, o którym mowa w art. 611fu § 1, nieprzewyższająca równowartości 10 000 euro, stanowi dochód budżetu państwa. W pozostałych wypadkach państwu wydania orzeczenia przekazuje się połowę uzyskanej kwoty na rachunek bankowy wskazany przez właściwy sąd lub inny organ tego państwa.
-§ 2. Mienie inne niż pieniądze, uzyskane z tytułu wykonania orzeczenia, o którym mowa w § 1, spienięża się według przepisów o egzekucji świadczeń pieniężnych w postępowaniu egzekucyjnym w administracji. Przepis § 1 stosuje się odpowiednio do kwoty uzyskanej z egzekucji.
-§ 3. W uzasadnionych wypadkach sąd może odstąpić od spieniężenia mienia, o którym mowa w § 2, i przekazać je właściwemu sądowi lub innemu organowi państwa wydania orzeczenia. Jeżeli wystąpienie obejmuje przepadek kwoty pieniężnej, przekazanie może nastąpić tylko za zgodą tego sądu lub organu.
-§ 4. Sąd odmawia wydania państwu wydania orzeczenia uzyskanych przedmiotów będących dobrami kultury stanowiącymi część narodowego dziedzictwa kulturalnego.
-§ 5. Minister Sprawiedliwości może zawrzeć z odpowiednim organem państwa wydania orzeczenia porozumienie co do sposobu wykonania orzeczenia przepadku, w szczególności przewidując w nim odmienny, od określonego w § 1, podział kwot uzyskanych z wykonania orzeczenia.
-§ 6. W wypadku zawarcia porozumienia, o którym mowa w § 5, sąd, na wezwanie właściwego sądu lub innego organu państwa wydania orzeczenia, przekazuje całość albo część wyegzekwowanej kwoty pieniężnej lub mienie inne niż pieniądze, uzyskane z tytułu wykonania orzeczenia, zgodnie z porozumieniem.
-Art. 611fzc. W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, że orzeczenie przekazane do wykonania nie podlega dalszemu wykonaniu, sąd wydaje niezwłocznie postanowienie o umorzeniu postępowania wykonawczego.
-Art. 611fzd. O treści postanowienia w przedmiocie wykonania orzeczenia przepadku, jak również o zakończeniu postępowania egzekucyjnego, powiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia.
-Powiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
-Art. 611fze. § 1. Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611fu § 1, ponosi Skarb Państwa. W uzasadnionych wypadkach sąd może wystąpić do właściwego sądu lub innego organu państwa wydania orzeczenia o zwrot części poniesionych wydatków. Do wystąpienia załącza się szczegółowy wykaz poniesionych wydatków wraz z propozycją ich podziału.
-§ 2. Jeżeli Skarb Państwa ponosi odpowiedzialność za szkodę wyrządzoną w związku z wykonaniem orzeczenia przepadku, wydanego przez organ sądowy państwa wydania orzeczenia, Skarb Państwa występuje do właściwego organu tego państwa o zwrot kwoty pieniężnej stanowiącej równowartość wypłaconego odszkodowania.
-§ 3. Przepisu § 2 nie stosuje się, jeżeli szkoda jest wyłącznym następstwem działania lub zaniechania organu polskiego.
-Art. 611tg. § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie w Rzeczypospolitej Polskiej prawomocnie orzeczonej kary pozbawienia wolności, orzeczenie to podlega wykonaniu przez sąd okręgowy.
-§ 2. Sąd okręgowy na wniosek Ministra Sprawiedliwości, sprawcy lub z urzędu może zwrócić się do właściwego sądu lub innego organu państwa wydania orzeczenia o przekazanie orzeczenia, o którym mowa w § 1, do wykonania, jeżeli pozwoli to w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary.
-§ 3. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
-§ 4. Jeżeli zostaną ujawnione okoliczności przemawiające za tym, iż przejęcie orzeczenia do wykonania nie pozwoli w większym stopniu zrealizować wychowawczych i zapobiegawczych celów kary, sąd zawiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia.
-§ 5. Na wniosek właściwego sądu lub innego organu państwa wydania orzeczenia, sąd może wyrazić zgodę na wykonanie kary pozbawienia wolności, orzeczonej wobec sprawcy niemającego obywatelstwa polskiego lub nieposiadającego stałego lub czasowego miejsca pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli pozwoli to w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary.
-§ 6. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu orzeczeń, o których mowa w § 1, stosuje się przepisy prawa polskiego.
-Art. 611th. § 1. Właściwy do rozpoznania spraw określonych w art. 611tg § 1, 2 i 5 jest sąd okręgowy, w którego okręgu skazany posiada stałe lub czasowe miejsce pobytu.
-§ 2. Jeżeli nie można ustalić właściwości według zasad określonych w § 1, właściwy jest Sąd Okręgowy w Warszawie.
-§ 3. Jeżeli sąd, do którego zostało skierowane orzeczenie, nie jest właściwy do nadania mu biegu, przekazuje je właściwemu sądowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia.
-Art. 611ti. § 1. Sąd rozpoznaje sprawę wykonania orzeczenia, o którym mowa w art. 611tg § 1, na posiedzeniu, w którym ma prawo wziąć udział prokurator, skazany, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Jeżeli skazany, który nie przebywa na terytorium Rzeczypospolitej Polskiej, nie posiada obrońcy, prezes sądu właściwego do rozpoznania sprawy może mu wyznaczyć obrońcę z urzędu.
-§ 2. Skazany może ustnie lub na piśmie wyrazić zgodę na przekazanie lub złożyć oświadczenie o zrzeczeniu się korzystania z prawa określonego w art. 611tm, jeżeli zgoda lub oświadczenie nie zostały złożone w państwie wydania orzeczenia. Art. 611t § 5 stosuje się odpowiednio.
-§ 3. Jeżeli państwo wydania orzeczenia nie przekazało wszystkich informacji potrzebnych do podjęcia decyzji w przedmiocie wykonania orzeczenia, sąd wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do ich uzupełnienia we wskazanym terminie. W razie niedotrzymania terminu postanowienie w przedmiocie wykonania orzeczenia wydaje się w oparciu o posiadane informacje.
-Art. 611tj. § 1. Postanowienie w przedmiocie wykonania orzeczenia, o którym mowa w art. 611tg § 1, sąd wydaje w terminie 40 dni od daty otrzymania orzeczenia wraz z zaświadczeniem.
-§ 2. Na postanowienie sądu w przedmiocie wykonania orzeczenia przysługuje zażalenie.
-§ 3. Postępowanie w przedmiocie wykonania orzeczenia powinno zakończyć się prawomocnie w terminie 90 dni od daty otrzymania orzeczenia wraz z zaświadczeniem.
-§ 4. W wypadku gdy termin określony w § 3 nie może być dotrzymany, należy zawiadomić właściwy sąd lub inny organ państwa wydania orzeczenia, podając przyczynę opóźnienia i przewidywany termin wydania orzeczenia.
-[§ 5. Odpis postanowienia przekazuje się Ministrowi Sprawiedliwości.] <§ 5. Kopię postanowienia przekazuje się Ministrowi Sprawiedliwości.> § 6. Do wykonania orzeczenia właściwego sądu lub innego organu państwa wydania orzeczenia sąd przystępuje niezwłocznie.
-Art. 611tk. § 1. Odmawia się wykonania orzeczenia, o którym mowa w art. 611tg § 1, jeżeli:
-1) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego;
-2) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a orzeczenie w zakresie kary pozbawienia wolności zostało wykonane;
-3) skazany nie wyraża zgody na przekazanie, chyba że:
-a) jest obywatelem polskim i posiada stałe lub czasowe miejsce pobytu na terytorium Rzeczypospolitej Polskiej,
-b) została wobec niego wydana decyzja o wydaleniu lub deportacji na terytorium Rzeczypospolitej Polskiej,
-c) zbiegł na terytorium Rzeczypospolitej Polskiej w obawie przed toczącym się w państwie wydania orzeczenia postępowaniem karnym lub obowiązkiem odbycia orzeczonej kary;
-4) skazany z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania orzeczenia;
-5) naruszałoby to wolności i prawa człowieka i obywatela;
-6) wykonanie kary łączy się z zastosowaniem terapii lub innych środków nieznanych ustawie;
-7) skazany nie jest obywatelem polskim, chyba że zachodzą przesłanki określone w § 4.
-§ 2. Przepisu § 1 pkt 1 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.
-§ 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 611tg § 1, jeżeli:
-1) mimo wezwania przez sąd do uzupełnienia informacji we wskazanym terminie, do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 611tg § 3, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;
-2) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;
-3) skazany nie ma na terytorium Rzeczypospolitej Polskiej stałego ani czasowego miejsca pobytu, chyba że na podstawie prawomocnej decyzji ma zostać wydalony do Polski lub zachodzą przesłanki określone w § 4;
-4) z treści zaświadczenia, o którym mowa w art. 611tg § 3, wynika, iż orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:
-a) skazanego wezwano do udziału w postępowaniu lub w inny sposób zawiadomiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia,
-b) obrońca sprawcy był obecny na rozprawie lub posiedzeniu,
-c) po doręczeniu skazanemu odpisu orzeczenia wraz z pouczeniem o przysługującym mu prawie, terminie i sposobie złożenia w państwie wydania nakazu wniosku o przeprowadzenie z jego udziałem nowego postępowania sądowego w tej samej sprawie, skazany w ustawowym terminie nie złożył takiego wniosku albo oświadczył, że nie kwestionuje orzeczenia;
-5) orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;
-6) w chwili otrzymania orzeczenia pozostała do wykonania kara jest krótsza niż 6 miesięcy pozbawienia wolności;
-7) skazany nie podlega jurysdykcji polskich sądów karnych, lub też brak jest wymaganego zezwolenia na jego ściganie;
-8) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii;
-9) organ państwa wydania orzeczenia nie wyraził zgody na podstawie art. 607e § 3 pkt 8 w związku z art. 611tm na to, by sprawcę ścigać za przestępstwo inne niż to, które stanowiło podstawę przekazania, lub by wykonać orzeczoną wobec niego karę pozbawienia wolności za inne przestępstwo.
-§ 4. Sąd może wyrazić zgodę na przejęcie do wykonania orzeczenia, o którym mowa w art. 611tg § 1, zapadłego wobec skazanego niebędącego obywatelem polskim lub niemającego na terytorium Rzeczypospolitej Polskiej stałego ani czasowego miejsca pobytu, jeżeli ze względu na sytuację rodzinną lub szczególne warunki osobiste skazanego przejęcie orzeczenia pozwoli w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary.
-§ 5. W wypadkach przewidzianych w § 1 pkt 2, 3 i 6 oraz w § 3 pkt 1, 2, 4, 5 i 8 sąd przed podjęciem decyzji w przedmiocie wykonania orzeczenia informuje o możliwości odmowy wykonania orzeczenia właściwy sąd lub inny organ państwa wydania orzeczenia.
-Art. 611tl. § 1. Orzekając o wykonaniu kary pozbawienia wolności, sąd określa kwalifikację prawną czynu według prawa polskiego. Art. 607s § 4 stosuje się odpowiednio. Na poczet orzeczonej lub wykonywanej kary pozbawienia wolności zalicza się okres faktycznego pozbawienia wolności w państwie wydania orzeczenia.
-§ 2. Jeżeli rodzaj kary polegającej na pozbawieniu wolności jest nieznany ustawie, sąd określa podlegającą wykonaniu karę jako karę pozbawienia wolności.
-Jeżeli przestępstwo zgodnie z przyjętą według prawa polskiego kwalifikacją prawną nie jest zagrożone karą pozbawienia wolności, wykonuje się karę orzeczoną przez sąd państwa wydania orzeczenia w wymiarze nieprzekraczającym 6 miesięcy pozbawienia wolności.
-Art. 611tm. § 1. W postępowaniu w przedmiocie wykonania orzeczenia dotyczącego kary pozbawienia wolności prawomocnie orzeczonej przez sąd innego państwa członkowskiego Unii Europejskiej stosuje się odpowiednio art. 607e.
-§ 2. Na wniosek właściwego sądu lub innego organu państwa wydania orzeczenia sąd udziela informacji o treści prawa polskiego mającego zastosowanie do warunkowego zwolnienia. Jeżeli sąd lub inny organ państwa wydania orzeczenia cofnie wystąpienie do czasu rozpoczęcia wykonywania kary, orzeczenie nie podlega wykonaniu.
-Art. 611tn. § 1. W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, iż orzeczenie przekazane do wykonania nie podlega dalszemu wykonaniu, sąd wydaje niezwłocznie postanowienie o umorzeniu postępowania wykonawczego.
-§ 2. Jeżeli dalsze wykonywanie orzeczenia nie jest możliwe z przyczyn faktycznych lub prawnych, sąd niezwłocznie wydaje postanowienie o umorzeniu postępowania wykonawczego i zawiadamia właściwy sąd lub inny organ państwa wydania orzeczenia.
-Art. 611to. § 1. Jeżeli skazany znajduje się na terytorium Rzeczypospolitej Polskiej, sąd z urzędu lub na wniosek właściwego sądu lub innego organu państwa wydania orzeczenia może wydać postanowienie o tymczasowym aresztowaniu.
-Zamiast tymczasowego aresztowania sąd może zastosować inny środek zapobiegawczy, jeżeli jest on wystarczający do zapewnienia, iż skazany pozostanie na terytorium Rzeczypospolitej Polskiej do czasu podjęcia decyzji w przedmiocie wykonania orzeczenia.
-§ 2. Jeżeli zastosowanie środka określonego w § 1 następuje w wyniku wniosku państwa wydania orzeczenia przed otrzymaniem orzeczenia wraz z zaświadczeniem, art. 605 § 5 i 6 i art. 607k § 3a stosuje się odpowiednio.
-§ 3. Sąd może zastosować tymczasowe aresztowanie, oznaczając jego termin na czas niezbędny do przekazania skazanego z terytorium państwa członkowskiego Unii Europejskiej i doprowadzenia do zakładu karnego. Łączny okres stosowania tymczasowego aresztowania nie może przekroczyć 100 dni. Samoistną podstawą zastosowania tymczasowego aresztowania jest orzeczenie o wykonaniu kary pozbawienia wolności orzeczonej w innym państwie członkowskim Unii Europejskiej.
-Art. 611tp. § 1. Na wniosek państwa wydania orzeczenia Minister Sprawiedliwości udziela zezwolenia na przewóz sprawcy przez terytorium Rzeczypospolitej Polskiej, w terminie 7 dni od daty otrzymania wniosku.
-§ 2. Do wniosku o zezwolenie na przewóz, o którym mowa w § 1, powinno być załączone zaświadczenie, o którym mowa w art. 611tg § 3. Wydanie zezwolenia, o którym mowa w § 1, można odroczyć do czasu uzyskania tłumaczenia zaświadczenia na język polski.
-§ 3. Minister Sprawiedliwości informuje właściwy organ państwa wydania orzeczenia, iż art. 607e § 1 nie znajduje zastosowania w odniesieniu do przestępstwa popełnionego lub kary pozbawienia wolności orzeczonej przed opuszczeniem przez skazanego terytorium państwa wydania.
-§ 4. Art. 607zb § 2–4 stosuje się odpowiednio.
-Art. 611tr. § 1. O treści postanowienia w przedmiocie wykonania orzeczenia, o którym mowa w art. 611tj § 1, oraz o istotnych orzeczeniach zapadłych w trakcie postępowania wykonawczego, jak również o ucieczce lub ukryciu się skazanego zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Zawiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
-§ 2. W wypadku ucieczki lub ukrycia się skazanego postępowanie wykonawcze umarza się. Jeżeli miejsce pobytu skazanego na terytorium Rzeczypospolitej Polskiej zostanie następnie ustalone, zawiadamia się o tym niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Orzeczona w tym państwie kara pozbawienia wolności może być wykonywana, jeżeli jego właściwy sąd lub inny organ ponownie skieruje wystąpienie, o którym mowa w art. 611tg § 1.
-Art. 611ts. Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611tg § 1, ponosi Skarb Państwa, z wyjątkiem kosztów przekazania sprawcy na terytorium Rzeczypospolitej Polskiej.
-Art. 611ud. § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie prawomocnego orzeczenia skazującego na karę pozbawienia wolności z warunkowym zawieszeniem jej wykonania albo na samoistną karę lub środek niepolegający na pozbawieniu wolności lub na grzywnie, bądź orzekającego o warunkowym zwolnieniu, warunkowym umorzeniu postępowania karnego lub innym warunkowym odroczeniu wykonania kary, orzeczenie to podlega wykonaniu przez sąd rejonowy, w którego okręgu sprawca posiada legalne stałe miejsce pobytu, jeżeli w wyznaczonym okresie próby nakłada ono na sprawcę obowiązek:
-1) stawiennictwa przed określonym organem;
-2) informowania określonego organu o zmianie miejsca pobytu lub miejsca pracy albo uzyskiwania zgody na taką zmianę;
-3) przebywania albo powstrzymania się od przebywania w określonych środowiskach lub miejscach, w tym również jeśli orzeczenie zakazuje wstępu do określonych miejsc lub na imprezy o charakterze masowym;
-4) powstrzymania się od kontaktowania z określonymi osobami lub zbliżania się do określonych osób;
-5) powstrzymania się od posiadania określonych przedmiotów;
-6) łożenia na utrzymanie innej osoby;
-7) naprawienia szkody;
-8) nauki;
-9) wykonywania nieodpłatnej, kontrolowanej pracy na cele społeczne, pracy społecznie użytecznej lub pracy zarobkowej;
-10) poddania się określonym zakazom albo ograniczeniom w wykonywaniu zawodu, prowadzeniu działalności zawodowej lub gospodarczej;
-11) poddania się leczeniu albo oddziaływaniom terapeutycznym;
-12) poddania się dozorowi kuratora, pracownika społecznego lub instytucji publicznej, do której działalności należy troska o wychowanie, zapobieganie demoralizacji lub pomoc skazanym.
-§ 2. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
-§ 3. Jeżeli sąd, do którego zostało skierowane wystąpienie, nie jest właściwy do nadania mu biegu, przekazuje je właściwemu sądowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia. Art. 32 § 3 stosuje się odpowiednio.
-§ 4. Na wniosek właściwego sądu lub innego organu państwa wydania orzeczenia, sąd może wyrazić zgodę na wykonanie kary lub środka, o których mowa w § 1, orzeczonego wobec sprawcy nieposiadającego legalnego stałego miejsca pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli pozwoli to w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary lub środka.
-§ 5. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu orzeczeń, o których mowa w § 1, stosuje się przepisy prawa polskiego.
-Art. 611c § 3 stosuje się odpowiednio.
-Art. 611ue. § 1. Sąd rozpoznaje sprawę wykonania orzeczenia, o którym mowa w art. 611ud § 1, na posiedzeniu, w którym ma prawo wziąć udział prokurator, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Jeżeli sprawca, który nie przebywa na terytorium Rzeczypospolitej Polskiej, nie posiada obrońcy, prezes sądu właściwego do rozpoznania sprawy może mu wyznaczyć obrońcę z urzędu.
-§ 2. Jeżeli państwo wydania orzeczenia nie przekazało wszystkich informacji potrzebnych do podjęcia decyzji w przedmiocie wykonania orzeczenia, sąd wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do ich uzupełnienia we wskazanym terminie. W razie niedotrzymania terminu, postanowienie w przedmiocie wykonania orzeczenia wydaje się w oparciu o posiadane informacje.
-§ 3. Orzekając o wykonaniu kary lub środka, o których mowa w art. 611ud § 1, sąd określa kwalifikację prawną czynu według prawa polskiego. Jeżeli rodzaj kary lub środka albo sposób wykonania nałożonych obowiązków są nieznane ustawie, sąd określa karę, środek lub obowiązek według prawa polskiego. Podstawę określenia kary lub środka podlegającego wykonaniu stanowi orzeczenie wydane przez sąd państwa członkowskiego Unii Europejskiej, kara grożąca za taki czyn w polskim prawie oraz okres rzeczywistego wykonywania kary, środka lub obowiązku za granicą, z uwzględnieniem różnic na korzyść skazanego. Jeżeli wymiar kary, środka, obowiązku lub okresu próby jest wyższy niż przewidziany w ustawie, sąd określa go w górnej granicy wymiaru według prawa polskiego.
-§ 4. Jeżeli orzeczenie, o którym mowa w art. 611ud § 1, nie określa kary pozbawienia wolności, która będzie wymierzona sprawcy w wypadku niewykonywania nałożonych obowiązków lub podjęcia warunkowo umorzonego postępowania karnego, sąd orzeka o wykonaniu orzeczenia jedynie w zakresie nałożonych w nim obowiązków. Art. 611ub § 2 i 3 stosuje się odpowiednio.
-Art. 611uf. § 1. Postanowienie w przedmiocie wykonania orzeczenia, o którym mowa w art. 611ud § 1, sąd wydaje w terminie 30 dni od daty otrzymania orzeczenia wraz z zaświadczeniem.
-§ 2. Na postanowienie sądu w przedmiocie wykonania orzeczenia przysługuje zażalenie.
-§ 3. Postępowanie w przedmiocie wykonania orzeczenia powinno zakończyć się prawomocnie w terminie 60 dni od daty otrzymania orzeczenia wraz z zaświadczeniem.
-§ 4. W wypadku gdy termin określony w § 3 nie może być dotrzymany, należy zawiadomić właściwy sąd lub inny organ państwa wydania orzeczenia, podając przyczynę opóźnienia i przewidywany termin wydania orzeczenia.
-§ 5. Do wykonania orzeczenia właściwego sądu lub innego organu państwa wydania orzeczenia sąd przystępuje niezwłocznie.
-Art. 611ug. § 1. Odmawia się wykonania orzeczenia, o którym mowa w art. 611ud § 1, jeżeli:
-1) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego;
-2) sprawca nie przebywa na terytorium Rzeczypospolitej Polskiej, chyba że istnieją podstawy do uznania, że sprawca na nie powróci.
-§ 2. Przepisu § 1 pkt 1 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.
-§ 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 611ud § 1, jeżeli:
-1) mimo wezwania przez sąd do uzupełnienia informacji we wskazanym terminie, do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 611ud § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;
-2) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a orzeczenie w zakresie kary pozbawienia wolności z warunkowym zawieszeniem wykonania albo samoistnej kary lub środka niepolegającego na pozbawieniu wolności lub na grzywnie zostało wykonane;
-3) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;
-4) orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;
-5) sprawca z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania orzeczenia;
-6) sprawca korzysta z immunitetu, zgodnie z którym niemożliwy jest nadzór nad przestrzeganiem nałożonych obowiązków;
-7) z treści zaświadczenia, o którym mowa w art. 611ud § 2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:
-a) sprawcę wezwano do udziału w postępowaniu lub w inny sposób zawiadomiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia,
-b) obrońca sprawcy był obecny na rozprawie lub posiedzeniu,
-c) po doręczeniu sprawcy odpisu orzeczenia wraz z pouczeniem o przysługującym mu prawie, terminie i sposobie złożenia w państwie wydania nakazu wniosku o przeprowadzenie z jego udziałem nowego postępowania sądowego w tej samej sprawie, sprawca w ustawowym terminie nie złożył takiego wniosku albo oświadczył, że nie kwestionuje orzeczenia;
-8) orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 611ud § 1 lub zostało przekazane pomimo niespełnienia warunków przewidzianych w art. 611u;
-9) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii;
-10) orzeczenie przewiduje środek związany z leczeniem, nieznany ustawie;
-11) pozostały czas wykonania nałożonych obowiązków jest krótszy niż 6 miesięcy.
-§ 4. W wypadkach wskazanych w § 1 i 3, gdy przemawiają za tym szczególne względy, sąd, w uzgodnieniu z właściwym sądem lub innym organem państwa wydania orzeczenia, może orzec o wykonaniu orzeczenia jedynie w zakresie nałożonych w nim obowiązków. W zakresie zarządzenia wykonania kary, odwołania warunkowego zwolnienia, orzeczenia kary zastępczej oraz ustanowienia, rozszerzenia, zmiany i zwolnienia od wykonania nałożonych obowiązków w okresie próby albo uznania kary lub środka za wykonane – orzeczenie wykonuje właściwy sąd lub inny organ państwa wydania orzeczenia, chyba że uzgodniono inaczej.
-§ 5. W wypadkach przewidzianych w § 1 pkt 2 oraz w § 3 pkt 1, 2, 4, 7 lub 9– 11 sąd przed podjęciem decyzji w przedmiocie wykonania orzeczenia informuje o możliwości odmowy wykonania orzeczenia właściwy sąd lub inny organ państwa wydania orzeczenia.
-Art. 611uh. § 1. W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, iż orzeczenie przekazane do wykonania nie podlega dalszemu wykonaniu, sąd niezwłocznie wydaje postanowienie o umorzeniu postępowania wykonawczego.
-§ 2. Jeżeli dalsze wykonywanie orzeczenia nie jest możliwe z przyczyn faktycznych lub prawnych, sąd niezwłocznie wydaje postanowienie o umorzeniu postępowania wykonawczego i zawiadamia właściwy sąd lub inny organ państwa wydania orzeczenia.
-§ 3. W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, iż przeciwko sprawcy wszczęto nowe postępowanie karne i na uzasadniony wniosek tego sądu lub organu, sąd może wyrazić zgodę na cofnięcie wystąpienia, o którym mowa w art. 611ud § 1, mając na uwadze cele kary lub środka, okres ich wykonywania oraz postawę sprawcy. Sąd umożliwia sprawcy, przebywającemu na terytorium Rzeczypospolitej Polskiej, zajęcie stanowiska ustnie lub na piśmie w przedmiocie cofnięcia wystąpienia. Wyrażając zgodę na cofnięcie wystąpienia, sąd umarza postępowanie wykonawcze.
-Art. 611ui. O treści postanowienia w przedmiocie wykonania orzeczenia, o którym mowa w art. 611ud § 1, oraz o istotnych orzeczeniach zapadłych w trakcie postępowania wykonawczego zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Zawiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
-Art. 611uj. Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611ud § 1, ponosi Skarb Państwa.
-Art. 611wd. § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania nakazu”, o wykonanie europejskiego nakazu ochrony, wydanego na podstawie orzeczenia nakładającego na osobę, przeciwko której jest lub było prowadzone postępowanie karne, obowiązek polegający na powstrzymaniu się od przebywania w określonych środowiskach lub miejscach lub kontaktowania się z określonymi osobami, lub zbliżania się do określonych osób, nakaz ten podlega wykonaniu przez prokuratora właściwego miejscowo ze względu na miejsce pobytu osoby podlegającej ochronie.
-§ 2. Nakaz powinien zawierać informacje umożliwiające jego prawidłowe wykonanie. Do nakazu powinno być dołączone orzeczenie, o którym mowa w § 1, lub jego odpis poświadczony za zgodność z oryginałem. W odniesieniu do zawartych w nakazie danych dotyczących miejsca pobytu i pracy osoby podlegającej ochronie stosuje się odpowiednio art. 148a.
-§ 3. Jeżeli prokurator, do którego został skierowany nakaz, nie jest właściwy do nadania mu biegu, przekazuje go właściwemu prokuratorowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania nakazu.
-§ 4. Jeżeli wniosek o wydanie nakazu został skierowany przez osobę podlegającą ochronie na podstawie orzeczenia wydanego w innym państwie członkowskim Unii Europejskiej bezpośrednio do polskiego prokuratora, z pominięciem właściwego organu, prokurator przekazuje wniosek właściwemu sądowi lub innemu organowi w państwie, w którym wydano orzeczenie wobec osoby, przeciwko której jest lub było prowadzone postępowanie karne.
-§ 5. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu nakazu stosuje się przepisy prawa polskiego.
-Art. 611we. § 1. Jeżeli państwo wydania nakazu nie przekazało wszystkich informacji potrzebnych do podjęcia decyzji w przedmiocie wykonania europejskiego nakazu ochrony, prokurator wzywa właściwy sąd lub inny organ państwa wydania nakazu do ich uzupełnienia we wskazanym terminie. W razie niedotrzymania terminu postanowienie w przedmiocie wykonania nakazu wydaje się w oparciu o posiadane informacje.
-§ 2. Jeżeli rodzaj albo sposób wykonania obowiązków są nieznane ustawie, prokurator określa obowiązek według prawa polskiego, z uwzględnieniem różnic na korzyść osoby, przeciwko której jest lub było prowadzone postępowanie karne.
-Art. 611wf. § 1. Na postanowienie prokuratora w przedmiocie wykonania europejskiego nakazu ochrony przysługuje zażalenie do sądu rejonowego, w którego okręgu wydano to postanowienie. Sąd rozpoznaje zażalenie na posiedzeniu, w którym ma prawo wziąć udział prokurator, osoba, przeciwko której jest lub było prowadzone postępowanie karne, i osoba podlegająca ochronie, jeżeli przebywają na terytorium Rzeczypospolitej Polskiej, oraz obrońca i pełnomocnik, jeżeli stawią się na nie. Jeżeli osoba, przeciwko której jest lub było prowadzone postępowanie karne, nie przebywa na terytorium Rzeczypospolitej Polskiej ani nie posiada obrońcy, prezes sądu właściwego do rozpoznania zażalenia może jej wyznaczyć obrońcę z urzędu.
-§ 2. Do wykonania nakazu prokurator przystępuje niezwłocznie.
-Art. 611wg. § 1. Odmawia się wykonania europejskiego nakazu ochrony, jeżeli osoba podlegająca ochronie nie przebywa na terytorium Rzeczypospolitej Polskiej, chyba że istnieją podstawy do uznania, że zamierza na nim przebywać.
-§ 2. Można odmówić wykonania nakazu, jeżeli:
-1) czyn, w związku z którym nałożono obowiązek, nie stanowi przestępstwa według prawa polskiego;
-2) pomimo wezwania przez prokuratora do uzupełnienia informacji we wskazanym terminie do nakazu nie dołączono orzeczenia, o którym mowa w art. 611wd § 1, albo jest on niekompletny lub w sposób oczywisty niezgodny z treścią orzeczenia;
-3) orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a osoba ta odbywa lub odbyła karę albo kara nie może zostać wykonana według prawa państwa, w którym zapadł wyrok skazujący;
-4) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;
-5) orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;
-6) osoba, przeciwko której jest lub było prowadzone postępowanie karne, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyn będący podstawą wydania orzeczenia;
-7) osoba, przeciwko której jest lub było prowadzone postępowanie karne, korzysta z immunitetu, zgodnie z którym jest niemożliwy nadzór nad przestrzeganiem nałożonych obowiązków;
-8) orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 611wd § 1;
-9) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii.
-Art. 611wh. § 1. W razie otrzymania od właściwego sądu lub innego organu państwa wydania nakazu informacji o tym, iż europejski nakaz ochrony nie podlega dalszemu wykonaniu, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu jego wykonywania.
-§ 2. Jeżeli dalsze wykonywanie nakazu nie jest możliwe z przyczyn faktycznych lub prawnych, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu jego wykonywania i zawiadamia o tym właściwy sąd lub inny organ państwa wydania nakazu, osobę, przeciwko której jest lub było prowadzone postępowanie karne, oraz osobę podlegającą ochronie, jeżeli przebywają na terytorium Rzeczypospolitej Polskiej.
-§ 3. W razie otrzymania od właściwego sądu lub innego organu państwa wydania nakazu informacji o zmianie obowiązku nałożonego na osobę, przeciwko której jest lub było prowadzone postępowanie karne, prokurator rozpoznaje sprawę wykonania zmienionego nakazu na zasadach określonych w niniejszym rozdziale. Przepisu art. 611wg nie stosuje się, z wyjątkiem § 1 i § 2 pkt 2 i 8.
-Art. 611wi. § 1. O treści postanowienia w przedmiocie wykonania europejskiego nakazu ochrony, o wniesieniu środka odwoławczego od tego postanowienia, o istotnych orzeczeniach zapadłych w trakcie postępowania, jak również o zmianie miejsca pobytu osoby, przeciwko której jest lub było prowadzone postępowanie karne, albo osoby podlegającej ochronie zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu.
-§ 2. Prokurator zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu o wszelkich okolicznościach mających wpływ na jego wykonanie, w szczególności o naruszeniu nałożonego obowiązku. Zawiadomienie o naruszeniu tego obowiązku następuje w formie zaświadczenia zawierającego informacje dotyczące osoby, przeciwko której jest lub było prowadzone postępowanie karne, oraz naruszonego obowiązku.
-§ 3. W razie uzyskania informacji o naruszeniu nałożonego obowiązku prokurator może przedsięwziąć osobiście lub zlecić Policji sprawdzenie faktów w tym zakresie. Za zgodą osoby podlegającej ochronie prokurator może również wystąpić do właściwego komendanta Policji z wnioskiem o zastosowanie środków ochrony i pomocy przewidzianych w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka.
-§ 4. W razie ustania przyczyn nałożenia obowiązku lub powstania przyczyn uzasadniających jego uchylenie lub zmianę prokurator może wystąpić do właściwego sądu lub innego organu państwa wydania nakazu o uchylenie lub zmianę nakazu.
-§ 5. Zawiadomienia, o których mowa w § 1 i 2, oraz wystąpienie, o którym mowa w § 4, mogą zostać przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
-§ 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 2, mając na uwadze konieczność udostępnienia państwu wydania nakazu wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji.
-Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 ### DZIAŁ I Przepisy wstępne
 
@@ -817,7 +378,11 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1a. W wypadkach określonych w ustawie czynności procesowe wykonuje prokurator bezpośrednio przełożony lub prokurator nadrzędny.
 
-§ 1b. (uchylony) § 1c. (uchylony) § 2. Inny organ państwowy może być oskarżycielem publicznym z mocy szczególnych przepisów ustawy, określających zakres jego działania.
+§ 1b. (uchylony)
+
+§ 1c. (uchylony)
+
+§ 2. Inny organ państwowy może być oskarżycielem publicznym z mocy szczególnych przepisów ustawy, określających zakres jego działania.
 
 **Art. 46.**
 
@@ -976,7 +541,7 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 2. Jeżeli w terminie zawitym 3 miesięcy od dnia śmierci oskarżyciela prywatnego osoba uprawniona nie wstąpi w prawa zmarłego, sąd lub referendarz sądowy umarza postępowanie.
 
-#### Rozdział 7
+#### Rozdział 7 (zawierający art. 62–70 – uchylony)
 
 #### Rozdział 8 Oskarżony
 
@@ -1149,7 +714,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 88.**
 
-§ 1. Pełnomocnikiem może być adwokat, radca prawny lub radca Prokuratorii Generalnej Rzeczypospolitej Polskiej. Pełnomocnika z urzędu wyznacza prezes lub referendarz sądowy sądu właściwego do rozpoznania sprawy. Do pełnomocnika stosuje się odpowiednio przepisy art. 77, art. 78, art. 78a, art. 81 § 1a–2, art. 81a § 1–3, art. 83, art. 84, art. 86 § 2 oraz przepisy wydane na podstawie art. 81a § 4. 2. Na zasadach określonych w odrębnej ustawie czynności zastępstwa wykonuje Prokuratoria Generalna Rzeczypospolitej Polskiej.
+§ 1. Pełnomocnikiem może być adwokat, radca prawny lub radca Prokuratorii Generalnej Rzeczypospolitej Polskiej. Pełnomocnika z urzędu wyznacza prezes lub referendarz sądowy sądu właściwego do rozpoznania sprawy. Do pełnomocnika stosuje się odpowiednio przepisy art. 77, art. 78, art. 78a, art. 81 § 1a–2, art. 81a § 1–3, art. 83, art. 84, art. 86 § 2 oraz przepisy wydane na podstawie art. 81a
+
+§ 4. 2. Na zasadach określonych w odrębnej ustawie czynności zastępstwa wykonuje Prokuratoria Generalna Rzeczypospolitej Polskiej.
 
 **Art. 89.** W kwestiach dotyczących pełnomocnika, a nieunormowanych przez przepisy niniejszego kodeksu, stosuje się odpowiednio przepisy obowiązujące w postępowaniu cywilnym.
 
@@ -1235,7 +802,11 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1. W sprawach wskazanych w art. 2a § 1 i 2 Kodeksu wykroczeń orzeka na posiedzeniu sąd, który wydał wyrok w pierwszej instancji.
 
-§ 2. Na postanowienie przysługuje zażalenie. Art. 95aa. § 1. W sprawach wskazanych w art. 4 § 2–4 Kodeksu karnego orzeka na posiedzeniu sąd, który wydał wyrok w pierwszej instancji.
+§ 2. Na postanowienie przysługuje zażalenie.
+
+**Art. 95aa.**
+
+§ 1. W sprawach wskazanych w art. 4 § 2–4 Kodeksu karnego orzeka na posiedzeniu sąd, który wydał wyrok w pierwszej instancji.
 
 § 2. Przy orzekaniu sąd bierze pod uwagę czyn objęty wyrokiem i przypisany sprawcy na podstawie ustaleń faktycznych przyjętych za podstawę tego wyroku.
 
@@ -1384,7 +955,15 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 3. Jeżeli nie można uzyskać podpisu przewodniczącego lub innego członka składu orzekającego, jeden z podpisujących czyni o tym wzmiankę na uzasadnieniu z zaznaczeniem przyczyny tego faktu.
 
-#### Rozdział 13 Porządek czynności procesowych [Art. 116. Jeżeli ustawa nie stanowi inaczej, strony i inni uprawnieni do wzięcia udziału w czynności procesowej mogą składać wnioski i inne oświadczenia na piśmie albo ustnie do protokołu.] <Art. 116. § 1. Jeżeli ustawa nie stanowi inaczej, strony i inni uprawnieni do wzięcia udziału w czynności procesowej mogą składać oświadczenia, w tym wnioski, na piśmie albo ustnie do protokołu. Za oświadczenie złożone na piśmie uważa się również oświadczenie złożone elektronicznie.
+#### Rozdział 13 Porządek czynności procesowych
+
+**Art. 116.**
+
+§ 1. Jeżeli ustawa nie stanowi inaczej, strony i inni uprawnieni do wzięcia udziału w czynności procesowej mogą składać oświadczenia, w tym wnioski, na piśmie albo ustnie do protokołu. Za oświadczenie złożone na piśmie uważa się również oświadczenie złożone elektronicznie.
+
+§ 2. Oświadczenie składane elektronicznie opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym i wysyła na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3), zwany dalej „adresem do doręczeń elektronicznych”, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.
+
+§ 3. Oświadczenie złożone elektronicznie włącza się do akt sprawy.>
 
 **Art. 116a.**
 
@@ -1404,7 +983,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 3a. Niestawiennictwo strony, która została należycie zawiadomiona o czynności procesowej, niezależnie od jego przyczyny, nie stoi na przeszkodzie przeprowadzeniu tej czynności, jeżeli stawił się jej obrońca lub pełnomocnik. Nie dotyczy to czynności, w której udział strony jest obowiązkowy.
 
-§ 4. (uchylony) § 5. Przepisu § 2a nie stosuje się do osób pozbawionych wolności, których zasady usprawiedliwiania niestawiennictwa regulują odrębne przepisy.
+§ 4. (uchylony)
+
+§ 5. Przepisu § 2a nie stosuje się do osób pozbawionych wolności, których zasady usprawiedliwiania niestawiennictwa regulują odrębne przepisy.
 
 **Art. 117a.**
 
@@ -1440,6 +1021,14 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 **Art. 119a.** Dokumenty dołączane do pisma procesowego wnoszonego za pośrednictwem portalu informacyjnego obrońca lub pełnomocnik będący adwokatem, radcą prawnym lub radcą Prokuratorii Generalnej Rzeczypospolitej Polskiej opatrują kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Strona, która powołuje się w piśmie na dokument, jest obowiązana na żądanie sądu lub strony przeciwnej złożyć oryginał dokumentu w sądzie jeszcze przed rozprawą.
 
 **Art. 120.** [§ 1. Jeżeli pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 lub w przepisach szczególnych, a brak jest tego rodzaju, że pismo nie może otrzymać biegu, albo brak polega na niezłożeniu należytych opłat lub upoważnienia do podjęcia czynności procesowej, wzywa się osobę, która wniosła pismo, do usunięcia braku w terminie 7 dni.] <§ 1. Jeżeli:
+
+- **1)** pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 § 1 pkt 1, pkt 2 lit. b, pkt 3 i 4 lub § 2 lub w przepisach szczególnych, a brak jest tego rodzaju, że pismo nie może otrzymać biegu,
+- **2)** pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 § 1 pkt 2 lit. a,
+- **3)** brak polega na niezłożeniu należytych opłat lub upoważnienia do podjęcia czynności procesowej – wzywa się osobę, która wniosła pismo, do usunięcia braku w terminie 7 dni.> <§ 1a. Wzywając do usunięcia braku, o którym mowa w § 1 pkt 2, osobę, która wniosła pismo, należy pouczyć o skutkach procesowych wyrażenia zgody albo jej braku.>
+
+§ 2. W razie uzupełnienia braku w terminie, pismo wywołuje skutki od dnia jego wniesienia. W razie nieuzupełnienia braku w terminie, pismo uznaje się za bezskuteczne, o czym należy pouczyć przy doręczeniu wezwania.
+
+§ 3. W postępowaniu przed sądem zarządzenia w sprawach, o których mowa w § 1 i 2, może wydać także referendarz sądowy.
 
 **Art. 121.** Jeżeli osoba uczestnicząca w czynności procesowej odmawia podpisu lub nie może go złożyć, organ dokonujący czynności zaznacza przyczynę braku podpisu.
 
@@ -1491,6 +1080,12 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 128.** [§ 1. Orzeczenia i zarządzenia doręcza się w uwierzytelnionych odpisach, jeżeli ustawa nakazuje ich doręczenie.] <§ 1. Orzeczenie albo podlegające zaskarżeniu zarządzenie doręcza się w postaci kopii tego orzeczenia albo zarządzenia zamieszczonego w systemie teleinformatycznym, o którym mowa w art. 100a, opatrzonej unikalnym oznaczeniem identyfikującym.> <§ 1a. Orzeczenie albo zarządzenie doręcza się, jeżeli ustawa tak stanowi.
 
+§ 1b. Przepis § 1 stosuje się odpowiednio do aktu oskarżenia, wniosku o wydanie wyroku skazującego, wniosku o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosku o warunkowe umorzenie postępowania, wniosku o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.>
+
+§ 2. Wszelkie pisma przeznaczone dla uczestników postępowania doręcza się w taki sposób, by treść ich nie była udostępniona osobom niepowołanym.
+
+§ 3. Orzeczenia i zarządzenia mogą być doręczane przez umieszczenie ich treści w portalu informacyjnym.
+
 **Art. 129.**
 
 § 1. W wezwaniu należy oznaczyć organ wysyłający oraz podać, w jakiej sprawie, w jakim charakterze, miejscu i czasie ma się stawić adresat i czy jego stawiennictwo jest obowiązkowe, a także uprzedzić o skutkach niestawiennictwa.
@@ -1503,11 +1098,54 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 131.** [§ 1. Wezwania, zawiadomienia oraz inne pisma, od których daty doręczenia biegną terminy, doręcza się przez:
 
-**Art. 132.** [§ 1. Pismo doręcza się adresatowi osobiście.] <§ 1. Pismo doręczane w sposób wskazany w art. 131 § 1 pkt 2 lub § 1a doręcza się adresatowi osobiście.> § 1a. Na wniosek adresata doręczenie może być dokonane na wskazany przez niego adres skrytki pocztowej. [W tym wypadku pismo przesłane za pośrednictwem operatora pocztowego, o którym mowa w art. 131 § 1 pkt 1, składa się w placówce pocztowej tego operatora, umieszczając zawiadomienie o tym w skrytce pocztowej adresata.] <W tym wypadku pismo przesłane za pośrednictwem operatora, o którym mowa w art. 131 § 1a pkt 1 lub 2, składa się w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, umieszczając zawiadomienie o tym w skrytce pocztowej adresata.> § 2. W razie chwilowej nieobecności adresata w jego mieszkaniu pismo doręcza się dorosłemu domownikowi. W razie nieobecności domownika pismo doręcza się administracji domu, dozorcy domu lub sołtysowi, jeżeli podejmą się oddać pismo adresatowi. Przepis art. 133 § 2 stosuje się odpowiednio.
+- **1)** operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456);
+- **2)** pracownika organu wysyłającego;
+- **3)** organ procesowy dokonujący czynności procesowej – w toku tej czynności;
+- **4)** Policję – tylko w razie niezbędnej konieczności.] <§ 1. Wezwania, zawiadomienia oraz inne pisma doręcza się:
+- **1)** na adres do doręczeń elektronicznych; doręczenia podmiotowi niepublicznemu, o którym mowa w art. 2 pkt 5 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, dokonuje się za jego zgodą wyrażoną w tym postępowaniu;
+- **2)** przez organ procesowy dokonujący czynności procesowej – w toku tej czynności.> <§ 1a. Jeżeli doręczenia nie można dokonać w sposób wskazany w § 1, doręczenia dokonuje się:
+- **1)** przez operatora wyznaczonego w ramach publicznej usługi hybrydowej, o której mowa w art. 2 pkt 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych;
+- **2)** przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456);
+- **3)** przez pracownika organu wysyłającego;
+- **4)** przez Policję – tylko w razie niezbędnej konieczności.>
 
-**Art. 133.** [§ 1. Jeżeli doręczenia nie można dokonać w sposób wskazany w art. 132, pismo przesłane za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe pozostawia się w najbliższej placówce pocztowej tego operatora pocztowego, a przesłane w inny sposób w najbliższej jednostce Policji albo we właściwym urzędzie gminy.] <§ 1. Jeżeli doręczenia nie można dokonać w sposób wskazany w art. 132, pismo przesłane za pośrednictwem operatora, o którym mowa w art. 131 § 1a pkt 1 lub 2, pozostawia się w najbliższej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, a przesłane w inny sposób w najbliższej jednostce Policji albo we właściwym urzędzie gminy.> § 2. O pozostawieniu pisma w myśl § 1 doręczający umieszcza zawiadomienie w skrzynce do doręczania korespondencji bądź na drzwiach mieszkania adresata lub w innym widocznym miejscu ze wskazaniem, gdzie i kiedy pismo pozostawiono oraz że należy je odebrać w ciągu 7 dni; w razie bezskutecznego upływu tego terminu, należy czynność zawiadomienia powtórzyć jeden raz. W razie dokonania tych czynności pismo uznaje się za doręczone.
+§ 2. Jeżeli w sprawie ustalono tylu pokrzywdzonych, że ich indywidualne zawiadomienie o przysługujących im uprawnieniach spowodowałoby poważne utrudnienie w prowadzeniu postępowania, zawiadamia się ich poprzez ogłoszenie w prasie, radiu, telewizji lub na stronie internetowej sądu albo prokuratury.
 
-**Art. 133a.** [§ 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, przez umieszczenie ich treści w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, w sposób umożliwiający uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.] <§ 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, a także stronie, która dokonała wyboru takiego sposobu doręczania, przez umieszczenie ich treści w portalu informacyjnym w sposób, który umożliwia uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.> <§ 1a. Oświadczenie o wyborze doręczeń dokonywanych w sposób, o którym mowa w § 1, lub oświadczenie o rezygnacji z nich strona składa za pośrednictwem portalu informacyjnego i opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Oświadczenie o rezygnacji z doręczeń dokonywanych w sposób, o którym mowa w § 1, można złożyć również na piśmie.> § 2. Sąd może doręczyć pismo procesowe lub inne pismo w sposób określony w § 1, jeżeli dysponuje nim w postaci elektronicznej. Nie dotyczy to pism, które podlegają doręczeniu wraz z odpisami pism procesowych stron lub innymi dokumentami niepochodzącymi od sądu, chyba że zostały złożone przez umieszczenie ich treści w portalu informacyjnym na podstawie art. 428 § 3.
+§ 3. Jeżeli istnieje obowiązek doręczenia postanowienia, przepis § 2 stosuje się odpowiednio. Należy jednak zawsze doręczyć je temu pokrzywdzonemu, który w zawitym terminie 7 dni od dnia ogłoszenia o to się zwróci. <Art. 131a. Jeżeli doręczenie jest dokonywane w sposób wskazany w art. 131 § 1 pkt 1, w wypadku braku dowodu otrzymania, w rozumieniu ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, pismo uznaje się za doręczone po upływie 14 dni od dnia wystawienia dowodu wysłania w rozumieniu tej ustawy.>
+
+**Art. 132.** [§ 1. Pismo doręcza się adresatowi osobiście.] <§ 1. Pismo doręczane w sposób wskazany w art. 131 § 1 pkt 2 lub § 1a doręcza się adresatowi osobiście.>
+
+§ 1a. Na wniosek adresata doręczenie może być dokonane na wskazany przez niego adres skrytki pocztowej. [W tym wypadku pismo przesłane za pośrednictwem operatora pocztowego, o którym mowa w art. 131 § 1 pkt 1, składa się w placówce pocztowej tego operatora, umieszczając zawiadomienie o tym w skrytce pocztowej adresata.] <W tym wypadku pismo przesłane za pośrednictwem operatora, o którym mowa w art. 131 § 1a pkt 1 lub 2, składa się w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, umieszczając zawiadomienie o tym w skrytce pocztowej adresata.>
+
+§ 2. W razie chwilowej nieobecności adresata w jego mieszkaniu pismo doręcza się dorosłemu domownikowi. W razie nieobecności domownika pismo doręcza się administracji domu, dozorcy domu lub sołtysowi, jeżeli podejmą się oddać pismo adresatowi. Przepis art. 133 § 2 stosuje się odpowiednio.
+
+§ 3. Pismo może być także doręczone za pośrednictwem telefaksu lub poczty elektronicznej. W takim wypadku dowodem doręczenia jest potwierdzenie transmisji danych.
+
+§ 4. Przepisów § 2 i 3 oraz art. 133 § 3 nie stosuje się do doręczenia oskarżonemu zawiadomienia o pierwszym terminie rozprawy głównej, terminie posiedzenia, o którym mowa w art. 341 § 1, art. 343 § 5, art. 343a i art. 420 § 1, oraz doręczenia wyroku, o którym mowa w art. 500 § 1.
+
+**Art. 133.** [§ 1. Jeżeli doręczenia nie można dokonać w sposób wskazany w art. 132, pismo przesłane za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe pozostawia się w najbliższej placówce pocztowej tego operatora pocztowego, a przesłane w inny sposób w najbliższej jednostce Policji albo we właściwym urzędzie gminy.] <§ 1. Jeżeli doręczenia nie można dokonać w sposób wskazany w art. 132, pismo przesłane za pośrednictwem operatora, o którym mowa w art. 131 § 1a pkt 1 lub 2, pozostawia się w najbliższej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, a przesłane w inny sposób w najbliższej jednostce Policji albo we właściwym urzędzie gminy.>
+
+§ 2. O pozostawieniu pisma w myśl § 1 doręczający umieszcza zawiadomienie w skrzynce do doręczania korespondencji bądź na drzwiach mieszkania adresata lub w innym widocznym miejscu ze wskazaniem, gdzie i kiedy pismo pozostawiono oraz że należy je odebrać w ciągu 7 dni; w razie bezskutecznego upływu tego terminu, należy czynność zawiadomienia powtórzyć jeden raz. W razie dokonania tych czynności pismo uznaje się za doręczone.
+
+§ 2a. Pismo pozostawione w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe może zostać odebrane także przez osobę upoważnioną na podstawie pełnomocnictwa pocztowego do odbioru przesyłek pocztowych w rozumieniu tej ustawy.
+
+§ 2b. (uchylony)
+
+§ 2c. (uchylony)
+
+§ 3. Pismo można również pozostawić osobie upoważnionej do odbioru korespondencji w miejscu stałego zatrudnienia adresata.
+
+**Art. 133a.** [§ 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, przez umieszczenie ich treści w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, w sposób umożliwiający uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.] <§ 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, a także stronie, która dokonała wyboru takiego sposobu doręczania, przez umieszczenie ich treści w portalu informacyjnym w sposób, który umożliwia uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.> <§ 1a. Oświadczenie o wyborze doręczeń dokonywanych w sposób, o którym mowa w § 1, lub oświadczenie o rezygnacji z nich strona składa za pośrednictwem portalu informacyjnego i opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Oświadczenie o rezygnacji z doręczeń dokonywanych w sposób, o którym mowa w § 1, można złożyć również na piśmie.>
+
+§ 2. Sąd może doręczyć pismo procesowe lub inne pismo w sposób określony w § 1, jeżeli dysponuje nim w postaci elektronicznej. Nie dotyczy to pism, które podlegają doręczeniu wraz z odpisami pism procesowych stron lub innymi dokumentami niepochodzącymi od sądu, chyba że zostały złożone przez umieszczenie ich treści w portalu informacyjnym na podstawie art. 428 § 3.
+
+§ 3. W przypadku, o którym mowa w § 1, pismo uznaje się za doręczone w czasie wskazanym w dokumencie potwierdzającym doręczenie. W przypadku braku dokumentu, który potwierdza doręczenie pisma, doręczenie to uznaje się za skuteczne z upływem 14 dni od dnia umieszczenia treści tego pisma w portalu informacyjnym w sposób określony w § 1.
+
+§ 3a. Jeżeli podmiot wskazany w § 1 nie posiada konta w portalu informacyjnym, pismo uważa się za doręczone z upływem 14 dni od dnia umieszczenia treści tego pisma w tym portalu w sposób, który umożliwia uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.
+
+§ 4. Przewodniczący zarządza odstąpienie od doręczenia pisma przez umieszczenie jego treści w portalu informacyjnym, jeżeli dokonanie doręczenia w taki sposób jest niemożliwe ze względu na charakter tego pisma, w szczególności jeżeli zachodzi potrzeba wydania stronie uwierzytelnionego odpisu orzeczenia.
+
+§ 5. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, tryb i sposób dokonywania doręczeń pism w postaci elektronicznej w postępowaniu karnym, mając na względzie zapewnienie skuteczności doręczeń tych pism oraz ochronę praw osób, którym te pisma są doręczane.
 
 **Art. 134.**
 
@@ -1531,9 +1169,13 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 139.**
 
-§ 1. Jeżeli strona, nie podając nowego adresu, zmienia miejsce zamieszkania lub nie przebywa pod wskazanym przez siebie adresem, w tym także z powodu pozbawienia wolności w innej sprawie, pismo wysłane pod tym adresem uważa się za doręczone. [Dotyczy to także strony, która zgłosiła wniosek o dokonywanie doręczeń na adres oznaczonej skrytki pocztowej i nie zawiadomiła organu o zmianie tego adresu lub zaprzestaniu korzystania z niego.] <Dotyczy to także strony, która zgłosiła wniosek o dokonywanie doręczeń na adres oznaczonej skrytki pocztowej albo wyraziła zgodę na dokonywanie doręczeń na adres do doręczeń elektronicznych i nie zawiadomiła organu o zmianie tego adresu lub o zaprzestaniu korzystania z niego.> § 1a. Przepis § 1 stosuje się do pokrzywdzonego także wtedy, gdy nie jest stroną.
+§ 1. Jeżeli strona, nie podając nowego adresu, zmienia miejsce zamieszkania lub nie przebywa pod wskazanym przez siebie adresem, w tym także z powodu pozbawienia wolności w innej sprawie, pismo wysłane pod tym adresem uważa się za doręczone. [Dotyczy to także strony, która zgłosiła wniosek o dokonywanie doręczeń na adres oznaczonej skrytki pocztowej i nie zawiadomiła organu o zmianie tego adresu lub zaprzestaniu korzystania z niego.] <Dotyczy to także strony, która zgłosiła wniosek o dokonywanie doręczeń na adres oznaczonej skrytki pocztowej albo wyraziła zgodę na dokonywanie doręczeń na adres do doręczeń elektronicznych i nie zawiadomiła organu o zmianie tego adresu lub o zaprzestaniu korzystania z niego.>
 
-§ 2. (uchylony) § 3. Przepis § 1 nie dotyczy pism wysłanych po raz pierwszy po prawomocnym uniewinnieniu oskarżonego. [Art. 140. Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i odpisy, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.] <Art. 140. Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i kopie, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.> [Art. 141. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.] <Art. 141. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, z wyłączeniem doręczeń, o których mowa w art. 131 § 1 pkt 1, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.>
+§ 1a. Przepis § 1 stosuje się do pokrzywdzonego także wtedy, gdy nie jest stroną.
+
+§ 2. (uchylony)
+
+§ 3. Przepis § 1 nie dotyczy pism wysłanych po raz pierwszy po prawomocnym uniewinnieniu oskarżonego. [Art. 140. Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i odpisy, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.] <Art. 140. Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i kopie, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.> [Art. 141. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.] <Art. 141. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, z wyłączeniem doręczeń, o których mowa w art. 131 § 1 pkt 1, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.>
 
 **Art. 142.** Doręczenie bez zachowania przepisów niniejszego rozdziału uważa się za dokonane, jeżeli osoba, dla której pismo było przeznaczone, oświadczy, że pismo to otrzymała.
 
@@ -1611,11 +1253,28 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 2. Wyjaśnienia, zeznania, oświadczenia i wnioski oraz stwierdzenia określonych okoliczności przez organ prowadzący postępowanie zamieszcza się w protokole z możliwą dokładnością. Osoby biorące udział w czynności mają prawo żądać zamieszczenia w protokole z pełną dokładnością wszystkiego, co dotyczy ich praw lub interesów.
 
-§ 2a. (uchylony) § 2b. (uchylony) § 2c. (uchylony) § 3. W protokole nie wolno zastępować zapisu treści zeznań lub wyjaśnień odwoływaniem się do innych protokołów.
+§ 2a. (uchylony)
+
+§ 2b. (uchylony)
+
+§ 2c. (uchylony)
+
+§ 3. W protokole nie wolno zastępować zapisu treści zeznań lub wyjaśnień odwoływaniem się do innych protokołów.
 
 § 4. Osoby biorące udział w czynności mają prawo żądać odczytania fragmentów ich wypowiedzi wciągniętych do protokołu.
 
-**Art. 148a.** [§ 1. W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.] <§ 1. W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.> § 2. Przepis § 1 zdanie pierwsze nie dotyczy miejsca pracy świadka będącego funkcjonariuszem publicznym, składającego zeznania w związku z pełnioną funkcją, chyba że przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu orzekającego przeprowadzającego czynność uzna, iż dla dobra postępowania karnego nie powinno ono zostać zamieszczone w protokole. [§ 3. Jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu i adresu poczty elektronicznej pokrzywdzonych i świadków zawarte są w dokumentach innych niż protokół, o którym mowa w § 1, dokumenty, w całości lub w części, w jakiej zawierają te dane, przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.] <§ 3. Jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu, adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonych i świadków zawarte są w dokumentach innych niż protokół, o którym mowa w § 1, dokumenty, w całości lub w części, w jakiej zawierają te dane, przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.> [§ 4. Przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu sądu – w odniesieniu do protokołu, o którym mowa w § 1, a w odniesieniu do innych dokumentów – organ prowadzący postępowanie przygotowawcze albo prezes sądu lub przewodniczący składu sądu, może zarządzić o odstąpieniu, w całości lub w części, od stosowania przepisów § 1 lub 3:
+**Art. 148a.** [§ 1. W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.] <§ 1. W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.>
+
+§ 2. Przepis § 1 zdanie pierwsze nie dotyczy miejsca pracy świadka będącego funkcjonariuszem publicznym, składającego zeznania w związku z pełnioną funkcją, chyba że przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu orzekającego przeprowadzającego czynność uzna, iż dla dobra postępowania karnego nie powinno ono zostać zamieszczone w protokole. [§ 3. Jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu i adresu poczty elektronicznej pokrzywdzonych i świadków zawarte są w dokumentach innych niż protokół, o którym mowa w § 1, dokumenty, w całości lub w części, w jakiej zawierają te dane, przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.] <§ 3. Jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu, adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonych i świadków zawarte są w dokumentach innych niż protokół, o którym mowa w § 1, dokumenty, w całości lub w części, w jakiej zawierają te dane, przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.> [§ 4. Przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu sądu – w odniesieniu do protokołu, o którym mowa w § 1, a w odniesieniu do innych dokumentów – organ prowadzący postępowanie przygotowawcze albo prezes sądu lub przewodniczący składu sądu, może zarządzić o odstąpieniu, w całości lub w części, od stosowania przepisów § 1 lub 3:
+
+- **1)** jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka są oskarżonemu znane;
+- **2)** w odniesieniu do danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka, jeżeli dane te są związane z miejscem prowadzenia działalności gospodarczej przez pokrzywdzonego lub świadka i zostały przekazane do publicznej wiadomości do właściwego rejestru lub ewidencji;
+- **3)** z powodu oczywistego braku potrzeby ochrony danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka z uwagi na charakter sprawy.] <§ 4. Przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu sądu – w odniesieniu do protokołu, o którym mowa w § 1, a w odniesieniu do innych dokumentów – organ prowadzący postępowanie przygotowawcze albo prezes sądu lub przewodniczący składu sądu, może zarządzić o odstąpieniu, w całości lub w części, od stosowania przepisów § 1 lub 3:
+- **1)** jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka są oskarżonemu znane;
+- **2)** w odniesieniu do danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka, jeżeli dane te są związane z miejscem prowadzenia działalności gospodarczej przez pokrzywdzonego lub świadka i zostały przekazane do publicznej wiadomości do właściwego rejestru lub ewidencji;
+- **3)** z powodu oczywistego braku potrzeby ochrony danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka z uwagi na charakter sprawy.>
+
+§ 5. Sąd lub organ prowadzący postępowanie przygotowawcze może ujawnić w niezbędnym zakresie dane, o których mowa w § 1, lub oryginały dokumentów, o których mowa w § 3, jeżeli mają one znaczenie dla rozstrzygnięcia sprawy.
 
 **Art. 149.**
 
@@ -1665,7 +1324,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1. Stronom, obrońcom, pełnomocnikom i przedstawicielom ustawowym udostępnia się akta sprawy sądowej oraz daje możność sporządzenia z nich odpisów lub kopii. Za zgodą prezesa sądu akta te mogą być udostępnione również innym osobom. Informacje o aktach sprawy mogą być udostępnione także za pomocą systemu teleinformatycznego, jeżeli względy techniczne nie stoją temu na przeszkodzie.
 
-§ 1a. (uchylony) § 2. Na wniosek oskarżonego lub jego obrońcy wydaje się odpłatnie kopie dokumentów z akt sprawy. Kopie takie wydaje się odpłatnie, na wniosek, również innym stronom, pełnomocnikom i przedstawicielom ustawowym. Zarządzenie w przedmiocie wniosku może wydać również referendarz sądowy. Od kopii wykonanej samodzielnie nie pobiera się opłaty.
+§ 1a. (uchylony)
+
+§ 2. Na wniosek oskarżonego lub jego obrońcy wydaje się odpłatnie kopie dokumentów z akt sprawy. Kopie takie wydaje się odpłatnie, na wniosek, również innym stronom, pełnomocnikom i przedstawicielom ustawowym. Zarządzenie w przedmiocie wniosku może wydać również referendarz sądowy. Od kopii wykonanej samodzielnie nie pobiera się opłaty.
 
 § 3. Prezes sądu lub referendarz sądowy może w razie uzasadnionej potrzeby zarządzić wydanie odpłatnie uwierzytelnionych odpisów z akt sprawy.
 
@@ -1681,7 +1342,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 156a.** Dane lub oryginały dokumentów znajdujące się w załączniku adresowym udostępnia się wyłącznie organom państwowym oraz organom samorządu terytorialnego na ich wniosek, jeżeli jest to niezbędne dla wykonywania ustawowych zadań tych organów. Można je udostępnić także na wniosek innych instytucji lub osób, jeżeli przemawia za tym ich ważny interes.
 
-**Art. 157.** [§ 1. Stronom oraz osobom, których orzeczenie bezpośrednio dotyczy, należy na ich żądanie nieodpłatnie wydać jeden uwierzytelniony odpis każdego orzeczenia. Odpis wydaje się z uzasadnieniem, jeżeli je sporządzono.] <§ 1. Stronom oraz osobom, których orzeczenie albo podlegające zaskarżeniu zarządzenie bezpośrednio dotyczy, należy na ich żądanie nieodpłatnie wydać jedną kopię każdego orzeczenia albo podlegającego zaskarżeniu zarządzenia. Kopię wydaje się z uzasadnieniem, jeżeli je sporządzono.> [§ 2. W sprawach, w których wyłączono jawność ze względu na ważny interes państwa, osobom, o których mowa w § 1, wydaje się tylko odpis orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia.] <§ 2. W sprawach, w których wyłączono jawność ze względu na ważny interes państwa, osobom, o których mowa w § 1, wydaje się tylko kopię orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia.> § 3. Nie można odmówić stronie zezwolenia na sporządzenie odpisu protokołu czynności, w której strona uczestniczyła lub miała prawo uczestniczyć, jak również dokumentu pochodzącego od niej lub sporządzonego z jej udziałem.
+**Art. 157.** [§ 1. Stronom oraz osobom, których orzeczenie bezpośrednio dotyczy, należy na ich żądanie nieodpłatnie wydać jeden uwierzytelniony odpis każdego orzeczenia. Odpis wydaje się z uzasadnieniem, jeżeli je sporządzono.] <§ 1. Stronom oraz osobom, których orzeczenie albo podlegające zaskarżeniu zarządzenie bezpośrednio dotyczy, należy na ich żądanie nieodpłatnie wydać jedną kopię każdego orzeczenia albo podlegającego zaskarżeniu zarządzenia. Kopię wydaje się z uzasadnieniem, jeżeli je sporządzono.> [§ 2. W sprawach, w których wyłączono jawność ze względu na ważny interes państwa, osobom, o których mowa w § 1, wydaje się tylko odpis orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia.] <§ 2. W sprawach, w których wyłączono jawność ze względu na ważny interes państwa, osobom, o których mowa w § 1, wydaje się tylko kopię orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia.>
+
+§ 3. Nie można odmówić stronie zezwolenia na sporządzenie odpisu protokołu czynności, w której strona uczestniczyła lub miała prawo uczestniczyć, jak również dokumentu pochodzącego od niej lub sporządzonego z jej udziałem.
 
 **Art. 158.**
 
@@ -1815,7 +1478,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 2. Przesłuchujący może z ważnych powodów odmówić zgody na złożenie przez oskarżonego wyjaśnień na piśmie.
 
-§ 3. (uchylony) § 4. Pisemne wyjaśnienia oskarżonego, podpisane przez niego, z zaznaczeniem daty ich złożenia, stanowią załącznik do protokołu.
+§ 3. (uchylony)
+
+§ 4. Pisemne wyjaśnienia oskarżonego, podpisane przez niego, z zaznaczeniem daty ich złożenia, stanowią załącznik do protokołu.
 
 #### Rozdział 21 Świadkowie
 
@@ -1837,6 +1502,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 § 2. Świadka, który nie może się stawić na wezwanie z powodu choroby, kalectwa lub innej niedającej się pokonać przeszkody, można przesłuchać w miejscu jego pobytu.
 
 **Art. 178.** Nie wolno przesłuchiwać jako świadków:
+
+- **1)** obrońcy albo adwokata lub radcy prawnego działającego na podstawie art. 245 § 1, co do faktów, o których dowiedział się udzielając porady prawnej lub prowadząc sprawę;
+- **2)** duchownego co do faktów, o których dowiedział się przy spowiedzi.
 
 **Art. 178a.** Nie wolno przesłuchiwać jako świadka mediatora co do faktów, o których dowiedział się od oskarżonego lub pokrzywdzonego prowadząc postępowanie mediacyjne, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 Kodeksu karnego.
 
@@ -1932,7 +1600,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 2. Przesłuchanie pokrzywdzonego, o którym mowa w § 1a, w charakterze świadka przeprowadza sąd na posiedzeniu z udziałem biegłego psychologa niezwłocznie, niepóźniej niż w terminie 14 dni od dnia wpływu wniosku. Prokurator, obrońca oraz pełnomocnik pokrzywdzonego mają prawo wziąć udział w przesłuchaniu. Osoba wymieniona w art. 51 § 2 lub osoba pełnoletnia wskazana przez pokrzywdzonego ma prawo również być obecna przy przesłuchaniu, jeżeli nie ogranicza to swobody wypowiedzi przesłuchiwanego. Na rozprawie głównej odtwarza się sporządzony zapis obrazu i dźwięku przesłuchania oraz odczytuje się protokół przesłuchania.
 
-§ 3. (uchylony) § 4. Na wniosek pokrzywdzonego należy zapewnić, aby biegły psycholog biorący udział w przesłuchaniu był osobą o wskazanej przez niego płci, chyba że będzie to utrudniać postępowanie.
+§ 3. (uchylony)
+
+§ 4. Na wniosek pokrzywdzonego należy zapewnić, aby biegły psycholog biorący udział w przesłuchaniu był osobą o wskazanej przez niego płci, chyba że będzie to utrudniać postępowanie.
 
 **Art. 185d.** (uchylony)
 
@@ -1984,6 +1654,11 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 189.** Nie odbiera się przyrzeczenia:
 
+- **1)** od osób, które nie ukończyły 17 lat;
+- **2)** gdy zachodzi uzasadnione podejrzenie, że świadek z powodu zaburzeń psychicznych nie zdaje sobie należycie sprawy ze znaczenia przyrzeczenia;
+- **3)** gdy świadek jest osobą podejrzaną o popełnienie przestępstwa będącego przedmiotem postępowania lub pozostającego w ścisłym związku z czynem stanowiącym przedmiot postępowania albo gdy za to przestępstwo został skazany;
+- **4)** gdy świadek był prawomocnie skazany za fałszywe zeznanie lub oskarżenie.
+
 **Art. 190.**
 
 § 1. Przed rozpoczęciem przesłuchania należy uprzedzić świadka o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy.
@@ -2033,6 +1708,10 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 § 3. W wypadku powołania biegłych z zakresu różnych specjalności, o tym, czy mają oni przeprowadzić badania wspólnie i wydać jedną wspólną opinię, czy opinie odrębne, rozstrzyga organ procesowy powołujący biegłych.
 
 **Art. 194.** O dopuszczeniu dowodu z opinii biegłego wydaje się postanowienie, w którym należy wskazać:
+
+- **1)** imię, nazwisko i specjalność biegłego lub biegłych, a w wypadku opinii instytucji, w razie potrzeby, specjalność i kwalifikacje osób, które powinny wziąć udział w przeprowadzeniu ekspertyzy;
+- **2)** przedmiot i zakres ekspertyzy ze sformułowaniem, w miarę potrzeby, pytań szczegółowych;
+- **3)** termin dostarczenia opinii.
 
 **Art. 195.** Do pełnienia czynności biegłego jest obowiązany nie tylko biegły sądowy, lecz także każda osoba, o której wiadomo, że ma odpowiednią wiedzę w danej dziedzinie.
 
@@ -2174,9 +1853,13 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1b. W postępowaniu w sprawach o przestępstwa w ruchu lądowym określone w rozdziale XXI Kodeksu karnego należy także uzyskać informacje z centralnej ewidencji kierowców oraz z ewidencji kierowców naruszających przepisy ruchu drogowego prowadzonej przez Policję, dotyczące oskarżonego. Jeżeli od sporządzenia tych informacji upłynął okres 6 miesięcy, należy uzyskać je ponownie.
 
-§ 1c. Na potrzeby ustalenia, a także potwierdzenia lub weryfikacji tożsamości oskarżonego będącego obywatelem państwa trzeciego w rozumieniu art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/816 z dnia 17 kwietnia 2019 r. ustanawiającego scentralizowany system służący do ustalania państw członkowskich posiadających informacje o wyrokach skazujących wydanych wobec obywateli państw trzecich i bezpaństwowców (ECRIS-TCN) na potrzeby uzupełnienia europejskiego systemu przekazywania informacji z rejestrów karnych oraz zmieniającego rozporządzenie (UE) 2018/1726 (Dz. Urz. UE L 135 z 22.05.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2019/816”, należy od niego pobrać odciski linii papilarnych oraz przekazać je wraz z jego danymi osobowymi do zbiorów danych daktyloskopijnych prowadzonych przez Komendanta Głównego Policji. Nadany karcie daktyloskopijnej numer rejestracyjny zbioru automatycznie przetwarzającego dane daktyloskopijne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 000), zamieszcza się w aktach postępowania. Przepis art. 74 § 2 pkt 1 i § 3a stosuje się odpowiednio. [§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania odpis lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.] <§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania kopię lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.> § 2a. Jeżeli organ prowadzący postępowanie powziął informację o prawomocnym skazaniu, przepis § 2 stosuje się odpowiednio do orzeczeń skazujących wydanych przez sąd innego państwa członkowskiego Unii Europejskiej.
+§ 1c. Na potrzeby ustalenia, a także potwierdzenia lub weryfikacji tożsamości oskarżonego będącego obywatelem państwa trzeciego w rozumieniu art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/816 z dnia 17 kwietnia 2019 r. ustanawiającego scentralizowany system służący do ustalania państw członkowskich posiadających informacje o wyrokach skazujących wydanych wobec obywateli państw trzecich i bezpaństwowców (ECRIS-TCN) na potrzeby uzupełnienia europejskiego systemu przekazywania informacji z rejestrów karnych oraz zmieniającego rozporządzenie (UE) 2018/1726 (Dz. Urz. UE L 135 z 22.05.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2019/816”, należy od niego pobrać odciski linii papilarnych oraz przekazać je wraz z jego danymi osobowymi do zbiorów danych daktyloskopijnych prowadzonych przez Komendanta Głównego Policji. Nadany karcie daktyloskopijnej numer rejestracyjny zbioru automatycznie przetwarzającego dane daktyloskopijne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 000), zamieszcza się w aktach postępowania. Przepis art. 74 § 2 pkt 1 i § 3a stosuje się odpowiednio. [§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania odpis lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.] <§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania kopię lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.>
 
-§ 3. (uchylony) § 4. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wzór i szczegółowy zakres informacji, o której mowa w § 1a, oraz sposób postępowania w celu jej uzyskania, mając na względzie potrzebę uzyskania przez organ postępowania danych niezbędnych do realizacji celów procesu, zachowanie wymogów tajemnicy ustawowo chronionej oraz okresy rozliczeniowe przyjęte dla poszczególnych zobowiązań podatkowych.
+§ 2a. Jeżeli organ prowadzący postępowanie powziął informację o prawomocnym skazaniu, przepis § 2 stosuje się odpowiednio do orzeczeń skazujących wydanych przez sąd innego państwa członkowskiego Unii Europejskiej.
+
+§ 3. (uchylony)
+
+§ 4. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wzór i szczegółowy zakres informacji, o której mowa w § 1a, oraz sposób postępowania w celu jej uzyskania, mając na względzie potrzebę uzyskania przez organ postępowania danych niezbędnych do realizacji celów procesu, zachowanie wymogów tajemnicy ustawowo chronionej oraz okresy rozliczeniowe przyjęte dla poszczególnych zobowiązań podatkowych.
 
 **Art. 214.**
 
@@ -2691,7 +2374,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 4. Przedłużenia stosowania tymczasowego aresztowania na okres oznaczony, przekraczający terminy określone w § 2 i 3 może dokonać sąd apelacyjny, w którego okręgu prowadzi się postępowanie na wniosek sądu, przed którym sprawa się toczy, a w postępowaniu przygotowawczym na wniosek właściwego prokuratora bezpośrednio przełożonego wobec prokuratora prowadzącego lub nadzorującego śledztwo – jeżeli konieczność taka powstaje w związku z zawieszeniem postępowania karnego, czynnościami zmierzającymi do ustalenia lub potwierdzenia tożsamości oskarżonego, wykonywaniem czynności dowodowych w sprawie o szczególnej zawiłości lub poza granicami kraju, a także celowym przewlekaniem postępowania przez oskarżonego.
 
-§ 4a. (uchylony) § 4b. Przedłużenia stosowania tymczasowego aresztowania, o którym mowa w § 4, nie stosuje się w odniesieniu do terminu określonego w § 2, gdy kara realnie grożąca oskarżonemu za zarzucane mu przestępstwo nie przekroczy 3 lat pozbawienia wolności, a w stosunku do terminu wskazanego w § 3, gdy nie przekroczy ona 5 lat pozbawienia wolności, chyba że konieczność takiego przedłużenia jest spowodowana celowym przewlekaniem postępowania przez oskarżonego.
+§ 4a. (uchylony)
+
+§ 4b. Przedłużenia stosowania tymczasowego aresztowania, o którym mowa w § 4, nie stosuje się w odniesieniu do terminu określonego w § 2, gdy kara realnie grożąca oskarżonemu za zarzucane mu przestępstwo nie przekroczy 3 lat pozbawienia wolności, a w stosunku do terminu wskazanego w § 3, gdy nie przekroczy ona 5 lat pozbawienia wolności, chyba że konieczność takiego przedłużenia jest spowodowana celowym przewlekaniem postępowania przez oskarżonego.
 
 § 5. Na postanowienie sądu apelacyjnego wydane na podstawie § 4 przysługuje zażalenie do sądu apelacyjnego orzekającego w składzie trzech sędziów.
 
@@ -2711,7 +2396,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 3. W wypadku prawomocnego orzeczenia środka zabezpieczającego polegającego na umieszczeniu sprawcy w zakładzie zamkniętym można zastosować tymczasowe aresztowanie do czasu rozpoczęcia wykonywania środka, jednak niedłużej niż na okres 3 miesięcy, z możliwością jednorazowego przedłużenia w szczególnie uzasadnionym wypadku na kolejny miesiąc.
 
-§ 3a. Tymczasowe aresztowanie stosowane do czasu rozpoczęcia wykonywania środka zabezpieczającego polegającego na umieszczeniu sprawcy w zakładzie zamkniętym wykonuje się tylko w postaci umieszczenia takiego sprawcy w odpowiednim zakładzie leczniczym, w tym w zakładzie psychiatrycznym, wymienionym w wykazie określonym w przepisach wydanych na podstawie art. 260 § 2.
+§ 3a. Tymczasowe aresztowanie stosowane do czasu rozpoczęcia wykonywania środka zabezpieczającego polegającego na umieszczeniu sprawcy w zakładzie zamkniętym wykonuje się tylko w postaci umieszczenia takiego sprawcy w odpowiednim zakładzie leczniczym, w tym w zakładzie psychiatrycznym, wymienionym w wykazie określonym w przepisach wydanych na podstawie art. 260
+
+§ 2
 
 § 4. Tymczasowe aresztowanie w wypadku orzeczenia wobec skazanego kary pozbawienia wolności oraz środka zabezpieczającego polegającego na umieszczeniu sprawcy w zakładzie zamkniętym stosowane do czasu rozpoczęcia wykonywania kary pozbawienia wolności wykonuje się w warunkach umożliwiających stosowanie odpowiedniego postępowania leczniczego, terapeutycznego, rehabilitacyjnego oraz resocjalizacyjnego.
 
@@ -2881,7 +2568,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 284.**
 
-§ 1. (uchylony) § 2. Na postanowienie w przedmiocie listu żelaznego oraz na postanowienie wydane na podstawie art. 283 § 2 przysługuje zażalenie.
+§ 1. (uchylony)
+
+§ 2. Na postanowienie w przedmiocie listu żelaznego oraz na postanowienie wydane na podstawie art. 283 § 2 przysługuje zażalenie.
 
 **Art. 284a.** Wniosek o wydanie listu żelaznego nie wstrzymuje rozpoznania wniosku o zastosowanie wobec podejrzanego tymczasowego aresztowania.
 
@@ -3108,7 +2797,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1. Niezwłocznie po otrzymaniu zawiadomienia o przestępstwie organ powołany do prowadzenia postępowania przygotowawczego obowiązany jest wydać postanowienie o wszczęciu bądź o odmowie wszczęcia śledztwa.
 
-§ 2. (uchylony) § 3. Postanowienie o wszczęciu śledztwa wydaje prokurator. Postanowienie o odmowie wszczęcia lub o umorzeniu śledztwa wydaje prokurator albo Policja; postanowienie wydane przez Policję zatwierdza prokurator.
+§ 2. (uchylony)
+
+§ 3. Postanowienie o wszczęciu śledztwa wydaje prokurator. Postanowienie o odmowie wszczęcia lub o umorzeniu śledztwa wydaje prokurator albo Policja; postanowienie wydane przez Policję zatwierdza prokurator.
 
 § 4. O wszczęciu, odmowie wszczęcia albo o umorzeniu śledztwa zawiadamia się osobę lub instytucję państwową, samorządową lub społeczną, która złożyła zawiadomienie o przestępstwie, oraz ujawnionego pokrzywdzonego, a o umorzeniu także podejrzanego – z pouczeniem o przysługujących im uprawnieniach.
 
@@ -3128,7 +2819,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1b. Uprawnionym do złożenia zażalenia, o którym mowa w § 1 i 1a, przysługuje prawo przejrzenia akt. W celu przejrzenia akt prokurator może udostępnić akta w postaci elektronicznej.
 
-§ 2. (uchylony) § 3. Jeżeli osoba lub instytucja, która złożyła zawiadomienie o przestępstwie, nie zostanie w ciągu 6 tygodni powiadomiona o wszczęciu albo odmowie wszczęcia śledztwa, może wnieść zażalenie do prokuratora nadrzędnego albo powołanego do nadzoru nad organem, któremu złożono zawiadomienie.
+§ 2. (uchylony)
+
+§ 3. Jeżeli osoba lub instytucja, która złożyła zawiadomienie o przestępstwie, nie zostanie w ciągu 6 tygodni powiadomiona o wszczęciu albo odmowie wszczęcia śledztwa, może wnieść zażalenie do prokuratora nadrzędnego albo powołanego do nadzoru nad organem, któremu złożono zawiadomienie.
 
 **Art. 307.**
 
@@ -3138,7 +2831,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 3. Uzupełnienie danych zawartych w zawiadomieniu o przestępstwie może nastąpić również przez przesłuchanie w charakterze świadka osoby zawiadamiającej.
 
-§ 4. (uchylony) § 5. Przepis § 2 stosuje się odpowiednio w wypadku podejmowania przez organy ścigania przed wydaniem postanowienia o wszczęciu śledztwa sprawdzenia własnych informacji, nasuwających przypuszczenie, że popełniono przestępstwo.
+§ 4. (uchylony)
+
+§ 5. Przepis § 2 stosuje się odpowiednio w wypadku podejmowania przez organy ścigania przed wydaniem postanowienia o wszczęciu śledztwa sprawdzenia własnych informacji, nasuwających przypuszczenie, że popełniono przestępstwo.
 
 **Art. 308.**
 
@@ -3158,6 +2853,12 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 309.** Śledztwo prowadzi się w sprawach:
 
+- **1)** w których rozpoznanie w pierwszej instancji należy do właściwości sądu okręgowego;
+- **2)** o występki – gdy osobą podejrzaną jest sędzia, prokurator, funkcjonariusz Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa, Straży Marszałkowskiej, Służby Celno-Skarbowej lub Centralnego Biura Antykorupcyjnego;
+- **3)** o występki – gdy osobą podejrzaną jest funkcjonariusz Straży Granicznej, Żandarmerii Wojskowej, finansowego organu postępowania przygotowawczego lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego, w zakresie spraw należących do właściwości tych organów lub o występki popełnione przez tych funkcjonariuszy w związku z wykonywaniem czynności służbowych;
+- **4)** o występki, w których nie prowadzi się dochodzenia;
+- **5)** o występki, w których prowadzi się dochodzenie, jeżeli prokurator tak postanowi ze względu na wagę lub zawiłość sprawy.
+
 **Art. 310.**
 
 § 1. Śledztwo powinno być ukończone w ciągu 3 miesięcy.
@@ -3176,9 +2877,14 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 5. Prokurator może zastrzec do osobistego wykonania jakąkolwiek czynność śledztwa, a w szczególności czynności wymagające postanowienia.
 
-§ 6. (uchylony) § 7. (uchylony)
+§ 6. (uchylony)
+
+§ 7. (uchylony)
 
 **Art. 312.** Uprawnienia Policji przysługują także:
+
+- **1)** organom Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Krajowej Administracji Skarbowej, Centralnego Biura Antykorupcyjnego oraz Żandarmerii Wojskowej, w zakresie ich właściwości;
+- **2)** innym organom przewidzianym w przepisach szczególnych.
 
 **Art. 313.**
 
@@ -3296,7 +3002,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 2. Postanowienia, o których mowa w § 1, z wyjątkiem postanowienia o wszczęciu dochodzenia oraz umorzeniu i wpisaniu sprawy do rejestru przestępstw, zatwierdza prokurator. Przepisy art. 323 stosuje prokurator, a w sprawie, którą po umorzeniu wpisano do rejestru przestępstw – Policja.
 
-§ 3. (uchylony) § 4. Zażalenie na postanowienie o umorzeniu dochodzenia i wpisaniu sprawy do rejestru przestępstw wnosi się do prokuratora właściwego do sprawowania nadzoru nad dochodzeniem. Jeżeli prokurator nie przychyli się do zażalenia, kieruje je do sądu.
+§ 3. (uchylony)
+
+§ 4. Zażalenie na postanowienie o umorzeniu dochodzenia i wpisaniu sprawy do rejestru przestępstw wnosi się do prokuratora właściwego do sprawowania nadzoru nad dochodzeniem. Jeżeli prokurator nie przychyli się do zażalenia, kieruje je do sądu.
 
 **Art. 325f.**
 
@@ -3326,7 +3034,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1. Dochodzenie powinno być ukończone w ciągu 2 miesięcy. Prokurator może przedłużyć ten okres do 3 miesięcy, a w wypadkach szczególnie uzasadnionych – na dalszy czas oznaczony.
 
-§ 2. (uchylony) § 3. Uprawnienia prokuratora określone w art. 335, art. 336 i art. 387 § 2 przysługują także innym niż prokurator organom uprawnionym do wnoszenia i popierania oskarżenia w sprawach o przestępstwa ścigane z oskarżenia publicznego.
+§ 2. (uchylony)
+
+§ 3. Uprawnienia prokuratora określone w art. 335, art. 336 i art. 387 § 2 przysługują także innym niż prokurator organom uprawnionym do wnoszenia i popierania oskarżenia w sprawach o przestępstwa ścigane z oskarżenia publicznego.
 
 #### Rozdział 37 Nadzór prokuratora nad postępowaniem przygotowawczym
 
@@ -3403,7 +3113,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 - **3)** wskazanie, że czyn został popełniony w warunkach wymienionych w art. 64, art. 64a lub art. 65 Kodeksu karnego albo art. 37 § 1 Kodeksu karnego skarbowego;
 - **4)** wskazanie przepisów ustawy karnej, pod które zarzucany czyn podpada;
 - **5)** wskazanie sądu właściwego do rozpoznania sprawy.
-- **6)** (uchylony) § 2. Do aktu oskarżenia dołącza się jego uzasadnienie, przytaczające fakty i dowody, na których oskarżenie się opiera, a w miarę potrzeby wyjaśniające podstawę prawną oskarżenia i omawiające okoliczności, na które powołuje się oskarżony w swej obronie.
+- **6)** (uchylony)
+
+§ 2. Do aktu oskarżenia dołącza się jego uzasadnienie, przytaczające fakty i dowody, na których oskarżenie się opiera, a w miarę potrzeby wyjaśniające podstawę prawną oskarżenia i omawiające okoliczności, na które powołuje się oskarżony w swej obronie.
 
 § 3. Jeżeli postępowanie przygotowawcze zakończyło się w formie dochodzenia, akt oskarżenia może nie zawierać uzasadnienia.
 
@@ -3416,9 +3128,13 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 2. Prokurator może wnieść o zaniechanie wezwania i odczytanie na rozprawie zeznań świadków, o których mowa w art. 350a.
 
-§ 3. Do aktu oskarżenia dołącza się, do wiadomości sądu, listę ujawnionych osób pokrzywdzonych z podaniem ich adresów, a także adresy osób, o których mowa w § 1 pkt 1. [Należy również podać numery telefonów, telefaksów i adresy poczty elektronicznej osób wskazanych w zdaniu pierwszym, chyba że informacji tych nie można ustalić.] <Należy również podać numery telefonów, telefaksów, adresy poczty elektronicznej osób wskazanych w zdaniu pierwszym, chyba że informacji tych nie można ustalić, oraz adresy do doręczeń elektronicznych, jeżeli osoby te wyraziły zgodę na dokonywanie doręczeń na ten adres.> § 3a. Do aktu oskarżenia dołącza się listę pokrzywdzonych, którzy złożyli wnioski na podstawie art. 299a § 2.
+§ 3. Do aktu oskarżenia dołącza się, do wiadomości sądu, listę ujawnionych osób pokrzywdzonych z podaniem ich adresów, a także adresy osób, o których mowa w § 1 pkt 1. [Należy również podać numery telefonów, telefaksów i adresy poczty elektronicznej osób wskazanych w zdaniu pierwszym, chyba że informacji tych nie można ustalić.] <Należy również podać numery telefonów, telefaksów, adresy poczty elektronicznej osób wskazanych w zdaniu pierwszym, chyba że informacji tych nie można ustalić, oraz adresy do doręczeń elektronicznych, jeżeli osoby te wyraziły zgodę na dokonywanie doręczeń na ten adres.>
 
-§ 4. (uchylony) § 5. Prokurator może także dołączyć do aktu oskarżenia wniosek o orzeczenie wobec podmiotu zobowiązanego określonego w art. 91a zwrotu korzyści majątkowej albo jej równowartości uprawnionemu podmiotowi lub orzeczenie przepadku świadczenia albo jego równowartości na rzecz Skarbu Państwa. Wniosek powinien zawierać uzasadnienie.
+§ 3a. Do aktu oskarżenia dołącza się listę pokrzywdzonych, którzy złożyli wnioski na podstawie art. 299a § 2.
+
+§ 4. (uchylony)
+
+§ 5. Prokurator może także dołączyć do aktu oskarżenia wniosek o orzeczenie wobec podmiotu zobowiązanego określonego w art. 91a zwrotu korzyści majątkowej albo jej równowartości uprawnionemu podmiotowi lub orzeczenie przepadku świadczenia albo jego równowartości na rzecz Skarbu Państwa. Wniosek powinien zawierać uzasadnienie.
 
 **Art. 334.**
 
@@ -3426,7 +3142,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 2. Do aktu oskarżenia dołącza się także:
 
-- **1)** załącznik adresowy do akt sprawy; [2) po jednym odpisie tego aktu dla każdego oskarżonego, a w przypadku określonym w art. 335 § 2 także dla każdego pokrzywdzonego.] <2) po jednej kopii tego aktu dla każdego oskarżonego, a w przypadku określonym w art. 335 § 2 także dla każdego pokrzywdzonego.> § 2a. Odpisy aktu oskarżenia, o których mowa w § 2 pkt 2, mogą być przesłane sądowi w postaci elektronicznej, z wyłączeniem odpisów przeznaczonych dla adresatów, którzy w dniu przesłania sądowi aktu oskarżenia są pozbawieni wolności lub których adresu poczty elektronicznej nie ustalono.
+- **1)** załącznik adresowy do akt sprawy; [2) po jednym odpisie tego aktu dla każdego oskarżonego, a w przypadku określonym w art. 335 § 2 także dla każdego pokrzywdzonego.] <2) po jednej kopii tego aktu dla każdego oskarżonego, a w przypadku określonym w art. 335 § 2 także dla każdego pokrzywdzonego.>
+
+§ 2a. Odpisy aktu oskarżenia, o których mowa w § 2 pkt 2, mogą być przesłane sądowi w postaci elektronicznej, z wyłączeniem odpisów przeznaczonych dla adresatów, którzy w dniu przesłania sądowi aktu oskarżenia są pozbawieni wolności lub których adresu poczty elektronicznej nie ustalono.
 
 § 3. O przesłaniu aktu oskarżenia do sądu oraz o treści przepisów art. 343, art. 343a i art. 378a oskarżyciel publiczny zawiadamia oskarżonego i ujawnionego pokrzywdzonego, a także osobę lub instytucję, która złożyła zawiadomienie o przestępstwie. Pokrzywdzonego należy pouczyć o treści przepisu art. 49a, a także o prawie do złożenia oświadczenia o działaniu w charakterze oskarżyciela posiłkowego.
 
@@ -3460,13 +3178,15 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 ### DZIAŁ VIII Postępowanie przed sądem pierwszej instancji
 
-#### Rozdział 40
+#### Rozdział 40 Wstępna kontrola oskarżenia
 
 **Art. 337.**
 
 § 1. Jeżeli akt oskarżenia nie odpowiada warunkom formalnym wymienionym w art. 119, art. 332, art. 333 lub art. 335, a także jeżeli nie zostały spełnione warunki wymienione w art. 334, prezes sądu zwraca go oskarżycielowi w celu usunięcia braków w terminie 7 dni.
 
-§ 1a. (uchylony) § 2. Na zarządzenie, o którym mowa w § 1, oskarżycielowi przysługuje zażalenie do sądu właściwego do rozpoznania sprawy.
+§ 1a. (uchylony)
+
+§ 2. Na zarządzenie, o którym mowa w § 1, oskarżycielowi przysługuje zażalenie do sądu właściwego do rozpoznania sprawy.
 
 § 3. Oskarżyciel publiczny, który nie wnosi zażalenia, jest obowiązany wnieść w terminie wskazanym w § 1 poprawiony lub uzupełniony akt oskarżenia.
 
@@ -3478,7 +3198,19 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 2. Jeżeli wnioski, o których mowa w § 1, złożyło tylu pokrzywdzonych, że ich indywidualne poinformowanie spowodowałoby poważne utrudnienie w prowadzeniu postępowania, informację zamieszcza się przez ogłoszenie na stronie internetowej sądu. W informacji wskazuje się sygnaturę akt sprawy, a nie podaje się danych osobowych zawartych w zarzutach.
 
-**Art. 338.** [§ 1. Jeżeli akt oskarżenia odpowiada warunkom formalnym, prezes sądu lub referendarz sądowy niezwłocznie zarządza doręczenie jego odpisu oskarżonemu, wzywając do składania wniosków dowodowych w terminie 7 dni od daty doręczenia mu aktu oskarżenia.] <§ 1. Jeżeli akt oskarżenia odpowiada warunkom formalnym, prezes sądu lub referendarz sądowy niezwłocznie zarządza doręczenie jego kopii oskarżonemu, wzywając do składania wniosków dowodowych w terminie 7 dni od daty doręczenia mu aktu oskarżenia.> § 1a. Oskarżonego poucza się również o treści przepisów art. 291 § 3, art. 338a, art. 338b, art. 341 § 1, art. 349 § 8 zdanie trzecie, art. 374, art. 376, art. 377 i art. 422 oraz o tym, że w zależności od wyniku procesu oskarżony może być obciążony kosztami wyznaczenia obrońcy z urzędu. [§ 1b. Jeżeli złożono wniosek, o którym mowa w art. 335 § 1, albo akt oskarżenia zawiera wniosek, o którym mowa w art. 335 § 2, jego odpis doręcza się ujawnionemu pokrzywdzonemu.] <§ 1b. Jeżeli złożono wniosek, o którym mowa w art. 335 § 1, albo akt oskarżenia zawiera wniosek, o którym mowa w art. 335 § 2, jego kopię doręcza się ujawnionemu pokrzywdzonemu.> § 2. Oskarżony ma prawo wniesienia, w terminie 7 dni od doręczenia mu aktu oskarżenia, pisemnej odpowiedzi na akt oskarżenia, o czym należy go pouczyć.
+**Art. 338.** [§ 1. Jeżeli akt oskarżenia odpowiada warunkom formalnym, prezes sądu lub referendarz sądowy niezwłocznie zarządza doręczenie jego odpisu oskarżonemu, wzywając do składania wniosków dowodowych w terminie 7 dni od daty doręczenia mu aktu oskarżenia.] <§ 1. Jeżeli akt oskarżenia odpowiada warunkom formalnym, prezes sądu lub referendarz sądowy niezwłocznie zarządza doręczenie jego kopii oskarżonemu, wzywając do składania wniosków dowodowych w terminie 7 dni od daty doręczenia mu aktu oskarżenia.>
+
+§ 1a. Oskarżonego poucza się również o treści przepisów art. 291 § 3, art. 338a, art. 338b, art. 341 § 1, art. 349 § 8 zdanie trzecie, art. 374, art. 376, art. 377 i art. 422 oraz o tym, że w zależności od wyniku procesu oskarżony może być obciążony kosztami wyznaczenia obrońcy z urzędu. [§ 1b. Jeżeli złożono wniosek, o którym mowa w art. 335 § 1, albo akt oskarżenia zawiera wniosek, o którym mowa w art. 335 § 2, jego odpis doręcza się ujawnionemu pokrzywdzonemu.] <§ 1b. Jeżeli złożono wniosek, o którym mowa w art. 335 § 1, albo akt oskarżenia zawiera wniosek, o którym mowa w art. 335 § 2, jego kopię doręcza się ujawnionemu pokrzywdzonemu.>
+
+§ 2. Oskarżony ma prawo wniesienia, w terminie 7 dni od doręczenia mu aktu oskarżenia, pisemnej odpowiedzi na akt oskarżenia, o czym należy go pouczyć.
+
+§ 3. [Jeżeli zachodzi niebezpieczeństwo ujawnienia informacji niejawnych o klauzuli „tajne” lub „ściśle tajne”, oskarżonemu doręcza się odpis aktu oskarżenia bez uzasadnienia.] <Jeżeli zachodzi niebezpieczeństwo ujawnienia informacji niejawnych o klauzuli „tajne” lub „ściśle tajne”, oskarżonemu doręcza się kopię aktu oskarżenia bez uzasadnienia.> Uzasadnienie aktu oskarżenia udostępnia się jednak z zachowaniem rygorów określonych przez prezesa sądu lub sąd.
+
+§ 4. Odpis aktu oskarżenia w postaci elektronicznej doręcza się na adres poczty elektronicznej. Art. 132 § 3 zdanie drugie stosuje się.
+
+§ 5. O dacie doręczenia odpisu aktu oskarżenia oraz adresie poczty elektronicznej, na który odpis został wysłany, zawiadamia się adresata za pośrednictwem operatora pocztowego, o którym mowa w art. 131 § 1 pkt 1, a w uzasadnionych wypadkach można go zawiadomić telefonicznie.
+
+§ 6. Jeżeli oskarżony nie włada w wystarczającym stopniu językiem polskim, przed wydaniem zarządzenia o doręczeniu aktu oskarżenia prezes sądu lub referendarz sądowy wzywa tłumacza w celu przełożenia aktu oskarżenia na język obcy. Oskarżonemu doręcza się odpis aktu oskarżenia wraz z tłumaczeniem.
 
 **Art. 338a.** Oskarżony, któremu zarzucono przestępstwo zagrożone karą nieprzekraczającą 15 lat pozbawienia wolności, może przed doręczeniem mu zawiadomienia o terminie rozprawy złożyć wniosek o wydanie wyroku skazującego i wymierzenie mu określonej kary lub środka karnego, orzeczenie przepadku lub środka kompensacyjnego bez przeprowadzenia postępowania dowodowego. Wniosek może również dotyczyć wydania określonego rozstrzygnięcia w przedmiocie poniesienia kosztów procesu.
 
@@ -3499,7 +3231,12 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 - **3)** do aktu oskarżenia dołączono wniosek, o którym mowa w art. 335 § 2;
 - **3a)** prokurator złożył wniosek, o którym mowa w art. 335 § 1.
 - **4)** (uchylony)
-- **5)** (uchylony) § 2. (uchylony) § 3. Prezes sądu kieruje sprawę na posiedzenie także wtedy, gdy zachodzi potrzeba innego rozstrzygnięcia przekraczającego jego uprawnienia, a zwłaszcza:
+- **5)** (uchylony)
+
+§ 2. (uchylony)
+
+§ 3. Prezes sądu kieruje sprawę na posiedzenie także wtedy, gdy zachodzi potrzeba innego rozstrzygnięcia przekraczającego jego uprawnienia, a zwłaszcza:
+
 - **1)** umorzenia postępowania na podstawie art. 17 § 1 pkt 2–11;
 - **2)** umorzenia postępowania z powodu oczywistego braku faktycznych podstaw oskarżenia;
 - **3)** wydania postanowienia o niewłaściwości sądu;
@@ -3663,6 +3400,10 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 354.** W wypadku wniosku prokuratora o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środków zabezpieczających stosuje się odpowiednio przepisy niniejszego rozdziału z następującymi zmianami:
 
+- **1)** nie stosuje się przepisów o oskarżycielu posiłkowym;
+- **2)** wniosek kieruje się na rozprawę, chyba że w świetle materiałów postępowania przygotowawczego popełnienie czynu zabronionego przez podejrzanego i jego niepoczytalność w chwili czynu nie budzą wątpliwości, a prezes sądu uzna za celowe rozpoznanie sprawy na posiedzeniu z udziałem prokuratora, obrońcy i podejrzanego; podejrzany nie bierze udziału w posiedzeniu, jeżeli z opinii biegłych wynika, że byłoby to niewskazane, chyba że sąd uzna jego udział za konieczny; pokrzywdzony ma prawo wziąć udział w posiedzeniu;
+- **3)** w razie umorzenia postępowania stosuje się art. 322 § 2 i 3.
+
 **Art. 354a.**
 
 § 1. Przed orzeczeniem środka zabezpieczającego, o którym mowa w art. 93a § 1 Kodeksu karnego, albo nakazu lub zakazów, o których mowa w art. 39 pkt 2–3 Kodeksu karnego, orzeczonych tytułem środka zabezpieczającego, sąd wysłuchuje:
@@ -3700,6 +3441,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 **Art. 358.** Jeżeli nie przemawia przeciw temu wzgląd na prawidłowość postępowania, sąd na wniosek strony wyraża zgodę na utrwalenie przez nią przebiegu rozprawy za pomocą urządzenia rejestrującego dźwięk.
 
 **Art. 359.** Niejawna jest rozprawa, która dotyczy:
+
+- **1)** wniosku prokuratora o umorzenie postępowania z powodu niepoczytalności sprawcy i zastosowanie środka zabezpieczającego;
+- **2)** sprawy o pomówienie lub znieważenie; na wniosek pokrzywdzonego rozprawa odbywa się jednak jawnie.
 
 **Art. 360.**
 
@@ -3914,7 +3658,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 3. Sąd może uzależnić uwzględnienie wniosku oskarżonego od dokonania w nim wskazanej przez siebie zmiany. Przepis art. 341 § 3 stosuje się odpowiednio.
 
-§ 4. (uchylony) § 5. Przychylając się do wniosku, sąd może uznać za ujawnione dowody wymienione w akcie oskarżenia lub dokumenty przedłożone przez stronę.
+§ 4. (uchylony)
+
+§ 5. Przychylając się do wniosku, sąd może uznać za ujawnione dowody wymienione w akcie oskarżenia lub dokumenty przedłożone przez stronę.
 
 **Art. 388.** Za zgodą obecnych stron sąd może przeprowadzić postępowanie dowodowe tylko częściowo, jeżeli wyjaśnienia oskarżonego przyznającego się do winy nie budzą wątpliwości.
 
@@ -3942,7 +3688,15 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1. Jeżeli świadek bezpodstawnie odmawia zeznań, zeznaje odmiennie niż poprzednio albo oświadczy, że pewnych okoliczności nie pamięta, albo przebywa za granicą lub nie można mu było doręczyć wezwania, albo nie stawił się z powodu niedających się usunąć przeszkód lub przewodniczący zaniechał wezwania świadka na podstawie art. 350a, a także wtedy, gdy świadek zmarł, wolno odczytywać w odpowiednim zakresie protokoły złożonych poprzednio przez niego zeznań w postępowaniu przygotowawczym lub przed sądem w tej lub innej sprawie albo w innym postępowaniu przewidzianym przez ustawę.
 
-§ 1a. (uchylony) § 1b. (uchylony) § 1c. (uchylony) § 1d. (uchylony) § 2. W warunkach określonych w § 1, a także w wypadku określonym w art. 182 § 3, wolno również odczytywać na rozprawie protokoły złożonych poprzednio przez świadka wyjaśnień w charakterze oskarżonego.
+§ 1a. (uchylony)
+
+§ 1b. (uchylony)
+
+§ 1c. (uchylony)
+
+§ 1d. (uchylony)
+
+§ 2. W warunkach określonych w § 1, a także w wypadku określonym w art. 182 § 3, wolno również odczytywać na rozprawie protokoły złożonych poprzednio przez świadka wyjaśnień w charakterze oskarżonego.
 
 § 3. Przepis art. 389 § 2 stosuje się odpowiednio.
 
@@ -3968,7 +3722,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1. Dane dotyczące osoby oskarżonego oraz wyniki wywiadu środowiskowego odczytuje się na żądanie oskarżonego lub obrońcy.
 
-§ 1a. (uchylony) § 2. Protokoły i dokumenty podlegające odczytaniu na rozprawie odczytuje się:
+§ 1a. (uchylony)
+
+§ 2. Protokoły i dokumenty podlegające odczytaniu na rozprawie odczytuje się:
 
 - **1)** na wniosek strony, która nie miała możliwości zapoznania się z ich treścią; przepis art. 392 § 2 stosuje się odpowiednio, lub
 - **2)** gdy sąd uzna to za niezbędne.
@@ -4265,7 +4021,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 3a. W środku odwoławczym nie można podnosić zarzutu nieprzeprowadzenia dowodu z urzędu, chyba że okoliczność, która ma być udowodniona, ma istotne znaczenie dla ustalenia, czy został popełniony czyn zabroniony, czy stanowi on przestępstwo i jakie, czy czyn zabroniony został popełniony w warunkach, o których mowa w art. 64 lub art. 65 Kodeksu karnego, lub czy zachodzą warunki do orzeczenia pobytu w zakładzie psychiatrycznym na podstawie art. 93g Kodeksu karnego.
 
-§ 4. (uchylony) § 5. (uchylony)
+§ 4. (uchylony)
+
+§ 5. (uchylony)
 
 **Art. 428.**
 
@@ -4313,7 +4071,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 2. Środek odwoławczy wniesiony na niekorzyść oskarżonego może spowodować orzeczenie także na korzyść oskarżonego, jeżeli zachodzą przesłanki określone w art. 440 lub art. 455.
 
-§ 3. (uchylony) § 4. W przypadku skazania z zastosowaniem art. 60 § 3 lub 4 Kodeksu karnego lub art. 36 § 3 Kodeksu karnego skarbowego sąd odwoławczy może orzec na niekorzyść oskarżonego, i to niezależnie od granic zaskarżenia i podniesionych zarzutów, także wówczas, jeżeli środek odwoławczy wniesiono wyłącznie na korzyść oskarżonego, który po wydaniu wyroku odwołał lub w istotny sposób zmienił swoje wyjaśnienia lub zeznania. Nie dotyczy to jednak przypadku zasadnego podniesienia zarzutu obrazy prawa materialnego lub stwierdzenia przez sąd odwoławczy okoliczności uzasadniających uchylenie orzeczenia, określonych w art. 439 § 1.
+§ 3. (uchylony)
+
+§ 4. W przypadku skazania z zastosowaniem art. 60 § 3 lub 4 Kodeksu karnego lub art. 36 § 3 Kodeksu karnego skarbowego sąd odwoławczy może orzec na niekorzyść oskarżonego, i to niezależnie od granic zaskarżenia i podniesionych zarzutów, także wówczas, jeżeli środek odwoławczy wniesiono wyłącznie na korzyść oskarżonego, który po wydaniu wyroku odwołał lub w istotny sposób zmienił swoje wyjaśnienia lub zeznania. Nie dotyczy to jednak przypadku zasadnego podniesienia zarzutu obrazy prawa materialnego lub stwierdzenia przez sąd odwoławczy okoliczności uzasadniających uchylenie orzeczenia, określonych w art. 439 § 1.
 
 § 5. (uchylony)
 
@@ -4328,6 +4088,12 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 § 2. Sąd odwoławczy zmienia zaskarżone orzeczenie, orzekając odmiennie co do istoty, lub uchyla je i umarza postępowanie; w innych wypadkach uchyla orzeczenie i przekazuje sprawę sądowi pierwszej instancji do ponownego rozpoznania. Uchylenie orzeczenia i przekazanie sprawy do ponownego rozpoznania może nastąpić wyłącznie w wypadkach wskazanych w art. 439 § 1, art. 454 lub jeżeli jest konieczne przeprowadzenie na nowo przewodu w całości.
 
 **Art. 438.** Orzeczenie ulega uchyleniu lub zmianie w razie stwierdzenia:
+
+- **1)** obrazy przepisów prawa materialnego w zakresie kwalifikacji prawnej czynu przypisanego oskarżonemu;
+- **1a)** obrazy przepisów prawa materialnego w innym wypadku niż wskazany w pkt 1, chyba że pomimo błędnej podstawy prawnej orzeczenie odpowiada prawu;
+- **2)** obrazy przepisów postępowania, jeżeli mogła ona mieć wpływ na treść orzeczenia;
+- **3)** błędu w ustaleniach faktycznych przyjętych za podstawę orzeczenia, jeżeli mógł on mieć wpływ na treść tego orzeczenia;
+- **4)** rażącej niewspółmierności kary, środka karnego, nawiązki lub niesłusznego zastosowania albo niezastosowania środka zabezpieczającego, przepadku lub innego środka.
 
 **Art. 439.**
 
@@ -4453,7 +4219,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 452.**
 
-§ 1. (uchylony) § 2. Sąd odwoławczy oddala wniosek dowodowy również, jeżeli:
+§ 1. (uchylony)
+
+§ 2. Sąd odwoławczy oddala wniosek dowodowy również, jeżeli:
 
 - **1)** przeprowadzenie dowodu przez ten sąd byłoby niecelowe z przyczyn określonych w art. 437 § 2 zdanie drugie;
 - **2)** dowód nie był powołany przed sądem pierwszej instancji, pomimo że składający wniosek mógł go wówczas powołać, lub okoliczność, która ma być udowodniona, dotyczy nowego faktu, niebędącego przedmiotem postępowania przed sądem pierwszej instancji, a składający wniosek mógł go wówczas wskazać.
@@ -4474,7 +4242,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1. Sąd odwoławczy nie może skazać oskarżonego, który został uniewinniony w pierwszej instancji lub co do którego w pierwszej instancji umorzono postępowanie.
 
-§ 2. (uchylony) § 3. (uchylony)
+§ 2. (uchylony)
+
+§ 3. (uchylony)
 
 **Art. 455.** Nie zmieniając ustaleń faktycznych, sąd odwoławczy poprawia błędną kwalifikację prawną niezależnie od granic zaskarżenia i podniesionych zarzutów. Poprawienie kwalifikacji prawnej na niekorzyść oskarżonego może nastąpić tylko wtedy, gdy wniesiono środek odwoławczy na jego niekorzyść.
 
@@ -4554,7 +4324,7 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 ### DZIAŁ X Postępowania szczególne
 
-#### Rozdział 51
+#### Rozdział 51 (zawierający art. 468–484 – uchylony)
 
 #### Rozdział 52 Postępowanie w sprawach z oskarżenia prywatnego
 
@@ -4650,6 +4420,10 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 501.** Wydanie wyroku nakazowego jest niedopuszczalne:
 
+- **1)** (uchylony)
+- **2)** w sprawie z oskarżenia prywatnego;
+- **3)** jeżeli zachodzą okoliczności, o których mowa w art. 79 § 1.
+
 **Art. 502.**
 
 § 1. Wyrokiem nakazowym można orzec karę ograniczenia wolności lub grzywnę w wysokości do 200 stawek dziennych albo do 200 000 złotych.
@@ -4674,7 +4448,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 505.**
 
-§ 1. [Odpis wyroku nakazowego doręcza się oskarżycielowi i pokrzywdzonemu, a oskarżonemu i jego obrońcy – wraz z odpisem aktu oskarżenia.] Kopię wyroku nakazowego doręcza się oskarżycielowi i pokrzywdzonemu, a oskarżonemu i jego obrońcy – wraz z kopią aktu oskarżenia.> [W każdym wypadku odpis tego wyroku doręcza się prokuratorowi.] <W każdym wypadku kopię tego wyroku doręcza się prokuratorowi.> § 2. [Wraz z odpisem wyroku należy doręczyć pouczenie przytaczające przepisy o prawie, terminie i sposobie wniesienia sprzeciwu oraz skutkach jego niewniesienia.] <Wraz z kopią wyroku należy doręczyć pouczenie przytaczające przepisy o prawie, terminie i sposobie wniesienia sprzeciwu oraz skutkach jego niewniesienia.> Pokrzywdzonego należy ponadto pouczyć, że warunkiem wniesienia sprzeciwu jest złożenie w terminie, o którym mowa w art. 506 § 1, niepóźniej niż jednocześnie ze sprzeciwem oświadczenia, że będzie on działał w charakterze oskarżyciela posiłkowego.
+§ 1. [Odpis wyroku nakazowego doręcza się oskarżycielowi i pokrzywdzonemu, a oskarżonemu i jego obrońcy – wraz z odpisem aktu oskarżenia.] Kopię wyroku nakazowego doręcza się oskarżycielowi i pokrzywdzonemu, a oskarżonemu i jego obrońcy – wraz z kopią aktu oskarżenia.> [W każdym wypadku odpis tego wyroku doręcza się prokuratorowi.] <W każdym wypadku kopię tego wyroku doręcza się prokuratorowi.>
+
+§ 2. [Wraz z odpisem wyroku należy doręczyć pouczenie przytaczające przepisy o prawie, terminie i sposobie wniesienia sprzeciwu oraz skutkach jego niewniesienia.] <Wraz z kopią wyroku należy doręczyć pouczenie przytaczające przepisy o prawie, terminie i sposobie wniesienia sprzeciwu oraz skutkach jego niewniesienia.> Pokrzywdzonego należy ponadto pouczyć, że warunkiem wniesienia sprzeciwu jest złożenie w terminie, o którym mowa w art. 506 § 1, niepóźniej niż jednocześnie ze sprzeciwem oświadczenia, że będzie on działał w charakterze oskarżyciela posiłkowego.
 
 § 3. Przepisy art. 131 § 2 i 3 stosuje się odpowiednio.
 
@@ -4686,13 +4462,15 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 3. W razie wniesienia sprzeciwu wyrok nakazowy traci moc; sprawa podlega rozpoznaniu na zasadach ogólnych.
 
-§ 4. (uchylony) § 5. Sprzeciw może być cofnięty do czasu rozpoczęcia przewodu sądowego na pierwszej rozprawie głównej.
+§ 4. (uchylony)
+
+§ 5. Sprzeciw może być cofnięty do czasu rozpoczęcia przewodu sądowego na pierwszej rozprawie głównej.
 
 § 6. Sąd rozpoznający sprawę po wniesieniu sprzeciwu nie jest związany treścią wyroku nakazowego, który utracił moc.
 
 **Art. 507.** Wyrok nakazowy, od którego nie wniesiono sprzeciwu lub sprzeciw cofnięto, staje się prawomocny.
 
-#### Rozdział 54
+#### Rozdział 54 (zawierający art. 508–517 – uchylony)
 
 #### Rozdział 54a Postępowanie przyspieszone
 
@@ -4748,9 +4526,15 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1a. W wypadku określonym w art. 517b § 2a prezes sądu lub sąd, w sposób wskazany w art. 137, zawiadamia oskarżonego oraz jego obrońcę, jeżeli został ustanowiony, o doręczeniu wniosku o rozpoznanie sprawy i oznacza czas na przygotowanie się do obrony. [Oskarżonemu oraz jego obrońcy doręcza się za pokwitowaniem przez funkcjonariusza Policji odpisy wniosku o rozpoznanie sprawy oraz udostępnia się kopie dokumentów, o których mowa w art. 517d § 1a.] <Oskarżonemu oraz jego obrońcy doręcza się za pokwitowaniem przez funkcjonariusza Policji kopie wniosku o rozpoznanie sprawy oraz udostępnia się kopie dokumentów, o których mowa w art. 517d § 1a.> Zatrzymanemu oskarżonemu należy umożliwić, w miejscu jego przebywania, kontakt z obrońcą bez obecności osób trzecich.
 
-§ 2. (uchylony) § 3. Sąd przystępuje niezwłocznie do rozpoznania sprawy. Przepisów art. 339 § 1 pkt 1 i 2 oraz art. 353 nie stosuje się.
+§ 2. (uchylony)
 
-§ 4. (uchylony) Art. 517ea. § 1. W wypadku określonym w art. 517b § 2a podczas czynności sądowych, w których oskarżony uczestniczy przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tych czynności na odległość, uczestnicy postępowania mogą składać wnioski oraz inne oświadczenia oraz dokonywać czynności procesowych wyłącznie ustnie do protokołu. O treści wszystkich pism procesowych, które wpłynęły do akt sprawy od chwili przekazania do sądu wniosku o rozpoznanie sprawy, sąd jest obowiązany poinformować przy najbliższej czynności procesowej oskarżonego oraz jego obrońcę. Na żądanie oskarżonego lub obrońcy sąd ma obowiązek odczytać treść tych pism.
+§ 3. Sąd przystępuje niezwłocznie do rozpoznania sprawy. Przepisów art. 339 § 1 pkt 1 i 2 oraz art. 353 nie stosuje się.
+
+§ 4. (uchylony)
+
+**Art. 517ea.**
+
+§ 1. W wypadku określonym w art. 517b § 2a podczas czynności sądowych, w których oskarżony uczestniczy przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tych czynności na odległość, uczestnicy postępowania mogą składać wnioski oraz inne oświadczenia oraz dokonywać czynności procesowych wyłącznie ustnie do protokołu. O treści wszystkich pism procesowych, które wpłynęły do akt sprawy od chwili przekazania do sądu wniosku o rozpoznanie sprawy, sąd jest obowiązany poinformować przy najbliższej czynności procesowej oskarżonego oraz jego obrońcę. Na żądanie oskarżonego lub obrońcy sąd ma obowiązek odczytać treść tych pism.
 
 § 2. W wypadku określonym w art. 517b § 2a pisma procesowe oskarżonego i jego obrońcy, których nie można było przekazać do sądu, mogą być przez nich odczytane na rozprawie. Z chwilą ich odczytania wywołują one skutek procesowy i są traktowane jako czynności dokonane w formie ustnej.
 
@@ -4770,7 +4554,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 3. Jeżeli na podstawie okoliczności ujawnionych po rozpoczęciu przewodu sądowego sąd przewiduje możliwość wymierzenia kary powyżej 2 lat pozbawienia wolności, rozstrzyga w przedmiocie środka zapobiegawczego i przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych; sędzia, który brał udział w wydaniu postanowienia, jest z mocy prawa wyłączony od dalszego udziału w sprawie.
 
-§ 4. W razie skazania oskarżonego na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania sąd, po wysłuchaniu stron, rozstrzyga w przedmiocie środka zapobiegawczego. Art. 517ga. W razie zarządzenia przerwy w rozprawie lub zmiany trybu postępowania w dalszym postępowaniu nie stosuje się w stosunku do oskarżonego sposobu uczestniczenia w czynnościach sądowych przewidzianego w art. 517b § 2a.
+§ 4. W razie skazania oskarżonego na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania sąd, po wysłuchaniu stron, rozstrzyga w przedmiocie środka zapobiegawczego.
+
+**Art. 517ga.** W razie zarządzenia przerwy w rozprawie lub zmiany trybu postępowania w dalszym postępowaniu nie stosuje się w stosunku do oskarżonego sposobu uczestniczenia w czynnościach sądowych przewidzianego w art. 517b § 2a.
 
 **Art. 517h.**
 
@@ -5000,6 +4786,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 § 3. Postępowanie wznawia się na korzyść oskarżonego, gdy potrzeba taka wynika z rozstrzygnięcia organu międzynarodowego działającego na mocy umowy międzynarodowej ratyfikowanej przez Rzeczpospolitą Polską.
 
 **Art. 540a.** Postępowanie sądowe zakończone prawomocnym orzeczeniem można wznowić, jeżeli:
+
+- **1)** skazany, do którego zastosowano przepis art. 60 § 3 lub 4 Kodeksu karnego lub art. 36 § 3 Kodeksu karnego skarbowego, nie potwierdził w postępowaniu karnym ujawnionych przez siebie informacji;
+- **2)** zachodzi okoliczność określona w art. 11 § 3.
 
 **Art. 540b.**
 
@@ -5257,6 +5046,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 577a.** Ilekroć w przepisach niniejszego działu jest mowa o:
 
+- **1)** postępowaniu europejskim – rozumie się przez to postępowanie karne prowadzone lub nadzorowane przez prokuratora Prokuratury Europejskiej zgodnie z właściwością określoną w rozporządzeniu Rady (UE) 2017/1939 z dnia 12 października 2017 r. wdrażającym wzmocnioną współpracę w zakresie ustanowienia Prokuratury Europejskiej (Dz. Urz. UE L 283 z 31.10.2017, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem 2017/1939”;
+- **2)** postępowaniu krajowym – rozumie się przez to postępowanie karne prowadzone lub nadzorowane przez prokuratora powszechnej jednostki organizacyjnej prokuratury.
+
 **Art. 577b.**
 
 § 1. Organem właściwym do wydania:
@@ -5289,6 +5081,12 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 #### Rozdział 61 Immunitety osób należących do przedstawicielstw dyplomatycznych i urzędów konsularnych państw obcych
 
 **Art. 578.** Nie podlegają orzecznictwu polskich sądów karnych:
+
+- **1)** uwierzytelnieni w Rzeczypospolitej Polskiej szefowie przedstawicielstw dyplomatycznych państw obcych;
+- **2)** osoby należące do personelu dyplomatycznego tych przedstawicielstw;
+- **3)** osoby należące do personelu administracyjnego i technicznego tych przedstawicielstw;
+- **4)** członkowie rodzin osób wymienionych w pkt 1–3, jeżeli pozostają z nimi we wspólnocie domowej;
+- **5)** inne osoby korzystające z immunitetów dyplomatycznych na podstawie ustaw, umów lub powszechnie uznanych zwyczajów międzynarodowych.
 
 **Art. 579.**
 
@@ -5330,6 +5128,13 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 #### Rozdział 62 Pomoc prawna i doręczenia w sprawach karnych
 
 **Art. 585.** W drodze pomocy prawnej mogą być dokonywane niezbędne czynności postępowania karnego, a w szczególności:
+
+- **1)** doręczanie pism osobom przebywającym za granicą lub instytucjom mającym siedzibę za granicą;
+- **2)** przesłuchiwanie osób w charakterze oskarżonych, świadków lub biegłych;
+- **3)** dokonywanie oględzin oraz przeszukiwanie pomieszczeń, innych miejsc i osób, zajęcie przedmiotów i wydawanie przedmiotów tych za granicę;
+- **4)** wzywanie osób przebywających za granicą do osobistego dobrowolnego stawiennictwa przed sądem lub prokuratorem w celu przesłuchania świadka lub konfrontacji, jak również doprowadzanie w tym celu osób pozbawionych w tym czasie wolności;
+- **5)** udostępnianie akt i dokumentów oraz informacji o karalności oskarżonych;
+- **6)** udzielanie informacji o prawie.
 
 **Art. 586.**
 
@@ -5444,7 +5249,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 3. Niezwłocznie po uprawomocnieniu się postanowienia o przepadku zabezpieczonego mienia, o którym mowa w § 1, właściwy sąd występuje do właściwego organu sądowego państwa wykonania postanowienia z wnioskiem o wykonanie tego przepadku.
 
-§ 4. (uchylony) § 5. Do postanowienia, o którym mowa w § 1, dołącza się zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
+§ 4. (uchylony)
+
+§ 5. Do postanowienia, o którym mowa w § 1, dołącza się zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
 
 § 6. Przekazywane dokumenty powinny zostać przetłumaczone na język urzędowy państwa wykonania postanowienia albo na inny język wskazany przez to państwo.
 
@@ -5468,7 +5275,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1. Jeżeli według prawa państwa wykonania postanowienia państwo to ponosi odpowiedzialność za szkodę wyrządzoną w związku z wykonaniem postanowienia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia, wydanego przez polski sąd albo prokuratora, na wniosek właściwego organu tego państwa Skarb Państwa zwraca mu kwotę pieniężną stanowiącą równowartość wypłaconego odszkodowania.
 
-§ 2. Przepisu § 1 nie stosuje się, jeżeli szkoda jest następstwem wyłącznie działania lub zaniechania organu państwa wykonania postanowienia. Art. 589ka. Przepisy niniejszego rozdziału w zakresie zatrzymania dowodów stosuje się do wystąpień do państw członkowskich Unii Europejskiej, w których nie ma zastosowania europejski nakaz dochodzeniowy.
+§ 2. Przepisu § 1 nie stosuje się, jeżeli szkoda jest następstwem wyłącznie działania lub zaniechania organu państwa wykonania postanowienia.
+
+**Art. 589ka.** Przepisy niniejszego rozdziału w zakresie zatrzymania dowodów stosuje się do wystąpień do państw członkowskich Unii Europejskiej, w których nie ma zastosowania europejski nakaz dochodzeniowy.
 
 #### Rozdział 62b Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia
 
@@ -5517,6 +5326,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 589o.** Wydając postanowienie o wykonaniu orzeczenia o zatrzymaniu dowodów lub mające na celu zabezpieczenie mienia, właściwy sąd albo prokurator może jednocześnie wstrzymać jego wykonanie, jeżeli:
 
+- **1)** wykonanie orzeczenia mogłoby utrudnić inne, toczące się postępowanie karne – na czas niezbędny dla zabezpieczenia prawidłowego toku tego postępowania;
+- **2)** dowód albo mienie, których dotyczy orzeczenie, zostały wcześniej zatrzymane albo zajęte dla potrzeb innego toczącego się postępowania karnego – do czasu zwolnienia spod zatrzymania albo zajęcia.
+
 **Art. 589p.**
 
 § 1. O treści postanowienia w przedmiocie wykonania orzeczenia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia powiadamia się niezwłocznie, w miarę możliwości w ciągu 24 godzin od otrzymania orzeczenia, właściwy organ sądowy państwa wydania tego orzeczenia. Powiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
@@ -5537,7 +5349,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 2. Przez wzgląd na okoliczności sprawy właściwy sąd albo prokurator może jednak, po konsultacji z właściwym organem sądowym państwa wydania orzeczenia, wyznaczyć temu organowi nieprzekraczalny termin do przekazania żądania określonego w § 1, po upływie którego może nastąpić zwolnienie spod zatrzymania albo zajęcia.
 
-§ 3. Przed upływem terminu, o którym mowa w § 2, właściwy sąd albo prokurator informuje właściwy organ sądowy państwa wykonania orzeczenia o zamiarze zwolnienia spod zatrzymania albo zajęcia, umożliwiając mu zgłoszenie stanowiska na piśmie. Jeżeli organ ten nie przedstawi argumentów dostatecznie uzasadniających dalsze zatrzymanie albo zajęcie, właściwy sąd albo prokurator wydaje postanowienie o zwolnieniu spod zatrzymania albo zajęcia. [Odpis postanowienia doręcza się osobom zainteresowanym.] <Kopię postanowienia doręcza się osobom zainteresowanym.> § 4. Postanowienie o zwolnieniu spod zatrzymania albo zajęcia wydaje się także wtedy, gdy właściwy organ sądowy państwa wydania orzeczenia zawiadomi o jego uchyleniu. Przepis § 3 zdanie trzecie stosuje się.
+§ 3. Przed upływem terminu, o którym mowa w § 2, właściwy sąd albo prokurator informuje właściwy organ sądowy państwa wykonania orzeczenia o zamiarze zwolnienia spod zatrzymania albo zajęcia, umożliwiając mu zgłoszenie stanowiska na piśmie. Jeżeli organ ten nie przedstawi argumentów dostatecznie uzasadniających dalsze zatrzymanie albo zajęcie, właściwy sąd albo prokurator wydaje postanowienie o zwolnieniu spod zatrzymania albo zajęcia. [Odpis postanowienia doręcza się osobom zainteresowanym.] <Kopię postanowienia doręcza się osobom zainteresowanym.>
+
+§ 4. Postanowienie o zwolnieniu spod zatrzymania albo zajęcia wydaje się także wtedy, gdy właściwy organ sądowy państwa wydania orzeczenia zawiadomi o jego uchyleniu. Przepis § 3 zdanie trzecie stosuje się.
 
 **Art. 589t.** (uchylony)
 
@@ -5568,6 +5382,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 § 7. W przypadku prowadzenia czynności operacyjno-rozpoznawczych na podstawie odrębnych przepisów END wydaje organ prowadzący takie czynności po uprzednim uzgodnieniu z organem państwa wykonania orzeczenia czasu ich trwania oraz warunków ich wykonywania. Wydanie END wymaga zatwierdzenia przez prokuratora właściwego na podstawie odrębnych przepisów, chyba że dopuszczenie, uzyskanie lub przeprowadzenie dowodu jest zastrzeżone do właściwości sądu. Wówczas wydanie END wymaga zatwierdzenia przez sąd właściwy na podstawie odrębnych przepisów.
 
 **Art. 589x.** Wydanie END jest niedopuszczalne, jeżeli:
+
+- **1)** nie wymaga tego interes wymiaru sprawiedliwości;
+- **2)** prawo polskie nie dopuszcza przeprowadzenia lub uzyskania danego dowodu.
 
 **Art. 589y.**
 
@@ -5601,9 +5418,17 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 4. Przed wydaniem END dotyczącego czasowego wydania osoby pozbawionej wolności na terytorium Rzeczypospolitej Polskiej do państwa wykonania orzeczenia organ wydający END wysłuchuje tej osoby.
 
-§ 5. Jeżeli END dotyczy czasowego wydania osoby pozbawionej wolności na terytorium Rzeczypospolitej Polskiej do państwa wykonania orzeczenia w celu przeprowadzenia czynności dochodzeniowej, okres faktycznego pozbawienia wolności tej osoby w tym państwie zalicza się na poczet orzeczonej lub wykonywanej w Rzeczypospolitej Polskiej kary pozbawienia wolności. Art. 589za. § 1. Organ wydający END może zażądać, aby przy przeprowadzeniu dowodu był obecny jego przedstawiciel.
+§ 5. Jeżeli END dotyczy czasowego wydania osoby pozbawionej wolności na terytorium Rzeczypospolitej Polskiej do państwa wykonania orzeczenia w celu przeprowadzenia czynności dochodzeniowej, okres faktycznego pozbawienia wolności tej osoby w tym państwie zalicza się na poczet orzeczonej lub wykonywanej w Rzeczypospolitej Polskiej kary pozbawienia wolności.
 
-§ 2. Jeżeli według prawa państwa wykonania orzeczenia państwo to poniosło odpowiedzialność za szkodę wyrządzoną przez przedstawiciela, o którym mowa w § 1, w związku z wykonaniem END wydanego lub zatwierdzonego przez sąd albo prokuratora, na wniosek właściwego organu tego państwa Skarb Państwa zwraca mu kwotę pieniężną stanowiącą równowartość wypłaconego odszkodowania. Art. 589zb. § 1. END jest przekazywany bezpośrednio właściwemu organowi państwa wykonania orzeczenia. END może być przekazywany również za pośrednictwem sądów okręgowych lub Ministra Sprawiedliwości albo prokuratora okręgowego lub Prokuratora Krajowego.
+**Art. 589za.**
+
+§ 1. Organ wydający END może zażądać, aby przy przeprowadzeniu dowodu był obecny jego przedstawiciel.
+
+§ 2. Jeżeli według prawa państwa wykonania orzeczenia państwo to poniosło odpowiedzialność za szkodę wyrządzoną przez przedstawiciela, o którym mowa w § 1, w związku z wykonaniem END wydanego lub zatwierdzonego przez sąd albo prokuratora, na wniosek właściwego organu tego państwa Skarb Państwa zwraca mu kwotę pieniężną stanowiącą równowartość wypłaconego odszkodowania.
+
+**Art. 589zb.**
+
+§ 1. END jest przekazywany bezpośrednio właściwemu organowi państwa wykonania orzeczenia. END może być przekazywany również za pośrednictwem sądów okręgowych lub Ministra Sprawiedliwości albo prokuratora okręgowego lub Prokuratora Krajowego.
 
 § 2. W razie trudności w ustaleniu właściwego sądu lub innego organu państwa wykonania orzeczenia sąd lub prokurator może zwracać się do właściwych jednostek organizacyjnych Europejskiej Sieci Sądowej.
 
@@ -5611,9 +5436,17 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 4. Jeżeli wykonanie END wiązałoby się ze znacznymi kosztami i jeżeli nie zawarto porozumienia z państwem wykonania orzeczenia w sprawie podziału tych kosztów, organ wydający END może zdecydować o całkowitym lub częściowym wycofaniu END albo o poniesieniu kosztów przez ten organ.
 
-§ 5. Koszty związane z czasowym wydaniem osoby pozbawionej wolności ponosi organ wydający END. Art. 589zc. § 1. Na postanowienie w przedmiocie wydania END zażalenie nie przysługuje, chyba że przepis szczególny dotyczący czynności wskazanej w END stanowi inaczej.
+§ 5. Koszty związane z czasowym wydaniem osoby pozbawionej wolności ponosi organ wydający END.
 
-§ 2. O wniesieniu zażalenia oraz o treści rozstrzygnięcia zapadłego w wyniku jego rozpoznania należy niezwłocznie powiadomić właściwy organ państwa wykonania orzeczenia. Art. 589zd. § 1. W związku z kontrolą i utrwalaniem treści rozmów telefonicznych zarządzonymi lub zatwierdzonymi na podstawie art. 237 § 1 i 2 w stosunku do osoby znajdującej się na terytorium innego państwa członkowskiego Unii Europejskiej, jeżeli nie zachodzi potrzeba wydania END, prokurator, Policja lub organ, o którym mowa w art. 312, powiadamia właściwy organ tego państwa o zamiarze przeprowadzenia tych czynności, ich przeprowadzaniu albo wykonaniu w zależności od tego, kiedy dowiedział się, że osoba, której czynność dotyczy, przebywa na terytorium tego państwa członkowskiego.
+**Art. 589zc.**
+
+§ 1. Na postanowienie w przedmiocie wydania END zażalenie nie przysługuje, chyba że przepis szczególny dotyczący czynności wskazanej w END stanowi inaczej.
+
+§ 2. O wniesieniu zażalenia oraz o treści rozstrzygnięcia zapadłego w wyniku jego rozpoznania należy niezwłocznie powiadomić właściwy organ państwa wykonania orzeczenia.
+
+**Art. 589zd.**
+
+§ 1. W związku z kontrolą i utrwalaniem treści rozmów telefonicznych zarządzonymi lub zatwierdzonymi na podstawie art. 237 § 1 i 2 w stosunku do osoby znajdującej się na terytorium innego państwa członkowskiego Unii Europejskiej, jeżeli nie zachodzi potrzeba wydania END, prokurator, Policja lub organ, o którym mowa w art. 312, powiadamia właściwy organ tego państwa o zamiarze przeprowadzenia tych czynności, ich przeprowadzaniu albo wykonaniu w zależności od tego, kiedy dowiedział się, że osoba, której czynność dotyczy, przebywa na terytorium tego państwa członkowskiego.
 
 § 2. Do powiadomienia stosuje się odpowiednio przepis art. 589y § 4.
 
@@ -5626,6 +5459,187 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 § 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór formularza powiadomienia, o którym mowa w § 1, mając na uwadze udostępnienie państwu członkowskiemu Unii Europejskiej danych niezbędnych do przekazania informacji w przedmiocie możliwości przeprowadzenia czynności na terytorium tego państwa oraz wykorzystania uzyskanych w ich wyniku dowodów w postępowaniu karnym.
 
 #### Rozdział 62d Wystąpienie państwa członkowskiego Unii Europejskiej o przeprowadzenie czynności dochodzeniowych na podstawie europejskiego nakazu dochodzeniowego
+
+**Art. 589ze.**
+
+§ 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie europejskiego nakazu dochodzeniowego, zwanego w niniejszym rozdziale „END”, postanowienie w przedmiocie jego wykonania wydaje prokurator albo sąd rejonowy, w którego okręgu znajduje się lub może zostać przeprowadzony dowód.
+
+§ 2. Jeżeli dopuszczenie, uzyskanie lub przeprowadzenie dowodu jest zastrzeżone do właściwości sądu albo uzależnione od zarządzenia tego sądu, postanowienie, o którym mowa w § 1, wydaje ten sąd.
+
+§ 3. Sąd okręgowy jest właściwy do wydania postanowienia w przedmiocie wykonania END dotyczącego czasowego wydania osoby pozbawionej wolności do państwa wydania orzeczenia w celu przeprowadzenia w tym państwie czynności dochodzeniowej. Przed wydaniem postanowienia należy wysłuchać osoby, której dotyczy END.
+
+§ 4. Sąd okręgowy jest właściwy do wydania postanowienia w przedmiocie wykonania END dotyczącego czasowego wydania osoby pozbawionej wolności do Rzeczypospolitej Polskiej w celu przeprowadzenia czynności dochodzeniowej.
+
+§ 5. Jeżeli sąd lub prokurator, do którego został skierowany END, nie jest właściwy do nadania mu biegu, przekazuje go właściwemu sądowi lub prokuratorowi i powiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia, zwane w niniejszym rozdziale „organem wydającym END”.
+
+§ 6. Jeżeli END został wydany przez nieuprawniony organ państwa wydania orzeczenia, zwraca się go bez wykonania, informując ten organ o przyczynie zwrotu.
+
+§ 7. Na postanowienie o wykonaniu END zażalenie nie przysługuje, chyba że przepis szczególny dotyczący postanowienia o wykonaniu czynności tożsamej z czynnością wskazaną w END stanowi inaczej. W zażaleniu na czynność skarżący może domagać się wyłącznie zbadania zgodności postanowienia o wykonaniu END z prawem polskim i prawidłowości jej przeprowadzenia.
+
+§ 8. O wniesieniu zażalenia, jak również o treści rozstrzygnięcia zapadłego w wyniku jego rozpoznania należy niezwłocznie powiadomić organ wydający END.
+
+§ 9. Jeżeli przepis szczególny uzależnia ujawnienie informacji od wystąpienia przez sąd lub prokuratora z żądaniem ich ujawnienia w związku z toczącym się postępowaniem o przestępstwo lub przestępstwo skarbowe, END wraz z prawomocnym postanowieniem sądu lub prokuratora o jego wykonaniu zastępuje takie żądanie.
+
+§ 10. Postanowienie o wykonaniu END, który dotyczy kontroli i utrwalania treści rozmów telefonicznych oraz utrwalania przy użyciu środków technicznych treści innych rozmów lub przekazów informacji, w tym korespondencji przesyłanej pocztą elektroniczną, zastępuje postanowienie, o którym mowa w art. 237 § 1. Przepisy art. 237 § 3–7, art. 238 § 1 i 2, art. 239 § 1 i art. 241 stosuje się odpowiednio.
+
+**Art. 589zf.**
+
+§ 1. Jeżeli END dotyczy czasowego wydania do Rzeczypospolitej Polskiej osoby pozbawionej wolności w celu przeprowadzenia czynności dochodzeniowej, przepis art. 589a stosuje się odpowiednio. Sąd lub prokurator zarządza zwolnienie osoby, jeżeli państwo wydania orzeczenia o to wystąpi. Sąd albo prokurator informuje organ wydający END o faktycznym okresie pozbawienia wolności tej osoby w Rzeczypospolitej Polskiej.
+
+§ 2. Wydana czasowo osoba pozbawiona wolności, o której mowa w § 1, nie może być ścigana ani zatrzymana, ani tymczasowo aresztowana z powodu przestępstwa popełnionego przed przekroczeniem polskiej granicy państwowej, niewskazanego w END. Nie może być także w stosunku do takiej osoby wykonana kara orzeczona za takie przestępstwo.
+
+§ 3. Zakazów określonych w § 2 nie stosuje się wobec osoby, która mogąc opuścić terytorium Rzeczypospolitej Polskiej, znajduje się na nim po upływie 15 dni od dnia otrzymania informacji sądu lub prokuratora, że jej obecność stała się zbędna dla postępowania karnego, albo powróci na terytorium Rzeczypospolitej Polskiej po upływie tego terminu.
+
+§ 4. Jeżeli END dotyczy czasowego wydania osoby pozbawionej wolności do państwa wydania orzeczenia w celu przeprowadzenia czynności dochodzeniowej, okres faktycznego pozbawienia wolności tej osoby w tym państwie zalicza się na poczet orzeczonej lub wykonywanej w Rzeczypospolitej Polskiej kary pozbawienia wolności.
+
+**Art. 589zg.**
+
+§ 1. Sąd lub prokurator orzeka w przedmiocie wykonania END niezwłocznie, niepóźniej jednak niż w terminie 30 dni, licząc od dnia jego otrzymania.
+
+§ 2. Jeżeli termin określony w § 1 nie może być dotrzymany, orzeczenie w przedmiocie wykonania END powinno zostać wydane w terminie kolejnych 30 dni, licząc od dnia upływu tego terminu. O opóźnieniu należy powiadomić organ wydający END, podając przyczynę opóźnienia oraz przewidywany termin wydania orzeczenia w przedmiocie wykonania END.
+
+**Art. 589zh.**
+
+§ 1. Jeżeli dowód, którego dotyczy END, nie został jeszcze przeprowadzony, sąd lub prokurator przeprowadza ten dowód niezwłocznie po wydaniu postanowienia o wykonaniu END, niepóźniej jednak niż w terminie 90 dni, licząc od dnia wydania tego postanowienia. Jeżeli organ wydający END określił termin do przeprowadzenia dowodu, sąd lub prokurator w miarę możliwości uwzględnia ten termin.
+
+§ 2. Jeżeli termin określony w § 1 nie może być dotrzymany, o opóźnieniu należy powiadomić organ wydający END, podając przyczynę opóźnienia oraz przewidywany termin przeprowadzenia dowodu.
+
+**Art. 589zi.**
+
+§ 1. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu END stosuje się przepisy prawa polskiego. Należy jednak uczynić zadość życzeniu organu wydającego END, aby przy dokonaniu czynności zastosowano szczególny tryb postępowania lub szczególną formę, jeżeli nie jest to sprzeczne z zasadami porządku prawnego Rzeczypospolitej Polskiej.
+
+§ 2. Jeżeli czynność dochodzeniowa określona w END nie jest przewidziana przez prawo polskie lub byłaby niedopuszczalna w podobnej sprawie krajowej, sąd lub prokurator informuje o tym organ wydający END, wskazując termin do zmiany, uzupełnienia lub cofnięcia END oraz określając możliwą do przeprowadzenia zastępczą czynność dochodzeniową zgodną z celem END. Po upływie terminu sąd lub prokurator postanawia o wykonaniu zastępczej czynności dochodzeniowej. Jeżeli zastępczej czynności nie da się określić, sąd lub prokurator odmawia wykonania END.
+
+§ 3. Zastępczej czynności dochodzeniowej nie przeprowadza się, jeżeli END dotyczy:
+
+- **1)** dowodów już znajdujących się w posiadaniu sądu lub prokuratora;
+- **2)** informacji uzyskanych z rejestrów i baz danych dostępnych dla sądu lub prokuratora wykonującego END;
+- **3)** przesłuchania osoby na terytorium Rzeczypospolitej Polskiej;
+- **4)** dowodu, którego dopuszczenie, uzyskanie ani przeprowadzenie nie wymaga wydania postanowienia;
+- **5)** identyfikacji abonenta telefonu lub adresu IP.
+
+§ 4. W przypadkach, o których mowa w § 3, przeprowadza się czynność wskazaną w END.
+
+§ 5. Jeżeli uzyskanie dowodu określonego w END jest możliwe przez przeprowadzenie zastępczej czynności dochodzeniowej, innej niż wskazana w tym orzeczeniu i mniej dolegliwej dla osoby, której END dotyczy, sąd lub prokurator informuje o tym organ wydający END, wskazując termin do zmiany, uzupełnienia lub cofnięcia END. Po upływie terminu sąd lub prokurator określa w postanowieniu przeprowadzenie zastępczej czynności dochodzeniowej.
+
+§ 6. Jeżeli END zawiera wniosek o przeprowadzenie czynności operacyjnorozpoznawczych, w zakresie tego wniosku odpowiednie służby polskie i służby państwa wydania orzeczenia uzgadniają czas trwania i warunki wykonywania czynności. Można odmówić wykonania END, który nie zawiera informacji o uzgodnieniu, a organ wydający END nie uzupełni tej informacji w terminie wskazanym przez sąd lub prokuratora. Odmawia się wykonania END, jeżeli wykonanie czynności w nim określonych nie byłoby dopuszczalne w podobnej sprawie krajowej.
+
+§ 7. Do czasu otrzymania informacji lub upływu terminu, o których mowa w § 6, termin określony w art. 589zg § 1 nie biegnie.
+
+**Art. 589zj.**
+
+§ 1. Odmawia się wykonania END, jeżeli:
+
+- **1)** sąd lub prokurator nie uzyskał wymaganego zezwolenia umożliwiającego przeprowadzenie czynności z udziałem osoby wskazanej w END;
+- **2)** w stosunku do osoby ściganej zapadło w państwie członkowskim Unii Europejskiej prawomocne orzeczenie co do tych samych czynów, które zostały wskazane w END, oraz, w przypadku skazania za te same czyny, osoba ścigana odbywa karę lub ją odbyła albo kara nie może być wykonana według prawa państwa, w którym zapadł wyrok skazujący;
+- **3)** wykonanie END mogłoby narazić na niebezpieczeństwo funkcjonariusza przy wykonywaniu czynności operacyjno-rozpoznawczych oraz osobę udzielającą mu pomocy w zakresie tych czynności;
+- **4)** END dotyczy przesłuchania na okoliczność objętą bezwzględnym zakazem przesłuchania;
+- **5)** wykonanie END naruszyłoby wolności i prawa człowieka i obywatela;
+- **6)** żądana czynność zagrażałaby bezpieczeństwu narodowemu;
+- **7)** END dotyczy czasowego wydania osoby pozbawionej wolności do państwa wydania orzeczenia, a jego wykonanie skutkowałoby przedłużeniem okresu pozbawienia wolności tej osoby.
+
+§ 2. Można odmówić wykonania END, jeżeli:
+
+- **1)** czyn będący podstawą wydania END, inny niż wymieniony w art. 607w, nie stanowi przestępstwa według prawa polskiego;
+- **2)** czyn będący podstawą wydania END według prawa polskiego został popełniony w całości lub w części na terytorium Rzeczypospolitej Polskiej lub na polskim statku wodnym lub powietrznym i nie stanowi przestępstwa według prawa polskiego;
+- **3)** wykonanie END wiązałoby się z ujawnieniem informacji niejawnych uzyskanych w toku czynności operacyjno-rozpoznawczych, jak również związanych z prowadzeniem tych czynności;
+- **4)** według prawa polskiego czynność dochodzeniowa, której dotyczy END, nie może być przeprowadzona w sprawie o przestępstwo będące podstawą jego wydania;
+- **5)** według prawa polskiego czynność dochodzeniowa, której dotyczy END, nie może być przeprowadzona w postępowaniu, w którym został on wydany;
+- **6)** END dotyczy czasowego wydania osoby pozbawionej wolności do państwa wydania orzeczenia albo do Rzeczypospolitej Polskiej, a osoba ta nie wyraża na to zgody;
+- **7)** END dotyczy przesłuchania przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku, a oskarżony, który ma zostać przesłuchany, nie wyraża na to zgody;
+- **8)** END dotyczy przesłuchania osób, o których mowa w art. 179 § 1 lub art. 180 § 1 i 2, co do okoliczności określonych w tych przepisach.
+
+§ 3. Przepisów § 2 pkt 1 i 2 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.
+
+§ 4. W przypadku określonym w § 2 pkt 8 sąd, działając z urzędu lub na wniosek prokuratora, orzeka w przedmiocie zwolnienia tych osób z zachowania tajemnicy. Przepisy art. 179 i art. 180 § 1–4 stosuje się.
+
+§ 5. Przed wydaniem postanowienia o odmowie wykonania END z przyczyn określonych w § 1 pkt 1–6 lub § 2 pkt 2, 3 i 8 sąd lub prokurator konsultuje się z organem wydającym END w celu umożliwienia mu zmiany lub uzupełnienia END.
+
+§ 6. Nie można odmówić wykonania END z przyczyn określonych w § 2 pkt 1 i 4, jeżeli dotyczy on czynności dochodzeniowych określonych w art. 589zi § 3.
+
+**Art. 589zk.**
+
+§ 1. Właściwy sąd lub prokurator może postanowić o odroczeniu wykonania END na niezbędny okres, jeżeli:
+
+- **1)** jego wykonanie mogłoby zaszkodzić toczącemu się postępowaniu karnemu;
+- **2)** przedmioty, dokumenty lub dane są wykorzystywane w innym postępowaniu.
+
+§ 2. Po ustaniu przyczyny odroczenia wykonania END właściwy sąd lub prokurator niezwłocznie przystępuje do jego wykonania, informując o tym jednocześnie organ wydający END.
+
+**Art. 589zl.**
+
+§ 1. Sąd lub prokurator potwierdza otrzymanie END niezwłocznie, nie później jednak niż w terminie tygodnia, licząc od dnia jego otrzymania.
+
+§ 2. Potwierdzenie, o którym mowa w § 1, zawiera informacje dotyczące organu, który otrzymał END, lub organu, któremu END został przekazany zgodnie z właściwością.
+
+§ 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór formularza potwierdzenia otrzymania END, mając na uwadze konieczność udostępnienia państwu wydania orzeczenia pełnych informacji o otrzymaniu END.
+
+**Art. 589zm.** Sąd lub prokurator niezwłocznie informuje organ wydający END:
+
+- **1)** o niemożności wydania postanowienia w sprawie END, w przypadku gdy formularz END jest niekompletny lub błędnie wypełniony;
+- **2)** jeżeli uzna, że może być celowe przeprowadzenie czynności dochodzeniowych, których nie przewidziano lub których nie można było wskazać w chwili wydawania END;
+- **3)** o niemożności dopełnienia formalności i procedur wskazanych przez organ wydający END;
+- **4)** o każdym przypadku odmowy wykonania END lub o postanowieniu przeprowadzenia zastępczej czynności dochodzeniowej na podstawie art. 589zi § 2 lub 5;
+- **5)** o każdym przypadku odroczenia wykonania END, podając przyczyny uzasadniające to odroczenie i jego okres;
+- **6)** o uchyleniu lub zakończeniu okresu zabezpieczenia stosowanego zgodnie z art. 589zq.
+
+**Art. 589zn.**
+
+§ 1. W przypadku powzięcia wątpliwości, czy wydanie END było uzasadnione lub celowe lub czy dana czynność dochodzeniowa byłaby dopuszczalna w państwie wydania orzeczenia, właściwy sąd lub prokurator konsultuje się z organem wydającym END i jeżeli wymaga tego interes wymiaru sprawiedliwości, występuje z wnioskiem o cofnięcie END.
+
+§ 2. W przypadku powzięcia wątpliwości co do autentyczności dokumentów niezbędnych do wykonania END lub wystąpienia technicznych przeszkód uniemożliwiających jego wykonanie, przepis § 1 stosuje się odpowiednio.
+
+**Art. 589zo.**
+
+§ 1. Na wniosek państwa wydania orzeczenia przedstawicielowi organu wydającego END umożliwia się obecność przy wykonywaniu czynności, których dotyczy END, jeżeli nie jest to sprzeczne z zasadami porządku prawnego Rzeczypospolitej Polskiej i nie stanowi zagrożenia dla bezpieczeństwa narodowego.
+
+§ 2. Przedstawiciel, o którym mowa w § 1, za zgodą sądu lub prokuratora, może zadawać określone pytania lub w inny sposób uczestniczyć w przeprowadzeniu dowodu.
+
+§ 3. Przedstawiciela, o którym mowa w § 1, uważa się za funkcjonariusza publicznego w rozumieniu przepisów Kodeksu karnego.
+
+§ 4. Jeżeli Skarb Państwa poniósł odpowiedzialność za szkodę wyrządzoną przez przedstawiciela, o którym mowa w § 1, w związku z wykonaniem END, Skarb Państwa występuje do organu wydającego END o zwrot wypłaconej kwoty pieniężnej stanowiącej równowartość wypłaconego odszkodowania.
+
+**Art. 589zp.**
+
+§ 1. Dowody uzyskane w związku z wykonaniem END są niezwłocznie przekazywane państwu wydania orzeczenia. W przypadku określonym w art. 589zo § 1 mogą być one przekazywane, na wniosek państwa wydania orzeczenia, przedstawicielowi organu wydającego END.
+
+§ 2. Przekazując dowody uzyskane w związku z wykonaniem END, sąd lub prokurator może, po konsultacjach z organem wydającym END, zastrzec ich zwrot.
+
+**Art. 589zq.**
+
+§ 1. Jeżeli END został wydany w celu zabezpieczenia śladów i dowodów przestępstwa przed ich utratą, zniekształceniem lub zniszczeniem, właściwy sąd lub prokurator orzeka w przedmiocie wykonania END w terminie 24 godzin od jego otrzymania, a jeżeli nie jest to możliwe – niezwłocznie po upływie tego terminu. Zgodnie z wnioskiem państwa wydania orzeczenia sąd lub prokurator przekazuje dowód państwu wydania orzeczenia lub pozostawia dowód do swojej dyspozycji na czas określony przez państwo wydania orzeczenia.
+
+§ 2. Sąd lub prokurator po konsultacji z organem wydającym END może zdecydować o skróceniu okresu zabezpieczenia.
+
+**Art. 589zr.**
+
+§ 1. Koszty związane z wykonaniem END ponosi Skarb Państwa. W uzasadnionych przypadkach sąd lub prokurator może wystąpić do organu wydającego END o zwrot całości lub części przewidywanych wydatków albo o zmianę END.
+
+§ 2. Koszty związane z czasowym wydaniem osoby pozbawionej wolności ponosi państwo wydania orzeczenia.
+
+**Art. 589zs.**
+
+§ 1. Na wniosek innego państwa członkowskiego Unii Europejskiej Minister Sprawiedliwości udziela zezwolenia na przewóz przez terytorium Rzeczypospolitej Polskiej osoby pozbawionej wolności czasowo wydanej.
+
+§ 2. Wniosek o zezwolenie na przewóz zawiera:
+
+- **1)** oznaczenie organu wnioskującego;
+- **2)** datę oraz wskazanie miejsca wydania END;
+- **3)** dane określające tożsamość i obywatelstwo osoby;
+- **4)** wskazanie czynności dochodzeniowej, na potrzeby której osoba jest czasowo wydawana.
+
+§ 3. W przypadku korzystania z drogi powietrznej bez planowanego lądowania można poprzestać na powiadomieniu Ministra Sprawiedliwości o przewożeniu osoby pozbawionej wolności czasowo wydanej nad terytorium Rzeczypospolitej Polskiej. Jeżeli jednak nastąpi nieprzewidziane lądowanie, państwo, które wystąpiło z wnioskiem, dostarcza niezwłocznie dane, o których mowa w § 2.
+
+§ 4. Jeżeli jest to uzasadnione długością pobytu na terytorium Rzeczypospolitej Polskiej osoby pozbawionej wolności i przewożonej przez to terytorium w celu jej czasowego wydania, do osoby tej stosuje się odpowiednio przepis art. 589zf.
+
+**Art. 589zt.**
+
+§ 1. Jeżeli organ innego państwa członkowskiego Unii Europejskiej zamiast END przekazał powiadomienie o zamiarze przeprowadzenia albo o przeprowadzeniu kontroli i utrwalania treści rozmów telefonicznych, prokurator bezpośrednio lub za pośrednictwem właściwego komendanta Policji przekazuje temu organowi informacje w przedmiocie dopuszczalności:
+
+- **1)** czynności, mając na względzie art. 237 § 3–4 oraz art. 238 § 1 i 2;
+- **2)** wykorzystania uzyskanego dowodu w postępowaniu karnym.
+
+§ 2. Informacje, o których mowa w § 1, przekazuje się w terminie 96 godzin od otrzymania powiadomienia.
 
 #### Rozdział 63 Przejęcie i przekazanie ścigania karnego
 
@@ -5741,7 +5755,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 602.**
 
-§ 1. (uchylony) § 2. W razie złożenia przez organ państwa obcego wniosku o wydanie osoby ściganej w celu przeprowadzenia przeciw niej postępowania karnego lub wykonania orzeczonej co do niej kary albo środka zabezpieczającego, prokurator przesłuchuje tę osobę i w miarę potrzeby zabezpiecza dowody znajdujące się w kraju, po czym wnosi sprawę do właściwego miejscowo sądu okręgowego.
+§ 1. (uchylony)
+
+§ 2. W razie złożenia przez organ państwa obcego wniosku o wydanie osoby ściganej w celu przeprowadzenia przeciw niej postępowania karnego lub wykonania orzeczonej co do niej kary albo środka zabezpieczającego, prokurator przesłuchuje tę osobę i w miarę potrzeby zabezpiecza dowody znajdujące się w kraju, po czym wnosi sprawę do właściwego miejscowo sądu okręgowego.
 
 **Art. 603.**
 
@@ -5831,6 +5847,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 **Art. 607a.** W razie podejrzenia, że osoba ścigana za przestępstwo podlegające jurysdykcji polskich sądów karnych może przebywać na terytorium państwa członkowskiego Unii Europejskiej, właściwy miejscowo sąd okręgowy, na wniosek prokuratora, a w postępowaniu sądowym i wykonawczym – z urzędu lub na wniosek właściwego sądu rejonowego, może wydać europejski nakaz aresztowania, zwany w niniejszym rozdziale „nakazem”.
 
 **Art. 607b.** Wydanie nakazu jest niedopuszczalne, jeśli nie wymaga tego interes wymiaru sprawiedliwości. Ponadto wydanie nakazu jest niedopuszczalne:
+
+- **1)** w związku z prowadzonym przeciwko osobie ściganej postępowaniem karnym o przestępstwo zagrożone karą pozbawienia wolności do roku;
+- **2)** w celu wykonania kary pozbawienia wolności orzeczonej w wymiarze do 4 miesięcy albo innego środka polegającego na pozbawieniu wolności na czas nieprzekraczający 4 miesięcy.
 
 **Art. 607c.**
 
@@ -6029,6 +6048,50 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 607w.** Jeżeli nakaz europejski dotyczy osoby niebędącej obywatelem polskim, okoliczność, że czyn nie jest przestępstwem według prawa polskiego, nie stanowi przeszkody do wykonania nakazu europejskiego, o ile dotyczy on czynu zagrożonego w państwie jego wydania karą co najmniej 3 lat pozbawienia wolności albo czynu, za który może być orzeczony co najmniej w tym samym wymiarze inny środek polegający na pozbawieniu wolności, będącego przestępstwem:
 
+- **1)** udziału w zorganizowanej grupie albo związku mających na celu popełnianie przestępstw;
+- **2)** o charakterze terrorystycznym;
+- **3)** handlu ludźmi;
+- **4)** przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego;
+- **5)** nielegalnego wytwarzania, przetwarzania, przemytu środków odurzających, prekursorów, środków zastępczych lub substancji psychotropowych lub obrotu nimi;
+- **6)** nielegalnego obrotu bronią, amunicją, materiałami wybuchowymi lub radioaktywnymi;
+- **7)** łapownictwa i płatnej protekcji;
+- **8)** oszustwa;
+- **9)** wprowadzania do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł;
+- **10)** fałszowania oraz obrotu fałszywymi pieniędzmi lub innymi środkami płatniczymi;
+- **11)** przeciwko ochronie danych gromadzonych, przechowywanych, przetwarzanych lub przekazywanych w systemie informatycznym;
+- **12)** przeciwko środowisku naturalnemu, w tym nielegalnego obrotu zagrożonymi gatunkami zwierząt i roślin;
+- **13)** udzielenia pomocy w nielegalnym przekroczeniu granicy lub pobycie;
+- **14)** zabójstwa;
+- **15)** spowodowania ciężkiego uszczerbku na zdrowiu;
+- **16)** nielegalnego obrotu organami i tkankami ludzkimi;
+- **17)** bezprawnego pozbawienia człowieka wolności;
+- **18)** uprowadzenia człowieka dla okupu;
+- **19)** wzięcia lub przetrzymywania zakładnika;
+- **20)** popełnionym z powodów narodowościowych, etnicznych, rasowych, wyznaniowych albo ze względu na bezwyznaniowość;
+- **21)** rozboju z użyciem broni palnej lub groźby jej użycia;
+- **22)** wymuszenia rozbójniczego z użyciem broni palnej lub groźby jej użycia;
+- **23)** nielegalnego obrotu dobrami kultury;
+- **24)** sprzeniewierzenia cudzego mienia;
+- **25)** podrabiania oraz obrotu podrobionymi wyrobami;
+- **26)** fałszowania oraz obrotu sfałszowanymi dokumentami;
+- **27)** nielegalnego obrotu hormonami lub podobnymi substancjami;
+- **28)** obrotu kradzionymi pojazdami mechanicznymi;
+- **29)** zgwałcenia;
+- **30)** podpalenia;
+- **31)** należącym do właściwości Międzynarodowego Trybunału Karnego;
+- **32)** porwania statku wodnego lub powietrznego;
+- **33)** sabotażu.
+
+**Art. 607wa.**
+
+§ 1. Właściwy sąd lub prokurator na wniosek organu sądowego państwa wydania nakazu europejskiego dokonuje zajęcia i przekazania przedmiotów pochodzących bezpośrednio z przestępstwa, przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstwa, lub mogących stanowić dowód w sprawie rzeczy, korespondencji, przesyłek, wykazów połączeń telekomunikacyjnych lub innych przekazów informacji lub danych przechowywanych w systemie informatycznym lub na nośniku, w tym korespondencji przesyłanej pocztą elektroniczną.
+
+§ 2. Zajęcia i przekazania dowodów i przedmiotów, o których mowa w § 1, należy dokonać również wtedy, gdy wykonanie nakazu europejskiego nie jest możliwe ze względu na śmierć lub ucieczkę osoby ściganej.
+
+§ 3. Przy przekazaniu przedmiotów, o których mowa w § 1, można zastrzec ich zwrot, w szczególności gdy podlegają one zwrotowi pokrzywdzonemu lub innemu uprawnionemu podmiotowi, przebywającemu na terytorium Rzeczypospolitej Polskiej.
+
+§ 4. Przepisy rozdziału 62b stosuje się odpowiednio.
+
 **Art. 607x.**
 
 § 1. Jeżeli przed wydaniem w pierwszej instancji postanowienia w przedmiocie przekazania wpłynie nakaz europejski dotyczący tej samej osoby, wydany przez organ sądowy innego państwa członkowskiego Unii Europejskiej, sąd rozpoznaje oba nakazy europejskie łącznie. Orzekając o przekazaniu osoby ściganej do danego państwa, sąd bierze pod uwagę okoliczności każdej ze spraw, wagę przestępstwa i miejsce jego popełnienia, kolejność wydania nakazów europejskich oraz ich cele.
@@ -6047,9 +6110,17 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1. Jeżeli informacje przekazane przez państwo wydania nakazu europejskiego nie są wystarczające do podjęcia decyzji w przedmiocie przekazania osoby ściganej, sąd wzywa organ sądowy, który wydał nakaz europejski, do ich uzupełnienia we wskazanym terminie.
 
-§ 2. W wypadku niedotrzymania terminu, o którym mowa w § 1, nakaz europejski podlega rozpoznaniu w oparciu o informacje przekazane wcześniej. Art. 607za. § 1. Wniosek właściwego organu sądowego państwa wydania nakazu europejskiego o zgodę na ściganie lub wykonanie kar pozbawienia wolności albo środków polegających na pozbawieniu wolności za czyny popełnione przed przekazaniem albo o zgodę na dalsze przekazanie osoby ściganej rozpatruje sąd okręgowy, który orzekł o przekazaniu. Przepisy art. 607b, 607p, 607r, 607s § 1 i 2 oraz art. 607z stosuje się odpowiednio.
+§ 2. W wypadku niedotrzymania terminu, o którym mowa w § 1, nakaz europejski podlega rozpoznaniu w oparciu o informacje przekazane wcześniej.
 
-§ 2. W przedmiocie wniosku, o którym mowa w § 1, sąd orzeka w terminie 30 dni od dnia otrzymania wniosku. Art. 607zb. § 1. Na wniosek państwa wykonania nakazu europejskiego Minister Sprawiedliwości udziela zezwolenia na przewóz osoby ściganej na podstawie nakazu europejskiego przez terytorium Rzeczypospolitej Polskiej.
+**Art. 607za.**
+
+§ 1. Wniosek właściwego organu sądowego państwa wydania nakazu europejskiego o zgodę na ściganie lub wykonanie kar pozbawienia wolności albo środków polegających na pozbawieniu wolności za czyny popełnione przed przekazaniem albo o zgodę na dalsze przekazanie osoby ściganej rozpatruje sąd okręgowy, który orzekł o przekazaniu. Przepisy art. 607b, 607p, 607r, 607s § 1 i 2 oraz art. 607z stosuje się odpowiednio.
+
+§ 2. W przedmiocie wniosku, o którym mowa w § 1, sąd orzeka w terminie 30 dni od dnia otrzymania wniosku.
+
+**Art. 607zb.**
+
+§ 1. Na wniosek państwa wykonania nakazu europejskiego Minister Sprawiedliwości udziela zezwolenia na przewóz osoby ściganej na podstawie nakazu europejskiego przez terytorium Rzeczypospolitej Polskiej.
 
 § 2. Wniosek o zezwolenie na przewóz, o którym mowa w § 1, powinien zawierać:
 
@@ -6061,11 +6132,132 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 3. Jeżeli osoba ścigana jest obywatelem polskim albo korzysta w Rzeczypospolitej Polskiej z prawa azylu, zezwolenie, o którym mowa w § 1, można wydać pod warunkiem, że osoba ta po zakończeniu postępowania zostanie przekazana do wykonania kary pozbawienia wolności lub środka polegającego na pozbawieniu wolności na terytorium Rzeczypospolitej Polskiej.
 
-§ 4. W wypadku korzystania z drogi powietrznej bez planowanego lądowania, można poprzestać na powiadomieniu Ministra Sprawiedliwości o przewożeniu osoby ściganej nad terytorium Rzeczypospolitej Polskiej. Jeżeli jednak nastąpi nieprzewidziane lądowanie, państwo wykonania nakazu europejskiego dostarcza niezwłocznie dane, o których mowa w § 2; przepis § 3 stosuje się odpowiednio. Art. 607zc. Jeżeli sąd, do którego został skierowany nakaz europejski, nie jest właściwy do nadania mu biegu, przekazuje go właściwemu organowi sądowemu i powiadamia o tym organ sądowy, który go wydał.
+§ 4. W wypadku korzystania z drogi powietrznej bez planowanego lądowania, można poprzestać na powiadomieniu Ministra Sprawiedliwości o przewożeniu osoby ściganej nad terytorium Rzeczypospolitej Polskiej. Jeżeli jednak nastąpi nieprzewidziane lądowanie, państwo wykonania nakazu europejskiego dostarcza niezwłocznie dane, o których mowa w § 2; przepis § 3 stosuje się odpowiednio.
+
+**Art. 607zc.** Jeżeli sąd, do którego został skierowany nakaz europejski, nie jest właściwy do nadania mu biegu, przekazuje go właściwemu organowi sądowemu i powiadamia o tym organ sądowy, który go wydał.
 
 #### Rozdział 65c Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie środka zapobiegawczego
 
+**Art. 607zd.**
+
+§ 1. W razie orzeczenia przez polski sąd lub prokuratora środka zapobiegawczego określonego w art. 272, art. 275, art. 275a lub art. 276 oraz jeżeli zapewni to prawidłowy tok postępowania, sąd lub prokurator może wystąpić o wykonanie tego orzeczenia do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, w którym oskarżony posiada legalne stałe miejsce pobytu, o ile przebywa on w tym państwie lub oświadczy, że zamierza tam powrócić.
+
+§ 2. Wystąpienie, o którym mowa w § 1, może być na wniosek oskarżonego skierowane również do innego państwa członkowskiego niż państwo legalnego stałego miejsca pobytu oskarżonego, za zgodą właściwego sądu lub innego organu tego państwa.
+
+§ 3. Wystąpienie, o którym mowa w § 1, sąd lub prokurator kieruje każdorazowo wyłącznie do jednego państwa wykonania orzeczenia. Ponowne wystąpienie do innego państwa wykonania orzeczenia może nastąpić jedynie w razie niewykonania albo częściowego wykonania orzeczenia.
+
+§ 4. Do poświadczonego za zgodność z oryginałem odpisu orzeczenia, o którym mowa w § 1, dołącza się zaświadczenie zawierające informacje umożliwiające jego prawidłowe wykonanie dotyczące: orzeczenia, osoby oskarżonego, środka zapobiegawczego i kwalifikacji prawnej czynu.
+
+§ 5. Zaświadczenie powinno zostać przetłumaczone na język urzędowy państwa wykonania orzeczenia albo na inny język wskazany przez to państwo.
+
+§ 6. Przekazanie odpisu orzeczenia oraz zaświadczenia, o którym mowa w § 4, może nastąpić również z wykorzystaniem urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności tych dokumentów. Na żądanie właściwego sądu lub innego organu państwa wykonania orzeczenia sąd lub prokurator przekazuje odpis orzeczenia oraz oryginał zaświadczenia.
+
+§ 7. W razie trudności w ustaleniu właściwego sądu lub innego organu państwa wykonania orzeczenia sąd lub prokurator może również zwracać się do właściwych jednostek organizacyjnych Europejskiej Sieci Sądowej.
+
+§ 8. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 4, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania orzeczenia.
+
+**Art. 607ze.**
+
+§ 1. Do chwili otrzymania informacji o przejęciu wykonania orzeczenia, o którym mowa w art. 607zd § 1, przez właściwy sąd lub inny organ państwa wykonania orzeczenia, a także w razie otrzymania informacji o niemożności lub odmowie wykonania orzeczenia przez właściwy sąd lub inny organ państwa wykonania orzeczenia, o zaprzestaniu jego wykonywania przez ten organ, a także w wypadku cofnięcia wystąpienia środek zapobiegawczy jest wykonywany w dalszym ciągu przez właściwy organ.
+
+§ 2. W razie otrzymania informacji o dostosowaniu środka zapobiegawczego do prawa państwa wykonania orzeczenia i przed rozpoczęciem wykonywania tego środka w tym państwie sąd lub prokurator w ciągu 10 dni od dnia otrzymania informacji może cofnąć wystąpienie, o którym mowa w art. 607zd § 1, mając na uwadze cele środka.
+
+**Art. 607zf.**
+
+§ 1. W razie zmiany lub uchylenia środka zapobiegawczego albo zmiany obowiązków nałożonych na oskarżonego sąd lub prokurator niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania orzeczenia.
+
+§ 2. Zawiadomienie, o którym mowa w § 1, może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
+
+**Art. 607zg.** Na postanowienie sądu lub prokuratora w sprawie wystąpienia do właściwego sądu lub innego organu państwa wykonania orzeczenia zażalenie nie przysługuje.
+
 #### Rozdział 65d Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia wydanego w celu zapewnienia prawidłowego toku postępowania
+
+**Art. 607zh.**
+
+§ 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie orzeczenia wydanego w celu zapewnienia prawidłowego toku postępowania i nakładającego na osobę, przeciwko której w tym państwie prowadzone jest postępowanie karne, obowiązek:
+
+- **1)** stawiennictwa przed określonym organem,
+- **2)** powstrzymania się od opuszczania miejsca pobytu lub kraju,
+- **3)** informowania określonego organu o zmianie miejsca pobytu albo uzyskiwania zgody na taką zmianę,
+- **4)** przebywania albo powstrzymania się od przebywania w określonych środowiskach lub miejscach,
+- **5)** powstrzymania się od kontaktów z określonymi osobami lub zbliżania się do określonych osób,
+- **6)** powstrzymania się od wykonywania czynności służbowych lub zawodu,
+- **7)** powstrzymania się od określonej działalności,
+- **8)** powstrzymania się od prowadzenia określonego rodzaju pojazdów – orzeczenie to podlega wykonaniu przez prokuratora właściwego miejscowo ze względu na legalne stałe miejsce pobytu tej osoby.
+
+§ 2. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające informacje umożliwiające jego prawidłowe wykonanie.
+
+§ 3. Jeżeli prokurator, do którego zostało skierowane wystąpienie, nie jest właściwy do nadania mu biegu, przekazuje je właściwemu prokuratorowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia.
+
+§ 4. Na wniosek właściwego sądu lub innego organu państwa wydania orzeczenia prokurator może wyrazić zgodę na wykonanie orzeczenia, o którym mowa w § 1, wydanego wobec osoby określonej w tym paragrafie, nieposiadającej legalnego stałego miejsca pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli w większym stopniu zapewni to prawidłowy tok postępowania.
+
+§ 5. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu orzeczeń, o których mowa w § 1, stosuje się przepisy prawa polskiego.
+
+**Art. 607zi.**
+
+§ 1. Jeżeli państwo wydania orzeczenia nie przekazało wszystkich informacji potrzebnych do podjęcia decyzji w przedmiocie wykonania orzeczenia, prokurator wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do ich uzupełnienia we wskazanym terminie. W razie niedotrzymania terminu postanowienie w przedmiocie wykonania orzeczenia wydaje się w oparciu o posiadane informacje.
+
+§ 2. Jeżeli rodzaj albo sposób wykonania obowiązków są nieznane ustawie, prokurator określa środek lub obowiązek według prawa polskiego, z uwzględnieniem różnic na korzyść osoby, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne.
+
+**Art. 607zj.**
+
+§ 1. Postanowienie w przedmiocie wykonania orzeczenia, o którym mowa w art. 607zh § 1, prokurator wydaje w terminie 30 dni od dnia otrzymania orzeczenia wraz z zaświadczeniem.
+
+§ 2. Na postanowienie prokuratora w przedmiocie wykonania orzeczenia, o którym mowa w art. 607zh § 1, przysługuje zażalenie do sądu rejonowego, w okręgu którego osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, posiada legalne stałe miejsce pobytu. Sąd rozpoznaje zażalenie na posiedzeniu, w którym ma prawo wziąć udział prokurator, osoba wymieniona w zdaniu pierwszym, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jej obrońca, jeżeli się na nie stawi. Jeżeli osoba wymieniona w zdaniu pierwszym nie przebywa na terytorium Rzeczypospolitej Polskiej i nie posiada obrońcy, prezes sądu właściwego do rozpoznania zażalenia może jej wyznaczyć obrońcę z urzędu.
+
+§ 3. Postępowanie w przedmiocie wykonania orzeczenia powinno zakończyć się prawomocnie w terminie 60 dni od dnia otrzymania orzeczenia wraz z zaświadczeniem.
+
+§ 4. W wypadku gdy termin określony w § 3 nie może być dotrzymany, należy zawiadomić właściwy sąd lub inny organ państwa wydania orzeczenia o przyczynie opóźnienia i podać przewidywany termin wydania postanowienia.
+
+§ 5. Do wykonania orzeczenia właściwego sądu lub innego organu państwa wydania orzeczenia prokurator przystępuje niezwłocznie.
+
+**Art. 607zk.**
+
+§ 1. Odmawia się wykonania orzeczenia, o którym mowa w art. 607zh § 1, jeżeli:
+
+- **1)** czyn, w związku z którym zastosowano środek zapobiegawczy, nie stanowi przestępstwa według prawa polskiego;
+- **2)** osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, nie przebywa na terytorium Rzeczypospolitej Polskiej, chyba że istnieją podstawy do uznania, że na nie powróci.
+
+§ 2. Przepisu § 1 pkt 1 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.
+
+§ 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 607zh § 1, jeżeli:
+
+- **1)** pomimo wezwania przez prokuratora do uzupełnienia informacji we wskazanym terminie do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 607zh § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;
+- **2)** przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a osoba ta odbywa karę lub ją odbyła albo kara nie może być wykonana według prawa państwa, w którym zapadł wyrok skazujący;
+- **3)** według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;
+- **4)** orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;
+- **5)** osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyn będący podstawą wydania orzeczenia;
+- **6)** osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, korzysta z immunitetu, zgodnie z którym niemożliwy jest nadzór nad przestrzeganiem nałożonych obowiązków;
+- **7)** orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 607zh § 1;
+- **8)** orzeczenie zostało przekazane pomimo niespełnienia warunków przewidzianych w art. 607zh § 4;
+- **9)** przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii;
+- **10)** pomimo niestosowania się osoby, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, do wymagań określonych w orzeczeniu nie jest możliwe przekazanie jej z terytorium Rzeczypospolitej Polskiej na podstawie europejskiego nakazu aresztowania.
+
+§ 4. W wypadku wskazanym w § 3 pkt 10, gdy przemawiają za tym szczególne względy, prokurator, w uzgodnieniu z właściwym sądem lub innym organem państwa wydania orzeczenia, może orzec o wykonaniu orzeczenia.
+
+§ 5. W wypadkach przewidzianych w § 1 pkt 2 oraz w § 3 pkt 1, 2 i 7 prokurator przed podjęciem decyzji w przedmiocie wykonania orzeczenia informuje o możliwości odmowy wykonania orzeczenia właściwy sąd lub inny organ państwa wydania orzeczenia.
+
+**Art. 607zl.**
+
+§ 1. W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, iż orzeczenie przekazane do wykonania nie podlega dalszemu wykonaniu, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu wykonywania orzeczenia.
+
+§ 2. Jeżeli dalsze wykonywanie orzeczenia nie jest możliwe z przyczyn faktycznych lub prawnych, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu wykonywania orzeczenia i zawiadamia właściwy sąd lub inny organ państwa wydania orzeczenia.
+
+§ 3. W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o zmianie obowiązku nałożonego na osobę, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, prokurator rozpoznaje sprawę wykonania zmienionego orzeczenia na zasadach określonych w niniejszym rozdziale. Przepisu art. 607zk nie stosuje się, z wyjątkiem § 1 pkt 2 i § 3 pkt 7.
+
+**Art. 607zm.**
+
+§ 1. O treści postanowienia w przedmiocie wykonania orzeczenia, o którym mowa w art. 607zh § 1, o wniesieniu środka odwoławczego od tego postanowienia, o istotnych orzeczeniach zapadłych w trakcie postępowania, jak również w razie zmiany legalnego stałego miejsca pobytu przez osobę, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia.
+
+§ 2. Prokurator zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia o wszelkich okolicznościach mających wpływ na jego wykonanie. Zawiadomienie następuje w formie zaświadczenia zawierającego informacje dotyczące osoby określonej w § 1 oraz naruszonego obowiązku.
+
+§ 3. W razie ustania przyczyn, na skutek których obowiązek został zastosowany, lub powstania przyczyn uzasadniających jego uchylenie lub zmianę prokurator może wystąpić do właściwego sądu lub innego organu państwa wydania orzeczenia o jego uchylenie lub zmianę.
+
+§ 4. Zawiadomienia, o których mowa w § 1 i 2 oraz wystąpienie, o którym mowa w § 3, mogą być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
+
+§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 2, mając na uwadze konieczność udostępnienia państwu wydania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji.
+
+**Art. 607zn.** Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 607zh § 1, ponosi Skarb Państwa.
 
 #### Rozdział 66 Przejęcie i przekazanie orzeczeń do wykonania
 
@@ -6103,7 +6295,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1. Właściwy do rozpoznania spraw określonych w art. 608 § 3 w związku z § 1 i art. 609 § 1 jest sąd okręgowy, w którego okręgu skazany ostatnio stale mieszkał lub czasowo przebywał.
 
-§ 2. (uchylony) § 3. Właściwy do rozpoznania spraw określonych w art. 610 § 2 i 3 jest sąd okręgowy, w którego okręgu wydano orzeczenie, którego wniosek dotyczy.
+§ 2. (uchylony)
+
+§ 3. Właściwy do rozpoznania spraw określonych w art. 610 § 2 i 3 jest sąd okręgowy, w którego okręgu wydano orzeczenie, którego wniosek dotyczy.
 
 § 3a. Do rozpoznania spraw innych niż określone w § 1 i 3 właściwy jest sąd rejonowy, w którego okręgu skazany stale mieszkał lub czasowo przebywał, a jeżeli tego nie ustalono – sąd rejonowy, w którego okręgu znajduje się mienie nadające się do egzekucji lub w którego okręgu skazany prowadzi działalność objętą zakazem.
 
@@ -6159,17 +6353,299 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 2. Jeżeli organ państwa obcego zwróci się o wykonanie prawomocnego orzeczenia o zabezpieczeniu mienia, gdy mienie podlegające zabezpieczeniu znajduje się na terytorium Rzeczypospolitej Polskiej, właściwy do wykonania orzeczenia jest sąd rejonowy lub prokurator, w którego okręgu znajduje się to mienie.
 
-**Art. 611e.** Jeżeli skazany prawomocnym wyrokiem albo wobec którego prawomocnie orzeczono środek, opuści terytorium państwa skazania, udając się na terytorium państwa, którego jest obywatelem, zanim odbędzie orzeczoną karę albo zanim zostanie wykonany orzeczony wobec niego środek, przepisy niniejszego rozdziału stosuje się odpowiednio. Przepisów art. 611b § 1 pkt 3 oraz § 2 pkt 2 nie stosuje się. Art. 611ea. § 1. Jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, przewiduje bezpośrednie przekazywanie wniosków o przejęcie i przekazanie orzeczeń do wykonania między polskimi sądami a właściwymi organami państwa obcego, to:
+**Art. 611e.** Jeżeli skazany prawomocnym wyrokiem albo wobec którego prawomocnie orzeczono środek, opuści terytorium państwa skazania, udając się na terytorium państwa, którego jest obywatelem, zanim odbędzie orzeczoną karę albo zanim zostanie wykonany orzeczony wobec niego środek, przepisy niniejszego rozdziału stosuje się odpowiednio. Przepisów art. 611b § 1 pkt 3 oraz § 2 pkt 2 nie stosuje się.
+
+**Art. 611ea.**
+
+§ 1. Jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, przewiduje bezpośrednie przekazywanie wniosków o przejęcie i przekazanie orzeczeń do wykonania między polskimi sądami a właściwymi organami państwa obcego, to:
+
+- **1)** przepisów niniejszego rozdziału o udziale Ministra Sprawiedliwości w przejmowaniu i przekazywaniu orzeczeń do wykonania nie stosuje się;
+- **2)** postępowanie w przedmiocie dopuszczalności przejęcia lub przekazania można wszcząć z urzędu;
+- **3)** o przekazanie orzeczenia do wykonania sąd może do właściwego organu państwa obcego zwrócić się z urzędu;
+- **4)** stwierdzenie dopuszczalności przejęcia lub przekazania jest równoznaczne ze zgodą na przejęcie lub przekazanie;
+- **5)** stwierdzenie niedopuszczalności przejęcia lub przekazania jest równoznaczne z odmową zgody na przejęcie lub przekazanie.
+
+§ 2. Minister Sprawiedliwości może przejąć prowadzenie każdej sprawy w przedmiocie przejęcia lub przekazania orzeczenia do wykonania, jeżeli umowa międzynarodowa nie sprzeciwia się temu.
+
+§ 3. Minister Sprawiedliwości może zażądać przedstawienia mu niezbędnych informacji lub kopii dokumentów z akt sprawy, jeśli zachodzi konieczność, aby rozważył przejęcie prowadzenia sprawy o przejęcie lub przekazanie orzeczenia do wykonania.
+
+§ 4. Przejęcie prowadzenia sprawy przez Ministra Sprawiedliwości może nastąpić do czasu prawomocnego zakończenia postępowania w przedmiocie dopuszczalności przejęcia lub przekazania orzeczenia do wykonania. W razie skutecznego przejęcia sprawy przepisu § 1 nie stosuje się, a postępowanie prowadzi się od początku.
 
 **Art. 611f.** Przepisy niniejszego rozdziału stosuje się odpowiednio do przejęcia lub przekazania do wykonania orzeczeń o karach pieniężnych.
 
 #### Rozdział 66a Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia dotyczącego grzywny, nawiązki, świadczenia pieniężnego lub orzeczenia zasądzającego od sprawcy koszty procesu
 
+**Art. 611fa.**
+
+§ 1. W razie prawomocnego orzeczenia przez sąd polski wobec obywatela polskiego lub cudzoziemca grzywny, nawiązki, świadczenia pieniężnego lub zasądzenia od sprawcy kosztów procesu sąd może wystąpić o jego wykonanie bezpośrednio do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, w którym sprawca posiada mienie lub osiąga dochody albo ma stałe lub czasowe miejsce pobytu.
+
+§ 2. Wystąpienie, o którym mowa w § 1, każdorazowo sąd kieruje wyłącznie do jednego państwa wykonania orzeczenia. Ponowne wystąpienie do innego państwa wykonania orzeczenia może nastąpić jedynie w razie niewykonania albo częściowego wykonania orzeczenia.
+
+§ 3. Do poświadczonego za zgodność z oryginałem odpisu orzeczenia, o którym mowa w § 1, dołącza się zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
+
+§ 4. Zaświadczenie powinno zostać przetłumaczone na język urzędowy państwa wykonania orzeczenia albo na inny język wskazany przez to państwo.
+
+§ 5. Przekazanie odpisu orzeczenia oraz zaświadczenia, o którym mowa w § 3, może nastąpić również z wykorzystaniem urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności tych dokumentów. Na żądanie właściwego sądu lub innego organu państwa wykonania orzeczenia sąd przekazuje odpis orzeczenia oraz oryginał zaświadczenia.
+
+§ 6. W razie trudności w ustaleniu właściwego sądu lub innego organu państwa wykonania orzeczenia sąd może również zwracać się do właściwych jednostek organizacyjnych Europejskiej Sieci Sądowej.
+
+§ 7. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 3, obejmujący szczegółowe informacje dotyczące przekazanego do wykonania orzeczenia, w tym informacje o każdej wpłacie dokonanej na poczet orzeczonej kary, środka karnego, środka kompensacyjnego lub kosztów procesu oraz o ewentualnej zgodzie na zamianę grzywny na pracę społecznie użyteczną, wykonanie zastępczej kary pozbawienia wolności lub inny środek, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania orzeczenia.
+
+**Art. 611fb.**
+
+§ 1. Kwoty uzyskane z egzekucji orzeczeń, o których mowa w art. 611fa § 1, przypadają państwu wykonania orzeczenia.
+
+§ 2. Minister Sprawiedliwości może zawrzeć z odpowiednim organem państwa wykonania orzeczenia porozumienie przewidujące podział kwot uzyskanych z egzekucji orzeczeń, o których mowa w § 1.
+
+§ 3. W wypadku zawarcia porozumienia, o którym mowa w § 2, sąd wzywa właściwy sąd lub inny organ państwa wykonania orzeczenia do przekazania całości albo części wyegzekwowanej kwoty na rachunek bankowy tego sądu lub rachunek bankowy innego wskazanego podmiotu. Przekazana na rachunek sądu kwota uzyskana z egzekucji środka karnego lub środka kompensacyjnego orzeczonego na rzecz pokrzywdzonego lub innej osoby uprawnionej albo wskazanej w orzeczeniu instytucji, stowarzyszenia, fundacji lub organizacji społecznej zostaje następnie przekazana tej osobie lub podmiotowi.
+
+**Art. 611fc.**
+
+§ 1. W razie wystąpienia o wykonanie orzeczenia, o którym mowa w art. 611fa § 1, postępowanie wykonawcze zawiesza się.
+
+§ 2. Po otrzymaniu informacji o wykonaniu orzeczenia sąd podejmuje zawieszone postępowanie i umarza je. Postępowanie umarza się również, jeżeli w stosunku do sprawcy zapadło w innym państwie członkowskim i zostało wykonane prawomocne orzeczenie co do tego samego czynu.
+
+§ 3. W razie otrzymania informacji o niemożności wykonania orzeczenia w całości albo części z powodów innych niż wskazane w § 2 zdanie drugie sąd podejmuje zawieszone postępowanie celem jego dalszego prowadzenia.
+
+**Art. 611fd.**
+
+§ 1. W razie uchylenia orzeczenia na skutek kasacji albo wznowienia postępowania, darowania kary, przedawnienia jej wykonania lub też w razie wystąpienia innych okoliczności skutkujących niemożnością wykonania orzeczenia, o którym mowa w art. 611fa § 1, sąd niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania orzeczenia.
+
+§ 2. Sąd zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wykonania orzeczenia o każdej wpłacie dokonanej na poczet orzeczonej kary, środków karnych, środków kompensacyjnych lub kosztów procesu, o których mowa w art. 611fa § 1, a także o orzeczonym przepadku.
+
+**Art. 611fe.** Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu państwa wykonania orzeczenia na posiedzeniu, w którym ma prawo wziąć udział prokurator, pokrzywdzony lub inna osoba albo podmiot uprawniony, o których mowa w art. 611fb § 3, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej i jego obrońca, jeżeli się na nie stawi. Na postanowienie sądu zażalenie nie przysługuje.
+
 #### Rozdział 66b Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia o karach o charakterze pieniężnym
+
+**Art. 611ff.**
+
+§ 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie prawomocnego orzeczenia o karach o charakterze pieniężnym, orzeczenie to podlega wykonaniu przez sąd rejonowy, w okręgu którego sprawca posiada mienie lub osiąga dochody, albo ma stałe lub czasowe miejsce pobytu. W rozumieniu przepisów niniejszego rozdziału „karą o charakterze pieniężnym” jest obowiązek uiszczenia przez sprawcę określonych w orzeczeniu:
+
+- **1)** kwoty pieniężnej jako kary za popełnione przestępstwo;
+- **2)** zadośćuczynienia na rzecz pokrzywdzonego, jeżeli nie mógł on w ramach postępowania karnego dochodzić roszczeń o charakterze cywilnym;
+- **3)** kwoty pieniężnej na rzecz funduszu publicznego lub organizacji pomocy ofiarom przestępstw;
+- **4)** kosztów procesu.
+
+§ 2. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
+
+§ 3. Do wykonania orzeczenia sądu lub innego organu państwa wydania orzeczenia sąd przystępuje niezwłocznie.
+
+§ 4. Jeżeli sąd, do którego zostało skierowane orzeczenie, nie jest właściwy do nadania mu biegu, przekazuje je właściwemu sądowi i powiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia.
+
+§ 5. Jeżeli orzeczenie, o którym mowa w § 1, dotyczy czynów, które nie zostały popełnione na terytorium państwa wydania orzeczenia i podlegają jurysdykcji sądów polskich, sąd może postanowić o obniżeniu wysokości podlegającej egzekucji kary o charakterze pieniężnym do maksymalnej wysokości kary lub środka karnego jakie mogłyby być orzeczone za takie same czyny według prawa polskiego.
+
+§ 6. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu orzeczeń, o których mowa w § 1, stosuje się przepisy prawa polskiego. Przepis art. 611c § 3 stosuje się odpowiednio.
+
+**Art. 611fg.** Można odmówić wykonania orzeczenia, o którym mowa w art. 611ff § 1, jeżeli:
+
+- **1)** czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w lub zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo:
+    - **a)** popełnione z użyciem przemocy na osobie lub gróźb karalnych,
+    - **b)** popełnione w związku z imprezą masową,
+    - **c)** przeciwko bezpieczeństwu w komunikacji,
+    - **d)** kradzieży,
+    - **e)** zniszczenia lub uszkodzenia mienia,
+    - **f)** przemytu towarów,
+    - **g)** przeciwko prawom własności intelektualnej,
+    - **h)** określone w celu wykonania wynikających z aktów prawnych przyjętych przez właściwe instytucje Unii Europejskiej zobowiązań do ustanowienia sankcji w prawie wewnętrznym państw członkowskich, jednakże wyłącznie w granicach, w jakich zobowiązanie to zostało w tych aktach określone;
+
+- **2)** do orzeczenia nie dołączono zaświadczenia o którym mowa w art. 611ff § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty jest niezgodne z treścią orzeczenia;
+- **3)** przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim, a orzeczenie w zakresie kary o charakterze pieniężnym zostało wykonane;
+- **4)** według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwa, których to dotyczy, podlegały jurysdykcji sądów polskich;
+- **5)** orzeczenie dotyczy przestępstw, które według prawa polskiego zostały popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;
+- **6)** orzeczenie dotyczy przestępstw popełnionych poza terytorium państwa wydania orzeczenia, a prawo polskie nie dopuszcza ścigania takiego rodzaju przestępstw, jeżeli zostały one popełnione poza terytorium Rzeczypospolitej Polskiej;
+- **7)** sprawca nie podlega jurysdykcji polskich sądów karnych, lub też brak jest wymaganego zezwolenia na jego ściganie;
+- **8)** osoba, której dotyczy orzeczenie, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania orzeczenia;
+- **9)** z treści zaświadczenia, o którym mowa w art. 611ff § 2, wynika, iż osoba, której dotyczy orzeczenie, nie została należycie pouczona o możliwości i prawie do zaskarżenia tego orzeczenia;
+- **10)** z treści zaświadczenia, o którym mowa w art. 611ff § 2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:
+    - **a)** sprawcę wezwano do udziału w postępowaniu lub w inny sposób zawiadomiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia albo sprawca miał obrońcę, który był obecny na rozprawie lub posiedzeniu,
+    - **b)** po doręczeniu sprawcy odpisu orzeczenia wraz z pouczeniem o przysługującym mu prawie, terminie i sposobie złożenia w państwie wydania nakazu wniosku o przeprowadzenie z jego udziałem nowego postępowania sądowego w tej samej sprawie, sprawca w ustawowym terminie nie złożył takiego wniosku albo oświadczył, że nie kwestionuje orzeczenia;
+
+- **11)** przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych, podlega darowaniu na mocy amnestii;
+- **12)** orzeczenie dotyczy kary o charakterze pieniężnym niższej niż 70 euro lub niższej niż równowartość tej kwoty w innej walucie.
+
+**Art. 611fh.**
+
+§ 1. Sąd rozpoznaje sprawę wykonania orzeczenia o karach o charakterze pieniężnym na posiedzeniu, w którym ma prawo wziąć udział prokurator, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Jeżeli sprawca, który nie przebywa na terytorium Rzeczypospolitej Polskiej, nie posiada obrońcy, prezes sądu właściwego do rozpoznania sprawy może mu wyznaczyć obrońcę z urzędu.
+
+§ 2. Na postanowienie sądu w przedmiocie wykonania orzeczenia o karach o charakterze pieniężnym przysługuje zażalenie.
+
+§ 3. Prawomocne orzeczenie o karach o charakterze pieniężnym wraz z dołączonym zaświadczeniem, o którym mowa w art. 611ff § 2, stanowi tytuł egzekucyjny i podlega wykonaniu w Rzeczypospolitej Polskiej po wydaniu postanowienia o jego wykonaniu.
+
+§ 4. Jeżeli informacje przekazane przez państwo wydania orzeczenia nie są wystarczające do podjęcia decyzji w przedmiocie wykonania orzeczenia o karach o charakterze pieniężnym, sąd wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do ich uzupełnienia we wskazanym terminie.
+
+§ 5. W razie niedotrzymania terminu, o którym mowa w § 4, postanowienie w przedmiocie wykonania orzeczenia wydaje się w oparciu o informacje przekazane wcześniej.
+
+**Art. 611fi.**
+
+§ 1. Kwota uzyskana z tytułu wykonania orzeczenia, o którym mowa w art. 611ff § 1, stanowi dochód budżetu państwa.
+
+§ 2. Minister Sprawiedliwości może zawrzeć z odpowiednim organem państwa wydania orzeczenia porozumienie przewidujące podział kwot uzyskanych z wykonania orzeczenia, o którym mowa w § 1.
+
+§ 3. W wypadku zawarcia porozumienia, o którym mowa w § 2, sąd, na wezwanie właściwego sądu lub innego organu państwa wydania orzeczenia, przekazuje całość albo część kwoty uzyskanej z tytułu wykonania orzeczenia, zgodnie z porozumieniem.
+
+**Art. 611fj.**
+
+§ 1. Jeżeli sprawca lub inna osoba przedstawi dowód uiszczenia w całości albo części kar o charakterze pieniężnym, o których mowa w podlegającym wykonaniu orzeczeniu, sąd, przed wydaniem postanowienia w przedmiocie wykonania tego orzeczenia, wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do potwierdzenia dokonanej wpłaty.
+
+§ 2. Kwoty uprzednio uzyskane na poczet kary w państwie wydania lub wykonania orzeczenia są odliczane od kwoty, która ma być wyegzekwowana.
+
+**Art. 611fk.** W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, iż orzeczenie przekazane do wykonania nie podlega dalszemu wykonaniu, sąd wydaje niezwłocznie postanowienie o umorzeniu postępowania wykonawczego.
+
+**Art. 611fl.** O treści postanowienia w przedmiocie wykonania orzeczenia o karach o charakterze pieniężnym, jak również o zakończeniu postępowania egzekucyjnego, a także o zamianie kary o charakterze pieniężnym na pracę społecznie użyteczną lub o wykonaniu zastępczej kary pozbawienia wolności, jeżeli prawo polskie dopuszcza taką możliwość, powiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Powiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
+
+**Art. 611fm.** Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611ff § 1, ponosi Skarb Państwa.
 
 #### Rozdział 66c Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia przepadku
 
+**Art. 611fn.**
+
+§ 1. W razie prawomocnego orzeczenia przez sąd polski wobec obywatela polskiego lub cudzoziemca przepadku, sąd może wystąpić o jego wykonanie bezpośrednio do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, w którym sprawca posiada mienie lub osiąga dochody, a w razie niemożności jego ustalenia, państwa, w którym ma stałe lub czasowe miejsce pobytu.
+
+§ 2. Wystąpienie, o którym mowa w § 1, sąd każdorazowo kieruje wyłącznie do jednego państwa wykonania orzeczenia, z zastrzeżeniem § 3 i 4.
+
+§ 3. Jeżeli wystąpienie dotyczy określonych składników mienia, może ono nastąpić do więcej niż jednego państwa wykonania orzeczenia, jeżeli istnieje prawdopodobieństwo, że:
+
+- **1)** określone składniki mienia znajdują się w więcej niż jednym państwie wykonania orzeczenia lub w jednym z wielu państw wykonania orzeczenia lub
+- **2)** postępowanie wykonawcze będzie prowadzone w więcej niż jednym państwie wykonania orzeczenia.
+
+§ 4. Jeżeli wystąpienie dotyczy kwoty pieniężnej, może być skierowane do więcej niż jednego państwa wykonania orzeczenia, jeżeli mienie, co do którego może nastąpić przepadek, nie zostało zabezpieczone na podstawie postanowienia, o którym mowa w art. 589g § 1, lub gdy jego wartość nie jest wystarczająca do wyegzekwowania kwoty pieniężnej, co do której orzeczono przepadek, lub gdy przemawia za tym dobro postępowania.
+
+§ 5. Do poświadczonego za zgodność z oryginałem odpisu orzeczenia, o którym mowa w § 1, dołącza się zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
+
+§ 6. Zaświadczenie powinno zostać przetłumaczone na język urzędowy państwa wykonania orzeczenia albo na inny język wskazany przez to państwo.
+
+§ 7. Przekazanie odpisu orzeczenia oraz zaświadczenia, o którym mowa w § 5, może nastąpić również z wykorzystaniem urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności tych dokumentów. Na żądanie właściwego sądu lub innego organu państwa wykonania orzeczenia sąd przekazuje odpis orzeczenia oraz oryginał zaświadczenia.
+
+§ 8. W razie trudności w ustaleniu właściwego sądu lub innego organu państwa wykonania orzeczenia sąd może również zwracać się do właściwych jednostek organizacyjnych Europejskiej Sieci Sądowej.
+
+§ 9. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 5, zawierając w nim szczegółowe informacje dotyczące przekazanego do wykonania orzeczenia, w tym informacje o każdej wpłacie dokonanej na poczet orzeczonego przepadku kwoty pieniężnej, przepadku równowartości przedmiotów lub przepadku równowartości korzyści majątkowej oraz o ewentualnej zgodzie na wykonanie przepadku przez zapłatę jego równowartości pieniężnej, o zgodzie na przekazanie mienia innego niż pieniądze oraz o zastępczych formach wykonania przepadku, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania orzeczenia.
+
+**Art. 611fo.**
+
+§ 1. Jeżeli kwota uzyskana z tytułu wykonania orzeczeń, o których mowa w art. 611fn § 1, przewyższa równowartość 10 000 euro, sąd wzywa właściwy sąd lub inny organ państwa wykonania orzeczenia do przekazania połowy uzyskanej kwoty na rachunek bankowy tego sądu.
+
+§ 2. Jeżeli wystąpienie obejmuje przepadek kwoty pieniężnej, sąd może wezwać właściwy sąd lub inny organ państwa wykonania orzeczenia do przekazania mienia innego niż pieniądze, uzyskanego z tytułu wykonania orzeczenia objętego wystąpieniem.
+
+§ 3. Minister Sprawiedliwości może zawrzeć z odpowiednim organem państwa wykonania orzeczenia porozumienie co do sposobu wykonania orzeczenia przepadku, w szczególności przewidując odmienny podział kwot uzyskanych z egzekucji orzeczeń, o których mowa w § 1.
+
+§ 4. W wypadku zawarcia porozumienia, o którym mowa w § 3, sąd wzywa właściwy sąd lub inny organ państwa wykonania orzeczenia do przekazania całości albo części wyegzekwowanej kwoty lub mienia innego niż pieniądze, uzyskanych z tytułu wykonania orzeczenia, zgodnie z porozumieniem.
+
+**Art. 611fp.** Wystąpienie o wykonanie orzeczenia, o którym mowa w art. 611fn § 1, nie wstrzymuje postępowania wykonawczego.
+
+**Art. 611fr.**
+
+§ 1. W razie uchylenia orzeczenia na skutek kasacji albo wznowienia postępowania, darowania kary, przedawnienia jej wykonania lub też w razie wystąpienia innych okoliczności skutkujących niemożnością wykonania orzeczenia, o którym mowa w art. 611fn § 1, sąd niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania orzeczenia.
+
+§ 2. Sąd zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wykonania orzeczenia o każdej kwocie pieniężnej uzyskanej z tytułu wykonania orzeczeń, o których mowa w art. 611fn § 1.
+
+**Art. 611fs.** Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu państwa wykonania orzeczenia na posiedzeniu, w którym ma prawo wziąć udział prokurator, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Na postanowienie sądu zażalenie nie przysługuje.
+
+**Art. 611ft.**
+
+§ 1. Jeżeli według prawa państwa wykonania orzeczenia państwo to ponosi odpowiedzialność za szkodę wyrządzoną w związku z wykonaniem orzeczenia przepadku wydanego przez polski sąd, na wniosek właściwego sądu lub innego organu tego państwa Skarb Państwa zwraca mu kwotę pieniężną stanowiącą równowartość wypłaconego odszkodowania.
+
+§ 2. Przepisu § 1 nie stosuje się, jeżeli szkoda jest wyłącznym następstwem działania lub zaniechania organu państwa wykonania orzeczenia.
+
 #### Rozdział 66d Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia przepadku
+
+**Art. 611fu.**
+
+§ 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie prawomocnego orzeczenia przepadku, orzeczenie to podlega wykonaniu przez sąd rejonowy, w okręgu którego sprawca posiada mienie lub osiąga dochody albo ma stałe lub czasowe miejsce pobytu.
+
+§ 2. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
+
+§ 3. Do wykonania orzeczenia państwa wydania orzeczenia sąd przystępuje niezwłocznie.
+
+§ 4. Jeżeli sąd, do którego zostało skierowane orzeczenie, nie jest właściwy do nadania mu biegu, przekazuje je właściwemu sądowi i powiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia.
+
+§ 5. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu orzeczeń, o których mowa w § 1, stosuje się przepisy prawa polskiego. Przepis art. 611c § 3 stosuje się odpowiednio.
+
+**Art. 611fw.**
+
+§ 1. Odmawia się wykonania orzeczenia przepadku korzyści majątkowej albo jej równowartości w części, w której zostało ono wydane w oparciu o domniemanie pochodzenia tej korzyści z przestępstwa, inne niż domniemanie:
+
+- **1)** pochodzenia korzyści majątkowej z przestępstwa innego niż to, za które sprawca został skazany, popełnionego do chwili wydania chociażby nieprawomocnego wyroku;
+- **2)** pochodzenia korzyści majątkowej z innego przestępstwa podobnego do przestępstwa, za które sprawca został skazany, popełnionego do chwili wydania chociażby nieprawomocnego wyroku;
+- **3)** pochodzenia z przestępstwa mienia nieznajdującego pokrycia w ujawnionych źródłach przychodu sprawcy.
+
+§ 2. Można odmówić wykonania orzeczenia przepadku korzyści majątkowej albo jej równowartości, wydanego w oparciu o domniemania, o których mowa w § 1, w części, w której orzeczenie przepadku byłoby niedopuszczalne według prawa polskiego.
+
+§ 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 611fu § 1, jeżeli:
+
+- **1)** czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego lub za przestępstwo będące podstawą wydania orzeczenia nie można orzec przepadku według prawa polskiego, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w; przepis art. 607r § 2 stosuje się odpowiednio;
+- **2)** do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 611fu § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty jest niezgodne z treścią orzeczenia;
+- **3)** przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim, a orzeczenie w zakresie przepadku zostało wykonane;
+- **4)** według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwa, których to dotyczy, podlegały jurysdykcji sądów polskich;
+- **5)** orzeczenie dotyczy przestępstw, które według prawa polskiego zostały popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;
+- **6)** orzeczenie dotyczy przestępstw popełnionych poza terytorium państwa wydania orzeczenia, a prawo polskie nie dopuszcza ścigania takiego rodzaju przestępstw, jeżeli zostały one popełnione poza terytorium Rzeczypospolitej Polskiej;
+- **7)** sprawca nie podlega jurysdykcji polskich sądów karnych lub też brak jest wymaganego zezwolenia na jego ściganie;
+- **8)** z treści zaświadczenia, o którym mowa w art. 611fu § 2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:
+    - **a)** sprawcę wezwano do udziału w postępowaniu lub w inny sposób zawiadomiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia albo sprawca miał obrońcę, który był obecny na rozprawie lub posiedzeniu,
+    - **b)** po doręczeniu sprawcy odpisu orzeczenia wraz z pouczeniem o przysługującym mu prawie, terminie i sposobie złożenia w państwie wydania nakazu wniosku o przeprowadzenie z jego udziałem nowego postępowania sądowego w tej samej sprawie, sprawca w ustawowym terminie nie złożył takiego wniosku albo oświadczył, że nie kwestionuje orzeczenia;
+
+- **9)** przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych, podlega darowaniu na mocy amnestii;
+- **10)** zachodzi uzasadniona obawa, że wykonanie orzeczenia może naruszyć prawa osób trzecich.
+
+§ 4. Jeżeli informacje przekazane przez państwo wydania orzeczenia nie są wystarczające do podjęcia decyzji w przedmiocie wykonania orzeczenia przepadku, sąd wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do ich uzupełnienia we wskazanym terminie.
+
+§ 5. W razie niedotrzymania terminu, o którym mowa w § 4, postanowienie w przedmiocie wykonania orzeczenia wydaje się w oparciu o informacje przekazane wcześniej.
+
+§ 6. Jeżeli wykonanie orzeczenia nie jest możliwe z przyczyn faktycznych lub prawnych, sąd niezwłocznie powiadamia właściwy sąd lub inny organ państwa wydania orzeczenia.
+
+**Art. 611fx.**
+
+§ 1. Sąd rozpoznaje sprawę wykonania orzeczenia przepadku na posiedzeniu, w którym ma prawo wziąć udział prokurator, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi, oraz osoba trzecia, której prawa mogą zostać naruszone przez wykonanie orzeczenia. Jeżeli sprawca, który nie przebywa na terytorium Rzeczypospolitej Polskiej, nie posiada obrońcy, prezes sądu właściwego do rozpoznania sprawy może mu wyznaczyć obrońcę z urzędu.
+
+§ 2. Na postanowienie sądu w przedmiocie wykonania orzeczenia przepadku zażalenie przysługuje stronom oraz osobie trzeciej, o której mowa w § 1. Sąd, który wydał postanowienie, powiadamia właściwy sąd lub inny organ państwa wydania orzeczenia o wniesieniu zażalenia.
+
+§ 3. Prawomocne orzeczenie przepadku wraz z dołączonym zaświadczeniem stanowi tytuł egzekucyjny i podlega wykonaniu w Rzeczypospolitej Polskiej po wydaniu postanowienia o jego wykonaniu.
+
+**Art. 611fy.**
+
+§ 1. Sąd może zawiesić postępowanie w przedmiocie wykonania orzeczenia, o którym mowa w art. 611fu § 1, jeżeli:
+
+- **1)** wystąpienie, dotyczące kwoty pieniężnej, nastąpiło do więcej niż jednego państwa członkowskiego, a istnieje prawdopodobieństwo, że wskutek wykonania orzeczenia w kilku państwach członkowskich przepadkowi ulegnie kwota wyższa niż określona w orzeczeniu;
+- **2)** wykonanie orzeczenia mogłoby utrudnić toczące się postępowanie karne;
+- **3)** mienie może podlegać przepadkowi w toczącym się w Polsce postępowaniu;
+- **4)** uzna za niezbędne przetłumaczenie orzeczenia na język polski.
+
+§ 2. Na postanowienie w przedmiocie zawieszenia postępowania zażalenie przysługuje stronom oraz osobie trzeciej, o której mowa w art. 611fx § 1. Sąd, który wydał postanowienie, powiadamia właściwy sąd lub inny organ państwa wydania orzeczenia o zawieszeniu postępowania i jego przyczynach.
+
+§ 3. W razie zawieszenia postępowania sąd z urzędu może zabezpieczyć wykonanie orzeczenia. Przepisy o zabezpieczeniu majątkowym na mieniu oskarżonego stosuje się odpowiednio.
+
+**Art. 611fz.** Jeżeli mienie podlegające egzekucji nie jest wystarczające do wykonania dwóch lub więcej orzeczeń, o których mowa w art. 611fu § 1, wydanych przeciwko tej samej osobie i dotyczących kwoty pieniężnej, albo jeżeli dwa lub więcej orzeczeń dotyczy określonego składnika mienia, sąd orzeka łącznie w przedmiocie wykonania orzeczeń w całości albo części.
+
+**Art. 611fza.**
+
+§ 1. Jeżeli sprawca lub inna osoba przedstawi dowód wykonania w całości albo części orzeczenia, o którym mowa w art. 611fu § 1, sąd, przed wydaniem postanowienia w przedmiocie wykonania tego orzeczenia, wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do potwierdzenia dokonanej wpłaty.
+
+§ 2. Kwoty uprzednio uzyskane z tytułu przepadku w państwie wydania orzeczenia lub państwie wykonania orzeczenia są zaliczane na poczet kwoty podlegającej egzekucji.
+
+**Art. 611fzb.**
+
+§ 1. Kwota uzyskana z tytułu wykonania orzeczenia, o którym mowa w art. 611fu § 1, nieprzewyższająca równowartości 10 000 euro, stanowi dochód budżetu państwa. W pozostałych wypadkach państwu wydania orzeczenia przekazuje się połowę uzyskanej kwoty na rachunek bankowy wskazany przez właściwy sąd lub inny organ tego państwa.
+
+§ 2. Mienie inne niż pieniądze, uzyskane z tytułu wykonania orzeczenia, o którym mowa w § 1, spienięża się według przepisów o egzekucji świadczeń pieniężnych w postępowaniu egzekucyjnym w administracji. Przepis § 1 stosuje się odpowiednio do kwoty uzyskanej z egzekucji.
+
+§ 3. W uzasadnionych wypadkach sąd może odstąpić od spieniężenia mienia, o którym mowa w § 2, i przekazać je właściwemu sądowi lub innemu organowi państwa wydania orzeczenia. Jeżeli wystąpienie obejmuje przepadek kwoty pieniężnej, przekazanie może nastąpić tylko za zgodą tego sądu lub organu.
+
+§ 4. Sąd odmawia wydania państwu wydania orzeczenia uzyskanych przedmiotów będących dobrami kultury stanowiącymi część narodowego dziedzictwa kulturalnego.
+
+§ 5. Minister Sprawiedliwości może zawrzeć z odpowiednim organem państwa wydania orzeczenia porozumienie co do sposobu wykonania orzeczenia przepadku, w szczególności przewidując w nim odmienny, od określonego w § 1, podział kwot uzyskanych z wykonania orzeczenia.
+
+§ 6. W wypadku zawarcia porozumienia, o którym mowa w § 5, sąd, na wezwanie właściwego sądu lub innego organu państwa wydania orzeczenia, przekazuje całość albo część wyegzekwowanej kwoty pieniężnej lub mienie inne niż pieniądze, uzyskane z tytułu wykonania orzeczenia, zgodnie z porozumieniem.
+
+**Art. 611fzc.** W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, że orzeczenie przekazane do wykonania nie podlega dalszemu wykonaniu, sąd wydaje niezwłocznie postanowienie o umorzeniu postępowania wykonawczego.
+
+**Art. 611fzd.** O treści postanowienia w przedmiocie wykonania orzeczenia przepadku, jak również o zakończeniu postępowania egzekucyjnego, powiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Powiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
+
+**Art. 611fze.**
+
+§ 1. Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611fu § 1, ponosi Skarb Państwa. W uzasadnionych wypadkach sąd może wystąpić do właściwego sądu lub innego organu państwa wydania orzeczenia o zwrot części poniesionych wydatków. Do wystąpienia załącza się szczegółowy wykaz poniesionych wydatków wraz z propozycją ich podziału.
+
+§ 2. Jeżeli Skarb Państwa ponosi odpowiedzialność za szkodę wyrządzoną w związku z wykonaniem orzeczenia przepadku, wydanego przez organ sądowy państwa wydania orzeczenia, Skarb Państwa występuje do właściwego organu tego państwa o zwrot kwoty pieniężnej stanowiącej równowartość wypłaconego odszkodowania.
+
+§ 3. Przepisu § 2 nie stosuje się, jeżeli szkoda jest wyłącznym następstwem działania lub zaniechania organu polskiego.
 
 #### Rozdział 66e Współpraca z Międzynarodowym Trybunałem Karnym
 
@@ -6261,9 +6737,17 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 9. W razie trudności w ustaleniu właściwego sądu lub innego organu państwa wykonania orzeczenia sąd może również zwracać się do właściwych jednostek organizacyjnych Europejskiej Sieci Sądowej.
 
-§ 10. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 6, zawierając w nim szczegółowe informacje dotyczące przekazanego do wykonania orzeczenia, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania orzeczenia. Art. 611ta. § 1. Przed wystąpieniem do państwa, o którym mowa w art. 611t § 3 pkt 3, sąd zwraca się do właściwego sądu lub innego organu tego państwa o zgodę na przekazanie orzeczenia do wykonania. W pozostałych wypadkach sąd może zwrócić się do właściwego sądu lub innego organu państwa wykonania orzeczenia o opinię w przedmiocie przekazania orzeczenia.
+§ 10. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 6, zawierając w nim szczegółowe informacje dotyczące przekazanego do wykonania orzeczenia, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania orzeczenia.
 
-§ 2. Jeżeli zostaną ujawnione okoliczności przemawiające za tym, iż przekazanie orzeczenia do wykonania do państwa wykonania orzeczenia nie pozwalałoby w większym stopniu zrealizować wychowawczych i zapobiegawczych celów kary, sąd może odstąpić od wystąpienia, o którym mowa w art. 611t § 1, lub je cofnąć. Art. 611tb. § 1. Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu państwa wykonania orzeczenia na posiedzeniu, w którym ma prawo wziąć udział prokurator, skazany, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Na postanowienie sądu zażalenie nie przysługuje.
+**Art. 611ta.**
+
+§ 1. Przed wystąpieniem do państwa, o którym mowa w art. 611t § 3 pkt 3, sąd zwraca się do właściwego sądu lub innego organu tego państwa o zgodę na przekazanie orzeczenia do wykonania. W pozostałych wypadkach sąd może zwrócić się do właściwego sądu lub innego organu państwa wykonania orzeczenia o opinię w przedmiocie przekazania orzeczenia.
+
+§ 2. Jeżeli zostaną ujawnione okoliczności przemawiające za tym, iż przekazanie orzeczenia do wykonania do państwa wykonania orzeczenia nie pozwalałoby w większym stopniu zrealizować wychowawczych i zapobiegawczych celów kary, sąd może odstąpić od wystąpienia, o którym mowa w art. 611t § 1, lub je cofnąć.
+
+**Art. 611tb.**
+
+§ 1. Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu państwa wykonania orzeczenia na posiedzeniu, w którym ma prawo wziąć udział prokurator, skazany, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Na postanowienie sądu zażalenie nie przysługuje.
 
 § 2. Sąd umożliwia skazanemu, przebywającemu na terytorium Rzeczypospolitej Polskiej, zajęcie stanowiska ustnie lub na piśmie w przedmiocie wystąpienia, o którym mowa w art. 611t § 1. Jeżeli wymagana jest zgoda skazanego na przekazanie, sąd odbiera od skazanego przebywającego na terytorium Rzeczypospolitej Polskiej oświadczenie w tym przedmiocie.
 
@@ -6271,11 +6755,19 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 4. Jeżeli skazany przebywa na terytorium Rzeczypospolitej Polskiej, sąd zawiadamia go o przekazaniu orzeczenia; w innym wypadku przekazuje zawiadomienie wraz z zaświadczeniem, o którym mowa w art. 611t § 6, do państwa wykonania orzeczenia.
 
-§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w § 4, zawierając w nim informacje dotyczące istotnych elementów związanych z wykonaniem orzeczenia, takich jak wskazanie właściwych organów państwa wydania i wykonania orzeczenia, prawa określającego warunki odbycia kary, warunkowego zwolnienia lub zawieszenia wykonania kary, mając na uwadze konieczność poinformowania skazanego o przekazaniu orzeczenia. Art. 611tc. § 1. Sąd może zwrócić się do właściwego sądu lub innego organu państwa wykonania orzeczenia o przekazanie informacji o treści prawa obcego mającego zastosowanie do warunkowego zwolnienia. Po uzyskaniu informacji o treści prawa obcego sąd może odstąpić od wystąpienia, o którym mowa w art. 611t § 1, lub je cofnąć albo zastrzec w porozumieniu z właściwym sądem lub innym organem państwa wykonania orzeczenia, że do decyzji o warunkowym zwolnieniu zastosowanie ma prawo polskie.
+§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w § 4, zawierając w nim informacje dotyczące istotnych elementów związanych z wykonaniem orzeczenia, takich jak wskazanie właściwych organów państwa wydania i wykonania orzeczenia, prawa określającego warunki odbycia kary, warunkowego zwolnienia lub zawieszenia wykonania kary, mając na uwadze konieczność poinformowania skazanego o przekazaniu orzeczenia.
+
+**Art. 611tc.**
+
+§ 1. Sąd może zwrócić się do właściwego sądu lub innego organu państwa wykonania orzeczenia o przekazanie informacji o treści prawa obcego mającego zastosowanie do warunkowego zwolnienia. Po uzyskaniu informacji o treści prawa obcego sąd może odstąpić od wystąpienia, o którym mowa w art. 611t § 1, lub je cofnąć albo zastrzec w porozumieniu z właściwym sądem lub innym organem państwa wykonania orzeczenia, że do decyzji o warunkowym zwolnieniu zastosowanie ma prawo polskie.
 
 § 2. Do czasu rozpoczęcia wykonania kary w państwie wykonania orzeczenia sąd może odstąpić od wystąpienia, o którym mowa w art. 611t § 1, lub je cofnąć także w wyniku zaistnienia innych przeszkód.
 
-§ 3. Jeżeli państwo wykonania orzeczenia zwraca się o zgodę na ściganie skazanego za popełnione przestępstwo lub wykonanie kar orzeczonych przed przekazaniem skazanego temu państwu, sąd wydaje postanowienie w przedmiocie wniosku w terminie 30 dni. Art. 607e § 3 pkt 6, art. 607p, art. 607r oraz art. 607s § 1 i 2 stosuje się odpowiednio. Art. 611td. § 1. Wystąpienie o wykonanie orzeczenia, o którym mowa w art. 611t § 1, nie wstrzymuje postępowania wykonawczego.
+§ 3. Jeżeli państwo wykonania orzeczenia zwraca się o zgodę na ściganie skazanego za popełnione przestępstwo lub wykonanie kar orzeczonych przed przekazaniem skazanego temu państwu, sąd wydaje postanowienie w przedmiocie wniosku w terminie 30 dni. Art. 607e § 3 pkt 6, art. 607p, art. 607r oraz art. 607s § 1 i 2 stosuje się odpowiednio.
+
+**Art. 611td.**
+
+§ 1. Wystąpienie o wykonanie orzeczenia, o którym mowa w art. 611t § 1, nie wstrzymuje postępowania wykonawczego.
 
 § 2. Po otrzymaniu informacji o rozpoczęciu odbywania przez skazanego kary w państwie wykonania orzeczenia, postępowanie wykonawcze zawiesza się.
 
@@ -6283,7 +6775,13 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 4. W razie otrzymania informacji o niemożności wykonania orzeczenia w całości albo w części z powodów innych niż wskazane w § 3 zdanie drugie, sąd podejmuje zawieszone postępowanie w celu jego dalszego prowadzenia.
 
-§ 5. Sąd może uzgodnić z właściwym sądem lub innym organem państwa wykonania orzeczenia, że w państwie tym nastąpi wykonanie tylko części orzeczonej kary pozbawienia wolności, pod warunkiem że nie spowoduje to wydłużenia czasu trwania kary. W takim wypadku, po otrzymaniu informacji, o której mowa w § 2, postępowanie wykonawcze zawiesza się do czasu przekazania skazanego w celu dalszego wykonywania kary na terytorium Rzeczypospolitej Polskiej, a okres pozbawienia wolności w państwie wykonania orzeczenia zalicza się na poczet kary. Art. 611te. W razie uchylenia orzeczenia, o którym mowa w art. 611t § 1, na skutek kasacji albo wznowienia postępowania, ułaskawienia skazanego, darowania przestępstwa na mocy amnestii albo przedawnienia wykonania kary, sąd niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania orzeczenia. Art. 611tf. § 1. Skazanego przebywającego na terytorium Rzeczypospolitej Polskiej przekazuje się właściwemu sądowi lub innemu organowi państwa wykonania orzeczenia najpóźniej w terminie 30 dni od daty uprawomocnienia się zapadłej w tym państwie decyzji o wykonaniu orzeczenia. Art. 607n § 2 stosuje się odpowiednio.
+§ 5. Sąd może uzgodnić z właściwym sądem lub innym organem państwa wykonania orzeczenia, że w państwie tym nastąpi wykonanie tylko części orzeczonej kary pozbawienia wolności, pod warunkiem że nie spowoduje to wydłużenia czasu trwania kary. W takim wypadku, po otrzymaniu informacji, o której mowa w § 2, postępowanie wykonawcze zawiesza się do czasu przekazania skazanego w celu dalszego wykonywania kary na terytorium Rzeczypospolitej Polskiej, a okres pozbawienia wolności w państwie wykonania orzeczenia zalicza się na poczet kary.
+
+**Art. 611te.** W razie uchylenia orzeczenia, o którym mowa w art. 611t § 1, na skutek kasacji albo wznowienia postępowania, ułaskawienia skazanego, darowania przestępstwa na mocy amnestii albo przedawnienia wykonania kary, sąd niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania orzeczenia.
+
+**Art. 611tf.**
+
+§ 1. Skazanego przebywającego na terytorium Rzeczypospolitej Polskiej przekazuje się właściwemu sądowi lub innemu organowi państwa wykonania orzeczenia najpóźniej w terminie 30 dni od daty uprawomocnienia się zapadłej w tym państwie decyzji o wykonaniu orzeczenia. Art. 607n § 2 stosuje się odpowiednio.
 
 § 2. W wypadku konieczności uzyskania zgody innego państwa członkowskiego Unii Europejskiej na przewóz skazanego przez jego terytorium, Minister Sprawiedliwości występuje z wnioskiem o udzielenie zezwolenia na przewóz. Art. 611t § 6 zdanie pierwsze i § 7 stosuje się odpowiednio.
 
@@ -6292,6 +6790,130 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 § 4. Jeżeli nastąpi nieprzewidziane lądowanie, o którym mowa w art. 607zb § 4, informacje określone w art. 611t § 6 przekazuje się w terminie 72 godzin.
 
 #### Rozdział 66g Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie kary pozbawienia wolności
+
+**Art. 611tg.**
+
+§ 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie w Rzeczypospolitej Polskiej prawomocnie orzeczonej kary pozbawienia wolności, orzeczenie to podlega wykonaniu przez sąd okręgowy.
+
+§ 2. Sąd okręgowy na wniosek Ministra Sprawiedliwości, sprawcy lub z urzędu może zwrócić się do właściwego sądu lub innego organu państwa wydania orzeczenia o przekazanie orzeczenia, o którym mowa w § 1, do wykonania, jeżeli pozwoli to w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary.
+
+§ 3. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
+
+§ 4. Jeżeli zostaną ujawnione okoliczności przemawiające za tym, iż przejęcie orzeczenia do wykonania nie pozwoli w większym stopniu zrealizować wychowawczych i zapobiegawczych celów kary, sąd zawiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia.
+
+§ 5. Na wniosek właściwego sądu lub innego organu państwa wydania orzeczenia, sąd może wyrazić zgodę na wykonanie kary pozbawienia wolności, orzeczonej wobec sprawcy niemającego obywatelstwa polskiego lub nieposiadającego stałego lub czasowego miejsca pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli pozwoli to w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary.
+
+§ 6. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu orzeczeń, o których mowa w § 1, stosuje się przepisy prawa polskiego.
+
+**Art. 611th.**
+
+§ 1. Właściwy do rozpoznania spraw określonych w art. 611tg § 1, 2 i 5 jest sąd okręgowy, w którego okręgu skazany posiada stałe lub czasowe miejsce pobytu.
+
+§ 2. Jeżeli nie można ustalić właściwości według zasad określonych w § 1, właściwy jest Sąd Okręgowy w Warszawie.
+
+§ 3. Jeżeli sąd, do którego zostało skierowane orzeczenie, nie jest właściwy do nadania mu biegu, przekazuje je właściwemu sądowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia.
+
+**Art. 611ti.**
+
+§ 1. Sąd rozpoznaje sprawę wykonania orzeczenia, o którym mowa w art. 611tg § 1, na posiedzeniu, w którym ma prawo wziąć udział prokurator, skazany, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Jeżeli skazany, który nie przebywa na terytorium Rzeczypospolitej Polskiej, nie posiada obrońcy, prezes sądu właściwego do rozpoznania sprawy może mu wyznaczyć obrońcę z urzędu.
+
+§ 2. Skazany może ustnie lub na piśmie wyrazić zgodę na przekazanie lub złożyć oświadczenie o zrzeczeniu się korzystania z prawa określonego w art. 611tm, jeżeli zgoda lub oświadczenie nie zostały złożone w państwie wydania orzeczenia. Art. 611t § 5 stosuje się odpowiednio.
+
+§ 3. Jeżeli państwo wydania orzeczenia nie przekazało wszystkich informacji potrzebnych do podjęcia decyzji w przedmiocie wykonania orzeczenia, sąd wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do ich uzupełnienia we wskazanym terminie. W razie niedotrzymania terminu postanowienie w przedmiocie wykonania orzeczenia wydaje się w oparciu o posiadane informacje.
+
+**Art. 611tj.**
+
+§ 1. Postanowienie w przedmiocie wykonania orzeczenia, o którym mowa w art. 611tg § 1, sąd wydaje w terminie 40 dni od daty otrzymania orzeczenia wraz z zaświadczeniem.
+
+§ 2. Na postanowienie sądu w przedmiocie wykonania orzeczenia przysługuje zażalenie.
+
+§ 3. Postępowanie w przedmiocie wykonania orzeczenia powinno zakończyć się prawomocnie w terminie 90 dni od daty otrzymania orzeczenia wraz z zaświadczeniem.
+
+§ 4. W wypadku gdy termin określony w § 3 nie może być dotrzymany, należy zawiadomić właściwy sąd lub inny organ państwa wydania orzeczenia, podając przyczynę opóźnienia i przewidywany termin wydania orzeczenia. [§ 5. Odpis postanowienia przekazuje się Ministrowi Sprawiedliwości.] <§ 5. Kopię postanowienia przekazuje się Ministrowi Sprawiedliwości.>
+
+§ 6. Do wykonania orzeczenia właściwego sądu lub innego organu państwa wydania orzeczenia sąd przystępuje niezwłocznie.
+
+**Art. 611tk.**
+
+§ 1. Odmawia się wykonania orzeczenia, o którym mowa w art. 611tg § 1, jeżeli:
+
+- **1)** czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego;
+- **2)** przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a orzeczenie w zakresie kary pozbawienia wolności zostało wykonane;
+- **3)** skazany nie wyraża zgody na przekazanie, chyba że:
+    - **a)** jest obywatelem polskim i posiada stałe lub czasowe miejsce pobytu na terytorium Rzeczypospolitej Polskiej,
+    - **b)** została wobec niego wydana decyzja o wydaleniu lub deportacji na terytorium Rzeczypospolitej Polskiej,
+    - **c)** zbiegł na terytorium Rzeczypospolitej Polskiej w obawie przed toczącym się w państwie wydania orzeczenia postępowaniem karnym lub obowiązkiem odbycia orzeczonej kary;
+
+- **4)** skazany z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania orzeczenia;
+- **5)** naruszałoby to wolności i prawa człowieka i obywatela;
+- **6)** wykonanie kary łączy się z zastosowaniem terapii lub innych środków nieznanych ustawie;
+- **7)** skazany nie jest obywatelem polskim, chyba że zachodzą przesłanki określone w § 4.
+
+§ 2. Przepisu § 1 pkt 1 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.
+
+§ 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 611tg § 1, jeżeli:
+
+- **1)** mimo wezwania przez sąd do uzupełnienia informacji we wskazanym terminie, do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 611tg § 3, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;
+- **2)** według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;
+- **3)** skazany nie ma na terytorium Rzeczypospolitej Polskiej stałego ani czasowego miejsca pobytu, chyba że na podstawie prawomocnej decyzji ma zostać wydalony do Polski lub zachodzą przesłanki określone w § 4;
+- **4)** z treści zaświadczenia, o którym mowa w art. 611tg § 3, wynika, iż orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:
+    - **a)** skazanego wezwano do udziału w postępowaniu lub w inny sposób zawiadomiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia,
+    - **b)** obrońca sprawcy był obecny na rozprawie lub posiedzeniu,
+    - **c)** po doręczeniu skazanemu odpisu orzeczenia wraz z pouczeniem o przysługującym mu prawie, terminie i sposobie złożenia w państwie wydania nakazu wniosku o przeprowadzenie z jego udziałem nowego postępowania sądowego w tej samej sprawie, skazany w ustawowym terminie nie złożył takiego wniosku albo oświadczył, że nie kwestionuje orzeczenia;
+
+- **5)** orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;
+- **6)** w chwili otrzymania orzeczenia pozostała do wykonania kara jest krótsza niż 6 miesięcy pozbawienia wolności;
+- **7)** skazany nie podlega jurysdykcji polskich sądów karnych, lub też brak jest wymaganego zezwolenia na jego ściganie;
+- **8)** przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii;
+- **9)** organ państwa wydania orzeczenia nie wyraził zgody na podstawie art. 607e § 3 pkt 8 w związku z art. 611tm na to, by sprawcę ścigać za przestępstwo inne niż to, które stanowiło podstawę przekazania, lub by wykonać orzeczoną wobec niego karę pozbawienia wolności za inne przestępstwo.
+
+§ 4. Sąd może wyrazić zgodę na przejęcie do wykonania orzeczenia, o którym mowa w art. 611tg § 1, zapadłego wobec skazanego niebędącego obywatelem polskim lub niemającego na terytorium Rzeczypospolitej Polskiej stałego ani czasowego miejsca pobytu, jeżeli ze względu na sytuację rodzinną lub szczególne warunki osobiste skazanego przejęcie orzeczenia pozwoli w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary.
+
+§ 5. W wypadkach przewidzianych w § 1 pkt 2, 3 i 6 oraz w § 3 pkt 1, 2, 4, 5 i 8 sąd przed podjęciem decyzji w przedmiocie wykonania orzeczenia informuje o możliwości odmowy wykonania orzeczenia właściwy sąd lub inny organ państwa wydania orzeczenia.
+
+**Art. 611tl.**
+
+§ 1. Orzekając o wykonaniu kary pozbawienia wolności, sąd określa kwalifikację prawną czynu według prawa polskiego. Art. 607s § 4 stosuje się odpowiednio. Na poczet orzeczonej lub wykonywanej kary pozbawienia wolności zalicza się okres faktycznego pozbawienia wolności w państwie wydania orzeczenia.
+
+§ 2. Jeżeli rodzaj kary polegającej na pozbawieniu wolności jest nieznany ustawie, sąd określa podlegającą wykonaniu karę jako karę pozbawienia wolności. Jeżeli przestępstwo zgodnie z przyjętą według prawa polskiego kwalifikacją prawną nie jest zagrożone karą pozbawienia wolności, wykonuje się karę orzeczoną przez sąd państwa wydania orzeczenia w wymiarze nieprzekraczającym 6 miesięcy pozbawienia wolności.
+
+**Art. 611tm.**
+
+§ 1. W postępowaniu w przedmiocie wykonania orzeczenia dotyczącego kary pozbawienia wolności prawomocnie orzeczonej przez sąd innego państwa członkowskiego Unii Europejskiej stosuje się odpowiednio art. 607e.
+
+§ 2. Na wniosek właściwego sądu lub innego organu państwa wydania orzeczenia sąd udziela informacji o treści prawa polskiego mającego zastosowanie do warunkowego zwolnienia. Jeżeli sąd lub inny organ państwa wydania orzeczenia cofnie wystąpienie do czasu rozpoczęcia wykonywania kary, orzeczenie nie podlega wykonaniu.
+
+**Art. 611tn.**
+
+§ 1. W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, iż orzeczenie przekazane do wykonania nie podlega dalszemu wykonaniu, sąd wydaje niezwłocznie postanowienie o umorzeniu postępowania wykonawczego.
+
+§ 2. Jeżeli dalsze wykonywanie orzeczenia nie jest możliwe z przyczyn faktycznych lub prawnych, sąd niezwłocznie wydaje postanowienie o umorzeniu postępowania wykonawczego i zawiadamia właściwy sąd lub inny organ państwa wydania orzeczenia.
+
+**Art. 611to.**
+
+§ 1. Jeżeli skazany znajduje się na terytorium Rzeczypospolitej Polskiej, sąd z urzędu lub na wniosek właściwego sądu lub innego organu państwa wydania orzeczenia może wydać postanowienie o tymczasowym aresztowaniu. Zamiast tymczasowego aresztowania sąd może zastosować inny środek zapobiegawczy, jeżeli jest on wystarczający do zapewnienia, iż skazany pozostanie na terytorium Rzeczypospolitej Polskiej do czasu podjęcia decyzji w przedmiocie wykonania orzeczenia.
+
+§ 2. Jeżeli zastosowanie środka określonego w § 1 następuje w wyniku wniosku państwa wydania orzeczenia przed otrzymaniem orzeczenia wraz z zaświadczeniem, art. 605 § 5 i 6 i art. 607k § 3a stosuje się odpowiednio.
+
+§ 3. Sąd może zastosować tymczasowe aresztowanie, oznaczając jego termin na czas niezbędny do przekazania skazanego z terytorium państwa członkowskiego Unii Europejskiej i doprowadzenia do zakładu karnego. Łączny okres stosowania tymczasowego aresztowania nie może przekroczyć 100 dni. Samoistną podstawą zastosowania tymczasowego aresztowania jest orzeczenie o wykonaniu kary pozbawienia wolności orzeczonej w innym państwie członkowskim Unii Europejskiej.
+
+**Art. 611tp.**
+
+§ 1. Na wniosek państwa wydania orzeczenia Minister Sprawiedliwości udziela zezwolenia na przewóz sprawcy przez terytorium Rzeczypospolitej Polskiej, w terminie 7 dni od daty otrzymania wniosku.
+
+§ 2. Do wniosku o zezwolenie na przewóz, o którym mowa w § 1, powinno być załączone zaświadczenie, o którym mowa w art. 611tg § 3. Wydanie zezwolenia, o którym mowa w § 1, można odroczyć do czasu uzyskania tłumaczenia zaświadczenia na język polski.
+
+§ 3. Minister Sprawiedliwości informuje właściwy organ państwa wydania orzeczenia, iż art. 607e § 1 nie znajduje zastosowania w odniesieniu do przestępstwa popełnionego lub kary pozbawienia wolności orzeczonej przed opuszczeniem przez skazanego terytorium państwa wydania.
+
+§ 4. Art. 607zb § 2–4 stosuje się odpowiednio.
+
+**Art. 611tr.**
+
+§ 1. O treści postanowienia w przedmiocie wykonania orzeczenia, o którym mowa w art. 611tj § 1, oraz o istotnych orzeczeniach zapadłych w trakcie postępowania wykonawczego, jak również o ucieczce lub ukryciu się skazanego zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Zawiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
+
+§ 2. W wypadku ucieczki lub ukrycia się skazanego postępowanie wykonawcze umarza się. Jeżeli miejsce pobytu skazanego na terytorium Rzeczypospolitej Polskiej zostanie następnie ustalone, zawiadamia się o tym niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Orzeczona w tym państwie kara pozbawienia wolności może być wykonywana, jeżeli jego właściwy sąd lub inny organ ponownie skieruje wystąpienie, o którym mowa w art. 611tg § 1.
+
+**Art. 611ts.** Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611tg § 1, ponosi Skarb Państwa, z wyjątkiem kosztów przekazania sprawcy na terytorium Rzeczypospolitej Polskiej.
 
 #### Rozdział 66h Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia skazującego na karę pozbawienia wolności z warunkowym zawieszeniem jej wykonania, karę ograniczenia wolności, samoistnie orzeczony środek karny, a także orzeczenia o warunkowym zwolnieniu oraz warunkowym umorzeniu postępowania karnego
 
@@ -6311,7 +6933,11 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 7. W razie trudności w ustaleniu właściwego sądu lub innego organu państwa wykonania orzeczenia sąd może również zwracać się do właściwych jednostek organizacyjnych Europejskiej Sieci Sądowej.
 
-§ 8. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 4, zawierając w nim szczegółowe informacje dotyczące przekazanego do wykonania orzeczenia, osoby skazanego, rodzaju i wymiaru kary lub środka oraz czasu i sposobu wykonania nałożonych obowiązków, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania orzeczenia. Art. 611ua. § 1. W razie wystąpienia o wykonanie orzeczenia, o którym mowa w art. 611u § 1, postępowanie wykonawcze zawiesza się.
+§ 8. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 4, zawierając w nim szczegółowe informacje dotyczące przekazanego do wykonania orzeczenia, osoby skazanego, rodzaju i wymiaru kary lub środka oraz czasu i sposobu wykonania nałożonych obowiązków, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania orzeczenia.
+
+**Art. 611ua.**
+
+§ 1. W razie wystąpienia o wykonanie orzeczenia, o którym mowa w art. 611u § 1, postępowanie wykonawcze zawiesza się.
 
 § 2. Po otrzymaniu informacji o zakończeniu wykonywania orzeczenia sąd podejmuje zawieszone postępowanie i umarza je. Postępowanie umarza się również, jeżeli w stosunku do sprawcy zapadło w innym państwie członkowskim Unii Europejskiej i zostało wykonane prawomocne orzeczenie co do tego samego czynu.
 
@@ -6321,15 +6947,111 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 5. W razie wszczęcia nowego postępowania karnego przeciwko sprawcy, sąd może zwrócić się do właściwego sądu lub innego organu państwa wykonania orzeczenia o wyrażenie zgody na cofnięcie wystąpienia, o którym mowa w art. 611u § 1 i 2. Po uzyskaniu zgody, sąd podejmuje zawieszone postępowanie w celu jego dalszego prowadzenia.
 
-§ 6. Na poczet wykonywanej kary lub środka, o których mowa w art. 611u § 1, zalicza się okres faktycznego ich wykonywania w państwie wykonania orzeczenia. Art. 611ub. § 1. W razie uchylenia orzeczenia, o którym mowa w art. 611u § 1, na skutek kasacji albo wznowienia postępowania, ułaskawienia sprawcy, darowania przestępstwa na mocy amnestii albo przedawnienia wykonania kary lub w razie wystąpienia innych okoliczności skutkujących niemożnością wykonania tego orzeczenia, sąd niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania orzeczenia.
+§ 6. Na poczet wykonywanej kary lub środka, o których mowa w art. 611u § 1, zalicza się okres faktycznego ich wykonywania w państwie wykonania orzeczenia.
+
+**Art. 611ub.**
+
+§ 1. W razie uchylenia orzeczenia, o którym mowa w art. 611u § 1, na skutek kasacji albo wznowienia postępowania, ułaskawienia sprawcy, darowania przestępstwa na mocy amnestii albo przedawnienia wykonania kary lub w razie wystąpienia innych okoliczności skutkujących niemożnością wykonania tego orzeczenia, sąd niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania orzeczenia.
 
 § 2. Sąd zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wykonania orzeczenia, przy użyciu zaświadczenia, o wszelkich okolicznościach mających wpływ na wykonanie orzeczenia, o którym mowa w art. 611u § 1. Sąd zawiadamia również niezwłocznie właściwy sąd lub inny organ państwa wykonania orzeczenia o wszelkich istotnych orzeczeniach zapadłych w trakcie postępowania wykonawczego.
 
 § 3. Zawiadomienia, o których mowa w § 1 i 2, mogą być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
 
-§ 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 2, zawierając w nim szczegółowe informacje dotyczące naruszeń obowiązków nałożonych na sprawcę i innych okoliczności mających wpływ na wykonanie orzeczenia, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji. Art. 611uc. Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu państwa wykonania orzeczenia na posiedzeniu, w którym ma prawo wziąć udział prokurator i pokrzywdzony, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Na postanowienie sądu zażalenie nie przysługuje.
+§ 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 2, zawierając w nim szczegółowe informacje dotyczące naruszeń obowiązków nałożonych na sprawcę i innych okoliczności mających wpływ na wykonanie orzeczenia, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji.
+
+**Art. 611uc.** Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu państwa wykonania orzeczenia na posiedzeniu, w którym ma prawo wziąć udział prokurator i pokrzywdzony, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Na postanowienie sądu zażalenie nie przysługuje.
 
 #### Rozdział 66i Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia karnego związanego z poddaniem sprawcy próbie
+
+**Art. 611ud.**
+
+§ 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie prawomocnego orzeczenia skazującego na karę pozbawienia wolności z warunkowym zawieszeniem jej wykonania albo na samoistną karę lub środek niepolegający na pozbawieniu wolności lub na grzywnie, bądź orzekającego o warunkowym zwolnieniu, warunkowym umorzeniu postępowania karnego lub innym warunkowym odroczeniu wykonania kary, orzeczenie to podlega wykonaniu przez sąd rejonowy, w którego okręgu sprawca posiada legalne stałe miejsce pobytu, jeżeli w wyznaczonym okresie próby nakłada ono na sprawcę obowiązek:
+
+- **1)** stawiennictwa przed określonym organem;
+- **2)** informowania określonego organu o zmianie miejsca pobytu lub miejsca pracy albo uzyskiwania zgody na taką zmianę;
+- **3)** przebywania albo powstrzymania się od przebywania w określonych środowiskach lub miejscach, w tym również jeśli orzeczenie zakazuje wstępu do określonych miejsc lub na imprezy o charakterze masowym;
+- **4)** powstrzymania się od kontaktowania z określonymi osobami lub zbliżania się do określonych osób;
+- **5)** powstrzymania się od posiadania określonych przedmiotów;
+- **6)** łożenia na utrzymanie innej osoby;
+- **7)** naprawienia szkody;
+- **8)** nauki;
+- **9)** wykonywania nieodpłatnej, kontrolowanej pracy na cele społeczne, pracy społecznie użytecznej lub pracy zarobkowej;
+- **10)** poddania się określonym zakazom albo ograniczeniom w wykonywaniu zawodu, prowadzeniu działalności zawodowej lub gospodarczej;
+- **11)** poddania się leczeniu albo oddziaływaniom terapeutycznym;
+- **12)** poddania się dozorowi kuratora, pracownika społecznego lub instytucji publicznej, do której działalności należy troska o wychowanie, zapobieganie demoralizacji lub pomoc skazanym.
+
+§ 2. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
+
+§ 3. Jeżeli sąd, do którego zostało skierowane wystąpienie, nie jest właściwy do nadania mu biegu, przekazuje je właściwemu sądowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia. Art. 32 § 3 stosuje się odpowiednio.
+
+§ 4. Na wniosek właściwego sądu lub innego organu państwa wydania orzeczenia, sąd może wyrazić zgodę na wykonanie kary lub środka, o których mowa w § 1, orzeczonego wobec sprawcy nieposiadającego legalnego stałego miejsca pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli pozwoli to w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary lub środka.
+
+§ 5. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu orzeczeń, o których mowa w § 1, stosuje się przepisy prawa polskiego. Art. 611c § 3 stosuje się odpowiednio.
+
+**Art. 611ue.**
+
+§ 1. Sąd rozpoznaje sprawę wykonania orzeczenia, o którym mowa w art. 611ud § 1, na posiedzeniu, w którym ma prawo wziąć udział prokurator, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Jeżeli sprawca, który nie przebywa na terytorium Rzeczypospolitej Polskiej, nie posiada obrońcy, prezes sądu właściwego do rozpoznania sprawy może mu wyznaczyć obrońcę z urzędu.
+
+§ 2. Jeżeli państwo wydania orzeczenia nie przekazało wszystkich informacji potrzebnych do podjęcia decyzji w przedmiocie wykonania orzeczenia, sąd wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do ich uzupełnienia we wskazanym terminie. W razie niedotrzymania terminu, postanowienie w przedmiocie wykonania orzeczenia wydaje się w oparciu o posiadane informacje.
+
+§ 3. Orzekając o wykonaniu kary lub środka, o których mowa w art. 611ud § 1, sąd określa kwalifikację prawną czynu według prawa polskiego. Jeżeli rodzaj kary lub środka albo sposób wykonania nałożonych obowiązków są nieznane ustawie, sąd określa karę, środek lub obowiązek według prawa polskiego. Podstawę określenia kary lub środka podlegającego wykonaniu stanowi orzeczenie wydane przez sąd państwa członkowskiego Unii Europejskiej, kara grożąca za taki czyn w polskim prawie oraz okres rzeczywistego wykonywania kary, środka lub obowiązku za granicą, z uwzględnieniem różnic na korzyść skazanego. Jeżeli wymiar kary, środka, obowiązku lub okresu próby jest wyższy niż przewidziany w ustawie, sąd określa go w górnej granicy wymiaru według prawa polskiego.
+
+§ 4. Jeżeli orzeczenie, o którym mowa w art. 611ud § 1, nie określa kary pozbawienia wolności, która będzie wymierzona sprawcy w wypadku niewykonywania nałożonych obowiązków lub podjęcia warunkowo umorzonego postępowania karnego, sąd orzeka o wykonaniu orzeczenia jedynie w zakresie nałożonych w nim obowiązków. Art. 611ub § 2 i 3 stosuje się odpowiednio.
+
+**Art. 611uf.**
+
+§ 1. Postanowienie w przedmiocie wykonania orzeczenia, o którym mowa w art. 611ud § 1, sąd wydaje w terminie 30 dni od daty otrzymania orzeczenia wraz z zaświadczeniem.
+
+§ 2. Na postanowienie sądu w przedmiocie wykonania orzeczenia przysługuje zażalenie.
+
+§ 3. Postępowanie w przedmiocie wykonania orzeczenia powinno zakończyć się prawomocnie w terminie 60 dni od daty otrzymania orzeczenia wraz z zaświadczeniem.
+
+§ 4. W wypadku gdy termin określony w § 3 nie może być dotrzymany, należy zawiadomić właściwy sąd lub inny organ państwa wydania orzeczenia, podając przyczynę opóźnienia i przewidywany termin wydania orzeczenia.
+
+§ 5. Do wykonania orzeczenia właściwego sądu lub innego organu państwa wydania orzeczenia sąd przystępuje niezwłocznie.
+
+**Art. 611ug.**
+
+§ 1. Odmawia się wykonania orzeczenia, o którym mowa w art. 611ud § 1, jeżeli:
+
+- **1)** czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego;
+- **2)** sprawca nie przebywa na terytorium Rzeczypospolitej Polskiej, chyba że istnieją podstawy do uznania, że sprawca na nie powróci.
+
+§ 2. Przepisu § 1 pkt 1 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.
+
+§ 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 611ud § 1, jeżeli:
+
+- **1)** mimo wezwania przez sąd do uzupełnienia informacji we wskazanym terminie, do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 611ud § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;
+- **2)** przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a orzeczenie w zakresie kary pozbawienia wolności z warunkowym zawieszeniem wykonania albo samoistnej kary lub środka niepolegającego na pozbawieniu wolności lub na grzywnie zostało wykonane;
+- **3)** według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;
+- **4)** orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;
+- **5)** sprawca z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania orzeczenia;
+- **6)** sprawca korzysta z immunitetu, zgodnie z którym niemożliwy jest nadzór nad przestrzeganiem nałożonych obowiązków;
+- **7)** z treści zaświadczenia, o którym mowa w art. 611ud § 2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:
+    - **a)** sprawcę wezwano do udziału w postępowaniu lub w inny sposób zawiadomiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia,
+    - **b)** obrońca sprawcy był obecny na rozprawie lub posiedzeniu,
+    - **c)** po doręczeniu sprawcy odpisu orzeczenia wraz z pouczeniem o przysługującym mu prawie, terminie i sposobie złożenia w państwie wydania nakazu wniosku o przeprowadzenie z jego udziałem nowego postępowania sądowego w tej samej sprawie, sprawca w ustawowym terminie nie złożył takiego wniosku albo oświadczył, że nie kwestionuje orzeczenia;
+
+- **8)** orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 611ud § 1 lub zostało przekazane pomimo niespełnienia warunków przewidzianych w art. 611u;
+- **9)** przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii;
+- **10)** orzeczenie przewiduje środek związany z leczeniem, nieznany ustawie;
+- **11)** pozostały czas wykonania nałożonych obowiązków jest krótszy niż 6 miesięcy.
+
+§ 4. W wypadkach wskazanych w § 1 i 3, gdy przemawiają za tym szczególne względy, sąd, w uzgodnieniu z właściwym sądem lub innym organem państwa wydania orzeczenia, może orzec o wykonaniu orzeczenia jedynie w zakresie nałożonych w nim obowiązków. W zakresie zarządzenia wykonania kary, odwołania warunkowego zwolnienia, orzeczenia kary zastępczej oraz ustanowienia, rozszerzenia, zmiany i zwolnienia od wykonania nałożonych obowiązków w okresie próby albo uznania kary lub środka za wykonane – orzeczenie wykonuje właściwy sąd lub inny organ państwa wydania orzeczenia, chyba że uzgodniono inaczej.
+
+§ 5. W wypadkach przewidzianych w § 1 pkt 2 oraz w § 3 pkt 1, 2, 4, 7 lub 9– 11 sąd przed podjęciem decyzji w przedmiocie wykonania orzeczenia informuje o możliwości odmowy wykonania orzeczenia właściwy sąd lub inny organ państwa wydania orzeczenia.
+
+**Art. 611uh.**
+
+§ 1. W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, iż orzeczenie przekazane do wykonania nie podlega dalszemu wykonaniu, sąd niezwłocznie wydaje postanowienie o umorzeniu postępowania wykonawczego.
+
+§ 2. Jeżeli dalsze wykonywanie orzeczenia nie jest możliwe z przyczyn faktycznych lub prawnych, sąd niezwłocznie wydaje postanowienie o umorzeniu postępowania wykonawczego i zawiadamia właściwy sąd lub inny organ państwa wydania orzeczenia.
+
+§ 3. W razie otrzymania od właściwego sądu lub innego organu państwa wydania orzeczenia informacji o tym, iż przeciwko sprawcy wszczęto nowe postępowanie karne i na uzasadniony wniosek tego sądu lub organu, sąd może wyrazić zgodę na cofnięcie wystąpienia, o którym mowa w art. 611ud § 1, mając na uwadze cele kary lub środka, okres ich wykonywania oraz postawę sprawcy. Sąd umożliwia sprawcy, przebywającemu na terytorium Rzeczypospolitej Polskiej, zajęcie stanowiska ustnie lub na piśmie w przedmiocie cofnięcia wystąpienia. Wyrażając zgodę na cofnięcie wystąpienia, sąd umarza postępowanie wykonawcze.
+
+**Art. 611ui.** O treści postanowienia w przedmiocie wykonania orzeczenia, o którym mowa w art. 611ud § 1, oraz o istotnych orzeczeniach zapadłych w trakcie postępowania wykonawczego zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Zawiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
+
+**Art. 611uj.** Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611ud § 1, ponosi Skarb Państwa.
 
 #### Rozdział 66j Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie europejskiego nakazu ochrony
 
@@ -6347,11 +7069,83 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 6. W razie trudności w ustaleniu właściwego sądu lub innego organu państwa wykonania nakazu sąd lub prokurator może również zwracać się do właściwych jednostek organizacyjnych Europejskiej Sieci Sądowej lub Eurojust.
 
-§ 7. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór europejskiego nakazu ochrony, mając na uwadze konieczność udostępnienia państwu wykonania nakazu wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania nakazu. Art. 611wa. Wystąpienie o wykonanie europejskiego nakazu ochrony nie wstrzymuje wykonywania środka lub obowiązku, o którym mowa w art. 611w § 1. Art. 611wb. § 1. W razie zmiany lub uchylenia środka lub obowiązku, o którym mowa w art. 611w § 1, sąd lub prokurator niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania nakazu.
+§ 7. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór europejskiego nakazu ochrony, mając na uwadze konieczność udostępnienia państwu wykonania nakazu wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania nakazu.
 
-§ 2. Zawiadomienie, o którym mowa w § 1, może zostać przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów. Art. 611wc. Na postanowienie sądu lub prokuratora w przedmiocie europejskiego nakazu ochrony zażalenie nie przysługuje.
+**Art. 611wa.** Wystąpienie o wykonanie europejskiego nakazu ochrony nie wstrzymuje wykonywania środka lub obowiązku, o którym mowa w art. 611w § 1.
+
+**Art. 611wb.**
+
+§ 1. W razie zmiany lub uchylenia środka lub obowiązku, o którym mowa w art. 611w § 1, sąd lub prokurator niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania nakazu.
+
+§ 2. Zawiadomienie, o którym mowa w § 1, może zostać przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
+
+**Art. 611wc.** Na postanowienie sądu lub prokuratora w przedmiocie europejskiego nakazu ochrony zażalenie nie przysługuje.
 
 #### Rozdział 66k Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie europejskiego nakazu ochrony
+
+**Art. 611wd.**
+
+§ 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania nakazu”, o wykonanie europejskiego nakazu ochrony, wydanego na podstawie orzeczenia nakładającego na osobę, przeciwko której jest lub było prowadzone postępowanie karne, obowiązek polegający na powstrzymaniu się od przebywania w określonych środowiskach lub miejscach lub kontaktowania się z określonymi osobami, lub zbliżania się do określonych osób, nakaz ten podlega wykonaniu przez prokuratora właściwego miejscowo ze względu na miejsce pobytu osoby podlegającej ochronie.
+
+§ 2. Nakaz powinien zawierać informacje umożliwiające jego prawidłowe wykonanie. Do nakazu powinno być dołączone orzeczenie, o którym mowa w § 1, lub jego odpis poświadczony za zgodność z oryginałem. W odniesieniu do zawartych w nakazie danych dotyczących miejsca pobytu i pracy osoby podlegającej ochronie stosuje się odpowiednio art. 148a.
+
+§ 3. Jeżeli prokurator, do którego został skierowany nakaz, nie jest właściwy do nadania mu biegu, przekazuje go właściwemu prokuratorowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania nakazu.
+
+§ 4. Jeżeli wniosek o wydanie nakazu został skierowany przez osobę podlegającą ochronie na podstawie orzeczenia wydanego w innym państwie członkowskim Unii Europejskiej bezpośrednio do polskiego prokuratora, z pominięciem właściwego organu, prokurator przekazuje wniosek właściwemu sądowi lub innemu organowi w państwie, w którym wydano orzeczenie wobec osoby, przeciwko której jest lub było prowadzone postępowanie karne.
+
+§ 5. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu nakazu stosuje się przepisy prawa polskiego.
+
+**Art. 611we.**
+
+§ 1. Jeżeli państwo wydania nakazu nie przekazało wszystkich informacji potrzebnych do podjęcia decyzji w przedmiocie wykonania europejskiego nakazu ochrony, prokurator wzywa właściwy sąd lub inny organ państwa wydania nakazu do ich uzupełnienia we wskazanym terminie. W razie niedotrzymania terminu postanowienie w przedmiocie wykonania nakazu wydaje się w oparciu o posiadane informacje.
+
+§ 2. Jeżeli rodzaj albo sposób wykonania obowiązków są nieznane ustawie, prokurator określa obowiązek według prawa polskiego, z uwzględnieniem różnic na korzyść osoby, przeciwko której jest lub było prowadzone postępowanie karne.
+
+**Art. 611wf.**
+
+§ 1. Na postanowienie prokuratora w przedmiocie wykonania europejskiego nakazu ochrony przysługuje zażalenie do sądu rejonowego, w którego okręgu wydano to postanowienie. Sąd rozpoznaje zażalenie na posiedzeniu, w którym ma prawo wziąć udział prokurator, osoba, przeciwko której jest lub było prowadzone postępowanie karne, i osoba podlegająca ochronie, jeżeli przebywają na terytorium Rzeczypospolitej Polskiej, oraz obrońca i pełnomocnik, jeżeli stawią się na nie. Jeżeli osoba, przeciwko której jest lub było prowadzone postępowanie karne, nie przebywa na terytorium Rzeczypospolitej Polskiej ani nie posiada obrońcy, prezes sądu właściwego do rozpoznania zażalenia może jej wyznaczyć obrońcę z urzędu.
+
+§ 2. Do wykonania nakazu prokurator przystępuje niezwłocznie.
+
+**Art. 611wg.**
+
+§ 1. Odmawia się wykonania europejskiego nakazu ochrony, jeżeli osoba podlegająca ochronie nie przebywa na terytorium Rzeczypospolitej Polskiej, chyba że istnieją podstawy do uznania, że zamierza na nim przebywać.
+
+§ 2. Można odmówić wykonania nakazu, jeżeli:
+
+- **1)** czyn, w związku z którym nałożono obowiązek, nie stanowi przestępstwa według prawa polskiego;
+- **2)** pomimo wezwania przez prokuratora do uzupełnienia informacji we wskazanym terminie do nakazu nie dołączono orzeczenia, o którym mowa w art. 611wd § 1, albo jest on niekompletny lub w sposób oczywisty niezgodny z treścią orzeczenia;
+- **3)** orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a osoba ta odbywa lub odbyła karę albo kara nie może zostać wykonana według prawa państwa, w którym zapadł wyrok skazujący;
+- **4)** według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;
+- **5)** orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;
+- **6)** osoba, przeciwko której jest lub było prowadzone postępowanie karne, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyn będący podstawą wydania orzeczenia;
+- **7)** osoba, przeciwko której jest lub było prowadzone postępowanie karne, korzysta z immunitetu, zgodnie z którym jest niemożliwy nadzór nad przestrzeganiem nałożonych obowiązków;
+- **8)** orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 611wd § 1;
+- **9)** przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii.
+
+**Art. 611wh.**
+
+§ 1. W razie otrzymania od właściwego sądu lub innego organu państwa wydania nakazu informacji o tym, iż europejski nakaz ochrony nie podlega dalszemu wykonaniu, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu jego wykonywania.
+
+§ 2. Jeżeli dalsze wykonywanie nakazu nie jest możliwe z przyczyn faktycznych lub prawnych, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu jego wykonywania i zawiadamia o tym właściwy sąd lub inny organ państwa wydania nakazu, osobę, przeciwko której jest lub było prowadzone postępowanie karne, oraz osobę podlegającą ochronie, jeżeli przebywają na terytorium Rzeczypospolitej Polskiej.
+
+§ 3. W razie otrzymania od właściwego sądu lub innego organu państwa wydania nakazu informacji o zmianie obowiązku nałożonego na osobę, przeciwko której jest lub było prowadzone postępowanie karne, prokurator rozpoznaje sprawę wykonania zmienionego nakazu na zasadach określonych w niniejszym rozdziale. Przepisu art. 611wg nie stosuje się, z wyjątkiem § 1 i § 2 pkt 2 i 8.
+
+**Art. 611wi.**
+
+§ 1. O treści postanowienia w przedmiocie wykonania europejskiego nakazu ochrony, o wniesieniu środka odwoławczego od tego postanowienia, o istotnych orzeczeniach zapadłych w trakcie postępowania, jak również o zmianie miejsca pobytu osoby, przeciwko której jest lub było prowadzone postępowanie karne, albo osoby podlegającej ochronie zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu.
+
+§ 2. Prokurator zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu o wszelkich okolicznościach mających wpływ na jego wykonanie, w szczególności o naruszeniu nałożonego obowiązku. Zawiadomienie o naruszeniu tego obowiązku następuje w formie zaświadczenia zawierającego informacje dotyczące osoby, przeciwko której jest lub było prowadzone postępowanie karne, oraz naruszonego obowiązku.
+
+§ 3. W razie uzyskania informacji o naruszeniu nałożonego obowiązku prokurator może przedsięwziąć osobiście lub zlecić Policji sprawdzenie faktów w tym zakresie. Za zgodą osoby podlegającej ochronie prokurator może również wystąpić do właściwego komendanta Policji z wnioskiem o zastosowanie środków ochrony i pomocy przewidzianych w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka.
+
+§ 4. W razie ustania przyczyn nałożenia obowiązku lub powstania przyczyn uzasadniających jego uchylenie lub zmianę prokurator może wystąpić do właściwego sądu lub innego organu państwa wydania nakazu o uchylenie lub zmianę nakazu.
+
+§ 5. Zawiadomienia, o których mowa w § 1 i 2, oraz wystąpienie, o którym mowa w § 4, mogą zostać przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
+
+§ 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 2, mając na uwadze konieczność udostępnienia państwu wydania nakazu wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji.
+
+**Art. 611wj.** Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 #### Rozdział 67 Przepisy końcowe
 
@@ -6477,7 +7271,11 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 4b. Jeżeli opinia jest nierzetelna lub została sporządzona lub złożona ze znacznym nieusprawiedliwionym opóźnieniem, wynagrodzenie ulega odpowiedniemu obniżeniu; można również odstąpić od przyznania wynagrodzenia lub zwrotu jakichkolwiek kosztów poniesionych przez biegłego związanych z jej sporządzeniem lub złożeniem.
 
-§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, stawki wynagrodzenia biegłych za wykonaną pracę oraz taryfy zryczałtowane, o których mowa w § 3, mając na uwadze nakład pracy i kwalifikacje biegłego oraz poziom wynagrodzeń uzyskiwanych przez pracowników wykonujących podobne zawody, stopień złożoności problemu będącego przedmiotem opinii oraz warunki, w jakich opracowano opinię, a także sposób dokumentowania wydatków niezbędnych dla wydania opinii. Art. 618fa. § 1. W wyjątkowych wypadkach organ procesowy może postanowić o wypłacie biegłemu przed sporządzeniem opinii, jednorazowo lub w ratach, określonej kwoty pieniężnej na poczet wynagrodzenia, jeżeli jest to uzasadnione szczególną czasochłonnością czynności niezbędnych do wydania opinii lub innymi szczególnymi okolicznościami.
+§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, stawki wynagrodzenia biegłych za wykonaną pracę oraz taryfy zryczałtowane, o których mowa w § 3, mając na uwadze nakład pracy i kwalifikacje biegłego oraz poziom wynagrodzeń uzyskiwanych przez pracowników wykonujących podobne zawody, stopień złożoności problemu będącego przedmiotem opinii oraz warunki, w jakich opracowano opinię, a także sposób dokumentowania wydatków niezbędnych dla wydania opinii.
+
+**Art. 618fa.**
+
+§ 1. W wyjątkowych wypadkach organ procesowy może postanowić o wypłacie biegłemu przed sporządzeniem opinii, jednorazowo lub w ratach, określonej kwoty pieniężnej na poczet wynagrodzenia, jeżeli jest to uzasadnione szczególną czasochłonnością czynności niezbędnych do wydania opinii lub innymi szczególnymi okolicznościami.
 
 § 2. Na postanowienie w przedmiocie wypłaty na poczet wynagrodzenia zażalenie nie przysługuje.
 
@@ -6491,7 +7289,13 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 2. Wynagrodzenie za utracony zarobek lub dochód przyznaje się biegłemu, tłumaczowi i specjaliście niebędącemu funkcjonariuszem organów procesowych, uwzględniając ich kwalifikacje i czas zużyty w związku z wezwaniem. Przepisy art. 618b § 3 i 4 stosuje się odpowiednio.
 
-**Art. 618i.** W przypadku gdy biegły, tłumacz lub specjalista niebędący funkcjonariuszem organów procesowych zostaną wezwani przez uprawniony organ w kilku sprawach na ten sam dzień, zwrot kosztów podróży, noclegu, utrzymania w miejscu wykonywania czynności postępowania, utraconego zarobku lub dochodu z powodu stawiennictwa na wezwanie organu, przysługuje im tylko raz. Art. 618ia. § 1. Asystentowi rodziny przysługuje ryczałt za udział w posiedzeniu albo rozprawie, o których mowa w art. 76a § 1.
+**Art. 618i.** W przypadku gdy biegły, tłumacz lub specjalista niebędący funkcjonariuszem organów procesowych zostaną wezwani przez uprawniony organ w kilku sprawach na ten sam dzień, zwrot kosztów podróży, noclegu, utrzymania w miejscu wykonywania czynności postępowania, utraconego zarobku lub dochodu z powodu stawiennictwa na wezwanie organu, przysługuje im tylko raz.
+
+**Art. 618ia.**
+
+§ 1. Asystentowi rodziny przysługuje ryczałt za udział w posiedzeniu albo rozprawie, o których mowa w art. 76a § 1.
+
+§ 2. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość ryczałtu za udział w posiedzeniu albo rozprawie, o których mowa w art. 76a § 1, mając na uwadze przewidywane średnie koszty stawiennictwa i udziału asystenta rodziny w posiedzeniu albo rozprawie.
 
 **Art. 618j.** Należności przysługujące stronie w związku z jej udziałem w postępowaniu przyznaje się w wysokości przewidzianej dla świadków.
 
@@ -6557,6 +7361,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 628.** Od skazanego w sprawach z oskarżenia prywatnego sąd zasądza na rzecz:
 
+- **1)** oskarżyciela prywatnego poniesione przez niego koszty procesu;
+- **2)** Skarbu Państwa wydatki ustalone na podstawie art. 618, od których uiszczenia oskarżyciel został zwolniony lub w razie rozpoznania sprawy bez ich uiszczenia.
+
 **Art. 629.** Przepisy art. 627 i 628 stosuje się odpowiednio w razie warunkowego umorzenia postępowania, a w sprawach z oskarżenia prywatnego – również w razie umorzenia postępowania na podstawie art. 17 § 1 pkt 3.
 
 **Art. 630.** W sprawach z oskarżenia publicznego, jeżeli oskarżonego nie skazano za wszystkie zarzucane mu przestępstwa, wydatki związane z oskarżeniem w części uniewinniającej lub umarzającej postępowanie ponosi Skarb Państwa.
@@ -6564,6 +7371,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 **Art. 631.** W sprawach z oskarżenia prywatnego, w razie odstąpienia od wymierzenia kary z powodu wzajemności krzywd lub wyzywającego zachowania się oskarżyciela prywatnego, jak również biorąc pod uwagę liczbę i rodzaj zarzutów, od których oskarżony został uniewinniony, sąd może obciążyć oskarżonego poniesionymi przez oskarżyciela kosztami procesu tylko częściowo.
 
 **Art. 632.** Jeżeli ustawa nie stanowi inaczej, w razie uniewinnienia oskarżonego lub umorzenia postępowania koszty procesu ponosi:
+
+- **1)** w sprawach z oskarżenia prywatnego – oskarżyciel prywatny, a w razie pojednania się stron – oskarżyciel i oskarżony w zakresie przez siebie poniesionym, jeżeli strony w zawartej ugodzie nie uregulowały tego inaczej;
+- **2)** w sprawach z oskarżenia publicznego – Skarb Państwa, z wyjątkiem należności z tytułu udziału adwokata lub radcy prawnego w charakterze pełnomocnika pokrzywdzonego, oskarżyciela posiłkowego albo innej osoby.
 
 **Art. 632a.**
 
@@ -6613,7 +7423,7 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 641.** Prawo do ściągnięcia zasądzonych kosztów procesu przedawnia się z upływem 3 lat od dnia, kiedy należało je uiścić.
 
-#### Rozdział 71
+#### Rozdział 71 (zawierający art. 642–645 – uchylony)
 
 ### DZIAŁ XV Postępowanie karne w sprawach podlegających orzecznictwu sądów wojskowych
 
@@ -6641,9 +7451,15 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 3. W razie zwolnienia żołnierza z czynnej służby wojskowej lub ustania zatrudnienia pracownika w wojsku sprawę, o której mowa w § 1 pkt 1 lit. b lub d, oraz – jeżeli przestępstwo nie wiąże się z naruszeniem obowiązku służbowego – w § 1 pkt 2 lit. b, sąd wojskowy, najpóźniej do dnia rozpoczęcia przewodu sądowego na rozprawie głównej, może przekazać do rozpoznania sądowi powszechnemu, jeżeli dobro wymiaru sprawiedliwości temu się nie sprzeciwia.
 
-§ 4. (uchylony) § 5. Na postanowienie w przedmiocie przekazania sprawy w myśl § 3 przysługuje zażalenie.
+§ 4. (uchylony)
+
+§ 5. Na postanowienie w przedmiocie przekazania sprawy w myśl § 3 przysługuje zażalenie.
 
 **Art. 648.** Orzecznictwu sądów wojskowych podlegają także sprawy o:
+
+- **1)** współdziałanie w popełnieniu przestępstw określonych w rozdziałach XXXIX– XLIV Kodeksu karnego;
+- **2)** przestępstwa określone w art. 239, 291–293, a także w art. 294 w odniesieniu do art. 291 § 1, Kodeksu karnego – jeżeli czyn pozostaje w związku z przestępstwem przewidzianym w rozdziałach XXXIX–XLIV tego kodeksu;
+- **3)** inne przestępstwa, o ile przepisy szczególne tak stanowią.
 
 **Art. 649.**
 
@@ -6655,7 +7471,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1. Jeżeli w sprawie przeciwko dwóm lub więcej oskarżonym sąd wojskowy nie byłby właściwy do jej rozpoznania w całości bądź ze względu na rodzaj jednego z czynów, bądź ze względu na osobę jednego z oskarżonych, a dobro wymiaru sprawiedliwości tego wymaga, sąd wojskowy może rozpoznać sprawę łącznie lub przekazać ją w tym celu sądowi powszechnemu.
 
-§ 2. (uchylony) § 3. Przekazanie nie może nastąpić, jeżeli sprawa dotyczy przestępstwa wskazanego w art. 647 § 1 pkt 1 lit. a lub c lub pkt 2 lit. a oraz w art. 648 pkt 1.
+§ 2. (uchylony)
+
+§ 3. Przekazanie nie może nastąpić, jeżeli sprawa dotyczy przestępstwa wskazanego w art. 647 § 1 pkt 1 lit. a lub c lub pkt 2 lit. a oraz w art. 648 pkt 1.
 
 § 4. Na postanowienie w przedmiocie przekazania sprawy w myśl § 1 przysługuje zażalenie.
 
@@ -6668,6 +7486,10 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 § 3. (uchylony)
 
 **Art. 652.** W sprawach podlegających orzecznictwu sądów wojskowych orzekają stosownie do zakresu właściwości:
+
+- **1)** wojskowy sąd garnizonowy;
+- **2)** wojskowy sąd okręgowy;
+- **3)** Sąd Najwyższy.
 
 **Art. 653.**
 

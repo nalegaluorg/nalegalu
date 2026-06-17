@@ -89,7 +89,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20081180746 | Ustawa z dnia 30 maja 2008 r. o zmianie ustawy o specjalnych… | source article inventory failed: eli-html=0 AST=7 dup_ast=1 … |
 | WDU20082161369 | Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o izbach … | rendered round-trip failed: AST=3 rendered=4 extra_rendered= |
 | WDU20092011542 | Ustawa z dnia 23 października 2009 r. zmieniająca ustawę o z… | PostScript CE garbled diacritics — unrepaired encoding (3 oc |
-| WDU20100110066 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | character-spaced text — 2 line(s) with >30% single-letter wo |
+| WDU20100110066 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | character-spaced text — 2 line(s) with >30% single-letter wo… |
 | WDU20100210109 | Wyrok Trybunału Konstytucyjnego z dnia 26 stycznia 2010 r. s… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20101250852 | Wyrok Trybunału Konstytucyjnego z dnia 22 czerwca 2010 r. sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20102441636 | Wyrok Trybunału Konstytucyjnego z dnia 14 grudnia 2010 r. sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
