@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-06-17T22:53:22Z",
+  "generated_at": "2026-06-15T20:18:07Z",
   "acts": {
-    "published": 18470,
+    "published": 18553,
     "rejected": 414,
     "total_in_db": 19455
   },
   "content": {
-    "total_body_chars": 507655667,
-    "total_articles": 158096,
-    "avg_body_chars": 27485,
-    "avg_articles": 8.6
+    "total_body_chars": 537534130,
+    "total_articles": 171975,
+    "avg_body_chars": 28972,
+    "avg_articles": 9.3
   },
   "sources": {
-    "pdf": 18266,
+    "pdf": 18349,
     "eli-html": 204
   },
   "act_types": {
     "Rozporządzenie": 10270,
-    "Ustawa": 4513,
-    "Obwieszczenie": 2084,
+    "Ustawa": 4568,
+    "Obwieszczenie": 2112,
     "Orzeczenie": 1209,
     "Umowa międzynarodowa": 329,
     "Protokół": 18,
@@ -33,35 +33,35 @@
     "Oświadczenie": 1
   },
   "statuses": {
-    "obowiązujący": 11039,
-    "akt objęty tekstem jednolitym": 5078,
-    "akt posiada tekst jednolity": 1833,
+    "obowiązujący": 11091,
+    "akt objęty tekstem jednolitym": 5079,
+    "akt posiada tekst jednolity": 1863,
     "nieobowiązujący - uchylona podstawa prawna": 514,
     "wygaśnięcie aktu": 4,
     "uznany za uchylony": 2
   },
   "pdf_types": {
-    "O": 11971,
-    "T": 4963,
-    "U": 1523,
+    "O": 11972,
+    "T": 4984,
+    "U": 1584,
     "unknown": 13
   },
   "unified_text_pdf_types": {
     "O": 4943,
-    "T": 1161,
-    "U": 804,
+    "T": 1162,
+    "U": 834,
     "unknown": 3
   },
   "domains": {
-    "inne": 17660,
-    "prawo-podatkowe": 177,
-    "prawo-karne": 144,
+    "inne": 17732,
+    "prawo-podatkowe": 179,
+    "prawo-karne": 150,
     "prawo-cywilne": 130,
     "prawo-administracyjne": 63,
     "prawo-pracy": 61,
     "prawo-ochrony-srodowiska": 61,
     "prawo-budowlane": 41,
-    "prawo-energetyczne": 31,
+    "prawo-energetyczne": 34,
     "prawo-bankowe": 26,
     "prawo-handlowe": 20,
     "prawo-zamowien": 18,
@@ -72,11 +72,8 @@
     "prawo-konstytucyjne": 2
   },
   "quality": {
-    "quality_gate_blocked": 752,
+    "quality_gate_blocked": 668,
     "original_pdf_for_unified_skipped": 4943,
-    "consolidated_article_coverage_checked": 636,
-    "consolidated_article_coverage_with_gaps": 448,
-    "consolidated_article_coverage_unexplained_gaps": 14526,
     "rejected_scans": 1,
     "rejected_other": 413
   }

@@ -139,50 +139,5 @@
       "T": 1162,
       "unknown": 3
     }
-  },
-  {
-    "date": "2026-06-17",
-    "published": 18470,
-    "rejected": 414,
-    "total_body_chars": 507655667,
-    "total_articles": 158096,
-    "sources": {
-      "pdf": 18266,
-      "eli-html": 204
-    },
-    "act_types": {
-      "Ustawa": 4513,
-      "Dekret": 8,
-      "Rozporządzenie": 10270,
-      "Obwieszczenie": 2084,
-      "Umowa międzynarodowa": 329,
-      "Uchwała": 10,
-      "Konwencja": 8,
-      "Orzeczenie": 1209,
-      "Traktat": 1,
-      "Postanowienie": 6,
-      "Protokół": 18,
-      "Porozumienie": 8,
-      "Decyzja": 1,
-      "Oświadczenie": 1,
-      "Oświadczenie rządowe": 4
-    },
-    "pdf_types": {
-      "U": 1523,
-      "O": 11971,
-      "T": 4963,
-      "unknown": 13
-    },
-    "unified_text_pdf_types": {
-      "U": 804,
-      "O": 4943,
-      "T": 1161,
-      "unknown": 3
-    },
-    "consolidated_article_coverage": {
-      "checked": 636,
-      "with_gaps": 448,
-      "unexplained_gaps": 14526
-    }
   }
 ]
