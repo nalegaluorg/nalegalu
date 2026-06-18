@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Inne**.
 
-Łącznie: **18376** aktów
+Łącznie: **18375** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -909,7 +909,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001601](WDU20240001601/index.md) | Rozporządzenie Ministra Finansów z dnia 28 października 2024 r. w sprawie u | Rozporządzenie | obowiązujący |  |
 | [WDU20240001600](WDU20240001600/index.md) | Rozporządzenie Ministra Zdrowia z dnia 29 października 2024 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001599](WDU20240001599/index.md) | Obwieszczenie Ministra Funduszy i Polityki Regionalnej z dnia 23 październi | Obwieszczenie | obowiązujący |  |
-| [WDU20240001598](WDU20240001598/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 październ | Obwieszczenie | obowiązujący |  |
 | [WDU20240001597](WDU20240001597/index.md) | Ustawa z dnia 18 października 2024 r. o zmianie ustawy o udostępnianiu info | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20240001596](WDU20240001596/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 października 2024 | Rozporządzenie | obowiązujący |  |
 | [WDU20240001595](WDU20240001595/index.md) | Obwieszczenie Ministra Kultury i Dziedzictwa Narodowego z dnia 17 październ | Obwieszczenie | obowiązujący |  |
@@ -18383,4 +18382,4 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19310380294](WDU19310380294/index.md) | Ustawa z dnia 17 marca 1931 r. w sprawie przystąpienia Polski do traktatu,  | Ustawa | obowiązujący |  |
 | [WDU19200310178](WDU19200310178/index.md) | Ustawa z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców | Ustawa | akt posiada tekst jednolity | [tak](WDU19200310178/orzecznictwo.md) |
 
-*18376 aktów • [← Powrót do spisu głównego](../README.md)*
+*18375 aktów • [← Powrót do spisu głównego](../README.md)*

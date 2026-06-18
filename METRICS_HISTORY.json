@@ -142,19 +142,19 @@
   },
   {
     "date": "2026-06-18",
-    "published": 19262,
-    "rejected": 414,
-    "total_body_chars": 587563571,
-    "total_articles": 208307,
+    "published": 19261,
+    "rejected": 415,
+    "total_body_chars": 587474999,
+    "total_articles": 208233,
     "sources": {
-      "pdf": 18987,
+      "pdf": 18986,
       "eli-html": 246,
       "unknown": 29
     },
     "act_types": {
       "Rozporządzenie": 10328,
       "Ustawa": 4839,
-      "Obwieszczenie": 2325,
+      "Obwieszczenie": 2324,
       "Orzeczenie": 1373,
       "Umowa międzynarodowa": 329,
       "Protokół": 18,
@@ -169,13 +169,13 @@
       "Oświadczenie": 1
     },
     "statuses": {
-      "obowiązujący": 11796,
+      "obowiązujący": 11795,
       "akt objęty tekstem jednolitym": 5062,
       "akt posiada tekst jednolity": 1890,
       "nieobowiązujący - uchylona podstawa prawna": 514
     },
     "domains": {
-      "inne": 18376,
+      "inne": 18375,
       "prawo-podatkowe": 193,
       "prawo-karne": 159,
       "prawo-cywilne": 142,

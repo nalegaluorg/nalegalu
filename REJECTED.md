@@ -1,6 +1,6 @@
 # Rejected Acts
 
-Acts excluded from publication due to quality issues. Total: 414
+Acts excluded from publication due to quality issues. Total: 415
 
 | Address | Reason |
 |---------|--------|
@@ -407,6 +407,7 @@ Acts excluded from publication due to quality issues. Total: 414
 | WDU20240001514 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240001533 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240001542 | excessive repetition — '..................................................…' app |
+| WDU20240001598 | rendered round-trip failed: AST=76 rendered=77 extra_rendered=1 FAIL |
 | WDU20240001641 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240001746 | excessive repetition — 'Objaśnienia i informacje dodatkowe dotyczące m.in.…' app |
 | WDU20240001754 | rendered round-trip failed: AST=2 rendered=2 low_sim=1 FAIL; low similarity: 2 |
