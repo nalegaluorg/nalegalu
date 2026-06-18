@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych
+# Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o podatku dochodowym od osób fizycznych
 
 *USTAWA z dnia 13 lutego 2026 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw
+# Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy - Kodeks karny wykonawczy oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 sierpnia 2022 r.*
 
@@ -138,7 +138,11 @@ source: pdf
 
 § 6. Przepis § 1 stosuje się odpowiednio do skazanego, któremu wymierzono dwie lub więcej niepodlegających łączeniu kar pozbawienia wolności, które skazany ma odbyć kolejno, nieprzekraczających w sumie 4 miesięcy.
 
-§ 7. W sprawach związanych z udzieleniem skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, o których mowa w § 1, wyłącznie właściwa jest komisja penitencjarna. Jeżeli jednak w chwili złożenia wniosku skazany nie rozpoczął jeszcze odbywania kary, w sprawach związanych z udzieleniem zezwolenia właściwy jest sąd penitencjarny. Art. 43llb. § 1. Na decyzję komisji penitencjarnej w przedmiocie udzielenia skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego skarga przysługuje także obrońcy skazanego, prokuratorowi, jak również sądowemu kuratorowi zawodowemu lub dyrektorowi zakładu karnego, jeżeli składali wniosek o udzielenie zezwolenia. Przepisy art. 7 i art. 43lj § 2 stosuje się odpowiednio.
+§ 7. W sprawach związanych z udzieleniem skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, o których mowa w § 1, wyłącznie właściwa jest komisja penitencjarna. Jeżeli jednak w chwili złożenia wniosku skazany nie rozpoczął jeszcze odbywania kary, w sprawach związanych z udzieleniem zezwolenia właściwy jest sąd penitencjarny.
+
+**Art. 43llb.**
+
+§ 1. Na decyzję komisji penitencjarnej w przedmiocie udzielenia skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego skarga przysługuje także obrońcy skazanego, prokuratorowi, jak również sądowemu kuratorowi zawodowemu lub dyrektorowi zakładu karnego, jeżeli składali wniosek o udzielenie zezwolenia. Przepisy art. 7 i art. 43lj § 2 stosuje się odpowiednio.
 
 § 2. Rozpoznając skargę sąd penitencjarny bierze pod uwagę w szczególności czy odbywaniu kary pozbawienia wolności w systemie dozoru elektronicznego nie stoją na przeszkodzie szczególne względy wskazujące, że w razie odbycia kary w tym systemie nie zostaną osiągnięte cele kary oraz czy za udzieleniem zezwolenia przemawiają dotychczasowa postawa i zachowanie skazanego w trakcie odbywania kary pozbawienia wolności.
 

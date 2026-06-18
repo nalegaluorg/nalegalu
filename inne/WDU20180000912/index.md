@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
+# Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 marca 2018 r.*
 
@@ -373,7 +373,13 @@ source: pdf
 
 2. Okoliczności, o których mowa w ust. 1, dokumentuje się w notatce służbowej sporządzonej przez przewodniczącego komisji, którą załącza się do protokołu egzaminacyjnego.
 
-3. Przepisy art. 43y ust. 2−5 stosuje się odpowiednio. Art. 43za. Funkcjonariusz lub pracownik po ukończeniu szkolenia zawodowego otrzymuje świadectwo ukończenia szkolenia zawodowego. Art. 43zb. 1. Funkcjonariusza lub pracownika skreśla się z listy uczestników szkolenia zawodowego, jeżeli:
+3. Przepisy art. 43y ust. 2−5 stosuje się odpowiednio.
+
+**Art. 43za.** Funkcjonariusz lub pracownik po ukończeniu szkolenia zawodowego otrzymuje świadectwo ukończenia szkolenia zawodowego.
+
+**Art. 43zb.**
+
+1. Funkcjonariusza lub pracownika skreśla się z listy uczestników szkolenia zawodowego, jeżeli:
 
 - **1)** złożył pisemny wniosek o zwolnienie ze szkolenia zawodowego, który został pozytywnie rozpatrzony;
 - **2)** zgłosił na piśmie wystąpienie ze służby w Służbie Więziennej albo wystąpił o rozwiązanie stosunku pracy;
@@ -387,19 +393,30 @@ source: pdf
 - **1)** naruszył przepisy regulaminu pobytu na terenie Uczelni, Centralnego Ośrodka Szkolenia Służby Więziennej, ośrodka szkolenia Służby Więziennej lub ośrodka doskonalenia kadr Służby Więziennej;
 - **2)** w szkoleniu zawodowym nastąpiła jego usprawiedliwiona nieobecność trwająca ponad 7 dni, uniemożliwiająca uczestnictwo w zajęciach i przystąpienie do egzaminów oraz zaliczeń.
 
-3. Rektor lub właściwy komendant informuje niezwłocznie Dyrektora Generalnego oraz właściwego kierownika jednostki organizacyjnej o skreśleniu funkcjonariusza lub pracownika z listy uczestników szkolenia zawodowego. Art. 43zc. Dokumentację szkolenia zawodowego stanowią:
+3. Rektor lub właściwy komendant informuje niezwłocznie Dyrektora Generalnego oraz właściwego kierownika jednostki organizacyjnej o skreśleniu funkcjonariusza lub pracownika z listy uczestników szkolenia zawodowego.
+
+**Art. 43zc.** Dokumentację szkolenia zawodowego stanowią:
 
 - **1)** protokoły postępowania rekrutacyjnego;
 - **2)** pisma w sprawie zakwalifikowania na szkolenie zawodowe lub skreślenia z listy uczestników szkolenia zawodowego;
 - **3)** plany zajęć;
 - **4)** dzienniki szkoleń;
 - **5)** protokoły zaliczeń i egzaminów;
-- **6)** rejestry wydanych dokumentów potwierdzających ukończenie szkolenia. Art. 43zd. Szkolenie specjalistyczne stanowi uzupełnienie szkolenia wstępnego lub szkolenia zawodowego w zakresie przygotowującym funkcjonariusza lub pracownika do samodzielnej służby albo pracy na stanowisku służbowym i realizacji zadań związanych z:
+- **6)** rejestry wydanych dokumentów potwierdzających ukończenie szkolenia.
+
+**Art. 43zd.** Szkolenie specjalistyczne stanowi uzupełnienie szkolenia wstępnego lub szkolenia zawodowego w zakresie przygotowującym funkcjonariusza lub pracownika do samodzielnej służby albo pracy na stanowisku służbowym i realizacji zadań związanych z:
+
 - **1)** prowadzeniem oddziaływań penitencjarnych, resocjalizacyjnych oraz terapeutycznych;
 - **2)** ochroną i obroną jednostek organizacyjnych oraz technikami działań interwencyjnych;
 - **3)** kierowaniem zespołem ludzkim oraz zarządzaniem jednostkami organizacyjnymi;
 - **4)** zagadnieniami prawnymi, kadrowymi, ewidencyjnymi, finansowo-kwatermistrzowskimi, dotyczącymi zatrudnienia osadzonych, informatyki, ochrony informacji niejawnych, więziennej służby zdrowia, medycyny pracy, ochrony przeciwpożarowej oraz bezpieczeństwa i higieny pracy;
-- **5)** realizacją innych zadań wynikających z obowiązujących przepisów, w szczególności z zakresu ochrony praw człowieka i podstawowych wolności. Art. 43ze. Do szkolenia specjalistycznego stosuje się odpowiednio przepisy art. 43t, art. 43y–43za, art. 43zg ust. 2 oraz art. 43zj ust. 1. Art. 43zf. 1. Doskonalenie zawodowe jest elementem podnoszenia kwalifikacji zawodowych funkcjonariuszy i pracowników, w szczególności w formie kursów, warsztatów, szkoleń i konferencji.
+- **5)** realizacją innych zadań wynikających z obowiązujących przepisów, w szczególności z zakresu ochrony praw człowieka i podstawowych wolności.
+
+**Art. 43ze.** Do szkolenia specjalistycznego stosuje się odpowiednio przepisy art. 43t, art. 43y–43za, art. 43zg ust. 2 oraz art. 43zj ust. 1.
+
+**Art. 43zf.**
+
+1. Doskonalenie zawodowe jest elementem podnoszenia kwalifikacji zawodowych funkcjonariuszy i pracowników, w szczególności w formie kursów, warsztatów, szkoleń i konferencji.
 
 2. Doskonalenie zawodowe powinno uwzględniać:
 
@@ -421,7 +438,12 @@ source: pdf
 - **5)** warunki dopuszczenia do szkolenia strzeleckiego,
 - **6)** podstawowe komendy podczas strzelań,
 - **7)** obowiązki uczestników szkolenia strzeleckiego,
-- **8)** zasady użytkowania i wymagania dotyczące strzelnic, będących w zarządzie Służby Więziennej – mając na względzie zapewnienie właściwego poziomu umiejętności strzeleckich funkcjonariuszy w zależności od potrzeb jednostek organizacyjnych oraz zapewnienie bezpiecznego przebiegu szkolenia strzeleckiego. Art. 43zg. 1. Doskonalenie zawodowe funkcjonariuszy i pracowników jest organizowane jako:
+- **8)** zasady użytkowania i wymagania dotyczące strzelnic, będących w zarządzie Służby Więziennej – mając na względzie zapewnienie właściwego poziomu umiejętności strzeleckich funkcjonariuszy w zależności od potrzeb jednostek organizacyjnych oraz zapewnienie bezpiecznego przebiegu szkolenia strzeleckiego.
+
+**Art. 43zg.**
+
+1. Doskonalenie zawodowe funkcjonariuszy i pracowników jest organizowane jako:
+
 - **1)** doskonalenie centralne;
 - **2)** doskonalenie okręgowe;
 - **3)** doskonalenie zakładowe;
@@ -429,19 +451,37 @@ source: pdf
 
 2. Rekrutacja na doskonalenie zawodowe, o którym mowa w ust. 1 pkt 1, 2 i 4, może odbywać się z wykorzystaniem elektronicznego systemu obsługi szkolenia. Kryteria naboru oraz limity miejsc określa organizator doskonalenia zawodowego.
 
-3. Funkcjonariusze i pracownicy uczestniczą, nie rzadziej niż co 3 lata, w co najmniej jednej ze zorganizowanych form doskonalenia zawodowego, o których mowa w ust. 1 pkt 1, 2 i 4, zgodnych z zakresem wykonywanych przez nich obowiązków służbowych. Art. 43zh. 1. Doskonalenie centralne jest organizowane przez Dyrektora Generalnego dla funkcjonariuszy i pracowników.
+3. Funkcjonariusze i pracownicy uczestniczą, nie rzadziej niż co 3 lata, w co najmniej jednej ze zorganizowanych form doskonalenia zawodowego, o których mowa w ust. 1 pkt 1, 2 i 4, zgodnych z zakresem wykonywanych przez nich obowiązków służbowych.
+
+**Art. 43zh.**
+
+1. Doskonalenie centralne jest organizowane przez Dyrektora Generalnego dla funkcjonariuszy i pracowników.
 
 2. Doskonalenie okręgowe jest organizowane przez dyrektora okręgowego dla funkcjonariuszy i pracowników podległych mu jednostek organizacyjnych.
 
 3. Doskonalenie zakładowe jest organizowane przez kierownika jednostki organizacyjnej dla wszystkich funkcjonariuszy i pracowników podległej mu jednostki lub dla funkcjonariuszy i pracowników określonych działów Służby Więziennej.
 
-4. Doskonalenie zewnętrzne jest prowadzone w szczególności w formach, o których mowa w art. 146 ust. 1. Przepisów art. 43zi oraz art. 43zj nie stosuje się. Art. 43zi. Doskonalenie zawodowe prowadzi się na podstawie programu doskonalenia zawodowego określonego przez organizatora szkolenia. Art. 43zj. 1. Jeżeli doskonalenie zawodowe kończy się zaliczeniem lub egzaminem, organizator szkolenia prowadzi dokumentację, którą stanowią lista obecności oraz protokoły zaliczeń lub egzaminów.
+4. Doskonalenie zewnętrzne jest prowadzone w szczególności w formach, o których mowa w art. 146 ust. 1. Przepisów art. 43zi oraz art. 43zj nie stosuje się.
 
-2. Funkcjonariusz lub pracownik po ukończeniu doskonalenia zawodowego otrzymuje zaświadczenie o jego zaliczeniu albo niezaliczeniu, o ile program tego szkolenia przewiduje ten sposób ukończenia doskonalenia zawodowego. Art. 43zk. 1. Kształcenie przygotowujące do zajmowania stanowisk oficerskich w Służbie Więziennej prowadzi się w formie studiów podyplomowych na Uczelni, studiów drugiego stopnia na Uczelni lub szkolenia zawodowego.
+**Art. 43zi.** Doskonalenie zawodowe prowadzi się na podstawie programu doskonalenia zawodowego określonego przez organizatora szkolenia.
+
+**Art. 43zj.**
+
+1. Jeżeli doskonalenie zawodowe kończy się zaliczeniem lub egzaminem, organizator szkolenia prowadzi dokumentację, którą stanowią lista obecności oraz protokoły zaliczeń lub egzaminów.
+
+2. Funkcjonariusz lub pracownik po ukończeniu doskonalenia zawodowego otrzymuje zaświadczenie o jego zaliczeniu albo niezaliczeniu, o ile program tego szkolenia przewiduje ten sposób ukończenia doskonalenia zawodowego.
+
+**Art. 43zk.**
+
+1. Kształcenie przygotowujące do zajmowania stanowisk oficerskich w Służbie Więziennej prowadzi się w formie studiów podyplomowych na Uczelni, studiów drugiego stopnia na Uczelni lub szkolenia zawodowego.
 
 2. Kształcenie przygotowujące do zajmowania stanowisk chorążych w Służbie Więziennej prowadzi się w formie studiów pierwszego stopnia na Uczelni lub szkolenia zawodowego.
 
-3. Kształcenie przygotowujące do zajmowania stanowisk podoficerskich w Służbie Więziennej prowadzi się w formie szkolenia zawodowego. Art. 43zl. 1. Funkcjonariusze, którzy ukończyli kształcenie w formach, o których mowa w art. 43zk, przystępują do egzaminu na pierwszy stopień w korpusie odpowiednio oficerów, chorążych albo podoficerów Służby Więziennej.
+3. Kształcenie przygotowujące do zajmowania stanowisk podoficerskich w Służbie Więziennej prowadzi się w formie szkolenia zawodowego.
+
+**Art. 43zl.**
+
+1. Funkcjonariusze, którzy ukończyli kształcenie w formach, o których mowa w art. 43zk, przystępują do egzaminu na pierwszy stopień w korpusie odpowiednio oficerów, chorążych albo podoficerów Służby Więziennej.
 
 2. Dyrektor Generalny, nie później niż w terminie 2 miesięcy od dnia ukończenia kształcenia, określi, w drodze zarządzenia, miejsce przeprowadzania egzaminów, skład komisji egzaminacyjnych i ich przewodniczących oraz terminy i zakres tematyczny egzaminów z uwzględnieniem terminów ukończenia kształcenia w odpowiednich formach.
 
@@ -451,11 +491,19 @@ source: pdf
 
 5. Po przeprowadzeniu egzaminu komisja egzaminacyjna sporządza protokół, który przekazuje Dyrektorowi Generalnemu w celu niezwłocznego podjęcia działań zmierzających do nadania funkcjonariuszom pierwszego stopnia w korpusie odpowiednio oficerów, chorążych albo podoficerów.
 
-6. Negatywny wynik egzaminu albo nieprzystąpienie do egzaminu oznacza nieuzyskanie kwalifikacji zawodowych, jakim powinien odpowiadać funkcjonariusz na określonym stanowisku służbowym w korpusie oficerów, chorążych albo podoficerów. Art. 43zm. 1. Funkcjonariusz, który uzyskał negatywny wynik egzaminu, o którym mowa w art. 43zl ust. 1, może złożyć do Dyrektora Generalnego wniosek o dopuszczenie do egzaminu poprawkowego.
+6. Negatywny wynik egzaminu albo nieprzystąpienie do egzaminu oznacza nieuzyskanie kwalifikacji zawodowych, jakim powinien odpowiadać funkcjonariusz na określonym stanowisku służbowym w korpusie oficerów, chorążych albo podoficerów.
+
+**Art. 43zm.**
+
+1. Funkcjonariusz, który uzyskał negatywny wynik egzaminu, o którym mowa w art. 43zl ust. 1, może złożyć do Dyrektora Generalnego wniosek o dopuszczenie do egzaminu poprawkowego.
 
 2. Egzamin poprawkowy przeprowadza się w terminie kolejnego egzaminu. O terminie egzaminu poprawkowego zawiadamia się funkcjonariusza za pośrednictwem kierownika jednostki organizacyjnej.
 
-3. Funkcjonariusz, który uzyskał negatywny wynik egzaminu poprawkowego, może zostać skierowany ponownie na szkolenie zawodowe po upływie co najmniej roku od dnia uzyskania negatywnego wyniku egzaminu poprawkowego. Art. 43zn. 1. Nadzór nad organizacją szkoleń wstępnego, zawodowego i specjalistycznego sprawuje Dyrektor Generalny.
+3. Funkcjonariusz, który uzyskał negatywny wynik egzaminu poprawkowego, może zostać skierowany ponownie na szkolenie zawodowe po upływie co najmniej roku od dnia uzyskania negatywnego wyniku egzaminu poprawkowego.
+
+**Art. 43zn.**
+
+1. Nadzór nad organizacją szkoleń wstępnego, zawodowego i specjalistycznego sprawuje Dyrektor Generalny.
 
 2. Nadzór nad metodyką szkoleń wstępnego, zawodowego i specjalistycznego sprawuje Rektor.
 
@@ -473,19 +521,29 @@ source: pdf
 - **4)** w Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej i ośrodku doskonalenia kadr Służby Więziennej − właściwy komendant;
 - **5)** w zakładzie karnym i areszcie śledczym − dyrektor.
 
-7. Czynności związane z nadzorem nad realizacją szkoleń wstępnego, zawodowego i specjalistycznego podlegają udokumentowaniu. Art. 43zo. Nadzór nad realizacją szkolenia zawodowego na Uczelni, w Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej i ośrodku doskonalenia kadr Służby Więziennej jest sprawowany poprzez:
+7. Czynności związane z nadzorem nad realizacją szkoleń wstępnego, zawodowego i specjalistycznego podlegają udokumentowaniu.
+
+**Art. 43zo.** Nadzór nad realizacją szkolenia zawodowego na Uczelni, w Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej i ośrodku doskonalenia kadr Służby Więziennej jest sprawowany poprzez:
 
 - **1)** ewaluację szkolenia polegającą w szczególności na badaniu opinii funkcjonariuszy i pracowników biorących udział w szkoleniu oraz ich oczekiwań związanych z wybranymi obszarami działalności w zakresie szkolenia zawodowego;
 - **2)** kontrolę procesu szkolenia;
 - **3)** analizę dokumentacji szkoleniowej;
 - **4)** ocenę kwalifikacji i umiejętności kadry dydaktycznej;
-- **5)** ocenę warunków pracy kadry dydaktycznej. Art. 43zp. 1. Dyrektor Generalny, Rektor lub właściwy komendant, sprawując nadzór, wyznacza zadania, określa sposoby ich realizacji oraz wskazuje osoby odpowiedzialne za realizację czynności i zadań wykonywanych w ramach nadzoru, w tym przygotowanie narzędzi badawczych, przeprowadzenie badań i opracowanie raportów.
+- **5)** ocenę warunków pracy kadry dydaktycznej.
+
+**Art. 43zp.**
+
+1. Dyrektor Generalny, Rektor lub właściwy komendant, sprawując nadzór, wyznacza zadania, określa sposoby ich realizacji oraz wskazuje osoby odpowiedzialne za realizację czynności i zadań wykonywanych w ramach nadzoru, w tym przygotowanie narzędzi badawczych, przeprowadzenie badań i opracowanie raportów.
 
 2. Osoby wyznaczone przez Dyrektora Generalnego, Rektora lub właściwego komendanta są obowiązane do:
 
 - **1)** opracowania wyników sprawowanego nadzoru oraz przygotowania wniosków do dalszej pracy;
 - **2)** przedstawiania modyfikacji i usprawnień sprzyjających zapewnieniu właściwych warunków szkolenia i doskonalenia zawodowego, jeżeli wyniki nadzoru to uzasadniają;
-- **3)** przedkładania na piśmie, w miarę potrzeb, jednak nie rzadziej niż raz w roku, odpowiednio Dyrektorowi Generalnemu, Rektorowi lub właściwemu komendantowi, sprawozdania z prowadzonych czynności związanych z nadzorem nad realizacją szkolenia zawodowego wraz z wnioskami, w tym również sprawozdania z prac zespołu w przypadku jego powołania. Art. 43zq. 1. Funkcjonariuszom i pracownikom uczestniczącym w szkoleniach wstępnym, zawodowym i specjalistycznym oraz doskonaleniu zawodowym, organizowanych na Uczelni, w Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej i ośrodku doskonalenia kadr Służby Więziennej, a także skierowanym na studia na Uczelni przysługuje bezpłatne zakwaterowanie oraz wyżywienie albo równoważnik pieniężny w zamian za wyżywienie, gdy rodzaj i warunki pełnienia służby lub pracy lub względy techniczno-organizacyjne uniemożliwiają korzystanie z wyżywienia w ramach form kształcenia.
+- **3)** przedkładania na piśmie, w miarę potrzeb, jednak nie rzadziej niż raz w roku, odpowiednio Dyrektorowi Generalnemu, Rektorowi lub właściwemu komendantowi, sprawozdania z prowadzonych czynności związanych z nadzorem nad realizacją szkolenia zawodowego wraz z wnioskami, w tym również sprawozdania z prac zespołu w przypadku jego powołania.
+
+**Art. 43zq.**
+
+1. Funkcjonariuszom i pracownikom uczestniczącym w szkoleniach wstępnym, zawodowym i specjalistycznym oraz doskonaleniu zawodowym, organizowanych na Uczelni, w Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej i ośrodku doskonalenia kadr Służby Więziennej, a także skierowanym na studia na Uczelni przysługuje bezpłatne zakwaterowanie oraz wyżywienie albo równoważnik pieniężny w zamian za wyżywienie, gdy rodzaj i warunki pełnienia służby lub pracy lub względy techniczno-organizacyjne uniemożliwiają korzystanie z wyżywienia w ramach form kształcenia.
 
 2. Bezpłatne wyżywienie albo równoważnik pieniężny w zamian za wyżywienie oraz bezpłatne zakwaterowanie przysługują również funkcjonariuszom i pracownikom delegowanym do wykonywania czynności służbowych w ramach form kształcenia, o których mowa w ust. 1.
 

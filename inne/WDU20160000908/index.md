@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o szkolnictwie wyższym oraz ustawy o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw
+# Ustawa z dnia 20 maja 2016 r. o zmianie ustawy - Prawo o szkolnictwie wyższym oraz ustawy o zmianie ustawy - Prawo o szkolnictwie wyższym oraz niektórych innych ustaw
 
 *USTAWA z dnia 20 maja 2016 r.*
 

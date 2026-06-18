@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce, ustawy o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 oraz ustawy o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw
+# Ustawa z dnia 29 września 2022 r. o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce, ustawy o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 oraz ustawy o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw
 
 *USTAWA z dnia 29 września 2022 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks spółek handlowych, ustawy – Kodeks postępowania cywilnego oraz ustawy o Krajowym Rejestrze Sądowym
+# Ustawa z dnia 21 kwietnia 2017 r. o zmianie ustawy - Kodeks spółek handlowych, ustawy - Kodeks postępowania cywilnego oraz ustawy o Krajowym Rejestrze Sądowym
 
 *USTAWA z dnia 21 kwietnia 2017 r.*
 

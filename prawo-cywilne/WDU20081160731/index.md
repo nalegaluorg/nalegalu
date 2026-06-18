@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks cywilny oraz niektórych innych ustaw
+# Ustawa z dnia 30 maja 2008 r. o zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw
 
 *USTAWA Opracowano stawie: z dnia 30 maja 2008 r. r.*
 

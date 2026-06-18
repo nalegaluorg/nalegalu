@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo pocztowe
+# Ustawa z dnia 15 września 2022 r. o zmianie ustawy - Prawo pocztowe
 
 *USTAWA z dnia 15 września 2022 r.*
 

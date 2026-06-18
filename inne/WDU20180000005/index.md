@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Sądzie Najwyższym
+# Ustawa z dnia 8 grudnia 2017 r. o Sądzie Najwyższym
 
 *USTAWA z dnia 8 grudnia 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-01-02 |
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000005) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/5/text.pdf) |
-
-Art. 104–110. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1227,6 +1225,8 @@ Art. 104–110. (pominięte)
 § 5. Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia, stawki dodatku funkcyjnego członków Biura Studiów i Analiz Sądu Najwyższego mając na uwadze rodzaj oraz zakres zadań związanych z pełnioną funkcją.
 
 #### Rozdział 10 Zmiany w przepisach
+
+**Art. 104–110.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i dostosowujące
 

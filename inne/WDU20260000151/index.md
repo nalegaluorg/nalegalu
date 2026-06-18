@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach ewidencji i identyfikacji podatników i płatników
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach ewidencji i identyfikacji podatników i płatników
 
 *USTAWA z dnia 13 października 1995 r.*
 
@@ -396,7 +396,15 @@ source: pdf
 
 6. Dane z CRP KEP, o których mowa w art. 14 ust. 2 pkt 1 i 2, są udostępniane ministrowi właściwemu do spraw gospodarki prowadzącemu Centralną Ewidencję i Informację o Działalności Gospodarczej.
 
-**Art. 15a.** Przepisy niniejszego rozdziału, dotyczące podatników, stosuje się odpowiednio do płatników podatków oraz płatników składek ubezpieczeniowych. Art. 15aa. 1. W związku z przetwarzaniem danych osobowych w celu nadania NIP wykonanie obowiązku, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), następuje przez udostępnienie informacji, o których mowa w art. 13 ust. 1 i 2, tego rozporządzenia w miejscu publicznie dostępnym w siedzibie organu lub w Biuletynie Informacji Publicznej na stronie podmiotowej tego organu lub urzędu obsługującego ten organ oraz na jego stronie internetowej. W takim przypadku, pozyskując dane osobowe, organ przekazuje osobie, której dane dotyczą, informacje o sposobie wykonania tego obowiązku. 2. Organy, o których mowa w art. 14a, mogą upoważniać do przetwarzania danych osobowych osoby zatrudnione lub pełniące służbę w jednostkach organizacyjnych Krajowej Administracji Skarbowej, w zakresie niezbędnym do realizacji zadań powierzonych tym osobom. Upoważnienie jest wydawane w formie pisemnej w drodze imiennego upoważnienia, upoważnienia stanowiskowego lub aktu wewnętrznego, chyba że przepis szczególny stanowi inaczej. Organy te prowadzą rejestr osób upoważnionych do przetwarzania danych osobowych. 3. Dane osobowe przetwarzane przez organy, o których mowa w art. 14a, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
+**Art. 15a.** Przepisy niniejszego rozdziału, dotyczące podatników, stosuje się odpowiednio do płatników podatków oraz płatników składek ubezpieczeniowych.
+
+**Art. 15aa.**
+
+1. W związku z przetwarzaniem danych osobowych w celu nadania NIP wykonanie obowiązku, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), następuje przez udostępnienie informacji, o których mowa w art. 13 ust. 1 i 2, tego rozporządzenia w miejscu publicznie dostępnym w siedzibie organu lub w Biuletynie Informacji Publicznej na stronie podmiotowej tego organu lub urzędu obsługującego ten organ oraz na jego stronie internetowej. W takim przypadku, pozyskując dane osobowe, organ przekazuje osobie, której dane dotyczą, informacje o sposobie wykonania tego obowiązku.
+
+2. Organy, o których mowa w art. 14a, mogą upoważniać do przetwarzania danych osobowych osoby zatrudnione lub pełniące służbę w jednostkach organizacyjnych Krajowej Administracji Skarbowej, w zakresie niezbędnym do realizacji zadań powierzonych tym osobom. Upoważnienie jest wydawane w formie pisemnej w drodze imiennego upoważnienia, upoważnienia stanowiskowego lub aktu wewnętrznego, chyba że przepis szczególny stanowi inaczej. Organy te prowadzą rejestr osób upoważnionych do przetwarzania danych osobowych.
+
+3. Dane osobowe przetwarzane przez organy, o których mowa w art. 14a, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
 
 - **1)** dopuszczeniu przez administratora danych do przetwarzania danych osobowych wyłącznie osób do tego uprawnionych;
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy;

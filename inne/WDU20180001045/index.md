@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów powszechnych, ustawy o Sądzie Najwyższym oraz niektórych innych ustaw
+# Ustawa z dnia 10 maja 2018 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych, ustawy o Sądzie Najwyższym oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 maja 2018 r.*
 

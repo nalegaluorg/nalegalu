@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie psychologa i samorządzie zawodowym psychologów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 maja 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie psychologa i samorządzie zawodowym psychologów
 
 *USTAWA z dnia 8 czerwca 2001 r.*
 

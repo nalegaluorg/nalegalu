@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
+# Ustawa z dnia 9 grudnia 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 grudnia 2020 r.*
 
@@ -163,7 +163,11 @@ source: pdf
 
 25. Przychód z tytułu świadczeń na rzecz ochrony miejsc pracy nie stanowi dla przedsiębiorcy przychodu w rozumieniu przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych.
 
-26. Wnioski o przyznanie świadczeń na rzecz ochrony miejsc pracy mogą być składane do dnia 28 lutego 2021 r. Art. 15ggb. 1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, przyznać ponowną wypłatę świadczeń na rzecz ochrony miejsc pracy, o których mowa w art. 15gga ust. 1, dla wszystkich albo niektórych przedsiębiorców, którzy otrzymali to świadczenie na podstawie art. 15gga ust. 1, lub przyznać to świadczenie innym przedsiębiorcom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
+26. Wnioski o przyznanie świadczeń na rzecz ochrony miejsc pracy mogą być składane do dnia 28 lutego 2021 r.
+
+**Art. 15ggb.**
+
+1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, przyznać ponowną wypłatę świadczeń na rzecz ochrony miejsc pracy, o których mowa w art. 15gga ust. 1, dla wszystkich albo niektórych przedsiębiorców, którzy otrzymali to świadczenie na podstawie art. 15gga ust. 1, lub przyznać to świadczenie innym przedsiębiorcom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
 
 2. Rozporządzenie, o którym mowa w ust. 1, może ustalać krąg przedsiębiorców, którym przysługują świadczenia na rzecz ochrony miejsc pracy, poprzez określenie:
 
@@ -178,11 +182,17 @@ source: pdf
 
 2. Dofinansowanie do wynagrodzeń pracowników, o których mowa w art. 15g, art. 15ga i art. 15gg, może być udzielane do dnia 30 czerwca 2021 r.”;
 
-- **8)** po art. 15gh dodaje się art. 15gi–15gk w brzmieniu: „Art. 15gi. W okresie, o którym mowa w art. 15gh ust. 2, nie stosuje się przepisów art. 28 ust. 2–4 ustawy z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2019 r. poz. 669). Art. 15gj. 1. Do umarzania, odraczania terminów lub rozkładania na raty spłat należności powstałych w związku z udzieleniem pomocy na podstawie art. 15g, art. 15g , art. 15ga, art. 15gg i art. 15gga stosuje się odpowiednio przepisy art. 55–57 i art. 58 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+- **8)** po art. 15gh dodaje się art. 15gi–15gk w brzmieniu: „Art. 15gi. W okresie, o którym mowa w art. 15gh ust. 2, nie stosuje się przepisów art. 28 ust. 2–4 ustawy z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2019 r. poz. 669).
+
+**Art. 15gj.**
+
+1. Do umarzania, odraczania terminów lub rozkładania na raty spłat należności powstałych w związku z udzieleniem pomocy na podstawie art. 15g, art. 15g , art. 15ga, art. 15gg i art. 15gga stosuje się odpowiednio przepisy art. 55–57 i art. 58 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 2. Dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokonuje umorzenia, o którym mowa w art. 56 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, na podstawie wniosku sporządzonego przez dyrektora wojewódzkiego urzędu pracy.
 
-3. Dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokonuje umorzenia lub rozłożenia na raty, o którym mowa w art. 57 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, na podstawie wniosku dłużnika, przekazanego i zaopiniowanego przez dyrektora wojewódzkiego urzędu pracy. Art. 15gk. Dyrektor wojewódzkiego urzędu pracy nie ma obowiązku uiszczania kosztów sądowych w sprawach dotyczących wypłaty lub zwrotu świadczeń lub środków, o których mowa w art. 15g ust. 1–2 i art. 15gga.”;
+3. Dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokonuje umorzenia lub rozłożenia na raty, o którym mowa w art. 57 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, na podstawie wniosku dłużnika, przekazanego i zaopiniowanego przez dyrektora wojewódzkiego urzędu pracy.
+
+**Art. 15gk.** Dyrektor wojewódzkiego urzędu pracy nie ma obowiązku uiszczania kosztów sądowych w sprawach dotyczących wypłaty lub zwrotu świadczeń lub środków, o których mowa w art. 15g ust. 1–2 i art. 15gga.”;
 
 - **9)** w art. 15l:
     - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Od przedsiębiorców w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców przez okres, w którym obowiązuje zakaz prowadzenia działalności na podstawie art. 46a i art. 46b pkt 1–6 i 8–12 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, wstrzymuje się pobieranie:”,
@@ -222,7 +232,11 @@ source: pdf
 
 7. Do jednorazowego dodatkowego świadczenia postojowego, o którym mowa w ust. 1, stosuje się odpowiednio art. 15zr ust. 1, 3 i 4, art. 15zs ust. 6 i 7, art. 15zu, art. 15zv, art. 15zx, art. 15zz i art. 15zza.
 
-8. Oceny spełnienia warunku, o którym mowa w ust. 1, w zakresie oznaczenia prowadzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) 2007 dokonuje się na podstawie danych zawartych w rejestrze REGON w brzmieniu na dzień 30 września 2020 r. Art. 15zs 3 . 1. Osobie, o której mowa w art. 15zq ust. 1 pkt 2, nieposiadającej innego tytułu do ubezpieczeń społecznych, przysługuje prawo do jednorazowego dodatkowego świadczenia postojowego, jeżeli przychód z umowy cywilnoprawnej zawartej do dnia wejścia w życie ustawy, z tytułu:
+8. Oceny spełnienia warunku, o którym mowa w ust. 1, w zakresie oznaczenia prowadzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) 2007 dokonuje się na podstawie danych zawartych w rejestrze REGON w brzmieniu na dzień 30 września 2020 r.
+
+**Art. 15zs³.**
+
+1. Osobie, o której mowa w art. 15zq ust. 1 pkt 2, nieposiadającej innego tytułu do ubezpieczeń społecznych, przysługuje prawo do jednorazowego dodatkowego świadczenia postojowego, jeżeli przychód z umowy cywilnoprawnej zawartej do dnia wejścia w życie ustawy, z tytułu:
 
 - **1)** działalności twórczej w zakresie sztuk plastycznych, literatury, muzyki, twórczości audialnej, utworów audiowizualnych, teatru, kostiumografii, scenografii, reżyserii, choreografii, lutnictwa artystycznego i sztuki ludowej,
 - **2)** działalności artystycznej w dziedzinie sztuki aktorskiej, estradowej, tanecznej i cyrkowej oraz w dziedzinie dyrygentury, wokalistyki i instrumentalistyki,
@@ -276,7 +290,10 @@ source: pdf
     - **b)** ust. 3a otrzymuje brzmienie: „3a. Jeżeli wypłata świadczenia postojowego osobie innej niż osoba uprawniona lub w kwocie wyższej niż należna nastąpiła z przyczyn leżących po stronie Zakładu Ubezpieczeń Społecznych, nie nalicza się odsetek, o których mowa w ust. 1.”;
 
 - **17)** w art. 15zy w ust. 1 i 2 wyrazy „art. 15zs ust. 1 albo 15zsa ust. 1” zastępuje się wyrazami „art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2 albo art. 15zsa ust. 1”;
-- **18)** po art. 15zy dodaje się art. 15zya i art. 15zyb w brzmieniu: „Art. 15zya. Na żądanie Zakładu Ubezpieczeń Społecznych Główny Urząd Statystyczny jest obowiązany przekazać informację, czy wskazana osoba uprawniona, o której mowa w art. 15zs ust. 1 lub w art. 15zs ust. 1, na wskazany dzień prowadziła pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007 jako rodzaj przeważającej działalności, kodem, o którym mowa odpowiednio w art. 15zs ust. 1 albo w art. 15zs ust. 1. Art. 15zyb. Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez osobę uprawnioną, zleceniodawcę lub zamawiającego we wniosku, o którym mowa w art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2, art. 15zs , lub art. 15zsa ust. 1, lub w oświadczeniu, o którym mowa w art. 15zua ust. 3. Przepisy rozdziału 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio.”;
+- **18)** po art. 15zy dodaje się art. 15zya i art. 15zyb w brzmieniu: „Art. 15zya. Na żądanie Zakładu Ubezpieczeń Społecznych Główny Urząd Statystyczny jest obowiązany przekazać informację, czy wskazana osoba uprawniona, o której mowa w art. 15zs ust. 1 lub w art. 15zs ust. 1, na wskazany dzień prowadziła pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007 jako rodzaj przeważającej działalności, kodem, o którym mowa odpowiednio w art. 15zs ust. 1 albo w art. 15zs ust. 1.
+
+**Art. 15zyb.** Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez osobę uprawnioną, zleceniodawcę lub zamawiającego we wniosku, o którym mowa w art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2, art. 15zs , lub art. 15zsa ust. 1, lub w oświadczeniu, o którym mowa w art. 15zua ust. 3. Przepisy rozdziału 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio.”;
+
 - **19)** w art. 15zzc po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. W przypadku śmierci przedsiębiorcy w okresie, na który zostało przyznane dofinansowanie, spadkobiercy przedsiębiorcy nie są obowiązani do zwrotu otrzymanego dofinansowania z tytułu nieprowadzenia działalności gospodarczej przez okres, o którym mowa w ust. 6.”;
 - **20)** w art. 15zzd:
     - **a)** po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Pożyczka wraz z odsetkami podlega umorzeniu także w przypadku śmierci mikroprzedsiębiorcy w okresie, o którym mowa w ust. 7.”,
@@ -347,7 +364,11 @@ source: pdf
 
 18. Starosta może, w formie pisemnej, upoważnić dyrektora powiatowego urzędu pracy lub, na jego wniosek, innych pracowników tego urzędu do dokonywania czynności, o których mowa w ust. 16.
 
-19. Środki pochodzące z dotacji nie podlegają egzekucji sądowej ani administracyjnej. Środki te, w razie ich przekazania na rachunek płatniczy, są wolne od zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego. Art. 15zze 5 . 1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, nadać starostom uprawnienie do udzielania, na podstawie umowy, dotacji ze środków Funduszu Pracy na pokrycie bieżących kosztów prowadzenia działalności gospodarczej wszystkim bądź niektórym mikroprzedsiębiorcom oraz małym przedsiębiorcom, którzy otrzymali dotację zgodnie z art. 15zze , lub do udzielania tej dotacji innym mikroprzedsiębiorcom lub małym przedsiębiorcom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
+19. Środki pochodzące z dotacji nie podlegają egzekucji sądowej ani administracyjnej. Środki te, w razie ich przekazania na rachunek płatniczy, są wolne od zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego.
+
+**Art. 15zze⁵.**
+
+1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, nadać starostom uprawnienie do udzielania, na podstawie umowy, dotacji ze środków Funduszu Pracy na pokrycie bieżących kosztów prowadzenia działalności gospodarczej wszystkim bądź niektórym mikroprzedsiębiorcom oraz małym przedsiębiorcom, którzy otrzymali dotację zgodnie z art. 15zze , lub do udzielania tej dotacji innym mikroprzedsiębiorcom lub małym przedsiębiorcom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
 
 2. Rozporządzenie, o którym mowa w ust. 1, może ustalać krąg przedsiębiorców, którym dotacja może zostać udzielona, poprzez określenie:
 
@@ -462,7 +483,10 @@ source: pdf
     - **b)** ust. 3 otrzymuje brzmienie: „3. Warunkiem zwolnienia z obowiązku opłacania należności z tytułu składek, o których mowa w art. 31zo, jest przesłanie deklaracji rozliczeniowych lub imiennych raportów miesięcznych należnych za marzec, kwiecień i maj 2020 r. nie później niż do dnia 30 czerwca 2020 r. w przypadku, o którym mowa w art. 31zo ust. 8, należnych za lipiec, sierpień, wrzesień 2020 r. – do dnia 31 października 2020 r., a w przypadku, o którym mowa w art. 31zo ust. 10, należnych za listopad 2020 r. – do dnia 31 grudnia 2020 r., chyba że płatnik składek zwolniony jest z obowiązku ich składania.”;
 
 - **33)** w art. 31zu w ust. 4 zdanie pierwsze otrzymuje brzmienie: „W przypadku gdy zostanie stwierdzone, że rozbieżności, o których mowa w ust. 2, są wynikiem wprowadzenia w błąd Zakładu Ubezpieczeń Społecznych, płatnik składek jest obowiązany do opłacenia należności z tytułu składek, o których mowa w art. 31zo, za marzec, kwiecień i maj 2020 r., w przypadku, o którym mowa w art. 31zo ust. 8 – za lipiec, sierpień i wrzesień 2020 r., a w przypadku, o którym mowa w art. 31zo ust. 10 – za listopad 2020 r., wraz z odsetkami za zwłokę, w terminie 30 dni od otrzymania decyzji o obowiązku opłacenia tych składek, wraz z odsetkami za zwłokę.”;
-- **34)** po art. 31zu dodaje się art. 31zua i art. 31zub w brzmieniu: „Art. 31zua. Na żądanie Zakładu Ubezpieczeń Społecznych Główny Urząd Statystyczny jest obowiązany przekazać informację, czy wskazany płatnik składek, o którym mowa w art. 31zo ust. 8 lub 10, na wskazany dzień prowadził pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007 jako rodzaj przeważającej działalności, kodem, o którym mowa odpowiednio w art. 31zo ust. 8 albo 10. Art. 31zub. Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez płatnika składek we wniosku o zwolnienie z opłacania składek na zasadach określonych w rozdziale 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.”;
+- **34)** po art. 31zu dodaje się art. 31zua i art. 31zub w brzmieniu: „Art. 31zua. Na żądanie Zakładu Ubezpieczeń Społecznych Główny Urząd Statystyczny jest obowiązany przekazać informację, czy wskazany płatnik składek, o którym mowa w art. 31zo ust. 8 lub 10, na wskazany dzień prowadził pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007 jako rodzaj przeważającej działalności, kodem, o którym mowa odpowiednio w art. 31zo ust. 8 albo 10.
+
+**Art. 31zub.** Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez płatnika składek we wniosku o zwolnienie z opłacania składek na zasadach określonych w rozdziale 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.”;
+
 - **35)** art. 31zy otrzymuje brzmienie: „Art. 31zy 1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, określić inne okresy zwolnienia z tytułu nieopłaconych składek, niż określone w art. 31zo ust. 1–3 dla wszystkich albo niektórych płatników składek, którzy byli uprawnieni do zwolnienia z tytułu nieopłaconych składek na podstawie art. 31zo ust. 1–3, lub objąć tym zwolnieniem innych płatników składek, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
 
 2. Rozporządzenie, o którym mowa w ust. 1, może ustalać krąg płatników składek zwolnionych z tytułu nieopłaconych składek, poprzez określenie:
@@ -571,9 +595,21 @@ source: pdf
 
 5. Środki z Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, są przekazywane na rachunki bankowe właściwych jednostek samorządu terytorialnego i stanowią dochód budżetów tych jednostek.
 
-6. Do dochodów, o których mowa w ust. 5, nie stosuje się przepisów art. 65 ust. 11–13 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw. Art. 31zzn. 1. Wnioski o przyznanie wsparcia, o których mowa w art. 15zzb–15zze oraz art. 15zze , mogą być składane do dnia 10 czerwca 2021 r.
+6. Do dochodów, o których mowa w ust. 5, nie stosuje się przepisów art. 65 ust. 11–13 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw.
 
-2. Wsparcie, o którym mowa w art. 15zzb–15zze oraz art. 15zze , może być udzielane do dnia 30 czerwca 2021 r. Art. 31zzo. W przypadku gdy dokonano zwrotu otrzymanego dofinansowania, o którym mowa w art. 15zzc ust. 1, w części lub w całości, w związku ze śmiercią przedsiębiorcy w okresie, na który zostało przyznane dofinansowanie, przekazane w ten sposób środki pieniężne podlegają zwrotowi bez odsetek na wniosek osoby, która dokonała zwrotu dofinansowania. Zwrot następuje w terminie 30 dni od dnia doręczenia staroście wniosku o zwrot środków. Art. 31zzp. W przypadku gdy dokonano spłaty pożyczki, o której mowa w art. 15zzd ust. 1, w części lub całości, w związku ze śmiercią przedsiębiorcy w okresie, o którym mowa w art. 15zzd ust. 7, przekazane w ten sposób środki pieniężne podlegają zwrotowi bez odsetek na wniosek osoby, która dokonała spłaty pożyczki. Zwrot następuje w terminie 30 dni od dnia doręczenia staroście wniosku o zwrot środków. Art. 31zzq. Na rok 2020 nie sporządza się Krajowego Planu Działań na Rzecz Zatrudnienia, o którym mowa w art. 3 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. Art. 31zzr. Główny Urząd Statystyczny jest obowiązany przekazać do Zakładu Ubezpieczeń Społecznych, nie później niż w terminie 7 dni od dnia wejścia w życie ustawy z dnia 9 grudnia 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, wykaz płatników składek i osób, które na dzień 30 września 2020 r. miały zarejestrowaną pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami, o których mowa w art. 15zs ust. 1 i art. 31zo ust. 10. Wykaz zawiera imię i nazwisko albo nazwę skróconą płatnika składek, NIP i REGON oraz kod PKD.”;
+**Art. 31zzn.**
+
+1. Wnioski o przyznanie wsparcia, o których mowa w art. 15zzb–15zze oraz art. 15zze , mogą być składane do dnia 10 czerwca 2021 r.
+
+2. Wsparcie, o którym mowa w art. 15zzb–15zze oraz art. 15zze , może być udzielane do dnia 30 czerwca 2021 r.
+
+**Art. 31zzo.** W przypadku gdy dokonano zwrotu otrzymanego dofinansowania, o którym mowa w art. 15zzc ust. 1, w części lub w całości, w związku ze śmiercią przedsiębiorcy w okresie, na który zostało przyznane dofinansowanie, przekazane w ten sposób środki pieniężne podlegają zwrotowi bez odsetek na wniosek osoby, która dokonała zwrotu dofinansowania. Zwrot następuje w terminie 30 dni od dnia doręczenia staroście wniosku o zwrot środków.
+
+**Art. 31zzp.** W przypadku gdy dokonano spłaty pożyczki, o której mowa w art. 15zzd ust. 1, w części lub całości, w związku ze śmiercią przedsiębiorcy w okresie, o którym mowa w art. 15zzd ust. 7, przekazane w ten sposób środki pieniężne podlegają zwrotowi bez odsetek na wniosek osoby, która dokonała spłaty pożyczki. Zwrot następuje w terminie 30 dni od dnia doręczenia staroście wniosku o zwrot środków.
+
+**Art. 31zzq.** Na rok 2020 nie sporządza się Krajowego Planu Działań na Rzecz Zatrudnienia, o którym mowa w art. 3 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
+
+**Art. 31zzr.** Główny Urząd Statystyczny jest obowiązany przekazać do Zakładu Ubezpieczeń Społecznych, nie później niż w terminie 7 dni od dnia wejścia w życie ustawy z dnia 9 grudnia 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, wykaz płatników składek i osób, które na dzień 30 września 2020 r. miały zarejestrowaną pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami, o których mowa w art. 15zs ust. 1 i art. 31zo ust. 10. Wykaz zawiera imię i nazwisko albo nazwę skróconą płatnika składek, NIP i REGON oraz kod PKD.”;
 
 - **39)** w art. 36 uchyla się ust. 5.
 

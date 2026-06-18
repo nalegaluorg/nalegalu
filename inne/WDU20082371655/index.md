@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz niektórych innych ustaw
+# Ustawa z dnia 6 grudnia 2008 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz niektórych innych ustaw
 
 *USTAWA z dnia 6 grudnia 2008 r.*
 

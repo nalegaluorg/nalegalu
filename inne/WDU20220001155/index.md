@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ubezpieczeniu społecznym rolników
+# Ustawa z dnia 28 kwietnia 2022 r. o zmianie ustawy o ubezpieczeniu społecznym rolników
 
 *USTAWA z dnia 28 kwietnia 2022 r.*
 

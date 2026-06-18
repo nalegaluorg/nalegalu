@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zwalczaniu nieuczciwej konkurencji
+# Ustawa z dnia 5 lipca 2002 r. o zmianie ustawy o zwalczaniu nieuczciwej konkurencji.
 
 *USTAWA z dnia 5 lipca 2002 r.*
 

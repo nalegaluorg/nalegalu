@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
+# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 stycznia 2015 r.*
 
@@ -69,7 +69,11 @@ source: pdf
     - **a)** naturalnych, czyli obszarów trawiastych, które pozostaną takimi obszarami jeżeli nie dojdzie do interwencji człowieka i które zachowają naturalny skład gatunkowy oraz cechy i procesy ekologiczne,
     - **b)** nienaturalnych, czyli obszarów trawiastych, które przestaną być takimi obszarami na skutek braku interwencji człowieka i są bogate gatunkowo oraz nie są zdegradowane, chyba że zbiory surowców rolniczych są konieczne, aby mogły zachować status obszarów trawiastych.
 
-2. Uznaje się, że biokomponenty pochodzące z obszarów określonych w ust. 1 pkt 2 spełniają kryterium ochrony terenów o wysokiej wartości bioróżnorodności, pod warunkiem, że zainteresowany podmiot przedstawi dowody, że produkcja biomasy wykorzystanej do ich wytworzenia nie narusza celów ochrony przyrody. Art. 28bb. 1. Biokomponenty spełniają kryterium ochrony terenów zasobnych w duże ilości pierwiastka węgla, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z takich terenów.
+2. Uznaje się, że biokomponenty pochodzące z obszarów określonych w ust. 1 pkt 2 spełniają kryterium ochrony terenów o wysokiej wartości bioróżnorodności, pod warunkiem, że zainteresowany podmiot przedstawi dowody, że produkcja biomasy wykorzystanej do ich wytworzenia nie narusza celów ochrony przyrody.
+
+**Art. 28bb.**
+
+1. Biokomponenty spełniają kryterium ochrony terenów zasobnych w duże ilości pierwiastka węgla, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z takich terenów.
 
 2. Do terenów zasobnych w duże ilości pierwiastka węgla zalicza się tereny, które w okresie od 1 do 31 stycznia 2008 r. posiadały jeden z poniższych statusów, ale już go nie posiadają:
 
@@ -77,19 +81,31 @@ source: pdf
 - **2)** obszarów stale zalesianych, czyli obszarów obejmujących więcej niż 1 ha z drzewami o wysokości powyżej 5 metrów i pokryciem powierzchni przez korony drzew powyżej 30%, lub drzewami mogącymi osiągnąć te wartości w miejscu ich naturalnego występowania;
 - **3)** obszarów obejmujących więcej niż 1 ha z drzewami o wysokości powyżej 5 metrów i z pokryciem powierzchni przez korony drzew pomiędzy 10% a 30%, lub drzewami mogącymi osiągnąć te wartości w miejscu ich naturalnego występowania, z wyjątkiem sytuacji, gdy przedstawiono dowody, że obszar ten przed i po przekształceniu magazynuje taką ilość pierwiastka węgla, że stosując metodykę określoną w pkt II.3. załącznika do ustawy, zostałoby spełnione kryterium określone w art. 28b.
 
-3. Przepisów ust. 2 nie stosuje się, jeżeli w czasie pozyskiwania biomasy teren posiadał ten sam status co w okresie od 1 do 31 stycznia 2008 r. Art. 28bc. Biokomponenty spełniają kryterium ochrony torfowisk, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z terenów, które w okresie od 1 do 31 stycznia 2008 r. były torfowiskami, chyba że przy uprawie i zbiorach biomasy nie stosowano melioracji uprzednio niemeliorowanych gleb. Art. 28bd. Biokomponenty spełniają kryterium zrównoważonej gospodarki rolnej, jeżeli uprawa biomasy wykorzystywanej do ich wytwarzania, w ramach działalności rolniczej, prowadzona była zgodnie z:
+3. Przepisów ust. 2 nie stosuje się, jeżeli w czasie pozyskiwania biomasy teren posiadał ten sam status co w okresie od 1 do 31 stycznia 2008 r.
+
+**Art. 28bc.** Biokomponenty spełniają kryterium ochrony torfowisk, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z terenów, które w okresie od 1 do 31 stycznia 2008 r. były torfowiskami, chyba że przy uprawie i zbiorach biomasy nie stosowano melioracji uprzednio niemeliorowanych gleb.
+
+**Art. 28bd.** Biokomponenty spełniają kryterium zrównoważonej gospodarki rolnej, jeżeli uprawa biomasy wykorzystywanej do ich wytwarzania, w ramach działalności rolniczej, prowadzona była zgodnie z:
 
 - **1)** wymogami w obszarze:
     - **a)** „Środowisko, zmiana klimatu, utrzymanie gruntów w dobrej kulturze rolnej” – wymogi podstawowe w zakresie zarządzania SMR 1, SMR 2 i SMR 3,
     - **b)** „Zdrowie publiczne, zdrowie zwierząt i zdrowie roślin” – wymóg podstawowy w zakresie zarządzania SMR 10 – określonymi w załączniku II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.), zwanego dalej „rozporządzeniem nr 1306/2013”, oraz
 
-- **2)** minimalnymi normami w zakresie dobrej kultury rolnej zgodnej z ochroną środowiska, określonymi na podstawie art. 94 rozporządzenia nr 1306/2013. Art. 28be. 1. Potwierdzenie spełnienia kryteriów zrównoważonego rozwoju, o których mowa w art. 28b–28bc, odbywa się przez system bilansu masy.
+- **2)** minimalnymi normami w zakresie dobrej kultury rolnej zgodnej z ochroną środowiska, określonymi na podstawie art. 94 rozporządzenia nr 1306/2013.
+
+**Art. 28be.**
+
+1. Potwierdzenie spełnienia kryteriów zrównoważonego rozwoju, o których mowa w art. 28b–28bc, odbywa się przez system bilansu masy.
 
 2. Podmioty certyfikowane są obowiązane wdrożyć system bilansu masy, który:
 
 - **1)** umożliwia mieszanie partii biomasy albo biokomponentów o różnym stopniu zrównoważenia;
 - **2)** w przypadku, o którym mowa w pkt 1, pozwala określić stopień zrównoważenia oraz wielkość poszczególnych partii biomasy albo biokomponentów;
-- **3)** zapewnia, że suma wszystkich partii biomasy albo biokomponentów wyprowadzonych z mieszanki posiada ten sam stopień zrównoważenia i jest równa sumie wszystkich partii biomasy albo biokomponentów wprowadzonych do tej mieszanki. Art. 28bf. 1. Sposób weryfikacji spełnienia kryteriów zrównoważonego rozwoju, o których mowa w art. 28ba–28bc, zgodnie z systemem bilansu masy, o którym mowa w art. 28be, określa uznany system certyfikacji.
+- **3)** zapewnia, że suma wszystkich partii biomasy albo biokomponentów wyprowadzonych z mieszanki posiada ten sam stopień zrównoważenia i jest równa sumie wszystkich partii biomasy albo biokomponentów wprowadzonych do tej mieszanki.
+
+**Art. 28bf.**
+
+1. Sposób weryfikacji spełnienia kryteriów zrównoważonego rozwoju, o których mowa w art. 28ba–28bc, zgodnie z systemem bilansu masy, o którym mowa w art. 28be, określa uznany system certyfikacji.
 
 2. Wykazanie spełnienia kryteriów zrównoważonego rozwoju, określonych w art. 28b–28bc, przez podmioty realizujące Narodowy Cel Wskaźnikowy odbywa się w szczególności zgodnie z art. 28i i art. 30b ust. 1a.
 
@@ -136,7 +152,11 @@ source: pdf
 - **6)** w art. 20b ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw gospodarki monitoruje realizację celów krajowych wskazanych w art. 20a ust. 2 pkt 1 i 1a, w szczególności na podstawie danych przekazanych przez Prezesa Urzędu Regulacji Energetyki oraz wyników badań statystycznych prowadzonych zgodnie z programem badań statystycznych statystyki publicznej w rozumieniu art. 2 pkt 7 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm. ).”;
 - **7)** po art. 20g dodaje się art. 20ga–20gc w brzmieniu: „Art. 20ga. 1. Minister właściwy do spraw gospodarki jest obowiązany do udostępniania informacji o kosztach i korzyściach wynikających ze stosowania urządzeń i systemów grzewczych, chłodniczych i elektrycznych, wykorzystujących energię ze źródeł odnawialnych.
 
-2. Informacje, o których mowa w ust. 1, udostępnia się w formie ustnej, pisemnej lub elektronicznej. Art. 20gb. Minister właściwy do spraw gospodarki przy udziale jednostek samorządu terytorialnego opracowuje programy informacyjne, doradcze lub szkoleniowe informujące społeczeństwo o korzyściach i rozwiązaniach praktycznych związanych z rozwojem i wykorzystaniem energii ze źródeł odnawialnych. Art. 20gc. Minister właściwy do spraw gospodarki zapewnia dostęp do informacji i wytycznych o sposobach optymalnego połączenia odnawialnych źródeł energii, wysoko efektywnych technologii oraz systemów grzewczych i chłodniczych.”;
+2. Informacje, o których mowa w ust. 1, udostępnia się w formie ustnej, pisemnej lub elektronicznej.
+
+**Art. 20gb.** Minister właściwy do spraw gospodarki przy udziale jednostek samorządu terytorialnego opracowuje programy informacyjne, doradcze lub szkoleniowe informujące społeczeństwo o korzyściach i rozwiązaniach praktycznych związanych z rozwojem i wykorzystaniem energii ze źródeł odnawialnych.
+
+**Art. 20gc.** Minister właściwy do spraw gospodarki zapewnia dostęp do informacji i wytycznych o sposobach optymalnego połączenia odnawialnych źródeł energii, wysoko efektywnych technologii oraz systemów grzewczych i chłodniczych.”;
 
 - **8)** w art. 51 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Projektowanie, produkcja, import, budowa oraz eksploatacja urządzeń i instalacji wykorzystujących do wytwarzania energii biomasę zastosowanych w samodzielnych lokalach mieszkalnych lub lokalach o innym przeznaczeniu w rozumieniu ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2000 r. Nr 80, poz. 903 oraz z 2004 r. Nr 141, poz. 1492), zapewniają sprawność przemiany energetycznej wynoszącą co najmniej 85%, a zastosowanych w instalacjach przemysłowych co najmniej 70%, o ile jest to uzasadnione technicznie lub ekonomicznie. Przepis ust. 1 stosuje się.”;
 - **9)** w art. 52:

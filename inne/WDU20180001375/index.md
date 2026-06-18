@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw
+# Ustawa z dnia 7 czerwca 2018 r. o zmianie ustawy - Prawo farmaceutyczne oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 czerwca 2018 r.*
 
@@ -113,7 +113,11 @@ source: pdf
 - **5)** stosowanie wymagań Dobrej Praktyki Wytwarzania w zakresie niezbędnym do zapewnienia odpowiedniej jakości i bezpieczeństwa produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego;
 - **6)** przechowywanie rejestrów, o których mowa w art. 38a ust. 14, przez okres nie krótszy niż 30 lat od dnia zwolnienia do użycia danej serii produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego.
 
-2. Główny Inspektor Farmaceutyczny zapewnia możliwość złożenia zawiadomienia, o którym mowa w ust. 1 pkt 2, w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej. Zawiadomienie opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. Art. 38ab. 1. Główny Inspektor Farmaceutyczny cofa zgodę na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego, w przypadku gdy jego wytwórca przestał wypełniać obowiązki określone w art. 38aa ust. 1 pkt 1 lub 3.
+2. Główny Inspektor Farmaceutyczny zapewnia możliwość złożenia zawiadomienia, o którym mowa w ust. 1 pkt 2, w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej. Zawiadomienie opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
+
+**Art. 38ab.**
+
+1. Główny Inspektor Farmaceutyczny cofa zgodę na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego, w przypadku gdy jego wytwórca przestał wypełniać obowiązki określone w art. 38aa ust. 1 pkt 1 lub 3.
 
 2. Zgoda na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego może być cofnięta w przypadku naruszenia przepisów art. 38aa ust. 1 pkt 2 lub 4–6.”;
 

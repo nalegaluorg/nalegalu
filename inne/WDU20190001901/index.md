@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym
+# Ustawa z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym
 
 *USTAWA z dnia 31 lipca 2019 r.*
 

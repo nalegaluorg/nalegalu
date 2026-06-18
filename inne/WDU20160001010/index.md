@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
+# Ustawa z dnia 23 czerwca 2016 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
 
 *USTAWA z dnia 23 czerwca 2016 r.*
 
@@ -133,7 +133,11 @@ source: pdf
 - **1)** arbiter dwukrotnie, bez uzasadnienia, odmówił wykonania zadań związanych z rozpatrzeniem odwołania, o którym mowa w art. 44zzz ust. 7 albo art. 44zzzt ust. 7;
 - **2)** arbiter dwukrotnie, bez uzasadnienia, przekroczył termin wyznaczony przez dyrektora Centralnej Komisji Egzaminacyjnej na rozpatrzenie odwołania, o którym mowa w art. 44zzz ust. 7 albo art. 44zzzt ust. 7.
 
-11. Listy arbitrów są podawane do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania. Art. 9cb. 1. Odwołania, o których mowa w art. 44zzz ust. 7 albo art. 44zzzt ust. 7, rozpatruje Kolegium Arbitrażu Egzaminacyjnego przy dyrektorze Centralnej Komisji Egzaminacyjnej w składzie dwuosobowym.
+11. Listy arbitrów są podawane do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania.
+
+**Art. 9cb.**
+
+1. Odwołania, o których mowa w art. 44zzz ust. 7 albo art. 44zzzt ust. 7, rozpatruje Kolegium Arbitrażu Egzaminacyjnego przy dyrektorze Centralnej Komisji Egzaminacyjnej w składzie dwuosobowym.
 
 2. Skład Kolegium Arbitrażu Egzaminacyjnego wyznacza dyrektor Centralnej Komisji Egzaminacyjnej.
 
@@ -167,7 +171,9 @@ source: pdf
 
 9. Dyrektor Centralnej Komisji Egzaminacyjnej zawiera z arbitrami oraz egzaminatorami, o których mowa w ust. 6, umowy określające zakres ich obowiązków, stopień złożoności rozwiązania każdego zadania egzaminacyjnego rozpatrywanego w ramach odwołania oraz wysokość wynagrodzenia.
 
-10. Obsługę administracyjną i finansową Kolegium Arbitrażu Egzaminacyjnego zapewnia Centralna Komisja Egzaminacyjna. Art. 9cc. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+10. Obsługę administracyjną i finansową Kolegium Arbitrażu Egzaminacyjnego zapewnia Centralna Komisja Egzaminacyjna.
+
+**Art. 9cc.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
 - **1)** tryb wyznaczania składu Kolegium Arbitrażu Egzaminacyjnego do rozpatrzenia odwołania, biorąc pod uwagę konieczność równomiernego rozłożenia pracy pomiędzy arbitrów;
 - **2)** tryb i sposób działania Kolegium Arbitrażu Egzaminacyjnego, biorąc pod uwagę konieczność zapewnienia sprawnego rozpatrywania odwołań oraz wykorzystywania w pracach tego kolegium przede wszystkim środków komunikacji elektronicznej;

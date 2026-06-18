@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o minimalnym wynagrodzeniu za pracę
+# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o minimalnym wynagrodzeniu za pracę
 
 *USTAWA z dnia 19 lipca 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podatku dochodowym od osób fizycznych
+# Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych.
 
 *USTAWA z dnia 26 lipca 1991 r.*
 
@@ -26,38 +26,6 @@ source: pdf
 | Data wydania | 1991-09-10 |
 | Ostatnia zmiana | 2026-05-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910800350) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/350/text.pdf) |
-
-Art. 23zf. 1. Podmioty powiązane:
-1) obowiązane do sporządzania lokalnej dokumentacji cen transferowych – w zakresie transakcji objętych tym obowiązkiem lub
-2) realizujące transakcje kontrolowane określone w art. 23z pkt 1–2 lub 9–11 – składają naczelnikowi urzędu skarbowego właściwemu dla podatnika, w terminie do końca jedenastego miesiąca po zakończeniu roku podatkowego, informację o cenach transferowych za rok podatkowy, sporządzoną według wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-1a. W przypadku spółki niebędącej osobą prawną informacja o cenach transferowych jest składana naczelnikowi urzędu skarbowego właściwemu według:
-1) miejsca prowadzenia działalności;
-2) miejsca siedziby – w przypadku prowadzenia działalności w więcej niż jednym miejscu;
-3) miejsca zamieszkania lub siedziby jednego ze wspólników – w przypadku gdy nie jest możliwe ustalenie właściwości na podstawie pkt 1 i 2.
-1b. Informacja o cenach transferowych jest składana za pomocą środków komunikacji elektronicznej zgodnie z przepisami Ordynacji podatkowej.
-2. Informacja o cenach transferowych zawiera:
-1) wskazanie organu, do którego jest składana, cel złożenia informacji i okres, za jaki jest składana;
-2) dane identyfikacyjne podmiotu;
-3) ogólne informacje finansowe podmiotu;
-4) informacje dotyczące podmiotów powiązanych i transakcji kontrolowanych;
-5) informacje dotyczące stosowanych cen transferowych oraz metod ich weryfikacji;
-6) dodatkowe informacje lub wyjaśnienia dotyczące danych lub informacji, o których mowa w pkt 2–5;
-7) oświadczenie podmiotu o tym, że lokalna dokumentacja cen transferowych została sporządzona zgodnie ze stanem rzeczywistym, a ceny transferowe objęte tą dokumentacją są ustalane na warunkach, które ustaliłyby między sobą podmioty niepowiązane.
-2a. Informacja o cenach transferowych jest sporządzana na podstawie:
-1) lokalnej dokumentacji cen transferowych – w przypadku gdy podmiot powiązany był obowiązany do sporządzenia tej dokumentacji;
-2) sprawozdania finansowego lub innych dokumentów – w przypadku gdy podmiot powiązany nie był obowiązany do sporządzenia tej dokumentacji.
-2b. Na potrzeby oświadczenia, o którym mowa w ust. 2 pkt 7, w przypadku otrzymania nieodpłatnie lub częściowo odpłatnie rzeczy lub praw, lub innych świadczeń w naturze stanowiących przychód, ceny transferowe uważa się za ustalone na warunkach, które ustaliłyby między sobą podmioty niepowiązane, jeżeli przychód ten został dla celów podatkowych wykazany zgodnie z zasadą ceny rynkowej.
-3. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 23za ust. 1, w zakresie transakcji wskazanych w tym przepisie. Przepis ust. 2 stosuje się odpowiednio.
-4. W przypadku transakcji kontrolowanych, o których mowa w art. 23z pkt 1–2 i 9–11, w informacji o cenach transferowych nie uwzględnia się informacji oraz oświadczenia, o których mowa w ust. 2 pkt 3 i 5–7.
-5. Informacja o cenach transferowych jest podpisywana przez:
-1) osobę fizyczną – w przypadku podmiotu powiązanego będącego osobą fizyczną,
-2) osobę upoważnioną przez przedsiębiorcę zagranicznego do reprezentowania go w oddziale – w przypadku podmiotu powiązanego będącego przedsiębiorcą zagranicznym posiadającym oddział działający na terytorium Rzeczypospolitej Polskiej,
-3) kierownika jednostki w rozumieniu art. 3 ust. 1 pkt 6 ustawy o rachunkowości, a w przypadku gdy jednostką kieruje organ wieloosobowy – przez wyznaczoną osobę wchodzącą w skład tego organu – przy czym nie jest dopuszczalne podpisanie tej informacji przez pełnomocnika, z wyjątkiem pełnomocnika będącego adwokatem, radcą prawnym, doradcą podatkowym lub biegłym rewidentem.
-5a. Wyznaczenie osoby wchodzącej w skład organu wieloosobowego do podpisywania informacji o cenach transferowych nie zwalnia pozostałych osób wchodzących w skład tego organu z odpowiedzialności za niezłożenie tej informacji.
-6. Informacja o cenach transferowych jest wykorzystywana w celu analizy ryzyka zaniżenia dochodu do opodatkowania w zakresie cen transferowych oraz do innych analiz ekonomicznych lub statystycznych.
-7. (uchylony)
-8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres danych i informacji oraz treść oświadczenia zawartych w informacji o cenach transferowych, wraz z objaśnieniami co do sposobu jej sporządzenia, uwzględniając konieczność zapewnienia dokonywania prawidłowej analizy ryzyka zaniżenia dochodu do opodatkowania w obszarze cen transferowych oraz innych analiz ekonomicznych lub statystycznych.
-Art. 46–51. (pominięte)
 
 #### Rozdział 1 Podmiot i przedmiot opodatkowania
 
@@ -2788,13 +2756,22 @@ Art. 46–51. (pominięte)
     - **d)** podmiot powiązany nie jest podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową – przy czym w przypadku zastosowania klucza alokacji przepis art. 23r ust. 1 pkt 3 stosuje się odpowiednio;
 
 - **10)** stanowiących usługi o niskiej wartości dodanej – w przypadku spełnienia warunków określonych w art. 23r;
-- **11)** dotyczących pożyczki, kredytu lub emisji obligacji – w przypadku spełnienia warunków określonych w art. 23s. Art. 23za. 1. Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani także podatnicy i spółki nie-będące osobami prawnymi dokonujący transakcji, innej niż transakcja kontrolowana, z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową lub zagranicznym zakładem położonym na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli wartość tej transakcji za rok podatkowy, a w przypadku spółek niebędących osobami prawnymi – za rok obrotowy, przekracza:
+- **11)** dotyczących pożyczki, kredytu lub emisji obligacji – w przypadku spełnienia warunków określonych w art. 23s.
+
+**Art. 23za.**
+
+1. Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani także podatnicy i spółki nie-będące osobami prawnymi dokonujący transakcji, innej niż transakcja kontrolowana, z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową lub zagranicznym zakładem położonym na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli wartość tej transakcji za rok podatkowy, a w przypadku spółek niebędących osobami prawnymi – za rok obrotowy, przekracza:
+
 - **1)** 2 500 000 zł – w przypadku transakcji finansowej,
 - **2)** 500 000 zł – w przypadku transakcji innej niż transakcja finansowa – przy czym przepisy art. 23w ust. 1 i 3–5, art. 23x, art. 23z pkt 3 i 5–7, art. 23zc ust. 1 oraz art. 23zd stosuje się odpowiednio.
 
 1a. (uchylony) 1b. (uchylony)
 
-2. Wartość transakcji, o której mowa w ust. 1, wyrażoną w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej lub zawarcia umowy. Art. 23zb. 1. Podmioty powiązane, których sprawozdania finansowe są konsolidowane metodą pełną lub proporcjonalną, obowiązane do sporządzenia lokalnej dokumentacji cen transferowych dołączają do tej dokumentacji grupową dokumentację cen transferowych, sporządzoną za rok obrotowy, w terminie do końca dwunastego miesiąca po zakończeniu roku podatkowego, jeżeli należą do grupy podmiotów powiązanych:
+2. Wartość transakcji, o której mowa w ust. 1, wyrażoną w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej lub zawarcia umowy.
+
+**Art. 23zb.**
+
+1. Podmioty powiązane, których sprawozdania finansowe są konsolidowane metodą pełną lub proporcjonalną, obowiązane do sporządzenia lokalnej dokumentacji cen transferowych dołączają do tej dokumentacji grupową dokumentację cen transferowych, sporządzoną za rok obrotowy, w terminie do końca dwunastego miesiąca po zakończeniu roku podatkowego, jeżeli należą do grupy podmiotów powiązanych:
 
 - **1)** dla której jest sporządzane skonsolidowane sprawozdanie finansowe;
 - **2)** której skonsolidowane przychody przekroczyły w poprzednim roku obrotowym kwotę 200 000 000 zł lub jej równowartość.
@@ -2803,7 +2780,11 @@ Art. 46–51. (pominięte)
 
 3. Grupowa dokumentacja cen transferowych może być sporządzona przez podmiot powiązany obowiązany do dołączania grupowej dokumentacji cen transferowych lub inny podmiot należący do grupy podmiotów powiązanych. Sporządzenie grupowej dokumentacji cen transferowych przez inny podmiot z grupy podmiotów powiązanych nie zwalnia z odpowiedzialności za zgodność tej dokumentacji z art. 23zc ust. 2.
 
-4. W przypadku gdy grupowa dokumentacja cen transferowych została sporządzona w języku angielskim, organ podatkowy może wystąpić z żądaniem przedłożenia, w terminie 30 dni od dnia doręczenia tego żądania, grupowej dokumentacji cen transferowych w języku polskim. Art. 23zc. 1. Lokalna dokumentacja cen transferowych zawiera następujące elementy:
+4. W przypadku gdy grupowa dokumentacja cen transferowych została sporządzona w języku angielskim, organ podatkowy może wystąpić z żądaniem przedłożenia, w terminie 30 dni od dnia doręczenia tego żądania, grupowej dokumentacji cen transferowych w języku polskim.
+
+**Art. 23zc.**
+
+1. Lokalna dokumentacja cen transferowych zawiera następujące elementy:
 
 - **1)** opis podmiotu powiązanego;
 - **2)** opis transakcji, w tym analizę funkcji, ryzyk i aktywów;
@@ -2829,7 +2810,13 @@ Art. 46–51. (pominięte)
 
 3b. Przepis ust. 3a pkt 1 ma zastosowanie w przypadku przedsiębiorcy, który w ostatnim roku podatkowym spełnił warunki określone w art. 7 ust. 1 pkt 1 albo 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
-4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres elementów lokalnej dokumentacji cen transferowych i grupowej dokumentacji cen transferowych, mając na uwadze ułatwienie podatnikom sporządzania poprawnej dokumentacji cen transferowych oraz uwzględniając wytyczne Organizacji Współpracy Gospodarczej i Rozwoju w sprawie cen transferowych dla przedsiębiorstw wielonarodowych oraz administracji podatkowych. Art. 23zd. Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nierzadziej niż co 3 lata, chyba że zmiana otoczenia ekonomicznego w stopniu znacznie wpływającym na sporządzoną analizę uzasadnia dokonanie aktualizacji w roku zaistnienia tej zmiany. Art. 23ze. 1. Podmioty powiązane, które są obowiązane do sporządzania lokalnej dokumentacji cen transferowych lub grupowej dokumentacji cen transferowych, przedkładają, na żądanie organów podatkowych, tę dokumentację, w terminie 14 dni od dnia doręczenia tego żądania.
+4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres elementów lokalnej dokumentacji cen transferowych i grupowej dokumentacji cen transferowych, mając na uwadze ułatwienie podatnikom sporządzania poprawnej dokumentacji cen transferowych oraz uwzględniając wytyczne Organizacji Współpracy Gospodarczej i Rozwoju w sprawie cen transferowych dla przedsiębiorstw wielonarodowych oraz administracji podatkowych.
+
+**Art. 23zd.** Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nierzadziej niż co 3 lata, chyba że zmiana otoczenia ekonomicznego w stopniu znacznie wpływającym na sporządzoną analizę uzasadnia dokonanie aktualizacji w roku zaistnienia tej zmiany.
+
+**Art. 23ze.**
+
+1. Podmioty powiązane, które są obowiązane do sporządzania lokalnej dokumentacji cen transferowych lub grupowej dokumentacji cen transferowych, przedkładają, na żądanie organów podatkowych, tę dokumentację, w terminie 14 dni od dnia doręczenia tego żądania.
 
 2. W przypadku wystąpienia okoliczności wskazujących na prawdopodobieństwo zaniżenia wartości transakcji kontrolowanej lub niespełnienia warunków, o których mowa w art. 23r ust. 1 lub art. 23s ust. 1, organ podatkowy może zwrócić się do podatnika niebędącego mikroprzedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, z uwzględnieniem art. 23zc ust. 3b, z żądaniem sporządzenia i przedłożenia lokalnej dokumentacji cen transferowych niezawierającej analizy porównawczej lub analizy zgodności dla wskazanych przez organ podatkowy transakcji kontrolowanych w roku podatkowym, w terminie 30 dni od dnia doręczenia takiego żądania. Żądanie wskazuje okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji kontrolowanej lub niespełnienia warunków, o których mowa w art. 23r ust. 1 lub art. 23s ust. 1.
 
@@ -2838,6 +2825,56 @@ Art. 46–51. (pominięte)
 4. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami praw-nymi, o których mowa w art. 23za ust. 1, w zakresie transakcji wskazanych w tym przepisie. Przepisy ust. 2 i 3 stosuje się odpowiednio.
 
 ##### Oddział 4 Informacja o cenach transferowych
+
+**Art. 23zf.**
+
+1. Podmioty powiązane:
+
+- **1)** obowiązane do sporządzania lokalnej dokumentacji cen transferowych – w zakresie transakcji objętych tym obowiązkiem lub
+- **2)** realizujące transakcje kontrolowane określone w art. 23z pkt 1–2 lub 9–11 – składają naczelnikowi urzędu skarbowego właściwemu dla podatnika, w terminie do końca jedenastego miesiąca po zakończeniu roku podatkowego, informację o cenach transferowych za rok podatkowy, sporządzoną według wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+1a. W przypadku spółki niebędącej osobą prawną informacja o cenach transferowych jest składana naczelnikowi urzędu skarbowego właściwemu według:
+
+- **1)** miejsca prowadzenia działalności;
+- **2)** miejsca siedziby – w przypadku prowadzenia działalności w więcej niż jednym miejscu;
+- **3)** miejsca zamieszkania lub siedziby jednego ze wspólników – w przypadku gdy nie jest możliwe ustalenie właściwości na podstawie pkt 1 i 2.
+
+1b. Informacja o cenach transferowych jest składana za pomocą środków komunikacji elektronicznej zgodnie z przepisami Ordynacji podatkowej.
+
+2. Informacja o cenach transferowych zawiera:
+
+- **1)** wskazanie organu, do którego jest składana, cel złożenia informacji i okres, za jaki jest składana;
+- **2)** dane identyfikacyjne podmiotu;
+- **3)** ogólne informacje finansowe podmiotu;
+- **4)** informacje dotyczące podmiotów powiązanych i transakcji kontrolowanych;
+- **5)** informacje dotyczące stosowanych cen transferowych oraz metod ich weryfikacji;
+- **6)** dodatkowe informacje lub wyjaśnienia dotyczące danych lub informacji, o których mowa w pkt 2–5;
+- **7)** oświadczenie podmiotu o tym, że lokalna dokumentacja cen transferowych została sporządzona zgodnie ze stanem rzeczywistym, a ceny transferowe objęte tą dokumentacją są ustalane na warunkach, które ustaliłyby między sobą podmioty niepowiązane.
+
+2a. Informacja o cenach transferowych jest sporządzana na podstawie:
+
+- **1)** lokalnej dokumentacji cen transferowych – w przypadku gdy podmiot powiązany był obowiązany do sporządzenia tej dokumentacji;
+- **2)** sprawozdania finansowego lub innych dokumentów – w przypadku gdy podmiot powiązany nie był obowiązany do sporządzenia tej dokumentacji.
+
+2b. Na potrzeby oświadczenia, o którym mowa w ust. 2 pkt 7, w przypadku otrzymania nieodpłatnie lub częściowo odpłatnie rzeczy lub praw, lub innych świadczeń w naturze stanowiących przychód, ceny transferowe uważa się za ustalone na warunkach, które ustaliłyby między sobą podmioty niepowiązane, jeżeli przychód ten został dla celów podatkowych wykazany zgodnie z zasadą ceny rynkowej.
+
+3. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 23za ust. 1, w zakresie transakcji wskazanych w tym przepisie. Przepis ust. 2 stosuje się odpowiednio.
+
+4. W przypadku transakcji kontrolowanych, o których mowa w art. 23z pkt 1–2 i 9–11, w informacji o cenach transferowych nie uwzględnia się informacji oraz oświadczenia, o których mowa w ust. 2 pkt 3 i 5–7.
+
+5. Informacja o cenach transferowych jest podpisywana przez:
+
+- **1)** osobę fizyczną – w przypadku podmiotu powiązanego będącego osobą fizyczną,
+- **2)** osobę upoważnioną przez przedsiębiorcę zagranicznego do reprezentowania go w oddziale – w przypadku podmiotu powiązanego będącego przedsiębiorcą zagranicznym posiadającym oddział działający na terytorium Rzeczypospolitej Polskiej,
+- **3)** kierownika jednostki w rozumieniu art. 3 ust. 1 pkt 6 ustawy o rachunkowości, a w przypadku gdy jednostką kieruje organ wieloosobowy – przez wyznaczoną osobę wchodzącą w skład tego organu – przy czym nie jest dopuszczalne podpisanie tej informacji przez pełnomocnika, z wyjątkiem pełnomocnika będącego adwokatem, radcą prawnym, doradcą podatkowym lub biegłym rewidentem.
+
+5a. Wyznaczenie osoby wchodzącej w skład organu wieloosobowego do podpisywania informacji o cenach transferowych nie zwalnia pozostałych osób wchodzących w skład tego organu z odpowiedzialności za niezłożenie tej informacji.
+
+6. Informacja o cenach transferowych jest wykorzystywana w celu analizy ryzyka zaniżenia dochodu do opodatkowania w zakresie cen transferowych oraz do innych analiz ekonomicznych lub statystycznych.
+
+7. (uchylony)
+
+8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres danych i informacji oraz treść oświadczenia zawartych w informacji o cenach transferowych, wraz z objaśnieniami co do sposobu jej sporządzenia, uwzględniając konieczność zapewnienia dokonywania prawidłowej analizy ryzyka zaniżenia dochodu do opodatkowania w obszarze cen transferowych oraz innych analiz ekonomicznych lub statystycznych.
 
 #### Rozdział 5 Szczególne zasady ustalania dochodu
 
@@ -3093,7 +3130,9 @@ Art. 46–51. (pominięte)
 
 3. Przez działalność w zakresie handlu hurtowego lub detalicznego, o której mowa w ust. 2 pkt 1, wykonywaną na terytorium Rzeczypospolitej Polskiej przez podatników niebędących podatnikami, o których mowa w art. 3 ust. 1 i 3, rozumie się odpłatne zbycie towarów polskim odbiorcom bez względu na miejsce zawarcia umowy.
 
-4. Przepisów ust. 2 i 3 nie stosuje się, jeżeli umowa w sprawie zapobieżenia podwójnemu opodatkowaniu, której Rzeczpospolita Polska jest stroną, zawarta z krajem, na terytorium którego podatnik ma siedzibę lub miejsce zamieszkania, stanowi inaczej. Art. 24ba. Podatnicy obowiązani do prowadzenia ksiąg rachunkowych lub ewidencji środków trwałych oraz wartości niematerialnych i prawnych albo wykazu środków trwałych oraz wartości niematerialnych i prawnych, którzy przenoszą poza terytorium Rzeczypospolitej Polskiej składniki majątku, o których mowa w art. 30da ust. 2 i art. 30dh ust. 3, są obowiązani wyodrębnić te składniki w prowadzonych księgach, ewidencji lub wykazie.
+4. Przepisów ust. 2 i 3 nie stosuje się, jeżeli umowa w sprawie zapobieżenia podwójnemu opodatkowaniu, której Rzeczpospolita Polska jest stroną, zawarta z krajem, na terytorium którego podatnik ma siedzibę lub miejsce zamieszkania, stanowi inaczej.
+
+**Art. 24ba.** Podatnicy obowiązani do prowadzenia ksiąg rachunkowych lub ewidencji środków trwałych oraz wartości niematerialnych i prawnych albo wykazu środków trwałych oraz wartości niematerialnych i prawnych, którzy przenoszą poza terytorium Rzeczypospolitej Polskiej składniki majątku, o których mowa w art. 30da ust. 2 i art. 30dh ust. 3, są obowiązani wyodrębnić te składniki w prowadzonych księgach, ewidencji lub wykazie.
 
 **Art. 24c.**
 
@@ -3439,7 +3478,11 @@ Art. 46–51. (pominięte)
 
 9. Przepisu ust. 8 zdanie drugie i trzecie nie stosuje się, jeżeli podatnik wykaże w zeznaniu kwotę przysługującą mu zgodnie z art. 26ea.
 
-10. Jeżeli podatnik zmarł przed upływem okresu określonego w ust. 8, nieodliczoną kwotę odlicza przedsiębiorstwo w spadku, jeżeli kwoty tej zmarły podatnik nie wykazał w zeznaniu zgodnie z art. 26ea. Nieodliczoną kwotę przedsiębiorstwo w spadku odlicza w okresie, w jakim prawo to przysługiwało zmarłemu podatnikowi. Art. 26ea. 1. Podatnikowi, który w roku rozpoczęcia prowadzenia działalności gospodarczej poniósł stratę albo osiągnął dochód niższy od kwoty przysługującego za ten rok odliczenia określonego w art. 26e ust. 1, przysługuje kwota stanowiąca:
+10. Jeżeli podatnik zmarł przed upływem okresu określonego w ust. 8, nieodliczoną kwotę odlicza przedsiębiorstwo w spadku, jeżeli kwoty tej zmarły podatnik nie wykazał w zeznaniu zgodnie z art. 26ea. Nieodliczoną kwotę przedsiębiorstwo w spadku odlicza w okresie, w jakim prawo to przysługiwało zmarłemu podatnikowi.
+
+**Art. 26ea.**
+
+1. Podatnikowi, który w roku rozpoczęcia prowadzenia działalności gospodarczej poniósł stratę albo osiągnął dochód niższy od kwoty przysługującego za ten rok odliczenia określonego w art. 26e ust. 1, przysługuje kwota stanowiąca:
 
 - **1)** iloczyn najniższej stawki podatkowej określonej w skali, o której mowa w art. 27 ust. 1, oraz nieodliczonego na podstawie art. 26e ust. 1 odliczenia – w przypadku podatnika opodatkowanego według zasad określonych w art. 27 ust. 1 albo
 - **2)** 19 % nieodliczonego na podstawie art. 26e ust. 1 odliczenia – w przypadku podatnika opodatkowanego według zasad określonych w art. 30c.
@@ -3454,7 +3497,11 @@ Art. 46–51. (pominięte)
 
 5a. W razie wystąpienia okoliczności, o których mowa w ust. 5, podatnik jest obowiązany w zeznaniu składanym za rok podatkowy, w którym wystąpiły te okoliczności, do zwiększenia podatku o kwotę zwrotu, a w razie wystąpienia nadpłaty – do jej zmniejszenia o tę kwotę.
 
-6. Kwoty, o których mowa w ust. 1 i 2, podatnik wykazuje w zeznaniu, o którym mowa w art. 45. Art. 26eb. 1. Podatnik będący płatnikiem podatku dochodowego od osób fizycznych, który poniósł za rok podatkowy stratę lub osiągnął dochód niższy od kwoty przysługującego w roku podatkowym odliczenia na podstawie art. 26e, może pomniejszyć kwotę podlegających przekazaniu na rachunek urzędu skarbowego zaliczek na podatek dochodowy oraz zryczałtowanego podatku dochodowego wskazanych w ust. 2 o:
+6. Kwoty, o których mowa w ust. 1 i 2, podatnik wykazuje w zeznaniu, o którym mowa w art. 45.
+
+**Art. 26eb.**
+
+1. Podatnik będący płatnikiem podatku dochodowego od osób fizycznych, który poniósł za rok podatkowy stratę lub osiągnął dochód niższy od kwoty przysługującego w roku podatkowym odliczenia na podstawie art. 26e, może pomniejszyć kwotę podlegających przekazaniu na rachunek urzędu skarbowego zaliczek na podatek dochodowy oraz zryczałtowanego podatku dochodowego wskazanych w ust. 2 o:
 
 - **1)** iloczyn najniższej stawki podatkowej określonej w skali podatkowej, o której mowa w art. 27 ust. 1, oraz nieodliczonego na podstawie art. 26e odliczenia – w przypadku podatnika opodatkowanego według zasad określonych w art. 27 ust. 1, albo
 - **2)** 19 % nieodliczonego na podstawie art. 26e odliczenia – w przypadku podatnika opodatkowanego według zasad określonych w art. 30c.
@@ -3483,7 +3530,19 @@ Art. 46–51. (pominięte)
 
 **Art. 26f.** Podatnicy korzystający z odliczenia, o którym mowa w art. 26e, oraz podatnicy, którym przysługuje kwota określona w art. 26ea, są obowiązani wykazać w zeznaniu poniesione koszty kwalifikowane podlegające odliczeniu lub stanowiące podstawę do wyliczenia przysługującej podatnikowi kwoty.
 
-**Art. 26g.** Odliczenie, o którym mowa w art. 26e, oraz kwotę przysługującą podatnikowi na podstawie art. 26ea podatnik wykazuje w zeznaniu, w którym rozlicza przychody ze źródła określonego w art. 10 ust. 1 pkt 3. Art. 26ga. 1. Podatnik prowadzący pozarolniczą działalność gospodarczą może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 30 % sumy kosztów produkcji próbnej nowego produktu i wprowadzenia na rynek nowego produktu, przy czym wysokość odliczenia nie może w roku podatkowym przekroczyć 10 % dochodu osiągniętego z pozarolniczej działalności gospodarczej. 2. Przez produkt rozumie się produkt w rozumieniu przepisów ustawy o rachunkowości, z wyłączeniem usługi. 3. Przez produkcję próbną nowego produktu rozumie się etap rozruchu technologicznego produkcji niewymagający dalszych prac projektowo-konstrukcyjnych lub inżynieryjnych, którego celem jest wykonanie prób i testów przed uruchomieniem procesu produkcji nowego produktu, powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych, przy czym etap rozruchu technologicznego obejmuje okres od momentu poniesienia pierwszego kosztu związanego z tym etapem do momentu rozpoczęcia produkcji nowego produktu. 4. Przez wprowadzenie na rynek nowego produktu rozumie się działania podejmowane w celu przygotowania dokumentacji służącej uzyskaniu w odniesieniu do produktu powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych certyfikatów i zezwoleń umożliwiających skierowanie produktu do sprzedaży. 5. Za koszty produkcji próbnej nowego produktu uznaje się:
+**Art. 26g.** Odliczenie, o którym mowa w art. 26e, oraz kwotę przysługującą podatnikowi na podstawie art. 26ea podatnik wykazuje w zeznaniu, w którym rozlicza przychody ze źródła określonego w art. 10 ust. 1 pkt 3.
+
+**Art. 26ga.**
+
+1. Podatnik prowadzący pozarolniczą działalność gospodarczą może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 30 % sumy kosztów produkcji próbnej nowego produktu i wprowadzenia na rynek nowego produktu, przy czym wysokość odliczenia nie może w roku podatkowym przekroczyć 10 % dochodu osiągniętego z pozarolniczej działalności gospodarczej.
+
+2. Przez produkt rozumie się produkt w rozumieniu przepisów ustawy o rachunkowości, z wyłączeniem usługi.
+
+3. Przez produkcję próbną nowego produktu rozumie się etap rozruchu technologicznego produkcji niewymagający dalszych prac projektowo-konstrukcyjnych lub inżynieryjnych, którego celem jest wykonanie prób i testów przed uruchomieniem procesu produkcji nowego produktu, powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych, przy czym etap rozruchu technologicznego obejmuje okres od momentu poniesienia pierwszego kosztu związanego z tym etapem do momentu rozpoczęcia produkcji nowego produktu.
+
+4. Przez wprowadzenie na rynek nowego produktu rozumie się działania podejmowane w celu przygotowania dokumentacji służącej uzyskaniu w odniesieniu do produktu powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych certyfikatów i zezwoleń umożliwiających skierowanie produktu do sprzedaży.
+
+5. Za koszty produkcji próbnej nowego produktu uznaje się:
 
 - **1)** cenę nabycia, o której mowa w art. 22g ust. 3, lub koszt wytworzenia, o którym mowa w art. 22g ust. 4, fabrycznie nowych środków trwałych niezbędnych do uruchomienia produkcji próbnej nowego produktu, zaliczonych do grup 3–6 i 8 Klasyfikacji;
 - **2)** wydatki na ulepszenie, o których mowa w art. 22g ust. 17, poniesione w celu dostosowania środka trwałego zaliczonego do grup 3–6 i 8 Klasyfikacji, do uruchomienia produkcji próbnej nowego produktu;
@@ -3508,7 +3567,11 @@ Art. 46–51. (pominięte)
 
 11. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia.
 
-12. Przepis art. 26e ust. 10 stosuje się odpowiednio. Art. 26gb. 1. Podatnik uzyskujący przychody z pozarolniczej działalności gospodarczej odlicza od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów do wysokości dochodu uzyskanego przez podatnika w roku podatkowym z pozarolniczej działalności gospodarczej, niewięcej jednak niż 1 000 000 zł w roku podatkowym.
+12. Przepis art. 26e ust. 10 stosuje się odpowiednio.
+
+**Art. 26gb.**
+
+1. Podatnik uzyskujący przychody z pozarolniczej działalności gospodarczej odlicza od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów do wysokości dochodu uzyskanego przez podatnika w roku podatkowym z pozarolniczej działalności gospodarczej, niewięcej jednak niż 1 000 000 zł w roku podatkowym.
 
 2. Przez produkty rozumie się rzeczy wytworzone przez podatnika.
 
@@ -3563,7 +3626,11 @@ Art. 46–51. (pominięte)
 
 9. W przypadku niezrealizowania przedsięwzięcia termomodernizacyjnego w terminie, o którym mowa w ust. 1, podatnik dolicza kwoty poprzednio odliczone do dochodu za rok podatkowy, w którym upłynął ten termin.
 
-10. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w porozumieniu z ministrem właściwym do spraw klimatu, ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz rodzajów materiałów budowlanych, urządzeń i usług związanych z realizacją przedsięwzięć termomodernizacyjnych, o których mowa w ust. 1, mając na uwadze zapewnienie poprawy efektywności energetycznej przedsięwzięć termomodernizacyjnych oraz ich wpływ na poprawę jakości powietrza. Art. 26ha. 1. Podatnik prowadzący pozarolniczą działalność gospodarczą może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50 % kosztów uzyskania przychodów poniesionych na działalność:
+10. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w porozumieniu z ministrem właściwym do spraw klimatu, ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz rodzajów materiałów budowlanych, urządzeń i usług związanych z realizacją przedsięwzięć termomodernizacyjnych, o których mowa w ust. 1, mając na uwadze zapewnienie poprawy efektywności energetycznej przedsięwzięć termomodernizacyjnych oraz ich wpływ na poprawę jakości powietrza.
+
+**Art. 26ha.**
+
+1. Podatnik prowadzący pozarolniczą działalność gospodarczą może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50 % kosztów uzyskania przychodów poniesionych na działalność:
 
 - **1)** sportową,
 - **2)** kulturalną w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej,
@@ -3603,7 +3670,11 @@ Art. 46–51. (pominięte)
 
 10. Podatnik korzystający z odliczenia składa w terminie złożenia zeznania, w którym dokonuje tego odliczenia, informację, według ustalonego wzoru, zawierającą wykaz poniesionych kosztów podlegających odliczeniu.
 
-11. W przypadku skorzystania z odliczenia kosztów, o których mowa w ust. 1, przepisu art. 23 ust. 1 pkt 45 nie stosuje się. Art. 26hb. 1. Podatnik może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, wydatki:
+11. W przypadku skorzystania z odliczenia kosztów, o których mowa w ust. 1, przepisu art. 23 ust. 1 pkt 45 nie stosuje się.
+
+**Art. 26hb.**
+
+1. Podatnik może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, wydatki:
 
 - **1)** poniesione w roku podatkowym na wpłaty na fundusz remontowy wspólnoty mieszkaniowej lub spółdzielni mieszkaniowej utworzony, zgodnie z odrębnymi przepisami, dla zabytku nieruchomego wpisanego do rejestru zabytków lub znajdującego się w ewidencji zabytków;
 - **2)** na prace konserwatorskie, restauratorskie lub roboty budowlane przy zabytku nieruchomym wpisanym do rejestru zabytków.
@@ -3654,7 +3725,12 @@ Art. 46–51. (pominięte)
 - **2)** pracach konserwatorskich – oznacza to prace konserwatorskie w rozumieniu art. 3 pkt 6 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
 - **3)** pracach restauratorskich – oznacza to prace restauratorskie w rozumieniu art. 3 pkt 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
 - **4)** robotach budowlanych – oznacza to roboty budowlane w rozumieniu art. 3 pkt 8 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
-- **5)** zabytku nieruchomym – oznacza to zabytek nieruchomy, o którym mowa w art. 6 ust. 1 pkt 1 lit. c–e ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami. Art. 26hc. 1. Podatnik może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50 % wydatków poniesionych na nabycie lub objęcie udziałów (akcji) w:
+- **5)** zabytku nieruchomym – oznacza to zabytek nieruchomy, o którym mowa w art. 6 ust. 1 pkt 1 lit. c–e ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami.
+
+**Art. 26hc.**
+
+1. Podatnik może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50 % wydatków poniesionych na nabycie lub objęcie udziałów (akcji) w:
+
 - **1)** alternatywnej spółce inwestycyjnej lub
 - **2)** spółce kapitałowej, w której alternatywna spółka inwestycyjna:
     - **a)** posiada co najmniej 5 % udziałów (akcji),
@@ -3669,7 +3745,11 @@ Art. 46–51. (pominięte)
 
 3. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono wydatki.
 
-4. W przypadku niespełnienia warunku, o którym mowa w ust. 2 pkt 4, podatnik jest obowiązany doliczyć odpowiednio kwoty poprzednio odliczone do dochodu za rok podatkowy, w którym nastąpiło zbycie udziałów (akcji) w alternatywnej spółce inwestycyjnej lub w spółce kapitałowej. Art. 26hd. 1. Podatnik uzyskujący przychody z pozarolniczej działalności gospodarczej może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 albo art. 30c ust. 2, wydatki na nabycie terminala płatniczego oraz wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego poniesione w roku podatkowym, w którym rozpoczął przyjmowanie płatności przy użyciu terminala płatniczego, i w roku następującym po tym roku, do wysokości:
+4. W przypadku niespełnienia warunku, o którym mowa w ust. 2 pkt 4, podatnik jest obowiązany doliczyć odpowiednio kwoty poprzednio odliczone do dochodu za rok podatkowy, w którym nastąpiło zbycie udziałów (akcji) w alternatywnej spółce inwestycyjnej lub w spółce kapitałowej.
+
+**Art. 26hd.**
+
+1. Podatnik uzyskujący przychody z pozarolniczej działalności gospodarczej może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 albo art. 30c ust. 2, wydatki na nabycie terminala płatniczego oraz wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego poniesione w roku podatkowym, w którym rozpoczął przyjmowanie płatności przy użyciu terminala płatniczego, i w roku następującym po tym roku, do wysokości:
 
 - **1)** 2500 zł w roku podatkowym – w przypadku podatników zwolnionych z obowiązku prowadzenia ewidencji sprzedaży na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych przy zastosowaniu kas rejestrujących, zgodnie z przepisami o podatku od towarów i usług;
 - **2)** 1000 zł w roku podatkowym – w przypadku podatników innych niż określeni w pkt 1.
@@ -3703,7 +3783,11 @@ Art. 46–51. (pominięte)
 
 14. W przypadku skorzystania z odliczeń, o których mowa w ust. 1 i 2, przepisu art. 23 ust. 1 pkt 45 nie stosuje się.
 
-15. Przepis art. 26e ust. 10 stosuje się odpowiednio. Art. 26he. 1. Podatnik uzyskujący przychody ze źródła określonego w art. 10 ust. 1 pkt 3 może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę:
+15. Przepis art. 26e ust. 10 stosuje się odpowiednio.
+
+**Art. 26he.**
+
+1. Podatnik uzyskujący przychody ze źródła określonego w art. 10 ust. 1 pkt 3 może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę:
 
 - **1)** 12 000 złotych, jeżeli zatrudniony w ramach stosunku pracy żołnierz terytorialnej służby wojskowej, jak również żołnierz aktywnej rezerwy pełni co najmniej 1 rok nieprzerwanie terytorialną służbę wojskową lub służbę w aktywnej rezerwie;
 - **2)** 15 000 złotych, jeżeli zatrudniony w ramach stosunku pracy żołnierz terytorialnej służby wojskowej, jak również żołnierz aktywnej rezerwy pełni co najmniej 2 lata nieprzerwanie terytorialną służbę wojskową lub służbę w aktywnej rezerwie;
@@ -3822,7 +3906,9 @@ Art. 46–51. (pominięte)
 
 **Art. 27d.** (uchylony)
 
-**Art. 27e.** (uchylony) Art. 27ea. (uchylony)
+**Art. 27e.** (uchylony)
+
+**Art. 27ea.** (uchylony)
 
 **Art. 27f.**
 
@@ -4166,7 +4252,11 @@ Art. 46–51. (pominięte)
 
 5. W przypadku podatnika, o którym mowa w art. 3 ust. 1, uzyskującego wyłącznie dochody z tytułu działalności wykonywanej poza terytorium Rzeczypospolitej Polskiej lub ze źródeł przychodów znajdujących się poza terytorium Rzeczypospolitej Polskiej, które nie są zwolnione od podatku dochodowego na podstawie umowy o unikaniu podwójnego opodatkowania, lub gdy z państwem, w którym dochody są osiągane, Rzeczpospolita Polska nie zawarła umowy o unikaniu podwójnego opodatkowania, zasadę określoną w ust. 4 stosuje się odpowiednio.
 
-6. Dochodów z pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej, opodatkowanych w sposób określony w ust. 1, nie łączy się z dochodami opodatkowanymi na zasadach określonych w art. 27, art. 30b, art. 30ca, art. 30da, art. 30e i art. 30f. Art. 30ca. 1. Podatek od osiągniętego przez podatnika w ramach pozarolniczej działalności gospodarczej kwalifikowanego dochodu z kwalifikowanych praw własności intelektualnej wynosi 5 % podstawy opodatkowania.
+6. Dochodów z pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej, opodatkowanych w sposób określony w ust. 1, nie łączy się z dochodami opodatkowanymi na zasadach określonych w art. 27, art. 30b, art. 30ca, art. 30da, art. 30e i art. 30f.
+
+**Art. 30ca.**
+
+1. Podatek od osiągniętego przez podatnika w ramach pozarolniczej działalności gospodarczej kwalifikowanego dochodu z kwalifikowanych praw własności intelektualnej wynosi 5 % podstawy opodatkowania.
 
 2. Kwalifikowanymi prawami własności intelektualnej są:
 
@@ -4209,7 +4299,11 @@ Art. 46–51. (pominięte)
 
 13. W przypadku wycofania zgłoszenia lub wniosku, odmowy udzielenia prawa ochronnego, odrzucenia zgłoszenia lub odrzucenia wniosku o rejestrację podatnik jest obowiązany opodatkować zgodnie z art. 27 lub art. 30c kwalifikowane dochody z prawa własności intelektualnej uzyskane w okresie od dnia zgłoszenia lub złożenia wniosku, o którym mowa w ust. 12, do dnia wycofania wniosku lub zgłoszenia, odmowy udzielenia prawa ochronnego, odrzucenia zgłoszenia lub odrzucenia wniosku o rejestrację. W tym przypadku od podatku obliczonego od łącznej sumy dochodów odlicza się podatek zapłacony na podstawie ust. 1.
 
-14. Przepisy ust. 1–13 stosuje się odpowiednio do dochodów z licencji do korzystania z kwalifikowanego prawa własności intelektualnej przysługującej podatnikowi na podstawie umowy, w której zastrzeżono wyłączność korzystania przez podatnika z tego prawa, pod warunkiem uprzedniego prowadzenia przez podatnika prac badawczo-rozwojowych, których efektem jest kwalifikowane prawo własności intelektualnej, na które udzielono tej licencji. Art. 30cb. 1. Podatnicy podlegający opodatkowaniu na podstawie art. 30ca są obowiązani:
+14. Przepisy ust. 1–13 stosuje się odpowiednio do dochodów z licencji do korzystania z kwalifikowanego prawa własności intelektualnej przysługującej podatnikowi na podstawie umowy, w której zastrzeżono wyłączność korzystania przez podatnika z tego prawa, pod warunkiem uprzedniego prowadzenia przez podatnika prac badawczo-rozwojowych, których efektem jest kwalifikowane prawo własności intelektualnej, na które udzielono tej licencji.
+
+**Art. 30cb.**
+
+1. Podatnicy podlegający opodatkowaniu na podstawie art. 30ca są obowiązani:
 
 - **1)** wyodrębnić każde kwalifikowane prawo własności intelektualnej w prowadzonych księgach rachunkowych;
 - **2)** prowadzić księgi rachunkowe w sposób zapewniający ustalenie przychodów, kosztów uzyskania przychodów i dochodu (straty), przypadających na każde kwalifikowane prawo własności intelektualnej;
@@ -4221,7 +4315,11 @@ Art. 46–51. (pominięte)
 
 3. W przypadku gdy na podstawie ksiąg rachunkowych lub ewidencji, o której mowa w ust. 2, nie jest możliwe ustalenie dochodu (straty) z kwalifikowanych praw własności intelektualnej, podatnik jest obowiązany do zapłaty podatku zgodnie z art. 27 lub art. 30c.
 
-**Art. 30d.** (uchylony) Art. 30da. 1. Podatek od dochodów z niezrealizowanych zysków wynosi:
+**Art. 30d.** (uchylony)
+
+**Art. 30da.**
+
+1. Podatek od dochodów z niezrealizowanych zysków wynosi:
 
 - **1)** 19 % podstawy opodatkowania – gdy ustalana jest wartość podatkowa składnika majątku;
 - **2)** 3 % podstawy opodatkowania – gdy nie ustala się wartości podatkowej składnika majątku.
@@ -4260,9 +4358,17 @@ Art. 46–51. (pominięte)
 
 13. Jeżeli podatnik, o którym mowa w art. 3 ust. 1, osiąga również dochody (przychody) poza terytorium Rzeczypospolitej Polskiej i dochody te podlegają w obcym państwie opodatkowaniu podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, dochody (przychody) te łączy się z dochodami (przychodami) osiąganymi na terytorium Rzeczypospolitej Polskiej. W tym przypadku od podatku obliczonego od łącznej sumy dochodów odlicza się kwotę równą podatkowi zapłaconemu w obcym państwie. Kwota odliczenia nie może jednak przekroczyć tej części podatku obliczonego przed dokonaniem odliczenia, która proporcjonalnie przypada na dochód uzyskany w obcym państwie.
 
-14. Podatnicy są obowiązani składać urzędom skarbowym deklaracje, według ustalonego wzoru, o wysokości dochodu z niezrealizowanych zysków do 7 dnia miesiąca następującego po miesiącu, w którym łączna wartość rynkowa przenoszonych składników majątku przekroczyła kwotę 4 000 000 zł, oraz w tym terminie wpłacić podatek należny. Jeżeli po miesiącu, w którym łączna wartość rynkowa przenoszonych składników majątku przekroczyła kwotę 4 000 000 zł, przenoszone są kolejne składniki majątku, podatnicy obowiązani są składać deklarację do 7 dnia miesiąca następującego po miesiącu, w którym przenoszone są składniki, oraz w tym terminie wpłacić podatek należny. Art. 30db. 1. Przepisów art. 30da nie stosuje się, jeżeli łączna wartość rynkowa przenoszonych składników majątku nie przekracza kwoty 4 000 000 zł.
+14. Podatnicy są obowiązani składać urzędom skarbowym deklaracje, według ustalonego wzoru, o wysokości dochodu z niezrealizowanych zysków do 7 dnia miesiąca następującego po miesiącu, w którym łączna wartość rynkowa przenoszonych składników majątku przekroczyła kwotę 4 000 000 zł, oraz w tym terminie wpłacić podatek należny. Jeżeli po miesiącu, w którym łączna wartość rynkowa przenoszonych składników majątku przekroczyła kwotę 4 000 000 zł, przenoszone są kolejne składniki majątku, podatnicy obowiązani są składać deklarację do 7 dnia miesiąca następującego po miesiącu, w którym przenoszone są składniki, oraz w tym terminie wpłacić podatek należny.
 
-2. W przypadku małżonków, o których mowa w art. 30da ust. 9, limit wartości rynkowej składnika majątku określony w ust. 1 dotyczy łącznie obojga małżonków. Art. 30dc. 1. Opodatkowania podatkiem od dochodów z niezrealizowanych zysków nie stosuje się do składnika majątku przeniesionego poza terytorium Rzeczypospolitej Polskiej na czas określony, niedłuższy jednak niż 12 miesięcy, gdy:
+**Art. 30db.**
+
+1. Przepisów art. 30da nie stosuje się, jeżeli łączna wartość rynkowa przenoszonych składników majątku nie przekracza kwoty 4 000 000 zł.
+
+2. W przypadku małżonków, o których mowa w art. 30da ust. 9, limit wartości rynkowej składnika majątku określony w ust. 1 dotyczy łącznie obojga małżonków.
+
+**Art. 30dc.**
+
+1. Opodatkowania podatkiem od dochodów z niezrealizowanych zysków nie stosuje się do składnika majątku przeniesionego poza terytorium Rzeczypospolitej Polskiej na czas określony, niedłuższy jednak niż 12 miesięcy, gdy:
 
 - **1)** przeniesienie tego składnika majątku związane jest bezpośrednio z polityką zarządzania płynnością przedsiębiorstwa podatnika położonego na terytorium Rzeczypospolitej Polskiej i terytorium innego państwa;
 - **2)** przeniesienie papierów wartościowych lub innych składników majątku następuje na podstawie umowy przewłaszczenia w celu zabezpieczenia wierzytelności.
@@ -4273,12 +4379,20 @@ Art. 46–51. (pominięte)
 
 4. W przypadku, o którym mowa w ust. 3, podatnik jest obowiązany złożyć do urzędu skarbowego deklarację o wysokości dochodu z niezrealizowanych zysków w terminie 7 dni od dnia przejęcia lub przekształcenia oraz w tym terminie wpłacić podatek należny.
 
-5. Jeżeli wartość składnika majątku, o którym mowa w ust. 3, oraz wartość składników majątku, o których mowa w art. 30db ust. 1, przekracza łącznie kwotę 4 000 000 zł, w deklaracji, o której mowa w ust. 4, podatnik obowiązany jest wykazać do opodatkowania wszystkie przeniesione składniki majątku. Art. 30dd. 1. Zwalnia się od podatku od dochodów z niezrealizowanych zysków:
+5. Jeżeli wartość składnika majątku, o którym mowa w ust. 3, oraz wartość składników majątku, o których mowa w art. 30db ust. 1, przekracza łącznie kwotę 4 000 000 zł, w deklaracji, o której mowa w ust. 4, podatnik obowiązany jest wykazać do opodatkowania wszystkie przeniesione składniki majątku.
+
+**Art. 30dd.**
+
+1. Zwalnia się od podatku od dochodów z niezrealizowanych zysków:
 
 - **1)** składniki majątku przekazane na cele określone w art. 4 ustawy o działalności pożytku publicznego organizacjom równoważnym do organizacji, o których mowa w art. 3 ust. 2 i 3 tej ustawy, określonym w przepisach regulujących działalność pożytku publicznego, obowiązujących w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego, prowadzącym działalność pożytku publicznego w sferze zadań publicznych, realizującym te cele – w przypadku gdy podatnik nie posiada praw do udziału w zysku lub majątku tej organizacji;
 - **2)** składniki majątku przeznaczone do służbowego użytku pracowników, bezpośrednio związane z wykonywaną pracą, niestanowiące aktywów trwałych lub obrotowych w rozumieniu przepisów o rachunkowości.
 
-2. Zwolnienia i odroczenia w opodatkowaniu, określone w art. 21 i art. 24, nie mają zastosowania do podatku od dochodów z niezrealizowanych zysków. Art. 30de. 1. Podatnik może wystąpić do właściwego naczelnika urzędu skarbowego o rozłożenie na raty zapłaty całości albo części podatku od dochodów z niezrealizowanych zysków, na okres niedłuższy niż 5 lat, licząc od końca roku podatkowego, w którym powstał obowiązek jego zapłaty, jeżeli przeniesienie składników majątku albo przeniesienie rezydencji podatkowej następuje na terytorium państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego, które jest stroną zawartej z Rzecząpospolitą Polską lub Unią Europejską umowy w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności podatkowych, równoważnej wzajemnej pomocy przewidzianej w dyrektywie Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, s. 1).
+2. Zwolnienia i odroczenia w opodatkowaniu, określone w art. 21 i art. 24, nie mają zastosowania do podatku od dochodów z niezrealizowanych zysków.
+
+**Art. 30de.**
+
+1. Podatnik może wystąpić do właściwego naczelnika urzędu skarbowego o rozłożenie na raty zapłaty całości albo części podatku od dochodów z niezrealizowanych zysków, na okres niedłuższy niż 5 lat, licząc od końca roku podatkowego, w którym powstał obowiązek jego zapłaty, jeżeli przeniesienie składników majątku albo przeniesienie rezydencji podatkowej następuje na terytorium państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego, które jest stroną zawartej z Rzecząpospolitą Polską lub Unią Europejską umowy w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności podatkowych, równoważnej wzajemnej pomocy przewidzianej w dyrektywie Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, s. 1).
 
 2. W przypadku gdy istnieje realne ryzyko nieodzyskania podatku od dochodów z niezrealizowanych zysków, rozłożenie na raty zapłaty całości albo części tego podatku następuje po przedłożeniu przez podatnika zabezpieczenia wykonania zobowiązania podatkowego z tego tytułu wraz z opłatą prolongacyjną w formie przewidzianej przepisami Ordynacji podatkowej dla zabezpieczeń wykonania zobowiązań podatkowych.
 
@@ -4310,20 +4424,34 @@ Art. 46–51. (pominięte)
 
 8. W przypadku zmiany rezydencji podatkowej właściwym naczelnikiem urzędu skarbowego, o którym mowa w ust. 1, jest naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych.
 
-9. W sprawach nieuregulowanych w ust. 1–8 stosuje się przepisy Ordynacji podatkowej. Art. 30df. 1. Jeżeli podatnik w okresie 5 lat, liczonych od końca roku podatkowego, w którym przeniósł składnik majątku poza terytorium Rzeczypospolitej Polskiej, przeniósł go z powrotem na terytorium Rzeczypospolitej Polskiej, może on wystąpić o zwrot podatku od dochodów z niezrealizowanych zysków w części przypadającej na ten składnik.
+9. W sprawach nieuregulowanych w ust. 1–8 stosuje się przepisy Ordynacji podatkowej.
 
-2. Jeżeli podatnik w okresie 5 lat, liczonych od końca roku podatkowego, w którym zmienił rezydencję podatkową, ponownie stanie się osobą, o której mowa w art. 3 ust. 1, może on wystąpić o zwrot zapłaconego podatku od dochodów z niezrealizowanych zysków. Zwrot nie dotyczy podatku przypadającego na składniki majątku, które pozostają związane z położonym poza granicami Rzeczypospolitej Polskiej zagranicznym zakładem podatnika. Art. 30dg. 1. Jeżeli na podstawie art. 22 ust. 1n pkt 1, ust. 1na lub art. 22g ust. 1 pkt 7 lub 8 podatnik uwzględni w kosztach uzyskania przychodów wartość rynkową składnika majątku określoną w państwie członkowskim Unii Europejskiej do celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, podatnik ten jest obowiązany dołączyć do zeznania, o którym mowa w art. 45 ust. 1 i ust. 1a pkt 2, informację, według ustalonego wzoru, o wysokości wartości rynkowej tego składnika. Do informacji tej podatnik jest obowiązany dołączyć dokument wydany lub potwierdzony przez właściwy organ państwa, o którym mowa w zdaniu pierwszym, o wysokości wartości rynkowej tego składnika.
+**Art. 30df.**
+
+1. Jeżeli podatnik w okresie 5 lat, liczonych od końca roku podatkowego, w którym przeniósł składnik majątku poza terytorium Rzeczypospolitej Polskiej, przeniósł go z powrotem na terytorium Rzeczypospolitej Polskiej, może on wystąpić o zwrot podatku od dochodów z niezrealizowanych zysków w części przypadającej na ten składnik.
+
+2. Jeżeli podatnik w okresie 5 lat, liczonych od końca roku podatkowego, w którym zmienił rezydencję podatkową, ponownie stanie się osobą, o której mowa w art. 3 ust. 1, może on wystąpić o zwrot zapłaconego podatku od dochodów z niezrealizowanych zysków. Zwrot nie dotyczy podatku przypadającego na składniki majątku, które pozostają związane z położonym poza granicami Rzeczypospolitej Polskiej zagranicznym zakładem podatnika.
+
+**Art. 30dg.**
+
+1. Jeżeli na podstawie art. 22 ust. 1n pkt 1, ust. 1na lub art. 22g ust. 1 pkt 7 lub 8 podatnik uwzględni w kosztach uzyskania przychodów wartość rynkową składnika majątku określoną w państwie członkowskim Unii Europejskiej do celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, podatnik ten jest obowiązany dołączyć do zeznania, o którym mowa w art. 45 ust. 1 i ust. 1a pkt 2, informację, według ustalonego wzoru, o wysokości wartości rynkowej tego składnika. Do informacji tej podatnik jest obowiązany dołączyć dokument wydany lub potwierdzony przez właściwy organ państwa, o którym mowa w zdaniu pierwszym, o wysokości wartości rynkowej tego składnika.
 
 2. Informację, o której mowa w ust. 1, składa się za rok podatkowy, w którym podatnik uwzględnił w kosztach uzyskania przychodów wartość rynkową składnika majątku, określoną przez inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej.
 
-3. Naczelnik urzędu skarbowego może określić wartość rynkową składnika majątku podatnika, o którym mowa w ust. 1, w innej wysokości niż przyjęta dla celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, jeżeli wartość ta jest wyższa od wartości rynkowej. Art. 30dh. 1. W przypadku gdy przenoszącym składnik majątku jest spółka niebędąca osobą prawną, przepisy art. 30da–30dg stosuje się do podatników posiadających prawa do udziału w zyskach takiej spółki. W takim przypadku przepisy art. 8 ust. 1 stosuje się odpowiednio.
+3. Naczelnik urzędu skarbowego może określić wartość rynkową składnika majątku podatnika, o którym mowa w ust. 1, w innej wysokości niż przyjęta dla celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, jeżeli wartość ta jest wyższa od wartości rynkowej.
+
+**Art. 30dh.**
+
+1. W przypadku gdy przenoszącym składnik majątku jest spółka niebędąca osobą prawną, przepisy art. 30da–30dg stosuje się do podatników posiadających prawa do udziału w zyskach takiej spółki. W takim przypadku przepisy art. 8 ust. 1 stosuje się odpowiednio.
 
 2. Ilekroć w ust. 1 i art. 30da–30dg jest mowa o składniku majątku, rozumie się przez to również przedsiębiorstwo lub zorganizowaną część przedsiębiorstwa.
 
 3. Przepisy ust. 1 i 2, art. 30da–30dg stosuje się odpowiednio do:
 
 - **1)** nieodpłatnego przekazania innemu podmiotowi położonego na terytorium Rzeczypospolitej Polskiej składnika majątku,
-- **2)** wniesienia składnika majątku do podmiotu innego niż spółka lub spółdzielnia – jeżeli w związku z tym przekazaniem albo wniesieniem wkładu Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia tego składnika majątku. Art. 30di. (uchylony)
+- **2)** wniesienia składnika majątku do podmiotu innego niż spółka lub spółdzielnia – jeżeli w związku z tym przekazaniem albo wniesieniem wkładu Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia tego składnika majątku.
+
+**Art. 30di.** (uchylony)
 
 **Art. 30e.**
 
@@ -5517,7 +5645,9 @@ Art. 46–51. (pominięte)
 
 - **1)** nazwę, symbol oraz wariant formularza;
 - **2)** dane identyfikacyjne;
-- **3)** objaśnienia co do sposobu wypełniania, terminu i miejsca składania formularza. Art. 45ba. Oświadczenia, roczne obliczenie podatku, informacje i deklaracje, o których mowa w art. 30j ust. 1 pkt 1, art. 30o pkt 1, art. 34 ust. 7 i 8, art. 35 ust. 6, art. 38 ust. 1a i 1b, art. 39 ust. 1–4, art. 42 ust. 1a–4, art. 42a ust. 1 oraz art. 42e ust. 5 i 6, składa się urzędowi skarbowemu za pomocą środków komunikacji elektronicznej zgodnie z przepisami Ordynacji podatkowej.
+- **3)** objaśnienia co do sposobu wypełniania, terminu i miejsca składania formularza.
+
+**Art. 45ba.** Oświadczenia, roczne obliczenie podatku, informacje i deklaracje, o których mowa w art. 30j ust. 1 pkt 1, art. 30o pkt 1, art. 34 ust. 7 i 8, art. 35 ust. 6, art. 38 ust. 1a i 1b, art. 39 ust. 1–4, art. 42 ust. 1a–4, art. 42a ust. 1 oraz art. 42e ust. 5 i 6, składa się urzędowi skarbowemu za pomocą środków komunikacji elektronicznej zgodnie z przepisami Ordynacji podatkowej.
 
 **Art. 45c.**
 
@@ -5560,7 +5690,17 @@ Art. 46–51. (pominięte)
 
 8. Minister właściwy do spraw finansów publicznych, uwzględniając potrzebę sprawnego zorganizowania procesu przekazywania kwot z tytułu 1,5 % podatku, może upoważnić, w drodze rozporządzenia, podległy organ, inny niż określony w ust. 1, do realizacji zadania, o którym mowa w ust. 1.
 
-9. (uchylony) Art. 45ca. (uchylony) Art. 45cb. (uchylony) Art. 45cc. (uchylony) Art. 45cd. 1. Z dniem 15 lutego roku następującego po roku podatkowym organ podatkowy udostępnia podatnikowi, z wyjątkiem podatnika będącego przedsiębiorstwem w spadku, za pośrednictwem konta w e-Urzędzie Skarbowym zeznania, o których mowa w art. 45 ust. 1 oraz ust. 1a pkt 1 i 2, oraz informację, o której mowa w art. 21 ust. 46 pkt 1, uwzględniając w nich dane będące w posiadaniu Szefa Krajowej Administracji Skarbowej, w tym dane:
+9. (uchylony)
+
+**Art. 45ca.** (uchylony)
+
+**Art. 45cb.** (uchylony)
+
+**Art. 45cc.** (uchylony)
+
+**Art. 45cd.**
+
+1. Z dniem 15 lutego roku następującego po roku podatkowym organ podatkowy udostępnia podatnikowi, z wyjątkiem podatnika będącego przedsiębiorstwem w spadku, za pośrednictwem konta w e-Urzędzie Skarbowym zeznania, o których mowa w art. 45 ust. 1 oraz ust. 1a pkt 1 i 2, oraz informację, o której mowa w art. 21 ust. 46 pkt 1, uwzględniając w nich dane będące w posiadaniu Szefa Krajowej Administracji Skarbowej, w tym dane:
 
 - **1)** zawarte w rocznym obliczeniu podatku i informacjach, o których mowa w art. 21 ust. 46 pkt 1, art. 34 ust. 7 i 8, art. 35 ust. 6, art. 39 ust. 1 i 3, art. 42 ust. 2 pkt 1, art. 42a ust. 1 oraz art. 42e ust. 6;
 - **2)** o wpłaconych w trakcie roku podatkowego przez podatnika zaliczkach.
@@ -5578,11 +5718,19 @@ Art. 46–51. (pominięte)
 - **1)** organ rentowy dokonał rocznego obliczenia podatku, a podatek wynikający z tego obliczenia jest podatkiem należnym na podstawie art. 34 ust. 9;
 - **2)** podatnik złożył zeznanie, nie korzystając z zeznania udostępnionego przez organ podatkowy.
 
-6. Akceptacji i odrzucenia udostępnionego zeznania lub informacji oraz akceptacji zmian wprowadzonych do złożonego zeznania lub informacji podatnik dokonuje za pośrednictwem konta w e-Urzędzie Skarbowym. Jeżeli podatnik nie dokona akceptacji udostępnionego zeznania lub informacji przed upływem terminu określonego na ich złożenie albo je odrzuci przed tym terminem, składa zeznanie lub informację bez pośrednictwa konta w e-Urzędzie Skarbowym. Art. 45ce. 1. W przypadku stwierdzenia przez organ podatkowy, że złożone zeznanie zawiera błędy lub oczywiste omyłki powstałe z winy organu podatkowego, organ podatkowy koryguje zeznanie, dokonując stosownych poprawek lub uzupełnień. Przepisy art. 274 § 2–4 i 6 Ordynacji podatkowej stosuje się odpowiednio.
+6. Akceptacji i odrzucenia udostępnionego zeznania lub informacji oraz akceptacji zmian wprowadzonych do złożonego zeznania lub informacji podatnik dokonuje za pośrednictwem konta w e-Urzędzie Skarbowym. Jeżeli podatnik nie dokona akceptacji udostępnionego zeznania lub informacji przed upływem terminu określonego na ich złożenie albo je odrzuci przed tym terminem, składa zeznanie lub informację bez pośrednictwa konta w e-Urzędzie Skarbowym.
+
+**Art. 45ce.**
+
+1. W przypadku stwierdzenia przez organ podatkowy, że złożone zeznanie zawiera błędy lub oczywiste omyłki powstałe z winy organu podatkowego, organ podatkowy koryguje zeznanie, dokonując stosownych poprawek lub uzupełnień. Przepisy art. 274 § 2–4 i 6 Ordynacji podatkowej stosuje się odpowiednio.
 
 2. Od zaległości związanych z korektą zeznania, o której mowa w ust. 1, nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia upływu terminu do wniesienia sprzeciwu, o którym mowa w art. 274 § 3 Ordynacji podatkowej.
 
-3. W przypadku gdy przed dokonaniem korekty zeznania przez organ podatkowy podatnik skoryguje zeznanie w zakresie, o którym mowa w ust. 1, od zaległości związanych z korektą zeznania nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia złożenia korekty. Art. 45cf. 1. W przypadku braku wpłaty różnicy, o której mowa w art. 45 ust. 4 pkt 1 i 2, przez podatnika, o którym mowa w art. 45cd ust. 4, organ podatkowy w terminie miesiąca od dnia upływu terminu płatności informuje podatnika o obowiązku jej wpłaty w terminie 7 dni od dnia doręczenia tej informacji.
+3. W przypadku gdy przed dokonaniem korekty zeznania przez organ podatkowy podatnik skoryguje zeznanie w zakresie, o którym mowa w ust. 1, od zaległości związanych z korektą zeznania nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia złożenia korekty.
+
+**Art. 45cf.**
+
+1. W przypadku braku wpłaty różnicy, o której mowa w art. 45 ust. 4 pkt 1 i 2, przez podatnika, o którym mowa w art. 45cd ust. 4, organ podatkowy w terminie miesiąca od dnia upływu terminu płatności informuje podatnika o obowiązku jej wpłaty w terminie 7 dni od dnia doręczenia tej informacji.
 
 1a. Informacja, o której mowa w ust. 1, może, zamiast podpisu osoby upoważnionej do jej wydania, zawierać podpis mechanicznie odtwarzany tej osoby lub nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do jej wydania.
 
@@ -5591,6 +5739,8 @@ Art. 46–51. (pominięte)
 **Art. 45d.** (uchylony)
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
+
+**Art. 46–51.** (pominięte)
 
 #### Rozdział 10 Przepisy epizodyczne, przejściowe i końcowe
 
@@ -5682,7 +5832,12 @@ Art. 46–51. (pominięte)
 7. Użyte w niniejszym artykule określenie:
 
 - **1)** apteka ogólnodostępna – oznacza aptekę ogólnodostępną w rozumieniu art. 87 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne;
-- **2)** punkt apteczny – oznacza punkt apteczny w rozumieniu art. 70 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne. Art. 52ja. 1. Podatnik może od dochodu z pozarolniczej działalności gospodarczej lub dochodu z działów specjalnych produkcji rolnej, ustalonego za 2021 r. zgodnie z art. 9, art. 23m–23u, art. 24 ust. 1–2b i 3b–3e lub art. 24b ust. 1 i 2, odliczyć poniesione w tym roku:
+- **2)** punkt apteczny – oznacza punkt apteczny w rozumieniu art. 70 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
+
+**Art. 52ja.**
+
+1. Podatnik może od dochodu z pozarolniczej działalności gospodarczej lub dochodu z działów specjalnych produkcji rolnej, ustalonego za 2021 r. zgodnie z art. 9, art. 23m–23u, art. 24 ust. 1–2b i 3b–3e lub art. 24b ust. 1 i 2, odliczyć poniesione w tym roku:
+
 - **1)** wydatki na nabycie zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego,
 - **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2021 r. poz. 1376 i 1595),
 - **3)** opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania – pomniejszone o podatek od towarów i usług.
@@ -5703,7 +5858,11 @@ Art. 46–51. (pominięte)
 
 - **1)** opłata elektroniczna – oznacza opłatę elektroniczną, o której mowa w art. 13ha ustawy z dnia 21 marca 1985 r. o drogach publicznych;
 - **2)** urządzenie pokładowe – oznacza urządzenie pokładowe, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywane do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS;
-- **3)** zewnętrzny system lokalizacyjny – oznacza zewnętrzny system lokalizacyjny, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywany do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS. Art. 52jb. 1. Podatnik prowadzący pozarolniczą działalność gospodarczą może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50 % kosztów uzyskania przychodów poniesionych w roku podatkowym na robotyzację, przy czym kwota odliczenia nie może przekraczać kwoty dochodu uzyskanego przez podatnika w roku podatkowym z pozarolniczej działalności gospodarczej.
+- **3)** zewnętrzny system lokalizacyjny – oznacza zewnętrzny system lokalizacyjny, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywany do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS.
+
+**Art. 52jb.**
+
+1. Podatnik prowadzący pozarolniczą działalność gospodarczą może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50 % kosztów uzyskania przychodów poniesionych w roku podatkowym na robotyzację, przy czym kwota odliczenia nie może przekraczać kwoty dochodu uzyskanego przez podatnika w roku podatkowym z pozarolniczej działalności gospodarczej.
 
 2. Za koszty uzyskania przychodów poniesione na robotyzację uznaje się:
 
@@ -5754,7 +5913,9 @@ Art. 46–51. (pominięte)
 
 7. Podatnik korzystający z odliczenia składa w terminie złożenia zeznania, w którym dokonuje tego odliczenia, informację, według ustalonego wzoru, zawierającą wykaz poniesionych kosztów podlegających odliczeniu.
 
-8. W zakresie nieuregulowanym w ust. 1–7 do odliczenia kosztów uzyskania przychodów poniesionych na robotyzację stosuje się odpowiednio przepisy art. 26e ust. 3k, 5, 6, ust. 8 zdanie pierwsze i drugie i ust. 10 oraz art. 26g. Art. 52jc. Zwalnia się od podatku dochodowego dodatek osłonowy, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o dodatku osłonowym, dodatek węglowy, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o dodatku węglowym, dodatek dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła i dodatek dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystywania niektórych źródeł ciepła, o których mowa w ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, dodatek elektryczny, o którym mowa w ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej, refundację kwoty odpowiadającej podatkowi VAT, o której mowa w ustawie z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu, bon energetyczny, o którym mowa w ustawie z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego, oraz bon ciepłowniczy, o którym mowa w ustawie z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej.
+8. W zakresie nieuregulowanym w ust. 1–7 do odliczenia kosztów uzyskania przychodów poniesionych na robotyzację stosuje się odpowiednio przepisy art. 26e ust. 3k, 5, 6, ust. 8 zdanie pierwsze i drugie i ust. 10 oraz art. 26g.
+
+**Art. 52jc.** Zwalnia się od podatku dochodowego dodatek osłonowy, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o dodatku osłonowym, dodatek węglowy, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o dodatku węglowym, dodatek dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła i dodatek dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystywania niektórych źródeł ciepła, o których mowa w ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, dodatek elektryczny, o którym mowa w ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej, refundację kwoty odpowiadającej podatkowi VAT, o której mowa w ustawie z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu, bon energetyczny, o którym mowa w ustawie z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego, oraz bon ciepłowniczy, o którym mowa w ustawie z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej.
 
 **Art. 52k.**
 
@@ -5818,7 +5979,9 @@ Art. 46–51. (pominięte)
 
 2. Przepis ust. 1 stosuje się odpowiednio do płatników, o których mowa w art. 41 ust. 1 i 4, dokonujących świadczeń z tytułu działalności wykonywanej osobiście, o której mowa w art. 13 pkt 8 oraz z tytułu praw autorskich i praw pokrewnych.
 
-**Art. 52p.** (uchylony) Art. 52pa. Zwalnia się z podatku od przychodów z budynków przychody podlegające opodatkowaniu na podstawie art. 30g, ustalone za okres:
+**Art. 52p.** (uchylony)
+
+**Art. 52pa.** Zwalnia się z podatku od przychodów z budynków przychody podlegające opodatkowaniu na podstawie art. 30g, ustalone za okres:
 
 - **1)** od dnia 1 marca 2020 r. do dnia 31 grudnia 2020 r.;
 - **2)** od dnia 1 stycznia 2021 r. do końca miesiąca, w którym stan epidemii został odwołany – w przypadku obowiązywania po dniu 31 grudnia 2020 r. stanu epidemii ogłoszonego z powodu COVID-19.
@@ -5874,7 +6037,15 @@ Art. 46–51. (pominięte)
 
 3. Przepis ust. 1 stosuje się również w przypadku, gdy podatnik nie posiada kwalifikowanego prawa własności intelektualnej ani ekspektatywy uzyskania kwalifikowanego prawa, pod warunkiem zgłoszenia lub złożenia wniosku o uzyskanie takiego prawa ochronnego do właściwego organu, w terminie 6 miesięcy, licząc od końca miesiąca, za który przy obliczaniu zaliczki na podatek zastosował 5 % stawkę podatku.
 
-4. Przepisy art. 30ca stosuje się odpowiednio. Art. 52ua. Zwalnia się od podatku dochodowego kwoty dodatku solidarnościowego, o którym mowa w ustawie z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19 (Dz. U. z 2022 r. poz. 93). Art. 52ub. Zwalnia się od podatku dochodowego kwotę jednorazowego świadczenia pieniężnego, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o jednorazowym świadczeniu pieniężnym dla działaczy opozycji antykomunistycznej oraz osób represjonowanych z powodów politycznych (Dz. U. poz. 2430). Art. 52uc. Zwalnia się od podatku dochodowego kwotę dodatkowego świadczenia, o której mowa w ustawie z dnia 26 maja 2022 r. o kolejnym w 2022 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1358). Art. 52ud. Zwalnia się od podatku dochodowego kwotę jednorazowego świadczenia pieniężnego za określony miesiąc przeznaczonego na ograniczenie niektórych skutków ekonomicznych związanych z sytuacją ekologiczną na rzece Odrze, o którym mowa w ustawie z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze (Dz. U. poz. 2014 i 2015).
+4. Przepisy art. 30ca stosuje się odpowiednio.
+
+**Art. 52ua.** Zwalnia się od podatku dochodowego kwoty dodatku solidarnościowego, o którym mowa w ustawie z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19 (Dz. U. z 2022 r. poz. 93).
+
+**Art. 52ub.** Zwalnia się od podatku dochodowego kwotę jednorazowego świadczenia pieniężnego, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o jednorazowym świadczeniu pieniężnym dla działaczy opozycji antykomunistycznej oraz osób represjonowanych z powodów politycznych (Dz. U. poz. 2430).
+
+**Art. 52uc.** Zwalnia się od podatku dochodowego kwotę dodatkowego świadczenia, o której mowa w ustawie z dnia 26 maja 2022 r. o kolejnym w 2022 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1358).
+
+**Art. 52ud.** Zwalnia się od podatku dochodowego kwotę jednorazowego świadczenia pieniężnego za określony miesiąc przeznaczonego na ograniczenie niektórych skutków ekonomicznych związanych z sytuacją ekologiczną na rzece Odrze, o którym mowa w ustawie z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze (Dz. U. poz. 2014 i 2015).
 
 **Art. 52v.**
 
@@ -5887,7 +6058,11 @@ Art. 46–51. (pominięte)
 
 3. Jeżeli podatnik, któremu organ rentowy przekazał roczne obliczenie podatku będącego podatkiem należnym za 2019 r. na podstawie art. 34 ust. 9, nie złożył wniosku, o którym mowa w ust. 1, organ podatkowy przekazuje kwotę w wysokości 1 % tego podatku organizacji pożytku publicznego, którą podatnik wskazał we wniosku zawartym w zeznaniu, o którym mowa w art. 45 ust. 1, korekcie tego zeznania, albo w oświadczeniu, o którym mowa w art. 45c ust. 3a, złożonych za 2018 r.
 
-4. Przekazanie kwoty w wysokości 1 % podatku należnego, o którym mowa w ust. 1, następuje na podstawie oświadczenia, o którym mowa w art. 45c ust. 3a, sporządzonego za 2019 r. przez organ podatkowy za pośrednictwem portalu podatkowego. Przepisy art. 45c stosuje się odpowiednio. Art. 52va. 1. Jeżeli do końca miesiąca poprzedzającego miesiąc, w którym upływa termin do złożenia zeznania podatkowego za rok podatkowy, nie zostanie odwołany stan epidemii ogłoszony z powodu COVID-19, przekazanie kwoty w wysokości nieprzekraczającej 1 % podatku należnego następuje również w przypadku, gdy wniosek, o którym mowa w art. 45c ust. 3 i 3a, zostanie złożony po terminie do jego złożenia, niepóźniej jednak niż do końca miesiąca następującego po miesiącu, w którym upływa termin do złożenia zeznania podatkowego, złożenia korekty tego zeznania albo złożenia oświadczenia, określony odpowiednio w art. 45c ust. 1 pkt 1 albo 2 albo ust. 3a zdaniu drugim.
+4. Przekazanie kwoty w wysokości 1 % podatku należnego, o którym mowa w ust. 1, następuje na podstawie oświadczenia, o którym mowa w art. 45c ust. 3a, sporządzonego za 2019 r. przez organ podatkowy za pośrednictwem portalu podatkowego. Przepisy art. 45c stosuje się odpowiednio.
+
+**Art. 52va.**
+
+1. Jeżeli do końca miesiąca poprzedzającego miesiąc, w którym upływa termin do złożenia zeznania podatkowego za rok podatkowy, nie zostanie odwołany stan epidemii ogłoszony z powodu COVID-19, przekazanie kwoty w wysokości nieprzekraczającej 1 % podatku należnego następuje również w przypadku, gdy wniosek, o którym mowa w art. 45c ust. 3 i 3a, zostanie złożony po terminie do jego złożenia, niepóźniej jednak niż do końca miesiąca następującego po miesiącu, w którym upływa termin do złożenia zeznania podatkowego, złożenia korekty tego zeznania albo złożenia oświadczenia, określony odpowiednio w art. 45c ust. 1 pkt 1 albo 2 albo ust. 3a zdaniu drugim.
 
 2. (uchylony)
 
@@ -5951,9 +6126,25 @@ Art. 46–51. (pominięte)
 2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19, realizowanego w okresie od dnia 1 stycznia 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, na rzecz:
 
 - **1)** podmiotów wymienionych w art. 52n ust. 1,
-- **2)** podmiotów lub jednostek, do których zadań ustawowych należy przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19 – o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne. Art. 52za. 1. Do przychodów z pozarolniczej działalności gospodarczej nie zalicza się wartości otrzymanych od dnia 1 stycznia 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, darowizn, o których mowa w art. 52n i art. 52x, przez podatników, o których mowa w art. 52n ust. 1 i art. 52x ust. 1.
+- **2)** podmiotów lub jednostek, do których zadań ustawowych należy przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19 – o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
-2. Do przychodów nie zalicza się wartości nieodpłatnych świadczeń otrzymanych do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, przez podatników, o których mowa w art. 52n ust. 1 oraz art. 52z ust. 2 pkt 2. Art. 52zb. Przepisu art. 23 ust. 1 pkt 19 nie stosuje się do zapłaconych kar umownych i odszkodowań, jeżeli wada dostarczonych towarów, wykonanych robót i usług oraz zwłoka w dostarczeniu towaru wolnego od wad lub zwłoka w usunięciu wad towarów albo wykonanych robót i usług, powstała w związku ze stanem zagrożenia epidemicznego lub stanem epidemii, ogłoszonego z powodu COVID-19. Art. 52zc. Wolna od podatku dochodowego jest wartość Polskich Bonów Turystycznych otrzymanych na podstawie ustawy z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym (Dz. U. z 2023 r. poz. 35 oraz z 2025 r. poz. 1806). Art. 52zd. Zwalnia się od podatku dochodowego kwoty jednorazowych odpraw pieniężnych, o których mowa w art. 11d ust. 4b i art. 11da ust. 2 ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2024 r. poz. 1383 oraz z 2025 r. poz. 1822). Art. 52ze. Wolna od podatku dochodowego jest wartość świadczenia wynikającego z realizacji prawa do zakupu odbiornika cyfrowego przyznanego na podstawie ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 1399). Art. 52zf. 1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
+**Art. 52za.**
+
+1. Do przychodów z pozarolniczej działalności gospodarczej nie zalicza się wartości otrzymanych od dnia 1 stycznia 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, darowizn, o których mowa w art. 52n i art. 52x, przez podatników, o których mowa w art. 52n ust. 1 i art. 52x ust. 1.
+
+2. Do przychodów nie zalicza się wartości nieodpłatnych świadczeń otrzymanych do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, przez podatników, o których mowa w art. 52n ust. 1 oraz art. 52z ust. 2 pkt 2.
+
+**Art. 52zb.** Przepisu art. 23 ust. 1 pkt 19 nie stosuje się do zapłaconych kar umownych i odszkodowań, jeżeli wada dostarczonych towarów, wykonanych robót i usług oraz zwłoka w dostarczeniu towaru wolnego od wad lub zwłoka w usunięciu wad towarów albo wykonanych robót i usług, powstała w związku ze stanem zagrożenia epidemicznego lub stanem epidemii, ogłoszonego z powodu COVID-19.
+
+**Art. 52zc.** Wolna od podatku dochodowego jest wartość Polskich Bonów Turystycznych otrzymanych na podstawie ustawy z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym (Dz. U. z 2023 r. poz. 35 oraz z 2025 r. poz. 1806).
+
+**Art. 52zd.** Zwalnia się od podatku dochodowego kwoty jednorazowych odpraw pieniężnych, o których mowa w art. 11d ust. 4b i art. 11da ust. 2 ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2024 r. poz. 1383 oraz z 2025 r. poz. 1822).
+
+**Art. 52ze.** Wolna od podatku dochodowego jest wartość świadczenia wynikającego z realizacji prawa do zakupu odbiornika cyfrowego przyznanego na podstawie ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 1399).
+
+**Art. 52zf.**
+
+1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
 
 - **1)** organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, lub równoważnym organizacjom określonym w przepisach regulujących działalność pożytku publicznego obowiązujących na terytorium Ukrainy,
 - **2)** jednostkom samorządu terytorialnego, 2a) wojewodom,
@@ -5962,7 +6153,19 @@ Art. 46–51. (pominięte)
 
 2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
-3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1. Art. 52zg. Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zf, otrzymanych w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. przez podatników, o których mowa w art. 52zf ust. 1. Art. 52zh. Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. przez podatników będących obywatelami Ukrainy, którzy w tym okresie przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej. Art. 52zi. Zwalnia się od podatku dochodowego świadczenie pieniężne, o którym mowa w art. 13 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2024 r. poz. 167, 232, 834 i 854). Art. 52zj. W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych). Art. 52zk. 1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
+3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1.
+
+**Art. 52zg.** Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zf, otrzymanych w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. przez podatników, o których mowa w art. 52zf ust. 1.
+
+**Art. 52zh.** Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. przez podatników będących obywatelami Ukrainy, którzy w tym okresie przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 52zi.** Zwalnia się od podatku dochodowego świadczenie pieniężne, o którym mowa w art. 13 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2024 r. poz. 167, 232, 834 i 854).
+
+**Art. 52zj.** W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych).
+
+**Art. 52zk.**
+
+1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
 
 - **1)** organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, lub równoważnym organizacjom określonym w przepisach regulujących działalność pożytku publicznego obowiązujących na terytorium Ukrainy,
 - **2)** jednostkom samorządu terytorialnego,
@@ -5972,7 +6175,17 @@ Art. 46–51. (pominięte)
 
 2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
-3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1. Art. 52zl. Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zk, otrzymanych w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. przez podatników, o których mowa w art. 52zk ust. 1. Art. 52zm. Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. przez podatników będących obywatelami Ukrainy, którzy po dniu 23 lutego 2022 r. przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej. Art. 52zn. W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych). Art. 52zo. 1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
+3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1.
+
+**Art. 52zl.** Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zk, otrzymanych w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. przez podatników, o których mowa w art. 52zk ust. 1.
+
+**Art. 52zm.** Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. przez podatników będących obywatelami Ukrainy, którzy po dniu 23 lutego 2022 r. przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 52zn.** W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych).
+
+**Art. 52zo.**
+
+1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
 
 - **1)** organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, lub równoważnym organizacjom określonym w przepisach regulujących działalność pożytku publicznego obowiązujących na terytorium Ukrainy,
 - **2)** jednostkom samorządu terytorialnego,
@@ -5982,10 +6195,20 @@ Art. 46–51. (pominięte)
 
 2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
-3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1. Art. 52zp. Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zo, otrzymanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. przez podatników, o których mowa w art. 52zo ust. 1. Art. 52zq. Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. przez podatników będących obywatelami Ukrainy, którzy po dniu 23 lutego 2022 r. przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej. Art. 52zr. W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, w brzmieniu obowiązującym przed dniem 5 marca 2026 r., spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych). Art. 52zs. Zwalnia się od podatku dochodowego równoważnik pieniężny za brak lokalu mieszkalnego, do wysokości nieprzekraczającej w roku podatkowym kwoty 2280 zł, wypłacony funkcjonariuszom:
+3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1.
+
+**Art. 52zp.** Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zo, otrzymanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. przez podatników, o których mowa w art. 52zo ust. 1.
+
+**Art. 52zq.** Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. przez podatników będących obywatelami Ukrainy, którzy po dniu 23 lutego 2022 r. przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 52zr.** W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, w brzmieniu obowiązującym przed dniem 5 marca 2026 r., spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych).
+
+**Art. 52zs.** Zwalnia się od podatku dochodowego równoważnik pieniężny za brak lokalu mieszkalnego, do wysokości nieprzekraczającej w roku podatkowym kwoty 2280 zł, wypłacony funkcjonariuszom:
 
 - **1)** Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Granicznej, Państwowej Straży Pożarnej, od dnia wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (Dz. U. poz. 1366),
-- **2)** Służby Więziennej, od dnia wejścia w życie ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1823) – jeżeli prawo do tego równoważnika wynika z dotychczasowych przepisów określających zasady jego przyznania. Art. 52zt. Zwalnia się od podatku dochodowego równoważnik pieniężny za brak lokalu mieszkalnego wypłacony funkcjonariuszom Służby Ochrony Państwa od dnia wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby, jeżeli prawo do tego równoważnika wynika z dotychczasowych przepisów określających zasady jego przyznania.
+- **2)** Służby Więziennej, od dnia wejścia w życie ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1823) – jeżeli prawo do tego równoważnika wynika z dotychczasowych przepisów określających zasady jego przyznania.
+
+**Art. 52zt.** Zwalnia się od podatku dochodowego równoważnik pieniężny za brak lokalu mieszkalnego wypłacony funkcjonariuszom Służby Ochrony Państwa od dnia wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby, jeżeli prawo do tego równoważnika wynika z dotychczasowych przepisów określających zasady jego przyznania.
 
 **Art. 53.** (uchylony)
 

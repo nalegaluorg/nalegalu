@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o orderach i odznaczeniach oraz zmieniająca ustawę o zmianie ustawy o orderach i odznaczeniach
+# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o orderach i odznaczeniach oraz zmieniająca ustawę o zmianie ustawy o orderach i odznaczeniach
 
 *USTAWA z dnia 19 sierpnia 2011 r.*
 

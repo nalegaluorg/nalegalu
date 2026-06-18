@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach ewidencji i identyfikacji podatników i płatników
+# Ustawa z dnia 5 czerwca 2002 r. o zmianie ustawy o zasadach ewidencji i identyfikacji podatników i płatników.
 
 *USTAWA z dnia 5 czerwca 2002 r.*
 

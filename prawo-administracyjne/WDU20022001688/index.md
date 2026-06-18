@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji, ustawy o administracji rządowej w województwie i ustawy o samorządzie powiatowym
+# Ustawa z dnia 13 listopada 2002 r. o zmianie ustawy o Policji, ustawy o administracji rządowej w województwie i ustawy o samorządzie powiatowym.
 
 *USTAWA z dnia 13 listopada 2002 r.*
 

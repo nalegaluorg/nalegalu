@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o produktach pochodzenia zwierzęcego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 kwietnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o produktach pochodzenia zwierzęcego
 
 *USTAWA z dnia 16 grudnia 2005 r.*
 
@@ -690,7 +690,9 @@ source: pdf
 
 **Art. 29.** Egzekucja wymierzonych kar pieniężnych następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-**Art. 30.** Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy powiatowego inspektoratu weterynarii. Art. 31–35. (pominięte)
+**Art. 30.** Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy powiatowego inspektoratu weterynarii.
+
+**Art. 31–35.** (pominięte)
 
 **Art. 36.** Ilekroć w przepisach w zakresie weterynarii wdrażających lub wykonujących przepisy Unii Europejskiej lub w ustawach dotyczących zdrowia zwierząt, wymagań weterynaryjnych przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym i zwierząt cyrkowych oraz stosowania substancji o działaniu hormonalnym, tyreostatycznym i beta-agonistycznym, a także dotyczących zdrowia lub życia człowieka jest mowa o:
 

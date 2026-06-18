@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin
+# Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin.
 
 *USTAWA z dnia 8 grudnia 2000 r.*
 

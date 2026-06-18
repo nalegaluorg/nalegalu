@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw
+# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw
 
 *USTAWA z dnia 4 lipca 2019 r.*
 
@@ -232,7 +232,12 @@ source: pdf
 § 2. W ponownie wszczętej egzekucji administracyjnej mogą być dochodzone koszty egzekucyjne powstałe w postępowaniu egzekucyjnym umorzonym z przyczyny określonej w art. 59 § 2:
 
 - **1)** na wniosek wierzyciela – jeżeli zostały pokryte przez tego wierzyciela,
-- **2)** z urzędu – jeżeli nie zostały uprzednio umorzone – niezależnie od kosztów egzekucyjnych powstałych w ponownie wszczętym postępowaniu egzekucyjnym. Art. 64cb. § 1. Koszty egzekucyjne z tytułu:
+- **2)** z urzędu – jeżeli nie zostały uprzednio umorzone – niezależnie od kosztów egzekucyjnych powstałych w ponownie wszczętym postępowaniu egzekucyjnym.
+
+**Art. 64cb.**
+
+§ 1. Koszty egzekucyjne z tytułu:
+
 - **1)** opłaty manipulacyjnej w wysokości 40 zł – przypadają na rzecz organu egzekucyjnego, który wszczął postępowanie egzekucyjne, jeżeli nie wszczęto egzekucji administracyjnej;
 - **2)** opłaty manipulacyjnej w wysokości 100 zł – przypadają na rzecz organu egzekucyjnego, który wszczął egzekucję administracyjną;
 - **3)** opłaty egzekucyjnej i opłaty za czynności egzekucyjne – przypadają na rzecz organu egzekucyjnego, który te opłaty wyegzekwował lub uzyskał;
@@ -242,7 +247,13 @@ source: pdf
 
 § 3. Przepisów § 1 i 2 nie stosuje się do rozliczenia kosztów egzekucyjnych, jeżeli organ egzekucyjny dokonujący tego rozliczenia, a także organ egzekucyjny, na rzecz którego przypadają koszty egzekucyjne zgodnie z § 1, działają w ramach państwowej jednostki budżetowej lub są państwowymi jednostkami budżetowymi.
 
-§ 4. Niewyegzekwowane od zobowiązanego koszty egzekucyjne są należne organowi egzekucyjnemu, który wydał w pierwszej instancji postanowienie o umorzeniu postępowania egzekucyjnego. Art. 64cc. Koszty egzekucyjne wyegzekwowane lub uzyskane w postępowaniu egzekucyjnym prowadzonym na podstawie porozumienia, o którym mowa w art. 30 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej lub art. 6qa ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, przypadają na rzecz jednostki samorządu terytorialnego, związku takich jednostek lub zarządu związku międzygminnego, któremu naczelnik urzędu skarbowego powierzył prowadzenie postępowania egzekucyjnego. Przepisy art. 64cb § 1, 2 i 4 stosuje się. Art. 64cd. § 1. Jeżeli po wyegzekwowaniu lub uzyskaniu kosztów egzekucyjnych okaże się, że wszczęcie lub prowadzenie postępowania egzekucyjnego było niezgodne z prawem, w szczególności jeżeli w chwili wyegzekwowania lub uzyskania kosztów egzekucyjnych postępowanie egzekucyjne podlegało umorzeniu, organ egzekucyjny, który zakończył postępowanie egzekucyjne, zwraca zobowiązanemu lub wierzycielowi wyegzekwowane lub uzyskane koszty egzekucyjne wraz z ustawowymi odsetkami naliczonymi od dnia ich wyegzekwowania lub uzyskania do dnia obciążenia rachunku bankowego organu egzekucyjnego przekazywanymi środkami pieniężnymi.
+§ 4. Niewyegzekwowane od zobowiązanego koszty egzekucyjne są należne organowi egzekucyjnemu, który wydał w pierwszej instancji postanowienie o umorzeniu postępowania egzekucyjnego.
+
+**Art. 64cc.** Koszty egzekucyjne wyegzekwowane lub uzyskane w postępowaniu egzekucyjnym prowadzonym na podstawie porozumienia, o którym mowa w art. 30 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej lub art. 6qa ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, przypadają na rzecz jednostki samorządu terytorialnego, związku takich jednostek lub zarządu związku międzygminnego, któremu naczelnik urzędu skarbowego powierzył prowadzenie postępowania egzekucyjnego. Przepisy art. 64cb § 1, 2 i 4 stosuje się.
+
+**Art. 64cd.**
+
+§ 1. Jeżeli po wyegzekwowaniu lub uzyskaniu kosztów egzekucyjnych okaże się, że wszczęcie lub prowadzenie postępowania egzekucyjnego było niezgodne z prawem, w szczególności jeżeli w chwili wyegzekwowania lub uzyskania kosztów egzekucyjnych postępowanie egzekucyjne podlegało umorzeniu, organ egzekucyjny, który zakończył postępowanie egzekucyjne, zwraca zobowiązanemu lub wierzycielowi wyegzekwowane lub uzyskane koszty egzekucyjne wraz z ustawowymi odsetkami naliczonymi od dnia ich wyegzekwowania lub uzyskania do dnia obciążenia rachunku bankowego organu egzekucyjnego przekazywanymi środkami pieniężnymi.
 
 § 2. Nie zwraca się kosztów egzekucyjnych wierzycielowi, jeżeli niezgodne z prawem wszczęcie lub prowadzenie egzekucji administracyjnej spowodował ten wierzyciel.
 
@@ -268,7 +279,10 @@ source: pdf
 § 9. Przepisy § 1–8 stosuje się odpowiednio do kosztów egzekucyjnych:
 
 - **1)** wyegzekwowanych lub uzyskanych w niezgodnej z prawem egzekucji do rzeczy lub prawa majątkowego;
-- **2)** zapłaconych przez podmiot, o którym mowa w [art. 71d § 1 pkt 1 i 2] <art. 71ca § 1 pkt 1, 2 i 4>. Art. 64ce. W przypadku wyegzekwowania od zobowiązanego w ponownie wszczętej egzekucji administracyjnej kosztów egzekucyjnych pokrytych przez wierzyciela po umorzeniu postępowania egzekucyjnego z przyczyny określonej w art. 59 § 2, koszty te podlegają niezwłocznie zwrotowi temu wierzycielowi. Przepisu art. 64cd nie stosuje się.”;
+- **2)** zapłaconych przez podmiot, o którym mowa w [art. 71d § 1 pkt 1 i 2] <art. 71ca § 1 pkt 1, 2 i 4>.
+
+**Art. 64ce.** W przypadku wyegzekwowania od zobowiązanego w ponownie wszczętej egzekucji administracyjnej kosztów egzekucyjnych pokrytych przez wierzyciela po umorzeniu postępowania egzekucyjnego z przyczyny określonej w art. 59 § 2, koszty te podlegają niezwłocznie zwrotowi temu wierzycielowi. Przepisu art. 64cd nie stosuje się.”;
+
 - **25)** uchyla się art. 64d;
 - **26)** art. 64e i art. 64f otrzymują brzmienie: „Art. 64e. § 1. Organ egzekucyjny prowadzący postępowanie egzekucyjne może umorzyć w całości lub w części koszty egzekucyjne.
 

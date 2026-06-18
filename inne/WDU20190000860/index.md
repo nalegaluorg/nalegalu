@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przedkładaniu niektórych dokumentów urzędowych w państwach członkowskich Unii Europejskiej
+# Ustawa z dnia 4 kwietnia 2019 r. o przedkładaniu niektórych dokumentów urzędowych w państwach członkowskich Unii Europejskiej
 
 *USTAWA z dnia 4 kwietnia 2019 r.*
 

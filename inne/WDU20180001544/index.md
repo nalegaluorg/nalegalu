@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o usługach zaufania oraz identyfikacji elektronicznej oraz niektórych innych ustaw
+# Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o usługach zaufania oraz identyfikacji elektronicznej oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 lipca 2018 r.*
 
@@ -664,12 +664,18 @@ source: pdf
 
 - **10)** po art. 20a dodaje się art. 20aa–20ae w brzmieniu: „Art. 20aa. Minister właściwy do spraw informatyzacji odpowiada za funkcjonowanie systemu teleinformatycznego, który:
 - **1)** zapewnia obsługę publicznego systemu identyfikacji elektronicznej, w którym wydawany jest profil zaufany;
-- **2)** umożliwia podmiotom publicznym: Art. 20ab. Minister właściwy do spraw informatyzacji:
+- **2)** umożliwia podmiotom publicznym:
     - **a)** uwierzytelnienie osoby fizycznej przy użyciu środka identyfikacji elektronicznej, o którym mowa w pkt 1,
     - **b)** zapewnienie osobie fizycznej możliwości opatrzenia dokumentu elektronicznego podpisem zaufanym.
 
+**Art. 20ab.** Minister właściwy do spraw informatyzacji:
+
 - **1)** zarządza publicznym systemem identyfikacji elektronicznej;
-- **2)** zapisuje i zachowuje informacje związane z zapewnieniem rozliczalności i niezaprzeczalności działań użytkownika korzystającego ze środka identyfikacji elektronicznej wydanego w publicznym systemie identyfikacji elektronicznej. Art. 20ac. 1. Minister właściwy do spraw informatyzacji jest administratorem danych przetwarzanych w systemie, o którym mowa w art. 20aa.
+- **2)** zapisuje i zachowuje informacje związane z zapewnieniem rozliczalności i niezaprzeczalności działań użytkownika korzystającego ze środka identyfikacji elektronicznej wydanego w publicznym systemie identyfikacji elektronicznej.
+
+**Art. 20ac.**
+
+1. Minister właściwy do spraw informatyzacji jest administratorem danych przetwarzanych w systemie, o którym mowa w art. 20aa.
 
 2. W systemie przetwarza się następujące dane:
 
@@ -694,7 +700,12 @@ source: pdf
 
 - **1)** imię (imiona);
 - **2)** nazwisko;
-- **3)** numer PESEL. Art. 20ad. 1. Profil zaufany zawiera dane identyfikujące osobę fizyczną obejmujące:
+- **3)** numer PESEL.
+
+**Art. 20ad.**
+
+1. Profil zaufany zawiera dane identyfikujące osobę fizyczną obejmujące:
+
 - **1)** imię (imiona);
 - **2)** nazwisko;
 - **3)** datę urodzenia;
@@ -706,7 +717,11 @@ source: pdf
 
 4. Aktualizacja danych zawartych w profilu zaufanym, o której mowa w ust. 3, nie powoduje unieważnienia profilu zaufanego.
 
-5. Profil zaufany może zawierać inne dane niż wymienione w ust. 1, w szczególności identyfikator oraz dane wykorzystywane w procesach uwierzytelniania i autoryzacji realizowanych przy użyciu profilu zaufanego. Art. 20ae. 1. Podpis zaufany wywołuje skutki prawne, jeżeli został utworzony lub złożony w okresie ważności środka identyfikacji elektronicznej, o którym mowa w art. 20aa pkt 1.
+5. Profil zaufany może zawierać inne dane niż wymienione w ust. 1, w szczególności identyfikator oraz dane wykorzystywane w procesach uwierzytelniania i autoryzacji realizowanych przy użyciu profilu zaufanego.
+
+**Art. 20ae.**
+
+1. Podpis zaufany wywołuje skutki prawne, jeżeli został utworzony lub złożony w okresie ważności środka identyfikacji elektronicznej, o którym mowa w art. 20aa pkt 1.
 
 2. Dane w postaci elektronicznej opatrzone podpisem zaufanym są równoważne pod względem skutków prawnych dokumentowi opatrzonemu podpisem własnoręcznym, chyba że przepisy odrębne stanowią inaczej.
 

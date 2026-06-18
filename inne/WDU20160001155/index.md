@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podatku od sprzedaży detalicznej
+# Ustawa z dnia 6 lipca 2016 r. o podatku od sprzedaży detalicznej
 
 *USTAWA z dnia 6 lipca 2016 r.*
 

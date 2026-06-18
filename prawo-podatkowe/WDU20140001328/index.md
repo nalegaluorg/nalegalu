@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw
+# Ustawa z dnia 29 sierpnia 2014 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 29 sierpnia 2014 r.*
 

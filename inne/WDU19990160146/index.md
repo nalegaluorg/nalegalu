@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie upoważnienia Państwowej Agencji Radiokomunikacyjnej do wydawania zezwoleń, przydzielania częstotliwości oraz dokonywania innych czynności w zakresie telekomunikacji.
+# Rozporządzenie Ministra Łączności z dnia 16 lutego 1999 r. w sprawie upoważnienia Państwowej Agencji Radiokomunikacyjnej do wydawania zezwoleń, przydzielania częstotliwości oraz dokonywania innych czynności w zakresie telekomunikacji.
 
 | Pole | Wartość |
 |---|---|

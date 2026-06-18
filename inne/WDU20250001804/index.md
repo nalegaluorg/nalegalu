@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ustaw
+# Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ust
 
 *USTAWA z dnia 21 listopada 2025 r.*
 

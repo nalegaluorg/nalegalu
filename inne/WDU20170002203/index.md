@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowaniu zadań oświatowych
+# Ustawa z dnia 27 października 2017 r. o finansowaniu zadań oświatowych
 
 *USTAWA z dnia 27 października 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2017-11-29 |
 | Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2203/text.pdf) |
-
-Art. 76–88. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1240,7 +1238,11 @@ Art. 76–88. (pominięte)
 
 - **1)** realizacją programów inwestycyjnych, o których mowa w art. 90x ustawy o systemie oświaty;
 - **2)** zakupem nieruchomości oraz budową lub dostosowaniem obiektów, niezbędnych dla rozwoju przedszkoli, szkół lub placówek;
-- **3)** wyposażeniem przedszkoli, szkół lub placówek. Art. 75aa. 1. Do udzielania dotacji celowej, o której mowa w art. 75a, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+- **3)** wyposażeniem przedszkoli, szkół lub placówek.
+
+**Art. 75aa.**
+
+1. Do udzielania dotacji celowej, o której mowa w art. 75a, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 2. Zatwierdzenie rozliczenia dotacji celowej, o której mowa w art. 75a, w zakresie rzeczowym i finansowym, przedstawionego przez obowiązany do tego podmiot, następuje w terminie 60 dni od dnia jego przedstawienia.
 
@@ -1253,6 +1255,8 @@ Art. 76–88. (pominięte)
 - **3)** sposób rozliczenia udzielonej dotacji celowej, o której mowa w art. 75a – mając na uwadze konieczność zapewnienia jednolitości danych przekazywanych na potrzeby przyznawania i rozliczania tej dotacji.
 
 #### Rozdział 11 Zmiany w przepisach
+
+**Art. 76–88.** (pominięte)
 
 #### Rozdział 12 Przepisy przejściowe i końcowe
 

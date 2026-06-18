@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty oraz ustawy o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
+# Ustawa z dnia 27 lipca 2012 r. o zmianie ustawy o systemie oświaty oraz ustawy o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
 
 *USTAWA z dnia 27 lipca 2012 r.*
 

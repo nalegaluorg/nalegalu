@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
+# Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
 
 *USTAWA z dnia 5 grudnia 2008 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2008-12-30 |
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341570) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1570/text.pdf) |
-
-Art. 55–63. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1467,7 +1465,11 @@ Art. 55–63. (pominięte)
 - **10)** nakaz lub zakaz przebywania w określonych miejscach i obiektach oraz na określonych obszarach;
 - **11)** zakaz opuszczania strefy zero przez osoby chore i podejrzane o zachorowanie;
 - **12)** nakaz określonego sposobu przemieszczania się;
-- **13)** nakaz zakrywania ust i nosa, w określonych okolicznościach, miejscach i obiektach oraz na określonych obszarach, wraz ze sposobem realizacji tego nakazu. Art. 46ba. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, minister właściwy do spraw zdrowia może określić, w drodze rozporządzenia, uproszczone rodzaje i zakres dokumentacji medycznej, uproszczony sposób jej przetwarzania oraz skrócony okres przechowywania, obowiązujące od dnia ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, uwzględniając konieczność szybkiego i skutecznego podejmowania działań zapobiegających szerzeniu się epidemii oraz ochrony danych i informacji dotyczących stanu zdrowia pacjenta. Art. 46bb. Nieprzestrzeganie obowiązku, o którym mowa w art. 46b pkt 13, stanowi uzasadnioną przyczynę odmowy sprzedaży, o której mowa w art. 135 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734).
+- **13)** nakaz zakrywania ust i nosa, w określonych okolicznościach, miejscach i obiektach oraz na określonych obszarach, wraz ze sposobem realizacji tego nakazu.
+
+**Art. 46ba.** W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, minister właściwy do spraw zdrowia może określić, w drodze rozporządzenia, uproszczone rodzaje i zakres dokumentacji medycznej, uproszczony sposób jej przetwarzania oraz skrócony okres przechowywania, obowiązujące od dnia ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, uwzględniając konieczność szybkiego i skutecznego podejmowania działań zapobiegających szerzeniu się epidemii oraz ochrony danych i informacji dotyczących stanu zdrowia pacjenta.
+
+**Art. 46bb.** Nieprzestrzeganie obowiązku, o którym mowa w art. 46b pkt 13, stanowi uzasadnioną przyczynę odmowy sprzedaży, o której mowa w art. 135 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734).
 
 **Art. 46c.**
 
@@ -1764,6 +1766,8 @@ Art. 55–63. (pominięte)
 **Art. 54a.** W stanie zagrożenia epidemicznego lub stanie epidemii uprawnienie do nakładania grzywien w drodze mandatu karnego za wykroczenia, o których mowa w art. 116 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, przysługuje funkcjonariuszom organów, którzy na mocy przepisów odrębnych są uprawnieni do nakładania grzywien w postępowaniu mandatowym.
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 55–63.** (pominięte)
 
 **Art. 64.** Ilekroć w obowiązujących przepisach jest mowa o ustawie o chorobach zakaźnych i zakażeniach, należy przez to rozumieć niniejszą ustawę.
 

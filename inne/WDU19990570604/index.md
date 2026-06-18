@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie organów inspekcyjnych dla jednostek pływających Straży Granicznej i Policji oraz trybu przeprowadzania przeglądów i inspekcji, a także ich rodzajów.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 8 czerwca 1999 r. w sprawie organów inspekcyjnych dla jednostek pływających Straży Granicznej i Policji oraz trybu przeprowadzania
 
 | Pole | Wartość |
 |---|---|

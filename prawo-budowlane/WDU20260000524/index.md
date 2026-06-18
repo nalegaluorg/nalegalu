@@ -3274,7 +3274,11 @@ source: pdf
 - **1)** badają prawidłowość postępowania administracyjnego przed organami administracji architektoniczno-budowlanej oraz wydawanych w jego toku decyzji i postanowień;
 - **2)** sprawdzają wykonywanie obowiązków wynikających z decyzji i postanowień wydanych na podstawie przepisów prawa budowlanego.
 
-3. Wykonując kontrolę, o której mowa w art. 84 ust. 1 pkt 1, organ nadzoru budowlanego kontroluje również spełnianie przez podmiot kontrolowany obowiązków, o których mowa w art. 23r ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz może kontrolować spełnianie przez podmiot kontrolowany obowiązku, o którym mowa w art. 23r ust. 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne. Art. 84aa. 1. W związku z przetwarzaniem przez organy administracji architektoniczno-budowlanej i organy nadzoru budowlanego danych osobowych w toku realizacji zadań określonych w ustawie prawo, o którym mowa w art. 15 ust. 1 lit. g rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), przysługuje w zakresie, w jakim nie ma wpływu na ochronę praw i wolności osoby, od której dane pozyskano.
+3. Wykonując kontrolę, o której mowa w art. 84 ust. 1 pkt 1, organ nadzoru budowlanego kontroluje również spełnianie przez podmiot kontrolowany obowiązków, o których mowa w art. 23r ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz może kontrolować spełnianie przez podmiot kontrolowany obowiązku, o którym mowa w art. 23r ust. 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
+
+**Art. 84aa.**
+
+1. W związku z przetwarzaniem przez organy administracji architektoniczno-budowlanej i organy nadzoru budowlanego danych osobowych w toku realizacji zadań określonych w ustawie prawo, o którym mowa w art. 15 ust. 1 lit. g rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), przysługuje w zakresie, w jakim nie ma wpływu na ochronę praw i wolności osoby, od której dane pozyskano.
 
 2. Organy administracji architektoniczno-budowlanej informują o ograniczeniu, o którym mowa w ust. 1, odpowiednio przy pierwszej czynności skierowanej do osoby, której dane dotyczą, lub w trybie określonym w art. 49 Kodeksu postępowania administracyjnego.
 
@@ -3285,7 +3289,10 @@ source: pdf
 5. Dane osobowe, o których mowa w ust. 1, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazaniu polegającym co najmniej na:
 
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających upoważnienie wydane przez administratora danych;
-- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy. Art. 84ab. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), nie wpływa na:
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy.
+
+**Art. 84ab.** Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), nie wpływa na:
+
 - **1)** prowadzenie rejestrów i ewidencji, o których mowa w art. 82b ust. 1 i 1a, art. 84 ust. 2 pkt 2–4 i art. 88a ust. 1 pkt 3;
 - **2)** przebieg i wynik postępowań, o których mowa w art. 97 ust. 1;
 - **3)** czynności związane z kontrolą przestrzegania i stosowania przepisów prawa budowlanego.

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy budowli, obiektów i urządzeń użyteczności publicznej
+# Ustawa z dnia 22 czerwca 2017 r. o zmianie ustawy o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy budowli, obiektów i urządzeń użyteczności publicznej
 
 *USTAWA z dnia 22 czerwca 2017 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Uniwersytetu Rzeszowskiego
+# Ustawa z dnia 7 czerwca 2001 r. o utworzeniu Uniwersytetu Rzeszowskiego.
 
 *USTAWA z dnia 7 czerwca 2001 r.*
 

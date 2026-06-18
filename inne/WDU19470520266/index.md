@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o upamiętnieniu męczeństwa Narodu Polskiego i innych Narodów na Majdanku
+# Ustawa z dnia 2 lipca 1947 r. o upamiętnieniu męczeństwa Narodu Polskiego i innych Narodów na Majdanku.
 
 *USTAWA z dnia 2 lipca 1947 r.*
 

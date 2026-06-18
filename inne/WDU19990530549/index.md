@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o broni i amunicji
+# Ustawa z dnia 21 maja 1999 r. o broni i amunicji.
 
 *USTAWA z dnia 21 maja 1999 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowym Rejestrze Karnym
+# Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o Krajowym Rejestrze Karnym
 
 *USTAWA z dnia 24 sierpnia 2007 r.*
 

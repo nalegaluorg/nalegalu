@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie i uchyleniu niektórych upoważnień do wydawania aktów wykonawczych z zakresu ochrony środowiska i gospodarki wodnej
+# Ustawa z dnia 24 sierpnia 2007 r. o zmianie i uchyleniu niektórych upoważnień do wydania aktów wykonawczych z zakresu ochrony środowiska i gospodarki wodnej
 
 *USTAWA z dnia 24 sierpnia 2007 r.*
 

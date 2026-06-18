@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie
+# Ustawa z dnia 5 września 2008 r. o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie
 
 *USTAWA z dnia 5 września 2008 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich
 
 *USTAWA z dnia 13 maja 2016 r.*
 

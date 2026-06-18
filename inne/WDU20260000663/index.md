@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o lasach
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o lasach
 
 | Pole | Wartość |
 |---|---|
@@ -31,7 +31,6 @@ oraz zmian wprowadzonych ustawą z dnia 21 listopada 2025 r. o zdrowiu zwierząt
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 28 września 1991 r.
 o lasach
-Art. 67–73. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1215,6 +1214,8 @@ Art. 67–73. (pominięte)
 - **4)** szacunkową wartość drewna i produktów z drewna.
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 67–73.** (pominięte)
 
 **Art. 74.**
 

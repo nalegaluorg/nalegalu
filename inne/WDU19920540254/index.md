@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego
+# Ustawa z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego
 
 *USTAWA z dnia 20 czerwca 1992 r.*
 

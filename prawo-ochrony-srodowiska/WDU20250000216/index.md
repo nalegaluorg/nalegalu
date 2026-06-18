@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę – Prawo wodne oraz ustawę o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw
+# Ustawa z dnia 24 stycznia 2025 r. zmieniająca ustawę - Prawo wodne oraz ustawę o zmianie ustawy - Prawo wodne oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 stycznia 2025 r.*
 

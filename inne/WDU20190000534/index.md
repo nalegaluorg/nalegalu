@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Sieci Badawczej Łukasiewicz
+# Ustawa z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz
 
 *USTAWA z dnia 21 lutego 2019 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-03-21 |
 | Ostatnia zmiana | 2026-02-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000534) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/534/text.pdf) |
-
-Art. 70–97. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1273,6 +1271,8 @@ Art. 70–97. (pominięte)
 6. Prezes zamieszcza, na stronie podmiotowej Centrum Łukasiewicz w BIP, roczną informację o umorzeniach należności finansowych wynikających z rozliczenia dotacji, o których mowa w art. 63 ust. 2 pkt 3, zawierającą wykaz instytutów Sieci wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia, do końca miesiąca następującego po zakończeniu kwartału.
 
 #### Rozdział 10 Zmiany w przepisach
+
+**Art. 70–97.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i dostosowujące oraz przepis końcowy
 

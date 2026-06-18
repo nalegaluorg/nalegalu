@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rentach strukturalnych w rolnictwie
+# Ustawa z dnia 26 kwietnia 2001 r. o rentach strukturalnych w rolnictwie.
 
 *USTAWA z dnia 26 kwietnia 2001 r.*
 

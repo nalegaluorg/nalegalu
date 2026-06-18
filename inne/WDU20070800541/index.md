@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie roślin oraz niektórych innych ustaw
+# Ustawa z dnia 30 marca 2007 r. o zmianie ustawy o ochronie roślin oraz niektórych innych ustaw
 
 *USTAWA z dnia 30 marca 2007 r.*
 

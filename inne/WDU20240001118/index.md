@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o utracie mocy prawnej niektórych ksiąg wieczystych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o utracie mocy prawnej niektórych ksiąg wieczystych
 
 | Pole | Wartość |
 |---|---|

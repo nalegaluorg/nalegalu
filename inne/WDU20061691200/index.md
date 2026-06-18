@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie monitorowania i kontrolowania jakości paliw
+# Ustawa z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw
 
 *USTAWA z dnia 25 sierpnia 2006 r.*
 
@@ -343,7 +343,11 @@ source: pdf
 
 1. Dystrybutory używane na stacjach paliwowych do paliw ciekłych zawierających dodatki metaliczne należy oznakować, umieszczając na nich widoczną i czytelną informację o następującej treści: „Zawiera dodatki metaliczne”.
 
-2. Wymóg oznakowania dystrybutorów, o którym mowa w ust. 1, dotyczy także dystrybutorów używanych na stacjach zakładowych. Art. 9ca. 1. Przedsiębiorcy wykonujący działalność gospodarczą w zakresie wprowadzania do obrotu paliw ciekłych na stacjach paliwowych oraz stacjach zakładowych są obowiązani do oznakowania pistoletów wydawczych i dystrybutorów w sposób określający rodzaj wydawanego paliwa ciekłego.
+2. Wymóg oznakowania dystrybutorów, o którym mowa w ust. 1, dotyczy także dystrybutorów używanych na stacjach zakładowych.
+
+**Art. 9ca.**
+
+1. Przedsiębiorcy wykonujący działalność gospodarczą w zakresie wprowadzania do obrotu paliw ciekłych na stacjach paliwowych oraz stacjach zakładowych są obowiązani do oznakowania pistoletów wydawczych i dystrybutorów w sposób określający rodzaj wydawanego paliwa ciekłego.
 
 2. Informacja o rodzaju paliwa ciekłego wykorzystywanego do napędu pojazdu samochodowego jest umieszczana:
 
@@ -800,7 +804,9 @@ source: pdf
 
 **Art. 30g.** (uchylony)
 
-**Art. 30h.** (uchylony) Art. 30ha. (uchylony)
+**Art. 30h.** (uchylony)
+
+**Art. 30ha.** (uchylony)
 
 **Art. 30i.** (uchylony)
 

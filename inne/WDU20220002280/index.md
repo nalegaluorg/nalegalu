@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o medycynie laboratoryjnej
+# Ustawa z dnia 15 września 2022 r. o medycynie laboratoryjnej
 
 *USTAWA z dnia 15 września 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-11-09 |
 | Ostatnia zmiana | 2025-10-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002280) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2280/text.pdf) |
-
-Art. 144–151. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -2151,6 +2149,8 @@ Art. 144–151. (pominięte)
 **Art. 143.** Jeżeli sprawca czynu, o którym mowa w art. 142 ust. 1, działa w celu osiągnięcia korzyści majątkowej albo wprowadza w błąd co do posiadania takiego uprawnienia, podlega karze grzywny, karze ograniczenia wolności albo karze pozbawienia wolności do roku.
 
 #### Rozdział 9 Zmiany w przepisach
+
+**Art. 144–151.** (pominięte)
 
 #### Rozdział 10 Przepisy przejściowe i końcowe
 

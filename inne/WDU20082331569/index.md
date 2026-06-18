@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o postępowaniu kompensacyjnym w podmiotach o szczególnym znaczeniu dla polskiego przemysłu stoczniowego
+# Ustawa z dnia 19 grudnia 2008 r. o postępowaniu kompensacyjnym w podmiotach o szczególnym znaczeniu dla polskiego przemysłu stoczniowego
 
 *USTAWA z dnia 19 grudnia 2008 r.*
 

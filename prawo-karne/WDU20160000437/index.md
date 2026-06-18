@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw
+# Ustawa z dnia 11 marca 2016 r. o zmianie ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 11 marca 2016 r.*
 

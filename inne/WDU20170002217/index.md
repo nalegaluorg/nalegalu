@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podstawowej opiece zdrowotnej
+# Ustawa z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej
 
 *USTAWA z dnia 27 października 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2017-11-30 |
 | Ostatnia zmiana | 2025-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002217) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2217/text.pdf) |
-
-Art. 25–32. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -312,6 +310,8 @@ Art. 25–32. (pominięte)
 **Art. 24.** Świadczeniodawca może brać udział w programach poprawy jakości z zakresu podstawowej opieki zdrowotnej, określonych przez instytut, o którym mowa w art. 15 ust. 2, których celem jest zapewnienie odpowiedniej jakości świadczeń zdrowotnych, bezpieczeństwa zdrowotnego świadczeniobiorców oraz uzyskanie efektu zdrowotnego.
 
 #### Rozdział 5 Przepisy zmieniające
+
+**Art. 25–32.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe, dostosowujące i końcowe
 

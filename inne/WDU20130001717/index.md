@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych
+# Ustawa z dnia 6 grudnia 2013 r. o zmianie niektórych ustaw w związku z określeniem zasad wypłaty emerytur ze środków zgromadzonych w otwartych funduszach emerytalnych
 
 *USTAWA z dnia 6 grudnia 2013 r.*
 

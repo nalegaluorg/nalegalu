@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie sposobu realizacji przepisów o homologacji urządzeń telekomunikacyjnych zakładanych i używanych przez jednostki organizacyjne podległe Ministrom: Obrony Narodowej i Spraw Zagranicznych, organy, jednostki organizacyjne nadzorowane, podległe lub podporządkowane Ministrowi Spraw Wewnętrznych i Administracji oraz jednostki organizacyjne Urzędu Ochrony Państwa.
+# Rozporządzenie Ministra Łączności z dnia 16 czerwca 1999 r. w sprawie sposobu realizacji przepisów o homologacji urządzeń telekomunikacyjnych zakładanych i używanych przez jednostki organizacyjne podległe Ministrom: Obrony Narodowej i Spraw Zagranicznych, organy, jednostki organizacyjne nadzorowane, podległe lub podporządkowane Ministrowi Spraw Wewnętrznych i Administracji oraz jednostki organizacyjne Urzędu Ochrony Państwa.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o bezpieczeństwie obrotu prekursorami materiałów wybuchowych
+# Ustawa z dnia 13 kwietnia 2016 r. o bezpieczeństwie obrotu prekursorami materiałów wybuchowych
 
 *USTAWA z dnia 13 kwietnia 2016 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2016-05-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000669) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/669/text.pdf) |
-
-Art. 15–18. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -145,6 +143,8 @@ Art. 15–18. (pominięte)
 **Art. 14.** Orzekanie w sprawach o czyny, o których mowa w art. 11–13, następuje w trybie przepisów Kodeksu postępowania karnego.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących i przepis końcowy
+
+**Art. 15–18.** (pominięte)
 
 **Art. 19.** Tworzy się system zgłaszania.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Polskim Instytucie Spraw Międzynarodowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 kwietnia 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Polskim Instytucie Spraw Międzynarodowych
 
 | Pole | Wartość |
 |---|---|

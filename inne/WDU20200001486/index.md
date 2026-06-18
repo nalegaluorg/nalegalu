@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o statystyce publicznej, ustawy o powszechnym spisie rolnym w 2020 r.
+# Ustawa z dnia 14 sierpnia 2020 r. o zmianie ustawy o statystyce publicznej, ustawy o powszechnym spisie rolnym w 2020 r. oraz ustawy o narodowym spisie powszechnym ludności i mieszkań w 2021 r.
 
 *USTAWA z dnia 14 sierpnia 2020 r.*
 

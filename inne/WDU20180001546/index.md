@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości Parlament Rzeczypospolitej Polskiej, dostrzegając potrzebę uhonorowania obywateli polskich, którzy od czasu odzyskania niepodległości przez Państwo Polskie w 1918 r. przyczyniali się do budowania i wzmacniania suwerenności, niepodległości, kulturowej tożsamości i materialnej pomyślności Rzeczypospolitej, na pamiątkę stulecia odrodzenia Państwa Polskiego, uchwala niniejszą ustawę.
+# Ustawa z dnia 15 czerwca 2018 r. o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości
 
 *USTAWA z dnia 15 czerwca 2018 r.*
 

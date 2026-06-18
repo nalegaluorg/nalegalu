@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Polskiej Agencji Żeglugi Powietrznej
+# Ustawa z dnia 9 lipca 2015 r. o zmianie ustawy o Polskiej Agencji Żeglugi Powietrznej
 
 *USTAWA z dnia 9 lipca 2015 r.*
 

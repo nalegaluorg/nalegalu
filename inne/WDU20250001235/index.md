@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o certyfikacji wykonawców zamówień publicznych
+# Ustawa z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych
 
 *USTAWA z dnia 5 sierpnia 2025 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 kwietnia 2021 r.*
 
@@ -231,7 +231,11 @@ source: pdf
 
 3. Funkcjonariusze Służby Celno-Skarbowej, funkcjonariusze Policji oraz inspektorzy Inspekcji Transportu Drogowego w celu wykonywania kontroli, o której mowa odpowiednio w ust. 1 lub 2, są uprawnieni do przetwarzania, za pomocą telekomunikacyjnego urządzenia końcowego, danych zgromadzonych w Systemie Poboru Opłaty Elektronicznej KAS.
 
-4. Potwierdzenie przeprowadzenia kontroli, o której mowa odpowiednio w ust. 1 lub 2, oraz nałożenia kary grzywny w drodze mandatu karnego, o której mowa w art. 37gi, dokumentuje się przez zamieszczenie adnotacji w Systemie Poboru Opłaty Elektronicznej KAS. Art. 37ge. 1. Za niewniesienie opłaty za przejazd autostradą, o której mowa w art. 37a ust. 7, w tym za kontynuację przejazdu autostradą lub jej odcinkiem po upływie daty i godziny końca okresu ważności wskazanych na bilecie autostradowym, od wnoszącego opłatę pobiera się opłatę dodatkową w wysokości 500 zł.
+4. Potwierdzenie przeprowadzenia kontroli, o której mowa odpowiednio w ust. 1 lub 2, oraz nałożenia kary grzywny w drodze mandatu karnego, o której mowa w art. 37gi, dokumentuje się przez zamieszczenie adnotacji w Systemie Poboru Opłaty Elektronicznej KAS.
+
+**Art. 37ge.**
+
+1. Za niewniesienie opłaty za przejazd autostradą, o której mowa w art. 37a ust. 7, w tym za kontynuację przejazdu autostradą lub jej odcinkiem po upływie daty i godziny końca okresu ważności wskazanych na bilecie autostradowym, od wnoszącego opłatę pobiera się opłatę dodatkową w wysokości 500 zł.
 
 2. Za niewniesienie opłaty za przejazd autostradą, o której mowa w art. 37a ust. 7, należnej za przejazd pojazdu, o którym mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, od wnoszącego opłatę pobiera się opłatę dodatkową w wysokości 1500 zł – jeżeli na autostradzie lub jej odcinku nie pobiera się opłaty elektronicznej. Przepisu nie stosuje się do zespołu pojazdów o łącznej dopuszczalnej masie całkowitej powyżej 3,5 tony złożonego z samochodu osobowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony oraz przyczepy, w przypadku którego pobiera się opłatę dodatkową, o której mowa w ust. 1.
 
@@ -269,7 +273,11 @@ source: pdf
 
 14. Opłata dodatkowa stanowi przychód Funduszu. Przepis art. 37c ust. 2 stosuje się odpowiednio.
 
-15. Do doręczania wezwania, o którym mowa w ust. 7, stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Art. 37gf. 1. Wnoszący opłatę może wnieść sprzeciw do Szefa KAS, w terminie 14 dni od dnia doręczenia wezwania, o którym mowa w art. 37ge ust. 7. Wniesienie sprzeciwu nie zwalnia z obowiązku wniesienia opłaty dodatkowej.
+15. Do doręczania wezwania, o którym mowa w ust. 7, stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+**Art. 37gf.**
+
+1. Wnoszący opłatę może wnieść sprzeciw do Szefa KAS, w terminie 14 dni od dnia doręczenia wezwania, o którym mowa w art. 37ge ust. 7. Wniesienie sprzeciwu nie zwalnia z obowiązku wniesienia opłaty dodatkowej.
 
 2. Sprzeciw zawiera:
 
@@ -291,7 +299,12 @@ source: pdf
 - **1)** wykonywania zadań Szefa KAS, o których mowa w art. 37ge ust. 4, 7, 10– 12, lub
 - **2)** którego składa się sprzeciw, o którym mowa w ust. 1 w zdaniu pierwszym, lub
 - **3)** rozpatrywania sprzeciwu oraz zawiadamiania wnoszącego opłatę o uwzględnieniu sprzeciwu, o którym mowa w ust. 3 w zdaniu pierwszym, lub
-- **4)** którego wnosi się wniosek, o którym mowa w ust. 4, oraz jego rozpatrywania – określając szczegółowy zakres tych zadań i czynności, mając na względzie zapewnienie sprawnego i skutecznego ich wykonywania. Art. 37gg. 1. W przypadku stwierdzenia w trakcie kontroli, o której mowa odpowiednio w art. 37gd ust. 1 lub 2, że wnoszący opłatę:
+- **4)** którego wnosi się wniosek, o którym mowa w ust. 4, oraz jego rozpatrywania – określając szczegółowy zakres tych zadań i czynności, mając na względzie zapewnienie sprawnego i skutecznego ich wykonywania.
+
+**Art. 37gg.**
+
+1. W przypadku stwierdzenia w trakcie kontroli, o której mowa odpowiednio w art. 37gd ust. 1 lub 2, że wnoszący opłatę:
+
 - **1)** nie uiścił opłaty za poprzednie przejazdy autostradą lub jej odcinkiem oraz
 - **2)** ma miejsce zamieszkania lub siedzibę w państwie, z którym Rzeczpospolita Polska nie jest związana umową lub porozumieniem o współpracy we wzajemnym dochodzeniu tej opłaty, bądź możliwość jej egzekucji nie wynika wprost z przepisów międzynarodowych oraz przepisów tego państwa – osoba przeprowadzająca kontrolę pobiera kaucję w wysokości odpowiadającej opłacie, o której mowa odpowiednio w art. 37ge ust. 1 albo 2, za każdy z tych przejazdów. Przepis art. 37ge ust. 3 stosuje się odpowiednio.
 
@@ -323,14 +336,27 @@ source: pdf
 
 11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór pokwitowania pobranej kaucji, mając na względzie jednolitość dokumentów stosowanych przy jej pobieraniu.
 
-12. Minister właściwy do spraw finansów publicznych wyznaczy, w drodze rozporządzenia, urząd skarbowy, na którego rachunek bankowy dokonuje się wpłaty kaucji, uwzględniając przygotowanie organizacyjne i techniczne tego urzędu. Art. 37gh. Jeżeli wnoszący opłatę działa przez pełnomocnika, do pełnomocnictw przepisy działu IV rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm. ) stosuje się odpowiednio.”;
+12. Minister właściwy do spraw finansów publicznych wyznaczy, w drodze rozporządzenia, urząd skarbowy, na którego rachunek bankowy dokonuje się wpłaty kaucji, uwzględniając przygotowanie organizacyjne i techniczne tego urzędu.
 
-- **6)** po rozdziale 5a dodaje się rozdział 5aa w brzmieniu: „Rozdział 5aa Kary grzywny Art. 37gi. W przypadku stwierdzenia w trakcie kontroli, o której mowa w art. 37gd ust. 1 lub 2, naruszenia obowiązku, o którym mowa w art. 37a ust. 28 pkt 1 – kierujący pojazdem podlega karze grzywny w wysokości 500 zł. Art. 37gj. 1. Kierujący pojazdem samochodowym, przejeżdżający autostradą lub jej odcinkiem, za przejazd którymi Szef KAS pobiera opłatę za przejazd autostradą:
+**Art. 37gh.** Jeżeli wnoszący opłatę działa przez pełnomocnika, do pełnomocnictw przepisy działu IV rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm. ) stosuje się odpowiednio.”;
+
+- **6)** po rozdziale 5a dodaje się rozdział 5aa w brzmieniu: „Rozdział 5aa Kary grzywny
+
+**Art. 37gi.** W przypadku stwierdzenia w trakcie kontroli, o której mowa w art. 37gd ust. 1 lub 2, naruszenia obowiązku, o którym mowa w art. 37a ust. 28 pkt 1 – kierujący pojazdem podlega karze grzywny w wysokości 500 zł.
+
+**Art. 37gj.**
+
+1. Kierujący pojazdem samochodowym, przejeżdżający autostradą lub jej odcinkiem, za przejazd którymi Szef KAS pobiera opłatę za przejazd autostradą:
+
 - **1)** którego tablice rejestracyjne są zakryte lub ozdobione lub
 - **2)** który ma z przodu lub z tyłu pojazdu znaki, napisy lub przedmioty, które ograniczają czytelność tych tablic, lub
 - **3)** którego tablice rejestracyjne są umieszczone na pojeździe w innych miejscach niż konstrukcyjnie do tego przeznaczone – podlega karze grzywny w wysokości 500 zł.
 
-2. W przypadku, o którym mowa w ust. 1, na kierującego pojazdem samochodowym nie nakłada się kary grzywny za wykroczenie określone w art. 97 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2021 r. poz. 281 i 720) w związku z art. 60 ust. 1 pkt 2, 3 i 3a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym. Art. 37gk. 1. Prawo do nakładania kary grzywny, o której mowa w art. 37gi i art. 37gj ust. 1, w drodze mandatu karnego przysługuje funkcjonariuszom Służby Celno-Skarbowej, funkcjonariuszom Policji oraz inspektorom Inspekcji Transportu Drogowego.
+2. W przypadku, o którym mowa w ust. 1, na kierującego pojazdem samochodowym nie nakłada się kary grzywny za wykroczenie określone w art. 97 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2021 r. poz. 281 i 720) w związku z art. 60 ust. 1 pkt 2, 3 i 3a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
+
+**Art. 37gk.**
+
+1. Prawo do nakładania kary grzywny, o której mowa w art. 37gi i art. 37gj ust. 1, w drodze mandatu karnego przysługuje funkcjonariuszom Służby Celno-Skarbowej, funkcjonariuszom Policji oraz inspektorom Inspekcji Transportu Drogowego.
 
 2. Orzekanie w sprawie nałożenia kary grzywny, o której mowa w art. 37gi i art. 37gj ust. 1, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2021 r. poz. 457 i 1005).”;
 
@@ -430,7 +456,11 @@ source: pdf
 
 10. W przypadku, o którym mowa w ust. 9, przed rozpoczęciem przejazdu właściciel, posiadacz albo użytkownik pojazdu uzupełnia w rejestrze, o którym mowa w art. 13ia ust. 1, dane wskazane w art. 13ia ust. 5 pkt 4.
 
-11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość prowizji, o której mowa w ust. 8, mając na względzie przewidywane koszty ponoszone przez dostawców kart flotowych. Art. 13ibb. 1. Dostawca kart flotowych jest obowiązany ustanowić zabezpieczenie należności z tytułu opłaty elektronicznej oraz opłat za przejazd autostradą.
+11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość prowizji, o której mowa w ust. 8, mając na względzie przewidywane koszty ponoszone przez dostawców kart flotowych.
+
+**Art. 13ibb.**
+
+1. Dostawca kart flotowych jest obowiązany ustanowić zabezpieczenie należności z tytułu opłaty elektronicznej oraz opłat za przejazd autostradą.
 
 2. Zabezpieczenie ustanawia się tak, aby umożliwiało Szefowi KAS bezwarunkowe, natychmiastowe, pełne i nieodwołalne ściągnięcie należnej opłaty wraz z odsetkami.
 
@@ -443,7 +473,9 @@ source: pdf
     - **a)** co najmniej BBB + albo Baa 1 przyznawanym przez agencje ratingowe określone w przepisach wydanych na podstawie art. 2c ust. 3 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U.
     - **b)** odpowiadającym co najmniej poziomowi BBB + albo Baa 1 przyznawanym przez agencje ratingowe o międzynarodowej renomie.
 
-4. Zabezpieczenie jest ustanawiane na okres nie krótszy niż rok, w wysokości określonej w umowie, o której mowa w art. 13iba ust. 5. Art. 13ibc. Jeżeli właściciel, posiadacz albo użytkownik pojazdu działa przez pełnomocnika, do pełnomocnictw przepisy działu IV rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm. ) stosuje się odpowiednio.”;
+4. Zabezpieczenie jest ustanawiane na okres nie krótszy niż rok, w wysokości określonej w umowie, o której mowa w art. 13iba ust. 5.
+
+**Art. 13ibc.** Jeżeli właściciel, posiadacz albo użytkownik pojazdu działa przez pełnomocnika, do pełnomocnictw przepisy działu IV rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm. ) stosuje się odpowiednio.”;
 
 - **7)** w art. 13k:
     - **a)** w ust. 2b w pkt 1 skreśla się wyrazy „oraz art. 13ib ust. 1 pkt 2”,

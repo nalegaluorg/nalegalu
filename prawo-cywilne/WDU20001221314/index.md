@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o transporcie kolejowym i ustawy o usługach turystycznych oraz ustawy - Kodeks postępowania cywilnego, ustawy - Prawo o ustroju sądów powszechnych i ustawy o działach administracji rządowej - w związku z dostosowaniem do prawa Unii Europejskiej
+# Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o transporcie kolejowym i ustawy o usługach turystycznych oraz ustawy - Kodeks postępowania cywilnego, ustawy - Prawo o ustroju sądów powszechnych i ustawy o działach administracji rządowej - w związku z dostosowaniem do prawa Unii Europejskiej.
 
 *USTAWA z dnia 8 grudnia 2000 r.*
 

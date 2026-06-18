@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych
+# Ustawa z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych
 
 *USTAWA z dnia 24 lipca 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2015-08-31 |
 | Ostatnia zmiana | 2025-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001265) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1265/text.pdf) |
-
-Art. 29–32. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -802,6 +800,8 @@ Art. 29–32. (pominięte)
 5. Jeżeli budowa drogi wymaga przełożenia podziemnych liniowych obiektów budowlanych, o których mowa w ust. 1, koszt ich przełożenia ponosi ich właściciel, w przypadku gdy nie upłynęło 10 lat od daty wydania zgody, o której mowa w ust. 1.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 29–32.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

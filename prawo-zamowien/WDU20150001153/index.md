@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zmianie ustawy – Prawo zamówień publicznych oraz ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 25 czerwca 2015 r.*
 

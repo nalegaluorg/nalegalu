@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach pozyskiwania informacji o niekaralności osób ubiegających się o zatrudnienie i osób zatrudnionych w podmiotach sektora finansowego
+# Ustawa z dnia 12 kwietnia 2018 r. o zasadach pozyskiwania informacji o niekaralności osób ubiegających się o zatrudnienie i osób zatrudnionych w podmiotach sektora finansowego
 
 *USTAWA z dnia 12 kwietnia 2018 r.*
 

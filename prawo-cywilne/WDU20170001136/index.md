@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego oraz ustawy – Prawo o postępowaniu przed sądami administracyjnymi
+# Ustawa z dnia 21 kwietnia 2017 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz ustawy - Prawo o postępowaniu przed sądami administracyjnymi
 
 *USTAWA z dnia 21 kwietnia 2017 r.*
 

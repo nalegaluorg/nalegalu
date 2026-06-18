@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o drogach publicznych, ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawy o transporcie drogowym
+# Ustawa z dnia 29 sierpnia 2014 r. o zmianie ustawy o drogach publicznych, ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawy o transporcie drogowym
 
 *USTAWA z dnia 29 sierpnia 2014 r.*
 

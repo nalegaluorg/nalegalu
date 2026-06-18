@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno
+# Ustawa z dnia 10 października 2012 r. o zmianie ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno
 
 *USTAWA z dnia 10 października 2012 r.*
 

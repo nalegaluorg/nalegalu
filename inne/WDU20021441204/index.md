@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu usług drogą elektroniczną
+# Ustawa z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
 
 *USTAWA z dnia 18 lipca 2002 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2002-09-09 |
 | Ostatnia zmiana | 2024-11-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021441204) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1204/text.pdf) |
-
-Art. 26–29. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -262,7 +260,9 @@ Art. 26–29. (pominięte)
 
 4. (uchylony)
 
-5. (uchylony) Art. 20–22. (uchylone)
+5. (uchylony)
+
+**Art. 20–22.** (uchylone)
 
 #### Rozdział 5 Przepisy karne
 
@@ -273,6 +273,8 @@ Art. 26–29. (pominięte)
 **Art. 25.** Orzekanie w sprawach o czyny określone w art. 23 następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 26–29.** (pominięte)
 
 **Art. 30.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia , z wyjątkiem art. 5 ust. 5, który stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej .
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zmianach w organizacji i działalności spółdzielczości
+# Ustawa z dnia 2 kwietnia 1993 r. o zmianie ustawy o zmianach w organizacji i działalności spółdzielczości.
 
 | Pole | Wartość |
 |---|---|

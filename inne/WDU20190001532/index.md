@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie rekompensat dla sektorów i podsektorów energochłonnych
+# Ustawa z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 *USTAWA z dnia 19 lipca 2019 r.*
 

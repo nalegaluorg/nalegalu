@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu Krzyża Zesłańców Sybiru
+# Ustawa z dnia 17 października 2003 r. o ustanowieniu Krzyża Zesłańców Sybiru
 
 *USTAWA z dnia 17 października 2003 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia maksymalnej wysokości wpłat na rzecz Polskiej Organizacji Turystycznej, uznawanej za koszt uzyskania przychodów.
+# Rozporządzenie Ministra Finansów z dnia 7 marca 2000 r. w sprawie określenia maksymalnej wysokości wpłat na rzecz Polskiej Organizacji Turystycznej, uznawanej za koszt uzyskania przychodów.
 
 *ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 7 marca 2000 r.*
 

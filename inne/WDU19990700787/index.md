@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie kwoty, powyżej której należności uiszcza się w formie bezgotówkowej.
+# Rozporządzenie Ministra Finansów z dnia 17 sierpnia 1999 r. w sprawie kwoty, powyżej której należności uiszcza się w formie bezgotówkowej.
 
 | Pole | Wartość |
 |---|---|

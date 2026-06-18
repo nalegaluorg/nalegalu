@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów
+# Ustawa z dnia 30 czerwca 2005 r. o zmianie ustawy o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów
 
 *USTAWA z dnia 30 czerwca 2005 r.*
 

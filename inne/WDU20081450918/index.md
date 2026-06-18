@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich oraz ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
+# Ustawa z dnia 25 lipca 2008 r. o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich oraz ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
 
 *USTAWA z dnia 25 lipca 2008 r.*
 

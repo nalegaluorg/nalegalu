@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz ustawy – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce
+# Ustawa z dnia 23 lipca 2021 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce
 
 *USTAWA z dnia 23 lipca 2021 r.*
 

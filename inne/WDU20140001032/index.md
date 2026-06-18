@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o lasach
+# Ustawa z dnia 10 czerwca 2014 r. o zmianie ustawy o lasach
 
 *USTAWA z dnia 10 czerwca 2014 r.*
 

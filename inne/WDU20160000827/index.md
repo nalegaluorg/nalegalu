@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach związanych z ochroną miejsc pracy oraz ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy
+# Ustawa z dnia 29 kwietnia 2016 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z ochroną miejsc pracy oraz ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy
 
 *USTAWA z dnia 29 kwietnia 2016 r.*
 

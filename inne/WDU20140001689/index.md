@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kuratorach sądowych
+# Ustawa z dnia 10 października 2014 r. o zmianie ustawy o kuratorach sądowych
 
 *USTAWA z dnia 10 października 2014 r.*
 

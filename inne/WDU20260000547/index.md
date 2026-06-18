@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wydawaniu Monitora Sądowego i Gospodarczego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wydawaniu Monitora Sądowego i Gospodarczego
 
 | Pole | Wartość |
 |---|---|

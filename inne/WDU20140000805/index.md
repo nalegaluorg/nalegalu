@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 24 kwietnia 2014 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 kwietnia 2014 r.*
 

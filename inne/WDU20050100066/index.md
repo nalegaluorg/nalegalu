@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o doradztwie podatkowym oraz ustawy o rachunkowości
+# Ustawa z dnia 16 grudnia 2004 r. o zmianie ustawy o doradztwie podatkowym oraz ustawy o rachunkowości
 
 *USTAWA z dnia 16 grudnia 2004 r.*
 

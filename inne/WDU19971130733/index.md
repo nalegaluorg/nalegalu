@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz ustawy o działalności gospodarczej
+# Ustawa z dnia 20 sierpnia 1997 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz ustawy o działalności gospodarczej.
 
 *USTAWA z dnia 20 sierpnia 1997 r.*
 

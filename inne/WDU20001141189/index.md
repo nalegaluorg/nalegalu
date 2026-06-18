@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
+# Ustawa z dnia 26 października 2000 r. o zmianie ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych.
 
 *USTAWA z dnia 26 października 2000 r.*
 

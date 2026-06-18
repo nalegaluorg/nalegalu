@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pracownikach urzędów państwowych
+# Ustawa z dnia 16 września 1982 r. o pracownikach urzędów państwowych.
 
 *USTAWA z dnia 16 września 1982 r.*
 

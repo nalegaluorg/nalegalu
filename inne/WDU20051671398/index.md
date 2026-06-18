@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kosztach sądowych w sprawach cywilnych
+# Ustawa z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych
 
 *USTAWA z dnia 28 lipca 2005 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2005-09-01 |
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051671398) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1398/text.pdf) |
-
-Art. 126–147. (pominięte)
 
 ## TYTUŁ I Przepisy ogólne
 
@@ -1132,6 +1130,8 @@ Art. 126–147. (pominięte)
 **Art. 125.** Czynności w sprawach odroczenia lub rozłożenia na raty należności sądowych może – na zarządzenie prezesa sądu rejonowego lub okręgowego – wykonywać referendarz sądowy. Na zarządzenie referendarza przysługuje skarga do sądu.
 
 ## TYTUŁ VI Zmiany w przepisach obowiązujących
+
+**Art. 126–147.** (pominięte)
 
 ## TYTUŁ VII Przepisy przejściowe i końcowe
 

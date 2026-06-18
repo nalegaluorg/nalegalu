@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
+# Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
 
 *USTAWA z dnia 21 lutego 2025 r.*
 
@@ -320,12 +320,20 @@ source: pdf
 - **1)** zawiera w szczególności wskazanie stosowanych podstawowych praktyk gospodarowania glebami mających na celu utrzymanie pierwiastka węgla w glebie (sekwestracja dwutlenku węgla), oddziałujących na zmniejszenie emisji dwutlenku węgla z gleby do atmosfery;
 - **2)** opracowuje się na podstawie analiz, o których mowa w art. 128 ust. 4a pkt 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
 
-3. Audytorzy systemów dobrowolnych, o których mowa w rozporządzeniu wykonawczym Komisji (UE) 2022/996 z dnia 14 czerwca 2022 r. w sprawie zasad weryfikacji kryteriów zrównoważonego rozwoju i ograniczania emisji gazów cieplarnianych oraz kryteriów niskiego ryzyka spowodowania pośredniej zmiany użytkowania gruntów (Dz. Urz. UE L 168 z 27.06.2022, str. 1, z późn. zm. ), weryfikują stosowanie przez producentów rolnych indywidualnych planów gospodarki glebą lub praktyk przy ustalaniu emisji gazów cieplarnianych z biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy zgodnie z art. 20 oraz art. 21 tego rozporządzenia. Art. 28bcb. Biokomponenty spełniają kryterium zrównoważonej gospodarki leśnej, jeżeli pozyskanie biomasy leśnej wykorzystywanej do ich wytworzenia było prowadzone zgodnie z:
+3. Audytorzy systemów dobrowolnych, o których mowa w rozporządzeniu wykonawczym Komisji (UE) 2022/996 z dnia 14 czerwca 2022 r. w sprawie zasad weryfikacji kryteriów zrównoważonego rozwoju i ograniczania emisji gazów cieplarnianych oraz kryteriów niskiego ryzyka spowodowania pośredniej zmiany użytkowania gruntów (Dz. Urz. UE L 168 z 27.06.2022, str. 1, z późn. zm. ), weryfikują stosowanie przez producentów rolnych indywidualnych planów gospodarki glebą lub praktyk przy ustalaniu emisji gazów cieplarnianych z biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy zgodnie z art. 20 oraz art. 21 tego rozporządzenia.
+
+**Art. 28bcb.** Biokomponenty spełniają kryterium zrównoważonej gospodarki leśnej, jeżeli pozyskanie biomasy leśnej wykorzystywanej do ich wytworzenia było prowadzone zgodnie z:
 
 - **1)** rozporządzeniem wykonawczym Komisji (UE) 2022/2448 z dnia 13 grudnia 2022 r. ustanawiającym operacyjne wytyczne dotyczące dowodów do celów wykazania zgodności z kryteriami zrównoważonego rozwoju dotyczącymi biomasy leśnej i określonymi w art. 29 dyrektywy Parlamentu Europejskiego i Rady (UE) 2018/2001 (Dz. Urz. UE L 320 z 14.12.2022, str. 4) oraz
-- **2)** zasadami trwale zrównoważonej gospodarki leśnej określonymi w ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2024 r. poz. 530, 1473 i 1907 oraz z 2025 r. poz. 179). Art. 28bcc. 1. Biokomponenty, biopłyny w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i paliwa z biomasy w rozumieniu art. 2 pkt 26c tej ustawy spełniają kryterium niskiego ryzyka spowodowania pośredniej zmiany użytkowania gruntów, jeżeli w stosunku do biomasy wykorzystywanej do ich wytworzenia nie zaobserwowano znaczącej ekspansji obszaru produkcji na tereny zasobne w pierwiastek węgla, o której mowa w art. 3 rozporządzenia delegowanego Komisji (UE) 2019/807 z dnia 13 marca 2019 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 w odniesieniu do określenia surowców o wysokim ryzyku spowodowania pośredniej zmiany użytkowania gruntów, w przypadku których zaobserwowano znaczącą ekspansję obszaru produkcji na tereny zasobne w pierwiastek węgla oraz certyfikowania biopaliw, biopłynów i paliw z biomasy o niskim ryzyku spowodowania pośredniej zmiany użytkowania gruntów (Dz. Urz. UE L 133 z 21.05.2019, str. 1), chyba że te biokomponenty spełniają warunki określone w art. 4 i art. 5 tego rozporządzenia.
+- **2)** zasadami trwale zrównoważonej gospodarki leśnej określonymi w ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2024 r. poz. 530, 1473 i 1907 oraz z 2025 r. poz. 179).
 
-2. Przy obliczaniu spełnienia kryterium, o którym mowa w ust. 1, uwzględnia się dane wejściowe do obliczania emisji surowców określone w załączniku nr 3 do ustawy. Art. 28bcd. Kryteria zrównoważonego rozwoju określone w art. 28ba–28bcb i art. 28bcc ust. 1 stosuje się odpowiednio do biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i do paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy.”;
+**Art. 28bcc.**
+
+1. Biokomponenty, biopłyny w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i paliwa z biomasy w rozumieniu art. 2 pkt 26c tej ustawy spełniają kryterium niskiego ryzyka spowodowania pośredniej zmiany użytkowania gruntów, jeżeli w stosunku do biomasy wykorzystywanej do ich wytworzenia nie zaobserwowano znaczącej ekspansji obszaru produkcji na tereny zasobne w pierwiastek węgla, o której mowa w art. 3 rozporządzenia delegowanego Komisji (UE) 2019/807 z dnia 13 marca 2019 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 w odniesieniu do określenia surowców o wysokim ryzyku spowodowania pośredniej zmiany użytkowania gruntów, w przypadku których zaobserwowano znaczącą ekspansję obszaru produkcji na tereny zasobne w pierwiastek węgla oraz certyfikowania biopaliw, biopłynów i paliw z biomasy o niskim ryzyku spowodowania pośredniej zmiany użytkowania gruntów (Dz. Urz. UE L 133 z 21.05.2019, str. 1), chyba że te biokomponenty spełniają warunki określone w art. 4 i art. 5 tego rozporządzenia.
+
+2. Przy obliczaniu spełnienia kryterium, o którym mowa w ust. 1, uwzględnia się dane wejściowe do obliczania emisji surowców określone w załączniku nr 3 do ustawy.
+
+**Art. 28bcd.** Kryteria zrównoważonego rozwoju określone w art. 28ba–28bcb i art. 28bcc ust. 1 stosuje się odpowiednio do biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i do paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy.”;
 
 - **26)** uchyla się art. 28bd;
 - **27)** w art. 28be:

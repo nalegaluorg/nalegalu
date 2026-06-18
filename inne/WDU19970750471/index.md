@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo o adwokaturze, ustawy o radcach prawnych oraz niektórych innych ustaw
+# Ustawa z dnia 22 maja 1997 r. o zmianie ustawy - Prawo o adwokaturze, ustawy o radcach prawnych oraz niektórych innych ustaw.
 
 *USTAWA z dnia 22 maja 1997 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw o regionalnych izbach obrachunkowych, o samorządzie terytorialnym oraz o finansowaniu gmin
+# Ustawa z dnia 20 sierpnia 1997 r. o zmianie ustaw o regionalnych izbach obrachunkowych, o samorządzie terytorialnym oraz o finansowaniu gmin.
 
 *USTAWA z dnia 20 sierpnia 1997 r.*
 

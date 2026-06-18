@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Pomorskiej Akademii Medycznej imienia generała Karola Świerczewskiego nazwy "Pomorska Akademia Medyczna w Szczecinie"
+# Ustawa z dnia 6 listopada 1992 r. o nadaniu Pomorskiej Akademii Medycznej imienia generała Karola Świerczewskiego nazwy "Pomorska Akademia Medyczna w Szczecinie".
 
 *USTAWA z dnia 6 listopada 1992 r.*
 

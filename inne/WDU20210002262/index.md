@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi
+# Ustawa z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi
 
 *USTAWA z dnia 17 listopada 2021 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-12-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2262/text.pdf) |
-
-Art. 52–55. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -483,6 +481,8 @@ Art. 52–55. (pominięte)
 **Art. 51.** Kara pieniężna nie podlega egzekucji, jeżeli upłynęło 5 lat od końca roku, w którym uprawomocniła się decyzja o nałożeniu kary pieniężnej.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 52–55.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu ustawy o Centralnej Informacji Emerytalnej
+# Ustawa z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej
 
 *USTAWA z dnia 5 sierpnia 2025 r.*
 

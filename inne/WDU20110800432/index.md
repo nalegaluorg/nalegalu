@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110800432) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/432/text.pdf) |
 
-Art. 69–79. (pominięte)
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa niniejsza reguluje właściwość prawa dla stosunków z zakresu prawa prywatnego związanych z więcej niż jednym państwem.
@@ -411,6 +409,8 @@ Art. 69–79. (pominięte)
 **Art. 68.** Do stosunków prawnych objętych niniejszą ustawą nie stosuje się art. 3 ust. 1, art. 6 i art. 7 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642).
 
 #### Rozdział 18 Zmiany w przepisach obowiązujących
+
+**Art. 69–79.** (pominięte)
 
 #### Rozdział 19 Przepisy końcowe
 

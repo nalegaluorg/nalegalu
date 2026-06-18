@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
+# Ustawa z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
 
 *USTAWA z dnia 22 maja 2003 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2003-07-16 |
 | Ostatnia zmiana | 2026-03-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031241152) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1152/text.pdf) |
-
-Art. 141–158. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -2008,6 +2006,8 @@ Art. 141–158. (pominięte)
 4. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia, szczegółowe warunki i tryb składania sprawozdania, o którym mowa w ust. 1, w tym termin jego złożenia oraz niezbędne dane, jakie powinno zawierać, uwzględniając w szczególności zapewnienie prawidłowości i przejrzystości sporządzanych sprawozdań.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
+
+**Art. 141–158.** (pominięte)
 
 #### Rozdział 10 Przepisy epizodyczne, przejściowe i końcowe
 

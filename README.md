@@ -97,9 +97,9 @@ Każdy akt przed publikacją przechodzi automatyczną kontrolę jakości. Dokume
 
 ## Testy
 
-**PASSED** — 246 tests — 246 passed, 0 failed, 0 errors, 33 skipped
+**PASSED** — 250 tests — 250 passed, 0 failed, 0 errors, 33 skipped
 
-Ostatni przebieg: 2026-06-18 09:14 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
+Ostatni przebieg: 2026-06-18 10:09 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
 
 <!-- STATS:START -->
 ## Statystyki
@@ -110,18 +110,18 @@ Ostatni przebieg: 2026-06-18 09:14 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESU
 |---|---:|
 | Opublikowane akty | **19,261** |
 | Odrzucone (jakość) | 415 |
-| Artykuły | 208,233 |
-| Znaki treści | 587.5M |
-| Śr. znaków/akt | 30,500 |
-| Śr. artykułów/akt | 10.8 |
+| Artykuły | 214,369 |
+| Znaki treści | 587.8M |
+| Śr. znaków/akt | 30,519 |
+| Śr. artykułów/akt | 11.1 |
 
 **Źródła danych:**
 
-- PDF: 18,986 (99%)
-- ELI HTML: 246 (1%)
+- PDF: 18,994 (99%)
+- ELI HTML: 238 (1%)
 - unknown: 29 (0%)
 
-*Odrzucone: 1 skanów bez OCR, 1292 zablokowanych przez bramkę jakości, 414 inne*
+*Odrzucone: 1 skanów bez OCR, 683 zablokowanych przez bramkę jakości, 414 inne*
 
 *Od 2026-05-18: +5,940 aktów*
 

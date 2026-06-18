@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowej Radzie Sądownictwa oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 16 marca 2007 r. o zmianie ustawy o Krajowej Radzie Sądownictwa oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 16 marca 2007 r.*
 

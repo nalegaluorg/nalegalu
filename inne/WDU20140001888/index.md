@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dowodach osobistych, ustawy o ewidencji ludności oraz ustawy – Prawo o aktach stanu cywilnego
+# Ustawa z dnia 19 grudnia 2014 r. o zmianie ustawy o dowodach osobistych, ustawy o ewidencji ludności oraz ustawy - Prawo o aktach stanu cywilnego
 
 *USTAWA z dnia 19 grudnia 2014 r.*
 

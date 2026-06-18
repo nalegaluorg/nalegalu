@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży Uznając, że życie jest fundamentalnym dobrem człowieka, a troska o życie i zdrowie należy do podstawowych obowiązków państwa, społeczeństwa i obywatela; uznając prawo każdego do odpowiedzialnego decydowania o posiadaniu dzieci oraz prawo dostępu do informacji, edukacji, poradnictwa i środków umożliwiających korzystanie z tego prawa, stanowi się, co następuje:
+# Ustawa z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży.
 
 *USTAWA z dnia 7 stycznia 1993 r.*
 
@@ -93,7 +93,9 @@ source: pdf
 
 1. Osoby wykonujące czynności wynikające z ustawy są obowiązane do zachowania w tajemnicy wszystkiego, o czym powzięły wiadomość w związku z wykonywaniem tych czynności, stosownie do odrębnych przepisów.
 
-2. W razie zawinionego ujawnienia wiadomości, o których mowa w ust. 1, sąd może przyznać osobie poszkodowanej odpowiednią sumę tytułem zadośćuczynienia pieniężnego za doznaną krzywdę. Art. 5–8. (pominięte)
+2. W razie zawinionego ujawnienia wiadomości, o których mowa w ust. 1, sąd może przyznać osobie poszkodowanej odpowiednią sumę tytułem zadośćuczynienia pieniężnego za doznaną krzywdę.
+
+**Art. 5–8.** (pominięte)
 
 **Art. 9.** Rada Ministrów przedkłada Sejmowi corocznie, w terminie do dnia 31 lipca, sprawozdanie z wykonywania ustawy oraz o skutkach jej stosowania.
 

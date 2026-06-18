@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych oraz niektórych innych ustaw
+# Ustawa z dnia 28 maja 2021 r. o zmianie ustawy o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych oraz niektórych innych ustaw
 
 *USTAWA z dnia 28 maja 2021 r.*
 

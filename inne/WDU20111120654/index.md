@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o działalności leczniczej
+# Ustawa z dnia 15 kwietnia 2011 r. o działalności leczniczej
 
 *USTAWA z dnia 15 kwietnia 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-06-01 |
 | Ostatnia zmiana | 2026-04-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111120654) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/654/text.pdf) |
-
-Art. 123–189. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -2185,6 +2183,8 @@ Art. 123–189. (pominięte)
 7. Minister Obrony Narodowej, Minister Sprawiedliwości, minister właściwy do spraw wewnętrznych lub Szef Agencji Bezpieczeństwa Wewnętrznego, każdy w zakresie swojego działania, przeprowadzają kontrolę, o której mowa w art. 118 i art. 119, w sposób i w trybie określonych w rozporządzeniu wydanym na podstawie ust. 6.
 
 ### DZIAŁ VII Zmiany w przepisach obowiązujących
+
+**Art. 123–189.** (pominięte)
 
 ### DZIAŁ VIII Przepisy przejściowe, dostosowujące i końcowe
 

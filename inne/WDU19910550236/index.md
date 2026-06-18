@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rozwiązywaniu sporów zbiorowych
+# Ustawa z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych.
 
 *USTAWA z dnia 23 maja 1991 r.*
 

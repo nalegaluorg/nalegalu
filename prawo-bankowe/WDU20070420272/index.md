@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo bankowe
+# Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy - Prawo bankowe
 
 *USTAWA z dnia 26 stycznia 2007 r.*
 

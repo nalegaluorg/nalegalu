@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ustanowieniu programu wieloletniego „Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006–2013”
+# Ustawa z dnia 6 grudnia 2013 r. o zmianie ustawy o ustanowieniu programu wieloletniego "Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006-2013"
 
 *USTAWA z dnia 6 grudnia 2013 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni
+# Ustawa z dnia 10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni
 
 *USTAWA z dnia 10 stycznia 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-02-05 |
 | Ostatnia zmiana | 2025-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000305) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/305/text.pdf) |
-
-Art. 12–15. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -156,4 +154,6 @@ Art. 12–15. (pominięte)
 **Art. 11.** Orzekanie w sprawach o czyny, o których mowa w art. 10, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544).
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących i przepis końcowy
+
+**Art. 12–15.** (pominięte)
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych
+# Ustawa z dnia 23 listopada 2002 r. o restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych.
 
 *USTAWA z dnia 23 listopada 2002 r.*
 

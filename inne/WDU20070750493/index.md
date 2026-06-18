@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zapobieganiu szkodom w środowisku i ich naprawie
+# Ustawa z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie
 
 *USTAWA z dnia 13 kwietnia 2007 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2007-04-26 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070750493) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/493/text.pdf) |
-
-Art. 30–34. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -518,9 +516,13 @@ Art. 30–34. (pominięte)
 
 #### Rozdział 5 Postępowanie w przypadku bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku o charakterze transgranicznym
 
-**Art. 26b.** W przypadku stwierdzenia, że zgłoszone przez organ ochrony środowiska bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku mogą mieć skutki na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, Generalny Dyrektor Ochrony Środowiska niezwłocznie zawiadamia o tym właściwy organ państwa, na którego terytorium skutki te mogą wystąpić. Art. 26ba. W przypadku stwierdzenia, że zgłoszone przez organ ochrony środowiska bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku mogą mieć skutki na obszarach morskich innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, Generalny Dyrektor Ochrony Środowiska niezwłocznie zawiadamia o tym właściwy organ państwa, na którego obszarach morskich skutki te mogą wystąpić.
+**Art. 26b.** W przypadku stwierdzenia, że zgłoszone przez organ ochrony środowiska bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku mogą mieć skutki na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, Generalny Dyrektor Ochrony Środowiska niezwłocznie zawiadamia o tym właściwy organ państwa, na którego terytorium skutki te mogą wystąpić.
 
-**Art. 26c.** Generalny Dyrektor Ochrony Środowiska po uzyskaniu informacji o bezpośrednim zagrożeniu szkodą w środowisku lub o szkodzie w środowisku, które zostały spowodowane na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, a których skutki mogą oddziaływać na terytorium Rzeczypospolitej Polskiej, niezwłocznie zawiadamia o tym właściwy organ ochrony środowiska. Art. 26ca. Generalny Dyrektor Ochrony Środowiska po uzyskaniu informacji o bezpośrednim zagrożeniu szkodą w środowisku lub o szkodzie w środowisku, które zostały spowodowane na obszarach morskich innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, a których skutki mogą oddziaływać na obszarach morskich Rzeczypospolitej Polskiej, niezwłocznie zawiadamia o tym właściwy organ ochrony środowiska.
+**Art. 26ba.** W przypadku stwierdzenia, że zgłoszone przez organ ochrony środowiska bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku mogą mieć skutki na obszarach morskich innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, Generalny Dyrektor Ochrony Środowiska niezwłocznie zawiadamia o tym właściwy organ państwa, na którego obszarach morskich skutki te mogą wystąpić.
+
+**Art. 26c.** Generalny Dyrektor Ochrony Środowiska po uzyskaniu informacji o bezpośrednim zagrożeniu szkodą w środowisku lub o szkodzie w środowisku, które zostały spowodowane na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, a których skutki mogą oddziaływać na terytorium Rzeczypospolitej Polskiej, niezwłocznie zawiadamia o tym właściwy organ ochrony środowiska.
+
+**Art. 26ca.** Generalny Dyrektor Ochrony Środowiska po uzyskaniu informacji o bezpośrednim zagrożeniu szkodą w środowisku lub o szkodzie w środowisku, które zostały spowodowane na obszarach morskich innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, a których skutki mogą oddziaływać na obszarach morskich Rzeczypospolitej Polskiej, niezwłocznie zawiadamia o tym właściwy organ ochrony środowiska.
 
 **Art. 26d.** Przepisów art. 26b–26ca nie stosuje się do poważnych awarii przemysłowych w rozumieniu ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
@@ -551,9 +553,13 @@ Art. 30–34. (pominięte)
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
 
+**Art. 30–34.** (pominięte)
+
 #### Rozdział 8 Przepisy przejściowe, dostosowujące i końcowe
 
-**Art. 35.** (uchylony) Art. 36–38. (pominięte)
+**Art. 35.** (uchylony)
+
+**Art. 36–38.** (pominięte)
 
 **Art. 39.** Ustawa wchodzi w życie z dniem 30 kwietnia 2007 r.
 

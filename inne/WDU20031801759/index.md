@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 11 września 2003 r. o zmianie ustawy o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 11 września 2003 r.*
 

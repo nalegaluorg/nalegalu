@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Zespole Pomocy Humanitarno-Medycznej
+# Ustawa z dnia 12 maja 2022 r. o Zespole Pomocy Humanitarno-Medycznej
 
 *USTAWA z dnia 12 maja 2022 r.*
 

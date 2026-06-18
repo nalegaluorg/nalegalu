@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty
+# Ustawa z dnia 5 sierpnia 2010 r. o zmianie ustawy o systemie oświaty
 
 *USTAWA z dnia 5 sierpnia 2010 r.*
 

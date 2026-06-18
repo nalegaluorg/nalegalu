@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przeciwdziałaniu przemocy domowej Preambuła (uchylona)
+# Ustawa z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej
 
 *USTAWA z dnia 29 lipca 2005 r.*
 
@@ -563,13 +563,19 @@ source: pdf
 
 7. W celu zabrania rzeczy i zwierząt domowych, o których mowa w ust. 6, osoba stosująca przemoc domową występuje pisemnie do kierownika jednostki organizacyjnej Policji lub komendanta jednostki organizacyjnej Żandarmerii Wojskowej, właściwego ze względu na miejsce położenia wspólnie zajmowanego mieszkania, o wyznaczenie nie później niż w terminie 48 godzin policjanta lub żołnierza Żandarmerii Wojskowej do uczestniczenia w czynności, o której mowa w ust. 6.
 
-8. Czynność, o której mowa w ust. 6, przeprowadza się po wcześniejszym uzgodnieniu terminu z osobą doznającą przemocy domowej. Osoba doznająca przemocy domowej ma prawo brać udział w tej czynności lub upoważnić do udziału w niej inną osobę. W przypadku sprzeciwu osoby doznającej przemocy domowej wskazane przedmioty lub zwierzęta domowe pozostawia się we wspólnie zajmowanym mieszkaniu lub w jego bezpośrednim otoczeniu. Art. 11aa. 1. Osoba doznająca przemocy domowej może żądać, aby sąd, o którym mowa w art. 11a ust. 1, wydał wobec osoby stosującej przemoc domową zakaz zbliżania się do niej na wyrażoną w metrach odległość lub zakazał osobie stosującej przemoc domową kontaktowania się z nią, gdy osoba stosująca przemoc domową swoim zachowaniem polegającym na stosowaniu przemocy domowej stwarza zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy.
+8. Czynność, o której mowa w ust. 6, przeprowadza się po wcześniejszym uzgodnieniu terminu z osobą doznającą przemocy domowej. Osoba doznająca przemocy domowej ma prawo brać udział w tej czynności lub upoważnić do udziału w niej inną osobę. W przypadku sprzeciwu osoby doznającej przemocy domowej wskazane przedmioty lub zwierzęta domowe pozostawia się we wspólnie zajmowanym mieszkaniu lub w jego bezpośrednim otoczeniu.
+
+**Art. 11aa.**
+
+1. Osoba doznająca przemocy domowej może żądać, aby sąd, o którym mowa w art. 11a ust. 1, wydał wobec osoby stosującej przemoc domową zakaz zbliżania się do niej na wyrażoną w metrach odległość lub zakazał osobie stosującej przemoc domową kontaktowania się z nią, gdy osoba stosująca przemoc domową swoim zachowaniem polegającym na stosowaniu przemocy domowej stwarza zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy.
 
 2. Osoba doznająca przemocy domowej może żądać wydania zakazu kontaktowania się z nią także, gdy osoba stosująca przemoc domową nęka ją za pomocą środków komunikacji elektronicznej na odległość, wzbudzając u niej uzasadnione okolicznościami poczucie zagrożenia, poniżenia lub udręczenia lub istotnie narusza jej prywatność.
 
 3. Sąd nie jest związany żądaniem wniosku o zobowiązanie osoby stosującej przemoc domową do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, wydanie zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia w zakresie wskazanej w nim odległości lub obszaru lub zakazu zbliżania się do osoby doznającej przemocy domowej w zakresie wskazanej w nim odległości, a także żądaniem wniosku o wydanie zakazu kontaktowania.
 
-4. Jeżeli osoba doznająca przemocy domowej uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, może ona żądać, aby sąd, o którym mowa w art. 11a ust. 1, wydał wobec osoby stosującej przemoc domową, stwarzającej zagrożenie dla jej życia lub zdrowia, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie. Art. 11ab. Rozpoznając sprawę o zmianę lub uchylenie postanowienia, o którym mowa w art. 11a ust. 1 oraz art. 11aa ust. 1, 2 i 4, sąd uwzględnia okoliczności dotyczące osób doznających przemocy domowej oraz osób stosujących tę przemoc, w tym w szczególności informacje o:
+4. Jeżeli osoba doznająca przemocy domowej uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, może ona żądać, aby sąd, o którym mowa w art. 11a ust. 1, wydał wobec osoby stosującej przemoc domową, stwarzającej zagrożenie dla jej życia lub zdrowia, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie.
+
+**Art. 11ab.** Rozpoznając sprawę o zmianę lub uchylenie postanowienia, o którym mowa w art. 11a ust. 1 oraz art. 11aa ust. 1, 2 i 4, sąd uwzględnia okoliczności dotyczące osób doznających przemocy domowej oraz osób stosujących tę przemoc, w tym w szczególności informacje o:
 
 - **1)** przebiegu i efektach działań podjętych i udokumentowanych w ramach procedury „Niebieskie Karty”, o ile procedura taka była prowadzona;
 - **2)** udziale i efektach uczestnictwa w programie korekcyjno-edukacyjnym dla osób stosujących przemoc domową lub programie psychologicznoterapeutycznym dla osób stosujących przemoc domową;

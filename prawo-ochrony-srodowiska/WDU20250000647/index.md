@@ -2225,7 +2225,9 @@ source: pdf
     - **b)** w terminie dwóch miesięcy po upływie każdego roku – informacji o realizacji działań, o których mowa w pkt 2,
     - **c)** informacji o każdej planowanej zmianie dotyczącej źródła spalania paliw, o którym mowa w przepisach wydanych na podstawie art. 146h, która może mieć wpływ na zmianę wielkości emisji substancji z tego źródła, w szczególności o planowanym wyłączeniu źródła spalania paliw z eksploatacji oraz o rozpoczęciu współspalania odpadów w źródle spalania paliw;
 
-- **4)** przestrzegania wymagań, o których mowa w art. 146i. Art. 146ga. Minister właściwy do spraw klimatu, po otrzymaniu informacji, o których mowa w art. 146g pkt 3 lit. a oraz c, przekazuje je niezwłocznie Krajowemu ośrodkowi bilansowania i zarządzania emisjami.
+- **4)** przestrzegania wymagań, o których mowa w art. 146i.
+
+**Art. 146ga.** Minister właściwy do spraw klimatu, po otrzymaniu informacji, o których mowa w art. 146g pkt 3 lit. a oraz c, przekazuje je niezwłocznie Krajowemu ośrodkowi bilansowania i zarządzania emisjami.
 
 **Art. 146h.** Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw energii, mając na uwadze art. 146f ust. 2, przepisy prawa Unii Europejskiej w sprawie emisji przemysłowych oraz cofnięte wnioski prowadzących instalacje, o których mowa w art. 146e, określi, w drodze rozporządzenia:
 

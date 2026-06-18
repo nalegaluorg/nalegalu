@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 Kierując się dobrem osób, które jako dzieci cierpiały na skutek czynności skierowanych przeciwko wolności seksualnej i obyczajności, mając na względzie ich ból, poczucie osamotnienia oraz traumatyczne przeżycia, które oddziałują również w ich dorosłym życiu, uwzględniając powinność uczynienia zadość społecznemu poczuciu sprawiedliwości, jako wyraz przekonania, że żadne działania skierowane przeciwko wolności seksualnej i obyczajności dzieci mimo upływu lat nie mogą być chronione tajemnicą ani nie mogą ulec zapomnieniu – dla ochrony czci, praw i godności osób poszkodowanych stanowi się, co następuje:
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15
 
 *USTAWA z dnia 30 sierpnia 2019 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-01-25 |
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000094) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/94/text.pdf) |
-
-Art. 45–47. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -700,6 +698,8 @@ Art. 45–47. (pominięte)
 ##### Oddział 2 (uchylony)
 
 #### Rozdział 6 Przepisy zmieniające
+
+**Art. 45–47.** (pominięte)
 
 #### Rozdział 7 Przepisy dostosowujące i przepis końcowy
 

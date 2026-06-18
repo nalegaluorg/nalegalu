@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej
 
 *USTAWA z dnia 5 grudnia 2002 r.*
 

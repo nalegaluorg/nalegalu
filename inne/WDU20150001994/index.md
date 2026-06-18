@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie fizjoterapeuty
+# Ustawa z dnia 25 września 2015 r. o zawodzie fizjoterapeuty
 
 *USTAWA z dnia 25 września 2015 r.*
 

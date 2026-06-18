@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Pile.
+# Rozporządzenie Rady Ministrów z dnia 18 lipca 2000 r. w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Pile.
 
 *ROZPORZĄDZENIE RADY MINISTRÓW z dnia 18 lipca 2000 r.*
 

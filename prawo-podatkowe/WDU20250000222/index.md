@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług, ustawy o podatku akcyzowym oraz niektórych innych ustaw
+# Ustawa z dnia 24 stycznia 2025 r. o zmianie ustawy o podatku od towarów i usług, ustawy o podatku akcyzowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 stycznia 2025 r.*
 
@@ -128,7 +128,11 @@ source: pdf
 
 5. Informacja, o której mowa w ust. 1, jest przekazywana w postaci elektronicznej odpowiadającej strukturze logicznej udostępnionej przez ministra właściwego do spraw finansów publicznych w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu. Informacja jest przesyłana za pomocą środków komunikacji elektronicznej w sposób określony w przepisach wydanych na podstawie art. 193a § 3 Ordynacji podatkowej i zgodnie z wymaganiami określonymi w tych przepisach.
 
-6. Przepisy działu IV rozdziału 3a Ordynacji podatkowej stosuje się odpowiednio. Art. 49aab. 1. Wypełnianie obowiązków określonych w art. 49aaa ust. 2–5 podlega kontroli Szefa Krajowej Administracji Skarbowej.
+6. Przepisy działu IV rozdziału 3a Ordynacji podatkowej stosuje się odpowiednio.
+
+**Art. 49aab.**
+
+1. Wypełnianie obowiązków określonych w art. 49aaa ust. 2–5 podlega kontroli Szefa Krajowej Administracji Skarbowej.
 
 2. Kontrolę, o której mowa w ust. 1, przeprowadzają upoważnieni przez Szefa Krajowej Administracji Skarbowej funkcjonariusze lub osoby zatrudnione w jednostkach organizacyjnych KAS posiadający poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych oznaczonych klauzulą „poufne”.
 

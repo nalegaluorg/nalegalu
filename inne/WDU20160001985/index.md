@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw
+# Ustawa z dnia 1 grudnia 2016 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 1 grudnia 2016 r.*
 

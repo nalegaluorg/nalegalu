@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o likwidacji Fundacji Platforma Przemysłu Przyszłości
+# Ustawa z dnia 19 listopada 2024 r. o likwidacji Fundacji Platforma Przemysłu Przyszłości
 
 *USTAWA z dnia 19 listopada 2024 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadzorze nad rynkiem kapitałowym
+# Ustawa z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym
 
 *USTAWA z dnia 29 lipca 2005 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2005-09-23 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051831537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1537/text.pdf) |
-
-Art. 48–52. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -943,6 +941,8 @@ Art. 48–52. (pominięte)
 **Art. 47a.** Komisja może, w drodze decyzji, nałożyć na kontrolowanego karę pieniężną w wysokości do 20 000 000 zł, jeżeli kontrolowany uniemożliwia lub utrudnia rozpoczęcie lub przeprowadzenie kontroli, w tym nie wykonuje obowiązków lub uniemożliwia wykonywanie czynności określonych w art. 32 ust. 4–6ba i 7 oraz art. 33 ust. 1.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 48–52.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

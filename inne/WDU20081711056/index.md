@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw w celu ujednolicenia terminologii informatycznej
+# Ustawa z dnia 4 września 2008 r. o zmianie ustaw w celu ujednolicenia terminologii informatycznej
 
 *USTAWA z dnia 4 września 2008 r.*
 

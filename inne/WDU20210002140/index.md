@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw
+# Ustawa z dnia 1 października 2021 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw
 
 *USTAWA z dnia 1 października 2021 r.*
 
@@ -102,7 +102,11 @@ source: pdf
 
 2. Jeżeli mały dom maklerski przestanie spełniać warunki określone w art. 12 ust. 1 rozporządzenia 2019/2033, niezwłocznie powiadamia o tym Komisję. W takim przypadku, w terminie 12 miesięcy od dnia, w którym przestał spełniać te warunki, zapewnia zgodność prowadzonej działalności także z dotyczącymi domów maklerskich przepisami niniejszego oddziału niewymienionymi w ust. 1 zdanie pierwsze oraz z dotyczącymi domów maklerskich przepisami wykonawczymi wydanymi na podstawie art. 110x i z przepisami wykonawczymi wydanymi na podstawie art. 110zaa, z tym że przepisy art. 110v, w zakresie dotyczącym zmiennych składników wynagrodzenia, stosuje do wynagrodzenia przyznanego za rok obrotowy następujący po roku obrotowym, w którym przestał spełniać warunki określone w art. 12 ust. 1 rozporządzenia 2019/2033.
 
-3. W przypadku gdy dom maklerski spełni warunki określone w art. 12 ust. 1 rozporządzenia 2019/2033 i powiadomi Komisję o ich spełnieniu, przepisy niniejszego oddziału dotyczące domów maklerskich, z wyjątkiem przepisów, o których mowa w ust. 1 zdanie pierwsze, oraz dotyczące domów maklerskich przepisy wykonawcze wydane na podstawie art. 110x i przepisy wykonawcze wydane na podstawie art. 110zaa przestaje się do niego stosować po upływie 6 miesięcy od dnia, w którym spełnił te warunki, o ile warunki te były spełnione nieprzerwanie przez cały ten okres 6 miesięcy. Art. 110ab. 1. Przepisy niniejszego oddziału stosuje się do domu maklerskiego na poziomie jednostkowym.
+3. W przypadku gdy dom maklerski spełni warunki określone w art. 12 ust. 1 rozporządzenia 2019/2033 i powiadomi Komisję o ich spełnieniu, przepisy niniejszego oddziału dotyczące domów maklerskich, z wyjątkiem przepisów, o których mowa w ust. 1 zdanie pierwsze, oraz dotyczące domów maklerskich przepisy wykonawcze wydane na podstawie art. 110x i przepisy wykonawcze wydane na podstawie art. 110zaa przestaje się do niego stosować po upływie 6 miesięcy od dnia, w którym spełnił te warunki, o ile warunki te były spełnione nieprzerwanie przez cały ten okres 6 miesięcy.
+
+**Art. 110ab.**
+
+1. Przepisy niniejszego oddziału stosuje się do domu maklerskiego na poziomie jednostkowym.
 
 2. W przypadku udzielenia przez Komisję zezwolenia, o którym mowa w art. 8 ust. 1 lub 4 rozporządzenia 2019/2033, do domu maklerskiego objętego grupowym testem kapitałowym stosuje się przepisy niniejszego oddziału na poziomie jednostkowym.
 
@@ -110,7 +114,11 @@ source: pdf
 
 4. W przypadku gdy podmiot dominujący mający siedzibę w państwie członkowskim przedłoży Komisji opinię prawną, że stosowanie przepisów niniejszego oddziału do podmiotu mającego siedzibę w państwie niebędącym państwem członkowskim, będącego podmiotem zależnym od tego podmiotu dominującego, byłoby niezgodne z prawem państwa, w którym ten podmiot zależny ma siedzibę, do domu maklerskiego nie stosuje się przepisów niniejszego oddziału na zasadzie skonsolidowanej w zakresie tego podmiotu zależnego.
 
-5. W przypadku gdy stosowanie przepisów niniejszego oddziału do podmiotu zależnego, o którym mowa w ust. 4, przestanie być niezgodne z prawem państwa, w którym ten podmiot zależny ma siedzibę, przepisy niniejszego oddziału stosuje się na zasadzie skonsolidowanej do domu maklerskiego w zakresie tego podmiotu zależnego. O ustaniu takiej niezgodności podmiot dominujący, o którym mowa w ust. 4, niezwłocznie informuje Komisję. Art. 110ac. 1. W przypadku gdy:
+5. W przypadku gdy stosowanie przepisów niniejszego oddziału do podmiotu zależnego, o którym mowa w ust. 4, przestanie być niezgodne z prawem państwa, w którym ten podmiot zależny ma siedzibę, przepisy niniejszego oddziału stosuje się na zasadzie skonsolidowanej do domu maklerskiego w zakresie tego podmiotu zależnego. O ustaniu takiej niezgodności podmiot dominujący, o którym mowa w ust. 4, niezwłocznie informuje Komisję.
+
+**Art. 110ac.**
+
+1. W przypadku gdy:
 
 - **1)** dom maklerski w ramach prowadzonej działalności maklerskiej wykonuje czynności, o których mowa w art. 69 ust. 2 pkt 3 lub 7, oraz
 - **2)** całkowita wartość skonsolidowanych aktywów domu maklerskiego obliczona jako średnia z ostatnich 12 miesięcy jest równa równowartości w złotych kwoty 5 000 000 000 euro lub przekracza tę wartość, oraz
@@ -125,7 +133,9 @@ source: pdf
 
 4. Komisja niezwłocznie informuje Europejski Urząd Nadzoru Bankowego o wydaniu i uchyleniu decyzji, o której mowa w ust. 1.
 
-5. Równowartość w złotych kwoty wyrażonej w euro, o której mowa w ust. 1 pkt 2, oblicza się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy. Art. 110ad. W przypadku gdy stosuje się przepisy art. 8 rozporządzenia 2019/2033, Komisja obejmuje nadzorem nad zgodnością z grupowym testem kapitałowym także inwestycyjną spółkę holdingową i finansową spółkę holdingową o działalności mieszanej, wchodzące w skład grupy firm inwestycyjnych, do której należy dom maklerski.”;
+5. Równowartość w złotych kwoty wyrażonej w euro, o której mowa w ust. 1 pkt 2, oblicza się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy.
+
+**Art. 110ad.** W przypadku gdy stosuje się przepisy art. 8 rozporządzenia 2019/2033, Komisja obejmuje nadzorem nad zgodnością z grupowym testem kapitałowym także inwestycyjną spółkę holdingową i finansową spółkę holdingową o działalności mieszanej, wchodzące w skład grupy firm inwestycyjnych, do której należy dom maklerski.”;
 
 - **16)** w art. 110b:
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) skuteczne procedury w celu identyfikacji ryzyka, na które jest lub może być narażony, lub ryzyka, które stwarza lub może stwarzać dla innych, jego szacowania i monitorowania, a także zarządzania tym ryzykiem;”,
@@ -455,7 +465,11 @@ source: pdf
 
 3. W przypadku gdy z badania i oceny nadzorczej lub weryfikacji, o której mowa w art. 110u, wynika że wysokość funduszy własnych zalecona przez Komisję zgodnie z ust. 1 nie jest wystarczająca, Komisja może zalecić domowi maklerskiemu utrzymywanie innego poziomu funduszy własnych, wskazując termin na dostosowanie ich wysokości przez dom maklerski.
 
-4. Komisja informuje Bankowy Fundusz Gwarancyjny o wydaniu domowi maklerskiemu, o którym mowa w art. 98 ust. 3, zaleceń określonych w ust. 1 i 3. Art. 110yb. 1. Komisja może nałożyć wymogi, o których mowa w art. 110y ust. 1 pkt 9, jeżeli na podstawie badania i oceny nadzorczej lub weryfikacji, o której mowa w art. 110u, stwierdzi, że dom maklerski albo mały dom maklerski, nieposiadający zwolnienia, o którym mowa w art. 43 ust. 1 akapit drugi rozporządzenia 2019/2033:
+4. Komisja informuje Bankowy Fundusz Gwarancyjny o wydaniu domowi maklerskiemu, o którym mowa w art. 98 ust. 3, zaleceń określonych w ust. 1 i 3.
+
+**Art. 110yb.**
+
+1. Komisja może nałożyć wymogi, o których mowa w art. 110y ust. 1 pkt 9, jeżeli na podstawie badania i oceny nadzorczej lub weryfikacji, o której mowa w art. 110u, stwierdzi, że dom maklerski albo mały dom maklerski, nieposiadający zwolnienia, o którym mowa w art. 43 ust. 1 akapit drugi rozporządzenia 2019/2033:
 
 - **1)** jest narażony na istotne ryzyko płynności niepokryte w całości lub pokryte w niewystarczającym stopniu wymogiem płynności określonym w części piątej rozporządzenia 2019/2033 lub
 - **2)** nie spełnia wymogów określonych w art. 110b, art. 110c lub art. 110e, a zastosowanie innych środków nadzorczych może nie zapewnić we właściwym stopniu i czasie przestrzegania wymogów płynności, o których mowa w przepisach niniejszego oddziału i rozporządzenia 2019/2033.
@@ -471,7 +485,10 @@ source: pdf
 - **1)** dodatkowe informacje sprawozdawcze, niezwłocznie lub okresowo, w tym w zakresie sprawozdawczości dotyczącej sytuacji kapitałowej lub poziomu płynności;
 - **2)** inne informacje niezbędne do wykonywania nadzoru w zakresie określonym w przepisach niniejszego oddziału lub rozporządzenia 2019/2033.”;
 - **41)** uchyla się art. 110za;
-- **42)** po art. 110za dodaje się art. 110zaa i art. 110zab w brzmieniu: „Art. 110zaa. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji, może określić, w drodze rozporządzenia, ekspozycje podlegające wyłączeniu z zakresu stosowania przepisów art. 37 rozporządzenia 2019/2033, mając na uwadze spełnienie warunków określonych w art. 41 ust. 2 tego rozporządzenia. Art. 110zab. W przypadku domu maklerskiego, który świadczy usługę prowadzenia rejestru akcjonariuszy, o którym mowa w art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, wartości akcji zarejestrowanych w rejestrze akcjonariuszy nie wlicza się do wartości aktywów zabezpieczonych i objętych administrowaniem, o których mowa w art. 4 ust. 1 pkt 29 rozporządzenia 2019/2033.”;
+- **42)** po art. 110za dodaje się art. 110zaa i art. 110zab w brzmieniu: „Art. 110zaa. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji, może określić, w drodze rozporządzenia, ekspozycje podlegające wyłączeniu z zakresu stosowania przepisów art. 37 rozporządzenia 2019/2033, mając na uwadze spełnienie warunków określonych w art. 41 ust. 2 tego rozporządzenia.
+
+**Art. 110zab.** W przypadku domu maklerskiego, który świadczy usługę prowadzenia rejestru akcjonariuszy, o którym mowa w art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, wartości akcji zarejestrowanych w rejestrze akcjonariuszy nie wlicza się do wartości aktywów zabezpieczonych i objętych administrowaniem, o których mowa w art. 4 ust. 1 pkt 29 rozporządzenia 2019/2033.”;
+
 - **43)** po art. 110zh dodaje się art. 110zha w brzmieniu: „Art. 110zha. Przepisów niniejszego oddziału nie stosuje się do domów maklerskich, o których mowa w art. 110zi ust. 1 pkt 4, oraz domów maklerskich stosujących rozporządzenie 575/2013, z zastrzeżeniem art. 110zza ust. 4 i 5.”;
 - **44)** w art. 110zi:
     - **a)** w ust. 1: – uchyla się pkt 1–3, – pkt 4 otrzymuje brzmienie: „4) domu maklerskim – rozumie się przez to dom maklerski, o którym mowa w art. 98 ust. 3, który nie jest domem maklerskim stosującym rozporządzenie 575/2013;”, – uchyla się pkt 5, – pkt 6 otrzymuje brzmienie: „6) finansowej spółce holdingowej o działalności mieszanej – rozumie się przez to finansową spółkę holdingową o działalności mieszanej, o której mowa w art. 4 ust. 1 pkt 40 rozporządzenia 2019/2033;”, – w pkt 8 wyraz „grupy” zastępuje się wyrazami „grupy firm inwestycyjnych”, – uchyla się pkt 9, – po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) grupie firm inwestycyjnych – rozumie się przez to grupę firm inwestycyjnych, o której mowa w art. 110a ust. 1 pkt 6aa;”, – pkt 10–13 otrzymują brzmienie: „10) holdingu mieszanym – rozumie się przez to holding mieszany, o którym mowa w art. 110a ust. 1 pkt 6c;
@@ -537,7 +554,9 @@ source: pdf
 
 - **56)** art. 110zv i art. 110zw otrzymują brzmienie: „Art. 110zv. 1. Zawarcie umowy, o której mowa w art. 110zr ust. 1, której stroną miałby się stać dom maklerski, wymaga zgody walnego zgromadzenia albo zgromadzenia wspólników domu maklerskiego.
 
-2. Zarząd domu maklerskiego co roku składa walnemu zgromadzeniu albo zgromadzeniu wspólników, wraz ze sprawozdaniem z działalności, sprawozdanie z wykonania umowy, o której mowa w art. 110zr ust. 1. Art. 110zw. Po udzieleniu zgody, o której mowa w art. 110zu, Komisja przekazuje kopię umowy, o której mowa w art. 110zr ust. 1, a także kopie zmian tej umowy Bankowemu Funduszowi Gwarancyjnemu oraz organom do spraw przymusowej restrukturyzacji w innych państwach członkowskich właściwym dla podmiotów zależnych, które są stronami umowy.”;
+2. Zarząd domu maklerskiego co roku składa walnemu zgromadzeniu albo zgromadzeniu wspólników, wraz ze sprawozdaniem z działalności, sprawozdanie z wykonania umowy, o której mowa w art. 110zr ust. 1.
+
+**Art. 110zw.** Po udzieleniu zgody, o której mowa w art. 110zu, Komisja przekazuje kopię umowy, o której mowa w art. 110zr ust. 1, a także kopie zmian tej umowy Bankowemu Funduszowi Gwarancyjnemu oraz organom do spraw przymusowej restrukturyzacji w innych państwach członkowskich właściwym dla podmiotów zależnych, które są stronami umowy.”;
 
 - **57)** w art. 110zx:
     - **a)** w ust. 1 w pkt 1 wyrazy „skonsolidowany nad grupą, w której skład wchodzi dom maklerski” zastępuje się wyrazami „na zasadzie skonsolidowanej”,
@@ -646,7 +665,14 @@ source: pdf
 
 5. Do domów maklerskich stosujących rozporządzenie nr 575/2013 nie stosuje się przepisów art. 110aa, art. 110ab, art. 110ad–110c, art. 110d pkt 1, art. 110e, art. 110f, art. 110g, art. 110i–110m, art. 110o–110r, art. 110u–110w oraz art. 110y–110z ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oraz przepisów wykonawczych wydanych na podstawie art. 110x i art. 110zaa tej ustawy.”;
 
-- **3)** w rozdziale 2 po oddziale Da dodaje się oddział Daa w brzmieniu: „Daa. Przekształcenie domu maklerskiego w bank krajowy Art. 42fa. Dom maklerski spełniający warunki, o których mowa w art. 4 ust. 1 pkt 1 lit. b rozporządzenia nr 575/2013, jest obowiązany przekształcić się w bank krajowy, na zasadach określonych w niniejszym oddziale. Art. 42fb. 1. W zakresie nieuregulowanym w niniejszym oddziale do przekształcenia domu maklerskiego w bank krajowy stosuje się odpowiednio przepisy art. 30–31a, art. 32–38 oraz przepisy wykonawcze wydane na podstawie art. 31b, z tym że:
+- **3)** w rozdziale 2 po oddziale Da dodaje się oddział Daa w brzmieniu: „Daa. Przekształcenie domu maklerskiego w bank krajowy
+
+**Art. 42fa.** Dom maklerski spełniający warunki, o których mowa w art. 4 ust. 1 pkt 1 lit. b rozporządzenia nr 575/2013, jest obowiązany przekształcić się w bank krajowy, na zasadach określonych w niniejszym oddziale.
+
+**Art. 42fb.**
+
+1. W zakresie nieuregulowanym w niniejszym oddziale do przekształcenia domu maklerskiego w bank krajowy stosuje się odpowiednio przepisy art. 30–31a, art. 32–38 oraz przepisy wykonawcze wydane na podstawie art. 31b, z tym że:
+
 - **1)** bank krajowy, o którym mowa w art. 42fa, może być wyłącznie bankiem w formie spółki akcyjnej;
 - **2)** jeżeli dom maklerski, o którym mowa w art. 42fa, prowadzi działalność w innej formie niż spółka akcyjna, jest obowiązany przekształcić się w spółkę akcyjną przed wystąpieniem o zezwolenia, o których mowa w art. 34 ust. 1 i art. 36;
 - **3)** ilekroć w tych przepisach jest mowa o kapitale założycielskim banku, należy przez to rozumieć fundusze własne domu maklerskiego odpowiadające elementom kapitału podstawowego Tier I, o których mowa w art. 26 ust. 1 lit. a– e rozporządzenia nr 575/2013, spełniające wymagania określone w art. 32;
@@ -662,7 +688,11 @@ source: pdf
 
 2. W przypadku, o którym mowa w ust. 1 pkt 2, przepisy działu III rozdziałów 1 i 4 Kodeksu spółek handlowych stosuje się, z tym że podmioty niebędące udziałowcami takiego domu maklerskiego nie mogą, do dnia przekształcenia, obejmować akcji w powstałej w wyniku przekształcenia spółce akcyjnej.
 
-3. Jeżeli do spełnienia wymogów określonych w ust. 1 pkt 3 konieczne jest zwiększenie funduszy własnych, akcje w podwyższonym kapitale zakładowym mogą zostać objęte wyłącznie przez dotychczasowych akcjonariuszy lub udziałowców domu maklerskiego. Art. 42fc. 1. Dom maklerski, o którym mowa w art. 42fa, występuje do Komisji Nadzoru Finansowego z wnioskiem o wydanie zezwoleń, o których mowa w art. 34 ust. 1 i art. 36:
+3. Jeżeli do spełnienia wymogów określonych w ust. 1 pkt 3 konieczne jest zwiększenie funduszy własnych, akcje w podwyższonym kapitale zakładowym mogą zostać objęte wyłącznie przez dotychczasowych akcjonariuszy lub udziałowców domu maklerskiego.
+
+**Art. 42fc.**
+
+1. Dom maklerski, o którym mowa w art. 42fa, występuje do Komisji Nadzoru Finansowego z wnioskiem o wydanie zezwoleń, o których mowa w art. 34 ust. 1 i art. 36:
 
 - **1)** najpóźniej w dniu, w którym miało miejsce jedno z następujących zdarzeń:
     - **a)** średnia miesięczna całkowita wartość aktywów, obliczona za okres 12 kolejnych miesięcy, jest równa lub wyższa niż równowartość w złotych 30 000 000 000 euro,
@@ -677,7 +707,13 @@ source: pdf
 
 3. Równowartość w złotych kwot, o których mowa w ust. 1 pkt 1, oblicza się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe.
 
-4. Średnie miesięczne wartości aktywów, o których mowa w ust. 1 pkt 1, oblicza się zgodnie z metodą obliczania wartości progowych, określoną w rozporządzeniu delegowanym Komisji wydanym na podstawie upoważnienia zawartego w art. 8a ust. 6 lit. b dyrektywy 2013/36/UE. Art. 42fd. Przed wydaniem zezwoleń, o których mowa w art. 34 ust. 1 i art. 36, w domu maklerskim przeprowadza się czynności kontrolne. Do czynności tych przepisy art. 133 ust. 2–4, art. 135 i art. 136 stosuje się odpowiednio. Art. 42fe. 1. Dom maklerski, o którym mowa w art. 42fa, do dnia zarejestrowania statutu banku, którego projekt zatwierdzono w zezwoleniu, o którym mowa w art. 34 ust. 1, prowadzi działalność maklerską w zakresie ustalonym w zezwoleniu, o którym mowa w art. 69 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+4. Średnie miesięczne wartości aktywów, o których mowa w ust. 1 pkt 1, oblicza się zgodnie z metodą obliczania wartości progowych, określoną w rozporządzeniu delegowanym Komisji wydanym na podstawie upoważnienia zawartego w art. 8a ust. 6 lit. b dyrektywy 2013/36/UE.
+
+**Art. 42fd.** Przed wydaniem zezwoleń, o których mowa w art. 34 ust. 1 i art. 36, w domu maklerskim przeprowadza się czynności kontrolne. Do czynności tych przepisy art. 133 ust. 2–4, art. 135 i art. 136 stosuje się odpowiednio.
+
+**Art. 42fe.**
+
+1. Dom maklerski, o którym mowa w art. 42fa, do dnia zarejestrowania statutu banku, którego projekt zatwierdzono w zezwoleniu, o którym mowa w art. 34 ust. 1, prowadzi działalność maklerską w zakresie ustalonym w zezwoleniu, o którym mowa w art. 69 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
 2. Z dniem zarejestrowania statutu banku, którego projekt zatwierdzono w zezwoleniu, o którym mowa w art. 34 ust. 1, zezwolenie, o którym mowa w art. 69 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, udzielone domowi maklerskiemu, o którym mowa w art. 42fa, uznaje się za zezwolenie, o którym mowa w art. 111 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.”;
 

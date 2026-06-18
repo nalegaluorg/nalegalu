@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o samorządzie załogi przedsiębiorstwa państwowego
+# Ustawa z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego.
 
 *USTAWA z dnia 25 września 1981 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o komornikach sądowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 września 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o komornikach sądowych
 
 *USTAWA z dnia 22 marca 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-10-02 |
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1458/text.pdf) |
-
-Art. 261–279. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -2781,6 +2779,8 @@ Art. 261–279. (pominięte)
 8. Kontrolę wykonania kary zakazu przyjmowania spraw z wyboru wierzyciela sprawuje prezes właściwego sądu rejonowego.
 
 #### Rozdział 12 Zmiany w przepisach
+
+**Art. 261–279.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i dostosowujące
 

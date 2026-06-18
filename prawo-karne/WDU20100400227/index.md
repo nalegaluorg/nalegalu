@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks karny, ustawy - Kodeks karny wykonawczy oraz ustawy - Prawo ochrony środowiska
+# Ustawa z dnia 12 lutego 2010 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks karny wykonawczy oraz ustawy - Prawo ochrony środowiska
 
 *USTAWA z dnia 12 lutego 2010 r.*
 

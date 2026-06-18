@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz ustawy – Prawo upadłościowe i naprawcze
+# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy - Kodeks cywilny, ustawy - Kodeks postępowania cywilnego oraz ustawy - Prawo upadłościowe i naprawcze
 
 *USTAWA z dnia 22 lipca 2010 r.*
 

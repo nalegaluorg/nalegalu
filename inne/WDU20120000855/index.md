@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o spółdzielczych kasach oszczędnościowo-kredytowych
+# Ustawa z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych
 
 *USTAWA z dnia 5 listopada 2009 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2012-07-26 |
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000855) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/855/text.pdf) |
-
-Art. 80a–85d. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -270,9 +268,15 @@ Art. 80a–85d. (pominięte)
 
 3. Osoby, organy i podmioty wymienione w ust. 1 i 2, w tym także pracownicy lub członkowie organów tych podmiotów, jeżeli nie są pracownikami, mogą wykorzystywać uzyskane informacje tylko zgodnie z celem ich przekazania. O ile odrębne przepisy nie stanowią inaczej, uzyskane informacje nie mogą być ujawniane innym osobom, organom lub podmiotom.
 
-4. Kasa nie ponosi odpowiedzialności za szkodę wynikającą z ujawnienia tajemnicy zawodowej przez osoby lub podmioty, którym kasa udzieliła informacji stanowiących tajemnicę zawodową na podstawie przepisów ustawy. Art. 9fa. 1. Podmioty, o których mowa w art. 9f ust. 1 pkt 4, 12–16 oraz 20– 23, w granicach uprawnień wynikających z tych przepisów, gmina po uzyskaniu informacji, o której mowa w art. 13c, z której wynika, że członek kasy zmarł, oraz Generalny Inspektor Informacji Finansowej, w granicach uprawnień wynikających z przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, są uprawnione do uzyskania zbiorczej informacji, o której mowa w art. 13d ust. 1, w dowolnej kasie.
+4. Kasa nie ponosi odpowiedzialności za szkodę wynikającą z ujawnienia tajemnicy zawodowej przez osoby lub podmioty, którym kasa udzieliła informacji stanowiących tajemnicę zawodową na podstawie przepisów ustawy.
 
-2. Podmioty, o których mowa w art. 9f ust. 1 pkt 4, 12–16 oraz 20–23, w granicach uprawnień wynikających z tych przepisów, są uprawnione do uzyskania informacji, o której mowa w art. 13d ust. 3, w dowolnej kasie. Art. 9fb. Podmiot, o którym mowa w art. 9f ust. 1 pkt 27, w granicach uprawnień wynikających z tego przepisu, jest uprawniony do uzyskania z Centralnej informacji zbiorczej informacji, o której mowa w art. 13d ust. 1, z tym że zbiorcza informacja może dotyczyć także rachunków członka niebędącego osobą fizyczną.
+**Art. 9fa.**
+
+1. Podmioty, o których mowa w art. 9f ust. 1 pkt 4, 12–16 oraz 20– 23, w granicach uprawnień wynikających z tych przepisów, gmina po uzyskaniu informacji, o której mowa w art. 13c, z której wynika, że członek kasy zmarł, oraz Generalny Inspektor Informacji Finansowej, w granicach uprawnień wynikających z przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, są uprawnione do uzyskania zbiorczej informacji, o której mowa w art. 13d ust. 1, w dowolnej kasie.
+
+2. Podmioty, o których mowa w art. 9f ust. 1 pkt 4, 12–16 oraz 20–23, w granicach uprawnień wynikających z tych przepisów, są uprawnione do uzyskania informacji, o której mowa w art. 13d ust. 3, w dowolnej kasie.
+
+**Art. 9fb.** Podmiot, o którym mowa w art. 9f ust. 1 pkt 27, w granicach uprawnień wynikających z tego przepisu, jest uprawniony do uzyskania z Centralnej informacji zbiorczej informacji, o której mowa w art. 13d ust. 1, z tym że zbiorcza informacja może dotyczyć także rachunków członka niebędącego osobą fizyczną.
 
 **Art. 9g.** Przepisy art. 9e i art. 9f stosuje się odpowiednio do Kasy Krajowej, z tym że w zakresie tajemnicy zawodowej uwzględnia się wszystkie informacje wytworzone lub pozyskane od kas w związku z wykonywaniem przez Kasę Krajową działalności określonej w ustawie, o ile ich ujawnienie mogłoby naruszyć chroniony prawem interes podmiotów, których te informacje bezpośrednio lub pośrednio dotyczą.
 
@@ -324,7 +328,11 @@ Art. 80a–85d. (pominięte)
 
 7. Na co najmniej 6 miesięcy przed upływem okresu, o którym mowa w ust. 1 pkt 2, kasa jest obowiązana poinformować członka kasy o skutkach upływu tego okresu.
 
-8. Przepisy ust. 1–7 nie dotyczą rachunku wspólnego. Art. 13aa. 1. Po śmierci przedsiębiorcy kasa nadal prowadzi imienny rachunek członka kasy związany z prowadzoną przez niego działalnością gospodarczą, jeżeli został ustanowiony zarząd sukcesyjny w rozumieniu ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170).
+8. Przepisy ust. 1–7 nie dotyczą rachunku wspólnego.
+
+**Art. 13aa.**
+
+1. Po śmierci przedsiębiorcy kasa nadal prowadzi imienny rachunek członka kasy związany z prowadzoną przez niego działalnością gospodarczą, jeżeli został ustanowiony zarząd sukcesyjny w rozumieniu ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170).
 
 2. W okresie od ustanowienia do dnia wygaśnięcia zarządu sukcesyjnego dostęp do środków pieniężnych zgromadzonych na imiennym rachunku członka kasy, o którym mowa w ust. 1, oraz prawo do wydawania dyspozycji przysługują zarządcy sukcesyjnemu.
 
@@ -1736,6 +1744,8 @@ Art. 80a–85d. (pominięte)
 **Art. 80.** (uchylony)
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 80a–85d.** (pominięte)
 
 **Art. 86.**
 

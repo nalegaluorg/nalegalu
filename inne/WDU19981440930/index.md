@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne
+# Ustawa z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne.
 
 *USTAWA z dnia 20 listopada 1998 r.*
 
@@ -1069,7 +1069,11 @@ source: pdf
 
 **Art. 57.** (pominięty)
 
-**Art. 57a.** Zwalnia się od podatku kwoty umorzenia zaległości oraz zwrotu wynikające z ustawy z dnia 25 lipca 2008 r. o szczególnych rozwiązaniach dla podatników uzyskujących niektóre przychody poza terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 894 oraz z 2012 r. poz. 1529). Art. 57aa. 1. Podatnik może od przychodu z pozarolniczej działalności gospodarczej obliczonego za 2021 r. na podstawie art. 11, odliczyć poniesione w tym roku:
+**Art. 57a.** Zwalnia się od podatku kwoty umorzenia zaległości oraz zwrotu wynikające z ustawy z dnia 25 lipca 2008 r. o szczególnych rozwiązaniach dla podatników uzyskujących niektóre przychody poza terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 894 oraz z 2012 r. poz. 1529).
+
+**Art. 57aa.**
+
+1. Podatnik może od przychodu z pozarolniczej działalności gospodarczej obliczonego za 2021 r. na podstawie art. 11, odliczyć poniesione w tym roku:
 
 - **1)** wydatki na nabycie zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego,
 - **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2021 r. poz. 1376 i 1595),
@@ -1087,7 +1091,9 @@ source: pdf
 
 - **1)** opłata elektroniczna – oznacza opłatę elektroniczną, o której mowa w art. 13ha ustawy z dnia 21 marca 1985 r. o drogach publicznych;
 - **2)** urządzenie pokładowe – oznacza urządzenie pokładowe, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywane do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS;
-- **3)** zewnętrzny system lokalizacyjny – oznacza zewnętrzny system lokalizacyjny, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywany do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS. Art. 57ab. Zwalnia się od podatku kwotę jednorazowego świadczenia pieniężnego za określony miesiąc przeznaczonego na ograniczenie niektórych skutków ekonomicznych związanych z sytuacją ekologiczną na rzece Odrze, o którym mowa w ustawie z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze (Dz. U. poz. 2014 i 2015).
+- **3)** zewnętrzny system lokalizacyjny – oznacza zewnętrzny system lokalizacyjny, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywany do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS.
+
+**Art. 57ab.** Zwalnia się od podatku kwotę jednorazowego świadczenia pieniężnego za określony miesiąc przeznaczonego na ograniczenie niektórych skutków ekonomicznych związanych z sytuacją ekologiczną na rzece Odrze, o którym mowa w ustawie z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze (Dz. U. poz. 2014 i 2015).
 
 **Art. 57b.**
 

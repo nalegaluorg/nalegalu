@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw
+# Ustawa z dnia 16 sierpnia 2023 r. o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw
 
 *USTAWA z dnia 16 sierpnia 2023 r.*
 
@@ -915,7 +915,11 @@ source: pdf
 
 § 4. Przepis art. 115 § 4 stosuje się odpowiednio do orzekania o odpowiedzialności podatkowej za zaległości podatkowe osoby prawnej lub spółki komandytowo-akcyjnej wykreślonej z właściwego rejestru na skutek jej podziału.”;
 
-- **6)** po dziale IIIB dodaje się dział IIIC w brzmieniu: „Dział IIIC Przeciwdziałanie nadużyciom w zakresie operacji transgranicznych Art. 119zzl. § 1. Szef Krajowej Administracji Skarbowej na wniosek, o którym mowa w art. 516 § 1, art. 550 § 1 lub art. 580 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm. ), zwany dalej w niniejszym dziale „wnioskiem”, wydaje opinię w zakresie transgranicznego przekształcenia, połączenia albo podziału spółki, zwaną dalej w niniejszym dziale „opinią”.
+- **6)** po dziale IIIB dodaje się dział IIIC w brzmieniu: „Dział IIIC Przeciwdziałanie nadużyciom w zakresie operacji transgranicznych
+
+**Art. 119zzl.**
+
+§ 1. Szef Krajowej Administracji Skarbowej na wniosek, o którym mowa w art. 516 § 1, art. 550 § 1 lub art. 580 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm. ), zwany dalej w niniejszym dziale „wnioskiem”, wydaje opinię w zakresie transgranicznego przekształcenia, połączenia albo podziału spółki, zwaną dalej w niniejszym dziale „opinią”.
 
 § 2. Przedmiotem opinii jest:
 
@@ -944,17 +948,33 @@ source: pdf
 
 § 6. Do wniosku dołącza się oryginał, kopię albo wydruk dowodu wniesienia opłaty, o której mowa w art. 119zzo § 1, a jeśli opłata ta została uiszczona po złożeniu wniosku – oryginał, kopię albo wydruk dowodu wniesienia opłaty należy przesłać do organu właściwego w sprawach opinii niezwłocznie po jej wniesieniu.
 
-§ 7. Minister właściwy do spraw finansów publicznych może udostępnić wzór wniosku, mając na względzie konieczność zapewnienia sprawnej obsługi tych wniosków. Art. 119zzm. § 1. Szef Krajowej Administracji Skarbowej wydaje opinię bez zbędnej zwłoki, nie później niż w terminie miesiąca od dnia otrzymania wniosku.
+§ 7. Minister właściwy do spraw finansów publicznych może udostępnić wzór wniosku, mając na względzie konieczność zapewnienia sprawnej obsługi tych wniosków.
+
+**Art. 119zzm.**
+
+§ 1. Szef Krajowej Administracji Skarbowej wydaje opinię bez zbędnej zwłoki, nie później niż w terminie miesiąca od dnia otrzymania wniosku.
 
 § 2. Do terminu, o którym mowa w § 1, nie wlicza się terminów i okresów, o których mowa w art. 139 § 4.
 
-§ 3. W przypadkach uzasadnionych złożonością sprawy, wymagających uwzględnienia dodatkowych informacji lub przeprowadzenia dodatkowych czynności wyjaśniających, termin, o którym mowa w § 1, może być przedłużony, nie więcej jednak niż o 3 miesiące. O przedłużeniu terminu Szef Krajowej Administracji Skarbowej niezwłocznie informuje sąd rejestrowy. Art. 119zzn. § 1. Szef Krajowej Administracji Skarbowej może w toku postępowania, w zakresie, o którym mowa w art. 119zzl § 2, zasięgnąć opinii ministra właściwego do spraw finansów publicznych, Generalnego Inspektora Informacji Finansowej, Dyrektora Krajowej Informacji Skarbowej, naczelnika urzędu skarbowego właściwego dla podatnika, naczelnika urzędu celno-skarbowego, a w przypadku podatków i opłat, do których ustalania lub określania są uprawnieni wójt, burmistrz (prezydent miasta), starosta lub marszałek województwa – również tych organów.
+§ 3. W przypadkach uzasadnionych złożonością sprawy, wymagających uwzględnienia dodatkowych informacji lub przeprowadzenia dodatkowych czynności wyjaśniających, termin, o którym mowa w § 1, może być przedłużony, nie więcej jednak niż o 3 miesiące. O przedłużeniu terminu Szef Krajowej Administracji Skarbowej niezwłocznie informuje sąd rejestrowy.
 
-§ 2. Do zasięgnięcia opinii przepisy art. 209 § 1–4 i 6 stosuje się odpowiednio. Art. 119zzo. § 1. Wniosek podlega opłacie w wysokości odpowiadającej 50% wysokości minimalnego wynagrodzenia za pracę obowiązującego w dniu złożenia wniosku, ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667). Opłatę uiszcza się w terminie 7 dni od dnia złożenia wniosku, na rachunek organu właściwego w sprawach opinii.
+**Art. 119zzn.**
+
+§ 1. Szef Krajowej Administracji Skarbowej może w toku postępowania, w zakresie, o którym mowa w art. 119zzl § 2, zasięgnąć opinii ministra właściwego do spraw finansów publicznych, Generalnego Inspektora Informacji Finansowej, Dyrektora Krajowej Informacji Skarbowej, naczelnika urzędu skarbowego właściwego dla podatnika, naczelnika urzędu celno-skarbowego, a w przypadku podatków i opłat, do których ustalania lub określania są uprawnieni wójt, burmistrz (prezydent miasta), starosta lub marszałek województwa – również tych organów.
+
+§ 2. Do zasięgnięcia opinii przepisy art. 209 § 1–4 i 6 stosuje się odpowiednio.
+
+**Art. 119zzo.**
+
+§ 1. Wniosek podlega opłacie w wysokości odpowiadającej 50% wysokości minimalnego wynagrodzenia za pracę obowiązującego w dniu złożenia wniosku, ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667). Opłatę uiszcza się w terminie 7 dni od dnia złożenia wniosku, na rachunek organu właściwego w sprawach opinii.
 
 § 2. Opłata uiszczona w kwocie wyższej niż należna podlega zwrotowi w kwocie nadwyżki, nie później niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii.
 
-§ 3. Opłata stanowi dochód budżetu państwa. Art. 119zzp. § 1. Szef Krajowej Administracji Skarbowej odmawia wydania opinii, jeżeli okoliczności sprawy wskazują na istnienie uzasadnionego przypuszczenia, że:
+§ 3. Opłata stanowi dochód budżetu państwa.
+
+**Art. 119zzp.**
+
+§ 1. Szef Krajowej Administracji Skarbowej odmawia wydania opinii, jeżeli okoliczności sprawy wskazują na istnienie uzasadnionego przypuszczenia, że:
 
 - **1)** transgraniczne przekształcenie, połączenie albo podział spółki może:
     - **a)** stanowić czynność lub element czynności określonej w art. 119a § 1 lub
@@ -963,9 +983,17 @@ source: pdf
 
 - **2)** nie zostaną zaspokojone lub nie zostały zabezpieczone zobowiązania pieniężne i niepodatkowe należności budżetowe, o których mowa w art. 119zzl § 2 pkt 2.
 
-§ 2. Odmowa wydania opinii zawiera wskazanie okoliczności, o których mowa w § 1. Art. 119zzq. Opinię albo odmowę jej wydania przesyła się do sądu rejestrowego, o którym mowa w art. 516 § 1, art. 550 § 1 lub art. 580 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, a odpis tego pisma przesyła się do wiadomości wnioskodawcy. Postanowienie kończące sprawę przesyła się do wnioskodawcy, a gdy stało się ono ostateczne, przesyła się je do sądu rejestrowego, a jego odpis – do wiadomości wnioskodawcy. Odpisy pism w sprawie kierowanych do wnioskodawcy lub organów, o których mowa w art. 119zzn § 1, a także pism kierowanych do Szefa Krajowej Administracji Skarbowej przesyła się do wiadomości sądu rejestrowego. Art. 119zzr. § 1. Wydanie opinii nie stanowi przeszkody do prowadzenia wobec spółki czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
+§ 2. Odmowa wydania opinii zawiera wskazanie okoliczności, o których mowa w § 1.
 
-§ 2. Opinia nie stanowi zaświadczenia w rozumieniu ustawy. Art. 119zzs. W zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 14d § 2, art. 14i § 2, art. 119x § 2, 4 i 5, art. 119y § 3, art. 120, art. 125, art. 126, art. 129, art. 130, art. 132, art. 135, art. 140, art. 143, art. 165 § 3 i 3b, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 187 § 3, art. 189 § 3, art. 197 § 1 i 3, art. 208, art. 210 § 1, 4 i 5, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16, 23, a także przepisy art. 45, art. 46, art. 47a, art. 49, art. 49b i art. 51 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.”;
+**Art. 119zzq.** Opinię albo odmowę jej wydania przesyła się do sądu rejestrowego, o którym mowa w art. 516 § 1, art. 550 § 1 lub art. 580 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, a odpis tego pisma przesyła się do wiadomości wnioskodawcy. Postanowienie kończące sprawę przesyła się do wnioskodawcy, a gdy stało się ono ostateczne, przesyła się je do sądu rejestrowego, a jego odpis – do wiadomości wnioskodawcy. Odpisy pism w sprawie kierowanych do wnioskodawcy lub organów, o których mowa w art. 119zzn § 1, a także pism kierowanych do Szefa Krajowej Administracji Skarbowej przesyła się do wiadomości sądu rejestrowego.
+
+**Art. 119zzr.**
+
+§ 1. Wydanie opinii nie stanowi przeszkody do prowadzenia wobec spółki czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
+
+§ 2. Opinia nie stanowi zaświadczenia w rozumieniu ustawy.
+
+**Art. 119zzs.** W zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 14d § 2, art. 14i § 2, art. 119x § 2, 4 i 5, art. 119y § 3, art. 120, art. 125, art. 126, art. 129, art. 130, art. 132, art. 135, art. 140, art. 143, art. 165 § 3 i 3b, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 187 § 3, art. 189 § 3, art. 197 § 1 i 3, art. 208, art. 210 § 1, 4 i 5, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16, 23, a także przepisy art. 45, art. 46, art. 47a, art. 49, art. 49b i art. 51 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.”;
 
 - **7)** w art. 293 w § 2 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „16) aktach sprawy o wydanie opinii, o której mowa w art. 119zzl § 1.”.
 

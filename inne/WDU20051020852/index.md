@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zapomodze pieniężnej dla niektórych emerytów, rencistów i osób pobierających świadczenie przedemerytalne albo zasiłek przedemerytalny w 2007 r.
+# Ustawa z dnia 20 maja 2005 r. o dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenie przedemerytalne albo zasiłek przedemerytalny
 
 *USTAWA z dnia 20 maja 2005 r.*
 
@@ -78,7 +78,9 @@ source: pdf
 
 - **1)** Kasa Rolniczego Ubezpieczenia Społecznego, o której mowa w art. 2 ust. 1 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników;
 - **2)** organ rentowy, o którym mowa w art. 4 pkt 6 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
-- **3)** organy emerytalno-rentowe Ministra Obrony Narodowej, Ministra Sprawiedliwości lub ministra właściwego do spraw wewnętrznych i administracji. Art. 11-16.(uchylone).
+- **3)** organy emerytalno-rentowe Ministra Obrony Narodowej, Ministra Sprawiedliwości lub ministra właściwego do spraw wewnętrznych i administracji.
+
+**Art. 11-16.** (uchylone).
 
 **Art. 17.**
 

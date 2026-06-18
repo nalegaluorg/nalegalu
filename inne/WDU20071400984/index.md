@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz ustawy o finansach publicznych
+# Ustawa z dnia 29 czerwca 2007 r. o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz ustawy o finansach publicznych
 
 *USTAWA z dnia 29 czerwca 2007 r.*
 

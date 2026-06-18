@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 17 października 2025 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 17 października 2025 r.*
 

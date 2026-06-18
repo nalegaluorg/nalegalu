@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kredycie konsumenckim
+# Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim
 
 *USTAWA z dnia 12 maja 2011 r.*
 
@@ -26,94 +26,6 @@ source: pdf
 | Data wydania | 2011-06-17 |
 | Ostatnia zmiana | 2025-10-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111260715) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/715/text.pdf) |
-
-Art. 59da. 1. Pośrednik kredytowy może podjąć wykonywanie działalności pośrednictwa w zakresie kredytów konsumenckich po uzyskaniu wpisu w dziale drugim rejestru pośredników kredytowych, o którym mowa w art. 62 ust. 4 pkt 2 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2025 r. poz. 720), zwanego dalej „rejestrem”.
-2. Pośrednikiem kredytowym może być wyłącznie:
-1) osoba fizyczna, która nie była prawomocnie skazana za przestępstwo przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe;
-2) osoba prawna, której członkowie zarządu spełniają warunek, o którym mowa w pkt 1;
-3) spółka nieposiadająca osobowości prawnej, której wspólnicy albo członkowie zarządu spełniają warunek, o którym mowa w pkt 1.
-3. Za dzień rozpoczęcia działalności pośrednictwa w zakresie kredytów konsumenckich uważa się dzień dokonania wpisu do rejestru.
-Art. 59db. 1. Komisja Nadzoru Finansowego dokonuje wpisu do rejestru na wniosek podmiotu zamierzającego podjąć wykonywanie działalności pośrednictwa w zakresie kredytów konsumenckich.
-2. Wniosek, o którym mowa w ust. 1, zawiera:
-1) firmę przedsiębiorcy;
-2) siedzibę (miejsce zamieszkania) i adres przedsiębiorcy;
-3) imiona i nazwiska oraz numery PESEL członków zarządu – w przypadku przedsiębiorcy będącego osobą prawną;
-4) imiona i nazwiska oraz numery PESEL członków zarządu albo wspólników – w przypadku przedsiębiorcy będącego spółką nieposiadającą osobowości prawnej;
-5) numer w rejestrze przedsiębiorców albo w ewidencji działalności gospodarczej ;
-6) NIP przedsiębiorcy.
-3. Do wniosku, o którym mowa w ust. 1, dołącza się zaświadczenie z Krajowego Rejestru Karnego o niekaralności w zakresie przestępstw, o których mowa w art. 59da ust. 2 pkt 1.
-4. Komisja Nadzoru Finansowego dokonuje wpisu do rejestru w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 1.
-Art. 59dc. 1. Podmiot składający wniosek, o którym mowa w art. 59db ust. 1, jest obowiązany wnieść opłatę w wysokości 600 zł.
-2. Wniosek o zmianę wpisu w rejestrze oraz wniosek o wykreślenie wpisu z rejestru podlegają opłacie w wysokości 200 zł.
-3. Koszty prowadzenia rejestru są pokrywane z opłat, o których mowa w ust. 1 i 2.
-Art. 59dd. Pośrednik kredytowy informuje Komisję Nadzoru Finansowego o zmianie danych objętych wpisem do rejestru niezwłocznie, nie później niż w terminie 7 dni od dnia zaistnienia tych zmian.
-Art. 59de. 1. Komisja Nadzoru Finansowego odmawia, w drodze decyzji administracyjnej, wpisu do rejestru, jeżeli podmiot ubiegający się o wpis do rejestru nie spełnia warunków, o których mowa w art. 59da ust. 2.
-2. Komisja Nadzoru Finansowego dokonuje niezwłocznie wykreślenia wpisu z rejestru dotyczącego podmiotu, który przestał spełniać warunki, o których mowa w art. 59da ust. 2, lub który został wykreślony z rejestru przedsiębiorców w Krajowym Rejestrze Sądowym albo z Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
-Art. 59df. 1. Działalność instytucji pożyczkowych w zakresie udzielania kredytu konsumenckiego podlega nadzorowi sprawowanemu przez Komisję Nadzoru Finansowego.
-2. Celem nadzoru nad działalnością instytucji pożyczkowych jest kontrola i egzekwowanie zgodności tej działalności z ustawą.
-Art. 59dg. 1. Instytucja pożyczkowa przekazuje Komisji Nadzoru Finansowego kwartalne i roczne sprawozdania z działalności w zakresie udzielania kredytu konsumenckiego, obejmujące informacje o:
-1) udzielonych kredytach konsumenckich, w tym ich liczbie, z uwzględnieniem liczby kredytów, o których mowa w art. 36b, wartości, strukturze terminowej i walutowej oraz opóźnieniach w spłatach;
-2) zawartych umowach o kredyt konsumencki, w tym ich liczbie, rodzajach oraz statusie;
-3) liczbie klientów, którym udzielono kredytu konsumenckiego, z uwzględnieniem liczby klientów, którym udzielono kredytu, o którym mowa w art. 36b;
-4) łącznych przychodach uzyskanych z działalności w zakresie udzielania kredytu konsumenckiego z wyodrębnieniem przychodów uzyskanych w związku z pozaodsetkowymi kosztami kredytu;
-5) bilansie, ze wskazaniem źródeł finansowania działalności w zakresie udzielania kredytu konsumenckiego;
-6) osobach, o których mowa w art. 59a ust. 4, w tym o spełnianiu przez te osoby wymagań określonych w tym przepisie.
-2. Sprawozdania, o których mowa w ust. 1, są przekazywane Komisji Nadzoru Finansowego wyłącznie w postaci elektronicznej za pośrednictwem udostępnionych przez Komisję Nadzoru Finansowego formularzy sprawozdawczych i kanałów komunikacji.
-3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy zakres i terminy przekazywania informacji, o których mowa w ust. 1, oraz wzory formularzy sprawozdawczych, mając na względzie zapewnienie Komisji Nadzoru Finansowego dostępu do danych niezbędnych do sprawowania skutecznego nadzoru nad działalnością instytucji pożyczkowych.
-Art. 59dh. 1. W ramach sprawowanego nadzoru Komisja Nadzoru Finansowego może:
-1) zażądać od instytucji pożyczkowej przekazania lub okresowego przekazywania przez tę instytucję informacji, dokumentów lub danych niezbędnych do realizacji celu, o którym mowa w art. 59df ust. 2, innych niż informacje określone w art. 59dg ust. 1;
-2) wydawać instytucji pożyczkowej zalecenia dotyczące zapewnienia zgodności działalności w zakresie udzielania kredytu konsumenckiego z ustawą.
-2. Środki podejmowane w ramach nadzoru nie mogą naruszać umów zawartych przez instytucje pożyczkowe na podstawie ustawy.
-Art. 59di. 1. W razie stwierdzenia, że instytucja pożyczkowa nie wykonuje obowiązku przekazania informacji, o którym mowa w art. 59dg ust. 1 lub art. 59dh ust. 1 pkt 1, albo wykonuje ten obowiązek nieprawidłowo, nie wykonała w wyznaczonym terminie zaleceń, o których mowa w art. 59dh ust. 1 pkt 2, a także w razie stwierdzenia, że działalność instytucji pożyczkowej, w tym również prowadzona z udziałem pośrednika kredytowego, jest wykonywana z naruszeniem ustawy lub wbrew warunkom określonym w ustawie, Komisja Nadzoru Finansowego może:
-1) nałożyć na członka zarządu instytucji pożyczkowej bezpośrednio odpowiedzialnego za stwierdzone nieprawidłowości administracyjną karę pieniężną w wysokości do 150 000 zł;
-2) nałożyć na instytucję pożyczkową administracyjną karę pieniężną w wysokości do 15 000 000 zł;
-3) wystąpić do właściwego organu instytucji pożyczkowej z wnioskiem o odwołanie członka zarządu, o którym mowa w pkt 1;
-4) zawiesić w czynnościach członka zarządu, o którym mowa w pkt 1, do czasu podjęcia rozstrzygnięcia w sprawie wniosku, o którym mowa w pkt 3;
-zawieszenie w czynnościach polega na wyłączeniu z podejmowania decyzji w zakresie praw i obowiązków majątkowych tego podmiotu;
-5) wykreślić instytucję pożyczkową z rejestru instytucji pożyczkowych, a jeżeli jest wpisana jednocześnie do rejestru pośredników kredytowych – także z tego rejestru.
-2. Zastosowanie sankcji, o których mowa w ust. 1, następuje w drodze decyzji administracyjnej.
-3. Decyzje administracyjne w sprawach, o których mowa w ust. 1 pkt 3–5, są natychmiast wykonalne.
-4. Administracyjna kara pieniężna, o której mowa w ust. 1 pkt 1, może zostać nałożona również po zakończeniu pełnienia funkcji członka zarządu, jeżeli naruszenie miało miejsce w trakcie pełnienia tej funkcji.
-5. Administracyjna kara pieniężna, o której mowa w ust. 1 pkt 2, może być nałożona również w przypadku, gdy podmiot jest wykreślony z rejestru instytucji pożyczkowych.
-6. Do administracyjnych kar pieniężnych, o których mowa w ust. 1 pkt 1 i 2, stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
-7. Komisja Nadzoru Finansowego przekazuje do publicznej wiadomości informację o zastosowaniu sankcji, o których mowa w ust. 1, chyba że ujawnienie takiej informacji mogłoby w sposób niewspółmierny zaszkodzić interesowi prawnemu zainteresowanych stron. Imię i nazwisko osoby, na którą została nałożona sankcja, o której mowa w ust. 1 pkt 1 lub 4, podaje się do publicznej wiadomości, gdy decyzja w tym przedmiocie jest ostateczna.
-8. Informacje, o których mowa w ust. 7, są dostępne na stronie internetowej Komisji Nadzoru Finansowego przez 5 lat, licząc od dnia ich udostępnienia, z tym że informacje dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, dostępne są na tej stronie przez rok.
-Art. 59dj. 1. Informacje uzyskane lub wytworzone w związku ze sprawowaniem nadzoru, których udzielenie, ujawnienie lub potwierdzenie mogłoby naruszyć chroniony prawem interes podmiotów, których te informacje bezpośrednio lub pośrednio dotyczą, lub utrudnić sprawowanie nadzoru nad instytucjami pożyczkowymi, stanowią tajemnicę zawodową chronioną zgodnie z przepisem art. 16 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r.
-poz. 640 i 1069).
-2. Obowiązku ochrony tajemnicy, o której mowa w ust. 1, nie narusza:
-1) udzielenie informacji niezbędne do realizacji celu, o którym mowa w art. 59df ust. 2;
-2) udzielenie informacji w sytuacjach, o których mowa w art. 59dk;
-3) złożenie zawiadomienia o podejrzeniu popełnienia przestępstwa;
-4) przekazanie informacji osobie, organowi lub innemu podmiotowi na podstawie przepisów odrębnych.
-3. W przypadku informacji objętych ochroną na podstawie przepisów odrębnych udzielanie i przekazywanie przez Komisję Nadzoru Finansowego informacji, o których mowa w ust. 1, nie może naruszać zasad ochrony określonej w tych przepisach.
-Art. 59dk. 1. Komisja Nadzoru Finansowego może udzielać informacji uzyskanych lub wytworzonych w związku z wykonywaniem zadań wynikających z ustawy:
-1) właściwym organom nadzorczym, w przypadkach określonych w art. 59dm;
-2) organom i instytucjom Unii Europejskiej właściwym w sprawach związanych z działalnością w zakresie udzielania kredytu konsumenckiego i nadzorem nad podmiotami prowadzącymi taką działalność.
-2. Udzielenie informacji, o których mowa w ust. 1, następuje, jeżeli:
-1) zapewnione jest wykorzystanie udzielonych informacji wyłącznie na potrzeby wykonywanych przez te organy zadań związanych z działalnością w zakresie udzielania kredytu konsumenckiego lub nadzorem nad podmiotami prowadzącymi taką działalność;
-2) zagwarantowane jest, że przekazywanie udzielonych informacji poza te organy jest możliwe wyłącznie po uprzednim uzyskaniu zgody Komisji Nadzoru Finansowego;
-3) nie narusza to zasad ochrony informacji wynikających z przepisów odrębnych.
-Art. 59dl. 1. W przypadku stwierdzenia, że podmiot, o którym mowa w art. 59d ust. 1, prowadząc na terytorium Rzeczypospolitej Polskiej działalność w zakresie udzielania kredytu konsumenckiego, narusza przepisy ustawy lub prowadzi tę działalność wbrew warunkom określonym w ustawie, Komisja Nadzoru Finansowego może:
-1) wezwać ten podmiot, w formie pisemnej, do przestrzegania przepisów prawa polskiego i wyznaczyć mu termin usunięcia stwierdzonych nieprawidłowości;
-2) zakazać wykonywania przez ten podmiot na terytorium Rzeczypospolitej Polskiej działalności w zakresie udzielania kredytu konsumenckiego.
-2. Zastosowanie sankcji, o której mowa w ust. 1 pkt 2, następuje w drodze decyzji administracyjnej. Decyzja ta jest natychmiast wykonalna. Komisja Nadzoru Finansowego podaje tę decyzję do publicznej wiadomości.
-Art. 59dm. 1. W celu zapewnienia zgodności działalności podmiotu, o którym mowa w art. 59d ust. 1, z przepisami ustawy oraz podejmowania w stosunku do tego podmiotu działań określonych w art. 59dl ust. 1, Komisja Nadzoru Finansowego może współpracować z właściwymi organami nadzorczymi państwa, o którym mowa w art. 59d ust. 1, o ile organy takie zostały wyznaczone.
-2. Komisja Nadzoru Finansowego może współpracować z właściwymi organami nadzorczymi państw, o których mowa w art. 59d ust. 1, o ile organy takie zostały wyznaczone, w zakresie działalności instytucji pożyczkowych na terytorium tych państw.
-3. W ramach współpracy, o której mowa w ust. 1 i 2, Komisja Nadzoru Finansowego może przekazywać właściwym organom nadzorczym, na żądanie lub z własnej inicjatywy, informacje uzyskane w związku z wykonywaniem zadań wynikających z ustawy, niezbędne do osiągnięcia celów tej współpracy.
-Art. 59dn. Komisja Nadzoru Finansowego oraz osoby wykonujące czynności nadzoru nie ponoszą odpowiedzialności za szkodę wynikającą ze zgodnego z przepisami działania lub zaniechania, które pozostaje w związku ze sprawowanym przez Komisję Nadzoru Finansowego nadzorem.
-Art. 59do. 1. Instytucje pożyczkowe są obowiązane do wnoszenia rocznych wpłat na pokrycie kosztów nadzoru w kwocie nie wyższej niż 0,5 % sumy przychodów uzyskanych z działalności w zakresie udzielania kredytu konsumenckiego za poprzedzający rok obrotowy i nie mniejszej niż równowartość w złotych 5000 euro, przeliczonej przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na ostatni dzień roboczy roku poprzedzającego rok kalendarzowy, w którym powstało zobowiązanie.
-2. Instytucje pożyczkowe przekazują Urzędowi Komisji Nadzoru Finansowego deklaracje o wysokości należnej wpłaty na pokrycie kosztów nadzoru. Przepis art. 59dg ust. 2 stosuje się odpowiednio.
-3. Prezes Rady Ministrów określi, w drodze rozporządzenia:
-1) terminy wnoszenia, wysokość i sposób obliczania wpłat, o których mowa w ust. 1,
-2) sposób i terminy rozliczania należności z tytułu wpłat, o których mowa w ust. 1,
-3) wzór deklaracji o wysokości należnej wpłaty na pokrycie kosztów nadzoru – mając na względzie, aby wysokość wpłat na pokrycie kosztów nadzoru nie wpływała w istotny sposób na zwiększenie kosztów działalności podmiotów obowiązanych do ich uiszczenia, konieczność zapewnienia skuteczności sprawowanego nadzoru oraz możliwość składania deklaracji o wysokości należnej wpłaty na pokrycie kosztów nadzoru w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
-Art. 59dp. 1. Instytucja pożyczkowa, która nie wykonała obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4, wnosi na rzecz Urzędu Komisji Nadzoru Finansowego opłatę sankcyjną w kwocie stanowiącej równowartość w złotych 5000 euro.
-Wniesienie opłaty sankcyjnej nie zwalnia z wykonania obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4.
-2. Równowartość w złotych wyrażonej w euro kwoty, o której mowa w ust. 1, przelicza się przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na ostatni dzień roboczy roku poprzedzającego rok kalendarzowy, w którym powstało zobowiązanie.
-3. W przypadku gdy Komisja Nadzoru Finansowego stwierdzi, że instytucja pożyczkowa nie wypełniła obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4, Komisja Nadzoru Finansowego wzywa tę instytucję do uiszczenia opłaty sankcyjnej, o której mowa w ust. 1, w terminie 30 dni oraz wzywa do niezwłocznego wykonania obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4, pouczając o treści ust. 1 zdanie drugie.
-4. Opłata sankcyjna, o której mowa w ust. 1, podlega egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620).
-5. Jeżeli niewykonanie obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4, pociąga za sobą konieczność nałożenia na instytucję pożyczkową kary wymienionej w art. 59di ust. 1 pkt 2, przy ustalaniu jej wysokości bierze się pod uwagę wysokość uiszczonej opłaty sankcyjnej, o której mowa w ust. 1.
-Art. 60–65. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -810,11 +722,23 @@ Art. 60–65. (pominięte)
 
 - **1)** zaświadczenie z Krajowego Rejestru Karnego o niekaralności za przestępstwo skarbowe dotyczące członków zarządu i rady nadzorczej lub ich oświadczenia następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że nie byłem skazany za przestępstwo skarbowe.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
 - **2)** zaświadczenie z Krajowego Rejestru Karnego o niekaralności za przestępstwa określone w ust. 4 dotyczące prokurenta lub jego oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że nie byłem skazany za przestępstwa, o których mowa w art. 59a ust. 4 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
-- **3)** oświadczenie, że spółka zamierza prowadzić działalność gospodarczą w zakresie udzielania kredytów konsumenckich jako instytucja pożyczkowa. Art. 59aa. 1. Instytucja pożyczkowa może podjąć wykonywanie działalności po uzyskaniu wpisu do rejestru instytucji pożyczkowych.
+- **3)** oświadczenie, że spółka zamierza prowadzić działalność gospodarczą w zakresie udzielania kredytów konsumenckich jako instytucja pożyczkowa.
 
-2. Za dzień rozpoczęcia działalności przez instytucję pożyczkową uważa się dzień dokonania wpisu do rejestru instytucji pożyczkowych. Art. 59ab. 1. Rejestr instytucji pożyczkowych jest prowadzony przez Komisję Nadzoru Finansowego.
+**Art. 59aa.**
 
-2. Rejestr instytucji pożyczkowych jest prowadzony w systemie teleinformatycznym i udostępniany na stronie internetowej Komisji Nadzoru Finansowego. Art. 59ac. 1. Komisja Nadzoru Finansowego dokonuje wpisu do rejestru instytucji pożyczkowych na wniosek podmiotu zamierzającego podjąć wykonywanie działalności instytucji pożyczkowej.
+1. Instytucja pożyczkowa może podjąć wykonywanie działalności po uzyskaniu wpisu do rejestru instytucji pożyczkowych.
+
+2. Za dzień rozpoczęcia działalności przez instytucję pożyczkową uważa się dzień dokonania wpisu do rejestru instytucji pożyczkowych.
+
+**Art. 59ab.**
+
+1. Rejestr instytucji pożyczkowych jest prowadzony przez Komisję Nadzoru Finansowego.
+
+2. Rejestr instytucji pożyczkowych jest prowadzony w systemie teleinformatycznym i udostępniany na stronie internetowej Komisji Nadzoru Finansowego.
+
+**Art. 59ac.**
+
+1. Komisja Nadzoru Finansowego dokonuje wpisu do rejestru instytucji pożyczkowych na wniosek podmiotu zamierzającego podjąć wykonywanie działalności instytucji pożyczkowej.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
@@ -828,11 +752,17 @@ Art. 60–65. (pominięte)
 
 4. Komisja Nadzoru Finansowego dokonuje wpisu do rejestru instytucji pożyczkowych w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust.
 
-1. Art. 59ad. 1. Podmiot składający wniosek, o którym mowa w art. 59ac ust. 1, jest obowiązany wnieść opłatę w wysokości 600 zł.
+1.
+
+**Art. 59ad.**
+
+1. Podmiot składający wniosek, o którym mowa w art. 59ac ust. 1, jest obowiązany wnieść opłatę w wysokości 600 zł.
 
 2. Wniosek o zmianę wpisu w rejestrze instytucji pożyczkowych oraz wniosek o wykreślenie wpisu z rejestru instytucji pożyczkowych podlegają opłacie w wysokości 200 zł.
 
-3. Koszty prowadzenia rejestru instytucji pożyczkowych pokrywane są z opłat, o których mowa w ust. 1 i 2. Art. 59ae. Rejestr instytucji pożyczkowych zawiera:
+3. Koszty prowadzenia rejestru instytucji pożyczkowych pokrywane są z opłat, o których mowa w ust. 1 i 2.
+
+**Art. 59ae.** Rejestr instytucji pożyczkowych zawiera:
 
 - **1)** numer wpisu do rejestru;
 - **2)** dane dotyczące instytucji pożyczkowej obejmujące:
@@ -841,7 +771,13 @@ Art. 60–65. (pominięte)
     - **c)** numer w rejestrze przedsiębiorców,
     - **d)** NIP;
 
-- **3)** wzmiankę o wykreśleniu z rejestru. Art. 59af. Instytucja pożyczkowa informuje Komisję Nadzoru Finansowego o zmianie danych objętych wpisem do rejestru instytucji pożyczkowych niezwłocznie, nie później niż w terminie 7 dni od dnia zaistnienia tych zmian. Art. 59ag. 1. Komisja Nadzoru Finansowego odmawia wpisu do rejestru instytucji pożyczkowych, jeżeli podmiot ubiegający się o wpis do rejestru nie spełnia warunków, o których mowa w art. 59a.
+- **3)** wzmiankę o wykreśleniu z rejestru.
+
+**Art. 59af.** Instytucja pożyczkowa informuje Komisję Nadzoru Finansowego o zmianie danych objętych wpisem do rejestru instytucji pożyczkowych niezwłocznie, nie później niż w terminie 7 dni od dnia zaistnienia tych zmian.
+
+**Art. 59ag.**
+
+1. Komisja Nadzoru Finansowego odmawia wpisu do rejestru instytucji pożyczkowych, jeżeli podmiot ubiegający się o wpis do rejestru nie spełnia warunków, o których mowa w art. 59a.
 
 2. Komisja Nadzoru Finansowego dokonuje niezwłocznie wykreślenia wpisu z rejestru instytucji pożyczkowych dotyczącego podmiotu, który przestał spełniać warunki, o których mowa w art. 59a, lub który został wykreślony z rejestru przedsiębiorców w Krajowym Rejestrze Sądowym.
 
@@ -857,11 +793,21 @@ Art. 60–65. (pominięte)
 
 1. Instytucja pożyczkowa i podmiot, o którym mowa w art. 59d, oraz osoby w nich zatrudnione, w tym na podstawie umowy o dzieło, umowy zlecenia lub innej umowy o podobnym charakterze, są obowiązane zachować w tajemnicy informacje stanowiące tajemnicę bankową, udostępnione zgodnie z art. 105 ust. 4 pkt 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe. Przetwarzanie tych informacji przez instytucję pożyczkową i podmiot, o którym mowa w art. 59d, może być wykonywane wyłącznie w celu oceny zdolności kredytowej konsumenta, o której mowa w art. 9, i analizy ryzyka kredytowego.
 
-2. Obowiązek, o którym mowa w ust. 1, trwa również po zaprzestaniu prowadzenia działalności jako instytucja pożyczkowa oraz po ustaniu stosunków prawnych, o których mowa w ust. 1. Art. 59ca. 1. Środki przeznaczane na udzielanie kredytów konsumenckich przez instytucje pożyczkowe nie mogą pochodzić z działalności polegającej na gromadzeniu środków pieniężnych innych osób fizycznych, osób prawnych lub jednostek organizacyjnych niemających osobowości prawnej, w tym z emisji obligacji lub innych instrumentów dłużnych oraz ze źródeł nieudokumentowanych.
+2. Obowiązek, o którym mowa w ust. 1, trwa również po zaprzestaniu prowadzenia działalności jako instytucja pożyczkowa oraz po ustaniu stosunków prawnych, o których mowa w ust. 1.
 
-2. Środki przeznaczane na udzielanie kredytów konsumenckich przez instytucje pożyczkowe mogą pochodzić z kredytu bankowego, albo z pożyczek od podmiotów powiązanych pod warunkiem, że podmioty powiązane udzielające takich pożyczek nie gromadzą środków pieniężnych w sposób wskazany w ust. 1. Art. 59cb. 1. Instytucja pożyczkowa w zakresie udzielanych kredytów konsumenckich za działania lub zaniechania jej pracowników, pośredników kredytowych, za których pośrednictwem udziela kredytów konsumenckich, lub innych przedsiębiorców wykonujących na jej rzecz czynności związane z udzielaniem kredytów konsumenckich, ponosi wobec kredytobiorców odpowiedzialność jak za swoje działania, w tym za działania związane z żądaniem od kredytobiorcy zapłaty odsetek lub pozaodsetkowych kosztów kredytu w wysokości wyższej niż maksymalna lub zawarciem umowy, która zobowiązuje do tego kredytobiorcę wobec instytucji pożyczkowej.
+**Art. 59ca.**
 
-2. Odpowiedzialności, o której mowa w ust. 1, nie można wyłączyć ani ograniczyć. Art. 59cc. Ciężar udowodnienia, że instytucja pożyczkowa prawidłowo zrealizowała obowiązki wynikające z ustawy wobec konsumentów, spoczywa na tej instytucji.
+1. Środki przeznaczane na udzielanie kredytów konsumenckich przez instytucje pożyczkowe nie mogą pochodzić z działalności polegającej na gromadzeniu środków pieniężnych innych osób fizycznych, osób prawnych lub jednostek organizacyjnych niemających osobowości prawnej, w tym z emisji obligacji lub innych instrumentów dłużnych oraz ze źródeł nieudokumentowanych.
+
+2. Środki przeznaczane na udzielanie kredytów konsumenckich przez instytucje pożyczkowe mogą pochodzić z kredytu bankowego, albo z pożyczek od podmiotów powiązanych pod warunkiem, że podmioty powiązane udzielające takich pożyczek nie gromadzą środków pieniężnych w sposób wskazany w ust. 1.
+
+**Art. 59cb.**
+
+1. Instytucja pożyczkowa w zakresie udzielanych kredytów konsumenckich za działania lub zaniechania jej pracowników, pośredników kredytowych, za których pośrednictwem udziela kredytów konsumenckich, lub innych przedsiębiorców wykonujących na jej rzecz czynności związane z udzielaniem kredytów konsumenckich, ponosi wobec kredytobiorców odpowiedzialność jak za swoje działania, w tym za działania związane z żądaniem od kredytobiorcy zapłaty odsetek lub pozaodsetkowych kosztów kredytu w wysokości wyższej niż maksymalna lub zawarciem umowy, która zobowiązuje do tego kredytobiorcę wobec instytucji pożyczkowej.
+
+2. Odpowiedzialności, o której mowa w ust. 1, nie można wyłączyć ani ograniczyć.
+
+**Art. 59cc.** Ciężar udowodnienia, że instytucja pożyczkowa prawidłowo zrealizowała obowiązki wynikające z ustawy wobec konsumentów, spoczywa na tej instytucji.
 
 **Art. 59d.**
 
@@ -875,7 +821,175 @@ Art. 60–65. (pominięte)
 
 #### Rozdział 5aa Wpis do rejestru pośredników kredytowych
 
+**Art. 59da.**
+
+1. Pośrednik kredytowy może podjąć wykonywanie działalności pośrednictwa w zakresie kredytów konsumenckich po uzyskaniu wpisu w dziale drugim rejestru pośredników kredytowych, o którym mowa w art. 62 ust. 4 pkt 2 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2025 r. poz. 720), zwanego dalej „rejestrem”.
+
+2. Pośrednikiem kredytowym może być wyłącznie:
+
+- **1)** osoba fizyczna, która nie była prawomocnie skazana za przestępstwo przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe;
+- **2)** osoba prawna, której członkowie zarządu spełniają warunek, o którym mowa w pkt 1;
+- **3)** spółka nieposiadająca osobowości prawnej, której wspólnicy albo członkowie zarządu spełniają warunek, o którym mowa w pkt 1.
+
+3. Za dzień rozpoczęcia działalności pośrednictwa w zakresie kredytów konsumenckich uważa się dzień dokonania wpisu do rejestru.
+
+**Art. 59db.**
+
+1. Komisja Nadzoru Finansowego dokonuje wpisu do rejestru na wniosek podmiotu zamierzającego podjąć wykonywanie działalności pośrednictwa w zakresie kredytów konsumenckich.
+
+2. Wniosek, o którym mowa w ust. 1, zawiera:
+
+- **1)** firmę przedsiębiorcy;
+- **2)** siedzibę (miejsce zamieszkania) i adres przedsiębiorcy;
+- **3)** imiona i nazwiska oraz numery PESEL członków zarządu – w przypadku przedsiębiorcy będącego osobą prawną;
+- **4)** imiona i nazwiska oraz numery PESEL członków zarządu albo wspólników – w przypadku przedsiębiorcy będącego spółką nieposiadającą osobowości prawnej;
+- **5)** numer w rejestrze przedsiębiorców albo w ewidencji działalności gospodarczej ;
+- **6)** NIP przedsiębiorcy.
+
+3. Do wniosku, o którym mowa w ust. 1, dołącza się zaświadczenie z Krajowego Rejestru Karnego o niekaralności w zakresie przestępstw, o których mowa w art. 59da ust. 2 pkt 1.
+
+4. Komisja Nadzoru Finansowego dokonuje wpisu do rejestru w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 1.
+
+**Art. 59dc.**
+
+1. Podmiot składający wniosek, o którym mowa w art. 59db ust. 1, jest obowiązany wnieść opłatę w wysokości 600 zł.
+
+2. Wniosek o zmianę wpisu w rejestrze oraz wniosek o wykreślenie wpisu z rejestru podlegają opłacie w wysokości 200 zł.
+
+3. Koszty prowadzenia rejestru są pokrywane z opłat, o których mowa w ust. 1 i 2.
+
+**Art. 59dd.** Pośrednik kredytowy informuje Komisję Nadzoru Finansowego o zmianie danych objętych wpisem do rejestru niezwłocznie, nie później niż w terminie 7 dni od dnia zaistnienia tych zmian.
+
+**Art. 59de.**
+
+1. Komisja Nadzoru Finansowego odmawia, w drodze decyzji administracyjnej, wpisu do rejestru, jeżeli podmiot ubiegający się o wpis do rejestru nie spełnia warunków, o których mowa w art. 59da ust. 2.
+
+2. Komisja Nadzoru Finansowego dokonuje niezwłocznie wykreślenia wpisu z rejestru dotyczącego podmiotu, który przestał spełniać warunki, o których mowa w art. 59da ust. 2, lub który został wykreślony z rejestru przedsiębiorców w Krajowym Rejestrze Sądowym albo z Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+
 #### Rozdział 5ab Nadzór nad działalnością instytucji pożyczkowych
+
+**Art. 59df.**
+
+1. Działalność instytucji pożyczkowych w zakresie udzielania kredytu konsumenckiego podlega nadzorowi sprawowanemu przez Komisję Nadzoru Finansowego.
+
+2. Celem nadzoru nad działalnością instytucji pożyczkowych jest kontrola i egzekwowanie zgodności tej działalności z ustawą.
+
+**Art. 59dg.**
+
+1. Instytucja pożyczkowa przekazuje Komisji Nadzoru Finansowego kwartalne i roczne sprawozdania z działalności w zakresie udzielania kredytu konsumenckiego, obejmujące informacje o:
+
+- **1)** udzielonych kredytach konsumenckich, w tym ich liczbie, z uwzględnieniem liczby kredytów, o których mowa w art. 36b, wartości, strukturze terminowej i walutowej oraz opóźnieniach w spłatach;
+- **2)** zawartych umowach o kredyt konsumencki, w tym ich liczbie, rodzajach oraz statusie;
+- **3)** liczbie klientów, którym udzielono kredytu konsumenckiego, z uwzględnieniem liczby klientów, którym udzielono kredytu, o którym mowa w art. 36b;
+- **4)** łącznych przychodach uzyskanych z działalności w zakresie udzielania kredytu konsumenckiego z wyodrębnieniem przychodów uzyskanych w związku z pozaodsetkowymi kosztami kredytu;
+- **5)** bilansie, ze wskazaniem źródeł finansowania działalności w zakresie udzielania kredytu konsumenckiego;
+- **6)** osobach, o których mowa w art. 59a ust. 4, w tym o spełnianiu przez te osoby wymagań określonych w tym przepisie.
+
+2. Sprawozdania, o których mowa w ust. 1, są przekazywane Komisji Nadzoru Finansowego wyłącznie w postaci elektronicznej za pośrednictwem udostępnionych przez Komisję Nadzoru Finansowego formularzy sprawozdawczych i kanałów komunikacji.
+
+3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy zakres i terminy przekazywania informacji, o których mowa w ust. 1, oraz wzory formularzy sprawozdawczych, mając na względzie zapewnienie Komisji Nadzoru Finansowego dostępu do danych niezbędnych do sprawowania skutecznego nadzoru nad działalnością instytucji pożyczkowych.
+
+**Art. 59dh.**
+
+1. W ramach sprawowanego nadzoru Komisja Nadzoru Finansowego może:
+
+- **1)** zażądać od instytucji pożyczkowej przekazania lub okresowego przekazywania przez tę instytucję informacji, dokumentów lub danych niezbędnych do realizacji celu, o którym mowa w art. 59df ust. 2, innych niż informacje określone w art. 59dg ust. 1;
+- **2)** wydawać instytucji pożyczkowej zalecenia dotyczące zapewnienia zgodności działalności w zakresie udzielania kredytu konsumenckiego z ustawą.
+
+2. Środki podejmowane w ramach nadzoru nie mogą naruszać umów zawartych przez instytucje pożyczkowe na podstawie ustawy.
+
+**Art. 59di.**
+
+1. W razie stwierdzenia, że instytucja pożyczkowa nie wykonuje obowiązku przekazania informacji, o którym mowa w art. 59dg ust. 1 lub art. 59dh ust. 1 pkt 1, albo wykonuje ten obowiązek nieprawidłowo, nie wykonała w wyznaczonym terminie zaleceń, o których mowa w art. 59dh ust. 1 pkt 2, a także w razie stwierdzenia, że działalność instytucji pożyczkowej, w tym również prowadzona z udziałem pośrednika kredytowego, jest wykonywana z naruszeniem ustawy lub wbrew warunkom określonym w ustawie, Komisja Nadzoru Finansowego może:
+
+- **1)** nałożyć na członka zarządu instytucji pożyczkowej bezpośrednio odpowiedzialnego za stwierdzone nieprawidłowości administracyjną karę pieniężną w wysokości do 150 000 zł;
+- **2)** nałożyć na instytucję pożyczkową administracyjną karę pieniężną w wysokości do 15 000 000 zł;
+- **3)** wystąpić do właściwego organu instytucji pożyczkowej z wnioskiem o odwołanie członka zarządu, o którym mowa w pkt 1;
+- **4)** zawiesić w czynnościach członka zarządu, o którym mowa w pkt 1, do czasu podjęcia rozstrzygnięcia w sprawie wniosku, o którym mowa w pkt 3; zawieszenie w czynnościach polega na wyłączeniu z podejmowania decyzji w zakresie praw i obowiązków majątkowych tego podmiotu;
+- **5)** wykreślić instytucję pożyczkową z rejestru instytucji pożyczkowych, a jeżeli jest wpisana jednocześnie do rejestru pośredników kredytowych – także z tego rejestru.
+
+2. Zastosowanie sankcji, o których mowa w ust. 1, następuje w drodze decyzji administracyjnej.
+
+3. Decyzje administracyjne w sprawach, o których mowa w ust. 1 pkt 3–5, są natychmiast wykonalne.
+
+4. Administracyjna kara pieniężna, o której mowa w ust. 1 pkt 1, może zostać nałożona również po zakończeniu pełnienia funkcji członka zarządu, jeżeli naruszenie miało miejsce w trakcie pełnienia tej funkcji.
+
+5. Administracyjna kara pieniężna, o której mowa w ust. 1 pkt 2, może być nałożona również w przypadku, gdy podmiot jest wykreślony z rejestru instytucji pożyczkowych.
+
+6. Do administracyjnych kar pieniężnych, o których mowa w ust. 1 pkt 1 i 2, stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
+
+7. Komisja Nadzoru Finansowego przekazuje do publicznej wiadomości informację o zastosowaniu sankcji, o których mowa w ust. 1, chyba że ujawnienie takiej informacji mogłoby w sposób niewspółmierny zaszkodzić interesowi prawnemu zainteresowanych stron. Imię i nazwisko osoby, na którą została nałożona sankcja, o której mowa w ust. 1 pkt 1 lub 4, podaje się do publicznej wiadomości, gdy decyzja w tym przedmiocie jest ostateczna.
+
+8. Informacje, o których mowa w ust. 7, są dostępne na stronie internetowej Komisji Nadzoru Finansowego przez 5 lat, licząc od dnia ich udostępnienia, z tym że informacje dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, dostępne są na tej stronie przez rok.
+
+**Art. 59dj.**
+
+1. Informacje uzyskane lub wytworzone w związku ze sprawowaniem nadzoru, których udzielenie, ujawnienie lub potwierdzenie mogłoby naruszyć chroniony prawem interes podmiotów, których te informacje bezpośrednio lub pośrednio dotyczą, lub utrudnić sprawowanie nadzoru nad instytucjami pożyczkowymi, stanowią tajemnicę zawodową chronioną zgodnie z przepisem art. 16 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069).
+
+2. Obowiązku ochrony tajemnicy, o której mowa w ust. 1, nie narusza:
+
+- **1)** udzielenie informacji niezbędne do realizacji celu, o którym mowa w art. 59df ust. 2;
+- **2)** udzielenie informacji w sytuacjach, o których mowa w art. 59dk;
+- **3)** złożenie zawiadomienia o podejrzeniu popełnienia przestępstwa;
+- **4)** przekazanie informacji osobie, organowi lub innemu podmiotowi na podstawie przepisów odrębnych.
+
+3. W przypadku informacji objętych ochroną na podstawie przepisów odrębnych udzielanie i przekazywanie przez Komisję Nadzoru Finansowego informacji, o których mowa w ust. 1, nie może naruszać zasad ochrony określonej w tych przepisach.
+
+**Art. 59dk.**
+
+1. Komisja Nadzoru Finansowego może udzielać informacji uzyskanych lub wytworzonych w związku z wykonywaniem zadań wynikających z ustawy:
+
+- **1)** właściwym organom nadzorczym, w przypadkach określonych w art. 59dm;
+- **2)** organom i instytucjom Unii Europejskiej właściwym w sprawach związanych z działalnością w zakresie udzielania kredytu konsumenckiego i nadzorem nad podmiotami prowadzącymi taką działalność.
+
+2. Udzielenie informacji, o których mowa w ust. 1, następuje, jeżeli:
+
+- **1)** zapewnione jest wykorzystanie udzielonych informacji wyłącznie na potrzeby wykonywanych przez te organy zadań związanych z działalnością w zakresie udzielania kredytu konsumenckiego lub nadzorem nad podmiotami prowadzącymi taką działalność;
+- **2)** zagwarantowane jest, że przekazywanie udzielonych informacji poza te organy jest możliwe wyłącznie po uprzednim uzyskaniu zgody Komisji Nadzoru Finansowego;
+- **3)** nie narusza to zasad ochrony informacji wynikających z przepisów odrębnych.
+
+**Art. 59dl.**
+
+1. W przypadku stwierdzenia, że podmiot, o którym mowa w art. 59d ust. 1, prowadząc na terytorium Rzeczypospolitej Polskiej działalność w zakresie udzielania kredytu konsumenckiego, narusza przepisy ustawy lub prowadzi tę działalność wbrew warunkom określonym w ustawie, Komisja Nadzoru Finansowego może:
+
+- **1)** wezwać ten podmiot, w formie pisemnej, do przestrzegania przepisów prawa polskiego i wyznaczyć mu termin usunięcia stwierdzonych nieprawidłowości;
+- **2)** zakazać wykonywania przez ten podmiot na terytorium Rzeczypospolitej Polskiej działalności w zakresie udzielania kredytu konsumenckiego.
+
+2. Zastosowanie sankcji, o której mowa w ust. 1 pkt 2, następuje w drodze decyzji administracyjnej. Decyzja ta jest natychmiast wykonalna. Komisja Nadzoru Finansowego podaje tę decyzję do publicznej wiadomości.
+
+**Art. 59dm.**
+
+1. W celu zapewnienia zgodności działalności podmiotu, o którym mowa w art. 59d ust. 1, z przepisami ustawy oraz podejmowania w stosunku do tego podmiotu działań określonych w art. 59dl ust. 1, Komisja Nadzoru Finansowego może współpracować z właściwymi organami nadzorczymi państwa, o którym mowa w art. 59d ust. 1, o ile organy takie zostały wyznaczone.
+
+2. Komisja Nadzoru Finansowego może współpracować z właściwymi organami nadzorczymi państw, o których mowa w art. 59d ust. 1, o ile organy takie zostały wyznaczone, w zakresie działalności instytucji pożyczkowych na terytorium tych państw.
+
+3. W ramach współpracy, o której mowa w ust. 1 i 2, Komisja Nadzoru Finansowego może przekazywać właściwym organom nadzorczym, na żądanie lub z własnej inicjatywy, informacje uzyskane w związku z wykonywaniem zadań wynikających z ustawy, niezbędne do osiągnięcia celów tej współpracy.
+
+**Art. 59dn.** Komisja Nadzoru Finansowego oraz osoby wykonujące czynności nadzoru nie ponoszą odpowiedzialności za szkodę wynikającą ze zgodnego z przepisami działania lub zaniechania, które pozostaje w związku ze sprawowanym przez Komisję Nadzoru Finansowego nadzorem.
+
+**Art. 59do.**
+
+1. Instytucje pożyczkowe są obowiązane do wnoszenia rocznych wpłat na pokrycie kosztów nadzoru w kwocie nie wyższej niż 0,5 % sumy przychodów uzyskanych z działalności w zakresie udzielania kredytu konsumenckiego za poprzedzający rok obrotowy i nie mniejszej niż równowartość w złotych 5000 euro, przeliczonej przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na ostatni dzień roboczy roku poprzedzającego rok kalendarzowy, w którym powstało zobowiązanie.
+
+2. Instytucje pożyczkowe przekazują Urzędowi Komisji Nadzoru Finansowego deklaracje o wysokości należnej wpłaty na pokrycie kosztów nadzoru. Przepis art. 59dg ust. 2 stosuje się odpowiednio.
+
+3. Prezes Rady Ministrów określi, w drodze rozporządzenia:
+
+- **1)** terminy wnoszenia, wysokość i sposób obliczania wpłat, o których mowa w ust. 1,
+- **2)** sposób i terminy rozliczania należności z tytułu wpłat, o których mowa w ust. 1,
+- **3)** wzór deklaracji o wysokości należnej wpłaty na pokrycie kosztów nadzoru – mając na względzie, aby wysokość wpłat na pokrycie kosztów nadzoru nie wpływała w istotny sposób na zwiększenie kosztów działalności podmiotów obowiązanych do ich uiszczenia, konieczność zapewnienia skuteczności sprawowanego nadzoru oraz możliwość składania deklaracji o wysokości należnej wpłaty na pokrycie kosztów nadzoru w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+**Art. 59dp.**
+
+1. Instytucja pożyczkowa, która nie wykonała obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4, wnosi na rzecz Urzędu Komisji Nadzoru Finansowego opłatę sankcyjną w kwocie stanowiącej równowartość w złotych 5000 euro. Wniesienie opłaty sankcyjnej nie zwalnia z wykonania obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4.
+
+2. Równowartość w złotych wyrażonej w euro kwoty, o której mowa w ust. 1, przelicza się przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na ostatni dzień roboczy roku poprzedzającego rok kalendarzowy, w którym powstało zobowiązanie.
+
+3. W przypadku gdy Komisja Nadzoru Finansowego stwierdzi, że instytucja pożyczkowa nie wypełniła obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4, Komisja Nadzoru Finansowego wzywa tę instytucję do uiszczenia opłaty sankcyjnej, o której mowa w ust. 1, w terminie 30 dni oraz wzywa do niezwłocznego wykonania obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4, pouczając o treści ust. 1 zdanie drugie.
+
+4. Opłata sankcyjna, o której mowa w ust. 1, podlega egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620).
+
+5. Jeżeli niewykonanie obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4, pociąga za sobą konieczność nałożenia na instytucję pożyczkową kary wymienionej w art. 59di ust. 1 pkt 2, przy ustalaniu jej wysokości bierze się pod uwagę wysokość uiszczonej opłaty sankcyjnej, o której mowa w ust. 1.
 
 #### Rozdział 5b Przepisy karne
 
@@ -904,6 +1018,8 @@ Art. 60–65. (pominięte)
 2. Jeżeli sprawca działa nieumyślnie, podlega grzywnie do 500 000 zł albo karze pozbawienia wolności do roku, albo obu tym karom łącznie.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 60–65.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

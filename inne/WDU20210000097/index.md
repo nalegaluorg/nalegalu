@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie farmaceuty
+# Ustawa z dnia 10 grudnia 2020 r. o zawodzie farmaceuty
 
 *USTAWA z dnia 10 grudnia 2020 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-01-15 |
 | Ostatnia zmiana | 2025-05-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/97/text.pdf) |
-
-Art. 82–86. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1636,6 +1634,8 @@ Art. 82–86. (pominięte)
 2. Jeżeli sprawca działa nieumyślnie, podlega grzywnie.
 
 #### Rozdział 7 Przepisy zmieniające
+
+**Art. 82–86.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o cudzoziemcach
+# Ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach
 
 *USTAWA z dnia 12 grudnia 2013 r.*
 
@@ -29,7 +29,6 @@ source: pdf
 
 Mobilność krótkoterminowa i długoterminowa pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż, w ramach przeniesienia wewnątrz przedsiębiorstwa
 Mobilność krótkoterminowa i długoterminowa naukowca
-Art. 466–506. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -2890,7 +2889,9 @@ Art. 466–506. (pominięte)
 
 1. Jednostka przyjmująca zawiadamia pisemnie wojewodę, który udzielił zezwolenia, o którym mowa w art. 139a ust. 1, w terminie 15 dni roboczych, o każdej zmianie okoliczności mających wpływ na warunki udzielonego zezwolenia.
 
-2. Jeżeli zezwolenia, o którym mowa w art. 139a ust. 1, udzielił Szef Urzędu w drugiej instancji, zawiadomienie, o którym mowa w ust. 1, kieruje się do wojewody, który orzekał w sprawie udzielenia zezwolenia, o którym mowa w art. 139a ust. 1, w pierwszej instancji. Art. 139ma. Jednostka przyjmująca mająca siedzibę na terytorium Rzeczypospolitej Polskiej zawiadamia o zamiarze korzystania z mobilności krótkoterminowej lub długoterminowej pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż, w ramach przeniesienia wewnątrz przedsiębiorstwa w innym państwie członkowskim Unii Europejskiej przez cudzoziemca posiadającego zezwolenie, o którym mowa w art. 139a ust. 1, właściwy organ innego państwa członkowskiego Unii Europejskiej, w którym cudzoziemiec zamierza korzystać z tej mobilności, oraz Szefa Urzędu, jeżeli przepisy obowiązujące w tym państwie członkowskim przewidują wymóg takiego zawiadomienia. (Rozdział 3b – oznaczenie i tytuł rozdziału – uchylone)
+2. Jeżeli zezwolenia, o którym mowa w art. 139a ust. 1, udzielił Szef Urzędu w drugiej instancji, zawiadomienie, o którym mowa w ust. 1, kieruje się do wojewody, który orzekał w sprawie udzielenia zezwolenia, o którym mowa w art. 139a ust. 1, w pierwszej instancji.
+
+**Art. 139ma.** Jednostka przyjmująca mająca siedzibę na terytorium Rzeczypospolitej Polskiej zawiadamia o zamiarze korzystania z mobilności krótkoterminowej lub długoterminowej pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż, w ramach przeniesienia wewnątrz przedsiębiorstwa w innym państwie członkowskim Unii Europejskiej przez cudzoziemca posiadającego zezwolenie, o którym mowa w art. 139a ust. 1, właściwy organ innego państwa członkowskiego Unii Europejskiej, w którym cudzoziemiec zamierza korzystać z tej mobilności, oraz Szefa Urzędu, jeżeli przepisy obowiązujące w tym państwie członkowskim przewidują wymóg takiego zawiadomienia. (Rozdział 3b – oznaczenie i tytuł rozdziału – uchylone)
 
 **Art. 139n.**
 
@@ -8811,6 +8812,8 @@ Art. 466–506. (pominięte)
 ### DZIAŁ XIII Przepisy zmieniające, przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
+
+**Art. 466–506.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i końcowe
 

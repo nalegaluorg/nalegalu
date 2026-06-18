@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o inwestycjach w zakresie budowy portów zewnętrznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o inwestycjach w zakresie budowy portów zewnętrznych
 
 *USTAWA z dnia 9 sierpnia 2019 r.*
 

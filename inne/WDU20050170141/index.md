@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o mniejszościach narodowych i etnicznych oraz o języku regionalnym
+# Ustawa z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym
 
 *USTAWA z dnia 6 stycznia 2005 r.*
 
@@ -450,7 +450,9 @@ source: pdf
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
-**Art. 33.** (uchylony) Art. 34–38. (pominięte)
+**Art. 33.** (uchylony)
+
+**Art. 34–38.** (pominięte)
 
 **Art. 39.** Minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych zawiadomi organy, o których mowa w art. 24 ust. 1 pkt 1, oraz organizacje mniejszości oraz społeczności posługującej się językiem, o którym mowa w art. 19, o zamiarze wystąpienia do Prezesa Rady Ministrów z wnioskiem, o którym mowa w art. 24 ust. 2, w terminie 60 dni od dnia ogłoszenia ustawy.
 

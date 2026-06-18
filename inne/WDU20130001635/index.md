@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie powiadamiania ratunkowego
+# Ustawa z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego
 
 *USTAWA z dnia 22 listopada 2013 r.*
 
@@ -476,7 +476,9 @@ source: pdf
 
 13. Kara pieniężna podlega egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
 
-14. Kara pieniężna stanowi dochód budżetu państwa. Art. 22–28. (pominięte)
+14. Kara pieniężna stanowi dochód budżetu państwa.
+
+**Art. 22–28.** (pominięte)
 
 **Art. 28a.** (uchylony)
 

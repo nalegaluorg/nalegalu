@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo o ustroju sądów administracyjnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o ustroju sądów administracyjnych
 
 | Pole | Wartość |
 |---|---|

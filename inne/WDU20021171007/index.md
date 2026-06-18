@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o materiałach wybuchowych przeznaczonych do użytku cywilnego
+# Ustawa z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego.
 
 *USTAWA z dnia 21 czerwca 2002 r.*
 
@@ -26,115 +26,6 @@ source: pdf
 | Data wydania | 2002-07-25 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021171007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1007/text.pdf) |
-
-Art. 62zc. 1. Materiały wybuchowe przeznaczone do użytku cywilnego wprowadzone do obrotu podlegają kontroli organów nadzoru rynku w zakresie spełniania przez te materiały wymagań, o których mowa w ustawie, oraz kontroli w zakresie niezgodności formalnych w odniesieniu do tych materiałów.
-2. Kontrolę w zakresie, o którym mowa w ust. 1, prowadzą:
-1) Prezes Wyższego Urzędu Górniczego – w odniesieniu do materiałów wybuchowych przeznaczonych do użytku cywilnego stosowanych w górnictwie;
-2) inspektorzy pracy – w odniesieniu do materiałów wybuchowych przeznaczonych do użytku cywilnego stosowanych poza górnictwem.
-3. (uchylony)
-4. Postępowania w sprawach wprowadzonych do obrotu materiałów wybuchowych przeznaczonych do użytku cywilnego niezgodnych z wymaganiami ustawy oraz niezgodności formalnych prowadzą:
-1) Prezes Wyższego Urzędu Górniczego – w odniesieniu do materiałów wybuchowych przeznaczonych do użytku cywilnego stosowanych w górnictwie;
-2) okręgowi inspektorzy pracy – w odniesieniu do materiałów wybuchowych przeznaczonych do użytku cywilnego stosowanych poza górnictwem.
-5. Kontrolę i postępowania, o których mowa w ust. 1 i 4, prowadzi się zgodnie z przepisami ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, z tym że za niezgodności formalne uważa się niezgodności polegające na naruszeniu przez podmiot gospodarczy obowiązków, o których mowa w art. 62v ust. 1 pkt 2, 4–9 i 14, art. 62x ust. 1 pkt 3–6 i 11 oraz art. 62y ust. 1 pkt 1.
-Art. 62zd. Przepisów niniejszego rozdziału nie stosuje się do wyrobów pirotechnicznych.
-Art. 62ze. 1. Producent wyrobu pirotechnicznego jest obowiązany do:
-1) zapewnienia, że wyrób pirotechniczny został zaprojektowany i wytworzony zgodnie z wymaganiami bezpieczeństwa;
-2) sporządzenia dokumentacji technicznej wyrobu pirotechnicznego;
-3) zlecenia jednostce notyfikowanej przeprowadzenia procedury oceny zgodności zgodnie z przepisami wydanymi na podstawie art. 2g ust. 2;
-4) w przypadku wykazania zgodności wyrobu pirotechnicznego z wymaganiami bezpieczeństwa, sporządzenia deklaracji zgodności i umieszczenia na nim:
-a) oznakowania CE w sposób widoczny, czytelny i trwały,
-b) numeru identyfikacyjnego jednostki notyfikowanej zaangażowanej na etapie kontroli produkcji umieszczonego według wskazań tej jednostki, jeżeli numeru identyfikacyjnego nie umieściła wcześniej sama jednostka notyfikowana,
-c) w stosownych przypadkach znaków wskazujących na szczególne zagrożenie lub zastosowanie wyrobu pirotechnicznego,
-d) numeru rejestracyjnego identyfikującego wyrób oceniony pod względem zgodności z wymaganiami bezpieczeństwa, przydzielonego przez jednostkę notyfikowaną;
-5) umieszczenia na wyrobie pirotechnicznym etykiety, która spełnia wymagania określone w przepisach wydanych na podstawie art. 2g ust. 2 i zawiera w szczególności oznakowanie, numery i znaki, o których mowa w pkt 4, a także, jeżeli jest to możliwe, instrukcję obsługi oraz informacje dotyczące bezpieczeństwa;
-6) w przypadku gdy umieszczenie etykiety, o której mowa w pkt 5, nie jest możliwe ze względu na wielkość, kształt lub charakter wyrobu pirotechnicznego, umieszczenia informacji, które powinny znajdować się na etykiecie na opakowaniu jednostkowym lub na dokumentach towarzyszących;
-7) dołączenia do wyrobu pirotechnicznego instrukcji obsługi oraz informacji dotyczących bezpieczeństwa, sporządzonych w jasnej, zrozumiałej i czytelnej formie, w języku polskim, jeżeli nie zostały one umieszczone na etykiecie lub opakowaniu jednostkowym wyrobu pirotechnicznego;
-8) stosowania procedury mającej na celu zapewnienie zgodności produkcji seryjnej wyrobu pirotechnicznego z wymaganiami bezpieczeństwa, w tym również w przypadku wprowadzenia zmian w projekcie i cechach charakterystycznych wyrobu, a także zmian w normach zharmonizowanych lub innych dokumentach określających wymagania techniczne, w odniesieniu do których jest deklarowana zgodność tego wyrobu;
-9) przechowywania dokumentacji technicznej, o której mowa w pkt 2, oraz deklaracji zgodności, przez okres 10 lat od dnia wprowadzenia do obrotu wyrobu pirotechnicznego;
-10) w przypadku stwierdzenia, że wprowadzony do obrotu wyrób pirotechniczny jest niezgodny z wymaganiami ustawy, lub powzięcia wątpliwości w tym zakresie, niezwłocznego podjęcia środków naprawczych w celu zapewnienia zgodności tego wyrobu lub jego wycofania z obrotu, lub odzyskania, stosownie do okoliczności;
-11) niezwłocznego informowania organów nadzoru rynku, o których mowa w art.
-62zl ust. 4, a także organów nadzoru rynku w pozostałych państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, w których wyrób pirotechniczny został udostępniony, o wyrobach stwarzających zagrożenie dla bezpieczeństwa, przez podawanie szczegółowych informacji, w szczególności o niezgodności tych wyrobów z wymaganiami ustawy oraz o podjętych środkach naprawczych;
-12) w przypadku zaistnienia podejrzenia stwarzania przez wyrób pirotechniczny zagrożenia, w celu ochrony zdrowia i bezpieczeństwa ludzi, na uzasadnione żądanie organów nadzoru rynku, o których mowa w art. 62zl, przeprowadzenia badania próby wyrobów pirotechnicznych udostępnionych na rynku, a także analizy skarg oraz prowadzenia ewidencji skarg, wyrobów pirotechnicznych niezgodnych z wymaganiami oraz przypadków odzyskania wyrobu pirotechnicznego, a także informowania dystrybutorów o tego rodzaju działaniach;
-13) udostępnienia, na żądanie organów nadzoru rynku, o których mowa w art. 62zl, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności wyrobu pirotechnicznego, z wymaganiami ustawy oraz współpracy z tymi organami we wszelkich działaniach ukierunkowanych na usunięcie zagrożeń, jakie stwarza ten wyrób;
-14) prowadzenia rejestru numerów rejestracyjnych wyrobów pirotechnicznych przez siebie wyprodukowanych, uwzględniającego ich nazwę handlową, typ oraz podtyp – jeżeli występuje, a także miejsce produkcji;
-15) przechowywania rejestru, o którym mowa w pkt 14, przez okres 10 lat od momentu wprowadzenia wyrobu pirotechnicznego do obrotu;
-16) udostępniania informacji zawartych w rejestrze, o którym mowa w pkt 14, organom nadzoru rynku wszystkich państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej oraz ministrowi właściwemu do spraw gospodarki, na ich wniosek;
-17) przekazania rejestru, o którym mowa w pkt 14, ministrowi właściwemu do spraw gospodarki w przypadku zakończenia działalności gospodarczej za pośrednictwem środków komunikacji elektronicznej, w formacie ustalonym z ministrem właściwym do spraw gospodarki po opatrzeniu kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
-2. Obowiązki, o których mowa w ust. 1 pkt 1–8, producent wyrobu pirotechnicznego wykonuje przed wprowadzeniem tego wyrobu do obrotu.
-Art. 62zf. 1. Importer wyrobu pirotechnicznego jest obowiązany do:
-1) wprowadzania do obrotu wyłącznie wyrobów pirotechnicznych zgodnych z wymaganiami bezpieczeństwa;
-2) w przypadku stwierdzenia niezgodności wyrobu pirotechnicznego albo powzięcia wątpliwości w tym zakresie, wprowadzenia do obrotu takiego wyrobu po zapewnieniu jego zgodności;
-3) zapewnienia, że producent tego wyrobu:
-a) przeprowadził procedurę oceny zgodności z wymaganiami bezpieczeństwa i umieścił na tym wyrobie oznakowanie CE w sposób widoczny, czytelny i trwały,
-b) sporządził dokumentację techniczną, o której mowa w art. 62ze ust. 1 pkt 2,
-c) dołączył do wyrobu wymagane dokumenty;
-4) zapewnienia, że producent tego wyrobu umieścił na nim etykietę, spełniającą wymagania określone w przepisach wydanych na podstawie art. 2g ust. 2, a gdy nie jest to możliwe ze względu na wielkość, kształt lub charakter wyrobu pirotechnicznego, umieścił informacje, które powinny znajdować się na etykiecie, na opakowaniu jednostkowym lub na dokumentach towarzyszących;
-5) zapewnienia dołączenia do wyrobu pirotechnicznego instrukcji obsługi oraz informacji dotyczących bezpieczeństwa, w języku polskim, jeżeli nie zostały one umieszczone na etykiecie lub opakowaniu jednostkowym wyrobu;
-6) w przypadku stwierdzenia przed wprowadzeniem do obrotu wyrobu pirotechnicznego, że ten wyrób jest niezgodny z wymaganiami bezpieczeństwa i stwarza zagrożenie dla bezpieczeństwa, albo powzięcia wątpliwości w tym zakresie, poinformowania o takim wyrobie producenta oraz organów nadzoru rynku, o których mowa w art. 62zl ust. 4;
-7) zapewnienia, że w okresie, gdy ponosi odpowiedzialność za wyrób pirotechniczny, warunki przechowywania i transportu tego wyrobu nie wpływały ujemnie na zgodność wyrobu z wymaganiami bezpieczeństwa;
-8) przechowywania kopii deklaracji zgodności oraz zapewnienia dostępności dokumentacji technicznej, przez okres 10 lat od dnia wprowadzenia do obrotu wyrobu pirotechnicznego, w celu udostępnienia tych dokumentów na żądanie organów nadzoru rynku;
-9) w przypadku uznania, że wprowadzony do obrotu wyrób pirotechniczny jest niezgodny z wymaganiami ustawy, lub powzięcia wątpliwości w tym zakresie, podjęcia niezwłocznie koniecznych środków naprawczych w celu zapewnienia zgodności tego wyrobu lub jego wycofania z obrotu, lub odzyskania, stosownie do okoliczności;
-10) niezwłocznego informowania organów nadzoru rynku, o których mowa w art.
-62zl ust. 4, a także organów nadzoru rynku w pozostałych państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, w których wyrób pirotechniczny został udostępniony, o wyrobach stwarzających zagrożenie dla bezpieczeństwa, przez podawanie szczegółowych informacji, w szczególności o niezgodności tych wyrobów z wymaganiami ustawy oraz o środkach naprawczych podjętych w celu zapewnienia tej zgodności;
-11) w przypadku zaistnienia podejrzenia stwarzania przez wyrób pirotechniczny zagrożenia, przeprowadzania, w celu ochrony zdrowia i bezpieczeństwa ludzi, na uzasadnione żądanie organów nadzoru rynku, o których mowa w art. 62zl, badania próby wyrobów pirotechnicznych udostępnionych na rynku, analizy skarg oraz prowadzenia ewidencji skarg, wyrobów pirotechnicznych niezgodnych z wymaganiami ustawy oraz przypadków odzyskania wyrobu pirotechnicznego, a także informowania dystrybutorów o tego rodzaju działaniach;
-12) udostępnienia, na żądanie organów nadzoru rynku, o których mowa w art. 62zl, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności wyrobu pirotechnicznego z wymaganiami bezpieczeństwa, a w przypadku stwierdzenia, że wprowadzony do obrotu wyrób stwarza zagrożenie, współpracy z tymi organami we wszelkich działaniach ukierunkowanych na usunięcie zagrożeń, jakie stwarza ten wyrób;
-13) prowadzenia rejestru numerów rejestracyjnych wyrobów pirotechnicznych przez siebie importowanych, uwzględniającego ich nazwę handlową, typ oraz podtyp – jeżeli występuje, a także miejsce produkcji;
-14) przechowywania rejestru, o którym mowa w pkt 13, przez okres 10 lat od momentu wprowadzenia wyrobu pirotechnicznego do obrotu;
-15) udostępniania informacji zawartych w rejestrze, o którym mowa w pkt 13, organom nadzoru rynku wszystkich państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej oraz ministrowi właściwemu do spraw gospodarki, na ich wniosek;
-16) przekazania rejestru, o którym mowa w pkt 13, ministrowi właściwemu do spraw gospodarki w przypadku zakończenia działalności gospodarczej za pośrednictwem środków komunikacji elektronicznej, w formacie ustalonym z ministrem właściwym do spraw gospodarki po opatrzeniu kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
-2. Obowiązki, o których mowa w ust. 1 pkt 3–5, importer wyrobu pirotechnicznego wykonuje przed wprowadzeniem tego wyrobu do obrotu.
-Art. 62zg. 1. Dystrybutor wyrobów pirotechnicznych działa z należytą starannością w odniesieniu do wymagań ustawy i jest obowiązany do:
-1) sprawdzenia, czy:
-a) na wyrobie pirotechnicznym albo na opakowaniu jednostkowym i dołączonych dokumentach umieszczone zostało oznakowanie CE, w sposób widoczny, czytelny i trwały, oraz numer identyfikacyjny jednostki notyfikowanej,
-b) do wyrobu pirotechnicznego zostały dołączone wymagane dokumenty,
-c) do wyrobu pirotechnicznego dołączona została instrukcja obsługi oraz informacje dotyczące bezpieczeństwa, w języku polskim, jeżeli nie zostały one umieszczone na etykiecie lub opakowaniu jednostkowym wyrobu;
-2) sprawdzenia, czy na wyrobie pirotechnicznym umieszczona została etykieta, spełniająca wymagania określone w przepisach wydanych na podstawie art. 2g ust. 2, a gdy nie jest to możliwe ze względu na wielkość, kształt lub charakter wyrobu pirotechnicznego, sprawdzenia, czy informacje, które powinny znajdować się na etykiecie, zostały umieszczone na opakowaniu jednostkowym lub na dokumentach towarzyszących;
-3) w przypadku wystąpienia niezgodności wyrobu pirotechnicznego z wymaganiami bezpieczeństwa albo powzięcia wątpliwości w tym zakresie, nieudostępniania na rynku wyrobu pirotechnicznego do czasu zapewnienia zgodności tego wyrobu;
-4) zapewnienia, że w okresie, gdy ponosi odpowiedzialność za wyrób pirotechniczny, warunki przechowywania i transportu tego wyrobu nie wpływały ujemnie na zgodność wyrobu z wymaganiami bezpieczeństwa;
-5) w przypadku uznania, że udostępniony na rynku wyrób pirotechniczny jest niezgodny z wymaganiami ustawy, lub powzięcia wątpliwości w tym zakresie, podjęcia niezwłocznie koniecznych środków naprawczych, w celu zapewnienia zgodności tego wyrobu lub jego wycofania z obrotu, lub odzyskania, stosownie do okoliczności;
-6) niezwłocznego informowania producenta lub importera oraz organów nadzoru rynku, o których mowa w art. 62zl ust. 4, a także organów nadzoru rynku w pozostałych państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, w których wyrób pirotechniczny został udostępniony, o wyrobach stwarzających zagrożenie dla bezpieczeństwa, przez podanie szczegółowych informacji, w szczególności o niezgodności tych wyrobów z wymaganiami bezpieczeństwa oraz o środkach naprawczych podjętych w celu zapewnienia tej zgodności;
-7) udostępniania, na żądanie organów nadzoru rynku, o których mowa w art. 62zl, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności wyrobu pirotechnicznego z wymaganiami ustawy oraz współpracy z tymi organami we wszelkich działaniach ukierunkowanych na usunięcie zagrożeń, jakie stwarzają wyroby wprowadzone do obrotu niespełniające wymagań.
-2. Obowiązki, o których mowa w ust. 1 pkt 1 i 2, dystrybutor wyrobu pirotechnicznego wykonuje przed udostępnieniem tego wyrobu na rynku.
-Art. 62zh. W przypadku gdy importer lub dystrybutor wprowadza wyrób pirotechniczny pod własną nazwą lub znakiem towarowym, o ile taki posiada, lub modyfikuje wyrób pirotechniczny już znajdujący się w obrocie, w sposób mogący mieć wpływ na zgodność tego wyrobu z wymaganiami ustawy, podlega obowiązkom producenta, o których mowa w art. 62ze.
-Art. 62zi. Na żądanie organów nadzoru rynku, o których mowa w art. 62zl, podmioty gospodarcze muszą udostępniać dane pozwalające zidentyfikować każdy podmiot gospodarczy, który im dostarczył, lub każdy podmiot, któremu dostarczyły wyrób pirotechniczny. Informacje, o których mowa w zdaniu pierwszym, podmioty gospodarcze są obowiązane udostępniać w okresie 10 lat od dnia dostarczenia im lub dostarczenia przez te podmioty tego wyrobu.
-Art. 62zj. 1. Wyroby pirotechniczne niezgodne z wymaganiami ustawy mogą być prezentowane lub używane na targach, wystawach i pokazach pod warunkiem wyraźnego uwidocznienia informacji o:
-1) niezgodności wyrobu z wymaganiami ustawy;
-2) zakazie wprowadzania do obrotu lub udostępniania na rynku tego wyrobu do czasu zapewnienia zgodności z wymaganiami ustawy;
-3) nazwie i dacie targów, wystaw lub pokazów, podczas których te wyroby będą prezentowane lub używane.
-2. Wyroby pirotechniczne, o których mowa w ust. 1, mogą być prezentowane lub używane na targach, wystawach lub pokazach, jeżeli zapewnione zostały odpowiednie środki bezpieczeństwa w celu uniknięcia zagrożeń dla życia i zdrowia ludzi oraz mienia lub środowiska związanych z prezentowaniem lub używaniem tych wyrobów.
-Art. 62zk. Wyroby pirotechniczne niezgodne z wymaganiami ustawy wytworzone na potrzeby działalności badawczo-rozwojowej i testów mogą być udostępniane na rynku i używane pod warunkiem wyraźnego oznakowania wskazującego na ich niezgodność oraz zakaz wykorzystywania do innych celów niż działalność badawczo-rozwojowa i testy.
-Art. 62zl. 1. Wyroby pirotechniczne wprowadzone do obrotu podlegają kontroli organów nadzoru rynku w zakresie spełniania przez te wyroby wymagań, o których mowa w ustawie, oraz kontroli w zakresie niezgodności formalnych w odniesieniu do tych wyrobów.
-2. Kontrolę w zakresie, o którym mowa w ust. 1, prowadzą:
-1) wojewódzcy inspektorzy Inspekcji Handlowej – w odniesieniu do wyrobów pirotechnicznych klas F1–F4, T1 i P1;
-2) inspektorzy pracy – w odniesieniu do wyrobów pirotechnicznych klas F4, T1, T2, P1 i P2.
-3. (uchylony)
-4. Postępowania w sprawach wprowadzonych do obrotu wyrobów pirotechnicznych niezgodnych z wymaganiami ustawy oraz niezgodności formalnych prowadzą:
-1) Prezes Urzędu Ochrony Konkurencji i Konsumentów – w odniesieniu do wyrobów pirotechnicznych klas F1–F4, T1 i P1;
-2) okręgowi inspektorzy pracy – w odniesieniu do wyrobów pirotechnicznych klas F4, T1, T2, P1 i P2.
-5. Kontrolę i postępowania, o których mowa w ust. 1 i 4, prowadzi się zgodnie z przepisami ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, z tym że za niezgodności formalne uważa się niezgodności polegające na naruszeniu przez podmiot gospodarczy obowiązków, o których mowa w art. 62ze ust. 1 pkt 2, 4–7 i 9, art. 62zf ust. 1 pkt 3–5 i 8 oraz art. 62zg ust. 1 pkt 1 i 2.
-Art. 62zm. 1. Jednostka notyfikowana przydziela numery rejestracyjne identyfikujące wyroby pirotechniczne ocenione pod względem zgodności z wymaganiami bezpieczeństwa, składające się z następujących elementów:
-1) czterocyfrowego numeru identyfikacyjnego jednostki notyfikowanej, która wydała certyfikat zgodności:
-a) w procedurze badania typu UE (moduł B) – certyfikat badania typu UE albo
-b) w procedurze zgodności w oparciu o weryfikację jednostkową (moduł G) – certyfikat zgodności, albo
-c) w procedurze zgodności w oparciu o pełne zapewnienie jakości (moduł H) w zakresie dotyczącym wyrobów pirotechnicznych widowiskowych klasy F4 – zatwierdzenie systemu zapewnienia jakości – o których mowa w przepisach wydanych na podstawie art. 2g ust. 2;
-2) oznaczenia klasy wyrobu pirotechnicznego, którego dotyczy certyfikat zgodności, w skróconej formie (F1, F2, F3 i F4, T1 i T2, P1 i P2);
-3) numeru stosowanego przez jednostkę notyfikowaną w odniesieniu do danego wyrobu pirotechnicznego.
-2. Numer rejestracyjny wyrobu pirotechnicznego ma następującą strukturę: „XXXX – YY – ZZZZ…”, gdzie XXXX odnosi się do ust. 1 pkt 1, YY odnosi się do ust. 1 pkt 2, a ZZZZ… odnosi się do ust. 1 pkt 3.
-3. Jednostka notyfikowana prowadzi, udostępniany na swojej stronie internetowej, regularnie aktualizowany, rejestr numerów rejestracyjnych wyrobów pirotechnicznych.
-4. Rejestr, o którym mowa w ust. 3, zawiera następujące informacje:
-1) numer rejestracyjny wyrobu pirotechnicznego;
-2) datę wydania certyfikatu zgodności, o którym mowa w ust. 1, dla danego wyrobu pirotechnicznego oraz w stosownym przypadku – termin upływu ważności certyfikatu zgodności;
-3) nazwę producenta wyrobu pirotechnicznego;
-4) typ wyrobu pirotechnicznego i podtyp – jeżeli występuje;
-5) wskazanie zastosowanej procedury oceny:
-a) zgodności z typem w oparciu o wewnętrzną kontrolę produkcji oraz nadzorowaną kontrolę wyrobów w losowych odstępach czasu (moduł C2) albo
-b) zgodności z typem w oparciu o zapewnienie jakości procesu produkcji (moduł D), albo
-c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
-6) nazwę jednostki notyfikowanej, która przeprowadziła ocenę zgodności wyrobu pirotechnicznego przy zastosowaniu procedury oceny zgodności, o której mowa w pkt 5, jeżeli jest to inna jednostka notyfikowana niż jednostka, która przeprowadziła procedurę badania typu UE (moduł B) – jeżeli jest znana;
-7) informacje dodatkowe, które jednostka notyfikowana chce zamieścić w rejestrze.
-5. Informacje zawarte w rejestrze są przechowywane przez 10 lat od dnia wydania certyfikatów zgodności, o których mowa w ust. 1, dla danego wyrobu pirotechnicznego.
-6. W przypadku, gdy jednostka notyfikowana utraci uprawnienia do oceny zgodności wyrobów pirotechnicznych, przekazuje rejestr, o którym mowa w ust. 3, innej jednostce notyfikowanej lub ministrowi właściwemu do spraw gospodarki.
-7. Przekazanie rejestru w przypadku, o którym mowa w ust. 6, następuje za pośrednictwem środków komunikacji elektronicznej, w formacie ustalonym z jednostką notyfikowaną lub ministrem właściwym do spraw gospodarki, które przejmą rejestr, po opatrzeniu kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -837,9 +728,15 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 2. Osobą posiadającą wiedzę specjalistyczną jest osoba, która uzyskała zaświadczenie potwierdzające przygotowanie zawodowe, o którym mowa w art. 20 ust. 1.
 
-3. Jednostka notyfikowana potwierdza klasyfikację, o której mowa w ust. 1, w ramach dokonywania oceny zgodności. Art. 62ca. 1. Wyroby pirotechniczne klasy P1 do pojazdów nie mogą być udostępniane na rynku, chyba że zostały zamontowane w pojeździe lub stanowią części zamienne do pojazdu.
+3. Jednostka notyfikowana potwierdza klasyfikację, o której mowa w ust. 1, w ramach dokonywania oceny zgodności.
 
-2. Producenci, importerzy i dystrybutorzy udostępniają na rynku wyroby pirotechniczne klas F4, T2 i P2 wyłącznie osobom posiadającym wiedzę specjalistyczną, o których mowa w art. 62c ust. 2. Art. 62d–62u. (uchylone)
+**Art. 62ca.**
+
+1. Wyroby pirotechniczne klasy P1 do pojazdów nie mogą być udostępniane na rynku, chyba że zostały zamontowane w pojeździe lub stanowią części zamienne do pojazdu.
+
+2. Producenci, importerzy i dystrybutorzy udostępniają na rynku wyroby pirotechniczne klas F4, T2 i P2 wyłącznie osobom posiadającym wiedzę specjalistyczną, o których mowa w art. 62c ust. 2.
+
+**Art. 62d–62u.** (uchylone)
 
 #### Rozdział 5b Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku materiałów wybuchowych przeznaczonych do użytku cywilnego oraz wytwarzaniem materiałów wybuchowych metodą in situ
 
@@ -877,10 +774,14 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 - **1)** wytworzonych materiałów wybuchowych przeznaczonych do użytku cywilnego, które są przedmiotem wywozu poza terytorium państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz Konfederacji Szwajcarskiej i zostały oznaczone zgodnie z przepisami państwa przeznaczenia;
 - **2)** materiałów wybuchowych przeznaczonych do użytku cywilnego transportowanych i dostarczanych bez opakowania lub na ciężarówkach z zamontowanymi pompami w celu bezpośredniego wyładowania do otworu strzałowego;
 - **3)** materiałów wybuchowych przeznaczonych do użytku cywilnego wytworzonych metodą in situ;
-- **4)** materiałów wybuchowych przeznaczonych do użytku cywilnego charakteryzujących się niskim stopniem zagrożenia, takich jak: Art. 62va. 1. Jednoznaczne oznaczenie umieszczane na materiale wybuchowym przeznaczonym do użytku cywilnego oraz na najmniejszej jednostce jego opakowania obejmuje nazwę producenta, alfanumeryczny kod oraz oznaczenie do odczytu elektronicznego.
+- **4)** materiałów wybuchowych przeznaczonych do użytku cywilnego charakteryzujących się niskim stopniem zagrożenia, takich jak:
     - **a)** lonty będące niedetonującymi urządzeniami zapalającymi o kształcie sznura,
     - **b)** lonty prochowe, które składają się z rdzenia z drobnoziarnistego prochu czarnego otoczonego elastyczną tkaniną, z jednym lub kilkoma zewnętrznymi pokryciami zabezpieczającymi i które po zapaleniu palą się w określonym tempie bez zewnętrznego efektu wybuchowego,
     - **c)** spłonki kapsułkowe, które składają się z kapsułki metalowej lub z tworzywa sztucznego, zawierającej niewielką ilość mieszaniny inicjującej, łatwo zapalającej się przy uderzeniu, i które są stosowane jako elementy zapalające w nabojach do broni strzeleckiej lub w spłonkach nabojowych do ładunków miotających.
+
+**Art. 62va.**
+
+1. Jednoznaczne oznaczenie umieszczane na materiale wybuchowym przeznaczonym do użytku cywilnego oraz na najmniejszej jednostce jego opakowania obejmuje nazwę producenta, alfanumeryczny kod oraz oznaczenie do odczytu elektronicznego.
 
 2. Alfanumeryczny kod składa się z:
 
@@ -915,7 +816,11 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 12. Najmniejszą jednostkę opakowania zapieczętowuje się.
 
-13. W przypadku gdy materiał wybuchowy przeznaczony do użytku cywilnego, który został oznaczony jednoznacznym oznaczeniem, podlega dalszemu procesowi produkcyjnemu, nie jest wymagane ponowne jego oznaczenie jednoznacznym oznaczeniem, o ile pierwotne oznaczenie zostało zachowane i jest czytelne. Art. 62vb. 1. Kod oznaczenia obiektu produkcyjnego, o którym mowa w art. 62va ust. 2 pkt 2, nadaje, w drodze decyzji, minister właściwy do spraw gospodarki, na wniosek przedsiębiorcy.
+13. W przypadku gdy materiał wybuchowy przeznaczony do użytku cywilnego, który został oznaczony jednoznacznym oznaczeniem, podlega dalszemu procesowi produkcyjnemu, nie jest wymagane ponowne jego oznaczenie jednoznacznym oznaczeniem, o ile pierwotne oznaczenie zostało zachowane i jest czytelne.
+
+**Art. 62vb.**
+
+1. Kod oznaczenia obiektu produkcyjnego, o którym mowa w art. 62va ust. 2 pkt 2, nadaje, w drodze decyzji, minister właściwy do spraw gospodarki, na wniosek przedsiębiorcy.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
@@ -946,7 +851,11 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 9. Wnioskodawca jest obowiązany zgłaszać ministrowi właściwemu do spraw gospodarki zmiany dotyczące danych zawartych we wniosku w terminie 7 dni od dnia ich powstania.
 
-10. W przypadku dokumentów dołączanych do wniosku sporządzonych w języku obcym należy dołączyć dokonane przez tłumacza przysięgłego tłumaczenia tych dokumentów na język polski. Art. 62vc. 1. Rejestr jednoznacznych oznaczeń, o którym mowa w art. 62v ust. 1 pkt 12, art. 62x ust. 1 pkt 7 oraz art. 62y ust. 1 pkt 3, zawiera informacje o:
+10. W przypadku dokumentów dołączanych do wniosku sporządzonych w języku obcym należy dołączyć dokonane przez tłumacza przysięgłego tłumaczenia tych dokumentów na język polski.
+
+**Art. 62vc.**
+
+1. Rejestr jednoznacznych oznaczeń, o którym mowa w art. 62v ust. 1 pkt 12, art. 62x ust. 1 pkt 7 oraz art. 62y ust. 1 pkt 3, zawiera informacje o:
 
 - **1)** jednoznacznym oznaczeniu materiału wybuchowego przeznaczonego do użytku cywilnego;
 - **2)** osobie fizycznej lub prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, która sprawuje nadzór nad materiałem wybuchowym przeznaczonym do użytku cywilnego;
@@ -996,7 +905,11 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 11. Dane, o których mowa w ust. 9, są udostępniane niezwłocznie, pisemnie lub w formie elektronicznej, zgodnie z żądaniem organu lub służby państwowej.
 
-12. Informację zawierającą imię, nazwisko, adres miejsca zamieszkania oraz dane kontaktowe osoby upoważnionej do udostępniania danych, o której mowa w ust. 10, przedsiębiorca przekazuje pisemnie lub w postaci elektronicznej, z zachowaniem przepisów o ochronie danych osobowych, komendantowi wojewódzkiemu Policji, właściwemu ze względu na siedzibę tego przedsiębiorcy. Art. 62vd. 1. Producent wytwarzanego materiału wybuchowego metodą in situ jest obowiązany do:
+12. Informację zawierającą imię, nazwisko, adres miejsca zamieszkania oraz dane kontaktowe osoby upoważnionej do udostępniania danych, o której mowa w ust. 10, przedsiębiorca przekazuje pisemnie lub w postaci elektronicznej, z zachowaniem przepisów o ochronie danych osobowych, komendantowi wojewódzkiemu Policji, właściwemu ze względu na siedzibę tego przedsiębiorcy.
+
+**Art. 62vd.**
+
+1. Producent wytwarzanego materiału wybuchowego metodą in situ jest obowiązany do:
 
 - **1)** zapewnienia, że wytwarzany materiał wybuchowy metodą in situ będzie wytwarzany zgodnie z wymaganiami bezpieczeństwa;
 - **2)** sporządzenia dokumentacji technicznej wytwarzanego materiału wybuchowego metodą in situ;
@@ -1006,7 +919,9 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 - **6)** przechowywania dokumentacji technicznej, o której mowa w pkt 2, oraz deklaracji zgodności, przez okres 10 lat od dnia wytworzenia materiału wybuchowego metodą in situ;
 - **7)** udostępnienia, na żądanie organów nadzoru rynku, o których mowa w art. 62zc, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności wytwarzanego materiału wybuchowego metodą in situ z wymaganiami ustawy.
 
-2. Obowiązki, o których mowa w ust. 1 pkt 1–5, producent wytwarzanego materiału wybuchowego metodą in situ wykonuje przed wytworzeniem tego materiału. Art. 62ve. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia:
+2. Obowiązki, o których mowa w ust. 1 pkt 1–5, producent wytwarzanego materiału wybuchowego metodą in situ wykonuje przed wytworzeniem tego materiału.
+
+**Art. 62ve.** Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe wymagania w zakresie jednoznacznego oznaczenia materiału wybuchowego przeznaczonego do użytku cywilnego oraz jego opakowania,
 - **2)** wzór wniosku o nadanie kodu oznaczenia obiektu produkcyjnego – biorąc pod uwagę konieczność zapewnienia możliwości pełnej identyfikacji oraz identyfikowalności każdego materiału wybuchowego przeznaczonego do użytku cywilnego pozostającego w obrocie na terytorium Rzeczypospolitej Polskiej w celu ograniczenia ryzyka wykorzystania tego materiału w działaniach przestępczych, w tym terrorystycznych.
@@ -1073,15 +988,183 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 2. Obowiązki, o których mowa w ust. 1 pkt 1, dystrybutor materiału wybuchowego przeznaczonego do użytku cywilnego wykonuje przed udostępnieniem tego materiału na rynku.
 
-**Art. 62z.** W przypadku gdy importer lub dystrybutor wprowadza materiał wybuchowy przeznaczony do użytku cywilnego pod własną nazwą lub znakiem towarowym, o ile taki posiada, lub modyfikuje materiał wybuchowy już znajdujący się w obrocie, w sposób mogący mieć wpływ na zgodność tego materiału z wymaganiami ustawy, podlega obowiązkom producenta, o których mowa w art. 62v. Art. 62za. Na żądanie organów nadzoru rynku, o których mowa w art. 62zc, podmioty gospodarcze muszą udostępniać dane pozwalające zidentyfikować każdy podmiot gospodarczy, który im dostarczył, lub każdy podmiot, któremu dostarczyły materiał wybuchowy przeznaczony do użytku cywilnego, w przypadku, o którym mowa w art. 62v ust. 1 pkt 6 i art. 62va ust. 9. Informacje, o których mowa w zdaniu pierwszym, podmioty gospodarcze są obowiązane udostępniać w okresie 10 lat od dnia dostarczenia im lub dostarczenia przez te podmioty tego materiału. Art. 62zb. Przepisów niniejszego rozdziału nie stosuje się do wyrobów pirotechnicznych.
+**Art. 62z.** W przypadku gdy importer lub dystrybutor wprowadza materiał wybuchowy przeznaczony do użytku cywilnego pod własną nazwą lub znakiem towarowym, o ile taki posiada, lub modyfikuje materiał wybuchowy już znajdujący się w obrocie, w sposób mogący mieć wpływ na zgodność tego materiału z wymaganiami ustawy, podlega obowiązkom producenta, o których mowa w art. 62v.
+
+**Art. 62za.** Na żądanie organów nadzoru rynku, o których mowa w art. 62zc, podmioty gospodarcze muszą udostępniać dane pozwalające zidentyfikować każdy podmiot gospodarczy, który im dostarczył, lub każdy podmiot, któremu dostarczyły materiał wybuchowy przeznaczony do użytku cywilnego, w przypadku, o którym mowa w art. 62v ust. 1 pkt 6 i art. 62va ust. 9. Informacje, o których mowa w zdaniu pierwszym, podmioty gospodarcze są obowiązane udostępniać w okresie 10 lat od dnia dostarczenia im lub dostarczenia przez te podmioty tego materiału.
+
+**Art. 62zb.** Przepisów niniejszego rozdziału nie stosuje się do wyrobów pirotechnicznych.
 
 #### Rozdział 5c Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach materiałów wybuchowych przeznaczonych do użytku cywilnego
 
+**Art. 62zc.**
+
+1. Materiały wybuchowe przeznaczone do użytku cywilnego wprowadzone do obrotu podlegają kontroli organów nadzoru rynku w zakresie spełniania przez te materiały wymagań, o których mowa w ustawie, oraz kontroli w zakresie niezgodności formalnych w odniesieniu do tych materiałów.
+
+2. Kontrolę w zakresie, o którym mowa w ust. 1, prowadzą:
+
+- **1)** Prezes Wyższego Urzędu Górniczego – w odniesieniu do materiałów wybuchowych przeznaczonych do użytku cywilnego stosowanych w górnictwie;
+- **2)** inspektorzy pracy – w odniesieniu do materiałów wybuchowych przeznaczonych do użytku cywilnego stosowanych poza górnictwem.
+
+3. (uchylony)
+
+4. Postępowania w sprawach wprowadzonych do obrotu materiałów wybuchowych przeznaczonych do użytku cywilnego niezgodnych z wymaganiami ustawy oraz niezgodności formalnych prowadzą:
+
+- **1)** Prezes Wyższego Urzędu Górniczego – w odniesieniu do materiałów wybuchowych przeznaczonych do użytku cywilnego stosowanych w górnictwie;
+- **2)** okręgowi inspektorzy pracy – w odniesieniu do materiałów wybuchowych przeznaczonych do użytku cywilnego stosowanych poza górnictwem.
+
+5. Kontrolę i postępowania, o których mowa w ust. 1 i 4, prowadzi się zgodnie z przepisami ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, z tym że za niezgodności formalne uważa się niezgodności polegające na naruszeniu przez podmiot gospodarczy obowiązków, o których mowa w art. 62v ust. 1 pkt 2, 4–9 i 14, art. 62x ust. 1 pkt 3–6 i 11 oraz art. 62y ust. 1 pkt 1.
+
+**Art. 62zd.** Przepisów niniejszego rozdziału nie stosuje się do wyrobów pirotechnicznych.
+
 #### Rozdział 5d Obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku wyrobów pirotechnicznych
+
+**Art. 62ze.**
+
+1. Producent wyrobu pirotechnicznego jest obowiązany do:
+
+- **1)** zapewnienia, że wyrób pirotechniczny został zaprojektowany i wytworzony zgodnie z wymaganiami bezpieczeństwa;
+- **2)** sporządzenia dokumentacji technicznej wyrobu pirotechnicznego;
+- **3)** zlecenia jednostce notyfikowanej przeprowadzenia procedury oceny zgodności zgodnie z przepisami wydanymi na podstawie art. 2g ust. 2;
+- **4)** w przypadku wykazania zgodności wyrobu pirotechnicznego z wymaganiami bezpieczeństwa, sporządzenia deklaracji zgodności i umieszczenia na nim:
+    - **a)** oznakowania CE w sposób widoczny, czytelny i trwały,
+    - **b)** numeru identyfikacyjnego jednostki notyfikowanej zaangażowanej na etapie kontroli produkcji umieszczonego według wskazań tej jednostki, jeżeli numeru identyfikacyjnego nie umieściła wcześniej sama jednostka notyfikowana,
+    - **c)** w stosownych przypadkach znaków wskazujących na szczególne zagrożenie lub zastosowanie wyrobu pirotechnicznego,
+    - **d)** numeru rejestracyjnego identyfikującego wyrób oceniony pod względem zgodności z wymaganiami bezpieczeństwa, przydzielonego przez jednostkę notyfikowaną;
+
+- **5)** umieszczenia na wyrobie pirotechnicznym etykiety, która spełnia wymagania określone w przepisach wydanych na podstawie art. 2g ust. 2 i zawiera w szczególności oznakowanie, numery i znaki, o których mowa w pkt 4, a także, jeżeli jest to możliwe, instrukcję obsługi oraz informacje dotyczące bezpieczeństwa;
+- **6)** w przypadku gdy umieszczenie etykiety, o której mowa w pkt 5, nie jest możliwe ze względu na wielkość, kształt lub charakter wyrobu pirotechnicznego, umieszczenia informacji, które powinny znajdować się na etykiecie na opakowaniu jednostkowym lub na dokumentach towarzyszących;
+- **7)** dołączenia do wyrobu pirotechnicznego instrukcji obsługi oraz informacji dotyczących bezpieczeństwa, sporządzonych w jasnej, zrozumiałej i czytelnej formie, w języku polskim, jeżeli nie zostały one umieszczone na etykiecie lub opakowaniu jednostkowym wyrobu pirotechnicznego;
+- **8)** stosowania procedury mającej na celu zapewnienie zgodności produkcji seryjnej wyrobu pirotechnicznego z wymaganiami bezpieczeństwa, w tym również w przypadku wprowadzenia zmian w projekcie i cechach charakterystycznych wyrobu, a także zmian w normach zharmonizowanych lub innych dokumentach określających wymagania techniczne, w odniesieniu do których jest deklarowana zgodność tego wyrobu;
+- **9)** przechowywania dokumentacji technicznej, o której mowa w pkt 2, oraz deklaracji zgodności, przez okres 10 lat od dnia wprowadzenia do obrotu wyrobu pirotechnicznego;
+- **10)** w przypadku stwierdzenia, że wprowadzony do obrotu wyrób pirotechniczny jest niezgodny z wymaganiami ustawy, lub powzięcia wątpliwości w tym zakresie, niezwłocznego podjęcia środków naprawczych w celu zapewnienia zgodności tego wyrobu lub jego wycofania z obrotu, lub odzyskania, stosownie do okoliczności;
+- **11)** niezwłocznego informowania organów nadzoru rynku, o których mowa w art. 62zl ust. 4, a także organów nadzoru rynku w pozostałych państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, w których wyrób pirotechniczny został udostępniony, o wyrobach stwarzających zagrożenie dla bezpieczeństwa, przez podawanie szczegółowych informacji, w szczególności o niezgodności tych wyrobów z wymaganiami ustawy oraz o podjętych środkach naprawczych;
+- **12)** w przypadku zaistnienia podejrzenia stwarzania przez wyrób pirotechniczny zagrożenia, w celu ochrony zdrowia i bezpieczeństwa ludzi, na uzasadnione żądanie organów nadzoru rynku, o których mowa w art. 62zl, przeprowadzenia badania próby wyrobów pirotechnicznych udostępnionych na rynku, a także analizy skarg oraz prowadzenia ewidencji skarg, wyrobów pirotechnicznych niezgodnych z wymaganiami oraz przypadków odzyskania wyrobu pirotechnicznego, a także informowania dystrybutorów o tego rodzaju działaniach;
+- **13)** udostępnienia, na żądanie organów nadzoru rynku, o których mowa w art. 62zl, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności wyrobu pirotechnicznego, z wymaganiami ustawy oraz współpracy z tymi organami we wszelkich działaniach ukierunkowanych na usunięcie zagrożeń, jakie stwarza ten wyrób;
+- **14)** prowadzenia rejestru numerów rejestracyjnych wyrobów pirotechnicznych przez siebie wyprodukowanych, uwzględniającego ich nazwę handlową, typ oraz podtyp – jeżeli występuje, a także miejsce produkcji;
+- **15)** przechowywania rejestru, o którym mowa w pkt 14, przez okres 10 lat od momentu wprowadzenia wyrobu pirotechnicznego do obrotu;
+- **16)** udostępniania informacji zawartych w rejestrze, o którym mowa w pkt 14, organom nadzoru rynku wszystkich państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej oraz ministrowi właściwemu do spraw gospodarki, na ich wniosek;
+- **17)** przekazania rejestru, o którym mowa w pkt 14, ministrowi właściwemu do spraw gospodarki w przypadku zakończenia działalności gospodarczej za pośrednictwem środków komunikacji elektronicznej, w formacie ustalonym z ministrem właściwym do spraw gospodarki po opatrzeniu kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+2. Obowiązki, o których mowa w ust. 1 pkt 1–8, producent wyrobu pirotechnicznego wykonuje przed wprowadzeniem tego wyrobu do obrotu.
+
+**Art. 62zf.**
+
+1. Importer wyrobu pirotechnicznego jest obowiązany do:
+
+- **1)** wprowadzania do obrotu wyłącznie wyrobów pirotechnicznych zgodnych z wymaganiami bezpieczeństwa;
+- **2)** w przypadku stwierdzenia niezgodności wyrobu pirotechnicznego albo powzięcia wątpliwości w tym zakresie, wprowadzenia do obrotu takiego wyrobu po zapewnieniu jego zgodności;
+- **3)** zapewnienia, że producent tego wyrobu:
+    - **a)** przeprowadził procedurę oceny zgodności z wymaganiami bezpieczeństwa i umieścił na tym wyrobie oznakowanie CE w sposób widoczny, czytelny i trwały,
+    - **b)** sporządził dokumentację techniczną, o której mowa w art. 62ze ust. 1 pkt 2,
+    - **c)** dołączył do wyrobu wymagane dokumenty;
+
+- **4)** zapewnienia, że producent tego wyrobu umieścił na nim etykietę, spełniającą wymagania określone w przepisach wydanych na podstawie art. 2g ust. 2, a gdy nie jest to możliwe ze względu na wielkość, kształt lub charakter wyrobu pirotechnicznego, umieścił informacje, które powinny znajdować się na etykiecie, na opakowaniu jednostkowym lub na dokumentach towarzyszących;
+- **5)** zapewnienia dołączenia do wyrobu pirotechnicznego instrukcji obsługi oraz informacji dotyczących bezpieczeństwa, w języku polskim, jeżeli nie zostały one umieszczone na etykiecie lub opakowaniu jednostkowym wyrobu;
+- **6)** w przypadku stwierdzenia przed wprowadzeniem do obrotu wyrobu pirotechnicznego, że ten wyrób jest niezgodny z wymaganiami bezpieczeństwa i stwarza zagrożenie dla bezpieczeństwa, albo powzięcia wątpliwości w tym zakresie, poinformowania o takim wyrobie producenta oraz organów nadzoru rynku, o których mowa w art. 62zl ust. 4;
+- **7)** zapewnienia, że w okresie, gdy ponosi odpowiedzialność za wyrób pirotechniczny, warunki przechowywania i transportu tego wyrobu nie wpływały ujemnie na zgodność wyrobu z wymaganiami bezpieczeństwa;
+- **8)** przechowywania kopii deklaracji zgodności oraz zapewnienia dostępności dokumentacji technicznej, przez okres 10 lat od dnia wprowadzenia do obrotu wyrobu pirotechnicznego, w celu udostępnienia tych dokumentów na żądanie organów nadzoru rynku;
+- **9)** w przypadku uznania, że wprowadzony do obrotu wyrób pirotechniczny jest niezgodny z wymaganiami ustawy, lub powzięcia wątpliwości w tym zakresie, podjęcia niezwłocznie koniecznych środków naprawczych w celu zapewnienia zgodności tego wyrobu lub jego wycofania z obrotu, lub odzyskania, stosownie do okoliczności;
+- **10)** niezwłocznego informowania organów nadzoru rynku, o których mowa w art. 62zl ust. 4, a także organów nadzoru rynku w pozostałych państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, w których wyrób pirotechniczny został udostępniony, o wyrobach stwarzających zagrożenie dla bezpieczeństwa, przez podawanie szczegółowych informacji, w szczególności o niezgodności tych wyrobów z wymaganiami ustawy oraz o środkach naprawczych podjętych w celu zapewnienia tej zgodności;
+- **11)** w przypadku zaistnienia podejrzenia stwarzania przez wyrób pirotechniczny zagrożenia, przeprowadzania, w celu ochrony zdrowia i bezpieczeństwa ludzi, na uzasadnione żądanie organów nadzoru rynku, o których mowa w art. 62zl, badania próby wyrobów pirotechnicznych udostępnionych na rynku, analizy skarg oraz prowadzenia ewidencji skarg, wyrobów pirotechnicznych niezgodnych z wymaganiami ustawy oraz przypadków odzyskania wyrobu pirotechnicznego, a także informowania dystrybutorów o tego rodzaju działaniach;
+- **12)** udostępnienia, na żądanie organów nadzoru rynku, o których mowa w art. 62zl, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności wyrobu pirotechnicznego z wymaganiami bezpieczeństwa, a w przypadku stwierdzenia, że wprowadzony do obrotu wyrób stwarza zagrożenie, współpracy z tymi organami we wszelkich działaniach ukierunkowanych na usunięcie zagrożeń, jakie stwarza ten wyrób;
+- **13)** prowadzenia rejestru numerów rejestracyjnych wyrobów pirotechnicznych przez siebie importowanych, uwzględniającego ich nazwę handlową, typ oraz podtyp – jeżeli występuje, a także miejsce produkcji;
+- **14)** przechowywania rejestru, o którym mowa w pkt 13, przez okres 10 lat od momentu wprowadzenia wyrobu pirotechnicznego do obrotu;
+- **15)** udostępniania informacji zawartych w rejestrze, o którym mowa w pkt 13, organom nadzoru rynku wszystkich państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej oraz ministrowi właściwemu do spraw gospodarki, na ich wniosek;
+- **16)** przekazania rejestru, o którym mowa w pkt 13, ministrowi właściwemu do spraw gospodarki w przypadku zakończenia działalności gospodarczej za pośrednictwem środków komunikacji elektronicznej, w formacie ustalonym z ministrem właściwym do spraw gospodarki po opatrzeniu kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+2. Obowiązki, o których mowa w ust. 1 pkt 3–5, importer wyrobu pirotechnicznego wykonuje przed wprowadzeniem tego wyrobu do obrotu.
+
+**Art. 62zg.**
+
+1. Dystrybutor wyrobów pirotechnicznych działa z należytą starannością w odniesieniu do wymagań ustawy i jest obowiązany do:
+
+- **1)** sprawdzenia, czy:
+    - **a)** na wyrobie pirotechnicznym albo na opakowaniu jednostkowym i dołączonych dokumentach umieszczone zostało oznakowanie CE, w sposób widoczny, czytelny i trwały, oraz numer identyfikacyjny jednostki notyfikowanej,
+    - **b)** do wyrobu pirotechnicznego zostały dołączone wymagane dokumenty,
+    - **c)** do wyrobu pirotechnicznego dołączona została instrukcja obsługi oraz informacje dotyczące bezpieczeństwa, w języku polskim, jeżeli nie zostały one umieszczone na etykiecie lub opakowaniu jednostkowym wyrobu;
+
+- **2)** sprawdzenia, czy na wyrobie pirotechnicznym umieszczona została etykieta, spełniająca wymagania określone w przepisach wydanych na podstawie art. 2g ust. 2, a gdy nie jest to możliwe ze względu na wielkość, kształt lub charakter wyrobu pirotechnicznego, sprawdzenia, czy informacje, które powinny znajdować się na etykiecie, zostały umieszczone na opakowaniu jednostkowym lub na dokumentach towarzyszących;
+- **3)** w przypadku wystąpienia niezgodności wyrobu pirotechnicznego z wymaganiami bezpieczeństwa albo powzięcia wątpliwości w tym zakresie, nieudostępniania na rynku wyrobu pirotechnicznego do czasu zapewnienia zgodności tego wyrobu;
+- **4)** zapewnienia, że w okresie, gdy ponosi odpowiedzialność za wyrób pirotechniczny, warunki przechowywania i transportu tego wyrobu nie wpływały ujemnie na zgodność wyrobu z wymaganiami bezpieczeństwa;
+- **5)** w przypadku uznania, że udostępniony na rynku wyrób pirotechniczny jest niezgodny z wymaganiami ustawy, lub powzięcia wątpliwości w tym zakresie, podjęcia niezwłocznie koniecznych środków naprawczych, w celu zapewnienia zgodności tego wyrobu lub jego wycofania z obrotu, lub odzyskania, stosownie do okoliczności;
+- **6)** niezwłocznego informowania producenta lub importera oraz organów nadzoru rynku, o których mowa w art. 62zl ust. 4, a także organów nadzoru rynku w pozostałych państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, w których wyrób pirotechniczny został udostępniony, o wyrobach stwarzających zagrożenie dla bezpieczeństwa, przez podanie szczegółowych informacji, w szczególności o niezgodności tych wyrobów z wymaganiami bezpieczeństwa oraz o środkach naprawczych podjętych w celu zapewnienia tej zgodności;
+- **7)** udostępniania, na żądanie organów nadzoru rynku, o których mowa w art. 62zl, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności wyrobu pirotechnicznego z wymaganiami ustawy oraz współpracy z tymi organami we wszelkich działaniach ukierunkowanych na usunięcie zagrożeń, jakie stwarzają wyroby wprowadzone do obrotu niespełniające wymagań.
+
+2. Obowiązki, o których mowa w ust. 1 pkt 1 i 2, dystrybutor wyrobu pirotechnicznego wykonuje przed udostępnieniem tego wyrobu na rynku.
+
+**Art. 62zh.** W przypadku gdy importer lub dystrybutor wprowadza wyrób pirotechniczny pod własną nazwą lub znakiem towarowym, o ile taki posiada, lub modyfikuje wyrób pirotechniczny już znajdujący się w obrocie, w sposób mogący mieć wpływ na zgodność tego wyrobu z wymaganiami ustawy, podlega obowiązkom producenta, o których mowa w art. 62ze.
+
+**Art. 62zi.** Na żądanie organów nadzoru rynku, o których mowa w art. 62zl, podmioty gospodarcze muszą udostępniać dane pozwalające zidentyfikować każdy podmiot gospodarczy, który im dostarczył, lub każdy podmiot, któremu dostarczyły wyrób pirotechniczny. Informacje, o których mowa w zdaniu pierwszym, podmioty gospodarcze są obowiązane udostępniać w okresie 10 lat od dnia dostarczenia im lub dostarczenia przez te podmioty tego wyrobu.
+
+**Art. 62zj.**
+
+1. Wyroby pirotechniczne niezgodne z wymaganiami ustawy mogą być prezentowane lub używane na targach, wystawach i pokazach pod warunkiem wyraźnego uwidocznienia informacji o:
+
+- **1)** niezgodności wyrobu z wymaganiami ustawy;
+- **2)** zakazie wprowadzania do obrotu lub udostępniania na rynku tego wyrobu do czasu zapewnienia zgodności z wymaganiami ustawy;
+- **3)** nazwie i dacie targów, wystaw lub pokazów, podczas których te wyroby będą prezentowane lub używane.
+
+2. Wyroby pirotechniczne, o których mowa w ust. 1, mogą być prezentowane lub używane na targach, wystawach lub pokazach, jeżeli zapewnione zostały odpowiednie środki bezpieczeństwa w celu uniknięcia zagrożeń dla życia i zdrowia ludzi oraz mienia lub środowiska związanych z prezentowaniem lub używaniem tych wyrobów.
+
+**Art. 62zk.** Wyroby pirotechniczne niezgodne z wymaganiami ustawy wytworzone na potrzeby działalności badawczo-rozwojowej i testów mogą być udostępniane na rynku i używane pod warunkiem wyraźnego oznakowania wskazującego na ich niezgodność oraz zakaz wykorzystywania do innych celów niż działalność badawczo-rozwojowa i testy.
 
 #### Rozdział 5e Organy nadzoru rynku prowadzące kontrole i postępowania w sprawach wyrobów pirotechnicznych
 
+**Art. 62zl.**
+
+1. Wyroby pirotechniczne wprowadzone do obrotu podlegają kontroli organów nadzoru rynku w zakresie spełniania przez te wyroby wymagań, o których mowa w ustawie, oraz kontroli w zakresie niezgodności formalnych w odniesieniu do tych wyrobów.
+
+2. Kontrolę w zakresie, o którym mowa w ust. 1, prowadzą:
+
+- **1)** wojewódzcy inspektorzy Inspekcji Handlowej – w odniesieniu do wyrobów pirotechnicznych klas F1–F4, T1 i P1;
+- **2)** inspektorzy pracy – w odniesieniu do wyrobów pirotechnicznych klas F4, T1, T2, P1 i P2.
+
+3. (uchylony)
+
+4. Postępowania w sprawach wprowadzonych do obrotu wyrobów pirotechnicznych niezgodnych z wymaganiami ustawy oraz niezgodności formalnych prowadzą:
+
+- **1)** Prezes Urzędu Ochrony Konkurencji i Konsumentów – w odniesieniu do wyrobów pirotechnicznych klas F1–F4, T1 i P1;
+- **2)** okręgowi inspektorzy pracy – w odniesieniu do wyrobów pirotechnicznych klas F4, T1, T2, P1 i P2.
+
+5. Kontrolę i postępowania, o których mowa w ust. 1 i 4, prowadzi się zgodnie z przepisami ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, z tym że za niezgodności formalne uważa się niezgodności polegające na naruszeniu przez podmiot gospodarczy obowiązków, o których mowa w art. 62ze ust. 1 pkt 2, 4–7 i 9, art. 62zf ust. 1 pkt 3–5 i 8 oraz art. 62zg ust. 1 pkt 1 i 2.
+
 #### Rozdział 5f Obowiązki jednostek notyfikowanych związane z przydzielaniem numerów rejestracyjnych identyfikujących wyroby pirotechniczne
+
+**Art. 62zm.**
+
+1. Jednostka notyfikowana przydziela numery rejestracyjne identyfikujące wyroby pirotechniczne ocenione pod względem zgodności z wymaganiami bezpieczeństwa, składające się z następujących elementów:
+
+- **1)** czterocyfrowego numeru identyfikacyjnego jednostki notyfikowanej, która wydała certyfikat zgodności:
+    - **a)** w procedurze badania typu UE (moduł B) – certyfikat badania typu UE albo
+    - **b)** w procedurze zgodności w oparciu o weryfikację jednostkową (moduł G) – certyfikat zgodności, albo
+    - **c)** w procedurze zgodności w oparciu o pełne zapewnienie jakości (moduł H) w zakresie dotyczącym wyrobów pirotechnicznych widowiskowych klasy F4 – zatwierdzenie systemu zapewnienia jakości – o których mowa w przepisach wydanych na podstawie art. 2g ust. 2;
+
+- **2)** oznaczenia klasy wyrobu pirotechnicznego, którego dotyczy certyfikat zgodności, w skróconej formie (F1, F2, F3 i F4, T1 i T2, P1 i P2);
+- **3)** numeru stosowanego przez jednostkę notyfikowaną w odniesieniu do danego wyrobu pirotechnicznego.
+
+2. Numer rejestracyjny wyrobu pirotechnicznego ma następującą strukturę: „XXXX – YY – ZZZZ…”, gdzie XXXX odnosi się do ust. 1 pkt 1, YY odnosi się do ust. 1 pkt 2, a ZZZZ… odnosi się do ust. 1 pkt 3.
+
+3. Jednostka notyfikowana prowadzi, udostępniany na swojej stronie internetowej, regularnie aktualizowany, rejestr numerów rejestracyjnych wyrobów pirotechnicznych.
+
+4. Rejestr, o którym mowa w ust. 3, zawiera następujące informacje:
+
+- **1)** numer rejestracyjny wyrobu pirotechnicznego;
+- **2)** datę wydania certyfikatu zgodności, o którym mowa w ust. 1, dla danego wyrobu pirotechnicznego oraz w stosownym przypadku – termin upływu ważności certyfikatu zgodności;
+- **3)** nazwę producenta wyrobu pirotechnicznego;
+- **4)** typ wyrobu pirotechnicznego i podtyp – jeżeli występuje;
+- **5)** wskazanie zastosowanej procedury oceny:
+    - **a)** zgodności z typem w oparciu o wewnętrzną kontrolę produkcji oraz nadzorowaną kontrolę wyrobów w losowych odstępach czasu (moduł C2) albo
+    - **b)** zgodności z typem w oparciu o zapewnienie jakości procesu produkcji (moduł D), albo
+    - **c)** zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
+
+- **6)** nazwę jednostki notyfikowanej, która przeprowadziła ocenę zgodności wyrobu pirotechnicznego przy zastosowaniu procedury oceny zgodności, o której mowa w pkt 5, jeżeli jest to inna jednostka notyfikowana niż jednostka, która przeprowadziła procedurę badania typu UE (moduł B) – jeżeli jest znana;
+- **7)** informacje dodatkowe, które jednostka notyfikowana chce zamieścić w rejestrze.
+
+5. Informacje zawarte w rejestrze są przechowywane przez 10 lat od dnia wydania certyfikatów zgodności, o których mowa w ust. 1, dla danego wyrobu pirotechnicznego.
+
+6. W przypadku, gdy jednostka notyfikowana utraci uprawnienia do oceny zgodności wyrobów pirotechnicznych, przekazuje rejestr, o którym mowa w ust. 3, innej jednostce notyfikowanej lub ministrowi właściwemu do spraw gospodarki.
+
+7. Przekazanie rejestru w przypadku, o którym mowa w ust. 6, następuje za pośrednictwem środków komunikacji elektronicznej, w formacie ustalonym z jednostką notyfikowaną lub ministrem właściwym do spraw gospodarki, które przejmą rejestr, po opatrzeniu kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
 #### Rozdział 6 Przepisy karne
 
@@ -1135,7 +1218,11 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 1. Producent albo importer, który wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego lub wyrób pirotechniczny, zgodny z wymaganiami bezpieczeństwa, bez oznakowania CE, albo dystrybutor, który udostępnia na rynku ten materiał lub wyrób, zgodny z wymaganiami bezpieczeństwa, bez oznakowania CE, podlega karze pieniężnej w wysokości do 20 000 zł.
 
-2. Producent, który wytwarza materiał wybuchowy metodą in situ zgodny z wymaganiami bezpieczeństwa, bez umieszczenia oznakowania CE na dokumentach towarzyszących, podlega karze pieniężnej w wysokości do 20 000 zł. Art. 65ca. Producent albo importer, który wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego, zgodny z wymaganiami bezpieczeństwa, bez jednoznacznego oznaczenia, o którym mowa w art. 62va ust. 1, 5 lub 7, albo dystrybutor, który udostępnia na rynku ten materiał, zgodny z wymaganiami bezpieczeństwa, bez jednoznacznego oznaczenia, podlega karze pieniężnej w wysokości do 20 000 zł. Art. 65cb. Producent albo importer, który wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego, zgodny z wymaganiami bezpieczeństwa, bez umieszczenia na nim informacji zgodnie z art. 62va ust. 9, albo dystrybutor, który udostępnia na rynku ten materiał, zgodny z wymaganiami bezpieczeństwa, bez umieszczenia na nim informacji zgodnie z art. 62va ust. 9, podlega karze pieniężnej w wysokości do 20 000 zł.
+2. Producent, który wytwarza materiał wybuchowy metodą in situ zgodny z wymaganiami bezpieczeństwa, bez umieszczenia oznakowania CE na dokumentach towarzyszących, podlega karze pieniężnej w wysokości do 20 000 zł.
+
+**Art. 65ca.** Producent albo importer, który wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego, zgodny z wymaganiami bezpieczeństwa, bez jednoznacznego oznaczenia, o którym mowa w art. 62va ust. 1, 5 lub 7, albo dystrybutor, który udostępnia na rynku ten materiał, zgodny z wymaganiami bezpieczeństwa, bez jednoznacznego oznaczenia, podlega karze pieniężnej w wysokości do 20 000 zł.
+
+**Art. 65cb.** Producent albo importer, który wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego, zgodny z wymaganiami bezpieczeństwa, bez umieszczenia na nim informacji zgodnie z art. 62va ust. 9, albo dystrybutor, który udostępnia na rynku ten materiał, zgodny z wymaganiami bezpieczeństwa, bez umieszczenia na nim informacji zgodnie z art. 62va ust. 9, podlega karze pieniężnej w wysokości do 20 000 zł.
 
 **Art. 65d.**
 
@@ -1145,11 +1232,17 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 3. Importer wprowadzonego do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie zapewnienia, że do tego materiału dołączono instrukcję obsługi lub informację dotyczącą bezpieczeństwa, w języku polskim, podlega karze pieniężnej w wysokości do 10 000 zł.
 
-4. Dystrybutor udostępnionego na rynku materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie sprawdzenia, że do tego materiału dołączono instrukcję obsługi lub informację dotyczącą bezpieczeństwa, w języku polskim, podlega karze pieniężnej w wysokości do 10 000 zł. Art. 65da. 1. Producent materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie prowadzenia rejestru jednoznacznych oznaczeń tego materiału, podlega karze pieniężnej w wysokości do 20 000 zł.
+4. Dystrybutor udostępnionego na rynku materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie sprawdzenia, że do tego materiału dołączono instrukcję obsługi lub informację dotyczącą bezpieczeństwa, w języku polskim, podlega karze pieniężnej w wysokości do 10 000 zł.
+
+**Art. 65da.**
+
+1. Producent materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie prowadzenia rejestru jednoznacznych oznaczeń tego materiału, podlega karze pieniężnej w wysokości do 20 000 zł.
 
 2. Importer wprowadzanego do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie prowadzenia rejestru jednoznacznych oznaczeń tego materiału, podlega karze pieniężnej w wysokości do 20 000 zł.
 
-3. Dystrybutor udostępnionego na rynku materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie prowadzenia rejestru jednoznacznych oznaczeń tego materiału, podlega karze pieniężnej w wysokości do 20 000 zł. Art. 65db. Producent wprowadzanego do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie oznaczenia obiektu produkcyjnego, w którym są wytwarzane te materiały, trzycyfrowym kodem, podlega karze pieniężnej w wysokości do 20 000 zł.
+3. Dystrybutor udostępnionego na rynku materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie prowadzenia rejestru jednoznacznych oznaczeń tego materiału, podlega karze pieniężnej w wysokości do 20 000 zł.
+
+**Art. 65db.** Producent wprowadzanego do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie oznaczenia obiektu produkcyjnego, w którym są wytwarzane te materiały, trzycyfrowym kodem, podlega karze pieniężnej w wysokości do 20 000 zł.
 
 **Art. 65e.**
 

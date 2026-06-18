@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rolnictwie ekologicznym i produkcji ekologicznej
+# Ustawa z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej
 
 *USTAWA z dnia 23 czerwca 2022 r.*
 
@@ -535,7 +535,9 @@ source: pdf
 
 4. Kary pieniężne, o których mowa w art. 23 ust. 1–3 i art. 24 ust. 1–3, są wnoszone na rachunek bankowy Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych albo wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych.
 
-5. W zakresie nieuregulowanym w niniejszej ustawie oraz w ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują odpowiednio Głównemu Inspektorowi albo wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych właściwemu ze względu na miejsce przeprowadzenia kontroli. Art. 26–36. (pominięte)
+5. W zakresie nieuregulowanym w niniejszej ustawie oraz w ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują odpowiednio Głównemu Inspektorowi albo wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych właściwemu ze względu na miejsce przeprowadzenia kontroli.
+
+**Art. 26–36.** (pominięte)
 
 **Art. 37.**
 

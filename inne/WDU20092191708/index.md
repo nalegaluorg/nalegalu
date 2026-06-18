@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o izbach lekarskich
+# Ustawa z dnia 2 grudnia 2009 r. o izbach lekarskich
 
 *USTAWA z dnia 2 grudnia 2009 r.*
 

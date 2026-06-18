@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funduszach inwestycyjnych
+# Ustawa z dnia 9 kwietnia 2010 r. o zmianie ustawy o funduszach inwestycyjnych
 
 *USTAWA z dnia 9 kwietnia 2010 r.*
 

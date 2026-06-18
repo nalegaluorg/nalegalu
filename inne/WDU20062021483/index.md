@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu nowych nazw niektórym publicznym uczelniom akademickim
+# Ustawa z dnia 18 października 2006 r. o nadaniu nowych nazw niektórym publicznym uczelniom akademickim
 
 *USTAWA z dnia 18 października 2006 r.*
 

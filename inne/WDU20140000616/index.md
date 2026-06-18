@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą
+# Ustawa z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą
 
 *USTAWA z dnia 4 kwietnia 2014 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2014-05-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000616) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/616/text.pdf) |
-
-Art. 40–47. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -457,6 +455,8 @@ Art. 40–47. (pominięte)
 **Art. 39.** Świadczenia odszkodowawcze, w tym przyznane na podstawie art. 14, wypłaca jednostka organizacyjna, na której zaopatrzeniu finansowym funkcjonariusz pozostaje, albo w przypadku funkcjonariusza zwolnionego albo zmarłego, albo zaginionego – jednostka, na której zaopatrzeniu pozostawał przed dniem zwolnienia albo śmierci, albo zaginięcia, w terminie 14 dni od dnia wydania decyzji.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 40–47.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku akcyzowym oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 11 maja 2007 r. o zmianie ustawy o podatku akcyzowym oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 11 maja 2007 r.*
 

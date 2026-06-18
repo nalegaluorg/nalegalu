@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku ze wspieraniem innowacyjności
+# Ustawa z dnia 25 września 2015 r. o zmianie niektórych ustaw w związku ze wspieraniem innowacyjności
 
 *USTAWA z dnia 25 września 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o giełdach towarowych
+# Ustawa z dnia 26 października 2000 r. o giełdach towarowych.
 
 *USTAWA z dnia 26 października 2000 r.*
 
@@ -26,9 +26,6 @@ source: pdf
 | Data wydania | 2000-11-27 |
 | Ostatnia zmiana | 2026-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001031099) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1099/text.pdf) |
-
-Art. 62–66. (pominięte)
-Art. 67–69. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1019,7 +1016,11 @@ Art. 67–69. (pominięte)
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
 
+**Art. 62–66.** (pominięte)
+
 #### Rozdział 11 Przepisy przejściowe i końcowe
+
+**Art. 67–69.** (pominięte)
 
 **Art. 70.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia , z wyjątkiem:
 

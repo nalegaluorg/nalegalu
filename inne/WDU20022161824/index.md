@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz o zmianie niektórych ustaw
+# Ustawa z dnia 23 listopada 2002 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 23 listopada 2002 r.*
 

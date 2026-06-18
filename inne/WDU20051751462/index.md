@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej
+# Ustawa z dnia 29 lipca 2005 r. o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej
 
 *USTAWA z dnia 29 lipca 2005 r.*
 

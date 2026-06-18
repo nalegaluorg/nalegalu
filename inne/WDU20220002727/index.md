@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie identyfikacji i rejestracji zwierząt
+# Ustawa z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt
 
 *USTAWA z dnia 4 listopada 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-12-22 |
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002727) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2727/text.pdf) |
-
-Art. 57–63. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -870,6 +868,8 @@ Art. 57–63. (pominięte)
 3. Orzekanie w sprawach o czyny określone w ust. 1 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, z późn. zm. ).
 
 #### Rozdział 8 Zmiany w przepisach
+
+**Art. 57–63.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe, dostosowujące i końcowe
 

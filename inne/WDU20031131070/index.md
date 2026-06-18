@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo telekomunikacyjne oraz o zmianie niektórych ustaw
+# Ustawa z dnia 22 maja 2003 r. o zmianie ustawy - Prawa telekomunikacyjne oraz o zmianie niektórych ustaw
 
 *USTAWA z dnia 22 maja 2003 r.*
 

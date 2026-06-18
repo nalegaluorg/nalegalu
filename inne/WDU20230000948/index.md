@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 kwietnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych
 
 | Pole | Wartość |
 |---|---|
@@ -41,118 +41,6 @@ poz. 1387, z późn. zm. ) wprowadza się następujące zmiany:
 7) w art. 23z pkt 2 otrzymuje brzmienie: „2) objętych uprzednim porozumieniem cenowym w okresie, którego dotyczy to porozumienie;”;
 8) w art. 23za ust. 2 otrzymuje brzmienie: „2. Kwoty, o których mowa w ust. 1, wyrażone w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej lub zawarcia umowy.”;
 9) w art. 45 uchyla się ust. 5a i 5b.
-Art. 20zb. Szef Krajowej Administracji Skarbowej może zawrzeć z podatnikiem będącym stroną umowy o współdziałanie, w formie pisemnej, porozumienie podatkowe w zakresie objętym tą umową w sprawie:
-1) interpretacji przepisów prawa podatkowego;
-2) ustalania cen transferowych;
-3) braku zasadności zastosowania art. 119a § 1;
-4) wysokości prognozowanego na następny rok podatkowy zobowiązania podatkowego w podatku dochodowym od osób prawnych;
-5) innej, niezbędnej dla zapewnienia prawidłowej realizacji umowy o współdziałanie.
-Art. 20zc. § 1. Porozumienie podatkowe nie może zostać zawarte w zakresie czynności i zdarzeń objętych toczącym się postępowaniem podatkowym, kontrolą podatkową, kontrolą celno-skarbową lub postępowaniem przed sądem administracyjnym albo gdy w tym zakresie sprawa została rozstrzygnięta co do istoty w decyzji lub postanowieniu organu podatkowego.
-§ 2. W przypadku odmowy zawarcia porozumienia podatkowego Szef Krajowej Administracji Skarbowej wskazuje przyczyny odmowy wraz z uzasadnieniem.
-§ 3. Do porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 1, przepisy art. 14c § 1 stosuje się odpowiednio.
-§ 4. Do porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 2, przepisy art. 83, art. 85–88, art. 90 ust. 1 i 3, art. 92, art. 95 ust. 1–6 i 8, art. 96, art. 98–100, art. 105 ust. 1 i 3, art. 106 ust. 1 i 3 oraz art. 107 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych stosuje się odpowiednio, przy czym:
-1) opłaty, o których mowa w art. 98 i art. 99 tej ustawy, pobiera się po zawarciu porozumienia w wysokości 50% kwot, o których mowa w art. 98 i art. 99 tej ustawy;
-2) obowiązek przedstawienia dokumentów lub informacji, o których mowa w art. 90 ust. 1 oraz art. 107 tej ustawy, nie dotyczy dokumentów lub informacji przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach umowy o współdziałanie lub audytu podatkowego.
-§ 5. Do porozumienia podatkowego, o którym mowa w art. 20zb pkt 3, przepisy art. 119x § 1, art. 119y § 1, art. 119za pkt 1 i 2 oraz art. 119zc stosuje się odpowiednio, przy czym:
-1) obowiązek przedstawienia dokumentów i informacji, o których mowa w art. 119x § 1, nie dotyczy dokumentów przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach umowy o współdziałanie lub audytu podatkowego;
-2) opłatę, o której mowa w art. 119zc, pobiera się po zawarciu porozumienia w wysokości 50% kwoty, o której mowa w art. 119zc § 1.
-Art. 20zd. Przed zawarciem porozumienia podatkowego Szef Krajowej Administracji Skarbowej może zasięgnąć opinii:
-1) Dyrektora Krajowej Informacji Skarbowej lub naczelnika urzędu skarbowego właściwego dla podatnika będącego stroną umowy o współdziałanie – w przypadku porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 1;
-2) Rady do Spraw Przeciwdziałania Unikaniu Opodatkowania – w przypadku porozumienia podatkowego, o którym mowa w art. 20zb pkt 3, przy czym przepis art. 119h § 3 stosuje się odpowiednio.
-Art. 20ze. § 1. Podatnik może w każdym czasie wypowiedzieć porozumienie podatkowe.
-§ 2. Szef Krajowej Administracji Skarbowej może wypowiedzieć porozumienie podatkowe, jeżeli:
-1) wyjdą na jaw istotne dla sprawy, w jakiej zawarto porozumienie, nowe okoliczności faktyczne lub nowe dowody, istniejące w dniu zawarcia tego porozumienia, nieznane Szefowi Krajowej Administracji Skarbowej, lub
-2) stwierdzi, że porozumienie jest nieprawidłowe w świetle w szczególności orzecznictwa Trybunału Konstytucyjnego, Trybunału Sprawiedliwości Unii Europejskiej, uchwał Naczelnego Sądu Administracyjnego lub interpretacji ogólnych, lub
-3) zostanie rozwiązana umowa o współdziałanie.
-§ 3. Z zastrzeżeniem art. 20z, rozwiązanie porozumienia podatkowego następuje z dniem złożenia, w formie pisemnej, drugiej stronie wypowiedzenia tego porozumienia wraz z uzasadnieniem. Podatnik w wypowiedzeniu porozumienia może wskazać inny niż wynikający ze zdania pierwszego termin rozwiązania porozumienia, poprzedzający dzień złożenia tego wypowiedzenia.
-§ 4. Rozwiązanie porozumienia podatkowego na podstawie § 2 pkt 1 wywołuje skutki prawne od dnia jego zawarcia.
-§ 5. Zastosowanie się do porozumienia rozwiązanego na podstawie § 1 oraz § 2 pkt 2 i 3 nie może szkodzić podatnikowi. Przepisy art. 14k oraz art. 14m § 1–3 stosuje się odpowiednio.
-Art. 20zf. W zakresie nieuregulowanym w niniejszym rozdziale do porozumień podatkowych przepisy działu IV rozdziału 11 stosuje się odpowiednio.
-Art. 20zg. Audyt podatkowy przeprowadza Szef Krajowej Administracji Skarbowej wobec podatnika przed zawarciem umowy o współdziałanie (audyt wstępny) oraz w trakcie obowiązywania umowy o współdziałanie (audyt monitorujący) w celu sprawdzenia:
-1) prawidłowości wypełniania obowiązków podatkowych;
-2) skuteczności i adekwatności ram wewnętrznego nadzoru podatkowego.
-Art. 20zh. § 1. Podatnik jest obowiązany do przekazywania na wniosek Szefa Krajowej Administracji Skarbowej dokumentów i informacji niezbędnych do przeprowadzenia audytu podatkowego.
-§ 2. Dokumenty i informacje uznane przez Szefa Krajowej Administracji Skarbowej za zawierające tajemnicę przedsiębiorstwa są niszczone w terminie 2 miesięcy od dnia:
-1) rozwiązania umowy o współdziałanie;
-2) zakończenia audytu wstępnego, jeżeli audyt wstępny został zakończony opinią – w przypadku niezawarcia umowy o współdziałanie;
-3) zakończenia weryfikacji zastosowania się przez podatnika do wydanych zaleceń, o których mowa w art. 20zi § 1 pkt 2 – w przypadku niezawarcia umowy o współdziałanie.
-Art. 20zi. § 1. Z przeprowadzonego audytu podatkowego Szef Krajowej Administracji Skarbowej sporządza:
-1) opinię pozytywną albo
-2) zalecenia wskazujące, jakie czynności podatnik powinien podjąć w celu usunięcia stwierdzonych w ramach tego audytu nieprawidłowości, wraz z uzasadnieniem, albo
-3) opinię negatywną.
-§ 2. Audyt monitorujący jest wykonywany w sposób ciągły.
-§ 3. Opinia oraz zalecenia są przekazywane niezwłocznie podatnikowi.
-§ 4. Termin realizacji czynności podejmowanych w związku z przekazanymi zaleceniami podatnik uzgadnia z Szefem Krajowej Administracji Skarbowej.
-§ 5. W przypadku zastosowania się przez podatnika do zaleceń audytu wstępnego audyt ten może być wznowiony na okres niezbędny do weryfikacji zastosowania się podatnika do tych zaleceń.
-Art. 20zj. § 1. O przeprowadzeniu audytu wstępnego i jego zakresie decyduje Szef Krajowej Administracji Skarbowej, biorąc pod uwagę ocenę ryzyka podatkowego zidentyfikowanego u podatnika wnioskującego o zawarcie umowy o współdziałanie.
-§ 2. Podatnik jest informowany o zakresie audytu wstępnego.
-§ 3. Harmonogram działań podejmowanych w ramach audytu wstępnego Szef Krajowej Administracji Skarbowej uzgadnia z podatnikiem.
-§ 4. Audyt wstępny w zakresie poprawności wypełniania obowiązków podatkowych obejmuje 2 lata podatkowe poprzedzające rok, w którym podatnik wystąpił z wnioskiem o podpisanie umowy o współdziałanie, oraz okres od początku roku podatkowego, w którym podatnik wystąpił z wnioskiem, do dnia zakończenia tego audytu.
-§ 5. Audyt wstępny w zakresie poprawności wypełniania obowiązków podatkowych przez następcę prawnego podatnika, który zawarł umowę o współdziałanie, może objąć krótszy okres niż określony w § 4.
-Art. 20zk. Audyt podatkowy w zakresie prawidłowości wypełniania obowiązków podatkowych obejmuje analizę ryzyka i badanie dokumentacji dotyczącej zidentyfikowanych u podatnika obszarów ryzyka podatkowego.
-Art. 20zl. Audyt podatkowy w zakresie ram wewnętrznego nadzoru podatkowego obejmuje ocenę możliwości prawidłowego wykonywania obowiązków podatkowych poprzez weryfikację poziomu wdrożenia i funkcjonowania:
-1) systemu zarządzania ryzykiem,
-2) kontroli wewnętrznej,
-3) audytu wewnętrznego,
-4) nadzoru nad zgodnością działalności z przepisami prawa, regulacjami wewnętrznymi i dobrowolnie przyjętymi standardami,
-5) mechanizmów nadzoru zewnętrznego, w tym niezależnego audytu funkcji podatkowej – w odniesieniu do spraw podatkowych.
-Art. 20zm. § 1. W przypadku złożenia prawnie skutecznej deklaracji lub korekty deklaracji:
-1) w terminie 14 dni od dnia otrzymania zaleceń audytu wstępnego i w celu usunięcia stwierdzonych w nim nieprawidłowości w zakresie realizacji obowiązków podatkowych i wpłacenia związanej z tą korektą zaległości podatkowej w terminie 7 dni od daty złożenia tej deklaracji albo korekty deklaracji – przepis art. 56a § 1 stosuje się odpowiednio;
-2) za okres rozliczeniowy objęty audytem monitorującym oraz pod warunkiem wpłacenia zaległości podatkowych w terminie 7 dni od dnia złożenia tej deklaracji albo korekty deklaracji – nie nalicza się odsetek za zwłokę.
-§ 2. Przepis § 1 pkt 1 stosuje się do deklaracji oraz korekt deklaracji złożonych za okresy nieobjęte audytem wstępnym, jeżeli złożone zostały w celu usunięcia nieprawidłowości stwierdzonych w wyniku tego audytu.
-§ 3. W przypadku, o którym mowa w § 1 pkt 2, nie wszczyna się postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe.
-Art. 20zn. § 1. Czynności w zakresie audytu podatkowego wykonują pracownicy zatrudnieni w wyodrębnionej w tym celu komórce organizacyjnej urzędu obsługującego Szefa Krajowej Administracji Skarbowej, działający z jego upoważnienia.
-§ 2. Czynności w zakresie audytu podatkowego mogą być wykonywane z upoważnienia Szefa Krajowej Administracji Skarbowej przez pracowników i funkcjonariuszy jednostek Krajowej Administracji Skarbowej.
-§ 3. Pracownicy i funkcjonariusze wykonujący czynności w zakresie audytu podatkowego nie mogą uczestniczyć w przeprowadzaniu kontroli podatkowej, kontroli celno-skarbowej oraz w postępowaniu podatkowym wobec podatnika objętego tym audytem przez okres 3 lat od dnia jego zakończenia.
-Art. 20zo. § 1. Niezależny audyt funkcji podatkowej jest przeprowadzany na zlecenie podatnika przez niezależnego audytora podatkowego.
-§ 2. Niezależnym audytorem podatkowym może być spółka doradztwa podatkowego, firma audytorska, doradca podatkowy lub biegły rewident, z wyjątkiem podmiotu:
-1) wykonującego na rzecz podatnika czynności rewizji finansowej, usługi doradztwa podatkowego lub prawnego,
-2) będącego krajowym podmiotem powiązanym lub zagranicznym podmiotem powiązanym w rozumieniu ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych wobec:
-a) podatnika,
-b) podmiotu wykonującego usługi doradztwa podatkowego lub czynności rewizji finansowej na rzecz tego podatnika,
-3) wykonującego usługi, o których mowa w pkt 2 lit. b, na rzecz podmiotu, który świadczy na rzecz podatnika takie usługi – w okresie objętym tym audytem podatkowym oraz w trakcie jego przeprowadzania.
-Art. 20zp. § 1. Niezależny audyt funkcji podatkowej obejmuje sprawdzenie prawidłowości wykonywania obowiązków podatkowych oraz skuteczności i adekwatności wdrożonych ram wewnętrznego nadzoru podatkowego.
-§ 2. Z przeprowadzenia niezależnego audytu funkcji podatkowej sporządza się raport zawierający wynik niezależnego audytu funkcji podatkowej. Raport podpisuje niezależny audytor podatkowy przeprowadzający ten audyt.
-§ 3. Raport z niezależnego audytu funkcji podatkowej jest przekazywany niezwłocznie podatnikowi wraz z dokumentacją audytu zawierającą testy i procedury przeprowadzone w jego trakcie.
-Art. 20zq. W zakresie nieuregulowanym w niniejszym rozdziale przepisy działu IV rozdziału 11 stosuje się odpowiednio.
-Art. 20zr. W zakresie nieuregulowanym w niniejszym dziale przepisy art. 168, art. 172, art. 173 i art. 175–177 oraz działu IV rozdziału 1 z wyłączeniem art. 127, rozdziałów 5 i 10 stosuje się odpowiednio.”;
-6) w art. 58a dodaje się § 5 w brzmieniu: „§ 5. Na ocenę, że podatnik działał w dobrej wierze, może wskazywać również wywiązywanie się z obowiązków wynikających z umowy o współdziałanie, jeżeli zdarzenie lub czynność skutkujące zastosowaniem przepisów, o których mowa w § 1 pkt 1–3, wystąpiły w okresie trwania tej umowy.”;
-7) art. 70d otrzymuje brzmienie: „Art. 70d. Upływ terminu przedawnienia pozostaje bez wpływu na wprowadzenie w życie rozstrzygnięcia zapadłego w ramach procedury rozstrzygania sporów dotyczących podwójnego opodatkowania w przypadkach, o których mowa w:
-1) dziale II rozdziale 2 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych lub
-2) umowie o unikaniu podwójnego opodatkowania lub innej ratyfikowanej umowie międzynarodowej, której stroną jest Rzeczpospolita Polska, jeżeli umowa ta przewiduje możliwość wprowadzenia w życie rozstrzygnięcia bez względu na upływ terminu przedawnienia.”;
-8) w art. 79 § 4 otrzymuje brzmienie: „§ 4. Wniosek o stwierdzenie nadpłaty można złożyć po upływie terminu przedawnienia, jeżeli istnienie nadpłaty wynika z wprowadzenia w życie rozstrzygnięcia zapadłego w ramach procedury rozstrzygania sporów dotyczących podwójnego opodatkowania w przypadkach, o których mowa w:
-1) dziale II rozdziale 2 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych lub
-2) umowie o unikaniu podwójnego opodatkowania lub innej ratyfikowanej umowie międzynarodowej, której stroną jest Rzeczpospolita Polska, jeżeli umowa ta przewiduje możliwość wprowadzenia w życie rozstrzygnięcia po upływie terminu przedawnienia – przy czym przepis § 3 stosuje się odpowiednio.”;
-9) w art. 86a § 5 otrzymuje brzmienie: „§ 5. Obowiązek przekazania informacji o schemacie podatkowym nie powstaje, gdy schemat podatkowy, inny niż schemat podatkowy transgraniczny, dotyczy wyłącznie:
-1) korzystającego, dla którego nie jest spełnione kryterium kwalifikowanego korzystającego, lub
-2) korzystającego, który jest stroną umowy o współdziałanie, jeżeli w ramach audytu wstępnego Szef Krajowej Administracji Skarbowej potwierdził wykonywanie przez niego obowiązków, o których mowa w niniejszym rozdziale.”;
-10) w art. 86e § 3 otrzymuje brzmienie: „§ 3. Z obowiązku przekazania informacji o schemacie podatkowym nie zwalnia trwające postępowanie w przedmiocie wydania uprzedniego porozumienia cenowego, o którym mowa w ustawie z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych, lub wydanie takiego porozumienia.”;
-11) w art. 119b w § 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) do podmiotu, który zawarł porozumienie podatkowe, o którym mowa w art. 20zb pkt 3, w zakresie objętym tym porozumieniem.”;
-12) w art. 119x dodaje się § 5 w brzmieniu: „§ 5. Ze spotkania uzgodnieniowego sporządza się protokół. Przebieg spotkania uzgodnieniowego może być ponadto utrwalony za pomocą aparatury rejestrującej obraz i dźwięk lub na informatycznych nośnikach danych.”;
-13) w art. 119zf skreśla się wyrazy „art. 20g § 3,”;
-14) art. 119zfn otrzymuje brzmienie: „Art. 119zfn. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14b § 4, art. 14i § 2, art. 14r § 2 i 3, art. 119gc, art. 119h § 3, art. 119i, art. 119m § 1, art. 119s § 2, art. 119u i art. 119x § 5 oraz działu IV, z wyłączeniem art. 133, a także przepisy art. 45, art. 46, art. 49 i art. 51 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.”;
-15) w art. 201 w § 1b pkt 2 otrzymuje brzmienie: „2) jeżeli wszczęta została procedura wzajemnego porozumiewania się, w tym procedura arbitrażowa prowadzona na podstawie ratyfikowanej umowy o unikaniu podwójnego opodatkowania lub innej ratyfikowanej umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub przyjęto wniosek w ramach procedury prowadzonej na podstawie przepisów działu II rozdziału 2 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych.”;
-16) w art. 240 w § 1 pkt 10 otrzymuje brzmienie: „10) rozstrzygnięcie zapadłe w toku procedury rozstrzygania sporów dotyczących podwójnego opodatkowania w rozumieniu art. 2 pkt 6 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych ma wpływ na treść wydanej decyzji;”;
-17) w art. 245 w § 1 w pkt 3 w lit. b po wyrazach „art. 118” dodaje się wyrazy „ , z zastrzeżeniem art. 70d”;
-18) w art. 281:
-a) § 1 otrzymuje brzmienie: „§ 1. Organy podatkowe pierwszej instancji przeprowadzają kontrolę podatkową u podatników, płatników, inkasentów oraz następców prawnych, zwanych dalej „kontrolowanymi”.”,
-b) uchyla się § 3;
-19) w art. 293 w § 2:
-a) pkt 6 otrzymuje brzmienie: „6) informacjach uzyskanych w toku procedur rozstrzygania sporów dotyczących podwójnego opodatkowania oraz w toku postępowania w sprawie wydania uprzednich porozumień cenowych, o których mowa w ustawie z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych;”,
-b) w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „12) informacjach przekazanych przez podatnika w ramach realizacji współdziałania, o którym mowa w dziale IIB.”;
-20) w art. 294 w § 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) członkowie komisji doradczej i komisji do spraw pozasądowego rozstrzygania sporów oraz osoby, których dotyczy spór, ich przedstawiciele i pełnomocnicy, o których mowa w ustawie z dnia 16 października 2019 r.
-o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych.”;
-21) art. 295a otrzymuje brzmienie: „Art. 295a. § 1. W toku postępowania w sprawie wydania uprzedniego porozumienia cenowego, o którym mowa w dziale III ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych, dostęp do informacji przekazanych przez przedsiębiorców w tym postępowaniu przysługuje pracownikowi załatwiającemu sprawę, jego przełożonemu oraz Szefowi Krajowej Administracji Skarbowej.
-§ 2. Za zgodą podatnika dostęp do informacji i dokumentów przekazanych w toku postępowania w sprawie wydania uprzedniego porozumienia cenowego, o którym mowa w dziale III ustawy z dnia 16 października 2019 r.
-o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych, przysługuje pracownikom upoważnionym przez Szefa Krajowej Administracji Skarbowej do wykonywania zadań w zakresie współdziałania, o którym mowa w dziale IIB, oraz ich przełożonym.”;
-22) po art. 295c dodaje się art. 295d w brzmieniu: „Art. 295d. § 1. Dostęp do informacji przekazanych przez podatnika w ramach realizacji współdziałania, o którym mowa w dziale IIB, zawierających tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2019 r. poz. 1010 i 1649), przysługuje Szefowi Krajowej Administracji Skarbowej oraz pracownikom i funkcjonariuszom Krajowej Administracji Skarbowej upoważnionym przez Szefa Krajowej Administracji Skarbowej do realizacji zadań związanych z przeprowadzaniem audytu podatkowego i ich przełożonym oraz organom podatkowym, które wydają opinie przed zawarciem porozumienia podatkowego, o którym mowa w art. 20zb.
-§ 2. Przepisu § 1 nie stosuje się, jeżeli przedsiębiorca nie wykazał, że przekazane przez niego Szefowi Krajowej Administracji Skarbowej informacje i ich zakres stanowią tajemnicę przedsiębiorstwa. W tym przypadku organ podatkowy wydaje postanowienie o odmowie uznania tych informacji, w podanym przez przedsiębiorcę zakresie za stanowiące tajemnicę przedsiębiorstwa.”;
-23) w art. 296 w § 1:
-a) pkt 3 otrzymuje brzmienie: „3) uzyskane w postępowaniu w sprawie wydania uprzedniego porozumienia cenowego, o którym mowa w dziale III ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych,”,
-b) dodaje się pkt 4 w brzmieniu: „4) przekazane przez podatnika w ramach realizacji współdziałania, o którym mowa w dziale IIB, zawierające tajemnicę przedsiębiorstwa”;
-24) art. 297b otrzymuje brzmienie: „Art. 297b. Akta sprawy dotyczącej wydania uprzedniego porozumienia cenowego, o którym mowa w dziale III ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych, oraz informacje wynikające z tych akt są udostępniane wyłącznie organom wymienionym w art. 297 § 1 pkt 1, 2a–5 i 7 na zasadach określonych w tym przepisie.”;
-25) po art. 297e dodaje się art. 297f w brzmieniu: „Art. 297f. Informacje przekazane przez podatnika w ramach realizacji współdziałania, o którym mowa w dziale IIB, zawierające tajemnicę przedsiębiorstwa uznaną przez Szefa Krajowej Administracji Skarbowej, są udostępniane wyłącznie organom wymienionym w art. 297 § 1 pkt 1, 2a, 3 i 7–9 na zasadach określonych w tym przepisie.”.
-Art. 108–120. (pominięte)
 
 **Art. 109.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -260,7 +148,11 @@ Art. 108–120. (pominięte)
 
 **Art. 20y.** W okresie 2 lat od dnia rozwiązania umowy o współdziałanie przez Szefa Krajowej Administracji Skarbowej na podstawie art. 20x § 2 podatnik ten nie może złożyć wniosku o zawarcie kolejnej umowy o współdziałanie.
 
-**Art. 20z.** Z dniem rozwiązania umowy o współdziałanie Szef Krajowej Administracji Skarbowej może wypowiedzieć porozumienie podatkowe, o którym mowa w rozdziale 2. Art. 20za. § 1. Szef Krajowej Administracji Skarbowej prowadzi ewidencję podatników, z którymi zawarł umowę o współdziałanie.
+**Art. 20z.** Z dniem rozwiązania umowy o współdziałanie Szef Krajowej Administracji Skarbowej może wypowiedzieć porozumienie podatkowe, o którym mowa w rozdziale 2.
+
+**Art. 20za.**
+
+§ 1. Szef Krajowej Administracji Skarbowej prowadzi ewidencję podatników, z którymi zawarł umowę o współdziałanie.
 
 § 2. Ewidencja, o której mowa w § 1, zawiera:
 
@@ -271,9 +163,197 @@ Art. 108–120. (pominięte)
 
 #### Rozdział 2 Porozumienia podatkowe
 
+**Art. 20zb.** Szef Krajowej Administracji Skarbowej może zawrzeć z podatnikiem będącym stroną umowy o współdziałanie, w formie pisemnej, porozumienie podatkowe w zakresie objętym tą umową w sprawie:
+
+- **1)** interpretacji przepisów prawa podatkowego;
+- **2)** ustalania cen transferowych;
+- **3)** braku zasadności zastosowania art. 119a § 1;
+- **4)** wysokości prognozowanego na następny rok podatkowy zobowiązania podatkowego w podatku dochodowym od osób prawnych;
+- **5)** innej, niezbędnej dla zapewnienia prawidłowej realizacji umowy o współdziałanie.
+
+**Art. 20zc.**
+
+§ 1. Porozumienie podatkowe nie może zostać zawarte w zakresie czynności i zdarzeń objętych toczącym się postępowaniem podatkowym, kontrolą podatkową, kontrolą celno-skarbową lub postępowaniem przed sądem administracyjnym albo gdy w tym zakresie sprawa została rozstrzygnięta co do istoty w decyzji lub postanowieniu organu podatkowego.
+
+§ 2. W przypadku odmowy zawarcia porozumienia podatkowego Szef Krajowej Administracji Skarbowej wskazuje przyczyny odmowy wraz z uzasadnieniem.
+
+§ 3. Do porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 1, przepisy art. 14c § 1 stosuje się odpowiednio.
+
+§ 4. Do porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 2, przepisy art. 83, art. 85–88, art. 90 ust. 1 i 3, art. 92, art. 95 ust. 1–6 i 8, art. 96, art. 98–100, art. 105 ust. 1 i 3, art. 106 ust. 1 i 3 oraz art. 107 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych stosuje się odpowiednio, przy czym:
+
+- **1)** opłaty, o których mowa w art. 98 i art. 99 tej ustawy, pobiera się po zawarciu porozumienia w wysokości 50% kwot, o których mowa w art. 98 i art. 99 tej ustawy;
+- **2)** obowiązek przedstawienia dokumentów lub informacji, o których mowa w art. 90 ust. 1 oraz art. 107 tej ustawy, nie dotyczy dokumentów lub informacji przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach umowy o współdziałanie lub audytu podatkowego.
+
+§ 5. Do porozumienia podatkowego, o którym mowa w art. 20zb pkt 3, przepisy art. 119x § 1, art. 119y § 1, art. 119za pkt 1 i 2 oraz art. 119zc stosuje się odpowiednio, przy czym:
+
+- **1)** obowiązek przedstawienia dokumentów i informacji, o których mowa w art. 119x § 1, nie dotyczy dokumentów przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach umowy o współdziałanie lub audytu podatkowego;
+- **2)** opłatę, o której mowa w art. 119zc, pobiera się po zawarciu porozumienia w wysokości 50% kwoty, o której mowa w art. 119zc § 1.
+
+**Art. 20zd.** Przed zawarciem porozumienia podatkowego Szef Krajowej Administracji Skarbowej może zasięgnąć opinii:
+
+- **1)** Dyrektora Krajowej Informacji Skarbowej lub naczelnika urzędu skarbowego właściwego dla podatnika będącego stroną umowy o współdziałanie – w przypadku porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 1;
+- **2)** Rady do Spraw Przeciwdziałania Unikaniu Opodatkowania – w przypadku porozumienia podatkowego, o którym mowa w art. 20zb pkt 3, przy czym przepis art. 119h § 3 stosuje się odpowiednio.
+
+**Art. 20ze.**
+
+§ 1. Podatnik może w każdym czasie wypowiedzieć porozumienie podatkowe.
+
+§ 2. Szef Krajowej Administracji Skarbowej może wypowiedzieć porozumienie podatkowe, jeżeli:
+
+- **1)** wyjdą na jaw istotne dla sprawy, w jakiej zawarto porozumienie, nowe okoliczności faktyczne lub nowe dowody, istniejące w dniu zawarcia tego porozumienia, nieznane Szefowi Krajowej Administracji Skarbowej, lub
+- **2)** stwierdzi, że porozumienie jest nieprawidłowe w świetle w szczególności orzecznictwa Trybunału Konstytucyjnego, Trybunału Sprawiedliwości Unii Europejskiej, uchwał Naczelnego Sądu Administracyjnego lub interpretacji ogólnych, lub
+- **3)** zostanie rozwiązana umowa o współdziałanie.
+
+§ 3. Z zastrzeżeniem art. 20z, rozwiązanie porozumienia podatkowego następuje z dniem złożenia, w formie pisemnej, drugiej stronie wypowiedzenia tego porozumienia wraz z uzasadnieniem. Podatnik w wypowiedzeniu porozumienia może wskazać inny niż wynikający ze zdania pierwszego termin rozwiązania porozumienia, poprzedzający dzień złożenia tego wypowiedzenia.
+
+§ 4. Rozwiązanie porozumienia podatkowego na podstawie § 2 pkt 1 wywołuje skutki prawne od dnia jego zawarcia.
+
+§ 5. Zastosowanie się do porozumienia rozwiązanego na podstawie § 1 oraz § 2 pkt 2 i 3 nie może szkodzić podatnikowi. Przepisy art. 14k oraz art. 14m § 1–3 stosuje się odpowiednio.
+
+**Art. 20zf.** W zakresie nieuregulowanym w niniejszym rozdziale do porozumień podatkowych przepisy działu IV rozdziału 11 stosuje się odpowiednio.
+
 #### Rozdział 3 Audyt podatkowy
 
+**Art. 20zg.** Audyt podatkowy przeprowadza Szef Krajowej Administracji Skarbowej wobec podatnika przed zawarciem umowy o współdziałanie (audyt wstępny) oraz w trakcie obowiązywania umowy o współdziałanie (audyt monitorujący) w celu sprawdzenia:
+
+- **1)** prawidłowości wypełniania obowiązków podatkowych;
+- **2)** skuteczności i adekwatności ram wewnętrznego nadzoru podatkowego.
+
+**Art. 20zh.**
+
+§ 1. Podatnik jest obowiązany do przekazywania na wniosek Szefa Krajowej Administracji Skarbowej dokumentów i informacji niezbędnych do przeprowadzenia audytu podatkowego.
+
+§ 2. Dokumenty i informacje uznane przez Szefa Krajowej Administracji Skarbowej za zawierające tajemnicę przedsiębiorstwa są niszczone w terminie 2 miesięcy od dnia:
+
+- **1)** rozwiązania umowy o współdziałanie;
+- **2)** zakończenia audytu wstępnego, jeżeli audyt wstępny został zakończony opinią – w przypadku niezawarcia umowy o współdziałanie;
+- **3)** zakończenia weryfikacji zastosowania się przez podatnika do wydanych zaleceń, o których mowa w art. 20zi § 1 pkt 2 – w przypadku niezawarcia umowy o współdziałanie.
+
+**Art. 20zi.**
+
+§ 1. Z przeprowadzonego audytu podatkowego Szef Krajowej Administracji Skarbowej sporządza:
+
+- **1)** opinię pozytywną albo
+- **2)** zalecenia wskazujące, jakie czynności podatnik powinien podjąć w celu usunięcia stwierdzonych w ramach tego audytu nieprawidłowości, wraz z uzasadnieniem, albo
+- **3)** opinię negatywną.
+
+§ 2. Audyt monitorujący jest wykonywany w sposób ciągły.
+
+§ 3. Opinia oraz zalecenia są przekazywane niezwłocznie podatnikowi.
+
+§ 4. Termin realizacji czynności podejmowanych w związku z przekazanymi zaleceniami podatnik uzgadnia z Szefem Krajowej Administracji Skarbowej.
+
+§ 5. W przypadku zastosowania się przez podatnika do zaleceń audytu wstępnego audyt ten może być wznowiony na okres niezbędny do weryfikacji zastosowania się podatnika do tych zaleceń.
+
+**Art. 20zj.**
+
+§ 1. O przeprowadzeniu audytu wstępnego i jego zakresie decyduje Szef Krajowej Administracji Skarbowej, biorąc pod uwagę ocenę ryzyka podatkowego zidentyfikowanego u podatnika wnioskującego o zawarcie umowy o współdziałanie.
+
+§ 2. Podatnik jest informowany o zakresie audytu wstępnego.
+
+§ 3. Harmonogram działań podejmowanych w ramach audytu wstępnego Szef Krajowej Administracji Skarbowej uzgadnia z podatnikiem.
+
+§ 4. Audyt wstępny w zakresie poprawności wypełniania obowiązków podatkowych obejmuje 2 lata podatkowe poprzedzające rok, w którym podatnik wystąpił z wnioskiem o podpisanie umowy o współdziałanie, oraz okres od początku roku podatkowego, w którym podatnik wystąpił z wnioskiem, do dnia zakończenia tego audytu.
+
+§ 5. Audyt wstępny w zakresie poprawności wypełniania obowiązków podatkowych przez następcę prawnego podatnika, który zawarł umowę o współdziałanie, może objąć krótszy okres niż określony w § 4.
+
+**Art. 20zk.** Audyt podatkowy w zakresie prawidłowości wypełniania obowiązków podatkowych obejmuje analizę ryzyka i badanie dokumentacji dotyczącej zidentyfikowanych u podatnika obszarów ryzyka podatkowego.
+
+**Art. 20zl.** Audyt podatkowy w zakresie ram wewnętrznego nadzoru podatkowego obejmuje ocenę możliwości prawidłowego wykonywania obowiązków podatkowych poprzez weryfikację poziomu wdrożenia i funkcjonowania:
+
+- **1)** systemu zarządzania ryzykiem,
+- **2)** kontroli wewnętrznej,
+- **3)** audytu wewnętrznego,
+- **4)** nadzoru nad zgodnością działalności z przepisami prawa, regulacjami wewnętrznymi i dobrowolnie przyjętymi standardami,
+- **5)** mechanizmów nadzoru zewnętrznego, w tym niezależnego audytu funkcji podatkowej – w odniesieniu do spraw podatkowych.
+
+**Art. 20zm.**
+
+§ 1. W przypadku złożenia prawnie skutecznej deklaracji lub korekty deklaracji:
+
+- **1)** w terminie 14 dni od dnia otrzymania zaleceń audytu wstępnego i w celu usunięcia stwierdzonych w nim nieprawidłowości w zakresie realizacji obowiązków podatkowych i wpłacenia związanej z tą korektą zaległości podatkowej w terminie 7 dni od daty złożenia tej deklaracji albo korekty deklaracji – przepis art. 56a § 1 stosuje się odpowiednio;
+- **2)** za okres rozliczeniowy objęty audytem monitorującym oraz pod warunkiem wpłacenia zaległości podatkowych w terminie 7 dni od dnia złożenia tej deklaracji albo korekty deklaracji – nie nalicza się odsetek za zwłokę.
+
+§ 2. Przepis § 1 pkt 1 stosuje się do deklaracji oraz korekt deklaracji złożonych za okresy nieobjęte audytem wstępnym, jeżeli złożone zostały w celu usunięcia nieprawidłowości stwierdzonych w wyniku tego audytu.
+
+§ 3. W przypadku, o którym mowa w § 1 pkt 2, nie wszczyna się postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe.
+
+**Art. 20zn.**
+
+§ 1. Czynności w zakresie audytu podatkowego wykonują pracownicy zatrudnieni w wyodrębnionej w tym celu komórce organizacyjnej urzędu obsługującego Szefa Krajowej Administracji Skarbowej, działający z jego upoważnienia.
+
+§ 2. Czynności w zakresie audytu podatkowego mogą być wykonywane z upoważnienia Szefa Krajowej Administracji Skarbowej przez pracowników i funkcjonariuszy jednostek Krajowej Administracji Skarbowej.
+
+§ 3. Pracownicy i funkcjonariusze wykonujący czynności w zakresie audytu podatkowego nie mogą uczestniczyć w przeprowadzaniu kontroli podatkowej, kontroli celno-skarbowej oraz w postępowaniu podatkowym wobec podatnika objętego tym audytem przez okres 3 lat od dnia jego zakończenia.
+
+**Art. 20zo.**
+
+§ 1. Niezależny audyt funkcji podatkowej jest przeprowadzany na zlecenie podatnika przez niezależnego audytora podatkowego.
+
+§ 2. Niezależnym audytorem podatkowym może być spółka doradztwa podatkowego, firma audytorska, doradca podatkowy lub biegły rewident, z wyjątkiem podmiotu:
+
+- **1)** wykonującego na rzecz podatnika czynności rewizji finansowej, usługi doradztwa podatkowego lub prawnego,
+- **2)** będącego krajowym podmiotem powiązanym lub zagranicznym podmiotem powiązanym w rozumieniu ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych wobec:
+    - **a)** podatnika,
+    - **b)** podmiotu wykonującego usługi doradztwa podatkowego lub czynności rewizji finansowej na rzecz tego podatnika,
+
+- **3)** wykonującego usługi, o których mowa w pkt 2 lit. b, na rzecz podmiotu, który świadczy na rzecz podatnika takie usługi – w okresie objętym tym audytem podatkowym oraz w trakcie jego przeprowadzania.
+
+**Art. 20zp.**
+
+§ 1. Niezależny audyt funkcji podatkowej obejmuje sprawdzenie prawidłowości wykonywania obowiązków podatkowych oraz skuteczności i adekwatności wdrożonych ram wewnętrznego nadzoru podatkowego.
+
+§ 2. Z przeprowadzenia niezależnego audytu funkcji podatkowej sporządza się raport zawierający wynik niezależnego audytu funkcji podatkowej. Raport podpisuje niezależny audytor podatkowy przeprowadzający ten audyt.
+
+§ 3. Raport z niezależnego audytu funkcji podatkowej jest przekazywany niezwłocznie podatnikowi wraz z dokumentacją audytu zawierającą testy i procedury przeprowadzone w jego trakcie.
+
+**Art. 20zq.** W zakresie nieuregulowanym w niniejszym rozdziale przepisy działu IV rozdziału 11 stosuje się odpowiednio.
+
 #### Rozdział 4 Przepisy wspólne
+
+**Art. 20zr.** W zakresie nieuregulowanym w niniejszym dziale przepisy art. 168, art. 172, art. 173 i art. 175–177 oraz działu IV rozdziału 1 z wyłączeniem art. 127, rozdziałów 5 i 10 stosuje się odpowiednio.”;
+
+- **6)** w art. 58a dodaje się § 5 w brzmieniu: „§ 5. Na ocenę, że podatnik działał w dobrej wierze, może wskazywać również wywiązywanie się z obowiązków wynikających z umowy o współdziałanie, jeżeli zdarzenie lub czynność skutkujące zastosowaniem przepisów, o których mowa w § 1 pkt 1–3, wystąpiły w okresie trwania tej umowy.”;
+- **7)** art. 70d otrzymuje brzmienie: „Art. 70d. Upływ terminu przedawnienia pozostaje bez wpływu na wprowadzenie w życie rozstrzygnięcia zapadłego w ramach procedury rozstrzygania sporów dotyczących podwójnego opodatkowania w przypadkach, o których mowa w:
+- **1)** dziale II rozdziale 2 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych lub
+- **2)** umowie o unikaniu podwójnego opodatkowania lub innej ratyfikowanej umowie międzynarodowej, której stroną jest Rzeczpospolita Polska, jeżeli umowa ta przewiduje możliwość wprowadzenia w życie rozstrzygnięcia bez względu na upływ terminu przedawnienia.”;
+- **8)** w art. 79 § 4 otrzymuje brzmienie: „§ 4. Wniosek o stwierdzenie nadpłaty można złożyć po upływie terminu przedawnienia, jeżeli istnienie nadpłaty wynika z wprowadzenia w życie rozstrzygnięcia zapadłego w ramach procedury rozstrzygania sporów dotyczących podwójnego opodatkowania w przypadkach, o których mowa w:
+- **1)** dziale II rozdziale 2 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych lub
+- **2)** umowie o unikaniu podwójnego opodatkowania lub innej ratyfikowanej umowie międzynarodowej, której stroną jest Rzeczpospolita Polska, jeżeli umowa ta przewiduje możliwość wprowadzenia w życie rozstrzygnięcia po upływie terminu przedawnienia – przy czym przepis § 3 stosuje się odpowiednio.”;
+- **9)** w art. 86a § 5 otrzymuje brzmienie: „§ 5. Obowiązek przekazania informacji o schemacie podatkowym nie powstaje, gdy schemat podatkowy, inny niż schemat podatkowy transgraniczny, dotyczy wyłącznie:
+- **1)** korzystającego, dla którego nie jest spełnione kryterium kwalifikowanego korzystającego, lub
+- **2)** korzystającego, który jest stroną umowy o współdziałanie, jeżeli w ramach audytu wstępnego Szef Krajowej Administracji Skarbowej potwierdził wykonywanie przez niego obowiązków, o których mowa w niniejszym rozdziale.”;
+- **10)** w art. 86e § 3 otrzymuje brzmienie: „§ 3. Z obowiązku przekazania informacji o schemacie podatkowym nie zwalnia trwające postępowanie w przedmiocie wydania uprzedniego porozumienia cenowego, o którym mowa w ustawie z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych, lub wydanie takiego porozumienia.”;
+- **11)** w art. 119b w § 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) do podmiotu, który zawarł porozumienie podatkowe, o którym mowa w art. 20zb pkt 3, w zakresie objętym tym porozumieniem.”;
+- **12)** w art. 119x dodaje się § 5 w brzmieniu: „§ 5. Ze spotkania uzgodnieniowego sporządza się protokół. Przebieg spotkania uzgodnieniowego może być ponadto utrwalony za pomocą aparatury rejestrującej obraz i dźwięk lub na informatycznych nośnikach danych.”;
+- **13)** w art. 119zf skreśla się wyrazy „art. 20g § 3,”;
+- **14)** art. 119zfn otrzymuje brzmienie: „Art. 119zfn. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14b § 4, art. 14i § 2, art. 14r § 2 i 3, art. 119gc, art. 119h § 3, art. 119i, art. 119m § 1, art. 119s § 2, art. 119u i art. 119x § 5 oraz działu IV, z wyłączeniem art. 133, a także przepisy art. 45, art. 46, art. 49 i art. 51 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.”;
+- **15)** w art. 201 w § 1b pkt 2 otrzymuje brzmienie: „2) jeżeli wszczęta została procedura wzajemnego porozumiewania się, w tym procedura arbitrażowa prowadzona na podstawie ratyfikowanej umowy o unikaniu podwójnego opodatkowania lub innej ratyfikowanej umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub przyjęto wniosek w ramach procedury prowadzonej na podstawie przepisów działu II rozdziału 2 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych.”;
+- **16)** w art. 240 w § 1 pkt 10 otrzymuje brzmienie: „10) rozstrzygnięcie zapadłe w toku procedury rozstrzygania sporów dotyczących podwójnego opodatkowania w rozumieniu art. 2 pkt 6 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych ma wpływ na treść wydanej decyzji;”;
+- **17)** w art. 245 w § 1 w pkt 3 w lit. b po wyrazach „art. 118” dodaje się wyrazy „ , z zastrzeżeniem art. 70d”;
+- **18)** w art. 281:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Organy podatkowe pierwszej instancji przeprowadzają kontrolę podatkową u podatników, płatników, inkasentów oraz następców prawnych, zwanych dalej „kontrolowanymi”.”,
+    - **b)** uchyla się § 3;
+
+- **19)** w art. 293 w § 2:
+    - **a)** pkt 6 otrzymuje brzmienie: „6) informacjach uzyskanych w toku procedur rozstrzygania sporów dotyczących podwójnego opodatkowania oraz w toku postępowania w sprawie wydania uprzednich porozumień cenowych, o których mowa w ustawie z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych;”,
+    - **b)** w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „12) informacjach przekazanych przez podatnika w ramach realizacji współdziałania, o którym mowa w dziale IIB.”;
+
+- **20)** w art. 294 w § 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) członkowie komisji doradczej i komisji do spraw pozasądowego rozstrzygania sporów oraz osoby, których dotyczy spór, ich przedstawiciele i pełnomocnicy, o których mowa w ustawie z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych.”;
+- **21)** art. 295a otrzymuje brzmienie: „Art. 295a. § 1. W toku postępowania w sprawie wydania uprzedniego porozumienia cenowego, o którym mowa w dziale III ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych, dostęp do informacji przekazanych przez przedsiębiorców w tym postępowaniu przysługuje pracownikowi załatwiającemu sprawę, jego przełożonemu oraz Szefowi Krajowej Administracji Skarbowej.
+
+§ 2. Za zgodą podatnika dostęp do informacji i dokumentów przekazanych w toku postępowania w sprawie wydania uprzedniego porozumienia cenowego, o którym mowa w dziale III ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych, przysługuje pracownikom upoważnionym przez Szefa Krajowej Administracji Skarbowej do wykonywania zadań w zakresie współdziałania, o którym mowa w dziale IIB, oraz ich przełożonym.”;
+
+- **22)** po art. 295c dodaje się art. 295d w brzmieniu: „Art. 295d. § 1. Dostęp do informacji przekazanych przez podatnika w ramach realizacji współdziałania, o którym mowa w dziale IIB, zawierających tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2019 r. poz. 1010 i 1649), przysługuje Szefowi Krajowej Administracji Skarbowej oraz pracownikom i funkcjonariuszom Krajowej Administracji Skarbowej upoważnionym przez Szefa Krajowej Administracji Skarbowej do realizacji zadań związanych z przeprowadzaniem audytu podatkowego i ich przełożonym oraz organom podatkowym, które wydają opinie przed zawarciem porozumienia podatkowego, o którym mowa w art. 20zb.
+
+§ 2. Przepisu § 1 nie stosuje się, jeżeli przedsiębiorca nie wykazał, że przekazane przez niego Szefowi Krajowej Administracji Skarbowej informacje i ich zakres stanowią tajemnicę przedsiębiorstwa. W tym przypadku organ podatkowy wydaje postanowienie o odmowie uznania tych informacji, w podanym przez przedsiębiorcę zakresie za stanowiące tajemnicę przedsiębiorstwa.”;
+
+- **23)** w art. 296 w § 1:
+    - **a)** pkt 3 otrzymuje brzmienie: „3) uzyskane w postępowaniu w sprawie wydania uprzedniego porozumienia cenowego, o którym mowa w dziale III ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych,”,
+    - **b)** dodaje się pkt 4 w brzmieniu: „4) przekazane przez podatnika w ramach realizacji współdziałania, o którym mowa w dziale IIB, zawierające tajemnicę przedsiębiorstwa”;
+
+- **24)** art. 297b otrzymuje brzmienie: „Art. 297b. Akta sprawy dotyczącej wydania uprzedniego porozumienia cenowego, o którym mowa w dziale III ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych, oraz informacje wynikające z tych akt są udostępniane wyłącznie organom wymienionym w art. 297 § 1 pkt 1, 2a–5 i 7 na zasadach określonych w tym przepisie.”;
+- **25)** po art. 297e dodaje się art. 297f w brzmieniu: „Art. 297f. Informacje przekazane przez podatnika w ramach realizacji współdziałania, o którym mowa w dziale IIB, zawierające tajemnicę przedsiębiorstwa uznaną przez Szefa Krajowej Administracji Skarbowej, są udostępniane wyłącznie organom wymienionym w art. 297 § 1 pkt 1, 2a, 3 i 7–9 na zasadach określonych w tym przepisie.”.
 
 **Art. 112.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2019 r. poz. 43, 1495 i 1649) uchyla się art. 21a.
 
@@ -1354,6 +1434,8 @@ Art. 108–120. (pominięte)
 ### DZIAŁ IV Zmiany w przepisach, przepisy przejściowe i przepis końcowy
 
 #### Rozdział 1 Zmiany w przepisach
+
+**Art. 108–120.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i przepis końcowy
 

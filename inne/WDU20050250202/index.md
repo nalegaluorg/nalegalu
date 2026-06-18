@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o recyklingu pojazdów wycofanych z eksploatacji
+# Ustawa z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji
 
 *USTAWA z dnia 20 stycznia 2005 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2005-02-11 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050250202) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/202/text.pdf) |
-
-Art. 54–59. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -562,6 +560,8 @@ Art. 54–59. (pominięte)
 5. W sprawach dotyczących kar pieniężnych, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują wojewódzkiemu inspektorowi ochrony środowiska.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
+
+**Art. 54–59.** (pominięte)
 
 #### Rozdział 10 Przepisy przejściowe i końcowe
 

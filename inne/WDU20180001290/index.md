@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo oświatowe
+# Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy - Prawo oświatowe
 
 *USTAWA z dnia 15 czerwca 2018 r.*
 

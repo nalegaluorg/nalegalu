@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu ustawy o ustanowieniu programu wieloletniego „Program dla Odry – 2006”
+# Ustawa z dnia 28 listopada 2014 r. o uchyleniu ustawy o ustanowieniu programu wieloletniego "Program dla Odry - 2006"
 
 *USTAWA z dnia 28 listopada 2014 r.*
 

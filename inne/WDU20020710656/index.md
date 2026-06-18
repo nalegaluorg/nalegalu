@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie osób i mienia
+# Ustawa z dnia 23 maja 2002 r. o zmianie ustawy o ochronie osób i mienia.
 
 *USTAWA z dnia 23 maja 2002 r.*
 

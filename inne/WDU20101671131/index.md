@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dowodach osobistych
+# Ustawa z dnia 6 sierpnia 2010 r. o dowodach osobistych
 
 *USTAWA z dnia 6 sierpnia 2010 r.*
 
@@ -222,7 +222,9 @@ source: pdf
 
 1. Warstwa elektroniczna dowodu osobistego jest zabezpieczona przed nieuprawnionym odczytem i nieuprawnioną zmianą danych w niej zamieszczonych.
 
-2. Dane posiadacza dowodu osobistego zapisane w warstwie elektronicznej dowodu osobistego są zabezpieczone w sposób umożliwiający stwierdzenie, że zostały zamieszczone przez uprawniony do tego organ. Art. 12ca. Uprawnione do korzystania z dostępu do danych biometrycznych zamieszczonych w warstwie elektronicznej dowodu osobistego w zakresie odcisków palców na potrzeby weryfikacji autentyczności dowodu osobistego lub tożsamości jego posiadacza są podmioty, o których mowa w art. 66 ust. 3 pkt 1–11.
+2. Dane posiadacza dowodu osobistego zapisane w warstwie elektronicznej dowodu osobistego są zabezpieczone w sposób umożliwiający stwierdzenie, że zostały zamieszczone przez uprawniony do tego organ.
+
+**Art. 12ca.** Uprawnione do korzystania z dostępu do danych biometrycznych zamieszczonych w warstwie elektronicznej dowodu osobistego w zakresie odcisków palców na potrzeby weryfikacji autentyczności dowodu osobistego lub tożsamości jego posiadacza są podmioty, o których mowa w art. 66 ust. 3 pkt 1–11.
 
 **Art. 12d.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o służbie medycyny pracy
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 stycznia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o służbie medycyny pracy
 
 *USTAWA z dnia 27 czerwca 1997 r.*
 

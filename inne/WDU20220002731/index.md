@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji
+# Ustawa z dnia 15 grudnia 2022 r. o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji
 
 *USTAWA z dnia 15 grudnia 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-12-22 |
 | Ostatnia zmiana | 2026-02-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002731) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2731/text.pdf) |
-
-Art. 21–22. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -249,6 +247,8 @@ Art. 21–22. (pominięte)
 3. Dochód z działalności gospodarczej, o której mowa w ust. 1, służy wyłącznie realizacji zadań Instytutu określonych w art. 3.
 
 #### Rozdział 4 Zmiany w przepisach
+
+**Art. 21–22.** (pominięte)
 
 #### Rozdział 5 Przepisy przejściowe i dostosowujące oraz przepis końcowy
 

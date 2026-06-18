@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o postępowaniu przed sądami administracyjnymi
+# Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi
 
 *USTAWA z dnia 9 listopada 2018 r.*
 

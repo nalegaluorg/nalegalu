@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych
+# Ustawa z dnia 21 stycznia 2000 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 *USTAWA z dnia 21 stycznia 2000 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw
+# Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 listopada 2018 r.*
 
@@ -74,7 +74,11 @@ source: pdf
 
 11. Przepisów ust. 1–10 nie stosuje się do odbiorców, o których mowa w art. 6a ust. 3 i art. 6b.
 
-12. W przypadku gdy umowa, o której mowa w ust. 7, przestała obowiązywać lub uległa rozwiązaniu, a operator systemu dystrybucyjnego lub operator systemu przesyłowego gazowego nie otrzymał informacji o zawarciu przez odbiorcę końcowego przyłączonego do jego sieci umowy kompleksowej lub umowy sprzedaży paliw gazowych lub energii elektrycznej z innym sprzedawcą w ramach procedury zmiany sprzedawcy, operator systemu dystrybucyjnego lub operator systemu przesyłowego gazowego zaprzestaje dostarczania paliw gazowych lub energii elektrycznej odbiorcy. Art. 5ab. 1. W przypadku gdy dotychczasowy sprzedawca zaprzestał sprzedaży paliw gazowych lub energii elektrycznej odbiorcy końcowemu a:
+12. W przypadku gdy umowa, o której mowa w ust. 7, przestała obowiązywać lub uległa rozwiązaniu, a operator systemu dystrybucyjnego lub operator systemu przesyłowego gazowego nie otrzymał informacji o zawarciu przez odbiorcę końcowego przyłączonego do jego sieci umowy kompleksowej lub umowy sprzedaży paliw gazowych lub energii elektrycznej z innym sprzedawcą w ramach procedury zmiany sprzedawcy, operator systemu dystrybucyjnego lub operator systemu przesyłowego gazowego zaprzestaje dostarczania paliw gazowych lub energii elektrycznej odbiorcy.
+
+**Art. 5ab.**
+
+1. W przypadku gdy dotychczasowy sprzedawca zaprzestał sprzedaży paliw gazowych lub energii elektrycznej odbiorcy końcowemu a:
 
 - **1)** w umowie o świadczenie usług dystrybucji lub usług przesyłania lub umowie kompleksowej zawartej przez tego odbiorcę końcowego nie został wskazany sprzedawca rezerwowy lub umowa ta nie zawiera upoważnienia operatora systemu dystrybucyjnego lub operatora systemu przesyłowego gazowego do zawarcia w imieniu i na rzecz odbiorcy końcowego umowy sprzedaży rezerwowej lub umowy kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej albo
 - **2)** sprzedawca rezerwowy wskazany przez tego odbiorcę końcowego nie może podjąć, nie podjął lub zaprzestał sprzedaży rezerwowej – operator systemu dystrybucyjnego lub operator systemu przesyłowego gazowego, działając w imieniu i na rzecz tego odbiorcy końcowego, zawiera ze sprzedawcą z urzędu umowę kompleksową.

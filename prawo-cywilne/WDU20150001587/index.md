@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o państwowej kompensacie przysługującej ofiarom niektórych przestępstw, ustawy – Kodeks postępowania cywilnego oraz ustawy o kosztach sądowych w sprawach cywilnych
+# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o państwowej kompensacie przysługującej ofiarom niektórych przestępstw, ustawy - Kodeks postępowania cywilnego oraz ustawy o kosztach sądowych w sprawach cywilnych
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 

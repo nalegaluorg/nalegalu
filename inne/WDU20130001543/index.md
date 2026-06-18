@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o drogach publicznych oraz ustawy o autostradach płatnychoraz o Krajowym Funduszu Drogowym
+# Ustawa z dnia 8 listopada 2013 r. o zmianie ustawy o drogach publicznych oraz ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym
 
 *USTAWA z dnia 8 listopada 2013 r.*
 

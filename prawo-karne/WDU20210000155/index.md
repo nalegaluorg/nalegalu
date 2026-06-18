@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania karnego
+# Ustawa z dnia 16 grudnia 2020 r. o zmianie ustawy - Kodeks postępowania karnego
 
 *USTAWA z dnia 16 grudnia 2020 r.*
 

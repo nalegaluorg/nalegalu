@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym
+# Ustawa z dnia 16 listopada 2022 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym
 
 *USTAWA z dnia 16 listopada 2022 r.*
 

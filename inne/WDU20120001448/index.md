@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 10 października 2012 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 października 2012 r.*
 
@@ -26,93 +26,6 @@ source: pdf
 | Data wydania | 2012-12-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1448/text.pdf) |
-
-Art. 70zn. 1. Spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu, potwierdza się dopuszczeniem jednostkowym pojazdu.
-2. Dopuszczeniu jednostkowemu pojazdu, z zastrzeżeniem ust. 3–6, podlega nowy pojazd:
-1) przed wprowadzeniem do obrotu na terytorium Rzeczypospolitej Polskiej, na którego typ producent lub importer nie uzyskał świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu;
-2) na którego typ zostało wydane świadectwo homologacji typu WE pojazdu albo świadectwo homologacji typu pojazdu, w którym przed rejestracją zostały wprowadzone zmiany w pojeździe, przedmiocie wyposażenia lub części, wpływające na zmianę warunków stanowiących podstawę do wydania świadectwa homologacji typu tego pojazdu.
-3. Nowy pojazd zaprojektowany i zbudowany do użytku przede wszystkim na placach budowy, w kamieniołomach, w obiektach portowych lub w portach lotniczych, pojazd wolnobieżny, pojazd kategorii M przeznaczony do zawodów sportowych nie podlega obowiązkowi uzyskania dopuszczenia jednostkowego pojazdu.
-Producent takiego pojazdu może wystąpić o dopuszczenie fakultatywne poprzez uzyskanie dopuszczenia jednostkowego pojazdu, jeżeli pojazd spełnia odpowiednie warunki lub wymagania techniczne obowiązujące w procedurze dopuszczenia jednostkowego pojazdu, określone w przepisach wydanych na podstawie art. 70zs ust. 1 pkt 1. Przepisu nie stosuje się do pojazdów, o których mowa w załączniku nr 2 do ustawy.
-4. Nowy pojazd specjalny Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Biura Ochrony Rządu, Straży Granicznej, organów kontroli skarbowej, Służby Celnej, Inspekcji Transportu Drogowego, Służby Więziennej i jednostek ochrony przeciwpożarowej lub nowy pojazd używany do celów specjalnych nie podlega obowiązkowi uzyskania dopuszczenia jednostkowego pojazdu. Producent takiego pojazdu może wystąpić o uzyskanie dopuszczenia jednostkowego pojazdu, jeżeli pojazd spełnia odpowiednie warunki lub wymagania techniczne obowiązujące w procedurze dopuszczenia jednostkowego pojazdu, określone w przepisach wydanych na podstawie art. 70zs ust. 1 pkt
-1.
-5. Dopuszczenia jednostkowego pojazdu nie stosuje się do tramwaju i trolejbusu.
-6. W przypadku pojazdu kategorii M, N, O podlegającego dopuszczeniu jednostkowemu, minister właściwy do spraw transportu w uzasadnionych przypadkach zwalnia, w drodze decyzji administracyjnej, wnioskującego o dopuszczenie jednostkowe z obowiązku spełnienia niektórych wymagań technicznych, o których mowa w załączniku IV i XI do dyrektywy 2007/46/WE, pod warunkiem zastosowania wymagań alternatywnych równoważnych z wymaganiami określonymi w tych załącznikach w najwyższym możliwym do realizacji zakresie bezpieczeństwa ruchu drogowego i ochrony środowiska.
-Art. 70zo. 1. Dopuszczenia jednostkowego pojazdu udziela, w drodze decyzji administracyjnej, minister właściwy do spraw transportu, za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
-2. Dopuszczenia jednostkowego pojazdu udziela się na wniosek producenta, importera, właściciela pojazdu albo ich upoważnionego przedstawiciela, posiadającego siedzibę lub miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej.
-3. Do wniosku, o którym mowa w ust. 2, dołącza się:
-1) dokument informacyjny sporządzony według wzoru określonego w przepisach wydanych na podstawie art. 70zs ust. 1 pkt 1;
-2) sprawozdanie z badań potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia jednostkowego pojazdu;
-3) kopię dowodu uiszczenia opłaty za dopuszczenie jednostkowe pojazdu.
-Art. 70zp. 1. Dopuszczenie jednostkowe pojazdu udzielone na dany pojazd przez właściwy organ państwa członkowskiego Unii Europejskiej zgodnie z procedurą uznaje minister właściwy do spraw transportu, w drodze decyzji administracyjnej, jeżeli dany pojazd spełnia odpowiednie warunki lub wymagania techniczne, które są równoważne warunkom lub wymaganiom obowiązującym na terytorium Rzeczypospolitej Polskiej.
-2. Wydanie decyzji, o której mowa w ust. 1, następuje na wniosek producenta, importera lub właściciela pojazdu, za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
-3. Do wniosku, o którym mowa w ust. 2, dołącza się:
-1) dokument potwierdzający dopuszczenie jednostkowe pojazdu wydane przez właściwy organ państwa członkowskiego Unii Europejskiej;
-2) dokument wydany przez właściwy organ państwa członkowskiego Unii Europejskiej wskazujący przepisy techniczne, na podstawie których udzielono dopuszczenia jednostkowego pojazdu.
-4. Minister właściwy do spraw transportu może zwrócić się o dodatkowe informacje o udzielonym dopuszczeniu jednostkowym pojazdu do właściwego organu państwa członkowskiego Unii Europejskiej.
-5. Minister właściwy do spraw transportu, na wniosek właściwego organu państwa członkowskiego Unii Europejskiej, udostępnia temu organowi informacje o udzielonym dopuszczeniu jednostkowym pojazdu.
-6. W przypadku gdy pojazd, który uzyskał dopuszczenie jednostkowe pojazdu, ma być sprzedany, zarejestrowany lub dopuszczony do ruchu na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, minister właściwy do spraw transportu, na wniosek producenta lub właściciela pojazdu, wydaje dokument wskazujący przepisy techniczne, na podstawie których udzielono dopuszczenia jednostkowego pojazdu.
-Art. 70zq. 1. Badanie potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych oraz równoważności zastosowanych wymagań alternatywnych dla danego pojazdu w celu dopuszczenia jednostkowego pojazdu przeprowadza jednostka uprawniona, na wniosek producenta, importera lub właściciela pojazdu.
-2. Do wniosku, o którym mowa w ust. 1, dołącza się:
-1) dokument informacyjny pojazdu według wymagań określonych w przepisach wydanych na podstawie art. 70zs ust. 1 pkt 1;
-2) kopie świadectw homologacji typu lub inne dokumenty potwierdzające spełnienie odpowiednich wymagań technicznych określonych w przepisach Unii Europejskiej lub regulaminach EKG ONZ.
-3. Z przeprowadzonego badania jednostka sporządza sprawozdanie z badań potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia jednostkowego pojazdu.
-Art. 70zr. Opłaty, o których mowa w art. 70zo ust. 1 oraz art. 70zp ust. 2, stanowią dochód budżetu państwa.
-Art. 70zs. 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
-1) zakres warunków lub wymagań technicznych obowiązujących w procedurze dopuszczenia jednostkowego pojazdu, zakres i sposób przeprowadzania badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia jednostkowego pojazdu oraz wzory dokumentów z tym związanych;
-2) warunki oceny równoważności wymagań alternatywnych w procedurze dopuszczenia jednostkowego pojazdu;
-3) wysokość opłat za udzielenie dopuszczenia jednostkowego pojazdu oraz wydanie decyzji o uznaniu dopuszczenia jednostkowego pojazdu, wydanego na dany pojazd przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej.
-2. Wydając rozporządzenie, o którym mowa w ust. 1, minister uwzględnia:
-1) konieczność zapewnienia bezpieczeństwa w ruchu drogowym i ochrony środowiska;
-2) koszty czynności administracyjnych oraz koszty związane z udzieleniem dopuszczenia jednostkowego pojazdu.
-Art. 70zt. 1. Spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu określonych w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE, potwierdza się świadectwem dopuszczenia indywidualnego WE pojazdu.
-2. Dopuszczeniu indywidualnemu WE pojazdu podlega nowy pojazd kategorii M i N , o którym mowa w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE, przed wprowadzeniem do obrotu na terytorium Rzeczypospolitej Polskiej, na którego typ producent lub importer nie uzyskał świadectwa homologacji typu WE pojazdu.
-Art. 70zu. 1. Świadectwo dopuszczenia indywidualnego WE pojazdu wydaje, w drodze decyzji administracyjnej, minister właściwy do spraw transportu, za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
-2. Świadectwo dopuszczenia indywidualnego WE pojazdu wydaje się na wniosek producenta, importera albo właściciela pojazdu.
-3. Do wniosku, o którym mowa w ust. 2, dołącza się:
-1) dokumenty, o których mowa w pkt 1 dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE;
-2) kopię dowodu uiszczenia opłaty za dopuszczenie indywidualne WE pojazdu;
-3) oświadczenie o następującej treści: „Oświadczam, że w zakresie pojazdu o numerze VIN …, złożyłem tylko jeden wniosek i tylko w jednym państwie członkowskim Unii Europejskiej”.
-Art. 70zv. 1. Badanie potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu uzyskania świadectwa dopuszczenia indywidualnego WE pojazdu przeprowadza jednostka uprawniona, na wniosek producenta, importera albo właściciela pojazdu.
-2. Do wniosku, o którym mowa w ust. 1, dołącza się:
-1) dokument informacyjny pojazdu sporządzony zgodnie z załącznikiem I do dyrektywy 2007/46/WE;
-2) kopie świadectw homologacji typu lub inne dokumenty potwierdzające spełnienie odpowiednich wymagań technicznych określonych w pkt 4 w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE.
-3. Z przeprowadzonego badania jednostka sporządza sprawozdanie z badań potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia indywidualnego WE pojazdu.
-Art. 70zw. Opłata, o której mowa w art. 70zu ust. 1, stanowi dochód budżetu państwa.
-Art. 70zx. 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
-1) wzory dokumentów związanych z wydaniem świadectwa dopuszczenia indywidualnego WE pojazdu;
-2) wysokość opłat za wydanie świadectwa dopuszczenia indywidualnego WE pojazdu.
-2. Wydając rozporządzenie, o którym mowa w ust. 1, minister uwzględnia:
-1) potrzebę zapewnienia zabezpieczenia dokumentów przez podrobieniem lub przerobieniem;
-2) koszty czynności administracyjnych oraz koszty związane z wydaniem świadectwa dopuszczenia indywidualnego WE pojazdu.
-Art. 70zy. Maksymalne stawki opłat, o których mowa w art. 70h ust. 2, art. 70j ust. 4, art. 70k ust. 4, art. 70za ust. 1, art. 70ze ust. 2, art. 70zo ust. 1, art. 70zp ust. 2 i art. 70zu ust. 1 ulegają corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych ogółem, ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
-Art. 70zz. Przepisów rozdziałów 1a–1c nie stosuje się do:
-1) pojazdów zabytkowych lub pojazdu określonego w art. 79 ust. 4 pkt 3;
-2) nowego pojazdu oraz nowego przedmiotu wyposażenia lub części, nie przeznaczonych do wprowadzenia do obrotu, a krótkotrwale składowanych na terytorium Rzeczypospolitej Polskiej między operacjami transportowymi – pod warunkiem okazania na żądanie właściwego organu kontroli dokumentów potwierdzających odbiorcę i miejsce docelowego odbioru nowego pojazdu oraz nowego przedmiotu wyposażenia lub części.”;
-8) w art. 71 ust. 6 otrzymuje brzmienie: „6. Pojazd sprowadzony z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej, po dokonaniu zwolnienia pojazdu przez organ Służby Celnej do procedury dopuszczenia do obrotu, dopuszcza się do ruchu na okres 30 dni.”;
-9) w art. 72:
-a) w ust. 1 pkt 3 i 4 otrzymują brzmienie: „3) świadectwa zgodności WE albo świadectwa zgodności wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, dopuszczenia jednostkowego pojazdu, decyzji o uznaniu dopuszczenia jednostkowego pojazdu albo świadectwa dopuszczenia indywidualnego WE pojazdu – jeżeli są wymagane;
-4) zaświadczenia o pozytywnym wyniku badania technicznego pojazdu, jeżeli jest wymagane albo dowodu rejestracyjnego pojazdu lub innego dokumentu wydanego przez właściwy organ państwa członkowskiego, potwierdzającego wykonanie oraz termin ważności badania technicznego;”,
-b) ust. 2a otrzymuje brzmienie: „2a. W przypadku pojazdu sprowadzanego z terytorium państwa niebędącego państwem członkowskim zamiast dowodu rejestracyjnego, o którym mowa w ust. 1 pkt 5, dopuszcza się przedstawienie innego dokumentu stwierdzającego rejestrację pojazdu, wydanego przez organ właściwy do rejestracji pojazdów w tym państwie.”,
-c) po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Świadectwo zgodności WE lub świadectwo zgodności traci ważność po upływie terminu określonego w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 10 i nie może być uznane za dokument, o którym mowa w ust. 1 pkt 3.”;
-10) w art. 74 w ust. 2 pkt 3 otrzymuje brzmienie: „3) na wniosek jednostki uprawnionej lub jednostki badawczej producenta pojazdu, przedmiotu wyposażenia lub części – w celu umożliwienia odpowiednich badań;”;
-11) w art. 79 w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje pkt 7 w brzmieniu: „7) wycofania pojazdu z obrotu, o którym mowa w art. 70g ust. 5.”;
-12) w art. 81:
-a) ust. 2 otrzymuje brzmienie: „2. Badania techniczne dzieli się na badania okresowe, badania dodatkowe oraz badania co do zgodności z warunkami technicznymi.”,
-b) ust. 4 otrzymuje brzmienie: „4. Badaniu, o którym mowa w ust. 3, nie podlega:
-1) nowy pojazd, dla którego wydano świadectwo zgodności WE, świadectwo zgodności, dopuszczenie jednostkowe pojazdu, decyzję o uznaniu dopuszczenia jednostkowego pojazdu albo świadectwo dopuszczenia indywidualnego WE pojazdu;
-2) zarejestrowany pojazd:
-a) na którego typ wydano świadectwo homologacji typu WE pojazdu – w okresie od dnia pierwszej rejestracji za granicą do dnia terminu okresowego badania technicznego, ustalonego na podstawie ust. 5, lub
-b) w którego dowodzie rejestracyjnym lub innym dokumencie wydanym przez właściwy organ państwa członkowskiego przedstawionym do rejestracji, zawarta jest informacja o wykonanym badaniu technicznym i jego terminie ważności – z wyjątkiem taksówki, pojazdu uprzywilejowanego lub pojazdu odpowiednio przystosowanego lub wyposażonego zgodnie z przepisami o przewozie towarów niebezpiecznych, pojazdu z zamontowanym urządzeniem technicznym podlegającym dozorowi technicznemu oraz pojazdu przystosowanego konstrukcyjnie do ruchu lewostronnego.”,
-c) po ust. 11 dodaje się ust. 11a w brzmieniu: „11a. Badaniu co do zgodności z warunkami technicznymi podlega pojazd zabytkowy przed pierwszą rejestracją na terytorium Rzeczypospolitej Polskiej.”,
-d) dodaje się ust. 16 w brzmieniu: „16. Minister właściwy do spraw transportu, uwzględniając konieczność zapewnienia bezpiecznego korzystania z pojazdów zabytkowych oraz zakres warunków technicznych tych pojazdów podlegających badaniu, określi, w drodze rozporządzenia, zakres i sposób przeprowadzania badań zgodności tych pojazdów z warunkami technicznymi, wzory dokumentów związanych z tymi badaniami.”;
-13) w art. 83 ust. 1 w pkt 2 w lit. b kropkę zastępuje się przecinkiem i dodaje lit. c w brzmieniu: „c) badań co do zgodności z warunkami technicznymi pojazdów zabytkowych.”;
-14) w art. 86:
-a) ust. 1 otrzymuje brzmienie: „1. Do pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Biura Ochrony Rządu, Straży Granicznej i Służby Celnej, których dotyczą warunki i tryb rejestracji określone w art. 73 ust. 3 oraz w art. 76 ust. 4 pkt 1 oraz pojazdów należących do obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej, na podstawie umów międzynarodowych, o których mowa w art. 73 ust.
-2b, a także do pojazdów Państwowej Straży Pożarnej, mają zastosowanie przepisy art. 83 ust. 1, z wyłączeniem wymogu posiadania zezwolenia starosty, o którym mowa w art. 83 ust. 1 pkt 1 lit. b.”,
-b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organizacyjne lub stacje kontroli pojazdów prowadzone przez służby, o których mowa w ust. 1, z wyłączeniem obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej;”;
-15) uchyla się art. 86a;
-16) w art. 129 w ust. 2 w pkt 8 lit. c otrzymuje brzmienie: „c) korzystania z pojazdu zarejestrowanego w kraju niebędącym państwem członkowskim, jeżeli kierujący nim nie okazał dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowodu opłacenia składki za to ubezpieczenie,”;
-17) po dziale Va dodaje się dział Vb w brzmieniu: „Dział Vb Kary pieniężne
 
 **Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137) wprowadza się następujące zmiany:
 
@@ -712,7 +625,11 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 7. W przypadku określenia przez producenta zakresu wymagań technicznych, do sprawdzenia z zastosowaniem wirtualnych metod testowania, jednostka uprawniona przeprowadza procedurę walidacji, o której mowa w załączniku XVI do dyrektywy 2007/46/WE, z której sporządza sprawozdanie. Jednostka uprawniona w porozumieniu z ministrem właściwym do spraw transportu na podstawie sprawozdania potwierdza możliwość zastosowania wirtualnych metod testowania.
 
-8. W sprawozdaniu, o którym mowa w ust. 6, jednostka uprawniona zamieszcza informacje o zastosowanych podczas przeprowadzanych badań homologacyjnych typu WE pojazdu, typu WE przedmiotu wyposażenia lub części wirtualnych metodach testowania. Art. 70za. 1. Wyznaczenia jednostki uprawnionej dokonuje minister właściwy do spraw transportu, w drodze decyzji administracyjnej, na wniosek zainteresowanego podmiotu, po uiszczeniu opłaty, przy czym jej wysokość w zależności od zakresu badań lub kontroli nie może przekroczyć 40 000 zł. W decyzji określa się szczegółowy zakres badań lub kontroli, do których jednostka jest uprawniona.
+8. W sprawozdaniu, o którym mowa w ust. 6, jednostka uprawniona zamieszcza informacje o zastosowanych podczas przeprowadzanych badań homologacyjnych typu WE pojazdu, typu WE przedmiotu wyposażenia lub części wirtualnych metodach testowania.
+
+**Art. 70za.**
+
+1. Wyznaczenia jednostki uprawnionej dokonuje minister właściwy do spraw transportu, w drodze decyzji administracyjnej, na wniosek zainteresowanego podmiotu, po uiszczeniu opłaty, przy czym jej wysokość w zależności od zakresu badań lub kontroli nie może przekroczyć 40 000 zł. W decyzji określa się szczegółowy zakres badań lub kontroli, do których jednostka jest uprawniona.
 
 2. Jednostką uprawnioną może być podmiot, który spełnia następujące warunki:
 
@@ -737,12 +654,20 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 8. W przypadku badań homologacyjnych typu WE i badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu w celu dopuszczenia jednostkowego pojazdu albo dopuszczenia indywidualnego WE pojazdu, jednostka uprawniona może rozpocząć prowadzenie tych badań po dokonaniu przez ministra właściwego do spraw transportu zgłoszenia, o którym mowa w ust. 7.
 
-9. Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, wykaz jednostek uprawnionych do przeprowadzania badań homologacyjnych oraz badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu w celu dopuszczenia jednostkowego pojazdu albo dopuszczenia indywidualnego WE pojazdu. Art. 70zb. 1. Producent pojazdów kategorii M, N, O lub podmiot przez niego upoważniony, spełniający warunki, o których mowa w art. 70za ust. 2 pkt 1–4, w odniesieniu do produkowanych przez tego producenta przedmiotów wyposażenia lub części, w zakresie określonym w załączniku XV do dyrektywy 2007/46/WE, może wystąpić z wnioskiem o wyznaczenie go jako jednostkę uprawnioną. Do wyznaczenia, przepisy art. 70za ust. 1 i 3–9, stosuje się odpowiednio.
+9. Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, wykaz jednostek uprawnionych do przeprowadzania badań homologacyjnych oraz badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu w celu dopuszczenia jednostkowego pojazdu albo dopuszczenia indywidualnego WE pojazdu.
+
+**Art. 70zb.**
+
+1. Producent pojazdów kategorii M, N, O lub podmiot przez niego upoważniony, spełniający warunki, o których mowa w art. 70za ust. 2 pkt 1–4, w odniesieniu do produkowanych przez tego producenta przedmiotów wyposażenia lub części, w zakresie określonym w załączniku XV do dyrektywy 2007/46/WE, może wystąpić z wnioskiem o wyznaczenie go jako jednostkę uprawnioną. Do wyznaczenia, przepisy art. 70za ust. 1 i 3–9, stosuje się odpowiednio.
 
 2. Jednostka uprawniona, o której mowa w ust. 1:
 
 - **1)** przeprowadza badania homologacyjne wyłącznie we własnych obiektach;
-- **2)** nie może przeprowadzać badań homologacyjnych typu przedmiotu wyposażenia lub części na potrzeby uzyskania świadectwa homologacji typu WE pojazdu w odniesieniu do pojazdów produkowanych w małych seriach oraz pojazdów kategorii L, T lub C. Art. 70zc. 1. Nadzór nad jednostką uprawnioną w zakresie przeprowadzanych badań sprawuje minister właściwy do spraw transportu.
+- **2)** nie może przeprowadzać badań homologacyjnych typu przedmiotu wyposażenia lub części na potrzeby uzyskania świadectwa homologacji typu WE pojazdu w odniesieniu do pojazdów produkowanych w małych seriach oraz pojazdów kategorii L, T lub C.
+
+**Art. 70zc.**
+
+1. Nadzór nad jednostką uprawnioną w zakresie przeprowadzanych badań sprawuje minister właściwy do spraw transportu.
 
 2. W ramach sprawowanego nadzoru minister właściwy do spraw transportu:
 
@@ -759,7 +684,9 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 4.
 
-5. Minister właściwy do spraw transportu wzywa jednostkę uprawnioną do usunięcia w terminie 90 dni naruszeń stwierdzonych w wyniku przeprowadzonych kontroli, o których mowa w ust. 2, i zawiesza jej uprawnienie do czasu usunięcia tych naruszeń. Art. 70zd. Minister właściwy do spraw transportu cofa, w drodze decyzji administracyjnej, uprawnienie, o którym mowa w art. 70za ust. 1 lub art. 70zb ust. 1, w przypadku stwierdzenia, że jednostka uprawniona:
+5. Minister właściwy do spraw transportu wzywa jednostkę uprawnioną do usunięcia w terminie 90 dni naruszeń stwierdzonych w wyniku przeprowadzonych kontroli, o których mowa w ust. 2, i zawiesza jej uprawnienie do czasu usunięcia tych naruszeń.
+
+**Art. 70zd.** Minister właściwy do spraw transportu cofa, w drodze decyzji administracyjnej, uprawnienie, o którym mowa w art. 70za ust. 1 lub art. 70zb ust. 1, w przypadku stwierdzenia, że jednostka uprawniona:
 
 - **1)** nie spełnia warunków określonych w: 70za ust. 1,
     - **a)** art. 70za ust. 2 – w przypadku jednostki, o której mowa w art.
@@ -768,7 +695,11 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 - **2)** nie usunęła naruszeń w terminie, o którym mowa w art. 70zc ust. 5;
 - **3)** wielokrotnie przeprowadziła badania niezgodnie z zasadami określonymi w przepisach;
 - **4)** wielokrotnie sporządziła protokół z badania homologacyjnego lub sprawozdanie z tego badania niezgodnie ze stanem faktycznym;
-- **5)** nie zawiadomiła ministra właściwego do spraw transportu o zmianie danych i informacji oraz stanu faktycznego stanowiących podstawę do wydania uprawnienia. Art. 70ze. 1. Producent nowego typu przedmiotu wyposażenia lub części, nieobjętego procedurą homologacji, mogącego stwarzać zagrożenie dla bezpieczeństwa ruchu drogowego lub środowiska zamieszczonego w wykazie części lub wyposażenia określonym w załączniku XIII do dyrektywy 2007/46/WE, jest obowiązany uzyskać dla niego zezwolenie na dopuszczenie do obrotu, z zastrzeżeniem ust. 5.
+- **5)** nie zawiadomiła ministra właściwego do spraw transportu o zmianie danych i informacji oraz stanu faktycznego stanowiących podstawę do wydania uprawnienia.
+
+**Art. 70ze.**
+
+1. Producent nowego typu przedmiotu wyposażenia lub części, nieobjętego procedurą homologacji, mogącego stwarzać zagrożenie dla bezpieczeństwa ruchu drogowego lub środowiska zamieszczonego w wykazie części lub wyposażenia określonym w załączniku XIII do dyrektywy 2007/46/WE, jest obowiązany uzyskać dla niego zezwolenie na dopuszczenie do obrotu, z zastrzeżeniem ust. 5.
 
 2. Zezwolenie na dopuszczenie do obrotu wydaje, w drodze decyzji administracyjnej, za opłatą, minister właściwy do spraw transportu, na wniosek producenta, jeżeli typ przedmiotu wyposażenia lub części odpowiada wymaganiom określonym w przepisach Unii Europejskiej. Wysokość opłaty nie może przekroczyć 160 zł.
 
@@ -790,28 +721,53 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 6. Przedmioty wyposażenia lub części, których wykaz zamieszczono w załączniku XIII do dyrektywy 2007/46/WE, używane do pojazdów przeznaczonych do zawodów sportowych, nie mogą być wprowadzane do obrotu w celu użycia ich w pojazdach przeznaczonych do poruszania się po drogach publicznych, chyba że uzyskają one zezwolenie na dopuszczenie do obrotu, o którym mowa w ust. 1.
 
-7. Zezwolenia na dopuszczenie do obrotu wydane przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, są ważne na terytorium Rzeczypospolitej Polskiej. Art. 70zf. 1. Producent niezwłocznie zawiadamia ministra właściwego do spraw transportu o wszelkich zmianach warunków stanowiących podstawę do wydania zezwolenia na dopuszczenie do obrotu.
+7. Zezwolenia na dopuszczenie do obrotu wydane przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, są ważne na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 70zf.**
+
+1. Producent niezwłocznie zawiadamia ministra właściwego do spraw transportu o wszelkich zmianach warunków stanowiących podstawę do wydania zezwolenia na dopuszczenie do obrotu.
 
 2. Po otrzymaniu zawiadomienia, o którym mowa w ust. 1, minister właściwy do spraw transportu dokonuje oceny zakresu zmian w odniesieniu do uprzednio wydanego zezwolenia na dopuszczenie do obrotu, a następnie niezwłocznie informuje producenta o:
 
 - **1)** konieczności uzyskania zmiany tego zezwolenia po przeprowadzeniu badań albo bez przeprowadzenia badań;
 - **2)** braku potrzeby zmiany danych i informacji zawartych w uprzednio wydanym zezwoleniu.
 
-3. W przypadkach, o których mowa w ust. 2 pkt 1, stosuje się odpowiednio art. 70ze. Art. 70zg. 1. Producent jest obowiązany zapewnić, że przedmiot wyposażenia lub część przeznaczone do wprowadzenia do obrotu będą produkowane zgodnie z warunkami stanowiącymi podstawę do wydania zezwolenia.
+3. W przypadkach, o których mowa w ust. 2 pkt 1, stosuje się odpowiednio art. 70ze.
 
-2. Producent jest obowiązany przedstawić na żądanie właściwego organu kontroli dokumenty potwierdzające przeznaczenie produkowanych przedmiotów wyposażenia i części. Art. 70zh. 1. Minister właściwy do spraw transportu przeprowadza kontrolę zgodności produkcji przedmiotu wyposażenia lub części:
+**Art. 70zg.**
+
+1. Producent jest obowiązany zapewnić, że przedmiot wyposażenia lub część przeznaczone do wprowadzenia do obrotu będą produkowane zgodnie z warunkami stanowiącymi podstawę do wydania zezwolenia.
+
+2. Producent jest obowiązany przedstawić na żądanie właściwego organu kontroli dokumenty potwierdzające przeznaczenie produkowanych przedmiotów wyposażenia i części.
+
+**Art. 70zh.**
+
+1. Minister właściwy do spraw transportu przeprowadza kontrolę zgodności produkcji przedmiotu wyposażenia lub części:
 
 - **1)** przed wydaniem zezwolenia na dopuszczenie do obrotu w zakresie sposobu i metod zapewnienia zgodności produkcji;
 - **2)** w przypadku otrzymania informacji o zastrzeżeniach co do wyprodukowania przedmiotów wyposażenia lub części niezgodnie z warunkami określonymi w zezwoleniu na dopuszczenie do obrotu.
 
 2. Kontrolę zgodności produkcji w przypadku, o którym mowa w ust. 1 pkt 2, przeprowadza się nie później niż w terminie 6 miesięcy od dnia otrzymania informacji o zastrzeżeniach.
 
-3. W przypadku negatywnego wyniku kontroli zgodności produkcji, minister właściwy do spraw transportu wzywa producenta do usunięcia braków, w terminie 90 dni od dnia otrzymania wezwania. W przypadku nieusunięcia braków minister właściwy do spraw transportu cofa zezwolenie. Art. 70zi. 1. Minister właściwy do spraw transportu, może upoważnić jednostkę uprawnioną do przeprowadzenia kontroli zgodności produkcji pojazdu, przedmiotu wyposażenia lub części.
+3. W przypadku negatywnego wyniku kontroli zgodności produkcji, minister właściwy do spraw transportu wzywa producenta do usunięcia braków, w terminie 90 dni od dnia otrzymania wezwania. W przypadku nieusunięcia braków minister właściwy do spraw transportu cofa zezwolenie.
 
-2. W przypadku upoważnienia jednostki uprawnionej do przeprowadzenia kontroli, o której mowa w art. 70zh ust. 1 pkt 2, koszty tej kontroli pokrywa producent, jeżeli wynik kontroli potwierdzi uzyskane informacje o zastrzeżeniach. Art. 70zj. Opłaty, o których mowa w art. 70h ust. 2, art. 70j ust. 4, art. 70k ust. 4, art. 70za ust. 1 oraz art. 70ze ust. 2, stanowią dochód budżetu państwa. Art. 70zk. Prawa i obowiązki producenta, o których mowa w:
+**Art. 70zi.**
+
+1. Minister właściwy do spraw transportu, może upoważnić jednostkę uprawnioną do przeprowadzenia kontroli zgodności produkcji pojazdu, przedmiotu wyposażenia lub części.
+
+2. W przypadku upoważnienia jednostki uprawnionej do przeprowadzenia kontroli, o której mowa w art. 70zh ust. 1 pkt 2, koszty tej kontroli pokrywa producent, jeżeli wynik kontroli potwierdzi uzyskane informacje o zastrzeżeniach.
+
+**Art. 70zj.** Opłaty, o których mowa w art. 70h ust. 2, art. 70j ust. 4, art. 70k ust. 4, art. 70za ust. 1 oraz art. 70ze ust. 2, stanowią dochód budżetu państwa.
+
+**Art. 70zk.** Prawa i obowiązki producenta, o których mowa w:
 
 - **1)** art. 70d ust. 1–4 i 6–9, art. 70e, art. 70f, art. 70g, art. 70h ust. 1– 5, 7 i 8, art. 70m, art. 70n ust. 1 pkt 1–3 i ust. 2 i 3, art. 70o, art. 70p ust. 1 pkt 1 i 3 i ust. 2 i 3, art. 70q, art. 70r ust. 1 pkt 1 lit. a, pkt 2 i 3 i ust. 2, art. 70s ust. 1, 2 i 4–6, art. 70t, art. 70u, art. 70w ust. 1 pkt 1, pkt 3 lit. a i ust. 2–5, art. 70z ust. 1–5 i 7 oraz art. 70zb stosuje się do podmiotu dokonującego zabudowy nowego pojazdu;
-- **2)** art. 70d ust. 1–4 i 6–9, art. 70e, art. 70f, art. 70g, art. 70h ust. 1– 5, 7 i 8, art. 70i, art. 70j, art. 70k, art. 70l ust. 1, art. 70m, art. 70n ust. 1 pkt 1–3 i ust. 2 i 3, art. 70o, art. 70p ust. 1 pkt 1 i 3 i ust. 2 i 3, art. 70q, art. 70r ust. 1 pkt 1 lit. a, pkt 2 i 3 i ust. 2, art. 70s ust. 1, 2 i 4–6, art. 70t, art. 70u, art. 70w ust. 1 pkt 1, pkt 3 lit. a i ust. 2–5, art. 70z ust. 1–5 i 7 oraz art. 70zb stosuje się do podmiotu wprowadzającego do obrotu na terytorium Rzeczypospolitej Polskiej nowy pojazd oraz nowe przedmioty wyposażenia lub części. Art. 70zl. 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+- **2)** art. 70d ust. 1–4 i 6–9, art. 70e, art. 70f, art. 70g, art. 70h ust. 1– 5, 7 i 8, art. 70i, art. 70j, art. 70k, art. 70l ust. 1, art. 70m, art. 70n ust. 1 pkt 1–3 i ust. 2 i 3, art. 70o, art. 70p ust. 1 pkt 1 i 3 i ust. 2 i 3, art. 70q, art. 70r ust. 1 pkt 1 lit. a, pkt 2 i 3 i ust. 2, art. 70s ust. 1, 2 i 4–6, art. 70t, art. 70u, art. 70w ust. 1 pkt 1, pkt 3 lit. a i ust. 2–5, art. 70z ust. 1–5 i 7 oraz art. 70zb stosuje się do podmiotu wprowadzającego do obrotu na terytorium Rzeczypospolitej Polskiej nowy pojazd oraz nowe przedmioty wyposażenia lub części.
+
+**Art. 70zl.**
+
+1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+
 - **1)** szczegółowe wymagania, jakie powinien spełniać podmiot wnioskujący o wydanie uprawnienia, o którym mowa w art. 70za ust. 1 oraz art. 70zb ust. 1, w zakresie warunków lokalowych, środków i wyposażenia;
 - **2)** sposób i tryb przeprowadzania kontroli, o której mowa w art. 70za ust. 4 oraz art. 70zc ust. 2 pkt 2 i 3;
 - **3)** wzór sprawozdania oceniającego, o którym mowa w art. 70za ust. 4 i art. 70zc ust. 3;
@@ -821,7 +777,12 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 - **1)** zakres uprawnienia;
 - **2)** czynności administracyjne oraz koszty związane z wydaniem decyzji;
-- **3)** czynności oraz koszty związane z przeprowadzaniem kontroli. Art. 70zm. 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, odpowiednio dla danej kategorii pojazdu:
+- **3)** czynności oraz koszty związane z przeprowadzaniem kontroli.
+
+**Art. 70zm.**
+
+1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, odpowiednio dla danej kategorii pojazdu:
+
 - **1)** zakres wymagań technicznych obowiązujących w procedurach homologacji typu oraz szczegółowy sposób przeprowadzania tych procedur;
 - **2)** wymagania alternatywne dotyczące przedmiotów wyposażenia lub części, stosowane w procedurze homologacji pojazdów produkowanych w małych seriach;
 - **3)** limity pojazdów kwalifikowanych do małej serii;
@@ -875,7 +836,160 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 #### Rozdział 1b Dopuszczenie jednostkowe pojazdu
 
+**Art. 70zn.**
+
+1. Spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu, potwierdza się dopuszczeniem jednostkowym pojazdu.
+
+2. Dopuszczeniu jednostkowemu pojazdu, z zastrzeżeniem ust. 3–6, podlega nowy pojazd:
+
+- **1)** przed wprowadzeniem do obrotu na terytorium Rzeczypospolitej Polskiej, na którego typ producent lub importer nie uzyskał świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu;
+- **2)** na którego typ zostało wydane świadectwo homologacji typu WE pojazdu albo świadectwo homologacji typu pojazdu, w którym przed rejestracją zostały wprowadzone zmiany w pojeździe, przedmiocie wyposażenia lub części, wpływające na zmianę warunków stanowiących podstawę do wydania świadectwa homologacji typu tego pojazdu.
+
+3. Nowy pojazd zaprojektowany i zbudowany do użytku przede wszystkim na placach budowy, w kamieniołomach, w obiektach portowych lub w portach lotniczych, pojazd wolnobieżny, pojazd kategorii M przeznaczony do zawodów sportowych nie podlega obowiązkowi uzyskania dopuszczenia jednostkowego pojazdu. Producent takiego pojazdu może wystąpić o dopuszczenie fakultatywne poprzez uzyskanie dopuszczenia jednostkowego pojazdu, jeżeli pojazd spełnia odpowiednie warunki lub wymagania techniczne obowiązujące w procedurze dopuszczenia jednostkowego pojazdu, określone w przepisach wydanych na podstawie art. 70zs ust. 1 pkt 1. Przepisu nie stosuje się do pojazdów, o których mowa w załączniku nr 2 do ustawy.
+
+4. Nowy pojazd specjalny Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Biura Ochrony Rządu, Straży Granicznej, organów kontroli skarbowej, Służby Celnej, Inspekcji Transportu Drogowego, Służby Więziennej i jednostek ochrony przeciwpożarowej lub nowy pojazd używany do celów specjalnych nie podlega obowiązkowi uzyskania dopuszczenia jednostkowego pojazdu. Producent takiego pojazdu może wystąpić o uzyskanie dopuszczenia jednostkowego pojazdu, jeżeli pojazd spełnia odpowiednie warunki lub wymagania techniczne obowiązujące w procedurze dopuszczenia jednostkowego pojazdu, określone w przepisach wydanych na podstawie art. 70zs ust. 1 pkt
+
+1.
+
+5. Dopuszczenia jednostkowego pojazdu nie stosuje się do tramwaju i trolejbusu.
+
+6. W przypadku pojazdu kategorii M, N, O podlegającego dopuszczeniu jednostkowemu, minister właściwy do spraw transportu w uzasadnionych przypadkach zwalnia, w drodze decyzji administracyjnej, wnioskującego o dopuszczenie jednostkowe z obowiązku spełnienia niektórych wymagań technicznych, o których mowa w załączniku IV i XI do dyrektywy 2007/46/WE, pod warunkiem zastosowania wymagań alternatywnych równoważnych z wymaganiami określonymi w tych załącznikach w najwyższym możliwym do realizacji zakresie bezpieczeństwa ruchu drogowego i ochrony środowiska.
+
+**Art. 70zo.**
+
+1. Dopuszczenia jednostkowego pojazdu udziela, w drodze decyzji administracyjnej, minister właściwy do spraw transportu, za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
+
+2. Dopuszczenia jednostkowego pojazdu udziela się na wniosek producenta, importera, właściciela pojazdu albo ich upoważnionego przedstawiciela, posiadającego siedzibę lub miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej.
+
+3. Do wniosku, o którym mowa w ust. 2, dołącza się:
+
+- **1)** dokument informacyjny sporządzony według wzoru określonego w przepisach wydanych na podstawie art. 70zs ust. 1 pkt 1;
+- **2)** sprawozdanie z badań potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia jednostkowego pojazdu;
+- **3)** kopię dowodu uiszczenia opłaty za dopuszczenie jednostkowe pojazdu.
+
+**Art. 70zp.**
+
+1. Dopuszczenie jednostkowe pojazdu udzielone na dany pojazd przez właściwy organ państwa członkowskiego Unii Europejskiej zgodnie z procedurą uznaje minister właściwy do spraw transportu, w drodze decyzji administracyjnej, jeżeli dany pojazd spełnia odpowiednie warunki lub wymagania techniczne, które są równoważne warunkom lub wymaganiom obowiązującym na terytorium Rzeczypospolitej Polskiej.
+
+2. Wydanie decyzji, o której mowa w ust. 1, następuje na wniosek producenta, importera lub właściciela pojazdu, za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
+
+3. Do wniosku, o którym mowa w ust. 2, dołącza się:
+
+- **1)** dokument potwierdzający dopuszczenie jednostkowe pojazdu wydane przez właściwy organ państwa członkowskiego Unii Europejskiej;
+- **2)** dokument wydany przez właściwy organ państwa członkowskiego Unii Europejskiej wskazujący przepisy techniczne, na podstawie których udzielono dopuszczenia jednostkowego pojazdu.
+
+4. Minister właściwy do spraw transportu może zwrócić się o dodatkowe informacje o udzielonym dopuszczeniu jednostkowym pojazdu do właściwego organu państwa członkowskiego Unii Europejskiej.
+
+5. Minister właściwy do spraw transportu, na wniosek właściwego organu państwa członkowskiego Unii Europejskiej, udostępnia temu organowi informacje o udzielonym dopuszczeniu jednostkowym pojazdu.
+
+6. W przypadku gdy pojazd, który uzyskał dopuszczenie jednostkowe pojazdu, ma być sprzedany, zarejestrowany lub dopuszczony do ruchu na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, minister właściwy do spraw transportu, na wniosek producenta lub właściciela pojazdu, wydaje dokument wskazujący przepisy techniczne, na podstawie których udzielono dopuszczenia jednostkowego pojazdu.
+
+**Art. 70zq.**
+
+1. Badanie potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych oraz równoważności zastosowanych wymagań alternatywnych dla danego pojazdu w celu dopuszczenia jednostkowego pojazdu przeprowadza jednostka uprawniona, na wniosek producenta, importera lub właściciela pojazdu.
+
+2. Do wniosku, o którym mowa w ust. 1, dołącza się:
+
+- **1)** dokument informacyjny pojazdu według wymagań określonych w przepisach wydanych na podstawie art. 70zs ust. 1 pkt 1;
+- **2)** kopie świadectw homologacji typu lub inne dokumenty potwierdzające spełnienie odpowiednich wymagań technicznych określonych w przepisach Unii Europejskiej lub regulaminach EKG ONZ.
+
+3. Z przeprowadzonego badania jednostka sporządza sprawozdanie z badań potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia jednostkowego pojazdu.
+
+**Art. 70zr.** Opłaty, o których mowa w art. 70zo ust. 1 oraz art. 70zp ust. 2, stanowią dochód budżetu państwa.
+
+**Art. 70zs.**
+
+1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+
+- **1)** zakres warunków lub wymagań technicznych obowiązujących w procedurze dopuszczenia jednostkowego pojazdu, zakres i sposób przeprowadzania badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia jednostkowego pojazdu oraz wzory dokumentów z tym związanych;
+- **2)** warunki oceny równoważności wymagań alternatywnych w procedurze dopuszczenia jednostkowego pojazdu;
+- **3)** wysokość opłat za udzielenie dopuszczenia jednostkowego pojazdu oraz wydanie decyzji o uznaniu dopuszczenia jednostkowego pojazdu, wydanego na dany pojazd przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej.
+
+2. Wydając rozporządzenie, o którym mowa w ust. 1, minister uwzględnia:
+
+- **1)** konieczność zapewnienia bezpieczeństwa w ruchu drogowym i ochrony środowiska;
+- **2)** koszty czynności administracyjnych oraz koszty związane z udzieleniem dopuszczenia jednostkowego pojazdu.
+
 #### Rozdział 1c Dopuszczenie indywidualne WE pojazdu
+
+**Art. 70zt.**
+
+1. Spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu określonych w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE, potwierdza się świadectwem dopuszczenia indywidualnego WE pojazdu.
+
+2. Dopuszczeniu indywidualnemu WE pojazdu podlega nowy pojazd kategorii M i N , o którym mowa w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE, przed wprowadzeniem do obrotu na terytorium Rzeczypospolitej Polskiej, na którego typ producent lub importer nie uzyskał świadectwa homologacji typu WE pojazdu.
+
+**Art. 70zu.**
+
+1. Świadectwo dopuszczenia indywidualnego WE pojazdu wydaje, w drodze decyzji administracyjnej, minister właściwy do spraw transportu, za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
+
+2. Świadectwo dopuszczenia indywidualnego WE pojazdu wydaje się na wniosek producenta, importera albo właściciela pojazdu.
+
+3. Do wniosku, o którym mowa w ust. 2, dołącza się:
+
+- **1)** dokumenty, o których mowa w pkt 1 dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE;
+- **2)** kopię dowodu uiszczenia opłaty za dopuszczenie indywidualne WE pojazdu;
+- **3)** oświadczenie o następującej treści: „Oświadczam, że w zakresie pojazdu o numerze VIN …, złożyłem tylko jeden wniosek i tylko w jednym państwie członkowskim Unii Europejskiej”.
+
+**Art. 70zv.**
+
+1. Badanie potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu uzyskania świadectwa dopuszczenia indywidualnego WE pojazdu przeprowadza jednostka uprawniona, na wniosek producenta, importera albo właściciela pojazdu.
+
+2. Do wniosku, o którym mowa w ust. 1, dołącza się:
+
+- **1)** dokument informacyjny pojazdu sporządzony zgodnie z załącznikiem I do dyrektywy 2007/46/WE;
+- **2)** kopie świadectw homologacji typu lub inne dokumenty potwierdzające spełnienie odpowiednich wymagań technicznych określonych w pkt 4 w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE.
+
+3. Z przeprowadzonego badania jednostka sporządza sprawozdanie z badań potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia indywidualnego WE pojazdu.
+
+**Art. 70zw.** Opłata, o której mowa w art. 70zu ust. 1, stanowi dochód budżetu państwa.
+
+**Art. 70zx.**
+
+1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+
+- **1)** wzory dokumentów związanych z wydaniem świadectwa dopuszczenia indywidualnego WE pojazdu;
+- **2)** wysokość opłat za wydanie świadectwa dopuszczenia indywidualnego WE pojazdu.
+
+2. Wydając rozporządzenie, o którym mowa w ust. 1, minister uwzględnia:
+
+- **1)** potrzebę zapewnienia zabezpieczenia dokumentów przez podrobieniem lub przerobieniem;
+- **2)** koszty czynności administracyjnych oraz koszty związane z wydaniem świadectwa dopuszczenia indywidualnego WE pojazdu.
+
+**Art. 70zy.** Maksymalne stawki opłat, o których mowa w art. 70h ust. 2, art. 70j ust. 4, art. 70k ust. 4, art. 70za ust. 1, art. 70ze ust. 2, art. 70zo ust. 1, art. 70zp ust. 2 i art. 70zu ust. 1 ulegają corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych ogółem, ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+**Art. 70zz.** Przepisów rozdziałów 1a–1c nie stosuje się do:
+
+- **1)** pojazdów zabytkowych lub pojazdu określonego w art. 79 ust. 4 pkt 3;
+- **2)** nowego pojazdu oraz nowego przedmiotu wyposażenia lub części, nie przeznaczonych do wprowadzenia do obrotu, a krótkotrwale składowanych na terytorium Rzeczypospolitej Polskiej między operacjami transportowymi – pod warunkiem okazania na żądanie właściwego organu kontroli dokumentów potwierdzających odbiorcę i miejsce docelowego odbioru nowego pojazdu oraz nowego przedmiotu wyposażenia lub części.”;
+- **8)** w art. 71 ust. 6 otrzymuje brzmienie: „6. Pojazd sprowadzony z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej, po dokonaniu zwolnienia pojazdu przez organ Służby Celnej do procedury dopuszczenia do obrotu, dopuszcza się do ruchu na okres 30 dni.”;
+- **9)** w art. 72:
+    - **a)** w ust. 1 pkt 3 i 4 otrzymują brzmienie: „3) świadectwa zgodności WE albo świadectwa zgodności wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, dopuszczenia jednostkowego pojazdu, decyzji o uznaniu dopuszczenia jednostkowego pojazdu albo świadectwa dopuszczenia indywidualnego WE pojazdu – jeżeli są wymagane;
+
+- **4)** zaświadczenia o pozytywnym wyniku badania technicznego pojazdu, jeżeli jest wymagane albo dowodu rejestracyjnego pojazdu lub innego dokumentu wydanego przez właściwy organ państwa członkowskiego, potwierdzającego wykonanie oraz termin ważności badania technicznego;”,
+    - **b)** ust. 2a otrzymuje brzmienie: „2a. W przypadku pojazdu sprowadzanego z terytorium państwa niebędącego państwem członkowskim zamiast dowodu rejestracyjnego, o którym mowa w ust. 1 pkt 5, dopuszcza się przedstawienie innego dokumentu stwierdzającego rejestrację pojazdu, wydanego przez organ właściwy do rejestracji pojazdów w tym państwie.”,
+    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Świadectwo zgodności WE lub świadectwo zgodności traci ważność po upływie terminu określonego w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 10 i nie może być uznane za dokument, o którym mowa w ust. 1 pkt 3.”;
+
+- **10)** w art. 74 w ust. 2 pkt 3 otrzymuje brzmienie: „3) na wniosek jednostki uprawnionej lub jednostki badawczej producenta pojazdu, przedmiotu wyposażenia lub części – w celu umożliwienia odpowiednich badań;”;
+- **11)** w art. 79 w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje pkt 7 w brzmieniu: „7) wycofania pojazdu z obrotu, o którym mowa w art. 70g ust. 5.”;
+- **12)** w art. 81:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Badania techniczne dzieli się na badania okresowe, badania dodatkowe oraz badania co do zgodności z warunkami technicznymi.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Badaniu, o którym mowa w ust. 3, nie podlega:
+
+- **1)** nowy pojazd, dla którego wydano świadectwo zgodności WE, świadectwo zgodności, dopuszczenie jednostkowe pojazdu, decyzję o uznaniu dopuszczenia jednostkowego pojazdu albo świadectwo dopuszczenia indywidualnego WE pojazdu;
+- **2)** zarejestrowany pojazd:
+    - **a)** na którego typ wydano świadectwo homologacji typu WE pojazdu – w okresie od dnia pierwszej rejestracji za granicą do dnia terminu okresowego badania technicznego, ustalonego na podstawie ust. 5, lub
+    - **b)** w którego dowodzie rejestracyjnym lub innym dokumencie wydanym przez właściwy organ państwa członkowskiego przedstawionym do rejestracji, zawarta jest informacja o wykonanym badaniu technicznym i jego terminie ważności – z wyjątkiem taksówki, pojazdu uprzywilejowanego lub pojazdu odpowiednio przystosowanego lub wyposażonego zgodnie z przepisami o przewozie towarów niebezpiecznych, pojazdu z zamontowanym urządzeniem technicznym podlegającym dozorowi technicznemu oraz pojazdu przystosowanego konstrukcyjnie do ruchu lewostronnego.”,
+    - **c)** po ust. 11 dodaje się ust. 11a w brzmieniu: „11a. Badaniu co do zgodności z warunkami technicznymi podlega pojazd zabytkowy przed pierwszą rejestracją na terytorium Rzeczypospolitej Polskiej.”,
+    - **d)** dodaje się ust. 16 w brzmieniu: „16. Minister właściwy do spraw transportu, uwzględniając konieczność zapewnienia bezpiecznego korzystania z pojazdów zabytkowych oraz zakres warunków technicznych tych pojazdów podlegających badaniu, określi, w drodze rozporządzenia, zakres i sposób przeprowadzania badań zgodności tych pojazdów z warunkami technicznymi, wzory dokumentów związanych z tymi badaniami.”;
+
+- **13)** w art. 83 ust. 1 w pkt 2 w lit. b kropkę zastępuje się przecinkiem i dodaje lit. c w brzmieniu: „c) badań co do zgodności z warunkami technicznymi pojazdów zabytkowych.”;
+- **14)** w art. 86: 2b, a także do pojazdów Państwowej Straży Pożarnej, mają zastosowanie przepisy art. 83 ust. 1, z wyłączeniem wymogu posiadania zezwolenia starosty, o którym mowa w art. 83 ust. 1 pkt 1 lit. b.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Do pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Biura Ochrony Rządu, Straży Granicznej i Służby Celnej, których dotyczą warunki i tryb rejestracji określone w art. 73 ust. 3 oraz w art. 76 ust. 4 pkt 1 oraz pojazdów należących do obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej, na podstawie umów międzynarodowych, o których mowa w art. 73 ust.
+    - **b)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organizacyjne lub stacje kontroli pojazdów prowadzone przez służby, o których mowa w ust. 1, z wyłączeniem obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej;”;
+
+- **15)** uchyla się art. 86a;
+- **16)** w art. 129 w ust. 2 w pkt 8 lit. c otrzymuje brzmienie: „c) korzystania z pojazdu zarejestrowanego w kraju niebędącym państwem członkowskim, jeżeli kierujący nim nie okazał dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowodu opłacenia składki za to ubezpieczenie,”;
+- **17)** po dziale Va dodaje się dział Vb w brzmieniu: „Dział Vb Kary pieniężne
 
 **Art. 140m.**
 

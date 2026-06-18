@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie sygnalistów
+# Ustawa z dnia 14 czerwca 2024 r. o ochronie sygnalistów
 
 *USTAWA z dnia 14 czerwca 2024 r.*
 

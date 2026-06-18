@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych
+# Ustawa z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych
 
 *USTAWA z dnia 8 grudnia 2006 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2006-12-29 |
 | Ostatnia zmiana | 2026-04-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062511844) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1844/text.pdf) |
-
-Art. 23–25. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -269,7 +267,9 @@ Art. 23–25. (pominięte)
 
 5. Powiat, organizacja pozarządowa, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, albo podmiot wymieniony w art. 3 ust. 3 tej ustawy, prowadzący działalność w zakresie pomocy społecznej, realizuje przedsięwzięcia, o których mowa w art. 3 ust. 1 pkt 1–4, na nieruchomościach stanowiących własność powiatu, gminy, jednoosobowej spółki gminnej, Skarbu Państwa, organizacji pozarządowej, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, lub podmiotu wymienionego w art. 3 ust. 3 tej ustawy, prowadzącemu działalność w zakresie pomocy społecznej.
 
-**Art. 6a.** (uchylony) Art. 6aa. W przypadku przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 1, art. 4a ust. 1 pkt 1 oraz w art. 5 ust. 1 pkt 1, finansowego wsparcia udziela się, jeżeli wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP w budynku powstałym w ramach przedsięwzięcia nie przekracza 52 kWh/(m ·rok).
+**Art. 6a.** (uchylony)
+
+**Art. 6aa.** W przypadku przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 1, art. 4a ust. 1 pkt 1 oraz w art. 5 ust. 1 pkt 1, finansowego wsparcia udziela się, jeżeli wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP w budynku powstałym w ramach przedsięwzięcia nie przekracza 52 kWh/(m ·rok).
 
 **Art. 6b.** W lokalach mieszkalnych utworzonych z wykorzystaniem finansowego wsparcia w ramach przedsięwzięć, o których mowa w art. 3, art. 5, art. 5a i art. 6, należy zainstalować:
 
@@ -898,6 +898,8 @@ Art. 23–25. (pominięte)
 **Art. 22h.** Kwota finansowego wsparcia udzielonego w ramach planu rozwojowego jest przekazywana na rachunek beneficjenta wsparcia w terminie 30 dni od dnia przekazania do Banku dokumentów i informacji, o których mowa w art. 18 ust. 1, 1b, 1c i 2.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących i przepisy końcowe
+
+**Art. 23–25.** (pominięte)
 
 **Art. 26.** W pierwszym półroczu po wejściu w życie ustawy udział środków przeznaczonych na finansowe wsparcie przedsięwzięć, o których mowa w art. 3 i 5, w ogólnej kwocie środków przeznaczonych na finansowe wsparcie ustala się w wysokości 80 %, a środków przeznaczonych na finansowe wsparcie przedsięwzięć, o których mowa w art. 4, w wysokości 20 %.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie sposobu, trybu i warunków badania towarów przedstawionych organowi celnemu.
+# Rozporządzenie Ministra Finansów z dnia 8 listopada 1999 r. w sprawie sposobu, trybu i warunków badania towarów przedstawionych organowi celnemu.
 
 | Pole | Wartość |
 |---|---|

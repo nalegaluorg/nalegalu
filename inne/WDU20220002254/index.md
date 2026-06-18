@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy o ochronie roślin przed agrofagami
+# Ustawa z dnia 7 października 2022 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy o ochronie roślin przed agrofagami
 
 *USTAWA z dnia 7 października 2022 r.*
 

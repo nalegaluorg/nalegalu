@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks morski, ustawy o pracy na morskich statkach handlowych oraz ustawy o bezpieczeństwie morskim
+# Ustawa z dnia 12 grudnia 2003 r. o zmianie ustawy - Kodeks morski, ustawy o pracy na morskich statkach handlowych oraz ustawy o bezpieczeństwie morskim
 
 *USTAWA z dnia 12 grudnia 2003 r.*
 

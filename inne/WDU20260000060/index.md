@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi
 
 *USTAWA z dnia 27 maja 2004 r.*
 
@@ -26,358 +26,6 @@ source: pdf
 | Data wydania | 2026-01-20 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/60/text.pdf) |
-
-Art. 70zb. 1. Działalność określona w art. 70e ust. 1 nie wymaga uzyskania zezwolenia Komisji i może być wykonywana na podstawie wpisu do rejestru zarządzających ASI, jeżeli łączna wartość aktywów wchodzących w skład portfeli inwestycyjnych alternatywnych spółek inwestycyjnych, którymi zamierza zarządzać lub zarządza zarządzający ASI, nie przekracza, z uwzględnieniem art. 2 rozporządzenia 231/2013, wyrażonej w złotych równowartości kwoty 100 000 000 euro, a w przypadku gdy zarządzający ASI zarządza wyłącznie spółkami, które nie stosują dźwigni finansowej AFI i w których prawa uczestnictwa mogą być odkupione po co najmniej 5 latach od momentu ich nabycia – równowartości kwoty 500 000 000 euro.
-2. Równowartość w złotych kwot określonych w ust. 1 ustala się przy zastosowaniu średniego kursu ogłoszonego przez Narodowy Bank Polski na ostatni dzień roboczy poprzedzający:
-1) dzień złożenia wniosku – w przypadku podmiotu ubiegającego się o wpis do rejestru zarządzających ASI;
-2) dzień przyjęty jako dzień obliczenia łącznej wartości aktywów wchodzących w skład portfeli inwestycyjnych alternatywnych spółek inwestycyjnych, którymi zarządza – w przypadku zarządzającego ASI wpisanego do rejestru zarządzających ASI.
-3. Zarządzający ASI niezwłocznie informuje Komisję o przyjętym dniu obliczania łącznej wartości aktywów wchodzących w skład portfela inwestycyjnego alternatywnej spółki inwestycyjnej, którym zarządza, jak również o jego zmianie.
-4. Do zarządzającego ASI, który wykonuje działalność określoną w art. 70e ust. 1 bez zezwolenia Komisji, po uzyskaniu wpisu do rejestru zarządzających ASI nie stosuje się przepisów art. 70ba–70bd, art. 70d, art. 70f ust. 3–12, art. 70g–70j, art. 70l–70r oraz przepisów działów IIIb, IV i XII.
-5. Działalność określona w art. 70e ust. 1 może być wykonywana przez zarządzającego ASI, który spełnia warunki określone w ust. 1, na podstawie zezwolenia na wykonywanie działalności zarządzającego ASI, jeżeli wystąpi on o takie zezwolenie. W takim przypadku przepisu ust. 4 nie stosuje się.
-6. Rejestr zarządzających ASI prowadzi Komisja.
-Art. 70zc. 1. Komisja dokonuje wpisu zarządzającego ASI do rejestru zarządzających ASI na wniosek:
-1) spółki kapitałowej w organizacji – w przypadku gdy zamierza ona prowadzić działalność jako wewnętrznie zarządzający ASI;
-2) spółki kapitałowej, która ma być komplementariuszem alternatywnej spółki inwestycyjnej, zgodnie z jej umową albo statutem, przed zgłoszeniem tej spółki do sądu rejestrowego – w przypadku gdy zamierza ona prowadzić działalność jako zewnętrznie zarządzający ASI.
-2. Do wniosku, o którym mowa w ust. 1, z uwzględnieniem art. 5 rozporządzenia 231/2013, załącza się:
-1) statut lub umowę spółki;
-1a) statut lub umowę alternatywnej spółki inwestycyjnej, którą wnioskodawca zamierza zarządzać;
-2) odpis z rejestru przedsiębiorców – w przypadku spółki kapitałowej, o której mowa w art. 8b ust. 2 pkt 2;
-3) dane osobowe członków zarządu lub rady nadzorczej wnioskodawcy, jak również innych osób, które odpowiadają za wykonywaną przez wnioskodawcę działalność lub nią kierują, wraz z odpisem informacji z Krajowego Rejestru Karnego;
-4) opis alternatywnych spółek inwestycyjnych wraz ze wskazaniem nazw tych spółek, którymi wnioskodawca zamierza zarządzać, obejmujący:
-a) planowaną łączną wartość aktywów wchodzących w skład portfeli inwestycyjnych tych spółek,
-b) opis polityki inwestycyjnej oraz strategii inwestycyjnej każdej z tych spółek;
-5) adres siedziby zarządzającego ASI;
-6) informację o inwestorach alternatywnej spółki inwestycyjnej, wartości wniesionych przez nich wkładów, pochodzeniu środków na wniesienie wkładów, a także przeprowadzeniu weryfikacji tych osób jako klientów profesjonalnych.
-3. Komisja, w drodze decyzji, odmawia wpisu zarządzającego ASI do rejestru zarządzających ASI, w przypadku gdy:
-1) wniosek lub załączone do niego dokumenty nie są zgodne pod względem treści z przepisami ust. 2 oraz art. 5 rozporządzenia 231/2013 lub ze stanem faktycznym albo wniosek został złożony przez podmiot nieuprawniony;
-2) z analizy wniosku lub załączonych do niego dokumentów wynika, że wnioskodawca lub osoby, o których mowa w ust. 2 pkt 3, mogą wykonywać działalność z naruszeniem zasad uczciwego obrotu lub w sposób nienależycie zabezpieczający interes inwestorów alternatywnej spółki inwestycyjnej;
-3) inwestorzy alternatywnej spółki inwestycyjnej nie spełniają kryteriów klienta profesjonalnego lub środki na wniesienie przez osobę fizyczną wkładu w przypadkach, o których mowa w art. 70k ust. 3, pochodzą z pożyczki, darowizny lub innej umowy o podobnym charakterze zawartej z alternatywną spółką inwestycyjną, zarządzającym ASI lub jednostką powiązaną z tymi podmiotami w rozumieniu przepisów ustawy o rachunkowości.
-4. Bieg terminów określonych w art. 169 i art. 325 § 1 Kodeksu spółek handlowych do zgłoszenia spółki do sądu rejestrowego ulega zawieszeniu na czas rozpatrywania wniosku, o którym mowa w ust. 1.
-Art. 70zd. 1. Wpisowi do rejestru zarządzających ASI podlega:
-1) firma (nazwa) i adres siedziby zarządzającego ASI;
-2) w przypadku zewnętrznie zarządzającego ASI – firma (nazwa) i adres siedziby każdej zarządzanej przez niego alternatywnej spółki inwestycyjnej;
-3) numer w Krajowym Rejestrze Sądowym zarządzającego ASI, a w przypadku zewnętrznie zarządzającego ASI – dodatkowo numer każdej zarządzanej przez niego alternatywnej spółki inwestycyjnej.
-2. Rejestr zarządzających ASI jest jawny.
-3. Zewnętrznie zarządzający ASI wpisany do rejestru zarządzających ASI zgłasza do tego rejestru każdą alternatywną spółkę inwestycyjną, którą zamierza zarządzać, przekazując Komisji informację o jej firmie (nazwie) i adresie siedziby wraz z opisem jej polityki inwestycyjnej oraz strategii inwestycyjnej albo oświadczeniem, że polityka ta oraz strategia są zgodne z opisem, o którym mowa w art. 70zc ust. 2 pkt 4 lit. b, a także statut lub umowę tej spółki.
-4. Zarządzający ASI wpisany do rejestru zarządzających ASI niezwłocznie informuje Komisję o zmianie danych określonych w ust. 1, w tym o zaprzestaniu zarządzania alternatywną spółką inwestycyjną wpisaną do tego rejestru, a w przypadku gdy jest ono związane z przejęciem zarządzania alternatywną spółką inwestycyjną przez inny podmiot – wskazuje równocześnie firmę (nazwę) i adres siedziby tego podmiotu.
-Art. 70ze. 1. Zarządzający ASI wpisany do rejestru zarządzających ASI zapewnia, z uwzględnieniem art. 2 ust. 6 oraz art. 3 rozporządzenia 231/2013, monitorowanie łącznej wartości aktywów wchodzących w skład portfeli inwestycyjnych alternatywnych spółek inwestycyjnych, którymi zarządza, oraz jej obliczanie co najmniej raz na 12 miesięcy.
-2. W przypadku gdy łączna wartość aktywów, o której mowa w ust. 1, przekroczy próg określony w art. 70zb ust. 1 i przekroczenie to nie będzie miało charakteru tymczasowego, o którym mowa w art. 4 rozporządzenia 231/2013, zarządzający ASI:
-1) niezwłocznie informuje Komisję o przekroczeniu;
-2) w terminie 30 dni od dnia stwierdzenia przekroczenia:
-a) składa wniosek o zezwolenie na wykonywanie działalności przez zarządzającego ASI zgodnie z art. 70s albo
-b) zaprzestaje wykonywania działalności zarządzania alternatywnymi spółkami inwestycyjnymi i informuje o tym niezwłocznie Komisję, wskazując datę zaprzestania wykonywania tej działalności.
-3. W przypadku niezłożenia w terminie wniosku, o którym mowa w ust. 2 pkt 2 lit. a, Komisja wydaje decyzję o wykreśleniu zarządzającego ASI z rejestru zarządzających ASI.
-Art. 70zf. 1. Komisja wykreśla zarządzającego ASI z rejestru zarządzających ASI z urzędu w przypadku:
-1) ogłoszenia upadłości zarządzającego ASI lub otwarcia jego likwidacji;
-1a) wykreślenia zarządzającego ASI z rejestru przedsiębiorców Krajowego Rejestru Sądowego;
-1b) nieuiszczenia opłaty za wpis do rejestru zarządzających ASI, powiększonej o należne odsetki, w terminie 6 miesięcy od dnia doręczenia pisma informującego o wpisie do rejestru zarządzających ASI oraz wysokości związanej z tym opłaty;
-1c) nieuiszczenia rocznej opłaty na pokrycie kosztów nadzoru nad rynkiem kapitałowym, o której mowa w art. 236 ust. 2g, powiększonej o należne odsetki, w terminie 6 miesięcy od dnia powstania obowiązku uiszczenia tej opłaty;
-1d) nieprzekazania sprawozdania okresowego, o którym mowa w art. 222c ust. 1, uwzględniającego informacje określone w art. 222e ust. 1, w terminie 6 miesięcy od dnia upływu terminu na przekazanie tego sprawozdania;
-2) niewykonywania działalności zarządzania ASI przez okres kolejnych 12 miesięcy;
-3) wydania zgodnie z art. 70ze ust. 3 albo art. 229a ust. 2 ostatecznej decyzji o wykreśleniu zarządzającego ASI z rejestru zarządzających ASI;
-4) uzyskania przez zarządzającego ASI zezwolenia na wykonywanie działalności przez zarządzającego ASI;
-5) poinformowania Komisji przez zarządzającego ASI o zaprzestaniu wykonywania działalności zarządzania alternatywnymi spółkami inwestycyjnymi w związku z niemającym charakteru tymczasowego przekroczeniem progu, o którym mowa w art. 70ze ust. 2.
-2. Na wniosek zarządzającego ASI, który nie zarządza żadną alternatywną spółką inwestycyjną, Komisja wykreśla go z rejestru zarządzających ASI przed upływem terminu określonego w ust. 1 pkt 2.
-3. W przypadku wykreślenia zarządzającego ASI z rejestru zarządzających ASI zgodnie z ust. 1 pkt 1–3 przepisy art. 70x ust. 3 i 4 oraz art. 70y stosuje się odpowiednio.
-Art. 70zg. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, sposób prowadzenia rejestru zarządzających ASI przez Komisję, w tym sposób dokonywania wpisów oraz tryb jego udostępniania, uwzględniając zapewnienie sprawności postępowania.
-Art. 70zj. 1. Przepisy niniejszego działu stosuje się w przypadku przejęcia przez fundusz kontroli nad spółką nienotowaną na rynku regulowanym lub notowanym emitentem, z wyjątkiem przejęcia kontroli nad:
-1) mikroprzedsiębiorcą, małym przedsiębiorcą lub średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
-2) spółką celową specjalnego przeznaczenia, której przeważającym przedmiotem działalności jest nabywanie nieruchomości w celach inwestycyjnych i zarządzanie nimi.
-2. Przez użyte w niniejszym dziale określenia:
-1) spółka nienotowana na rynku regulowanym – rozumie się spółkę, której papiery wartościowe nie są dopuszczone do obrotu na rynku regulowanym;
-2) notowany emitent – rozumie się podmiot emitujący we własnym imieniu akcje lub inne papiery wartościowe o charakterze udziałowym dopuszczone do obrotu na rynku regulowanym;
-3) fundusz – rozumie się specjalistyczny fundusz inwestycyjny otwarty, fundusz inwestycyjny zamknięty, alternatywną spółkę inwestycyjną oraz unijny AFI, które są zarządzane przez odpowiednio towarzystwo albo zarządzającego ASI;
-4) porozumienie – rozumie się pisemne lub ustne porozumienie dotyczące nabywania, zbywania lub posiadania praw udziałowych w innym podmiocie, zgodnego wykonywania prawa głosu z posiadanych w nim praw udziałowych lub prowadzenia w nim trwałej polityki finansowej i operacyjnej;
-5) kontrola – rozumie się w odniesieniu do:
-a) spółki nienotowanej na rynku regulowanym – posiadanie więcej niż 50 % ogólnej liczby głosów w takiej spółce,
-b) notowanego emitenta – bycie podmiotem dominującym wobec takiego emitenta;
-6) przejęcie kontroli – rozumie się doprowadzenie do uzyskania kontroli:
-a) indywidualnie przez fundusz,
-b) wspólnie przez więcej niż jeden fundusz zarządzany przez to samo towarzystwo albo tego samego zarządzającego ASI, gdy fundusze te łączy porozumienie,
-c) przez fundusz na podstawie porozumienia między towarzystwem lub zarządzającym ASI, które nim zarządzają, i co najmniej jednym innym towarzystwem, zarządzającym ASI lub zarządzającym z UE.
-3. Do ustalenia udziału głosów, o którym mowa w ust. 2 pkt 5 lit. a, przyjmuje się wszystkie udziały, z którymi jest związane prawo głosu w spółce, znajdujące się w posiadaniu funduszu oraz podmiotu, nad którym sprawuje on kontrolę, lub podmiotów posiadających akcje w imieniu własnym, lecz na zlecenie lub na rzecz funduszu lub podmiotu, nad którym fundusz sprawuje kontrolę.
-Art. 70zk. 1. Towarzystwo i zarządzający ASI każdorazowo zawiadamiają Komisję o osiągnięciu lub przekroczeniu przez zarządzany fundusz, który posiada, nabywa lub zbywa udziały lub akcje w spółce nienotowanej na rynku regulowanym, progu odpowiednio 10 %, 20 %, 30 %, 50 % lub 75 % głosów w ogólnej liczbie głosów w tej spółce oraz o obniżeniu udziału w ogólnej liczbie głosów poniżej tych progów.
-2. Zawiadomienie, o którym mowa w ust. 1, składa się niezwłocznie, nie później jednak niż w terminie 10 dni roboczych od dnia, w którym towarzystwo albo zarządzający ASI dowiedzieli się o zmianie udziału w ogólnej liczbie głosów.
-Art. 70zl. 1. O przejęciu przez fundusz kontroli nad spółką nienotowaną na rynku regulowanym towarzystwo albo zarządzający ASI, którzy zarządzają tym funduszem, zawiadamiają w terminie 10 dni roboczych od dnia przejęcia kontroli:
-1) Komisję;
-2) spółkę nienotowaną na rynku regulowanym, nad którą fundusz przejął kontrolę;
-3) wspólników lub akcjonariuszy spółki nienotowanej na rynku regulowanym, nad którą fundusz przejął kontrolę – w zakresie, w jakim dane o nich są dostępne towarzystwu albo zarządzającemu ASI.
-2. Zawiadomienie, o którym mowa w ust. 1, zawiera:
-1) informacje o liczbie udziałów w kapitale zakładowym spółki nienotowanej na rynku regulowanym posiadanych po przejęciu kontroli oraz o liczbie głosów wynikającej z posiadania akcji lub udziałów i ich procentowym udziale w ogólnej liczbie głosów;
-2) informacje o warunkach, na jakich przejęto kontrolę, w tym informacje o podmiotach, które w wyniku czynności prawnej dokonanej z przejmującym kontrolę będą uprawnione do wykonywania prawa głosu w spółce nienotowanej na rynku regulowanym;
-3) datę przejęcia kontroli;
-4) dane o towarzystwie albo zarządzającym ASI, które zarządzają funduszem przejmującym kontrolę;
-5) opis sposobów zapobiegania powstawaniu konfliktów interesów pomiędzy towarzystwem, zarządzającym ASI oraz funduszem a spółką nienotowaną na rynku regulowanym albo wskazanie miejsca jego udostępnienia;
-6) opis zasad udostępniania informacji spółce nienotowanej na rynku regulowanym oraz innym podmiotom albo wskazanie miejsca jego udostępnienia.
-3. Towarzystwo oraz zarządzający ASI, o których mowa w ust. 1, dodatkowo przekazują:
-1) Komisji, w zawiadomieniu, o którym mowa w ust. 1, oraz uczestnikom albo inwestorom funduszu – informacje dotyczące źródeł pochodzenia środków finansowania działań, których skutkiem jest przejęcie kontroli;
-2) spółce nienotowanej na rynku regulowanym i wspólnikom albo akcjonariuszom, o których mowa w ust. 1 pkt 2 i 3, w zawiadomieniu, o którym mowa w ust. 1 – informacje o zamiarach dotyczących dalszego prowadzenia działalności tej spółki, w tym informacje mające istotny wpływ na stan zatrudnienia oraz warunki pracy i płacy w tej spółce.
-4. Towarzystwo oraz zarządzający ASI występują w zawiadomieniu, o którym mowa w ust. 1, skierowanym do spółki nienotowanej na rynku regulowanym, nad którą fundusz przejął kontrolę, o niezwłoczne:
-1) poinformowanie przedstawicieli pracowników spółki nienotowanej na rynku regulowanym, a w przypadku ich braku, pracowników tej spółki o przejęciu kontroli nad tą spółką,
-2) przekazanie przedstawicielom pracowników spółki nienotowanej na rynku regulowanym, a w przypadku ich braku, pracownikom tej spółki informacji, o których mowa w ust. 2, i udostępnienie im informacji, o których mowa w ust. 3 pkt 2, o ile z odrębnych przepisów nie wynikają ograniczenia w tym zakresie – zgodnie z przepisami prawa pracy i w sposób przyjęty u danego pracodawcy.
-Art. 70zm. 1. Towarzystwo albo zarządzający ASI, którzy zarządzają funduszem przejmującym kontrolę nad notowanym emitentem, niezwłocznie przekazują:
-1) Komisji,
-2) notowanemu emitentowi, nad którym fundusz przejął kontrolę,
-3) wspólnikom albo akcjonariuszom notowanego emitenta, nad którym fundusz przejął kontrolę – w zakresie, w jakim dane o nich są dostępne towarzystwu lub zarządzającemu ASI – informacje związane z przejęciem kontroli.
-2. Informacje, o których mowa w ust. 1, obejmują:
-1) dane o towarzystwie albo zarządzającym ASI, którzy zarządzają funduszem przejmującym kontrolę;
-2) opis sposobów zapobiegania powstawaniu konfliktów interesów pomiędzy towarzystwem, zarządzającym ASI oraz funduszem a notowanym emitentem, albo wskazanie miejsca jego udostępnienia;
-3) opis zasad udostępniania informacji notowanemu emitentowi oraz innym podmiotom albo wskazanie miejsca jego udostępnienia.
-3. Towarzystwo albo zarządzający ASI, przekazując notowanemu emitentowi informacje, o których mowa w ust. 1, występują o niezwłoczne przekazanie tych informacji pracownikom tego emitenta lub ich przedstawicielom, zgodnie z przepisami prawa pracy i w sposób przyjęty u danego pracodawcy, o ile z odrębnych przepisów nie wynikają ograniczenia w tym zakresie.
-4. Przepisów ust. 1–3 nie stosuje się do towarzystwa ani zarządzającego ASI, którzy zarządzają funduszem przejmującym kontrolę nad notowanym emitentem, w zakresie, w jakim informacje określone w ust. 2 zostały ujawnione wraz z zawiadomieniem składanym zgodnie z art. 69 ustawy o ofercie publicznej.
-Art. 70zn. 1. Towarzystwo oraz zarządzający ASI, którzy zarządzają funduszem przejmującym kontrolę nad spółką nienotowaną na rynku regulowanym lub nad notowanym emitentem, są obowiązani, w okresie 24 miesięcy od dnia przejęcia kontroli, zapobiegać wyprzedaży aktywów odpowiednio tej spółki albo tego emitenta.
-2. Zapobieganie wyprzedaży aktywów, o którym mowa w ust. 1, obejmuje:
-1) zakaz wykonywania praw z akcji lub udziałów w spółce nienotowanej na rynku regulowanym lub w notowanym emitencie oraz innych czynności prawnych, w sposób skutkujący bezpośrednio lub pośrednio dokonaniem:
-a) wypłat wynikających z prawa do udziału w zysku spółki nienotowanej na rynku regulowanym lub notowanego emitenta, w szczególności wypłat kwot wynikających z podziału zysku, odsetek od akcji, oraz zaliczek na poczet takich wypłat,
-b) obniżenia kapitału zakładowego, umorzenia udziałów lub akcji, nabycia udziałów lub akcji własnych spółki nienotowanej na rynku regulowanym lub notowanego emitenta,
-c) zwrotu dopłat, o których mowa w art. 179 § 1 Kodeksu spółek handlowych, w przypadku spółki z ograniczoną odpowiedzialnością;
-2) obowiązek podejmowania z zachowaniem należytej staranności działań mających na celu zapobieżenie skutkom określonym w pkt 1.
-3. Ograniczenia, o których mowa w ust. 2, nie dotyczą:
-1) wypłat, o których mowa w ust. 2 pkt 1 lit. a, dokonywanych przez spółkę nienotowaną na rynku regulowanym lub notowanego emitenta – w kwocie przekraczającej wartość różnicy między wartością aktywów netto z ostatniego rocznego sprawozdania finansowego tej spółki lub tego emitenta a wartością stanowiącą sumę wartości wpłaconej części kapitału zakładowego oraz wartości kapitału zapasowego i kapitałów rezerwowych, w zakresie, w jakim ustawa, statut albo umowa tej spółki lub tego emitenta pozwalają na użycie tych kapitałów;
-2) wypłat, o których mowa w ust. 2 pkt 1 lit. a, dokonywanych przez spółkę nienotowaną na rynku regulowanym lub notowanego emitenta – w zakresie, w jakim kwota przeznaczona do podziału między wspólników albo akcjonariuszy nie przekracza zysku za ostatni rok obrotowy, powiększonego o niepodzielone zyski z lat ubiegłych oraz o kwoty przeniesione z utworzonych z zysku kapitałów zapasowego i rezerwowych, które mogą być przeznaczone do podziału, oraz pomniejszonego o kwotę niepokrytych strat z lat ubiegłych, wartości bilansowej udziałów albo akcji własnych oraz o kwoty, które zgodnie z ustawą, statutem albo umową tej spółki lub tego emitenta powinny być przekazane z zysku za ostatni rok obrotowy na kapitał zapasowy lub kapitały rezerwowe;
-3) nabycia przez spółkę nienotowaną na rynku regulowanym lub notowanego emitenta lub na rzecz tej spółki lub tego emitenta udziałów albo akcji własnych – w zakresie, w jakim takie nabycie jest dopuszczalne na podstawie odrębnych przepisów, o ile wartość nabywanych udziałów albo akcji łącznie z wartością udziałów albo akcji uprzednio nabytych przez tę spółkę lub tego emitenta lub nabytych na jej rzecz lub na jego rzecz nie będzie przekraczać wartości różnicy pomiędzy wartością aktywów netto z ostatniego rocznego sprawozdania finansowego tej spółki lub tego emitenta a wartością stanowiącą sumę wartości wpłaconej części kapitału zakładowego oraz wartości kapitału zapasowego i kapitałów rezerwowych w zakresie, w jakim ustawa, statut albo umowa tej spółki pozwalają na użycie tych kapitałów;
-4) obniżenia kapitału zakładowego w granicach dozwolonych ustawą – jeżeli obniżenie kapitału zakładowego ma na celu wyrównanie poniesionych strat lub przeniesienie określonych kwot do kapitałów rezerwowych, pod warunkiem że w wyniku tej operacji wartość kapitałów rezerwowych nie przekroczy 10 % obniżonego kapitału zakładowego.
-Art. 208zc. 1. O ile nic innego nie wynika z przepisów niniejszego oddziału, do połączenia transgranicznego przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego stosuje się odpowiednio przepisy o połączeniu krajowym przez przejęcie, z wyłączeniem art. 208t ust. 4.
-2. Zgoda Komisji na połączenie funduszy, o której mowa w art. 208i ust. 1 pkt 2, oraz zgoda zgromadzenia uczestników, o której mowa w art. 208i ust. 1 pkt 4, w odniesieniu do krajowego funduszu przejmowanego są udzielane odpowiednio na:
-1) połączenie transgraniczne przez przejęcie funduszu krajowego albo
-2) połączenie transgraniczne przez utworzenie funduszu zagranicznego.
-3. Połączenie transgraniczne przez utworzenie funduszu zagranicznego dochodzi do skutku pod warunkiem wyrażenia przez właściwe organy nadzoru państwa członkowskiego zgody na utworzenie funduszu zagranicznego, który ma być funduszem przejmującym, chyba że w przypadku zagranicznego subfunduszu przejmującego, zgoda taka nie jest wymagana.
-Art. 208zd. 1. Plan połączenia zawiera dodatkowo:
-1) wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych tytułów uczestnictwa funduszu przejmującego;
-2) wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego;
-3) w przypadku połączenia transgranicznego przez utworzenie funduszu zagranicznego:
-a) statut, prospekt informacyjny funduszu przejmującego oraz: – kluczowe informacje – w przypadku udostępniania przez fundusz przejmujący kluczowych informacji wszystkim inwestorom albo – kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez fundusz przejmujący kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo – kluczowe informacje dla inwestorów – w przypadku zbywania przez fundusz przejmujący tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów,
-b) wskazanie wartości początkowej tytułu uczestnictwa funduszu przejmującego – w przypadku gdy przewiduje to prawo państwa macierzystego tego funduszu.
-2. W przypadku połączenia transgranicznego przez utworzenie funduszu zagranicznego plan połączenia sporządzają i podpisują fundusze przejmowane i podmiot uprawniony do reprezentowania funduszu przejmującego zgodnie z prawem państwa macierzystego tego funduszu.
-Art. 208ze. 1. Do wniosku o udzielenie zgody:
-1) na połączenie transgraniczne przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego załącza się dodatkowo:
-a) statut,
-b) prospekt informacyjny funduszu przejmującego,
-c) następujące dokumenty: – kluczowe informacje – w przypadku udostępniania przez fundusz przejmujący kluczowych informacji wszystkim inwestorom albo – kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez fundusz przejmujący kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo – kluczowe informacje dla inwestorów – w przypadku zbywania przez fundusz przejmujący tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów – oraz zmiany tych dokumentów;
-2) na połączenie transgraniczne przez utworzenie funduszu zagranicznego załącza się dodatkowo dokument informacyjny funduszu przejmującego, jeżeli jego sporządzenie przewiduje prawo państwa macierzystego tego funduszu.
-2. Dokument informacyjny funduszu przejmowanego powinien zawierać dodatkowo wskazanie różnic w zakresie zasad sprawozdawczości okresowej tego funduszu i funduszu przejmującego, informację o spodziewanym wpływie połączenia na sposób opodatkowania dochodów z inwestycji w fundusz, a także informację o dopłacie w środkach pieniężnych, jeżeli dokonanie takiej dopłaty przez fundusz przejmujący będzie konieczne. Dopłata nie może przewyższać 10 % wartości aktywów netto funduszu przejmowanego przypadających na jednostki uczestnictwa danego uczestnika.
-3. Do wniosku, o którym mowa w ust. 1, dołącza się także jego tłumaczenie oraz tłumaczenie załączonych do niego dokumentów na język urzędowy albo jeden z języków urzędowych państwa macierzystego funduszu przejmującego.
-4. Niezwłocznie po otrzymaniu wniosku, Komisja przekazuje jego tłumaczenie oraz tłumaczenie załączonych do niego dokumentów do właściwego organu państwa macierzystego funduszu przejmującego.
-5. Komisja może, w terminie 10 dni roboczych od otrzymania wniosku, zażądać:
-1) uzupełnienia dokumentów, które zgodnie z ust. 1 i 3 załącza się do wniosku;
-2) przekazania dodatkowych informacji lub dokumentów pozwalających na dokonanie oceny zgodności łączenia funduszy z przepisami prawa lub interesem uczestników łączących się funduszy;
-3) rozszerzenia lub zmiany informacji zawartych w dokumencie informacyjnym funduszu przejmowanego, mając na celu zapewnienie należytej ochrony interesów uczestników krajowego funduszu przejmowanego, w tym w szczególności zapewnienie im dostępu do informacji pozwalających należycie ocenić skutki planowanego połączenia.
-6. Komisja rozpoznaje wniosek i informuje o swojej decyzji towarzystwo będące organem funduszu przejmowanego w terminie 20 dni roboczych od dnia jego złożenia. W przypadku, o którym mowa w ust. 5, bieg tego terminu rozpoczyna się w dniu następującym po dniu otrzymania przez Komisję informacji lub dokumentów, zgodnie z żądaniem Komisji.
-7. W przypadku gdy właściwy organ państwa macierzystego funduszu przejmującego zażądał od funduszu przejmującego dokonania zmian w dokumencie informacyjnym tego funduszu, od dnia poinformowania Komisji o tym przez ten organ, bieg terminu, o którym mowa w ust. 6, ulega zawieszeniu do czasu uzyskania przez Komisję od tego organu informacji, czy zgłasza on zastrzeżenia do dokumentu informacyjnego funduszu przejmującego po dokonaniu przez ten fundusz zmian w tym dokumencie.
-8. Komisja odmawia zgody na połączenie transgraniczne przez przejęcie funduszu krajowego albo na połączenie transgraniczne przez utworzenie funduszu zagranicznego, w przypadku gdy:
-1) załączone do wniosku dokumenty nie są zgodne pod względem treści lub formy z przepisami prawa;
-2) wnioskodawca nie uzupełnił lub nie przekazał informacji lub dokumentów zgodnie z żądaniem, o którym mowa w ust. 5;
-3) właściwy organ państwa macierzystego funduszu przejmującego zgłosił zastrzeżenia do dokumentu informacyjnego funduszu przejmującego;
-4) planowane połączenie jest sprzeczne z przepisami prawa lub statutem funduszu przejmowanego;
-5) fundusz przejmujący nie posiada uprawnienia do zbywania tytułów uczestnictwa na terytorium Rzeczypospolitej Polskiej lub na terytorium państw członkowskich, na terytorium których fundusz przejmowany zbywa jednostki uczestnictwa.
-9. Zgoda Komisji na połączenie transgraniczne przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego nie zawiera rozstrzygnięcia w przedmiocie zatwierdzenia dokumentu informacyjnego funduszu przejmującego.
-10. O wydaniu decyzji w sprawie wniosku, o którym mowa w ust. 1, Komisja informuje właściwy organ państwa macierzystego funduszu przejmującego.
-Art. 208zf. 1. Do ustalenia dnia obliczenia stosunku wymiany łączących się funduszy stosuje się przepisy prawa państwa macierzystego funduszu przejmującego.
-Obliczenie stosunku wymiany następuje w sposób określony w planie połączenia.
-2. Niezwłocznie po przydzieleniu uczestnikom funduszu przejmowanego tytułów uczestnictwa funduszu przejmującego firma audytorska badająca sprawozdania finansowe funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
-1) ostatecznej wyceny aktywów oraz ustalenia wartości aktywów netto łączących się funduszy oraz
-2) obliczenia stosunku wymiany oraz wysokości dopłat dla uczestników funduszu przejmowanego.
-3. Fundusz przejmowany niezwłocznie publikuje opinię, o której mowa w ust. 2, na stronach internetowych wskazanych w statucie funduszu, udostępnia ją bezpłatnie uczestnikom tego funduszu oraz przekazuje Komisji.
-Art. 208zg. 1. Do ustalenia dnia połączenia stosuje się przepisy prawa państwa macierzystego funduszu przejmującego.
-2. Z dniem połączenia fundusz przejmujący wstępuje w prawa i obowiązki funduszu przejmowanego, w szczególności:
-1) uczestnicy funduszu przejmowanego stają się uczestnikami funduszu przejmującego;
-2) aktywa i zobowiązania funduszu przejmowanego stają się aktywami i zobowiązaniami funduszu przejmującego.
-3. Z dniem połączenia uczestnicy funduszu przejmującego nabywają uprawnienie do dopłaty wynikającej ze stosunku wymiany, jeżeli jest ona przewidziana w dokumencie informacyjnym zgodnie z art. 208ze ust. 2.
-4. W okresie od dnia przydziału, o którym mowa w art. 208zf ust. 2, do dnia połączenia, o którym mowa w ust. 1, fundusz przejmowany nie może zawierać nowych umów, o których mowa w art. 103 lub dokonać lokat lub zawrzeć umowy na podstawie art. 107 ust. 5.
-Art. 208zh. Depozytariusz funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków określonych w art. 72 niezwłocznie po dniu połączenia, chyba że przepisy prawa państwa macierzystego funduszu przejmującego stanowią inaczej, i informują o tym towarzystwo.
-Art. 208zi. 1. Towarzystwo będące organem funduszu przejmowanego składa do sądu wniosek o wykreślenie funduszu przejmowanego z rejestru funduszy inwestycyjnych niezwłocznie po dniu połączenia.
-2. Do wniosku, o którym mowa w ust. 1, towarzystwo załącza:
-1) zgodę Komisji na połączenie transgraniczne przez przejęcie funduszu krajowego albo przez utworzenie funduszu zagranicznego;
-2) opinię, o której mowa w art. 208zf ust. 2.
-3. Sąd rejestrowy rozpoznaje sprawę w terminie 14 dni od dnia złożenia wniosku lub jego uzupełnienia.
-Art. 208zj. 1. Towarzystwo będące organem funduszu przejmowanego niezwłocznie zawiadamia fundusz przejmujący o wykreśleniu funduszu przejmowanego z rejestru funduszy inwestycyjnych.
-2. Towarzystwo będące organem funduszu przejmowanego zamieszcza na stronach internetowych wskazanych w statucie funduszu informację o dokonanym połączeniu, ze wskazaniem dnia połączenia, oraz informuje Komisję o dokonanym połączeniu.
-Art. 208zk. 1. Jeżeli połączenie transgraniczne przez przejęcie funduszu krajowego ma nastąpić przez przeniesienie na fundusz przejmujący wyłącznie aktywów netto funduszu przejmowanego, fundusz przejmowany:
-1) na podstawie wyceny aktywów funduszu dokonanej w dniu poprzedzającym dzień obliczenia stosunku wymiany ustala wartość aktywów netto oraz
-2) przenosi na fundusz przejmujący aktywa netto, w terminie i w sposób określony przepisami prawa państwa macierzystego funduszu przejmującego.
-2. Po przeniesieniu, o którym mowa w ust. 1 pkt 2, w funduszu przejmowanym mogą pozostać wyłącznie środki pieniężne na rachunkach bankowych lub instrumenty rynku pieniężnego, o których mowa w art. 93.
-3. W dniu przeniesienia, o którym mowa w ust. 1 pkt 2, uczestnikom funduszu przejmowanego w zamian za jednostki uczestnictwa funduszu przejmowanego fundusz przejmujący przydziela tytuły uczestnictwa funduszu przejmującego, zgodnie ze stosunkiem wymiany ustalonym na podstawie wyceny aktywów funduszu przejmowanego i funduszu przejmującego z dnia poprzedzającego dzień przydziału.
-Art. 208zl. 1. O ile nic innego nie wynika z przepisów niniejszego oddziału, do połączenia transgranicznego przez przejęcie funduszu zagranicznego stosuje się odpowiednio przepisy o połączeniu krajowym przez przejęcie.
-2. W odniesieniu do krajowego funduszu przejmowanego biorącego udział w połączeniu zgoda Komisji na połączenie funduszy, o której mowa w art. 208i ust. 1 pkt 2, oraz zgoda zgromadzenia uczestników, o której mowa w art. 208i ust. 1 pkt 4, są udzielane na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
-Art. 208zm. Plan połączenia zawiera dodatkowo:
-1) wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych jednostek uczestnictwa funduszu przejmującego;
-2) wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego.
-Art. 208zn. 1. Połączenie transgraniczne przez przejęcie funduszu zagranicznego dochodzi do skutku pod warunkiem uzyskania przez co najmniej jeden zagraniczny fundusz przejmowany zgody właściwych organów państwa macierzystego tego funduszu na połączenie oraz jeżeli jest to wymagane przepisami prawa jego państwa macierzystego – zgody właściwych organów tego funduszu na połączenie.
-2. Plan połączenia może przewidywać, że do skuteczności połączenia wymagane jest uzyskanie zgód, o których mowa w ust. 1, przez więcej niż jeden fundusz zagraniczny lub jeżeli w połączeniu bierze udział krajowy fundusz przejmowany – również uzyskanie przez ten fundusz zgody Komisji oraz zgody zgromadzenia uczestników na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
-Art. 208zo. Niezwłocznie po podpisaniu planu połączenia krajowy fundusz przejmujący informuje Komisję o zamiarze połączenia, przedstawiając dokument informacyjny tego funduszu i plan połączenia.
-Art. 208zp. 1. Połączenie transgraniczne przez przejęcie funduszu zagranicznego wymaga zatwierdzenia przez Komisję dokumentu informacyjnego krajowego funduszu przejmującego. Zatwierdzenie dokumentu następuje w postępowaniu określonym w ust. 2–7 albo w postępowaniu w sprawie wydania zgody Komisji na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
-2. Postępowanie w sprawie zatwierdzenia dokumentu informacyjnego krajowego funduszu przejmującego jest wszczynane w dniu otrzymania przez Komisję od właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego, przetłumaczonych na język polski:
-1) wniosku zagranicznego funduszu przejmowanego o udzielenie przez właściwe organy państwa macierzystego zgody na połączenie z krajowym funduszem przejmującym;
-2) dokumentu informacyjnego zagranicznego funduszu przejmowanego i dokumentu informacyjnego krajowego funduszu przejmującego;
-3) planu połączenia;
-4) oświadczeń złożonych przez depozytariusza krajowego funduszu przejmującego i depozytariusza zagranicznego funduszu przejmowanego, że po zweryfikowaniu przez każdego z nich warunków połączenia, depozytariusz stwierdza, że planowane połączenie funduszy jest zgodne z przepisami prawa i statutem funduszu, dla którego pełni on funkcję depozytariusza.
-3. W terminie 15 dni roboczych od dnia otrzymania wszystkich dokumentów, o których mowa w ust. 2, Komisja może zażądać od funduszu przejmującego zmiany lub rozszerzenia informacji zawartych w dokumencie informacyjnym, mając na celu zapewnienie należytej ochrony interesów uczestników krajowego funduszu przejmującego, w tym w szczególności zapewnienie im dostępu do informacji pozwalających należycie ocenić skutki planowanego połączenia.
-4. Komisja w terminie 20 dni roboczych od dnia otrzymania wszystkich dokumentów, o których mowa w ust. 2, w drodze decyzji:
-1) zatwierdza dokument informacyjny funduszu przejmującego albo
-2) odmawia jego zatwierdzenia – i informuje o swojej decyzji właściwe organy państwa macierzystego zagranicznego funduszu przejmowanego.
-5. W przypadku, o którym mowa w ust. 3, bieg terminu, o którym mowa w ust. 4, rozpoczyna się w dniu następującym po dniu otrzymania przez Komisję żądanych informacji.
-6. Komisja może odmówić zatwierdzenia dokumentu informacyjnego krajowego funduszu przejmującego w przypadku nieudzielenia przez ten fundusz odpowiedzi zgodnie z żądaniem, o którym mowa w ust. 3, lub gdy poprawiony dokument informacyjny nie spełnia wymogów określonych w ustawie.
-7. Komisja informuje niezwłocznie właściwe organy państwa macierzystego zagranicznego funduszu przejmowanego o przesłaniu do funduszu krajowego żądania, o którym mowa w ust. 3.
-8. Jeżeli w połączeniu bierze udział więcej niż jeden zagraniczny fundusz przejmowany, Komisja informuje właściwe organy państwa macierzystego funduszu zagranicznego, po otrzymaniu od tych organów dokumentów, o których mowa w ust. 2, obejmujących dokument informacyjny funduszu przejmującego o tej samej treści co dokument będący przedmiotem decyzji, o której mowa w ust. 4, o zatwierdzeniu albo odmowie zatwierdzenia tego dokumentu.
-Art. 208zr. Niezwłocznie po powzięciu informacji o uzyskaniu pierwszej ze zgód właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie, o planowanym połączeniu zawiadamia się uczestników krajowego funduszu przejmującego, wysyłając zawiadomienie, o którym mowa w art. 208o ust. 2.
-Art. 208zs. 1. W przypadku połączenia transgranicznego przez przejęcie funduszu zagranicznego, w którym zgodnie z planem połączenia bierze udział więcej niż jeden fundusz przejmowany, dzień obliczenia stosunku wymiany dla kolejnego funduszu przejmowanego nie może przypadać przed dniem wydania opinii przez firmę audytorską, o której mowa w art. 208zt ust. 1.
-2. W przypadku połączenia transgranicznego przez przejęcie funduszu zagranicznego, gdy subfundusz przejmujący jest nowo tworzony, dla każdego funduszu przejmowanego obowiązuje ten sam dzień obliczenia stosunku wymiany.
-Art. 208zt. 1. Niezwłocznie po przydzieleniu uczestnikom funduszu przejmowanego jednostek uczestnictwa funduszu przejmującego firma audytorska badająca sprawozdania finansowe funduszu przejmującego albo funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
-1) ostatecznej wyceny aktywów oraz
-2) obliczenia stosunku wymiany.
-2. Fundusz przejmujący oraz fundusz przejmowany będący funduszem krajowym niezwłocznie publikują opinię, o której mowa w ust. 1, na stronach internetowych wskazanych w statucie funduszu oraz udostępniają ją bezpłatnie swoim uczestnikom. Fundusz przejmujący niezwłocznie przekazuje opinię Komisji.
-Art. 208zu. 1. Dniem połączenia jest pierwszy dzień roboczy następujący po dniu przydziału. Z tym dniem krajowy fundusz przejmujący, z zastrzeżeniem art. 205 ust. 2, wstępuje w prawa i obowiązki funduszu przejmowanego, w szczególności:
-1) aktywa i zobowiązania funduszu przejmowanego stają się aktywami i zobowiązaniami funduszu przejmującego;
-2) wpis uczestników funduszu przejmowanego do rejestru uczestników funduszu przejmującego wywołuje skutek prawny.
-2. Niezwłocznie po dniu połączenia depozytariusz każdego funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków depozytariusza, chyba że przepisy prawa państwa macierzystego funduszu przejmowanego stanowią inaczej, i informują o tym towarzystwo.
-Art. 208zw. 1. Niezwłocznie po dniu połączenia towarzystwo będące organem funduszu przejmowanego składa do sądu rejestrowego wniosek o wykreślenie tego funduszu z rejestru funduszy inwestycyjnych.
-2. Do wniosku, o którym mowa w ust. 1, towarzystwo załącza:
-1) zgodę Komisji na połączenie transgraniczne przez przejęcie funduszu zagranicznego;
-2) opinię, o której mowa w art. 208zt ust. 1.
-3. Sąd rejestrowy rozpoznaje sprawę w terminie 14 dni od dnia złożenia wniosku lub jego uzupełnienia.
-Art. 208zy. Sprawozdanie finansowe krajowego funduszu przejmowanego sporządza się na dzień poprzedzający dzień przydziału. Sprawozdanie publikowane jest niezwłocznie na stronach internetowych wskazanych w statucie tego funduszu i przekazywane Komisji.
-Art. 208zz. 1. O ile nic innego nie wynika z przepisów niniejszego oddziału, do połączenia transgranicznego przez utworzenie funduszu krajowego stosuje się odpowiednio przepisy o połączeniu krajowym przez utworzenie funduszu krajowego oraz przepisy o utworzeniu funduszu inwestycyjnego otwartego.
-2. W odniesieniu do krajowego funduszu przejmowanego biorącego udział w połączeniu, zgoda Komisji na połączenie funduszy, o której mowa w art. 208i ust. 1 pkt 2, oraz zgoda zgromadzenia uczestników, o której mowa w art. 208i ust. 1 pkt 4, są udzielane na połączenie transgraniczne przez utworzenie funduszu krajowego.
-3. Połączenie transgraniczne przez utworzenie funduszu krajowego wymaga uzyskania zezwolenia Komisji na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, zgodnie z przepisami art. 22 i art. 23. Jeżeli w połączeniu transgranicznym przez utworzenie funduszu krajowego bierze udział krajowy fundusz przejmowany, zezwolenie to powinno być uzyskane przed uzyskaniem przez ten fundusz zgody Komisji zgodnie z ust. 2. Plan połączenia sporządza się niezwłocznie po uzyskaniu zezwolenia.
-Art. 208zza. 1. W statucie funduszu inwestycyjnego, który ma być funduszem przejmującym, załączanym do wniosku o wydanie zezwolenia na utworzenie funduszu inwestycyjnego, wskazuje się, że fundusz powstanie na skutek połączenia transgranicznego przez utworzenie funduszu krajowego.
-2. Do funduszu przejmującego nie stosuje się przepisów art. 15 ust. 3 oraz art. 26–30. Wpłaty do funduszu przejmującego są zbierane w drodze wniesienia aktywów funduszy przejmowanych.
-3. Towarzystwo informuje fundusz przejmowany o uzyskaniu zezwolenia na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, niezwłocznie po jego doręczeniu.
-Art. 208zzb. 1. Zezwolenie na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, wygasa, jeżeli w terminie 6 miesięcy od dnia jego doręczenia, towarzystwo nie złoży wniosku o wpisanie tego funduszu do rejestru funduszy inwestycyjnych w związku z połączeniem.
-2. Zezwolenie nie wygasa zgodnie z ust. 1, jeżeli w terminie 3 miesięcy od dnia powzięcia przez towarzystwo informacji o:
-1) odmowie udzielenia zagranicznemu funduszowi przejmowanemu, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, zgody na połączenie przez właściwe organy jego państwa macierzystego,
-2) odmowie udzielenia krajowemu funduszowi przejmowanemu, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, zgody Komisji na połączenie transgraniczne przez utworzenie funduszu krajowego,
-3) braku zgody właściwego organu zagranicznego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie to nie dojdzie do skutku, jeżeli zgoda taka jest wymagana przez prawo jego państwa macierzystego,
-4) podjęciu przez zgromadzenie uczestników krajowego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, uchwały o niewyrażeniu zgody na połączenie,
-5) nieodbyciu się ważnego zgromadzenia uczestników krajowego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, chyba że w terminie określonym w ust. 1 jest możliwe zwołanie kolejnego zgromadzenia uczestników tego funduszu przejmowanego – towarzystwo zmieni statut funduszu w zakresie, o którym mowa w art. 208zza ust. 1, dokona w prospekcie informacyjnym funduszu zmian niezbędnych do przeprowadzenia zapisów na jednostki uczestnictwa funduszu, przeprowadzi zapisy na jednostki uczestnictwa, dokona ich przydziału oraz złoży wniosek o wpisanie funduszu do rejestru funduszy inwestycyjnych. W takim przypadku art. 26 ust. 2–3, art. 27–29 i art. 30 ust. 1 i 3 stosuje się odpowiednio.
-Art. 208zzc. Plan połączenia zawiera dodatkowo:
-1) wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych jednostek uczestnictwa funduszu przejmującego;
-2) wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego;
-3) statut, prospekt informacyjny funduszu przejmującego oraz:
-a) kluczowe informacje – w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo
-b) kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
-c) kluczowe informacje dla inwestorów – w przypadku zbywania przez ten fundusz jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów.
-Art. 208zzd. 1. Połączenie transgraniczne przez utworzenie funduszu krajowego dochodzi do skutku pod warunkiem uzyskania przez co najmniej:
-1) dwa zagraniczne fundusze przejmowane zgody właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie oraz, jeżeli jest to wymagane przez prawo państwa macierzystego danego funduszu – zgody właściwych organów tego funduszu na połączenie albo
-2) jeden:
-a) zagraniczny fundusz przejmowany zgody właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie oraz, jeżeli jest to wymagane przez prawo jego państwa macierzystego – zgody właściwych organów tego funduszu na połączenie oraz
-b) krajowy fundusz przejmowany zgody Komisji na połączenie transgraniczne przez utworzenie funduszu krajowego oraz zgody zgromadzenia uczestników na połączenie transgraniczne przez utworzenie funduszu krajowego.
-2. Plan połączenia może przewidywać, że do skuteczności połączenia wymagane jest uzyskanie zgód, o których mowa w ust. 1 pkt 1, przez więcej niż dwa fundusze zagraniczne lub zgód, o których mowa w ust. 1 pkt 2, przez więcej niż jeden fundusz zagraniczny lub więcej niż jeden krajowy fundusz przejmowany.
-Art. 208zze. 1. Fundusz przejmowany jest obowiązany niezwłocznie poinformować towarzystwo, które uzyskało zezwolenie na utworzenie funduszu, który ma być funduszem przejmującym, o tym, że:
-1) właściwe organy funduszu przejmowanego wyraziły zgodę na połączenie albo zgoda taka nie została udzielona – w przypadku zagranicznego funduszu przejmowanego, jeżeli zgoda taka jest wymagana przez prawo państwa macierzystego tego funduszu;
-2) nie odbyło się ważne zgromadzenie uczestników funduszu przejmowanego albo zgromadzenie to podjęło uchwałę o wyrażeniu zgody na połączenie albo o niewyrażeniu takiej zgody – w przypadku funduszu przejmowanego będącego funduszem krajowym.
-2. Komisja informuje towarzystwo, które uzyskało zezwolenie na utworzenie funduszu, który ma być funduszem przejmującym, o udzieleniu zagranicznemu funduszowi przejmowanemu przez właściwe organy jego państwa macierzystego zgody na połączenie albo o odmowie jej udzielenia oraz o udzieleniu krajowemu funduszowi przejmowanemu zgody na połączenie transgraniczne przez utworzenie funduszu krajowego albo odmowie jej udzielenia.
-Art. 208zzf. 1. Niezwłocznie po dokonaniu przydziału firma audytorska badająca sprawozdania finansowe funduszu przejmującego albo funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
-1) ostatecznej wyceny aktywów oraz
-2) obliczenia stosunku wymiany.
-2. Towarzystwo, które uzyskało zezwolenie na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, oraz fundusz przejmowany będący funduszem krajowym niezwłocznie publikują opinię, o której mowa w ust. 1, na stronach internetowych wskazanych w statutach funduszu. Fundusz przejmowany bezpłatnie udostępnia opinię swoim uczestnikom, a towarzystwo, które uzyskało zezwolenie na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, niezwłocznie przekazuje ją Komisji.
-Art. 208zzg. Niezwłocznie po dniu połączenia depozytariusz każdego funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków depozytariusza, chyba że przepisy prawa państwa macierzystego funduszu przejmowanego stanowią inaczej, i informują o tym towarzystwo.
-Art. 208zzh. Sprawozdanie finansowe krajowego funduszu przejmowanego sporządza się na dzień poprzedzający dzień przydziału. Sprawozdanie publikowane jest niezwłocznie na stronach internetowych wskazanych w statucie tego funduszu i przekazywane Komisji.
-Art. 208zzi. 1. Fundusze inwestycyjne zamknięte, o których mowa w art. 15 ust. 1a, których organem jest to samo towarzystwo, mogą się ze sobą łączyć.
-2. Połączenie, o którym mowa w ust. 1, następuje przez:
-1) przeniesienie majątku funduszu przejmowanego do istniejącego funduszu przejmującego oraz przydzielenie uczestnikom funduszu przejmowanego certyfikatów inwestycyjnych funduszu przejmującego w zamian za certyfikaty inwestycyjne funduszu przejmowanego;
-2) utworzenie przez towarzystwo będące organem łączonych funduszy funduszu, o którym mowa w art. 15 ust. 1a, do którego wniesiony zostaje majątek dwóch lub więcej funduszy przejmowanych w zamian za przydzielenie uczestnikom funduszy przejmowanych certyfikatów inwestycyjnych nowo tworzonego funduszu.
-3. Przez fundusz przejmowany rozumie się fundusz, o którym mowa w art. 15 ust. 1a, którego majątek jest wnoszony do innego istniejącego lub do nowo tworzonego funduszu, w zamian za przydzielenie uczestnikom tego funduszu certyfikatów inwestycyjnych funduszu, do którego jest wnoszony ten majątek.
-4. Przez fundusz przejmujący rozumie się istniejący lub nowo tworzony fundusz, o którym mowa w art. 15 ust. 1a, do którego wnoszony jest majątek:
-1) funduszu przejmowanego – w przypadku, o którym mowa w ust. 2 pkt 1;
-2) dwóch lub więcej funduszy przejmowanych – w przypadku, o którym mowa w ust. 2 pkt 2.
-4a. Fundusz może brać udział w połączeniu, o którym mowa w ust. 1, jeżeli struktura jego portfela inwestycyjnego została dostosowana do wymagań określonych w ustawie i statucie funduszu.
-4b. W przypadku gdy zgodnie z ostatnimi wycenami aktywów funduszu przejmowanego i funduszu przejmującego, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego co najmniej jednego z tych funduszy nie była dostosowana do wymagań określonych w ustawie i statucie funduszu, połączenie, o którym mowa w ust. 2 pkt 1, może nastąpić, jeżeli według stanu na dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych struktura portfela inwestycyjnego funduszu przejmującego będzie dostosowana do wymagań określonych w ustawie i statucie funduszu.
-4c. W przypadku gdy zgodnie z ostatnimi wycenami aktywów każdego z łączących się funduszy, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego co najmniej jednego z tych funduszy nie była dostosowana do wymagań określonych w ustawie i statucie funduszu, połączenie, o którym mowa w ust. 2 pkt 2, może nastąpić, jeżeli według stanu na dzień wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych struktura portfela inwestycyjnego nowo tworzonego funduszu będzie dostosowana do wymagań określonych w ustawie i statucie funduszu.
-5. W połączeniu, o którym mowa w ust. 1, nie mogą brać udziału subfundusze wydzielone w funduszach, o których mowa w art. 15 ust. 1a, ani fundusze z wydzielonymi subfunduszami.
-6. Połączenie, o którym mowa w ust. 1, wymaga sporządzenia planu połączenia.
-7. Połączenie, o którym mowa w ust. 1, może nastąpić wyłącznie za uprzednio wyrażoną zgodą w formie uchwały zgromadzenia inwestorów:
-1) w przypadku, o którym mowa w ust. 2 pkt 1 – w funduszu przejmowanym i funduszu przejmującym;
-2) w przypadku, o którym mowa w ust. 2 pkt 2 – w funduszu przejmowanym.
-8. Zgoda, o której mowa w ust. 7, jest udzielana, jeżeli głosy za połączeniem oddali uczestnicy reprezentujący łącznie więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych danego funduszu.
-9. Jeżeli w głosowaniu, o którym mowa w ust. 8, głosy oddali uczestnicy reprezentujący nie więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych danego funduszu i nie wymaga to zmiany planu połączenia, towarzystwo może zwołać kolejne zgromadzenie inwestorów tego funduszu w celu uzyskania zgody zgromadzenia inwestorów na połączenie, co najmniej na 10 dni przed planowanym terminem ponownego zgromadzenia inwestorów. Zwołanie kolejnego zgromadzenia inwestorów wymaga przekazania przez towarzystwo zawiadomienia, o którym mowa w art. 208zzk ust. 1 pkt 1, zmienionego w zakresie, o którym mowa w art. 208zzk ust.
-3. Do kolejnego zgromadzenia inwestorów stosuje się przepis art. 208zzk ust. 8.
-10. Kolejnego zgromadzenia inwestorów w celu wyrażenia zgody zgromadzenia inwestorów na połączenie nie zwołuje się w przypadku, gdy uchwała zgromadzenia inwestorów innego z funduszy objętych planem połączenia nie uzyskała wymaganej większości, a w głosowaniu, o którym mowa w ust. 8, głosy oddali uczestnicy reprezentujący więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych tego funduszu.
-11. W przypadku gdy pomimo dwukrotnie prawidłowo zwołanego zgromadzenia inwestorów w głosowaniu, o którym mowa w ust. 8, głosy oddali uczestnicy reprezentujący nie więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych danego funduszu, zgoda, o której mowa w ust. 7, jest udzielana, jeżeli głosy za połączeniem oddała więcej niż połowa uczestników obecnych lub reprezentowanych podczas każdego głosowania.
-Art. 208zzj. 1. Plan połączenia sporządzają i podpisują:
-1) fundusz przejmowany i fundusz przejmujący – w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1;
-2) fundusze przejmowane i towarzystwo, w imieniu funduszu przejmującego – w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2.
-2. Plan połączenia zawiera:
-1) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1 – wskazanie funduszu przejmowanego i funduszu przejmującego;
-2) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2 – wskazanie funduszy przejmowanych;
-3) wskazanie przyczyn i celu połączenia funduszy;
-4) analizę skutków połączenia dla możliwości prowadzenia przez fundusz przejmujący działalności zgodnie z przepisami ustawy i statutu oraz dla uczestników wszystkich funduszy biorących udział w połączeniu, w tym możliwości realizacji uprawnień uczestników wynikających z ustawy lub statutu funduszu;
-5) wskazanie metod i zasad dokonywania wyceny aktywów oraz ustalania wartości aktywów netto funduszy;
-6) wskazanie:
-a) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1 – metody obliczenia stosunku liczby certyfikatów inwestycyjnych, które zostaną przydzielone uczestnikowi w funduszu przejmującym, w stosunku do liczby certyfikatów inwestycyjnych posiadanych przez uczestnika w funduszu przejmowanym,
-b) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2 – początkowej wartości aktywów netto na certyfikat inwestycyjny funduszu przejmującego;
-7) wskazanie planowanego terminu połączenia;
-8) oświadczenia podmiotów określonych w ust. 1, z których wynika, że:
-a) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1: – zgodnie z ostatnimi wycenami aktywów funduszu przejmowanego i funduszu przejmującego, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego każdego z tych funduszy została dostosowana do wymagań określonych w ustawie i statucie funduszu – w przypadku, o którym mowa w art. 208zzi ust. 4a, – struktura portfela inwestycyjnego funduszu przejmującego będzie dostosowana do wymagań określonych w ustawie i statucie funduszu według stanu na dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych – w przypadku, o którym mowa w art. 208zzi ust. 4b,
-b) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2: – zgodnie z ostatnimi wycenami aktywów każdego z łączących się funduszy, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego każdego z tych funduszy została dostosowana do wymagań określonych w ustawie i statucie funduszu – w przypadku, o którym mowa w art. 208zzi ust. 4a, – struktura portfela inwestycyjnego nowo tworzonego funduszu będzie dostosowana do wymagań określonych w ustawie i statucie funduszu według stanu na dzień wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych – w przypadku, o którym mowa w art. 208zzi ust. 4c.
-3. Plan połączenia podlega badaniu przez biegłego rewidenta w zakresie poprawności i rzetelności.
-Art. 208zzk. 1. Nie później niż na 90 dni przed planowanym terminem połączenia towarzystwo:
-1) zawiadamia, na papierze lub innym trwałym nośniku informacji, uczestników funduszu przejmowanego, a w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1, także uczestników funduszu przejmującego, o planowanym połączeniu;
-2) udostępnia uczestnikom funduszy biorących udział w połączeniu zbadany przez biegłego rewidenta plan połączenia oraz:
-a) statuty funduszy biorących udział w połączeniu – w przypadku, o którym mowa w art. 208zzi ust. 2 pkt 1,
-b) statuty funduszy przejmowanych oraz projekt statutu funduszu przejmującego – w przypadku, o którym mowa w art. 208zzi ust. 2 pkt 2,
-c) ostatnie zbadane przez biegłego rewidenta sprawozdanie finansowe funduszy;
-3) zwołuje zgromadzenie inwestorów funduszu przejmowanego, a w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1, także zgromadzenie inwestorów funduszu przejmującego, w celu uzyskania zgody zgromadzenia inwestorów na połączenie.
-2. Zawiadomienie, o którym mowa w ust. 1 pkt 1, jest wysyłane wraz z zawiadomieniem o zwołaniu zgromadzenia inwestorów w sposób określony dla zawiadomienia o zwołaniu zgromadzenia inwestorów.
-3. Zawiadomienie, o którym mowa w ust. 1 pkt 1, zawiera:
-1) wskazanie dnia, do którego uczestnicy funduszu przejmowanego, a w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1, także uczestnicy funduszu przejmującego, mają prawo zażądać wykupu certyfikatów inwestycyjnych funduszu, o ile statut funduszu przewiduje wykup certyfikatów inwestycyjnych;
-2) wskazanie dnia przydziału certyfikatów inwestycyjnych funduszu przejmującego.
-4. W przypadku wykupu, o którym mowa w ust. 3 pkt 1:
-1) nie stosuje się warunków wykupywania certyfikatów inwestycyjnych, określonych w statucie funduszu;
-2) nie pobiera się opłat manipulacyjnych.
-5. Wykup certyfikatów inwestycyjnych, o którym mowa w ust. 3 pkt 1, następuje w dniu wyceny, o którym mowa w art. 208zzm ust. 3.
-6. Dzień, o którym mowa w ust. 3 pkt 1, do którego uczestnicy mają prawo żądać wykupu certyfikatów inwestycyjnych, należy wyznaczyć nie wcześniej niż 14. dnia po zgromadzeniu inwestorów, o którym mowa w art. 208zzi ust. 7, a w przypadku, o którym mowa w art. 208zzi ust. 9, nie wcześniej niż 10. dnia po zgromadzeniu inwestorów, o którym mowa w tym przepisie, i nie później niż w dniu poprzedzającym dzień wyceny, o którym mowa w art. 208zzm ust. 3.
-7. Jeżeli statut funduszu, o którym mowa w art. 15 ust. 1a, nie przewiduje działania zgromadzenia inwestorów, towarzystwo jest obowiązane do dokonania zmiany statutu funduszu w zakresie dotyczącym wprowadzenia zgromadzenia inwestorów w celu wyrażenia zgody na połączenie funduszy.
-8. Zgromadzenie inwestorów odbywa się nie wcześniej niż 60 dni przed planowanym terminem połączenia.
-9. Niezwłocznie po podjęciu przez zgromadzenie inwestorów wszystkich funduszy objętych planem połączenia uchwały o wyrażeniu zgody na połączenie towarzystwo zgłasza do sądu rejestrowego planowane połączenie funduszy w celu wpisania do rejestru wzmianki o takiej uchwale. Zgłoszenie zawiera zaprotokołowaną przez notariusza uchwałę zgromadzenia inwestorów o wyrażeniu zgody na połączenie.
-10. Dniem połączenia jest:
-1) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1 – dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych;
-2) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2 – dzień wpisania funduszu przejmującego do rejestru funduszy inwestycyjnych.
-11. Po dniu połączenia:
-1) niedopuszczalne jest stwierdzenie nieważności uchwały zgromadzenia inwestorów o wyrażeniu zgody na połączenie;
-2) postępowanie w przedmiocie zaskarżenia uchwały zgromadzenia inwestorów o wyrażeniu zgody na połączenie umarza się.
-Art. 208zzl. 1. W przypadku gdy statut funduszu biorącego udział w połączeniu przewiduje wypłatę dochodów funduszu lub przychodów ze zbycia lokat funduszu, wypłata może nastąpić nie później niż w dniu poprzedzającym dzień wyceny, o którym mowa w art. 208zzm ust. 3.
-2. Od dnia wyceny, o którym mowa w art. 208zzm ust. 3, do dnia połączenia fundusze biorące udział w połączeniu nie emitują certyfikatów inwestycyjnych ani nie przeprowadzają wykupów certyfikatów.
-Art. 208zzm. 1. Przed połączeniem funduszy, o których mowa w art. 15 ust. 1a, towarzystwo obowiązane jest uzyskać oświadczenie biegłego rewidenta o prawidłowości wyceny aktywów i ustaleniu stosunku liczby certyfikatów inwestycyjnych, które zostaną przydzielone uczestnikowi w funduszu przejmującym, w stosunku do liczby certyfikatów inwestycyjnych posiadanych przez uczestnika w funduszu przejmowanym.
-2. Oświadczenie, o którym mowa w ust. 1, niezwłocznie udostępniane jest uczestnikom funduszy biorących udział w połączeniu.
-3. Do ustalenia stosunku certyfikatów inwestycyjnych w funduszu przejmującym do certyfikatów inwestycyjnych w funduszu przejmowanym stosuje się wycenę aktywów dokonaną w funduszu przejmującym i funduszu przejmowanym na 30 dni przed planowanym terminem połączenia.
-Art. 208zzn. 1. Od dnia przydziału, o którym mowa w art. 208zzk ust. 3 pkt 2, wartość aktywów netto funduszu przejmującego oraz wartość aktywów netto przypadającą na certyfikat inwestycyjny funduszu przejmującego ustala się z uwzględnieniem aktywów i zobowiązań funduszu przejmowanego.
-2. Przy dokonywaniu przydziału, o którym mowa w ust. 1, nie pobiera się opłat manipulacyjnych.
-3. W przypadku gdy przydzielona uczestnikowi liczba certyfikatów nie byłaby liczbą całkowitą, fundusz przejmujący zwraca uczestnikowi w środkach pieniężnych kwotę wynikającą z iloczynu nadwyżki ponad całkowitą liczbę certyfikatów oraz wartości aktywów netto funduszu przypadających na certyfikat inwestycyjny. Zwrot kwoty następuje w terminie 30 dni od dnia przydziału certyfikatów.
-Art. 208zzo. 1. W przypadku, o którym mowa w art. 208zzi ust. 4a:
-1) fundusz przejmujący jest obowiązany dostosować strukturę portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu w terminie 12 miesięcy od dnia wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych – w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1;
-2) nowo tworzony fundusz jest obowiązany dostosować strukturę portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu w terminie, o którym mowa w art. 157 ust. 3 – w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2.
-2. Fundusz przejmujący – w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 1 pkt 1, a nowo tworzony fundusz – w terminie 14 dni od dnia upływu terminu, o którym mowa w art. 157 ust. 3, jest obowiązany przekazać Komisji oświadczenie o dostosowaniu albo niedostosowaniu struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu.
-3. Do oświadczenia, o którym mowa w ust. 2, załącza się informację na temat struktury portfela inwestycyjnego funduszu przejmującego albo nowo tworzonego funduszu, a w przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu – również informację o przyczynach takiego niedostosowania.
-4. W przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu Komisja wzywa towarzystwo do usunięcia tej nieprawidłowości i wyznacza funduszowi w tym celu odpowiedni termin, biorąc pod uwagę aktualną strukturę portfela inwestycyjnego funduszu oraz przyczyny niedostosowania wskazane w informacjach, o których mowa w ust. 3.
-5. W przypadku nieusunięcia nieprawidłowości w terminie określonym w wezwaniu Komisja może nałożyć na towarzystwo karę pieniężną, o której mowa w art. 228 ust. 1c pkt 3.
-Art. 208zzoa. 1. W przypadku, o którym mowa w art. 208zzi ust. 4b, fundusz przejmujący jest obowiązany posiadać strukturę portfela inwestycyjnego zgodną z wymaganiami określonymi w ustawie i statucie funduszu według stanu na dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych.
-2. W przypadku, o którym mowa w art. 208zzi ust. 4c, nowo tworzony fundusz jest obowiązany posiadać strukturę portfela inwestycyjnego zgodną z wymaganiami określonymi w ustawie i statucie funduszu według stanu na dzień wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych.
-3. Fundusz przejmujący – w terminie 14 dni od dnia wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych, a nowo tworzony fundusz – w terminie 14 dni od dnia wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych, jest obowiązany przekazać Komisji oświadczenie o dostosowaniu albo niedostosowaniu struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu.
-4. Do oświadczenia, o którym mowa w ust. 3, załącza się informację na temat struktury portfela inwestycyjnego funduszu przejmującego albo nowo tworzonego funduszu, a w przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu – również informację o przyczynach takiego niedostosowania.
-5. W przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu Komisja wzywa towarzystwo do usunięcia tej nieprawidłowości i wyznacza funduszowi w tym celu odpowiedni termin, biorąc pod uwagę aktualną strukturę portfela inwestycyjnego funduszu oraz przyczyny niedostosowania wskazane w informacjach, o których mowa w ust. 4.
-6. W przypadku nieusunięcia nieprawidłowości w terminie określonym w wezwaniu Komisja może nałożyć na towarzystwo karę pieniężną, o której mowa w art. 228 ust. 1c pkt 3.
-Art. 208zzp. 1. Towarzystwo składa do sądu wniosek o wykreślenie funduszu przejmowanego z rejestru funduszy inwestycyjnych.
-2. Sąd rejestrowy rozpoznaje sprawę w terminie 14 dni od dnia złożenia wniosku albo jego uzupełnienia.
-3. Towarzystwo informuje Komisję o wykreśleniu funduszu przejmowanego z rejestru funduszy inwestycyjnych.
-Art. 208zzq. Z dniem wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych:
-1) fundusz przejmujący wstępuje w prawa i obowiązki funduszu przejmowanego;
-2) wygasają zezwolenia i zgody udzielone funduszowi w związku z prowadzoną działalnością.
-Art. 208zzr. 1. W przypadku, o którym mowa w art. 208zzi ust. 2 pkt 2, stosuje się odpowiednio przepisy o utworzeniu funduszu, o którym mowa w art. 15 ust. 1a.
-2. Do funduszu przejmującego nie stosuje się przepisów art. 15 ust. 3 oraz art. 26–30.
-3. Wpłaty do funduszu inwestycyjnego przejmującego są zbierane w drodze wniesienia aktywów funduszy przejmowanych.
-Art. 208zzs. Depozytariusz funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków określonych w art. 72, niezwłocznie po dniu, o którym mowa w art. 208zzq.
-Art. 208zzt. 1. Koszty związane z przygotowaniem i przeprowadzeniem połączenia funduszy ponosi wyłącznie towarzystwo.
-2. Towarzystwo ponosi odpowiedzialność wobec uczestników zarządzanego przez siebie funduszu inwestycyjnego za szkodę wyrządzoną połączeniem funduszy.
-2. Dokumenty, o których mowa w art. 46d ust. 1, 3 i 4, są opatrywane następującymi metadanymi:
-1) firmą towarzystwa, którego dotyczą informacje;
-2) identyfikatorem podmiotu prawnego towarzystwa, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-3) kategorią wielkości towarzystwa, którego dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-4) rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-5) wskazaniem, czy informacje zawierają dane osobowe;
-6) metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE.
-3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, towarzystwo występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
-4. Komisja udostępnia dokumenty, o których mowa w art. 46d ust. 1, 3 i 4, w europejskim pojedynczym punkcie dostępu.
-Art. 300–319. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -2570,7 +2218,11 @@ Art. 300–319. (pominięte)
 
 1. Polityka inwestycyjna alternatywnej spółki inwestycyjnej określa sposób lokowania jej aktywów.
 
-2. Polityka inwestycyjna oraz strategie inwestycyjne są określane w dokumentach założycielskich alternatywnej spółki inwestycyjnej oraz w dokumentach, w tym regulaminach, przyjętych przez zarządzającego ASI dotyczących działalności prowadzonej przez alternatywną spółkę inwestycyjną, zwanych dalej „regulacjami wewnętrznymi ASI”. Art. 70ba. 1. Zarządzający ASI, który zarządza alternatywną spółką inwestycyjną lokującą aktywa w dopuszczone do obrotu na rynku regulowanym akcje spółek, opracowuje i publikuje politykę dotyczącą zaangażowania, która opisuje, w jaki sposób zaangażowanie akcjonariuszy takich spółek jest przez alternatywną spółkę inwestycyjną uwzględniane w jej strategii inwestycyjnej.
+2. Polityka inwestycyjna oraz strategie inwestycyjne są określane w dokumentach założycielskich alternatywnej spółki inwestycyjnej oraz w dokumentach, w tym regulaminach, przyjętych przez zarządzającego ASI dotyczących działalności prowadzonej przez alternatywną spółkę inwestycyjną, zwanych dalej „regulacjami wewnętrznymi ASI”.
+
+**Art. 70ba.**
+
+1. Zarządzający ASI, który zarządza alternatywną spółką inwestycyjną lokującą aktywa w dopuszczone do obrotu na rynku regulowanym akcje spółek, opracowuje i publikuje politykę dotyczącą zaangażowania, która opisuje, w jaki sposób zaangażowanie akcjonariuszy takich spółek jest przez alternatywną spółkę inwestycyjną uwzględniane w jej strategii inwestycyjnej.
 
 2. Polityka, o której mowa w ust. 1, zawiera opis sposobów:
 
@@ -2589,7 +2241,13 @@ Art. 300–319. (pominięte)
 
 4. W przypadku gdy zarządzający ASI nie opracowuje lub nie publikuje polityki, o której mowa w ust. 1, lub sprawozdania, o którym mowa w ust. 3, publikuje wyjaśnienie powodów ich nieopracowania lub nieopublikowania.
 
-5. Sprawozdanie, o którym mowa w ust. 3, może nie obejmować głosowań, które są mało istotne ze względu na ich przedmiot lub wielkość udziału alternatywnej spółki inwestycyjnej w spółce, o której mowa w ust. 1. Art. 70bb. Polityka, sprawozdanie oraz wyjaśnienia, o których mowa w art. 70ba ust. 1, 3 i 4, są publikowane na stronie internetowej zarządzającego ASI. Art. 70bc. 1. W przypadku gdy zarządzający ASI zarządza alternatywną spółką inwestycyjną, która:
+5. Sprawozdanie, o którym mowa w ust. 3, może nie obejmować głosowań, które są mało istotne ze względu na ich przedmiot lub wielkość udziału alternatywnej spółki inwestycyjnej w spółce, o której mowa w ust. 1.
+
+**Art. 70bb.** Polityka, sprawozdanie oraz wyjaśnienia, o których mowa w art. 70ba ust. 1, 3 i 4, są publikowane na stronie internetowej zarządzającego ASI.
+
+**Art. 70bc.**
+
+1. W przypadku gdy zarządzający ASI zarządza alternatywną spółką inwestycyjną, która:
 
 - **1)** na podstawie ustaleń z pracowniczym funduszem emerytalnym lokuje swoje aktywa w dopuszczone do obrotu na rynku regulowanym akcje spółek, i której prawa uczestnictwa posiada pracowniczy fundusz emerytalny,
 - **2)** na podstawie ustaleń z zakładem ubezpieczeń wykonującym działalność w zakresie ubezpieczeń, o których mowa w dziale I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, lub z zakładem reasekuracji wykonującym działalność w zakresie reasekuracji ubezpieczeń, o których mowa w dziale I załącznika do tej ustawy, lokuje swoje aktywa w dopuszczone do obrotu na rynku regulowanym akcje spółek, i której prawa uczestnictwa posiada taki zakład ubezpieczeń lub taki zakład reasekuracji – zarządzający ASI przekazuje corocznie, odpowiednio temu pracowniczemu funduszowi emerytalnemu, zakładowi ubezpieczeń lub zakładowi reasekuracji, informację dotyczącą zgodności przyjętej strategii inwestycyjnej i jej realizacji z ustaleniami, o których mowa w pkt 1 i 2, oraz sposobu, w jaki strategia ta i jej realizacja przyczyniają się do średnio- i długoterminowych wyników uzyskiwanych odpowiednio z aktywów pracowniczego funduszu emerytalnego, zakładu ubezpieczeń lub zakładu reasekuracji lub z aktywów alternatywnej spółki inwestycyjnej.
@@ -3078,13 +2736,202 @@ Art. 300–319. (pominięte)
 
 3. Przepisów art. 273 i art. 460 § 1 Kodeksu spółek handlowych nie stosuje się.
 
-**Art. 70z.** Zarządzający ASI przechowuje i archiwizuje dokumenty oraz inne nośniki informacji dotyczące alternatywnej spółki inwestycyjnej, którą zarządza. Przepisy art. 69 stosuje się odpowiednio, z tym że w przypadku wygaśnięcia lub cofnięcia zezwolenia na wykonywanie działalności przez zarządzającego ASI dokumenty oraz inne nośniki informacji dotyczące takiej spółki przechowuje i archiwizuje jej depozytariusz. Art. 70za. Zarządzający ASI mogą być członkami izby, o której mowa w art. 70, jeżeli statut izby tak stanowi. W takim przypadku zadania izby określone w art. 70 ust. 2 odnoszą się również do alternatywnych spółek inwestycyjnych i zarządzających ASI.
+**Art. 70z.** Zarządzający ASI przechowuje i archiwizuje dokumenty oraz inne nośniki informacji dotyczące alternatywnej spółki inwestycyjnej, którą zarządza. Przepisy art. 69 stosuje się odpowiednio, z tym że w przypadku wygaśnięcia lub cofnięcia zezwolenia na wykonywanie działalności przez zarządzającego ASI dokumenty oraz inne nośniki informacji dotyczące takiej spółki przechowuje i archiwizuje jej depozytariusz.
+
+**Art. 70za.** Zarządzający ASI mogą być członkami izby, o której mowa w art. 70, jeżeli statut izby tak stanowi. W takim przypadku zadania izby określone w art. 70 ust. 2 odnoszą się również do alternatywnych spółek inwestycyjnych i zarządzających ASI.
 
 #### Rozdział 3 Zarejestrowani zarządzający ASI
+
+**Art. 70zb.**
+
+1. Działalność określona w art. 70e ust. 1 nie wymaga uzyskania zezwolenia Komisji i może być wykonywana na podstawie wpisu do rejestru zarządzających ASI, jeżeli łączna wartość aktywów wchodzących w skład portfeli inwestycyjnych alternatywnych spółek inwestycyjnych, którymi zamierza zarządzać lub zarządza zarządzający ASI, nie przekracza, z uwzględnieniem art. 2 rozporządzenia 231/2013, wyrażonej w złotych równowartości kwoty 100 000 000 euro, a w przypadku gdy zarządzający ASI zarządza wyłącznie spółkami, które nie stosują dźwigni finansowej AFI i w których prawa uczestnictwa mogą być odkupione po co najmniej 5 latach od momentu ich nabycia – równowartości kwoty 500 000 000 euro.
+
+2. Równowartość w złotych kwot określonych w ust. 1 ustala się przy zastosowaniu średniego kursu ogłoszonego przez Narodowy Bank Polski na ostatni dzień roboczy poprzedzający:
+
+- **1)** dzień złożenia wniosku – w przypadku podmiotu ubiegającego się o wpis do rejestru zarządzających ASI;
+- **2)** dzień przyjęty jako dzień obliczenia łącznej wartości aktywów wchodzących w skład portfeli inwestycyjnych alternatywnych spółek inwestycyjnych, którymi zarządza – w przypadku zarządzającego ASI wpisanego do rejestru zarządzających ASI.
+
+3. Zarządzający ASI niezwłocznie informuje Komisję o przyjętym dniu obliczania łącznej wartości aktywów wchodzących w skład portfela inwestycyjnego alternatywnej spółki inwestycyjnej, którym zarządza, jak również o jego zmianie.
+
+4. Do zarządzającego ASI, który wykonuje działalność określoną w art. 70e ust. 1 bez zezwolenia Komisji, po uzyskaniu wpisu do rejestru zarządzających ASI nie stosuje się przepisów art. 70ba–70bd, art. 70d, art. 70f ust. 3–12, art. 70g–70j, art. 70l–70r oraz przepisów działów IIIb, IV i XII.
+
+5. Działalność określona w art. 70e ust. 1 może być wykonywana przez zarządzającego ASI, który spełnia warunki określone w ust. 1, na podstawie zezwolenia na wykonywanie działalności zarządzającego ASI, jeżeli wystąpi on o takie zezwolenie. W takim przypadku przepisu ust. 4 nie stosuje się.
+
+6. Rejestr zarządzających ASI prowadzi Komisja.
+
+**Art. 70zc.**
+
+1. Komisja dokonuje wpisu zarządzającego ASI do rejestru zarządzających ASI na wniosek:
+
+- **1)** spółki kapitałowej w organizacji – w przypadku gdy zamierza ona prowadzić działalność jako wewnętrznie zarządzający ASI;
+- **2)** spółki kapitałowej, która ma być komplementariuszem alternatywnej spółki inwestycyjnej, zgodnie z jej umową albo statutem, przed zgłoszeniem tej spółki do sądu rejestrowego – w przypadku gdy zamierza ona prowadzić działalność jako zewnętrznie zarządzający ASI.
+
+2. Do wniosku, o którym mowa w ust. 1, z uwzględnieniem art. 5 rozporządzenia 231/2013, załącza się:
+
+- **1)** statut lub umowę spółki;
+- **1a)** statut lub umowę alternatywnej spółki inwestycyjnej, którą wnioskodawca zamierza zarządzać;
+- **2)** odpis z rejestru przedsiębiorców – w przypadku spółki kapitałowej, o której mowa w art. 8b ust. 2 pkt 2;
+- **3)** dane osobowe członków zarządu lub rady nadzorczej wnioskodawcy, jak również innych osób, które odpowiadają za wykonywaną przez wnioskodawcę działalność lub nią kierują, wraz z odpisem informacji z Krajowego Rejestru Karnego;
+- **4)** opis alternatywnych spółek inwestycyjnych wraz ze wskazaniem nazw tych spółek, którymi wnioskodawca zamierza zarządzać, obejmujący:
+    - **a)** planowaną łączną wartość aktywów wchodzących w skład portfeli inwestycyjnych tych spółek,
+    - **b)** opis polityki inwestycyjnej oraz strategii inwestycyjnej każdej z tych spółek;
+
+- **5)** adres siedziby zarządzającego ASI;
+- **6)** informację o inwestorach alternatywnej spółki inwestycyjnej, wartości wniesionych przez nich wkładów, pochodzeniu środków na wniesienie wkładów, a także przeprowadzeniu weryfikacji tych osób jako klientów profesjonalnych.
+
+3. Komisja, w drodze decyzji, odmawia wpisu zarządzającego ASI do rejestru zarządzających ASI, w przypadku gdy:
+
+- **1)** wniosek lub załączone do niego dokumenty nie są zgodne pod względem treści z przepisami ust. 2 oraz art. 5 rozporządzenia 231/2013 lub ze stanem faktycznym albo wniosek został złożony przez podmiot nieuprawniony;
+- **2)** z analizy wniosku lub załączonych do niego dokumentów wynika, że wnioskodawca lub osoby, o których mowa w ust. 2 pkt 3, mogą wykonywać działalność z naruszeniem zasad uczciwego obrotu lub w sposób nienależycie zabezpieczający interes inwestorów alternatywnej spółki inwestycyjnej;
+- **3)** inwestorzy alternatywnej spółki inwestycyjnej nie spełniają kryteriów klienta profesjonalnego lub środki na wniesienie przez osobę fizyczną wkładu w przypadkach, o których mowa w art. 70k ust. 3, pochodzą z pożyczki, darowizny lub innej umowy o podobnym charakterze zawartej z alternatywną spółką inwestycyjną, zarządzającym ASI lub jednostką powiązaną z tymi podmiotami w rozumieniu przepisów ustawy o rachunkowości.
+
+4. Bieg terminów określonych w art. 169 i art. 325 § 1 Kodeksu spółek handlowych do zgłoszenia spółki do sądu rejestrowego ulega zawieszeniu na czas rozpatrywania wniosku, o którym mowa w ust. 1.
+
+**Art. 70zd.**
+
+1. Wpisowi do rejestru zarządzających ASI podlega:
+
+- **1)** firma (nazwa) i adres siedziby zarządzającego ASI;
+- **2)** w przypadku zewnętrznie zarządzającego ASI – firma (nazwa) i adres siedziby każdej zarządzanej przez niego alternatywnej spółki inwestycyjnej;
+- **3)** numer w Krajowym Rejestrze Sądowym zarządzającego ASI, a w przypadku zewnętrznie zarządzającego ASI – dodatkowo numer każdej zarządzanej przez niego alternatywnej spółki inwestycyjnej.
+
+2. Rejestr zarządzających ASI jest jawny.
+
+3. Zewnętrznie zarządzający ASI wpisany do rejestru zarządzających ASI zgłasza do tego rejestru każdą alternatywną spółkę inwestycyjną, którą zamierza zarządzać, przekazując Komisji informację o jej firmie (nazwie) i adresie siedziby wraz z opisem jej polityki inwestycyjnej oraz strategii inwestycyjnej albo oświadczeniem, że polityka ta oraz strategia są zgodne z opisem, o którym mowa w art. 70zc ust. 2 pkt 4 lit. b, a także statut lub umowę tej spółki.
+
+4. Zarządzający ASI wpisany do rejestru zarządzających ASI niezwłocznie informuje Komisję o zmianie danych określonych w ust. 1, w tym o zaprzestaniu zarządzania alternatywną spółką inwestycyjną wpisaną do tego rejestru, a w przypadku gdy jest ono związane z przejęciem zarządzania alternatywną spółką inwestycyjną przez inny podmiot – wskazuje równocześnie firmę (nazwę) i adres siedziby tego podmiotu.
+
+**Art. 70ze.**
+
+1. Zarządzający ASI wpisany do rejestru zarządzających ASI zapewnia, z uwzględnieniem art. 2 ust. 6 oraz art. 3 rozporządzenia 231/2013, monitorowanie łącznej wartości aktywów wchodzących w skład portfeli inwestycyjnych alternatywnych spółek inwestycyjnych, którymi zarządza, oraz jej obliczanie co najmniej raz na 12 miesięcy.
+
+2. W przypadku gdy łączna wartość aktywów, o której mowa w ust. 1, przekroczy próg określony w art. 70zb ust. 1 i przekroczenie to nie będzie miało charakteru tymczasowego, o którym mowa w art. 4 rozporządzenia 231/2013, zarządzający ASI:
+
+- **1)** niezwłocznie informuje Komisję o przekroczeniu;
+- **2)** w terminie 30 dni od dnia stwierdzenia przekroczenia:
+    - **a)** składa wniosek o zezwolenie na wykonywanie działalności przez zarządzającego ASI zgodnie z art. 70s albo
+    - **b)** zaprzestaje wykonywania działalności zarządzania alternatywnymi spółkami inwestycyjnymi i informuje o tym niezwłocznie Komisję, wskazując datę zaprzestania wykonywania tej działalności.
+
+3. W przypadku niezłożenia w terminie wniosku, o którym mowa w ust. 2 pkt 2 lit. a, Komisja wydaje decyzję o wykreśleniu zarządzającego ASI z rejestru zarządzających ASI.
+
+**Art. 70zf.**
+
+1. Komisja wykreśla zarządzającego ASI z rejestru zarządzających ASI z urzędu w przypadku:
+
+- **1)** ogłoszenia upadłości zarządzającego ASI lub otwarcia jego likwidacji;
+- **1a)** wykreślenia zarządzającego ASI z rejestru przedsiębiorców Krajowego Rejestru Sądowego;
+- **1b)** nieuiszczenia opłaty za wpis do rejestru zarządzających ASI, powiększonej o należne odsetki, w terminie 6 miesięcy od dnia doręczenia pisma informującego o wpisie do rejestru zarządzających ASI oraz wysokości związanej z tym opłaty;
+- **1c)** nieuiszczenia rocznej opłaty na pokrycie kosztów nadzoru nad rynkiem kapitałowym, o której mowa w art. 236 ust. 2g, powiększonej o należne odsetki, w terminie 6 miesięcy od dnia powstania obowiązku uiszczenia tej opłaty;
+- **1d)** nieprzekazania sprawozdania okresowego, o którym mowa w art. 222c ust. 1, uwzględniającego informacje określone w art. 222e ust. 1, w terminie 6 miesięcy od dnia upływu terminu na przekazanie tego sprawozdania;
+- **2)** niewykonywania działalności zarządzania ASI przez okres kolejnych 12 miesięcy;
+- **3)** wydania zgodnie z art. 70ze ust. 3 albo art. 229a ust. 2 ostatecznej decyzji o wykreśleniu zarządzającego ASI z rejestru zarządzających ASI;
+- **4)** uzyskania przez zarządzającego ASI zezwolenia na wykonywanie działalności przez zarządzającego ASI;
+- **5)** poinformowania Komisji przez zarządzającego ASI o zaprzestaniu wykonywania działalności zarządzania alternatywnymi spółkami inwestycyjnymi w związku z niemającym charakteru tymczasowego przekroczeniem progu, o którym mowa w art. 70ze ust. 2.
+
+2. Na wniosek zarządzającego ASI, który nie zarządza żadną alternatywną spółką inwestycyjną, Komisja wykreśla go z rejestru zarządzających ASI przed upływem terminu określonego w ust. 1 pkt 2.
+
+3. W przypadku wykreślenia zarządzającego ASI z rejestru zarządzających ASI zgodnie z ust. 1 pkt 1–3 przepisy art. 70x ust. 3 i 4 oraz art. 70y stosuje się odpowiednio.
+
+**Art. 70zg.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, sposób prowadzenia rejestru zarządzających ASI przez Komisję, w tym sposób dokonywania wpisów oraz tryb jego udostępniania, uwzględniając zapewnienie sprawności postępowania.
 
 #### Rozdział 4 (uchylony)
 
 ### DZIAŁ IIIB Przejęcie kontroli nad spółkami nienotowanymi na rynku regulowanym i notowanymi emitentami
+
+**Art. 70zj.**
+
+1. Przepisy niniejszego działu stosuje się w przypadku przejęcia przez fundusz kontroli nad spółką nienotowaną na rynku regulowanym lub notowanym emitentem, z wyjątkiem przejęcia kontroli nad:
+
+- **1)** mikroprzedsiębiorcą, małym przedsiębiorcą lub średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **2)** spółką celową specjalnego przeznaczenia, której przeważającym przedmiotem działalności jest nabywanie nieruchomości w celach inwestycyjnych i zarządzanie nimi.
+
+2. Przez użyte w niniejszym dziale określenia:
+
+- **1)** spółka nienotowana na rynku regulowanym – rozumie się spółkę, której papiery wartościowe nie są dopuszczone do obrotu na rynku regulowanym;
+- **2)** notowany emitent – rozumie się podmiot emitujący we własnym imieniu akcje lub inne papiery wartościowe o charakterze udziałowym dopuszczone do obrotu na rynku regulowanym;
+- **3)** fundusz – rozumie się specjalistyczny fundusz inwestycyjny otwarty, fundusz inwestycyjny zamknięty, alternatywną spółkę inwestycyjną oraz unijny AFI, które są zarządzane przez odpowiednio towarzystwo albo zarządzającego ASI;
+- **4)** porozumienie – rozumie się pisemne lub ustne porozumienie dotyczące nabywania, zbywania lub posiadania praw udziałowych w innym podmiocie, zgodnego wykonywania prawa głosu z posiadanych w nim praw udziałowych lub prowadzenia w nim trwałej polityki finansowej i operacyjnej;
+- **5)** kontrola – rozumie się w odniesieniu do:
+    - **a)** spółki nienotowanej na rynku regulowanym – posiadanie więcej niż 50 % ogólnej liczby głosów w takiej spółce,
+    - **b)** notowanego emitenta – bycie podmiotem dominującym wobec takiego emitenta;
+
+- **6)** przejęcie kontroli – rozumie się doprowadzenie do uzyskania kontroli:
+    - **a)** indywidualnie przez fundusz,
+    - **b)** wspólnie przez więcej niż jeden fundusz zarządzany przez to samo towarzystwo albo tego samego zarządzającego ASI, gdy fundusze te łączy porozumienie,
+    - **c)** przez fundusz na podstawie porozumienia między towarzystwem lub zarządzającym ASI, które nim zarządzają, i co najmniej jednym innym towarzystwem, zarządzającym ASI lub zarządzającym z UE.
+
+3. Do ustalenia udziału głosów, o którym mowa w ust. 2 pkt 5 lit. a, przyjmuje się wszystkie udziały, z którymi jest związane prawo głosu w spółce, znajdujące się w posiadaniu funduszu oraz podmiotu, nad którym sprawuje on kontrolę, lub podmiotów posiadających akcje w imieniu własnym, lecz na zlecenie lub na rzecz funduszu lub podmiotu, nad którym fundusz sprawuje kontrolę.
+
+**Art. 70zk.**
+
+1. Towarzystwo i zarządzający ASI każdorazowo zawiadamiają Komisję o osiągnięciu lub przekroczeniu przez zarządzany fundusz, który posiada, nabywa lub zbywa udziały lub akcje w spółce nienotowanej na rynku regulowanym, progu odpowiednio 10 %, 20 %, 30 %, 50 % lub 75 % głosów w ogólnej liczbie głosów w tej spółce oraz o obniżeniu udziału w ogólnej liczbie głosów poniżej tych progów.
+
+2. Zawiadomienie, o którym mowa w ust. 1, składa się niezwłocznie, nie później jednak niż w terminie 10 dni roboczych od dnia, w którym towarzystwo albo zarządzający ASI dowiedzieli się o zmianie udziału w ogólnej liczbie głosów.
+
+**Art. 70zl.**
+
+1. O przejęciu przez fundusz kontroli nad spółką nienotowaną na rynku regulowanym towarzystwo albo zarządzający ASI, którzy zarządzają tym funduszem, zawiadamiają w terminie 10 dni roboczych od dnia przejęcia kontroli:
+
+- **1)** Komisję;
+- **2)** spółkę nienotowaną na rynku regulowanym, nad którą fundusz przejął kontrolę;
+- **3)** wspólników lub akcjonariuszy spółki nienotowanej na rynku regulowanym, nad którą fundusz przejął kontrolę – w zakresie, w jakim dane o nich są dostępne towarzystwu albo zarządzającemu ASI.
+
+2. Zawiadomienie, o którym mowa w ust. 1, zawiera:
+
+- **1)** informacje o liczbie udziałów w kapitale zakładowym spółki nienotowanej na rynku regulowanym posiadanych po przejęciu kontroli oraz o liczbie głosów wynikającej z posiadania akcji lub udziałów i ich procentowym udziale w ogólnej liczbie głosów;
+- **2)** informacje o warunkach, na jakich przejęto kontrolę, w tym informacje o podmiotach, które w wyniku czynności prawnej dokonanej z przejmującym kontrolę będą uprawnione do wykonywania prawa głosu w spółce nienotowanej na rynku regulowanym;
+- **3)** datę przejęcia kontroli;
+- **4)** dane o towarzystwie albo zarządzającym ASI, które zarządzają funduszem przejmującym kontrolę;
+- **5)** opis sposobów zapobiegania powstawaniu konfliktów interesów pomiędzy towarzystwem, zarządzającym ASI oraz funduszem a spółką nienotowaną na rynku regulowanym albo wskazanie miejsca jego udostępnienia;
+- **6)** opis zasad udostępniania informacji spółce nienotowanej na rynku regulowanym oraz innym podmiotom albo wskazanie miejsca jego udostępnienia.
+
+3. Towarzystwo oraz zarządzający ASI, o których mowa w ust. 1, dodatkowo przekazują:
+
+- **1)** Komisji, w zawiadomieniu, o którym mowa w ust. 1, oraz uczestnikom albo inwestorom funduszu – informacje dotyczące źródeł pochodzenia środków finansowania działań, których skutkiem jest przejęcie kontroli;
+- **2)** spółce nienotowanej na rynku regulowanym i wspólnikom albo akcjonariuszom, o których mowa w ust. 1 pkt 2 i 3, w zawiadomieniu, o którym mowa w ust. 1 – informacje o zamiarach dotyczących dalszego prowadzenia działalności tej spółki, w tym informacje mające istotny wpływ na stan zatrudnienia oraz warunki pracy i płacy w tej spółce.
+
+4. Towarzystwo oraz zarządzający ASI występują w zawiadomieniu, o którym mowa w ust. 1, skierowanym do spółki nienotowanej na rynku regulowanym, nad którą fundusz przejął kontrolę, o niezwłoczne:
+
+- **1)** poinformowanie przedstawicieli pracowników spółki nienotowanej na rynku regulowanym, a w przypadku ich braku, pracowników tej spółki o przejęciu kontroli nad tą spółką,
+- **2)** przekazanie przedstawicielom pracowników spółki nienotowanej na rynku regulowanym, a w przypadku ich braku, pracownikom tej spółki informacji, o których mowa w ust. 2, i udostępnienie im informacji, o których mowa w ust. 3 pkt 2, o ile z odrębnych przepisów nie wynikają ograniczenia w tym zakresie – zgodnie z przepisami prawa pracy i w sposób przyjęty u danego pracodawcy.
+
+**Art. 70zm.**
+
+1. Towarzystwo albo zarządzający ASI, którzy zarządzają funduszem przejmującym kontrolę nad notowanym emitentem, niezwłocznie przekazują:
+
+- **1)** Komisji,
+- **2)** notowanemu emitentowi, nad którym fundusz przejął kontrolę,
+- **3)** wspólnikom albo akcjonariuszom notowanego emitenta, nad którym fundusz przejął kontrolę – w zakresie, w jakim dane o nich są dostępne towarzystwu lub zarządzającemu ASI – informacje związane z przejęciem kontroli.
+
+2. Informacje, o których mowa w ust. 1, obejmują:
+
+- **1)** dane o towarzystwie albo zarządzającym ASI, którzy zarządzają funduszem przejmującym kontrolę;
+- **2)** opis sposobów zapobiegania powstawaniu konfliktów interesów pomiędzy towarzystwem, zarządzającym ASI oraz funduszem a notowanym emitentem, albo wskazanie miejsca jego udostępnienia;
+- **3)** opis zasad udostępniania informacji notowanemu emitentowi oraz innym podmiotom albo wskazanie miejsca jego udostępnienia.
+
+3. Towarzystwo albo zarządzający ASI, przekazując notowanemu emitentowi informacje, o których mowa w ust. 1, występują o niezwłoczne przekazanie tych informacji pracownikom tego emitenta lub ich przedstawicielom, zgodnie z przepisami prawa pracy i w sposób przyjęty u danego pracodawcy, o ile z odrębnych przepisów nie wynikają ograniczenia w tym zakresie.
+
+4. Przepisów ust. 1–3 nie stosuje się do towarzystwa ani zarządzającego ASI, którzy zarządzają funduszem przejmującym kontrolę nad notowanym emitentem, w zakresie, w jakim informacje określone w ust. 2 zostały ujawnione wraz z zawiadomieniem składanym zgodnie z art. 69 ustawy o ofercie publicznej.
+
+**Art. 70zn.**
+
+1. Towarzystwo oraz zarządzający ASI, którzy zarządzają funduszem przejmującym kontrolę nad spółką nienotowaną na rynku regulowanym lub nad notowanym emitentem, są obowiązani, w okresie 24 miesięcy od dnia przejęcia kontroli, zapobiegać wyprzedaży aktywów odpowiednio tej spółki albo tego emitenta.
+
+2. Zapobieganie wyprzedaży aktywów, o którym mowa w ust. 1, obejmuje:
+
+- **1)** zakaz wykonywania praw z akcji lub udziałów w spółce nienotowanej na rynku regulowanym lub w notowanym emitencie oraz innych czynności prawnych, w sposób skutkujący bezpośrednio lub pośrednio dokonaniem:
+    - **a)** wypłat wynikających z prawa do udziału w zysku spółki nienotowanej na rynku regulowanym lub notowanego emitenta, w szczególności wypłat kwot wynikających z podziału zysku, odsetek od akcji, oraz zaliczek na poczet takich wypłat,
+    - **b)** obniżenia kapitału zakładowego, umorzenia udziałów lub akcji, nabycia udziałów lub akcji własnych spółki nienotowanej na rynku regulowanym lub notowanego emitenta,
+    - **c)** zwrotu dopłat, o których mowa w art. 179 § 1 Kodeksu spółek handlowych, w przypadku spółki z ograniczoną odpowiedzialnością;
+
+- **2)** obowiązek podejmowania z zachowaniem należytej staranności działań mających na celu zapobieżenie skutkom określonym w pkt 1.
+
+3. Ograniczenia, o których mowa w ust. 2, nie dotyczą:
+
+- **1)** wypłat, o których mowa w ust. 2 pkt 1 lit. a, dokonywanych przez spółkę nienotowaną na rynku regulowanym lub notowanego emitenta – w kwocie przekraczającej wartość różnicy między wartością aktywów netto z ostatniego rocznego sprawozdania finansowego tej spółki lub tego emitenta a wartością stanowiącą sumę wartości wpłaconej części kapitału zakładowego oraz wartości kapitału zapasowego i kapitałów rezerwowych, w zakresie, w jakim ustawa, statut albo umowa tej spółki lub tego emitenta pozwalają na użycie tych kapitałów;
+- **2)** wypłat, o których mowa w ust. 2 pkt 1 lit. a, dokonywanych przez spółkę nienotowaną na rynku regulowanym lub notowanego emitenta – w zakresie, w jakim kwota przeznaczona do podziału między wspólników albo akcjonariuszy nie przekracza zysku za ostatni rok obrotowy, powiększonego o niepodzielone zyski z lat ubiegłych oraz o kwoty przeniesione z utworzonych z zysku kapitałów zapasowego i rezerwowych, które mogą być przeznaczone do podziału, oraz pomniejszonego o kwotę niepokrytych strat z lat ubiegłych, wartości bilansowej udziałów albo akcji własnych oraz o kwoty, które zgodnie z ustawą, statutem albo umową tej spółki lub tego emitenta powinny być przekazane z zysku za ostatni rok obrotowy na kapitał zapasowy lub kapitały rezerwowe;
+- **3)** nabycia przez spółkę nienotowaną na rynku regulowanym lub notowanego emitenta lub na rzecz tej spółki lub tego emitenta udziałów albo akcji własnych – w zakresie, w jakim takie nabycie jest dopuszczalne na podstawie odrębnych przepisów, o ile wartość nabywanych udziałów albo akcji łącznie z wartością udziałów albo akcji uprzednio nabytych przez tę spółkę lub tego emitenta lub nabytych na jej rzecz lub na jego rzecz nie będzie przekraczać wartości różnicy pomiędzy wartością aktywów netto z ostatniego rocznego sprawozdania finansowego tej spółki lub tego emitenta a wartością stanowiącą sumę wartości wpłaconej części kapitału zakładowego oraz wartości kapitału zapasowego i kapitałów rezerwowych w zakresie, w jakim ustawa, statut albo umowa tej spółki pozwalają na użycie tych kapitałów;
+- **4)** obniżenia kapitału zakładowego w granicach dozwolonych ustawą – jeżeli obniżenie kapitału zakładowego ma na celu wyrównanie poniesionych strat lub przeniesienie określonych kwot do kapitałów rezerwowych, pod warunkiem że w wyniku tej operacji wartość kapitałów rezerwowych nie przekroczy 10 % obniżonego kapitału zakładowego.
 
 ### DZIAŁ IV Depozytariusz
 
@@ -6185,7 +6032,11 @@ Art. 300–319. (pominięte)
 - **1)** fundusz przejmujący wstępuje w prawa i obowiązki funduszu przejmowanego, z zastrzeżeniem art. 205 ust. 2;
 - **2)** wpis do rejestru, o którym mowa w art. 208t ust. 4, wywołuje skutek prawny.
 
-3. W okresie od dnia przydziału, o którym mowa w art. 208t ust. 1 pkt 1 oraz art. 208t ust. 1 pkt 2, do dnia połączenia, o którym mowa w ust. 1, fundusz przejmowany nie może zawierać nowych umów, o których mowa w art. 103 lub dokonać lokat lub zawrzeć umowy na podstawie art. 107 ust. 5. Art. 208za. 1. Niezwłocznie po dniu połączenia:
+3. W okresie od dnia przydziału, o którym mowa w art. 208t ust. 1 pkt 1 oraz art. 208t ust. 1 pkt 2, do dnia połączenia, o którym mowa w ust. 1, fundusz przejmowany nie może zawierać nowych umów, o których mowa w art. 103 lub dokonać lokat lub zawrzeć umowy na podstawie art. 107 ust. 5.
+
+**Art. 208za.**
+
+1. Niezwłocznie po dniu połączenia:
 
 - **1)** depozytariusz funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków określonych w art. 72;
 - **2)** fundusz przejmujący zamieszcza na stronach internetowych wskazanych w statucie informację o dokonanym połączeniu, ze wskazaniem dnia połączenia, oraz informuje o połączeniu Komisję;
@@ -6193,17 +6044,475 @@ Art. 300–319. (pominięte)
 
 2. Do dnia otrzymania powiadomienia, o którym mowa w art. 261a ust. 5, fundusz przejmujący nie może zbywać jednostek uczestnictwa na terytorium danego państwa członkowskiego.
 
-3. W przypadku połączenia krajowego przez utworzenie funduszu depozytariusz funduszu przejmowanego zawiadamia towarzystwo będące organem funduszu przejmującego o zakończeniu czynności, o których mowa w ust. 1 pkt 1. Art. 208zb. W przypadku połączenia krajowego przez przejęcie fundusz przejmujący, w terminie 6 miesięcy od dnia połączenia, dostosowuje stan swoich aktywów do wymagań określonych w ustawie i statucie.
+3. W przypadku połączenia krajowego przez utworzenie funduszu depozytariusz funduszu przejmowanego zawiadamia towarzystwo będące organem funduszu przejmującego o zakończeniu czynności, o których mowa w ust. 1 pkt 1.
+
+**Art. 208zb.** W przypadku połączenia krajowego przez przejęcie fundusz przejmujący, w terminie 6 miesięcy od dnia połączenia, dostosowuje stan swoich aktywów do wymagań określonych w ustawie i statucie.
 
 #### Rozdział 4 Połączenie transgraniczne
 
 ##### Oddział 1 Połączenie transgraniczne przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego
 
+**Art. 208zc.**
+
+1. O ile nic innego nie wynika z przepisów niniejszego oddziału, do połączenia transgranicznego przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego stosuje się odpowiednio przepisy o połączeniu krajowym przez przejęcie, z wyłączeniem art. 208t ust. 4.
+
+2. Zgoda Komisji na połączenie funduszy, o której mowa w art. 208i ust. 1 pkt 2, oraz zgoda zgromadzenia uczestników, o której mowa w art. 208i ust. 1 pkt 4, w odniesieniu do krajowego funduszu przejmowanego są udzielane odpowiednio na:
+
+- **1)** połączenie transgraniczne przez przejęcie funduszu krajowego albo
+- **2)** połączenie transgraniczne przez utworzenie funduszu zagranicznego.
+
+3. Połączenie transgraniczne przez utworzenie funduszu zagranicznego dochodzi do skutku pod warunkiem wyrażenia przez właściwe organy nadzoru państwa członkowskiego zgody na utworzenie funduszu zagranicznego, który ma być funduszem przejmującym, chyba że w przypadku zagranicznego subfunduszu przejmującego, zgoda taka nie jest wymagana.
+
+**Art. 208zd.**
+
+1. Plan połączenia zawiera dodatkowo:
+
+- **1)** wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych tytułów uczestnictwa funduszu przejmującego;
+- **2)** wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego;
+- **3)** w przypadku połączenia transgranicznego przez utworzenie funduszu zagranicznego:
+    - **a)** statut, prospekt informacyjny funduszu przejmującego oraz: – kluczowe informacje – w przypadku udostępniania przez fundusz przejmujący kluczowych informacji wszystkim inwestorom albo – kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez fundusz przejmujący kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo – kluczowe informacje dla inwestorów – w przypadku zbywania przez fundusz przejmujący tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów,
+    - **b)** wskazanie wartości początkowej tytułu uczestnictwa funduszu przejmującego – w przypadku gdy przewiduje to prawo państwa macierzystego tego funduszu.
+
+2. W przypadku połączenia transgranicznego przez utworzenie funduszu zagranicznego plan połączenia sporządzają i podpisują fundusze przejmowane i podmiot uprawniony do reprezentowania funduszu przejmującego zgodnie z prawem państwa macierzystego tego funduszu.
+
+**Art. 208ze.**
+
+1. Do wniosku o udzielenie zgody:
+
+- **1)** na połączenie transgraniczne przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego załącza się dodatkowo:
+    - **a)** statut,
+    - **b)** prospekt informacyjny funduszu przejmującego,
+    - **c)** następujące dokumenty: – kluczowe informacje – w przypadku udostępniania przez fundusz przejmujący kluczowych informacji wszystkim inwestorom albo – kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez fundusz przejmujący kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo – kluczowe informacje dla inwestorów – w przypadku zbywania przez fundusz przejmujący tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów – oraz zmiany tych dokumentów;
+
+- **2)** na połączenie transgraniczne przez utworzenie funduszu zagranicznego załącza się dodatkowo dokument informacyjny funduszu przejmującego, jeżeli jego sporządzenie przewiduje prawo państwa macierzystego tego funduszu.
+
+2. Dokument informacyjny funduszu przejmowanego powinien zawierać dodatkowo wskazanie różnic w zakresie zasad sprawozdawczości okresowej tego funduszu i funduszu przejmującego, informację o spodziewanym wpływie połączenia na sposób opodatkowania dochodów z inwestycji w fundusz, a także informację o dopłacie w środkach pieniężnych, jeżeli dokonanie takiej dopłaty przez fundusz przejmujący będzie konieczne. Dopłata nie może przewyższać 10 % wartości aktywów netto funduszu przejmowanego przypadających na jednostki uczestnictwa danego uczestnika.
+
+3. Do wniosku, o którym mowa w ust. 1, dołącza się także jego tłumaczenie oraz tłumaczenie załączonych do niego dokumentów na język urzędowy albo jeden z języków urzędowych państwa macierzystego funduszu przejmującego.
+
+4. Niezwłocznie po otrzymaniu wniosku, Komisja przekazuje jego tłumaczenie oraz tłumaczenie załączonych do niego dokumentów do właściwego organu państwa macierzystego funduszu przejmującego.
+
+5. Komisja może, w terminie 10 dni roboczych od otrzymania wniosku, zażądać:
+
+- **1)** uzupełnienia dokumentów, które zgodnie z ust. 1 i 3 załącza się do wniosku;
+- **2)** przekazania dodatkowych informacji lub dokumentów pozwalających na dokonanie oceny zgodności łączenia funduszy z przepisami prawa lub interesem uczestników łączących się funduszy;
+- **3)** rozszerzenia lub zmiany informacji zawartych w dokumencie informacyjnym funduszu przejmowanego, mając na celu zapewnienie należytej ochrony interesów uczestników krajowego funduszu przejmowanego, w tym w szczególności zapewnienie im dostępu do informacji pozwalających należycie ocenić skutki planowanego połączenia.
+
+6. Komisja rozpoznaje wniosek i informuje o swojej decyzji towarzystwo będące organem funduszu przejmowanego w terminie 20 dni roboczych od dnia jego złożenia. W przypadku, o którym mowa w ust. 5, bieg tego terminu rozpoczyna się w dniu następującym po dniu otrzymania przez Komisję informacji lub dokumentów, zgodnie z żądaniem Komisji.
+
+7. W przypadku gdy właściwy organ państwa macierzystego funduszu przejmującego zażądał od funduszu przejmującego dokonania zmian w dokumencie informacyjnym tego funduszu, od dnia poinformowania Komisji o tym przez ten organ, bieg terminu, o którym mowa w ust. 6, ulega zawieszeniu do czasu uzyskania przez Komisję od tego organu informacji, czy zgłasza on zastrzeżenia do dokumentu informacyjnego funduszu przejmującego po dokonaniu przez ten fundusz zmian w tym dokumencie.
+
+8. Komisja odmawia zgody na połączenie transgraniczne przez przejęcie funduszu krajowego albo na połączenie transgraniczne przez utworzenie funduszu zagranicznego, w przypadku gdy:
+
+- **1)** załączone do wniosku dokumenty nie są zgodne pod względem treści lub formy z przepisami prawa;
+- **2)** wnioskodawca nie uzupełnił lub nie przekazał informacji lub dokumentów zgodnie z żądaniem, o którym mowa w ust. 5;
+- **3)** właściwy organ państwa macierzystego funduszu przejmującego zgłosił zastrzeżenia do dokumentu informacyjnego funduszu przejmującego;
+- **4)** planowane połączenie jest sprzeczne z przepisami prawa lub statutem funduszu przejmowanego;
+- **5)** fundusz przejmujący nie posiada uprawnienia do zbywania tytułów uczestnictwa na terytorium Rzeczypospolitej Polskiej lub na terytorium państw członkowskich, na terytorium których fundusz przejmowany zbywa jednostki uczestnictwa.
+
+9. Zgoda Komisji na połączenie transgraniczne przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego nie zawiera rozstrzygnięcia w przedmiocie zatwierdzenia dokumentu informacyjnego funduszu przejmującego.
+
+10. O wydaniu decyzji w sprawie wniosku, o którym mowa w ust. 1, Komisja informuje właściwy organ państwa macierzystego funduszu przejmującego.
+
+**Art. 208zf.**
+
+1. Do ustalenia dnia obliczenia stosunku wymiany łączących się funduszy stosuje się przepisy prawa państwa macierzystego funduszu przejmującego. Obliczenie stosunku wymiany następuje w sposób określony w planie połączenia.
+
+2. Niezwłocznie po przydzieleniu uczestnikom funduszu przejmowanego tytułów uczestnictwa funduszu przejmującego firma audytorska badająca sprawozdania finansowe funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
+
+- **1)** ostatecznej wyceny aktywów oraz ustalenia wartości aktywów netto łączących się funduszy oraz
+- **2)** obliczenia stosunku wymiany oraz wysokości dopłat dla uczestników funduszu przejmowanego.
+
+3. Fundusz przejmowany niezwłocznie publikuje opinię, o której mowa w ust. 2, na stronach internetowych wskazanych w statucie funduszu, udostępnia ją bezpłatnie uczestnikom tego funduszu oraz przekazuje Komisji.
+
+**Art. 208zg.**
+
+1. Do ustalenia dnia połączenia stosuje się przepisy prawa państwa macierzystego funduszu przejmującego.
+
+2. Z dniem połączenia fundusz przejmujący wstępuje w prawa i obowiązki funduszu przejmowanego, w szczególności:
+
+- **1)** uczestnicy funduszu przejmowanego stają się uczestnikami funduszu przejmującego;
+- **2)** aktywa i zobowiązania funduszu przejmowanego stają się aktywami i zobowiązaniami funduszu przejmującego.
+
+3. Z dniem połączenia uczestnicy funduszu przejmującego nabywają uprawnienie do dopłaty wynikającej ze stosunku wymiany, jeżeli jest ona przewidziana w dokumencie informacyjnym zgodnie z art. 208ze ust. 2.
+
+4. W okresie od dnia przydziału, o którym mowa w art. 208zf ust. 2, do dnia połączenia, o którym mowa w ust. 1, fundusz przejmowany nie może zawierać nowych umów, o których mowa w art. 103 lub dokonać lokat lub zawrzeć umowy na podstawie art. 107 ust. 5.
+
+**Art. 208zh.** Depozytariusz funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków określonych w art. 72 niezwłocznie po dniu połączenia, chyba że przepisy prawa państwa macierzystego funduszu przejmującego stanowią inaczej, i informują o tym towarzystwo.
+
+**Art. 208zi.**
+
+1. Towarzystwo będące organem funduszu przejmowanego składa do sądu wniosek o wykreślenie funduszu przejmowanego z rejestru funduszy inwestycyjnych niezwłocznie po dniu połączenia.
+
+2. Do wniosku, o którym mowa w ust. 1, towarzystwo załącza:
+
+- **1)** zgodę Komisji na połączenie transgraniczne przez przejęcie funduszu krajowego albo przez utworzenie funduszu zagranicznego;
+- **2)** opinię, o której mowa w art. 208zf ust. 2.
+
+3. Sąd rejestrowy rozpoznaje sprawę w terminie 14 dni od dnia złożenia wniosku lub jego uzupełnienia.
+
+**Art. 208zj.**
+
+1. Towarzystwo będące organem funduszu przejmowanego niezwłocznie zawiadamia fundusz przejmujący o wykreśleniu funduszu przejmowanego z rejestru funduszy inwestycyjnych.
+
+2. Towarzystwo będące organem funduszu przejmowanego zamieszcza na stronach internetowych wskazanych w statucie funduszu informację o dokonanym połączeniu, ze wskazaniem dnia połączenia, oraz informuje Komisję o dokonanym połączeniu.
+
+**Art. 208zk.**
+
+1. Jeżeli połączenie transgraniczne przez przejęcie funduszu krajowego ma nastąpić przez przeniesienie na fundusz przejmujący wyłącznie aktywów netto funduszu przejmowanego, fundusz przejmowany:
+
+- **1)** na podstawie wyceny aktywów funduszu dokonanej w dniu poprzedzającym dzień obliczenia stosunku wymiany ustala wartość aktywów netto oraz
+- **2)** przenosi na fundusz przejmujący aktywa netto, w terminie i w sposób określony przepisami prawa państwa macierzystego funduszu przejmującego.
+
+2. Po przeniesieniu, o którym mowa w ust. 1 pkt 2, w funduszu przejmowanym mogą pozostać wyłącznie środki pieniężne na rachunkach bankowych lub instrumenty rynku pieniężnego, o których mowa w art. 93.
+
+3. W dniu przeniesienia, o którym mowa w ust. 1 pkt 2, uczestnikom funduszu przejmowanego w zamian za jednostki uczestnictwa funduszu przejmowanego fundusz przejmujący przydziela tytuły uczestnictwa funduszu przejmującego, zgodnie ze stosunkiem wymiany ustalonym na podstawie wyceny aktywów funduszu przejmowanego i funduszu przejmującego z dnia poprzedzającego dzień przydziału.
+
 ##### Oddział 2 Połączenie transgraniczne przez przejęcie funduszu zagranicznego
+
+**Art. 208zl.**
+
+1. O ile nic innego nie wynika z przepisów niniejszego oddziału, do połączenia transgranicznego przez przejęcie funduszu zagranicznego stosuje się odpowiednio przepisy o połączeniu krajowym przez przejęcie.
+
+2. W odniesieniu do krajowego funduszu przejmowanego biorącego udział w połączeniu zgoda Komisji na połączenie funduszy, o której mowa w art. 208i ust. 1 pkt 2, oraz zgoda zgromadzenia uczestników, o której mowa w art. 208i ust. 1 pkt 4, są udzielane na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
+
+**Art. 208zm.** Plan połączenia zawiera dodatkowo:
+
+- **1)** wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych jednostek uczestnictwa funduszu przejmującego;
+- **2)** wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego.
+
+**Art. 208zn.**
+
+1. Połączenie transgraniczne przez przejęcie funduszu zagranicznego dochodzi do skutku pod warunkiem uzyskania przez co najmniej jeden zagraniczny fundusz przejmowany zgody właściwych organów państwa macierzystego tego funduszu na połączenie oraz jeżeli jest to wymagane przepisami prawa jego państwa macierzystego – zgody właściwych organów tego funduszu na połączenie.
+
+2. Plan połączenia może przewidywać, że do skuteczności połączenia wymagane jest uzyskanie zgód, o których mowa w ust. 1, przez więcej niż jeden fundusz zagraniczny lub jeżeli w połączeniu bierze udział krajowy fundusz przejmowany – również uzyskanie przez ten fundusz zgody Komisji oraz zgody zgromadzenia uczestników na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
+
+**Art. 208zo.** Niezwłocznie po podpisaniu planu połączenia krajowy fundusz przejmujący informuje Komisję o zamiarze połączenia, przedstawiając dokument informacyjny tego funduszu i plan połączenia.
+
+**Art. 208zp.**
+
+1. Połączenie transgraniczne przez przejęcie funduszu zagranicznego wymaga zatwierdzenia przez Komisję dokumentu informacyjnego krajowego funduszu przejmującego. Zatwierdzenie dokumentu następuje w postępowaniu określonym w ust. 2–7 albo w postępowaniu w sprawie wydania zgody Komisji na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
+
+2. Postępowanie w sprawie zatwierdzenia dokumentu informacyjnego krajowego funduszu przejmującego jest wszczynane w dniu otrzymania przez Komisję od właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego, przetłumaczonych na język polski:
+
+- **1)** wniosku zagranicznego funduszu przejmowanego o udzielenie przez właściwe organy państwa macierzystego zgody na połączenie z krajowym funduszem przejmującym;
+- **2)** dokumentu informacyjnego zagranicznego funduszu przejmowanego i dokumentu informacyjnego krajowego funduszu przejmującego;
+- **3)** planu połączenia;
+- **4)** oświadczeń złożonych przez depozytariusza krajowego funduszu przejmującego i depozytariusza zagranicznego funduszu przejmowanego, że po zweryfikowaniu przez każdego z nich warunków połączenia, depozytariusz stwierdza, że planowane połączenie funduszy jest zgodne z przepisami prawa i statutem funduszu, dla którego pełni on funkcję depozytariusza.
+
+3. W terminie 15 dni roboczych od dnia otrzymania wszystkich dokumentów, o których mowa w ust. 2, Komisja może zażądać od funduszu przejmującego zmiany lub rozszerzenia informacji zawartych w dokumencie informacyjnym, mając na celu zapewnienie należytej ochrony interesów uczestników krajowego funduszu przejmującego, w tym w szczególności zapewnienie im dostępu do informacji pozwalających należycie ocenić skutki planowanego połączenia.
+
+4. Komisja w terminie 20 dni roboczych od dnia otrzymania wszystkich dokumentów, o których mowa w ust. 2, w drodze decyzji:
+
+- **1)** zatwierdza dokument informacyjny funduszu przejmującego albo
+- **2)** odmawia jego zatwierdzenia – i informuje o swojej decyzji właściwe organy państwa macierzystego zagranicznego funduszu przejmowanego.
+
+5. W przypadku, o którym mowa w ust. 3, bieg terminu, o którym mowa w ust. 4, rozpoczyna się w dniu następującym po dniu otrzymania przez Komisję żądanych informacji.
+
+6. Komisja może odmówić zatwierdzenia dokumentu informacyjnego krajowego funduszu przejmującego w przypadku nieudzielenia przez ten fundusz odpowiedzi zgodnie z żądaniem, o którym mowa w ust. 3, lub gdy poprawiony dokument informacyjny nie spełnia wymogów określonych w ustawie.
+
+7. Komisja informuje niezwłocznie właściwe organy państwa macierzystego zagranicznego funduszu przejmowanego o przesłaniu do funduszu krajowego żądania, o którym mowa w ust. 3.
+
+8. Jeżeli w połączeniu bierze udział więcej niż jeden zagraniczny fundusz przejmowany, Komisja informuje właściwe organy państwa macierzystego funduszu zagranicznego, po otrzymaniu od tych organów dokumentów, o których mowa w ust. 2, obejmujących dokument informacyjny funduszu przejmującego o tej samej treści co dokument będący przedmiotem decyzji, o której mowa w ust. 4, o zatwierdzeniu albo odmowie zatwierdzenia tego dokumentu.
+
+**Art. 208zr.** Niezwłocznie po powzięciu informacji o uzyskaniu pierwszej ze zgód właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie, o planowanym połączeniu zawiadamia się uczestników krajowego funduszu przejmującego, wysyłając zawiadomienie, o którym mowa w art. 208o ust. 2.
+
+**Art. 208zs.**
+
+1. W przypadku połączenia transgranicznego przez przejęcie funduszu zagranicznego, w którym zgodnie z planem połączenia bierze udział więcej niż jeden fundusz przejmowany, dzień obliczenia stosunku wymiany dla kolejnego funduszu przejmowanego nie może przypadać przed dniem wydania opinii przez firmę audytorską, o której mowa w art. 208zt ust. 1.
+
+2. W przypadku połączenia transgranicznego przez przejęcie funduszu zagranicznego, gdy subfundusz przejmujący jest nowo tworzony, dla każdego funduszu przejmowanego obowiązuje ten sam dzień obliczenia stosunku wymiany.
+
+**Art. 208zt.**
+
+1. Niezwłocznie po przydzieleniu uczestnikom funduszu przejmowanego jednostek uczestnictwa funduszu przejmującego firma audytorska badająca sprawozdania finansowe funduszu przejmującego albo funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
+
+- **1)** ostatecznej wyceny aktywów oraz
+- **2)** obliczenia stosunku wymiany.
+
+2. Fundusz przejmujący oraz fundusz przejmowany będący funduszem krajowym niezwłocznie publikują opinię, o której mowa w ust. 1, na stronach internetowych wskazanych w statucie funduszu oraz udostępniają ją bezpłatnie swoim uczestnikom. Fundusz przejmujący niezwłocznie przekazuje opinię Komisji.
+
+**Art. 208zu.**
+
+1. Dniem połączenia jest pierwszy dzień roboczy następujący po dniu przydziału. Z tym dniem krajowy fundusz przejmujący, z zastrzeżeniem art. 205 ust. 2, wstępuje w prawa i obowiązki funduszu przejmowanego, w szczególności:
+
+- **1)** aktywa i zobowiązania funduszu przejmowanego stają się aktywami i zobowiązaniami funduszu przejmującego;
+- **2)** wpis uczestników funduszu przejmowanego do rejestru uczestników funduszu przejmującego wywołuje skutek prawny.
+
+2. Niezwłocznie po dniu połączenia depozytariusz każdego funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków depozytariusza, chyba że przepisy prawa państwa macierzystego funduszu przejmowanego stanowią inaczej, i informują o tym towarzystwo.
+
+**Art. 208zw.**
+
+1. Niezwłocznie po dniu połączenia towarzystwo będące organem funduszu przejmowanego składa do sądu rejestrowego wniosek o wykreślenie tego funduszu z rejestru funduszy inwestycyjnych.
+
+2. Do wniosku, o którym mowa w ust. 1, towarzystwo załącza:
+
+- **1)** zgodę Komisji na połączenie transgraniczne przez przejęcie funduszu zagranicznego;
+- **2)** opinię, o której mowa w art. 208zt ust. 1.
+
+3. Sąd rejestrowy rozpoznaje sprawę w terminie 14 dni od dnia złożenia wniosku lub jego uzupełnienia.
+
+**Art. 208zy.** Sprawozdanie finansowe krajowego funduszu przejmowanego sporządza się na dzień poprzedzający dzień przydziału. Sprawozdanie publikowane jest niezwłocznie na stronach internetowych wskazanych w statucie tego funduszu i przekazywane Komisji.
 
 ##### Oddział 3 Połączenie transgraniczne przez utworzenie funduszu krajowego
 
+**Art. 208zz.**
+
+1. O ile nic innego nie wynika z przepisów niniejszego oddziału, do połączenia transgranicznego przez utworzenie funduszu krajowego stosuje się odpowiednio przepisy o połączeniu krajowym przez utworzenie funduszu krajowego oraz przepisy o utworzeniu funduszu inwestycyjnego otwartego.
+
+2. W odniesieniu do krajowego funduszu przejmowanego biorącego udział w połączeniu, zgoda Komisji na połączenie funduszy, o której mowa w art. 208i ust. 1 pkt 2, oraz zgoda zgromadzenia uczestników, o której mowa w art. 208i ust. 1 pkt 4, są udzielane na połączenie transgraniczne przez utworzenie funduszu krajowego.
+
+3. Połączenie transgraniczne przez utworzenie funduszu krajowego wymaga uzyskania zezwolenia Komisji na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, zgodnie z przepisami art. 22 i art. 23. Jeżeli w połączeniu transgranicznym przez utworzenie funduszu krajowego bierze udział krajowy fundusz przejmowany, zezwolenie to powinno być uzyskane przed uzyskaniem przez ten fundusz zgody Komisji zgodnie z ust. 2. Plan połączenia sporządza się niezwłocznie po uzyskaniu zezwolenia.
+
+**Art. 208zza.**
+
+1. W statucie funduszu inwestycyjnego, który ma być funduszem przejmującym, załączanym do wniosku o wydanie zezwolenia na utworzenie funduszu inwestycyjnego, wskazuje się, że fundusz powstanie na skutek połączenia transgranicznego przez utworzenie funduszu krajowego.
+
+2. Do funduszu przejmującego nie stosuje się przepisów art. 15 ust. 3 oraz art. 26–30. Wpłaty do funduszu przejmującego są zbierane w drodze wniesienia aktywów funduszy przejmowanych.
+
+3. Towarzystwo informuje fundusz przejmowany o uzyskaniu zezwolenia na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, niezwłocznie po jego doręczeniu.
+
+**Art. 208zzb.**
+
+1. Zezwolenie na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, wygasa, jeżeli w terminie 6 miesięcy od dnia jego doręczenia, towarzystwo nie złoży wniosku o wpisanie tego funduszu do rejestru funduszy inwestycyjnych w związku z połączeniem.
+
+2. Zezwolenie nie wygasa zgodnie z ust. 1, jeżeli w terminie 3 miesięcy od dnia powzięcia przez towarzystwo informacji o:
+
+- **1)** odmowie udzielenia zagranicznemu funduszowi przejmowanemu, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, zgody na połączenie przez właściwe organy jego państwa macierzystego,
+- **2)** odmowie udzielenia krajowemu funduszowi przejmowanemu, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, zgody Komisji na połączenie transgraniczne przez utworzenie funduszu krajowego,
+- **3)** braku zgody właściwego organu zagranicznego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie to nie dojdzie do skutku, jeżeli zgoda taka jest wymagana przez prawo jego państwa macierzystego,
+- **4)** podjęciu przez zgromadzenie uczestników krajowego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, uchwały o niewyrażeniu zgody na połączenie,
+- **5)** nieodbyciu się ważnego zgromadzenia uczestników krajowego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, chyba że w terminie określonym w ust. 1 jest możliwe zwołanie kolejnego zgromadzenia uczestników tego funduszu przejmowanego – towarzystwo zmieni statut funduszu w zakresie, o którym mowa w art. 208zza ust. 1, dokona w prospekcie informacyjnym funduszu zmian niezbędnych do przeprowadzenia zapisów na jednostki uczestnictwa funduszu, przeprowadzi zapisy na jednostki uczestnictwa, dokona ich przydziału oraz złoży wniosek o wpisanie funduszu do rejestru funduszy inwestycyjnych. W takim przypadku art. 26 ust. 2–3, art. 27–29 i art. 30 ust. 1 i 3 stosuje się odpowiednio.
+
+**Art. 208zzc.** Plan połączenia zawiera dodatkowo:
+
+- **1)** wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych jednostek uczestnictwa funduszu przejmującego;
+- **2)** wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego;
+- **3)** statut, prospekt informacyjny funduszu przejmującego oraz:
+    - **a)** kluczowe informacje – w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo
+    - **b)** kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
+    - **c)** kluczowe informacje dla inwestorów – w przypadku zbywania przez ten fundusz jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów.
+
+**Art. 208zzd.**
+
+1. Połączenie transgraniczne przez utworzenie funduszu krajowego dochodzi do skutku pod warunkiem uzyskania przez co najmniej:
+
+- **1)** dwa zagraniczne fundusze przejmowane zgody właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie oraz, jeżeli jest to wymagane przez prawo państwa macierzystego danego funduszu – zgody właściwych organów tego funduszu na połączenie albo
+- **2)** jeden:
+    - **a)** zagraniczny fundusz przejmowany zgody właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie oraz, jeżeli jest to wymagane przez prawo jego państwa macierzystego – zgody właściwych organów tego funduszu na połączenie oraz
+    - **b)** krajowy fundusz przejmowany zgody Komisji na połączenie transgraniczne przez utworzenie funduszu krajowego oraz zgody zgromadzenia uczestników na połączenie transgraniczne przez utworzenie funduszu krajowego.
+
+2. Plan połączenia może przewidywać, że do skuteczności połączenia wymagane jest uzyskanie zgód, o których mowa w ust. 1 pkt 1, przez więcej niż dwa fundusze zagraniczne lub zgód, o których mowa w ust. 1 pkt 2, przez więcej niż jeden fundusz zagraniczny lub więcej niż jeden krajowy fundusz przejmowany.
+
+**Art. 208zze.**
+
+1. Fundusz przejmowany jest obowiązany niezwłocznie poinformować towarzystwo, które uzyskało zezwolenie na utworzenie funduszu, który ma być funduszem przejmującym, o tym, że:
+
+- **1)** właściwe organy funduszu przejmowanego wyraziły zgodę na połączenie albo zgoda taka nie została udzielona – w przypadku zagranicznego funduszu przejmowanego, jeżeli zgoda taka jest wymagana przez prawo państwa macierzystego tego funduszu;
+- **2)** nie odbyło się ważne zgromadzenie uczestników funduszu przejmowanego albo zgromadzenie to podjęło uchwałę o wyrażeniu zgody na połączenie albo o niewyrażeniu takiej zgody – w przypadku funduszu przejmowanego będącego funduszem krajowym.
+
+2. Komisja informuje towarzystwo, które uzyskało zezwolenie na utworzenie funduszu, który ma być funduszem przejmującym, o udzieleniu zagranicznemu funduszowi przejmowanemu przez właściwe organy jego państwa macierzystego zgody na połączenie albo o odmowie jej udzielenia oraz o udzieleniu krajowemu funduszowi przejmowanemu zgody na połączenie transgraniczne przez utworzenie funduszu krajowego albo odmowie jej udzielenia.
+
+**Art. 208zzf.**
+
+1. Niezwłocznie po dokonaniu przydziału firma audytorska badająca sprawozdania finansowe funduszu przejmującego albo funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
+
+- **1)** ostatecznej wyceny aktywów oraz
+- **2)** obliczenia stosunku wymiany.
+
+2. Towarzystwo, które uzyskało zezwolenie na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, oraz fundusz przejmowany będący funduszem krajowym niezwłocznie publikują opinię, o której mowa w ust. 1, na stronach internetowych wskazanych w statutach funduszu. Fundusz przejmowany bezpłatnie udostępnia opinię swoim uczestnikom, a towarzystwo, które uzyskało zezwolenie na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, niezwłocznie przekazuje ją Komisji.
+
+**Art. 208zzg.** Niezwłocznie po dniu połączenia depozytariusz każdego funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków depozytariusza, chyba że przepisy prawa państwa macierzystego funduszu przejmowanego stanowią inaczej, i informują o tym towarzystwo.
+
+**Art. 208zzh.** Sprawozdanie finansowe krajowego funduszu przejmowanego sporządza się na dzień poprzedzający dzień przydziału. Sprawozdanie publikowane jest niezwłocznie na stronach internetowych wskazanych w statucie tego funduszu i przekazywane Komisji.
+
 ### DZIAŁ VIIIA Łączenie funduszy inwestycyjnych zamkniętych
+
+**Art. 208zzi.**
+
+1. Fundusze inwestycyjne zamknięte, o których mowa w art. 15 ust. 1a, których organem jest to samo towarzystwo, mogą się ze sobą łączyć.
+
+2. Połączenie, o którym mowa w ust. 1, następuje przez:
+
+- **1)** przeniesienie majątku funduszu przejmowanego do istniejącego funduszu przejmującego oraz przydzielenie uczestnikom funduszu przejmowanego certyfikatów inwestycyjnych funduszu przejmującego w zamian za certyfikaty inwestycyjne funduszu przejmowanego;
+- **2)** utworzenie przez towarzystwo będące organem łączonych funduszy funduszu, o którym mowa w art. 15 ust. 1a, do którego wniesiony zostaje majątek dwóch lub więcej funduszy przejmowanych w zamian za przydzielenie uczestnikom funduszy przejmowanych certyfikatów inwestycyjnych nowo tworzonego funduszu.
+
+3. Przez fundusz przejmowany rozumie się fundusz, o którym mowa w art. 15 ust. 1a, którego majątek jest wnoszony do innego istniejącego lub do nowo tworzonego funduszu, w zamian za przydzielenie uczestnikom tego funduszu certyfikatów inwestycyjnych funduszu, do którego jest wnoszony ten majątek.
+
+4. Przez fundusz przejmujący rozumie się istniejący lub nowo tworzony fundusz, o którym mowa w art. 15 ust. 1a, do którego wnoszony jest majątek:
+
+- **1)** funduszu przejmowanego – w przypadku, o którym mowa w ust. 2 pkt 1;
+- **2)** dwóch lub więcej funduszy przejmowanych – w przypadku, o którym mowa w ust. 2 pkt 2.
+
+4a. Fundusz może brać udział w połączeniu, o którym mowa w ust. 1, jeżeli struktura jego portfela inwestycyjnego została dostosowana do wymagań określonych w ustawie i statucie funduszu.
+
+4b. W przypadku gdy zgodnie z ostatnimi wycenami aktywów funduszu przejmowanego i funduszu przejmującego, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego co najmniej jednego z tych funduszy nie była dostosowana do wymagań określonych w ustawie i statucie funduszu, połączenie, o którym mowa w ust. 2 pkt 1, może nastąpić, jeżeli według stanu na dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych struktura portfela inwestycyjnego funduszu przejmującego będzie dostosowana do wymagań określonych w ustawie i statucie funduszu.
+
+4c. W przypadku gdy zgodnie z ostatnimi wycenami aktywów każdego z łączących się funduszy, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego co najmniej jednego z tych funduszy nie była dostosowana do wymagań określonych w ustawie i statucie funduszu, połączenie, o którym mowa w ust. 2 pkt 2, może nastąpić, jeżeli według stanu na dzień wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych struktura portfela inwestycyjnego nowo tworzonego funduszu będzie dostosowana do wymagań określonych w ustawie i statucie funduszu.
+
+5. W połączeniu, o którym mowa w ust. 1, nie mogą brać udziału subfundusze wydzielone w funduszach, o których mowa w art. 15 ust. 1a, ani fundusze z wydzielonymi subfunduszami.
+
+6. Połączenie, o którym mowa w ust. 1, wymaga sporządzenia planu połączenia.
+
+7. Połączenie, o którym mowa w ust. 1, może nastąpić wyłącznie za uprzednio wyrażoną zgodą w formie uchwały zgromadzenia inwestorów:
+
+- **1)** w przypadku, o którym mowa w ust. 2 pkt 1 – w funduszu przejmowanym i funduszu przejmującym;
+- **2)** w przypadku, o którym mowa w ust. 2 pkt 2 – w funduszu przejmowanym.
+
+8. Zgoda, o której mowa w ust. 7, jest udzielana, jeżeli głosy za połączeniem oddali uczestnicy reprezentujący łącznie więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych danego funduszu.
+
+9. Jeżeli w głosowaniu, o którym mowa w ust. 8, głosy oddali uczestnicy reprezentujący nie więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych danego funduszu i nie wymaga to zmiany planu połączenia, towarzystwo może zwołać kolejne zgromadzenie inwestorów tego funduszu w celu uzyskania zgody zgromadzenia inwestorów na połączenie, co najmniej na 10 dni przed planowanym terminem ponownego zgromadzenia inwestorów. Zwołanie kolejnego zgromadzenia inwestorów wymaga przekazania przez towarzystwo zawiadomienia, o którym mowa w art. 208zzk ust. 1 pkt 1, zmienionego w zakresie, o którym mowa w art. 208zzk ust.
+
+3. Do kolejnego zgromadzenia inwestorów stosuje się przepis art. 208zzk ust. 8.
+
+10. Kolejnego zgromadzenia inwestorów w celu wyrażenia zgody zgromadzenia inwestorów na połączenie nie zwołuje się w przypadku, gdy uchwała zgromadzenia inwestorów innego z funduszy objętych planem połączenia nie uzyskała wymaganej większości, a w głosowaniu, o którym mowa w ust. 8, głosy oddali uczestnicy reprezentujący więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych tego funduszu.
+
+11. W przypadku gdy pomimo dwukrotnie prawidłowo zwołanego zgromadzenia inwestorów w głosowaniu, o którym mowa w ust. 8, głosy oddali uczestnicy reprezentujący nie więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych danego funduszu, zgoda, o której mowa w ust. 7, jest udzielana, jeżeli głosy za połączeniem oddała więcej niż połowa uczestników obecnych lub reprezentowanych podczas każdego głosowania.
+
+**Art. 208zzj.**
+
+1. Plan połączenia sporządzają i podpisują:
+
+- **1)** fundusz przejmowany i fundusz przejmujący – w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1;
+- **2)** fundusze przejmowane i towarzystwo, w imieniu funduszu przejmującego – w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2.
+
+2. Plan połączenia zawiera:
+
+- **1)** w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1 – wskazanie funduszu przejmowanego i funduszu przejmującego;
+- **2)** w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2 – wskazanie funduszy przejmowanych;
+- **3)** wskazanie przyczyn i celu połączenia funduszy;
+- **4)** analizę skutków połączenia dla możliwości prowadzenia przez fundusz przejmujący działalności zgodnie z przepisami ustawy i statutu oraz dla uczestników wszystkich funduszy biorących udział w połączeniu, w tym możliwości realizacji uprawnień uczestników wynikających z ustawy lub statutu funduszu;
+- **5)** wskazanie metod i zasad dokonywania wyceny aktywów oraz ustalania wartości aktywów netto funduszy;
+- **6)** wskazanie:
+    - **a)** w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1 – metody obliczenia stosunku liczby certyfikatów inwestycyjnych, które zostaną przydzielone uczestnikowi w funduszu przejmującym, w stosunku do liczby certyfikatów inwestycyjnych posiadanych przez uczestnika w funduszu przejmowanym,
+    - **b)** w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2 – początkowej wartości aktywów netto na certyfikat inwestycyjny funduszu przejmującego;
+
+- **7)** wskazanie planowanego terminu połączenia;
+- **8)** oświadczenia podmiotów określonych w ust. 1, z których wynika, że:
+    - **a)** w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1: – zgodnie z ostatnimi wycenami aktywów funduszu przejmowanego i funduszu przejmującego, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego każdego z tych funduszy została dostosowana do wymagań określonych w ustawie i statucie funduszu – w przypadku, o którym mowa w art. 208zzi ust. 4a, – struktura portfela inwestycyjnego funduszu przejmującego będzie dostosowana do wymagań określonych w ustawie i statucie funduszu według stanu na dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych – w przypadku, o którym mowa w art. 208zzi ust. 4b,
+    - **b)** w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2: – zgodnie z ostatnimi wycenami aktywów każdego z łączących się funduszy, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego każdego z tych funduszy została dostosowana do wymagań określonych w ustawie i statucie funduszu – w przypadku, o którym mowa w art. 208zzi ust. 4a, – struktura portfela inwestycyjnego nowo tworzonego funduszu będzie dostosowana do wymagań określonych w ustawie i statucie funduszu według stanu na dzień wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych – w przypadku, o którym mowa w art. 208zzi ust. 4c.
+
+3. Plan połączenia podlega badaniu przez biegłego rewidenta w zakresie poprawności i rzetelności.
+
+**Art. 208zzk.**
+
+1. Nie później niż na 90 dni przed planowanym terminem połączenia towarzystwo:
+
+- **1)** zawiadamia, na papierze lub innym trwałym nośniku informacji, uczestników funduszu przejmowanego, a w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1, także uczestników funduszu przejmującego, o planowanym połączeniu;
+- **2)** udostępnia uczestnikom funduszy biorących udział w połączeniu zbadany przez biegłego rewidenta plan połączenia oraz:
+    - **a)** statuty funduszy biorących udział w połączeniu – w przypadku, o którym mowa w art. 208zzi ust. 2 pkt 1,
+    - **b)** statuty funduszy przejmowanych oraz projekt statutu funduszu przejmującego – w przypadku, o którym mowa w art. 208zzi ust. 2 pkt 2,
+    - **c)** ostatnie zbadane przez biegłego rewidenta sprawozdanie finansowe funduszy;
+
+- **3)** zwołuje zgromadzenie inwestorów funduszu przejmowanego, a w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1, także zgromadzenie inwestorów funduszu przejmującego, w celu uzyskania zgody zgromadzenia inwestorów na połączenie.
+
+2. Zawiadomienie, o którym mowa w ust. 1 pkt 1, jest wysyłane wraz z zawiadomieniem o zwołaniu zgromadzenia inwestorów w sposób określony dla zawiadomienia o zwołaniu zgromadzenia inwestorów.
+
+3. Zawiadomienie, o którym mowa w ust. 1 pkt 1, zawiera:
+
+- **1)** wskazanie dnia, do którego uczestnicy funduszu przejmowanego, a w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1, także uczestnicy funduszu przejmującego, mają prawo zażądać wykupu certyfikatów inwestycyjnych funduszu, o ile statut funduszu przewiduje wykup certyfikatów inwestycyjnych;
+- **2)** wskazanie dnia przydziału certyfikatów inwestycyjnych funduszu przejmującego.
+
+4. W przypadku wykupu, o którym mowa w ust. 3 pkt 1:
+
+- **1)** nie stosuje się warunków wykupywania certyfikatów inwestycyjnych, określonych w statucie funduszu;
+- **2)** nie pobiera się opłat manipulacyjnych.
+
+5. Wykup certyfikatów inwestycyjnych, o którym mowa w ust. 3 pkt 1, następuje w dniu wyceny, o którym mowa w art. 208zzm ust. 3.
+
+6. Dzień, o którym mowa w ust. 3 pkt 1, do którego uczestnicy mają prawo żądać wykupu certyfikatów inwestycyjnych, należy wyznaczyć nie wcześniej niż 14. dnia po zgromadzeniu inwestorów, o którym mowa w art. 208zzi ust. 7, a w przypadku, o którym mowa w art. 208zzi ust. 9, nie wcześniej niż 10. dnia po zgromadzeniu inwestorów, o którym mowa w tym przepisie, i nie później niż w dniu poprzedzającym dzień wyceny, o którym mowa w art. 208zzm ust. 3.
+
+7. Jeżeli statut funduszu, o którym mowa w art. 15 ust. 1a, nie przewiduje działania zgromadzenia inwestorów, towarzystwo jest obowiązane do dokonania zmiany statutu funduszu w zakresie dotyczącym wprowadzenia zgromadzenia inwestorów w celu wyrażenia zgody na połączenie funduszy.
+
+8. Zgromadzenie inwestorów odbywa się nie wcześniej niż 60 dni przed planowanym terminem połączenia.
+
+9. Niezwłocznie po podjęciu przez zgromadzenie inwestorów wszystkich funduszy objętych planem połączenia uchwały o wyrażeniu zgody na połączenie towarzystwo zgłasza do sądu rejestrowego planowane połączenie funduszy w celu wpisania do rejestru wzmianki o takiej uchwale. Zgłoszenie zawiera zaprotokołowaną przez notariusza uchwałę zgromadzenia inwestorów o wyrażeniu zgody na połączenie.
+
+10. Dniem połączenia jest:
+
+- **1)** w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1 – dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych;
+- **2)** w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2 – dzień wpisania funduszu przejmującego do rejestru funduszy inwestycyjnych.
+
+11. Po dniu połączenia:
+
+- **1)** niedopuszczalne jest stwierdzenie nieważności uchwały zgromadzenia inwestorów o wyrażeniu zgody na połączenie;
+- **2)** postępowanie w przedmiocie zaskarżenia uchwały zgromadzenia inwestorów o wyrażeniu zgody na połączenie umarza się.
+
+**Art. 208zzl.**
+
+1. W przypadku gdy statut funduszu biorącego udział w połączeniu przewiduje wypłatę dochodów funduszu lub przychodów ze zbycia lokat funduszu, wypłata może nastąpić nie później niż w dniu poprzedzającym dzień wyceny, o którym mowa w art. 208zzm ust. 3.
+
+2. Od dnia wyceny, o którym mowa w art. 208zzm ust. 3, do dnia połączenia fundusze biorące udział w połączeniu nie emitują certyfikatów inwestycyjnych ani nie przeprowadzają wykupów certyfikatów.
+
+**Art. 208zzm.**
+
+1. Przed połączeniem funduszy, o których mowa w art. 15 ust. 1a, towarzystwo obowiązane jest uzyskać oświadczenie biegłego rewidenta o prawidłowości wyceny aktywów i ustaleniu stosunku liczby certyfikatów inwestycyjnych, które zostaną przydzielone uczestnikowi w funduszu przejmującym, w stosunku do liczby certyfikatów inwestycyjnych posiadanych przez uczestnika w funduszu przejmowanym.
+
+2. Oświadczenie, o którym mowa w ust. 1, niezwłocznie udostępniane jest uczestnikom funduszy biorących udział w połączeniu.
+
+3. Do ustalenia stosunku certyfikatów inwestycyjnych w funduszu przejmującym do certyfikatów inwestycyjnych w funduszu przejmowanym stosuje się wycenę aktywów dokonaną w funduszu przejmującym i funduszu przejmowanym na 30 dni przed planowanym terminem połączenia.
+
+**Art. 208zzn.**
+
+1. Od dnia przydziału, o którym mowa w art. 208zzk ust. 3 pkt 2, wartość aktywów netto funduszu przejmującego oraz wartość aktywów netto przypadającą na certyfikat inwestycyjny funduszu przejmującego ustala się z uwzględnieniem aktywów i zobowiązań funduszu przejmowanego.
+
+2. Przy dokonywaniu przydziału, o którym mowa w ust. 1, nie pobiera się opłat manipulacyjnych.
+
+3. W przypadku gdy przydzielona uczestnikowi liczba certyfikatów nie byłaby liczbą całkowitą, fundusz przejmujący zwraca uczestnikowi w środkach pieniężnych kwotę wynikającą z iloczynu nadwyżki ponad całkowitą liczbę certyfikatów oraz wartości aktywów netto funduszu przypadających na certyfikat inwestycyjny. Zwrot kwoty następuje w terminie 30 dni od dnia przydziału certyfikatów.
+
+**Art. 208zzo.**
+
+1. W przypadku, o którym mowa w art. 208zzi ust. 4a:
+
+- **1)** fundusz przejmujący jest obowiązany dostosować strukturę portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu w terminie 12 miesięcy od dnia wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych – w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1;
+- **2)** nowo tworzony fundusz jest obowiązany dostosować strukturę portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu w terminie, o którym mowa w art. 157 ust. 3 – w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2.
+
+2. Fundusz przejmujący – w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 1 pkt 1, a nowo tworzony fundusz – w terminie 14 dni od dnia upływu terminu, o którym mowa w art. 157 ust. 3, jest obowiązany przekazać Komisji oświadczenie o dostosowaniu albo niedostosowaniu struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu.
+
+3. Do oświadczenia, o którym mowa w ust. 2, załącza się informację na temat struktury portfela inwestycyjnego funduszu przejmującego albo nowo tworzonego funduszu, a w przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu – również informację o przyczynach takiego niedostosowania.
+
+4. W przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu Komisja wzywa towarzystwo do usunięcia tej nieprawidłowości i wyznacza funduszowi w tym celu odpowiedni termin, biorąc pod uwagę aktualną strukturę portfela inwestycyjnego funduszu oraz przyczyny niedostosowania wskazane w informacjach, o których mowa w ust. 3.
+
+5. W przypadku nieusunięcia nieprawidłowości w terminie określonym w wezwaniu Komisja może nałożyć na towarzystwo karę pieniężną, o której mowa w art. 228 ust. 1c pkt 3. Art. 208zzoa. 1. W przypadku, o którym mowa w art. 208zzi ust. 4b, fundusz przejmujący jest obowiązany posiadać strukturę portfela inwestycyjnego zgodną z wymaganiami określonymi w ustawie i statucie funduszu według stanu na dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych.
+
+2. W przypadku, o którym mowa w art. 208zzi ust. 4c, nowo tworzony fundusz jest obowiązany posiadać strukturę portfela inwestycyjnego zgodną z wymaganiami określonymi w ustawie i statucie funduszu według stanu na dzień wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych.
+
+3. Fundusz przejmujący – w terminie 14 dni od dnia wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych, a nowo tworzony fundusz – w terminie 14 dni od dnia wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych, jest obowiązany przekazać Komisji oświadczenie o dostosowaniu albo niedostosowaniu struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu.
+
+4. Do oświadczenia, o którym mowa w ust. 3, załącza się informację na temat struktury portfela inwestycyjnego funduszu przejmującego albo nowo tworzonego funduszu, a w przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu – również informację o przyczynach takiego niedostosowania.
+
+5. W przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu Komisja wzywa towarzystwo do usunięcia tej nieprawidłowości i wyznacza funduszowi w tym celu odpowiedni termin, biorąc pod uwagę aktualną strukturę portfela inwestycyjnego funduszu oraz przyczyny niedostosowania wskazane w informacjach, o których mowa w ust. 4.
+
+6. W przypadku nieusunięcia nieprawidłowości w terminie określonym w wezwaniu Komisja może nałożyć na towarzystwo karę pieniężną, o której mowa w art. 228 ust. 1c pkt 3.
+
+**Art. 208zzp.**
+
+1. Towarzystwo składa do sądu wniosek o wykreślenie funduszu przejmowanego z rejestru funduszy inwestycyjnych.
+
+2. Sąd rejestrowy rozpoznaje sprawę w terminie 14 dni od dnia złożenia wniosku albo jego uzupełnienia.
+
+3. Towarzystwo informuje Komisję o wykreśleniu funduszu przejmowanego z rejestru funduszy inwestycyjnych.
+
+**Art. 208zzq.** Z dniem wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych:
+
+- **1)** fundusz przejmujący wstępuje w prawa i obowiązki funduszu przejmowanego;
+- **2)** wygasają zezwolenia i zgody udzielone funduszowi w związku z prowadzoną działalnością.
+
+**Art. 208zzr.**
+
+1. W przypadku, o którym mowa w art. 208zzi ust. 2 pkt 2, stosuje się odpowiednio przepisy o utworzeniu funduszu, o którym mowa w art. 15 ust. 1a.
+
+2. Do funduszu przejmującego nie stosuje się przepisów art. 15 ust. 3 oraz art. 26–30.
+
+3. Wpłaty do funduszu inwestycyjnego przejmującego są zbierane w drodze wniesienia aktywów funduszy przejmowanych.
+
+**Art. 208zzs.** Depozytariusz funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków określonych w art. 72, niezwłocznie po dniu, o którym mowa w art. 208zzq.
+
+**Art. 208zzt.**
+
+1. Koszty związane z przygotowaniem i przeprowadzeniem połączenia funduszy ponosi wyłącznie towarzystwo.
+
+2. Towarzystwo ponosi odpowiedzialność wobec uczestników zarządzanego przez siebie funduszu inwestycyjnego za szkodę wyrządzoną połączeniem funduszy.
 
 ### DZIAŁ IX Zarządzanie zbiorczym portfelem papierów wartościowych
 
@@ -7064,7 +7373,24 @@ Art. 300–319. (pominięte)
 
 **Art. 237b.** Towarzystwo, spółka zarządzająca, podmiot, o którym mowa w art. 32 ust. 2, przedsiębiorca, z którym zawarto umowę, o której mowa w art. 45a, oraz depozytariusz posiadają procedury anonimowego zgłaszania wskazanemu członkowi zarządu, a w szczególnych przypadkach – radzie nadzorczej, a w przypadku braku tych organów – wskazanemu komplementariuszowi lub wspólnikowi uprawnionemu do prowadzenia spraw spółki zgodnie z przepisami Kodeksu spółek handlowych naruszeń przepisów ustawy, jakich dopuścili się pracownicy tych podmiotów.
 
-### DZIAŁ XA Udostępnianie informacji w europejskim pojedynczym punkcie dostępu <Art. 237c. 1. Towarzystwo równocześnie z publikacją dokumentów, o których mowa w art. 46d ust. 1, 3 i 4, przekazuje te dokumenty Komisji w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE.
+### DZIAŁ XA Udostępnianie informacji w europejskim pojedynczym punkcie dostępu
+
+**Art. 237c.**
+
+1. Towarzystwo równocześnie z publikacją dokumentów, o których mowa w art. 46d ust. 1, 3 i 4, przekazuje te dokumenty Komisji w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE.
+
+2. Dokumenty, o których mowa w art. 46d ust. 1, 3 i 4, są opatrywane następującymi metadanymi:
+
+- **1)** firmą towarzystwa, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego towarzystwa, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości towarzystwa, którego dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE.
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, towarzystwo występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+4. Komisja udostępnia dokumenty, o których mowa w art. 46d ust. 1, 3 i 4, w europejskim pojedynczym punkcie dostępu.
 
 **Art. 237d.**
 
@@ -7769,7 +8095,11 @@ Art. 300–319. (pominięte)
 
 4. Zawiadomienie, o którym mowa w ust. 1, oraz dołączane do niego dokumenty powinny być sporządzone w języku polskim lub angielskim albo przetłumaczone na język polski lub angielski.
 
-5. Zawiadomienie, o którym mowa w ust. 1, oraz dołączane do niego dokumenty są przesyłane do Komisji w formie elektronicznej przez właściwe organy nadzoru państwa macierzystego zarządzającego z UE na adres poczty elektronicznej ustanowiony przez Komisję dla celów otrzymywania zawiadomień dotyczących zarządzających z UE od właściwych organów nadzoru państwa macierzystego zarządzającego z UE oraz prowadzenia korespondencji z tymi organami w zakresie zawiadomień zarządzających z UE oraz prowadzonej przez zarządzających z UE działalności na terytorium Rzeczypospolitej Polskiej. Art. 263ba. 1. Zarządzający z UE może zaprzestać wprowadzania unijnego AFI, którym zarządza, do obrotu na terytorium Rzeczypospolitej Polskiej, pod warunkiem że:
+5. Zawiadomienie, o którym mowa w ust. 1, oraz dołączane do niego dokumenty są przesyłane do Komisji w formie elektronicznej przez właściwe organy nadzoru państwa macierzystego zarządzającego z UE na adres poczty elektronicznej ustanowiony przez Komisję dla celów otrzymywania zawiadomień dotyczących zarządzających z UE od właściwych organów nadzoru państwa macierzystego zarządzającego z UE oraz prowadzenia korespondencji z tymi organami w zakresie zawiadomień zarządzających z UE oraz prowadzonej przez zarządzających z UE działalności na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 263ba.**
+
+1. Zarządzający z UE może zaprzestać wprowadzania unijnego AFI, którym zarządza, do obrotu na terytorium Rzeczypospolitej Polskiej, pod warunkiem że:
 
 - **1)** opublikuje ogólną ofertę odkupienia, bez ponoszenia jakichkolwiek opłat lub potrąceń, wszystkich praw uczestnictwa unijnego AFI nabytych na terytorium Rzeczypospolitej Polskiej, przedstawi tę ofertę, bezpośrednio lub za pośrednictwem podmiotów uczestniczących w zbywaniu praw uczestnictwa unijnego AFI na terytorium Rzeczypospolitej Polskiej, indywidualnie inwestorom unijnego AFI oraz oferta ta będzie dostępna przez co najmniej 30 dni roboczych od dnia jej przedstawienia;
 - **2)** opublikuje i udostępni, w sposób przyjęty dla publikowania i udostępniania informacji o unijnym AFI na terytorium Rzeczypospolitej Polskiej w związku ze zbywaniem praw uczestnictwa unijnego AFI oraz odpowiedni dla kategorii klientów, do których unijny AFI był kierowany, informację o zamiarze zaprzestania wprowadzania unijnego AFI do obrotu na terytorium Rzeczypospolitej Polskiej;
@@ -7825,7 +8155,11 @@ Art. 300–319. (pominięte)
 
 2. W terminie 15 dni roboczych od dnia otrzymania wszystkich dokumentów i informacji, o których mowa w ust. 1, Komisja informuje towarzystwo albo zarządzającego ASI, że wskutek wprowadzenia planowanej zmiany zarządzanie unijnym AFI przez towarzystwo albo zarządzającego ASI nie będzie zgodne z przepisami prawa.
 
-3. W przypadku wprowadzenia planowanej zmiany, o której mowa w ust. 1, bez wymaganego zawiadomienia Komisji lub w przypadku gdy wskutek wprowadzonej zmiany zarządzanie unijnym AFI nie jest zgodne z przepisami prawa, Komisja może zastosować sankcje, o których mowa w art. 228 ust. 1c i art. 229a ust. 1. W przypadku gdy wprowadzona zmiana dodatkowo istotnie narusza interesy inwestorów unijnego AFI, Komisja, bez względu na zastosowanie sankcji, o których mowa w art. 228 ust. 1c i art. 229a ust. 1, może zakazać dalszego wprowadzania unijnego AFI do obrotu na terytorium Rzeczypospolitej Polskiej. Art. 263da. 1. Towarzystwo albo zarządzający ASI może zaprzestać wprowadzania unijnego AFI do obrotu na terytorium Rzeczypospolitej Polskiej, pod warunkiem że:
+3. W przypadku wprowadzenia planowanej zmiany, o której mowa w ust. 1, bez wymaganego zawiadomienia Komisji lub w przypadku gdy wskutek wprowadzonej zmiany zarządzanie unijnym AFI nie jest zgodne z przepisami prawa, Komisja może zastosować sankcje, o których mowa w art. 228 ust. 1c i art. 229a ust. 1. W przypadku gdy wprowadzona zmiana dodatkowo istotnie narusza interesy inwestorów unijnego AFI, Komisja, bez względu na zastosowanie sankcji, o których mowa w art. 228 ust. 1c i art. 229a ust. 1, może zakazać dalszego wprowadzania unijnego AFI do obrotu na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 263da.**
+
+1. Towarzystwo albo zarządzający ASI może zaprzestać wprowadzania unijnego AFI do obrotu na terytorium Rzeczypospolitej Polskiej, pod warunkiem że:
 
 - **1)** opublikuje ogólną ofertę odkupienia, bez ponoszenia jakichkolwiek opłat lub potrąceń, wszystkich praw uczestnictwa unijnego AFI nabytych na terytorium Rzeczypospolitej Polskiej, przedstawi tę ofertę, bezpośrednio lub za pośrednictwem podmiotów uczestniczących w zbywaniu praw uczestnictwa unijnego AFI na terytorium Rzeczypospolitej Polskiej, indywidualnie inwestorom posiadającym prawa uczestnictwa unijnego AFI na terytorium Rzeczypospolitej Polskiej oraz oferta ta będzie dostępna przez co najmniej 30 dni roboczych od dnia jej przedstawienia;
 - **2)** opublikuje i udostępni, w sposób przyjęty dla publikowania i udostępniania informacji o unijnym AFI na terytorium Rzeczypospolitej Polskiej w związku ze zbywaniem praw uczestnictwa unijnego AFI oraz odpowiedni dla kategorii klientów, do których unijny AFI był kierowany, informację o zamiarze zaprzestania wprowadzania unijnego AFI do obrotu na terytorium Rzeczypospolitej Polskiej;
@@ -7912,7 +8246,11 @@ Art. 300–319. (pominięte)
 
 4. W przypadku wprowadzenia planowanej zmiany, o której mowa w ust. 1, bez wymaganego zawiadomienia Komisji lub w przypadku gdy wskutek wprowadzonej zmiany zarządzanie funduszem inwestycyjnym, alternatywną spółką inwestycyjną lub unijnym AFI nie jest zgodne z przepisami prawa, Komisja może, bez względu na zastosowanie sankcji określonych w art. 228 ust. 1a i art. 229a ust. 1 i 3, zakazać dalszego zbywania jednostek uczestnictwa, proponowania objęcia certyfikatów inwestycyjnych lub wprowadzania do obrotu alternatywnej spółki inwestycyjnej albo unijnego AFI na terytorium państw członkowskich. O podjętej decyzji Komisja niezwłocznie informuje właściwy organ nadzoru państwa członkowskiego wskazanego w zawiadomieniu, o którym mowa w art. 263f ust. 1, przekazując tę informację na wskazany przez ten organ adres poczty elektronicznej.
 
-5. W przypadku gdy wprowadzenie zmian, o których mowa w ust. 1, nie wpływa na zgodność z przepisami prawa działalności towarzystwa albo zarządzającego ASI, w tym zarządzania przez nich funduszem inwestycyjnym, alternatywną spółką inwestycyjną lub unijnym AFI, Komisja w terminie miesiąca od dnia otrzymania informacji, o których mowa w ust. 1, przekazuje te informacje właściwemu organowi nadzoru państwa członkowskiego wskazanego w zawiadomieniu, o którym mowa w art. 263f ust. 1, na wskazany przez ten organ adres poczty elektronicznej. Art. 263ga. 1. Specjalistyczny fundusz inwestycyjny otwarty może zaprzestać zbywania jednostek uczestnictwa, fundusz inwestycyjny zamknięty może zaprzestać oferowania certyfikatów inwestycyjnych albo zarządzający ASI prowadzący działalność na podstawie zezwolenia może zaprzestać wprowadzania alternatywnej spółki inwestycyjnej lub unijnego AFI, którym zarządza, do obrotu na terytorium państwa członkowskiego, pod warunkiem że:
+5. W przypadku gdy wprowadzenie zmian, o których mowa w ust. 1, nie wpływa na zgodność z przepisami prawa działalności towarzystwa albo zarządzającego ASI, w tym zarządzania przez nich funduszem inwestycyjnym, alternatywną spółką inwestycyjną lub unijnym AFI, Komisja w terminie miesiąca od dnia otrzymania informacji, o których mowa w ust. 1, przekazuje te informacje właściwemu organowi nadzoru państwa członkowskiego wskazanego w zawiadomieniu, o którym mowa w art. 263f ust. 1, na wskazany przez ten organ adres poczty elektronicznej.
+
+**Art. 263ga.**
+
+1. Specjalistyczny fundusz inwestycyjny otwarty może zaprzestać zbywania jednostek uczestnictwa, fundusz inwestycyjny zamknięty może zaprzestać oferowania certyfikatów inwestycyjnych albo zarządzający ASI prowadzący działalność na podstawie zezwolenia może zaprzestać wprowadzania alternatywnej spółki inwestycyjnej lub unijnego AFI, którym zarządza, do obrotu na terytorium państwa członkowskiego, pod warunkiem że:
 
 - **1)** opublikuje ogólną ofertę odkupienia, bez ponoszenia jakichkolwiek opłat lub potrąceń, wszystkich odpowiednio jednostek uczestnictwa tego specjalistycznego funduszu inwestycyjnego otwartego, certyfikatów inwestycyjnych tego funduszu inwestycyjnego zamkniętego albo praw uczestnictwa tej alternatywnej spółki inwestycyjnej lub praw uczestnictwa tego unijnego AFI, nabytych na terytorium państwa członkowskiego, przedstawi tę ofertę, bezpośrednio lub za pośrednictwem podmiotów uczestniczących w zbywaniu odpowiednio jednostek uczestnictwa tego specjalistycznego funduszu inwestycyjnego otwartego, certyfikatów inwestycyjnych tego funduszu inwestycyjnego zamkniętego albo praw uczestnictwa tej alternatywnej spółki inwestycyjnej lub praw uczestnictwa tego unijnego AFI na terytorium państwa członkowskiego, indywidualnie uczestnikom specjalistycznego funduszu inwestycyjnego otwartego, uczestnikom funduszu inwestycyjnego zamkniętego albo inwestorom alternatywnej spółki inwestycyjnej lub unijnego AFI na terytorium państwa członkowskiego oraz oferta ta będzie dostępna przez co najmniej 30 dni roboczych od dnia jej przedstawienia;
 - **2)** opublikuje i udostępni na terytorium państwa członkowskiego, w sposób przyjęty dla publikowania i udostępniania informacji o specjalistycznym funduszu inwestycyjnym otwartym, funduszu inwestycyjnym zamkniętym, alternatywnej spółce inwestycyjnej lub unijnym AFI na terytorium państwa członkowskiego w związku ze zbywaniem jednostek uczestnictwa, oferowaniem certyfikatów inwestycyjnych lub wprowadzaniem do obrotu praw uczestnictwa oraz odpowiedni dla kategorii klientów, do których były kierowane te fundusze, informację o zamiarze zaprzestania zbywania jednostek uczestnictwa specjalistycznego funduszu inwestycyjnego otwartego, oferowania certyfikatów inwestycyjnych funduszu inwestycyjnego zamkniętego lub wprowadzania do obrotu alternatywnej spółki inwestycyjnej lub unijnego AFI na terytorium państwa członkowskiego;
@@ -9008,6 +9346,8 @@ Art. 300–319. (pominięte)
 **Art. 299.** Kto wbrew obowiązkowi, o którym mowa w art. 69, art. 70z oraz art. 227 ust. 1, nie archiwizuje lub nie przechowuje dokumentów lub innych nośników informacji związanych z prowadzeniem działalności towarzystwa, funduszu inwestycyjnego, zarządzającego ASI lub alternatywnej spółki inwestycyjnej, podlega grzywnie albo karze ograniczenia wolności.
 
 ### DZIAŁ XV Zmiany w przepisach obowiązujących
+
+**Art. 300–319.** (pominięte)
 
 ### DZIAŁ XVI Przepisy przejściowe i końcowe
 

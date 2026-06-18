@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej
+# Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej
 
 *USTAWA z dnia 24 sierpnia 2007 r.*
 

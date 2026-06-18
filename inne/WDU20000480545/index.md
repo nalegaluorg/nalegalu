@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o radcach prawnych
+# Ustawa z dnia 16 marca 2000 r. o zmianie ustawy o radcach prawnych.
 
 *USTAWA z dnia 16 marca 2000 r.*
 

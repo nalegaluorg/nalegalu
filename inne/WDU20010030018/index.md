@@ -2150,7 +2150,11 @@ source: pdf
 - **1)** sposobie stosowania izotopów promieniotwórczych lub promieniowania jonizującego w odniesieniu do tej osoby;
 - **2)** oczekiwanych potencjalnych korzyściach z eksperymentu medycznego lub badania klinicznego lub badania działania przewyższających niepożądane skutki napromienienia dla osoby poddawanej ekspozycji medycznej;
 - **3)** ustalonych ogranicznikach dawek (limitach użytkowych dawek) w przypadku osób, w odniesieniu do których nie oczekuje się bezpośredniej korzyści medycznej wynikającej z ekspozycji medycznej;
-- **4)** docelowych poziomach dawek w przypadku osób, w odniesieniu do których oczekuje się bezpośredniej korzyści diagnostycznej lub terapeutycznej wynikającej z eksperymentu medycznego lub badania klinicznego lub badania działania. Art. 33za. 1. Badania przesiewowe organizuje się za zgodą ministra właściwego do spraw zdrowia.
+- **4)** docelowych poziomach dawek w przypadku osób, w odniesieniu do których oczekuje się bezpośredniej korzyści diagnostycznej lub terapeutycznej wynikającej z eksperymentu medycznego lub badania klinicznego lub badania działania.
+
+**Art. 33za.**
+
+1. Badania przesiewowe organizuje się za zgodą ministra właściwego do spraw zdrowia.
 
 2. Minister właściwy do spraw zdrowia udziela zgody, o której mowa w ust. 1, na wniosek podmiotu zamierzającego zorganizować badania przesiewowe, jeżeli podmiot ten:
 
@@ -2166,12 +2170,20 @@ source: pdf
 
 4. W prowadzeniu badań przesiewowych z zastosowaniem promieniowania jonizującego może uczestniczyć wyłącznie jednostka ochrony zdrowia, o której mowa w ust. 2 pkt 1 lit. c, która posiada zgodę, o której mowa w art. 33q ust. 1 lub 2, w zakresie zgodnym z zakresem badań przesiewowych.
 
-5. Lekarz przeprowadzający badanie przekazuje osobom uczestniczącym w badaniach przesiewowych, ich przedstawicielom ustawowym oraz osobom przez nich upoważnionym informacje na temat zagrożeń związanych z promieniowaniem jonizującym oraz odpowiednie instrukcje mające na celu ograniczenie dawek w stosunku do osób mających kontakt z osobą poddawaną badaniom przesiewowym. Instrukcje te mają formę pisemną i są przekazywane przed opuszczeniem jednostki ochrony zdrowia. Art. 33zb. 1. Podmiot organizujący badania przesiewowe jest obowiązany do:
+5. Lekarz przeprowadzający badanie przekazuje osobom uczestniczącym w badaniach przesiewowych, ich przedstawicielom ustawowym oraz osobom przez nich upoważnionym informacje na temat zagrożeń związanych z promieniowaniem jonizującym oraz odpowiednie instrukcje mające na celu ograniczenie dawek w stosunku do osób mających kontakt z osobą poddawaną badaniom przesiewowym. Instrukcje te mają formę pisemną i są przekazywane przed opuszczeniem jednostki ochrony zdrowia.
+
+**Art. 33zb.**
+
+1. Podmiot organizujący badania przesiewowe jest obowiązany do:
 
 - **1)** dokumentowania przebiegu badań przesiewowych zgodnie z zasadami, o których mowa w art. 33za ust. 2 pkt 2;
 - **2)** udostępniania dokumentacji dotyczącej przebiegu badań przesiewowych właściwej komisji procedur i audytów na wniosek przewodniczącego tej komisji.
 
-2. Udostępnienie dokumentacji komisji procedur i audytów następuje w terminie 7 dni od dnia otrzymania wniosku. Art. 33zc. 1. Komisja procedur i audytów, na podstawie dokumentacji dotyczącej przebiegu badań przesiewowych udostępnionej zgodnie z przepisami art. 33zb, przeprowadza ocenę jakości prowadzonych badań przesiewowych oraz wyników tych badań. Ocena jest przeprowadzana przynajmniej raz w okresie prowadzenia badań przesiewowych, jednak nie rzadziej niż co 3 lata, licząc od dnia wydania zgody, o której mowa w art. 33za ust. 1.
+2. Udostępnienie dokumentacji komisji procedur i audytów następuje w terminie 7 dni od dnia otrzymania wniosku.
+
+**Art. 33zc.**
+
+1. Komisja procedur i audytów, na podstawie dokumentacji dotyczącej przebiegu badań przesiewowych udostępnionej zgodnie z przepisami art. 33zb, przeprowadza ocenę jakości prowadzonych badań przesiewowych oraz wyników tych badań. Ocena jest przeprowadzana przynajmniej raz w okresie prowadzenia badań przesiewowych, jednak nie rzadziej niż co 3 lata, licząc od dnia wydania zgody, o której mowa w art. 33za ust. 1.
 
 2. Przeprowadzając ocenę, o której mowa w ust. 1, komisja procedur i audytów analizuje w szczególności, czy korzyści z danego badania przesiewowego przewyższają znacznie możliwe szkodliwe następstwa tego badania, czy są dostępne inne metody diagnostyczne o podobnej skuteczności jak badania przesiewowe, obciążone mniejszym ryzykiem, a także, czy jednostki ochrony zdrowia uczestniczące w prowadzeniu badań przesiewowych dysponują urządzeniami radiologicznymi oraz urządzeniami pomocniczymi niezbędnymi do przeprowadzania takich badań.
 
@@ -2179,7 +2191,11 @@ source: pdf
 
 4. Komisja procedur i audytów może postanowić o opracowaniu procedury wzorcowej dla badań przesiewowych, mogącej stanowić podstawę opracowania procedur szczegółowych dla badań przesiewowych.
 
-5. Do procedur wzorcowych, o których mowa w ust. 4, stosuje się odpowiednio przepisy art. 33t ust. 2–10. Art. 33zd. 1. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+5. Do procedur wzorcowych, o których mowa w ust. 4, stosuje się odpowiednio przepisy art. 33t ust. 2–10.
+
+**Art. 33zd.**
+
+1. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** warunki bezpiecznego stosowania promieniowania jonizującego dla wszystkich rodzajów ekspozycji medycznej oraz szczegółowe wymagania dla urządzeń radiologicznych oraz urządzeń pomocniczych,
 - **2)** maksymalne wartości ograniczników dawek (limitów użytkowych dawek) dla osób uczestniczących w eksperymentach medycznych, badaniach klinicznych produktów leczniczych lub badaniach klinicznych lub badaniach działania wyrobów, o których mowa w art. 4 ust. 1 pkt 12 lit. b, związanych z ekspozycją medyczną, oraz dla opiekunów,
@@ -2187,7 +2203,11 @@ source: pdf
 
 2. Minister właściwy do spraw zdrowia może określić, w drodze rozporządzenia, wymagania dla urządzeń radiologicznych oraz urządzeń pomocniczych, stosowanych do prowadzenia badań przesiewowych, mając na względzie bezpieczeństwo osób poddawanych badaniom przesiewowym oraz różnorodność medycznych procedur radiologicznych stosowanych w ramach takich badań.
 
-3. Minister właściwy do spraw zdrowia może określić, w drodze rozporządzenia, wymagania dla urządzeń radiologicznych oraz urządzeń pomocniczych, stosowanych do wykonywania ekspozycji w wyniku obrazowania pozamedycznego, mając na względzie konieczność zapewnienia bezpieczeństwa osób poddawanych takim ekspozycjom oraz niemedyczny cel takich ekspozycji. Art. 33ze. 1. Krajowe Centrum jest państwową jednostką budżetową.
+3. Minister właściwy do spraw zdrowia może określić, w drodze rozporządzenia, wymagania dla urządzeń radiologicznych oraz urządzeń pomocniczych, stosowanych do wykonywania ekspozycji w wyniku obrazowania pozamedycznego, mając na względzie konieczność zapewnienia bezpieczeństwa osób poddawanych takim ekspozycjom oraz niemedyczny cel takich ekspozycji.
+
+**Art. 33ze.**
+
+1. Krajowe Centrum jest państwową jednostką budżetową.
 
 2. Krajowym Centrum kieruje i reprezentuje je na zewnątrz dyrektor Krajowego Centrum, który wykonuje zadania przy pomocy zastępców dyrektora Krajowego Centrum.
 
@@ -2227,13 +2247,21 @@ source: pdf
 
 8. Krajowe Centrum wydaje, na wniosek zainteresowanego podmiotu, opinie w sprawach związanych z możliwością wystąpienia uszczerbku na zdrowiu w wyniku ekspozycji medycznej. Opinia jest wydawana bez zbędnej zwłoki.
 
-9. Krajowe Centrum składa ministrowi właściwemu do spraw zdrowia sprawozdanie z oceny wdrożenia wymagań bezpiecznego stosowania promieniowania jonizującego w celach medycznych w terminie do dnia 30 czerwca każdego roku, za poprzedni rok kalendarzowy. Art. 33zf. 1. Krajowe Centrum prowadzi Centralny Rejestr Danych o Ekspozycjach Medycznych. Rejestr jest jawny, z wyłączeniem danych pozwalających na identyfikację jednostki ochrony zdrowia, w której ekspozycja medyczna została wykonana.
+9. Krajowe Centrum składa ministrowi właściwemu do spraw zdrowia sprawozdanie z oceny wdrożenia wymagań bezpiecznego stosowania promieniowania jonizującego w celach medycznych w terminie do dnia 30 czerwca każdego roku, za poprzedni rok kalendarzowy.
+
+**Art. 33zf.**
+
+1. Krajowe Centrum prowadzi Centralny Rejestr Danych o Ekspozycjach Medycznych. Rejestr jest jawny, z wyłączeniem danych pozwalających na identyfikację jednostki ochrony zdrowia, w której ekspozycja medyczna została wykonana.
 
 2. Rejestr, o którym mowa w ust. 1, zawiera dane o liczbie zastosowań medycznych procedur radiologicznych w podziale na płeć oraz wiek, a także o wielkości narażenia związanego z zastosowaniem tych procedur.
 
 3. Rejestr, o którym mowa w ust. 1, jest prowadzony w oparciu o raporty, o których mowa w art. 33v ust. 6 oraz art. 33w ust. 19, oraz dane z krajowych rejestrów i baz danych dotyczących wykorzystania promieniowania jonizującego w celach medycznych, w tym stosowania procedur szczegółowych.
 
-4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, zakres informacji zawartych w rejestrze, o którym mowa w ust. 1, mając na względzie konieczność zapewnienia kompleksowej informacji o ekspozycjach medycznych. Art. 33zg. 1. Narażenie w wyniku obrazowania pozamedycznego może się odbywać z wykorzystaniem:
+4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, zakres informacji zawartych w rejestrze, o którym mowa w ust. 1, mając na względzie konieczność zapewnienia kompleksowej informacji o ekspozycjach medycznych.
+
+**Art. 33zg.**
+
+1. Narażenie w wyniku obrazowania pozamedycznego może się odbywać z wykorzystaniem:
 
 - **1)** urządzeń radiologicznych;
 - **2)** urządzeń niebędących urządzeniami radiologicznymi.
@@ -2253,7 +2281,11 @@ source: pdf
 
 - **1)** wykrywaniu obiektów ukrytych na powierzchni ciała ludzkiego lub przymocowanych do ciała ludzkiego;
 - **2)** wykrywaniu ukrytych osób w ramach kontroli ładunku;
-- **3)** realizacji celów ochrony prawnej lub celów związanych z bezpieczeństwem. Art. 33zh. 1. Ekspozycje, o których mowa w art. 33zg ust. 2 i 3, wymagają uzasadnienia. Uzasadnienie polega na wykazaniu przewagi całkowitych potencjalnych korzyści dla osoby poddanej narażeniu lub korzyści dla społeczeństwa nad indywidualną szkodą, którą ekspozycja może spowodować u osoby poddanej narażeniu w wyniku obrazowania pozamedycznego lub jej potomstwa, z uwzględnieniem cech indywidualnych osoby poddawanej ekspozycji.
+- **3)** realizacji celów ochrony prawnej lub celów związanych z bezpieczeństwem.
+
+**Art. 33zh.**
+
+1. Ekspozycje, o których mowa w art. 33zg ust. 2 i 3, wymagają uzasadnienia. Uzasadnienie polega na wykazaniu przewagi całkowitych potencjalnych korzyści dla osoby poddanej narażeniu lub korzyści dla społeczeństwa nad indywidualną szkodą, którą ekspozycja może spowodować u osoby poddanej narażeniu w wyniku obrazowania pozamedycznego lub jej potomstwa, z uwzględnieniem cech indywidualnych osoby poddawanej ekspozycji.
 
 2. Uzasadnienie ekspozycji, o której mowa w art. 33zg ust. 3 pkt 2, polega na wykazaniu przewagi całkowitych potencjalnych korzyści dla społeczeństwa nad indywidualną szkodą, którą ekspozycja może spowodować u osoby potencjalnie ukrytej w ładunku, poddanej narażeniu w wyniku obrazowania pozamedycznego.
 
@@ -2270,7 +2302,11 @@ source: pdf
 
 7. Zezwolenia, o którym mowa w ust. 5, nie udziela się, jeżeli identyfikacja obiektów ukrytych w ciele ludzkim, wykrycie obiektów ukrytych na powierzchni ciała ludzkiego lub przymocowanych do ciała ludzkiego lub realizacja celu ochrony prawnej lub związanego z bezpieczeństwem są możliwe przy użyciu środków i procedur innych niż przeprowadzenie ekspozycji w wyniku obrazowania pozamedycznego.
 
-8. Dzieci, kobiety w wieku rozrodczym i kobiety w ciąży podlegają szczególnej ochronie w związku z ekspozycją w wyniku obrazowania pozamedycznego. Art. 33zi. 1. Ekspozycje, o których mowa w art. 33zg ust. 2, mogą zostać przeprowadzone wyłącznie na podstawie pisemnego zlecenia wystawionego przez osobę uprawnioną zgodnie z przepisami dotyczącymi kierowania osób na medyczne procedury radiologiczne.
+8. Dzieci, kobiety w wieku rozrodczym i kobiety w ciąży podlegają szczególnej ochronie w związku z ekspozycją w wyniku obrazowania pozamedycznego.
+
+**Art. 33zi.**
+
+1. Ekspozycje, o których mowa w art. 33zg ust. 2, mogą zostać przeprowadzone wyłącznie na podstawie pisemnego zlecenia wystawionego przez osobę uprawnioną zgodnie z przepisami dotyczącymi kierowania osób na medyczne procedury radiologiczne.
 
 2. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw pracy określi, w drodze rozporządzenia, zakres informacji objętych zleceniem, o którym mowa w ust. 1, na przeprowadzenie ekspozycji, o których mowa w art. 33zg ust. 2 pkt 1 lit. a oraz c, a także wzór tego zlecenia.
 
@@ -2278,16 +2314,30 @@ source: pdf
 
 4. Minister właściwy do spraw kultury fizycznej w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, zakres informacji objętych zleceniem, o którym mowa w ust. 1, na przeprowadzenie ekspozycji, o których mowa w art. 33zg ust. 2 pkt 2, a także wzór tego zlecenia.
 
-5. Wydając rozporządzenie, o którym mowa w ust. 2–4, właściwy minister kieruje się koniecznością zapewnienia informacji niezbędnych dla bezpiecznego przeprowadzenia ekspozycji, w tym zastosowania właściwej medycznej procedury radiologicznej, a także umożliwiających weryfikację zlecenia, o którym mowa w ust. 1, na przeprowadzenie ekspozycji pod kątem spełnienia wymagań określonych w art. 33zh ust. 1. Art. 33zj. 1. Ekspozycja, o której mowa w art. 33zg ust. 2, może być przeprowadzona wyłącznie:
+5. Wydając rozporządzenie, o którym mowa w ust. 2–4, właściwy minister kieruje się koniecznością zapewnienia informacji niezbędnych dla bezpiecznego przeprowadzenia ekspozycji, w tym zastosowania właściwej medycznej procedury radiologicznej, a także umożliwiających weryfikację zlecenia, o którym mowa w ust. 1, na przeprowadzenie ekspozycji pod kątem spełnienia wymagań określonych w art. 33zh ust. 1.
+
+**Art. 33zj.**
+
+1. Ekspozycja, o której mowa w art. 33zg ust. 2, może być przeprowadzona wyłącznie:
 
 - **1)** w jednostkach ochrony zdrowia posiadających zgodę, o której mowa w art. 33q, w zakresie odpowiadającym zleceniu, o którym mowa w art. 33zi ust. 1;
 - **2)** zgodnie z procedurą szczegółową.
 
-2. Do ekspozycji, o której mowa w art. 33zg ust. 2, stosuje się przepisy art. 33c ust. 1–3. Art. 33zk. 1. Komisja procedur i audytów może postanowić o opracowaniu procedury wzorcowej dla ekspozycji w wyniku obrazowania pozamedycznego, o których mowa w art. 33zg ust. 2, mogącej stanowić podstawę opracowania procedur szczegółowych dla ekspozycji w wyniku obrazowania pozamedycznego, o których mowa w art. 33zg ust. 2.
+2. Do ekspozycji, o której mowa w art. 33zg ust. 2, stosuje się przepisy art. 33c ust. 1–3.
 
-2. Do procedur wzorcowych, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 33t ust. 2–10. Art. 33zl. 1. Do ekspozycji, o której mowa w art. 33zg ust. 2, nie stosuje się przepisów dotyczących ograniczników dawek (limitów użytkowych dawek) dla osób z ogółu ludności oraz dawek granicznych dla osób z ogółu ludności.
+**Art. 33zk.**
 
-2. W przypadku ekspozycji, o której mowa w art. 33zg ust. 3, kierownik jednostki organizacyjnej, w której ma być przeprowadzona ekspozycja, ustala ograniczniki dawek (limity użytkowe dawek) dla osób poddawanych ekspozycji na poziomie znacznie poniżej dawki granicznej dla osób z ogółu ludności. Art. 33zm. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, formę i szczegółowy zakres procedur wzorcowych i procedur szczegółowych, mając na względzie zagrożenie wynikające z narażenia osoby poddawanej ekspozycji.
+1. Komisja procedur i audytów może postanowić o opracowaniu procedury wzorcowej dla ekspozycji w wyniku obrazowania pozamedycznego, o których mowa w art. 33zg ust. 2, mogącej stanowić podstawę opracowania procedur szczegółowych dla ekspozycji w wyniku obrazowania pozamedycznego, o których mowa w art. 33zg ust. 2.
+
+2. Do procedur wzorcowych, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 33t ust. 2–10.
+
+**Art. 33zl.**
+
+1. Do ekspozycji, o której mowa w art. 33zg ust. 2, nie stosuje się przepisów dotyczących ograniczników dawek (limitów użytkowych dawek) dla osób z ogółu ludności oraz dawek granicznych dla osób z ogółu ludności.
+
+2. W przypadku ekspozycji, o której mowa w art. 33zg ust. 3, kierownik jednostki organizacyjnej, w której ma być przeprowadzona ekspozycja, ustala ograniczniki dawek (limity użytkowe dawek) dla osób poddawanych ekspozycji na poziomie znacznie poniżej dawki granicznej dla osób z ogółu ludności.
+
+**Art. 33zm.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, formę i szczegółowy zakres procedur wzorcowych i procedur szczegółowych, mając na względzie zagrożenie wynikające z narażenia osoby poddawanej ekspozycji.
 
 #### Rozdział 4 Obiekty jądrowe
 
@@ -2831,9 +2881,13 @@ source: pdf
 
 3. (uchylony)
 
-4. Warunkiem wydania zezwolenia na budowę obiektu jądrowego jest uprzednie przedłożenie przez inwestora opinii Komisji Europejskiej, wydanej na podstawie art. 43 Traktatu ustanawiającego Europejską Wspólnotę Energii Atomowej (Euratom). Art. 39ia. Do zezwolenia na budowę obiektu jądrowego, poprzedzonego decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+4. Warunkiem wydania zezwolenia na budowę obiektu jądrowego jest uprzednie przedłożenie przez inwestora opinii Komisji Europejskiej, wydanej na podstawie art. 43 Traktatu ustanawiającego Europejską Wspólnotę Energii Atomowej (Euratom).
 
-**Art. 39j.** Warunkiem wydania zezwolenia na rozruch obiektu jądrowego jest uprzednie przedłożenie przez inwestora opinii Komisji Europejskiej, wydanej na podstawie art. 37 Traktatu ustanawiającego Europejską Wspólnotę Energii Atomowej (Euratom). Art. 39ja. Kierownik jednostki organizacyjnej przedstawia Prezesowi Agencji pozwolenie na użytkowanie obiektu jądrowego, o którym mowa w przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080), nie później niż w terminie 7 miesięcy od dnia złożenia wniosku o wydanie zezwolenia na rozruch obiektu jądrowego. W przypadku nieprzedstawienia pozwolenia na użytkowanie obiektu jądrowego w tym terminie przepisy art. 64 § 2 i art. 79a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
+**Art. 39ia.** Do zezwolenia na budowę obiektu jądrowego, poprzedzonego decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+
+**Art. 39j.** Warunkiem wydania zezwolenia na rozruch obiektu jądrowego jest uprzednie przedłożenie przez inwestora opinii Komisji Europejskiej, wydanej na podstawie art. 37 Traktatu ustanawiającego Europejską Wspólnotę Energii Atomowej (Euratom).
+
+**Art. 39ja.** Kierownik jednostki organizacyjnej przedstawia Prezesowi Agencji pozwolenie na użytkowanie obiektu jądrowego, o którym mowa w przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080), nie później niż w terminie 7 miesięcy od dnia złożenia wniosku o wydanie zezwolenia na rozruch obiektu jądrowego. W przypadku nieprzedstawienia pozwolenia na użytkowanie obiektu jądrowego w tym terminie przepisy art. 64 § 2 i art. 79a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 **Art. 39k.**
 
@@ -2841,7 +2895,9 @@ source: pdf
 
 2. Zezwolenie na budowę obiektu jądrowego może być przedłożone przez inwestora w trakcie trwania postępowania o wydanie pozwolenia na budowę.
 
-3. Do postępowania o wydanie pozwolenia na budowę, o którym mowa w ust. 1, przepisu art. 32 ust. 1 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane nie stosuje się. Art. 39ka. Prezes Agencji, wszczynając postępowanie o wydanie zezwolenia na budowę obiektu jądrowego będącego równocześnie obiektem energetyki jądrowej w rozumieniu art. 2 pkt 2 ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2025 r. poz. 1156), niezwłocznie zawiadamia o tym organ wydający pozwolenie na budowę, dołączając do zawiadomienia kopię wniosku o wydanie zezwolenia na budowę obiektu jądrowego będącego równocześnie obiektem energetyki jądrowej stanowiącego podstawę wszczęcia postępowania, wraz z kopią dokumentów dołączonych do tego wniosku. Przepisu art. 31 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+3. Do postępowania o wydanie pozwolenia na budowę, o którym mowa w ust. 1, przepisu art. 32 ust. 1 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane nie stosuje się.
+
+**Art. 39ka.** Prezes Agencji, wszczynając postępowanie o wydanie zezwolenia na budowę obiektu jądrowego będącego równocześnie obiektem energetyki jądrowej w rozumieniu art. 2 pkt 2 ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2025 r. poz. 1156), niezwłocznie zawiadamia o tym organ wydający pozwolenie na budowę, dołączając do zawiadomienia kopię wniosku o wydanie zezwolenia na budowę obiektu jądrowego będącego równocześnie obiektem energetyki jądrowej stanowiącego podstawę wszczęcia postępowania, wraz z kopią dokumentów dołączonych do tego wniosku. Przepisu art. 31 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
 #### Rozdział 4a Informacja społeczna w zakresie obiektów energetyki jądrowej
 
@@ -3837,7 +3893,9 @@ source: pdf
 
 2. (uchylony)
 
-3. Warunkiem wydania zezwolenia na budowę składowiska odpadów promieniotwórczych jest uprzednie przedłożenie przez inwestora opinii Komisji Europejskiej, wydanej na podstawie art. 37 Traktatu ustanawiającego Europejską Wspólnotę Energii Atomowej (Euratom). Art. 55ra. Do zezwolenia na budowę składowiska odpadów promieniotwórczych, poprzedzonego decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+3. Warunkiem wydania zezwolenia na budowę składowiska odpadów promieniotwórczych jest uprzednie przedłożenie przez inwestora opinii Komisji Europejskiej, wydanej na podstawie art. 37 Traktatu ustanawiającego Europejską Wspólnotę Energii Atomowej (Euratom).
+
+**Art. 55ra.** Do zezwolenia na budowę składowiska odpadów promieniotwórczych, poprzedzonego decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 **Art. 55s.** Wydanie zezwolenia na budowę składowiska odpadów promieniotwórczych jest warunkiem uzyskania pozwolenia na budowę tego składowiska, wydawanego na zasadach określonych w przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 
@@ -6043,7 +6101,9 @@ source: pdf
 
 5. Krajowe Składowisko Odpadów Promieniotwórczych w Różanie, określone w przepisach wydanych na podstawie ustawy, o której mowa w art. 138, uznaje się za Krajowe Składowisko Odpadów Promieniotwórczych w rozumieniu ustawy.
 
-6. Postępowania wszczęte przed dniem wejścia w życie ustawy toczą się do chwili ich zakończenia zgodnie z przepisami dotychczasowymi. Art. 134–137. (pominięte)
+6. Postępowania wszczęte przed dniem wejścia w życie ustawy toczą się do chwili ich zakończenia zgodnie z przepisami dotychczasowymi.
+
+**Art. 134–137.** (pominięte)
 
 **Art. 138.** Traci moc ustawa z dnia 10 kwietnia 1986 r. – Prawo atomowe (Dz. U. poz. 70, z późn. zm. ).
 

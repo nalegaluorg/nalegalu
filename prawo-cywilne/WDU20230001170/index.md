@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo własności przemysłowej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo własności przemysłowej
 
 | Pole | Wartość |
 |---|---|
@@ -43,7 +43,6 @@ USTAWA z dnia 30 czerwca 2000 r.
 Prawo własności przemysłowej
 Zawieszenie oraz rozwiązanie stosunku pracy z ekspertem
 Przepisy przejściowe i końcowe
-Art. 311–314. (pominięte)
 
 ## TYTUŁ I Przepisy ogólne
 
@@ -3156,6 +3155,8 @@ Art. 311–314. (pominięte)
 ## TYTUŁ XI Zmiany w przepisach obowiązujących.
 
 ### DZIAŁ I Zmiany w przepisach obowiązujących
+
+**Art. 311–314.** (pominięte)
 
 ### DZIAŁ II Przepisy przejściowe i końcowe
 

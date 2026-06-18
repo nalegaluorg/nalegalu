@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo o ruchu drogowym
+# Ustawa z dnia 6 grudnia 2008 r. o zmianie ustawy - prawo o ruchu drogowym
 
 *USTAWA z dnia 6 grudnia 2008 r.*
 

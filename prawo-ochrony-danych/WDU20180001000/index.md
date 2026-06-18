@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie danych osobowych
+# Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych
 
 *USTAWA z dnia 10 maja 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-05-24 |
 | Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.pdf) |
-
-Art. 109–157. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1021,6 +1019,8 @@ Art. 109–157. (pominięte)
 2. Tej samej karze podlega kto, w związku z toczącym się postępowaniem w sprawie nałożenia administracyjnej kary pieniężnej, nie dostarcza danych niezbędnych do określenia podstawy wymiaru administracyjnej kary pieniężnej lub dostarcza dane, które uniemożliwiają ustalenie podstawy wymiaru administracyjnej kary pieniężnej.
 
 #### Rozdział 12 Zmiany w przepisach
+
+**Art. 109–157.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i dostosowujące
 

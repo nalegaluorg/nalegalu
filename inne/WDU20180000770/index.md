@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kosztach komorniczych
+# Ustawa z dnia 28 lutego 2018 r. o kosztach komorniczych
 
 *USTAWA z dnia 28 lutego 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-04-25 |
 | Ostatnia zmiana | 2024-03-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000770) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/770/text.pdf) |
-
-Art. 49–51. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -369,6 +367,8 @@ Art. 49–51. (pominięte)
 5. Opłata obniżona nie może być niższa niż jedna trzecia opłaty należnej na podstawie ustawy, nie niższa jednak niż 200 złotych.
 
 #### Rozdział 5 Przepisy zmieniające i przejściowe oraz przepis końcowy
+
+**Art. 49–51.** (pominięte)
 
 **Art. 52.**
 

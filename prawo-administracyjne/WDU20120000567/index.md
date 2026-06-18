@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie gminnym
+# Ustawa z dnia 10 maja 2012 r. o zmianie ustawy o samorządzie gminnym
 
 *USTAWA z dnia 10 maja 2012 r.*
 

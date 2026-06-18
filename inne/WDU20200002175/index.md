@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o paszach
+# Ustawa z dnia 19 listopada 2020 r. o zmianie ustawy o paszach
 
 *USTAWA z dnia 19 listopada 2020 r.*
 

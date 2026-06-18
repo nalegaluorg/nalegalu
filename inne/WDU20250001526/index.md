@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o działalności ubezpieczeniowej i reasekuracyjnej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o działalności ubezpieczeniowej i reasekuracyjnej
 
 *USTAWA z dnia 11 września 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-11-06 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001526) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1526/text.pdf) |
-
-Art. 441–479. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -5963,6 +5961,8 @@ Art. 441–479. (pominięte)
 2. Jeżeli sprawca dopuszcza się czynu, o którym mowa w ust. 1, w celu osiągnięcia korzyści majątkowej lub osobistej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 5.
 
 #### Rozdział 18 Zmiany w przepisach obowiązujących
+
+**Art. 441–479.** (pominięte)
 
 #### Rozdział 19 Przepisy przejściowe i dostosowujące
 

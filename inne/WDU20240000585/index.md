@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami
 
 *USTAWA z dnia 24 sierpnia 2001 r.*
 

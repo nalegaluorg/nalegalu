@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie wynagrodzenia i świadczeń przysługujących pracownikom polskich placówek dyplomatycznych i urzędów konsularnych.
+# Rozporządzenie Rady Ministrów z dnia 26 października 1999 r. zmieniające rozporządzenie w sprawie wynagradzania i świadczeń przysługujących pracownikom polskich placówek dyplomatycznych i urzędów konsularnych.
 
 | Pole | Wartość |
 |---|---|

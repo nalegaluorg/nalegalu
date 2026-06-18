@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji
+# Ustawa z dnia 17 lipca 1997 r. o zmianie ustawy o Policji.
 
 *USTAWA z dnia 17 lipca 1997 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o składkach na ubezpieczenie zdrowotne rolników za 2012 r.
+# Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy o składkach na ubezpieczenie zdrowotne rolników za 2012 r.
 
 *USTAWA z dnia 7 grudnia 2012 r.*
 

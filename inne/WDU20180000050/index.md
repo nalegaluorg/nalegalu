@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu ułatwienia zwalczania chorób zakaźnych zwierząt
+# Ustawa z dnia 14 grudnia 2017 r. o zmianie niektórych ustaw w celu ułatwienia zwalczania chorób zakaźnych zwierząt
 
 *USTAWA z dnia 14 grudnia 2017 r.*
 

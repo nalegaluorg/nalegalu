@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zdnia 24 li stopada 1998 r .
+# Wyrok Trybunału Konstytucyjnego z dnia 24 listopada 1998 r. sygn. akt K.22/98
 
 | Pole | Wartość |
 |---|---|

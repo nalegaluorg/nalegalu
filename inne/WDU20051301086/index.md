@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Państwowej Inspekcji Sanitarnej
+# Ustawa z dnia 3 czerwca 2005 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej
 
 *USTAWA z dnia 3 czerwca 2005 r.*
 

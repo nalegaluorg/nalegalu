@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o swobodzie działalności gospodarczej oraz niektórych innych ustaw
+# Ustawa z dnia 13 maja 2011 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz niektórych innych ustaw
 
 *USTAWA z dnia 13 maja 2011 r.*
 

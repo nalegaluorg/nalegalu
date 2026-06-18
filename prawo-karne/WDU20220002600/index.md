@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 lipca 2022 r.*
 
@@ -81,7 +81,9 @@ source: pdf
 - **12)** w art. 43a dodaje się § 4 w brzmieniu: „§ 4. W razie skazania za udział w bójce lub pobiciu, o których mowa w art. 158 lub w art. 159, sąd orzeka, a jeżeli jednocześnie orzeka obowiązek lub nawiązkę na podstawie art. 46 § 1 lub 2 – może orzec, świadczenie pieniężne wymienione w art. 39 pkt 7 na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej w wysokości co najmniej 5000 złotych.”;
 - **13)** po art. 43b dodaje się art. 43ba i art. 43bb w brzmieniu: „Art. 43ba. § 1. Degradacja obejmuje utratę posiadanego stopnia wojskowego i powrót do stopnia szeregowego.
 
-§ 2. Sąd może orzec degradację w razie skazania za przestępstwo umyślne, jeżeli rodzaj czynu, sposób i okoliczności jego popełnienia pozwalają przyjąć, że sprawca utracił właściwości wymagane do posiadania stopnia wojskowego. Art. 43bb. Sąd może orzec degradację wobec osoby, która w czasie popełnienia czynu była żołnierzem, żołnierzem rezerwy lub żołnierzem w stanie spoczynku.”;
+§ 2. Sąd może orzec degradację w razie skazania za przestępstwo umyślne, jeżeli rodzaj czynu, sposób i okoliczności jego popełnienia pozwalają przyjąć, że sprawca utracił właściwości wymagane do posiadania stopnia wojskowego.
+
+**Art. 43bb.** Sąd może orzec degradację wobec osoby, która w czasie popełnienia czynu była żołnierzem, żołnierzem rezerwy lub żołnierzem w stanie spoczynku.”;
 
 - **14)** po art. 44a dodaje się art. 44b w brzmieniu: „Art. 44b. § 1. W wypadkach wskazanych w ustawie sąd orzeka przepadek pojazdu mechanicznego prowadzonego przez sprawcę w ruchu lądowym.
 

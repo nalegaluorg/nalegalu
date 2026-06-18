@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o praktykach absolwenckich
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o praktykach absolwenckich
 
 | Pole | Wartość |
 |---|---|
@@ -110,7 +110,9 @@ o praktykach absolwenckich
 
 7. Wojewoda otrzymane środki na dofinansowanie, o którym mowa w ust. 1, przekazuje na wyodrębniony rachunek bankowy gminy.
 
-8. Dofinansowanie, o którym mowa w ust. 1, udzielane podmiotowi prowadzącemu działalność gospodarczą w rozumieniu art. 2 pkt 17 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2025 r. poz. 468), stanowi pomoc de minimis lub pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis lub pomocy w ramach zasady de minimis w rolnictwie. Art. 8–11. (pominięte)
+8. Dofinansowanie, o którym mowa w ust. 1, udzielane podmiotowi prowadzącemu działalność gospodarczą w rozumieniu art. 2 pkt 17 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2025 r. poz. 468), stanowi pomoc de minimis lub pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis lub pomocy w ramach zasady de minimis w rolnictwie.
+
+**Art. 8–11.** (pominięte)
 
 **Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

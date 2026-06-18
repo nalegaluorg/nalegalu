@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o repatriacji W poczuciu głębokiej więzi z Polakami – potomkami dawnej Rzeczypospolitej, ofiarami komunistycznego terroru, przemocą zmuszonymi do opuszczenia ziemi przodków, osiedlonymi wbrew własnej woli na najtrudniejszych do zamieszkania obszarach byłego Związku Socjalistycznych Republik Radzieckich; pozbawionymi możliwości powrotu do Polski, prześladowanymi z powodu swojego pochodzenia oraz przywiązania do wiary, tradycji i umiłowania wolności, skazanymi na pracę w nieludzkich warunkach, głód, choroby i częstokroć na fizyczne wyniszczenie; którzy, mimo wszelkich przeciwności, nigdy nie wyrzekli się Polski, jej tradycji i kultury, a miłość i przywiązanie do Ojczyzny przekazali swoim potomkom – pragnąc zadośćuczynić za doznawane przez zesłańców krzywdy, uznając, że powinnością Państwa Polskiego jest umożliwienie repatriacji rodakom, którzy pozostali na Wschodzie, postanawia się, co następuje:
+# Ustawa z dnia 9 listopada 2000 r. o repatriacji.
 
 *USTAWA z dnia 9 listopada 2000 r.*
 
@@ -594,7 +594,11 @@ source: pdf
 
 5. Kwotę stanowiącą równowartość pomocy, o której mowa w art. 17 ust. 2, starosta wypłaca w terminie 90 dni od dnia, w którym decyzja w sprawie udzielenia pomocy stała się ostateczna.
 
-6. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór formularza wniosku, o którym mowa w art. 17 ust. 2, mając na uwadze potrzebę zapewnienia sprawności postępowania o przyznanie pomocy oraz kompletności danych przedstawianych we wniosku. Art. 17aa. 1. Repatriant składa wniosek, o którym mowa w art. 17 ust. 1, do Pełnomocnika w terminie 3 miesięcy od dnia doręczenia decyzji wojewody w sprawie potwierdzenia posiadania obywatelstwa polskiego.
+6. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór formularza wniosku, o którym mowa w art. 17 ust. 2, mając na uwadze potrzebę zapewnienia sprawności postępowania o przyznanie pomocy oraz kompletności danych przedstawianych we wniosku.
+
+**Art. 17aa.**
+
+1. Repatriant składa wniosek, o którym mowa w art. 17 ust. 1, do Pełnomocnika w terminie 3 miesięcy od dnia doręczenia decyzji wojewody w sprawie potwierdzenia posiadania obywatelstwa polskiego.
 
 2. Wniosek, o którym mowa w art. 17 ust. 1, obejmuje również przebywających w Rzeczypospolitej Polskiej członków najbliższej rodziny repatrianta.
 

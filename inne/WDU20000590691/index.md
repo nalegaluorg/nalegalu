@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie szczegółowego zakresu działania oraz sposobu organizacji straży ochrony kolei.
+# Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 7 lipca 2000 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu działania oraz sposobu organizacji straży ochrony kolei.
 
 *ROZPORZĄDZENIE MINISTRA TRANSPORTU I GOSPODARKI MORSKIEJ z dnia 7 lipca 2000 r.*
 

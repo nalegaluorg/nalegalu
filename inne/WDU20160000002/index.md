@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dokonywaniu europejskich zgłoszeń patentowych oraz skutkach patentu europejskiego w Rzeczypospolitej Polskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 grudnia 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dokonywaniu europejskich zgłoszeń patentowych oraz skutkach patentu europejskiego w Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 14 marca 2003 r.*
 

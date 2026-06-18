@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kasach zapomogowo-pożyczkowych
+# Ustawa z dnia 11 sierpnia 2021 r. o kasach zapomogowo-pożyczkowych
 
 *USTAWA z dnia 11 sierpnia 2021 r.*
 

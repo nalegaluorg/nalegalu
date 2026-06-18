@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego w latach 2008–2015 oraz niektórych innych ustaw
+# Ustawa z dnia 22 stycznia 2015 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego w latach 2008-2015 oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 stycznia 2015 r.*
 

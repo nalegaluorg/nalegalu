@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo bankowe oraz ustawy o kredycie konsumenckim
+# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy - Prawo bankowe oraz ustawy o kredycie konsumenckim
 
 *USTAWA z dnia 19 sierpnia 2011 r.*
 

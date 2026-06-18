@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o muzeach
+# Ustawa z dnia 10 lipca 2015 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o muzeach
 
 *USTAWA z dnia 10 lipca 2015 r.*
 

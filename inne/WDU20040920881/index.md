@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wyrobach budowlanych
+# Ustawa z dnia 16 kwietnia 2004 r. o wyrobach budowlanych
 
 *USTAWA z dnia 16 kwietnia 2004 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2004-04-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040920881) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/881/text.pdf) |
-
-Art. 37–39. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -743,6 +741,8 @@ Art. 37–39. (pominięte)
 7. Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
 
 #### Rozdział 7 Przepisy zmieniające, przepisy przejściowe i końcowe
+
+**Art. 37–39.** (pominięte)
 
 **Art. 40.** Wyroby budowlane dopuszczone do obrotu i powszechnego stosowania w budownictwie na podstawie przepisów dotychczasowych i na zasadach w tych przepisach określonych nadają się do stosowania, w rozumieniu niniejszej ustawy, przy wykonywaniu robót budowlanych.
 

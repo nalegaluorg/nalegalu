@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Służbie Ochrony Państwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Służbie Ochrony Państwa
 
 *USTAWA z dnia 8 grudnia 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-01-10 |
 | Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000034) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/34/text.pdf) |
-
-Art. 251–346. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -3932,6 +3930,8 @@ Art. 251–346. (pominięte)
 #### Rozdział 10
 
 #### Rozdział 11 Zmiany w przepisach
+
+**Art. 251–346.** (pominięte)
 
 #### Rozdział 12 Przepisy dostosowujące i przejściowe
 

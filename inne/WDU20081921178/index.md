@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o izbach morskich
+# Ustawa z dnia 4 września 2008 r. o zmianie ustawy o izbach morskich
 
 *USTAWA z dnia 4 września 2008 r.*
 

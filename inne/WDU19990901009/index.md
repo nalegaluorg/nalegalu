@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie zasad dokonywania skupu i sprzedaży walut obcych i dewiz przez inne niż banki osoby prawne oraz podmioty nie będące osobami prawnymi.
+# Rozporządzenie Ministra Finansów z dnia 29 października 1999 r. w sprawie zasad dokonywania skupu i sprzedaży walut obcych i dewiz przez inne niż banki osoby prawne oraz podmioty nie będące osobami prawnymi.
 
 | Pole | Wartość |
 |---|---|

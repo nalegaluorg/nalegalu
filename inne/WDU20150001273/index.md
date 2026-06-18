@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 lipca 2015 r.*
 
@@ -159,7 +159,11 @@ source: pdf
 
 - **1)** może określić, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a rejestrami PESEL, REGON, TERYT, centralną ewidencją kierowców i centralną ewidencją posiadaczy kart parkingowych, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a innymi rejestrami i ewidencjami, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych;
 - **2)** (uchylony)
-- **3)** w porozumieniu z ministrem właściwym do spraw instytucji finansowych określi, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a Ubezpieczeniowym Funduszem Gwarancyjnym oraz warunki, sposób i tryb współdziałania ewidencji i funduszu w zakresie przekazywania danych przez zakłady ubezpieczeń, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a Ubezpieczeniowym Funduszem Gwarancyjnym, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych. Art. 80bb. 1. W celu umożliwienia wprowadzenia danych do ewidencji, podmiotom wymienionym w art. 80ba ust. 1, zapewnia się dostęp do danych zgromadzonych w ewidencji.
+- **3)** w porozumieniu z ministrem właściwym do spraw instytucji finansowych określi, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a Ubezpieczeniowym Funduszem Gwarancyjnym oraz warunki, sposób i tryb współdziałania ewidencji i funduszu w zakresie przekazywania danych przez zakłady ubezpieczeń, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a Ubezpieczeniowym Funduszem Gwarancyjnym, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych.
+
+**Art. 80bb.**
+
+1. W celu umożliwienia wprowadzenia danych do ewidencji, podmiotom wymienionym w art. 80ba ust. 1, zapewnia się dostęp do danych zgromadzonych w ewidencji.
 
 2. Wprowadzenie danych do ewidencji następuje przez pobranie danych zgromadzonych w ewidencji, ich weryfikację, w szczególności w oparciu o posiadane dokumenty lub dane, oraz wpisanie do ewidencji nowych danych. W przypadku rozbieżności między danymi a danymi zawartymi w rejestrze PESEL lub w REGON, rozstrzygające są dane zgromadzone w tych rejestrach.
 
@@ -173,7 +177,13 @@ source: pdf
 4. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
 - **1)** zakres danych, do których zapewnia się dostęp podmiotom wymienionym w art. 80ba ust. 1, mając na względzie prawidłowość wykonywania przez poszczególne podmioty zadań wynikających z niniejszej ustawy;
-- **2)** wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości danych przekazywanych do ewidencji i jej referencyjny charakter. Art. 80bc. W przypadku braku możliwości wprowadzenia danych do ewidencji, spowodowanego przyczynami niezależnymi od podmiotu, wprowadzenia danych dokonuje się niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia, w którym powstał obowiązek ich wprowadzenia. Art. 80bd. 1. Podmiot, który stwierdzi niezgodność danych zgromadzonych w ewidencji, wyjaśnia tę niezgodność w zakresie danych, do których przekazania jest obowiązany na podstawie ustawy, i wprowadza dane do ewidencji na zasadach określonych w art. 80bb.
+- **2)** wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości danych przekazywanych do ewidencji i jej referencyjny charakter.
+
+**Art. 80bc.** W przypadku braku możliwości wprowadzenia danych do ewidencji, spowodowanego przyczynami niezależnymi od podmiotu, wprowadzenia danych dokonuje się niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia, w którym powstał obowiązek ich wprowadzenia.
+
+**Art. 80bd.**
+
+1. Podmiot, który stwierdzi niezgodność danych zgromadzonych w ewidencji, wyjaśnia tę niezgodność w zakresie danych, do których przekazania jest obowiązany na podstawie ustawy, i wprowadza dane do ewidencji na zasadach określonych w art. 80bb.
 
 2. W przypadku gdy nie jest możliwe wyjaśnienie niezgodności, podmiot, o którym mowa w ust. 1, niezwłocznie powiadamia o niezgodności administratora danych i informacji zgromadzonych w ewidencji, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot.
 
@@ -194,7 +204,11 @@ source: pdf
 
 7. Administrator danych i informacji zgromadzonych w ewidencji umożliwi wprowadzenie do ewidencji danych bez uprzedniego wyjaśnienia niezgodności, jeżeli jest to niezbędne do realizacji zadań wynikających z przepisów odrębnych realizowanych przez podmioty obowiązane do wprowadzania danych do ewidencji w terminach wynikających z przepisów ustawowych.
 
-8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, sposób i tryb wyjaśniania niezgodności danych zgromadzonych w centralnej ewidencji pojazdów przez podmioty, które je przekazują, mając na uwadze konieczność zapewnienia kompletności i poprawności danych w ewidencji, zapewnienie terminowej obsługi procesów administracyjnych powiązanych z ewidencją i ich bezpieczeństwo. Art. 80be. 1. Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów:
+8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, sposób i tryb wyjaśniania niezgodności danych zgromadzonych w centralnej ewidencji pojazdów przez podmioty, które je przekazują, mając na uwadze konieczność zapewnienia kompletności i poprawności danych w ewidencji, zapewnienie terminowej obsługi procesów administracyjnych powiązanych z ewidencją i ich bezpieczeństwo.
+
+**Art. 80be.**
+
+1. Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów:
 
 - **1)** firmę przedsiębiorcy oraz jego adres i siedzibę albo miejsce zamieszkania;
 - **2)** adres stacji kontroli pojazdów;
@@ -205,7 +219,15 @@ source: pdf
 - **7)** datę wykreślenia z rejestru;
 - **8)** imiona i nazwiska zatrudnionych diagnostów wraz z numerami ich uprawnień.
 
-2. Przekazanie danych, o których mowa w ust. 1, następuje niezwłocznie nie później niż w terminie 2 dni roboczych, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemów teleinformatycznych obsługujących zadania realizowane przez te podmioty. Art. 80bf. (uchylony) Art. 80bg. W celu zapewnienia możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm. ) minister właściwy do spraw informatyzacji zapewnia Agencji Bezpieczeństwa Wewnętrznego dostęp do ewidencji. Art. 80bh. 1. Tworzy się elektroniczny katalog marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej, zwany dalej „katalogiem”.
+2. Przekazanie danych, o których mowa w ust. 1, następuje niezwłocznie nie później niż w terminie 2 dni roboczych, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemów teleinformatycznych obsługujących zadania realizowane przez te podmioty.
+
+**Art. 80bf.** (uchylony)
+
+**Art. 80bg.** W celu zapewnienia możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm. ) minister właściwy do spraw informatyzacji zapewnia Agencji Bezpieczeństwa Wewnętrznego dostęp do ewidencji.
+
+**Art. 80bh.**
+
+1. Tworzy się elektroniczny katalog marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej, zwany dalej „katalogiem”.
 
 2. Katalog jest katalogiem referencyjnym służącym do wprowadzenia danych pojazdów do ewidencji na podstawie danych określonych w dokumentach przedstawionych do rejestracji pojazdu.
 
@@ -302,33 +324,59 @@ source: pdf
 
 7. Decyzji, o której mowa w ust. 6, nie wydaje się w przypadku, o którym mowa w ust. 2a.”;
 
-- **10)** po art. 80c dodaje się art. 80ca–80ch w brzmieniu: „Art. 80ca. Dane zgromadzone w ewidencji mogą być udostępniane podmiotom zagranicznym w celu wypełnienia postanowień ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a także wykonania aktu prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem. Tryb i sposób udostępniania danych określają ratyfikowane przez Rzeczpospolitą Polską umowy międzynarodowe, akty prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem lub porozumienia zawarte pomiędzy właściwymi ministrami państw członkowskich Unii Europejskiej. Art. 80cb. 1. Każdemu zainteresowanemu, po podaniu danych określonych w przepisach wydanych na podstawie ust. 3, dane zgromadzone w ewidencji udostępnia się w postaci elektronicznej przy użyciu systemu teleinformatycznego.
+- **10)** po art. 80c dodaje się art. 80ca–80ch w brzmieniu: „Art. 80ca. Dane zgromadzone w ewidencji mogą być udostępniane podmiotom zagranicznym w celu wypełnienia postanowień ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a także wykonania aktu prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem. Tryb i sposób udostępniania danych określają ratyfikowane przez Rzeczpospolitą Polską umowy międzynarodowe, akty prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem lub porozumienia zawarte pomiędzy właściwymi ministrami państw członkowskich Unii Europejskiej.
+
+**Art. 80cb.**
+
+1. Każdemu zainteresowanemu, po podaniu danych określonych w przepisach wydanych na podstawie ust. 3, dane zgromadzone w ewidencji udostępnia się w postaci elektronicznej przy użyciu systemu teleinformatycznego.
 
 2. Dane osobowe zgromadzone w ewidencji mogą być udostępniane po uwierzytelnieniu zainteresowanego na zasadach określonych w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 3. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
 - **1)** dane, których podanie jest wymagane do udostępnienia poszczególnych danych,
-- **2)** szczegółowy zakres udostępnianych danych – mając na uwadze konieczność zapewnienia bezpieczeństwa danych. Art. 80cc. 1. Dane zgromadzone w ewidencji udostępnia się także na wniosek właściciela pojazdu, posiadacza pojazdu wymienionego w art. 73 ust. 5 oraz użytkownika pojazdu użytkowanego na podstawie umowy leasingu, o rejestrację którego wnioskował leasingodawca (właściciel pojazdu), których one dotyczą.
+- **2)** szczegółowy zakres udostępnianych danych – mając na uwadze konieczność zapewnienia bezpieczeństwa danych.
 
-2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. Odpowiedź w postaci papierowej może stanowić wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci. Art. 80cd. 1. Minister właściwy do spraw informatyzacji może udostępnić dane zgromadzone w ewidencji innym podmiotom niż wymienione w art. 80c– 80cc, w tym osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej, jeżeli wykażą swój interes prawny.
+**Art. 80cc.**
 
-2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. Odpowiedź w postaci papierowej może stanowić wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci. Art. 80ce. 1. Dane lub informacje zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania, w sposób wykluczający możliwość identyfikacji osób lub pojazdów, z zachowaniem przepisów ustawy z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 352), jeżeli przepisy ustawy nie stanowią inaczej.
+1. Dane zgromadzone w ewidencji udostępnia się także na wniosek właściciela pojazdu, posiadacza pojazdu wymienionego w art. 73 ust. 5 oraz użytkownika pojazdu użytkowanego na podstawie umowy leasingu, o rejestrację którego wnioskował leasingodawca (właściciel pojazdu), których one dotyczą.
+
+2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. Odpowiedź w postaci papierowej może stanowić wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci.
+
+**Art. 80cd.**
+
+1. Minister właściwy do spraw informatyzacji może udostępnić dane zgromadzone w ewidencji innym podmiotom niż wymienione w art. 80c– 80cc, w tym osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej, jeżeli wykażą swój interes prawny.
+
+2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. Odpowiedź w postaci papierowej może stanowić wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci.
+
+**Art. 80ce.**
+
+1. Dane lub informacje zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania, w sposób wykluczający możliwość identyfikacji osób lub pojazdów, z zachowaniem przepisów ustawy z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 352), jeżeli przepisy ustawy nie stanowią inaczej.
 
 2. Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
 
-3. Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych. Art. 80cf. 1. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 80c ust. 5, art. 80cc ust. 2, art. 80cd ust. 2 oraz art. 80ce ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji.
+3. Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych.
 
-2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, rodzaj i zakres danych udostępnianych na podstawie art. 80c i art. 80cc–80ce, uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem. Art. 80cg. Udostępnienie i przekazywanie danych zgromadzonych w ewidencji następuje:
+**Art. 80cf.**
+
+1. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 80c ust. 5, art. 80cc ust. 2, art. 80cd ust. 2 oraz art. 80ce ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji.
+
+2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, rodzaj i zakres danych udostępnianych na podstawie art. 80c i art. 80cc–80ce, uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem.
+
+**Art. 80cg.** Udostępnienie i przekazywanie danych zgromadzonych w ewidencji następuje:
 
 - **1)** nieodpłatnie, w przypadku danych:
     - **a)** udostępnianych na podstawie art. 80c–80cc,
     - **b)** przekazywanych na podstawie art. 80ce w sposób określony w art. 80ce ust. 2 organom administracji publicznej, niewymienionym w art. 80c ust. 1, w celach niekomercyjnych,
     - **c)** udostępnianych na podstawie art. 80ce w sposób określony w art. 80ce ust. 3, w celach komercyjnych i niekomercyjnych;
 
-- **2)** odpłatnie, w przypadku danych: Art. 80ch. 1. Wysokość opłaty za udostępnienie danych jednostkowych dotyczących jednego pojazdu lub jednej osoby nie może być wyższa niż 2% przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748 i 1240).
+- **2)** odpłatnie, w przypadku danych:
     - **a)** udostępnianych na podstawie art. 80cd,
     - **b)** przekazywanych na podstawie art. 80ce w sposób określony w art. 80ce ust. 2, w celach komercyjnych i niekomercyjnych.
+
+**Art. 80ch.**
+
+1. Wysokość opłaty za udostępnienie danych jednostkowych dotyczących jednego pojazdu lub jednej osoby nie może być wyższa niż 2% przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2015 r. poz. 748 i 1240).
 
 2. Wysokość opłaty za udostępnianie danych z ewidencji do celów komercyjnych i niekomercyjnych określa się według wzoru: O = K × (A + B) + M gdzie: O – łączna kwota opłaty za udostępnienie danych do celów komercyjnych i niekomercyjnych, K – współczynnik wynoszący:
 
@@ -472,7 +520,11 @@ source: pdf
 - **4)** numer rozpoznawczy;
 - **5)** dotyczące prowadzonej działalności objętej wpisem.
 
-8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy katalog gromadzonych w ewidencji danych, o których mowa w ust. 4 pkt 7–12 i 14–22, ust. 5 pkt 13, 14, 16 i 18–24, ust. 6 pkt 5, ust. 7 pkt 4 i 5 oraz ust. 7a pkt 5, przekazywanych przez podmioty, o których mowa w art. 100ac ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także konieczność zapewnienia prawidłowego funkcjonowania ewidencji oraz bezpieczeństwo gromadzonych w niej danych. Art. 100ab. 1. Danych zgromadzonych w ewidencji nie usuwa się, z wyłączeniem danych, o których mowa w:
+8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy katalog gromadzonych w ewidencji danych, o których mowa w ust. 4 pkt 7–12 i 14–22, ust. 5 pkt 13, 14, 16 i 18–24, ust. 6 pkt 5, ust. 7 pkt 4 i 5 oraz ust. 7a pkt 5, przekazywanych przez podmioty, o których mowa w art. 100ac ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także konieczność zapewnienia prawidłowego funkcjonowania ewidencji oraz bezpieczeństwo gromadzonych w niej danych.
+
+**Art. 100ab.**
+
+1. Danych zgromadzonych w ewidencji nie usuwa się, z wyłączeniem danych, o których mowa w:
 
 - **1)** art. 100aa ust. 4 pkt 11 oraz ust. 5 pkt 18, które podlegają usunięciu z ewidencji:
     - **a)** jeżeli dane o zakazie prowadzenia pojazdów podlegają usunięciu z Krajowego Rejestru Karnego,
@@ -482,7 +534,11 @@ source: pdf
 
 1a. W przypadku, o którym mowa w ust. 1 pkt 1 lit. b, dane, o których mowa w art. 100aa ust. 4 pkt 11 i ust. 5 pkt 18, są usuwane automatycznie.
 
-2. Administrator danych przetwarzający dane osobowe na potrzeby ewidencji jest zwolniony z obowiązku informacyjnego określonego w art. 25 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych. Art. 100ac. 1. Dane, o których mowa w art. 100aa ust. 2–7a, przekazują do ewidencji:
+2. Administrator danych przetwarzający dane osobowe na potrzeby ewidencji jest zwolniony z obowiązku informacyjnego określonego w art. 25 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych.
+
+**Art. 100ac.**
+
+1. Dane, o których mowa w art. 100aa ust. 2–7a, przekazują do ewidencji:
 
 - **1)** organ właściwy w sprawach wydawania dokumentów stwierdzających uprawnienie do kierowania pojazdami – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 1–5, pkt 7–10 i pkt 20 oraz ust. 5 pkt 1–5, pkt 7–17, pkt 19–22 i pkt 24;
 - **2)** sąd, niezwłocznie po uprawomocnieniu się orzeczenia – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 11 i 13 oraz ust. 5 pkt 18;
@@ -516,7 +572,11 @@ source: pdf
 
 4. Dane gromadzone w ewidencji są do niej przekazywane z rejestrów PESEL, REGON, TERYT, centralnej ewidencji pojazdów i centralnej ewidencji posiadaczy kart parkingowych, o ile są gromadzone w tych rejestrach.
 
-5. Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a rejestrami PESEL, REGON i TERYT, centralną ewidencją pojazdów i centralną ewidencją posiadaczy kart parkingowych, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a innymi rejestrami i ewidencjami, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych. Art. 100ad. 1. W celu umożliwienia wprowadzenia danych do ewidencji, podmiotom wymienionym w art. 100ac ust. 1 zapewnia się dostęp do danych zgromadzonych w ewidencji.
+5. Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a rejestrami PESEL, REGON i TERYT, centralną ewidencją pojazdów i centralną ewidencją posiadaczy kart parkingowych, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a innymi rejestrami i ewidencjami, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych.
+
+**Art. 100ad.**
+
+1. W celu umożliwienia wprowadzenia danych do ewidencji, podmiotom wymienionym w art. 100ac ust. 1 zapewnia się dostęp do danych zgromadzonych w ewidencji.
 
 2. Wprowadzenie danych do ewidencji następuje przez pobranie danych zgromadzonych w ewidencji, ich weryfikację, w szczególności w oparciu o posiadane dokumenty lub dane, oraz wpisanie do ewidencji nowych danych. W przypadku rozbieżności między danymi a danymi zawartymi w rejestrze PESEL lub REGON, rozstrzygające są dane zgromadzone w tych rejestrach.
 
@@ -530,7 +590,13 @@ source: pdf
 4. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
 - **1)** zakres danych, do których zapewnia się dostęp podmiotom wymienionym w art. 100ac ust. 1, mając na względzie prawidłowość wykonywania przez poszczególne podmioty zadań wynikających z niniejszej ustawy;
-- **2)** wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz tryb i sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości przekazywanych danych do ewidencji i jej referencyjny charakter. Art. 100ae. W przypadku braku możliwości wprowadzenia danych do ewidencji, spowodowanego przyczynami niezależnymi od podmiotu, wprowadzenia danych dokonuje się niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia, w którym powstał obowiązek ich wprowadzenia. Art. 100af. 1. Podmiot, który stwierdzi niezgodność danych zgromadzonych w ewidencji, wyjaśnia tę niezgodność w zakresie danych, do których przekazania jest obowiązany na podstawie ustawy, i wprowadza dane do ewidencji na zasadach określonych w art. 100ad.
+- **2)** wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz tryb i sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości przekazywanych danych do ewidencji i jej referencyjny charakter.
+
+**Art. 100ae.** W przypadku braku możliwości wprowadzenia danych do ewidencji, spowodowanego przyczynami niezależnymi od podmiotu, wprowadzenia danych dokonuje się niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia, w którym powstał obowiązek ich wprowadzenia.
+
+**Art. 100af.**
+
+1. Podmiot, który stwierdzi niezgodność danych zgromadzonych w ewidencji, wyjaśnia tę niezgodność w zakresie danych, do których przekazania jest obowiązany na podstawie ustawy, i wprowadza dane do ewidencji na zasadach określonych w art. 100ad.
 
 2. W przypadku gdy nie jest możliwe wyjaśnienie niezgodności, podmiot, o którym mowa w ust. 1, niezwłocznie powiadamia o niezgodności administratora danych i informacji zgromadzonych w ewidencji, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot.
 
@@ -553,7 +619,13 @@ source: pdf
 
 8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, sposób i tryb wyjaśniania niezgodności danych zgromadzonych w centralnej ewidencji kierowców przez podmioty, które je przekazują, mając na uwadze konieczność zapewnienia kompletności i poprawności danych w ewidencji, zapewnienie terminowej obsługi procesów administracyjnych powiązanych z ewidencją i ich bezpieczeństwo.
 
-9. Przepisów ust. 1–8 nie stosuje się do usunięcia z ewidencji danych dotyczących zakazu prowadzenia pojazdu. Art. 100ag. (uchylony) Art. 100ah. 1. Dane zgromadzone w ewidencji udostępnia się, o ile są one niezbędne do realizacji ich ustawowych zadań, następującym podmiotom:
+9. Przepisów ust. 1–8 nie stosuje się do usunięcia z ewidencji danych dotyczących zakazu prowadzenia pojazdu.
+
+**Art. 100ag.** (uchylony)
+
+**Art. 100ah.**
+
+1. Dane zgromadzone w ewidencji udostępnia się, o ile są one niezbędne do realizacji ich ustawowych zadań, następującym podmiotom:
 
 - **1)** Policji;
 - **2)** Inspekcji Transportu Drogowego;
@@ -600,35 +672,65 @@ source: pdf
 - **2)** posiadają zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania;
 - **3)** jest to uzasadnione specyfiką lub zakresem wykonywanych zadań albo prowadzonej działalności.
 
-6. Decyzji, o której mowa w ust. 5, nie wydaje się w przypadku, o którym mowa w ust. 1a. Art. 100ai. 1. Dane zgromadzone w ewidencji mogą być udostępniane podmiotom zagranicznym w celu wypełnienia postanowień ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a także wykonania aktu prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem. Tryb i sposób udostępniania danych określają ratyfikowane przez Rzeczpospolitą Polską umowy międzynarodowe, akty prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem lub porozumienia zawarte pomiędzy właściwymi ministrami państw członkowskich Unii Europejskiej.
+6. Decyzji, o której mowa w ust. 5, nie wydaje się w przypadku, o którym mowa w ust. 1a.
 
-2. Dane zgromadzone w ewidencji dotyczące praw jazdy udostępnia się właściwym organom państw członkowskich Unii Europejskiej przy wykorzystaniu Europejskiej Sieci Praw Jazdy. Art. 100aj. 1. Każdemu zainteresowanemu, po podaniu danych określonych w przepisach wydanych na podstawie ust. 3, dane zgromadzone w ewidencji, udostępnia się w postaci elektronicznej przy użyciu systemu teleinformatycznego.
+**Art. 100ai.**
+
+1. Dane zgromadzone w ewidencji mogą być udostępniane podmiotom zagranicznym w celu wypełnienia postanowień ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a także wykonania aktu prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem. Tryb i sposób udostępniania danych określają ratyfikowane przez Rzeczpospolitą Polską umowy międzynarodowe, akty prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem lub porozumienia zawarte pomiędzy właściwymi ministrami państw członkowskich Unii Europejskiej.
+
+2. Dane zgromadzone w ewidencji dotyczące praw jazdy udostępnia się właściwym organom państw członkowskich Unii Europejskiej przy wykorzystaniu Europejskiej Sieci Praw Jazdy.
+
+**Art. 100aj.**
+
+1. Każdemu zainteresowanemu, po podaniu danych określonych w przepisach wydanych na podstawie ust. 3, dane zgromadzone w ewidencji, udostępnia się w postaci elektronicznej przy użyciu systemu teleinformatycznego.
 
 2. Dane osobowe zgromadzone w ewidencji mogą być udostępniane po uwierzytelnieniu zainteresowanego na zasadach określonych w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 3. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
 - **1)** dane wymagane do uzyskania dostępu do poszczególnych danych,
-- **2)** szczegółowy zakres udostępnianych danych – mając na uwadze konieczność zapewnienia bezpieczeństwa danych. Art. 100ak. 1. Dane zgromadzone w ewidencji udostępnia się także osobie, której one dotyczą.
+- **2)** szczegółowy zakres udostępnianych danych – mając na uwadze konieczność zapewnienia bezpieczeństwa danych.
 
-2. Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. Odpowiedź w postaci papierowej stanowi wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci. Art. 100al. 1. Minister właściwy do spraw informatyzacji może udostępnić dane zgromadzone w ewidencji innym podmiotom niż wymienione w art. 100ag– 100ak, w tym osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej, jeżeli wykażą swój interes prawny.
+**Art. 100ak.**
 
-2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. Odpowiedź w postaci papierowej stanowi wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci. Art. 100am. 1. Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania, w sposób wykluczający możliwość identyfikacji osób, z zachowaniem przepisów ustawy z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego, jeżeli przepisy ustawy nie stanowią inaczej.
+1. Dane zgromadzone w ewidencji udostępnia się także osobie, której one dotyczą.
+
+2. Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. Odpowiedź w postaci papierowej stanowi wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci.
+
+**Art. 100al.**
+
+1. Minister właściwy do spraw informatyzacji może udostępnić dane zgromadzone w ewidencji innym podmiotom niż wymienione w art. 100ag– 100ak, w tym osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej, jeżeli wykażą swój interes prawny.
+
+2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. Odpowiedź w postaci papierowej stanowi wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci.
+
+**Art. 100am.**
+
+1. Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania, w sposób wykluczający możliwość identyfikacji osób, z zachowaniem przepisów ustawy z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego, jeżeli przepisy ustawy nie stanowią inaczej.
 
 2. Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
 
-3. Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych. Art. 100an. 1. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 100ah ust. 4, art. 100ak ust. 2, art. 100al ust. 2 oraz art. 100am ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji.
+3. Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych.
 
-2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, rodzaj i zakres danych udostępnianych na podstawie art. 100ah i art. 100ak–100am, uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem. Art. 100ao. Udostępnienie i przekazywanie danych zgromadzonych w ewidencji następuje:
+**Art. 100an.**
+
+1. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 100ah ust. 4, art. 100ak ust. 2, art. 100al ust. 2 oraz art. 100am ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji.
+
+2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, rodzaj i zakres danych udostępnianych na podstawie art. 100ah i art. 100ak–100am, uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem.
+
+**Art. 100ao.** Udostępnienie i przekazywanie danych zgromadzonych w ewidencji następuje:
 
 - **1)** nieodpłatnie, w przypadku danych:
     - **a)** udostępnianych na podstawie art. 100ah–100ak,
     - **b)** przekazywanych na podstawie art. 100am w sposób określony w art. 100am ust. 2 organom administracji publicznej, niewymienionym w art. 100ah ust. 1, w celach niekomercyjnych,
     - **c)** udostępnianych na podstawie art. 100am w sposób określony w art. 100am ust. 3, w celach komercyjnych i niekomercyjnych;
 
-- **2)** odpłatnie, w przypadku danych: Art. 100ap. 1. Wysokość opłaty za udostępnienie danych jednostkowych dotyczących jednej osoby lub jednego podmiotu nie może być wyższa niż 2% przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+- **2)** odpłatnie, w przypadku danych:
     - **a)** udostępnianych na podstawie art. 100al,
     - **b)** przekazywanych na podstawie art. 100am w sposób określony w art. 100am ust. 2, w celach komercyjnych i niekomercyjnych.
+
+**Art. 100ap.**
+
+1. Wysokość opłaty za udostępnienie danych jednostkowych dotyczących jednej osoby lub jednego podmiotu nie może być wyższa niż 2% przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 2. Wysokość opłaty za udostępnianie danych z ewidencji do celów komercyjnych i niekomercyjnych określa się według wzoru: O = K × (A + B) + M gdzie: O – łączna kwota opłaty za udostępnienie danych do celów komercyjnych i niekomercyjnych, K – współczynnik wynoszący:
 
@@ -641,7 +743,10 @@ source: pdf
 
 - **1)** wysokość opłaty za udostępnienie danych jednostkowych z ewidencji,
 - **2)** warunki i sposób wnoszenia opłaty za udostępnienie danych z ewidencji,
-- **3)** sposób dokumentowania wniesienia opłaty za udostępnienie danych z ewidencji – mając na względzie zróżnicowaną postać składania wniosku o udostępnienie danych oraz tryb ich udostępniania do celów komercyjnych i niekomercyjnych. Art. 100aq. W celu zapewnienia możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, minister właściwy do spraw informatyzacji zapewnia Agencji Bezpieczeństwa Wewnętrznego dostęp do ewidencji.”;
+- **3)** sposób dokumentowania wniesienia opłaty za udostępnienie danych z ewidencji – mając na względzie zróżnicowaną postać składania wniosku o udostępnienie danych oraz tryb ich udostępniania do celów komercyjnych i niekomercyjnych.
+
+**Art. 100aq.** W celu zapewnienia możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, minister właściwy do spraw informatyzacji zapewnia Agencji Bezpieczeństwa Wewnętrznego dostęp do ewidencji.”;
+
 - **18)** uchyla się art. 100b–100e;
 - **19)** w dziale IV po rozdziale 1a dodaje się rozdział 1b w brzmieniu: „Rozdział 1b Centralna ewidencja posiadaczy kart parkingowych
 

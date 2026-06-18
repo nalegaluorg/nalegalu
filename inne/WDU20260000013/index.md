@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie przyrody
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie przyrody
 
 *USTAWA z dnia 16 kwietnia 2004 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2026-01-07 |
 | Ostatnia zmiana | 2026-04-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000013) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/13/text.pdf) |
-
-Art. 133–142. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -3505,6 +3503,8 @@ Art. 133–142. (pominięte)
 **Art. 132.** Orzekanie w sprawach, o których mowa w art. 127, art. 130a i art. 131, następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
+
+**Art. 133–142.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe, dostosowujące i końcowe
 

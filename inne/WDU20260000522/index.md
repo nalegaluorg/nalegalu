@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rachunkowości
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rachunkowości
 
 *USTAWA z dnia 29 września 1994 r.*
 
@@ -2037,7 +2037,9 @@ source: pdf
     - **b)** nazwę i siedzibę jednostki dominującej wyższego szczebla, która sporządzi sprawozdawczość zrównoważonego rozwoju grupy kapitałowej,
     - **c)** adres strony internetowej, na której zostanie udostępnione w terminie 12 miesięcy od dnia bilansowego jednostki dominującej sprawozdanie z działalności grupy kapitałowej jednostki dominującej wyższego szczebla wraz ze sprawozdaniem z atestacji sprawozdawczości zrównoważonego rozwoju grupy kapitałowej jednostki dominującej wyższego szczebla, przy czym dokumenty te są udostępniane na stronie internetowej przez okres co najmniej 5 lat.
 
-2. W przypadku gdy jednostka dominująca wyższego szczebla ma siedzibę lub miejsce sprawowania zarządu w państwie innym niż Rzeczpospolita Polska, ujawnienie, o którym mowa w ust. 1 pkt 2 lit. c, obejmuje również ujawnienie przez jednostkę dominującą w jej sprawozdaniu z działalności adresu strony internetowej, na której zostaną udostępnione tłumaczenia dokumentów, o których mowa w ust. 1 pkt 2 lit. c, na język polski. Art. 63za. Jednostka dominująca będąca jednostką zależną od jednostki dominującej wyższego szczebla mającej siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego jest zwolniona z obowiązku sporządzenia sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, jeżeli są spełnione łącznie następujące warunki:
+2. W przypadku gdy jednostka dominująca wyższego szczebla ma siedzibę lub miejsce sprawowania zarządu w państwie innym niż Rzeczpospolita Polska, ujawnienie, o którym mowa w ust. 1 pkt 2 lit. c, obejmuje również ujawnienie przez jednostkę dominującą w jej sprawozdaniu z działalności adresu strony internetowej, na której zostaną udostępnione tłumaczenia dokumentów, o których mowa w ust. 1 pkt 2 lit. c, na język polski.
+
+**Art. 63za.** Jednostka dominująca będąca jednostką zależną od jednostki dominującej wyższego szczebla mającej siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego jest zwolniona z obowiązku sporządzenia sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, jeżeli są spełnione łącznie następujące warunki:
 
 - **1)** informacje dotyczące tej jednostki dominującej i jej jednostek zależnych zostaną zawarte w sprawozdawczości zrównoważonego rozwoju grupy kapitałowej tej jednostki dominującej wyższego szczebla, sporządzonej zgodnie ze standardami sprawozdawczości zrównoważonego rozwoju lub standardami uznanymi za równoważne zgodnie z aktem wykonawczym w sprawie równoważności standardów sprawozdawczości w zakresie zrównoważonego rozwoju przyjętym zgodnie z art. 23 ust. 4 akapit trzeci dyrektywy 2004/109/WE;
 - **2)** ta jednostka dominująca ujawnia w swoim sprawozdaniu z działalności:
@@ -2046,13 +2048,23 @@ source: pdf
     - **c)** adres strony internetowej, na której zostanie udostępniona w terminie 12 miesięcy od dnia bilansowego jednostki dominującej sprawozdawczość zrównoważonego rozwoju grupy kapitałowej jednostki dominującej wyższego szczebla wraz ze sprawozdaniem z atestacji tej sprawozdawczości oraz tłumaczenia tych dokumentów na język polski, przy czym dokumenty te są udostępniane na stronie internetowej przez okres co najmniej 5 lat;
 
 - **3)** kierownik tej jednostki dominującej złoży we właściwym rejestrze sądowym, w terminie 12 miesięcy od dnia bilansowego, sprawozdawczość zrównoważonego rozwoju grupy kapitałowej jednostki dominującej wyższego szczebla wraz ze sprawozdaniem z atestacji tej sprawozdawczości wydanym przez podmiot upoważniony do wydawania opinii z atestacji sprawozdawczości zrównoważonego rozwoju na podstawie prawa krajowego, któremu podlega jednostka dominująca wyższego szczebla, oraz tłumaczenia tych dokumentów na język polski;
-- **4)** informacje określone w art. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088, dotyczące działalności prowadzonej przez jednostki zależne mające siedzibę lub miejsce sprawowania zarządu na terytorium Europejskiego Obszaru Gospodarczego i korzystające ze zwolnienia na podstawie art. 63u, art. 63v lub odpowiadających im przepisów prawa innego państwa Europejskiego Obszaru Gospodarczego, zostaną zawarte w sprawozdaniu z działalności jednostki dominującej korzystającej ze zwolnienia lub w sprawozdawczości zrównoważonego rozwoju grupy kapitałowej sporządzonej przez jednostkę dominującą wyższego szczebla. Art. 63zb. 1. Przepisów art. 63z i art. 63za nie stosuje się do jednostki dużej będącej emitentem papierów wartościowych dopuszczonych do obrotu na jednym z rynków regulowanych Europejskiego Obszaru Gospodarczego.
+- **4)** informacje określone w art. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088, dotyczące działalności prowadzonej przez jednostki zależne mające siedzibę lub miejsce sprawowania zarządu na terytorium Europejskiego Obszaru Gospodarczego i korzystające ze zwolnienia na podstawie art. 63u, art. 63v lub odpowiadających im przepisów prawa innego państwa Europejskiego Obszaru Gospodarczego, zostaną zawarte w sprawozdaniu z działalności jednostki dominującej korzystającej ze zwolnienia lub w sprawozdawczości zrównoważonego rozwoju grupy kapitałowej sporządzonej przez jednostkę dominującą wyższego szczebla.
+
+**Art. 63zb.**
+
+1. Przepisów art. 63z i art. 63za nie stosuje się do jednostki dużej będącej emitentem papierów wartościowych dopuszczonych do obrotu na jednym z rynków regulowanych Europejskiego Obszaru Gospodarczego.
 
 2. W przypadku gdy sprawozdanie z działalności grupy kapitałowej, o którym mowa w art. 63z ust. 1 pkt 1, lub sprawozdawczość zrównoważonego rozwoju grupy kapitałowej jednostki dominującej wyższego szczebla, o której mowa w art. 63za pkt 1, zostały sporządzone w innym języku niż język polski, sporządzane jest tłumaczenie tych dokumentów na język polski. Tłumaczenie, które nie zostało wykonane przez tłumacza przysięgłego, zawiera o tym informację.
 
 3. Do celów stosowania przepisów art. 63z i art. 63za, w przypadku gdy zastosowanie ma art. 10 rozporządzenia (UE) nr 575/2013, instytucja kredytowa, o której mowa w art. 4 ust. 1 pkt 1 tego rozporządzenia, która jest trwale powiązana z organem centralnym sprawującym nad nią nadzór na warunkach określonych w art. 10 rozporządzenia (UE) nr 575/2013, jest traktowana jako jednostka zależna tego organu centralnego.
 
-4. Do celów stosowania przepisów art. 63z i art. 63za zakład ubezpieczeń i zakład reasekuracji wchodzące w skład grupy, o której mowa w art. 3 ust. 1 pkt 12 lit. b ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, nieuznane za jednostkę dominującą i podlegające nadzorowi nad grupą zgodnie z art. 374 ust. 1 pkt 1–3 tej ustawy, są traktowane jako jednostki zależne jednostki dominującej tej grupy. Art. 63zc. Jednostka, o której mowa w art. 63r ust. 1, oraz jednostka dominująca, o której mowa w art. 63x ust. 1, sporządzają odpowiednio sprawozdanie z działalności albo sprawozdanie z działalności grupy kapitałowej w formacie, o którym mowa w rozporządzeniu Komisji (UE) 2019/815, oraz znakują sprawozdawczość zrównoważonego rozwoju, w tym informacje podlegające ujawnieniu, o których mowa w art. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088, zgodnie z tym formatem. Art. 63zd. 1. Sprawozdawczość zrównoważonego rozwoju jednostek z państw spoza Europejskiego Obszaru Gospodarczego, dotyczącą odpowiednio grupy kapitałowej jednostki dominującej najwyższego szczebla w rozumieniu art. 63l ust. 1 pkt 1 albo jednostki samodzielnej w rozumieniu art. 63l ust. 1 pkt 2, publikuje:
+4. Do celów stosowania przepisów art. 63z i art. 63za zakład ubezpieczeń i zakład reasekuracji wchodzące w skład grupy, o której mowa w art. 3 ust. 1 pkt 12 lit. b ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, nieuznane za jednostkę dominującą i podlegające nadzorowi nad grupą zgodnie z art. 374 ust. 1 pkt 1–3 tej ustawy, są traktowane jako jednostki zależne jednostki dominującej tej grupy.
+
+**Art. 63zc.** Jednostka, o której mowa w art. 63r ust. 1, oraz jednostka dominująca, o której mowa w art. 63x ust. 1, sporządzają odpowiednio sprawozdanie z działalności albo sprawozdanie z działalności grupy kapitałowej w formacie, o którym mowa w rozporządzeniu Komisji (UE) 2019/815, oraz znakują sprawozdawczość zrównoważonego rozwoju, w tym informacje podlegające ujawnieniu, o których mowa w art. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088, zgodnie z tym formatem.
+
+**Art. 63zd.**
+
+1. Sprawozdawczość zrównoważonego rozwoju jednostek z państw spoza Europejskiego Obszaru Gospodarczego, dotyczącą odpowiednio grupy kapitałowej jednostki dominującej najwyższego szczebla w rozumieniu art. 63l ust. 1 pkt 1 albo jednostki samodzielnej w rozumieniu art. 63l ust. 1 pkt 2, publikuje:
 
 - **1)** jednostka zależna, której jednostka dominująca najwyższego szczebla ma siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, pod warunkiem że:
     - **a)** jednostka zależna jest jednostką małą albo jednostką średnią będącą emitentem papierów wartościowych dopuszczonych do obrotu na jednym z rynków regulowanych Europejskiego Obszaru Gospodarczego, albo jednostką dużą,
@@ -2091,11 +2103,18 @@ source: pdf
 - **1)** sprawozdawczość zrównoważonego rozwoju jednostek z państw spoza Europejskiego Obszaru Gospodarczego sporządzoną odpowiednio przez jednostkę dominującą najwyższego szczebla albo jednostkę samodzielną wraz ze sprawozdaniem z atestacji tej sprawozdawczości, o którym mowa w ust. 6, albo z oświadczeniem, o którym mowa w ust. 7, albo
 - **2)** sprawozdawczość zrównoważonego rozwoju, o której mowa w ust. 5 pkt 1, wraz z oświadczeniem, o którym mowa w ust. 5 pkt 2.
 
-9. Sprawozdawczość zrównoważonego rozwoju, o której mowa w ust. 5 pkt 1, oświadczenie, o którym mowa w ust. 5 pkt 2, oraz oświadczenie, o którym mowa w ust. 7, sporządza się w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. <Rozdział 6d Informacje przekazywane do europejskiego pojedynczego punktu dostępu Art. 63ze. Ilekroć w niniejszym rozdziale jest mowa o:
+9. Sprawozdawczość zrównoważonego rozwoju, o której mowa w ust. 5 pkt 1, oświadczenie, o którym mowa w ust. 5 pkt 2, oraz oświadczenie, o którym mowa w ust. 7, sporządza się w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. <Rozdział 6d Informacje przekazywane do europejskiego pojedynczego punktu dostępu
+
+**Art. 63ze.** Ilekroć w niniejszym rozdziale jest mowa o:
 
 - **1)** europejskim pojedynczym punkcie dostępu – rozumie się przez to europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
 - **2)** metadanych – rozumie się przez to metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;
-- **3)** rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ). Art. 63zf. 1. Kierownik jednostki, o której mowa w art. 63r ust. 1, art. 63x ust. 1 oraz art. 63zd ust. 1 pkt 1 i 2, zapewnia przekazywanie do właściwego rejestru sądowego, w celu udostępnienia w europejskim pojedynczym punkcie dostępu, następujących informacji:
+- **3)** rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ).
+
+**Art. 63zf.**
+
+1. Kierownik jednostki, o której mowa w art. 63r ust. 1, art. 63x ust. 1 oraz art. 63zd ust. 1 pkt 1 i 2, zapewnia przekazywanie do właściwego rejestru sądowego, w celu udostępnienia w europejskim pojedynczym punkcie dostępu, następujących informacji:
+
 - **1)** sprawozdania z działalności;
 - **2)** sprawozdania z działalności grupy kapitałowej;
 - **3)** rocznego sprawozdania finansowego;

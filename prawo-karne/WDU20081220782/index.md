@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# r. Nr 122, o zmianie ustawy – Kodeks karny
+# Ustawa z dnia 9 maja 2008 r. o zmianie ustawy - Kodeks karny
 
 *USTAWA Opracowano z dnia 9 maja 2008 r. stawie: Dz.U.*
 

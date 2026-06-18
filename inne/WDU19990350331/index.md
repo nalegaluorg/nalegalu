@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie ogólnych warunków świadczenia usług telekomunikacyjnych w sieci telekomunikacyjnej użytku publicznego.
+# Rozporządzenie Ministra Łączności z dnia 6 kwietnia 1999 r. zmieniające rozporządzenie w sprawie ogólnych warunków świadczenia usług telekomunikacyjnych w sieci telekomunikacyjnej użytku publicznego.
 
 | Pole | Wartość |
 |---|---|

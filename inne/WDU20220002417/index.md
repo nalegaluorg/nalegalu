@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach związanych z potwierdzaniem aktualności nowego oznaczenia oraz nowego stanu prawnego gruntów wydzielonych w wyniku scalenia gruntów
+# Ustawa z dnia 7 października 2022 r. o szczególnych rozwiązaniach związanych z potwierdzaniem aktualności nowego oznaczenia oraz nowego stanu prawnego gruntów wydzielonych w wyniku scalenia gruntów
 
 *USTAWA z dnia 7 października 2022 r.*
 

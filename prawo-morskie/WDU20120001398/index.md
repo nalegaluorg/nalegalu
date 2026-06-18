@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu dekretu o obszarach szczególnie ważnych dla obrony kraju oraz o zmianie ustawy – Kodeks morski
+# Ustawa z dnia 12 października 2012 r. o uchyleniu dekretu o obszarach szczególnie ważnych dla obrony kraju oraz o zmianie ustawy - Kodeks morski
 
 *USTAWA z dnia 12 października 2012 r.*
 

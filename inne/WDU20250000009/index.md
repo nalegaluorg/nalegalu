@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o kooperatywach mieszkaniowych oraz zasadach zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kooperatywach mieszkaniowych oraz zasadach zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych
 
 | Pole | Wartość |
 |---|---|
@@ -29,7 +29,6 @@ source: pdf
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 31–35 ustawy z dnia 4 listopada 2022 r. o kooperatywach mieszkaniowych oraz zasadach zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych (Dz. U. z 2023 r.
 poz. 28), które stanowią: „Art. 31. W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, 2687 i 2745) w art. 21 w ust. 1 w pkt 156 wyraz „gwarantowanym” zastępuje się wyrazem „rodzinnym”.
-Art. 31–35. (pominięte)
 
 **Art. 32.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2022 r. poz. 1613) w art. 46 w pkt 3 wyraz „gwarantowanym” zastępuje się wyrazem „rodzinnym”.
 
@@ -483,6 +482,8 @@ Art. 31–35. (pominięte)
 **Art. 30.** W zakresie nieuregulowanym w niniejszym rozdziale do zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych stosuje się odpowiednio przepisy o gospodarce nieruchomościami.
 
 #### Rozdział 4 Przepisy zmieniające i przepis końcowy
+
+**Art. 31–35.** (pominięte)
 
 **Art. 36.** W przypadku:
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podatku leśnym
+# Ustawa z dnia 30 października 2002 r. o podatku leśnym.
 
 *USTAWA z dnia 30 października 2002 r.*
 

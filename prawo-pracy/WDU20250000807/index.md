@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks pracy
+# Ustawa z dnia 4 czerwca 2025 r. o zmianie ustawy - Kodeks pracy
 
 *USTAWA z dnia 4 czerwca 2025 r.*
 

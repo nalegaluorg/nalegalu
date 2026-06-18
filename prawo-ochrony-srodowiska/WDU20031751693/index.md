@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o restrukturyzacji finansowej górnictwa siarki oraz ustawy - Prawo ochrony środowiska
+# Ustawa z dnia 29 sierpnia 2003 r. o zmianie ustawy o restrukturyzacji finansowej górnictwa siarki oraz ustawy - Prawo ochrony środowiska
 
 *USTAWA z dnia 29 sierpnia 2003 r.*
 

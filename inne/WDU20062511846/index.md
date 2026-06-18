@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o systemie ubezpieczeń społecznych
+# Ustawa z dnia 14 grudnia 2006 r. zmieniająca ustawę o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o systemie ubezpieczeń społecznych
 
 *USTAWA z dnia 14 grudnia 2006 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz ustawy o kierujących pojazdami
+# Ustawa z dnia 1 kwietnia 2011 r. o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o kierujących pojazdami
 
 *USTAWA z dnia 1 kwietnia 2011 r.*
 

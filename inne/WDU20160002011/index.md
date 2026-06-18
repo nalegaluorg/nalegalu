@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 listopada 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r.
 
 | Pole | Wartość |
 |---|---|

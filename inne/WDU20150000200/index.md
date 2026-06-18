@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
+# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 stycznia 2015 r.*
 
@@ -90,11 +90,19 @@ source: pdf
 
 5. W przypadku gdy decyzji o ustaleniu lokalizacji linii kolejowej został nadany rygor natychmiastowej wykonalności, porozumienie, o którym mowa w ust. 4, zawiera się niezwłocznie.
 
-6. Za szkody powstałe w wyniku działań, o których mowa w ust. 1, przysługuje od PLK S.A. albo jednostki samorządu terytorialnego odszkodowanie, ustalone na zasadach wynikających z Kodeksu cywilnego. Art. 9yb. 1. Państwowe Gospodarstwo Leśne Lasy Państwowe (Lasy Państwowe) zarządzające nieruchomościami, o których mowa w art. 9q ust. 1 pkt 7, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2014 r. poz. 1153) są obowiązane do dokonania nieodpłatnie wycinki drzew i krzewów oraz ich uprzątnięcia w terminie ustalonym w odrębnym porozumieniu między Lasami Państwowymi a PLK S.A. lub właściwą jednostką samorządu terytorialnego.
+6. Za szkody powstałe w wyniku działań, o których mowa w ust. 1, przysługuje od PLK S.A. albo jednostki samorządu terytorialnego odszkodowanie, ustalone na zasadach wynikających z Kodeksu cywilnego.
+
+**Art. 9yb.**
+
+1. Państwowe Gospodarstwo Leśne Lasy Państwowe (Lasy Państwowe) zarządzające nieruchomościami, o których mowa w art. 9q ust. 1 pkt 7, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2014 r. poz. 1153) są obowiązane do dokonania nieodpłatnie wycinki drzew i krzewów oraz ich uprzątnięcia w terminie ustalonym w odrębnym porozumieniu między Lasami Państwowymi a PLK S.A. lub właściwą jednostką samorządu terytorialnego.
 
 2. Drewno pozyskane z wycinki drzew i krzewów, o której mowa w ust. 1, staje się nieodpłatnie własnością Lasów Państwowych.
 
-3. Koszty wycinki drzew i krzewów w wieku do 20 lat oraz ich uprzątnięcia ponoszą PLK S.A. lub właściwa jednostka samorządu terytorialnego. Art. 9yc. 1. Do gruntów rolnych i leśnych objętych decyzją o ustaleniu lokalizacji linii kolejowej nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych.
+3. Koszty wycinki drzew i krzewów w wieku do 20 lat oraz ich uprzątnięcia ponoszą PLK S.A. lub właściwa jednostka samorządu terytorialnego.
+
+**Art. 9yc.**
+
+1. Do gruntów rolnych i leśnych objętych decyzją o ustaleniu lokalizacji linii kolejowej nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych.
 
 2. Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji linii kolejowej, z wyjątkiem drzew i krzewów wpisanych do rejestru zabytków, nie stosuje się przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm. ) w zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych.”;
 

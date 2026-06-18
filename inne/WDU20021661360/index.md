@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie oceny zgodności
+# Ustawa z dnia 30 sierpnia 2002 r. o systemie oceny zgodności.
 
 *USTAWA z dnia 30 sierpnia 2002 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2002-10-07 |
 | Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021661360) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1360/text.pdf) |
-
-Art. 49–57. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -595,6 +593,8 @@ Art. 49–57. (pominięte)
 **Art. 48.** (uchylony)
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 49–57.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

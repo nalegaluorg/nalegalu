@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o organizacji i funkcjonowaniu funduszy emerytalnych
+# Ustawa z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych.
 
 *USTAWA z dnia 28 sierpnia 1997 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1997-11-20 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971390934) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/934/text.pdf) |
-
-Art. 223–228. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1756,7 +1754,14 @@ Art. 223–228. (pominięte)
 4. Kapitał gwarancyjny, o którym mowa w ust. 3 pkt 3, jest równy większej z wartości:
 
 - **1)** jednej trzeciej marginesu wypłacalności;
-- **2)** minimalnej wysokości kapitału gwarancyjnego. Art. 106ja. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowy sposób wyliczenia wysokości marginesu wypłacalności dla działu I i grup ubezpieczeń działu I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej oraz minimalną wysokość kapitału gwarancyjnego dla działu I załącznika do tej ustawy, uwzględniając konieczność zapewnienia wypłacalności zakładów ubezpieczeń na życie, do których pracowniczy fundusz przekazuje składki pracowników zagranicznych. Art. 106jb. 1. Środki własne zakładu ubezpieczeń na życie stanowią aktywa zakładu ubezpieczeń na życie, z wyłączeniem aktywów:
+- **2)** minimalnej wysokości kapitału gwarancyjnego.
+
+**Art. 106ja.** Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowy sposób wyliczenia wysokości marginesu wypłacalności dla działu I i grup ubezpieczeń działu I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej oraz minimalną wysokość kapitału gwarancyjnego dla działu I załącznika do tej ustawy, uwzględniając konieczność zapewnienia wypłacalności zakładów ubezpieczeń na życie, do których pracowniczy fundusz przekazuje składki pracowników zagranicznych.
+
+**Art. 106jb.**
+
+1. Środki własne zakładu ubezpieczeń na życie stanowią aktywa zakładu ubezpieczeń na życie, z wyłączeniem aktywów:
+
 - **1)** przeznaczonych na pokrycie wszelkich przewidywalnych zobowiązań;
 - **2)** wartości niematerialnych i prawnych;
 - **3)** akcji własnych i udziałów własnych będących w posiadaniu zakładu ubezpieczeń na życie;
@@ -1798,7 +1803,9 @@ Art. 223–228. (pominięte)
 
 6. W przypadku, o którym mowa w ust. 4 pkt 2 lit. e, dokonanie przedterminowej spłaty może nastąpić wyłącznie po uzyskaniu uprzedniej zgody organu nadzoru, na wniosek zakładu ubezpieczeń na życie, który zawiadamia organ nadzoru o planowanej spłacie co najmniej 6 miesięcy przed planowanym terminem spłaty i przedstawia dane o wartości środków własnych i dane o wartości środków własnych przed dokonaniem płatności i po jej dokonaniu płatności. Organ nadzoru może zezwolić na spłatę pożyczek, pod warunkiem że nie spowoduje to naruszenia art. 106j ust. 3 pkt 3.
 
-7. Wielkość, o której mowa w ust. 4 pkt 4, nie może przekroczyć 3,5 % sumy różnicy pomiędzy sumami kapitału i wysokości rezerwy w dziale ubezpieczeń na życie dla wszystkich umów ubezpieczenia, dla których stosowanie metody Zillmera jest dopuszczalne. Różnica zaliczana do środków własnych jest pomniejszana o nierozliczone koszty akwizycji, wykazane w bilansie dla celów rachunkowości jako aktywa. Art. 106jc. Środki własne na pokrycie kapitału gwarancyjnego stanowią aktywa, o których mowa w art. 106jb, z wyłączeniem aktywów, o których mowa w art. 106jb ust. 4 pkt 3.
+7. Wielkość, o której mowa w ust. 4 pkt 4, nie może przekroczyć 3,5 % sumy różnicy pomiędzy sumami kapitału i wysokości rezerwy w dziale ubezpieczeń na życie dla wszystkich umów ubezpieczenia, dla których stosowanie metody Zillmera jest dopuszczalne. Różnica zaliczana do środków własnych jest pomniejszana o nierozliczone koszty akwizycji, wykazane w bilansie dla celów rachunkowości jako aktywa.
+
+**Art. 106jc.** Środki własne na pokrycie kapitału gwarancyjnego stanowią aktywa, o których mowa w art. 106jb, z wyłączeniem aktywów, o których mowa w art. 106jb ust. 4 pkt 3.
 
 **Art. 106k.** Przy ustalaniu wartości aktywów netto pracowniczego funduszu nie uwzględnia się składek pracowników zagranicznych, o których mowa w art. 2 ust. 4.
 
@@ -3143,7 +3150,9 @@ Art. 223–228. (pominięte)
 
 **Art. 209.** (uchylony)
 
-**Art. 210.** Do Przewodniczącego Komisji Nadzoru Finansowego, jego Zastępców, członków Komisji, pracowników Urzędu tej Komisji oraz osób zatrudnionych w Urzędzie tej Komisji na podstawie umowy o dzieło, umowy zlecenia albo innych umów o podobnym charakterze stosuje się odpowiednio przepisy art. 49. Art. 211–214. (uchylone)
+**Art. 210.** Do Przewodniczącego Komisji Nadzoru Finansowego, jego Zastępców, członków Komisji, pracowników Urzędu tej Komisji oraz osób zatrudnionych w Urzędzie tej Komisji na podstawie umowy o dzieło, umowy zlecenia albo innych umów o podobnym charakterze stosuje się odpowiednio przepisy art. 49.
+
+**Art. 211–214.** (uchylone)
 
 #### Rozdział 22 Przepisy karne
 
@@ -3184,6 +3193,8 @@ Art. 223–228. (pominięte)
 **Art. 222.** Odpowiedzialności karnej przewidzianej w przepisach art. 215– 220 podlega także ten, kto dopuszcza się czynów określonych w tych przepisach, działając w imieniu osoby prawnej.
 
 #### Rozdział 23 Zmiany w przepisach obowiązujących
+
+**Art. 223–228.** (pominięte)
 
 #### Rozdział 24 Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw
+# Ustawa z dnia 24 lipca 1999 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw.
 
 *USTAWA z dnia 24 lipca 1999 r.*
 

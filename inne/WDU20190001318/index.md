@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funduszach promocji produktów rolno-spożywczych
+# Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy o funduszach promocji produktów rolno-spożywczych
 
 *USTAWA z dnia 13 czerwca 2019 r.*
 

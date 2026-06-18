@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych
+# Ustawa z dnia 24 lutego 2017 r. o zmianie ustawy o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych
 
 *USTAWA z dnia 24 lutego 2017 r.*
 

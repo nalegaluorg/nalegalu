@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie zasad organizacji wojewódzkich inspektoratów ochrony roślin.
+# Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 28 grudnia 1998 r. w sprawie zasad organizacji wojewódzkich inspektoratów ochrony roślin.
 
 | Pole | Wartość |
 |---|---|

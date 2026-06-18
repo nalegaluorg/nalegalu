@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podmiotach obsługujących kredyty i nabywcach kredytów
+# Ustawa z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów
 
 *USTAWA z dnia 20 grudnia 2024 r.*
 

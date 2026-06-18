@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji oraz ustawy – Kodeks postępowania karnego
+# Ustawa z dnia 17 grudnia 2004 r. o zmianie ustawy o Policji oraz ustawy - Kodeks postępowania karnego
 
 *USTAWA z dnia 17 grudnia 2004 r.*
 

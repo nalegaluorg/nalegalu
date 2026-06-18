@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komornikach sądowych i egzekucji oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 18 września 2001 r. o zmianie ustawy o komornikach sądowych i egzekucji oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 18 września 2001 r.*
 

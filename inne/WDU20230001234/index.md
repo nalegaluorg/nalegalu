@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o aplikacji mObywatel
+# Ustawa z dnia 26 maja 2023 r. o aplikacji mObywatel
 
 *USTAWA z dnia 26 maja 2023 r.*
 
@@ -435,7 +435,9 @@ source: pdf
 
 1. Podmiot świadczący usługę w aplikacji mObywatel oraz podmiot udostępniający dane wykorzystywane w usłudze świadczonej w aplikacji mObywatel niezwłocznie informują ministra właściwego do spraw informatyzacji, przy użyciu dostępnych środków komunikacji, o wszelkich zdarzeniach uzasadniających czasowe zawieszenie świadczenia usługi lub o problemach związanych z udziałem tych podmiotów w świadczeniu tej usługi lub w udostępnianiu danych wykorzystywanych w tej usłudze.
 
-2. Minister właściwy do spraw informatyzacji może czasowo zawiesić świadczenie usługi w aplikacji mObywatel w przypadku otrzymania informacji, o której mowa w ust. 1, lub wystąpienia zdarzeń lub okoliczności, które powodują ryzyko naruszenia bezpieczeństwa aplikacji mObywatel, systemu mObywatel lub użytkowników aplikacji mObywatel. Art. 23–60. (pominięte)
+2. Minister właściwy do spraw informatyzacji może czasowo zawiesić świadczenie usługi w aplikacji mObywatel w przypadku otrzymania informacji, o której mowa w ust. 1, lub wystąpienia zdarzeń lub okoliczności, które powodują ryzyko naruszenia bezpieczeństwa aplikacji mObywatel, systemu mObywatel lub użytkowników aplikacji mObywatel.
+
+**Art. 23–60.** (pominięte)
 
 **Art. 61.** (uchylony)
 

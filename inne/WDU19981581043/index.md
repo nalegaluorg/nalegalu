@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# z dnia 8 grudnia 1998 r.
+# Wyrok Trybunału Konstytucyjnego z dnia 8 grudnia 1998 r. sygn. akt K. 41/97.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przetwarzaniu danych dotyczących przelotu pasażera
+# Ustawa z dnia 9 maja 2018 r. o przetwarzaniu danych dotyczących przelotu pasażera
 
 *USTAWA z dnia 9 maja 2018 r.*
 

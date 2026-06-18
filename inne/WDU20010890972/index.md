@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu programu wieloletniego „Wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej w samoloty wielozadaniowe” i zapewnieniu warunków jego realizacji
+# Ustawa z dnia 22 czerwca 2001 r. o ustanowieniu programu wieloletniego "Wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej w samoloty wielozadaniowe" i zapewnieniu warunków jego realizacji.
 
 *USTAWA z dnia 22 czerwca 2001 r.*
 

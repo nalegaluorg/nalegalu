@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Narodowej Agencji Wymiany Akademickiej
+# Ustawa z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej
 
 *USTAWA z dnia 7 lipca 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2017-08-11 |
 | Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001530) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1530/text.pdf) |
-
-Art. 34–38. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -445,6 +443,8 @@ Art. 34–38. (pominięte)
 2. Minister właściwy do spraw szkolnictwa wyższego i nauki dokonuje wyboru firmy audytorskiej.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 34–38.** (pominięte)
 
 #### Rozdział 6 Przepisy dostosowujące, przejściowe i końcowe
 

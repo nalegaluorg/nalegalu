@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie wynagrodzenia Dyrektora Polskiego Centrum Badań i Certyfikacji.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 30 maja 2000 r. w sprawie wynagrodzenia Dyrektora Polskiego Centrum Badań i Certyfikacji.
 
 *ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 29 maja 2000 r.*
 

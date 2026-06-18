@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o spółdzielniach socjalnych oraz niektórych innych ustaw
+# Ustawa z dnia 15 grudnia 2017 r. o zmianie ustawy o spółdzielniach socjalnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 grudnia 2017 r.*
 

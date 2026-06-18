@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansowym wsparciu rodzin w nabywaniu własnego mieszkania
+# Ustawa z dnia 15 czerwca 2007 r. o zmianie ustawy o finansowym wsparciu rodzin w nabywaniu własnego mieszkania
 
 *USTAWA z dnia 15 czerwca 2007 r.*
 

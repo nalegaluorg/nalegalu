@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej
+# Ustawa z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 20 marca 2025 r.*
 

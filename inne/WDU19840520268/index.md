@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podatku rolnym
+# Ustawa z dnia 15 listopada 1984 r. o podatku rolnym.
 
 *USTAWA z dnia 15 listopada 1984 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1984-11-23 |
 | Ostatnia zmiana | 2025-12-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840520268) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1984/268/text.pdf) |
-
-Art. 14–16. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -345,6 +343,8 @@ Art. 14–16. (pominięte)
 2. Ulgi, o których mowa w art. 13c i art. 13e, stanowią pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 14–16.** (pominięte)
 
 **Art. 17.** Ilekroć w odrębnych przepisach jest mowa o podatku gruntowym, rozumie się przez to podatek rolny.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie warunków technicznych użytkowania budynków mieszkalnych.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 sierpnia 1999 r. w sprawie warunków technicznych użytkowania budynków mieszkalnych.
 
 | Pole | Wartość |
 |---|---|

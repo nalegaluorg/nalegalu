@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ustroju miasta stołecznego Warszawy
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 września 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustroju miasta stołecznego Warszawy
 
 | Pole | Wartość |
 |---|---|

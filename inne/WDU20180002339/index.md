@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o ochronie baz danych
+# Ustawa z dnia 22 listopada 2018 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o ochronie baz danych
 
 *USTAWA z dnia 22 listopada 2018 r.*
 

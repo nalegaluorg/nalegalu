@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o usługach detektywistycznych
+# Ustawa z dnia 6 lipca 2001 r. o usługach detektywistycznych.
 
 *USTAWA z dnia 6 lipca 2001 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2002-02-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020120110) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/110/text.pdf) |
-
-Art. 47–49. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -475,6 +473,8 @@ Art. 47–49. (pominięte)
 2. Tej samej karze podlega osoba wykonująca czynności detektywa w ramach prowadzonej działalności gospodarczej bez wymaganej licencji.
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
+
+**Art. 47–49.** (pominięte)
 
 **Art. 50.** (uchylony)
 

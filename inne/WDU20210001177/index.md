@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym
+# Ustawa z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym
 
 *USTAWA z dnia 20 maja 2021 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-06-30 |
 | Ostatnia zmiana | 2026-03-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001177) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1177/text.pdf) |
-
-Art. 64–75. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1048,6 +1046,8 @@ Art. 64–75. (pominięte)
 **Art. 63.** Orzekanie w sprawach o czyny, o których mowa w art. 58 < i art. 60c>, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
 #### Rozdział 10 Zmiany w przepisach
+
+**Art. 64–75.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i końcowe
 

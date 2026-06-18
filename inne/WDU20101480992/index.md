@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wspieraniu przedsiębiorców dotkniętych skutkami powodzi z 2010 r.
+# Ustawa z dnia 12 sierpnia 2010 r. o wspieraniu przedsiębiorców dotkniętych skutkami powodzi z 2010 r.
 
 *USTAWA z dnia 12 sierpnia 2010 r.*
 

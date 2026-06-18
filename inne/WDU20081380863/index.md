@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# uchylająca ustawę o klasyfikacji drewna surowego nieobrobionego
+# Ustawa z dnia 12 czerwca 2008 r. uchylająca ustawę o klasyfikacji drewna surowego nieodrobionego
 
 *USTAWA z dnia 12 czerwca 2008 r.*
 

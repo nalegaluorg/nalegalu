@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo prasowe
+# Ustawa z dnia 27 października 2017 r. o zmianie ustawy - Prawo prasowe
 
 *USTAWA z dnia 27 października 2017 r.*
 

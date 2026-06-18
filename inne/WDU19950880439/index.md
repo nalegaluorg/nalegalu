@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o statystyce publicznej
+# Ustawa z dnia 29 czerwca 1995 r. o statystyce publicznej.
 
 *USTAWA z dnia 29 czerwca 1995 r.*
 
@@ -530,7 +530,9 @@ source: pdf
 
 2. Dane osobowe są zbierane dla celów statystycznych, jeżeli celu statystycznego nie można osiągnąć za pomocą innych danych.
 
-3. Służby statystyki publicznej przetwarzają dane osobowe do celów prowadzenia i aktualizacji rejestru REGON. Art. 35aa. Dane osobowe od momentu ich zebrania bezpośrednio od respondentów albo z systemów informacyjnych administracji publicznej i rejestrów urzędowych lub niepublicznych systemów informacyjnych na potrzeby wykonywania zadań określonych w ustawie stają się danymi statystycznymi i objęte są tajemnicą statystyczną z wyłączeniem informacji zawartych w rejestrze REGON.
+3. Służby statystyki publicznej przetwarzają dane osobowe do celów prowadzenia i aktualizacji rejestru REGON.
+
+**Art. 35aa.** Dane osobowe od momentu ich zebrania bezpośrednio od respondentów albo z systemów informacyjnych administracji publicznej i rejestrów urzędowych lub niepublicznych systemów informacyjnych na potrzeby wykonywania zadań określonych w ustawie stają się danymi statystycznymi i objęte są tajemnicą statystyczną z wyłączeniem informacji zawartych w rejestrze REGON.
 
 **Art. 35b.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/Wyjazdu
+# Ustawa z dnia 18 października 2024 r. o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/Wyjazdu
 
 *USTAWA z dnia 18 października 2024 r.*
 

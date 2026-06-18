@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych
 
 *USTAWA z dnia 17 grudnia 1998 r.*
 
@@ -26,11 +26,6 @@ source: pdf
 | Data wydania | 2025-12-10 |
 | Ostatnia zmiana | 2026-04-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001749) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1749/text.pdf) |
-
-3) zwolnienia od pracy oraz zwolnienia od wykonywania obowiązków służbowych na podstawie ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U.
-z 2024 r. poz. 1782) – bezpośrednio poprzedzone pracą górniczą wykonywaną pod ziemią stale i w pełnym wymiarze czasu pracy, przypadające w czasie trwania stosunku pracy.
-3. Prawo do emerytury, o której mowa w ust. 1, przysługuje pod warunkiem, że pracownik nie przystąpił do otwartego funduszu emerytalnego albo złożył wniosek o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym, za pośrednictwem Zakładu, na dochody budżetu państwa.
-Art. 145–172. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -762,7 +757,9 @@ Art. 145–172. (pominięte)
 
 2. Wiek emerytalny wymagany od pracowników: kobiet mających co najmniej 20 lat, a mężczyzn co najmniej 25 lat pracy górniczej i równorzędnej, w tym co najmniej 15 lat pracy górniczej, o której mowa w art. 50c ust. 1, wynosi 50 lat.
 
-**Art. 50b.** Przy ustalaniu prawa do emerytury górniczej uwzględnia się okresy pracy górniczej i pracy równorzędnej z pracą górniczą, będące okresami składkowymi lub nieskładkowymi w rozumieniu ustawy, z tym że okresy pracy górniczej i pracy równorzędnej z pracą górniczą uwzględnia się, jeżeli praca ta wykonywana była co najmniej w połowie wymiaru czasu pracy. Art. 50ba. Ilekroć w ustawie jest mowa o:
+**Art. 50b.** Przy ustalaniu prawa do emerytury górniczej uwzględnia się okresy pracy górniczej i pracy równorzędnej z pracą górniczą, będące okresami składkowymi lub nieskładkowymi w rozumieniu ustawy, z tym że okresy pracy górniczej i pracy równorzędnej z pracą górniczą uwzględnia się, jeżeli praca ta wykonywana była co najmniej w połowie wymiaru czasu pracy.
+
+**Art. 50ba.** Ilekroć w ustawie jest mowa o:
 
 - **1)** kopalni – oznacza to zakład górniczy w rozumieniu art. 6 ust. 1 pkt 18 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290 oraz z 2025 r. poz. 769 i 1023);
 - **2)** odkrywce – oznacza to odkrywkowy zakład górniczy.
@@ -812,9 +809,10 @@ Art. 145–172. (pominięte)
 2. Do okresów pracy górniczej, o której mowa w ust. 1, zalicza się także okresy:
 
 - **1)** niezdolności do pracy z tytułu wypadku przy pracy albo z tytułu choroby zawodowej, za które wypłacone zostało wynagrodzenie lub zasiłek chorobowy albo świadczenie rehabilitacyjne,
-- **2)** czasowego oddelegowania pracowników, o których mowa w art. 50c ust. 1 pkt 6, do zawodowego pogotowia ratowniczego w Centralnej Stacji Ratownictwa Górniczego S.A. w Bytomiu, w KGHM Polska Miedź S.A.
+- **2)** czasowego oddelegowania pracowników, o których mowa w art. 50c ust. 1 pkt 6, do zawodowego pogotowia ratowniczego w Centralnej Stacji Ratownictwa Górniczego S.A. w Bytomiu, w KGHM Polska Miedź S.A. Oddział Jednostka Ratownictwa Górniczo-Hutniczego w Lubinie lub w okręgowych stacjach ratownictwa górniczego,
+- **3)** zwolnienia od pracy oraz zwolnienia od wykonywania obowiązków służbowych na podstawie ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 1782) – bezpośrednio poprzedzone pracą górniczą wykonywaną pod ziemią stale i w pełnym wymiarze czasu pracy, przypadające w czasie trwania stosunku pracy.
 
-##### Oddział Jednostka Ratownictwa Górniczo-Hutniczego w Lubinie lub w okręgowych stacjach ratownictwa górniczego,
+3. Prawo do emerytury, o której mowa w ust. 1, przysługuje pod warunkiem, że pracownik nie przystąpił do otwartego funduszu emerytalnego albo złożył wniosek o przekazanie środków zgromadzonych na rachunku w otwartym funduszu emerytalnym, za pośrednictwem Zakładu, na dochody budżetu państwa.
 
 **Art. 50f.** Przy ustalaniu prawa do emerytury górniczej, o której mowa w art. 50e, okresy pracy górniczej wykonywanej pod ziemią stale i w pełnym wymiarze czasu pracy mogą być na wniosek pracownika rozliczane w okresach kwartalnych.
 
@@ -2093,6 +2091,8 @@ Art. 145–172. (pominięte)
 ### DZIAŁ X Przepisy zmieniające, przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
+
+**Art. 145–172.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe
 

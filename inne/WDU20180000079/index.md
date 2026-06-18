@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 listopada 2017 r.*
 
@@ -212,10 +212,17 @@ source: pdf
 
 1. W przypadku gdy doszło do utraty lub zniszczenia blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych lub profesjonalnych tablic (tablicy) rejestracyjnych, podmiot uprawniony jest obowiązany niezwłocznie złożyć staroście oświadczenie, że doszło do utraty lub zniszczenia blankietów profesjonalnych dowodów rejestracyjnych lub profesjonalnych dowodów rejestracyjnych, ze wskazaniem ich serii i numerów, lub że doszło do utraty lub zniszczenia profesjonalnych tablic (tablicy) rejestracyjnych, ze wskazaniem ich numeru rejestracyjnego i numeru znaku legalizacyjnego.
 
-2. Oświadczenie, o którym mowa w ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. Art. 80za. W przypadku gdy w okresie ważności decyzji o profesjonalnej rejestracji pojazdów doszło do utraty lub zniszczenia:
+2. Oświadczenie, o którym mowa w ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+**Art. 80za.** W przypadku gdy w okresie ważności decyzji o profesjonalnej rejestracji pojazdów doszło do utraty lub zniszczenia:
 
 - **1)** blankietów profesjonalnych dowodów rejestracyjnych lub
-- **2)** profesjonalnych tablic (tablicy) rejestracyjnych – podmiot uprawniony może złożyć staroście wniosek o wydanie, za opłatą oraz opłatą ewidencyjną, nowych blankietów w liczbie odpowiadającej liczbie blankietów utraconych lub zniszczonych lub nowych profesjonalnych tablic (tablicy) rejestracyjnych. Art. 80zb. 1. Starosta, w drodze decyzji, uchyla decyzję o profesjonalnej rejestracji pojazdów, w przypadku gdy:
+- **2)** profesjonalnych tablic (tablicy) rejestracyjnych – podmiot uprawniony może złożyć staroście wniosek o wydanie, za opłatą oraz opłatą ewidencyjną, nowych blankietów w liczbie odpowiadającej liczbie blankietów utraconych lub zniszczonych lub nowych profesjonalnych tablic (tablicy) rejestracyjnych.
+
+**Art. 80zb.**
+
+1. Starosta, w drodze decyzji, uchyla decyzję o profesjonalnej rejestracji pojazdów, w przypadku gdy:
+
 - **1)** przedsiębiorca zaprzestał prowadzenia działalności w zakresie produkcji, dystrybucji lub badania pojazdów;
 - **2)** jednostka uprawniona lub jednostka badawcza producenta pojazdu, przedmiotu wyposażenia lub części zaprzestała przeprowadzania odpowiednich badań pojazdu, przedmiotu wyposażenia lub części;
 - **3)** ujawnione zostało, że po dniu wydania decyzji o profesjonalnej rejestracji pojazdów:
@@ -235,7 +242,12 @@ source: pdf
 
 - **1)** nastąpiło uchylenie decyzji o profesjonalnej rejestracji pojazdów z przyczyn, o których mowa w ust. 1 pkt 3–9;
 - **2)** nastąpiło uchylenie decyzji o profesjonalnej rejestracji pojazdów z przyczyn, o których mowa w ust. 1 pkt 1 i 2, a podmiot uprawniony nie zwrócił staroście blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych albo nie złożył oświadczenia, o którym mowa w art. 80z ust. 1;
-- **3)** upłynął termin ważności decyzji o profesjonalnej rejestracji pojazdów, a w ciągu 30 dni od upływu tego terminu podmiot uprawniony nie zwrócił staroście blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych albo nie złożył oświadczenia, o którym mowa w art. 80z ust. 1. Art. 80zc. 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+- **3)** upłynął termin ważności decyzji o profesjonalnej rejestracji pojazdów, a w ciągu 30 dni od upływu tego terminu podmiot uprawniony nie zwrócił staroście blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych albo nie złożył oświadczenia, o którym mowa w art. 80z ust. 1.
+
+**Art. 80zc.**
+
+1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+
 - **1)** czynności starosty w sprawach związanych z profesjonalną rejestracją pojazdów;
 - **2)** wzór:
     - **a)** wniosku o wydanie decyzji o profesjonalnej rejestracji pojazdów,
@@ -260,11 +272,19 @@ source: pdf
 - **2)** konieczność prawidłowego zabezpieczenia blankietów profesjonalnych dowodów rejestracyjnych i profesjonalnych tablic rejestracyjnych;
 - **3)** koszt wyprodukowania blankietów profesjonalnych dowodów rejestracyjnych i profesjonalnych tablic (tablicy) rejestracyjnych;
 - **4)** koszty czynności administracyjnych związanych z wydawaniem decyzji o profesjonalnej rejestracji pojazdów, blankietów profesjonalnych dowodów rejestracyjnych i zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych;
-- **5)** potrzebę minimalizowania obciążeń administracyjnych dla podmiotów uprawnionych. Art. 80zd. 1. Stawki opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, podlegają co 6 lat waloryzacji w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych ogółem za okres 6 poprzednich lat obliczonemu na podstawie średniorocznych wskaźników cen towarów i usług konsumpcyjnych ogłaszanych w komunikatach Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+- **5)** potrzebę minimalizowania obciążeń administracyjnych dla podmiotów uprawnionych.
+
+**Art. 80zd.**
+
+1. Stawki opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, podlegają co 6 lat waloryzacji w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych ogółem za okres 6 poprzednich lat obliczonemu na podstawie średniorocznych wskaźników cen towarów i usług konsumpcyjnych ogłaszanych w komunikatach Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 2. W przypadku gdy wskaźnik, o którym mowa w ust. 1, ma wartość ujemną, stawki opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, nie ulegają zmianie.
 
-3. Minister właściwy do spraw transportu, co 6 lat, nie później niż do dnia 31 października, ogłasza, po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość stawek opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, obowiązujących od dnia 1 stycznia roku następnego, zaokrąglając je w górę do 0,5 złotego albo do złotego. Art. 80ze. 1. Podmiot uprawniony przechowuje:
+3. Minister właściwy do spraw transportu, co 6 lat, nie później niż do dnia 31 października, ogłasza, po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość stawek opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, obowiązujących od dnia 1 stycznia roku następnego, zaokrąglając je w górę do 0,5 złotego albo do złotego.
+
+**Art. 80ze.**
+
+1. Podmiot uprawniony przechowuje:
 
 - **1)** decyzję o profesjonalnej rejestracji pojazdów,
 - **2)** blankiety profesjonalnych dowodów rejestracyjnych oraz profesjonalne dowody rejestracyjne,
@@ -275,7 +295,11 @@ source: pdf
 - **1)** decyzję o profesjonalnej rejestracji pojazdów przez okres 5 lat od dnia, w którym upłynął termin ważności tej decyzji, lub od dnia uchylenia tej decyzji;
 - **2)** blankiety profesjonalnych dowodów rejestracyjnych, profesjonalne dowody rejestracyjne i profesjonalne tablice (tablicę) rejestracyjne do czasu ich zwrotu staroście.
 
-3. W przypadku kradzieży blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych lub profesjonalnych tablic (tablicy) rejestracyjnych podmiot uprawniony zawiadamia o tym fakcie właściwy organ Policji oraz starostę, który wydał decyzję o profesjonalnej rejestracji pojazdów. Art. 80zf. 1. Zabrania się:
+3. W przypadku kradzieży blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych lub profesjonalnych tablic (tablicy) rejestracyjnych podmiot uprawniony zawiadamia o tym fakcie właściwy organ Policji oraz starostę, który wydał decyzję o profesjonalnej rejestracji pojazdów.
+
+**Art. 80zf.**
+
+1. Zabrania się:
 
 - **1)** korzystania z profesjonalnego dowodu rejestracyjnego lub profesjonalnych tablic (tablicy) rejestracyjnych przez osobę do tego nieuprawnioną;
 - **2)** wykonywania jazdy testowej bez wypełnionego profesjonalnego dowodu rejestracyjnego.

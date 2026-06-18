@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw
+# Ustawa z dnia 19 grudnia 2002 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw.
 
 *USTAWA z dnia 19 grudnia 2002 r.*
 

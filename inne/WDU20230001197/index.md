@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o scalaniu i wymianie gruntów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o scalaniu i wymianie gruntów
 
 | Pole | Wartość |
 |---|---|

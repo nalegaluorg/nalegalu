@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o promowaniu energii elektrycznej z wysokosprawnej kogeneracji
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o promowaniu energii elektrycznej z wysokosprawnej kogeneracji
 
 *USTAWA z dnia 14 grudnia 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-05-07 |
 | Ostatnia zmiana | 2026-05-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/602/text.pdf) |
-
-Art. 95–98. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1693,6 +1691,8 @@ Art. 95–98. (pominięte)
 3. W przypadku mniejszej wagi sprawca podlega grzywnie albo karze ograniczenia wolności.
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
+
+**Art. 95–98.** (pominięte)
 
 #### Rozdział 13 Przepisy epizodyczne, przejściowe i końcowe
 

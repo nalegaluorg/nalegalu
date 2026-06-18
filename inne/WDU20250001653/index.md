@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kształtowaniu ustroju rolnego Kierując się zasadą, że gospodarstwa rodzinne, zgodnie z Konstytucją Rzeczypospolitej Polskiej, stanowią podstawę ustroju rolnego Rzeczypospolitej Polskiej, dążąc do wzmocnienia ochrony i trwałego rozwoju tych gospodarstw, mając na względzie potrzebę zapewnienia właściwego zagospodarowania ziemi rolnej na terytorium Rzeczypospolitej Polskiej, w trosce o bezpieczeństwo żywnościowe obywateli, a także pragnąc wspierać zrównoważone rolnictwo i działalność rolniczą oraz sprzyjać rozwojowi obszarów wiejskich, jako element spójnej polityki rolnej państwa, uchwala się niniejszą ustawę.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kształtowaniu ustroju rolnego
 
 *USTAWA z dnia 11 kwietnia 2003 r.*
 
@@ -273,7 +273,9 @@ source: pdf
 
 - **1)** nieruchomości rolnej nabytej przez Skarb Państwa lub jednostkę samorządu terytorialnego;
 - **2)** wchodzących w skład nabytej nieruchomości rolnej gruntów objętych umową dzierżawy opatrzoną przed dniem 30 kwietnia 2016 r. datą pewną – przez okres obowiązywania tej umowy;
-- **3)** budynku mieszkalnego wraz z gruntami, których powierzchnia użytków rolnych jest mniejsza niż 1 ha – obciążonych służebnością dożywotniego zamieszkiwania i użytkowania. Art. 2ba. Zgoda, o której mowa w art. 2a ust. 4 oraz art. 2b ust. 3, jest ważna rok od dnia, w którym decyzja ją wyrażająca stała się ostateczna.
+- **3)** budynku mieszkalnego wraz z gruntami, których powierzchnia użytków rolnych jest mniejsza niż 1 ha – obciążonych służebnością dożywotniego zamieszkiwania i użytkowania.
+
+**Art. 2ba.** Zgoda, o której mowa w art. 2a ust. 4 oraz art. 2b ust. 3, jest ważna rok od dnia, w którym decyzja ją wyrażająca stała się ostateczna.
 
 **Art. 2c.** Przepisy ustawy dotyczące nabycia nieruchomości rolnej stosuje się odpowiednio do nabycia:
 

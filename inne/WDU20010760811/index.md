@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o mikroorganizmach i organizmach genetycznie zmodyfikowanych
+# Ustawa z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych
 
 *USTAWA z dnia 22 czerwca 2001 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2001-07-25 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010760811) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/811/text.pdf) |
-
-Art. 66–74. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1431,6 +1429,8 @@ Art. 66–74. (pominięte)
 - **2328)** .
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 66–74.** (pominięte)
 
 **Art. 75.**
 

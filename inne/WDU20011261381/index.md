@@ -27,153 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011261381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1381/text.pdf) |
 
-Art. 37am. Przed podjęciem decyzji w sprawie wydania zezwolenia organ wydający zezwolenie, zwany dalej „organem zezwalającym”:
-1) może wzywać wnioskodawcę do uzupełnienia, w wyznaczonym terminie, brakującej dokumentacji poświadczającej, że spełnia on warunki określone przepisami prawa, wymagane do wykonywania określonej działalności gospodarczej;
-2) może dokonać kontrolnego sprawdzenia faktów podanych we wniosku o udzielenie zezwolenia w celu stwierdzenia, czy przedsiębiorca spełnia warunki wykonywania działalności gospodarczej objętej zezwoleniem.
-Art. 37an. 1. Przedsiębiorca, który zamierza podjąć działalność gospodarczą w dziedzinie podlegającej zezwoleniu, może ubiegać się o przyrzeczenie wydania zezwolenia, zwane dalej „promesą”. W promesie można uzależnić udzielenie zezwolenia od spełnienia warunków wykonywania działalności gospodarczej objętej zezwoleniem.
-2. W postępowaniu o udzielenie promesy stosuje się przepisy dotyczące udzielania zezwoleń, określonych przepisami ustawy.
-3. W promesie ustala się okres jej ważności, z tym że nie może on być krótszy niż 6 miesięcy.
-4. W okresie ważności promesy nie można odmówić udzielenia zezwolenia na wykonywanie działalności gospodarczej określonej w promesie, chyba że:
-1) uległy zmianie dane zawarte we wniosku o udzielenie promesy albo
-2) wnioskodawca nie spełnił wszystkich warunków podanych w promesie, albo
-3) wnioskodawca nie spełnia warunków wykonywania działalności objętej zezwoleniem, albo
-4) jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa lub innego ważnego interesu publicznego.
-5. W przypadku śmierci przedsiębiorcy, w okresie ważności promesy nie można odmówić udzielenia zezwolenia na wykonywanie działalności gospodarczej określonej w promesie właścicielowi przedsiębiorstwa w spadku w rozumieniu art. 3 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U.
-z 2021 r. poz. 170) albo, jeżeli przedsiębiorca był wspólnikiem spółki cywilnej, innemu wspólnikowi tej spółki, jeżeli przedłoży on pisemną zgodę właścicieli przedsiębiorstwa w spadku na udzielenie mu tego zezwolenia, chyba że:
-1) uległy zmianie dane zawarte we wniosku o udzielenie promesy inne niż dane osoby, która złożyła wniosek o udzielenie promesy, albo
-2) właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie zezwolenia, nie spełnił wszystkich warunków podanych w promesie, albo
-3) właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie zezwolenia, nie spełnia warunków wykonywania działalności objętej zezwoleniem, albo
-4) jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa lub innego ważnego interesu publicznego.
-6. W okresie ważności promesy nie można odmówić udzielenia zezwolenia na wykonywanie działalności gospodarczej określonej w promesie nabywcy przedsiębiorstwa w rozumieniu art. 45b ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, jeżeli przedłoży on pisemną zgodę przedsiębiorcy, któremu udzielono promesy oraz pozostałych nabywców przedsiębiorstwa na udzielenie mu tego zezwolenia, chyba że:
-1) uległy zmianie dane zawarte we wniosku o udzielenie promesy inne niż dane osoby, która złożyła wniosek o udzielenie promesy albo
-2) nabywca przedsiębiorstwa, który złożył wniosek o udzielenie zezwolenia, nie spełnił wszystkich warunków podanych w promesie, albo
-3) nabywca przedsiębiorstwa, który złożył wniosek o udzielenie zezwolenia, nie spełnia warunków wykonywania działalności objętej zezwoleniem, albo
-4) jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa lub innego ważnego interesu publicznego.
-Art. 37ao. 1. Zezwolenie wydaje się na czas nieoznaczony.
-2. Zezwolenie może być wydane na czas oznaczony na wniosek przedsiębiorcy.
-3. Postępowanie o wydanie zezwolenia na prowadzenie hurtowni farmaceutycznej, apteki ogólnodostępnej lub punktu aptecznego lub postępowanie o skrócenie czasu obowiązywania zezwolenia na prowadzenie hurtowni farmaceutycznej, apteki ogólnodostępnej lub punktu aptecznego zawiesza się w przypadku gdy wobec przedsiębiorcy zostało wszczęte postępowanie, o którym mowa w art. 127, art. 127b lub art. 127c, do wydania ostatecznej decyzji w tym postępowaniu.
-4. Zawieszenie postępowania dotyczy również podmiotu, w którym właścicielem, wspólnikiem, współwłaścicielem, członkiem organu jest osoba będąca właścicielem, wspólnikiem, współwłaścicielem, członkiem organu przedsiębiorcy, względem którego wszczęte zostało postępowanie, o którym mowa w art. 127, art. 127b lub art. 127c, do wydania ostatecznej decyzji w tym postępowaniu.
-5. Zawieszenie postępowania dotyczy również podmiotu, w którym właścicielem, wspólnikiem, współwłaścicielem lub członkiem organu jest osoba, wobec której wszczęto postępowanie, o którym mowa w art. 126b lub art. 126c, do wydania prawomocnego orzeczenia.
-Art. 37ap. 1. Organ zezwalający cofa zezwolenie, w przypadku gdy:
-1) wydano prawomocne orzeczenie zakazujące przedsiębiorcy wykonywania działalności gospodarczej objętej zezwoleniem;
-2) przedsiębiorca przestał spełniać warunki określone przepisami prawa, wymagane do wykonywania działalności gospodarczej określonej w zezwoleniu;
-3) przedsiębiorca nie usunął, w wyznaczonym przez organ zezwalający terminie, stanu faktycznego lub prawnego niezgodnego z przepisami prawa regulującymi działalność gospodarczą objętą zezwoleniem.
-2. Organ zezwalający może cofnąć zezwolenie w przypadkach określonych przepisami ustawy.
-Art. 37ar. Przedsiębiorca jest obowiązany zgłaszać organowi zezwalającemu wszelkie zmiany danych określone w zezwoleniu.
-Art. 37as. Przedsiębiorca, któremu cofnięto zezwolenie z przyczyn, o których mowa w art. 37ap ust. 1, może ponownie wystąpić z wnioskiem o wydanie zezwolenia w takim samym zakresie niewcześniej niż po upływie 3 lat od dnia wydania decyzji o cofnięciu zezwolenia.
-Art. 37at. 1. Organ zezwalający jest uprawniony do inspekcji lub kontroli działalności gospodarczej, na którą zostało wydane zezwolenie.
-2. Czynności w zakresie inspekcji oraz czynności kontrolne przeprowadza się na podstawie upoważnienia wydanego przez organ zezwalający.
-3. Osoby upoważnione przez organ zezwalający do dokonywania inspekcji lub kontroli są uprawnione do:
-1) wstępu na teren nieruchomości, obiektu, lokalu lub ich części, gdzie jest wykonywana działalność gospodarcza objęta zezwoleniem, w dniach i w godzinach, w których jest wykonywana lub powinna być wykonywana ta działalność;
-2) żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub innych nośników informacji oraz udostępnienia danych mających związek z przedmiotem inspekcji lub kontroli;
-3) badania dokumentów odnoszących się do przedmiotu inspekcji lub kontroli;
-4) pobierania, w ramach inspekcji lub kontroli, próbek produktów leczniczych, w celu przebadania ich, przez upoważnioną jednostkę.
-3a. Jeżeli cel inspekcji lub kontroli tego wymaga, osoba upoważniona przez organ zezwalający do dokonywania inspekcji lub kontroli zarządza otwarcie obiektu, lokalu lub ich części, gdzie jest wykonywana działalność gospodarcza objęta zezwoleniem, oraz znajdujących się w nich schowków, jak również dokonuje ich oględzin.
-4. Organ zezwalający może wezwać przedsiębiorcę do usunięcia, w wyznaczonym terminie, stwierdzonych w toku inspekcji lub kontroli uchybień.
-5. Organ zezwalający może upoważnić do dokonywania inspekcji lub kontroli, o których mowa w ust. 1, inny organ administracji wyspecjalizowany w przeprowadzaniu inspekcji lub kontroli danego rodzaju działalności. Przepisy ust. 2−4 stosuje się odpowiednio.
-6. Organ zezwalający jest uprawniony do przeprowadzenia niezapowiedzianej inspekcji lub kontroli działalności gospodarczej, na którą zostało wydane zezwolenie, jeżeli stwierdzi, że istnieje podejrzenie nieprzestrzegania wymogów określonych w ustawie.
-7. Jeżeli w następstwie inspekcji lub kontroli u przedsiębiorcy zajmującego się obrotem hurtowym lub wytwarzaniem produktów leczniczych organ zezwalający stwierdzi, że kontrolowany nie przestrzega procedur Dobrej Praktyki Dystrybucji lub Dobrej Praktyki Wytwarzania, informacje o ich nieprzestrzeganiu wprowadza do właściwej unijnej bazy danych.
-8. Na wezwanie organu zezwalającego i w terminie przez niego wyznaczonym przedsiębiorca jest obowiązany przekazać dokumentację związaną z prowadzoną działalnością. Termin ustala się, uwzględniając charakter dowodu, przy czym nie może on być krótszy niż 3 dni.
-Art. 37ata. 1. Organ zezwalający lub osoba upoważniona przez ten organ do dokonywania inspekcji lub kontroli może zwrócić się o pomoc w umożliwieniu dokonania inspekcji lub kontroli do komendanta Policji lub Straży Granicznej, jeżeli natrafi na opór, który uniemożliwia lub utrudnia przeprowadzenie inspekcji lub kontroli, albo jeżeli istnieje uzasadnione przypuszczenie, że na taki opór natrafi, albo jeżeli z innych względów jest to niezbędne do niezakłóconego dokonania inspekcji lub kontroli.
-2. Udzielenie pomocy Policji lub Straży Granicznej, o której mowa w ust. 1, polega na zapewnieniu porządku w miejscu przeprowadzania inspekcji lub kontroli oraz osobistego bezpieczeństwa i poszanowania godności osób obecnych w miejscu jej przeprowadzania.
-3. Z pisemnym wnioskiem o pomoc w umożliwieniu dokonania inspekcji lub kontroli organ zezwalający lub osoba upoważniona przez ten organ do dokonywania inspekcji lub kontroli występuje co najmniej 7 dni przed planowanym terminem przeprowadzenia inspekcji lub kontroli do właściwego ze względu na miejsce dokonania inspekcji lub kontroli komendanta Policji lub Straży Granicznej – w przypadku gdy podmiot kontrolowany znajduje się na obszarze przejścia granicznego lub w strefie nadgranicznej.
-4. W pilnych przypadkach, zwłaszcza gdy zwłoka groziłaby udaremnieniem przeprowadzenia inspekcji lub kontroli, udzielenie pomocy, o której mowa w ust. 1, następuje także na osobiste wezwanie organu zezwalającego lub osoby upoważnionej przez ten organ do dokonywania inspekcji lub kontroli.
-5. W przypadku, o którym mowa w ust. 4, organ zezwalający lub osoba upoważniona przez ten organ do dokonywania inspekcji lub kontroli przekazuje potwierdzenie wezwania na piśmie, niepóźniej niż w terminie 3 dni od dnia zakończenia inspekcji lub kontroli.
-6. Organy wymienione w ust. 1 nie mogą odmówić udzielenia pomocy.
-7. Funkcjonariusz organu udzielającego pomocy sporządza notatkę urzędową z jej przebiegu zawierającą określenie miejsca, terminu, czasu trwania inspekcji lub kontroli, oznaczenie organu zezwalającego lub osoby upoważnionej przez ten organ do dokonywania inspekcji lub kontroli, oznaczenie kontrolowanego, a także zakresu udzielonej pomocy, której kopię przekazuje organowi zezwalającemu lub osobie upoważnionej przez ten organ do dokonywania inspekcji lub kontroli w terminie 7 dni.
-8. Koszty udzielonej pomocy ponosi kontrolowany. Koszty ustala się w wysokości rzeczywistych wydatków poniesionych na udzielenie pomocy.
-W przypadku gdy zwrócenie się o pomoc było oczywiście bezzasadne, koszty udzielonej pomocy ponosi organ zezwalający.
-9. Organ zezwalający obciąża kontrolowanego kosztami udzielonej pomocy w drodze decyzji.
-10. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, sposób ustalania wysokości oraz sposób i tryb rozliczania kosztów udzielonej przez Policję lub Straż Graniczną pomocy w umożliwieniu dokonania inspekcji lub kontroli organowi zezwalającemu lub osobie upoważnionej do dokonywania tej inspekcji lub kontroli, mając na względzie rozmiar nakładów niezbędnych do udzielenia pomocy oraz potrzebę ich sprawnego rozliczenia.
-Art. 37atb. Instytucje państwowe i samorządowe są obowiązane w zakresie swojego działania do współpracy z organem zezwalającym przy wykonywaniu przez ten organ ustawowych zadań, w szczególności do przekazania posiadanych dokumentów, danych lub informacji.
-Art. 37au. Do kontroli lub inspekcji działalności gospodarczej przedsiębiorcy, o której mowa w art. 38, art. 38a, art. 51b, art. 70, art. 73a, art. 74 i art. 99, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
-Art. 37av. 1. Przedsiębiorca zgłasza Głównemu Inspektorowi Farmaceutycznemu zamiar:
-1) wywozu poza terytorium Rzeczypospolitej Polskiej lub
-2) zbycia podmiotowi prowadzącemu działalność poza terytorium Rzeczypospolitej Polskiej – produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14.
-2. Zgłoszenie zamiaru, o którym mowa w ust. 1, zawiera:
-1) nazwę (firmę) i adres albo siedzibę przedsiębiorcy;
-2) numer wydanego zezwolenia albo pozwolenia uprawniającego do obrotu produktami leczniczymi;
-3) numer identyfikacji podatkowej (NIP);
-4) dane identyfikujące odpowiednio produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny, jeżeli dotyczy:
-a) numer GTIN zgodny z systemem GS1, aa) nazwę handlową i międzynarodową,
-b) numer serii,
-c) datę ważności,
-d) nazwę podmiotu odpowiedzialnego, nazwę podmiotu uprawnionego do importu równoległego, nazwę wytwórcy wyrobów medycznych, jego autoryzowanego przedstawiciela, dystrybutora albo importera, albo nazwę podmiotu działającego na rynku spożywczym;
-5) ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego podlegających wywozowi lub zbyciu.
-3. Główny Inspektor Farmaceutyczny może wnieść, w drodze decyzji, sprzeciw wobec zamiaru wywozu lub zbycia, o których mowa w ust. 1, w terminie 30 dni od dnia zgłoszenia zamiaru wywozu lub zbycia, biorąc pod uwagę:
-1) zagrożenie brakiem dostępności na terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14;
-2) znaczenie danego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego zawartych w wykazie, o którym mowa w ust. 14, dla zdrowia publicznego.
-4. Decyzji w sprawie wniesienia sprzeciwu nadaje się rygor natychmiastowej wykonalności.
-5. Sprzeciw lub uchylenie sprzeciwu podlega publikacji w Biuletynie Informacji Publicznej Głównego Inspektora Farmaceutycznego, a informacja w tym zakresie jest przekazywana Szefowi Krajowej Administracji Skarbowej oraz właściwym organom celnym. Z chwilą publikacji sprzeciwu lub uchylenia sprzeciwu uznaje się go za skutecznie doręczony.
-6. W przypadku wezwania do uzupełnienia zgłoszenia, o którym mowa w ust. 1, bieg terminu na wniesienie sprzeciwu ulega zawieszeniu.
-7. Od sprzeciwu, o którym mowa w ust. 3, strona może złożyć wniosek o ponowne rozpatrzenie sprawy. Wniosek wraz z uzasadnieniem składa się do Głównego Inspektora Farmaceutycznego w terminie 7 dni od dnia publikacji sprzeciwu.
-8. Informację o wniesieniu sprzeciwu oraz informację o wyniku ponownego rozpoznania sprawy Główny Inspektor Farmaceutyczny zamieszcza w Zintegrowanym Systemie Monitorowania Obrotu Produktami Leczniczymi.
-9. Niewniesienie sprzeciwu w terminie, o którym mowa w ust. 3, oznacza możliwość dokonania w terminie 30 dni od dnia jego upływu wywozu lub zbycia poza terytorium Rzeczypospolitej Polskiej produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego.
-9a. Główny Inspektor Farmaceutyczny może, przed upływem terminu, o którym mowa w ust. 3, zawiadomić przedsiębiorcę zgłaszającego zamiar wywozu poza terytorium Rzeczypospolitej Polskiej lub zbycia podmiotowi prowadzącemu działalność poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14, o braku sprzeciwu, o którym mowa w ust. 3. W takim przypadku przedsiębiorca może dokonać wywozu lub zbycia, w terminie 30 dni od dnia doręczenia zawiadomienia o braku sprzeciwu.
-10. Przedsiębiorca dokonujący wywozu poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14, w imieniu innego przedsiębiorcy nie zgłasza zamiaru wywozu, o którym mowa w ust. 1 pkt 1, jeżeli zamiar wywozu został zgłoszony przez przedsiębiorcę, w imieniu którego dokonuje wywozu, pod warunkiem niezgłoszenia przez Głównego Inspektora Farmaceutycznego sprzeciwu na dokonanie wywozu.
-11. O dokonaniu wywozu lub zbycia, o których mowa w ust. 9, przedsiębiorca informuje Głównego Inspektora Farmaceutycznego w terminie 7 dni od dnia dokonania wywozu lub zbycia poza terytorium Rzeczypospolitej Polskiej.
-12. W przypadku wniesienia sprzeciwu przedsiębiorca jest obowiązany do sprzedaży produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych wyłącznie na terytorium Rzeczypospolitej Polskiej w ilości określonej w zgłoszeniu zamiaru wywozu lub zbycia podmiotowi prowadzącemu działalność na terytorium Rzeczypospolitej Polskiej w celu realizacji świadczeń opieki zdrowotnej na tym terytorium.
-13. Po upływie 30 dni od dnia otrzymania sprzeciwu przedsiębiorca może ponownie zgłosić zamiar, o którym mowa w ust. 1.
-14. Minister właściwy do spraw zdrowia na podstawie informacji przekazywanych przez Głównego Inspektora Farmaceutycznego, gromadzonych w Zintegrowanym Systemie Monitorowania Obrotu Produktami Leczniczymi lub innych informacji dotyczących dostępności produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, uwzględniając dynamikę obrotu, ogłasza co najmniej raz na 2 miesiące, w drodze obwieszczenia, wykaz produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych zagrożonych brakiem dostępności na terytorium Rzeczypospolitej Polskiej.
-14a. Wykaz, o którym mowa w ust. 14, zawiera co najmniej nazwę handlową i międzynarodową, postać, moc i wielkość opakowania wskazanych w nim produktów leczniczych, a w przypadku środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych – nazwę, postać, wielkość opakowania i ilość w opakowaniu.
-15. Obwieszczenie określone w ust. 14 jest ogłaszane w dzienniku urzędowym ministra właściwego do spraw zdrowia.
-16. Przedsiębiorca dokonujący zgłoszenia, o którym mowa w ust. 1, jest obowiązany przekazać kopię zgłoszenia, o którym mowa w ust. 2, przewoźnikowi, o którym mowa w art. 2 pkt 8 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2024 r. poz. 1218), zwanej dalej „ustawą o systemie monitorowania”. Kierujący, o którym mowa w art. 2 pkt 2 lit. a ustawy o systemie monitorowania, jest obowiązany okazać kopię zgłoszenia w trakcie kontroli, o której mowa w art. 13 tej ustawy.
-16a. W przypadkach, o których mowa w ust. 1, do przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych określonych w obwieszczeniu, o którym mowa w ust. 14, podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, dołącza dokument, który przekazuje kierującemu, o którym mowa w art. 2 pkt 2 lit. a tej ustawy. Dokument ten zawiera datę wystawienia, nazwę handlową i międzynarodową oraz postać farmaceutyczną produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, numer serii, datę ważności, dostarczaną ilość, nazwę i adres dostawcy, adres miejsca nadania wysyłki, nazwę i adres odbiorcy, adres dostawy, określenie wymaganych warunków transportu i przechowywania transportowanych produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, imię i nazwisko oraz podpis osoby wystawiającej ten dokument.
-17. Do postępowania prowadzonego w zakresie wydania sprzeciwu, o którym mowa w ust. 3, nie stosuje się art. 10, przepisów działu II rozdział 2 i 5 oraz art. 98 Kodeksu postępowania administracyjnego.
-Art. 37aw. Czynność prawna polegająca na zbyciu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, określonych w obwieszczeniu, o którym mowa w art. 37av ust. 14:
-1) bez uprzedniego zgłoszenia Głównemu Inspektorowi Farmaceutycznemu,
-2) przed upływem terminu na zgłoszenie sprzeciwu określonego w art. 37av ust. 3, z zastrzeżeniem art. 37av ust. 9a,
-3) wbrew sprzeciwowi Głównego Inspektora Farmaceutycznego – jest nieważna.
-Art. 37ax. Wywóz poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, określonych w obwieszczeniu, o którym mowa w art. 37av ust. 14, wymaga zgłoszenia, o którym mowa w art. 5 ust. 1 ustawy o systemie monitorowania.
-Art. 37ay. 1. Główny Inspektor Farmaceutyczny zawiera umowę o strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania oraz dla celów dokonywania oględzin towaru, o których mowa w art. 13 ust. 2a tej ustawy, z przedsiębiorcą zapewniającym warunki odpowiednie do przechowywania tych produktów, środków lub wyrobów i przeprowadzenia ich oględzin.
-2. Umowa, o której mowa w ust. 1, może przewidywać zlecanie strzeżenia i przechowywania towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania podwykonawcom, pod warunkiem uzyskania uprzedniej zgody Głównego Inspektora Farmaceutycznego wyrażonej na piśmie.
-Art. 37az. 1. Za strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania pobiera się opłaty.
-2. Za uiszczenie opłaty odpowiada podmiot wysyłający w rozumieniu ustawy o systemie monitorowania.
-Art. 37aza. 1. Główny Inspektor Farmaceutyczny ustala, w drodze postanowienia, wysokość opłaty za strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania oraz termin i sposób ich uiszczania.
-2. Wysokość opłaty, o której mowa w ust. 1, odpowiada średniej cenie rynkowej usług w zakresie strzeżenia i przechowywania produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych przez przedsiębiorców prowadzących działalność polegającą na prowadzeniu hurtowni farmaceutycznych.
-3. Na postanowienie, o którym mowa w ust. 1, służy zażalenie.
-4. Opłata, o której mowa w ust. 1, stanowi dochód budżetu państwa.
-Art. 37azb. Egzekucja należności pieniężnych, o których mowa w art. 37az, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
-Art. 37azc. 1. Maksymalna wysokość stawki kwotowej opłat, o których mowa w art. 37az, za każdą dobę strzeżenia i przechowywania wynosi 150 zł za miejsce paletowe w powierzchni magazynowej.
-2. Maksymalna stawka kwotowa opłaty, o której mowa w ust. 1, obowiązująca w danym roku kalendarzowym, ulega corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych w okresie pierwszego półrocza roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.
-3. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” maksymalną stawkę kwotową opłaty, o której mowa w ust. 1, z uwzględnieniem zasady określonej w ust. 2, obowiązującą w następnym roku kalendarzowym, zaokrąglając ją w górę do pełnych złotych, w terminie do dnia 1 grudnia danego roku.
-Art. 37azd. 1. W przypadkach, o których mowa w art. 16 ust. 1a ustawy o systemie monitorowania, sąd, na wniosek Głównego Inspektora Farmaceutycznego, orzeka:
-1) przepadek towarów zatrzymanych – jeżeli Główny Inspektor Farmaceutyczny stwierdził na podstawie dokumentów przedstawionych przez podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, a w przypadku powzięcia wątpliwości – także po przeprowadzeniu dodatkowego sprawdzenia, że towary te były transportowane i przechowywane zgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej lub Dobrej Praktyki Wytwarzania;
-2) przepadek i zniszczenie towarów zatrzymanych, jeżeli:
-a) Główny Inspektor Farmaceutyczny stwierdził na podstawie dokumentów przedstawionych przez podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, a w przypadku powzięcia wątpliwości – także po przeprowadzeniu dodatkowego sprawdzenia, że zatrzymane towary były transportowane i przechowywane niezgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej lub Dobrej Praktyki Wytwarzania,
-b) nie jest możliwe stwierdzenie przez Głównego Inspektora Farmaceutycznego na podstawie dokumentów przedstawionych przez podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, a w przypadku powzięcia wątpliwości – także po przeprowadzeniu dodatkowego sprawdzenia, że towary były transportowane i przechowywane zgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej lub Dobrej Praktyki Wytwarzania.
-2. Wniosek, o którym mowa w ust. 1, podlega rozpoznaniu bezzwłocznie, niepóźniej jednak niż w terminie tygodnia od dnia jego wpływu do sądu. W przypadku skierowania wniosku do rozpatrzenia na rozprawie, termin rozprawy należy wyznaczyć tak, aby mogła się ona odbyć w terminie miesiąca od dnia wpływu wniosku.
-3. Koszty zniszczenia, o którym mowa w ust. 1 pkt 2, ponosi podmiot wysyłający w rozumieniu ustawy o systemie monitorowania.
-4. Koszty zniszczenia w wysokości odpowiadającej rzeczywistym wydatkom poniesionym na to zniszczenie ustala, w drodze postanowienia, naczelnik urzędu skarbowego. Przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) stosuje się odpowiednio.
-5. Do spraw o przepadek towaru przepisy art. 610 –610 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i
-473) stosuje się odpowiednio.
-Art. 37aze. 1. Główny Inspektor Farmaceutyczny niezwłocznie przekazuje prawomocne orzeczenie, o którym mowa w art. 37azd ust. 1, naczelnikowi urzędu skarbowego właściwemu według miejsca przechowywania zatrzymanego towaru – do wykonania.
-2. W przypadkach, o których mowa w art. 37azd ust. 1 pkt 1, naczelnik urzędu skarbowego sprzedaje towary, których termin przydatności albo data ważności nie upłynęły, na rzecz podmiotów uprawnionych do prowadzenia obrotu tymi towarami, z zastrzeżeniem, że nabywcą nie może być ostatni właściciel tych towarów przed orzeczeniem ich przepadku.
-3. Do chwili przekazania nabywcy towarów sprzedanych zgodnie z ust. 2 albo ust. 5 są one przechowywane z uwzględnieniem Dobrej Praktyki Dystrybucyjnej.
-4. Sprzedaż towarów w przypadkach, o których mowa w ust. 5 oraz w art. 37azd ust. 1 pkt 1, przez naczelnika urzędu skarbowego nie stanowi obrotu hurtowego.
-5. W przypadku konieczności zapewnienia dostępności pacjentom produktów leczniczych, środków specjalnego przeznaczenia żywieniowego lub wyrobów medycznych wymienionych w wykazie, o którym mowa w art. 37av ust. 14, Główny Inspektor Farmaceutyczny składa, przed wydaniem orzeczenia, o którym mowa w art. 37azd ust. 1, do naczelnika urzędu skarbowego właściwego według miejsca przechowywania zatrzymanego towaru wniosek o dokonanie jego sprzedaży, na poczet grożącego przepadku.
-6. Naczelnik, o którym mowa w ust. 5, sprzedaje towary w trybie przepisów wydanych na podstawie art. 109 § 1 pkt 1 ustawy z dnia 17 czerwca 1966 r.
-o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268), z zastrzeżeniem, że nabywcą nie może być ich ostatni właściciel przed skierowaniem wniosku, o którym mowa w ust. 5.
-7. Środki pieniężne uzyskane ze sprzedaży, o której mowa w ust. 6, wpłaca się na rachunek depozytowy naczelnika urzędu skarbowego.
-Art. 37azf. Do zniszczenia produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych stosuje się odpowiednio przepisy wydane na podstawie art. 179a § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2025 r. poz. 633 oraz z 2026 r. poz. 347 i
-421).
-Art. 37azg. 1. W przypadku zagrożenia brakiem dostępności na terytorium Rzeczypospolitej Polskiej środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego innych niż wymienione w art. 72a, lub produktu biobójczego, w związku ze stanem zagrożenia epidemicznego, stanem epidemii albo w razie niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, w szczególności wystąpienia choroby szczególnie niebezpiecznej i wysoce zakaźnej, w rozumieniu art. 2 pkt 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, minister właściwy do spraw zdrowia może, w drodze rozporządzenia, nałożyć na wytwórców, autoryzowanych przedstawicieli, dystrybutorów i importerów wyrobów medycznych, producentów i importerów środków spożywczych specjalnego przeznaczenia żywieniowego lub podmioty odpowiedzialne w odniesieniu do produktów biobójczych, posiadaczy pozwolenia albo zezwolenia na handel równoległy i wytwórców produktów biobójczych, obowiązki, o których mowa w art. 36z ust. 2 i 3, a na hurtownie farmaceutyczne, apteki, punkty apteczne oraz działy farmacji szpitalnej odpowiednio obowiązki określone w art. 78 ust. 1 pkt 6a i art. 95 ust. 1b, w odniesieniu do środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego innych niż wymienione w art. 72a, lub produktu biobójczego.
-2. W przypadku zagrożenia brakiem dostępności na terytorium Rzeczypospolitej Polskiej:
-1) produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego lub produktu biobójczego, w związku ze stanem zagrożenia epidemicznego, stanem epidemii albo w razie niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, w szczególności wystąpienia choroby szczególnie niebezpiecznej i wysoce zakaźnej w rozumieniu art. 2 pkt 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, lub
-2) produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego umieszczonego w:
-a) obwieszczeniu, o którym mowa w art. 37av ust. 14, lub
-b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych – minister właściwy do spraw zdrowia może ograniczyć, w drodze obwieszczenia, ilość, jaką maksymalnie można wydać danemu pacjentowi w określonym czasie lub w określonym wskazaniu.
-3. W przypadku nałożenia obowiązku, o którym mowa w ust. 1, podmioty, które dotychczas nie były podłączone do systemu, o którym mowa w art. 72a, są obowiązane do podłączenia i rozpoczęcia przekazywania informacji w ciągu 24 godzin od momentu nałożenia tego obowiązku. Wraz z wysłaniem pierwszej informacji podmiot raportuje jednocześnie indywidualny bilans otwarcia, zwany dalej „IBO”.
-3a. W przypadku ograniczonych możliwości technicznych podmiotu, który dotychczas nie był podłączony do systemu, o którym mowa w art. 72a, Główny Inspektor Farmaceutyczny może wyrazić zgodę na podłączenie i rozpoczęcie przekazywania informacji w terminie późniejszym.
-4. IBO stanowi informację o stanach magazynowych produktów podlegających raportowaniu do systemu, o którym mowa w art. 72a, w dniu, w którym wysłano pierwszy raport.
-5. Obwieszczenie, o którym mowa w ust. 2, określa:
-1) wykaz produktów leczniczych, wyrobów medycznych, środków spożywczych specjalnego przeznaczenia żywieniowego i produktów biobójczych oraz dane je identyfikujące;
-2) ilość produktu leczniczego, wyrobu medycznego, środka spożywczego specjalnego przeznaczenia żywieniowego i produktu biobójczego na jednego pacjenta w danej jednostce czasu.
-6. Do wydawania produktów leczniczych, wyrobów medycznych, środków spożywczych specjalnego przeznaczenia żywieniowego i produktów biobójczych objętych obwieszczeniem, o którym mowa w ust. 2, stosuje się przepisy niniejszej ustawy oraz przepisy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, przy czym:
-1) dokument realizacji recepty jest wystawiany również dla produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych sprzedawanych bez recepty oraz dla produktów biobójczych;
-2) przepisów art. 96 ust. 1a–1d nie stosuje się.
-7. Obwieszczenie, o którym mowa w ust. 2, podlega ogłoszeniu w dzienniku urzędowym ministra właściwego do spraw zdrowia.
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
@@ -388,7 +241,19 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **2)** jest dopuszczony do obrotu w państwie, z którego jest sprowadzany,
 - **3)** jest niedostępny na terytorium Rzeczypospolitej Polskiej – pod warunkiem że na terytorium Rzeczypospolitej Polskiej nie jest dostępny produkt leczniczy zawierający tę samą lub te same substancje czynne, tę samą moc i postać, co produkt leczniczy sprowadzany.
 
-**Art. 4a.** Do obrotu dopuszczone są również produkty lecznicze będące przedmiotem importu równoległego, które uzyskały pozwolenie na import równoległy. Art. 4aa. Złożenie zapotrzebowania, o którym mowa w art. 4 ust. 2, zgłoszenia przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8, rozpatrzenie złożonego zapotrzebowania lub zgłoszenia oraz komunikacja z ministrem właściwym do spraw zdrowia w tym zakresie odbywa się za pośrednictwem Systemu Obsługi Importu Docelowego, o którym mowa w art. 31c ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2026 r. poz. 208 i 252), zwanego dalej „SOID”. Art. 4ab. 1. Lekarz wystawiający zapotrzebowanie, o którym mowa w art. 4 ust. 2, oraz przedsiębiorca prowadzący działalność polegającą na prowadzeniu hurtowni farmaceutycznej zgłaszający konieczność wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8, składa do ministra właściwego do spraw zdrowia wniosek o założenie konta w SOID. 2. Za założenie konta w SOID dla przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej pobiera się opłatę w wysokości 500 zł wnoszoną na rachunek urzędu obsługującego ministra właściwego do spraw zdrowia. Opłata stanowi dochód budżetu państwa. 3. Wniosek o założenie konta w SOID dla lekarza zawiera imię i nazwisko, adres poczty elektronicznej oraz numer prawa wykonywania zawodu lekarza. 4. Wniosek o założenie konta w SOID dla przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej zawiera:
+**Art. 4a.** Do obrotu dopuszczone są również produkty lecznicze będące przedmiotem importu równoległego, które uzyskały pozwolenie na import równoległy.
+
+**Art. 4aa.** Złożenie zapotrzebowania, o którym mowa w art. 4 ust. 2, zgłoszenia przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8, rozpatrzenie złożonego zapotrzebowania lub zgłoszenia oraz komunikacja z ministrem właściwym do spraw zdrowia w tym zakresie odbywa się za pośrednictwem Systemu Obsługi Importu Docelowego, o którym mowa w art. 31c ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2026 r. poz. 208 i 252), zwanego dalej „SOID”.
+
+**Art. 4ab.**
+
+1. Lekarz wystawiający zapotrzebowanie, o którym mowa w art. 4 ust. 2, oraz przedsiębiorca prowadzący działalność polegającą na prowadzeniu hurtowni farmaceutycznej zgłaszający konieczność wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8, składa do ministra właściwego do spraw zdrowia wniosek o założenie konta w SOID.
+
+2. Za założenie konta w SOID dla przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej pobiera się opłatę w wysokości 500 zł wnoszoną na rachunek urzędu obsługującego ministra właściwego do spraw zdrowia. Opłata stanowi dochód budżetu państwa.
+
+3. Wniosek o założenie konta w SOID dla lekarza zawiera imię i nazwisko, adres poczty elektronicznej oraz numer prawa wykonywania zawodu lekarza.
+
+4. Wniosek o założenie konta w SOID dla przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej zawiera:
 
 - **1)** dane podmiotu składającego wniosek:
     - **a)** nazwę (firmę),
@@ -410,7 +275,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 5. Wniosek o założenie konta w SOID składa się w postaci elektronicznej oraz opatruje się go kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzenia pochodzenia i integralności danych w postaci elektronicznej dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych.
 
-6. Po pozytywnym rozpatrzeniu wniosku o założenie konta w SOID, minister właściwy do spraw zdrowia zakłada wnioskodawcy konto, które służy do administrowania udostępnioną wnioskodawcy częścią SOID. Informacja o założeniu konta w SOID lub o odrzuceniu wniosku jest przesyłana na adres poczty elektronicznej wskazany we wniosku. Odrzucenie wniosku o założenie konta w SOID stanowi czynność materialno-techniczną oraz wymaga uzasadnienia. Art. 4ac. 1. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, oraz zgłoszenie o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8, podpisują odpowiednio:
+6. Po pozytywnym rozpatrzeniu wniosku o założenie konta w SOID, minister właściwy do spraw zdrowia zakłada wnioskodawcy konto, które służy do administrowania udostępnioną wnioskodawcy częścią SOID. Informacja o założeniu konta w SOID lub o odrzuceniu wniosku jest przesyłana na adres poczty elektronicznej wskazany we wniosku. Odrzucenie wniosku o założenie konta w SOID stanowi czynność materialno-techniczną oraz wymaga uzasadnienia.
+
+**Art. 4ac.**
+
+1. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, oraz zgłoszenie o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8, podpisują odpowiednio:
 
 - **1)** lekarz wystawiający zapotrzebowanie, osoba upoważniona do reprezentacji podmiotu wykonującego działalność leczniczą oraz konsultant potwierdzający zasadność wystawienia zapotrzebowania – w przypadku zapotrzebowań na produkt leczniczy stosowany w podmiocie wykonującym działalność leczniczą,
 - **2)** lekarz wystawiający zapotrzebowanie oraz konsultant potwierdzający zasadność wystawienia zapotrzebowania – w przypadku zapotrzebowań na produkt leczniczy stosowany poza podmiotem wykonującym działalność leczniczą,
@@ -521,7 +390,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
     - **g)** uzasadnienie konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego,
     - **h)** dane dotyczące serii: numer, datę ważności, ilość produktu leczniczego.
 
-6. Do zgłoszenia o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8, załącza się dokument potwierdzający uprawnienie osoby podpisującej wniosek do reprezentowania podmiotu składającego zgłoszenie. Art. 4ad. 1. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, jest przesyłane, za pośrednictwem SOID, do konsultanta krajowego lub konsultanta wojewódzkiego w dziedzinie medycyny odpowiedniej ze względu na chorobę lub problem zdrowotny pacjenta, w celu potwierdzenia zasadności jego wystawienia. Konsultant potwierdza zasadność wystawienia zapotrzebowania lub odmawia takiego potwierdzenia w terminie 7 dni od dnia otrzymania zapotrzebowania. W przypadku braku potwierdzenia we wskazanym wyżej terminie, SOID zwraca zapotrzebowanie do lekarza wystawiającego zapotrzebowanie.
+6. Do zgłoszenia o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8, załącza się dokument potwierdzający uprawnienie osoby podpisującej wniosek do reprezentowania podmiotu składającego zgłoszenie.
+
+**Art. 4ad.**
+
+1. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, jest przesyłane, za pośrednictwem SOID, do konsultanta krajowego lub konsultanta wojewódzkiego w dziedzinie medycyny odpowiedniej ze względu na chorobę lub problem zdrowotny pacjenta, w celu potwierdzenia zasadności jego wystawienia. Konsultant potwierdza zasadność wystawienia zapotrzebowania lub odmawia takiego potwierdzenia w terminie 7 dni od dnia otrzymania zapotrzebowania. W przypadku braku potwierdzenia we wskazanym wyżej terminie, SOID zwraca zapotrzebowanie do lekarza wystawiającego zapotrzebowanie.
 
 2. W przypadku potwierdzenia zasadności wystawienia zapotrzebowania, o którym mowa w art. 4 ust. 2, konsultant przesyła w SOID potwierdzone zapotrzebowanie do ministra właściwego do spraw zdrowia. W przypadku odmowy potwierdzenia zasadności wystawienia zapotrzebowania, konsultant zwraca zapotrzebowanie w SOID do lekarza wystawiającego zapotrzebowanie wraz z uzasadnieniem odmowy.
 
@@ -1769,7 +1642,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 4. Opłaty, o których mowa w ust. 1 i 2, stanowią dochód budżetu państwa.
 
-**Art. 36a.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy sposób ustalania opłat, o których mowa w art. 36 ust. 1 i 2, oraz sposób ich uiszczania, uwzględniając wysokość opłaty w państwach członkowskich Unii Europejskiej o zbliżonym produkcie krajowym brutto na jednego mieszkańca oraz nakład pracy związanej z wykonaniem danej czynności i poziom kosztów ponoszonych przez Urząd Rejestracji. Art. 36aa. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia, wysokość opłat, o których mowa w art. 36 ust. 1a i 2a, oraz sposób ich uiszczania, a także sposób ustalania wysokości opłat w przypadku, o którym mowa w art. 36 ust. 1c, uwzględniając wysokość opłaty w państwach członkowskich Unii Europejskiej o zbliżonym produkcie krajowym brutto na jednego mieszkańca, nakład pracy związanej z wykonaniem danej czynności, poziom kosztów ponoszonych przez Urząd Rejestracji, konieczność ułatwienia dokonywania rozliczeń z Urzędem Rejestracji, a także fakt pełnienia przez Rzeczpospolitą Polską roli referencyjnego państwa członkowskiego.
+**Art. 36a.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy sposób ustalania opłat, o których mowa w art. 36 ust. 1 i 2, oraz sposób ich uiszczania, uwzględniając wysokość opłaty w państwach członkowskich Unii Europejskiej o zbliżonym produkcie krajowym brutto na jednego mieszkańca oraz nakład pracy związanej z wykonaniem danej czynności i poziom kosztów ponoszonych przez Urząd Rejestracji.
+
+**Art. 36aa.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia, wysokość opłat, o których mowa w art. 36 ust. 1a i 2a, oraz sposób ich uiszczania, a także sposób ustalania wysokości opłat w przypadku, o którym mowa w art. 36 ust. 1c, uwzględniając wysokość opłaty w państwach członkowskich Unii Europejskiej o zbliżonym produkcie krajowym brutto na jednego mieszkańca, nakład pracy związanej z wykonaniem danej czynności, poziom kosztów ponoszonych przez Urząd Rejestracji, konieczność ułatwienia dokonywania rozliczeń z Urzędem Rejestracji, a także fakt pełnienia przez Rzeczpospolitą Polską roli referencyjnego państwa członkowskiego.
 
 #### Rozdział 2 Nadzór nad bezpieczeństwem stosowania produktów leczniczych, z wyłączeniem produktów leczniczych weterynaryjnych
 
@@ -2104,7 +1979,13 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Prezes Urzędu prowadzi Centralną Ewidencję Badań Klinicznych w postaci systemu informatycznego.
 
-3. Centralna Ewidencja Badań Klinicznych oraz dokumenty przedłożone w postępowaniu o wydanie pozwolenia na prowadzenie badania klinicznego weterynaryjnego wraz ze zmianami dotyczącymi tego pozwolenia są dostępne dla osób mających w tym interes prawny, z zachowaniem przepisów o ochronie informacji niejawnych, o ochronie własności przemysłowej oraz o ochronie danych osobowych. Art. 37b–37ag. (uchylone) Art. 37ah. 1. Sponsor występuje z wnioskiem o wydanie pozwolenia na przeprowadzenie badania klinicznego weterynaryjnego do Prezesa Urzędu.
+3. Centralna Ewidencja Badań Klinicznych oraz dokumenty przedłożone w postępowaniu o wydanie pozwolenia na prowadzenie badania klinicznego weterynaryjnego wraz ze zmianami dotyczącymi tego pozwolenia są dostępne dla osób mających w tym interes prawny, z zachowaniem przepisów o ochronie informacji niejawnych, o ochronie własności przemysłowej oraz o ochronie danych osobowych.
+
+**Art. 37b–37ag.** (uchylone)
+
+**Art. 37ah.**
+
+1. Sponsor występuje z wnioskiem o wydanie pozwolenia na przeprowadzenie badania klinicznego weterynaryjnego do Prezesa Urzędu.
 
 2. Przepis ust. 1 stosuje się także do badań klinicznych weterynaryjnych dotyczących pozostałości badanego produktu leczniczego weterynaryjnego w tkankach i innych badań klinicznych weterynaryjnych dotyczących zwierząt, których tkanki lub produkty są przeznaczone do spożycia.
 
@@ -2114,7 +1995,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 5. Prezes Urzędu dokonuje wpisu do Centralnej Ewidencji Badań Klinicznych badania klinicznego weterynaryjnego, które uzyskało pozwolenie Prezesa Urzędu albo jego odmowę.
 
-6. Przywóz z zagranicy badanych produktów leczniczych weterynaryjnych oraz sprzętu niezbędnego do prowadzenia badań klinicznych weterynaryjnych wymaga uzyskania zaświadczenia Prezesa Urzędu, potwierdzającego, że badanie kliniczne weterynaryjne zostało wpisane do Centralnej Ewidencji Badań Klinicznych oraz że dany produkt lub sprzęt jest sprowadzany na potrzeby tego badania. Art. 37ai. 1. Inspekcję badań klinicznych weterynaryjnych w zakresie zgodności badań z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej przeprowadza Inspekcja Badań Klinicznych.
+6. Przywóz z zagranicy badanych produktów leczniczych weterynaryjnych oraz sprzętu niezbędnego do prowadzenia badań klinicznych weterynaryjnych wymaga uzyskania zaświadczenia Prezesa Urzędu, potwierdzającego, że badanie kliniczne weterynaryjne zostało wpisane do Centralnej Ewidencji Badań Klinicznych oraz że dany produkt lub sprzęt jest sprowadzany na potrzeby tego badania.
+
+**Art. 37ai.**
+
+1. Inspekcję badań klinicznych weterynaryjnych w zakresie zgodności badań z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej przeprowadza Inspekcja Badań Klinicznych.
 
 1a. Inspektor przeprowadza inspekcję badań klinicznych weterynaryjnych na podstawie upoważnienia Prezesa Urzędu, zawierającego co najmniej:
 
@@ -2163,18 +2048,303 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **2)** o zawieszeniu badania klinicznego weterynaryjnego, albo
 - **3)** o wstrzymaniu badania klinicznego weterynaryjnego.
 
-6. Prezes Urzędu wydaje decyzję, o której mowa w ust. 5, po przeprowadzeniu inspekcji badania klinicznego weterynaryjnego. Art. 37aj. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
+6. Prezes Urzędu wydaje decyzję, o której mowa w ust. 5, po przeprowadzeniu inspekcji badania klinicznego weterynaryjnego.
+
+**Art. 37aj.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** wzór wniosku, o którym mowa w art. 37ah ust. 1;
 - **2)** tryb i szczegółowy zakres prowadzenia inspekcji badań klinicznych weterynaryjnych w zakresie zgodności tych badań z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej, uwzględniając rodzaj badanego produktu leczniczego weterynaryjnego oraz jego przeznaczenie, a także zakres prowadzonych badań klinicznych weterynaryjnych;
 - **3)** sposób i tryb prowadzenia Centralnej Ewidencji Badań Klinicznych w zakresie badanego produktu leczniczego weterynaryjnego, uwzględniając w szczególności dane objęte ewidencją;
 - **4)** wysokość opłat, o których mowa w art. 37ah ust. 3, oraz sposób ich uiszczania, uwzględniając nakład pracy związany z daną czynnością;
-- **5)** szczegółowe wymagania Dobrej Praktyki Klinicznej Weterynaryjnej, w tym w szczególności sposób planowania, prowadzenia, monitorowania, dokumentowania i raportowania badań klinicznych weterynaryjnych oraz wymagania dla podmiotów uczestniczących lub ubiegających się o przeprowadzenie badań klinicznych weterynaryjnych, mając na względzie konieczność zapewnienia właściwego przeprowadzania badań klinicznych weterynaryjnych oraz ochronę zdrowia zwierząt. Art. 37ak. W zakresie spraw nieuregulowanych w ustawie do przeprowadzania badań klinicznych weterynaryjnych stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580 oraz z 2025 r. poz. 1696 i
-- **1795)** . Art. 37al. (uchylony)
+- **5)** szczegółowe wymagania Dobrej Praktyki Klinicznej Weterynaryjnej, w tym w szczególności sposób planowania, prowadzenia, monitorowania, dokumentowania i raportowania badań klinicznych weterynaryjnych oraz wymagania dla podmiotów uczestniczących lub ubiegających się o przeprowadzenie badań klinicznych weterynaryjnych, mając na względzie konieczność zapewnienia właściwego przeprowadzania badań klinicznych weterynaryjnych oraz ochronę zdrowia zwierząt.
+
+**Art. 37ak.** W zakresie spraw nieuregulowanych w ustawie do przeprowadzania badań klinicznych weterynaryjnych stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580 oraz z 2025 r. poz. 1696 i
+
+- **1795)** .
+
+**Art. 37al.** (uchylony)
 
 #### Rozdział 2b Przepisy ogólne w sprawie działalności objętych zezwoleniami
 
+**Art. 37am.** Przed podjęciem decyzji w sprawie wydania zezwolenia organ wydający zezwolenie, zwany dalej „organem zezwalającym”:
+
+- **1)** może wzywać wnioskodawcę do uzupełnienia, w wyznaczonym terminie, brakującej dokumentacji poświadczającej, że spełnia on warunki określone przepisami prawa, wymagane do wykonywania określonej działalności gospodarczej;
+- **2)** może dokonać kontrolnego sprawdzenia faktów podanych we wniosku o udzielenie zezwolenia w celu stwierdzenia, czy przedsiębiorca spełnia warunki wykonywania działalności gospodarczej objętej zezwoleniem.
+
+**Art. 37an.**
+
+1. Przedsiębiorca, który zamierza podjąć działalność gospodarczą w dziedzinie podlegającej zezwoleniu, może ubiegać się o przyrzeczenie wydania zezwolenia, zwane dalej „promesą”. W promesie można uzależnić udzielenie zezwolenia od spełnienia warunków wykonywania działalności gospodarczej objętej zezwoleniem.
+
+2. W postępowaniu o udzielenie promesy stosuje się przepisy dotyczące udzielania zezwoleń, określonych przepisami ustawy.
+
+3. W promesie ustala się okres jej ważności, z tym że nie może on być krótszy niż 6 miesięcy.
+
+4. W okresie ważności promesy nie można odmówić udzielenia zezwolenia na wykonywanie działalności gospodarczej określonej w promesie, chyba że:
+
+- **1)** uległy zmianie dane zawarte we wniosku o udzielenie promesy albo
+- **2)** wnioskodawca nie spełnił wszystkich warunków podanych w promesie, albo
+- **3)** wnioskodawca nie spełnia warunków wykonywania działalności objętej zezwoleniem, albo
+- **4)** jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa lub innego ważnego interesu publicznego.
+
+5. W przypadku śmierci przedsiębiorcy, w okresie ważności promesy nie można odmówić udzielenia zezwolenia na wykonywanie działalności gospodarczej określonej w promesie właścicielowi przedsiębiorstwa w spadku w rozumieniu art. 3 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170) albo, jeżeli przedsiębiorca był wspólnikiem spółki cywilnej, innemu wspólnikowi tej spółki, jeżeli przedłoży on pisemną zgodę właścicieli przedsiębiorstwa w spadku na udzielenie mu tego zezwolenia, chyba że:
+
+- **1)** uległy zmianie dane zawarte we wniosku o udzielenie promesy inne niż dane osoby, która złożyła wniosek o udzielenie promesy, albo
+- **2)** właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie zezwolenia, nie spełnił wszystkich warunków podanych w promesie, albo
+- **3)** właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie zezwolenia, nie spełnia warunków wykonywania działalności objętej zezwoleniem, albo
+- **4)** jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa lub innego ważnego interesu publicznego.
+
+6. W okresie ważności promesy nie można odmówić udzielenia zezwolenia na wykonywanie działalności gospodarczej określonej w promesie nabywcy przedsiębiorstwa w rozumieniu art. 45b ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, jeżeli przedłoży on pisemną zgodę przedsiębiorcy, któremu udzielono promesy oraz pozostałych nabywców przedsiębiorstwa na udzielenie mu tego zezwolenia, chyba że:
+
+- **1)** uległy zmianie dane zawarte we wniosku o udzielenie promesy inne niż dane osoby, która złożyła wniosek o udzielenie promesy albo
+- **2)** nabywca przedsiębiorstwa, który złożył wniosek o udzielenie zezwolenia, nie spełnił wszystkich warunków podanych w promesie, albo
+- **3)** nabywca przedsiębiorstwa, który złożył wniosek o udzielenie zezwolenia, nie spełnia warunków wykonywania działalności objętej zezwoleniem, albo
+- **4)** jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa lub innego ważnego interesu publicznego.
+
+**Art. 37ao.**
+
+1. Zezwolenie wydaje się na czas nieoznaczony.
+
+2. Zezwolenie może być wydane na czas oznaczony na wniosek przedsiębiorcy.
+
+3. Postępowanie o wydanie zezwolenia na prowadzenie hurtowni farmaceutycznej, apteki ogólnodostępnej lub punktu aptecznego lub postępowanie o skrócenie czasu obowiązywania zezwolenia na prowadzenie hurtowni farmaceutycznej, apteki ogólnodostępnej lub punktu aptecznego zawiesza się w przypadku gdy wobec przedsiębiorcy zostało wszczęte postępowanie, o którym mowa w art. 127, art. 127b lub art. 127c, do wydania ostatecznej decyzji w tym postępowaniu.
+
+4. Zawieszenie postępowania dotyczy również podmiotu, w którym właścicielem, wspólnikiem, współwłaścicielem, członkiem organu jest osoba będąca właścicielem, wspólnikiem, współwłaścicielem, członkiem organu przedsiębiorcy, względem którego wszczęte zostało postępowanie, o którym mowa w art. 127, art. 127b lub art. 127c, do wydania ostatecznej decyzji w tym postępowaniu.
+
+5. Zawieszenie postępowania dotyczy również podmiotu, w którym właścicielem, wspólnikiem, współwłaścicielem lub członkiem organu jest osoba, wobec której wszczęto postępowanie, o którym mowa w art. 126b lub art. 126c, do wydania prawomocnego orzeczenia.
+
+**Art. 37ap.**
+
+1. Organ zezwalający cofa zezwolenie, w przypadku gdy:
+
+- **1)** wydano prawomocne orzeczenie zakazujące przedsiębiorcy wykonywania działalności gospodarczej objętej zezwoleniem;
+- **2)** przedsiębiorca przestał spełniać warunki określone przepisami prawa, wymagane do wykonywania działalności gospodarczej określonej w zezwoleniu;
+- **3)** przedsiębiorca nie usunął, w wyznaczonym przez organ zezwalający terminie, stanu faktycznego lub prawnego niezgodnego z przepisami prawa regulującymi działalność gospodarczą objętą zezwoleniem.
+
+2. Organ zezwalający może cofnąć zezwolenie w przypadkach określonych przepisami ustawy.
+
+**Art. 37ar.** Przedsiębiorca jest obowiązany zgłaszać organowi zezwalającemu wszelkie zmiany danych określone w zezwoleniu.
+
+**Art. 37as.** Przedsiębiorca, któremu cofnięto zezwolenie z przyczyn, o których mowa w art. 37ap ust. 1, może ponownie wystąpić z wnioskiem o wydanie zezwolenia w takim samym zakresie niewcześniej niż po upływie 3 lat od dnia wydania decyzji o cofnięciu zezwolenia.
+
+**Art. 37at.**
+
+1. Organ zezwalający jest uprawniony do inspekcji lub kontroli działalności gospodarczej, na którą zostało wydane zezwolenie.
+
+2. Czynności w zakresie inspekcji oraz czynności kontrolne przeprowadza się na podstawie upoważnienia wydanego przez organ zezwalający.
+
+3. Osoby upoważnione przez organ zezwalający do dokonywania inspekcji lub kontroli są uprawnione do:
+
+- **1)** wstępu na teren nieruchomości, obiektu, lokalu lub ich części, gdzie jest wykonywana działalność gospodarcza objęta zezwoleniem, w dniach i w godzinach, w których jest wykonywana lub powinna być wykonywana ta działalność;
+- **2)** żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub innych nośników informacji oraz udostępnienia danych mających związek z przedmiotem inspekcji lub kontroli;
+- **3)** badania dokumentów odnoszących się do przedmiotu inspekcji lub kontroli;
+- **4)** pobierania, w ramach inspekcji lub kontroli, próbek produktów leczniczych, w celu przebadania ich, przez upoważnioną jednostkę.
+
+3a. Jeżeli cel inspekcji lub kontroli tego wymaga, osoba upoważniona przez organ zezwalający do dokonywania inspekcji lub kontroli zarządza otwarcie obiektu, lokalu lub ich części, gdzie jest wykonywana działalność gospodarcza objęta zezwoleniem, oraz znajdujących się w nich schowków, jak również dokonuje ich oględzin.
+
+4. Organ zezwalający może wezwać przedsiębiorcę do usunięcia, w wyznaczonym terminie, stwierdzonych w toku inspekcji lub kontroli uchybień.
+
+5. Organ zezwalający może upoważnić do dokonywania inspekcji lub kontroli, o których mowa w ust. 1, inny organ administracji wyspecjalizowany w przeprowadzaniu inspekcji lub kontroli danego rodzaju działalności. Przepisy ust. 2−4 stosuje się odpowiednio.
+
+6. Organ zezwalający jest uprawniony do przeprowadzenia niezapowiedzianej inspekcji lub kontroli działalności gospodarczej, na którą zostało wydane zezwolenie, jeżeli stwierdzi, że istnieje podejrzenie nieprzestrzegania wymogów określonych w ustawie.
+
+7. Jeżeli w następstwie inspekcji lub kontroli u przedsiębiorcy zajmującego się obrotem hurtowym lub wytwarzaniem produktów leczniczych organ zezwalający stwierdzi, że kontrolowany nie przestrzega procedur Dobrej Praktyki Dystrybucji lub Dobrej Praktyki Wytwarzania, informacje o ich nieprzestrzeganiu wprowadza do właściwej unijnej bazy danych.
+
+8. Na wezwanie organu zezwalającego i w terminie przez niego wyznaczonym przedsiębiorca jest obowiązany przekazać dokumentację związaną z prowadzoną działalnością. Termin ustala się, uwzględniając charakter dowodu, przy czym nie może on być krótszy niż 3 dni.
+
+**Art. 37ata.**
+
+1. Organ zezwalający lub osoba upoważniona przez ten organ do dokonywania inspekcji lub kontroli może zwrócić się o pomoc w umożliwieniu dokonania inspekcji lub kontroli do komendanta Policji lub Straży Granicznej, jeżeli natrafi na opór, który uniemożliwia lub utrudnia przeprowadzenie inspekcji lub kontroli, albo jeżeli istnieje uzasadnione przypuszczenie, że na taki opór natrafi, albo jeżeli z innych względów jest to niezbędne do niezakłóconego dokonania inspekcji lub kontroli.
+
+2. Udzielenie pomocy Policji lub Straży Granicznej, o której mowa w ust. 1, polega na zapewnieniu porządku w miejscu przeprowadzania inspekcji lub kontroli oraz osobistego bezpieczeństwa i poszanowania godności osób obecnych w miejscu jej przeprowadzania.
+
+3. Z pisemnym wnioskiem o pomoc w umożliwieniu dokonania inspekcji lub kontroli organ zezwalający lub osoba upoważniona przez ten organ do dokonywania inspekcji lub kontroli występuje co najmniej 7 dni przed planowanym terminem przeprowadzenia inspekcji lub kontroli do właściwego ze względu na miejsce dokonania inspekcji lub kontroli komendanta Policji lub Straży Granicznej – w przypadku gdy podmiot kontrolowany znajduje się na obszarze przejścia granicznego lub w strefie nadgranicznej.
+
+4. W pilnych przypadkach, zwłaszcza gdy zwłoka groziłaby udaremnieniem przeprowadzenia inspekcji lub kontroli, udzielenie pomocy, o której mowa w ust. 1, następuje także na osobiste wezwanie organu zezwalającego lub osoby upoważnionej przez ten organ do dokonywania inspekcji lub kontroli.
+
+5. W przypadku, o którym mowa w ust. 4, organ zezwalający lub osoba upoważniona przez ten organ do dokonywania inspekcji lub kontroli przekazuje potwierdzenie wezwania na piśmie, niepóźniej niż w terminie 3 dni od dnia zakończenia inspekcji lub kontroli.
+
+6. Organy wymienione w ust. 1 nie mogą odmówić udzielenia pomocy.
+
+7. Funkcjonariusz organu udzielającego pomocy sporządza notatkę urzędową z jej przebiegu zawierającą określenie miejsca, terminu, czasu trwania inspekcji lub kontroli, oznaczenie organu zezwalającego lub osoby upoważnionej przez ten organ do dokonywania inspekcji lub kontroli, oznaczenie kontrolowanego, a także zakresu udzielonej pomocy, której kopię przekazuje organowi zezwalającemu lub osobie upoważnionej przez ten organ do dokonywania inspekcji lub kontroli w terminie 7 dni.
+
+8. Koszty udzielonej pomocy ponosi kontrolowany. Koszty ustala się w wysokości rzeczywistych wydatków poniesionych na udzielenie pomocy. W przypadku gdy zwrócenie się o pomoc było oczywiście bezzasadne, koszty udzielonej pomocy ponosi organ zezwalający.
+
+9. Organ zezwalający obciąża kontrolowanego kosztami udzielonej pomocy w drodze decyzji.
+
+10. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, sposób ustalania wysokości oraz sposób i tryb rozliczania kosztów udzielonej przez Policję lub Straż Graniczną pomocy w umożliwieniu dokonania inspekcji lub kontroli organowi zezwalającemu lub osobie upoważnionej do dokonywania tej inspekcji lub kontroli, mając na względzie rozmiar nakładów niezbędnych do udzielenia pomocy oraz potrzebę ich sprawnego rozliczenia.
+
+**Art. 37atb.** Instytucje państwowe i samorządowe są obowiązane w zakresie swojego działania do współpracy z organem zezwalającym przy wykonywaniu przez ten organ ustawowych zadań, w szczególności do przekazania posiadanych dokumentów, danych lub informacji.
+
+**Art. 37au.** Do kontroli lub inspekcji działalności gospodarczej przedsiębiorcy, o której mowa w art. 38, art. 38a, art. 51b, art. 70, art. 73a, art. 74 i art. 99, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+
 #### Rozdział 2c Monitorowanie przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych zagrożonych brakiem dostępności na terytorium Rzeczypospolitej Polskiej
+
+**Art. 37av.**
+
+1. Przedsiębiorca zgłasza Głównemu Inspektorowi Farmaceutycznemu zamiar:
+
+- **1)** wywozu poza terytorium Rzeczypospolitej Polskiej lub
+- **2)** zbycia podmiotowi prowadzącemu działalność poza terytorium Rzeczypospolitej Polskiej – produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14.
+
+2. Zgłoszenie zamiaru, o którym mowa w ust. 1, zawiera:
+
+- **1)** nazwę (firmę) i adres albo siedzibę przedsiębiorcy;
+- **2)** numer wydanego zezwolenia albo pozwolenia uprawniającego do obrotu produktami leczniczymi;
+- **3)** numer identyfikacji podatkowej (NIP);
+- **4)** dane identyfikujące odpowiednio produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny, jeżeli dotyczy:
+    - **a)** numer GTIN zgodny z systemem GS1, aa) nazwę handlową i międzynarodową,
+    - **b)** numer serii,
+    - **c)** datę ważności,
+    - **d)** nazwę podmiotu odpowiedzialnego, nazwę podmiotu uprawnionego do importu równoległego, nazwę wytwórcy wyrobów medycznych, jego autoryzowanego przedstawiciela, dystrybutora albo importera, albo nazwę podmiotu działającego na rynku spożywczym;
+
+- **5)** ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego podlegających wywozowi lub zbyciu.
+
+3. Główny Inspektor Farmaceutyczny może wnieść, w drodze decyzji, sprzeciw wobec zamiaru wywozu lub zbycia, o których mowa w ust. 1, w terminie 30 dni od dnia zgłoszenia zamiaru wywozu lub zbycia, biorąc pod uwagę:
+
+- **1)** zagrożenie brakiem dostępności na terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14;
+- **2)** znaczenie danego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego zawartych w wykazie, o którym mowa w ust. 14, dla zdrowia publicznego.
+
+4. Decyzji w sprawie wniesienia sprzeciwu nadaje się rygor natychmiastowej wykonalności.
+
+5. Sprzeciw lub uchylenie sprzeciwu podlega publikacji w Biuletynie Informacji Publicznej Głównego Inspektora Farmaceutycznego, a informacja w tym zakresie jest przekazywana Szefowi Krajowej Administracji Skarbowej oraz właściwym organom celnym. Z chwilą publikacji sprzeciwu lub uchylenia sprzeciwu uznaje się go za skutecznie doręczony.
+
+6. W przypadku wezwania do uzupełnienia zgłoszenia, o którym mowa w ust. 1, bieg terminu na wniesienie sprzeciwu ulega zawieszeniu.
+
+7. Od sprzeciwu, o którym mowa w ust. 3, strona może złożyć wniosek o ponowne rozpatrzenie sprawy. Wniosek wraz z uzasadnieniem składa się do Głównego Inspektora Farmaceutycznego w terminie 7 dni od dnia publikacji sprzeciwu.
+
+8. Informację o wniesieniu sprzeciwu oraz informację o wyniku ponownego rozpoznania sprawy Główny Inspektor Farmaceutyczny zamieszcza w Zintegrowanym Systemie Monitorowania Obrotu Produktami Leczniczymi.
+
+9. Niewniesienie sprzeciwu w terminie, o którym mowa w ust. 3, oznacza możliwość dokonania w terminie 30 dni od dnia jego upływu wywozu lub zbycia poza terytorium Rzeczypospolitej Polskiej produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego.
+
+9a. Główny Inspektor Farmaceutyczny może, przed upływem terminu, o którym mowa w ust. 3, zawiadomić przedsiębiorcę zgłaszającego zamiar wywozu poza terytorium Rzeczypospolitej Polskiej lub zbycia podmiotowi prowadzącemu działalność poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14, o braku sprzeciwu, o którym mowa w ust. 3. W takim przypadku przedsiębiorca może dokonać wywozu lub zbycia, w terminie 30 dni od dnia doręczenia zawiadomienia o braku sprzeciwu.
+
+10. Przedsiębiorca dokonujący wywozu poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14, w imieniu innego przedsiębiorcy nie zgłasza zamiaru wywozu, o którym mowa w ust. 1 pkt 1, jeżeli zamiar wywozu został zgłoszony przez przedsiębiorcę, w imieniu którego dokonuje wywozu, pod warunkiem niezgłoszenia przez Głównego Inspektora Farmaceutycznego sprzeciwu na dokonanie wywozu.
+
+11. O dokonaniu wywozu lub zbycia, o których mowa w ust. 9, przedsiębiorca informuje Głównego Inspektora Farmaceutycznego w terminie 7 dni od dnia dokonania wywozu lub zbycia poza terytorium Rzeczypospolitej Polskiej.
+
+12. W przypadku wniesienia sprzeciwu przedsiębiorca jest obowiązany do sprzedaży produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych wyłącznie na terytorium Rzeczypospolitej Polskiej w ilości określonej w zgłoszeniu zamiaru wywozu lub zbycia podmiotowi prowadzącemu działalność na terytorium Rzeczypospolitej Polskiej w celu realizacji świadczeń opieki zdrowotnej na tym terytorium.
+
+13. Po upływie 30 dni od dnia otrzymania sprzeciwu przedsiębiorca może ponownie zgłosić zamiar, o którym mowa w ust. 1.
+
+14. Minister właściwy do spraw zdrowia na podstawie informacji przekazywanych przez Głównego Inspektora Farmaceutycznego, gromadzonych w Zintegrowanym Systemie Monitorowania Obrotu Produktami Leczniczymi lub innych informacji dotyczących dostępności produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, uwzględniając dynamikę obrotu, ogłasza co najmniej raz na 2 miesiące, w drodze obwieszczenia, wykaz produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych zagrożonych brakiem dostępności na terytorium Rzeczypospolitej Polskiej.
+
+14a. Wykaz, o którym mowa w ust. 14, zawiera co najmniej nazwę handlową i międzynarodową, postać, moc i wielkość opakowania wskazanych w nim produktów leczniczych, a w przypadku środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych – nazwę, postać, wielkość opakowania i ilość w opakowaniu.
+
+15. Obwieszczenie określone w ust. 14 jest ogłaszane w dzienniku urzędowym ministra właściwego do spraw zdrowia.
+
+16. Przedsiębiorca dokonujący zgłoszenia, o którym mowa w ust. 1, jest obowiązany przekazać kopię zgłoszenia, o którym mowa w ust. 2, przewoźnikowi, o którym mowa w art. 2 pkt 8 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2024 r. poz. 1218), zwanej dalej „ustawą o systemie monitorowania”. Kierujący, o którym mowa w art. 2 pkt 2 lit. a ustawy o systemie monitorowania, jest obowiązany okazać kopię zgłoszenia w trakcie kontroli, o której mowa w art. 13 tej ustawy.
+
+16a. W przypadkach, o których mowa w ust. 1, do przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych określonych w obwieszczeniu, o którym mowa w ust. 14, podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, dołącza dokument, który przekazuje kierującemu, o którym mowa w art. 2 pkt 2 lit. a tej ustawy. Dokument ten zawiera datę wystawienia, nazwę handlową i międzynarodową oraz postać farmaceutyczną produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, numer serii, datę ważności, dostarczaną ilość, nazwę i adres dostawcy, adres miejsca nadania wysyłki, nazwę i adres odbiorcy, adres dostawy, określenie wymaganych warunków transportu i przechowywania transportowanych produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, imię i nazwisko oraz podpis osoby wystawiającej ten dokument.
+
+17. Do postępowania prowadzonego w zakresie wydania sprzeciwu, o którym mowa w ust. 3, nie stosuje się art. 10, przepisów działu II rozdział 2 i 5 oraz art. 98 Kodeksu postępowania administracyjnego.
+
+**Art. 37aw.** Czynność prawna polegająca na zbyciu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, określonych w obwieszczeniu, o którym mowa w art. 37av ust. 14:
+
+- **1)** bez uprzedniego zgłoszenia Głównemu Inspektorowi Farmaceutycznemu,
+- **2)** przed upływem terminu na zgłoszenie sprzeciwu określonego w art. 37av ust. 3, z zastrzeżeniem art. 37av ust. 9a,
+- **3)** wbrew sprzeciwowi Głównego Inspektora Farmaceutycznego – jest nieważna.
+
+**Art. 37ax.** Wywóz poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, określonych w obwieszczeniu, o którym mowa w art. 37av ust. 14, wymaga zgłoszenia, o którym mowa w art. 5 ust. 1 ustawy o systemie monitorowania.
+
+**Art. 37ay.**
+
+1. Główny Inspektor Farmaceutyczny zawiera umowę o strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania oraz dla celów dokonywania oględzin towaru, o których mowa w art. 13 ust. 2a tej ustawy, z przedsiębiorcą zapewniającym warunki odpowiednie do przechowywania tych produktów, środków lub wyrobów i przeprowadzenia ich oględzin.
+
+2. Umowa, o której mowa w ust. 1, może przewidywać zlecanie strzeżenia i przechowywania towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania podwykonawcom, pod warunkiem uzyskania uprzedniej zgody Głównego Inspektora Farmaceutycznego wyrażonej na piśmie.
+
+**Art. 37az.**
+
+1. Za strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania pobiera się opłaty.
+
+2. Za uiszczenie opłaty odpowiada podmiot wysyłający w rozumieniu ustawy o systemie monitorowania.
+
+**Art. 37aza.**
+
+1. Główny Inspektor Farmaceutyczny ustala, w drodze postanowienia, wysokość opłaty za strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania oraz termin i sposób ich uiszczania.
+
+2. Wysokość opłaty, o której mowa w ust. 1, odpowiada średniej cenie rynkowej usług w zakresie strzeżenia i przechowywania produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych przez przedsiębiorców prowadzących działalność polegającą na prowadzeniu hurtowni farmaceutycznych.
+
+3. Na postanowienie, o którym mowa w ust. 1, służy zażalenie.
+
+4. Opłata, o której mowa w ust. 1, stanowi dochód budżetu państwa.
+
+**Art. 37azb.** Egzekucja należności pieniężnych, o których mowa w art. 37az, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+**Art. 37azc.**
+
+1. Maksymalna wysokość stawki kwotowej opłat, o których mowa w art. 37az, za każdą dobę strzeżenia i przechowywania wynosi 150 zł za miejsce paletowe w powierzchni magazynowej.
+
+2. Maksymalna stawka kwotowa opłaty, o której mowa w ust. 1, obowiązująca w danym roku kalendarzowym, ulega corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych w okresie pierwszego półrocza roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.
+
+3. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” maksymalną stawkę kwotową opłaty, o której mowa w ust. 1, z uwzględnieniem zasady określonej w ust. 2, obowiązującą w następnym roku kalendarzowym, zaokrąglając ją w górę do pełnych złotych, w terminie do dnia 1 grudnia danego roku.
+
+**Art. 37azd.**
+
+1. W przypadkach, o których mowa w art. 16 ust. 1a ustawy o systemie monitorowania, sąd, na wniosek Głównego Inspektora Farmaceutycznego, orzeka:
+
+- **1)** przepadek towarów zatrzymanych – jeżeli Główny Inspektor Farmaceutyczny stwierdził na podstawie dokumentów przedstawionych przez podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, a w przypadku powzięcia wątpliwości – także po przeprowadzeniu dodatkowego sprawdzenia, że towary te były transportowane i przechowywane zgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej lub Dobrej Praktyki Wytwarzania;
+- **2)** przepadek i zniszczenie towarów zatrzymanych, jeżeli:
+    - **a)** Główny Inspektor Farmaceutyczny stwierdził na podstawie dokumentów przedstawionych przez podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, a w przypadku powzięcia wątpliwości – także po przeprowadzeniu dodatkowego sprawdzenia, że zatrzymane towary były transportowane i przechowywane niezgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej lub Dobrej Praktyki Wytwarzania,
+    - **b)** nie jest możliwe stwierdzenie przez Głównego Inspektora Farmaceutycznego na podstawie dokumentów przedstawionych przez podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, a w przypadku powzięcia wątpliwości – także po przeprowadzeniu dodatkowego sprawdzenia, że towary były transportowane i przechowywane zgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej lub Dobrej Praktyki Wytwarzania.
+
+2. Wniosek, o którym mowa w ust. 1, podlega rozpoznaniu bezzwłocznie, niepóźniej jednak niż w terminie tygodnia od dnia jego wpływu do sądu. W przypadku skierowania wniosku do rozpatrzenia na rozprawie, termin rozprawy należy wyznaczyć tak, aby mogła się ona odbyć w terminie miesiąca od dnia wpływu wniosku.
+
+3. Koszty zniszczenia, o którym mowa w ust. 1 pkt 2, ponosi podmiot wysyłający w rozumieniu ustawy o systemie monitorowania.
+
+4. Koszty zniszczenia w wysokości odpowiadającej rzeczywistym wydatkom poniesionym na to zniszczenie ustala, w drodze postanowienia, naczelnik urzędu skarbowego. Przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) stosuje się odpowiednio.
+
+5. Do spraw o przepadek towaru przepisy art. 610 –610 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i
+
+- **473)** stosuje się odpowiednio.
+
+**Art. 37aze.**
+
+1. Główny Inspektor Farmaceutyczny niezwłocznie przekazuje prawomocne orzeczenie, o którym mowa w art. 37azd ust. 1, naczelnikowi urzędu skarbowego właściwemu według miejsca przechowywania zatrzymanego towaru – do wykonania.
+
+2. W przypadkach, o których mowa w art. 37azd ust. 1 pkt 1, naczelnik urzędu skarbowego sprzedaje towary, których termin przydatności albo data ważności nie upłynęły, na rzecz podmiotów uprawnionych do prowadzenia obrotu tymi towarami, z zastrzeżeniem, że nabywcą nie może być ostatni właściciel tych towarów przed orzeczeniem ich przepadku.
+
+3. Do chwili przekazania nabywcy towarów sprzedanych zgodnie z ust. 2 albo ust. 5 są one przechowywane z uwzględnieniem Dobrej Praktyki Dystrybucyjnej.
+
+4. Sprzedaż towarów w przypadkach, o których mowa w ust. 5 oraz w art. 37azd ust. 1 pkt 1, przez naczelnika urzędu skarbowego nie stanowi obrotu hurtowego.
+
+5. W przypadku konieczności zapewnienia dostępności pacjentom produktów leczniczych, środków specjalnego przeznaczenia żywieniowego lub wyrobów medycznych wymienionych w wykazie, o którym mowa w art. 37av ust. 14, Główny Inspektor Farmaceutyczny składa, przed wydaniem orzeczenia, o którym mowa w art. 37azd ust. 1, do naczelnika urzędu skarbowego właściwego według miejsca przechowywania zatrzymanego towaru wniosek o dokonanie jego sprzedaży, na poczet grożącego przepadku.
+
+6. Naczelnik, o którym mowa w ust. 5, sprzedaje towary w trybie przepisów wydanych na podstawie art. 109 § 1 pkt 1 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268), z zastrzeżeniem, że nabywcą nie może być ich ostatni właściciel przed skierowaniem wniosku, o którym mowa w ust. 5.
+
+7. Środki pieniężne uzyskane ze sprzedaży, o której mowa w ust. 6, wpłaca się na rachunek depozytowy naczelnika urzędu skarbowego.
+
+**Art. 37azf.** Do zniszczenia produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych stosuje się odpowiednio przepisy wydane na podstawie art. 179a § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2025 r. poz. 633 oraz z 2026 r. poz. 347 i
+
+- **421)** .
+
+**Art. 37azg.**
+
+1. W przypadku zagrożenia brakiem dostępności na terytorium Rzeczypospolitej Polskiej środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego innych niż wymienione w art. 72a, lub produktu biobójczego, w związku ze stanem zagrożenia epidemicznego, stanem epidemii albo w razie niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, w szczególności wystąpienia choroby szczególnie niebezpiecznej i wysoce zakaźnej, w rozumieniu art. 2 pkt 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, minister właściwy do spraw zdrowia może, w drodze rozporządzenia, nałożyć na wytwórców, autoryzowanych przedstawicieli, dystrybutorów i importerów wyrobów medycznych, producentów i importerów środków spożywczych specjalnego przeznaczenia żywieniowego lub podmioty odpowiedzialne w odniesieniu do produktów biobójczych, posiadaczy pozwolenia albo zezwolenia na handel równoległy i wytwórców produktów biobójczych, obowiązki, o których mowa w art. 36z ust. 2 i 3, a na hurtownie farmaceutyczne, apteki, punkty apteczne oraz działy farmacji szpitalnej odpowiednio obowiązki określone w art. 78 ust. 1 pkt 6a i art. 95 ust. 1b, w odniesieniu do środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego innych niż wymienione w art. 72a, lub produktu biobójczego.
+
+2. W przypadku zagrożenia brakiem dostępności na terytorium Rzeczypospolitej Polskiej:
+
+- **1)** produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego lub produktu biobójczego, w związku ze stanem zagrożenia epidemicznego, stanem epidemii albo w razie niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, w szczególności wystąpienia choroby szczególnie niebezpiecznej i wysoce zakaźnej w rozumieniu art. 2 pkt 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, lub
+- **2)** produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego umieszczonego w:
+    - **a)** obwieszczeniu, o którym mowa w art. 37av ust. 14, lub
+    - **b)** obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych – minister właściwy do spraw zdrowia może ograniczyć, w drodze obwieszczenia, ilość, jaką maksymalnie można wydać danemu pacjentowi w określonym czasie lub w określonym wskazaniu.
+
+3. W przypadku nałożenia obowiązku, o którym mowa w ust. 1, podmioty, które dotychczas nie były podłączone do systemu, o którym mowa w art. 72a, są obowiązane do podłączenia i rozpoczęcia przekazywania informacji w ciągu 24 godzin od momentu nałożenia tego obowiązku. Wraz z wysłaniem pierwszej informacji podmiot raportuje jednocześnie indywidualny bilans otwarcia, zwany dalej „IBO”.
+
+3a. W przypadku ograniczonych możliwości technicznych podmiotu, który dotychczas nie był podłączony do systemu, o którym mowa w art. 72a, Główny Inspektor Farmaceutyczny może wyrazić zgodę na podłączenie i rozpoczęcie przekazywania informacji w terminie późniejszym.
+
+4. IBO stanowi informację o stanach magazynowych produktów podlegających raportowaniu do systemu, o którym mowa w art. 72a, w dniu, w którym wysłano pierwszy raport.
+
+5. Obwieszczenie, o którym mowa w ust. 2, określa:
+
+- **1)** wykaz produktów leczniczych, wyrobów medycznych, środków spożywczych specjalnego przeznaczenia żywieniowego i produktów biobójczych oraz dane je identyfikujące;
+- **2)** ilość produktu leczniczego, wyrobu medycznego, środka spożywczego specjalnego przeznaczenia żywieniowego i produktu biobójczego na jednego pacjenta w danej jednostce czasu.
+
+6. Do wydawania produktów leczniczych, wyrobów medycznych, środków spożywczych specjalnego przeznaczenia żywieniowego i produktów biobójczych objętych obwieszczeniem, o którym mowa w ust. 2, stosuje się przepisy niniejszej ustawy oraz przepisy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, przy czym:
+
+- **1)** dokument realizacji recepty jest wystawiany również dla produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych sprzedawanych bez recepty oraz dla produktów biobójczych;
+- **2)** przepisów art. 96 ust. 1a–1d nie stosuje się.
+
+7. Obwieszczenie, o którym mowa w ust. 2, podlega ogłoszeniu w dzienniku urzędowym ministra właściwego do spraw zdrowia.
 
 #### Rozdział 3 Wytwarzanie i import produktów leczniczych
 
@@ -2270,7 +2440,12 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 16. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** wzór wniosku o wydanie zgody, o której mowa w ust. 1, oraz o zmianę tej zgody, uwzględniając rodzaj produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego oraz zakres wytwarzania;
-- **2)** wysokość opłaty, o której mowa w ust. 9, uwzględniając konieczność zróżnicowania wysokości opłat w związku z nakładem pracy wymaganym do rozpatrzenia wniosku. Art. 38aa. 1. Do obowiązków posiadacza zgody na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego należy:
+- **2)** wysokość opłaty, o której mowa w ust. 9, uwzględniając konieczność zróżnicowania wysokości opłat w związku z nakładem pracy wymaganym do rozpatrzenia wniosku.
+
+**Art. 38aa.**
+
+1. Do obowiązków posiadacza zgody na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego należy:
+
 - **1)** wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego jedynie w zakresie objętym zgodą, o której mowa w art. 38a ust. 1;
 - **2)** zawiadamianie na piśmie Głównego Inspektora Farmaceutycznego, co najmniej 30 dni wcześniej, o zamierzonej zmianie dotyczącej warunków wytwarzania produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego oraz niezwłoczne zawiadamianie o konieczności zmiany Osoby Kompetentnej;
 - **3)** udostępnianie inspektorom do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego w celu przeprowadzenia inspekcji pomieszczeń, w których jest prowadzona działalność w zakresie wytwarzania produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego, dokumentacji i innych danych dotyczących wytwarzania produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego, a także umożliwienie pobrania próbek tych produktów do badań jakościowych;
@@ -2278,7 +2453,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **5)** stosowanie wymagań Dobrej Praktyki Wytwarzania w zakresie niezbędnym do zapewnienia odpowiedniej jakości i bezpieczeństwa produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego;
 - **6)** przechowywanie rejestrów, o których mowa w art. 38a ust. 14, przez okres niekrótszy niż 30 lat od dnia zwolnienia do użycia danej serii produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego.
 
-2. Główny Inspektor Farmaceutyczny zapewnia możliwość złożenia zawiadomienia, o którym mowa w ust. 1 pkt 2, w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej. Zawiadomienie opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. Art. 38ab. 1. Główny Inspektor Farmaceutyczny cofa zgodę na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego, w przypadku gdy jego wytwórca przestał wypełniać obowiązki określone w art. 38aa ust. 1 pkt 1 lub 3.
+2. Główny Inspektor Farmaceutyczny zapewnia możliwość złożenia zawiadomienia, o którym mowa w ust. 1 pkt 2, w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej. Zawiadomienie opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
+
+**Art. 38ab.**
+
+1. Główny Inspektor Farmaceutyczny cofa zgodę na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego, w przypadku gdy jego wytwórca przestał wypełniać obowiązki określone w art. 38aa ust. 1 pkt 1 lub 3.
 
 2. Zgoda na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego może być cofnięta w przypadku naruszenia przepisów art. 38aa ust. 1 pkt 2 lub 4–6.
 
@@ -2647,7 +2826,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Informacja o zmianach, o której mowa w ust. 1 pkt 1, jest przesyłana do Głównego Inspektora Farmaceutycznego w formie wniosku o dokonanie zmiany w Krajowym Rejestrze Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych.
 
-3. Jeżeli w wyniku otrzymania przez Głównego Inspektora Farmaceutycznego informacji, o których mowa w ust. 1 pkt 2, jest konieczna zmiana w Krajowym Rejestrze Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych, Główny Inspektor Farmaceutyczny pobiera opłatę zgodnie z art. 51c ust. 5 w wysokości, o której mowa w art. 51c ust. 6 pkt 2. Art. 51da. 1. Główny Inspektor Farmaceutyczny wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
+3. Jeżeli w wyniku otrzymania przez Głównego Inspektora Farmaceutycznego informacji, o których mowa w ust. 1 pkt 2, jest konieczna zmiana w Krajowym Rejestrze Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych, Główny Inspektor Farmaceutyczny pobiera opłatę zgodnie z art. 51c ust. 5 w wysokości, o której mowa w art. 51c ust. 6 pkt 2.
+
+**Art. 51da.**
+
+1. Główny Inspektor Farmaceutyczny wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
 
 - **1)** przedsiębiorca złożył oświadczenie, o którym mowa w art. 51b ust. 5 pkt 5, niezgodne ze stanem faktycznym;
 - **2)** przedsiębiorca nie usunął naruszeń warunków wymaganych prawem do wykonywania działalności regulowanej w wyznaczonym przez Głównego Inspektora Farmaceutycznego terminie;
@@ -2657,7 +2840,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. Przed wydaniem decyzji na podstawie ust. 1 pkt 2 Główny Inspektor Farmaceutyczny wzywa przedsiębiorcę do usunięcia naruszeń w wyznaczonym terminie.
 
-4. W przypadku wydania decyzji, o której mowa w ust. 1, Główny Inspektor Farmaceutyczny z urzędu wykreśla przedsiębiorcę z Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych. Art. 51db. 1. Przedsiębiorca, którego wykreślono z Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych, może uzyskać ponowny wpis do tego rejestru w tym samym zakresie działalności gospodarczej niewcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 51da ust. 1.
+4. W przypadku wydania decyzji, o której mowa w ust. 1, Główny Inspektor Farmaceutyczny z urzędu wykreśla przedsiębiorcę z Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych.
+
+**Art. 51db.**
+
+1. Przedsiębiorca, którego wykreślono z Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych, może uzyskać ponowny wpis do tego rejestru w tym samym zakresie działalności gospodarczej niewcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 51da ust. 1.
 
 2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych. Nie dotyczy to sytuacji, gdy przedsiębiorca podjął działalność gospodarczą po upływie 60 dni od dnia złożenia wniosku, o którym mowa w art. 51b ust. 5, a w okresie tym Główny Inspektor Farmaceutyczny nie poinformował go o konieczności przeprowadzenia inspekcji.
 
@@ -2765,7 +2952,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** 6000 zł – za każdy dzień inspekcji przeprowadzanej na terytorium Rzeczypospolitej Polskiej;
 - **2)** 12 000 zł – za każdy dzień inspekcji przeprowadzanej poza terytorium Rzeczypospolitej Polskiej.
 
-4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość i sposób pokrywania kosztów przeprowadzania inspekcji, o których mowa w art. 51i ust. 1–3, kierując się nakładem pracy związanej z wykonywaniem danej czynności i poziomem kosztów ponoszonych przez Główny Inspektorat Farmaceutyczny. Art. 51ja. 1. W przypadku otrzymania informacji od właściwego organu państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub od właściwego organu z kraju trzeciego mającego równoważne z Unią Europejską wymagania Dobrej Praktyki Wytwarzania i równoważny system inspekcji, że wytwórca substancji czynnej lub wytwórca substancji pomocniczych nie spełnia wymagań Dobrej Praktyki Wytwarzania, Główny Inspektor Farmaceutyczny cofa wydany dla tego wytwórcy certyfikat potwierdzający spełnianie wymagań Dobrej Praktyki Wytwarzania.
+4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość i sposób pokrywania kosztów przeprowadzania inspekcji, o których mowa w art. 51i ust. 1–3, kierując się nakładem pracy związanej z wykonywaniem danej czynności i poziomem kosztów ponoszonych przez Główny Inspektorat Farmaceutyczny.
+
+**Art. 51ja.**
+
+1. W przypadku otrzymania informacji od właściwego organu państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub od właściwego organu z kraju trzeciego mającego równoważne z Unią Europejską wymagania Dobrej Praktyki Wytwarzania i równoważny system inspekcji, że wytwórca substancji czynnej lub wytwórca substancji pomocniczych nie spełnia wymagań Dobrej Praktyki Wytwarzania, Główny Inspektor Farmaceutyczny cofa wydany dla tego wytwórcy certyfikat potwierdzający spełnianie wymagań Dobrej Praktyki Wytwarzania.
 
 2. W przypadku cofnięcia wydanego certyfikatu potwierdzającego spełnianie wymagań Dobrej Praktyki Wytwarzania Główny Inspektor Farmaceutyczny niezwłocznie usuwa wydany certyfikat potwierdzający spełnianie wymagań Dobrej Praktyki Wytwarzania z europejskiej bazy danych EudraGMDP.
 
@@ -3292,7 +3483,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
     - **a)** dane zawarte we wniosku o wpis do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi są zgodne z prawdą, a także znane mi są warunki wykonywania działalności gospodarczej w zakresie pośrednictwa w obrocie produktami leczniczymi, której dotyczy wniosek,
     - **b)** przedsiębiorca zamierzający wykonywać działalność gospodarczą w zakresie pośrednictwa w obrocie produktami leczniczymi: – spełnia wynikające z ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne warunki wykonywania działalności gospodarczej w zakresie pośrednictwa w obrocie produktami leczniczymi, – nie jest wpisany do rejestru, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, ani nie wystąpił z wnioskiem o wpis do tego rejestru, – nie prowadzi apteki lub punktu aptecznego ani nie wystąpił z wnioskiem o wydanie zezwolenia na ich prowadzenie, – nie prowadzi hurtowni farmaceutycznej lub hurtowni farmaceutycznej produktów leczniczych weterynaryjnych ani nie wystąpił z wnioskiem o wydanie zezwolenia na jej prowadzenie.”.
 
-2. Główny Inspektor Farmaceutyczny zapewnia możliwość złożenia wniosku, o którym mowa w ust. 1, w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej. Wniosek opatruje się kwalifikowanym podpisem elektronicznym. Art. 73ba. 1. Główny Inspektor Farmaceutyczny jest obowiązany dokonać wpisu przedsiębiorcy do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi w terminie 7 dni od dnia wpływu do niego wniosku, o którym mowa w art. 73b ust. 1.
+2. Główny Inspektor Farmaceutyczny zapewnia możliwość złożenia wniosku, o którym mowa w ust. 1, w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej. Wniosek opatruje się kwalifikowanym podpisem elektronicznym.
+
+**Art. 73ba.**
+
+1. Główny Inspektor Farmaceutyczny jest obowiązany dokonać wpisu przedsiębiorcy do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi w terminie 7 dni od dnia wpływu do niego wniosku, o którym mowa w art. 73b ust. 1.
 
 2. Jeżeli Główny Inspektor Farmaceutyczny nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu do niego wniosku upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy Inspektor wezwał przedsiębiorcę do uzupełnienia wniosku o wpis niepóźniej niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
 
@@ -3348,7 +3543,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **2)** wykreślenia pośrednika w obrocie produktami leczniczymi z Krajowego Rejestru Sądowego albo Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo
 - **3)** (uchylony) – Główny Inspektor Farmaceutyczny z urzędu skreśla tego pośrednika z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi.
 
-4. Skreślenie z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi następuje także w przypadku złożenia wniosku w tej sprawie przez pośrednika. Art. 73fa. 1. Przedsiębiorca, którego wykreślono z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi z przyczyn, o których mowa w art. 73f ust. 1, może uzyskać ponowny wpis do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi w tym samym zakresie działalności gospodarczej niewcześniej niż po upływie 3 lat od dnia wydania decyzji o zakazie wykonywania działalności objętej wpisem.
+4. Skreślenie z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi następuje także w przypadku złożenia wniosku w tej sprawie przez pośrednika.
+
+**Art. 73fa.**
+
+1. Przedsiębiorca, którego wykreślono z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi z przyczyn, o których mowa w art. 73f ust. 1, może uzyskać ponowny wpis do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi w tym samym zakresie działalności gospodarczej niewcześniej niż po upływie 3 lat od dnia wydania decyzji o zakazie wykonywania działalności objętej wpisem.
 
 2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi. Nie dotyczy to sytuacji określonej w art. 73ba ust. 2.
 
@@ -4118,7 +4317,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 5. Po otrzymaniu informacji, o której mowa w ust. 4, Główny Inspektor Farmaceutyczny ustala dostępność w obrocie hurtowym:
 
 - **1)** produktu leczniczego wydawanego na receptę, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, o których mowa w wykazie określonym w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych – w przypadku, o którym mowa w ust. 2;
-- **2)** produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego stosowanych w zakładzie leczniczym podmiotu leczniczego – w przypadku, o którym mowa w ust. 3. Art. 95aa. 1. Świadczeniodawca, o którym mowa w art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwany dalej „świadczeniodawcą”, jest obowiązany przechowywać druki recept lub unikalne numery identyfikujące receptę przydzielone przez dyrektora oddziału wojewódzkiego Narodowego Funduszu Zdrowia w warunkach zapewniających należytą ochronę przed utratą, zniszczeniem, kradzieżą lub dostępem osób nieuprawnionych.
+- **2)** produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego stosowanych w zakładzie leczniczym podmiotu leczniczego – w przypadku, o którym mowa w ust. 3.
+
+**Art. 95aa.**
+
+1. Świadczeniodawca, o którym mowa w art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwany dalej „świadczeniodawcą”, jest obowiązany przechowywać druki recept lub unikalne numery identyfikujące receptę przydzielone przez dyrektora oddziału wojewódzkiego Narodowego Funduszu Zdrowia w warunkach zapewniających należytą ochronę przed utratą, zniszczeniem, kradzieżą lub dostępem osób nieuprawnionych.
 
 2. W przypadku zakończenia okresu zatrudnienia albo śmierci osoby uprawnionej do wystawiania recept świadczeniodawca powiadamia niezwłocznie o takim zdarzeniu oraz o niewykorzystanych drukach lub unikalnych numerach identyfikujących receptę, jeżeli są one możliwe do ustalenia, właściwy oddział wojewódzki Narodowego Funduszu Zdrowia, w którym unikalne numery identyfikujące receptę zostały przydzielone.
 
@@ -4474,7 +4677,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **3)** sposób przechowywania recept,
 - **4)** kody uprawnień dodatkowych pacjentów i wykaz dokumentów potwierdzających te uprawnienia,
 - **5)** identyfikatory oddziałów wojewódzkich Narodowego Funduszu Zdrowia,
-- **6)** wymiary i wzory recept wystawianych w postaci papierowej – uwzględniając konieczność zapewnienia bezpieczeństwa lekowego i ochrony interesu ekonomicznego pacjentów, a także mechanizmów przeciwdziałania nadużyciom w procesie wystawiania i realizacji recept oraz stworzenia podstaw kontroli tych procesów. Art. 96aa. 1. W przypadku cofnięcia zezwolenia na prowadzenie apteki lub punktu aptecznego, jego uchylenia, stwierdzenia wygaśnięcia albo nieważności podmiot prowadzący aptekę lub punkt apteczny jest obowiązany pisemnie, w terminie 7 dni od dnia, w którym decyzja o cofnięciu zezwolenia na prowadzenie apteki lub punktu aptecznego, jego uchyleniu, stwierdzeniu wygaśnięcia albo nieważności stała się ostateczna, powiadomić o miejscu przechowywania recept i wydanych na ich podstawie odpisów wojewódzkiego inspektora farmaceutycznego właściwego ze względu na adres prowadzenia apteki.
+- **6)** wymiary i wzory recept wystawianych w postaci papierowej – uwzględniając konieczność zapewnienia bezpieczeństwa lekowego i ochrony interesu ekonomicznego pacjentów, a także mechanizmów przeciwdziałania nadużyciom w procesie wystawiania i realizacji recept oraz stworzenia podstaw kontroli tych procesów.
+
+**Art. 96aa.**
+
+1. W przypadku cofnięcia zezwolenia na prowadzenie apteki lub punktu aptecznego, jego uchylenia, stwierdzenia wygaśnięcia albo nieważności podmiot prowadzący aptekę lub punkt apteczny jest obowiązany pisemnie, w terminie 7 dni od dnia, w którym decyzja o cofnięciu zezwolenia na prowadzenie apteki lub punktu aptecznego, jego uchyleniu, stwierdzeniu wygaśnięcia albo nieważności stała się ostateczna, powiadomić o miejscu przechowywania recept i wydanych na ich podstawie odpisów wojewódzkiego inspektora farmaceutycznego właściwego ze względu na adres prowadzenia apteki.
 
 2. Wojewódzki inspektor farmaceutyczny, o którym mowa w ust. 1, przekazuje informację określoną w ust. 1 oddziałowi wojewódzkiemu Narodowego Funduszu Zdrowia, który zawarł umowę na realizację recept, w terminie 3 dni od dnia jej otrzymania.
 
@@ -5563,7 +5770,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. Karę pieniężną, o której mowa w ust. 1 pkt 2, wymierza się w wysokości 10 000 zł.
 
-4. Do decyzji nakładających karę pieniężną, o których mowa w ust. 1, nie stosuje się art. 61 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi. Art. 127ba. Podmiot, który działa z naruszeniem obowiązków lub warunków, o których mowa w art. 85a ust. 1 lub 2, podlega karze pieniężnej w wysokości od 10 000 zł do 5 000 000 zł.
+4. Do decyzji nakładających karę pieniężną, o których mowa w ust. 1, nie stosuje się art. 61 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
+
+**Art. 127ba.** Podmiot, który działa z naruszeniem obowiązków lub warunków, o których mowa w art. 85a ust. 1 lub 2, podlega karze pieniężnej w wysokości od 10 000 zł do 5 000 000 zł.
 
 **Art. 127c.**
 
@@ -5577,9 +5786,17 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **2)** przedsiębiorca prowadzący działalność polegającą na prowadzeniu hurtowni farmaceutycznej, który nie dopełnił obowiązku, o którym mowa w art. 78 ust. 1 pkt 6b lub 6d;
 - **3)** podmiot prowadzący aptekę ogólnodostępną, który nie dopełnił obowiązku, o którym mowa w art. 95 ust. 1b lub 1c;
 - **4)** podmiot prowadzący punkt apteczny, który nie dopełnił obowiązku, o którym mowa w art. 95 ust. 1b lub 1c;
-- **5)** podmiot prowadzący działalność leczniczą, posiadający aptekę szpitalną lub dział farmacji szpitalnej który nie dopełnił obowiązku, o którym mowa w art. 95 ust. 1b lub 1c. Art. 127ca. 1. Karze pieniężnej podlega podmiot wykonujący działalność leczniczą, który wbrew przepisowi art. 96 ust. 2e uniemożliwia organom Inspekcji Farmaceutycznej dokonanie wglądu do ewidencji zapotrzebowań lub nie przekazuje na ich żądanie kopii zapotrzebowań.
+- **5)** podmiot prowadzący działalność leczniczą, posiadający aptekę szpitalną lub dział farmacji szpitalnej który nie dopełnił obowiązku, o którym mowa w art. 95 ust. 1b lub 1c.
 
-2. Karę pieniężną, o której mowa w ust. 1, wymierza się w wysokości do 10 000 zł. Art. 127cb. 1. Podmiot odpowiedzialny, który nie realizuje obowiązków, o których mowa w art. 33 ust. 1 i 2 rozporządzenia nr 2016/161, podlega karze pieniężnej w wysokości do 500 000 zł.
+**Art. 127ca.**
+
+1. Karze pieniężnej podlega podmiot wykonujący działalność leczniczą, który wbrew przepisowi art. 96 ust. 2e uniemożliwia organom Inspekcji Farmaceutycznej dokonanie wglądu do ewidencji zapotrzebowań lub nie przekazuje na ich żądanie kopii zapotrzebowań.
+
+2. Karę pieniężną, o której mowa w ust. 1, wymierza się w wysokości do 10 000 zł.
+
+**Art. 127cb.**
+
+1. Podmiot odpowiedzialny, który nie realizuje obowiązków, o których mowa w art. 33 ust. 1 i 2 rozporządzenia nr 2016/161, podlega karze pieniężnej w wysokości do 500 000 zł.
 
 2. Wytwórca lub importer produktów leczniczych, który nie realizuje obowiązków, o których mowa w art. 4–7, art. 9–11 i art. 13–19 rozporządzenia nr 2016/161, podlega karze pieniężnej w wysokości do 500 000 zł.
 
@@ -5587,7 +5804,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 4. Podmiot prowadzący aptekę ogólnodostępną, aptekę szpitalną, punkt apteczny lub dział farmacji szpitalnej, który nie realizuje obowiązków, o których mowa w art. 10–13 i art. 27–30 rozporządzenia nr 2016/161, podlega karze pieniężnej w wysokości do 20 000 zł.
 
-5. Od kary pieniężnej nieuiszczonej w terminie nalicza się odsetki za zwłokę w wysokości jak dla zaległości podatkowych. Art. 127cc. 1. Karze pieniężnej podlega podmiot odpowiedzialny, który wbrew przepisowi:
+5. Od kary pieniężnej nieuiszczonej w terminie nalicza się odsetki za zwłokę w wysokości jak dla zaległości podatkowych.
+
+**Art. 127cc.**
+
+1. Karze pieniężnej podlega podmiot odpowiedzialny, który wbrew przepisowi:
 
 - **1)** art. 119a ust. 1, nie zrealizował obowiązku przekazania informacji o dacie wprowadzenia produktu leczniczego po raz pierwszy do obrotu na terytorium Rzeczypospolitej Polskiej lub nieterminowo zrealizował ten obowiązek;
 - **2)** art. 119a ust. 3, nie przekazał próbki produktu leczniczego wraz z dokumentacją i materiałami niezbędnymi do przeprowadzenia badania jakościowego produktu leczniczego lub nieterminowo zrealizował ten obowiązek.
@@ -5595,7 +5816,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 2. Karę pieniężną, o której mowa w ust. 1:
 
 - **1)** pkt 1, wymierza się w wysokości od 10 000 do 100 000 zł,
-- **2)** pkt 2, wymierza się w wysokości od 50 000 do 300 000 zł – uwzględniając okoliczności, zakres oraz uprzednie naruszenie przepisów ustawy. Art. 127cd. 1. Karze pieniężnej podlega podmiot, który wbrew zakazowi, o którym mowa w art. 99 ust. 3aa, przejmuje kontrolę nad podmiotem prowadzącym aptekę ogólnodostępną.
+- **2)** pkt 2, wymierza się w wysokości od 50 000 do 300 000 zł – uwzględniając okoliczności, zakres oraz uprzednie naruszenie przepisów ustawy.
+
+**Art. 127cd.**
+
+1. Karze pieniężnej podlega podmiot, który wbrew zakazowi, o którym mowa w art. 99 ust. 3aa, przejmuje kontrolę nad podmiotem prowadzącym aptekę ogólnodostępną.
 
 2. Karę pieniężną, o której mowa w ust. 1, wymierza się w wysokości od 50 000 zł do 5 000 000 zł.
 
@@ -5605,7 +5830,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Kary pieniężne, o których mowa w art. 127cb ust. 4 i art. 127cd ust. 1, nakłada właściwy wojewódzki inspektor farmaceutyczny w drodze decyzji.
 
-3. Główny Inspektor Farmaceutyczny albo wojewódzki inspektor farmaceutyczny jest wierzycielem w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji. Art. 127da. 1. Karze pieniężnej w wysokości do 2000 zł podlega podmiot prowadzący aptekę lub punkt apteczny, który wbrew przepisowi:
+3. Główny Inspektor Farmaceutyczny albo wojewódzki inspektor farmaceutyczny jest wierzycielem w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji.
+
+**Art. 127da.**
+
+1. Karze pieniężnej w wysokości do 2000 zł podlega podmiot prowadzący aptekę lub punkt apteczny, który wbrew przepisowi:
 
 - **1)** art. 47a ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych nie powiadamia oddziału wojewódzkiego Narodowego Funduszu Zdrowia, który zawarł z tym podmiotem umowę na realizację recept, o aktualnych danych adresowych osoby reprezentującej dany podmiot lub danych osoby upoważnionej do wydania recept w razie nieobecności osoby reprezentującej ten podmiot w terminie 7 dni od dnia, w którym dane te uległy zmianie, lub
 - **2)** art. 96aa ust. 1 nie powiadamia wojewódzkiego inspektora farmaceutycznego właściwego ze względu na adres prowadzenia apteki lub punktu aptecznego o miejscu przechowywania recept i wydanych na ich podstawie odpisów w terminie 7 dni od dnia, w którym decyzja o cofnięciu zezwolenia na prowadzenie apteki lub punktu aptecznego, jego uchyleniu, stwierdzeniu wygaśnięcia albo nieważności stała się ostateczna.
@@ -5655,11 +5884,19 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 4. (uchylony)
 
-5. (uchylony) Art. 129ba. 1. Kary pieniężne uiszcza się w terminie 7 dni od dnia, w którym decyzja o nałożeniu kary pieniężnej stała się ostateczna. Od kary pieniężnej nieuiszczonej w terminie nalicza się odsetki za zwłokę w wysokości jak dla zaległości podatkowych.
+5. (uchylony)
+
+**Art. 129ba.**
+
+1. Kary pieniężne uiszcza się w terminie 7 dni od dnia, w którym decyzja o nałożeniu kary pieniężnej stała się ostateczna. Od kary pieniężnej nieuiszczonej w terminie nalicza się odsetki za zwłokę w wysokości jak dla zaległości podatkowych.
 
 2. Egzekucja kar pieniężnych wraz z odsetkami, o których mowa w ust. 1, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-3. Wpływy z kar pieniężnych wraz z odsetkami, o których mowa w ust. 1, stanowią dochód budżetu państwa. Art. 129bb. 1. Karze pieniężnej w wysokości do 2000 zł podlega podmiot prowadzący aptekę ogólnodostępną:
+3. Wpływy z kar pieniężnych wraz z odsetkami, o których mowa w ust. 1, stanowią dochód budżetu państwa.
+
+**Art. 129bb.**
+
+1. Karze pieniężnej w wysokości do 2000 zł podlega podmiot prowadzący aptekę ogólnodostępną:
 
 - **1)** który nie przekazał informacji, o której mowa w art. 94 ust. 2, lub
 - **2)** w imieniu którego nie zostało złożone oświadczenie, o którym mowa w art. 94 ust. 10 zdanie pierwsze.

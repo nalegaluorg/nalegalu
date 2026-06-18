@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie udzielania wyróżnień funkcjonariuszom celnym.
+# Rozporządzenie Ministra Finansów z dnia 3 kwietnia 2000 r. w sprawie udzielania wyróżnień funkcjonariuszom celnym.
 
 *ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 3 kwietnia 2000 r.*
 

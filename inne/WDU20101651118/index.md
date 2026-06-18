@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# z dnia 5 sierpnia 2010 r. r. Nr 165, poz.
+# Ustawa z dnia 5 sierpnia 2010 r. o zmianie ustawy o pracownikach urzędów państwowych
 
 *USTAWA Opracowano stawie Dz. U.*
 

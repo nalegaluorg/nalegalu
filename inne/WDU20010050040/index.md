@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadku koronnym
+# Ustawa z dnia 6 grudnia 2000 r. o zmianie ustawy o świadku koronnym.
 
 *USTAWA z dnia 6 grudnia 2000 r.*
 

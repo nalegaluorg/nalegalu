@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych
 
 *USTAWA z dnia 2 marca 2020 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-06-11 |
 | Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000764) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/764/text.pdf) |
-
-Art. 16–30. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -122,7 +120,9 @@ Art. 16–30. (pominięte)
 - **1)** jednostkach organizacyjnych pomocy społecznej świadczących usługi całodobowo, noclegowniach oraz innych placówkach zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub w podeszłym wieku, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572 oraz z 2025 r. poz. 620),
 - **2)** placówkach opiekuńczo-wychowawczych, regionalnych placówkach opiekuńczo-terapeutycznych oraz interwencyjnych ośrodkach preadopcyjnych, o których mowa w ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49) – pracownicy i inne osoby świadczące pracę w tych podmiotach, poddane w nich obowiązkowej kwarantannie, mogą za zgodą tych osób świadczyć pracę określoną w umowie i otrzymywać z tego tytułu wynagrodzenie.
 
-2. W przypadku świadczenia pracy w trakcie kwarantanny, o której mowa w ust. 1, nie przysługuje wynagrodzenie, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277) ani świadczenie pieniężne z tytułu choroby określone w odrębnych przepisach. Art. 4ea. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ubezpieczonemu zatrudnionemu w jednostkach organizacyjnych pomocy społecznej świadczących usługi całodobowo, noclegowniach oraz innych placówkach zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub w podeszłym wieku, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej, w okresie podlegania obowiązkowej kwarantannie lub izolacji lub izolacji w warunkach domowych, o których mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, wynikających z pozostawania w styczności z osobami chorymi z powodu COVID-19 w związku z wykonywaniem obowiązków wynikających z zatrudnienia w tych podmiotach oraz w czasie niezdolności do pracy z powodu COVID-19 powstałej w związku z wykonywaniem obowiązków wynikających z zatrudnienia w tych podmiotach przysługuje prawo do 100 % wynagrodzenia, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, lub zasiłek chorobowy, którego miesięczny wymiar wynosi 100 % podstawy wymiaru zasiłku obliczonej na podstawie przepisów ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
+2. W przypadku świadczenia pracy w trakcie kwarantanny, o której mowa w ust. 1, nie przysługuje wynagrodzenie, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277) ani świadczenie pieniężne z tytułu choroby określone w odrębnych przepisach.
+
+**Art. 4ea.** W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ubezpieczonemu zatrudnionemu w jednostkach organizacyjnych pomocy społecznej świadczących usługi całodobowo, noclegowniach oraz innych placówkach zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub w podeszłym wieku, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej, w okresie podlegania obowiązkowej kwarantannie lub izolacji lub izolacji w warunkach domowych, o których mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, wynikających z pozostawania w styczności z osobami chorymi z powodu COVID-19 w związku z wykonywaniem obowiązków wynikających z zatrudnienia w tych podmiotach oraz w czasie niezdolności do pracy z powodu COVID-19 powstałej w związku z wykonywaniem obowiązków wynikających z zatrudnienia w tych podmiotach przysługuje prawo do 100 % wynagrodzenia, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, lub zasiłek chorobowy, którego miesięczny wymiar wynosi 100 % podstawy wymiaru zasiłku obliczonej na podstawie przepisów ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
 
 **Art. 4f.**
 
@@ -145,9 +145,15 @@ Art. 16–30. (pominięte)
 
 1. W okresie ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii z powodu COVID-19 pracownicy i inne osoby zatrudnione, poddane obowiązkowej kwarantannie, mogą, za zgodą pracodawcy albo zatrudniającego, świadczyć w trybie pracy zdalnej pracę określoną w umowie i otrzymywać z tego tytułu wynagrodzenie. Przepisy działu drugiego rozdziału IIc ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
 
-2. W przypadku świadczenia pracy w trakcie kwarantanny, o której mowa w ust. 1, nie przysługuje wynagrodzenie, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, ani świadczenie pieniężne z tytułu choroby określone w odrębnych przepisach. Art. 4ha. 1. W okresie ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii z powodu COVID-19 pracownicy i inne osoby zatrudnione, poddane obowiązkowej izolacji w warunkach domowych, mogą, za zgodą pracodawcy albo zatrudniającego, świadczyć w trybie pracy zdalnej pracę określoną w umowie i otrzymywać z tego tytułu wynagrodzenie. Przepisy działu drugiego rozdziału IIc ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
+2. W przypadku świadczenia pracy w trakcie kwarantanny, o której mowa w ust. 1, nie przysługuje wynagrodzenie, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, ani świadczenie pieniężne z tytułu choroby określone w odrębnych przepisach.
 
-2. W przypadku świadczenia pracy w trakcie izolacji w warunkach domowych, o której mowa w ust. 1, nie przysługuje wynagrodzenie, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, ani świadczenie pieniężne z tytułu choroby. Art. 4hb. Za okres nieświadczenia pracy w trakcie kwarantanny albo izolacji w warunkach domowych przysługuje wynagrodzenie, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, albo świadczenie pieniężne z tytułu choroby.
+**Art. 4ha.**
+
+1. W okresie ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii z powodu COVID-19 pracownicy i inne osoby zatrudnione, poddane obowiązkowej izolacji w warunkach domowych, mogą, za zgodą pracodawcy albo zatrudniającego, świadczyć w trybie pracy zdalnej pracę określoną w umowie i otrzymywać z tego tytułu wynagrodzenie. Przepisy działu drugiego rozdziału IIc ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
+
+2. W przypadku świadczenia pracy w trakcie izolacji w warunkach domowych, o której mowa w ust. 1, nie przysługuje wynagrodzenie, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, ani świadczenie pieniężne z tytułu choroby.
+
+**Art. 4hb.** Za okres nieświadczenia pracy w trakcie kwarantanny albo izolacji w warunkach domowych przysługuje wynagrodzenie, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, albo świadczenie pieniężne z tytułu choroby.
 
 **Art. 5.** (utracił moc)
 
@@ -189,7 +195,9 @@ Art. 16–30. (pominięte)
 - **1)** przed dniem 8 marca 2020 r.,
 - **2)** w okresie od dnia 8 marca 2020 r. do dnia 15 sierpnia 2020 r. – na podstawie przepisów o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, ulega zawieszeniu z mocy prawa do dnia 31 sierpnia 2020 r. Postanowień w sprawie zawieszenia tych postępowań nie wydaje się.
 
-5. W okresie zawieszenia postępowań, o których mowa w ust. 4, minister właściwy do spraw zdrowia może podejmować wszelkie czynności w ramach tych postępowań włącznie z wydaniem decyzji administracyjnych uwzględniających w całości żądanie wnioskodawcy, o których mowa w ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych. Ograniczenia wynikającego z art. 102 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695 i 1298) nie stosuje się. Art. 7ab. W okresie obowiązywania polecenia albo nałożenia obowiązku, o których mowa w art. 42 ustawy z dnia 14 sierpnia 2020 r. o zmianie niektórych ustaw w celu zapewnienia funkcjonowania ochrony zdrowia w związku z epidemią COVID-19 oraz po jej ustaniu (Dz. U. poz. 1493) oraz w art. 10d ust. 2 i art. 11h ust. 1–3, zobowiązującego podmioty lecznicze do realizacji świadczeń opieki zdrowotnej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, u pacjentów z podejrzeniem lub potwierdzonym zakażeniem COVID-19, które tym pacjentom udzielają świadczeń opieki zdrowotnej w zakresach wskazanych w poleceniu albo obowiązku, zawiesza się wykonywanie obowiązków wynikających z art. 23, art. 23a i art. 23b ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych dla tych zakresów.
+5. W okresie zawieszenia postępowań, o których mowa w ust. 4, minister właściwy do spraw zdrowia może podejmować wszelkie czynności w ramach tych postępowań włącznie z wydaniem decyzji administracyjnych uwzględniających w całości żądanie wnioskodawcy, o których mowa w ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych. Ograniczenia wynikającego z art. 102 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695 i 1298) nie stosuje się.
+
+**Art. 7ab.** W okresie obowiązywania polecenia albo nałożenia obowiązku, o których mowa w art. 42 ustawy z dnia 14 sierpnia 2020 r. o zmianie niektórych ustaw w celu zapewnienia funkcjonowania ochrony zdrowia w związku z epidemią COVID-19 oraz po jej ustaniu (Dz. U. poz. 1493) oraz w art. 10d ust. 2 i art. 11h ust. 1–3, zobowiązującego podmioty lecznicze do realizacji świadczeń opieki zdrowotnej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, u pacjentów z podejrzeniem lub potwierdzonym zakażeniem COVID-19, które tym pacjentom udzielają świadczeń opieki zdrowotnej w zakresach wskazanych w poleceniu albo obowiązku, zawiesza się wykonywanie obowiązków wynikających z art. 23, art. 23a i art. 23b ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych dla tych zakresów.
 
 **Art. 7b.** (utracił moc)
 
@@ -482,13 +490,29 @@ Art. 16–30. (pominięte)
 
 5. W kwestiach nieuregulowanych w ust. 1–4 stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy.
 
-**Art. 14e.** Przepisy art. 14d stosuje się również do skazanych, w odniesieniu do których wykonywane są kary i środki przymusu określone w art. 242 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy. Art. 14ea. 1. W okresie stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, Dyrektor Generalny Służby Więziennej może określić, w drodze zarządzenia, czasowe cele, strukturę organizacyjną i zadania podmiotu leczniczego dla osób pozbawionych wolności, o którym mowa w art. 37 ust. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej. Wydając zarządzenie, Dyrektor Generalny Służby Więziennej powinien określić zadania podmiotów leczniczych w taki sposób, aby zapewnić osobom pozbawionym wolności dostęp do opieki medycznej. 2. W przypadku określonym w ust. 1 statut podmiotu leczniczego określony na podstawie art. 42 ust. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej ulega zawieszeniu. 3. W okresie stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, badaniom kontrolnym podmiotowym (wywiad chorobowy) i przedmiotowym (fizykalnym) poddaje się osobę pozbawioną wolności przed jej zwolnieniem z zakładu karnego, a osobę pozbawioną wolności przed jej przetransportowaniem tylko wtedy, gdy według oceny personelu medycznego stan zdrowia osoby pozbawionej wolności tego wymaga lub osoba pozbawiona wolności zgłasza dolegliwości zdrowotne. 4. W okresie stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, lekarz podmiotu leczniczego dla osób pozbawionych wolności może udzielić porady lekarskiej oraz zlecić wykonanie badania (w tym badania kontrolnego), nie mając bezpośredniego kontaktu z pacjentem. 5. W okresie stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, przygotowane przez uprawniony personel medyczny jednorazowe dawki leków, także w podmiotach zapewniających całodobową opiekę pielęgniarską, mogą być przekazane osobie pozbawionej wolności za pośrednictwem funkcjonariusza lub pracownika Służby Więziennej w sposób uniemożliwiający niewłaściwe wydanie.
+**Art. 14e.** Przepisy art. 14d stosuje się również do skazanych, w odniesieniu do których wykonywane są kary i środki przymusu określone w art. 242 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy.
+
+**Art. 14ea.**
+
+1. W okresie stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, Dyrektor Generalny Służby Więziennej może określić, w drodze zarządzenia, czasowe cele, strukturę organizacyjną i zadania podmiotu leczniczego dla osób pozbawionych wolności, o którym mowa w art. 37 ust. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej. Wydając zarządzenie, Dyrektor Generalny Służby Więziennej powinien określić zadania podmiotów leczniczych w taki sposób, aby zapewnić osobom pozbawionym wolności dostęp do opieki medycznej.
+
+2. W przypadku określonym w ust. 1 statut podmiotu leczniczego określony na podstawie art. 42 ust. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej ulega zawieszeniu.
+
+3. W okresie stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, badaniom kontrolnym podmiotowym (wywiad chorobowy) i przedmiotowym (fizykalnym) poddaje się osobę pozbawioną wolności przed jej zwolnieniem z zakładu karnego, a osobę pozbawioną wolności przed jej przetransportowaniem tylko wtedy, gdy według oceny personelu medycznego stan zdrowia osoby pozbawionej wolności tego wymaga lub osoba pozbawiona wolności zgłasza dolegliwości zdrowotne.
+
+4. W okresie stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, lekarz podmiotu leczniczego dla osób pozbawionych wolności może udzielić porady lekarskiej oraz zlecić wykonanie badania (w tym badania kontrolnego), nie mając bezpośredniego kontaktu z pacjentem.
+
+5. W okresie stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, przygotowane przez uprawniony personel medyczny jednorazowe dawki leków, także w podmiotach zapewniających całodobową opiekę pielęgniarską, mogą być przekazane osobie pozbawionej wolności za pośrednictwem funkcjonariusza lub pracownika Służby Więziennej w sposób uniemożliwiający niewłaściwe wydanie.
 
 **Art. 14f.**
 
 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, w wypadku gdy w posiedzeniu sądu penitencjarnego bierze udział skazany pozbawiony wolności, posiedzenie to może się odbyć przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku. W miejscu przebywania skazanego w czynności tej bierze udział przedstawiciel administracji zakładu karnego lub aresztu śledczego.
 
-2. Przepisy art. 517ea ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego stosuje się odpowiednio. Art. 14fa. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, oraz w okresie roku po ich odwołaniu w sprawach rozpoznawanych według przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego o przestępstwa zagrożone karą pozbawienia wolności, której górna granica nie przekracza 5 lat, na rozprawie apelacyjnej sąd orzeka w składzie jednego sędziego, jeżeli w pierwszej instancji sąd orzekał w takim samym składzie.
+2. Przepisy art. 517ea ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego stosuje się odpowiednio.
+
+**Art. 14fa.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, oraz w okresie roku po ich odwołaniu w sprawach rozpoznawanych według przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego o przestępstwa zagrożone karą pozbawienia wolności, której górna granica nie przekracza 5 lat, na rozprawie apelacyjnej sąd orzeka w składzie jednego sędziego, jeżeli w pierwszej instancji sąd orzekał w takim samym składzie.
 
 2. Sąd orzeka na rozprawie apelacyjnej w składzie jednego sędziego również po upływie okresu, o którym mowa w ust. 1, jeżeli przewód sądowy na tej rozprawie rozpoczęto przed upływem tego okresu.
 
@@ -498,7 +522,43 @@ Art. 16–30. (pominięte)
 
 2. Funkcjonariuszowi Służby Więziennej w trakcie pełnienia służby w rozkładzie, o którym mowa w ust. 1, przysługuje przerwa w wykonywaniu zadań służbowych w wymiarze 45 minut, wliczana do czasu służby. W trakcie przerwy funkcjonariusz zachowuje gotowość do podjęcia czynności służbowych.
 
-**Art. 14h.** (utracił moc) Art. 14ha. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 zebrania rejonowe, o których mowa w art. 50 ust. 2 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166), oraz wybory odbywające się w ich trakcie mogą odbywać się w miejscu określonym przez radę okręgowej izby radców prawnych w sposób, który nie wymaga jednoczesnej obecności uprawnionych do głosowania. 1a. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 zgromadzenia izby adwokackiej, o których mowa w art. 41 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184 i 1268), Krajowy Zjazd Adwokatury oraz wybory odbywające się w ich trakcie, o których mowa w art. 11 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze, mogą odbywać się w sposób, który nie wymaga obecności w tym samym miejscu uprawnionych do udziału, przy wykorzystaniu środków komunikacji elektronicznej. 1b. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 posiedzenia Krajowej Rady Komorniczej, Krajowej Komisji Rewizyjnej i organów izb komorniczych odbywane w celach, o których mowa w rozdziale 10 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2023 r. poz. 590 i 614), oraz wybory przeprowadzane w ich trakcie mogą odbywać się w sposób, który nie wymaga obecności w tym samym miejscu uprawnionych do udziału, przy wykorzystaniu środków komunikacji elektronicznej. 2. Wybory przeprowadzone w sposób, o którym mowa w ust. 1–1b, oraz uchwały podjęte w ten sposób są ważne bez względu na to, ile osób uprawnionych do głosowania wzięło w nich udział. Wymóg powiadomienia o projekcie uchwały uważa się za spełniony w przypadku wysłania projektu na ostatni znany adres osoby uprawnionej, określony na podstawie właściwych przepisów samorządowych. 3. Sposób przeprowadzenia wyborów, o których mowa w ust. 1, a także wyborów organów samorządu radców prawnych lub wyborów osób pełniących funkcję w tych organach lub funkcję w samorządzie radców prawnych, które odbywają się w okresie stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, określa Krajowa Rada Radców Prawnych. 3a. Naczelna Rada Adwokacka określa sposób działania zgromadzeń izb adwokackich i Krajowego Zjazdu Adwokatury w okresie stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, a także sposób przeprowadzenia w tym okresie wyborów, o których mowa w ust. 1a, wyborów organów samorządu adwokackiego oraz wyborów osób pełniących funkcję w tych organach lub funkcję w samorządzie adwokackim. 3b. Krajowa Rada Komornicza określa sposób odbywania posiedzeń oraz przeprowadzania wyborów, o których mowa w ust. 1b. 4. Jeżeli w okresie, o którym mowa w ust. 1, w okręgowych izbach radców prawnych nie przeprowadzono wyborów na kolejną kadencję organów samorządu radców prawnych lub wyboru osób pełniących funkcję w tych organach lub w samorządzie radcowskim, dotychczasowe organy samorządu radców prawnych i osoby pełniące funkcje w tych organach lub w samorządzie radcowskim działają do czasu wyboru oraz ukonstytuowania się nowych organów samorządu radców prawnych lub do czasu wyboru osób do pełnienia funkcji w tych organach lub w samorządzie radcowskim, nie dłużej jednak niż przez trzy miesiące od zakończenia kadencji organów samorządu radców prawnych, z tym że nie dłużej niż do 5 października 2020 r. Przepis stosuje się odpowiednio do zastępców rzecznika dyscyplinarnego. Art. 14hb. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, kolegialne organy samorządów zawodowych, a także ich organy wykonawcze oraz inne organy wewnętrzne mogą podejmować uchwały przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość lub w trybie obiegowym. 2. Uchwała podjęta w trybie, o którym mowa w ust. 1, jest ważna, gdy wszyscy członkowie danego organu zostali powiadomieni o treści projektu uchwały i terminie oddania głosu oraz w głosowaniu wzięła udział co najmniej połowa członków tego organu. W przypadku projektu uchwały dotyczącej wyborów dokonywanych przez organy samorządów zawodowych członków danego organu powiadamia się o imieniu i nazwisku kandydatów oraz o liczbie mandatów w danych wyborach. 3. W przypadku gdy przepisy szczególne dotyczące podejmowania uchwał przez organy samorządów zawodowych wymagają podjęcia uchwały w głosowaniu tajnym, organy, o których mowa w ust. 1, mogą w trybie, o którym mowa w ust. 1, znieść wymóg tajności głosowania w określonej sprawie. 4. Uchwałę podjętą w trybie, o którym mowa w ust. 1, podpisuje przewodniczący organu kolegialnego albo inny upoważniony przez niego członek tego organu biorący udział w głosowaniu. Art. 14hc. 1. Aplikanta adwokackiego i radcowskiego, który złożył wniosek o dopuszczenie do egzaminów adwokackiego albo radcowskiego, wyznaczonych na dni 24–27 marca 2020 r., oraz spełnił przesłanki udziału w danym egzaminie i niezależnie od przyczyny nie przystąpił do egzaminu w terminie dodatkowym w dniach 23–26 czerwca 2020 r., odpowiednio okręgowa rada adwokacka albo rada okręgowej izby radców prawnych skreśla z listy aplikantów po upływie dwóch lat od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji adwokackiej albo radcowskiej. Przepisy art. 68 ust. 5–7 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i art. 31 ust. 1–3 ustawy z dnia 6 lipca 1982 r. o radcach prawnych stosuje się odpowiednio. 2. Aplikant adwokacki i radcowski, o którym mowa w ust. 1, może zastępować adwokata lub radcę prawnego w zakresie, o którym mowa w art. 77 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i art. 35 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych, przez okres dwóch lat od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji adwokackiej albo radcowskiej. Przepisy art. 77 ust. 3–5 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i art. 35 ust. 3–5 ustawy z dnia 6 lipca 1982 r. o radcach prawnych stosuje się odpowiednio. 3. Do aplikanta adwokackiego i radcowskiego, o którym mowa w ust. 1, nie ma zastosowania art. 79 ust. 1 pkt 4 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i art. 37 ust. 1 pkt 4 ustawy z dnia 6 lipca 1982 r. o radcach prawnych.
+**Art. 14h.** (utracił moc)
+
+**Art. 14ha.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 zebrania rejonowe, o których mowa w art. 50 ust. 2 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166), oraz wybory odbywające się w ich trakcie mogą odbywać się w miejscu określonym przez radę okręgowej izby radców prawnych w sposób, który nie wymaga jednoczesnej obecności uprawnionych do głosowania.
+
+1a. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 zgromadzenia izby adwokackiej, o których mowa w art. 41 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184 i 1268), Krajowy Zjazd Adwokatury oraz wybory odbywające się w ich trakcie, o których mowa w art. 11 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze, mogą odbywać się w sposób, który nie wymaga obecności w tym samym miejscu uprawnionych do udziału, przy wykorzystaniu środków komunikacji elektronicznej.
+
+1b. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 posiedzenia Krajowej Rady Komorniczej, Krajowej Komisji Rewizyjnej i organów izb komorniczych odbywane w celach, o których mowa w rozdziale 10 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2023 r. poz. 590 i 614), oraz wybory przeprowadzane w ich trakcie mogą odbywać się w sposób, który nie wymaga obecności w tym samym miejscu uprawnionych do udziału, przy wykorzystaniu środków komunikacji elektronicznej.
+
+2. Wybory przeprowadzone w sposób, o którym mowa w ust. 1–1b, oraz uchwały podjęte w ten sposób są ważne bez względu na to, ile osób uprawnionych do głosowania wzięło w nich udział. Wymóg powiadomienia o projekcie uchwały uważa się za spełniony w przypadku wysłania projektu na ostatni znany adres osoby uprawnionej, określony na podstawie właściwych przepisów samorządowych.
+
+3. Sposób przeprowadzenia wyborów, o których mowa w ust. 1, a także wyborów organów samorządu radców prawnych lub wyborów osób pełniących funkcję w tych organach lub funkcję w samorządzie radców prawnych, które odbywają się w okresie stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, określa Krajowa Rada Radców Prawnych.
+
+3a. Naczelna Rada Adwokacka określa sposób działania zgromadzeń izb adwokackich i Krajowego Zjazdu Adwokatury w okresie stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, a także sposób przeprowadzenia w tym okresie wyborów, o których mowa w ust. 1a, wyborów organów samorządu adwokackiego oraz wyborów osób pełniących funkcję w tych organach lub funkcję w samorządzie adwokackim.
+
+3b. Krajowa Rada Komornicza określa sposób odbywania posiedzeń oraz przeprowadzania wyborów, o których mowa w ust. 1b.
+
+4. Jeżeli w okresie, o którym mowa w ust. 1, w okręgowych izbach radców prawnych nie przeprowadzono wyborów na kolejną kadencję organów samorządu radców prawnych lub wyboru osób pełniących funkcję w tych organach lub w samorządzie radcowskim, dotychczasowe organy samorządu radców prawnych i osoby pełniące funkcje w tych organach lub w samorządzie radcowskim działają do czasu wyboru oraz ukonstytuowania się nowych organów samorządu radców prawnych lub do czasu wyboru osób do pełnienia funkcji w tych organach lub w samorządzie radcowskim, nie dłużej jednak niż przez trzy miesiące od zakończenia kadencji organów samorządu radców prawnych, z tym że nie dłużej niż do 5 października 2020 r. Przepis stosuje się odpowiednio do zastępców rzecznika dyscyplinarnego.
+
+**Art. 14hb.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, kolegialne organy samorządów zawodowych, a także ich organy wykonawcze oraz inne organy wewnętrzne mogą podejmować uchwały przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość lub w trybie obiegowym.
+
+2. Uchwała podjęta w trybie, o którym mowa w ust. 1, jest ważna, gdy wszyscy członkowie danego organu zostali powiadomieni o treści projektu uchwały i terminie oddania głosu oraz w głosowaniu wzięła udział co najmniej połowa członków tego organu. W przypadku projektu uchwały dotyczącej wyborów dokonywanych przez organy samorządów zawodowych członków danego organu powiadamia się o imieniu i nazwisku kandydatów oraz o liczbie mandatów w danych wyborach.
+
+3. W przypadku gdy przepisy szczególne dotyczące podejmowania uchwał przez organy samorządów zawodowych wymagają podjęcia uchwały w głosowaniu tajnym, organy, o których mowa w ust. 1, mogą w trybie, o którym mowa w ust. 1, znieść wymóg tajności głosowania w określonej sprawie.
+
+4. Uchwałę podjętą w trybie, o którym mowa w ust. 1, podpisuje przewodniczący organu kolegialnego albo inny upoważniony przez niego członek tego organu biorący udział w głosowaniu.
+
+**Art. 14hc.**
+
+1. Aplikanta adwokackiego i radcowskiego, który złożył wniosek o dopuszczenie do egzaminów adwokackiego albo radcowskiego, wyznaczonych na dni 24–27 marca 2020 r., oraz spełnił przesłanki udziału w danym egzaminie i niezależnie od przyczyny nie przystąpił do egzaminu w terminie dodatkowym w dniach 23–26 czerwca 2020 r., odpowiednio okręgowa rada adwokacka albo rada okręgowej izby radców prawnych skreśla z listy aplikantów po upływie dwóch lat od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji adwokackiej albo radcowskiej. Przepisy art. 68 ust. 5–7 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i art. 31 ust. 1–3 ustawy z dnia 6 lipca 1982 r. o radcach prawnych stosuje się odpowiednio.
+
+2. Aplikant adwokacki i radcowski, o którym mowa w ust. 1, może zastępować adwokata lub radcę prawnego w zakresie, o którym mowa w art. 77 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i art. 35 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych, przez okres dwóch lat od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji adwokackiej albo radcowskiej. Przepisy art. 77 ust. 3–5 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i art. 35 ust. 3–5 ustawy z dnia 6 lipca 1982 r. o radcach prawnych stosuje się odpowiednio.
+
+3. Do aplikanta adwokackiego i radcowskiego, o którym mowa w ust. 1, nie ma zastosowania art. 79 ust. 1 pkt 4 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i art. 37 ust. 1 pkt 4 ustawy z dnia 6 lipca 1982 r. o radcach prawnych.
 
 **Art. 14i.**
 
@@ -569,7 +629,9 @@ Art. 16–30. (pominięte)
 - **1)** zawieszenia zajęć, o którym mowa w ust. 1;
 - **2)** nieobecności spowodowanej poddaniem się obowiązkowej kwarantannie lub izolacji w warunkach domowych, o której mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.
 
-4. W przypadku zawieszenia zajęć, o którym mowa w ust. 1, trwającego łącznie dłużej niż 3 miesiące, kierownik centrum integracji społecznej, na wniosek lub po zasięgnięciu opinii pracownika socjalnego centrum integracji społecznej, może przedłużyć okres uczestnictwa w zajęciach w centrum integracji społecznej o okres tego zawieszenia. Za przedłużony okres uczestnictwa przysługuje świadczenie integracyjne na zasadach określonych w ust. 3 oraz w art. 15 ust. 4–7a ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym. Art. 15ca. W związku z przeciwdziałaniem COVID-19 dopuszcza się obniżenie lub podwyższenie czasu dziennego pobytu uczestnika w centrum integracji społecznej, z tym że tygodniowy czas tego pobytu nie może być krótszy niż 30 godzin.
+4. W przypadku zawieszenia zajęć, o którym mowa w ust. 1, trwającego łącznie dłużej niż 3 miesiące, kierownik centrum integracji społecznej, na wniosek lub po zasięgnięciu opinii pracownika socjalnego centrum integracji społecznej, może przedłużyć okres uczestnictwa w zajęciach w centrum integracji społecznej o okres tego zawieszenia. Za przedłużony okres uczestnictwa przysługuje świadczenie integracyjne na zasadach określonych w ust. 3 oraz w art. 15 ust. 4–7a ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym.
+
+**Art. 15ca.** W związku z przeciwdziałaniem COVID-19 dopuszcza się obniżenie lub podwyższenie czasu dziennego pobytu uczestnika w centrum integracji społecznej, z tym że tygodniowy czas tego pobytu nie może być krótszy niż 30 godzin.
 
 **Art. 15d.**
 
@@ -579,9 +641,15 @@ Art. 16–30. (pominięte)
 
 3. Wysokość miesięcznej kwoty dotacji z budżetu państwa na pokrycie bieżących kosztów prowadzenia klubu samopomocy w sytuacji, o której mowa w ust. 1, jest obliczana jako iloczyn statutowej liczby miejsc w klubie oraz średniej miesięcznej kwoty dotacji wyliczonej dla województwa, zgodnie z art. 51c ust. 3 pkt 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
 
-4. W przypadku, o którym mowa w ust. 1, osoby ponoszące odpłatność za usługi świadczone w ośrodkach wsparcia dla osób z zaburzeniami psychicznymi, o których mowa w art. 51a ustawy z dnia 12 marca 2004 r. o pomocy społecznej, zwalnia się na ich wniosek z odpłatności za okres niekorzystania z tych usług w związku z zawieszeniem lub czasowym zamknięciem działalności tych ośrodków, na zasadach i w trybie określonych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej, bez konieczności przeprowadzania rodzinnego wywiadu środowiskowego. Art. 15da. W związku z przeciwdziałaniem negatywnym skutkom COVID-19 przy wyliczaniu średniego miesięcznego kosztu utrzymania w domu pomocy społecznej, o którym mowa w art. 6 pkt 15 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, na rok 2021, nie uwzględnia się wydatków i kosztów, które zostały pokryte ze środków finansowych pochodzących z programów finansowanych z udziałem środków europejskich, programów krajowych lub dotacji celowych z budżetu państwa udzielonych na podstawie art. 115 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
+4. W przypadku, o którym mowa w ust. 1, osoby ponoszące odpłatność za usługi świadczone w ośrodkach wsparcia dla osób z zaburzeniami psychicznymi, o których mowa w art. 51a ustawy z dnia 12 marca 2004 r. o pomocy społecznej, zwalnia się na ich wniosek z odpłatności za okres niekorzystania z tych usług w związku z zawieszeniem lub czasowym zamknięciem działalności tych ośrodków, na zasadach i w trybie określonych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej, bez konieczności przeprowadzania rodzinnego wywiadu środowiskowego.
 
-**Art. 15e.** W przypadku czasowego ograniczenia lub czasowego zawieszenia funkcjonowania żłobka, klubu dziecięcego lub dziennego opiekuna w celu przeciwdziałania COVID-19, otrzymane na zapewnienie funkcjonowania tego żłobka, klubu dziecięcego lub dziennego opiekuna dotacje celowe z budżetu państwa oraz środki z Funduszu Pracy przyznane na realizację programów, o których mowa w art. 62 ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2024 r. poz. 338, 743 i 858 oraz z 2025 r. poz. 620) nie podlegają zwrotowi. Art. 15ea. 1. Na wniosek świadczeniodawcy zobowiązanie wynikające z kwot wypłaconych zgodnie z przepisami wydanymi na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych świadczeniodawcy realizującemu umowę o udzielanie świadczeń opieki zdrowotnej:
+**Art. 15da.** W związku z przeciwdziałaniem negatywnym skutkom COVID-19 przy wyliczaniu średniego miesięcznego kosztu utrzymania w domu pomocy społecznej, o którym mowa w art. 6 pkt 15 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, na rok 2021, nie uwzględnia się wydatków i kosztów, które zostały pokryte ze środków finansowych pochodzących z programów finansowanych z udziałem środków europejskich, programów krajowych lub dotacji celowych z budżetu państwa udzielonych na podstawie art. 115 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
+
+**Art. 15e.** W przypadku czasowego ograniczenia lub czasowego zawieszenia funkcjonowania żłobka, klubu dziecięcego lub dziennego opiekuna w celu przeciwdziałania COVID-19, otrzymane na zapewnienie funkcjonowania tego żłobka, klubu dziecięcego lub dziennego opiekuna dotacje celowe z budżetu państwa oraz środki z Funduszu Pracy przyznane na realizację programów, o których mowa w art. 62 ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2024 r. poz. 338, 743 i 858 oraz z 2025 r. poz. 620) nie podlegają zwrotowi.
+
+**Art. 15ea.**
+
+1. Na wniosek świadczeniodawcy zobowiązanie wynikające z kwot wypłaconych zgodnie z przepisami wydanymi na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych świadczeniodawcy realizującemu umowę o udzielanie świadczeń opieki zdrowotnej:
 
 - **1)** w rodzaju leczenie uzdrowiskowe:
     - **a)** za okresy od dnia 14 marca 2020 r. do dnia 14 czerwca 2020 r. i od dnia 24 października 2020 r. do dnia 10 marca 2021 r.,
@@ -712,7 +780,15 @@ Art. 16–30. (pominięte)
 
 20. Zadania organów administracji wynikające z ust. 1 realizują dyrektorzy wojewódzkich urzędów pracy.
 
-**Art. 15g¹.** Przepisy art. 15g stosuje się do spółek wodnych, o których mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473 oraz z 2025 r. poz. 216). Art. 15ga. 1. Osobie prawnej, jednostce organizacyjnej nieposiadającej osobowości prawnej, której ustawa przyznaje zdolność prawną, lub osobie fizycznej, której przysługuje tytuł prawny do zabytku o statusie pomnika historii w rozumieniu przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami lub zabytku wpisanego na Listę dziedzictwa światowego, o której mowa w art. 11 ust. 2 Konwencji w sprawie ochrony światowego dziedzictwa kulturalnego i naturalnego, przyjętej w Paryżu dnia 16 listopada 1972 r. przez Konferencję Generalną Organizacji Narodów Zjednoczonych dla Wychowania, Nauki i Kultury na jej siedemnastej sesji (Dz. U. z 1976 r. poz. 190), przysługuje, na jej wniosek, dofinansowanie do wynagrodzeń pracowników zatrudnionych przez tę osobę lub jednostkę organizacyjną, nieprzerwanie w okresie nie krótszym niż przez 3 miesiące bezpośrednio poprzedzające ogłoszenie stanu zagrożenia epidemicznego, którzy wykonują czynności zawodowe dotyczące zabytku lub infrastruktury z nim związanej. 2. Przepis ust. 1 stosuje się odpowiednio do osób zatrudnionych na podstawie umowy o pracę nakładczą, umowy o dzieło, umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące umowy zlecenia. 3. Dofinansowanie przysługuje podmiotowi, o którym mowa w ust. 1, jeżeli:
+**Art. 15g¹.** Przepisy art. 15g stosuje się do spółek wodnych, o których mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473 oraz z 2025 r. poz. 216).
+
+**Art. 15ga.**
+
+1. Osobie prawnej, jednostce organizacyjnej nieposiadającej osobowości prawnej, której ustawa przyznaje zdolność prawną, lub osobie fizycznej, której przysługuje tytuł prawny do zabytku o statusie pomnika historii w rozumieniu przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami lub zabytku wpisanego na Listę dziedzictwa światowego, o której mowa w art. 11 ust. 2 Konwencji w sprawie ochrony światowego dziedzictwa kulturalnego i naturalnego, przyjętej w Paryżu dnia 16 listopada 1972 r. przez Konferencję Generalną Organizacji Narodów Zjednoczonych dla Wychowania, Nauki i Kultury na jej siedemnastej sesji (Dz. U. z 1976 r. poz. 190), przysługuje, na jej wniosek, dofinansowanie do wynagrodzeń pracowników zatrudnionych przez tę osobę lub jednostkę organizacyjną, nieprzerwanie w okresie nie krótszym niż przez 3 miesiące bezpośrednio poprzedzające ogłoszenie stanu zagrożenia epidemicznego, którzy wykonują czynności zawodowe dotyczące zabytku lub infrastruktury z nim związanej.
+
+2. Przepis ust. 1 stosuje się odpowiednio do osób zatrudnionych na podstawie umowy o pracę nakładczą, umowy o dzieło, umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące umowy zlecenia.
+
+3. Dofinansowanie przysługuje podmiotowi, o którym mowa w ust. 1, jeżeli:
 
 - **1)** na dzień ogłoszenia stanu zagrożenia epidemicznego oraz na dzień złożenia wniosku, o którym mowa w ust. 9, zatrudnia co najmniej 50 pracowników;
 - **2)** w następstwie ograniczeń związanych z ogłoszeniem stanu zagrożenia epidemicznego lub stanu epidemii spadły dochody podmiotu uzyskiwane w związku z funkcjonowaniem zabytku;
@@ -750,7 +826,11 @@ Art. 16–30. (pominięte)
 
 14. Dyrektor wojewódzkiego urzędu pracy może przeprowadzać kontrolę w podmiotach, o których mowa w ust. 1, w zakresie wydatkowania środków Funduszu na wypłatę świadczeń zgodnie z przeznaczeniem i w tym celu może żądać okazania wszelkiej dokumentacji z tym związanej oraz żądać złożenia stosownych wyjaśnień.
 
-15. Dyrektor wojewódzkiego urzędu pracy może udzielić dofinansowania, o którym mowa w ust. 1, w stosunku do przedsiębiorców, zgodnie z zasadami udzielania pomocy de minimis, określonymi we właściwych przepisach prawa Unii Europejskiej, dotyczących pomocy de minimis. Art. 15gb. 1. Pracodawca, o którym mowa w art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, u którego wystąpił spadek przychodów ze sprzedaży towarów lub usług w następstwie wystąpienia COVID-19 i w związku z tym wystąpił istotny wzrost obciążenia funduszu wynagrodzeń, może:
+15. Dyrektor wojewódzkiego urzędu pracy może udzielić dofinansowania, o którym mowa w ust. 1, w stosunku do przedsiębiorców, zgodnie z zasadami udzielania pomocy de minimis, określonymi we właściwych przepisach prawa Unii Europejskiej, dotyczących pomocy de minimis.
+
+**Art. 15gb.**
+
+1. Pracodawca, o którym mowa w art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, u którego wystąpił spadek przychodów ze sprzedaży towarów lub usług w następstwie wystąpienia COVID-19 i w związku z tym wystąpił istotny wzrost obciążenia funduszu wynagrodzeń, może:
 
 - **1)** obniżyć wymiar czasu pracy pracownika, o którym mowa w art. 15g ust. 4, maksymalnie o 20 %, nie więcej niż do 0,5 etatu, z zastrzeżeniem, że wynagrodzenie nie może być niższe niż minimalne wynagrodzenie za pracę ustalane na podstawie przepisów o minimalnym wynagrodzeniu za pracę, z uwzględnieniem wymiaru czasu pracy pracownika przed jego obniżeniem;
 - **2)** objąć pracownika przestojem ekonomicznym, z zastrzeżeniem, że pracownikowi objętemu przestojem ekonomicznym pracodawca wypłaca wynagrodzenie obniżone nie więcej niż o 50 %, nie niższe jednak niż w wysokości minimalnego wynagrodzenia za pracę ustalanego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, z uwzględnieniem wymiaru czasu pracy.
@@ -768,9 +848,19 @@ Art. 16–30. (pominięte)
 
 6. Warunki i tryb wykonywania pracy w okresie przestoju ekonomicznego lub obniżonego wymiaru czasu pracy ustala się w porozumieniu. Przepisy art. 15g ust. 11– 15 stosuje się odpowiednio.
 
-7. Obniżenie czasu pracy albo objęcie pracownika przestojem ekonomicznym, o których mowa w ust. 1, nie wyklucza możliwości złożenia wniosku o dofinansowanie, o którym mowa w art. 15g ust. 1, jeżeli spełnione są przesłanki, o których mowa w tym przepisie. Art. 15gc. W okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, ogłoszonego z powodu COVID-19, pracodawca może udzielić pracownikowi, w terminie przez siebie wskazanym, bez uzyskania zgody pracownika i z pominięciem planu urlopów, urlopu wypoczynkowego niewykorzystanego przez pracownika w poprzednich latach kalendarzowych, w wymiarze do 30 dni urlopu, a pracownik jest obowiązany taki urlop wykorzystać. Art. 15gd. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, w przypadku wystąpienia u pracodawcy w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy spadku obrotów gospodarczych, o którym mowa w art. 15g ust. 9, lub istotnego wzrostu obciążenia funduszu wynagrodzeń, o którym mowa w art. 15gb ust. 2, wysokość odprawy, odszkodowania lub innego świadczenia pieniężnego wypłacanego przez tego pracodawcę pracownikowi w związku z rozwiązaniem umowy o pracę, jeżeli przepisy przewidują obowiązek wypłacenia świadczenia, nie może przekroczyć dziesięciokrotności minimalnego wynagrodzenia za pracę ustalanego na podstawie przepisów o minimalnym wynagrodzeniu za pracę.
+7. Obniżenie czasu pracy albo objęcie pracownika przestojem ekonomicznym, o których mowa w ust. 1, nie wyklucza możliwości złożenia wniosku o dofinansowanie, o którym mowa w art. 15g ust. 1, jeżeli spełnione są przesłanki, o których mowa w tym przepisie.
 
-2. Przepis ust. 1 stosuje się odpowiednio w przypadku wypowiedzenia albo rozwiązania umowy zlecenia, innej umowy o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące zlecenia, umowy o dzieło albo w związku z ustaniem odpłatnego pełnienia funkcji, z wyłączeniem umowy agencyjnej. Art. 15ge. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, w przypadku wystąpienia u pracodawcy w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, spadku obrotów gospodarczych, o którym mowa w art. 15g ust. 9, lub istotnego wzrostu obciążenia funduszu wynagrodzeń, o którym mowa w art. 15gb ust. 2, pracodawca może zawiesić obowiązki:
+**Art. 15gc.** W okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, ogłoszonego z powodu COVID-19, pracodawca może udzielić pracownikowi, w terminie przez siebie wskazanym, bez uzyskania zgody pracownika i z pominięciem planu urlopów, urlopu wypoczynkowego niewykorzystanego przez pracownika w poprzednich latach kalendarzowych, w wymiarze do 30 dni urlopu, a pracownik jest obowiązany taki urlop wykorzystać.
+
+**Art. 15gd.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, w przypadku wystąpienia u pracodawcy w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy spadku obrotów gospodarczych, o którym mowa w art. 15g ust. 9, lub istotnego wzrostu obciążenia funduszu wynagrodzeń, o którym mowa w art. 15gb ust. 2, wysokość odprawy, odszkodowania lub innego świadczenia pieniężnego wypłacanego przez tego pracodawcę pracownikowi w związku z rozwiązaniem umowy o pracę, jeżeli przepisy przewidują obowiązek wypłacenia świadczenia, nie może przekroczyć dziesięciokrotności minimalnego wynagrodzenia za pracę ustalanego na podstawie przepisów o minimalnym wynagrodzeniu za pracę.
+
+2. Przepis ust. 1 stosuje się odpowiednio w przypadku wypowiedzenia albo rozwiązania umowy zlecenia, innej umowy o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące zlecenia, umowy o dzieło albo w związku z ustaniem odpłatnego pełnienia funkcji, z wyłączeniem umowy agencyjnej.
+
+**Art. 15ge.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, w przypadku wystąpienia u pracodawcy w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, spadku obrotów gospodarczych, o którym mowa w art. 15g ust. 9, lub istotnego wzrostu obciążenia funduszu wynagrodzeń, o którym mowa w art. 15gb ust. 2, pracodawca może zawiesić obowiązki:
 
 - **1)** tworzenia lub funkcjonowania zakładowego funduszu świadczeń socjalnych,
 - **2)** dokonywania odpisu podstawowego,
@@ -778,13 +868,20 @@ Art. 16–30. (pominięte)
 
 2. Jeżeli u pracodawcy, o którym mowa w ust. 1, działają organizacje związkowe reprezentatywne, o których mowa w art. 15g ust. 11 pkt 1 albo 2, zawieszenie obowiązków, o których mowa w ust. 1, następuje w porozumieniu z tymi organizacjami związkowymi.
 
-3. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, w przypadku wystąpienia u pracodawcy w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, spadku obrotów gospodarczych, o którym mowa w art. 15g ust. 9, lub istotnego wzrostu obciążenia funduszu wynagrodzeń, o którym mowa w art. 15gb ust. 2, nie stosuje się postanowień układów zbiorowych pracy lub regulaminów wynagradzania, wprowadzonych na podstawie art. 4 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych, ustalających wyższą wysokość odpisu na zakładowy fundusz świadczeń socjalnych oraz inne świadczenia o charakterze socjalno-bytowym niż określa ta ustawa. W takim przypadku stosuje się wysokość odpisu na ten fundusz określoną w tej ustawie. Art. 15gf. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, strony umowy o zakazie konkurencji obowiązującym po ustaniu:
+3. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, w przypadku wystąpienia u pracodawcy w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, spadku obrotów gospodarczych, o którym mowa w art. 15g ust. 9, lub istotnego wzrostu obciążenia funduszu wynagrodzeń, o którym mowa w art. 15gb ust. 2, nie stosuje się postanowień układów zbiorowych pracy lub regulaminów wynagradzania, wprowadzonych na podstawie art. 4 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych, ustalających wyższą wysokość odpisu na zakładowy fundusz świadczeń socjalnych oraz inne świadczenia o charakterze socjalno-bytowym niż określa ta ustawa. W takim przypadku stosuje się wysokość odpisu na ten fundusz określoną w tej ustawie.
+
+**Art. 15gf.** W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, strony umowy o zakazie konkurencji obowiązującym po ustaniu:
 
 - **1)** stosunku pracy,
 - **2)** umowy agencyjnej,
 - **3)** umowy zlecenia,
 - **4)** innej umowy o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące zlecenia,
-- **5)** umowy o dzieło – na rzecz których ustanowiono zakaz działalności konkurencyjnej, mogą ją wypowiedzieć z zachowaniem terminu 7 dni. Art. 15gg. 1. Podmioty, o których mowa w art. 15g ust. 1, u których wystąpił spadek obrotów gospodarczych w rozumieniu art. 15g ust. 9, w następstwie wystąpienia COVID-19, mogą zwrócić się z wnioskiem do dyrektora wojewódzkiego urzędu pracy, właściwego ze względu na swoją siedzibę, o przyznanie świadczeń na rzecz ochrony miejsc pracy, ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych, na dofinansowanie wynagrodzenia pracowników, o których mowa w art. 15g ust. 4, nieobjętych:
+- **5)** umowy o dzieło – na rzecz których ustanowiono zakaz działalności konkurencyjnej, mogą ją wypowiedzieć z zachowaniem terminu 7 dni.
+
+**Art. 15gg.**
+
+1. Podmioty, o których mowa w art. 15g ust. 1, u których wystąpił spadek obrotów gospodarczych w rozumieniu art. 15g ust. 9, w następstwie wystąpienia COVID-19, mogą zwrócić się z wnioskiem do dyrektora wojewódzkiego urzędu pracy, właściwego ze względu na swoją siedzibę, o przyznanie świadczeń na rzecz ochrony miejsc pracy, ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych, na dofinansowanie wynagrodzenia pracowników, o których mowa w art. 15g ust. 4, nieobjętych:
+
 - **1)** przestojem, o którym mowa w art. 81 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, lub
 - **2)** przestojem ekonomicznym w następstwie wystąpienia COVID-19, o którym mowa w art. 15g ust. 5, lub
 - **3)** obniżonym wymiarem czasu pracy w następstwie wystąpienia COVID-19, o którym mowa w art. 15g ust. 5.
@@ -867,7 +964,11 @@ Art. 16–30. (pominięte)
 - **1)** odmowie przyznania świadczeń, o których mowa w ust. 1 lub środków, o których mowa w ust. 2;
 - **2)** obowiązku zwrotu świadczeń, o których mowa w ust. 1, lub środków, o których mowa w ust. 2.
 
-29. Należności do zwrotu podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji. Art. 15gga. 1. Przedsiębiorca w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, który na dzień 30 września 2020 r. prowadził działalność gospodarczą, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.71.Z,
+29. Należności do zwrotu podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+**Art. 15gga.**
+
+1. Przedsiębiorca w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, który na dzień 30 września 2020 r. prowadził działalność gospodarczą, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.71.Z,
 
 47. 72.Z, 47.81.Z, 47.82.Z, 47.89.Z, 49.39.Z, 56.10.A, 56.10.B, 56.21.Z, 56.29.Z,
 
@@ -948,7 +1049,11 @@ Art. 16–30. (pominięte)
 
 25. Przychód z tytułu świadczeń na rzecz ochrony miejsc pracy nie stanowi dla przedsiębiorcy przychodu w rozumieniu przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych.
 
-26. Wnioski o przyznanie świadczeń na rzecz ochrony miejsc pracy mogą być składane do dnia 28 lutego 2021 r. Art. 15gga 1 . 1. Przedsiębiorca w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, który na dzień 30 września 2020 r. prowadził działalność gospodarczą polegającą na sprzedaży środków spożywczych, papierniczych i piśmienniczych na rzecz uczniów, słuchaczy lub wychowanków na terenie jednostek systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.11.Z albo 47.19.Z, może zwrócić się z wnioskiem o przyznanie świadczeń na rzecz ochrony miejsc pracy ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych, na dofinansowanie wynagrodzenia pracowników. Przepis art. 15gga stosuje się, z uwzględnieniem przepisów ust. 2–8.
+26. Wnioski o przyznanie świadczeń na rzecz ochrony miejsc pracy mogą być składane do dnia 28 lutego 2021 r.
+
+**Art. 15gga¹.**
+
+1. Przedsiębiorca w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, który na dzień 30 września 2020 r. prowadził działalność gospodarczą polegającą na sprzedaży środków spożywczych, papierniczych i piśmienniczych na rzecz uczniów, słuchaczy lub wychowanków na terenie jednostek systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.11.Z albo 47.19.Z, może zwrócić się z wnioskiem o przyznanie świadczeń na rzecz ochrony miejsc pracy ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych, na dofinansowanie wynagrodzenia pracowników. Przepis art. 15gga stosuje się, z uwzględnieniem przepisów ust. 2–8.
 
 2. Oceny spełnienia warunku, o którym mowa w ust. 1, w zakresie oznaczenia prowadzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) 2007 dokonuje się na podstawie danych zawartych w rejestrze REGON w brzmieniu na dzień 30 września 2020 r.
 
@@ -966,7 +1071,11 @@ Art. 16–30. (pominięte)
 
 7. Przedsiębiorca, który złożył przynajmniej jedno z oświadczeń, o których mowa w ust. 4 i art. 15gga ust. 6 pkt 4–7, niezgodnie ze stanem faktycznym lub nie poddał się kontroli, jest obowiązany do zwrotu całości otrzymanej pomocy wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków.
 
-8. Wnioski o przyznanie świadczeń na rzecz ochrony miejsc pracy mogą być składane do dnia 30 września 2021 r. Art. 15ggb. 1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, przyznać ponowną wypłatę świadczeń na rzecz ochrony miejsc pracy, o których mowa w art. 15gga ust. 1 albo art. 15gga ust. 1, dla wszystkich albo niektórych przedsiębiorców, którzy otrzymali to świadczenie na podstawie art. 15gga ust. 1 albo art. 15gga ust. 1, lub przyznać to świadczenie innym przedsiębiorcom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
+8. Wnioski o przyznanie świadczeń na rzecz ochrony miejsc pracy mogą być składane do dnia 30 września 2021 r.
+
+**Art. 15ggb.**
+
+1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, przyznać ponowną wypłatę świadczeń na rzecz ochrony miejsc pracy, o których mowa w art. 15gga ust. 1 albo art. 15gga ust. 1, dla wszystkich albo niektórych przedsiębiorców, którzy otrzymali to świadczenie na podstawie art. 15gga ust. 1 albo art. 15gga ust. 1, lub przyznać to świadczenie innym przedsiębiorcom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
 
 2. Rozporządzenie, o którym mowa w ust. 1, może ustalać krąg przedsiębiorców, którym przysługują świadczenia na rzecz ochrony miejsc pracy, poprzez określenie:
 
@@ -977,17 +1086,29 @@ Art. 16–30. (pominięte)
 
 - **1)** inną niż wskazana w przepisie art. 15gga ust. 6 pkt 2, 3 i 7 lub art. 15gga ust. 4 treść oświadczeń;
 - **2)** inny niż wskazany w przepisie art. 15gga ust. 26 lub art. 15gga ust. 8 termin składania wniosków o przyznanie świadczeń na rzecz ochrony miejsc pracy;
-- **3)** inny niż wskazany w przepisie art. 15gga ust. 11 okres przysługiwania dofinansowania. Art. 15gh. 1. Wnioski o przyznanie świadczeń na dofinansowanie wynagrodzeń pracowników, o których mowa w art. 15g, art. 15ga i art. 15gg, mogą być składane do dnia 10 czerwca 2021 r.
+- **3)** inny niż wskazany w przepisie art. 15gga ust. 11 okres przysługiwania dofinansowania.
+
+**Art. 15gh.**
+
+1. Wnioski o przyznanie świadczeń na dofinansowanie wynagrodzeń pracowników, o których mowa w art. 15g, art. 15ga i art. 15gg, mogą być składane do dnia 10 czerwca 2021 r.
 
 2. Dofinansowanie do wynagrodzeń pracowników, o których mowa w art. 15g, art. 15ga i art. 15gg, może być udzielane do dnia 30 czerwca 2021 r.
 
 3. Na podstawie wniosków, o których mowa w ust. 1, rozpatrzonych do dnia 30 czerwca 2021 r., możliwe jest dokonanie wypłaty dofinansowania po tym terminie, nie później niż do dnia 31 marca 2022 r.
 
-4. Wnioski, o których mowa w ust. 1, nierozpatrzone do dnia 30 czerwca 2021 r. mogą być rozpatrzone, a kwota dofinansowania może być wypłacona w terminie do dnia 31 marca 2022 r. Art. 15gi. W okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, nie stosuje się przepisów art. 28 ust. 2–4 ustawy z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy. Art. 15gj. 1. Do umarzania, odraczania terminów lub rozkładania na raty spłat należności powstałych w związku z udzieleniem pomocy na podstawie art. 15g, art. 15g , art. 15ga, art. 15gg, art. 15gga i art. 15gga stosuje się odpowiednio przepisy art. 55–57 i art. 58 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+4. Wnioski, o których mowa w ust. 1, nierozpatrzone do dnia 30 czerwca 2021 r. mogą być rozpatrzone, a kwota dofinansowania może być wypłacona w terminie do dnia 31 marca 2022 r.
+
+**Art. 15gi.** W okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, nie stosuje się przepisów art. 28 ust. 2–4 ustawy z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy.
+
+**Art. 15gj.**
+
+1. Do umarzania, odraczania terminów lub rozkładania na raty spłat należności powstałych w związku z udzieleniem pomocy na podstawie art. 15g, art. 15g , art. 15ga, art. 15gg, art. 15gga i art. 15gga stosuje się odpowiednio przepisy art. 55–57 i art. 58 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 2. Dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokonuje umorzenia, o którym mowa w art. 56 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, na podstawie wniosku sporządzonego przez dyrektora wojewódzkiego urzędu pracy.
 
-3. Dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokonuje umorzenia, odroczenia terminu lub rozłożenia na raty, o których mowa w art. 57 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, na podstawie wniosku dłużnika, przekazanego i zaopiniowanego przez dyrektora wojewódzkiego urzędu pracy. Art. 15gk. Dyrektor wojewódzkiego urzędu pracy nie ma obowiązku uiszczania kosztów sądowych w sprawach dotyczących wypłaty lub zwrotu świadczeń lub środków, o których mowa w art. 15g ust. 1–2, art. 15gga i art. 15gga .
+3. Dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokonuje umorzenia, odroczenia terminu lub rozłożenia na raty, o których mowa w art. 57 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, na podstawie wniosku dłużnika, przekazanego i zaopiniowanego przez dyrektora wojewódzkiego urzędu pracy.
+
+**Art. 15gk.** Dyrektor wojewódzkiego urzędu pracy nie ma obowiązku uiszczania kosztów sądowych w sprawach dotyczących wypłaty lub zwrotu świadczeń lub środków, o których mowa w art. 15g ust. 1–2, art. 15gga i art. 15gga .
 
 **Art. 15h.** (uchylony)
 
@@ -1007,12 +1128,22 @@ Art. 16–30. (pominięte)
 
 4. (uchylony)
 
-5. (uchylony) Art. 15ja. Opłata roczna z tytułu użytkowania wieczystego nieruchomości stanowiącej własność Skarbu Państwa, w odniesieniu do której organem reprezentującym Skarb Państwa jest starosta lub prezydent miasta na prawach powiatu, wykonujący zadania z zakresu administracji rządowej, wykorzystywanej do prowadzenia działalności gospodarczej, należna za 2020 r. od przedsiębiorcy w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, organizacji pozarządowej w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, podmiotu, o którym mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz państwowej osoby prawnej w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, u których wystąpił spadek obrotów gospodarczych w następstwie wystąpienia COVID-19, podlega pomniejszeniu proporcjonalnie do liczby dni w tym roku, w których obowiązywał stan zagrożenia epidemicznego oraz stan epidemii z powodu COVID-19, pod warunkiem:
+5. (uchylony)
+
+**Art. 15ja.** Opłata roczna z tytułu użytkowania wieczystego nieruchomości stanowiącej własność Skarbu Państwa, w odniesieniu do której organem reprezentującym Skarb Państwa jest starosta lub prezydent miasta na prawach powiatu, wykonujący zadania z zakresu administracji rządowej, wykorzystywanej do prowadzenia działalności gospodarczej, należna za 2020 r. od przedsiębiorcy w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, organizacji pozarządowej w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, podmiotu, o którym mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz państwowej osoby prawnej w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, u których wystąpił spadek obrotów gospodarczych w następstwie wystąpienia COVID-19, podlega pomniejszeniu proporcjonalnie do liczby dni w tym roku, w których obowiązywał stan zagrożenia epidemicznego oraz stan epidemii z powodu COVID-19, pod warunkiem:
 
 - **1)** zgłoszenia wniesienia opłaty w pomniejszonej wysokości staroście lub prezydentowi miasta na prawach powiatu, wykonującym zadania z zakresu administracji rządowej, przed upływem terminu, o którym mowa w art. 15j ust. 1;
-- **2)** braku zaległości w regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Pracy lub Fundusz Solidarnościowy do końca trzeciego kwartału 2019 r. Art. 15jb. Nie pobiera się czynszu najmu i dzierżawy oraz opłaty za użytkowanie przypadających Skarbowi Państwa za okres kolejnych trzech miesięcy w 2020 r. następujących po miesiącu, w którym dokonano zgłoszenia, o którym mowa w pkt 1, z tytułu umów najmu, dzierżawy lub użytkowania zawartych na okres co najmniej trzech miesięcy w odniesieniu do nieruchomości należącej do zasobu nieruchomości Skarbu Państwa w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, wykorzystywanej do prowadzenia działalności gospodarczej, od przedsiębiorcy w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, organizacji pozarządowej w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, podmiotu, o którym mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz państwowej osoby prawnej w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, u których wystąpił spadek obrotów gospodarczych w następstwie wystąpienia COVID-19, pod warunkiem:
+- **2)** braku zaległości w regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Pracy lub Fundusz Solidarnościowy do końca trzeciego kwartału 2019 r.
+
+**Art. 15jb.** Nie pobiera się czynszu najmu i dzierżawy oraz opłaty za użytkowanie przypadających Skarbowi Państwa za okres kolejnych trzech miesięcy w 2020 r. następujących po miesiącu, w którym dokonano zgłoszenia, o którym mowa w pkt 1, z tytułu umów najmu, dzierżawy lub użytkowania zawartych na okres co najmniej trzech miesięcy w odniesieniu do nieruchomości należącej do zasobu nieruchomości Skarbu Państwa w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, wykorzystywanej do prowadzenia działalności gospodarczej, od przedsiębiorcy w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, organizacji pozarządowej w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, podmiotu, o którym mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz państwowej osoby prawnej w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, u których wystąpił spadek obrotów gospodarczych w następstwie wystąpienia COVID-19, pod warunkiem:
+
 - **1)** zgłoszenia wnoszenia należności z pominięciem należności za wskazany we wniosku okres kolejnych trzech miesięcy staroście lub prezydentowi miasta na prawach powiatu, wykonującym zadania z zakresu administracji rządowej, lub kierownikowi państwowej jednostki organizacyjnej, na rzecz której ustanowiono trwały zarząd na podstawie art. 45 ust. 1 lub art. 60 ust. 3 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, przed upływem terminu do ich wniesienia;
-- **2)** braku zaległości w regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Pracy lub Fundusz Solidarnościowy do końca trzeciego kwartału 2019 r. Art. 15jc. 1. Przez spadek obrotów gospodarczych, o którym mowa w art. 15ja i art. 15jb, rozumie się spadek sprzedaży towarów lub usług, w ujęciu ilościowym lub wartościowym:
+- **2)** braku zaległości w regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Pracy lub Fundusz Solidarnościowy do końca trzeciego kwartału 2019 r.
+
+**Art. 15jc.**
+
+1. Przez spadek obrotów gospodarczych, o którym mowa w art. 15ja i art. 15jb, rozumie się spadek sprzedaży towarów lub usług, w ujęciu ilościowym lub wartościowym:
+
 - **1)** nie mniej niż o 15 %, obliczony jako stosunek łącznych obrotów w ciągu dowolnie wskazanych 2 kolejnych miesięcy kalendarzowych, przypadających w okresie po dniu 31 grudnia 2019 r. do dnia poprzedzającego dzień dokonania zgłoszenia, o którym mowa w art. 15ja pkt 1 lub art. 15jb pkt 1, w porównaniu do łącznych obrotów z analogicznych 2 kolejnych miesięcy kalendarzowych roku poprzedniego; za miesiąc uważa się także 30 kolejno po sobie następujących dni kalendarzowych, w przypadku gdy dwumiesięczny okres porównawczy rozpoczyna się w trakcie miesiąca kalendarzowego, to jest w dniu innym niż pierwszy dzień danego miesiąca kalendarzowego lub
 - **2)** nie mniej niż o 25 %, obliczony jako stosunek obrotów z dowolnie wskazanego miesiąca kalendarzowego, przypadającego po dniu 31 grudnia 2019 r. do dnia poprzedzającego dzień dokonania zgłoszenia, o którym mowa w art. 15ja pkt 1 lub art. 15jb pkt 1, w porównaniu do obrotów z miesiąca poprzedniego; za miesiąc uważa się także 30 kolejno po sobie następujących dni kalendarzowych, w przypadku gdy okres porównawczy rozpoczyna się w trakcie miesiąca kalendarzowego, to jest w dniu innym niż pierwszy dzień danego miesiąca kalendarzowego.
 
@@ -1030,21 +1161,32 @@ Art. 16–30. (pominięte)
 
 6. Na żądanie właściwego organu podmiot, o którym mowa w art. 15ja i art. 15jb, przedstawia w terminie 30 dni od dnia otrzymania żądania dokumenty potwierdzające spełnienie przesłanek, o których mowa w ust. 2, art. 15ja, art. 15jb, lub warunków udzielenia pomocy, o której mowa w art. 15zzzh ust. 2.
 
-7. Nieprzedstawienie w terminie dokumentów, o których mowa w ust. 6, niezłożenie oświadczenia, o którym mowa w ust. 2, nieprzedstawienie informacji, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, lub stwierdzenie przez właściwy organ, iż nie zostały spełnione przesłanki, o których mowa w ust. 2, art. 15ja, art. 15jb, lub warunki udzielenia pomocy, o której mowa w art. 15zzzh ust. 2, stanowi podstawę do dochodzenia opłaty, o której mowa w art. 15ja, lub należności, o których mowa w art. 15jb, w pełnej wysokości. Art. 15jca. 1. Jeżeli przed upływem terminu, o którym mowa w art. 15j ust. 1, podmiot, o którym mowa w art. 15ja, wniósł w niepomniejszonej wysokości, opłatę roczną z tytułu użytkowania wieczystego za rok 2020, obniżeniu, o kwotę wyliczoną zgodnie z art. 15ja podlega wysokość należnej od tego podmiotu opłaty rocznej z tytułu użytkowania wieczystego za rok 2021.
+7. Nieprzedstawienie w terminie dokumentów, o których mowa w ust. 6, niezłożenie oświadczenia, o którym mowa w ust. 2, nieprzedstawienie informacji, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, lub stwierdzenie przez właściwy organ, iż nie zostały spełnione przesłanki, o których mowa w ust. 2, art. 15ja, art. 15jb, lub warunki udzielenia pomocy, o której mowa w art. 15zzzh ust. 2, stanowi podstawę do dochodzenia opłaty, o której mowa w art. 15ja, lub należności, o których mowa w art. 15jb, w pełnej wysokości.
+
+**Art. 15jca.**
+
+1. Jeżeli przed upływem terminu, o którym mowa w art. 15j ust. 1, podmiot, o którym mowa w art. 15ja, wniósł w niepomniejszonej wysokości, opłatę roczną z tytułu użytkowania wieczystego za rok 2020, obniżeniu, o kwotę wyliczoną zgodnie z art. 15ja podlega wysokość należnej od tego podmiotu opłaty rocznej z tytułu użytkowania wieczystego za rok 2021.
 
 2. Jeżeli przed upływem terminu, o którym mowa w art. 15j ust. 1, podmiot, o którym mowa w art. 15ja, wniósł w niepomniejszonej wysokości, opłatę roczną z tytułu użytkowania wieczystego za rok 2020, które uległo przekształceniu w prawo własności w 2020 roku, obniżeniu o kwotę wyliczoną zgodnie z art. 15ja, podlega wysokość należnej od tego podmiotu opłaty, o której mowa w art. 13 ust. 3 ustawy z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów (Dz. U. z 2020 r. poz. 2040), za rok 2021 albo wnoszonej w tym roku jako opłata jednorazowa.
 
 3. Przepisy art. 15ja oraz art. 15jc stosuje się odpowiednio, z tym, że zgłoszenia, o którym mowa w art. 15ja pkt 1, należy dokonać przed upływem terminu na wniesienie opłaty:
 
 - **1)** rocznej z tytułu użytkowania wieczystego za rok 2021 – w przypadku, o którym mowa w ust. 1;
-- **2)** o której mowa w art. 13 ust. 3 ustawy z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów, należnej za rok 2021 – w przypadku, o którym mowa w ust. 2. Art. 15jd. 1. Organ stanowiący jednostki samorządu terytorialnego może, w drodze uchwały, postanowić o:
+- **2)** o której mowa w art. 13 ust. 3 ustawy z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów, należnej za rok 2021 – w przypadku, o którym mowa w ust. 2.
+
+**Art. 15jd.**
+
+1. Organ stanowiący jednostki samorządu terytorialnego może, w drodze uchwały, postanowić o:
+
 - **1)** pomniejszeniu opłaty rocznej z tytułu użytkowania wieczystego nieruchomości stanowiącej odpowiednio własność gminy, powiatu lub województwa, wykorzystywanej do prowadzenia działalności gospodarczej, należnej za 2020 r. od podmiotów, o których mowa w art. 15ja;
 - **2)** niepobieraniu czynszu najmu i dzierżawy oraz opłaty z tytułu oddania nieruchomości w użytkowanie przypadających jednostce samorządu terytorialnego za okres kolejnych trzech miesięcy w 2020 r. następujących po miesiącu, w którym dokonano zgłoszenia zgodnie z ust. 2 pkt 2, z tytułu umów najmu, dzierżawy lub użytkowania zawartych na okres co najmniej trzech miesięcy w odniesieniu do nieruchomości należącej odpowiednio do gminnego, powiatowego albo wojewódzkiego zasobu nieruchomości w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, wykorzystywanej do prowadzenia działalności gospodarczej, od podmiotów, o których mowa w art. 15jb.
 
 2. Przepisy art. 15ja–15jca stosuje się odpowiednio, z tym że:
 
 - **1)** zgłoszenie, o którym mowa w art. 15ja pkt 1, wnosi się do właściwego organu wykonawczego jednostki samorządu terytorialnego;
-- **2)** zgłoszenie, o którym mowa w art. 15jb pkt 1, wnosi się do właściwego organu wykonawczego jednostki samorządu terytorialnego lub do kierownika samorządowej jednostki organizacyjnej, na rzecz której ustanowiono trwały zarząd na podstawie art. 45 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami. Art. 15je. Przepisy art. 15jb, art. 15jc oraz art. 15jd stosuje się do należności z tytułu umów najmu, dzierżawy lub użytkowania zawartych w okresie poprzedzającym wprowadzenie stanu zagrożenia epidemicznego i stanu epidemii z powodu COVID-19.
+- **2)** zgłoszenie, o którym mowa w art. 15jb pkt 1, wnosi się do właściwego organu wykonawczego jednostki samorządu terytorialnego lub do kierownika samorządowej jednostki organizacyjnej, na rzecz której ustanowiono trwały zarząd na podstawie art. 45 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+
+**Art. 15je.** Przepisy art. 15jb, art. 15jc oraz art. 15jd stosuje się do należności z tytułu umów najmu, dzierżawy lub użytkowania zawartych w okresie poprzedzającym wprowadzenie stanu zagrożenia epidemicznego i stanu epidemii z powodu COVID-19.
 
 **Art. 15k.**
 
@@ -1054,7 +1196,11 @@ Art. 16–30. (pominięte)
 
 3. Wartość vouchera, o którym mowa w ust. 2, nie może być niższa niż kwota wpłacona na poczet realizacji dotychczasowej umowy o imprezę turystyczną.
 
-4. Środki odpowiadające wpłatom na poczet realizacji umów o imprezy turystyczne, w stosunku do których zastosowanie znajdzie ust. 2, są objęte zabezpieczeniem finansowym organizatora turystyki, o którym mowa w art. 7 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych, obowiązującym w dniu zawarcia dotychczasowej umowy o udział w imprezie turystycznej. Art. 15ka. 1. W przypadku, o którym mowa w art. 15k ust. 1, organizator turystyki może ubiegać się o wypłatę na rzecz podróżnego środków pieniężnych wpłaconych przez tego podróżnego na rzecz organizatora turystki na poczet imprezy turystycznej, na zasadach i w trybie określonych w ust. 2–37. O wypłaty mogą ubiegać się wyłącznie organizatorzy turystyki, którzy:
+4. Środki odpowiadające wpłatom na poczet realizacji umów o imprezy turystyczne, w stosunku do których zastosowanie znajdzie ust. 2, są objęte zabezpieczeniem finansowym organizatora turystyki, o którym mowa w art. 7 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych, obowiązującym w dniu zawarcia dotychczasowej umowy o udział w imprezie turystycznej.
+
+**Art. 15ka.**
+
+1. W przypadku, o którym mowa w art. 15k ust. 1, organizator turystyki może ubiegać się o wypłatę na rzecz podróżnego środków pieniężnych wpłaconych przez tego podróżnego na rzecz organizatora turystki na poczet imprezy turystycznej, na zasadach i w trybie określonych w ust. 2–37. O wypłaty mogą ubiegać się wyłącznie organizatorzy turystyki, którzy:
 
 - **1)** przyjęli płatność w formie bezgotówkowej;
 - **2)** zostali wpisani do właściwego rejestru, o którym mowa w art. 22 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych.
@@ -1197,7 +1343,11 @@ Art. 16–30. (pominięte)
 
 36. Źródłem finansowania wypłat, o których mowa w ust. 1, realizowanych w imieniu ministra właściwego do spraw turystyki jest Turystyczny Fundusz Zwrotów.
 
-37. Wypłata na rzecz podróżnego, o której mowa w ust. 1, nie wpływa na ważność zawartych dotychczas umów agencyjnych pomiędzy organizatorami turystyki a agentami turystycznymi i należnych agentom turystycznym prowizji z tytułu zawartych umów o udział w imprezie turystycznej. Art. 15kb. 1. W Banku Gospodarstwa Krajowego tworzy się Turystyczny Fundusz Zwrotów, zwany dalej „Funduszem Zwrotów”, z którego realizowane są, do wyczerpania zgromadzonych na nim środków, wypłaty na rzecz podróżnych w trybie określonym w art. 15ka, gdy podróżny nie otrzymał lub nie wyraził zgody na przyjęcie vouchera, o którym mowa w art. 15k ust. 2.
+37. Wypłata na rzecz podróżnego, o której mowa w ust. 1, nie wpływa na ważność zawartych dotychczas umów agencyjnych pomiędzy organizatorami turystyki a agentami turystycznymi i należnych agentom turystycznym prowizji z tytułu zawartych umów o udział w imprezie turystycznej.
+
+**Art. 15kb.**
+
+1. W Banku Gospodarstwa Krajowego tworzy się Turystyczny Fundusz Zwrotów, zwany dalej „Funduszem Zwrotów”, z którego realizowane są, do wyczerpania zgromadzonych na nim środków, wypłaty na rzecz podróżnych w trybie określonym w art. 15ka, gdy podróżny nie otrzymał lub nie wyraził zgody na przyjęcie vouchera, o którym mowa w art. 15k ust. 2.
 
 2. Środki Funduszu Zwrotów pochodzą z:
 
@@ -1277,7 +1427,11 @@ Art. 16–30. (pominięte)
 
 - **1)** pkt 1 i 2 – biegnie ono na nowo;
 - **2)** pkt 3 – okres przedawnienia biegnie na nowo od dnia zakończenia postępowania sądowego;
-- **3)** pkt 4 – okres przedawnienia biegnie od dnia podjęcia postępowania egzekucyjnego. Art. 15kc. 1. Tworzy się Turystyczny Fundusz Pomocowy, zwany dalej „Funduszem Pomocowym”, stanowiący wyodrębniony rachunek w Ubezpieczeniowym Funduszu Gwarancyjnym.
+- **3)** pkt 4 – okres przedawnienia biegnie od dnia podjęcia postępowania egzekucyjnego.
+
+**Art. 15kc.**
+
+1. Tworzy się Turystyczny Fundusz Pomocowy, zwany dalej „Funduszem Pomocowym”, stanowiący wyodrębniony rachunek w Ubezpieczeniowym Funduszu Gwarancyjnym.
 
 2. Obsługę Funduszu Pomocowego zapewnia Ubezpieczeniowy Fundusz Gwarancyjny.
 
@@ -1459,7 +1613,11 @@ Art. 16–30. (pominięte)
 
 4. Wsparcia finansowego udziela się na wniosek osoby, o której mowa w ust. 1, złożony do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego albo wyznaczonej przez niego państwowej instytucji kultury.
 
-5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowe warunki uzyskiwania wsparcia finansowego, w tym maksymalną wysokość tego wsparcia, dane, które wniosek, o którym mowa w ust. 4, powinien zawierać, a także tryb składania tego wniosku oraz przekazywania środków, biorąc pod uwagę okres, przez który obowiązuje stan zagrożenia epidemicznego albo stan epidemii, zakres ograniczeń, zakazów i nakazów, o których mowa w art. 46 ust. 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, priorytety społeczne oraz konieczność zapewnienia ciągłości realizacji zadań, na które przeznaczane są środki budżetu państwa z części, której jest dysponentem. Art. 15ma. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w okresie 12 miesięcy po ich odwołaniu, minister właściwy do spraw gospodarki morskiej może przeznaczać środki budżetu państwa z części, której jest dysponentem na wsparcie właścicieli albo armatorów jachtów komercyjnych, o których mowa w art. 5 pkt 9 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068 i 1933), w przypadku gdy wykonywana przez nich działalność, o której mowa w art. 5 pkt 9 lit. c tej ustawy, nie może być kontynuowana w następstwie wystąpienia COVID-19.
+5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowe warunki uzyskiwania wsparcia finansowego, w tym maksymalną wysokość tego wsparcia, dane, które wniosek, o którym mowa w ust. 4, powinien zawierać, a także tryb składania tego wniosku oraz przekazywania środków, biorąc pod uwagę okres, przez który obowiązuje stan zagrożenia epidemicznego albo stan epidemii, zakres ograniczeń, zakazów i nakazów, o których mowa w art. 46 ust. 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, priorytety społeczne oraz konieczność zapewnienia ciągłości realizacji zadań, na które przeznaczane są środki budżetu państwa z części, której jest dysponentem.
+
+**Art. 15ma.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w okresie 12 miesięcy po ich odwołaniu, minister właściwy do spraw gospodarki morskiej może przeznaczać środki budżetu państwa z części, której jest dysponentem na wsparcie właścicieli albo armatorów jachtów komercyjnych, o których mowa w art. 5 pkt 9 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068 i 1933), w przypadku gdy wykonywana przez nich działalność, o której mowa w art. 5 pkt 9 lit. c tej ustawy, nie może być kontynuowana w następstwie wystąpienia COVID-19.
 
 2. Wsparcie finansowe, o którym mowa w ust. 1, może zostać przyznane na wycofanie jachtu komercyjnego z wykonywania aktualnie prowadzonej działalności poprzez jego zezłomowanie albo przystosowanie do wykonywania działalności innej niż wskazana w art. 5 pkt 9 lit. c ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
 
@@ -1491,7 +1649,11 @@ Art. 16–30. (pominięte)
 2. Z przyczyn związanych z przeciwdziałaniem COVID-19 przyznawanie lub aktualizacja prawa do świadczeń opiekuńczych, o których mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, oraz zasiłku dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów, w szczególności osobie, która została poddana kwarantannie w związku z podejrzeniem o zakażenie lub o chorobę zakaźną, nie wymaga przeprowadzenia rodzinnego wywiadu środowiskowego, a ustalenie sprawowania opieki może nastąpić w szczególności na podstawie:
 
 - **1)** rozmowy telefonicznej z pracownikiem socjalnym oraz
-- **2)** dokumentów lub oświadczeń, a także ich kopii, w tym elektronicznych, uzyskanych od osoby ubiegającej się o świadczenie lub je otrzymującej lub od członków jej rodziny. Art. 15oa. 1. Obniżenie wynagrodzenia z tytułu zatrudnienia lub innej pracy zarobkowej lub obniżenie dochodu z pozarolniczej działalności gospodarczej w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2023 r. poz. 390) z powodu przeciwdziałania COVID-19, stanowi utratę dochodu w rozumieniu tej ustawy i jest uwzględniane przy ustalaniu prawa do świadczeń rodzinnych na okresy zasiłkowe od dnia 1 listopada 2019 r. do dnia 31 października 2022 r.
+- **2)** dokumentów lub oświadczeń, a także ich kopii, w tym elektronicznych, uzyskanych od osoby ubiegającej się o świadczenie lub je otrzymującej lub od członków jej rodziny.
+
+**Art. 15oa.**
+
+1. Obniżenie wynagrodzenia z tytułu zatrudnienia lub innej pracy zarobkowej lub obniżenie dochodu z pozarolniczej działalności gospodarczej w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2023 r. poz. 390) z powodu przeciwdziałania COVID-19, stanowi utratę dochodu w rozumieniu tej ustawy i jest uwzględniane przy ustalaniu prawa do świadczeń rodzinnych na okresy zasiłkowe od dnia 1 listopada 2019 r. do dnia 31 października 2022 r.
 
 2. Obniżenie wynagrodzenia z tytułu zatrudnienia lub innej pracy zarobkowej lub obniżenie dochodu z pozarolniczej działalności gospodarczej w rozumieniu ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2022 r. poz. 1205) z powodu przeciwdziałania COVID-19, stanowi utratę dochodu w rozumieniu tej ustawy i jest uwzględniane przy ustalaniu prawa do świadczeń z funduszu alimentacyjnego na okresy świadczeniowe od dnia 1 października 2019 r. do dnia 30 września 2022 r.
 
@@ -1511,7 +1673,15 @@ Art. 16–30. (pominięte)
 2. W uchwale, o której mowa w ust. 1, rada gminy może przedłużyć terminy płatności rat, o których mowa w ust. 1, również:
 
 - **1)** organizacjom pozarządowym, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz
-- **2)** podmiotom wymienionym w art. 3 ust. 3 ustawy, o której mowa w pkt 1 – których płynność finansowa uległa pogorszeniu w związku z ponoszeniem negatywnych konsekwencji ekonomicznych z powodu COVID-19. Art. 15qa. Zezwolenia na sprzedaż napojów alkoholowych przeznaczonych do spożycia w miejscu lub poza miejscem sprzedaży wydane na podstawie art. 18 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), których ważność upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii zachowują ważność przez dodatkowy okres 6 miesięcy od dnia utraty pierwotnego terminu ważności zezwolenia, pod warunkiem wniesienia proporcjonalnej opłaty za wydanie zezwolenia przed upływem pierwotnego terminu ważności zezwolenia. Art. 15qb. Do dnia 31 grudnia 2020 r. zarządy województwa mogą wykorzystać środki z opłat, o których mowa w art. 9 ust. 1 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, również na działania związane z przeciwdziałaniem COVID-19. Art. 15qc. Do dnia 31 grudnia 2020 r. wójt (burmistrz, prezydent miasta) może wykorzystać dochody z opłat za zezwolenia wydane na podstawie art. 18 lub art. 18 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz dochody z opłat określonych w art. 11 tej ustawy również na działania związane z przeciwdziałaniem COVID-19. Art. 15qd. Do dnia 31 grudnia 2020 r. samorząd województwa może powierzyć powiatowi, w drodze porozumienia, prowadzenie zadań związanych z przeciwdziałaniem COVID-19.
+- **2)** podmiotom wymienionym w art. 3 ust. 3 ustawy, o której mowa w pkt 1 – których płynność finansowa uległa pogorszeniu w związku z ponoszeniem negatywnych konsekwencji ekonomicznych z powodu COVID-19.
+
+**Art. 15qa.** Zezwolenia na sprzedaż napojów alkoholowych przeznaczonych do spożycia w miejscu lub poza miejscem sprzedaży wydane na podstawie art. 18 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), których ważność upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii zachowują ważność przez dodatkowy okres 6 miesięcy od dnia utraty pierwotnego terminu ważności zezwolenia, pod warunkiem wniesienia proporcjonalnej opłaty za wydanie zezwolenia przed upływem pierwotnego terminu ważności zezwolenia.
+
+**Art. 15qb.** Do dnia 31 grudnia 2020 r. zarządy województwa mogą wykorzystać środki z opłat, o których mowa w art. 9 ust. 1 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, również na działania związane z przeciwdziałaniem COVID-19.
+
+**Art. 15qc.** Do dnia 31 grudnia 2020 r. wójt (burmistrz, prezydent miasta) może wykorzystać dochody z opłat za zezwolenia wydane na podstawie art. 18 lub art. 18 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz dochody z opłat określonych w art. 11 tej ustawy również na działania związane z przeciwdziałaniem COVID-19.
+
+**Art. 15qd.** Do dnia 31 grudnia 2020 r. samorząd województwa może powierzyć powiatowi, w drodze porozumienia, prowadzenie zadań związanych z przeciwdziałaniem COVID-19.
 
 **Art. 15r.**
 
@@ -1552,7 +1722,17 @@ Art. 16–30. (pominięte)
 
 11. Przepisy ust. 1–9 stosuje się odpowiednio do umów w sprawie zamówień publicznych wyłączonych ze stosowania ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
-**Art. 15r¹.** (uchylony) Art. 15ra. 1. Strona umowy offsetowej, zawartej na podstawie przepisów ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. z 2022 r. poz. 1218), oraz umowy offsetowej, o której mowa w art. 34 ust. 1 tej ustawy, będąca zagranicznym dostawcą w rozumieniu tej ustawy, niezwłocznie informuje odpowiednio Ministra Obrony Narodowej lub ministra właściwego do spraw gospodarki o wpływie okoliczności związanych z wystąpieniem COVID-19 na należyte wykonanie tej umowy oraz zasadność ustalenia i dochodzenia kar lub odszkodowań, o ile taki wpływ wystąpił lub może wystąpić. 2. Strona umowy offsetowej, o której mowa w ust. 1, będąca zagranicznym dostawcą, o którym mowa w ust. 1, przedstawia odpowiednio Ministrowi Obrony Narodowej lub ministrowi właściwemu do spraw gospodarki oświadczenia lub dokumenty potwierdzające wpływ okoliczności związanych z wystąpieniem COVID-19 na należyte wykonanie tej umowy oraz zasadność ustalenia i dochodzenia kar lub odszkodowań. 3. Odpowiednio Minister Obrony Narodowej lub minister właściwy do spraw gospodarki na podstawie otrzymanych oświadczeń lub dokumentów, o których mowa w ust. 2, w terminie 14 dni od dnia ich otrzymania, przekazuje stronie umowy offsetowej, o której mowa w ust. 1, będącej zagranicznym dostawcą, o którym mowa w ust. 1, swoje stanowisko, wraz z uzasadnieniem, odnoszące się do wpływu okoliczności związanych z wystąpieniem COVID-19 na należyte wykonanie umowy offsetowej oraz zasadność ustalenia i dochodzenia kar lub odszkodowań. 4. Stanowisko, o którym mowa w ust. 3, stanowi w szczególności podstawę do:
+**Art. 15r¹.** (uchylony)
+
+**Art. 15ra.**
+
+1. Strona umowy offsetowej, zawartej na podstawie przepisów ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. z 2022 r. poz. 1218), oraz umowy offsetowej, o której mowa w art. 34 ust. 1 tej ustawy, będąca zagranicznym dostawcą w rozumieniu tej ustawy, niezwłocznie informuje odpowiednio Ministra Obrony Narodowej lub ministra właściwego do spraw gospodarki o wpływie okoliczności związanych z wystąpieniem COVID-19 na należyte wykonanie tej umowy oraz zasadność ustalenia i dochodzenia kar lub odszkodowań, o ile taki wpływ wystąpił lub może wystąpić.
+
+2. Strona umowy offsetowej, o której mowa w ust. 1, będąca zagranicznym dostawcą, o którym mowa w ust. 1, przedstawia odpowiednio Ministrowi Obrony Narodowej lub ministrowi właściwemu do spraw gospodarki oświadczenia lub dokumenty potwierdzające wpływ okoliczności związanych z wystąpieniem COVID-19 na należyte wykonanie tej umowy oraz zasadność ustalenia i dochodzenia kar lub odszkodowań.
+
+3. Odpowiednio Minister Obrony Narodowej lub minister właściwy do spraw gospodarki na podstawie otrzymanych oświadczeń lub dokumentów, o których mowa w ust. 2, w terminie 14 dni od dnia ich otrzymania, przekazuje stronie umowy offsetowej, o której mowa w ust. 1, będącej zagranicznym dostawcą, o którym mowa w ust. 1, swoje stanowisko, wraz z uzasadnieniem, odnoszące się do wpływu okoliczności związanych z wystąpieniem COVID-19 na należyte wykonanie umowy offsetowej oraz zasadność ustalenia i dochodzenia kar lub odszkodowań.
+
+4. Stanowisko, o którym mowa w ust. 3, stanowi w szczególności podstawę do:
 
 - **1)** zastosowania w odniesieniu do umowy offsetowej, o której mowa w ust. 1, art. 21 ustawy, o której mowa w ust. 1;
 - **2)** czasowego zawieszenia wykonywania umowy offsetowej, o której mowa w ust. 1, lub jej części na czas trwania okoliczności związanych z wystąpieniem COVID-19.
@@ -1572,7 +1752,11 @@ Art. 16–30. (pominięte)
 
 **Art. 15u.** Za szkodę wyrządzoną działaniem lub zaniechaniem sprzecznym z prawem lub postanowieniami umowy spółki, o której mowa w art. 293 § 1 albo art. 483 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), nie odpowiada wobec spółki członek zarządu, rady nadzorczej, komisji rewizyjnej oraz likwidator, który nie ustala lub nie dochodzi od strony umowy, o której mowa w art. 15r ust. 1, należności powstałych w związku z niewykonaniem lub nienależytym wykonaniem umowy w sprawie zamówienia publicznego na skutek okoliczności związanych z wystąpieniem COVID-19, o którym mowa w art. 15r ust. 1, lub zmienia umowę w sprawie zamówienia publicznego zgodnie z art. 15r ust. 4.
 
-**Art. 15v.** Przepis art. 15r nie narusza praw stron umowy, o której mowa w art. 15r ust. 1, wynikających z przepisów prawa cywilnego, z zastrzeżeniem art. 15r ust. 5. Art. 15va. (utracił moc) Art. 15vb. (utracił moc)
+**Art. 15v.** Przepis art. 15r nie narusza praw stron umowy, o której mowa w art. 15r ust. 1, wynikających z przepisów prawa cywilnego, z zastrzeżeniem art. 15r ust. 5.
+
+**Art. 15va.** (utracił moc)
+
+**Art. 15vb.** (utracił moc)
 
 **Art. 15w.** (uchylony)
 
@@ -1648,7 +1832,27 @@ Art. 16–30. (pominięte)
 
 **Art. 15z⁸.** (uchylony)
 
-**Art. 15z⁹.** W przypadku cudzoziemca będącego obywatelem państwa określonego w przepisach wydanych na podstawie art. 90 ust. 10 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ubiegającego się o wydanie wizy krajowej na terytorium tego państwa, odstępuje się od wymogu osobistego złożenia dokumentów, o których mowa w ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach, w związku z ubieganiem się o tę wizę. Art. 15za. 1. Do decyzji wydanej na podstawie art. 67a § 1 pkt 1 lub 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), dotyczącej podatków stanowiących dochód budżetu państwa, na podstawie wniosku złożonego w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonych w związku z COVID-19 albo w okresie 30 dni następujących po ich odwołaniu, nie stosuje się przepisów art. 57 § 1 i 8 tej ustawy. 1a. W zaświadczeniu, o którym mowa w art. 306e ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, wystawianym w okresie objętym zaniechaniem poboru odsetek za zwłokę od zaległości podatkowych zgodnie z przepisami wydanymi na podstawie ust. 2 lub 3, nie uwzględnia się zaległości podatkowych, których zapłata po upływie terminu płatności jest objęta tym zaniechaniem poboru odsetek. Przepis stosuje się odpowiednio do ustalania spełnienia warunku braku istnienia zaległości podatkowych w celu skorzystania ze wsparcia finansowego w ramach programów rządowych. 2. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, zaniechać w całości lub w części poboru odsetek za zwłokę od zaległości podatkowych, określając w szczególności rodzaj podatku, zakres terytorialny zaniechania, okres, w którym następuje zaniechanie, i grupy obowiązanych, których dotyczy zaniechanie, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego i stanu epidemii w związku z COVID-19 oraz skutki nimi wywołane. 3. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, zaniechać w całości lub w części poboru odsetek za zwłokę od niewpłaconej w terminie daniny solidarnościowej, o której mowa w rozdziale 6a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, 340, 368 i 620), określając w szczególności zakres terytorialny zaniechania, okres, w którym następuje zaniechanie, i grupy obowiązanych, których dotyczy zaniechanie, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego i stanu epidemii w związku z COVID-19 oraz skutki nimi wywołane. Art. 15zb. 1. W przypadku odroczenia terminu płatności lub rozłożenia na raty, o którym mowa w art. 29 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, dotyczącego należności z tytułu składek należnych za okres od 1 stycznia 2020 r., na podstawie wniosku złożonego w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo w okresie 30 dni następujących po ich odwołaniu, nie nalicza się opłaty prolongacyjnej, o której mowa w art. 29 ust. 4. 2. Wniosek, o którym mowa w ust. 1, może być złożony wyłącznie w formie dokumentu elektronicznego za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych, w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo wykorzystując sposób potwierdzania pochodzenia oraz integralności danych udostępniony bezpłatnie przez Zakład Ubezpieczeń Społecznych w systemie teleinformatycznym. Art. 15zc. 1. Z przyczyn związanych z przeciwdziałaniem COVID-19, orzeczenie o:
+**Art. 15z⁹.** W przypadku cudzoziemca będącego obywatelem państwa określonego w przepisach wydanych na podstawie art. 90 ust. 10 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ubiegającego się o wydanie wizy krajowej na terytorium tego państwa, odstępuje się od wymogu osobistego złożenia dokumentów, o których mowa w ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach, w związku z ubieganiem się o tę wizę.
+
+**Art. 15za.**
+
+1. Do decyzji wydanej na podstawie art. 67a § 1 pkt 1 lub 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), dotyczącej podatków stanowiących dochód budżetu państwa, na podstawie wniosku złożonego w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonych w związku z COVID-19 albo w okresie 30 dni następujących po ich odwołaniu, nie stosuje się przepisów art. 57 § 1 i 8 tej ustawy.
+
+1a. W zaświadczeniu, o którym mowa w art. 306e ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, wystawianym w okresie objętym zaniechaniem poboru odsetek za zwłokę od zaległości podatkowych zgodnie z przepisami wydanymi na podstawie ust. 2 lub 3, nie uwzględnia się zaległości podatkowych, których zapłata po upływie terminu płatności jest objęta tym zaniechaniem poboru odsetek. Przepis stosuje się odpowiednio do ustalania spełnienia warunku braku istnienia zaległości podatkowych w celu skorzystania ze wsparcia finansowego w ramach programów rządowych.
+
+2. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, zaniechać w całości lub w części poboru odsetek za zwłokę od zaległości podatkowych, określając w szczególności rodzaj podatku, zakres terytorialny zaniechania, okres, w którym następuje zaniechanie, i grupy obowiązanych, których dotyczy zaniechanie, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego i stanu epidemii w związku z COVID-19 oraz skutki nimi wywołane.
+
+3. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, zaniechać w całości lub w części poboru odsetek za zwłokę od niewpłaconej w terminie daniny solidarnościowej, o której mowa w rozdziale 6a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, 340, 368 i 620), określając w szczególności zakres terytorialny zaniechania, okres, w którym następuje zaniechanie, i grupy obowiązanych, których dotyczy zaniechanie, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego i stanu epidemii w związku z COVID-19 oraz skutki nimi wywołane.
+
+**Art. 15zb.**
+
+1. W przypadku odroczenia terminu płatności lub rozłożenia na raty, o którym mowa w art. 29 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, dotyczącego należności z tytułu składek należnych za okres od 1 stycznia 2020 r., na podstawie wniosku złożonego w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo w okresie 30 dni następujących po ich odwołaniu, nie nalicza się opłaty prolongacyjnej, o której mowa w art. 29 ust. 4.
+
+2. Wniosek, o którym mowa w ust. 1, może być złożony wyłącznie w formie dokumentu elektronicznego za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych, w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo wykorzystując sposób potwierdzania pochodzenia oraz integralności danych udostępniony bezpłatnie przez Zakład Ubezpieczeń Społecznych w systemie teleinformatycznym.
+
+**Art. 15zc.**
+
+1. Z przyczyn związanych z przeciwdziałaniem COVID-19, orzeczenie o:
 
 - **1)** częściowej niezdolności do pracy,
 - **2)** całkowitej niezdolności do pracy,
@@ -1673,11 +1877,23 @@ Art. 16–30. (pominięte)
 
 10. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, od dnia ogłoszenia danego stanu, zawiesza się wykonywanie obowiązków wynikających z przepisu art. 190 ust. 2 pkt 5 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm. ) w zakresie kierowania z urzędu żołnierzy zawodowych do wojskowej komisji lekarskiej po powrocie do kraju.
 
-11. Po odwołaniu stanu zagrożenia epidemicznego, w przypadku gdy nie zostanie ogłoszony stan epidemii albo po odwołaniu stanu epidemii, należy niezwłocznie podjąć wykonywanie zawieszonych obowiązków, o których mowa w ust. 10, i wykonać je w okresie nie dłuższym niż 90 dni od dnia odwołania danego stanu. Art. 15zd. (uchylony) Art. 15ze. (uchylony) Art. 15ze 1 . 1. Wysokość świadczeń uprawnionego z tytułu używania powierzchni handlowej należnych udostępniającemu na podstawie zawartej przed dniem 14 marca 2020 r. umowy najmu, dzierżawy lub innej podobnej umowy, przez którą dochodzi do oddania do używania powierzchni handlowej, w okresie obowiązywania zakazu prowadzenia działalności w obiektach handlowych o powierzchni sprzedaży powyżej 2000 m zgodnie z właściwymi przepisami, ulega obniżeniu do 20 % wysokości tych świadczeń należnych udostępniającemu na podstawie umowy przed dniem 14 marca 2020 r., a w okresie trzech miesięcy od dnia zniesienia każdego zakazu – do 50 % wysokości tych świadczeń należnych udostępniającemu na podstawie umowy przed dniem 14 marca 2020 r.
+11. Po odwołaniu stanu zagrożenia epidemicznego, w przypadku gdy nie zostanie ogłoszony stan epidemii albo po odwołaniu stanu epidemii, należy niezwłocznie podjąć wykonywanie zawieszonych obowiązków, o których mowa w ust. 10, i wykonać je w okresie nie dłuższym niż 90 dni od dnia odwołania danego stanu.
+
+**Art. 15zd.** (uchylony)
+
+**Art. 15ze.** (uchylony)
+
+**Art. 15ze¹.**
+
+1. Wysokość świadczeń uprawnionego z tytułu używania powierzchni handlowej należnych udostępniającemu na podstawie zawartej przed dniem 14 marca 2020 r. umowy najmu, dzierżawy lub innej podobnej umowy, przez którą dochodzi do oddania do używania powierzchni handlowej, w okresie obowiązywania zakazu prowadzenia działalności w obiektach handlowych o powierzchni sprzedaży powyżej 2000 m zgodnie z właściwymi przepisami, ulega obniżeniu do 20 % wysokości tych świadczeń należnych udostępniającemu na podstawie umowy przed dniem 14 marca 2020 r., a w okresie trzech miesięcy od dnia zniesienia każdego zakazu – do 50 % wysokości tych świadczeń należnych udostępniającemu na podstawie umowy przed dniem 14 marca 2020 r.
 
 2. Jeżeli obniżenie wysokości świadczeń, o którym mowa w ust. 1, nie byłoby uzasadnione na podstawie art. 357 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, każda ze stron może żądać oznaczenia przez sąd wysokości obniżenia świadczeń uprawnionego, o których mowa w ust. 1. Sąd może, po rozważeniu interesów stron, zgodnie z zasadami współżycia społecznego, oznaczyć wysokość obniżenia świadczeń, sposób ich wykonania lub zmienić okres, w jakim udostępniającemu przysługują świadczenia w obniżonej wysokości.
 
-3. Przez powierzchnię handlową, o której mowa w ust. 1, rozumie się powierzchnię znajdującą się w obiekcie handlowym o powierzchni sprzedaży powyżej 2000 m niezależnie od celu oddania powierzchni do używania, w szczególności w celu sprzedaży towarów, świadczenia usług i gastronomii. Art. 15zf. 1. U pracodawcy, u którego wystąpił spadek obrotów gospodarczych w następstwie wystąpienia COVID-19 i który nie zalega w regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Pracy lub Fundusz Solidarnościowy do końca trzeciego kwartału 2019 r., dopuszczalne jest:
+3. Przez powierzchnię handlową, o której mowa w ust. 1, rozumie się powierzchnię znajdującą się w obiekcie handlowym o powierzchni sprzedaży powyżej 2000 m niezależnie od celu oddania powierzchni do używania, w szczególności w celu sprzedaży towarów, świadczenia usług i gastronomii.
+
+**Art. 15zf.**
+
+1. U pracodawcy, u którego wystąpił spadek obrotów gospodarczych w następstwie wystąpienia COVID-19 i który nie zalega w regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Pracy lub Fundusz Solidarnościowy do końca trzeciego kwartału 2019 r., dopuszczalne jest:
 
 - **1)** ograniczenie nieprzerwanego odpoczynku, o którym mowa w art. 132 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, do nie mniej niż 8 godzin, i nieprzerwanego odpoczynku, o którym mowa w art. 133 § 1 tej ustawy, do nie mniej niż 32 godzin, obejmującego co najmniej 8 godzin nieprzerwanego odpoczynku dobowego;
 - **2)** zawarcie porozumienia o wprowadzeniu systemu równoważnego czasu pracy, w którym jest dopuszczalne przedłużenie dobowego wymiaru czasu pracy, nie więcej jednak niż do 12 godzin, w okresie rozliczeniowym nieprzekraczającym 12 miesięcy. Przedłużony dobowy wymiar czasu pracy jest równoważony krótszym dobowym wymiarem czasu pracy w niektórych dniach lub dniami wolnymi od pracy;
@@ -1713,15 +1929,27 @@ Art. 16–30. (pominięte)
 7. Wymogu, o którym mowa w ust. 1, w zakresie niezalegania w regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Pracy lub Fundusz Solidarnościowy, nie stosuje się do pracodawcy będącego przedsiębiorcą w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców w przypadku, gdy:
 
 - **1)** zadłużony przedsiębiorca zawarł umowę z Zakładem Ubezpieczeń Społecznych lub otrzymał decyzję urzędu skarbowego w sprawie spłaty zadłużenia i terminowo opłaca raty lub korzysta z odroczenia terminu płatności albo
-- **2)** zaleganie w regulowaniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Gwarantowanych Świadczeń Pracowniczych lub Fundusz Pracy powstało w okresie spadku obrotów gospodarczych, o którym mowa w ust. 1, a przedsiębiorca dołączył do wniosku o przyznanie świadczeń plan spłaty zadłużenia uprawdopodabniający poprawę kondycji finansowej przedsiębiorcy i pełną spłatę zaległości w regulowaniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Gwarantowanych Świadczeń Pracowniczych lub Fundusz Pracy, wraz z kopią wniosku do Zakładu Ubezpieczeń Społecznych o rozłożenie na raty należności z tytułu tych składek lub o odroczenie płatności tych składek. Art. 15zg. 1. Do okresu dopłat, o których mowa w art. 9 ust. 1 ustawy z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania (Dz. U. z 2023 r. poz. 1296), nie wlicza się okresu karencji w spłacie rat kapitałowych i odsetek albo samych odsetek od kredytu preferencyjnego, jeżeli karencja ta nastąpiła na wniosek kredytobiorcy złożony w związku z wystąpieniem stanu zagrożenia epidemicznego albo stanu epidemii.
+- **2)** zaleganie w regulowaniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Gwarantowanych Świadczeń Pracowniczych lub Fundusz Pracy powstało w okresie spadku obrotów gospodarczych, o którym mowa w ust. 1, a przedsiębiorca dołączył do wniosku o przyznanie świadczeń plan spłaty zadłużenia uprawdopodabniający poprawę kondycji finansowej przedsiębiorcy i pełną spłatę zaległości w regulowaniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Gwarantowanych Świadczeń Pracowniczych lub Fundusz Pracy, wraz z kopią wniosku do Zakładu Ubezpieczeń Społecznych o rozłożenie na raty należności z tytułu tych składek lub o odroczenie płatności tych składek.
+
+**Art. 15zg.**
+
+1. Do okresu dopłat, o których mowa w art. 9 ust. 1 ustawy z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania (Dz. U. z 2023 r. poz. 1296), nie wlicza się okresu karencji w spłacie rat kapitałowych i odsetek albo samych odsetek od kredytu preferencyjnego, jeżeli karencja ta nastąpiła na wniosek kredytobiorcy złożony w związku z wystąpieniem stanu zagrożenia epidemicznego albo stanu epidemii.
 
 2. W okresie karencji w spłacie rat kapitałowych lub odsetek od kredytu preferencyjnego odsetki mogą podlegać kapitalizacji.
 
-3. W przypadku karencji w spłacie rat kapitałowych, która nastąpiła na wniosek kredytobiorcy złożony w związku z wystąpieniem stanu zagrożenia epidemicznego albo stanu epidemii, do odsetek spłacanych w okresie tej karencji stosuje się dopłaty, o których mowa w ustawie z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania. Art. 15zga. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, na wniosek kredytobiorcy, o którym mowa w art. 2 pkt 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2024 r. poz. 1774), bank zawiesza spłatę kredytu mieszkaniowego, o którym mowa w art. 1 ust. 2 tej ustawy, na czas nie dłuższy niż 2 kwartały w całym okresie spłaty kredytu, bez względu na wysokość dochodu gospodarstwa domowego tego kredytobiorcy.
+3. W przypadku karencji w spłacie rat kapitałowych, która nastąpiła na wniosek kredytobiorcy złożony w związku z wystąpieniem stanu zagrożenia epidemicznego albo stanu epidemii, do odsetek spłacanych w okresie tej karencji stosuje się dopłaty, o których mowa w ustawie z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania.
+
+**Art. 15zga.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, na wniosek kredytobiorcy, o którym mowa w art. 2 pkt 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2024 r. poz. 1774), bank zawiesza spłatę kredytu mieszkaniowego, o którym mowa w art. 1 ust. 2 tej ustawy, na czas nie dłuższy niż 2 kwartały w całym okresie spłaty kredytu, bez względu na wysokość dochodu gospodarstwa domowego tego kredytobiorcy.
 
 2. Zawieszenie spłaty na podstawie ust. 1 nie ogranicza możliwości skorzystania z uprawnień, o których mowa w art. 6 ust. 1, art. 10 ust. 3 i art. 10a ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych.
 
-3. Okres zawieszenia spłaty, o którym mowa w ust. 1, oraz okres, o którym mowa w art. 8a ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych, nie łączą się. Art. 15zh. 1. W celu realizacji zadań związanych z przeciwdziałaniem COVID19 w planie finansowym:
+3. Okres zawieszenia spłaty, o którym mowa w ust. 1, oraz okres, o którym mowa w art. 8a ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych, nie łączą się.
+
+**Art. 15zh.**
+
+1. W celu realizacji zadań związanych z przeciwdziałaniem COVID19 w planie finansowym:
 
 - **1)** agencji wykonawczej mogą być dokonywane zmiany przychodów i kosztów mimo niespełnienia wymogów określonych w art. 21 ust. 2 w zakresie planowanych wydatków oraz ust. 4–6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz innych przepisach regulujących zmianę planów finansowych tych jednostek;
 - **2)** instytucji gospodarki budżetowej mogą być dokonywane zmiany przychodów lub kosztów w trakcie roku budżetowego mimo niespełnienia wymogów określonych w art. 24 ust. 7 i 8 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz innych przepisach regulujących zmianę planów finansowych tych jednostek;
@@ -1729,7 +1957,9 @@ Art. 16–30. (pominięte)
 
 2. W celu realizacji zadań związanych z przeciwdziałaniem COVID-19 ujęte w rocznych planach finansowych jednos-tek sektora finansów publicznych koszty mogą ulec zwiększeniu mimo niespełnienia wymogów określonych w art. 52 ust. 2 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz innych przepisach regulujących zwiększenie kosztów tych jednostek.
 
-3. O zmianach, o których mowa w ust. 1, informuje się niezwłocznie Ministra Finansów. Art. 15zi. W celu realizacji zadań związanych z przeciwdziałaniem COVID-19:
+3. O zmianach, o których mowa w ust. 1, informuje się niezwłocznie Ministra Finansów.
+
+**Art. 15zi.** W celu realizacji zadań związanych z przeciwdziałaniem COVID-19:
 
 - **1)** łączna kwota dotacji przyznanych w kolejnych latach na dofinansowanie inwestycji realizowanej przez jednostkę niezaliczoną do sektora finansów publicznych, o której mowa w art. 132 ust. 2 pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz w przepisach odrębnych, może wynosić do 100 % planowanej wartości kosztorysowej inwestycji;
 - **2)** przepisu art. 155 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się;
@@ -1741,16 +1971,37 @@ Art. 16–30. (pominięte)
 - **8)** wydanie rozporządzenia, o którym mowa w art. 179 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, nie wymaga uzyskania opinii sejmowej komisji właściwej do spraw budżetu;
 - **9)** dotacje z budżetu państwa na dofinansowanie zadań, o których mowa w art. 42 ust. 2 pkt 2 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2024 r. poz. 356) oraz w przepisach odrębnych, mogą być udzielane do wysokości 100 % planowanych wydatków jednostki samorządu terytorialnego na realizację danego zadania;
 - **10)** wynagrodzenia mogą być wypłacane ponad kwoty wynagrodzeń ustalone zgodnie z art. 9 ust. 1 ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2024 r. poz. 1356);
-- **11)** przeniesienia wydatków, o których mowa w art. 171 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, mogą zwiększać planowane wydatki na wynagrodzenia po uzyskaniu zgody Ministra Finansów. Art. 15zj. W związku z realizacją zadań związanych z przeciwdziałaniem COVID-19 zatwierdzenie rozliczenia dotacji w zakresie rzeczowym i finansowym, o którym mowa w art. 152 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, powinno nastąpić w terminie 60 dni od dnia jego przedstawienia, a w przypadku dotacji na realizację zadania za granicą – 120 dni od dnia jego przedstawienia. Art. 15zk. 1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii czynności, o których mowa w przepisach wykonawczych wydanych na podstawie art. 210 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w przypadku których przepis określa termin ich dokonania, są dokonywane niezwłocznie, nie później niż w terminie 3 miesięcy od dnia, o którym mowa w tych przepisach.
+- **11)** przeniesienia wydatków, o których mowa w art. 171 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, mogą zwiększać planowane wydatki na wynagrodzenia po uzyskaniu zgody Ministra Finansów.
 
-2. Terminy określone w przepisach, o których mowa w ust. 1, nie wiążą podmiotów obowiązanych do ich zachowania do dnia zakończenia stanu zagrożenia epidemicznego albo stanu epidemii. Art. 15zl. W przypadku wystąpienia stanu zagrożenia epidemicznego albo stanu epidemii skutkującego niemożnością przekazania przez ministra właściwego do spraw finansów publicznych informacji, o której mowa w art. 33 ust. 1 pkt 2 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, informacja ta może być przekazana w terminie późniejszym, niezwłocznie po ustaniu okoliczności uniemożliwiających realizację tego obowiązku, nie później niż w terminie 14 dni od zakończenia stanu zagrożenia epidemicznego albo stanu epidemii. Art. 15zm. 1. Prezes Rady Ministrów w celu finansowania zadań związanych z przeciwdziałaniem COVID-19 może wydać Ministrowi Finansów wiążące polecenia zmiany przeznaczenia rezerwy celowej wraz ze wskazaniem jej pozycji i kwoty.
+**Art. 15zj.** W związku z realizacją zadań związanych z przeciwdziałaniem COVID-19 zatwierdzenie rozliczenia dotacji w zakresie rzeczowym i finansowym, o którym mowa w art. 152 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, powinno nastąpić w terminie 60 dni od dnia jego przedstawienia, a w przypadku dotacji na realizację zadania za granicą – 120 dni od dnia jego przedstawienia.
+
+**Art. 15zk.**
+
+1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii czynności, o których mowa w przepisach wykonawczych wydanych na podstawie art. 210 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w przypadku których przepis określa termin ich dokonania, są dokonywane niezwłocznie, nie później niż w terminie 3 miesięcy od dnia, o którym mowa w tych przepisach.
+
+2. Terminy określone w przepisach, o których mowa w ust. 1, nie wiążą podmiotów obowiązanych do ich zachowania do dnia zakończenia stanu zagrożenia epidemicznego albo stanu epidemii.
+
+**Art. 15zl.** W przypadku wystąpienia stanu zagrożenia epidemicznego albo stanu epidemii skutkującego niemożnością przekazania przez ministra właściwego do spraw finansów publicznych informacji, o której mowa w art. 33 ust. 1 pkt 2 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, informacja ta może być przekazana w terminie późniejszym, niezwłocznie po ustaniu okoliczności uniemożliwiających realizację tego obowiązku, nie później niż w terminie 14 dni od zakończenia stanu zagrożenia epidemicznego albo stanu epidemii.
+
+**Art. 15zm.**
+
+1. Prezes Rady Ministrów w celu finansowania zadań związanych z przeciwdziałaniem COVID-19 może wydać Ministrowi Finansów wiążące polecenia zmiany przeznaczenia rezerwy celowej wraz ze wskazaniem jej pozycji i kwoty.
 
 2. Zmiana przez Ministra Finansów przeznaczenia rezerwy celowej nie wymaga uzyskania opinii sejmowej komisji właściwej do spraw budżetu.
 
-3. Zmiana przeznaczenia rezerwy celowej może zostać dokonana do końca roku budżetowego. Art. 15zn. (utracił moc) Art. 15zo. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii i związanego z tym ryzyka istotnego naruszenia terminów i warunków realizacji zadań jednostek samorządu terytorialnego:
+3. Zmiana przeznaczenia rezerwy celowej może zostać dokonana do końca roku budżetowego.
+
+**Art. 15zn.** (utracił moc)
+
+**Art. 15zo.** W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii i związanego z tym ryzyka istotnego naruszenia terminów i warunków realizacji zadań jednostek samorządu terytorialnego:
 
 - **1)** wójt (burmistrz, prezydent miasta), zarząd powiatu lub zarząd województwa może dokonać zmian i czynności, o których mowa w art. 15zn pkt 1 i 2,
-- **2)** zaciągnięcie lub wyemitowanie przez jednostkę samorządu terytorialnego zobowiązań, o których mowa w art. 91 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, nie wymaga uzyskania opinii regionalnej izby obrachunkowej o możliwości spłaty zobowiązań, o ile zobowiązania te były przewidziane w prognozie kwoty długu i jednostka uzyskała pozytywną opinię regionalnej izby obrachunkowej o tej prognozie – do odwołania stanu zagrożenia epidemicznego albo stanu epidemii. Art. 15zoa. 1. W roku 2020 jednostka samorządu terytorialnego, dokonując zmian budżetu, może przekroczyć relację, o której mowa w art. 242 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, o kwotę:
+- **2)** zaciągnięcie lub wyemitowanie przez jednostkę samorządu terytorialnego zobowiązań, o których mowa w art. 91 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, nie wymaga uzyskania opinii regionalnej izby obrachunkowej o możliwości spłaty zobowiązań, o ile zobowiązania te były przewidziane w prognozie kwoty długu i jednostka uzyskała pozytywną opinię regionalnej izby obrachunkowej o tej prognozie – do odwołania stanu zagrożenia epidemicznego albo stanu epidemii.
+
+**Art. 15zoa.**
+
+1. W roku 2020 jednostka samorządu terytorialnego, dokonując zmian budżetu, może przekroczyć relację, o której mowa w art. 242 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, o kwotę:
+
 - **1)** planowanych wydatków bieżących ponoszonych w celu realizacji zadań związanych z przeciwdziałaniem COVID-19 w części, w jakiej zostały sfinansowane dochodami majątkowymi lub przychodami, o których mowa w art. 217 ust. 2 pkt 1–4 i 7 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **2)** planowanego ubytku w dochodach będącego skutkiem wystąpienia COVID-19.
 
@@ -1762,26 +2013,50 @@ Art. 16–30. (pominięte)
 
 2. Do czasu podjęcia uchwały budżetowej na rok budżetowy 2021, jednak nie później niż do dnia 31 marca 2021 roku, podstawą gospodarki finansowej jednostki samorządu terytorialnego jest projekt uchwały budżetowej przedstawiony organowi stanowiącemu jednostki samorządu terytorialnego.
 
-3. W przypadku niepodjęcia uchwały budżetowej w terminie, o którym mowa w ust. 1, regionalna izba obrachunkowa, w terminie do końca kwietnia roku budżetowego, ustala budżet jednostki samorządu terytorialnego w zakresie zadań własnych oraz zadań zleconych. Do dnia ustalenia budżetu przez regionalną izbę obrachunkową podstawą gospodarki finansowej jest projekt uchwały, o której mowa w ust. 2. Art. 15zob. 1. Ograniczenia określonego w art. 243 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych w zakresie spłaty zobowiązań jednostki samorządu terytorialnego nie stosuje się do wykupów papierów wartościowych, spłaty rat kredytów i pożyczek wraz z należnymi odsetkami i dyskontem, odpowiednio emitowanych lub zaciągniętych w 2020 r. do równowartości kwoty ubytku w wykonanych dochodach jednostki będącego skutkiem wystąpienia COVID-19. Przepisy art. 15zoa ust. 2–4 stosuje się odpowiednio.
+3. W przypadku niepodjęcia uchwały budżetowej w terminie, o którym mowa w ust. 1, regionalna izba obrachunkowa, w terminie do końca kwietnia roku budżetowego, ustala budżet jednostki samorządu terytorialnego w zakresie zadań własnych oraz zadań zleconych. Do dnia ustalenia budżetu przez regionalną izbę obrachunkową podstawą gospodarki finansowej jest projekt uchwały, o której mowa w ust. 2.
+
+**Art. 15zob.**
+
+1. Ograniczenia określonego w art. 243 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych w zakresie spłaty zobowiązań jednostki samorządu terytorialnego nie stosuje się do wykupów papierów wartościowych, spłaty rat kredytów i pożyczek wraz z należnymi odsetkami i dyskontem, odpowiednio emitowanych lub zaciągniętych w 2020 r. do równowartości kwoty ubytku w wykonanych dochodach jednostki będącego skutkiem wystąpienia COVID-19. Przepisy art. 15zoa ust. 2–4 stosuje się odpowiednio.
 
 2. Ustalając relację ograniczającą wysokość spłaty długu jednostki samorządu terytorialnego:
 
 - **1)** na lata 2020–2025 wydatki bieżące budżetu tej jednostki podlegają pomniejszeniu o wydatki bieżące na obsługę długu; w tym zakresie nie ma zastosowania art. 9 ust. 3 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2500 oraz z 2021 r. poz. 1927);
 - **2)** na rok 2021 i lata kolejne wydatki bieżące budżetu tej jednostki podlegają pomniejszeniu o wydatki bieżące poniesione w 2020 r. w celu realizacji zadań związanych z przeciwdziałaniem COVID-19.
 
-3. Zaciągnięcie zobowiązań, o których mowa w ust. 1, nie może zagrażać realizacji zadań publicznych przez jednostkę samorządu terytorialnego w roku budżetowym i latach następnych. Regionalna izba obrachunkowa, wydając opinię o możliwości spłaty tych zobowiązań, ocenia w szczególności wpływ planowanych zobowiązań na realizację zadań publicznych. Art. 15zoc. 1. Na koniec roku budżetowego 2020 łączna kwota długu jednostki samorządu terytorialnego nie może przekroczyć 80 % wykonanych dochodów ogółem tej jednostki w tym roku budżetowym.
+3. Zaciągnięcie zobowiązań, o których mowa w ust. 1, nie może zagrażać realizacji zadań publicznych przez jednostkę samorządu terytorialnego w roku budżetowym i latach następnych. Regionalna izba obrachunkowa, wydając opinię o możliwości spłaty tych zobowiązań, ocenia w szczególności wpływ planowanych zobowiązań na realizację zadań publicznych.
+
+**Art. 15zoc.**
+
+1. Na koniec roku budżetowego 2020 łączna kwota długu jednostki samorządu terytorialnego nie może przekroczyć 80 % wykonanych dochodów ogółem tej jednostki w tym roku budżetowym.
 
 2. W trakcie roku budżetowego 2020 łączna kwota długu jednostki samorządu terytorialnego na koniec kwartału nie może przekraczać 80 % planowanych w danym roku budżetowym dochodów tej jednostki.
 
-3. Relacje, o których mowa w ust. 1 i 2, mogą być niezachowane jedynie w przypadku, gdy jednostka samorządu terytorialnego spełnia ograniczenie w zakresie spłaty zobowiązań jednostki samorządu terytorialnego, określone w art. 243 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych bez zastosowania wyłączenia określonego w art. 15zob ust. 1. Art. 15zod. W roku 2020 raty części oświatowej, wyrównawczej, równoważącej i regionalnej subwencji ogólnej mogą być przekazywane jednostkom samorządu terytorialnego w terminach wcześniejszych niż określone w art. 34 ust. 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego. Art. 15zoe. 1. W czerwcu i lipcu 2020 r. jednostki samorządu terytorialnego mogą nie wpłacać do budżetu państwa rat wpłat, o których mowa w art. 29, art. 30 i art. 70a ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego. Od niewpłaconych kwot nie nalicza się odsetek.
+3. Relacje, o których mowa w ust. 1 i 2, mogą być niezachowane jedynie w przypadku, gdy jednostka samorządu terytorialnego spełnia ograniczenie w zakresie spłaty zobowiązań jednostki samorządu terytorialnego, określone w art. 243 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych bez zastosowania wyłączenia określonego w art. 15zob ust. 1.
 
-2. Kwoty niewpłacone na podstawie ust. 1 jednostki samorządu terytorialnego wpłacają w równych częściach w miesiącach sierpień–grudzień 2020 r., wraz z ratami należnymi za te miesiące. Art. 15zof. W celu przeciwdziałania skutkom COVID-19 w roku 2021 rezerwę części oświatowej subwencji ogólnej, o której mowa w art. 28 ust. 2 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, zwiększa się o kwotę 187 mln zł ze środków budżetu państwa. Art. 15zp. 1. Przedsiębiorca prowadzący działalność związaną z organizacją wystaw i kongresów, w tym z udostępnianiem pomieszczeń i powierzchni na imprezy targowe, szkolenia, konferencje lub egzaminy, a także prowadzący działalność kulturalną, rozrywkową, rekreacyjną i sportową lub organizujący wystawy tematyczne lub imprezy plenerowe w przypadku rozwiązania umowy z klientem, w tym na świadczenie usług dodatkowych związanych z udostępnieniem powierzchni lub pomieszczeń, które to rozwiązanie umowy pozostaje w bezpośrednim związku z negatywnymi skutkami COVID-19, jest zobowiązany zwrócić wpłacone mu przez klienta środki w terminie 180 dni od dnia skutecznego rozwiązania umowy.
+**Art. 15zod.** W roku 2020 raty części oświatowej, wyrównawczej, równoważącej i regionalnej subwencji ogólnej mogą być przekazywane jednostkom samorządu terytorialnego w terminach wcześniejszych niż określone w art. 34 ust. 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego.
+
+**Art. 15zoe.**
+
+1. W czerwcu i lipcu 2020 r. jednostki samorządu terytorialnego mogą nie wpłacać do budżetu państwa rat wpłat, o których mowa w art. 29, art. 30 i art. 70a ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego. Od niewpłaconych kwot nie nalicza się odsetek.
+
+2. Kwoty niewpłacone na podstawie ust. 1 jednostki samorządu terytorialnego wpłacają w równych częściach w miesiącach sierpień–grudzień 2020 r., wraz z ratami należnymi za te miesiące.
+
+**Art. 15zof.** W celu przeciwdziałania skutkom COVID-19 w roku 2021 rezerwę części oświatowej subwencji ogólnej, o której mowa w art. 28 ust. 2 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, zwiększa się o kwotę 187 mln zł ze środków budżetu państwa.
+
+**Art. 15zp.**
+
+1. Przedsiębiorca prowadzący działalność związaną z organizacją wystaw i kongresów, w tym z udostępnianiem pomieszczeń i powierzchni na imprezy targowe, szkolenia, konferencje lub egzaminy, a także prowadzący działalność kulturalną, rozrywkową, rekreacyjną i sportową lub organizujący wystawy tematyczne lub imprezy plenerowe w przypadku rozwiązania umowy z klientem, w tym na świadczenie usług dodatkowych związanych z udostępnieniem powierzchni lub pomieszczeń, które to rozwiązanie umowy pozostaje w bezpośrednim związku z negatywnymi skutkami COVID-19, jest zobowiązany zwrócić wpłacone mu przez klienta środki w terminie 180 dni od dnia skutecznego rozwiązania umowy.
 
 2. Rozwiązanie umowy, o którym mowa w ust. 1, nie jest skuteczne w przypadku wyrażenia przez klienta zgody na otrzymanie w zamian od przedsiębiorcy vouchera do realizacji na poczet przyszłych wydarzeń w obszarze działalności przedsiębiorcy w ciągu roku od dnia, w którym miało się odbyć wydarzenie, za które klient wniósł zapłatę.
 
 3. Wartość vouchera, o którym mowa w ust. 2, nie może być niższa niż kwota wpłacona na poczet realizacji dotychczasowej umowy przez klienta.
 
-4. Przepisy ust. 1–3 stosuje się odpowiednio do przedsiębiorcy lub rolnika świadczącego usługi hotelarskie w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych. Art. 15zq. 1. Osobie:
+4. Przepisy ust. 1–3 stosuje się odpowiednio do przedsiębiorcy lub rolnika świadczącego usługi hotelarskie w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych.
+
+**Art. 15zq.**
+
+1. Osobie:
 
 - **1)** prowadzącej pozarolniczą działalność gospodarczą na podstawie przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców lub innych przepisów szczególnych, zwanej dalej „osobą prowadzącą pozarolniczą działalność gospodarczą”,
 - **2)** wykonującej umowę agencyjną, umowę zlecenia, inną umowę o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące zlecenia albo umowę o dzieło, zwane dalej „umową cywilnoprawną” – przysługuje świadczenie postojowe.
@@ -1817,13 +2092,21 @@ Art. 16–30. (pominięte)
 79. 90.A, świadczenie postojowe przysługuje, jeżeli:
 
 - **1)** zawiesiła prowadzenie tej działalności po dniu 31 sierpnia 2019 r.;
-- **2)** działalność ta ma charakter sezonowy i w 2019 r. była wykonywana przez okres nie dłuższy niż 9 miesięcy. Art. 15zr. 1. Świadczenie postojowe przysługuje w wysokości 80 % kwoty minimalnego wynagrodzenia za pracę ustalanego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, obowiązującego w 2020 r. nie więcej niż trzykrotnie, z zastrzeżeniem ust. 2 i 4.
+- **2)** działalność ta ma charakter sezonowy i w 2019 r. była wykonywana przez okres nie dłuższy niż 9 miesięcy.
+
+**Art. 15zr.**
+
+1. Świadczenie postojowe przysługuje w wysokości 80 % kwoty minimalnego wynagrodzenia za pracę ustalanego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, obowiązującego w 2020 r. nie więcej niż trzykrotnie, z zastrzeżeniem ust. 2 i 4.
 
 2. W przypadku gdy suma przychodów z umów cywilnoprawnych w rozumieniu przepisów o podatku dochodowym od osób fizycznych uzyskana w miesiącu poprzedzającym miesiąc, w którym został złożony wniosek o świadczenie postojowe wynosi mniej niż 50 % kwoty minimalnego wynagrodzenia za pracę obowiązującego w 2020 r. świadczenie postojowe przysługuje w wysokości sumy wynagrodzeń z tytułu wykonywania tych umów cywilnoprawnych.
 
 3. Osobie prowadzącej pozarolniczą działalność gospodarczą, o której mowa w art. 15zq ust. 6 pkt 1, świadczenie postojowe przysługuje w wysokości 50 % kwoty minimalnego wynagrodzenia za pracę ustalanego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, obowiązującego w 2020 r. nie więcej niż trzykrotnie.
 
-4. W przypadku zbiegu praw do więcej niż jednego świadczenia postojowego przysługuje jedno świadczenie postojowe. Art. 15zs. 1. Ustalenie prawa do świadczenia postojowego następuje na wniosek osoby, o której mowa w art. 15zq ust. 1, zwanej dalej „osobą uprawnioną”, składany do Zakładu Ubezpieczeń Społecznych.
+4. W przypadku zbiegu praw do więcej niż jednego świadczenia postojowego przysługuje jedno świadczenie postojowe.
+
+**Art. 15zs.**
+
+1. Ustalenie prawa do świadczenia postojowego następuje na wniosek osoby, o której mowa w art. 15zq ust. 1, zwanej dalej „osobą uprawnioną”, składany do Zakładu Ubezpieczeń Społecznych.
 
 2. W przypadku osoby wykonującej umowę cywilnoprawną wniosek, o którym mowa w ust. 1, składany jest za pośrednictwem odpowiednio zleceniodawcy lub zamawiającego.
 
@@ -1865,7 +2148,11 @@ Art. 16–30. (pominięte)
 
 6. Wniosek, o którym mowa w ust. 1, może być złożony wyłącznie w formie dokumentu elektronicznego za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych, w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo wykorzystując sposób potwierdzania pochodzenia oraz integralności danych udostępniony bezpłatnie przez Zakład Ubezpieczeń Społecznych w systemie teleinformatycznym.
 
-7. Wnioski o świadczenie postojowe mogą być złożone do Zakładu Ubezpieczeń Społecznych najpóźniej w terminie 3 miesięcy od miesiąca, w którym został zniesiony ogłoszony stan epidemii. Art. 15zs 1 . 1. Osobie, o której mowa w art. 15zq ust. 1 pkt 1, prowadzącej, na dzień złożenia wniosku, o którym mowa w ust. 2, pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem 49.39.Z, 55.10.Z, 77.39.Z, 79.11.A,
+7. Wnioski o świadczenie postojowe mogą być złożone do Zakładu Ubezpieczeń Społecznych najpóźniej w terminie 3 miesięcy od miesiąca, w którym został zniesiony ogłoszony stan epidemii.
+
+**Art. 15zs¹.**
+
+1. Osobie, o której mowa w art. 15zq ust. 1 pkt 1, prowadzącej, na dzień złożenia wniosku, o którym mowa w ust. 2, pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem 49.39.Z, 55.10.Z, 77.39.Z, 79.11.A,
 
 79. 12.Z, 90.01.Z, 90.02.Z, 93.11.Z, 93.29.A, 93.29.B, 93.29.Z, która skorzystała ze świadczenia postojowego w trybie art. 15zs lub art. 15zua, przysługuje prawo do dodatkowego świadczenia postojowego, jeżeli przychód z tej działalności uzyskany w miesiącu kalendarzowym poprze-dzającym miesiąc złożenia wniosku, o którym mowa w ust. 2, był niższy co najmniej o 75 % w stosunku do przychodu uzyskanego w tym samym miesiącu kalendarzowym w 2019 r.
 
@@ -1877,7 +2164,11 @@ Art. 16–30. (pominięte)
 
 5. Minister właściwy do spraw turystyki, na wniosek Prezesa Zakładu Ubezpieczeń Społecznych, przekazuje na wyodrębniony rachunek bankowy Zakładu Ubezpieczeń Społecznych środki na wypłatę dodatkowego świadczenia postojowego oraz kosztów obsługi wypłaty tego świadczenia.
 
-6. Do dodatkowego świadczenia postojowego stosuje się odpowiednio art. 15zr ust. 1, 3 i 4, art. 15zs ust. 6 i 7, art. 15zu, art. 15zua, art. 15zv, art. 15zx, art. 15zy, art. 15zz i art. 15zza. Art. 15zs 2 . 1. Osobie, o której mowa w art. 15zq ust. 1 pkt 1, prowadzącej na dzień 30 września 2020 r. pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem 47.71.Z, 47.72.Z, 47.81.Z, 47.82.Z, 47.89.Z, 49.39.Z, 56.10.A,
+6. Do dodatkowego świadczenia postojowego stosuje się odpowiednio art. 15zr ust. 1, 3 i 4, art. 15zs ust. 6 i 7, art. 15zu, art. 15zua, art. 15zv, art. 15zx, art. 15zy, art. 15zz i art. 15zza.
+
+**Art. 15zs².**
+
+1. Osobie, o której mowa w art. 15zq ust. 1 pkt 1, prowadzącej na dzień 30 września 2020 r. pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem 47.71.Z, 47.72.Z, 47.81.Z, 47.82.Z, 47.89.Z, 49.39.Z, 56.10.A,
 
 56. 10.B, 56.21.Z, 56.29.Z, 56.30.Z, 59.11.Z, 59.12.Z, 59.13.Z, 59.14.Z, 59.20.Z,
 
@@ -1901,7 +2192,11 @@ Art. 16–30. (pominięte)
 
 7. Do jednorazowego dodatkowego świadczenia postojowego, o którym mowa w ust. 1, stosuje się odpowiednio art. 15zr ust. 1, 3 i 4, art. 15zs ust. 6 i 7, art. 15zu, art. 15zv, art. 15zx, art. 15zz i art. 15zza.
 
-8. Oceny spełnienia warunku, o którym mowa w ust. 1, w zakresie oznaczenia prowadzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) 2007 dokonuje się na podstawie danych zawartych w rejestrze REGON w brzmieniu na dzień 30 września 2020 r. Art. 15zs 3 . 1. Osobie, o której mowa w art. 15zq ust. 1 pkt 2, nieposiadającej innego tytułu do ubezpieczeń społecznych, przysługuje prawo do jednorazowego dodatkowego świadczenia postojowego, jeżeli przychód z umowy cywilnoprawnej zawartej do dnia wejścia w życie ustawy, z tytułu:
+8. Oceny spełnienia warunku, o którym mowa w ust. 1, w zakresie oznaczenia prowadzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) 2007 dokonuje się na podstawie danych zawartych w rejestrze REGON w brzmieniu na dzień 30 września 2020 r.
+
+**Art. 15zs³.**
+
+1. Osobie, o której mowa w art. 15zq ust. 1 pkt 2, nieposiadającej innego tytułu do ubezpieczeń społecznych, przysługuje prawo do jednorazowego dodatkowego świadczenia postojowego, jeżeli przychód z umowy cywilnoprawnej zawartej do dnia wejścia w życie ustawy, z tytułu:
 
 - **1)** działalności twórczej w zakresie sztuk plastycznych, literatury, muzyki, twórczości audialnej, utworów audiowizualnych, teatru, kostiumografii, scenografii, reżyserii, choreografii, lutnictwa artystycznego i sztuki ludowej,
 - **2)** działalności artystycznej w dziedzinie sztuki aktorskiej, estradowej, tanecznej i cyrkowej oraz w dziedzinie dyrygentury, wokalistyki i instrumentalistyki,
@@ -1925,7 +2220,11 @@ Art. 16–30. (pominięte)
 
 8. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, na wniosek Prezesa Zakładu Ubezpieczeń Społecznych, przekazuje na wyodrębniony rachunek bankowy Zakładu Ubezpieczeń Społecznych środki na wypłatę dodatkowego świadczenia postojowego oraz kosztów obsługi wypłaty tego świadczenia.
 
-9. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, przyznać ponowną wypłatę jednorazowego dodatkowego świadczenia postojowego, o którym mowa w ust. 1, dla osób, które otrzymały to świadczenie, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii oraz skutki nimi wywołane. Art. 15zs 4 . 1. Świadczenie postojowe przysługuje również osobie, o której mowa w art. 15zq ust. 1 pkt 1, która na dzień 30 września 2020 r. prowadziła pozarolniczą działalność gospodarczą polegającą na sprzedaży środków spożywczych, papierniczych i piśmienniczych na rzecz uczniów, słuchaczy lub wychowanków na terenie jednostek systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.11.Z albo 47.19.Z.
+9. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, przyznać ponowną wypłatę jednorazowego dodatkowego świadczenia postojowego, o którym mowa w ust. 1, dla osób, które otrzymały to świadczenie, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii oraz skutki nimi wywołane.
+
+**Art. 15zs⁴.**
+
+1. Świadczenie postojowe przysługuje również osobie, o której mowa w art. 15zq ust. 1 pkt 1, która na dzień 30 września 2020 r. prowadziła pozarolniczą działalność gospodarczą polegającą na sprzedaży środków spożywczych, papierniczych i piśmienniczych na rzecz uczniów, słuchaczy lub wychowanków na terenie jednostek systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.11.Z albo 47.19.Z.
 
 2. Oceny spełnienia warunku, o którym mowa w ust. 1, w zakresie oznaczenia prowadzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) 2007 dokonuje się na podstawie danych zawartych w rejestrze REGON w brzmieniu na dzień 30 września 2020 r.
 
@@ -1951,7 +2250,11 @@ Art. 16–30. (pominięte)
 
 11. Minister właściwy do spraw pracy, na wniosek Prezesa Zakładu Ubezpieczeń Społecznych, przekazuje na wyodrębniony rachunek bankowy Zakładu Ubezpieczeń Społecznych środki na wypłatę świadczenia postojowego, o którym mowa w ust. 1, oraz na pokrycie kosztów obsługi wypłaty tego świadczenia, o których mowa w ust. 9.
 
-12. Do świadczenia postojowego, o którym mowa w ust. 1, stosuje się odpowiednio art. 15zs ust. 6 i 7, art. 15zu, art. 15zv, art. 15zx, art. 15zz i art. 15zza. Art. 15zsa. 1. W przypadku odmowy złożenia wniosku przez zleceniodawcę w sposób wskazany w art. 15zs ust. 2, osoba uprawniona, która jest zleceniobiorcą, może złożyć wniosek o świadczenie postojowe do Zakładu Ubezpieczeń Społecznych.
+12. Do świadczenia postojowego, o którym mowa w ust. 1, stosuje się odpowiednio art. 15zs ust. 6 i 7, art. 15zu, art. 15zv, art. 15zx, art. 15zz i art. 15zza.
+
+**Art. 15zsa.**
+
+1. W przypadku odmowy złożenia wniosku przez zleceniodawcę w sposób wskazany w art. 15zs ust. 2, osoba uprawniona, która jest zleceniobiorcą, może złożyć wniosek o świadczenie postojowe do Zakładu Ubezpieczeń Społecznych.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
@@ -1977,7 +2280,11 @@ Art. 16–30. (pominięte)
 
 3. Oświadczenie, o których mowa w ust. 2 pkt 3, osoba uprawniona składa pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. W oświadczeniu jest zawarta klauzula następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-4. Do wniosku, o którym mowa w ust. 1, stosuje się art. 15zs ust. 6 i 7. Art. 15zt. 1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, przyznać ponowną wypłatę świadczenia postojowego, o którym mowa w art. 15zq, dla wszystkich albo niektórych osób, które otrzymały to świadczenie na podstawie art. 15zu, lub przyznać świadczenie postojowe innym osobom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
+4. Do wniosku, o którym mowa w ust. 1, stosuje się art. 15zs ust. 6 i 7.
+
+**Art. 15zt.**
+
+1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, przyznać ponowną wypłatę świadczenia postojowego, o którym mowa w art. 15zq, dla wszystkich albo niektórych osób, które otrzymały to świadczenie na podstawie art. 15zu, lub przyznać świadczenie postojowe innym osobom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
 
 2. Rozporządzenie, o którym mowa w ust. 1, może ustalać krąg osób, którym przysługuje świadczenie postojowe, poprzez określenie:
 
@@ -2001,25 +2308,45 @@ Art. 16–30. (pominięte)
 
 8. Koszty obsługi, o których mowa w ust. 7, wynoszą 0,5 % kwoty przeznaczonej na wypłatę świadczenia postojowego przyznawanego na podstawie rozporządzenia, o którym mowa w ust. 1.
 
-9. Minister właściwy do spraw pracy, na wniosek Prezesa Zakładu Ubezpieczeń Społecznych, przekazuje na wyodrębniony rachunek bankowy Zakładu Ubezpieczeń Społecznych środki na wypłatę świadczenia postojowego przyznawanego na podstawie rozporządzenia, o którym mowa w ust. 1, oraz na pokrycie kosztów obsługi wypłaty tego świadczenia, o których mowa w ust. 7. Art. 15zu. 1. Zakład Ubezpieczeń Społecznych wypłaca świadczenie postojowe niezwłocznie po wyjaśnieniu ostatniej okoliczności niezbędnej do jego przyznania.
+9. Minister właściwy do spraw pracy, na wniosek Prezesa Zakładu Ubezpieczeń Społecznych, przekazuje na wyodrębniony rachunek bankowy Zakładu Ubezpieczeń Społecznych środki na wypłatę świadczenia postojowego przyznawanego na podstawie rozporządzenia, o którym mowa w ust. 1, oraz na pokrycie kosztów obsługi wypłaty tego świadczenia, o których mowa w ust. 7.
+
+**Art. 15zu.**
+
+1. Zakład Ubezpieczeń Społecznych wypłaca świadczenie postojowe niezwłocznie po wyjaśnieniu ostatniej okoliczności niezbędnej do jego przyznania.
 
 2. Wypłata świadczenia postojowego następuje w formie bezgotówkowej na wskazany rachunek płatniczy osoby uprawnionej prowadzony w kraju lub wydany w kraju instrument płatniczy w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych.
 
 3. Ze świadczenia postojowego nie dokonuje się potrąceń i egzekucji.
 
-4. Banki, na pisemne żądanie Zakładu Ubezpieczeń Społecznych albo przekazane z użyciem środków komunikacji elektronicznej, są zobowiązane do sporządzania i przekazywania informacji dotyczących numerów rachunków bankowych osób uprawnionych do wypłaty świadczenia postojowego oraz przekazywania danych umożliwiających identyfikację posiadaczy tych rachunków. Art. 15zua. 1. Świadczenie postojowe może zostać przyznane ponownie, na podstawie oświadczenia osoby uprawnionej, której wypłacono świadczenie postojowe, o którym mowa w art. 15zu ust. 1.
+4. Banki, na pisemne żądanie Zakładu Ubezpieczeń Społecznych albo przekazane z użyciem środków komunikacji elektronicznej, są zobowiązane do sporządzania i przekazywania informacji dotyczących numerów rachunków bankowych osób uprawnionych do wypłaty świadczenia postojowego oraz przekazywania danych umożliwiających identyfikację posiadaczy tych rachunków.
+
+**Art. 15zua.**
+
+1. Świadczenie postojowe może zostać przyznane ponownie, na podstawie oświadczenia osoby uprawnionej, której wypłacono świadczenie postojowe, o którym mowa w art. 15zu ust. 1.
 
 2. Wypłata po raz kolejny świadczenia postojowego może zostać dokonana nie wcześniej niż w miesiącu następującym po miesiącu wypłaty świadczenia postojowego, o którym mowa w art. 15zu ust. 1.
 
-3. Warunkiem przyznania kolejnego świadczenia postojowego jest wykazanie w oświadczeniu, że sytuacja materialna wykazana we wniosku, o którym mowa w art. 15zs albo 15zsa, nie uległa poprawie. Art. 15zv. 1. Odmowa prawa do świadczenia postojowego następuje w drodze decyzji.
+3. Warunkiem przyznania kolejnego świadczenia postojowego jest wykazanie w oświadczeniu, że sytuacja materialna wykazana we wniosku, o którym mowa w art. 15zs albo 15zsa, nie uległa poprawie.
 
-2. Od decyzji o odmowie prawa do świadczenia postojowego, o której mowa w ust. 1, przysługuje odwołanie do właściwego sądu w terminie i według zasad określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620) dla postępowań w sprawach z zakresu ubezpieczeń społecznych. Przepisy art. 83 ust. 5–7 i art. 83a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio. Art. 15zw. 1. Świadczenie postojowe, o którym mowa w art. 15zq, oraz koszty obsługi wypłaty tego świadczenia są finansowane z Funduszu Pracy.
+**Art. 15zv.**
+
+1. Odmowa prawa do świadczenia postojowego następuje w drodze decyzji.
+
+2. Od decyzji o odmowie prawa do świadczenia postojowego, o której mowa w ust. 1, przysługuje odwołanie do właściwego sądu w terminie i według zasad określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620) dla postępowań w sprawach z zakresu ubezpieczeń społecznych. Przepisy art. 83 ust. 5–7 i art. 83a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio.
+
+**Art. 15zw.**
+
+1. Świadczenie postojowe, o którym mowa w art. 15zq, oraz koszty obsługi wypłaty tego świadczenia są finansowane z Funduszu Pracy.
 
 2. Koszty obsługi, o których mowa w ust. 1, wynoszą 0,5 % kwoty przeznaczonej na wypłatę świadczenia postojowego.
 
 3. Minister właściwy do spraw pracy, na wniosek Prezesa Zakładu Ubezpieczeń Społecznych, przekazuje w roku 2020 na wyodrębniony rachunek bankowy Zakładu Ubezpieczeń Społecznych środki Funduszu Pracy na wypłatę świadczenia postojowego oraz kosztów obsługi wypłaty tego świadczenia.
 
-4. W celu zapewnienia finansowania zadań, o których mowa w ust. 1 i 2, minister właściwy do spraw pracy dokonuje zmian w planie finansowym Funduszu Pracy polegających na zwiększeniu na ten cel kosztów Funduszu i odpowiednim zmniejszeniu stanu środków Funduszu na koniec roku budżetowego. Art. 15zx. 1. Osoba, która pobrała nienależnie świadczenie postojowe, jest obowiązana do jego zwrotu wraz z odsetkami ustawowymi za opóźnienie, w wysokości i na zasadach określonych przepisami prawa cywilnego.
+4. W celu zapewnienia finansowania zadań, o których mowa w ust. 1 i 2, minister właściwy do spraw pracy dokonuje zmian w planie finansowym Funduszu Pracy polegających na zwiększeniu na ten cel kosztów Funduszu i odpowiednim zmniejszeniu stanu środków Funduszu na koniec roku budżetowego.
+
+**Art. 15zx.**
+
+1. Osoba, która pobrała nienależnie świadczenie postojowe, jest obowiązana do jego zwrotu wraz z odsetkami ustawowymi za opóźnienie, w wysokości i na zasadach określonych przepisami prawa cywilnego.
 
 2. Za nienależnie pobrane świadczenie postojowe uważa się świadczenie:
 
@@ -2048,11 +2375,27 @@ Art. 16–30. (pominięte)
 11. W przypadku, o którym mowa w ust. 9, decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma w sprawie nienależnie pobranego świadczenia postojowego uznaje się za doręczone:
 
 - **1)** w momencie ich odbioru przez osobę, która pobrała nienależnie świadczenie postojowe, na profilu informacyjnym;
-- **2)** po upływie 14 dni od dnia umieszczenia decyzji, postanowienia, zawiadomienia, wezwania, informacji i innego pisma w sprawie nienależnie pobranego świadczenia postojowego na profilu informacyjnym – w przypadku ich nieodebrania. Art. 15zy. 1. Zakład Ubezpieczeń Społecznych informuje Szefa Krajowej Administracji Skarbowej o wysokości przychodu wykazanego we wniosku, o którym mowa w art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2, art. 15zs ust. 7 albo art. 15zsa ust. 1.
+- **2)** po upływie 14 dni od dnia umieszczenia decyzji, postanowienia, zawiadomienia, wezwania, informacji i innego pisma w sprawie nienależnie pobranego świadczenia postojowego na profilu informacyjnym – w przypadku ich nieodebrania.
+
+**Art. 15zy.**
+
+1. Zakład Ubezpieczeń Społecznych informuje Szefa Krajowej Administracji Skarbowej o wysokości przychodu wykazanego we wniosku, o którym mowa w art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2, art. 15zs ust. 7 albo art. 15zsa ust. 1.
 
 2. Szef Krajowej Administracji Skarbowej informuje Zakład Ubezpieczeń Społecznych o rozbieżnościach pomiędzy przychodem wykazanym we wniosku, o którym mowa w art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2, art. 15zs ust. 7 albo art. 15zsa ust. 1, a przychodem wykazanym dla celów podatkowych.
 
-3. Wymiana informacji, o których mowa w ust. 1 i 2, następuje w formie elektronicznej. Art. 15zya. Na żądanie Zakładu Ubezpieczeń Społecznych Główny Urząd Statystyczny jest obowiązany przekazać informację, czy wskazana osoba uprawniona, o której mowa w art. 15zs ust. 1, art. 15zs ust. 1 lub art. 15zs ust. 1, na wskazany dzień prowadziła pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem, o którym mowa odpowiednio w art. 15zs ust. 1, art. 15zs ust. 1 albo art. 15zs ust. 1. Art. 15zyb. Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez osobę uprawnioną, zleceniodawcę lub zamawiającego we wniosku, o którym mowa w art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2, art. 15zs , art. 15zs ust. 7 lub art. 15zsa ust. 1, lub w oświadczeniu, o którym mowa w art. 15zua ust. 3. Przepisy rozdziału 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio. Art. 15zz. Zakład Ubezpieczeń Społecznych jest uprawniony do pozyskiwania i przetwarzania danych osobowych w zakresie niezbędnym do przyznawania, ustania prawa do świadczenia postojowego i wypłacania tego świadczenia. Art. 15zza. Do zamówień na usługi lub dostawy udzielane przez Zakład Ubezpieczeń Społecznych w związku z realizacją zadań związanych z ustalaniem prawa lub wypłatą świadczenia postojowego nie stosuje się przepisów o zamówieniach publicznych. Art. 15zzb. 1. Starosta może, na podstawie zawartej umowy, przyznać przedsiębiorcy w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców dofinansowanie części kosztów wynagrodzeń pracowników w rozumieniu art. 15g ust. 4 zdanie pierwsze oraz należnych od tych wynagrodzeń składek na ubezpieczenia społeczne w przypadku spadku obrotów gospodarczych w następstwie wystąpienia COVID-19.
+3. Wymiana informacji, o których mowa w ust. 1 i 2, następuje w formie elektronicznej.
+
+**Art. 15zya.** Na żądanie Zakładu Ubezpieczeń Społecznych Główny Urząd Statystyczny jest obowiązany przekazać informację, czy wskazana osoba uprawniona, o której mowa w art. 15zs ust. 1, art. 15zs ust. 1 lub art. 15zs ust. 1, na wskazany dzień prowadziła pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem, o którym mowa odpowiednio w art. 15zs ust. 1, art. 15zs ust. 1 albo art. 15zs ust. 1.
+
+**Art. 15zyb.** Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez osobę uprawnioną, zleceniodawcę lub zamawiającego we wniosku, o którym mowa w art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2, art. 15zs , art. 15zs ust. 7 lub art. 15zsa ust. 1, lub w oświadczeniu, o którym mowa w art. 15zua ust. 3. Przepisy rozdziału 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio.
+
+**Art. 15zz.** Zakład Ubezpieczeń Społecznych jest uprawniony do pozyskiwania i przetwarzania danych osobowych w zakresie niezbędnym do przyznawania, ustania prawa do świadczenia postojowego i wypłacania tego świadczenia.
+
+**Art. 15zza.** Do zamówień na usługi lub dostawy udzielane przez Zakład Ubezpieczeń Społecznych w związku z realizacją zadań związanych z ustalaniem prawa lub wypłatą świadczenia postojowego nie stosuje się przepisów o zamówieniach publicznych.
+
+**Art. 15zzb.**
+
+1. Starosta może, na podstawie zawartej umowy, przyznać przedsiębiorcy w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców dofinansowanie części kosztów wynagrodzeń pracowników w rozumieniu art. 15g ust. 4 zdanie pierwsze oraz należnych od tych wynagrodzeń składek na ubezpieczenia społeczne w przypadku spadku obrotów gospodarczych w następstwie wystąpienia COVID-19.
 
 2. Przepis ust. 1 stosuje się odpowiednio do osób zatrudnionych na podstawie umowy o pracę nakładczą lub umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące zlecenia, albo które wykonują pracę zarobkową na podstawie innej niż stosunek pracy na rzecz pracodawcy będącego rolniczą spółdzielnią produkcyjną lub inną spółdzielnią zajmującą się produkcją rolną, jeżeli z tego tytułu podlega obowiązkowi ubezpieczeń: emerytalnemu i rentowemu, z wyjątkiem pomocy domowej zatrudnionej przez osobę fizyczną.
 
@@ -2116,7 +2459,11 @@ Art. 16–30. (pominięte)
 
 21. W sprawach, o których mowa w ust. 17, organem wyższego stopnia jest samorządowe kolegium odwoławcze.
 
-22. Zwrotu dofinansowania nie dochodzi się, jeżeli kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe. Kwota ta jest zaliczana w koszty Funduszu Pracy. Art. 15zzc. 1. Starosta może, na podstawie zawartej umowy, przyznać przedsiębiorcy będącemu osobą fizyczną niezatrudniającemu pracowników, dofinansowanie części kosztów prowadzenia działalności gospodarczej w przypadku spadku obrotów gospodarczych w następstwie wystąpienia COVID-19.
+22. Zwrotu dofinansowania nie dochodzi się, jeżeli kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe. Kwota ta jest zaliczana w koszty Funduszu Pracy.
+
+**Art. 15zzc.**
+
+1. Starosta może, na podstawie zawartej umowy, przyznać przedsiębiorcy będącemu osobą fizyczną niezatrudniającemu pracowników, dofinansowanie części kosztów prowadzenia działalności gospodarczej w przypadku spadku obrotów gospodarczych w następstwie wystąpienia COVID-19.
 
 2. Przez spadek obrotów gospodarczych rozumie się zmniejszenie sprzedaży towarów lub usług w ujęciu ilościowym lub wartościowym obliczone jako stosunek łącznych obrotów w ciągu dowolnie wskazanych 2 kolejnych miesięcy kalendarzowych, przypadających w okresie po dniu 31 grudnia 2019 r. do dnia poprzedzającego dzień złożenia wniosku o przyznanie dofinansowania, w porównaniu do łącznych obrotów z analogicznych 2 kolejnych miesięcy kalendarzowych roku poprzedniego; za miesiąc uważa się także 30 kolejno po sobie następujących dni kalendarzowych, w przypadku gdy dwumiesięczny okres porównawczy rozpoczyna się w trakcie miesiąca kalendarzowego, to jest w dniu innym niż pierwszy dzień danego miesiąca kalendarzowego.
 
@@ -2170,7 +2517,11 @@ Art. 16–30. (pominięte)
 
 19. W sprawach, o których mowa w ust. 15, organem wyższego stopnia jest samorządowe kolegium odwoławcze.
 
-20. Zwrotu dofinansowania nie dochodzi się, jeżeli kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe. Kwota ta jest zaliczana w koszty Funduszu Pracy. Art. 15zzd. 1. W celu przeciwdziałania negatywnym skutkom COVID-19 starosta może, na podstawie umowy, udzielić ze środków Funduszu Pracy jednorazowo pożyczki na pokrycie bieżących kosztów prowadzenia działalności gospodarczej mikroprzedsiębiorcy, o którym mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, który prowadził działalność gospodarczą przed dniem 1 kwietnia 2020 r.
+20. Zwrotu dofinansowania nie dochodzi się, jeżeli kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe. Kwota ta jest zaliczana w koszty Funduszu Pracy.
+
+**Art. 15zzd.**
+
+1. W celu przeciwdziałania negatywnym skutkom COVID-19 starosta może, na podstawie umowy, udzielić ze środków Funduszu Pracy jednorazowo pożyczki na pokrycie bieżących kosztów prowadzenia działalności gospodarczej mikroprzedsiębiorcy, o którym mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, który prowadził działalność gospodarczą przed dniem 1 kwietnia 2020 r.
 
 2. Wniosek o pożyczkę mikroprzedsiębiorca składa do powiatowego urzędu pracy właściwego ze względu na swoją siedzibę, po ogłoszeniu naboru przez dyrektora powiatowego urzędu pracy.
 
@@ -2262,7 +2613,11 @@ Art. 16–30. (pominięte)
 
 20. W sprawach, o których mowa w ust. 15, organem wyższego stopnia jest samorządowe kolegium odwoławcze.
 
-21. Zwrotu pożyczki nie dochodzi się, jeżeli kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe. Kwota ta jest zaliczana w koszty Funduszu Pracy. Art. 15zze. 1. Starosta może, na podstawie zawartej umowy, przyznać organizacji pozarządowej lub podmiotowi, o którym mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, dofinansowanie części kosztów wynagrodzeń pracowników w rozumieniu art. 15g ust. 4 zdanie pierwsze, oraz należnych od tych wynagrodzeń składek na ubezpieczenia społeczne, w przypadku spadku przychodów z działalności statutowej w następstwie wystąpienia COVID-19.
+21. Zwrotu pożyczki nie dochodzi się, jeżeli kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe. Kwota ta jest zaliczana w koszty Funduszu Pracy.
+
+**Art. 15zze.**
+
+1. Starosta może, na podstawie zawartej umowy, przyznać organizacji pozarządowej lub podmiotowi, o którym mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, dofinansowanie części kosztów wynagrodzeń pracowników w rozumieniu art. 15g ust. 4 zdanie pierwsze, oraz należnych od tych wynagrodzeń składek na ubezpieczenia społeczne, w przypadku spadku przychodów z działalności statutowej w następstwie wystąpienia COVID-19.
 
 2. Przepis ust. 1 stosuje się odpowiednio do osób zatrudnionych na podstawie umowy o pracę nakładczą lub umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące zlecenia.
 
@@ -2322,7 +2677,13 @@ Art. 16–30. (pominięte)
 
 20. Starosta może upoważnić dyrektora powiatowego urzędu pracy do dokonywania czynności, o których mowa w ust. 16.
 
-21. Zwrotu dofinansowania nie dochodzi się, jeżeli kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe. Kwota ta jest zaliczana w koszty Funduszu Pracy. Art. 15zze 1 . Pracodawca będący przedsiębiorcą, o którym mowa w art. 15zzb ust. 1, albo organizacją pozarządową lub podmiotem, o których mowa w art. 15zze ust. 1 lub w art. 15zze ust. 1, korzystający z dofinansowania do wynagrodzenia pracownika niepełnosprawnego na podstawie przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, w części niepodlegającej dofinansowaniu na podstawie tej ustawy może otrzymać dofinansowanie, o którym mowa w art. 15zzb, art. 15zze albo art. 15zze . Przepisów art. 15zzb ust. 12, art. 15zze ust. 11 i art. 15zze ust. 12 nie stosuje się. Art. 15zze 2 . 1. Starosta może, na podstawie zawartej umowy, przyznać kościelnej osobie prawnej działającej na podstawie przepisów o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej, o stosunku Państwa do innych kościołów i związków wyznaniowych oraz o gwarancjach wolności sumienia i wyznania, oraz jej jednostce organizacyjnej, dofinansowanie części kosztów wynagrodzeń pracowników w rozumieniu art. 15g ust. 4 zdanie pierwsze oraz należnych od tych wynagrodzeń składek na ubezpieczenia społeczne.
+21. Zwrotu dofinansowania nie dochodzi się, jeżeli kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe. Kwota ta jest zaliczana w koszty Funduszu Pracy.
+
+**Art. 15zze¹.** Pracodawca będący przedsiębiorcą, o którym mowa w art. 15zzb ust. 1, albo organizacją pozarządową lub podmiotem, o których mowa w art. 15zze ust. 1 lub w art. 15zze ust. 1, korzystający z dofinansowania do wynagrodzenia pracownika niepełnosprawnego na podstawie przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, w części niepodlegającej dofinansowaniu na podstawie tej ustawy może otrzymać dofinansowanie, o którym mowa w art. 15zzb, art. 15zze albo art. 15zze . Przepisów art. 15zzb ust. 12, art. 15zze ust. 11 i art. 15zze ust. 12 nie stosuje się.
+
+**Art. 15zze².**
+
+1. Starosta może, na podstawie zawartej umowy, przyznać kościelnej osobie prawnej działającej na podstawie przepisów o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej, o stosunku Państwa do innych kościołów i związków wyznaniowych oraz o gwarancjach wolności sumienia i wyznania, oraz jej jednostce organizacyjnej, dofinansowanie części kosztów wynagrodzeń pracowników w rozumieniu art. 15g ust. 4 zdanie pierwsze oraz należnych od tych wynagrodzeń składek na ubezpieczenia społeczne.
 
 2. Przepis ust. 1 stosuje się odpowiednio do osób zatrudnionych na podstawie umowy o pracę nakładczą lub umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące zlecenia.
 
@@ -2373,7 +2734,11 @@ Art. 16–30. (pominięte)
 
 21. Starosta może upoważnić dyrektora powiatowego urzędu pracy do dokonywania czynności, o których mowa w ust. 17.
 
-22. Zwrotu dofinansowania nie dochodzi się, jeżeli kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe. Kwota ta jest zaliczana w koszty Funduszu Pracy. Art. 15zze 3 . 1. Powiatowy urząd pracy może pozyskiwać z Zakładu Ubezpieczeń Społecznych, przy wykorzystaniu systemów teleinformatycznych prowadzonych przez ministra właściwego do spraw pracy, w postaci elektronicznej, dane zgromadzone na koncie płatnika składek lub koncie ubezpieczonego, o których mowa w art. 50 ust. 14–16 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w celu ustalenia lub weryfikacji okoliczności, o których mowa w art. 15zzb ust. 8, ust. 10 pkt 3, 5 i 6 oraz ust. 12, art. 15zzc ust. 6, ust. 8 pkt 3 i ust. 10, art. 15zze ust. 7, ust. 9 pkt 2–4 i ust. 11 oraz art. 15zze ust. 7, ust. 10 pkt 1–3 i ust. 12.
+22. Zwrotu dofinansowania nie dochodzi się, jeżeli kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe. Kwota ta jest zaliczana w koszty Funduszu Pracy.
+
+**Art. 15zze³.**
+
+1. Powiatowy urząd pracy może pozyskiwać z Zakładu Ubezpieczeń Społecznych, przy wykorzystaniu systemów teleinformatycznych prowadzonych przez ministra właściwego do spraw pracy, w postaci elektronicznej, dane zgromadzone na koncie płatnika składek lub koncie ubezpieczonego, o których mowa w art. 50 ust. 14–16 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w celu ustalenia lub weryfikacji okoliczności, o których mowa w art. 15zzb ust. 8, ust. 10 pkt 3, 5 i 6 oraz ust. 12, art. 15zzc ust. 6, ust. 8 pkt 3 i ust. 10, art. 15zze ust. 7, ust. 9 pkt 2–4 i ust. 11 oraz art. 15zze ust. 7, ust. 10 pkt 1–3 i ust. 12.
 
 1a. Powiatowy urząd pracy w celu realizacji zadań przewidzianych w ustawie może pozyskiwać od instytucji publicznych, które udzielały wsparcia w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, w związku z wystąpieniem tego stanu, oraz od organów Krajowej Administracji Skarbowej i Państwowej Inspekcji Pracy informacje mające znaczenie dla oceny spełniania warunków przyznania wsparcia i prawidłowości wykorzystania przyznanych środków, w tym informacje o pracownikach w rozumieniu art. 15g ust. 4 zdanie pierwsze lub osobach, o których mowa w art. 15zzb ust. 2, art. 15zze ust. 2 i art. 15zze ust. 2, których wynagrodzenia zostały dofinansowane w ramach zadań, o których mowa w art. 15zzb, art. 15zze i art. 15zze . Informacje o pracownikach w rozumieniu art. 15g ust. 4 zdanie pierwsze lub osobach, o których mowa w art. 15zzb ust. 2, art. 15zze ust. 2 i art. 15zze ust. 2, mogą być pozyskiwane w celu ustalenia lub weryfikacji okoliczności, o których mowa w art. 15zzb ust. 1, 2, 4 i 8, art. 15zze ust. 1, 2, 4 i 7 oraz art. 15zze ust. 1–3 i 7.
 
@@ -2431,7 +2796,11 @@ Art. 16–30. (pominięte)
 
 - **1192)** .
 
-7. Przepis ust. 6 stosuje się odpowiednio w przypadku zmiany rozporządzeń, o których mowa w art. 15ggb ust. 1 lub art. 15zze ust. 1, w zakresie określenia kodów, o których mowa odpowiednio w ust. 4 i 5. Art. 15zze 4 . 1. W celu przeciwdziałania negatywnym skutkom COVID-19 starosta może, na podstawie umowy, udzielić ze środków Funduszu Pracy dotacji na pokrycie bieżących kosztów prowadzenia działalności gospodarczej mikroprzedsiębiorcy i małemu przedsiębiorcy, o których mowa odpowiednio w art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, którzy na dzień 30 września 2020 r. prowadzili działalność gospodarczą, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.71.Z, 47.72.Z, 47.81.Z, 47.82.Z, 47.89.Z, 49.39.Z, 56.10.A,
+7. Przepis ust. 6 stosuje się odpowiednio w przypadku zmiany rozporządzeń, o których mowa w art. 15ggb ust. 1 lub art. 15zze ust. 1, w zakresie określenia kodów, o których mowa odpowiednio w ust. 4 i 5.
+
+**Art. 15zze⁴.**
+
+1. W celu przeciwdziałania negatywnym skutkom COVID-19 starosta może, na podstawie umowy, udzielić ze środków Funduszu Pracy dotacji na pokrycie bieżących kosztów prowadzenia działalności gospodarczej mikroprzedsiębiorcy i małemu przedsiębiorcy, o których mowa odpowiednio w art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, którzy na dzień 30 września 2020 r. prowadzili działalność gospodarczą, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.71.Z, 47.72.Z, 47.81.Z, 47.82.Z, 47.89.Z, 49.39.Z, 56.10.A,
 
 56. 10.B, 56.21.Z, 56.29.Z, 56.30.Z, 59.11.Z, 59.12.Z, 59.13.Z, 59.14.Z, 59.20.Z,
 
@@ -2505,7 +2874,11 @@ Art. 16–30. (pominięte)
 
 18. Starosta może, w formie pisemnej, upoważnić dyrektora powiatowego urzędu pracy lub, na jego wniosek, innych pracowników tego urzędu do dokonywania czynności, o których mowa w ust. 16.
 
-19. Środki pochodzące z dotacji nie podlegają egzekucji sądowej ani administracyjnej. Środki te, w razie ich przekazania na rachunek płatniczy, są wolne od zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego. Art. 15zze 4a . 1. W celu przeciwdziałania negatywnym skutkom COVID-19 starosta może, na podstawie umowy, udzielić ze środków Funduszu Pracy dotacji na pokrycie bieżących kosztów prowadzenia działalności gospodarczej mikroprzedsiębiorcy i małemu przedsiębiorcy, o których mowa odpowiednio w art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, którzy na dzień 30 września 2020 r. prowadzili działalność gospodarczą polegającą na sprzedaży środków spożywczych, papierniczych i piśmienniczych na rzecz uczniów, słuchaczy lub wychowanków na terenie jednostek systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.11.Z albo 47.19.Z. Przepisy art. 15zze stosuje się, z uwzględnieniem przepisów ust. 2–10.
+19. Środki pochodzące z dotacji nie podlegają egzekucji sądowej ani administracyjnej. Środki te, w razie ich przekazania na rachunek płatniczy, są wolne od zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego.
+
+**Art. 15zze⁴a.**
+
+1. W celu przeciwdziałania negatywnym skutkom COVID-19 starosta może, na podstawie umowy, udzielić ze środków Funduszu Pracy dotacji na pokrycie bieżących kosztów prowadzenia działalności gospodarczej mikroprzedsiębiorcy i małemu przedsiębiorcy, o których mowa odpowiednio w art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, którzy na dzień 30 września 2020 r. prowadzili działalność gospodarczą polegającą na sprzedaży środków spożywczych, papierniczych i piśmienniczych na rzecz uczniów, słuchaczy lub wychowanków na terenie jednostek systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.11.Z albo 47.19.Z. Przepisy art. 15zze stosuje się, z uwzględnieniem przepisów ust. 2–10.
 
 2. Oceny spełnienia warunku, o którym mowa w ust. 1, w zakresie oznaczenia prowadzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) 2007 dokonuje się na podstawie danych zawartych w rejestrze REGON w brzmieniu na dzień 30 września 2020 r.
 
@@ -2527,7 +2900,11 @@ Art. 16–30. (pominięte)
 
 9. Dotacja podlega również zwrotowi przez mikroprzedsiębiorcę albo małego przedsiębiorcę w całości, wraz z odsetkami liczonymi od dnia udzielenia dotacji, na rachunek bankowy powiatowego urzędu pracy, z którego otrzymał dotację, jeżeli złożył niezgodne ze stanem faktycznym przynajmniej jedno z oświadczeń, o których mowa w ust. 5 i art. 15zze ust. 4 pkt 1 i 4.
 
-10. W przypadku, o którym mowa w ust. 9, okres zwrotu dotacji nie może być dłuższy niż 30 dni, liczonych od dnia doręczenia wezwania starosty. Art. 15zze 5 . 1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, nadać starostom uprawnienie do udzielania, na podstawie umowy, dotacji ze środków Funduszu Pracy na pokrycie bieżących kosztów prowadzenia działalności gospodarczej wszystkim bądź niektórym mikroprzedsiębiorcom oraz małym przedsiębiorcom, którzy otrzymali dotację zgodnie z art. 15zze albo art. 15zze , lub do udzielania tej dotacji innym mikroprzedsiębiorcom lub małym przedsiębiorcom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
+10. W przypadku, o którym mowa w ust. 9, okres zwrotu dotacji nie może być dłuższy niż 30 dni, liczonych od dnia doręczenia wezwania starosty.
+
+**Art. 15zze⁵.**
+
+1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, nadać starostom uprawnienie do udzielania, na podstawie umowy, dotacji ze środków Funduszu Pracy na pokrycie bieżących kosztów prowadzenia działalności gospodarczej wszystkim bądź niektórym mikroprzedsiębiorcom oraz małym przedsiębiorcom, którzy otrzymali dotację zgodnie z art. 15zze albo art. 15zze , lub do udzielania tej dotacji innym mikroprzedsiębiorcom lub małym przedsiębiorcom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
 
 2. Rozporządzenie, o którym mowa w ust. 1, może ustalać krąg przedsiębiorców, którym dotacja może zostać udzielona, poprzez określenie:
 
@@ -2538,9 +2915,21 @@ Art. 16–30. (pominięte)
 
 - **1)** inną niż wskazana w przepisach art. 15zze ust. 4 pkt 2–4 lub art. 15zze ust. 5 treść oświadczeń;
 - **2)** inny niż wskazany w art. 15zze ust. 6 lub art. 15zze ust. 7 termin składania wniosku o ustalenie prawa do dotacji;
-- **3)** wielokrotność udzielenia dotacji. Art. 15zze 6 . Starosta nie ma obowiązku uiszczania kosztów sądowych w sprawach dotyczących udzielania, przyznania, umorzenia lub zwrotu wsparcia, o którym mowa w art. 15zzb–15zze, art. 15zze , art. 15zze i art. 15zze . Art. 15zzf. W przypadku usług i instrumentów rynku pracy oraz innych form wsparcia realizowanych na podstawie ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, w zakresie niezbędnym do niwelowania i ograniczenia negatywnych skutków COVID-19, starosta na wniosek strony lub za jej zgodą, w drodze aneksu do zawartej umowy, może zmienić jej warunki, w tym w szczególności wydłużyć termin na jej realizację lub przesunąć termin na realizację zobowiązań z niej wynikających. Art. 15zzf 1 . 1. W przypadku realizacji zadań, o których mowa w art. 11 ust. 2, art. 12a, art. 13, art. 26, art. 26d, art. 26e, art. 26g, art. 32, art. 35 ust. 1 pkt 5, art. 35a ust. 1 pkt 7, art. 36, art. 40, art. 41 i art. 47 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych w zakresie niezbędnym do niwelowania i ograniczenia negatywnych skutków COVID-19 organy i podmioty powołane do zawierania umów mogą, na wniosek strony lub za jej zgodą, w drodze aneksu do zawartej umowy, zmienić jej warunki, w tym w szczególności wydłużyć termin na jej realizację lub przesunąć termin na realizację zobowiązań z niej wynikających.
+- **3)** wielokrotność udzielenia dotacji.
 
-2. Środki przeznaczone na realizację zadań określonych w ust. 1, niewykorzystane w 2020 r., pozostające na wyodrębnionych rachunkach bankowych organów i podmiotów powołanych do zawierania umów, o ile nie zostaną wykorzystane w 2021 r., podlegają zwrotowi na rachunek Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych nie później niż do dnia 31 grudnia 2021 r. Art. 15zzf 2 . 1. Podmiot, któremu udzielono pożyczki, o której mowa w art. 61e pkt 1, 1a lub 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, z powodu COVID-19 może złożyć wniosek do pośrednika finansowego, z którym zawarł umowę pożyczki, o zmianę następujących warunków tej umowy:
+**Art. 15zze⁶.** Starosta nie ma obowiązku uiszczania kosztów sądowych w sprawach dotyczących udzielania, przyznania, umorzenia lub zwrotu wsparcia, o którym mowa w art. 15zzb–15zze, art. 15zze , art. 15zze i art. 15zze .
+
+**Art. 15zzf.** W przypadku usług i instrumentów rynku pracy oraz innych form wsparcia realizowanych na podstawie ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, w zakresie niezbędnym do niwelowania i ograniczenia negatywnych skutków COVID-19, starosta na wniosek strony lub za jej zgodą, w drodze aneksu do zawartej umowy, może zmienić jej warunki, w tym w szczególności wydłużyć termin na jej realizację lub przesunąć termin na realizację zobowiązań z niej wynikających.
+
+**Art. 15zzf¹.**
+
+1. W przypadku realizacji zadań, o których mowa w art. 11 ust. 2, art. 12a, art. 13, art. 26, art. 26d, art. 26e, art. 26g, art. 32, art. 35 ust. 1 pkt 5, art. 35a ust. 1 pkt 7, art. 36, art. 40, art. 41 i art. 47 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych w zakresie niezbędnym do niwelowania i ograniczenia negatywnych skutków COVID-19 organy i podmioty powołane do zawierania umów mogą, na wniosek strony lub za jej zgodą, w drodze aneksu do zawartej umowy, zmienić jej warunki, w tym w szczególności wydłużyć termin na jej realizację lub przesunąć termin na realizację zobowiązań z niej wynikających.
+
+2. Środki przeznaczone na realizację zadań określonych w ust. 1, niewykorzystane w 2020 r., pozostające na wyodrębnionych rachunkach bankowych organów i podmiotów powołanych do zawierania umów, o ile nie zostaną wykorzystane w 2021 r., podlegają zwrotowi na rachunek Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych nie później niż do dnia 31 grudnia 2021 r.
+
+**Art. 15zzf².**
+
+1. Podmiot, któremu udzielono pożyczki, o której mowa w art. 61e pkt 1, 1a lub 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, z powodu COVID-19 może złożyć wniosek do pośrednika finansowego, z którym zawarł umowę pożyczki, o zmianę następujących warunków tej umowy:
 
 - **1)** zawieszenie spłat rat kapitałowo-odsetkowych na okres nie dłuższy niż 6 miesięcy, przy jednoczesnym wydłużeniu okresu spłaty udzielonej pożyczki;
 - **2)** wydłużenie karencji o dodatkowy, nie dłuższy niż 6 miesięcy okres, w przypadku gdy pożyczkobiorca nie rozpoczął spłaty rat kapitałowo-odsetkowych;
@@ -2566,9 +2955,17 @@ Art. 16–30. (pominięte)
 
 5b. Pośrednik finansowy dokonuje zmiany warunków umowy pożyczki, o których mowa w ust. 5a, w przypadku gdy według jego oceny pożyczkobiorca uzasadnił, że jego sytuacja finansowa nie uległa poprawie lub sytuacja związana z COVID-19 ponownie spowodowała dla pożyczkobiorcy negatywne konsekwencje ekonomiczne lub powoduje ryzyko wystąpienia takich konsekwencji w przyszłości.
 
-6. Zmiana warunków umowy pożyczki może spowodować wydłużenie okresu karencji lub spłaty pożyczki, o których mowa w art. 61h ust. 3 lub art. 61i ust. 3 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. Art. 15zzf 3 . 1. Pożyczka na podjęcie działalności gospodarczej, o której mowa w art. 61e pkt 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, może zostać udzielona osobom niespełniającym warunku określonego w art. 61l pkt 3 tej ustawy, w przypadku gdy zakończyły prowadzenie działalności gospodarczej w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, w związku z wystąpieniem tego stanu, a przedmiot zamierzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) na poziomie podklasy jest inny od działalności zakończonej.
+6. Zmiana warunków umowy pożyczki może spowodować wydłużenie okresu karencji lub spłaty pożyczki, o których mowa w art. 61h ust. 3 lub art. 61i ust. 3 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
 
-2. Warunek innego przedmiotu zamierzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) na poziomie podklasy od działalności zakończonej, o którym mowa w ust. 1, nie dotyczy przypadku, gdy wniosek o pożyczkę zostanie złożony po upływie 30 dni od dnia odwołania stanu zagrożenia epidemicznego i stanu epidemii, ogłoszonego z powodu COVID-19. Art. 15zzg. 1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw instytucji finansowych, w drodze rozporządzenia, może określić inne terminy sporządzenia, rozpatrzenia, zatwierdzenia, ujawniania, przedstawiania, złożenia i publikacji sprawozdań, a także przekazania lub dostarczania danych, informacji, deklaracji, sprawozdań, raportów, zestawień, wyników przeprowadzonej weryfikacji, decyzji, opinii, wezwań, wniosków, składek, opłat, wpłat, zaliczek, a także rozpatrywania reklamacji oraz wykonywania innych obowiązków lub czynności określonych w:
+**Art. 15zzf³.**
+
+1. Pożyczka na podjęcie działalności gospodarczej, o której mowa w art. 61e pkt 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, może zostać udzielona osobom niespełniającym warunku określonego w art. 61l pkt 3 tej ustawy, w przypadku gdy zakończyły prowadzenie działalności gospodarczej w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, w związku z wystąpieniem tego stanu, a przedmiot zamierzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) na poziomie podklasy jest inny od działalności zakończonej.
+
+2. Warunek innego przedmiotu zamierzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) na poziomie podklasy od działalności zakończonej, o którym mowa w ust. 1, nie dotyczy przypadku, gdy wniosek o pożyczkę zostanie złożony po upływie 30 dni od dnia odwołania stanu zagrożenia epidemicznego i stanu epidemii, ogłoszonego z powodu COVID-19.
+
+**Art. 15zzg.**
+
+1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw instytucji finansowych, w drodze rozporządzenia, może określić inne terminy sporządzenia, rozpatrzenia, zatwierdzenia, ujawniania, przedstawiania, złożenia i publikacji sprawozdań, a także przekazania lub dostarczania danych, informacji, deklaracji, sprawozdań, raportów, zestawień, wyników przeprowadzonej weryfikacji, decyzji, opinii, wezwań, wniosków, składek, opłat, wpłat, zaliczek, a także rozpatrywania reklamacji oraz wykonywania innych obowiązków lub czynności określonych w:
 
 - **1)** ustawach, o których mowa w art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135 oraz z 2025 r. poz. 146),
 - **2)** ustawie z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2023 r. poz. 110), ustawie z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2024 r. poz.
@@ -2577,7 +2974,12 @@ Art. 16–30. (pominięte)
 
 2. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, może określić inne terminy sporządzania, zatwierdzania, przekazywania, dostarczania danych, informacji lub sprawozdań określonych w ustawie z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2023 r. poz. 776) i ustawie z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2024 r. poz.
 
-- **1131)** , oraz w aktach wykonawczych wydanych na podstawie tych ustaw, biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tych obowiązków oraz prawidłowe funkcjonowanie rynku finansowego, jego stabilność, bezpieczeństwo, a także ochronę interesów uczestników tego rynku. Art. 15zzh. 1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, może określić inne terminy wypełniania obowiązków w zakresie ewidencji oraz w zakresie sporządzenia, zatwierdzenia, udostępnienia i przekazania do właściwego rejestru, jednostki lub organu sprawozdań lub informacji, o których mowa w:
+- **1131)** , oraz w aktach wykonawczych wydanych na podstawie tych ustaw, biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tych obowiązków oraz prawidłowe funkcjonowanie rynku finansowego, jego stabilność, bezpieczeństwo, a także ochronę interesów uczestników tego rynku.
+
+**Art. 15zzh.**
+
+1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, może określić inne terminy wypełniania obowiązków w zakresie ewidencji oraz w zakresie sporządzenia, zatwierdzenia, udostępnienia i przekazania do właściwego rejestru, jednostki lub organu sprawozdań lub informacji, o których mowa w:
+
 - **1)** ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863) oraz w aktach wykonawczych wydanych na podstawie tej ustawy,
 - **2)** ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych oraz w aktach wykonawczych wydanych na podstawie tej ustawy,
 - **3)** art. 45 ust. 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych – biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tych obowiązków.
@@ -2586,9 +2988,17 @@ Art. 16–30. (pominięte)
 
 3. W przypadku określenia w rozporządzeniu, o którym mowa w ust. 1, nowego terminu zatwierdzenia sprawozdania finansowego jednostki samorządu terytorialnego, organ stanowiący jednostki samorządu terytorialnego podejmuje uchwałę, o której mowa w art. 271 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych do dnia wskazanego w tym rozporządzeniu. Komisja rewizyjna przedstawia organowi stanowiącemu jednostki samorządu terytorialnego wniosek w sprawie absolutorium dla wójta (burmistrza, prezydenta miasta), zarządu powiatu lub zarządu województwa, o którym mowa w art. 270 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w terminie 15 dni przed dniem wskazanym w rozporządzeniu. Art. 15zzha. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw instytucji finansowych, w drodze rozporządzenia, może przedłużyć termin następujący po dniu bilansowym roku obrotowego, za który emitent zobowiązany jest udostępnić w propozycji nabycia obligacji sprawozdanie finansowe wraz ze sprawozdaniem z badania, o którym mowa w art. 35 ust. 3 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz.
 
-- **708)** , biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tego obowiązku. Art. 15zzi. 1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw instytucji finansowych, w drodze rozporządzenia, może określić inne terminy podjęcia określonych czynności, w szczególności spełnienia świadczenia, załatwienia sprawy, wydania opinii, oraz wydania decyzji lub postanowienia kończącego postępowanie w sprawie, określonych w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji lub innych przepisach regulujących działalność Bankowego Funduszu Gwarancyjnego, biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tych obowiązków oraz prawidłowe funkcjonowanie rynku finansowego, jego stabilność, bezpieczeństwo, a także ochronę interesów uczestników tego rynku.
+- **708)** , biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tego obowiązku.
 
-2. Termin, o którym mowa w art. 104 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, nie biegnie w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii. Art. 15zzj. 1. Złożenie organowi podatkowemu:
+**Art. 15zzi.**
+
+1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw instytucji finansowych, w drodze rozporządzenia, może określić inne terminy podjęcia określonych czynności, w szczególności spełnienia świadczenia, załatwienia sprawy, wydania opinii, oraz wydania decyzji lub postanowienia kończącego postępowanie w sprawie, określonych w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji lub innych przepisach regulujących działalność Bankowego Funduszu Gwarancyjnego, biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tych obowiązków oraz prawidłowe funkcjonowanie rynku finansowego, jego stabilność, bezpieczeństwo, a także ochronę interesów uczestników tego rynku.
+
+2. Termin, o którym mowa w art. 104 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, nie biegnie w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii.
+
+**Art. 15zzj.**
+
+1. Złożenie organowi podatkowemu:
 
 - **1)** zeznania o wysokości osiągniętego dochodu (poniesionej straty) za 2019 r. oraz wpłacenie należnego podatku dochodowego od osób fizycznych,
 - **2)** deklaracji o wysokości daniny solidarnościowej, o której mowa w art. 30h ust. 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, oraz wpłacenie tej daniny – po upływie terminu na ich złożenie, nie później jednak niż do dnia 1 czerwca 2020 r., jest równoznaczne ze złożeniem przez osobę fizyczną zawiadomienia, o którym mowa w art. 16 § 4 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2020 r. poz. 19, 568, 695 i 1106).
@@ -2598,30 +3008,62 @@ Art. 16–30. (pominięte)
 - **1)** złożenia zeznania o wysokości dochodu osiągniętego (straty poniesionej) w roku podatkowym, który zakończył się w okresie od dnia 1 grudnia 2020 r. do dnia 28 lutego 2021 r.,
 - **2)** wpłaty podatku należnego wykazanego w zeznaniu, o którym mowa w pkt 1, albo różnicy między podatkiem należnym od dochodu wykazanego w tym zeznaniu a sumą należnych zaliczek za okres od początku roku ‒ o którym mowa w art. 27 ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm. ).
 
-2. Przedłuża się do dnia 30 czerwca 2021 r. termin do wykonania przez podatników podatku dochodowego od osób prawnych obowiązku, o którym mowa w art. 7aa ust. 9 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, jeżeli pierwszy rok opodatkowania tych podatników ryczałtem od dochodów spółek kapitałowych rozpoczyna się w okresie od dnia 1 stycznia 2021 r. do dnia 1 marca 2021 r. Art. 15zzk. 1. Rada Ministrów może, w drodze rozporządzenia, wstrzymać administracyjne postępowania egzekucyjne należności pieniężnych, określając w szczególności zakres terytorialny wstrzymania tych postępowań oraz okres, na który następuje to wstrzymanie, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego i stanu epidemii w związku z COVID-19 oraz skutki nimi wywołane.
+2. Przedłuża się do dnia 30 czerwca 2021 r. termin do wykonania przez podatników podatku dochodowego od osób prawnych obowiązku, o którym mowa w art. 7aa ust. 9 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, jeżeli pierwszy rok opodatkowania tych podatników ryczałtem od dochodów spółek kapitałowych rozpoczyna się w okresie od dnia 1 stycznia 2021 r. do dnia 1 marca 2021 r.
 
-2. W okresie wstrzymania, o którym mowa w ust. 1, mogą być dokonywane wypłaty z zajętego rachunku bankowego lub rachunku prowadzonego przez spółdzielczą kasę oszczędnościowo-kredytową. Art. 15zzl. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w terminie 30 dni następujących po ich odwołaniu organ administracji publicznej zlecający realizację zadania publicznego organizacjom pozarządowym, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz podmiotom wymienionym w art. 3 ust. 3 tej ustawy jest uprawniony do przedłużenia terminu na złożenie sprawozdania z wykonania zleconego zadania publicznego oraz rozliczenia udzielonej dotacji na realizację zadania publicznego z pominięciem terminów wynikających z ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, a także do uznania za uzasadnione wydatków poniesionych na sfinansowanie działań realizowanych w ramach zleconego zadania publicznego, które zostały odwołane w następstwie okoliczności związanych z obowiązywaniem stanu zagrożenia epidemicznego albo stanu epidemii.
+**Art. 15zzk.**
 
-2. W przypadku, o którym mowa w ust. 1, niewykonanie planu działań lub nieosiągnięcie rezultatów założonych w umowie, na podstawie której zlecono realizację zadania publicznego, nie może skutkować uznaniem dotacji na realizację zadania publicznego w tej części za wykorzystaną niezgodnie z przeznaczeniem, pobraną nienależnie lub w nadmiernej wysokości i podlegającą zwrotowi. Art. 15zzm. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii organ administracji publicznej może zlecać organizacjom pozarządowym oraz podmiotom wymienionym w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie realizację zadania publicznego w celu przeciwdziałania COVID-19 z pominięciem otwartego konkursu ofert, o którym mowa w dziale II rozdziale 2 tej ustawy. Przepisy art. 43, art. 47, art. 151 oraz art. 221 ust. 1–3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych stosuje się odpowiednio, przy czym tryb postępowania o udzielenie dotacji na zadania określone w art. 221 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, sposób jej rozliczania oraz sposób kontroli wykonywania zleconego zadania określa, w drodze zarządzenia lub uchwały, organ wykonawczy jednostki samorządu terytorialnego, mając na względzie zapewnienie jawności postępowania o udzielenie dotacji i jej rozliczenia. Art. 15zzn. W okresie obowiązywania stanu zagrożenia epidemicznego i stanu epidemii ogłoszonych w związku z COVID-19, termin na złożenie zawiadomienia, o którym mowa w art. 117ba § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, art. 14 ust. 2i pkt 2 lub art. 22p ust. 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 12 ust. 4j pkt 2 lub art. 15d ust. 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych przedłuża się do 14 dni od dnia zlecenia przelewu. Art. 15zzo. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w okresie 4 miesięcy następujących po dniu odwołania ich obowiązywania, okres na jaki przyznano stypendia sportowe, o których mowa w art. 32 i art. 32a ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2024 r. poz. 1488 oraz z 2025 r. poz. 28 i 620), może zostać dodatkowo przedłużony, ale nie dłużej niż do roku od dnia odwołania obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii.
+1. Rada Ministrów może, w drodze rozporządzenia, wstrzymać administracyjne postępowania egzekucyjne należności pieniężnych, określając w szczególności zakres terytorialny wstrzymania tych postępowań oraz okres, na który następuje to wstrzymanie, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego i stanu epidemii w związku z COVID-19 oraz skutki nimi wywołane.
+
+2. W okresie wstrzymania, o którym mowa w ust. 1, mogą być dokonywane wypłaty z zajętego rachunku bankowego lub rachunku prowadzonego przez spółdzielczą kasę oszczędnościowo-kredytową.
+
+**Art. 15zzl.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w terminie 30 dni następujących po ich odwołaniu organ administracji publicznej zlecający realizację zadania publicznego organizacjom pozarządowym, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz podmiotom wymienionym w art. 3 ust. 3 tej ustawy jest uprawniony do przedłużenia terminu na złożenie sprawozdania z wykonania zleconego zadania publicznego oraz rozliczenia udzielonej dotacji na realizację zadania publicznego z pominięciem terminów wynikających z ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, a także do uznania za uzasadnione wydatków poniesionych na sfinansowanie działań realizowanych w ramach zleconego zadania publicznego, które zostały odwołane w następstwie okoliczności związanych z obowiązywaniem stanu zagrożenia epidemicznego albo stanu epidemii.
+
+2. W przypadku, o którym mowa w ust. 1, niewykonanie planu działań lub nieosiągnięcie rezultatów założonych w umowie, na podstawie której zlecono realizację zadania publicznego, nie może skutkować uznaniem dotacji na realizację zadania publicznego w tej części za wykorzystaną niezgodnie z przeznaczeniem, pobraną nienależnie lub w nadmiernej wysokości i podlegającą zwrotowi.
+
+**Art. 15zzm.** W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii organ administracji publicznej może zlecać organizacjom pozarządowym oraz podmiotom wymienionym w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie realizację zadania publicznego w celu przeciwdziałania COVID-19 z pominięciem otwartego konkursu ofert, o którym mowa w dziale II rozdziale 2 tej ustawy. Przepisy art. 43, art. 47, art. 151 oraz art. 221 ust. 1–3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych stosuje się odpowiednio, przy czym tryb postępowania o udzielenie dotacji na zadania określone w art. 221 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, sposób jej rozliczania oraz sposób kontroli wykonywania zleconego zadania określa, w drodze zarządzenia lub uchwały, organ wykonawczy jednostki samorządu terytorialnego, mając na względzie zapewnienie jawności postępowania o udzielenie dotacji i jej rozliczenia.
+
+**Art. 15zzn.** W okresie obowiązywania stanu zagrożenia epidemicznego i stanu epidemii ogłoszonych w związku z COVID-19, termin na złożenie zawiadomienia, o którym mowa w art. 117ba § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, art. 14 ust. 2i pkt 2 lub art. 22p ust. 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 12 ust. 4j pkt 2 lub art. 15d ust. 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych przedłuża się do 14 dni od dnia zlecenia przelewu.
+
+**Art. 15zzo.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w okresie 4 miesięcy następujących po dniu odwołania ich obowiązywania, okres na jaki przyznano stypendia sportowe, o których mowa w art. 32 i art. 32a ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2024 r. poz. 1488 oraz z 2025 r. poz. 28 i 620), może zostać dodatkowo przedłużony, ale nie dłużej niż do roku od dnia odwołania obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii.
 
 2. Minister właściwy do spraw kultury fizycznej może w szczególnie uzasadnionym przypadku oraz w związku z odwołaniem zawodów, wskazanych w zobowiązaniu członka kadry narodowej do realizacji programu przygotowań i udziału w tych zawodach, przedłużyć okres o którym mowa w ust. 1. Przepisy art. 32 ust. 1–1b, 1e i 2–5, art. 33 ust. 1 oraz przepisy wykonawcze wydane na podstawie art. 32 ust. 7 ustawy z dnia 25 czerwca 2010 r. o sporcie stosuje się odpowiednio, z zastrzeżeniem ust. 3.
 
-3. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii w stosunku do sportowców, którzy nie realizują programu przygotowań o którym mowa w art. 32 ust. 1 ustawy z dnia 25 czerwca 2010 r. o sporcie z powodów wynikających z obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, nie stosuje się art. 32 ust. 4 pkt 1 ustawy z dnia 25 czerwca 2010 r. o sporcie. Art. 15zzp. 1. W ramach przyznanych środków na realizację zadań publicznych ze środków budżetu państwa z części, której dysponentem jest minister właściwy do spraw kultury fizycznej, Funduszu Rozwoju Kultury Fizycznej, o którym mowa w art. 86 ustawy z dnia 19 listopada 2009 r. o grach hazardowych oraz Funduszu Zajęć Sportowych dla Uczniów, o którym mowa w art. 13 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi w związku z obowiązywaniem stanu zagrożenia epidemicznego albo stanu epidemii i w okresie ich trwania, mając na uwadze zachowanie płynności finansowej beneficjentów, jako wydatki służące realizacji tych zadań można uznać również:
+3. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii w stosunku do sportowców, którzy nie realizują programu przygotowań o którym mowa w art. 32 ust. 1 ustawy z dnia 25 czerwca 2010 r. o sporcie z powodów wynikających z obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, nie stosuje się art. 32 ust. 4 pkt 1 ustawy z dnia 25 czerwca 2010 r. o sporcie.
+
+**Art. 15zzp.**
+
+1. W ramach przyznanych środków na realizację zadań publicznych ze środków budżetu państwa z części, której dysponentem jest minister właściwy do spraw kultury fizycznej, Funduszu Rozwoju Kultury Fizycznej, o którym mowa w art. 86 ustawy z dnia 19 listopada 2009 r. o grach hazardowych oraz Funduszu Zajęć Sportowych dla Uczniów, o którym mowa w art. 13 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi w związku z obowiązywaniem stanu zagrożenia epidemicznego albo stanu epidemii i w okresie ich trwania, mając na uwadze zachowanie płynności finansowej beneficjentów, jako wydatki służące realizacji tych zadań można uznać również:
 
 - **1)** wydatki w tej części, która jest związana z obsługą tych zadań przez beneficjentów w wysokości określonej w umowach o dofinansowaniu realizacji zadań publicznych (koszty pośrednie), bez względu na stopień wykonania tych zadań z uwagi na wystąpienie stanu zagrożenia epidemicznego albo stanu epidemii;
 - **2)** dodatkowe wydatki wywołane ogłoszeniem i obowiązywaniem stanu zagrożenia epidemicznego albo stanu epidemii, pod warunkiem ich związku z zakresem i celem realizowanego zadania publicznego, o ile ich poniesienie było niemożliwe do przewidzenia przez beneficjenta lub nie wiązało się z nieprzestrzeganiem obowiązujących ograniczeń, nakazów i zakazów, o których mowa w art. 46 ust. 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.
 
 2. W stosunku do przebudowy, remontów i dofinansowania inwestycji obiektów sportowych, o których mowa w art. 86 ust. 4 ustawy z dnia 19 listopada 2009 r. o grach hazardowych, przepisu ust. 1 pkt 1 nie stosuje się.
 
-3. Wydatki, o których mowa w ust. 1, nie podlegają uwzględnieniu, jeżeli zostały pokryte z innych źródeł publicznych. Art. 15zzq. 1. Jeżeli ostatni dzień ważności zezwolenia na pracę, o którym mowa w art. 88 ust. 1 pkt 1–5 lub ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, przypada w okresie stanu zagrożenia epidemicznego lub stanu epidemii, ogłoszonego w związku z zakażeniami wirusem SARS-CoV-2, okres ważności tego zezwolenia na pracę ulega przedłużeniu z mocy prawa do upływu 30. dnia następującego po dniu odwołania tego ze stanów, który obowiązywał jako ostatni. Przepis zdania pierwszego stosuje się odpowiednio do decyzji o przedłużeniu zezwolenia na pracę lub przedłużeniu zezwolenia na pracę sezonową.
+3. Wydatki, o których mowa w ust. 1, nie podlegają uwzględnieniu, jeżeli zostały pokryte z innych źródeł publicznych.
+
+**Art. 15zzq.**
+
+1. Jeżeli ostatni dzień ważności zezwolenia na pracę, o którym mowa w art. 88 ust. 1 pkt 1–5 lub ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, przypada w okresie stanu zagrożenia epidemicznego lub stanu epidemii, ogłoszonego w związku z zakażeniami wirusem SARS-CoV-2, okres ważności tego zezwolenia na pracę ulega przedłużeniu z mocy prawa do upływu 30. dnia następującego po dniu odwołania tego ze stanów, który obowiązywał jako ostatni. Przepis zdania pierwszego stosuje się odpowiednio do decyzji o przedłużeniu zezwolenia na pracę lub przedłużeniu zezwolenia na pracę sezonową.
 
 2. W przypadku przedłużenia okresu ważności zezwolenia na pracę na podstawie ust. 1 wniosek, o którym mowa w art. 88a ust. 1a ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, składa się nie wcześniej niż w terminie 90 dni przed upływem okresu ważności zezwolenia na pracę określonego w tym zezwoleniu i nie później niż w ostatnim dniu okresu ważności przedłużonego na podstawie ust. 1.
 
 3. Jeżeli w oświadczeniu o powierzeniu wykonywania pracy cudzoziemcowi, wpisanym do ewidencji oświadczeń na podstawie art. 88z ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, wskazano okres pracy, którego koniec przypada w okresie stanu zagrożenia epidemicznego lub stanu epidemii, ogłoszonego w związku z zakażeniami wirusem SARS-CoV-2, cudzoziemiec może wykonywać pracę określoną oświadczeniem na rzecz podmiotu, który złożył oświadczenie, w okresie lub okresach nieobjętych oświadczeniem do upływu 30 dnia następującego po dniu odwołania tego ze stanów, który obowiązywał jako ostatni, bez zezwolenia na pracę.
 
-4. Dodatkowego okresu wykonywania pracy, o którym mowa w ust. 3, nie wlicza się do okresu wykonywania pracy, o którym mowa w art. 87 ust. 3 i art. 88z ust. 2 pkt 3 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. Art. 15zzr. (uchylony) Art. 15zzr 1 . (utracił moc) Art. 15zzra. 1. Jeżeli podstawa do ogłoszenia upadłości dłużnika powstała w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, a stan niewypłacalności powstał z powodu COVID-19, bieg terminu do złożenia wniosku o ogłoszenie upadłości, o którym mowa w art. 21 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe nie rozpoczyna się, a rozpoczęty ulega przerwaniu. Po tym okresie termin ten biegnie na nowo. Jeżeli stan niewypłacalności powstał w czasie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 domniemywa się, że zaistniał z powodu COVID-19.
+4. Dodatkowego okresu wykonywania pracy, o którym mowa w ust. 3, nie wlicza się do okresu wykonywania pracy, o którym mowa w art. 87 ust. 3 i art. 88z ust. 2 pkt 3 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
 
-2. Jeżeli termin na zgłoszenie wniosku o ogłoszenie upadłości ustalany jest z uwzględnieniem postanowień ust. 1 i wniosek o ogłoszenie upadłości zostanie złożony przez dłużnika w tym terminie, a brak jest wcześniejszego wniosku o ogłoszenie upadłości, określone przepisami ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe terminy, dla których obliczania znaczenie ma dzień zgłoszenia wniosku o ogłoszenie upadłości wydłuża się o liczbę dni pomiędzy dniem zgłoszenia wniosku o ogłoszenie upadłości, a ostatnim dniem, w którym wniosek ten winien być złożony stosownie do art. 21 ust. 1, lub odpowiednio art. 21 ust. 2a, ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, bez uwzględniania postanowień ust. 1 niniejszego artykułu. Art. 15zzs. (uchylony) Art. 15zzs 1 . 1. (uchylony)
+**Art. 15zzr.** (uchylony)
+
+**Art. 15zzr¹.** (utracił moc) Art. 15zzra. 1. Jeżeli podstawa do ogłoszenia upadłości dłużnika powstała w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, a stan niewypłacalności powstał z powodu COVID-19, bieg terminu do złożenia wniosku o ogłoszenie upadłości, o którym mowa w art. 21 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe nie rozpoczyna się, a rozpoczęty ulega przerwaniu. Po tym okresie termin ten biegnie na nowo. Jeżeli stan niewypłacalności powstał w czasie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 domniemywa się, że zaistniał z powodu COVID-19. 2. Jeżeli termin na zgłoszenie wniosku o ogłoszenie upadłości ustalany jest z uwzględnieniem postanowień ust. 1 i wniosek o ogłoszenie upadłości zostanie złożony przez dłużnika w tym terminie, a brak jest wcześniejszego wniosku o ogłoszenie upadłości, określone przepisami ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe terminy, dla których obliczania znaczenie ma dzień zgłoszenia wniosku o ogłoszenie upadłości wydłuża się o liczbę dni pomiędzy dniem zgłoszenia wniosku o ogłoszenie upadłości, a ostatnim dniem, w którym wniosek ten winien być złożony stosownie do art. 21 ust. 1, lub odpowiednio art. 21 ust. 2a, ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, bez uwzględniania postanowień ust. 1 niniejszego artykułu.
+
+**Art. 15zzs.** (uchylony)
+
+**Art. 15zzs¹.**
+
+1. (uchylony)
 
 - **1)** (uchylony)
 - **2)** (uchylony)
@@ -2632,7 +3074,15 @@ Art. 16–30. (pominięte)
 
 3. (uchylony)
 
-4. (uchylony) Art. 15zzs 2 . (uchylony) Art. 15zzs 3 . (uchylony) Art. 15zzs 4 . 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w ciągu roku od odwołania tego z nich, który obowiązywał jako ostatni, wojewódzkie sądy administracyjne i Naczelny Sąd Administracyjny mogą rozpoznać sprawę na posiedzeniu niejawnym, chyba że strona lub uczestnik postępowania wniosą o rozpoznanie sprawy na rozprawie. Wniosek strony lub uczestnika postępowania wiąże sąd.
+4. (uchylony)
+
+**Art. 15zzs².** (uchylony)
+
+**Art. 15zzs³.** (uchylony)
+
+**Art. 15zzs⁴.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w ciągu roku od odwołania tego z nich, który obowiązywał jako ostatni, wojewódzkie sądy administracyjne i Naczelny Sąd Administracyjny mogą rozpoznać sprawę na posiedzeniu niejawnym, chyba że strona lub uczestnik postępowania wniosą o rozpoznanie sprawy na rozprawie. Wniosek strony lub uczestnika postępowania wiąże sąd.
 
 2. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w ciągu roku od odwołania tego z nich, który obowiązywał jako ostatni, wojewódzkie sądy administracyjne oraz Naczelny Sąd Administracyjny mogą przeprowadzić rozprawę przy użyciu urządzeń technicznych umożliwiających przeprowadzenie jej na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku, z tym że osoby w niej uczestniczące nie muszą przebywać w budynku sądu.
 
@@ -2640,7 +3090,21 @@ Art. 16–30. (pominięte)
 
 4. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w ciągu roku od odwołania tego z nich, który obowiązywał jako ostatni, przewodniczący, na wniosek Komisji do spraw reprywatyzacji nieruchomości warszawskich, zarządza przeprowadzenie rozprawy w sprawie, w której jest ona stroną. W takim przypadku mogą być obecni na sali: strony, ich przedstawiciele ustawowi i pełnomocnicy, prokurator oraz osoby, których udział przewodniczący uzna za niezbędny. Przebieg rozprawy podlega transmisji przy użyciu urządzeń technicznych z jednoczesnym bezpośrednim przekazem obrazu i dźwięku.
 
-5. Na wniosek strony lub osoby wezwanej zgłoszony na co najmniej 7 dni przed wyznaczonym terminem posiedzenia zdalnego sąd zapewni jej możliwość udziału w posiedzeniu zdalnym w budynku sądu, jeśli strona lub osoba wezwana wskaże we wniosku, że nie posiada urządzeń technicznych umożliwiających udział w posiedzeniu zdalnym poza budynkiem sądu. Art. 15zzs 5 . W okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonego z powodu COVID-19 oraz w ciągu roku od odwołania tego z nich, który obowiązywał jako ostatni, podział czynności, o którym mowa w art. 22a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334), może zostać ustalony przed zasięgnięciem opinii kolegium właściwego sądu. Odwołanie od podziału czynności nie wstrzymuje jego stosowania. W przypadku uwzględnienia odwołania przydział spraw dokonany przed doręczeniem sądowi uchwały Krajowej Rady Sądownictwa pozostaje w mocy. Art. 15zzs 6 . W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w ciągu roku od odwołania tego z nich, który obowiązywał jako ostatni, prezes właściwego sądu lub trybunału nie jest związany wnioskiem ani terminem zwołania zgromadzenia ogólnego przewidzianym w przepisach odrębnych. Art. 15zzs 7 . W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w ciągu roku od odwołania tego z nich, który obowiązywał jako ostatni, Sąd Najwyższy, w razie zaistnienia przesłanek, o których mowa w art. 398 § 1 Kodeksu postępowania cywilnego, może przeprowadzić rozprawę przy użyciu urządzeń technicznych umożliwiających przeprowadzenie jej na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku. Art. 15zzs 8 . W sprawach wymienionych w art. 15zzs przesłuchanie, o którym mowa w art. 26 ust. 1 pkt 2 ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne (Dz. U. z 2023 r. poz. 1329), przeprowadza się przy użyciu urządzeń technicznych umożliwiających przeprowadzenie go na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku, jeżeli sąd z urzędu lub na wniosek konsula uzna to za niezbędne w związku z sytuacją kryzysową wywołaną COVID-19 w miejscu przesłuchania. Przebieg przesłuchania utrwala się za pomocą urządzenia rejestrującego obraz lub dźwięk. Zapis obrazu lub dźwięku stanowi załącznik do protokołu przesłuchania. Złożenie pod protokołem podpisów przez osoby inne niż konsul nie jest wymagane. Art. 15zzs 9 . (uchylony) Art. 15zzs 10 . 1. W przypadku całkowitego zaprzestania czynności przez sąd powszechny lub wojskowy w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 prezes sądu apelacyjnego, a w stosunku do wojskowych sądów garnizonowych prezes wojskowego sądu okręgowego, może wyznaczyć inny sąd równorzędny, położony na obszarze odpowiednio tej samej apelacji lub okręgu, jako właściwy do rozpoznawania spraw pilnych należących do właściwości sądu, który zaprzestał czynności – mając na względzie zapewnienie prawa do sądu oraz warunki organizacyjne sądów. Wyznaczenia dokonuje się na czas oznaczony, wynikający z przewidywanego okresu zaprzestania czynności.
+5. Na wniosek strony lub osoby wezwanej zgłoszony na co najmniej 7 dni przed wyznaczonym terminem posiedzenia zdalnego sąd zapewni jej możliwość udziału w posiedzeniu zdalnym w budynku sądu, jeśli strona lub osoba wezwana wskaże we wniosku, że nie posiada urządzeń technicznych umożliwiających udział w posiedzeniu zdalnym poza budynkiem sądu.
+
+**Art. 15zzs⁵.** W okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonego z powodu COVID-19 oraz w ciągu roku od odwołania tego z nich, który obowiązywał jako ostatni, podział czynności, o którym mowa w art. 22a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334), może zostać ustalony przed zasięgnięciem opinii kolegium właściwego sądu. Odwołanie od podziału czynności nie wstrzymuje jego stosowania. W przypadku uwzględnienia odwołania przydział spraw dokonany przed doręczeniem sądowi uchwały Krajowej Rady Sądownictwa pozostaje w mocy.
+
+**Art. 15zzs⁶.** W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w ciągu roku od odwołania tego z nich, który obowiązywał jako ostatni, prezes właściwego sądu lub trybunału nie jest związany wnioskiem ani terminem zwołania zgromadzenia ogólnego przewidzianym w przepisach odrębnych.
+
+**Art. 15zzs⁷.** W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w ciągu roku od odwołania tego z nich, który obowiązywał jako ostatni, Sąd Najwyższy, w razie zaistnienia przesłanek, o których mowa w art. 398 § 1 Kodeksu postępowania cywilnego, może przeprowadzić rozprawę przy użyciu urządzeń technicznych umożliwiających przeprowadzenie jej na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku.
+
+**Art. 15zzs⁸.** W sprawach wymienionych w art. 15zzs przesłuchanie, o którym mowa w art. 26 ust. 1 pkt 2 ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne (Dz. U. z 2023 r. poz. 1329), przeprowadza się przy użyciu urządzeń technicznych umożliwiających przeprowadzenie go na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku, jeżeli sąd z urzędu lub na wniosek konsula uzna to za niezbędne w związku z sytuacją kryzysową wywołaną COVID-19 w miejscu przesłuchania. Przebieg przesłuchania utrwala się za pomocą urządzenia rejestrującego obraz lub dźwięk. Zapis obrazu lub dźwięku stanowi załącznik do protokołu przesłuchania. Złożenie pod protokołem podpisów przez osoby inne niż konsul nie jest wymagane.
+
+**Art. 15zzs⁹.** (uchylony)
+
+**Art. 15zzs¹⁰.**
+
+1. W przypadku całkowitego zaprzestania czynności przez sąd powszechny lub wojskowy w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 prezes sądu apelacyjnego, a w stosunku do wojskowych sądów garnizonowych prezes wojskowego sądu okręgowego, może wyznaczyć inny sąd równorzędny, położony na obszarze odpowiednio tej samej apelacji lub okręgu, jako właściwy do rozpoznawania spraw pilnych należących do właściwości sądu, który zaprzestał czynności – mając na względzie zapewnienie prawa do sądu oraz warunki organizacyjne sądów. Wyznaczenia dokonuje się na czas oznaczony, wynikający z przewidywanego okresu zaprzestania czynności.
 
 2. W przypadku całkowitego zaprzestania czynności przez wszystkie sądy powszechne lub wojskowe na obszarze apelacji w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 Pierwszy Prezes Sądu Najwyższego, na wniosek prezesa sądu apelacyjnego, a w stosunku do wojskowych sądów garnizonowych prezes wojskowego sądu okręgowego, na którego obszarze sądy zaprzestały czynności, wyznacza inne sądy równorzędne, położone w miarę możliwości odpowiednio na obszarze sąsiedniej apelacji lub okręgu, jako właściwe do rozpoznawania spraw pilnych należących do właściwości sądów, które zaprzestały czynności – mając na względzie zapewnienie prawa do sądu oraz warunki organizacyjne sądów. Wyznaczenia dokonuje się na czas oznaczony, wynikający z przewidywanego okresu zaprzestania czynności.
 
@@ -2678,33 +3142,67 @@ Art. 16–30. (pominięte)
 
 7. Sąd, który całkowicie zaprzestał czynności z powodu COVID-19, przekazuje akta spraw pilnych wszczętych i niezakończonych oraz spraw, o których mowa w ust. 6, sądowi wyznaczonemu jako sąd właściwy w trybie ust. 1–3. O przekazaniu akt zawiadamia się osoby biorące udział w postępowaniu.
 
-8. Sąd wyznaczony jako sąd właściwy w trybie ust. 1–3 pozostaje właściwy do zakończenia postępowania w danej instancji. Art. 15zzs 11 . 1. Prezes sądu apelacyjnego może delegować sędziego sądu rejonowego, sędziego sądu okręgowego lub sędziego sądu apelacyjnego, za jego zgodą, do pełnienia obowiązków sędziego w innym sądzie rejonowym, sądzie okręgowym lub sądzie apelacyjnym, na czas określony, do rozpoznawania spraw, o których mowa w art. 15zzs ust. 4 i 6, jeżeli w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 wymaga tego dobro wymiaru sprawiedliwości.
+8. Sąd wyznaczony jako sąd właściwy w trybie ust. 1–3 pozostaje właściwy do zakończenia postępowania w danej instancji.
+
+**Art. 15zzs¹¹.**
+
+1. Prezes sądu apelacyjnego może delegować sędziego sądu rejonowego, sędziego sądu okręgowego lub sędziego sądu apelacyjnego, za jego zgodą, do pełnienia obowiązków sędziego w innym sądzie rejonowym, sądzie okręgowym lub sądzie apelacyjnym, na czas określony, do rozpoznawania spraw, o których mowa w art. 15zzs ust. 4 i 6, jeżeli w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 wymaga tego dobro wymiaru sprawiedliwości.
 
 2. Prezes wojskowego sądu okręgowego może delegować sędziego wojskowego sądu okręgowego lub sędziego wojskowego sądu garnizonowego, za jego zgodą, do pełnienia obowiązków sędziego w innym wojskowym sądzie okręgowym lub wojskowym sądzie garnizonowym, na czas określony, do rozpoznawania spraw, o których mowa w art. 15zzs ust. 4 pkt 1–10, jeżeli w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 wymaga tego dobro wymiaru sprawiedliwości.
 
-3. Prezes Naczelnego Sądu Administracyjnego może delegować sędziego Naczelnego Sądu Administracyjnego lub sędziego wojewódzkiego sądu administracyjnego, za jego zgodą, do pełnienia obowiązków sędziego w innym sądzie administracyjnym, na czas określony, do rozpoznawania spraw, o których mowa w art. 15zzs ust. 5, jeżeli w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 wymaga tego dobro wymiaru sprawiedliwości. Za zgodą prezesa sądu apelacyjnego sędzia sądu wojskowego może zostać delegowany także do sądu powszechnego na obszarze apelacji. Art. 15zzt. (uchylony) Art. 15zzu. (uchylony) Art. 15zzu 1 . 1. Do dnia 30 września 2020 r. w ramach realizacji zadań przeciwdziałania COVID-19 powierza się operatorowi wyznaczonemu, o którym mowa w art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, świadczenie usługi pocztowej, o której mowa w art. 2 ust. 1 pkt 3 tej ustawy, przy wykorzystaniu środków komunikacji elektronicznej na etapie doręczania.
+3. Prezes Naczelnego Sądu Administracyjnego może delegować sędziego Naczelnego Sądu Administracyjnego lub sędziego wojewódzkiego sądu administracyjnego, za jego zgodą, do pełnienia obowiązków sędziego w innym sądzie administracyjnym, na czas określony, do rozpoznawania spraw, o których mowa w art. 15zzs ust. 5, jeżeli w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 wymaga tego dobro wymiaru sprawiedliwości. Za zgodą prezesa sądu apelacyjnego sędzia sądu wojskowego może zostać delegowany także do sądu powszechnego na obszarze apelacji.
+
+**Art. 15zzt.** (uchylony)
+
+**Art. 15zzu.** (uchylony)
+
+**Art. 15zzu¹.**
+
+1. Do dnia 30 września 2020 r. w ramach realizacji zadań przeciwdziałania COVID-19 powierza się operatorowi wyznaczonemu, o którym mowa w art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, świadczenie usługi pocztowej, o której mowa w art. 2 ust. 1 pkt 3 tej ustawy, przy wykorzystaniu środków komunikacji elektronicznej na etapie doręczania.
 
 2. Przez usługę pocztową, o której mowa w ust. 1, rozumie się przyjęcie przesyłki poleconej, a następnie jej przemieszczenie i doręczenie w postaci dokumentu elektronicznego do adresata bez konieczności składania własnoręcznego podpisu.
 
 3. Usługa pocztowa, o której mowa w ust. 1, jest przeznaczona dla podmiotów posiadających profil zaufany w rozumieniu art. 3 pkt 14 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2020 r. poz. 346, 568, 695 i 1517).
 
-4. Przez przesyłkę poleconą rozumie się również przesyłkę poleconą z potwierdzeniem odbioru, pokwitowaniem odbioru albo elektronicznym potwierdzeniem odbioru. Art. 15zzu 2 . 1. Do dnia 30 września 2020 r. ilekroć w przepisach prawa jest mowa o przesyłce poleconej w rozumieniu w art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, albo o doręczaniu pisma za pokwitowaniem przez operatora pocztowego w rozumieniu tej ustawy, doręczenie takiej przesyłki może nastąpić przy wykorzystaniu środków komunikacji elektronicznej, jeżeli adresat wyrazi na to zgodę i upoważni operatora wyznaczonego do obioru przesyłek poleconych celem ich przetworzenia i doręczenia w postaci dokumentów elektronicznych na skrzynkę elektroniczną adresata. W upoważnieniu adresat uzgadnia z operatorem wyznaczonym sposób postępowania z odebranymi przesyłkami poleconymi.
+4. Przez przesyłkę poleconą rozumie się również przesyłkę poleconą z potwierdzeniem odbioru, pokwitowaniem odbioru albo elektronicznym potwierdzeniem odbioru.
+
+**Art. 15zzu².**
+
+1. Do dnia 30 września 2020 r. ilekroć w przepisach prawa jest mowa o przesyłce poleconej w rozumieniu w art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, albo o doręczaniu pisma za pokwitowaniem przez operatora pocztowego w rozumieniu tej ustawy, doręczenie takiej przesyłki może nastąpić przy wykorzystaniu środków komunikacji elektronicznej, jeżeli adresat wyrazi na to zgodę i upoważni operatora wyznaczonego do obioru przesyłek poleconych celem ich przetworzenia i doręczenia w postaci dokumentów elektronicznych na skrzynkę elektroniczną adresata. W upoważnieniu adresat uzgadnia z operatorem wyznaczonym sposób postępowania z odebranymi przesyłkami poleconymi.
 
 2. Datą doręczenia przesyłki jest data zapoznania się przez odbiorcę z dokumentem zamieszczonym na skrzynce elektronicznej adresata. W razie braku zapoznania się dokument uznaje się za doręczony po upływie 14 dni od zamieszczenia dokumentu.
 
-3. Operator wyznaczony przesyła na adres elektroniczny wskazany przez adresata zawiadomienie zawierające informację, że doręczono na skrzynkę elektroniczną adresata dokument elektroniczny. Art. 15zzu 3 . 1. Przepisu art. 15zzu nie stosuje się w przypadkach, gdy korespondencja nie może być doręczona ze względu na:
+3. Operator wyznaczony przesyła na adres elektroniczny wskazany przez adresata zawiadomienie zawierające informację, że doręczono na skrzynkę elektroniczną adresata dokument elektroniczny.
+
+**Art. 15zzu³.**
+
+1. Przepisu art. 15zzu nie stosuje się w przypadkach, gdy korespondencja nie może być doręczona ze względu na:
 
 - **1)** konieczność doręczenia niepodlegającego przekształceniu dokumentu utrwalonego w postaci innej niż elektroniczna lub rzeczy;
 - **2)** ważny interes publiczny, w tym istotne interesy państwa, a w szczególności jego bezpieczeństwo, obronność lub porządek publiczny;
 - **3)** opatrzenie tekstem plastycznym, odbitką pieczęci plastycznej, hologramem lub innym zabezpieczeniem, które nie może być odzwierciedlone w wyniku przekształcenia;
 - **4)** inne przyczyny techniczne.
 
-2. Istnienie przesłanek wymienionych w ust. 1 ocenia nadawca. Art. 15zzu 4 . Niniejsze przepisy mają zastosowanie do wszystkich przesyłek poleconych, o których mowa w art. 15zzu ust. 4, nadawanych na podstawie zawartych z operatorem wyznaczonym umów, bez względu na tryb w jakim zostały zawarte te umowy. Art. 15zzu 5 . Dokument elektroniczny powstały w ramach realizacji usługi, o której mowa w art. 15zzu ust. 1, ma moc równą mocy dokumentu w postaci papierowej, z którego został przekształcony. Art. 15zzu 6 . 1. Operator wyznaczony w ramach świadczenia usługi, o której mowa w art. 15zzu ust. 1:
+2. Istnienie przesłanek wymienionych w ust. 1 ocenia nadawca.
+
+**Art. 15zzu⁴.** Niniejsze przepisy mają zastosowanie do wszystkich przesyłek poleconych, o których mowa w art. 15zzu ust. 4, nadawanych na podstawie zawartych z operatorem wyznaczonym umów, bez względu na tryb w jakim zostały zawarte te umowy.
+
+**Art. 15zzu⁵.** Dokument elektroniczny powstały w ramach realizacji usługi, o której mowa w art. 15zzu ust. 1, ma moc równą mocy dokumentu w postaci papierowej, z którego został przekształcony.
+
+**Art. 15zzu⁶.**
+
+1. Operator wyznaczony w ramach świadczenia usługi, o której mowa w art. 15zzu ust. 1:
 
 - **1)** jest obowiązany do zapewnienia jednoznacznej identyfikacji adresata będącego osobą fizyczną;
 - **2)** może zapewnić jednoznaczną identyfikację adresata lub osób uprawnionych do jego reprezentowania, w przypadku gdy adresat jest osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, o ile operator wyznaczony ma takie możliwości techniczne.
 
-2. Minister właściwy do spraw informatyzacji na okres do dnia 30 września 2020 r. zapewnia adresatowi będącemu osobą fizyczną możliwość uwierzytelnienia w systemie operatora wyznaczonego za pomocą profilu zaufanego dla potrzeb korzystania z usługi, o której mowa w art. 15zzu ust. 1. Art. 15zzu 7 . Operator wyznaczony świadczy usługę, o której mowa w art. 15zzu ust. 1, na podstawie regulaminu usługi. Regulamin, poza wymogami określonymi w ustawie z dnia 23 listopada 2012 r. – Prawo pocztowe, określa zasady identyfikacji adresata oraz zasady odbioru przesyłek. Art. 15zzu 8 . 1. Dodatkowe czynności związane z doręczeniem wynikające z pełnomocnictwa, o którym mowa w art. 15zzu ust. 1, wykonywane w ramach usługi, o której mowa w art. 15zzu ust. 1, są zwolnione z opłaty. Operator wyznaczony, który nie pobrał opłaty, otrzymuje z Funduszu Przeciwdziałania COVID-19 środki związane z funkcjonowaniem usługi w okresie jej świadczenia, na pokrycie kosztów całkowitych tej usługi powiększonych o wskaźnik zwrotu kosztu zaangażowanego kapitału dla operatora wyznaczonego.
+2. Minister właściwy do spraw informatyzacji na okres do dnia 30 września 2020 r. zapewnia adresatowi będącemu osobą fizyczną możliwość uwierzytelnienia w systemie operatora wyznaczonego za pomocą profilu zaufanego dla potrzeb korzystania z usługi, o której mowa w art. 15zzu ust. 1.
+
+**Art. 15zzu⁷.** Operator wyznaczony świadczy usługę, o której mowa w art. 15zzu ust. 1, na podstawie regulaminu usługi. Regulamin, poza wymogami określonymi w ustawie z dnia 23 listopada 2012 r. – Prawo pocztowe, określa zasady identyfikacji adresata oraz zasady odbioru przesyłek.
+
+**Art. 15zzu⁸.**
+
+1. Dodatkowe czynności związane z doręczeniem wynikające z pełnomocnictwa, o którym mowa w art. 15zzu ust. 1, wykonywane w ramach usługi, o której mowa w art. 15zzu ust. 1, są zwolnione z opłaty. Operator wyznaczony, który nie pobrał opłaty, otrzymuje z Funduszu Przeciwdziałania COVID-19 środki związane z funkcjonowaniem usługi w okresie jej świadczenia, na pokrycie kosztów całkowitych tej usługi powiększonych o wskaźnik zwrotu kosztu zaangażowanego kapitału dla operatora wyznaczonego.
 
 2. Podstawę obliczenia należnych operatorowi wyznaczonemu środków stanowi:
 
@@ -2717,35 +3215,66 @@ Art. 16–30. (pominięte)
 
 5. W przypadku gdy przepisy Unii Europejskiej dotyczące pomocy publicznej dopuszczają zwolnienie z wymogu notyfikacji Komisji Europejskiej pomocy publicznej udzielanej zgodnie z ich postanowieniami, środki, o których mowa w ust. 1, mogą być również udzielone zgodnie z tymi przepisami.
 
-6. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, szczegółowe warunki udzielania środków, o których mowa w ust. 1, zwolnionych z wymogu notyfikacji Komisji Europejskiej, mając na uwadze potrzebę zapewnienia zgodności przyznawania tych środków z rynkiem wewnętrznym. Art. 15zzu 9 . W ramach doręczania, o którym mowa w art. 15zzu , operator wyznaczony zapewnia:
+6. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, szczegółowe warunki udzielania środków, o których mowa w ust. 1, zwolnionych z wymogu notyfikacji Komisji Europejskiej, mając na uwadze potrzebę zapewnienia zgodności przyznawania tych środków z rynkiem wewnętrznym.
+
+**Art. 15zzu⁹.** W ramach doręczania, o którym mowa w art. 15zzu , operator wyznaczony zapewnia:
 
 - **1)** w toku przekształcenia wykonanie z należytą starannością i jakością techniczną odwzorowania cyfrowego druku lub korespondencji zawartej w przesyłce listowej oraz koperty umożliwiające zapoznanie się z treścią dokumentu elektronicznego bez potrzeby weryfikacji tej treści z dokumentem w postaci papierowej;
-- **2)** integralność dokumentu elektronicznego wytworzonego w wyniku przekształcenia. Art. 15zzu 10 . Przepisów art. 15zzu –15zzu nie stosuje się do przesyłek wysyłanych do ani wysyłanych przez:
+- **2)** integralność dokumentu elektronicznego wytworzonego w wyniku przekształcenia.
+
+**Art. 15zzu¹⁰.** Przepisów art. 15zzu –15zzu nie stosuje się do przesyłek wysyłanych do ani wysyłanych przez:
+
 - **1)** Sądy i Trybunały;
 - **2)** prokuraturę i inne organy ścigania;
-- **3)** komornika sądowego. Art. 15zzu 10a . 1. Do dnia 30 września 2021 r., w ramach realizacji zadań przeciwdziałania COVID-19 powierza się operatorowi wyznaczonemu, o którym mowa w art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, świadczenie usługi pocztowej, o której mowa w art. 2 ust. 1 pkt 3 tej ustawy, przy wykorzystaniu środków komunikacji elektronicznej na etapie doręczania.
+- **3)** komornika sądowego.
+
+**Art. 15zzu¹⁰a.**
+
+1. Do dnia 30 września 2021 r., w ramach realizacji zadań przeciwdziałania COVID-19 powierza się operatorowi wyznaczonemu, o którym mowa w art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, świadczenie usługi pocztowej, o której mowa w art. 2 ust. 1 pkt 3 tej ustawy, przy wykorzystaniu środków komunikacji elektronicznej na etapie doręczania.
 
 2. Przez usługę pocztową, o której mowa w ust. 1, rozumie się przyjęcie przesyłki poleconej, a następnie jej przemieszczenie i doręczenie w postaci dokumentu elektronicznego do adresata bez konieczności składania własnoręcznego podpisu.
 
 3. Usługa pocztowa, o której mowa w ust. 1, jest przeznaczona dla podmiotów posiadających profil zaufany w rozumieniu art. 3 pkt 14 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-4. Przez przesyłkę poleconą rozumie się również przesyłkę poleconą z potwierdzeniem odbioru, pokwitowaniem odbioru albo elektronicznym potwierdzeniem odbioru. Art. 15zzu 10b . 1. Do dnia 30 września 2021 r. ilekroć w przepisach prawa jest mowa o przesyłce poleconej w rozumieniu art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe albo o doręczaniu pisma za pokwitowaniem przez operatora pocztowego w rozumieniu tej ustawy, doręczenie takiej przesyłki może nastąpić przy wykorzystaniu środków komunikacji elektronicznej, jeżeli adresat wyrazi na to zgodę i upoważni operatora wyznaczonego do odbioru przesyłek poleconych celem ich przetworzenia i doręczenia w postaci dokumentów elektronicznych na skrzynkę elektroniczną adresata. W upoważnieniu adresat uzgadnia z operatorem wyznaczonym sposób postępowania z odebranymi przesyłkami poleconymi.
+4. Przez przesyłkę poleconą rozumie się również przesyłkę poleconą z potwierdzeniem odbioru, pokwitowaniem odbioru albo elektronicznym potwierdzeniem odbioru.
+
+**Art. 15zzu¹⁰b.**
+
+1. Do dnia 30 września 2021 r. ilekroć w przepisach prawa jest mowa o przesyłce poleconej w rozumieniu art. 3 pkt 22 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe albo o doręczaniu pisma za pokwitowaniem przez operatora pocztowego w rozumieniu tej ustawy, doręczenie takiej przesyłki może nastąpić przy wykorzystaniu środków komunikacji elektronicznej, jeżeli adresat wyrazi na to zgodę i upoważni operatora wyznaczonego do odbioru przesyłek poleconych celem ich przetworzenia i doręczenia w postaci dokumentów elektronicznych na skrzynkę elektroniczną adresata. W upoważnieniu adresat uzgadnia z operatorem wyznaczonym sposób postępowania z odebranymi przesyłkami poleconymi.
 
 2. Datą doręczenia przesyłki jest data zapoznania się przez odbiorcę z dokumentem zamieszczonym na skrzynce elektronicznej adresata. W przypadku braku zapoznania się dokument uznaje się za doręczony po upływie 14 dni od zamieszczenia dokumentu.
 
-3. Operator wyznaczony przesyła na adres elektroniczny wskazany przez adresata zawiadomienie zawierające informację, że doręczono na skrzynkę elektroniczną adresata dokument elektroniczny. Art. 15zzu 10c . 1. Przepisów art. 15zzu nie stosuje się w przypadkach, gdy korespondencja nie może być doręczona ze względu na:
+3. Operator wyznaczony przesyła na adres elektroniczny wskazany przez adresata zawiadomienie zawierające informację, że doręczono na skrzynkę elektroniczną adresata dokument elektroniczny.
+
+**Art. 15zzu¹⁰c.**
+
+1. Przepisów art. 15zzu nie stosuje się w przypadkach, gdy korespondencja nie może być doręczona ze względu na:
 
 - **1)** konieczność doręczenia niepodlegającego przekształceniu dokumentu utrwalonego w postaci innej niż elektroniczna lub rzeczy;
 - **2)** ważny interes publiczny, w szczególności bezpieczeństwo państwa, obronność lub porządek publiczny;
 - **3)** opatrzenie tekstem plastycznym, odbitką pieczęci plastycznej, hologramem lub innym zabezpieczeniem, które nie może być odzwierciedlone w wyniku przekształcenia;
 - **4)** inne przyczyny techniczne.
 
-2. Istnienie przesłanek wymienionych w ust. 1 ocenia nadawca. Art. 15zzu 10d . Przepisy mają zastosowanie do przesyłek poleconych, o których mowa w art. 15zzu ust. 4, nadawanych na podstawie zawartych z operatorem wyznaczonym umów, bez względu na tryb, w jakim zostały zawarte te umowy. Art. 15zzu 10e . Dokument elektroniczny powstały w ramach realizacji usługi, o której mowa w art. 15zzu ust. 1, ma moc równą mocy dokumentu w postaci papierowej, z którego został przekształcony. Art. 15zzu 10f . 1. Operator wyznaczony w ramach świadczenia usługi, o której mowa w art. 15zzu ust. 1:
+2. Istnienie przesłanek wymienionych w ust. 1 ocenia nadawca.
+
+**Art. 15zzu¹⁰d.** Przepisy mają zastosowanie do przesyłek poleconych, o których mowa w art. 15zzu ust. 4, nadawanych na podstawie zawartych z operatorem wyznaczonym umów, bez względu na tryb, w jakim zostały zawarte te umowy.
+
+**Art. 15zzu¹⁰e.** Dokument elektroniczny powstały w ramach realizacji usługi, o której mowa w art. 15zzu ust. 1, ma moc równą mocy dokumentu w postaci papierowej, z którego został przekształcony.
+
+**Art. 15zzu¹⁰f.**
+
+1. Operator wyznaczony w ramach świadczenia usługi, o której mowa w art. 15zzu ust. 1:
 
 - **1)** jest obowiązany do zapewnienia jednoznacznej identyfikacji adresata będącego osobą fizyczną;
 - **2)** może zapewnić jednoznaczną identyfikację adresata lub osób uprawnionych do jego reprezentowania, w przypadku gdy adresat jest osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, o ile operator wyznaczony ma takie możliwości techniczne.
 
-2. Minister właściwy do spraw informatyzacji w okresie do dnia 30 września 2021 r. zapewnia adresatowi będącemu osobą fizyczną możliwość uwierzytelnienia w systemie operatora wyznaczonego za pomocą profilu zaufanego dla potrzeb korzystania z usługi, o której mowa w art. 15zzu ust. 1. Art. 15zzu 10g . Operator wyznaczony świadczy usługę, o której mowa w art. 15zzu ust. 1, na podstawie regulaminu usługi. Regulamin, poza wymogami określonymi w ustawie z dnia 23 listopada 2012 r. – Prawo pocztowe, określa zasady identyfikacji adresata oraz zasady odbioru przesyłek. Art. 15zzu 10h . 1. Do dnia 31 grudnia 2020 r. dodatkowe czynności związane z doręczeniem wynikające z upoważnienia, o którym mowa w art. 15zzu ust. 1, wykonywane w ramach usługi, o której mowa w art. 15zzu ust. 1, są zwolnione z opłaty. Operator wyznaczony, który nie pobrał opłaty, otrzymuje z Funduszu Przeciwdziałania COVID-19 środki związane z funkcjonowaniem usługi w okresie jej świadczenia, na pokrycie kosztów całkowitych tej usługi, powiększonych o wskaźnik zwrotu kosztu zaangażowanego kapitału dla operatora wyznaczonego.
+2. Minister właściwy do spraw informatyzacji w okresie do dnia 30 września 2021 r. zapewnia adresatowi będącemu osobą fizyczną możliwość uwierzytelnienia w systemie operatora wyznaczonego za pomocą profilu zaufanego dla potrzeb korzystania z usługi, o której mowa w art. 15zzu ust. 1.
+
+**Art. 15zzu¹⁰g.** Operator wyznaczony świadczy usługę, o której mowa w art. 15zzu ust. 1, na podstawie regulaminu usługi. Regulamin, poza wymogami określonymi w ustawie z dnia 23 listopada 2012 r. – Prawo pocztowe, określa zasady identyfikacji adresata oraz zasady odbioru przesyłek.
+
+**Art. 15zzu¹⁰h.**
+
+1. Do dnia 31 grudnia 2020 r. dodatkowe czynności związane z doręczeniem wynikające z upoważnienia, o którym mowa w art. 15zzu ust. 1, wykonywane w ramach usługi, o której mowa w art. 15zzu ust. 1, są zwolnione z opłaty. Operator wyznaczony, który nie pobrał opłaty, otrzymuje z Funduszu Przeciwdziałania COVID-19 środki związane z funkcjonowaniem usługi w okresie jej świadczenia, na pokrycie kosztów całkowitych tej usługi, powiększonych o wskaźnik zwrotu kosztu zaangażowanego kapitału dla operatora wyznaczonego.
 
 2. Od dnia 1 stycznia 2021 r. do dnia 30 września 2021 r. dodatkowe czynności związane z doręczeniem wynikające z upoważnienia, o którym mowa w art. 15zzu ust. 1, wykonywane w ramach usługi, o której mowa w art. 15zzu ust. 1, są zwolnione z opłaty. Operator wyznaczony, który nie pobrał opłaty, otrzymuje dotację z budżetu państwa związaną z funkcjonowaniem usługi w okresie jej świadczenia, na pokrycie kosztów całkowitych tej usługi, powiększonych o wskaźnik zwrotu kosztu zaangażowanego kapitału dla operatora wyznaczonego.
 
@@ -2764,27 +3293,56 @@ Art. 16–30. (pominięte)
 
 8. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, szczegółowe warunki udzielania środków, o których mowa w ust. 1, zwolnionych z wymogu notyfikacji Komisji Europejskiej, mając na uwadze potrzebę zapewnienia zgodności przyznawania tych środków z rynkiem wewnętrznym.
 
-9. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, szczegółowe warunki udzielania dotacji, o której mowa w ust. 2, zwolnionej z wymogu notyfikacji Komisji Europejskiej, mając na uwadze potrzebę zapewnienia zgodności przyznawania tych środków z rynkiem wewnętrznym. Art. 15zzu 10i . W ramach doręczania, o którym mowa w art. 15zzu , operator wyznaczony zapewnia:
+9. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, szczegółowe warunki udzielania dotacji, o której mowa w ust. 2, zwolnionej z wymogu notyfikacji Komisji Europejskiej, mając na uwadze potrzebę zapewnienia zgodności przyznawania tych środków z rynkiem wewnętrznym.
+
+**Art. 15zzu¹⁰i.** W ramach doręczania, o którym mowa w art. 15zzu , operator wyznaczony zapewnia:
 
 - **1)** w toku przekształcenia, wykonanie z należytą starannością i jakością techniczną odwzorowania cyfrowego druku lub korespondencji zawartej w przesyłce listowej oraz koperty, umożliwiające zapoznanie się z treścią dokumentu elektronicznego bez potrzeby weryfikacji tej treści z dokumentem w postaci papierowej;
-- **2)** integralność dokumentu elektronicznego wytworzonego w wyniku przekształcenia. Art. 15zzu 10j . 1. Przepisów art. 15zzu –15zzu nie stosuje się do przesyłek wysyłanych do oraz wysyłanych przez:
+- **2)** integralność dokumentu elektronicznego wytworzonego w wyniku przekształcenia.
+
+**Art. 15zzu¹⁰j.**
+
+1. Przepisów art. 15zzu –15zzu nie stosuje się do przesyłek wysyłanych do oraz wysyłanych przez:
+
 - **1)** Sądy i Trybunały;
 - **2)** prokuraturę i inne organy ścigania;
 - **3)** komornika sądowego.
 
-2. W przypadku przesyłek wysyłanych do oraz wysyłanych przez organy ścigania, o których mowa w ust. 1 pkt 2, warunkiem niestosowania przepisów art. 15zzu –15zzu jest oznaczenie przesyłki przez nadawcę napisem: „Nie podlega digitalizacji”. Art. 15zzu 11 . 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii spółka prowadząca rynek regulowany udostępnia uczestnikom obrotu zmiany regulaminu rynku regulowanego oraz inne ustanowione przez spółkę regulacje obowiązujące na prowadzonym przez nią rynku, co najmniej na 3 dni robocze przed dniem ich wejścia w życie.
+2. W przypadku przesyłek wysyłanych do oraz wysyłanych przez organy ścigania, o których mowa w ust. 1 pkt 2, warunkiem niestosowania przepisów art. 15zzu –15zzu jest oznaczenie przesyłki przez nadawcę napisem: „Nie podlega digitalizacji”.
 
-2. W przypadku, o którym mowa w ust. 1, Komisja Nadzoru Finansowego może, w drodze decyzji wydawanej na podstawie art. 29 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146), określić inny termin, nie dłuższy jednak niż 2 tygodnie, jeżeli wymaga tego interes uczestników obrotu. Art. 15zzv. Jeżeli termin wypłacenia odszkodowania, o którym mowa w art. 14 ust. 1 albo 2 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, lub dopełnienia obowiązku, o którym mowa w art. 14 ust. 3 tej ustawy, przypadał w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, w przypadku niewypłacenia przez zakład ubezpieczeń odszkodowania w terminie, o którym mowa w art. 14 ust. 1 albo 2 tej ustawy, lub niedopełnienia obowiązku, o którym mowa w art. 14 ust. 3 tej ustawy, organ nadzoru może zastosować wobec zakładu ubezpieczeń środki nadzorcze określone w art. 362 ust. 1 pkt 1 lub 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838, 1565 i 1863 oraz z 2025 r. poz. 146). Art. 15zzw. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw instytucji finansowych, w drodze rozporządzenia, może określić inny termin podjęcia przez walne zgromadzenie spółki uchwały w sprawie polityki wynagrodzeń członków zarządu i rady nadzorczej, o którym mowa w art. 36 ust. 1 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695), biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tego obowiązku. Art. 15zzx. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii organy stanowiące jednostek samorządu terytorialnego oraz działające kolegialnie organy: wykonawcze w jednostkach samorządu terytorialnego, w związkach jednostek samorządu terytorialnego, w związku metropolitalnym, w regionalnych izbach obrachunkowych, samorządowych kolegiach odwoławczych oraz w organach pomocniczych jednostek samorządu terytorialnego mogą zwoływać i odbywać obrady, sesje, posiedzenia, zgromadzenia lub inne formy działania właściwe dla tych organów, a także podejmować rozstrzygnięcia, w tym uchwały, z wykorzystaniem środków porozumiewania się na odległość lub korespondencyjnie (zdalny tryb obradowania).
+**Art. 15zzu¹¹.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii spółka prowadząca rynek regulowany udostępnia uczestnikom obrotu zmiany regulaminu rynku regulowanego oraz inne ustanowione przez spółkę regulacje obowiązujące na prowadzonym przez nią rynku, co najmniej na 3 dni robocze przed dniem ich wejścia w życie.
+
+2. W przypadku, o którym mowa w ust. 1, Komisja Nadzoru Finansowego może, w drodze decyzji wydawanej na podstawie art. 29 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146), określić inny termin, nie dłuższy jednak niż 2 tygodnie, jeżeli wymaga tego interes uczestników obrotu.
+
+**Art. 15zzv.** Jeżeli termin wypłacenia odszkodowania, o którym mowa w art. 14 ust. 1 albo 2 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, lub dopełnienia obowiązku, o którym mowa w art. 14 ust. 3 tej ustawy, przypadał w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, w przypadku niewypłacenia przez zakład ubezpieczeń odszkodowania w terminie, o którym mowa w art. 14 ust. 1 albo 2 tej ustawy, lub niedopełnienia obowiązku, o którym mowa w art. 14 ust. 3 tej ustawy, organ nadzoru może zastosować wobec zakładu ubezpieczeń środki nadzorcze określone w art. 362 ust. 1 pkt 1 lub 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838, 1565 i 1863 oraz z 2025 r. poz. 146).
+
+**Art. 15zzw.** W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw instytucji finansowych, w drodze rozporządzenia, może określić inny termin podjęcia przez walne zgromadzenie spółki uchwały w sprawie polityki wynagrodzeń członków zarządu i rady nadzorczej, o którym mowa w art. 36 ust. 1 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695), biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tego obowiązku.
+
+**Art. 15zzx.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii organy stanowiące jednostek samorządu terytorialnego oraz działające kolegialnie organy: wykonawcze w jednostkach samorządu terytorialnego, w związkach jednostek samorządu terytorialnego, w związku metropolitalnym, w regionalnych izbach obrachunkowych, samorządowych kolegiach odwoławczych oraz w organach pomocniczych jednostek samorządu terytorialnego mogą zwoływać i odbywać obrady, sesje, posiedzenia, zgromadzenia lub inne formy działania właściwe dla tych organów, a także podejmować rozstrzygnięcia, w tym uchwały, z wykorzystaniem środków porozumiewania się na odległość lub korespondencyjnie (zdalny tryb obradowania).
 
 2. O zdalnym trybie obradowania decyduje organ stanowiący jednostki samorządu terytorialnego albo inny organ działający kolegialnie, w głosowaniu jawnym.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do kolegialnych organów wewnętrznych, takich jak komisje oraz zespoły, działających w organach stanowiących jednostek samorządu terytorialnego oraz organach działających kolegialnie. Art. 15zzy. 1. W przypadku, gdy w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii urząd administracji publicznej lub inny podmiot wykonujący zadania publiczne stanie się niezdolny do wykonywania zadań w całości albo w części, wojewoda może w drodze zarządzenia powierzyć wykonywanie zadań tego urzędu lub podmiotu, w całości albo w części, w określonym terminie, innemu urzędowi administracji publicznej lub podmiotowi wykonującemu zadania publiczne.
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do kolegialnych organów wewnętrznych, takich jak komisje oraz zespoły, działających w organach stanowiących jednostek samorządu terytorialnego oraz organach działających kolegialnie.
+
+**Art. 15zzy.**
+
+1. W przypadku, gdy w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii urząd administracji publicznej lub inny podmiot wykonujący zadania publiczne stanie się niezdolny do wykonywania zadań w całości albo w części, wojewoda może w drodze zarządzenia powierzyć wykonywanie zadań tego urzędu lub podmiotu, w całości albo w części, w określonym terminie, innemu urzędowi administracji publicznej lub podmiotowi wykonującemu zadania publiczne.
 
 2. Powierzenie wykonywania zadań urzędu administracji publicznej lub innego podmiotu, o którym mowa w ust. 1, może odbywać się w grupie takich samych urzędów administracji publicznej lub takich samych podmiotów wykonujących zadania publiczne.
 
 3. Urząd administracji publicznej lub podmiot wykonujący zadania publiczne, któremu wojewoda powierzył wykonywanie zadań w trybie ust. 1 wykonuje te zadania na koszt urzędu administracji publicznej lub innego podmiotu wykonującemu zadania publicznej, od których przejął te zadania do wykonywania.
 
-4. Przepisy ust. 1–3 nie mają zastosowania do urzędów naczelnych i centralnych organów władzy publicznej. Art. 15zzz. W przypadku przemijającej przeszkody w wykonywaniu zadań i kompetencji wójta, burmistrza, prezydenta miasta, w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, spowodowanej niezdolnością do pracy z powodu choroby trwającej do 30 dni, jego zadania i kompetencje, w okresie tej niezdolności do pracy, przejmuje zastępca, a w gminach, w których powołano więcej niż jednego zastępcę – pierwszy zastępca. Art. 15zzz 1 . 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, pracownika samorządowego, o którym mowa w ustawie z dnia 21 listopada 2008 r. o pracownikach samorządowych można tymczasowo przenieść, za jego zgodą, do wykonywania innej pracy, niż określona w umowie o pracę, zgodnej z jego kwalifikacjami, w jednostce organizacyjnej pomocy społecznej, o której mowa w art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w tej samej lub innej miejscowości, jeżeli nie narusza to ważnego interesu jednostki, która dotychczas zatrudniała pracownika samorządowego, oraz przemawiają za tym ważne potrzeby po stronie jednostki przejmującej.
+4. Przepisy ust. 1–3 nie mają zastosowania do urzędów naczelnych i centralnych organów władzy publicznej.
+
+**Art. 15zzz.** W przypadku przemijającej przeszkody w wykonywaniu zadań i kompetencji wójta, burmistrza, prezydenta miasta, w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, spowodowanej niezdolnością do pracy z powodu choroby trwającej do 30 dni, jego zadania i kompetencje, w okresie tej niezdolności do pracy, przejmuje zastępca, a w gminach, w których powołano więcej niż jednego zastępcę – pierwszy zastępca.
+
+**Art. 15zzz¹.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, pracownika samorządowego, o którym mowa w ustawie z dnia 21 listopada 2008 r. o pracownikach samorządowych można tymczasowo przenieść, za jego zgodą, do wykonywania innej pracy, niż określona w umowie o pracę, zgodnej z jego kwalifikacjami, w jednostce organizacyjnej pomocy społecznej, o której mowa w art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w tej samej lub innej miejscowości, jeżeli nie narusza to ważnego interesu jednostki, która dotychczas zatrudniała pracownika samorządowego, oraz przemawiają za tym ważne potrzeby po stronie jednostki przejmującej.
 
 2. Okres wykonywania pracy, o której mowa w ust. 1, nie może być dłuższy niż do 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii.
 
@@ -3488,6 +4046,8 @@ Art. 16–30. (pominięte)
 
 #### Rozdział 3 Zmiany w przepisach
 
+**Art. 16–30.** (pominięte)
+
 #### Rozdział 4 Przepisy przejściowe i końcowe
 
 **Art. 31.** (utracił moc)
@@ -3551,7 +4111,11 @@ Art. 16–30. (pominięte)
 
 2. Zmiana, o której mowa w ust. 1, dokonywana jest na warunkach uzgodnionych przez bank i kredytobiorcę, przy czym nie może ona powodować pogorszenia sytuacji finansowej i gospodarczej kredytobiorcy.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do umowy pożyczki pieniężnej udzielonej przez bank. Art. 31fa. 1. Na wniosek kredytobiorcy, kredytodawca zawiesza wykonanie:
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do umowy pożyczki pieniężnej udzielonej przez bank.
+
+**Art. 31fa.**
+
+1. Na wniosek kredytobiorcy, kredytodawca zawiesza wykonanie:
 
 - **1)** umowy o kredyt konsumencki w rozumieniu ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim, albo
 - **2)** (uchylony)
@@ -3585,7 +4149,13 @@ Art. 16–30. (pominięte)
 
 12. Zawieszenia wykonania umowy, o której mowa w ust. 1 pkt 3, nie stosuje się do kredytu studenckiego, o którym mowa w art. 98 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478, 619 i
 
-- **1630)** . Art. 31fb. Przepis art. 31fa ma zastosowanie do umów, o których mowa w art. 31fa ust. 1, zawartych przed dniem 13 marca 2020 r., jeżeli termin zakończenia okresu kredytowania określony w tych umowach przypada po upływie 6 miesięcy od tej daty. Art. 31fc. 1. Jeżeli kredytodawca na wniosek kredytobiorcy zawiesił w całości lub w części spłatę jednej z umów, o których mowa w art. 31fa ust. 1, na warunkach innych niż określone w art. 31fa, termin tego zawieszenia ulega skróceniu z mocy prawa z dniem doręczenia kredytodawcy wniosku o zawieszenie wykonania umowy, o którym mowa w art. 31fa ust. 7.
+- **1630)** .
+
+**Art. 31fb.** Przepis art. 31fa ma zastosowanie do umów, o których mowa w art. 31fa ust. 1, zawartych przed dniem 13 marca 2020 r., jeżeli termin zakończenia okresu kredytowania określony w tych umowach przypada po upływie 6 miesięcy od tej daty.
+
+**Art. 31fc.**
+
+1. Jeżeli kredytodawca na wniosek kredytobiorcy zawiesił w całości lub w części spłatę jednej z umów, o których mowa w art. 31fa ust. 1, na warunkach innych niż określone w art. 31fa, termin tego zawieszenia ulega skróceniu z mocy prawa z dniem doręczenia kredytodawcy wniosku o zawieszenie wykonania umowy, o którym mowa w art. 31fa ust. 7.
 
 2. W przypadku określonym w ust. 1, kredytodawca w potwierdzeniu, o którym mowa w art. 31fa ust. 9, wskazuje kredytobiorcy również sposób rozliczenia z tytułu zawieszenia spłaty umowy, które uległo skróceniu.
 
@@ -3609,7 +4179,10 @@ Art. 16–30. (pominięte)
 2. Przepisy ust. 1 stosuje się:
 
 - **1)** do pojazdu, niebędącego nowym pojazdem, sprowadzonego z terytorium państwa członkowskiego Unii Europejskiej nie później niż 30 dni przed dniem wejścia w życie ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw;
-- **2)** do pojazdu zarejestrowanego nabytego lub zbytego nie później niż 30 dni przed dniem wejścia w życie ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw. Art. 31ia. W okresie od dnia ogłoszenia ustawy z dnia 24 czerwca 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw do dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19:
+- **2)** do pojazdu zarejestrowanego nabytego lub zbytego nie później niż 30 dni przed dniem wejścia w życie ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw.
+
+**Art. 31ia.** W okresie od dnia ogłoszenia ustawy z dnia 24 czerwca 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw do dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19:
+
 - **1)** wydłuża się do 60 dni terminy określone w art. 71 ust. 7 i art. 78 ust. 2 pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
 - **2)** art. 140mb ustawy, o której mowa w pkt 1, stosuje się z uwzględnieniem terminu określonego w pkt 1.
 
@@ -3655,7 +4228,9 @@ Art. 16–30. (pominięte)
 
 3. Podziału rezerwy celowej na zadania, o których mowa w ust. 1, gdy zadania te nie są zgodne z przeznaczeniem rezerwy, dokonuje Minister Finansów na wniosek właściwego dysponenta realizującego zadanie, o którym mowa w ust. 1, za zgodą Prezesa Rady Ministrów.
 
-**Art. 31p.** W 2020 r. samorządowy zakład budżetowy, który realizuje zadania związane z przeciwdziałaniem COVID-19, może otrzymać dotacje z budżetu jednostki samorządu terytorialnego przekraczające 50 % kosztów jego działalności. Art. 31pa. W 2021 r. samorządowy zakład budżetowy, który realizuje zadania związane z przeciwdziałaniem COVID-19, może otrzymać dotacje z budżetu jednostki samorządu terytorialnego przekraczające 50 % kosztów jego działalności.
+**Art. 31p.** W 2020 r. samorządowy zakład budżetowy, który realizuje zadania związane z przeciwdziałaniem COVID-19, może otrzymać dotacje z budżetu jednostki samorządu terytorialnego przekraczające 50 % kosztów jego działalności.
+
+**Art. 31pa.** W 2021 r. samorządowy zakład budżetowy, który realizuje zadania związane z przeciwdziałaniem COVID-19, może otrzymać dotacje z budżetu jednostki samorządu terytorialnego przekraczające 50 % kosztów jego działalności.
 
 **Art. 31q.**
 
@@ -3681,7 +4256,11 @@ Art. 16–30. (pominięte)
 
 8. Minister właściwy do spraw pracy może uruchomić dodatkowe środki Funduszu Pracy z przeznaczeniem na finansowanie programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej, po zasileniu na ten cel Funduszu Pracy środkami Funduszu Przeciwdziałania COVID-19.
 
-9. Środki Funduszu Pracy przekazane samorządom powiatów na finansowanie zadań oraz kosztów obsługi, o których mowa w ust. 1, a także dodatkowe środki Funduszu Pracy z przeznaczeniem na finansowanie programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej, o których mowa w ust. 8, niewykorzystane do dnia 31 grudnia 2020 r., pozostają na wyodrębnionych rachunkach bankowych samorządów powiatów z przeznaczeniem na finansowanie w roku 2021 zadań oraz kosztów obsługi, o których mowa w art. 31qa ust. 1. Art. 31qa. 1. Zadania, o których mowa w art. 15zzb–15zze oraz art. 15zze , oraz koszty ich obsługi są finansowane od dnia 1 stycznia 2021 r. do dnia 30 czerwca 2021 r. ze środków Funduszu Pracy zasilonego środkami Funduszu Przeciwdziałania COVID-19 lub środkami budżetu państwa, po dokonaniu odpowiednich zmian w planie finansowym Funduszu Pracy.
+9. Środki Funduszu Pracy przekazane samorządom powiatów na finansowanie zadań oraz kosztów obsługi, o których mowa w ust. 1, a także dodatkowe środki Funduszu Pracy z przeznaczeniem na finansowanie programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej, o których mowa w ust. 8, niewykorzystane do dnia 31 grudnia 2020 r., pozostają na wyodrębnionych rachunkach bankowych samorządów powiatów z przeznaczeniem na finansowanie w roku 2021 zadań oraz kosztów obsługi, o których mowa w art. 31qa ust. 1.
+
+**Art. 31qa.**
+
+1. Zadania, o których mowa w art. 15zzb–15zze oraz art. 15zze , oraz koszty ich obsługi są finansowane od dnia 1 stycznia 2021 r. do dnia 30 czerwca 2021 r. ze środków Funduszu Pracy zasilonego środkami Funduszu Przeciwdziałania COVID-19 lub środkami budżetu państwa, po dokonaniu odpowiednich zmian w planie finansowym Funduszu Pracy.
 
 2. Zadania, o których mowa w art. 15zzb, art. 15zzc i art. 15zze, mogą być finansowane ze środków Funduszu Pracy na realizację projektów współfinansowanych z Europejskiego Funduszu Społecznego, o których mowa w art. 2 ust. 1 pkt 26a ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
 
@@ -3716,7 +4295,10 @@ Art. 16–30. (pominięte)
 **Art. 31r.** Do dnia 30 września 2020 r.:
 
 - **1)** do podmiotów prowadzących pośrednictwo przy przewozie osób, które uzyskały licencję, o której mowa w art. 5b ust. 2 pkt 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym, nie stosuje się art. 5d i art. 5e, art. 15 ust. 1 pkt 5 oraz art. 27b;
-- **2)** nie stosuje się art. 27c ustawy z dnia 6 września 2001 r. o transporcie drogowym. Art. 31ra. Do dnia 31 grudnia 2020 r.:
+- **2)** nie stosuje się art. 27c ustawy z dnia 6 września 2001 r. o transporcie drogowym.
+
+**Art. 31ra.** Do dnia 31 grudnia 2020 r.:
+
 - **1)** do podmiotów prowadzących pośrednictwo przy przewozie osób, które uzyskały licencję, o której mowa w art. 5b ust. 2 pkt 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym, nie stosuje się art. 5d i art. 5e, art. 15 ust. 1 pkt 5 oraz art. 27b tej ustawy;
 - **2)** nie stosuje się art. 27c ustawy z dnia 6 września 2001 r. o transporcie drogowym.
 
@@ -3786,7 +4368,11 @@ Art. 16–30. (pominięte)
 
 2. Czynności dokonane przez Szefa Krajowej Administracji Skarbowej, promotorów, korzystających i wspomagających w okresie, o którym mowa w ust. 1, są skuteczne.
 
-3. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, przedłużać terminy związane z przekazywaniem informacji o schematach podatkowych w rozumieniu art. 86a § 1 pkt 10 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa lub wymianą informacji podatkowych z innymi państwami, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego i stanu epidemii w związku z COVID-19 oraz skutki nimi wywołane lub treść ustaleń w tym zakresie podjętych przez Unię Europejską, Organizację Współpracy Gospodarczej i Rozwoju lub państwa uczestniczące w wymianie tych informacji. Art. 31ya. 1. W przypadku certyfikatu rezydencji niezawierającego okresu jego ważności, w odniesieniu do którego okres kolejnych dwunastu miesięcy określony w art. 41 ust. 9a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i w art. 26 ust. 1i ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych upływa w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonego w związku z COVID-19, płatnik przy poborze podatku uwzględnia ten certyfikat przez okres obowiązywania tych stanów oraz przez okres 2 miesięcy po ich odwołaniu.
+3. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, przedłużać terminy związane z przekazywaniem informacji o schematach podatkowych w rozumieniu art. 86a § 1 pkt 10 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa lub wymianą informacji podatkowych z innymi państwami, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego i stanu epidemii w związku z COVID-19 oraz skutki nimi wywołane lub treść ustaleń w tym zakresie podjętych przez Unię Europejską, Organizację Współpracy Gospodarczej i Rozwoju lub państwa uczestniczące w wymianie tych informacji.
+
+**Art. 31ya.**
+
+1. W przypadku certyfikatu rezydencji niezawierającego okresu jego ważności, w odniesieniu do którego okres kolejnych dwunastu miesięcy określony w art. 41 ust. 9a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i w art. 26 ust. 1i ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych upływa w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonego w związku z COVID-19, płatnik przy poborze podatku uwzględnia ten certyfikat przez okres obowiązywania tych stanów oraz przez okres 2 miesięcy po ich odwołaniu.
 
 2. W czasie obowiązywania stanu zagrożenia epidemicznego i stanu epidemii ogłoszonego w związku z COVID-19, a także w okresie kolejnych 2 miesięcy po ich odwołaniu, miejsce zamieszkania i siedziby podatnika dla celów podatkowych może być potwierdzone kopią certyfikatu rezydencji, jeżeli informacje wynikające z przedłożonej kopii certyfikatu rezydencji nie budzą uzasadnionych wątpliwości co do zgodności ze stanem faktycznym.
 
@@ -3839,31 +4425,89 @@ Art. 16–30. (pominięte)
 - **2)** osoba upoważniona przez przedsiębiorcę zagranicznego do reprezentowania go w oddziale – w przypadku podmiotu powiązanego będącego przedsiębiorcą zagranicznym posiadającym oddział na terytorium Rzeczypospolitej Polskiej,
 - **3)** osoba uprawniona do reprezentacji – w przypadku pozostałych podmiotów powiązanych – przy czym nie jest dopuszczalne złożenie oświadczenia przez pełnomocnika.
 
-2. W przypadku, o którym mowa w ust. 1, przepisów art. 23y ust. 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 11m ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych nie stosuje się. Art. 31za. 1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii bieg terminów do podjęcia przez Komisję Nadzoru Finansowego czynności, w tym czynności nadzorczych, terminów załatwiania spraw oraz terminów przewidzianych do wydania decyzji lub postanowienia kończącego postępowanie w sprawie albo wniesienia sprzeciwu nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii, chyba że Komisja Nadzoru Finansowego wyda decyzję załatwiającą sprawę, dokona czynności, wyda decyzję lub postanowienie kończące postępowanie w sprawie albo wniesie sprzeciw.
+2. W przypadku, o którym mowa w ust. 1, przepisów art. 23y ust. 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 11m ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych nie stosuje się.
 
-2. W sprawach z zakresu właściwości Komisji Nadzoru Finansowego bieg terminu przedawnienia, o którym mowa w art. 189g § 1 i 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie rozpoczyna się a rozpoczęty ulega zawieszeniu do dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii. Art. 31zaa. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii bieg terminu na wniesienie projektu ustawy wraz z załączonym wykazem podpisów obywateli popierających projekt ustawy, o którym mowa w art. 10 ust. 2 ustawy z dnia 24 czerwca 1999 r. o wykonywaniu inicjatywy ustawodawczej przez obywateli (Dz. U. z 2018 r. poz. 2120), nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii. Art. 31zb. (uchylony) Art. 31zc. 1. Po upływie terminu, o którym mowa w art. 36 ust. 3a, kredytodawca, o którym mowa w art. 8d–8f, może za pozostały okres obowiązywania umowy, pobierać pozaodsetkowe koszty kredytu w wysokości określonej przepisami ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim.
+**Art. 31za.**
 
-2. Okres, o którym mowa w ust. 1, nie jest uwzględniany przy obliczaniu maksymalnych pozaodsetkowych kosztów kredytu określonych w ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim. Art. 31zd. Jeżeli termin wydania decyzji lub wypłaty świadczeń przez Zakład Ubezpieczeń Społecznych przypada w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo w okresie 30 dni następujących po ich odwołaniu, w razie przekroczenia tego terminu Zakład nie jest zobowiązany do wypłaty odsetek ustawowych za opóźnienie określonych przepisami prawa cywilnego. Art. 31zda. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w okresie 30 dni po ich odwołaniu decyzje oraz pisma w sprawach świadczeń przyznawanych lub wypłacanych przez Zakład Ubezpieczeń Społecznych mogą zamiast podpisu zawierać nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania. Art. 31zdb. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w okresie 30 dni następujących po ich odwołaniu termin wyznaczony przez organ egzekucyjny dłużnikowi zajętej wierzytelności będącemu organem rentowym lub organem emerytalnym lub organem emerytalno-rentowym, na podstawie:
+1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii bieg terminów do podjęcia przez Komisję Nadzoru Finansowego czynności, w tym czynności nadzorczych, terminów załatwiania spraw oraz terminów przewidzianych do wydania decyzji lub postanowienia kończącego postępowanie w sprawie albo wniesienia sprzeciwu nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii, chyba że Komisja Nadzoru Finansowego wyda decyzję załatwiającą sprawę, dokona czynności, wyda decyzję lub postanowienie kończące postępowanie w sprawie albo wniesie sprzeciw.
+
+2. W sprawach z zakresu właściwości Komisji Nadzoru Finansowego bieg terminu przedawnienia, o którym mowa w art. 189g § 1 i 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie rozpoczyna się a rozpoczęty ulega zawieszeniu do dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
+
+**Art. 31zaa.** W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii bieg terminu na wniesienie projektu ustawy wraz z załączonym wykazem podpisów obywateli popierających projekt ustawy, o którym mowa w art. 10 ust. 2 ustawy z dnia 24 czerwca 1999 r. o wykonywaniu inicjatywy ustawodawczej przez obywateli (Dz. U. z 2018 r. poz. 2120), nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
+
+**Art. 31zb.** (uchylony)
+
+**Art. 31zc.**
+
+1. Po upływie terminu, o którym mowa w art. 36 ust. 3a, kredytodawca, o którym mowa w art. 8d–8f, może za pozostały okres obowiązywania umowy, pobierać pozaodsetkowe koszty kredytu w wysokości określonej przepisami ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim.
+
+2. Okres, o którym mowa w ust. 1, nie jest uwzględniany przy obliczaniu maksymalnych pozaodsetkowych kosztów kredytu określonych w ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim.
+
+**Art. 31zd.** Jeżeli termin wydania decyzji lub wypłaty świadczeń przez Zakład Ubezpieczeń Społecznych przypada w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo w okresie 30 dni następujących po ich odwołaniu, w razie przekroczenia tego terminu Zakład nie jest zobowiązany do wypłaty odsetek ustawowych za opóźnienie określonych przepisami prawa cywilnego.
+
+**Art. 31zda.** W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w okresie 30 dni po ich odwołaniu decyzje oraz pisma w sprawach świadczeń przyznawanych lub wypłacanych przez Zakład Ubezpieczeń Społecznych mogą zamiast podpisu zawierać nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania.
+
+**Art. 31zdb.** W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w okresie 30 dni następujących po ich odwołaniu termin wyznaczony przez organ egzekucyjny dłużnikowi zajętej wierzytelności będącemu organem rentowym lub organem emerytalnym lub organem emerytalno-rentowym, na podstawie:
 
 - **1)** art. 896 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, 1429, 1606, 1615 i 1667) – wynosi trzy tygodnie;
-- **2)** art. 79 § 4 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505) – wynosi 21 dni. Art. 31ze. 1. Przepisu art. 39a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych w roku 2020 nie stosuje się.
+- **2)** art. 79 § 4 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505) – wynosi 21 dni.
 
-2. Oświadczenia, o których mowa w art. 39a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, złożone od dnia 1 kwietnia 2020 r. nie wywołują skutków prawnych. Art. 31zf. Rocznego sprawozdania z działalności sądów działających na obszarze apelacji i informacji rocznej o działalności sądów działających na obszarze apelacji, o których mowa w art. 31a § 2 i art. 37h § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, za 2019 r. nie sporządza się. Art. 31zf 1 . W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonych w związku z COVID-19 aplikanci aplikacji sędziowskiej oraz aplikanci aplikacji prokuratorskiej mogą odbywać praktyki przewidziane programem aplikacji przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, na zasadach określonych przez Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury. Praktyki są prowadzone przez wykładowców Krajowej Szkoły Sądownictwa i Prokuratury. Art. 31zg. Aplikant aplikacji sędziowskiej, który zdał egzamin sędziowski w 2019 r. i dokonał wyboru wolnego stanowiska asesora sądowego, zachowuje prawo do pobierania przysługującego mu stypendium do dnia poprzedzającego dzień nawiązania stosunku służbowego na stanowisku asesora sądowego, jednak nie dłużej niż przez okres 7 miesięcy od dnia ukończenia aplikacji. Wypłaty stypendium należnego za miesiące poprzedzające dzień wejścia w życie ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw dokonuje się w terminie 3 dni od dnia wejścia w życie tej ustawy. Art. 31zh. 1. W przypadku gdy konkurs przeprowadzany w ramach naboru na aplikację uzupełniającą sędziowską, którego termin przeprowadzenia został wyznaczony na dzień 2 kwietnia 2020 r., nie zostanie przeprowadzony w tym terminie z powodu COVID-19, nowy termin przeprowadzenia tego konkursu może zostać ogłoszony z wyprzedzeniem co najmniej miesiąca. Dokonując oceny spełnienia warunków, o których mowa w art. 37b ust. 1 pkt 1–3 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2020 r. poz. 1366), za dzień przeprowadzenia konkursu, o którym mowa w tych przepisach, przyjmuje się dzień 2 kwietnia 2020 r.
+**Art. 31ze.**
 
-2. Nieprzeprowadzenie konkursu, o którym mowa w ust. 1, do dnia 15 lipca 2020 r., jest równoznaczne z nieprzeprowadzeniem naboru na aplikację uzupełniającą sędziowską w 2020 r. W takim przypadku kandydatowi, który zgłosił się do konkursu, na jego wniosek Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury zwraca uiszczoną opłatę za udział w konkursie. Art. 31zha. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w ciągu roku od odwołania ostatniego z nich, jeżeli przemawia za tym dobro wymiaru sprawiedliwości, oceny kwalifikacji asesora sądowego, o której mowa w art. 106xa ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, może dokonać sędzia wizytator albo sędziowie wizytatorzy wyznaczeni, na wniosek prezesa właściwego sądu apelacyjnego, przez prezesa innego sądu apelacyjnego w drodze losowania spośród sędziów z obszaru danej apelacji, o których mowa w art. 37c § 3 tej ustawy.
+1. Przepisu art. 39a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych w roku 2020 nie stosuje się.
+
+2. Oświadczenia, o których mowa w art. 39a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, złożone od dnia 1 kwietnia 2020 r. nie wywołują skutków prawnych.
+
+**Art. 31zf.** Rocznego sprawozdania z działalności sądów działających na obszarze apelacji i informacji rocznej o działalności sądów działających na obszarze apelacji, o których mowa w art. 31a § 2 i art. 37h § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, za 2019 r. nie sporządza się.
+
+**Art. 31zf¹.** W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonych w związku z COVID-19 aplikanci aplikacji sędziowskiej oraz aplikanci aplikacji prokuratorskiej mogą odbywać praktyki przewidziane programem aplikacji przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, na zasadach określonych przez Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury. Praktyki są prowadzone przez wykładowców Krajowej Szkoły Sądownictwa i Prokuratury.
+
+**Art. 31zg.** Aplikant aplikacji sędziowskiej, który zdał egzamin sędziowski w 2019 r. i dokonał wyboru wolnego stanowiska asesora sądowego, zachowuje prawo do pobierania przysługującego mu stypendium do dnia poprzedzającego dzień nawiązania stosunku służbowego na stanowisku asesora sądowego, jednak nie dłużej niż przez okres 7 miesięcy od dnia ukończenia aplikacji. Wypłaty stypendium należnego za miesiące poprzedzające dzień wejścia w życie ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw dokonuje się w terminie 3 dni od dnia wejścia w życie tej ustawy.
+
+**Art. 31zh.**
+
+1. W przypadku gdy konkurs przeprowadzany w ramach naboru na aplikację uzupełniającą sędziowską, którego termin przeprowadzenia został wyznaczony na dzień 2 kwietnia 2020 r., nie zostanie przeprowadzony w tym terminie z powodu COVID-19, nowy termin przeprowadzenia tego konkursu może zostać ogłoszony z wyprzedzeniem co najmniej miesiąca. Dokonując oceny spełnienia warunków, o których mowa w art. 37b ust. 1 pkt 1–3 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2020 r. poz. 1366), za dzień przeprowadzenia konkursu, o którym mowa w tych przepisach, przyjmuje się dzień 2 kwietnia 2020 r.
+
+2. Nieprzeprowadzenie konkursu, o którym mowa w ust. 1, do dnia 15 lipca 2020 r., jest równoznaczne z nieprzeprowadzeniem naboru na aplikację uzupełniającą sędziowską w 2020 r. W takim przypadku kandydatowi, który zgłosił się do konkursu, na jego wniosek Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury zwraca uiszczoną opłatę za udział w konkursie.
+
+**Art. 31zha.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w ciągu roku od odwołania ostatniego z nich, jeżeli przemawia za tym dobro wymiaru sprawiedliwości, oceny kwalifikacji asesora sądowego, o której mowa w art. 106xa ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, może dokonać sędzia wizytator albo sędziowie wizytatorzy wyznaczeni, na wniosek prezesa właściwego sądu apelacyjnego, przez prezesa innego sądu apelacyjnego w drodze losowania spośród sędziów z obszaru danej apelacji, o których mowa w art. 37c § 3 tej ustawy.
 
 2. Prezes właściwego sądu apelacyjnego, występując w okresie, o którym mowa w ust. 1, do prezesa innego sądu apelacyjnego z wnioskiem o wyznaczenie sędziego wizytatora albo sędziów wizytatorów, wskazuje wydział albo wydziały, w których asesor sądowy pełni obowiązki sędziego, oraz przyczyny braku możliwości sporządzenia oceny kwalifikacji asesora sądowego przez sędziego wizytatora albo sędziów wizytatorów apelacji, na obszarze której siedzibę ma sąd, w którym asesor sądowy pełni służbę.
 
 3. Prezes sądu apelacyjnego w okresie, o którym mowa w ust. 1, może odmówić wyznaczenia sędziego wizytatora albo sędziów wizytatorów do sporządzenia oceny kwalifikacji asesora sądowego wyłącznie w sytuacji, w której uwzględnienie wniosku spowodowałoby niedające się pogodzić z dobrem wymiaru sprawiedliwości opóźnienie w ocenie kwalifikacji asesorów sądowych pełniących służbę w sądach mających siedzibę na obszarze właściwości kierowanej przez niego apelacji albo zachodzi niedająca się usunąć przeszkoda uniemożliwiająca wyznaczenie.
 
-4. Prezes sądu apelacyjnego w okresie, o którym mowa w ust. 1, wyznacza lub odmawia wyznaczenia sędziego wizytatora albo sędziów wizytatorów w terminie 7 dni od dnia wystąpienia z wnioskiem o wyznaczenie sędziego wizytatora albo sędziów wizytatorów. Art. 31zi. W 2020 r. pracownikowi, który złożył w terminie wniosek o dopuszczenie do egzaminu adwokackiego albo radcowskiego, wyznaczonych na dni 24–27 marca 2020 r., oraz spełnił przesłanki udziału w danym egzaminie, przysługuje prawo do dodatkowego urlopu bezpłatnego, w wymiarze 7 dni kalendarzowych, na przygotowanie się do egzaminu adwokackiego albo radcowskiego wyznaczonych w terminie dodatkowym. Art. 31zi 1 . W 2020 r. pracownikowi, który złożył wniosek o dopuszczenie do egzaminu adwokackiego albo radcowskiego, wyznaczonych na dni 24–27 marca 2020 r., oraz spełnił przesłanki udziału w danym egzaminie i wykorzystał urlop na przygotowanie do danego egzaminu w niepełnym wymiarze 30 dni kalendarzowych, przysługuje prawo do wykorzystania pozostałej, niewykorzystanej dotychczas części urlopu płatnego w wysokości 80 % wynagrodzenia na przygotowanie się do egzaminu adwokackiego albo radcowskiego wyznaczonych w terminie dodatkowym. Art. 31zi 2 . Kandydatowi, który złożył wniosek o dopuszczenie do egzaminu adwokackiego albo radcowskiego, wyznaczonych na dni 24–27 marca 2020 r., oraz spełnił przesłanki udziału w danym egzaminie, przysługuje prawo do zwrotu uiszczonej opłaty w pełnej wysokości, w przypadku złożenia przewodniczącemu komisji egzaminacyjnej nie później niż 14 dni od dnia ogłoszenia o dodatkowym egzaminie pisemnego oświadczenia o odstąpieniu od udziału w danym egzaminie wraz z wnioskiem o zwrot opłaty. Opłata podlega zwrotowi w terminie 30 dni od dnia złożenia oświadczenia. Art. 31zj. 1. W przypadku dokonywania przez podmiot podlegający kontroli celno-skarbowej czynności w zakresie produkcji, przemieszczania i zużycia wyrobów akcyzowych, w szczególności ich wytwarzania, uszlachetniania, przerabiania, skażania, rozlewu, przyjmowania, magazynowania, wydawania, przewozu i niszczenia, oraz w zakresie stosowania i oznaczania tych wyrobów znakami akcyzy w okresie od dnia 1 kwietnia 2020 r. do dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego w związku z COVID-19, naczelnik urzędu celno-skarbowego na podstawie analizy ryzyka, może odstąpić od:
+4. Prezes sądu apelacyjnego w okresie, o którym mowa w ust. 1, wyznacza lub odmawia wyznaczenia sędziego wizytatora albo sędziów wizytatorów w terminie 7 dni od dnia wystąpienia z wnioskiem o wyznaczenie sędziego wizytatora albo sędziów wizytatorów.
+
+**Art. 31zi.** W 2020 r. pracownikowi, który złożył w terminie wniosek o dopuszczenie do egzaminu adwokackiego albo radcowskiego, wyznaczonych na dni 24–27 marca 2020 r., oraz spełnił przesłanki udziału w danym egzaminie, przysługuje prawo do dodatkowego urlopu bezpłatnego, w wymiarze 7 dni kalendarzowych, na przygotowanie się do egzaminu adwokackiego albo radcowskiego wyznaczonych w terminie dodatkowym.
+
+**Art. 31zi¹.** W 2020 r. pracownikowi, który złożył wniosek o dopuszczenie do egzaminu adwokackiego albo radcowskiego, wyznaczonych na dni 24–27 marca 2020 r., oraz spełnił przesłanki udziału w danym egzaminie i wykorzystał urlop na przygotowanie do danego egzaminu w niepełnym wymiarze 30 dni kalendarzowych, przysługuje prawo do wykorzystania pozostałej, niewykorzystanej dotychczas części urlopu płatnego w wysokości 80 % wynagrodzenia na przygotowanie się do egzaminu adwokackiego albo radcowskiego wyznaczonych w terminie dodatkowym.
+
+**Art. 31zi².** Kandydatowi, który złożył wniosek o dopuszczenie do egzaminu adwokackiego albo radcowskiego, wyznaczonych na dni 24–27 marca 2020 r., oraz spełnił przesłanki udziału w danym egzaminie, przysługuje prawo do zwrotu uiszczonej opłaty w pełnej wysokości, w przypadku złożenia przewodniczącemu komisji egzaminacyjnej nie później niż 14 dni od dnia ogłoszenia o dodatkowym egzaminie pisemnego oświadczenia o odstąpieniu od udziału w danym egzaminie wraz z wnioskiem o zwrot opłaty. Opłata podlega zwrotowi w terminie 30 dni od dnia złożenia oświadczenia.
+
+**Art. 31zj.**
+
+1. W przypadku dokonywania przez podmiot podlegający kontroli celno-skarbowej czynności w zakresie produkcji, przemieszczania i zużycia wyrobów akcyzowych, w szczególności ich wytwarzania, uszlachetniania, przerabiania, skażania, rozlewu, przyjmowania, magazynowania, wydawania, przewozu i niszczenia, oraz w zakresie stosowania i oznaczania tych wyrobów znakami akcyzy w okresie od dnia 1 kwietnia 2020 r. do dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego w związku z COVID-19, naczelnik urzędu celno-skarbowego na podstawie analizy ryzyka, może odstąpić od:
 
 - **1)** obecności kontrolującego przy przeprowadzeniu czynności podlegającej kontroli celno-skarbowej;
 - **2)** dokonania czynności określonej w przepisach wydanych na podstawie art. 90 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej przez tego kontrolującego.
 
 2. Naczelnik urzędu celno-skarbowego powiadamia podmiot, o którym mowa w ust. 1, o odstąpieniu od obecności kontrolującego przy przeprowadzeniu czynności podlegającej kontroli celno-skarbowej lub od dokonania czynności przez kontrolującego.
 
-3. Podmiot, o którym mowa w ust. 1, przekazuje niezwłocznie naczelnikowi urzędu celno-skarbowego informację o przebiegu przeprowadzonych czynności, o których mowa w ust. 1. Art. 31zk. (uchylony) Art. 31zl. (uchylony) Art. 31zm. Świadczenia opieki zdrowotnej, w tym transportu sanitarnego, udzielone przez podmioty wykonujące działalność leczniczą w związku z przeciwdziałaniem COVID-19 przed dniem wejścia w życie ustawy, są finansowane na zasadach określonych w art. 9 ustawy. W przypadkach tych nie jest wymagane wpisanie podmiotu wykonującego działalność leczniczą do wykazu, o którym mowa w art. 7 ustawy. Art. 31zn. W przypadku, gdy z przepisów odrębnych wynika konieczność wykorzystania danych pochodzących ze zbadanych sprawozdań finansowych za rok 2019, do czasu ich udostępnienia uwzględnia się dane z ostatniego dostępnego zbadanego rocznego sprawozdania finansowego danego podmiotu, a w razie gdy podmiot nie był w okresie wcześniejszym zobowiązany do sporządzenia rocznego sprawozdania finansowego, inne dostępne dane sprawozdawcze za 2019 rok. Przepis zdania pierwszego stosuje się odpowiednio do zbadanych sprawozdań finansowych za rok obrotowy niebędący rokiem kalendarzowym, zakończony w 2019 r., które nie zostały sporządzone i zatwierdzone przed dniem wejścia w życie niniejszej ustawy. Art. 31zo. 1. Na wniosek płatnika składek zwalnia się z obowiązku opłacania nieopłaconych należności z tytułu składek na ubezpieczenia społeczne, na ubezpieczenie zdrowotne, na Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych lub Fundusz Emerytur Pomostowych, należne za okres od dnia 1 marca 2020 r. do dnia 31 maja 2020 r., wykazanych w deklaracjach rozliczeniowych złożonych za ten okres, jeżeli był zgłoszony jako płatnik składek:
+3. Podmiot, o którym mowa w ust. 1, przekazuje niezwłocznie naczelnikowi urzędu celno-skarbowego informację o przebiegu przeprowadzonych czynności, o których mowa w ust. 1.
+
+**Art. 31zk.** (uchylony)
+
+**Art. 31zl.** (uchylony)
+
+**Art. 31zm.** Świadczenia opieki zdrowotnej, w tym transportu sanitarnego, udzielone przez podmioty wykonujące działalność leczniczą w związku z przeciwdziałaniem COVID-19 przed dniem wejścia w życie ustawy, są finansowane na zasadach określonych w art. 9 ustawy. W przypadkach tych nie jest wymagane wpisanie podmiotu wykonującego działalność leczniczą do wykazu, o którym mowa w art. 7 ustawy.
+
+**Art. 31zn.** W przypadku, gdy z przepisów odrębnych wynika konieczność wykorzystania danych pochodzących ze zbadanych sprawozdań finansowych za rok 2019, do czasu ich udostępnienia uwzględnia się dane z ostatniego dostępnego zbadanego rocznego sprawozdania finansowego danego podmiotu, a w razie gdy podmiot nie był w okresie wcześniejszym zobowiązany do sporządzenia rocznego sprawozdania finansowego, inne dostępne dane sprawozdawcze za 2019 rok. Przepis zdania pierwszego stosuje się odpowiednio do zbadanych sprawozdań finansowych za rok obrotowy niebędący rokiem kalendarzowym, zakończony w 2019 r., które nie zostały sporządzone i zatwierdzone przed dniem wejścia w życie niniejszej ustawy.
+
+**Art. 31zo.**
+
+1. Na wniosek płatnika składek zwalnia się z obowiązku opłacania nieopłaconych należności z tytułu składek na ubezpieczenia społeczne, na ubezpieczenie zdrowotne, na Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych lub Fundusz Emerytur Pomostowych, należne za okres od dnia 1 marca 2020 r. do dnia 31 maja 2020 r., wykazanych w deklaracjach rozliczeniowych złożonych za ten okres, jeżeli był zgłoszony jako płatnik składek:
 
 - **1)** przed dniem 1 lutego 2020 r. i na dzień 29 lutego 2020 r.,
 - **2)** w okresie od dnia 1 lutego 2020 r. do dnia 29 lutego 2020 r. i na dzień 31 marca 2020 r.,
@@ -3921,7 +4565,11 @@ Art. 16–30. (pominięte)
 
 11. Oceny spełnienia warunku, o którym mowa w ust. 10 i 12, w zakresie oznaczenia prowadzonej działalności według Polskiej Klasyfikacji Działalności (PKD) 2007 dokonuje się na podstawie danych zawartych w rejestrze REGON w brzmieniu na dzień 30 września 2020 r.
 
-12. Na wniosek płatnika składek prowadzącego, na dzień 30 września 2020 r., działalność polegającą na sprzedaży środków spożywczych, papierniczych i piśmienniczych na rzecz uczniów, słuchaczy lub wychowanków na terenie jednostek systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.11.Z albo 47.19.Z, zwalnia się z obowiązku opłacania należnych składek na ubezpieczenia społeczne, na ubezpieczenie zdrowotne, na Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych lub Fundusz Emerytur Pomostowych, za okres od dnia 1 listopada 2020 r. do dnia 31 marca 2021 r., wykazanych w deklaracjach rozliczeniowych złożonych za dany miesiąc, jeżeli był zgłoszony jako płatnik składek do dnia 30 września 2020 r. i przychód z działalności w rozumieniu przepisów prawa podatkowego był niższy co najmniej o 40 % w listopadzie 2020 r., grudniu 2020 r., styczniu 2021 r., lutym 2021 r. lub w marcu 2021 r. w stosunku do przychodu uzyskanego we wrześniu 2019 r. lub we wrześniu 2020 r. Art. 31zp. 1. Wniosek o zwolnienie z obowiązku opłacania należności z tytułu składek, o których mowa w art. 31zo, zwany dalej „wnioskiem o zwolnienie z opłacania składek”, płatnik składek przekazuje do Zakładu Ubezpieczeń Społecznych nie później niż:
+12. Na wniosek płatnika składek prowadzącego, na dzień 30 września 2020 r., działalność polegającą na sprzedaży środków spożywczych, papierniczych i piśmienniczych na rzecz uczniów, słuchaczy lub wychowanków na terenie jednostek systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami 47.11.Z albo 47.19.Z, zwalnia się z obowiązku opłacania należnych składek na ubezpieczenia społeczne, na ubezpieczenie zdrowotne, na Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych lub Fundusz Emerytur Pomostowych, za okres od dnia 1 listopada 2020 r. do dnia 31 marca 2021 r., wykazanych w deklaracjach rozliczeniowych złożonych za dany miesiąc, jeżeli był zgłoszony jako płatnik składek do dnia 30 września 2020 r. i przychód z działalności w rozumieniu przepisów prawa podatkowego był niższy co najmniej o 40 % w listopadzie 2020 r., grudniu 2020 r., styczniu 2021 r., lutym 2021 r. lub w marcu 2021 r. w stosunku do przychodu uzyskanego we wrześniu 2019 r. lub we wrześniu 2020 r.
+
+**Art. 31zp.**
+
+1. Wniosek o zwolnienie z obowiązku opłacania należności z tytułu składek, o których mowa w art. 31zo, zwany dalej „wnioskiem o zwolnienie z opłacania składek”, płatnik składek przekazuje do Zakładu Ubezpieczeń Społecznych nie później niż:
 
 - **1)** do dnia 30 czerwca 2020 r. – w przypadku składek należnych za okres od dnia 1 marca 2020 r. do dnia 31 maja 2020 r.;
 - **2)** do dnia 30 listopada 2020 r. – w przypadku składek, o których mowa w art. 31zo ust. 8, należnych za okres od dnia 1 lipca 2020 r. do dnia 30 września 2020 r., z wyjątkiem pkt 3;
@@ -3957,7 +4605,11 @@ Art. 16–30. (pominięte)
 
 3. Oświadczenie, o którym mowa w ust. 2 pkt 2–2f, płatnik składek składa pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. W oświadczeniu jest zawarta klauzula następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-4. Wniosek o zwolnienie z opłacania składek może być złożony wyłącznie w formie dokumentu elektronicznego za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych, w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo wykorzystując sposób potwierdzania pochodzenia oraz integralności danych udostępniony bezpłatnie przez Zakład Ubezpieczeń Społecznych w systemie teleinformatycznym. Art. 31zq. 1. Za marzec, kwiecień i maj 2020 r., w przypadku, o którym mowa w art. 31zo ust. 8 – za lipiec, sierpień, wrzesień 2020 r., w przypadku, o którym mowa w art. 31zo ust. 10 – za listopad 2020 r., a w przypadku, o którym mowa w art. 31zo ust. 12 – za listopad 2020 r., grudzień 2020 r., styczeń 2021 r., luty 2021 r. lub marzec 2021 r., płatnik składek jest obowiązany przesyłać deklaracje rozliczeniowe lub imienne raporty miesięczne na zasadach i w terminach określonych w przepisach ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, chyba że zgodnie z tymi przepisami zwolniony jest z obowiązku ich składania.
+4. Wniosek o zwolnienie z opłacania składek może być złożony wyłącznie w formie dokumentu elektronicznego za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych, w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo wykorzystując sposób potwierdzania pochodzenia oraz integralności danych udostępniony bezpłatnie przez Zakład Ubezpieczeń Społecznych w systemie teleinformatycznym.
+
+**Art. 31zq.**
+
+1. Za marzec, kwiecień i maj 2020 r., w przypadku, o którym mowa w art. 31zo ust. 8 – za lipiec, sierpień, wrzesień 2020 r., w przypadku, o którym mowa w art. 31zo ust. 10 – za listopad 2020 r., a w przypadku, o którym mowa w art. 31zo ust. 12 – za listopad 2020 r., grudzień 2020 r., styczeń 2021 r., luty 2021 r. lub marzec 2021 r., płatnik składek jest obowiązany przesyłać deklaracje rozliczeniowe lub imienne raporty miesięczne na zasadach i w terminach określonych w przepisach ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, chyba że zgodnie z tymi przepisami zwolniony jest z obowiązku ich składania.
 
 2. Zakład Ubezpieczeń Społecznych zwalnia z obowiązku opłacania należności z tytułu składek, o których mowa w art. 31zo, w terminie nie dłuższym niż 30 dni od dnia przesłania deklaracji rozliczeniowej lub imiennych raportów miesięcznych należnych za ostatni miesiąc wskazany we wniosku o zwolnienie z opłacania składek, a w przypadku gdy płatnik składek zwolniony jest z obowiązku ich składania – w terminie nie dłuższym niż 30 dni od terminu, w którym powinna być opłacona składka za ostatni miesiąc wskazany we wniosku o zwolnienie z opłacania składek.
 
@@ -3971,15 +4623,29 @@ Art. 16–30. (pominięte)
 
 7. Odmowa zwolnienia z obowiązku opłacania należności z tytułu składek, o których mowa w art. 31zo, następuje w drodze decyzji.
 
-8. Od decyzji o odmowie zwolnienia z obowiązku opłacania należności z tytułu składek, o której mowa w ust. 7, płatnikowi składek przysługuje prawo do wniesienia wniosku do Prezesa Zakładu o ponowne rozpatrzenie sprawy, na zasadach dotyczących decyzji wydanej w pierwszej instancji przez ministra. Do wniosku stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego dotyczące odwołań od decyzji oraz ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi. Art. 31zr. 1. Informacja o składkach na ubezpieczenie emerytalne osób prowadzących pozarolniczą działalność i osób z nimi współpracujących oraz duchownych, zwolnionych z obowiązku ich opłacania, ewidencjonowana jest na koncie ubezpieczonego, o którym mowa w art. 40 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, jako składka wpłacona.
+8. Od decyzji o odmowie zwolnienia z obowiązku opłacania należności z tytułu składek, o której mowa w ust. 7, płatnikowi składek przysługuje prawo do wniesienia wniosku do Prezesa Zakładu o ponowne rozpatrzenie sprawy, na zasadach dotyczących decyzji wydanej w pierwszej instancji przez ministra. Do wniosku stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego dotyczące odwołań od decyzji oraz ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
+
+**Art. 31zr.**
+
+1. Informacja o składkach na ubezpieczenie emerytalne osób prowadzących pozarolniczą działalność i osób z nimi współpracujących oraz duchownych, zwolnionych z obowiązku ich opłacania, ewidencjonowana jest na koncie ubezpieczonego, o którym mowa w art. 40 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, jako składka wpłacona.
 
 2. (uchylony)
 
-3. Płatnika składek, który złożył wniosek o zwolnienie z opłacania składek, do dnia rozpatrzenia tego wniosku uważa się za niezalegającego w opłacaniu składek, o których mowa w art. 31zo, należnych za okres wskazany w tym wniosku. Art. 31zs. 1. W przypadku osób prowadzących pozarolnicza działalność i osób z nimi współpracujących oraz duchownych, jeżeli przepisy uzależniają prawo lub wysokość świadczeń z ubezpieczeń społecznych od opłacenia składek, składki na ubezpieczenia społeczne, o których mowa w art. 31zo, zwolnione z obowiązku ich opłacania traktuje się jak składki opłacone.
+3. Płatnika składek, który złożył wniosek o zwolnienie z opłacania składek, do dnia rozpatrzenia tego wniosku uważa się za niezalegającego w opłacaniu składek, o których mowa w art. 31zo, należnych za okres wskazany w tym wniosku.
+
+**Art. 31zs.**
+
+1. W przypadku osób prowadzących pozarolnicza działalność i osób z nimi współpracujących oraz duchownych, jeżeli przepisy uzależniają prawo lub wysokość świadczeń z ubezpieczeń społecznych od opłacenia składek, składki na ubezpieczenia społeczne, o których mowa w art. 31zo, zwolnione z obowiązku ich opłacania traktuje się jak składki opłacone.
 
 2. Osoba prowadząca pozarolniczą działalność i osoba z nią współpracująca oraz duchowny zachowuje prawo do świadczeń z ubezpieczenia społecznego w razie choroby i macierzyństwa jeżeli podlegała ubezpieczeniu chorobowemu w dniu 1 lutego 2020 r.
 
-3. Osoba, której dotyczy zwolnienie z obowiązku odprowadzania składki na ubezpieczenie zdrowotne i zgłoszeni przez nią do tego ubezpieczenia członkowie rodziny zachowują prawo do świadczeń określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. Art. 31zt. Obsługa przez Zakład Ubezpieczeń Społecznych zwolnienia z obowiązku opłacania składek, o których mowa w art. 31zo, realizowana jest w trybie umorzenia składek. Art. 31zu. 1. Zakład Ubezpieczeń Społecznych informuje Szefa Krajowej Administracji Skarbowej o wysokości przychodu lub dochodu wykazanego we wniosku o zwolnienie z opłacania składek.
+3. Osoba, której dotyczy zwolnienie z obowiązku odprowadzania składki na ubezpieczenie zdrowotne i zgłoszeni przez nią do tego ubezpieczenia członkowie rodziny zachowują prawo do świadczeń określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+**Art. 31zt.** Obsługa przez Zakład Ubezpieczeń Społecznych zwolnienia z obowiązku opłacania składek, o których mowa w art. 31zo, realizowana jest w trybie umorzenia składek.
+
+**Art. 31zu.**
+
+1. Zakład Ubezpieczeń Społecznych informuje Szefa Krajowej Administracji Skarbowej o wysokości przychodu lub dochodu wykazanego we wniosku o zwolnienie z opłacania składek.
 
 2. Szef Krajowej Administracji Skarbowej informuje Zakład Ubezpieczeń Społecznych o rozbieżnościach pomiędzy przychodem lub dochodem wykazanym we wniosku o zwolnienie z opłacania składek a przychodem lub dochodem wykazanym dla celów podatkowych.
 
@@ -3987,11 +4653,27 @@ Art. 16–30. (pominięte)
 
 4. W przypadku gdy zostanie stwierdzone, że rozbieżności, o których mowa w ust. 2, są wynikiem wprowadzenia w błąd Zakładu Ubezpieczeń Społecznych, płatnik składek jest obowiązany do opłacenia należności z tytułu składek, o których mowa w art. 31zo, za marzec, kwiecień i maj 2020 r., w przypadku, o którym mowa w art. 31zo ust. 8 – za lipiec, sierpień i wrzesień 2020 r., w przypadku, o którym mowa w art. 31zo ust. 10 – za listopad 2020 r., a w przypadku, o którym mowa w art. 31zo ust. 12 – za listopad 2020 r., grudzień 2020 r., styczeń 2021 r., luty 2021 r. lub marzec 2021 r., wraz z odsetkami za zwłokę, w terminie 30 dni od otrzymania decyzji o obowiązku opłacenia tych składek, wraz z odsetkami za zwłokę. Do decyzji o obowiązku opłacenia składek stosuje się odpowiednio art. 31zq ust. 8.
 
-5. W przypadku nie opłacenia w terminie należności z tytułu składek, o których mowa w ust. 4, należności te podlegają przymusowemu dochodzeniu na podstawie przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Art. 31zua. Na żądanie Zakładu Ubezpieczeń Społecznych Główny Urząd Statystyczny jest obowiązany przekazać informację, czy wskazany płatnik składek, o którym mowa w art. 31zo ust. 8, 10 lub 12, na wskazany dzień prowadził pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem, o którym mowa odpowiednio w art. 31zo ust. 8, 10 albo 12. Art. 31zub. Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez płatnika składek we wniosku o zwolnienie z opłacania składek na zasadach określonych w rozdziale 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Art. 31zv. Do zamówień na usługi lub dostawy udzielane przez Zakład Ubezpieczeń Społecznych w związku z realizacją zadań związanych ze zwolnieniem z tytułu nieopłaconych składek, o których mowa w art. 31zo, nie stosuje się przepisów o zamówieniach publicznych. Art. 31zw. 1. Skutki finansowe w wysokości zwolnienia z obowiązku opłacania należności z tytułu składek na ubezpieczenia społeczne oraz należności z tytułu składek na ubezpieczenie zdrowotne, o których mowa w art. 31zo, są finansowane ze środków Funduszu, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, lub w formie dotacji z budżetu państwa.
+5. W przypadku nie opłacenia w terminie należności z tytułu składek, o których mowa w ust. 4, należności te podlegają przymusowemu dochodzeniu na podstawie przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+
+**Art. 31zua.** Na żądanie Zakładu Ubezpieczeń Społecznych Główny Urząd Statystyczny jest obowiązany przekazać informację, czy wskazany płatnik składek, o którym mowa w art. 31zo ust. 8, 10 lub 12, na wskazany dzień prowadził pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem, o którym mowa odpowiednio w art. 31zo ust. 8, 10 albo 12.
+
+**Art. 31zub.** Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez płatnika składek we wniosku o zwolnienie z opłacania składek na zasadach określonych w rozdziale 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+
+**Art. 31zv.** Do zamówień na usługi lub dostawy udzielane przez Zakład Ubezpieczeń Społecznych w związku z realizacją zadań związanych ze zwolnieniem z tytułu nieopłaconych składek, o których mowa w art. 31zo, nie stosuje się przepisów o zamówieniach publicznych.
+
+**Art. 31zw.**
+
+1. Skutki finansowe w wysokości zwolnienia z obowiązku opłacania należności z tytułu składek na ubezpieczenia społeczne oraz należności z tytułu składek na ubezpieczenie zdrowotne, o których mowa w art. 31zo, są finansowane ze środków Funduszu, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, lub w formie dotacji z budżetu państwa.
 
 2. Do zmian planu finansowego Narodowego Funduszu Zdrowia na 2020 r. w zakresie środków przekazywanych Narodowemu Funduszowi Zdrowia z Funduszu, o którym mowa w ust. 1, stosuje się przepis art. 124 ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz nie stosuje się przepisów art. 118 ust. 3 i art. 121 tej ustawy.
 
-3. Do zmian planu finansowego Narodowego Funduszu Zdrowia na 2021 r. w zakresie środków przekazywanych Narodowemu Funduszowi Zdrowia z Funduszu, o którym mowa w ust. 1, stosuje się przepis art. 124 ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz nie stosuje się przepisów art. 118 ust. 3 i art. 121 tej ustawy. Art. 31zx. Przychody z tytułu zwolnienia z obowiązku opłacania należności z tytułu składek, o których mowa w art. 31zo, nie stanowią przychodu w rozumieniu przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych. Art. 31zy. 1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, określić inne okresy zwolnienia z tytułu nieopłaconych składek, niż określone w art. 31zo ust. 1–3 dla wszystkich albo niektórych płatników składek, którzy byli uprawnieni do zwolnienia z tytułu nieopłaconych składek na podstawie art. 31zo ust. 1–3, lub objąć tym zwolnieniem innych płatników składek, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
+3. Do zmian planu finansowego Narodowego Funduszu Zdrowia na 2021 r. w zakresie środków przekazywanych Narodowemu Funduszowi Zdrowia z Funduszu, o którym mowa w ust. 1, stosuje się przepis art. 124 ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz nie stosuje się przepisów art. 118 ust. 3 i art. 121 tej ustawy.
+
+**Art. 31zx.** Przychody z tytułu zwolnienia z obowiązku opłacania należności z tytułu składek, o których mowa w art. 31zo, nie stanowią przychodu w rozumieniu przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych.
+
+**Art. 31zy.**
+
+1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, określić inne okresy zwolnienia z tytułu nieopłaconych składek, niż określone w art. 31zo ust. 1–3 dla wszystkich albo niektórych płatników składek, którzy byli uprawnieni do zwolnienia z tytułu nieopłaconych składek na podstawie art. 31zo ust. 1–3, lub objąć tym zwolnieniem innych płatników składek, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
 
 2. Rozporządzenie, o którym mowa w ust. 1, może ustalać krąg płatników składek zwolnionych z tytułu nieopłaconych składek, poprzez określenie:
 
@@ -4016,9 +4698,19 @@ Art. 16–30. (pominięte)
 
 5. Główny Urząd Statystyczny przekazuje wykaz, o którym mowa w ust. 4, w terminie 7 dni od dnia wejścia w życie rozporządzenia, o którym mowa w ust. 1.
 
-6. Przepisy ust. 4 i 5 stosuje się odpowiednio w przypadku zmiany rozporządzenia, o którym mowa w ust. 1, w zakresie określenia kodów, o którym mowa w ust. 2 pkt 2. Art. 31zy 1 . 1. W okresie stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonego z powodu COVID-19 przepisów art. 55 ust. 1 pkt 1 i 3 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, 553 i 967) nie stosuje się, a wnioski o udzielenie pozwolenia na użytkowanie złożone przed dniem wejścia w życie niniejszej ustawy, jeżeli nie wydano decyzji o pozwoleniu na użytkowanie, traktuje się jak zawiadomienie o zakończeniu budowy, o którym mowa w art. 54 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
+6. Przepisy ust. 4 i 5 stosuje się odpowiednio w przypadku zmiany rozporządzenia, o którym mowa w ust. 1, w zakresie określenia kodów, o którym mowa w ust. 2 pkt 2.
 
-2. W przypadku wniosków, o których mowa w ust. 1, termin do zgłoszenia sprzeciwu w drodze decyzji liczy się od dnia wejścia w życie niniejszej ustawy. Art. 31zy 2 . W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, kolegialne organy samorządu zawodowego architektów i inżynierów budownictwa, a także ich organy wykonawcze oraz inne organy wewnętrzne mogą podejmować uchwały przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość lub w trybie obiegowym. Art. 31zy 3 . 1. Ubezpieczonemu rolnikowi i domownikowi, o których mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2023 r. poz. 208, 337 i 641), w sytuacji objęcia obowiązkową kwarantanną, nadzorem epidemiologicznym lub hospitalizacją w związku z COVID-19 przysługuje zasiłek w wysokości 50 % minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207).
+**Art. 31zy¹.**
+
+1. W okresie stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonego z powodu COVID-19 przepisów art. 55 ust. 1 pkt 1 i 3 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, 553 i 967) nie stosuje się, a wnioski o udzielenie pozwolenia na użytkowanie złożone przed dniem wejścia w życie niniejszej ustawy, jeżeli nie wydano decyzji o pozwoleniu na użytkowanie, traktuje się jak zawiadomienie o zakończeniu budowy, o którym mowa w art. 54 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
+
+2. W przypadku wniosków, o których mowa w ust. 1, termin do zgłoszenia sprzeciwu w drodze decyzji liczy się od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 31zy².** W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, kolegialne organy samorządu zawodowego architektów i inżynierów budownictwa, a także ich organy wykonawcze oraz inne organy wewnętrzne mogą podejmować uchwały przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość lub w trybie obiegowym.
+
+**Art. 31zy³.**
+
+1. Ubezpieczonemu rolnikowi i domownikowi, o których mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2023 r. poz. 208, 337 i 641), w sytuacji objęcia obowiązkową kwarantanną, nadzorem epidemiologicznym lub hospitalizacją w związku z COVID-19 przysługuje zasiłek w wysokości 50 % minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207).
 
 2. W razie zbiegu prawa do zasiłku, o którym mowa w ust. 1, z prawem do zasiłku chorobowego, o którym mowa w art. 14 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników lub w art. 6 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, uprawnionemu wypłaca się jedno świadczenie – wyższe albo wybrane przez uprawnionego.
 
@@ -4026,13 +4718,25 @@ Art. 16–30. (pominięte)
 
 4. Zasiłek, o którym mowa w ust. 1, jest finansowany z budżetu państwa za pośrednictwem Kasy Rolniczego Ubezpieczenia Społecznego.
 
-5. Do zasiłku, o którym mowa w ust. 1, nie stosuje się art. 29 ust. 13, 15 i 16 oraz art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. Art. 31zy 3a . 1. Osobie podlegającej ubezpieczeniu społecznemu w razie choroby i macierzyństwa określonemu w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, u której stwierdzone zakażenie lub zachorowanie na chorobę, o której mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, przy czym stwierdzone zakażenie lub zachorowanie powstało w związku z wykonywaniem zadań członka ochotniczej straży pożarnej w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby, przysługuje zasiłek chorobowy, którego miesięczny wymiar wynosi 100 % podstawy wymiaru zasiłku obliczonej na podstawie przepisów ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
+5. Do zasiłku, o którym mowa w ust. 1, nie stosuje się art. 29 ust. 13, 15 i 16 oraz art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-2. Osobie podlegającej ubezpieczeniu społecznemu w razie choroby i macierzyństwa określonemu w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, która na skutek podlegania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, o których mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, jeżeli podleganie tej kwarantannie lub izolacji powstało w związku z wykonywaniem zadań członka ochotniczej straży pożarnej w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby, przysługuje zasiłek chorobowy, którego miesięczny wymiar wynosi 100 % podstawy wymiaru zasiłku obliczonej na podstawie ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa. Art. 31zy 4 . 1. W roku 2020 Zakład Ubezpieczeń Społecznych nie przesyła ubezpieczonym informacji o stanie konta, o której mowa w art. 50 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+**Art. 31zy³a.**
+
+1. Osobie podlegającej ubezpieczeniu społecznemu w razie choroby i macierzyństwa określonemu w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, u której stwierdzone zakażenie lub zachorowanie na chorobę, o której mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, przy czym stwierdzone zakażenie lub zachorowanie powstało w związku z wykonywaniem zadań członka ochotniczej straży pożarnej w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby, przysługuje zasiłek chorobowy, którego miesięczny wymiar wynosi 100 % podstawy wymiaru zasiłku obliczonej na podstawie przepisów ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
+
+2. Osobie podlegającej ubezpieczeniu społecznemu w razie choroby i macierzyństwa określonemu w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, która na skutek podlegania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, o których mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, jeżeli podleganie tej kwarantannie lub izolacji powstało w związku z wykonywaniem zadań członka ochotniczej straży pożarnej w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby, przysługuje zasiłek chorobowy, którego miesięczny wymiar wynosi 100 % podstawy wymiaru zasiłku obliczonej na podstawie ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
+
+**Art. 31zy⁴.**
+
+1. W roku 2020 Zakład Ubezpieczeń Społecznych nie przesyła ubezpieczonym informacji o stanie konta, o której mowa w art. 50 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
 2. Ubezpieczonym, którzy w systemie teleinformatycznym Zakładu Ubezpieczeń Społecznych utworzyli profil informacyjny, w roku 2020 zakres danych objętych informacją o stanie konta, o której mowa w art. 50 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, udostępniany jest w systemie teleinformatycznym w formie elektronicznej.
 
-3. W roku 2020 informacja o stanie konta, o której mowa w art. 50 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, na żądanie ubezpieczonego przesyłana jest listem. Art. 31zy 5 . 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii płatnik składek, ubezpieczony oraz pobierający świadczenia z ubezpieczeń społecznych lub inne świadczenia wypłacane przez Zakład Ubezpieczeń Społecznych na podstawie odrębnych przepisów, który w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych utworzył profil informacyjny, może samodzielnie pobierać dokument potwierdzający swoje dane zgromadzone w systemie teleinformatycznym Zakładu Ubezpieczeń Społecznych.
+3. W roku 2020 informacja o stanie konta, o której mowa w art. 50 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, na żądanie ubezpieczonego przesyłana jest listem.
+
+**Art. 31zy⁵.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii płatnik składek, ubezpieczony oraz pobierający świadczenia z ubezpieczeń społecznych lub inne świadczenia wypłacane przez Zakład Ubezpieczeń Społecznych na podstawie odrębnych przepisów, który w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych utworzył profil informacyjny, może samodzielnie pobierać dokument potwierdzający swoje dane zgromadzone w systemie teleinformatycznym Zakładu Ubezpieczeń Społecznych.
 
 2. Zakres danych możliwych do samodzielnego pobrania z systemu teleinformatycznego Zakładu Ubezpieczeń Społecznych, zawartych w potwierdzeniach, o których mowa w ust. 1, określa Zakład Ubezpieczeń Społecznych.
 
@@ -4040,11 +4744,25 @@ Art. 16–30. (pominięte)
 
 4. Zakład Ubezpieczeń Społecznych umożliwia weryfikację dokumentu, o którym mowa w ust. 1, przez udostępnioną przez Zakład stronę internetową.
 
-5. Dokument, o którym mowa w ust. 1, ma moc zrównaną z mocą dokumentu wydanego przez Zakład Ubezpieczeń Społecznych, jeżeli jego weryfikacja dokonana została w sposób określony w ust. 4. Art. 31zy 6 . W przypadku czasowego ograniczenia, w celu przeciwdziałania COVID-19, prowadzenia usług rehabilitacyjnych w ramach prewencji rentowej, o której mowa w art. 69 ust. 2 pkt 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2023 r. poz. 1230) do roszczeń stron umów o świadczenie usług rehabilitacyjnych o których mowa w § 18 ust. 1 rozporządzenia Rady Ministrów z dnia 12 października 2001 r. w sprawie szczegółowych zasad i trybu kierowania przez Zakład Ubezpieczeń Społecznych na rehabilitację leczniczą oraz udzielania zamówień na usługi rehabilitacyjne (Dz. U. z 2019 r. poz. 277) oraz roszczeń osób, które w wyniku czasowego ograniczenia w celu przeciwdziałania COVID-19 nie mogły skorzystać z usług podmiotów prowadzących działalność leczniczą, zastosowanie będzie mieć art. 495 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326 i
+5. Dokument, o którym mowa w ust. 1, ma moc zrównaną z mocą dokumentu wydanego przez Zakład Ubezpieczeń Społecznych, jeżeli jego weryfikacja dokonana została w sposób określony w ust. 4.
 
-- **1285)** . Art. 31zy 7 . Jeżeli termin, o którym mowa w art. 2 ust. 3 pkt 3 ustawy z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2023 r. poz. 779) upływa w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, termin ten uważa się za zachowany w razie zgłoszenia wniosku o przyznanie świadczenia przedemerytalnego w ciągu 30 dni od dnia ustania obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii w związku z COVID-19. Art. 31zy 8 . W roku 2020 termin, o którym mowa w art. 6 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych uważa się za zachowany, jeżeli osoba uprawniona do świadczenia lub zasiłku przedemerytalnego powiadomi organ rentowy o wysokości przychodu uzyskanego w roku rozliczeniowym przypadającym od dnia 1 marca 2019 r. do dnia 29 lutego 2020 r., z uwzględnieniem przychodów uzyskanych w kolejnych miesiącach tego roku, w ciągu 30 dni od ustania obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii w związku z COVID-19. Art. 31zy 9 . 1. Osobom, które w okresie 30 dni po ustaniu obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii związanych z COVID-19 zgłoszą wniosek o przyznanie, ponowne ustalenie wysokości lub podjęcie wypłaty emerytury, renty lub innego świadczenia o charakterze długoterminowym, do którego przyznania właściwy jest organ rentowy Zakładu Ubezpieczeń Społecznych, prawo do świadczenia, prawo do świadczenia w ponownie ustalonej wysokości lub wypłata świadczenia przysługuje, na ich żądanie wyrażone w formie oświadczenia, od dnia, w którym zostały spełnione warunki do przyznania, ponownego ustalenia wysokości lub podjęcia wypłaty świadczenia, nie wcześniej jednak niż od dnia 1 marca 2020 r.
+**Art. 31zy⁶.** W przypadku czasowego ograniczenia, w celu przeciwdziałania COVID-19, prowadzenia usług rehabilitacyjnych w ramach prewencji rentowej, o której mowa w art. 69 ust. 2 pkt 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2023 r. poz. 1230) do roszczeń stron umów o świadczenie usług rehabilitacyjnych o których mowa w § 18 ust. 1 rozporządzenia Rady Ministrów z dnia 12 października 2001 r. w sprawie szczegółowych zasad i trybu kierowania przez Zakład Ubezpieczeń Społecznych na rehabilitację leczniczą oraz udzielania zamówień na usługi rehabilitacyjne (Dz. U. z 2019 r. poz. 277) oraz roszczeń osób, które w wyniku czasowego ograniczenia w celu przeciwdziałania COVID-19 nie mogły skorzystać z usług podmiotów prowadzących działalność leczniczą, zastosowanie będzie mieć art. 495 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326 i
 
-2. Przepisu ust. 1, nie stosuje się do emerytur i rent, o których mowa w art. 83 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251) i w art. 16 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039) oraz do rodzicielskiego świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051). Art. 31zy 10 . 1. Ze względów gospodarczych związanych z wystąpieniem COVID-19, Zakład może na wniosek dłużnika odstąpić od pobierania odsetek za zwłokę, o których mowa w art. 23 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych od należności z tytułu składek należnych za okres przypadający po dniu 31 grudnia 2019 r.
+- **1285)** .
+
+**Art. 31zy⁷.** Jeżeli termin, o którym mowa w art. 2 ust. 3 pkt 3 ustawy z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2023 r. poz. 779) upływa w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, termin ten uważa się za zachowany w razie zgłoszenia wniosku o przyznanie świadczenia przedemerytalnego w ciągu 30 dni od dnia ustania obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii w związku z COVID-19.
+
+**Art. 31zy⁸.** W roku 2020 termin, o którym mowa w art. 6 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych uważa się za zachowany, jeżeli osoba uprawniona do świadczenia lub zasiłku przedemerytalnego powiadomi organ rentowy o wysokości przychodu uzyskanego w roku rozliczeniowym przypadającym od dnia 1 marca 2019 r. do dnia 29 lutego 2020 r., z uwzględnieniem przychodów uzyskanych w kolejnych miesiącach tego roku, w ciągu 30 dni od ustania obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii w związku z COVID-19.
+
+**Art. 31zy⁹.**
+
+1. Osobom, które w okresie 30 dni po ustaniu obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii związanych z COVID-19 zgłoszą wniosek o przyznanie, ponowne ustalenie wysokości lub podjęcie wypłaty emerytury, renty lub innego świadczenia o charakterze długoterminowym, do którego przyznania właściwy jest organ rentowy Zakładu Ubezpieczeń Społecznych, prawo do świadczenia, prawo do świadczenia w ponownie ustalonej wysokości lub wypłata świadczenia przysługuje, na ich żądanie wyrażone w formie oświadczenia, od dnia, w którym zostały spełnione warunki do przyznania, ponownego ustalenia wysokości lub podjęcia wypłaty świadczenia, nie wcześniej jednak niż od dnia 1 marca 2020 r.
+
+2. Przepisu ust. 1, nie stosuje się do emerytur i rent, o których mowa w art. 83 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251) i w art. 16 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039) oraz do rodzicielskiego świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051).
+
+**Art. 31zy¹⁰.**
+
+1. Ze względów gospodarczych związanych z wystąpieniem COVID-19, Zakład może na wniosek dłużnika odstąpić od pobierania odsetek za zwłokę, o których mowa w art. 23 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych od należności z tytułu składek należnych za okres przypadający po dniu 31 grudnia 2019 r.
 
 2. Wniosek, o którym mowa w ust. 1, może być złożony do Zakładu Ubezpieczeń Społecznych w terminie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo w okresie 30 dni następujących po ich odwołaniu.
 
@@ -4069,7 +4787,13 @@ Art. 16–30. (pominięte)
 
 8. Od decyzji, o której mowa w ust. 7, płatnikowi składek przysługuje prawo do wniesienia wniosku do Prezesa Zakładu o ponowne rozpatrzenie sprawy, na zasadach dotyczących decyzji wydanej w pierwszej instancji przez ministra. Do wniosku stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego dotyczące odwołań od decyzji oraz ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
-9. Do zamówień na usługi lub dostawy udzielane przez Zakład Ubezpieczeń Społecznych w związku z realizacją zadań związanych z odstąpieniem od pobierania odsetek za zwłokę nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych. Art. 31zy 11 . W okresie stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonego z powodu COVID-19 dopuszcza się wykorzystywanie w procesie budowlanym map do celów projektowych oraz map zawierających wyniki geodezyjnej inwentaryzacji powykonawczej opatrzonych przez wykonawcę prac geodezyjnych oświadczeniem, złożonym pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, o pozytywnym wyniku weryfikacji tych map przez właściwy organ Służby Geodezyjnej i Kartograficznej. Art. 31zy 12 . 1. Środki z funduszu prewencji i rehabilitacji, zarządzanego przez Prezesa Kasy Rolniczego Ubezpieczenia Społecznego, które nie zostały wykorzystane przez samodzielne publiczne zakłady opieki zdrowotnej, dla których podmiotem tworzącym jest Prezes Kasy Rolniczego Ubezpieczenia Społecznego w wyniku niezrealizowania świadczeń rehabilitacji leczniczej dla rolników z powodu ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi w związku z zakażeniami wirusem SARS-CoV-2, mogą zostać przeznaczone na pomoc finansową udzielaną przez Kasę Rolniczego Ubezpieczenia Społecznego bezpośrednio na pokrycie szkód z tego tytułu.
+9. Do zamówień na usługi lub dostawy udzielane przez Zakład Ubezpieczeń Społecznych w związku z realizacją zadań związanych z odstąpieniem od pobierania odsetek za zwłokę nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+
+**Art. 31zy¹¹.** W okresie stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonego z powodu COVID-19 dopuszcza się wykorzystywanie w procesie budowlanym map do celów projektowych oraz map zawierających wyniki geodezyjnej inwentaryzacji powykonawczej opatrzonych przez wykonawcę prac geodezyjnych oświadczeniem, złożonym pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, o pozytywnym wyniku weryfikacji tych map przez właściwy organ Służby Geodezyjnej i Kartograficznej.
+
+**Art. 31zy¹².**
+
+1. Środki z funduszu prewencji i rehabilitacji, zarządzanego przez Prezesa Kasy Rolniczego Ubezpieczenia Społecznego, które nie zostały wykorzystane przez samodzielne publiczne zakłady opieki zdrowotnej, dla których podmiotem tworzącym jest Prezes Kasy Rolniczego Ubezpieczenia Społecznego w wyniku niezrealizowania świadczeń rehabilitacji leczniczej dla rolników z powodu ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi w związku z zakażeniami wirusem SARS-CoV-2, mogą zostać przeznaczone na pomoc finansową udzielaną przez Kasę Rolniczego Ubezpieczenia Społecznego bezpośrednio na pokrycie szkód z tego tytułu.
 
 2. Pomoc finansowa, o której mowa w ust. 1, jest przyznawana na zasadach określonych w art. 114–116 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, w drodze umowy zawieranej przez samodzielny publiczny zakład opieki zdrowotnej z Kasą Rolniczego Ubezpieczenia Społecznego, na wniosek samodzielnego publicznego zakładu opieki zdrowotnej.
 
@@ -4077,7 +4801,11 @@ Art. 16–30. (pominięte)
 
 4. Do pomocy finansowej, o której mowa w ust. 1, nie stosuje się art. 29 ust. 13, 15 i 16 oraz art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-5. Wprowadzenie stanu zagrożenia epidemicznego albo stanu epidemii na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi w związku z zakażeniami wirusem SARS-CoV-2 wypełnia znamiona przeciwskazań medycznych do kontynuowania rozpoczętej rehabilitacji leczniczej w zakresie działalności samodzielnych publicznych zakładów opieki zdrowotnej, dla których podmiotem tworzącym jest Prezes Kasy Rolniczego Ubezpieczenia Społecznego. Art. 31zy 13 . 1. Przy ustalaniu podstawy wymiaru świadczeń pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa przysługujących osobom, którym obniżono wymiar czasu pracy na podstawie art. 15g, oraz osobom, którym na podstawie art. 15zf wprowadzono mniej korzystne warunki zatrudnienia niż wynikające z umów o pracę, nie stosuje się przepisu art. 40 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, jeżeli:
+5. Wprowadzenie stanu zagrożenia epidemicznego albo stanu epidemii na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi w związku z zakażeniami wirusem SARS-CoV-2 wypełnia znamiona przeciwskazań medycznych do kontynuowania rozpoczętej rehabilitacji leczniczej w zakresie działalności samodzielnych publicznych zakładów opieki zdrowotnej, dla których podmiotem tworzącym jest Prezes Kasy Rolniczego Ubezpieczenia Społecznego.
+
+**Art. 31zy¹³.**
+
+1. Przy ustalaniu podstawy wymiaru świadczeń pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa przysługujących osobom, którym obniżono wymiar czasu pracy na podstawie art. 15g, oraz osobom, którym na podstawie art. 15zf wprowadzono mniej korzystne warunki zatrudnienia niż wynikające z umów o pracę, nie stosuje się przepisu art. 40 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, jeżeli:
 
 - **1)** obniżenie wymiaru czasu pracy lub wprowadzenie mniej korzystnych warunków zatrudnienia nastąpiło w okresie wcześniej pobieranego zasiłku oraz
 - **2)** między okresami pobierania wcześniejszego i kolejnego zasiłku nie było przerwy albo przerwa była krótsza niż trzy miesiące kalendarzowe.
@@ -4089,7 +4817,11 @@ Art. 16–30. (pominięte)
 4. Przy ustalaniu podstawy wymiaru zasiłku chorobowego przypadającego w okresie ciąży oraz zasiłku macierzyńskiego osobom, o których mowa w ust. 1–3:
 
 - **1)** warunku, o którym mowa w ust. 1, nie stosuje się;
-- **2)** nie uwzględnia się okresów obniżonego wymiaru czasu pracy lub mniej korzystnych warunków zatrudnienia, o których mowa w ust. 1–3. Art. 31zy 14 . 1. Na wniosek zleceniobiorcy wykonującego umowę agencyjną, umowę zlecenia lub inną umowę o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące zlecenia, zwaną dalej „umową zlecenia”, uzyskującego z wykonywania tej umowy zlecenia przychód w rozumieniu przepisów o podatku dochodowym od osób fizycznych z tytułów, o których mowa w art. 15zs ust. 1, Zakład Ubezpieczeń Społecznych zwalnia zleceniodawcę z obowiązku obliczania, potrącania z dochodu zleceniobiorcy i opłacania składek na ubezpieczenia społeczne, na ubezpieczenie zdrowotne na Fundusz Pracy, Fundusz Solidarnościowy i Fundusz Gwarantowanych Świadczeń Pracowniczych, zwanego dalej „zwolnieniem z obowiązku naliczania składek”, należnych z tytułu wykonywania tej umowy zlecenia za okres od dnia 1 stycznia 2021 r. do dnia 30 kwietnia 2021 r.
+- **2)** nie uwzględnia się okresów obniżonego wymiaru czasu pracy lub mniej korzystnych warunków zatrudnienia, o których mowa w ust. 1–3.
+
+**Art. 31zy¹⁴.**
+
+1. Na wniosek zleceniobiorcy wykonującego umowę agencyjną, umowę zlecenia lub inną umowę o świadczenie usług, do której zgodnie z ustawą z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się przepisy dotyczące zlecenia, zwaną dalej „umową zlecenia”, uzyskującego z wykonywania tej umowy zlecenia przychód w rozumieniu przepisów o podatku dochodowym od osób fizycznych z tytułów, o których mowa w art. 15zs ust. 1, Zakład Ubezpieczeń Społecznych zwalnia zleceniodawcę z obowiązku obliczania, potrącania z dochodu zleceniobiorcy i opłacania składek na ubezpieczenia społeczne, na ubezpieczenie zdrowotne na Fundusz Pracy, Fundusz Solidarnościowy i Fundusz Gwarantowanych Świadczeń Pracowniczych, zwanego dalej „zwolnieniem z obowiązku naliczania składek”, należnych z tytułu wykonywania tej umowy zlecenia za okres od dnia 1 stycznia 2021 r. do dnia 30 kwietnia 2021 r.
 
 2. Zwolnienie z obowiązku naliczania składek przysługuje, jeżeli:
 
@@ -4155,7 +4887,11 @@ Art. 16–30. (pominięte)
 
 22. Skutki finansowe w wysokości zwolnienia z obowiązku naliczania składek na ubezpieczenia społeczne oraz składek na ubezpieczenie zdrowotne są finansowane ze środków Funduszu, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, lub w formie dotacji z budżetu państwa.
 
-23. Do zamówień na usługi i dostawy udzielane przez Zakład Ubezpieczeń Społecznych w związku z realizacją zadań związanych ze zwolnieniem z obowiązku naliczania składek nie stosuje się przepisów o zamówieniach publicznych. Art. 31zy 15 . 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w okresie roku od odwołania ostatniego z nich wezwanie, o którym mowa w art. 8 ust. 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2024 r. poz. 427), może być wysyłane za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych.
+23. Do zamówień na usługi i dostawy udzielane przez Zakład Ubezpieczeń Społecznych w związku z realizacją zadań związanych ze zwolnieniem z obowiązku naliczania składek nie stosuje się przepisów o zamówieniach publicznych.
+
+**Art. 31zy¹⁵.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w okresie roku od odwołania ostatniego z nich wezwanie, o którym mowa w art. 8 ust. 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2024 r. poz. 427), może być wysyłane za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych.
 
 2. Polski Fundusz Rozwoju Spółka Akcyjna przekazuje Zakładowi Ubezpieczeń Społecznych nazwę i NIP podmiotu zatrudniającego, o którym mowa w art. 8 ust. 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
 
@@ -4166,11 +4902,21 @@ Art. 16–30. (pominięte)
 - **1)** w momencie odbioru tego wezwania przez podmiot zatrudniający, o którym mowa w art. 8 ust. 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, na profilu informacyjnym utworzonym w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych;
 - **2)** po upływie 14 dni od dnia umieszczenia tego wezwania na profilu informacyjnym utworzonym w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych – w przypadku jego nieodebrania.
 
-5. Koszty obsługi przez Zakład Ubezpieczeń Społecznych wezwań, o których mowa w art. 8 ust. 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych powiększone o należny podatek od towarów i usług pokrywa Polski Fundusz Rozwoju Spółka Akcyjna. Art. 31zz. 1. Osoby objęte ubezpieczeniem emerytalno-rentowym w rozumieniu ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników zwalnia się z obowiązku opłacania należności z tytułu składek na to ubezpieczenie za drugi kwartał 2020 r.
+5. Koszty obsługi przez Zakład Ubezpieczeń Społecznych wezwań, o których mowa w art. 8 ust. 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych powiększone o należny podatek od towarów i usług pokrywa Polski Fundusz Rozwoju Spółka Akcyjna.
 
-2. Skutki finansowe w wysokości zwolnienia z obowiązku opłacania należności z tytułu składek, o których mowa w ust. 1, są finansowane ze środków Funduszu, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, lub w formie dotacji z budżetu państwa. Art. 31zza. Osoby obowiązane do złożenia oświadczenia o stanie majątkowym za rok 2019, według stanu na dzień 31 grudnia roku poprzedniego, mogą złożyć oświadczenie w terminie do dnia 31 maja 2020 r. Art. 31zza 1 . W 2020 r. termin 30 czerwca wskazany w art. 87 § 3, 4 i 6a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych oraz w art. 104 § 3, 4 i 7a ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2019 r. poz. 740 oraz z 2020 r. poz. 190 i 875) przedłuża się do dnia 31 lipca 2020 r. Art. 31zzb. W roku 2020 realizacja dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów i kosztów obsługi wypłaty tego świadczenia, o którym mowa w ustawie o dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów z dnia 9 stycznia 2020 r., w zakresie w jakim świadczenie to jest finansowane ze środków Funduszu Solidarnościowego, następuje poprzez udzielenie Funduszowi Solidarnościowemu nieoprocentowanej pożyczki przez Fundusz Rezerwy Demograficznej, zgodnie z art. 59 ust. 1 pkt 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Art. 31zzc. (uchylony) Art. 31zzca. 1. Rada gminy może, w drodze uchwały, zwolnić z opłaty, o której mowa w art. 11 ust. 1 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, należnej w 2020 r. lub w 2021 r. lub przedłużyć termin na jej wniesienie.
+**Art. 31zz.**
 
-2. W przypadku zwolnienia z opłaty, rada gminy, w uchwale, o której mowa w ust. 1, może przyznać zwrot określonej części opłaty pobranej od przedsiębiorców, którzy wnieśli jednorazowo opłatę:
+1. Osoby objęte ubezpieczeniem emerytalno-rentowym w rozumieniu ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników zwalnia się z obowiązku opłacania należności z tytułu składek na to ubezpieczenie za drugi kwartał 2020 r.
+
+2. Skutki finansowe w wysokości zwolnienia z obowiązku opłacania należności z tytułu składek, o których mowa w ust. 1, są finansowane ze środków Funduszu, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, lub w formie dotacji z budżetu państwa.
+
+**Art. 31zza.** Osoby obowiązane do złożenia oświadczenia o stanie majątkowym za rok 2019, według stanu na dzień 31 grudnia roku poprzedniego, mogą złożyć oświadczenie w terminie do dnia 31 maja 2020 r.
+
+**Art. 31zza¹.** W 2020 r. termin 30 czerwca wskazany w art. 87 § 3, 4 i 6a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych oraz w art. 104 § 3, 4 i 7a ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2019 r. poz. 740 oraz z 2020 r. poz. 190 i 875) przedłuża się do dnia 31 lipca 2020 r.
+
+**Art. 31zzb.** W roku 2020 realizacja dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów i kosztów obsługi wypłaty tego świadczenia, o którym mowa w ustawie o dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów z dnia 9 stycznia 2020 r., w zakresie w jakim świadczenie to jest finansowane ze środków Funduszu Solidarnościowego, następuje poprzez udzielenie Funduszowi Solidarnościowemu nieoprocentowanej pożyczki przez Fundusz Rezerwy Demograficznej, zgodnie z art. 59 ust. 1 pkt 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+
+**Art. 31zzc.** (uchylony) Art. 31zzca. 1. Rada gminy może, w drodze uchwały, zwolnić z opłaty, o której mowa w art. 11 ust. 1 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, należnej w 2020 r. lub w 2021 r. lub przedłużyć termin na jej wniesienie. 2. W przypadku zwolnienia z opłaty, rada gminy, w uchwale, o której mowa w ust. 1, może przyznać zwrot określonej części opłaty pobranej od przedsiębiorców, którzy wnieśli jednorazowo opłatę:
 
 - **1)** za rok 2020 w terminie do dnia 31 stycznia 2020 r.;
 - **2)** za rok 2021 w terminie do dnia 31 stycznia 2021 r.
@@ -4185,13 +4931,27 @@ Art. 16–30. (pominięte)
 - **1)** wpłat z zysku, o których mowa w art. 2 ust. 1 ustawy z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa (Dz. U. z 2020 r. poz. 16 oraz z 2021 r. poz. 1551);
 - **2)** wpłat na Rządowy Funduszu Rozwoju Dróg, o których mowa w art. 5 ust. 1 pkt 5 ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2021 r. poz. 1122).
 
-2. Przepis ust. 1 stosuje się do skarbowych papierów wartościowych przekazanych przez ministra właściwego do spraw finansów publicznych dla Agencji Rozwoju Przemysłu Spółki Akcyjnej, w związku z działaniami mającymi przeciwdziałać negatywnym skutkom COVID-19. Art. 31zzd. 1. W 2020 r. negocjacje w ramach Rady Dialogu Społecznego, o których mowa w art. 89 ust. 3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, dotyczące zwiększenia wskaźnika waloryzacji, o którym mowa w art. 89 ust. 1 tej ustawy, przeprowadza się w sierpniu.
+2. Przepis ust. 1 stosuje się do skarbowych papierów wartościowych przekazanych przez ministra właściwego do spraw finansów publicznych dla Agencji Rozwoju Przemysłu Spółki Akcyjnej, w związku z działaniami mającymi przeciwdziałać negatywnym skutkom COVID-19.
 
-2. Rada Ministrów może, w drodze rozporządzenia, określić inny miesiąc przeprowadzenia negocjacji w ramach Rady Dialogu Społecznego, niż wskazany w ust. 1, mając na względzie harmonogram prac budżetowych. Art. 31zze. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonych w związku z COVID-19 notariusz może wydrukować dokument elektroniczny sporządzony przez podmiot publiczny, o którym mowa w art. 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, i opatrzyć wydruk datą pewną, o ile dokument ten jest niezbędny do przeprowadzenia czynności notarialnej.
+**Art. 31zzd.**
+
+1. W 2020 r. negocjacje w ramach Rady Dialogu Społecznego, o których mowa w art. 89 ust. 3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, dotyczące zwiększenia wskaźnika waloryzacji, o którym mowa w art. 89 ust. 1 tej ustawy, przeprowadza się w sierpniu.
+
+2. Rada Ministrów może, w drodze rozporządzenia, określić inny miesiąc przeprowadzenia negocjacji w ramach Rady Dialogu Społecznego, niż wskazany w ust. 1, mając na względzie harmonogram prac budżetowych.
+
+**Art. 31zze.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonych w związku z COVID-19 notariusz może wydrukować dokument elektroniczny sporządzony przez podmiot publiczny, o którym mowa w art. 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, i opatrzyć wydruk datą pewną, o ile dokument ten jest niezbędny do przeprowadzenia czynności notarialnej.
 
 2. Sporządzony przez notariusza wydruk dokumentu, o którym mowa w ust. 1, opatrzony datą pewną, ma moc prawną dokumentu elektronicznego.
 
-3. Podmiot publiczny, na żądanie osoby uprawnionej do otrzymania dokumentu elektronicznego sporządzanego przez podmiot publiczny, dostarcza notariuszowi za pomocą elektronicznej platformy usług administracji publicznej (ePUAP) dokument elektroniczny. Art. 31zzf. Jeżeli kolokwium, o którym mowa w art. 71 § 12 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz. 1799), nie zostało przeprowadzone w terminie wskazanym w tym przepisie ze względu na obowiązywanie stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, rada izby notarialnej przeprowadza kolokwium nie później niż w ciągu 6 tygodni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później. Art. 31zzg. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 Krajowa Rada Sądownictwa oraz Prezydium i zespoły Krajowej Rady Sądownictwa, a także kolegialne organy sądów mogą odbywać swoje posiedzenia przy użyciu środków komunikacji elektronicznej.
+3. Podmiot publiczny, na żądanie osoby uprawnionej do otrzymania dokumentu elektronicznego sporządzanego przez podmiot publiczny, dostarcza notariuszowi za pomocą elektronicznej platformy usług administracji publicznej (ePUAP) dokument elektroniczny.
+
+**Art. 31zzf.** Jeżeli kolokwium, o którym mowa w art. 71 § 12 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz. 1799), nie zostało przeprowadzone w terminie wskazanym w tym przepisie ze względu na obowiązywanie stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, rada izby notarialnej przeprowadza kolokwium nie później niż w ciągu 6 tygodni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później.
+
+**Art. 31zzg.**
+
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 Krajowa Rada Sądownictwa oraz Prezydium i zespoły Krajowej Rady Sądownictwa, a także kolegialne organy sądów mogą odbywać swoje posiedzenia przy użyciu środków komunikacji elektronicznej.
 
 2. Do posiedzeń plenarnych Krajowej Rady Sądownictwa odbywanych w sposób, o którym mowa w ust. 1, przepisu art. 20 ust. 1 zdanie drugie ustawy z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa (Dz. U. z 2021 r. poz. 269) nie stosuje się, jeżeli transmisja za pośrednictwem Internetu nie jest możliwa.
 
@@ -4199,7 +4959,11 @@ Art. 16–30. (pominięte)
 
 4. Jeżeli na posiedzeniu odbywanym w sposób, o którym mowa w ust. 1, albo w trybie, o którym mowa w ust. 3, ma zostać przeprowadzone głosowanie tajne i nie jest możliwe zachowanie tajności w głosowaniu elektronicznym, głosowanie odbywa się przez oddanie głosów do urny udostępnionej uczestnikom głosowania w miejscu i w czasie określonych przez przewodniczącego obradom. Art. 31zzga. 1. W okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonego z powodu COVID-19 oraz przez okres 12 miesięcy liczonych od dnia zakończenia tych stanów banki mogą wykonywać czynności, o których mowa w art. 6 ust. 1 pkt 6a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, również w przypadku braku wskazania tych czynności w statucie banku.
 
-2. Bank informuje niezwłocznie Komisję Nadzoru Finansowego o rozpoczęciu wykonywania czynności, o których mowa w ust. 1. Art. 31zzh. 1. Spółka prowadząca giełdową izbę rozrachunkową oraz spółka wykonująca funkcję giełdowej izby rozrachunkowej na podstawie art. 68a ust. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi w okresie do dnia 30 września 2020 r. dopuszczają w szczególności następujące formy zabezpieczeń niepieniężnych wnoszonych na pokrycie depozytów zabezpieczających rozliczane przez te spółki transakcje:
+2. Bank informuje niezwłocznie Komisję Nadzoru Finansowego o rozpoczęciu wykonywania czynności, o których mowa w ust. 1.
+
+**Art. 31zzh.**
+
+1. Spółka prowadząca giełdową izbę rozrachunkową oraz spółka wykonująca funkcję giełdowej izby rozrachunkowej na podstawie art. 68a ust. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi w okresie do dnia 30 września 2020 r. dopuszczają w szczególności następujące formy zabezpieczeń niepieniężnych wnoszonych na pokrycie depozytów zabezpieczających rozliczane przez te spółki transakcje:
 
 - **1)** prawa majątkowe wynikające ze świadectw pochodzenia w rozumieniu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2020 r. poz. 261, 284, 568, 695, 1086 i 1503) potwierdzających wytworzenie energii z odnawialnych źródeł energii, której okres wytworzenia rozpoczął się dnia 1 marca 2009 r., z wyłączeniem praw majątkowych dla energii elektrycznej wytworzonej z biogazu rolniczego, której okres produkcji rozpoczął się dnia 1 lipca 2016 r.;
 - **2)** uprawnienia do emisji, o których mowa w ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2020 r. poz. 1077);
@@ -4244,9 +5008,24 @@ Art. 16–30. (pominięte)
 8a. Do dnia 31 grudnia 2024 r.:
 
 - **1)** zwolnienie z obowiązku ustanowienia zabezpieczenia finansowego, o którym mowa w ust. 8 pkt 1, wynosi maksymalnie 90 % wartości wymaganych depozytów, o których mowa w ust. 1;
-- **2)** zabezpieczenie finansowe, o którym mowa w ust. 1 pkt 4, dla podmiotu będącego członkiem giełdowej izby rozrachunkowej, nie może być większe niż 90 % wartości wymaganych depozytów, o których mowa w ust. 1. Art. 31zzh 1 . Zwalnia się z obowiązku ustanowienia zabezpieczenia finansowego, wnoszonego na pokrycie depozytów zabezpieczających rozliczane przez spółkę prowadzącą giełdową izbę rozrachunkową lub spółkę wykonująca funkcję giełdowej izby rozrachunkowej na podstawie art. 68a ust. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, transakcje zakupu lub sprzedaży energii elektrycznej zawarte bezpośrednio lub za pośrednictwem uprawnionych do tego podmiotów przez operatora systemu przesyłowego elektroenergetycznego w rozumieniu art. 3 pkt 24 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, w przypadku gdy operator systemu przesyłowego elektroenergetycznego złoży odpowiednio spółce prowadzącej giełdową izbę rozrachunkową lub spółce wykonującej funkcję giełdowej izby rozrachunkowej na podstawie art. 68a ust. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi:
+- **2)** zabezpieczenie finansowe, o którym mowa w ust. 1 pkt 4, dla podmiotu będącego członkiem giełdowej izby rozrachunkowej, nie może być większe niż 90 % wartości wymaganych depozytów, o których mowa w ust. 1.
+
+**Art. 31zzh¹.** Zwalnia się z obowiązku ustanowienia zabezpieczenia finansowego, wnoszonego na pokrycie depozytów zabezpieczających rozliczane przez spółkę prowadzącą giełdową izbę rozrachunkową lub spółkę wykonująca funkcję giełdowej izby rozrachunkowej na podstawie art. 68a ust. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, transakcje zakupu lub sprzedaży energii elektrycznej zawarte bezpośrednio lub za pośrednictwem uprawnionych do tego podmiotów przez operatora systemu przesyłowego elektroenergetycznego w rozumieniu art. 3 pkt 24 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, w przypadku gdy operator systemu przesyłowego elektroenergetycznego złoży odpowiednio spółce prowadzącej giełdową izbę rozrachunkową lub spółce wykonującej funkcję giełdowej izby rozrachunkowej na podstawie art. 68a ust. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi:
+
 - **1)** oświadczenie w formie aktu notarialnego o poddaniu się egzekucji w trybie z art. 777 § 1 pkt 5 Kodeksu postępowania cywilnego – w zakresie transakcji zawieranych bezpośrednio, lub
-- **2)** poręczenie za zobowiązania podmiotu, za pośrednictwem którego zawiera transakcje, wynikające z rozliczenia transakcji zawartych na zlecenie operatora systemu przesyłowego elektroenergetycznego, zabezpieczone oświadczeniem w formie aktu notarialnego o poddaniu się egzekucji w trybie z art. 777 § 1 pkt 5 Kodeksu postępowania cywilnego – w zakresie transakcji zawieranych za pośrednictwem uprawnionych do tego podmiotów. Art. 31zzi. W okresie od dnia wejścia w życie niniejszej ustawy do dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonych na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi w związku z zakażeniami wirusem SARS-CoV-2 nie stosuje się przepisu art. 33 ust. 2a ustawy z dnia 6 kwietnia 1990 r. o Policji. Art. 31zzj. W przypadku, o którym mowa w art. 31zo ust. 3, zwalnia się z obowiązku opłacenia należności z tytułu składek wykazanych w deklaracji rozliczeniowej za marzec 2020 r. także wówczas gdy należności te zostały opłacone. Opłacone należności z tytułu składek podlegają zwrotowi na zasadach określonych w art. 24 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2020 r. poz. 266, 321, 568, 695, 875 i 1291). Art. 31zzk. W okresie od dnia 10 kwietnia 2020 r. do dnia 1 października 2020 r. legitymacje służbowe funkcjonariuszy Służby Celno-Skarbowej oraz osób zatrudnionych w jednostkach organizacyjnych Krajowej Administracji Skarbowej wykonujących czynności służbowe wymagające posiadania legitymacji służbowej są wydawane zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2020 r. poz. 505, 568, 695, 1087 i 1106), w brzmieniu obowiązującym do dnia wejścia w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354). Art. 31zzl. Informację, o której mowa w art. 70 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, o działaniach podjętych w roku 2019 przedkłada się Radzie Ministrów w terminie do dnia 30 czerwca 2021 r. Art. 31zzm. 1. Od dnia 1 stycznia 2021 r. do dnia 31 grudnia 2021 r. nie pobiera się opłaty targowej, o której mowa w art. 15 ust. 1 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2022 r. poz. 1452).
+- **2)** poręczenie za zobowiązania podmiotu, za pośrednictwem którego zawiera transakcje, wynikające z rozliczenia transakcji zawartych na zlecenie operatora systemu przesyłowego elektroenergetycznego, zabezpieczone oświadczeniem w formie aktu notarialnego o poddaniu się egzekucji w trybie z art. 777 § 1 pkt 5 Kodeksu postępowania cywilnego – w zakresie transakcji zawieranych za pośrednictwem uprawnionych do tego podmiotów.
+
+**Art. 31zzi.** W okresie od dnia wejścia w życie niniejszej ustawy do dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonych na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi w związku z zakażeniami wirusem SARS-CoV-2 nie stosuje się przepisu art. 33 ust. 2a ustawy z dnia 6 kwietnia 1990 r. o Policji.
+
+**Art. 31zzj.** W przypadku, o którym mowa w art. 31zo ust. 3, zwalnia się z obowiązku opłacenia należności z tytułu składek wykazanych w deklaracji rozliczeniowej za marzec 2020 r. także wówczas gdy należności te zostały opłacone. Opłacone należności z tytułu składek podlegają zwrotowi na zasadach określonych w art. 24 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2020 r. poz. 266, 321, 568, 695, 875 i 1291).
+
+**Art. 31zzk.** W okresie od dnia 10 kwietnia 2020 r. do dnia 1 października 2020 r. legitymacje służbowe funkcjonariuszy Służby Celno-Skarbowej oraz osób zatrudnionych w jednostkach organizacyjnych Krajowej Administracji Skarbowej wykonujących czynności służbowe wymagające posiadania legitymacji służbowej są wydawane zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2020 r. poz. 505, 568, 695, 1087 i 1106), w brzmieniu obowiązującym do dnia wejścia w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
+
+**Art. 31zzl.** Informację, o której mowa w art. 70 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, o działaniach podjętych w roku 2019 przedkłada się Radzie Ministrów w terminie do dnia 30 czerwca 2021 r.
+
+**Art. 31zzm.**
+
+1. Od dnia 1 stycznia 2021 r. do dnia 31 grudnia 2021 r. nie pobiera się opłaty targowej, o której mowa w art. 15 ust. 1 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2022 r. poz. 1452).
 
 2. Z tytułu niepobierania opłaty, o którym mowa w ust. 1, jednostkom samorządu terytorialnego przysługuje rekompensata ze środków Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw.
 
@@ -4256,15 +5035,33 @@ Art. 16–30. (pominięte)
 
 5. Środki z Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, są przekazywane na rachunki bankowe właściwych jednostek samorządu terytorialnego i stanowią dochód budżetów tych jednostek.
 
-6. Do dochodów, o których mowa w ust. 5, nie stosuje się przepisów art. 65 ust. 11–13 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw. Art. 31zzn. 1. Wnioski o przyznanie wsparcia, o których mowa w art. 15zzb– 15zze oraz art. 15zze , mogą być składane do dnia 10 czerwca 2021 r.
+6. Do dochodów, o których mowa w ust. 5, nie stosuje się przepisów art. 65 ust. 11–13 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw.
+
+**Art. 31zzn.**
+
+1. Wnioski o przyznanie wsparcia, o których mowa w art. 15zzb– 15zze oraz art. 15zze , mogą być składane do dnia 10 czerwca 2021 r.
 
 2. Wsparcie, o którym mowa w art. 15zzb–15zze oraz art. 15zze , może być udzielane do dnia 30 czerwca 2021 r.
 
 3. Na podstawie wniosków, o których mowa w ust. 1, rozpatrzonych do dnia 30 czerwca 2021 r., możliwe jest dokonanie wypłaty wsparcia po tym terminie, nie później niż do dnia 31 marca 2022 r.
 
-4. Wnioski, o których mowa w ust. 1, nierozpatrzone do dnia 30 czerwca 2021 r. mogą być rozpatrzone, a kwota wsparcia może być wypłacona w terminie do dnia 31 marca 2022 r. Art. 31zzo. W przypadku gdy dokonano zwrotu otrzymanego dofinansowania, o którym mowa w art. 15zzc ust. 1, w części lub w całości, w związku ze śmiercią przedsiębiorcy w okresie, na który zostało przyznane dofinansowanie, przekazane w ten sposób środki pieniężne podlegają zwrotowi bez odsetek na wniosek osoby, która dokonała zwrotu dofinansowania. Zwrot następuje w terminie 30 dni od dnia doręczenia staroście wniosku o zwrot środków. Art. 31zzp. W przypadku gdy dokonano spłaty pożyczki, o której mowa w art. 15zzd ust. 1, w części lub całości, w związku ze śmiercią przedsiębiorcy w okresie, o którym mowa w art. 15zzd ust. 7, przekazane w ten sposób środki pieniężne podlegają zwrotowi bez odsetek na wniosek osoby, która dokonała spłaty pożyczki. Zwrot następuje w terminie 30 dni od dnia doręczenia staroście wniosku o zwrot środków. Art. 31zzq. Na rok 2020 nie sporządza się Krajowego Planu Działań na Rzecz Zatrudnienia, o którym mowa w art. 3 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. Art. 31zzr. 1. Główny Urząd Statystyczny jest obowiązany przekazać do Zakładu Ubezpieczeń Społecznych, nie później niż w terminie 7 dni od dnia wejścia w życie ustawy z dnia 9 grudnia 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, wykaz płatników składek i osób, które na dzień 30 września 2020 r. miały zarejestrowaną pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami, o których mowa w art. 15zs ust. 1 i art. 31zo ust. 10. Wykaz zawiera imię i nazwisko albo nazwę skróconą płatnika składek, NIP i REGON oraz kod PKD.
+4. Wnioski, o których mowa w ust. 1, nierozpatrzone do dnia 30 czerwca 2021 r. mogą być rozpatrzone, a kwota wsparcia może być wypłacona w terminie do dnia 31 marca 2022 r.
 
-2. Główny Urząd Statystyczny jest obowiązany przekazać do Zakładu Ubezpieczeń Społecznych, nie później niż w terminie 7 dni od dnia wejścia w życie ustawy z dnia 24 czerwca 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, wykaz płatników składek i osób, które na dzień 30 września 2020 r. miały zarejestrowaną pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami, o których mowa w art. 15zs ust. 1 i art. 31zo ust. 12. Wykaz zawiera imię i nazwisko albo nazwę skróconą płatnika składek, NIP i REGON oraz kod PKD. Art. 31zzs. 1. W celu przeciwdziałania skutkom COVID-19 minister właściwy do spraw kultury i ochrony dziedzictwa narodowego na wniosek Dyrektora Polskiego Instytutu Sztuki Filmowej przekazuje Polskiemu Instytutowi Sztuki Filmowej środki finansowe w wysokości 120 000 000 zł na sfinansowanie lub dofinansowanie kosztów, które podmioty, o których mowa w art. 22 ust. 1 ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2021 r. poz. 257 i 1676), wykonujące działalność lub świadczące usługi na terytorium Rzeczypospolitej Polskiej, poniosły w okresie od dnia 1 listopada 2020 r. do dnia 31 sierpnia 2021 r. w następstwie wystąpienia COVID-19 i które nie zostały sfinansowane lub dofinansowane z innych środków, w tym środków publicznych.
+**Art. 31zzo.** W przypadku gdy dokonano zwrotu otrzymanego dofinansowania, o którym mowa w art. 15zzc ust. 1, w części lub w całości, w związku ze śmiercią przedsiębiorcy w okresie, na który zostało przyznane dofinansowanie, przekazane w ten sposób środki pieniężne podlegają zwrotowi bez odsetek na wniosek osoby, która dokonała zwrotu dofinansowania. Zwrot następuje w terminie 30 dni od dnia doręczenia staroście wniosku o zwrot środków.
+
+**Art. 31zzp.** W przypadku gdy dokonano spłaty pożyczki, o której mowa w art. 15zzd ust. 1, w części lub całości, w związku ze śmiercią przedsiębiorcy w okresie, o którym mowa w art. 15zzd ust. 7, przekazane w ten sposób środki pieniężne podlegają zwrotowi bez odsetek na wniosek osoby, która dokonała spłaty pożyczki. Zwrot następuje w terminie 30 dni od dnia doręczenia staroście wniosku o zwrot środków.
+
+**Art. 31zzq.** Na rok 2020 nie sporządza się Krajowego Planu Działań na Rzecz Zatrudnienia, o którym mowa w art. 3 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
+
+**Art. 31zzr.**
+
+1. Główny Urząd Statystyczny jest obowiązany przekazać do Zakładu Ubezpieczeń Społecznych, nie później niż w terminie 7 dni od dnia wejścia w życie ustawy z dnia 9 grudnia 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, wykaz płatników składek i osób, które na dzień 30 września 2020 r. miały zarejestrowaną pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami, o których mowa w art. 15zs ust. 1 i art. 31zo ust. 10. Wykaz zawiera imię i nazwisko albo nazwę skróconą płatnika składek, NIP i REGON oraz kod PKD.
+
+2. Główny Urząd Statystyczny jest obowiązany przekazać do Zakładu Ubezpieczeń Społecznych, nie później niż w terminie 7 dni od dnia wejścia w życie ustawy z dnia 24 czerwca 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, wykaz płatników składek i osób, które na dzień 30 września 2020 r. miały zarejestrowaną pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodami, o których mowa w art. 15zs ust. 1 i art. 31zo ust. 12. Wykaz zawiera imię i nazwisko albo nazwę skróconą płatnika składek, NIP i REGON oraz kod PKD.
+
+**Art. 31zzs.**
+
+1. W celu przeciwdziałania skutkom COVID-19 minister właściwy do spraw kultury i ochrony dziedzictwa narodowego na wniosek Dyrektora Polskiego Instytutu Sztuki Filmowej przekazuje Polskiemu Instytutowi Sztuki Filmowej środki finansowe w wysokości 120 000 000 zł na sfinansowanie lub dofinansowanie kosztów, które podmioty, o których mowa w art. 22 ust. 1 ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2021 r. poz. 257 i 1676), wykonujące działalność lub świadczące usługi na terytorium Rzeczypospolitej Polskiej, poniosły w okresie od dnia 1 listopada 2020 r. do dnia 31 sierpnia 2021 r. w następstwie wystąpienia COVID-19 i które nie zostały sfinansowane lub dofinansowane z innych środków, w tym środków publicznych.
 
 2. Środki finansowe, o których mowa w ust. 1, są dodatkowym źródłem przychodu Polskiego Instytutu Sztuki Filmowej.
 
@@ -4290,7 +5087,13 @@ Art. 16–30. (pominięte)
 
 8. Podmioty, o których mowa w ust. 1, oraz osoby fizyczne, o których mowa w ust. 5, składają wnioski odpowiednio o sfinansowanie, dofinansowanie albo stypendium w terminie od dnia ogłoszenia rozpoczęcia naboru wniosków przez Polski Instytut Sztuki Filmowej do dnia 30 września 2021 r.
 
-9. Środki finansowe, które w terminie do dnia 30 listopada 2021 r. nie zostaną przekazane na rachunek bankowy podmiotom, o których mowa w ust. 1, i osobom fizycznym, o których mowa w ust. 5, podlegają zwrotowi do Funduszu Przeciwdziałania COVID-19 w terminie 14 dni od tego dnia. Art. 31zzt. Kto uporczywie nie uiszcza rat, o których mowa w art. 15kb ust. 7, na Fundusz Zwrotów lub rat, o których mowa w art. 15kc ust. 17, na Fundusz Pomocowy, podlega grzywnie. Art. 31zzu. Kto zaniża wysokość składki, o której mowa w art. 15kc ust. 4 pkt 5, należnej na Fundusz Pomocowy, podlega grzywnie. Art. 31zzw. Za czyny, o których mowa w art. 31zzt i art. 31zzu, odpowiada również podmiot zbiorowy, o ile czyn popełniła osoba fizyczna, o której mowa w art. 3 ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2023 r. poz. 659).
+9. Środki finansowe, które w terminie do dnia 30 listopada 2021 r. nie zostaną przekazane na rachunek bankowy podmiotom, o których mowa w ust. 1, i osobom fizycznym, o których mowa w ust. 5, podlegają zwrotowi do Funduszu Przeciwdziałania COVID-19 w terminie 14 dni od tego dnia.
+
+**Art. 31zzt.** Kto uporczywie nie uiszcza rat, o których mowa w art. 15kb ust. 7, na Fundusz Zwrotów lub rat, o których mowa w art. 15kc ust. 17, na Fundusz Pomocowy, podlega grzywnie.
+
+**Art. 31zzu.** Kto zaniża wysokość składki, o której mowa w art. 15kc ust. 4 pkt 5, należnej na Fundusz Pomocowy, podlega grzywnie.
+
+**Art. 31zzw.** Za czyny, o których mowa w art. 31zzt i art. 31zzu, odpowiada również podmiot zbiorowy, o ile czyn popełniła osoba fizyczna, o której mowa w art. 3 ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2023 r. poz. 659).
 
 **Art. 32.** Przepisy art. 46f ustawy zmienianej w art. 25 w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia ogłoszenia przez ministra właściwego do spraw zdrowia w Biuletynie Informacji Publicznej urzędu obsługującego tego ministra oraz w dzienniku urzędowym ministra właściwego do spraw zdrowia informacji o uruchomieniu odpowiedniej funkcjonalności systemu teleinformatycznego jednostki podległej ministrowi właściwemu do spraw zdrowia właściwej w zakresie systemów informacyjnych ochrony zdrowia.
 

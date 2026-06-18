@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowym wspieraniu produkcji audiowizualnej
+# Ustawa z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej
 
 *USTAWA z dnia 9 listopada 2018 r.*
 

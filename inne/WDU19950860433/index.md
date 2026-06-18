@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
+# Ustawa z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 *USTAWA z dnia 22 czerwca 1995 r.*
 
@@ -876,7 +876,9 @@ source: pdf
 
 **Art. 88.** (uchylony)
 
-**Art. 89.** (uchylony) Art. 90–92. (pominięte)
+**Art. 89.** (uchylony)
+
+**Art. 90–92.** (pominięte)
 
 **Art. 93.**
 

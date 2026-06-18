@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej
+# Ustawa z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej.
 
 *USTAWA z dnia 5 lipca 2002 r.*
 

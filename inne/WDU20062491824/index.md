@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych
+# Ustawa z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługującym cywilnym niewidomym ofiarom działań wojennych
 
 *USTAWA z dnia 16 listopada 2006 r.*
 
@@ -197,7 +197,9 @@ source: pdf
 
 **Art. 12.** Świadczenia, ryczałt energetyczny, pomoc pieniężna, dodatki pielęgnacyjne i zasiłki pogrzebowe, o których mowa w niniejszej ustawie, koszty ich wypłat, koszty postępowania w sprawie wniosków o przyznanie świadczenia lub pomocy pieniężnej oraz koszty wydawania legitymacji, o których mowa w art. 11, finansowane są z budżetu państwa.
 
-**Art. 13.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. Art. 14–16. (pominięte)
+**Art. 13.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+
+**Art. 14–16.** (pominięte)
 
 **Art. 17.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r.
 

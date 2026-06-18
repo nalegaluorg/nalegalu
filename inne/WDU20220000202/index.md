@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych w związku z sytuacją na rynku gazu
+# Ustawa z dnia 26 stycznia 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych w związku z sytuacją na rynku gazu
 
 *USTAWA z dnia 26 stycznia 2022 r.*
 
@@ -53,7 +53,11 @@ source: pdf
 
 5. Niezłożenie przez odbiorcę, o którym mowa w art. 62b ust. 1 pkt 2 lit. c, oświadczenia, o którym mowa w ust. 2, uprawnia sprzedawcę paliw gazowych do niestosowania wobec tego odbiorcy taryfy, o której mowa w art. 62b ust. 1 pkt 2.
 
-6. W przypadku umów, o których mowa w ust. 1, zawartych na okres dłuższy niż rok odbiorca składa oświadczenia, o których mowa w ust. 2, nie rzadziej niż raz w roku. Art. 62bb. 1. Odbiorca paliw gazowych, o którym mowa w art. 62b ust. 1 pkt 2 lit. d, przed zawarciem ze sprzedawcą paliw gazowych umowy sprzedaży paliwa gazowego lub umowy kompleksowej składa temu sprzedawcy oświadczenie, które zawiera:
+6. W przypadku umów, o których mowa w ust. 1, zawartych na okres dłuższy niż rok odbiorca składa oświadczenia, o których mowa w ust. 2, nie rzadziej niż raz w roku.
+
+**Art. 62bb.**
+
+1. Odbiorca paliw gazowych, o którym mowa w art. 62b ust. 1 pkt 2 lit. d, przed zawarciem ze sprzedawcą paliw gazowych umowy sprzedaży paliwa gazowego lub umowy kompleksowej składa temu sprzedawcy oświadczenie, które zawiera:
 
 - **1)** oświadczenie o spełnieniu warunków pozwalających na uznanie go za odbiorcę, o którym mowa w art. 62b ust. 1 pkt 2 lit. d;
 - **2)** wskazanie danych służących określeniu szacunkowej części paliwa gazowego, które będzie zużywane na potrzeby:
@@ -66,9 +70,19 @@ source: pdf
 
 3. Osoba działająca w imieniu i na rzecz odbiorcy, o którym mowa w ust. 1, która w oświadczeniu, o którym mowa w ust. 1, określi szacowaną część paliwa gazowego, która będzie zużywana na potrzeby, o których mowa w ust. 1 pkt 2 lit. b, w sposób rażąco sprzeczny z ust. 2, ponosi na zasadzie winy odpowiedzialność wobec sprzedawcy paliw gazowych do kwoty stanowiącej iloczyn różnicy w cenie paliwa gazowego zawartej w cenniku sprzedawcy paliw gazowych a ceną w taryfie tego sprzedawcy oraz ilością paliwa gazowego zużytego na potrzeby, o których mowa w ust. 1 pkt 2 lit. b.
 
-4. Niezłożenie przez odbiorcę, o którym mowa w art. 62b ust. 1 pkt 2 lit. d, oświadczenia, o którym mowa w ust. 1, uprawnia sprzedawcę paliw gazowych do niestosowania wobec tego odbiorcy taryfy, o której mowa w art. 62b ust. 1 pkt 2. Art. 62bc. 1. Oświadczenia, o których mowa w art. 62ba ust. 2 pkt 1 i 2 oraz art. 62bb ust. 1 pkt 1 i 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+4. Niezłożenie przez odbiorcę, o którym mowa w art. 62b ust. 1 pkt 2 lit. d, oświadczenia, o którym mowa w ust. 1, uprawnia sprzedawcę paliw gazowych do niestosowania wobec tego odbiorcy taryfy, o której mowa w art. 62b ust. 1 pkt 2.
 
-2. Oświadczenia, o których mowa w art. 62ba ust. 2 i art. 62bb ust. 1, podpisuje się własnoręcznie lub podpisem posiadającym kwalifikowany certyfikat podpisu elektronicznego wystawiony przez dostawcę usług zaufania, o którym mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2021 r. poz. 1797), osoby uprawnionej do reprezentacji podmiotu. Art. 62bd. Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzory oświadczeń, o których mowa w art. 62ba ust. 2 i art. 62bb ust. 1, mając na względzie zapewnienie przejrzystości i komunikatywności tych oświadczeń oraz potrzebę ujednolicenia ich formy. Art. 62be. 1. Kto nie dopełnia obowiązku złożenia oświadczenia, o którym mowa w art. 62ba, w imieniu i na rzecz podmiotów określonych w art. 62b ust. 1 pkt 2 lit. b, podlega karze grzywny od 500 do 50 000 złotych.
+**Art. 62bc.**
+
+1. Oświadczenia, o których mowa w art. 62ba ust. 2 pkt 1 i 2 oraz art. 62bb ust. 1 pkt 1 i 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+2. Oświadczenia, o których mowa w art. 62ba ust. 2 i art. 62bb ust. 1, podpisuje się własnoręcznie lub podpisem posiadającym kwalifikowany certyfikat podpisu elektronicznego wystawiony przez dostawcę usług zaufania, o którym mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2021 r. poz. 1797), osoby uprawnionej do reprezentacji podmiotu.
+
+**Art. 62bd.** Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzory oświadczeń, o których mowa w art. 62ba ust. 2 i art. 62bb ust. 1, mając na względzie zapewnienie przejrzystości i komunikatywności tych oświadczeń oraz potrzebę ujednolicenia ich formy.
+
+**Art. 62be.**
+
+1. Kto nie dopełnia obowiązku złożenia oświadczenia, o którym mowa w art. 62ba, w imieniu i na rzecz podmiotów określonych w art. 62b ust. 1 pkt 2 lit. b, podlega karze grzywny od 500 do 50 000 złotych.
 
 2. W przypadku ukarania za czyn określony w ust. 1 sąd może orzec zakaz zajmowania stanowiska członka zarządu wspólnoty mieszkaniowej lub spółdzielni mieszkaniowej.
 

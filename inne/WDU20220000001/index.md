@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dodatku osłonowym
+# Ustawa z dnia 17 grudnia 2021 r. o dodatku osłonowym
 
 *USTAWA z dnia 17 grudnia 2021 r.*
 
@@ -140,7 +140,9 @@ source: pdf
 
 1. Sprzedawca energii elektrycznej lub sprzedawca paliw gazowych jest obowiązany do dołączenia do faktury informacji o dodatku osłonowym oraz o prawie do złożenia wniosku o jego wypłatę, każdorazowo do dnia 31 października 2022 r. lub oddzielnie, w przypadku gdy ta faktura jest wysyłana później niż w terminie 2 miesięcy od dnia wejścia w życie ustawy.
 
-2. Minister właściwy do spraw energii określi, w drodze rozporządzenia, sposób przekazywania oraz wzór informacji załączanej do faktury, o której mowa w ust. 1, kierując się potrzebą zapewnienia przejrzystości i komunikatywności informacji. Art. 6–13. (pominięte)
+2. Minister właściwy do spraw energii określi, w drodze rozporządzenia, sposób przekazywania oraz wzór informacji załączanej do faktury, o której mowa w ust. 1, kierując się potrzebą zapewnienia przejrzystości i komunikatywności informacji.
+
+**Art. 6–13.** (pominięte)
 
 **Art. 14.** Do spraw dotyczących przyznania dodatku energetycznego, o którym mowa w art. 5c ustawy zmienianej w art. 9 , wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 9 , w brzmieniu dotychczasowym.
 

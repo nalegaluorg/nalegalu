@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o niektórych formach wspierania działalności innowacyjnej oraz ustawy o Krajowym Funduszu Kapitałowym
+# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o niektórych formach wspierania działalności innowacyjnej oraz ustawy o Krajowym Funduszu Kapitałowym
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych
+# Ustawa z dnia 26 maja 1995 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz o zmianie ustawy o systemie oświaty
+# Ustawa z dnia 17 czerwca 2005 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz o zmianie ustawy o systemie oświaty
 
 *USTAWA z dnia 17 czerwca 2005 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o działalności ubezpieczeniowej
+# Ustawa z dnia 31 marca 2000 r. o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o działalności ubezpieczeniowej.
 
 *USTAWA z dnia 31 marca 2000 r.*
 

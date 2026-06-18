@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi
+# Ustawa z dnia 7 stycznia 2005 r. o zmianie ustawy o wychowaniu o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi
 
 *USTAWA z dnia 7 stycznia 2005 r.*
 

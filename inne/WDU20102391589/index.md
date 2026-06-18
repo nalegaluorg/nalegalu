@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Państwowej Straży Pożarnej
+# Ustawa z dnia 29 października 2010 r. o zmianie ustawy o Państwowej Straży Pożarnej
 
 *USTAWA z dnia 29 października 2010 r.*
 

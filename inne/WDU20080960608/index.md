@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o państwowej kompensacie przysługującej ofiarom niektórych przestępstw umyślnych
+# Ustawa z dnia 11 kwietnia 2008 r. o zmianie ustawy o państwowej kompensacie przysługującej ofiarom niektórych przestępstw umyślnych
 
 *USTAWA z dnia 11 kwietnia 2008 r.*
 

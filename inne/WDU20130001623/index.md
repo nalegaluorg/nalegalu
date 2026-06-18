@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z wdrożeniem Systemu Elektronicznej Wymiany Informacji dotyczących Zabezpieczenia Społecznego na terytorium Rzeczypospolitej Polskiej
+# Ustawa z dnia 8 listopada 2013 r. o zmianie niektórych ustaw w związku z wdrożeniem Systemu Elektronicznej Wymiany Informacji dotyczących Zabezpieczenia Społecznego na terytorium Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 8 listopada 2013 r.*
 

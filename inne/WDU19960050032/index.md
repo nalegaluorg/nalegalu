@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych
+# Ustawa z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych
 
 *USTAWA z dnia 30 listopada 1995 r.*
 

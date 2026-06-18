@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Narodowym Banku Polskim
+# Ustawa z dnia 21 maja 2010 r. o zmianie ustawy o Narodowym Banku Polskim
 
 *USTAWA z dnia 21 maja 2010 r.*
 

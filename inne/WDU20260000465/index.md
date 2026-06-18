@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o działalności kosmicznej
+# Ustawa z dnia 13 lutego 2026 r. o działalności kosmicznej
 
 *USTAWA z dnia 13 lutego 2026 r.*
 

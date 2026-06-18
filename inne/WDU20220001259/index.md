@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Sądzie Najwyższym oraz niektórych innych ustaw
+# Ustawa z dnia 9 czerwca 2022 r. o zmianie ustawy o Sądzie Najwyższym oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 czerwca 2022 r.*
 

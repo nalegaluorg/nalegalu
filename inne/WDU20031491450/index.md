@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przejęciu przez Skarb Państwa zobowiązań Zakładu Ubezpieczeń Społecznych z tytułu nieprzekazanych składek do otwartych funduszy emerytalnych
+# Ustawa z dnia 23 lipca 2003 r. o przejęciu przez Skarb Państwa zobowiązań Zakładu Ubezpieczeń Społecznych z tytułu nieprzekazanych składek do otwartych funduszy emerytalnych
 
 *USTAWA z dnia 23 lipca 2003 r.*
 

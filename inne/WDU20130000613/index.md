@@ -1103,28 +1103,54 @@ source: pdf
 - **1)** dane identyfikujące deponenta, których umieszczenie na liście deponentów jest niezbędne do ustalenia tożsamości deponenta przez podmiot dokonujący wypłat, mając na uwadze powszechność posługiwania się tymi danymi przez deponentów, możliwość dokonania za pomocą tych danych jednoznacznej identyfikacji deponenta;
 - **2)** rodzaje dokumentów stwierdzających tożsamość, za pomocą których podmiot dokonujący wypłat będzie identyfikował deponentów ubiegających się o wypłatę świadczeń gwarantowanych.
 
-3. Uchwałę, o której mowa w ust. 1, Zarząd Funduszu podaje do publicznej wiadomości, w drodze ogłoszenia w dzienniku o zasięgu ogólnokrajowym, oraz przekazuje kasom i zarządcy komisarycznemu lub podmiotowi, który będzie dokonywał wypłat środków gwarantowanych. Art. 38za. Środki na wypłatę środków gwarantowanych, przekazane podmiotowi, o którym mowa w art. 38z ust. 1 pkt 1, na podstawie uchwały Zarządu Funduszu, nie mogą być wykorzystane na żaden inny cel niż wypłata środków gwarantowanych. Środki te nie wchodzą do masy upadłości oraz nie podlegają egzekucji sądowej ani administracyjnej. Art. 38zb. 1. Koszty czynności związanych z przygotowaniem i dokonaniem wypłat środków gwarantowanych obciążają kasę, w przypadku której nastąpiło spełnienie warunku gwarancji.
+3. Uchwałę, o której mowa w ust. 1, Zarząd Funduszu podaje do publicznej wiadomości, w drodze ogłoszenia w dzienniku o zasięgu ogólnokrajowym, oraz przekazuje kasom i zarządcy komisarycznemu lub podmiotowi, który będzie dokonywał wypłat środków gwarantowanych.
+
+**Art. 38za.** Środki na wypłatę środków gwarantowanych, przekazane podmiotowi, o którym mowa w art. 38z ust. 1 pkt 1, na podstawie uchwały Zarządu Funduszu, nie mogą być wykorzystane na żaden inny cel niż wypłata środków gwarantowanych. Środki te nie wchodzą do masy upadłości oraz nie podlegają egzekucji sądowej ani administracyjnej.
+
+**Art. 38zb.**
+
+1. Koszty czynności związanych z przygotowaniem i dokonaniem wypłat środków gwarantowanych obciążają kasę, w przypadku której nastąpiło spełnienie warunku gwarancji.
 
 2. W przypadku realizacji wypłat przez podmiot, z którym Fundusz zawarł odpowiednią umowę w tym zakresie, Fundusz pokrywa koszty tych czynności.
 
 3. Z tytułu kosztów, o których mowa w ust. 2, Funduszowi przysługuje roszczenie do kasy, o której mowa w ust. 1.
 
-4. Po ogłoszeniu upadłości kasy, o której mowa w ust. 1, przepis ust. 3 stosuje się odpowiednio. Art. 38zc. Po zakończeniu wypłat podmiot, o którym mowa w art. 38z ust. 1 pkt 1, lub zarządca albo syndyk, w terminie 5 dni roboczych od ostatniego dnia wypłat, dokonuje rozliczenia przeprowadzonych wypłat, przekazując Funduszowi w szczególności:
+4. Po ogłoszeniu upadłości kasy, o której mowa w ust. 1, przepis ust. 3 stosuje się odpowiednio.
+
+**Art. 38zc.** Po zakończeniu wypłat podmiot, o którym mowa w art. 38z ust. 1 pkt 1, lub zarządca albo syndyk, w terminie 5 dni roboczych od ostatniego dnia wypłat, dokonuje rozliczenia przeprowadzonych wypłat, przekazując Funduszowi w szczególności:
 
 - **1)** listę wypłat wraz z oznaczeniem świadczeń wypłaconych i niewypłaconych;
 - **2)** dokumentację potwierdzającą dokonanie wypłat;
-- **3)** niewypłacone kwoty. Art. 38zd. 1. Roszczenia deponentów z tytułu gwarancji, nieujawnione w ramach listy deponentów, Fundusz zaspokaja w terminie 20 dni roboczych od dnia otrzymania listy deponentów uzupełnionej przez zarządcę albo syndyka lub po ustaleniu listy wierzytelności lub po stwierdzeniu prawomocnym orzeczeniem sądu wierzytelności wobec kasy, w przypadku której nastąpiło spełnienie warunku gwarancji.
+- **3)** niewypłacone kwoty.
 
-2. W przypadku dokonania wypłaty środków gwarantowanych, o których mowa w ust. 1, po ogłoszeniu upadłości kasy Zarząd Funduszu zgłasza sędziemu-komisarzowi wierzytelność z tego tytułu. Art. 38ze. 1. Jeżeli w dniu spełnienia warunku gwarancji uprawnienia z tytułu środków gwarantowanych przysługiwały następcom prawnym deponenta oraz osobom, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, i – niezależnie od przyczyny faktycznej lub prawnej – nie zostały wykazane w systemie wyliczania kasy jako uprawnienia innej osoby lub innych osób, Fundusz jest obowiązany do spełnienia wyłącznie jednego świadczenia gwarancyjnego z tytułu środków gwarantowanych, na rzecz następcy lub następców prawnych lub osób, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
+**Art. 38zd.**
+
+1. Roszczenia deponentów z tytułu gwarancji, nieujawnione w ramach listy deponentów, Fundusz zaspokaja w terminie 20 dni roboczych od dnia otrzymania listy deponentów uzupełnionej przez zarządcę albo syndyka lub po ustaleniu listy wierzytelności lub po stwierdzeniu prawomocnym orzeczeniem sądu wierzytelności wobec kasy, w przypadku której nastąpiło spełnienie warunku gwarancji.
+
+2. W przypadku dokonania wypłaty środków gwarantowanych, o których mowa w ust. 1, po ogłoszeniu upadłości kasy Zarząd Funduszu zgłasza sędziemu-komisarzowi wierzytelność z tego tytułu.
+
+**Art. 38ze.**
+
+1. Jeżeli w dniu spełnienia warunku gwarancji uprawnienia z tytułu środków gwarantowanych przysługiwały następcom prawnym deponenta oraz osobom, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, i – niezależnie od przyczyny faktycznej lub prawnej – nie zostały wykazane w systemie wyliczania kasy jako uprawnienia innej osoby lub innych osób, Fundusz jest obowiązany do spełnienia wyłącznie jednego świadczenia gwarancyjnego z tytułu środków gwarantowanych, na rzecz następcy lub następców prawnych lub osób, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
 
 2. W przypadku, o którym mowa w ust. 1:
 
 - **1)** wysokość świadczenia zostaje określona bez uwzględnienia środków gwarantowanych, jakie mogą przysługiwać następcom prawnym oraz osobom, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, z tytułu czynności dokonanych odrębnie od czynności będących podstawą powstania środków gwarantowanych poprzednika prawnego;
-- **2)** uprawnienia do odbioru środków gwarantowanych ustala się na zasadach ogólnych, zgodnie z przepisami określającymi skutki danego rodzaju następstwa prawnego oraz zasady dysponowania majątkiem, jaki należał do poprzednika prawnego. Art. 38zf. Jeżeli w dniu wypłaty środków gwarantowanych przysługiwały one wyłącznie deponentowi, a następnie weszły do majątku, do którego uprawnienia przysługują następcy lub następcom prawnym deponenta oraz osobom, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, uprawnienia do odbioru środków gwarantowanych ustala się na zasadach ogólnych, zgodnie z przepisami określającymi skutki danego rodzaju następstwa prawnego oraz zasadami dysponowania majątkiem, jaki należał do poprzednika prawnego. Art. 38zg. 1. W przypadku gdy środki zdeponowane na rachunku zostały zablokowane na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, zawiesza się wypłatę deponentowi środków gwarantowanych na czas trwania blokady.
+- **2)** uprawnienia do odbioru środków gwarantowanych ustala się na zasadach ogólnych, zgodnie z przepisami określającymi skutki danego rodzaju następstwa prawnego oraz zasady dysponowania majątkiem, jaki należał do poprzednika prawnego.
+
+**Art. 38zf.** Jeżeli w dniu wypłaty środków gwarantowanych przysługiwały one wyłącznie deponentowi, a następnie weszły do majątku, do którego uprawnienia przysługują następcy lub następcom prawnym deponenta oraz osobom, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, uprawnienia do odbioru środków gwarantowanych ustala się na zasadach ogólnych, zgodnie z przepisami określającymi skutki danego rodzaju następstwa prawnego oraz zasadami dysponowania majątkiem, jaki należał do poprzednika prawnego.
+
+**Art. 38zg.**
+
+1. W przypadku gdy środki zdeponowane na rachunku zostały zablokowane na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, zawiesza się wypłatę deponentowi środków gwarantowanych na czas trwania blokady.
 
 2. Jeżeli środki zdeponowane na rachunku zostaną uznane w całości lub w części prawomocnym wyrokiem sądu za przedmiot pochodzący bezpośrednio albo pośrednio z przestępstwa przewidzianego w art. 165a lub art. 299 Kodeksu karnego albo za korzyść z takiego przestępstwa lub za ich równowartość, przy obliczaniu świadczenia z tytułu środków gwarantowanych nie uwzględnia się środków zdeponowanych na rachunku lub odpowiedniej ich części. Środki te nie korzystają z ochrony systemu gwarantowania w części, co do której orzeczono przepadek.
 
-3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowe warunki i tryb zawieszania wypłaty środków gwarantowanych deponentom w przypadku określonym w ust. 1, uwzględniając dane, jakie powinno zawierać zawiadomienie Funduszu o prowadzonym postępowaniu karnym oraz zawiadomienie o jego zakończeniu, termin i sposób wysłania zawiadomienia, dane, jakie powinna zawierać informacja o zawieszeniu wypłaty środków gwarantowanych wysłana deponentowi, termin i sposób wysłania informacji oraz dane, jakie powinien zawierać rejestr zawieszonych wypłat środków gwarantowanych prowadzony przez Fundusz. Art. 38zh. 1. Komisja Nadzoru Finansowego przekazuje Funduszowi informacje:
+3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowe warunki i tryb zawieszania wypłaty środków gwarantowanych deponentom w przypadku określonym w ust. 1, uwzględniając dane, jakie powinno zawierać zawiadomienie Funduszu o prowadzonym postępowaniu karnym oraz zawiadomienie o jego zakończeniu, termin i sposób wysłania zawiadomienia, dane, jakie powinna zawierać informacja o zawieszeniu wypłaty środków gwarantowanych wysłana deponentowi, termin i sposób wysłania informacji oraz dane, jakie powinien zawierać rejestr zawieszonych wypłat środków gwarantowanych prowadzony przez Fundusz.
+
+**Art. 38zh.**
+
+1. Komisja Nadzoru Finansowego przekazuje Funduszowi informacje:
 
 - **1)** o stanie finansowym kasy i podejmowanych w stosunku do niej działaniach na podstawie odrębnych przepisów, w razie powzięcia wiadomości, że w kasie powstała strata, groźba jej wystąpienia lub powstało niebezpieczeństwo niewypłacalności kasy lub zagrożenie utraty płynności płatniczej, w szczególności o programie postępowania naprawczego kasy, jego ocenie i raportach z jego realizacji;
 - **2)** o wynikach przeprowadzonych czynności kontrolnych, wydanych zaleceniach, środkach, jakie zostały podjęte w celu usunięcia nieprawidłowości stwierdzonych w ramach nadzoru i o ich wykonaniu przez kasę;
@@ -1144,11 +1170,19 @@ source: pdf
 
 8. Uzyskiwane informacje dotyczące kas Fundusz może wykorzystywać tylko w celu realizacji zadań określonych w ustawie.
 
-9. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, Przewodniczącego Komisji Nadzoru Finansowego oraz Prezesa Funduszu, uwzględniając konieczność prawidłowej realizacji zadań Funduszu, może określić, w drodze rozporządzenia, zakres, tryb i terminy przekazywania przez Kasę Krajową informacji, o których mowa w ust. 7. Art. 38zi. 1. Informacje uzyskane w trybie określonym w art. 38zh mogą być wykorzystywane przez Fundusz do opracowywania analiz i prognoz dotyczących sektora kas.
+9. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, Przewodniczącego Komisji Nadzoru Finansowego oraz Prezesa Funduszu, uwzględniając konieczność prawidłowej realizacji zadań Funduszu, może określić, w drodze rozporządzenia, zakres, tryb i terminy przekazywania przez Kasę Krajową informacji, o których mowa w ust. 7.
+
+**Art. 38zi.**
+
+1. Informacje uzyskane w trybie określonym w art. 38zh mogą być wykorzystywane przez Fundusz do opracowywania analiz i prognoz dotyczących sektora kas.
 
 2. Informacje określone w ust. 1 nie mogą być udostępniane przez Fundusz innym podmiotom, z zastrzeżeniem art. 38zh ust. 5.
 
-3. Analizy i prognozy, o których mowa w ust. 1, mogą być publikowane. Fundusz może je także udostępniać zainteresowanym podmiotom. Art. 38zj. 1. Kasy informują osoby korzystające oraz zainteresowane korzystaniem z ich usług o:
+3. Analizy i prognozy, o których mowa w ust. 1, mogą być publikowane. Fundusz może je także udostępniać zainteresowanym podmiotom.
+
+**Art. 38zj.**
+
+1. Kasy informują osoby korzystające oraz zainteresowane korzystaniem z ich usług o:
 
 - **1)** swojej sytuacji ekonomiczno-finansowej;
 - **2)** uczestnictwie w ustawowym systemie gwarantowania i zasadach jego funkcjonowania, w tym o zakresie podmiotowym i przedmiotowym ochrony przysługującej ze strony tego systemu, wskazując w szczególności:
@@ -1169,9 +1203,21 @@ source: pdf
 - **1)** w jaki podawane są informacje o świadczonych usługach;
 - **2)** jednoznaczny i zrozumiały.
 
-6. Informacje o uczestnictwie w obowiązkowym systemie gwarantowania nie mogą być wykorzystywane w celach reklamowych i powinny być ograniczone wyłącznie do informacji określonych w ust. 1 i 2. Art. 38zk. Środki gwarantowane są płatne na podstawie danych znajdujących się w systemie wyliczania kasy. Art. 38zl. 1. Odpowiedzialnym za wdrożenie i utrzymywanie prawidłowo funkcjonującego systemu wyliczania oraz za zgodność danych zawartych w systemie wyliczania z zapisami w księgach rachunkowych kasy oraz z rzeczywistym stanem prawnym jest zarząd kasy.
+6. Informacje o uczestnictwie w obowiązkowym systemie gwarantowania nie mogą być wykorzystywane w celach reklamowych i powinny być ograniczone wyłącznie do informacji określonych w ust. 1 i 2.
 
-2. Za przekazywanie Funduszowi danych, o których mowa w art. 38zn ust. 1, znajdujących się w systemie wyliczania, w okresie do dnia spełnienia warunku gwarancji, jest odpowiedzialny zarząd kasy. Art. 38zm. W przypadku spełnienia warunku gwarancji zapewnienie funkcjonowania systemu wyliczania oraz przekazywania Funduszowi danych znajdujących się w systemie wyliczania jest zadaniem zarządcy komisarycznego. Art. 38zn. 1. System wyliczania zapewnia gotowość do bieżącego sporządzania danych pozwalających na identyfikację deponentów, miejsca ich zamieszkania lub siedziby oraz na określenie wysokości należnych poszczególnym deponentom środków gwarantowanych, według stanu na koniec każdego dnia.
+**Art. 38zk.** Środki gwarantowane są płatne na podstawie danych znajdujących się w systemie wyliczania kasy.
+
+**Art. 38zl.**
+
+1. Odpowiedzialnym za wdrożenie i utrzymywanie prawidłowo funkcjonującego systemu wyliczania oraz za zgodność danych zawartych w systemie wyliczania z zapisami w księgach rachunkowych kasy oraz z rzeczywistym stanem prawnym jest zarząd kasy.
+
+2. Za przekazywanie Funduszowi danych, o których mowa w art. 38zn ust. 1, znajdujących się w systemie wyliczania, w okresie do dnia spełnienia warunku gwarancji, jest odpowiedzialny zarząd kasy.
+
+**Art. 38zm.** W przypadku spełnienia warunku gwarancji zapewnienie funkcjonowania systemu wyliczania oraz przekazywania Funduszowi danych znajdujących się w systemie wyliczania jest zadaniem zarządcy komisarycznego.
+
+**Art. 38zn.**
+
+1. System wyliczania zapewnia gotowość do bieżącego sporządzania danych pozwalających na identyfikację deponentów, miejsca ich zamieszkania lub siedziby oraz na określenie wysokości należnych poszczególnym deponentom środków gwarantowanych, według stanu na koniec każdego dnia.
 
 2. Kasa przechowuje dane w systemie wyliczania w sposób zapewniający ich odtworzenie oraz dostęp do nich Komisji Nadzoru Finansowego oraz Funduszowi.
 
@@ -1181,9 +1227,17 @@ source: pdf
 
 5. Kasa stosuje odpowiednie zabezpieczenia, które zapewniają prawidłowe funkcjonowanie systemu wyliczania.
 
-6. Kasa przeprowadza co najmniej raz na 6 miesięcy test systemu wyliczania, w szczególności w zakresie ustalenia, czy spełnione zostały warunki do wykonania obowiązków ustawowych na wypadek spełnienia warunku gwarancji oraz czy zapewniona jest prawidłowość sporządzania przez kasę danych o deponentach i środkach gwarantowanych. Wyniki testów przechowywane są przez kasę w formie raportów przez 3 lata od dnia ich sporządzenia i udostępniane na żądanie Funduszowi lub Komisji Nadzoru Finansowego. Art. 38zo. 1. Kasa przekazuje Funduszowi na każde jego żądanie dane znajdujące się w systemie wyliczania pozwalające na identyfikację deponentów oraz wysokości środków gwarantowanych należnych poszczególnym deponentom. Funduszowi przysługuje prawo kontroli otrzymanych danych.
+6. Kasa przeprowadza co najmniej raz na 6 miesięcy test systemu wyliczania, w szczególności w zakresie ustalenia, czy spełnione zostały warunki do wykonania obowiązków ustawowych na wypadek spełnienia warunku gwarancji oraz czy zapewniona jest prawidłowość sporządzania przez kasę danych o deponentach i środkach gwarantowanych. Wyniki testów przechowywane są przez kasę w formie raportów przez 3 lata od dnia ich sporządzenia i udostępniane na żądanie Funduszowi lub Komisji Nadzoru Finansowego.
 
-2. W celu realizacji kontroli, o której mowa w ust. 1, Funduszowi udostępniane są dane dotyczące deponentów zawarte w zbiorach prowadzonych przez podmioty lub osoby trzecie, w szczególności dane ze zbiorów meldunkowych, zbioru danych osobowych PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych, o których mowa w odrębnych przepisach. Art. 38zp. 1. Nadzór nad prawidłowością funkcjonowania systemów wyliczania sprawuje Komisja Nadzoru Finansowego.
+**Art. 38zo.**
+
+1. Kasa przekazuje Funduszowi na każde jego żądanie dane znajdujące się w systemie wyliczania pozwalające na identyfikację deponentów oraz wysokości środków gwarantowanych należnych poszczególnym deponentom. Funduszowi przysługuje prawo kontroli otrzymanych danych.
+
+2. W celu realizacji kontroli, o której mowa w ust. 1, Funduszowi udostępniane są dane dotyczące deponentów zawarte w zbiorach prowadzonych przez podmioty lub osoby trzecie, w szczególności dane ze zbiorów meldunkowych, zbioru danych osobowych PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych, o których mowa w odrębnych przepisach.
+
+**Art. 38zp.**
+
+1. Nadzór nad prawidłowością funkcjonowania systemów wyliczania sprawuje Komisja Nadzoru Finansowego.
 
 2. W przypadku niewykonywania lub nienależytego wykonywania przez kasę obowiązków związanych z wdrożeniem i utrzymywaniem prawidłowo funkcjonującego systemu wyliczania, Komisja Nadzoru Finansowego może zastosować środki nadzorcze określone w art. 71 ust. 2 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
 
@@ -1195,7 +1249,9 @@ source: pdf
 
 6. Kasa zawiadamia Komisję Nadzoru Finansowego o członku zarządu, do którego zakresu obowiązków należy zapewnienie wdrożenia i funkcjonowania systemu wyliczania.
 
-7. Fundusz może wystąpić do Komisji Nadzoru Finansowego o podjęcie czynności kontrolnych lub środków w ramach nadzoru w zakresie kontroli prawidłowości funkcjonowania systemów wyliczania. Art. 38zq. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego oraz Funduszu, określi, w drodze rozporządzenia:
+7. Fundusz może wystąpić do Komisji Nadzoru Finansowego o podjęcie czynności kontrolnych lub środków w ramach nadzoru w zakresie kontroli prawidłowości funkcjonowania systemów wyliczania.
+
+**Art. 38zq.** Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego oraz Funduszu, określi, w drodze rozporządzenia:
 
 - **1)** minimalne wymogi, jakie powinien spełniać system wyliczania,
 - **2)** szczegółowy zakres i strukturę danych zawartych w systemie wyliczania, a także standard techniczny ich przygotowania i zapisu,

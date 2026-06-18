@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa
+# Ustawa z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
 
 *USTAWA z dnia 25 czerwca 1999 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1999-07-12 |
 | Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990600636) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/636/text.pdf) |
-
-Art. 71–80. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1123,6 +1121,8 @@ Art. 71–80. (pominięte)
 2. Okoliczności, o których mowa w ust. 1, stwierdza się na podstawie prawomocnego orzeczenia sądu.
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
+
+**Art. 71–80.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i końcowe
 

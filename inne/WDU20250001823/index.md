@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
+# Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
 
 *USTAWA z dnia 21 listopada 2025 r.*
 
@@ -113,7 +113,9 @@ source: pdf
 - **77c)** przychody z tytułu pokrytych przez Skarb Państwa kosztów zakwaterowania w kwaterze tymczasowej funkcjonariuszy Służby Więziennej, o których mowa w art. 73 ust. 1 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2025 r. poz. 1750 i 1823);”;
 - **2)** po art. 52zr dodaje się art. 52zs i art. 52zt w brzmieniu: „Art. 52zs. Zwalnia się od podatku dochodowego równoważnik pieniężny za brak lokalu mieszkalnego, do wysokości nieprzekraczającej w roku podatkowym kwoty 2280 zł, wypłacony funkcjonariuszom:
 - **1)** Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Granicznej, Państwowej Straży Pożarnej, od dnia wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (Dz. U. poz. 1366),
-- **2)** Służby Więziennej, od dnia wejścia w życie ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1823) – jeżeli prawo do tego równoważnika wynika z dotychczasowych przepisów określających zasady jego przyznania. Art. 52zt. Zwalnia się od podatku dochodowego równoważnik pieniężny za brak lokalu mieszkalnego wypłacony funkcjonariuszom Służby Ochrony Państwa od dnia wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby, jeżeli prawo do tego równoważnika wynika z dotychczasowych przepisów określających zasady jego przyznania.”.
+- **2)** Służby Więziennej, od dnia wejścia w życie ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1823) – jeżeli prawo do tego równoważnika wynika z dotychczasowych przepisów określających zasady jego przyznania.
+
+**Art. 52zt.** Zwalnia się od podatku dochodowego równoważnik pieniężny za brak lokalu mieszkalnego wypłacony funkcjonariuszom Służby Ochrony Państwa od dnia wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby, jeżeli prawo do tego równoważnika wynika z dotychczasowych przepisów określających zasady jego przyznania.”.
 
 **Art. 3.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2024 r. poz. 1121, 1243, 1562 i 1871 oraz z 2025 r. poz. 1366 i 1820) wprowadza się następujące zmiany:
 

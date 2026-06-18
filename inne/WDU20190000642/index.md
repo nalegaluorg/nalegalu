@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o żegludze śródlądowej, ustawy o organizacji rynku rybnego oraz ustawy o rybołówstwie morskim
+# Ustawa z dnia 15 marca 2019 r. o zmianie ustawy o żegludze śródlądowej, ustawy o organizacji rynku rybnego oraz ustawy o rybołówstwie morskim
 
 *USTAWA z dnia 15 marca 2019 r.*
 
@@ -211,7 +211,11 @@ source: pdf
 
 3. Dyrektor urzędu żeglugi śródlądowej odmawia dostępu do danego unijnego świadectwa zdolności żeglugowej, o którym mowa w ust. 1, w drodze decyzji, w przypadku gdy zapewnienie dostępu do unijnego świadectwa zdolności żeglugowej naruszałoby przepisy innych ustaw, w szczególności ograniczających i wyłączających dostęp do informacji.
 
-4. Za sporządzenie wyciągu lub odpisu, o których mowa w ust. 2 pkt 2, pobiera się opłatę w wysokości określonej w załączniku do ustawy. Art. 34ab. 1. Dyrektor urzędu żeglugi śródlądowej wprowadza do Bazy EHDB, niezwłocznie po ich uzyskaniu, informacje o:
+4. Za sporządzenie wyciągu lub odpisu, o których mowa w ust. 2 pkt 2, pobiera się opłatę w wysokości określonej w załączniku do ustawy.
+
+**Art. 34ab.**
+
+1. Dyrektor urzędu żeglugi śródlądowej wprowadza do Bazy EHDB, niezwłocznie po ich uzyskaniu, informacje o:
 
 - **1)** danych identyfikujących i opisujących statki, w tym jednolity europejski numer identyfikacyjny statku (ENI);
 - **2)** wydanych, odnowionych, przedłużonych i cofniętych unijnych świadectwach zdolności żeglugowej, tymczasowych unijnych świadectwach zdolności żeglugowej, uzupełniających unijnych świadectwach zdolności żeglugowej oraz wydanych duplikatach tych dokumentów, wraz ze wskazaniem organu, który dokonał wskazanej czynności – załączając ich odwzorowanie cyfrowe;
@@ -232,7 +236,11 @@ source: pdf
 
 5. Przekazywanie danych, o których mowa w ust. 1, następuje z zachowaniem przepisów o tajemnicy prawnie chronionej.
 
-6. Dane osobowe nie mogą być dalej przekazywane, chyba że dyrektor urzędu żeglugi śródlądowej wyrazi na to pisemną zgodę, określając warunki tego przekazania, w szczególności warunki wynikające z przepisów, o których mowa w ust. 4 i 5. Art. 34ac. 1. Instytucja klasyfikacyjna, mająca w Rzeczypospolitej Polskiej swoją siedzibę lub siedzibę swojego podmiotu zależnego, rozumianego jako podmiot upoważniony do wydawania decyzji w imieniu instytucji klasyfikacyjnej oraz do dokonywania wszelkich czynności, do których jest uprawniona instytucja klasyfikacyjna na podstawie przepisów dotyczących transportu śródlądowego, jeżeli ten podmiot zależny jest uprawniony do wydawania poświadczeń zgodności potwierdzających spełnienie przez statek wymagań, o których mowa w art. 34b ust. 3, może ubiegać się o uznanie przez Komisję Europejską na zasadach określonych w dyrektywie 2016/1629.
+6. Dane osobowe nie mogą być dalej przekazywane, chyba że dyrektor urzędu żeglugi śródlądowej wyrazi na to pisemną zgodę, określając warunki tego przekazania, w szczególności warunki wynikające z przepisów, o których mowa w ust. 4 i 5.
+
+**Art. 34ac.**
+
+1. Instytucja klasyfikacyjna, mająca w Rzeczypospolitej Polskiej swoją siedzibę lub siedzibę swojego podmiotu zależnego, rozumianego jako podmiot upoważniony do wydawania decyzji w imieniu instytucji klasyfikacyjnej oraz do dokonywania wszelkich czynności, do których jest uprawniona instytucja klasyfikacyjna na podstawie przepisów dotyczących transportu śródlądowego, jeżeli ten podmiot zależny jest uprawniony do wydawania poświadczeń zgodności potwierdzających spełnienie przez statek wymagań, o których mowa w art. 34b ust. 3, może ubiegać się o uznanie przez Komisję Europejską na zasadach określonych w dyrektywie 2016/1629.
 
 2. Instytucja klasyfikacyjna może zostać uznana przez Komisję Europejską, o ile spełnia następujące wymagania:
 
@@ -273,7 +281,11 @@ source: pdf
 
 5. Minister właściwy do spraw żeglugi śródlądowej niezwłocznie przekazuje wniosek wraz z załącznikami do Komisji Europejskiej.
 
-6. Minister właściwy do spraw żeglugi śródlądowej ogłasza, w drodze obwieszczenia, wykaz instytucji klasyfikacyjnych uznanych zgodnie z ust. 1. Art. 34ad. 1. Instytucja klasyfikacyjna uznana przez Komisję Europejską jest obowiązana do niezwłocznego, jednak nie później niż w terminie 30 dni od dnia wystąpienia zmiany, zawiadomienia ministra właściwego do spraw żeglugi śródlądowej o każdej zmianie:
+6. Minister właściwy do spraw żeglugi śródlądowej ogłasza, w drodze obwieszczenia, wykaz instytucji klasyfikacyjnych uznanych zgodnie z ust. 1.
+
+**Art. 34ad.**
+
+1. Instytucja klasyfikacyjna uznana przez Komisję Europejską jest obowiązana do niezwłocznego, jednak nie później niż w terminie 30 dni od dnia wystąpienia zmiany, zawiadomienia ministra właściwego do spraw żeglugi śródlądowej o każdej zmianie:
 
 - **1)** jej nazwy lub adresu,
 - **2)** dotyczącej spełnienia wymagań, o których mowa w art. 34ac ust. 2 lub 3 – załączając dokumenty i informacje potwierdzające zmianę.
@@ -320,7 +332,11 @@ source: pdf
 - **1)** sprzęt, dla którego zostało wydane to świadectwo, przestał spełniać wymogi określone w załączniku nr 5 normy europejskiej ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej, o której mowa w załączniku nr 2 do dyrektywy 2016/1629, w zakresie badania instalacji i działania radarowych instalacji nawigacyjnych, wskaźników skrętu i sprzętu AIS śródlądowego i tachografów w żegludze śródlądowej, lub
 - **2)** instalacja, wymiana, naprawa lub konserwacja sprzętu, dla którego zostało wydane to świadectwo, dokonana została przez podmiot inny niż upoważniony przedsiębiorca, o którym mowa w art. 34db ust. 1.
 
-6. Armator jest obowiązany do zwrotu świadectwa sprzętu nawigacyjnego, które utraciło ważność, do dyrektora urzędu żeglugi śródlądowej niezwłocznie, jednak nie później niż w terminie 7 dni od dnia utraty ważności tego świadectwa. Art. 34db. 1. Dyrektor urzędu żeglugi śródlądowej na wniosek przedsiębiorcy upoważnia go do instalacji, wymiany, naprawy lub konserwacji sprzętu, o którym mowa w art. 34da ust. 1, w sposób zapewniający spełnienie przez sprzęt statku wymagań określonych w załączniku nr 5 normy europejskiej ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej, o której mowa w załączniku nr 2 do dyrektywy 2016/1629, oraz do badania instalacji i działania radarowych instalacji nawigacyjnych, wskaźników skrętu i sprzętu AIS śródlądowego, tachografów, dla żeglugi śródlądowej w zakresie zgodności z wymaganiami określonymi w załączniku nr 5 normy europejskiej ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej, o której mowa w załączniku nr 2 do dyrektywy 2016/1629. Upoważnienie udzielane jest w drodze decyzji.
+6. Armator jest obowiązany do zwrotu świadectwa sprzętu nawigacyjnego, które utraciło ważność, do dyrektora urzędu żeglugi śródlądowej niezwłocznie, jednak nie później niż w terminie 7 dni od dnia utraty ważności tego świadectwa.
+
+**Art. 34db.**
+
+1. Dyrektor urzędu żeglugi śródlądowej na wniosek przedsiębiorcy upoważnia go do instalacji, wymiany, naprawy lub konserwacji sprzętu, o którym mowa w art. 34da ust. 1, w sposób zapewniający spełnienie przez sprzęt statku wymagań określonych w załączniku nr 5 normy europejskiej ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej, o której mowa w załączniku nr 2 do dyrektywy 2016/1629, oraz do badania instalacji i działania radarowych instalacji nawigacyjnych, wskaźników skrętu i sprzętu AIS śródlądowego, tachografów, dla żeglugi śródlądowej w zakresie zgodności z wymaganiami określonymi w załączniku nr 5 normy europejskiej ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej, o której mowa w załączniku nr 2 do dyrektywy 2016/1629. Upoważnienie udzielane jest w drodze decyzji.
 
 2. Dyrektor urzędu żeglugi śródlądowej upoważnia przedsiębiorcę, który:
 
@@ -340,7 +356,11 @@ source: pdf
 
 8. Minister właściwy do spraw żeglugi śródlądowej ogłasza, w drodze obwieszczenia, wykaz upoważnionych przedsiębiorców, o których mowa w ust. 1.
 
-9. Minister właściwy do spraw żeglugi śródlądowej informuje Komisję Europejską oraz inne właściwe organy państw członkowskich o organach właściwych do upoważniania przedsiębiorców, o których mowa w ust. 1. Art. 34dc. 1. Upoważniony przedsiębiorca, po przeprowadzeniu przez niego badania, o którym mowa w art. 34db ust. 1, i ustaleniu, że sprzęt spełnia wymagania określone w załączniku nr 2 do dyrektywy 2016/1629, wydaje, na wniosek armatora, świadectwo sprzętu nawigacyjnego.
+9. Minister właściwy do spraw żeglugi śródlądowej informuje Komisję Europejską oraz inne właściwe organy państw członkowskich o organach właściwych do upoważniania przedsiębiorców, o których mowa w ust. 1.
+
+**Art. 34dc.**
+
+1. Upoważniony przedsiębiorca, po przeprowadzeniu przez niego badania, o którym mowa w art. 34db ust. 1, i ustaleniu, że sprzęt spełnia wymagania określone w załączniku nr 2 do dyrektywy 2016/1629, wydaje, na wniosek armatora, świadectwo sprzętu nawigacyjnego.
 
 2. Opłata za wydanie świadectwa sprzętu nawigacyjnego stanowi przychód upoważnionego przedsiębiorcy, który wydał to świadectwo.”;
 
@@ -402,7 +422,11 @@ source: pdf
 
 2. Instytucja klasyfikacyjna uznana przez Komisję Europejską, która narusza obowiązek, o którym mowa w art. 34ad ust. 1 pkt 1, podlega karze pieniężnej w wysokości do 5000 zł.
 
-3. Instytucja klasyfikacyjna uznana przez Komisję Europejską, która uniemożliwia lub utrudnia rozpoczęcie lub przeprowadzenie kontroli na podstawie art. 34ad ust. 3, podlega karze pieniężnej w wysokości do 30 000 zł. Art. 63ab. 1. Armator, który narusza obowiązek, o którym mowa w art. 22 ust. 2 pkt 1 i 2 oraz art. 32 ust. 3a pkt 1, 2, 4 i 5, podlega karze pieniężnej w wysokości do 500 zł.
+3. Instytucja klasyfikacyjna uznana przez Komisję Europejską, która uniemożliwia lub utrudnia rozpoczęcie lub przeprowadzenie kontroli na podstawie art. 34ad ust. 3, podlega karze pieniężnej w wysokości do 30 000 zł.
+
+**Art. 63ab.**
+
+1. Armator, który narusza obowiązek, o którym mowa w art. 22 ust. 2 pkt 1 i 2 oraz art. 32 ust. 3a pkt 1, 2, 4 i 5, podlega karze pieniężnej w wysokości do 500 zł.
 
 2. Armator, który narusza obowiązek, o którym mowa w art. 32 ust. 3a pkt 3, podlega karze pieniężnej do 5000 zł.”;
 

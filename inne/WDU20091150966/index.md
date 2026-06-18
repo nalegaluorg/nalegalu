@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 25 czerwca 2009 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 25 czerwca 2009 r.*
 

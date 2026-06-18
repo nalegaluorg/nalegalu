@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pracowniczych planach kapitałowych
+# Ustawa z dnia 4 października 2018 r. o pracowniczych planach kapitałowych
 
 *USTAWA z dnia 4 października 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-11-28 |
 | Ostatnia zmiana | 2026-02-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2215/text.pdf) |
-
-Art. 112–132. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1643,6 +1641,8 @@ Art. 112–132. (pominięte)
 **Art. 111.** Orzekanie w sprawach o czyny, o których mowa w art. 106–108 i art. 110, następuje na zasadach i w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872).
 
 #### Rozdział 17 Zmiany w przepisach
+
+**Art. 112–132.** (pominięte)
 
 #### Rozdział 18 Przepisy przejściowe i końcowe
 

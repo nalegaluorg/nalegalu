@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Uniwersytetu Zielonogórskiego w Zielonej Górze
+# Ustawa z dnia 7 czerwca 2001 r. o utworzeniu Uniwersytetu Zielonogórskiego w Zielonej Górze.
 
 *USTAWA z dnia 7 czerwca 2001 r.*
 

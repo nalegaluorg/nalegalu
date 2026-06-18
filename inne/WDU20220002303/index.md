@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o repatriacji oraz niektórych innych ustaw
+# Ustawa z dnia 7 października 2022 r. zmieniająca ustawę o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 października 2022 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu
 
 *USTAWA z dnia 24 maja 2002 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-07-07 |
 | Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000902) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/902/text.pdf) |
-
-Art. 154–220. (pominięte)
 
 #### Rozdział 1 Postanowienia ogólne
 
@@ -725,7 +723,11 @@ Art. 154–220. (pominięte)
 
 13. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób niszczenia przez Szefa ABW materiałów zawierających informacje, o których mowa w ust. 9, a także wzory niezbędnych druków, mając na uwadze rodzaj materiałów podlegających zniszczeniu.
 
-14. Rada Ministrów określi, w drodze rozporządzenia, tryb i warunki przeprowadzania oceny bezpieczeństwa, mając na uwadze określenie czynności niezbędnych do jej przeprowadzenia, w tym dokonywanie uzgodnień, o których mowa w ust. 6. Art. 32aa. 1. W celu zapobiegania, przeciwdziałania i zwalczania zdarzeń o charakterze terrorystycznym lub uprawdopodabniających popełnienie przestępstwa szpiegostwa, dotyczących istotnych z punktu widzenia ciągłości funkcjonowania państwa systemów teleinformatycznych organów administracji publicznej lub sieci teleinformatycznych objętych jednolitym wykazem obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, a także systemów teleinformatycznych właścicieli, posiadaczy samoistnych i posiadaczy zależnych obiektów, instalacji lub urządzeń infrastruktury krytycznej, o których mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, lub danych przetwarzanych w tych systemach oraz rozpoznawania, zapobiegania i wykrywania przestępstw o charakterze terrorystycznym lub przestępstwa szpiegostwa w tym obszarze oraz ścigania ich sprawców, ABW wdraża w tych podmiotach system wczesnego ostrzegania o zagrożeniach występujących w sieci Internet, zwany dalej „systemem ostrzegania”, prowadzi go i koordynuje jego funkcjonowanie.
+14. Rada Ministrów określi, w drodze rozporządzenia, tryb i warunki przeprowadzania oceny bezpieczeństwa, mając na uwadze określenie czynności niezbędnych do jej przeprowadzenia, w tym dokonywanie uzgodnień, o których mowa w ust. 6.
+
+**Art. 32aa.**
+
+1. W celu zapobiegania, przeciwdziałania i zwalczania zdarzeń o charakterze terrorystycznym lub uprawdopodabniających popełnienie przestępstwa szpiegostwa, dotyczących istotnych z punktu widzenia ciągłości funkcjonowania państwa systemów teleinformatycznych organów administracji publicznej lub sieci teleinformatycznych objętych jednolitym wykazem obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, a także systemów teleinformatycznych właścicieli, posiadaczy samoistnych i posiadaczy zależnych obiektów, instalacji lub urządzeń infrastruktury krytycznej, o których mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, lub danych przetwarzanych w tych systemach oraz rozpoznawania, zapobiegania i wykrywania przestępstw o charakterze terrorystycznym lub przestępstwa szpiegostwa w tym obszarze oraz ścigania ich sprawców, ABW wdraża w tych podmiotach system wczesnego ostrzegania o zagrożeniach występujących w sieci Internet, zwany dalej „systemem ostrzegania”, prowadzi go i koordynuje jego funkcjonowanie.
 
 2. Wdrożenie elementów systemu ostrzegania w podmiotach, o których mowa w ust. 1, następuje zgodnie z rocznym planem wdrożenia, opracowywanym przez Szefa ABW w terminie do dnia 30 września roku poprzedzającego. W uzasadnionych przypadkach, na wniosek podmiotu, wdrożenie elementów systemu ostrzegania może zostać przeprowadzone z pominięciem planu.
 
@@ -2756,6 +2758,8 @@ Art. 154–220. (pominięte)
 2. Nie popełnia przestępstwa określonego w ust. 1 funkcjonariusz Agencji, który uzyskał zgodę Szefa Agencji, o której mowa w art. 37 ust. 2.
 
 #### Rozdział 11 Zmiany w przepisach obowiązujących
+
+**Art. 154–220.** (pominięte)
 
 #### Rozdział 12 Przepisy przejściowe i końcowe
 

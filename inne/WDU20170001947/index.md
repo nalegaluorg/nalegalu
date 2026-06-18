@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o statusie sędziów Trybunału Konstytucyjnego
+# Ustawa z dnia 15 września 2017 r. o zmianie ustawy o statusie sędziów Trybunału Konstytucyjnego
 
 *USTAWA z dnia 15 września 2017 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o referendum ogólnokrajowym
+# Ustawa z dnia 14 marca 2003 r. o referendum ogólnokrajowym
 
 *USTAWA z dnia 14 marca 2003 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2003-04-02 |
 | Ostatnia zmiana | 2025-03-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030570507) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/507/text.pdf) |
-
-Art. 93–95. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -871,6 +869,8 @@ Art. 93–95. (pominięte)
 3. W przypadku przeprowadzenia referendum w tym samym dniu co wybory do Parlamentu Europejskiego, w sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 #### Rozdział 13 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 93–95.** (pominięte)
 
 **Art. 96.** W przypadku pierwszego referendum ogólnokrajowego odbywającego się po dniu wejścia w życie niniejszej ustawy skróceniu ulegają terminy:
 

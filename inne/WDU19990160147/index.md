@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie zabezpieczenia majątkowego roszczeń osób trzecich z tytułu prowadzenia działalności w dziedzinie telekomunikacji lub poczty.
+# Rozporządzenie Ministra Łączności z dnia 19 lutego 1999 r. w sprawie zabezpieczenia majątkowego roszczeń osób trzecich z tytułu prowadzenia działalności w dziedzinie telekomunikacji lub poczty.
 
 | Pole | Wartość |
 |---|---|

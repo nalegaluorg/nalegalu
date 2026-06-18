@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących
 
 | Pole | Wartość |
 |---|---|
@@ -28,7 +28,6 @@ source: pdf
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących (Dz. U. poz. 1113), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 27 listopada 2024 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1847) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 lutego 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 37–41 ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących (Dz. U. poz. 1113), które stanowią: „Art. 37. W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344) w art. 6 po pkt 4a dodaje się pkt 4b w brzmieniu: „4b) budowa, przebudowa i utrzymanie elektrowni szczytowo-pompowej oraz inwestycji towarzyszącej w rozumieniu odpowiednio art. 2 pkt 1 i 5 ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących (Dz. U. poz. 1113);”.
-Art. 37–41. (pominięte)
 
 **Art. 38.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094) wprowadza się następujące zmiany:
 
@@ -621,6 +620,8 @@ Art. 37–41. (pominięte)
 **Art. 36.** Przepisów niniejszego rozdziału nie stosuje się do decyzji, o której mowa w art. 17 ust. 1, decyzji, o której mowa w art. 25 ust. 2, oraz decyzji, o której mowa w art. 26 ust. 3.
 
 #### Rozdział 5 Przepisy zmieniające, przepis epizodyczny, przepisy przejściowe i przepis końcowy
+
+**Art. 37–41.** (pominięte)
 
 **Art. 42.** Do dnia 30 czerwca 2024 r. działania polegające na planowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowej z dopływem naturalnym w górnym zbiorniku lub współpracującej z zabudowaną na zbiorniku dolnym elektrownią wodną będącą instalacją odnawialnego źródła energii w rozumieniu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2022 r. poz. 1378, 1383, 2370 i 2687) albo innej elektrowni szczytowo-pompowej spełniającej wymagania określone w rozporządzeniu Rady (UE) 2022/2577 z dnia 22 grudnia 2022 r. ustanawiającym ramy służące przyspieszeniu wdrażania rozwiązań w zakresie energii odnawialnej (Dz. Urz. UE L 335 z 29.12.2022, str. 36) lub ich inwestycji towarzyszących stanowią realizację nadrzędnego celu publicznego oraz są uznawane za służące zdrowiu i bezpieczeństwu publicznemu, o których mowa w art. 3 ust. 1 tego rozporządzenia.
 

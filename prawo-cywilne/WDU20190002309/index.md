@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo własności przemysłowej oraz ustawy o kosztach sądowych w sprawach cywilnych
+# Ustawa z dnia 16 października 2019 r. o zmianie ustawy - Prawo własności przemysłowej oraz ustawy o kosztach sądowych w sprawach cywilnych
 
 *USTAWA z dnia 16 października 2019 r.*
 

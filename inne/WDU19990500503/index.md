@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie wyborów przedterminowych do Rady Gminy Komarów-Osada.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 2 czerwca 1999 r. w sprawie wyborów przedterminowych do Rady Gminy Komarów-Osada.
 
 | Pole | Wartość |
 |---|---|

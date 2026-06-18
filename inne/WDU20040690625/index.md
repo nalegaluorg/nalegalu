@@ -12,7 +12,8 @@ domain: null
 source: pdf
 ---
 
-# o wymaganiach weterynaryjnych przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym i zwierząt cyrkowych oraz o stosowaniu substancji o działaniu hormonalnym, tyreostatycznym i beta-agonistycznym
+# Ustawa z dnia 11 marca 2004 r. o wymaganiach weterynaryjnych przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym i zwierząt cyrkowych oraz o stosowaniu substancji o działaniu hormonalnym, tyreostatycznym i beta-
+-agonistycznym
 
 *USTAWA z dnia 11 marca 2004 r.*
 
@@ -114,7 +115,11 @@ source: pdf
 
 1. Powiatowy lekarz weterynarii przeprowadza na terytorium Rzeczypospolitej Polskiej kontrolę spełniania wymagań weterynaryjnych przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym, które są określone w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 576/2013 z dnia 12 czerwca 2013 r. w sprawie przemieszczania o charakterze niehandlowym zwierząt domowych oraz uchylającym rozporządzenie (WE) nr 998/2003 (Dz. Urz. UE L 178 z 28.06.2013, str. 1), zwanym dalej „rozporządzeniem nr 576/2013”.
 
-2. Powiatowy lekarz weterynarii w przypadku stwierdzenia niespełnienia wymagań określonych w rozporządzeniu nr 576/2013 wydaje decyzję o zastosowaniu środków przewidzianych w rozporządzeniu nr 576/2013 oraz nadzoruje jej wykonanie. Art. 24aa. 1. Wymagania weterynaryjne dla przemieszczanych z państwa trzeciego lub jego terytorium zwierząt domowych towarzyszących podróżnym z gatunków, o których mowa w załączniku I w części B rozporządzenia nr 576/2013, są określone w art. 14 rozporządzenia nr 576/2013.
+2. Powiatowy lekarz weterynarii w przypadku stwierdzenia niespełnienia wymagań określonych w rozporządzeniu nr 576/2013 wydaje decyzję o zastosowaniu środków przewidzianych w rozporządzeniu nr 576/2013 oraz nadzoruje jej wykonanie.
+
+**Art. 24aa.**
+
+1. Wymagania weterynaryjne dla przemieszczanych z państwa trzeciego lub jego terytorium zwierząt domowych towarzyszących podróżnym z gatunków, o których mowa w załączniku I w części B rozporządzenia nr 576/2013, są określone w art. 14 rozporządzenia nr 576/2013.
 
 2. Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia, szczegółowe wymagania weterynaryjne dla przemieszczanych z państwa trzeciego lub jego terytorium zwierząt z gatunków, o których mowa w załączniku I w części B rozporządzenia nr 576/2013, w tym maksymalną liczbę tych zwierząt, jaka może towarzyszyć właścicielowi w rozumieniu art. 3 lit. c rozporządzenia nr 576/2013 lub osobie upoważnionej w rozumieniu art. 3 lit. d rozporządzenia nr 576/2013 podczas pojedynczego przemieszczenia o charakterze niehandlowym, oraz wzory świadectw zdrowia dla tych zwierząt, mając na względzie zapewnienie ochrony zdrowia zwierząt oraz zdrowia publicznego.
 
@@ -159,7 +164,11 @@ source: pdf
 - **1)** umieszcza na stronie internetowej administrowanej przez Główny Inspektorat Weterynarii informacje, o których mowa w art. 37 rozporządzenia nr 576/2013, oraz przekazuje Komisji Europejskiej adres tej strony;
 - **2)** powiadamia Komisję Europejską zgodnie z art. 42 rozporządzenia nr 576/2013.
 
-10. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz punktów wjazdu podróżnych oraz warunki i sposób współpracy organów Inspekcji Weterynaryjnej z organami celnymi przy kontroli przemieszczanych w celach niehandlowych zwierząt domowych towarzyszących podróżnym, mając na względzie zapewnienie sprawnego przeprowadzania kontroli przez te organy oraz ochronę zdrowia zwierząt. Art. 24ba. 1. Główny Lekarz Weterynarii może wydać zezwolenie na przemieszczenie zwierząt, o którym mowa w art. 10 ust. 3 rozporządzenia nr 576/2013.
+10. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz punktów wjazdu podróżnych oraz warunki i sposób współpracy organów Inspekcji Weterynaryjnej z organami celnymi przy kontroli przemieszczanych w celach niehandlowych zwierząt domowych towarzyszących podróżnym, mając na względzie zapewnienie sprawnego przeprowadzania kontroli przez te organy oraz ochronę zdrowia zwierząt.
+
+**Art. 24ba.**
+
+1. Główny Lekarz Weterynarii może wydać zezwolenie na przemieszczenie zwierząt, o którym mowa w art. 10 ust. 3 rozporządzenia nr 576/2013.
 
 2. Zezwolenie, o którym mowa w art. 10 ust. 3 rozporządzenia nr 576/2013, wydaje się w drodze decyzji.
 
@@ -172,7 +181,11 @@ source: pdf
 - **1)** imię, nazwisko, miejsce zamieszkania i adres właściciela albo nazwę, siedzibę i adres podmiotu przemieszczającego zwierzęta;
 - **2)** określenie liczby przemieszczanych zwierząt;
 - **3)** nazwę państwa pochodzenia przemieszczanych zwierząt;
-- **4)** określenie punktu wjazdu, o którym mowa w ust. 3, i zamierzonego terminu przemieszczenia zwierząt. Art. 24bb. 1. Główny Lekarz Weterynarii może wydać zezwolenie na przemieszczenie zwierząt domowych towarzyszących podróżnym, o którym mowa w art. 32 ust. 1 rozporządzenia nr 576/2013.
+- **4)** określenie punktu wjazdu, o którym mowa w ust. 3, i zamierzonego terminu przemieszczenia zwierząt.
+
+**Art. 24bb.**
+
+1. Główny Lekarz Weterynarii może wydać zezwolenie na przemieszczenie zwierząt domowych towarzyszących podróżnym, o którym mowa w art. 32 ust. 1 rozporządzenia nr 576/2013.
 
 2. Zezwolenie, o którym mowa w art. 32 ust. 1 rozporządzenia nr 576/2013, wydaje się w drodze decyzji po uzgodnieniu z powiatowym lekarzem weterynarii właściwym dla miejsca przeznaczenia zwierząt miejsca oraz warunków kwarantanny zwierząt.
 
@@ -239,7 +252,11 @@ source: pdf
 
 5. Okręgowa rada lekarsko-weterynaryjna rozpatruje odwołanie od decyzji, o której mowa w ust. 3, oraz wydaje uchwałę w tej sprawie.
 
-6. W zakresie nieuregulowanym ustawą w sprawach wpisu, odmowy wpisu do rejestru i skreślenia z rejestru oraz wydawania paszportów stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego. Art. 24ea. 1. Lekarz weterynarii, o którym mowa w art. 24d ust. 1, przekazuje okręgowej radzie lekarsko-weterynaryjnej właściwej dla lekarza wydającego paszport informację o wydaniu paszportu zawierającą następujące dane:
+6. W zakresie nieuregulowanym ustawą w sprawach wpisu, odmowy wpisu do rejestru i skreślenia z rejestru oraz wydawania paszportów stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego.
+
+**Art. 24ea.**
+
+1. Lekarz weterynarii, o którym mowa w art. 24d ust. 1, przekazuje okręgowej radzie lekarsko-weterynaryjnej właściwej dla lekarza wydającego paszport informację o wydaniu paszportu zawierającą następujące dane:
 
 - **1)** imię i nazwisko, miejsce zamieszkania i adres oraz numer telefonu i adres poczty elektronicznej posiadacza zwierząt;
 - **2)** gatunek, rasę i płeć zwierzęcia;

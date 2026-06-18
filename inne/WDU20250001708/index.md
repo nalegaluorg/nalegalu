@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zakazie stosowania wyrobów zawierających azbest
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zakazie stosowania wyrobów zawierających azbest
 
 | Pole | Wartość |
 |---|---|

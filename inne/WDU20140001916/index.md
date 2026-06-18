@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o usługach płatniczych
+# Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy o usługach płatniczych
 
 *USTAWA z dnia 28 listopada 2014 r.*
 

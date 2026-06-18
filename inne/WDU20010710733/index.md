@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego
+# Ustawa z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego.
 
 *USTAWA z dnia 21 czerwca 2001 r.*
 

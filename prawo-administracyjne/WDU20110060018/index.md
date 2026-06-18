@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania administracyjnego oraz ustawy – Prawo o postępowaniu przed sądami administracyjnymi
+# Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy - Kodeks postępowania administracyjnego oraz ustawy - Prawo o postępowaniu przed sądami administracyjnymi
 
 *USTAWA z dnia 3 grudnia 2010 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o postępowaniu w sprawach dotyczących pomocy publicznej
+# Ustawa z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej
 
 *USTAWA z dnia 30 kwietnia 2004 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2004-05-31 |
 | Ostatnia zmiana | 2026-05-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041231291) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1291/text.pdf) |
-
-Art. 47–62. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -551,6 +549,8 @@ Art. 47–62. (pominięte)
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
 
+**Art. 47–62.** (pominięte)
+
 #### Rozdział 10 Przepisy przejściowe i końcowe
 
 **Art. 63.** W okresie 3 lat od dnia wejścia w życie niniejszej ustawy, w celu stwierdzenia, czy planowana pomoc dla przedsiębiorcy jest pomocą de minimis, podmiot udzielający pomocy bierze pod uwagę sumę:
@@ -560,7 +560,9 @@ Art. 47–62. (pominięte)
 
 **Art. 64.** Z dniem wejścia w życie niniejszej ustawy postępowania o wydanie opinii przez Prezesa Urzędu prowadzone w trybie art. 24 lub 25 ustawy, o której mowa w art. 71, ulegają umorzeniu.
 
-**Art. 65.** Jeżeli akty normatywne, o których mowa w art. 6 ust. 2, nie są programami pomocowymi, podmioty właściwe są zobowiązane do przygotowania projektów odpowiednich zmian w tych aktach w terminie 1 miesiąca od dnia wejścia w życie niniejszej ustawy. Art. 66–69. (pominięte)
+**Art. 65.** Jeżeli akty normatywne, o których mowa w art. 6 ust. 2, nie są programami pomocowymi, podmioty właściwe są zobowiązane do przygotowania projektów odpowiednich zmian w tych aktach w terminie 1 miesiąca od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 66–69.** (pominięte)
 
 **Art. 70.**
 

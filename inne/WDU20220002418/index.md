@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przedłużeniu kadencji organów jednostek samorządu terytorialnego
+# Ustawa z dnia 29 września 2022 r. o przedłużeniu kadencji organów jednostek samorządu terytorialnego
 
 *USTAWA z dnia 29 września 2022 r.*
 

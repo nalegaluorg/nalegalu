@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
 
 | Pole | Wartość |
 |---|---|
@@ -348,7 +348,9 @@ o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
 
 3. Rada nadzorcza Funduszu jest zdolna do wykonywania swoich zadań i podejmowania uchwał, jeżeli liczba jej członków wynosi niemniej niż 6 osób.
 
-4. W przypadku gdy liczba członków rady nadzorczej Funduszu wynosi mniej niż 7 osób, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 7 osób. Art. 21–23. (pominięte)
+4. W przypadku gdy liczba członków rady nadzorczej Funduszu wynosi mniej niż 7 osób, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 7 osób.
+
+**Art. 21–23.** (pominięte)
 
 **Art. 23a.**
 

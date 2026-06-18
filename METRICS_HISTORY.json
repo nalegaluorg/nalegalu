@@ -144,16 +144,16 @@
     "date": "2026-06-18",
     "published": 19261,
     "rejected": 415,
-    "total_body_chars": 587474999,
-    "total_articles": 208233,
+    "total_body_chars": 587843488,
+    "total_articles": 214369,
     "sources": {
-      "pdf": 18986,
-      "eli-html": 246,
+      "pdf": 18994,
+      "eli-html": 238,
       "unknown": 29
     },
     "act_types": {
-      "Rozporządzenie": 10328,
-      "Ustawa": 4839,
+      "Rozporządzenie": 10326,
+      "Ustawa": 4841,
       "Obwieszczenie": 2324,
       "Orzeczenie": 1373,
       "Umowa międzynarodowa": 329,
@@ -169,10 +169,11 @@
       "Oświadczenie": 1
     },
     "statuses": {
-      "obowiązujący": 11795,
-      "akt objęty tekstem jednolitym": 5062,
-      "akt posiada tekst jednolity": 1890,
-      "nieobowiązujący - uchylona podstawa prawna": 514
+      "obowiązujący": 11792,
+      "akt objęty tekstem jednolitym": 5064,
+      "akt posiada tekst jednolity": 1888,
+      "nieobowiązujący - uchylona podstawa prawna": 514,
+      "wygaśnięcie aktu": 3
     },
     "domains": {
       "inne": 18375,
@@ -194,9 +195,9 @@
       "prawo-konstytucyjne": 2
     },
     "consolidated_article_coverage": {
-      "checked": 636,
+      "checked": 634,
       "with_gaps": 448,
-      "unexplained_gaps": 14526
+      "unexplained_gaps": 14525
     }
   }
 ]

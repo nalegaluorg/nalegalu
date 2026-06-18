@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo oświatowe oraz ustawy o finansowaniu zadań oświatowych
+# Ustawa z dnia 15 września 2022 r. o zmianie ustawy - Prawo oświatowe oraz ustawy o finansowaniu zadań oświatowych
 
 *USTAWA z dnia 15 września 2022 r.*
 

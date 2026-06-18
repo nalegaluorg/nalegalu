@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz niektórych innych ustaw
+# Ustawa z dnia 23 lipca 2021 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz niektórych innych ustaw
 
 *USTAWA z dnia 23 lipca 2021 r.*
 

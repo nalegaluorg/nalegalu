@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju
+# Ustawa z dnia 6 lipca 2001 r. o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju.
 
 *USTAWA z dnia 6 lipca 2001 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# p
+# Ustawa z dnia 27 sierpnia 2009 r. o zmianie ustawy - Prawo budowlane oraz ustawy o gospodarce nieruchomościami
 
 | Pole | Wartość |
 |---|---|

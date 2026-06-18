@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin
+# Ustawa z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin.
 
 *USTAWA z dnia 29 maja 1974 r.*
 

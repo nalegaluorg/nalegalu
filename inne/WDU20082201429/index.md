@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego
+# Ustawa z dnia 23 października 2008 r. zmieniająca ustawę o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego
 
 *USTAWA z dnia 23 października 2008 r.*
 

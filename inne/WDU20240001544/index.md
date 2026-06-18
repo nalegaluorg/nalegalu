@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o delegowaniu kierowców w transporcie drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 25 września 2024 r. o zmianie ustawy o delegowaniu kierowców w transporcie drogowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 25 września 2024 r.*
 

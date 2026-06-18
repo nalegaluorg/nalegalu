@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Funduszu Kolejowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Kolejowym
 
 *USTAWA z dnia 16 grudnia 2005 r.*
 

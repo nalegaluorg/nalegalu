@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych
 
 *USTAWA z dnia 1 grudnia 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-03-18 |
 | Ostatnia zmiana | 2025-06-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000339) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/339/text.pdf) |
-
-Art. 206–217. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1748,6 +1746,8 @@ Art. 206–217. (pominięte)
 3. Postępowanie w sprawach, o których mowa w ust. 1, toczy się według przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544).
 
 #### Rozdział 9 Zmiany w przepisach
+
+**Art. 206–217.** (pominięte)
 
 #### Rozdział 10 Przepisy przejściowe i przepis końcowy
 

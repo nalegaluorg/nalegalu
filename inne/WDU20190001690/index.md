@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy społecznej oraz ustawy o ochronie zdrowia psychicznego
+# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o pomocy społecznej oraz ustawy o ochronie zdrowia psychicznego
 
 *USTAWA z dnia 19 lipca 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uregulowaniu stanu prawnego niektórych nieruchomości pozostających we władaniu Polskiego Autokefalicznego Kościoła Prawosławnego
+# Ustawa z dnia 17 grudnia 2009 r. o uregulowaniu stanu prawnego niektórych nieruchomości pozostających we władaniu Polskiego Autokefalicznego Kościoła Prawosławnego
 
 *USTAWA z dnia 17 grudnia 2009 r.*
 

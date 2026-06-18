@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kierujących pojazdami
+# Ustawa z dnia 10 maja 2018 r. o zmianie ustawy o kierujących pojazdami
 
 *USTAWA z dnia 10 maja 2018 r.*
 

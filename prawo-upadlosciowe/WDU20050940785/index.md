@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo upadłościowe i naprawcze
+# Ustawa z dnia 15 kwietnia 2005 r. o zmianie ustawy - Prawo upadłościowe i naprawcze
 
 *USTAWA z dnia 15 kwietnia 2005 r.*
 

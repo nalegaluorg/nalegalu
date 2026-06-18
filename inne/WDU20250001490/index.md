@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o transporcie drogowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o transporcie drogowym
 
 *USTAWA z dnia 6 września 2001 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-10-29 |
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001490) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1490/text.pdf) |
-
-Art. 97–103. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1648,7 +1646,11 @@ Art. 97–103. (pominięte)
 - **10)** wykorzystywanego na obszarach wiejskich w ramach własnej działalności gospodarczej kierowcy, który nie oferuje usług przewozowych, a przewóz ma charakter sporadyczny i nie wpływa na bezpieczeństwo ruchu drogowego;
 - **11)** który jest wykorzystywany lub wynajęty bez kierowcy przez przedsiębiorstwo rolnicze, ogrodnicze, leśne, gospodarstwo rolne lub rybackie do przewozu rzeczy w ramach własnej działalności gospodarczej, chyba że prowadzenie pojazdu stanowi część głównego zajęcia kierowcy lub kierowanie pojazdem przekracza odległość 100 km od siedziby przedsiębiorstwa lub gospodarstwa.
 
-4. Wymagań, o których mowa w ust. 1 pkt 1, 5 i 6, nie stosuje się do kierowcy pojazdu, do kierowania którym jest wymagane prawo jazdy kategorii AM, A1, A2, A, B1, B lub B+E. Art. 39aa. 1. Szkolenie osób zamierzających wykonywać przewóz drogowy lub wykonujących przewóz drogowy na stanowisku kierowcy jest prowadzone przez:
+4. Wymagań, o których mowa w ust. 1 pkt 1, 5 i 6, nie stosuje się do kierowcy pojazdu, do kierowania którym jest wymagane prawo jazdy kategorii AM, A1, A2, A, B1, B lub B+E.
+
+**Art. 39aa.**
+
+1. Szkolenie osób zamierzających wykonywać przewóz drogowy lub wykonujących przewóz drogowy na stanowisku kierowcy jest prowadzone przez:
 
 - **1)** ośrodek szkolenia – w ramach kwalifikacji wstępnej, kwalifikacji wstępnej przyśpieszonej, kwalifikacji wstępnej uzupełniającej, kwalifikacji wstępnej uzupełniającej przyśpieszonej oraz szkolenia okresowego, w zakresie bloku programowego określonego odpowiednio do kategorii prawa jazdy C1, C1+E, C i C+E lub D1, D1+E, D i D+E;
 - **2)** szkołę ponadpodstawową, prowadzącą kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160), przewiduje przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy – w ramach kwalifikacji wstępnej w zakresie bloku programowego określonego do kategorii prawa jazdy C1, C1+E, C i C+E;
@@ -1934,7 +1936,11 @@ Art. 97–103. (pominięte)
 - **1)** zawarł umowę na przeprowadzanie zajęć z ośrodkiem doskonalenia techniki jazdy, o którym mowa w przepisach ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, lub
 - **2)** posiada urządzenie techniczne do symulowania jazdy w warunkach specjalnych, spełniające wymagania określone w przepisach wydanych na podstawie ust. 12, posiadające ważny certyfikat wydany przez jednostkę akredytowaną w polskim systemie akredytacji, który potwierdza spełnienie tych wymagań przez to urządzenie.
 
-12. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wymagania techniczno-organizacyjne oraz zakres funkcjonalności realizowanej przez urządzenie, o którym mowa w ust. 11 pkt 2, uwzględniając potrzebę zapewnienia wykorzystania podczas szkolenia urządzeń spełniających jednolite wymagania. Art. 39ga. 1. Wojewoda jest obowiązany dokonać wpisu przedsiębiorcy do rejestru przedsiębiorców prowadzących ośrodek szkolenia w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z dokumentami, o których mowa w art. 39g ust. 5, oraz oświadczeniem, o którym mowa w art. 39g ust. 6.
+12. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wymagania techniczno-organizacyjne oraz zakres funkcjonalności realizowanej przez urządzenie, o którym mowa w ust. 11 pkt 2, uwzględniając potrzebę zapewnienia wykorzystania podczas szkolenia urządzeń spełniających jednolite wymagania.
+
+**Art. 39ga.**
+
+1. Wojewoda jest obowiązany dokonać wpisu przedsiębiorcy do rejestru przedsiębiorców prowadzących ośrodek szkolenia w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z dokumentami, o których mowa w art. 39g ust. 5, oraz oświadczeniem, o którym mowa w art. 39g ust. 6.
 
 2. Jeżeli wojewoda nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu do niego wniosku upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy wojewoda wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
 
@@ -1975,9 +1981,17 @@ Art. 97–103. (pominięte)
 
 3c. Wojewoda wykreśla przedsiębiorcę z rejestru przedsiębiorców prowadzących ośrodek szkolenia na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
 
-4. Dane o wykreśleniu przedsiębiorcy z rejestru przedsiębiorców prowadzących ośrodek szkolenia wojewoda przekazuje do centralnej ewidencji kierowców na zasadach określonych w art. 100ac ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym. Art. 39ha. 1. Przedsiębiorca, którego wykreślono z rejestru przedsiębiorców prowadzących ośrodek szkolenia, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 39h ust. 2 pkt 3.
+4. Dane o wykreśleniu przedsiębiorcy z rejestru przedsiębiorców prowadzących ośrodek szkolenia wojewoda przekazuje do centralnej ewidencji kierowców na zasadach określonych w art. 100ac ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
-2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru przedsiębiorców prowadzących ośrodek szkolenia. Nie dotyczy to sytuacji określonej w art. 39ga ust. 2. Art. 39hb. 1. Wojewoda właściwy ze względu na siedzibę branżowego centrum umiejętności prowadzącego szkolenie, o którym mowa w art. 39aa ust. 1a, sprawuje nadzór nad prowadzeniem tego szkolenia.
+**Art. 39ha.**
+
+1. Przedsiębiorca, którego wykreślono z rejestru przedsiębiorców prowadzących ośrodek szkolenia, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 39h ust. 2 pkt 3.
+
+2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru przedsiębiorców prowadzących ośrodek szkolenia. Nie dotyczy to sytuacji określonej w art. 39ga ust. 2.
+
+**Art. 39hb.**
+
+1. Wojewoda właściwy ze względu na siedzibę branżowego centrum umiejętności prowadzącego szkolenie, o którym mowa w art. 39aa ust. 1a, sprawuje nadzór nad prowadzeniem tego szkolenia.
 
 2. Branżowe centrum umiejętności prowadzące szkolenie, o którym mowa w art. 39aa ust. 1a, informuje wojewodę o rozpoczęciu prowadzenia szkolenia.
 
@@ -2482,7 +2496,19 @@ Art. 97–103. (pominięte)
 
 7. Minister właściwy do spraw transportu, w terminie do dnia 31 grudnia, zatwierdza jednolitą krajową strategię kontroli, o której mowa w ust. 2 pkt 5a, po uzgodnieniu jej treści z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw finansów publicznych.
 
-**Art. 54a.** (uchylony) Art. 54aa. 1. Główny Inspektor Transportu Drogowego przekazuje informacje, o których mowa w art. 54 ust. 2 pkt 10a, w indywidualnym przypadku na uzasadniony wniosek innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w terminie 25 dni roboczych od dnia otrzymania wniosku. Główny Inspektor Transportu Drogowego może ustalić z państwem występującym z uzasadnionym wnioskiem o informację krótszy termin na jej udzielenie. 2. W pilnych przypadkach lub przypadkach wymagających jedynie prostego sprawdzenia rejestrów, takich jak rejestry systemu oceny ryzyka, informacje będące przedmiotem wniosku są przekazywane w terminie trzech dni roboczych od dnia otrzymania wniosku. 3. W przypadku gdy złożony wniosek nie jest wystarczająco uzasadniony, Główny Inspektor Transportu Drogowego informuje o tym wnioskujące państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym, w terminie 10 dni roboczych od dnia otrzymania wniosku. Jeżeli wnioskujące państwo nie przedstawi dodatkowego uzasadnienia wniosku, Główny Inspektor Transportu Drogowego informuje o odmowie jego rozpatrzenia. 4. Jeżeli udzielenie informacji będących przedmiotem wniosku jest utrudnione lub niemożliwe, Główny Inspektor Transportu Drogowego informuje o tym wnioskujące państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym w terminie 10 dni roboczych od dnia otrzymania wniosku i przedstawia powody uzasadniające taką trudność lub brak możliwości udzielenia informacji. 5. Informacje, o których mowa w art. 54 ust. 2 pkt 10a, są udostępniane za pośrednictwem systemu wymiany informacji na rynku wewnętrznym (IMI) ustanowionego rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającym decyzję Komisji 2008/49/WE („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm. ), z wyjątkiem informacji przekazywanych na podstawie przepisów odrębnych za pośrednictwem Krajowego Rejestru Elektronicznego Przedsiębiorców Transportu Drogowego.
+**Art. 54a.** (uchylony)
+
+**Art. 54aa.**
+
+1. Główny Inspektor Transportu Drogowego przekazuje informacje, o których mowa w art. 54 ust. 2 pkt 10a, w indywidualnym przypadku na uzasadniony wniosek innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w terminie 25 dni roboczych od dnia otrzymania wniosku. Główny Inspektor Transportu Drogowego może ustalić z państwem występującym z uzasadnionym wnioskiem o informację krótszy termin na jej udzielenie.
+
+2. W pilnych przypadkach lub przypadkach wymagających jedynie prostego sprawdzenia rejestrów, takich jak rejestry systemu oceny ryzyka, informacje będące przedmiotem wniosku są przekazywane w terminie trzech dni roboczych od dnia otrzymania wniosku.
+
+3. W przypadku gdy złożony wniosek nie jest wystarczająco uzasadniony, Główny Inspektor Transportu Drogowego informuje o tym wnioskujące państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym, w terminie 10 dni roboczych od dnia otrzymania wniosku. Jeżeli wnioskujące państwo nie przedstawi dodatkowego uzasadnienia wniosku, Główny Inspektor Transportu Drogowego informuje o odmowie jego rozpatrzenia.
+
+4. Jeżeli udzielenie informacji będących przedmiotem wniosku jest utrudnione lub niemożliwe, Główny Inspektor Transportu Drogowego informuje o tym wnioskujące państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym w terminie 10 dni roboczych od dnia otrzymania wniosku i przedstawia powody uzasadniające taką trudność lub brak możliwości udzielenia informacji.
+
+5. Informacje, o których mowa w art. 54 ust. 2 pkt 10a, są udostępniane za pośrednictwem systemu wymiany informacji na rynku wewnętrznym (IMI) ustanowionego rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającym decyzję Komisji 2008/49/WE („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm. ), z wyjątkiem informacji przekazywanych na podstawie przepisów odrębnych za pośrednictwem Krajowego Rejestru Elektronicznego Przedsiębiorców Transportu Drogowego.
 
 **Art. 54b.**
 
@@ -2706,7 +2732,9 @@ Art. 97–103. (pominięte)
 
 2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a i pkt 2 oraz w art. 47 pkt 1, pkt 2 lit. a, pkt 3, 5 i 6 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, inspektor może użyć broni palnej lub ją wykorzystać.
 
-3. Użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej. Art. 58–65. (uchylone)
+3. Użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
+
+**Art. 58–65.** (uchylone)
 
 **Art. 66.**
 
@@ -3735,6 +3763,8 @@ Art. 97–103. (pominięte)
 #### Rozdział 11a
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 97–103.** (pominięte)
 
 **Art. 104.**
 

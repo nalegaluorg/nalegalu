@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu ułatwienia prowadzenia przez rolników rolniczego handlu detalicznego
+# Ustawa z dnia 15 grudnia 2021 r. o zmianie niektórych ustaw w celu ułatwienia prowadzenia przez rolników rolniczego handlu detalicznego
 
 *USTAWA z dnia 15 grudnia 2021 r.*
 

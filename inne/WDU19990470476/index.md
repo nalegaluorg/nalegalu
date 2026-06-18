@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia odległości i warunków dopuszczających usytuowanie drzew krzewów, elementów ochrony akustycznej, wykonywanie robót ziemnych, budynków lub budowli w sąsiedztwie linii kolejowych oraz sposobu urządzania i utrzymywania zasłon odśnieżnych i pasów przeciwpożarowych.
+# Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 5 maja 1999 r. w sprawie określenia odległości i warunków dopuszczających usytuowanie drzew lub krzewów elementów ochrony akustycznej, wykonywanie robót ziemnych, budynków lub budowli w sąsiedztwie linii kolejowych oraz sposobu urządzania i utrzymywania zasłon odśnieżnych i pasów przeciwpożarowych.
 
 | Pole | Wartość |
 |---|---|

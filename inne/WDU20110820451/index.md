@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych
+# Ustawa z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych
 
 *USTAWA z dnia 18 marca 2011 r.*
 

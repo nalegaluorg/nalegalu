@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o specjalnych strefach ekonomicznych oraz o zmianie niektórych ustaw
+# Ustawa z dnia 16 listopada 2000 r. o zmianie ustawy o specjalnych strefach ekonomicznych oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 16 listopada 2000 r.*
 

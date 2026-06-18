@@ -538,7 +538,9 @@ source: pdf
 
 **Art. 45.** Osoby pragnące założyć stowarzyszenie prowadzące działalność bezpośrednio związaną z obronnością albo bezpieczeństwem państwa lub ochroną porządku publicznego są obowiązane uzgodnić zakres tej działalności, odpowiednio, z Ministrem Obrony Narodowej lub ministrem właściwym do spraw wewnętrznych albo organami przez nich określonymi.
 
-**Art. 46.** (uchylony) Art. 47–50. (pominięte)
+**Art. 46.** (uchylony)
+
+**Art. 47–50.** (pominięte)
 
 **Art. 51.**
 

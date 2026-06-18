@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
+# Ustawa z dnia 13 stycznia 2023 r. o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
 
 *USTAWA z dnia 13 stycznia 2023 r.*
 
@@ -345,7 +345,9 @@ source: pdf
 
 3. Rada nadzorcza Funduszu jest zdolna do wykonywania swoich zadań i podejmowania uchwał, jeżeli liczba jej członków wynosi nie mniej niż 6 osób.
 
-4. W przypadku gdy liczba członków rady nadzorczej Funduszu wynosi mniej niż 7 osób, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 7 osób. Art. 21–23. (pominięte)
+4. W przypadku gdy liczba członków rady nadzorczej Funduszu wynosi mniej niż 7 osób, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 7 osób.
+
+**Art. 21–23.** (pominięte)
 
 **Art. 23a.**
 

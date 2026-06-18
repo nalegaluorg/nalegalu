@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy państwa w oszczędzaniu na cele mieszkaniowe
+# Ustawa z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe
 
 *USTAWA z dnia 26 maja 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-06-15 |
 | Ostatnia zmiana | 2025-08-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001114) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1114/text.pdf) |
-
-Art. 21–29. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -392,6 +390,8 @@ Art. 21–29. (pominięte)
 2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu lub interesie innej osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
 #### Rozdział 6 Zmiany w przepisach
+
+**Art. 21–29.** (pominięte)
 
 #### Rozdział 7 Przepis epizodyczny, przepisy przejściowe, przepisy dostosowujące oraz przepis końcowy
 

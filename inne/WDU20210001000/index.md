@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw
+# Ustawa z dnia 14 kwietnia 2021 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 kwietnia 2021 r.*
 

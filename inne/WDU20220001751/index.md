@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Polskiej Organizacji Turystycznej oraz ustawy o grach hazardowych
+# Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy o Polskiej Organizacji Turystycznej oraz ustawy o grach hazardowych
 
 *USTAWA z dnia 5 sierpnia 2022 r.*
 

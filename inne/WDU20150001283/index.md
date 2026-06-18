@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatkach i opłatach lokalnych
+# Ustawa z dnia 23 lipca 2015 r. o zmianie ustawy o podatkach i opłatach lokalnych
 
 *USTAWA z dnia 23 lipca 2015 r.*
 

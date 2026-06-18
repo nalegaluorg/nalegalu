@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o samorządzie województwa
+# Ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa.
 
 *USTAWA z dnia 5 czerwca 1998 r.*
 

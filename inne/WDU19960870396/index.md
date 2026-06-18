@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Karta Nauczyciela
+# Ustawa z dnia 14 czerwca 1996 r. o zmianie ustawy - Karta Nauczyciela.
 
 *USTAWA z dnia 14 czerwca 1996 r.*
 

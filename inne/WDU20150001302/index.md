@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy osobom uprawnionym do alimentów, ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o świadczeniach rodzinnych
+# Ustawa z dnia 24 lipca 2015 r. o zmianie ustawy o pomocy osobom uprawnionym do alimentów, ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o świadczeniach rodzinnych
 
 *USTAWA z dnia 24 lipca 2015 r.*
 

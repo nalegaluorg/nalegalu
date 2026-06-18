@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Polskim Instytucie Ekonomicznym
+# Ustawa z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomicznym
 
 *USTAWA z dnia 20 lipca 2018 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 20 lipca 2018 r.
 o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania
-Art. 25–29. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -506,6 +505,8 @@ Art. 25–29. (pominięte)
 - **2)** SAN.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 25–29.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe i przepis końcowy
 

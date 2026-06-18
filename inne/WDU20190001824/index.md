@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu usprawnienia procesu wydatkowania środków finansowych w ramach systemów wsparcia bezpośredniego oraz w ramach działań objętych zintegrowanym systemem zarządzania i kontroli
+# Ustawa z dnia 30 sierpnia 2019 r. o zmianie niektórych ustaw w celu usprawnienia procesu wydatkowania środków finansowych w ramach systemów wsparcia bezpośredniego oraz w ramach działań objętych zintegrowanym systemem zarządzania i kontroli
 
 *USTAWA z dnia 30 sierpnia 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych
 
 | Pole | Wartość |
 |---|---|
@@ -36,7 +36,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 29 sierpnia 1997 r.
 o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych
-Art. 46–48. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -544,6 +543,8 @@ Art. 46–48. (pominięte)
 #### Rozdział 5a (uchylony)
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 46–48.** (pominięte)
 
 **Art. 49.**
 

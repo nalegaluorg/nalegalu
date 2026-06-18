@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej oraz niektórych innych ustaw
+# Ustawa z dnia 4 marca 2004 r. o zmianie ustawy o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej oraz niektórych innych ustaw
 
 *USTAWA z dnia 4 marca 2004 r.*
 

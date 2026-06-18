@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przedłużeniu kadencji kolegiów odwoławczych przy sejmikach samorządowych oraz o zmianie ustawy o ustroju miasta stołecznego Warszawy
+# Ustawa z dnia 24 czerwca 1994 r. o przedłużeniu kadencji kolegiów odwoławczych przy sejmikach samorządowych oraz o zmianie ustawy o ustroju miasta stołecznego Warszawy.
 
 *USTAWA z dnia 24 czerwca 1994 r.*
 

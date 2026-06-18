@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo o ruchu drogowym oraz o zmianie ustawy o podatkach i opłatach lokalnych
+# Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy - Prawo o ruchu drogowym oraz o zmianie ustawy o podatkach i opłatach lokalnych
 
 *USTAWA z dnia 20 kwietnia 2004 r.*
 

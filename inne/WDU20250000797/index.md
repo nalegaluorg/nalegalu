@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o delegowaniu kierowców w transporcie drogowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o delegowaniu kierowców w transporcie drogowym
 
 | Pole | Wartość |
 |---|---|
@@ -42,7 +42,6 @@ poz. 479, z późn. zm. ) wprowadza się następujące zmiany:
 a) w § 9 po wyrazach „o których mowa w art. 2 § 1 pkt 8 lit. g” dodaje się wyrazy „oraz i”,
 b) w § 10 w pkt 2 po wyrazach „o których mowa w art. 2 § 1 pkt 8 lit. g” dodaje się wyrazy „oraz i”;
 11) w art. 166c w § 2 wyrazy „o których mowa w art. 2 § 1 pkt 8 lit. g i h” zastępuje się wyrazami „o których mowa w art. 2 § 1 pkt 8 lit. g, h oraz i”.
-Art. 37–44. (pominięte)
 
 **Art. 38.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. ) w art. 21:
 
@@ -674,6 +673,8 @@ Art. 37–44. (pominięte)
 **Art. 36.** Wpływy z kar, o których mowa w art. 33 ust. 1, art. 34 ust. 1 i art. 35 ust. 1, nałożonych przez Państwową Inspekcję Pracy stanowią dochód budżetu państwa.
 
 #### Rozdział 8 Przepisy zmieniające
+
+**Art. 37–44.** (pominięte)
 
 #### Rozdział 9 Przepisy dostosowujące, przejściowe i końcowe
 

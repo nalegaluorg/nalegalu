@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o radiofonii i telewizji oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 29 czerwca 1995 r. o zmianie ustawy o radiofonii i telewizji oraz o zmianie niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|

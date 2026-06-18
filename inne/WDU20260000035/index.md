@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania
+# Ustawa z dnia 17 grudnia 2025 r. o zmianie ustawy o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania
 
 *USTAWA z dnia 17 grudnia 2025 r.*
 

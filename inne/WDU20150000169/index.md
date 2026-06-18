@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 stycznia 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 30 czerwca 1995 r.*
 

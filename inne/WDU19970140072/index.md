@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo łowieckie
+# Ustawa z dnia 10 stycznia 1997 r. o zmianie ustawy - Prawo łowieckie.
 
 *USTAWA z dnia 10 stycznia 1997 r.*
 

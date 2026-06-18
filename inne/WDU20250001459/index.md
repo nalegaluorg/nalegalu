@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pracownikach urzędów państwowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państwowych
 
 *USTAWA z dnia 16 września 1982 r.*
 

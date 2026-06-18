@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Radzie Ministrów
+# Ustawa z dnia 19 lutego 2010 r. o zmianie ustawy o Radzie Ministrów
 
 *USTAWA z dnia 19 lutego 2010 r.*
 

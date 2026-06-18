@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym, ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne
+# Ustawa z dnia 22 grudnia 2000 r. o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym, ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne.
 
 *USTAWA z dnia 22 grudnia 2000 r.*
 

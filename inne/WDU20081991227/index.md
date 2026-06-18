@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko
+# Ustawa z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko
 
 *USTAWA z dnia 3 października 2008 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2008-11-07 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081991227) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1227/text.pdf) |
-
-Art. 137–152. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -2545,7 +2543,11 @@ Art. 137–152. (pominięte)
 
 2. Przepis ust. 1 pkt 1 stosuje się, jeżeli warunki, wymogi oraz obowiązki określone w decyzji o środowiskowych uwarunkowaniach nie zostały uwzględnione w decyzjach, o których mowa w art. 86.
 
-3. Karę pieniężną, w drodze decyzji, wymierza wojewódzki inspektor ochrony środowiska, biorąc pod uwagę liczbę i wagę stwierdzonych naruszeń. Art. 136aa. 1. W przypadku gdy organ gminy właściwej miejscowo ze względu na przedmiot postępowania w sprawie decyzji o środowiskowych uwarunkowaniach nie realizuje obowiązków informacyjnych, o których mowa w art. 33a, albo realizuje te obowiązki w sposób nieprowadzący do skutecznego podania informacji do publicznej wiadomości, powodując ograniczenie dostępu społeczeństwa do informacji o środowisku i konieczność wydłużenia postępowania, organ ten podlega karze pieniężnej w wysokości 2000 zł za każdy dzień:
+3. Karę pieniężną, w drodze decyzji, wymierza wojewódzki inspektor ochrony środowiska, biorąc pod uwagę liczbę i wagę stwierdzonych naruszeń.
+
+**Art. 136aa.**
+
+1. W przypadku gdy organ gminy właściwej miejscowo ze względu na przedmiot postępowania w sprawie decyzji o środowiskowych uwarunkowaniach nie realizuje obowiązków informacyjnych, o których mowa w art. 33a, albo realizuje te obowiązki w sposób nieprowadzący do skutecznego podania informacji do publicznej wiadomości, powodując ograniczenie dostępu społeczeństwa do informacji o środowisku i konieczność wydłużenia postępowania, organ ten podlega karze pieniężnej w wysokości 2000 zł za każdy dzień:
 
 - **1)** opóźnienia w stosunku do terminu, o którym mowa w art. 33a ust. 1 pkt 2;
 - **2)** opóźnienia w stosunku do terminu, o którym mowa w art. 33a ust. 3 pkt 1;
@@ -2569,6 +2571,8 @@ Art. 137–152. (pominięte)
 ### DZIAŁ VIII Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
+
+**Art. 137–152.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i końcowe
 

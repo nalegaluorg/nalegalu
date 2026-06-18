@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców
+# Ustawa z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców.
 
 *USTAWA z dnia 30 sierpnia 2002 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2002-09-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021551287) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1287/text.pdf) |
-
-Art. 26–28. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -340,6 +338,8 @@ Art. 26–28. (pominięte)
 2. Prawo do skorzystania z premii podatkowej wygasa w terminie złożenia rocznego zeznania podatkowego za rok podatkowy rozpoczynający się w 2002 r.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 26–28.** (pominięte)
 
 **Art. 29.**
 

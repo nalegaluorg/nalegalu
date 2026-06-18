@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy Kodeks cywilny oraz ustaw - o księgach wieczystych i hipotece, Prawo Spółdzielcze, Kodeks postępowania cywilnego, Prawo lokalowe.
+# Ustawa z dnia 25 października 1991 r. o zmianie ustawy - Kodeks cywilny oraz ustaw - o księgach wieczystych i hipotece, Prawo spółdzielcze, Kodeks postępowania cywilnego, Prawo lokalowe.
 
 | Pole | Wartość |
 |---|---|

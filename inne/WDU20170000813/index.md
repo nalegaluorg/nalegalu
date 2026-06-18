@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo konsularne
+# Ustawa z dnia 7 kwietnia 2017 r. o zmianie ustawy - Prawo konsularne
 
 *USTAWA z dnia 7 kwietnia 2017 r.*
 

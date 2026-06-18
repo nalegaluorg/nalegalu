@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów
 
 | Pole | Wartość |
 |---|---|
@@ -171,7 +171,9 @@ source: pdf
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich poufności.
 
-3. Pozyskiwanie danych osobowych, o którym mowa w ust. 1, następuje za pośrednictwem systemu teleinformatycznego. Art. 15–20. (pominięte)
+3. Pozyskiwanie danych osobowych, o którym mowa w ust. 1, następuje za pośrednictwem systemu teleinformatycznego.
+
+**Art. 15–20.** (pominięte)
 
 **Art. 21.** W 2023 r., w celu wypłaty dodatkowego świadczenia, minister właściwy do spraw finansów publicznych, na wniosek właściwego dysponenta części budżetowej, może dokonywać przeniesień wydatków budżetowych między działami, rozdziałami i paragrafami klasyfikacji wydatków budżetu państwa, a w przypadku ministrów będących dysponentami więcej niż jednej części budżetowej również między tymi częściami budżetowymi.
 

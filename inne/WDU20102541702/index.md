@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o partiach politycznych
+# Ustawa z dnia 16 grudnia 2010 r. o zmianie ustawy o partiach politycznych
 
 *USTAWA z dnia 16 grudnia 2010 r.*
 

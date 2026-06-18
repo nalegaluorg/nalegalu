@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dostępie do informacji publicznej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dostępie do informacji publicznej
 
 *USTAWA z dnia 6 września 2001 r.*
 

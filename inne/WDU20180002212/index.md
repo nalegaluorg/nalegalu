@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kołach gospodyń wiejskich
+# Ustawa z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich
 
 *USTAWA z dnia 9 listopada 2018 r.*
 
@@ -401,7 +401,9 @@ source: pdf
 
 1. Po wykreśleniu koła gospodyń wiejskich z rejestru likwidator odpowiada wobec wierzycieli koła gospodyń wiejskich za wyrządzone im szkody przez niedopełnienie swoich ustawowych obowiązków.
 
-2. Przepis ust. 1 stosuje się odpowiednio do członków ostatniego zarządu koła wykreślonego z rejestru. Art. 28–33. (pominięte)
+2. Przepis ust. 1 stosuje się odpowiednio do członków ostatniego zarządu koła wykreślonego z rejestru.
+
+**Art. 28–33.** (pominięte)
 
 **Art. 34.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin
 
 *USTAWA z dnia 29 maja 1974 r.*
 

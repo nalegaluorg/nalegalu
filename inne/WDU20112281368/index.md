@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o bezpieczeństwie morskim
+# Ustawa z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim
 
 *USTAWA z dnia 18 sierpnia 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-10-24 |
 | Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112281368) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1368/text.pdf) |
-
-Art. 131–141. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -2562,6 +2560,8 @@ Art. 131–141. (pominięte)
 7. Ściągnięte kwoty z tytułu kar pieniężnych stanowią dochód budżetu państwa.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 131–141.** (pominięte)
 
 **Art. 142.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 

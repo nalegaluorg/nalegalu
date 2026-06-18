@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa
+# Ustawa z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa
 
 *USTAWA z dnia 12 marca 2022 r.*
 
@@ -829,7 +829,9 @@ source: pdf
 
 **Art. 50a.** (uchylony)
 
-**Art. 50b.** (uchylony) Art. 50ba. (uchylony)
+**Art. 50b.** (uchylony)
+
+**Art. 50ba.** (uchylony)
 
 **Art. 50c.**
 
@@ -1115,7 +1117,9 @@ source: pdf
 - **1)** art. 189, art. 189a § 2, art. 191 § 1–2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965) – sąd orzeka karę pozbawienia wolności w wysokości nie niższej niż rok, a w wypadku przestępstwa określonego w art. 189 § 3, w wysokości nie niższej niż 5 lat, do górnej granicy ustawowego zagrożenia przewidzianego za przypisane sprawcy przestępstwo zwiększonego o połowę;
 - **2)** art. 204 § 1 i 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny – sąd orzeka karę pozbawienia wolności w wysokości od lat 5 do lat 15;
 - **3)** art. 203 lub art. 204 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny – sąd orzeka karę pozbawienia wolności w wysokości od lat 8 do lat 25;
-- **4)** art. 189a § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny – sąd orzeka karę pozbawienia wolności w wysokości od lat 10 do lat 25. Art. 73–95. (pominięte)
+- **4)** art. 189a § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny – sąd orzeka karę pozbawienia wolności w wysokości od lat 10 do lat 25.
+
+**Art. 73–95.** (pominięte)
 
 **Art. 96.** (uchylony)
 
@@ -1158,7 +1162,9 @@ source: pdf
 - **1)** przepisów o bezczynności organu oraz o obowiązku organu prowadzącego postępowanie w sprawach, o których mowa w ust. 1, do powiadamiania strony lub uczestnika postępowania o niezałatwieniu sprawy w terminie nie stosuje się;
 - **2)** organowi prowadzącemu postępowanie w sprawach, o których mowa w ust. 1, nie wymierza się grzywny ani nie zasądza się od niego sum pieniężnych na rzecz skarżących za niewydanie rozstrzygnięć w terminach określonych przepisami prawa.
 
-4. Zaprzestanie czynności przez organ prowadzący postępowanie w sprawach, o których mowa w ust. 1, lub ich dokonywanie z opóźnieniem, w okresie, o którym mowa w ust. 1, nie może być podstawą wywodzenia środków prawnych dotyczących bezczynności, przewlekłości lub naruszenia prawa strony do rozpoznania sprawy bez zbędnej zwłoki. Art. 100da. (uchylony)
+4. Zaprzestanie czynności przez organ prowadzący postępowanie w sprawach, o których mowa w ust. 1, lub ich dokonywanie z opóźnieniem, w okresie, o którym mowa w ust. 1, nie może być podstawą wywodzenia środków prawnych dotyczących bezczynności, przewlekłości lub naruszenia prawa strony do rozpoznania sprawy bez zbędnej zwłoki.
+
+**Art. 100da.** (uchylony)
 
 **Art. 100e.** (uchylony)
 

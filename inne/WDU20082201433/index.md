@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zakładach leczniczych dla zwierząt
+# Ustawa z dnia 21 listopada 2008 r. o zmianie ustawy o zakładach leczniczych dla zwierząt
 
 *USTAWA z dnia 21 listopada 2008 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych
 
 *USTAWA z dnia 29 lipca 2005 r.*
 
@@ -26,26 +26,6 @@ source: pdf
 | Data wydania | 2025-05-06 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000592) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/592/text.pdf) |
-
-1) europejskim pojedynczym punkcie dostępu – należy przez to rozumieć europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
-2) formacie nadającym się do odczytu maszynowego – należy przez to rozumieć format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524);
-3) formacie umożliwiającym ekstrakcję danych – należy przez to rozumieć format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego, który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;
-4) metadanych – należy przez to rozumieć metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859.> <Art. 92b. 1. Podmiot pośredniczący równocześnie z przekazaniem agencjom informacyjnym informacji, o których mowa w art. 77a ust. 4 i art. 79f ust. 5, treści wezwania, o której mowa w art. 77c ust. 1, informacji o zmianie ceny lub stosunku zamiany, o których mowa w art. 79b ust. 1, oraz zmiany treści wezwania, o której mowa w art. 79e ust. 1 i 2, przekazuje te informacje i te treści Komisji.
-2. Spółka publiczna równocześnie z podaniem do wiadomości publicznej informacji, o której mowa w art. 90a ust. 4, przekazuje tę informację Komisji.
-3. Informacje, o których mowa w art. 77a ust. 4, art. 79f ust. 5 i art. 90a ust. 4, treść wezwania, o której mowa w art. 77c ust. 1, informacje o zmianie ceny lub stosunku zamiany, o których mowa w art. 79b ust. 1, zmiana treści wezwania, o której mowa w art. 79e ust. 1 i 2, oraz stanowisko dotyczące ogłoszonego wezwania, o którym mowa w art. 80 ust. 1, są przekazywane Komisji w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 16a ust. 5 dyrektywy 2004/25/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r.
-w sprawie ofert przejęcia (Dz. Urz. UE L 142 z 30.04.2004, str. 12, z późn.
-zm. ).
-4. Informacje, o których mowa w art. 77a ust. 4, art. 79f ust. 5 i art. 90a ust. 4, treść wezwania, o której mowa w art. 77c ust. 1, informacje o zmianie ceny lub stosunku zamiany, o których mowa w art. 79b ust. 1, zmiana treści wezwania, o której mowa w art. 79e ust. 1 i 2, oraz stanowisko dotyczące ogłoszonego wezwania, o którym mowa w art. 80 ust. 1, są opatrywane następującymi metadanymi:
-1) firmą spółki publicznej, której dotyczą informacje;
-2) identyfikatorem podmiotu prawnego spółki publicznej, której dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-3) kategorią wielkości spółki publicznej, której dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-4) sektorem przemysłu, w którym spółka publiczna, której dotyczą informacje, prowadzi działalność gospodarczą, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-5) rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-6) wskazaniem, czy informacje zawierają dane osobowe;
-7) metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 16a ust. 5 dyrektywy 2004/25/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie ofert przejęcia.
-5. Na potrzeby przekazania metadanej, o której mowa w ust. 4 pkt 2, spółka publiczna występuje o nadanie jej identyfikatora podmiotu prawnego określonego zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
-6. Komisja udostępnia informacje, o których mowa w art. 77a ust. 4, art. 79f ust. 5 i art. 90a ust. 4, treść wezwania, o której mowa w art. 77c ust. 1, informacje o zmianie ceny lub stosunku zamiany, o których mowa w art. 79b ust. 1, zmianę treści wezwania, o której mowa w art. 79e ust. 1 i 2, oraz stanowisko dotyczące ogłoszonego wezwania, o którym mowa w art. 80 ust. 1, w europejskim pojedynczym punkcie dostępu.
-Art. 105–127. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1777,7 +1757,9 @@ Art. 105–127. (pominięte)
 
 9. Spółka zamieszcza sprawozdanie o wynagrodzeniach na swojej stronie internetowej i udostępnia je bezpłatnie przez co najmniej 10 lat od zakończenia obrad walnego zgromadzenia, o którym mowa w ust. 6 lub 7. Jeżeli spółka udostępnia sprawozdanie o wynagrodzeniach po tym okresie, sprawozdanie nie zawiera danych osobowych członków zarządu i rady nadzorczej.
 
-10. Sprawozdanie o wynagrodzeniach poddaje się ocenie biegłego rewidenta w zakresie zamieszczenia w nim informacji wymaganych na podstawie ust. 1–5 oraz 8. Art. 90ga. Komisja może wydać zalecenia w stosunku do spółki w celu zaprzestania naruszania przez nią obowiązków określonych w niniejszym rozdziale.
+10. Sprawozdanie o wynagrodzeniach poddaje się ocenie biegłego rewidenta w zakresie zamieszczenia w nim informacji wymaganych na podstawie ust. 1–5 oraz 8.
+
+**Art. 90ga.** Komisja może wydać zalecenia w stosunku do spółki w celu zaprzestania naruszania przez nią obowiązków określonych w niniejszym rozdziale.
 
 #### Rozdział 4b Transakcje z podmiotami powiązanymi
 
@@ -1885,7 +1867,32 @@ Art. 105–127. (pominięte)
 
 2. W przypadku gdy podział spółki publicznej z siedzibą na terytorium Rzeczypospolitej Polskiej jest dokonywany w drodze podziału przez wyodrębnienie, o którym mowa w art. 529 § 1 pkt 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, przepisu ust. 1 pkt 2 nie stosuje się.
 
-#### Rozdział 5a Udostępnianie informacji w europejskim pojedynczym punkcie dostępu <Art. 92a. Ilekroć w niniejszym rozdziale jest mowa o:
+#### Rozdział 5a Udostępnianie informacji w europejskim pojedynczym punkcie dostępu
+
+**Art. 92a.** Ilekroć w niniejszym rozdziale jest mowa o:
+
+- **1)** europejskim pojedynczym punkcie dostępu – należy przez to rozumieć europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
+- **2)** formacie nadającym się do odczytu maszynowego – należy przez to rozumieć format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524);
+- **3)** formacie umożliwiającym ekstrakcję danych – należy przez to rozumieć format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego, który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;
+- **4)** metadanych – należy przez to rozumieć metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859.> <Art. 92b. 1. Podmiot pośredniczący równocześnie z przekazaniem agencjom informacyjnym informacji, o których mowa w art. 77a ust. 4 i art. 79f ust. 5, treści wezwania, o której mowa w art. 77c ust. 1, informacji o zmianie ceny lub stosunku zamiany, o których mowa w art. 79b ust. 1, oraz zmiany treści wezwania, o której mowa w art. 79e ust. 1 i 2, przekazuje te informacje i te treści Komisji.
+
+2. Spółka publiczna równocześnie z podaniem do wiadomości publicznej informacji, o której mowa w art. 90a ust. 4, przekazuje tę informację Komisji.
+
+3. Informacje, o których mowa w art. 77a ust. 4, art. 79f ust. 5 i art. 90a ust. 4, treść wezwania, o której mowa w art. 77c ust. 1, informacje o zmianie ceny lub stosunku zamiany, o których mowa w art. 79b ust. 1, zmiana treści wezwania, o której mowa w art. 79e ust. 1 i 2, oraz stanowisko dotyczące ogłoszonego wezwania, o którym mowa w art. 80 ust. 1, są przekazywane Komisji w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 16a ust. 5 dyrektywy 2004/25/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie ofert przejęcia (Dz. Urz. UE L 142 z 30.04.2004, str. 12, z późn. zm. ).
+
+4. Informacje, o których mowa w art. 77a ust. 4, art. 79f ust. 5 i art. 90a ust. 4, treść wezwania, o której mowa w art. 77c ust. 1, informacje o zmianie ceny lub stosunku zamiany, o których mowa w art. 79b ust. 1, zmiana treści wezwania, o której mowa w art. 79e ust. 1 i 2, oraz stanowisko dotyczące ogłoszonego wezwania, o którym mowa w art. 80 ust. 1, są opatrywane następującymi metadanymi:
+
+- **1)** firmą spółki publicznej, której dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego spółki publicznej, której dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości spółki publicznej, której dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** sektorem przemysłu, w którym spółka publiczna, której dotyczą informacje, prowadzi działalność gospodarczą, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **6)** wskazaniem, czy informacje zawierają dane osobowe;
+- **7)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 16a ust. 5 dyrektywy 2004/25/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie ofert przejęcia.
+
+5. Na potrzeby przekazania metadanej, o której mowa w ust. 4 pkt 2, spółka publiczna występuje o nadanie jej identyfikatora podmiotu prawnego określonego zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+6. Komisja udostępnia informacje, o których mowa w art. 77a ust. 4, art. 79f ust. 5 i art. 90a ust. 4, treść wezwania, o której mowa w art. 77c ust. 1, informacje o zmianie ceny lub stosunku zamiany, o których mowa w art. 79b ust. 1, zmianę treści wezwania, o której mowa w art. 79e ust. 1 i 2, oraz stanowisko dotyczące ogłoszonego wezwania, o którym mowa w art. 80 ust. 1, w europejskim pojedynczym punkcie dostępu.
 
 **Art. 92c.**
 
@@ -2334,6 +2341,8 @@ Art. 105–127. (pominięte)
 **Art. 104e.** Kto, będąc odpowiedzialnym za informacje zawarte w sprawozdaniu o wynagrodzeniach, o którym mowa w art. 90g, podaje nieprawdziwe dane lub zataja prawdziwe dane wpływające w istotny sposób na treść tego sprawozdania, podlega grzywnie.
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
+
+**Art. 105–127.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i końcowe
 

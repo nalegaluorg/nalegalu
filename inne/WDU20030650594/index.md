@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Banku Gospodarstwa Krajowego
+# Ustawa z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego
 
 *USTAWA z dnia 14 marca 2003 r.*
 
@@ -399,7 +399,9 @@ source: pdf
 
 6. Minister właściwy do spraw klimatu może żądać od Rady Nadzorczej, Zarządu oraz członka Rady Nadzorczej, o którym mowa w art. 8 ust. 4 pkt 11, przekazania informacji dotyczących BGK z zakresu wspierania działań na rzecz ochrony środowiska, w tym klimatu.
 
-7. Minister właściwy do spraw gospodarki surowcami energetycznymi może żądać od Rady Nadzorczej, Zarządu oraz członka Rady Nadzorczej, o którym mowa w art. 8 ust. 4 pkt 12, przekazania informacji dotyczących BGK z zakresu gospodarowania surowcami energetycznymi. Art. 13–22. (pominięte)
+7. Minister właściwy do spraw gospodarki surowcami energetycznymi może żądać od Rady Nadzorczej, Zarządu oraz członka Rady Nadzorczej, o którym mowa w art. 8 ust. 4 pkt 12, przekazania informacji dotyczących BGK z zakresu gospodarowania surowcami energetycznymi.
+
+**Art. 13–22.** (pominięte)
 
 **Art. 23.** Ustawa wchodzi w życie po upływie 45 dni od dnia ogłoszenia , z wyjątkiem art. 14, który wchodzi w życie z dniem 1 stycznia 2004 r.
 

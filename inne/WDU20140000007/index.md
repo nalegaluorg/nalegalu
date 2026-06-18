@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
+# Ustawa z dnia 6 grudnia 2013 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
 
 *USTAWA z dnia 6 grudnia 2013 r.*
 
@@ -463,13 +463,29 @@ source: pdf
 
 5. Dyrektor publicznej placówki oświatowo-wychowawczej albo publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania, w uzgodnieniu z organem prowadzącym, ustala i podaje do publicznej wiadomości terminy przeprowadzania postępowania rekrutacyjnego, w tym terminy składania dokumentów.
 
-**Art. 20z.** W celu zapewnienia dziecku podczas pobytu w publicznym przedszkolu, publicznej innej formie wychowania przedszkolnego, publicznej szkole i publicznej placówce, o której mowa w art. 2 pkt 7, odpowiedniej opieki, odżywiania oraz metod opiekuńczo-wychowawczych rodzic dziecka przekazuje dyrektorowi przedszkola, szkoły lub placówki uznane przez niego za istotne dane o stanie zdrowia, stosowanej diecie i rozwoju psychofizycznym dziecka. Art. 20za. 1. Wniosek o przyjęcie do publicznego przedszkola, publicznej innej formy wychowania przedszkolnego oraz publicznej szkoły może być złożony do nie więcej niż trzech wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół, chyba że organ prowadzący dopuści możliwość składania wniosku do więcej niż trzech wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół. 2. We wniosku, o którym mowa w ust. 1, określa się kolejność wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół w porządku od najbardziej do najmniej preferowanych. Art. 20zb. 1. Postępowanie rekrutacyjne do publicznych przedszkoli, publicznych innych form wychowania przedszkolnego, publicznych szkół i publicznych placówek przeprowadza komisja rekrutacyjna powołana przez dyrektora przedszkola, szkoły lub placówki. Dyrektor wyznacza przewodniczącego komisji rekrutacyjnej. 2. Do zadań komisji rekrutacyjnej należy w szczególności:
+**Art. 20z.** W celu zapewnienia dziecku podczas pobytu w publicznym przedszkolu, publicznej innej formie wychowania przedszkolnego, publicznej szkole i publicznej placówce, o której mowa w art. 2 pkt 7, odpowiedniej opieki, odżywiania oraz metod opiekuńczo-wychowawczych rodzic dziecka przekazuje dyrektorowi przedszkola, szkoły lub placówki uznane przez niego za istotne dane o stanie zdrowia, stosowanej diecie i rozwoju psychofizycznym dziecka.
+
+**Art. 20za.**
+
+1. Wniosek o przyjęcie do publicznego przedszkola, publicznej innej formy wychowania przedszkolnego oraz publicznej szkoły może być złożony do nie więcej niż trzech wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół, chyba że organ prowadzący dopuści możliwość składania wniosku do więcej niż trzech wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół.
+
+2. We wniosku, o którym mowa w ust. 1, określa się kolejność wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół w porządku od najbardziej do najmniej preferowanych.
+
+**Art. 20zb.**
+
+1. Postępowanie rekrutacyjne do publicznych przedszkoli, publicznych innych form wychowania przedszkolnego, publicznych szkół i publicznych placówek przeprowadza komisja rekrutacyjna powołana przez dyrektora przedszkola, szkoły lub placówki. Dyrektor wyznacza przewodniczącego komisji rekrutacyjnej.
+
+2. Do zadań komisji rekrutacyjnej należy w szczególności:
 
 - **1)** ustalenie wyników postępowania rekrutacyjnego i podanie do publicznej wiadomości listy kandydatów zakwalifikowanych i kandydatów niezakwalifikowanych, o której mowa w art. 20zc ust.1;
 - **2)** ustalenie i podanie do publicznej wiadomości listy kandydatów przyjętych i kandydatów nieprzyjętych, o której mowa w art. 20zc ust. 3;
 - **3)** przeprowadzenie sprawdzianu uzdolnień kierunkowych, prób sprawności fizycznej, sprawdzianu predyspozycji językowych, sprawdzianu kompetencji językowych, badania przydatności, egzaminu wstępnego lub badania uzdolnień kierunkowych – w przypadkach, o których mowa w art. 7b ust. 1, art. 20f ust. 5, art. 20h ust. 1 pkt 3, art. 20i ust. 1, art. 20j ust. 1, art. 20n ust. 4 i art. 20o ust. 2;
 - **4)** przeprowadzenie rozmowy kwalifikacyjnej, o której mowa w art. 20k ust. 5;
-- **5)** sporządzenie protokołu postępowania rekrutacyjnego. Art. 20zc. 1. Wyniki postępowania rekrutacyjnego podaje się do publicznej wiadomości w formie listy kandydatów zakwalifikowanych i kandydatów niezakwalifikowanych, zawierającej imiona i nazwiska kandydatów oraz informację o zakwalifikowaniu albo niezakwalifikowaniu kandydata do danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy.
+- **5)** sporządzenie protokołu postępowania rekrutacyjnego.
+
+**Art. 20zc.**
+
+1. Wyniki postępowania rekrutacyjnego podaje się do publicznej wiadomości w formie listy kandydatów zakwalifikowanych i kandydatów niezakwalifikowanych, zawierającej imiona i nazwiska kandydatów oraz informację o zakwalifikowaniu albo niezakwalifikowaniu kandydata do danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy.
 
 2. Komisja rekrutacyjna przyjmuje kandydata do danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowowychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy, jeżeli w wyniku postępowania rekrutacyjnego kandydat został zakwalifikowany oraz złożył wymagane dokumenty.
 
@@ -485,20 +501,38 @@ source: pdf
 
 8. Rodzic kandydata lub kandydat pełnoletni może wnieść do dyrektora publicznego przedszkola, publicznej szkoły lub publicznej placówki odwołanie od rozstrzygnięcia komisji rekrutacyjnej, w terminie 7 dni od dnia otrzymania uzasadnienia.
 
-9. Dyrektor publicznego przedszkola, publicznej szkoły lub publicznej placówki rozpatruje odwołanie od rozstrzygnięcia komisji rekrutacyjnej, o którym mowa w ust. 8, w terminie 7 dni od dnia otrzymania odwołania. Na rozstrzygnięcie dyrektora danego publicznego przedszkola, publicznej szkoły lub publicznej placówki służy skarga do sądu administracyjnego. Art. 20zd. 1. Jeżeli po przeprowadzeniu postępowania rekrutacyjnego publiczne przedszkole, publiczna inna forma wychowania przedszkolnego, publiczna szkoła lub publiczna placówka nadal dysponuje wolnymi miejscami, dyrektor przedszkola, szkoły lub placówki przeprowadza postępowanie uzupełniające.
+9. Dyrektor publicznego przedszkola, publicznej szkoły lub publicznej placówki rozpatruje odwołanie od rozstrzygnięcia komisji rekrutacyjnej, o którym mowa w ust. 8, w terminie 7 dni od dnia otrzymania odwołania. Na rozstrzygnięcie dyrektora danego publicznego przedszkola, publicznej szkoły lub publicznej placówki służy skarga do sądu administracyjnego.
+
+**Art. 20zd.**
+
+1. Jeżeli po przeprowadzeniu postępowania rekrutacyjnego publiczne przedszkole, publiczna inna forma wychowania przedszkolnego, publiczna szkoła lub publiczna placówka nadal dysponuje wolnymi miejscami, dyrektor przedszkola, szkoły lub placówki przeprowadza postępowanie uzupełniające.
 
 2. Postępowanie uzupełniające powinno zakończyć się do końca sierpnia roku szkolnego poprzedzającego rok szkolny, na który jest przeprowadzane postępowanie rekrutacyjne.
 
-3. Do postępowania uzupełniającego przepisy niniejszego rozdziału stosuje się odpowiednio. Art. 20ze. 1. Dane osobowe kandydatów zgromadzone w celach postępowania rekrutacyjnego oraz dokumentacja postępowania rekrutacyjnego są przechowywane nie dłużej niż do końca okresu, w którym uczeń korzysta z wychowania przedszkolnego w danym publicznym przedszkolu lub publicznej innej formie wychowania przedszkolnego albo uczęszcza do danej publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowowychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy.
+3. Do postępowania uzupełniającego przepisy niniejszego rozdziału stosuje się odpowiednio.
 
-2. Dane osobowe kandydatów nieprzyjętych zgromadzone w celach postępowania rekrutacyjnego są przechowywane w publicznym przedszkolu, publicznej innej formie wychowania przedszkolnego, publicznej szkole lub publicznej placówce, które przeprowadzały postępowanie rekrutacyjne, przez okres roku, chyba że na rozstrzygnięcie dyrektora przedszkola, szkoły lub placówki została wniesiona skarga do sądu administracyjnego i postępowanie nie zostało zakończone prawomocnym wyrokiem. Art. 20zf. W przypadku publicznych przedszkoli, publicznych szkół i publicznych placówek prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje określone w:
+**Art. 20ze.**
+
+1. Dane osobowe kandydatów zgromadzone w celach postępowania rekrutacyjnego oraz dokumentacja postępowania rekrutacyjnego są przechowywane nie dłużej niż do końca okresu, w którym uczeń korzysta z wychowania przedszkolnego w danym publicznym przedszkolu lub publicznej innej formie wychowania przedszkolnego albo uczęszcza do danej publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowowychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy.
+
+2. Dane osobowe kandydatów nieprzyjętych zgromadzone w celach postępowania rekrutacyjnego są przechowywane w publicznym przedszkolu, publicznej innej formie wychowania przedszkolnego, publicznej szkole lub publicznej placówce, które przeprowadzały postępowanie rekrutacyjne, przez okres roku, chyba że na rozstrzygnięcie dyrektora przedszkola, szkoły lub placówki została wniesiona skarga do sądu administracyjnego i postępowanie nie zostało zakończone prawomocnym wyrokiem.
+
+**Art. 20zf.** W przypadku publicznych przedszkoli, publicznych szkół i publicznych placówek prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje określone w:
 
 - **1)** art. 20c ust. 4–6, art. 20e ust. 3 i 4, art. 20o ust. 4, art. 20p ust. 1 pkt 3 i ust. 3, art. 20r ust. 6 i art. 20za ust. 1 – wykonuje odpowiednio rada gminy, rada powiatu, sejmik województwa;
-- **2)** art. 20a ust. 3, art. 20f ust. 5, art. 20v i art. 20w ust. 5 – wykonuje odpowiednio wójt (burmistrz, prezydent miasta), starosta, marszałek województwa. Art. 20zg. 1. Przepisów niniejszego rozdziału nie stosuje się do szkół prowadzonych przez ministra właściwego do spraw wewnętrznych, o których mowa w przepisach wydanych na podstawie art. 29.
+- **2)** art. 20a ust. 3, art. 20f ust. 5, art. 20v i art. 20w ust. 5 – wykonuje odpowiednio wójt (burmistrz, prezydent miasta), starosta, marszałek województwa.
+
+**Art. 20zg.**
+
+1. Przepisów niniejszego rozdziału nie stosuje się do szkół prowadzonych przez ministra właściwego do spraw wewnętrznych, o których mowa w przepisach wydanych na podstawie art. 29.
 
 2. Warunki i tryb przyjmowania do szkół, o których mowa w ust. 1, określają przepisy wydane na podstawie art. 112 ust. 4 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340 i
 
-- **1351)** . Art. 20zh. 1. W przypadku przechodzenia ucznia z jednego typu publicznej szkoły do innego typu publicznej szkoły o przyjęciu ucznia do innego typu publicznej szkoły decyduje dyrektor szkoły. Przepis art. 20a ust. 3 stosuje się.
+- **1351)** .
+
+**Art. 20zh.**
+
+1. W przypadku przechodzenia ucznia z jednego typu publicznej szkoły do innego typu publicznej szkoły o przyjęciu ucznia do innego typu publicznej szkoły decyduje dyrektor szkoły. Przepis art. 20a ust. 3 stosuje się.
 
 2. Uczeń, o którym mowa w ust. 1, jest przyjmowany do innego typu publicznej szkoły na podstawie świadectwa ukończenia klasy programowo niższej.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej
+# Ustawa z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej
 
 *USTAWA z dnia 24 lutego 2022 r.*
 

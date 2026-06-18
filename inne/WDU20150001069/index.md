@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o obowiązkach w zakresie informowania o zużyciu energii przez produkty wykorzystujące energię oraz niektórych innych ustaw
+# Ustawa z dnia 27 maja 2015 r. o zmianie ustawy o obowiązkach w zakresie informowania o zużyciu energii przez produkty wykorzystujące energię oraz niektórych innych ustaw
 
 *USTAWA z dnia 27 maja 2015 r.*
 

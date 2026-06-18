@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ustanowienia Pełnomocnika Rządu do Spraw Dostosowania Polskiego Rolnictwa do Wymogów Unii Europejskiej.
+# Rozporządzenie Rady Ministrów z dnia 17 kwietnia 2000 r. w sprawie ustanowienia Pełnomocnika Rządu do Spraw Dostosowania Polskiego Rolnictwa do Wymogów Unii Europejskiej.
 
 | Pole | Wartość |
 |---|---|

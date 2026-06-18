@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych oraz niektórych innych ustaw
+# Ustawa z dnia 26 maja 2022 r. o zmianie ustawy o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych oraz niektórych innych ustaw
 
 *USTAWA z dnia 26 maja 2022 r.*
 

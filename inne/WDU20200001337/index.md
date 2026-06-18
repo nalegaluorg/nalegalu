@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw
+# Ustawa z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw
 
 *USTAWA z dnia 28 maja 2020 r.*
 

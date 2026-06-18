@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw
+# Ustawa z dnia 23 maja 2024 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw
 
 *USTAWA z dnia 23 maja 2024 r.*
 
@@ -26,42 +26,6 @@ source: pdf
 | Data wydania | 2024-06-17 |
 | Ostatnia zmiana | 2024-06-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000879) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/879/text.pdf) |
-
-Art. 75za. Szef Krajowej Administracji Skarbowej przeprowadza kontrolę wykonywania przez raportującego operatora platformy obowiązków w zakresie stosowania procedur należytej staranności oraz obowiązków sprawozdawczych określonych w niniejszym dziale, zwaną dalej w niniejszym dziale „kontrolą”.
-Art. 75zb. 1. Z czynności kontrolnych sporządza się protokół kontroli. Kontrolowany, który nie zgadza się z ustaleniami kontroli zawartymi w protokole, może w terminie 14 dni od dnia jego doręczenia przedstawić zastrzeżenia lub wyjaśnienia, wskazując równocześnie stosowne dowody.
-2. Kontrolujący jest obowiązany rozpatrzyć zastrzeżenia, o których mowa w ust. 1, i w terminie 14 dni od dnia ich otrzymania zawiadomić kontrolowanego o sposobie ich załatwienia, wskazując w szczególności, które zastrzeżenia nie zostały uwzględnione, wraz z uzasadnieniem faktycznym i prawnym.
-3. W przypadku niezłożenia zastrzeżeń lub wyjaśnień w terminie określonym w ust. 1, przyjmuje się, że kontrolowany nie kwestionuje ustaleń kontroli.
-4. Kontrola kończy się wraz z doręczeniem kontrolowanemu wyniku kontroli.
-5. Wynik kontroli sporządza się na podstawie protokołu kontroli, zastrzeżeń lub wyjaśnień oraz zawiadomienia o sposobie ich załatwienia.
-6. Wynik kontroli zawiera:
-1) oznaczenie kontrolującego;
-2) oznaczenie kontrolowanego;
-3) datę wydania;
-4) podstawę prawną;
-5) opis przebiegu kontroli;
-6) końcowe ustalenia i wnioski zawierające informację o stwierdzeniu nieprawidłowości albo ich braku;
-7) wskazanie terminu usunięcia nieprawidłowości, jeżeli zostały stwierdzone;
-8) podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany w formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty tej osoby.
-7. Termin, o którym mowa w ust. 6 pkt 7, nie może być krótszy niż miesiąc ani dłuższy niż 6 miesięcy, licząc od dnia doręczenia wyniku kontroli.
-8. Kontrolowany jest obowiązany poinformować Szefa Krajowej Administracji Skarbowej o sposobie usunięcia stwierdzonych nieprawidłowości lub przyczynach ich nieusunięcia bez zbędnej zwłoki, nie później jednak niż w terminie 14 dni, licząc od dnia upływu wyznaczonego terminu ich usunięcia.
-Art. 75zc. 1. W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie nie wymaga przeprowadzenia kontroli, raportujący operator platformy, na pisemne żądanie Szefa Krajowej Administracji Skarbowej, jest obowiązany do udzielenia informacji niezbędnych do ich wyjaśnienia.
-2. W żądaniu, o którym mowa w ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, nie krótszy jednak niż 14 dni, licząc od dnia doręczenia żądania.
-Art. 75zd. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli stosuje się odpowiednio przepisy działu IV rozdziału 1, z wyłączeniem art. 127 i art. 128, rozdziału 2, rozdziału 3, z wyłączeniem art. 133 i art. 133a, rozdziału 3a, rozdziału 4, z wyłączeniem art. 139, rozdziałów 5, 6, 9−11, 14, 16, 22 i 23 oraz działu VI, z wyłączeniem art. 281, art. 282a, art. 291 i art. 292, ustawy – Ordynacja podatkowa.
-Art. 75ze. 1. Szef Krajowej Administracji Skarbowej przekazuje, w terminie 2 miesięcy od zakończenia okresu sprawozdawczego, w drodze automatycznej wymiany, informacje odnoszące się do sprzedawcy podlegającego raportowaniu określone w art. 75c właściwemu organowi państwa uczestniczącego, którego rezydentem jest sprzedawca podlegający raportowaniu, a w przypadku sprzedawcy podlegającego raportowaniu, który świadczy usługi udostępnienia nieruchomości – także właściwemu organowi państwa uczestniczącego, w którym położona jest nieruchomość.
-2. Szef Krajowej Administracji Skarbowej przekazuje do centralnego rejestru, o którym mowa w art. 75zf ust. 2, informacje, o których mowa w art. 75c pkt 2.
-3. Automatyczna wymiana informacji, o których mowa w ust. 1, odbywa się:
-1) w przypadku państw członkowskich – za pomocą środków komunikacji elektronicznej, według formatu określonego w rozporządzeniu Komisji (UE) nr 2015/2378;
-2) w przypadku państw uczestniczących innych niż państwa członkowskie – za pomocą środków komunikacji elektronicznej, według formatu ustalonego przez ministra właściwego do spraw finansów publicznych na podstawie wymagań oraz standardów określonych przez OECD w zakresie obowiązkowej automatycznej wymiany informacji o sprzedawcach.
-4. Szef Krajowej Administracji Skarbowej, w celu usprawnienia współpracy, może zawierać z właściwym organem innego państwa uczestniczącego porozumienia dwustronne lub wielostronne w zakresie szczegółowego sposobu i trybu wymiany informacji o sprzedawcach.
-Art. 75zf. 1. Szef Krajowej Administracji Skarbowej powiadamia właściwe organy państw członkowskich oraz Komisję Europejską o indywidualnym numerze operatora platformy.
-2. Szef Krajowej Administracji Skarbowej zwraca się do Komisji Europejskiej o skreślenie raportującego operatora platformy z prowadzonego przez nią centralnego rejestru w przypadku unieważnienia indywidualnego numeru operatora platformy, o którym mowa w art. 75x ust. 1, albo cofnięcia indywidualnego numeru operatora platformy, o którym mowa w art. 75y ust. 1.
-3. Szef Krajowej Administracji Skarbowej powiadamia Komisję Europejską o raportującym operatorze platformy, który nie dopełnił obowiązku jednorazowej rejestracji zgodnie z art. 75u ust. 1.
-4. Powiadomienia dokonuje się niezwłocznie po powzięciu uzasadnionego przypuszczenia o prowadzeniu przez podmiot działalności jako raportujący operator platformy.”;
-26) w art. 77:
-a) w ust. 3 po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) inne niż wskazane w pkt 9 informacje, które mogą pomóc właściwemu organowi państwa członkowskiego w ocenie potencjalnego ryzyka podatkowego;”,
-b) w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o których mowa w ust. 1, są przekazywane niezwłocznie, nie później jednak niż w terminie:”;
-27) w art. 87c w ust. 1 wyrazy „na pisemne żądanie” zastępuje się wyrazami „na sporządzone na piśmie żądanie”;
-28) po art. 90 dodaje się art. 90a i art. 90b w brzmieniu: „Art. 90a. Instytucja finansowa i instytucja obowiązana, które nie dopełniają obowiązku udzielenia posiadanych informacji, o których mowa odpowiednio w art. 4 ust. 1 lub 1a, podlegają karze pieniężnej.
 
 **Art. 1.** W ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241) wprowadza się następujące zmiany:
 
@@ -623,7 +587,74 @@ b) w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o kt�
 
 #### Rozdział 5 Kontrola raportujących operatorów platform
 
+**Art. 75za.** Szef Krajowej Administracji Skarbowej przeprowadza kontrolę wykonywania przez raportującego operatora platformy obowiązków w zakresie stosowania procedur należytej staranności oraz obowiązków sprawozdawczych określonych w niniejszym dziale, zwaną dalej w niniejszym dziale „kontrolą”.
+
+**Art. 75zb.**
+
+1. Z czynności kontrolnych sporządza się protokół kontroli. Kontrolowany, który nie zgadza się z ustaleniami kontroli zawartymi w protokole, może w terminie 14 dni od dnia jego doręczenia przedstawić zastrzeżenia lub wyjaśnienia, wskazując równocześnie stosowne dowody.
+
+2. Kontrolujący jest obowiązany rozpatrzyć zastrzeżenia, o których mowa w ust. 1, i w terminie 14 dni od dnia ich otrzymania zawiadomić kontrolowanego o sposobie ich załatwienia, wskazując w szczególności, które zastrzeżenia nie zostały uwzględnione, wraz z uzasadnieniem faktycznym i prawnym.
+
+3. W przypadku niezłożenia zastrzeżeń lub wyjaśnień w terminie określonym w ust. 1, przyjmuje się, że kontrolowany nie kwestionuje ustaleń kontroli.
+
+4. Kontrola kończy się wraz z doręczeniem kontrolowanemu wyniku kontroli.
+
+5. Wynik kontroli sporządza się na podstawie protokołu kontroli, zastrzeżeń lub wyjaśnień oraz zawiadomienia o sposobie ich załatwienia.
+
+6. Wynik kontroli zawiera:
+
+- **1)** oznaczenie kontrolującego;
+- **2)** oznaczenie kontrolowanego;
+- **3)** datę wydania;
+- **4)** podstawę prawną;
+- **5)** opis przebiegu kontroli;
+- **6)** końcowe ustalenia i wnioski zawierające informację o stwierdzeniu nieprawidłowości albo ich braku;
+- **7)** wskazanie terminu usunięcia nieprawidłowości, jeżeli zostały stwierdzone;
+- **8)** podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany w formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty tej osoby.
+
+7. Termin, o którym mowa w ust. 6 pkt 7, nie może być krótszy niż miesiąc ani dłuższy niż 6 miesięcy, licząc od dnia doręczenia wyniku kontroli.
+
+8. Kontrolowany jest obowiązany poinformować Szefa Krajowej Administracji Skarbowej o sposobie usunięcia stwierdzonych nieprawidłowości lub przyczynach ich nieusunięcia bez zbędnej zwłoki, nie później jednak niż w terminie 14 dni, licząc od dnia upływu wyznaczonego terminu ich usunięcia.
+
+**Art. 75zc.**
+
+1. W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie nie wymaga przeprowadzenia kontroli, raportujący operator platformy, na pisemne żądanie Szefa Krajowej Administracji Skarbowej, jest obowiązany do udzielenia informacji niezbędnych do ich wyjaśnienia.
+
+2. W żądaniu, o którym mowa w ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, nie krótszy jednak niż 14 dni, licząc od dnia doręczenia żądania.
+
+**Art. 75zd.** W zakresie nieuregulowanym w niniejszym rozdziale do kontroli stosuje się odpowiednio przepisy działu IV rozdziału 1, z wyłączeniem art. 127 i art. 128, rozdziału 2, rozdziału 3, z wyłączeniem art. 133 i art. 133a, rozdziału 3a, rozdziału 4, z wyłączeniem art. 139, rozdziałów 5, 6, 9−11, 14, 16, 22 i 23 oraz działu VI, z wyłączeniem art. 281, art. 282a, art. 291 i art. 292, ustawy – Ordynacja podatkowa.
+
 #### Rozdział 6 Obowiązki organu
+
+**Art. 75ze.**
+
+1. Szef Krajowej Administracji Skarbowej przekazuje, w terminie 2 miesięcy od zakończenia okresu sprawozdawczego, w drodze automatycznej wymiany, informacje odnoszące się do sprzedawcy podlegającego raportowaniu określone w art. 75c właściwemu organowi państwa uczestniczącego, którego rezydentem jest sprzedawca podlegający raportowaniu, a w przypadku sprzedawcy podlegającego raportowaniu, który świadczy usługi udostępnienia nieruchomości – także właściwemu organowi państwa uczestniczącego, w którym położona jest nieruchomość.
+
+2. Szef Krajowej Administracji Skarbowej przekazuje do centralnego rejestru, o którym mowa w art. 75zf ust. 2, informacje, o których mowa w art. 75c pkt 2.
+
+3. Automatyczna wymiana informacji, o których mowa w ust. 1, odbywa się:
+
+- **1)** w przypadku państw członkowskich – za pomocą środków komunikacji elektronicznej, według formatu określonego w rozporządzeniu Komisji (UE) nr 2015/2378;
+- **2)** w przypadku państw uczestniczących innych niż państwa członkowskie – za pomocą środków komunikacji elektronicznej, według formatu ustalonego przez ministra właściwego do spraw finansów publicznych na podstawie wymagań oraz standardów określonych przez OECD w zakresie obowiązkowej automatycznej wymiany informacji o sprzedawcach.
+
+4. Szef Krajowej Administracji Skarbowej, w celu usprawnienia współpracy, może zawierać z właściwym organem innego państwa uczestniczącego porozumienia dwustronne lub wielostronne w zakresie szczegółowego sposobu i trybu wymiany informacji o sprzedawcach.
+
+**Art. 75zf.**
+
+1. Szef Krajowej Administracji Skarbowej powiadamia właściwe organy państw członkowskich oraz Komisję Europejską o indywidualnym numerze operatora platformy.
+
+2. Szef Krajowej Administracji Skarbowej zwraca się do Komisji Europejskiej o skreślenie raportującego operatora platformy z prowadzonego przez nią centralnego rejestru w przypadku unieważnienia indywidualnego numeru operatora platformy, o którym mowa w art. 75x ust. 1, albo cofnięcia indywidualnego numeru operatora platformy, o którym mowa w art. 75y ust. 1.
+
+3. Szef Krajowej Administracji Skarbowej powiadamia Komisję Europejską o raportującym operatorze platformy, który nie dopełnił obowiązku jednorazowej rejestracji zgodnie z art. 75u ust. 1.
+
+4. Powiadomienia dokonuje się niezwłocznie po powzięciu uzasadnionego przypuszczenia o prowadzeniu przez podmiot działalności jako raportujący operator platformy.”;
+
+- **26)** w art. 77:
+    - **a)** w ust. 3 po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) inne niż wskazane w pkt 9 informacje, które mogą pomóc właściwemu organowi państwa członkowskiego w ocenie potencjalnego ryzyka podatkowego;”,
+    - **b)** w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o których mowa w ust. 1, są przekazywane niezwłocznie, nie później jednak niż w terminie:”;
+
+- **27)** w art. 87c w ust. 1 wyrazy „na pisemne żądanie” zastępuje się wyrazami „na sporządzone na piśmie żądanie”;
+- **28)** po art. 90 dodaje się art. 90a i art. 90b w brzmieniu: „Art. 90a. Instytucja finansowa i instytucja obowiązana, które nie dopełniają obowiązku udzielenia posiadanych informacji, o których mowa odpowiednio w art. 4 ust. 1 lub 1a, podlegają karze pieniężnej.
 
 **Art. 90b.**
 
@@ -666,7 +697,11 @@ b) w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o kt�
 
 **Art. 4.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628 i 850) po art. 80c dodaje się art. 80ca i art. 80cb w brzmieniu: „Art. 80ca. § 1. Kto, działając w imieniu lub interesie instytucji finansowej lub instytucji obowiązanej, wbrew przepisom ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, nie dopełnia obowiązku udzielenia posiadanych informacji, o których mowa odpowiednio w art. 4 ust. 1 lub 1a tej ustawy, lub udziela tych informacji niezgodnie z posiadanymi danymi, podlega karze grzywny do 180 stawek dziennych.
 
-§ 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe. Art. 80cb. § 1. Kto, działając w imieniu lub interesie raportującego operatora platformy, wbrew przepisom ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, nie dopełnia obowiązku:
+§ 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.
+
+**Art. 80cb.**
+
+§ 1. Kto, działając w imieniu lub interesie raportującego operatora platformy, wbrew przepisom ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, nie dopełnia obowiązku:
 
 - **1)** stosowania procedur należytej staranności, w tym gromadzenia wymaganej dokumentacji,
 - **2)** przekazania Szefowi Krajowej Administracji Skarbowej informacji o sprzedawcach,

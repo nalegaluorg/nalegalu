@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zwalczaniu nieuczciwej konkurencji oraz ustawy o kredycie konsumenckim
+# Ustawa z dnia 17 czerwca 2004 r. o zmianie ustawy o zwalczaniu nieuczciwej konkurencji oraz ustawy o kredycie konsumenckim
 
 *USTAWA z dnia 17 czerwca 2004 r.*
 

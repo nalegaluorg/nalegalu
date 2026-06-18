@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o służbie cywilnej
+# Ustawa z dnia 21 listopada 2008 r. o służbie cywilnej
 
 *USTAWA z dnia 21 listopada 2008 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2008-12-23 |
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082271505) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1505/text.pdf) |
-
-Art. 132–190. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1433,6 +1431,8 @@ Art. 132–190. (pominięte)
 3. W przypadku komisji dyscyplinarnych powołanych w trybie określonym w art. 117 ust. 2, koszty, o których mowa w ust. 2, ponosi urząd, w którym w dniu wszczęcia postępowania dyscyplinarnego był zatrudniony obwiniony, o ile porozumienie, o którym mowa w art. 117 ust. 2, nie stanowi inaczej.
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
+
+**Art. 132–190.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i dostosowujące
 

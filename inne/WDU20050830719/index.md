@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego
+# Ustawa z dnia 15 kwietnia 2005 r. nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego
 
 *USTAWA z dnia 15 kwietnia 2005 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2005-05-13 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050830719) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/719/text.pdf) |
-
-Art. 65–72. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -558,6 +556,8 @@ Art. 65–72. (pominięte)
 **Art. 64.** W przypadku stwierdzenia naruszeń przepisów prawa lub innych nieprawidłowości na poziomie konglomeratu finansowego koordynator informuje zagraniczne organy nadzoru o potrzebie podjęcia odpowiednich działań w stosunku do podmiotów wchodzących w skład konglomeratu finansowego, mających siedziby w państwach członkowskich.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 65–72.** (pominięte)
 
 **Art. 73.** Do postępowań w sprawach objętych przepisami ustaw zmienianych niniejszą ustawą, wszczętych, a niezakończonych przed dniem jej wejścia w życie, stosuje się przepisy tych ustaw, w brzmieniu nadanym niniejszą ustawą.
 

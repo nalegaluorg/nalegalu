@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo energetyczne oraz ustawy o odnawialnych źródłach energii
+# Ustawa z dnia 29 września 2022 r. o zmianie ustawy - Prawo energetyczne oraz ustawy o odnawialnych źródłach energii
 
 *USTAWA z dnia 29 września 2022 r.*
 

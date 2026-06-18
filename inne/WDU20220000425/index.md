@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o rekompensacie w związku z wprowadzeniem stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego w 2021 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rekompensacie w związku z wprowadzeniem stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego w 2021 r.
 
 | Pole | Wartość |
 |---|---|

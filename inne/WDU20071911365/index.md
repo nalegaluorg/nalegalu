@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ujawnieniu w księgach wieczystych prawa własności nieruchomości Skarbu Państwa oraz jednostek samorządu terytorialnego
+# Ustawa z dnia 7 września 2007 r. o ujawnieniu w księgach wieczystych prawa własności nieruchomości Skarbu Państwa oraz jednostek samorządu terytorialnego
 
 *USTAWA z dnia 7 września 2007 r.*
 

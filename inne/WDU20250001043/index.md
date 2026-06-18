@@ -909,7 +909,11 @@ source: pdf
 
 11. Cofnięcie zezwolenia jest równoznaczne z likwidacją oddziału przygotowania wojskowego. Likwidacja następuje w terminie określonym w decyzji o cofnięciu zezwolenia, z tym że termin ten nie może być wcześniejszy niż koniec roku szkolnego, w którym uczniowie oddziału przygotowania wojskowego kończą naukę w tym oddziale.
 
-12. Minister Obrony Narodowej określi corocznie, w drodze rozporządzenia, limit zezwoleń wydawanych na utworzenie oddziałów przygotowania wojskowego, uwzględniając potrzeby rekrutacyjne i możliwości szkoleniowe Sił Zbrojnych Rzeczypospolitej Polskiej, oraz środki przeznaczone na ten cel w budżecie państwa. Art. 28aa. 1. W szkołach publicznych i niepublicznych, o których mowa w art. 18 ust. 1 pkt 2 lit. a i b, z wyjątkiem szkół artystycznych, mogą być tworzone oddziały o profilu mundurowym.
+12. Minister Obrony Narodowej określi corocznie, w drodze rozporządzenia, limit zezwoleń wydawanych na utworzenie oddziałów przygotowania wojskowego, uwzględniając potrzeby rekrutacyjne i możliwości szkoleniowe Sił Zbrojnych Rzeczypospolitej Polskiej, oraz środki przeznaczone na ten cel w budżecie państwa.
+
+**Art. 28aa.**
+
+1. W szkołach publicznych i niepublicznych, o których mowa w art. 18 ust. 1 pkt 2 lit. a i b, z wyjątkiem szkół artystycznych, mogą być tworzone oddziały o profilu mundurowym.
 
 2. Utworzenie oddziału o profilu mundurowym wymaga zezwolenia ministra właściwego do spraw wewnętrznych, udzielonego w drodze decyzji administracyjnej.
 
@@ -1395,7 +1399,11 @@ source: pdf
 
 - **1)** szkół polskich;
 - **2)** szkół i zespołów szkół w Polsce, o których mowa w art. 8 ust. 5 pkt 2 lit. c tiret drugie;
-- **3)** szkół i zespołów szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c. Art. 44aa. 1. Minister właściwy do spraw oświaty i wychowania może udostępnić narzędzie informatyczne, o którym mowa w art. 44a ust. 1, placówkom doskonalenia nauczycieli i podmiotom, o których mowa w art. 3 ust. 1, w celu wspierania przez te placówki i podmioty szkół i placówek w realizacji przez nie działań, o których mowa w art. 44 ust. 1 i 2.
+- **3)** szkół i zespołów szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c.
+
+**Art. 44aa.**
+
+1. Minister właściwy do spraw oświaty i wychowania może udostępnić narzędzie informatyczne, o którym mowa w art. 44a ust. 1, placówkom doskonalenia nauczycieli i podmiotom, o których mowa w art. 3 ust. 1, w celu wspierania przez te placówki i podmioty szkół i placówek w realizacji przez nie działań, o których mowa w art. 44 ust. 1 i 2.
 
 2. Udostępnienie placówkom doskonalenia nauczycieli i podmiotom, o których mowa w art. 3 ust. 1, narzędzia informatycznego, o którym mowa w art. 44a ust. 1, obejmuje:
 

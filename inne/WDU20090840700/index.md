@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu
+# Ustawa z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu
 
 *USTAWA z dnia 24 kwietnia 2009 r.*
 

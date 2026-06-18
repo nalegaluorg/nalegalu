@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz niektórych innych ustaw
+# Ustawa z dnia 24 lutego 2017 r. o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 lutego 2017 r.*
 

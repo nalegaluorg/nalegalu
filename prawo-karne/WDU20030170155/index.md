@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks postępowania karnego, ustawy - Przepisy wprowadzające Kodeks postępowania karnego, ustawy o świadku koronnym oraz ustawy o ochronie informacji niejawnych
+# Ustawa z dnia 10 stycznia 2003 r. o zmianie ustawy - kodeks postępowania karnego, ustawy - Przepisy wprowadzające Kodeks postępowania karnego, ustawy o świadku koronnym oraz ustawy o ochronie informacji niejawnych
 
 *USTAWA z dnia 10 stycznia 2003 r.*
 

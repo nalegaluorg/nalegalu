@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw
+# Ustawa z dnia 7 października 2022 r. o zmianie ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 października 2022 r.*
 
@@ -356,23 +356,49 @@ source: pdf
 - **1)** stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 i art. 138i ust. 4, wynosi 23%;
 - **2)** stawka podatku, o której mowa w art. 41 ust. 2, art. 120 ust. 2 i 3 oraz tytule załącznika nr 3, wynosi 8%;
 - **3)** stawka zryczałtowanego zwrotu podatku, o której mowa w art. 115 ust. 2, wynosi 7%;
-- **4)** stawka ryczałtu, o której mowa w art. 114 ust. 1, wynosi 4%. Art. 146eb. W przypadku świadczenia przez podatnika usług, w tym w zakresie handlu i gastronomii, w roku 2023 kwota podatku należnego, na potrzeby art. 85, jest obliczana jako iloczyn wartości dostawy i stawki:
+- **4)** stawka ryczałtu, o której mowa w art. 114 ust. 1, wynosi 4%.
+
+**Art. 146eb.** W przypadku świadczenia przez podatnika usług, w tym w zakresie handlu i gastronomii, w roku 2023 kwota podatku należnego, na potrzeby art. 85, jest obliczana jako iloczyn wartości dostawy i stawki:
+
 - **1)** 18,70% – dla towarów i usług objętych stawką podatku 23%;
-- **2)** 7,41% – dla towarów i usług objętych stawką podatku 8%. Art. 146ec. W roku 2023, na potrzeby art. 86 ust. 2 pkt 7, kwotą podatku naliczonego jest kwota stanowiąca równowartość 23% kwoty należnej z tytułu dostawy nowego środka transportu, nie wyższa jednak niż kwota podatku zawartego w fakturze stwierdzającej nabycie tego środka lub dokumencie celnym, albo podatku zapłaconego przez podatnika od wewnątrzwspólnotowego nabycia tego środka. Art. 146ed. Przepis art. 120 ust. 11 pkt 3 stosuje się odpowiednio do dostawy dzieł sztuki, które podlegały opodatkowaniu podatkiem według stawki 8%, stosowanej do tych towarów zgodnie z art. 146ea. Art. 146ee. 1. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, w roku 2023 może obniżać stawki podatku do wysokości 0%, 5% lub 8% dla dostaw niektórych towarów i świadczenia niektórych usług albo dla części tych dostaw lub części świadczenia usług oraz określać warunki stosowania obniżonych stawek.
+- **2)** 7,41% – dla towarów i usług objętych stawką podatku 8%.
+
+**Art. 146ec.** W roku 2023, na potrzeby art. 86 ust. 2 pkt 7, kwotą podatku naliczonego jest kwota stanowiąca równowartość 23% kwoty należnej z tytułu dostawy nowego środka transportu, nie wyższa jednak niż kwota podatku zawartego w fakturze stwierdzającej nabycie tego środka lub dokumencie celnym, albo podatku zapłaconego przez podatnika od wewnątrzwspólnotowego nabycia tego środka.
+
+**Art. 146ed.** Przepis art. 120 ust. 11 pkt 3 stosuje się odpowiednio do dostawy dzieł sztuki, które podlegały opodatkowaniu podatkiem według stawki 8%, stosowanej do tych towarów zgodnie z art. 146ea.
+
+**Art. 146ee.**
+
+1. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, w roku 2023 może obniżać stawki podatku do wysokości 0%, 5% lub 8% dla dostaw niektórych towarów i świadczenia niektórych usług albo dla części tych dostaw lub części świadczenia usług oraz określać warunki stosowania obniżonych stawek.
 
 2. Minister właściwy do spraw finansów publicznych przy wydawaniu rozporządzenia, o którym mowa w ust. 1, uwzględnia:
 
 - **1)** specyfikę obrotu niektórymi towarami i świadczenia niektórych usług;
-- **2)** przebieg realizacji budżetu państwa. Art. 146ef. 1. W okresie od dnia 1 stycznia 2024 r. do końca roku, w którym suma wydatków wymienionych w art. 40 ust. 1 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725) określonych na ten rok w ustawie budżetowej, w brzmieniu obowiązującym na dzień 31 lipca tego roku, oraz planie finansowym Funduszu Wsparcia Sił Zbrojnych przedłożonym zgodnie z art. 42 ust. 4 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny albo projekcie tego planu przedstawionym do zatwierdzenia Ministrowi Obrony Narodowej zgodnie z art. 42 ust. 2 i 3 tej ustawy, jeżeli plan ten nie został przedłożony zgodnie z art. 42 ust. 4 tej ustawy, po wyłączeniu planowanych przepływów finansowych w ramach tej sumy wydatków, jest wyższa niż 3% wartości produktu krajowego brutto określonego zgodnie z art. 40 ust. 2 tej ustawy:
+- **2)** przebieg realizacji budżetu państwa.
+
+**Art. 146ef.**
+
+1. W okresie od dnia 1 stycznia 2024 r. do końca roku, w którym suma wydatków wymienionych w art. 40 ust. 1 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725) określonych na ten rok w ustawie budżetowej, w brzmieniu obowiązującym na dzień 31 lipca tego roku, oraz planie finansowym Funduszu Wsparcia Sił Zbrojnych przedłożonym zgodnie z art. 42 ust. 4 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny albo projekcie tego planu przedstawionym do zatwierdzenia Ministrowi Obrony Narodowej zgodnie z art. 42 ust. 2 i 3 tej ustawy, jeżeli plan ten nie został przedłożony zgodnie z art. 42 ust. 4 tej ustawy, po wyłączeniu planowanych przepływów finansowych w ramach tej sumy wydatków, jest wyższa niż 3% wartości produktu krajowego brutto określonego zgodnie z art. 40 ust. 2 tej ustawy:
+
 - **1)** stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 i art. 138i ust. 4, wynosi 23%;
 - **2)** stawka podatku, o której mowa w art. 41 ust. 2, art. 120 ust. 2 i 3 oraz tytule załącznika nr 3 do ustawy, wynosi 8%;
 - **3)** stawka zryczałtowanego zwrotu podatku, o której mowa w art. 115 ust. 2, wynosi 7%;
 - **4)** stawka ryczałtu, o której mowa w art. 114 ust. 1, wynosi 4%.
 
-2. Minister właściwy do spraw finansów publicznych ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, koniec okresu obowiązywania stawek podatku, o których mowa w ust. 1, w terminie do dnia 31 października roku, dla którego zostały spełnione warunki określone w ust. 1. Art. 146eg. W przypadku świadczenia przez podatnika usług, w tym w zakresie handlu i gastronomii, w okresie, o którym mowa w art. 146ef, kwota podatku należnego, na potrzeby art. 85, jest obliczana jako iloczyn wartości dostawy i stawki:
+2. Minister właściwy do spraw finansów publicznych ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, koniec okresu obowiązywania stawek podatku, o których mowa w ust. 1, w terminie do dnia 31 października roku, dla którego zostały spełnione warunki określone w ust. 1.
+
+**Art. 146eg.** W przypadku świadczenia przez podatnika usług, w tym w zakresie handlu i gastronomii, w okresie, o którym mowa w art. 146ef, kwota podatku należnego, na potrzeby art. 85, jest obliczana jako iloczyn wartości dostawy i stawki:
 
 - **1)** 18,70% – dla towarów i usług objętych stawką podatku 23%;
-- **2)** 7,41% – dla towarów i usług objętych stawką podatku 8%. Art. 146eh. W okresie, o którym mowa w art. 146ef, na potrzeby art. 86 ust. 2 pkt 7, kwotą podatku naliczonego jest kwota stanowiąca równowartość 23% kwoty należnej z tytułu dostawy nowego środka transportu, nie wyższa jednak niż kwota podatku zawartego w fakturze stwierdzającej nabycie tego środka lub dokumencie celnym, albo podatku zapłaconego przez podatnika od wewnątrzwspólnotowego nabycia tego środka. Art. 146ei. Przepis art. 120 ust. 11 pkt 3 stosuje się odpowiednio do dostawy dzieł sztuki, które podlegały opodatkowaniu podatkiem według stawki 8%, stosowanej do tych towarów zgodnie z art. 146ef. Art. 146ej. 1. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, w okresie, o którym mowa w art. 146ef, może obniżać stawki podatku do wysokości 0%, 5% lub 8% dla dostaw niektórych towarów i świadczenia niektórych usług albo dla części tych dostaw lub części świadczenia usług oraz określać warunki stosowania obniżonych stawek.
+- **2)** 7,41% – dla towarów i usług objętych stawką podatku 8%.
+
+**Art. 146eh.** W okresie, o którym mowa w art. 146ef, na potrzeby art. 86 ust. 2 pkt 7, kwotą podatku naliczonego jest kwota stanowiąca równowartość 23% kwoty należnej z tytułu dostawy nowego środka transportu, nie wyższa jednak niż kwota podatku zawartego w fakturze stwierdzającej nabycie tego środka lub dokumencie celnym, albo podatku zapłaconego przez podatnika od wewnątrzwspólnotowego nabycia tego środka.
+
+**Art. 146ei.** Przepis art. 120 ust. 11 pkt 3 stosuje się odpowiednio do dostawy dzieł sztuki, które podlegały opodatkowaniu podatkiem według stawki 8%, stosowanej do tych towarów zgodnie z art. 146ef.
+
+**Art. 146ej.**
+
+1. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, w okresie, o którym mowa w art. 146ef, może obniżać stawki podatku do wysokości 0%, 5% lub 8% dla dostaw niektórych towarów i świadczenia niektórych usług albo dla części tych dostaw lub części świadczenia usług oraz określać warunki stosowania obniżonych stawek.
 
 2. Minister właściwy do spraw finansów publicznych przy wydawaniu rozporządzenia, o którym mowa w ust. 1, uwzględnia:
 

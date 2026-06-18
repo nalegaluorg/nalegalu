@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
+# Ustawa z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
 
 *USTAWA z dnia 18 grudnia 2003 r.*
 

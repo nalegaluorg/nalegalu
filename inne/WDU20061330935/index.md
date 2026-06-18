@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej
+# Ustawa z dnia 23 czerwca 2006 r. o zmianie niektórych ustaw w związku z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej
 
 *USTAWA z dnia 23 czerwca 2006 r.*
 

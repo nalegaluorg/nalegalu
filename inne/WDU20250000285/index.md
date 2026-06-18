@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o publicznym transporcie zbiorowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o publicznym transporcie zbiorowym
 
 *USTAWA z dnia 16 grudnia 2010 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-03-10 |
 | Ostatnia zmiana | 2026-04-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/285/text.pdf) |
-
-Art. 66–76. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -887,6 +885,8 @@ Art. 66–76. (pominięte)
 - **2)** określonych w art. 18 – w przypadku gdy organizatorem jest gmina.
 
 ### DZIAŁ IV Zmiany w przepisach obowiązujących
+
+**Art. 66–76.** (pominięte)
 
 **Art. 77.** Ilekroć w odrębnych przepisach jest mowa o „przewoźniku”, rozumie się przez to również operatora publicznego transportu zbiorowego.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz ustawy – Ordynacja podatkowa
+# Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz ustawy - Ordynacja podatkowa
 
 *USTAWA z dnia 9 marca 2023 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Inspekcji Weterynaryjnej
+# Ustawa z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej
 
 *USTAWA z dnia 29 stycznia 2004 r.*
 

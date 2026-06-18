@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o udziale Rzeczypospolitej Polskiej w systemie Eurodac
+# Ustawa z dnia 15 maja 2026 r. o udziale Rzeczypospolitej Polskiej w systemie Eurodac
 
 *USTAWA z dnia 15 maja 2026 r.*
 

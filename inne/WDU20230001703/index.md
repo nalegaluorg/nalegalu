@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zwalczaniu nadużyć w komunikacji elektronicznej
+# Ustawa z dnia 28 lipca 2023 r. o zwalczaniu nadużyć w komunikacji elektronicznej
 
 *USTAWA z dnia 28 lipca 2023 r.*
 
@@ -603,7 +603,9 @@ source: pdf
 
 1. Prezes UKE przedstawia sejmowej komisji właściwej w sprawach telekomunikacji oraz ministrowi właściwemu do spraw informatyzacji roczne sprawozdanie z wykonywania swoich obowiązków i uprawnień określonych w ustawie.
 
-2. Prezes UKE składa sprawozdanie, o którym mowa w ust. 1, w terminie do dnia 31 marca danego roku kalendarzowego, za rok poprzedni. Art. 34–36. (pominięte)
+2. Prezes UKE składa sprawozdanie, o którym mowa w ust. 1, w terminie do dnia 31 marca danego roku kalendarzowego, za rok poprzedni.
+
+**Art. 34–36.** (pominięte)
 
 **Art. 37.**
 

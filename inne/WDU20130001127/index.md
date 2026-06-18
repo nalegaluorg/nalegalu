@@ -57,7 +57,6 @@ b) deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w za
 § 10. Certyfikaty zgodności, wydane przez jednostki notyfikowane zgodnie z załącznikami nr 3–5 do rozporządzenia, są ważne nie dłużej niż przez okres 5 lat i mogą być przedłużane, na wniosek wytwórcy lub autoryzowanego przedstawiciela złożony w terminie uzgodnionym umową, na kolejne okresy, nie dłuższe niż 5 lat.
 § 11. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
 WYMAGANIA ZASADNICZE DLA WYROBÓW MEDYCZNYCH DO DIAGNOSTYKI IN VITRO
-Wymagania ogólne
 1. Wyroby medyczne do diagnostyki in vitro muszą być tak zaprojektowane i wytworzone, aby ich stosowanie w przewidzianych warunkach i zgodnie z przewidzianym zastosowaniem nie zagrażało bezpośrednio ani pośrednio zdrowiu i bezpieczeństwu pacjentów, użytkowników oraz innych osób. Ryzyko związane z używaniem wyrobu medycznego do diagnostyki in vitro może być dopuszczone pod warunkiem wyważenia korzyści wynikających z jego zastosowania dla pacjenta, z zachowaniem wysokich wymagań w zakresie bezpieczeństwa i ochrony zdrowia.
 2. Rozwiązania przyjęte przez wytwórcę w projekcie i konstrukcji wyrobu medycznego do diagnostyki in vitro muszą odpowiadać zasadom bezpieczeństwa, uwzględniając aktualny stan wiedzy. Przy wyborze najodpowiedniejszych rozwiązań wytwórca stosuje zasady bezpieczeństwa w następującej kolejności:
 1) wyeliminowanie lub ograniczenie ryzyka tak dalece, jak to możliwe (bezpieczeństwo wynikające z projektu i konstrukcji);
@@ -67,7 +66,6 @@ Wymagania ogólne
 Spójność pomiarową wzorców odniesienia lub materiałów kontrolnych zapewnia się przez dostępność referencyjnych procedur pomiarowych lub materiałów odniesienia wyższego rzędu.
 4. Właściwości i parametry działania, o których mowa w ust. 1–3, nie mogą ulec pogorszeniu w stopniu powodującym, że zdrowie i bezpieczeństwo pacjentów lub użytkowników oraz, jeżeli ma to zastosowanie, innych osób mogą być zagrożone podczas wskazanego przez wytwórcę okresu użytkowania wyrobu medycznego do diagnostyki in vitro, jeżeli wyrób ten podlega obciążeniom, które mogą wystąpić w normalnych warunkach używania. Jeżeli wytwórca nie określił okresu użytkowania wyrobu medycznego do diagnostyki in vitro, należy przyjąć taki okres, jaki jest przyjmowany dla tego rodzaju wyrobów, uwzględniając przewidziane zastosowanie i cel używania wyrobu.
 5. Wyroby medyczne do diagnostyki in vitro muszą być zaprojektowane, wytworzone i opakowane w sposób uniemożliwiający pogorszenie się ich właściwości i parametrów działania w przewidzianym okresie użytkowania, na skutek warunków transportu i składowania, z uwzględnieniem instrukcji i informacji dostarczanych przez wytwórcę.
-Wymagania dotyczące projektu i wykonania
 1. Właściwości chemiczne i fizyczne
 1.1. Wyroby medyczne do diagnostyki in vitro muszą być zaprojektowane i wytworzone w sposób zapewniający osiągnięcie właściwości i parametrów działania określonych w części I ust. 1–3, ze szczególnym uwzględnieniem możliwości pogorszenia działania analitycznego z powodu niezgodności pomiędzy użytymi materiałami a próbkami, takimi jak tkanki biologiczne, komórki, płyny ustrojowe i drobnoustroje, przewidzianymi do użycia z wyrobem medycznym do diagnostyki in vitro, z uwzględnieniem przewidzianego zastosowania danego wyrobu.
 1.2. Wyroby medyczne do diagnostyki in vitro muszą być zaprojektowane, wytworzone i opakowane w sposób ograniczający niebezpieczeństwo związane z wyciekiem substancji, zanieczyszczeniami i pozostałościami, stwarzane dla osób zajmujących się transportem, przechowywaniem i stosowaniem tych wyrobów, z uwzględnieniem ich przewidzianego zastosowania.
@@ -342,7 +340,7 @@ OŚWIADCZENIE I PROCEDURY DOTYCZĄCE WYROBÓW DO OCENY DZIAŁANIA
 Wytwórca przechowuje tę dokumentację przez 5 lat od zakończenia oceny działania.
 Wytwórca podejmuje wszelkie niezbędne środki w procesie wytwarzania w celu zapewnienia, że wyroby do oceny działania są wytwarzane zgodnie z tą dokumentacją.
 
-## CZĘŚĆ I.
+## CZĘŚĆ I. Wymagania ogólne
 
-## CZĘŚĆ II.
+## CZĘŚĆ II. Wymagania dotyczące projektu i wykonania
 

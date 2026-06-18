@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o utrzymaniu czystości i porządku w gminach
+# Ustawa z dnia 23 czerwca 2006 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach
 
 *USTAWA z dnia 23 czerwca 2006 r.*
 

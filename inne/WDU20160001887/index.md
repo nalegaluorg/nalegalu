@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o muzeach
+# Ustawa z dnia 4 listopada 2016 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o muzeach
 
 *USTAWA z dnia 4 listopada 2016 r.*
 

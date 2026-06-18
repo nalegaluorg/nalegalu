@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o komornikach sądowych i egzekucji
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o komornikach sądowych i egzekucji
 
 *USTAWA z dnia 29 sierpnia 1997 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-07-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001309) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1309/text.pdf) |
-
-Art. 95–98. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -895,7 +893,11 @@ Art. 95–98. (pominięte)
 
 2. Prezes sądu apelacyjnego może odwołać asesora komorniczego z zajmowanego stanowiska w razie prawomocnego skazania za nieumyślne przestępstwo lub nieumyślne przestępstwo skarbowe.
 
-3. Odwołanie asesora komorniczego z zajmowanego stanowiska w przypadkach, o których mowa w ust. 1 pkt 2 i 6 oraz w ust. 2, następuje po uprzednim wysłuchaniu asesora komorniczego, chyba że nie jest to możliwe, oraz po zasięgnięciu opinii rady właściwej izby komorniczej. Właściwa izba komornicza przedstawia opinię w terminie 21 dni od dnia otrzymania wniosku. Nieprzedstawienie opinii w powyższym terminie przez radę izby komorniczej nie stanowi przeszkody do odwołania asesora komorniczego. Art. 32ba. 1. Osoba odwołana ze stanowiska asesora komorniczego z przyczyn, o których mowa w art. 32b ust. 1 pkt 1 i 4–7 oraz ust. 2, może zostać ponownie powołana na to stanowisko, jeżeli spełnia wymagania określone w art. 32 ust. 1, z uwzględnieniem art. 72a ust. 5.
+3. Odwołanie asesora komorniczego z zajmowanego stanowiska w przypadkach, o których mowa w ust. 1 pkt 2 i 6 oraz w ust. 2, następuje po uprzednim wysłuchaniu asesora komorniczego, chyba że nie jest to możliwe, oraz po zasięgnięciu opinii rady właściwej izby komorniczej. Właściwa izba komornicza przedstawia opinię w terminie 21 dni od dnia otrzymania wniosku. Nieprzedstawienie opinii w powyższym terminie przez radę izby komorniczej nie stanowi przeszkody do odwołania asesora komorniczego.
+
+**Art. 32ba.**
+
+1. Osoba odwołana ze stanowiska asesora komorniczego z przyczyn, o których mowa w art. 32b ust. 1 pkt 1 i 4–7 oraz ust. 2, może zostać ponownie powołana na to stanowisko, jeżeli spełnia wymagania określone w art. 32 ust. 1, z uwzględnieniem art. 72a ust. 5.
 
 2. Jeżeli osoba, o której mowa w ust. 1, co najmniej przez 5 lat nie wykonywała zawodu może zostać ponownie powołana na stanowisko asesora komorniczego po złożeniu egzaminu komorniczego.
 
@@ -1347,7 +1349,11 @@ Art. 95–98. (pominięte)
 
 2. Oskarżycielem w postępowaniu dyscyplinarnym jest rzecznik dyscyplinarny. Niezależnie od działania rzecznika dyscyplinarnego, jako oskarżyciel w postępowaniu dyscyplinarnym mogą występować Minister Sprawiedliwości, prezesi sądów, sędziowie-wizytatorzy, organy samorządu komorniczego oraz komornicy-wizytatorzy.
 
-3. Obwinionym jest komornik, asesor komorniczy albo aplikant komorniczy, przeciwko któremu złożono wniosek o wszczęcie postępowania dyscyplinarnego. Art. 75fa. 1. Rzecznika dyscyplinarnego powołuje Minister Sprawiedliwości, spośród trzech kandydatów przedstawionych przez Krajową Radę Komorniczą.
+3. Obwinionym jest komornik, asesor komorniczy albo aplikant komorniczy, przeciwko któremu złożono wniosek o wszczęcie postępowania dyscyplinarnego.
+
+**Art. 75fa.**
+
+1. Rzecznika dyscyplinarnego powołuje Minister Sprawiedliwości, spośród trzech kandydatów przedstawionych przez Krajową Radę Komorniczą.
 
 2. Rzecznik dyscyplinarny może wykonywać czynności przy pomocy swoich zastępców.
 
@@ -1363,26 +1369,48 @@ Art. 95–98. (pominięte)
 
 1. Obwiniony może korzystać z pomocy obrońcy, którym może być adwokat, radca prawny albo komornik.
 
-2. Obwiniony może ustanowić najwyżej dwóch obrońców. Art. 75ga. 1. Rzecznik dyscyplinarny wszczyna dochodzenie z urzędu albo na wniosek podmiotu, o którym mowa w art. 74 ust. 1.
+2. Obwiniony może ustanowić najwyżej dwóch obrońców.
+
+**Art. 75ga.**
+
+1. Rzecznik dyscyplinarny wszczyna dochodzenie z urzędu albo na wniosek podmiotu, o którym mowa w art. 74 ust. 1.
 
 2. Wniosek o wszczęcie dochodzenia wiąże rzecznika dyscyplinarnego.
 
 3. O wszczęciu dochodzenia rzecznik dyscyplinarny zawiadamia wnioskodawcę, Ministra Sprawiedliwości, Krajową Radę Komorniczą oraz izbę komorniczą, której obwiniony jest członkiem. Jeżeli obwinionym jest aplikant komorniczy albo asesor komorniczy, rzecznik dyscyplinarny o wszczęciu dochodzenia zawiadamia ponadto prezesa właściwego sądu apelacyjnego oraz komornika, który zatrudnia aplikanta komorniczego albo asesora komorniczego.
 
-4. Jeżeli czyn, którego popełnienie zarzuca się obwinionemu stanowi przestępstwo ścigane z oskarżenia publicznego, rzecznik dyscyplinarny niezwłocznie zawiadamia o podejrzeniu popełnienia przestępstwa prokuratora. Art. 75gb. Za nieusprawiedliwione niestawiennictwo, odmowę złożenia zeznań lub przyrzeczenia sąd rejonowy właściwy według miejsca zamieszkania świadka lub biegłego nakłada grzywnę na świadka lub biegłego, na wniosek rzecznika dyscyplinarnego. O skutkach niestawiennictwa, odmowy złożenia zeznań lub przyrzeczenia należy pouczyć świadka lub biegłego przy wezwaniu do złożenia zeznań albo sporządzenia opinii. Art. 75gc. 1. Rzecznik dyscyplinarny przy wszczęciu dochodzenia lub w jego toku może wystąpić do komisji dyscyplinarnej o zawieszenie komornika w czynnościach. Przepis art. 74 ust. 3 stosuje się, a przepisy art. 78 ust. 2, 4 i 5 stosuje się odpowiednio.
+4. Jeżeli czyn, którego popełnienie zarzuca się obwinionemu stanowi przestępstwo ścigane z oskarżenia publicznego, rzecznik dyscyplinarny niezwłocznie zawiadamia o podejrzeniu popełnienia przestępstwa prokuratora.
+
+**Art. 75gb.** Za nieusprawiedliwione niestawiennictwo, odmowę złożenia zeznań lub przyrzeczenia sąd rejonowy właściwy według miejsca zamieszkania świadka lub biegłego nakłada grzywnę na świadka lub biegłego, na wniosek rzecznika dyscyplinarnego. O skutkach niestawiennictwa, odmowy złożenia zeznań lub przyrzeczenia należy pouczyć świadka lub biegłego przy wezwaniu do złożenia zeznań albo sporządzenia opinii.
+
+**Art. 75gc.**
+
+1. Rzecznik dyscyplinarny przy wszczęciu dochodzenia lub w jego toku może wystąpić do komisji dyscyplinarnej o zawieszenie komornika w czynnościach. Przepis art. 74 ust. 3 stosuje się, a przepisy art. 78 ust. 2, 4 i 5 stosuje się odpowiednio.
 
 2. Na postanowienie komisji dyscyplinarnej w przedmiocie zawieszenia w czynnościach stronom przysługuje zażalenie do Sądu Okręgowego w Warszawie w terminie tygodniowym od dnia doręczenia postanowienia.
 
-3. Postanowienie Sądu Okręgowego w Warszawie jest niezaskarżalne. Art. 75gd. 1. Rzecznik dyscyplinarny po uznaniu, że dowody zebrane w dochodzeniu są wystarczające do wszczęcia postępowania przed komisją dyscyplinarną, składa wniosek o ukaranie.
+3. Postanowienie Sądu Okręgowego w Warszawie jest niezaskarżalne.
 
-2. Złożenie wniosku przez rzecznika dyscyplinarnego albo przez podmiot, o którym mowa w art. 75f ust. 2 zdanie drugie, wszczyna postępowanie przed komisją dyscyplinarną. Art. 75ge. 1. Rzecznik dyscyplinarny może przed wszczęciem postępowania przed komisją dyscyplinarną umorzyć dochodzenie, które prowadził, jeżeli:
+**Art. 75gd.**
+
+1. Rzecznik dyscyplinarny po uznaniu, że dowody zebrane w dochodzeniu są wystarczające do wszczęcia postępowania przed komisją dyscyplinarną, składa wniosek o ukaranie.
+
+2. Złożenie wniosku przez rzecznika dyscyplinarnego albo przez podmiot, o którym mowa w art. 75f ust. 2 zdanie drugie, wszczyna postępowanie przed komisją dyscyplinarną.
+
+**Art. 75ge.**
+
+1. Rzecznik dyscyplinarny może przed wszczęciem postępowania przed komisją dyscyplinarną umorzyć dochodzenie, które prowadził, jeżeli:
 
 - **1)** czynu nie popełniono albo czyn nie zawiera znamion przewinienia dyscyplinarnego;
 - **2)** postępowanie dyscyplinarne co do tego samego czynu zostało wszczęte wcześniej albo prawomocnie zakończone, z uwzględnieniem art. 74 ust. 2 zdanie drugie.
 
 2. Odpis postanowienia o umorzeniu dochodzenia doręcza się obwinionemu, wnioskodawcy, Ministrowi Sprawiedliwości, Prezesowi Krajowej Rady Komorniczej oraz izbie komorniczej, której obwiniony jest członkiem. Jeżeli obwinionym jest aplikant komorniczy albo asesor komorniczy, postanowienie o umorzeniu dochodzenia rzecznik dyscyplinarny doręcza ponadto prezesowi właściwego sądu apelacyjnego oraz komornikowi, który zatrudnia aplikanta komorniczego albo asesora komorniczego.
 
-3. Na postanowienie rzecznika dyscyplinarnego o umorzeniu dochodzenia podmiotowi, o którym mowa w art. 74 ust. 1, oraz Prezesowi Krajowej Rady Komorniczej przysługuje zażalenie do sądu okręgowego właściwego według siedziby kancelarii obwinionego komornika lub siedziby kancelarii, w której obwiniony aplikant komorniczy albo asesor komorniczy był lub jest zatrudniony, w terminie tygodniowym od dnia doręczenia odpisu postanowienia. Art. 75gf. 1. Przewodniczący komisji dyscyplinarnej w terminie 7 dni od dnia złożenia wniosku o ukaranie wyznacza skład orzekający i przewodniczącego spośród jego członków.
+3. Na postanowienie rzecznika dyscyplinarnego o umorzeniu dochodzenia podmiotowi, o którym mowa w art. 74 ust. 1, oraz Prezesowi Krajowej Rady Komorniczej przysługuje zażalenie do sądu okręgowego właściwego według siedziby kancelarii obwinionego komornika lub siedziby kancelarii, w której obwiniony aplikant komorniczy albo asesor komorniczy był lub jest zatrudniony, w terminie tygodniowym od dnia doręczenia odpisu postanowienia.
+
+**Art. 75gf.**
+
+1. Przewodniczący komisji dyscyplinarnej w terminie 7 dni od dnia złożenia wniosku o ukaranie wyznacza skład orzekający i przewodniczącego spośród jego członków.
 
 2. Postępowanie przed komisją dyscyplinarną jest jawne.
 
@@ -1432,7 +1460,11 @@ Art. 95–98. (pominięte)
 
 3. Uzasadnienia orzeczenia nie sporządza się z urzędu w sprawach, w których uwzględniono w całości wniosek podmiotu, o którym mowa w art. 75f ust. 2 zdanie drugie, wniosek rzecznika dyscyplinarnego o wydanie orzeczenia i wymierzenie kary dyscyplinarnej oraz obwiniony przyznał się do popełnienia czynu i za zgodą stron nie przeprowadzano postępowania dowodowego lub przeprowadzono je częściowo.
 
-4. W przypadkach, o których mowa w ust. 3, uzasadnienie sporządza się wyłącznie na wniosek strony, Ministra Sprawiedliwości lub Prezesa Krajowej Rady Komorniczej, zgłoszony w terminie zawitym 7 dni od dnia doręczenia orzeczenia. Art. 75ma. 1. Od orzeczeń i postanowień kończących postępowanie w sprawie przysługuje stronom, rzecznikowi dyscyplinarnemu, Ministrowi Sprawiedliwości i Prezesowi Krajowej Rady Komorniczej odwołanie do sądu okręgowego właściwego według siedziby kancelarii obwinionego komornika lub siedziby kancelarii, w której obwiniony aplikant komorniczy albo asesor komorniczy był lub jest zatrudniony, w terminie 30 dni od dnia doręczenia orzeczenia albo postanowienia wraz z uzasadnieniem.
+4. W przypadkach, o których mowa w ust. 3, uzasadnienie sporządza się wyłącznie na wniosek strony, Ministra Sprawiedliwości lub Prezesa Krajowej Rady Komorniczej, zgłoszony w terminie zawitym 7 dni od dnia doręczenia orzeczenia.
+
+**Art. 75ma.**
+
+1. Od orzeczeń i postanowień kończących postępowanie w sprawie przysługuje stronom, rzecznikowi dyscyplinarnemu, Ministrowi Sprawiedliwości i Prezesowi Krajowej Rady Komorniczej odwołanie do sądu okręgowego właściwego według siedziby kancelarii obwinionego komornika lub siedziby kancelarii, w której obwiniony aplikant komorniczy albo asesor komorniczy był lub jest zatrudniony, w terminie 30 dni od dnia doręczenia orzeczenia albo postanowienia wraz z uzasadnieniem.
 
 2. Odwołanie wnosi się za pośrednictwem komisji dyscyplinarnej, która wydała zaskarżone orzeczenie albo postanowienie.
 
@@ -1678,6 +1710,8 @@ Art. 95–98. (pominięte)
 3. Krajowa Rada Komornicza zapewnia Ministrowi Sprawiedliwości dostęp do listy, o której mowa w ust. 1, za pośrednictwem systemu teleinformatycznego.
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
+
+**Art. 95–98.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i końcowe
 

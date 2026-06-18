@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 10 lipca 2008 r. o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczania chorób zakaźnych zwierząt oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 10 lipca 2008 r.*
 

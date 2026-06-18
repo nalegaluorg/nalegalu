@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu nowej nazwy Akademii Ekonomicznej w Krakowie
+# Ustawa z dnia 6 lipca 2007 r. o nadaniu nowej nazwy Akademii Ekonomicznej w Krakowie
 
 *USTAWA z dnia 6 lipca 2007 r.*
 

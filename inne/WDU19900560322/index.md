@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie dóbr kultury i o muzeach.
+# Ustawa z dnia 19 lipca 1990 r. o zmianie ustawy o ochronie dóbr kultury i o muzeach.
 
 *USTAWA z dnia 19 lipca 1990 r.*
 

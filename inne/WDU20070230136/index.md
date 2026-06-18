@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o drogowych spółkach specjalnego przeznaczenia
+# Ustawa z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia
 
 *USTAWA z dnia 12 stycznia 2007 r.*
 
@@ -191,7 +191,9 @@ source: pdf
 2. Dokumenty zamówienia, o którym mowa w ust. 1, powinna zawierać także:
 
 - **1)** obowiązek złożenia oświadczenia przez uczestnika postępowania, że jego wspólnicy albo akcjonariusze, którzy dysponują bezpośrednio lub pośrednio co najmniej 20% głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub którzy posiadają bezpośrednio co najmniej 20% udziałów lub akcji w innej spółce kapitałowej, nie ubiegają się o zawarcie umowy, o której mowa w art. 9 ust. 1, dotyczącej tego samego postępowania;
-- **2)** obowiązek złożenia przez uczestnika postępowania wykazu jednostek z nim powiązanych w rozumieniu przepisów o rachunkowości. Art. 11–14. (pominięte)
+- **2)** obowiązek złożenia przez uczestnika postępowania wykazu jednostek z nim powiązanych w rozumieniu przepisów o rachunkowości.
+
+**Art. 11–14.** (pominięte)
 
 **Art. 15.**
 

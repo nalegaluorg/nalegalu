@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kierujących pojazdami oraz niektórych innych ustaw
+# Ustawa z dnia 24 maja 2013 r. o zmianie ustawy o kierujących pojazdami oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 maja 2013 r.*
 

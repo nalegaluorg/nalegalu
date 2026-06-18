@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o współpracy rozwojowej
+# Ustawa z dnia 16 września 2011 r. o współpracy rozwojowej
 
 *USTAWA z dnia 16 września 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-11-03 |
 | Ostatnia zmiana | 2025-10-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112341386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1386/text.pdf) |
-
-Art. 20–22. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -315,6 +313,8 @@ Art. 20–22. (pominięte)
 - **4)** warunki i tryb uzgadniania z ministrem właściwym do spraw finansów publicznych działającym w uzgodnieniu z ministrem właściwym do spraw zagranicznych finansowania, o którym mowa w art. 19c ust. 1, w tym wysokości wynagrodzenia, o którym mowa w art. 19c ust. 2.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 20–22.** (pominięte)
 
 **Art. 23.** Pierwszy skład Rady zostanie powołany w terminie miesiąca od dnia wejścia w życie ustawy. Pierwsza kadencja Rady rozpoczyna się z dniem powołania ostatniego jej członka.
 

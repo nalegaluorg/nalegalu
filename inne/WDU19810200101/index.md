@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe
+# Ustawa z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe.
 
 *USTAWA z dnia 31 lipca 1981 r.*
 

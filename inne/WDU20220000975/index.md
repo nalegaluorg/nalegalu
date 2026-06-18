@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami
+# Ustawa z dnia 24 marca 2022 r. o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami
 
 *USTAWA z dnia 24 marca 2022 r.*
 

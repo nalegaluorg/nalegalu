@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo pocztowe oraz ustawy o zmianie ustawy – Prawo pocztowe
+# Ustawa z dnia 20 marca 2024 r. o zmianie ustawy - Prawo pocztowe oraz ustawy o zmianie ustawy - Prawo pocztowe
 
 *USTAWA z dnia 20 marca 2024 r.*
 

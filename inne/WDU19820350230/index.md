@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obywateli w trzeźwości za niezbędny warunek moralnego i materialnego dobra Narodu, stanowi się, co następuje:
+# Ustawa z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi.
 
 *USTAWA z dnia 26 października 1982 r.*
 

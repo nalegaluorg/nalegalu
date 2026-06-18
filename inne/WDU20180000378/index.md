@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dystrybucji ubezpieczeń
+# Ustawa z dnia 26 stycznia 2018 r. o zmianie ustawy o dystrybucji ubezpieczeń
 
 *USTAWA z dnia 26 stycznia 2018 r.*
 

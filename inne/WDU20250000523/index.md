@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
+# Ustawa z dnia 20 marca 2025 r. o zmianie ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
 
 *USTAWA z dnia 20 marca 2025 r.*
 

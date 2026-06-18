@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks postępowania cywilnego
+# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy - Kodeks postępowania cywilnego
 
 *USTAWA z dnia 28 lipca 2005 r.*
 

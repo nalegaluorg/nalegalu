@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych
+# Ustawa z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych.
 
 *USTAWA z dnia 20 lipca 2000 r.*
 
@@ -433,7 +433,9 @@ source: pdf
 
 1. Terenowe organy administracji rządowej udostępniają nieodpłatnie zbiory Dziennika UE w języku polskim w postaci elektronicznej.
 
-2. Do udostępniania zbiorów Dziennika UE w postaci elektronicznej stosuje się odpowiednio art. 26 ust. 1. Art. 30–40. (pominięte)
+2. Do udostępniania zbiorów Dziennika UE w postaci elektronicznej stosuje się odpowiednio art. 26 ust. 1.
+
+**Art. 30–40.** (pominięte)
 
 **Art. 41.** Zachowują moc upoważnienia do wydawania tekstów jednolitych, skierowane do organów wymienionych w tych upoważnieniach, zawarte w aktach normatywnych wydanych przed dniem wejścia w życie ustawy.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o drogach publicznych
+# Ustawa z dnia 8 grudnia 2017 r. o zmianie ustawy o drogach publicznych
 
 *USTAWA z dnia 8 grudnia 2017 r.*
 

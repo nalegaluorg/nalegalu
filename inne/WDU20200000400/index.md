@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
+# Ustawa z dnia 13 lutego 2020 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 13 lutego 2020 r.*
 
@@ -60,7 +60,12 @@ source: pdf
     - **d)** uchyla się ust. 2,
     - **e)** w ust. 3b wprowadzenie do wyliczenia otrzymuje brzmienie: „Przepisów ust. 3 i 3a, rozdziału 2aa oraz art. 37 ust. 3–8 nie stosuje się do przedsiębiorcy, który łączy funkcję zarządcy i przewoźnika kolejowego przez zarządzanie infrastrukturą kolejową i wykonywanie wyłącznie miejskich, podmiejskich lub regionalnych przewozów kolejowych na sieciach kolejowych lub liniach kolejowych:”;
 
-- **5)** po rozdziale 2a dodaje się rozdział 2aa w brzmieniu: „Rozdział 2aa Gwarancje niezależności i bezstronności zarządcy Art. 9ma. 1. Zarządca może zlecić wykonywanie zadań zarządcy innemu podmiotowi, jeżeli nie prowadzi to do konfliktu interesów oraz nie narusza tajemnicy przedsiębiorstwa, pod warunkiem że podmiot ten:
+- **5)** po rozdziale 2a dodaje się rozdział 2aa w brzmieniu: „Rozdział 2aa Gwarancje niezależności i bezstronności zarządcy
+
+**Art. 9ma.**
+
+1. Zarządca może zlecić wykonywanie zadań zarządcy innemu podmiotowi, jeżeli nie prowadzi to do konfliktu interesów oraz nie narusza tajemnicy przedsiębiorstwa, pod warunkiem że podmiot ten:
+
 - **1)** nie jest przewoźnikiem kolejowym;
 - **2)** nie sprawuje kontroli nad przewoźnikiem kolejowym;
 - **3)** nie jest kontrolowany przez przewoźnika kolejowego.
@@ -73,11 +78,19 @@ source: pdf
 
 5. Do zlecania wykonywania zadań zarządcy operatorowi zapewniającemu energię elektryczną na cele trakcyjne nie stosuje się ograniczeń określonych w ust. 1, jeżeli operator nie wykonuje funkcji podstawowych, a jego działalność nie jest dofinansowana ze środków budżetu państwa lub Funduszu Kolejowego.
 
-6. Podmiot, któremu zarządca zlecił wykonywanie funkcji podstawowych, wykonuje je w sposób przejrzysty, zapewniający niedyskryminujące traktowanie aplikantów i przewoźników kolejowych oraz uniemożliwiający konflikt interesów, zgodnie z przepisami niniejszego rozdziału. Art. 9mb. 1. Zarządca jest obowiązany posiadać osobowość prawną odrębną od przewoźników kolejowych, a w przypadku przedsiębiorstwa zintegrowanego pionowo także od innych podmiotów wchodzących w skład tego przedsiębiorstwa.
+6. Podmiot, któremu zarządca zlecił wykonywanie funkcji podstawowych, wykonuje je w sposób przejrzysty, zapewniający niedyskryminujące traktowanie aplikantów i przewoźników kolejowych oraz uniemożliwiający konflikt interesów, zgodnie z przepisami niniejszego rozdziału.
+
+**Art. 9mb.**
+
+1. Zarządca jest obowiązany posiadać osobowość prawną odrębną od przewoźników kolejowych, a w przypadku przedsiębiorstwa zintegrowanego pionowo także od innych podmiotów wchodzących w skład tego przedsiębiorstwa.
 
 2. W przypadku gdy zarządca i przewoźnik kolejowy są niezależni od siebie, jednak obydwa te podmioty są kontrolowane bezpośrednio przez Skarb Państwa, nie stosuje się do nich przepisów ustawy dotyczących przedsiębiorstwa zintegrowanego pionowo.
 
-3. Podmiot wchodzący w skład przedsiębiorstwa zintegrowanego pionowo nie może mieć decydującego wpływu w rozumieniu przepisów rozporządzenia (WE) nr 139/2004 na wykonywanie przez zarządcę funkcji podstawowych. Art. 9mc. 1. Te same osoby nie mogą:
+3. Podmiot wchodzący w skład przedsiębiorstwa zintegrowanego pionowo nie może mieć decydującego wpływu w rozumieniu przepisów rozporządzenia (WE) nr 139/2004 na wykonywanie przez zarządcę funkcji podstawowych.
+
+**Art. 9mc.**
+
+1. Te same osoby nie mogą:
 
 - **1)** pełnić jednocześnie u zarządcy i przewoźnika kolejowego funkcji członka:
     - **a)** zarządu,
@@ -87,31 +100,64 @@ source: pdf
 
 2. Funkcji członka zarządu zarządcy nie może pełnić osoba, która jednocześnie pełni funkcję członka rady nadzorczej podmiotu wchodzącego w skład przedsiębiorstwa zintegrowanego pionowo oraz sprawującego kontrolę nad zarządcą i przewoźnikiem kolejowym wchodzącymi w skład tego przedsiębiorstwa.
 
-3. Członkowie zarządu przewoźnika kolejowego nie mogą zajmować stanowisk kierowniczych właściwych w zakresie funkcji podstawowych. Art. 9md. 1. Członkowie zarządu zarządcy wchodzącego w skład przedsiębiorstwa zintegrowanego pionowo oraz osoby zajmujące u zarządcy wchodzącego w skład przedsiębiorstwa zintegrowanego pionowo stanowiska kierownicze właściwe w zakresie funkcji podstawowych nie mogą otrzymywać od podmiotu wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo wynagrodzenia lub premii, związanych z wynikiem finansowym przewoźnika kolejowego wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo.
+3. Członkowie zarządu przewoźnika kolejowego nie mogą zajmować stanowisk kierowniczych właściwych w zakresie funkcji podstawowych.
 
-2. Osoby zajmujące u przewoźnika kolejowego stanowiska kierownicze właściwe w zakresie wykonywania przewozów kolejowych nie mogą otrzymywać od podmiotu wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo wynagrodzenia lub premii, związanych z wynikiem finansowym zarządcy wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo. Art. 9me. 1. W przypadku gdy zarządca i podmioty wchodzące w skład przedsiębiorstwa zintegrowanego pionowo korzystają ze wspólnego systemu teleinformatycznego, dostęp do informacji dotyczących funkcji podstawowych stanowiących tajemnice przedsiębiorstwa lub informacje prawnie chronione mają wyłącznie osoby upoważnione przez zarządcę.
+**Art. 9md.**
 
-2. Informacje, o których mowa w ust. 1, nie mogą być przekazywane innym podmiotom wchodzącym w skład przedsiębiorstwa zintegrowanego pionowo. Art. 9mf. Przewoźnik kolejowy albo inny podmiot wchodzący w skład przedsiębiorstwa zintegrowanego pionowo nie może mieć decydującego wpływu w rozumieniu przepisów rozporządzenia (WE) nr 139/2004 na powoływanie i odwoływanie członków zarządu lub członków rady nadzorczej zarządcy wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo oraz na zatrudnianie i zwalnianie osób zajmujących u tego zarządcy stanowiska kierownicze właściwe w zakresie funkcji podstawowych. Art. 9mg. 1. Członkowie zarządu i rady nadzorczej zarządcy oraz osoby zajmujące stanowiska kierownicze właściwe w zakresie funkcji podstawowych nie mogą pełnić funkcji w organach przewoźnika kolejowego lub podmiotu sprawującego kontrolę nad tym przewoźnikiem, pozostawać w stosunku pracy z tymi podmiotami ani świadczyć pracy albo usług na rzecz tych podmiotów na podstawie innego stosunku prawnego.
+1. Członkowie zarządu zarządcy wchodzącego w skład przedsiębiorstwa zintegrowanego pionowo oraz osoby zajmujące u zarządcy wchodzącego w skład przedsiębiorstwa zintegrowanego pionowo stanowiska kierownicze właściwe w zakresie funkcji podstawowych nie mogą otrzymywać od podmiotu wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo wynagrodzenia lub premii, związanych z wynikiem finansowym przewoźnika kolejowego wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo.
+
+2. Osoby zajmujące u przewoźnika kolejowego stanowiska kierownicze właściwe w zakresie wykonywania przewozów kolejowych nie mogą otrzymywać od podmiotu wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo wynagrodzenia lub premii, związanych z wynikiem finansowym zarządcy wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo.
+
+**Art. 9me.**
+
+1. W przypadku gdy zarządca i podmioty wchodzące w skład przedsiębiorstwa zintegrowanego pionowo korzystają ze wspólnego systemu teleinformatycznego, dostęp do informacji dotyczących funkcji podstawowych stanowiących tajemnice przedsiębiorstwa lub informacje prawnie chronione mają wyłącznie osoby upoważnione przez zarządcę.
+
+2. Informacje, o których mowa w ust. 1, nie mogą być przekazywane innym podmiotom wchodzącym w skład przedsiębiorstwa zintegrowanego pionowo.
+
+**Art. 9mf.** Przewoźnik kolejowy albo inny podmiot wchodzący w skład przedsiębiorstwa zintegrowanego pionowo nie może mieć decydującego wpływu w rozumieniu przepisów rozporządzenia (WE) nr 139/2004 na powoływanie i odwoływanie członków zarządu lub członków rady nadzorczej zarządcy wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo oraz na zatrudnianie i zwalnianie osób zajmujących u tego zarządcy stanowiska kierownicze właściwe w zakresie funkcji podstawowych.
+
+**Art. 9mg.**
+
+1. Członkowie zarządu i rady nadzorczej zarządcy oraz osoby zajmujące stanowiska kierownicze właściwe w zakresie funkcji podstawowych nie mogą pełnić funkcji w organach przewoźnika kolejowego lub podmiotu sprawującego kontrolę nad tym przewoźnikiem, pozostawać w stosunku pracy z tymi podmiotami ani świadczyć pracy albo usług na rzecz tych podmiotów na podstawie innego stosunku prawnego.
 
 2. Zakaz, o którym mowa w ust. 1, obowiązuje również w okresie 6 miesięcy od dnia:
 
 - **1)** zakończenia pełnienia funkcji członka zarządu lub rady nadzorczej zarządcy;
 - **2)** ustania zatrudnienia pracownika zarządcy na stanowiskach objętych zakazem;
-- **3)** zakończenia przez pracownika zarządcy świadczenia pracy albo usług. Art. 9mh. Zarządca niezwłocznie przekazuje wszystkim przewoźnikom kolejowym, których to dotyczy, informację o wystąpieniu zakłócenia w prowadzeniu ruchu pociągów, jego skutkach i podejmowanych działaniach. Art. 9mi. Zarządca może wykorzystać dochód z tytułu wykonywania zadań, o których mowa w art. 5 ust. 1, oraz środki publiczne przyznane zarządcy na realizację tych zadań, wyłącznie do finansowania własnej działalności, w tym do:
+- **3)** zakończenia przez pracownika zarządcy świadczenia pracy albo usług.
+
+**Art. 9mh.** Zarządca niezwłocznie przekazuje wszystkim przewoźnikom kolejowym, których to dotyczy, informację o wystąpieniu zakłócenia w prowadzeniu ruchu pociągów, jego skutkach i podejmowanych działaniach.
+
+**Art. 9mi.** Zarządca może wykorzystać dochód z tytułu wykonywania zadań, o których mowa w art. 5 ust. 1, oraz środki publiczne przyznane zarządcy na realizację tych zadań, wyłącznie do finansowania własnej działalności, w tym do:
+
 - **1)** obsługi pożyczek;
-- **2)** wypłaty dywidend na rzecz udziałowców i akcjonariuszy zarządcy, z wyjątkiem podmiotu wchodzącego w skład przedsiębiorstwa zintegrowanego pionowo sprawującego kontrolę nad tym zarządcą i przewoźnikiem kolejowym. Art. 9mj. 1. Zarządca nie może udzielać pożyczek przewoźnikowi kolejowemu.
+- **2)** wypłaty dywidend na rzecz udziałowców i akcjonariuszy zarządcy, z wyjątkiem podmiotu wchodzącego w skład przedsiębiorstwa zintegrowanego pionowo sprawującego kontrolę nad tym zarządcą i przewoźnikiem kolejowym.
+
+**Art. 9mj.**
+
+1. Zarządca nie może udzielać pożyczek przewoźnikowi kolejowemu.
 
 2. Przewoźnik kolejowy nie może udzielać pożyczek zarządcy.
 
 3. Podmiot wchodzący w skład przedsiębiorstwa zintegrowanego pionowo nie może udzielać pożyczek zarządcy wchodzącemu w skład tego samego przedsiębiorstwa zintegrowanego pionowo.
 
-4. Podmiot wchodzący w skład przedsiębiorstwa zintegrowanego pionowo może udzielać pożyczek innemu niż zarządca podmiotowi wchodzącemu w skład tego samego przedsiębiorstwa zintegrowanego pionowo, wypłacać je i zapewniać ich obsługę wyłącznie w oparciu o stawki rynkowe i w sposób odzwierciedlający indywidualny profil ryzyka tego podmiotu. Art. 9mk. Podmiot wchodzący w skład przedsiębiorstwa zintegrowanego pionowo może świadczyć usługi na rzecz zarządcy wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo wyłącznie na podstawie umowy i za wynagrodzeniem określonym na zasadach rynkowych albo według cen, które uwzględniają koszt usługi powiększony o rozsądną marżę. Art. 9ml. 1. Zarządca wchodzący w skład przedsiębiorstwa zintegrowanego pionowo prowadzi odrębną rachunkowość od innych podmiotów wchodzących w skład tego samego przedsiębiorstwa w sposób umożliwiający monitorowanie obiegu środków finansowych między tymi podmiotami.
+4. Podmiot wchodzący w skład przedsiębiorstwa zintegrowanego pionowo może udzielać pożyczek innemu niż zarządca podmiotowi wchodzącemu w skład tego samego przedsiębiorstwa zintegrowanego pionowo, wypłacać je i zapewniać ich obsługę wyłącznie w oparciu o stawki rynkowe i w sposób odzwierciedlający indywidualny profil ryzyka tego podmiotu.
+
+**Art. 9mk.** Podmiot wchodzący w skład przedsiębiorstwa zintegrowanego pionowo może świadczyć usługi na rzecz zarządcy wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo wyłącznie na podstawie umowy i za wynagrodzeniem określonym na zasadach rynkowych albo według cen, które uwzględniają koszt usługi powiększony o rozsądną marżę.
+
+**Art. 9ml.**
+
+1. Zarządca wchodzący w skład przedsiębiorstwa zintegrowanego pionowo prowadzi odrębną rachunkowość od innych podmiotów wchodzących w skład tego samego przedsiębiorstwa w sposób umożliwiający monitorowanie obiegu środków finansowych między tymi podmiotami.
 
 2. W przedsiębiorstwie zintegrowanym pionowo zadłużenie zarządcy jest wyodrębnione w ramach prowadzonej rachunkowości i obsługiwane oddzielnie od innych podmiotów wchodzących w skład tego samego przedsiębiorstwa zintegrowanego pionowo.
 
 3. Rozdzielenie rachunkowości w zakresie zadłużenia zarządcy nie wyklucza ostatecznej spłaty tego zadłużenia za pośrednictwem innego podmiotu wchodzącego w skład tego samego przedsiębiorstwa zintegrowanego pionowo, w tym podmiotu sprawującego kontrolę nad zarządcą i przewoźnikiem kolejowym.
 
-4. Zarządca wchodzący w skład przedsiębiorstwa zintegrowanego pionowo prowadzi księgi rachunkowe i dokumentację dotyczącą jego sytuacji ekonomiczno-finansowej, prowadzonej współpracy handlowej oraz powiązań finansowych między nim a innymi podmiotami wchodzącymi w skład tego samego przedsiębiorstwa zintegrowanego pionowo, w celu zapewnienia przejrzystości stosunków finansowych między zarządcą a tymi podmiotami. Art. 9mm. 1. Zarządca, z zachowaniem zasady niedyskryminującego traktowania, może zawierać z przewoźnikami kolejowymi umowy o współpracy w celu zapewnienia klientom przewoźnika kolejowego korzyści, w tym dotyczących obniżenia kosztów lub poprawy warunków świadczenia usług na części sieci kolejowej zarządcy objętej tą umową.
+4. Zarządca wchodzący w skład przedsiębiorstwa zintegrowanego pionowo prowadzi księgi rachunkowe i dokumentację dotyczącą jego sytuacji ekonomiczno-finansowej, prowadzonej współpracy handlowej oraz powiązań finansowych między nim a innymi podmiotami wchodzącymi w skład tego samego przedsiębiorstwa zintegrowanego pionowo, w celu zapewnienia przejrzystości stosunków finansowych między zarządcą a tymi podmiotami.
+
+**Art. 9mm.**
+
+1. Zarządca, z zachowaniem zasady niedyskryminującego traktowania, może zawierać z przewoźnikami kolejowymi umowy o współpracy w celu zapewnienia klientom przewoźnika kolejowego korzyści, w tym dotyczących obniżenia kosztów lub poprawy warunków świadczenia usług na części sieci kolejowej zarządcy objętej tą umową.
 
 2. Zarządca przekazuje projekt umowy, o której mowa w ust. 1, do zaopiniowania Prezesowi Urzędu Transportu Kolejowego, zwanemu dalej „Prezesem UTK”. Prezes UTK opiniuje projekt umowy pod względem zgodności z przepisami ustawy w terminie 21 dni od dnia jego doręczenia.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
+# Ustawa z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych.
 
 *USTAWA z dnia 21 grudnia 1990 r.*
 
@@ -994,7 +994,9 @@ source: pdf
 
 2. Osoby wymienione w ust. 1, które na podstawie dotychczasowych przepisów nabyły uprawnienia do wykonywania czynności weterynaryjnych samodzielnie lub pod nadzorem lekarza weterynarii i do czasu wejścia w życie ustawy z dnia 24 kwietnia 1997 r. o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Państwowej Inspekcji Weterynaryjnej (Dz. U. z 1999 r. poz. 752, z późn. zm. ) prowadziły zarejestrowaną działalność gospodarczą w tej dziedzinie, zachowują dotychczasowe uprawnienia.
 
-**Art. 69.** Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw rolnictwa oraz po zasięgnięciu opinii Krajowej Rady Lekarsko-Weterynaryjnej, w drodze rozporządzenia, określi oznakowanie, tryb i zasady wystawiania przez lekarzy weterynarii recept na produkty lecznicze lub leki recepturowe przeznaczone dla ludzi, które będą stosowane u zwierząt w sytuacji gdy brak jest weterynaryjnego produktu leczniczego dopuszczonego do obrotu, z uwzględnieniem w szczególności grup zwierząt, przypadków oraz warunków, z zachowaniem których mogą być wystawiane recepty, oraz ich wzór uprawniający do nabycia produktów leczniczych za opłatą, sposób zaopatrywania w druki recept, kontroli ich wystawiania, realizacji i stosowania. Art. 70–72. (pominięte)
+**Art. 69.** Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw rolnictwa oraz po zasięgnięciu opinii Krajowej Rady Lekarsko-Weterynaryjnej, w drodze rozporządzenia, określi oznakowanie, tryb i zasady wystawiania przez lekarzy weterynarii recept na produkty lecznicze lub leki recepturowe przeznaczone dla ludzi, które będą stosowane u zwierząt w sytuacji gdy brak jest weterynaryjnego produktu leczniczego dopuszczonego do obrotu, z uwzględnieniem w szczególności grup zwierząt, przypadków oraz warunków, z zachowaniem których mogą być wystawiane recepty, oraz ich wzór uprawniający do nabycia produktów leczniczych za opłatą, sposób zaopatrywania w druki recept, kontroli ich wystawiania, realizacji i stosowania.
+
+**Art. 70–72.** (pominięte)
 
 **Art. 73.** Z dniem wejścia w życie ustawy tracą moc:
 

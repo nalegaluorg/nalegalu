@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz ustawy o promocji zatrudnienia i instytucjach rynku pracy
+# Ustawa z dnia 26 kwietnia 2024 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz ustawy o promocji zatrudnienia i instytucjach rynku pracy
 
 *USTAWA z dnia 26 kwietnia 2024 r.*
 

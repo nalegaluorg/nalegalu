@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Funduszu Kolejowym oraz ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”
+# Ustawa z dnia 20 maja 2010 r. o zmianie ustawy o Funduszu Kolejowym oraz ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego "Polskie Koleje Państwowe"
 
 *USTAWA z dnia 20 maja 2010 r.*
 

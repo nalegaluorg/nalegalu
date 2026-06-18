@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o broni i amunicji
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o broni i amunicji
 
 *USTAWA z dnia 21 maja 1999 r.*
 

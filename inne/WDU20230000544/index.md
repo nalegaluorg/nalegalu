@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego	2023-03-23	Pobierz dokument D2023000054401.pdf
 
 | Pole | Wartość |
 |---|---|

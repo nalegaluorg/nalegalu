@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Narodowym Banku Polskim
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 września 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Banku Polskim
 
 *USTAWA z dnia 29 sierpnia 1997 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-09-30 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002025) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2025/text.pdf) |
-
-Art. 71–73. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -686,6 +684,8 @@ Art. 71–73. (pominięte)
 **Art. 70.** Prezes NBP w ciągu 5 miesięcy od zakończenia roku budżetowego przedstawia Sejmowi roczne sprawozdanie z działalności NBP.
 
 #### Rozdział 11 Przepisy przejściowe i końcowe
+
+**Art. 71–73.** (pominięte)
 
 **Art. 74.**
 

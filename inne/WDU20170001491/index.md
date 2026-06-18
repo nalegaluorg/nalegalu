@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wykonywaniu zadań z zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji i Handlu Spółka Akcyjna
+# Ustawa z dnia 7 lipca 2017 r. o wykonywaniu zadań z zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji i Handlu Spółka Akcyjna
 
 *USTAWA z dnia 7 lipca 2017 r.*
 

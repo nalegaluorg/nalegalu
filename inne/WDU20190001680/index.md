@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przeciwdziałaniu marnowaniu żywności
+# Ustawa z dnia 19 lipca 2019 r. o przeciwdziałaniu marnowaniu żywności
 
 *USTAWA z dnia 19 lipca 2019 r.*
 
@@ -131,7 +131,9 @@ source: pdf
 
 3. Jeżeli okoliczności sprawy i dowody wskazują, że podmiot, który popełnił naruszenie, dołożył należytej staranności, aby do naruszenia nie doszło, lub nie miał żadnego wpływu na powstanie naruszenia, a nastąpiło ono na skutek okoliczności, których nie mógł przewidzieć, wojewódzki inspektor ochrony środowiska odstępuje od wymierzenia kary pieniężnej, umarza postępowanie oraz zwalnia podmiot od wniesienia opłaty za okres do wydania decyzji o umorzeniu postępowania.
 
-4. Kary pieniężne wnosi się w terminie 14 dni od dnia, w którym decyzja o wymierzeniu kary stała się ostateczna, na rachunek bankowy wskazany w tej decyzji. Art. 13–16. (pominięte)
+4. Kary pieniężne wnosi się w terminie 14 dni od dnia, w którym decyzja o wymierzeniu kary stała się ostateczna, na rachunek bankowy wskazany w tej decyzji.
+
+**Art. 13–16.** (pominięte)
 
 **Art. 17.** W okresie 2 lat od dnia wejścia w życie ustawy przez sprzedawcę żywności rozumie się podmiot prowadzący przedsiębiorstwo spożywcze w zakresie sprzedaży żywności w jednostce handlu detalicznego lub hurtowego o powierzchni sprzedaży w rozumieniu art. 2 pkt 19 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym powyżej 400 m , w której przychody ze sprzedaży środków spożywczych stanowią co najmniej 50% przychodów ze sprzedaży wszystkich towarów.
 

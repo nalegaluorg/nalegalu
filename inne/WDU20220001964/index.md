@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw
+# Ustawa z dnia 15 września 2022 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 września 2022 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie Kodeksu postępowania cywilnego, rozporządzeń Prezydenta Rzeczypospolitej - Prawo upadłościowe i Prawo o postępowaniu układowym, Kodeksu postępowania administracyjnego, ustawy o kosztach sądowych w sprawach cywilnych oraz niektórych innych ustaw
+# Ustawa z dnia 1 marca 1996 r. o zmianie Kodeksu postępowania cywilnego, rozporządzeń Prezydenta Rzeczypospolitej - Prawo upadłościowe i Prawo o postępowaniu układowym, Kodeksu postępowania administracyjnego, ustawy o kosztach sądowych w sprawach cywilnych oraz niektórych innych ustaw.
 
 *USTAWA z dnia 1 marca 1996 r.*
 

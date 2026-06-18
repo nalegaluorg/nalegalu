@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Funduszu Ochrony Rolnictwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Ochrony Rolnictwa
 
 *USTAWA z dnia 9 maja 2023 r.*
 
@@ -286,7 +286,9 @@ source: pdf
 
 2. Kary pieniężne nakłada, w drodze decyzji administracyjnej, Dyrektor Generalny Krajowego Ośrodka. Od kwoty nałożonej kary pieniężnej nie nalicza się odsetek.
 
-3. Koszty dochodzenia kar pieniężnych są pokrywane ze środków Funduszu. Art. 18–20. (pominięte)
+3. Koszty dochodzenia kar pieniężnych są pokrywane ze środków Funduszu.
+
+**Art. 18–20.** (pominięte)
 
 **Art. 21.** Wpłaty na Fundusz są naliczane od dnia 1 stycznia 2024 r.
 

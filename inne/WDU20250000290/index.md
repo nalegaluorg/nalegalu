@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rynku mocy oraz niektórych innych ustaw
+# Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw
 
 *USTAWA z dnia 21 lutego 2025 r.*
 

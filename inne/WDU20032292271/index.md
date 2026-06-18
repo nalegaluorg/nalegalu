@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy oraz o zmianie niektórych ustaw
+# Ustawa z dnia 14 listopada 2003 r. o zmianie ustawy o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy oraz o zmianie niektórych ustaw
 
 *USTAWA z dnia 14 listopada 2003 r.*
 

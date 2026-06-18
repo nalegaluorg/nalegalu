@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy – Prawo bankowe oraz ustawę o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw
+# Ustawa z dnia 28 lipca 2011 r. zmieniająca ustawę o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy - Prawo bankowe oraz ustawę o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw
 
 *USTAWA z dnia 28 lipca 2011 r.*
 

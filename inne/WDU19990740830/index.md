@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie wyjaśnień do Taryfy celnej.
+# Rozporządzenie Ministra Finansów z dnia 24 sierpnia 1999 r. w sprawie wyjaśnień do Taryfy celnej.
 
 | Pole | Wartość |
 |---|---|

@@ -29,7 +29,6 @@ source: pdf
 
 z dnia 16 listopada 2006 r.
 o opłacie skarbowej
-Art. 13–18. (pominięte)
 
 #### Rozdział 1 Przedmiot opłaty skarbowej
 
@@ -195,6 +194,8 @@ Art. 13–18. (pominięte)
     - **b)** Prezydent miasta stołecznego Warszawy, jeżeli mocodawca albo żaden z mocodawców ustanawiających pełnomocnictwo lub prokurę w jednym dokumencie nie ma miejsca zamieszkania albo siedziby na terytorium Rzeczypospolitej Polskiej.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 13–18.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
 

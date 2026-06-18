@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu ustawy o przekształceniu własnościowym przedsiębiorstwa państwowego Polskie Linie Lotnicze „LOT”
+# Ustawa z dnia 10 maja 2013 r. o uchyleniu ustawy o przekształceniu własnościowym przedsiębiorstwa państwowego Polskie Linie Lotnicze "LOT"
 
 *USTAWA z dnia 10 maja 2013 r.*
 

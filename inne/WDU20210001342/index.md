@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o izbach lekarskich
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 czerwca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o izbach lekarskich
 
 *USTAWA z dnia 2 grudnia 2009 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o statystyce publicznej
+# Ustawa z dnia 25 lipca 1998 r. o zmianie ustawy o statystyce publicznej.
 
 *USTAWA z dnia 25 lipca 1998 r.*
 

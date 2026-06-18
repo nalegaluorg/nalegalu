@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o doradztwie podatkowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 października 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o doradztwie podatkowym
 
 *USTAWA z dnia 5 lipca 1996 r.*
 

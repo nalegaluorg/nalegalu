@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o księgach wieczystych i hipotece, ustawy - Kodeks postępowania cywilnego, ustawy o kosztach sądowych w sprawach cywilnych oraz ustawy - Prawo o notariacie
+# Ustawa z dnia 11 maja 2001 r. o zmianie ustawy o księgach wieczystych i hipotece, ustawy - Kodeks postępowania cywilnego, ustawy o kosztach sądowych w sprawach cywilnych oraz ustawy - Prawo o notariacie.
 
 *USTAWA z dnia 11 maja 2001 r.*
 

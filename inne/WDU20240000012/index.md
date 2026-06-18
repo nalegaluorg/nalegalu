@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Inspekcji Weterynaryjnej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 grudnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Inspekcji Weterynaryjnej
 
 *USTAWA z dnia 29 stycznia 2004 r.*
 

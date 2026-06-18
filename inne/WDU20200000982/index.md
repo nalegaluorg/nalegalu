@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Międzynarodowym Instytucie Biologii Molekularnej i Komórkowej w Warszawie
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 maja 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Międzynarodowym Instytucie Biologii Molekularnej i Komórkowej w Warszawie
 
 | Pole | Wartość |
 |---|---|

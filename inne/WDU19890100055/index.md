@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o scalaniu gruntów.
+# Ustawa z dnia 24 lutego 1989 r. o zmianie ustawy o scalaniu gruntów.
 
 *USTAWA z dnia 24 lutego 1989 r.*
 

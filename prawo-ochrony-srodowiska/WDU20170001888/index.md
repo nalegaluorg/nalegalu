@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo ochrony środowiska
+# Ustawa z dnia 15 września 2017 r. o zmianie ustawy - Prawo ochrony środowiska
 
 *USTAWA z dnia 15 września 2017 r.*
 

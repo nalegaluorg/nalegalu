@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nauczycielskich świadczeniach kompensacyjnych
+# Ustawa z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych
 
 *USTAWA z dnia 22 maja 2009 r.*
 
@@ -180,7 +180,9 @@ source: pdf
 
 2. W zakresie postępowania w sprawach zwrotu nienależnie pobranego świadczenia, egzekucji i potrąceń stosuje się odpowiednio przepisy art. 138– 144 ustawy o emeryturach i rentach z FUS oraz przepisy art. 84 ustawy o systemie ubezpieczeń społecznych.
 
-3. W razie zbiegu prawa do świadczenia z prawami, o których mowa w art. 17 ust. 1, stosuje się odpowiednio art. 98 ustawy o emeryturach i rentach z FUS. Art. 19–29. (pominięte)
+3. W razie zbiegu prawa do świadczenia z prawami, o których mowa w art. 17 ust. 1, stosuje się odpowiednio art. 98 ustawy o emeryturach i rentach z FUS.
+
+**Art. 19–29.** (pominięte)
 
 **Art. 30.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia , z wyjątkiem art. 26 pkt 2, który wchodzi w życie z dniem ogłoszenia.
 

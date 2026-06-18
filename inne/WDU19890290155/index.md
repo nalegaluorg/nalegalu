@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o gwarancjach wolności sumienia i wyznania Sejm Rzeczypospolitej Polskiej: – wykonując postanowienia Konstytucji Rzeczypospolitej Polskiej o wolności sumienia i wyznania, – nawiązując do godnej trwałego szacunku i kontynuacji tradycji tolerancji i wolności religijnej oraz potwierdzającej ją współpracy Polaków różnych wyznań i światopoglądów w rozwoju i pomyślności Ojczyzny, – uznając historyczny wkład kościołów i innych związków wyznaniowych w rozwój kultury narodowej oraz krzewienie i umacnianie podstawowych wartości moralnych, – kierując się zasadami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Deklaracji Organizacji Narodów Zjednoczonych o wyeliminowaniu wszelkich form nietolerancji i dyskryminacji z powodów religijnych lub przekonań, – umacniając warunki do czynnego i równoprawnego uczestnictwa obywateli w życiu publicznym i społecznym, bez względu na ich stosunek do religii, stanowi, co następuje:
+# Ustawa z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania.
 
 *USTAWA z dnia 17 maja 1989 r.*
 

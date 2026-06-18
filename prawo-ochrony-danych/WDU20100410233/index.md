@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej i ustawy o ochronie danych osobowych
+# Ustawa z dnia 12 lutego 2010 r. o zmianie ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej i ustawy o ochronie danych osobowych
 
 *USTAWA z dnia 12 lutego 2010 r.*
 

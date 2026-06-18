@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o infrastrukturze informacji przestrzennej
+# Ustawa z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej
 
 *USTAWA z dnia 4 marca 2010 r.*
 
@@ -27,7 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2025-03-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100760489) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/489/text.pdf) |
 
-Art. 23–28. (pominięte)
 1) systemy odniesienia za pomocą współrzędnych, rozumiane jako systemy do jednoznacznego przestrzennego odnoszenia informacji przestrzennej za pomocą współrzędnych x, y, z lub za pomocą szerokości i długości geograficznej oraz wysokości na podstawie geodezyjnego poziomego i pionowego układu odniesienia;
 2) systemy siatek georeferencyjnych, rozumiane jako systemy tworzone na podstawie zharmonizowanej wielorozdzielczej siatki o znormalizowanym położeniu i wielkości oczek oraz wspólnym punkcie początkowym;
 3) nazwy geograficzne, rozumiane jako nazwy obszarów, regionów, miejscowości, miast, przedmieść lub osiedli, a także nazwy innych obiektów geograficznych lub topograficznych o znaczeniu publicznym lub historycznym;
@@ -327,6 +326,8 @@ obejmują dane przestrzenne oparte na pomiarach, modelach lub na kombinacji tych
 - **2)** wysokość wynagrodzenia członków Rady, o których mowa w ust. 1 pkt 10, mając na uwadze zakres zadań określonych w art. 21 ust. 2 oraz znaczenie tych zadań dla procesu tworzenia infrastruktury informacji przestrzennej, a także przyjmując, że wynagrodzenie członka Rady za udział w posiedzeniu Rady nie może przekroczyć 50 % kwoty bazowej dla osób zajmujących kierownicze stanowiska państwowe, ustalanej corocznie w ustawie budżetowej.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 23–28.** (pominięte)
 
 #### Rozdział 8 Przepisy dostosowujące, przejściowe i końcowe
 

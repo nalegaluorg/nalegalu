@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym
 
 *USTAWA z dnia 24 sierpnia 2007 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-07-17 |
 | Ostatnia zmiana | 2024-11-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001355) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1355/text.pdf) |
-
-Art. 38–42. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -489,6 +487,8 @@ Art. 38–42. (pominięte)
 2. Obowiązek, o którym mowa w ust. 1, dotyczy w szczególności bezzwłocznego przekazywania do biura SIRENE, w związku z dokonaniem poprzez Krajowy System Informatyczny (KSI) wpisu danych SIS, kopii decyzji będących podstawą wpisu danych SIS do celów odmowy wjazdu dotyczących cudzoziemców będących członkami rodzin obywateli UE w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697 oraz z 2023 r. poz. 547), a także przekazywania odpowiednio wszystkich istotnych informacji w odniesieniu do wpisów dokonywanych zgodnie z art. 3 ust. 1 od momentu utworzenia wpisu zgodnie z zakresem określonym w aktach wykonawczych przyjętych przez Komisję Europejską na podstawie art. 8 ust. 4 rozporządzenia 2018/1861 oraz art. 8 ust. 4 rozporządzenia 2018/1862.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 38–42.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

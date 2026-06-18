@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Politechnice Radomskiej im. Kazimierza Pułaskiego nazwy „Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu”
+# Ustawa z dnia 27 lipca 2012 r. o nadaniu Politechnice Radomskiej im. Kazimierza Pułaskiego nazwy "Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu"
 
 *USTAWA z dnia 27 lipca 2012 r.*
 

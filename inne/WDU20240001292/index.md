@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie zabytków i opiece nad zabytkami
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie zabytków i opiece nad zabytkami
 
 *USTAWA z dnia 23 lipca 2003 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-08-26 |
 | Ostatnia zmiana | 2026-04-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001292) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1292/text.pdf) |
-
-Art. 121–138. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -232,7 +230,11 @@ Art. 121–138. (pominięte)
 - **10)** pojedynczych lub znajdujących się w zbiorach książek, które mają więcej niż 100 lat i ich wartość jest wyższa niż 50 000 euro,
 - **11)** map drukowanych, które mają więcej niż 200 lat,
 - **12)** środków transportu, które mają więcej niż 75 lat i ich wartość jest wyższa niż 50 000 euro,
-- **13)** innych kategorii, niewymienionych w pkt 1–12, obejmujących zabytki, które mają więcej niż 50 lat i ich wartość jest wyższa niż 50 000 euro – na podstawie decyzji wydanej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, z urzędu albo na wniosek właściciela zabytku ruchomego. Art. 14aa. 1. Od dnia wszczęcia postępowania w sprawie wpisu zabytku na Listę Skarbów Dziedzictwa do dnia, w którym decyzja w tej sprawie stanie się ostateczna, przy zabytku, którego dotyczy postępowanie, zabrania się prowadzenia prac konserwatorskich i restauratorskich oraz podejmowania innych działań, które mogłyby prowadzić do naruszenia substancji lub zmiany wyglądu zabytku.
+- **13)** innych kategorii, niewymienionych w pkt 1–12, obejmujących zabytki, które mają więcej niż 50 lat i ich wartość jest wyższa niż 50 000 euro – na podstawie decyzji wydanej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, z urzędu albo na wniosek właściciela zabytku ruchomego.
+
+**Art. 14aa.**
+
+1. Od dnia wszczęcia postępowania w sprawie wpisu zabytku na Listę Skarbów Dziedzictwa do dnia, w którym decyzja w tej sprawie stanie się ostateczna, przy zabytku, którego dotyczy postępowanie, zabrania się prowadzenia prac konserwatorskich i restauratorskich oraz podejmowania innych działań, które mogłyby prowadzić do naruszenia substancji lub zmiany wyglądu zabytku.
 
 2. Przepisu ust. 1 nie stosuje się do zabytku:
 
@@ -1786,6 +1788,8 @@ Art. 121–138. (pominięte)
 **Art. 120.** Orzekanie w sprawach określonych w art. 110–118 następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
+
+**Art. 121–138.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i końcowe
 

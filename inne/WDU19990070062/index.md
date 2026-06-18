@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników Centralnego Inspektoratu Standaryzacji.
+# Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 15 stycznia 1999 r. zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników Centralnego Inspektoratu Standaryzacji.
 
 | Pole | Wartość |
 |---|---|

@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-06-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010981070) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1070/text.pdf) |
 
-Art. 180–195. (pominięte)
-
 ### DZIAŁ I Sądy powszechne
 
 #### Rozdział 1 Przepisy ogólne
@@ -98,7 +96,9 @@ Art. 180–195. (pominięte)
 
 § 1. Wewnętrzny nadzór administracyjny nad działalnością sądów, o której mowa w art. 8 pkt 2, sprawują prezesi sądów.
 
-§ 2. Zewnętrzny nadzór administracyjny nad działalnością sądów, o której mowa w art. 8 pkt 2, sprawuje Minister Sprawiedliwości przez służbę nadzoru, którą stanowią sędziowie delegowani do Ministerstwa Sprawiedliwości w trybie art. 77 oraz, w zakresie nadzoru nad prowadzeniem ksiąg wieczystych, rejestru zastawów i Krajowego Rejestru Sądowego, referendarze sądowi delegowani do Ministerstwa Sprawiedliwości na podstawie art. 151a § 5. Art. 9aa. Uprawnienia Ministra Sprawiedliwości przewidziane niniejszą ustawą mogą zostać powierzone sekretarzowi stanu lub podsekretarzowi stanu w Ministerstwie Sprawiedliwości, z wyjątkiem uprawnienia do wydania decyzji o przeniesieniu sędziego w przypadkach określonych w art. 75 § 2.
+§ 2. Zewnętrzny nadzór administracyjny nad działalnością sądów, o której mowa w art. 8 pkt 2, sprawuje Minister Sprawiedliwości przez służbę nadzoru, którą stanowią sędziowie delegowani do Ministerstwa Sprawiedliwości w trybie art. 77 oraz, w zakresie nadzoru nad prowadzeniem ksiąg wieczystych, rejestru zastawów i Krajowego Rejestru Sądowego, referendarze sądowi delegowani do Ministerstwa Sprawiedliwości na podstawie art. 151a § 5.
+
+**Art. 9aa.** Uprawnienia Ministra Sprawiedliwości przewidziane niniejszą ustawą mogą zostać powierzone sekretarzowi stanu lub podsekretarzowi stanu w Ministerstwie Sprawiedliwości, z wyjątkiem uprawnienia do wydania decyzji o przeniesieniu sędziego w przypadkach określonych w art. 75 § 2.
 
 **Art. 9b.** Czynności z zakresu nadzoru administracyjnego nie mogą wkraczać w dziedzinę, w której sędziowie i asesorzy sądowi są niezawiśli.
 
@@ -826,7 +826,11 @@ Art. 180–195. (pominięte)
 
 § 4. W czynnościach, o których mowa w § 2, jako przedstawiciel Ministra Sprawiedliwości, może brać udział sędzia delegowany do pełnienia czynności administracyjnych w Ministerstwie Sprawiedliwości.
 
-§ 5. (utracił moc) Art. 37ga. § 1. Minister Sprawiedliwości może zwrócić prezesowi lub wiceprezesowi sądu apelacyjnego uwagę na piśmie, jeżeli stwierdzi uchybienia w zakresie kierowania sądem, sprawowania wewnętrznego nadzoru administracyjnego albo wykonywania innych czynności administracyjnych i żądać usunięcia jego skutków.
+§ 5. (utracił moc)
+
+**Art. 37ga.**
+
+§ 1. Minister Sprawiedliwości może zwrócić prezesowi lub wiceprezesowi sądu apelacyjnego uwagę na piśmie, jeżeli stwierdzi uchybienia w zakresie kierowania sądem, sprawowania wewnętrznego nadzoru administracyjnego albo wykonywania innych czynności administracyjnych i żądać usunięcia jego skutków.
 
 § 2. Prezes lub wiceprezes sądu apelacyjnego, którego dotyczy zwrócona uwaga, może w terminie czternastu dni od dnia zwrócenia uwagi złożyć Ministrowi Sprawiedliwości pisemne zastrzeżenie.
 
@@ -1303,7 +1307,11 @@ Art. 180–195. (pominięte)
 
 § 11. Do kandydata na wolne stanowisko sędziowskie, który wykonywał więcej niż jeden z zawodów wskazanych w przepisach § 1–5 i 10, stosuje się przepisy § 1–5 i 7, z tym że łączna liczba zamieszczonych w wykazie sygnatur akt spraw lub odpisów opinii prawnych i innych dokumentów, o których mowa w tych przepisach, nie może przekraczać stu.
 
-§ 12. Do karty zgłoszenia kandydat może dołączyć także inne dokumenty popierające jego kandydaturę, w szczególności opinie i rekomendacje. Art. 57aa. § 1. Dokumenty dołączane do karty zgłoszenia kandydat tworzy w systemie teleinformatycznym i wnosi za pośrednictwem tego systemu, opatrując je podpisem elektronicznym nadanym przez ten system, podpisem zaufanym, podpisem osobistym albo kwalifikowanym podpisem elektronicznym.
+§ 12. Do karty zgłoszenia kandydat może dołączyć także inne dokumenty popierające jego kandydaturę, w szczególności opinie i rekomendacje.
+
+**Art. 57aa.**
+
+§ 1. Dokumenty dołączane do karty zgłoszenia kandydat tworzy w systemie teleinformatycznym i wnosi za pośrednictwem tego systemu, opatrując je podpisem elektronicznym nadanym przez ten system, podpisem zaufanym, podpisem osobistym albo kwalifikowanym podpisem elektronicznym.
 
 § 2. Dokumenty mające w oryginale postać papierową kandydat zamieszcza w systemie teleinformatycznym w postaci elektronicznych kopii, opatrując je podpisem elektronicznym nadanym przez ten system, podpisem zaufanym, podpisem osobistym albo kwalifikowanym podpisem elektronicznym, co jednocześnie stanowi oświadczenie o zgodności elektronicznej kopii dokumentu z oryginałem w postaci papierowej. Oświadczenie to jest składane pod rygorem odpowiedzialności karnej za fałszywe zeznania. Prezes właściwego sądu, któremu zgłoszono kandydaturę na wolne stanowisko sędziowskie, w uzasadnionych przypadkach może wezwać kandydata do doręczenia w terminie trzech dni oryginałów dokumentów. Obowiązek zamieszczenia w systemie teleinformatycznym elektronicznej kopii dokumentu nie dotyczy oświadczenia, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944– 1990 oraz treści tych dokumentów, a także informacji, o której mowa w art. 7 ust. 3a tej ustawy.
 
@@ -1314,17 +1322,41 @@ Art. 180–195. (pominięte)
 - **1)** nieuwzględnienia zastrzeżenia od pozostawienia zgłoszenia bez rozpatrzenia albo
 - **2)** umorzenia postępowania, albo
 - **3)** nieprzedstawienia wniosku o powołanie do pełnienia urzędu na stanowisku sędziowskim Prezydentowi Rzeczypospolitej Polskiej, albo
-- **4)** przedstawienia wniosku o powołanie do pełnienia urzędu na stanowisku sędziowskim Prezydentowi Rzeczypospolitej Polskiej. Art. 57ab. § 1. Kandydaturę na wolne stanowisko sędziego sądu rejonowego oraz na wolne stanowisko sędziego sądu okręgowego zgłasza się prezesowi właściwego sądu okręgowego, zaś kandydaturę na wolne stanowisko sędziego sądu apelacyjnego – prezesowi sądu apelacyjnego.
+- **4)** przedstawienia wniosku o powołanie do pełnienia urzędu na stanowisku sędziowskim Prezydentowi Rzeczypospolitej Polskiej.
 
-§ 2. Czynności w stosunku do kandydata w toku postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim prezes właściwego sądu dokonuje za pośrednictwem systemu teleinformatycznego. Art. 57ac. § 1. Jeżeli zgłoszenie na wolne stanowisko sędziowskie nie spełnia wymogów formalnych, o których mowa w art. 57 § 6 i 7 oraz art. 57a § 1–5 i 7, prezes właściwego sądu wzywa kandydata do jego uzupełnienia w terminie siedmiu dni.
+**Art. 57ab.**
+
+§ 1. Kandydaturę na wolne stanowisko sędziego sądu rejonowego oraz na wolne stanowisko sędziego sądu okręgowego zgłasza się prezesowi właściwego sądu okręgowego, zaś kandydaturę na wolne stanowisko sędziego sądu apelacyjnego – prezesowi sądu apelacyjnego.
+
+§ 2. Czynności w stosunku do kandydata w toku postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim prezes właściwego sądu dokonuje za pośrednictwem systemu teleinformatycznego.
+
+**Art. 57ac.**
+
+§ 1. Jeżeli zgłoszenie na wolne stanowisko sędziowskie nie spełnia wymogów formalnych, o których mowa w art. 57 § 6 i 7 oraz art. 57a § 1–5 i 7, prezes właściwego sądu wzywa kandydata do jego uzupełnienia w terminie siedmiu dni.
 
 § 2. Jeżeli swoją kandydaturę zgłosiła osoba, która nie spełnia warunków do objęcia stanowiska sędziego sądu powszechnego, o których mowa w art. 61 § 1 pkt 1 oraz 3–7 lub § 2 i 5 albo w art. 63 i art. 64, albo zgłoszenie nastąpiło po upływie terminu, o którym mowa w art. 57 § 1, lub zgłoszenie nie zostało uzupełnione w wyznaczonym terminie albo wobec zgłaszającego kandydaturę toczy się inne postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, prezes właściwego sądu zawiadamia zgłaszającego o pozostawieniu zgłoszenia bez rozpatrzenia, za pośrednictwem systemu teleinformatycznego, podając przyczynę pozostawienia zgłoszenia bez rozpatrzenia.
 
-§ 3. Osoba, której zgłoszenie pozostawiono bez rozpatrzenia może w terminie siedmiu dni od zawiadomienia, o którym mowa w § 2, złożyć zastrzeżenie za pośrednictwem systemu teleinformatycznego. W razie nieuwzględnienia zastrzeżenia prezes właściwego sądu niezwłocznie przekazuje je za pośrednictwem systemu teleinformatycznego wraz ze zgłoszeniem Krajowej Radzie Sądownictwa. W przedmiocie pozostawienia zgłoszenia bez rozpatrzenia rozstrzyga Krajowa Rada Sądownictwa. Art. 57ad. § 1. W razie cofnięcia zgłoszenia na wolne stanowisko sędziowskie prezes właściwego sądu niezwłocznie przekazuje oświadczenie o cofnięciu zgłoszenia za pośrednictwem systemu teleinformatycznego do Krajowej Rady Sądownictwa. Nie wstrzymuje to podejmowania dalszych czynności w stosunku do kandydatów, którzy zgłosili się na to samo wolne stanowisko sędziowskie.
+§ 3. Osoba, której zgłoszenie pozostawiono bez rozpatrzenia może w terminie siedmiu dni od zawiadomienia, o którym mowa w § 2, złożyć zastrzeżenie za pośrednictwem systemu teleinformatycznego. W razie nieuwzględnienia zastrzeżenia prezes właściwego sądu niezwłocznie przekazuje je za pośrednictwem systemu teleinformatycznego wraz ze zgłoszeniem Krajowej Radzie Sądownictwa. W przedmiocie pozostawienia zgłoszenia bez rozpatrzenia rozstrzyga Krajowa Rada Sądownictwa.
 
-§ 2. Doręczenia uznaje się za skuteczne z chwilą zalogowania się kandydata do systemu teleinformatycznego lub po upływie czternastu dni od dnia umieszczenia pisma w systemie teleinformatycznym. Art. 57ae. § 1. O zgłoszeniu każdego kandydata na wolne stanowisko sędziowskie prezes właściwego sądu zawiadamia Ministra Sprawiedliwości przez udostępnienie karty zgłoszenia kandydata w systemie teleinformatycznym.
+**Art. 57ad.**
 
-§ 2. Prezes sądu okręgowego ma dostęp do zgromadzonych w systemie teleinformatycznym dokumentów dotyczących wszystkich postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim w sądzie okręgowym i w sądach rejonowych danego okręgu. Prezes sądu apelacyjnego ma dostęp do zgromadzonych w systemie teleinformatycznym dokumentów dotyczących wszystkich postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim w sądzie apelacyjnym. Art. 57af. Dokumenty dotyczące postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, zgromadzone w systemie teleinformatycznym są przechowywane przez okres dwunastu miesięcy. Okres przechowywania dokumentów, które mogą być wykorzystane w innych postępowaniach w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim dotyczących danego kandydata, wynosi siedem lat. Po upływie okresu przechowywania dokumenty podlegają brakowaniu w sposób określony w przepisach ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164). Art. 57ag. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb zakładania konta w systemie teleinformatycznym, sposób dostępu do konta, sposób korzystania z systemu teleinformatycznego oraz podejmowania w nim czynności związanych z wnoszeniem karty zgłoszenia i dołączonych dokumentów, szczegółowy tryb doręczeń i zawiadomień elektronicznych, jak również sposób przechowywania, udostępniania i usuwania – po zakończeniu postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim – zamieszczonych w systemie dokumentów, mając na względzie potrzebę zapewnienia sprawności postępowania dotyczącego objęcia stanowiska sędziowskiego, dostępność drogi elektronicznej dla uczestników postępowania oraz potrzebę zabezpieczenia danych zgromadzonych w systemie, w tym danych osobowych kandydatów. Art. 57ah. § 1. Prezes sądu, któremu złożono kartę zgłoszenia, po stwierdzeniu spełniania przez kandydata warunków oraz wymogów formalnych zgłoszenia, zarządza, w terminie nie dłuższym niż siedem dni od dnia zgłoszenia, dokonanie oceny kwalifikacji kandydata przez wyznaczonego sędziego.
+§ 1. W razie cofnięcia zgłoszenia na wolne stanowisko sędziowskie prezes właściwego sądu niezwłocznie przekazuje oświadczenie o cofnięciu zgłoszenia za pośrednictwem systemu teleinformatycznego do Krajowej Rady Sądownictwa. Nie wstrzymuje to podejmowania dalszych czynności w stosunku do kandydatów, którzy zgłosili się na to samo wolne stanowisko sędziowskie.
+
+§ 2. Doręczenia uznaje się za skuteczne z chwilą zalogowania się kandydata do systemu teleinformatycznego lub po upływie czternastu dni od dnia umieszczenia pisma w systemie teleinformatycznym.
+
+**Art. 57ae.**
+
+§ 1. O zgłoszeniu każdego kandydata na wolne stanowisko sędziowskie prezes właściwego sądu zawiadamia Ministra Sprawiedliwości przez udostępnienie karty zgłoszenia kandydata w systemie teleinformatycznym.
+
+§ 2. Prezes sądu okręgowego ma dostęp do zgromadzonych w systemie teleinformatycznym dokumentów dotyczących wszystkich postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim w sądzie okręgowym i w sądach rejonowych danego okręgu. Prezes sądu apelacyjnego ma dostęp do zgromadzonych w systemie teleinformatycznym dokumentów dotyczących wszystkich postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim w sądzie apelacyjnym.
+
+**Art. 57af.** Dokumenty dotyczące postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, zgromadzone w systemie teleinformatycznym są przechowywane przez okres dwunastu miesięcy. Okres przechowywania dokumentów, które mogą być wykorzystane w innych postępowaniach w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim dotyczących danego kandydata, wynosi siedem lat. Po upływie okresu przechowywania dokumenty podlegają brakowaniu w sposób określony w przepisach ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164).
+
+**Art. 57ag.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb zakładania konta w systemie teleinformatycznym, sposób dostępu do konta, sposób korzystania z systemu teleinformatycznego oraz podejmowania w nim czynności związanych z wnoszeniem karty zgłoszenia i dołączonych dokumentów, szczegółowy tryb doręczeń i zawiadomień elektronicznych, jak również sposób przechowywania, udostępniania i usuwania – po zakończeniu postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim – zamieszczonych w systemie dokumentów, mając na względzie potrzebę zapewnienia sprawności postępowania dotyczącego objęcia stanowiska sędziowskiego, dostępność drogi elektronicznej dla uczestników postępowania oraz potrzebę zabezpieczenia danych zgromadzonych w systemie, w tym danych osobowych kandydatów.
+
+**Art. 57ah.**
+
+§ 1. Prezes sądu, któremu złożono kartę zgłoszenia, po stwierdzeniu spełniania przez kandydata warunków oraz wymogów formalnych zgłoszenia, zarządza, w terminie nie dłuższym niż siedem dni od dnia zgłoszenia, dokonanie oceny kwalifikacji kandydata przez wyznaczonego sędziego.
 
 § 2. W razie potrzeby prezes sądu może zlecić dokonanie oceny kwalifikacji więcej niż jednemu sędziemu.
 
@@ -2361,7 +2393,11 @@ Art. 180–195. (pominięte)
 
 **Art. 106w.** (uchylony)
 
-**Art. 106x.** (uchylony) Art. 106xa. § 1. Przed upływem 36 miesięcy pełnienia obowiązków sędziego asesor sądowy może złożyć prezesowi właściwego sądu okręgowego wniosek o powołanie na stanowisko sędziego sądu rejonowego. Przepisy art. 57 § 2–6 i 8, art. 57a § 1, art. 57ab § 2, art. 57ac–57af oraz art. 58 § 4 stosuje się odpowiednio.
+**Art. 106x.** (uchylony)
+
+**Art. 106xa.**
+
+§ 1. Przed upływem 36 miesięcy pełnienia obowiązków sędziego asesor sądowy może złożyć prezesowi właściwego sądu okręgowego wniosek o powołanie na stanowisko sędziego sądu rejonowego. Przepisy art. 57 § 2–6 i 8, art. 57a § 1, art. 57ab § 2, art. 57ac–57af oraz art. 58 § 4 stosuje się odpowiednio.
 
 § 2. W razie złożenia wniosku, o którym mowa w § 1, prezes sądu okręgowego, w terminie nie dłuższym niż siedem dni od dnia upływu 36 miesięcy pełnienia przez asesora sądowego obowiązków sędziego, zarządza dokonanie oceny kwalifikacji asesora sądowego. Przepisy art. 57ah § 3, art. 57b, art. 57i § 1 i 3 oraz przepisy wykonawcze wydane na podstawie art. 57i § 4 stosuje się odpowiednio.
 
@@ -2393,9 +2429,21 @@ Art. 180–195. (pominięte)
 
 § 3. Urlopu dla poratowania zdrowia udziela Minister Sprawiedliwości.
 
-§ 4. W przypadku odmowy udzielenia urlopu dla poratowania zdrowia asesorowi sądowemu przysługuje w terminie 14 dni od dnia otrzymania odmowy odwołanie do Sądu Najwyższego. Art. 106za. § 1. Strojem urzędowym asesora sądowego jest strój urzędowy sędziego. Przepis art. 84 § 1 stosuje się.
+§ 4. W przypadku odmowy udzielenia urlopu dla poratowania zdrowia asesorowi sądowemu przysługuje w terminie 14 dni od dnia otrzymania odmowy odwołanie do Sądu Najwyższego.
 
-§ 2. Asesor sądowy otrzymuje legitymację służbową, wymieniającą zajmowane przez niego stanowisko i miejsce służbowe. Minister Sprawiedliwości określi, w drodze zarządzenia, wzór legitymacji służbowej asesora sądowego. Art. 106zb. (uchylony) Art. 106zc. Asesor sądowy nie może, powołując się na zasadę niezawisłości, uchylić się od wykonania poleceń w zakresie czynności administracyjnych, jeżeli z mocy przepisów ustawy należą do obowiązków asesorskich, a także poleceń dotyczących sprawności postępowania sądowego; może domagać się wydania polecenia na piśmie. Art. 106zd. § 1. Asesor sądowy nie może być zatrzymany ani pociągnięty do odpowiedzialności karnej bez zezwolenia właściwego sądu dyscyplinarnego. Nie dotyczy to zatrzymania w razie ujęcia asesora sądowego na gorącym uczynku przestępstwa, jeżeli zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. Do czasu wydania uchwały zezwalającej na pociągnięcie asesora sądowego do odpowiedzialności karnej wolno podejmować tylko czynności niecierpiące zwłoki.
+**Art. 106za.**
+
+§ 1. Strojem urzędowym asesora sądowego jest strój urzędowy sędziego. Przepis art. 84 § 1 stosuje się.
+
+§ 2. Asesor sądowy otrzymuje legitymację służbową, wymieniającą zajmowane przez niego stanowisko i miejsce służbowe. Minister Sprawiedliwości określi, w drodze zarządzenia, wzór legitymacji służbowej asesora sądowego.
+
+**Art. 106zb.** (uchylony)
+
+**Art. 106zc.** Asesor sądowy nie może, powołując się na zasadę niezawisłości, uchylić się od wykonania poleceń w zakresie czynności administracyjnych, jeżeli z mocy przepisów ustawy należą do obowiązków asesorskich, a także poleceń dotyczących sprawności postępowania sądowego; może domagać się wydania polecenia na piśmie.
+
+**Art. 106zd.**
+
+§ 1. Asesor sądowy nie może być zatrzymany ani pociągnięty do odpowiedzialności karnej bez zezwolenia właściwego sądu dyscyplinarnego. Nie dotyczy to zatrzymania w razie ujęcia asesora sądowego na gorącym uczynku przestępstwa, jeżeli zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. Do czasu wydania uchwały zezwalającej na pociągnięcie asesora sądowego do odpowiedzialności karnej wolno podejmować tylko czynności niecierpiące zwłoki.
 
 § 2. O zatrzymaniu asesora sądowego niezwłocznie powiadamia się prezesa sądu apelacyjnego właściwego ze względu na miejsce zatrzymania. Może on nakazać natychmiastowe zwolnienie zatrzymanego. O fakcie zatrzymania asesora sądowego prezes sądu apelacyjnego niezwłocznie zawiadamia Krajową Radę Sądownictwa, Ministra Sprawiedliwości i Pierwszego Prezesa Sądu Najwyższego.
 
@@ -2415,19 +2463,31 @@ Art. 180–195. (pominięte)
 
 § 9. Jeżeli prokurator złożył zastrzeżenie prezes sądu dyscyplinarnego niezwłocznie kieruje sprawę na posiedzenie. Sąd dyscyplinarny może odmówić asesorowi sądowemu wglądu do dokumentów dołączonych do wniosku.
 
-§ 10. Orzekając w sprawie, o której mowa w § 1, sąd dyscyplinarny może poprzestać na oświadczeniu asesora sądowego, że wnosi o wydanie uchwały o zezwoleniu na pociągnięcie go do odpowiedzialności karnej. Art. 106ze. § 1. Za wykroczenie asesor sądowy odpowiada tylko dyscyplinarnie, z zastrzeżeniem § 2.
+§ 10. Orzekając w sprawie, o której mowa w § 1, sąd dyscyplinarny może poprzestać na oświadczeniu asesora sądowego, że wnosi o wydanie uchwały o zezwoleniu na pociągnięcie go do odpowiedzialności karnej.
+
+**Art. 106ze.**
+
+§ 1. Za wykroczenie asesor sądowy odpowiada tylko dyscyplinarnie, z zastrzeżeniem § 2.
 
 § 2. Asesor sądowy może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej za wykroczenia, o których mowa w § 3, w trybie określonym w tym przepisie.
 
 § 3. W przypadku popełnienia przez asesora sądowego wykroczenia, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, przyjęcie przez asesora sądowego mandatu karnego albo uiszczenie grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, stanowi oświadczenie o wyrażeniu przez niego zgody na pociągnięcie go do odpowiedzialności w tej formie.
 
-§ 4. Wyrażenie przez asesora sądowego zgody na pociągnięcie go do odpowiedzialności w trybie określonym w § 3 wyłącza odpowiedzialność dyscyplinarną. Art. 106zf. § 1. Asesor sądowy jest obowiązany stale podnosić kwalifikacje zawodowe.
+§ 4. Wyrażenie przez asesora sądowego zgody na pociągnięcie go do odpowiedzialności w trybie określonym w § 3 wyłącza odpowiedzialność dyscyplinarną.
+
+**Art. 106zf.**
+
+§ 1. Asesor sądowy jest obowiązany stale podnosić kwalifikacje zawodowe.
 
 § 2. (uchylony)
 
 § 3. Asesor sądowy jest obowiązany uczestniczyć, w miarę możliwości corocznie, w szkoleniu i doskonaleniu zawodowym organizowanym przez Krajową Szkołę Sądownictwa i Prokuratury lub innych formach doskonalenia zawodowego, w celu uzupełnienia specjalistycznej wiedzy i umiejętności zawodowych.
 
-§ 4. (uchylony) Art. 106zg. § 1. Do asesorów sądowych stosuje się odpowiednio przepisy art. 47b § 4–6, art. 67, art. 75b, art. 82, art. 83a, art. 85–90, art. 92 § 3–6, art. 95 i art. 97.
+§ 4. (uchylony)
+
+**Art. 106zg.**
+
+§ 1. Do asesorów sądowych stosuje się odpowiednio przepisy art. 47b § 4–6, art. 67, art. 75b, art. 82, art. 83a, art. 85–90, art. 92 § 3–6, art. 95 i art. 97.
 
 § 2. Ilekroć inne ustawy przewidują podejmowanie czynności urzędowych przez sędziego należy przez sędziego rozumieć także asesora sądowego.
 
@@ -3122,13 +3182,21 @@ Art. 180–195. (pominięte)
 
 **Art. 155b.** (uchylony)
 
-**Art. 155c.** (uchylony) Art. 155ca. § 1. W okresie pierwszych dwóch lat pracy asystent sędziego odbywa staż asystencki organizowany przez prezesa sądu apelacyjnego.
+**Art. 155c.** (uchylony)
+
+**Art. 155ca.**
+
+§ 1. W okresie pierwszych dwóch lat pracy asystent sędziego odbywa staż asystencki organizowany przez prezesa sądu apelacyjnego.
 
 § 2. (uchylony)
 
 § 3. Z obowiązku odbycia stażu asystenckiego są zwolnione osoby, które spełniają warunki, o których mowa w art. 155 § 1c pkt 2.
 
-§ 4. Asystent sędziego w pierwszym roku pracy, w ramach stażu asystenckiego, odbywa szkolenie z zakresu metodyki pracy organizowane przez Krajową Szkołę Sądownictwa i Prokuratury. Prezes sądu kieruje asystenta na szkolenie w najbliższym terminie przewidzianym w harmonogramie działalności szkoleniowej Krajowej Szkoły Sądownictwa i Prokuratury na dany rok. Art. 155cb. § 1. Staż asystencki trwa 12 miesięcy i ma na celu teoretyczne i praktyczne przygotowanie do wykonywania czynności asystenta sędziego.
+§ 4. Asystent sędziego w pierwszym roku pracy, w ramach stażu asystenckiego, odbywa szkolenie z zakresu metodyki pracy organizowane przez Krajową Szkołę Sądownictwa i Prokuratury. Prezes sądu kieruje asystenta na szkolenie w najbliższym terminie przewidzianym w harmonogramie działalności szkoleniowej Krajowej Szkoły Sądownictwa i Prokuratury na dany rok.
+
+**Art. 155cb.**
+
+§ 1. Staż asystencki trwa 12 miesięcy i ma na celu teoretyczne i praktyczne przygotowanie do wykonywania czynności asystenta sędziego.
 
 § 2. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, szczegółowe warunki organizacji i trybu odbywania stażu asystenckiego, harmonogram zajęć praktycznych i teoretycznych, zakres programowy stażu asystenckiego oraz wzór dokumentu potwierdzającego odbycie stażu asystenckiego, mając na względzie konieczność zapewnienia odpowiednio wysokiego poziomu przygotowania do wykonywania czynności asystenta sędziego.
 
@@ -3452,7 +3520,11 @@ Art. 180–195. (pominięte)
 
 § 2. Minister Sprawiedliwości przetwarza dane osób uzyskane z systemu teleinformatycznego, o którym mowa w art. 213 § 1a Kodeksu postępowania karnego, wyłącznie w zakresie niezbędnym do realizacji zadania, o którym mowa w § 1.
 
-**Art. 175d.** Minister Sprawiedliwości w celu wykonania zadań określonych w ustawie pełni funkcję koordynującą, o której mowa w art. 44 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, z późn. zm. ), i zapewnia sądom dostęp do danych, w tym do przetwarzania danych osobowych w tym systemie. Art. 175da. § 1. Minister Sprawiedliwości wykonuje zadania z zakresu informatyzacji sądownictwa polegające w szczególności na projektowaniu, wdrażaniu, eksploatacji, integracji, utrzymaniu, rozwoju, administrowaniu i udostępnianiu sądowych systemów teleinformatycznych, zabezpieczaniu danych osobowych przetwarzanych w tych systemach, koordynowaniu tych działań oraz zapewnianiu możliwości wymiany informacji pomiędzy tymi systemami.
+**Art. 175d.** Minister Sprawiedliwości w celu wykonania zadań określonych w ustawie pełni funkcję koordynującą, o której mowa w art. 44 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, z późn. zm. ), i zapewnia sądom dostęp do danych, w tym do przetwarzania danych osobowych w tym systemie.
+
+**Art. 175da.**
+
+§ 1. Minister Sprawiedliwości wykonuje zadania z zakresu informatyzacji sądownictwa polegające w szczególności na projektowaniu, wdrażaniu, eksploatacji, integracji, utrzymaniu, rozwoju, administrowaniu i udostępnianiu sądowych systemów teleinformatycznych, zabezpieczaniu danych osobowych przetwarzanych w tych systemach, koordynowaniu tych działań oraz zapewnianiu możliwości wymiany informacji pomiędzy tymi systemami.
 
 § 2. O ile przepisy szczególne nie stanowią inaczej, Minister Sprawiedliwości może tworzyć i utrzymywać systemy teleinformatyczne wspierające działalność administracyjną sądów, systemy teleinformatyczne obsługujące postępowania sądowe lub ich części, w tym systemy, w których tworzy się lub przetwarza akta sprawy, systemy teleinformatyczne, w których są prowadzone rejestry sądowe, systemy teleinformatyczne, w których są prowadzone urządzenia ewidencyjne, lub inne systemy teleinformatyczne wykorzystywane w działalności sądów, w tym portal informacyjny (sądowe systemy teleinformatyczne).
 
@@ -3472,9 +3544,19 @@ Art. 180–195. (pominięte)
 
 - **1)** opis sądowych systemów teleinformatycznych stosowanych w sądach powszechnych, zawierający strukturę systemu, wymaganą minimalną funkcjonalność systemu oraz zakres komunikacji między elementami struktury systemu,
 - **2)** wymagania standaryzujące w zakresie bezpieczeństwa, wydajności i rozwoju systemu,
-- **3)** sposób postępowania w zakresie stwierdzania zgodności oprogramowania z opisem systemu – mając na uwadze zapewnienie spójności sądowych systemów teleinformatycznych stosowanych w sądach powszechnych, w szczególności w zakresie jednorodności zakresu i rodzaju danych, a także zachowanie zgodności z minimalnymi wymogami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. Art. 175db. Administratorami danych osobowych przetwarzanych w postępowaniach sądowych w ramach sprawowania wymiaru sprawiedliwości albo realizacji zadań z zakresu ochrony prawnej są sądy. Art. 175dc. § 1. Do przetwarzania danych osobowych w postępowaniach sądowych, w rejestrach sądowych albo w sądowych systemach teleinformatycznych nie stosuje się przepisów art. 15, art. 16 – w zakresie, w jakim przepisy szczególne przewidują odrębny tryb sprostowania, oraz art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”.
+- **3)** sposób postępowania w zakresie stwierdzania zgodności oprogramowania z opisem systemu – mając na uwadze zapewnienie spójności sądowych systemów teleinformatycznych stosowanych w sądach powszechnych, w szczególności w zakresie jednorodności zakresu i rodzaju danych, a także zachowanie zgodności z minimalnymi wymogami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-§ 2. W związku z przetwarzaniem danych osobowych w postępowaniach sądowych wykonanie obowiązków, o których mowa w art. 13 rozporządzenia 2016/679, następuje przez umieszczenie informacji określonych w art. 13 ust. 2 rozporządzenia 2016/679 w Biuletynie Informacji Publicznej na stronie podmiotowej oraz w widocznym miejscu w budynku sądu. Art. 175dd. § 1. Nadzór nad przetwarzaniem danych osobowych, których administratorami są sądy, zgodnie z art. 175da i art. 175db, wykonują w zakresie działalności sądu:
+**Art. 175db.** Administratorami danych osobowych przetwarzanych w postępowaniach sądowych w ramach sprawowania wymiaru sprawiedliwości albo realizacji zadań z zakresu ochrony prawnej są sądy.
+
+**Art. 175dc.**
+
+§ 1. Do przetwarzania danych osobowych w postępowaniach sądowych, w rejestrach sądowych albo w sądowych systemach teleinformatycznych nie stosuje się przepisów art. 15, art. 16 – w zakresie, w jakim przepisy szczególne przewidują odrębny tryb sprostowania, oraz art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”.
+
+§ 2. W związku z przetwarzaniem danych osobowych w postępowaniach sądowych wykonanie obowiązków, o których mowa w art. 13 rozporządzenia 2016/679, następuje przez umieszczenie informacji określonych w art. 13 ust. 2 rozporządzenia 2016/679 w Biuletynie Informacji Publicznej na stronie podmiotowej oraz w widocznym miejscu w budynku sądu.
+
+**Art. 175dd.**
+
+§ 1. Nadzór nad przetwarzaniem danych osobowych, których administratorami są sądy, zgodnie z art. 175da i art. 175db, wykonują w zakresie działalności sądu:
 
 - **1)** rejonowego – prezes sądu okręgowego;
 - **2)** okręgowego – prezes sądu apelacyjnego;
@@ -3615,6 +3697,8 @@ Art. 180–195. (pominięte)
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
 
+**Art. 180–195.** (pominięte)
+
 #### Rozdział 2 Przepisy przejściowe i końcowe
 
 **Art. 196.** Sądy utworzone na podstawie ustawy wymienionej w art. 211 są sądami powszechnymi w rozumieniu ustawy.
@@ -3711,7 +3795,9 @@ Art. 180–195. (pominięte)
 
 § 2. Przepis § 1 stosuje się odpowiednio do prokuratorów, którzy uzyskali zgodę Prokuratora Generalnego na dalsze zajmowanie stanowiska.
 
-§ 3. W sprawach dotyczących wyrażenia zgody, o której mowa w § 1 i 2, niezakończonych w chwili wejścia w życie ustawy, przepis art. 69 § 3 zdanie drugie stosuje się. Art. 208–210. (pominięte)
+§ 3. W sprawach dotyczących wyrażenia zgody, o której mowa w § 1 i 2, niezakończonych w chwili wejścia w życie ustawy, przepis art. 69 § 3 zdanie drugie stosuje się.
+
+**Art. 208–210.** (pominięte)
 
 **Art. 211.**
 

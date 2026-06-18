@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej
 
 | Pole | Wartość |
 |---|---|
@@ -152,7 +152,9 @@ o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwa
 
 2. Zadania, o których mowa w ust. 1, mogą być również realizowane przez podmioty inne niż wskazane w ust. 1.
 
-3. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, warunki, sposób i tryb prowadzenia szkoleń dla podmiotów, których dotyczą działania objęte planem, oraz doradzania w zakresie sporządzania dokumentacji niezbędnej do uzyskania pomocy, mając na względzie zapewnienie prawidłowej realizacji planu. Art. 10–13. (pominięte)
+3. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, warunki, sposób i tryb prowadzenia szkoleń dla podmiotów, których dotyczą działania objęte planem, oraz doradzania w zakresie sporządzania dokumentacji niezbędnej do uzyskania pomocy, mając na względzie zapewnienie prawidłowej realizacji planu.
+
+**Art. 10–13.** (pominięte)
 
 **Art. 14.**
 

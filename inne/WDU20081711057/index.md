@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o żegludze śródlądowej
+# Ustawa z dnia 4 września 2008 r. o zmianie ustawy o żegludze śródlądowej
 
 *USTAWA z dnia 4 września 2008 r.*
 

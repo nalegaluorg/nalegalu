@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o produktach pochodzenia zwierzęcego oraz ustawy o systemie identyfikacji i rejestracji zwierząt
+# Ustawa z dnia 7 marca 2007 r. o zmianie ustawy o produktach pochodzenia zwierzęcego oraz ustawy o systemie identyfikacji i rejestracji zwierząt
 
 *USTAWA z dnia 7 marca 2007 r.*
 

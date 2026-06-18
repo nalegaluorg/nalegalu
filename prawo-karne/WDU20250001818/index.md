@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny, ustawy – Kodeks wykroczeń oraz ustawy – Kodeks postępowania w sprawach o wykroczenia
+# Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks wykroczeń oraz ustawy - Kodeks postępowania w sprawach o wykroczenia
 
 *USTAWA z dnia 7 listopada 2025 r.*
 

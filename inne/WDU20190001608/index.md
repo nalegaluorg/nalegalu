@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji, ustawy o Straży Granicznej oraz ustawy o Służbie Więziennej
+# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej oraz ustawy o Służbie Więziennej
 
 *USTAWA z dnia 19 lipca 2019 r.*
 

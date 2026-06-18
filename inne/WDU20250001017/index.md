@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o krajowym systemie certyfikacji cyberbezpieczeństwa
+# Ustawa z dnia 25 czerwca 2025 r. o krajowym systemie certyfikacji cyberbezpieczeństwa
 
 *USTAWA z dnia 25 czerwca 2025 r.*
 

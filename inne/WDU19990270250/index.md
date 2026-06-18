@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie powołania Komisji do Spraw Zaopatrzenia Emerytalnego Twórców oraz szczegółowego określenia jej zadań, składu i trybu działania.
+# Rozporządzenie Ministra Kultury i Sztuki z dnia 9 marca 1999 r. w sprawie powołania Komisji do Spraw Zaopatrzenia Emerytalnego Twórców oraz szczegółowego określenia jej zadań, składu i trybu działania.
 
 | Pole | Wartość |
 |---|---|

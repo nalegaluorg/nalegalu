@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym
+# Ustawa z dnia 27 sierpnia 2004 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym
 
 *USTAWA z dnia 27 sierpnia 2004 r.*
 

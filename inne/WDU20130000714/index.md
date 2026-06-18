@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach prowadzenia polityki rozwoju
+# Ustawa z dnia 19 kwietnia 2013 r. o zmianie ustawy o zasadach prowadzenia polityki rozwoju
 
 *USTAWA z dnia 19 kwietnia 2013 r.*
 

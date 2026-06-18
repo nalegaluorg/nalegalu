@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o instytutach badawczych
+# Ustawa z dnia 30 kwietnia 2010 r. o instytutach badawczych
 
 *USTAWA z dnia 30 kwietnia 2010 r.*
 

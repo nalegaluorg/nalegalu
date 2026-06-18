@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o postępowaniu egzekucyjnym w administracji, ustawy o podatkach i opłatach lokalnych, ustawy o dopłatach do oprocentowania niektórych kredytów bankowych, ustawy – Prawo o publicznym obrocie papierami wartościowymi, ustawy – Ordynacja podatkowa, ustawy o finansach publicznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych - w związku z dostosowaniem do prawa Unii Europejskiej
+# Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji, ustawy o podatkach i opłatach lokalnych, ustawy o dopłatach do oprocentowania niektórych kredytów bankowych, ustawy - Prawo o publicznym obrocie papierami wartościowymi, ustawy - Ordynacja podatkowa, ustawy o finansach publicznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych - w związku z dostosowaniem do prawa Unii Europejskiej.
 
 *USTAWA z dnia 8 grudnia 2000 r.*
 

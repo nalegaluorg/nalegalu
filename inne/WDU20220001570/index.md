@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Inspekcji Weterynaryjnej oraz niektórych innych ustaw
+# Ustawa z dnia 23 czerwca 2022 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz niektórych innych ustaw
 
 *USTAWA z dnia 23 czerwca 2022 r.*
 
@@ -672,7 +672,11 @@ source: pdf
 - **1)** imię, nazwisko, miejsce zamieszkania i adres właściciela albo nazwę, siedzibę i adres podmiotu przemieszczającego zwierzęta;
 - **2)** określenie liczby przemieszczanych zwierząt;
 - **3)** nazwę państwa pochodzenia przemieszczanych zwierząt;
-- **4)** określenie punktu wjazdu, o którym mowa w ust. 3, i zamierzonego terminu przemieszczenia zwierząt. Art. 24bb. 1. Główny Lekarz Weterynarii może wydać zezwolenie na przemieszczenie zwierząt domowych towarzyszących podróżnym, o którym mowa w art. 32 ust. 1 rozporządzenia nr 576/2013.
+- **4)** określenie punktu wjazdu, o którym mowa w ust. 3, i zamierzonego terminu przemieszczenia zwierząt.
+
+**Art. 24bb.**
+
+1. Główny Lekarz Weterynarii może wydać zezwolenie na przemieszczenie zwierząt domowych towarzyszących podróżnym, o którym mowa w art. 32 ust. 1 rozporządzenia nr 576/2013.
 
 2. Zezwolenie, o którym mowa w art. 32 ust. 1 rozporządzenia nr 576/2013, wydaje się w drodze decyzji po uzgodnieniu z powiatowym lekarzem weterynarii właściwym dla miejsca przeznaczenia zwierząt miejsca oraz warunków kwarantanny zwierząt.
 

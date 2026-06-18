@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Polskiej Agencji Prasowej
+# Ustawa z dnia 31 lipca 1997 r. o Polskiej Agencji Prasowej.
 
 *USTAWA z dnia 31 lipca 1997 r.*
 

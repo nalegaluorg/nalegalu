@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy - Ordynacja podatkowa oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 13 lipca 2006 r. zmieniająca ustawę o zmianie ustawy - Ordynacja podatkowa oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 13 lipca 2006 r.*
 

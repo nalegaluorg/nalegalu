@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie rekompensat dla sektorów i podsektorów energochłonnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 *USTAWA z dnia 19 lipca 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uczestnictwie pracowników w spółce powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek
+# Ustawa z dnia 26 maja 2023 r. o uczestnictwie pracowników w spółce powstałej w wyniku transgranicznego przekształcenia, połączenia lub podziału spółek
 
 *USTAWA z dnia 26 maja 2023 r.*
 

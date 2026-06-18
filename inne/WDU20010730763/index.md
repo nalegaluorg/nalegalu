@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie psychologa i samorządzie zawodowym psychologów
+# Ustawa z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów.
 
 *USTAWA z dnia 8 czerwca 2001 r.*
 

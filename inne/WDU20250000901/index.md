@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o biokomponentach i biopaliwach ciekłych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o biokomponentach i biopaliwach ciekłych
 
 *USTAWA z dnia 25 sierpnia 2006 r.*
 
@@ -26,31 +26,6 @@ source: pdf
 | Data wydania | 2025-07-07 |
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000901) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/901/text.pdf) |
-
-Art. 28ya. Prezes Urzędu Regulacji Energetyki jest odpowiedzialny za:
-1) wykonywanie zadań, obowiązków oraz korzystanie z uprawnień określonych w sposób wiążący dla organu właściwego, o którym mowa w art. 11 ust. 1 rozporządzenia 2023/2405, odnoszących się do dostawców paliw lotniczych;
-2) zarządzanie dostępem dostawców paliw lotniczych niebędących podmiotem certyfikowanym do unijnej bazy danych;
-3) weryfikację poprawności informacji, o których mowa w art. 30c, oraz informacji wynikających z obowiązków sprawozdawczych, o których mowa w art. 10 rozporządzenia 2023/2405, wprowadzanych do unijnej bazy danych przez podmioty wytwarzające, importujące lub nabywające wewnątrzwspólnotowo SAF lub paliwa lotnicze z dodatkiem SAF oraz dostawców paliw lotniczych;
-4) współpracę z Komisją Europejską i Agencją Unii Europejskiej ds.
-Bezpieczeństwa Lotniczego w zakresie niezbędnym do wykonywania obowiązków określonych w rozporządzeniu 2023/2405 odnoszących się do dostawców paliw lotniczych;
-5) współpracę z Komisją Europejską w zakresie funkcjonowania unijnej bazy danych w odniesieniu do podmiotów, dostawców i informacji, o których mowa w pkt 3.
-Art. 28yb. 1. Minister właściwy do spraw klimatu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
-1) roczną średnią cenę paliw lotniczych za tonę,
-2) roczną średnią cenę SAF za tonę,
-3) roczną średnią cenę syntetycznych paliw lotniczych za tonę,
-4) różnicę między roczną średnią ceną SAF za tonę a roczną średnią ceną paliw lotniczych za tonę,
-5) różnicę między roczną średnią ceną syntetycznych paliw lotniczych za tonę a roczną średnią ceną paliw lotniczych za tonę – na podstawie informacji podawanych przez Agencję Unii Europejskiej ds.
-Bezpieczeństwa Lotniczego zgodnie z art. 13 ust. 1 rozporządzenia 2023/2405, w terminie do dnia 31 grudnia każdego roku, za poprzedni rok kalendarzowy.
-2. Ceny, o których mowa w ust. 1 pkt 1–3, ustala się w złotych według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień 31 stycznia każdego roku, a w przypadku gdy w tym roku Narodowy Bank Polski nie ogłasza średniego kursu euro w dniu 31 stycznia – według średniego kursu euro ogłoszonego w najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego, w roku ogłoszenia obwieszczenia.
-Art. 28yc. SAF może być zaliczony dostawcy paliw lotniczych na poczet realizacji obowiązków, o których mowa w art. 4 ust. 1 i 7 rozporządzenia 2023/2405, wyłącznie wtedy, gdy nie został wcześniej zaliczony na poczet realizacji tych obowiązków przez tego lub innego dostawcę paliw lotniczych oraz:
-1) spełnia kryteria zrównoważonego rozwoju określone w art. 28ba–28bcb i art. 28bcc ust. 1 oraz kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b – w przypadku biopaliw lotniczych;
-2) spełnia kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b – w przypadku syntetycznych paliw lotniczych;
-3) spełnia kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b – w przypadku pochodzących z recyklingu węglowych paliw lotniczych w rozumieniu art. 3 pkt 9 rozporządzenia 2023/2405 będących ciekłymi paliwami węglowymi pochodzącymi z recyklingu lub gazowymi paliwami węglowymi pochodzącymi z recyklingu.
-Art. 28yd. Dokumentami potwierdzającymi spełnienie kryteriów, o których mowa w art. 28yc, są:
-1) dokumenty, o których mowa w art. 28c ust. 1 pkt 1, 2 i 4, lub
-2) dokument wystawiony przez podmiot realizujący Narodowy Cel Wskaźnikowy na podstawie dokumentów określonych w pkt 1.
-Art. 28ye. Prezes Urzędu Regulacji Energetyki może żądać przedstawienia dokumentów i informacji dotyczących realizacji obowiązków, o których mowa w art. 4 ust. 1 i 7, art. 9 ust. 2 i 3 oraz art. 10 rozporządzenia 2023/2405, oraz w art. 30c, odpowiednio przez podmioty wytwarzające, importujące lub nabywające wewnątrzwspólnotowo SAF lub paliwa lotnicze z dodatkiem SAF oraz dostawców paliw lotniczych, z uwzględnieniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
-Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405, są przekazywane zarządzającemu lotniskiem będącym unijnym portem lotniczym przez dostawcę paliw lotniczych, na wniosek tego zarządzającego lotniskiem, w terminie 14 dni od dnia doręczenia tego wniosku.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -436,7 +411,11 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 
 3. Rejestr podmiotów sprowadzających jest jawny.
 
-4. Organ rejestrowy prostuje z urzędu wpis do rejestru podmiotów sprowadzających zawierający oczywiste błędy lub niezgodności ze stanem faktycznym. Art. 12da. 1. Organ rejestrowy jest obowiązany dokonać wpisu podmiotu sprowadzającego do rejestru podmiotów sprowadzających w terminie 7 dni od dnia wpływu do tego organu wniosku o wpis wraz z oświadczeniem o spełnieniu warunków wymaganych prawem do wykonywania działalności gospodarczej, o której mowa w art. 12a ust. 1, oraz oświadczenia o niekaralności, o którym mowa w art. 12c ust. 4 pkt
+4. Organ rejestrowy prostuje z urzędu wpis do rejestru podmiotów sprowadzających zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+
+**Art. 12da.**
+
+1. Organ rejestrowy jest obowiązany dokonać wpisu podmiotu sprowadzającego do rejestru podmiotów sprowadzających w terminie 7 dni od dnia wpływu do tego organu wniosku o wpis wraz z oświadczeniem o spełnieniu warunków wymaganych prawem do wykonywania działalności gospodarczej, o której mowa w art. 12a ust. 1, oraz oświadczenia o niekaralności, o którym mowa w art. 12c ust. 4 pkt
 
 2.
 
@@ -908,7 +887,11 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 
 4. Inne paliwa odnawialne mogą być zaliczone podmiotowi realizującemu Narodowy Cel Wskaźnikowy na poczet realizacji obowiązku, o którym mowa w art. 23 ust. 1, również wtedy, gdy są one stosowane jako produkt pośredni w produkcji paliw.
 
-**Art. 28b².** Ciekłe paliwa węglowe pochodzące z recyklingu i gazowe paliwa węglowe pochodzące z recyklingu spełniają kryterium ograniczenia emisji gazów cieplarnianych, jeżeli ograniczenie emisji tych gazów wynosi co najmniej 70 %, ustalane zgodnie z metodyką określoną w załączniku do rozporządzenia, o którym mowa w art. 28b ust. 1. Art. 28ba. 1. Biokomponenty wytworzone z biomasy rolniczej spełniają kryterium ochrony terenów o wysokiej wartości bioróżnorodności, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z terenów, które w okresie od 1 do 31 stycznia 2008 r. lub po tym okresie, posiadały następujący status, niezależnie od tego, czy posiadają go nadal:
+**Art. 28b².** Ciekłe paliwa węglowe pochodzące z recyklingu i gazowe paliwa węglowe pochodzące z recyklingu spełniają kryterium ograniczenia emisji gazów cieplarnianych, jeżeli ograniczenie emisji tych gazów wynosi co najmniej 70 %, ustalane zgodnie z metodyką określoną w załączniku do rozporządzenia, o którym mowa w art. 28b ust. 1.
+
+**Art. 28ba.**
+
+1. Biokomponenty wytworzone z biomasy rolniczej spełniają kryterium ochrony terenów o wysokiej wartości bioróżnorodności, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z terenów, które w okresie od 1 do 31 stycznia 2008 r. lub po tym okresie, posiadały następujący status, niezależnie od tego, czy posiadają go nadal:
 
 - **1)** lasów pierwotnych i innych zalesionych gruntów, czyli lasów i innych zalesionych gruntów z gatunkami rodzimymi, gdzie nie istnieją wyraźnie widoczne ślady działalności człowieka, a procesy ekologiczne nie zostały w istotny sposób zaburzone;
 - **1a)** lasów i innych zalesionych gruntów o wysokiej różnorodności biologicznej, charakteryzujących się obfitością gatunków i niezdegradowanych, które zostały przez właściwy organ uznane za mające wysoką różnorodność biologiczną, chyba że zainteresowany podmiot przedstawi dowody, że produkcja tych surowców nie narusza tych celów ochrony przyrody;
@@ -920,7 +903,11 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
     - **a)** naturalnych, czyli obszarów trawiastych, które pozostaną takimi obszarami jeżeli nie dojdzie do interwencji człowieka i które zachowają naturalny skład gatunkowy oraz cechy i procesy ekologiczne,
     - **b)** nienaturalnych, czyli obszarów trawiastych, które przestaną być takimi obszarami na skutek braku interwencji człowieka, są bogate gatunkowo i nie są zdegradowane, chyba że zbiory surowców rolniczych są konieczne, aby mogły zachować status obszarów trawiastych.
 
-2. Uznaje się, że biokomponenty wytworzone z biomasy rolniczej pochodzące z obszarów określonych w ust. 1 pkt 2 spełniają kryterium ochrony terenów o wysokiej wartości bioróżnorodności, pod warunkiem, że zainteresowany podmiot przedstawi dowody, że produkcja biomasy wykorzystanej do ich wytworzenia nie narusza celów ochrony przyrody. Art. 28bb. 1. Biokomponenty wytworzone z biomasy rolniczej spełniają kryterium ochrony terenów zasobnych w duże ilości pierwiastka węgla, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z takich terenów.
+2. Uznaje się, że biokomponenty wytworzone z biomasy rolniczej pochodzące z obszarów określonych w ust. 1 pkt 2 spełniają kryterium ochrony terenów o wysokiej wartości bioróżnorodności, pod warunkiem, że zainteresowany podmiot przedstawi dowody, że produkcja biomasy wykorzystanej do ich wytworzenia nie narusza celów ochrony przyrody.
+
+**Art. 28bb.**
+
+1. Biokomponenty wytworzone z biomasy rolniczej spełniają kryterium ochrony terenów zasobnych w duże ilości pierwiastka węgla, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z takich terenów.
 
 2. Do terenów zasobnych w duże ilości pierwiastka węgla zalicza się tereny, które w okresie od 1 do 31 stycznia 2008 r. posiadały jeden z poniższych statusów, ale już go nie posiadają:
 
@@ -928,19 +915,39 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 - **2)** obszarów stale zalesianych, czyli obszarów obejmujących więcej niż 1 ha z drzewami o wysokości powyżej 5 metrów i pokryciem powierzchni przez korony drzew powyżej 30 %, lub drzewami mogącymi osiągnąć te wartości w miejscu ich naturalnego występowania;
 - **3)** obszarów obejmujących więcej niż 1 ha z drzewami o wysokości powyżej 5 metrów i z pokryciem powierzchni przez korony drzew pomiędzy 10 % a 30 % lub drzewami mogącymi osiągnąć te wartości w miejscu ich naturalnego występowania, z wyjątkiem sytuacji, gdy przedstawiono dowody, że obszar ten przed i po przekształceniu magazynuje taką ilość pierwiastka węgla, że stosując metodykę określoną w pkt II.3. załącznika nr 2 do ustawy, zostałoby spełnione kryterium określone w art. 28b.
 
-3. Przepisów ust. 2 nie stosuje się, jeżeli w czasie pozyskiwania biomasy teren posiadał ten sam status co w okresie od 1 do 31 stycznia 2008 r. Art. 28bc. Biokomponenty wytworzone z biomasy rolniczej spełniają kryterium ochrony torfowisk, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z terenów, które w okresie od 1 do 31 stycznia 2008 r. były torfowiskami, chyba że podmiot zainteresowany przedstawi dowody, że przy uprawie i zbiorach biomasy nie stosowano melioracji uprzednio niemeliorowanych gleb. Art. 28bca. 1. Uznaje się, że biokomponenty, biopłyny w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i paliwa z biomasy w rozumieniu art. 2 pkt 26c tej ustawy wytworzone z pozostałości pochodzących z gruntów rolnych spełniają kryteria określone w art. 29 ust. 2 dyrektywy 2018/2001 (w brzmieniu z dnia 7 czerwca 2022 r.), jeżeli producent rolny stosuje zasady ochrony powierzchni gleby, o których mowa w art. 101 pkt 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647), i działa na podstawie krajowego planu zachowania żyzności gleb, w szczególności w zakresie zachowania zasobów pierwiastka węgla w glebie. W przypadku gdy krajowy plan zachowania żyzności gleb nie został przyjęty, producent rolny jest obowiązany do działania na podstawie indywidualnego planu gospodarki glebą, opracowanego zgodnie z wymaganiami uznanego systemu certyfikacji, w którym w szczególności potwierdza, że stosuje praktyki upraw zapewniające zachowanie jak najlepszego stanu gleby, w tym zasobów pierwiastka węgla w glebie.
+3. Przepisów ust. 2 nie stosuje się, jeżeli w czasie pozyskiwania biomasy teren posiadał ten sam status co w okresie od 1 do 31 stycznia 2008 r.
+
+**Art. 28bc.** Biokomponenty wytworzone z biomasy rolniczej spełniają kryterium ochrony torfowisk, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z terenów, które w okresie od 1 do 31 stycznia 2008 r. były torfowiskami, chyba że podmiot zainteresowany przedstawi dowody, że przy uprawie i zbiorach biomasy nie stosowano melioracji uprzednio niemeliorowanych gleb.
+
+**Art. 28bca.**
+
+1. Uznaje się, że biokomponenty, biopłyny w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i paliwa z biomasy w rozumieniu art. 2 pkt 26c tej ustawy wytworzone z pozostałości pochodzących z gruntów rolnych spełniają kryteria określone w art. 29 ust. 2 dyrektywy 2018/2001 (w brzmieniu z dnia 7 czerwca 2022 r.), jeżeli producent rolny stosuje zasady ochrony powierzchni gleby, o których mowa w art. 101 pkt 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647), i działa na podstawie krajowego planu zachowania żyzności gleb, w szczególności w zakresie zachowania zasobów pierwiastka węgla w glebie. W przypadku gdy krajowy plan zachowania żyzności gleb nie został przyjęty, producent rolny jest obowiązany do działania na podstawie indywidualnego planu gospodarki glebą, opracowanego zgodnie z wymaganiami uznanego systemu certyfikacji, w którym w szczególności potwierdza, że stosuje praktyki upraw zapewniające zachowanie jak najlepszego stanu gleby, w tym zasobów pierwiastka węgla w glebie.
 
 2. Indywidualny plan gospodarki glebą, o którym mowa w ust. 1:
 
 - **1)** zawiera w szczególności wskazanie stosowanych podstawowych praktyk gospodarowania glebami mających na celu utrzymanie pierwiastka węgla w glebie (sekwestracja dwutlenku węgla), oddziałujących na zmniejszenie emisji dwutlenku węgla z gleby do atmosfery;
 - **2)** opracowuje się na podstawie analiz, o których mowa w art. 128 ust. 4a pkt 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
 
-3. Audytorzy systemów dobrowolnych, o których mowa w rozporządzeniu wykonawczym Komisji (UE) 2022/996 z dnia 14 czerwca 2022 r. w sprawie zasad weryfikacji kryteriów zrównoważonego rozwoju i ograniczania emisji gazów cieplarnianych oraz kryteriów niskiego ryzyka spowodowania pośredniej zmiany użytkowania gruntów (Dz. Urz. UE L 168 z 27.06.2022, str. 1, z późn. zm. ), weryfikują stosowanie przez producentów rolnych indywidualnych planów gospodarki glebą lub praktyk przy ustalaniu emisji gazów cieplarnianych z biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy zgodnie z art. 20 oraz art. 21 tego rozporządzenia. Art. 28bcb. Biokomponenty spełniają kryterium zrównoważonej gospodarki leśnej, jeżeli pozyskanie biomasy leśnej wykorzystywanej do ich wytworzenia było prowadzone zgodnie z:
+3. Audytorzy systemów dobrowolnych, o których mowa w rozporządzeniu wykonawczym Komisji (UE) 2022/996 z dnia 14 czerwca 2022 r. w sprawie zasad weryfikacji kryteriów zrównoważonego rozwoju i ograniczania emisji gazów cieplarnianych oraz kryteriów niskiego ryzyka spowodowania pośredniej zmiany użytkowania gruntów (Dz. Urz. UE L 168 z 27.06.2022, str. 1, z późn. zm. ), weryfikują stosowanie przez producentów rolnych indywidualnych planów gospodarki glebą lub praktyk przy ustalaniu emisji gazów cieplarnianych z biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy zgodnie z art. 20 oraz art. 21 tego rozporządzenia.
+
+**Art. 28bcb.** Biokomponenty spełniają kryterium zrównoważonej gospodarki leśnej, jeżeli pozyskanie biomasy leśnej wykorzystywanej do ich wytworzenia było prowadzone zgodnie z:
 
 - **1)** rozporządzeniem wykonawczym Komisji (UE) 2022/2448 z dnia 13 grudnia 2022 r. ustanawiającym operacyjne wytyczne dotyczące dowodów do celów wykazania zgodności z kryteriami zrównoważonego rozwoju dotyczącymi biomasy leśnej i określonymi w art. 29 dyrektywy Parlamentu Europejskiego i Rady (UE) 2018/2001 (Dz. Urz. UE L 320 z 14.12.2022, str. 4) oraz
-- **2)** zasadami trwale zrównoważonej gospodarki leśnej określonymi w ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2025 r. poz. 567). Art. 28bcc. 1. Biokomponenty, biopłyny w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i paliwa z biomasy w rozumieniu art. 2 pkt 26c tej ustawy spełniają kryterium niskiego ryzyka spowodowania pośredniej zmiany użytkowania gruntów, jeżeli w stosunku do biomasy wykorzystywanej do ich wytworzenia nie zaobserwowano znaczącej ekspansji obszaru produkcji na tereny zasobne w pierwiastek węgla, o której mowa w art. 3 rozporządzenia delegowanego Komisji (UE) 2019/807 z dnia 13 marca 2019 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 w odniesieniu do określenia surowców o wysokim ryzyku spowodowania pośredniej zmiany użytkowania gruntów, w przypadku których zaobserwowano znaczącą ekspansję obszaru produkcji na tereny zasobne w pierwiastek węgla oraz certyfikowania biopaliw, biopłynów i paliw z biomasy o niskim ryzyku spowodowania pośredniej zmiany użytkowania gruntów (Dz. Urz. UE L 133 z 21.05.2019, str. 1), chyba że te biokomponenty spełniają warunki określone w art. 4 i art. 5 tego rozporządzenia.
+- **2)** zasadami trwale zrównoważonej gospodarki leśnej określonymi w ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2025 r. poz. 567).
 
-2. Przy obliczaniu spełnienia kryterium, o którym mowa w ust. 1, uwzględnia się dane wejściowe do obliczania emisji surowców określone w załączniku nr 3 do ustawy. Art. 28bcd. Kryteria zrównoważonego rozwoju określone w art. 28ba–28bcb i art. 28bcc ust. 1 stosuje się odpowiednio do biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i do paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy. Art. 28bd. (uchylony) Art. 28be. 1. Potwierdzenie spełnienia kryteriów zrównoważonego rozwoju oraz kryteriów ograniczenia emisji gazów cieplarnianych określonych w poświadczeniu odbywa się przez system bilansu masy.
+**Art. 28bcc.**
+
+1. Biokomponenty, biopłyny w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i paliwa z biomasy w rozumieniu art. 2 pkt 26c tej ustawy spełniają kryterium niskiego ryzyka spowodowania pośredniej zmiany użytkowania gruntów, jeżeli w stosunku do biomasy wykorzystywanej do ich wytworzenia nie zaobserwowano znaczącej ekspansji obszaru produkcji na tereny zasobne w pierwiastek węgla, o której mowa w art. 3 rozporządzenia delegowanego Komisji (UE) 2019/807 z dnia 13 marca 2019 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 w odniesieniu do określenia surowców o wysokim ryzyku spowodowania pośredniej zmiany użytkowania gruntów, w przypadku których zaobserwowano znaczącą ekspansję obszaru produkcji na tereny zasobne w pierwiastek węgla oraz certyfikowania biopaliw, biopłynów i paliw z biomasy o niskim ryzyku spowodowania pośredniej zmiany użytkowania gruntów (Dz. Urz. UE L 133 z 21.05.2019, str. 1), chyba że te biokomponenty spełniają warunki określone w art. 4 i art. 5 tego rozporządzenia.
+
+2. Przy obliczaniu spełnienia kryterium, o którym mowa w ust. 1, uwzględnia się dane wejściowe do obliczania emisji surowców określone w załączniku nr 3 do ustawy.
+
+**Art. 28bcd.** Kryteria zrównoważonego rozwoju określone w art. 28ba–28bcb i art. 28bcc ust. 1 stosuje się odpowiednio do biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i do paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy.
+
+**Art. 28bd.** (uchylony)
+
+**Art. 28be.**
+
+1. Potwierdzenie spełnienia kryteriów zrównoważonego rozwoju oraz kryteriów ograniczenia emisji gazów cieplarnianych określonych w poświadczeniu odbywa się przez system bilansu masy.
 
 2. Podmioty certyfikowane są obowiązane do wdrożenia systemu bilansu masy, który:
 
@@ -953,7 +960,11 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 3. W przypadku gdy partia surowców jest przetwarzana, informacje o właściwościach partii pod względem zrównoważonego rozwoju i ograniczenia emisji gazów cieplarnianych koryguje się i przypisuje produktowi zgodnie z następującymi zasadami:
 
 - **1)** jeżeli w procesie przetwarzania partii surowca powstaje tylko jeden produkt, który jest przeznaczony do produkcji biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii lub paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy, innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu lub gazowych paliw węglowych pochodzących z recyklingu, wielkość partii i powiązane wartości zrównoważonego rozwoju i ograniczenia emisji gazów cieplarnianych koryguje się z zastosowaniem współczynników przeliczeniowych odzwierciedlających stosunek masy produktu przeznaczonego do takiej produkcji do masy surowca wprowadzonego do procesu;
-- **2)** jeżeli w procesie przetwarzania partii surowca powstaje więcej niż jeden produkt, który jest przeznaczony do produkcji biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii lub paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy, innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu lub gazowych paliw węglowych pochodzących z recyklingu, do każdego produktu stosuje się oddzielny współczynnik przeliczeniowy i osobny bilans masy. Art. 28bf. 1. Sposób weryfikacji spełnienia kryteriów zrównoważonego rozwoju, o których mowa w art. 28ba–28bcb i art. 28bcc ust. 1, zgodnie z systemem bilansu masy, o którym mowa w art. 28be, określa uznany system certyfikacji.
+- **2)** jeżeli w procesie przetwarzania partii surowca powstaje więcej niż jeden produkt, który jest przeznaczony do produkcji biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii lub paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy, innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu lub gazowych paliw węglowych pochodzących z recyklingu, do każdego produktu stosuje się oddzielny współczynnik przeliczeniowy i osobny bilans masy.
+
+**Art. 28bf.**
+
+1. Sposób weryfikacji spełnienia kryteriów zrównoważonego rozwoju, o których mowa w art. 28ba–28bcb i art. 28bcc ust. 1, zgodnie z systemem bilansu masy, o którym mowa w art. 28be, określa uznany system certyfikacji.
 
 2. Wykazanie spełnienia kryteriów zrównoważonego rozwoju określonych w art. 28ba–28bcb i art. 28bcc ust. 1 przez podmioty realizujące Narodowy Cel Wskaźnikowy odbywa się w szczególności zgodnie z art. 28i.
 
@@ -991,7 +1002,11 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 - **1)** biomasy lub
 - **2)** biokomponentów lub, w przypadku wytwórców, przeznaczenia biokomponentów do wytworzenia przez siebie paliw – na potrzeby realizacji Narodowego Celu Wskaźnikowego, jest obowiązany posiadać ważny certyfikat oraz wystawić poświadczenie.
 
-3. Poświadczenie, o którym mowa w ust. 2, jest wystawiane zgodnie z wymaganiami uznanego systemu certyfikacji. Art. 28ea. 1. Zabrania się podmiotowi realizującemu Narodowy Cel Wskaźnikowy wystawiania poświadczeń dla biokomponentów zawartych w paliwach, które zostały wykorzystane przez ten podmiot do realizacji obowiązku, o którym mowa w art. 23 ust. 1.
+3. Poświadczenie, o którym mowa w ust. 2, jest wystawiane zgodnie z wymaganiami uznanego systemu certyfikacji.
+
+**Art. 28ea.**
+
+1. Zabrania się podmiotowi realizującemu Narodowy Cel Wskaźnikowy wystawiania poświadczeń dla biokomponentów zawartych w paliwach, które zostały wykorzystane przez ten podmiot do realizacji obowiązku, o którym mowa w art. 23 ust. 1.
 
 2. Zakaz, o którym mowa w ust. 1, nie dotyczy podmiotów realizujących Narodowy Cel Wskaźnikowy, w przypadku poświadczeń wystawianych dla biokomponentów:
 
@@ -1100,7 +1115,11 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 
 3. Rejestr administratorów systemów certyfikacji jest jawny.
 
-4. Organ rejestrowy prostuje z urzędu wpis do rejestru administratorów systemów certyfikacji zawierający oczywiste błędy lub niezgodności ze stanem faktycznym. Art. 28ma. 1. Organ rejestrowy jest obowiązany dokonać wpisu administratora systemu certyfikacji do rejestru administratorów systemów certyfikacji w terminie 7 dni od dnia wpływu do tego organu wniosku o wpis wraz z dokumentami, o których mowa w art. 28l ust. 5.
+4. Organ rejestrowy prostuje z urzędu wpis do rejestru administratorów systemów certyfikacji zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+
+**Art. 28ma.**
+
+1. Organ rejestrowy jest obowiązany dokonać wpisu administratora systemu certyfikacji do rejestru administratorów systemów certyfikacji w terminie 7 dni od dnia wpływu do tego organu wniosku o wpis wraz z dokumentami, o których mowa w art. 28l ust. 5.
 
 2. Jeżeli organ rejestrowy nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do tego organu upłynęło 14 dni, administrator systemu certyfikacji może rozpocząć działalność. Nie dotyczy to przypadku, gdy organ wezwał administratora systemu certyfikacji do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
 
@@ -1129,7 +1148,9 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 
 2a. Przepis ust. 2 stosuje się odpowiednio, w przypadku gdy administrator systemu certyfikacji wykonuje działalność gospodarczą objętą wpisem także na podstawie wpisów do innych rejestrów działalności regulowanej w tym samym zakresie działalności gospodarczej.
 
-3. Administrator systemu certyfikacji, wobec którego wydano decyzję o zakazie wykonywania działalności, o której mowa w ust. 1, może uzyskać wpis do rejestru administratorów systemu certyfikacji nie wcześniej niż po upływie 3 lat od dnia wydania decyzji. Art. 28oa. Organ rejestrowy wykreśla administratora systemu certyfikacji z rejestru administratorów systemów certyfikacji na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+3. Administrator systemu certyfikacji, wobec którego wydano decyzję o zakazie wykonywania działalności, o której mowa w ust. 1, może uzyskać wpis do rejestru administratorów systemu certyfikacji nie wcześniej niż po upływie 3 lat od dnia wydania decyzji.
+
+**Art. 28oa.** Organ rejestrowy wykreśla administratora systemu certyfikacji z rejestru administratorów systemów certyfikacji na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
 
 **Art. 28p.**
 
@@ -1195,7 +1216,15 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 
 10. Organ rejestrowy wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru jednostek certyfikujących. <11. W przypadku zawieszenia, ograniczenia zakresu lub cofnięcia akredytacji jednostka certyfikująca w okresie zawieszenia, ograniczenia zakresu lub cofnięcia akredytacji nie może wykonywać działalności gospodarczej, o której mowa w art. 28q ust. 1, w zakresie, w jakim zawieszono lub cofnięto akredytację, lub ograniczono jej zakres.> <Art. 28ra. Polskie Centrum Akredytacji lub inna krajowa jednostka akredytująca w rozumieniu art. 2 pkt 11 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 przekazują organowi rejestrowemu informację o jednostkach certyfikujących, którym zawieszono lub cofnięto akredytację, o której mowa w art. 28r ust. 1 pkt 4 lit. a, lub ograniczono jej zakres, w terminie 14 dni od dnia tego zawieszenia, cofnięcia lub ograniczenia.>
 
-**Art. 28s.** [1. Wpisowi do rejestru jednostek certyfikujących podlegają dane, o których mowa w art. 28r ust. 4 pkt 1–4, z wyłączeniem innych danych teleadresowych.] <1. Wpisowi do rejestru jednostek certyfikujących podlegają dane, o których mowa w art. 28r ust. 4 pkt 1–4a i informację, o której mowa w art. 28ra, z wyłączeniem innych danych teleadresowych.> 2. Rejestr jednostek certyfikujących może być prowadzony w systemie informatycznym. 3. Rejestr jednostek certyfikujących jest jawny. 4. Organ rejestrowy prostuje z urzędu wpis do rejestru jednostek certyfikujących zawierający oczywiste błędy lub niezgodności ze stanem faktycznym. Art. 28sa. 1. Organ rejestrowy jest obowiązany dokonać wpisu jednostki certyfikującej do rejestru jednostek certyfikujących w terminie 7 dni od dnia wpływu do tego organu wniosku o wpis wraz z dokumentami, o których mowa w art. 28r ust. 5. 2. Jeżeli organ rejestrowy nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do tego organu upłynęło 14 dni, jednostka certyfikująca może rozpocząć działalność. Nie dotyczy to przypadku, gdy organ wezwał jednostkę certyfikującą do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
+**Art. 28s.** [1. Wpisowi do rejestru jednostek certyfikujących podlegają dane, o których mowa w art. 28r ust. 4 pkt 1–4, z wyłączeniem innych danych teleadresowych.] <1. Wpisowi do rejestru jednostek certyfikujących podlegają dane, o których mowa w art. 28r ust. 4 pkt 1–4a i informację, o której mowa w art. 28ra, z wyłączeniem innych danych teleadresowych.> 2. Rejestr jednostek certyfikujących może być prowadzony w systemie informatycznym. 3. Rejestr jednostek certyfikujących jest jawny. 4. Organ rejestrowy prostuje z urzędu wpis do rejestru jednostek certyfikujących zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+
+**Art. 28sa.**
+
+1. Organ rejestrowy jest obowiązany dokonać wpisu jednostki certyfikującej do rejestru jednostek certyfikujących w terminie 7 dni od dnia wpływu do tego organu wniosku o wpis wraz z dokumentami, o których mowa w art. 28r ust.
+
+5.
+
+2. Jeżeli organ rejestrowy nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do tego organu upłynęło 14 dni, jednostka certyfikująca może rozpocząć działalność. Nie dotyczy to przypadku, gdy organ wezwał jednostkę certyfikującą do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
 
 **Art. 28t.** Jednostka certyfikująca wpisana do rejestru jednostek certyfikujących jest obowiązana informować organ rejestrowy o każdej zmianie danych zawartych w rejestrze, w szczególności o zawieszeniu wykonywania działalności gospodarczej, w terminie 14 dni od dnia zmiany tych danych, pod rygorem wykreślenia z rejestru jednostek certyfikujących.
 
@@ -1242,6 +1271,41 @@ Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405
 **Art. 28y.** (uchylony)
 
 #### Rozdział 4ba Obowiązki dotyczące SAF
+
+**Art. 28ya.** Prezes Urzędu Regulacji Energetyki jest odpowiedzialny za:
+
+- **1)** wykonywanie zadań, obowiązków oraz korzystanie z uprawnień określonych w sposób wiążący dla organu właściwego, o którym mowa w art. 11 ust. 1 rozporządzenia 2023/2405, odnoszących się do dostawców paliw lotniczych;
+- **2)** zarządzanie dostępem dostawców paliw lotniczych niebędących podmiotem certyfikowanym do unijnej bazy danych;
+- **3)** weryfikację poprawności informacji, o których mowa w art. 30c, oraz informacji wynikających z obowiązków sprawozdawczych, o których mowa w art. 10 rozporządzenia 2023/2405, wprowadzanych do unijnej bazy danych przez podmioty wytwarzające, importujące lub nabywające wewnątrzwspólnotowo SAF lub paliwa lotnicze z dodatkiem SAF oraz dostawców paliw lotniczych;
+- **4)** współpracę z Komisją Europejską i Agencją Unii Europejskiej ds. Bezpieczeństwa Lotniczego w zakresie niezbędnym do wykonywania obowiązków określonych w rozporządzeniu 2023/2405 odnoszących się do dostawców paliw lotniczych;
+- **5)** współpracę z Komisją Europejską w zakresie funkcjonowania unijnej bazy danych w odniesieniu do podmiotów, dostawców i informacji, o których mowa w pkt 3.
+
+**Art. 28yb.**
+
+1. Minister właściwy do spraw klimatu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
+
+- **1)** roczną średnią cenę paliw lotniczych za tonę,
+- **2)** roczną średnią cenę SAF za tonę,
+- **3)** roczną średnią cenę syntetycznych paliw lotniczych za tonę,
+- **4)** różnicę między roczną średnią ceną SAF za tonę a roczną średnią ceną paliw lotniczych za tonę,
+- **5)** różnicę między roczną średnią ceną syntetycznych paliw lotniczych za tonę a roczną średnią ceną paliw lotniczych za tonę – na podstawie informacji podawanych przez Agencję Unii Europejskiej ds. Bezpieczeństwa Lotniczego zgodnie z art. 13 ust. 1 rozporządzenia 2023/2405, w terminie do dnia 31 grudnia każdego roku, za poprzedni rok kalendarzowy.
+
+2. Ceny, o których mowa w ust. 1 pkt 1–3, ustala się w złotych według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień 31 stycznia każdego roku, a w przypadku gdy w tym roku Narodowy Bank Polski nie ogłasza średniego kursu euro w dniu 31 stycznia – według średniego kursu euro ogłoszonego w najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego, w roku ogłoszenia obwieszczenia.
+
+**Art. 28yc.** SAF może być zaliczony dostawcy paliw lotniczych na poczet realizacji obowiązków, o których mowa w art. 4 ust. 1 i 7 rozporządzenia 2023/2405, wyłącznie wtedy, gdy nie został wcześniej zaliczony na poczet realizacji tych obowiązków przez tego lub innego dostawcę paliw lotniczych oraz:
+
+- **1)** spełnia kryteria zrównoważonego rozwoju określone w art. 28ba–28bcb i art. 28bcc ust. 1 oraz kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b – w przypadku biopaliw lotniczych;
+- **2)** spełnia kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b – w przypadku syntetycznych paliw lotniczych;
+- **3)** spełnia kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b – w przypadku pochodzących z recyklingu węglowych paliw lotniczych w rozumieniu art. 3 pkt 9 rozporządzenia 2023/2405 będących ciekłymi paliwami węglowymi pochodzącymi z recyklingu lub gazowymi paliwami węglowymi pochodzącymi z recyklingu.
+
+**Art. 28yd.** Dokumentami potwierdzającymi spełnienie kryteriów, o których mowa w art. 28yc, są:
+
+- **1)** dokumenty, o których mowa w art. 28c ust. 1 pkt 1, 2 i 4, lub
+- **2)** dokument wystawiony przez podmiot realizujący Narodowy Cel Wskaźnikowy na podstawie dokumentów określonych w pkt 1.
+
+**Art. 28ye.** Prezes Urzędu Regulacji Energetyki może żądać przedstawienia dokumentów i informacji dotyczących realizacji obowiązków, o których mowa w art. 4 ust. 1 i 7, art. 9 ust. 2 i 3 oraz art. 10 rozporządzenia 2023/2405, oraz w art. 30c, odpowiednio przez podmioty wytwarzające, importujące lub nabywające wewnątrzwspólnotowo SAF lub paliwa lotnicze z dodatkiem SAF oraz dostawców paliw lotniczych, z uwzględnieniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
+
+**Art. 28yf.** Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405, są przekazywane zarządzającemu lotniskiem będącym unijnym portem lotniczym przez dostawcę paliw lotniczych, na wniosek tego zarządzającego lotniskiem, w terminie 14 dni od dnia doręczenia tego wniosku.
 
 #### Rozdział 4c (uchylony)
 

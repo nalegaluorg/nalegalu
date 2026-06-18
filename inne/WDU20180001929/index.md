@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej
+# Ustawa z dnia 13 września 2018 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 13 września 2018 r.*
 

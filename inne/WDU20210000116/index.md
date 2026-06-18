@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 grudnia 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wykonywaniu prac podwodnych
+# Ustawa z dnia 7 marca 2007 r. o zmianie ustawy o wykonywaniu prac podwodnych
 
 *USTAWA z dnia 7 marca 2007 r.*
 

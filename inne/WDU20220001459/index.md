@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Akademii Kopernikańskiej
+# Ustawa z dnia 28 kwietnia 2022 r. o Akademii Kopernikańskiej
 
 *USTAWA z dnia 28 kwietnia 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-07-11 |
 | Ostatnia zmiana | 2024-04-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1459/text.pdf) |
-
-Art. 54–58. (pominięte)
 
 #### Rozdział 1 Przepis ogólny
 
@@ -636,6 +634,8 @@ Art. 54–58. (pominięte)
 2. Kongres organizowany jest w miejscu związanym z życiem lub działalnością Mikołaja Kopernika.
 
 #### Rozdział 12 Przepisy zmieniające oraz dostosowujące i przepis końcowy
+
+**Art. 54–58.** (pominięte)
 
 **Art. 59.** Tworzy się Akademię.
 

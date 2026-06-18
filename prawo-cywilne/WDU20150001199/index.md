@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks rodzinny i opiekuńczy, ustawy – Kodeks postępowania cywilnego oraz ustawy o wspieraniu rodziny i systemie pieczy zastępczej
+# Ustawa z dnia 24 lipca 2015 r. o zmianie ustawy - Kodeks rodzinny i opiekuńczy, ustawy - Kodeks postępowania cywilnego oraz ustawy o wspieraniu rodziny i systemie pieczy zastępczej
 
 *USTAWA z dnia 24 lipca 2015 r.*
 

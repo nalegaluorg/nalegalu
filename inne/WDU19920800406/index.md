@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zmianach w organizacji i działalności spółdzielczości oraz ustawy o waloryzacji udziałów członkowskich w spółdzielniach
+# Ustawa z dnia 7 października 1992 r. o zmianie ustawy o zmianach w organizacji i działalności spółdzielczości oraz ustawy o waloryzacji udziałów członkowskich w spółdzielniach.
 
 | Pole | Wartość |
 |---|---|

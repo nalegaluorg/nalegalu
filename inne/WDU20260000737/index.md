@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw
+# Ustawa z dnia 15 maja 2026 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 maja 2026 r.*
 

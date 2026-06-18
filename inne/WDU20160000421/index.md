@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kosztach sądowych w sprawach cywilnych
+# Ustawa z dnia 18 marca 2016 r. o zmianie ustawy o kosztach sądowych w sprawach cywilnych
 
 *USTAWA z dnia 18 marca 2016 r.*
 

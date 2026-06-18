@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Straży Marszałkowskiej
+# Ustawa z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej
 
 *USTAWA z dnia 26 stycznia 2018 r.*
 

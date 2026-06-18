@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o produktach biobójczych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 grudnia 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o produktach biobójczych
 
 *USTAWA z dnia 9 października 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-01-05 |
 | Ostatnia zmiana | 2026-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000024) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/24/text.pdf) |
-
-Art. 47–50. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -548,6 +546,8 @@ Art. 47–50. (pominięte)
 3. Orzekanie w sprawach o czyny, o których mowa w ust. 1 i 2, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729, 956 i 1423).
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
+
+**Art. 47–50.** (pominięte)
 
 #### Rozdział 10 Przepisy przejściowe i końcowe
 

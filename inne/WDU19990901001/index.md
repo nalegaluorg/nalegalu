@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy społecznej i ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
+# Ustawa z dnia 8 października 1999 r. o zmianie ustawy o pomocy społecznej i ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
 
 *USTAWA z dnia 8 października 1999 r.*
 

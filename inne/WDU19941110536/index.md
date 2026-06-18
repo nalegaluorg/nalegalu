@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo przewozowe W ustawie z dnia 15 listopada 1984 r. - Prawo przewozowe (Dz.U. Nr 53, poz. 2721 z 1991 r. Nr 107, poz. 462) wprowadza się następujące zmiany:
+# Ustawa z dnia 2 września 1994 r. o zmianie ustawy - Prawo przewozowe.
 
 *USTAWA z dnia 2 września 1994 r.*
 

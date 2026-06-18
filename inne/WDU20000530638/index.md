@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Trybunale Konstytucyjnym oraz ustawy o zmianie ustawy Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
+# Ustawa z dnia 9 czerwca 2000 r. o zmianie ustawy o Trybunale Konstytucyjnym oraz ustawy o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw.
 
 *USTAWA z dnia 9 czerwca 2000 r.*
 

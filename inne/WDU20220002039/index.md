@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego Sejm Rzeczypospolitej Polskiej uznaje szczególne zasługi dla Polski tych wszystkich obywateli polskich, którzy walczyli o suwerenność i niepodległość Ojczyzny, nie szczędząc życia i zdrowia na polach walki zbrojnej – w formacjach Wojska Polskiego, armii sojuszniczych, a także w podziemnych organizacjach niepodległościowych i w działalności cywilnej – z narażeniem na represje.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 września 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego
 
 *USTAWA z dnia 24 stycznia 1991 r.*
 

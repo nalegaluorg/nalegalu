@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu Krzyża Zachodniego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 lutego 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu Krzyża Zachodniego
 
 | Pole | Wartość |
 |---|---|

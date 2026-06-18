@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Najwyższej Izbie Kontroli
+# Ustawa z dnia 22 stycznia 2010 r. o zmianie ustawy o Najwyższej Izbie Kontroli
 
 *USTAWA z dnia 22 stycznia 2010 r.*
 

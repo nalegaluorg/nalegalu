@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o planowaniu i zagospodarowaniu przestrzennym
+# Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym
 
 *USTAWA z dnia 27 marca 2003 r.*
 
@@ -26,9 +26,6 @@ source: pdf
 | Data wydania | 2003-05-10 |
 | Ostatnia zmiana | 2026-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030800717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.pdf) |
-
-Art. 9–13. (uchylone)
-Art. 68–82. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -319,6 +316,8 @@ Art. 68–82. (pominięte)
 
 #### Rozdział 2 Planowanie przestrzenne w gminie
 
+**Art. 9–13.** (uchylone)
+
 **Art. 13a.**
 
 1. Dla obszaru gminy, z wyłączeniem morskich wód wewnętrznych oraz terenów zamkniętych innych niż ustalane przez ministra właściwego do spraw transportu, rada gminy uchwala plan ogólny gminy, zwany dalej „planem ogólnym”.
@@ -377,7 +376,9 @@ Art. 68–82. (pominięte)
 - **4)** rozmieszczenie istniejących i planowanych obiektów infrastruktury społecznej, transportowej i technicznej wraz z obowiązującymi dla nich ograniczeniami w zagospodarowaniu;
 - **5)** rekomendacje i wnioski zawarte w audycie krajobrazowym oraz krajobrazy priorytetowe;
 - **6)** opracowanie ekofizjograficzne w zakresie wymagań, o których mowa w art. 72 ust. 1–3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
-- **7)** zapotrzebowanie na nową zabudowę mieszkaniową w gminie. Art. 13ba. Ustalenia planu ogólnego określa się, uwzględniając granice obszaru, dla którego uchwala się plan ogólny, oraz uwarunkowania rozwoju przestrzennego gminy, o których mowa w art. 13b, aktualne na dzień niewcześniejszy niż dzień wystąpienia o opinie i uzgodnienia, o których mowa w art. 13i ust. 3 pkt 5.
+- **7)** zapotrzebowanie na nową zabudowę mieszkaniową w gminie.
+
+**Art. 13ba.** Ustalenia planu ogólnego określa się, uwzględniając granice obszaru, dla którego uchwala się plan ogólny, oraz uwarunkowania rozwoju przestrzennego gminy, o których mowa w art. 13b, aktualne na dzień niewcześniejszy niż dzień wystąpienia o opinie i uzgodnienia, o których mowa w art. 13i ust. 3 pkt 5.
 
 **Art. 13c.**
 
@@ -1013,9 +1014,33 @@ Art. 68–82. (pominięte)
 
 11. Kara pieniężna stanowi dochód gminy.
 
-**Art. 37e.** W sprawach nieuregulowanych, dotyczących kar pieniężnych, o których mowa w art. 37d, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują wójtowi (burmistrzowi, prezydentowi miasta). Art. 37ea. 1. Na wniosek inwestora złożony za pośrednictwem wójta, burmistrza albo prezydenta miasta rada gminy może uchwalić zintegrowany plan inwestycyjny. 2. Zintegrowany plan inwestycyjny obejmuje obszar inwestycji głównej oraz inwestycji uzupełniającej. 3. Zintegrowany plan inwestycyjny jest szczególną formą planu miejscowego. 4. Wejście w życie zintegrowanego planu inwestycyjnego powoduje utratę mocy obowiązującej planów miejscowych lub ich części odnoszących się do terenu objętego tym zintegrowanym planem inwestycyjnym. Art. 37eb. 1. Do wniosku, o którym mowa w art. 37ea ust. 1, inwestor dołącza projekt zintegrowanego planu inwestycyjnego. 2. W przypadku gdy do wniosku, o którym mowa w art. 37ea ust. 1, nie dołączono projektu zintegrowanego planu inwestycyjnego albo nie spełnia on wymagań określonych w art. 15 ust. 1–3, art. 16 ust. 1 oraz przepisach wydanych na podstawie art. 16 ust. 2 lub nie zawiera załącznika, o którym mowa w art. 67a ust. 5, wójt, burmistrz albo prezydent miasta wzywa do dołączenia projektu zintegrowanego planu inwestycyjnego spełniającego te wymagania, wskazując termin niedłuższy niż 14 dni, pouczając jednocześnie, że niedołączenie tego projektu spełniającego te wymagania spowoduje pozostawienie wniosku bez rozpoznania. 3. Jeżeli inwestor nie usunie braków, o których mowa w ust. 2, w terminie, wójt, burmistrz albo prezydent miasta wydaje postanowienie o pozostawieniu wniosku, o którym mowa w art. 37ea ust. 1, bez rozpoznania, na które służy zażalenie do wojewody. Do postanowienia stosuje się przepisy Kodeksu postępowania administracyjnego. 4. Wniosek, o którym mowa w art. 37ea ust. 1, wójt, burmistrz albo prezydent miasta, w terminie 3 dni roboczych od dnia jego otrzymania, a w przypadku, o którym mowa w ust. 2, od dnia usunięcia braków, o których mowa w ust. 2: <1) udostępnia w Rejestrze,>
+**Art. 37e.** W sprawach nieuregulowanych, dotyczących kar pieniężnych, o których mowa w art. 37d, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują wójtowi (burmistrzowi, prezydentowi miasta).
 
-- **2)** przekazuje radzie gminy – ogłaszając o tych czynnościach, w sposób określony w art. 8h ust. 1 pkt 2–4. Art. 37ec. 1. Rada gminy może wyrazić zgodę na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego.
+**Art. 37ea.**
+
+1. Na wniosek inwestora złożony za pośrednictwem wójta, burmistrza albo prezydenta miasta rada gminy może uchwalić zintegrowany plan inwestycyjny.
+
+2. Zintegrowany plan inwestycyjny obejmuje obszar inwestycji głównej oraz inwestycji uzupełniającej.
+
+3. Zintegrowany plan inwestycyjny jest szczególną formą planu miejscowego.
+
+4. Wejście w życie zintegrowanego planu inwestycyjnego powoduje utratę mocy obowiązującej planów miejscowych lub ich części odnoszących się do terenu objętego tym zintegrowanym planem inwestycyjnym.
+
+**Art. 37eb.**
+
+1. Do wniosku, o którym mowa w art. 37ea ust. 1, inwestor dołącza projekt zintegrowanego planu inwestycyjnego.
+
+2. W przypadku gdy do wniosku, o którym mowa w art. 37ea ust. 1, nie dołączono projektu zintegrowanego planu inwestycyjnego albo nie spełnia on wymagań określonych w art. 15 ust. 1–3, art. 16 ust. 1 oraz przepisach wydanych na podstawie art. 16 ust. 2 lub nie zawiera załącznika, o którym mowa w art. 67a ust. 5, wójt, burmistrz albo prezydent miasta wzywa do dołączenia projektu zintegrowanego planu inwestycyjnego spełniającego te wymagania, wskazując termin niedłuższy niż 14 dni, pouczając jednocześnie, że niedołączenie tego projektu spełniającego te wymagania spowoduje pozostawienie wniosku bez rozpoznania.
+
+3. Jeżeli inwestor nie usunie braków, o których mowa w ust. 2, w terminie, wójt, burmistrz albo prezydent miasta wydaje postanowienie o pozostawieniu wniosku, o którym mowa w art. 37ea ust. 1, bez rozpoznania, na które służy zażalenie do wojewody. Do postanowienia stosuje się przepisy Kodeksu postępowania administracyjnego.
+
+4. Wniosek, o którym mowa w art. 37ea ust. 1, wójt, burmistrz albo prezydent miasta, w terminie 3 dni roboczych od dnia jego otrzymania, a w przypadku, o którym mowa w ust. 2, od dnia usunięcia braków, o których mowa w ust. 2: <1) udostępnia w Rejestrze,>
+
+- **2)** przekazuje radzie gminy – ogłaszając o tych czynnościach, w sposób określony w art. 8h ust. 1 pkt 2–4.
+
+**Art. 37ec.**
+
+1. Rada gminy może wyrazić zgodę na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego.
 
 2. Jeżeli rada gminy wyraziła zgodę na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego, wójt, burmistrz albo prezydent miasta, kolejno:
 
@@ -1045,9 +1070,13 @@ Art. 68–82. (pominięte)
 6. W przypadku gdy zintegrowany plan inwestycyjny dotyczy wyłącznie lokalizacji instalacji odnawialnych źródeł energii innych niż elektrownie wiatrowe w rozumieniu ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych oraz nie dotyczy warunków określonych w art. 27b ust. 2:
 
 - **1)** wójt, burmistrz albo prezydent miasta wykonuje czynności określone w ust. 1 bez wyrażenia przez radę gminy zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego;
-- **2)** konsultacje społeczne, o których mowa w art. 8i ust. 1: Art. 37ed. 1. Przez umowę urbanistyczną inwestor zobowiązuje się na rzecz gminy do realizacji inwestycji uzupełniającej.
+- **2)** konsultacje społeczne, o których mowa w art. 8i ust. 1:
     - **a)** pkt 1 i 4, prowadzi się przez okres 14 dni,
     - **b)** pkt 2 i 3, przeprowadza się niewcześniej niż po upływie 3 dni od dnia rozpoczęcia konsultacji społecznych i niepóźniej niż 3 dni przed ostatnim dniem okresu, o którym mowa w lit. a.
+
+**Art. 37ed.**
+
+1. Przez umowę urbanistyczną inwestor zobowiązuje się na rzecz gminy do realizacji inwestycji uzupełniającej.
 
 2. Przez umowę urbanistyczną inwestor może zobowiązać się na rzecz gminy, w szczególności do:
 
@@ -1080,11 +1109,21 @@ Art. 68–82. (pominięte)
 
 13. Uchwała, o której mowa w ust. 12, dotyczy wszystkich umów urbanistycznych zawieranych przez gminę.
 
-14. W uchwale, o której mowa w ust. 12, dopuszcza się ustalenie różnych zasad określania postanowień umów urbanistycznych, biorąc pod uwagę w szczególności rodzaj lub parametry inwestycji głównej. Art. 37ee. W negocjacjach poprzedzających zawarcie umowy urbanistycznej bierze udział osoba wyznaczona przez radę gminy, a w przypadku gdy rada gminy nie wyznaczy takiej osoby – przewodniczący rady gminy. Art. 37ef. 1. Rada gminy nie może wnieść poprawek do projektu zintegrowanego planu inwestycyjnego.
+14. W uchwale, o której mowa w ust. 12, dopuszcza się ustalenie różnych zasad określania postanowień umów urbanistycznych, biorąc pod uwagę w szczególności rodzaj lub parametry inwestycji głównej.
+
+**Art. 37ee.** W negocjacjach poprzedzających zawarcie umowy urbanistycznej bierze udział osoba wyznaczona przez radę gminy, a w przypadku gdy rada gminy nie wyznaczy takiej osoby – przewodniczący rady gminy.
+
+**Art. 37ef.**
+
+1. Rada gminy nie może wnieść poprawek do projektu zintegrowanego planu inwestycyjnego.
 
 2. W przypadku odrzucenia zintegrowanego planu inwestycyjnego rada gminy może podjąć uchwałę o zwróceniu zintegrowanego planu inwestycyjnego do wójta, burmistrza albo prezydenta miasta wraz z propozycjami poprawek do umowy urbanistycznej, w tym do załącznika określającego projekt zintegrowanego planu inwestycyjnego.
 
-3. Po otrzymaniu uchwały, o której mowa w ust. 2, wójt, burmistrz albo prezydent miasta ponawia czynności, o których mowa w art. 37ec ust. 2 pkt 1–3, pkt 4 lit. b, pkt 5 lit. b i pkt 7–9. Art. 37eg. 1. Stronami umowy urbanistycznej może być kilku inwestorów, którzy złożyli jeden wniosek o uchwalenie zintegrowanego planu inwestycyjnego.
+3. Po otrzymaniu uchwały, o której mowa w ust. 2, wójt, burmistrz albo prezydent miasta ponawia czynności, o których mowa w art. 37ec ust. 2 pkt 1–3, pkt 4 lit. b, pkt 5 lit. b i pkt 7–9.
+
+**Art. 37eg.**
+
+1. Stronami umowy urbanistycznej może być kilku inwestorów, którzy złożyli jeden wniosek o uchwalenie zintegrowanego planu inwestycyjnego.
 
 2. Wójt, burmistrz albo prezydent miasta może prowadzić jedno postępowanie w sprawie uchwalenia zintegrowanego planu inwestycyjnego na podstawie kilku oddzielnych wniosków. W takim przypadku jest zawierana jedna umowa urbanistyczna oraz jest podejmowana jedna uchwała w przedmiocie zintegrowanego planu inwestycyjnego.
 
@@ -1190,7 +1229,11 @@ Art. 68–82. (pominięte)
 
 1. W zakresie nieuregulowanym przepisami art. 37ea–37m do zintegrowanego planu inwestycyjnego i miejscowego planu rewitalizacji stosuje się przepisy dotyczące planu miejscowego.
 
-2. Ilekroć w przepisach ustawy albo przepisach odrębnych jest mowa o miejscowym planie zagospodarowania przestrzennego, planie miejscowym lub planach zagospodarowania przestrzennego, należy przez to rozumieć również zintegrowany plan inwestycyjny i miejscowy plan rewitalizacji. Art. 37na. 1. Rada Ministrów może wystąpić do wojewody o wydanie zarządzenia w sprawie planu miejscowego dla inwestycji o szczególnym znaczeniu dla ochrony podstawowych interesów bezpieczeństwa Państwa lub gospodarki narodowej, o planowanych kosztach inwestycji wynoszących co najmniej 500 mln zł oraz liczbie nowych miejsc pracy wynoszącej co najmniej 50.
+2. Ilekroć w przepisach ustawy albo przepisach odrębnych jest mowa o miejscowym planie zagospodarowania przestrzennego, planie miejscowym lub planach zagospodarowania przestrzennego, należy przez to rozumieć również zintegrowany plan inwestycyjny i miejscowy plan rewitalizacji.
+
+**Art. 37na.**
+
+1. Rada Ministrów może wystąpić do wojewody o wydanie zarządzenia w sprawie planu miejscowego dla inwestycji o szczególnym znaczeniu dla ochrony podstawowych interesów bezpieczeństwa Państwa lub gospodarki narodowej, o planowanych kosztach inwestycji wynoszących co najmniej 500 mln zł oraz liczbie nowych miejsc pracy wynoszącej co najmniej 50.
 
 2. Po wystąpieniu, o którym mowa w ust. 1, wojewoda:
 
@@ -1795,7 +1838,11 @@ Art. 68–82. (pominięte)
 
 4. Do decyzji, o której mowa w ust. 1, stosuje się przepisy działu II rozdziału 14 Kodeksu postępowania administracyjnego, z wyjątkiem przepisów o milczącym załatwieniu sprawy.
 
-5. Do decyzji, o której mowa w ust. 1, nie stosuje się przepisów art. 10 i art. 79a Kodeksu postępowania administracyjnego. Art. 64aa. 1. Stroną postępowania o wydanie decyzji o warunkach zabudowy dotyczącej biogazowni rolniczej spełniającej warunki określone w art. 4 ust. 1 ustawy z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu jest wyłącznie wnioskodawca, podmioty, którym przysługują ograniczone prawa rzeczowe względem nieruchomości lub inne prawa trwale ograniczające własność nieruchomości, oraz właściciele i użytkownicy wieczyści nieruchomości znajdujących się w obszarze, na który inwestycja będzie oddziaływać.
+5. Do decyzji, o której mowa w ust. 1, nie stosuje się przepisów art. 10 i art. 79a Kodeksu postępowania administracyjnego.
+
+**Art. 64aa.**
+
+1. Stroną postępowania o wydanie decyzji o warunkach zabudowy dotyczącej biogazowni rolniczej spełniającej warunki określone w art. 4 ust. 1 ustawy z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu jest wyłącznie wnioskodawca, podmioty, którym przysługują ograniczone prawa rzeczowe względem nieruchomości lub inne prawa trwale ograniczające własność nieruchomości, oraz właściciele i użytkownicy wieczyści nieruchomości znajdujących się w obszarze, na który inwestycja będzie oddziaływać.
 
 2. Do decyzji, o której mowa w ust. 1, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów o milczącym załatwieniu sprawy.
 
@@ -1973,6 +2020,8 @@ Art. 68–82. (pominięte)
 - **3)** tryb tworzenia, aktualizacji oraz udostępniania informacji i danych, o których mowa w art. 67d ust. 1 – mając na względzie zapewnienie jednolitości, przejrzystości i kompletności informacji i danych gromadzonych i udostępnianych w Rejestrze, a także zapewnienie interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej oraz w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne.>
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 68–82.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

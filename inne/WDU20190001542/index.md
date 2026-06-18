@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo farmaceutyczne
+# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy - Prawo farmaceutyczne
 
 *USTAWA z dnia 19 lipca 2019 r.*
 

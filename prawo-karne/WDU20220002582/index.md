@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania karnego oraz ustawy – Prawo o prokuraturze
+# Ustawa z dnia 27 października 2022 r. o zmianie ustawy - Kodeks postępowania karnego oraz ustawy - Prawo o prokuraturze
 
 *USTAWA z dnia 27 października 2022 r.*
 

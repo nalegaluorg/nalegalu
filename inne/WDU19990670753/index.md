@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie warunków i sposobu organizowania nauki religii w szkołach publicznych.
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 30 czerwca 1999 r. zmieniające rozporządzenie w sprawie warunków i sposobu organizowania nauki religii w szkołach publicznych.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego
+# Ustawa z dnia 7 września 2007 r. o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego
 
 *USTAWA z dnia 7 września 2007 r.*
 

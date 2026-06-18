@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o opłatach w sprawach karnych
+# Ustawa z dnia 23 czerwca 1973 r. o opłatach w sprawach karnych.
 
 *USTAWA z dnia 23 czerwca 1973 r.*
 

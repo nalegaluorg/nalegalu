@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o rolniczych badaniach rynkowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rolniczych badaniach rynkowych
 
 | Pole | Wartość |
 |---|---|

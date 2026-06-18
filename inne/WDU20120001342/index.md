@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o redukcji niektórych obciążeń administracyjnych w gospodarce
+# Ustawa z dnia 16 listopada 2012 r. o redukcji niektórych obciążeń administracyjnych w gospodarce
 
 *USTAWA z dnia 16 listopada 2012 r.*
 

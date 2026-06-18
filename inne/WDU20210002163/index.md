@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie gruntów rolnych i leśnych
+# Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie gruntów rolnych i leśnych
 
 *USTAWA z dnia 17 listopada 2021 r.*
 

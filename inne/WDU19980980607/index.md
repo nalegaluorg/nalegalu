@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
+# Ustawa z dnia 17 grudnia 1997 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw.
 
 *USTAWA z dnia 17 grudnia 1997 r.*
 

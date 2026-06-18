@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia przypadków otrzymywania wyżywienia przez żołnierzy pełniących służbę w jednostkach wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji oraz norm tego wyżywienia.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 1999 r. w sprawie określenia przypadków otrzymywania wyżywienia przez żołnierzy pełniących służbę w jednostkach wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji oraz norm tego wyżywienia.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny oraz ustawy o systemie ubezpieczeń społecznych
+# Ustawa z dnia 10 maja 2012 r. o zmianie ustawy - Kodeks karny oraz ustawy o systemie ubezpieczeń społecznych
 
 *USTAWA z dnia 10 maja 2012 r.*
 

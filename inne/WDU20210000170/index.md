@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 grudnia 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw
 
 *USTAWA z dnia 5 lipca 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-01-27 |
 | Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/170/text.pdf) |
-
-Art. 61–124. (pominięte)
 
 #### Rozdział 1 Zakres spraw regulowanych ustawą
 
@@ -574,6 +572,8 @@ Art. 61–124. (pominięte)
 **Art. 60j.** Pożytki i inne przychody z praw z udziału małżonka przedsiębiorcy w przedsiębiorstwie pomniejsza się o wydatki i ciężary związane z tymi prawami.
 
 #### Rozdział 12 Zmiany w przepisach
+
+**Art. 61–124.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i przepis końcowy
 

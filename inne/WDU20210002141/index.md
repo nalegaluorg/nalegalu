@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz ustawy o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2
+# Ustawa z dnia 1 października 2021 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz ustawy o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2
 
 *USTAWA z dnia 1 października 2021 r.*
 

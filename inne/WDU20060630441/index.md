@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o odpadach oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 10 marca 2006 r. zmieniająca ustawę o zmianie ustawy o odpadach oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 10 marca 2006 r.*
 

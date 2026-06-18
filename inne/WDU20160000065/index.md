@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej
+# Ustawa z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej
 
 *USTAWA z dnia 22 grudnia 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2016-01-15 |
 | Ostatnia zmiana | 2026-02-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000065) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/65/text.pdf) |
-
-Art. 59–85. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -889,6 +887,8 @@ Art. 59–85. (pominięte)
 - **3)** dokument przyznaje te same prawa do wykonywania zawodu na terytorium państwa członkowskiego, w którym został wydany.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 59–85.** (pominięte)
 
 **Art. 86.** Do postępowań w sprawie uznania kwalifikacji wszczętych zgodnie z przepisami ustaw, o których mowa w art. 61 , art. 62 , art. 64 , art. 69 , art. 83 i art. 88, i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 

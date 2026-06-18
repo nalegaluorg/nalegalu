@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o czasie pracy kierowców oraz ustawy - Prawo o miarach
+# Ustawa z dnia 29 sierpnia 2002 r. o zmianie ustawy o czasie pracy kierowców oraz ustawy - Prawo o miarach.
 
 *USTAWA z dnia 29 sierpnia 2002 r.*
 

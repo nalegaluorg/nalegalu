@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks wykroczeń
+# Ustawa z dnia 31 sierpnia 2011 r. o zmianie ustawy - Kodeks wykroczeń
 
 *USTAWA z dnia 31 sierpnia 2011 r.*
 

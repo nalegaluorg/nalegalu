@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o finansowym wspieraniu produkcji audiowizualnej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 stycznia 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansowym wspieraniu produkcji audiowizualnej
 
 | Pole | Wartość |
 |---|---|

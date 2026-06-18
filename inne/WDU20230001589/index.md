@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o gatunkach obcych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gatunkach obcych
 
 *USTAWA z dnia 11 sierpnia 2021 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-08-11 |
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1589/text.pdf) |
-
-Art. 37–48. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -918,6 +916,8 @@ Art. 37–48. (pominięte)
 5. Koszty, o których mowa w ust. 4, określa regionalny dyrektor ochrony środowiska w decyzji, o której mowa w ust. 2.
 
 #### Rozdział 11 Zmiany w przepisach
+
+**Art. 37–48.** (pominięte)
 
 #### Rozdział 12 Przepisy przejściowe, dostosowujące i końcowe
 

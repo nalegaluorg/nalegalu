@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne
 
 *USTAWA z dnia 21 sierpnia 1997 r.*
 
@@ -218,7 +218,9 @@ source: pdf
 
 2. W wypadku mniejszej wagi, sprawca czynu określonego w ust. 1 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-**Art. 15.** Kto zatrudnia osoby, o których mowa w art. 1 oraz w art. 2 pkt 1–3 i 6– 6b, wbrew warunkom określonym w art. 7, podlega karze aresztu albo karze grzywny. Art. 16–25. (pominięte)
+**Art. 15.** Kto zatrudnia osoby, o których mowa w art. 1 oraz w art. 2 pkt 1–3 i 6– 6b, wbrew warunkom określonym w art. 7, podlega karze aresztu albo karze grzywny.
+
+**Art. 16–25.** (pominięte)
 
 **Art. 26.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy
 
 *USTAWA z dnia 6 marca 2018 r.*
 
@@ -283,7 +283,9 @@ source: pdf
 
 2. Wniosek o wpis informacji o zawieszeniu lub o wznowieniu wykonywania działalności gospodarczej zawiera dane wymienione w art. 5 ust. 1 pkt 1–4.>
 
-#### Rozdział 4 Informacje dopisywane do CEIDG z urzędu <Art. 20a. Wpisem do CEIDG jest również zmiana wpisu w CEIDG dokonana z urzędu albo wykreślenie przedsiębiorcy z CEIDG dokonane z urzędu.>
+#### Rozdział 4 Informacje dopisywane do CEIDG z urzędu
+
+**Art. 20a.** Wpisem do CEIDG jest również zmiana wpisu w CEIDG dokonana z urzędu albo wykreślenie przedsiębiorcy z CEIDG dokonane z urzędu.>
 
 **Art. 21.**
 

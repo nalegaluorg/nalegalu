@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wykonywaniu mandatu posła i senatora
+# Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy o wykonywaniu mandatu posła i senatora
 
 *USTAWA z dnia 15 czerwca 2018 r.*
 

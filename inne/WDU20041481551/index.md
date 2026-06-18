@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej oraz ustawy o płatnościach bezpośrednich do gruntów rolnych
+# Ustawa z dnia 18 czerwca 2004 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej oraz ustawy o płatnościach bezpośrednich do gruntów rolnych
 
 *USTAWA z dnia 18 czerwca 2004 r.*
 

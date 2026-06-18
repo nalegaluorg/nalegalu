@@ -3675,7 +3675,11 @@ source: pdf
 
 § 1. Jeżeli pracownik nie dokonał – bez swojej winy – w terminie czynności, o których mowa w art. 97 § 2 i w art. 264, sąd pracy na jego wniosek postanowi przywrócenie uchybionego terminu.
 
-§ 2. Wniosek o przywrócenie terminu wnosi się do sądu pracy w ciągu 7 dni od dnia ustania przyczyny uchybienia terminu. We wniosku należy uprawdopodobnić okoliczności uzasadniające przywrócenie terminu. Art. 266–280. 15)
+§ 2. Wniosek o przywrócenie terminu wnosi się do sądu pracy w ciągu 7 dni od dnia ustania przyczyny uchybienia terminu. We wniosku należy uprawdopodobnić okoliczności uzasadniające przywrócenie terminu.
+
+**Art. 266–280.**
+
+- **15)**
 
 ### DZIAŁ TRZYNASTY Odpowiedzialność za wykroczenia przeciwko prawom pracownika
 

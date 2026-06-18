@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o związku metropolitalnym w województwie śląskim
+# Ustawa z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim
 
 *USTAWA z dnia 9 marca 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2017-04-06 |
 | Ostatnia zmiana | 2025-02-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000730) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/730/text.pdf) |
-
-Art. 55–61. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -514,6 +512,8 @@ Art. 55–61. (pominięte)
 **Art. 54.** Do składek, o których mowa w art. 53 ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111), z tym że kompetencje organu podatkowego wykonuje przewodniczący zarządu.
 
 #### Rozdział 8 Zmiany w przepisach
+
+**Art. 55–61.** (pominięte)
 
 #### Rozdział 8a Przepis epizodyczny
 

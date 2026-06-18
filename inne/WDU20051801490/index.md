@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo lotnicze
+# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy - Prawo lotnicze
 
 *USTAWA z dnia 28 lipca 2005 r.*
 

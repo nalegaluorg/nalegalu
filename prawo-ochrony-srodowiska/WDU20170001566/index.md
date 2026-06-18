@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-05-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001566) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1566/text.pdf) |
 
-Art. 480–524. (pominięte)
-
 ### DZIAŁ I Zasady ogólne
 
 #### Rozdział 1 Przepisy ogólne
@@ -7877,7 +7875,11 @@ Art. 480–524. (pominięte)
 
 3. Wysokość administracyjnej kary pieniężnej, o której mowa w ust. 1, wynosi do 10 000 zł.
 
-4. Wpływy z tytułu administracyjnej kary pieniężnej, o której mowa w ust. 1, stanowią dochód Wód Polskich. Art. 472aa. 1. Administracyjnej karze pieniężnej podlega, kto wbrew przepisowi:
+4. Wpływy z tytułu administracyjnej kary pieniężnej, o której mowa w ust. 1, stanowią dochód Wód Polskich.
+
+**Art. 472aa.**
+
+1. Administracyjnej karze pieniężnej podlega, kto wbrew przepisowi:
 
 - **1)** art. 343 ust. 1, mimo wezwania Wód Polskich, nie usuwa w terminie określonym przez Wody Polskie zaniedbań w zakresie gospodarki wodnej, w wyniku których może powstać stan zagrażający życiu lub zdrowiu ludzi, zwierząt lub środowisku albo prawnie chronionemu interesowi osób trzecich;
 - **2)** art. 389, art. 394 ust. 1 lub art. 425 ust. 1 korzysta z wód, wykonuje urządzenia wodne, roboty w wodach lub inne działania wymagające odpowiedniej zgody wodnoprawnej, bez odpowiednio pozwolenia wodnoprawnego lub pozwolenia zintegrowanego, zgłoszenia wodnoprawnego lub oceny wodnoprawnej;
@@ -8007,6 +8009,8 @@ Art. 480–524. (pominięte)
 ### DZIAŁ XIII Zmiany w przepisach, przepisy przejściowe, dostosowujące i końcowe
 
 #### Rozdział 1 Zmiany w przepisach
+
+**Art. 480–524.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe, dostosowujące i końcowe
 

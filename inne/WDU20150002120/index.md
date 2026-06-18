@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie terenów byłych hitlerowskich obozów zagłady
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 listopada 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie terenów byłych hitlerowskich obozów zagłady
 
 *USTAWA z dnia 7 maja 1999 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2015-12-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002120) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2120/text.pdf) |
-
-Art. 20–25. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -221,6 +219,8 @@ Art. 20–25. (pominięte)
 2. Postępowanie w sprawach, o których mowa w ust. 1, prowadzi się na podstawie przepisów o postępowaniu w sprawach o wykroczenia.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących
+
+**Art. 20–25.** (pominięte)
 
 #### Rozdział 5 Przepisy przejściowe i końcowe
 

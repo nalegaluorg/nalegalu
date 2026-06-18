@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu poprawy otoczenia prawnego przedsiębiorców
+# Ustawa z dnia 16 grudnia 2016 r. o zmianie niektórych ustaw w celu poprawy otoczenia prawnego przedsiębiorców
 
 *USTAWA z dnia 16 grudnia 2016 r.*
 

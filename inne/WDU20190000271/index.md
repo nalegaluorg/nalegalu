@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Radzie Ministrów oraz niektórych innych ustaw
+# Ustawa z dnia 31 stycznia 2019 r. o zmianie ustawy o Radzie Ministrów oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|

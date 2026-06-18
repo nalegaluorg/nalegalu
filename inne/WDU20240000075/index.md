@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
 
 | Pole | Wartość |
 |---|---|

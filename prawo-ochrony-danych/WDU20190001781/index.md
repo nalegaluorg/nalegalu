@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie danych osobowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 sierpnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie danych osobowych
 
 *USTAWA z dnia 10 maja 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-09-19 |
 | Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001781) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1781/text.pdf) |
-
-Art. 109–157. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1021,6 +1019,8 @@ Art. 109–157. (pominięte)
 2. Tej samej karze podlega kto, w związku z toczącym się postępowaniem w sprawie nałożenia administracyjnej kary pieniężnej, nie dostarcza danych niezbędnych do określenia podstawy wymiaru administracyjnej kary pieniężnej lub dostarcza dane, które uniemożliwiają ustalenie podstawy wymiaru administracyjnej kary pieniężnej.
 
 #### Rozdział 12 Zmiany w przepisach
+
+**Art. 109–157.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i dostosowujące
 

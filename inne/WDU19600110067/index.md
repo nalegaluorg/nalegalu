@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utracie mocy prawnej niektórych ksiąg wieczystych
+# Ustawa z dnia 17 lutego 1960 r. o utracie mocy prawnej niektórych ksiąg wieczystych.
 
 *USTAWA z dnia 17 lutego 1960 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie trybu przeprowadzania konkursu na członków odwoławczego.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 18 maja 1999 r. w sprawie trybu przeprowadzania konkursu na członków samorządowego kolegium odwoławczego.
 
 | Pole | Wartość |
 |---|---|

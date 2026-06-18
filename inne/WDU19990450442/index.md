@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie opłat za szczególne korzystanie z wód i urządzeń wodnych.
+# Rozporządzenie Rady Ministrów z dnia 17 maja 1999 r. zmieniające rozporządzenie w sprawie opłat za szczególne korzystanie z wód i urządzeń wodnych.
 
 | Pole | Wartość |
 |---|---|

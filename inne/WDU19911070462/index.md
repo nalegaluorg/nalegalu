@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kolejach i ustawy - Prawo przewozowe.
+# Ustawa z dnia 19 października 1991 r. o zmianie ustawy o kolejach i ustawy - Prawo przewozowe.
 
 | Pole | Wartość |
 |---|---|

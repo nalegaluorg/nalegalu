@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o licencji doradcy restrukturyzacyjnego
+# Ustawa z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego
 
 *USTAWA z dnia 15 czerwca 2007 r.*
 

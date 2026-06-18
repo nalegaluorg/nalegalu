@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw dotyczących nabywania własności nieruchomości
+# Ustawa z dnia 7 lipca 2005 r. o zmianie niektórych ustaw dotyczących nabywania własności nieruchomości
 
 *USTAWA z dnia 7 lipca 2005 r.*
 

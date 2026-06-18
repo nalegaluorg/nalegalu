@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Agencji Mienia Wojskowego
+# Ustawa z dnia 5 października 2016 r. o zmianie ustawy o Agencji Mienia Wojskowego
 
 *USTAWA z dnia 10 lipca 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2016-11-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001789) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1789/text.pdf) |
-
-Art. 102–119. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1165,6 +1163,8 @@ Art. 102–119. (pominięte)
 **Art. 101.** O sposobie zagospodarowania nieruchomości Skarbu Państwa stanowiących lotniska wojskowe, nieujętych w wykazie wydanym na podstawie art. 94 ust. 4, przez inne podmioty niż jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane, decyduje Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw transportu. Przepis stosuje się odpowiednio do lądowisk cywilnych.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 102–119.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe, dostosowujące i końcowe
 

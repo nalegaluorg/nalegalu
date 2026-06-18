@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Inspekcji Ochrony Środowiska
+# Ustawa z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska
 
 *USTAWA z dnia 20 lipca 1991 r.*
 

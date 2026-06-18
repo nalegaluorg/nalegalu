@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Państwowej Inspekcji Sanitarnej.
+# Ustawa z dnia 28 lutego 1992 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej.
 
 | Pole | Wartość |
 |---|---|

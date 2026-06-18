@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks postępowania cywilnego
+# Ustawa z dnia 25 lutego 2011 r. o zmianie ustawy - Kodeks postępowania cywilnego
 
 *USTAWA Opracowano z dnia 25 lutego 2011 r. stawie r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu zwiększenia efektywności prowadzonych działań kontrolnych w zakresie niektórych rynków rolnych
+# Ustawa z dnia 20 lipca 2018 r. o zmianie niektórych ustaw w celu zwiększenia efektywności prowadzonych działań kontrolnych w zakresie niektórych rynków rolnych
 
 *USTAWA z dnia 20 lipca 2018 r.*
 

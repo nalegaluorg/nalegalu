@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw
+# Ustawa z dnia 9 kwietnia 2010 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 kwietnia 2010 r.*
 

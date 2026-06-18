@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kierujących pojazdami
+# Ustawa z dnia 5 stycznia 2011 r. o kierujących pojazdami
 
 *USTAWA z dnia 5 stycznia 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-02-10 |
 | Ostatnia zmiana | 2026-06-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110300151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/151/text.pdf) |
-
-Art. 125–127. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -3500,6 +3498,8 @@ Art. 125–127. (pominięte)
 12. (uchylony)
 
 #### Rozdział 20 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 125–127.** (pominięte)
 
 **Art. 128.**
 

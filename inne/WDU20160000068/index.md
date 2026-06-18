@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podatku od niektórych instytucji finansowych
+# Ustawa z dnia 15 stycznia 2016 r. o podatku od niektórych instytucji finansowych
 
 *USTAWA z dnia 15 stycznia 2016 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o obronie Ojczyzny W trosce o bezpieczeństwo naszej Ojczyzny, kierując się konstytucyjnym obowiązkiem Jej obrony nałożonym na każdego obywatela Rzeczypospolitej Polskiej oraz pragnąc zagwarantować wszystkim, którzy realizują ten obowiązek, jak najlepsze warunki, w szczególności żołnierzom, którzy pełnią służbę wojskową dla dobra Rzeczypospolitej Polskiej, a od których służba ta wymaga zdyscyplinowania, lojalności i poświęcenia, stanowi się, co następuje:
+# Ustawa z dnia 11 marca 2022 r. o obronie Ojczyzny
 
 *USTAWA z dnia 11 marca 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-03-23 |
 | Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000655) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/655/text.pdf) |
-
-Art. 698–776. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -9450,6 +9448,8 @@ Art. 698–776. (pominięte)
 ### DZIAŁ XXVI Zmiany w przepisach, przepisy przejściowe, dostosowujące i końcowe
 
 #### Rozdział 1 Zmiany w przepisach
+
+**Art. 698–776.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i dostosowujące
 

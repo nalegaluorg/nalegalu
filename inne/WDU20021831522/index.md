@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz ustawy o działalności gospodarczej
+# Ustawa z dnia 12 września 2002 r. zmieniająca ustawę o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz ustawy o działalności gospodarczej.
 
 *USTAWA z dnia 12 września 2002 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o odpowiedzialności Państwa za szkody wyrządzone przez funkcjonariuszów państwowych
+# Ustawa z dnia 15 listopada 1956 r. o odpowiedzialności Państwa za szkody wyrządzone przez funkcjonariuszów państwowych.
 
 *USTAWA z dnia 15 listopada 1956 r.*
 
@@ -27,7 +27,7 @@ source: pdf
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19560540243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1956/243/text.pdf) |
 
-Art. 1–5. (uchylone).
+**Art. 1–5.** (uchylone).
 
 **Art. 6.**
 

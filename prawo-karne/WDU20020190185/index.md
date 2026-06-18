@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz o podatku akcyzowym, o zmianie ustawy o Policji oraz o zmianie ustawy - Kodeks wykroczeń
+# Ustawa z dnia 15 lutego 2002 r. o zmianie ustawy o podatku od towarów i usług oraz o podatku akcyzowym, o zmianie ustawy o Policji oraz o zmianie ustawy - Kodeks wykroczeń.
 
 *USTAWA z dnia 15 lutego 2002 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowaniu Katolickiego Uniwersytetu Lubelskiego z budżetu państwa.
+# Ustawa z dnia 14 czerwca 1991 r. o finansowaniu Katolickiego Uniwersytetu Lubelskiego z budżetu państwa.
 
 *USTAWA z dnia 14 czerwca 1991 r.*
 

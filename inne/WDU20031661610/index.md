@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o prawie autorskim i prawach pokrewnych
+# Ustawa z dnia 25 lipca 2003 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych
 
 *USTAWA z dnia 25 lipca 2003 r.*
 

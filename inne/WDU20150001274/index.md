@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001274) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1274/text.pdf) |
 
-Art. 138–149. (pominięte)
-
 ### DZIAŁ I Przepisy ogólne
 
 **Art. 1.** Zadaniem konsula Rzeczypospolitej Polskiej jest ochrona interesów Rzeczypospolitej Polskiej i jej obywateli za granicą, umacnianie więzi między Rzecząpospolitą Polską a jej obywatelami i osobami pochodzenia polskiego zamieszkałymi w państwie przyjmującym, a także popieranie rozwoju współpracy gospodarczej, naukowej, technicznej i kulturalnej między Rzecząpospolitą Polską a państwem przyjmującym.
@@ -1160,6 +1158,8 @@ Art. 138–149. (pominięte)
 ### DZIAŁ VI Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
+
+**Art. 138–149.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty oraz ustawy o finansowaniu zadań oświatowych
+# Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o systemie oświaty oraz ustawy o finansowaniu zadań oświatowych
 
 *USTAWA z dnia 13 lutego 2026 r.*
 

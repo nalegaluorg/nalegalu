@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania w sprawach o wykroczenia oraz niektórych innych ustaw
+# Ustawa z dnia 9 listopada 2017 r. o zmianie ustawy - Kodeks postępowania w sprawach o wykroczenia oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 listopada 2017 r.*
 

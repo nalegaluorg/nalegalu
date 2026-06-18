@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 maja 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości
 
 | Pole | Wartość |
 |---|---|

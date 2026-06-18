@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz ustawy o cudzoziemcach
+# Ustawa z dnia 21 maja 2009 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz ustawy o cudzoziemcach
 
 *USTAWA z dnia 21 maja 2009 r.*
 
@@ -36,7 +36,11 @@ source: pdf
 
 6. Kartę pobytu wydaje się po dostarczeniu przez cudzoziemca 3 fotografii.”;
 
-- **3)** po art. 89i dodaje się art. 89ia i 89ib w brzmieniu: „Art. 89ia. W dokumencie podróży przewidzianym w Konwencji Genewskiej zamieszcza się dane i informacje, o których mowa w załączniku do Konwencji Genewskiej, oraz dane biometryczne. Art. 89ib. 1. Cudzoziemiec odbiera dokument podróży przewidziany w Konwencji Genewskiej osobiście, co potwierdza własnoręcznym podpisem.
+- **3)** po art. 89i dodaje się art. 89ia i 89ib w brzmieniu: „Art. 89ia. W dokumencie podróży przewidzianym w Konwencji Genewskiej zamieszcza się dane i informacje, o których mowa w załączniku do Konwencji Genewskiej, oraz dane biometryczne.
+
+**Art. 89ib.**
+
+1. Cudzoziemiec odbiera dokument podróży przewidziany w Konwencji Genewskiej osobiście, co potwierdza własnoręcznym podpisem.
 
 2. Dokument podróży przewidziany w Konwencji Genewskiej dla małoletniego może odebrać jeden z rodziców lub opiekunów. Małoletni, który ukończył 13 lat, lub osoba ubezwłasnowolniona, odbierają ten dokument osobiście, w obecności przynajmniej jednego z rodziców lub opiekunów.
 

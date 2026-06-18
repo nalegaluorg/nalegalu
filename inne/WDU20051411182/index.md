@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji niektórych rynków rolnych, ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego oraz ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych
+# Ustawa z dnia 3 czerwca 2005 r. o zmianie ustawy o organizacji niektórych rynków rolnych, ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego oraz ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych
 
 *USTAWA z dnia 3 czerwca 2005 r.*
 

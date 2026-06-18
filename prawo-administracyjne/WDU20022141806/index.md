@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie gminnym oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 23 listopada 2002 r. o zmianie ustawy o samorządzie gminnym oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 23 listopada 2002 r.*
 

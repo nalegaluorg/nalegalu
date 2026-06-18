@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o gatunkach obcych
+# Ustawa z dnia 11 sierpnia 2021 r. o gatunkach obcych
 
 *USTAWA z dnia 11 sierpnia 2021 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-09-17 |
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1718/text.pdf) |
-
-Art. 37–48. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -918,6 +916,8 @@ Art. 37–48. (pominięte)
 5. Koszty, o których mowa w ust. 4, określa regionalny dyrektor ochrony środowiska w decyzji, o której mowa w ust. 2.
 
 #### Rozdział 11 Zmiany w przepisach
+
+**Art. 37–48.** (pominięte)
 
 #### Rozdział 12 Przepisy przejściowe, dostosowujące i końcowe
 

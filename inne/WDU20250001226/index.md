@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kierujących pojazdami
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kierujących pojazdami
 
 *USTAWA z dnia 5 stycznia 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-09-05 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001226) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1226/text.pdf) |
-
-Art. 125–127. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -3500,6 +3498,8 @@ Art. 125–127. (pominięte)
 12. (uchylony)
 
 #### Rozdział 20 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 125–127.** (pominięte)
 
 **Art. 128.**
 

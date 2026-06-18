@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o bezpieczeństwie żywności i żywienia
+# Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy o bezpieczeństwie żywności i żywienia
 
 *USTAWA z dnia 28 listopada 2014 r.*
 

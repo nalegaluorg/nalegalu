@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Systemie Informacji Finansowej
+# Ustawa z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej
 
 *USTAWA z dnia 1 grudnia 2022 r.*
 

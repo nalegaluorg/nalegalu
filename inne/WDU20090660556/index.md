@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Akademii Medycznej w Gdańsku nazwy „Gdański Uniwersytet Medyczny”
+# Ustawa z dnia 19 marca 2009 r. o nadaniu Akademii Medycznej w Gdańsku nazwy "Gdański Uniwersytet Medyczny"
 
 *USTAWA z dnia 19 marca 2009 r.*
 

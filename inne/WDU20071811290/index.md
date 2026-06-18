@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń oraz o zmianie ustawy o zakładach opieki zdrowotnej
+# Ustawa z dnia 5 września 2007 r. o zmianie ustawy o przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń oraz o zmianie ustawy o zakładach opieki zdrowotnej
 
 *USTAWA z dnia 5 września 2007 r.*
 

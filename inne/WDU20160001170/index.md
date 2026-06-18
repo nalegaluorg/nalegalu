@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o sporcie
+# Ustawa z dnia 6 lipca 2016 r. o zmianie ustawy o sporcie
 
 *USTAWA z dnia 6 lipca 2016 r.*
 

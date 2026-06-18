@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw
+# Ustawa z dnia 13 maja 2016 r. o zmianie ustawy - Ordynacja podatkowa oraz niektórych innych ustaw
 
 *USTAWA z dnia 13 maja 2016 r.*
 
@@ -295,13 +295,23 @@ source: pdf
 
 § 3. Odmowa wydania opinii zabezpieczającej zawiera pouczenie o prawie wniesienia skargi do sądu administracyjnego.
 
-**Art. 119z.** Złożenie wniosku o wydanie opinii zabezpieczającej nie stanowi przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub postępowania kontrolnego prowadzonego przez organ kontroli skarbowej. Art. 119za. Opinia zabezpieczająca zawiera w szczególności:
+**Art. 119z.** Złożenie wniosku o wydanie opinii zabezpieczającej nie stanowi przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub postępowania kontrolnego prowadzonego przez organ kontroli skarbowej.
+
+**Art. 119za.** Opinia zabezpieczająca zawiera w szczególności:
 
 - **1)** wyczerpujący opis czynności, której dotyczył wniosek;
 - **2)** ocenę, że do czynności nie ma zastosowania przepis art. 119a;
-- **3)** pouczenie o prawie wniesienia skargi do sądu administracyjnego. Art. 119zb. § 1. Wniosek o wydanie opinii zabezpieczającej załatwia się bez zbędnej zwłoki, nie później niż w terminie 6 miesięcy od dnia otrzymania wniosku przez ministra właściwego do spraw finansów publicznych.
+- **3)** pouczenie o prawie wniesienia skargi do sądu administracyjnego.
 
-§ 2. Do terminu określonego w § 1 nie wlicza się terminów i okresów, o których mowa w art. 139 § 4. Art. 119zc. § 1. Wniosek o wydanie opinii zabezpieczającej podlega opłacie w wysokości 20 000 zł, którą należy wpłacić w terminie 7 dni od dnia złożenia wniosku.
+**Art. 119zb.**
+
+§ 1. Wniosek o wydanie opinii zabezpieczającej załatwia się bez zbędnej zwłoki, nie później niż w terminie 6 miesięcy od dnia otrzymania wniosku przez ministra właściwego do spraw finansów publicznych.
+
+§ 2. Do terminu określonego w § 1 nie wlicza się terminów i okresów, o których mowa w art. 139 § 4.
+
+**Art. 119zc.**
+
+§ 1. Wniosek o wydanie opinii zabezpieczającej podlega opłacie w wysokości 20 000 zł, którą należy wpłacić w terminie 7 dni od dnia złożenia wniosku.
 
 § 2. Opłata podlega zwrotowi w przypadku:
 
@@ -310,9 +320,17 @@ source: pdf
 
 § 3. Zwrot nienależnie uiszczonej opłaty następuje nie później niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii zabezpieczającej.
 
-§ 4. Koszty postępowania, o których mowa w art. 265 § 1 pkt 1 i 3, obciążają wnioskodawcę. Art. 119zd. § 1. Minister właściwy do spraw finansów publicznych może z urzędu zmienić wydaną opinię zabezpieczającą lub odmowę wydania opinii zabezpieczającej, jeżeli jest ona sprzeczna z orzecznictwem Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
+§ 4. Koszty postępowania, o których mowa w art. 265 § 1 pkt 1 i 3, obciążają wnioskodawcę.
 
-§ 2. Przepis § 1 stosuje się odpowiednio do zmiany opinii zabezpieczającej wydanej w związku z zastosowaniem art. 14o. Art. 119ze. W razie wycofania wniosku o wydanie opinii zabezpieczającej przepisy art. 208 oraz art. 210–212 stosuje się odpowiednio. Art. 119zf. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14b § 4 i 5, art. 14c § 4, art. 14d § 2 i 3, art. 14e § 1 pkt 2 i § 2–4, art. 14f § 3, art. 14i § 2–5, art. 14o, art. 20g § 3, art. 120, art. 123, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3 i 3b, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 171, art. 189 § 3, art. 197 § 1 i 3, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16 i 23.”;
+**Art. 119zd.**
+
+§ 1. Minister właściwy do spraw finansów publicznych może z urzędu zmienić wydaną opinię zabezpieczającą lub odmowę wydania opinii zabezpieczającej, jeżeli jest ona sprzeczna z orzecznictwem Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
+
+§ 2. Przepis § 1 stosuje się odpowiednio do zmiany opinii zabezpieczającej wydanej w związku z zastosowaniem art. 14o.
+
+**Art. 119ze.** W razie wycofania wniosku o wydanie opinii zabezpieczającej przepisy art. 208 oraz art. 210–212 stosuje się odpowiednio.
+
+**Art. 119zf.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14b § 4 i 5, art. 14c § 4, art. 14d § 2 i 3, art. 14e § 1 pkt 2 i § 2–4, art. 14f § 3, art. 14i § 2–5, art. 14o, art. 20g § 3, art. 120, art. 123, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3 i 3b, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 171, art. 189 § 3, art. 197 § 1 i 3, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16 i 23.”;
 
 - **7)** w art. 156 dodaje się § 5 w brzmieniu: „§ 5. Wezwany w toku postępowania w sprawie, o której mowa w art. 119g § 1, jest obowiązany do osobistego stawienia się także poza obszarem województwa, w którym zamieszkuje lub przebywa.”;
 - **8)** w art. 200 dodaje się § 3 w brzmieniu: „§ 3. Przed wydaniem decyzji z zastosowaniem art. 119a minister właściwy do spraw finansów publicznych wyznacza stronie czternastodniowy termin do wypowiedzenia się w sprawie zebranego materiału dowodowego, przedstawiając ocenę prawną sprawy i pouczając o prawie skorygowania deklaracji.”;

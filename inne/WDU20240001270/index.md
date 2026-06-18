@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|
@@ -888,7 +888,9 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 
 **Art. 88.** (uchylony)
 
-**Art. 89.** (uchylony) Art. 90–92. (pominięte)
+**Art. 89.** (uchylony)
+
+**Art. 90–92.** (pominięte)
 
 **Art. 93.**
 

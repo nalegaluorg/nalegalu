@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ubezpieczeniach gwarantowanych przez Skarb Państwa
+# Ustawa z dnia 7 lipca 1994 r. o ubezpieczeniach gwarantowanych przez Skarb Państwa
 
 *USTAWA z dnia 7 lipca 1994 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawy o radiofonii i telewizji oraz ustawy o opłacie skarbowej
+# Ustawa z dnia 27 kwietnia 2001 r. o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawy o radiofonii i telewizji oraz ustawy o opłacie skarbowej.
 
 *USTAWA z dnia 27 kwietnia 2001 r.*
 

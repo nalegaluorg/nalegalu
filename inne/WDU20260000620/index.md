@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji
 
 *USTAWA z dnia 10 czerwca 2016 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2026-05-11 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000620) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/620/text.pdf) |
-
-Art. 341–368. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -5856,6 +5854,8 @@ Art. 341–368. (pominięte)
 **Art. 340.** W przypadkach określonych w art. 335, art. 336 i art. 337a kwoty w euro przelicza się na złote według kursu średniego ogłoszonego przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego wydanie decyzji o nałożeniu kary pieniężnej.
 
 ### DZIAŁ VIII Zmiany w przepisach
+
+**Art. 341–368.** (pominięte)
 
 ### DZIAŁ IX Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 

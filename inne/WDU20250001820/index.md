@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz ustawy o Krajowej Administracji Skarbowej
+# Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz ustawy o Krajowej Administracji Skarbowej
 
 *USTAWA z dnia 21 listopada 2025 r.*
 
@@ -32,7 +32,12 @@ source: pdf
 - **1)** w art. 13 w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) okresy zatrudnienia, o których mowa w art. 18ga ust. 1 i 2, wskazane w zaświadczeniu, o którym mowa w art. 18ga ust. 3.”;
 - **2)** w art. 15aa w ust. 3 we wprowadzeniu do wyliczenia wyrazy „w art. 13 ust. 1 pkt 1, 1d, 2, 5, 6 lub 7” zastępuje się wyrazami „w art. 13 ust. 1 pkt 1, 1d, 2 lub 5–8”;
 - **3)** w art. 18b w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) zatrudnienia, o których mowa w art. 18ga ust. 2, wskazane w zaświadczeniu, o którym mowa w art. 18ga ust. 3.”;
-- **4)** w dziale II po rozdziale 1a dodaje się rozdział 1aa w brzmieniu: „Rozdział 1aa Zaliczanie niektórych okresów zatrudnienia do okresów równorzędnych ze służbą w Służbie Celnej lub Służbie Celno-Skarbowej Art. 18ga. 1. Jako okresy równorzędne ze służbą w Służbie Celnej traktuje się przypadające w okresie od dnia 1 września 2003 r. do dnia 30 czerwca 2010 r. okresy zatrudnienia w izbie celnej wraz z podległymi jednostkami organizacyjnymi Służby Celnej pracownika, o którym mowa w art. 32 ustawy z dnia 27 czerwca 2003 r. o utworzeniu Wojewódzkich Kolegiów Skarbowych oraz o zmianie niektórych ustaw regulujących zadania i kompetencje organów oraz organizację jednostek organizacyjnych podległych ministrowi właściwemu do spraw finansów publicznych (Dz. U. poz. 1302, z 2005 r. poz. 1042 oraz z 2011 r. poz. 1439), przeniesionego do izby celnej albo urzędu celnego na podstawie tego przepisu i wykonującego zadania w zakresie:
+- **4)** w dziale II po rozdziale 1a dodaje się rozdział 1aa w brzmieniu: „Rozdział 1aa Zaliczanie niektórych okresów zatrudnienia do okresów równorzędnych ze służbą w Służbie Celnej lub Służbie Celno-Skarbowej
+
+**Art. 18ga.**
+
+1. Jako okresy równorzędne ze służbą w Służbie Celnej traktuje się przypadające w okresie od dnia 1 września 2003 r. do dnia 30 czerwca 2010 r. okresy zatrudnienia w izbie celnej wraz z podległymi jednostkami organizacyjnymi Służby Celnej pracownika, o którym mowa w art. 32 ustawy z dnia 27 czerwca 2003 r. o utworzeniu Wojewódzkich Kolegiów Skarbowych oraz o zmianie niektórych ustaw regulujących zadania i kompetencje organów oraz organizację jednostek organizacyjnych podległych ministrowi właściwemu do spraw finansów publicznych (Dz. U. poz. 1302, z 2005 r. poz. 1042 oraz z 2011 r. poz. 1439), przeniesionego do izby celnej albo urzędu celnego na podstawie tego przepisu i wykonującego zadania w zakresie:
+
 - **1)** wymiaru i poboru podatku od towarów i usług z tytułu importu towarów lub
 - **2)** kontroli, szczególnego nadzoru podatkowego, wymiaru i poboru podatku akcyzowego, lub
 - **3)** kontroli przestrzegania legalności wykonywania pracy przez cudzoziemców – którego stosunek pracy przekształcił się w stosunek służbowy na podstawie art. 22b ustawy z dnia 24 lipca 1999 r. o Służbie Celnej albo art. 99 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej.

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Straży Marszałkowskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Straży Marszałkowskiej
 
 *USTAWA z dnia 26 stycznia 2018 r.*
 

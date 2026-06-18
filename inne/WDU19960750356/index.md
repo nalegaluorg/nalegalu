@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej
+# Ustawa z dnia 30 maja 1996 r. o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej.
 
 *USTAWA z dnia 30 maja 1996 r.*
 

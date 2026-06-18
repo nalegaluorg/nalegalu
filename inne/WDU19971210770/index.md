@@ -37,7 +37,9 @@ source: pdf
 
 2. Osoby fizyczne, które do dnia 31 grudnia 2000 r. wykonywały działalność gospodarczą nieobjętą obowiązkiem ewidencjonowania, są obowiązane w terminie 6 miesięcy od dnia wejścia w życie ustawy, o której mowa w ust. 1, zgłosić wykonywanie tej działalności do ewidencji działalności gospodarczej.
 
-3. Osoby fizyczne, które do dnia 31 grudnia 2000 r. wykonywały działalność gospodarczą jako wspólnicy spółek cywilnych, są obowiązane w terminie 3 miesięcy od dnia wejścia w życie ustawy, o której mowa w ust. 1, dostosować formę wykonywanej działalności do wymogów tej ustawy. Art. 2–4. (uchylone).
+3. Osoby fizyczne, które do dnia 31 grudnia 2000 r. wykonywały działalność gospodarczą jako wspólnicy spółek cywilnych, są obowiązane w terminie 3 miesięcy od dnia wejścia w życie ustawy, o której mowa w ust. 1, dostosować formę wykonywanej działalności do wymogów tej ustawy.
+
+**Art. 2–4.** (uchylone).
 
 **Art. 5.**
 

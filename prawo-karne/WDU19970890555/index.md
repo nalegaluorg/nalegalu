@@ -885,7 +885,9 @@ source: pdf
 
 § 4. Administratorem systemu teleinformatycznego, o którym mowa w art. 100a, jest Minister Sprawiedliwości.
 
-§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, strukturę systemu teleinformatycznego, o którym mowa w art. 100a, jego minimalną funkcjonalność, warunki organizacyjno-techniczne gromadzenia i pobierania zgromadzonych w nim danych oraz sposób opatrywania kopii, o których mowa w § 2, unikalnym oznaczeniem identyfikującym, a ponadto może określić podmiot, któremu powierza realizację zadań związanych z prowadzeniem tego systemu, oraz zakres zadań powierzonych do realizacji, uwzględniając konieczność zapewnienia powszechnej dostępności zgromadzonych danych, zapewnienia sprawności wprowadzania danych do systemu, zapewnienia kompletności i prawidłowości danych przetwarzanych w systemie oraz potrzebę zabezpieczenia danych przed nieuprawnionym dostępem do nich.> Art. 101–104. (uchylone)
+§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, strukturę systemu teleinformatycznego, o którym mowa w art. 100a, jego minimalną funkcjonalność, warunki organizacyjno-techniczne gromadzenia i pobierania zgromadzonych w nim danych oraz sposób opatrywania kopii, o których mowa w § 2, unikalnym oznaczeniem identyfikującym, a ponadto może określić podmiot, któremu powierza realizację zadań związanych z prowadzeniem tego systemu, oraz zakres zadań powierzonych do realizacji, uwzględniając konieczność zapewnienia powszechnej dostępności zgromadzonych danych, zapewnienia sprawności wprowadzania danych do systemu, zapewnienia kompletności i prawidłowości danych przetwarzanych w systemie oraz potrzebę zabezpieczenia danych przed nieuprawnionym dostępem do nich.>
+
+**Art. 101–104.** (uchylone)
 
 **Art. 105.**
 

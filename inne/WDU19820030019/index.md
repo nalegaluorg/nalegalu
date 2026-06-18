@@ -395,7 +395,13 @@ source: pdf
 - **3)** w stosunku do organu sprawującego nadzór pedagogiczny – właściwy minister;
 - **4)** w stosunku do kuratora oświaty – minister właściwy do spraw oświaty i wychowania.
 
-**Art. 9c.** (uchylony) Art. 9ca. 1. Nauczyciel, o którym mowa w art. 9a ust. 2, odbywa przygotowanie do zawodu nauczyciela w wymiarze 3 lat i 9 miesięcy. 2. Nauczyciel, o którym mowa w art. 9a ust. 2, który:
+**Art. 9c.** (uchylony)
+
+**Art. 9ca.**
+
+1. Nauczyciel, o którym mowa w art. 9a ust. 2, odbywa przygotowanie do zawodu nauczyciela w wymiarze 3 lat i 9 miesięcy.
+
+2. Nauczyciel, o którym mowa w art. 9a ust. 2, który:
 
 - **1)** posiada stopień naukowy lub
 - **2)** przed nawiązaniem stosunku pracy w szkole w Rzeczypospolitej Polskiej prowadził zajęcia w szkole za granicą – może odbyć przygotowanie do zawodu nauczyciela w wymiarze 2 lat i 9 miesięcy.
@@ -460,7 +466,11 @@ source: pdf
 
 **Art. 9e.** (uchylony)
 
-**Art. 9f.** (uchylony) Art. 9fa. 1. Przed dokonaniem oceny pracy, o której mowa w art. 6a ust. 1da pkt 1, nauczyciel jest obowiązany przeprowadzić zajęcia, w wymiarze co najmniej 1 godziny, w obecności:
+**Art. 9f.** (uchylony)
+
+**Art. 9fa.**
+
+1. Przed dokonaniem oceny pracy, o której mowa w art. 6a ust. 1da pkt 1, nauczyciel jest obowiązany przeprowadzić zajęcia, w wymiarze co najmniej 1 godziny, w obecności:
 
 - **1)** dyrektora szkoły;
 - **2)** mentora, o którym mowa w art. 9ca ust. 11;
@@ -878,7 +888,11 @@ source: pdf
 
 6b. Jeżeli nauczyciel szkoły w Rzeczypospolitej Polskiej, szkoły polskiej, o której mowa w art. 4 pkt 29d ustawy – Prawo oświatowe, szkoły lub zespołu szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, lub szkoły europejskiej posiadający stopień nauczyciela mianowanego rozpocznie prowadzenie zajęć w szkole za granicą, do okresu, o którym mowa w art. 9m ust. 4 i 5, wlicza się okres zatrudnienia w szkole w Rzeczypospolitej Polskiej od dnia nadania stopnia nauczyciela mianowanego, w wymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć, zgodnie z wymaganymi kwalifikacjami, z wyjątkiem okresów nieobecności nauczyciela w pracy trwającej nieprzerwanie dłużej niż 30 dni.
 
-7. Nauczyciel szkoły za granicą może przerwać przygotowanie do zawodu nauczyciela albo dodatkowe przygotowanie do zawodu nauczyciela na swój wniosek w każdym czasie. W przypadku przerwy trwającej nieprzerwanie dłużej niż miesiąc przygotowanie do zawodu nauczyciela albo dodatkowe przygotowanie do zawodu nauczyciela ulega przedłużeniu o czas przerwy. W przypadku przerwy trwającej nieprzerwanie dłużej niż rok nauczyciel jest obowiązany do ponownego odbycia przygotowania do zawodu nauczyciela albo dodatkowego przygotowania do zawodu nauczyciela w pełnym wymiarze. Art. 9pa. 1. W ostatnim roku odbywania przygotowania do zawodu nauczyciela nauczyciel jest obowiązany przeprowadzić zajęcia, w wymiarze 2 godzin, w obecności komisji powołanej przez ministra właściwego do spraw oświaty i wychowania.
+7. Nauczyciel szkoły za granicą może przerwać przygotowanie do zawodu nauczyciela albo dodatkowe przygotowanie do zawodu nauczyciela na swój wniosek w każdym czasie. W przypadku przerwy trwającej nieprzerwanie dłużej niż miesiąc przygotowanie do zawodu nauczyciela albo dodatkowe przygotowanie do zawodu nauczyciela ulega przedłużeniu o czas przerwy. W przypadku przerwy trwającej nieprzerwanie dłużej niż rok nauczyciel jest obowiązany do ponownego odbycia przygotowania do zawodu nauczyciela albo dodatkowego przygotowania do zawodu nauczyciela w pełnym wymiarze.
+
+**Art. 9pa.**
+
+1. W ostatnim roku odbywania przygotowania do zawodu nauczyciela nauczyciel jest obowiązany przeprowadzić zajęcia, w wymiarze 2 godzin, w obecności komisji powołanej przez ministra właściwego do spraw oświaty i wychowania.
 
 2. W skład komisji, o której mowa w ust. 1, wchodzą:
 

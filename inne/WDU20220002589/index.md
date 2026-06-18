@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz ustawy o kierujących pojazdami
+# Ustawa z dnia 4 listopada 2022 r. o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o kierujących pojazdami
 
 *USTAWA z dnia 4 listopada 2022 r.*
 

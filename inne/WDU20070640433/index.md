@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury oraz niektórych innych ustaw
+# Ustawa z dnia 29 marca 2007 r. o zmianie ustawy o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury oraz niektórych innych ustaw
 
 *USTAWA z dnia 29 marca 2007 r.*
 

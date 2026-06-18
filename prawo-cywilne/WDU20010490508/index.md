@@ -29,7 +29,6 @@ source: pdf
 
 Zawieszenie oraz rozwiązanie stosunku pracy z ekspertem
 Przepisy przejściowe i końcowe
-Art. 311–314. (pominięte)
 
 ## TYTUŁ I Przepisy ogólne
 
@@ -3148,6 +3147,8 @@ Art. 311–314. (pominięte)
 ## TYTUŁ XI Zmiany w przepisach obowiązujących.
 
 ### DZIAŁ I Zmiany w przepisach obowiązujących
+
+**Art. 311–314.** (pominięte)
 
 ### DZIAŁ II Przepisy przejściowe i końcowe
 

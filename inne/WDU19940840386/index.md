@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o denominacji złotego W celu ułatwienia rozliczeń pieniężnych oraz mając na względzie oznaki stabilizowania się relacji waluty polskiej z innymi walutami narodowymi, uchwala się, co następuje:
+# Ustawa z dnia 7 lipca 1994 r. o denominacji złotego.
 
 *USTAWA z dnia 7 lipca 1994 r.*
 

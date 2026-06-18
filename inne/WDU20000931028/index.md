@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zwolnieniu świadczeń z tytułu prześladowań przez nazistowskie Niemcy z podatków i opłat oraz o niezaliczaniu ich do dochodów
+# Ustawa z dnia 21 września 2000 r. o zwolnieniu świadczeń z tytułu prześladowań przez nazistowskie Niemcy z podatków i opłat oraz o niezaliczaniu ich do dochodów.
 
 *USTAWA z dnia 21 września 2000 r.*
 

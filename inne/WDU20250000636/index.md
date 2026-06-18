@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Policji
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Policji
 
 *USTAWA z dnia 6 kwietnia 1990 r.*
 
@@ -303,7 +303,9 @@ source: pdf
 8. W przypadku nieotrzymania opinii, o której mowa w ust. 1 lub 6:
 
 - **1)** komendant powiatowy (miejski) Policji może powołać komendanta komisariatu Policji po upływie 14 dni od dnia przedstawienia wniosku o wydanie opinii;
-- **2)** komendant rejonowy Policji może powołać komendanta komisariatu Policji po upływie 21 dni od dnia przedstawienia wniosku o wydanie opinii. Art. 6da. Policjant oraz osoba powoływana na stanowisko Komendanta CBŚP, zastępcy Komendanta CBŚP, Komendanta BSWP, zastępcy Komendanta BSWP, dowódcy BOA, zastępcy dowódcy BOA, dowódcy samodzielnego pododdziału kontrterrorystycznego Policji, zastępcy dowódcy samodzielnego pododdziału kontrterrorystycznego Policji, Komendanta CBZC, zastępcy Komendanta CBZC, Dyrektora CLKP, zastępcy Dyrektora CLKP, komendanta wojewódzkiego Policji, Komendanta Stołecznego Policji, zastępcy komendanta wojewódzkiego Policji, zastępcy Komendanta Stołecznego Policji, komendanta powiatowego (miejskiego) Policji, komendanta rejonowego Policji, zastępcy komendanta powiatowego (miejskiego) Policji, zastępcy komendanta rejonowego Policji, komendanta komisariatu Policji, zastępcy komendanta komisariatu Policji, komendanta komisariatu specjalistycznego Policji, a także mianowana na stanowisko dyrektora i zastępcy dyrektora komórki organizacyjnej oraz naczelnika mogą zostać poddani weryfikacji, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych. Weryfikacja, o której mowa w zdaniu pierwszym, może być prowadzona także wobec policjanta oraz osoby, którzy zajmują te stanowiska.
+- **2)** komendant rejonowy Policji może powołać komendanta komisariatu Policji po upływie 21 dni od dnia przedstawienia wniosku o wydanie opinii.
+
+**Art. 6da.** Policjant oraz osoba powoływana na stanowisko Komendanta CBŚP, zastępcy Komendanta CBŚP, Komendanta BSWP, zastępcy Komendanta BSWP, dowódcy BOA, zastępcy dowódcy BOA, dowódcy samodzielnego pododdziału kontrterrorystycznego Policji, zastępcy dowódcy samodzielnego pododdziału kontrterrorystycznego Policji, Komendanta CBZC, zastępcy Komendanta CBZC, Dyrektora CLKP, zastępcy Dyrektora CLKP, komendanta wojewódzkiego Policji, Komendanta Stołecznego Policji, zastępcy komendanta wojewódzkiego Policji, zastępcy Komendanta Stołecznego Policji, komendanta powiatowego (miejskiego) Policji, komendanta rejonowego Policji, zastępcy komendanta powiatowego (miejskiego) Policji, zastępcy komendanta rejonowego Policji, komendanta komisariatu Policji, zastępcy komendanta komisariatu Policji, komendanta komisariatu specjalistycznego Policji, a także mianowana na stanowisko dyrektora i zastępcy dyrektora komórki organizacyjnej oraz naczelnika mogą zostać poddani weryfikacji, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych. Weryfikacja, o której mowa w zdaniu pierwszym, może być prowadzona także wobec policjanta oraz osoby, którzy zajmują te stanowiska.
 
 **Art. 6e.**
 
@@ -628,7 +630,11 @@ source: pdf
 
 4. Policja niezwłocznie zawiadamia o dokonaniu zatrzymania prokuratora i właściwy miejscowo zespół interdyscyplinarny, o którym mowa w ustawie o przeciwdziałaniu przemocy domowej, a gdy w mieszkaniu zamieszkują osoby małoletnie – także właściwy miejscowo sąd opiekuńczy.
 
-5. W przypadkach, o których mowa w art. 18 ust. 5 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r. poz. 12 i 179), o dokonaniu zatrzymania żołnierza pełniącego czynną służbę wojskową Policja niezwłocznie zawiadamia właściwą miejscowo jednostkę organizacyjną Żandarmerii Wojskowej. Art. 15aa. 1. Policjant ma prawo wydać wobec osoby stosującej przemoc domową w rozumieniu przepisów ustawy o przeciwdziałaniu przemocy domowej, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, nakaz natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia i zakaz zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, zwany dalej „nakazem i zakazem”.
+5. W przypadkach, o których mowa w art. 18 ust. 5 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r. poz. 12 i 179), o dokonaniu zatrzymania żołnierza pełniącego czynną służbę wojskową Policja niezwłocznie zawiadamia właściwą miejscowo jednostkę organizacyjną Żandarmerii Wojskowej.
+
+**Art. 15aa.**
+
+1. Policjant ma prawo wydać wobec osoby stosującej przemoc domową w rozumieniu przepisów ustawy o przeciwdziałaniu przemocy domowej, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, nakaz natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia i zakaz zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, zwany dalej „nakazem i zakazem”.
 
 2. (uchylony)
 
@@ -640,15 +646,27 @@ source: pdf
 
 6. Przepis ust. 1 stosuje się do każdego lokalu służącego zaspokajaniu bieżących potrzeb mieszkaniowych.
 
-7. W przypadku wydania wobec osoby stosującej przemoc domową nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu przepisy art. 9f i art. 9g ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej stosuje się odpowiednio. Art. 15aaa. 1. Policjant ma prawo wydać wobec osoby stosującej przemoc domową w rozumieniu przepisów ustawy o przeciwdziałaniu przemocy domowej, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz zbliżania się do tej osoby na wyrażoną w metrach odległość, zwany dalej „zakazem zbliżania”, lub zakaz kontaktowania się z osobą doznającą przemocy domowej, zwany dalej „zakazem kontaktowania”.
+7. W przypadku wydania wobec osoby stosującej przemoc domową nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu przepisy art. 9f i art. 9g ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej stosuje się odpowiednio.
 
-2. Jeżeli osoba doznająca przemocy domowej uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, policjant ma prawo wydać wobec osoby stosującej przemoc domową, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, zwany dalej „zakazem wstępu”, chyba że osoba stosująca przemoc jest tam zatrudniona lub pobiera naukę. Art. 15aab. 1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu mogą być stosowane łącznie.
+**Art. 15aaa.**
+
+1. Policjant ma prawo wydać wobec osoby stosującej przemoc domową w rozumieniu przepisów ustawy o przeciwdziałaniu przemocy domowej, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz zbliżania się do tej osoby na wyrażoną w metrach odległość, zwany dalej „zakazem zbliżania”, lub zakaz kontaktowania się z osobą doznającą przemocy domowej, zwany dalej „zakazem kontaktowania”.
+
+2. Jeżeli osoba doznająca przemocy domowej uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, policjant ma prawo wydać wobec osoby stosującej przemoc domową, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, zwany dalej „zakazem wstępu”, chyba że osoba stosująca przemoc jest tam zatrudniona lub pobiera naukę.
+
+**Art. 15aab.**
+
+1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu mogą być stosowane łącznie.
 
 2. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania oraz zakaz wstępu są natychmiast wykonalne.
 
 3. Jeżeli po wydaniu nakazu i zakazu wystąpią okoliczności uzasadniające wydanie zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, dzień zakończenia ich obowiązywania musi odpowiadać dniowi, w którym upływa termin stosowania nakazu i zakazu.
 
-4. Policjant w celu stwierdzenia zasadności wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu stosuje odpowiednio przepisy art. 15a ust. 2 i 3. Art. 15ab. 1. Policjant wydaje nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu:
+4. Policjant w celu stwierdzenia zasadności wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu stosuje odpowiednio przepisy art. 15a ust. 2 i 3.
+
+**Art. 15ab.**
+
+1. Policjant wydaje nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu:
 
 - **1)** podczas interwencji podjętej we wspólnie zajmowanym mieszkaniu lub jego bezpośrednim otoczeniu lub
 - **2)** w związku z powzięciem informacji o stosowaniu przemocy domowej, w szczególności zgłoszenia przez:
@@ -677,7 +695,11 @@ source: pdf
 
 11. Policja, przed wydaniem nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, ma prawo zażądać dodatkowych informacji od innych instytucji lub organów w celu ustalenia, czy zachodzą okoliczności wskazane w art. 15aa ust. 1 lub art. 15aaa.
 
-12. Jeżeli zachodzą przesłanki zatrzymania, o którym mowa w art. 15a ust. 1, lub wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, a wobec osoby stosującej przemoc domową wykonywana jest kara pozbawienia wolności w systemie dozoru elektronicznego, policjant dokonuje zatrzymania takiej osoby i bezzwłocznie przekazuje ją do dyspozycji sądu właściwego do orzekania w przedmiocie uchylenia zezwolenia na odbywanie kary w systemie dozoru elektronicznego. Sąd orzeka w ciągu 48 godzin od chwili zatrzymania. Art. 15ac. 1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania oraz zakaz wstępu zawierają w szczególności:
+12. Jeżeli zachodzą przesłanki zatrzymania, o którym mowa w art. 15a ust. 1, lub wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, a wobec osoby stosującej przemoc domową wykonywana jest kara pozbawienia wolności w systemie dozoru elektronicznego, policjant dokonuje zatrzymania takiej osoby i bezzwłocznie przekazuje ją do dyspozycji sądu właściwego do orzekania w przedmiocie uchylenia zezwolenia na odbywanie kary w systemie dozoru elektronicznego. Sąd orzeka w ciągu 48 godzin od chwili zatrzymania.
+
+**Art. 15ac.**
+
+1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania oraz zakaz wstępu zawierają w szczególności:
 
 - **1)** datę, czas i miejsce przeprowadzenia czynności;
 - **2)** podstawę prawną ich wydania;
@@ -688,7 +710,11 @@ source: pdf
 - **7)** uzasadnienie, w którym wskazuje się podstawy faktyczne ich wydania;
 - **8)** pouczenia, w tym o trybie, formie i sposobie wnoszenia zażalenia.
 
-2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania oraz zakazu wstępu, sposób wykonywania i dokumentowania czynności związanych z wydaniem nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania oraz zakazu wstępu i wzór kwestionariusza szacowania ryzyka zagrożenia życia lub zdrowia ludzkiego służący stwierdzeniu zasadności zatrzymania, o którym mowa w art. 15a ust. 1, lub wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, mając na względzie potrzebę zawarcia niezbędnych pouczeń w nakazie i zakazie, zakazie zbliżania, zakazie kontaktowania oraz zakazie wstępu, a także sprawnego sporządzania dokumentacji oraz konieczność natychmiastowej i skutecznej ochrony osób doznających przemocy domowej. Art. 15ad. 1. Policjant doręcza odpis nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu niezwłocznie po ich wydaniu osobie stosującej przemoc domową oraz osobie doznającej tej przemocy.
+2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania oraz zakazu wstępu, sposób wykonywania i dokumentowania czynności związanych z wydaniem nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania oraz zakazu wstępu i wzór kwestionariusza szacowania ryzyka zagrożenia życia lub zdrowia ludzkiego służący stwierdzeniu zasadności zatrzymania, o którym mowa w art. 15a ust. 1, lub wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, mając na względzie potrzebę zawarcia niezbędnych pouczeń w nakazie i zakazie, zakazie zbliżania, zakazie kontaktowania oraz zakazie wstępu, a także sprawnego sporządzania dokumentacji oraz konieczność natychmiastowej i skutecznej ochrony osób doznających przemocy domowej.
+
+**Art. 15ad.**
+
+1. Policjant doręcza odpis nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu niezwłocznie po ich wydaniu osobie stosującej przemoc domową oraz osobie doznającej tej przemocy.
 
 1a. W razie niemożności doręczenia osobie stosującej przemoc domową, zamieszkującej wspólnie z osobą doznającą tej przemocy, odpisu nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, w sposób określony w ust. 1, odpis należy złożyć we właściwej jednostce organizacyjnej Policji, umieszczając zawiadomienie o ich wydaniu na drzwiach wspólnie zajmowanego mieszkania, ze wskazaniem przyczyny umieszczenia zawiadomienia oraz wskazaniem, gdzie i kiedy pismo pozostawiono. Doręczenie uważa się za dokonane z chwilą umieszczenia zawiadomienia na drzwiach wspólnie zajmowanego mieszkania.
 
@@ -708,7 +734,11 @@ source: pdf
 
 4a. W przypadkach, o których mowa w art. 18ab ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, o wydaniu wobec żołnierza pełniącego czynną służbę wojskową nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, Policja niezwłocznie zawiadamia właściwą jednostkę organizacyjną Żandarmerii Wojskowej.
 
-5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w ust. 1a–1c, umieszczanego na drzwiach mieszkania w razie niemożności doręczenia odpisu nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z profesjonalnej pomocy prawnej. Art. 15ae. 1. Czynność opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia przez osobę stosującą przemoc domową, wobec której wydano nakaz i zakaz, wymaga sporządzenia protokołu, który podpisują pełnoletnie osoby uczestniczące w czynności.
+5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w ust. 1a–1c, umieszczanego na drzwiach mieszkania w razie niemożności doręczenia odpisu nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z profesjonalnej pomocy prawnej.
+
+**Art. 15ae.**
+
+1. Czynność opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia przez osobę stosującą przemoc domową, wobec której wydano nakaz i zakaz, wymaga sporządzenia protokołu, który podpisują pełnoletnie osoby uczestniczące w czynności.
 
 2. Protokół zawiera:
 
@@ -730,13 +760,21 @@ source: pdf
 
 7. Jeżeli w związku z wydaniem nakazu i zakazu zachodzi potrzeba zabezpieczenia zwierząt stanowiących mienie osoby stosującej przemoc domową, wobec której wydano nakaz i zakaz, stosuje się odpowiednio przepis art. 7 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580).
 
-8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór protokołu czynności opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, w związku z wydaniem nakazu i zakazu, mając na uwadze prawidłowe udokumentowanie przeprowadzanej czynności. Art. 15af. 1. Osoba stosująca przemoc domową, wobec której wydano nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, jest obowiązana wskazać jednostce organizacyjnej Policji, której policjant wydał ten nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, adres miejsca pobytu, a także, o ile to możliwe, numer telefonu, pod którym będzie dostępna, oraz poinformować tę jednostkę Policji o każdej zmianie adresu lub numeru.
+8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór protokołu czynności opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, w związku z wydaniem nakazu i zakazu, mając na uwadze prawidłowe udokumentowanie przeprowadzanej czynności.
+
+**Art. 15af.**
+
+1. Osoba stosująca przemoc domową, wobec której wydano nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, jest obowiązana wskazać jednostce organizacyjnej Policji, której policjant wydał ten nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, adres miejsca pobytu, a także, o ile to możliwe, numer telefonu, pod którym będzie dostępna, oraz poinformować tę jednostkę Policji o każdej zmianie adresu lub numeru.
 
 2. Osobę stosującą przemoc domową, wobec której wydano nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, należy pouczyć, że jeżeli zmieni miejsce pobytu, nie będzie dostępna pod wskazanym przez siebie numerem telefonu, nie zawiadamiając o tym jednostki organizacyjnej Policji, o której mowa w ust. 1, na skutek czego nie odbierze korespondencji pod wskazanym adresem lub nie stawi się we wskazanej jednostce organizacyjnej Policji w celu jej odbioru w ciągu 24 godzin od pozostawienia zawiadomienia o korespondencji, korespondencja zostanie uznana za doręczoną z upływem tego terminu, chyba że miejsce pobytu tej osoby jest Policji znane.
 
 3. Niedoręczenie korespondencji wymaga udokumentowania ze wskazaniem przyczyny niedoręczenia.
 
-4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zawiadomienia osoby stosującej przemoc domową, wobec której został wydany nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, pozostawianego w razie niemożności doręczenia jej korespondencji, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z profesjonalnej pomocy prawnej. Art. 15ag. 1. Policjant, w przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, informuje osobę doznającą przemocy domowej o:
+4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zawiadomienia osoby stosującej przemoc domową, wobec której został wydany nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, pozostawianego w razie niemożności doręczenia jej korespondencji, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z profesjonalnej pomocy prawnej.
+
+**Art. 15ag.**
+
+1. Policjant, w przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, informuje osobę doznającą przemocy domowej o:
 
 - **1)** możliwości i sposobie złożenia żądania, aby sąd zobowiązał osobę stosującą przemoc domową do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, wydał zakaz zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, zakaz zbliżania się do osoby doznającej przemocy domowej, zakaz kontaktowania się z osobą doznającą przemocy domowej lub zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie, o których mowa w przepisach ustawy o przeciwdziałaniu przemocy domowej;
 - **2)** obowiązku wszczęcia przez organy ścigania, niezależnie od wydanego nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, postępowania karnego w związku z popełnieniem ściganego z urzędu przestępstwa z użyciem przemocy i możliwości stosowania w toku prowadzonego postępowania środków zapobiegawczych, o których mowa w przepisach Kodeksu postępowania karnego;
@@ -746,9 +784,19 @@ source: pdf
 
 2. Policjant, w przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, informuje osobę doznającą przemocy domowej o możliwości przekazania jej danych osobowych najbliższemu miejscowo podmiotowi, o którym mowa w ust. 1 pkt 5, w celu udzielenia pomocy, chyba że osoba ta nie wyrazi na to zgody.
 
-3. Policjant, w przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, poucza osobę stosującą przemoc domową o przekazaniu jej danych właściwemu ze względu na miejsce jej pobytu Powiatowemu Centrum Pomocy Rodzinie w celu podjęcia działań pozostających we właściwości powiatu na podstawie przepisów ustawy o przeciwdziałaniu przemocy domowej, chyba że osoba ta nie wyrazi zgody. Art. 15ah. Policjant, w przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, poucza osobę stosującą przemoc domową o przyczynach ich wydania, o możliwości i sposobie złożenia zażalenia, a także, w przypadku wydania nakazu i zakazu – informuje o danych teleadresowych właściwych miejscowo placówek zapewniających miejsca noclegowe oraz placówek prowadzących programy korekcyjno-edukacyjne dla osób stosujących przemoc domową lub programy psychologiczno-terapeutyczne dla osób stosujących przemoc domową. Art. 15ai. 1. W okresie obowiązywania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu Policja przynajmniej trzykrotnie sprawdza, czy nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu nie są naruszane, i podejmuje niezbędne czynności. Pierwsze sprawdzenie odbywa się następnego dnia po wydaniu nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu.
+3. Policjant, w przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, poucza osobę stosującą przemoc domową o przekazaniu jej danych właściwemu ze względu na miejsce jej pobytu Powiatowemu Centrum Pomocy Rodzinie w celu podjęcia działań pozostających we właściwości powiatu na podstawie przepisów ustawy o przeciwdziałaniu przemocy domowej, chyba że osoba ta nie wyrazi zgody.
 
-2. Czynności sprawdzenia Policja podejmuje również na podstawie postanowienia sądu o udzieleniu zabezpieczenia w sprawach z zakresu przeciwdziałania przemocy domowej, w tym postanowienia, którym nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu zostały przedłużone. Art. 15aj. 1. Osobie, wobec której wydano nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, oraz prokuratorowi przysługuje zażalenie do sądu rejonowego, do którego należy rozpoznawanie spraw z zakresu przeciwdziałania przemocy domowej. Zażalenie wnosi się w terminie 3 dni od dnia doręczenia nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, o czym należy osobę stosującą przemoc domową pouczyć przy doręczeniu. W zażaleniu można domagać się zbadania prawidłowości prowadzenia czynności, zasadności oraz legalności wydanego nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu. W zakresie nieuregulowanym do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, z tym że nie stosuje się przepisu art. 373 tego Kodeksu.
+**Art. 15ah.** Policjant, w przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, poucza osobę stosującą przemoc domową o przyczynach ich wydania, o możliwości i sposobie złożenia zażalenia, a także, w przypadku wydania nakazu i zakazu – informuje o danych teleadresowych właściwych miejscowo placówek zapewniających miejsca noclegowe oraz placówek prowadzących programy korekcyjno-edukacyjne dla osób stosujących przemoc domową lub programy psychologiczno-terapeutyczne dla osób stosujących przemoc domową.
+
+**Art. 15ai.**
+
+1. W okresie obowiązywania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu Policja przynajmniej trzykrotnie sprawdza, czy nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu nie są naruszane, i podejmuje niezbędne czynności. Pierwsze sprawdzenie odbywa się następnego dnia po wydaniu nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu.
+
+2. Czynności sprawdzenia Policja podejmuje również na podstawie postanowienia sądu o udzieleniu zabezpieczenia w sprawach z zakresu przeciwdziałania przemocy domowej, w tym postanowienia, którym nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu zostały przedłużone.
+
+**Art. 15aj.**
+
+1. Osobie, wobec której wydano nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, oraz prokuratorowi przysługuje zażalenie do sądu rejonowego, do którego należy rozpoznawanie spraw z zakresu przeciwdziałania przemocy domowej. Zażalenie wnosi się w terminie 3 dni od dnia doręczenia nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, o czym należy osobę stosującą przemoc domową pouczyć przy doręczeniu. W zażaleniu można domagać się zbadania prawidłowości prowadzenia czynności, zasadności oraz legalności wydanego nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu. W zakresie nieuregulowanym do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, z tym że nie stosuje się przepisu art. 373 tego Kodeksu.
 
 1a. Zażalenie wnosi się do sądu rejonowego właściwego ze względu na miejsce położenia wspólnie zajmowanego mieszkania. W przypadku gdy osoba stosująca przemoc domową, wobec której wydano zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, nie mieszka wspólnie z osobą doznającą tej przemocy, zażalenie wnosi się do sądu rejonowego właściwego ze względu na miejsce zamieszkania osoby doznającej przemocy domowej.
 
@@ -758,7 +806,11 @@ source: pdf
 
 3a. Jeżeli jest to niezbędne dla zapewnienia szybkości postępowania, sąd może dokonywać doręczeń przez Policję. Do doręczeń stosuje się odpowiednio przepis art. 560 Kodeksu postępowania cywilnego.
 
-4. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu sąd zawiadamia o tym przełożonego policjanta, który wydał nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu. Art. 15ak. 1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania i zakaz wstępu tracą moc po upływie 14 dni od dnia ich wydania, chyba że sąd udzielił zabezpieczenia, którym zostały one przedłużone. Przy obliczaniu terminu nie uwzględnia się dnia, w którym nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu zostały wydane.
+4. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu sąd zawiadamia o tym przełożonego policjanta, który wydał nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu.
+
+**Art. 15ak.**
+
+1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania i zakaz wstępu tracą moc po upływie 14 dni od dnia ich wydania, chyba że sąd udzielił zabezpieczenia, którym zostały one przedłużone. Przy obliczaniu terminu nie uwzględnia się dnia, w którym nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu zostały wydane.
 
 2. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania i zakaz wstępu tracą także moc, w przypadku gdy po ich wydaniu wobec osoby stosującej przemoc domową zastosowano środek zapobiegawczy w postaci tymczasowego aresztowania.
 
@@ -1291,7 +1343,11 @@ source: pdf
 
 3. Udzielenie informacji o szczegółowych formach, zasadach i organizacji czynności operacyjno-rozpoznawczych może nastąpić w szczególnie uzasadnionych przypadkach.
 
-4. W przypadkach wymienionych w ust. 1 pkt 1, ust. 2 pkt 1 i ust. 3 udzielenie informacji następuje w trybie określonym w art. 20ba. Art. 20ba. 1. Komendant Główny Policji może zezwalać:
+4. W przypadkach wymienionych w ust. 1 pkt 1, ust. 2 pkt 1 i ust. 3 udzielenie informacji następuje w trybie określonym w art. 20ba.
+
+**Art. 20ba.**
+
+1. Komendant Główny Policji może zezwalać:
 
 - **1)** byłym i obecnym funkcjonariuszom i pracownikom Policji, z wyłączeniem przypadków, o których mowa w ust. 5,
 - **2)** osobom oddelegowanym do Policji, w zakresie zadań realizowanych w okresie oddelegowania,
@@ -1337,7 +1393,11 @@ source: pdf
 
 7. Dane, o których mowa w ust. 1, które nie mają znaczenia dla postępowania karnego, podlegają niezwłocznemu, komisyjnemu i protokolarnemu zniszczeniu.
 
-8. Dane, o których mowa w ust. 1, pobiera się i udostępnia się także organom ścigania państw członkowskich Unii Europejskiej i innych państw, agencjom Unii Europejskiej zajmującymi się zapobieganiem i zwalczaniem przestępczości oraz Międzynarodowej Organizacji Policji Kryminalnej – Interpol na ich wniosek, jeżeli następuje to w celu wykrywania przestępstw oraz ścigania ich sprawców, ratowania życia lub zdrowia ludzkiego albo poszukiwania osób zaginionych. Art. 20ca. 1. Kontrolę nad uzyskiwaniem przez Policję danych telekomunikacyjnych, pocztowych lub internetowych sprawuje sąd okręgowy właściwy dla siedziby organu Policji, któremu udostępniono te dane.
+8. Dane, o których mowa w ust. 1, pobiera się i udostępnia się także organom ścigania państw członkowskich Unii Europejskiej i innych państw, agencjom Unii Europejskiej zajmującymi się zapobieganiem i zwalczaniem przestępczości oraz Międzynarodowej Organizacji Policji Kryminalnej – Interpol na ich wniosek, jeżeli następuje to w celu wykrywania przestępstw oraz ścigania ich sprawców, ratowania życia lub zdrowia ludzkiego albo poszukiwania osób zaginionych.
+
+**Art. 20ca.**
+
+1. Kontrolę nad uzyskiwaniem przez Policję danych telekomunikacyjnych, pocztowych lub internetowych sprawuje sąd okręgowy właściwy dla siedziby organu Policji, któremu udostępniono te dane.
 
 2. Organ Policji, o którym mowa w ust. 1, przekazuje, z zachowaniem przepisów o ochronie informacji niejawnych, sądowi okręgowemu, o którym mowa w ust. 1, w okresach półrocznych, sprawozdanie obejmujące:
 
@@ -1348,7 +1408,11 @@ source: pdf
 
 4. Sąd okręgowy informuje organ Policji o wyniku kontroli w terminie 30 dni od jej zakończenia.
 
-5. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 20cb ust. 1. Art. 20cb. 1. W celu zapobiegania lub wykrywania przestępstw, przestępstw skarbowych albo w celu ratowania życia lub zdrowia ludzkiego bądź wsparcia działań poszukiwawczych lub ratowniczych, Policja może uzyskiwać dane:
+5. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 20cb ust. 1.
+
+**Art. 20cb.**
+
+1. W celu zapobiegania lub wykrywania przestępstw, przestępstw skarbowych albo w celu ratowania życia lub zdrowia ludzkiego bądź wsparcia działań poszukiwawczych lub ratowniczych, Policja może uzyskiwać dane:
 
 - **1)** o których mowa w art. 43 ust. 1 pkt 1 lit. a tiret drugie ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej,
 - **2)** o których mowa w art. 389 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej,
@@ -1357,7 +1421,13 @@ source: pdf
 
 2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, przepisy art. 20c ust. 2–8 stosuje się.
 
-**Art. 20d.** (uchylony) Art. 20da. 1. W celu poszukiwania osób zaginionych Policja może uzyskiwać dane telekomunikacyjne, pocztowe i internetowe oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą; przepisy art. 20c ust. 2–8 stosuje się. 2. Materiały uzyskane w wyniku czynności określonych w ust. 1, które nie zawierają informacji mających znaczenie dla poszukiwania osób zaginionych, podlegają niezwłocznemu komisyjnemu i protokolarnemu zniszczeniu.
+**Art. 20d.** (uchylony)
+
+**Art. 20da.**
+
+1. W celu poszukiwania osób zaginionych Policja może uzyskiwać dane telekomunikacyjne, pocztowe i internetowe oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą; przepisy art. 20c ust. 2–8 stosuje się.
+
+2. Materiały uzyskane w wyniku czynności określonych w ust. 1, które nie zawierają informacji mających znaczenie dla poszukiwania osób zaginionych, podlegają niezwłocznemu komisyjnemu i protokolarnemu zniszczeniu.
 
 **Art. 20e.**
 
@@ -1661,7 +1731,15 @@ source: pdf
 
 2. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. h, usuwa się ze zbiorów danych daktyloskopijnych, w przypadku odnalezienia lub ustalenia miejsca pobytu osoby zaginionej lub po upływie 55 lat od dnia rozpoczęcia ich przetwarzania w zbiorach danych daktyloskopijnych. Informacje te, w tym dane osobowe, usuwa się na wniosek jednostki organizacyjnej, służby, instytucji państwowej lub organu władzy publicznej prowadzącej poszukiwanie.
 
-**Art. 21n.** Usunięcia informacji, w tym danych osobowych, ze zbioru danych daktyloskopijnych, w tym zniszczenia kart daktyloskopijnych i chejroskopijnych, dokonuje komisja powołana przez Komendanta Głównego Policji, sporządzając z tych czynności protokół. Art. 21na. Zadania, o których mowa w art. 21a–21e oraz art. 21h–21n, Komendant Główny Policji realizuje przy pomocy CLKP. Art. 21nb. 1. Komendant Główny Policji prowadzi Krajowy System Informacyjny Policji, zwany dalej „KSIP”, będący zestawem zbiorów danych, w którym przetwarza się informacje, w tym dane osobowe, w związku z realizacją zadań ustawowych. 1a. W KSIP Policja może przetwarzać dane biometryczne w postaci:
+**Art. 21n.** Usunięcia informacji, w tym danych osobowych, ze zbioru danych daktyloskopijnych, w tym zniszczenia kart daktyloskopijnych i chejroskopijnych, dokonuje komisja powołana przez Komendanta Głównego Policji, sporządzając z tych czynności protokół.
+
+**Art. 21na.** Zadania, o których mowa w art. 21a–21e oraz art. 21h–21n, Komendant Główny Policji realizuje przy pomocy CLKP.
+
+**Art. 21nb.**
+
+1. Komendant Główny Policji prowadzi Krajowy System Informacyjny Policji, zwany dalej „KSIP”, będący zestawem zbiorów danych, w którym przetwarza się informacje, w tym dane osobowe, w związku z realizacją zadań ustawowych.
+
+1a. W KSIP Policja może przetwarzać dane biometryczne w postaci:
 
 - **1)** wizerunków osób w celu realizacji zadań, o których mowa w art. 1 ust. 2, w zakresie celów identyfikacyjnych lub weryfikacji tożsamości osób, której dotyczą realizowane zadania lub wykonywane czynności, o których mowa w art. 14 ust. 1 i 2, oraz jeżeli zadania Policji dotyczą celów określonych w art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości, także w zakresie realizacji celów wykrywczych lub dowodowych;
 - **2)** danych daktyloskopijnych w zakresie niezbędnym do powiązania informacji, w tym danych osobowych dotyczących osób lub śladów, o których mowa w art. 21h ust. 2 pkt 1, z danymi przetwarzanymi w zbiorach danych daktyloskopijnych, o których mowa w art. 21h w zakresie danych określonych w art. 21h ust. 2 pkt 2–5.
@@ -2586,7 +2664,9 @@ source: pdf
 
 3. Uposażenie oraz świadczenia i należności pieniężne, o których mowa w ust. 1 i ust. 2 pkt 3, nie przysługują policjantowi otrzymującemu za granicą wynagrodzenie na podstawie kontraktu zawartego z instytucją zagraniczną lub instytucją finansującą.
 
-4. Przepis ust. 1 stosuje się odpowiednio do policjanta oddelegowanego za granicę do wykonywania zadań zleconych przez instytucję zagraniczną albo zadań wynikających z programów finansowanych ze środków funduszy Unii Europejskiej, gdy okres oddelegowania trwa co najmniej rok, a wykonywanie zadań nie wymaga objęcia przez policjanta stanowiska w instytucji zagranicznej, w przypadku gdy wynagrodzenie to jest refundowane jednostce organizacyjnej Policji przez instytucję finansującą. Art. 36ma. Kierownik lub dyrektor generalny urzędu, jednostki organizacyjnej lub służby, do których oddelegowano policjanta, na wniosek Komendanta Głównego Policji lub upoważnionej przez niego osoby przesyła informacje dotyczące oceny wykonywania przez policjanta zadań i obowiązków w czasie trwania oddelegowania, w celu i zakresie niezbędnym do sporządzenia opinii służbowej.
+4. Przepis ust. 1 stosuje się odpowiednio do policjanta oddelegowanego za granicę do wykonywania zadań zleconych przez instytucję zagraniczną albo zadań wynikających z programów finansowanych ze środków funduszy Unii Europejskiej, gdy okres oddelegowania trwa co najmniej rok, a wykonywanie zadań nie wymaga objęcia przez policjanta stanowiska w instytucji zagranicznej, w przypadku gdy wynagrodzenie to jest refundowane jednostce organizacyjnej Policji przez instytucję finansującą.
+
+**Art. 36ma.** Kierownik lub dyrektor generalny urzędu, jednostki organizacyjnej lub służby, do których oddelegowano policjanta, na wniosek Komendanta Głównego Policji lub upoważnionej przez niego osoby przesyła informacje dotyczące oceny wykonywania przez policjanta zadań i obowiązków w czasie trwania oddelegowania, w celu i zakresie niezbędnym do sporządzenia opinii służbowej.
 
 **Art. 36n.**
 
@@ -4596,7 +4676,9 @@ source: pdf
 
 1. Kara obniżenia stopnia oznacza obniżenie posiadanego stopnia policyjnego.
 
-2. Karę obniżenia stopnia można wymierzyć tylko obok kary wyznaczenia na niższe stanowisko służbowe, kary ostrzeżenia o niepełnej przydatności do służby albo kary wydalenia ze służby. Art. 134ea. Kara ostrzeżenia o niepełnej przydatności do służby oznacza wytknięcie ukaranemu niewłaściwego postępowania i uprzedzenie go, że jeżeli ponownie popełni przewinienie dyscyplinarne, zostanie wydalony ze służby.
+2. Karę obniżenia stopnia można wymierzyć tylko obok kary wyznaczenia na niższe stanowisko służbowe, kary ostrzeżenia o niepełnej przydatności do służby albo kary wydalenia ze służby.
+
+**Art. 134ea.** Kara ostrzeżenia o niepełnej przydatności do służby oznacza wytknięcie ukaranemu niewłaściwego postępowania i uprzedzenie go, że jeżeli ponownie popełni przewinienie dyscyplinarne, zostanie wydalony ze służby.
 
 **Art. 134f.** Kara wydalenia ze służby oznacza zwolnienie ze służby w Policji.
 
@@ -4628,7 +4710,11 @@ source: pdf
 - **3)** brak należytego doświadczenia zawodowego lub dostatecznych umiejętności zawodowych;
 - **4)** dobrowolne poinformowanie przełożonego dyscyplinarnego o popełnieniu przewinienia dyscyplinarnego przed wszczęciem postępowania dyscyplinarnego.
 
-4. Przełożony dyscyplinarny uwzględnia okoliczności, o których mowa w ust. 1– 3, wyłącznie w stosunku do policjanta, którego one dotyczą. Art. 134ha. 1. Podstawę wszelkich rozstrzygnięć w postępowaniach dyscyplinarnych stanowią ustalenia faktyczne.
+4. Przełożony dyscyplinarny uwzględnia okoliczności, o których mowa w ust. 1– 3, wyłącznie w stosunku do policjanta, którego one dotyczą.
+
+**Art. 134ha.**
+
+1. Podstawę wszelkich rozstrzygnięć w postępowaniach dyscyplinarnych stanowią ustalenia faktyczne.
 
 2. Przełożony dyscyplinarny i rzecznik dyscyplinarny kształtują swoje przekonanie na podstawie wszystkich przeprowadzonych dowodów, ocenianych swobodnie, z uwzględnieniem zasad prawidłowego rozumowania oraz wskazań wiedzy i doświadczenia życiowego.
 
@@ -4854,7 +4940,11 @@ source: pdf
 
 9. Nieusprawiedliwiona nieobecność obwinionego w służbie, zwolnienie obwinionego od zajęć służbowych z powodu choroby oraz nieusprawiedliwione niestawiennictwo na wezwanie rzecznika dyscyplinarnego nie wstrzymują biegu postępowania dyscyplinarnego, a czynności, w których jest przewidziany udział obwinionego, nie przeprowadza się albo przeprowadza się w miejscu jego pobytu.
 
-10. Choroba obwinionego, świadka i innego uczestnika postępowania dyscyplinarnego stwierdzona zwolnieniem lekarskim usprawiedliwia nieobecność tych osób podczas czynności objętych danym postępowaniem przez okresy nie dłuższe niż łącznie 14 dni w ciągu całego postępowania dyscyplinarnego. Usprawiedliwienie nieobecności z powodu choroby za każdy następny jej okres wymaga przedstawienia zaświadczenia wystawionego przez lekarza uprawnionego do wystawiania zaświadczeń potwierdzających niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie karne. Art. 135fa. 1. Przełożony dyscyplinarny może wydać orzeczenie bez wszczynania postępowania dyscyplinarnego, jeżeli okoliczności popełnionego czynu i wina policjanta nie budzą wątpliwości oraz nie zachodzi potrzeba wymierzenia kary dyscyplinarnej surowszej niż nagana.
+10. Choroba obwinionego, świadka i innego uczestnika postępowania dyscyplinarnego stwierdzona zwolnieniem lekarskim usprawiedliwia nieobecność tych osób podczas czynności objętych danym postępowaniem przez okresy nie dłuższe niż łącznie 14 dni w ciągu całego postępowania dyscyplinarnego. Usprawiedliwienie nieobecności z powodu choroby za każdy następny jej okres wymaga przedstawienia zaświadczenia wystawionego przez lekarza uprawnionego do wystawiania zaświadczeń potwierdzających niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie karne.
+
+**Art. 135fa.**
+
+1. Przełożony dyscyplinarny może wydać orzeczenie bez wszczynania postępowania dyscyplinarnego, jeżeli okoliczności popełnionego czynu i wina policjanta nie budzą wątpliwości oraz nie zachodzi potrzeba wymierzenia kary dyscyplinarnej surowszej niż nagana.
 
 2. W przypadkach, o których mowa w ust. 1, orzeczenie wydaje się po wysłuchaniu policjanta i złożeniu przez niego wyjaśnienia na piśmie oraz wyrażeniu pisemnej zgody na poddanie się karze dyscyplinarnej bez prowadzenia postępowania dyscyplinarnego.
 
@@ -4896,9 +4986,17 @@ source: pdf
 
 4. Przełożony dyscyplinarny wydaje postanowienie o podjęciu zawieszonego postępowania dyscyplinarnego po ustaniu przeszkody, o której mowa w ust. 3.
 
-5. Postanowienie o podjęciu zawieszonego postępowania dyscyplinarnego w sprawie obwinionego przeniesionego do innej jednostki organizacyjnej Policji wydaje się niezwłocznie po otrzymaniu materiałów postępowania dyscyplinarnego wszczętego w poprzednim miejscu służby obwinionego. Art. 135ha. 1. Jeżeli przeciwko obwinionemu jest prowadzone postępowanie dyscyplinarne obejmujące zarzuty popełnienia dwóch lub więcej czynów, a zebrane na danym etapie postępowania dowody dają podstawy do uznania obwinionego winnym popełnienia jednego z zarzuconych mu czynów, przełożony dyscyplinarny może, w drodze postanowienia, wyłączyć ten czyn do odrębnego postępowania dyscyplinarnego, bez względu na to, czy wyjaśniono wszystkie okoliczności dotyczące pozostałych czynów objętych postępowaniem.
+5. Postanowienie o podjęciu zawieszonego postępowania dyscyplinarnego w sprawie obwinionego przeniesionego do innej jednostki organizacyjnej Policji wydaje się niezwłocznie po otrzymaniu materiałów postępowania dyscyplinarnego wszczętego w poprzednim miejscu służby obwinionego.
 
-2. W przypadku, o którym mowa w ust. 1, zebrane w toku postępowania dyscyplinarnego dowody dotyczące wyłączonego czynu stają się dowodami odrębnego postępowania dyscyplinarnego. Art. 135hb. 1. Oczywiste omyłki pisarskie i rachunkowe w orzeczeniu lub postanowieniu można sprostować w każdym czasie w drodze postanowienia.
+**Art. 135ha.**
+
+1. Jeżeli przeciwko obwinionemu jest prowadzone postępowanie dyscyplinarne obejmujące zarzuty popełnienia dwóch lub więcej czynów, a zebrane na danym etapie postępowania dowody dają podstawy do uznania obwinionego winnym popełnienia jednego z zarzuconych mu czynów, przełożony dyscyplinarny może, w drodze postanowienia, wyłączyć ten czyn do odrębnego postępowania dyscyplinarnego, bez względu na to, czy wyjaśniono wszystkie okoliczności dotyczące pozostałych czynów objętych postępowaniem.
+
+2. W przypadku, o którym mowa w ust. 1, zebrane w toku postępowania dyscyplinarnego dowody dotyczące wyłączonego czynu stają się dowodami odrębnego postępowania dyscyplinarnego.
+
+**Art. 135hb.**
+
+1. Oczywiste omyłki pisarskie i rachunkowe w orzeczeniu lub postanowieniu można sprostować w każdym czasie w drodze postanowienia.
 
 2. Sprostowanie oczywistych omyłek pisarskich i rachunkowych w protokołach sporządzanych w toku postępowania dyscyplinarnego wymaga opisania tych omyłek przez osobę sporządzającą protokół przed jego podpisaniem. W przypadku ujawnienia omyłek pisarskich lub rachunkowych po podpisaniu protokołu prostuje się je w drodze postanowienia.
 
@@ -4968,7 +5066,12 @@ source: pdf
 
 - **1)** tymczasowego aresztowania obwinionego;
 - **2)** odmowy obwinionego stawienia się do raportu lub nieusprawiedliwionej nieobecności w wyznaczonym terminie raportu;
-- **3)** zaistnienia innej przeszkody uniemożliwiającej obwinionemu stawienie się do raportu w terminie 14 dni od dnia doręczenia postanowienia o zakończeniu czynności dowodowych. Art. 135ja. 1. Postępowanie dyscyplinarne umarza się, jeżeli:
+- **3)** zaistnienia innej przeszkody uniemożliwiającej obwinionemu stawienie się do raportu w terminie 14 dni od dnia doręczenia postanowienia o zakończeniu czynności dowodowych.
+
+**Art. 135ja.**
+
+1. Postępowanie dyscyplinarne umarza się, jeżeli:
+
 - **1)** nastąpiło przedawnienie wymierzenia kary dyscyplinarnej;
 - **2)** postępowanie dyscyplinarne wszczęto po upływie terminu, o którym mowa w art. 135 ust. 3;
 - **3)** ustalono, że czyn stanowiący przewinienie dyscyplinarne przypisany obwinionemu nie wypełnia znamion czynu stanowiącego przewinienie dyscyplinarne;
@@ -5088,7 +5191,11 @@ source: pdf
 
 6. W przypadku jednoczesnego wykonywania więcej niż jednej kary dyscyplinarnej zatarcie kar następuje z upływem terminu przewidzianego dla kary surowszej.
 
-7. Zatarcie kary dyscyplinarnej powoduje usunięcie z akt osobowych policjanta orzeczenia o ukaraniu. Orzeczenie o odstąpieniu od ukarania usuwa się z akt osobowych po upływie 6 miesięcy od dnia jego uprawomocnienia się, przepisy ust. 3 i 4 stosuje się odpowiednio. Art. 135qa. 1. Decyzję o zatarciu kary dyscyplinarnej w przypadku, o którym mowa w art. 135q ust. 3, wydaje przełożony dyscyplinarny, o którym mowa w art. 32 ust. 1.
+7. Zatarcie kary dyscyplinarnej powoduje usunięcie z akt osobowych policjanta orzeczenia o ukaraniu. Orzeczenie o odstąpieniu od ukarania usuwa się z akt osobowych po upływie 6 miesięcy od dnia jego uprawomocnienia się, przepisy ust. 3 i 4 stosuje się odpowiednio.
+
+**Art. 135qa.**
+
+1. Decyzję o zatarciu kary dyscyplinarnej w przypadku, o którym mowa w art. 135q ust. 3, wydaje przełożony dyscyplinarny, o którym mowa w art. 32 ust. 1.
 
 2. Decyzję o zatarciu kary dyscyplinarnej doręcza się policjantowi.
 
@@ -5223,7 +5330,11 @@ source: pdf
 
 1. Wydatki związane z udziałem kontyngentów policyjnych poza granicami państwa finansowane są z budżetu państwa, w części ministra właściwego do spraw wewnętrznych.
 
-2. Jeżeli środki finansowe na ten cel nie zostały uwzględnione w budżecie ministra właściwego do spraw wewnętrznych, zapewnia je Rada Ministrów. Art. 145ga. 1. Policjant delegowany do pełnienia służby poza granicami państwa w kontyngencie policyjnym, o którym mowa w art. 145a ust. 1 pkt 1–3, po powrocie do kraju podlega bezpłatnym badaniom lekarskim i psychologicznym.
+2. Jeżeli środki finansowe na ten cel nie zostały uwzględnione w budżecie ministra właściwego do spraw wewnętrznych, zapewnia je Rada Ministrów.
+
+**Art. 145ga.**
+
+1. Policjant delegowany do pełnienia służby poza granicami państwa w kontyngencie policyjnym, o którym mowa w art. 145a ust. 1 pkt 1–3, po powrocie do kraju podlega bezpłatnym badaniom lekarskim i psychologicznym.
 
 2. W przypadku odniesienia ran, kontuzji, urazu psychicznego lub schorzenia przez policjanta, o którym mowa w ust. 1, lub ze względu na jego stan psychofizyczny zgodnie ze wskazaniami lekarza policjant może być skierowany na bezpłatny turnus leczniczo-profilaktyczny wraz z pełnoletnim najbliższym członkiem rodziny w rozumieniu art. 4 pkt 12 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2023 r. poz. 2112).
 

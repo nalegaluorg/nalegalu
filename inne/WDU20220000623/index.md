@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Najwyższej Izbie Kontroli
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Najwyższej Izbie Kontroli
 
 *USTAWA z dnia 23 grudnia 1994 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-03-17 |
 | Ostatnia zmiana | 2026-04-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000623) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/623/text.pdf) |
-
-Art. 99–102. (pominięte)
 
 #### Rozdział 1 Zadania i zakres działania
 
@@ -1364,6 +1362,8 @@ Art. 99–102. (pominięte)
 **Art. 98.** Kto osobie uprawnionej do kontroli, o której mowa w niniejszej ustawie, lub osobie przybranej jej do pomocy udaremnia lub utrudnia wykonanie czynności służbowej, w szczególności przez nieprzedstawienie do kontroli dokumentów lub materiałów, nie informuje bądź niezgodnie z prawdą informuje o wykonaniu wniosków pokontrolnych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 99–102.** (pominięte)
 
 **Art. 103.**
 

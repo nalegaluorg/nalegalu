@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rzeczach znalezionych
+# Ustawa z dnia 20 lutego 2015 r. o rzeczach znalezionych
 
 *USTAWA z dnia 20 lutego 2015 r.*
 
@@ -138,7 +138,9 @@ source: pdf
 
 **Art. 21.** [1. W przypadku znalezienia pieniędzy, właściwy starosta sporządza ich opis zawierający liczbę banknotów lub monet, a także ich waluty i nominały. Po sporządzeniu opisu właściwy starosta wpłaca znalezione pieniądze na rachunek bankowy sum depozytowych.] <1. W przypadku znalezienia pieniędzy właściwy starosta sporządza ich opis zawierający liczbę banknotów lub monet, a także ich waluty i nominały. Po sporządzeniu opisu właściwy starosta wpłaca znalezione pieniądze w walucie polskiej na rachunek bankowy sum depozytowych. W przypadku znalezienia pieniędzy w walucie obcej właściwy starosta, po sporządzeniu opisu, wpłaca znalezione pieniądze na rachunek bankowy sum depozytowych albo przechowuje je zabezpieczone w kasie pancernej, skrytce sejfowej lub niezwłocznie oddaje na przechowanie bankowi.> 2. W przypadku znalezienia papierów wartościowych, właściwy starosta sporządza ich opis zawierający liczbę i rodzaj dokumentów ze wskazaniem ich wartości, numeru serii lub innego właściwego oznaczenia, oznaczenie emitenta lub wystawcy dokumentu oraz osoby uprawnionej według jego treści. 3. W przypadku znalezienia papieru wartościowego lub innego dokumentu, którego posiadanie legitymuje do świadczenia, właściwy starosta niezwłocznie zawiadamia emitenta lub wystawcę dokumentu, podając dokładne oznaczenie tego dokumentu. 4. W przypadku znalezienia złota, platyny, srebra, w tym monet, wyrobów użytkowych ze złota, platyny lub srebra, kamieni szlachetnych, pereł oraz koralu, właściwy starosta sporządza ich szczegółowy opis. 5. Rzeczy znalezione, o których mowa w ust. 2–4, przechowuje się zabezpieczone w kasie pancernej, w skrytce sejfowej lub niezwłocznie oddaje na przechowanie bankowi.
 
-#### Rozdział 4 [Postępowanie z rzeczami o wartości historycznej, naukowej lub artystycznej] <Postępowanie z rzeczami stanowiącymi zabytek lub materiał archiwalny, dokumentami zawierającymi dane osobowe oraz rzeczami umożliwiającymi dostęp do pomieszczeń, pojazdów i innych zamykanych przedmiotów> [Art. 22. W przypadku przypuszczenia, że rzecz znaleziona stanowi rzecz o wartości historycznej, naukowej lub artystycznej, właściwy starosta w terminie 7 dni od dnia powzięcia wiadomości o znalezieniu rzeczy zawiadamia właściwego miejscowo wojewódzkiego konserwatora zabytków.] <Art. 22. W przypadku przypuszczenia, że rzecz znaleziona stanowi zabytek lub materiał archiwalny, właściwy starosta w terminie 7 dni od dnia powzięcia wiadomości o znalezieniu rzeczy zawiadamia właściwego miejscowo wojewódzkiego konserwatora zabytków.>
+#### Rozdział 4 [Postępowanie z rzeczami o wartości historycznej, naukowej lub artystycznej] <Postępowanie z rzeczami stanowiącymi zabytek lub materiał archiwalny, dokumentami zawierającymi dane osobowe oraz rzeczami umożliwiającymi dostęp do pomieszczeń, pojazdów i innych zamykanych przedmiotów>
+
+**Art. 22.** W przypadku przypuszczenia, że rzecz znaleziona stanowi zabytek lub materiał archiwalny, właściwy starosta w terminie 7 dni od dnia powzięcia wiadomości o znalezieniu rzeczy zawiadamia właściwego miejscowo wojewódzkiego konserwatora zabytków.>
 
 **Art. 23.**
 

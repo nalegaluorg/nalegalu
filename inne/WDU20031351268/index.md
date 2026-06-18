@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rencie socjalnej
+# Ustawa z dnia 27 czerwca 2003 r. o rencie socjalnej
 
 *USTAWA z dnia 27 czerwca 2003 r.*
 
@@ -252,7 +252,9 @@ source: pdf
 - **1)** art. 12–14, art. 61, art. 78–81, art. 93 ust. 2, art. 98, art. 100 ust. 1 i 2, art. 101, art. 102 ust. 1, art. 104 ust. 4, art. 107, art. 114, art. 116 ust. 1b i 2, art. 118 ust. 1–5, art. 119 ust. 1, art. 121, art. 122 ust. 1, art. 126, art. 128, art. 129 ust. 1, art. 130 ust. 1, art. 133–135, art. 136a i art. 138–144 ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz przepisy wydane na podstawie art. 128a tej ustawy;
 - **2)** art. 80–82, art. 84 ust. 1, 1a, 4, 4a, 6–8e i 11 oraz art. 85 ustawy o systemie ubezpieczeń społecznych.
 
-**Art. 16.** W postępowaniu w sprawach o rentę socjalną oraz dodatek dopełniający stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że niniejsza ustawa stanowi inaczej. Art. 17–25. (pominięte)
+**Art. 16.** W postępowaniu w sprawach o rentę socjalną oraz dodatek dopełniający stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że niniejsza ustawa stanowi inaczej.
+
+**Art. 17–25.** (pominięte)
 
 **Art. 26.** (pominięty)
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Badań Medycznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Badań Medycznych
 
 | Pole | Wartość |
 |---|---|
@@ -35,7 +35,6 @@ poz. 1897), który stanowi: „Art. 41. Ustawa wchodzi w życie z dniem 1 styczn
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 21 lutego 2019 r.
 o Agencji Badań Medycznych
-Art. 34–40. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -657,6 +656,8 @@ Art. 34–40. (pominięte)
 3. Dokumenty, informacje lub wyjaśnienia, o których mowa w ust. 2 pkt 5, przedstawia się w terminie wskazanym w żądaniu, nie później niż w terminie 30 dni od dnia zgłoszenia żądania.
 
 #### Rozdział 6 Przepisy zmieniające
+
+**Art. 34–40.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe, dostosowujące i przepis końcowy
 

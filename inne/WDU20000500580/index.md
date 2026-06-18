@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowym Rejestrze Karnym
+# Ustawa z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym.
 
 *USTAWA z dnia 24 maja 2000 r.*
 
@@ -562,7 +562,9 @@ source: pdf
 
 **Art. 26.** (pominięty)
 
-**Art. 27.** (uchylony) Art. 28–30. (pominięte)
+**Art. 27.** (uchylony)
+
+**Art. 28–30.** (pominięte)
 
 **Art. 31.** Ilekroć w przepisach prawa jest mowa o „Centralnym Rejestrze Skazanych” lub „Centralnym Rejestrze Nieletnich”, należy przez to rozumieć „Krajowy Rejestr Karny”.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o organizacji rynków owoców i warzyw oraz rynku chmielu
+# Ustawa z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu
 
 *USTAWA z dnia 19 grudnia 2003 r.*
 
@@ -26,9 +26,6 @@ source: pdf
 | Data wydania | 2003-12-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032232221) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2221/text.pdf) |
-
-Art. 41–43. (pominięte)
-Art. 44–54. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -812,7 +809,11 @@ Art. 44–54. (pominięte)
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
 
+**Art. 41–43.** (pominięte)
+
 #### Rozdział 8 Przepisy przejściowe i końcowe
+
+**Art. 44–54.** (pominięte)
 
 **Art. 55.** Decyzje wydane na podstawie art. 11 ust. 1, art. 47 i art. 48 ustawy, o której mowa w art. 41 , tracą moc z dniem 1 stycznia 2004 r.
 

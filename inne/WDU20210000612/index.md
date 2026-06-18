@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu prac podwodnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 marca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu prac podwodnych
 
 | Pole | Wartość |
 |---|---|

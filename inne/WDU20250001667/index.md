@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o obligacjach
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o obligacjach
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 15 stycznia 2015 r.
 o obligacjach
-Art. 99–108. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -965,6 +964,8 @@ Art. 99–108. (pominięte)
 **Art. 98.** Kto, działając w imieniu banku-reprezentanta, nie dopełnia obowiązków, o których mowa w art. 84 ust. 1, podlega grzywnie do 5 000 000 zł.
 
 #### Rozdział 9 Przepisy zmieniające, przepis przejściowy i przepisy końcowe
+
+**Art. 99–108.** (pominięte)
 
 **Art. 109.** Do obligacji wyemitowanych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 

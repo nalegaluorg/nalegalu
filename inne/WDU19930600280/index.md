@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przedsiębiorstwach państwowych
+# Ustawa z dnia 29 maja 1993 r. o zmianie ustawy o przedsiębiorstwach państwowych.
 
 | Pole | Wartość |
 |---|---|

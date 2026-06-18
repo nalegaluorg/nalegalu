@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową oraz niektórych innych ustaw
+# Ustawa z dnia 10 czerwca 2010 r. o zmianie ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 czerwca 2010 r.*
 

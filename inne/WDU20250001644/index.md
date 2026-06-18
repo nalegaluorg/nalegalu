@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych
 
 *USTAWA z dnia 30 października 2002 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-11-27 |
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001644) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1644/text.pdf) |
-
-Art. 38–45. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -683,6 +681,8 @@ Art. 38–45. (pominięte)
 - **5)** wykorzystania dofinansowania niezgodnie z przeznaczeniem.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 38–45.** (pominięte)
 
 **Art. 46.** Do wniosków o jednorazowe odszkodowanie zgłoszonych przed dniem wejścia w życie ustawy stosuje się przepisy obowiązujące w dniu wydania orzeczenia o uszczerbku na zdrowiu lub stwierdzającego związek śmierci z wypadkiem albo chorobą zawodową.
 

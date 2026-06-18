@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o autostradach płatnych oraz o zmianie niektórych ustaw
+# Ustawa z dnia 14 listopada 2003 r. o zmianie ustawy o autostradach płatnych oraz niektórych ustaw
 
 *USTAWA z dnia 14 listopada 2003 r.*
 

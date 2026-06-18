@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie informacji w ochronie zdrowia
+# Ustawa z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia
 
 *USTAWA z dnia 28 kwietnia 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-06-02 |
 | Ostatnia zmiana | 2026-03-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111130657) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/657/text.pdf) |
-
-Art. 41–52. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1438,6 +1436,8 @@ Art. 41–52. (pominięte)
 6. Osoby wykonujące czynności w ramach przetwarzania jednostkowych danych medycznych przez jednostkę, o której mowa w ust. 2, są obowiązane do zachowania w tajemnicy jednostkowych danych medycznych, o których powzięły wiedzę.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 41–52.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

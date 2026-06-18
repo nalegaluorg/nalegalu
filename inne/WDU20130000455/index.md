@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o środkach ochrony roślin
+# Ustawa z dnia 8 marca 2013 r. o środkach ochrony roślin
 
 *USTAWA z dnia 8 marca 2013 r.*
 

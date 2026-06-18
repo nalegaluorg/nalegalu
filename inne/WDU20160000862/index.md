@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich
+# Ustawa z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich
 
 *USTAWA z dnia 13 maja 2016 r.*
 

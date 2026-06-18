@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 
 | Pole | Wartość |
 |---|---|

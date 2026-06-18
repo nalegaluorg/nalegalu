@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych
+# Ustawa z dnia 25 listopada 2015 r. o zmianie ustawy o podatku dochodowym od osób fizycznych
 
 *USTAWA z dnia 25 listopada 2015 r.*
 

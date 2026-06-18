@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo budowlane
+# Ustawa z dnia 22 lutego 2019 r. o zmianie ustawy - Prawo budowlane
 
 *USTAWA z dnia 22 lutego 2019 r.*
 

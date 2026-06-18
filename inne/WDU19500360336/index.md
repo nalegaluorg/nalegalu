@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie felczera
+# Ustawa z dnia 20 lipca 1950 r. o zawodzie felczera.
 
 *USTAWA z dnia 20 lipca 1950 r.*
 

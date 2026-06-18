@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o instytutach badawczych oraz ustawy – Prawo geologiczne i górnicze
+# Ustawa z dnia 16 grudnia 2016 r. o zmianie ustawy o instytutach badawczych oraz ustawy - Prawo geologiczne i górnicze
 
 *USTAWA z dnia 16 grudnia 2016 r.*
 

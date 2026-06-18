@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# z dnia 19 lutego 2010 r. Nr 57, poz.
+# Ustawa z dnia 19 lutego 2010 r. o zmianie ustawy - Ordynacja podatkowa
 
 *USTAWA Opracowano stawie Dz.U.*
 

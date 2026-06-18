@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19
+# Ustawa z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19
 
 *USTAWA z dnia 7 października 2020 r.*
 
@@ -47,13 +47,25 @@ source: pdf
 **Art. 4.** W ustawie z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2020 r. poz. 292, 400 i 462) wprowadza się następujące zmiany:
 
 - **1)** w art. 15 ust. 6 otrzymuje brzmienie: „6. Walne Zgromadzenie PLK SA powołuje Radę Nadzorczą PLK SA spośród osób wskazanych przez ministra właściwego do spraw transportu oraz powołuje w jej skład jednego przedstawiciela ministra właściwego do spraw finansów publicznych. Liczbę członków Rady Nadzorczej PLK SA określa statut.”;
-- **2)** po rozdziale 4d dodaje się rozdział 4e w brzmieniu: „Rozdział 4e Zasady przekazywania PLK SA środków budżetu państwa na podwyższenie kapitału zakładowego PLK SA Art. 33za. 1. W roku 2020 minister właściwy do spraw aktywów państwowych przekazuje, na wniosek ministra właściwego do spraw transportu, środki z budżetu państwa, w wysokości 850 000 tys. zł, z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
+- **2)** po rozdziale 4d dodaje się rozdział 4e w brzmieniu: „Rozdział 4e Zasady przekazywania PLK SA środków budżetu państwa na podwyższenie kapitału zakładowego PLK SA
+
+**Art. 33za.**
+
+1. W roku 2020 minister właściwy do spraw aktywów państwowych przekazuje, na wniosek ministra właściwego do spraw transportu, środki z budżetu państwa, w wysokości 850 000 tys. zł, z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
 
 2. Środki, o których mowa w ust. 1, przeznacza się na inwestycje kapitałowe realizowane przez PLK SA, polegające na podwyższeniu kapitału zakładowego spółek zależnych PLK SA w rozumieniu Kodeksu spółek handlowych i objęciu przez PLK SA nowo utworzonych udziałów w podwyższonym kapitale zakładowym.
 
-3. Środki pochodzące z podwyższenia kapitału zakładowego, o którym mowa w ust. 2, spółki zależne PLK SA przeznaczają na zakup środków trwałych w postaci maszyn i urządzeń lub nieruchomości w celu zwiększenia potencjału realizowanych przez nie inwestycji. Art. 33zb. 1. W roku 2020 minister właściwy do spraw aktywów państwowych przekazuje, na wniosek ministra właściwego do spraw transportu, środki z budżetu państwa, w wysokości 1 000 000 tys. zł, z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
+3. Środki pochodzące z podwyższenia kapitału zakładowego, o którym mowa w ust. 2, spółki zależne PLK SA przeznaczają na zakup środków trwałych w postaci maszyn i urządzeń lub nieruchomości w celu zwiększenia potencjału realizowanych przez nie inwestycji.
 
-2. Środki, o których mowa w ust. 1, przeznacza się na zadania w zakresie budowy, przebudowy, rozbudowy lub modernizacji przystanków kolejowych oraz infrastruktury towarzyszącej, realizowane w ramach programów wieloletnich, o których mowa w art. 136 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. Art. 33zc. 1. Akcje w podwyższonym kapitale zakładowym PLK SA obejmuje Skarb Państwa.
+**Art. 33zb.**
+
+1. W roku 2020 minister właściwy do spraw aktywów państwowych przekazuje, na wniosek ministra właściwego do spraw transportu, środki z budżetu państwa, w wysokości 1 000 000 tys. zł, z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
+
+2. Środki, o których mowa w ust. 1, przeznacza się na zadania w zakresie budowy, przebudowy, rozbudowy lub modernizacji przystanków kolejowych oraz infrastruktury towarzyszącej, realizowane w ramach programów wieloletnich, o których mowa w art. 136 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+**Art. 33zc.**
+
+1. Akcje w podwyższonym kapitale zakładowym PLK SA obejmuje Skarb Państwa.
 
 2. Do podwyższenia kapitału zakładowego PLK SA stosuje się przepisy Kodeksu spółek handlowych.”.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych
+# Ustawa z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych
 
 *USTAWA z dnia 8 marca 2013 r.*
 
@@ -252,9 +252,15 @@ source: pdf
 
 5. Minister właściwy do spraw gospodarki podaje do publicznej wiadomości, w Biuletynie Informacji Publicznej, na stronie podmiotowej urzędu obsługującego tego ministra, zbiorcze zestawienie sprawozdań, o których mowa w ust. 1, corocznie w terminie do dnia 31 sierpnia.
 
-6. Sprawozdanie, o którym mowa w ust. 1, jest przekazywane ministrowi właściwemu do spraw gospodarki przy użyciu formularzy elektronicznych udostępnianych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra lub za pośrednictwem elektronicznej platformy usług administracji publicznej w rozumieniu art. 3 pkt 13 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123 i 1234). Art. 13aa. 1. Podmiot, który przekazał sprawozdanie, o którym mowa w art. 13a ust. 1, składa korektę tego sprawozdania, jeżeli co najmniej w jednej pozycji przekazanego sprawozdania dane uległy zmianie o co najmniej 10% wartości, z wyłączeniem przypadku, o którym mowa w art. 13ab. Przepis art. 13a stosuje się odpowiednio.
+6. Sprawozdanie, o którym mowa w ust. 1, jest przekazywane ministrowi właściwemu do spraw gospodarki przy użyciu formularzy elektronicznych udostępnianych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra lub za pośrednictwem elektronicznej platformy usług administracji publicznej w rozumieniu art. 3 pkt 13 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123 i 1234).
 
-2. Korektę sprawozdania, o którym mowa w art. 13a ust. 1, składa się wraz z uzasadnieniem przyczyn korekty. Art. 13ab. Jeżeli wartości świadczeń pieniężnych zawarte w sprawozdaniu, o którym mowa w art. 13a ust. 1, uległy zmianie w latach następujących po roku, za który złożono sprawozdanie, zmiany te uwzględnia się w sprawozdaniu za rok, w którym świadczenie pieniężne w zakresie zmienionej wartości jest wymagalne.
+**Art. 13aa.**
+
+1. Podmiot, który przekazał sprawozdanie, o którym mowa w art. 13a ust. 1, składa korektę tego sprawozdania, jeżeli co najmniej w jednej pozycji przekazanego sprawozdania dane uległy zmianie o co najmniej 10% wartości, z wyłączeniem przypadku, o którym mowa w art. 13ab. Przepis art. 13a stosuje się odpowiednio.
+
+2. Korektę sprawozdania, o którym mowa w art. 13a ust. 1, składa się wraz z uzasadnieniem przyczyn korekty.
+
+**Art. 13ab.** Jeżeli wartości świadczeń pieniężnych zawarte w sprawozdaniu, o którym mowa w art. 13a ust. 1, uległy zmianie w latach następujących po roku, za który złożono sprawozdanie, zmiany te uwzględnia się w sprawozdaniu za rok, w którym świadczenie pieniężne w zakresie zmienionej wartości jest wymagalne.
 
 **Art. 13b.**
 
@@ -285,7 +291,11 @@ source: pdf
 
 5. Minister właściwy do spraw gospodarki przekazuje Prezesowi Urzędu sprawozdania, o których mowa w art. 13a ust. 1, oraz informację o podmiotach, które nie złożyły w terminie tych sprawozdań, ze wskazaniem ich firmy (nazwy) i numeru identyfikacji podatkowej. Prezes Urzędu wykorzystuje przekazane informacje przy dokonywaniu analizy, o której mowa w ust. 3.
 
-6. Analizy, o której mowa w ust. 3, nie włącza się do akt postępowania. Art. 13ca. 1. Prezes Urzędu, bez wszczynania postępowania, może wystąpić do podmiotów, o których mowa w art. 2, niebędących podmiotami publicznymi, w sprawach z zakresu przeciwdziałania nadmiernemu opóźnianiu się ze spełnieniem świadczeń pieniężnych.
+6. Analizy, o której mowa w ust. 3, nie włącza się do akt postępowania.
+
+**Art. 13ca.**
+
+1. Prezes Urzędu, bez wszczynania postępowania, może wystąpić do podmiotów, o których mowa w art. 2, niebędących podmiotami publicznymi, w sprawach z zakresu przeciwdziałania nadmiernemu opóźnianiu się ze spełnieniem świadczeń pieniężnych.
 
 2. Podmiot, do którego Prezes Urzędu skierował wystąpienie, może w terminie określonym przez Prezesa Urzędu przekazać stanowisko w sprawie, której dotyczy to wystąpienie.
 
@@ -461,7 +471,9 @@ source: pdf
 
 10. Przepisów działu IVa w tytule VII, księdze pierwszej, części pierwszej ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego nie stosuje się. Od decyzji Prezesa Urzędu, o których mowa w ustawie, przysługuje skarga do wojewódzkiego sądu administracyjnego.
 
-11. W sprawie zakończonej prawomocną decyzją o nałożeniu administracyjnej kary pieniężnej, o której mowa w ust. 1, na wniosek strony postępowania wznawia się postępowanie, jeżeli na skutek prawomocnego orzeczenia sądu powszechnego, ugody zawartej przed tym sądem albo zatwierdzonej przez ten sąd, wyroku sądu arbitrażowego (polubownego) albo ugody przed nim zawartej po uznaniu albo stwierdzeniu wykonalności tego wyroku albo tej ugody przez sąd powszechny, wartość niespełnionego lub spełnionego po terminie świadczenia pieniężnego okazała się niższa niż przyjęta zgodnie z ust. 2 i 2a do obliczenia maksymalnej wysokości administracyjnej kary pieniężnej, o której mowa w ust. 1. W takim przypadku Prezes Urzędu obniża wysokość nałożonej kary proporcjonalnie o udział obniżonej wartości świadczenia pieniężnego w maksymalnej wysokości kary oraz wydaje decyzję w przedmiocie zwrotu nadpłaconej kary. Art. 13va. Wykaz świadczeń pieniężnych poddanych analizie w toku postępowania wraz z danymi pozwalającymi na identyfikację danego świadczenia jest określony w załączniku do decyzji w sprawach, o których mowa w art. 13u i art. 13v ust. 1, 7 i 11. Załącznik może zawierać wykaz poddanych analizie przez Prezesa Urzędu długów i umów, do których nie stosuje się przepisów ustawy.
+11. W sprawie zakończonej prawomocną decyzją o nałożeniu administracyjnej kary pieniężnej, o której mowa w ust. 1, na wniosek strony postępowania wznawia się postępowanie, jeżeli na skutek prawomocnego orzeczenia sądu powszechnego, ugody zawartej przed tym sądem albo zatwierdzonej przez ten sąd, wyroku sądu arbitrażowego (polubownego) albo ugody przed nim zawartej po uznaniu albo stwierdzeniu wykonalności tego wyroku albo tej ugody przez sąd powszechny, wartość niespełnionego lub spełnionego po terminie świadczenia pieniężnego okazała się niższa niż przyjęta zgodnie z ust. 2 i 2a do obliczenia maksymalnej wysokości administracyjnej kary pieniężnej, o której mowa w ust. 1. W takim przypadku Prezes Urzędu obniża wysokość nałożonej kary proporcjonalnie o udział obniżonej wartości świadczenia pieniężnego w maksymalnej wysokości kary oraz wydaje decyzję w przedmiocie zwrotu nadpłaconej kary.
+
+**Art. 13va.** Wykaz świadczeń pieniężnych poddanych analizie w toku postępowania wraz z danymi pozwalającymi na identyfikację danego świadczenia jest określony w załączniku do decyzji w sprawach, o których mowa w art. 13u i art. 13v ust. 1, 7 i 11. Załącznik może zawierać wykaz poddanych analizie przez Prezesa Urzędu długów i umów, do których nie stosuje się przepisów ustawy.
 
 **Art. 13w.** Prezes Urzędu publikuje na stronie internetowej Urzędu Ochrony Konkurencji i Konsumentów treść postanowienia o wszczęciu postępowania oraz decyzji, o których mowa w ustawie, z wyłączeniem informacji stanowiących tajemnicę przedsiębiorstwa oraz innych informacji podlegających ochronie na podstawie odrębnych przepisów. Publikacja treści decyzji jest opatrzona informacją, czy decyzja jest prawomocna.
 
@@ -473,7 +485,9 @@ source: pdf
 
 3. W przypadku upływu terminu, o którym mowa w ust. 2, administracyjna kara pieniężna, o której mowa w art. 13t i art. 13v, podlega ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-4. W przypadku nieterminowego uiszczenia administracyjnej kary pieniężnej, o której mowa w art. 13t i art. 13v, odsetek nie nalicza się. Art. 13xa. Prezes Urzędu może na wniosek podmiotu, na który została nałożona administracyjna kara pieniężna, odroczyć uiszczenie nałożonej kary albo rozłożyć ją na raty ze względu na ważny interes wnioskodawcy. Przepisy art. 113 ust. 1a–7 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów stosuje się odpowiednio.
+4. W przypadku nieterminowego uiszczenia administracyjnej kary pieniężnej, o której mowa w art. 13t i art. 13v, odsetek nie nalicza się.
+
+**Art. 13xa.** Prezes Urzędu może na wniosek podmiotu, na który została nałożona administracyjna kara pieniężna, odroczyć uiszczenie nałożonej kary albo rozłożyć ją na raty ze względu na ważny interes wnioskodawcy. Przepisy art. 113 ust. 1a–7 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów stosuje się odpowiednio.
 
 **Art. 13y.** W przypadku uchylenia albo stwierdzenia nieważności decyzji o nałożeniu administracyjnej kary pieniężnej, o której mowa w art. 13t albo art. 13v, albo zmiany tej decyzji polegającej na obniżeniu jej wysokości, uiszczona kara albo jej odpowiednia część podlega zwrotowi w terminie 30 dni od dnia doręczenia wezwania do jej zwrotu. Jeżeli uchylenia decyzji lub stwierdzenia jej nieważności dokonał sąd administracyjny, do wezwania dołącza się odpis wyroku sądu i, w uzasadnionym przypadku, postanowienie stwierdzające jego prawomocność. W przypadku zwrotu kary lub jej odpowiedniej części odsetek nie nalicza się.
 
@@ -481,7 +495,11 @@ source: pdf
 
 1. Kto, będąc odpowiedzialnym za przekazanie sprawozdania, o którym mowa w art. 13a ust. 1, dopuszcza do jego nieprzekazania w terminie, o którym mowa w tym przepisie, podlega karze grzywny.
 
-2. Tej samej karze podlega ten, kto utrudnia lub udaremnia wywiązanie się z obowiązku, o którym mowa w ust. 1. Art. 13za. Kto wbrew obowiązkowi, o którym mowa w art. 4c, nie składa oświadczenia, o którym mowa w tym przepisie, albo składa oświadczenie niezgodne ze stanem rzeczywistym, podlega karze grzywny. Art. 13zb. Orzekanie w sprawach o czyny, o których mowa w art. 13z i art. 13za, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
+2. Tej samej karze podlega ten, kto utrudnia lub udaremnia wywiązanie się z obowiązku, o którym mowa w ust. 1.
+
+**Art. 13za.** Kto wbrew obowiązkowi, o którym mowa w art. 4c, nie składa oświadczenia, o którym mowa w tym przepisie, albo składa oświadczenie niezgodne ze stanem rzeczywistym, podlega karze grzywny.
+
+**Art. 13zb.** Orzekanie w sprawach o czyny, o których mowa w art. 13z i art. 13za, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 **Art. 14.** (pominięty)
 

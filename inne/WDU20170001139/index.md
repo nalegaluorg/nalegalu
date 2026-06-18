@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury, ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
+# Ustawa z dnia 11 maja 2017 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury, ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 11 maja 2017 r.*
 

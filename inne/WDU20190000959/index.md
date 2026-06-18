@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw
+# Ustawa z dnia 26 kwietnia 2019 r. o zmianie ustawy - Prawo farmaceutyczne oraz niektórych innych ustaw
 
 *USTAWA z dnia 26 kwietnia 2019 r.*
 
@@ -49,7 +49,9 @@ source: pdf
 
 9. Organ zezwalający obciąża kontrolowanego kosztami udzielonej pomocy w drodze decyzji.
 
-10. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, sposób ustalania wysokości oraz sposób i tryb rozliczania kosztów udzielonej przez Policję lub Straż Graniczną pomocy w umożliwieniu dokonania inspekcji lub kontroli organowi zezwalającemu lub osobie upoważnionej do dokonywania tej inspekcji lub kontroli, mając na względzie rozmiar nakładów niezbędnych do udzielenia pomocy oraz potrzebę ich sprawnego rozliczenia. Art. 37atb. Instytucje państwowe i samorządowe są obowiązane w zakresie swojego działania do współpracy z organem zezwalającym przy wykonywaniu przez ten organ ustawowych zadań, w szczególności do przekazania posiadanych dokumentów, danych lub informacji.”;
+10. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, sposób ustalania wysokości oraz sposób i tryb rozliczania kosztów udzielonej przez Policję lub Straż Graniczną pomocy w umożliwieniu dokonania inspekcji lub kontroli organowi zezwalającemu lub osobie upoważnionej do dokonywania tej inspekcji lub kontroli, mając na względzie rozmiar nakładów niezbędnych do udzielenia pomocy oraz potrzebę ich sprawnego rozliczenia.
+
+**Art. 37atb.** Instytucje państwowe i samorządowe są obowiązane w zakresie swojego działania do współpracy z organem zezwalającym przy wykonywaniu przez ten organ ustawowych zadań, w szczególności do przekazania posiadanych dokumentów, danych lub informacji.”;
 
 - **4)** po art. 78a dodaje się art. 78b w brzmieniu: „Art. 78b. Zakazane jest zaopatrywanie się w produkty lecznicze przez hurtownię farmaceutyczną od podmiotów innych niż określone w art. 78 ust. 1 pkt 1.”;
 - **5)** w art. 80 w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) gdy właściciel, wspólnik, współwłaściciel lub członek organu wnioskodawcy został prawomocnie skazany za przestępstwo, o którym mowa w art. 126b lub art. 126c.”;

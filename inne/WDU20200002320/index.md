@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o doręczeniach elektronicznych
+# Ustawa z dnia 18 listopada 2020 r. o doręczeniach elektronicznych
 
 *USTAWA z dnia 18 listopada 2020 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2020-12-22 |
 | Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002320) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2320/text.pdf) |
-
-Art. 61–146. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -911,6 +909,8 @@ Art. 61–146. (pominięte)
 6. Dane, o których mowa w art. 58 ust. 1 pkt 3, są udostępniane operatorowi wyznaczonemu i kwalifikowanym dostawcom usług zaufania świadczącym kwalifikowaną usługę rejestrowanego doręczenia elektronicznego, dysponującym przekazanym przez nadawcę adresem do doręczeń elektronicznych adresata, w celu przekazania wiadomości do operatora wyznaczonego albo kwalifikowanego dostawcy usług zaufania świadczącego kwalifikowaną usługę rejestrowanego doręczenia elektronicznego, obsługującego adresata.
 
 #### Rozdział 7 Zmiany w przepisach
+
+**Art. 61–146.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe, dostosowujące i przepis końcowy
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# z dnia 23 października 2009 r. Nr 221, poz.
+# Ustawa z dnia 23 października 2009 r. o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi
 
 *USTAWA Opracowano stawie Dz.U.*
 

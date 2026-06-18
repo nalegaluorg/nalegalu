@@ -220,7 +220,6 @@ idodatkowego obciążenia fizycznego lub psychicznego pracowników. § 61. 1. Je
 ochronnego lub przy jego nieodpowiednim stosowaniu jest niedopuszczalne. 4. Pasy pędne, liny i taśmy pędne mogą być napinane, naprawiane, łączone, skracane i smarowane po
 4. Szczegółowe wymagania dla urządzeń ochron- unieruchomieniu napędu maszyny.
 nych określają Polskie Normy.
-§ 57. Maszyny i narzędzia oraz ich urządzenia ochronne powinny być utrzymywane w stanie spraw- Transport wewnętrzny imagazynowanie ności technicznej i czystości zapewniającej użytkowanie ich bez szkody dla bezpieczeństwa i zdrowia pra- § 62. 1. Pracodawca powinien zapewnić zastosowacowników oraz stosowane tylko wprocesach iwarun- nie odpowiednich rozwiązań organizacyjnych i techkach, do których są przeznaczone. nicznych, zwłaszcza w zakresie wyposażenia technicznego, wcelu wyeliminowania potrzeby ręcznego prze§ 58. 1. Odostrzeżonych wadach lub uszkodzeniach mieszczania ciężarów.
 maszyny pracownik powinien niezwłocznie zawiadomić przełożonego. 2. Jeśli nie ma możliwości uniknięcia ręcznego przemieszczania ciężarów, należy podjąć odpowiednie
 2. Maszyny, których uszkodzenie stwierdzono przedsięwzięcia, wtym wyposażyć pracowników wniewczasie pracy, powinny być niezwłocznie zatrzymane zbędne środki wcelu zmniejszenia uciążliwości izagroiwyłączone zzasilania energią. Wznowienie pracy ma- żeń związanych zwykonywaniem tych czynności.
 szyny bez usunięcia uszkodzenia jest niedopuszczalne.
@@ -413,7 +412,6 @@ Dziennik Ustaw Nr 169 — 11636 — Poz. 1650
 § 19. 1. Komunikat słowny wysyłany przez nadaw- — do przodu — oznaczające kierunek ruchu, który cę lub urządzenie emitujące do jednego lub wielu od- — do dołu jednocześnie powinien być skoordybiorców powinien mieć formę krótkich tekstów, zwro- — wprawo nowany z odpowiednimi sygnałami tów, słów pojedynczych lub grup słów. — wlewo ręcznymi,
 2. Komunikaty słowne powinny być możliwie jak — stop — oznaczające konieczność zatrzymania najkrótsze, najprostsze inajbardziej przejrzyste — przy- wnagłym przypadku.
 stosowane do zdolności werbalnej nadawcy i zdolności słyszenia odbiorcy lub odbiorców.
-3. Komunikat słowny może być przekazywany bez- Wymagania dotyczące pośrednio (wypowiadany przez człowieka) lub pośrednio (emitowany za pomocą odpowiedniego urządzenia). stosowania sygnałów ręcznych
 § 21. 1. Sygnał ręczny powinien być precyzyjny,
 § 20. 1. Osoby, będące nadawcami iodbiorcami ko- prosty, łatwy do wykonania i do zrozumienia, a także munikatu powinny dobrze znać język, w którym jest odróżniać się od innych sygnałów.
 sformułowany, aby mogły go poprawnie wymówić oraz zrozumieć iwefekcie przyjąć odpowiednie zacho- 2. Jeśli podczas sygnału ręcznego konieczne jest wanie zgodne zwymaganiami bezpieczeństwa iochrony zdrowia. używanie obu rąk naraz — ich użycie powinno odbywać się wsposób symetryczny idotyczyć tylko jedne2. Jeżeli komunikat słowny jest używany zamiast go sygnału.
@@ -469,7 +467,6 @@ szczególne wymagania higienicznosanitarne. 3) ruch użytkowników szatni przepu
 2. Szatnia, októrej mowa wust. 1, powinna być wy- obu jej częściami powinien odbywać się wyłącznie posażona w szafy przeznaczone do indywidualnego przez zespół sanitarny znatryskami.
 użytku każdego pracownika. 3. Dla pracowników mających kontakt zsubstancja3. Wpomieszczeniu szatni, októrej mowa wust. 1, mi trującymi lub zakaênymi powinna być przeznaczona powinno przypadać co najmniej 0,3 m wolnej po- odrębna szatnia przepustowa, spełniająca wymagania wierzchni podłogi na każdego pracownika korzystają- określone wust. 2.
 cego ztej szatni.
-4. Szatnia odzieży roboczej i ochronnej powinna mieć bezpośrednie połączenie z umywalnią, z natry- Umywalnie ipomieszczenia znatryskami skami iszatnią odzieży własnej pracowników.
 § 17. W skład zespołu szatni powinny wchodzić Szatnie podstawowe umywalnie łatwo dostępne dla pracowników i zapewniające bezkolizyjny ruch pracowników już umytych
 § 14. 1. Szatnia podstawowa może być urządzona iprzebranych wodzież własną.
 zamiast osobnych szatni odzieży własnej pracowników oraz szatni odzieży roboczej iochronnej dla zatrudnio- § 18. 1. Umywalnia powinna być wyposażona nych przy pracach, podczas których zabrudzenie odzie- wumywalki emaliowane lub wykonane zmateriału odży roboczej iśrodków ochrony indywidualnej występu- pornego na korozję, zgodne zPolską Normą.
@@ -540,7 +537,7 @@ Szanowni Państwo Ceny brutto prenumeraty na 2003 r. (w tym 7% VAT): ISSN 0867-3
 
 #### Rozdział 3 § 55. 1. Elementy ruchome i inne części maszyn, które wrazie zetknięcia się znimi stwarzają zagrożenie, Obsługa istosowanie maszyn, narzędzi powinny być do wysokości co najmniej 2,5 mod pozioiinnych urządzeń technicznych mu podłogi (podestu) stanowiska pracy osłonięte lub
 
-#### Rozdział 4
+#### Rozdział 4 § 57. Maszyny i narzędzia oraz ich urządzenia ochronne powinny być utrzymywane w stanie spraw- Transport wewnętrzny imagazynowanie ności technicznej i czystości zapewniającej użytkowanie ich bez szkody dla bezpieczeństwa i zdrowia pra- § 62. 1. Pracodawca powinien zapewnić zastosowacowników oraz stosowane tylko wprocesach iwarun- nie odpowiednich rozwiązań organizacyjnych i techkach, do których są przeznaczone. nicznych, zwłaszcza w zakresie wyposażenia technicznego, wcelu wyeliminowania potrzeby ręcznego prze§ 58. 1. Odostrzeżonych wadach lub uszkodzeniach mieszczania ciężarów.
 
 #### Rozdział 5 Rozdział 6 Ochrona przed hałasem Prace szczególnie niebezpieczne
 
@@ -552,11 +549,11 @@ Szanowni Państwo Ceny brutto prenumeraty na 2003 r. (w tym 7% VAT): ISSN 0867-3
 
 #### Rozdział 6 — do góry — w znaczeniu Ńpodnieść ładunek do Wymagania dotyczące góry”, stosowania komunikatów słownych — do dołu — wznaczeniu Ńopuścić ładunek wdół”,
 
-#### Rozdział 7
+#### Rozdział 7 3. Komunikat słowny może być przekazywany bez- Wymagania dotyczące pośrednio (wypowiadany przez człowieka) lub pośrednio (emitowany za pomocą odpowiedniego urządzenia). stosowania sygnałów ręcznych
 
 #### Rozdział 1 dla kobiet i mężczyzn. Nie dotyczy to zakładu pracy, w którym jest zatrudnionych do dziesięciu pracowniPrzepisy ogólne ków na jednej zmianie — pod warunkiem zapewnienia możliwości osobnego korzystania przez kobiety imęż§ 1. 1. Pomieszczenia higienicznosanitarne po- czyzn ztych pomieszczeń.
 
-#### Rozdział 3
+#### Rozdział 3 4. Szatnia odzieży roboczej i ochronnej powinna mieć bezpośrednie połączenie z umywalnią, z natry- Umywalnie ipomieszczenia znatryskami skami iszatnią odzieży własnej pracowników.
 
 #### Rozdział 5 2. Jadalnia powinna być wyposażona w umywalki wilości nie mniejszej niż jedna umywalka na dwadzieJadalnie ścia miejsc siedzących wjadalni, lecz nie mniej niż jedna umywalka. Przy każdej umywalce powinny znajdo§ 29. 1. Pracodawca zatrudniający powyżej dwu- wać się ręczniki jednorazowe lub powinna być zainstadziestu pracowników na jednej zmianie powinien za- lowana suszarka do rąk.
 

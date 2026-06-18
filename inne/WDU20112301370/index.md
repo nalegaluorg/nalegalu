@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o timeshare
+# Ustawa z dnia 16 września 2011 r. o timeshare
 
 *USTAWA z dnia 16 września 2011 r.*
 

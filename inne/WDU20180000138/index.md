@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Służbie Ochrony Państwa
+# Ustawa z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa
 
 *USTAWA z dnia 8 grudnia 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-01-17 |
 | Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000138) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.pdf) |
-
-Art. 251–346. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -3932,6 +3930,8 @@ Art. 251–346. (pominięte)
 #### Rozdział 10
 
 #### Rozdział 11 Zmiany w przepisach
+
+**Art. 251–346.** (pominięte)
 
 #### Rozdział 12 Przepisy dostosowujące i przejściowe
 

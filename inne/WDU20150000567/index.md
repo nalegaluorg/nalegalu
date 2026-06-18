@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o społecznej inspekcji pracy W trosce o systematyczną poprawę stanu bezpieczeństwa i higieny pracy oraz w celu zapewnienia związkom zawodowym niezbędnych warunków do sprawowania skutecznej kontroli przestrzegania przepisów prawa pracy stanowi się, co następuje:
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 kwietnia 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o społecznej inspekcji pracy
 
 *USTAWA z dnia 24 czerwca 1983 r.*
 

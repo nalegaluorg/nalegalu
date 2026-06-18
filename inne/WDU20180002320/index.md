@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zwalczaniu dopingu w sporcie
+# Ustawa z dnia 6 grudnia 2018 r. o zmianie ustawy o zwalczaniu dopingu w sporcie
 
 *USTAWA z dnia 6 grudnia 2018 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Narodowych Obchodach Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej Parlament Rzeczypospolitej Polskiej, mając na względzie wagę wydarzeń roku 1918, gdy po 123 latach rozbiorów wysiłek wielu pokoleń Polek i Polaków zaowocował odzyskaniem niepodległości, a Państwo Polskie ponownie pojawiło się na mapie Europy, dostrzegając potrzebę uhonorowania setnej rocznicy tych wydarzeń, uznając za Ojców Niepodległości w szczególności Józefa Piłsudskiego, Ignacego Daszyńskiego, Romana Dmowskiego, Wojciecha Korfantego, Ignacego Jana Paderewskiego i Wincentego Witosa, oraz doceniając wkład, jaki w odzyskanie niepodległości wniosła generalicja Wojska Polskiego i duchowieństwo różnych wyznań, w tym szczególnie Kościoła Katolickiego, uchwala niniejszą ustawę.
+# Ustawa z dnia 7 kwietnia 2017 r. o Narodowych Obchodach Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 7 kwietnia 2017 r.*
 

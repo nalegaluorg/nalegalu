@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie bezpieczeństwa i higieny pracy przy magazynowaniu, napełnianiu i rozprowadzaniu gazów płynnych.
+# Rozporządzenie Ministra Gospodarki z dnia 6 września 1999 r. w sprawie bezpieczeństwa i higieny pracy przy magazynowaniu, napełnianiu i rozprowadzaniu gazów płynnych.
 
 | Pole | Wartość |
 |---|---|

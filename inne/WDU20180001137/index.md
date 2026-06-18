@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rejestracji jachtów i innych jednostek pływających o długości do 24 m
+# Ustawa z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m
 
 *USTAWA z dnia 12 kwietnia 2018 r.*
 

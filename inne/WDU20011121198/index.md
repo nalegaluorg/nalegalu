@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dostępie do informacji publicznej
+# Ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej.
 
 *USTAWA z dnia 6 września 2001 r.*
 

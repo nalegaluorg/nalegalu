@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansowaniu Katolickiego Uniwersytetu Lubelskiego z budżetu państwa
+# Ustawa z dnia 10 października 2008 r. o zmianie ustawy o finansowaniu Katolickiego Uniwersytetu Lubelskiego z budżetu państwa
 
 *USTAWA z dnia 10 października 2008 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowym Rejestrze Sądowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowym Rejestrze Sądowym
 
 *USTAWA z dnia 20 sierpnia 1997 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-07-02 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000869) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/869/text.pdf) |
-
-Art. 61–85. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1064,6 +1062,8 @@ Art. 61–85. (pominięte)
 **Art. 60a.** Kto bez uprawnienia uzyskuje z Rejestru informację za pośrednictwem usług sieciowych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących i przepisy końcowe
+
+**Art. 61–85.** (pominięte)
 
 **Art. 86.** Ilekroć w przepisach ustaw innych niż wymienione w niniejszym rozdziale jest mowa o rejestrach: handlowym, przedsiębiorstw państwowych, stowarzyszeń, fundacji, rozumie się przez to Krajowy Rejestr Sądowy.
 

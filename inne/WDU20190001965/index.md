@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Polskim Instytucie Spraw Międzynarodowych
+# Ustawa z dnia 11 września 2019 r. o zmianie ustawy o Polskim Instytucie Spraw Międzynarodowych
 
 *USTAWA z dnia 11 września 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi
 
 | Pole | Wartość |
 |---|---|
@@ -31,7 +31,6 @@ z 2023 r. poz. 2207), z uwzględnieniem zmian wprowadzonych ustawą z dnia 26 li
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 15 czerwca 2018 r.
 o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi
-Art. 123–126. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1259,6 +1258,8 @@ Art. 123–126. (pominięte)
 **Art. 122.** Kto nie dopełnia ciążącego na nim obowiązku złożenia oświadczenia, o którym mowa w art. 66 ust. 7, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
 #### Rozdział 15 Przepisy zmieniające, przejściowe i dostosowujące oraz przepis końcowy
+
+**Art. 123–126.** (pominięte)
 
 **Art. 127.** Postępowania administracyjne o udzielenie, zmianę lub cofnięcie zezwolenia, o którym mowa w art. 104 ust. 2 pkt 2 ustawy zmienianej w art. 123 , wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy podlegają umorzeniu z mocy prawa.
 

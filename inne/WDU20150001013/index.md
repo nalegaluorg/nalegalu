@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz ustawy o wspieraniu przedsiębiorców dotkniętych skutkami powodzi z 2010 r.
+# Ustawa z dnia 15 maja 2015 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz ustawy o wspieraniu przedsiębiorców dotkniętych skutkami powodzi z 2010 r.
 
 *USTAWA z dnia 15 maja 2015 r.*
 

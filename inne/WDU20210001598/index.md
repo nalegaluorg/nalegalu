@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw
+# Ustawa z dnia 8 lipca 2021 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw
 
 *USTAWA z dnia 8 lipca 2021 r.*
 
@@ -1446,7 +1446,11 @@ source: pdf
 
 5. Osoba sprzedająca PRIP lub osoba doradzająca w zakresie PRIP, w rozumieniu przepisów rozporządzenia nr 1286/2014, może proponować PRIP inwestorowi indywidualnemu, o którym mowa w art. 4 pkt 6 lit. a rozporządzenia nr 1286/2014, na podstawie dokumentu zawierającego kluczowe informacje, sporządzonego w języku określonym w decyzji Komisji wydanej na podstawie ust. 1, pod warunkiem przyjęcia, najpóźniej przed zawarciem pierwszej transakcji dotyczącej tego PRIP, oświadczenia od inwestora indywidualnego, że posługuje się on językiem, w którym sporządzono ten dokument, w stopniu umożliwiającym mu zrozumienie informacji zawartych w tym dokumencie.
 
-6. Oświadczenie, o którym mowa w ust. 5, złożone osobom, o których mowa w ust. 5, jest skuteczne również w odniesieniu do dokumentów zawierających kluczowe informacje odnoszących się do innych PRIP, sporządzonych w języku wskazanym w tym oświadczeniu, których sprzedaży te osoby dokonują lub w zakresie których doradzają. Art. 3bb. 1. W przypadku gdy wymaga tego ochrona uzasadnionych interesów inwestorów lub konieczność zapobieżenia zagrożeniu prawidłowego funkcjonowania rynku finansowego, Komisja, w drodze decyzji, może uchylić decyzję, o której mowa w art. 3ba ust. 1.
+6. Oświadczenie, o którym mowa w ust. 5, złożone osobom, o których mowa w ust. 5, jest skuteczne również w odniesieniu do dokumentów zawierających kluczowe informacje odnoszących się do innych PRIP, sporządzonych w języku wskazanym w tym oświadczeniu, których sprzedaży te osoby dokonują lub w zakresie których doradzają.
+
+**Art. 3bb.**
+
+1. W przypadku gdy wymaga tego ochrona uzasadnionych interesów inwestorów lub konieczność zapobieżenia zagrożeniu prawidłowego funkcjonowania rynku finansowego, Komisja, w drodze decyzji, może uchylić decyzję, o której mowa w art. 3ba ust. 1.
 
 2. Do decyzji, o której mowa w ust. 1, przepisy art. 3ba ust. 2–4 stosuje się odpowiednio.”;
 

@@ -27,17 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-03-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021531270) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.pdf) |
 
-§ 2. Do doręczania pism w postępowaniu sądowym przez operatora pocztowego, stosuje się tryb doręczania pism sądowych w postępowaniu cywilnym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
-§ 3. (uchylony)] <Art. 65. § 1. Sąd doręcza pisma na adres do doręczeń elektronicznych na zasadach określonych w art. 65a.
-§ 2. W przypadku braku możliwości doręczenia w sposób, o którym mowa w § 1, sąd doręcza pisma przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), przez swoich pracowników lub przez inne upoważnione przez sąd osoby lub organy.
-§ 3. Do doręczania pism w postępowaniu sądowym przez operatora pocztowego stosuje się tryb doręczania pism sądowych w postępowaniu cywilnym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.> <Art. 65a. § 1. Sąd doręcza stronie pisma na adres do doręczeń elektronicznych:
-1) wpisany do bazy adresów elektronicznych, a w przypadku pełnomocnika na adres do doręczeń elektronicznych wskazany w piśmie, albo
-2) powiązany z kwalifikowaną usługą rejestrowanego doręczenia elektronicznego, za pomocą której wniesiono pismo, jeżeli adres do doręczeń elektronicznych strony nie został wpisany do bazy adresów elektronicznych.
-§ 2. Doręczenia, o którym mowa w § 1, można dokonać wobec strony będącej osobą fizyczną tylko wtedy, gdy wniosła ona pismo z adresu do doręczeń elektronicznych albo wskazała ten adres jako adres do doręczeń. Nie dotyczy to doręczeń dla przedsiębiorców wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
-§ 3. Doręczenie pism przez sąd organowi, którego działanie, bezczynność lub przewlekłe prowadzenie postępowania zaskarżono, a także uczestniczącym w postępowaniu przed sądem prokuratorowi, Rzecznikowi Praw Obywatelskich, Rzecznikowi Praw Dziecka i Rzecznikowi Małych i Średnich Przedsiębiorców następuje na adres do doręczeń elektronicznych danego podmiotu wpisany do bazy adresów elektronicznych.
-§ 4. W przypadku doręczenia w sposób, o którym mowa w § 1, doręczenie jest skuteczne w dniu wystawienia dowodu otrzymania, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
-§ 5. W przypadku nieodebrania pisma przez adresata doręczenie uważa się za dokonane w dniu określonym w dowodzie otrzymania wystawionym automatycznie po upływie czternastu dni, licząc od dnia wpłynięcia pisma na adres do doręczeń elektronicznych.
-
 ### DZIAŁ I Przepisy wstępne
 
 #### Rozdział 1 Przepisy ogólne
@@ -638,7 +627,30 @@ source: pdf
 
 **Art. 64f.** Od postanowienia, do którego odpowiednie zastosowanie ma przepis art. 138 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, skarga nie przysługuje, jednakże strona niezadowolona z treści postanowienia może wnieść od niego sprzeciw, zwany dalej „sprzeciwem od postanowienia”. Przepisy art. 64b–64e stosuje się odpowiednio.
 
-#### Rozdział 4 Doręczenia [Art. 65. § 1. Sąd dokonuje doręczeń przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), przez swoich pracowników lub przez inne upoważnione przez sąd osoby lub organy albo za pomocą środków komunikacji elektronicznej, na warunkach określonych w art. 74a.
+#### Rozdział 4 Doręczenia
+
+**Art. 65.**
+
+§ 1. Sąd dokonuje doręczeń przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), przez swoich pracowników lub przez inne upoważnione przez sąd osoby lub organy albo za pomocą środków komunikacji elektronicznej, na warunkach określonych w art. 74a.
+
+§ 2. Do doręczania pism w postępowaniu sądowym przez operatora pocztowego, stosuje się tryb doręczania pism sądowych w postępowaniu cywilnym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
+
+§ 3. (uchylony)] <Art. 65. § 1. Sąd doręcza pisma na adres do doręczeń elektronicznych na zasadach określonych w art. 65a.
+
+§ 2. W przypadku braku możliwości doręczenia w sposób, o którym mowa w § 1, sąd doręcza pisma przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), przez swoich pracowników lub przez inne upoważnione przez sąd osoby lub organy.
+
+§ 3. Do doręczania pism w postępowaniu sądowym przez operatora pocztowego stosuje się tryb doręczania pism sądowych w postępowaniu cywilnym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.> <Art. 65a. § 1. Sąd doręcza stronie pisma na adres do doręczeń elektronicznych:
+
+- **1)** wpisany do bazy adresów elektronicznych, a w przypadku pełnomocnika na adres do doręczeń elektronicznych wskazany w piśmie, albo
+- **2)** powiązany z kwalifikowaną usługą rejestrowanego doręczenia elektronicznego, za pomocą której wniesiono pismo, jeżeli adres do doręczeń elektronicznych strony nie został wpisany do bazy adresów elektronicznych.
+
+§ 2. Doręczenia, o którym mowa w § 1, można dokonać wobec strony będącej osobą fizyczną tylko wtedy, gdy wniosła ona pismo z adresu do doręczeń elektronicznych albo wskazała ten adres jako adres do doręczeń. Nie dotyczy to doręczeń dla przedsiębiorców wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+
+§ 3. Doręczenie pism przez sąd organowi, którego działanie, bezczynność lub przewlekłe prowadzenie postępowania zaskarżono, a także uczestniczącym w postępowaniu przed sądem prokuratorowi, Rzecznikowi Praw Obywatelskich, Rzecznikowi Praw Dziecka i Rzecznikowi Małych i Średnich Przedsiębiorców następuje na adres do doręczeń elektronicznych danego podmiotu wpisany do bazy adresów elektronicznych.
+
+§ 4. W przypadku doręczenia w sposób, o którym mowa w § 1, doręczenie jest skuteczne w dniu wystawienia dowodu otrzymania, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+
+§ 5. W przypadku nieodebrania pisma przez adresata doręczenie uważa się za dokonane w dniu określonym w dowodzie otrzymania wystawionym automatycznie po upływie czternastu dni, licząc od dnia wpłynięcia pisma na adres do doręczeń elektronicznych.
 
 **Art. 65b.** Pisma sądu, odpisy pism i załączników w postępowaniu sądowym oraz orzeczeń doręczane przez sąd w postaci elektronicznej opatrzone są kwalifikowanym podpisem elektronicznym albo kwalifikowaną pieczęcią elektroniczną.> [Art. 66. § 1. W toku sprawy adwokaci, radcy prawni, doradcy podatkowi, rzecznicy patentowi i Prokuratoria Generalna Rzeczypospolitej Polskiej doręczają sobie nawzajem pisma bezpośrednio za potwierdzeniem odbioru i oznaczeniem daty lub przesyłką poleconą. W treści pisma procesowego wniesionego do sądu zamieszcza się oświadczenie o doręczeniu odpisu pisma drugiej stronie albo o jego nadaniu przesyłką poleconą. Pisma niezawierające powyższego oświadczenia podlegają zwrotowi bez wzywania do usunięcia tego braku.
 

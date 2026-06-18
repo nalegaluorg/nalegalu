@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości
+# Ustawa z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości
 
 *USTAWA z dnia 29 lipca 2005 r.*
 

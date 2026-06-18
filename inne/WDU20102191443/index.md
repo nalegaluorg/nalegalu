@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw
+# Ustawa z dnia 22 października 2010 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 października 2010 r.*
 

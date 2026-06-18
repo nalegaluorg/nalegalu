@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o konsultantach w ochronie zdrowia
+# Ustawa z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia
 
 *USTAWA z dnia 6 listopada 2008 r.*
 

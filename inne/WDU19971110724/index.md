@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie zwierząt
+# Ustawa z dnia 21 sierpnia 1997 r. o ochronie zwierząt.
 
 *USTAWA z dnia 21 sierpnia 1997 r.*
 
@@ -740,7 +740,9 @@ source: pdf
 2. Kto, będąc:
 
 - **1)** opiekunem w rozumieniu art. 2 lit. k rozporządzenia nr 1/2005, nie wypełnia obowiązków określonych w art. 8 tego rozporządzenia,
-- **2)** operatorem punktu gromadzenia zwierząt, nie wypełnia obowiązków określonych w art. 9 rozporządzenia nr 1/2005, podlega karze aresztu lub grzywny. Art. 37ba. Grzywny, o których mowa w art. 37b, pobierane przez organy Inspekcji Transportu Drogowego stanowią wpływy Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2022 r. poz. 2464).
+- **2)** operatorem punktu gromadzenia zwierząt, nie wypełnia obowiązków określonych w art. 9 rozporządzenia nr 1/2005, podlega karze aresztu lub grzywny.
+
+**Art. 37ba.** Grzywny, o których mowa w art. 37b, pobierane przez organy Inspekcji Transportu Drogowego stanowią wpływy Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2022 r. poz. 2464).
 
 **Art. 37c.** (uchylony)
 

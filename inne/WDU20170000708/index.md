@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
+# Ustawa z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
 
 *USTAWA z dnia 9 marca 2017 r.*
 
@@ -952,7 +952,9 @@ source: pdf
 
 3. Orzekanie w sprawie nałożenia grzywny, o której mowa w ust. 1, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977).
 
-**Art. 32a.** Grzywny, o których mowa w art. 32 ust. 1, pobierane przez organy Inspekcji Transportu Drogowego stanowią wpływy Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402). Art. 33–36. (pominięte)
+**Art. 32a.** Grzywny, o których mowa w art. 32 ust. 1, pobierane przez organy Inspekcji Transportu Drogowego stanowią wpływy Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402).
+
+**Art. 33–36.** (pominięte)
 
 **Art. 37.** Z dniem wejścia w życie ustawy tworzy się rejestr zgłoszeń.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw w zakresie uwierzytelniania dokumentów
+# Ustawa z dnia 23 października 2009 r. o zmianie ustaw w zakresie uwierzytelniania dokumentów
 
 *USTAWA z dnia 23 października 2009 r.*
 

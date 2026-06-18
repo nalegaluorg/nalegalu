@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nawozach i nawożeniu
+# Ustawa z dnia 10 lipca 2007 r. o nawozach i nawożeniu
 
 *USTAWA z dnia 10 lipca 2007 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2007-08-14 |
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071471033) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1033/text.pdf) |
-
-Art. 43–47. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -791,6 +789,8 @@ Art. 43–47. (pominięte)
 **Art. 42.** Orzekanie w sprawach określonych w art. 41 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 43–47.** (pominięte)
 
 **Art. 48.**
 

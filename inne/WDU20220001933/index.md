@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
+# Ustawa z dnia 22 lipca 2022 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 lipca 2022 r.*
 
@@ -754,7 +754,11 @@ source: pdf
 
 6. Dane, o których mowa w ust. 1, które mają znaczenie dla postępowania karnego, Szef IWSW przekazuje prokuratorowi właściwemu miejscowo albo rzeczowo. Prokurator podejmuje decyzję o zakresie i sposobie wykorzystania przekazanych danych.
 
-7. Dane, o których mowa w ust. 1, które nie mają znaczenia dla postępowania karnego, podlegają niezwłocznemu, komisyjnemu i protokolarnemu zniszczeniu. Art. 23za. 1. Kontrolę nad uzyskiwaniem przez IWSW danych telekomunikacyjnych, pocztowych lub internetowych sprawuje Sąd Okręgowy w Warszawie.
+7. Dane, o których mowa w ust. 1, które nie mają znaczenia dla postępowania karnego, podlegają niezwłocznemu, komisyjnemu i protokolarnemu zniszczeniu.
+
+**Art. 23za.**
+
+1. Kontrolę nad uzyskiwaniem przez IWSW danych telekomunikacyjnych, pocztowych lub internetowych sprawuje Sąd Okręgowy w Warszawie.
 
 2. Szef IWSW przekazuje, z zachowaniem przepisów o ochronie informacji niejawnych, Sądowi Okręgowemu w Warszawie w okresach półrocznych sprawozdanie obejmujące:
 
@@ -770,20 +774,32 @@ source: pdf
 
 5. Sąd Okręgowy w Warszawie informuje Szefa IWSW o wyniku kontroli w terminie 30 dni od dnia jej zakończenia.
 
-6. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 23zb ust. 1. Art. 23zb. 1. W celu rozpoznawania i wykrywania przestępstw oraz zapobiegania im Szef IWSW może uzyskiwać dane:
+6. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 23zb ust. 1.
+
+**Art. 23zb.**
+
+1. W celu rozpoznawania i wykrywania przestępstw oraz zapobiegania im Szef IWSW może uzyskiwać dane:
 
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **3)** w przypadku użytkownika, który nie jest osobą fizyczną – numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
 - **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci udostępnione użytkownikowi – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
-2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, przepis art. 23z ust. 2–7 stosuje się. Art. 23zc. 1. IWSW przy wykonywaniu swych zadań może korzystać z pomocy osób niebędących funkcjonariuszami. Zabronione jest ujawnianie danych o osobie udzielającej pomocy IWSW w zakresie czynności operacyjno-rozpoznawczych.
+2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, przepis art. 23z ust. 2–7 stosuje się.
+
+**Art. 23zc.**
+
+1. IWSW przy wykonywaniu swych zadań może korzystać z pomocy osób niebędących funkcjonariuszami. Zabronione jest ujawnianie danych o osobie udzielającej pomocy IWSW w zakresie czynności operacyjno-rozpoznawczych.
 
 2. Udostępnienie danych o osobie, o której mowa w ust. 1, może nastąpić jedynie w przypadkach i trybie określonych w art. 23y.
 
 3. Dane o osobie, o której mowa w ust. 1, mogą być udostępnione na żądanie prokuratora lub sądu, także w razie uzasadnionego podejrzenia popełnienia przez tę osobę przestępstwa ściganego z oskarżenia publicznego w związku z wykonywaniem czynności operacyjno-rozpoznawczych oraz w przypadku ujawnienia przez tę osobę faktu udzielania pomocy IWSW w zakresie czynności operacyjno-rozpoznawczych; udostępnienie tych danych następuje w trybie określonym w art. 23y.
 
-4. Za udzielenie pomocy, o której mowa w ust. 1, osobom niebędącym funkcjonariuszami IWSW może być przyznane wynagrodzenie. Art. 23zd. 1. Koszty podejmowanych przez IWSW czynności operacyjno-rozpoznawczych, w zakresie których ze względu na ochronę, o której mowa w ustawie, nie mogą być stosowane przepisy o finansach publicznych, rachunkowości i zamówieniach publicznych, a także wynagrodzenia osób wymienionych w art. 23zc ust. 1 są pokrywane z tworzonego na ten cel funduszu operacyjnego.
+4. Za udzielenie pomocy, o której mowa w ust. 1, osobom niebędącym funkcjonariuszami IWSW może być przyznane wynagrodzenie.
+
+**Art. 23zd.**
+
+1. Koszty podejmowanych przez IWSW czynności operacyjno-rozpoznawczych, w zakresie których ze względu na ochronę, o której mowa w ustawie, nie mogą być stosowane przepisy o finansach publicznych, rachunkowości i zamówieniach publicznych, a także wynagrodzenia osób wymienionych w art. 23zc ust. 1 są pokrywane z tworzonego na ten cel funduszu operacyjnego.
 
 2. Minister Sprawiedliwości, z zachowaniem przepisów o ochronie informacji niejawnych, określi, w drodze zarządzenia, sposób tworzenia funduszu operacyjnego i gospodarowania nim, mając na uwadze zapewnienie efektywnego i celowego wydatkowania środków z tego funduszu.
 

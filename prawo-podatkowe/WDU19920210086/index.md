@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podatku dochodowym od osób prawnych
+# Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych
 
 *USTAWA z dnia 15 lutego 1992 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1992-03-10 |
 | Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920210086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1992/86/text.pdf) |
-
-Art. 29–36. (pominięte)
 
 #### Rozdział 1 Podmiot i przedmiot opodatkowania
 
@@ -460,7 +458,11 @@ Art. 29–36. (pominięte)
 - **3)** strata nie została odliczona od dochodu spółki na podstawie art. 7 ust. 5;
 - **4)** spółka osiągnęła w roku podatkowym, za który dokonuje się tego obniżenia, dochód z tego źródła przychodów, z którego poniesiona została strata.
 
-5. Kwota obniżenia, o którym mowa w ust. 4, nie może przekroczyć 50 % wysokości straty oraz nie może przekroczyć kwoty dochodu ze źródła przychodów osiągniętego w roku podatkowym, za który dokonuje się tego obniżenia, przez spółkę wchodzącą w skład podatkowej grupy kapitałowej, która poniosła tę stratę. Art. 7aa. 1. Podatnik, który wybrał opodatkowanie ryczałtem od dochodów spółek, jest obowiązany na ostatni dzień roku podatkowego poprzedzającego pierwszy rok opodatkowania tym ryczałtem:
+5. Kwota obniżenia, o którym mowa w ust. 4, nie może przekroczyć 50 % wysokości straty oraz nie może przekroczyć kwoty dochodu ze źródła przychodów osiągniętego w roku podatkowym, za który dokonuje się tego obniżenia, przez spółkę wchodzącą w skład podatkowej grupy kapitałowej, która poniosła tę stratę.
+
+**Art. 7aa.**
+
+1. Podatnik, który wybrał opodatkowanie ryczałtem od dochodów spółek, jest obowiązany na ostatni dzień roku podatkowego poprzedzającego pierwszy rok opodatkowania tym ryczałtem:
 
 - **1)** sporządzić informację o przychodach, kosztach, dochodzie z przekształcenia oraz podatku należnym w związku z wyborem opodatkowania ryczałtem od dochodów spółek oraz
 - **2)** wyodrębnić w kapitale własnym spółki na ostatni dzień roku podatkowego poprzedzającego pierwszy rok opodatkowania ryczałtem od dochodów spółek:
@@ -1581,7 +1583,19 @@ Art. 29–36. (pominięte)
 
 9. Przepisy ust. 2 pkt 4 i 5 oraz ust. 3 pkt 4 i 5 stosuje się odpowiednio do kapitałowych rat kredytów (pożyczek).
 
-**Art. 15b.** (uchylony) Art. 15ba. 1. W przypadku nabycia w ramach jednej transakcji co najmniej 100 wierzytelności bez wyodrębnienia ceny nabycia poszczególnych wierzytelności (pakiet wierzytelności) dochód z pakietu wierzytelności stanowi nadwyżka przychodów uzyskanych z wierzytelności wchodzących w skład pakietu wierzytelności nad kosztem nabycia pakietu wierzytelności. 2. Przez przychody uzyskane z wierzytelności wchodzących w skład pakietu wierzytelności rozumie się środki lub wartości otrzymane w wyniku uregulowania tych wierzytelności lub środki lub wartości ze zbycia całości albo części wierzytelności wchodzących w skład danego pakietu wierzytelności, z wyjątkiem opłat, odsetek, odsetek za opóźnienie w zapłacie zobowiązań i kar, naliczonych po dniu nabycia pakietu wierzytelności. 3. Przez koszt nabycia pakietu wierzytelności rozumie się cenę nabycia takiego pakietu wierzytelności. 4. Koszty nabycia pakietu wierzytelności potrąca się w okresie rozliczeniowym, w którym osiągnięty został przychód z wierzytelności wchodzących w skład pakietu wierzytelności, do wysokości odpowiadającej temu przychodowi. 5. Przepisy ust. 1–4 stosuje się odpowiednio do nabycia pojedynczej wierzytelności.
+**Art. 15b.** (uchylony)
+
+**Art. 15ba.**
+
+1. W przypadku nabycia w ramach jednej transakcji co najmniej 100 wierzytelności bez wyodrębnienia ceny nabycia poszczególnych wierzytelności (pakiet wierzytelności) dochód z pakietu wierzytelności stanowi nadwyżka przychodów uzyskanych z wierzytelności wchodzących w skład pakietu wierzytelności nad kosztem nabycia pakietu wierzytelności.
+
+2. Przez przychody uzyskane z wierzytelności wchodzących w skład pakietu wierzytelności rozumie się środki lub wartości otrzymane w wyniku uregulowania tych wierzytelności lub środki lub wartości ze zbycia całości albo części wierzytelności wchodzących w skład danego pakietu wierzytelności, z wyjątkiem opłat, odsetek, odsetek za opóźnienie w zapłacie zobowiązań i kar, naliczonych po dniu nabycia pakietu wierzytelności.
+
+3. Przez koszt nabycia pakietu wierzytelności rozumie się cenę nabycia takiego pakietu wierzytelności.
+
+4. Koszty nabycia pakietu wierzytelności potrąca się w okresie rozliczeniowym, w którym osiągnięty został przychód z wierzytelności wchodzących w skład pakietu wierzytelności, do wysokości odpowiadającej temu przychodowi.
+
+5. Przepisy ust. 1–4 stosuje się odpowiednio do nabycia pojedynczej wierzytelności.
 
 **Art. 15c.**
 
@@ -1655,7 +1669,13 @@ Art. 29–36. (pominięte)
 - **1)** podmiotów, które w związku z przekształceniem, łączeniem lub podziałem podmiotów wstępują w prawa podatników przekształconych, łączonych lub dzielonych, z wyjątkiem spółek powstałych z przekształcenia spółek;
 - **2)** spółek wchodzących uprzednio w skład podatkowej grupy kapitałowej – w odniesieniu do kosztów finansowania dłużnego wyłączonych z kosztów uzyskania przychodów w czasie funkcjonowania tej podatkowej grupy.
 
-20. Przepisy ust. 1–19 stosuje się odpowiednio do podatnika, o którym mowa w art. 3 ust. 2, prowadzącego działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład, w tym do transakcji wewnętrznych takiego podatnika dotyczących tego zagranicznego zakładu. Art. 15ca. (uchylony) Art. 15cb. 1. W spółce za koszt uzyskania przychodów uznaje się również kwotę odpowiadającą iloczynowi stopy referencyjnej Narodowego Banku Polskiego obowiązującej w ostatnim dniu roboczym roku poprzedzającego rok podatkowy powiększonej o 1 punkt procentowy oraz kwoty:
+20. Przepisy ust. 1–19 stosuje się odpowiednio do podatnika, o którym mowa w art. 3 ust. 2, prowadzącego działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład, w tym do transakcji wewnętrznych takiego podatnika dotyczących tego zagranicznego zakładu.
+
+**Art. 15ca.** (uchylony)
+
+**Art. 15cb.**
+
+1. W spółce za koszt uzyskania przychodów uznaje się również kwotę odpowiadającą iloczynowi stopy referencyjnej Narodowego Banku Polskiego obowiązującej w ostatnim dniu roboczym roku poprzedzającego rok podatkowy powiększonej o 1 punkt procentowy oraz kwoty:
 
 - **1)** dopłaty wniesionej do spółki w trybie i na zasadach określonych w odrębnych przepisach lub
 - **2)** zysku przekazanego na kapitał rezerwowy lub zapasowy spółki.
@@ -2866,7 +2886,9 @@ Art. 29–36. (pominięte)
 
 8. Podatnicy uzyskujący przychody z zysków kapitałowych lub przychody z innych źródeł przychodów mogą dokonywać odliczeń, o których mowa w ust. 1, od dochodu w dowolnej proporcji, z tym że suma dokonanych w źródłach przychodów odliczeń nie może przekroczyć wysokości określonej w ust. 1 i 1a.
 
-**Art. 18a.** (uchylony) Art. 18aa. Podatnik, który dokonuje odliczeń na podstawie art. 18 i art. 18d– 18f, traci odpowiednio prawo albo obowiązek do ich kontynuowania począwszy od pierwszego roku opodatkowania ryczałtem od dochodów spółek.
+**Art. 18a.** (uchylony)
+
+**Art. 18aa.** Podatnik, który dokonuje odliczeń na podstawie art. 18 i art. 18d– 18f, traci odpowiednio prawo albo obowiązek do ich kontynuowania począwszy od pierwszego roku opodatkowania ryczałtem od dochodów spółek.
 
 **Art. 18b.** (uchylony)
 
@@ -2952,7 +2974,11 @@ Art. 29–36. (pominięte)
 
 8. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty kwalifikowane. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia. Dokonując odliczenia, o którym mowa w zdaniu drugim, uwzględnia się kwoty pomniejszeń, o których mowa w art. 18db ust. 1.
 
-9. Przepisu ust. 8 zdanie drugie i trzecie nie stosuje się, jeżeli podatnik wykaże w zeznaniu kwotę przysługującą mu zgodnie z art. 18da. Art. 18da. 1. Podatnikowi, który w roku rozpoczęcia prowadzenia działalności poniósł stratę albo osiągnął dochód niższy od kwoty przysługującego za ten rok odliczenia określonego w art. 18d ust. 1, przysługuje kwota odpowiadająca iloczynowi nieodliczonego na podstawie art. 18d ust. 1 odliczenia i stawki podatku określonej w art. 19 ust. 1 obowiązującej tego podatnika w danym roku podatkowym.
+9. Przepisu ust. 8 zdanie drugie i trzecie nie stosuje się, jeżeli podatnik wykaże w zeznaniu kwotę przysługującą mu zgodnie z art. 18da.
+
+**Art. 18da.**
+
+1. Podatnikowi, który w roku rozpoczęcia prowadzenia działalności poniósł stratę albo osiągnął dochód niższy od kwoty przysługującego za ten rok odliczenia określonego w art. 18d ust. 1, przysługuje kwota odpowiadająca iloczynowi nieodliczonego na podstawie art. 18d ust. 1 odliczenia i stawki podatku określonej w art. 19 ust. 1 obowiązującej tego podatnika w danym roku podatkowym.
 
 2. Przepis ust. 1 stosuje się również w roku podatkowym następującym bezpośrednio po roku rozpoczęcia działalności, jeżeli w tym roku podatnik, o którym mowa w ust. 1, jest mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
@@ -2969,7 +2995,11 @@ Art. 29–36. (pominięte)
 
 5a. W razie wystąpienia okoliczności, o których mowa w ust. 5, podatnik jest obowiązany w zeznaniu, o którym mowa w art. 27, składanym za rok podatkowy, w którym wystąpiły te okoliczności, do zwiększenia podatku o kwotę zwrotu, a w razie wystąpienia nadpłaty – do jej zmniejszenia o tę kwotę.
 
-6. Kwoty, o których mowa w ust. 1 i 2, podatnik wykazuje w zeznaniu, o którym mowa w art. 27. Art. 18db. 1. Podatnik będący płatnikiem podatku dochodowego od osób fizycznych, uzyskujący przychody inne niż przychody z zysków kapitałowych, który poniósł za rok podatkowy stratę albo osiągnął dochód niższy od kwoty przysługującego w roku podatkowym odliczenia na podstawie art. 18d, może pomniejszyć kwotę podlegających przekazaniu na rachunek urzędu skarbowego zaliczek na podatek dochodowy oraz zryczałtowanego podatku dochodowego wskazanych w ust. 2 o iloczyn kwoty nieodliczonej i stawki podatku obowiązującej tego podatnika w danym roku podatkowym.
+6. Kwoty, o których mowa w ust. 1 i 2, podatnik wykazuje w zeznaniu, o którym mowa w art. 27.
+
+**Art. 18db.**
+
+1. Podatnik będący płatnikiem podatku dochodowego od osób fizycznych, uzyskujący przychody inne niż przychody z zysków kapitałowych, który poniósł za rok podatkowy stratę albo osiągnął dochód niższy od kwoty przysługującego w roku podatkowym odliczenia na podstawie art. 18d, może pomniejszyć kwotę podlegających przekazaniu na rachunek urzędu skarbowego zaliczek na podatek dochodowy oraz zryczałtowanego podatku dochodowego wskazanych w ust. 2 o iloczyn kwoty nieodliczonej i stawki podatku obowiązującej tego podatnika w danym roku podatkowym.
 
 2. Przepis ust. 1 ma zastosowanie do zaliczek na podatek dochodowy i zryczałtowanego podatku dochodowego, o których mowa w art. 32 oraz art. 41 ust. 1 i 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, pobranych od dochodów (przychodów) osób fizycznych, z tytułu:
 
@@ -2991,7 +3021,19 @@ Art. 29–36. (pominięte)
 
 6. Jeżeli podatnik utracił prawo do odliczenia, o którym mowa w ust. 1, dolicza kwoty poprzednio odliczone w zeznaniu podatkowym składanym za rok podatkowy, w którym utracił to prawo.
 
-**Art. 18e.** Podatnicy korzystający z odliczenia, o którym mowa w art. 18d, oraz podatnicy, którym przysługuje kwota określona w art. 18da, są obowiązani wykazać w zeznaniu poniesione koszty kwalifikowane podlegające odliczeniu lub stanowiące podstawę do wyliczenia przysługującej podatnikowi kwoty. Art. 18ea. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych odlicza od podstawy opodatkowania, ustalonej zgodnie z art. 18, kwotę stanowiącą 30 % sumy kosztów produkcji próbnej nowego produktu i wprowadzenia na rynek nowego produktu, przy czym wysokość odliczenia nie może w roku podatkowym przekroczyć 10 % dochodu osiągniętego z innych źródeł przychodów niż z zysków kapitałowych. 2. Przez produkt rozumie się produkt w rozumieniu przepisów ustawy o rachunkowości, z wyłączeniem usługi. 3. Przez produkcję próbną nowego produktu rozumie się etap rozruchu technologicznego produkcji niewymagający dalszych prac projektowo-konstrukcyjnych lub inżynieryjnych, którego celem jest wykonanie prób i testów przed uruchomieniem procesu produkcji nowego produktu, powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych, przy czym etap rozruchu technologicznego obejmuje okres od momentu poniesienia pierwszego kosztu związanego z tym etapem do momentu rozpoczęcia produkcji nowego produktu. 4. Przez wprowadzenie na rynek nowego produktu rozumie się działania podejmowane w celu przygotowania dokumentacji służącej uzyskaniu w odniesieniu do produktu powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych certyfikatów i zezwoleń umożliwiających skierowanie produktu do sprzedaży. 5. Za koszty produkcji próbnej nowego produktu uznaje się:
+**Art. 18e.** Podatnicy korzystający z odliczenia, o którym mowa w art. 18d, oraz podatnicy, którym przysługuje kwota określona w art. 18da, są obowiązani wykazać w zeznaniu poniesione koszty kwalifikowane podlegające odliczeniu lub stanowiące podstawę do wyliczenia przysługującej podatnikowi kwoty.
+
+**Art. 18ea.**
+
+1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych odlicza od podstawy opodatkowania, ustalonej zgodnie z art. 18, kwotę stanowiącą 30 % sumy kosztów produkcji próbnej nowego produktu i wprowadzenia na rynek nowego produktu, przy czym wysokość odliczenia nie może w roku podatkowym przekroczyć 10 % dochodu osiągniętego z innych źródeł przychodów niż z zysków kapitałowych.
+
+2. Przez produkt rozumie się produkt w rozumieniu przepisów ustawy o rachunkowości, z wyłączeniem usługi.
+
+3. Przez produkcję próbną nowego produktu rozumie się etap rozruchu technologicznego produkcji niewymagający dalszych prac projektowo-konstrukcyjnych lub inżynieryjnych, którego celem jest wykonanie prób i testów przed uruchomieniem procesu produkcji nowego produktu, powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych, przy czym etap rozruchu technologicznego obejmuje okres od momentu poniesienia pierwszego kosztu związanego z tym etapem do momentu rozpoczęcia produkcji nowego produktu.
+
+4. Przez wprowadzenie na rynek nowego produktu rozumie się działania podejmowane w celu przygotowania dokumentacji służącej uzyskaniu w odniesieniu do produktu powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych certyfikatów i zezwoleń umożliwiających skierowanie produktu do sprzedaży.
+
+5. Za koszty produkcji próbnej nowego produktu uznaje się:
 
 - **1)** cenę nabycia, o której mowa w art. 16g ust. 3, lub koszt wytworzenia, o którym mowa w art. 16g ust. 4, fabrycznie nowych środków trwałych niezbędnych do uruchomienia produkcji próbnej nowego produktu, zaliczonych do grupy 3–6 i 8 Klasyfikacji;
 - **2)** wydatki na ulepszenie, o których mowa w art. 16g ust. 13, poniesione w celu dostosowania środka trwałego, zaliczonego do grupy 3–6 i 8 Klasyfikacji, do uruchomienia produkcji próbnej nowego produktu;
@@ -3014,7 +3056,11 @@ Art. 29–36. (pominięte)
 
 10. Podatnikowi, który w roku podatkowym korzysta ze zwolnień podatkowych, o których mowa w art. 17 ust. 1 pkt 34 lub 34a, prawo do odliczenia przysługuje jedynie w odniesieniu do kosztów produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu, które nie są przez podatnika uwzględniane w kalkulacji dochodu zwolnionego z podatku na podstawie tych przepisów.
 
-11. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia. Art. 18eb. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych odlicza od podstawy opodatkowania, ustalonej zgodnie z art. 18, koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów do wysokości dochodu uzyskanego przez podatnika w roku podatkowym z przychodów innych niż przychody z zysków kapitałowych, niewięcej jednak niż 1 000 000 zł w roku podatkowym.
+11. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia.
+
+**Art. 18eb.**
+
+1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych odlicza od podstawy opodatkowania, ustalonej zgodnie z art. 18, koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów do wysokości dochodu uzyskanego przez podatnika w roku podatkowym z przychodów innych niż przychody z zysków kapitałowych, niewięcej jednak niż 1 000 000 zł w roku podatkowym.
 
 2. Przez produkty rozumie się rzeczy wytworzone przez podatnika.
 
@@ -3042,7 +3088,11 @@ Art. 29–36. (pominięte)
 
 9. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty w celu zwiększenia przychodów ze sprzedaży produktów. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia.
 
-10. Koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy opodatkowania podatkiem dochodowym. Art. 18ec. 1. Podatnik będący przedsiębiorcą, uzyskujący przychody inne niż przychody z zysków kapitałowych, odlicza od podstawy opodatkowania ustalonej zgodnie z art. 18 kwoty wydatków na nabycie udziałów (akcji) w spółce posiadającej osobowość prawną, do wysokości dochodu uzyskanego w roku podatkowym przez podatnika z przychodów innych niż przychody z zysków kapitałowych, niewięcej jednak niż 250 000 zł w roku podatkowym, jeżeli łącznie są spełnione następujące warunki:
+10. Koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy opodatkowania podatkiem dochodowym.
+
+**Art. 18ec.**
+
+1. Podatnik będący przedsiębiorcą, uzyskujący przychody inne niż przychody z zysków kapitałowych, odlicza od podstawy opodatkowania ustalonej zgodnie z art. 18 kwoty wydatków na nabycie udziałów (akcji) w spółce posiadającej osobowość prawną, do wysokości dochodu uzyskanego w roku podatkowym przez podatnika z przychodów innych niż przychody z zysków kapitałowych, niewięcej jednak niż 250 000 zł w roku podatkowym, jeżeli łącznie są spełnione następujące warunki:
 
 - **1)** spółka, której udziały (akcje) są nabywane, ma siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej lub w innym państwie, z którym Rzeczpospolita Polska zawarła umowę o unikaniu podwójnego opodatkowania zawierającą podstawę prawną do uzyskania przez organ podatkowy informacji podatkowych od organu podatkowego tego innego państwa;
 - **2)** główny przedmiot działalności spółki, o której mowa w pkt 1, jest tożsamy z przedmiotem działalności podatnika lub działalność takiej spółki może być racjonalnie uznana za działalność wspierającą działalność podatnika, przy czym działalność takiej spółki nie jest działalnością finansową;
@@ -3064,7 +3114,11 @@ Art. 29–36. (pominięte)
 
 6. Przepis ust. 5 stosuje się odpowiednio w przypadku, gdy podatnik lub jego następca prawny, przed upływem 36 miesięcy, licząc od dnia nabycia udziałów (akcji), o których mowa w ust. 1, zostanie postawiony w stan likwidacji, zostanie ogłoszona jego upadłość lub zaistnieją inne, przewidziane prawem okoliczności zakończenia działalności podatnika lub następcy prawnego.
 
-7. Wydatki odliczone od podstawy opodatkowania zgodnie z ust. 1 podlegają zaliczeniu do kosztów uzyskania przychodów zgodnie z ustawą. Art. 18ed. 1. Podstawa opodatkowania ustalona zgodnie z art. 18, po uprzednim odliczeniu kwot określonych w art. 18d i 18ea–18ec, może być pomniejszona o kwotę stanowiącą:
+7. Wydatki odliczone od podstawy opodatkowania zgodnie z ust. 1 podlegają zaliczeniu do kosztów uzyskania przychodów zgodnie z ustawą.
+
+**Art. 18ed.**
+
+1. Podstawa opodatkowania ustalona zgodnie z art. 18, po uprzednim odliczeniu kwot określonych w art. 18d i 18ea–18ec, może być pomniejszona o kwotę stanowiącą:
 
 - **1)** 150 % wydatków na przygotowanie prospektu emisyjnego, opłaty notarialne, sądowe, skarbowe i giełdowe oraz opracowanie i publikację ogłoszeń wymaganych przepisami prawa,
 - **2)** 50 % wydatków, bez uwzględnienia podatku od towarów i usług, na usługi doradztwa prawnego, w tym doradztwa podatkowego, i finansowego, niewięcej jednak niż 50 000 zł – poniesionych bezpośrednio na dokonanie pierwszej oferty publicznej dotyczącej akcji w rozumieniu art. 4 pkt 5 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592 oraz z 2026 r. poz. 176), z zamiarem ubiegania się o dopuszczenie do obrotu na rynku regulowanym lub z zamiarem ubiegania się o wprowadzenie tych akcji do obrotu w alternatywnym systemie obrotu.
@@ -3073,7 +3127,11 @@ Art. 29–36. (pominięte)
 
 3. Przez wydatki poniesione bezpośrednio na dokonanie pierwszej oferty publicznej dotyczącej akcji rozumie się wydatki związane bezpośrednio i wyłącznie z tą ofertą poniesione w roku podatkowym, w którym dokonano pierwszej oferty publicznej dotyczącej akcji lub w roku poprzedzającym ten rok podatkowy, niepóźniej niż do dnia dokonania tej pierwszej oferty publicznej dotyczącej akcji.
 
-4. Wydatki, o których mowa w ust. 1, podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone, w tym od podstawy opodatkowania podatkiem dochodowym. Art. 18ee. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, kwotę stanowiącą 50 % kosztów uzyskania przychodów poniesionych na działalność:
+4. Wydatki, o których mowa w ust. 1, podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone, w tym od podstawy opodatkowania podatkiem dochodowym.
+
+**Art. 18ee.**
+
+1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, kwotę stanowiącą 50 % kosztów uzyskania przychodów poniesionych na działalność:
 
 - **1)** sportową,
 - **2)** kulturalną w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej,
@@ -3113,7 +3171,11 @@ Art. 29–36. (pominięte)
 
 10. Podatnik korzystający z odliczenia składa w terminie złożenia zeznania, w którym dokonuje tego odliczenia, informację, według ustalonego wzoru, zawierającą wykaz poniesionych kosztów podlegających odliczeniu.
 
-11. W przypadku skorzystania z odliczenia kosztów, o których mowa w ust. 1, przepisu art. 16 ust. 1 pkt 48 nie stosuje się. Art. 18ef. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, wydatki na nabycie terminala płatniczego oraz wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego poniesione w roku podatkowym, w którym rozpoczął przyjmowanie płatności przy użyciu terminala płatniczego, i w roku następującym po tym roku, do wysokości:
+11. W przypadku skorzystania z odliczenia kosztów, o których mowa w ust. 1, przepisu art. 16 ust. 1 pkt 48 nie stosuje się.
+
+**Art. 18ef.**
+
+1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, wydatki na nabycie terminala płatniczego oraz wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego poniesione w roku podatkowym, w którym rozpoczął przyjmowanie płatności przy użyciu terminala płatniczego, i w roku następującym po tym roku, do wysokości:
 
 - **1)** 2500 zł w roku podatkowym – w przypadku podatników zwolnionych z obowiązku prowadzenia ewidencji sprzedaży na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych przy zastosowaniu kas rejestrujących, zgodnie z przepisami o podatku od towarów i usług;
 - **2)** 1000 zł w roku podatkowym – w przypadku podatników innych niż określonych w pkt 1.
@@ -3145,7 +3207,11 @@ Art. 29–36. (pominięte)
 
 13. Kwota odliczenia nieznajdująca pokrycia w rocznym dochodzie podatnika podlega odliczeniu w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym poniesiono wydatek.
 
-14. W przypadku skorzystania z odliczeń, o których mowa w ust. 1 i 2, przepisu art. 16 ust. 1 pkt 48 nie stosuje się. Art. 18eg. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, kwotę:
+14. W przypadku skorzystania z odliczeń, o których mowa w ust. 1 i 2, przepisu art. 16 ust. 1 pkt 48 nie stosuje się.
+
+**Art. 18eg.**
+
+1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, kwotę:
 
 - **1)** 12 000 złotych, jeżeli zatrudniony w ramach stosunku pracy żołnierz terytorialnej służby wojskowej, jak również żołnierz aktywnej rezerwy pełni co najmniej 1 rok nieprzerwanie terytorialną służbę wojskową lub służbę w aktywnej rezerwie;
 - **2)** 15 000 złotych, jeżeli zatrudniony w ramach stosunku pracy żołnierz terytorialnej służby wojskowej, jak również żołnierz aktywnej rezerwy pełni co najmniej 2 lata nieprzerwanie terytorialną służbę wojskową lub służbę w aktywnej rezerwie;
@@ -3593,7 +3659,11 @@ Art. 29–36. (pominięte)
 - **1)** podatnika prowadzącego działalność gospodarczą przez położony poza terytorium Rzeczypospolitej Polskiej zagraniczny zakład, chyba że dochody tego zakładu zostały uwzględnione przez podatnika w podstawie opodatkowania ustalonej zgodnie z art. 18;
 - **2)** podatnika, o którym mowa w art. 3 ust. 2, prowadzącego działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład – w zakresie związanym z działalnością tego zakładu.
 
-20. Dla ustalenia statusu zagranicznej jednostki lub spełnienia warunku kontroli nad zagraniczną jednostką nie uwzględnia się relacji pomiędzy podmiotami, które nie są ustanawiane lub utrzymywane z uzasadnionych przyczyn ekonomicznych, w tym mających na celu manipulowanie strukturą właścicielską lub tworzenie cyrkularnych struktur właścicielskich. Art. 24aa. 1. Podatek od spółek będących podatnikami, o których mowa w art. 3 ust. 1, z tytułu przerzuconych dochodów wynosi 19 % podstawy opodatkowania (podatek od przerzuconych dochodów).
+20. Dla ustalenia statusu zagranicznej jednostki lub spełnienia warunku kontroli nad zagraniczną jednostką nie uwzględnia się relacji pomiędzy podmiotami, które nie są ustanawiane lub utrzymywane z uzasadnionych przyczyn ekonomicznych, w tym mających na celu manipulowanie strukturą właścicielską lub tworzenie cyrkularnych struktur właścicielskich.
+
+**Art. 24aa.**
+
+1. Podatek od spółek będących podatnikami, o których mowa w art. 3 ust. 1, z tytułu przerzuconych dochodów wynosi 19 % podstawy opodatkowania (podatek od przerzuconych dochodów).
 
 2. Za przerzucone dochody uznaje się zaliczone do kosztów uzyskania przychodów w roku podatkowym koszty poniesione przez podatnika na rzecz niemającego siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej podmiotu powiązanego w rozumieniu art. 11a ust. 1 pkt 4 z tym podatnikiem, jeżeli łącznie są spełnione następujące warunki:
 
@@ -3711,7 +3781,11 @@ Art. 29–36. (pominięte)
 
 19. Przepisy ust. 1–14 stosuje się odpowiednio do fundacji rodzinnej.
 
-**Art. 24c.** W przypadku podatkowej grupy kapitałowej suma przychodów, o której mowa w art. 24b ust. 9, obejmuje sumę przychodów spółek tworzących podatkową grupę kapitałową. Art. 24ca. 1. Podatek od spółek będących podatnikami w rozumieniu art. 3 ust. 1 oraz podatkowych grup kapitałowych, które w roku podatkowym:
+**Art. 24c.** W przypadku podatkowej grupy kapitałowej suma przychodów, o której mowa w art. 24b ust. 9, obejmuje sumę przychodów spółek tworzących podatkową grupę kapitałową.
+
+**Art. 24ca.**
+
+1. Podatek od spółek będących podatnikami w rozumieniu art. 3 ust. 1 oraz podatkowych grup kapitałowych, które w roku podatkowym:
 
 - **1)** poniosły stratę ze źródła przychodów innych niż z zysków kapitałowych albo
 - **2)** osiągnęły udział dochodów ze źródła przychodów innych niż z zysków kapitałowych, określonych zgodnie z art. 7 ust. 1 albo art. 7a ust. 1, w przychodach innych niż z zysków kapitałowych w wysokości niewiększej niż 2 % – wynosi 10 % podstawy opodatkowania (minimalny podatek dochodowy).
@@ -4364,7 +4438,11 @@ Art. 29–36. (pominięte)
 
 1. W terminie do końca pierwszego miesiąca roku następującego po roku podatkowym, w którym powstał obowiązek zapłaty podatku, płatnicy, o których mowa w art. 26, i podatnicy, o których mowa w art. 22 ust. 4b, art. 25a oraz art. 26 ust. 1b i 4, są obowiązani przesłać do urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy według siedziby podatnika wykonuje swoje zadania, a w przypadku podatników wymienionych w art. 3 ust. 2, do urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych wykonuje swoje zadania, roczne deklaracje sporządzone według ustalonego wzoru.
 
-2. Roczne deklaracje sporządzane przez płatników, o których mowa w art. 26 ust. 2b, mają charakter zbiorczy i nie wskazują podatników, o których mowa w art. 26 ust. 2a zdanie pierwsze. Art. 26aa. 1. Spółka nieruchomościowa, której udziały (akcje), ogół praw i obowiązków, tytuły uczestnictwa lub prawa o podobnym charakterze są zbywane, jest obowiązana wpłacić na rachunek właściwego urzędu skarbowego, jako płatnik, zaliczkę na podatek od dochodu z tego tytułu w wysokości 19 %, w terminie do 20. dnia miesiąca następującego po miesiącu, w którym powstał dochód, jeżeli:
+2. Roczne deklaracje sporządzane przez płatników, o których mowa w art. 26 ust. 2b, mają charakter zbiorczy i nie wskazują podatników, o których mowa w art. 26 ust. 2a zdanie pierwsze.
+
+**Art. 26aa.**
+
+1. Spółka nieruchomościowa, której udziały (akcje), ogół praw i obowiązków, tytuły uczestnictwa lub prawa o podobnym charakterze są zbywane, jest obowiązana wpłacić na rachunek właściwego urzędu skarbowego, jako płatnik, zaliczkę na podatek od dochodu z tego tytułu w wysokości 19 %, w terminie do 20. dnia miesiąca następującego po miesiącu, w którym powstał dochód, jeżeli:
 
 - **1)** stroną dokonującą zbycia jest podmiot niemający siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej lub osoba fizyczna niemająca miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej oraz
 - **2)** przedmiotem transakcji zbycia są udziały (akcje) dające co najmniej 5 % praw głosu w spółce albo ogół praw i obowiązków dający co najmniej 5 % prawa do udziału w zysku spółki niebędącej osobą prawną, albo co najmniej 5 % ogólnej liczby tytułów uczestnictwa lub praw o podobnym charakterze, w spółce nieruchomościowej.
@@ -4879,6 +4957,8 @@ Art. 29–36. (pominięte)
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
 
+**Art. 29–36.** (pominięte)
+
 #### Rozdział 8 Przepisy epizodyczne, przejściowe i końcowe
 
 **Art. 37.** (pominięty)
@@ -4895,7 +4975,11 @@ Art. 29–36. (pominięte)
 
 2. Rozwiązanie części lub całości rezerw, które stanowiły podstawę pomniejszenia zobowiązania podatkowego (kwoty podatku), o którym mowa w ust. 1, na które utworzono rezerwy celowe, powoduje obowiązek podwyższenia zobowiązania podatkowego (kwoty podatku) o kwotę 8 % rozwiązanej rezerwy celowej. Podwyższenie zobowiązania (kwoty podatku) następuje w roku rozwiązania rezerwy celowej, niewcześniej jednak niż z chwilą pomniejszenia zobowiązania podatkowego (kwoty podatku) zgodnie z ust. 1. Jeżeli podwyższenie zobowiązania podatkowego (kwoty podatku) wynikające z rozwiązania rezerwy celowej przewyższa wartość pomniejszonego zobowiązania podatkowego (kwoty podatku) w roku określonym w ust. 1 pkt 1, wartość ta zostaje uwzględniona w latach następnych.
 
-3. Łączna kwota pomniejszenia zobowiązania podatkowego banków (kwota podatku), o której mowa w ust. 1, nie może być wyższa od łącznej kwoty środków pieniężnych przekazanych na zasilenie Funduszu Poręczeń Unijnych z tytułu oprocentowania rezerwy obowiązkowej w latach 2004–2006, o których mowa w art. 39 ust. 5 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025 oraz z 2026 r. poz. 340). Art. 38aa. 1. Stawka podatku, o której mowa w art. 19 ust. 1 pkt 3, wynosi:
+3. Łączna kwota pomniejszenia zobowiązania podatkowego banków (kwota podatku), o której mowa w ust. 1, nie może być wyższa od łącznej kwoty środków pieniężnych przekazanych na zasilenie Funduszu Poręczeń Unijnych z tytułu oprocentowania rezerwy obowiązkowej w latach 2004–2006, o których mowa w art. 39 ust. 5 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025 oraz z 2026 r. poz. 340).
+
+**Art. 38aa.**
+
+1. Stawka podatku, o której mowa w art. 19 ust. 1 pkt 3, wynosi:
 
 - **1)** 30 % w roku podatkowym rozpoczynającym się w:
     - **a)** 2026 r.,
@@ -4915,7 +4999,11 @@ Art. 29–36. (pominięte)
 - **4)** obniżonej o 11,5 % – w przypadku zaliczek dotyczących drugiego roku podatkowego, w którym stosują stawkę podatku w wysokości 23 %, przy czym zaliczkę tę obniża się o 23,3 %, jeżeli podatnik ustalał kwotę zaliczek miesięcznych za ten rok podatkowy zgodnie z zasadami określonymi w art. 25 ust. 6 albo 6a uwzględniając podatek należny wynikający z zeznania złożonego za rok podatkowy, w którym podatnik stosował stawkę podatku w wysokości 30 %;
 - **5)** obniżonej o 11,5 % – w przypadku zaliczek dotyczących trzeciego roku podatkowego, w którym stosują stawkę podatku w wysokości 23 %, pod warunkiem że podstawą do ustalenia wysokości tych zaliczek jest podatek należny wynikający z zeznania złożonego za rok podatkowy, w którym podatnik stosował stawkę podatku w wysokości 26 %.
 
-3. Do zaliczek, o których mowa w ust. 2, przepis art. 25 ust. 1h stosuje się odpowiednio. Art. 38ab. 1. Stawka podatku, o której mowa w art. 19 ust. 1 pkt 4, wynosi:
+3. Do zaliczek, o których mowa w ust. 2, przepis art. 25 ust. 1h stosuje się odpowiednio.
+
+**Art. 38ab.**
+
+1. Stawka podatku, o której mowa w art. 19 ust. 1 pkt 4, wynosi:
 
 - **1)** 27 % w roku podatkowym rozpoczynającym się w:
     - **a)** 2026 r.,
@@ -4933,7 +5021,12 @@ Art. 29–36. (pominięte)
 - **2)** podwyższonej o 21,1 % – w przypadku zaliczek dotyczących roku podatkowego, w którym stosują stawkę podatku w wysokości 23 %;
 - **3)** obniżonej o 22,2 % – w przypadku zaliczek dotyczących pierwszego roku podatkowego, w którym stosują stawkę podatku w wysokości 21 %, przy czym zaliczkę tę podwyższa się o 10,5 %, jeżeli podatnik ustalał kwotę zaliczek miesięcznych za ten rok podatkowy zgodnie z zasadami określonymi w art. 25 ust. 6 albo 6a, uwzględniając podatek należny wynikający z zeznania złożonego w roku poprzedzającym ten rok podatkowy o dwa lata;
 - **4)** obniżonej o 8,7 % – w przypadku zaliczek dotyczących drugiego roku podatkowego, w którym stosują stawkę podatku w wysokości 21 %, przy czym zaliczkę tę obniża się o 22,2 %, jeżeli podatnik ustalał kwotę zaliczek miesięcznych za ten rok podatkowy zgodnie z zasadami określonymi w art. 25 ust. 6 albo 6a uwzględniając podatek należny wynikający z zeznania złożonego za rok podatkowy, w którym podatnik stosował stawkę podatku w wysokości 27 %;
-- **5)** obniżonej o 8,7 % – w przypadku zaliczek dotyczących trzeciego roku podatkowego, w którym stosują stawkę podatku w wysokości 21 %, pod warunkiem że podstawą do ustalenia wysokości tych zaliczek jest podatek należny wynikający z zeznania złożonego za rok podatkowy, w którym podatnik stosował stawkę podatku w wysokości 23 %. Art. 38ac. 1. Stawka podatku, o której mowa w art. 19 ust. 1 pkt 5, wynosi:
+- **5)** obniżonej o 8,7 % – w przypadku zaliczek dotyczących trzeciego roku podatkowego, w którym stosują stawkę podatku w wysokości 21 %, pod warunkiem że podstawą do ustalenia wysokości tych zaliczek jest podatek należny wynikający z zeznania złożonego za rok podatkowy, w którym podatnik stosował stawkę podatku w wysokości 23 %.
+
+**Art. 38ac.**
+
+1. Stawka podatku, o której mowa w art. 19 ust. 1 pkt 5, wynosi:
+
 - **1)** 17 % w roku podatkowym rozpoczynającym się w:
     - **a)** 2026 r.,
     - **b)** 2027 r. – w przypadku gdy rok podatkowy podatnika utworzonego przed dniem 1 stycznia 2026 r. nie rozpoczął się w 2026 r. albo rozpoczął się w 2026 r. i łączny dotychczasowy okres opodatkowania stawką 17 % trwał krócej niż dwanaście kolejnych miesięcy kalendarzowych,
@@ -4944,7 +5037,9 @@ Art. 29–36. (pominięte)
     - **b)** następującym bezpośrednio po roku, w którym zastosowano zgodnie z pkt 1 stawkę podatku w wysokości 17 % – w przypadku podatnika utworzonego przed dniem 1 stycznia 2026 r.,
     - **c)** kolejno następującym po roku określonym w lit. b – w przypadku gdy łączny dotychczasowy okres opodatkowania stawką 13 % trwał krócej niż dwanaście kolejnych miesięcy kalendarzowych.
 
-2. Przy obliczaniu zaliczek na podatek dochodowy w roku podatkowym, o którym mowa w ust. 1, przepisy art. 25 ust. 1f i 1g stosuje się odpowiednio. Art. 38ad. Przepisów art. 38aa–38ac nie stosuje się do podatnika w roku podatkowym, w którym podatnik ten odpowiednio:
+2. Przy obliczaniu zaliczek na podatek dochodowy w roku podatkowym, o którym mowa w ust. 1, przepisy art. 25 ust. 1f i 1g stosuje się odpowiednio.
+
+**Art. 38ad.** Przepisów art. 38aa–38ac nie stosuje się do podatnika w roku podatkowym, w którym podatnik ten odpowiednio:
 
 - **1)** wdrażał plan naprawy, w przypadku zaistnienia okoliczności, o których mowa w art. 142 ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, oraz osiągnięcia poziomu wskaźników, o których mowa w art. 141m ust. 3 pkt 2 tej ustawy, albo
 - **2)** realizował program postępowania naprawczego, o którym mowa w art. 72a ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
@@ -4981,7 +5076,12 @@ Art. 29–36. (pominięte)
 7. Użyte w niniejszym artykule określenie:
 
 - **1)** apteka ogólnodostępna – oznacza aptekę ogólnodostępną w rozumieniu art. 87 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924, 1416, 1537 i 1795);
-- **2)** punkt apteczny – oznacza punkt apteczny w rozumieniu art. 70 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne. Art. 38ea. 1. Podatnik może od dochodu z innych źródeł przychodów niż zyski kapitałowe, ustalonego zgodnie z art. 7, odliczyć poniesione w 2021 r.:
+- **2)** punkt apteczny – oznacza punkt apteczny w rozumieniu art. 70 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
+
+**Art. 38ea.**
+
+1. Podatnik może od dochodu z innych źródeł przychodów niż zyski kapitałowe, ustalonego zgodnie z art. 7, odliczyć poniesione w 2021 r.:
+
 - **1)** wydatki na nabycie zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego,
 - **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz.
 - **889)** ,
@@ -5001,7 +5101,11 @@ Art. 29–36. (pominięte)
 
 - **1)** opłata elektroniczna – oznacza opłatę elektroniczną, o której mowa w art. 13ha ustawy z dnia 21 marca 1985 r. o drogach publicznych;
 - **2)** urządzenie pokładowe – oznacza urządzenie pokładowe, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywane do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS;
-- **3)** zewnętrzny system lokalizacyjny – oznacza zewnętrzny system lokalizacyjny, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywany do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS. Art. 38eb. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, kwotę stanowiącą 50 % kosztów uzyskania przychodów poniesionych w roku podatkowym na robotyzację, przy czym kwota odliczenia nie może przekraczać kwoty dochodu uzyskanego przez podatnika w roku podatkowym z przychodów innych niż przychody z zysków kapitałowych.
+- **3)** zewnętrzny system lokalizacyjny – oznacza zewnętrzny system lokalizacyjny, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywany do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS.
+
+**Art. 38eb.**
+
+1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, kwotę stanowiącą 50 % kosztów uzyskania przychodów poniesionych w roku podatkowym na robotyzację, przy czym kwota odliczenia nie może przekraczać kwoty dochodu uzyskanego przez podatnika w roku podatkowym z przychodów innych niż przychody z zysków kapitałowych.
 
 2. Za koszty uzyskania przychodów poniesione na robotyzację uznaje się:
 
@@ -5052,7 +5156,11 @@ Art. 29–36. (pominięte)
 
 7. Podatnik korzystający z odliczenia składa w terminie złożenia zeznania, w którym dokonuje tego odliczenia, informację, według ustalonego wzoru, zawierającą wykaz poniesionych kosztów podlegających odliczeniu.
 
-8. W zakresie nieuregulowanym w ust. 1–7 do odliczenia kosztów uzyskania przychodów poniesionych na robotyzację stosuje się odpowiednio przepisy art. 18d ust. 3k, 5, 5a, 6, ust. 8 zdanie pierwsze i drugie. Art. 38ec. 1. Zwalnia się podatników obowiązanych do zapłaty minimalnego podatku dochodowego z obowiązków określonych w art. 24ca za okres od dnia 1 stycznia 2022 r. do dnia 31 grudnia 2023 r.
+8. W zakresie nieuregulowanym w ust. 1–7 do odliczenia kosztów uzyskania przychodów poniesionych na robotyzację stosuje się odpowiednio przepisy art. 18d ust. 3k, 5, 5a, 6, ust. 8 zdanie pierwsze i drugie.
+
+**Art. 38ec.**
+
+1. Zwalnia się podatników obowiązanych do zapłaty minimalnego podatku dochodowego z obowiązków określonych w art. 24ca za okres od dnia 1 stycznia 2022 r. do dnia 31 grudnia 2023 r.
 
 2. W przypadku podatników, których rok podatkowy jest inny niż kalendarzowy i rozpoczął się przed dniem 1 stycznia 2024 r. a zakończy się po dniu 31 grudnia 2023 r., zwolnienie, o którym mowa w ust. 1, stosuje się do końca tego roku podatkowego.
 
@@ -5093,10 +5201,14 @@ Art. 29–36. (pominięte)
 
 3. W zakresie nieuregulowanym w niniejszym artykule, do darowizn stosuje się odpowiednio przepisy art. 18 ust. 1b, 1c, 1e–1g, 1k oraz art. 27 ust. 4a.
 
-**Art. 38h.** (uchylony) Art. 38ha. Zwalnia się z podatku od przychodów z budynków przychody podlegające opodatkowaniu na podstawie art. 24b, ustalone za okres:
+**Art. 38h.** (uchylony)
+
+**Art. 38ha.** Zwalnia się z podatku od przychodów z budynków przychody podlegające opodatkowaniu na podstawie art. 24b, ustalone za okres:
 
 - **1)** od dnia 1 marca 2020 r. do dnia 31 grudnia 2020 r.;
-- **2)** od dnia 1 stycznia 2021 r. do końca miesiąca, w którym stan epidemii został odwołany – w przypadku obowiązywania po dniu 31 grudnia 2020 r. stanu epidemii ogłoszonego z powodu COVID-19. Art. 38hb. Zwalnia się od podatku dochodowego dodatek dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystywania niektórych źródeł ciepła, o którym mowa w art. 1 pkt 3 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2024 r. poz. 1509 oraz z 2025 r. poz. 290 i 759).
+- **2)** od dnia 1 stycznia 2021 r. do końca miesiąca, w którym stan epidemii został odwołany – w przypadku obowiązywania po dniu 31 grudnia 2020 r. stanu epidemii ogłoszonego z powodu COVID-19.
+
+**Art. 38hb.** Zwalnia się od podatku dochodowego dodatek dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystywania niektórych źródeł ciepła, o którym mowa w art. 1 pkt 3 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2024 r. poz. 1509 oraz z 2025 r. poz. 290 i 759).
 
 **Art. 38i.**
 
@@ -5164,7 +5276,9 @@ Art. 29–36. (pominięte)
 
 1. Warunek określony w art. 1a ust. 2 pkt 1 lit. d lub pkt 4 uważa się za spełniony, jeżeli podatnik poniósł w 2020 r. negatywne konsekwencje ekonomiczne z powodu COVID-19, o którym mowa w ustawie o COVID-19.
 
-2. Przepis ust. 1. stosuje się do roku podatkowego, który rozpoczął się przed dniem 1 stycznia 2020 r. a zakończy się po dniu 31 grudnia 2019 r., lub rozpoczął się po dniu 31 grudnia 2019 r. a przed dniem 1 stycznia 2021 r. Art. 38na. Warunek określony w art. 1a ust. 2 pkt 4 uważa się za spełniony w roku podatkowym, który zakończy się niepóźniej niż dnia 31 grudnia 2021 r., jeżeli podatkowa grupa kapitałowa poniosła w 2021 r. negatywne konsekwencje ekonomiczne z powodu COVID-19, o którym mowa w ustawie o COVID-19.
+2. Przepis ust. 1. stosuje się do roku podatkowego, który rozpoczął się przed dniem 1 stycznia 2020 r. a zakończy się po dniu 31 grudnia 2019 r., lub rozpoczął się po dniu 31 grudnia 2019 r. a przed dniem 1 stycznia 2021 r.
+
+**Art. 38na.** Warunek określony w art. 1a ust. 2 pkt 4 uważa się za spełniony w roku podatkowym, który zakończy się niepóźniej niż dnia 31 grudnia 2021 r., jeżeli podatkowa grupa kapitałowa poniosła w 2021 r. negatywne konsekwencje ekonomiczne z powodu COVID-19, o którym mowa w ustawie o COVID-19.
 
 **Art. 38o.**
 
@@ -5261,7 +5375,11 @@ Art. 29–36. (pominięte)
 - **3)** Rządowej Agencji Rezerw Strategicznych,
 - **4)** podmiotom wykonującym na terytorium Rzeczypospolitej Polskiej lub na terytorium Ukrainy działalność leczniczą lub działalność z zakresu ratownictwa medycznego – o ile koszty wytworzenia lub cena nabycia nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
-2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne. Art. 38wa. 1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
+2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
+
+**Art. 38wa.**
+
+1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
 
 - **1)** organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, lub równoważnym organizacjom określonym w przepisach regulujących działalność pożytku publicznego obowiązujących na terytorium Ukrainy,
 - **2)** jednostkom samorządu terytorialnego,
@@ -5269,26 +5387,43 @@ Art. 29–36. (pominięte)
 - **4)** Rządowej Agencji Rezerw Strategicznych,
 - **5)** podmiotom wykonującym na terytorium Rzeczypospolitej Polskiej lub na terytorium Ukrainy działalność leczniczą lub działalność z zakresu ratownictwa medycznego – o ile koszty wytworzenia lub cena nabycia nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
-2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne. Art. 38wb. Do dochodu z tytułu wydatków niezwiązanych z działalnością gospodarczą, o którym mowa w art. 28m ust. 1 pkt 3, nie zalicza się wydatków odpowiadających wysokości:
+2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
+
+**Art. 38wb.** Do dochodu z tytułu wydatków niezwiązanych z działalnością gospodarczą, o którym mowa w art. 28m ust. 1 pkt 3, nie zalicza się wydatków odpowiadających wysokości:
 
 - **1)** poniesionych kosztów wytworzenia lub cenie nabycia rzeczy lub praw będących przedmiotem darowizn, o których mowa w art. 38wa ust. 1;
-- **2)** kosztów poniesionych z tytułu nieodpłatnego świadczenia, o których mowa w art. 38wa ust. 2. Art. 38wc. 1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
+- **2)** kosztów poniesionych z tytułu nieodpłatnego świadczenia, o których mowa w art. 38wa ust. 2.
+
+**Art. 38wc.**
+
+1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
+
 - **1)** organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, lub równoważnym organizacjom określonym w przepisach regulujących działalność pożytku publicznego obowiązujących na terytorium Ukrainy,
 - **2)** jednostkom samorządu terytorialnego,
 - **3)** wojewodom,
 - **4)** Rządowej Agencji Rezerw Strategicznych,
 - **5)** podmiotom wykonującym na terytorium Rzeczypospolitej Polskiej lub na terytorium Ukrainy działalność leczniczą lub działalność z zakresu ratownictwa medycznego – o ile koszty wytworzenia lub cena nabycia nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
-2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne. Art. 38wd. Do dochodu z tytułu wydatków niezwiązanych z działalnością gospodarczą, o którym mowa w art. 28m ust. 1 pkt 3, nie zalicza się wydatków odpowiadających wysokości:
+2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
+
+**Art. 38wd.** Do dochodu z tytułu wydatków niezwiązanych z działalnością gospodarczą, o którym mowa w art. 28m ust. 1 pkt 3, nie zalicza się wydatków odpowiadających wysokości:
 
 - **1)** poniesionych kosztów wytworzenia lub cenie nabycia rzeczy lub praw będących przedmiotem darowizn, o których mowa w art. 38wc ust. 1;
 - **2)** kosztów poniesionych z tytułu nieodpłatnego świadczenia, o których mowa w art. 38wc ust. 2.
 
-**Art. 38x.** Do przychodów nie zalicza się wartości darowizn i nieodpłatnych świadczeń, o których mowa w art. 38w, otrzymanych w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. przez podatników, o których mowa w art. 38w ust. 1. Art. 38xa. Do przychodów nie zalicza się wartości darowizn i nieodpłatnych świadczeń, o których mowa w art. 38wa, otrzymanych w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. przez podatników, o których mowa w art. 38wa ust. 1. Art. 38xb. Do przychodów nie zalicza się wartości darowizn i nieodpłatnych świadczeń, o których mowa w art. 38wc, otrzymanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. przez podatników, o których mowa w art. 38wc ust. 1.
+**Art. 38x.** Do przychodów nie zalicza się wartości darowizn i nieodpłatnych świadczeń, o których mowa w art. 38w, otrzymanych w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. przez podatników, o których mowa w art. 38w ust. 1.
 
-**Art. 38y.** Dla celów obliczenia straty oraz udziału dochodów w przychodach, o których mowa w art. 24ca ust. 1, nie uwzględnia się kosztów uzyskania przychodów, o których mowa w art. 38w, poniesionych w okresie wskazanym w tym przepisie. Art. 38ya. Dla celów obliczenia straty oraz udziału dochodów w przychodach, o których mowa w art. 24ca ust. 1, nie uwzględnia się kosztów uzyskania przychodów, o których mowa w art. 38wc, poniesionych w okresie wskazanym w tym przepisie.
+**Art. 38xa.** Do przychodów nie zalicza się wartości darowizn i nieodpłatnych świadczeń, o których mowa w art. 38wa, otrzymanych w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. przez podatników, o których mowa w art. 38wa ust. 1.
 
-**Art. 38z.** Zwalnia się od podatku dochodowego świadczenie pieniężne, o którym mowa w art. 13 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337, 620, 621, 1301 i 1794 oraz z 2026 r. poz. 203). Art. 38za. Zwalnia się od podatku dochodowego kwotę jednorazowego świadczenia pieniężnego za określony miesiąc przeznaczonego na ograniczenie niektórych skutków ekonomicznych związanych z sytuacją ekologiczną na rzece Odrze, o którym mowa w ustawie z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze (Dz. U. z 2023 r. poz. 1392).
+**Art. 38xb.** Do przychodów nie zalicza się wartości darowizn i nieodpłatnych świadczeń, o których mowa w art. 38wc, otrzymanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. przez podatników, o których mowa w art. 38wc ust. 1.
+
+**Art. 38y.** Dla celów obliczenia straty oraz udziału dochodów w przychodach, o których mowa w art. 24ca ust. 1, nie uwzględnia się kosztów uzyskania przychodów, o których mowa w art. 38w, poniesionych w okresie wskazanym w tym przepisie.
+
+**Art. 38ya.** Dla celów obliczenia straty oraz udziału dochodów w przychodach, o których mowa w art. 24ca ust. 1, nie uwzględnia się kosztów uzyskania przychodów, o których mowa w art. 38wc, poniesionych w okresie wskazanym w tym przepisie.
+
+**Art. 38z.** Zwalnia się od podatku dochodowego świadczenie pieniężne, o którym mowa w art. 13 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337, 620, 621, 1301 i 1794 oraz z 2026 r. poz. 203).
+
+**Art. 38za.** Zwalnia się od podatku dochodowego kwotę jednorazowego świadczenia pieniężnego za określony miesiąc przeznaczonego na ograniczenie niektórych skutków ekonomicznych związanych z sytuacją ekologiczną na rzece Odrze, o którym mowa w ustawie z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze (Dz. U. z 2023 r. poz. 1392).
 
 **Art. 39.**
 

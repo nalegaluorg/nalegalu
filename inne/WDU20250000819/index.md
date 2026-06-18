@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-06-24 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000819) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/819/text.pdf) |
-
-Art. 65–80. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -851,6 +849,8 @@ Art. 65–80. (pominięte)
 2. Minister właściwy do spraw instytucji finansowych może określić, w drodze rozporządzenia, środki, o których mowa w art. 458 rozporządzenia 575/2013, ustalone w innym państwie członkowskim, wobec oddziałów instytucji zlokalizowanych w tym państwie, biorąc pod uwagę rekomendację Komitetu dotyczącą uznania wysokości wskaźnika bufora ryzyka systemowego, ustalonego w innym państwie członkowskim niż Rzeczpospolita Polska dla tego państwa, oraz zalecenie Europejskiej Rady do spraw Ryzyka Systemowego skierowane do Rzeczypospolitej Polskiej, dotyczące uznania wskaźnika bufora systemowego ustalonego w innym państwie członkowskim.
 
 #### Rozdział 13 Zmiany w przepisach obowiązujących
+
+**Art. 65–80.** (pominięte)
 
 #### Rozdział 14 Przepisy przejściowe i końcowe
 

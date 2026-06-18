@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o służbie medycyny pracy
+# Ustawa z dnia 27 czerwca 1997 r. o służbie medycyny pracy.
 
 *USTAWA z dnia 27 czerwca 1997 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kształtowaniu ustroju rolnego oraz ustawy o księgach wieczystych i hipotece
+# Ustawa z dnia 6 lipca 2016 r. o zmianie ustawy o kształtowaniu ustroju rolnego oraz ustawy o księgach wieczystych i hipotece
 
 *USTAWA z dnia 6 lipca 2016 r.*
 

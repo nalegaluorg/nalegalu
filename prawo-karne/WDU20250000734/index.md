@@ -458,7 +458,11 @@ source: pdf
 
 - **1)** publicznie nawołuje do popełnienia przestępstwa lub przestępstwa skarbowego,
 - **2)** publicznie nawołuje do przeciwdziałania przemocą aktowi stanowiącemu źródło powszechnie obowiązującego prawa Rzeczypospolitej Polskiej,
-- **3)** publicznie pochwala popełnienie przestępstwa, jeżeli zasięg czynu albo jego skutki nie były znaczne – podlega karze aresztu, ograniczenia wolności albo grzywny. Art. 52aa. § 1. Kto organizuje spotkanie, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm. ), bez wymaganego zawiadomienia lub przewodniczy takiemu spotkaniu, podlega karze ograniczenia wolności albo grzywny nie niższej niż 2000 złotych.
+- **3)** publicznie pochwala popełnienie przestępstwa, jeżeli zasięg czynu albo jego skutki nie były znaczne – podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+**Art. 52aa.**
+
+§ 1. Kto organizuje spotkanie, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm. ), bez wymaganego zawiadomienia lub przewodniczy takiemu spotkaniu, podlega karze ograniczenia wolności albo grzywny nie niższej niż 2000 złotych.
 
 § 2. Kto umyślnie uczestniczy w spotkaniu, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zorganizowanym bez wymaganego zawiadomienia, podlega karze grzywny.
 

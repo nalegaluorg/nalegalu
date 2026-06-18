@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw, ustawę o systemie informacji oświatowej, ustawę – Prawo oświatowe oraz ustawę – Prawo o szkolnictwie wyższym i nauce
+# Ustawa z dnia 21 listopada 2025 r. zmieniająca ustawę o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw, ustawę o systemie informacji oświatowej, ustawę - Prawo oświatowe oraz ustawę - Prawo o szkolnictwie wyższym i nauce
 
 *USTAWA z dnia 21 listopada 2025 r.*
 

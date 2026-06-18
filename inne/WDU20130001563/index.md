@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi
+# Ustawa z dnia 4 stycznia 2013 r. o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi
 
 *USTAWA z dnia 4 stycznia 2013 r.*
 

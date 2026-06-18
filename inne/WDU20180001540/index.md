@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania
+# Ustawa z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania
 
 *USTAWA z dnia 20 lipca 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-08-10 |
 | Ostatnia zmiana | 2024-04-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001540) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1540/text.pdf) |
-
-Art. 25–29. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -506,6 +504,8 @@ Art. 25–29. (pominięte)
 - **2)** SAN.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 25–29.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe i przepis końcowy
 

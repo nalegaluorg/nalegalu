@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego
 
 | Pole | Wartość |
 |---|---|
@@ -33,7 +33,6 @@ o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 12 lutego 2009 r.
 o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego
-Art. 32–36. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -333,6 +332,8 @@ Art. 32–36. (pominięte)
 3. Koszty, o których mowa w ust. 1, w przypadku inwestycji w zakresie lotniska użytku publicznego Polskiej Agencji Żeglugi Powietrznej pokrywa ta agencja.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+
+**Art. 32–36.** (pominięte)
 
 **Art. 37.** Dla inwestycji w zakresie lotnisk użytku publicznego, w tym również polegającej na przebudowie lub rozbudowie, rozpoczętych na podstawie dotychczasowych przepisów, dla których przed dniem wejścia w życie niniejszej ustawy nie została wydana decyzja o pozwoleniu na budowę, stosuje się przepisy niniejszej ustawy, na wniosek zakładającego lotnisko, zarządzającego lotniskiem albo Polskiej Agencji Żeglugi Powietrznej złożony do właściwego wojewody nie później niż w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 

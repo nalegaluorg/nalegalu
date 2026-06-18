@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych
+# Ustawa z dnia 18 października 2024 r. o zmianie ustawy o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych
 
 *USTAWA z dnia 18 października 2024 r.*
 

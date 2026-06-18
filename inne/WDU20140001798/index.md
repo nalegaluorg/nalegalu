@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do gmin wyznaniowych żydowskich w Rzeczypospolitej Polskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 listopada 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do gmin wyznaniowych żydowskich w Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o aplikacji mObywatel oraz niektórych innych ustaw
+# Ustawa z dnia 9 lipca 2025 r. o zmianie ustawy o aplikacji mObywatel oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 lipca 2025 r.*
 

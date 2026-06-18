@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o bezpieczeństwie osób przebywających na obszarach wodnych
+# Ustawa z dnia 20 maja 2021 r. o zmianie ustawy o bezpieczeństwie osób przebywających na obszarach wodnych
 
 *USTAWA z dnia 20 maja 2021 r.*
 

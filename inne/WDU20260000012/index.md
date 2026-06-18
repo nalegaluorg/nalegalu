@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dystrybucji ubezpieczeń
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dystrybucji ubezpieczeń
 
 *USTAWA z dnia 15 grudnia 2017 r.*
 
@@ -27,7 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000012) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/12/text.pdf) |
 
-Art. 91–100. (pominięte)
 1) umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej, w tym znajomość warunków, świadczeń gwarantowanych i ryzyk dodatkowych;
 2) podstawowe przepisy regulujące dystrybucję ubezpieczeń, a także z zakresu prawa ochrony konsumentów, ochrony danych osobowych, prawa podatkowego oraz zabezpieczenia społecznego i prawa pracy;
 3) obsługa roszczeń;
@@ -1622,6 +1621,8 @@ i) wypowiadanie umów reasekuracji;
 2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu osoby prawnej.
 
 #### Rozdział 8 Zmiany w przepisach
+
+**Art. 91–100.** (pominięte)
 
 #### Rozdział 9 Przepisy epizodyczne, przejściowe i dostosowujące
 

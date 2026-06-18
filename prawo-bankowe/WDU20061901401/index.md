@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo bankowe
+# Ustawa z dnia 18 października 2006 r. o zmianie ustawy - Prawo bankowe
 
 *USTAWA z dnia 18 października 2006 r.*
 

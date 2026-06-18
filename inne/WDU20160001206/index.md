@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o aktywizacji przemysłu okrętowego i przemysłów komplementarnych
+# Ustawa z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych
 
 | Pole | Wartość |
 |---|---|
@@ -32,7 +32,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 6 lipca 2016 r.
 o aktywizacji przemysłu okrętowego i przemysłów komplementarnych
-Art. 16–22. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -186,6 +185,8 @@ Art. 16–22. (pominięte)
 **Art. 15.** Wyboru opodatkowania zryczałtowanym podatkiem można dokonać w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności zryczałtowanego podatku z rynkiem wewnętrznym.
 
 #### Rozdział 3 Zmiany w przepisach oraz przepisy przejściowy i końcowy
+
+**Art. 16–22.** (pominięte)
 
 **Art. 23.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r.
 

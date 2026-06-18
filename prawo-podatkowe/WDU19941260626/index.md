@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utracie mocy obowiązującej art. 6 ust. 6 ustawy o podatku dochodowym od osób fizycznych.
+# Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 19 listopada 1994 r. o utracie mocy obowiązującej art. 6 ust. 6 ustawy o podatku dochodowym od osób fizycznych.
 
 | Pole | Wartość |
 |---|---|

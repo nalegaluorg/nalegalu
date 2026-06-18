@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych
+# Ustawa z dnia 17 grudnia 2014 r. o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych
 
 *USTAWA z dnia 17 grudnia 2014 r.*
 

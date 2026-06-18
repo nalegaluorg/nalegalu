@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej
+# Ustawa z dnia 20 lutego 2004 r. o zmianie ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 20 lutego 2004 r.*
 

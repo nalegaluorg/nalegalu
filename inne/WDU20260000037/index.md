@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodach lekarza i lekarza dentysty
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodach lekarza i lekarza dentysty
 
 *USTAWA z dnia 5 grudnia 1996 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2026-01-13 |
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000037) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/37/text.pdf) |
-
-Art. 59–62. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1792,7 +1790,11 @@ Art. 59–62. (pominięte)
 
 18. Lekarz może zostać skierowany do odbywania szkolenia specjalizacyjnego w określonej dziedzinie medycyny po uzyskaniu prawa wykonywania zawodu lekarza albo prawa wykonywania zawodu lekarza dentysty na czas nieokreślony albo po przedłożeniu zaświadczenia wydanego przez właściwą okręgową izbę lekarską albo Wojskową Izbę Lekarską o złożeniu dokumentów niezbędnych do wydania prawa wykonywania zawodu, z zastrzeżeniem, że zaświadczenie zachowuje ważność nie dłużej niż 1 miesiąc od dnia jego wydania.
 
-19. W przypadku lekarza, o którym mowa w art. 16 ust. 4, przepisów ust. 1a i 1b oraz ust. 7–16 nie stosuje się. Przepis ust. 17 stosuje się odpowiednio. Art. 16ca. 1. W przypadku gdy po ogłoszeniu ostatecznych list lekarzy zakwalifikowanych i niezakwalifikowanych do odbywania szkolenia specjalizacyjnego pozostaną niewykorzystane miejsca rezydenckie, o których mowa w art. 16e ust. 2, minister właściwy do spraw zdrowia może podjąć decyzję o przeprowadzeniu dodatkowego etapu postępowania kwalifikacyjnego.
+19. W przypadku lekarza, o którym mowa w art. 16 ust. 4, przepisów ust. 1a i 1b oraz ust. 7–16 nie stosuje się. Przepis ust. 17 stosuje się odpowiednio.
+
+**Art. 16ca.**
+
+1. W przypadku gdy po ogłoszeniu ostatecznych list lekarzy zakwalifikowanych i niezakwalifikowanych do odbywania szkolenia specjalizacyjnego pozostaną niewykorzystane miejsca rezydenckie, o których mowa w art. 16e ust. 2, minister właściwy do spraw zdrowia może podjąć decyzję o przeprowadzeniu dodatkowego etapu postępowania kwalifikacyjnego.
 
 2. Minister właściwy do spraw zdrowia informuje na stronie internetowej obsługującego go urzędu o przeprowadzeniu albo nieprzeprowadzeniu dodatkowego etapu postępowania kwalifikacyjnego, w terminie 5 dni od dnia ogłoszenia ostatecznych list lekarzy zakwalifikowanych i niezakwalifikowanych do odbywania szkolenia specjalizacyjnego. Informując o przeprowadzeniu dodatkowego etapu postępowania kwalifikacyjnego, minister właściwy do spraw zdrowia podaje termin ogłoszenia list lekarzy zakwalifikowanych i niezakwalifikowanych do szkolenia specjalizacyjnego po dodatkowym etapie.
 
@@ -1828,7 +1830,11 @@ Art. 59–62. (pominięte)
 
 7. Uczelnia kształcąca na kierunku lekarskim lub lekarsko-dentystycznym zgłasza wojewodzie listę lekarzy wnioskujących o odbywanie szkolenia, o którym mowa w ust. 6.
 
-8. O kolejności przyznania dodatkowo wydzielonego miejsca, decyduje uzyskany wynik procentowy liczby zdobytych punktów, o których mowa w art. 16c ust. 11, z zastrzeżeniem art. 16c ust. 10a. Art. 16ea. 1. Rezydenturę może odbywać wyłącznie lekarz nieposiadający I lub II stopnia specjalizacji lub tytułu specjalisty.
+8. O kolejności przyznania dodatkowo wydzielonego miejsca, decyduje uzyskany wynik procentowy liczby zdobytych punktów, o których mowa w art. 16c ust. 11, z zastrzeżeniem art. 16c ust. 10a.
+
+**Art. 16ea.**
+
+1. Rezydenturę może odbywać wyłącznie lekarz nieposiadający I lub II stopnia specjalizacji lub tytułu specjalisty.
 
 2. Lekarz, który został zakwalifikowany do odbywania rezydentury, lecz nie rozpoczął szkolenia specjalizacyjnego w okresie 3 miesięcy od dnia wskazanego na skierowaniu, o którym mowa w art. 16c ust. 17, może złożyć kolejny wniosek o odbywanie rezydentury.
 
@@ -2304,7 +2310,9 @@ Art. 59–62. (pominięte)
 
 20. Lekarz, któremu kierownik specjalizacji zaliczył szkolenie specjalizacyjne, zawiadamia, w terminie 7 dni od dnia zaliczenia szkolenia, kierownika jednostki szkolącej oraz właściwego wojewodę, Ministra Obrony Narodowej albo ministra właściwego do spraw wewnętrznych o zakończeniu tego szkolenia.
 
-21. EKS lekarza, który zakończył szkolenie specjalizacyjne i któremu kierownik specjalizacji zaliczył szkolenie specjalizacyjne, przekazuje się, za pomocą SMK, do właściwego wojewody, Ministra Obrony Narodowej albo ministra właściwego do spraw wewnętrznych w terminie 30 dni od dnia zaliczenia szkolenia. Art. 16ma. Skrócenie okresu odbywania szkolenia specjalizacyjnego spełniającego minimalne wymogi kształcenia określone w przepisach Unii Europejskiej nie może obejmować więcej niż 1/2 minimalnego czasu trwania danego programu specjalizacji określonego w przepisach Unii Europejskiej.
+21. EKS lekarza, który zakończył szkolenie specjalizacyjne i któremu kierownik specjalizacji zaliczył szkolenie specjalizacyjne, przekazuje się, za pomocą SMK, do właściwego wojewody, Ministra Obrony Narodowej albo ministra właściwego do spraw wewnętrznych w terminie 30 dni od dnia zaliczenia szkolenia.
+
+**Art. 16ma.** Skrócenie okresu odbywania szkolenia specjalizacyjnego spełniającego minimalne wymogi kształcenia określone w przepisach Unii Europejskiej nie może obejmować więcej niż 1/2 minimalnego czasu trwania danego programu specjalizacji określonego w przepisach Unii Europejskiej.
 
 **Art. 16n.**
 
@@ -2401,7 +2409,11 @@ Art. 59–62. (pominięte)
 
 6. Do decyzji, o której mowa w ust. 4, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. O decyzji podmioty, o których mowa w ust. 4, powiadamiają lekarza również na piśmie.
 
-7. Decyzja, o której mowa w ust. 4, jest ostateczna. Art. 16oa. 1. Lekarz odbywający szkolenie specjalizacyjne w danej dziedzinie medycyny ma obowiązek:
+7. Decyzja, o której mowa w ust. 4, jest ostateczna.
+
+**Art. 16oa.**
+
+1. Lekarz odbywający szkolenie specjalizacyjne w danej dziedzinie medycyny ma obowiązek:
 
 - **1)** realizowania szkolenia specjalizacyjnego, w tym pełnienia dyżurów medycznych, zgodnie z programem specjalizacji, o którym mowa w art. 16f ust. 3;
 - **2)** utrzymywania stałej współpracy z kierownikiem specjalizacji;
@@ -2509,7 +2521,11 @@ Art. 59–62. (pominięte)
 
 11. Lekarz, który zakończył szkolenie specjalizacyjne i uzyskał potwierdzenie zakończenia szkolenia specjalizacyjnego, albo uzyskał decyzję, o której mowa w art. 16 ust. 7 albo 9, zachowuje uprawnienia, o których mowa w art. 16oa ust. 2 pkt 1 i 4, w okresie 5 lat od dnia potwierdzenia zakończenia szkolenia specjalizacyjnego albo od dnia wydania takiej decyzji.
 
-12. Podmioty, o których mowa w ust. 2, informują dyrektora CEM, za pomocą SMK, o potwierdzeniu zakończenia szkolenia specjalizacyjnego przez lekarza. Art. 16ra. 1. Lekarz może złożyć wniosek o zaliczenie PES w całości albo w części, jeżeli złożył z wynikiem pozytywnym egzamin organizowany przez europejskie towarzystwo naukowe, który przez ministra właściwego do spraw zdrowia został uznany za równoważny z zaliczeniem z wynikiem pozytywnym PES w całości albo w części.
+12. Podmioty, o których mowa w ust. 2, informują dyrektora CEM, za pomocą SMK, o potwierdzeniu zakończenia szkolenia specjalizacyjnego przez lekarza.
+
+**Art. 16ra.**
+
+1. Lekarz może złożyć wniosek o zaliczenie PES w całości albo w części, jeżeli złożył z wynikiem pozytywnym egzamin organizowany przez europejskie towarzystwo naukowe, który przez ministra właściwego do spraw zdrowia został uznany za równoważny z zaliczeniem z wynikiem pozytywnym PES w całości albo w części.
 
 2. Minister właściwy do spraw zdrowia może określić, w drodze rozporządzenia, wykaz egzaminów organizowanych przez europejskie towarzystwa naukowe, których złożenie z wynikiem pozytywnym jest równoważne z zaliczeniem z wynikiem pozytywnym PES w całości albo w części, oraz wykaz dokumentów potwierdzających złożenie takich egzaminów, mając na względzie zakres tematyczny tych egzaminów oraz konieczność przedstawienia pełnej informacji o egzaminach organizowanych przez europejskie towarzystwa naukowe.
 
@@ -2531,7 +2547,11 @@ Art. 59–62. (pominięte)
 - **2)** imię (imiona) i nazwisko osoby, której rozstrzygnięcie dotyczy;
 - **3)** przedmiot rozstrzygnięcia;
 - **4)** rodzaj rozstrzygnięcia;
-- **5)** organ wydający rozstrzygnięcie. Art. 16rb. 1. Lekarz, który ukończył przedostatni rok szkolenia specjalizacyjnego albo który uzyskał potwierdzenie zakończenia szkolenia specjalizacyjnego, o którym mowa w art. 16r ust. 6 pkt 1, oraz lekarz, który uzyskał decyzję, o której mowa w art. 16 ust. 7 albo 9, mogą wystąpić do dyrektora CEM z wnioskiem o przystąpienie do PES.
+- **5)** organ wydający rozstrzygnięcie.
+
+**Art. 16rb.**
+
+1. Lekarz, który ukończył przedostatni rok szkolenia specjalizacyjnego albo który uzyskał potwierdzenie zakończenia szkolenia specjalizacyjnego, o którym mowa w art. 16r ust. 6 pkt 1, oraz lekarz, który uzyskał decyzję, o której mowa w art. 16 ust. 7 albo 9, mogą wystąpić do dyrektora CEM z wnioskiem o przystąpienie do PES.
 
 1a. Kierownik specjalizacji potwierdza ukończenie przedostatniego roku szkolenia specjalizacyjnego i wydaje, za pomocą SMK, zgodę na przystąpienie do PES.
 
@@ -2559,7 +2579,11 @@ Art. 59–62. (pominięte)
 
 6. Dyrektor CEM zawiadamia wnioskodawcę o miejscu i terminie egzaminu oraz nadanym numerze kodowym. Zawiadomienie jest przekazywane za pomocą SMK lub środków komunikacji elektronicznej na adres poczty elektronicznej wskazany przez wnioskodawcę we wniosku, o którym mowa w ust. 1, nie później niż 14 dni przed terminem danego egzaminu.
 
-7. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 5. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej. Art. 16rc. 1. CEM organizuje PES dwa razy do roku w miejscach ustalonych przez dyrektora CEM.
+7. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 5. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej.
+
+**Art. 16rc.**
+
+1. CEM organizuje PES dwa razy do roku w miejscach ustalonych przez dyrektora CEM.
 
 2. PES dla każdej specjalności jest składany w formie egzaminu testowego i egzaminu ustnego, z zastrzeżeniem ust. 10, w kolejności tych egzaminów ustalonej przez dyrektora CEM, obejmujących zakres odbytego szkolenia specjalizacyjnego, ze szczególnym uwzględnieniem procedur diagnostycznych i leczniczych, z wyłączeniem wykonywania inwazyjnych zabiegów i procedur medycznych.
 
@@ -2980,7 +3004,13 @@ Art. 59–62. (pominięte)
 
 - **5)** szczegółowych danych dotyczących kwalifikacji wykładowców i innych osób prowadzących nauczanie teoretyczne i zajęcia praktyczne;
 - **6)** szczegółowych danych dotyczących kwalifikacji kierownika naukowego kształcenia;
-- **7)** wzoru dokumentu potwierdzającego ukończenie kształcenia. Art. 19ca. Organ prowadzący rejestr prostuje z urzędu wpis do rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym. Art. 19cb. 1. Organ prowadzący rejestr jest obowiązany dokonać wpisu wnioskodawcy do rejestru w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z oświadczeniem, o którym mowa w art. 19b ust. 2.
+- **7)** wzoru dokumentu potwierdzającego ukończenie kształcenia.
+
+**Art. 19ca.** Organ prowadzący rejestr prostuje z urzędu wpis do rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+
+**Art. 19cb.**
+
+1. Organ prowadzący rejestr jest obowiązany dokonać wpisu wnioskodawcy do rejestru w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z oświadczeniem, o którym mowa w art. 19b ust. 2.
 
 2. Jeżeli organ prowadzący rejestr nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do tego organu upłynęło 14 dni, wnioskodawca może rozpocząć działalność. Nie dotyczy to przypadku, gdy organ wezwał wnioskodawcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
 
@@ -3281,7 +3311,11 @@ Art. 59–62. (pominięte)
 
 13. Kwota, o której mowa w ust. 12 pkt 1, podlega waloryzacji z uwzględnieniem średniorocznego wskaźnika wzrostu wynagrodzeń w państwowej sferze budżetowej przyjętego w ustawie budżetowej.
 
-14. Jeżeli w toku kontroli zostanie stwierdzone rażące naruszenie przepisów prawa lub warunków określonych w art. 19f ust. 2, dyrektor CMKP, w drodze decyzji, skreśla podmiot z listy jednostek akredytowanych. Od decyzji przysługuje wniosek o ponowne rozpatrzenie sprawy. Art. 19ia. 1. Kontrolę dotyczącą rozliczenia środków przeznaczonych na finansowanie rezydentur przeprowadza zespół kontrolny powoływany przez ministra właściwego do spraw zdrowia, w skład którego wchodzą pracownicy urzędu obsługującego tego ministra.
+14. Jeżeli w toku kontroli zostanie stwierdzone rażące naruszenie przepisów prawa lub warunków określonych w art. 19f ust. 2, dyrektor CMKP, w drodze decyzji, skreśla podmiot z listy jednostek akredytowanych. Od decyzji przysługuje wniosek o ponowne rozpatrzenie sprawy.
+
+**Art. 19ia.**
+
+1. Kontrolę dotyczącą rozliczenia środków przeznaczonych na finansowanie rezydentur przeprowadza zespół kontrolny powoływany przez ministra właściwego do spraw zdrowia, w skład którego wchodzą pracownicy urzędu obsługującego tego ministra.
 
 2. Zespół kontrolny, w składzie co najmniej 3-osobowym, wykonując czynności kontrolne, za okazaniem upoważnienia, ma prawo:
 
@@ -3937,6 +3971,8 @@ Art. 59–62. (pominięte)
 8. Postępowanie w sprawach, o których mowa w ust. 1 i 7, toczy się według przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 59–62.** (pominięte)
 
 **Art. 63.**
 

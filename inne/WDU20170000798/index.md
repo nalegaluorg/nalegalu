@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
+# Ustawa z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 *USTAWA z dnia 23 marca 2017 r.*
 

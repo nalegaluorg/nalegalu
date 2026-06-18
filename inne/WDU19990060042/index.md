@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowych zasad ochrony i zbioru płodów runa leśnego oraz zasad lokalizowania pasiek na obszarach leśnych.
+# Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 28 grudnia 1998 r. w sprawie szczegółowych zasad ochrony i zbioru płodów runa leśnego oraz zasad lokalizowania pasiek na obszarach leśnych.
 
 | Pole | Wartość |
 |---|---|

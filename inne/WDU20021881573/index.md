@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu ustawy o likwidacji Robotniczej Spółdzielni Wydawniczej „Prasa-Książka-Ruch”
+# Ustawa z dnia 11 października 2002 r. o uchyleniu ustawy o likwidacji Robotniczej Spółdzielni Wydawniczej "Prasa-Książka-Ruch".
 
 *USTAWA z dnia 11 października 2002 r.*
 

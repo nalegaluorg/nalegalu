@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym
+# Ustawa z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym
 
 *USTAWA z dnia 11 maja 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2017-06-06 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1089/text.pdf) |
-
-Art. 216–263. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -3674,6 +3672,8 @@ Art. 216–263. (pominięte)
 **Art. 215a.** Kto, nie będąc uprawnionym, posługuje się tytułem biegłego rewidenta, oznaczeniem „firma audytorska” lub wykonuje czynności rewizji finansowej, podlega grzywnie albo karze ograniczenia wolności.
 
 #### Rozdział 13 Zmiany w przepisach
+
+**Art. 216–263.** (pominięte)
 
 #### Rozdział 14 Przepisy przejściowe, dostosowujące i końcowe
 

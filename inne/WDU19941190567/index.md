@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe
+# Ustawa z dnia 12 października 1994 r. o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe.
 
 *USTAWA z dnia 12 października 1994 r.*
 

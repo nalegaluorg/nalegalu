@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o restrukturyzacji zadłużenia podmiotów prowadzących gospodarstwa rolne
+# Ustawa z dnia 9 listopada 2018 r. o restrukturyzacji zadłużenia podmiotów prowadzących gospodarstwa rolne
 
 *USTAWA z dnia 9 listopada 2018 r.*
 

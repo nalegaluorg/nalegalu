@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw
+# Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 marca 2023 r.*
 
@@ -263,11 +263,19 @@ source: pdf
 
 4. W przypadku uwzględnienia zażalenia w całości albo w części dowody uzyskane w wyniku przeprowadzenia przeszukania w całości albo w uwzględnionej w wyniku zażalenia części nie mogą być wykorzystane w prowadzonym postępowaniu, w innych postępowaniach prowadzonych przez Prezesa Urzędu oraz w postępowaniach prowadzonych na podstawie odrębnych przepisów.
 
-5. Od postanowienia sądu drugiej instancji skarga kasacyjna nie przysługuje. Art. 105nb. 1. Sąd ochrony konkurencji i konsumentów niezwłocznie doręcza Prezesowi Urzędu postanowienie, o którym mowa w art. 105n ust. 4, a w razie uwzględnienia wniosku o przeprowadzenie przeszukania postanowienie wraz z odpisem dla przeszukiwanego.
+5. Od postanowienia sądu drugiej instancji skarga kasacyjna nie przysługuje.
+
+**Art. 105nb.**
+
+1. Sąd ochrony konkurencji i konsumentów niezwłocznie doręcza Prezesowi Urzędu postanowienie, o którym mowa w art. 105n ust. 4, a w razie uwzględnienia wniosku o przeprowadzenie przeszukania postanowienie wraz z odpisem dla przeszukiwanego.
 
 2. Przeszukujący doręcza przeszukiwanemu odpis postanowienia sądu ochrony konkurencji i konsumentów o udzieleniu zgody na przeprowadzenie przeszukania wraz z rozpoczęciem przeszukania. W razie nieobecności przeszukiwanego odpis postanowienia sądu ochrony konkurencji i konsumentów może być okazany osobom, o których mowa w art. 105a ust. 7. Okazania dokonuje się wraz z rozpoczęciem przeszukania. W takim przypadku odpis postanowienia sądu ochrony konkurencji i konsumentów o udzieleniu zgody na przeprowadzenie przeszukania doręcza się niezwłocznie przeszukiwanemu, nie później jednak niż trzeciego dnia od dnia rozpoczęcia przeszukania. Potwierdzenie doręczenia Prezes Urzędu niezwłocznie przekazuje sądowi ochrony konkurencji i konsumentów.
 
-3. Wraz z rozpoczęciem przeszukania przeszukiwanemu doręcza się również upoważnienie do przeprowadzenia przeszukania oraz okazuje legitymację służbową, dowód osobisty, paszport lub inny dokument potwierdzający tożsamość. W razie nieobecności przeszukiwanego dokumenty te mogą być okazane osobom, o których mowa w art. 105a ust. 7. W takim przypadku upoważnienie doręcza się niezwłocznie przeszukiwanemu, nie później jednak niż trzeciego dnia od dnia rozpoczęcia przeszukania. Art. 105nc. 1. Prezes Urzędu może zwrócić się do Policji lub organu kontroli państwowej o udzielenie pomocy w przeszukaniu, jeżeli jest to niezbędne do przeprowadzenia przeszukania. Przepisy art. 105ca ust. 2 zdanie pierwsze i ust. 3 stosuje się odpowiednio.
+3. Wraz z rozpoczęciem przeszukania przeszukiwanemu doręcza się również upoważnienie do przeprowadzenia przeszukania oraz okazuje legitymację służbową, dowód osobisty, paszport lub inny dokument potwierdzający tożsamość. W razie nieobecności przeszukiwanego dokumenty te mogą być okazane osobom, o których mowa w art. 105a ust. 7. W takim przypadku upoważnienie doręcza się niezwłocznie przeszukiwanemu, nie później jednak niż trzeciego dnia od dnia rozpoczęcia przeszukania.
+
+**Art. 105nc.**
+
+1. Prezes Urzędu może zwrócić się do Policji lub organu kontroli państwowej o udzielenie pomocy w przeszukaniu, jeżeli jest to niezbędne do przeprowadzenia przeszukania. Przepisy art. 105ca ust. 2 zdanie pierwsze i ust. 3 stosuje się odpowiednio.
 
 2. Pomoc udzielana przez funkcjonariuszy Policji polega na:
 
@@ -278,7 +286,9 @@ source: pdf
 
 4. W przypadku niezastosowania się do wezwania funkcjonariusz Policji podejmuje wobec danej osoby czynności zmierzające do umożliwienia rozpoczęcia lub przeprowadzenia przeszukania przez przeszukujących.
 
-5. Do poniesionych kosztów pomocy udzielonej przez Policję lub organ kontroli państwowej przepis art. 105ca ust. 4 stosuje się odpowiednio. Art. 105nd. Przeszukanie przeprowadza się w godzinach pracy lub w czasie faktycznego wykonywania działalności gospodarczej przez przedsiębiorcę, przy czym za zgodą przedsiębiorcy lub, w szczególnie uzasadnionych przypadkach, bez takiej zgody, przeszukujący mogą kontynuować przeszukanie poza tymi godzinami lub czasem faktycznego wykonywania działalności gospodarczej przez przedsiębiorcę.”;
+5. Do poniesionych kosztów pomocy udzielonej przez Policję lub organ kontroli państwowej przepis art. 105ca ust. 4 stosuje się odpowiednio.
+
+**Art. 105nd.** Przeszukanie przeprowadza się w godzinach pracy lub w czasie faktycznego wykonywania działalności gospodarczej przez przedsiębiorcę, przy czym za zgodą przedsiębiorcy lub, w szczególnie uzasadnionych przypadkach, bez takiej zgody, przeszukujący mogą kontynuować przeszukanie poza tymi godzinami lub czasem faktycznego wykonywania działalności gospodarczej przez przedsiębiorcę.”;
 
 - **39)** w art. 105q pkt 1–3 otrzymują brzmienie: „1) art. 105a ust. 2 i 4–6, art. 105b, art. 105d–105h, art. 105j i art. 105k;
 - **2)** art. 52 zdanie pierwsze ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców – w zakresie nieuregulowanym w niniejszym rozdziale;

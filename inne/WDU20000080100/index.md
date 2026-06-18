@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie szczegółowego zakresu działania Ministra Skarbu Państwa.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 4 lutego 2000 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu działania Ministra Skarbu Państwa.
 
 *ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 4 lutego 2000 r.*
 

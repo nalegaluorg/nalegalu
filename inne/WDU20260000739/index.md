@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o postępowaniu egzekucyjnym w administracji
+# Ustawa z dnia 15 maja 2026 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji
 
 *USTAWA z dnia 15 maja 2026 r.*
 
@@ -210,7 +210,11 @@ source: pdf
 
 § 3. Zobowiązany może zrealizować uprawnienie wynikające z art. 111c § 4 w terminie 7 dni od dnia doręczenia mu zawiadomienia, o którym mowa w § 2. Po upływie tego terminu kolejność przeprowadzenia licytacji poszczególnych nieruchomości lub ich części określa organ egzekucyjny.
 
-§ 4. Licytacje dotyczące kilku nieruchomości lub kilku części jednej nieruchomości za pośrednictwem Portalu eLicytacje KAS nie mogą się toczyć równocześnie, chyba że łączna wysokość sumy oszacowania wartości tych nieruchomości nie przekracza łącznej wysokości należności wierzycieli egzekwujących i kosztów egzekucyjnych. Art. 110wb. § 1. Licytację publiczną nieruchomości za pośrednictwem Portalu eLicytacje KAS wygrywa licytant, który w chwili zakończenia licytacji nieruchomości zaoferował najwyższą cenę.
+§ 4. Licytacje dotyczące kilku nieruchomości lub kilku części jednej nieruchomości za pośrednictwem Portalu eLicytacje KAS nie mogą się toczyć równocześnie, chyba że łączna wysokość sumy oszacowania wartości tych nieruchomości nie przekracza łącznej wysokości należności wierzycieli egzekwujących i kosztów egzekucyjnych.
+
+**Art. 110wb.**
+
+§ 1. Licytację publiczną nieruchomości za pośrednictwem Portalu eLicytacje KAS wygrywa licytant, który w chwili zakończenia licytacji nieruchomości zaoferował najwyższą cenę.
 
 § 2. Niezwłocznie po zakończeniu licytacji nieruchomości za pośrednictwem Portalu eLicytacje KAS organ egzekucyjny obwieszcza w Portalu eLicytacje KAS o wyłonieniu licytanta, który zaoferował najwyższą cenę w chwili zakończenia licytacji, przy czym nie upublicznia jego danych osobowych, i zawiadamia go o tym wyłonieniu. Obwieszczenie zawiera pouczenie o przysługującym prawie wniesienia skargi, o której mowa w § 3.
 

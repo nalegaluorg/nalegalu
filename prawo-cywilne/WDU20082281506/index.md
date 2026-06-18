@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks cywilny oraz ustawy – Prawo dewizowe
+# Ustawa z dnia 23 października 2008 r. o zmianie ustawy - Kodeks cywilny oraz ustawy - Prawo dewizowe
 
 *USTAWA Opracowano z dnia 23 października 2008 r. stawie: r.*
 

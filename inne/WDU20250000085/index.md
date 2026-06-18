@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 stycznia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych
 
 *USTAWA z dnia 9 kwietnia 2010 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-01-15 |
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000085) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/85/text.pdf) |
-
-Art. 52–60. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -862,6 +860,8 @@ Art. 52–60. (pominięte)
 2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544).
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 52–60.** (pominięte)
 
 **Art. 61.** Biuro informacji gospodarczej utworzone przed dniem wejścia w życie niniejszej ustawy staje się biurem w rozumieniu niniejszej ustawy.
 

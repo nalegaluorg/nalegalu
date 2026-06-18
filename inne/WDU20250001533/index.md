@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy – Prawo pocztowe
+# Ustawa z dnia 26 września 2025 r. zmieniająca ustawę o zmianie ustawy - Prawo pocztowe
 
 *USTAWA z dnia 26 września 2025 r.*
 

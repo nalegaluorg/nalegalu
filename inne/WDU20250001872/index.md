@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu poprawy bezpieczeństwa ruchu drogowego
+# Ustawa z dnia 4 grudnia 2025 r. o zmianie niektórych ustaw w celu poprawy bezpieczeństwa ruchu drogowego
 
 *USTAWA z dnia 4 grudnia 2025 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie nadania statutu Agencji Rynku Rolnego.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 25 czerwca 1999 r. zmieniające rozporządzenie w sprawie nadania statutu Agencji Rynku Rolnego.
 
 | Pole | Wartość |
 |---|---|

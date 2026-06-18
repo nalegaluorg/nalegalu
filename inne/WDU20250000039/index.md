@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Radzie Fiskalnej
+# Ustawa z dnia 20 grudnia 2024 r. o Radzie Fiskalnej
 
 *USTAWA z dnia 20 grudnia 2024 r.*
 
@@ -379,7 +379,11 @@ source: pdf
 
 - **9)** po art. 112d dodaje się art. 112da–112dc w brzmieniu: „Art. 112da. 1. Jeżeli w roku n, o którym mowa w art. 112aa ust. 1, zaistnieje jeden z przypadków, o których mowa w art. 112d ust. 1, Minister Finansów może wystąpić do Rady Fiskalnej z wnioskiem o wydanie opinii dotyczącej zasadności zastosowania do projektu ustawy budżetowej na rok n, o którym mowa w art. 112aa ust. 1, przepisu art. 112d ust. 1. Przepisy art. 4 ust. 4 i 5 ustawy o Radzie Fiskalnej stosuje się odpowiednio.
 
-2. W przypadku gdy opinia, o której mowa w ust. 1, jest negatywna, Minister Finansów przedstawia Radzie Ministrów projekt ustawy budżetowej na rok n, o którym mowa w art. 112aa ust. 1, w którym kwotę wydatków, o której mowa w art. 112aa ust. 1, oblicza odpowiednio zgodnie z art. 112aa ust. 1. Przepisy art. 112d ust. 3‒7 stosuje się odpowiednio. Art. 112db. 1. W przypadkach, o których mowa w art. 112d ust. 1, Minister Finansów może wystąpić do Rady Fiskalnej z wnioskiem o wydanie opinii dotyczącej wpływu zastosowania tego przepisu na długookresową stabilność finansów publicznych oraz sytuację makroekonomiczną kraju, proponując następujące parametry ze wzoru, o którym mowa w art. 112d ust. 3:
+2. W przypadku gdy opinia, o której mowa w ust. 1, jest negatywna, Minister Finansów przedstawia Radzie Ministrów projekt ustawy budżetowej na rok n, o którym mowa w art. 112aa ust. 1, w którym kwotę wydatków, o której mowa w art. 112aa ust. 1, oblicza odpowiednio zgodnie z art. 112aa ust. 1. Przepisy art. 112d ust. 3‒7 stosuje się odpowiednio.
+
+**Art. 112db.**
+
+1. W przypadkach, o których mowa w art. 112d ust. 1, Minister Finansów może wystąpić do Rady Fiskalnej z wnioskiem o wydanie opinii dotyczącej wpływu zastosowania tego przepisu na długookresową stabilność finansów publicznych oraz sytuację makroekonomiczną kraju, proponując następujące parametry ze wzoru, o którym mowa w art. 112d ust. 3:
 
 - **1)** rok, na który w projekcie ustawy budżetowej przedłożonym Sejmowi kwotę wydatków oblicza się zgodnie z art. 112aa ust. 1;
 - **2)** wartość (S +S ) na każdy rok, na który kwota wydatków obliczana byłaby zgodnie z art. 112d ust. 3.
@@ -400,7 +404,11 @@ source: pdf
 - **1)** uwzględnia opinię Rady Fiskalnej, o której mowa w ust. 1, przepis art. 112d stosuje się odpowiednio;
 - **2)** nie uwzględnia opinii Rady Fiskalnej, o której mowa w ust. 1, w załącznikach do projektu ustawy budżetowej zamieszcza się tę opinię wraz ze stanowiskiem Ministra Finansów.
 
-7. W roku, na który kwota wydatków została obliczona zgodnie z art. 112d ust. 3, Rada Ministrów może wystąpić do Rady Fiskalnej z wnioskiem o wydanie opinii dotyczącej wpływu zastosowania przepisu art. 112d ust. 3 do projektu ustawy budżetowej na rok n, o którym mowa w art. 112aa ust. 1, na długookresową stabilność finansów publicznych oraz sytuację makroekonomiczną kraju. Przepisy ust. 1 i 3–6 oraz przepisy art. 4 ust. 4 i 5 ustawy o Radzie Fiskalnej stosuje się odpowiednio. Art. 112dc. 1. Minister Finansów, nie rzadziej niż co 5 lat, dokonuje przeglądu stosowania przepisów art. 112aa–112ac i art. 112d–112db i sporządza informację o ich stosowaniu.
+7. W roku, na który kwota wydatków została obliczona zgodnie z art. 112d ust. 3, Rada Ministrów może wystąpić do Rady Fiskalnej z wnioskiem o wydanie opinii dotyczącej wpływu zastosowania przepisu art. 112d ust. 3 do projektu ustawy budżetowej na rok n, o którym mowa w art. 112aa ust. 1, na długookresową stabilność finansów publicznych oraz sytuację makroekonomiczną kraju. Przepisy ust. 1 i 3–6 oraz przepisy art. 4 ust. 4 i 5 ustawy o Radzie Fiskalnej stosuje się odpowiednio.
+
+**Art. 112dc.**
+
+1. Minister Finansów, nie rzadziej niż co 5 lat, dokonuje przeglądu stosowania przepisów art. 112aa–112ac i art. 112d–112db i sporządza informację o ich stosowaniu.
 
 2. Informacja, o której mowa w ust. 1, zawiera w szczególności:
 

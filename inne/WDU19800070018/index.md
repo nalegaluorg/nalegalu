@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych
+# Ustawa z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych
 
 *USTAWA z dnia 31 stycznia 1980 r.*
 

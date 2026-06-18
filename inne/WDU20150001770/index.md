@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowaniu niektórych świadczeń zdrowotnych w latach 2015–2018
+# Ustawa z dnia 25 września 2015 r. o finansowaniu niektórych świadczeń zdrowotnych w latach 2015-2018
 
 *USTAWA z dnia 25 września 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych
+# Ustawa z dnia 8 czerwca 2017 r. o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych
 
 *USTAWA z dnia 8 czerwca 2017 r.*
 

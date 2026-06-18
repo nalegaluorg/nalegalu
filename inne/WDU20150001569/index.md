@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pracy na morzu
+# Ustawa z dnia 5 sierpnia 2015 r. o pracy na morzu
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 

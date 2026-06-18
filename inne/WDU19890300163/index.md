@@ -614,7 +614,9 @@ source: pdf
 - **2)** zobrazowań lotniczych, ortofotomapy lub numerycznego modelu terenu, a także map tematycznych i specjalnych wykonywanych na zamówienie innych podmiotów niż podmioty, o których mowa w art. 2 ust. 1 i 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
 - **3)** tyczenia budynków lub sieci uzbrojenia terenu.
 
-2. (uchylony) Art. 12ca. Do aktualizacji przez:
+2. (uchylony)
+
+**Art. 12ca.** Do aktualizacji przez:
 
 - **1)** marszałka województwa bazy danych, o której mowa w art. 4 ust. 1a pkt 8,
 - **2)** Głównego Geodetę Kraju baz danych, o których mowa w art. 4 ust. 1a pkt 1, 4, 5, 9 i 11 – nierealizowanej jako przedmiot zamówienia publicznego nie stosuje się przepisów art. 11–12b i art. 42–46w.
@@ -1005,7 +1007,11 @@ source: pdf
 
 10. W przypadku gdy narada koordynacyjna została przeprowadzona za pomocą środków komunikacji elektronicznej, protokół tej narady zawiera, zamiast podpisów wszystkich uczestników tej narady, podpisy jej przewodniczącego, protokolanta oraz innych osób, które osobiście stawiły się na naradzie, a także adnotację o uzgodnieniu treści protokołu z osobami, które uczestniczyły w naradzie wyłącznie za pomocą środków komunikacji elektronicznej.
 
-11. Odpisy protokołu narady koordynacyjnej wydaje się wnioskodawcy w dniu jej zakończenia, a innym podmiotom zawiadomionym o naradzie – w terminie 3 dni od dnia złożenia żądania w tej sprawie. Art. 28ba. 1. Nieobecność na naradzie koordynacyjnej podmiotu należycie zawiadomionego o jej miejscu i terminie nie stanowi przeszkody do jej przeprowadzenia. Przyjmuje się, że podmiot ten nie składa zastrzeżeń do usytuowania projektowanej sieci uzbrojenia terenu przedstawionego w planie sytuacyjnym, o którym mowa w art. 28b ust. 3.
+11. Odpisy protokołu narady koordynacyjnej wydaje się wnioskodawcy w dniu jej zakończenia, a innym podmiotom zawiadomionym o naradzie – w terminie 3 dni od dnia złożenia żądania w tej sprawie.
+
+**Art. 28ba.**
+
+1. Nieobecność na naradzie koordynacyjnej podmiotu należycie zawiadomionego o jej miejscu i terminie nie stanowi przeszkody do jej przeprowadzenia. Przyjmuje się, że podmiot ten nie składa zastrzeżeń do usytuowania projektowanej sieci uzbrojenia terenu przedstawionego w planie sytuacyjnym, o którym mowa w art. 28b ust. 3.
 
 2. W przypadku gdy na naradzie koordynacyjnej jej uczestnicy uzgodnią zmiany w usytuowaniu projektowanej sieci uzbrojenia terenu w stosunku do usytuowania przedstawionego na planie sytuacyjnym, o którym mowa w art. 28b ust. 3, starosta, w terminie 7 dni od dnia przeprowadzenia narady, zawiadamia podmioty, o których mowa w ust. 1, o jej ustaleniach.
 
@@ -1013,7 +1019,11 @@ source: pdf
 
 4. Termin dodatkowej narady koordynacyjnej wyznacza się na dzień przypadający nie później niż po upływie 14 dni od dnia wystąpienia wnioskodawcy o jej przeprowadzenie.
 
-5. Do zawiadomienia o terminie dodatkowej narady koordynacyjnej starosta załącza dokument określający treść zastrzeżeń, o których mowa w ust. 3. Art. 28bb. 1. Zawiadomienia, o których mowa w art. 28b ust. 3 oraz art. 28ba ust. 2 i 5, doręcza się za pomocą środków komunikacji elektronicznej w rozumieniu przepisów ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, jeżeli została wyrażona pisemna zgoda na doręczanie pism za pomocą środków komunikacji elektronicznej wraz ze wskazaniem adresu elektronicznego.
+5. Do zawiadomienia o terminie dodatkowej narady koordynacyjnej starosta załącza dokument określający treść zastrzeżeń, o których mowa w ust. 3.
+
+**Art. 28bb.**
+
+1. Zawiadomienia, o których mowa w art. 28b ust. 3 oraz art. 28ba ust. 2 i 5, doręcza się za pomocą środków komunikacji elektronicznej w rozumieniu przepisów ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, jeżeli została wyrażona pisemna zgoda na doręczanie pism za pomocą środków komunikacji elektronicznej wraz ze wskazaniem adresu elektronicznego.
 
 2. W przypadku wyrażenia zgody, o której mowa w ust. 1, dowodem doręczenia zawiadomień, o których mowa w art. 28b ust. 3 oraz art. 28ba ust. 2 i 5, jest potwierdzenie transmisji danych.
 
@@ -1923,7 +1933,9 @@ source: pdf
 - **4)** ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz. 951, 1688 i 1904);
 - **5)** ustawy z dnia 24 października 1974 r. – Prawo budowlane (Dz. U. poz. 229, z późn. zm. ) ;
 - **6)** ustawy z dnia 24 października 1974 r. – Prawo wodne (Dz. U. poz. 230, z późn. zm. ) ;
-- **7)** ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917). Art. 55–57. (pominięte)
+- **7)** ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917).
+
+**Art. 55–57.** (pominięte)
 
 **Art. 58.** Tracą moc:
 

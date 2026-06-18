@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny wykonawczy
+# Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy - Kodeks karny wykonawczy
 
 *USTAWA z dnia 19 grudnia 2008 r.*
 

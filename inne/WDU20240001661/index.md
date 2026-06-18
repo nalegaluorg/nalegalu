@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie teleinformatycznym do obsługi niektórych umów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie teleinformatycznym do obsługi niektórych umów
 
 *USTAWA z dnia 16 listopada 2022 r.*
 
@@ -251,7 +251,9 @@ source: pdf
 
 2. W przypadku, o którym mowa w ust. 1, dokumenty wchodzące w skład dokumentacji pracowniczej albo dokumentacji umowy będą przechowywane w Systemie do czasu zniszczenia tej dokumentacji zgodnie z art. 13.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do podmiotu niebędącego mikroprzedsiębiorcą zatrudniającego nie więcej niż 9 osób. Art. 15–19. (pominięte)
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do podmiotu niebędącego mikroprzedsiębiorcą zatrudniającego nie więcej niż 9 osób.
+
+**Art. 15–19.** (pominięte)
 
 **Art. 20.**
 

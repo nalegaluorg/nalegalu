@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowych warunków i trybu przyjmowania na studia w Wyższej Szkole Policji w Szczytnie, przebiegu immatrykulacji oraz studiów, a także organów właściwych w tych sprawach.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 kwietnia 1999 r. w sprawie szczegółowych warunków i trybu przyjmowania na studia w Wyższej Szkole Policji w Szczytnie, przebiegu immatrykulacji oraz studiów, a także organów właściwych w tych sprawach.
 
 | Pole | Wartość |
 |---|---|

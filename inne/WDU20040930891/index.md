@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie konkurencji i konsumentów oraz o zmianie niektórych innych ustaw
+# Ustawa z 16 kwietnia 2004 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 16 kwietnia 2004 r.*
 

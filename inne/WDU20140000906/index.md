@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego kroplonego gazu ziemnego w Świnoujściu oraz ustawy o gospodarce nieruchomościami
+# Ustawa z dnia 30 maja 2014 r. o zmianie ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu oraz ustawy o gospodarce nieruchomościami
 
 *USTAWA z dnia 30 maja 2014 r.*
 

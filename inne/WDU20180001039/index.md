@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie monitorowania drogowego przewozu towarów oraz niektórych innych ustaw
+# Ustawa z dnia 10 maja 2018 r. o zmianie ustawy o systemie monitorowania drogowego przewozu towarów oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 maja 2018 r.*
 
@@ -282,7 +282,12 @@ source: pdf
     - **b)** w ust. 7 wyrazy „o którym mowa w art. 78a ust. 14” zastępuje się wyrazami „o którym mowa w art. 37av ust. 14”;
 
 - **2)** w art. 37at dodaje się ust. 8 w brzmieniu: „8. Na wezwanie organu zezwalającego i w terminie przez niego wyznaczonym przedsiębiorca jest obowiązany przekazać dokumentację związaną z prowadzoną działalnością. Termin ustala się, uwzględniając charakter dowodu, przy czym nie może on być krótszy niż 3 dni.”;
-- **3)** po rozdziale 2b dodaje się rozdział 2c w brzmieniu: „Rozdział 2c Monitorowanie przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych zagrożonych brakiem dostępności na terytorium Rzeczypospolitej Polskiej Art. 37av. 1. Przedsiębiorca zgłasza Głównemu Inspektorowi Farmaceutycznemu zamiar:
+- **3)** po rozdziale 2b dodaje się rozdział 2c w brzmieniu: „Rozdział 2c Monitorowanie przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych zagrożonych brakiem dostępności na terytorium Rzeczypospolitej Polskiej
+
+**Art. 37av.**
+
+1. Przedsiębiorca zgłasza Głównemu Inspektorowi Farmaceutycznemu zamiar:
+
 - **1)** wywozu poza terytorium Rzeczypospolitej Polskiej lub
 - **2)** zbycia podmiotowi prowadzącemu działalność poza terytorium Rzeczypospolitej Polskiej – produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14.
 
@@ -330,25 +335,51 @@ source: pdf
 
 16. Przedsiębiorca dokonujący zgłoszenia, o którym mowa w ust. 1, jest obowiązany przekazać kopię zgłoszenia, o którym mowa w ust. 2, przewoźnikowi, o którym mowa w art. 2 pkt 8 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów (Dz. U. poz. 708 oraz z 2018 r. poz. 138, 1000 i 1039). Kierujący, o którym mowa w art. 2 pkt 2 lit. a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów, jest obowiązany okazać kopię zgłoszenia w trakcie kontroli, o której mowa w art. 13 tej ustawy.
 
-17. Do postępowania prowadzonego w zakresie wydania sprzeciwu, o którym mowa w ust. 3, nie stosuje się art. 10, przepisów działu II rozdział 2 i 5 oraz art. 98 Kodeksu postępowania administracyjnego. Art. 37aw. Czynność prawna polegająca na zbyciu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, określonych w obwieszczeniu, o którym mowa w art. 37av ust. 14:
+17. Do postępowania prowadzonego w zakresie wydania sprzeciwu, o którym mowa w ust. 3, nie stosuje się art. 10, przepisów działu II rozdział 2 i 5 oraz art. 98 Kodeksu postępowania administracyjnego.
+
+**Art. 37aw.** Czynność prawna polegająca na zbyciu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, określonych w obwieszczeniu, o którym mowa w art. 37av ust. 14:
 
 - **1)** bez uprzedniego zgłoszenia Głównemu Inspektorowi Farmaceutycznemu,
 - **2)** przed upływem terminu na zgłoszenie sprzeciwu określonego w art. 37av ust. 3,
-- **3)** wbrew sprzeciwowi Głównego Inspektora Farmaceutycznego – jest nieważna. Art. 37ax. Wywóz poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, określonych w obwieszczeniu, o którym mowa w art. 37av ust. 14, wymaga zgłoszenia, o którym mowa w art. 5 ust. 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów. Art. 37ay. 1. Główny Inspektor Farmaceutyczny zawiera umowę o strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz dla celów dokonywania oględzin towaru, o których mowa w art. 13 ust. 2a tej ustawy, z przedsiębiorcą prowadzącym działalność polegającą na prowadzeniu hurtowni farmaceutycznej.
+- **3)** wbrew sprzeciwowi Głównego Inspektora Farmaceutycznego – jest nieważna.
 
-2. Umowa, o której mowa w ust. 1, może przewidywać zlecanie strzeżenia i przechowywania towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów podwykonawcom, pod warunkiem uzyskania uprzedniej zgody Głównego Inspektora Farmaceutycznego wyrażonej na piśmie. Art. 37az. 1. Za strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów pobiera się opłaty.
+**Art. 37ax.** Wywóz poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, określonych w obwieszczeniu, o którym mowa w art. 37av ust. 14, wymaga zgłoszenia, o którym mowa w art. 5 ust. 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów.
 
-2. Za uiszczenie opłaty odpowiada podmiot wysyłający w rozumieniu ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów. Art. 37aza. 1. Główny Inspektor Farmaceutyczny ustala, w drodze postanowienia, wysokość opłaty za strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz termin i sposób ich uiszczania.
+**Art. 37ay.**
+
+1. Główny Inspektor Farmaceutyczny zawiera umowę o strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz dla celów dokonywania oględzin towaru, o których mowa w art. 13 ust. 2a tej ustawy, z przedsiębiorcą prowadzącym działalność polegającą na prowadzeniu hurtowni farmaceutycznej.
+
+2. Umowa, o której mowa w ust. 1, może przewidywać zlecanie strzeżenia i przechowywania towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów podwykonawcom, pod warunkiem uzyskania uprzedniej zgody Głównego Inspektora Farmaceutycznego wyrażonej na piśmie.
+
+**Art. 37az.**
+
+1. Za strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów pobiera się opłaty.
+
+2. Za uiszczenie opłaty odpowiada podmiot wysyłający w rozumieniu ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów.
+
+**Art. 37aza.**
+
+1. Główny Inspektor Farmaceutyczny ustala, w drodze postanowienia, wysokość opłaty za strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz termin i sposób ich uiszczania.
 
 2. Wysokość opłaty, o której mowa w ust. 1, odpowiada średniej cenie rynkowej usług w zakresie strzeżenia i przechowywania produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych przez przedsiębiorców prowadzących działalność polegającą na prowadzeniu hurtowni farmaceutycznych.
 
 3. Na postanowienie, o którym mowa w ust. 1, służy zażalenie.
 
-4. Opłata, o której mowa w ust. 1, stanowi dochód budżetu państwa. Art. 37azb. Egzekucja należności pieniężnych, o których mowa w art. 37az, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji. Art. 37azc. 1. Maksymalna wysokość stawki kwotowej opłat, o których mowa w art. 37az, za każdą dobę strzeżenia i przechowywania wynosi 150 zł za miejsce paletowe w powierzchni magazynowej.
+4. Opłata, o której mowa w ust. 1, stanowi dochód budżetu państwa.
+
+**Art. 37azb.** Egzekucja należności pieniężnych, o których mowa w art. 37az, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+**Art. 37azc.**
+
+1. Maksymalna wysokość stawki kwotowej opłat, o których mowa w art. 37az, za każdą dobę strzeżenia i przechowywania wynosi 150 zł za miejsce paletowe w powierzchni magazynowej.
 
 2. Maksymalna stawka kwotowa opłaty, o której mowa w ust. 1, obowiązująca w danym roku kalendarzowym, ulega corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych w okresie pierwszego półrocza roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.
 
-3. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” maksymalną stawkę kwotową opłaty, o której mowa w ust. 1, z uwzględnieniem zasady określonej w ust. 2, obowiązującą w następnym roku kalendarzowym, zaokrąglając ją w górę do pełnych złotych, w terminie do dnia 1 grudnia danego roku. Art. 37azd. 1. W przypadkach, o których mowa w art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów, sąd, na wniosek Głównego Inspektora Farmaceutycznego, orzeka:
+3. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” maksymalną stawkę kwotową opłaty, o której mowa w ust. 1, z uwzględnieniem zasady określonej w ust. 2, obowiązującą w następnym roku kalendarzowym, zaokrąglając ją w górę do pełnych złotych, w terminie do dnia 1 grudnia danego roku.
+
+**Art. 37azd.**
+
+1. W przypadkach, o których mowa w art. 16 ust. 1a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów, sąd, na wniosek Głównego Inspektora Farmaceutycznego, orzeka:
 
 - **1)** przepadek towarów zatrzymanych – jeżeli Główny Inspektor Farmaceutyczny stwierdził na podstawie dokumentów przedstawionych przez podmiot wysyłający w rozumieniu ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów, a w przypadku powzięcia wątpliwości – także po przeprowadzeniu dodatkowego sprawdzenia, że towary te były transportowane i przechowywane zgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej lub Dobrej Praktyki Wytwarzania;
 - **2)** przepadek i zniszczenie towarów zatrzymanych, jeżeli:
@@ -361,7 +392,11 @@ source: pdf
 
 4. Koszty zniszczenia w wysokości odpowiadającej rzeczywistym wydatkom poniesionym na to zniszczenie ustala, w drodze postanowienia, naczelnik urzędu skarbowego. Przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, 650, 723, 771, 1000 i 1039) stosuje się odpowiednio.
 
-5. Do spraw o przepadek towaru przepisy art. 610 –610 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm. ) stosuje się odpowiednio. Art. 37aze. 1. Główny Inspektor Farmaceutyczny niezwłocznie przekazuje prawomocne orzeczenie, o którym mowa w art. 37azd ust. 1, naczelnikowi urzędu skarbowego właściwemu według miejsca przechowywania zatrzymanego towaru – do wykonania.
+5. Do spraw o przepadek towaru przepisy art. 610 –610 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm. ) stosuje się odpowiednio.
+
+**Art. 37aze.**
+
+1. Główny Inspektor Farmaceutyczny niezwłocznie przekazuje prawomocne orzeczenie, o którym mowa w art. 37azd ust. 1, naczelnikowi urzędu skarbowego właściwemu według miejsca przechowywania zatrzymanego towaru – do wykonania.
 
 2. W przypadkach, o których mowa w art. 37azd ust. 1 pkt 1, naczelnik urzędu skarbowego sprzedaje towary, których termin przydatności albo data ważności nie upłynęły, na rzecz podmiotów uprawnionych do prowadzenia obrotu tymi towarami, z zastrzeżeniem, że nabywcą nie może być ostatni właściciel tych towarów przed orzeczeniem ich przepadku.
 
@@ -373,7 +408,9 @@ source: pdf
 
 6. Naczelnik, o którym mowa w ust. 5, sprzedaje towary w trybie przepisów wydanych na podstawie art. 109 § 1 pkt 1 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm. ), z zastrzeżeniem, że nabywcą nie może być ich ostatni właściciel przed skierowaniem wniosku, o którym mowa w ust. 5.
 
-7. Środki pieniężne uzyskane ze sprzedaży, o której mowa w ust. 6, wpłaca się na rachunek depozytowy naczelnika urzędu skarbowego. Art. 37azf. Do zniszczenia produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych stosuje się odpowiednio przepisy wydane na podstawie art. 179a § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2017 r. poz. 2226 oraz z 2018 r. poz. 201 i 771).”;
+7. Środki pieniężne uzyskane ze sprzedaży, o której mowa w ust. 6, wpłaca się na rachunek depozytowy naczelnika urzędu skarbowego.
+
+**Art. 37azf.** Do zniszczenia produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych stosuje się odpowiednio przepisy wydane na podstawie art. 179a § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2017 r. poz. 2226 oraz z 2018 r. poz. 201 i 771).”;
 
 - **4)** w art. 42 w ust. 1 w pkt 4 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „c) aktualnej pełnej listy środków transportu, wraz z numerami rejestracyjnymi, wykorzystywanych w zakresie działalności objętej zezwoleniem, z tym że w przypadku rozpoczęcia działalności po uzyskaniu zezwolenia przekazanie listy powinno nastąpić niezwłocznie po dokonaniu pierwszej transakcji, nie później niż po upływie 4 miesięcy od dnia uzyskania zezwolenia;”;
 - **5)** w art. 72 w ust. 8 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) sprzedaż przez naczelników urzędów skarbowych towarów w przypadkach, o których mowa w art. 37azd ust. 1 pkt 1.”;

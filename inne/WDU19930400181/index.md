@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o uporządkowaniu stosunków kredytowych
+# Ustawa z dnia 29 grudnia 1992 r. o zmianie ustawy o uporządkowaniu stosunków kredytowych.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie identyfikacji i rejestracji zwierząt
+# Ustawa z dnia 25 czerwca 2009 r. o zmianie ustawy o systemie identyfikacji i rejestracji zwierząt
 
 *USTAWA z dnia 25 czerwca 2009 r.*
 

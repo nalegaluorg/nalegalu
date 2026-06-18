@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarce finansowej przedsiębiorstw państwowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 czerwca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarce finansowej przedsiębiorstw państwowych
 
 | Pole | Wartość |
 |---|---|

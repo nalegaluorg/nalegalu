@@ -85,7 +85,6 @@ V. Oświadczenie osoby, której wniosek dotyczy Część V.A.
 Dane zawarte w pkt 1 i 2 poniżej potwierdza dyrektor aresztu lub zakładu karnego ..................................................................................................................................................
 3. Czy otrzymywał(a) Pan(i) rentę socjalną bezpośrednio przed tymczasowym aresztowaniem lub odbywaniem kary pozbawienia wolności*. Tak – Nie *.
 Jeżeli tak – podać nazwę i adres zakładu lub organu, który wypłaca to świadczenie, oraz numer sprawy ..................................................................................................................................................
-Wypełnia się w przypadku ubiegania się o wypłacanie 50 % kwoty renty socjalnej w celu dokonywania opłat z tytułu czynszu lub innych należności za lokal mieszkalny lub dom jednorodzinny.
 1. Oświadczam, że jestem – nie jestem* osobą samotnie gospodarującą.
 2. W przypadku wypłacania 50 % kwoty renty socjalnej zobowiązuję się – nie zobowiązuję się* do regulowania opłat z tytułu czynszu lub innych należności za lokal mieszkalny lub dom jednorodzinny.
 3. Dołączam:
@@ -109,5 +108,5 @@ Instrukcja wypełnienia wniosku
 3) w przypadku współwłasności nieruchomości rolnej podać wielkość udziału w tej współwłasności.
 8. Dane w oświadczeniu w części V.A pkt 1 podane przez osobę, której wniosek dotyczy, potwierdza dyrektor aresztu lub zakładu karnego.
 
-## Część V.B.
+## Część V.B. Wypełnia się w przypadku ubiegania się o wypłacanie 50 % kwoty renty socjalnej w celu dokonywania opłat z tytułu czynszu lub innych należności za lokal mieszkalny lub dom jednorodzinny.
 

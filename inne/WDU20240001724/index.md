@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2 %
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2 %
 
 *USTAWA z dnia 1 października 2021 r.*
 

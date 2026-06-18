@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Karta Nauczyciela, ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawy o oznaczaniu wyrobów znakami skarbowymi akcyzy, ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu oraz ustawy o zmianie niektórych ustaw związanych z funkcjonowaniem administracji publicznej
+# Ustawa z dnia 22 grudnia 2000 r. o zmianie ustawy - Karta Nauczyciela, ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawy o oznaczaniu wyrobów znakami skarbowymi akcyzy, ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu oraz ustawy o zmianie niektórych ustaw związanych z funkcjonowaniem administracji publicznej.
 
 *USTAWA z dnia 22 grudnia 2000 r.*
 

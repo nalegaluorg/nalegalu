@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach
+# Ustawa z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach.
 
 *USTAWA z dnia 30 października 2002 r.*
 

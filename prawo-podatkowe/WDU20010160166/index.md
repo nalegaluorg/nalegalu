@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o nabywaniu nieruchomości przez cudzoziemców oraz ustawy - Ordynacja podatkowa - w związku z dostosowaniem do prawa Unii Europejskiej
+# Ustawa z dnia 3 lutego 2001 r. o zmianie ustawy o nabywaniu nieruchomości przez cudzoziemców oraz ustawy - Ordynacja Podatkowa - w związku z dostosowaniem do prawa Unii Europejskiej.
 
 *USTAWA z dnia 3 lutego 2001 r.*
 

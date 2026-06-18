@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Polskim Rejestrze Statków
+# Ustawa z dnia 26 października 2000 r. o Polskim Rejestrze Statków.
 
 *USTAWA z dnia 26 października 2000 r.*
 

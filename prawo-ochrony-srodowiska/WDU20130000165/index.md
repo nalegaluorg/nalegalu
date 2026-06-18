@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw
+# Ustawa z dnia 4 stycznia 2013 r. o zmianie ustawy - Prawo wodne oraz niektórych innych ustaw
 
 *USTAWA z dnia 4 stycznia 2013 r.*
 

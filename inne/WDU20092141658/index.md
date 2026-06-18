@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 25 czerwca 2009 r. o zmianie ustawy o transporcie kolejowym
 
 *USTAWA z dnia 25 czerwca 2009 r.*
 

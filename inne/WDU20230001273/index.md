@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027
+# Ustawa z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021-2027
 
 *USTAWA z dnia 26 maja 2023 r.*
 

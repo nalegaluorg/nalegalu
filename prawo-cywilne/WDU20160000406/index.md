@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks rodzinny i opiekuńczy
+# Ustawa z dnia 18 marca 2016 r. o zmianie ustawy - Kodeks rodzinny i opiekuńczy
 
 *USTAWA z dnia 18 marca 2016 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów oraz ustawy – Prawo budowlane
+# Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów oraz ustawy - Prawo budowlane
 
 *USTAWA z dnia 7 listopada 2008 r.*
 

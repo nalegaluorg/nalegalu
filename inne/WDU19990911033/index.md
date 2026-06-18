@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 10 listopada 1999 r. w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej.
 
 | Pole | Wartość |
 |---|---|

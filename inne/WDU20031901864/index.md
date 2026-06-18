@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych oraz o zmianie niektórych ustaw
+# Ustawa z dnia 12 września 2003 r. o zmianie ustawy o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych oraz o zmianie niektórych ustaw
 
 *USTAWA z dnia 12 września 2003 r.*
 

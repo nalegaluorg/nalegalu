@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowej Szkole Sądownictwa i Prokuratury
+# Ustawa z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury
 
 *USTAWA z dnia 23 stycznia 2009 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2009-02-17 |
 | Ostatnia zmiana | 2026-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090260157) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/157/text.pdf) |
-
-Art. 57–64. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1152,6 +1150,8 @@ Art. 57–64. (pominięte)
 2. Minister Sprawiedliwości jest administratorem danych osobowych przetwarzanych w celu realizacji jego zadań, obowiązków lub uprawnień wynikających z ustawy.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 57–64.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

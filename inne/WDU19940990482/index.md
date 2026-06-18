@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utracie mocy obowiązującej art. 21 ust. 2 pkt 4 lit a) ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego.
+# Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 9 września 1994 r. o utracie mocy obowiązującej art. 21 ust. 2 pkt 4 lit. a) ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego.
 
 | Pole | Wartość |
 |---|---|

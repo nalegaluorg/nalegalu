@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy – Prawo o adwokaturze i niektórych innych ustaw
+# Ustawa z dnia 21 lipca 2006 r. zmieniająca ustawę o zmianie ustawy - Prawo o adwokaturze i niektórych innych ustaw
 
 *USTAWA z dnia 21 lipca 2006 r.*
 

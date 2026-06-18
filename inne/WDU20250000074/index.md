@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o dotacji przeznaczonej dla niektórych podmiotów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 stycznia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dotacji przeznaczonej dla niektórych podmiotów
 
 | Pole | Wartość |
 |---|---|

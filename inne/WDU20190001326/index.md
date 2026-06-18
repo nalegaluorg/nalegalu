@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie tłumacza przysięgłego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie tłumacza przysięgłego
 
 | Pole | Wartość |
 |---|---|
@@ -41,7 +41,6 @@ poz. 1669),
 Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 25 listopada 2004 r.
 o zawodzie tłumacza przysięgłego
-Art. 30–32. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -317,6 +316,8 @@ Art. 30–32. (pominięte)
 **Art. 29c.** Okres przechowywania danych osobowych zgromadzonych przez tłumacza przysięgłego w związku z tłumaczeniem wynosi 4 lata od zakończenia roku kalendarzowego, w którym dane zostały zgromadzone. Po upływie tego okresu dane osobowe podlegają usunięciu, chyba że dalsze ich przechowywanie jest niezbędne dla ochrony praw lub dochodzenia roszczeń.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 30–32.** (pominięte)
 
 **Art. 33.**
 

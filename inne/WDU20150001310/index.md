@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy społecznej
+# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o pomocy społecznej
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przekształceniach w administracji celnej oraz o zmianie niektórych ustaw
+# Ustawa z dnia 20 marca 2002 r. o przekształceniach w administracji celnej oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 20 marca 2002 r.*
 

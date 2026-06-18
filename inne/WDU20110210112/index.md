@@ -1663,7 +1663,11 @@ Wybory uzupełniające i przedterminowe
 - **1)** zrzeczenia się funkcji;
 - **2)** śmierci;
 - **3)** podpisania zgody na zgłoszenie do komisji wyborczej, kandydowanie w wyborach bądź objęcie funkcji pełnomocnika, komisarza wyborczego, urzędnika wyborczego;
-- **4)** odwołania. Art. 103aa. § 1. Mężowi zaufania wyznaczonemu do obwodowej komisji wyborczej przysługuje dieta w wysokości 40 % zryczałtowanej diety członków obwodowych komisji wyborczych.
+- **4)** odwołania.
+
+**Art. 103aa.**
+
+§ 1. Mężowi zaufania wyznaczonemu do obwodowej komisji wyborczej przysługuje dieta w wysokości 40 % zryczałtowanej diety członków obwodowych komisji wyborczych.
 
 § 2. Dieta wypłacana jest wyłącznie tym mężom zaufania, którzy obserwowali głosowanie przez co najmniej 5 godzin i obserwowali cały przebieg ustalania wyników głosowania do momentu podpisania protokołu głosowania zgodnie z art. 75 § 5.
 
@@ -1699,7 +1703,11 @@ Wybory uzupełniające i przedterminowe
 - **3)** wnosić do protokołu uwagi, z wymienieniem konkretnych zarzutów;
 - **4)** być obecnym przy przewożeniu i przekazywaniu protokołu do właściwej komisji wyborczej wyższego stopnia.
 
-§ 2. O wniesieniu uwag, o których mowa w § 1 pkt 3, zamieszcza się w protokole adnotację. Art. 103ba. § 1. Mężowi zaufania w związku z wykonywaniem zadań przysługuje zwolnienie od pracy na dzień głosowania oraz liczenia głosów, a także na dzień następujący po dniu, w którym zakończono liczenie głosów, z zachowaniem prawa do świadczeń z ubezpieczenia społecznego oraz uprawnień ze stosunku pracy.
+§ 2. O wniesieniu uwag, o których mowa w § 1 pkt 3, zamieszcza się w protokole adnotację.
+
+**Art. 103ba.**
+
+§ 1. Mężowi zaufania w związku z wykonywaniem zadań przysługuje zwolnienie od pracy na dzień głosowania oraz liczenia głosów, a także na dzień następujący po dniu, w którym zakończono liczenie głosów, z zachowaniem prawa do świadczeń z ubezpieczenia społecznego oraz uprawnień ze stosunku pracy.
 
 § 2. Mężowie zaufania w razie zamiaru skorzystania ze zwolnienia od pracy, o którym mowa w § 1, są obowiązani, co najmniej na 3 dni przed przewidywanym terminem nieobecności w pracy, uprzedzić, w formie pisemnej, pracodawcę o przyczynie i przewidywanym okresie nieobecności w pracy, a następnie, nie później niż następnego dnia po upływie okresu nieobecności w pracy, dostarczyć pracodawcy zaświadczenie usprawiedliwiające nieobecność w pracy wykonywaniem zadań męża zaufania.
 
@@ -3091,7 +3099,9 @@ Wybory uzupełniające i przedterminowe
 
 § 3. Wykaz urzędników wyborczych działających na obszarze danej gminy podaje się niezwłocznie do publicznej wiadomości w sposób zwyczajowo przyjęty.
 
-§ 4. Państwowa Komisja Wyborcza określi w drodze uchwały liczbę, tryb i warunki powoływania urzędników wyborczych biorąc pod uwagę konieczność zapewnienia prawidłowego i sprawnego przygotowania, przebiegu wyborów oraz funkcjonowania obwodowych komisji wyborczych. Art. 191ca. W przypadku zagrożenia wykonania zadań, o których mowa w art. 191e § 1, Szef Krajowego Biura Wyborczego może powierzyć, nie dłużej niż na czas danych wyborów, wykonywanie funkcji urzędnika wyborczego osobie niespełniającej wymogów określonych w art. 191b § 1 zdanie drugie.
+§ 4. Państwowa Komisja Wyborcza określi w drodze uchwały liczbę, tryb i warunki powoływania urzędników wyborczych biorąc pod uwagę konieczność zapewnienia prawidłowego i sprawnego przygotowania, przebiegu wyborów oraz funkcjonowania obwodowych komisji wyborczych.
+
+**Art. 191ca.** W przypadku zagrożenia wykonania zadań, o których mowa w art. 191e § 1, Szef Krajowego Biura Wyborczego może powierzyć, nie dłużej niż na czas danych wyborów, wykonywanie funkcji urzędnika wyborczego osobie niespełniającej wymogów określonych w art. 191b § 1 zdanie drugie.
 
 **Art. 191d.**
 

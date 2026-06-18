@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji oraz niektórych innych ustaw
+# Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o Policji oraz niektórych innych ustaw
 
 *USTAWA z dnia 11 sierpnia 2021 r.*
 
@@ -425,7 +425,11 @@ source: pdf
 
 3. Opiekun, o którym mowa w art. 147x pkt 5, zapewnia prawidłowe utrzymanie konia służbowego w zakresie, o którym mowa w ust. 1, z wyłączeniem poddawania konia terminowym szczepieniom i zabiegom profilaktycznym.
 
-4. Za terminową realizację szczepień koni służbowych oraz zabiegów profilaktycznych, o których mowa w ust. 1 pkt 2, odpowiada kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę. Art. 147za. 1. Żywienie psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia jest dostosowane do potrzeb jego organizmu, wagi, wieku, stanu zdrowia, warunków klimatycznych, funkcji fizjologicznych oraz wysiłku fizycznego lub wskazań lekarza weterynarii.
+4. Za terminową realizację szczepień koni służbowych oraz zabiegów profilaktycznych, o których mowa w ust. 1 pkt 2, odpowiada kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę.
+
+**Art. 147za.**
+
+1. Żywienie psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia jest dostosowane do potrzeb jego organizmu, wagi, wieku, stanu zdrowia, warunków klimatycznych, funkcji fizjologicznych oraz wysiłku fizycznego lub wskazań lekarza weterynarii.
 
 2. Żywienie psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia odbywa się na podstawie normy wyżywienia, którą stanowi dobowa ilość karmy lub paszy, artykułów spożywczych oraz dodatków paszowych niezbędnych do prawidłowego żywienia jednego psa lub konia. Z uwagi na zwiększone zapotrzebowanie energetyczne i odżywcze w trakcie odbywania szkolenia przez psa służbowego lub konia służbowego norma ta może zostać podwyższona. W przypadku wycofania psa służbowego lub konia służbowego z użycia norma ta jest zmniejszana w związku ze zmniejszonym wysiłkiem fizycznym zwierzęcia.
 
@@ -444,7 +448,11 @@ source: pdf
 - **5)** powierzenia opieki nad psem służbowym lub koniem służbowym innemu opiekunowi, o którym mowa w art. 147zg ust. 3 albo 4;
 - **6)** korzystania przez zwierzę w trakcie odbywania szkolenia z wyżywienia w naturze.
 
-7. W sprawach, o których mowa w ust. 3–6, właściwy jest kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę. Art. 147zb. 1. Psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia poddaje się zabiegom profilaktycznym i leczeniu według wskazań lekarza weterynarii. Leczenie psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia następuje po uprzednim uzgodnieniu z kierownikiem jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę, lub z osobą przez niego upoważnioną.
+7. W sprawach, o których mowa w ust. 3–6, właściwy jest kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę.
+
+**Art. 147zb.**
+
+1. Psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia poddaje się zabiegom profilaktycznym i leczeniu według wskazań lekarza weterynarii. Leczenie psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia następuje po uprzednim uzgodnieniu z kierownikiem jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę, lub z osobą przez niego upoważnioną.
 
 2. W sytuacjach nagłych, wymagających udzielenia natychmiastowej pomocy lekarsko-weterynaryjnej w celu ratowania życia lub zdrowia psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia dopuszcza się możliwość odstąpienia od uzgodnienia zakresu udzielanej pomocy z kierownikiem jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę, lub z osobą przez niego upoważnioną.
 
@@ -454,11 +462,18 @@ source: pdf
 
 5. Koszt utylizacji zwłok psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia pokrywa się ze środków budżetowych Straży Granicznej na podstawie faktury.
 
-6. W sprawach, o których mowa w ust. 4 i 5, właściwy jest kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę. Art. 147zc. Opiekunowi oraz organizacji, o której mowa w art. 147y ust. 9, zabrania się:
+6. W sprawach, o których mowa w ust. 4 i 5, właściwy jest kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę.
+
+**Art. 147zc.** Opiekunowi oraz organizacji, o której mowa w art. 147y ust. 9, zabrania się:
 
 - **1)** zbywania zwierzęcia;
 - **2)** rozmnażania zwierzęcia;
-- **3)** wykorzystywania zwierzęcia w celach zarobkowych. Art. 147zd. 1. Psa służbowego lub konia służbowego wycofuje się z użycia w przypadku:
+- **3)** wykorzystywania zwierzęcia w celach zarobkowych.
+
+**Art. 147zd.**
+
+1. Psa służbowego lub konia służbowego wycofuje się z użycia w przypadku:
+
 - **1)** trwałej utraty sprawności użytkowej;
 - **2)** wystąpienia stanu chorobowego nierokującego poprawy;
 - **3)** wystąpienia narowów u konia;
@@ -473,14 +488,27 @@ source: pdf
 - **1)** 9. roku życia przez psa;
 - **2)** 15. roku życia przez konia.
 
-4. Psa służbowego lub konia służbowego wycofuje z użycia kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę. Art. 147ze. 1. Nadzór nad psami służbowymi, końmi służbowymi, psami służbowymi wycofanymi z użycia oraz końmi służbowymi wycofanymi z użycia sprawuje kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajdują się zwierzęta.
+4. Psa służbowego lub konia służbowego wycofuje z użycia kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę.
 
-2. Jeżeli pies służbowy wycofany z użycia lub koń służbowy wycofany z użycia znajduje się na terenie innej jednostki organizacyjnej Straży Granicznej niż wymieniona w ust. 1, na wniosek kierownika jednostki organizacyjnej Straży Granicznej, na której stanie znajdują się zwierzęta, wsparcie w trakcie realizacji nadzoru nad sposobem sprawowania opieki nad zwierzętami zapewnia kierownik jednostki organizacyjnej Straży Granicznej, na której terenie znajdują się zwierzęta. Art. 147zf. 1. Opiekun i przedstawiciel organizacji, o której mowa w art. 147y ust. 9, w celu umożliwienia sprawowania nadzoru, na żądanie funkcjonariusza lub pracownika wyznaczonego przez kierownika jednostki organizacyjnej Straży Granicznej, na której stanie albo terenie znajduje się zwierzę, okazuje zwierzę, a opiekun konia okazuje dodatkowo paszport konia.
+**Art. 147ze.**
+
+1. Nadzór nad psami służbowymi, końmi służbowymi, psami służbowymi wycofanymi z użycia oraz końmi służbowymi wycofanymi z użycia sprawuje kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajdują się zwierzęta.
+
+2. Jeżeli pies służbowy wycofany z użycia lub koń służbowy wycofany z użycia znajduje się na terenie innej jednostki organizacyjnej Straży Granicznej niż wymieniona w ust. 1, na wniosek kierownika jednostki organizacyjnej Straży Granicznej, na której stanie znajdują się zwierzęta, wsparcie w trakcie realizacji nadzoru nad sposobem sprawowania opieki nad zwierzętami zapewnia kierownik jednostki organizacyjnej Straży Granicznej, na której terenie znajdują się zwierzęta.
+
+**Art. 147zf.**
+
+1. Opiekun i przedstawiciel organizacji, o której mowa w art. 147y ust. 9, w celu umożliwienia sprawowania nadzoru, na żądanie funkcjonariusza lub pracownika wyznaczonego przez kierownika jednostki organizacyjnej Straży Granicznej, na której stanie albo terenie znajduje się zwierzę, okazuje zwierzę, a opiekun konia okazuje dodatkowo paszport konia.
 
 2. Opiekun oraz organizacja, o której mowa w art. 147y ust. 9, niezwłocznie powiadamiają kierownika jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę, o:
 
 - **1)** zmianie stałego miejsca przebywania lub chowu zwierzęcia oraz zmianie miejsca przebywania trwającej dłużej niż 30 dni, o ile nie przebywa ono w obiekcie należącym do tej jednostki organizacyjnej Straży Granicznej;
-- **2)** padnięciu albo konieczności bezzwłocznego uśmiercenia zwierzęcia na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt, utracie albo zaginięciu zwierzęcia oraz o okolicznościach tych zdarzeń. Art. 147zg. 1. Psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia odbiera się opiekunowi lub organizacji, o której mowa w art. 147y ust. 9, w przypadku:
+- **2)** padnięciu albo konieczności bezzwłocznego uśmiercenia zwierzęcia na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt, utracie albo zaginięciu zwierzęcia oraz o okolicznościach tych zdarzeń.
+
+**Art. 147zg.**
+
+1. Psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia odbiera się opiekunowi lub organizacji, o której mowa w art. 147y ust. 9, w przypadku:
+
 - **1)** stwierdzenia zaniedbania zwierzęcia;
 - **2)** niewywiązywania się z obowiązku opieki nad zwierzęciem lub postępowania wbrew zakazom, o których mowa w art. 147zc;
 - **3)** rezygnacji ze sprawowania opieki nad zwierzęciem.
@@ -489,7 +517,9 @@ source: pdf
 
 3. W przypadku przeniesienia opiekuna psa służbowego lub opiekuna konia służbowego na stanowisko służbowe niezwiązane z realizacją czynności służbowych związanych z użyciem zwierzęcia lub opieką nad zwierzęciem opieka nad tym psem lub koniem może zostać powierzona innemu opiekunowi psa służbowego lub opiekunowi konia służbowego.
 
-4. W przypadku czasowego braku możliwości sprawowania opieki nad psem służbowym lub koniem służbowym przez opiekuna kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę, może wyznaczyć czasowego opiekuna psa służbowego lub konia służbowego. Do czasowego opiekuna stosuje się odpowiednio przepisy dotyczące opiekuna psa służbowego lub konia służbowego, z zastrzeżeniem, że ryczałt na pokrycie kosztów wyżywienia zwierzęcia wypłaca się co miesiąc z góry, proporcjonalnie do okresu sprawowania opieki nad psem służbowym lub koniem służbowym. Art. 147zh. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+4. W przypadku czasowego braku możliwości sprawowania opieki nad psem służbowym lub koniem służbowym przez opiekuna kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę, może wyznaczyć czasowego opiekuna psa służbowego lub konia służbowego. Do czasowego opiekuna stosuje się odpowiednio przepisy dotyczące opiekuna psa służbowego lub konia służbowego, z zastrzeżeniem, że ryczałt na pokrycie kosztów wyżywienia zwierzęcia wypłaca się co miesiąc z góry, proporcjonalnie do okresu sprawowania opieki nad psem służbowym lub koniem służbowym.
+
+**Art. 147zh.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
 - **1)** tryb przydzielania opiekunowi psa służbowego i konia służbowego,
 - **2)** tryb rekrutacji kandydatów, którzy mogą zostać opiekunami psów służbowych wycofanych z użycia i koni służbowych wycofanych z użycia,

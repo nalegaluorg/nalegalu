@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin
+# Ustawa z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin
 
 *USTAWA z dnia 18 lutego 1994 r.*
 
@@ -26,19 +26,6 @@ source: pdf
 | Data wydania | 1994-04-25 |
 | Ostatnia zmiana | 2026-04-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940530214) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/214/text.pdf) |
-
-Art. 18ga. 1. Jako okresy równorzędne ze służbą w Służbie Celnej traktuje się przypadające w okresie od dnia 1 września 2003 r. do dnia 30 czerwca 2010 r. okresy zatrudnienia w izbie celnej wraz z podległymi jednostkami organizacyjnymi Służby Celnej pracownika, o którym mowa w art. 32 ustawy z dnia 27 czerwca 2003 r.
-o utworzeniu Wojewódzkich Kolegiów Skarbowych oraz o zmianie niektórych ustaw regulujących zadania i kompetencje organów oraz organizację jednostek organizacyjnych podległych ministrowi właściwemu do spraw finansów publicznych (Dz. U. poz. 1302, z 2005 r. poz. 1042 oraz z 2011 r. poz. 1439), przeniesionego do izby celnej albo urzędu celnego na podstawie tego przepisu i wykonującego zadania w zakresie:
-1) wymiaru i poboru podatku od towarów i usług z tytułu importu towarów lub
-2) kontroli, szczególnego nadzoru podatkowego, wymiaru i poboru podatku akcyzowego, lub
-3) kontroli przestrzegania legalności wykonywania pracy przez cudzoziemców – którego stosunek pracy przekształcił się w stosunek służbowy na podstawie art. 22b ustawy z dnia 24 lipca 1999 r. o Służbie Celnej albo art. 99 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej.
-2. Jako okres równorzędny ze służbą w Służbie Celno-Skarbowej traktuje się okres zatrudnienia w jednostkach organizacyjnych Krajowej Administracji Skarbowej od dnia przekształcenia stosunku służby w stosunek pracy na podstawie art. 171 ust. 1 pkt 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej do dnia przekształcenia tego stosunku pracy w stosunek służbowy na podstawie art. 150 ustawy z dnia 16 listopada 2016 r.
-o Krajowej Administracji Skarbowej, w wymiarze niewiększym niż 8 lat i 7 miesięcy, jeżeli przekształcenie stosunku pracy w stosunek służbowy nastąpiło przed dniem 1 stycznia 2026 r.
-3. Podstawą zaliczenia do wysługi emerytalnej okresów, o których mowa w ust. 1 i 2, jest wydane przez kierownika jednostki organizacyjnej Krajowej Administracji Skarbowej zaświadczenie potwierdzające prawo do zaliczenia wskazanych w tym zaświadczeniu okresów zatrudnienia do okresów równorzędnych ze służbą w Służbie Celnej lub Służbie Celno-Skarbowej.
-4. Zaświadczenie, o którym mowa w ust. 3, jest wydawane na wniosek złożony przez funkcjonariusza albo emeryta w terminie do dnia 30 czerwca 2026 r. do kierownika jednostki organizacyjnej Krajowej Administracji Skarbowej:
-1) w której funkcjonariusz pełni służbę w dniu składania wniosku;
-2) właściwego ze względu na ostatnie miejsce pełnienia służby – w przypadku wniosku składanego przez emeryta.
-Art. 52–56. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -346,7 +333,15 @@ Art. 52–56. (pominięte)
 - **1)** w rozminowaniu i oczyszczaniu terenu z przedmiotów wybuchowych, w służbie wywiadowczej za granicą z wykonywaniem czynności operacyjno-rozpoznawczych lub kierowaniem takimi czynnościami, działaniach ratowniczych, w fizycznej ochronie osób i mienia w warunkach zagrożenia,
 - **2)** bezpośredniej ochrony i opieki nad osadzonymi w oddziałach dla nosicieli wirusa HIV, dla osadzonych wymagających stosowania szczególnych środków leczniczo-wychowawczych i osadzonych szczególnie niebezpiecznych w okresie do dnia 31 sierpnia 1998 r. oraz w oddziałach dla osadzonych niebezpiecznych i w oddziałach terapeutycznych dla skazanych z zaburzeniami psychicznymi lub upośledzonych umysłowo po dniu 1 września 1998 r., oraz okresy pełnienia służby na froncie w czasie wojny i w strefie działań wojennych.
 
-**Art. 15a.** Emerytura dla funkcjonariusza, który został przyjęty do służby po raz pierwszy po dniu 1 stycznia 1999 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby i wzrasta na zasadach określonych w art. 15 ust. 1 pkt 1 i ust. 2–5. Art. 15aa. 1. Emerytura dla funkcjonariusza, który został przyjęty do służby po raz pierwszy w okresie po dniu 1 stycznia 1999 r. i przed dniem 1 października 2003 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby i wzrasta o 2,6 % podstawy wymiaru za każdy dalszy rok tej służby. 2. Emeryturę podwyższa się na zasadach określonych w art. 15 ust. 2–5. 3. Emerytura dla funkcjonariusza, o którym mowa w ust. 1, który w dniu zwolnienia ze służby posiada co najmniej 25 lat służby i okresów z nią równorzędnych, o których mowa w art. 13 ust. 1 pkt 1, 1d, 2 lub 5–8, wzrasta również o 1,3 % podstawy wymiaru za każdy rok poprzedzających służbę:
+**Art. 15a.** Emerytura dla funkcjonariusza, który został przyjęty do służby po raz pierwszy po dniu 1 stycznia 1999 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby i wzrasta na zasadach określonych w art. 15 ust. 1 pkt 1 i ust. 2–5.
+
+**Art. 15aa.**
+
+1. Emerytura dla funkcjonariusza, który został przyjęty do służby po raz pierwszy w okresie po dniu 1 stycznia 1999 r. i przed dniem 1 października 2003 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby i wzrasta o 2,6 % podstawy wymiaru za każdy dalszy rok tej służby.
+
+2. Emeryturę podwyższa się na zasadach określonych w art. 15 ust. 2–5.
+
+3. Emerytura dla funkcjonariusza, o którym mowa w ust. 1, który w dniu zwolnienia ze służby posiada co najmniej 25 lat służby i okresów z nią równorzędnych, o których mowa w art. 13 ust. 1 pkt 1, 1d, 2 lub 5–8, wzrasta również o 1,3 % podstawy wymiaru za każdy rok poprzedzających służbę:
 
 - **1)** okresów składkowych;
 - **2)** okresów opłacania składek na ubezpieczenia emerytalne i rentowe po dniu 31 grudnia 1998 r. lub okresów nieopłacania składek z powodu przekroczenia w trakcie roku kalendarzowego kwoty rocznej podstawy wymiaru składek na te ubezpieczenia.
@@ -361,7 +356,11 @@ Art. 52–56. (pominięte)
 
 8. W razie przyznania podwyższenia, o którym mowa w ust. 3, lub zwiększenia, o którym mowa w ust. 6, umowa między członkiem otwartego funduszu emerytalnego a tym funduszem ulega rozwiązaniu, a środki zgromadzone na rachunku członka w otwartym funduszu emerytalnym są niezwłocznie przekazywane na dochody budżetu państwa.
 
-9. Przekazanie środków, o których mowa w ust. 8, na dochody budżetu państwa następuje na podstawie zawiadomienia organu emerytalnego. Art. 15ab. 1. Funkcjonariusz, o którym mowa w art. 15aa, ma prawo wyboru sposobu ustalenia emerytury na zasadach i w wysokości określonych w art. 15a albo w art. 15aa, albo w art. 15d.
+9. Przekazanie środków, o których mowa w ust. 8, na dochody budżetu państwa następuje na podstawie zawiadomienia organu emerytalnego.
+
+**Art. 15ab.**
+
+1. Funkcjonariusz, o którym mowa w art. 15aa, ma prawo wyboru sposobu ustalenia emerytury na zasadach i w wysokości określonych w art. 15a albo w art. 15aa, albo w art. 15d.
 
 2. Oświadczenie o wyborze, o którym mowa w ust. 1, składa się do organu emerytalnego najpóźniej w dniu złożenia wniosku o ustalenie prawa do zaopatrzenia emerytalnego.
 
@@ -520,6 +519,23 @@ Art. 52–56. (pominięte)
 2. Przepisy art. 18 ust. 2 i 3 stosuje się odpowiednio.
 
 #### Rozdział 1aa Zaliczanie niektórych okresów zatrudnienia do okresów równorzędnych ze służbą w Służbie Celnej lub Służbie Celno-Skarbowej
+
+**Art. 18ga.**
+
+1. Jako okresy równorzędne ze służbą w Służbie Celnej traktuje się przypadające w okresie od dnia 1 września 2003 r. do dnia 30 czerwca 2010 r. okresy zatrudnienia w izbie celnej wraz z podległymi jednostkami organizacyjnymi Służby Celnej pracownika, o którym mowa w art. 32 ustawy z dnia 27 czerwca 2003 r. o utworzeniu Wojewódzkich Kolegiów Skarbowych oraz o zmianie niektórych ustaw regulujących zadania i kompetencje organów oraz organizację jednostek organizacyjnych podległych ministrowi właściwemu do spraw finansów publicznych (Dz. U. poz. 1302, z 2005 r. poz. 1042 oraz z 2011 r. poz. 1439), przeniesionego do izby celnej albo urzędu celnego na podstawie tego przepisu i wykonującego zadania w zakresie:
+
+- **1)** wymiaru i poboru podatku od towarów i usług z tytułu importu towarów lub
+- **2)** kontroli, szczególnego nadzoru podatkowego, wymiaru i poboru podatku akcyzowego, lub
+- **3)** kontroli przestrzegania legalności wykonywania pracy przez cudzoziemców – którego stosunek pracy przekształcił się w stosunek służbowy na podstawie art. 22b ustawy z dnia 24 lipca 1999 r. o Służbie Celnej albo art. 99 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej.
+
+2. Jako okres równorzędny ze służbą w Służbie Celno-Skarbowej traktuje się okres zatrudnienia w jednostkach organizacyjnych Krajowej Administracji Skarbowej od dnia przekształcenia stosunku służby w stosunek pracy na podstawie art. 171 ust. 1 pkt 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej do dnia przekształcenia tego stosunku pracy w stosunek służbowy na podstawie art. 150 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, w wymiarze niewiększym niż 8 lat i 7 miesięcy, jeżeli przekształcenie stosunku pracy w stosunek służbowy nastąpiło przed dniem 1 stycznia 2026 r.
+
+3. Podstawą zaliczenia do wysługi emerytalnej okresów, o których mowa w ust. 1 i 2, jest wydane przez kierownika jednostki organizacyjnej Krajowej Administracji Skarbowej zaświadczenie potwierdzające prawo do zaliczenia wskazanych w tym zaświadczeniu okresów zatrudnienia do okresów równorzędnych ze służbą w Służbie Celnej lub Służbie Celno-Skarbowej.
+
+4. Zaświadczenie, o którym mowa w ust. 3, jest wydawane na wniosek złożony przez funkcjonariusza albo emeryta w terminie do dnia 30 czerwca 2026 r. do kierownika jednostki organizacyjnej Krajowej Administracji Skarbowej:
+
+- **1)** w której funkcjonariusz pełni służbę w dniu składania wniosku;
+- **2)** właściwego ze względu na ostatnie miejsce pełnienia służby – w przypadku wniosku składanego przez emeryta.
 
 #### Rozdział 1b Prawo wyboru emerytury
 
@@ -1055,6 +1071,8 @@ Art. 52–56. (pominięte)
 **Art. 51.** Ze świadczeń pieniężnych prowadzi się egzekucję w wysokości i na zasadach określonych w przepisach ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 ### DZIAŁ VIII Zmiany w przepisach obowiązujących
+
+**Art. 52–56.** (pominięte)
 
 ### DZIAŁ IX Przepisy przejściowe i końcowe
 

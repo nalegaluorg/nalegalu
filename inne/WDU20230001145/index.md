@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +27,6 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2022 r. poz. 395), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 maja 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 154–156 i art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), które stanowią: „Art. 154. Do postępowań w sprawach określonych w art. 7 ust. 1 pkt 1 ustawy zmienianej w art. 122, wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 122 w brzmieniu nadanym niniejszą ustawą.
-Art. 25–28. (pominięte)
 
 **Art. 155.** Do działalności grup producentów rolnych wpisanych przed dniem wejścia w życie niniejszej ustawy do rejestru grup producentów rolnych na podstawie ustawy zmienianej w art. 122 stosuje się przepisy ustawy zmienianej w art. 122 w brzmieniu dotychczasowym.
 
@@ -99,7 +98,9 @@ Art. 25–28. (pominięte)
 - **5)** określi, obowiązujące członków grupy wskazanych w pkt 1, zasady produkcji produktów lub grup produktów, w tym dotyczące ich jakości i ilości, oraz sposoby przygotowania ich do sprzedaży;
 - **6)** każdy z członków grupy wskazanych w pkt 1 w każdym roku działalności grupy produkuje oraz sprzedaje do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona;
 - **7)** każdy z członków grupy wskazanych w pkt 1 przynależy tylko do jednej grupy w zakresie danego produktu lub grupy produktów, ze względu na które grupa została utworzona;
-- **8)** żaden z członków grupy wskazanych w pkt 1 nie przynależy do organizacji producentów, o której mowa w przepisach ustawy o rynkach rolnych albo ustawy o rynku mleka, utworzonej w zakresie tego samego produktu lub grupy produktów, ze względu na które grupa została utworzona. Art. 3aa. W przypadku gdy w danym roku działalności grupy nie każdy członek tej grupy jest w stanie spełnić warunek, o którym mowa w art. 3 ust. 1 pkt 6, a w przypadku grupy będącej spółdzielnią – nie każdy z członków grupy wskazanych w art. 3a pkt 1 jest w stanie spełnić warunek, o którym mowa w art. 3a pkt 6, uznaje się, że warunek ten jest spełniony, jeżeli w tym roku działalności grupy co najmniej 90% członków tej grupy, a w przypadku grupy będącej spółdzielnią – 90% członków grupy wskazanych w art. 3a pkt 1 wyprodukowało oraz sprzedało do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona.
+- **8)** żaden z członków grupy wskazanych w pkt 1 nie przynależy do organizacji producentów, o której mowa w przepisach ustawy o rynkach rolnych albo ustawy o rynku mleka, utworzonej w zakresie tego samego produktu lub grupy produktów, ze względu na które grupa została utworzona.
+
+**Art. 3aa.** W przypadku gdy w danym roku działalności grupy nie każdy członek tej grupy jest w stanie spełnić warunek, o którym mowa w art. 3 ust. 1 pkt 6, a w przypadku grupy będącej spółdzielnią – nie każdy z członków grupy wskazanych w art. 3a pkt 1 jest w stanie spełnić warunek, o którym mowa w art. 3a pkt 6, uznaje się, że warunek ten jest spełniony, jeżeli w tym roku działalności grupy co najmniej 90% członków tej grupy, a w przypadku grupy będącej spółdzielnią – 90% członków grupy wskazanych w art. 3a pkt 1 wyprodukowało oraz sprzedało do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona.
 
 **Art. 3b.**
 
@@ -395,6 +396,8 @@ Art. 25–28. (pominięte)
 **Art. 24.** (uchylony)
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i przepisy końcowe
+
+**Art. 25–28.** (pominięte)
 
 **Art. 29.** Ustawa wchodzi w życie po upływie jednego miesiąca od dnia ogłoszenia .
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy
 
 | Pole | Wartość |
 |---|---|
@@ -28,7 +28,6 @@ source: pdf
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U.
 z 2025 r. poz. 433), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 lutego 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 425 ust. 1 i art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), które stanowią:
-Art. 40–42. (pominięte)
 
 **Art. 425.** „1. Do dnia powołania Rady Rynku Pracy, wojewódzkich rad rynku pracy i powiatowych rad rynku pracy na podstawie przepisów niniejszej ustawy, zadania tych rad wykonują Rada Rynku Pracy, wojewódzkie rady rynku pracy i powiatowe rady rynku pracy, działające w składzie i na zasadach określonych w przepisach ustawy uchylanej w art. 460, nie dłużej jednak niż do dnia 31 grudnia 2025 r.” „Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -530,6 +529,8 @@ Art. 40–42. (pominięte)
 4. Egzekucja kary pieniężnej wraz z odsetkami, o których mowa w ust. 3, następuje w trybie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132, 620 i 1302).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 40–42.** (pominięte)
 
 **Art. 43.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie Znaku Polski Walczącej
+# Ustawa z dnia 10 czerwca 2014 r. o ochronie Znaku Polski Walczącej
 
 *USTAWA z dnia 10 czerwca 2014 r.*
 

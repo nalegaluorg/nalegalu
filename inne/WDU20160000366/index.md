@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r.
+# Ustawa z dnia 25 lutego 2016 r. o zmianie ustawy o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r.
 
 *USTAWA z dnia 25 lutego 2016 r.*
 

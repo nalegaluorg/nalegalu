@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o konsumenckiej pożyczce lombardowej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o konsumenckiej pożyczce lombardowej
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 1) art. 51–56 ustawy z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej (Dz. U. poz. 1285), które stanowią: „Art. 51. W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326) wprowadza się następujące zmiany:
 1) w art. 385 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „§ 2. Przepisy dotyczące konsumenta, zawarte w art. 385 –385 , stosuje się do osoby fizycznej prowadzącej gospodarstwo rolne w rozumieniu art. 6 pkt 4 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2023 r. poz. 208, 337 i 641).”;
 2) po art. 720 dodaje się art. 720 w brzmieniu: „Art. 720 . Przepisy art. 720 –720 stosuje się do umów pożyczki zawartych z osobą fizyczną prowadzącą gospodarstwo rolne w rozumieniu art. 6 pkt 4 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników.”.
-Art. 51–56. (pominięte)
 
 **Art. 52.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2020 r. poz. 1706 oraz z 2023 r. poz. 877) w art. 3 w ust. 1 po pkt 2i dodaje się pkt 2j w brzmieniu: „2j) kontrola przestrzegania przez przedsiębiorców wykonujących działalność lombardową przepisów ustawy z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej (Dz. U. poz. 1285);”.
 
@@ -490,6 +489,8 @@ Art. 51–56. (pominięte)
 **Art. 50.** Orzekanie w sprawach o czyny, o których mowa w art. 45–49, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977).
 
 #### Rozdział 7 Zmiany w przepisach
+
+**Art. 51–56.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i przepis końcowy
 

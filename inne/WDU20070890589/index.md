@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Państwowej Inspekcji Pracy
+# Ustawa z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy
 
 *USTAWA z dnia 13 kwietnia 2007 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2007-05-21 |
 | Ostatnia zmiana | 2026-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070890589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/589/text.pdf) |
-
-Art. 94–103. (pominięte)
 
 #### Rozdział 1 Organizacja Państwowej Inspekcji Pracy
 
@@ -644,7 +642,9 @@ Art. 94–103. (pominięte)
 **Art. 37a.** W uzasadnionych przypadkach, wobec pracodawcy rozpoczynającego działalność, a także jeżeli nie stwierdzono:
 
 - **1)** bezpośredniego zagrożenia życia lub zdrowia pracowników lub innych osób wykonujących pracę,
-- **2)** popełnienia wykroczenia z winy umyślnej – inspektor pracy może odstąpić od stosowania środków prawnych, o których mowa w art. 33, poprzestając na ustnym pouczeniu o sposobach zgodnego z wymogami prawa zorganizowania pracy i odebraniu od podmiotu kontrolowanego oświadczenia o terminie usunięcia ujawnionych w toku kontroli uchybień. Art. 37aa. Główny Inspektor Pracy określi, w drodze zarządzenia, metody i standardy zarządzania kontrolami Państwowej Inspekcji Pracy.
+- **2)** popełnienia wykroczenia z winy umyślnej – inspektor pracy może odstąpić od stosowania środków prawnych, o których mowa w art. 33, poprzestając na ustnym pouczeniu o sposobach zgodnego z wymogami prawa zorganizowania pracy i odebraniu od podmiotu kontrolowanego oświadczenia o terminie usunięcia ujawnionych w toku kontroli uchybień.
+
+**Art. 37aa.** Główny Inspektor Pracy określi, w drodze zarządzenia, metody i standardy zarządzania kontrolami Państwowej Inspekcji Pracy.
 
 **Art. 37b.** Do kontroli, o której mowa w art. 10 ust. 1 pkt 4, nie stosuje się przepisów art. 47 ust. 1a oraz art. 55a ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ).
 
@@ -1246,6 +1246,8 @@ Art. 94–103. (pominięte)
 **Art. 93.** Główny Inspektor Pracy określi, w drodze zarządzenia, organizację, skład oraz tryb pracy komisji dyscyplinarnych, o których mowa w art. 71 ust. 4 oraz tryb pracy rzecznika dyscyplinarnego.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 94–103.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

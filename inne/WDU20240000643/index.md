@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o przewozie towarów niebezpiecznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przewozie towarów niebezpiecznych
 
 | Pole | Wartość |
 |---|---|
@@ -35,7 +35,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 19 sierpnia 2011 r.
 o przewozie towarów niebezpiecznych
-Art. 115–124. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1495,6 +1494,8 @@ Art. 115–124. (pominięte)
 **Art. 114a.** Kary pieniężne, o których mowa w art. 107, art. 108 i art. 112a, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
+
+**Art. 115–124.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i końcowe
 

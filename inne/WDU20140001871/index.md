@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o referendum lokalnym
+# Ustawa z dnia 23 października 2014 r. o zmianie ustawy o referendum lokalnym
 
 *USTAWA z dnia 23 października 2014 r.*
 

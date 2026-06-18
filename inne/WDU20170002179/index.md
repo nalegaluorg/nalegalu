@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych
+# Ustawa z dnia 27 października 2017 r. o zmianie ustawy o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych
 
 *USTAWA z dnia 27 października 2017 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowej Sieci Kardiologicznej
+# Ustawa z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej
 
 *USTAWA z dnia 4 czerwca 2025 r.*
 

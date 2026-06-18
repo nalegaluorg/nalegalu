@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o nawozach i nawożeniu oraz ustawy o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa
+# Ustawa z dnia 7 maja 2020 r. o zmianie ustawy o nawozach i nawożeniu oraz ustawy o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa
 
 *USTAWA z dnia 7 maja 2020 r.*
 

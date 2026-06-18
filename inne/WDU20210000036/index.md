@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o organizacji hodowli i rozrodzie zwierząt gospodarskich
+# Ustawa z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 *USTAWA z dnia 10 grudnia 2020 r.*
 

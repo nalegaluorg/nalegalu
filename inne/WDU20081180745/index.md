@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zwrocie nadpłaty w podatku akcyzowym zapłaconym z tytułu nabycia wewnątrzwspólnotowego albo importu samochodu osobowego
+# Ustawa z dnia 9 maja 2008 r. o zwrocie nadpłaty w podatku akcyzowym zapłaconym z tytułu nabycia wewnątrzwspólnotowego albo importu samochodu osobowego
 
 *USTAWA z dnia 9 maja 2008 r.*
 

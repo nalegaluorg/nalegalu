@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej
+# Ustawa z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej
 
 *USTAWA z dnia 4 marca 2005 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2005-04-18 |
 | Ostatnia zmiana | 2026-05-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050620551) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/551/text.pdf) |
-
-Art. 134–137. (pominięte)
 
 ## TYTUŁ I Przepisy ogólne
 
@@ -910,6 +908,8 @@ Art. 134–137. (pominięte)
 2. Postępowanie w sprawach określonych w ust. 1 toczy się na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872). W tych sprawach oskarżycielem publicznym jest inspektor pracy.
 
 ## TYTUŁ VI Zmiany w przepisach obowiązujących
+
+**Art. 134–137.** (pominięte)
 
 ## TYTUŁ VII Przepis końcowy
 

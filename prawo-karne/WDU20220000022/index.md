@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Narodowym Banku Polskim oraz ustawy – Kodeks karny wykonawczy
+# Ustawa z dnia 17 grudnia 2021 r. o zmianie ustawy o Narodowym Banku Polskim oraz ustawy - Kodeks karny wykonawczy
 
 *USTAWA z dnia 17 grudnia 2021 r.*
 

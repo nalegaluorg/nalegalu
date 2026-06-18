@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o jednorazowym świadczeniu pieniężnym dla działaczy opozycji antykomunistycznej oraz osób represjonowanych z powodów politycznych
+# Ustawa z dnia 17 grudnia 2021 r. o jednorazowym świadczeniu pieniężnym dla działaczy opozycji antykomunistycznej oraz osób represjonowanych z powodów politycznych
 
 *USTAWA z dnia 17 grudnia 2021 r.*
 

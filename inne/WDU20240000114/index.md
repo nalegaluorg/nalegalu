@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych
 
 | Pole | Wartość |
 |---|---|
@@ -478,7 +478,9 @@ poz. 2236), z uwzględnieniem zmian wprowadzonych:
 
 3. Termin zapłaty kary pieniężnej, o której mowa w ust. 1, wynosi 7 dni od dnia, w którym decyzja o wymierzeniu kary pieniężnej stała się ostateczna.
 
-4. Kara pieniężna, o której mowa w ust. 1, jest wpłacana na rachunek bankowy właściwego ze względu na miejsce dokonania sprzedaży organu podatkowego i stanowi dochód budżetu państwa. Art. 23–27. (pominięte)
+4. Kara pieniężna, o której mowa w ust. 1, jest wpłacana na rachunek bankowy właściwego ze względu na miejsce dokonania sprzedaży organu podatkowego i stanowi dochód budżetu państwa.
+
+**Art. 23–27.** (pominięte)
 
 **Art. 28.** W celu zapewnienia prawidłowej realizacji zadań związanych z wykonywaniem ustawy wójt, burmistrz albo prezydent miasta może:
 

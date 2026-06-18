@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o działalności pożytku publicznego i o wolontariacie
+# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie
 
 *USTAWA z dnia 19 lipca 2019 r.*
 

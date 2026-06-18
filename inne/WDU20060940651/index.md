@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o spółdzielniach socjalnych
+# Ustawa z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych
 
 *USTAWA z dnia 27 kwietnia 2006 r.*
 
@@ -279,7 +279,9 @@ source: pdf
 
 **Art. 19a.** Rada Ministrów przedkłada Sejmowi i Senatowi Rzeczypospolitej Polskiej w okresach trzyletnich, w terminie do dnia 30 listopada, informacje o funkcjonowaniu spółdzielni socjalnych na podstawie danych przekazanych ministrowi właściwemu do spraw zabezpieczenia społecznego przez związki rewizyjne właściwe dla spółdzielczości socjalnej do dnia 31 grudnia roku poprzedzającego rok złożenia informacji.
 
-**Art. 20.** Rada Ministrów przedstawi Sejmowi Rzeczypospolitej Polskiej w terminie do dnia 30 czerwca 2008 r. sprawozdanie z działania ustawy za okres od dnia jej wejścia w życie do dnia 31 grudnia 2007 r. Art. 21–26. (pominięte)
+**Art. 20.** Rada Ministrów przedstawi Sejmowi Rzeczypospolitej Polskiej w terminie do dnia 30 czerwca 2008 r. sprawozdanie z działania ustawy za okres od dnia jej wejścia w życie do dnia 31 grudnia 2007 r.
+
+**Art. 21–26.** (pominięte)
 
 **Art. 27.**
 

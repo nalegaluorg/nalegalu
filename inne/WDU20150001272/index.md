@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kontroli niektórych inwestycji
+# Ustawa z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji
 
 *USTAWA z dnia 24 lipca 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o badaniach klinicznych produktów leczniczych stosowanych u ludzi
+# Ustawa z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi
 
 *USTAWA z dnia 9 marca 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-03-30 |
 | Ostatnia zmiana | 2026-01-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000605) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/605/text.pdf) |
-
-Art. 80–88. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1112,6 +1110,8 @@ Art. 80–88. (pominięte)
 2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).
 
 #### Rozdział 12 Zmiany w przepisach
+
+**Art. 80–88.** (pominięte)
 
 #### Rozdział 13 Przepisy dostosowujące, przejściowe i przepis końcowy
 

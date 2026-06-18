@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie służby wojskowej żołnierzy zawodowych.
+# Rozporządzenie Ministra Obrony Narodowej z dnia 5 października 1999 r. zmieniające rozporządzenie w sprawie służby wojskowej żołnierzy zawodowych.
 
 | Pole | Wartość |
 |---|---|

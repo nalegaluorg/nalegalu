@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zdrowia psychicznego
+# Ustawa z dnia 1 lipca 2005 r. o zmianie ustawy o ochronie zdrowia psychicznego
 
 *USTAWA z dnia 1 lipca 2005 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych
+# Ustawa z dnia 13 września 2013 r. o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych
 
 *USTAWA z dnia 13 września 2013 r.*
 
@@ -179,9 +179,17 @@ source: pdf
 
 - **6)** po art. 54n dodaje się art. 54na–54nd w brzmieniu: „Art. 54na. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które naruszają którykolwiek z warunków prowadzenia negocjacji określonych w art. 126c rozporządzenia, o którym mowa w pkt 2 załącznika, z wyłączeniem przypadków, o których mowa w art. 126c ust. 2 lit. d tego rozporządzenia, podlegają karze pieniężnej w wysokości stanowiącej iloczyn:
 - **1)** wyrażonej w kilogramach 0,1% ilości mleka objętego tymi negocjacjami oraz
-- **2)** ceny skupu mleka ustalonej przez ministra właściwego do spraw rynków rolnych na podstawie danych rynkowych zbieranych zgodnie z ustawą z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych (Dz. U. Nr 42, poz. 471, z późn. zm. ) dla miesiąca poprzedzającego miesiąc, w którym stwierdzono naruszenie warunków prowadzenia negocjacji, i opublikowanej zgodnie z art. 5 ust. 2 pkt 2 tej ustawy. Art. 54nb. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które nie przekazują powiadomienia określonego w art. 2 ust. 3 rozporządzenia, o którym mowa w pkt 9 załącznika, w terminie określonym w tym rozporządzeniu, podlegają karze pieniężnej w wysokości stanowiącej iloczyn:
+- **2)** ceny skupu mleka ustalonej przez ministra właściwego do spraw rynków rolnych na podstawie danych rynkowych zbieranych zgodnie z ustawą z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych (Dz. U. Nr 42, poz. 471, z późn. zm. ) dla miesiąca poprzedzającego miesiąc, w którym stwierdzono naruszenie warunków prowadzenia negocjacji, i opublikowanej zgodnie z art. 5 ust. 2 pkt 2 tej ustawy.
+
+**Art. 54nb.** Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które nie przekazują powiadomienia określonego w art. 2 ust. 3 rozporządzenia, o którym mowa w pkt 9 załącznika, w terminie określonym w tym rozporządzeniu, podlegają karze pieniężnej w wysokości stanowiącej iloczyn:
+
 - **1)** wyrażonej w kilogramach 0,1% ilości mleka lub przetworów mlecznych wytwarzanych rocznie przez uznaną organizację producentów lub uznane zrzeszenie organizacji producentów oraz
-- **2)** ceny skupu mleka ustalonej przez ministra właściwego do spraw rynków rolnych na podstawie danych rynkowych zbieranych zgodnie z ustawą z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych dla miesiąca poprzedzającego miesiąc, w którym upływa termin przekazania powiadomienia, i opublikowanej zgodnie z art. 5 ust. 2 pkt 2 tej ustawy. Art. 54nc. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które utrudniają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 2 załącznika, podlegają karze pieniężnej w wysokości od 1000 zł do 2000 zł. Art. 54nd. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które uniemożliwiają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 2 załącznika, podlegają karze pieniężnej w wysokości od 2000 zł do 5000 zł.”;
+- **2)** ceny skupu mleka ustalonej przez ministra właściwego do spraw rynków rolnych na podstawie danych rynkowych zbieranych zgodnie z ustawą z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych dla miesiąca poprzedzającego miesiąc, w którym upływa termin przekazania powiadomienia, i opublikowanej zgodnie z art. 5 ust. 2 pkt 2 tej ustawy.
+
+**Art. 54nc.** Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które utrudniają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 2 załącznika, podlegają karze pieniężnej w wysokości od 1000 zł do 2000 zł.
+
+**Art. 54nd.** Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które uniemożliwiają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 2 załącznika, podlegają karze pieniężnej w wysokości od 2000 zł do 5000 zł.”;
+
 - **7)** w art. 54o ust. 1 otrzymuje brzmienie: „1. Dyrektor oddziału terenowego Agencji właściwy ze względu na miejsce zamieszkania albo siedzibę producenta, albo siedzibę podmiotu skupującego, albo siedzibę uznanej organizacji producentów, albo siedzibę uznanego zrzeszenia organizacji producentów wydaje decyzję w sprawie wymierzenia kary pieniężnej.”;
 - **8)** w art. 55 w ust. 2 pkt 1 otrzymuje brzmienie: „1) nastąpiło z przyczyn nieleżących po stronie producenta mleka, dostawcy hurtowego, dostawcy bezpośredniego, podmiotu skupującego, uznanej organizacji producentów lub uznanego zrzeszenia organizacji producentów, lub”;
 - **9)** w załączniku do ustawy w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 i 10 w brzmieniu: „9) rozporządzenie wykonawcze Komisji (UE) nr 511/2012 z dnia 15 czerwca 2012 r. w sprawie powiadomień dotyczących organizacji producentów i organizacji międzybranżowych oraz negocjacji umownych i stosunków umownych określonych w rozporządzeniu Rady (WE) nr 1234/2007 w odniesieniu do sektora mleka i przetworów mlecznych (Dz. Urz. UE L 156 z 16.06.2012, str. 39);

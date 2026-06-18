@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
 
 *USTAWA z dnia 21 marca 1991 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-07-26 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001125) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1125/text.pdf) |
-
-Art. 61–65. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1255,7 +1253,11 @@ Art. 61–65. (pominięte)
 
 4. W przypadku stwierdzenia naruszenia prawa przez przewoźnika lub operatora terminalu, w rozumieniu rozporządzenia nr 1177/2010, dyrektor urzędu morskiego określa, w drodze decyzji administracyjnej, zakres stwierdzonych nieprawidłowości oraz wyznacza termin ich usunięcia.
 
-5. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, dyrektora urzędu morskiego właściwego do rozpatrywania skarg, o których mowa w art. 25 ust. 3 rozporządzenia nr 1177/2010, biorąc pod uwagę natężenie ruchu pasażerskiego w portach i przystaniach morskich. Art. 43aa. 1. Dyrektor urzędu morskiego właściwy ze względu na położenie portu rozpatruje skargi dotyczące naruszenia przepisów rozporządzenia nr 2017/352 zgodnie z art. 16 tego rozporządzenia.
+5. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, dyrektora urzędu morskiego właściwego do rozpatrywania skarg, o których mowa w art. 25 ust. 3 rozporządzenia nr 1177/2010, biorąc pod uwagę natężenie ruchu pasażerskiego w portach i przystaniach morskich.
+
+**Art. 43aa.**
+
+1. Dyrektor urzędu morskiego właściwy ze względu na położenie portu rozpatruje skargi dotyczące naruszenia przepisów rozporządzenia nr 2017/352 zgodnie z art. 16 tego rozporządzenia.
 
 2. Do skargi, o której mowa w ust. 1, dołącza się informacje i dokumenty potwierdzające naruszenie przepisów rozporządzenia nr 2017/352.
 
@@ -1594,7 +1596,10 @@ Art. 61–65. (pominięte)
 - **1)** zaśmieca lub zanieczyszcza teren,
 - **2)** bez zgody właściwego terytorialnie dyrektora urzędu morskiego, o której mowa w art. 37 ust. 1, rozpala ognisko na plaży,
 - **3)** nie będąc uprawnionym do wjazdu albo bez zgody właściwego terytorialnie dyrektora urzędu morskiego, o której mowa w art. 37 ust. 1, używa pojazdu silnikowego lub zaprzęgowego lub motoroweru,
-- **4)** jako osoba nieupoważniona przebywa na terenach (ogrodzonych lub oznakowanych) objętych pracami hydrotechnicznymi lub pomiarowymi, zagrożonych erozją, pożarem i innymi zdarzeniami, w szczególności skażeniami, zanieczyszczeniami lub obecnością niebezpiecznych przedmiotów – podlega karze grzywny. Art. 60ca. Kto na obszarach określonych w art. 60a lub art. 60b:
+- **4)** jako osoba nieupoważniona przebywa na terenach (ogrodzonych lub oznakowanych) objętych pracami hydrotechnicznymi lub pomiarowymi, zagrożonych erozją, pożarem i innymi zdarzeniami, w szczególności skażeniami, zanieczyszczeniami lub obecnością niebezpiecznych przedmiotów – podlega karze grzywny.
+
+**Art. 60ca.** Kto na obszarach określonych w art. 60a lub art. 60b:
+
 - **1)** wbrew przepisom art. 51 § 1 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2023 r. poz. 1309) uprawia żeglugę jachtem, nie posiadając na nim karty bezpieczeństwa wydanej na podstawie art. 23 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim,
 - **2)** uprawia żeglugę jachtem nieoznaczonym zgodnie z przepisami art. 12 § 1 i § 2a ustawy z dnia 18 września 2001 r. – Kodeks morski albo art. 21 ust. 1 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2024 r. poz. 395 i 731) oraz przepisami wydanymi na podstawie art. 21 ust. 3 tej ustawy,
 - **3)** narusza przepisy wydane na podstawie art. 3 ust. 2, art. 3b ust. 1 oraz art. 48 ust. 1 w ten sposób, że uprawia żeglugę na akwenach zamkniętych dla ruchu jednostek sportowo-rekreacyjnych albo bez wymaganej zgody – podlega karze grzywny.
@@ -1606,6 +1611,8 @@ Art. 61–65. (pominięte)
 2. Pracownicy terenowego organu administracji morskiej mają prawo do nakładania grzywien w drodze mandatu karnego.
 
 ### DZIAŁ V Zmiany w przepisach obowiązujących
+
+**Art. 61–65.** (pominięte)
 
 ### DZIAŁ VI Przepisy epizodyczne, przejściowe i końcowe
 

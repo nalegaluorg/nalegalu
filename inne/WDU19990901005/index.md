@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie wyborów przedterminowych do Rady Gminy Ślemień.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 8 listopada 1999 r. w sprawie wyborów przedterminowych do Rady Gminy Ślemień.
 
 | Pole | Wartość |
 |---|---|

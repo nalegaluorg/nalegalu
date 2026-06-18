@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Karcie Dużej Rodziny, ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz ustawy o opiece nad dziećmi w wieku do lat 3
+# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o Karcie Dużej Rodziny, ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz ustawy o opiece nad dziećmi w wieku do lat 3
 
 *USTAWA z dnia 15 kwietnia 2021 r.*
 

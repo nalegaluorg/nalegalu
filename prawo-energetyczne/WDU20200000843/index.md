@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo energetyczne oraz ustawy o promowaniu energii elektrycznej z wysokosprawnej kogeneracji
+# Ustawa z dnia 30 kwietnia 2020 r. o zmianie ustawy - Prawo energetyczne oraz ustawy o promowaniu energii elektrycznej z wysokosprawnej kogeneracji
 
 *USTAWA z dnia 30 kwietnia 2020 r.*
 

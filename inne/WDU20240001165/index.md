@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
+# Ustawa z dnia 24 lipca 2024 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
 
 *USTAWA z dnia 24 lipca 2024 r.*
 
@@ -35,7 +35,11 @@ source: pdf
 
 3. W przypadku zmiany stanu zdrowia osoba niepełnosprawna posiadająca orzeczenie o niepełnosprawności albo o stopniu niepełnosprawności może w okresie ważności tego orzeczenia wystąpić do powiatowego zespołu z wnioskiem o wydanie orzeczenia uwzględniającego zmianę stanu zdrowia.
 
-4. Wnioski, o których mowa w ust. 1–3, mogą składać również przedstawiciele ustawowi, ośrodki pomocy społecznej albo centra usług społecznych, o których mowa w art. 6b ust. 1. Art. 6bb. 1. Jeżeli wniosek o wydanie kolejnego orzeczenia o niepełnosprawności albo o stopniu niepełnosprawności został złożony w okresie ważności odpowiednio orzeczenia ustalającego niepełnosprawność albo orzeczenia ustalającego stopień niepełnosprawności, to zachowuje ono ważność do dnia wydania kolejnego ostatecznego orzeczenia, nie dłużej jednak niż do ostatniego dnia szóstego miesiąca następującego po dacie określającej tę ważność.
+4. Wnioski, o których mowa w ust. 1–3, mogą składać również przedstawiciele ustawowi, ośrodki pomocy społecznej albo centra usług społecznych, o których mowa w art. 6b ust. 1.
+
+**Art. 6bb.**
+
+1. Jeżeli wniosek o wydanie kolejnego orzeczenia o niepełnosprawności albo o stopniu niepełnosprawności został złożony w okresie ważności odpowiednio orzeczenia ustalającego niepełnosprawność albo orzeczenia ustalającego stopień niepełnosprawności, to zachowuje ono ważność do dnia wydania kolejnego ostatecznego orzeczenia, nie dłużej jednak niż do ostatniego dnia szóstego miesiąca następującego po dacie określającej tę ważność.
 
 2. Orzeczenia o niepełnosprawności, o których mowa w ust. 1, zachowują ważność nie dłużej niż do dnia ukończenia 16 roku życia przez osobę posiadającą orzeczenie o niepełnosprawności.
 

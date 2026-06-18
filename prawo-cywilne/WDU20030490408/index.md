@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw
+# Ustawa z dnia 14 lutego 2003 r. o zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 lutego 2003 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zapobieganiu zanieczyszczaniu morza przez statki
+# Ustawa z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki.
 
 *USTAWA z dnia 16 marca 1995 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1995-03-31 |
 | Ostatnia zmiana | 2024-12-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950470243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/243/text.pdf) |
-
-Art. 39–40. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -381,7 +379,11 @@ Art. 39–40. (pominięte)
 
 5. Na statkach cumujących w portach dopuszcza się, jako alternatywę dla stosowania metod redukcji emisji, stosowanie rozwiązania polegającego na korzystaniu z lądowych systemów zasilania, o ile są one dostępne w danym porcie.
 
-**Art. 13d.** (uchylony) Art. 13da. 1. Przeprowadzenie testów metod redukcji emisji jest dopuszczalne w przypadku spełniania następujących warunków:
+**Art. 13d.** (uchylony)
+
+**Art. 13da.**
+
+1. Przeprowadzenie testów metod redukcji emisji jest dopuszczalne w przypadku spełniania następujących warunków:
 
 - **1)** testy przeprowadza się na statkach z zainstalowanymi urządzeniami zapewniającymi nieprzerwane monitorowanie emisji gazów wylotowych, wyposażonymi w zabezpieczenia uniemożliwiające ich otwarcie, zakłócenie ich pracy i zmianę zapisanych na nich danych;
 - **2)** przez cały okres przeprowadzania testów stosuje się urządzenia, o których mowa w pkt 1;
@@ -419,7 +421,11 @@ Art. 39–40. (pominięte)
 - **1)** dane zawarte we wniosku o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji są kompletne i zgodne z prawdą;
 - **2)** znane mi są warunki uzyskania pozwolenia na przeprowadzenie testów metod redukcji emisji i spełniam warunki określone w art. 13da ust. 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2024 r. poz. 000).”.
 
-6. Klauzula, o której mowa w ust. 5, zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań. Art. 13db. 1. Pozwolenie na przeprowadzenie testów metod redukcji emisji wydaje, w drodze decyzji, dyrektor urzędu morskiego właściwy dla obszaru, na którym planuje się przeprowadzenie testów metod redukcji emisji, a w przypadku, o którym mowa w art. 13da ust. 3a – dyrektor urzędu morskiego właściwy ze względu na port macierzysty statku, na okres nie dłuższy niż 18 miesięcy, z tym że okres ważności pozwolenia nie obejmuje okresu, o którym mowa w ust. 4.
+6. Klauzula, o której mowa w ust. 5, zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+**Art. 13db.**
+
+1. Pozwolenie na przeprowadzenie testów metod redukcji emisji wydaje, w drodze decyzji, dyrektor urzędu morskiego właściwy dla obszaru, na którym planuje się przeprowadzenie testów metod redukcji emisji, a w przypadku, o którym mowa w art. 13da ust. 3a – dyrektor urzędu morskiego właściwy ze względu na port macierzysty statku, na okres nie dłuższy niż 18 miesięcy, z tym że okres ważności pozwolenia nie obejmuje okresu, o którym mowa w ust. 4.
 
 2. Wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji dotyczącego:
 
@@ -440,9 +446,23 @@ Art. 39–40. (pominięte)
 - **3)** opis metody redukcji emisji, której będą przeprowadzane testy;
 - **4)** termin i oznaczenie miejsca przeprowadzania testów metod redukcji emisji.
 
-4. Przy określaniu terminu przeprowadzania testów metod redukcji emisji, uwzględnia się termin wskazany we wniosku o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji, z tym że termin rozpoczęcia testów nie może przypadać wcześniej niż po upływie 7 miesięcy od dnia wydania pozwolenia. Art. 13dc. Dyrektor urzędu morskiego odmawia, w drodze decyzji, wydania pozwolenia na przeprowadzenie testów metod redukcji emisji, w przypadku gdy wniosek o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji nie spełnia warunków, o których mowa w art. 13da ust. 4 i 5. Art. 13dd. Dyrektor urzędu morskiego cofa, w drodze decyzji, pozwolenie na przeprowadzenie testów metod redukcji emisji, w przypadku gdy armator nie spełnia warunków, o których mowa w art. 13da ust. 1. Art. 13de. Podczas przeprowadzania testów metod redukcji emisji dopuszcza się stosowanie paliwa żeglugowego niespełniającego wymagań określonych w przepisach wydanych na podstawie art. 13f ust. 3 i 4. Art. 13df. 1. Armator przekazuje wyniki testów metod redukcji emisji dyrektorowi urzędu morskiego, który wydał pozwolenie na ich przeprowadzenie, w terminie nie później niż po upływie 5 miesięcy od dnia ich zakończenia.
+4. Przy określaniu terminu przeprowadzania testów metod redukcji emisji, uwzględnia się termin wskazany we wniosku o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji, z tym że termin rozpoczęcia testów nie może przypadać wcześniej niż po upływie 7 miesięcy od dnia wydania pozwolenia.
 
-2. Dyrektor urzędu morskiego udostępnia wyniki testów metod redukcji emisji w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu. Art. 13dg. 1. Zatwierdzenia metod redukcji emisji objętych przepisami ustawy z dnia 2 grudnia 2016 r. o wyposażeniu morskim (Dz. U. z 2019 r. poz. 955 oraz z 2024 r. poz. 1222) dokonują jednostki notyfikowane, o których mowa w przepisach ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854 oraz z 2024 r. poz. 1089).
+**Art. 13dc.** Dyrektor urzędu morskiego odmawia, w drodze decyzji, wydania pozwolenia na przeprowadzenie testów metod redukcji emisji, w przypadku gdy wniosek o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji nie spełnia warunków, o których mowa w art. 13da ust. 4 i 5.
+
+**Art. 13dd.** Dyrektor urzędu morskiego cofa, w drodze decyzji, pozwolenie na przeprowadzenie testów metod redukcji emisji, w przypadku gdy armator nie spełnia warunków, o których mowa w art. 13da ust. 1.
+
+**Art. 13de.** Podczas przeprowadzania testów metod redukcji emisji dopuszcza się stosowanie paliwa żeglugowego niespełniającego wymagań określonych w przepisach wydanych na podstawie art. 13f ust. 3 i 4.
+
+**Art. 13df.**
+
+1. Armator przekazuje wyniki testów metod redukcji emisji dyrektorowi urzędu morskiego, który wydał pozwolenie na ich przeprowadzenie, w terminie nie później niż po upływie 5 miesięcy od dnia ich zakończenia.
+
+2. Dyrektor urzędu morskiego udostępnia wyniki testów metod redukcji emisji w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu.
+
+**Art. 13dg.**
+
+1. Zatwierdzenia metod redukcji emisji objętych przepisami ustawy z dnia 2 grudnia 2016 r. o wyposażeniu morskim (Dz. U. z 2019 r. poz. 955 oraz z 2024 r. poz. 1222) dokonują jednostki notyfikowane, o których mowa w przepisach ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854 oraz z 2024 r. poz. 1089).
 
 2. Stosowanie metod redukcji emisji nieobjętych przepisami ustawy z dnia 2 grudnia 2016 r. o wyposażeniu morskim jest dopuszczalne pod warunkiem ich zatwierdzenia zgodnie z przepisami Unii Europejskiej dotyczącymi metod redukcji emisji oraz z uwzględnieniem:
 
@@ -1010,7 +1030,11 @@ Art. 39–40. (pominięte)
     - **c)** fluorowane gazy cieplarniane,
 
 - **10)** (uchylony)
-- **11)** nie informuje portu lub przystani morskiej o odpadach ze statków znajdujących się na statku zgodnie z art. 10 ust. 7 – podlega karze pieniężnej do wysokości 50 000 SDR. Art. 36aa. 1. Jeżeli armator statku używa na statku paliwa żeglugowego zawierającego niedopuszczalną zawartość siarki, podlega karze pieniężnej do wysokości 600 000 SDR.
+- **11)** nie informuje portu lub przystani morskiej o odpadach ze statków znajdujących się na statku zgodnie z art. 10 ust. 7 – podlega karze pieniężnej do wysokości 50 000 SDR.
+
+**Art. 36aa.**
+
+1. Jeżeli armator statku używa na statku paliwa żeglugowego zawierającego niedopuszczalną zawartość siarki, podlega karze pieniężnej do wysokości 600 000 SDR.
 
 2. Jeżeli armator statku stosuje na statku metody redukcji emisji, które nie posiadają zatwierdzenia, o którym mowa w art. 13dg ust. 1 albo 2, podlega karze pieniężnej do wysokości 600 000 SDR.
 
@@ -1081,6 +1105,8 @@ Art. 39–40. (pominięte)
 **Art. 38a.** Nie podlega odpowiedzialności przewidzianej w art. 36 ust. 1 lub art. 37 pkt 4 osoba fizyczna, której zachowanie realizuje jednocześnie znamiona przestępstwa określonego w art. 35a, a przestępstwo to zostało stwierdzone prawomocnym wyrokiem skazującym.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących i przepisy końcowe
+
+**Art. 39–40.** (pominięte)
 
 **Art. 41.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia .
 

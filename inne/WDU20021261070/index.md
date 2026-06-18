@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o listach zastawnych i bankach hipotecznych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 5 lipca 2002 r. o zmianie ustawy o listach zastawnych i bankach hipotecznych oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 5 lipca 2002 r.*
 

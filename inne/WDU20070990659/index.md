@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Śląskiej Akademii Medycznej imienia Ludwika Waryńskiego w Katowicach nazwy „Śląski Uniwersytet Medyczny w Katowicach”
+# Ustawa z dnia 30 marca 2007 r. o nadaniu Śląskiej Akademii Medycznej imienia Ludwika Waryńskiego w Katowicach nazwy "Śląski Uniwersytet Medyczny w Katowicach"
 
 *USTAWA z dnia 30 marca 2007 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji oraz ustawy o Urzędzie Ochrony Państwa.
+# Ustawa z dnia 16 października 1991 r. o zmianie ustawy o Policji oraz ustawy o Urzędzie Ochrony Państwa.
 
 | Pole | Wartość |
 |---|---|

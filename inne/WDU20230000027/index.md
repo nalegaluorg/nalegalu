@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kuratorach sądowych
+# Ustawa z dnia 1 grudnia 2022 r. o zmianie ustawy o kuratorach sądowych
 
 *USTAWA z dnia 1 grudnia 2022 r.*
 

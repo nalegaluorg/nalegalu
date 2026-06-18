@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o doradztwie podatkowym
+# Ustawa z dnia 5 lipca 1996 r. o doradztwie podatkowym.
 
 *USTAWA z dnia 5 lipca 1996 r.*
 

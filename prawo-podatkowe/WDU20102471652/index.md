@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz ustawy o transporcie drogowym
+# Ustawa z dnia 16 grudnia 2010 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy o transporcie drogowym
 
 *USTAWA z dnia 16 grudnia 2010 r.*
 

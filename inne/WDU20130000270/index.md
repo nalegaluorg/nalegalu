@@ -35,7 +35,6 @@ b) w przypadku reaktora badawczego – pierwotną obudowę bezpieczeństwa reakt
 4) stan bezpiecznego wyłączenia – stan obiektu jądrowego po wystąpieniu przewidywanego zdarzenia eksploatacyjnego lub warunków awaryjnych, w którym fundamentalne funkcje bezpieczeństwa są wypełniane i stabilnie utrzymywane w długim okresie czasu, a w przypadku elektrowni jądrowej i reaktora badawczego dodatkowo reaktor jest w stanie podkrytycznym;
 5) system bezpieczeństwa – system obiektu jądrowego przeznaczony do zapobieżenia wystąpieniu lub ograniczenia skutków przewidywanych zdarzeń eksploatacyjnych i warunków awaryjnych, a w przypadku elektrowni jądrowej lub reaktora badawczego – także do osiągnięcia stanu bezpiecznego wyłączenia;
 6) ustawa – ustawę z dnia 29 listopada 2000 r. – Prawo atomowe.
-Wstępne czynności w likwidacji obiektu jądrowego
 § 2. 1. Likwidację obiektu jądrowego planuje się i przeprowadza jako likwidację:
 1) natychmiastową, w której niezwłocznie po zakończeniu eksploatacji obiektu jądrowego dokonuje się demontażu systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego oraz usunięcia odpadów promieniotwórczych i wypalonego paliwa jądrowego z terenu obiektu jądrowego, albo
 2) odłożoną i rozłożoną w czasie, w której demontaż systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego oraz usunięcie odpadów promieniotwórczych i wypalonego paliwa jądrowego z terenu obiektu jądrowego następuje w kilku kolejnych etapach ograniczonych w czasie i co do zakresu prac, wykonywanych w odstępach czasowych – w zależności od strategii likwidacji przyjętej w programie likwidacji obiektu jądrowego, po uwzględnieniu w szczególności czynników takich jak: względy bezpieczeństwa jądrowego i ochrony radiologicznej, współzależności pomiędzy budowlami, budynkami i instalacjami na terenie obiektu jądrowego, możliwe obciążenia dla przyszłych pokoleń, czy też możliwa z upływem czasu utrata wiedzy i kompetencji w zakresie stanu obiektu jądrowego i jego likwidacji.
@@ -130,7 +129,7 @@ Wstępne czynności w likwidacji obiektu jądrowego
 
 #### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2
+#### Rozdział 2 Wstępne czynności w likwidacji obiektu jądrowego
 
 #### Rozdział 3 Zarządzanie likwidacją obiektu jądrowego
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o języku polskim Parlament Rzeczypospolitej Polskiej: – zważywszy, że język polski stanowi podstawowy element narodowej tożsamości i jest dobrem narodowej kultury, – zważywszy na doświadczenie historii, kiedy walka zaborców i okupantów z językiem polskim była narzędziem wynaradawiania, – uznając konieczność ochrony tożsamości narodowej w procesie globalizacji, – uznając, że polska kultura stanowi wkład w budowę wspólnej, różnorodnej kulturowo Europy, a zachowanie tej kultury i jej rozwój jest możliwy tylko poprzez ochronę języka polskiego, – uznając tę ochronę za obowiązek wszystkich organów i instytucji publicznych Rzeczypospolitej Polskiej i powinność jej obywateli uchwala niniejszą ustawę.
+# Ustawa z dnia 7 października 1999 r. o języku polskim.
 
 *USTAWA z dnia 7 października 1999 r.*
 
@@ -170,7 +170,11 @@ source: pdf
     - **c)** studiów drugiego stopnia w zakresie innym niż określony w lit. b – B2,
     - **d)** jednolitych studiów magisterskich – B2;
 
-- **3)** ukończenia szkoły lub innej formy nauczania, o których mowa w ust. 4 pkt 2 lit. b–f – B1. Art. 11aa. 1. Wniosek o wydanie certyfikatu, o którym mowa w art. 11a ust. 4, składa się do Komisji za pośrednictwem Narodowej Agencji Wymiany Akademickiej, działającej na podstawie ustawy z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej (Dz. U. z 2025 r. poz. 1643).
+- **3)** ukończenia szkoły lub innej formy nauczania, o których mowa w ust. 4 pkt 2 lit. b–f – B1.
+
+**Art. 11aa.**
+
+1. Wniosek o wydanie certyfikatu, o którym mowa w art. 11a ust. 4, składa się do Komisji za pośrednictwem Narodowej Agencji Wymiany Akademickiej, działającej na podstawie ustawy z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej (Dz. U. z 2025 r. poz. 1643).
 
 2. Wniosek o wydanie certyfikatu, o którym mowa w art. 11a ust. 4, zawiera:
 

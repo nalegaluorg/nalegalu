@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 26 lipca 2024 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 26 lipca 2024 r.*
 
@@ -229,7 +229,11 @@ source: pdf
 
 2. Zakład jest administratorem danych zgromadzonych w systemie, o którym mowa w ust. 1.
 
-3. Zakład udostępnia dane zgromadzone w systemie, o którym mowa w ust. 1, organom emerytalno-rentowym uprawnionym do ustalania prawa i wysokości oraz wypłaty świadczeń obsługiwanych przez te organy, rozliczeń z tytułu tych świadczeń pomiędzy tymi organami oraz do ustalenia zbiegu świadczeń, o którym mowa w ust. 1. Art. 68ab. 1. Zakład udostępnia usługę umożliwiającą ustalenie zbiegu świadczeń, o którym mowa w art. 95a ust. 1 i art. 95b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w wariantach określonych ustawą – w celu zapewnienia pomocy osobie uprawnionej w wyborze najkorzystniejszego wariantu tego zbiegu.
+3. Zakład udostępnia dane zgromadzone w systemie, o którym mowa w ust. 1, organom emerytalno-rentowym uprawnionym do ustalania prawa i wysokości oraz wypłaty świadczeń obsługiwanych przez te organy, rozliczeń z tytułu tych świadczeń pomiędzy tymi organami oraz do ustalenia zbiegu świadczeń, o którym mowa w ust. 1.
+
+**Art. 68ab.**
+
+1. Zakład udostępnia usługę umożliwiającą ustalenie zbiegu świadczeń, o którym mowa w art. 95a ust. 1 i art. 95b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w wariantach określonych ustawą – w celu zapewnienia pomocy osobie uprawnionej w wyborze najkorzystniejszego wariantu tego zbiegu.
 
 2. Zakład udostępnia usługę, o której mowa w ust. 1, organom wypłacającym świadczenia w zbiegu, o których mowa w art. 95a ust. 1 i art. 95b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w celu jej udostępniania na stronach podmiotowych tych organów.”;
 

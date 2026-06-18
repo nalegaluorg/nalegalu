@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”
+# Ustawa z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka - "Aktywny rodzic"
 
 *USTAWA z dnia 15 maja 2024 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-06-12 |
 | Ostatnia zmiana | 2026-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000858) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/858/text.pdf) |
-
-Art. 57–74. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -725,6 +723,8 @@ Art. 57–74. (pominięte)
 3. Minister właściwy do spraw rodziny może, w szczególnie uzasadnionych przypadkach, wystąpić do Zakładu Ubezpieczeń Społecznych o sporządzenie i przekazanie sprawozdań z wykonywania zadań z zakresu świadczeń „aktywny rodzic” w innych terminach i za inne okresy niż określone w ust. 1.
 
 #### Rozdział 8 Zmiany w przepisach
+
+**Art. 57–74.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe, dostosowujące i przepisy końcowe
 

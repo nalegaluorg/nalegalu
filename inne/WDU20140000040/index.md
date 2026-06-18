@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rodzinnych ogrodach działkowych Doceniając pozytywną rolę ogrodnictwa działkowego, będącego dziedziną życia społecznego, przyczyniającą się do zaspakajania socjalnych, wypoczynkowych i rekreacyjnych potrzeb społeczeństwa, a zwłaszcza rodzin z dziećmi, emerytów, rencistów i niepełnosprawnych, poprzez kształtowanie warunków dla prowadzenia aktywnego i zdrowego trybu życia oraz ochrony środowiska i przyrody, uznaje się za konieczne zapewnienie dalszego istnienia i rozwoju rodzinnych ogrodów działkowych, jako stałych elementów infrastruktury gmin, które powinny być uwzględniane w procesie ich rozwoju dla dobra obecnego i przyszłych pokoleń.
+# Ustawa z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych
 
 *USTAWA z dnia 13 grudnia 2013 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2014-01-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000040) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/40/text.pdf) |
-
-Art. 53–64. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -454,6 +452,8 @@ Art. 53–64. (pominięte)
 3. Szczegółowe zadania związków stowarzyszeń ogrodowych oraz sposób ich realizacji określają statuty tych związków.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 53–64.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe, dostosowujące i końcowe
 

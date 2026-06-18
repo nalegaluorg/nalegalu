@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o podatku leśnym
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o podatku leśnym
 
 *USTAWA z dnia 20 lipca 2018 r.*
 

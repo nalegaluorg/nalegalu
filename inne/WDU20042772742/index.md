@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji oraz ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej
+# Ustawa z dnia 25 listopada 2004 r. o zmianie ustawy o Policji oraz ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 25 listopada 2004 r.*
 

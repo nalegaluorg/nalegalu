@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podatku od niektórych instytucji finansowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 marca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od niektórych instytucji finansowych
 
 *USTAWA z dnia 15 stycznia 2016 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo lotnicze
+# Ustawa z dnia 5 grudnia 2024 r. o zmianie ustawy - Prawo lotnicze
 
 *USTAWA z dnia 5 grudnia 2024 r.*
 

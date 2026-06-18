@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Wyższej Szkole Morskiej w Gdyni nazwy Akademia Morska w Gdyni
+# Ustawa z dnia 5 grudnia 2001 r. o nadaniu Wyższej Szkole Morskiej w Gdyni nazwy Akademia Morska w Gdyni.
 
 *USTAWA z dnia 5 grudnia 2001 r.*
 

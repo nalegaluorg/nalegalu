@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych
+# Ustawa z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych
 
 *USTAWA z dnia 31 lipca 2019 r.*
 

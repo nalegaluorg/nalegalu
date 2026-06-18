@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowym Rejestrze Zadłużonych
+# Ustawa z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych
 
 *USTAWA z dnia 6 grudnia 2018 r.*
 
@@ -213,7 +213,9 @@ source: pdf
 
 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób gromadzenia, przechowywania, agregowania i udostępniania danych, o których mowa w ust. 1, według kryteriów, o których mowa w ust. 2, mając na uwadze konieczność zapewnienia zupełności i spójności udostępnianych danych, konieczność zapewnienia transparentności gromadzonych, przechowywanych, agregowanych i udostępnianych danych, a także konieczność zapewnienia bezpieczeństwa gromadzenia, przechowywania i udostępniania danych.
 
-**Art. 13.** Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób zamieszczania danych w Rejestrze oraz sposób przetwarzania i ujawniania danych zawartych w Rejestrze, a także tryb i sposób przetwarzania oraz przekazywania danych, o których mowa w art. 11 ust. 11, mając na uwadze potrzebę zapewnienia czytelności oraz przejrzystości danych ujawnianych w Rejestrze, łatwość jego użytkowania oraz konieczność zapewnienia bezpieczeństwa przetwarzanych danych. Art. 14–26a. (pominięte)
+**Art. 13.** Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób zamieszczania danych w Rejestrze oraz sposób przetwarzania i ujawniania danych zawartych w Rejestrze, a także tryb i sposób przetwarzania oraz przekazywania danych, o których mowa w art. 11 ust. 11, mając na uwadze potrzebę zapewnienia czytelności oraz przejrzystości danych ujawnianych w Rejestrze, łatwość jego użytkowania oraz konieczność zapewnienia bezpieczeństwa przetwarzanych danych.
+
+**Art. 14–26a.** (pominięte)
 
 **Art. 27.** W Rejestrze nie ujawnia się informacji o sprawach, w których wniosek o ogłoszenie upadłości, wniosek o otwarcie postępowania o zatwierdzenie układu na zgromadzeniu wierzycieli, wniosek o wszczęcie wtórnego postępowania upadłościowego, wniosek o uznanie orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, wniosek restrukturyzacyjny, wniosek o stwierdzenie wykonania, zmianę albo uchylenie układu lub wniosek o orzeczenie zakazu, o którym mowa w art. 373 ust. 1 ustawy zmienianej w art. 19 , wpłynął przed dniem wejścia w życie niniejszej ustawy.
 

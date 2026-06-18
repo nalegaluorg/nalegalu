@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 listopada 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego
 
 *USTAWA z dnia 24 lipca 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-11-30 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002232) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2232/text.pdf) |
-
-Art. 51–82. (pominięte)
 
 #### Rozdział 1 Cele i zadania Rady Dialogu Społecznego
 
@@ -622,6 +620,8 @@ Art. 51–82. (pominięte)
 5. (uchylony)
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 51–82.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe, dostosowujące i końcowe
 

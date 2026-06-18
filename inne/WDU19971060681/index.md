@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o publicznej służbie krwi
+# Ustawa z dnia 22 sierpnia 1997 r. o publicznej służbie krwi.
 
 *USTAWA z dnia 22 sierpnia 1997 r.*
 

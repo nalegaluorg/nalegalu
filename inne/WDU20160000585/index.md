@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw
+# Ustawa z dnia 14 kwietnia 2016 r. o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw
 
 *USTAWA z dnia 14 kwietnia 2016 r.*
 
@@ -48,7 +48,9 @@ source: pdf
 
 2a. We wniosku o wyrażenie zgody, o której mowa w ust. 2, Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa w szczególności wskazuje, jakie względy społeczno-gospodarcze uzasadniają sprzedaż nieruchomości, ich części lub udziałów we współwłasności nieruchomości.
 
-3. Sprzedaż nieruchomości, ich części lub udziałów we współwłasności nieruchomości, innych niż wymienione w ust. 1, bez zgody, o której mowa w ust. 2, w okresie 20 lat od dnia wejścia w życie ustawy, jest nieważna. Art. 3–8. (pominięte)
+3. Sprzedaż nieruchomości, ich części lub udziałów we współwłasności nieruchomości, innych niż wymienione w ust. 1, bez zgody, o której mowa w ust. 2, w okresie 20 lat od dnia wejścia w życie ustawy, jest nieważna.
+
+**Art. 3–8.** (pominięte)
 
 **Art. 9.** Przepisu art. 68 ust. 2a ustawy zmienianej w art. 4 , w brzmieniu nadanym niniejszą ustawą, nie stosuje się do hipotek wpisanych do ksiąg wieczystych przed dniem wejścia w życie niniejszej ustawy.
 

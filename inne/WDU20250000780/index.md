@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Radzie Ministrów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Radzie Ministrów
 
 *USTAWA z dnia 8 sierpnia 1996 r.*
 
@@ -280,7 +280,12 @@ source: pdf
 - **7)** współdziałanie z ministrem właściwym do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej w sprawie dostosowania prawa polskiego do prawa Unii Europejskiej i jego wykonywania;
 - **8)** współdziałanie z Radą Legislacyjną w zakresie opiniowania rządowych projektów aktów normatywnych pod względem ich zgodności z Konstytucją Rzeczypospolitej Polskiej oraz spójności z polskim systemem prawa;
 - **9)** monitorowanie wydawania przez organy administracji rządowej przepisów wykonawczych do ustaw;
-- **10)** wykonywanie innych zadań określonych w odrębnych przepisach lub wskazanych przez Prezesa Rady Ministrów. Art. 14ca. 1. Aplikantem aplikacji legislacyjnej może być:
+- **10)** wykonywanie innych zadań określonych w odrębnych przepisach lub wskazanych przez Prezesa Rady Ministrów.
+
+**Art. 14ca.**
+
+1. Aplikantem aplikacji legislacyjnej może być:
+
 - **1)** mający wykształcenie prawnicze: o pracownikach urzędów państwowych (Dz. U. z 2025 r. poz. 1459 oraz z 2026 r. poz. 26 i 160),
     - **a)** członek korpusu służby cywilnej, o którym mowa w art. 110 ust. 1 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409, z 2025 r. poz. 620 i 1661 oraz z 2026 r. poz. 26 i 160),
     - **b)** urzędnik, o którym mowa w art. 7 ust. 1 ustawy z dnia 16 września 1982 r.
@@ -294,16 +299,28 @@ source: pdf
 - **5)** radca prawny;
 - **6)** sędzia.
 
-2. W szczególnie uzasadnionych przypadkach Prezes Centrum może wyrazić zgodę na udział w aplikacji legislacyjnej osoby mającej wykształcenie prawnicze, zatrudnionej na stanowisku do spraw legislacji, innej niż osoby wymienione w ust. 1. Art. 14cb. Aplikacja legislacyjna kończy się egzaminem składanym przed komisją egzaminacyjną. Art. 14cc. 1. Prezes Centrum powołuje i odwołuje:
+2. W szczególnie uzasadnionych przypadkach Prezes Centrum może wyrazić zgodę na udział w aplikacji legislacyjnej osoby mającej wykształcenie prawnicze, zatrudnionej na stanowisku do spraw legislacji, innej niż osoby wymienione w ust. 1.
+
+**Art. 14cb.** Aplikacja legislacyjna kończy się egzaminem składanym przed komisją egzaminacyjną.
+
+**Art. 14cc.**
+
+1. Prezes Centrum powołuje i odwołuje:
 
 - **1)** Radę Programową;
 - **2)** kierownika aplikacji legislacyjnej.
 
 2. Do zadań Rady Programowej należy wspieranie Prezesa Centrum oraz kierownika aplikacji legislacyjnej w zakresie ustalania przebiegu aplikacji legislacyjnej.
 
-3. Do zadań kierownika aplikacji legislacyjnej należy zapewnienie należytego przebiegu aplikacji legislacyjnej. Art. 14cd. 1. Aplikacja legislacyjna jest odpłatna.
+3. Do zadań kierownika aplikacji legislacyjnej należy zapewnienie należytego przebiegu aplikacji legislacyjnej.
 
-2. Wysokość opłaty wynosi do 4-krotności przeciętnego wynagrodzenia w gospodarce narodowej ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26). Art. 14ce. Prezes Rady Ministrów określi, w drodze rozporządzenia:
+**Art. 14cd.**
+
+1. Aplikacja legislacyjna jest odpłatna.
+
+2. Wysokość opłaty wynosi do 4-krotności przeciętnego wynagrodzenia w gospodarce narodowej ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26).
+
+**Art. 14ce.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe warunki prowadzenia aplikacji legislacyjnej,
 - **2)** sposób i tryb organizowania i odbywania aplikacji legislacyjnej, w tym skład komisji egzaminacyjnej,

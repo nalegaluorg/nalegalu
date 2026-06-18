@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 15 czerwca 2007 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 15 czerwca 2007 r.*
 

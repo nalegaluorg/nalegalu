@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej
+# Ustawa z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 6 marca 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-03-30 |
 | Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000649) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/649/text.pdf) |
-
-Oddziały przedsiębiorców zagranicznych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -236,7 +234,7 @@ Oddziały przedsiębiorców zagranicznych
 
 **Art. 13.** W sprawach określonych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 4 ust. 6 i 7 niniejszej ustawy, art. 27–32 i art. 44 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców oraz przepisy działu III ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541 oraz z 2024 r. poz. 1841).
 
-#### Rozdział 4
+#### Rozdział 4 Oddziały przedsiębiorców zagranicznych
 
 **Art. 14.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie morskim
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie morskim
 
 | Pole | Wartość |
 |---|---|
@@ -34,7 +34,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 18 sierpnia 2011 r.
 o bezpieczeństwie morskim
-Art. 131–141. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -2563,6 +2562,8 @@ Art. 131–141. (pominięte)
 7. Ściągnięte kwoty z tytułu kar pieniężnych stanowią dochód budżetu państwa.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 131–141.** (pominięte)
 
 **Art. 142.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 

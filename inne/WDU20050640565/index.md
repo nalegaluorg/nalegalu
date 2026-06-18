@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o informatyzacji działalności podmiotów realizujących zadania publiczne
+# Ustawa z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne
 
 *USTAWA z dnia 17 lutego 2005 r.*
 
@@ -26,9 +26,6 @@ source: pdf
 | Data wydania | 2005-04-20 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050640565) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/565/text.pdf) |
-
-Art. 36–52. (pominięte)
-Art. 53–60. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -167,7 +164,11 @@ Art. 53–60. (pominięte)
 
 5. Minister właściwy do spraw informatyzacji może wydać wiążące polecenie dokonania wpłaty środków pieniężnych stanowiących zysk netto, o którym mowa w ust. 4, lub zgromadzonych na funduszu zapasowym tej jednostki, na rzecz Funduszu ‒ Centralnej Ewidencji Pojazdów i Kierowców, o którym mowa w art. 80d ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251 oraz z 2025 r. poz. 820 i 1006).
 
-6. Szef Kancelarii Prezesa Rady Ministrów lub minister kierujący działem administracji rządowej, za zgodą ministra właściwego do spraw informatyzacji, może powierzyć realizację swoich zadań z zakresu informatyzacji instytucji, o której mowa w ust. 1, udzielając dotacji celowej. Art. 4aa. 1. W przypadku uzasadnionym istotnym interesem bezpieczeństwa państwa Prezes Rady Ministrów, na wniosek Szefa Kancelarii Prezesa Rady Ministrów, może powierzyć realizację obsługi informatycznej Kancelarii Prezesa Rady Ministrów na czas określony, instytucji, o której mowa w art. 4a ust. 1.
+6. Szef Kancelarii Prezesa Rady Ministrów lub minister kierujący działem administracji rządowej, za zgodą ministra właściwego do spraw informatyzacji, może powierzyć realizację swoich zadań z zakresu informatyzacji instytucji, o której mowa w ust. 1, udzielając dotacji celowej.
+
+**Art. 4aa.**
+
+1. W przypadku uzasadnionym istotnym interesem bezpieczeństwa państwa Prezes Rady Ministrów, na wniosek Szefa Kancelarii Prezesa Rady Ministrów, może powierzyć realizację obsługi informatycznej Kancelarii Prezesa Rady Ministrów na czas określony, instytucji, o której mowa w art. 4a ust. 1.
 
 2. Informację o powierzeniu realizacji zadania, o którym mowa w ust. 1, otrzymuje:
 
@@ -213,18 +214,38 @@ Art. 53–60. (pominięte)
 
 **Art. 12.** (uchylony)
 
-**Art. 12a.** (uchylony) Art. 12aa. 1. Rada Ministrów przyjmuje, w drodze uchwały, strategię dotyczącą informatyzacji państwa, zwaną dalej „strategią”. 2. Strategia określa:
+**Art. 12a.** (uchylony)
+
+**Art. 12aa.**
+
+1. Rada Ministrów przyjmuje, w drodze uchwały, strategię dotyczącą informatyzacji państwa, zwaną dalej „strategią”.
+
+2. Strategia określa:
 
 - **1)** aktualny stan informatyzacji państwa;
 - **2)** wizję informatyzacji państwa;
 - **3)** cele informatyzacji państwa;
 - **4)** środki i działania służące do realizacji celów informatyzacji państwa;
 - **5)** sposoby i zasady współpracy podmiotów, których dotyczy informatyzacja państwa;
-- **6)** możliwości finansowania działań, o których mowa w pkt 4. Art. 12ab. Strategia jest przyjmowana na okres dziesięcioletni. Art. 12ac. 1. Strategię realizują członkowie Rady Ministrów.
+- **6)** możliwości finansowania działań, o których mowa w pkt 4.
 
-2. Minister właściwy do spraw informatyzacji monitoruje realizację strategii. Art. 12ad. 1. Minister właściwy do spraw informatyzacji we współpracy z innymi członkami Rady Ministrów dokonuje przeglądu strategii co 2 lata.
+**Art. 12ab.** Strategia jest przyjmowana na okres dziesięcioletni.
 
-2. Minister właściwy do spraw informatyzacji sporządza sprawozdanie z przeglądu strategii i przedkłada je Radzie Ministrów w terminie 2 miesięcy od dnia zakończenia przeglądu. Art. 12ae. 1. W urzędzie obsługującym ministra kierującego działem administracji rządowej oraz w Kancelarii Prezesa Rady Ministrów powołuje się pełnomocnika do spraw informatyzacji, zwanego dalej „pełnomocnikiem”. Przepisów art. 4a ust. 1 i 6 nie stosuje się.
+**Art. 12ac.**
+
+1. Strategię realizują członkowie Rady Ministrów.
+
+2. Minister właściwy do spraw informatyzacji monitoruje realizację strategii.
+
+**Art. 12ad.**
+
+1. Minister właściwy do spraw informatyzacji we współpracy z innymi członkami Rady Ministrów dokonuje przeglądu strategii co 2 lata.
+
+2. Minister właściwy do spraw informatyzacji sporządza sprawozdanie z przeglądu strategii i przedkłada je Radzie Ministrów w terminie 2 miesięcy od dnia zakończenia przeglądu.
+
+**Art. 12ae.**
+
+1. W urzędzie obsługującym ministra kierującego działem administracji rządowej oraz w Kancelarii Prezesa Rady Ministrów powołuje się pełnomocnika do spraw informatyzacji, zwanego dalej „pełnomocnikiem”. Przepisów art. 4a ust. 1 i 6 nie stosuje się.
 
 2. Pełnomocnika można powołać w urzędzie innym niż urzędy wymienione w ust. 1, w szczególności w urzędzie obsługującym organ jednostki samorządu terytorialnego.
 
@@ -373,7 +394,9 @@ Art. 53–60. (pominięte)
 - **6)** informację o sposobie dostępu do danych w przypadku czasowej niedostępności API dłuższej niż wynikająca z informacji, o której mowa w pkt 5,
 - **7)** statystyki użycia API – i zapewnia ich aktualność.>
 
-**Art. 13a.** Podmioty publiczne, o których mowa w art. 2 ust. 1, służby specjalne w rozumieniu art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, Kancelaria Sejmu, Kancelaria Senatu, Kancelaria Prezydenta Rzeczypospolitej Polskiej, Narodowy Bank Polski, agencje wykonawcze w rozumieniu art. 18 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz podmioty, o których mowa w art. 2 ust. 4, niewskazane wprost w art. 2 ust. 1, uprawnione do wykonywania praw majątkowych do programu komputerowego stworzonego przez pracowników w ramach wykonywania obowiązków ze stosunku pracy świadczonej na rzecz tych podmiotów, mogą umożliwić sobie wzajemnie nieodpłatne korzystanie z tego programu komputerowego. Art. 13aa. (uchylony)
+**Art. 13a.** Podmioty publiczne, o których mowa w art. 2 ust. 1, służby specjalne w rozumieniu art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, Kancelaria Sejmu, Kancelaria Senatu, Kancelaria Prezydenta Rzeczypospolitej Polskiej, Narodowy Bank Polski, agencje wykonawcze w rozumieniu art. 18 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz podmioty, o których mowa w art. 2 ust. 4, niewskazane wprost w art. 2 ust. 1, uprawnione do wykonywania praw majątkowych do programu komputerowego stworzonego przez pracowników w ramach wykonywania obowiązków ze stosunku pracy świadczonej na rzecz tych podmiotów, mogą umożliwić sobie wzajemnie nieodpłatne korzystanie z tego programu komputerowego.
+
+**Art. 13aa.** (uchylony)
 
 **Art. 13b.**
 
@@ -704,7 +727,12 @@ Art. 53–60. (pominięte)
 - **1)** zakres i warunki korzystania z ePUAP,
 - **2)** sposób identyfikacji i uwierzytelniania w ePUAP, w tym przy wykorzystaniu środków identyfikacji elektronicznej stosowanych do uwierzytelniania w systemie teleinformatycznym banku krajowego lub innego przedsiębiorcy,
 - **3)** warunki organizacyjne i techniczne nieodpłatnego wykorzystywania do identyfikacji i uwierzytelniania w ePUAP środków identyfikacji elektronicznej stosowanych do uwierzytelniania w systemie teleinformatycznym banku krajowego lub innego przedsiębiorcy,
-- **4)** sposób potwierdzania spełniania warunków, o których mowa w pkt 1 – z uwzględnieniem roli ePUAP w procesie realizacji zadań publicznych drogą elektroniczną oraz zasad przetwarzania danych osobowych. Art. 19aa. Minister właściwy do spraw informatyzacji może, przy wykorzystaniu systemów teleinformatycznych tego ministra, udostępniać usługi online w celu umożliwienia temu ministrowi oraz innym podmiotom publicznym obsługi drogą elektroniczną podań, w tym wniosków, określonych w przepisach odrębnych, jeżeli przepisy te nie wykluczają przesyłania dokumentów drogą elektroniczną. Art. 19ab. Minister właściwy do spraw informatyzacji może, przy wykorzystaniu systemów teleinformatycznych tego ministra udostępniać usługi online polegające na zapewnieniu możliwości wykonywania przez ministrów kierujących odpowiednimi działami administracji rządowej zadań związanych z:
+- **4)** sposób potwierdzania spełniania warunków, o których mowa w pkt 1 – z uwzględnieniem roli ePUAP w procesie realizacji zadań publicznych drogą elektroniczną oraz zasad przetwarzania danych osobowych.
+
+**Art. 19aa.** Minister właściwy do spraw informatyzacji może, przy wykorzystaniu systemów teleinformatycznych tego ministra, udostępniać usługi online w celu umożliwienia temu ministrowi oraz innym podmiotom publicznym obsługi drogą elektroniczną podań, w tym wniosków, określonych w przepisach odrębnych, jeżeli przepisy te nie wykluczają przesyłania dokumentów drogą elektroniczną.
+
+**Art. 19ab.** Minister właściwy do spraw informatyzacji może, przy wykorzystaniu systemów teleinformatycznych tego ministra udostępniać usługi online polegające na zapewnieniu możliwości wykonywania przez ministrów kierujących odpowiednimi działami administracji rządowej zadań związanych z:
+
 - **1)** zapewnieniem bezpieczeństwa i porządku publicznego;
 - **2)** ochroną przeciwpożarową i przeciwpowodziową;
 - **3)** ochroną zdrowia i życia;
@@ -716,7 +744,11 @@ Art. 53–60. (pominięte)
 - **9)** zaopatrzeniem w gaz, energię elektryczną oraz cieplną;
 - **10)** telekomunikacją;
 - **11)** publicznym transportem zbiorowym;
-- **12)** ochroną środowiska. Art. 19ac. 1. W zakresie niezbędnym do realizacji usług online, o których mowa w art. 19aa i art. 19ab, następuje wymiana danych między systemami teleinformatycznymi ministra właściwego do spraw informatyzacji a systemami teleinformatycznymi właściwego ministra kierującego odpowiednim działem administracji rządowej.
+- **12)** ochroną środowiska.
+
+**Art. 19ac.**
+
+1. W zakresie niezbędnym do realizacji usług online, o których mowa w art. 19aa i art. 19ab, następuje wymiana danych między systemami teleinformatycznymi ministra właściwego do spraw informatyzacji a systemami teleinformatycznymi właściwego ministra kierującego odpowiednim działem administracji rządowej.
 
 2. Minister właściwy do spraw informatyzacji zapewnia utrzymanie i rozwój usług online, o których mowa w ust. 1, w tym zapewnia:
 
@@ -727,7 +759,11 @@ Art. 53–60. (pominięte)
 
 - **1)** szczegółowy sposób udostępniania usług online;
 - **2)** zakres danych udostępnianych na potrzeby realizacji danej usługi online, a także sposób i tryb ich udostępniania;
-- **3)** okres realizacji usług online. Art. 19ad. 1. Minister właściwy do spraw informatyzacji może realizować zadania polegające na utworzeniu, utrzymaniu lub rozwoju rozwiązania informatycznego lub systemu teleinformatycznego, służącego zapewnieniu możliwości wykonywania przez Prezesa Rady Ministrów, ministrów, jednostki organizacyjne podległe Prezesowi Rady Ministrów lub przez niego nadzorowane, Zakład Ubezpieczeń Społecznych i Narodowy Fundusz Zdrowia zadań związanych z realizacją obowiązków tych podmiotów w obszarze informatyzacji.
+- **3)** okres realizacji usług online.
+
+**Art. 19ad.**
+
+1. Minister właściwy do spraw informatyzacji może realizować zadania polegające na utworzeniu, utrzymaniu lub rozwoju rozwiązania informatycznego lub systemu teleinformatycznego, służącego zapewnieniu możliwości wykonywania przez Prezesa Rady Ministrów, ministrów, jednostki organizacyjne podległe Prezesowi Rady Ministrów lub przez niego nadzorowane, Zakład Ubezpieczeń Społecznych i Narodowy Fundusz Zdrowia zadań związanych z realizacją obowiązków tych podmiotów w obszarze informatyzacji.
 
 2. Szczegółowy zakres i sposób realizacji zadania określa się w porozumieniu zawartym między ministrem właściwym do spraw informatyzacji a podmiotem wymienionym w ust. 1, na rzecz którego minister właściwy do spraw informatyzacji realizuje to zadanie.
 
@@ -752,7 +788,9 @@ Art. 53–60. (pominięte)
 
 **Art. 19d.** Podmioty udostępniające usługi na ePUAP zapewniają ich zgodność z przepisami stanowiącymi podstawę sporządzenia wzoru dokumentu elektronicznego oraz dokonują aktualizacji tych usług w katalogu usług.
 
-**Art. 19e.** (uchylony) Art. 19ea. (uchylony)
+**Art. 19e.** (uchylony)
+
+**Art. 19ea.** (uchylony)
 
 **Art. 19f.** (uchylony)
 
@@ -784,7 +822,12 @@ Art. 53–60. (pominięte)
     - **a)** zakres i okres przechowywania danych w systemie,
     - **b)** obowiązki informacyjne, do których zobowiązany jest administrator systemu
 
-- **2)** (uchylony) – biorąc pod uwagę konieczność zapewnienia bezpieczeństwa i pewności w procesie identyfikacji oraz poufności kluczowych elementarnych czynności. Art. 20aa. 1. Minister właściwy do spraw informatyzacji odpowiada za funkcjonowanie systemu teleinformatycznego, który:
+- **2)** (uchylony) – biorąc pod uwagę konieczność zapewnienia bezpieczeństwa i pewności w procesie identyfikacji oraz poufności kluczowych elementarnych czynności.
+
+**Art. 20aa.**
+
+1. Minister właściwy do spraw informatyzacji odpowiada za funkcjonowanie systemu teleinformatycznego, który:
+
 - **1)** zapewnia obsługę publicznego systemu identyfikacji elektronicznej, w którym wydawany jest:
     - **a)** profil zaufany,
     - **b)** profil osobisty,
@@ -803,10 +846,16 @@ Art. 53–60. (pominięte)
 - **1)** weryfikację podpisu osobistego oraz kwalifikowanego podpisu elektronicznego lub
 - **2)** opatrzenie dokumentu elektronicznego podpisem osobistym lub kwalifikowanym podpisem elektronicznym – w formatach danych wskazanych przez ministra właściwego do spraw informatyzacji spośród formatów danych do elektronicznego podpisywania, weryfikacji podpisu, opatrywania pieczęcią elektroniczną i szyfrowania dokumentów elektronicznych, określonych w przepisach wydanych na podstawie art. 18.
 
-4. Minister właściwy do spraw informatyzacji udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej informację o wskazanych formatach podpisów elektronicznych obsługiwanych w ramach usług, o których mowa w ust. 1 pkt 2 lit. b oraz ust. 2 i 3. Art. 20ab. Minister właściwy do spraw informatyzacji:
+4. Minister właściwy do spraw informatyzacji udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej informację o wskazanych formatach podpisów elektronicznych obsługiwanych w ramach usług, o których mowa w ust. 1 pkt 2 lit. b oraz ust. 2 i 3.
+
+**Art. 20ab.** Minister właściwy do spraw informatyzacji:
 
 - **1)** zarządza publicznym systemem identyfikacji elektronicznej;
-- **2)** zapisuje i zachowuje informacje związane z zapewnieniem rozliczalności i niezaprzeczalności działań użytkownika korzystającego ze środka identyfikacji elektronicznej wydanego w publicznym systemie identyfikacji elektronicznej. Art. 20ac. 1. Minister właściwy do spraw informatyzacji jest administratorem danych przetwarzanych w systemie, o którym mowa w art. 20aa ust. 1.
+- **2)** zapisuje i zachowuje informacje związane z zapewnieniem rozliczalności i niezaprzeczalności działań użytkownika korzystającego ze środka identyfikacji elektronicznej wydanego w publicznym systemie identyfikacji elektronicznej.
+
+**Art. 20ac.**
+
+1. Minister właściwy do spraw informatyzacji jest administratorem danych przetwarzanych w systemie, o którym mowa w art. 20aa ust. 1.
 
 2. W systemie przetwarza się następujące dane:
 
@@ -831,7 +880,12 @@ Art. 53–60. (pominięte)
 
 - **1)** imię (imiona);
 - **2)** nazwisko;
-- **3)** numer PESEL. Art. 20ad. 1. Profil zaufany zawiera dane identyfikujące osobę fizyczną obejmujące:
+- **3)** numer PESEL.
+
+**Art. 20ad.**
+
+1. Profil zaufany zawiera dane identyfikujące osobę fizyczną obejmujące:
+
 - **1)** imię (imiona);
 - **2)** nazwisko;
 - **3)** datę urodzenia;
@@ -845,7 +899,11 @@ Art. 53–60. (pominięte)
 
 4a. W przypadku gdy w rejestrze PESEL został odnotowany zgon osoby posiadającej profil zaufany, profil zaufany tej osoby jest automatycznie unieważniany.
 
-5. Profil zaufany może zawierać inne dane niż wymienione w ust. 1, w szczególności identyfikator oraz dane wykorzystywane w procesach uwierzytelniania i autoryzacji realizowanych przy użyciu profilu zaufanego. Art. 20ae. 1. Podpis zaufany wywołuje skutki prawne, jeżeli został utworzony lub złożony w okresie ważności środka identyfikacji elektronicznej, o którym mowa w art. 20aa ust. 1 pkt 1.
+5. Profil zaufany może zawierać inne dane niż wymienione w ust. 1, w szczególności identyfikator oraz dane wykorzystywane w procesach uwierzytelniania i autoryzacji realizowanych przy użyciu profilu zaufanego.
+
+**Art. 20ae.**
+
+1. Podpis zaufany wywołuje skutki prawne, jeżeli został utworzony lub złożony w okresie ważności środka identyfikacji elektronicznej, o którym mowa w art. 20aa ust. 1 pkt 1.
 
 2. Dane w postaci elektronicznej opatrzone podpisem zaufanym są równoważne pod względem skutków prawnych dokumentowi opatrzonemu podpisem własnoręcznym, chyba że przepisy odrębne stanowią inaczej.
 
@@ -916,7 +974,13 @@ Art. 53–60. (pominięte)
 
 9. Minister właściwy do spraw informatyzacji może sprawdzać, czy bank krajowy lub inny przedsiębiorca, o którym mowa w ust. 8, spełnia warunki, o których mowa w przepisach wydanych na podstawie art. 20d pkt 1.
 
-10. Minister właściwy do spraw informatyzacji cofa zgodę, o której mowa w ust. 8, w przypadku gdy bank krajowy lub inny przedsiębiorca nie spełnia warunków określonych w przepisach wydanych na podstawie art. 20d pkt 1. Art. 20ca. (uchylony) Art. 20cb. 1. Minister właściwy do spraw informatyzacji może udostępnić usługę online służącą do potwierdzania profilu zaufanego przy użyciu metody, o której mowa w ust. 2.
+10. Minister właściwy do spraw informatyzacji cofa zgodę, o której mowa w ust. 8, w przypadku gdy bank krajowy lub inny przedsiębiorca nie spełnia warunków określonych w przepisach wydanych na podstawie art. 20d pkt 1.
+
+**Art. 20ca.** (uchylony)
+
+**Art. 20cb.**
+
+1. Minister właściwy do spraw informatyzacji może udostępnić usługę online służącą do potwierdzania profilu zaufanego przy użyciu metody, o której mowa w ust. 2.
 
 2. W celu potwierdzenia tożsamości osoby wnioskującej o potwierdzenie profilu zaufanego przeprowadza się wideoidentyfikację wnioskodawcy polegającą na:
 
@@ -962,7 +1026,31 @@ Art. 53–60. (pominięte)
 
 **Art. 20f.** (uchylony)
 
-**Art. 20g.** Do systemu, o którym mowa w art. 20aa ust. 1, przyłącza się elektroniczną platformę usług administracji publicznej. Art. 20ga. 1. Minister właściwy do spraw informatyzacji prowadzi inwentaryzację systemów teleinformatycznych używanych do realizacji zadań publicznych oraz inwentaryzację rejestrów publicznych, z wyłączeniem systemów teleinformatycznych i rejestrów publicznych wykorzystywanych do celów zapewnienia bezpieczeństwa narodowego i bezpieczeństwa publicznego. 2. Inwentaryzacja jest przeprowadzana co najmniej raz w roku i obejmuje zbieranie informacji o istniejących i planowanych systemach teleinformatycznych przeznaczonych do realizacji zadań publicznych, o rejestrach publicznych, a także o wymianie danych między tymi systemami. 3. Inwentaryzacja jest przeprowadzana z wykorzystaniem Systemu Inwentaryzacji Systemów Teleinformatycznych, zwanego dalej „SIST”, prowadzonego przez ministra właściwego do spraw informatyzacji. 4. Minister właściwy do spraw informatyzacji może powierzyć zadania związane z utrzymaniem i rozwojem SIST jednostce mu podległej lub przez niego nadzorowanej. 5. Zadania powierzone do realizacji jednostce, o której mowa w ust. 4, mogą być finansowane w formie dotacji celowej z budżetu państwa z części, której dysponentem jest minister właściwy do spraw informatyzacji. Art. 20gb. 1. Do wprowadzania danych w SIST są obowiązane podmioty realizujące zadania publiczne, które otrzymały zawiadomienie od ministra właściwego do spraw informatyzacji o prowadzonej inwentaryzacji. 2. W zawiadomieniu minister właściwy do spraw informatyzacji określa zakres danych objętych inwentaryzacją oraz termin wprowadzania tych danych w SIST nie krótszy niż 14 dni od dnia otrzymania zawiadomienia. 3. Podmiot, o którym mowa w ust. 1, po otrzymaniu zawiadomienia jest obowiązany do założenia konta w SIST, do administrowania tym kontem oraz do bieżącej aktualizacji w SIST danych podmiotu prowadzącego system teleinformatyczny używany do realizacji zadań publicznych lub rejestr publiczny. Art. 20gc. 1. W SIST są przetwarzane w szczególności dane dotyczące:
+**Art. 20g.** Do systemu, o którym mowa w art. 20aa ust. 1, przyłącza się elektroniczną platformę usług administracji publicznej.
+
+**Art. 20ga.**
+
+1. Minister właściwy do spraw informatyzacji prowadzi inwentaryzację systemów teleinformatycznych używanych do realizacji zadań publicznych oraz inwentaryzację rejestrów publicznych, z wyłączeniem systemów teleinformatycznych i rejestrów publicznych wykorzystywanych do celów zapewnienia bezpieczeństwa narodowego i bezpieczeństwa publicznego.
+
+2. Inwentaryzacja jest przeprowadzana co najmniej raz w roku i obejmuje zbieranie informacji o istniejących i planowanych systemach teleinformatycznych przeznaczonych do realizacji zadań publicznych, o rejestrach publicznych, a także o wymianie danych między tymi systemami.
+
+3. Inwentaryzacja jest przeprowadzana z wykorzystaniem Systemu Inwentaryzacji Systemów Teleinformatycznych, zwanego dalej „SIST”, prowadzonego przez ministra właściwego do spraw informatyzacji.
+
+4. Minister właściwy do spraw informatyzacji może powierzyć zadania związane z utrzymaniem i rozwojem SIST jednostce mu podległej lub przez niego nadzorowanej.
+
+5. Zadania powierzone do realizacji jednostce, o której mowa w ust. 4, mogą być finansowane w formie dotacji celowej z budżetu państwa z części, której dysponentem jest minister właściwy do spraw informatyzacji.
+
+**Art. 20gb.**
+
+1. Do wprowadzania danych w SIST są obowiązane podmioty realizujące zadania publiczne, które otrzymały zawiadomienie od ministra właściwego do spraw informatyzacji o prowadzonej inwentaryzacji.
+
+2. W zawiadomieniu minister właściwy do spraw informatyzacji określa zakres danych objętych inwentaryzacją oraz termin wprowadzania tych danych w SIST nie krótszy niż 14 dni od dnia otrzymania zawiadomienia.
+
+3. Podmiot, o którym mowa w ust. 1, po otrzymaniu zawiadomienia jest obowiązany do założenia konta w SIST, do administrowania tym kontem oraz do bieżącej aktualizacji w SIST danych podmiotu prowadzącego system teleinformatyczny używany do realizacji zadań publicznych lub rejestr publiczny.
+
+**Art. 20gc.**
+
+1. W SIST są przetwarzane w szczególności dane dotyczące:
 
 - **1)** systemów teleinformatycznych używanych do realizacji zadań publicznych,
 - **2)** rejestrów publicznych,
@@ -975,7 +1063,9 @@ Art. 53–60. (pominięte)
 
 3. Minister właściwy do spraw informatyzacji jest administratorem danych przetwarzanych w SIST.
 
-4. Dane osobowe przetwarzane w SIST są wykorzystywane wyłącznie w celu realizacji zadań związanych z inwentaryzacją oraz z funkcjonowaniem w SIST konta podmiotu, o którym mowa w art. 20gb ust. 1, i przechowywane przez okres niezbędny do realizacji tych zadań. Art. 20gd. Minister właściwy do spraw informatyzacji sporządza roczne sprawozdanie z wykonania przez podmioty realizujące zadania publiczne obowiązków, o których mowa w art. 20gb ust. 1, i przedkłada je Radzie Ministrów w terminie do dnia 30 kwietnia roku następującego po roku, którego dotyczy sprawozdanie.
+4. Dane osobowe przetwarzane w SIST są wykorzystywane wyłącznie w celu realizacji zadań związanych z inwentaryzacją oraz z funkcjonowaniem w SIST konta podmiotu, o którym mowa w art. 20gb ust. 1, i przechowywane przez okres niezbędny do realizacji tych zadań.
+
+**Art. 20gd.** Minister właściwy do spraw informatyzacji sporządza roczne sprawozdanie z wykonania przez podmioty realizujące zadania publiczne obowiązków, o których mowa w art. 20gb ust. 1, i przedkłada je Radzie Ministrów w terminie do dnia 30 kwietnia roku następującego po roku, którego dotyczy sprawozdanie.
 
 #### Rozdział 3a Rejestr danych kontaktowych osób fizycznych
 
@@ -1253,7 +1343,11 @@ Art. 53–60. (pominięte)
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
 
+**Art. 36–52.** (pominięte)
+
 #### Rozdział 6 Przepisy dostosowujące, przejściowe i końcowe
+
+**Art. 53–60.** (pominięte)
 
 **Art. 61.**
 

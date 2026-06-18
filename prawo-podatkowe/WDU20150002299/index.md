@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o podatku dochodowym od osób fizycznych
+# Ustawa z dnia 22 grudnia 2015 r. zmieniająca ustawę o zmianie ustawy o podatku dochodowym od osób fizycznych
 
 *USTAWA z dnia 22 grudnia 2015 r.*
 

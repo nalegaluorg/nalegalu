@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego
+# Ustawa z dnia 27 listopada 2020 r. o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego
 
 *USTAWA z dnia 27 listopada 2020 r.*
 

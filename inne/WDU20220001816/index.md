@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o substancjach chemicznych i ich mieszaninach
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o substancjach chemicznych i ich mieszaninach
 
 | Pole | Wartość |
 |---|---|
@@ -36,7 +36,6 @@ UE L 328 z 10.12.2011, str. 49, Dz. Urz. UE L 150 z 14.06.2018, str. 100 oraz Dz
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 25 lutego 2011 r.
 o substancjach chemicznych i ich mieszaninach
-Art. 65–84. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -552,6 +551,8 @@ Art. 65–84. (pominięte)
 **Art. 64.** Orzekanie w sprawach o czyny, o których mowa w art. 35, art. 41–49 i art. 52–63, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 65–84.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

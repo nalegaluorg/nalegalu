@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw
+# Ustawa z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 29 października 2021 r.*
 
@@ -465,7 +465,11 @@ source: pdf
 
 11. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia.
 
-12. Przepis art. 26e ust. 10 stosuje się odpowiednio. Art. 26gb. 1. Podatnik uzyskujący przychody z pozarolniczej działalności gospodarczej odlicza od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów do wysokości dochodu uzyskanego przez podatnika w roku podatkowym z pozarolniczej działalności gospodarczej, nie więcej jednak niż 1 000 000 zł w roku podatkowym.
+12. Przepis art. 26e ust. 10 stosuje się odpowiednio.
+
+**Art. 26gb.**
+
+1. Podatnik uzyskujący przychody z pozarolniczej działalności gospodarczej odlicza od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów do wysokości dochodu uzyskanego przez podatnika w roku podatkowym z pozarolniczej działalności gospodarczej, nie więcej jednak niż 1 000 000 zł w roku podatkowym.
 
 2. Przez produkty rozumie się rzeczy wytworzone przez podatnika.
 
@@ -537,7 +541,11 @@ source: pdf
 
 10. Podatnik korzystający z odliczenia składa w terminie złożenia zeznania, w którym dokonuje tego odliczenia, informację, według ustalonego wzoru, zawierającą wykaz poniesionych kosztów podlegających odliczeniu.
 
-11. W przypadku skorzystania z odliczenia kosztów, o których mowa w ust. 1, przepisu art. 23 ust. 1 pkt 45 nie stosuje się. Art. 26hb. 1. Podatnik może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, wydatki:
+11. W przypadku skorzystania z odliczenia kosztów, o których mowa w ust. 1, przepisu art. 23 ust. 1 pkt 45 nie stosuje się.
+
+**Art. 26hb.**
+
+1. Podatnik może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, wydatki:
 
 - **1)** poniesione w roku podatkowym na wpłaty na fundusz remontowy wspólnoty mieszkaniowej lub spółdzielni mieszkaniowej utworzony, zgodnie z odrębnymi przepisami, dla zabytku nieruchomego wpisanego do rejestru zabytków lub znajdującego się w ewidencji zabytków;
 - **2)** poniesione w roku podatkowym na prace konserwatorskie, restauratorskie lub roboty budowlane w zabytku nieruchomym wpisanym do rejestru zabytków lub znajdującym się ewidencji zabytków;
@@ -591,7 +599,12 @@ source: pdf
 - **2)** pracach konserwatorskich – oznacza to prace konserwatorskie w rozumieniu art. 3 pkt 6 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
 - **3)** pracach restauratorskich – oznacza to prace restauratorskie w rozumieniu art. 3 pkt 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
 - **4)** robotach budowlanych – oznacza to roboty budowlane w rozumieniu art. 3 pkt 8 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
-- **5)** zabytku nieruchomym – oznacza to zabytek nieruchomy, o którym mowa w art. 6 ust. 1 pkt 1 lit. c–e ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami. Art. 26hc. 1. Podatnik może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50% wydatków poniesionych na nabycie lub objęcie udziałów (akcji) w:
+- **5)** zabytku nieruchomym – oznacza to zabytek nieruchomy, o którym mowa w art. 6 ust. 1 pkt 1 lit. c–e ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami.
+
+**Art. 26hc.**
+
+1. Podatnik może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50% wydatków poniesionych na nabycie lub objęcie udziałów (akcji) w:
+
 - **1)** alternatywnej spółce inwestycyjnej lub
 - **2)** spółce kapitałowej, w której alternatywna spółka inwestycyjna:
     - **a)** posiada co najmniej 5% udziałów (akcji),
@@ -606,7 +619,11 @@ source: pdf
 
 3. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono wydatki.
 
-4. W przypadku niespełnienia warunku, o którym mowa w ust. 2 pkt 4, podatnik jest obowiązany doliczyć odpowiednio kwoty poprzednio odliczone do dochodu za rok podatkowy, w którym nastąpiło zbycie udziałów (akcji) w alternatywnej spółce inwestycyjnej lub w spółce kapitałowej. Art. 26hd. 1. Podatnik uzyskujący przychody z pozarolniczej działalności gospodarczej może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 albo art. 30c ust. 2, wydatki na nabycie terminala płatniczego oraz wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego poniesione w roku podatkowym, w którym rozpoczął przyjmowanie płatności przy użyciu terminala płatniczego, i w roku następującym po tym roku, do wysokości:
+4. W przypadku niespełnienia warunku, o którym mowa w ust. 2 pkt 4, podatnik jest obowiązany doliczyć odpowiednio kwoty poprzednio odliczone do dochodu za rok podatkowy, w którym nastąpiło zbycie udziałów (akcji) w alternatywnej spółce inwestycyjnej lub w spółce kapitałowej.
+
+**Art. 26hd.**
+
+1. Podatnik uzyskujący przychody z pozarolniczej działalności gospodarczej może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 albo art. 30c ust. 2, wydatki na nabycie terminala płatniczego oraz wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego poniesione w roku podatkowym, w którym rozpoczął przyjmowanie płatności przy użyciu terminala płatniczego, i w roku następującym po tym roku, do wysokości:
 
 - **1)** 2500 zł w roku podatkowym – w przypadku podatników zwolnionych z obowiązku prowadzenia ewidencji sprzedaży na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych przy zastosowaniu kas rejestrujących, zgodnie z przepisami o podatku od towarów i usług;
 - **2)** 1000 zł w roku podatkowym – w przypadku podatników innych niż określeni w pkt 1.
@@ -989,7 +1006,10 @@ source: pdf
 
 - **1)** nazwę, symbol oraz wariant formularza;
 - **2)** dane identyfikacyjne;
-- **3)** objaśnienia co do sposobu wypełniania, terminu i miejsca składania formularza. Art. 45ba. Oświadczenia, roczne obliczenie podatku, informacje i deklaracje, o których mowa w art. 30j ust. 1 pkt 1, art. 30o pkt 1, art. 34 ust. 7 i 8, art. 35 ust. 10, art. 38 ust. 1a i 1b, art. 39 ust. 1–4, art. 42 ust. 1a–4, art. 42a ust. 1 oraz art. 42e ust. 5 i 6, składa się urzędowi skarbowemu za pomocą środków komunikacji elektronicznej zgodnie z przepisami Ordynacji podatkowej.”;
+- **3)** objaśnienia co do sposobu wypełniania, terminu i miejsca składania formularza.
+
+**Art. 45ba.** Oświadczenia, roczne obliczenie podatku, informacje i deklaracje, o których mowa w art. 30j ust. 1 pkt 1, art. 30o pkt 1, art. 34 ust. 7 i 8, art. 35 ust. 10, art. 38 ust. 1a i 1b, art. 39 ust. 1–4, art. 42 ust. 1a–4, art. 42a ust. 1 oraz art. 42e ust. 5 i 6, składa się urzędowi skarbowemu za pomocą środków komunikacji elektronicznej zgodnie z przepisami Ordynacji podatkowej.”;
+
 - **77)** w art. 45c uchyla się ust. 9;
 - **78)** uchyla się art. 45d;
 - **79)** tytuł rozdziału 10 otrzymuje brzmienie: „Przepisy epizodyczne, przejściowe i końcowe”;
@@ -1440,7 +1460,11 @@ source: pdf
 
 10. Podatnikowi, który w roku podatkowym korzysta ze zwolnień podatkowych, o których mowa w art. 17 ust. 1 pkt 34 lub 34a, prawo do odliczenia przysługuje jedynie w odniesieniu do kosztów produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu, które nie są przez podatnika uwzględniane w kalkulacji dochodu zwolnionego z podatku na podstawie tych przepisów.
 
-11. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia. Art. 18eb. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych odlicza od podstawy opodatkowania, ustalonej zgodnie z art. 18, koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów do wysokości dochodu uzyskanego przez podatnika w roku podatkowym z przychodów innych niż przychody z zysków kapitałowych, nie więcej jednak niż 1 000 000 zł w roku podatkowym.
+11. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia.
+
+**Art. 18eb.**
+
+1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych odlicza od podstawy opodatkowania, ustalonej zgodnie z art. 18, koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów do wysokości dochodu uzyskanego przez podatnika w roku podatkowym z przychodów innych niż przychody z zysków kapitałowych, nie więcej jednak niż 1 000 000 zł w roku podatkowym.
 
 2. Przez produkty rozumie się rzeczy wytworzone przez podatnika.
 
@@ -1468,7 +1492,11 @@ source: pdf
 
 9. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty w celu zwiększenia przychodów ze sprzedaży produktów. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia.
 
-10. Koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy opodatkowania podatkiem dochodowym. Art. 18ec. 1. Podatnik będący przedsiębiorcą, uzyskujący przychody inne niż przychody z zysków kapitałowych, odlicza od podstawy opodatkowania ustalonej zgodnie z art. 18 kwoty wydatków na nabycie udziałów (akcji) w spółce posiadającej osobowość prawną, do wysokości dochodu uzyskanego w roku podatkowym przez podatnika z przychodów innych niż przychody z zysków kapitałowych, nie więcej jednak niż 250 000 zł w roku podatkowym, jeżeli łącznie są spełnione następujące warunki:
+10. Koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy opodatkowania podatkiem dochodowym.
+
+**Art. 18ec.**
+
+1. Podatnik będący przedsiębiorcą, uzyskujący przychody inne niż przychody z zysków kapitałowych, odlicza od podstawy opodatkowania ustalonej zgodnie z art. 18 kwoty wydatków na nabycie udziałów (akcji) w spółce posiadającej osobowość prawną, do wysokości dochodu uzyskanego w roku podatkowym przez podatnika z przychodów innych niż przychody z zysków kapitałowych, nie więcej jednak niż 250 000 zł w roku podatkowym, jeżeli łącznie są spełnione następujące warunki:
 
 - **1)** spółka, której udziały (akcje) są nabywane, ma siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej lub w innym państwie, z którym Rzeczpospolita Polska zawarła umowę o unikaniu podwójnego opodatkowania zawierającą podstawę prawną do uzyskania przez organ podatkowy informacji podatkowych od organu podatkowego tego innego państwa;
 - **2)** główny przedmiot działalności spółki, o której mowa w pkt 1, jest tożsamy z przedmiotem działalności podatnika lub działalność takiej spółki może być racjonalnie uznana za działalność wspierającą działalność podatnika, przy czym działalność takiej spółki nie jest działalnością finansową;
@@ -1490,7 +1518,11 @@ source: pdf
 
 6. Przepis ust. 5 stosuje się odpowiednio w przypadku, gdy podatnik lub jego następca prawny, przed upływem 36 miesięcy, licząc od dnia nabycia udziałów (akcji), o których mowa w ust. 1, zostanie postawiony w stan likwidacji, zostanie ogłoszona jego upadłość lub zaistnieją inne, przewidziane prawem okoliczności zakończenia działalności podatnika lub następcy prawnego.
 
-7. Wydatki odliczone od podstawy opodatkowania zgodnie z ust. 1 podlegają zaliczeniu do kosztów uzyskania przychodów zgodnie z ustawą. Art. 18ed. 1. Podstawa opodatkowania ustalona zgodnie z art. 18 lub art. 24d ust. 3, po uprzednim odliczeniu kwot określonych w art. 18d i 18ea– 18ec, może być pomniejszona o kwotę stanowiącą:
+7. Wydatki odliczone od podstawy opodatkowania zgodnie z ust. 1 podlegają zaliczeniu do kosztów uzyskania przychodów zgodnie z ustawą.
+
+**Art. 18ed.**
+
+1. Podstawa opodatkowania ustalona zgodnie z art. 18 lub art. 24d ust. 3, po uprzednim odliczeniu kwot określonych w art. 18d i 18ea– 18ec, może być pomniejszona o kwotę stanowiącą:
 
 - **1)** 150% wydatków na przygotowanie prospektu emisyjnego, opłaty notarialne, sądowe, skarbowe i giełdowe oraz opracowanie i publikację ogłoszeń wymaganych przepisami prawa,
 - **2)** 50% wydatków, bez uwzględnienia podatku od towarów i usług, na usługi doradztwa prawnego, w tym doradztwa podatkowego, i finansowego, nie więcej jednak niż 50 000 zł – poniesionych bezpośrednio na dokonanie pierwszej oferty publicznej dotyczącej akcji w rozumieniu art. 4 pkt 5 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2021 r. poz. 1983), z zamiarem ubiegania się o dopuszczenie do obrotu na rynku regulowanym lub z zamiarem ubiegania się o wprowadzenie tych akcji do obrotu w alternatywnym systemie obrotu.
@@ -1499,7 +1531,11 @@ source: pdf
 
 3. Przez wydatki poniesione bezpośrednio na dokonanie pierwszej oferty publicznej dotyczącej akcji rozumie się wydatki związane bezpośrednio i wyłącznie z tą ofertą poniesione w roku podatkowym, w którym dokonano pierwszej oferty publicznej dotyczącej akcji lub w roku poprzedzającym ten rok podatkowy, nie później niż do dnia dokonania tej pierwszej oferty publicznej dotyczącej akcji.
 
-4. Wydatki, o których mowa w ust. 1, podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone, w tym od podstawy opodatkowania podatkiem dochodowym. Art. 18ee. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, kwotę stanowiącą 50% kosztów uzyskania przychodów poniesionych na działalność:
+4. Wydatki, o których mowa w ust. 1, podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone, w tym od podstawy opodatkowania podatkiem dochodowym.
+
+**Art. 18ee.**
+
+1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, kwotę stanowiącą 50% kosztów uzyskania przychodów poniesionych na działalność:
 
 - **1)** sportową,
 - **2)** kulturalną w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej,
@@ -1539,7 +1575,11 @@ source: pdf
 
 10. Podatnik korzystający z odliczenia składa w terminie złożenia zeznania, w którym dokonuje tego odliczenia, informację, według ustalonego wzoru, zawierającą wykaz poniesionych kosztów podlegających odliczeniu.
 
-11. W przypadku skorzystania z odliczenia kosztów, o których mowa w ust. 1, przepisu art. 16 ust. 1 pkt 48 nie stosuje się. Art. 18ef. 1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, wydatki na nabycie terminala płatniczego oraz wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego poniesione w roku podatkowym, w którym rozpoczął przyjmowanie płatności przy użyciu terminala płatniczego, i w roku następującym po tym roku, do wysokości:
+11. W przypadku skorzystania z odliczenia kosztów, o których mowa w ust. 1, przepisu art. 16 ust. 1 pkt 48 nie stosuje się.
+
+**Art. 18ef.**
+
+1. Podatnik uzyskujący przychody inne niż przychody z zysków kapitałowych może odliczyć od podstawy opodatkowania, ustalonej zgodnie z art. 18, wydatki na nabycie terminala płatniczego oraz wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego poniesione w roku podatkowym, w którym rozpoczął przyjmowanie płatności przy użyciu terminala płatniczego, i w roku następującym po tym roku, do wysokości:
 
 - **1)** 2500 zł w roku podatkowym – w przypadku podatników zwolnionych z obowiązku prowadzenia ewidencji sprzedaży na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych przy zastosowaniu kas rejestrujących, zgodnie z przepisami o podatku od towarów i usług;
 - **2)** 1000 zł w roku podatkowym – w przypadku podatników innych niż określonych w pkt 1.
@@ -2088,7 +2128,11 @@ source: pdf
 - **4)** po art. 18c dodaje się art. 18ca w brzmieniu: „Art. 18ca. Szef Krajowej Administracji Skarbowej może, w celu usprawnienia i przyspieszenia kontroli podatkowej lub postępowania podatkowego w pierwszej instancji, wyznaczyć, w drodze postanowienia, naczelnika urzędu skarbowego jako właściwego do przeprowadzenia tych kontroli lub postępowań w sprawach dotyczących podatników lub płatników pozostających w zakresie właściwości miejscowej różnych organów, jeżeli zachodzi uzasadnione przypuszczenie wydania w tych sprawach decyzji z zastosowaniem art. 119a lub środków ograniczających umowne korzyści. Wyznaczenie organu podatkowego nie obejmuje przeprowadzenia postępowania podatkowego określonego w rozdziale 2 działu IIIA lub wydania decyzji, o których mowa w zdaniu pierwszym. Przepisy art. 18c § 3– 6 stosuje się odpowiednio.”;
 - **5)** po art. 20zb dodaje się art. 20zba w brzmieniu: „Art. 20zba. Nie zawiera się porozumienia podatkowego w sprawie, która w dniu złożenia wniosku o jego zawarcie jest objęta porozumieniem inwestycyjnym, o którym mowa w art. 20zs § 1.”;
 - **6)** w art. 20zr dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „§ 2. Do spraw uregulowanych w niniejszym dziale nie stosuje się przepisu art. 3 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.”;
-- **7)** po art. 20zr dodaje się dział IIC w brzmieniu: „DZIAŁ IIC Porozumienie inwestycyjne Art. 20zs. § 1. Minister właściwy do spraw finansów publicznych, zwany dalej w niniejszym dziale „organem właściwym w sprawie porozumienia”, może zawrzeć z inwestorem, na jego wniosek, umowę w sprawie skutków podatkowych inwestycji planowanej lub rozpoczętej na terytorium Rzeczypospolitej Polskiej (porozumienie inwestycyjne).
+- **7)** po art. 20zr dodaje się dział IIC w brzmieniu: „DZIAŁ IIC Porozumienie inwestycyjne
+
+**Art. 20zs.**
+
+§ 1. Minister właściwy do spraw finansów publicznych, zwany dalej w niniejszym dziale „organem właściwym w sprawie porozumienia”, może zawrzeć z inwestorem, na jego wniosek, umowę w sprawie skutków podatkowych inwestycji planowanej lub rozpoczętej na terytorium Rzeczypospolitej Polskiej (porozumienie inwestycyjne).
 
 § 2. Porozumienie inwestycyjne służy realizacji zasady pewności prawa podatkowego oraz zapewnieniu jednolitej i spójnej wykładni przepisów prawa podatkowego.
 
@@ -2100,13 +2144,19 @@ source: pdf
 
 § 6. W przypadku odmowy zawarcia porozumienia inwestycyjnego organ właściwy w sprawie porozumienia zawiadamia inwestora, wskazując przyczyny takiej odmowy wraz z uzasadnieniem.
 
-§ 7. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, upoważnić organ Krajowej Administracji Skarbowej do wykonywania zadań organu właściwego w sprawie porozumienia, mając na względzie zapewnienie sprawnego i szybkiego wykonywania tych zadań. Art. 20zt. Porozumienie inwestycyjne może obejmować:
+§ 7. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, upoważnić organ Krajowej Administracji Skarbowej do wykonywania zadań organu właściwego w sprawie porozumienia, mając na względzie zapewnienie sprawnego i szybkiego wykonywania tych zadań.
+
+**Art. 20zt.** Porozumienie inwestycyjne może obejmować:
 
 - **1)** ocenę, że cena transferowa transakcji kontrolowanej jest ustalona na warunkach, które ustaliłyby między sobą podmioty niepowiązane, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 83–86, art. 90, art. 92, art. 103, art. 104, art. 106 i art. 107 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych;
 - **2)** ocenę, że do korzyści podatkowej wskazanej we wniosku o zawarcie porozumienia inwestycyjnego nie ma zastosowania przepis art. 119a § 1, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 119x § 1 i 2, art. 119y § 1 i 2 oraz art. 119za pkt 1 i 2;
 - **3)** klasyfikację i rodzaj wyrobu akcyzowego lub klasyfikację samochodu osobowego – w układzie odpowiadającym Nomenklaturze Scalonej (CN), przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 7e ust. 2 i 3 oraz art. 7f ust. 1–3, ust. 4 zdanie pierwsze, ust. 6 i 7 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, z późn. zm. );
 - **4)** opis i klasyfikację towaru lub usługi oraz właściwą stawkę podatku, przy czym stosuje się odpowiednio przepisy art. 42b ust. 2 pkt 1–3, ust. 4, 5 i 7 oraz art. 42e ust. 1–3, ust. 4 zdanie pierwsze, ust. 6 i 7 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;
-- **5)** interpretację przepisów prawa podatkowego w zakresie nieobjętym pkt 1–4, przy czym przepis art. 14b § 3 stosuje się odpowiednio. Art. 20zu. § 1. Wniosek o zawarcie porozumienia inwestycyjnego może złożyć inwestor albo grupa inwestorów, w szczególności utworzone w związku z inwestycją konsorcjum, spółka, oddział lub przedstawicielstwo.
+- **5)** interpretację przepisów prawa podatkowego w zakresie nieobjętym pkt 1–4, przy czym przepis art. 14b § 3 stosuje się odpowiednio.
+
+**Art. 20zu.**
+
+§ 1. Wniosek o zawarcie porozumienia inwestycyjnego może złożyć inwestor albo grupa inwestorów, w szczególności utworzone w związku z inwestycją konsorcjum, spółka, oddział lub przedstawicielstwo.
 
 § 2. Wniosek o zawarcie porozumienia inwestycyjnego, oprócz spełnienia wymogów określonych w art. 20zt, zawiera:
 
@@ -2127,7 +2177,11 @@ source: pdf
 § 5. Organ właściwy w sprawie porozumienia zawiadamia wójta, burmistrza (prezydenta miasta), starostę lub marszałka województwa o:
 
 - **1)** złożeniu wniosku o zawarcie porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 5, i jego przedmiocie,
-- **2)** prawie przedstawienia stanowiska w sprawie, w terminie określonym w zawiadomieniu, nie krótszym jednak niż 30 dni od dnia doręczenia zawiadomienia – w zakresie, w jakim wniosek dotyczy sprawy z zakresu interpretacji indywidualnych wydawanych przez odpowiednio wójta, burmistrza (prezydenta miasta), starostę lub marszałka województwa. Art. 20zv. § 1. Wniosek o zawarcie porozumienia inwestycyjnego podlega opłacie wstępnej.
+- **2)** prawie przedstawienia stanowiska w sprawie, w terminie określonym w zawiadomieniu, nie krótszym jednak niż 30 dni od dnia doręczenia zawiadomienia – w zakresie, w jakim wniosek dotyczy sprawy z zakresu interpretacji indywidualnych wydawanych przez odpowiednio wójta, burmistrza (prezydenta miasta), starostę lub marszałka województwa.
+
+**Art. 20zv.**
+
+§ 1. Wniosek o zawarcie porozumienia inwestycyjnego podlega opłacie wstępnej.
 
 § 2. Opłata wstępna wynosi 50 000 zł od każdego inwestora składającego wniosek o zawarcie porozumienia inwestycyjnego.
 
@@ -2135,7 +2189,11 @@ source: pdf
 
 § 4. Opłata wstępna podlega zwrotowi w terminie 30 dni od dnia odmowy zawarcia porozumienia inwestycyjnego.
 
-§ 5. Opłata wstępna stanowi dochód budżetu państwa. Art. 20zw. § 1. W celu uzgodnienia zakresu i treści porozumienia inwestycyjnego organ właściwy w sprawie porozumienia może:
+§ 5. Opłata wstępna stanowi dochód budżetu państwa.
+
+**Art. 20zw.**
+
+§ 1. W celu uzgodnienia zakresu i treści porozumienia inwestycyjnego organ właściwy w sprawie porozumienia może:
 
 - **1)** zwracać się do inwestora o wyjaśnienie wątpliwości lub uzupełnienie wniosku, w tym poprzez dostarczenie próbki towaru, lub
 - **2)** zorganizować spotkanie uzgodnieniowe.
@@ -2144,13 +2202,21 @@ source: pdf
 
 § 3. Przebieg spotkania uzgodnieniowego może być utrwalony przez organ właściwy w sprawie porozumienia za pomocą aparatury rejestrującej obraz i dźwięk lub na informatycznych nośnikach danych.
 
-§ 4. Organ właściwy w sprawie porozumienia zawiadamia inwestora o wysokości i terminie uiszczenia opłaty, o której mowa w art. 7f ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym i art. 42e ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Art. 20zx. § 1. Porozumienie inwestycyjne obowiązuje przez okres uzgodniony w porozumieniu, nie dłuższy jednak niż 5 lat podatkowych.
+§ 4. Organ właściwy w sprawie porozumienia zawiadamia inwestora o wysokości i terminie uiszczenia opłaty, o której mowa w art. 7f ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym i art. 42e ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
+
+**Art. 20zx.**
+
+§ 1. Porozumienie inwestycyjne obowiązuje przez okres uzgodniony w porozumieniu, nie dłuższy jednak niż 5 lat podatkowych.
 
 § 2. Porozumienie inwestycyjne może być sporządzone jednocześnie w języku polskim i języku angielskim. W przypadku rozbieżności rozstrzygający jest tekst polski.
 
 § 3. Porozumienie inwestycyjne wiąże w każdym czasie inwestora i organ właściwy w sprawie porozumienia oraz organy podatkowe za okresy rozliczeniowe objęte porozumieniem.
 
-§ 4. Jeżeli przedmiot porozumienia inwestycyjnego stanowi element czynności będących przedmiotem decyzji wydanej w związku z wystąpieniem nadużycia prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, przepisu § 3 nie stosuje się. Art. 20zy. § 1. Zawarcie porozumienia inwestycyjnego podlega opłacie głównej w wysokości określonej w porozumieniu, nie niższej jednak niż 100 000 zł i nie wyższej niż 500 000 zł.
+§ 4. Jeżeli przedmiot porozumienia inwestycyjnego stanowi element czynności będących przedmiotem decyzji wydanej w związku z wystąpieniem nadużycia prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, przepisu § 3 nie stosuje się.
+
+**Art. 20zy.**
+
+§ 1. Zawarcie porozumienia inwestycyjnego podlega opłacie głównej w wysokości określonej w porozumieniu, nie niższej jednak niż 100 000 zł i nie wyższej niż 500 000 zł.
 
 § 2. Przy ustaleniu wysokości opłaty głównej uwzględnia się zakres i złożoność porozumienia inwestycyjnego.
 
@@ -2158,7 +2224,11 @@ source: pdf
 
 § 4. Opłata główna jest wnoszona przez inwestora na rachunek organu właściwego w sprawie porozumienia w terminie 30 dni do dnia zawarcia porozumienia inwestycyjnego. W przypadku nieuiszczenia w terminie opłaty głównej porozumienie inwestycyjne nie wywołuje skutków prawnych.
 
-§ 5. Opłata główna stanowi dochód budżetu państwa. Art. 20zz. § 1. Każda strona może złożyć wniosek o zmianę porozumienia inwestycyjnego.
+§ 5. Opłata główna stanowi dochód budżetu państwa.
+
+**Art. 20zz.**
+
+§ 1. Każda strona może złożyć wniosek o zmianę porozumienia inwestycyjnego.
 
 § 2. Do wniosku o zmianę porozumienia inwestycyjnego składanego przez inwestora stosuje się odpowiednio przepisy dotyczące składania wniosku o zawarcie porozumienia inwestycyjnego, przy czym wniosek ten podlega:
 
@@ -2167,7 +2237,11 @@ source: pdf
 
 § 3. W przypadku, o którym mowa w art. 20zzb § 2, zmiana porozumienia inwestycyjnego nie podlega opłacie wstępnej ani opłacie głównej.
 
-§ 4. Wniosek o zmianę porozumienia inwestycyjnego polegającą na przyłączeniu się nowego inwestora podlega opłacie wstępnej, którą uiszcza ten inwestor. Art. 20zza. § 1. Inwestor może w każdym czasie wypowiedzieć porozumienie inwestycyjne. W takim przypadku rozwiązanie porozumienia następuje od pierwszego dnia następnego roku podatkowego.
+§ 4. Wniosek o zmianę porozumienia inwestycyjnego polegającą na przyłączeniu się nowego inwestora podlega opłacie wstępnej, którą uiszcza ten inwestor.
+
+**Art. 20zza.**
+
+§ 1. Inwestor może w każdym czasie wypowiedzieć porozumienie inwestycyjne. W takim przypadku rozwiązanie porozumienia następuje od pierwszego dnia następnego roku podatkowego.
 
 § 2. Organ właściwy w sprawie porozumienia może wypowiedzieć porozumienie inwestycyjne ze skutkiem od pierwszego dnia jego obowiązywania, jeżeli wyjdzie na jaw istotna dla porozumienia nowa okoliczność faktyczna lub nowy dowód, istniejące w dniu zawarcia tego porozumienia i nieznane temu organowi. W takim przypadku przepisu art. 20zx § 3 nie stosuje się.
 
@@ -2184,12 +2258,21 @@ source: pdf
 - **2)** wystąpienie przesłanek, o których mowa w art. 7ha pkt 1 i 2, pkt 3 lit. a i c ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym – w przypadku porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 3;
 - **3)** wystąpienie przesłanek, o których mowa w art. 42h ust. 3 pkt 1 i 2, pkt 3 lit. a i c oraz pkt 4 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług – w przypadku porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 4.
 
-§ 6. W przypadku wypowiedzenia porozumienia inwestycyjnego na podstawie § 5 rozwiązanie tego porozumienia następuje z dniem doręczenia wypowiedzenia, chyba że z treści tego wypowiedzenia wynika późniejszy termin. Art. 20zzb. § 1. Porozumienie inwestycyjne wygasa z mocy prawa z dniem wejścia w życie przepisów prawa podatkowego w zakresie, w jakim porozumienie to stało się niezgodne z tymi przepisami.
+§ 6. W przypadku wypowiedzenia porozumienia inwestycyjnego na podstawie § 5 rozwiązanie tego porozumienia następuje z dniem doręczenia wypowiedzenia, chyba że z treści tego wypowiedzenia wynika późniejszy termin.
+
+**Art. 20zzb.**
+
+§ 1. Porozumienie inwestycyjne wygasa z mocy prawa z dniem wejścia w życie przepisów prawa podatkowego w zakresie, w jakim porozumienie to stało się niezgodne z tymi przepisami.
 
 § 2. Jeżeli okres między dniem ogłoszenia przepisów mających wpływ na treść porozumienia inwestycyjnego a dniem ich wejścia w życie jest krótszy niż 30 dni i w tym okresie porozumienie to nie zostanie zmienione, zastosowanie się inwestora do porozumienia w okresie 30 dni od dnia ich wejścia w życie nie powoduje:
 
 - **1)** wszczęcia postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe, a postępowanie wszczęte w tych sprawach umarza się;
-- **2)** naliczania odsetek za zwłokę. Art. 20zzc. § 1. Organ właściwy w sprawie porozumienia prowadzi ewidencję inwestorów i porozumień inwestycyjnych obejmującą:
+- **2)** naliczania odsetek za zwłokę.
+
+**Art. 20zzc.**
+
+§ 1. Organ właściwy w sprawie porozumienia prowadzi ewidencję inwestorów i porozumień inwestycyjnych obejmującą:
+
 - **1)** dane identyfikujące inwestora;
 - **2)** dzień złożenia, zmiany i cofnięcia wniosku o zawarcie porozumienia inwestycyjnego, w tym przyłączenia się nowego inwestora do tego wniosku;
 - **3)** dzień zawarcia porozumienia inwestycyjnego;
@@ -2198,9 +2281,17 @@ source: pdf
 - **6)** dzień zmiany porozumienia inwestycyjnego, w tym przyłączenia się nowego inwestora do tego porozumienia;
 - **7)** dzień i przyczynę wygaśnięcia porozumienia inwestycyjnego.
 
-§ 2. Ewidencja podlega udostępnieniu w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego organ właściwy w sprawie porozumienia. Art. 20zzd. § 1. Wniosek o zawarcie porozumienia inwestycyjnego, porozumienie inwestycyjne i inne pisma sporządzane na podstawie niniejszego działu przed zawarciem porozumienia inwestycyjnego i w okresie jego obowiązywania są utrwalane w postaci elektronicznej.
+§ 2. Ewidencja podlega udostępnieniu w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego organ właściwy w sprawie porozumienia.
 
-§ 2. Złożenie i doręczenie pisma na podstawie przepisów niniejszego działu następuje na adres do doręczeń elektronicznych lub przez portal podatkowy. Art. 20zze. § 1. W zakresie nieuregulowanym w niniejszym dziale do porozumienia inwestycyjnego stosuje się odpowiednio przepisy art. 168, art. 187 § 3, art. 197 § 1 i 3 oraz przepisy działu IV rozdziału 1, z wyłączeniem przepisów art. 127 i art. 128, oraz przepisy rozdziału 3a, rozdziału 5, rozdziału 9, rozdziału 10 i rozdziału 23.
+**Art. 20zzd.**
+
+§ 1. Wniosek o zawarcie porozumienia inwestycyjnego, porozumienie inwestycyjne i inne pisma sporządzane na podstawie niniejszego działu przed zawarciem porozumienia inwestycyjnego i w okresie jego obowiązywania są utrwalane w postaci elektronicznej.
+
+§ 2. Złożenie i doręczenie pisma na podstawie przepisów niniejszego działu następuje na adres do doręczeń elektronicznych lub przez portal podatkowy.
+
+**Art. 20zze.**
+
+§ 1. W zakresie nieuregulowanym w niniejszym dziale do porozumienia inwestycyjnego stosuje się odpowiednio przepisy art. 168, art. 187 § 3, art. 197 § 1 i 3 oraz przepisy działu IV rozdziału 1, z wyłączeniem przepisów art. 127 i art. 128, oraz przepisy rozdziału 3a, rozdziału 5, rozdziału 9, rozdziału 10 i rozdziału 23.
 
 § 2. Do wypowiedzenia porozumienia inwestycyjnego stosuje się odpowiednio także przepisy działu IV rozdziału 11.
 
@@ -3049,11 +3140,17 @@ source: pdf
 
 1. Tymczasowe zajęcie ruchomości polega na czasowym pozbawieniu zobowiązanego prawa do rozporządzania zajętą ruchomością.
 
-2. Tymczasowe zajęcie ruchomości nie może trwać dłużej niż 96 godzin od chwili podpisania protokołu tymczasowego zajęcia ruchomości przez funkcjonariusza dokonującego tego zajęcia. Art. 94za. Funkcjonariusz nie dokonuje tymczasowego zajęcia ruchomości w przypadku:
+2. Tymczasowe zajęcie ruchomości nie może trwać dłużej niż 96 godzin od chwili podpisania protokołu tymczasowego zajęcia ruchomości przez funkcjonariusza dokonującego tego zajęcia.
+
+**Art. 94za.** Funkcjonariusz nie dokonuje tymczasowego zajęcia ruchomości w przypadku:
 
 - **1)** gdy zobowiązany okazał funkcjonariuszowi dowody stwierdzające wykonanie, umorzenie, wygaśnięcie albo nieistnienie obowiązku, odroczenie terminu wykonania obowiązku albo rozłożenie na raty spłaty należności pieniężnych;
 - **2)** gdy ruchomości podlegają wyłączeniu lub zwolnieniu z egzekucji administracyjnej, w przypadkach, o których mowa w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji;
-- **3)** zwierząt oraz ruchomości ulegających łatwemu zepsuciu. Art. 94zb. 1. Funkcjonariusz wpisuje tymczasowo zajętą ruchomość do protokołu tymczasowego zajęcia ruchomości.
+- **3)** zwierząt oraz ruchomości ulegających łatwemu zepsuciu.
+
+**Art. 94zb.**
+
+1. Funkcjonariusz wpisuje tymczasowo zajętą ruchomość do protokołu tymczasowego zajęcia ruchomości.
 
 2. Protokół tymczasowego zajęcia ruchomości zawiera:
 
@@ -3072,7 +3169,11 @@ source: pdf
 
 3. Przepisy art. 51 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji stosuje się odpowiednio.
 
-4. Protokół tymczasowego zajęcia ruchomości jest doręczany zobowiązanemu i dozorcy. Art. 94zc. Do dozoru nad tymczasowo zajętymi ruchomościami stosuje się odpowiednio przepisy art. 100–103 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, z tym że w przypadku gdy zajęta ruchomość nie może być pozostawiona w miejscu zajęcia, a nie ma innej osoby, której można by było oddać zajętą ruchomość pod dozór, zostaje ona wzięta pod dozór naczelnika urzędu celno-skarbowego, z upoważnienia którego funkcjonariusz dokonuje kontroli celno-skarbowej. Art. 94zd. Niezwłocznie po dokonaniu tymczasowego zajęcia ruchomości funkcjonariusz dokonujący tymczasowego zajęcia ruchomości przekazuje za pomocą środków komunikacji elektronicznej do organu egzekucyjnego, o którym mowa w art. 94y ust. 1, odwzorowanie cyfrowe protokołu tymczasowego zajęcia ruchomości, informacje dotyczące miejsca przechowywania tej ruchomości, imienia i nazwiska lub nazwy dozorcy oraz kosztów faktycznie poniesionych związanych z tymczasowym zajęciem ruchomości.”.
+4. Protokół tymczasowego zajęcia ruchomości jest doręczany zobowiązanemu i dozorcy.
+
+**Art. 94zc.** Do dozoru nad tymczasowo zajętymi ruchomościami stosuje się odpowiednio przepisy art. 100–103 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, z tym że w przypadku gdy zajęta ruchomość nie może być pozostawiona w miejscu zajęcia, a nie ma innej osoby, której można by było oddać zajętą ruchomość pod dozór, zostaje ona wzięta pod dozór naczelnika urzędu celno-skarbowego, z upoważnienia którego funkcjonariusz dokonuje kontroli celno-skarbowej.
+
+**Art. 94zd.** Niezwłocznie po dokonaniu tymczasowego zajęcia ruchomości funkcjonariusz dokonujący tymczasowego zajęcia ruchomości przekazuje za pomocą środków komunikacji elektronicznej do organu egzekucyjnego, o którym mowa w art. 94y ust. 1, odwzorowanie cyfrowe protokołu tymczasowego zajęcia ruchomości, informacje dotyczące miejsca przechowywania tej ruchomości, imienia i nazwiska lub nazwy dozorcy oraz kosztów faktycznie poniesionych związanych z tymczasowym zajęciem ruchomości.”.
 
 **Art. 21.** W ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2021 r. poz. 626) w art. 76:
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób prawnych
+# Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o podatku dochodowym od osób prawnych.
 
 *USTAWA z dnia 27 lipca 2002 r.*
 

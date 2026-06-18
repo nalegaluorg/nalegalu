@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie określenia wysokości wpisów w sprawach cywilnych.
+# Rozporządzenie Ministra Sprawiedliwości z dnia 29 kwietnia 1999 r. zmieniające rozporządzenie w sprawie określenia wysokości wpisów w sprawach cywilnych.
 
 | Pole | Wartość |
 |---|---|

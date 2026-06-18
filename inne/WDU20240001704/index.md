@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy państwa w oszczędzaniu na cele mieszkaniowe
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe
 
 *USTAWA z dnia 26 maja 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-11-21 |
 | Ostatnia zmiana | 2025-08-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001704) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1704/text.pdf) |
-
-Art. 21–29. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -392,6 +390,8 @@ Art. 21–29. (pominięte)
 2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu lub interesie innej osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
 #### Rozdział 6 Zmiany w przepisach
+
+**Art. 21–29.** (pominięte)
 
 #### Rozdział 7 Przepis epizodyczny, przepisy przejściowe, przepisy dostosowujące oraz przepis końcowy
 

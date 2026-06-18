@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o grach hazardowych
+# Ustawa z dnia 19 listopada 2009 r. o grach hazardowych
 
 *USTAWA z dnia 19 listopada 2009 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2009-11-30 |
 | Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092011540) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1540/text.pdf) |
-
-Art. 92–116. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -344,7 +342,11 @@ Art. 92–116. (pominięte)
 
 4. Zapis sygnału audiowizyjnego powinien być trwały i czytelny. Sposób dokonania zapisu sygnału audiowizyjnego i jego przechowywania powinien chronić zapis przed zniszczeniem, modyfikacją i ukryciem.
 
-5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki instalacji i wykorzystania systemu, o którym mowa w ust. 1, uwzględniając w szczególności konieczność zapewnienia możliwości odtworzenia przebiegu każdej gry. Art. 15ba. 1. Podmiot wykonujący monopol państwa w zakresie gier na automatach urządzanych w salonach gier na automatach prowadzi system teleinformatyczny rejestrujący i archiwizujący:
+5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki instalacji i wykorzystania systemu, o którym mowa w ust. 1, uwzględniając w szczególności konieczność zapewnienia możliwości odtworzenia przebiegu każdej gry.
+
+**Art. 15ba.**
+
+1. Podmiot wykonujący monopol państwa w zakresie gier na automatach urządzanych w salonach gier na automatach prowadzi system teleinformatyczny rejestrujący i archiwizujący:
 
 - **1)** dane dotyczące wpłaconych stawek i wypłaconych wygranych w grach na automatach urządzanych w salonach gier na automatach,
 - **2)** przebieg gier w grach na automatach urządzanych w salonach gier na automatach,
@@ -1761,6 +1763,8 @@ Art. 92–116. (pominięte)
 **Art. 91a.** Do kar pieniężnych określonych w art. 89 nie mają zastosowania przepisy art. 21a ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 #### Rozdział 11 Zmiany w przepisach obowiązujących
+
+**Art. 92–116.** (pominięte)
 
 #### Rozdział 12 Przepisy przejściowe i dostosowujące
 

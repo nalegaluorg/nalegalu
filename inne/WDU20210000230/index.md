@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach współpracy prawnej w sprawach karnych między Rzecząpospolitą Polską i terytorium, do którego stosuje się prawo karne należące do właściwości Ministra Sprawiedliwości Tajwanu
+# Ustawa z dnia 16 grudnia 2020 r. o zasadach współpracy prawnej w sprawach karnych między Rzecząpospolitą Polską i terytorium, do którego stosuje się prawo karne należące do właściwości Ministra Sprawiedliwości Tajwanu
 
 *USTAWA z dnia 16 grudnia 2020 r.*
 

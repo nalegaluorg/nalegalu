@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie wykonania niektórych przepisów ustawy o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne wyniku wprowadzenia stanu wojennego.
+# Rozporządzenie Rady Ministrów z dnia 12 stycznia 1999 r. w sprawie wykonania niektórych przepisów ustawy o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego.
 
 | Pole | Wartość |
 |---|---|

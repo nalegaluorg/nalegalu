@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Najwyższej Izbie Kontroli oraz ustawy o związkach zawodowych
+# Ustawa z dnia 21 maja 1997 r. o zmianie ustawy o Najwyższej Izbie Kontroli oraz ustawy o związkach zawodowych.
 
 *USTAWA z dnia 21 maja 1997 r.*
 

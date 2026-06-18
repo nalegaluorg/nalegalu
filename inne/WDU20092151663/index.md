@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zastawie rejestrowym i rejestrze zastawów
+# Ustawa z dnia 20 listopada 2009 r. o zmianie ustawy o zastawie rejestrowym i rejestrze zastawów
 
 *USTAWA z dnia 20 listopada 2009 r.*
 

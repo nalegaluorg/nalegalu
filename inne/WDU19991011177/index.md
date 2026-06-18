@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o orderach i odznaczeniach
+# Ustawa z dnia 21 października 1999 r. o zmianie ustawy o orderach i odznaczeniach.
 
 *USTAWA z dnia 21 października 1999 r.*
 

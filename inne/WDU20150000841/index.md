@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania w sprawach o wykroczenia
+# Ustawa z dnia 15 maja 2015 r. o zmianie ustawy - Kodeks postępowania w sprawach o wykroczenia
 
 *USTAWA z dnia 15 maja 2015 r.*
 

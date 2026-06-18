@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ewidencji ludności
+# Ustawa z dnia 24 września 2010 r. o ewidencji ludności
 
 *USTAWA z dnia 24 września 2010 r.*
 
@@ -1328,7 +1328,9 @@ source: pdf
 
 2. Ilekroć w dotychczasowych przepisach jest mowa o gminnych zbiorach meldunkowych, zbiorach meldunkowych, zbiorach danych stałych mieszkańców, należy przez to rozumieć rejestry mieszkańców.
 
-**Art. 73.** Z dniem wejścia w życie ustawy wygasają decyzje o zastrzeżeniu udostępnienia danych osobowych wydane na podstawie przepisów ustawy, o której mowa w art. 69, w brzmieniu obowiązującym do dnia 31 grudnia 2002 r. Art. 74–79. (uchylone)
+**Art. 73.** Z dniem wejścia w życie ustawy wygasają decyzje o zastrzeżeniu udostępnienia danych osobowych wydane na podstawie przepisów ustawy, o której mowa w art. 69, w brzmieniu obowiązującym do dnia 31 grudnia 2002 r.
+
+**Art. 74–79.** (uchylone)
 
 **Art. 80.** Ustawa wchodzi w życie z dniem 1 marca 2015 r., z wyjątkiem art. 62, który wchodzi w życie z dniem 1 stycznia 2013 r.
 

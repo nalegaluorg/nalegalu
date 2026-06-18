@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pracownikach urzędów państwowych
+# Ustawa z dnia 26 lipca 2000 r. o zmianie ustawy o pracownikach urzędów państwowych.
 
 *USTAWA z dnia 26 lipca 2000 r.*
 

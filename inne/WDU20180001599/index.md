@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rzeczach znalezionych
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o rzeczach znalezionych
 
 *USTAWA z dnia 20 lipca 2018 r.*
 

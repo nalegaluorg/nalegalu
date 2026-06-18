@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zapewnianiu dostępności osobom ze szczególnymi potrzebami
+# Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami
 
 *USTAWA z dnia 19 lipca 2019 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-09-05 |
 | Ostatnia zmiana | 2025-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001696) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1696/text.pdf) |
-
-Art. 42–55. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -546,6 +544,8 @@ Art. 42–55. (pominięte)
 **Art. 41.** Podstawą gospodarki finansowej Funduszu jest roczny plan finansowy, sporządzany na każdy rok budżetowy, w trybie i na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 #### Rozdział 6 Zmiany w przepisach
+
+**Art. 42–55.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe, dostosowujące i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz ustawy - Prawo bankowe
+# Ustawa z dnia 18 czerwca 2009 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz ustawy - Prawo bankowe
 
 *USTAWA z dnia 18 czerwca 2009 r.*
 

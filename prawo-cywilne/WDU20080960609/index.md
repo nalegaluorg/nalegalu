@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego
+# Ustawa z dnia 9 maja 2008 r. o zmianie ustawy - Kodeks postępowania cywilnego
 
 *USTAWA z dnia 9 maja 2008 r. Opracowano stawie: r.*
 

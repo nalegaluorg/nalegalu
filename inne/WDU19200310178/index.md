@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nabywaniu nieruchomości przez cudzoziemców
+# Ustawa z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców
 
 *USTAWA z dnia 24 marca 1920 r.*
 

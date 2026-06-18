@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o opiece zdrowotnej nad uczniami
+# Ustawa z dnia 12 kwietna 2019 r. o opiece zdrowotnej nad uczniami
 
 *USTAWA z dnia 12 kwietna 2019 r.*
 

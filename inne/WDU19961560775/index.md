@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw związanych z reformą funkcjonowania gospodarki i administracji publicznej oraz o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych
+# Ustawa z dnia 20 grudnia 1996 r. o zmianie niektórych ustaw związanych z reformą funkcjonowania gospodarki i administracji publicznej oraz o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych.
 
 *USTAWA z dnia 20 grudnia 1996 r.*
 

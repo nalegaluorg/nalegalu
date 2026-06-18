@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz niektórych innych ustaw
+# Ustawa z dnia 17 grudnia 2021 r. o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz niektórych innych ustaw
 
 *USTAWA z dnia 17 grudnia 2021 r.*
 

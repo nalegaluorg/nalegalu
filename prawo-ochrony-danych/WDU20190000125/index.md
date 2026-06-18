@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości
+# Ustawa z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości
 
 *USTAWA z dnia 14 grudnia 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-01-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000125) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/125/text.pdf) |
-
-Art. 56–97. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -740,6 +738,8 @@ Art. 56–97. (pominięte)
 **Art. 55.** Kto udaremnia lub istotnie utrudnia kontrolującemu przeprowadzenie kontroli przestrzegania przepisów o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat dwóch.
 
 #### Rozdział 9 Zmiany w przepisach
+
+**Art. 56–97.** (pominięte)
 
 #### Rozdział 10 Przepisy przejściowe, dostosowujące i końcowe
 

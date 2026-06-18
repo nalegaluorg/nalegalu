@@ -27,234 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971370926) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.pdf) |
 
-Art. 14zo. § 1. Rada GLOBE jest niezależnym organem, którego zadaniem jest opiniowanie spraw z zakresu przepisów dotyczących opodatkowania wyrównawczego, o którym mowa w ustawie o opodatkowaniu wyrównawczym, w tym ich stosowania w indywidualnych sprawach na gruncie przepisów prawa podatkowego, przepisów o rachunkowości oraz wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy OECD.
-§ 2. Zadaniem Rady GLOBE jest także opiniowanie projektów aktów normatywnych związanych z opodatkowaniem wyrównawczym.
-Art. 14zp. § 1. Radę GLOBE powołuje minister właściwy do spraw finansów publicznych na czteroletnią kadencję. Rada GLOBE działa do dnia powołania Rady GLOBE kolejnej kadencji, niedłużej jednak niż przez 6 miesięcy od dnia upływu jej kadencji.
-§ 2. Minister właściwy do spraw finansów publicznych powołuje przewodniczącego Rady GLOBE spośród członków Rady GLOBE.
-§ 3. Przewodniczący pełni funkcję do końca kadencji Rady GLOBE. W razie złożenia przez niego rezygnacji z funkcji przewodniczącego, wygaśnięcia jego członkostwa lub jego odwołania przepis § 2 stosuje się odpowiednio.
-Art. 14zq. § 1. W skład Rady GLOBE wchodzą:
-1) 4 osoby delegowane przez ministra właściwego do spraw finansów publicznych, będące pracownikami urzędu obsługującego tego ministra;
-2) 2 osoby powołane spośród pracowników uczelni, jednostek organizacyjnych Polskiej Akademii Nauk lub instytutów badawczych w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534, z 2025 r. poz. 1017 i 1080 oraz z 2026 r. poz. 160);
-3) 2 osoby będące doradcami podatkowymi, delegowane przez Krajową Radę Doradców Podatkowych, będące członkami Krajowej Izby Doradców Podatkowych;
-4) 2 osoby będące biegłymi rewidentami, delegowane przez Krajową Radę Biegłych Rewidentów, będące członkami Polskiej Izby Biegłych Rewidentów;
-5) 1 osoba posiadająca aktywny certyfikat wydany przez Instytut Audytorów Wewnętrznych, zrzeszona w tym Instytucie.
-§ 2. Do Rady GLOBE może być powołana osoba, która:
-1) ma wiedzę oraz co najmniej 5-letnie doświadczenie w zakresie prawa podatkowego, prawa gospodarczego oraz rachunkowości lub wiedzę oraz co najmniej 5-letnie doświadczenie w jednej z następujących dziedzin: systemu finansowego, międzynarodowego prawa gospodarczego, wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy OECD, dające rękojmię prawidłowej realizacji zadań Rady GLOBE;
-2) ma obywatelstwo polskie;
-3) korzysta z pełni praw publicznych;
-4) ma pełną zdolność do czynności prawnych;
-5) nie była prawomocnie skazana za przestępstwo lub przestępstwo skarbowe;
-6) jest nieskazitelnego charakteru.
-§ 3. Podmiot wskazujący członka Rady GLOBE ocenia spełnianie przez niego przesłanek określonych w § 2 pkt 1 i 6. Osoby, o których mowa w § 1 pkt 2–4, minister właściwy do spraw finansów publicznych powołuje po uzyskaniu przedstawionej na piśmie opinii podmiotów zatrudniających lub delegujących te osoby, a w przypadku osoby, o której mowa w § 1 pkt 5, po uzyskaniu na piśmie opinii Instytutu Audytorów Wewnętrznych.
-§ 4. Przed powołaniem w skład Rady GLOBE osoba powoływana składa oświadczenie o spełnieniu przesłanek, o których mowa w § 2 pkt 1–5.
-§ 5. Minister właściwy do spraw finansów publicznych w celu wyłonienia kandydatów na członków Rady GLOBE zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych ogłoszenie o przyjmowaniu zgłoszeń kandydatów na członków Rady GLOBE. Ogłoszenie zawiera w szczególności termin składania zgłoszeń, niekrótszy niż 30 dni od dnia zamieszczenia ogłoszenia, sposób i miejsce składania zgłoszeń.
-Art. 14zr. § 1. Przed upływem kadencji członkostwo w Radzie GLOBE wygasa w razie śmierci członka.
-§ 2. Minister właściwy do spraw finansów publicznych odwołuje członka Rady GLOBE z uwagi na utratę przez niego cechy, o której mowa w art. 14zq § 2 pkt 6, po zasięgnięciu opinii Rady GLOBE. Uchwała w przedmiocie wyrażenia opinii przez Radę GLOBE może zostać podjęta w głosowaniu tajnym, bezwzględną większością głosów w obecności co najmniej połowy składu Rady GLOBE. Członek Rady GLOBE, którego głosowanie dotyczy, nie posiada prawa głosu oraz nie jest zaliczany do składu Rady GLOBE w tym głosowaniu.
-§ 3. Minister właściwy do spraw finansów publicznych odwołuje członka Rady GLOBE w przypadku:
-1) utraty warunków będących podstawą powołania, o których mowa w art. 14zq § 1 i § 2 pkt 2–5;
-2) nieusprawiedliwionego niewykonywania przez niego obowiązków lub nienależytego ich wykonywania;
-3) choroby trwale uniemożliwiającej sprawowanie przez niego funkcji;
-4) złożenia wniosku o odwołanie ze składu Rady GLOBE przez podmiot delegujący;
-5) złożenia przez niego wniosku o odwołanie.
-§ 4. Przez utratę warunków będących podstawą powołania członków Rady GLOBE, o których mowa w art. 14zq § 1 pkt 1 i 2, rozumie się rozwiązanie stosunku pracy z podmiotem zatrudniającym w chwili powołania do pełnienia funkcji członka Rady GLOBE.
-§ 5. W przypadku przeniesienia służbowego członka Rady GLOBE, o którym mowa w art. 14zq § 1 pkt 1, do pracy w jednostkach organizacyjnych Krajowej Administracji Skarbowej lub służby w Służbie Celno-Skarbowej kontynuowanie członkostwa w Radzie GLOBE jest możliwe po wyrażeniu zgody przez ministra właściwego do spraw finansów publicznych.
-§ 6. Przez utratę warunków będących podstawą powołania członków Rady GLOBE, o których mowa w art. 14zq § 1 pkt 3–5, rozumie się odpowiednio skreślenie z listy doradców podatkowych, skreślenie z rejestru biegłych rewidentów i utratę aktywnego certyfikatu wydanego przez Instytut Audytorów Wewnętrznych.
-Art. 14zs. § 1. Wygaśnięcie członkostwa w Radzie GLOBE lub odwołanie członka Rady GLOBE nie wstrzymuje jej prac, chyba że skład Rady GLOBE uległ zmniejszeniu o więcej niż 2 członków.
-§ 2. Osoba powołana w miejsce członka Rady GLOBE, którego członkostwo wygasło lub ustało wskutek odwołania, pełni funkcję do upływu kadencji Rady GLOBE.
-Art. 14zt. § 1. Przewodniczący Rady GLOBE:
-1) kieruje jej pracami;
-2) zwołuje posiedzenia Rady GLOBE;
-3) wyznacza niewięcej niż 5 członków Rady GLOBE, których zadaniem jest sporządzenie projektu opinii Rady GLOBE co do spraw z zakresu przepisów dotyczących opodatkowania wyrównawczego;
-4) informuje ministra właściwego do spraw finansów publicznych o każdym przypadku uchybienia przez Radę GLOBE terminowi określonemu w art. 14zg § 4, podaje przyczyny tego uchybienia oraz wskazuje członków Rady GLOBE, którzy się do tego przyczynili.
-§ 2. Stanowisko co do spraw, o których mowa w art. 14zo § 1 lub 2, Rada GLOBE przyjmuje na posiedzeniu bezwzględną większością głosów w obecności co najmniej połowy składu Rady GLOBE.
-§ 3. Szczegółowy tryb pracy Rady GLOBE jest określony w regulaminie uchwalonym przez nią zwykłą większością głosów w obecności co najmniej połowy jej składu.
-§ 4. Obsługę prac Rady GLOBE zapewnia minister właściwy do spraw finansów publicznych. Wydatki związane z działaniem Rady GLOBE są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw finansów publicznych.
-§ 5. Sekretarz Rady GLOBE jest powoływany i odwoływany przez ministra właściwego do spraw finansów publicznych. Sekretarzem Rady GLOBE może być wyłącznie pracownik urzędu obsługującego tego ministra.
-§ 6. Do zadań sekretarza Rady GLOBE należy organizacja posiedzeń Rady GLOBE, w szczególności zapewnienie obsługi finansowej związanej z funkcjonowaniem Rady GLOBE oraz obsługi administracyjno-biurowej Rady GLOBE.
-§ 7. Sekretarz może uczestniczyć w posiedzeniach Rady GLOBE bez prawa głosu.
-Art. 14zu. Opinie Rady GLOBE są niezwłocznie zamieszczane w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych po usunięciu danych identyfikujących zainteresowanego oraz inne podmioty wskazane w jej treści.
-Art. 14zv. Do wyłączenia członków Rady GLOBE w zakresie wydawania opinii w poszczególnych sprawach stosuje się odpowiednio przepisy art. 130 § 1 i 2.
-Art. 14zw. § 1. Przewodniczącemu, pozostałym członkom Rady GLOBE oraz sekretarzowi Rady GLOBE przysługuje wynagrodzenie za każdy miesiąc, w którym uczestniczyli w posiedzeniu Rady GLOBE.
-§ 2. Członkom Rady GLOBE przysługuje:
-1) wynagrodzenie za sporządzenie opinii Rady GLOBE;
-2) zwrot kosztów podróży i noclegów obejmujący świadczenia przewidziane w przepisach o należnościach przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju, w tym diety i ryczałty.
-§ 3. W przypadku wydania opinii z uchybieniem terminu określonego w art. 14zg § 4 członkowi Rady GLOBE, który przyczynił się do uchybienia temu terminowi, nie przysługuje wynagrodzenie za sporządzenie projektu opinii.
-§ 4. Wysokość wynagrodzeń, o których mowa w § 1 i § 2 pkt 1, nie może przekroczyć dwukrotności kwoty bazowej dla członków korpusu służby cywilnej, której wysokość, ustaloną według odrębnych przepisów, określa ustawa budżetowa.
-§ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
-1) wysokość wynagrodzeń, o których mowa w § 1 i § 2 pkt 1, biorąc pod uwagę zakres obowiązków przewodniczącego, sekretarza Rady GLOBE i pozostałych członków GLOBE oraz szacunkowy nakład ich pracy;
-2) warunki i tryb zwrotu kosztów podróży i noclegów przysługującego członkom Rady GLOBE w związku z poniesieniem tych kosztów w ramach udziału w pracach Rady GLOBE oraz sposób obliczania wysokości albo maksymalną wysokość tego zwrotu, biorąc pod uwagę racjonalność ponoszonych kosztów podróży i noclegów.
-Art. 20zb. Szef Krajowej Administracji Skarbowej może zawrzeć z podatnikiem będącym stroną umowy o współdziałanie, na piśmie, porozumienie podatkowe w zakresie objętym tą umową w sprawie:
-1) interpretacji przepisów prawa podatkowego;
-1a) opinii w sprawie opodatkowania wyrównawczego;
-2) ustalania cen transferowych;
-3) braku zasadności zastosowania art. 119a § 1;
-4) wysokości prognozowanego na następny rok podatkowy zobowiązania podatkowego w podatku dochodowym od osób prawnych;
-5) innej, niezbędnej dla zapewnienia prawidłowej realizacji umowy o współdziałanie.
-Art. 20zba. Nie zawiera się porozumienia podatkowego w sprawie, która w dniu złożenia wniosku o jego zawarcie jest objęta porozumieniem inwestycyjnym, o którym mowa w art. 20zs § 1.
-Art. 20zc. § 1. Porozumienie podatkowe nie może zostać zawarte w zakresie czynności i zdarzeń objętych toczącym się postępowaniem podatkowym, kontrolą podatkową, kontrolą celno-skarbową lub postępowaniem przed sądem administracyjnym albo gdy w tym zakresie sprawa została rozstrzygnięta co do istoty w decyzji lub postanowieniu organu podatkowego.
-§ 2. W przypadku odmowy zawarcia porozumienia podatkowego Szef Krajowej Administracji Skarbowej wskazuje przyczyny odmowy wraz z uzasadnieniem.
-§ 3. Do porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 1, przepisy art. 14c § 1 stosuje się odpowiednio.
-§ 3a. Do porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 1a, przepisy art. 14t, art. 14u § 1, 2 i 10, art. 14w, art. 14z § 1 i 3 oraz art. 14za § 1, 2, 5 i 6 stosuje się odpowiednio, przy czym:
-1) opłaty, o których mowa w art. 14z § 1 i art. 14za, pobiera się po zawarciu porozumienia w wysokości 50 % kwot, o których mowa w art. 14z § 1 i art. 14za;
-2) obowiązek przedstawienia dokumentów lub informacji, o których mowa w art.
-14u § 2 i 10, nie dotyczy dokumentów lub informacji przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach realizacji umowy o współdziałanie.
-§ 4. Do porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 2, przepisy art. 83, art. 85–88, art. 90 ust. 1 i 3, art. 92, art. 95 ust. 1–6 i 8, art. 96, art. 98–100, art. 105 ust. 1 i 3, art. 106 ust. 1 i 3 oraz art. 107 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych stosuje się odpowiednio, przy czym:
-1) opłaty, o których mowa w art. 98 i art. 99 tej ustawy, pobiera się po zawarciu porozumienia w wysokości 50 % kwot, o których mowa w art. 98 i art. 99 tej ustawy;
-2) obowiązek przedstawienia dokumentów lub informacji, o których mowa w art. 90 ust. 1 oraz art. 107 tej ustawy, nie dotyczy dokumentów lub informacji przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach umowy o współdziałanie lub audytu podatkowego.
-§ 5. Do porozumienia podatkowego, o którym mowa w art. 20zb pkt 3, przepisy art. 119x § 1, art. 119y § 1, art. 119za pkt 1 i 2 oraz art. 119zc stosuje się odpowiednio, przy czym:
-1) obowiązek przedstawienia dokumentów i informacji, o których mowa w art. 119x § 1, nie dotyczy dokumentów przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach umowy o współdziałanie lub audytu podatkowego;
-2) opłatę, o której mowa w art. 119zc, pobiera się po zawarciu porozumienia w wysokości 50 % kwoty, o której mowa w art. 119zc § 1.
-Art. 20zd. Przed zawarciem porozumienia podatkowego Szef Krajowej Administracji Skarbowej może zasięgnąć opinii:
-1) Dyrektora Krajowej Informacji Skarbowej lub naczelnika urzędu skarbowego właściwego dla podatnika będącego stroną umowy o współdziałanie – w przypadku porozumienia podatkowego w sprawach, o których mowa w art. 20zb pkt 1 i 1a;
-2) Rady do Spraw Przeciwdziałania Unikaniu Opodatkowania – w przypadku porozumienia podatkowego, o którym mowa w art. 20zb pkt 3, przy czym przepis art. 119h § 3 stosuje się odpowiednio;
-3) Rady GLOBE – w przypadku porozumienia podatkowego, o którym mowa w art.
-20zb pkt 1a, przy czym przepisy art. 14zf i art. 14zg stosuje się odpowiednio.
-Art. 20ze. § 1. Podatnik może w każdym czasie wypowiedzieć porozumienie podatkowe.
-§ 2. Szef Krajowej Administracji Skarbowej może wypowiedzieć porozumienie podatkowe, jeżeli:
-1) wyjdą na jaw istotne dla sprawy, w jakiej zawarto porozumienie, nowe okoliczności faktyczne lub nowe dowody, istniejące w dniu zawarcia tego porozumienia, nieznane Szefowi Krajowej Administracji Skarbowej, lub
-2) stwierdzi, że porozumienie jest nieprawidłowe w świetle w szczególności orzecznictwa Trybunału Konstytucyjnego, Trybunału Sprawiedliwości Unii Europejskiej, uchwał Naczelnego Sądu Administracyjnego lub interpretacji ogólnych, lub
-3) zostanie rozwiązana umowa o współdziałanie.
-§ 3. Z zastrzeżeniem art. 20z, rozwiązanie porozumienia podatkowego następuje z dniem złożenia, na piśmie, drugiej stronie wypowiedzenia tego porozumienia wraz z uzasadnieniem. Podatnik w wypowiedzeniu porozumienia może wskazać inny niż wynikający ze zdania pierwszego termin rozwiązania porozumienia, poprzedzający dzień złożenia tego wypowiedzenia.
-§ 4. Rozwiązanie porozumienia podatkowego na podstawie § 2 pkt 1 wywołuje skutki prawne od dnia jego zawarcia.
-§ 5. Zastosowanie się do porozumienia rozwiązanego na podstawie § 1 oraz § 2 pkt 2 i 3 nie może szkodzić podatnikowi. Przepisy art. 14k oraz art. 14m § 1– 3 stosuje się odpowiednio.
-Art. 20zf. W zakresie nieuregulowanym w niniejszym rozdziale do porozumień podatkowych przepisy działu IV rozdziału 11 stosuje się odpowiednio.
-Art. 20zg. Audyt podatkowy przeprowadza Szef Krajowej Administracji Skarbowej wobec podatnika przed zawarciem umowy o współdziałanie (audyt wstępny) oraz w trakcie obowiązywania umowy o współdziałanie (audyt monitorujący) w celu sprawdzenia:
-1) prawidłowości wypełniania obowiązków podatkowych;
-2) skuteczności i adekwatności ram wewnętrznego nadzoru podatkowego.
-Art. 20zh. § 1. Podatnik jest obowiązany do przekazywania na wniosek Szefa Krajowej Administracji Skarbowej dokumentów i informacji niezbędnych do przeprowadzenia audytu podatkowego.
-§ 2. Dokumenty i informacje uznane przez Szefa Krajowej Administracji Skarbowej za zawierające tajemnicę przedsiębiorstwa są niszczone w terminie 2 miesięcy od dnia:
-1) rozwiązania umowy o współdziałanie;
-2) zakończenia audytu wstępnego, jeżeli audyt wstępny został zakończony opinią – w przypadku niezawarcia umowy o współdziałanie;
-3) zakończenia weryfikacji zastosowania się przez podatnika do wydanych zaleceń, o których mowa w art. 20zi § 1 pkt 2 – w przypadku niezawarcia umowy o współdziałanie.
-Art. 20zi. § 1. Z przeprowadzonego audytu podatkowego Szef Krajowej Administracji Skarbowej sporządza:
-1) opinię pozytywną albo
-2) zalecenia wskazujące, jakie czynności podatnik powinien podjąć w celu usunięcia stwierdzonych w ramach tego audytu nieprawidłowości, wraz z uzasadnieniem, albo
-3) opinię negatywną.
-§ 2. Audyt monitorujący jest wykonywany w sposób ciągły.
-§ 3. Opinia oraz zalecenia są przekazywane niezwłocznie podatnikowi.
-§ 4. Termin realizacji czynności podejmowanych w związku z przekazanymi zaleceniami podatnik uzgadnia z Szefem Krajowej Administracji Skarbowej.
-§ 5. W przypadku zastosowania się przez podatnika do zaleceń audytu wstępnego audyt ten może być wznowiony na okres niezbędny do weryfikacji zastosowania się podatnika do tych zaleceń.
-Art. 20zj. § 1. O przeprowadzeniu audytu wstępnego i jego zakresie decyduje Szef Krajowej Administracji Skarbowej, biorąc pod uwagę ocenę ryzyka podatkowego zidentyfikowanego u podatnika wnioskującego o zawarcie umowy o współdziałanie.
-§ 2. Podatnik jest informowany o zakresie audytu wstępnego.
-§ 3. Harmonogram działań podejmowanych w ramach audytu wstępnego Szef Krajowej Administracji Skarbowej uzgadnia z podatnikiem.
-§ 4. Audyt wstępny w zakresie poprawności wypełniania obowiązków podatkowych obejmuje 2 lata podatkowe poprzedzające rok, w którym podatnik wystąpił z wnioskiem o podpisanie umowy o współdziałanie, oraz okres od początku roku podatkowego, w którym podatnik wystąpił z wnioskiem, do dnia zakończenia tego audytu.
-§ 5. Audyt wstępny w zakresie poprawności wypełniania obowiązków podatkowych przez następcę prawnego podatnika, który zawarł umowę o współdziałanie, może objąć krótszy okres niż określony w § 4.
-Art. 20zk. Audyt podatkowy w zakresie prawidłowości wypełniania obowiązków podatkowych obejmuje analizę ryzyka i badanie dokumentacji dotyczącej zidentyfikowanych u podatnika obszarów ryzyka podatkowego.
-Art. 20zl. Audyt podatkowy w zakresie ram wewnętrznego nadzoru podatkowego obejmuje ocenę możliwości prawidłowego wykonywania obowiązków podatkowych poprzez weryfikację poziomu wdrożenia i funkcjonowania:
-1) systemu zarządzania ryzykiem,
-2) kontroli wewnętrznej,
-3) audytu wewnętrznego,
-4) nadzoru nad zgodnością działalności z przepisami prawa, regulacjami wewnętrznymi i dobrowolnie przyjętymi standardami,
-5) mechanizmów nadzoru zewnętrznego, w tym niezależnego audytu funkcji podatkowej – w odniesieniu do spraw podatkowych.
-Art. 20zm. § 1. W przypadku złożenia prawnie skutecznej deklaracji lub korekty deklaracji:
-1) w terminie 14 dni od dnia otrzymania zaleceń audytu wstępnego i w celu usunięcia stwierdzonych w nim nieprawidłowości w zakresie realizacji obowiązków podatkowych i wpłacenia związanej z tą korektą zaległości podatkowej w terminie 7 dni od daty złożenia tej deklaracji albo korekty deklaracji – przepis art. 56a § 1 stosuje się odpowiednio;
-2) za okres rozliczeniowy objęty audytem monitorującym oraz pod warunkiem wpłacenia zaległości podatkowych w terminie 7 dni od dnia złożenia tej deklaracji albo korekty deklaracji – nie nalicza się odsetek za zwłokę.
-§ 2. Przepis § 1 pkt 1 stosuje się do deklaracji oraz korekt deklaracji złożonych za okresy nieobjęte audytem wstępnym, jeżeli złożone zostały w celu usunięcia nieprawidłowości stwierdzonych w wyniku tego audytu.
-§ 3. W przypadku, o którym mowa w § 1 pkt 2, nie wszczyna się postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe.
-Art. 20zn. § 1. Czynności w zakresie audytu podatkowego wykonują pracownicy zatrudnieni w wyodrębnionej w tym celu komórce organizacyjnej urzędu obsługującego Szefa Krajowej Administracji Skarbowej, działający z jego upoważnienia.
-§ 2. Czynności w zakresie audytu podatkowego mogą być wykonywane z upoważnienia Szefa Krajowej Administracji Skarbowej przez pracowników i funkcjonariuszy jednostek Krajowej Administracji Skarbowej.
-§ 3. Pracownicy i funkcjonariusze wykonujący czynności w zakresie audytu podatkowego nie mogą uczestniczyć w przeprowadzaniu kontroli podatkowej, kontroli celno-skarbowej oraz w postępowaniu podatkowym wobec podatnika objętego tym audytem przez okres 3 lat od dnia jego zakończenia.
-Art. 20zo. § 1. Niezależny audyt funkcji podatkowej jest przeprowadzany na zlecenie podatnika przez niezależnego audytora podatkowego.
-§ 2. Niezależnym audytorem podatkowym może być spółka doradztwa podatkowego, firma audytorska, doradca podatkowy lub biegły rewident, z wyjątkiem podmiotu:
-1) wykonującego na rzecz podatnika czynności rewizji finansowej, usługi doradztwa podatkowego lub prawnego,
-2) będącego krajowym podmiotem powiązanym lub zagranicznym podmiotem powiązanym w rozumieniu ustawy z dnia 16 października 2019 r.
-o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych wobec:
-a) podatnika,
-b) podmiotu wykonującego usługi doradztwa podatkowego lub czynności rewizji finansowej na rzecz tego podatnika,
-3) wykonującego usługi, o których mowa w pkt 2 lit. b, na rzecz podmiotu, który świadczy na rzecz podatnika takie usługi – w okresie objętym tym audytem podatkowym oraz w trakcie jego przeprowadzania.
-Art. 20zp. § 1. Niezależny audyt funkcji podatkowej obejmuje sprawdzenie prawidłowości wykonywania obowiązków podatkowych oraz skuteczności i adekwatności wdrożonych ram wewnętrznego nadzoru podatkowego.
-§ 2. Z przeprowadzenia niezależnego audytu funkcji podatkowej sporządza się raport zawierający wynik niezależnego audytu funkcji podatkowej. Raport podpisuje niezależny audytor podatkowy przeprowadzający ten audyt.
-§ 3. Raport z niezależnego audytu funkcji podatkowej jest przekazywany niezwłocznie podatnikowi wraz z dokumentacją audytu zawierającą testy i procedury przeprowadzone w jego trakcie.
-Art. 20zq. W zakresie nieuregulowanym w niniejszym rozdziale przepisy działu IV rozdziału 11 stosuje się odpowiednio.
-Art. 20zr. § 1. W zakresie nieuregulowanym w niniejszym dziale przepisy art. 168, art. 172, art. 173 i art. 175–177 oraz działu IV rozdziału 1 z wyłączeniem art. 127, rozdziałów 5 i 10 stosuje się odpowiednio.
-§ 2. Do spraw uregulowanych w niniejszym dziale nie stosuje się przepisu art. 3 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
-Art. 20zs. § 1. Minister właściwy do spraw finansów publicznych, zwany dalej w niniejszym dziale „organem właściwym w sprawie porozumienia”, może zawrzeć z inwestorem, na jego wniosek, umowę w sprawie skutków podatkowych inwestycji planowanej lub rozpoczętej na terytorium Rzeczypospolitej Polskiej (porozumienie inwestycyjne).
-§ 2. Porozumienie inwestycyjne służy realizacji zasady pewności prawa podatkowego oraz zapewnieniu jednolitej i spójnej wykładni przepisów prawa podatkowego.
-§ 3. Inwestorem jest każdy, kto planuje lub rozpoczął inwestycję na terytorium Rzeczypospolitej Polskiej.
-§ 4. Inwestycją, o której mowa w § 1, jest inwestycja w rozumieniu art. 2 pkt 1 ustawy z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji (Dz. U. z 2025 r.
-poz. 469), której wartość wynosi co najmniej 50 000 000 zł, przy czym wartość inwestycji wyrażonej w walucie obcej ustala się z uwzględnieniem kursu średniego waluty obcej ogłoszonego przez Narodowy Bank Polski i obowiązującego w pierwszym dniu miesiąca złożenia wniosku o zawarcie porozumienia inwestycyjnego.
-§ 5. Organ właściwy w sprawie porozumienia może odmówić zawarcia porozumienia inwestycyjnego, w szczególności gdy przedmiotem wniosku o jego zawarcie jest sprawa, która została uprzednio rozpoznana przez właściwy organ podatkowy, lub w chwili złożenia wniosku o zawarcie porozumienia inwestycyjnego sprawa ta była w trakcie rozpatrywania przez taki organ.
-§ 6. W przypadku odmowy zawarcia porozumienia inwestycyjnego organ właściwy w sprawie porozumienia zawiadamia inwestora, wskazując przyczyny takiej odmowy wraz z uzasadnieniem.
-§ 7. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, upoważnić organ Krajowej Administracji Skarbowej do wykonywania zadań organu właściwego w sprawie porozumienia, mając na względzie zapewnienie sprawnego i szybkiego wykonywania tych zadań.
-Art. 20zt. Porozumienie inwestycyjne może obejmować:
-1) ocenę, że cena transferowa transakcji kontrolowanej jest ustalona na warunkach, które ustaliłyby między sobą podmioty niepowiązane, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 83– 86, art. 90, art. 92, art. 103, art. 104, art. 106 i art. 107 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych;
-2) ocenę, że do korzyści podatkowej wskazanej we wniosku o zawarcie porozumienia inwestycyjnego nie ma zastosowania przepis art. 119a § 1, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 119x § 1 i 2, art. 119y § 1 i 2 oraz art. 119za pkt 1 i 2;
-2a) opinię w sprawie opodatkowania wyrównawczego, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 14t oraz art. 14u § 1, 2 i 10;
-3) klasyfikację i rodzaj wyrobu akcyzowego lub klasyfikację samochodu osobowego – w układzie odpowiadającym Nomenklaturze Scalonej (CN), przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 7e ust. 2 i 3 oraz art. 7f ust. 1–3, ust. 4 zdanie pierwsze, ust. 6 i 7 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
-4) opis i klasyfikację towaru lub usługi oraz właściwą stawkę podatku, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 42b ust. 2 pkt 1–3, ust. 4, 5 i 7 oraz art. 42e ust. 1–3, ust. 4 zdanie pierwsze, ust. 6 i 7 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;
-5) interpretację przepisów prawa podatkowego w zakresie nieobjętym pkt 1–4, przy czym przepis art. 14b § 3 stosuje się odpowiednio.
-Art. 20zu. § 1. Wniosek o zawarcie porozumienia inwestycyjnego może złożyć inwestor albo grupa inwestorów, w szczególności utworzone w związku z inwestycją konsorcjum, spółka, oddział lub przedstawicielstwo.
-§ 2. Wniosek o zawarcie porozumienia inwestycyjnego, oprócz spełnienia wymogów określonych w art. 20zt, zawiera:
-1) dane identyfikujące inwestora;
-2) adres do doręczeń elektronicznych, chyba że inwestor wyraził zgodę na doręczanie pism za pośrednictwem konta w e-Urzędzie Skarbowym;
-3) opis planowanej lub rozpoczętej inwestycji;
-4) deklarowaną wartość inwestycji i wyjaśnienie sposobu jej ustalenia;
-5) proponowany okres obowiązywania porozumienia;
-6) proponowany przedmiot porozumienia.
-§ 3. Inwestor może w każdym czasie:
-1) zmienić wniosek o zawarcie porozumienia inwestycyjnego, przy czym jeżeli zmiana wniosku polega na przyłączeniu się kolejnego inwestora, zmieniony wniosek podpisują również dotychczasowi inwestorzy;
-2) wycofać wniosek o zawarcie porozumienia inwestycyjnego, przy czym wycofanie się przez jednego z inwestorów nie wywołuje skutku wobec pozostałych.
-§ 4. Wniosek o zawarcie porozumienia inwestycyjnego oraz inne pisma i dokumenty mogą być sporządzone przez inwestora w języku angielskim.
-§ 5. Organ właściwy w sprawie porozumienia zawiadamia wójta, burmistrza (prezydenta miasta), starostę lub marszałka województwa o:
-1) złożeniu wniosku o zawarcie porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 5, i jego przedmiocie,
-2) prawie przedstawienia stanowiska w sprawie, w terminie określonym w zawiadomieniu, niekrótszym jednak niż 30 dni od dnia doręczenia zawiadomienia – w zakresie, w jakim wniosek dotyczy sprawy z zakresu interpretacji indywidualnych wydawanych przez odpowiednio wójta, burmistrza (prezydenta miasta), starostę lub marszałka województwa.
-Art. 20zv. § 1. Wniosek o zawarcie porozumienia inwestycyjnego podlega opłacie wstępnej.
-§ 2. Opłata wstępna wynosi 50 000 zł od każdego inwestora składającego wniosek o zawarcie porozumienia inwestycyjnego.
-§ 3. Opłata wstępna jest wnoszona na rachunek organu właściwego w sprawie porozumienia w terminie 30 dni od dnia złożenia wniosku. W przypadku nieuiszczenia w terminie opłaty wstępnej przez któregokolwiek z inwestorów wniosek pozostawia się bez rozpatrzenia.
-§ 4. Opłata wstępna podlega zwrotowi w terminie 30 dni od dnia odmowy zawarcia porozumienia inwestycyjnego.
-§ 5. Opłata wstępna stanowi dochód budżetu państwa.
-Art. 20zw. § 1. W celu uzgodnienia zakresu i treści porozumienia inwestycyjnego organ właściwy w sprawie porozumienia może:
-1) zwracać się do inwestora o wyjaśnienie wątpliwości lub uzupełnienie wniosku, w tym poprzez dostarczenie próbki towaru, lub
-2) zorganizować spotkanie uzgodnieniowe.
-§ 2. Ze spotkania uzgodnieniowego sporządza się protokół. Jeżeli spotkanie uzgodnieniowe prowadzone jest w języku angielskim, protokół sporządza się w języku polskim i języku angielskim, przy czym w przypadku wystąpienia rozbieżności rozstrzygający jest tekst polski.
-§ 3. Przebieg spotkania uzgodnieniowego może być utrwalony przez organ właściwy w sprawie porozumienia za pomocą aparatury rejestrującej obraz i dźwięk lub na informatycznych nośnikach danych.
-§ 4. Organ właściwy w sprawie porozumienia zawiadamia inwestora o wysokości i terminie uiszczenia opłaty, o której mowa w art. 7f ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym i art. 42e ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
-Art. 20zx. § 1. Porozumienie inwestycyjne obowiązuje przez okres uzgodniony w porozumieniu, niedłuższy jednak niż 5 lat podatkowych.
-§ 2. Porozumienie inwestycyjne może być sporządzone jednocześnie w języku polskim i języku angielskim. W przypadku rozbieżności rozstrzygający jest tekst polski.
-§ 3. Porozumienie inwestycyjne wiąże w każdym czasie inwestora i organ właściwy w sprawie porozumienia oraz organy podatkowe za okresy rozliczeniowe objęte porozumieniem.
-§ 4. Jeżeli przedmiot porozumienia inwestycyjnego stanowi element czynności będących przedmiotem decyzji wydanej w związku z wystąpieniem nadużycia prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, przepisu § 3 nie stosuje się.
-Art. 20zy. § 1. Zawarcie porozumienia inwestycyjnego podlega opłacie głównej w wysokości określonej w porozumieniu, nieniższej jednak niż 100 000 zł i niewyższej niż 500 000 zł.
-§ 2. Przy ustaleniu wysokości opłaty głównej uwzględnia się zakres i złożoność porozumienia inwestycyjnego.
-§ 3. Inwestorzy ponoszą solidarną odpowiedzialność za wniesienie opłaty głównej.
-§ 4. Opłata główna jest wnoszona przez inwestora na rachunek organu właściwego w sprawie porozumienia w terminie 30 dni od dnia zawarcia porozumienia inwestycyjnego. W przypadku nieuiszczenia w terminie opłaty głównej porozumienie inwestycyjne nie wywołuje skutków prawnych.
-§ 5. Opłata główna stanowi dochód budżetu państwa.
-Art. 20zz. § 1. Każda strona może złożyć wniosek o zmianę porozumienia inwestycyjnego.
-§ 2. Do wniosku o zmianę porozumienia inwestycyjnego składanego przez inwestora stosuje się odpowiednio przepisy dotyczące składania wniosku o zawarcie porozumienia inwestycyjnego, przy czym wniosek ten podlega:
-1) opłacie wstępnej w wysokości 25 000 zł od każdego inwestora;
-2) opłacie głównej w wysokości określonej w zmianie porozumienia, nieniższej jednak niż 50 000 zł i niewyższej niż 250 000 zł.
-§ 3. W przypadku, o którym mowa w art. 20zzb § 2, zmiana porozumienia inwestycyjnego nie podlega opłacie wstępnej ani opłacie głównej.
-§ 4. Wniosek o zmianę porozumienia inwestycyjnego polegającą na przyłączeniu się nowego inwestora podlega opłacie wstępnej, którą uiszcza ten inwestor.
-Art. 20zza. § 1. Inwestor może w każdym czasie wypowiedzieć porozumienie inwestycyjne. W takim przypadku rozwiązanie porozumienia następuje od pierwszego dnia następnego roku podatkowego.
-§ 2. Organ właściwy w sprawie porozumienia może wypowiedzieć porozumienie inwestycyjne ze skutkiem od pierwszego dnia jego obowiązywania, jeżeli wyjdzie na jaw istotna dla porozumienia nowa okoliczność faktyczna lub nowy dowód, istniejące w dniu zawarcia tego porozumienia i nieznane temu organowi.
-W takim przypadku przepisu art. 20zx § 3 nie stosuje się.
-§ 3. Przed wypowiedzeniem porozumienia inwestycyjnego organ właściwy w sprawie porozumienia:
-1) wzywa inwestora do złożenia wyjaśnień w terminie niekrótszym niż 7 dni lub
-2) przedkłada inwestorowi propozycję zmiany porozumienia inwestycyjnego ze skutkiem od pierwszego dnia jego obowiązywania albo innego dnia wskazanego w propozycji zmiany i wyznacza termin, niekrótszy jednak niż 30 dni, do zawarcia tej zmiany porozumienia.
-§ 4. W przypadku niestosowania przez inwestora porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 1, w okresie jego obowiązywania organ właściwy w sprawie porozumienia wypowiada to porozumienie ze skutkiem od pierwszego dnia jego obowiązywania.
-§ 5. W przypadku stwierdzenia nieprawidłowości porozumienia inwestycyjnego organ właściwy w sprawie porozumienia składa wniosek o jego zmianę lub wypowiada porozumienie inwestycyjne, uwzględniając w szczególności:
-1) orzecznictwo Trybunału Konstytucyjnego, Trybunału Sprawiedliwości Unii Europejskiej lub Naczelnego Sądu Administracyjnego;
-2) wystąpienie przesłanek, o których mowa w art. 7ha ust. 1 pkt 1 i 2, pkt 3 lit. a i c ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym – w przypadku porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 3;
-3) wystąpienie przesłanek, o których mowa w art. 42h ust. 3 pkt 1 i 2, pkt 3 lit. a i c oraz pkt 4 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług – w przypadku porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 4.
-§ 6. W przypadku wypowiedzenia porozumienia inwestycyjnego na podstawie § 5 rozwiązanie tego porozumienia następuje z dniem doręczenia wypowiedzenia, chyba że z treści tego wypowiedzenia wynika późniejszy termin.
-Art. 20zzb. § 1. Porozumienie inwestycyjne wygasa z mocy prawa z dniem wejścia w życie przepisów prawa podatkowego w zakresie, w jakim porozumienie to stało się niezgodne z tymi przepisami.
-§ 2. Jeżeli okres między dniem ogłoszenia przepisów mających wpływ na treść porozumienia inwestycyjnego a dniem ich wejścia w życie jest krótszy niż 30 dni i w tym okresie porozumienie to nie zostanie zmienione, zastosowanie się inwestora do porozumienia w okresie 30 dni od dnia ich wejścia w życie nie powoduje:
-1) wszczęcia postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe, a postępowanie wszczęte w tych sprawach umarza się;
-2) naliczania odsetek za zwłokę.
-Art. 20zzc. § 1. Organ właściwy w sprawie porozumienia prowadzi ewidencję inwestorów i porozumień inwestycyjnych obejmującą:
-1) dane identyfikujące inwestora;
-2) dzień złożenia, zmiany i cofnięcia wniosku o zawarcie porozumienia inwestycyjnego, w tym przyłączenia się nowego inwestora do tego wniosku;
-3) dzień zawarcia porozumienia inwestycyjnego;
-4) okres obowiązywania porozumienia inwestycyjnego;
-5) dzień złożenia, zmiany i cofnięcia wniosku o zmianę porozumienia inwestycyjnego, w tym przyłączenia się nowego inwestora do tego wniosku;
-6) dzień zmiany porozumienia inwestycyjnego, w tym przyłączenia się nowego inwestora do tego porozumienia;
-7) dzień i przyczynę wygaśnięcia porozumienia inwestycyjnego.
-§ 2. Ewidencja podlega udostępnieniu w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego organ właściwy w sprawie porozumienia.
-Art. 20zzd. § 1. Wniosek o zawarcie porozumienia inwestycyjnego, porozumienie inwestycyjne i inne pisma sporządzane na podstawie niniejszego działu przed zawarciem porozumienia inwestycyjnego i w okresie jego obowiązywania są utrwalane w postaci elektronicznej.
-§ 2. Złożenie i doręczenie pisma na podstawie przepisów niniejszego działu następuje na adres do doręczeń elektronicznych lub za pośrednictwem konta w eUrzędzie Skarbowym.
-Art. 20zze. § 1. W zakresie nieuregulowanym w niniejszym dziale do porozumienia inwestycyjnego stosuje się odpowiednio przepisy art. 168, art. 187 § 3, art. 197 § 1 i 3 oraz przepisy działu IV rozdziału 1, z wyłączeniem przepisów art. 127 i art. 128, oraz przepisy rozdziału 3a, rozdziału 5, rozdziału 9, rozdziału 10 i rozdziału
-23.
-§ 2. Do wypowiedzenia porozumienia inwestycyjnego stosuje się odpowiednio także przepisy działu IV rozdziału 11.
-§ 3. Do spraw uregulowanych w niniejszym dziale nie stosuje się przepisu art. 3 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 1) innej szczególnej cesze rozpoznawczej – rozumie się przez to właściwość uzgodnienia polegającą na tym, że spełniony jest co najmniej jeden z poniższych warunków:
 a) wpływ na część odroczoną podatku dochodowego lub aktywa albo rezerwy z tytułu podatku odroczonego, wynikający lub oczekiwany w związku z wykonaniem uzgodnienia u korzystającego jest istotny dla danej jednostki w rozumieniu przepisów o rachunkowości oraz przekracza w trakcie roku kalendarzowego kwotę 5 000 000 zł,
 b) płatnik podatku dochodowego byłby zobowiązany do pobrania podatku przekraczającego w trakcie roku kalendarzowego kwotę 5 000 000 zł, jeżeli w odniesieniu do wypłat należności wynikających lub oczekiwanych w związku z wykonaniem uzgodnienia nie miałyby zastosowania właściwe umowy o unikaniu podwójnego opodatkowania lub zwolnienia podatkowe,
@@ -347,539 +119,6 @@ d) oferowanie czynności wskazanych w lit. a–c, zawarcie umowy, której przedm
 § 10. Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
 1) listę krajów i terytoriów wskazanych w unijnym wykazie jurysdykcji niechętnych współpracy do celów podatkowych przyjmowanym przez Radę Unii Europejskiej, które nie zostały ujęte w wykazie krajów i terytoriów stosujących szkodliwą konkurencję podatkową wydawanym na podstawie przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych,
 2) dzień przyjęcia wykazu, o którym mowa w pkt 1, przez Radę Unii Europejskiej – w terminie 7 dni od dnia przyjęcia tego wykazu.
-Art. 119zfa. § 1. Szef Krajowej Administracji Skarbowej, na wniosek zainteresowanego, może wydać decyzję określającą warunki cofnięcia skutków unikania opodatkowania.
-§ 2. Zainteresowani, którzy są powiązani tą samą czynnością, mogą wystąpić ze wspólnym wnioskiem.
-§ 3. Wniosek może dotyczyć uzyskanej korzyści podatkowej, a w przypadku podatków, które są rozliczane okresowo – korzyści podatkowej uzyskanej w zakończonym okresie rozliczeniowym.
-§ 4. Wniosek może dotyczyć więcej niż jednej korzyści podatkowej, jeżeli korzyści podatkowe zostały uzyskane w danym okresie rozliczeniowym w analogiczny sposób.
-§ 5. Przepisy niniejszego rozdziału stosuje się odpowiednio do cofnięcia skutków unikania opodatkowania wynikających ze środków ograniczających umowne korzyści.
-Art. 119zfb. Szef Krajowej Administracji Skarbowej odmawia wszczęcia postępowania:
-1) w zakresie tych korzyści podatkowych, które w dniu złożenia wniosku są przedmiotem toczącego się postępowania podatkowego, toczącej się kontroli podatkowej, planowanej kontroli podatkowej, o której zamiarze wszczęcia podatnik lub płatnik został zawiadomiony na podstawie art. 282b § 1, lub toczącej się kontroli celno-skarbowej, albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego;
-2) jeżeli stanowisko zawarte we wniosku wskazuje na zasadność wydania decyzji na podstawie art. 119zfi § 1 lub 2.
-Art. 119zfc. § 1. Przed złożeniem wniosku zainteresowany może zwrócić się do Szefa Krajowej Administracji Skarbowej o wyjaśnienie wszelkich wątpliwości dotyczących wydania decyzji, w szczególności celowości jej wydania, zakresu niezbędnych informacji, trybu i przypuszczalnego terminu zakończenia postępowania.
-§ 2. Dokumenty i informacje uzyskane przez Szefa Krajowej Administracji Skarbowej w ramach czynności określonych w § 1 nie mogą stanowić dowodu w kontroli podatkowej, kontroli celno-skarbowej lub postępowaniu podatkowym, chyba że organ podatkowy uzyska te dokumenty i informacje w wyniku przeprowadzenia innych czynności.
-Art. 119zfd. § 1. Wniosek zawiera informacje istotne z punktu widzenia przepisów art. 119a § 1–3, 5 i 6, w szczególności:
-1) opis stanu faktycznego składający się z:
-a) wyczerpującego opisu dokonanej czynności prowadzącej do unikania opodatkowania,
-b) wskazania podmiotów biorących udział w czynności określonej w lit. a wraz ze wskazaniem występujących pomiędzy podmiotami powiązań w rozumieniu art. 23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r.
-o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych,
-c) określenia skutków podatkowych będących rezultatem czynności określonej w lit. a, w tym korzyści podatkowej, o której mowa w art. 119a § 1, wraz z przedstawieniem sposobu i metody wyliczenia tych skutków;
-2) w zależności od okoliczności:
-a) wyczerpujący opis przyjętej czynności odpowiedniej w rozumieniu art. 119a § 3,
-b) oświadczenie, że osiągnięcie korzyści podatkowej było jedynym celem dokonania czynności prowadzącej do unikania opodatkowania,
-c) wskazanie przepisu ustawy podatkowej określonego w art. 119a § 6, który nie powinien mieć zastosowania;
-3) uzasadnienie przyjęcia wybranej czynności odpowiedniej lub złożonego oświadczenia albo wskazania, o których mowa w pkt 2;
-4) określenie skutków podatkowych, wraz z przedstawieniem sposobu i metody ich wyliczenia:
-a) dokonania przyjętej czynności odpowiedniej,
-b) stanu rzeczy, jaki zaistniałby, gdyby czynność prowadząca do unikania opodatkowania nie została dokonana,
-c) stanu prawnego, jaki zaistniałby, gdyby wskazany przepis ustawy podatkowej nie miał zastosowania.
-§ 1a. We wniosku zainteresowany może zwrócić się o określenie w decyzji sposobu cofnięcia skutków unikania opodatkowania w zakresie korzyści podatkowych, które mogą zostać osiągnięte w okresach rozliczeniowych następujących po okresie rozliczeniowym, którego dotyczyła decyzja, jeżeli zachodzi uzasadnione przez zainteresowanego prawdopodobieństwo, że korzyści te będą osiągane cyklicznie w związku z czynnością określoną w § 1 pkt 1 lit. a, w sposób analogiczny do korzyści podatkowej, o której mowa w § 1 pkt 1 lit. c.
-§ 2. Do wniosku należy załączyć istotną dokumentację:
-1) dotyczącą czynności określonej w § 1 pkt 1, w tym również opisującą zamiary i cele podmiotów w niej uczestniczących;
-2) wskazującą na zasadność stanowiska określonego w § 1 pkt 2 i 3.
-§ 3. Wniosek powinien zostać sporządzony i podpisany przez pełnomocnika szczególnego będącego doradcą podatkowym, adwokatem lub radcą prawnym.
-§ 4. Wniosek o wydanie decyzji niespełniający wymogów określonych w § 1–3 lub przepisach wydanych na podstawie § 5, lub innych wymogów określonych przepisami prawa pozostawia się bez rozpatrzenia.
-§ 5. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór wniosku, o którym mowa w § 1, który zawiera informacje określone w tym przepisie oraz wskazane w art. 14b § 4 i art. 14r § 2, a także sposób uiszczenia opłaty, o której mowa w art. 119zff, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców.
-Art. 119zfe. § 1. Złożenie wniosku oraz wydanie decyzji nie stanowią przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
-§ 2. W toku postępowania o wydanie decyzji domniemywa się, że:
-1) wskazana we wniosku czynność, o której mowa w art. 119zfd § 1 pkt 1 lit. a, została dokonana w sposób sztuczny;
-2) co najmniej jednym z głównych celów dokonania czynności, o której mowa w pkt 1, było osiągnięcie korzyści podatkowej;
-3) korzyść podatkowa określona w pkt 2 jest sprzeczna w danych okolicznościach z przedmiotem lub celem ustawy podatkowej lub jej przepisu.
-Art. 119zff. § 1. Wniosek podlega opłacie w wysokości:
-1) 0,2 % kwoty korzyści podatkowej, o której mowa w art. 119zfd § 1 pkt 1 lit. c – odnośnie do korzyści podatkowej lub jej części powodującej powstanie lub zawyżenie straty podatkowej,
-2) 1 % kwoty korzyści podatkowej, o której mowa w art. 119zfd § 1 pkt 1 lit. c – w pozostałych przypadkach – jednak niemniejszej niż 1000 zł i niewiększej niż 15 000 zł.
-§ 2. Przepis § 1 stosuje się odpowiednio do wniosku, o którym mowa w art.
-119zfa § 4, z tym że podstawę obliczenia opłaty stanowi łączna kwota korzyści podatkowych objętych wnioskiem.
-§ 3. Jeżeli czynność prowadząca do unikania opodatkowania została uprzednio oceniona w ramach odmowy wydania opinii zabezpieczającej, opłata od wniosku o wydanie decyzji wynosi 75 % różnicy opłaty obliczonej na podstawie § 1 i opłaty uiszczonej na podstawie art. 119zc § 1, jednak niemniej niż 1000 zł.
-§ 3a. W przypadku złożenia przez zainteresowanego wniosku określonego w art. 119zfd § 1a opłatę obliczoną na podstawie § 1 i 3 zwiększa się o 35 %.
-§ 4. Opłata podlega zwrotowi w przypadku:
-1) wycofania wniosku w terminie 2 miesięcy od dnia jego złożenia – w połowie;
-2) uiszczenia jej w kwocie wyższej niż należna – w odpowiedniej części.
-§ 5. Opłatę należy wpłacić w terminie 7 dni od dnia złożenia wniosku. Zwrot opłaty, o którym mowa w § 4, następuje niepóźniej niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania decyzji.
-§ 6. W przypadku uznania, że osiągnięta przez zainteresowanego korzyść podatkowa jest wyższa od tej, którą wskazano we wniosku o wydanie decyzji, w toku postępowania Szef Krajowej Administracji Skarbowej ustala, w drodze postanowienia, wysokość opłaty uzupełniającej, obliczonej zgodnie z § 1, 3 lub 3a.
-§ 7. Opłaty stanowią dochód budżetu państwa.
-§ 8. Jeżeli w wydanej decyzji Szef Krajowej Administracji Skarbowej określił skutki podatkowe stanu prawnego, jaki zaistniałby, gdyby określony w art. 119a § 6 przepis ustawy podatkowej nie miał zastosowania, zwraca się 60 % uiszczonej opłaty, jeżeli zainteresowany, który unikał opodatkowania:
-1) cofnął zgodnie z art. 119zfk § 1 lub 2 skutki unikania opodatkowania oraz
-2) wpłacił na rachunek właściwego organu podatkowego kwotę wynikającą ze złożonej korekty deklaracji lub informacji zastępczej wraz z odsetkami za zwłokę.
-Art. 119zfg. Szef Krajowej Administracji Skarbowej może zwrócić się do wnioskodawcy o wyjaśnienie jego stanowiska, wątpliwości co do danych zawartych we wniosku lub może zorganizować spotkanie uzgodnieniowe.
-Art. 119zfh. § 1. W razie uznania w toku postępowania, że zainteresowany nieprawidłowo przedstawił elementy wniosku, o których mowa w art. 119zfd § 1 pkt 2–4, Szef Krajowej Administracji Skarbowej, w drodze postanowienia, zawiadamia o tym zainteresowanego oraz poucza o treści § 2. Postanowienie zawiera uzasadnienie faktyczne i prawne.
-§ 2. Zainteresowany w terminie 14 dni od dnia doręczenia postanowienia, o którym mowa w § 1, może złożyć dodatkowe wyjaśnienia i dokumenty lub złożyć wniosek o zasięgnięcie przez Szefa Krajowej Administracji Skarbowej opinii Rady co do kwestii uwzględnionych w treści postanowienia i przedstawić jednocześnie własne stanowisko.
-§ 3. Szef Krajowej Administracji Skarbowej występuje o opinię Rady, jeżeli przedstawione przez zainteresowanego dodatkowe wyjaśnienia i dokumenty okazały się niewystarczające. Zasięgając opinii Rady, Szef Krajowej Administracji Skarbowej przedstawia własne stanowisko w sprawie.
-§ 4. Jeżeli w opinii Rady żadne z przedstawionych jej stanowisk nie jest zasadne, Rada przedstawia własną opinię w zakresie ocenianych kwestii.
-Art. 119zfi. § 1. Szef Krajowej Administracji Skarbowej, w drodze decyzji, odmawia określenia warunków cofnięcia skutków unikania opodatkowania, jeżeli czynność określona w art. 119zfd § 1 pkt 1 lit. a nie skutkowała, wbrew stanowisku zainteresowanego, osiągnięciem korzyści podatkowej.
-§ 2. Szef Krajowej Administracji Skarbowej może, w drodze decyzji, odmówić określenia warunków cofnięcia skutków unikania opodatkowania, jeżeli zastosowanie innych niż art. 119a przepisów prawa podatkowego pozwala na przeciwdziałanie unikaniu opodatkowania.
-Art. 119zfj. § 1. Decyzja zawiera w szczególności:
-1) wynikający z przedstawionego stanu faktycznego wyczerpujący opis czynności prowadzącej do unikania opodatkowania wraz ze wskazaniem podmiotów w niej uczestniczących;
-2) rozstrzygnięcie co do:
-a) określenia skutków podatkowych będących rezultatem czynności określonej w pkt 1, w tym korzyści podatkowej, o której mowa w art. 119a § 1,
-b) prawidłowości przyjęcia czynności odpowiedniej, uznania, że osiągnięcie korzyści podatkowej było jedynym celem dokonania czynności prowadzącej do unikania opodatkowania, albo wskazania określonego w art. 119a § 6 przepisu ustawy podatkowej, który nie powinien mieć zastosowania,
-c) wskazania skutków podatkowych, jakie mogłyby zaistnieć, gdyby dokonano przyjętej czynności odpowiedniej, stanu rzeczy, jaki zaistniałby, gdyby czynność prowadząca do unikania opodatkowania nie została dokonana, albo stanu prawnego, jaki zaistniałby, gdyby wskazany przepis ustawy podatkowej nie miał zastosowania;
-3) określenie, w jaki sposób zainteresowany może cofnąć skutki unikania opodatkowania, przy uwzględnieniu elementów wymienionych w pkt 2 lit. b i c.
-§ 2. W razie uznania stanowiska zainteresowanego za nieprawidłowe w zakresie opisanym w § 1 pkt 2 lit. a–c organ podatkowy wskazuje w decyzji prawidłowe stanowisko wraz z uzasadnieniem faktycznym i prawnym.
-§ 2a. Organ podatkowy odmawia w decyzji określenia sposobu cofnięcia skutków unikania opodatkowania w zakresie korzyści podatkowych, które mogą zostać osiągnięte w okresach rozliczeniowych następujących po okresie rozliczeniowym, którego dotyczyła decyzja, jeżeli odnośnie do tych korzyści nie zostały spełnione warunki określone w art. 119zfd § 1a.
-§ 3. Jeżeli w decyzji nie określono skutków podatkowych stanu prawnego, jaki zaistniałby, gdyby określony w art. 119a § 6 przepis ustawy podatkowej nie miał zastosowania, decyzja może ponadto określać uprawnienia zainteresowanego podmiotu, o którym mowa w art. 119zfm.
-Art. 119zfk. § 1. W terminie 14 dni od dnia doręczenia decyzji zainteresowany może, uwzględniając jej treść, cofnąć skutki unikania opodatkowania poprzez złożenie korekty deklaracji wraz z uzasadnieniem przyczyn korekty, z zastrzeżeniem § 2.
-§ 2. Jeżeli w wyniku dokonania czynności, o której mowa w art. 119zfd § 1 pkt 1, zaistniał taki stan rzeczy, w którym złożenie deklaracji lub korekty deklaracji byłoby niezgodne z odrębnymi przepisami, w szczególności w razie zmiany formy prawnej mającej wpływ na sposób opodatkowania, cofnięcie przez zainteresowanego skutków unikania opodatkowania, o którym mowa w art. 119a § 1, następuje poprzez złożenie, w terminie określonym w § 1, informacji zastępczej.
-Złożenie informacji zastępczej wywołuje skutki prawne odpowiadające złożeniu deklaracji.
-§ 3. Złożenie korekty deklaracji lub informacji zastępczej niezgodnej z treścią decyzji nie wywołuje skutków prawnych w zakresie cofnięcia skutków unikania opodatkowania.
-§ 4. Ponowne skorygowanie deklaracji nie wywołuje skutków prawnych w zakresie, w jakim dokonana na podstawie § 1 korekta przewidywała cofnięcie skutków unikania opodatkowania.
-§ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji zastępczej, wraz z objaśnieniami co do sposobu prawidłowego jej wypełnienia oraz terminu i miejsca jej składania, mając na uwadze umożliwienie prawidłowego rozliczenia podatku, a także kierując się potrzebą ułatwienia zainteresowanym poprawnego sporządzenia informacji zastępczej.
-Art. 119zfl. § 1. Organ podatkowy uwzględnia, z zastrzeżeniem § 2, w toku kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego decyzję wydaną na podstawie art. 119zfi § 1 lub 2 lub cofnięcie skutków unikania opodatkowania dokonane zgodnie z treścią decyzji.
-§ 2. Organ podatkowy w toku kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego pomija decyzję wydaną na podstawie art. 119zfi § 1 lub 2 lub cofnięcie skutków unikania opodatkowania dokonane zgodnie z treścią decyzji, jeżeli zgromadzone dowody wskazują na nierzetelność opisu czynności prowadzącej do unikania opodatkowania.
-Art. 119zfm. § 1. Zainteresowany niebędący podmiotem, który unikał opodatkowania, może w terminie 3 miesięcy od dnia doręczenia decyzji skorygować deklarację, uwzględniając treść tej decyzji, a także na jej podstawie w tym terminie wystąpić z wnioskiem o stwierdzenie nadpłaty lub zwrot podatku, jeżeli zainteresowany, który unikał opodatkowania:
-1) cofnął zgodnie z art. 119zfk § 1 lub 2 skutki unikania opodatkowania oraz
-2) wpłacił na rachunek właściwego organu podatkowego kwotę wynikającą ze złożonej korekty deklaracji lub informacji zastępczej wraz z odsetkami za zwłokę.
-§ 2. Do zainteresowanego, o którym mowa w § 1, przepisy art. 119j § 4 i 5 stosuje się odpowiednio.
-Art. 119zfma. § 1. Jeżeli korzyść podatkowa jest osiągana cyklicznie w związku z czynnością określoną w art. 119zfd § 1 pkt 1 lit. a w okresach rozliczeniowych następujących po okresie rozliczeniowym, którego dotyczyła decyzja, a w treści tej decyzji, w zakresie tej korzyści podatkowej, określono na skutek wniosku, o którym mowa w art. 119zfd § 1a, sposób cofnięcia skutków unikania opodatkowania w tych okresach, zainteresowany może, uwzględniając treść tej decyzji, cofnąć skutki unikania opodatkowania także w zakresie tej korzyści poprzez złożenie deklaracji, korekty deklaracji lub informacji zastępczej.
-§ 2. Do uprawnienia określonego w § 1 nie stosuje się przepisów art. 93, art. 93a oraz art. 93c.
-§ 3. Cofnięcie skutków unikania opodatkowania w sytuacji określonej w § 1 wywołuje skutki prawne, jeżeli:
-1) zainteresowany cofnął skutki unikania opodatkowania w zakresie korzyści podatkowej, o której mowa w art. 119zfa § 3, na zasadach określonych w art. 119zfk § 1 lub 2 oraz
-2) zainteresowany do dnia złożenia deklaracji, korekty deklaracji lub informacji zastępczej zawiadomi Szefa Krajowej Administracji Skarbowej, organ podatkowy przyjmujący deklarację, korektę deklaracji lub informację zastępczą oraz zainteresowanego niebędącego podmiotem, który unikał opodatkowania, o zamiarze skorzystania z uprawnienia określonego w § 1, podając jednocześnie wysokość korzyści podatkowej, sposób jej obliczenia oraz dane identyfikujące decyzję, oraz
-3) deklaracja, korekta deklaracji lub informacja zastępcza została złożona niepóźniej niż 12 miesięcy od dnia zakończenia okresu rozliczeniowego, w którym została osiągnięta korzyść podatkowa, oraz
-4) w terminie 3 miesięcy od dnia złożenia deklaracji, korekty deklaracji lub informacji zastępczej zainteresowanemu nie zostanie doręczona decyzja stwierdzająca wygaśnięcie decyzji, o której mowa w § 1.
-§ 4. Do cofnięcia skutków unikania opodatkowania na zasadach określonych w § 1–3 stosuje się odpowiednio przepisy art. 119j § 4 i 5, art. 119zfk § 3 i 4, art. 119zfl oraz odpowiednio art. 119zfm § 1, z tym że termin, o którym mowa w tym przepisie, liczy się od dnia doręczenia zawiadomienia określonego w § 3 pkt 2.
-Art. 119zfn. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14b § 4, art. 14i § 2, art. 14r § 2 i 3, art. 119gc, art. 119h § 3, art. 119i, art. 119m § 1, art. 119s § 2, art. 119u i art. 119x § 5 oraz działu IV, z wyłączeniem art. 133, a także przepisy art. 45, art. 46, art. 49 i art. 51 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
-Art. 119zfo. Szef Krajowej Administracji Skarbowej może, w drodze decyzji, nałożyć karę pieniężną w wysokości do 10 000 zł na podmiot, który pomimo prawidłowego wezwania w wyznaczonym terminie nie przekazał w postępowaniu określonym w niniejszym rozdziale posiadanych informacji albo danych, o których mowa w art. 49 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, lub przekazał je w niepełnym zakresie.
-Art. 119zfp. § 1. Zainteresowany może zwrócić się do Szefa Krajowej Administracji Skarbowej o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego.
-§ 2. Zainteresowanym, o którym mowa w § 1, jest zainteresowany w rozumieniu art. 14t.
-§ 3. Wniosek o opinię zabezpieczającą w sprawie opodatkowania wyrównawczego może dotyczyć czynności planowanej lub rozpoczętej i niezakończonej.
-Art. 119zfq. § 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego powinien zawierać dane istotne dla określenia podatkowych skutków czynności, o których mowa w art. 119zfp § 3, oraz zastosowania do tych czynności art. 119a § 1, w tym:
-1) dane identyfikujące wnioskodawcę;
-2) wskazanie podmiotów dokonujących czynności, o których mowa w art. 119zfp § 3;
-3) wyczerpujący opis czynności, o których mowa w art. 119zfp § 3, wraz ze wskazaniem występujących pomiędzy podmiotami powiązań w rozumieniu art.
-23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
-4) NSP w rozumieniu przepisów działu III rozdziału 11a odnoszący się do uzgodnienia albo wyjaśnienie, z jakich powodów faktycznych lub prawnych uzgodnienie nie podlegało zgłoszeniu w celu nadania NSP;
-5) wskazanie celów, których realizacji mają służyć czynności, o których mowa w art. 119zfp § 3;
-6) wskazanie ekonomicznego lub gospodarczego uzasadnienia czynności, o których mowa w art. 119zfp § 3;
-7) określenie skutków podatkowych, w tym korzyści podatkowych, będących rezultatem czynności, o których mowa w art. 119zfp § 3, objętych wnioskiem;
-8) wskazanie innych niż w pkt 7 korzyści podatkowych, niepodlegających ocenie określonej w art. 119za pkt 2, których osiągnięcie jest uzależnione pośrednio od dokonania czynności, o których mowa w art. 119zfp § 3;
-9) wskazanie innych czynności, o których mowa w art. 119zfp § 3, od których pośrednio jest uzależnione osiągnięcie korzyści podatkowych, o których mowa w pkt 7 i 8;
-10) przedstawienie własnego stanowiska w sprawie;
-11) inne dane, w tym:
-a) dane identyfikacyjne jednostek lub jednostek składowych w rozumieniu odpowiednio art. 2 ust. 1 pkt 11 i 20 ustawy o opodatkowaniu wyrównawczym, uczestniczących w czynnościach, o których mowa w art.
-119zfp § 3, w tym: – numery ich identyfikacji podatkowej, a jeżeli te numery nie zostały nadane inne numery identyfikacyjne wraz z określeniem ich rodzaju, – dane dotyczące miejsca ich siedziby lub zarządu, – dane dotyczące przedmiotu prowadzonej przez nie działalności,
-b) wskazanie jurysdykcji w rozumieniu art. 2 ust. 1 pkt 22 ustawy o opodatkowaniu wyrównawczym, w których jednostki lub jednostki składowe uczestniczące w czynnościach, o których mowa w art. 119zfp § 3, są zlokalizowane,
-c) rodzaje jednostek lub jednostek składowych, których dotyczy wniosek,
-d) informację na temat ogólnej struktury korporacyjnej grupy w rozumieniu art. 2 ust. 1 pkt 6 ustawy o opodatkowaniu wyrównawczym, w tym w zakresie udziałów konsolidujących w rozumieniu art. 2 ust. 1 pkt 42 ustawy o opodatkowaniu wyrównawczym w jednostkach składowych tej grupy będących w posiadaniu innych jednostek składowych tej grupy,
-e) opis podstawowej działalności wnioskodawcy, w tym: – wskazanie przedmiotu prowadzonej działalności, – opis strategii gospodarczej,
-f) opis przyjętych zasad lub polityki rachunkowości w zakresie, w jakim mają one zastosowanie do czynności, o których mowa w art. 119zfp § 3, stosowanych przez wnioskodawcę i pozostałe jednostki składowe uczestniczące w tych czynnościach,
-g) wskazanie umów, porozumień wewnątrzgrupowych lub innych dokumentów dotyczących czynności, o których mowa w art. 119zfp § 3,
-h) wskazanie innych dokumentów lub informacji niezbędnych do dokonania oceny stanowiska wnioskodawcy.
-§ 2. Do wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego może być załączona dokumentacja dotycząca czynności, o których mowa w art. 119zfp § 3, w szczególności oryginały lub kopie umów, porozumień wewnątrzgrupowych lub innych dokumentów, lub ich projektów.
-§ 3. Szef Krajowej Administracji Skarbowej wzywa wnoszącego wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, który nie spełnia wymogów określonych w § 1 lub innych wymogów określonych w przepisach prawa, do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania, z pouczeniem, że niewypełnienie tego warunku spowoduje pozostawienie wniosku bez rozpatrzenia.
-§ 4. Szef Krajowej Administracji Skarbowej może zwrócić się do zainteresowanego o wyjaśnienie wątpliwości co do treści wniosku o opinię zabezpieczającą w sprawie opodatkowania wyrównawczego lub zorganizować z zainteresowanym spotkanie uzgodnieniowe w celu wyjaśnienia tych wątpliwości.
-§ 5. Ze spotkania uzgodnieniowego sporządza się protokół.
-Art. 119zfr. § 1. Szef Krajowej Administracji Skarbowej wydaje opinię zabezpieczającą w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, nie ma zastosowania przepis art. 119a § 1.
-§ 2. Szef Krajowej Administracji Skarbowej odmawia wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a § 1. Odmawiając wydania opinii zabezpieczającej, wskazuje się okoliczności świadczące o tym, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a § 1.
-§ 3. Odmowa wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego zawiera pouczenie o prawie wniesienia skargi do sądu administracyjnego.
-Art. 119zfs. Złożenie wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego nie stanowi przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celnoskarbowej.
-Art. 119zft. Opinia zabezpieczająca w sprawie opodatkowania wyrównawczego zawiera w szczególności:
-1) wyczerpujący opis czynności, o których mowa w art. 119zfp § 3, których dotyczył wniosek;
-2) ocenę, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, nie ma zastosowania przepis art.
-119a § 1;
-3) pouczenie o prawie wniesienia skargi do sądu administracyjnego.
-Art. 119zfu. § 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego załatwia się bez zbędnej zwłoki, niepóźniej niż w terminie 12 miesięcy od dnia otrzymania wniosku przez Szefa Krajowej Administracji Skarbowej.
-§ 2. Do terminu określonego w § 1 nie wlicza się terminów i okresów, o których mowa w art. 139 § 4.
-Art. 119zfv. § 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego podlega opłacie w wysokości 65 000 zł, którą należy wpłacić w terminie 7 dni od dnia złożenia wniosku.
-§ 2. Opłata podlega zwrotowi w przypadku:
-1) wycofania wniosku w terminie 6 miesięcy od dnia jego złożenia – w połowie;
-2) uiszczenia jej w wysokości większej od należnej – w odpowiedniej części.
-§ 3. W przypadku, o którym mowa w § 2, zwrot opłaty następuje niepóźniej niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego.
-§ 4. Koszty postępowania, o których mowa w art. 265 § 1 pkt 1 i 3, obciążają wnioskodawcę.
-Art. 119zfw. Szef Krajowej Administracji Skarbowej może, z urzędu, zmienić wydaną opinię zabezpieczającą w sprawie opodatkowania wyrównawczego albo odmowę wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli jest ona sprzeczna z orzecznictwem Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
-Art. 119zfx. § 1. Na podstawie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego lub odmowy wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego sporządza się informację, którą niezwłocznie zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-§ 2. Informacja, o której mowa w § 1, zawiera w szczególności zwięzły opis czynności będących przedmiotem opinii zabezpieczającej w sprawie opodatkowania wyrównawczego oraz wyjaśnienie powodów podjętego rozstrzygnięcia. Informacja nie może zawierać danych identyfikujących lub pozwalających na zidentyfikowanie zainteresowanego lub innych podmiotów wskazanych w jej treści.
-Art. 119zfy. § 1. Szef Krajowej Administracji Skarbowej zasięga opinii organu właściwego w sprawie porozumienia inwestycyjnego, jeżeli:
-1) okoliczności przedstawione we wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego świadczą, że do korzyści podatkowej wskazanej we wniosku, wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie zawarte porozumienie inwestycyjne w zakresie, o którym mowa w art. 20zt pkt 2a, albo w zakresie tej korzyści podatkowej organ właściwy w sprawie porozumienia odmówił zawarcia tego porozumienia lub
-2) zainteresowany jest stroną postępowania w przedmiocie zawarcia porozumienia inwestycyjnego w zakresie czynności opisanych we wniosku.
-§ 2. Jeżeli z opinii organu właściwego w sprawie porozumienia inwestycyjnego wynika, że istnieją przeszkody do rozpatrzenia wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, Szef Krajowej Administracji Skarbowej odmawia wszczęcia postępowania w sprawie wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego.
-§ 3. Do zasięgnięcia opinii organu właściwego w sprawie porozumienia inwestycyjnego przepisy art. 209 § 1–4 i 6 stosuje się odpowiednio.
-Art. 119zfz. Jeżeli postępowanie w sprawie wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego stało się bezprzedmiotowe, w szczególności w przypadku wycofania wniosku o jej wydanie albo wydania decyzji z zastosowaniem art. 119a § 1 w zakresie objętym wnioskiem o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, przepisy art. 208 oraz art. 210–212 stosuje się odpowiednio.
-Art. 119zfza. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 119zfq § 1, który zawiera dane określone w tych przepisach oraz oświadczenie wskazane w art. 14u § 3, a także umożliwia wskazanie dokumentacji, o której mowa w art. 119zfq § 2, jak również sposób uiszczenia opłaty, o której mowa w art. 119zfv, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców.
-Art. 119zfzb. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14u § 3 i 4, art. 14y § 2, art. 14za § 5, art. 14zd § 1 pkt 2 i § 4–6, art. 14zi, art. 120, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3, 3b i 9, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 171, art. 187 § 3, art. 189 § 3, art. 197 § 1 i 3, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16 i 23.
-Art. 119zg. Ilekroć w niniejszym dziale jest mowa o:
-1) banku – rozumie się przez to:
-a) bank krajowy w rozumieniu art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38, 176, 331 i 340),
-b) oddział instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 18 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe,
-c) oddział banku zagranicznego w rozumieniu art. 4 ust. 1 pkt 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
-2) blokadzie rachunku podmiotu kwalifikowanego – rozumie się przez to czasowe uniemożliwienie dysponowania środkami pieniężnymi zgromadzonymi na rachunku podmiotu kwalifikowanego prowadzonym przez bank lub spółdzielczą kasę oszczędnościowo-kredytową i korzystania z tych środków;
-3) izbie rozliczeniowej – rozumie się przez to izbę rozliczeniową, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, która w roku kalendarzowym poprzedzającym o 2 lata rok kalendarzowy, w którym będą wykonywane obowiązki określone w niniejszym dziale, rozliczyła największą liczbę poleceń przelewu w złotych ze wszystkich izb rozliczeniowych działających na podstawie tego przepisu;
-3a) pełnomocniku do rachunku podmiotu kwalifikowanego – rozumie się przez to osobę umocowaną do składania dyspozycji dotyczących rachunku podmiotu kwalifikowanego, wpłat gotówkowych na rachunek podmiotu kwalifikowanego lub wypłat gotówkowych z rachunku podmiotu kwalifikowanego, w imieniu jego posiadacza, w tym przy użyciu karty płatniczej w rozumieniu art. 2 pkt 15a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych wydanej do rachunku podmiotu kwalifikowanego;
-4) podmiocie kwalifikowanym – rozumie się przez to:
-a) osobę fizyczną będącą przedsiębiorcą w rozumieniu art. 4 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców,
-b) osobę fizyczną prowadzącą działalność zarobkową na własny rachunek, która nie jest przedsiębiorcą w rozumieniu ustawy, o której mowa w lit. a,
-c) osobę prawną,
-d) jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną;
-5) rachunku podmiotu kwalifikowanego – rozumie się przez to:
-a) rachunek rozliczeniowy, o którym mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, podmiotu kwalifikowanego,
-b) rachunek lokaty terminowej podmiotu kwalifikowanego,
-c) rachunek członka spółdzielczej kasy oszczędnościowo-kredytowej będącego podmiotem kwalifikowanym,
-d) rachunek VAT w rozumieniu art. 2 pkt 37 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług prowadzony dla rachunku, o którym mowa w lit. a albo c;
-6) STIR – rozumie się przez to system teleinformatyczny izby rozliczeniowej spełniający minimalne wymagania dla systemów teleinformatycznych określone w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r.
-o informatyzacji działalności podmiotów realizujących zadania publiczne;
-7) transakcji – rozumie się przez to uznanie lub obciążenie rachunku podmiotu kwalifikowanego na podstawie dyspozycji jego posiadacza lub osób trzecich;
-8) wskaźniku ryzyka – rozumie się przez to wskaźnik wykorzystywania działalności banków i spółdzielczych kas oszczędnościowo-kredytowych do celów mających związek z wyłudzeniami skarbowymi;
-9) wyłudzeniach skarbowych – rozumie się przez to:
-a) przestępstwa skarbowe, o których mowa w art. 54 § 1 i 2, art. 55 § 1 i 2, art.
-56 § 1 i 2, art. 62 § 1–2a oraz art. 76 § 1 i 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy,
-b) przestępstwa, o których mowa w art. 270a § 1 i 2, art. 271a § 1 i 2 oraz art.
-277a § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r.
-poz. 383, 1818 i 1872),
-c) przestępstwa, o których mowa w art. 258 § 1–3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, mające na celu popełnienie przestępstw skarbowych, o których mowa w lit. a, lub przestępstw, o których mowa w lit. b.
-Art. 119zh. Przepisów niniejszego działu nie stosuje się do rachunków:
-1) podmiotów kwalifikowanych prowadzonych przez Narodowy Bank Polski;
-2) banków spółdzielczych prowadzonych przez bank zrzeszający w rozumieniu art.
-2 pkt 2 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2025 r. poz.
-265 i 1191 oraz z 2026 r. poz. 331);
-3) banków prowadzonych przez inne banki;
-4) spółdzielczych kas oszczędnościowo-kredytowych prowadzonych przez Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową;
-5) spółdzielczych kas oszczędnościowo-kredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej prowadzonych przez banki;
-6) Skarbu Państwa;
-7) Narodowego Funduszu Zdrowia;
-8) Zakładu Ubezpieczeń Społecznych;
-9) Bankowego Funduszu Gwarancyjnego.
-Art. 119zha. § 1. STIR służy do:
-1) odbioru i przetwarzania danych w celu ustalenia wskaźnika ryzyka;
-2) przekazywania danych i informacji o wskaźniku ryzyka do Centralnego Rejestru Danych Podatkowych oraz do systemów teleinformatycznych banków i spółdzielczych kas oszczędnościowo-kredytowych;
-3) pośredniczenia w przekazywaniu danych, informacji i żądań pomiędzy Szefem Krajowej Administracji Skarbowej a bankami oraz spółdzielczymi kasami oszczędnościowo-kredytowymi;
-4) pośredniczenia w przekazywaniu przez instytucje zobowiązane, o których mowa w art. 3 pkt 2 ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej (Dz. U. z 2023 r. poz. 180), informacji rejestrowanych, o których mowa w tej ustawie, do Systemu Informacji Finansowej.
-§ 2. STIR może być wykorzystywany również w przypadku, gdy odrębne przepisy umożliwiają wykorzystywanie do realizacji celów określonych w tych przepisach systemu teleinformatycznego bez wskazania podmiotu prowadzącego ten system.
-§ 3. Warunkiem wykorzystywania STIR w przypadku, o którym mowa w § 2, jest zawarcie porozumienia pomiędzy ministrem właściwym do spraw finansów publicznych lub Szefem Krajowej Administracji Skarbowej a izbą rozliczeniową określającego sposób wykorzystywania STIR do przetwarzania danych lub informacji określonych w przepisach, o których mowa w § 2. Porozumienie może również określać sposób finansowania kosztów związanych z wykorzystaniem STIR.
-Art. 119zhb. § 1. Minister właściwy do spraw finansów publicznych może zlecać izbie rozliczeniowej dokonanie analizy skutków zachodzących zjawisk gospodarczych, w tym w szczególności ich wpływu na płynność finansową przedsiębiorców i innych podmiotów.
-§ 2. W zleceniu, o którym mowa w § 1, minister właściwy do spraw finansów publicznych wskazuje zakres danych, o których mowa w § 3, podlegających przekazaniu oraz sposób i termin ich przekazania.
-§ 3. Izba rozliczeniowa dokonuje nieodpłatnie analizy, o której mowa w § 1, na podstawie posiadanych danych, w tym danych, o których mowa w art. 119zu § 1, i danych przetwarzanych w systemach płatności w rozumieniu art. 1 pkt 1 ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2024 r. poz. 585 oraz z 2026 r. poz. 340).
-Art. 119zi. § 1. Czynności związane z realizacją obowiązków izby rozliczeniowej, o których mowa w niniejszym dziale, mogą być wykonywane wyłącznie przez jej upoważnionych pracowników.
-§ 2. Izba rozliczeniowa może zlecić wykonywanie czynności związanych z technicznym utrzymaniem, naprawą lub zmianą funkcjonalności STIR przedsiębiorcy zapewniającemu bezpieczne i prawidłowe ich wykonywanie. Zlecenie wykonywania tych czynności następuje na podstawie umowy zawierającej listę pracowników przedsiębiorcy wyznaczonych do wykonywania czynności związanych z dostępem do STIR, w tym algorytmów, o których mowa w art. 119zn § 3, zawartej na piśmie po zasięgnięciu opinii Szefa Krajowej Administracji Skarbowej.
-§ 3. W celu zachowania tajemnicy prawnie chronionej wykonywanie przez przedsiębiorcę lub jego pracowników czynności, o których mowa w § 2, związanych z dostępem do STIR, w tym algorytmów, o których mowa w art. 119zn § 3, odbywa się pod nadzorem izby rozliczeniowej, w posiadanych przez nią lokalach na obszarze województwa, w którym jest położona jej siedziba, i nie może powodować przetwarzania danych poza STIR.
-§ 4. Zlecenie wykonywania czynności, o których mowa w § 2, nie może obejmować:
-1) prowadzenia STIR ani przetwarzania danych w STIR;
-2) ustalania algorytmów, o których mowa w art. 119zn § 3;
-3) ustalania wskaźnika ryzyka.
-§ 5. Izba rozliczeniowa zawiadamia Szefa Krajowej Administracji Skarbowej o zamiarze zawarcia lub zmiany umowy, o której mowa w § 2, zawarciu takiej umowy i jej zmianach. Izba rozliczeniowa przedstawia Szefowi Krajowej Administracji Skarbowej odpowiednio projekt umowy lub jej zmian oraz zawartą umowę lub dokonane zmiany.
-§ 6. Szef Krajowej Administracji Skarbowej może żądać od izby rozliczeniowej:
-1) przedstawienia informacji i dokumentów dotyczących umowy, o której mowa w § 2, jej projektu lub projektu jej zmian lub informacji i dokumentów dotyczących przedsiębiorcy, który jest lub ma być jej stroną;
-2) złożenia wyjaśnień dotyczących realizacji umowy, o której mowa w § 2;
-3) dostarczenia opisu rozwiązań technicznych i organizacyjnych, zapewniających bezpieczne i prawidłowe wykonywanie zleconych czynności, o których mowa w § 2, w szczególności ochronę tajemnicy prawnie chronionej, algorytmów, o których mowa w art. 119zn § 3, i wskaźników ryzyka.
-§ 7. Szef Krajowej Administracji Skarbowej nakazuje na piśmie izbie rozliczeniowej niezwłoczne podjęcie działań zmierzających do zmiany lub rozwiązania umowy, o której mowa w § 2, jeżeli wykonanie umowy zagraża bezpiecznemu lub prawidłowemu wykonywaniu przez izbę rozliczeniową obowiązków, o których mowa w niniejszym dziale, w szczególności nie zapewnia właściwej ochrony tajemnicy prawnie chronionej, algorytmów, o których mowa w art.
-119zn § 3, ani wskaźników ryzyka.
-§ 8. Pracownicy izby rozliczeniowej oraz przedsiębiorca, o którym mowa w § 2, i jego pracownicy są obowiązani do zachowania w tajemnicy:
-1) algorytmów, o których mowa w art. 119zn § 3;
-2) informacji o wskaźniku ryzyka;
-3) informacji i zestawień, o których mowa w art. 119zp § 1, art. 119zq i art. 119zs § 1;
-4) informacji objętych żądaniami Szefa Krajowej Administracji Skarbowej, o których mowa w art. 119zo § 9, art. 119zv § 3, art. 119zw § 3 i art. 119zz § 2;
-5) informacji rejestrowanych, o których mowa w ustawie z dnia 1 grudnia 2022 r.
-o Systemie Informacji Finansowej.
-Art. 119zj. § 1. W celu umożliwienia przedstawicielowi Szefa Krajowej Administracji Skarbowej obecności przy dokonywaniu czynności, o których mowa w art. 119zi § 3, izba rozliczeniowa zawiadamia, z odpowiednim wyprzedzeniem, Szefa Krajowej Administracji Skarbowej o terminie wykonywania tych czynności.
-§ 2. W nagłych wypadkach, w szczególności w przypadku wystąpienia awarii lub problemów technicznych, izba rozliczeniowa zawiadamia Szefa Krajowej Administracji Skarbowej o planowanym terminie wykonania czynności niezwłocznie po zawiadomieniu o zaistniałym zdarzeniu przedsiębiorcy, o którym mowa w art.
-119zi § 2.
-§ 3. Niestawienie się przedstawiciela Szefa Krajowej Administracji Skarbowej nie wstrzymuje wykonywania czynności, jeżeli Szef Krajowej Administracji Skarbowej został zawiadomiony zgodnie z § 1 lub 2.
-§ 4. Izba rozliczeniowa prowadzi i przechowuje w swojej siedzibie rejestr czynności, o których mowa w art. 119zi § 3.
-§ 5. Czynność jest wpisywana do rejestru, o którym mowa w § 4, niezwłocznie po jej zakończeniu, ze wskazaniem daty i godziny jej dokonania, osób obecnych przy jej dokonaniu oraz jej opisu.
-§ 6. Rejestr, o którym mowa w § 4, jest udostępniany Szefowi Krajowej Administracji Skarbowej na jego żądanie.
-Art. 119zk. § 1. Przekazywanie danych, informacji i żądań, o których mowa w niniejszym dziale, z systemu teleinformatycznego banku i spółdzielczej kasy oszczędnościowo-kredytowej do STIR, ze STIR do Centralnego Rejestru Danych Podatkowych oraz z Centralnego Rejestru Danych Podatkowych do systemu teleinformatycznego banku i spółdzielczej kasy oszczędnościowo-kredytowej następuje automatycznie i niezwłocznie za pośrednictwem STIR.
-§ 2. Przekazywanie danych, informacji i żądań, o których mowa w niniejszym dziale, pomiędzy zrzeszonymi bankami spółdzielczymi i spółdzielczymi kasami oszczędnościowo-kredytowymi a STIR może następować za pośrednictwem systemów teleinformatycznych odpowiednio banku zrzeszającego w rozumieniu art. 2 pkt 2 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających albo Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej.
-§ 3. W przypadku gdy bank lub spółdzielcza kasa oszczędnościowo-kredytowa korzysta z systemu płatności izby rozliczeniowej za pośrednictwem innego banku lub innej spółdzielczej kasy oszczędnościowo-kredytowej, przekazywanie danych, informacji i żądań, o których mowa w niniejszym dziale, pomiędzy tym bankiem lub spółdzielczą kasą oszczędnościowo-kredytową a STIR może następować za pośrednictwem odpowiednio tego innego banku lub tej innej spółdzielczej kasy oszczędnościowo-kredytowej. Bank oraz spółdzielcza kasa oszczędnościowokredytowa są obowiązani pośredniczyć w przekazywaniu tych danych, informacji i żądań również po zaprzestaniu pośredniczenia w korzystaniu z systemu płatności izby rozliczeniowej, do czasu gdy przekazywanie tych danych, informacji i żądań nie będzie realizowane za pośrednictwem innego banku lub innej spółdzielczej kasy oszczędnościowo-kredytowej.
-§ 4. W uzasadnionych przypadkach Szef Krajowej Administracji Skarbowej może przekazać dane, informacje i żądania, o których mowa w niniejszym dziale, bezpośrednio bankom lub spółdzielczym kasom oszczędnościowo-kredytowym, wskazując sposób oraz termin ich przesłania.
-Art. 119zl. § 1. Do biegu terminów, o których mowa w niniejszym dziale, z wyjątkiem art. 119zw § 1 i art. 119zzb § 5 pkt 2, nie wlicza się sobót ani dni ustawowo wolnych od pracy.
-§ 2. W przypadkach, o których mowa w art. 119zn § 2, art. 119zo § 1 i art. 119zq, czynności określone w tych przepisach są wykonywane także w soboty oraz dni ustawowo wolne od pracy.
-Art. 119zm. § 1. Zawiadomienie o uzasadnionym podejrzeniu popełnienia wyłudzenia skarbowego dokonywane przez Szefa Krajowej Administracji Skarbowej zawiera w szczególności:
-1) imię i nazwisko, numer PESEL lub numer identyfikacji podatkowej oraz adres miejsca zamieszkania osoby podejrzewanej o popełnienie wyłudzenia skarbowego,
-2) dane identyfikacyjne podmiotu kwalifikowanego, jeżeli posiadane informacje wskazują na wykorzystywanie tych danych do działalności w zakresie wyłudzeń skarbowych, w szczególności firmę, nazwę albo imię i nazwisko osoby fizycznej, o której mowa w art. 119zg pkt 4 lit. b, numer identyfikacyjny REGON, numer identyfikacji podatkowej oraz adres siedziby lub adres miejsca zamieszkania,
-3) numer rachunku podmiotu kwalifikowanego objętego zawiadomieniem, ze wskazaniem waluty, w której rachunek podmiotu kwalifikowanego jest prowadzony, oraz formy i miejsca jego otwarcia,
-4) imię i nazwisko, numer PESEL lub numer identyfikacji podatkowej oraz adres miejsca zamieszkania pełnomocnika do rachunku podmiotu kwalifikowanego objętego zawiadomieniem, jeżeli został ustanowiony,
-5) strony i kwoty transakcji dokonanych lub zleconych z wykorzystaniem rachunku podmiotu kwalifikowanego objętego zawiadomieniem oraz informacje o saldach i obrotach na tym rachunku podmiotu kwalifikowanego,
-6) informacje o blokadach rachunku podmiotu kwalifikowanego i zajęciach rachunku podmiotu kwalifikowanego objętego zawiadomieniem,
-7) informacje podatkowe dotyczące podmiotu kwalifikowanego objętego zawiadomieniem, w szczególności dane o jego rejestracji jako podatnika podatku od towarów i usług, złożonych deklaracjach podatkowych i uzyskanych zwrotach podatku – jeżeli znajdują się w posiadaniu Szefa Krajowej Administracji Skarbowej.
-§ 2. Prokurator, Policja albo inny właściwy organ uprawniony do prowadzenia postępowania przygotowawczego, który otrzymał zawiadomienie, o którym mowa w § 1, może żądać uzupełnienia informacji, także w toku czynności podejmowanych na podstawie art. 307 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2026 r. poz. 490 i 421).
-Art. 119zma. (uchylony)
-Art. 119zn. § 1. Szef Krajowej Administracji Skarbowej dokonuje analizy ryzyka wykorzystywania działalności banków i spółdzielczych kas oszczędnościowokredytowych do celów mających związek z wyłudzeniami skarbowymi, uwzględniając posiadane dane, w tym wskaźnik ryzyka oraz informacje i zestawienia, o których mowa w art. 119zq oraz art. 119zs.
-§ 2. Wskaźnik ryzyka ustala izba rozliczeniowa w STIR nierzadziej niż raz dziennie, opierając się na zautomatyzowanym przetwarzaniu, jeżeli zachowane są cele i warunki określone w niniejszym dziale.
-§ 3. Wskaźnik ryzyka jest ustalany w odniesieniu do podmiotu kwalifikowanego na podstawie opracowanych przez izbę rozliczeniową algorytmów, uwzględniających najlepsze praktyki sektora bankowego i spółdzielczych kas oszczędnościowokredytowych w zakresie przeciwdziałania wykorzystywaniu ich działalności do przestępstw oraz przestępstw skarbowych, a także:
-1) kryteria ekonomiczne – polegające na ocenie dokonywanej przez podmiot kwalifikowany transakcji za pomocą rachunku podmiotu kwalifikowanego w otoczeniu gospodarczym, w szczególności pod względem celu prowadzonej przez niego działalności gospodarczej, lub dokonywaniu transakcji nieuzasadnionych charakterem prowadzonej działalności;
-2) kryteria geograficzne – polegające na dokonywaniu transakcji z podmiotami z państw, w których występuje wysokie zagrożenie wyłudzeń skarbowych;
-3) kryteria przedmiotowe – polegające na prowadzeniu przez podmiot kwalifikowany działalności gospodarczej wysokiego ryzyka z punktu widzenia podatności na wyłudzenia skarbowe;
-4) kryteria behawioralne – polegające na nietypowym, w danej sytuacji, zachowaniu podmiotu kwalifikowanego;
-5) kryteria powiązań – polegające na istnieniu powiązań podmiotu kwalifikowanego z podmiotami, co do których występuje ryzyko, że uczestniczą w działaniach mających związek z wyłudzeniami skarbowymi lub organizują takie działania.
-§ 4. Najlepsze praktyki, o których mowa w § 3, mogą być zgłaszane izbie rozliczeniowej przez banki i spółdzielcze kasy oszczędnościowo-kredytowe wskazane odpowiednio przez bankowe izby gospodarcze, o których mowa w art. 121 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, oraz Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową.
-§ 5. Przetwarzanie, o którym mowa w § 2, może opierać się na danych osobowych ujawniających pochodzenie rasowe lub etniczne oraz danych biometrycznych, jeżeli zachowane są cele i warunki określone w niniejszym dziale.
-Art. 119zo. § 1. Izba rozliczeniowa przekazuje informacje o wskaźniku ryzyka wyłącznie:
-1) Szefowi Krajowej Administracji Skarbowej;
-2) bankowi i spółdzielczej kasie oszczędnościowo-kredytowej – w zakresie rachunków podmiotów kwalifikowanych prowadzonych przez:
-a) ten bank albo tę spółdzielczą kasę oszczędnościowo-kredytową,
-b) inne banki i spółdzielcze kasy oszczędnościowo-kredytowe – w przypadku otwierania pierwszego rachunku dla podmiotu kwalifikowanego przez ten bank albo tę spółdzielczą kasę oszczędnościowo-kredytową.
-§ 1a. W przypadku, o którym mowa w § 1 pkt 1 i pkt 2 lit. a, informacja o wskaźniku ryzyka jest przekazywana niezwłocznie po jego ustaleniu, nierzadziej niż raz dziennie, chyba że wskaźnik ryzyka i istotność wpływu na ten wskaźnik poszczególnych kryteriów uwzględnianych przy jego ustalaniu nie uległy zmianie.
-§ 2. Informacja o wskaźniku ryzyka zawiera:
-1) dane identyfikacyjne podmiotu kwalifikowanego – firmę, nazwę albo imię i nazwisko osoby fizycznej, o której mowa w art. 119zg pkt 4 lit. b, a także jego numer identyfikacji podatkowej, numer identyfikacyjny REGON lub numer PESEL, jeżeli są dostępne;
-2) numery rachunków podmiotu kwalifikowanego;
-3) wskaźnik ryzyka i wskazanie istotności wpływu na wskaźnik ryzyka poszczególnych kryteriów uwzględnianych przy jego ustalaniu.
-§ 3. W przypadku, o którym mowa w § 1 pkt 2 lit. b, informacja o wskaźniku ryzyka jest przekazywana na wniosek banku albo spółdzielczej kasy oszczędnościowo-kredytowej zawierający co najmniej jeden z numerów, o których mowa w art. 119zr § 1 pkt 4 lit. b i c, niezwłocznie po otrzymaniu wniosku. Informacja o wskaźniku ryzyka nie zawiera wskazania istotności wpływu na wskaźnik ryzyka poszczególnych kryteriów uwzględnianych przy jego ustalaniu.
-§ 4. Banki i spółdzielcze kasy oszczędnościowo-kredytowe mogą wykorzystywać informacje o wskaźniku ryzyka wyłącznie w celu wykonywania uprawnień lub obowiązków, o których mowa w:
-1) art. 106 i art. 106a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz art.
-15 i art. 16 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2025 r. poz. 379, 820, 1069, 1170 i 1191 oraz z 2026 r. poz. 331), w tym dokonywania oceny ryzyka prania pieniędzy i finansowania terroryzmu, o której mowa w przepisach o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
-2) art. 106d ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, z tym że banki i spółdzielcze kasy oszczędnościowo-kredytowe mogą udostępniać wzajemnie informacje o wskaźniku ryzyka wyłącznie innym bankom lub spółdzielczym kasom oszczędnościowo-kredytowym.
-§ 5. Przepis § 4 nie ogranicza uprawnień banków i spółdzielczych kas oszczędnościowo-kredytowych do wykorzystywania w innych obszarach ich działalności rezultatów procedur dotyczących wykonywania uprawnień lub obowiązków wymienionych w § 4.
-§ 6. Informacje o wskaźniku ryzyka są udostępniane innym podmiotom niż wymienione w § 1 wyłącznie przez Szefa Krajowej Administracji Skarbowej na zasadach i w trybie określonych w dziale VII.
-§ 7. Informacje o wskaźniku ryzyka nie podlegają udostępnieniu podmiotom kwalifikowanym.
-§ 8. Dostęp do informacji o istotności wpływu poszczególnych kryteriów na wskaźnik ryzyka, przekazywanych bankom i spółdzielczym kasom oszczędnościowokredytowym, mają wyłącznie osoby wyznaczone do realizacji celów, o których mowa w § 4.
-§ 9. Izba rozliczeniowa udostępnia algorytmy, na podstawie których jest ustalany wskaźnik ryzyka, wyłącznie Szefowi Krajowej Administracji Skarbowej, na jego żądanie.
-§ 10. Za ustalanie wskaźnika ryzyka bank i spółdzielcza kasa oszczędnościowokredytowa ponoszą roczną opłatę na rzecz izby rozliczeniowej ustalaną ryczałtowo w odniesieniu do liczby rachunków podmiotu kwalifikowanego prowadzonych przez ten bank lub spółdzielczą kasę oszczędnościowo-kredytową. W przypadku gdy wskaźnik ryzyka ustalany jest za okres krótszy niż rok kalendarzowy, opłata ustalana jest w wysokości proporcjonalnej do liczby miesięcy, w których wskaźnik ryzyka jest ustalany.
-§ 11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość i terminy wnoszenia opłaty, o której mowa w § 10, uwzględniając koszty ustalania i przekazywania wskaźnika ryzyka, koszty wdrożenia i utrzymania STIR oraz okres, za który wskaźnik ryzyka jest ustalany.
-Art. 119zp. § 1. Banki oraz spółdzielcze kasy oszczędnościowo-kredytowe przekazują izbie rozliczeniowej:
-1) informacje o rachunkach podmiotów kwalifikowanych:
-a) otwieranych przez banki i spółdzielcze kasy oszczędnościowo-kredytowe – niezwłocznie, niepóźniej jednak niż do godziny 12.00 dnia następującego po dniu otwarcia rachunku podmiotu kwalifikowanego,
-b) prowadzonych przez banki i spółdzielcze kasy oszczędnościowo-kredytowe – niezwłocznie, niepóźniej jednak niż do godziny 12.00 dnia następującego po dniu uzyskania, zmiany lub uzupełnienia tych informacji;
-2) dzienne zestawienia transakcji dotyczących rachunków podmiotu kwalifikowanego – niezwłocznie, niepóźniej jednak niż do godziny 15.00 dnia następującego po dniu dokonania transakcji;
-3) informacje o rachunkach oszczędnościowych i rachunkach oszczędnościoworozliczeniowych prowadzonych dla osób fizycznych przez banki oraz informacje o rachunkach członków spółdzielczej kasy oszczędnościowo-kredytowej, niebędących rachunkami podmiotów kwalifikowanych, niezwłocznie, niepóźniej jednak niż do godziny 12.00 dnia następującego po dniu otwarcia rachunku.
-§ 2. W przypadkach, o których mowa w art. 119zk § 2 i 3, banki i spółdzielcze kasy oszczędnościowo-kredytowe przekazują:
-1) informacje, o których mowa:
-a) w § 1 pkt 1 lit. a – niezwłocznie, niepóźniej jednak niż do godziny 18.00 dnia następującego po dniu otwarcia rachunku podmiotu kwalifikowanego,
-b) w § 1 pkt 1 lit. b – niezwłocznie, niepóźniej jednak niż do godziny 18.00 dnia następującego po dniu uzyskania, zmiany lub uzupełnienia tych informacji,
-c) w § 1 pkt 3 – niezwłocznie, niepóźniej jednak niż do godziny 18.00 dnia następującego po dniu otwarcia rachunku;
-2) zestawienia, o których mowa w § 1 pkt 2, niezwłocznie, niepóźniej jednak niż do końca dnia następującego po dniu dokonania transakcji.
-§ 3. W przypadku stwierdzenia przez izbę rozliczeniową rozbieżności pomiędzy numerami, o których mowa w art. 119zr § 1 pkt 4 lit. b i c, a danymi, o których mowa w art. 119zu § 1 pkt 2, izba rozliczeniowa przekazuje bankowi albo spółdzielczej kasie oszczędnościowo-kredytowej informację o stwierdzonej rozbieżności, wskazując dane, których dotyczy rozbieżność.
-Art. 119zq. Izba rozliczeniowa, na podstawie informacji i zestawień, o których mowa w art. 119zp § 1, przekazuje Szefowi Krajowej Administracji Skarbowej, nierzadziej niż raz dziennie:
-1) informacje o rachunkach podmiotów kwalifikowanych prowadzonych i otwieranych przez banki i spółdzielcze kasy oszczędnościowo-kredytowe;
-2) (uchylony)
-3) dzienne zestawienia transakcji dotyczących rachunków podmiotów kwalifikowanych.
-Art. 119zr. § 1. Informacje, o których mowa w art. 119zp § 1 pkt 1 i art. 119zq pkt 1, obejmują:
-1) identyfikator banku lub spółdzielczej kasy oszczędnościowo-kredytowej;
-2) datę i godzinę wysłania danych;
-3) rodzaj rachunku podmiotu kwalifikowanego, kod waluty rachunku podmiotu kwalifikowanego, numer rachunku podmiotu kwalifikowanego w formacie Numeru Rachunku Bankowego lub inny numer – w przypadku rachunku lokaty terminowej, datę zakończenia okresu, na jaki umowa lokaty terminowej została zawarta – w przypadku rachunku lokaty terminowej, oraz datę otwarcia i zamknięcia rachunku podmiotu kwalifikowanego;
-4) dane identyfikacyjne podmiotu kwalifikowanego, jeżeli są dostępne, zawierające:
-a) firmę, nazwę albo imię i nazwisko osoby fizycznej, o której mowa w art.
-119zg pkt 4 lit. b,
-b) rodzaj prowadzonej działalności, numer w Krajowym Rejestrze Sądowym i datę rejestracji lub rozpoczęcia działalności oraz kraj rejestracji podmiotu kwalifikowanego lub rezydencji podatkowej,
-c) numer PESEL, numer identyfikacyjny REGON oraz numer identyfikacji podatkowej, a w przypadku podmiotu kwalifikowanego mającego miejsce zamieszkania, siedzibę lub zarząd w państwie lub na terytorium spoza Unii Europejskiej – EURONIP lub inny numer identyfikacji podatkowej,
-d) dane adresowe prowadzonej działalności, siedziby oraz adres korespondencyjny podmiotu kwalifikowanego zawierający kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu,
-e) numer telefonu i adres poczty elektronicznej podmiotu kwalifikowanego;
-5) dane identyfikacyjne pełnomocnika do rachunków podmiotu kwalifikowanego i reprezentanta podmiotu kwalifikowanego, a także jego beneficjenta rzeczywistego w rozumieniu art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, jeżeli są dostępne, zawierające:
-a) imię i nazwisko,
-b) numer PESEL oraz rodzaj, serię i numer dokumentu tożsamości,
-c) datę i kraj urodzenia oraz obywatelstwo,
-d) dane adresowe zawierające kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu,
-e) numer telefonu i adres poczty elektronicznej.
-§ 2. Informacje, o których mowa w art. 119zp § 1 pkt 1 i art. 119zq pkt 1, obejmują także:
-1) datę ustanowienia pełnomocnika do rachunku podmiotu kwalifikowanego i reprezentanta podmiotu kwalifikowanego;
-2) zakres umocowania pełnomocnika do rachunku podmiotu kwalifikowanego;
-3) informacje o blokadach rachunku podmiotu kwalifikowanego oraz o blokadach środków na rachunku podmiotu kwalifikowanego dokonanych na podstawie odrębnych ustaw zawierające:
-a) wskazanie, czy blokada dotyczy jednego rachunku podmiotu kwalifikowanego,
-b) kwotę blokady,
-c) termin, do którego obowiązuje blokada,
-d) organ, na żądanie którego została dokonana blokada – jeżeli są dostępne;
-4) informacje o zajęciach wierzytelności z rachunku podmiotu kwalifikowanego zawierające:
-a) wskazanie, czy zajęcie dotyczy jednego rachunku podmiotu kwalifikowanego,
-b) wskazanie, czy zajęcie zostało dokonane w postępowaniu egzekucyjnym czy w postępowaniu zabezpieczającym,
-c) kwotę należności pieniężnej, na poczet której dokonano zajęcia,
-d) organ egzekucyjny, który dokonał zajęcia – jeżeli są dostępne;
-5) wskazanie numeru rachunku VAT w rozumieniu art. 2 pkt 37 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług prowadzonego dla rachunku rozliczeniowego, o którym mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, albo rachunku członka spółdzielczej kasy oszczędnościowo-kredytowej będącego podmiotem kwalifikowanym;
-6) wskazanie, czy rachunek wymieniony w art. 119zg pkt 5 lit. a i c jest rachunkiem, o którym mowa w art. 15 ust. 1hb pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
-§ 3. Zestawienia, o których mowa w art. 119zp § 1 pkt 2 i art. 119zq pkt 3, obejmują:
-1) dane identyfikacyjne nadawcy i odbiorcy transakcji, jeżeli są dostępne, zawierające:
-a) imię i nazwisko lub nazwę,
-b) dane adresowe zawierające kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu;
-2) numer rachunku nadawcy transakcji i rachunku odbiorcy transakcji;
-3) datę obciążenia lub uznania rachunku podmiotu kwalifikowanego;
-4) kwotę i walutę transakcji;
-5) tytuł i opis transakcji;
-6) saldo początkowe i saldo końcowe zestawienia transakcji dotyczących rachunku podmiotu kwalifikowanego;
-7) dane identyfikacyjne osoby, o której mowa w § 1 pkt 5 – w przypadku gdy osoba ta złożyła dyspozycję przeprowadzenia transakcji dotyczącej rachunku podmiotu kwalifikowanego, dokonała wpłaty gotówkowej na rachunek podmiotu kwalifikowanego lub dokonała wypłaty gotówkowej z rachunku podmiotu kwalifikowanego, w imieniu jego posiadacza, w tym przy użyciu karty płatniczej w rozumieniu art. 2 pkt 15a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych wydanej do rachunku podmiotu kwalifikowanego – jeżeli są dostępne;
-8) informację o łącznej kwocie środków zajętych przez organ egzekucyjny lub zablokowanych na rachunku podmiotu kwalifikowanego;
-9) numer rachunku prowadzonego w celu automatycznej identyfikacji dyspozycji składanych z rachunku podmiotu kwalifikowanego (rachunek wirtualny), jeżeli dyspozycje dotyczą uznania takiego rachunku – w przypadku zestawień przekazywanych przez bank albo spółdzielczą kasę oszczędnościowo-kredytową prowadzące ten rachunek.
-§ 4. Informacje, o których mowa w art. 119zp § 1 pkt 3, obejmują:
-1) identyfikator banku lub spółdzielczej kasy oszczędnościowo-kredytowej;
-2) datę i godzinę przekazania informacji;
-3) kody walut rachunków, o których mowa w art. 119zp § 1 pkt 3, numery tych rachunków w formacie Numeru Rachunku Bankowego oraz daty ich otwarcia i zamknięcia.
-§ 5. Dane, o których mowa w art. 119zp § 1 oraz art. 119zq, są przekazywane w postaci elektronicznej odpowiadającej strukturze logicznej dostępnej w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-Art. 119zs. § 1. W celu weryfikacji lub uzupełnienia posiadanych przez Szefa Krajowej Administracji Skarbowej informacji niezbędnych do wykonywania zadań, o których mowa w niniejszym dziale, Szef Krajowej Administracji Skarbowej może żądać przekazania przez bank lub spółdzielczą kasę oszczędnościowo-kredytową:
-1) informacji lub zestawień innych niż przekazane na podstawie art. 119zq, przy czym przepisy art. 119zr § 1–3 stosuje się odpowiednio;
-2) (uchylony)
-3) (uchylony)
-4) adresów IP, z których:
-a) następowały logowania do usług bankowości elektronicznej umożliwiających dostęp do rachunku podmiotu kwalifikowanego wraz ze wskazaniem identyfikatora, z którego użyciem dokonano logowania, oraz daty i godziny tych logowań,
-b) zostały złożone dyspozycje przeprowadzenia transakcji dotyczących rachunku podmiotu kwalifikowanego wraz ze wskazaniem identyfikatora, z którego użyciem złożono dyspozycję, oraz daty i godziny złożenia tych dyspozycji – w przypadku gdy dyspozycje nie zostały złożone z wykorzystaniem usług bankowości elektronicznej – jeżeli są dostępne.
-§ 2. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa przekazują Szefowi Krajowej Administracji Skarbowej posiadane dane objęte żądaniem, o którym mowa w § 1, niezwłocznie, jednak niepóźniej niż w terminie 3 dni od dnia otrzymania żądania, a jeżeli dane te znajdują się w formie uniemożliwiającej ich automatyczne przetwarzanie – niepóźniej niż w terminie:
-1) 7 dni od dnia otrzymania żądania – w przypadku danych, o których mowa w § 1 pkt 1;
-2) 14 dni od dnia otrzymania żądania – w przypadku danych, o których mowa w § 1 pkt 4.
-Art. 119zt. Informacje i zestawienia, o których mowa w art. 119zp § 1 i art.
-119zq, są udzielane przez izbę rozliczeniową podmiotom innym niż Szef Krajowej Administracji Skarbowej wyłącznie na żądanie:
-1) sądu lub prokuratora – w związku z toczącym się postępowaniem o wyłudzenia skarbowe przeciwko podmiotowi kwalifikowanemu będącemu posiadaczem rachunku podmiotu kwalifikowanego;
-2) Prezesa Najwyższej Izby Kontroli – w zakresie niezbędnym do przeprowadzenia postępowania kontrolnego określonego w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623 oraz z 2026 r. poz. 26);
-3) Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa i ich posiadających sporządzone na piśmie upoważnienie funkcjonariuszy lub żołnierzy – w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
-4) Prezesa Urzędu Ochrony Danych Osobowych – w zakresie niezbędnym do realizacji ustawowych zadań określonych w przepisach o ochronie danych osobowych;
-5) Szefa Centralnego Biura Antykorupcyjnego – w zakresie niezbędnym do realizacji ustawowych zadań – za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 22a ustawy z dnia 9 czerwca 2006 r.
-o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718);
-6) Szefa Agencji Bezpieczeństwa Wewnętrznego – w zakresie niezbędnym do realizacji ustawowych zadań – za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 34 ustawy z dnia 24 maja 2002 r.
-o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U.
-z 2025 r. poz. 902 i 1366 oraz z 2026 r. poz. 26);
-6a) Komendanta Głównego Policji, Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, Komendanta Centralnego Biura Zwalczania Cyberprzestępczości, komendanta wojewódzkiego Policji albo Komendanta Stołecznego Policji – w zakresie niezbędnym do realizacji ustawowych zadań – za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r.
-poz. 187 i 421);
-6b) Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej albo komendanta oddziału Straży Granicznej – w zakresie niezbędnym do realizacji ustawowych zadań – za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 10a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2026 r. poz.
-367);
-7) Generalnego Inspektora Informacji Finansowej – w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 1 marca 2018 r.
-o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
-8) Przewodniczącego Komisji Nadzoru Finansowego – w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069 oraz z 2026 r. poz. 252).
-Art. 119zu. § 1. W celu ustalenia wskaźnika ryzyka izba rozliczeniowa przetwarza:
-1) dane przekazane na podstawie art. 119zp § 1;
-2) dane udostępnione z Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników, o których mowa w art. 15 ust. 5 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2026 r.
-poz. 151 i 507);
-2a) informacje rejestrowane, o których mowa w ustawie z dnia 1 grudnia 2022 r.
-o Systemie Informacji Finansowej;
-3) informacje dostępne publicznie.
-§ 2. (uchylony)
-§ 2a. Dane, o których mowa w § 1, izba rozliczeniowa przetwarza przy wykorzystaniu STIR również w celu:
-1) stosowania przez izbę rozliczeniową środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r.
-o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, na podstawie umowy, o której mowa w art. 48 ust. 1 tej ustawy, zawartej z bankiem, spółdzielczą kasą oszczędnościowo-kredytową lub instytucją zobowiązaną, o której mowa w art. 3 pkt 2 lit. c, d, f lub g ustawy z dnia 1 grudnia 2022 r.
-o Systemie Informacji Finansowej;
-2) wykonywania przez izbę rozliczeniową na rzecz banków, spółdzielczych kas oszczędnościowo-kredytowych lub instytucji zobowiązanych, o których mowa w art. 3 pkt 2 lit. c, d, f lub g ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej, czynności niezbędnych do zastosowania przez banki, spółdzielcze kasy oszczędnościowo-kredytowe lub inne instytucje zobowiązane, o których mowa w art. 3 pkt 2 tej ustawy, środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
-§ 3. Dane przetwarzane na podstawie przepisów niniejszego działu są przechowywane przez izbę rozliczeniową, banki, spółdzielcze kasy oszczędnościowokredytowe oraz Szefa Krajowej Administracji Skarbowej przez 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym otrzymały dane.
-§ 4. Jeżeli w okresie, o którym mowa w § 3, nie upłynął termin przedawnienia zobowiązania podatkowego, zwrotu podatku lub wyłudzenia skarbowego, w związku z którym przechowywane dane mogłyby stanowić dowód w postępowaniu, dane te mogą być przechowywane przez Szefa Krajowej Administracji Skarbowej niedłużej niż do upływu terminu przedawnienia.
-§ 5. Izba rozliczeniowa, która wykonywała obowiązki określone w niniejszym dziale, jest obowiązana do przekazania Szefowi Krajowej Administracji Skarbowej danych i informacji przechowywanych na podstawie ustawy w terminie miesiąca, licząc od ostatniego dnia realizacji tych obowiązków.
-§ 6. Szef Krajowej Administracji Skarbowej jest obowiązany do przekazania danych i informacji, o których mowa w § 5, izbie rozliczeniowej, która przejęła realizację obowiązków wynikających z niniejszego działu, w zakresie koniecznym do ustalenia wskaźnika ryzyka, w terminie miesiąca, licząc od dnia ich otrzymania.
-§ 7. Do okresu przechowywania danych, o którym mowa w § 3, przez izbę rozliczeniową, o której mowa w § 6, wlicza się okres przechowywania danych przez izbę rozliczeniową, o której mowa w § 5.
-Art. 119zv. § 1. Szef Krajowej Administracji Skarbowej może zażądać blokady rachunku podmiotu kwalifikowanego na okres niedłuższy niż 72 godziny, jeżeli posiadane informacje, w szczególności wyniki analizy ryzyka, o której mowa w art. 119zn § 1, wskazują, że podmiot kwalifikowany może wykorzystywać działalność banków lub spółdzielczych kas oszczędnościowo-kredytowych do celów mających związek z wyłudzeniami skarbowymi lub do czynności zmierzających do wyłudzenia skarbowego, a blokada rachunku podmiotu kwalifikowanego jest konieczna, aby temu przeciwdziałać.
-§ 2. Żądanie blokady rachunku podmiotu kwalifikowanego zawiera:
-1) oznaczenie numeru rachunku podmiotu kwalifikowanego;
-2) okres blokady rachunku podmiotu kwalifikowanego.
-§ 3. W przypadku, o którym mowa w § 1, Szef Krajowej Administracji Skarbowej przekazuje:
-1) bankowi lub spółdzielczej kasie oszczędnościowo-kredytowej – żądanie blokady rachunku podmiotu kwalifikowanego;
-2) właściwemu dla podmiotu kwalifikowanego naczelnikowi urzędu skarbowego, naczelnikowi urzędu celno-skarbowego oraz prokuratorowi – zawiadomienie o blokadzie rachunku podmiotu kwalifikowanego zawierające dane określone w żądaniu blokady rachunku podmiotu kwalifikowanego.
-§ 4. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa niezwłocznie po otrzymaniu żądania, o którym mowa w § 3 pkt 1:
-1) odnotowują datę i godzinę jego otrzymania;
-2) dokonują blokady rachunku podmiotu kwalifikowanego;
-3) informują Szefa Krajowej Administracji Skarbowej o:
-a) dacie i godzinie otrzymania żądania, o którym mowa w § 3 pkt 1, i dokonania blokady rachunku podmiotu kwalifikowanego oraz saldzie tego rachunku podmiotu kwalifikowanego w momencie dokonania blokady rachunku podmiotu kwalifikowanego,
-b) nieprowadzeniu rachunku podmiotu kwalifikowanego wskazanego w żądaniu, o którym mowa w § 3 pkt 1.
-§ 4a. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa nie ujawniają podmiotowi kwalifikowanemu informacji o przekazaniu żądania lub dokonaniu blokady rachunku podmiotu kwalifikowanego.
-§ 4b. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa informują podmiot kwalifikowany o przekazaniu żądania lub dokonaniu blokady rachunku podmiotu kwalifikowanego wyłącznie na jego wniosek, po uprzednim potwierdzeniu przez Szefa Krajowej Administracji Skarbowej, że wszystkie przekazane żądania blokady rachunków tego podmiotu kwalifikowanego zostały wykonane.
-§ 4c. W przypadku złożenia dyspozycji przeprowadzenia transakcji dotyczących rachunku podmiotu kwalifikowanego będącego przedmiotem blokady bank oraz spółdzielcza kasa oszczędnościowo-kredytowa niezwłocznie informują Szefa Krajowej Administracji Skarbowej o:
-1) dacie i godzinie złożenia dyspozycji;
-2) treści transakcji będącej przedmiotem dyspozycji w zakresie określonym w art.
-119zr § 3.
-§ 4d. Niezwłocznie po otrzymaniu wniosku, o którym mowa w § 4b, bank oraz spółdzielcza kasa oszczędnościowo-kredytowa informują Szefa Krajowej Administracji Skarbowej o:
-1) dacie i godzinie złożenia wniosku;
-2) adresie poczty elektronicznej, z którego złożono wniosek, jeżeli jest dostępny – w przypadku gdy wniosek został złożony za pośrednictwem poczty elektronicznej;
-3) adresie IP, z którego nastąpiło logowanie, jeżeli jest dostępny – w przypadku gdy wniosek został złożony za pośrednictwem serwisu internetowego służącego do obsługi rachunku podmiotu kwalifikowanego lub w inny sposób umożliwiający identyfikację tego adresu;
-4) numerze telefonu, za pośrednictwem którego został złożony wniosek, jeżeli jest dostępny – w przypadku gdy wniosek został złożony telefonicznie;
-5) adresie placówki banku, spółdzielczej kasy oszczędnościowo-kredytowej albo ich oddziału, w których został złożony wniosek – w przypadku gdy wniosek został złożony osobiście;
-6) adresie nadawcy, jeżeli jest dostępny – w przypadku gdy wniosek został złożony za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe.
-§ 5. Blokada rachunku podmiotu kwalifikowanego jest skuteczna również w odniesieniu do rachunku podmiotu kwalifikowanego, którego podmiot kwalifikowany jest współposiadaczem.
-§ 6. Szef Krajowej Administracji Skarbowej niezwłocznie po otrzymaniu informacji, o której mowa w § 4 pkt 3 lit. a, w odniesieniu do wszystkich żądań dotyczących podmiotu kwalifikowanego przekazanych do momentu otrzymania tej informacji, przekazuje temu podmiotowi zawiadomienie o blokadzie jego rachunku zawierające dane określone w tych żądaniach.
-§ 7. W okresie blokady rachunku podmiotu kwalifikowanego Szef Krajowej Administracji Skarbowej:
-1) może ograniczyć zakres blokady rachunku podmiotu kwalifikowanego lub
-2) uchyla blokadę, jeżeli stwierdzi, że ustała przesłanka blokady rachunku podmiotu kwalifikowanego.
-§ 8. Do ograniczenia zakresu oraz uchylenia blokady rachunku podmiotu kwalifikowanego przepisy § 2–6 stosuje się odpowiednio.
-§ 9. Minister właściwy do spraw finansów publicznych przeprowadza, nierzadziej niż raz na kwartał, kontrolę przestrzegania przepisów § 1, 2, 6 i 7 przez Szefa Krajowej Administracji Skarbowej, a w przypadku upoważnienia, zgodnie z przepisami wydanymi na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, innego organu Krajowej Administracji Skarbowej – przez ten organ.
-Art. 119zw. § 1. Szef Krajowej Administracji Skarbowej może przedłużyć, w drodze postanowienia, termin blokady rachunku podmiotu kwalifikowanego na czas oznaczony, niedłuższy jednak niż 3 miesiące, jeżeli zachodzi uzasadniona obawa, że podmiot kwalifikowany nie wykona istniejącego lub mającego powstać zobowiązania podatkowego lub zobowiązania z tytułu odpowiedzialności podatkowej osób trzecich, przekraczających równowartość 10 000 euro przeliczonych na złote według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w ostatnim dniu roboczym roku poprzedzającego rok, w którym wydano postanowienie.
-§ 2. Postanowienie, o którym mowa w § 1, zawiera:
-1) oznaczenie numeru rachunku podmiotu kwalifikowanego;
-2) zakres blokady rachunku podmiotu kwalifikowanego;
-3) oznaczenie terminu przedłużenia blokady rachunku podmiotu kwalifikowanego;
-4) uzasadnienie przedłużenia blokady rachunku podmiotu kwalifikowanego;
-5) pouczenie o treści art. 119zx, art. 119zy § 1, art. 119zz § 1, art. 119zza § 1 i art.
-119zzb.
-§ 3. Po wydaniu postanowienia, o którym mowa w § 1, Szef Krajowej Administracji Skarbowej przekazuje:
-1) bankowi lub spółdzielczej kasie oszczędnościowo-kredytowej żądanie przedłużenia terminu blokady rachunku podmiotu kwalifikowanego zawierające dane, o których mowa w § 2 pkt 1–3;
-2) właściwemu dla podmiotu kwalifikowanego naczelnikowi urzędu skarbowego, naczelnikowi urzędu celno-skarbowego oraz prokuratorowi zawiadomienie o przedłużeniu terminu blokady rachunku podmiotu kwalifikowanego zawierające dane określone w postanowieniu.
-§ 4. Żądanie przedłużenia terminu blokady rachunku podmiotu kwalifikowanego jest skuteczne, jeżeli zostanie przekazane do banku lub spółdzielczej kasy oszczędnościowo-kredytowej w okresie blokady rachunku podmiotu kwalifikowanego, o którym mowa w art. 119zv § 2 pkt 2. Przepisy art. 119zv § 4‒5 stosuje się odpowiednio.
-§ 4a. Szef Krajowej Administracji Skarbowej, niezwłocznie po otrzymaniu informacji o przedłużeniu blokady rachunku podmiotu kwalifikowanego, doręcza podmiotowi kwalifikowanemu postanowienie, o którym mowa w § 1, oraz informację o dacie i godzinie przekazania bankowi lub spółdzielczej kasie oszczędnościowokredytowej żądania przedłużenia terminu blokady rachunku podmiotu kwalifikowanego.
-§ 5. W okresie blokady rachunku podmiotu kwalifikowanego, o którym mowa w § 2 pkt 3, Szef Krajowej Administracji Skarbowej, w drodze postanowienia:
-1) może zmienić zakres blokady rachunku podmiotu kwalifikowanego;
-2) uchyla blokadę rachunku podmiotu kwalifikowanego, jeżeli stwierdzi, że ustała przesłanka blokady rachunku podmiotu kwalifikowanego.
-§ 6. Do postanowienia, o którym mowa w § 5, przepisy § 2, 3 i 4a oraz art. 119zv § 4‒5 stosuje się odpowiednio.
-Art. 119zx. W okresie blokady rachunku podmiotu kwalifikowanego wierzytelności z tego rachunku podmiotu kwalifikowanego nie mogą być przedmiotem zabezpieczenia rzeczowego.
-Art. 119zy. § 1. Na wniosek podmiotu kwalifikowanego Szef Krajowej Administracji Skarbowej może, w drodze postanowienia, wyrazić zgodę na wypłatę z zablokowanego rachunku podmiotu kwalifikowanego środków na:
-1) wynagrodzenie za pracę wypłacane na podstawie umowy o pracę zawartej co najmniej 3 miesiące przed dniem dokonania blokady rachunku podmiotu kwalifikowanego wraz z zaliczką na podatek dochodowy od osób fizycznych oraz składkami na ubezpieczenie społeczne należnymi od wypłacanego wynagrodzenia – po przedłożeniu odpisu listy płac oraz dokumentu Zakładu Ubezpieczeń Społecznych potwierdzającego zgłoszenie do ubezpieczeń społecznych z tytułu umowy o pracę;
-2) alimenty lub rentę o charakterze alimentacyjnym – po przedłożeniu tytułu stwierdzającego obowiązek podmiotu kwalifikowanego do płacenia alimentów lub renty.
-§ 2. W postanowieniu, o którym mowa w § 1, określa się wysokość środków podlegających wypłacie, w tym na rzecz pracownika oraz osoby uprawnionej do alimentów lub renty o charakterze alimentacyjnym zasądzonej tytułem odszkodowania, odpowiadającą wysokości minimalnego wynagrodzenia za pracę ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
-§ 3. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa, po uzyskaniu informacji od Szefa Krajowej Administracji Skarbowej o wyrażeniu zgody, o której mowa w § 1, dokonują wypłaty wynagrodzenia, alimentów lub renty osobie uprawnionej do tych świadczeń.
-Art. 119zz. § 1. Szef Krajowej Administracji Skarbowej może, w drodze postanowienia, wyrazić zgodę na:
-1) zapłatę zobowiązania podatkowego lub należności celnej przed terminem płatności z zablokowanego rachunku podmiotu kwalifikowanego – na wniosek podmiotu kwalifikowanego zawierający wskazanie zobowiązania podatkowego lub należności celnej, jej wysokości oraz naczelnika urzędu skarbowego właściwego do jej poboru;
-2) zwolnienie środków z zablokowanego rachunku podmiotu kwalifikowanego – na wniosek podmiotu kwalifikowanego w szczególnie uzasadnionych przypadkach.
-§ 2. Jeżeli postanowienie, o którym mowa w § 1, stało się ostateczne, Szef Krajowej Administracji Skarbowej przekazuje bankowi lub spółdzielczej kasie oszczędnościowo-kredytowej żądanie odpowiednio przekazania środków właściwemu naczelnikowi urzędu skarbowego lub zwolnienia środków z zablokowanego rachunku podmiotu kwalifikowanego, wskazując zakres zwolnienia.
-Art. 119zza. § 1. Szef Krajowej Administracji Skarbowej może, w drodze postanowienia, zwolnić środki z zablokowanego rachunku podmiotu kwalifikowanego na zapłatę zaległości podatkowej lub celnej oraz odsetek za zwłokę, w przypadku:
-1) złożenia deklaracji, korekty deklaracji lub zgłoszenia celnego;
-2) wydania ostatecznej decyzji ustalającej lub określającej wysokość zobowiązania podatkowego lub należności celnej, potwierdzającej istnienie zaległości podatkowej lub celnej;
-3) nadania rygoru natychmiastowej wykonalności decyzji ustalającej lub określającej wysokość zobowiązania podatkowego lub należności celnej, potwierdzającej istnienie zaległości podatkowej lub celnej.
-§ 2. Przepis art. 119zz § 2 stosuje się odpowiednio.
-Art. 119zzb. § 1. Na postanowienia, o których mowa w art. 119zw § 1 i 5, art.
-119zy § 1, art. 119zz § 1 oraz art. 119zza § 1, przysługuje zażalenie.
-§ 2. Zażalenie jest rozpatrywane niezwłocznie, jednak niepóźniej niż w terminie 7 dni od dnia jego otrzymania.
-§ 3. (uchylony)
-§ 4. W zakresie nieuregulowanym do postępowań, o których mowa w niniejszym rozdziale, stosuje się odpowiednio przepisy działu IV.
-§ 5. W przypadku skarg do wojewódzkiego sądu administracyjnego w sprawach, o których mowa w art. 119zw § 1 i art. 119zza § 1:
-1) przekazanie akt i odpowiedzi na skargę następuje w terminie 7 dni od dnia otrzymania skargi;
-2) rozpatrzenie skargi następuje w terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
-Art. 119zzc. § 1. Blokada rachunku podmiotu kwalifikowanego upada:
-1) z upływem okresu określonego w żądaniu, o którym mowa w art. 119zv § 2 pkt 2, jeżeli nie przedłużono terminu blokady rachunku podmiotu kwalifikowanego;
-2) z chwilą wykonania przez bank lub spółdzielczą kasę oszczędnościowokredytową żądania uchylenia blokady wydanego na podstawie art. 119zv § 7 pkt 2 lub art. 119zw § 5 pkt 2;
-3) z upływem terminu określonego w postanowieniu, o którym mowa w art. 119zw § 1;
-4) z chwilą dokonania zajęcia na podstawie:
-a) zarządzenia zabezpieczenia wystawionego w trybie przepisów o postępowaniu egzekucyjnym w administracji w związku z zawiadomieniem, o którym mowa w art. 119zv § 3 pkt 2, na zabezpieczenie zobowiązania podatkowego lub należności celnej wraz z odsetkami za zwłokę,
-b) postanowienia o zabezpieczeniu majątkowym wydanego w trybie przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego w związku z zawiadomieniem, o którym mowa w art. 119zv § 3 pkt 2 – w części odpowiadającej wysokości określonej odpowiednio w zarządzeniu zabezpieczenia lub postanowieniu o zabezpieczeniu majątkowym.
-§ 2. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa niezwłocznie uchylają blokadę rachunku podmiotu kwalifikowanego:
-1) w przypadkach, o których mowa w § 1 pkt 1–3;
-2) w części wolnej od zajęcia – w przypadku, o którym mowa w § 1 pkt 4.
-Art. 119zzd. Dokonanie przez bank lub spółdzielczą kasę oszczędnościowokredytową blokady rachunku podmiotu kwalifikowanego lub zmiany jej zakresu zgodnie z żądaniami Szefa Krajowej Administracji Skarbowej, o których mowa w niniejszym rozdziale, nie powoduje odpowiedzialności dyscyplinarnej, cywilnej, karnej ani innej określonej odrębnymi przepisami.
-Art. 119zze. (uchylony)
-Art. 119zzf. § 1. Kontrolę wypełniania obowiązków, o których mowa w niniejszym dziale, przez banki, spółdzielcze kasy oszczędnościowo-kredytowe, izbę rozliczeniową, banki zrzeszające oraz Krajową Spółdzielczą Kasę OszczędnościowoKredytową sprawuje Szef Krajowej Administracji Skarbowej.
-§ 2. Szef Krajowej Administracji Skarbowej przeprowadza, nierzadziej niż raz na rok, kontrolę wypełniania przez izbę rozliczeniową obowiązków, o których mowa w niniejszym dziale.
-§ 3. Kontrolę, o której mowa w § 1, przeprowadzają upoważnieni przez Szefa Krajowej Administracji Skarbowej pracownicy urzędu obsługującego ministra właściwego do spraw finansów publicznych lub organów podległych Szefowi Krajowej Administracji Skarbowej.
-§ 4. Kontrolę, o której mowa w § 1, przeprowadzają osoby posiadające poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych oznaczonych klauzulą „poufne”.
-§ 5. Do kontroli, o której mowa w § 1, stosuje się odpowiednio przepisy art. 62 ust. 1–3, 8 i 10, art. 64 ust. 1 pkt 1, 2, 5, 7, 8, 10, 11 i 17 i ust. 3 i 4, art. 72 ust. 1 pkt 1–3 i 8–11 oraz ust. 3, art. 84 ust. 1, 2 i 4, art. 93 oraz art. 97 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
-Art. 119zzg. Prezes Urzędu Ochrony Danych Osobowych przeprowadza, nierzadziej niż raz na 2 lata, kontrolę izby rozliczeniowej w zakresie ochrony danych osobowych przy wypełnianiu obowiązków, o których mowa w niniejszym dziale.
-Art. 119zzh. § 1. Bank, spółdzielcza kasa oszczędnościowo-kredytowa, bank zrzeszający oraz Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa, które nie dopełniają obowiązku przekazywania informacji i zestawień, o których mowa w art.
-119zp, lub danych, o których mowa w art. 119zs § 2, przekazują je niezgodnie z posiadanymi informacjami, zestawieniami lub danymi, lub zatajają prawdziwe informacje, zestawienia lub dane, podlegają karze pieniężnej.
-§ 2. Tej samej karze podlega bank oraz spółdzielcza kasa oszczędnościowokredytowa, które nie dopełniają obowiązku dokonania blokady rachunku podmiotu kwalifikowanego, przedłużenia, zmiany zakresu lub uchylenia blokady rachunku podmiotu kwalifikowanego.
-Art. 119zzi. Izba rozliczeniowa, która nie dopełnia obowiązku:
-1) prowadzenia STIR,
-2) ustalenia wskaźnika ryzyka,
-3) przekazania informacji o wskaźniku ryzyka,
-4) pośredniczenia w przekazaniu danych, informacji i żądań pomiędzy Szefem Krajowej Administracji Skarbowej a bankami oraz spółdzielczymi kasami oszczędnościowo-kredytowymi – podlega karze pieniężnej.
-Art. 119zzj. § 1. Karę pieniężną, o której mowa w art. 119zzh i art. 119zzi, nakłada Szef Krajowej Administracji Skarbowej, w drodze decyzji, w wysokości niewiększej niż 1 000 000 zł.
-§ 2. Od decyzji przysługuje odwołanie do ministra właściwego do spraw finansów publicznych w terminie 14 dni od dnia jej doręczenia.
-Art. 119zzk. W zakresie nieuregulowanym w niniejszym rozdziale do nakładania kary pieniężnej stosuje się przepisy działu IVA Kodeksu postępowania administracyjnego.
-Art. 119zzl. § 1. Szef Krajowej Administracji Skarbowej na wniosek, o którym mowa w art. 516 § 1, art. 550 § 1 lub art. 580 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz.
-176 i 187), zwany dalej w niniejszym dziale „wnioskiem”, wydaje opinię w zakresie transgranicznego przekształcenia, połączenia albo podziału spółki, zwaną dalej w niniejszym dziale „opinią”.
-§ 2. Przedmiotem opinii jest:
-1) ocena, czy nie istnieje uzasadnione przypuszczenie, że transgraniczne przekształcenie, połączenie albo podział spółki może:
-a) stanowić czynność lub element czynności określonej w art. 119a § 1 lub
-b) być przedmiotem decyzji wydanej z zastosowaniem środków ograniczających umowne korzyści, lub
-c) stanowić nadużycie prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;
-2) potwierdzenie, że są zaspokojone lub zabezpieczone zobowiązania pieniężne spółki wobec organów podatkowych lub niepodatkowe należności budżetowe o charakterze publicznoprawnym w rozumieniu art. 60 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, do których wymiaru lub poboru są właściwe organy Krajowej Administracji Skarbowej.
-§ 3. Wniosek zawiera dane istotne dla określenia podatkowych skutków czynności transgranicznego przekształcenia, połączenia albo podziału spółki oraz zastosowania do tej czynności przepisu art. 119a § 1 i art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, w tym:
-1) dane identyfikujące wnioskodawcę;
-2) wskazanie podmiotów dokonujących czynności;
-3) wyczerpujący opis czynności wraz ze wskazaniem występujących między podmiotami powiązań w rozumieniu art. 23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
-4) NSP w rozumieniu art. 86a § 1 pkt 5 odnoszący się do uzgodnienia albo wyjaśnienie, z jakich powodów faktycznych lub prawnych uzgodnienie nie podlegało zgłoszeniu w celu jego nadania;
-5) wskazanie celów, których realizacji czynność ma służyć;
-6) wskazanie ekonomicznego lub gospodarczego uzasadnienia czynności;
-7) określenie skutków podatkowych, w tym korzyści podatkowych, będących rezultatem czynności objętych wnioskiem;
-8) wskazanie innych niż w pkt 7 korzyści podatkowych, niepodlegających ocenie określonej w art. 119za pkt 2, których osiągnięcie jest uzależnione choćby pośrednio od dokonania czynności;
-9) wskazanie innych czynności planowanych, rozpoczętych lub dokonanych, od których choćby pośrednio jest uzależnione osiągnięcie korzyści podatkowych, o których mowa w pkt 7 i 8.
-§ 4. Do wniosku dołącza się zaświadczenie, o którym mowa w art. 306e § 1, wraz z informacjami, o których mowa w art. 306e § 4.
-§ 5. Do wniosku dołącza się oświadczenie członków zarządu spółki dotyczące położenia posiadanych przez spółkę nieruchomości na terytorium Rzeczypospolitej Polskiej. Oświadczenie jest składane pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia i zawiera klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
-§ 6. Do wniosku dołącza się oryginał, kopię albo wydruk dowodu wniesienia opłaty, o której mowa w art. 119zzo § 1, a jeśli opłata ta została uiszczona po złożeniu wniosku – oryginał, kopię albo wydruk dowodu wniesienia opłaty należy przesłać do organu właściwego w sprawach opinii niezwłocznie po jej wniesieniu.
-§ 7. Minister właściwy do spraw finansów publicznych może udostępnić wzór wniosku, mając na względzie konieczność zapewnienia sprawnej obsługi tych wniosków.
-Art. 119zzm. § 1. Szef Krajowej Administracji Skarbowej wydaje opinię bez zbędnej zwłoki, niepóźniej niż w terminie miesiąca od dnia otrzymania wniosku.
-§ 2. Do terminu, o którym mowa w § 1, nie wlicza się terminów i okresów, o których mowa w art. 139 § 4.
-§ 3. W przypadkach uzasadnionych złożonością sprawy, wymagających uwzględnienia dodatkowych informacji lub przeprowadzenia dodatkowych czynności wyjaśniających, termin, o którym mowa w § 1, może być przedłużony, niewięcej jednak niż o 3 miesiące. O przedłużeniu terminu Szef Krajowej Administracji Skarbowej niezwłocznie informuje sąd rejestrowy.
-Art. 119zzn. § 1. Szef Krajowej Administracji Skarbowej może w toku postępowania, w zakresie, o którym mowa w art. 119zzl § 2, zasięgnąć opinii ministra właściwego do spraw finansów publicznych, Generalnego Inspektora Informacji Finansowej, Dyrektora Krajowej Informacji Skarbowej, naczelnika urzędu skarbowego właściwego dla podatnika, naczelnika urzędu celno-skarbowego, a w przypadku podatków i opłat, do których ustalania lub określania są uprawnieni wójt, burmistrz (prezydent miasta), starosta lub marszałek województwa – również tych organów.
-§ 2. Do zasięgnięcia opinii przepisy art. 209 § 1–4 i 6 stosuje się odpowiednio.
-Art. 119zzo. § 1. Wniosek podlega opłacie w wysokości odpowiadającej 50 % wysokości minimalnego wynagrodzenia za pracę obowiązującego w dniu złożenia wniosku, ustalonego na podstawie ustawy z dnia 10 października 2002 r.
-o minimalnym wynagrodzeniu za pracę. Opłatę uiszcza się w terminie 7 dni od dnia złożenia wniosku, na rachunek organu właściwego w sprawach opinii.
-§ 2. Opłata uiszczona w kwocie wyższej niż należna podlega zwrotowi w kwocie nadwyżki, niepóźniej niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii.
-§ 3. Opłata stanowi dochód budżetu państwa.
-Art. 119zzp. § 1. Szef Krajowej Administracji Skarbowej odmawia wydania opinii, jeżeli okoliczności sprawy wskazują na istnienie uzasadnionego przypuszczenia, że:
-1) transgraniczne przekształcenie, połączenie albo podział spółki może:
-a) stanowić czynność lub element czynności określonej w art. 119a § 1 lub
-b) być przedmiotem decyzji wydanej z zastosowaniem środków ograniczających umowne korzyści, lub
-c) stanowić nadużycie prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;
-2) nie zostaną zaspokojone lub nie zostały zabezpieczone zobowiązania pieniężne i niepodatkowe należności budżetowe, o których mowa w art. 119zzl § 2 pkt 2.
-§ 2. Odmowa wydania opinii zawiera wskazanie okoliczności, o których mowa w § 1.
-Art. 119zzq. Opinię albo odmowę jej wydania przesyła się do sądu rejestrowego, o którym mowa w art. 516 § 1, art. 550 § 1 lub art. 580 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, a odpis tego pisma przesyła się do wiadomości wnioskodawcy. Postanowienie kończące sprawę przesyła się do wnioskodawcy, a gdy stało się ono ostateczne, przesyła się je do sądu rejestrowego, a jego odpis – do wiadomości wnioskodawcy. Odpisy pism w sprawie kierowanych do wnioskodawcy lub organów, o których mowa w art. 119zzn § 1, a także pism kierowanych do Szefa Krajowej Administracji Skarbowej przesyła się do wiadomości sądu rejestrowego.
-Art. 119zzr. § 1. Wydanie opinii nie stanowi przeszkody do prowadzenia wobec spółki czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
-§ 2. Opinia nie stanowi zaświadczenia w rozumieniu ustawy.
-Art. 119zzs. W zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 14d § 2, art. 14i § 2, art. 119x § 2, 4 i 5, art. 119y § 3, art. 120, art. 125, art. 126, art. 129, art. 130, art. 132, art. 135, art. 140, art. 143, art. 165 § 3 i 3b, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 187 § 3, art. 189 § 3, art. 197 § 1 i 3, art. 208, art. 210 § 1, 4 i 5, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16, 23, a także przepisy art. 45, art. 46, art. 47a, art. 49, art. 49b i art. 51 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
-Art. 307–323. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1230,7 +469,9 @@ Art. 307–323. (pominięte)
 
 § 2. W przypadku doręczenia interpretacji indywidualnej za pomocą środków komunikacji elektronicznej interpretację indywidualną uważa się za wydaną z zachowaniem terminu, o którym mowa w § 1, jeżeli dowód wysłania, o którym mowa w art. 40 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, został wystawiony przed upływem tego terminu.
 
-§ 3. Wnioskodawca może w każdym czasie wystąpić z żądaniem poinformowania go telefonicznie albo za pomocą środków komunikacji elektronicznej o dacie wydania interpretacji indywidualnej oraz o zawartej w niej ocenie jego stanowiska albo o innym sposobie rozstrzygnięcia sprawy. Informację przekazuje się niezwłocznie, a w przypadku gdy wnioskodawca wystąpił z tym żądaniem przed wydaniem interpretacji indywidualnej – niepóźniej niż w dniu roboczym następującym po dniu wydania tej interpretacji albo innego rozstrzygnięcia w sprawie. Art. 14da. Minister właściwy do spraw finansów publicznych może z urzędu zmienić wydaną interpretację ogólną lub objaśnienia podatkowe, jeżeli stwierdzi ich nieprawidłowość, uwzględniając w szczególności orzecznictwo sądów, Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
+§ 3. Wnioskodawca może w każdym czasie wystąpić z żądaniem poinformowania go telefonicznie albo za pomocą środków komunikacji elektronicznej o dacie wydania interpretacji indywidualnej oraz o zawartej w niej ocenie jego stanowiska albo o innym sposobie rozstrzygnięcia sprawy. Informację przekazuje się niezwłocznie, a w przypadku gdy wnioskodawca wystąpił z tym żądaniem przed wydaniem interpretacji indywidualnej – niepóźniej niż w dniu roboczym następującym po dniu wydania tej interpretacji albo innego rozstrzygnięcia w sprawie.
+
+**Art. 14da.** Minister właściwy do spraw finansów publicznych może z urzędu zmienić wydaną interpretację ogólną lub objaśnienia podatkowe, jeżeli stwierdzi ich nieprawidłowość, uwzględniając w szczególności orzecznictwo sądów, Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
 
 **Art. 14e.**
 
@@ -1361,13 +602,19 @@ Art. 307–323. (pominięte)
 
 § 6. W przypadku gdy do okresu rozliczeniowego, o którym mowa w § 4, oraz okresu 12 miesięcy przed rozpoczęciem tego okresu rozliczeniowego zastosowanie mają wydane w odniesieniu do takiego samego zagadnienia interpretacja ogólna lub objaśnienia podatkowe, wydane w takim samym stanie prawnym przed rozpoczęciem lub w trakcie okresu rozliczeniowego, o którym mowa w § 4, począwszy od dnia opublikowania takiej interpretacji ogólnej lub zamieszczenia takich objaśnień podatkowych przez utrwaloną praktykę interpretacyjną, o której mowa w § 4 pkt 2, należy rozumieć odpowiednio wyjaśnienie zakresu i sposobu stosowania przepisów prawa podatkowego wynikające z interpretacji ogólnej lub wyjaśnienia przepisów prawa podatkowego, dotyczące stosowania tych przepisów, zawarte w objaśnieniach podatkowych.
 
-§ 7. Przez okres rozliczeniowy, o którym mowa w § 4, w przypadku podatków nierozliczanych okresowo, rozumie się miesiąc, w którym powstał obowiązek podatkowy w danym podatku. Art. 14na. § 1. Przepisów art. 14k–14n nie stosuje się, jeżeli stan faktyczny lub zdarzenie przyszłe będące przedmiotem interpretacji indywidualnej stanowi element czynności będących przedmiotem decyzji wydanej:
+§ 7. Przez okres rozliczeniowy, o którym mowa w § 4, w przypadku podatków nierozliczanych okresowo, rozumie się miesiąc, w którym powstał obowiązek podatkowy w danym podatku.
+
+**Art. 14na.**
+
+§ 1. Przepisów art. 14k–14n nie stosuje się, jeżeli stan faktyczny lub zdarzenie przyszłe będące przedmiotem interpretacji indywidualnej stanowi element czynności będących przedmiotem decyzji wydanej:
 
 - **1)** z zastosowaniem art. 119a;
 - **2)** w związku z wystąpieniem nadużycia prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;
 - **3)** z zastosowaniem środków ograniczających umowne korzyści.
 
-§ 2. Przepisów art. 14k–14n nie stosuje się, jeżeli korzyść podatkowa, stwierdzona w decyzjach wymienionych w § 1, jest skutkiem zastosowania się do utrwalonej praktyki interpretacyjnej, interpretacji ogólnej lub objaśnień podatkowych. Art. 14nb. W przypadku, o którym mowa w art. 14b § 3a, przepisy art. 14k–14n stosuje się do transakcji, zespołu transakcji lub innego zdarzenia w zakresie, w jakim we wniosku o wydanie interpretacji indywidualnej zgodnie z art. 14b § 3a zostały wskazane państwa, terytoria i dane, o których mowa w tym przepisie.
+§ 2. Przepisów art. 14k–14n nie stosuje się, jeżeli korzyść podatkowa, stwierdzona w decyzjach wymienionych w § 1, jest skutkiem zastosowania się do utrwalonej praktyki interpretacyjnej, interpretacji ogólnej lub objaśnień podatkowych.
+
+**Art. 14nb.** W przypadku, o którym mowa w art. 14b § 3a, przepisy art. 14k–14n stosuje się do transakcji, zespołu transakcji lub innego zdarzenia w zakresie, w jakim we wniosku o wydanie interpretacji indywidualnej zgodnie z art. 14b § 3a zostały wskazane państwa, terytoria i dane, o których mowa w tym przepisie.
 
 **Art. 14o.**
 
@@ -1488,7 +735,11 @@ Art. 307–323. (pominięte)
 
 § 2. Opłata wstępna jest wnoszona na rachunek Krajowej Informacji Skarbowej w terminie 7 dni, licząc od dnia złożenia wniosku. W przypadku nieuiszczenia w terminie opłaty wstępnej wydaje się postanowienie o pozostawieniu wniosku bez rozpatrzenia, na które służy zażalenie.
 
-§ 3. Opłata wstępna podlega zwrotowi wyłącznie w przypadku uiszczenia jej przez podmiot niebędący zainteresowanym w rozumieniu art. 14t § 2. Zwrot opłaty następuje w terminie 30 dni od dnia zakończenia postępowania w sprawie. Art. 14za. § 1. Wysokość opłaty głównej nie może być niższa niż 15 000 zł i nie może przekroczyć 50 000 zł.
+§ 3. Opłata wstępna podlega zwrotowi wyłącznie w przypadku uiszczenia jej przez podmiot niebędący zainteresowanym w rozumieniu art. 14t § 2. Zwrot opłaty następuje w terminie 30 dni od dnia zakończenia postępowania w sprawie.
+
+**Art. 14za.**
+
+§ 1. Wysokość opłaty głównej nie może być niższa niż 15 000 zł i nie może przekroczyć 50 000 zł.
 
 § 2. Przy ustalaniu wysokości opłaty głównej uwzględnia się treść wniosku, w szczególności stopień jego skomplikowania, liczbę poruszonych zagadnień i przedstawionych czynności, a także koszty sporządzenia projektu opinii.
 
@@ -1498,11 +749,23 @@ Art. 307–323. (pominięte)
 
 § 5. W przypadku nieuiszczenia w terminie opłaty głównej wydaje się postanowienie o pozostawieniu wniosku bez rozpatrzenia, na które służy zażalenie.
 
-§ 6. Opłata główna podlega zwrotowi w odpowiedniej części wyłącznie w przypadku uiszczenia jej w wysokości większej od należnej. Zwrot opłaty nienależnej następuje w terminie 30 dni od dnia zakończenia postępowania w sprawie. Art. 14zb. § 1. Opinia w sprawie opodatkowania wyrównawczego jest wydawana bez zbędnej zwłoki, niepóźniej niż w terminie 8 miesięcy od dnia złożenia wniosku.
+§ 6. Opłata główna podlega zwrotowi w odpowiedniej części wyłącznie w przypadku uiszczenia jej w wysokości większej od należnej. Zwrot opłaty nienależnej następuje w terminie 30 dni od dnia zakończenia postępowania w sprawie.
 
-§ 2. Do powyższego terminu nie wlicza się terminów i okresów, o których mowa w art. 14zg § 4, art. 14zh § 3 i art. 139 § 4, oraz dni, w których wystąpiła awaria eUrzędu Skarbowego w przypadku, o którym mowa w art. 35e ust. 4a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131, 1423, 1820 i 1863 oraz z 2026 r. poz. 415 i 483). Art. 14zc. § 1. Pisma w sprawie opinii w sprawie opodatkowania wyrównawczego składa się i doręcza wyłącznie za pośrednictwem konta w e-Urzędzie Skarbowym, z zastrzeżeniem art. 35e ust. 9 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+**Art. 14zb.**
 
-§ 2. Dokumenty, które nie mogą być doręczone za pośrednictwem konta w eUrzędzie Skarbowym lub których doręczenie w postaci fizycznej jest niezbędne do rozpatrzenia wniosku o opinię w sprawie opodatkowania wyrównawczego, są doręczane zgodnie z art. 144 § 1b i 1c. Art. 14zd. § 1. Dyrektor Krajowej Informacji Skarbowej może, z urzędu, w okresie ważności opinii w sprawie opodatkowania wyrównawczego, w całości albo w części:
+§ 1. Opinia w sprawie opodatkowania wyrównawczego jest wydawana bez zbędnej zwłoki, niepóźniej niż w terminie 8 miesięcy od dnia złożenia wniosku.
+
+§ 2. Do powyższego terminu nie wlicza się terminów i okresów, o których mowa w art. 14zg § 4, art. 14zh § 3 i art. 139 § 4, oraz dni, w których wystąpiła awaria eUrzędu Skarbowego w przypadku, o którym mowa w art. 35e ust. 4a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131, 1423, 1820 i 1863 oraz z 2026 r. poz. 415 i 483).
+
+**Art. 14zc.**
+
+§ 1. Pisma w sprawie opinii w sprawie opodatkowania wyrównawczego składa się i doręcza wyłącznie za pośrednictwem konta w e-Urzędzie Skarbowym, z zastrzeżeniem art. 35e ust. 9 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+
+§ 2. Dokumenty, które nie mogą być doręczone za pośrednictwem konta w eUrzędzie Skarbowym lub których doręczenie w postaci fizycznej jest niezbędne do rozpatrzenia wniosku o opinię w sprawie opodatkowania wyrównawczego, są doręczane zgodnie z art. 144 § 1b i 1c.
+
+**Art. 14zd.**
+
+§ 1. Dyrektor Krajowej Informacji Skarbowej może, z urzędu, w okresie ważności opinii w sprawie opodatkowania wyrównawczego, w całości albo w części:
 
 - **1)** zmienić wydaną opinię w sprawie opodatkowania wyrównawczego, jeżeli stwierdzi jej nieprawidłowość, w szczególności po uwzględnieniu orzecznictwa sądów, Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej;
 - **2)** uchylić wydaną opinię w sprawie opodatkowania wyrównawczego z uwagi na wystąpienie przesłanki wymienionej w art. 14u § 5 i odmówić, w drodze postanowienia, na które służy zażalenie, wydania opinii w sprawie opodatkowania wyrównawczego.
@@ -1515,9 +778,19 @@ Art. 307–323. (pominięte)
 
 § 5. Uchylenie opinii w sprawie opodatkowania wyrównawczego następuje w drodze postanowienia, na które służy zażalenie.
 
-§ 6. Zmianę opinii w sprawie opodatkowania wyrównawczego albo jej uchylenie doręcza się podmiotowi, któremu w danej sprawie została wydana opinia w sprawie opodatkowania wyrównawczego, albo jego następcy prawnemu. Art. 14ze. Opinia w sprawie opodatkowania wyrównawczego wygasa z mocy prawa w przypadku zmiany przepisów prawa dotyczących opodatkowania wyrównawczego zastosowanych w opinii, w zakresie, w jakim opinia staje się niezgodna z tymi przepisami. Wygaśnięcie opinii w sprawie opodatkowania wyrównawczego następuje z dniem wejścia w życie przepisów, z którymi ta opinia stała się niezgodna. Art. 14zf. § 1. Dyrektor Krajowej Informacji Skarbowej może w toku postępowania zasięgnąć opinii Rady do spraw Opodatkowania Wyrównawczego, zwanej dalej „Radą GLOBE”, w szczególności w zakresie stosowania przepisów prawa podatkowego, przepisów o rachunkowości oraz wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy Organizacji Współpracy Gospodarczej i Rozwoju (OECD).
+§ 6. Zmianę opinii w sprawie opodatkowania wyrównawczego albo jej uchylenie doręcza się podmiotowi, któremu w danej sprawie została wydana opinia w sprawie opodatkowania wyrównawczego, albo jego następcy prawnemu.
 
-§ 2. Występując o opinię, Dyrektor Krajowej Informacji Skarbowej przekazuje Radzie GLOBE kopię wniosku o opinię w sprawie opodatkowania wyrównawczego wraz z własnym stanowiskiem w sprawie. O wystąpieniu o opinię Rady GLOBE Dyrektor Krajowej Informacji Skarbowej niezwłocznie informuje zainteresowanego. Art. 14zg. § 1. Rada GLOBE może zwrócić się do zainteresowanego oraz Dyrektora Krajowej Informacji Skarbowej o udzielenie informacji i wyjaśnień dotyczących sprawy, w której Dyrektor Krajowej Informacji Skarbowej zwrócił się do Rady GLOBE o wydanie opinii.
+**Art. 14ze.** Opinia w sprawie opodatkowania wyrównawczego wygasa z mocy prawa w przypadku zmiany przepisów prawa dotyczących opodatkowania wyrównawczego zastosowanych w opinii, w zakresie, w jakim opinia staje się niezgodna z tymi przepisami. Wygaśnięcie opinii w sprawie opodatkowania wyrównawczego następuje z dniem wejścia w życie przepisów, z którymi ta opinia stała się niezgodna.
+
+**Art. 14zf.**
+
+§ 1. Dyrektor Krajowej Informacji Skarbowej może w toku postępowania zasięgnąć opinii Rady do spraw Opodatkowania Wyrównawczego, zwanej dalej „Radą GLOBE”, w szczególności w zakresie stosowania przepisów prawa podatkowego, przepisów o rachunkowości oraz wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy Organizacji Współpracy Gospodarczej i Rozwoju (OECD).
+
+§ 2. Występując o opinię, Dyrektor Krajowej Informacji Skarbowej przekazuje Radzie GLOBE kopię wniosku o opinię w sprawie opodatkowania wyrównawczego wraz z własnym stanowiskiem w sprawie. O wystąpieniu o opinię Rady GLOBE Dyrektor Krajowej Informacji Skarbowej niezwłocznie informuje zainteresowanego.
+
+**Art. 14zg.**
+
+§ 1. Rada GLOBE może zwrócić się do zainteresowanego oraz Dyrektora Krajowej Informacji Skarbowej o udzielenie informacji i wyjaśnień dotyczących sprawy, w której Dyrektor Krajowej Informacji Skarbowej zwrócił się do Rady GLOBE o wydanie opinii.
 
 § 2. Zainteresowany może z własnej inicjatywy przedłożyć Radzie GLOBE swoje stanowisko na piśmie. Zainteresowany może załączyć do pisma dokumenty o charakterze pomocniczym.
 
@@ -1527,19 +800,37 @@ Art. 307–323. (pominięte)
 
 § 5. Opinię doręcza się Dyrektorowi Krajowej Informacji Skarbowej.
 
-§ 6. Dyrektor Krajowej Informacji Skarbowej nie jest związany treścią opinii Rady GLOBE. Art. 14zh. § 1. Dyrektor Krajowej Informacji Skarbowej może w toku postępowania wystąpić z wnioskiem w zakresie, o którym mowa w art. 14u § 1, o przekazanie informacji będących w posiadaniu ministra właściwego do spraw finansów publicznych, Szefa Krajowej Administracji Skarbowej, naczelnika urzędu skarbowego właściwego dla zainteresowanego lub naczelnika urzędu celnoskarbowego.
+§ 6. Dyrektor Krajowej Informacji Skarbowej nie jest związany treścią opinii Rady GLOBE.
+
+**Art. 14zh.**
+
+§ 1. Dyrektor Krajowej Informacji Skarbowej może w toku postępowania wystąpić z wnioskiem w zakresie, o którym mowa w art. 14u § 1, o przekazanie informacji będących w posiadaniu ministra właściwego do spraw finansów publicznych, Szefa Krajowej Administracji Skarbowej, naczelnika urzędu skarbowego właściwego dla zainteresowanego lub naczelnika urzędu celnoskarbowego.
 
 § 2. Dyrektor Krajowej Informacji Skarbowej może wykorzystać informacje uzyskane od organów wskazanych w § 1 na potrzeby rozpatrywania innych wniosków o opinie w sprawie opodatkowania wyrównawczego dotyczących takiego samego zagadnienia.
 
 § 3. Informacje są przekazywane bez zbędnej zwłoki, jednak niepóźniej niż w terminie miesiąca.
 
-§ 4. Do wniosku o przekazanie informacji przepisy art. 209 § 1, 2 i 4 stosuje się odpowiednio. Art. 14zi. § 1. Opinia w sprawie opodatkowania wyrównawczego, zmiana tej opinii, uchylenie tej opinii, uchylenie zmiany tej opinii oraz postanowienie wydane na podstawie art. 14u § 5 wraz z informacją o dacie ich doręczenia są niezwłocznie przekazywane organom podatkowym właściwym ze względu na zakres spraw będących ich przedmiotem.
+§ 4. Do wniosku o przekazanie informacji przepisy art. 209 § 1, 2 i 4 stosuje się odpowiednio.
+
+**Art. 14zi.**
+
+§ 1. Opinia w sprawie opodatkowania wyrównawczego, zmiana tej opinii, uchylenie tej opinii, uchylenie zmiany tej opinii oraz postanowienie wydane na podstawie art. 14u § 5 wraz z informacją o dacie ich doręczenia są niezwłocznie przekazywane organom podatkowym właściwym ze względu na zakres spraw będących ich przedmiotem.
 
 § 2. Opinia w sprawie opodatkowania wyrównawczego, zmiana tej opinii oraz postanowienie wydane na podstawie art. 14u § 5, po usunięciu danych identyfikujących wnioskodawcę i inne podmioty wskazane w treści tej opinii oraz danych objętych tajemnicą przedsiębiorstwa, są niezwłocznie zamieszczane w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych. W Biuletynie Informacji Publicznej zamieszcza się informacje o okresie ważności opinii w sprawie opodatkowania wyrównawczego oraz jej zmiany, jak również informacje o ich uchyleniu.
 
-§ 3. W Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych zamieszcza się informacje o nieprawidłowych opiniach w sprawie opodatkowania wyrównawczego, które z powodu likwidacji lub rozwiązania zainteresowanego, dla którego została wydana opinia w sprawie opodatkowania wyrównawczego, nie mogą zostać zmienione. Art. 14zj. § 1. Zastosowanie się do ważnej opinii w sprawie opodatkowania wyrównawczego przed jej zmianą albo uchyleniem lub przed doręczeniem organowi podatkowemu odpisu prawomocnego orzeczenia sądu administracyjnego uchylającego opinię w sprawie opodatkowania wyrównawczego, a także nieuwzględnienie tej opinii w rozstrzygnięciu sprawy podatkowej nie może szkodzić zainteresowanemu.
+§ 3. W Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych zamieszcza się informacje o nieprawidłowych opiniach w sprawie opodatkowania wyrównawczego, które z powodu likwidacji lub rozwiązania zainteresowanego, dla którego została wydana opinia w sprawie opodatkowania wyrównawczego, nie mogą zostać zmienione.
 
-§ 2. W zakresie związanym z zastosowaniem się do opinii w sprawie opodatkowania wyrównawczego, która została zmieniona albo uchylona, lub opinii w sprawie opodatkowania wyrównawczego nieuwzględnionej w rozstrzygnięciu sprawy podatkowej nie wszczyna się postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe, a postępowania wszczęte w tych sprawach umarza się oraz nie nalicza się odsetek za zwłokę. Art. 14zk. W przypadku gdy skutki podatkowe związane z czynnościami będącymi przedmiotem opinii w sprawie opodatkowania wyrównawczego miały miejsce przed opublikowaniem interpretacji ogólnej lub przed doręczeniem opinii w sprawie opodatkowania wyrównawczego, zastosowanie się do tej opinii lub interpretacji nie zwalnia z obowiązku zapłaty podatku. Art. 14zl. § 1. Zastosowanie się do ważnej opinii w sprawie opodatkowania wyrównawczego, która następnie została zmieniona albo uchylona lub która nie została uwzględniona w rozstrzygnięciu sprawy podatkowej, powoduje zwolnienie z obowiązku zapłaty podatku w zakresie wynikającym z czynności będących przedmiotem opinii w sprawie opodatkowania wyrównawczego, jeżeli:
+**Art. 14zj.**
+
+§ 1. Zastosowanie się do ważnej opinii w sprawie opodatkowania wyrównawczego przed jej zmianą albo uchyleniem lub przed doręczeniem organowi podatkowemu odpisu prawomocnego orzeczenia sądu administracyjnego uchylającego opinię w sprawie opodatkowania wyrównawczego, a także nieuwzględnienie tej opinii w rozstrzygnięciu sprawy podatkowej nie może szkodzić zainteresowanemu.
+
+§ 2. W zakresie związanym z zastosowaniem się do opinii w sprawie opodatkowania wyrównawczego, która została zmieniona albo uchylona, lub opinii w sprawie opodatkowania wyrównawczego nieuwzględnionej w rozstrzygnięciu sprawy podatkowej nie wszczyna się postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe, a postępowania wszczęte w tych sprawach umarza się oraz nie nalicza się odsetek za zwłokę.
+
+**Art. 14zk.** W przypadku gdy skutki podatkowe związane z czynnościami będącymi przedmiotem opinii w sprawie opodatkowania wyrównawczego miały miejsce przed opublikowaniem interpretacji ogólnej lub przed doręczeniem opinii w sprawie opodatkowania wyrównawczego, zastosowanie się do tej opinii lub interpretacji nie zwalnia z obowiązku zapłaty podatku.
+
+**Art. 14zl.**
+
+§ 1. Zastosowanie się do ważnej opinii w sprawie opodatkowania wyrównawczego, która następnie została zmieniona albo uchylona lub która nie została uwzględniona w rozstrzygnięciu sprawy podatkowej, powoduje zwolnienie z obowiązku zapłaty podatku w zakresie wynikającym z czynności będących przedmiotem opinii w sprawie opodatkowania wyrównawczego, jeżeli:
 
 - **1)** zobowiązanie nie zostało prawidłowo wykonane w wyniku zastosowania się do opinii w sprawie opodatkowania wyrównawczego, która została zmieniona albo uchylona, lub opinii w sprawie opodatkowania wyrównawczego nieuwzględnionej w rozstrzygnięciu sprawy podatkowej oraz
 - **2)** skutki podatkowe związane z czynnościami przedstawionymi we wniosku, które odpowiadają czynnościom będącym przedmiotem opinii w sprawie opodatkowania wyrównawczego, miały miejsce po opublikowaniu interpretacji ogólnej albo po doręczeniu opinii w sprawie opodatkowania wyrównawczego.
@@ -1548,14 +839,128 @@ Art. 307–323. (pominięte)
 
 § 3. Na wniosek podatnika, który zastosował się do opinii w sprawie opodatkowania wyrównawczego, w decyzji określającej wysokość zobowiązania podatkowego organ podatkowy określa również wysokość podatku objętego zwolnieniem, o którym mowa w § 1, a w przypadku uiszczenia podatku w zakresie objętym tym zwolnieniem – określa wysokość nadpłaty.
 
-§ 4. Organ podatkowy informuje podatnika na piśmie o dacie doręczenia odpisu orzeczenia, o którym mowa w § 2, podając jednocześnie informację, z jakim dniem kończy się okres zwolnienia z obowiązku zapłaty podatku wynikającego z opinii w sprawie opodatkowania wyrównawczego uchylonej przez orzeczenie. Art. 14zm. § 1. Przepisów art. 14zj–14zl nie stosuje się, jeżeli czynności będące przedmiotem opinii w sprawie opodatkowania wyrównawczego stanowią element czynności będących przedmiotem decyzji wydanej:
+§ 4. Organ podatkowy informuje podatnika na piśmie o dacie doręczenia odpisu orzeczenia, o którym mowa w § 2, podając jednocześnie informację, z jakim dniem kończy się okres zwolnienia z obowiązku zapłaty podatku wynikającego z opinii w sprawie opodatkowania wyrównawczego uchylonej przez orzeczenie.
+
+**Art. 14zm.**
+
+§ 1. Przepisów art. 14zj–14zl nie stosuje się, jeżeli czynności będące przedmiotem opinii w sprawie opodatkowania wyrównawczego stanowią element czynności będących przedmiotem decyzji wydanej:
 
 - **1)** z zastosowaniem art. 119a;
 - **2)** z zastosowaniem środków ograniczających umowne korzyści.
 
-§ 2. Przepisów art. 14zj–14zl nie stosuje się, jeżeli korzyść podatkowa stwierdzona w decyzjach wymienionych w § 1 jest skutkiem zastosowania się do interpretacji ogólnej lub objaśnień podatkowych. Art. 14zn. W sprawach dotyczących opinii w sprawie opodatkowania wyrównawczego stosuje się odpowiednio przepisy art. 120, art. 121 § 1, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3b, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 171, art. 208, art. 213 w zakresie uzupełniania lub sprostowania co do skargi do sądu administracyjnego, art. 214, art. 215 § 1 i 3 oraz przepisy rozdziałów 3a, 5–7, 9, 10, 14, 16 i 23 działu IV.
+§ 2. Przepisów art. 14zj–14zl nie stosuje się, jeżeli korzyść podatkowa stwierdzona w decyzjach wymienionych w § 1 jest skutkiem zastosowania się do interpretacji ogólnej lub objaśnień podatkowych.
+
+**Art. 14zn.** W sprawach dotyczących opinii w sprawie opodatkowania wyrównawczego stosuje się odpowiednio przepisy art. 120, art. 121 § 1, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3b, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 171, art. 208, art. 213 w zakresie uzupełniania lub sprostowania co do skargi do sądu administracyjnego, art. 214, art. 215 § 1 i 3 oraz przepisy rozdziałów 3a, 5–7, 9, 10, 14, 16 i 23 działu IV.
 
 #### Rozdział 1c Rada do spraw Opodatkowania Wyrównawczego
+
+**Art. 14zo.**
+
+§ 1. Rada GLOBE jest niezależnym organem, którego zadaniem jest opiniowanie spraw z zakresu przepisów dotyczących opodatkowania wyrównawczego, o którym mowa w ustawie o opodatkowaniu wyrównawczym, w tym ich stosowania w indywidualnych sprawach na gruncie przepisów prawa podatkowego, przepisów o rachunkowości oraz wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy OECD.
+
+§ 2. Zadaniem Rady GLOBE jest także opiniowanie projektów aktów normatywnych związanych z opodatkowaniem wyrównawczym.
+
+**Art. 14zp.**
+
+§ 1. Radę GLOBE powołuje minister właściwy do spraw finansów publicznych na czteroletnią kadencję. Rada GLOBE działa do dnia powołania Rady GLOBE kolejnej kadencji, niedłużej jednak niż przez 6 miesięcy od dnia upływu jej kadencji.
+
+§ 2. Minister właściwy do spraw finansów publicznych powołuje przewodniczącego Rady GLOBE spośród członków Rady GLOBE.
+
+§ 3. Przewodniczący pełni funkcję do końca kadencji Rady GLOBE. W razie złożenia przez niego rezygnacji z funkcji przewodniczącego, wygaśnięcia jego członkostwa lub jego odwołania przepis § 2 stosuje się odpowiednio.
+
+**Art. 14zq.**
+
+§ 1. W skład Rady GLOBE wchodzą:
+
+- **1)** 4 osoby delegowane przez ministra właściwego do spraw finansów publicznych, będące pracownikami urzędu obsługującego tego ministra;
+- **2)** 2 osoby powołane spośród pracowników uczelni, jednostek organizacyjnych Polskiej Akademii Nauk lub instytutów badawczych w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534, z 2025 r. poz. 1017 i 1080 oraz z 2026 r. poz. 160);
+- **3)** 2 osoby będące doradcami podatkowymi, delegowane przez Krajową Radę Doradców Podatkowych, będące członkami Krajowej Izby Doradców Podatkowych;
+- **4)** 2 osoby będące biegłymi rewidentami, delegowane przez Krajową Radę Biegłych Rewidentów, będące członkami Polskiej Izby Biegłych Rewidentów;
+- **5)** 1 osoba posiadająca aktywny certyfikat wydany przez Instytut Audytorów Wewnętrznych, zrzeszona w tym Instytucie.
+
+§ 2. Do Rady GLOBE może być powołana osoba, która:
+
+- **1)** ma wiedzę oraz co najmniej 5-letnie doświadczenie w zakresie prawa podatkowego, prawa gospodarczego oraz rachunkowości lub wiedzę oraz co najmniej 5-letnie doświadczenie w jednej z następujących dziedzin: systemu finansowego, międzynarodowego prawa gospodarczego, wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy OECD, dające rękojmię prawidłowej realizacji zadań Rady GLOBE;
+- **2)** ma obywatelstwo polskie;
+- **3)** korzysta z pełni praw publicznych;
+- **4)** ma pełną zdolność do czynności prawnych;
+- **5)** nie była prawomocnie skazana za przestępstwo lub przestępstwo skarbowe;
+- **6)** jest nieskazitelnego charakteru.
+
+§ 3. Podmiot wskazujący członka Rady GLOBE ocenia spełnianie przez niego przesłanek określonych w § 2 pkt 1 i 6. Osoby, o których mowa w § 1 pkt 2–4, minister właściwy do spraw finansów publicznych powołuje po uzyskaniu przedstawionej na piśmie opinii podmiotów zatrudniających lub delegujących te osoby, a w przypadku osoby, o której mowa w § 1 pkt 5, po uzyskaniu na piśmie opinii Instytutu Audytorów Wewnętrznych.
+
+§ 4. Przed powołaniem w skład Rady GLOBE osoba powoływana składa oświadczenie o spełnieniu przesłanek, o których mowa w § 2 pkt 1–5.
+
+§ 5. Minister właściwy do spraw finansów publicznych w celu wyłonienia kandydatów na członków Rady GLOBE zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych ogłoszenie o przyjmowaniu zgłoszeń kandydatów na członków Rady GLOBE. Ogłoszenie zawiera w szczególności termin składania zgłoszeń, niekrótszy niż 30 dni od dnia zamieszczenia ogłoszenia, sposób i miejsce składania zgłoszeń.
+
+**Art. 14zr.**
+
+§ 1. Przed upływem kadencji członkostwo w Radzie GLOBE wygasa w razie śmierci członka.
+
+§ 2. Minister właściwy do spraw finansów publicznych odwołuje członka Rady GLOBE z uwagi na utratę przez niego cechy, o której mowa w art. 14zq § 2 pkt 6, po zasięgnięciu opinii Rady GLOBE. Uchwała w przedmiocie wyrażenia opinii przez Radę GLOBE może zostać podjęta w głosowaniu tajnym, bezwzględną większością głosów w obecności co najmniej połowy składu Rady GLOBE. Członek Rady GLOBE, którego głosowanie dotyczy, nie posiada prawa głosu oraz nie jest zaliczany do składu Rady GLOBE w tym głosowaniu.
+
+§ 3. Minister właściwy do spraw finansów publicznych odwołuje członka Rady GLOBE w przypadku:
+
+- **1)** utraty warunków będących podstawą powołania, o których mowa w art. 14zq § 1 i § 2 pkt 2–5;
+- **2)** nieusprawiedliwionego niewykonywania przez niego obowiązków lub nienależytego ich wykonywania;
+- **3)** choroby trwale uniemożliwiającej sprawowanie przez niego funkcji;
+- **4)** złożenia wniosku o odwołanie ze składu Rady GLOBE przez podmiot delegujący;
+- **5)** złożenia przez niego wniosku o odwołanie.
+
+§ 4. Przez utratę warunków będących podstawą powołania członków Rady GLOBE, o których mowa w art. 14zq § 1 pkt 1 i 2, rozumie się rozwiązanie stosunku pracy z podmiotem zatrudniającym w chwili powołania do pełnienia funkcji członka Rady GLOBE.
+
+§ 5. W przypadku przeniesienia służbowego członka Rady GLOBE, o którym mowa w art. 14zq § 1 pkt 1, do pracy w jednostkach organizacyjnych Krajowej Administracji Skarbowej lub służby w Służbie Celno-Skarbowej kontynuowanie członkostwa w Radzie GLOBE jest możliwe po wyrażeniu zgody przez ministra właściwego do spraw finansów publicznych.
+
+§ 6. Przez utratę warunków będących podstawą powołania członków Rady GLOBE, o których mowa w art. 14zq § 1 pkt 3–5, rozumie się odpowiednio skreślenie z listy doradców podatkowych, skreślenie z rejestru biegłych rewidentów i utratę aktywnego certyfikatu wydanego przez Instytut Audytorów Wewnętrznych.
+
+**Art. 14zs.**
+
+§ 1. Wygaśnięcie członkostwa w Radzie GLOBE lub odwołanie członka Rady GLOBE nie wstrzymuje jej prac, chyba że skład Rady GLOBE uległ zmniejszeniu o więcej niż 2 członków.
+
+§ 2. Osoba powołana w miejsce członka Rady GLOBE, którego członkostwo wygasło lub ustało wskutek odwołania, pełni funkcję do upływu kadencji Rady GLOBE.
+
+**Art. 14zt.**
+
+§ 1. Przewodniczący Rady GLOBE:
+
+- **1)** kieruje jej pracami;
+- **2)** zwołuje posiedzenia Rady GLOBE;
+- **3)** wyznacza niewięcej niż 5 członków Rady GLOBE, których zadaniem jest sporządzenie projektu opinii Rady GLOBE co do spraw z zakresu przepisów dotyczących opodatkowania wyrównawczego;
+- **4)** informuje ministra właściwego do spraw finansów publicznych o każdym przypadku uchybienia przez Radę GLOBE terminowi określonemu w art. 14zg § 4, podaje przyczyny tego uchybienia oraz wskazuje członków Rady GLOBE, którzy się do tego przyczynili.
+
+§ 2. Stanowisko co do spraw, o których mowa w art. 14zo § 1 lub 2, Rada GLOBE przyjmuje na posiedzeniu bezwzględną większością głosów w obecności co najmniej połowy składu Rady GLOBE.
+
+§ 3. Szczegółowy tryb pracy Rady GLOBE jest określony w regulaminie uchwalonym przez nią zwykłą większością głosów w obecności co najmniej połowy jej składu.
+
+§ 4. Obsługę prac Rady GLOBE zapewnia minister właściwy do spraw finansów publicznych. Wydatki związane z działaniem Rady GLOBE są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw finansów publicznych.
+
+§ 5. Sekretarz Rady GLOBE jest powoływany i odwoływany przez ministra właściwego do spraw finansów publicznych. Sekretarzem Rady GLOBE może być wyłącznie pracownik urzędu obsługującego tego ministra.
+
+§ 6. Do zadań sekretarza Rady GLOBE należy organizacja posiedzeń Rady GLOBE, w szczególności zapewnienie obsługi finansowej związanej z funkcjonowaniem Rady GLOBE oraz obsługi administracyjno-biurowej Rady GLOBE.
+
+§ 7. Sekretarz może uczestniczyć w posiedzeniach Rady GLOBE bez prawa głosu.
+
+**Art. 14zu.** Opinie Rady GLOBE są niezwłocznie zamieszczane w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych po usunięciu danych identyfikujących zainteresowanego oraz inne podmioty wskazane w jej treści.
+
+**Art. 14zv.** Do wyłączenia członków Rady GLOBE w zakresie wydawania opinii w poszczególnych sprawach stosuje się odpowiednio przepisy art. 130 § 1 i 2.
+
+**Art. 14zw.**
+
+§ 1. Przewodniczącemu, pozostałym członkom Rady GLOBE oraz sekretarzowi Rady GLOBE przysługuje wynagrodzenie za każdy miesiąc, w którym uczestniczyli w posiedzeniu Rady GLOBE.
+
+§ 2. Członkom Rady GLOBE przysługuje:
+
+- **1)** wynagrodzenie za sporządzenie opinii Rady GLOBE;
+- **2)** zwrot kosztów podróży i noclegów obejmujący świadczenia przewidziane w przepisach o należnościach przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju, w tym diety i ryczałty.
+
+§ 3. W przypadku wydania opinii z uchybieniem terminu określonego w art. 14zg § 4 członkowi Rady GLOBE, który przyczynił się do uchybienia temu terminowi, nie przysługuje wynagrodzenie za sporządzenie projektu opinii.
+
+§ 4. Wysokość wynagrodzeń, o których mowa w § 1 i § 2 pkt 1, nie może przekroczyć dwukrotności kwoty bazowej dla członków korpusu służby cywilnej, której wysokość, ustaloną według odrębnych przepisów, określa ustawa budżetowa.
+
+§ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** wysokość wynagrodzeń, o których mowa w § 1 i § 2 pkt 1, biorąc pod uwagę zakres obowiązków przewodniczącego, sekretarza Rady GLOBE i pozostałych członków GLOBE oraz szacunkowy nakład ich pracy;
+- **2)** warunki i tryb zwrotu kosztów podróży i noclegów przysługującego członkom Rady GLOBE w związku z poniesieniem tych kosztów w ramach udziału w pracach Rady GLOBE oraz sposób obliczania wysokości albo maksymalną wysokość tego zwrotu, biorąc pod uwagę racjonalność ponoszonych kosztów podróży i noclegów.
 
 #### Rozdział 2 Właściwość organów podatkowych
 
@@ -1617,7 +1022,9 @@ Art. 307–323. (pominięte)
 
 § 5. Postanowienie w sprawie wyznaczenia organu podatkowego określa podatnika, dla którego został wyznaczony organ podatkowy, oraz zakres spraw tego podatnika objętych właściwością wyznaczonego organu podatkowego.
 
-§ 6. Postanowienie w sprawie wyznaczenia organu podatkowego doręcza się podatnikowi, dla którego został wyznaczony organ podatkowy, wyznaczonemu organowi podatkowemu oraz organom podatkowym właściwym uprzednio, a w przypadku, o którym mowa w § 1, także dyrektorom izb administracji skarbowej. Art. 18ca. Szef Krajowej Administracji Skarbowej może, w celu usprawnienia i przyspieszenia kontroli podatkowej lub postępowania podatkowego w pierwszej instancji, wyznaczyć, w drodze postanowienia, naczelnika urzędu skarbowego jako właściwego do przeprowadzenia tych kontroli lub postępowań w sprawach dotyczących podatników lub płatników pozostających w zakresie właściwości miejscowej różnych organów, jeżeli zachodzi uzasadnione przypuszczenie wydania w tych sprawach decyzji z zastosowaniem art. 119a lub środków ograniczających umowne korzyści. Wyznaczenie organu podatkowego nie obejmuje przeprowadzenia postępowania podatkowego określonego w rozdziale 2 działu IIIA lub wydania decyzji, o których mowa w zdaniu pierwszym. Przepisy art. 18c § 3–6 stosuje się odpowiednio.
+§ 6. Postanowienie w sprawie wyznaczenia organu podatkowego doręcza się podatnikowi, dla którego został wyznaczony organ podatkowy, wyznaczonemu organowi podatkowemu oraz organom podatkowym właściwym uprzednio, a w przypadku, o którym mowa w § 1, także dyrektorom izb administracji skarbowej.
+
+**Art. 18ca.** Szef Krajowej Administracji Skarbowej może, w celu usprawnienia i przyspieszenia kontroli podatkowej lub postępowania podatkowego w pierwszej instancji, wyznaczyć, w drodze postanowienia, naczelnika urzędu skarbowego jako właściwego do przeprowadzenia tych kontroli lub postępowań w sprawach dotyczących podatników lub płatników pozostających w zakresie właściwości miejscowej różnych organów, jeżeli zachodzi uzasadnione przypuszczenie wydania w tych sprawach decyzji z zastosowaniem art. 119a lub środków ograniczających umowne korzyści. Wyznaczenie organu podatkowego nie obejmuje przeprowadzenia postępowania podatkowego określonego w rozdziale 2 działu IIIA lub wydania decyzji, o których mowa w zdaniu pierwszym. Przepisy art. 18c § 3–6 stosuje się odpowiednio.
 
 **Art. 18d.**
 
@@ -1707,7 +1114,11 @@ Art. 307–323. (pominięte)
 
 **Art. 20y.** W okresie 2 lat od dnia rozwiązania umowy o współdziałanie przez Szefa Krajowej Administracji Skarbowej na podstawie art. 20x § 2 podatnik ten nie może złożyć wniosku o zawarcie kolejnej umowy o współdziałanie.
 
-**Art. 20z.** Z dniem rozwiązania umowy o współdziałanie Szef Krajowej Administracji Skarbowej może wypowiedzieć porozumienie podatkowe, o którym mowa w rozdziale 2. Art. 20za. § 1. Szef Krajowej Administracji Skarbowej prowadzi ewidencję podatników, z którymi zawarł umowę o współdziałanie.
+**Art. 20z.** Z dniem rozwiązania umowy o współdziałanie Szef Krajowej Administracji Skarbowej może wypowiedzieć porozumienie podatkowe, o którym mowa w rozdziale 2.
+
+**Art. 20za.**
+
+§ 1. Szef Krajowej Administracji Skarbowej prowadzi ewidencję podatników, z którymi zawarł umowę o współdziałanie.
 
 § 2. Ewidencja, o której mowa w § 1, zawiera:
 
@@ -1718,11 +1129,338 @@ Art. 307–323. (pominięte)
 
 #### Rozdział 2 Porozumienia podatkowe
 
+**Art. 20zb.** Szef Krajowej Administracji Skarbowej może zawrzeć z podatnikiem będącym stroną umowy o współdziałanie, na piśmie, porozumienie podatkowe w zakresie objętym tą umową w sprawie:
+
+- **1)** interpretacji przepisów prawa podatkowego;
+- **1a)** opinii w sprawie opodatkowania wyrównawczego;
+- **2)** ustalania cen transferowych;
+- **3)** braku zasadności zastosowania art. 119a § 1;
+- **4)** wysokości prognozowanego na następny rok podatkowy zobowiązania podatkowego w podatku dochodowym od osób prawnych;
+- **5)** innej, niezbędnej dla zapewnienia prawidłowej realizacji umowy o współdziałanie.
+
+**Art. 20zba.** Nie zawiera się porozumienia podatkowego w sprawie, która w dniu złożenia wniosku o jego zawarcie jest objęta porozumieniem inwestycyjnym, o którym mowa w art. 20zs § 1.
+
+**Art. 20zc.**
+
+§ 1. Porozumienie podatkowe nie może zostać zawarte w zakresie czynności i zdarzeń objętych toczącym się postępowaniem podatkowym, kontrolą podatkową, kontrolą celno-skarbową lub postępowaniem przed sądem administracyjnym albo gdy w tym zakresie sprawa została rozstrzygnięta co do istoty w decyzji lub postanowieniu organu podatkowego.
+
+§ 2. W przypadku odmowy zawarcia porozumienia podatkowego Szef Krajowej Administracji Skarbowej wskazuje przyczyny odmowy wraz z uzasadnieniem.
+
+§ 3. Do porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 1, przepisy art. 14c § 1 stosuje się odpowiednio.
+
+§ 3a. Do porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 1a, przepisy art. 14t, art. 14u § 1, 2 i 10, art. 14w, art. 14z § 1 i 3 oraz art. 14za § 1, 2, 5 i 6 stosuje się odpowiednio, przy czym:
+
+- **1)** opłaty, o których mowa w art. 14z § 1 i art. 14za, pobiera się po zawarciu porozumienia w wysokości 50 % kwot, o których mowa w art. 14z § 1 i art. 14za;
+- **2)** obowiązek przedstawienia dokumentów lub informacji, o których mowa w art. 14u § 2 i 10, nie dotyczy dokumentów lub informacji przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach realizacji umowy o współdziałanie.
+
+§ 4. Do porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 2, przepisy art. 83, art. 85–88, art. 90 ust. 1 i 3, art. 92, art. 95 ust. 1–6 i 8, art. 96, art. 98–100, art. 105 ust. 1 i 3, art. 106 ust. 1 i 3 oraz art. 107 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych stosuje się odpowiednio, przy czym:
+
+- **1)** opłaty, o których mowa w art. 98 i art. 99 tej ustawy, pobiera się po zawarciu porozumienia w wysokości 50 % kwot, o których mowa w art. 98 i art. 99 tej ustawy;
+- **2)** obowiązek przedstawienia dokumentów lub informacji, o których mowa w art. 90 ust. 1 oraz art. 107 tej ustawy, nie dotyczy dokumentów lub informacji przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach umowy o współdziałanie lub audytu podatkowego.
+
+§ 5. Do porozumienia podatkowego, o którym mowa w art. 20zb pkt 3, przepisy art. 119x § 1, art. 119y § 1, art. 119za pkt 1 i 2 oraz art. 119zc stosuje się odpowiednio, przy czym:
+
+- **1)** obowiązek przedstawienia dokumentów i informacji, o których mowa w art. 119x § 1, nie dotyczy dokumentów przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach umowy o współdziałanie lub audytu podatkowego;
+- **2)** opłatę, o której mowa w art. 119zc, pobiera się po zawarciu porozumienia w wysokości 50 % kwoty, o której mowa w art. 119zc § 1.
+
+**Art. 20zd.** Przed zawarciem porozumienia podatkowego Szef Krajowej Administracji Skarbowej może zasięgnąć opinii:
+
+- **1)** Dyrektora Krajowej Informacji Skarbowej lub naczelnika urzędu skarbowego właściwego dla podatnika będącego stroną umowy o współdziałanie – w przypadku porozumienia podatkowego w sprawach, o których mowa w art. 20zb pkt 1 i 1a;
+- **2)** Rady do Spraw Przeciwdziałania Unikaniu Opodatkowania – w przypadku porozumienia podatkowego, o którym mowa w art. 20zb pkt 3, przy czym przepis art. 119h § 3 stosuje się odpowiednio;
+- **3)** Rady GLOBE – w przypadku porozumienia podatkowego, o którym mowa w art. 20zb pkt 1a, przy czym przepisy art. 14zf i art. 14zg stosuje się odpowiednio.
+
+**Art. 20ze.**
+
+§ 1. Podatnik może w każdym czasie wypowiedzieć porozumienie podatkowe.
+
+§ 2. Szef Krajowej Administracji Skarbowej może wypowiedzieć porozumienie podatkowe, jeżeli:
+
+- **1)** wyjdą na jaw istotne dla sprawy, w jakiej zawarto porozumienie, nowe okoliczności faktyczne lub nowe dowody, istniejące w dniu zawarcia tego porozumienia, nieznane Szefowi Krajowej Administracji Skarbowej, lub
+- **2)** stwierdzi, że porozumienie jest nieprawidłowe w świetle w szczególności orzecznictwa Trybunału Konstytucyjnego, Trybunału Sprawiedliwości Unii Europejskiej, uchwał Naczelnego Sądu Administracyjnego lub interpretacji ogólnych, lub
+- **3)** zostanie rozwiązana umowa o współdziałanie.
+
+§ 3. Z zastrzeżeniem art. 20z, rozwiązanie porozumienia podatkowego następuje z dniem złożenia, na piśmie, drugiej stronie wypowiedzenia tego porozumienia wraz z uzasadnieniem. Podatnik w wypowiedzeniu porozumienia może wskazać inny niż wynikający ze zdania pierwszego termin rozwiązania porozumienia, poprzedzający dzień złożenia tego wypowiedzenia.
+
+§ 4. Rozwiązanie porozumienia podatkowego na podstawie § 2 pkt 1 wywołuje skutki prawne od dnia jego zawarcia.
+
+§ 5. Zastosowanie się do porozumienia rozwiązanego na podstawie § 1 oraz § 2 pkt 2 i 3 nie może szkodzić podatnikowi. Przepisy art. 14k oraz art. 14m § 1– 3 stosuje się odpowiednio.
+
+**Art. 20zf.** W zakresie nieuregulowanym w niniejszym rozdziale do porozumień podatkowych przepisy działu IV rozdziału 11 stosuje się odpowiednio.
+
 #### Rozdział 3 Audyt podatkowy
+
+**Art. 20zg.** Audyt podatkowy przeprowadza Szef Krajowej Administracji Skarbowej wobec podatnika przed zawarciem umowy o współdziałanie (audyt wstępny) oraz w trakcie obowiązywania umowy o współdziałanie (audyt monitorujący) w celu sprawdzenia:
+
+- **1)** prawidłowości wypełniania obowiązków podatkowych;
+- **2)** skuteczności i adekwatności ram wewnętrznego nadzoru podatkowego.
+
+**Art. 20zh.**
+
+§ 1. Podatnik jest obowiązany do przekazywania na wniosek Szefa Krajowej Administracji Skarbowej dokumentów i informacji niezbędnych do przeprowadzenia audytu podatkowego.
+
+§ 2. Dokumenty i informacje uznane przez Szefa Krajowej Administracji Skarbowej za zawierające tajemnicę przedsiębiorstwa są niszczone w terminie 2 miesięcy od dnia:
+
+- **1)** rozwiązania umowy o współdziałanie;
+- **2)** zakończenia audytu wstępnego, jeżeli audyt wstępny został zakończony opinią – w przypadku niezawarcia umowy o współdziałanie;
+- **3)** zakończenia weryfikacji zastosowania się przez podatnika do wydanych zaleceń, o których mowa w art. 20zi § 1 pkt 2 – w przypadku niezawarcia umowy o współdziałanie.
+
+**Art. 20zi.**
+
+§ 1. Z przeprowadzonego audytu podatkowego Szef Krajowej Administracji Skarbowej sporządza:
+
+- **1)** opinię pozytywną albo
+- **2)** zalecenia wskazujące, jakie czynności podatnik powinien podjąć w celu usunięcia stwierdzonych w ramach tego audytu nieprawidłowości, wraz z uzasadnieniem, albo
+- **3)** opinię negatywną.
+
+§ 2. Audyt monitorujący jest wykonywany w sposób ciągły.
+
+§ 3. Opinia oraz zalecenia są przekazywane niezwłocznie podatnikowi.
+
+§ 4. Termin realizacji czynności podejmowanych w związku z przekazanymi zaleceniami podatnik uzgadnia z Szefem Krajowej Administracji Skarbowej.
+
+§ 5. W przypadku zastosowania się przez podatnika do zaleceń audytu wstępnego audyt ten może być wznowiony na okres niezbędny do weryfikacji zastosowania się podatnika do tych zaleceń.
+
+**Art. 20zj.**
+
+§ 1. O przeprowadzeniu audytu wstępnego i jego zakresie decyduje Szef Krajowej Administracji Skarbowej, biorąc pod uwagę ocenę ryzyka podatkowego zidentyfikowanego u podatnika wnioskującego o zawarcie umowy o współdziałanie.
+
+§ 2. Podatnik jest informowany o zakresie audytu wstępnego.
+
+§ 3. Harmonogram działań podejmowanych w ramach audytu wstępnego Szef Krajowej Administracji Skarbowej uzgadnia z podatnikiem.
+
+§ 4. Audyt wstępny w zakresie poprawności wypełniania obowiązków podatkowych obejmuje 2 lata podatkowe poprzedzające rok, w którym podatnik wystąpił z wnioskiem o podpisanie umowy o współdziałanie, oraz okres od początku roku podatkowego, w którym podatnik wystąpił z wnioskiem, do dnia zakończenia tego audytu.
+
+§ 5. Audyt wstępny w zakresie poprawności wypełniania obowiązków podatkowych przez następcę prawnego podatnika, który zawarł umowę o współdziałanie, może objąć krótszy okres niż określony w § 4.
+
+**Art. 20zk.** Audyt podatkowy w zakresie prawidłowości wypełniania obowiązków podatkowych obejmuje analizę ryzyka i badanie dokumentacji dotyczącej zidentyfikowanych u podatnika obszarów ryzyka podatkowego.
+
+**Art. 20zl.** Audyt podatkowy w zakresie ram wewnętrznego nadzoru podatkowego obejmuje ocenę możliwości prawidłowego wykonywania obowiązków podatkowych poprzez weryfikację poziomu wdrożenia i funkcjonowania:
+
+- **1)** systemu zarządzania ryzykiem,
+- **2)** kontroli wewnętrznej,
+- **3)** audytu wewnętrznego,
+- **4)** nadzoru nad zgodnością działalności z przepisami prawa, regulacjami wewnętrznymi i dobrowolnie przyjętymi standardami,
+- **5)** mechanizmów nadzoru zewnętrznego, w tym niezależnego audytu funkcji podatkowej – w odniesieniu do spraw podatkowych.
+
+**Art. 20zm.**
+
+§ 1. W przypadku złożenia prawnie skutecznej deklaracji lub korekty deklaracji:
+
+- **1)** w terminie 14 dni od dnia otrzymania zaleceń audytu wstępnego i w celu usunięcia stwierdzonych w nim nieprawidłowości w zakresie realizacji obowiązków podatkowych i wpłacenia związanej z tą korektą zaległości podatkowej w terminie 7 dni od daty złożenia tej deklaracji albo korekty deklaracji – przepis art. 56a § 1 stosuje się odpowiednio;
+- **2)** za okres rozliczeniowy objęty audytem monitorującym oraz pod warunkiem wpłacenia zaległości podatkowych w terminie 7 dni od dnia złożenia tej deklaracji albo korekty deklaracji – nie nalicza się odsetek za zwłokę.
+
+§ 2. Przepis § 1 pkt 1 stosuje się do deklaracji oraz korekt deklaracji złożonych za okresy nieobjęte audytem wstępnym, jeżeli złożone zostały w celu usunięcia nieprawidłowości stwierdzonych w wyniku tego audytu.
+
+§ 3. W przypadku, o którym mowa w § 1 pkt 2, nie wszczyna się postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe.
+
+**Art. 20zn.**
+
+§ 1. Czynności w zakresie audytu podatkowego wykonują pracownicy zatrudnieni w wyodrębnionej w tym celu komórce organizacyjnej urzędu obsługującego Szefa Krajowej Administracji Skarbowej, działający z jego upoważnienia.
+
+§ 2. Czynności w zakresie audytu podatkowego mogą być wykonywane z upoważnienia Szefa Krajowej Administracji Skarbowej przez pracowników i funkcjonariuszy jednostek Krajowej Administracji Skarbowej.
+
+§ 3. Pracownicy i funkcjonariusze wykonujący czynności w zakresie audytu podatkowego nie mogą uczestniczyć w przeprowadzaniu kontroli podatkowej, kontroli celno-skarbowej oraz w postępowaniu podatkowym wobec podatnika objętego tym audytem przez okres 3 lat od dnia jego zakończenia.
+
+**Art. 20zo.**
+
+§ 1. Niezależny audyt funkcji podatkowej jest przeprowadzany na zlecenie podatnika przez niezależnego audytora podatkowego.
+
+§ 2. Niezależnym audytorem podatkowym może być spółka doradztwa podatkowego, firma audytorska, doradca podatkowy lub biegły rewident, z wyjątkiem podmiotu:
+
+- **1)** wykonującego na rzecz podatnika czynności rewizji finansowej, usługi doradztwa podatkowego lub prawnego,
+- **2)** będącego krajowym podmiotem powiązanym lub zagranicznym podmiotem powiązanym w rozumieniu ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych wobec:
+    - **a)** podatnika,
+    - **b)** podmiotu wykonującego usługi doradztwa podatkowego lub czynności rewizji finansowej na rzecz tego podatnika,
+
+- **3)** wykonującego usługi, o których mowa w pkt 2 lit. b, na rzecz podmiotu, który świadczy na rzecz podatnika takie usługi – w okresie objętym tym audytem podatkowym oraz w trakcie jego przeprowadzania.
+
+**Art. 20zp.**
+
+§ 1. Niezależny audyt funkcji podatkowej obejmuje sprawdzenie prawidłowości wykonywania obowiązków podatkowych oraz skuteczności i adekwatności wdrożonych ram wewnętrznego nadzoru podatkowego.
+
+§ 2. Z przeprowadzenia niezależnego audytu funkcji podatkowej sporządza się raport zawierający wynik niezależnego audytu funkcji podatkowej. Raport podpisuje niezależny audytor podatkowy przeprowadzający ten audyt.
+
+§ 3. Raport z niezależnego audytu funkcji podatkowej jest przekazywany niezwłocznie podatnikowi wraz z dokumentacją audytu zawierającą testy i procedury przeprowadzone w jego trakcie.
+
+**Art. 20zq.** W zakresie nieuregulowanym w niniejszym rozdziale przepisy działu IV rozdziału 11 stosuje się odpowiednio.
 
 #### Rozdział 4 Przepisy wspólne
 
+**Art. 20zr.**
+
+§ 1. W zakresie nieuregulowanym w niniejszym dziale przepisy art. 168, art. 172, art. 173 i art. 175–177 oraz działu IV rozdziału 1 z wyłączeniem art. 127, rozdziałów 5 i 10 stosuje się odpowiednio.
+
+§ 2. Do spraw uregulowanych w niniejszym dziale nie stosuje się przepisu art. 3 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
+
 ### DZIAŁ IIC Porozumienie inwestycyjne
+
+**Art. 20zs.**
+
+§ 1. Minister właściwy do spraw finansów publicznych, zwany dalej w niniejszym dziale „organem właściwym w sprawie porozumienia”, może zawrzeć z inwestorem, na jego wniosek, umowę w sprawie skutków podatkowych inwestycji planowanej lub rozpoczętej na terytorium Rzeczypospolitej Polskiej (porozumienie inwestycyjne).
+
+§ 2. Porozumienie inwestycyjne służy realizacji zasady pewności prawa podatkowego oraz zapewnieniu jednolitej i spójnej wykładni przepisów prawa podatkowego.
+
+§ 3. Inwestorem jest każdy, kto planuje lub rozpoczął inwestycję na terytorium Rzeczypospolitej Polskiej.
+
+§ 4. Inwestycją, o której mowa w § 1, jest inwestycja w rozumieniu art. 2 pkt 1 ustawy z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji (Dz. U. z 2025 r. poz. 469), której wartość wynosi co najmniej 50 000 000 zł, przy czym wartość inwestycji wyrażonej w walucie obcej ustala się z uwzględnieniem kursu średniego waluty obcej ogłoszonego przez Narodowy Bank Polski i obowiązującego w pierwszym dniu miesiąca złożenia wniosku o zawarcie porozumienia inwestycyjnego.
+
+§ 5. Organ właściwy w sprawie porozumienia może odmówić zawarcia porozumienia inwestycyjnego, w szczególności gdy przedmiotem wniosku o jego zawarcie jest sprawa, która została uprzednio rozpoznana przez właściwy organ podatkowy, lub w chwili złożenia wniosku o zawarcie porozumienia inwestycyjnego sprawa ta była w trakcie rozpatrywania przez taki organ.
+
+§ 6. W przypadku odmowy zawarcia porozumienia inwestycyjnego organ właściwy w sprawie porozumienia zawiadamia inwestora, wskazując przyczyny takiej odmowy wraz z uzasadnieniem.
+
+§ 7. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, upoważnić organ Krajowej Administracji Skarbowej do wykonywania zadań organu właściwego w sprawie porozumienia, mając na względzie zapewnienie sprawnego i szybkiego wykonywania tych zadań.
+
+**Art. 20zt.** Porozumienie inwestycyjne może obejmować:
+
+- **1)** ocenę, że cena transferowa transakcji kontrolowanej jest ustalona na warunkach, które ustaliłyby między sobą podmioty niepowiązane, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 83– 86, art. 90, art. 92, art. 103, art. 104, art. 106 i art. 107 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych;
+- **2)** ocenę, że do korzyści podatkowej wskazanej we wniosku o zawarcie porozumienia inwestycyjnego nie ma zastosowania przepis art. 119a § 1, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 119x § 1 i 2, art. 119y § 1 i 2 oraz art. 119za pkt 1 i 2;
+- **2a)** opinię w sprawie opodatkowania wyrównawczego, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 14t oraz art. 14u § 1, 2 i 10;
+- **3)** klasyfikację i rodzaj wyrobu akcyzowego lub klasyfikację samochodu osobowego – w układzie odpowiadającym Nomenklaturze Scalonej (CN), przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 7e ust. 2 i 3 oraz art. 7f ust. 1–3, ust. 4 zdanie pierwsze, ust. 6 i 7 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
+- **4)** opis i klasyfikację towaru lub usługi oraz właściwą stawkę podatku, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 42b ust. 2 pkt 1–3, ust. 4, 5 i 7 oraz art. 42e ust. 1–3, ust. 4 zdanie pierwsze, ust. 6 i 7 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;
+- **5)** interpretację przepisów prawa podatkowego w zakresie nieobjętym pkt 1–4, przy czym przepis art. 14b § 3 stosuje się odpowiednio.
+
+**Art. 20zu.**
+
+§ 1. Wniosek o zawarcie porozumienia inwestycyjnego może złożyć inwestor albo grupa inwestorów, w szczególności utworzone w związku z inwestycją konsorcjum, spółka, oddział lub przedstawicielstwo.
+
+§ 2. Wniosek o zawarcie porozumienia inwestycyjnego, oprócz spełnienia wymogów określonych w art. 20zt, zawiera:
+
+- **1)** dane identyfikujące inwestora;
+- **2)** adres do doręczeń elektronicznych, chyba że inwestor wyraził zgodę na doręczanie pism za pośrednictwem konta w e-Urzędzie Skarbowym;
+- **3)** opis planowanej lub rozpoczętej inwestycji;
+- **4)** deklarowaną wartość inwestycji i wyjaśnienie sposobu jej ustalenia;
+- **5)** proponowany okres obowiązywania porozumienia;
+- **6)** proponowany przedmiot porozumienia.
+
+§ 3. Inwestor może w każdym czasie:
+
+- **1)** zmienić wniosek o zawarcie porozumienia inwestycyjnego, przy czym jeżeli zmiana wniosku polega na przyłączeniu się kolejnego inwestora, zmieniony wniosek podpisują również dotychczasowi inwestorzy;
+- **2)** wycofać wniosek o zawarcie porozumienia inwestycyjnego, przy czym wycofanie się przez jednego z inwestorów nie wywołuje skutku wobec pozostałych.
+
+§ 4. Wniosek o zawarcie porozumienia inwestycyjnego oraz inne pisma i dokumenty mogą być sporządzone przez inwestora w języku angielskim.
+
+§ 5. Organ właściwy w sprawie porozumienia zawiadamia wójta, burmistrza (prezydenta miasta), starostę lub marszałka województwa o:
+
+- **1)** złożeniu wniosku o zawarcie porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 5, i jego przedmiocie,
+- **2)** prawie przedstawienia stanowiska w sprawie, w terminie określonym w zawiadomieniu, niekrótszym jednak niż 30 dni od dnia doręczenia zawiadomienia – w zakresie, w jakim wniosek dotyczy sprawy z zakresu interpretacji indywidualnych wydawanych przez odpowiednio wójta, burmistrza (prezydenta miasta), starostę lub marszałka województwa.
+
+**Art. 20zv.**
+
+§ 1. Wniosek o zawarcie porozumienia inwestycyjnego podlega opłacie wstępnej.
+
+§ 2. Opłata wstępna wynosi 50 000 zł od każdego inwestora składającego wniosek o zawarcie porozumienia inwestycyjnego.
+
+§ 3. Opłata wstępna jest wnoszona na rachunek organu właściwego w sprawie porozumienia w terminie 30 dni od dnia złożenia wniosku. W przypadku nieuiszczenia w terminie opłaty wstępnej przez któregokolwiek z inwestorów wniosek pozostawia się bez rozpatrzenia.
+
+§ 4. Opłata wstępna podlega zwrotowi w terminie 30 dni od dnia odmowy zawarcia porozumienia inwestycyjnego.
+
+§ 5. Opłata wstępna stanowi dochód budżetu państwa.
+
+**Art. 20zw.**
+
+§ 1. W celu uzgodnienia zakresu i treści porozumienia inwestycyjnego organ właściwy w sprawie porozumienia może:
+
+- **1)** zwracać się do inwestora o wyjaśnienie wątpliwości lub uzupełnienie wniosku, w tym poprzez dostarczenie próbki towaru, lub
+- **2)** zorganizować spotkanie uzgodnieniowe.
+
+§ 2. Ze spotkania uzgodnieniowego sporządza się protokół. Jeżeli spotkanie uzgodnieniowe prowadzone jest w języku angielskim, protokół sporządza się w języku polskim i języku angielskim, przy czym w przypadku wystąpienia rozbieżności rozstrzygający jest tekst polski.
+
+§ 3. Przebieg spotkania uzgodnieniowego może być utrwalony przez organ właściwy w sprawie porozumienia za pomocą aparatury rejestrującej obraz i dźwięk lub na informatycznych nośnikach danych.
+
+§ 4. Organ właściwy w sprawie porozumienia zawiadamia inwestora o wysokości i terminie uiszczenia opłaty, o której mowa w art. 7f ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym i art. 42e ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
+
+**Art. 20zx.**
+
+§ 1. Porozumienie inwestycyjne obowiązuje przez okres uzgodniony w porozumieniu, niedłuższy jednak niż 5 lat podatkowych.
+
+§ 2. Porozumienie inwestycyjne może być sporządzone jednocześnie w języku polskim i języku angielskim. W przypadku rozbieżności rozstrzygający jest tekst polski.
+
+§ 3. Porozumienie inwestycyjne wiąże w każdym czasie inwestora i organ właściwy w sprawie porozumienia oraz organy podatkowe za okresy rozliczeniowe objęte porozumieniem.
+
+§ 4. Jeżeli przedmiot porozumienia inwestycyjnego stanowi element czynności będących przedmiotem decyzji wydanej w związku z wystąpieniem nadużycia prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, przepisu § 3 nie stosuje się.
+
+**Art. 20zy.**
+
+§ 1. Zawarcie porozumienia inwestycyjnego podlega opłacie głównej w wysokości określonej w porozumieniu, nieniższej jednak niż 100 000 zł i niewyższej niż 500 000 zł.
+
+§ 2. Przy ustaleniu wysokości opłaty głównej uwzględnia się zakres i złożoność porozumienia inwestycyjnego.
+
+§ 3. Inwestorzy ponoszą solidarną odpowiedzialność za wniesienie opłaty głównej.
+
+§ 4. Opłata główna jest wnoszona przez inwestora na rachunek organu właściwego w sprawie porozumienia w terminie 30 dni od dnia zawarcia porozumienia inwestycyjnego. W przypadku nieuiszczenia w terminie opłaty głównej porozumienie inwestycyjne nie wywołuje skutków prawnych.
+
+§ 5. Opłata główna stanowi dochód budżetu państwa.
+
+**Art. 20zz.**
+
+§ 1. Każda strona może złożyć wniosek o zmianę porozumienia inwestycyjnego.
+
+§ 2. Do wniosku o zmianę porozumienia inwestycyjnego składanego przez inwestora stosuje się odpowiednio przepisy dotyczące składania wniosku o zawarcie porozumienia inwestycyjnego, przy czym wniosek ten podlega:
+
+- **1)** opłacie wstępnej w wysokości 25 000 zł od każdego inwestora;
+- **2)** opłacie głównej w wysokości określonej w zmianie porozumienia, nieniższej jednak niż 50 000 zł i niewyższej niż 250 000 zł.
+
+§ 3. W przypadku, o którym mowa w art. 20zzb § 2, zmiana porozumienia inwestycyjnego nie podlega opłacie wstępnej ani opłacie głównej.
+
+§ 4. Wniosek o zmianę porozumienia inwestycyjnego polegającą na przyłączeniu się nowego inwestora podlega opłacie wstępnej, którą uiszcza ten inwestor.
+
+**Art. 20zza.**
+
+§ 1. Inwestor może w każdym czasie wypowiedzieć porozumienie inwestycyjne. W takim przypadku rozwiązanie porozumienia następuje od pierwszego dnia następnego roku podatkowego.
+
+§ 2. Organ właściwy w sprawie porozumienia może wypowiedzieć porozumienie inwestycyjne ze skutkiem od pierwszego dnia jego obowiązywania, jeżeli wyjdzie na jaw istotna dla porozumienia nowa okoliczność faktyczna lub nowy dowód, istniejące w dniu zawarcia tego porozumienia i nieznane temu organowi. W takim przypadku przepisu art. 20zx § 3 nie stosuje się.
+
+§ 3. Przed wypowiedzeniem porozumienia inwestycyjnego organ właściwy w sprawie porozumienia:
+
+- **1)** wzywa inwestora do złożenia wyjaśnień w terminie niekrótszym niż 7 dni lub
+- **2)** przedkłada inwestorowi propozycję zmiany porozumienia inwestycyjnego ze skutkiem od pierwszego dnia jego obowiązywania albo innego dnia wskazanego w propozycji zmiany i wyznacza termin, niekrótszy jednak niż 30 dni, do zawarcia tej zmiany porozumienia.
+
+§ 4. W przypadku niestosowania przez inwestora porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 1, w okresie jego obowiązywania organ właściwy w sprawie porozumienia wypowiada to porozumienie ze skutkiem od pierwszego dnia jego obowiązywania.
+
+§ 5. W przypadku stwierdzenia nieprawidłowości porozumienia inwestycyjnego organ właściwy w sprawie porozumienia składa wniosek o jego zmianę lub wypowiada porozumienie inwestycyjne, uwzględniając w szczególności:
+
+- **1)** orzecznictwo Trybunału Konstytucyjnego, Trybunału Sprawiedliwości Unii Europejskiej lub Naczelnego Sądu Administracyjnego;
+- **2)** wystąpienie przesłanek, o których mowa w art. 7ha ust. 1 pkt 1 i 2, pkt 3 lit. a i c ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym – w przypadku porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 3;
+- **3)** wystąpienie przesłanek, o których mowa w art. 42h ust. 3 pkt 1 i 2, pkt 3 lit. a i c oraz pkt 4 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług – w przypadku porozumienia inwestycyjnego w zakresie, o którym mowa w art. 20zt pkt 4.
+
+§ 6. W przypadku wypowiedzenia porozumienia inwestycyjnego na podstawie § 5 rozwiązanie tego porozumienia następuje z dniem doręczenia wypowiedzenia, chyba że z treści tego wypowiedzenia wynika późniejszy termin.
+
+**Art. 20zzb.**
+
+§ 1. Porozumienie inwestycyjne wygasa z mocy prawa z dniem wejścia w życie przepisów prawa podatkowego w zakresie, w jakim porozumienie to stało się niezgodne z tymi przepisami.
+
+§ 2. Jeżeli okres między dniem ogłoszenia przepisów mających wpływ na treść porozumienia inwestycyjnego a dniem ich wejścia w życie jest krótszy niż 30 dni i w tym okresie porozumienie to nie zostanie zmienione, zastosowanie się inwestora do porozumienia w okresie 30 dni od dnia ich wejścia w życie nie powoduje:
+
+- **1)** wszczęcia postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe, a postępowanie wszczęte w tych sprawach umarza się;
+- **2)** naliczania odsetek za zwłokę.
+
+**Art. 20zzc.**
+
+§ 1. Organ właściwy w sprawie porozumienia prowadzi ewidencję inwestorów i porozumień inwestycyjnych obejmującą:
+
+- **1)** dane identyfikujące inwestora;
+- **2)** dzień złożenia, zmiany i cofnięcia wniosku o zawarcie porozumienia inwestycyjnego, w tym przyłączenia się nowego inwestora do tego wniosku;
+- **3)** dzień zawarcia porozumienia inwestycyjnego;
+- **4)** okres obowiązywania porozumienia inwestycyjnego;
+- **5)** dzień złożenia, zmiany i cofnięcia wniosku o zmianę porozumienia inwestycyjnego, w tym przyłączenia się nowego inwestora do tego wniosku;
+- **6)** dzień zmiany porozumienia inwestycyjnego, w tym przyłączenia się nowego inwestora do tego porozumienia;
+- **7)** dzień i przyczynę wygaśnięcia porozumienia inwestycyjnego.
+
+§ 2. Ewidencja podlega udostępnieniu w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego organ właściwy w sprawie porozumienia.
+
+**Art. 20zzd.**
+
+§ 1. Wniosek o zawarcie porozumienia inwestycyjnego, porozumienie inwestycyjne i inne pisma sporządzane na podstawie niniejszego działu przed zawarciem porozumienia inwestycyjnego i w okresie jego obowiązywania są utrwalane w postaci elektronicznej.
+
+§ 2. Złożenie i doręczenie pisma na podstawie przepisów niniejszego działu następuje na adres do doręczeń elektronicznych lub za pośrednictwem konta w eUrzędzie Skarbowym.
+
+**Art. 20zze.**
+
+§ 1. W zakresie nieuregulowanym w niniejszym dziale do porozumienia inwestycyjnego stosuje się odpowiednio przepisy art. 168, art. 187 § 3, art. 197 § 1 i 3 oraz przepisy działu IV rozdziału 1, z wyłączeniem przepisów art. 127 i art. 128, oraz przepisy rozdziału 3a, rozdziału 5, rozdziału 9, rozdziału 10 i rozdziału 23.
+
+§ 2. Do wypowiedzenia porozumienia inwestycyjnego stosuje się odpowiednio także przepisy działu IV rozdziału 11.
+
+§ 3. Do spraw uregulowanych w niniejszym dziale nie stosuje się przepisu art. 3 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 ### DZIAŁ III Zobowiązania podatkowe
 
@@ -2331,7 +2069,9 @@ Art. 307–323. (pominięte)
     - **b)** dokonanej w wyniku czynności sprawdzających,
     - **c)** złożonej po doręczeniu upoważnienia do przeprowadzenia kontroli celno-skarbowej – jeżeli kwota zaniżenia zobowiązania podatkowego, zawyżenia kwoty nadpłaty lub zwrotu podatku przekracza 25 % kwoty należnej i jest wyższa niż pięciokrotna wysokość minimalnego wynagrodzenia w rozumieniu ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), obowiązującego w dniu następującym po dniu upływu terminu płatności zobowiązania lub terminu zwrotu;
 
-- **3)** ujawnienia przez organ podatkowy w toku czynności sprawdzających, kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego niezłożenia deklaracji, mimo ciążącego obowiązku oraz braku zapłaty podatku. Art. 56ba. Przepisu art. 56b nie stosuje się do zaległości w podatku od towarów i usług, w przypadku gdy ustala się dodatkowe zobowiązanie podatkowe, o którym mowa w art. 112b lub art. 112c ustawy o podatku od towarów i usług.
+- **3)** ujawnienia przez organ podatkowy w toku czynności sprawdzających, kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego niezłożenia deklaracji, mimo ciążącego obowiązku oraz braku zapłaty podatku.
+
+**Art. 56ba.** Przepisu art. 56b nie stosuje się do zaległości w podatku od towarów i usług, w przypadku gdy ustala się dodatkowe zobowiązanie podatkowe, o którym mowa w art. 112b lub art. 112c ustawy o podatku od towarów i usług.
 
 **Art. 56c.** Stawki odsetek za zwłokę, o których mowa w art. 56–56b, ulegają obniżeniu lub podwyższeniu w stopniu odpowiadającym obniżeniu lub podwyższeniu podstawowej stopy oprocentowania kredytu lombardowego, począwszy od dnia, w którym stopa ta uległa zmianie.
 
@@ -2670,7 +2410,11 @@ Art. 307–323. (pominięte)
 
 § 3. Przepisy § 1 pkt 3 i 4 i § 2 stosuje się odpowiednio do umarzania zaległości płatnika lub inkasenta.
 
-§ 4. W przypadku, o którym mowa w § 1 pkt 3, organ podatkowy może umorzyć zaległość podatkową, jeżeli umorzenie nie będzie stanowiło pomocy publicznej lub będzie stanowiło pomoc de minimis w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis. Art. 67da. § 1. W razie niedotrzymania terminu płatności odroczonego podatku lub zaległości podatkowej bądź terminu płatności którejkolwiek z rat, na jakie zostały rozłożone podatek lub zaległość podatkowa, następuje z mocy prawa wygaśnięcie decyzji o:
+§ 4. W przypadku, o którym mowa w § 1 pkt 3, organ podatkowy może umorzyć zaległość podatkową, jeżeli umorzenie nie będzie stanowiło pomocy publicznej lub będzie stanowiło pomoc de minimis w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis.
+
+**Art. 67da.**
+
+§ 1. W razie niedotrzymania terminu płatności odroczonego podatku lub zaległości podatkowej bądź terminu płatności którejkolwiek z rat, na jakie zostały rozłożone podatek lub zaległość podatkowa, następuje z mocy prawa wygaśnięcie decyzji o:
 
 - **1)** odroczeniu terminu płatności podatku lub zaległości podatkowej wraz z odsetkami za zwłokę – w całości;
 - **2)** rozłożeniu na raty zapłaty podatku lub zaległości podatkowej – w części dotyczącej raty niezapłaconej w terminie płatności.
@@ -3288,7 +3032,12 @@ Art. 307–323. (pominięte)
 - **1)** państwo, w którym posiada miejsca zamieszkania, siedzibę lub zarząd;
 - **2)** państwo, w którym za pośrednictwem zagranicznego zakładu świadczy usługi dotyczące schematu podatkowego;
 - **3)** państwo, w którym jest zarejestrowany lub którego przepisom prawa podlega;
-- **4)** państwo, w którym jest członkiem samorządu zawodowego lub innej organizacji pozarządowej posiadającej siedzibę lub zarząd na terytorium tego państwa reprezentujących osoby lub podmioty świadczące usługi prawne, doradztwa podatkowego lub doradcze. Art. 86da. § 1. Promotor i wspomagający przekazujący informację o schemacie podatkowym są obowiązani do udzielania na piśmie osobie fizycznej, której informacje o schemacie podatkowym dotyczą, informacji o:
+- **4)** państwo, w którym jest członkiem samorządu zawodowego lub innej organizacji pozarządowej posiadającej siedzibę lub zarząd na terytorium tego państwa reprezentujących osoby lub podmioty świadczące usługi prawne, doradztwa podatkowego lub doradcze.
+
+**Art. 86da.**
+
+§ 1. Promotor i wspomagający przekazujący informację o schemacie podatkowym są obowiązani do udzielania na piśmie osobie fizycznej, której informacje o schemacie podatkowym dotyczą, informacji o:
+
 - **1)** gromadzeniu, przetwarzaniu i przekazywaniu informacji zgodnie z niniejszym rozdziałem oraz
 - **2)** przysługującym tej osobie prawie do uzyskania od administratora danych informacji, jakie ma prawo od tego administratora danych uzyskać, w czasie wystarczającym do skorzystania z jej praw do ochrony danych osobowych, zanim informacje zostaną przekazane.
 
@@ -3368,7 +3117,9 @@ Art. 307–323. (pominięte)
 
 § 5. Na postanowienie, o którym mowa w § 1 i 2, służy zażalenie.
 
-§ 6. W sytuacji braku możliwości potwierdzenia tożsamości lub istnienia podmiotu, który przekazał informację o schemacie podatkowym, Szef Krajowej Administracji Skarbowej pozostawia informację o schemacie podatkowym bez rozpatrzenia. Art. 86ia. Szef Krajowej Administracji Skarbowej doręcza potwierdzenie nadania NSP oraz inne pisma w zakresie związanym ze stosowaniem przepisów art. 86g–86i, za pomocą środków komunikacji elektronicznej, na adres do doręczeń elektronicznych wskazany przez przekazującego w informacji o schemacie podatkowym.
+§ 6. W sytuacji braku możliwości potwierdzenia tożsamości lub istnienia podmiotu, który przekazał informację o schemacie podatkowym, Szef Krajowej Administracji Skarbowej pozostawia informację o schemacie podatkowym bez rozpatrzenia.
+
+**Art. 86ia.** Szef Krajowej Administracji Skarbowej doręcza potwierdzenie nadania NSP oraz inne pisma w zakresie związanym ze stosowaniem przepisów art. 86g–86i, za pomocą środków komunikacji elektronicznej, na adres do doręczeń elektronicznych wskazany przez przekazującego w informacji o schemacie podatkowym.
 
 **Art. 86j.**
 
@@ -3437,7 +3188,9 @@ Art. 307–323. (pominięte)
 
 § 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób przesyłania informacji, o których mowa w art. 86b § 1 i 6, art. 86c § 1 i 2, art. 86d § 3, 4 i 5, art. 86f § 4 oraz art. 86j § 1, za pomocą środków komunikacji elektronicznej, mając na uwadze usprawnienie wypełniania, przekazywania i przetwarzania tych informacji oraz uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych w nich zawartych i potrzebę ich ochrony przed nieuprawnionym dostępem.
 
-§ 4. (uchylony) Art. 86na. Pełnomocnictwo szczególne do działania w sprawie z zakresu stosowania art. 86b–86ia upoważnia również do działania w innych sprawach z tego samego zakresu, chyba że w pełnomocnictwie zastrzeżono inaczej.
+§ 4. (uchylony)
+
+**Art. 86na.** Pełnomocnictwo szczególne do działania w sprawie z zakresu stosowania art. 86b–86ia upoważnia również do działania w innych sprawach z tego samego zakresu, chyba że w pełnomocnictwie zastrzeżono inaczej.
 
 **Art. 86o.** W zakresie nieuregulowanym w art. 86b–86ia stosuje się odpowiednio przepisy art. 120, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 165 § 3b, art. 165a, art. 168, art. 170, art. 171, art. 189 § 3, art. 208, działu IV rozdziału 3a, rozdziału 5 z wyłączeniem art. 144a § 1b, rozdziałów 6, 7, 14, 16 i 23 oraz działu VIIIA.
 
@@ -3857,7 +3610,11 @@ Art. 307–323. (pominięte)
 
 § 1. Podatnik, o którym mowa w art. 105a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, odpowiada solidarnie całym swoim majątkiem za zaległości podatkowe podmiotu dokonującego na jego rzecz dostawy towarów w zakresie i na zasadach określonych w przepisach o podatku od towarów i usług.
 
-§ 2. Zakres odpowiedzialności podatkowej nie obejmuje należności wymienionych w art. 107 § 2 pkt 1, 3 i 4 oraz odsetek za zwłokę powstałych przed dniem wydania decyzji o tej odpowiedzialności. Art. 117ba. § 1. Podatnik, o którym mowa w art. 15 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, na rzecz którego dokonano dostawy towarów lub świadczenia usług, odpowiada solidarnie całym swoim majątkiem wraz z dostawcą towarów lub usługodawcą zarejestrowanym na potrzeby podatku od towarów i usług jako podatnik VAT czynny za jego zaległości podatkowe w części podatku od towarów i usług proporcjonalnie przypadającej na tę dostawę towarów lub to świadczenie usług, jeżeli zapłata należności za dostawę towarów lub świadczenie usług, potwierdzone fakturą, została dokonana przelewem na rachunek inny niż zawarty na dzień zlecenia przelewu w wykazie podmiotów, o którym mowa w art. 96b ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
+§ 2. Zakres odpowiedzialności podatkowej nie obejmuje należności wymienionych w art. 107 § 2 pkt 1, 3 i 4 oraz odsetek za zwłokę powstałych przed dniem wydania decyzji o tej odpowiedzialności.
+
+**Art. 117ba.**
+
+§ 1. Podatnik, o którym mowa w art. 15 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, na rzecz którego dokonano dostawy towarów lub świadczenia usług, odpowiada solidarnie całym swoim majątkiem wraz z dostawcą towarów lub usługodawcą zarejestrowanym na potrzeby podatku od towarów i usług jako podatnik VAT czynny za jego zaległości podatkowe w części podatku od towarów i usług proporcjonalnie przypadającej na tę dostawę towarów lub to świadczenie usług, jeżeli zapłata należności za dostawę towarów lub świadczenie usług, potwierdzone fakturą, została dokonana przelewem na rachunek inny niż zawarty na dzień zlecenia przelewu w wykazie podmiotów, o którym mowa w art. 96b ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
 
 § 2. Podatnik, o którym mowa w art. 15 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, który na podstawie umowy zawartej z dostawcą towarów lub usługodawcą zarejestrowanym na potrzeby podatku od towarów i usług jako podatnik VAT czynny albo z nabywcą towarów lub usługobiorcą jest obowiązany do pobrania należności od nabywcy towarów lub usługobiorcy za dostawę towarów lub świadczenie usług, potwierdzone fakturą, i przekazania jej w całości albo części dostawcy towarów lub usługodawcy, odpowiada solidarnie całym swoim majątkiem wraz z dostawcą towarów lub usługodawcą za jego zaległości podatkowe w części podatku od towarów i usług proporcjonalnie przypadającej na tę należność, jeżeli dokonał zapłaty tej należności przelewem na rachunek inny niż zawarty na dzień zlecenia przelewu w wykazie podmiotów, o którym mowa w art. 96b ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
 
@@ -3880,7 +3637,9 @@ Art. 307–323. (pominięte)
 - **3)** numer rachunku, na który dokonano zapłaty należności;
 - **4)** wysokość należności zapłaconej przelewem na rachunek, o którym mowa w pkt 3, i dzień zlecenia przelewu na ten rachunek.
 
-§ 5. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w § 3 pkt 2, wraz z objaśnieniami co do sposobu prawidłowego jego wypełnienia, uwzględniając konieczność uproszczenia i usprawnienia procesu składania zawiadomień. Art. 117bb. (uchylony)
+§ 5. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w § 3 pkt 2, wraz z objaśnieniami co do sposobu prawidłowego jego wypełnienia, uwzględniając konieczność uproszczenia i usprawnienia procesu składania zawiadomień.
+
+**Art. 117bb.** (uchylony)
 
 **Art. 117c.** Pełnomocnik, o którym mowa w art. 96 ust. 4b ustawy o podatku od towarów i usług, odpowiada całym swoim majątkiem solidarnie z podatnikiem za zaległości podatkowe podatnika powstałe z tytułu czynności wykonanych w ciągu 6 miesięcy od dnia zarejestrowania podatnika jako podatnika VAT czynnego, na zasadach określonych w przepisach o podatku od towarów i usług. Przepisu art. 107 § 2 nie stosuje się.
 
@@ -4000,17 +3759,31 @@ Art. 307–323. (pominięte)
 
 § 7. W przypadku gdy będąca stroną postępowania podatkowego spółka cywilna, jawna, partnerska, komandytowa albo komandytowo-akcyjna została rozwiązana w jego trakcie, postępowanie podatkowe kończy się decyzją, o której mowa w art. 115 § 4.
 
-§ 8. Jeżeli w sprawie może być wydana decyzja z zastosowaniem środków ograniczających umowne korzyści, przepisy art. 119a § 7 oraz niniejszego rozdziału stosuje się odpowiednio. Art. 119ga. § 1. Wniosek określony w art. 119g § 1 i 2 zawiera w szczególności oznaczenie strony lub kontrolowanego, zakres prowadzonego postępowania podatkowego, kontroli podatkowej lub kontroli celno-skarbowej, opis ustaleń faktycznych, informację o stwierdzonych nieprawidłowościach oraz uzasadnienie odnośnie do możliwości zastosowania art. 119a wraz ze wskazaniem korzyści podatkowej oraz sposobu jej wyliczenia.
+§ 8. Jeżeli w sprawie może być wydana decyzja z zastosowaniem środków ograniczających umowne korzyści, przepisy art. 119a § 7 oraz niniejszego rozdziału stosuje się odpowiednio.
+
+**Art. 119ga.**
+
+§ 1. Wniosek określony w art. 119g § 1 i 2 zawiera w szczególności oznaczenie strony lub kontrolowanego, zakres prowadzonego postępowania podatkowego, kontroli podatkowej lub kontroli celno-skarbowej, opis ustaleń faktycznych, informację o stwierdzonych nieprawidłowościach oraz uzasadnienie odnośnie do możliwości zastosowania art. 119a wraz ze wskazaniem korzyści podatkowej oraz sposobu jej wyliczenia.
 
 § 2. Przed przejęciem postępowania podatkowego, kontroli podatkowej lub kontroli celno-skarbowej Szef Krajowej Administracji Skarbowej może zlecić organowi podatkowemu przeprowadzenie dodatkowych czynności.
 
 § 3. Szef Krajowej Administracji Skarbowej przejmuje do dalszego prowadzenia postępowanie podatkowe, kontrolę podatkową lub kontrolę celno-skarbową, jeżeli z załączonych do wniosku akt postępowania, w tym zgromadzonych dowodów, wynika, że w sprawie może zostać wydana decyzja z zastosowaniem art. 119a.
 
-§ 4. W przypadku niespełnienia przesłanek określonych w § 1 lub 3 Szef Krajowej Administracji Skarbowej zwraca akta sprawy właściwemu organowi podatkowemu. Art. 119gb. § 1. Szef Krajowej Administracji Skarbowej może odmówić wszczęcia postępowania podatkowego lub odmówić przejęcia postępowania podatkowego, kontroli podatkowej lub kontroli celno-skarbowej, a postępowanie wszczęte lub przejęte może umorzyć lub przekazać właściwemu organowi podatkowemu, jeżeli zastosowanie innych niż art. 119a przepisów prawa podatkowego pozwala na przeciwdziałanie unikaniu opodatkowania.
+§ 4. W przypadku niespełnienia przesłanek określonych w § 1 lub 3 Szef Krajowej Administracji Skarbowej zwraca akta sprawy właściwemu organowi podatkowemu.
+
+**Art. 119gb.**
+
+§ 1. Szef Krajowej Administracji Skarbowej może odmówić wszczęcia postępowania podatkowego lub odmówić przejęcia postępowania podatkowego, kontroli podatkowej lub kontroli celno-skarbowej, a postępowanie wszczęte lub przejęte może umorzyć lub przekazać właściwemu organowi podatkowemu, jeżeli zastosowanie innych niż art. 119a przepisów prawa podatkowego pozwala na przeciwdziałanie unikaniu opodatkowania.
 
 § 2. W przypadku określonym w § 1 Szef Krajowej Administracji Skarbowej może umorzyć wszczęte na podstawie art. 119g § 3 postępowanie podatkowe, a przejętą kontrolę podatkową lub kontrolę celno-skarbową przekazać organowi podatkowemu.
 
-§ 3. W sprawie przekazania, o którym mowa w § 1 i 2, wydaje się postanowienie, które doręcza się stronie oraz organowi podatkowemu, któremu sprawa jest przekazywana. Czynności dokonane przed przekazaniem sprawy pozostają w mocy. Art. 119gc. Szef Krajowej Administracji Skarbowej może wystąpić do właściwego organu podatkowego, o którym mowa w art. 119g § 2, o zajęcie stanowiska w sprawie w wyznaczonym terminie, niedłuższym niż 2 miesiące od dnia doręczenia wystąpienia. Szef Krajowej Administracji Skarbowej może w tym celu udostępnić organowi podatkowemu do wglądu akta postępowania podatkowego. Art. 119gd. § 1. Organem podatkowym właściwym do wydania decyzji o zabezpieczeniu, o którym mowa w art. 33, w toku postępowania podatkowego określonego w niniejszym rozdziale albo przed wszczęciem lub przejęciem postępowania podatkowego na podstawie art. 119g § 1 lub 3 jest organ podatkowy określony w art. 13 § 1 pkt 1.
+§ 3. W sprawie przekazania, o którym mowa w § 1 i 2, wydaje się postanowienie, które doręcza się stronie oraz organowi podatkowemu, któremu sprawa jest przekazywana. Czynności dokonane przed przekazaniem sprawy pozostają w mocy.
+
+**Art. 119gc.** Szef Krajowej Administracji Skarbowej może wystąpić do właściwego organu podatkowego, o którym mowa w art. 119g § 2, o zajęcie stanowiska w sprawie w wyznaczonym terminie, niedłuższym niż 2 miesiące od dnia doręczenia wystąpienia. Szef Krajowej Administracji Skarbowej może w tym celu udostępnić organowi podatkowemu do wglądu akta postępowania podatkowego.
+
+**Art. 119gd.**
+
+§ 1. Organem podatkowym właściwym do wydania decyzji o zabezpieczeniu, o którym mowa w art. 33, w toku postępowania podatkowego określonego w niniejszym rozdziale albo przed wszczęciem lub przejęciem postępowania podatkowego na podstawie art. 119g § 1 lub 3 jest organ podatkowy określony w art. 13 § 1 pkt 1.
 
 § 2. Wydanie decyzji o zabezpieczeniu, o którym mowa w art. 33, w toku postępowania podatkowego określonego w niniejszym rozdziale następuje po zasięgnięciu opinii Szefa Krajowej Administracji Skarbowej. Przepisów art. 209 § 2 i 5 nie stosuje się.
 
@@ -4222,15 +3995,25 @@ Art. 307–323. (pominięte)
 
 § 3. Odmowa wydania opinii zabezpieczającej zawiera pouczenie o prawie wniesienia skargi do sądu administracyjnego.
 
-**Art. 119z.** Złożenie wniosku o wydanie opinii zabezpieczającej nie stanowi przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej. Art. 119za. Opinia zabezpieczająca zawiera w szczególności:
+**Art. 119z.** Złożenie wniosku o wydanie opinii zabezpieczającej nie stanowi przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
+
+**Art. 119za.** Opinia zabezpieczająca zawiera w szczególności:
 
 - **1)** wyczerpujący opis czynności, której dotyczył wniosek;
 - **2)** ocenę, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności nie ma zastosowania przepis art. 119a;
-- **3)** pouczenie o prawie wniesienia skargi do sądu administracyjnego. Art. 119zb. § 1. Wniosek o wydanie opinii zabezpieczającej załatwia się bez zbędnej zwłoki, niepóźniej niż w terminie 6 miesięcy od dnia otrzymania wniosku przez Szefa Krajowej Administracji Skarbowej.
+- **3)** pouczenie o prawie wniesienia skargi do sądu administracyjnego.
+
+**Art. 119zb.**
+
+§ 1. Wniosek o wydanie opinii zabezpieczającej załatwia się bez zbędnej zwłoki, niepóźniej niż w terminie 6 miesięcy od dnia otrzymania wniosku przez Szefa Krajowej Administracji Skarbowej.
 
 § 2. Do terminu określonego w § 1 nie wlicza się terminów i okresów, o których mowa w art. 139 § 4.
 
-§ 3. W przypadkach uzasadnionych złożonością sprawy, w szczególności w razie zasięgnięcia opinii biegłego, termin, o którym mowa w § 1, może być przedłużany, niewięcej jednak niż o 9 miesięcy. Art. 119zc. § 1. Wniosek o wydanie opinii zabezpieczającej podlega opłacie w wysokości 20 000 zł, którą należy wpłacić w terminie 7 dni od dnia złożenia wniosku. Opłata od wspólnego wniosku zainteresowanych ulega zwiększeniu o 5000 zł od piątego i każdego kolejnego zainteresowanego.
+§ 3. W przypadkach uzasadnionych złożonością sprawy, w szczególności w razie zasięgnięcia opinii biegłego, termin, o którym mowa w § 1, może być przedłużany, niewięcej jednak niż o 9 miesięcy.
+
+**Art. 119zc.**
+
+§ 1. Wniosek o wydanie opinii zabezpieczającej podlega opłacie w wysokości 20 000 zł, którą należy wpłacić w terminie 7 dni od dnia złożenia wniosku. Opłata od wspólnego wniosku zainteresowanych ulega zwiększeniu o 5000 zł od piątego i każdego kolejnego zainteresowanego.
 
 § 2. Opłata podlega zwrotowi w przypadku:
 
@@ -4239,39 +4022,931 @@ Art. 307–323. (pominięte)
 
 § 3. W przypadku, o którym mowa w § 2, zwrot opłaty następuje niepóźniej niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii zabezpieczającej.
 
-§ 4. Koszty postępowania, o których mowa w art. 265 § 1 pkt 1 i 3, obciążają wnioskodawcę. Art. 119zd. § 1. Szef Krajowej Administracji Skarbowej może z urzędu zmienić wydaną opinię zabezpieczającą lub odmowę wydania opinii zabezpieczającej, jeżeli jest ona sprzeczna z orzecznictwem Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
+§ 4. Koszty postępowania, o których mowa w art. 265 § 1 pkt 1 i 3, obciążają wnioskodawcę.
 
-§ 2. (uchylony) Art. 119zda. § 1. Na podstawie treści opinii zabezpieczającej lub odmowy wydania opinii zabezpieczającej sporządza się informację, którą niezwłocznie zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+**Art. 119zd.**
 
-§ 2. Informacja, o której mowa w § 1, zawiera w szczególności zwięzły opis poddanej pod opinię czynności oraz wyjaśnienie powodów podjętego rozstrzygnięcia. Informacja nie może zawierać danych identyfikujących lub pozwalających na zidentyfikowanie wnioskodawcy lub innych podmiotów wskazanych w treści aktu. Art. 119zdb. § 1. Szef Krajowej Administracji Skarbowej zasięga opinii organu właściwego w sprawie porozumienia, jeżeli:
+§ 1. Szef Krajowej Administracji Skarbowej może z urzędu zmienić wydaną opinię zabezpieczającą lub odmowę wydania opinii zabezpieczającej, jeżeli jest ona sprzeczna z orzecznictwem Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
+
+§ 2. (uchylony)
+
+**Art. 119zda.**
+
+§ 1. Na podstawie treści opinii zabezpieczającej lub odmowy wydania opinii zabezpieczającej sporządza się informację, którą niezwłocznie zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+§ 2. Informacja, o której mowa w § 1, zawiera w szczególności zwięzły opis poddanej pod opinię czynności oraz wyjaśnienie powodów podjętego rozstrzygnięcia. Informacja nie może zawierać danych identyfikujących lub pozwalających na zidentyfikowanie wnioskodawcy lub innych podmiotów wskazanych w treści aktu.
+
+**Art. 119zdb.**
+
+§ 1. Szef Krajowej Administracji Skarbowej zasięga opinii organu właściwego w sprawie porozumienia, jeżeli:
 
 - **1)** przedstawione we wniosku o wydanie opinii zabezpieczającej okoliczności świadczą, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności może mieć zastosowanie zawarte porozumienie inwestycyjne w zakresie, o którym mowa w art. 20zt pkt 2, albo w zakresie tej korzyści podatkowej organ właściwy w sprawie porozumienia odmówił zawarcia tego porozumienia, lub
 - **2)** wnioskodawca jest stroną postępowania w przedmiocie zawarcia porozumienia inwestycyjnego w zakresie czynności opisanej we wniosku.
 
 § 2. Jeżeli z opinii organu właściwego w sprawie porozumienia wynika, że istnieją przeszkody do rozpatrzenia wniosku o wydanie opinii zabezpieczającej, Szef Krajowej Administracji Skarbowej odmawia wszczęcia postępowania w sprawie wydania opinii zabezpieczającej.
 
-§ 3. Do zasięgnięcia opinii organu właściwego w sprawie porozumienia przepisy art. 209 § 1–4 i 6 stosuje się odpowiednio. Art. 119ze. Jeżeli postępowanie w sprawie wydania opinii zabezpieczającej stało się bezprzedmiotowe, w szczególności w razie:
+§ 3. Do zasięgnięcia opinii organu właściwego w sprawie porozumienia przepisy art. 209 § 1–4 i 6 stosuje się odpowiednio.
+
+**Art. 119ze.** Jeżeli postępowanie w sprawie wydania opinii zabezpieczającej stało się bezprzedmiotowe, w szczególności w razie:
 
 - **1)** wycofania wniosku o jej wydanie,
-- **2)** wydania decyzji z zastosowaniem art. 119a w zakresie objętym wnioskiem o wydanie opinii – przepisy art. 208 oraz art. 210–212 stosuje się odpowiednio. Art. 119zea. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzory wniosków, o których mowa w art. 119x § 1 i art. 119w § 2, które zawierają dane określone w tych przepisach oraz oświadczenie wskazane w art. 14b § 4 oraz umożliwiają wskazanie danych, o których mowa w art. 14r § 2 oraz w art. 119w § 3, a także sposób uiszczenia opłaty, o której mowa w art. 119zc, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców. Art. 119zf. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14b § 4 i 5, art. 14d § 2 i 3, art. 14e § 1 pkt 2 i § 2–4, art. 14f § 3, art. 14i § 2, 4 i 5, art. 14r § 2 i 3, art. 120, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3, 3b i 9, art. 165a, art. 168, art. 169 § 1– 2 i 4, art. 170, art. 171, art. 187 § 3, art. 189 § 3, art. 197 § 1 i 3, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16 i 23.
+- **2)** wydania decyzji z zastosowaniem art. 119a w zakresie objętym wnioskiem o wydanie opinii – przepisy art. 208 oraz art. 210–212 stosuje się odpowiednio.
+
+**Art. 119zea.** Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzory wniosków, o których mowa w art. 119x § 1 i art. 119w § 2, które zawierają dane określone w tych przepisach oraz oświadczenie wskazane w art. 14b § 4 oraz umożliwiają wskazanie danych, o których mowa w art. 14r § 2 oraz w art. 119w § 3, a także sposób uiszczenia opłaty, o której mowa w art. 119zc, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców.
+
+**Art. 119zf.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14b § 4 i 5, art. 14d § 2 i 3, art. 14e § 1 pkt 2 i § 2–4, art. 14f § 3, art. 14i § 2, 4 i 5, art. 14r § 2 i 3, art. 120, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3, 3b i 9, art. 165a, art. 168, art. 169 § 1– 2 i 4, art. 170, art. 171, art. 187 § 3, art. 189 § 3, art. 197 § 1 i 3, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16 i 23.
 
 #### Rozdział 5 Cofnięcie skutków unikania opodatkowania
 
+**Art. 119zfa.**
+
+§ 1. Szef Krajowej Administracji Skarbowej, na wniosek zainteresowanego, może wydać decyzję określającą warunki cofnięcia skutków unikania opodatkowania.
+
+§ 2. Zainteresowani, którzy są powiązani tą samą czynnością, mogą wystąpić ze wspólnym wnioskiem.
+
+§ 3. Wniosek może dotyczyć uzyskanej korzyści podatkowej, a w przypadku podatków, które są rozliczane okresowo – korzyści podatkowej uzyskanej w zakończonym okresie rozliczeniowym.
+
+§ 4. Wniosek może dotyczyć więcej niż jednej korzyści podatkowej, jeżeli korzyści podatkowe zostały uzyskane w danym okresie rozliczeniowym w analogiczny sposób.
+
+§ 5. Przepisy niniejszego rozdziału stosuje się odpowiednio do cofnięcia skutków unikania opodatkowania wynikających ze środków ograniczających umowne korzyści.
+
+**Art. 119zfb.** Szef Krajowej Administracji Skarbowej odmawia wszczęcia postępowania:
+
+- **1)** w zakresie tych korzyści podatkowych, które w dniu złożenia wniosku są przedmiotem toczącego się postępowania podatkowego, toczącej się kontroli podatkowej, planowanej kontroli podatkowej, o której zamiarze wszczęcia podatnik lub płatnik został zawiadomiony na podstawie art. 282b § 1, lub toczącej się kontroli celno-skarbowej, albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego;
+- **2)** jeżeli stanowisko zawarte we wniosku wskazuje na zasadność wydania decyzji na podstawie art. 119zfi § 1 lub 2.
+
+**Art. 119zfc.**
+
+§ 1. Przed złożeniem wniosku zainteresowany może zwrócić się do Szefa Krajowej Administracji Skarbowej o wyjaśnienie wszelkich wątpliwości dotyczących wydania decyzji, w szczególności celowości jej wydania, zakresu niezbędnych informacji, trybu i przypuszczalnego terminu zakończenia postępowania.
+
+§ 2. Dokumenty i informacje uzyskane przez Szefa Krajowej Administracji Skarbowej w ramach czynności określonych w § 1 nie mogą stanowić dowodu w kontroli podatkowej, kontroli celno-skarbowej lub postępowaniu podatkowym, chyba że organ podatkowy uzyska te dokumenty i informacje w wyniku przeprowadzenia innych czynności.
+
+**Art. 119zfd.**
+
+§ 1. Wniosek zawiera informacje istotne z punktu widzenia przepisów art. 119a § 1–3, 5 i 6, w szczególności:
+
+- **1)** opis stanu faktycznego składający się z: o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych,
+    - **a)** wyczerpującego opisu dokonanej czynności prowadzącej do unikania opodatkowania,
+    - **b)** wskazania podmiotów biorących udział w czynności określonej w lit. a wraz ze wskazaniem występujących pomiędzy podmiotami powiązań w rozumieniu art. 23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r.
+    - **c)** określenia skutków podatkowych będących rezultatem czynności określonej w lit. a, w tym korzyści podatkowej, o której mowa w art. 119a § 1, wraz z przedstawieniem sposobu i metody wyliczenia tych skutków;
+
+- **2)** w zależności od okoliczności:
+    - **a)** wyczerpujący opis przyjętej czynności odpowiedniej w rozumieniu art. 119a § 3,
+    - **b)** oświadczenie, że osiągnięcie korzyści podatkowej było jedynym celem dokonania czynności prowadzącej do unikania opodatkowania,
+    - **c)** wskazanie przepisu ustawy podatkowej określonego w art. 119a § 6, który nie powinien mieć zastosowania;
+
+- **3)** uzasadnienie przyjęcia wybranej czynności odpowiedniej lub złożonego oświadczenia albo wskazania, o których mowa w pkt 2;
+- **4)** określenie skutków podatkowych, wraz z przedstawieniem sposobu i metody ich wyliczenia:
+    - **a)** dokonania przyjętej czynności odpowiedniej,
+    - **b)** stanu rzeczy, jaki zaistniałby, gdyby czynność prowadząca do unikania opodatkowania nie została dokonana,
+    - **c)** stanu prawnego, jaki zaistniałby, gdyby wskazany przepis ustawy podatkowej nie miał zastosowania.
+
+§ 1a. We wniosku zainteresowany może zwrócić się o określenie w decyzji sposobu cofnięcia skutków unikania opodatkowania w zakresie korzyści podatkowych, które mogą zostać osiągnięte w okresach rozliczeniowych następujących po okresie rozliczeniowym, którego dotyczyła decyzja, jeżeli zachodzi uzasadnione przez zainteresowanego prawdopodobieństwo, że korzyści te będą osiągane cyklicznie w związku z czynnością określoną w § 1 pkt 1 lit. a, w sposób analogiczny do korzyści podatkowej, o której mowa w § 1 pkt 1 lit. c.
+
+§ 2. Do wniosku należy załączyć istotną dokumentację:
+
+- **1)** dotyczącą czynności określonej w § 1 pkt 1, w tym również opisującą zamiary i cele podmiotów w niej uczestniczących;
+- **2)** wskazującą na zasadność stanowiska określonego w § 1 pkt 2 i 3.
+
+§ 3. Wniosek powinien zostać sporządzony i podpisany przez pełnomocnika szczególnego będącego doradcą podatkowym, adwokatem lub radcą prawnym.
+
+§ 4. Wniosek o wydanie decyzji niespełniający wymogów określonych w § 1–3 lub przepisach wydanych na podstawie § 5, lub innych wymogów określonych przepisami prawa pozostawia się bez rozpatrzenia.
+
+§ 5. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór wniosku, o którym mowa w § 1, który zawiera informacje określone w tym przepisie oraz wskazane w art. 14b § 4 i art. 14r § 2, a także sposób uiszczenia opłaty, o której mowa w art. 119zff, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców.
+
+**Art. 119zfe.**
+
+§ 1. Złożenie wniosku oraz wydanie decyzji nie stanowią przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
+
+§ 2. W toku postępowania o wydanie decyzji domniemywa się, że:
+
+- **1)** wskazana we wniosku czynność, o której mowa w art. 119zfd § 1 pkt 1 lit. a, została dokonana w sposób sztuczny;
+- **2)** co najmniej jednym z głównych celów dokonania czynności, o której mowa w pkt 1, było osiągnięcie korzyści podatkowej;
+- **3)** korzyść podatkowa określona w pkt 2 jest sprzeczna w danych okolicznościach z przedmiotem lub celem ustawy podatkowej lub jej przepisu.
+
+**Art. 119zff.**
+
+§ 1. Wniosek podlega opłacie w wysokości:
+
+- **1)** 0,2 % kwoty korzyści podatkowej, o której mowa w art. 119zfd § 1 pkt 1 lit. c – odnośnie do korzyści podatkowej lub jej części powodującej powstanie lub zawyżenie straty podatkowej,
+- **2)** 1 % kwoty korzyści podatkowej, o której mowa w art. 119zfd § 1 pkt 1 lit. c – w pozostałych przypadkach – jednak niemniejszej niż 1000 zł i niewiększej niż 15 000 zł.
+
+§ 2. Przepis § 1 stosuje się odpowiednio do wniosku, o którym mowa w art. 119zfa § 4, z tym że podstawę obliczenia opłaty stanowi łączna kwota korzyści podatkowych objętych wnioskiem.
+
+§ 3. Jeżeli czynność prowadząca do unikania opodatkowania została uprzednio oceniona w ramach odmowy wydania opinii zabezpieczającej, opłata od wniosku o wydanie decyzji wynosi 75 % różnicy opłaty obliczonej na podstawie § 1 i opłaty uiszczonej na podstawie art. 119zc § 1, jednak niemniej niż 1000 zł.
+
+§ 3a. W przypadku złożenia przez zainteresowanego wniosku określonego w art. 119zfd § 1a opłatę obliczoną na podstawie § 1 i 3 zwiększa się o 35 %.
+
+§ 4. Opłata podlega zwrotowi w przypadku:
+
+- **1)** wycofania wniosku w terminie 2 miesięcy od dnia jego złożenia – w połowie;
+- **2)** uiszczenia jej w kwocie wyższej niż należna – w odpowiedniej części.
+
+§ 5. Opłatę należy wpłacić w terminie 7 dni od dnia złożenia wniosku. Zwrot opłaty, o którym mowa w § 4, następuje niepóźniej niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania decyzji.
+
+§ 6. W przypadku uznania, że osiągnięta przez zainteresowanego korzyść podatkowa jest wyższa od tej, którą wskazano we wniosku o wydanie decyzji, w toku postępowania Szef Krajowej Administracji Skarbowej ustala, w drodze postanowienia, wysokość opłaty uzupełniającej, obliczonej zgodnie z § 1, 3 lub 3a.
+
+§ 7. Opłaty stanowią dochód budżetu państwa.
+
+§ 8. Jeżeli w wydanej decyzji Szef Krajowej Administracji Skarbowej określił skutki podatkowe stanu prawnego, jaki zaistniałby, gdyby określony w art. 119a § 6 przepis ustawy podatkowej nie miał zastosowania, zwraca się 60 % uiszczonej opłaty, jeżeli zainteresowany, który unikał opodatkowania:
+
+- **1)** cofnął zgodnie z art. 119zfk § 1 lub 2 skutki unikania opodatkowania oraz
+- **2)** wpłacił na rachunek właściwego organu podatkowego kwotę wynikającą ze złożonej korekty deklaracji lub informacji zastępczej wraz z odsetkami za zwłokę.
+
+**Art. 119zfg.** Szef Krajowej Administracji Skarbowej może zwrócić się do wnioskodawcy o wyjaśnienie jego stanowiska, wątpliwości co do danych zawartych we wniosku lub może zorganizować spotkanie uzgodnieniowe.
+
+**Art. 119zfh.**
+
+§ 1. W razie uznania w toku postępowania, że zainteresowany nieprawidłowo przedstawił elementy wniosku, o których mowa w art. 119zfd § 1 pkt 2–4, Szef Krajowej Administracji Skarbowej, w drodze postanowienia, zawiadamia o tym zainteresowanego oraz poucza o treści § 2. Postanowienie zawiera uzasadnienie faktyczne i prawne.
+
+§ 2. Zainteresowany w terminie 14 dni od dnia doręczenia postanowienia, o którym mowa w § 1, może złożyć dodatkowe wyjaśnienia i dokumenty lub złożyć wniosek o zasięgnięcie przez Szefa Krajowej Administracji Skarbowej opinii Rady co do kwestii uwzględnionych w treści postanowienia i przedstawić jednocześnie własne stanowisko.
+
+§ 3. Szef Krajowej Administracji Skarbowej występuje o opinię Rady, jeżeli przedstawione przez zainteresowanego dodatkowe wyjaśnienia i dokumenty okazały się niewystarczające. Zasięgając opinii Rady, Szef Krajowej Administracji Skarbowej przedstawia własne stanowisko w sprawie.
+
+§ 4. Jeżeli w opinii Rady żadne z przedstawionych jej stanowisk nie jest zasadne, Rada przedstawia własną opinię w zakresie ocenianych kwestii.
+
+**Art. 119zfi.**
+
+§ 1. Szef Krajowej Administracji Skarbowej, w drodze decyzji, odmawia określenia warunków cofnięcia skutków unikania opodatkowania, jeżeli czynność określona w art. 119zfd § 1 pkt 1 lit. a nie skutkowała, wbrew stanowisku zainteresowanego, osiągnięciem korzyści podatkowej.
+
+§ 2. Szef Krajowej Administracji Skarbowej może, w drodze decyzji, odmówić określenia warunków cofnięcia skutków unikania opodatkowania, jeżeli zastosowanie innych niż art. 119a przepisów prawa podatkowego pozwala na przeciwdziałanie unikaniu opodatkowania.
+
+**Art. 119zfj.**
+
+§ 1. Decyzja zawiera w szczególności:
+
+- **1)** wynikający z przedstawionego stanu faktycznego wyczerpujący opis czynności prowadzącej do unikania opodatkowania wraz ze wskazaniem podmiotów w niej uczestniczących;
+- **2)** rozstrzygnięcie co do:
+    - **a)** określenia skutków podatkowych będących rezultatem czynności określonej w pkt 1, w tym korzyści podatkowej, o której mowa w art. 119a § 1,
+    - **b)** prawidłowości przyjęcia czynności odpowiedniej, uznania, że osiągnięcie korzyści podatkowej było jedynym celem dokonania czynności prowadzącej do unikania opodatkowania, albo wskazania określonego w art. 119a § 6 przepisu ustawy podatkowej, który nie powinien mieć zastosowania,
+    - **c)** wskazania skutków podatkowych, jakie mogłyby zaistnieć, gdyby dokonano przyjętej czynności odpowiedniej, stanu rzeczy, jaki zaistniałby, gdyby czynność prowadząca do unikania opodatkowania nie została dokonana, albo stanu prawnego, jaki zaistniałby, gdyby wskazany przepis ustawy podatkowej nie miał zastosowania;
+
+- **3)** określenie, w jaki sposób zainteresowany może cofnąć skutki unikania opodatkowania, przy uwzględnieniu elementów wymienionych w pkt 2 lit. b i c.
+
+§ 2. W razie uznania stanowiska zainteresowanego za nieprawidłowe w zakresie opisanym w § 1 pkt 2 lit. a–c organ podatkowy wskazuje w decyzji prawidłowe stanowisko wraz z uzasadnieniem faktycznym i prawnym.
+
+§ 2a. Organ podatkowy odmawia w decyzji określenia sposobu cofnięcia skutków unikania opodatkowania w zakresie korzyści podatkowych, które mogą zostać osiągnięte w okresach rozliczeniowych następujących po okresie rozliczeniowym, którego dotyczyła decyzja, jeżeli odnośnie do tych korzyści nie zostały spełnione warunki określone w art. 119zfd § 1a.
+
+§ 3. Jeżeli w decyzji nie określono skutków podatkowych stanu prawnego, jaki zaistniałby, gdyby określony w art. 119a § 6 przepis ustawy podatkowej nie miał zastosowania, decyzja może ponadto określać uprawnienia zainteresowanego podmiotu, o którym mowa w art. 119zfm.
+
+**Art. 119zfk.**
+
+§ 1. W terminie 14 dni od dnia doręczenia decyzji zainteresowany może, uwzględniając jej treść, cofnąć skutki unikania opodatkowania poprzez złożenie korekty deklaracji wraz z uzasadnieniem przyczyn korekty, z zastrzeżeniem § 2.
+
+§ 2. Jeżeli w wyniku dokonania czynności, o której mowa w art. 119zfd § 1 pkt 1, zaistniał taki stan rzeczy, w którym złożenie deklaracji lub korekty deklaracji byłoby niezgodne z odrębnymi przepisami, w szczególności w razie zmiany formy prawnej mającej wpływ na sposób opodatkowania, cofnięcie przez zainteresowanego skutków unikania opodatkowania, o którym mowa w art. 119a § 1, następuje poprzez złożenie, w terminie określonym w § 1, informacji zastępczej. Złożenie informacji zastępczej wywołuje skutki prawne odpowiadające złożeniu deklaracji.
+
+§ 3. Złożenie korekty deklaracji lub informacji zastępczej niezgodnej z treścią decyzji nie wywołuje skutków prawnych w zakresie cofnięcia skutków unikania opodatkowania.
+
+§ 4. Ponowne skorygowanie deklaracji nie wywołuje skutków prawnych w zakresie, w jakim dokonana na podstawie § 1 korekta przewidywała cofnięcie skutków unikania opodatkowania.
+
+§ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji zastępczej, wraz z objaśnieniami co do sposobu prawidłowego jej wypełnienia oraz terminu i miejsca jej składania, mając na uwadze umożliwienie prawidłowego rozliczenia podatku, a także kierując się potrzebą ułatwienia zainteresowanym poprawnego sporządzenia informacji zastępczej.
+
+**Art. 119zfl.**
+
+§ 1. Organ podatkowy uwzględnia, z zastrzeżeniem § 2, w toku kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego decyzję wydaną na podstawie art. 119zfi § 1 lub 2 lub cofnięcie skutków unikania opodatkowania dokonane zgodnie z treścią decyzji.
+
+§ 2. Organ podatkowy w toku kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego pomija decyzję wydaną na podstawie art. 119zfi § 1 lub 2 lub cofnięcie skutków unikania opodatkowania dokonane zgodnie z treścią decyzji, jeżeli zgromadzone dowody wskazują na nierzetelność opisu czynności prowadzącej do unikania opodatkowania.
+
+**Art. 119zfm.**
+
+§ 1. Zainteresowany niebędący podmiotem, który unikał opodatkowania, może w terminie 3 miesięcy od dnia doręczenia decyzji skorygować deklarację, uwzględniając treść tej decyzji, a także na jej podstawie w tym terminie wystąpić z wnioskiem o stwierdzenie nadpłaty lub zwrot podatku, jeżeli zainteresowany, który unikał opodatkowania:
+
+- **1)** cofnął zgodnie z art. 119zfk § 1 lub 2 skutki unikania opodatkowania oraz
+- **2)** wpłacił na rachunek właściwego organu podatkowego kwotę wynikającą ze złożonej korekty deklaracji lub informacji zastępczej wraz z odsetkami za zwłokę.
+
+§ 2. Do zainteresowanego, o którym mowa w § 1, przepisy art. 119j § 4 i 5 stosuje się odpowiednio. Art. 119zfma. § 1. Jeżeli korzyść podatkowa jest osiągana cyklicznie w związku z czynnością określoną w art. 119zfd § 1 pkt 1 lit. a w okresach rozliczeniowych następujących po okresie rozliczeniowym, którego dotyczyła decyzja, a w treści tej decyzji, w zakresie tej korzyści podatkowej, określono na skutek wniosku, o którym mowa w art. 119zfd § 1a, sposób cofnięcia skutków unikania opodatkowania w tych okresach, zainteresowany może, uwzględniając treść tej decyzji, cofnąć skutki unikania opodatkowania także w zakresie tej korzyści poprzez złożenie deklaracji, korekty deklaracji lub informacji zastępczej.
+
+§ 2. Do uprawnienia określonego w § 1 nie stosuje się przepisów art. 93, art. 93a oraz art. 93c.
+
+§ 3. Cofnięcie skutków unikania opodatkowania w sytuacji określonej w § 1 wywołuje skutki prawne, jeżeli:
+
+- **1)** zainteresowany cofnął skutki unikania opodatkowania w zakresie korzyści podatkowej, o której mowa w art. 119zfa § 3, na zasadach określonych w art. 119zfk § 1 lub 2 oraz
+- **2)** zainteresowany do dnia złożenia deklaracji, korekty deklaracji lub informacji zastępczej zawiadomi Szefa Krajowej Administracji Skarbowej, organ podatkowy przyjmujący deklarację, korektę deklaracji lub informację zastępczą oraz zainteresowanego niebędącego podmiotem, który unikał opodatkowania, o zamiarze skorzystania z uprawnienia określonego w § 1, podając jednocześnie wysokość korzyści podatkowej, sposób jej obliczenia oraz dane identyfikujące decyzję, oraz
+- **3)** deklaracja, korekta deklaracji lub informacja zastępcza została złożona niepóźniej niż 12 miesięcy od dnia zakończenia okresu rozliczeniowego, w którym została osiągnięta korzyść podatkowa, oraz
+- **4)** w terminie 3 miesięcy od dnia złożenia deklaracji, korekty deklaracji lub informacji zastępczej zainteresowanemu nie zostanie doręczona decyzja stwierdzająca wygaśnięcie decyzji, o której mowa w § 1.
+
+§ 4. Do cofnięcia skutków unikania opodatkowania na zasadach określonych w § 1–3 stosuje się odpowiednio przepisy art. 119j § 4 i 5, art. 119zfk § 3 i 4, art. 119zfl oraz odpowiednio art. 119zfm § 1, z tym że termin, o którym mowa w tym przepisie, liczy się od dnia doręczenia zawiadomienia określonego w § 3 pkt 2.
+
+**Art. 119zfn.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14b § 4, art. 14i § 2, art. 14r § 2 i 3, art. 119gc, art. 119h § 3, art. 119i, art. 119m § 1, art. 119s § 2, art. 119u i art. 119x § 5 oraz działu IV, z wyłączeniem art. 133, a także przepisy art. 45, art. 46, art. 49 i art. 51 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+
+**Art. 119zfo.** Szef Krajowej Administracji Skarbowej może, w drodze decyzji, nałożyć karę pieniężną w wysokości do 10 000 zł na podmiot, który pomimo prawidłowego wezwania w wyznaczonym terminie nie przekazał w postępowaniu określonym w niniejszym rozdziale posiadanych informacji albo danych, o których mowa w art. 49 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, lub przekazał je w niepełnym zakresie.
+
 #### Rozdział 6 Opinia zabezpieczająca w sprawie opodatkowania wyrównawczego
+
+**Art. 119zfp.**
+
+§ 1. Zainteresowany może zwrócić się do Szefa Krajowej Administracji Skarbowej o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego.
+
+§ 2. Zainteresowanym, o którym mowa w § 1, jest zainteresowany w rozumieniu art. 14t.
+
+§ 3. Wniosek o opinię zabezpieczającą w sprawie opodatkowania wyrównawczego może dotyczyć czynności planowanej lub rozpoczętej i niezakończonej.
+
+**Art. 119zfq.**
+
+§ 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego powinien zawierać dane istotne dla określenia podatkowych skutków czynności, o których mowa w art. 119zfp § 3, oraz zastosowania do tych czynności art. 119a § 1, w tym:
+
+- **1)** dane identyfikujące wnioskodawcę;
+- **2)** wskazanie podmiotów dokonujących czynności, o których mowa w art. 119zfp § 3;
+- **3)** wyczerpujący opis czynności, o których mowa w art. 119zfp § 3, wraz ze wskazaniem występujących pomiędzy podmiotami powiązań w rozumieniu art. 23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
+- **4)** NSP w rozumieniu przepisów działu III rozdziału 11a odnoszący się do uzgodnienia albo wyjaśnienie, z jakich powodów faktycznych lub prawnych uzgodnienie nie podlegało zgłoszeniu w celu nadania NSP;
+- **5)** wskazanie celów, których realizacji mają służyć czynności, o których mowa w art. 119zfp § 3;
+- **6)** wskazanie ekonomicznego lub gospodarczego uzasadnienia czynności, o których mowa w art. 119zfp § 3;
+- **7)** określenie skutków podatkowych, w tym korzyści podatkowych, będących rezultatem czynności, o których mowa w art. 119zfp § 3, objętych wnioskiem;
+- **8)** wskazanie innych niż w pkt 7 korzyści podatkowych, niepodlegających ocenie określonej w art. 119za pkt 2, których osiągnięcie jest uzależnione pośrednio od dokonania czynności, o których mowa w art. 119zfp § 3;
+- **9)** wskazanie innych czynności, o których mowa w art. 119zfp § 3, od których pośrednio jest uzależnione osiągnięcie korzyści podatkowych, o których mowa w pkt 7 i 8;
+- **10)** przedstawienie własnego stanowiska w sprawie;
+- **11)** inne dane, w tym: 119zfp § 3, w tym: – numery ich identyfikacji podatkowej, a jeżeli te numery nie zostały nadane inne numery identyfikacyjne wraz z określeniem ich rodzaju, – dane dotyczące miejsca ich siedziby lub zarządu, – dane dotyczące przedmiotu prowadzonej przez nie działalności,
+    - **a)** dane identyfikacyjne jednostek lub jednostek składowych w rozumieniu odpowiednio art. 2 ust. 1 pkt 11 i 20 ustawy o opodatkowaniu wyrównawczym, uczestniczących w czynnościach, o których mowa w art.
+    - **b)** wskazanie jurysdykcji w rozumieniu art. 2 ust. 1 pkt 22 ustawy o opodatkowaniu wyrównawczym, w których jednostki lub jednostki składowe uczestniczące w czynnościach, o których mowa w art. 119zfp § 3, są zlokalizowane,
+    - **c)** rodzaje jednostek lub jednostek składowych, których dotyczy wniosek,
+    - **d)** informację na temat ogólnej struktury korporacyjnej grupy w rozumieniu art. 2 ust. 1 pkt 6 ustawy o opodatkowaniu wyrównawczym, w tym w zakresie udziałów konsolidujących w rozumieniu art. 2 ust. 1 pkt 42 ustawy o opodatkowaniu wyrównawczym w jednostkach składowych tej grupy będących w posiadaniu innych jednostek składowych tej grupy,
+    - **e)** opis podstawowej działalności wnioskodawcy, w tym: – wskazanie przedmiotu prowadzonej działalności, – opis strategii gospodarczej,
+    - **f)** opis przyjętych zasad lub polityki rachunkowości w zakresie, w jakim mają one zastosowanie do czynności, o których mowa w art. 119zfp § 3, stosowanych przez wnioskodawcę i pozostałe jednostki składowe uczestniczące w tych czynnościach,
+    - **g)** wskazanie umów, porozumień wewnątrzgrupowych lub innych dokumentów dotyczących czynności, o których mowa w art. 119zfp § 3,
+    - **h)** wskazanie innych dokumentów lub informacji niezbędnych do dokonania oceny stanowiska wnioskodawcy.
+
+§ 2. Do wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego może być załączona dokumentacja dotycząca czynności, o których mowa w art. 119zfp § 3, w szczególności oryginały lub kopie umów, porozumień wewnątrzgrupowych lub innych dokumentów, lub ich projektów.
+
+§ 3. Szef Krajowej Administracji Skarbowej wzywa wnoszącego wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, który nie spełnia wymogów określonych w § 1 lub innych wymogów określonych w przepisach prawa, do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania, z pouczeniem, że niewypełnienie tego warunku spowoduje pozostawienie wniosku bez rozpatrzenia.
+
+§ 4. Szef Krajowej Administracji Skarbowej może zwrócić się do zainteresowanego o wyjaśnienie wątpliwości co do treści wniosku o opinię zabezpieczającą w sprawie opodatkowania wyrównawczego lub zorganizować z zainteresowanym spotkanie uzgodnieniowe w celu wyjaśnienia tych wątpliwości.
+
+§ 5. Ze spotkania uzgodnieniowego sporządza się protokół.
+
+**Art. 119zfr.**
+
+§ 1. Szef Krajowej Administracji Skarbowej wydaje opinię zabezpieczającą w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, nie ma zastosowania przepis art. 119a § 1.
+
+§ 2. Szef Krajowej Administracji Skarbowej odmawia wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a § 1. Odmawiając wydania opinii zabezpieczającej, wskazuje się okoliczności świadczące o tym, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a § 1.
+
+§ 3. Odmowa wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego zawiera pouczenie o prawie wniesienia skargi do sądu administracyjnego.
+
+**Art. 119zfs.** Złożenie wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego nie stanowi przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celnoskarbowej.
+
+**Art. 119zft.** Opinia zabezpieczająca w sprawie opodatkowania wyrównawczego zawiera w szczególności:
+
+- **1)** wyczerpujący opis czynności, o których mowa w art. 119zfp § 3, których dotyczył wniosek;
+- **2)** ocenę, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, nie ma zastosowania przepis art. 119a § 1;
+- **3)** pouczenie o prawie wniesienia skargi do sądu administracyjnego.
+
+**Art. 119zfu.**
+
+§ 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego załatwia się bez zbędnej zwłoki, niepóźniej niż w terminie 12 miesięcy od dnia otrzymania wniosku przez Szefa Krajowej Administracji Skarbowej.
+
+§ 2. Do terminu określonego w § 1 nie wlicza się terminów i okresów, o których mowa w art. 139 § 4.
+
+**Art. 119zfv.**
+
+§ 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego podlega opłacie w wysokości 65 000 zł, którą należy wpłacić w terminie 7 dni od dnia złożenia wniosku.
+
+§ 2. Opłata podlega zwrotowi w przypadku:
+
+- **1)** wycofania wniosku w terminie 6 miesięcy od dnia jego złożenia – w połowie;
+- **2)** uiszczenia jej w wysokości większej od należnej – w odpowiedniej części.
+
+§ 3. W przypadku, o którym mowa w § 2, zwrot opłaty następuje niepóźniej niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego.
+
+§ 4. Koszty postępowania, o których mowa w art. 265 § 1 pkt 1 i 3, obciążają wnioskodawcę.
+
+**Art. 119zfw.** Szef Krajowej Administracji Skarbowej może, z urzędu, zmienić wydaną opinię zabezpieczającą w sprawie opodatkowania wyrównawczego albo odmowę wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli jest ona sprzeczna z orzecznictwem Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
+
+**Art. 119zfx.**
+
+§ 1. Na podstawie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego lub odmowy wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego sporządza się informację, którą niezwłocznie zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+§ 2. Informacja, o której mowa w § 1, zawiera w szczególności zwięzły opis czynności będących przedmiotem opinii zabezpieczającej w sprawie opodatkowania wyrównawczego oraz wyjaśnienie powodów podjętego rozstrzygnięcia. Informacja nie może zawierać danych identyfikujących lub pozwalających na zidentyfikowanie zainteresowanego lub innych podmiotów wskazanych w jej treści.
+
+**Art. 119zfy.**
+
+§ 1. Szef Krajowej Administracji Skarbowej zasięga opinii organu właściwego w sprawie porozumienia inwestycyjnego, jeżeli:
+
+- **1)** okoliczności przedstawione we wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego świadczą, że do korzyści podatkowej wskazanej we wniosku, wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie zawarte porozumienie inwestycyjne w zakresie, o którym mowa w art. 20zt pkt 2a, albo w zakresie tej korzyści podatkowej organ właściwy w sprawie porozumienia odmówił zawarcia tego porozumienia lub
+- **2)** zainteresowany jest stroną postępowania w przedmiocie zawarcia porozumienia inwestycyjnego w zakresie czynności opisanych we wniosku.
+
+§ 2. Jeżeli z opinii organu właściwego w sprawie porozumienia inwestycyjnego wynika, że istnieją przeszkody do rozpatrzenia wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, Szef Krajowej Administracji Skarbowej odmawia wszczęcia postępowania w sprawie wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego.
+
+§ 3. Do zasięgnięcia opinii organu właściwego w sprawie porozumienia inwestycyjnego przepisy art. 209 § 1–4 i 6 stosuje się odpowiednio.
+
+**Art. 119zfz.** Jeżeli postępowanie w sprawie wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego stało się bezprzedmiotowe, w szczególności w przypadku wycofania wniosku o jej wydanie albo wydania decyzji z zastosowaniem art. 119a § 1 w zakresie objętym wnioskiem o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, przepisy art. 208 oraz art. 210–212 stosuje się odpowiednio. Art. 119zfza. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 119zfq § 1, który zawiera dane określone w tych przepisach oraz oświadczenie wskazane w art. 14u § 3, a także umożliwia wskazanie dokumentacji, o której mowa w art. 119zfq § 2, jak również sposób uiszczenia opłaty, o której mowa w art. 119zfv, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców. Art. 119zfzb. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14u § 3 i 4, art. 14y § 2, art. 14za § 5, art. 14zd § 1 pkt 2 i § 4–6, art. 14zi, art. 120, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3, 3b i 9, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 171, art. 187 § 3, art. 189 § 3, art. 197 § 1 i 3, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16 i 23.
 
 ### DZIAŁ IIIB Przeciwdziałanie wykorzystywaniu sektora finansowego do wyłudzeń skarbowych
 
 #### Rozdział 1 Przepisy ogólne
 
+**Art. 119zg.** Ilekroć w niniejszym dziale jest mowa o:
+
+- **1)** banku – rozumie się przez to:
+    - **a)** bank krajowy w rozumieniu art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38, 176, 331 i 340),
+    - **b)** oddział instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 18 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe,
+    - **c)** oddział banku zagranicznego w rozumieniu art. 4 ust. 1 pkt 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
+
+- **2)** blokadzie rachunku podmiotu kwalifikowanego – rozumie się przez to czasowe uniemożliwienie dysponowania środkami pieniężnymi zgromadzonymi na rachunku podmiotu kwalifikowanego prowadzonym przez bank lub spółdzielczą kasę oszczędnościowo-kredytową i korzystania z tych środków;
+- **3)** izbie rozliczeniowej – rozumie się przez to izbę rozliczeniową, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, która w roku kalendarzowym poprzedzającym o 2 lata rok kalendarzowy, w którym będą wykonywane obowiązki określone w niniejszym dziale, rozliczyła największą liczbę poleceń przelewu w złotych ze wszystkich izb rozliczeniowych działających na podstawie tego przepisu;
+- **3a)** pełnomocniku do rachunku podmiotu kwalifikowanego – rozumie się przez to osobę umocowaną do składania dyspozycji dotyczących rachunku podmiotu kwalifikowanego, wpłat gotówkowych na rachunek podmiotu kwalifikowanego lub wypłat gotówkowych z rachunku podmiotu kwalifikowanego, w imieniu jego posiadacza, w tym przy użyciu karty płatniczej w rozumieniu art. 2 pkt 15a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych wydanej do rachunku podmiotu kwalifikowanego;
+- **4)** podmiocie kwalifikowanym – rozumie się przez to:
+    - **a)** osobę fizyczną będącą przedsiębiorcą w rozumieniu art. 4 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców,
+    - **b)** osobę fizyczną prowadzącą działalność zarobkową na własny rachunek, która nie jest przedsiębiorcą w rozumieniu ustawy, o której mowa w lit. a,
+    - **c)** osobę prawną,
+    - **d)** jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną;
+
+- **5)** rachunku podmiotu kwalifikowanego – rozumie się przez to:
+    - **a)** rachunek rozliczeniowy, o którym mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, podmiotu kwalifikowanego,
+    - **b)** rachunek lokaty terminowej podmiotu kwalifikowanego,
+    - **c)** rachunek członka spółdzielczej kasy oszczędnościowo-kredytowej będącego podmiotem kwalifikowanym,
+    - **d)** rachunek VAT w rozumieniu art. 2 pkt 37 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług prowadzony dla rachunku, o którym mowa w lit. a albo c;
+
+- **6)** STIR – rozumie się przez to system teleinformatyczny izby rozliczeniowej spełniający minimalne wymagania dla systemów teleinformatycznych określone w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+- **7)** transakcji – rozumie się przez to uznanie lub obciążenie rachunku podmiotu kwalifikowanego na podstawie dyspozycji jego posiadacza lub osób trzecich;
+- **8)** wskaźniku ryzyka – rozumie się przez to wskaźnik wykorzystywania działalności banków i spółdzielczych kas oszczędnościowo-kredytowych do celów mających związek z wyłudzeniami skarbowymi;
+- **9)** wyłudzeniach skarbowych – rozumie się przez to: 56 § 1 i 2, art. 62 § 1–2a oraz art. 76 § 1 i 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy, 277a § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872),
+    - **a)** przestępstwa skarbowe, o których mowa w art. 54 § 1 i 2, art. 55 § 1 i 2, art.
+    - **b)** przestępstwa, o których mowa w art. 270a § 1 i 2, art. 271a § 1 i 2 oraz art.
+    - **c)** przestępstwa, o których mowa w art. 258 § 1–3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, mające na celu popełnienie przestępstw skarbowych, o których mowa w lit. a, lub przestępstw, o których mowa w lit. b.
+
+**Art. 119zh.** Przepisów niniejszego działu nie stosuje się do rachunków:
+
+- **1)** podmiotów kwalifikowanych prowadzonych przez Narodowy Bank Polski;
+- **2)** banków spółdzielczych prowadzonych przez bank zrzeszający w rozumieniu art. 2 pkt 2 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2025 r. poz. 265 i 1191 oraz z 2026 r. poz. 331);
+- **3)** banków prowadzonych przez inne banki;
+- **4)** spółdzielczych kas oszczędnościowo-kredytowych prowadzonych przez Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową;
+- **5)** spółdzielczych kas oszczędnościowo-kredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej prowadzonych przez banki;
+- **6)** Skarbu Państwa;
+- **7)** Narodowego Funduszu Zdrowia;
+- **8)** Zakładu Ubezpieczeń Społecznych;
+- **9)** Bankowego Funduszu Gwarancyjnego.
+
+**Art. 119zha.**
+
+§ 1. STIR służy do:
+
+- **1)** odbioru i przetwarzania danych w celu ustalenia wskaźnika ryzyka;
+- **2)** przekazywania danych i informacji o wskaźniku ryzyka do Centralnego Rejestru Danych Podatkowych oraz do systemów teleinformatycznych banków i spółdzielczych kas oszczędnościowo-kredytowych;
+- **3)** pośredniczenia w przekazywaniu danych, informacji i żądań pomiędzy Szefem Krajowej Administracji Skarbowej a bankami oraz spółdzielczymi kasami oszczędnościowo-kredytowymi;
+- **4)** pośredniczenia w przekazywaniu przez instytucje zobowiązane, o których mowa w art. 3 pkt 2 ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej (Dz. U. z 2023 r. poz. 180), informacji rejestrowanych, o których mowa w tej ustawie, do Systemu Informacji Finansowej.
+
+§ 2. STIR może być wykorzystywany również w przypadku, gdy odrębne przepisy umożliwiają wykorzystywanie do realizacji celów określonych w tych przepisach systemu teleinformatycznego bez wskazania podmiotu prowadzącego ten system.
+
+§ 3. Warunkiem wykorzystywania STIR w przypadku, o którym mowa w § 2, jest zawarcie porozumienia pomiędzy ministrem właściwym do spraw finansów publicznych lub Szefem Krajowej Administracji Skarbowej a izbą rozliczeniową określającego sposób wykorzystywania STIR do przetwarzania danych lub informacji określonych w przepisach, o których mowa w § 2. Porozumienie może również określać sposób finansowania kosztów związanych z wykorzystaniem STIR.
+
+**Art. 119zhb.**
+
+§ 1. Minister właściwy do spraw finansów publicznych może zlecać izbie rozliczeniowej dokonanie analizy skutków zachodzących zjawisk gospodarczych, w tym w szczególności ich wpływu na płynność finansową przedsiębiorców i innych podmiotów.
+
+§ 2. W zleceniu, o którym mowa w § 1, minister właściwy do spraw finansów publicznych wskazuje zakres danych, o których mowa w § 3, podlegających przekazaniu oraz sposób i termin ich przekazania.
+
+§ 3. Izba rozliczeniowa dokonuje nieodpłatnie analizy, o której mowa w § 1, na podstawie posiadanych danych, w tym danych, o których mowa w art. 119zu § 1, i danych przetwarzanych w systemach płatności w rozumieniu art. 1 pkt 1 ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2024 r. poz. 585 oraz z 2026 r. poz. 340).
+
+**Art. 119zi.**
+
+§ 1. Czynności związane z realizacją obowiązków izby rozliczeniowej, o których mowa w niniejszym dziale, mogą być wykonywane wyłącznie przez jej upoważnionych pracowników.
+
+§ 2. Izba rozliczeniowa może zlecić wykonywanie czynności związanych z technicznym utrzymaniem, naprawą lub zmianą funkcjonalności STIR przedsiębiorcy zapewniającemu bezpieczne i prawidłowe ich wykonywanie. Zlecenie wykonywania tych czynności następuje na podstawie umowy zawierającej listę pracowników przedsiębiorcy wyznaczonych do wykonywania czynności związanych z dostępem do STIR, w tym algorytmów, o których mowa w art. 119zn § 3, zawartej na piśmie po zasięgnięciu opinii Szefa Krajowej Administracji Skarbowej.
+
+§ 3. W celu zachowania tajemnicy prawnie chronionej wykonywanie przez przedsiębiorcę lub jego pracowników czynności, o których mowa w § 2, związanych z dostępem do STIR, w tym algorytmów, o których mowa w art. 119zn § 3, odbywa się pod nadzorem izby rozliczeniowej, w posiadanych przez nią lokalach na obszarze województwa, w którym jest położona jej siedziba, i nie może powodować przetwarzania danych poza STIR.
+
+§ 4. Zlecenie wykonywania czynności, o których mowa w § 2, nie może obejmować:
+
+- **1)** prowadzenia STIR ani przetwarzania danych w STIR;
+- **2)** ustalania algorytmów, o których mowa w art. 119zn § 3;
+- **3)** ustalania wskaźnika ryzyka.
+
+§ 5. Izba rozliczeniowa zawiadamia Szefa Krajowej Administracji Skarbowej o zamiarze zawarcia lub zmiany umowy, o której mowa w § 2, zawarciu takiej umowy i jej zmianach. Izba rozliczeniowa przedstawia Szefowi Krajowej Administracji Skarbowej odpowiednio projekt umowy lub jej zmian oraz zawartą umowę lub dokonane zmiany.
+
+§ 6. Szef Krajowej Administracji Skarbowej może żądać od izby rozliczeniowej:
+
+- **1)** przedstawienia informacji i dokumentów dotyczących umowy, o której mowa w § 2, jej projektu lub projektu jej zmian lub informacji i dokumentów dotyczących przedsiębiorcy, który jest lub ma być jej stroną;
+- **2)** złożenia wyjaśnień dotyczących realizacji umowy, o której mowa w § 2;
+- **3)** dostarczenia opisu rozwiązań technicznych i organizacyjnych, zapewniających bezpieczne i prawidłowe wykonywanie zleconych czynności, o których mowa w § 2, w szczególności ochronę tajemnicy prawnie chronionej, algorytmów, o których mowa w art. 119zn § 3, i wskaźników ryzyka.
+
+§ 7. Szef Krajowej Administracji Skarbowej nakazuje na piśmie izbie rozliczeniowej niezwłoczne podjęcie działań zmierzających do zmiany lub rozwiązania umowy, o której mowa w § 2, jeżeli wykonanie umowy zagraża bezpiecznemu lub prawidłowemu wykonywaniu przez izbę rozliczeniową obowiązków, o których mowa w niniejszym dziale, w szczególności nie zapewnia właściwej ochrony tajemnicy prawnie chronionej, algorytmów, o których mowa w art. 119zn § 3, ani wskaźników ryzyka.
+
+§ 8. Pracownicy izby rozliczeniowej oraz przedsiębiorca, o którym mowa w § 2, i jego pracownicy są obowiązani do zachowania w tajemnicy:
+
+- **1)** algorytmów, o których mowa w art. 119zn § 3;
+- **2)** informacji o wskaźniku ryzyka;
+- **3)** informacji i zestawień, o których mowa w art. 119zp § 1, art. 119zq i art. 119zs § 1;
+- **4)** informacji objętych żądaniami Szefa Krajowej Administracji Skarbowej, o których mowa w art. 119zo § 9, art. 119zv § 3, art. 119zw § 3 i art. 119zz § 2;
+- **5)** informacji rejestrowanych, o których mowa w ustawie z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej.
+
+**Art. 119zj.**
+
+§ 1. W celu umożliwienia przedstawicielowi Szefa Krajowej Administracji Skarbowej obecności przy dokonywaniu czynności, o których mowa w art. 119zi § 3, izba rozliczeniowa zawiadamia, z odpowiednim wyprzedzeniem, Szefa Krajowej Administracji Skarbowej o terminie wykonywania tych czynności.
+
+§ 2. W nagłych wypadkach, w szczególności w przypadku wystąpienia awarii lub problemów technicznych, izba rozliczeniowa zawiadamia Szefa Krajowej Administracji Skarbowej o planowanym terminie wykonania czynności niezwłocznie po zawiadomieniu o zaistniałym zdarzeniu przedsiębiorcy, o którym mowa w art. 119zi § 2.
+
+§ 3. Niestawienie się przedstawiciela Szefa Krajowej Administracji Skarbowej nie wstrzymuje wykonywania czynności, jeżeli Szef Krajowej Administracji Skarbowej został zawiadomiony zgodnie z § 1 lub 2.
+
+§ 4. Izba rozliczeniowa prowadzi i przechowuje w swojej siedzibie rejestr czynności, o których mowa w art. 119zi § 3.
+
+§ 5. Czynność jest wpisywana do rejestru, o którym mowa w § 4, niezwłocznie po jej zakończeniu, ze wskazaniem daty i godziny jej dokonania, osób obecnych przy jej dokonaniu oraz jej opisu.
+
+§ 6. Rejestr, o którym mowa w § 4, jest udostępniany Szefowi Krajowej Administracji Skarbowej na jego żądanie.
+
+**Art. 119zk.**
+
+§ 1. Przekazywanie danych, informacji i żądań, o których mowa w niniejszym dziale, z systemu teleinformatycznego banku i spółdzielczej kasy oszczędnościowo-kredytowej do STIR, ze STIR do Centralnego Rejestru Danych Podatkowych oraz z Centralnego Rejestru Danych Podatkowych do systemu teleinformatycznego banku i spółdzielczej kasy oszczędnościowo-kredytowej następuje automatycznie i niezwłocznie za pośrednictwem STIR.
+
+§ 2. Przekazywanie danych, informacji i żądań, o których mowa w niniejszym dziale, pomiędzy zrzeszonymi bankami spółdzielczymi i spółdzielczymi kasami oszczędnościowo-kredytowymi a STIR może następować za pośrednictwem systemów teleinformatycznych odpowiednio banku zrzeszającego w rozumieniu art. 2 pkt 2 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających albo Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej.
+
+§ 3. W przypadku gdy bank lub spółdzielcza kasa oszczędnościowo-kredytowa korzysta z systemu płatności izby rozliczeniowej za pośrednictwem innego banku lub innej spółdzielczej kasy oszczędnościowo-kredytowej, przekazywanie danych, informacji i żądań, o których mowa w niniejszym dziale, pomiędzy tym bankiem lub spółdzielczą kasą oszczędnościowo-kredytową a STIR może następować za pośrednictwem odpowiednio tego innego banku lub tej innej spółdzielczej kasy oszczędnościowo-kredytowej. Bank oraz spółdzielcza kasa oszczędnościowokredytowa są obowiązani pośredniczyć w przekazywaniu tych danych, informacji i żądań również po zaprzestaniu pośredniczenia w korzystaniu z systemu płatności izby rozliczeniowej, do czasu gdy przekazywanie tych danych, informacji i żądań nie będzie realizowane za pośrednictwem innego banku lub innej spółdzielczej kasy oszczędnościowo-kredytowej.
+
+§ 4. W uzasadnionych przypadkach Szef Krajowej Administracji Skarbowej może przekazać dane, informacje i żądania, o których mowa w niniejszym dziale, bezpośrednio bankom lub spółdzielczym kasom oszczędnościowo-kredytowym, wskazując sposób oraz termin ich przesłania.
+
+**Art. 119zl.**
+
+§ 1. Do biegu terminów, o których mowa w niniejszym dziale, z wyjątkiem art. 119zw § 1 i art. 119zzb § 5 pkt 2, nie wlicza się sobót ani dni ustawowo wolnych od pracy.
+
+§ 2. W przypadkach, o których mowa w art. 119zn § 2, art. 119zo § 1 i art. 119zq, czynności określone w tych przepisach są wykonywane także w soboty oraz dni ustawowo wolne od pracy.
+
+**Art. 119zm.**
+
+§ 1. Zawiadomienie o uzasadnionym podejrzeniu popełnienia wyłudzenia skarbowego dokonywane przez Szefa Krajowej Administracji Skarbowej zawiera w szczególności:
+
+- **1)** imię i nazwisko, numer PESEL lub numer identyfikacji podatkowej oraz adres miejsca zamieszkania osoby podejrzewanej o popełnienie wyłudzenia skarbowego,
+- **2)** dane identyfikacyjne podmiotu kwalifikowanego, jeżeli posiadane informacje wskazują na wykorzystywanie tych danych do działalności w zakresie wyłudzeń skarbowych, w szczególności firmę, nazwę albo imię i nazwisko osoby fizycznej, o której mowa w art. 119zg pkt 4 lit. b, numer identyfikacyjny REGON, numer identyfikacji podatkowej oraz adres siedziby lub adres miejsca zamieszkania,
+- **3)** numer rachunku podmiotu kwalifikowanego objętego zawiadomieniem, ze wskazaniem waluty, w której rachunek podmiotu kwalifikowanego jest prowadzony, oraz formy i miejsca jego otwarcia,
+- **4)** imię i nazwisko, numer PESEL lub numer identyfikacji podatkowej oraz adres miejsca zamieszkania pełnomocnika do rachunku podmiotu kwalifikowanego objętego zawiadomieniem, jeżeli został ustanowiony,
+- **5)** strony i kwoty transakcji dokonanych lub zleconych z wykorzystaniem rachunku podmiotu kwalifikowanego objętego zawiadomieniem oraz informacje o saldach i obrotach na tym rachunku podmiotu kwalifikowanego,
+- **6)** informacje o blokadach rachunku podmiotu kwalifikowanego i zajęciach rachunku podmiotu kwalifikowanego objętego zawiadomieniem,
+- **7)** informacje podatkowe dotyczące podmiotu kwalifikowanego objętego zawiadomieniem, w szczególności dane o jego rejestracji jako podatnika podatku od towarów i usług, złożonych deklaracjach podatkowych i uzyskanych zwrotach podatku – jeżeli znajdują się w posiadaniu Szefa Krajowej Administracji Skarbowej.
+
+§ 2. Prokurator, Policja albo inny właściwy organ uprawniony do prowadzenia postępowania przygotowawczego, który otrzymał zawiadomienie, o którym mowa w § 1, może żądać uzupełnienia informacji, także w toku czynności podejmowanych na podstawie art. 307 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2026 r. poz. 490 i 421).
+
+**Art. 119zma.** (uchylony)
+
 #### Rozdział 2 Analiza ryzyka
+
+**Art. 119zn.**
+
+§ 1. Szef Krajowej Administracji Skarbowej dokonuje analizy ryzyka wykorzystywania działalności banków i spółdzielczych kas oszczędnościowokredytowych do celów mających związek z wyłudzeniami skarbowymi, uwzględniając posiadane dane, w tym wskaźnik ryzyka oraz informacje i zestawienia, o których mowa w art. 119zq oraz art. 119zs.
+
+§ 2. Wskaźnik ryzyka ustala izba rozliczeniowa w STIR nierzadziej niż raz dziennie, opierając się na zautomatyzowanym przetwarzaniu, jeżeli zachowane są cele i warunki określone w niniejszym dziale.
+
+§ 3. Wskaźnik ryzyka jest ustalany w odniesieniu do podmiotu kwalifikowanego na podstawie opracowanych przez izbę rozliczeniową algorytmów, uwzględniających najlepsze praktyki sektora bankowego i spółdzielczych kas oszczędnościowokredytowych w zakresie przeciwdziałania wykorzystywaniu ich działalności do przestępstw oraz przestępstw skarbowych, a także:
+
+- **1)** kryteria ekonomiczne – polegające na ocenie dokonywanej przez podmiot kwalifikowany transakcji za pomocą rachunku podmiotu kwalifikowanego w otoczeniu gospodarczym, w szczególności pod względem celu prowadzonej przez niego działalności gospodarczej, lub dokonywaniu transakcji nieuzasadnionych charakterem prowadzonej działalności;
+- **2)** kryteria geograficzne – polegające na dokonywaniu transakcji z podmiotami z państw, w których występuje wysokie zagrożenie wyłudzeń skarbowych;
+- **3)** kryteria przedmiotowe – polegające na prowadzeniu przez podmiot kwalifikowany działalności gospodarczej wysokiego ryzyka z punktu widzenia podatności na wyłudzenia skarbowe;
+- **4)** kryteria behawioralne – polegające na nietypowym, w danej sytuacji, zachowaniu podmiotu kwalifikowanego;
+- **5)** kryteria powiązań – polegające na istnieniu powiązań podmiotu kwalifikowanego z podmiotami, co do których występuje ryzyko, że uczestniczą w działaniach mających związek z wyłudzeniami skarbowymi lub organizują takie działania.
+
+§ 4. Najlepsze praktyki, o których mowa w § 3, mogą być zgłaszane izbie rozliczeniowej przez banki i spółdzielcze kasy oszczędnościowo-kredytowe wskazane odpowiednio przez bankowe izby gospodarcze, o których mowa w art. 121 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, oraz Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową.
+
+§ 5. Przetwarzanie, o którym mowa w § 2, może opierać się na danych osobowych ujawniających pochodzenie rasowe lub etniczne oraz danych biometrycznych, jeżeli zachowane są cele i warunki określone w niniejszym dziale.
+
+**Art. 119zo.**
+
+§ 1. Izba rozliczeniowa przekazuje informacje o wskaźniku ryzyka wyłącznie:
+
+- **1)** Szefowi Krajowej Administracji Skarbowej;
+- **2)** bankowi i spółdzielczej kasie oszczędnościowo-kredytowej – w zakresie rachunków podmiotów kwalifikowanych prowadzonych przez:
+    - **a)** ten bank albo tę spółdzielczą kasę oszczędnościowo-kredytową,
+    - **b)** inne banki i spółdzielcze kasy oszczędnościowo-kredytowe – w przypadku otwierania pierwszego rachunku dla podmiotu kwalifikowanego przez ten bank albo tę spółdzielczą kasę oszczędnościowo-kredytową.
+
+§ 1a. W przypadku, o którym mowa w § 1 pkt 1 i pkt 2 lit. a, informacja o wskaźniku ryzyka jest przekazywana niezwłocznie po jego ustaleniu, nierzadziej niż raz dziennie, chyba że wskaźnik ryzyka i istotność wpływu na ten wskaźnik poszczególnych kryteriów uwzględnianych przy jego ustalaniu nie uległy zmianie.
+
+§ 2. Informacja o wskaźniku ryzyka zawiera:
+
+- **1)** dane identyfikacyjne podmiotu kwalifikowanego – firmę, nazwę albo imię i nazwisko osoby fizycznej, o której mowa w art. 119zg pkt 4 lit. b, a także jego numer identyfikacji podatkowej, numer identyfikacyjny REGON lub numer PESEL, jeżeli są dostępne;
+- **2)** numery rachunków podmiotu kwalifikowanego;
+- **3)** wskaźnik ryzyka i wskazanie istotności wpływu na wskaźnik ryzyka poszczególnych kryteriów uwzględnianych przy jego ustalaniu.
+
+§ 3. W przypadku, o którym mowa w § 1 pkt 2 lit. b, informacja o wskaźniku ryzyka jest przekazywana na wniosek banku albo spółdzielczej kasy oszczędnościowo-kredytowej zawierający co najmniej jeden z numerów, o których mowa w art. 119zr § 1 pkt 4 lit. b i c, niezwłocznie po otrzymaniu wniosku. Informacja o wskaźniku ryzyka nie zawiera wskazania istotności wpływu na wskaźnik ryzyka poszczególnych kryteriów uwzględnianych przy jego ustalaniu.
+
+§ 4. Banki i spółdzielcze kasy oszczędnościowo-kredytowe mogą wykorzystywać informacje o wskaźniku ryzyka wyłącznie w celu wykonywania uprawnień lub obowiązków, o których mowa w:
+
+- **1)** art. 106 i art. 106a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz art. 15 i art. 16 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2025 r. poz. 379, 820, 1069, 1170 i 1191 oraz z 2026 r. poz. 331), w tym dokonywania oceny ryzyka prania pieniędzy i finansowania terroryzmu, o której mowa w przepisach o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+- **2)** art. 106d ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, z tym że banki i spółdzielcze kasy oszczędnościowo-kredytowe mogą udostępniać wzajemnie informacje o wskaźniku ryzyka wyłącznie innym bankom lub spółdzielczym kasom oszczędnościowo-kredytowym.
+
+§ 5. Przepis § 4 nie ogranicza uprawnień banków i spółdzielczych kas oszczędnościowo-kredytowych do wykorzystywania w innych obszarach ich działalności rezultatów procedur dotyczących wykonywania uprawnień lub obowiązków wymienionych w § 4.
+
+§ 6. Informacje o wskaźniku ryzyka są udostępniane innym podmiotom niż wymienione w § 1 wyłącznie przez Szefa Krajowej Administracji Skarbowej na zasadach i w trybie określonych w dziale VII.
+
+§ 7. Informacje o wskaźniku ryzyka nie podlegają udostępnieniu podmiotom kwalifikowanym.
+
+§ 8. Dostęp do informacji o istotności wpływu poszczególnych kryteriów na wskaźnik ryzyka, przekazywanych bankom i spółdzielczym kasom oszczędnościowokredytowym, mają wyłącznie osoby wyznaczone do realizacji celów, o których mowa w § 4.
+
+§ 9. Izba rozliczeniowa udostępnia algorytmy, na podstawie których jest ustalany wskaźnik ryzyka, wyłącznie Szefowi Krajowej Administracji Skarbowej, na jego żądanie.
+
+§ 10. Za ustalanie wskaźnika ryzyka bank i spółdzielcza kasa oszczędnościowokredytowa ponoszą roczną opłatę na rzecz izby rozliczeniowej ustalaną ryczałtowo w odniesieniu do liczby rachunków podmiotu kwalifikowanego prowadzonych przez ten bank lub spółdzielczą kasę oszczędnościowo-kredytową. W przypadku gdy wskaźnik ryzyka ustalany jest za okres krótszy niż rok kalendarzowy, opłata ustalana jest w wysokości proporcjonalnej do liczby miesięcy, w których wskaźnik ryzyka jest ustalany.
+
+§ 11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość i terminy wnoszenia opłaty, o której mowa w § 10, uwzględniając koszty ustalania i przekazywania wskaźnika ryzyka, koszty wdrożenia i utrzymania STIR oraz okres, za który wskaźnik ryzyka jest ustalany.
+
+**Art. 119zp.**
+
+§ 1. Banki oraz spółdzielcze kasy oszczędnościowo-kredytowe przekazują izbie rozliczeniowej:
+
+- **1)** informacje o rachunkach podmiotów kwalifikowanych:
+    - **a)** otwieranych przez banki i spółdzielcze kasy oszczędnościowo-kredytowe – niezwłocznie, niepóźniej jednak niż do godziny 12.00 dnia następującego po dniu otwarcia rachunku podmiotu kwalifikowanego,
+    - **b)** prowadzonych przez banki i spółdzielcze kasy oszczędnościowo-kredytowe – niezwłocznie, niepóźniej jednak niż do godziny 12.00 dnia następującego po dniu uzyskania, zmiany lub uzupełnienia tych informacji;
+
+- **2)** dzienne zestawienia transakcji dotyczących rachunków podmiotu kwalifikowanego – niezwłocznie, niepóźniej jednak niż do godziny 15.00 dnia następującego po dniu dokonania transakcji;
+- **3)** informacje o rachunkach oszczędnościowych i rachunkach oszczędnościoworozliczeniowych prowadzonych dla osób fizycznych przez banki oraz informacje o rachunkach członków spółdzielczej kasy oszczędnościowo-kredytowej, niebędących rachunkami podmiotów kwalifikowanych, niezwłocznie, niepóźniej jednak niż do godziny 12.00 dnia następującego po dniu otwarcia rachunku.
+
+§ 2. W przypadkach, o których mowa w art. 119zk § 2 i 3, banki i spółdzielcze kasy oszczędnościowo-kredytowe przekazują:
+
+- **1)** informacje, o których mowa:
+    - **a)** w § 1 pkt 1 lit. a – niezwłocznie, niepóźniej jednak niż do godziny 18.00 dnia następującego po dniu otwarcia rachunku podmiotu kwalifikowanego,
+    - **b)** w § 1 pkt 1 lit. b – niezwłocznie, niepóźniej jednak niż do godziny 18.00 dnia następującego po dniu uzyskania, zmiany lub uzupełnienia tych informacji,
+    - **c)** w § 1 pkt 3 – niezwłocznie, niepóźniej jednak niż do godziny 18.00 dnia następującego po dniu otwarcia rachunku;
+
+- **2)** zestawienia, o których mowa w § 1 pkt 2, niezwłocznie, niepóźniej jednak niż do końca dnia następującego po dniu dokonania transakcji.
+
+§ 3. W przypadku stwierdzenia przez izbę rozliczeniową rozbieżności pomiędzy numerami, o których mowa w art. 119zr § 1 pkt 4 lit. b i c, a danymi, o których mowa w art. 119zu § 1 pkt 2, izba rozliczeniowa przekazuje bankowi albo spółdzielczej kasie oszczędnościowo-kredytowej informację o stwierdzonej rozbieżności, wskazując dane, których dotyczy rozbieżność.
+
+**Art. 119zq.** Izba rozliczeniowa, na podstawie informacji i zestawień, o których mowa w art. 119zp § 1, przekazuje Szefowi Krajowej Administracji Skarbowej, nierzadziej niż raz dziennie:
+
+- **1)** informacje o rachunkach podmiotów kwalifikowanych prowadzonych i otwieranych przez banki i spółdzielcze kasy oszczędnościowo-kredytowe;
+- **2)** (uchylony)
+- **3)** dzienne zestawienia transakcji dotyczących rachunków podmiotów kwalifikowanych.
+
+**Art. 119zr.**
+
+§ 1. Informacje, o których mowa w art. 119zp § 1 pkt 1 i art. 119zq pkt 1, obejmują:
+
+- **1)** identyfikator banku lub spółdzielczej kasy oszczędnościowo-kredytowej;
+- **2)** datę i godzinę wysłania danych;
+- **3)** rodzaj rachunku podmiotu kwalifikowanego, kod waluty rachunku podmiotu kwalifikowanego, numer rachunku podmiotu kwalifikowanego w formacie Numeru Rachunku Bankowego lub inny numer – w przypadku rachunku lokaty terminowej, datę zakończenia okresu, na jaki umowa lokaty terminowej została zawarta – w przypadku rachunku lokaty terminowej, oraz datę otwarcia i zamknięcia rachunku podmiotu kwalifikowanego;
+- **4)** dane identyfikacyjne podmiotu kwalifikowanego, jeżeli są dostępne, zawierające: 119zg pkt 4 lit. b,
+    - **a)** firmę, nazwę albo imię i nazwisko osoby fizycznej, o której mowa w art.
+    - **b)** rodzaj prowadzonej działalności, numer w Krajowym Rejestrze Sądowym i datę rejestracji lub rozpoczęcia działalności oraz kraj rejestracji podmiotu kwalifikowanego lub rezydencji podatkowej,
+    - **c)** numer PESEL, numer identyfikacyjny REGON oraz numer identyfikacji podatkowej, a w przypadku podmiotu kwalifikowanego mającego miejsce zamieszkania, siedzibę lub zarząd w państwie lub na terytorium spoza Unii Europejskiej – EURONIP lub inny numer identyfikacji podatkowej,
+    - **d)** dane adresowe prowadzonej działalności, siedziby oraz adres korespondencyjny podmiotu kwalifikowanego zawierający kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu,
+    - **e)** numer telefonu i adres poczty elektronicznej podmiotu kwalifikowanego;
+
+- **5)** dane identyfikacyjne pełnomocnika do rachunków podmiotu kwalifikowanego i reprezentanta podmiotu kwalifikowanego, a także jego beneficjenta rzeczywistego w rozumieniu art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, jeżeli są dostępne, zawierające:
+    - **a)** imię i nazwisko,
+    - **b)** numer PESEL oraz rodzaj, serię i numer dokumentu tożsamości,
+    - **c)** datę i kraj urodzenia oraz obywatelstwo,
+    - **d)** dane adresowe zawierające kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu,
+    - **e)** numer telefonu i adres poczty elektronicznej.
+
+§ 2. Informacje, o których mowa w art. 119zp § 1 pkt 1 i art. 119zq pkt 1, obejmują także:
+
+- **1)** datę ustanowienia pełnomocnika do rachunku podmiotu kwalifikowanego i reprezentanta podmiotu kwalifikowanego;
+- **2)** zakres umocowania pełnomocnika do rachunku podmiotu kwalifikowanego;
+- **3)** informacje o blokadach rachunku podmiotu kwalifikowanego oraz o blokadach środków na rachunku podmiotu kwalifikowanego dokonanych na podstawie odrębnych ustaw zawierające:
+    - **a)** wskazanie, czy blokada dotyczy jednego rachunku podmiotu kwalifikowanego,
+    - **b)** kwotę blokady,
+    - **c)** termin, do którego obowiązuje blokada,
+    - **d)** organ, na żądanie którego została dokonana blokada – jeżeli są dostępne;
+
+- **4)** informacje o zajęciach wierzytelności z rachunku podmiotu kwalifikowanego zawierające:
+    - **a)** wskazanie, czy zajęcie dotyczy jednego rachunku podmiotu kwalifikowanego,
+    - **b)** wskazanie, czy zajęcie zostało dokonane w postępowaniu egzekucyjnym czy w postępowaniu zabezpieczającym,
+    - **c)** kwotę należności pieniężnej, na poczet której dokonano zajęcia,
+    - **d)** organ egzekucyjny, który dokonał zajęcia – jeżeli są dostępne;
+
+- **5)** wskazanie numeru rachunku VAT w rozumieniu art. 2 pkt 37 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług prowadzonego dla rachunku rozliczeniowego, o którym mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, albo rachunku członka spółdzielczej kasy oszczędnościowo-kredytowej będącego podmiotem kwalifikowanym;
+- **6)** wskazanie, czy rachunek wymieniony w art. 119zg pkt 5 lit. a i c jest rachunkiem, o którym mowa w art. 15 ust. 1hb pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
+
+§ 3. Zestawienia, o których mowa w art. 119zp § 1 pkt 2 i art. 119zq pkt 3, obejmują:
+
+- **1)** dane identyfikacyjne nadawcy i odbiorcy transakcji, jeżeli są dostępne, zawierające:
+    - **a)** imię i nazwisko lub nazwę,
+    - **b)** dane adresowe zawierające kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu;
+
+- **2)** numer rachunku nadawcy transakcji i rachunku odbiorcy transakcji;
+- **3)** datę obciążenia lub uznania rachunku podmiotu kwalifikowanego;
+- **4)** kwotę i walutę transakcji;
+- **5)** tytuł i opis transakcji;
+- **6)** saldo początkowe i saldo końcowe zestawienia transakcji dotyczących rachunku podmiotu kwalifikowanego;
+- **7)** dane identyfikacyjne osoby, o której mowa w § 1 pkt 5 – w przypadku gdy osoba ta złożyła dyspozycję przeprowadzenia transakcji dotyczącej rachunku podmiotu kwalifikowanego, dokonała wpłaty gotówkowej na rachunek podmiotu kwalifikowanego lub dokonała wypłaty gotówkowej z rachunku podmiotu kwalifikowanego, w imieniu jego posiadacza, w tym przy użyciu karty płatniczej w rozumieniu art. 2 pkt 15a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych wydanej do rachunku podmiotu kwalifikowanego – jeżeli są dostępne;
+- **8)** informację o łącznej kwocie środków zajętych przez organ egzekucyjny lub zablokowanych na rachunku podmiotu kwalifikowanego;
+- **9)** numer rachunku prowadzonego w celu automatycznej identyfikacji dyspozycji składanych z rachunku podmiotu kwalifikowanego (rachunek wirtualny), jeżeli dyspozycje dotyczą uznania takiego rachunku – w przypadku zestawień przekazywanych przez bank albo spółdzielczą kasę oszczędnościowo-kredytową prowadzące ten rachunek.
+
+§ 4. Informacje, o których mowa w art. 119zp § 1 pkt 3, obejmują:
+
+- **1)** identyfikator banku lub spółdzielczej kasy oszczędnościowo-kredytowej;
+- **2)** datę i godzinę przekazania informacji;
+- **3)** kody walut rachunków, o których mowa w art. 119zp § 1 pkt 3, numery tych rachunków w formacie Numeru Rachunku Bankowego oraz daty ich otwarcia i zamknięcia.
+
+§ 5. Dane, o których mowa w art. 119zp § 1 oraz art. 119zq, są przekazywane w postaci elektronicznej odpowiadającej strukturze logicznej dostępnej w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+**Art. 119zs.**
+
+§ 1. W celu weryfikacji lub uzupełnienia posiadanych przez Szefa Krajowej Administracji Skarbowej informacji niezbędnych do wykonywania zadań, o których mowa w niniejszym dziale, Szef Krajowej Administracji Skarbowej może żądać przekazania przez bank lub spółdzielczą kasę oszczędnościowo-kredytową:
+
+- **1)** informacji lub zestawień innych niż przekazane na podstawie art. 119zq, przy czym przepisy art. 119zr § 1–3 stosuje się odpowiednio;
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** adresów IP, z których:
+    - **a)** następowały logowania do usług bankowości elektronicznej umożliwiających dostęp do rachunku podmiotu kwalifikowanego wraz ze wskazaniem identyfikatora, z którego użyciem dokonano logowania, oraz daty i godziny tych logowań,
+    - **b)** zostały złożone dyspozycje przeprowadzenia transakcji dotyczących rachunku podmiotu kwalifikowanego wraz ze wskazaniem identyfikatora, z którego użyciem złożono dyspozycję, oraz daty i godziny złożenia tych dyspozycji – w przypadku gdy dyspozycje nie zostały złożone z wykorzystaniem usług bankowości elektronicznej – jeżeli są dostępne.
+
+§ 2. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa przekazują Szefowi Krajowej Administracji Skarbowej posiadane dane objęte żądaniem, o którym mowa w § 1, niezwłocznie, jednak niepóźniej niż w terminie 3 dni od dnia otrzymania żądania, a jeżeli dane te znajdują się w formie uniemożliwiającej ich automatyczne przetwarzanie – niepóźniej niż w terminie:
+
+- **1)** 7 dni od dnia otrzymania żądania – w przypadku danych, o których mowa w § 1 pkt 1;
+- **2)** 14 dni od dnia otrzymania żądania – w przypadku danych, o których mowa w § 1 pkt 4.
+
+**Art. 119zt.** Informacje i zestawienia, o których mowa w art. 119zp § 1 i art. 119zq, są udzielane przez izbę rozliczeniową podmiotom innym niż Szef Krajowej Administracji Skarbowej wyłącznie na żądanie:
+
+- **1)** sądu lub prokuratora – w związku z toczącym się postępowaniem o wyłudzenia skarbowe przeciwko podmiotowi kwalifikowanemu będącemu posiadaczem rachunku podmiotu kwalifikowanego;
+- **2)** Prezesa Najwyższej Izby Kontroli – w zakresie niezbędnym do przeprowadzenia postępowania kontrolnego określonego w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623 oraz z 2026 r. poz. 26);
+- **3)** Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa i ich posiadających sporządzone na piśmie upoważnienie funkcjonariuszy lub żołnierzy – w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
+- **4)** Prezesa Urzędu Ochrony Danych Osobowych – w zakresie niezbędnym do realizacji ustawowych zadań określonych w przepisach o ochronie danych osobowych;
+- **5)** Szefa Centralnego Biura Antykorupcyjnego – w zakresie niezbędnym do realizacji ustawowych zadań – za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 22a ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718);
+- **6)** Szefa Agencji Bezpieczeństwa Wewnętrznego – w zakresie niezbędnym do realizacji ustawowych zadań – za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 34 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902 i 1366 oraz z 2026 r. poz. 26);
+- **6a)** Komendanta Głównego Policji, Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, Komendanta Centralnego Biura Zwalczania Cyberprzestępczości, komendanta wojewódzkiego Policji albo Komendanta Stołecznego Policji – w zakresie niezbędnym do realizacji ustawowych zadań – za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 421);
+- **6b)** Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej albo komendanta oddziału Straży Granicznej – w zakresie niezbędnym do realizacji ustawowych zadań – za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 10a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2026 r. poz.
+- **367)** ;
+- **7)** Generalnego Inspektora Informacji Finansowej – w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+- **8)** Przewodniczącego Komisji Nadzoru Finansowego – w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069 oraz z 2026 r. poz. 252).
+
+**Art. 119zu.**
+
+§ 1. W celu ustalenia wskaźnika ryzyka izba rozliczeniowa przetwarza:
+
+- **1)** dane przekazane na podstawie art. 119zp § 1;
+- **2)** dane udostępnione z Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników, o których mowa w art. 15 ust. 5 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2026 r. poz. 151 i 507);
+- **2a)** informacje rejestrowane, o których mowa w ustawie z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej;
+- **3)** informacje dostępne publicznie.
+
+§ 2. (uchylony)
+
+§ 2a. Dane, o których mowa w § 1, izba rozliczeniowa przetwarza przy wykorzystaniu STIR również w celu:
+
+- **1)** stosowania przez izbę rozliczeniową środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, na podstawie umowy, o której mowa w art. 48 ust. 1 tej ustawy, zawartej z bankiem, spółdzielczą kasą oszczędnościowo-kredytową lub instytucją zobowiązaną, o której mowa w art. 3 pkt 2 lit. c, d, f lub g ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej;
+- **2)** wykonywania przez izbę rozliczeniową na rzecz banków, spółdzielczych kas oszczędnościowo-kredytowych lub instytucji zobowiązanych, o których mowa w art. 3 pkt 2 lit. c, d, f lub g ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej, czynności niezbędnych do zastosowania przez banki, spółdzielcze kasy oszczędnościowo-kredytowe lub inne instytucje zobowiązane, o których mowa w art. 3 pkt 2 tej ustawy, środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+
+§ 3. Dane przetwarzane na podstawie przepisów niniejszego działu są przechowywane przez izbę rozliczeniową, banki, spółdzielcze kasy oszczędnościowokredytowe oraz Szefa Krajowej Administracji Skarbowej przez 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym otrzymały dane.
+
+§ 4. Jeżeli w okresie, o którym mowa w § 3, nie upłynął termin przedawnienia zobowiązania podatkowego, zwrotu podatku lub wyłudzenia skarbowego, w związku z którym przechowywane dane mogłyby stanowić dowód w postępowaniu, dane te mogą być przechowywane przez Szefa Krajowej Administracji Skarbowej niedłużej niż do upływu terminu przedawnienia.
+
+§ 5. Izba rozliczeniowa, która wykonywała obowiązki określone w niniejszym dziale, jest obowiązana do przekazania Szefowi Krajowej Administracji Skarbowej danych i informacji przechowywanych na podstawie ustawy w terminie miesiąca, licząc od ostatniego dnia realizacji tych obowiązków.
+
+§ 6. Szef Krajowej Administracji Skarbowej jest obowiązany do przekazania danych i informacji, o których mowa w § 5, izbie rozliczeniowej, która przejęła realizację obowiązków wynikających z niniejszego działu, w zakresie koniecznym do ustalenia wskaźnika ryzyka, w terminie miesiąca, licząc od dnia ich otrzymania.
+
+§ 7. Do okresu przechowywania danych, o którym mowa w § 3, przez izbę rozliczeniową, o której mowa w § 6, wlicza się okres przechowywania danych przez izbę rozliczeniową, o której mowa w § 5.
 
 #### Rozdział 3 Blokada rachunku podmiotu kwalifikowanego
 
+**Art. 119zv.**
+
+§ 1. Szef Krajowej Administracji Skarbowej może zażądać blokady rachunku podmiotu kwalifikowanego na okres niedłuższy niż 72 godziny, jeżeli posiadane informacje, w szczególności wyniki analizy ryzyka, o której mowa w art. 119zn § 1, wskazują, że podmiot kwalifikowany może wykorzystywać działalność banków lub spółdzielczych kas oszczędnościowo-kredytowych do celów mających związek z wyłudzeniami skarbowymi lub do czynności zmierzających do wyłudzenia skarbowego, a blokada rachunku podmiotu kwalifikowanego jest konieczna, aby temu przeciwdziałać.
+
+§ 2. Żądanie blokady rachunku podmiotu kwalifikowanego zawiera:
+
+- **1)** oznaczenie numeru rachunku podmiotu kwalifikowanego;
+- **2)** okres blokady rachunku podmiotu kwalifikowanego.
+
+§ 3. W przypadku, o którym mowa w § 1, Szef Krajowej Administracji Skarbowej przekazuje:
+
+- **1)** bankowi lub spółdzielczej kasie oszczędnościowo-kredytowej – żądanie blokady rachunku podmiotu kwalifikowanego;
+- **2)** właściwemu dla podmiotu kwalifikowanego naczelnikowi urzędu skarbowego, naczelnikowi urzędu celno-skarbowego oraz prokuratorowi – zawiadomienie o blokadzie rachunku podmiotu kwalifikowanego zawierające dane określone w żądaniu blokady rachunku podmiotu kwalifikowanego.
+
+§ 4. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa niezwłocznie po otrzymaniu żądania, o którym mowa w § 3 pkt 1:
+
+- **1)** odnotowują datę i godzinę jego otrzymania;
+- **2)** dokonują blokady rachunku podmiotu kwalifikowanego;
+- **3)** informują Szefa Krajowej Administracji Skarbowej o:
+    - **a)** dacie i godzinie otrzymania żądania, o którym mowa w § 3 pkt 1, i dokonania blokady rachunku podmiotu kwalifikowanego oraz saldzie tego rachunku podmiotu kwalifikowanego w momencie dokonania blokady rachunku podmiotu kwalifikowanego,
+    - **b)** nieprowadzeniu rachunku podmiotu kwalifikowanego wskazanego w żądaniu, o którym mowa w § 3 pkt 1.
+
+§ 4a. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa nie ujawniają podmiotowi kwalifikowanemu informacji o przekazaniu żądania lub dokonaniu blokady rachunku podmiotu kwalifikowanego.
+
+§ 4b. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa informują podmiot kwalifikowany o przekazaniu żądania lub dokonaniu blokady rachunku podmiotu kwalifikowanego wyłącznie na jego wniosek, po uprzednim potwierdzeniu przez Szefa Krajowej Administracji Skarbowej, że wszystkie przekazane żądania blokady rachunków tego podmiotu kwalifikowanego zostały wykonane.
+
+§ 4c. W przypadku złożenia dyspozycji przeprowadzenia transakcji dotyczących rachunku podmiotu kwalifikowanego będącego przedmiotem blokady bank oraz spółdzielcza kasa oszczędnościowo-kredytowa niezwłocznie informują Szefa Krajowej Administracji Skarbowej o:
+
+- **1)** dacie i godzinie złożenia dyspozycji;
+- **2)** treści transakcji będącej przedmiotem dyspozycji w zakresie określonym w art. 119zr § 3.
+
+§ 4d. Niezwłocznie po otrzymaniu wniosku, o którym mowa w § 4b, bank oraz spółdzielcza kasa oszczędnościowo-kredytowa informują Szefa Krajowej Administracji Skarbowej o:
+
+- **1)** dacie i godzinie złożenia wniosku;
+- **2)** adresie poczty elektronicznej, z którego złożono wniosek, jeżeli jest dostępny – w przypadku gdy wniosek został złożony za pośrednictwem poczty elektronicznej;
+- **3)** adresie IP, z którego nastąpiło logowanie, jeżeli jest dostępny – w przypadku gdy wniosek został złożony za pośrednictwem serwisu internetowego służącego do obsługi rachunku podmiotu kwalifikowanego lub w inny sposób umożliwiający identyfikację tego adresu;
+- **4)** numerze telefonu, za pośrednictwem którego został złożony wniosek, jeżeli jest dostępny – w przypadku gdy wniosek został złożony telefonicznie;
+- **5)** adresie placówki banku, spółdzielczej kasy oszczędnościowo-kredytowej albo ich oddziału, w których został złożony wniosek – w przypadku gdy wniosek został złożony osobiście;
+- **6)** adresie nadawcy, jeżeli jest dostępny – w przypadku gdy wniosek został złożony za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe.
+
+§ 5. Blokada rachunku podmiotu kwalifikowanego jest skuteczna również w odniesieniu do rachunku podmiotu kwalifikowanego, którego podmiot kwalifikowany jest współposiadaczem.
+
+§ 6. Szef Krajowej Administracji Skarbowej niezwłocznie po otrzymaniu informacji, o której mowa w § 4 pkt 3 lit. a, w odniesieniu do wszystkich żądań dotyczących podmiotu kwalifikowanego przekazanych do momentu otrzymania tej informacji, przekazuje temu podmiotowi zawiadomienie o blokadzie jego rachunku zawierające dane określone w tych żądaniach.
+
+§ 7. W okresie blokady rachunku podmiotu kwalifikowanego Szef Krajowej Administracji Skarbowej:
+
+- **1)** może ograniczyć zakres blokady rachunku podmiotu kwalifikowanego lub
+- **2)** uchyla blokadę, jeżeli stwierdzi, że ustała przesłanka blokady rachunku podmiotu kwalifikowanego.
+
+§ 8. Do ograniczenia zakresu oraz uchylenia blokady rachunku podmiotu kwalifikowanego przepisy § 2–6 stosuje się odpowiednio.
+
+§ 9. Minister właściwy do spraw finansów publicznych przeprowadza, nierzadziej niż raz na kwartał, kontrolę przestrzegania przepisów § 1, 2, 6 i 7 przez Szefa Krajowej Administracji Skarbowej, a w przypadku upoważnienia, zgodnie z przepisami wydanymi na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, innego organu Krajowej Administracji Skarbowej – przez ten organ.
+
+**Art. 119zw.**
+
+§ 1. Szef Krajowej Administracji Skarbowej może przedłużyć, w drodze postanowienia, termin blokady rachunku podmiotu kwalifikowanego na czas oznaczony, niedłuższy jednak niż 3 miesiące, jeżeli zachodzi uzasadniona obawa, że podmiot kwalifikowany nie wykona istniejącego lub mającego powstać zobowiązania podatkowego lub zobowiązania z tytułu odpowiedzialności podatkowej osób trzecich, przekraczających równowartość 10 000 euro przeliczonych na złote według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w ostatnim dniu roboczym roku poprzedzającego rok, w którym wydano postanowienie.
+
+§ 2. Postanowienie, o którym mowa w § 1, zawiera:
+
+- **1)** oznaczenie numeru rachunku podmiotu kwalifikowanego;
+- **2)** zakres blokady rachunku podmiotu kwalifikowanego;
+- **3)** oznaczenie terminu przedłużenia blokady rachunku podmiotu kwalifikowanego;
+- **4)** uzasadnienie przedłużenia blokady rachunku podmiotu kwalifikowanego;
+- **5)** pouczenie o treści art. 119zx, art. 119zy § 1, art. 119zz § 1, art. 119zza § 1 i art. 119zzb.
+
+§ 3. Po wydaniu postanowienia, o którym mowa w § 1, Szef Krajowej Administracji Skarbowej przekazuje:
+
+- **1)** bankowi lub spółdzielczej kasie oszczędnościowo-kredytowej żądanie przedłużenia terminu blokady rachunku podmiotu kwalifikowanego zawierające dane, o których mowa w § 2 pkt 1–3;
+- **2)** właściwemu dla podmiotu kwalifikowanego naczelnikowi urzędu skarbowego, naczelnikowi urzędu celno-skarbowego oraz prokuratorowi zawiadomienie o przedłużeniu terminu blokady rachunku podmiotu kwalifikowanego zawierające dane określone w postanowieniu.
+
+§ 4. Żądanie przedłużenia terminu blokady rachunku podmiotu kwalifikowanego jest skuteczne, jeżeli zostanie przekazane do banku lub spółdzielczej kasy oszczędnościowo-kredytowej w okresie blokady rachunku podmiotu kwalifikowanego, o którym mowa w art. 119zv § 2 pkt 2. Przepisy art. 119zv § 4‒5 stosuje się odpowiednio.
+
+§ 4a. Szef Krajowej Administracji Skarbowej, niezwłocznie po otrzymaniu informacji o przedłużeniu blokady rachunku podmiotu kwalifikowanego, doręcza podmiotowi kwalifikowanemu postanowienie, o którym mowa w § 1, oraz informację o dacie i godzinie przekazania bankowi lub spółdzielczej kasie oszczędnościowokredytowej żądania przedłużenia terminu blokady rachunku podmiotu kwalifikowanego.
+
+§ 5. W okresie blokady rachunku podmiotu kwalifikowanego, o którym mowa w § 2 pkt 3, Szef Krajowej Administracji Skarbowej, w drodze postanowienia:
+
+- **1)** może zmienić zakres blokady rachunku podmiotu kwalifikowanego;
+- **2)** uchyla blokadę rachunku podmiotu kwalifikowanego, jeżeli stwierdzi, że ustała przesłanka blokady rachunku podmiotu kwalifikowanego.
+
+§ 6. Do postanowienia, o którym mowa w § 5, przepisy § 2, 3 i 4a oraz art. 119zv § 4‒5 stosuje się odpowiednio.
+
+**Art. 119zx.** W okresie blokady rachunku podmiotu kwalifikowanego wierzytelności z tego rachunku podmiotu kwalifikowanego nie mogą być przedmiotem zabezpieczenia rzeczowego.
+
+**Art. 119zy.**
+
+§ 1. Na wniosek podmiotu kwalifikowanego Szef Krajowej Administracji Skarbowej może, w drodze postanowienia, wyrazić zgodę na wypłatę z zablokowanego rachunku podmiotu kwalifikowanego środków na:
+
+- **1)** wynagrodzenie za pracę wypłacane na podstawie umowy o pracę zawartej co najmniej 3 miesiące przed dniem dokonania blokady rachunku podmiotu kwalifikowanego wraz z zaliczką na podatek dochodowy od osób fizycznych oraz składkami na ubezpieczenie społeczne należnymi od wypłacanego wynagrodzenia – po przedłożeniu odpisu listy płac oraz dokumentu Zakładu Ubezpieczeń Społecznych potwierdzającego zgłoszenie do ubezpieczeń społecznych z tytułu umowy o pracę;
+- **2)** alimenty lub rentę o charakterze alimentacyjnym – po przedłożeniu tytułu stwierdzającego obowiązek podmiotu kwalifikowanego do płacenia alimentów lub renty.
+
+§ 2. W postanowieniu, o którym mowa w § 1, określa się wysokość środków podlegających wypłacie, w tym na rzecz pracownika oraz osoby uprawnionej do alimentów lub renty o charakterze alimentacyjnym zasądzonej tytułem odszkodowania, odpowiadającą wysokości minimalnego wynagrodzenia za pracę ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
+
+§ 3. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa, po uzyskaniu informacji od Szefa Krajowej Administracji Skarbowej o wyrażeniu zgody, o której mowa w § 1, dokonują wypłaty wynagrodzenia, alimentów lub renty osobie uprawnionej do tych świadczeń.
+
+**Art. 119zz.**
+
+§ 1. Szef Krajowej Administracji Skarbowej może, w drodze postanowienia, wyrazić zgodę na:
+
+- **1)** zapłatę zobowiązania podatkowego lub należności celnej przed terminem płatności z zablokowanego rachunku podmiotu kwalifikowanego – na wniosek podmiotu kwalifikowanego zawierający wskazanie zobowiązania podatkowego lub należności celnej, jej wysokości oraz naczelnika urzędu skarbowego właściwego do jej poboru;
+- **2)** zwolnienie środków z zablokowanego rachunku podmiotu kwalifikowanego – na wniosek podmiotu kwalifikowanego w szczególnie uzasadnionych przypadkach.
+
+§ 2. Jeżeli postanowienie, o którym mowa w § 1, stało się ostateczne, Szef Krajowej Administracji Skarbowej przekazuje bankowi lub spółdzielczej kasie oszczędnościowo-kredytowej żądanie odpowiednio przekazania środków właściwemu naczelnikowi urzędu skarbowego lub zwolnienia środków z zablokowanego rachunku podmiotu kwalifikowanego, wskazując zakres zwolnienia.
+
+**Art. 119zza.**
+
+§ 1. Szef Krajowej Administracji Skarbowej może, w drodze postanowienia, zwolnić środki z zablokowanego rachunku podmiotu kwalifikowanego na zapłatę zaległości podatkowej lub celnej oraz odsetek za zwłokę, w przypadku:
+
+- **1)** złożenia deklaracji, korekty deklaracji lub zgłoszenia celnego;
+- **2)** wydania ostatecznej decyzji ustalającej lub określającej wysokość zobowiązania podatkowego lub należności celnej, potwierdzającej istnienie zaległości podatkowej lub celnej;
+- **3)** nadania rygoru natychmiastowej wykonalności decyzji ustalającej lub określającej wysokość zobowiązania podatkowego lub należności celnej, potwierdzającej istnienie zaległości podatkowej lub celnej.
+
+§ 2. Przepis art. 119zz § 2 stosuje się odpowiednio.
+
+**Art. 119zzb.**
+
+§ 1. Na postanowienia, o których mowa w art. 119zw § 1 i 5, art. 119zy § 1, art. 119zz § 1 oraz art. 119zza § 1, przysługuje zażalenie.
+
+§ 2. Zażalenie jest rozpatrywane niezwłocznie, jednak niepóźniej niż w terminie 7 dni od dnia jego otrzymania.
+
+§ 3. (uchylony)
+
+§ 4. W zakresie nieuregulowanym do postępowań, o których mowa w niniejszym rozdziale, stosuje się odpowiednio przepisy działu IV.
+
+§ 5. W przypadku skarg do wojewódzkiego sądu administracyjnego w sprawach, o których mowa w art. 119zw § 1 i art. 119zza § 1:
+
+- **1)** przekazanie akt i odpowiedzi na skargę następuje w terminie 7 dni od dnia otrzymania skargi;
+- **2)** rozpatrzenie skargi następuje w terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
+
+**Art. 119zzc.**
+
+§ 1. Blokada rachunku podmiotu kwalifikowanego upada:
+
+- **1)** z upływem okresu określonego w żądaniu, o którym mowa w art. 119zv § 2 pkt 2, jeżeli nie przedłużono terminu blokady rachunku podmiotu kwalifikowanego;
+- **2)** z chwilą wykonania przez bank lub spółdzielczą kasę oszczędnościowokredytową żądania uchylenia blokady wydanego na podstawie art. 119zv § 7 pkt 2 lub art. 119zw § 5 pkt 2;
+- **3)** z upływem terminu określonego w postanowieniu, o którym mowa w art. 119zw § 1;
+- **4)** z chwilą dokonania zajęcia na podstawie:
+    - **a)** zarządzenia zabezpieczenia wystawionego w trybie przepisów o postępowaniu egzekucyjnym w administracji w związku z zawiadomieniem, o którym mowa w art. 119zv § 3 pkt 2, na zabezpieczenie zobowiązania podatkowego lub należności celnej wraz z odsetkami za zwłokę,
+    - **b)** postanowienia o zabezpieczeniu majątkowym wydanego w trybie przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego w związku z zawiadomieniem, o którym mowa w art. 119zv § 3 pkt 2 – w części odpowiadającej wysokości określonej odpowiednio w zarządzeniu zabezpieczenia lub postanowieniu o zabezpieczeniu majątkowym.
+
+§ 2. Bank oraz spółdzielcza kasa oszczędnościowo-kredytowa niezwłocznie uchylają blokadę rachunku podmiotu kwalifikowanego:
+
+- **1)** w przypadkach, o których mowa w § 1 pkt 1–3;
+- **2)** w części wolnej od zajęcia – w przypadku, o którym mowa w § 1 pkt 4.
+
+**Art. 119zzd.** Dokonanie przez bank lub spółdzielczą kasę oszczędnościowokredytową blokady rachunku podmiotu kwalifikowanego lub zmiany jej zakresu zgodnie z żądaniami Szefa Krajowej Administracji Skarbowej, o których mowa w niniejszym rozdziale, nie powoduje odpowiedzialności dyscyplinarnej, cywilnej, karnej ani innej określonej odrębnymi przepisami.
+
+**Art. 119zze.** (uchylony)
+
 #### Rozdział 4 Kontrola
+
+**Art. 119zzf.**
+
+§ 1. Kontrolę wypełniania obowiązków, o których mowa w niniejszym dziale, przez banki, spółdzielcze kasy oszczędnościowo-kredytowe, izbę rozliczeniową, banki zrzeszające oraz Krajową Spółdzielczą Kasę OszczędnościowoKredytową sprawuje Szef Krajowej Administracji Skarbowej.
+
+§ 2. Szef Krajowej Administracji Skarbowej przeprowadza, nierzadziej niż raz na rok, kontrolę wypełniania przez izbę rozliczeniową obowiązków, o których mowa w niniejszym dziale.
+
+§ 3. Kontrolę, o której mowa w § 1, przeprowadzają upoważnieni przez Szefa Krajowej Administracji Skarbowej pracownicy urzędu obsługującego ministra właściwego do spraw finansów publicznych lub organów podległych Szefowi Krajowej Administracji Skarbowej.
+
+§ 4. Kontrolę, o której mowa w § 1, przeprowadzają osoby posiadające poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych oznaczonych klauzulą „poufne”.
+
+§ 5. Do kontroli, o której mowa w § 1, stosuje się odpowiednio przepisy art. 62 ust. 1–3, 8 i 10, art. 64 ust. 1 pkt 1, 2, 5, 7, 8, 10, 11 i 17 i ust. 3 i 4, art. 72 ust. 1 pkt 1–3 i 8–11 oraz ust. 3, art. 84 ust. 1, 2 i 4, art. 93 oraz art. 97 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+
+**Art. 119zzg.** Prezes Urzędu Ochrony Danych Osobowych przeprowadza, nierzadziej niż raz na 2 lata, kontrolę izby rozliczeniowej w zakresie ochrony danych osobowych przy wypełnianiu obowiązków, o których mowa w niniejszym dziale.
 
 #### Rozdział 5 Kary pieniężne
 
+**Art. 119zzh.**
+
+§ 1. Bank, spółdzielcza kasa oszczędnościowo-kredytowa, bank zrzeszający oraz Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa, które nie dopełniają obowiązku przekazywania informacji i zestawień, o których mowa w art. 119zp, lub danych, o których mowa w art. 119zs § 2, przekazują je niezgodnie z posiadanymi informacjami, zestawieniami lub danymi, lub zatajają prawdziwe informacje, zestawienia lub dane, podlegają karze pieniężnej.
+
+§ 2. Tej samej karze podlega bank oraz spółdzielcza kasa oszczędnościowokredytowa, które nie dopełniają obowiązku dokonania blokady rachunku podmiotu kwalifikowanego, przedłużenia, zmiany zakresu lub uchylenia blokady rachunku podmiotu kwalifikowanego.
+
+**Art. 119zzi.** Izba rozliczeniowa, która nie dopełnia obowiązku:
+
+- **1)** prowadzenia STIR,
+- **2)** ustalenia wskaźnika ryzyka,
+- **3)** przekazania informacji o wskaźniku ryzyka,
+- **4)** pośredniczenia w przekazaniu danych, informacji i żądań pomiędzy Szefem Krajowej Administracji Skarbowej a bankami oraz spółdzielczymi kasami oszczędnościowo-kredytowymi – podlega karze pieniężnej.
+
+**Art. 119zzj.**
+
+§ 1. Karę pieniężną, o której mowa w art. 119zzh i art. 119zzi, nakłada Szef Krajowej Administracji Skarbowej, w drodze decyzji, w wysokości niewiększej niż 1 000 000 zł.
+
+§ 2. Od decyzji przysługuje odwołanie do ministra właściwego do spraw finansów publicznych w terminie 14 dni od dnia jej doręczenia.
+
+**Art. 119zzk.** W zakresie nieuregulowanym w niniejszym rozdziale do nakładania kary pieniężnej stosuje się przepisy działu IVA Kodeksu postępowania administracyjnego.
+
 ### DZIAŁ IIIC Przeciwdziałanie nadużyciom w zakresie operacji transgranicznych
+
+**Art. 119zzl.**
+
+§ 1. Szef Krajowej Administracji Skarbowej na wniosek, o którym mowa w art. 516 § 1, art. 550 § 1 lub art. 580 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187), zwany dalej w niniejszym dziale „wnioskiem”, wydaje opinię w zakresie transgranicznego przekształcenia, połączenia albo podziału spółki, zwaną dalej w niniejszym dziale „opinią”.
+
+§ 2. Przedmiotem opinii jest:
+
+- **1)** ocena, czy nie istnieje uzasadnione przypuszczenie, że transgraniczne przekształcenie, połączenie albo podział spółki może:
+    - **a)** stanowić czynność lub element czynności określonej w art. 119a § 1 lub
+    - **b)** być przedmiotem decyzji wydanej z zastosowaniem środków ograniczających umowne korzyści, lub
+    - **c)** stanowić nadużycie prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;
+
+- **2)** potwierdzenie, że są zaspokojone lub zabezpieczone zobowiązania pieniężne spółki wobec organów podatkowych lub niepodatkowe należności budżetowe o charakterze publicznoprawnym w rozumieniu art. 60 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, do których wymiaru lub poboru są właściwe organy Krajowej Administracji Skarbowej.
+
+§ 3. Wniosek zawiera dane istotne dla określenia podatkowych skutków czynności transgranicznego przekształcenia, połączenia albo podziału spółki oraz zastosowania do tej czynności przepisu art. 119a § 1 i art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, w tym:
+
+- **1)** dane identyfikujące wnioskodawcę;
+- **2)** wskazanie podmiotów dokonujących czynności;
+- **3)** wyczerpujący opis czynności wraz ze wskazaniem występujących między podmiotami powiązań w rozumieniu art. 23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
+- **4)** NSP w rozumieniu art. 86a § 1 pkt 5 odnoszący się do uzgodnienia albo wyjaśnienie, z jakich powodów faktycznych lub prawnych uzgodnienie nie podlegało zgłoszeniu w celu jego nadania;
+- **5)** wskazanie celów, których realizacji czynność ma służyć;
+- **6)** wskazanie ekonomicznego lub gospodarczego uzasadnienia czynności;
+- **7)** określenie skutków podatkowych, w tym korzyści podatkowych, będących rezultatem czynności objętych wnioskiem;
+- **8)** wskazanie innych niż w pkt 7 korzyści podatkowych, niepodlegających ocenie określonej w art. 119za pkt 2, których osiągnięcie jest uzależnione choćby pośrednio od dokonania czynności;
+- **9)** wskazanie innych czynności planowanych, rozpoczętych lub dokonanych, od których choćby pośrednio jest uzależnione osiągnięcie korzyści podatkowych, o których mowa w pkt 7 i 8.
+
+§ 4. Do wniosku dołącza się zaświadczenie, o którym mowa w art. 306e § 1, wraz z informacjami, o których mowa w art. 306e § 4.
+
+§ 5. Do wniosku dołącza się oświadczenie członków zarządu spółki dotyczące położenia posiadanych przez spółkę nieruchomości na terytorium Rzeczypospolitej Polskiej. Oświadczenie jest składane pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia i zawiera klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+
+§ 6. Do wniosku dołącza się oryginał, kopię albo wydruk dowodu wniesienia opłaty, o której mowa w art. 119zzo § 1, a jeśli opłata ta została uiszczona po złożeniu wniosku – oryginał, kopię albo wydruk dowodu wniesienia opłaty należy przesłać do organu właściwego w sprawach opinii niezwłocznie po jej wniesieniu.
+
+§ 7. Minister właściwy do spraw finansów publicznych może udostępnić wzór wniosku, mając na względzie konieczność zapewnienia sprawnej obsługi tych wniosków.
+
+**Art. 119zzm.**
+
+§ 1. Szef Krajowej Administracji Skarbowej wydaje opinię bez zbędnej zwłoki, niepóźniej niż w terminie miesiąca od dnia otrzymania wniosku.
+
+§ 2. Do terminu, o którym mowa w § 1, nie wlicza się terminów i okresów, o których mowa w art. 139 § 4.
+
+§ 3. W przypadkach uzasadnionych złożonością sprawy, wymagających uwzględnienia dodatkowych informacji lub przeprowadzenia dodatkowych czynności wyjaśniających, termin, o którym mowa w § 1, może być przedłużony, niewięcej jednak niż o 3 miesiące. O przedłużeniu terminu Szef Krajowej Administracji Skarbowej niezwłocznie informuje sąd rejestrowy.
+
+**Art. 119zzn.**
+
+§ 1. Szef Krajowej Administracji Skarbowej może w toku postępowania, w zakresie, o którym mowa w art. 119zzl § 2, zasięgnąć opinii ministra właściwego do spraw finansów publicznych, Generalnego Inspektora Informacji Finansowej, Dyrektora Krajowej Informacji Skarbowej, naczelnika urzędu skarbowego właściwego dla podatnika, naczelnika urzędu celno-skarbowego, a w przypadku podatków i opłat, do których ustalania lub określania są uprawnieni wójt, burmistrz (prezydent miasta), starosta lub marszałek województwa – również tych organów.
+
+§ 2. Do zasięgnięcia opinii przepisy art. 209 § 1–4 i 6 stosuje się odpowiednio.
+
+**Art. 119zzo.**
+
+§ 1. Wniosek podlega opłacie w wysokości odpowiadającej 50 % wysokości minimalnego wynagrodzenia za pracę obowiązującego w dniu złożenia wniosku, ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę. Opłatę uiszcza się w terminie 7 dni od dnia złożenia wniosku, na rachunek organu właściwego w sprawach opinii.
+
+§ 2. Opłata uiszczona w kwocie wyższej niż należna podlega zwrotowi w kwocie nadwyżki, niepóźniej niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii.
+
+§ 3. Opłata stanowi dochód budżetu państwa.
+
+**Art. 119zzp.**
+
+§ 1. Szef Krajowej Administracji Skarbowej odmawia wydania opinii, jeżeli okoliczności sprawy wskazują na istnienie uzasadnionego przypuszczenia, że:
+
+- **1)** transgraniczne przekształcenie, połączenie albo podział spółki może:
+    - **a)** stanowić czynność lub element czynności określonej w art. 119a § 1 lub
+    - **b)** być przedmiotem decyzji wydanej z zastosowaniem środków ograniczających umowne korzyści, lub
+    - **c)** stanowić nadużycie prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;
+
+- **2)** nie zostaną zaspokojone lub nie zostały zabezpieczone zobowiązania pieniężne i niepodatkowe należności budżetowe, o których mowa w art. 119zzl § 2 pkt 2.
+
+§ 2. Odmowa wydania opinii zawiera wskazanie okoliczności, o których mowa w § 1.
+
+**Art. 119zzq.** Opinię albo odmowę jej wydania przesyła się do sądu rejestrowego, o którym mowa w art. 516 § 1, art. 550 § 1 lub art. 580 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, a odpis tego pisma przesyła się do wiadomości wnioskodawcy. Postanowienie kończące sprawę przesyła się do wnioskodawcy, a gdy stało się ono ostateczne, przesyła się je do sądu rejestrowego, a jego odpis – do wiadomości wnioskodawcy. Odpisy pism w sprawie kierowanych do wnioskodawcy lub organów, o których mowa w art. 119zzn § 1, a także pism kierowanych do Szefa Krajowej Administracji Skarbowej przesyła się do wiadomości sądu rejestrowego.
+
+**Art. 119zzr.**
+
+§ 1. Wydanie opinii nie stanowi przeszkody do prowadzenia wobec spółki czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
+
+§ 2. Opinia nie stanowi zaświadczenia w rozumieniu ustawy.
+
+**Art. 119zzs.** W zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 14d § 2, art. 14i § 2, art. 119x § 2, 4 i 5, art. 119y § 3, art. 120, art. 125, art. 126, art. 129, art. 130, art. 132, art. 135, art. 140, art. 143, art. 165 § 3 i 3b, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 187 § 3, art. 189 § 3, art. 197 § 1 i 3, art. 208, art. 210 § 1, 4 i 5, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16, 23, a także przepisy art. 45, art. 46, art. 47a, art. 49, art. 49b i art. 51 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 
 ### DZIAŁ IV Postępowanie podatkowe
 
@@ -6263,7 +6938,13 @@ Art. 307–323. (pominięte)
 
 § 5c. Przepisów § 5–5b nie stosuje się do kontrolowanego przedsiębiorcy.
 
-§ 6. Postanowienie o zawieszeniu kontroli oraz postanowienie o umorzeniu kontroli pozostawia się w aktach sprawy. Art. 284aa. W przypadku gdy kontrolowana spółka cywilna, jawna, partnerska, komandytowa albo komandytowo-akcyjna została rozwiązana w trakcie kontroli podatkowej, kontrola podatkowa jest prowadzona wobec byłych wspólników tej spółki przez organ podatkowy, który wszczął kontrolę podatkową wobec spółki. Art. 284ab. § 1. W przypadku kontroli podatkowej w zakresie funkcjonowania podatkowej grupy kapitałowej, kontrolowanym jest każda spółka wchodząca w skład tej grupy w okresie objętym kontrolą podatkową.
+§ 6. Postanowienie o zawieszeniu kontroli oraz postanowienie o umorzeniu kontroli pozostawia się w aktach sprawy.
+
+**Art. 284aa.** W przypadku gdy kontrolowana spółka cywilna, jawna, partnerska, komandytowa albo komandytowo-akcyjna została rozwiązana w trakcie kontroli podatkowej, kontrola podatkowa jest prowadzona wobec byłych wspólników tej spółki przez organ podatkowy, który wszczął kontrolę podatkową wobec spółki.
+
+**Art. 284ab.**
+
+§ 1. W przypadku kontroli podatkowej w zakresie funkcjonowania podatkowej grupy kapitałowej, kontrolowanym jest każda spółka wchodząca w skład tej grupy w okresie objętym kontrolą podatkową.
 
 § 2. W przypadku gdy podatkowa grupa kapitałowa utraciła status podatnika, prowadzi się jedną kontrolę podatkową wobec spółek wchodzących w skład tej grupy. Upoważnienie do kontroli podatkowej doręcza się spółkom wchodzącym w skład podatkowej grupy kapitałowej przed utratą statusu podatnika.
 
@@ -6870,7 +7551,9 @@ Art. 307–323. (pominięte)
 
 § 5. Zaświadczenie powinno być wydane bez zbędnej zwłoki, niepóźniej jednak niż w terminie 7 dni od dnia złożenia wniosku o wydanie zaświadczenia.
 
-§ 6. (uchylony) Art. 306aa. Organ podatkowy przekazuje informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, przy pierwszej czynności skierowanej do wnioskodawcy, chyba że wnioskodawca posiada te informacje, a ich zakres lub treść nie uległy zmianie.
+§ 6. (uchylony)
+
+**Art. 306aa.** Organ podatkowy przekazuje informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, przy pierwszej czynności skierowanej do wnioskodawcy, chyba że wnioskodawca posiada te informacje, a ich zakres lub treść nie uległy zmianie.
 
 **Art. 306b.**
 
@@ -6954,7 +7637,11 @@ Art. 307–323. (pominięte)
 
 § 4. Organy podatkowe wydają zaświadczenie o wysokości zobowiązania podatkowego, zaległości podatkowych, kosztów upomnienia, kosztów egzekucyjnych zabezpieczonych hipoteką przymusową lub zastawem skarbowym oraz objętego wnioskiem o wpis hipoteki, jeżeli hipoteka nie jest wpisana, na żądanie właściciela przedmiotu hipoteki lub zastawu.
 
-§ 5. Organ podatkowy, który ustanowił hipotekę przymusową lub zastaw skarbowy, na wniosek właściciela przedmiotu hipoteki przymusowej lub zastawu skarbowego, który zapłacił należności zabezpieczone tą hipoteką przymusową lub zastawem skarbowym wydaje temu właścicielowi zaświadczenie o wysokości zapłaconej należności zabezpieczonej hipoteką przymusową lub zastawem skarbowym. Art. 306ha. § 1. Organ podatkowy na wniosek banku lub spółdzielczej kasy oszczędnościowo-kredytowej zamierzających udzielić podatnikowi kredytu, za wyrażoną na piśmie zgodą podatnika, wydaje zaświadczenia dotyczące jego wskazanych spraw podatkowych, w tym deklaracji wykazujących zwrot podatku, o kwotach i terminach dokonywanych zwrotów oraz o zajęciach egzekucyjnych wierzytelności z tytułu zwrotu podatku.
+§ 5. Organ podatkowy, który ustanowił hipotekę przymusową lub zastaw skarbowy, na wniosek właściciela przedmiotu hipoteki przymusowej lub zastawu skarbowego, który zapłacił należności zabezpieczone tą hipoteką przymusową lub zastawem skarbowym wydaje temu właścicielowi zaświadczenie o wysokości zapłaconej należności zabezpieczonej hipoteką przymusową lub zastawem skarbowym.
+
+**Art. 306ha.**
+
+§ 1. Organ podatkowy na wniosek banku lub spółdzielczej kasy oszczędnościowo-kredytowej zamierzających udzielić podatnikowi kredytu, za wyrażoną na piśmie zgodą podatnika, wydaje zaświadczenia dotyczące jego wskazanych spraw podatkowych, w tym deklaracji wykazujących zwrot podatku, o kwotach i terminach dokonywanych zwrotów oraz o zajęciach egzekucyjnych wierzytelności z tytułu zwrotu podatku.
 
 § 2. Na wniosek banku lub spółdzielczej kasy oszczędnościowo-kredytowej, za wyrażoną na piśmie zgodą podatnika, do zaświadczenia dołącza się uwierzytelnioną kopię deklaracji wykazującej zwrot podatku.
 
@@ -6964,7 +7651,9 @@ Art. 307–323. (pominięte)
 
 § 1a. W razie śmierci podatnika zaświadczenie, o którym mowa w § 1, wydaje się na wniosek wstępnego, zstępnego lub małżonka, którzy uprawdopodobnią, że mogą być spadkobiercami.
 
-§ 2. W zaświadczeniach o wysokości dochodu stwierdza się, czy wnioskodawca jest albo nie jest podatnikiem podatku dochodowego, we wszystkich formach opodatkowania. W przypadku opodatkowania na zasadach określonych w art. 27, art. 30b, art. 30c, art. 30e i art. 30f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych albo podatkiem dochodowym od osób prawnych podaje się także informację o wysokości przychodu, dochodu, odliczonych składek na ubezpieczenia społeczne lub ubezpieczenie zdrowotne lub podatku należnego. Art. 306ia. Organ podatkowy, na wniosek kontrahenta podatnika prowadzącego działalność gospodarczą, wydaje zaświadczenie w zakresie informacji, o których mowa w art. 293 § 3. W przypadku gdy wniosek dotyczy deklaracji lub innego dokumentu, których termin złożenia nie upłynął, a podatnik nie złożył takiej deklaracji lub innego dokumentu, organ podatkowy odmawia wydania zaświadczenia.
+§ 2. W zaświadczeniach o wysokości dochodu stwierdza się, czy wnioskodawca jest albo nie jest podatnikiem podatku dochodowego, we wszystkich formach opodatkowania. W przypadku opodatkowania na zasadach określonych w art. 27, art. 30b, art. 30c, art. 30e i art. 30f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych albo podatkiem dochodowym od osób prawnych podaje się także informację o wysokości przychodu, dochodu, odliczonych składek na ubezpieczenia społeczne lub ubezpieczenie zdrowotne lub podatku należnego.
+
+**Art. 306ia.** Organ podatkowy, na wniosek kontrahenta podatnika prowadzącego działalność gospodarczą, wydaje zaświadczenie w zakresie informacji, o których mowa w art. 293 § 3. W przypadku gdy wniosek dotyczy deklaracji lub innego dokumentu, których termin złożenia nie upłynął, a podatnik nie złożył takiej deklaracji lub innego dokumentu, organ podatkowy odmawia wydania zaświadczenia.
 
 **Art. 306j.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
@@ -6975,7 +7664,9 @@ Art. 307–323. (pominięte)
 - **5)** wzory zaświadczeń, uwzględniając w szczególności zakres danych wykazywanych w zaświadczeniu oraz dane identyfikujące wnioskodawcę i organ wydający zaświadczenie;
 - **6)** wzór oświadczenia, o którym mowa w art. 306h § 2, uwzględniając dane identyfikujące małżonków.
 
-**Art. 306k.** W sprawach nieuregulowanych w art. 306a–306ia oraz art. 306l stosuje się odpowiednio przepisy rozdziałów 1–6, 8 i 9, z wyłączeniem art. 171a, rozdziałów 10–12, 14, 16 oraz 23 działu IV. Art. 306ka. W przypadku gdy zaświadczenia są generowane automatycznie w eUrzędzie Skarbowym, przepisy niniejszego działu stosuje się odpowiednio.
+**Art. 306k.** W sprawach nieuregulowanych w art. 306a–306ia oraz art. 306l stosuje się odpowiednio przepisy rozdziałów 1–6, 8 i 9, z wyłączeniem art. 171a, rozdziałów 10–12, 14, 16 oraz 23 działu IV.
+
+**Art. 306ka.** W przypadku gdy zaświadczenia są generowane automatycznie w eUrzędzie Skarbowym, przepisy niniejszego działu stosuje się odpowiednio.
 
 **Art. 306l.** Organ podatkowy na wniosek podatnika wydaje zaświadczenie o jego miejscu zamieszkania lub siedzibie dla celów podatkowych na terytorium Rzeczypospolitej Polskiej (certyfikat rezydencji).
 
@@ -6986,6 +7677,8 @@ Art. 307–323. (pominięte)
 ### DZIAŁ IX Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
+
+**Art. 307–323.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe
 

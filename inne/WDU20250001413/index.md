@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie ubezpieczeń społecznych
+# Ustawa z dnia 12 września 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych
 
 *USTAWA z dnia 12 września 2025 r.*
 

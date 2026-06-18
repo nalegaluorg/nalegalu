@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wykonywaniu mandatu posła i senatora
+# Ustawa z dnia 22 kwietnia 1999 r. o zmianie ustawy o wykonywaniu mandatu posła i senatora.
 
 *USTAWA z dnia 22 kwietnia 1999 r.*
 

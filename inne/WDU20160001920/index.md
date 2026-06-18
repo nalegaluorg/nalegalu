@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o umowie koncesji na roboty budowlane lub usługi
+# Ustawa z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi
 
 *USTAWA z dnia 21 października 2016 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2016-11-29 |
 | Ostatnia zmiana | 2026-02-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001920) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1920/text.pdf) |
-
-Art. 57–67. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -860,6 +858,8 @@ Art. 57–67. (pominięte)
 2. Do postępowań toczących się wskutek wniesienia skargi stosuje się przepisy działu IX rozdziału 3 Prawa zamówień publicznych.
 
 #### Rozdział 11 Zmiany w przepisach obowiązujących
+
+**Art. 57–67.** (pominięte)
 
 #### Rozdział 12 Przepisy przejściowe i końcowe
 

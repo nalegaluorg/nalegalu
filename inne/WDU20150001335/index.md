@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz ustawy o strażach gminnych
+# Ustawa z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o strażach gminnych
 
 *USTAWA z dnia 24 lipca 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o narodowym spisie powszechnym ludności i mieszkań w 2001 r.
+# Ustawa z dnia 9 września 2000 r. o zmianie ustawy o narodowym spisie powszechnym ludności i mieszkań w 2001 r.
 
 *USTAWA z dnia 9 września 2000 r.*
 

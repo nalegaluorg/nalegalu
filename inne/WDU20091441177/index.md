@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# z dnia 16 lipca 2009 r. r. Nr 144, poz.
+# Ustawa z dnia 16 lipca 2009 r. o zmianie ustawy o wykonywaniu mandatu posła i senatora
 
 *USTAWA Opracowano stawie: Dz.*
 

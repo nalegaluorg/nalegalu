@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowej Szkole Administracji Publicznej oraz niektórych innych ustaw
+# Ustawa z dnia 14 września 2016 r. o zmianie ustawy o Krajowej Szkole Administracji Publicznej oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 września 2016 r.*
 

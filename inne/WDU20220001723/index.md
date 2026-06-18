@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu wzmocnienia bezpieczeństwa gazowego państwa w związku z sytuacją na rynku gazu
+# Ustawa z dnia 5 sierpnia 2022 r. o zmianie niektórych ustaw w celu wzmocnienia bezpieczeństwa gazowego państwa w związku z sytuacją na rynku gazu
 
 *USTAWA z dnia 5 sierpnia 2022 r.*
 

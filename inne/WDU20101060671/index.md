@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym
+# Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy - Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym
 
 *USTAWA z dnia 29 kwietnia 2010 r.*
 

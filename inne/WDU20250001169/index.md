@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustalaniu wysokości emerytur z Funduszu Ubezpieczeń Społecznych ustalonych w czerwcu w latach 2009–2019 oraz rent rodzinnych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009–2019
+# Ustawa z dnia 5 sierpnia 2025 r. o ustalaniu wysokości emerytur z Funduszu Ubezpieczeń Społecznych ustalonych w czerwcu w latach 2009-2019 oraz rent rodzinnych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009-2019
 
 *USTAWA z dnia 5 sierpnia 2025 r.*
 

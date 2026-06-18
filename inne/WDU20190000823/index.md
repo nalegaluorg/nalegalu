@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
+# Ustawa z dnia 4 kwietnia 2019 r. o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
 
 *USTAWA z dnia 4 kwietnia 2019 r.*
 
@@ -248,7 +248,9 @@ source: pdf
 
 - **2)** przychody Funduszu.
 
-2. Plan finansowy Funduszu stanowi podstawę dokonywania wypłat ze środków Funduszu, a także podstawę do zaciągnięcia kredytów i pożyczek oraz przeprowadzenia emisji obligacji, o których mowa w art. 2 pkt 5. Art. 17–19. (pominięte)
+2. Plan finansowy Funduszu stanowi podstawę dokonywania wypłat ze środków Funduszu, a także podstawę do zaciągnięcia kredytów i pożyczek oraz przeprowadzenia emisji obligacji, o których mowa w art. 2 pkt 5.
+
+**Art. 17–19.** (pominięte)
 
 **Art. 20.**
 

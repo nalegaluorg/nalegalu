@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej
+# Ustawa z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej
 
 *USTAWA z dnia 15 maja 2024 r.*
 

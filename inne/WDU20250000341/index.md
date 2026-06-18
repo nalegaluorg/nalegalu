@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o księgach wieczystych i hipotece
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o księgach wieczystych i hipotece
 
 *USTAWA z dnia 6 lipca 1982 r.*
 
@@ -378,7 +378,9 @@ source: pdf
 
 2. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, uwzględniając potrzebę pokrycia kosztów administracyjnych oraz zróżnicowania opłat od wniosków o uzyskanie poszczególnych dokumentów w zależności od sposobu złożenia wniosku, sposobu doręczenia dokumentów oraz postaci wydawanego dokumentu, a także konieczność realizacji ustawowych zadań przez podmiot wnioskujący o wyszukanie ksiąg wieczystych.
 
-3. Nie pobiera się opłat od wniosków o wydanie odpisu księgi wieczystej, wyciągu z księgi wieczystej, zaświadczenia o zamknięciu księgi wieczystej oraz wniosku o wyszukanie ksiąg wieczystych złożonego przez podmioty, o których mowa w art. 36 ust. 8 pkt 1–6, 7a, 8–17, 19, 22, 24 i 28, lub organ administracji rządowej. Art. 37–57. (uchylone)
+3. Nie pobiera się opłat od wniosków o wydanie odpisu księgi wieczystej, wyciągu z księgi wieczystej, zaświadczenia o zamknięciu księgi wieczystej oraz wniosku o wyszukanie ksiąg wieczystych złożonego przez podmioty, o których mowa w art. 36 ust. 8 pkt 1–6, 7a, 8–17, 19, 22, 24 i 28, lub organ administracji rządowej.
+
+**Art. 37–57.** (uchylone)
 
 **Art. 58.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 

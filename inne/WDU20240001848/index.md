@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Solidarnościowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Solidarnościowym
 
 | Pole | Wartość |
 |---|---|
@@ -124,7 +124,9 @@ o Funduszu Solidarnościowym
 
 2. Wysokość odpisu ustala się corocznie w planie finansowym Funduszu.
 
-3. Środki Funduszu są przekazywane na rachunek Funduszu Dostępności w terminie 21 dni od dnia ogłoszenia ustawy budżetowej na dany rok budżetowy. Art. 6aa. Środki Funduszu przeznacza się także na wsparcie udzielane w ramach programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, oraz na koszty ich obsługi, na zasadach określonych w tej ustawie.
+3. Środki Funduszu są przekazywane na rachunek Funduszu Dostępności w terminie 21 dni od dnia ogłoszenia ustawy budżetowej na dany rok budżetowy.
+
+**Art. 6aa.** Środki Funduszu przeznacza się także na wsparcie udzielane w ramach programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, oraz na koszty ich obsługi, na zasadach określonych w tej ustawie.
 
 **Art. 6b.**
 
@@ -325,7 +327,9 @@ o Funduszu Solidarnościowym
 
 **Art. 18a.** (uchylony)
 
-**Art. 19.** Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Funduszu, mając na względzie zapewnienie racjonalności gospodarowania środkami Funduszu. Art. 20–31. (pominięte)
+**Art. 19.** Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Funduszu, mając na względzie zapewnienie racjonalności gospodarowania środkami Funduszu.
+
+**Art. 20–31.** (pominięte)
 
 **Art. 31a.**
 

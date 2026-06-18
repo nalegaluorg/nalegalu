@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o likwidacji Funduszu Rozwoju Inwestycji Komunalnych
+# Ustawa z dnia 30 sierpnia 2013 r. o likwidacji Funduszu Rozwoju Inwestycji Komunalnych
 
 *USTAWA z dnia 30 sierpnia 2013 r.*
 

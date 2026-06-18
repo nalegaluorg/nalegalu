@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji oraz ustawy – Prawo ochrony środowiska
+# Ustawa z dnia 12 grudnia 2012 r. o zmianie ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji oraz ustawy - Prawo ochrony środowiska
 
 *USTAWA z dnia 12 grudnia 2012 r.*
 

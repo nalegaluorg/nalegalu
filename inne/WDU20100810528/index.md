@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o produktach pochodzenia zwierzęcego
+# Ustawa z dnia 18 marca 2010 r. o zmianie ustawy o produktach pochodzenia zwierzęcego
 
 *USTAWA z dnia 18 marca 2010 r.*
 

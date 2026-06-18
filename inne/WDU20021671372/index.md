@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi
+# Ustawa z dnia 30 sierpnia 2002 r. o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi.
 
 *USTAWA z dnia 30 sierpnia 2002 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o listach zastawnych i bankach hipotecznych
+# Ustawa z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych.
 
 *USTAWA z dnia 29 sierpnia 1997 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1997-11-21 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971400940) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/940/text.pdf) |
-
-Art. 38–41. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -660,6 +658,8 @@ Art. 38–41. (pominięte)
 3. Jeżeli sprawca nieumyślnie dopuszcza się czynu określonego w ust. 1 lub 2, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
 
 ### DZIAŁ VII Zmiany w przepisach obowiązujących i przepisy końcowe
+
+**Art. 38–41.** (pominięte)
 
 **Art. 42.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r.
 
