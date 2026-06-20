@@ -205,6 +205,7 @@ seria ................. nr .......................... wydanym przez ............
 18. Prawdziwość danych zawartych w części I kwestionariusza potwierdzam podpisem.
 W trakcie trwania postępowania kwalifikacyjnego zobowiązuję się niezwłocznie zawiadomić komórkę kadrową jednostki organizacyjnej Krajowej Administracji Skarbowej, do której jest prowadzone postępowanie, o zmianie danych zawartych w kwestionariuszu.
 ............................................................................. ....................................................................................
+1. Oświadczenie kandydata: Ja, .................................................................................................................................................................................., urodzony(-na) .................................................................................................................................................................., oświadczam, że:
 a) korzystam z pełni praw publicznych □ TAK □ NIE
 b) byłem(-łam) skazany(-na) za przestępstwo popełnione umyślnie lub umyślne przestępstwo skarbowe □ TAK □ NIE
 c) byłem(-łam) karany(-na) mandatem za wykroczenie wynikające z przekroczenia norm przywozowych w ruchu podróżnych □ TAK □ NIE
@@ -233,7 +234,7 @@ Wynik testu: ............................. Izba Administracji Skarbowej w ......
 
 ## CZĘŚĆ I KWESTIONARIUSZ OSOBOWY
 
-## CZĘŚĆ II 1. Oświadczenie kandydata: Ja, .................................................................................................................................................................................., urodzony(-na) .................................................................................................................................................................., oświadczam, że:
+## CZĘŚĆ II
 
 ## Załącznik nr 2 — Zakres testu ZAKRES sprawności TESTU fizycznej SPRAWNOśCI dla kandydatów FIZyCZNEJ DLA do służby KANDyDATóW w Służbie DO Celno-Skarbowej SłUżBy W SłUżBIE CELNO-SKARBOWEJ oraz sposób oceny ORAZ jego SPOSóB wyników OCENy JEgO WyNIKóW Rodzaje ćwiczeń dla kandydatów do służby w Służbie Celno-Skarbowej, normy i wymogi ich spełnienia
 

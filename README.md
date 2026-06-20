@@ -97,9 +97,9 @@ Każdy akt przed publikacją przechodzi automatyczną kontrolę jakości. Dokume
 
 ## Testy
 
-**PASSED** — 250 tests — 250 passed, 0 failed, 0 errors, 33 skipped
+**PASSED** — 262 tests — 262 passed, 0 failed, 0 errors, 33 skipped
 
-Ostatni przebieg: 2026-06-18 10:09 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
+Ostatni przebieg: 2026-06-20 07:26 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
 
 <!-- STATS:START -->
 ## Statystyki

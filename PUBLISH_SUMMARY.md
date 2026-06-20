@@ -1,14 +1,14 @@
 # Publish Summary
 
-Generated: 2026-06-20 04:41 UTC
+Generated: 2026-06-20 07:39 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
 | Published public acts | 19261 |
-| Updated/new | 5202 |
-| Unchanged | 8181 |
+| Updated/new | 4 |
+| Unchanged | 13379 |
 | Skipped incomplete orzeczenia | 0 |
 | Skipped regressions | 5141 |
 | Blocked by quality gate | 698 |
@@ -147,22 +147,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | Issue | Count |
 |-------|------:|
 | Original PDF candidate for unified act | 4943 |
-
-## Newly rejected (3)
-
-| Address | Reason |
-|---------|--------|
-| WDU20200001543 | No extracted text at /Users/michal/repos/nalegaluorg/extract |
-| WDU20230000666 | No extracted text at /Users/michal/repos/nalegaluorg/extract |
-| WDU20240000656 | No extracted text at /Users/michal/repos/nalegaluorg/extract |
-
-## Fixed — no longer rejected (3)
-
-| Address |
-|---------|
-| WDU19950500261 |
-| WDU19971100715 |
-| WDU20240001598 |
 
 ## Blocked acts (698)
 

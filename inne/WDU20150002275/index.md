@@ -186,6 +186,7 @@ Dodatkowo dla każdej przesyłki zwierząt przemieszczanej na terytorium Unii Eu
 W przypadku wywozu przesyłek dane dotyczące przesyłki są również wprowadzane do systemu TRACES. W systemie jest odnotowywana również kontrola dobrostanu na granicy.
 Przy przywozie dla każdej przesyłki wystawiany jest dokument CVED zgodny z rozporządzeniem Komisji (WE) nr 282/2004 z dnia 18 lutego 2004 r. wprowadzającym dokument zgłoszenia i kontroli weterynaryjnych dotyczących zwierząt wwożonych do Wspólnoty pochodzących z krajów trzecich (Dz. Urz. UE L 49 z 19.02.2004, str. 11; Dz. U.
 UE Polskie wydanie specjalne, rozdz. 3, t. 42, str. 462), którego oryginał towarzyszy przesyłce do miejsca przeznaczenia. Dodatkowo wersja elektroniczna dokumentu CVED jest wprowadzana do systemu TRACES.
+1. Identyfikacja programu Państwo członkowskie: Rzeczpospolita Polska Choroba: salmonellozy odzwierzęce Populacja zwierząt objęta programem: stada brojlerów gatunku kura (Gallus gallus) Rok wdrożenia: 2014–2016 Nr referencyjny niniejszego dokumentu: Dane kontaktowe: Nazwa: Główny Inspektorat Weterynarii
 2. Dane historyczne dotyczące rozwoju epidemiologicznego choroby salmonellozy odzwierzęcej określonej w części A ust. 1 W Rzeczypospolitej Polskiej stada hodowlane i rzeźne drobiu oraz stada towarowe monitorowano w kierunku gatunkowo specyficznych i niespecyficznych Salmonella od lipca 1999 r., zgodnie z instrukcjami Głównego Lekarza Weterynarii opracowanymi na podstawie dyrektywy Rady 92/117/EWG z dnia 17 grudnia 1992 r. dotyczącej środków ochrony przed określonymi chorobami odzwierzęcymi i odzwierzęcymi czynnikami chorobotwórczymi u zwierząt i w produktach pochodzenia zwierzęcego, w celu zapobieżenia zakażeniom i zatruciom przenoszonym przez żywność (Dz. Urz. WE L 62 z 15.03.1993, str. 38, z późn.
 zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 14, str. 40).
 Badania kontrolne prowadzono na koszt właścicieli stad. Stada zakażone lub podejrzane o zakażenie podlegały ubojowi zgodnie z zasadami określonymi w dyrektywie Rady 71/118/EWG z dnia 15 lutego 1971 r. w sprawie problemów zdrowotnych wpływających na handel świeżym mięsem drobiowym (Dz. Urz. UE L 55 z 08.03.1971, str. 23, z późn. zm.;
@@ -322,5 +323,5 @@ następującym środkiem transportu: ……………………………………�
 Sporządzono w ………………………………. w dniu ……………………………….
 ………………………………………………………..
 
-## Część B 1. Identyfikacja programu Państwo członkowskie: Rzeczpospolita Polska Choroba: salmonellozy odzwierzęce Populacja zwierząt objęta programem: stada brojlerów gatunku kura (Gallus gallus) Rok wdrożenia: 2014–2016 Nr referencyjny niniejszego dokumentu: Dane kontaktowe: Nazwa: Główny Inspektorat Weterynarii
+## Część B
 

@@ -40,9 +40,11 @@ Czy był(a) Pan(i) karany(na) za popełnienie przestępstwa lub wykroczenia, prz
 − przez jaki sąd lub inny organ?
 − za jaki czyn (czyny)?
 − rodzaj i wymiar kary okres nazwa partii politycznej, organizacji społecznej lub pełnione od do związkowej, funkcje stowarzyszenia bądź fundacji Przynależność do partii politycznych, organizacji społecznych i związkowych, 33 w tym także do korporacji gospodarczych i zawodowych oraz stowarzyszeń i fundacji (krajowych bądź zagranicznych), w przeszłości i obecnie
+34. Dane osobowe członków najbliższej rodziny kandydata, to jest:
 a) dzieci, rodziców i rodzeństwa,
 b) małżonki (małżonka) bądź partnerki (partnera) i jej (jego) dzieci, rodziców i rodzeństwa, w tym dzieci współmałżonka (konkubenta(tki)), przysposobione lub wzięte na wychowanie w ramach rodziny zastępczej
 c) innych osób pozostających we wspólnym gospodarstwie domowym Imię, nazwisko, imię ojca i matki, Zawód i miejsce Stopień nazwisko Obywatelstwo pracy (nauki) – Adres pokrewieństwa panieńskie matki, (obywatelstwa) nazwa instytucji zamieszkania data i miejsce lub firmy i jej adres urodzenia, numer korespondencyjny PESEL
+35. Czy po ukończeniu 18 roku życia przebywał(a) Pan(i) za granicą?
 Wypadki szczególne: Charakter (służbowy wypadki losowe, Kraj (kraje) pobytu Kiedy nastąpił wyjazd czy prywatny) i cel interwencje policji lub i na jaki czas pobytu innych służb państwa pobytu, utrata dokumentów
 36. Pobyty za granicą po ukończeniu 18 lat osób wymienionych w pkt 34 Wypadki szczególne: Kiedy nastąpił Charakter wypadki losowe, Osoba z pkt 34 Kraj (kraje) wyjazd i na jaki (służbowy czy interwencje pobytu czas prywatny) i cel policji lub innych pobytu służb państwa pobytu, utrata dokumentów
 37. Krewni za granicą osób wymienionych w pkt 34 Imię i nazwisko Kraj pobytu, Charakter Osoba z pkt 34 krewnego, rok Stopień adres i częstotliwość urodzenia pokrewieństwa korespondencyjny kontaktów i numer telefonu
@@ -98,9 +100,9 @@ Decyzja Szefa Służby Wywiadu Wojskowego:
 
 ## CZĘŚĆ I Lp. PYTANIE (ZAGADNIENIE) ODPOWIEDŹ Lp. Imiona PYTANIE i nazwisko (ZAGADNIENIE) (imię używane ODPOWIEDŹ 1 podkreślić) 1 Imiona i nazwisko (imię używane 2 Imię podkreślić) ojca, imię i nazwisko panieńskie matki Imię ojca, imię i nazwisko panieńskie 2 3 Data matki i miejsce urodzenia 4 3 Numer Data i miejsce PESEL urodzenia 5 4 Numer Numer identyfikacji PESEL podatkowej NIP 5 Narodowość Numer identyfikacji i obywatelstwo, podatkowej poprzednie NIP 6 obywatelstwa (data i powód zmiany) 6 Narodowość i obywatelstwo, poprzednie Poprzednio obywatelstwa używane (data i powód nazwiska zmiany) i imiona 7 (zmienione Poprzednio urzędowo używane nazwiska lub w inny i imiona sposób, 7 data (zmienione i powód urzędowo zmiany) lub w inny sposób, Używane data i powód pseudonimy zmiany) (w przeszłości 8 i Używane obecnie), pseudonimy kiedy i przez (w kogo przeszłości zostały 8 nadane i obecnie), kiedy i przez kogo zostały 9 Stan nadane cywilny 10 9 Wykształcenie Stan cywilny 10 11 Wykształcenie Znajomość języków obcych 11 Znajomość Zawód języków obcych 12 Zawód – wyuczony 12 – – wyuczony wykonywany – wykonywany KLAUZULA TAJNOŚCI 13 Czy korzysta Pan(i) z poczty elektronicznej?
 
-## CZĘŚĆ II 34. Dane osobowe członków najbliższej rodziny kandydata, to jest:
+## CZĘŚĆ II
 
-## CZĘŚĆ III 35. Czy po ukończeniu 18 roku życia przebywał(a) Pan(i) za granicą?
+## CZĘŚĆ III
 
 ## CZĘŚĆ IV Lp. PYTANIE (ZAGADNIENIE) ODPOWIEDŹ Czy posiada Pan(i) poświadczenie 40 bezpieczeństwa? Jeżeli tak, to do jakiej klauzuli tajności, jego numer oraz kiedy i przez kogo zostało wydane?
 

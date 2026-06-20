@@ -25,6 +25,7 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000366) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/366/text.pdf) |
 
+Państwo wydające: ……..……………………………………………………………………….
 Państwo wykonujące: ...……………………………...…………………………………………
 Terminy wykonania nakazu określa dyrektywa 2014/41/EU. Jeżeli jednak konieczny jest krótszy lub inny określony termin, proszę go podać i wyjaśnić powody: …………………….
 …….……………………………………………………………………………….…………… …………………………………………………………………………………….….………… …………………………………………………………………………………….….………… ……………………………………………………………………………………….….……… …………………………………………………………………………..………………………
@@ -124,7 +125,7 @@ Zajmowane stanowisko (tytuł/stopień): …………………………………�
 Data: ………………………………………………………………………………………..…...
 Pieczęć urzędowa (jeżeli dostępna):
 
-## CZĘŚĆ A. Państwo wydające: ……..……………………………………………………………………….
+## CZĘŚĆ A.
 
 ## CZĘŚĆ B. Pilny charakter nakazu Jeżeli wykonanie nakazu ma pilny charakter, proszę zaznaczyć, z jakiego powodu: □ ukrywanie lub niszczenie materiału dowodowego □ bliski termin rozprawy □ inne powody Proszę określić poniżej.
 

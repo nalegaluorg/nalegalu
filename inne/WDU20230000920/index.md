@@ -48,6 +48,7 @@ b) został zlikwidowany zakład karny lub areszt śledczy, z którego osoba, kt�
 Minister Sprawiedliwości: Z. Ziobro Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 15 lutego 2022 r. w sprawie wniosku o udzielenie informacji lub udostępnienie danych osobowych o osobie obecnie lub uprzednio pozbawionej wolności (Dz. U.
 poz. 460), które utraciło moc z dniem 29 marca 2023 r. zgodnie z art. 61 ust. 1 pkt 2 ustawy z dnia 22 lipca 2022 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1933).
 Załącznik do rozporządzenia Ministra Sprawiedliwości Załącznik do rozporządzenia z dnia 26 kwietnia Ministra 2023 Sprawiedliwości r. (Dz. U. poz. 920) z dnia 26 kwietnia 2023 r. (poz. …..) Wzór WZÓR WNIOSEK o udzielenie informacji lub udostępnienie danych osobowych o osobie obecnie lub uprzednio pozbawionej wolności w zakładzie karnym lub areszcie śledczym UWAGA! PRZED WYPEŁNIENIEM NALEŻY DOKŁADNIE ZAPOZNAĆ SIĘ Z POUCZENIAMI
+1. DANE WNIOSKODAWCY I JEGO ADRES
 2. ZNAK SPRAWY WNIOSKODAWCY
 3. ORGAN SŁUŻBY WIĘZIENNEJ, DO KTÓREGO JEST KIEROWANY WNIOSEK  Dyrektor Zakładu Karnego / Aresztu Śledczego  Dyrektor Generalny Służby Więziennej ul. Rakowiecka 37a 02-521 W a r s z a w a
 4. FORMA UDZIELENIA ODPOWIEDZI  Postać papierowa na adres wskazany w pkt 1 wniosku.
@@ -107,7 +108,7 @@ a) b) wnioskodawca został zlikwidowany nie posiada zakład informacji, karny lu
 10. Wnioski uniemożliwiające identyfikację wnioskodawcy lub jego adresu do korespondencji pozostawia się bez rozpoznania.
 Strona 2 z 2 Strona 2 z 2
 
-## CZĘŚĆ I 1. DANE WNIOSKODAWCY I JEGO ADRES
+## CZĘŚĆ I
 
 ## CZĘŚĆ II ADNOTACJE URZĘDOWE (wypełnia CZĘŚĆ organ Służby II Więziennej rozpatrujący wniosek) ADNOTACJE URZĘDOWE (wypełnia ROZPATRZENIE organ Służby WNIOSKU Więziennej rozpatrujący wniosek)  ROZPATRZENIE WNIOSKU Osoba, której dotyczy wniosek, nie figuruje w Centralnej Bazie Danych Osób Pozbawionych Wolności (jeżeli wniosek podlega  rozpatrzeniu na podstawie informacji zawartych w Centralnej Bazie Danych Osób Pozbawionych Wolności).
 

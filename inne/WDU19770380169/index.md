@@ -25,13 +25,16 @@ source: pdf
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19770380169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1977/169/text.pdf) |
 
+1. Wszystkie narody mają prawo do samostanowienia. Z, mocy tego prawa swobodnie określają one swój status polityczny i swobodnie zapewniają swój rozwój gospodarczy, społeczny i kulturalny.
 2. Wszystkie narody mogą swobodnie rozporządzać dla swoich celów swymi bogactwami i zasobami naturalnymi bez uszczerbku dla jakichkolwiek zobowiązań wynikających z międzynarodowej współpracy gospodarczej, opartej na zasadzie wzajemnych korzyści, oraz z prawa międzynarodowego. W żadnym przypadku nie można pozbawiać narodu jego własnych środków egzystencji.
 3. Państwa Strony niniejszego Paktu, włącznie z Państwami odpowiedzialnymi za administrację terytoriów niesamodzielnych 1 terytoriów powierniczych, będą popierały realizację prawa do samostanowienia 1 będą szanowały to prawo zgodnie z postanowieniami Karty Narodów Zjednoczonych.
+1. Każde z Państw Stron niniejszego Paktu zobowiązuje się podjąć odpowiednie kroki indywidualnie i w ramach pomocy i współpracy międzynarodowej, w szczególności w dziedzinie gospodarki i techniki, wykorzystując maksymalnie dostępne mu środki, w celu stopniowego osiągnięcia pełnej realizacji praw uznanych w niniejszym Pakcie wszelkimi odpowiednimi sposobami, włączając w to w szczególności podjęcie kroków ustawodawczych.
 2. Państwa Strony niniejszego Paktu zobowiązują się zagwarantować wykonywanie praw wymienionych w niniejszym Pakcie bez żadnej dyskryminacji ze względu na rasę, kolor skóry, płeć, język, religię, poglądy polityczne lub inne, pochodzenie narodowe lub społeczne, sytuację majątkową, urodzenie lub jakiekolwiek inne okoliczności.
 3. Kraje rozwijające się mogą określić, uwzględniając w należyty sposób prawa człowieka oraz własną gospodarkę narodową, w jakim stopniu zagwarantują prawa gospodarcze, uznane w niniejszym Pakcie, osobom nie mającym ich obywatelPaństwa Strony niniejszego Paktu zobowiązują się zapewnić mężczyznom i kobietom równe prawo do korzystania z wszystkich praw gospodarczych, społecznych i kulturalnych wymienionych w niniejszym Pakcie.
 Państwa Strony niniejszego Paktu uznają, że korzystanie z tych praw, zapewnione przez Państwo zgodnie z niniejszym Paktem, może być poddane przez Państwo tylko takim ograniczeniom, jakie przewiduje ustawa, i tylko w stopniu, w jakim jest to zgodne z istotą tych praw, oraz wyłącznie w celu popierania powszechnego dobrobytu w społeczeństwie demokratycznym.
 1. Żadne z postanowień niniejszego Paktu nie może być interpretowane jako przyznanie jakiemukolwiek Państwu, grupie lub osobie jakiegokolwiek prawa do podjęcia czynności lub dokonania aktu mającego na celu zniweczenie praw lub wolności uznanych w niniejszym Pakcie albo ich ograniczenie w szerszym stopniu, niż przewiduje to niniejszy Pakt.
 2. Żadne z podstawowych praw człowieka uznanych lub istniejących w jakimkolwiek kraju na podstawie ustaw, konwencji, zarządzeń lub zwyczaju nie może być ograniczone ani zawieszone pod pretekstem, że niniejszy Pakt nie uznaje takich praw lub że uznaje je w węższym zakresie.
+1. Państwa Strony niniejszego Paktu uznają prawo do pracy, które obejmuje prawo każdego człowieka do uzyskania możliwości utrzymania się poprzez pracę swobodnie wybraną lub przyjętą, oraz podejmą odpowiednie kroki w celu zapewnienia tego prawa.
 2. Kroki, jakie Państwa Strony niniejszego Paktu powinny podjąć w celu osiągnięcia pełnej realizacji tego prawa, będą obejmowały programy technicznego i zawodowego poradnictwa 1 szkolenia, politykę i metody zmierzające do stałego rozwoju gospodarczego, społecznego i kulturalnego oraz do pełnego, produktywnego zatrudnienia na warunkach zapewniających jednostce korzystanie z podstawowych wolności politycznych 1 gospodarczych.
 Państwa Strony niniejszego Paktu uznają prawo każdego do korzystania ze sprawiedliwych i korzystnych warunków pracy, obejmujących w szczególności:
 a) wynagrodzenie zapewniające wszystkim pracującym jako minimum:
@@ -90,6 +93,7 @@ Rada Gospodarcza i Społeczna może zwrócić uwagę innych organów Organizacji
 Państwa Strony niniejszego Paktu są zgodne, że międzynarodowa działalność w celu realizacji praw uznanych w niniejszym Pakcie obejmuje takie metody, jak: zawieranie konwencji, uchwalanie zaleceń, udzielanie pomocy technicznej oraz organizowanie wspólnie z zainteresowanymi rządami spotkań regionalnych i technicznych dla konsultacji i badań.
 Artykuł 24 Żadne z postanowień niniejszego Paktu nie może być interpretowane jako naruszające postanowienia Karty Narodów Zjednoczonych 1 statutów organizacji wyspecjalizowanych, określających obowiązki różnych organów Organizacji Narodów Zjednoczonych i organizacji wyspecjalizowanych odnośnie do spraw, których dotyczy niniejszy Pakt.
 Żadne z postanowień niniejszego Paktu nie może być interpretowane jako naruszające przyrodzone prawo wszystkich narodów do pełnego i swobodnego posiadania 1 użytkowania ich bogactw i zasobów naturalnych.
+1. Niniejszy Pakt jest otwarty do podpisu dla wszystkich Państw członków Organizacji Narodów Zjednoczonych lub członków jakiejkolwiek organizacji wyspecjalizowanej, a także dla wszystkich Państw stron Statutu Międzynarodowego Trybunału Sprawiedliwości oraz wszystkich innych Państw zaproszonych przez Zgromadzenie Ogólne Narodów Zjednoczonych do stania się Stroną niniejszego Paktu.
 2. Niniejszy Pakt podlega ratyfikacji. Dokumenty ratyfikacyjne będą złożone Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych.
 3. Niniejszy Pakt jest otwarty do przystąpienia dla wszystkich Państw, o których mowa w ustępie I niniejszego artykułu.
 4. Przystąpienia dokonuje się przez złożenie dokumentu przystąpienia Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych.
@@ -102,11 +106,11 @@ z a c ji NarodówZjednoczonychiprzyjęciuprzezdwietrzeciePaństwStronniniej 3 . 
 1. Niniejszy Pakt, którego teksty angielski, chiński, francuski, hiszpański i rosyjski są jednakowoautentyczne , będziezłożonywarchiwachOrganizac ji NarodówZjed noczonych .
 2 . SekretarzGeneralnyOrganizac ji NarodówZjednoczonychprzekażeuwierzytel nionekopieniniejszegoPaktuwszystkimPaństwom , októrychmowawartykule Na dowód czego niżej podpisani, należycie w tym celu upoważnieni przez swojeRządy , p o dp i s a li niniejszyPakt , otwartydopo dp isuwNowymJorkudnia 19 grudnia 1966 roku.
 
-## CZĘŚĆ I 1. Wszystkie narody mają prawo do samostanowienia. Z, mocy tego prawa swobodnie określają one swój status polityczny i swobodnie zapewniają swój rozwój gospodarczy, społeczny i kulturalny.
+## CZĘŚĆ I
 
-## CZĘŚĆ II 1. Każde z Państw Stron niniejszego Paktu zobowiązuje się podjąć odpowiednie kroki indywidualnie i w ramach pomocy i współpracy międzynarodowej, w szczególności w dziedzinie gospodarki i techniki, wykorzystując maksymalnie dostępne mu środki, w celu stopniowego osiągnięcia pełnej realizacji praw uznanych w niniejszym Pakcie wszelkimi odpowiednimi sposobami, włączając w to w szczególności podjęcie kroków ustawodawczych.
+## CZĘŚĆ II
 
-## CZĘŚĆ III 1. Państwa Strony niniejszego Paktu uznają prawo do pracy, które obejmuje prawo każdego człowieka do uzyskania możliwości utrzymania się poprzez pracę swobodnie wybraną lub przyjętą, oraz podejmą odpowiednie kroki w celu zapewnienia tego prawa.
+## CZĘŚĆ III
 
-## CZĘŚĆ V 1. Niniejszy Pakt jest otwarty do podpisu dla wszystkich Państw członków Organizacji Narodów Zjednoczonych lub członków jakiejkolwiek organizacji wyspecjalizowanej, a także dla wszystkich Państw stron Statutu Międzynarodowego Trybunału Sprawiedliwości oraz wszystkich innych Państw zaproszonych przez Zgromadzenie Ogólne Narodów Zjednoczonych do stania się Stroną niniejszego Paktu.
+## CZĘŚĆ V
 

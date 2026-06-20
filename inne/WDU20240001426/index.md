@@ -272,7 +272,9 @@ source: pdf
 245. 10) świadczenia usług transferu kryptoaktywów w imieniu klientów OBJAŚNIENIA
 1. Można podać wszystkie dodatkowe informacje odnoszące się do poszczególnych pozycji, których przekazanie uznaje się za kluczowe dla przedstawienia informacji o sytuacji finansowej, w szczególności niezbędne w ocenie podmiotu sprawozdającego komentarze i wyjaśnienia, które mają pomóc w prawidłowej analizie i ocenie danych przez Komisję.
 2. W Lp. 68, 69, 84, 127 i 133 podaje się opis danej pozycji, w szczególności główne rodzaje uwzględnionych przychodów lub kosztów.
+1. Wartości w Lp. 1–161 wykazuje się zgodnie z przepisami wydanymi na podstawie art. 81 ust. 2 pkt 2 ustawy o rachunkowości.
 2. W Lp. 66 wykazuje się dane, które na potrzeby przepisów wydanych na podstawie art. 81 ust. 2 pkt 2 ustawy o rachunkowości są wykazywane w poz. „Przychody z działalności maklerskiej z tytułu świadczenia usług w wykonywaniu zawartych umów o subemisje inwestycyjne i usługowe lub zawierania i wykonywania innych umów o podobnym charakterze, jeżeli ich przedmiotem są instrumenty finansowe.”.
+1. Wszystkie wielkości i wartości wykazuje się według stanu na ostatni dzień okresu objętego sprawozdaniem. Wartości denominowane w walutach obcych wykazuje się w walucie polskiej, po dokonaniu ich przeliczenia według średniego kursu ogłaszanego przez Narodowy Bank Polski obowiązującego na ostatni dzień tego okresu.
 2. Instrumenty finansowe klientów wykazuje się zgodnie z przepisami wydanymi na podstawie art. 81 ust. 2 pkt 2 ustawy o rachunkowości.
 3. W Dziale I wykazuje się liczbę prowadzonych rachunków klientów. Rachunkiem klienta jest każdy rachunek prowadzony dla klienta na podstawie umowy, na którym są zapisane należące do niego instrumenty finansowe.
 W Dziale I nie wykazuje się rejestrów i ewidencji wykazywanych w Dziale III ani rejestrów akcjonariuszy.
@@ -324,35 +326,43 @@ W Lp. 180 wykazuje się wartość aktywów zarządzanych, w tym aktywów objęty
 35. W Lp. 194 wykazuje się łączną wartość kryptoaktywów wykazywanych w Lp. 195 i 196.
 36. W Lp. 195 wykazuje się wartość kryptoaktywów należących do klientów objętych usługą zapewniania przechowywania kryptoaktywów i administrowania nimi w imieniu klientów, o której mowa a art. 3 ust. 1 pkt 17 rozporządzenia 2023/1114.
 37. W Lp. 196 wykazuje się wartość kryptoaktywów posiadanych na własny rachunek.
+1. W Lp. 197 wykazuje się wartość należności nieprzeterminowanych w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące.
 2. W Lp. 198 wykazuje się wartość należności przeterminowanych w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące, stanowiącą sumę wartości wykazanych w Lp. 199–203.
 3. W Lp. 199 wykazuje się należności przeterminowane do 30 dni w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące.
 4. W Lp. 200 wykazuje się należności przeterminowane powyżej 30 dni, nie więcej niż 90 dni, w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące.
 5. W Lp. 201 wykazuje się należności przeterminowane powyżej 90 dni, nie więcej niż 180 dni, w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące.
 6. W Lp. 202 wykazuje się należności przeterminowane powyżej 180 dni, nie więcej niż rok, w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące.
 7. W Lp. 203 wykazuje się należności przeterminowane domu maklerskiego powyżej roku w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące.
+1. W Lp. 204 wykazuje się wartość zobowiązań nieprzeterminowanych w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych.
 2. W Lp. 205 wykazuje się wartość zobowiązań przeterminowanych w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych, stanowiącą sumę wartości wykazanych w Lp. 206–210.
 3. W Lp. 206 wykazuje się zobowiązania przeterminowane do 30 dni w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych.
 4. W Lp. 207 wykazuje się zobowiązania przeterminowane powyżej 30 dni, nie więcej niż 90 dni, w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych.
 5. W Lp. 208 wykazuje się zobowiązania przeterminowane powyżej 90 dni, nie więcej niż 180 dni, w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych.
 6. W Lp. 209 wykazuje się zobowiązania przeterminowane powyżej 180 dni, nie więcej niż rok, w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych.
 7. W Lp. 210 wykazuje się zobowiązania przeterminowane powyżej roku w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych.
+1. W Lp. 211–216 podaje się informację o transakcjach ze stronami powiązanymi zgodnie z przepisami wydanymi na podstawie art. 81 ust. 2 pkt 2 ustawy o rachunkowości, których wartość godziwa przekracza 5 % funduszy własnych obliczonych zgodnie z rozporządzeniem 2019/2033.
 2. Dane wykazuje się w podziale na poszczególne transakcje. Wartość transakcji wykazuje się w wartości godziwej i transakcyjnej. W przypadku konieczności wykazania powyżej 50 pozycji dane mogą być przekazane w podziale na poszczególne podmioty powiązane, wraz z liczbą zawartych transakcji.
 3. W Lp. 213 podaje się NIP albo jego odpowiednik stosowany poza UE (w przypadku jego braku podaje się nazwę podmiotu i kraj pochodzenia).
+1. Podmiot sprawozdający, który nie jest zobowiązany do spełniania wymogów określonych w art. 110e ust. 2 pkt 1 ustawy, nie przekazuje informacji, o których mowa w Lp. 220 i 221.
 2. W Lp. 220 podaje się informację o oszacowaniu kapitału wewnętrznego zgodnie z art. 110e ust. 1 ustawy, ze wskazaniem kategorii ryzyka.
 3. W Lp. 221 wykazuje się całkowitą wartość kapitału wewnętrznego.
 4. W Lp. 222 wartość minimalnego kapitału założycielskiego przelicza się zgodnie z art. 98 ust. 10 ustawy.
+1. Podmiot sprawozdający, który nie jest zobowiązany do spełniania wymogów określonych w art. 110e ust. 2 pkt 2 ustawy, nie przekazuje informacji, o których mowa w Lp. 224 i 225.
 2. W Lp. 223 wykazuje się wartość aktywów płynnych obliczonych na potrzeby kalkulacji wymogu dotyczącego płynności zgodnie z art. 43 rozporządzenia 2019/2033.
 3. W Lp. 224 wykazuje się wartość aktywów płynnych obliczonych dla potrzeb kalkulacji wymogu określonego w art. 110e ust. 2 pkt 2 ustawy.
 4. W Lp. 225 wykazuje się całkowitą wartość zapotrzebowania na aktywa płynne oszacowanego zgodnie z art. 110e ust. 1 ustawy.
+1. W Lp. 226 wykazuje się wartość funduszy własnych, zgodnie z art. 9 ust. 1 rozporządzenia 2019/2033, stanowiącą sumę wartości Lp. 227–229.
 2. W Lp. 227 wykazuje się wartość kapitału podstawowego Tier I, zgodnie z art. 9 ust. 1 rozporządzenia 2019/2033.
 3. W Lp. 228 wykazuje się wartość kapitału dodatkowego Tier I, zgodnie z art. 9 ust. 1 rozporządzenia 2019/2033.
 4. W Lp. 229 wykazuje się wartość kapitału Tier II, zgodnie z art. 9 ust.1 rozporządzenia 2019/2033.
 5. W Lp. 230 wykazuje się wartość wymogu w zakresie funduszy własnych, o którym mowa w art. 11 rozporządzenia 2019/2033. W przypadku gdy podmiot sprawozdający korzysta z przepisów przejściowych określonych w art. 57 rozporządzenia 2019/2033, wartość wymogu wykazuje się z uwzględnieniem tych przepisów. W przypadku gdy na podmiot sprawozdający nałożono obowiązek utrzymywania dodatkowych wymogów w zakresie funduszy własnych, o których mowa w art. 110y ust. 3 ustawy lub w art. 110ya ustawy, wartość wymogu w zakresie funduszy własnych wykazuje się z uwzględnieniem tych dodatkowych wymogów.
+1. Podmiot sprawozdający, który nie jest zobowiązany do posiadania planu naprawy zgodnie z art. 110zj ust. 1 ustawy, nie wykazuje informacji zawartych w części M.
 2. W Lp. 231 wskazuje się nazwę wskaźnika planu naprawy w podziale na poszczególne wskaźniki.
 3. W Lp. 232 wskazuje się wartość wskaźników, po których osiągnięciu są podejmowane działania określone w planie naprawy, o których mowa w art. 110zo ustawy.
 W przypadku wskaźników jakościowych, dla których nie zostały przyjęte poziomy ilościowe, należy wskazać wartość „0” oraz zamieścić opis kształtowania się tego wskaźnika w dodatkowych objaśnieniach.
 4. W Lp. 233 wskazuje się, czy naruszenie wskaźnika występuje przy spadku jego wartości poniżej wartości granicznej (minimum) czy przy wzroście jego wartości powyżej wartości granicznej (maksimum).
 5. W Lp. 234 wskazuje się wartość wskaźnika planu naprawy.
+1. Wartości w części N przekazywane są przez podmioty świadczące usługi w zakresie kryptoaktywów, o których mowa w art. 3 ust. 1 pkt 17–26 rozporządzenia 2023/1114.
 2. W Lp. 232 wykazuje się łączną wartość przychodów osiąganych w ramach usług w zakresie kryptoaktywów, o których mowa w art. 3 ust. 1 pkt 17–26 rozporządzenia 2023/1114.
 3. W Lp. 233–242 wykazuje się wartość przychodów osiąganych w ramach poszczególnych usług w zakresie kryptoaktywów, o których mowa w art. 3 ust. 1 pkt 17–26 rozporządzenia 2023/1114.
 
@@ -384,27 +394,27 @@ W przypadku wskaźników jakościowych, dla których nie zostały przyjęte pozi
 
 ## CZĘŚĆ N – Przychody wynikające ze świadczenia usług w zakresie kryptoaktywów
 
-## CZĘŚĆ A–D 1. Wartości w Lp. 1–161 wykazuje się zgodnie z przepisami wydanymi na podstawie art. 81 ust. 2 pkt 2 ustawy o rachunkowości.
+## CZĘŚĆ A–D
 
-## CZĘŚĆ E 1. Wszystkie wielkości i wartości wykazuje się według stanu na ostatni dzień okresu objętego sprawozdaniem. Wartości denominowane w walutach obcych wykazuje się w walucie polskiej, po dokonaniu ich przeliczenia według średniego kursu ogłaszanego przez Narodowy Bank Polski obowiązującego na ostatni dzień tego okresu.
+## CZĘŚĆ E
 
-## CZĘŚĆ F 1. W Lp. 197 wykazuje się wartość należności nieprzeterminowanych w wartości brutto oraz oddzielnie w wartości po pomniejszeniu o odpisy aktualizujące.
+## CZĘŚĆ F
 
-## CZĘŚĆ G 1. W Lp. 204 wykazuje się wartość zobowiązań nieprzeterminowanych w kwocie zobowiązań łącznych oraz oddzielnie zobowiązań z tytułu kredytów i pożyczek oraz wyemitowanych dłużnych papierów wartościowych.
+## CZĘŚĆ G
 
-## CZĘŚĆ H 1. W Lp. 211–216 podaje się informację o transakcjach ze stronami powiązanymi zgodnie z przepisami wydanymi na podstawie art. 81 ust. 2 pkt 2 ustawy o rachunkowości, których wartość godziwa przekracza 5 % funduszy własnych obliczonych zgodnie z rozporządzeniem 2019/2033.
+## CZĘŚĆ H
 
 ## CZĘŚĆ I W Lp. 217–219 podaje się informację o przewidywanym w okresie najbliższych 30 dni niespełnieniu wymogów w zakresie funduszy własnych, o których mowa w § 3 ust. 1 pkt 35, lub wymogów dotyczących płynności, o których mowa w § 3 ust. 1 pkt 51, w ujęciu jednostkowym.
 
-## CZĘŚĆ J 1. Podmiot sprawozdający, który nie jest zobowiązany do spełniania wymogów określonych w art. 110e ust. 2 pkt 1 ustawy, nie przekazuje informacji, o których mowa w Lp. 220 i 221.
+## CZĘŚĆ J
 
-## CZĘŚĆ K 1. Podmiot sprawozdający, który nie jest zobowiązany do spełniania wymogów określonych w art. 110e ust. 2 pkt 2 ustawy, nie przekazuje informacji, o których mowa w Lp. 224 i 225.
+## CZĘŚĆ K
 
-## CZĘŚĆ L 1. W Lp. 226 wykazuje się wartość funduszy własnych, zgodnie z art. 9 ust. 1 rozporządzenia 2019/2033, stanowiącą sumę wartości Lp. 227–229.
+## CZĘŚĆ L
 
-## CZĘŚĆ M 1. Podmiot sprawozdający, który nie jest zobowiązany do posiadania planu naprawy zgodnie z art. 110zj ust. 1 ustawy, nie wykazuje informacji zawartych w części M.
+## CZĘŚĆ M
 
-## CZĘŚĆ N 1. Wartości w części N przekazywane są przez podmioty świadczące usługi w zakresie kryptoaktywów, o których mowa w art. 3 ust. 1 pkt 17–26 rozporządzenia 2023/1114.
+## CZĘŚĆ N
 
 ## Załącznik nr 2 — Zakres informacji zawartych w informacji o wybranych danych finansowych z zakresu bilansu, pozycji pozabilansowych oraz rachunku zysków i strat domu maklerskiego (IDF) Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy:
 
