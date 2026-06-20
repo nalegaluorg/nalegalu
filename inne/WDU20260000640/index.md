@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz ustawy o rachunkowości
+# Ustawa z dnia 27 marca 2026 r. o zmianie ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz ustawy o rachunkowości
 
 *USTAWA z dnia 27 marca 2026 r.*
 

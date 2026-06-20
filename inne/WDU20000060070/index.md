@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarce nieruchomościami oraz innych ustaw
+# Ustawa z dnia 7 stycznia 2000 r. o zmianie ustawy o gospodarce nieruchomościami oraz innych ustaw.
 
 *USTAWA z dnia 7 stycznia 2000 r.*
 

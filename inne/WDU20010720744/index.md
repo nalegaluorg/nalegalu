@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych
+# Ustawa z dnia 9 maja 2001 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych.
 
 *USTAWA z dnia 9 maja 2001 r.*
 

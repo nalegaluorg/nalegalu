@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks wykroczeń
+# Ustawa z dnia 15 września 2017 r. o zmianie ustawy - Kodeks wykroczeń
 
 *USTAWA z dnia 15 września 2017 r.*
 

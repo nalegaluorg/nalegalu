@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o dodatku węglowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dodatku węglowym
 
 | Pole | Wartość |
 |---|---|

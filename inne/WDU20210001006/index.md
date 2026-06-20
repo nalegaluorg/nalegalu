@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej
+# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej
 
 *USTAWA z dnia 15 kwietnia 2021 r.*
 

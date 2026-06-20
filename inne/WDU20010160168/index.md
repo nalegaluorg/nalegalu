@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie dziedzictwa Fryderyka Chopina
+# Ustawa z dnia 3 lutego 2001 r. o ochronie dziedzictwa Fryderyka Chopina.
 
 *USTAWA z dnia 3 lutego 2001 r.*
 

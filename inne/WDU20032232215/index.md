@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o publicznej służbie krwi oraz o zmianie ustawy o zakładach opieki zdrowotnej
+# Ustawa z dnia 26 listopada 2003 r. o zmianie ustawy o publicznej służbie krwi oraz o zmianie ustawy o zakładach opieki zdrowotnej
 
 *USTAWA z dnia 26 listopada 2003 r.*
 

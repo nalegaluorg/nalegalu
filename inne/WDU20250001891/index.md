@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym
 
 *USTAWA z dnia 11 maja 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-12-31 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001891) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1891/text.pdf) |
-
-Art. 216–263. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -121,7 +119,7 @@ Art. 216–263. (pominięte)
 - **32)** niezależnym dostawcy usług atestacyjnych – należy przez to rozumieć jednostkę oceniającą zgodność z innego niż Rzeczpospolita Polska państwa Unii Europejskiej, akredytowaną zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającym wymagania w zakresie akredytacji i uchylającym rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30, z późn. zm. ) i dopuszczoną przez to państwo do atestacji sprawozdawczości zrównoważonego rozwoju; <33) rozporządzeniu 2023/2859 – należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );
 - **34)** europejskim pojedynczym punkcie dostępu – należy przez to rozumieć europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
 - **35)** metadanych – należy przez to rozumieć metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;
-- **36)** formacie umożliwiającym ekstrakcję danych – należy przez to rozumieć format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka.>
+- **36)** formacie umożliwiającym ekstrakcję danych – należy przez to rozumieć format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka.
 
 **Art. 2a.** Polska Izba Biegłych Rewidentów jest administratorem danych przetwarzanych w celach realizacji zadań lub obowiązków przez organy samorządu biegłych rewidentów, związanych z działalnością Komisji Egzaminacyjnej, zwanej dalej „Komisją”, oraz organizacją egzaminów dla kandydatów na biegłych rewidentów oraz biegłych rewidentów ubiegających się o uprawnienie do atestacji sprawozdawczości zrównoważonego rozwoju.
 
@@ -585,7 +583,7 @@ Art. 216–263. (pominięte)
 
 - **1)** imieniem i nazwiskiem biegłego rewidenta wpisanego do rejestru;
 - **2)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **3)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **3)** wskazaniem, czy informacje zawierają dane osobowe.
 
 **Art. 18.**
 
@@ -1132,7 +1130,7 @@ Art. 216–263. (pominięte)
 - **1)** pełną i skróconą nazwą firmy audytorskiej wpisanej na listę;
 - **2)** identyfikatorem podmiotu prawnego firmy audytorskiej wpisanej na listę, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Agencji;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 **Art. 57a.**
 
@@ -3070,15 +3068,17 @@ Art. 216–263. (pominięte)
 
 2. W przypadku orzeczenia na podstawie art. 159 ust. 3 o nakazie podania do publicznej wiadomości imienia i nazwiska osoby fizycznej, na którą nałożono karę, obok informacji, o której mowa w ust. 1, podaniu do publicznej wiadomości podlega również imię i nazwisko osoby fizycznej, na którą nałożono karę, wraz z numerem, pod którym osoba ta jest lub była wpisana do rejestru.
 
-3. Informacje, o których mowa w ust. 1 i 2, są publikowane przez 5 lat, licząc od dnia, w którym orzeczenie nakładające karę stało się prawomocne.
+3. Informacje, o których mowa w ust. 1 i 2, są publikowane przez 5 lat, licząc od dnia, w którym orzeczenie nakładające karę stało się prawomocne. 4. (uchylony)
 
-4. (uchylony) <Art. 170a. 1. Agencja udostępnia informacje, o których mowa w art. 170 ust. 1 i 2, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+**Art. 170a.**
+
+1. Agencja udostępnia informacje, o których mowa w art. 170 ust. 1 i 2, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
 
 2. Informacje, o których mowa w art. 170 ust. 1 i 2, są opatrywane następującymi metadanymi:
 
 - **1)** imieniem i nazwiskiem biegłego rewidenta, na którego nałożono karę;
 - **2)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **3)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **3)** wskazaniem, czy informacje zawierają dane osobowe.
 
 **Art. 171.** W sprawach nieuregulowanych w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy:
 
@@ -3152,15 +3152,17 @@ Art. 216–263. (pominięte)
 
 2. W przypadku orzeczenia na podstawie art. 159 ust. 3 o nakazie podania do publicznej wiadomości imienia i nazwiska osoby fizycznej, na którą nałożono karę, obok informacji, o której mowa w ust. 1, podaniu do publicznej wiadomości podlega również imię i nazwisko osoby fizycznej, na którą nałożono karę, wraz z numerem, pod którym osoba ta jest lub była wpisana do rejestru.
 
-3. Informacje, o których mowa w ust. 1 i 2, są publikowane przez 5 lat, licząc od dnia, w którym orzeczenie nakładające karę stało się prawomocne.
+3. Informacje, o których mowa w ust. 1 i 2, są publikowane przez 5 lat, licząc od dnia, w którym orzeczenie nakładające karę stało się prawomocne. 4. (uchylony)
 
-4. (uchylony) <Art. 181a. 1. Agencja udostępnia informacje, o których mowa w art. 181 ust. 1 i 2, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+**Art. 181a.**
+
+1. Agencja udostępnia informacje, o których mowa w art. 181 ust. 1 i 2, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
 
 2. Informacje, o których mowa w art. 181 ust. 1 i 2, są opatrywane następującymi metadanymi:
 
 - **1)** imieniem i nazwiskiem biegłego rewidenta, na którego nałożono karę;
 - **2)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **3)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **3)** wskazaniem, czy informacje zawierają dane osobowe.
 
 #### Rozdział 10 Odpowiedzialność firm audytorskich, jednostek zainteresowania publicznego oraz osób trzecich
 
@@ -3315,7 +3317,7 @@ Art. 216–263. (pominięte)
 - **1)** nazwą firmy audytorskiej lub imieniem i nazwiskiem osoby, o której mowa w art. 182 ust. 2, na które nałożono karę;
 - **2)** identyfikatorem podmiotu prawnego firmy audytorskiej, na którą nałożono karę, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Agencji;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 **Art. 191a.** W sprawach nieuregulowanych w niniejszej ustawie do kar administracyjnych, o których mowa w art. 183 ust. 1, stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
@@ -3388,7 +3390,7 @@ Art. 216–263. (pominięte)
 - **1)** nazwą jednostki zainteresowania publicznego lub imieniem i nazwiskiem osoby, o których mowa w art. 192 ust. 1, na które nałożono karę;
 - **2)** identyfikatorem podmiotu prawnego jednostki zainteresowania publicznego, na którą nałożono karę, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji Nadzoru Finansowego;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 #### Rozdział 11 Zawiadamianie organu nadzoru publicznego lub samorządu zawodowego biegłych rewidentów o podejrzeniu naruszenia przepisów ustawy lub rozporządzenia nr 537/2014
 
@@ -3499,7 +3501,7 @@ Art. 216–263. (pominięte)
 - **1)** pełną i skróconą nazwą jednostki audytorskiej pochodzącej z państwa trzeciego wpisanej na listę, o której mowa w ust. 1;
 - **2)** identyfikatorem podmiotu prawnego jednostki audytorskiej pochodzącej z państwa trzeciego wpisanej na listę, o której mowa w ust. 1, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Agencji;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 **Art. 205.**
 
@@ -3674,6 +3676,8 @@ Art. 216–263. (pominięte)
 **Art. 215a.** Kto, nie będąc uprawnionym, posługuje się tytułem biegłego rewidenta, oznaczeniem „firma audytorska” lub wykonuje czynności rewizji finansowej, podlega grzywnie albo karze ograniczenia wolności.
 
 #### Rozdział 13 Zmiany w przepisach
+
+**Art. 216–263.** (pominięte)
 
 #### Rozdział 14 Przepisy przejściowe, dostosowujące i końcowe
 

@@ -1474,7 +1474,7 @@ source: pdf
 - **1)** zdolności do występowania w obrocie gospodarczym;
 - **2)** uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, o ile wynika to z odrębnych przepisów;
 - **3)** sytuacji ekonomicznej lub finansowej;
-- **4)** zdolności technicznej lub zawodowej. <3. Zamawiający określając warunki udziału w postępowaniu w zakresie, o którym mowa w ust. 2 pkt 4, stosuje poziomy zdolności określone w przepisach wydanych na podstawie art. 5 ust. 4 lub 5 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych (Dz. U. poz. 1235), chyba że nie jest to możliwe ze względu na charakter zamówienia albo gdy dla danego przedmiotu zamówienia poziomy zdolności nie zostały określone, co zamawiający wskazał w specyfikacji warunków zamówienia lub innych dokumentach zamówienia.>
+- **4)** zdolności technicznej lub zawodowej. <3. Zamawiający określając warunki udziału w postępowaniu w zakresie, o którym mowa w ust. 2 pkt 4, stosuje poziomy zdolności określone w przepisach wydanych na podstawie art. 5 ust. 4 lub 5 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych (Dz. U. poz. 1235), chyba że nie jest to możliwe ze względu na charakter zamówienia albo gdy dla danego przedmiotu zamówienia poziomy zdolności nie zostały określone, co zamawiający wskazał w specyfikacji warunków zamówienia lub innych dokumentach zamówienia.
 
 **Art. 113.** W odniesieniu do warunku dotyczącego zdolności do występowania w obrocie gospodarczym zamawiający może wymagać, aby wykonawcy prowadzący działalność gospodarczą lub zawodową byli wpisani do jednego z rejestrów zawodowych lub handlowych prowadzonych w kraju, w którym mają siedzibę lub miejsce zamieszkania.
 
@@ -1555,7 +1555,7 @@ source: pdf
 
 3. Zamawiający nie może żądać innych podmiotowych środków dowodowych w zakresie, w jakim potwierdzenie braku podstaw wykluczenia lub potwierdzenie spełniania warunków udziału w postępowaniu wynika z certyfikatu, o którym mowa w ust. 2, z uwzględnieniem wyjątku określonego w ust. 4 oraz okoliczności, o których mowa w art. 31 ust. 6 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych.
 
-4. Zamawiający przed udzieleniem zamówienia może żądać podmiotowych środków dowodowych od wykonawcy, który złożył certyfikat, o którym mowa w ust. 2, na potwierdzenie braku podstawy wykluczenia z postępowania, o której mowa w art. 109 ust. 1 pkt 1.>
+4. Zamawiający przed udzieleniem zamówienia może żądać podmiotowych środków dowodowych od wykonawcy, który złożył certyfikat, o którym mowa w ust. 2, na potwierdzenie braku podstawy wykluczenia z postępowania, o której mowa w art. 109 ust. 1 pkt 1.
 
 **Art. 125.**
 
@@ -1603,11 +1603,15 @@ source: pdf
 
 5. Jeżeli złożone przez wykonawcę oświadczenie, o którym mowa w art. 125 ust. 1, lub podmiotowe środki dowodowe budzą wątpliwości zamawiającego, może on zwrócić się bezpośrednio do podmiotu, który jest w posiadaniu informacji lub dokumentów istotnych w tym zakresie dla oceny spełniania przez wykonawcę warunków udziału w postępowaniu, kryteriów selekcji lub braku podstaw wykluczenia, o przedstawienie takich informacji lub dokumentów.
 
-6. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, rodzaje podmiotowych środków dowodowych oraz innych dokumentów lub oświadczeń, jakich może żądać zamawiający od wykonawcy, okres ich ważności oraz formy, w jakich mogą być one składane, mając na uwadze potrzebę potwierdzenia braku podstaw wykluczenia, spełniania warunków udziału w postępowaniu lub kryteriów selekcji, zapewnienia aktualności podmiotowych środków dowodowych, innych dokumentów i oświadczeń, oraz sposoby komunikacji między zamawiającym a wykonawcą. <Art. 128a. 1. Zamawiający, który powołuje się na okoliczności, o których mowa w art. 8 ust. 1 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, wzywa wykonawcę do złożenia wyjaśnień w wyznaczonym terminie nie krótszym niż 5 dni licząc od dnia wezwania.
+6. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, rodzaje podmiotowych środków dowodowych oraz innych dokumentów lub oświadczeń, jakich może żądać zamawiający od wykonawcy, okres ich ważności oraz formy, w jakich mogą być one składane, mając na uwadze potrzebę potwierdzenia braku podstaw wykluczenia, spełniania warunków udziału w postępowaniu lub kryteriów selekcji, zapewnienia aktualności podmiotowych środków dowodowych, innych dokumentów i oświadczeń, oraz sposoby komunikacji między zamawiającym a wykonawcą.
+
+**Art. 128a.**
+
+1. Zamawiający, który powołuje się na okoliczności, o których mowa w art. 8 ust. 1 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, wzywa wykonawcę do złożenia wyjaśnień w wyznaczonym terminie nie krótszym niż 5 dni licząc od dnia wezwania.
 
 2. W przypadku gdy zamawiający uzna wyjaśnienia złożone przez wykonawcę za niewystarczające, informuje podmiot certyfikujący, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, który wydał certyfikat, o którym mowa w art. 124 ust. 2, o okolicznościach, o których mowa w art. 8 ust. 1 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, wykazując, że wykonawca wprowadził ten podmiot w błąd, co mogło mieć istotny wpływ na udzielenie certyfikacji wykonawców zamówień publicznych, lub że wykonawca przestał spełniać warunki udzielenia tej certyfikacji. Zamawiający przekazuje podmiotowi certyfikującemu wyjaśnienia złożone przez wykonawcę.
 
-3. W przypadku zawieszenia ważności certyfikacji wykonawców zamówień publicznych na podstawie art. 12 ust. 1 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, zamawiający wzywa wykonawcę do złożenia, w wyznaczonym terminie nie krótszym niż 5 dni licząc od dnia wezwania, podmiotowych środków dowodowych w zakresie, w jakim złożony certyfikat, o którym mowa w art. 124 ust. 2, miał potwierdzać brak podstaw wykluczenia lub spełnianie warunków udziału w postępowaniu na potrzeby prowadzonego postępowania o udzielenie zamówienia. Przepisy art. 128 ust. 2–5 stosuje się odpowiednio.>
+3. W przypadku zawieszenia ważności certyfikacji wykonawców zamówień publicznych na podstawie art. 12 ust. 1 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, zamawiający wzywa wykonawcę do złożenia, w wyznaczonym terminie nie krótszym niż 5 dni licząc od dnia wezwania, podmiotowych środków dowodowych w zakresie, w jakim złożony certyfikat, o którym mowa w art. 124 ust. 2, miał potwierdzać brak podstaw wykluczenia lub spełnianie warunków udziału w postępowaniu na potrzeby prowadzonego postępowania o udzielenie zamówienia. Przepisy art. 128 ust. 2–5 stosuje się odpowiednio.
 
 #### Rozdział 3 Tryby udzielania zamówień
 
@@ -5821,9 +5825,13 @@ source: pdf
 
 1. Zamawiający jest obowiązany wnieść odpowiedź na odwołanie w terminie wyznaczonym przez Prezesa Izby. Termin wniesienia odpowiedzi na odwołanie nie może być krótszy niż 5 dni od dnia przekazania zamawiającemu odwołania albo jego kopii.
 
-2. Zamawiający w odpowiedzi na odwołanie ustosunkowuje się do treści odwołania, w szczególności do zarzutów podniesionych w odwołaniu, wskazuje twierdzenia i dołącza dowody na poparcie swoich twierdzeń lub w celu odparcia twierdzeń powołanych w odwołaniu. <Art. 521a. 1. Zamawiający przesyła podmiotowi certyfikującemu, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, kopię odwołania, niezwłocznie, nie później niż w terminie 2 dni licząc od dnia jego otrzymania, w przypadku gdy odwołanie to zawiera twierdzenia dotyczące domniemania wynikającego z udzielonej certyfikacji wykonawców zamówień publicznych.
+2. Zamawiający w odpowiedzi na odwołanie ustosunkowuje się do treści odwołania, w szczególności do zarzutów podniesionych w odwołaniu, wskazuje twierdzenia i dołącza dowody na poparcie swoich twierdzeń lub w celu odparcia twierdzeń powołanych w odwołaniu.
 
-2. Podmiot certyfikujący, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, niezwłocznie, nie później niż w terminie 5 dni licząc od dnia otrzymania odwołania, doręcza Prezesowi Izby i przesyła do zamawiającego oraz wykonawcy wnoszącego odwołanie swoje stanowisko, wraz z uzasadnieniem, zawierające odniesienie się do twierdzeń, o których mowa w ust. 1, zawartych w odwołaniu.>
+**Art. 521a.**
+
+1. Zamawiający przesyła podmiotowi certyfikującemu, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, kopię odwołania, niezwłocznie, nie później niż w terminie 2 dni licząc od dnia jego otrzymania, w przypadku gdy odwołanie to zawiera twierdzenia dotyczące domniemania wynikającego z udzielonej certyfikacji wykonawców zamówień publicznych.
+
+2. Podmiot certyfikujący, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, niezwłocznie, nie później niż w terminie 5 dni licząc od dnia otrzymania odwołania, doręcza Prezesowi Izby i przesyła do zamawiającego oraz wykonawcy wnoszącego odwołanie swoje stanowisko, wraz z uzasadnieniem, zawierające odniesienie się do twierdzeń, o których mowa w ust. 1, zawartych w odwołaniu.
 
 ##### Oddział 3 Uwzględnienie odwołania przez zamawiającego
 
@@ -6148,7 +6156,9 @@ source: pdf
 
 - **1)** cofnięcia odwołania;
 - **2)** stwierdzenia, że dalsze postępowanie stało się z innej przyczyny zbędne lub niedopuszczalne;
-- **3)** o którym mowa w art. 522. <Art. 568a. W przypadku stwierdzenia w prawomocnie zakończonym postępowaniu odwoławczym, że domniemanie niepodlegania wykluczeniu lub zdolności do należytego wykonania zamówienia, wynikające z certyfikatu, o którym mowa w art. 124 ust. 2, zostało obalone co do całości albo części obejmującej określony zakres certyfikacji wykonawców zamówień publicznych, Prezes Izby przesyła niezwłocznie, w terminie nie dłuższym niż 3 dni robocze licząc od dnia wydania prawomocnego orzeczenia w tym postępowaniu, podmiotowi certyfikującemu, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, informację w tym zakresie.>
+- **3)** o którym mowa w art. 522.
+
+**Art. 568a.** W przypadku stwierdzenia w prawomocnie zakończonym postępowaniu odwoławczym, że domniemanie niepodlegania wykluczeniu lub zdolności do należytego wykonania zamówienia, wynikające z certyfikatu, o którym mowa w art. 124 ust. 2, zostało obalone co do całości albo części obejmującej określony zakres certyfikacji wykonawców zamówień publicznych, Prezes Izby przesyła niezwłocznie, w terminie nie dłuższym niż 3 dni robocze licząc od dnia wydania prawomocnego orzeczenia w tym postępowaniu, podmiotowi certyfikującemu, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, informację w tym zakresie.
 
 ##### Oddział 10 Protokół
 
@@ -6277,7 +6287,9 @@ source: pdf
 
 2. W przypadku uwzględnienia skargi sąd zmienia zaskarżone orzeczenie i orzeka wyrokiem co do istoty sprawy, a w pozostałych sprawach wydaje postanowienie. Przepisy art. 553–557 i art. 563–567 stosuje się odpowiednio. Przepisu art. 386 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego nie stosuje się.
 
-3. Jeżeli odwołanie zostaje odrzucone albo zachodzi podstawa do umorzenia postępowania, sąd uchyla wyrok lub zmienia postanowienie oraz odrzuca odwołanie albo umarza postępowanie. <Art. 588a. W przypadku stwierdzenia w prawomocnie zakończonym postępowaniu skargowym, że domniemanie niepodlegania wykluczeniu lub zdolności do należytego wykonania zamówienia, wynikające z certyfikatu, o którym mowa w art. 124 ust. 2, zostało obalone co do całości albo części obejmującej określony zakres certyfikacji wykonawców zamówień publicznych, sąd rozpatrujący skargę na orzeczenie Izby przesyła niezwłocznie, w terminie nie dłuższym niż 3 dni robocze licząc od dnia wydania prawomocnego orzeczenia w tym postępowaniu, podmiotowi certyfikującemu, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, informację w tym zakresie.>
+3. Jeżeli odwołanie zostaje odrzucone albo zachodzi podstawa do umorzenia postępowania, sąd uchyla wyrok lub zmienia postanowienie oraz odrzuca odwołanie albo umarza postępowanie.
+
+**Art. 588a.** W przypadku stwierdzenia w prawomocnie zakończonym postępowaniu skargowym, że domniemanie niepodlegania wykluczeniu lub zdolności do należytego wykonania zamówienia, wynikające z certyfikatu, o którym mowa w art. 124 ust. 2, zostało obalone co do całości albo części obejmującej określony zakres certyfikacji wykonawców zamówień publicznych, sąd rozpatrujący skargę na orzeczenie Izby przesyła niezwłocznie, w terminie nie dłuższym niż 3 dni robocze licząc od dnia wydania prawomocnego orzeczenia w tym postępowaniu, podmiotowi certyfikującemu, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, informację w tym zakresie.
 
 **Art. 589.**
 

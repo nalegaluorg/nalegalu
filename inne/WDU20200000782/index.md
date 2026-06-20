@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw
+# Ustawa z dnia 16 kwietnia 2020 r. o zmianie ustawy - Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw
 
 *USTAWA z dnia 16 kwietnia 2020 r.*
 

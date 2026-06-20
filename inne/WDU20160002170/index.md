@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funduszach promocji produktów rolno-spożywczych
+# Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy o funduszach promocji produktów rolno-spożywczych
 
 *USTAWA z dnia 15 grudnia 2016 r.*
 

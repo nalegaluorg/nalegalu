@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej
+# Ustawa z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej
 
 *USTAWA z dnia 9 października 2015 r.*
 

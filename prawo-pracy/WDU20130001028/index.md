@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks pracy
+# Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy - Kodeks pracy
 
 *USTAWA z dnia 26 lipca 2013 r.*
 

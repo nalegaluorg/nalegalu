@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie gminnym, ustawy o samorządzie powiatowym, ustawy o samorządzie województwa, ustawy - Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw oraz ustawy o referendum lokalnym
+# Ustawa z dnia 15 lutego 2002 r. o zmianie ustawy o samorządzie gminnym, ustawy o samorządzie powiatowym, ustawy o samorządzie województwa, ustawy - Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw oraz ustawy o referendum lokalnym.
 
 *USTAWA z dnia 15 lutego 2002 r.*
 

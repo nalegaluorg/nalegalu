@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo geodezyjne i kartograficzne
+# Ustawa z dnia 9 stycznia 2009 r. o zmianie ustawy - Prawo geodezyjne i kartograficzne
 
 *USTAWA z dnia 9 stycznia 2009 r.*
 

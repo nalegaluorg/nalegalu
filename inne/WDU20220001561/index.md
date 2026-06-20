@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych
+# Ustawa z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych
 
 *USTAWA z dnia 7 lipca 2022 r.*
 

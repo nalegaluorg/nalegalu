@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych oraz ustawy o zawodzie lekarza
+# Ustawa z dnia 30 sierpnia 2002 r. o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych oraz ustawy o zawodzie lekarza.
 
 *USTAWA z dnia 30 sierpnia 2002 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo zamówień publicznych oraz ustawy o kosztach sądowych w sprawach cywilnych
+# Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o kosztach sądowych w sprawach cywilnych
 
 *USTAWA z dnia 5 listopada 2009 r.*
 

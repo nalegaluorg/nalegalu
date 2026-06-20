@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie psychologa i samorządzie zawodowym psychologów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 maja 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie psychologa i samorządzie zawodowym psychologów
 
 *USTAWA z dnia 8 czerwca 2001 r.*
 
@@ -125,9 +125,7 @@ source: pdf
 
 1. Podjęcie usług psychologicznych następuje za zgodą osoby (klienta) lub grupy osób (klientów) stanowiących podmiot diagnozowania i oddziaływania psychologicznego, z zastrzeżeniem ust. 2 i 3.
 
-2. Zgoda nie jest wymagana w przypadkach określonych w przepisach Kodeksu karnego, Kodeksu postępowania karnego oraz w ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2018 r. poz. 1878 oraz z 2019 r. poz.
-
-- **730)** .
+2. Zgoda nie jest wymagana w przypadkach określonych w przepisach Kodeksu karnego, Kodeksu postępowania karnego oraz w ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2018 r. poz. 1878 oraz z 2019 r. poz. 730).
 
 3. Zgoda na przeprowadzenie badań nie jest wymagana także w stosunku do osób podlegających kwalifikacji wojskowej, kierowanych do specjalności i funkcji zgodnie z kryteriami doboru takich osób do poszczególnych specjalności wojskowych, oraz osób ubiegających się o przyjęcie do zawodowej służby wojskowej.
 

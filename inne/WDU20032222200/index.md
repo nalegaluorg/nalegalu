@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia
+# Ustawa z dnia 14 listopada 2003 r. o zmianie ustawy - Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia
 
 *USTAWA z dnia 14 listopada 2003 r.*
 

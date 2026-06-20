@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw
+# Ustawa z dnia 18 maja 2005 r. o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw
 
 *USTAWA z dnia 18 maja 2005 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie niektórych usług świadczonych drogą elektroniczną opartych lub polegających na dostępie warunkowym
+# Ustawa z dnia 5 lipca 2002 r. o ochronie niektórych usług świadczonych drogą elektroniczną opartych lub polegających na dostępie warunkowym.
 
 *USTAWA z dnia 5 lipca 2002 r.*
 

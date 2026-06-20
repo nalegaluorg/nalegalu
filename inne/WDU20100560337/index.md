@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach obsadzenia w kadencji trwającej w latach 2009–2014 dodatkowego mandatu posła do Parlamentu Europejskiego
+# Ustawa z dnia 4 marca 2010 r. o zasadach obsadzenia w kadencji trwającej w latach 2009-2014 dodatkowego mandatu posła do Parlamentu Europejskiego
 
 *USTAWA z dnia 4 marca 2010 r.*
 

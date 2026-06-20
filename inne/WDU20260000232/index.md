@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o własności lokali
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o własności lokali
 
 | Pole | Wartość |
 |---|---|
@@ -37,7 +37,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 24 czerwca 1994 r.
 o własności lokali
-Art. 34–38. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -337,6 +336,8 @@ Art. 34–38. (pominięte)
 **Art. 33.** W razie powierzenia zarządu osobie fizycznej lub prawnej, w trybie przewidzianym w art. 18 ust. 1, w braku odmiennych postanowień umowy, stosuje się odpowiednio przepisy niniejszego rozdziału.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 34–38.** (pominięte)
 
 **Art. 39.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o roszczeniach o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji
+# Ustawa z dnia 21 kwietnia 2017 r. o roszczeniach o naprawienie szkody wyrządzonej przez naruszenie prawa konkurencji
 
 *USTAWA z dnia 21 kwietnia 2017 r.*
 

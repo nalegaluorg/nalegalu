@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ewidencji ludności, ustawy o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw oraz ustawy – Prawo o aktach stanu cywilnego
+# Ustawa z dnia 1 marca 2018 r. o zmianie ustawy o ewidencji ludności, ustawy o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw oraz ustawy - Prawo o aktach stanu cywilnego
 
 *USTAWA z dnia 1 marca 2018 r.*
 

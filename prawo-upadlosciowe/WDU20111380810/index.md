@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo upadłościowe i naprawcze
+# Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy - Prawo upadłościowe i naprawcze
 
 *USTAWA z dnia 28 kwietnia 2011 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych oraz ustawy o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej
+# Ustawa z dnia 29 czerwca 2007 r. o zmianie ustawy o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych oraz ustawy o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 29 czerwca 2007 r.*
 

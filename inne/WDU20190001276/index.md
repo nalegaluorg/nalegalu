@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Akademii Techniczno-Humanistycznej w Bielsku-Białej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 czerwca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Akademii Techniczno-Humanistycznej w Bielsku-Białej
 
 | Pole | Wartość |
 |---|---|

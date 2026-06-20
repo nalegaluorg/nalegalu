@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia państwowych jednostek organizacyjnych oraz jednostek samorządu terytorialnego, z których mienia mogą być wyłączone nieruchomości zamienne, oraz określenia państwowej jednostki organizacyjnej, na którą może być nałożony obowiązek zapłaty odszkodowania na rzecz osób prawnych kościołów, innych związków wyznaniowych i krajowych organizacji międzykościelnych, które zgłosiły roszczenia do Międzykościelnej Komisji Regulacyjnej.
+# Rozporządzenie Rady Ministrów z dnia 14 czerwca 1999 r. w sprawie określenia państwowych jednostek organizacyjnych oraz jednostek samorządu terytorialnego, z których mienia mogą być wyłączone nieruchomości zamienne, oraz określenia państwowej jednostki organizacyjnej, na którą może być nałożony obowiązek zapłaty odszkodowania na rzecz osób prawnych kościołów, innych związków wyznaniowych i krajowych organizacji międzykościelnych, które zgłosiły roszczenia do Międzykościelnej Komisji Regulacyjnej.
 
 | Pole | Wartość |
 |---|---|

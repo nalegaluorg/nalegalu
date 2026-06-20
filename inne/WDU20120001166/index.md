@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych
+# Ustawa z dnia 10 października 2012 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych
 
 *USTAWA z dnia 10 października 2012 r.*
 

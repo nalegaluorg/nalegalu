@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
+# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
 
 *USTAWA z dnia 28 lipca 2005 r.*
 

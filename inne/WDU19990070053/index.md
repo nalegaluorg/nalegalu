@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie utworzenia Branżowej Kasy Chorych dla Służb Mundurowych.
+# Rozporządzenie Rady Ministrów z dnia 20 stycznia 1999 r. zmieniające rozporządzenie w sprawie utworzenia Branżowej Kasy Chorych dla Służb Mundurowych.
 
 | Pole | Wartość |
 |---|---|

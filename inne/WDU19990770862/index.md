@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego
+# Ustawa z dnia 4 marca 1999 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego.
 
 *USTAWA z dnia 4 marca 1999 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz niektórych innych ustaw
+# Ustawa z dnia 15 maja 2024 r. o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 maja 2024 r.*
 
@@ -94,7 +94,11 @@ source: pdf
 
 - **12)** art. 14lzj otrzymuje brzmienie: „Art. 14lzj. W celu realizacji, kontroli, audytu i ewaluacji reform i inwestycji na zasadach określonych w ustawie lub rozporządzeniu 2021/241 minister właściwy do spraw rozwoju regionalnego, instytucja odpowiedzialna za realizację reformy, instytucja odpowiedzialna za realizację inwestycji, jednostka wspierająca plan rozwojowy, Bank Gospodarstwa Krajowego, Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz ostateczni odbiorcy wsparcia przetwarzają dane osobowe.”;
 - **13)** w art. 14lzl po wyrazach „jednostce wspierającej plan rozwojowy” dodaje się wyrazy „Bankowi Gospodarstwa Krajowego lub Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej”;
-- **14)** po rozdziale 2aa dodaje się rozdział 2ab w brzmieniu: „Rozdział 2ab Plan społeczno-klimatyczny Art. 14lzo. 1. Projekt planu społeczno-klimatycznego opracowuje minister właściwy do spraw rozwoju regionalnego w porozumieniu z właściwymi ministrami i we współpracy z zarządami województw oraz partnerami społecznymi i gospodarczymi.
+- **14)** po rozdziale 2aa dodaje się rozdział 2ab w brzmieniu: „Rozdział 2ab Plan społeczno-klimatyczny
+
+**Art. 14lzo.**
+
+1. Projekt planu społeczno-klimatycznego opracowuje minister właściwy do spraw rozwoju regionalnego w porozumieniu z właściwymi ministrami i we współpracy z zarządami województw oraz partnerami społecznymi i gospodarczymi.
 
 2. Plan społeczno-klimatyczny jest przyjmowany przez Radę Ministrów, w drodze uchwały, na wniosek ministra właściwego do spraw rozwoju regionalnego, przed przekazaniem do Komisji Europejskiej zgodnie z art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/955 z dnia 10 maja 2023 r. w sprawie ustanowienia Społecznego Funduszu Klimatycznego i zmieniającego rozporządzenie (UE) 2021/1060.
 
@@ -105,7 +109,11 @@ source: pdf
 - **1)** podaje tę decyzję do publicznej wiadomości na swojej stronie internetowej;
 - **2)** ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o adresie strony internetowej, o której mowa w pkt 1, a także o terminie, od którego decyzja, o której mowa w pkt 1, jest stosowana.
 
-5. Przepisy ust. 1–4 stosuje się odpowiednio w przypadku zmiany planu społeczno-klimatycznego. Art. 14lzp. 1. W zakresie, w jakim w ramach planu społeczno-klimatycznego jest udzielana pomoc publiczna w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub pomoc de minimis, mają zastosowanie szczegółowe warunki i tryb udzielania pomocy.
+5. Przepisy ust. 1–4 stosuje się odpowiednio w przypadku zmiany planu społeczno-klimatycznego.
+
+**Art. 14lzp.**
+
+1. W zakresie, w jakim w ramach planu społeczno-klimatycznego jest udzielana pomoc publiczna w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub pomoc de minimis, mają zastosowanie szczegółowe warunki i tryb udzielania pomocy.
 
 2. Pomoc, o której mowa w ust. 1, jest udzielana z zachowaniem zasady niedyskryminacji i przejrzystości, w zakresie niezbędnym do realizacji celów określonych w planie społeczno-klimatycznym.
 

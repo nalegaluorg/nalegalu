@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o orderach i odznaczeniach
+# Ustawa z dnia 18 października 2006 r. o zmianie ustawy o orderach i odznaczeniach
 
 *USTAWA z dnia 18 października 2006 r.*
 

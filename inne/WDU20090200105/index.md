@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
+# Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
 
 *USTAWA z dnia 19 grudnia 2008 r.*
 

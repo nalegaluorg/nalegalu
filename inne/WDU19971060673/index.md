@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wykorzystaniu wpływów z prywatyzacji części mienia Skarbu Państwa na cele związane z reformą systemu ubezpieczeń społecznych
+# Ustawa z dnia 25 czerwca 1997 r. o wykorzystaniu wpływów z prywatyzacji części mienia Skarbu Państwa na cele związane z reformą systemu ubezpieczeń społecznych.
 
 *USTAWA z dnia 25 czerwca 1997 r.*
 

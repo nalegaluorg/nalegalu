@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o sejmowej komisji śledczej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 czerwca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o sejmowej komisji śledczej
 
 | Pole | Wartość |
 |---|---|

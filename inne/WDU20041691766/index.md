@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o portach i przystaniach morskich
+# Ustawa z dnia 23 listopada 2002 r. o zmianie ustawy o portach i przystaniach morskich
 
 *USTAWA z dnia 23 listopada 2002 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o statusie sędziów Trybunału Konstytucyjnego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lipca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o statusie sędziów Trybunału Konstytucyjnego
 
 *USTAWA z dnia 30 listopada 2016 r.*
 

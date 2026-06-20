@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przedsiębiorstwach państwowych
+# Ustawa z dnia 25 września 1981 r. o przedsiębiorstwach państwowych.
 
 *USTAWA z dnia 25 września 1981 r.*
 
@@ -612,7 +612,9 @@ source: pdf
 
 2. Organ założycielski może w każdym czasie uchylić zarząd komisaryczny i zarządzić likwidację przedsiębiorstwa, jeżeli dalsze wykonywanie programu, o którym mowa w art. 67 ust. 1, nie rokuje poprawy gospodarki przedsiębiorstwa.
 
-**Art. 70.** Koszty związane ze sprawowaniem zarządu komisarycznego obciążają przedsiębiorstwo państwowe. Art. 71–73. (uchylone)
+**Art. 70.** Koszty związane ze sprawowaniem zarządu komisarycznego obciążają przedsiębiorstwo państwowe.
+
+**Art. 71–73.** (uchylone)
 
 **Art. 74.** Uprawnienia ministra właściwego do spraw finansów publicznych określone w niniejszej ustawie wykonuje właściwy dyrektor izby administracji skarbowej, w wypadku gdy funkcje organu założycielskiego pełni wojewoda.
 

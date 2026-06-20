@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie terytorialnym
+# Ustawa z dnia 2 lutego 1996 r. o zmianie ustawy o samorządzie terytorialnym.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
+# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
 
 *USTAWA z dnia 19 lipca 2019 r.*
 

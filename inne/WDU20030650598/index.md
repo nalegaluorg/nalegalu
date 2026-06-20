@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dokonywaniu europejskich zgłoszeń patentowych oraz skutkach patentu europejskiego w Rzeczypospolitej Polskiej
+# Ustawa z dnia 14 marca 2003 r. o dokonywaniu europejskich zgłoszeń patentowych oraz skutkach patentu europejskiego w Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 14 marca 2003 r.*
 

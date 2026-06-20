@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego w latach 2008–2015
+# Ustawa z dnia 11 lipca 2014 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego w latach 2008-2015
 
 *USTAWA z dnia 11 lipca 2014 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw
+# Ustawa z dnia 29 września 1994 r. o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 29 września 1994 r.*
 

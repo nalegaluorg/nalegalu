@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Akademii Medycznej w Lublinie nazwy „Akademia Medyczna w Lublinie imienia Profesora Feliksa Skubiszewskiego”
+# Ustawa z dnia 4 grudnia 2002 r. o nadaniu Akademii Medycznej w Lublinie nazwy "Akademia Medyczna w Lublinie imienia Profesora Feliksa Skubiszewskiego"
 
 *USTAWA z dnia 4 grudnia 2002 r.*
 

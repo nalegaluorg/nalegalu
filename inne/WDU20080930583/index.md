@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo atomowe
+# Ustawa z dnia 11 kwietnia 2008 r. o zmianie ustawy - Prawo atomowe
 
 *USTAWA z dnia 11 kwietnia 2008 r.*
 

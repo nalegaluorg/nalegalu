@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 lutego 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania
 
 *USTAWA z dnia 8 września 2006 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielniach rolników
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielniach rolników
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 4 października 2018 r.
 o spółdzielniach rolników
-Art. 19–24. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -215,6 +214,8 @@ Art. 19–24. (pominięte)
 4. Jeżeli sprawca działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących i przepisy końcowe
+
+**Art. 19–24.** (pominięte)
 
 **Art. 25.** Zwolnienia, o których mowa w art. 20 , art. 21 i art. 23 pkt 2, stanowią pomoc:
 

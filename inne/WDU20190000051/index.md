@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych innych ustaw
+# Ustawa z dnia 6 grudnia 2018 r. o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych innych ustaw
 
 *USTAWA z dnia 6 grudnia 2018 r.*
 
@@ -325,7 +325,11 @@ source: pdf
 
 2. W przypadku niewykonania decyzji, o której mowa w ust. 1, w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna, marszałek województwa ustala, w drodze decyzji, dodatkową opłatę recyklingową w wysokości odpowiadającej 50% kwoty niewniesionej opłaty recyklingowej.
 
-3. Termin uiszczenia opłaty, o której mowa w ust. 2, wynosi 14 dni od dnia, w którym decyzja ustalająca jej wysokość stała się ostateczna. Art. 40cb. 1. Marszałek województwa prowadzi odrębny rachunek bankowy w celu gromadzenia i przekazywania wpływów z tytułu opłaty recyklingowej oraz dodatkowej opłaty recyklingowej.
+3. Termin uiszczenia opłaty, o której mowa w ust. 2, wynosi 14 dni od dnia, w którym decyzja ustalająca jej wysokość stała się ostateczna.
+
+**Art. 40cb.**
+
+1. Marszałek województwa prowadzi odrębny rachunek bankowy w celu gromadzenia i przekazywania wpływów z tytułu opłaty recyklingowej oraz dodatkowej opłaty recyklingowej.
 
 2. Wpływy z tytułu opłaty recyklingowej oraz dodatkowej opłaty recyklingowej, powiększone o przychody z oprocentowania rachunku bankowego i pomniejszone o dochody, o których mowa w ust. 3, marszałek województwa przekazuje na rachunek dochodów budżetu państwa, w terminie do dnia 30 kwietnia każdego roku kalendarzowego.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przekształceniach własnościowych w przemyśle cukrowniczym
+# Ustawa z dnia 26 sierpnia 1994 r. o przekształceniach własnościowych w przemyśle cukrowniczym
 
 *USTAWA z dnia 26 sierpnia 1994 r.*
 

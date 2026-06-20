@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Straży Marszałkowskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Straży Marszałkowskiej
 
 *USTAWA z dnia 26 stycznia 2018 r.*
 
@@ -351,9 +351,7 @@ source: pdf
 - **5)** sprawdzenie w ewidencjach, rejestrach i kartotekach prawdziwości danych zawartych w kwestionariuszu osobowym kandydata do służby;
 - **6)** przeprowadzenie postępowania sprawdzającego określonego w przepisach o ochronie informacji niejawnych.
 
-3. Ustalenia zdolności fizycznej i psychicznej do służby dokonuje komisja lekarska podległa ministrowi właściwemu do spraw wewnętrznych na zasadach i w trybie określonych w ustawie z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. z 2024 r. poz.
-
-- **310)** .
+3. Ustalenia zdolności fizycznej i psychicznej do służby dokonuje komisja lekarska podległa ministrowi właściwemu do spraw wewnętrznych na zasadach i w trybie określonych w ustawie z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. z 2024 r. poz. 310).
 
 4. W szczególnie uzasadnionych przypadkach Komendant Straży Marszałkowskiej może zwolnić kandydata do służby w Straży Marszałkowskiej z obowiązku odbycia testu sprawności fizycznej.
 

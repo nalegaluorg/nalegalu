@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych
+# Ustawa z dnia 28 lipca 2011 r. o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych
 
 *USTAWA z dnia 28 lipca 2011 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o cudzoziemcach i ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+# Ustawa z dnia 22 kwietnia 2005 r. o zmianie ustawy o cudzoziemcach i ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 kwietnia 2005 r.*
 

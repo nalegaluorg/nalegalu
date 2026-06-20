@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” oraz niektórych innych ustaw
+# Ustawa z dnia 29 października 2010 r. o zmianie ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego "Polskiego Koleje Państwowe" oraz niektórych innych ustaw
 
 *USTAWA z dnia 29 października 2010 r.*
 

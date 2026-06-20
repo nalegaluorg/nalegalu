@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kulturze fizycznej oraz ustawy - Prawo działalności gospodarczej
+# Ustawa z dnia 20 lipca 2001 r. o zmianie ustawy o kulturze fizycznej oraz ustawy - Prawo działalności gospodarczej.
 
 *USTAWA z dnia 20 lipca 2001 r.*
 

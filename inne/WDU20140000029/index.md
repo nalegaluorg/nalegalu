@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz niektórych innych ustaw
+# Ustawa z dnia 22 listopada 2013 r. o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 listopada 2013 r.*
 

@@ -227,6 +227,7 @@ VI. Oddział chorób zakaźnych
 3. Szatnia dla personelu oddziału chorób zakaźnych nie może znajdować się w obrębie tego oddziału.
 4. Oddział chorób zakaźnych wyposaża się w urządzenia umożliwiające kontakt pacjenta z odwiedzającym.
 VII. Oddział przeciwgruźliczy
+Oddział przeciwgruźliczy składa się z:
 1) pomieszczeń przeznaczonych dla pacjentów z gruźlicą nieprątkujących, które spełniają co najmniej wymagania określone w części II;
 2) zespołu pomieszczeń przeznaczonych dla pacjentów z gruźlicą prątkujących, który spełnia wymagania określone w części VI.
 VIII. Oddział psychiatryczny
@@ -351,6 +352,4 @@ SZCZEGÓŁOWE WYMAGANIA, JAKIM POWINNY ODPOWIADAĆ URZĄDZENIA I POMIESZCZENIA, 
 #### Rozdział 6 Wymagania dotyczące instalacji
 
 #### Rozdział 7 Przepis końcowy
-
-##### Oddział przeciwgruźliczy składa się z:
 

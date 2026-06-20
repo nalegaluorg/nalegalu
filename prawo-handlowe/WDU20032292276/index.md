@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw
+# Ustawa z dnia 12 grudnia 2003 r. o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw
 
 *USTAWA z dnia 12 grudnia 2003 r.*
 

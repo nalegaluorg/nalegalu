@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rewaloryzacji emerytur i rent dla osób, które ukończyły 80 lat, oraz o zmianie niektórych przepisów o zaopatrzeniu emerytalnym
+# Ustawa z dnia 14 grudnia 1990 r. o rewaloryzacji emerytur i rent dla osób, które ukończyły 80 lat, oraz o zmianie niektórych przepisów o zaopatrzeniu emerytalnym.
 
 *USTAWA z dnia 14 grudnia 1990 r.*
 

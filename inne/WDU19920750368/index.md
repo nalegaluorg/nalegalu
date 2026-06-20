@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o izbach gospodarczych
+# Ustawa z dnia 30 lipca 1992 r. o zmianie ustawy o izbach gospodarczych.
 
 | Pole | Wartość |
 |---|---|

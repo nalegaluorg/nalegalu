@@ -465,7 +465,11 @@ source: pdf
 
 3. Zwolnienie, o którym mowa w ust. 1, jest równoznaczne z uzyskaniem z egzaminu ósmoklasisty z danego przedmiotu najwyższego wyniku.
 
-4. W przypadku gdy uczeń lub słuchacz uzyskał tytuł laureata lub finalisty, o których mowa w ust. 1, z innego języka obcego nowożytnego lub innego przedmiotu do wyboru, o którym mowa w art. 44zu ust. 3 pkt 4, niż ten, który został zadeklarowany, dyrektor szkoły, na wniosek rodziców ucznia lub na wniosek słuchacza, złożony nie później niż na 2 tygodnie przed terminem egzaminu ósmoklasisty, informuje okręgową komisję egzaminacyjną o zmianie języka obcego nowożytnego, jeżeli języka tego uczeń lub słuchacz uczy się w ramach obowiązkowych zajęć edukacyjnych, lub o zmianie przedmiotu do wyboru. Przepisy ust. 3 stosuje się odpowiednio. Art. 44zy. 1. Rodzice ucznia lub słuchacz składają dyrektorowi szkoły, nie później niż do dnia 30 września roku szkolnego, w którym jest przeprowadzany egzamin ósmoklasisty, pisemną deklarację:
+4. W przypadku gdy uczeń lub słuchacz uzyskał tytuł laureata lub finalisty, o których mowa w ust. 1, z innego języka obcego nowożytnego lub innego przedmiotu do wyboru, o którym mowa w art. 44zu ust. 3 pkt 4, niż ten, który został zadeklarowany, dyrektor szkoły, na wniosek rodziców ucznia lub na wniosek słuchacza, złożony nie później niż na 2 tygodnie przed terminem egzaminu ósmoklasisty, informuje okręgową komisję egzaminacyjną o zmianie języka obcego nowożytnego, jeżeli języka tego uczeń lub słuchacz uczy się w ramach obowiązkowych zajęć edukacyjnych, lub o zmianie przedmiotu do wyboru. Przepisy ust. 3 stosuje się odpowiednio.
+
+**Art. 44zy.**
+
+1. Rodzice ucznia lub słuchacz składają dyrektorowi szkoły, nie później niż do dnia 30 września roku szkolnego, w którym jest przeprowadzany egzamin ósmoklasisty, pisemną deklarację:
 
 - **1)** wskazującą język obcy nowożytny, z którego uczeń lub słuchacz przystąpi do egzaminu ósmoklasisty;
 - **2)** wskazującą przedmiot do wyboru, o którym mowa w art. 44zu ust. 3 pkt 4;
@@ -475,7 +479,12 @@ source: pdf
 
 - **1)** zmianie języka obcego nowożytnego wskazanego w deklaracji;
 - **2)** zmianie przedmiotu do wyboru, o którym mowa w art. 44zu ust. 3 pkt 4, wskazanego w deklaracji;
-- **3)** rezygnacji z przystąpienia do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów, o których mowa w art. 44zu ust. 3 pkt 2 i 4, w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym. Art. 44zz. 1. Uczeń lub słuchacz, który z przyczyn losowych lub zdrowotnych, w terminie głównym:
+- **3)** rezygnacji z przystąpienia do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów, o których mowa w art. 44zu ust. 3 pkt 2 i 4, w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
+
+**Art. 44zz.**
+
+1. Uczeń lub słuchacz, który z przyczyn losowych lub zdrowotnych, w terminie głównym:
+
 - **1)** nie przystąpił do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów albo
 - **2)** przerwał egzamin ósmoklasisty z danego przedmiotu lub przedmiotów – przystępuje do egzaminu z tego przedmiotu lub przedmiotów w terminie dodatkowym w szkole, której jest uczniem lub słuchaczem.
 

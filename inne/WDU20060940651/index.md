@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o spółdzielniach socjalnych
+# Ustawa z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych
 
 *USTAWA z dnia 27 kwietnia 2006 r.*
 
@@ -229,8 +229,7 @@ source: pdf
 - **1)** zwiększenia potencjału ekonomicznego i społecznego zrzeszonych spółdzielni socjalnych lub
 - **2)** wspólnego organizowania sieci produkcji, handlu lub usług, lub
 - **3)** organizowania wspólnej promocji działań spółdzielczych lub ekonomicznych, lub
-- **4)** promocji wspólnego znaku towarowego, o którym mowa w ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz.
-- **1170)** .
+- **4)** promocji wspólnego znaku towarowego, o którym mowa w ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170).
 
 2. Konsorcjum spółdzielcze może ubiegać się o udzielenie zamówienia na zasadzie wspólnego występowania w zamówieniach publicznych oraz zapytaniach ofertowych, do których nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
@@ -279,7 +278,9 @@ source: pdf
 
 **Art. 19a.** Rada Ministrów przedkłada Sejmowi i Senatowi Rzeczypospolitej Polskiej w okresach trzyletnich, w terminie do dnia 30 listopada, informacje o funkcjonowaniu spółdzielni socjalnych na podstawie danych przekazanych ministrowi właściwemu do spraw zabezpieczenia społecznego przez związki rewizyjne właściwe dla spółdzielczości socjalnej do dnia 31 grudnia roku poprzedzającego rok złożenia informacji.
 
-**Art. 20.** Rada Ministrów przedstawi Sejmowi Rzeczypospolitej Polskiej w terminie do dnia 30 czerwca 2008 r. sprawozdanie z działania ustawy za okres od dnia jej wejścia w życie do dnia 31 grudnia 2007 r. Art. 21–26. (pominięte)
+**Art. 20.** Rada Ministrów przedstawi Sejmowi Rzeczypospolitej Polskiej w terminie do dnia 30 czerwca 2008 r. sprawozdanie z działania ustawy za okres od dnia jej wejścia w życie do dnia 31 grudnia 2007 r.
+
+**Art. 21–26.** (pominięte)
 
 **Art. 27.**
 

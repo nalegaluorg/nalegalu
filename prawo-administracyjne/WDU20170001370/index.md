@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o postępowaniu przed sądami administracyjnymi
+# Ustawa z dnia 8 czerwca 2017 r. o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi
 
 *USTAWA z dnia 8 czerwca 2017 r.*
 

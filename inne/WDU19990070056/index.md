@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie nadania statutu Głównemu Inspektoratowi Inspekcji Handlowej.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 20 stycznia 1999 r. w sprawie nadania statutu Głównemu Inspektoratowi Inspekcji Handlowej.
 
 | Pole | Wartość |
 |---|---|

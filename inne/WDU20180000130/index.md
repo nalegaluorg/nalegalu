@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych
+# Ustawa z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych
 
 *USTAWA z dnia 11 stycznia 2018 r.*
 

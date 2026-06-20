@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o prawie autorskim i prawach pokrewnych
+# Ustawa z dnia 9 czerwca 2000 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych.
 
 *USTAWA z dnia 9 czerwca 2000 r.*
 

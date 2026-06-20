@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego
 
 | Pole | Wartość |
 |---|---|

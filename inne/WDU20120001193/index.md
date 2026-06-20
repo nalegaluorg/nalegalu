@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kredycie konsumenckim oraz ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
+# Ustawa z dnia 14 września 2012 r. o zmianie ustawy o kredycie konsumenckim oraz ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
 
 *USTAWA z dnia 14 września 2012 r.*
 

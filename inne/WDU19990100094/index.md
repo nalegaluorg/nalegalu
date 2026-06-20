@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie uznania miasta Sopot za uzdrowisko.
+# Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 27 stycznia 1999 r. w sprawie uznania miasta Sopot za uzdrowisko.
 
 | Pole | Wartość |
 |---|---|

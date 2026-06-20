@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych oraz niektórych innych ustaw
+# Ustawa z dnia 2 kwietnia 2009 r. o zmianie ustawy o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 2 kwietnia 2009 r.*
 

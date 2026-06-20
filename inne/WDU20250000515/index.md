@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o podstawowej opiece zdrowotnej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podstawowej opiece zdrowotnej
 
 | Pole | Wartość |
 |---|---|
@@ -35,7 +35,6 @@ poz. 1897), który stanowi: „Art. 41. Ustawa wchodzi w życie z dniem 1 styczn
 Marszałek Sejmu: wz. P. Zgorzelski
 USTAWA z dnia 27 października 2017 r.
 o podstawowej opiece zdrowotnej
-Art. 25–32. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -314,6 +313,8 @@ Art. 25–32. (pominięte)
 **Art. 24.** Świadczeniodawca może brać udział w programach poprawy jakości z zakresu podstawowej opieki zdrowotnej, określonych przez instytut, o którym mowa w art. 15 ust. 2, których celem jest zapewnienie odpowiedniej jakości świadczeń zdrowotnych, bezpieczeństwa zdrowotnego świadczeniobiorców oraz uzyskanie efektu zdrowotnego.
 
 #### Rozdział 5 Przepisy zmieniające
+
+**Art. 25–32.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe, dostosowujące i końcowe
 

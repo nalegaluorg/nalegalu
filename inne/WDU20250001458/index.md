@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa
 
 | Pole | Wartość |
 |---|---|

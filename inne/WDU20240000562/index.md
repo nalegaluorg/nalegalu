@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Komitecie do Spraw Europejskich
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Komitecie do Spraw Europejskich
 
 | Pole | Wartość |
 |---|---|
@@ -96,7 +96,9 @@ o Komitecie do Spraw Europejskich
 
 2. Przewodniczący Komitetu przedstawia Radzie Ministrów półroczne sprawozdania z realizacji planu, o którym mowa w ust. 1.
 
-**Art. 8.** Obsługę Komitetu zapewnia urząd obsługujący ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej. Art. 9–16. (pominięte)
+**Art. 8.** Obsługę Komitetu zapewnia urząd obsługujący ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.
+
+**Art. 9–16.** (pominięte)
 
 **Art. 17.**
 

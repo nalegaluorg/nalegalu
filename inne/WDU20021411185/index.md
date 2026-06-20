@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty
+# Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o systemie oświaty.
 
 *USTAWA z dnia 27 lipca 2002 r.*
 

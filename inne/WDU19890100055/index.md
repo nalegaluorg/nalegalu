@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o scalaniu gruntów.
+# Ustawa z dnia 24 lutego 1989 r. o zmianie ustawy o scalaniu gruntów.
 
 *USTAWA z dnia 24 lutego 1989 r.*
 
@@ -121,7 +121,7 @@ source: pdf
 
 2. Uchwały, o których mowa w ust. 1 oraz w art. 9 ust. 1, są zebraniu zwołanym przez terenowy organ administracji państwowej. Zebraniu przewodniczy przedstawiciel tego organu. Uchwały większością trzech czwartych głosów w obecności co najmniej liczby uczestników scalenia. W razie niepodjęcia uchwały zwołanym w pierwszym terminie, za ważna uważa się uchwałę większością trzech czwartych głosów uczestników scalenia zebraniu zwołanym w drugim terminie.
 
-3. Każdemu uczestnikowi postępowania scaleniowego przysługuje głos. 4> W razie niepodjęcia uchwały, o której mowa w ust. 1, terenowy administracji państwowej, po rozpatrzeniu zgłoszonych zastrzeżeń, zasięgnięcia opinii rzeczoznawców oraz wprowadzeniu ewentualnych zmian, akceptuje szacunek gruntów, lasów oraz sadów, ogrodów, chmielników i innych upraw specjalnych w drodze postanowienia; art. 10 ust. 1 stosuje się odpowiednio. Na postanowienie służy
+3. Każdemu uczestnikowi postępowania scaleniowego przysługuje głos. 4 art. 10 ust. 1 stosuje się odpowiednio. Na postanowienie służy
 
 5. Dowodem jednomyślnego oszacowania gruntów przez uczestników wymiany lub ich zgody na dokonany przez rzeczoznawców lasów oraz sadów, ogrodów, chmielników i inny upraw specjalnych pisemne oświadczenia.
 

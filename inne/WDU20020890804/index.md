@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zniesieniu Generalnego Inspektora Celnego, o zmianie ustawy o kontroli skarbowej oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 7 czerwca 2002 r. o zniesieniu Generalnego Inspektora Celnego, o zmianie ustawy o kontroli skarbowej oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 7 czerwca 2002 r.*
 

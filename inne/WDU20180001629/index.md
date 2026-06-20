@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw
+# Ustawa z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej
 
 *USTAWA z dnia 5 lipca 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-08-24 |
 | Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001629) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1629/text.pdf) |
-
-Art. 61–124. (pominięte)
 
 #### Rozdział 1 Zakres spraw regulowanych ustawą
 
@@ -99,7 +97,7 @@ Art. 61–124. (pominięte)
 1. Przedsiębiorca może powołać zarządcę sukcesyjnego w ten sposób, że:
 
 - **1)** wskaże określoną osobę do pełnienia funkcji zarządcy sukcesyjnego albo
-- **2)** zastrzeże, że z chwilą jego śmierci wskazany prokurent stanie się zarządcą sukcesyjnym. [2. Powołanie zarządcy sukcesyjnego przez przedsiębiorcę oraz wyrażenie zgody osoby powołanej na zarządcę sukcesyjnego na pełnienie tej funkcji w przypadkach, o których mowa w ust. 1, wymagają zachowania formy pisemnej pod rygorem nieważności.] <2. Powołanie zarządcy sukcesyjnego przez przedsiębiorcę oraz wyrażenie zgody osoby powołanej na zarządcę sukcesyjnego na pełnienie tej funkcji w przypadkach, o których mowa w ust. 1, a także złożenie przez osobę powołaną na zarządcę sukcesyjnego oświadczenia o braku prawomocnie orzeczonych wobec niej zakazów, o których mowa w art. 8 ust. 2, wymagają zachowania formy pisemnej pod rygorem nieważności.>
+- **2)** zastrzeże, że z chwilą jego śmierci wskazany prokurent stanie się zarządcą sukcesyjnym. [2. Powołanie zarządcy sukcesyjnego przez przedsiębiorcę oraz wyrażenie zgody osoby powołanej na zarządcę sukcesyjnego na pełnienie tej funkcji w przypadkach, o których mowa w ust. 1, wymagają zachowania formy pisemnej pod rygorem nieważności.] <2. Powołanie zarządcy sukcesyjnego przez przedsiębiorcę oraz wyrażenie zgody osoby powołanej na zarządcę sukcesyjnego na pełnienie tej funkcji w przypadkach, o których mowa w ust. 1, a także złożenie przez osobę powołaną na zarządcę sukcesyjnego oświadczenia o braku prawomocnie orzeczonych wobec niej zakazów, o których mowa w art. 8 ust. 2, wymagają zachowania formy pisemnej pod rygorem nieważności.
 
 **Art. 10.** Jeżeli przedsiębiorca nie złożył wniosku o wpis do CEIDG zarządcy sukcesyjnego, po śmierci przedsiębiorcy zarząd sukcesyjny może zostać ustanowiony wyłącznie w wyniku powołania zarządcy sukcesyjnego na podstawie art. 12.
 
@@ -574,6 +572,8 @@ Art. 61–124. (pominięte)
 **Art. 60j.** Pożytki i inne przychody z praw z udziału małżonka przedsiębiorcy w przedsiębiorstwie pomniejsza się o wydatki i ciężary związane z tymi prawami.
 
 #### Rozdział 12 Zmiany w przepisach
+
+**Art. 61–124.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i przepis końcowy
 

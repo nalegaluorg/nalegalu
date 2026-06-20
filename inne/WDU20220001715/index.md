@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o transporcie materiałów niebezpiecznych drogą powietrzną
+# Ustawa z dnia 5 sierpnia 2022 r. o transporcie materiałów niebezpiecznych drogą powietrzną
 
 *USTAWA z dnia 5 sierpnia 2022 r.*
 

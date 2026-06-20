@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustawy o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz niektórych innych ustaw
+# Ustawa z dnia 26 czerwca 2009 r. o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustawy o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 26 czerwca 2009 r.*
 

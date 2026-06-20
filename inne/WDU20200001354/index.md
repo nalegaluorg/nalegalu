@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wyścigach konnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 lipca 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wyścigach konnych
 
 | Pole | Wartość |
 |---|---|

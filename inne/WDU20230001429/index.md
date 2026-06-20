@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu wspierającym
+# Ustawa z dnia 7 lipca 2023 r. o świadczeniu wspierającym
 
 *USTAWA z dnia 7 lipca 2023 r.*
 

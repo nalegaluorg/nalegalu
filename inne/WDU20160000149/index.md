@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kontroli niektórych inwestycji
+# Ustawa z dnia 29 stycznia 2016 r. o zmianie ustawy o kontroli niektórych inwestycji
 
 *USTAWA z dnia 29 stycznia 2016 r.*
 

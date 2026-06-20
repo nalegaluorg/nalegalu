@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie informacji niejawnych
+# Ustawa z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych
 
 *USTAWA z dnia 5 sierpnia 2010 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2010-10-01 |
 | Ostatnia zmiana | 2025-09-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101821228) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1228/text.pdf) |
-
-Art. 74–180. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1392,6 +1390,8 @@ Art. 74–180. (pominięte)
 3. Dane z ewidencji, o których mowa w ust. 1, oraz wykazów, o których mowa w art. 15 ust. 1 pkt 8, są udostępniane na pisemne żądanie wyłącznie w przypadkach określonych w art. 72 ust. 1 pkt 1 i 3–5 oraz służbom i instytucjom uprawnionym do realizacji poszerzonych postępowań sprawdzających dla celów postępowania sprawdzającego oraz postępowania bezpieczeństwa przemysłowego.
 
 #### Rozdział 11 Zmiany w przepisach obowiązujących
+
+**Art. 74–180.** (pominięte)
 
 #### Rozdział 12 Przepisy przejściowe i końcowe
 

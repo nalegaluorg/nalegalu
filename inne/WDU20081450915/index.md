@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku akcyzowym oraz ustawy o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina
+# Ustawa z dnia 10 lipca 2008 r. o zmianie ustawy o podatku akcyzowym oraz ustawy o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina
 
 *USTAWA z dnia 10 lipca 2008 r.*
 

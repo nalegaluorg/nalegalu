@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 4 września 2008 r. o zmianie ustawy - Prawo zamówień publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 4 września 2008 r.*
 

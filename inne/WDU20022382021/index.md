@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o usługach detektywistycznych oraz ustawy - Prawo o ruchu drogowym
+# Ustawa z dnia 5 grudnia 2002 r. o zmianie ustawy o usługach detektywistycznych oraz ustawy - Prawo o ruchu drogowym.
 
 *USTAWA z dnia 5 grudnia 2002 r.*
 

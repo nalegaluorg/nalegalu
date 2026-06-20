@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks wyborczy
+# Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy - Kodeks wyborczy
 
 *USTAWA z dnia 25 czerwca 2015 r.*
 

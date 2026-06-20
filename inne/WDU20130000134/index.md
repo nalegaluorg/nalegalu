@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo lotnicze
+# Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy - Prawo lotnicze
 
 *USTAWA z dnia 7 grudnia 2012 r.*
 

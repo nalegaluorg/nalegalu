@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo energetyczne oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 8 stycznia 2010 r. o zmianie ustawy - Prawo energetyczne oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 8 stycznia 2010 r.*
 

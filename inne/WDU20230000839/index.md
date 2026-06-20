@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wykonaniu Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony, w zakresie współpracy w sprawach karnych
+# Ustawa z dnia 14 kwietnia 2023 r. o wykonaniu Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony, w zakresie współpracy w sprawach karnych
 
 *USTAWA z dnia 14 kwietnia 2023 r.*
 

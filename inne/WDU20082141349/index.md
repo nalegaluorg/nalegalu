@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 24 października 2008 r. o zmianie ustawy o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 24 października 2008 r.*
 

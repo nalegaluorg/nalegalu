@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie algorytmu wyrównania finansowego dokonywanego między Kasami Chorych oraz wysokości procentowej przewidywanych przychodów, które nie są uwzględnione w wyrównaniu.
+# Rozporządzenie Rady Ministrów z dnia 30 sierpnia 1999 r. zmieniające rozporządzenie w sprawie algorytmu wyrównania finansowego dokonywanego między Kasami Chorych oraz wysokości procentowej przewidywanych przychodów, które nie są uwzględnione w wyrównaniu.
 
 | Pole | Wartość |
 |---|---|

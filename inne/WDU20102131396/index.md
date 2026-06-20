@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej
+# Ustawa z dnia 8 października 2010 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej
 
 *USTAWA z dnia 8 października 2010 r.*
 

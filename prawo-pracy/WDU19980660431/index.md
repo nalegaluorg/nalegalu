@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw, a także o zmianie ustaw: o zaopatrzeniu emerytalnym pracowników kolejowych i ich rodzin oraz o zatrudnieniu i przeciwdziałaniu bezrobociu
+# Ustawa z dnia 8 maja 1998 r. zmieniająca ustawę o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw, a także o zmianie ustaw: o zaopatrzeniu emerytalnym pracowników kolejowych i ich rodzin oraz o zatrudnieniu i przeciwdziałaniu bezrobociu.
 
 *USTAWA z dnia 8 maja 1998 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 października 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu działalności naukowej z Funduszu Polskiej Nauki
 
 *USTAWA z dnia 4 kwietnia 2019 r.*
 
@@ -124,9 +124,7 @@ source: pdf
 - **2)** doświadczenie podmiotu składającego ofertę w zakresie zarządzania projektami obejmującymi prowadzenie działalności naukowej;
 - **3)** przewidywaną wysokość kosztów realizacji zadań podmiotu zarządzającego.
 
-6. Do wyboru podmiotu zarządzającego nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz.
-
-- **1320)** .
+6. Do wyboru podmiotu zarządzającego nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320).
 
 7. Minister podaje do publicznej wiadomości, w drodze komunikatu ogłoszonego w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, informację o podmiocie zarządzającym wyłonionym w trybie wskazanym w ust. 1.
 
@@ -248,7 +246,9 @@ source: pdf
 
 - **2)** przychody Funduszu.
 
-2. Plan finansowy Funduszu stanowi podstawę dokonywania wypłat ze środków Funduszu, a także podstawę do zaciągnięcia kredytów i pożyczek oraz przeprowadzenia emisji obligacji, o których mowa w art. 2 pkt 5. Art. 17–19. (pominięte)
+2. Plan finansowy Funduszu stanowi podstawę dokonywania wypłat ze środków Funduszu, a także podstawę do zaciągnięcia kredytów i pożyczek oraz przeprowadzenia emisji obligacji, o których mowa w art. 2 pkt 5.
+
+**Art. 17–19.** (pominięte)
 
 **Art. 20.**
 

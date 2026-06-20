@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uruchamianiu środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej
+# Ustawa z dnia 30 lipca 2003 r. o uruchamianiu środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej
 
 *USTAWA z dnia 30 lipca 2003 r.*
 

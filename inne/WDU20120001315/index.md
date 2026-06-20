@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o radiofonii i telewizji
+# Ustawa z dnia 12 października 2012 r. o zmianie ustawy o radiofonii i telewizji
 
 *USTAWA z dnia 12 października 2012 r.*
 

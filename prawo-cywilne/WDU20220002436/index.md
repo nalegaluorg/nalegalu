@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowym Rejestrze Sądowym, ustawy – Kodeks postępowania cywilnego oraz ustawy – Kodeks spółek handlowych
+# Ustawa z dnia 4 listopada 2022 r. o zmianie ustawy o Krajowym Rejestrze Sądowym, ustawy - Kodeks postępowania cywilnego oraz ustawy - Kodeks spółek handlowych
 
 *USTAWA z dnia 4 listopada 2022 r.*
 

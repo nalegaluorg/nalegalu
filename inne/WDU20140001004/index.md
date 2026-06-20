@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+# Ustawa z dnia 26 czerwca 2014 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw
 
 *USTAWA z dnia 26 czerwca 2014 r.*
 

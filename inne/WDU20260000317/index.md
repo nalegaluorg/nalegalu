@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu ochrony polskiego rolnictwa
+# Ustawa z dnia 23 stycznia 2026 r. o zmianie niektórych ustaw w celu ochrony polskiego rolnictwa
 
 *USTAWA z dnia 23 stycznia 2026 r.*
 

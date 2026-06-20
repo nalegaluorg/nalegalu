@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie instytucji rozwoju
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie instytucji rozwoju
 
 *USTAWA z dnia 4 lipca 2019 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2026-01-07 |
 | Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/9/text.pdf) |
-
-Art. 22–32. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -559,7 +557,11 @@ Art. 22–32. (pominięte)
 
 8. Minister właściwy do spraw gospodarki w odniesieniu do danych osobowych zgromadzonych na podstawie ust. 6 jest administratorem w rozumieniu art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
 
-9. Do ochrony danych uzyskanych przez ministra właściwego do spraw gospodarki na podstawie ust. 6, stanowiących tajemnice prawnie chronione lub informacje poufne w rozumieniu przepisów odrębnych, stosuje się przepisy regulujące zasady ochrony tych tajemnic lub informacji poufnych. Art. 21aa. 1. Polski Fundusz Rozwoju, w celu realizacji rządowego programu udzielania wsparcia finansowego, o którym mowa w art. 21a ust. 1, może:
+9. Do ochrony danych uzyskanych przez ministra właściwego do spraw gospodarki na podstawie ust. 6, stanowiących tajemnice prawnie chronione lub informacje poufne w rozumieniu przepisów odrębnych, stosuje się przepisy regulujące zasady ochrony tych tajemnic lub informacji poufnych.
+
+**Art. 21aa.**
+
+1. Polski Fundusz Rozwoju, w celu realizacji rządowego programu udzielania wsparcia finansowego, o którym mowa w art. 21a ust. 1, może:
 
 - **1)** emitować obligacje na rynku krajowym i na rynkach zagranicznych;
 - **2)** wykorzystać środki pochodzące ze zwrotów lub spłat wsparcia finansowego udzielonego ze środków przeznaczonych na realizację rządowego programu udzielania wsparcia finansowego, o którym mowa w art. 21a ust. 1, oraz inne przychody osiągane w związku z gospodarowaniem tymi środkami.
@@ -574,7 +576,11 @@ Art. 22–32. (pominięte)
 
 6. Rada Ministrów, na wniosek Polskiego Funduszu Rozwoju, uwzględniając cele programu, o którym mowa w art. 21a ust. 1, umarza wierzytelności Skarbu Państwa, powstałe z tytułu gwarancji, o której mowa w ust. 2, w całości lub części nie pokrytej wpływami Polskiego Funduszu Rozwoju uzyskanymi w związku z realizacją programu rozliczanego na podstawie ewidencji, o której mowa w art. 21a ust. 5, oraz sprawozdań, o których mowa w art. 21a ust. 2.
 
-7. Do emisji przez Polski Fundusz Rozwoju obligacji, o których mowa w ust. 1, stosuje się odpowiednio art. 39p–39w ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym. Art. 21ab. 1. W celu realizacji rządowego programu udzielania przedsiębiorcom lub innym podmiotom wsparcia finansowego, o którym mowa w art. 21a ust. 1, Polski Fundusz Rozwoju lub wojewoda mogą uzyskiwać nieodpłatnie dane:
+7. Do emisji przez Polski Fundusz Rozwoju obligacji, o których mowa w ust. 1, stosuje się odpowiednio art. 39p–39w ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
+
+**Art. 21ab.**
+
+1. W celu realizacji rządowego programu udzielania przedsiębiorcom lub innym podmiotom wsparcia finansowego, o którym mowa w art. 21a ust. 1, Polski Fundusz Rozwoju lub wojewoda mogą uzyskiwać nieodpłatnie dane:
 
 - **1)** z systemów teleinformatycznych ministra właściwego do spraw finansów publicznych oraz organów Krajowej Administracji Skarbowej, w tym dane, informacje i dokumenty, o których mowa w dziale IIIB ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), dokumenty, o których mowa w art. 193a § 1 i § 2 tej ustawy, oraz informacje o wynikach kontroli podatkowych lub czynności sprawdzających prowadzonych przez organy Krajowej Administracji Skarbowej;
 - **2)** ze zbiorów danych, w tym zbiorów danych osobowych prowadzonych przez organy władzy publicznej oraz państwowe jednostki organizacyjne;
@@ -594,7 +600,11 @@ Art. 22–32. (pominięte)
 
 5. Polski Fundusz Rozwoju przetwarza dane osobowe uzyskane na podstawie ust. 1 i 2 przez okres, w którym są one niezbędne do wykonywania zadań spółki. Polski Fundusz Rozwoju dokonuje, nie rzadziej niż raz w roku, weryfikacji potrzeby dalszego przetwarzania tych danych, usuwając lub anonimizując dane, które nie są wymagane w związku z ustalonym celem.
 
-6. W przypadku gdy Polski Fundusz Rozwoju realizuje rządowy program udzielania przedsiębiorcom lub innym podmiotom wsparcia finansowego, o którym mowa w art. 21a ust. 1, przy współudziale innych podmiotów, w tym w szczególności wojewody, podmioty te oraz osoby działające w ich imieniu uzyskują dostęp do informacji objętych tajemnicami prawnie chronionymi, w tym tajemnicą skarbową w zakresie, w jakim jest to niezbędne do realizacji tego programu. Przepisy ust. 4 i 5 stosuje się odpowiednio. Art. 21ac. 1. W celu realizacji rządowego programu udzielania przedsiębiorcom lub innym podmiotom wsparcia finansowego, o którym mowa w art. 21a ust. 1, w tym w szczególności w celu weryfikacji prawidłowości udzielenia wsparcia finansowego, Polski Fundusz Rozwoju lub właściwy wojewoda, o którym mowa w art. 21a ust. 5b, przetwarza dane osób fizycznych będących przedsiębiorstwami powiązanymi lub przedsiębiorstwami partnerskimi w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu wobec przedsiębiorcy lub innego podmiotu, który skorzystał ze wsparcia finansowego, o którym mowa w art. 21a ust. 1.
+6. W przypadku gdy Polski Fundusz Rozwoju realizuje rządowy program udzielania przedsiębiorcom lub innym podmiotom wsparcia finansowego, o którym mowa w art. 21a ust. 1, przy współudziale innych podmiotów, w tym w szczególności wojewody, podmioty te oraz osoby działające w ich imieniu uzyskują dostęp do informacji objętych tajemnicami prawnie chronionymi, w tym tajemnicą skarbową w zakresie, w jakim jest to niezbędne do realizacji tego programu. Przepisy ust. 4 i 5 stosuje się odpowiednio.
+
+**Art. 21ac.**
+
+1. W celu realizacji rządowego programu udzielania przedsiębiorcom lub innym podmiotom wsparcia finansowego, o którym mowa w art. 21a ust. 1, w tym w szczególności w celu weryfikacji prawidłowości udzielenia wsparcia finansowego, Polski Fundusz Rozwoju lub właściwy wojewoda, o którym mowa w art. 21a ust. 5b, przetwarza dane osób fizycznych będących przedsiębiorstwami powiązanymi lub przedsiębiorstwami partnerskimi w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu wobec przedsiębiorcy lub innego podmiotu, który skorzystał ze wsparcia finansowego, o którym mowa w art. 21a ust. 1.
 
 2. Polski Fundusz Rozwoju wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 oraz art. 14 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), w stosunku do przedsiębiorców lub innych podmiotów, którzy skorzystali ze wsparcia finansowego, o którym mowa w art. 21a ust. 1, oraz osób fizycznych, o których mowa w ust. 1, przez udostępnienie informacji, wskazanych w tych przepisach, na stronie internetowej Polskiego Funduszu Rozwoju.
 
@@ -624,6 +634,8 @@ Art. 22–32. (pominięte)
 6. Do emisji skarbowych papierów wartościowych, o których mowa w ust. 7, nie stosuje się przepisów art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz przepisów wydanych na podstawie art. 97 tej ustawy.
 
 #### Rozdział 4 Zmiany w przepisach
+
+**Art. 22–32.** (pominięte)
 
 #### Rozdział 5 Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 

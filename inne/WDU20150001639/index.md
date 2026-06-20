@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o grach hazardowych
+# Ustawa z dnia 11 września 2015 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o grach hazardowych
 
 *USTAWA z dnia 11 września 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa
+# Ustawa z dnia 8 listopada 2024 r. zmieniająca ustawę o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa
 
 *USTAWA z dnia 8 listopada 2024 r.*
 

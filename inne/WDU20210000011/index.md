@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa
+# Ustawa z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa
 
 *USTAWA z dnia 10 grudnia 2020 r.*
 
@@ -26,74 +26,6 @@ source: pdf
 | Data wydania | 2021-01-04 |
 | Ostatnia zmiana | 2024-12-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000011) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/11/text.pdf) |
-
-Art. 33da. 1. Wpłacona przez osobę fizyczną partycypacja w kosztach budowy lokalu mieszkalnego wybudowanego przy wykorzystaniu kredytu:
-1) o którym mowa w art. 15a ust. 1 albo
-2) udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosku złożonego do dnia 30 września 2009 r.
-– podlega rozliczeniu.
-2. Rozliczenie partycypacji następuje na wniosek najemcy złożony nie wcześniej niż po dniu całkowitej spłaty kredytu przy wykorzystaniu którego wybudowano lokal mieszkalny.
-3. Rozliczenie partycypacji następuje na zasadach określonych w zawartej między najemcą a SIM umowie najmu:
-1) uwzględniającej okresowe rozliczenie partycypacji;
-2) uwzględniającej całkowite rozliczenie partycypacji albo
-3) instytucjonalnego lokalu z dojściem do własności, o której mowa w art. 19k ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, uwzględniającej rozliczenie partycypacji, zwanej dalej „umową najmu instytucjonalnego z dojściem do własności”.
-Art. 33db. 1. Z wnioskiem o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą rozliczenie partycypacji może wystąpić do SIM najemca:
-1) będący przez co najmniej 5 lat stroną obowiązującej umowy w sprawie partycypacji w kosztach budowy tego lokalu oraz
-2) niezalegający w okresie co najmniej 5 lat poprzedzających złożenie wniosku z:
-a) zapłatą czynszu, o którym mowa w art. 28 ust. 1,
-b) opłatami z tytułu kosztów, o których mowa w art. 28 ust. 3 pkt 2,
-c) opłatami niezależnymi od SIM a przez nie pobieranymi – za miesiąc przez łączny okres nie dłuższy niż 3 miesiące.
-2. W terminie 30 dni od dnia otrzymania wniosku SIM przedstawia najemcy na piśmie warunki umowy najmu uwzględniającej rozliczenie partycypacji i wyznacza mu termin, nie krótszy niż 30 dni od dnia otrzymania tych warunków, na ich przyjęcie albo zgłoszenie uwag.
-3. Uwagi najemcy zgłoszone do warunków umowy najmu uwzględniającej rozliczenie partycypacji SIM rozpatruje w terminie 14 dni od dnia ich otrzymania, a następnie informuje najemcę na piśmie o sposobie ich rozpatrzenia wyznaczając mu termin, nie krótszy niż 14 dni od dnia otrzymania tej informacji, na przyjęcie warunków. Brak oświadczenia najemcy w wyznaczonym terminie o przyjęciu warunków umowy najmu uwzględniającej rozliczenie partycypacji jest równoznaczny z nieprzyjęciem tych warunków.
-4. Nieprzyjęcie przez najemcę warunków umowy najmu uwzględniającej rozliczenie partycypacji w wyznaczonym terminie oznacza wycofanie wniosku. Z ponownym wnioskiem najemca może wystąpić nie wcześniej niż po upływie 12 miesięcy od dnia wycofania wniosku.
-Art. 33dc. Wniosek o zmianę dotychczasowej umowy najmu na umowę, o której mowa w art. 33da ust. 3 pkt 1 lub 2, SIM może odrzucić, jeżeli przez okres co najmniej 5 lat poprzedzających dzień spłaty kredytu udzielonego na realizację przedsięwzięcia inwestycyjno-budowlanego pobierało od najemcy czynsz nieprzekraczający w skali roku:
-1) 3,5% wartości odtworzeniowej, o której mowa w art. 28 ust. 2 pkt 1 – w przypadku lokali mieszalnych, o których mowa w art. 28 ust. 2 pkt 1;
-2) 4,5% wartości odtworzeniowej, o której mowa w art. 28 ust. 2 pkt 1 – w przypadku lokali mieszalnych, o których mowa w art. 28 ust. 2 pkt 2.
-Art. 33dd. 1. Rozliczenie partycypacji w ramach umowy najmu uwzględniającej okresowe rozliczenie partycypacji następuje w częściach zaliczanych na poczet czynszu miesięcznego najemcy przez okres określony w umowie najmu uwzględniającej to rozliczenie.
-2. W przedstawionych warunkach umowy najmu uwzględniającej okresowe rozliczenie partycypacji SIM wskazuje:
-1) proponowaną wysokość części zaliczanej na poczet czynszu miesięcznego najemcy, nie niższą niż ustalona według stanu na dzień złożenia wniosku kwota obliczona według wzoru: gdzie poszczególne symbole oznaczają: P – część partycypacji, zaliczaną przez SIM na poczet czynszu miesięcznego najemcy w okresie użytkowania lokalu na postawie umowy najmu uwzględniającej okresowe rozliczenie partycypacji, R – średnią miesięczną wysokość raty spłaty kredytu udzielonego na realizację przedsięwzięcia inwestycyjno-budowlanego w okresie ostatnich 12 miesięcy spłaty tego kredytu, przypadającą na lokal, którego dotyczy rozliczenie partycypacji, C – średni miesięczny czynsz za najem lokalu, którego dotyczy rozliczenie partycypacji, w okresie ostatnich 60 miesięcy;
-2) proponowany okres rozliczania partycypacji w ramach umowy najmu uwzględniającej okresowe rozliczenie partycypacji, nie dłuższy niż 180 miesięcy;
-3) proponowaną kwotę partycypacji w kosztach budowy lokalu mieszkalnego po upływie okresu rozliczania partycypacji zgodnie z propozycjami określonymi w pkt 1 i 2, obliczoną według wzoru: gdzie poszczególne symbole oznaczają: P – nową kwotę partycypacji najemcy w kosztach budowy lokalu mieszkalnego po zakończeniu okresu rozliczania w ramach umowy najmu uwzględniającej okresowe rozliczenie partycypacji, P – kwotę wpłaconej partycypacji, C – średnią arytmetyczną czterech kolejnych wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r.
-o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych dla kwartałów poprzedzających kwartał, w którym najemca złożył wniosek o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą okresowe rozliczenie partycypacji, C – średnią arytmetyczną wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego dla kwartału, w którym nastąpiło zawarcie umowy w sprawie partycypacji w kosztach budowy lokalu mieszkalnego, oraz dla trzech poprzedzających ten kwartał okresów kwartalnych, n – liczbę pełnych kwartałów przypadających w okresie od dnia zawarcia umowy najmu lokalu do dnia, w którym najemca złożył wniosek o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą okresowe rozliczenie partycypacji, P – proponowaną miesięczną kwotę partycypacji, zaliczaną przez SIM na poczet czynszu miesięcznego najemcy w okresie użytkowania lokalu na podstawie umowy najmu uwzględniającej okresowe rozliczenie partycypacji, k – liczbę miesięcy w proponowanym okresie rozliczania partycypacji.
-Art. 33de. Kwota partycypacji określona w umowie najmu uwzględniającej okresowe rozliczenie partycypacji obliczana jest według wzoru, o którym mowa w art. 33dd ust. 2 pkt 3, na podstawie określonych w tej umowie:
-1) wysokości miesięcznej kwoty partycypacji, jaka jest zaliczana przez SIM na poczet czynszu miesięcznego najemcy;
-2) liczby miesięcy w przyjętym okresie rozliczania partycypacji.
-Art. 33df. 1. W przypadku rozwiązania przez najemcę umowy najmu uwzględniającej okresowe rozliczenie partycypacji i opróżnienia lokalu po upływie okresu rozliczania partycypacji, kwota partycypacji, o której mowa w art. 33dd ust. 2 pkt 3, podlega zwrotowi najemcy nie później niż w terminie 12 miesięcy od dnia opróżnienia lokalu.
-2. W przypadku rozwiązania przez najemcę umowy najmu uwzględniającej okresowe rozliczenie partycypacji i opróżnienia lokalu przed upływem okresu rozliczania partycypacji, kwotę zwracanej najemcy partycypacji SIM powiększa o łączną kwotę miesięcznych kwot partycypacji, jakie miały być zaliczane na poczet czynszu miesięcznego najemcy w pozostałych miesiącach okresu rozliczeniowego zgodnie z tą umową.
-3. SIM może pobrać od nowego najemcy lokalu mieszkalnego opróżnionego w sposób, o którym mowa w ust. 1 albo 2, kwotę partycypacji w wysokości nie większej niż kwota wypłacona poprzedniemu najemcy.
-Art. 33dg. Osoby wstępujące w stosunek najmu po śmierci najemcy będącego stroną umowy najmu uwzględniającej okresowe rozliczenie partycypacji wstępują w ten stosunek na zasadach określonych w tej umowie.
-Art. 33dh. Z wnioskiem o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą całkowite rozliczenie partycypacji może wystąpić do SIM najemca, który poza spełnieniem warunków, o których mowa w art. 33db ust. 1, osiągnął wiek emerytalny, o którym mowa w art. 24 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2020 r. poz. 53, 252, 568, 1222 i 1578).
-Art. 33di. 1. Rozliczenie partycypacji w ramach umowy najmu uwzględniającej całkowite rozliczenie partycypacji następuje w częściach zaliczanych na poczet czynszu miesięcznego najemcy do dnia wygaśnięcia jego praw jako strony umowy najmu.
-2. W przedstawionych warunkach umowy najmu uwzględniającej całkowite rozliczenie partycypacji SIM wskazuje proponowaną wysokość części zaliczanej na poczet czynszu miesięcznego najemcy, nie niższą niż 80% ustalonej według stanu na dzień złożenia wniosku kwoty obliczonej zgodnie z wzorem, o którym mowa w art. 33dd ust. 2 pkt 1.
-Art. 33dj. Osoby wstępujące w stosunek najmu po śmierci najemcy będącego stroną umowy najmu uwzględniającej całkowite rozliczenie partycypacji wstępują w ten stosunek na zasadach określonych w tej umowie wyłącznie w przypadku zamieszkiwania w lokalu będącym przedmiotem tej umowy przez cały okres jej obowiązywania, a w dniu zawierania tej umowy osiągnęły wiek emerytalny, o którym mowa w art. 24 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-Art. 33dk. Z wnioskiem o zmianę dotychczasowej umowy najmu na umowę najmu instytucjonalnego z dojściem do własności uwzględniającej rozliczenie partycypacji może wystąpić do SIM najemca, który poza spełnieniem warunków, o których mowa w art. 33db ust. 1, partycypował w kosztach budowy lokalu w wysokości nie niższej niż:
-1) 20% kosztów budowy tego lokalu – w przypadku lokalu wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego zlokalizowanego poza obszarem miasta będącego siedzibą wojewody lub sejmiku województwa albo miasta na prawach powiatu liczącego powyżej 100 tys. mieszkańców albo
-2) 25% kosztów budowy tego lokalu – w przypadku lokalu wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego zlokalizowanego w obszarze miasta będącego siedzibą wojewody lub sejmiku województwa albo miasta na prawach powiatu liczącego powyżej 100 tys. mieszkańców – chyba że statut SIM przewiduje niższą wysokość partycypacji uprawniającą do jej rozliczenia na zasadach niniejszego oddziału.
-Art. 33dl. 1. Rozliczenie partycypacji w ramach najmu instytucjonalnego z dojściem do własności następuje w częściach zaliczanych na poczet comiesięcznych rat, o których mowa w art. 19l ust. 4 pkt 4 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego. Rozliczenia partycypacji dokonuje się z dniem, w którym łączna, zaliczona w tym trybie na poczet rat kwota, osiągnie równowartość kwoty tej partycypacji.
-2. W przypadku zmiany umowy najmu na umowę najmu instytucjonalnego z dojściem do własności cenę lokalu mieszkalnego stanowi wartość rynkowa tego lokalu ustalona zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2020 r.
-poz. 1990 oraz z 2021 r. poz. 11), jednak nie wyższa niż obliczona według wzoru: C = Pz / u, gdzie poszczególne symbole oznaczają: C – cenę lokalu mieszkalnego, Pz – kwotę zwracanej partycypacji, ustaloną według stanu na dzień złożenia wniosku i obliczoną według wzoru określonego w art. 29a ust. 3, u – udział kwoty partycypacji w kosztach budowy lokalu mieszkalnego.
-3. Określony w zawieranej umowie najmu instytucjonalnego z dojściem do własności termin dojścia do własności może upływać wcześniej niż 10 lat od dnia zawarcia umowy wyłącznie z inicjatywy wnioskodawcy.
-4. W przypadku lokalu wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego, z którego realizacją było związane zawarcie umowy, o której mowa w art. 5 ust. 2 ustawy z dnia 8 grudnia 2006 r.
-o finansowym wsparciu tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla bezdomnych, ogrzewalni i tymczasowych pomieszczeń, określony w zawieranej umowie najmu instytucjonalnego z dojściem do własności termin dojścia do tej własności nie może upływać wcześniej niż w terminie wynikającym z art. 7e tej ustawy.
-Art. 33dm. W zakresie nieuregulowanym przepisami niniejszego oddziału do ustanowienia odrębnej własności lokalu na skutek zmiany umowy najmu na umowę najmu instytucjonalnego z dojściem do własności uwzględniającą rozliczenie partycypacji, stosuje się przepisy art. 33ea–33j.”;
-18) uchyla się art. 33e;
-19) po art. 33e dodaje się art. 33ea w brzmieniu: „Art. 33ea. 1. Przeniesienie przez SIM na najemcę własności lokalu mieszkalnego wybudowanego przy wykorzystaniu finansowania zwrotnego albo wybudowanego przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosku złożonego do dnia 30 września 2009 r. może nastąpić wyłącznie na zasadach określonych w niniejszym rozdziale albo oddziale 1 i oddziale 4 rozdziału 4aa.
-2. Przepisy niniejszego rozdziału stosuje się wyłącznie do osób fizycznych będących przez co najmniej 5 lat stronami obowiązującej umowy w sprawie partycypacji w kosztach budowy wynajmowanego przez nie lokalu.
-3. Przeniesienie na najemcę własności lokalu mieszkalnego wybudowanego przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosku złożonego do dnia 30 września 2009 r. obejmuje przeniesienie na najemcę własności pomieszczenia przynależnego do tego lokalu.
-4. Przeniesienie na najemcę własności lokalu mieszkalnego wybudowanego przy wykorzystaniu finansowania zwrotnego obejmuje przeniesienie na najemcę własności pomieszczenia przynależnego do tego lokalu, chyba że SIM i najemca zdecydują inaczej.
-5. Przeniesienie na najemcę własności garażu lub udziału w garażu wielostanowiskowym, wybudowanego przy wykorzystaniu finansowania zwrotnego może nastąpić po uprzedniej spłacie części zadłużenia kredytowego, przypadającego na ten garaż lub udział w garażu wielostanowiskowym, z uwzględnieniem art. 33f ust. 3.”;
-20) w art. 33f:
-a) uchyla się ust. 1,
-b) po ust. 1 dodaje się ust. 1a–1d w brzmieniu: „1a. Najemca może wystąpić do SIM z wnioskiem o przeniesienie na niego własności lokalu mieszkalnego po upływie 5 lat od dnia, w którym wydano pozwolenie na użytkowanie budynku, w którym znajduje się ten lokal.
-1b. W przypadku lokalu mieszkalnego wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego, na którego pokrycie części kosztów udzielono finansowego wsparcia, o którym mowa w art. 5 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla bezdomnych, ogrzewalni i tymczasowych pomieszczeń, z wnioskiem o przeniesienie własności lokalu najemca może wystąpić po upływie 15 lat od dnia rozliczenia kosztów przedsięwzięcia.
-1c. Decyzję o wyodrębnieniu na własność lokalu mieszkalnego podejmuje zgromadzenie wspólników, walne zgromadzenie akcjonariuszy albo walne zgromadzenie SIM.
-1d. W przypadku podjęcia decyzji o wyodrębnieniu na własność lokalu mieszkalnego przeniesienie własności tego lokalu na najemcę następuje w drodze umowy sprzedaży. Cena lokalu nie może być niższa niż jego wartość rynkowa ustalona zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.”,
-c) ust. 2 i 3 otrzymują brzmienie: „2. Cena lokalu mieszkalnego uwzględnia pokrycie wszystkich zobowiązań przypadających na ten lokal, w tym spłatę odpowiedniej części zadłużenia kredytowego SIM wraz z odsetkami i koszty wyceny nieruchomości, a w przypadku lokalu mieszkalnego wybudowanego w ramach przedsięwzięcia, na które Bank Gospodarstwa Krajowego udzielił kredytu na podstawie wniosku złożonego do dnia 30 września 2009 r., także spłatę przypadającej na ten lokal mieszkalny części umorzenia kredytu w kwocie nominalnej.
-3. Na wniosek SIM Bank Gospodarstwa Krajowego, w terminie 30 dni od dnia otrzymania wniosku, ustala wysokość zadłużenia przypadającego na wyodrębniony na własność lokal z tytułu udzielonego przez Bank Gospodarstwa Krajowego kredytu, a w przypadku lokalu mieszkalnego wybudowanego w ramach przedsięwzięcia, na które Bank Gospodarstwa Krajowego udzielił kredytu na podstawie wniosku złożonego do dnia 30 września 2009 r., także wysokość przypadającej na ten lokal części umorzenia kredytu.”;
-21) w art. 33h w ust. 2 w części wspólnej wyrazy „o której mowa w art. 33e ust. 2” zastępuje się wyrazami „o której mowa w art. 33ea ust. 2”;
-22) w art. 33i w ust. 2 wyrazy „o którym mowa w art. 33e ust. 2” zastępuje się wyrazami „o którym mowa w art. 33ea ust. 2”;
-23) w art. 33j w ust. 3 kropkę zastępuje się przecinkiem i dodaje się wyrazy „z wyjątkiem przepisów art. 23 ust. 2a i 2b tej ustawy.”;
-24) art. 33k otrzymuje brzmienie: „Art. 33k. Do wyodrębniania na własność lokali mieszkalnych wybudowanych na wynajem przez spółdzielnie mieszkaniowe lub spółki gminne przy wykorzystaniu finansowania zwrotnego albo kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosku złożonego do dnia 30 września 2009 r., przepisy art. 33ea–33j stosuje się odpowiednio.”;
-25) po art. 33k dodaje się rozdział 4c w brzmieniu: „Rozdział 4c Wsparcie gmin ze środków Rządowego Funduszu Rozwoju Mieszkalnictwa
 
 **Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2020 r. poz. 1575, 1578 i 2320) w art. 833 dodaje się § 8 w brzmieniu: „§ 8. Nie podlegają egzekucji dodatki mieszkaniowe wypłacone na podstawie ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2019 r. poz. 2133 oraz z 2021 r. poz. 11) oraz dodatki energetyczne wypłacone na podstawie ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2020 r. poz. 833, 843, 1086, 1378 i 1565).”.
 
@@ -393,11 +325,130 @@ c) ust. 2 i 3 otrzymują brzmienie: „2. Cena lokalu mieszkalnego uwzględnia p
 
 ##### Oddział 1 Przepisy ogólne
 
+**Art. 33da.**
+
+1. Wpłacona przez osobę fizyczną partycypacja w kosztach budowy lokalu mieszkalnego wybudowanego przy wykorzystaniu kredytu:
+
+- **1)** o którym mowa w art. 15a ust. 1 albo
+- **2)** udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosku złożonego do dnia 30 września 2009 r. – podlega rozliczeniu.
+
+2. Rozliczenie partycypacji następuje na wniosek najemcy złożony nie wcześniej niż po dniu całkowitej spłaty kredytu przy wykorzystaniu którego wybudowano lokal mieszkalny.
+
+3. Rozliczenie partycypacji następuje na zasadach określonych w zawartej między najemcą a SIM umowie najmu:
+
+- **1)** uwzględniającej okresowe rozliczenie partycypacji;
+- **2)** uwzględniającej całkowite rozliczenie partycypacji albo
+- **3)** instytucjonalnego lokalu z dojściem do własności, o której mowa w art. 19k ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, uwzględniającej rozliczenie partycypacji, zwanej dalej „umową najmu instytucjonalnego z dojściem do własności”.
+
+**Art. 33db.**
+
+1. Z wnioskiem o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą rozliczenie partycypacji może wystąpić do SIM najemca:
+
+- **1)** będący przez co najmniej 5 lat stroną obowiązującej umowy w sprawie partycypacji w kosztach budowy tego lokalu oraz
+- **2)** niezalegający w okresie co najmniej 5 lat poprzedzających złożenie wniosku z:
+    - **a)** zapłatą czynszu, o którym mowa w art. 28 ust. 1,
+    - **b)** opłatami z tytułu kosztów, o których mowa w art. 28 ust. 3 pkt 2,
+    - **c)** opłatami niezależnymi od SIM a przez nie pobieranymi – za miesiąc przez łączny okres nie dłuższy niż 3 miesiące.
+
+2. W terminie 30 dni od dnia otrzymania wniosku SIM przedstawia najemcy na piśmie warunki umowy najmu uwzględniającej rozliczenie partycypacji i wyznacza mu termin, nie krótszy niż 30 dni od dnia otrzymania tych warunków, na ich przyjęcie albo zgłoszenie uwag.
+
+3. Uwagi najemcy zgłoszone do warunków umowy najmu uwzględniającej rozliczenie partycypacji SIM rozpatruje w terminie 14 dni od dnia ich otrzymania, a następnie informuje najemcę na piśmie o sposobie ich rozpatrzenia wyznaczając mu termin, nie krótszy niż 14 dni od dnia otrzymania tej informacji, na przyjęcie warunków. Brak oświadczenia najemcy w wyznaczonym terminie o przyjęciu warunków umowy najmu uwzględniającej rozliczenie partycypacji jest równoznaczny z nieprzyjęciem tych warunków.
+
+4. Nieprzyjęcie przez najemcę warunków umowy najmu uwzględniającej rozliczenie partycypacji w wyznaczonym terminie oznacza wycofanie wniosku. Z ponownym wnioskiem najemca może wystąpić nie wcześniej niż po upływie 12 miesięcy od dnia wycofania wniosku.
+
+**Art. 33dc.** Wniosek o zmianę dotychczasowej umowy najmu na umowę, o której mowa w art. 33da ust. 3 pkt 1 lub 2, SIM może odrzucić, jeżeli przez okres co najmniej 5 lat poprzedzających dzień spłaty kredytu udzielonego na realizację przedsięwzięcia inwestycyjno-budowlanego pobierało od najemcy czynsz nieprzekraczający w skali roku:
+
+- **1)** 3,5% wartości odtworzeniowej, o której mowa w art. 28 ust. 2 pkt 1 – w przypadku lokali mieszalnych, o których mowa w art. 28 ust. 2 pkt 1;
+- **2)** 4,5% wartości odtworzeniowej, o której mowa w art. 28 ust. 2 pkt 1 – w przypadku lokali mieszalnych, o których mowa w art. 28 ust. 2 pkt 2.
+
 ##### Oddział 2 Umowa najmu lokalu mieszkalnego uwzględniająca okresowe rozliczenie partycypacji
+
+**Art. 33dd.**
+
+1. Rozliczenie partycypacji w ramach umowy najmu uwzględniającej okresowe rozliczenie partycypacji następuje w częściach zaliczanych na poczet czynszu miesięcznego najemcy przez okres określony w umowie najmu uwzględniającej to rozliczenie.
+
+2. W przedstawionych warunkach umowy najmu uwzględniającej okresowe rozliczenie partycypacji SIM wskazuje:
+
+- **1)** proponowaną wysokość części zaliczanej na poczet czynszu miesięcznego najemcy, nie niższą niż ustalona według stanu na dzień złożenia wniosku kwota obliczona według wzoru: gdzie poszczególne symbole oznaczają: P – część partycypacji, zaliczaną przez SIM na poczet czynszu miesięcznego najemcy w okresie użytkowania lokalu na postawie umowy najmu uwzględniającej okresowe rozliczenie partycypacji, R – średnią miesięczną wysokość raty spłaty kredytu udzielonego na realizację przedsięwzięcia inwestycyjno-budowlanego w okresie ostatnich 12 miesięcy spłaty tego kredytu, przypadającą na lokal, którego dotyczy rozliczenie partycypacji, C – średni miesięczny czynsz za najem lokalu, którego dotyczy rozliczenie partycypacji, w okresie ostatnich 60 miesięcy;
+- **2)** proponowany okres rozliczania partycypacji w ramach umowy najmu uwzględniającej okresowe rozliczenie partycypacji, nie dłuższy niż 180 miesięcy;
+- **3)** proponowaną kwotę partycypacji w kosztach budowy lokalu mieszkalnego po upływie okresu rozliczania partycypacji zgodnie z propozycjami określonymi w pkt 1 i 2, obliczoną według wzoru: gdzie poszczególne symbole oznaczają: P – nową kwotę partycypacji najemcy w kosztach budowy lokalu mieszkalnego po zakończeniu okresu rozliczania w ramach umowy najmu uwzględniającej okresowe rozliczenie partycypacji, P – kwotę wpłaconej partycypacji, C – średnią arytmetyczną czterech kolejnych wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych dla kwartałów poprzedzających kwartał, w którym najemca złożył wniosek o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą okresowe rozliczenie partycypacji, C – średnią arytmetyczną wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego dla kwartału, w którym nastąpiło zawarcie umowy w sprawie partycypacji w kosztach budowy lokalu mieszkalnego, oraz dla trzech poprzedzających ten kwartał okresów kwartalnych, n – liczbę pełnych kwartałów przypadających w okresie od dnia zawarcia umowy najmu lokalu do dnia, w którym najemca złożył wniosek o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą okresowe rozliczenie partycypacji, P – proponowaną miesięczną kwotę partycypacji, zaliczaną przez SIM na poczet czynszu miesięcznego najemcy w okresie użytkowania lokalu na podstawie umowy najmu uwzględniającej okresowe rozliczenie partycypacji, k – liczbę miesięcy w proponowanym okresie rozliczania partycypacji.
+
+**Art. 33de.** Kwota partycypacji określona w umowie najmu uwzględniającej okresowe rozliczenie partycypacji obliczana jest według wzoru, o którym mowa w art. 33dd ust. 2 pkt 3, na podstawie określonych w tej umowie:
+
+- **1)** wysokości miesięcznej kwoty partycypacji, jaka jest zaliczana przez SIM na poczet czynszu miesięcznego najemcy;
+- **2)** liczby miesięcy w przyjętym okresie rozliczania partycypacji.
+
+**Art. 33df.**
+
+1. W przypadku rozwiązania przez najemcę umowy najmu uwzględniającej okresowe rozliczenie partycypacji i opróżnienia lokalu po upływie okresu rozliczania partycypacji, kwota partycypacji, o której mowa w art. 33dd ust. 2 pkt 3, podlega zwrotowi najemcy nie później niż w terminie 12 miesięcy od dnia opróżnienia lokalu.
+
+2. W przypadku rozwiązania przez najemcę umowy najmu uwzględniającej okresowe rozliczenie partycypacji i opróżnienia lokalu przed upływem okresu rozliczania partycypacji, kwotę zwracanej najemcy partycypacji SIM powiększa o łączną kwotę miesięcznych kwot partycypacji, jakie miały być zaliczane na poczet czynszu miesięcznego najemcy w pozostałych miesiącach okresu rozliczeniowego zgodnie z tą umową.
+
+3. SIM może pobrać od nowego najemcy lokalu mieszkalnego opróżnionego w sposób, o którym mowa w ust. 1 albo 2, kwotę partycypacji w wysokości nie większej niż kwota wypłacona poprzedniemu najemcy.
+
+**Art. 33dg.** Osoby wstępujące w stosunek najmu po śmierci najemcy będącego stroną umowy najmu uwzględniającej okresowe rozliczenie partycypacji wstępują w ten stosunek na zasadach określonych w tej umowie.
 
 ##### Oddział 3 Umowa najmu lokalu mieszkalnego uwzględniająca całkowite rozliczenie partycypacji
 
+**Art. 33dh.** Z wnioskiem o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą całkowite rozliczenie partycypacji może wystąpić do SIM najemca, który poza spełnieniem warunków, o których mowa w art. 33db ust. 1, osiągnął wiek emerytalny, o którym mowa w art. 24 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2020 r. poz. 53, 252, 568, 1222 i 1578).
+
+**Art. 33di.**
+
+1. Rozliczenie partycypacji w ramach umowy najmu uwzględniającej całkowite rozliczenie partycypacji następuje w częściach zaliczanych na poczet czynszu miesięcznego najemcy do dnia wygaśnięcia jego praw jako strony umowy najmu.
+
+2. W przedstawionych warunkach umowy najmu uwzględniającej całkowite rozliczenie partycypacji SIM wskazuje proponowaną wysokość części zaliczanej na poczet czynszu miesięcznego najemcy, nie niższą niż 80% ustalonej według stanu na dzień złożenia wniosku kwoty obliczonej zgodnie z wzorem, o którym mowa w art. 33dd ust. 2 pkt 1.
+
+**Art. 33dj.** Osoby wstępujące w stosunek najmu po śmierci najemcy będącego stroną umowy najmu uwzględniającej całkowite rozliczenie partycypacji wstępują w ten stosunek na zasadach określonych w tej umowie wyłącznie w przypadku zamieszkiwania w lokalu będącym przedmiotem tej umowy przez cały okres jej obowiązywania, a w dniu zawierania tej umowy osiągnęły wiek emerytalny, o którym mowa w art. 24 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+
 ##### Oddział 4 Umowa najmu instytucjonalnego z dojściem do własności uwzględniająca rozliczenie partycypacji
+
+**Art. 33dk.** Z wnioskiem o zmianę dotychczasowej umowy najmu na umowę najmu instytucjonalnego z dojściem do własności uwzględniającej rozliczenie partycypacji może wystąpić do SIM najemca, który poza spełnieniem warunków, o których mowa w art. 33db ust. 1, partycypował w kosztach budowy lokalu w wysokości nie niższej niż:
+
+- **1)** 20% kosztów budowy tego lokalu – w przypadku lokalu wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego zlokalizowanego poza obszarem miasta będącego siedzibą wojewody lub sejmiku województwa albo miasta na prawach powiatu liczącego powyżej 100 tys. mieszkańców albo
+- **2)** 25% kosztów budowy tego lokalu – w przypadku lokalu wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego zlokalizowanego w obszarze miasta będącego siedzibą wojewody lub sejmiku województwa albo miasta na prawach powiatu liczącego powyżej 100 tys. mieszkańców – chyba że statut SIM przewiduje niższą wysokość partycypacji uprawniającą do jej rozliczenia na zasadach niniejszego oddziału.
+
+**Art. 33dl.**
+
+1. Rozliczenie partycypacji w ramach najmu instytucjonalnego z dojściem do własności następuje w częściach zaliczanych na poczet comiesięcznych rat, o których mowa w art. 19l ust. 4 pkt 4 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego. Rozliczenia partycypacji dokonuje się z dniem, w którym łączna, zaliczona w tym trybie na poczet rat kwota, osiągnie równowartość kwoty tej partycypacji.
+
+2. W przypadku zmiany umowy najmu na umowę najmu instytucjonalnego z dojściem do własności cenę lokalu mieszkalnego stanowi wartość rynkowa tego lokalu ustalona zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2020 r. poz. 1990 oraz z 2021 r. poz. 11), jednak nie wyższa niż obliczona według wzoru: C = Pz / u, gdzie poszczególne symbole oznaczają: C – cenę lokalu mieszkalnego, Pz – kwotę zwracanej partycypacji, ustaloną według stanu na dzień złożenia wniosku i obliczoną według wzoru określonego w art. 29a ust. 3, u – udział kwoty partycypacji w kosztach budowy lokalu mieszkalnego.
+
+3. Określony w zawieranej umowie najmu instytucjonalnego z dojściem do własności termin dojścia do własności może upływać wcześniej niż 10 lat od dnia zawarcia umowy wyłącznie z inicjatywy wnioskodawcy.
+
+4. W przypadku lokalu wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego, z którego realizacją było związane zawarcie umowy, o której mowa w art. 5 ust. 2 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla bezdomnych, ogrzewalni i tymczasowych pomieszczeń, określony w zawieranej umowie najmu instytucjonalnego z dojściem do własności termin dojścia do tej własności nie może upływać wcześniej niż w terminie wynikającym z art. 7e tej ustawy.
+
+**Art. 33dm.** W zakresie nieuregulowanym przepisami niniejszego oddziału do ustanowienia odrębnej własności lokalu na skutek zmiany umowy najmu na umowę najmu instytucjonalnego z dojściem do własności uwzględniającą rozliczenie partycypacji, stosuje się przepisy art. 33ea–33j.”;
+
+- **18)** uchyla się art. 33e;
+- **19)** po art. 33e dodaje się art. 33ea w brzmieniu: „Art. 33ea. 1. Przeniesienie przez SIM na najemcę własności lokalu mieszkalnego wybudowanego przy wykorzystaniu finansowania zwrotnego albo wybudowanego przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosku złożonego do dnia 30 września 2009 r. może nastąpić wyłącznie na zasadach określonych w niniejszym rozdziale albo oddziale 1 i oddziale 4 rozdziału 4aa.
+
+2. Przepisy niniejszego rozdziału stosuje się wyłącznie do osób fizycznych będących przez co najmniej 5 lat stronami obowiązującej umowy w sprawie partycypacji w kosztach budowy wynajmowanego przez nie lokalu.
+
+3. Przeniesienie na najemcę własności lokalu mieszkalnego wybudowanego przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosku złożonego do dnia 30 września 2009 r. obejmuje przeniesienie na najemcę własności pomieszczenia przynależnego do tego lokalu.
+
+4. Przeniesienie na najemcę własności lokalu mieszkalnego wybudowanego przy wykorzystaniu finansowania zwrotnego obejmuje przeniesienie na najemcę własności pomieszczenia przynależnego do tego lokalu, chyba że SIM i najemca zdecydują inaczej.
+
+5. Przeniesienie na najemcę własności garażu lub udziału w garażu wielostanowiskowym, wybudowanego przy wykorzystaniu finansowania zwrotnego może nastąpić po uprzedniej spłacie części zadłużenia kredytowego, przypadającego na ten garaż lub udział w garażu wielostanowiskowym, z uwzględnieniem art. 33f ust. 3.”;
+
+- **20)** w art. 33f:
+    - **a)** uchyla się ust. 1,
+    - **b)** po ust. 1 dodaje się ust. 1a–1d w brzmieniu: „1a. Najemca może wystąpić do SIM z wnioskiem o przeniesienie na niego własności lokalu mieszkalnego po upływie 5 lat od dnia, w którym wydano pozwolenie na użytkowanie budynku, w którym znajduje się ten lokal.
+
+1b. W przypadku lokalu mieszkalnego wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego, na którego pokrycie części kosztów udzielono finansowego wsparcia, o którym mowa w art. 5 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla bezdomnych, ogrzewalni i tymczasowych pomieszczeń, z wnioskiem o przeniesienie własności lokalu najemca może wystąpić po upływie 15 lat od dnia rozliczenia kosztów przedsięwzięcia.
+
+1c. Decyzję o wyodrębnieniu na własność lokalu mieszkalnego podejmuje zgromadzenie wspólników, walne zgromadzenie akcjonariuszy albo walne zgromadzenie SIM.
+
+1d. W przypadku podjęcia decyzji o wyodrębnieniu na własność lokalu mieszkalnego przeniesienie własności tego lokalu na najemcę następuje w drodze umowy sprzedaży. Cena lokalu nie może być niższa niż jego wartość rynkowa ustalona zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.”,
+
+- **c)** ust. 2 i 3 otrzymują brzmienie: „2. Cena lokalu mieszkalnego uwzględnia pokrycie wszystkich zobowiązań przypadających na ten lokal, w tym spłatę odpowiedniej części zadłużenia kredytowego SIM wraz z odsetkami i koszty wyceny nieruchomości, a w przypadku lokalu mieszkalnego wybudowanego w ramach przedsięwzięcia, na które Bank Gospodarstwa Krajowego udzielił kredytu na podstawie wniosku złożonego do dnia 30 września 2009 r., także spłatę przypadającej na ten lokal mieszkalny części umorzenia kredytu w kwocie nominalnej.
+
+3. Na wniosek SIM Bank Gospodarstwa Krajowego, w terminie 30 dni od dnia otrzymania wniosku, ustala wysokość zadłużenia przypadającego na wyodrębniony na własność lokal z tytułu udzielonego przez Bank Gospodarstwa Krajowego kredytu, a w przypadku lokalu mieszkalnego wybudowanego w ramach przedsięwzięcia, na które Bank Gospodarstwa Krajowego udzielił kredytu na podstawie wniosku złożonego do dnia 30 września 2009 r., także wysokość przypadającej na ten lokal części umorzenia kredytu.”;
+
+- **21)** w art. 33h w ust. 2 w części wspólnej wyrazy „o której mowa w art. 33e ust. 2” zastępuje się wyrazami „o której mowa w art. 33ea ust. 2”;
+- **22)** w art. 33i w ust. 2 wyrazy „o którym mowa w art. 33e ust. 2” zastępuje się wyrazami „o którym mowa w art. 33ea ust. 2”;
+- **23)** w art. 33j w ust. 3 kropkę zastępuje się przecinkiem i dodaje się wyrazy „z wyjątkiem przepisów art. 23 ust. 2a i 2b tej ustawy.”;
+- **24)** art. 33k otrzymuje brzmienie: „Art. 33k. Do wyodrębniania na własność lokali mieszkalnych wybudowanych na wynajem przez spółdzielnie mieszkaniowe lub spółki gminne przy wykorzystaniu finansowania zwrotnego albo kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosku złożonego do dnia 30 września 2009 r., przepisy art. 33ea–33j stosuje się odpowiednio.”;
+- **25)** po art. 33k dodaje się rozdział 4c w brzmieniu: „Rozdział 4c Wsparcie gmin ze środków Rządowego Funduszu Rozwoju Mieszkalnictwa
 
 **Art. 33l.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa udziela gminie wsparcia ze środków Rządowego Funduszu Rozwoju Mieszkalnictwa, zwanego dalej „Funduszem”, na sfinansowanie części lub całości działania polegającego na objęciu przez tę gminę udziałów lub akcji w:
 

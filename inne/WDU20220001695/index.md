@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rezerwach strategicznych
+# Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy o rezerwach strategicznych
 
 *USTAWA z dnia 5 sierpnia 2022 r.*
 

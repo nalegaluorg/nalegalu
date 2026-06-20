@@ -361,7 +361,9 @@ source: pdf
 
 § 2. Uchwały rady zapadają zwykłą większością głosów, przy czym w razie równej liczby głosów decyduje głos prezesa rady.
 
-**Art. 37.** Rada izby notarialnej przedstawia do dnia 31 marca każdego roku Ministrowi Sprawiedliwości, Krajowej Radzie Notarialnej oraz prezesowi właściwego sądu apelacyjnego wykaz zastępców notarialnych i aplikantów notarialnych izby, według stanu na dzień 31 grudnia poprzedniego roku. Wykaz ten zawiera dane o liczbie aplikantów notarialnych objętych patronatem lub zatrudnionych, w ramach odbywania aplikacji, przez poszczególnych notariuszy wraz ze wskazaniem daty objęcia patronatem lub wskazaniem zatrudnienia, a także imiona i nazwiska aplikantów notarialnych, wskazanie formy odbywania aplikacji oraz imiona i nazwiska ich patronów a ponadto nazwiska osób skreślonych w poprzednim roku z wykazu zastępców notarialnych. [Art. 37a. Rada izby notarialnej przekazuje niezwłocznie Krajowej Radzie Notarialnej aktualne informacje o notariuszach oraz zastępcach notarialnych. Informacja obejmuje imię i nazwisko notariusza lub zastępcy notarialnego, właściwą izbę notarialną, datę i numer decyzji o powołaniu notariusza lub o jego odwołaniu, datę umieszczenia w wykazie zastępców notarialnych lub skreślenia z tego wykazu, a także informacje o zawieszeniu w czynnościach zawodowych.] <Art. 37a. Rada izby notarialnej przekazuje niezwłocznie Krajowej Radzie Notarialnej aktualne informacje o notariuszach, zastępcach notarialnych oraz notariuszach emerytowanych, o ile zostali wyznaczeni do zastępstwa notariusza. Informacja obejmuje imię i nazwisko notariusza, zastępcy notarialnego lub notariusza emerytowanego, numer PESEL, numer identyfikacji podatkowej (NIP), o ile posiada, właściwą izbę notarialną, datę i numer decyzji o powołaniu notariusza lub o jego odwołaniu, datę umieszczenia w wykazie zastępców notarialnych lub skreślenia z tego wykazu, datę wyznaczenia notariusza emerytowanego do zastępstwa notariusza lub datę zakończenia zastępstwa, a także informacje o zawieszeniu w czynnościach zawodowych.>
+**Art. 37.** Rada izby notarialnej przedstawia do dnia 31 marca każdego roku Ministrowi Sprawiedliwości, Krajowej Radzie Notarialnej oraz prezesowi właściwego sądu apelacyjnego wykaz zastępców notarialnych i aplikantów notarialnych izby, według stanu na dzień 31 grudnia poprzedniego roku. Wykaz ten zawiera dane o liczbie aplikantów notarialnych objętych patronatem lub zatrudnionych, w ramach odbywania aplikacji, przez poszczególnych notariuszy wraz ze wskazaniem daty objęcia patronatem lub wskazaniem zatrudnienia, a także imiona i nazwiska aplikantów notarialnych, wskazanie formy odbywania aplikacji oraz imiona i nazwiska ich patronów a ponadto nazwiska osób skreślonych w poprzednim roku z wykazu zastępców notarialnych.
+
+**Art. 37a.** Rada izby notarialnej przekazuje niezwłocznie Krajowej Radzie Notarialnej aktualne informacje o notariuszach, zastępcach notarialnych oraz notariuszach emerytowanych, o ile zostali wyznaczeni do zastępstwa notariusza. Informacja obejmuje imię i nazwisko notariusza, zastępcy notarialnego lub notariusza emerytowanego, numer PESEL, numer identyfikacji podatkowej (NIP), o ile posiada, właściwą izbę notarialną, datę i numer decyzji o powołaniu notariusza lub o jego odwołaniu, datę umieszczenia w wykazie zastępców notarialnych lub skreślenia z tego wykazu, datę wyznaczenia notariusza emerytowanego do zastępstwa notariusza lub datę zakończenia zastępstwa, a także informacje o zawieszeniu w czynnościach zawodowych.
 
 **Art. 38.** Krajowa Rada Notarialna jest reprezentantem notariatu.
 
@@ -1373,7 +1375,11 @@ source: pdf
 
 #### Rozdział 3a Akty poświadczenia dziedziczenia
 
-**Art. 95a.** Notariusz sporządza akt poświadczenia dziedziczenia ustawowego lub testamentowego, z wyłączeniem dziedziczenia na podstawie testamentów szczególnych. Art. 95aa. § 1. Osobami zainteresowanymi w rozumieniu niniejszego rozdziału są osoby, które mogą wchodzić w rachubę jako spadkobiercy ustawowi i testamentowi, a także osoby, na których rzecz spadkodawca uczynił zapisy windykacyjne.
+**Art. 95a.** Notariusz sporządza akt poświadczenia dziedziczenia ustawowego lub testamentowego, z wyłączeniem dziedziczenia na podstawie testamentów szczególnych.
+
+**Art. 95aa.**
+
+§ 1. Osobami zainteresowanymi w rozumieniu niniejszego rozdziału są osoby, które mogą wchodzić w rachubę jako spadkobiercy ustawowi i testamentowi, a także osoby, na których rzecz spadkodawca uczynił zapisy windykacyjne.
 
 § 2. Odrzucenie spadku lub zapisu windykacyjnego oraz uznanie za niegodnego powoduje utratę statusu osoby zainteresowanej.
 
@@ -1403,7 +1409,11 @@ source: pdf
 - **1)** odpis aktu zgonu spadkodawcy;
 - **2)** odpisy aktów stanu cywilnego osób powołanych do spadku z ustawy;
 - **2a)** projekt protokołu dziedziczenia oraz protokoły obejmujące oświadczenia o wyrażeniu zgody na spisanie protokołu dziedziczenia zgodnie z jego projektem, o ile zostały sporządzone lub spisane;
-- **3)** inne dokumenty mogące mieć wpływ na ustalenie praw do spadku. Art. 95ca. § 1. Na wniosek osoby zainteresowanej przy jej udziale notariusz sporządza projekt protokołu dziedziczenia.
+- **3)** inne dokumenty mogące mieć wpływ na ustalenie praw do spadku.
+
+**Art. 95ca.**
+
+§ 1. Na wniosek osoby zainteresowanej przy jej udziale notariusz sporządza projekt protokołu dziedziczenia.
 
 § 2. Do sporządzenia projektu protokołu dziedziczenia przepis art. 95c stosuje się odpowiednio.
 
@@ -1415,7 +1425,11 @@ source: pdf
 
 § 6. Osoby zainteresowane, które nie złożyły wcześniej oświadczenia, o którym mowa w § 3, mogą złożyć takie oświadczenie, uczestnicząc w spisaniu protokołu dziedziczenia.
 
-**Art. 95d.** W razie złożenia testamentu notariusz dokonuje jego otwarcia i ogłoszenia, chyba że otwarcie i ogłoszenie testamentu już nastąpiło. Z otwarcia i ogłoszenia testamentu sporządza się protokół. Art. 95da. § 1. Notariusz może zwracać się do organów administracji publicznej oraz organów wykonujących zadania z zakresu administracji publicznej o udzielenie informacji lub wydanie dokumentów stanowiących dowód faktu istotnego dla sporządzenia aktu poświadczenia dziedziczenia.
+**Art. 95d.** W razie złożenia testamentu notariusz dokonuje jego otwarcia i ogłoszenia, chyba że otwarcie i ogłoszenie testamentu już nastąpiło. Z otwarcia i ogłoszenia testamentu sporządza się protokół.
+
+**Art. 95da.**
+
+§ 1. Notariusz może zwracać się do organów administracji publicznej oraz organów wykonujących zadania z zakresu administracji publicznej o udzielenie informacji lub wydanie dokumentów stanowiących dowód faktu istotnego dla sporządzenia aktu poświadczenia dziedziczenia.
 
 § 2. Notariusz może zwrócić się do Ministra Sprawiedliwości o udzielenie tekstu właściwego prawa obcego. Celem ustalenia treści właściwego prawa obcego notariusz może zastosować także inne odpowiednie środki.
 
@@ -1452,7 +1466,9 @@ source: pdf
 
 § 2. Przepisy art. 93 i art. 94 stosuje się odpowiednio.
 
-**Art. 95g.** Na protokole dziedziczenia zamieszcza się adnotację o sporządzeniu aktu poświadczenia dziedziczenia. Art. 95ga. Po sporządzeniu aktu poświadczenia dziedziczenia na wniosek spadkobiercy lub zapisobiercy windykacyjnego notariusz sporządza protokół, który zawiera żądanie spadkobiercy lub zapisobiercy windykacyjnego o wpis spółdzielczego własnościowego prawa do lokalu, własności lub użytkowania wieczystego nieruchomości w księdze wieczystej oraz oświadczenie o znanych odpowiednio spadkobiercy lub zapisobiercy windykacyjnemu spółdzielczym własnościowym prawie do lokalu, własności lub użytkowaniu wieczystym nieruchomości, położonych na terytorium Rzeczypospolitej Polskiej, które wchodzą w skład spadku i są objęte żądaniem o złożenie wniosku o wpis w księdze wieczystej.
+**Art. 95g.** Na protokole dziedziczenia zamieszcza się adnotację o sporządzeniu aktu poświadczenia dziedziczenia.
+
+**Art. 95ga.** Po sporządzeniu aktu poświadczenia dziedziczenia na wniosek spadkobiercy lub zapisobiercy windykacyjnego notariusz sporządza protokół, który zawiera żądanie spadkobiercy lub zapisobiercy windykacyjnego o wpis spółdzielczego własnościowego prawa do lokalu, własności lub użytkowania wieczystego nieruchomości w księdze wieczystej oraz oświadczenie o znanych odpowiednio spadkobiercy lub zapisobiercy windykacyjnemu spółdzielczym własnościowym prawie do lokalu, własności lub użytkowaniu wieczystym nieruchomości, położonych na terytorium Rzeczypospolitej Polskiej, które wchodzą w skład spadku i są objęte żądaniem o złożenie wniosku o wpis w księdze wieczystej.
 
 **Art. 95h.**
 
@@ -1462,7 +1478,9 @@ source: pdf
 
 § 3. Adnotację o zarejestrowaniu umieszcza się na akcie poświadczenia dziedziczenia, wskazując numer wpisu, a także dzień, miesiąc i rok oraz godzinę i minutę dokonanego wpisu.
 
-§ 4. Zarejestrowanie aktu poświadczenia dziedziczenia nie następuje, jeżeli akt poświadczenia dziedziczenia albo prawomocne postanowienie w przedmiocie stwierdzenia nabycia spadku dotyczące tego samego spadku zostały już wpisane do Rejestru Spadkowego. Art. 95ha. Rejestr Spadkowy zawiera:
+§ 4. Zarejestrowanie aktu poświadczenia dziedziczenia nie następuje, jeżeli akt poświadczenia dziedziczenia albo prawomocne postanowienie w przedmiocie stwierdzenia nabycia spadku dotyczące tego samego spadku zostały już wpisane do Rejestru Spadkowego.
+
+**Art. 95ha.** Rejestr Spadkowy zawiera:
 
 - **1)** numer wpisu;
 - **2)** datę oraz godzinę i minutę dokonania wpisu;
@@ -1560,7 +1578,15 @@ source: pdf
 
 #### Rozdział 3c Czynności dokonywane na podstawie ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw
 
-**Art. 95z.** Notariusz sporządza akt powołania zarządcy sukcesyjnego albo akt odwołania zarządcy sukcesyjnego w przypadkach wskazanych w ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, zwanej dalej „ustawą o zarządzie sukcesyjnym”. Art. 95za. Przed sporządzeniem aktu powołania zarządcy sukcesyjnego albo aktu odwołania zarządcy sukcesyjnego notariusz spisuje protokół powołania zarządcy sukcesyjnego albo protokół odwołania zarządcy sukcesyjnego. Art. 95zb. Przystępując do spisania protokołu powołania zarządcy sukcesyjnego albo protokołu odwołania zarządcy sukcesyjnego, notariusz poucza osoby biorące udział w spisywaniu protokołu o obowiązku ujawnienia wszelkich okoliczności objętych treścią protokołu oraz odpowiedzialności karnej za złożenie fałszywych oświadczeń. Art. 95zc. § 1. W protokole powołania zarządcy sukcesyjnego zamieszcza się:
+**Art. 95z.** Notariusz sporządza akt powołania zarządcy sukcesyjnego albo akt odwołania zarządcy sukcesyjnego w przypadkach wskazanych w ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, zwanej dalej „ustawą o zarządzie sukcesyjnym”.
+
+**Art. 95za.** Przed sporządzeniem aktu powołania zarządcy sukcesyjnego albo aktu odwołania zarządcy sukcesyjnego notariusz spisuje protokół powołania zarządcy sukcesyjnego albo protokół odwołania zarządcy sukcesyjnego.
+
+**Art. 95zb.** Przystępując do spisania protokołu powołania zarządcy sukcesyjnego albo protokołu odwołania zarządcy sukcesyjnego, notariusz poucza osoby biorące udział w spisywaniu protokołu o obowiązku ujawnienia wszelkich okoliczności objętych treścią protokołu oraz odpowiedzialności karnej za złożenie fałszywych oświadczeń.
+
+**Art. 95zc.**
+
+§ 1. W protokole powołania zarządcy sukcesyjnego zamieszcza się:
 
 - **1)** żądanie sporządzenia aktu powołania zarządcy sukcesyjnego złożone przez:
     - **a)** małżonka spadkodawcy, któremu przysługuje udział w przedsiębiorstwie w spadku, lub spadkobiercę ustawowego, który przyjął spadek, albo spadkobiercę testamentowego, który przyjął spadek, albo zapisobiercę windykacyjnego, który przyjął zapis windykacyjny, jeżeli zgodnie z ogłoszonym testamentem przysługuje mu udział w przedsiębiorstwie w spadku – w przypadku gdy nie zostało wydane prawomocne postanowienie o stwierdzeniu nabycia spadku, nie został zarejestrowany akt poświadczenia dziedziczenia ani nie zostało wydane europejskie poświadczenie spadkowe,
@@ -1583,7 +1609,12 @@ source: pdf
 
 - **1)** odpis aktu zgonu spadkodawcy – w przypadku, o którym mowa w § 1 pkt 1 lit. a;
 - **2)** odpis prawomocnego postanowienia o stwierdzeniu nabycia spadku albo wypis zarejestrowanego aktu poświadczenia dziedziczenia albo europejskiego poświadczenia spadkowego – w przypadku, o którym mowa w § 1 pkt 1 lit. b;
-- **3)** wypisy aktów notarialnych obejmujących oświadczenia, o których mowa w § 1 pkt 4 lub 5, jeżeli oświadczenia te nie zostały zawarte w protokole powołania zarządcy sukcesyjnego. Art. 95zd. § 1. Akt powołania zarządcy sukcesyjnego powinien zawierać:
+- **3)** wypisy aktów notarialnych obejmujących oświadczenia, o których mowa w § 1 pkt 4 lub 5, jeżeli oświadczenia te nie zostały zawarte w protokole powołania zarządcy sukcesyjnego.
+
+**Art. 95zd.**
+
+§ 1. Akt powołania zarządcy sukcesyjnego powinien zawierać:
+
 - **1)** dzień, miesiąc i rok oraz miejsce sporządzenia aktu;
 - **2)** imię i nazwisko notariusza oraz siedzibę jego kancelarii, a jeżeli akt sporządziła osoba wyznaczona do zastępstwa notariusza lub upoważniona do dokonywania czynności notarialnych – ponadto imię i nazwisko tej osoby;
 - **3)** imię i nazwisko spadkodawcy, firmę spadkodawcy i miejsce wykonywania przez niego działalności gospodarczej wpisane do Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz jego numer identyfikacji podatkowej (NIP);
@@ -1594,7 +1625,13 @@ source: pdf
 - **8)** adnotację o zgłoszeniu powołania zarządcy sukcesyjnego do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
 - **9)** podpis notariusza.
 
-§ 2. Przepisy art. 93 i art. 94 stosuje się odpowiednio. Art. 95ze. Notariusz odmawia sporządzenia aktu powołania zarządcy sukcesyjnego, jeżeli w toku sporządzania protokołu powołania zarządcy sukcesyjnego ujawnią się okoliczności wskazujące na uzasadnione wątpliwości co do kręgu osób, którym przysługuje udział w przedsiębiorstwie w spadku, powodujące brak możliwości stwierdzenia, że wymagana większość tych osób wyraziła zgodę na powołanie zarządcy sukcesyjnego. Art. 95zf. § 1. W protokole odwołania zarządcy sukcesyjnego zamieszcza się:
+§ 2. Przepisy art. 93 i art. 94 stosuje się odpowiednio.
+
+**Art. 95ze.** Notariusz odmawia sporządzenia aktu powołania zarządcy sukcesyjnego, jeżeli w toku sporządzania protokołu powołania zarządcy sukcesyjnego ujawnią się okoliczności wskazujące na uzasadnione wątpliwości co do kręgu osób, którym przysługuje udział w przedsiębiorstwie w spadku, powodujące brak możliwości stwierdzenia, że wymagana większość tych osób wyraziła zgodę na powołanie zarządcy sukcesyjnego.
+
+**Art. 95zf.**
+
+§ 1. W protokole odwołania zarządcy sukcesyjnego zamieszcza się:
 
 - **1)** żądanie sporządzenia aktu odwołania zarządcy sukcesyjnego złożone przez:
     - **a)** małżonka spadkodawcy, któremu przysługuje udział w przedsiębiorstwie w spadku, lub spadkobiercę ustawowego, który przyjął spadek, albo spadkobiercę testamentowego, który przyjął spadek, albo zapisobiercę windykacyjnego, który przyjął zapis windykacyjny, jeżeli zgodnie z ogłoszonym testamentem przysługuje mu udział w przedsiębiorstwie w spadku – w przypadku gdy nie zostało wydane prawomocne postanowienie o stwierdzeniu nabycia spadku, nie został zarejestrowany akt poświadczenia dziedziczenia ani nie zostało wydane europejskie poświadczenie spadkowe,
@@ -1612,7 +1649,11 @@ source: pdf
 - **5)** inne dane wymagane do zgłoszenia odwołania zarządcy sukcesyjnego do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
 - **6)** wzmiankę o pouczeniu przez notariusza o odpowiedzialności karnej za złożenie fałszywych oświadczeń.
 
-§ 2. Do protokołu odwołania zarządcy sukcesyjnego notariusz załącza wypisy aktów notarialnych obejmujących oświadczenia, o których mowa w § 1 pkt 4, jeżeli oświadczenia te nie zostały zawarte w protokole odwołania zarządcy sukcesyjnego. Art. 95zg. § 1. Akt odwołania zarządcy sukcesyjnego powinien zawierać:
+§ 2. Do protokołu odwołania zarządcy sukcesyjnego notariusz załącza wypisy aktów notarialnych obejmujących oświadczenia, o których mowa w § 1 pkt 4, jeżeli oświadczenia te nie zostały zawarte w protokole odwołania zarządcy sukcesyjnego.
+
+**Art. 95zg.**
+
+§ 1. Akt odwołania zarządcy sukcesyjnego powinien zawierać:
 
 - **1)** dzień, miesiąc i rok oraz miejsce sporządzenia aktu;
 - **2)** imię i nazwisko notariusza oraz siedzibę jego kancelarii, a jeżeli akt sporządziła osoba wyznaczona do zastępstwa notariusza lub upoważniona do dokonywania czynności notarialnych – ponadto imię i nazwisko tej osoby;
@@ -1624,7 +1665,13 @@ source: pdf
 - **8)** adnotację o zgłoszeniu odwołania zarządcy sukcesyjnego do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
 - **9)** podpis notariusza.
 
-§ 2. Przepisy art. 93 i art. 94 stosuje się odpowiednio. Art. 95zh. Notariusz odmawia sporządzenia aktu odwołania zarządcy sukcesyjnego, jeżeli w toku sporządzania protokołu odwołania zarządcy sukcesyjnego ujawnią się okoliczności wskazujące na uzasadnione wątpliwości co do kręgu osób, którym przysługuje udział w przedsiębiorstwie w spadku, powodujące brak możliwości stwierdzenia, że wymagana większość tych osób wyraziła zgodę na odwołanie zarządcy sukcesyjnego. Art. 95zi. § 1. Zarządca sukcesyjny składa przed notariuszem do protokołu oświadczenie o rezygnacji z pełnienia tej funkcji.
+§ 2. Przepisy art. 93 i art. 94 stosuje się odpowiednio.
+
+**Art. 95zh.** Notariusz odmawia sporządzenia aktu odwołania zarządcy sukcesyjnego, jeżeli w toku sporządzania protokołu odwołania zarządcy sukcesyjnego ujawnią się okoliczności wskazujące na uzasadnione wątpliwości co do kręgu osób, którym przysługuje udział w przedsiębiorstwie w spadku, powodujące brak możliwości stwierdzenia, że wymagana większość tych osób wyraziła zgodę na odwołanie zarządcy sukcesyjnego.
+
+**Art. 95zi.**
+
+§ 1. Zarządca sukcesyjny składa przed notariuszem do protokołu oświadczenie o rezygnacji z pełnienia tej funkcji.
 
 § 2. Protokół rezygnacji zarządcy sukcesyjnego powinien zawierać:
 
@@ -1634,13 +1681,21 @@ source: pdf
 - **4)** oświadczenie zarządcy sukcesyjnego o znanych mu osobach, którym przysługuje udział w przedsiębiorstwie w spadku, i adresach ich zamieszkania;
 - **5)** inne dane wymagane do zgłoszenia rezygnacji zarządcy sukcesyjnego do Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
 
-§ 3. O złożeniu oświadczenia o rezygnacji zarządcy sukcesyjnego z pełnienia tej funkcji notariusz niezwłocznie zawiadamia osoby, o których mowa w § 2 pkt 4, przesyłając im wypis protokołu rezygnacji zarządcy sukcesyjnego. Art. 95zj. Do czynności, o których mowa w niniejszym rozdziale, stosuje się odpowiednio przepis art. 95da. Art. 95zk. § 1. Oryginały aktów powołania zarządcy sukcesyjnego i aktów odwołania zarządcy sukcesyjnego nie mogą być wydawane poza miejsce ich przechowywania.
+§ 3. O złożeniu oświadczenia o rezygnacji zarządcy sukcesyjnego z pełnienia tej funkcji notariusz niezwłocznie zawiadamia osoby, o których mowa w § 2 pkt 4, przesyłając im wypis protokołu rezygnacji zarządcy sukcesyjnego.
+
+**Art. 95zj.** Do czynności, o których mowa w niniejszym rozdziale, stosuje się odpowiednio przepis art. 95da.
+
+**Art. 95zk.**
+
+§ 1. Oryginały aktów powołania zarządcy sukcesyjnego i aktów odwołania zarządcy sukcesyjnego nie mogą być wydawane poza miejsce ich przechowywania.
 
 § 2. Do aktów powołania zarządcy sukcesyjnego i aktów odwołania zarządcy sukcesyjnego stosuje się odpowiednio przepisy rozdziału 9.
 
 § 3. Notariusz na żądanie sądu, prokuratora, dyrektora izby administracji skarbowej oraz naczelnika urzędu skarbowego przesyła wypis aktu powołania zarządcy sukcesyjnego albo aktu odwołania zarządcy sukcesyjnego.
 
-§ 4. Wypis aktu powołania zarządcy sukcesyjnego albo aktu odwołania zarządcy sukcesyjnego może być wydany ponadto osobie, która wykaże istnienie interesu prawnego. Art. 83 stosuje się odpowiednio. Art. 95zl. Przepisy niniejszego rozdziału, z wyłączeniem art. 95zc § 1 pkt 6, art. 95zd § 1 pkt 8, art. 95zf § 1 pkt 5, art. 95zg § 1 pkt 8 i art. 95zi § 2 pkt 5, stosuje się odpowiednio do powołania, odwołania i rezygnacji tymczasowego przedstawiciela, o którym mowa w przepisach rozdziału 11a ustawy o zarządzie sukcesyjnym.
+§ 4. Wypis aktu powołania zarządcy sukcesyjnego albo aktu odwołania zarządcy sukcesyjnego może być wydany ponadto osobie, która wykaże istnienie interesu prawnego. Art. 83 stosuje się odpowiednio.
+
+**Art. 95zl.** Przepisy niniejszego rozdziału, z wyłączeniem art. 95zc § 1 pkt 6, art. 95zd § 1 pkt 8, art. 95zf § 1 pkt 5, art. 95zg § 1 pkt 8 i art. 95zi § 2 pkt 5, stosuje się odpowiednio do powołania, odwołania i rezygnacji tymczasowego przedstawiciela, o którym mowa w przepisach rozdziału 11a ustawy o zarządzie sukcesyjnym.
 
 #### Rozdział 4 Poświadczenia
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz ustawy – Prawo o ustroju sądów wojskowych
+# Ustawa z dnia 6 marca 2025 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz ustawy - Prawo o ustroju sądów wojskowych
 
 *USTAWA z dnia 6 marca 2025 r.*
 

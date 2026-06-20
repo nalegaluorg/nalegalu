@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Służbie Więziennej, ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych
+# Ustawa z dnia 21 stycznia 2021 r. o zmianie ustawy o Służbie Więziennej, ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych
 
 *USTAWA z dnia 21 stycznia 2021 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o weterynaryjnej kontroli granicznej oraz ustawy – Prawo pocztowe
+# Ustawa z dnia 14 września 2012 r. o zmianie ustawy o weterynaryjnej kontroli granicznej oraz ustawy - Prawo pocztowe
 
 *USTAWA z dnia 14 września 2012 r.*
 

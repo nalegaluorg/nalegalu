@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach rodzinnych oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
+# Ustawa z dnia 5 marca 2010 r. o zmianie ustawy o świadczeniach rodzinnych oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
 
 *USTAWA z dnia 5 marca 2010 r.*
 

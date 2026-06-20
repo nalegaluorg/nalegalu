@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Biura Ochrony Rządu w latach 2007–2009”
+# Ustawa z dnia 2 lipca 2009 r. o zmianie ustawy o ustanowieniu "Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Biura Ochrony Rządu w latach 2007-2009"
 
 *USTAWA Opracowano z dnia 2 lipca 2009 r. stawie: r.*
 

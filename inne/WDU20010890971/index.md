@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pracownikach samorządowych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 22 czerwca 2001 r. o zmianie ustawy o pracownikach samorządowych oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 22 czerwca 2001 r.*
 

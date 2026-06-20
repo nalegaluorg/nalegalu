@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatkach i opłatach lokalnych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 7 grudnia 2006 r. o zmianie ustawy o podatkach i opłatach lokalnych oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 7 grudnia 2006 r.*
 

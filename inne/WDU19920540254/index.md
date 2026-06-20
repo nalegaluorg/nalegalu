@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego
+# Ustawa z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego
 
 *USTAWA z dnia 20 czerwca 1992 r.*
 
@@ -202,33 +202,9 @@ source: pdf
 
 5. Zmiany w programach kas rejestrujących, uwzględniających zasady określone w ust. 3 i 4 pkt 2, wymagają uzyskania pozytywnej opinii ministra właściwego do spraw finansów publicznych.
 
-6. Zasad finansowania określonych w ust. 1–4 nie stosuje się do przejazdów dzieci do lat 4 objętych ulgą 100 %.] [Art. 8b. Przewoźnicy kolejowi, wykonujący krajowe przewozy pasażerskie, otrzymują z tytułu obowiązujących ustawowych ulg dotację przedmiotową na podstawie art. 22 ustawy z dnia 27 czerwca 1997 r. o transporcie kolejowym (Dz. U. poz. 591, z późn. zm. ).]
-
 **Art. 9.**
 
-1. Tracą moc dotychczasowe przepisy oraz postanowienia układów zbiorowych pracy w sprawach unormowanych w ustawie.
+**Art. 10.**
 
-2. W szczególności tracą moc:
-
-- **1)** art. 49 ustawy z dnia 31 stycznia 1959 r. o zaopatrzeniu emerytalnym funkcjonariuszy Milicji Obywatelskiej oraz ich rodzin (Dz. U. z 1983 r. poz. 210, z późn. zm. );
-- **2)** art. 30 ustawy z dnia 10 grudnia 1959 r. o Służbie Więziennej (Dz. U. z 1984 r. poz. 149, z 1989 r. poz. 192 oraz z 1991 r. poz. 422 i 453);
-- **3)** art. 13 ustawy z dnia 17 lutego 1960 r. o Polskiej Akademii Nauk (Dz. U. z 1970 r. poz. 35, z 1973 r. poz. 89, z 1974 r. poz. 319 oraz z 1989 r. poz. 178 i 192);
-- **4)** art. 69 pkt 2 i art. 133 pkt 2 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 1992 r. poz. 16 i 174);
-- **5)** art. 61 ust. 1 pkt 3 ustawy z dnia 30 czerwca 1970 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 1992 r. poz. 31);
-- **6)** art. 49 ustawy z dnia 16 grudnia 1972 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych i ich rodzin (Dz. U. z 1983 r. poz. 139, z późn. zm. );
-- **7)** art. 62 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 1982 r. poz. 19, z późn. zm. );
-- **8)** art. 25 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 1982 r. poz. 214, z późn. zm. );
-- **9)** art. 59 ust. 1 ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 1991 r. poz. 194 i 464);
-- **10)** art. 74 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 1990 r. poz. 179 oraz z 1991 r. poz. 422 i 461);
-- **11)** art. 61 ustawy z dnia 6 kwietnia 1990 r. o Urzędzie Ochrony Państwa (Dz. U. z 1990 r. poz. 180 oraz z 1991 r. poz. 422 i 461);
-- **12)** art. 120 i 153 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. z 1990 r. poz. 385);
-- **13)** art. 78 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 1990 r. poz. 462 oraz z 1991 r. poz. 422);
-- **14)** art. 64 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 1991 r. poz. 400 oraz z 1992 r. poz. 86);
-- **15)** art. 46 ust. 1 pkt 4 i ust. 2 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 1991 r. poz. 444 oraz z 1992 r. poz. 85);
-- **16)** art. 17 ust. 2 pkt 3 ustawy z dnia 16 października 1991 r. o ochronie przyrody (Dz. U. z 1991 r. poz. 492);
-- **17)** art. 112 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 1991 r. poz. 425 oraz z 1992 r. poz. 113).
-
-**Art. 10.** (pominięty)
-
-**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 1993 r., z tym że art. 10 wchodzi w życie z dniem ogłoszenia .
+**Art. 11.**
 

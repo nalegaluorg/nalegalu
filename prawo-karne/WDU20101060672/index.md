@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o usługach turystycznych oraz o zmianie ustawy – Kodeks wykroczeń
+# Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy o usługach turystycznych oraz o zmianie ustawy - Kodeks wykroczeń
 
 *USTAWA z dnia 29 kwietnia 2010 r.*
 

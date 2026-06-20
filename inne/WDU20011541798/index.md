@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodzie psychologa i samorządzie zawodowym psychologów oraz ustawy o zmianie ustawy - Prawo o ruchu drogowym
+# Ustawa z dnia 21 grudnia 2001 r. o zmianie ustawy o zawodzie psychologa i samorządzie zawodowym psychologów oraz ustawy o zmianie ustawy - Prawo o ruchu drogowym.
 
 *USTAWA z dnia 21 grudnia 2001 r.*
 

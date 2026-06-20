@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wsparciu kobiet w ciąży i rodzin „Za życiem”
+# Ustawa z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin "Za życiem"
 
 *USTAWA z dnia 4 listopada 2016 r.*
 
@@ -174,7 +174,9 @@ source: pdf
 
 2. Wojewoda obowiązany jest do przedstawienia Radzie Ministrów corocznie do dnia 30 kwietnia informacji z realizacji ustawy za rok poprzedni.
 
-3. Rada gminy, rada powiatu oraz sejmik województwa, biorąc pod uwagę lokalne potrzeby w zakresie wspierania kobiet w ciąży, rodzin oraz dzieci, o których mowa w art. 4 ust. 1 pkt 3 i ust. 2 pkt 2–4, mogą w drodze uchwały ustanowić dla osób zamieszkałych na terenie jej działania uprawnienia na rzecz kobiet, rodzin i dzieci, inne niż określone w niniejszej ustawie. Art. 14–20. (pominięte)
+3. Rada gminy, rada powiatu oraz sejmik województwa, biorąc pod uwagę lokalne potrzeby w zakresie wspierania kobiet w ciąży, rodzin oraz dzieci, o których mowa w art. 4 ust. 1 pkt 3 i ust. 2 pkt 2–4, mogą w drodze uchwały ustanowić dla osób zamieszkałych na terenie jej działania uprawnienia na rzecz kobiet, rodzin i dzieci, inne niż określone w niniejszej ustawie.
+
+**Art. 14–20.** (pominięte)
 
 **Art. 21.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem art. 7, art. 12 i art. 18 pkt 3 i 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia . Załącznik do ustawy z dnia 4 listopada 2016 r. (Dz. U. z 2024 r. poz.
 

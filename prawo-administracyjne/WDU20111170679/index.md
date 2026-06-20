@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie gminnym
+# Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy o samorządzie gminnym
 
 *USTAWA z dnia 15 kwietnia 2011 r.*
 

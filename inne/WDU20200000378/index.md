@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o etykietowaniu energetycznym produktów związanych z energią
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 lutego 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o etykietowaniu energetycznym produktów związanych z energią
 
 | Pole | Wartość |
 |---|---|
@@ -28,7 +28,6 @@ source: pdf
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 września 2012 r. o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych (Dz. U. z 2016 r. poz. 1790), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 kwietnia 2019 r. o zmianie ustawy o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych oraz niektórych innych ustaw (Dz. U. poz. 1030) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 lutego 2020 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 5, art. 6 i art. 9 ustawy z dnia 12 kwietnia 2019 r. o zmianie ustawy o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych oraz niektórych innych ustaw (Dz. U. poz. 1030), które stanowią: „ Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1369 z dnia 4 lipca 2017 r. ustanawiającego ramy etykietowania energetycznego i uchylającego dyrektywę 2010/30/UE (Dz. Urz.
 UE L 198 z 28.07.2017, str. 1).” „Art. 5. W przypadku produktów związanych z energią wprowadzonych do obrotu i oddanych do użytku przed dniem 1 sierpnia 2017 r. dostawca przechowuje dokumentację techniczną produktu związanego z energią przez okres 5 lat po zakończeniu produkcji danego egzemplarza produktu i udostępnia ją w postaci elektronicznej na wniosek organu kontrolującego lub Komisji Europejskiej w terminie 10 dni od dnia otrzymania tego wniosku.
-Art. 19–21. (pominięte)
 
 **Art. 6.**
 
@@ -228,6 +227,8 @@ Art. 19–21. (pominięte)
 **Art. 18.** Właściwość miejscową organu kontrolującego w sprawach, o których mowa w art. 14 ust. 2 i w art. 17, ustala się według miejsca przeprowadzenia kontroli.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 19–21.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
 

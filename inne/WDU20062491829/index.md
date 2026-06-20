@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Polskiej Agencji Żeglugi Powietrznej
+# Ustawa z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej
 
 *USTAWA z dnia 8 grudnia 2006 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne
+# Ustawa z dnia 16 grudnia 2005 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne
 
 *USTAWA z dnia 16 grudnia 2005 r.*
 

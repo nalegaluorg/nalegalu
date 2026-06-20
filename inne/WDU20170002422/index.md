@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o odpadach oraz niektórych innych ustaw
+# Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 listopada 2017 r.*
 
@@ -159,7 +159,11 @@ source: pdf
 - **2)** sprawozdań – na podstawie art. 15 ust. 1, art. 30 ust. 1 i art. 38 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji,
 - **3)** sprawozdań – na podstawie art. 34 ust. 2, art. 35 ust. 1, art. 36 ust. 4, art. 37 ust. 6, art. 41 ust. 3, art. 59 ust. 3 i art. 64 ust. 5 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach – sporządzają i składają je, za rok 2017 i za rok 2018, stosując przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych lub sprawozdań lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym, podlega karze grzywny, o której mowa w art. 180a.
 
-2. Do złożonych zbiorczych zestawień danych i sprawozdań, o których mowa w ust. 1, stosuje się przepisy dotychczasowe. Art. 237ab. 1. Podmioty, o których mowa w art. 73 ust. 1 pkt 3, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania sprawozdań na podstawie art. 4 ust. 5, art. 10 ust. 1 i 2 oraz art. 15 ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej – w zakresie dotyczącym produktów, o których mowa w załączniku nr 4a do tej ustawy, sporządzają i składają je, za rok 2017 i za rok 2018, stosując odpowiednio przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych lub sprawozdań lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym, podlega karze grzywny, o której mowa w art. 180a.
+2. Do złożonych zbiorczych zestawień danych i sprawozdań, o których mowa w ust. 1, stosuje się przepisy dotychczasowe.
+
+**Art. 237ab.**
+
+1. Podmioty, o których mowa w art. 73 ust. 1 pkt 3, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania sprawozdań na podstawie art. 4 ust. 5, art. 10 ust. 1 i 2 oraz art. 15 ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej – w zakresie dotyczącym produktów, o których mowa w załączniku nr 4a do tej ustawy, sporządzają i składają je, za rok 2017 i za rok 2018, stosując odpowiednio przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych lub sprawozdań lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym, podlega karze grzywny, o której mowa w art. 180a.
 
 2. Do złożonych sprawozdań, o których mowa w ust. 1, stosuje się odpowiednio przepisy dotychczasowe.”;
 

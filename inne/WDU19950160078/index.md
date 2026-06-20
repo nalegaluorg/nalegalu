@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie gruntów rolnych i leśnych
+# Ustawa z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych.
 
 *USTAWA z dnia 3 lutego 1995 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o zgromadzeniach
+# Ustawa z dnia 13 grudnia 2016 r. o zmianie ustawy - Prawo o zgromadzeniach
 
 *USTAWA z dnia 13 grudnia 2016 r.*
 

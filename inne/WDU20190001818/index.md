@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o realizowaniu usług społecznych przez centrum usług społecznych
+# Ustawa z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych
 
 *USTAWA z dnia 19 lipca 2019 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-09-24 |
 | Ostatnia zmiana | 2026-02-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001818) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1818/text.pdf) |
-
-Art. 51–75. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -552,6 +550,8 @@ Art. 51–75. (pominięte)
 4. Osoby przetwarzające dane osobowe, o których mowa w ust. 1, są obowiązane do zachowania ich w poufności.
 
 #### Rozdział 6 Zmiany w przepisach
+
+**Art. 51–75.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i przepis końcowy
 

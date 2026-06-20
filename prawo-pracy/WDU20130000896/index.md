@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks pracy oraz ustawy o związkach zawodowych
+# Ustawa z dnia 12 lipca 2013 r. o zmianie ustawy - Kodeks pracy oraz ustawy o związkach zawodowych
 
 *USTAWA z dnia 12 lipca 2013 r.*
 

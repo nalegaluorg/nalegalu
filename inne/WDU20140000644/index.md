@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym, ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” oraz ustawy o Funduszu Kolejowym
+# Ustawa z dnia 24 kwietnia 2014 r. o zmianie ustawy o transporcie kolejowym, ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego "Polskie Koleje Państwowe" oraz ustawy o Funduszu Kolejowym
 
 *USTAWA z dnia 24 kwietnia 2014 r.*
 

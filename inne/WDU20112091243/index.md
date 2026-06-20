@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o języku migowym i innych środkach komunikowania się
+# Ustawa z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się
 
 *USTAWA z dnia 19 sierpnia 2011 r.*
 

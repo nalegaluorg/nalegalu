@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o kontroli w administracji rządowej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kontroli w administracji rządowej
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 15 lipca 2011 r.
 o kontroli w administracji rządowej
-Art. 58–76. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -475,6 +474,8 @@ Art. 58–76. (pominięte)
 2. Kierownik jednostki kontrolującej może przesłać informację o wynikach kontroli do innych organów lub jednostek, które uzna za właściwe.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 58–76.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

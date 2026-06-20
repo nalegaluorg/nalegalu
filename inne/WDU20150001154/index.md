@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Funduszu Kolejowym
+# Ustawa z dnia 10 lipca 2015 r. o zmianie ustawy o Funduszu Kolejowym
 
 *USTAWA z dnia 10 lipca 2015 r.*
 

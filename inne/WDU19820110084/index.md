@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Trybunale Stanu
+# Ustawa z dnia 26 marca 1982 r. o Trybunale Stanu.
 
 *USTAWA z dnia 26 marca 1982 r.*
 

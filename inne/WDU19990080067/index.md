@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zważywszy, że w Europejskiej Konwencji o Ochronie Praw Człowieka i Podstawowych Wolności podpisanej w Rzymie 14 listopada 1950 r. i w Protokole do niej podpisanym w Paryżu 20 marca 1951 r. Państwa Członkowskie Rady Europy zgodziły się zapewnić swej ludności prawa i wolności obywatelskie i polityczne w nich określone;
+# Europejska Karta Społeczna sporządzona w Turynie dnia 18 października 1961 r.
 
 | Pole | Wartość |
 |---|---|

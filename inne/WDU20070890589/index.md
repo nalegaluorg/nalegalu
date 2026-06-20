@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Państwowej Inspekcji Pracy
+# Ustawa z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy
 
 *USTAWA z dnia 13 kwietnia 2007 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2007-05-21 |
 | Ostatnia zmiana | 2026-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070890589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/589/text.pdf) |
-
-Art. 94–103. (pominięte)
 
 #### Rozdział 1 Organizacja Państwowej Inspekcji Pracy
 
@@ -221,7 +219,7 @@ Art. 94–103. (pominięte)
 - **6a)** nakazania wykonania badań i pomiarów czynników szkodliwych i uciążliwych w środowisku pracy w przypadku naruszenia trybu, metod, rodzaju lub częstotliwości wykonania tych badań i pomiarów lub konieczności stwierdzenia wykonywania pracy w szczególnych warunkach;
 - **7)** nakazania pracodawcy wypłaty należnego wynagrodzenia za pracę, a także innego świadczenia przysługującego pracownikowi; nakazy w tych sprawach podlegają natychmiastowemu wykonaniu; <7a) stwierdzania, w drodze decyzji, istnienia stosunku pracy, w sytuacji kiedy zawarto umowę cywilnoprawną lub kiedy osoba faktycznie świadczy pracę za wynagrodzeniem w warunkach, w których zgodnie z art. 22 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy powinna być zawarta umowa o pracę, przy czym warunkiem wydania decyzji jest niewykonanie polecenia, o którym mowa w ust. 2 pkt 2. Art. 10 Kodeksu postępowania administracyjnego stosuje się;> [8) skierowania wystąpienia lub wydania polecenia, w razie stwierdzenia innych naruszeń niż wymienione w pkt 1–7, w sprawie ich usunięcia, a także wyciągnięcia konsekwencji w stosunku do osób winnych.] <8) skierowania wystąpienia lub wydania polecenia w razie stwierdzenia innych naruszeń niż wymienione w pkt 1–7, a także wyciągnięcia konsekwencji w stosunku do osób odpowiedzialnych.> <2. Właściwe organy Państwowej Inspekcji Pracy, po umożliwieniu stronom stosunku prawnego zajęcia stanowiska, są uprawnione również do wydania polecenia usunięcia naruszeń dotyczących:
 - **1)** funkcjonowania umowy cywilnoprawnej lub
-- **2)** niezawarcia umowy o pracę – w sytuacji gdy w stosunku prawnym łączącym strony dominują cechy stosunku pracy określone w art. 22 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.>
+- **2)** niezawarcia umowy o pracę – w sytuacji gdy w stosunku prawnym łączącym strony dominują cechy stosunku pracy określone w art. 22 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 11a.** Właściwe organy Państwowej Inspekcji Pracy są uprawnione do nakazania pracodawcy:
 
@@ -238,7 +236,7 @@ Art. 94–103. (pominięte)
 - **3)** podmioty, o których mowa w art. 306 ust. 1, oraz podmioty prowadzące działalność, o której mowa w art. 306 ust. 2 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia – w zakresie przestrzegania warunków określonych w art. 306 ust. 3, art. 319, art. 321, art. 325 i art. 338 ust. 2 i 3 tej ustawy, 3a) przedsiębiorcy, do których stosuje się przepisy ustawy z dnia 10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni,
 - **4)** pracodawcy delegujący pracowników na terytorium RP w zakresie określonym w ustawie z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług, 4a) przewoźnicy drogowi delegujący kierowców na terytorium Rzeczypospolitej Polskiej albo z terytorium Rzeczypospolitej Polskiej oraz kierowcy delegowani na terytorium Rzeczypospolitej Polskiej albo z terytorium Rzeczypospolitej Polskiej, w zakresie określonym w ustawie z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym, 4b) przewoźnicy drogowi z państwa trzeciego delegujący kierowców na terytorium Rzeczypospolitej Polskiej oraz kierowcy delegowani na terytorium Rzeczypospolitej Polskiej z państwa trzeciego, w zakresie określonym w ustawie z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym, [5) przedsiębiorcy albo inne jednostki organizacyjne, na rzecz których w ramach prowadzonej przez te podmioty działalności jest wykonywane zlecenie lub są świadczone usługi przez przyjmującego zlecenie lub świadczącego usługi – w zakresie wypłacania takim osobom wynagrodzenia w wysokości wynikającej z wysokości minimalnej stawki godzinowej, zgodnie z przepisami ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę,] <5) przedsiębiorcy i inne jednostki organizacyjne, na rzecz których w ramach prowadzonej przez te podmioty działalności:
     - **a)** jest lub w okresie roku poprzedzającego dzień rozpoczęcia kontroli było wykonywane zlecenie,
-    - **b)** są lub w okresie roku poprzedzającego dzień rozpoczęcia kontroli były świadczone usługi przez przyjmującego zlecenie lub świadczącego usługi – w zakresie wypłacania takim osobom wynagrodzenia w wysokości wynikającej z wysokości minimalnej stawki godzinowej, zgodnie z przepisami ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę,>
+    - **b)** są lub w okresie roku poprzedzającego dzień rozpoczęcia kontroli były świadczone usługi przez przyjmującego zlecenie lub świadczącego usługi – w zakresie wypłacania takim osobom wynagrodzenia w wysokości wynikającej z wysokości minimalnej stawki godzinowej, zgodnie z przepisami ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę,
 
 - **6)** podmioty zatrudniające, o których mowa w art. 2 ust. 1 pkt 21 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych – w zakresie obowiązków wynikających z przepisów tej ustawy – zwani dalej „podmiotami kontrolowanymi”.
 
@@ -261,7 +259,9 @@ Art. 94–103. (pominięte)
 
 4. Państwowa Inspekcja Pracy ma prawo – w uzasadnionych przypadkach – występować do organów administracji publicznej, w tym naczelników urzędów skarbowych i dyrektorów izb administracji skarbowej, a także Zakładu Ubezpieczeń Społecznych oraz innych właściwych podmiotów z wnioskiem o udzielenie informacji niezbędnych do udzielenia porad, o których mowa w art. 10 ust. 1 pkt 14a.
 
-5. Podmioty, o których mowa w ust. 4, mają obowiązek udzielenia informacji, o których mowa w tym przepisie, w terminie 15 dni roboczych od dnia otrzymania wniosku Państwowej Inspekcji Pracy, chyba że udzielenie informacji przez te podmioty wymaga uprzedniego przeprowadzenia postępowania wyjaśniającego lub kontroli. O przyczynach opóźnienia podmiot informuje niezwłocznie Państwową Inspekcję Pracy. <Art. 14a. Państwowa Inspekcja Pracy udostępnia Zakładowi Ubezpieczeń Społecznych:
+5. Podmioty, o których mowa w ust. 4, mają obowiązek udzielenia informacji, o których mowa w tym przepisie, w terminie 15 dni roboczych od dnia otrzymania wniosku Państwowej Inspekcji Pracy, chyba że udzielenie informacji przez te podmioty wymaga uprzedniego przeprowadzenia postępowania wyjaśniającego lub kontroli. O przyczynach opóźnienia podmiot informuje niezwłocznie Państwową Inspekcję Pracy.
+
+**Art. 14a.** Państwowa Inspekcja Pracy udostępnia Zakładowi Ubezpieczeń Społecznych:
 
 - **1)** ustalone podczas kontroli dane podmiotu kontrolowanego obejmujące:
     - **a)** numer identyfikacji podatkowej (NIP),
@@ -326,7 +326,7 @@ Art. 94–103. (pominięte)
 
 17. Interpretacja indywidualna jest wiążąca dla organów Państwowej Inspekcji Pracy i może zostać zmieniona albo uchylona wyłącznie w razie zmiany okoliczności sprawy.
 
-18. Wydana interpretacja indywidualna jest przekazywana niezwłocznie Zakładowi Ubezpieczeń Społecznych oraz Krajowej Administracji Skarbowej.>
+18. Wydana interpretacja indywidualna jest przekazywana niezwłocznie Zakładowi Ubezpieczeń Społecznych oraz Krajowej Administracji Skarbowej.
 
 **Art. 15.** W razie uzasadnionej potrzeby oraz w celu zapewnienia bezpieczeństwa kontrolującym, organy Policji są obowiązane, na wniosek inspektora pracy, do udzielenia stosownej pomocy.
 
@@ -396,7 +396,7 @@ Art. 94–103. (pominięte)
 - **8)** powiadamianie marszałka właściwego województwa o stwierdzonych przypadkach naruszenia warunków prowadzenia agencji zatrudnienia określonych w przepisach o rynku pracy i służbach zatrudnienia;
 - **9)** powiadamianie właściwego starosty o stwierdzonych przypadkach naruszenia przepisów o rynku pracy i służbach zatrudnienia przez podmiot kontrolowany oraz przepisów o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej. <1a. Okręgowy inspektor pracy informuje właściwe organy podatkowe o:
 - **1)** przekazaniu do sądu powszechnego odwołania od decyzji, o której mowa w art. 11 ust. 1 pkt 7a, oraz uprawomocnieniu się orzeczenia sądu w sprawie tej decyzji;
-- **2)** wniesieniu powództwa, o którym mowa w art. 33a ust. 3, oraz uprawomocnieniu się orzeczenia sądu wydanego w wyniku wniesienia tego powództwa.>
+- **2)** wniesieniu powództwa, o którym mowa w art. 33a ust. 3, oraz uprawomocnieniu się orzeczenia sądu wydanego w wyniku wniesienia tego powództwa.
 
 2. Okręgowy inspektor pracy wykonuje swoje zadania przy pomocy okręgowego inspektoratu pracy.
 
@@ -443,7 +443,9 @@ Art. 94–103. (pominięte)
 
 5. W razie uwzględnienia zażalenia protokół przesłuchania pracownika lub osoby podlega zniszczeniu; o zniszczeniu protokołu należy uczynić wzmiankę w protokole pokontrolnym.
 
-6. Główny Inspektor Pracy określi zasady postępowania z protokołami przesłuchań i innymi dokumentami, o których mowa w ust. 2–5. <Art. 23a. Inspektor pracy może zwrócić się do właściwego terytorialnie okręgowego inspektora pracy, aby wezwał osobę zamieszkującą lub przebywającą na terenie działania tego inspektoratu pracy do złożenia wyjaśnień lub zeznań związanych z przeprowadzaną kontrolą. Inspektor pracy przeprowadzający kontrolę wskazuje okoliczności będące przedmiotem wyjaśnień lub zeznań.>
+6. Główny Inspektor Pracy określi zasady postępowania z protokołami przesłuchań i innymi dokumentami, o których mowa w ust. 2–5.
+
+**Art. 23a.** Inspektor pracy może zwrócić się do właściwego terytorialnie okręgowego inspektora pracy, aby wezwał osobę zamieszkującą lub przebywającą na terenie działania tego inspektoratu pracy do złożenia wyjaśnień lub zeznań związanych z przeprowadzaną kontrolą. Inspektor pracy przeprowadzający kontrolę wskazuje okoliczności będące przedmiotem wyjaśnień lub zeznań.
 
 **Art. 24.**
 
@@ -487,7 +489,7 @@ Art. 94–103. (pominięte)
 
 7. W przypadku kontroli, o której mowa w ust. 5, okazanie legitymacji służbowej oraz przekazanie upoważnienia do przeprowadzania kontroli odbywa się za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
 
-8. Prowadzenie kontroli lub poszczególnych czynności kontrolnych w sposób zdalny odbywa się przy użyciu środków technicznych i organizacyjnych zapewniających odpowiedni poziom bezpieczeństwa w systemach teleinformatycznych, w tym poufność, dostępność i integralność transmisji danych, z zastosowaniem mechanizmów kryptograficznych w sposób adekwatny do zagrożeń lub wymogów przepisów prawa, o których mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160).>
+8. Prowadzenie kontroli lub poszczególnych czynności kontrolnych w sposób zdalny odbywa się przy użyciu środków technicznych i organizacyjnych zapewniających odpowiedni poziom bezpieczeństwa w systemach teleinformatycznych, w tym poufność, dostępność i integralność transmisji danych, z zastosowaniem mechanizmów kryptograficznych w sposób adekwatny do zagrożeń lub wymogów przepisów prawa, o których mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160).
 
 **Art. 27.** Podmiot kontrolowany ma obowiązek zapewnić inspektorowi pracy warunki i środki niezbędne do sprawnego przeprowadzenia kontroli, a w szczególności niezwłocznie przedstawić żądane dokumenty i materiały, zapewnić terminowe udzielanie informacji przez osoby, o których mowa w art. 23 ust. 1 pkt 3, udostępnić urządzenia techniczne oraz, w miarę możliwości, oddzielne pomieszczenie z odpowiednim wyposażeniem.
 
@@ -552,7 +554,11 @@ Art. 94–103. (pominięte)
 
 - **4)** podejmuje inne działania, jeżeli prawo lub obowiązek ich podjęcia wynika z odrębnych przepisów.
 
-2. Środki prawne, o których mowa w ust. 1 pkt 1 i 2, dotyczące terenowych jednostek organizacyjnych podmiotu kontrolowanego, inspektor pracy kieruje do tego podmiotu, bez względu na swoją właściwość terytorialną. Jeżeli usunięcie stwierdzonych nieprawidłowości nie wymaga decyzji pracodawcy, a także gdy nie można inaczej uniknąć niebezpieczeństwa zagrażającego życiu lub zdrowiu pracowników, decyzje, o których mowa w art. 34 ust. 1, wydaje się osobie kierującej tą jednostką. <Art. 33a. 1. Na podstawie ustaleń dokonanych w toku kontroli przez inspektora pracy okręgowy inspektor pracy zawiadamia strony o wszczęciu postępowania w sprawie decyzji, o której mowa w art. 11 ust. 1 pkt 7a.
+2. Środki prawne, o których mowa w ust. 1 pkt 1 i 2, dotyczące terenowych jednostek organizacyjnych podmiotu kontrolowanego, inspektor pracy kieruje do tego podmiotu, bez względu na swoją właściwość terytorialną. Jeżeli usunięcie stwierdzonych nieprawidłowości nie wymaga decyzji pracodawcy, a także gdy nie można inaczej uniknąć niebezpieczeństwa zagrażającego życiu lub zdrowiu pracowników, decyzje, o których mowa w art. 34 ust. 1, wydaje się osobie kierującej tą jednostką.
+
+**Art. 33a.**
+
+1. Na podstawie ustaleń dokonanych w toku kontroli przez inspektora pracy okręgowy inspektor pracy zawiadamia strony o wszczęciu postępowania w sprawie decyzji, o której mowa w art. 11 ust. 1 pkt 7a.
 
 2. Stronami postępowania, o których mowa w ust. 1, są podmioty i osoby, których może dotyczyć decyzja, o której mowa w art. 11 ust. 1 pkt 7a.
 
@@ -566,7 +572,7 @@ Art. 94–103. (pominięte)
 
 7. W przypadku wniesienia powództwa, o którym mowa w ust. 3, okręgowy inspektor pracy nie wydaje decyzji w zakresie objętym powództwem.
 
-8. Wszczęcie przez okręgowego inspektora pracy postępowania, o którym mowa w ust. 1, przerywa bieg przedawnienia roszczeń pracowniczych dotyczących stosunku pracy. Po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia uprawomocnienia się decyzji wydanej w tym postępowaniu albo od dnia uprawomocnienia się orzeczenia sądu wydanego w wyniku wniesienia odwołania albo powództwa o ustalenie istnienia lub treści stosunku pracy.>
+8. Wszczęcie przez okręgowego inspektora pracy postępowania, o którym mowa w ust. 1, przerywa bieg przedawnienia roszczeń pracowniczych dotyczących stosunku pracy. Po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia uprawomocnienia się decyzji wydanej w tym postępowaniu albo od dnia uprawomocnienia się orzeczenia sądu wydanego w wyniku wniesienia odwołania albo powództwa o ustalenie istnienia lub treści stosunku pracy.
 
 **Art. 34.** [1. Decyzje, o których mowa w art. 11 pkt 1–7 i art. 11a, wydawane są w formie pisemnej lub stanowiącej wpis do dziennika budowy.] <1. Decyzje, o których mowa w art. 11 ust. 1 pkt 1–7a i art. 11a, są wydawane na piśmie utrwalonym w postaci papierowej lub elektronicznej.> [1a. Decyzje, o których mowa w art. 11 pkt 1–4, mogą być wydawane w formie ustnej.] <1a. Decyzje, o których mowa w art. 11 ust. 1 pkt 1–4, mogą być wydawane w formie ustnej lub w formie wpisu do dziennika budowy.> [1b. Polecenia, o których mowa w art. 11 pkt 8 i art. 11b, wydawane są w formie ustnej.] <1b. Polecenia, o których mowa w art. 11 ust. 1 pkt 8 i art. 11b, są wydawane w formie ustnej.> <1c. Polecenie, o którym mowa w art. 11 ust. 2, wydaje się na piśmie utrwalonym w postaci papierowej lub elektronicznej. Inspektor pracy, wydając polecenie, określa termin jego wykonania w taki sposób, żeby ocena jego wykonania w oparciu o całokształt okoliczności sprawy nastąpiła w trakcie trwania kontroli.> [2. Decyzja wydana w formie pisemnej lub stanowiąca wpis do dziennika budowy powinna zawierać: oznaczenie organu Państwowej Inspekcji Pracy, datę wydania, oznaczenie strony lub stron, powołanie podstawy prawnej, rozstrzygnięcie, termin usunięcia stwierdzonych uchybień oraz pouczenie o przysługujących środkach odwoławczych.] <2. Decyzje, o których mowa w ust. 1 i 1a, wydane na piśmie utrwalonym w postaci papierowej lub elektronicznej albo w formie wpisu do dziennika budowy zawierają:
 
@@ -612,7 +618,7 @@ Art. 94–103. (pominięte)
 
 2k. Decyzja, o której mowa w art. 11 ust. 1 pkt 7a, staje się wykonalna z dniem następującym po dniu, w którym upływa termin do wniesienia odwołania, jeżeli żadna ze stron nie wniosła odwołania, albo z dniem prawomocnego orzeczenia sądu, albo z dniem nadania jej rygoru natychmiastowej wykonalności.
 
-2l. Wydanie decyzji, o której mowa w art. 11 ust. 1 pkt 7a, nie może być podstawą jakiegokolwiek niekorzystnego traktowania pracownika, zwłaszcza nie może stanowić przyczyny uzasadniającej wypowiedzenie stosunku pracy lub jego rozwiązanie bez wypowiedzenia przez pracodawcę.>
+2l. Wydanie decyzji, o której mowa w art. 11 ust. 1 pkt 7a, nie może być podstawą jakiegokolwiek niekorzystnego traktowania pracownika, zwłaszcza nie może stanowić przyczyny uzasadniającej wypowiedzenie stosunku pracy lub jego rozwiązanie bez wypowiedzenia przez pracodawcę.
 
 3. W przypadku wydania decyzji w formie wpisu do dziennika budowy, kopia lub odpis tej decyzji stanowi załącznik do protokołu kontroli. [4. Decyzje i polecenia, o których mowa w ust. 1a i 1b, wydaje się w celu usunięcia ujawnionych w toku kontroli uchybień, jeżeli mogą być one usunięte podczas trwania kontroli lub niezwłocznie po jej zakończeniu.] <4. Decyzje wydawane w formie ustnej, o których mowa w ust. 1a, i polecenia, o których mowa w ust. 1b, wydaje się w celu usunięcia ujawnionych w toku kontroli uchybień, jeżeli mogą być one usunięte podczas trwania kontroli.> [5. Od decyzji inspektora pracy wydanej w formie pisemnej lub stanowiącej wpis do dziennika budowy, podmiotowi kontrolowanemu przysługuje odwołanie do okręgowego inspektora pracy. Odwołanie wnosi się w terminie 7 dni od daty otrzymania decyzji.] <5. Od decyzji inspektora pracy, o których mowa w art. 11 ust. 1 pkt 1–7 i art. 11a, wydanych na piśmie utrwalonym w postaci papierowej lub elektronicznej albo w formie wpisu do dziennika budowy, przysługuje podmiotowi kontrolowanemu odwołanie do okręgowego inspektora pracy właściwego dla miejsca wykonywania czynności kontrolnych. Odwołanie wnosi się w terminie 7 dni od dnia doręczenia decyzji.> <5a. Stronie przysługuje odwołanie od decyzji, o której mowa w art. 11 ust. 1 pkt 7a, oraz zażalenie na postanowienie nadające takiej decyzji rygor natychmiastowej wykonalności na zasadach określonych w ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.> [6. W razie wniesienia odwołania od decyzji wydanych w przypadkach, o których mowa w art. 11 pkt 2–4, okręgowy inspektor pracy może wstrzymać jej wykonanie do czasu rozpatrzenia odwołania, jeżeli podjęte przez podmiot kontrolowany przedsięwzięcia wyłączają bezpośrednie zagrożenie życia lub zdrowia ludzi.] <6. W razie wniesienia odwołania od decyzji wydanych w przypadkach, o których mowa w art. 11 ust. 1 pkt 2–4, okręgowy inspektor pracy może wstrzymać ich wykonanie do czasu rozpatrzenia odwołania, jeżeli podjęte przez podmiot kontrolowany przedsięwzięcia wyłączają bezpośrednie zagrożenia życia lub zdrowia ludzi.>
 
@@ -644,7 +650,9 @@ Art. 94–103. (pominięte)
 **Art. 37a.** W uzasadnionych przypadkach, wobec pracodawcy rozpoczynającego działalność, a także jeżeli nie stwierdzono:
 
 - **1)** bezpośredniego zagrożenia życia lub zdrowia pracowników lub innych osób wykonujących pracę,
-- **2)** popełnienia wykroczenia z winy umyślnej – inspektor pracy może odstąpić od stosowania środków prawnych, o których mowa w art. 33, poprzestając na ustnym pouczeniu o sposobach zgodnego z wymogami prawa zorganizowania pracy i odebraniu od podmiotu kontrolowanego oświadczenia o terminie usunięcia ujawnionych w toku kontroli uchybień. Art. 37aa. Główny Inspektor Pracy określi, w drodze zarządzenia, metody i standardy zarządzania kontrolami Państwowej Inspekcji Pracy.
+- **2)** popełnienia wykroczenia z winy umyślnej – inspektor pracy może odstąpić od stosowania środków prawnych, o których mowa w art. 33, poprzestając na ustnym pouczeniu o sposobach zgodnego z wymogami prawa zorganizowania pracy i odebraniu od podmiotu kontrolowanego oświadczenia o terminie usunięcia ujawnionych w toku kontroli uchybień.
+
+**Art. 37aa.** Główny Inspektor Pracy określi, w drodze zarządzenia, metody i standardy zarządzania kontrolami Państwowej Inspekcji Pracy.
 
 **Art. 37b.** Do kontroli, o której mowa w art. 10 ust. 1 pkt 4, nie stosuje się przepisów art. 47 ust. 1a oraz art. 55a ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ).
 
@@ -1246,6 +1254,8 @@ Art. 94–103. (pominięte)
 **Art. 93.** Główny Inspektor Pracy określi, w drodze zarządzenia, organizację, skład oraz tryb pracy komisji dyscyplinarnych, o których mowa w art. 71 ust. 4 oraz tryb pracy rzecznika dyscyplinarnego.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 94–103.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

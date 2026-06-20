@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych upoważnień do wydawania aktów wykonawczych
+# Ustawa z dnia 19 marca 1997 r. o zmianie niektórych upoważnień do wydawania aktów wykonawczych.
 
 *USTAWA z dnia 19 marca 1997 r.*
 

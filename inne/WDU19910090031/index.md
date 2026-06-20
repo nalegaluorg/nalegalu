@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podatkach i opłatach lokalnych
+# Ustawa z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych.
 
 *USTAWA z dnia 12 stycznia 1991 r.*
 

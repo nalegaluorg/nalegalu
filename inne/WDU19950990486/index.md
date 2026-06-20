@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pracowniczych ogrodach działkowych
+# Ustawa z dnia 23 czerwca 1995 r. o zmianie ustawy o pracowniczych ogrodach działkowych.
 
 *USTAWA z dnia 23 czerwca 1995 r.*
 

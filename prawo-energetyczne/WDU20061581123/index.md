@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo energetyczne
+# Ustawa z dnia 21 lipca 2006 r. o zmianie ustawy - Prawo energetyczne
 
 *USTAWA z dnia 21 lipca 2006 r.*
 

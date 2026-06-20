@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 listopada 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|

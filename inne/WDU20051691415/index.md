@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o państwowej kompensacie przysługującej ofiarom niektórych czynów zabronionych
+# Ustawa z dnia 7 lipca 2005 r. o państwowej kompensacie przysługującej ofiarom niektórych czynów zabronionych
 
 *USTAWA z dnia 7 lipca 2005 r.*
 

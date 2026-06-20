@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji
+# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o Policji
 
 *USTAWA z dnia 19 sierpnia 2011 r.*
 

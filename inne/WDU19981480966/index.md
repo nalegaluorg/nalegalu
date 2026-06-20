@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Najwyższej Izbie Kontroli
+# Ustawa z dnia 8 maja 1998 r. o zmianie ustawy o Najwyższej Izbie Kontroli.
 
 *USTAWA z dnia 8 maja 1998 r.*
 

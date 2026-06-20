@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o budowie zabezpieczenia granicy państwowej
+# Ustawa z dnia 29 października 2021 r. o budowie zabezpieczenia granicy państwowej
 
 *USTAWA z dnia 29 października 2021 r.*
 

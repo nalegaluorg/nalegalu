@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Uniwersytetu Kardynała Stefana Wyszyńskiego w Warszawie
+# Ustawa z dnia 3 września 1999 r. o utworzeniu Uniwersytetu Kardynała Stefana Wyszyńskiego w Warszawie.
 
 *USTAWA z dnia 3 września 1999 r.*
 

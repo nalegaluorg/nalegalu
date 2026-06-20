@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie Dla uczczenia jubileuszu stulecia odrodzenia się niepodległej Rzeczypospolitej, aby przywrócić historyczny kształt reprezentacyjnej przestrzeni Placu Marszałka Józefa Piłsudskiego w Warszawie zniszczonej w czasie II wojny światowej, dla zadośćuczynienia woli Polaków i umocnienia jedności wspólnoty obywatelskiej, której symbolem będą odbudowane pałace Saski i Brühla wraz z zespołem kamienic przy ulicy Królewskiej, a także, by dopełnić dzieła odbudowy stolicy, zniszczonej i zburzonej przez niemieckich okupantów, aby te gmachy i budowle, które przed stu laty dumnie wyrażały suwerenność państwa polskiego, służyły Polakom zarówno współcześnie, jak i w kolejnych pokoleniach i były widomym znakiem ciągłości naszych dziejów, a zarazem świadectwem silnej i nowoczesnej Rzeczypospolitej, uchwala się, co następuje:
+# Ustawa z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie
 
 *USTAWA z dnia 11 sierpnia 2021 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-08-24 |
 | Ostatnia zmiana | 2024-04-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001551) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1551/text.pdf) |
-
-Art. 52–57. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -669,6 +667,8 @@ Art. 52–57. (pominięte)
 **Art. 51.** Wojewoda Mazowiecki jest organem egzekucyjnym prowadzącym egzekucję obowiązków o charakterze niepieniężnym wynikających z decyzji, o których mowa w art. 16 ust. 1, art. 28 ust. 1, art. 32 ust. 1 oraz art. 43 ust. 3.
 
 #### Rozdział 7 Przepisy zmieniające i przepis końcowy
+
+**Art. 52–57.** (pominięte)
 
 **Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

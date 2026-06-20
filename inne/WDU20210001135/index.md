@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o doręczeniach elektronicznych
+# Ustawa z dnia 15 czerwca 2021 r. o zmianie ustawy o doręczeniach elektronicznych
 
 *USTAWA z dnia 15 czerwca 2021 r.*
 

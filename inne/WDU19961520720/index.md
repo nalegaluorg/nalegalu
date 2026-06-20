@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kontroli skarbowej i niektórych innych ustaw
+# Ustawa z dnia 7 listopada 1996 r. o zmianie ustawy o kontroli skarbowej i niektórych innych ustaw.
 
 *USTAWA z dnia 7 listopada 1996 r.*
 

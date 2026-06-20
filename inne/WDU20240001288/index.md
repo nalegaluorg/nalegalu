@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej
 
 *USTAWA z dnia 7 października 2022 r.*
 

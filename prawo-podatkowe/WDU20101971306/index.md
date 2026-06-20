@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Ordynacja podatkowa oraz ustawy o zasadach ewidencji i identyfikacji podatników i płatników
+# Ustawa z dnia 24 września 2010 r. o zmianie ustawy - Ordynacja podatkowa oraz ustawy o zasadach ewidencji i identyfikacji podatników i płatników
 
 *USTAWA z dnia 24 września 2010 r.*
 

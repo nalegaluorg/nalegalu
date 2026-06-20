@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Karcie Polaka
+# Ustawa z dnia 16 maja 2019 r. o zmianie ustawy o Karcie Polaka
 
 *USTAWA z dnia 16 maja 2019 r.*
 

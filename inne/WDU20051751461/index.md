@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodach pielęgniarki i położnej oraz ustawy o zawodach lekarza i lekarza dentysty
+# Ustawa z dnia 29 lipca 2005 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz ustawy o zawodach lekarza i lekarza dentysty
 
 *USTAWA z dnia 29 lipca 2005 r.*
 

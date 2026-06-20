@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o stanie klęski żywiołowej
+# Ustawa z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej.
 
 *USTAWA z dnia 18 kwietnia 2002 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2002-05-22 |
 | Ostatnia zmiana | 2025-02-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020620558) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/558/text.pdf) |
-
-Art. 29–33. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -319,6 +317,8 @@ Art. 29–33. (pominięte)
 3. Po zniesieniu stanu klęski żywiołowej postępowanie w sprawach o wykroczenia określone w niniejszej ustawie prowadzi się na zasadach ogólnych.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących i przepis końcowy
+
+**Art. 29–33.** (pominięte)
 
 **Art. 34.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
 

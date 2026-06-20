@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o radcach prawnych
+# Ustawa z dnia 6 lipca 1982 r. o radcach prawnych.
 
 *USTAWA z dnia 6 lipca 1982 r.*
 

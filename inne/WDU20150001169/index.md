@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o niektórych formach popierania budownictwa mieszkaniowego oraz ustawę o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, ustawy o Banku Gospodarstwa Krajowego oraz niektórych innych ustaw
+# Ustawa z dnia 12 czerwca 2015 r. zmieniająca ustawę o niektórych formach popierania budownictwa mieszkaniowego oraz ustawę o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, ustawy o Banku Gospodarstwa Krajowego oraz niektórych innych ustaw
 
 *USTAWA z dnia 12 czerwca 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 29 sierpnia 2002 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-04-17 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/504/text.pdf) |
-
-Art. 35–37. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -395,6 +393,8 @@ Art. 35–37. (pominięte)
 3. Po zniesieniu stanu wojennego postępowanie w sprawach o wykroczenia określone w niniejszej ustawie prowadzi się na zasadach ogólnych.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących i przepisy końcowe
+
+**Art. 35–37.** (pominięte)
 
 **Art. 38.** Tracą moc:
 

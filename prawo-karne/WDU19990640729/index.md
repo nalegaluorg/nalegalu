@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks karny oraz ustawy o zawodzie lekarza
+# Ustawa z dnia 8 lipca 1999 r. o zmianie ustawy - Kodeks karny oraz ustawy o zawodzie lekarza.
 
 *USTAWA z dnia 8 lipca 1999 r.*
 

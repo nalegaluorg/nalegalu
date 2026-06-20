@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansach publicznych oraz ustawy o podatku od towarów i usług
+# Ustawa z dnia 12 grudnia 2012 r. o zmianie ustawy o finansach publicznych oraz ustawy o podatku od towarów i usług
 
 *USTAWA z dnia 12 grudnia 2012 r.*
 

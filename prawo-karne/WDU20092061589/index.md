@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny, ustawy – Kodeks postępowania karnego, ustawy – Kodeks karny wykonawczy, ustawy – Kodeks karny skarbowy oraz niektórych innych ustaw
+# Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego, ustawy - Kodeks karny wykonawczy, ustawy - Kodeks karny skarbowy oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 listopada 2009 r.*
 

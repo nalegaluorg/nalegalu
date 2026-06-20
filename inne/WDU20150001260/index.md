@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o nadzorze nad rynkiem kapitałowym oraz niektórych innych ustaw
+# Ustawa z dnia 12 czerwca 2015 r. o zmianie ustawy o nadzorze nad rynkiem kapitałowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 12 czerwca 2015 r.*
 

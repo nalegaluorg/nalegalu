@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
+# Ustawa z dnia 10 lutego 2017 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 lutego 2017 r.*
 

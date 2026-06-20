@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy, ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu, ustawy o zakazie stosowania wyrobów zawierających azbest, ustawy o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego oraz ustawy o ułatwieniu zatrudnienia absolwentom szkół
+# Ustawa z dnia 17 grudnia 2001 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy, ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu, ustawy o zakazie stosowania wyrobów zawierających azbest, ustawy o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego oraz ustawy o ułatwieniu zatrudnienia absolwentom szkół.
 
 *USTAWA z dnia 17 grudnia 2001 r.*
 

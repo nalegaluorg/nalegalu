@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o europejskim ugrupowaniu współpracy terytorialnej
+# Ustawa z dnia 7 listopada 2008 r. o europejskim ugrupowaniu współpracy terytorialnej
 
 *USTAWA z dnia 7 listopada 2008 r.*
 

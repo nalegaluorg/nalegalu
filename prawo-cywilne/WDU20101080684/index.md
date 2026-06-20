@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego
+# Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy - Kodeks postępowania cywilnego
 
 *USTAWA z dnia 29 kwietnia 2010 r.*
 

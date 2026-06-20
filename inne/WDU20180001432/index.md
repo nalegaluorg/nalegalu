@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach dotyczących gminy Ostrowice w województwie zachodniopomorskim
+# Ustawa z dnia 5 lipca 2018 r. o szczególnych rozwiązaniach dotyczących gminy Ostrowice w województwie zachodniopomorskim
 
 *USTAWA z dnia 5 lipca 2018 r.*
 

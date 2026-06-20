@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utracie mocy obowiązującej przez ustawę z dnia 22 grudnia 1990 r. o opodatkowaniu wzrostu wynagrodzeń
+# Ustawa z dnia 29 grudnia 1993 r. o utracie mocy obowiązującej przez ustawę z dnia 22 grudnia 1990 r. o opodatkowaniu wzrostu wynagrodzeń.
 
 *USTAWA z dnia 29 grudnia 1993 r.*
 

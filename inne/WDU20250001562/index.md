@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o dokonywaniu w księgach wieczystych wpisów na rzecz Skarbu Państwa w oparciu o międzynarodowe umowy o uregulowaniu roszczeń finansowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dokonywaniu w księgach wieczystych wpisów na rzecz Skarbu Państwa w oparciu o międzynarodowe umowy o uregulowaniu roszczeń finansowych
 
 | Pole | Wartość |
 |---|---|

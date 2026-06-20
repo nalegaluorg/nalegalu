@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+# Ustawa z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 *USTAWA z dnia 12 kwietnia 2019 r.*
 
@@ -133,7 +133,9 @@ source: pdf
 - **3)** numer rachunku, na który dokonano zapłaty należności;
 - **4)** wysokość należności zapłaconej przelewem na rachunek, o którym mowa w pkt 3, i dzień zlecenia przelewu na ten rachunek.
 
-§ 5. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w § 3, wraz z objaśnieniami co do sposobu prawidłowego jego wypełnienia, uwzględniając konieczność uproszczenia i usprawnienia procesu składania zawiadomień. Art. 117bb. Przepisów art. 117ba nie stosuje się do transakcji, w odniesieniu do których podatnik dokonał zapłaty z zastosowaniem mechanizmu podzielonej płatności, o którym mowa w art. 108a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.”.
+§ 5. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w § 3, wraz z objaśnieniami co do sposobu prawidłowego jego wypełnienia, uwzględniając konieczność uproszczenia i usprawnienia procesu składania zawiadomień.
+
+**Art. 117bb.** Przepisów art. 117ba nie stosuje się do transakcji, w odniesieniu do których podatnik dokonał zapłaty z zastosowaniem mechanizmu podzielonej płatności, o którym mowa w art. 108a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.”.
 
 **Art. 6.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2018 r. poz. 2386 i 2243 oraz z 2019 r. poz. 326, 730 i 875) w art. 28 dodaje się ust. 4 w brzmieniu: „4. Do rachunków zawartych w wykazie podmiotów, o którym mowa w art. 96b ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm. ), nie stosuje się określonych w ust. 1 ograniczeń zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego.”.
 

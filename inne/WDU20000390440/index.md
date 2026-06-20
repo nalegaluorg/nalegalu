@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Chrześcijańskiej Akademii Teologicznej w Warszawie
+# Ustawa z dnia 16 marca 2000 r. o Chrześcijańskiej Akademii Teologicznej w Warszawie.
 
 *USTAWA z dnia 16 marca 2000 r.*
 

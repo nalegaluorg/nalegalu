@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Karcie Polaka oraz ustawy o cudzoziemcach
+# Ustawa z dnia 15 listopada 2016 r. o zmianie ustawy o Karcie Polaka oraz ustawy o cudzoziemcach
 
 *USTAWA z dnia 15 listopada 2016 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zdrowiu publicznym
+# Ustawa z dnia 11 września 2015 r. o zdrowiu publicznym
 
 *USTAWA z dnia 11 września 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2015-11-18 |
 | Ostatnia zmiana | 2026-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001916) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1916/text.pdf) |
-
-Art. 19–25. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -785,6 +783,8 @@ Art. 19–25. (pominięte)
 2. Orzekanie w sprawach o czyny, o których mowa w art. 18e, następuje w trybie przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872).
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe, dostosowujące i końcowe
+
+**Art. 19–25.** (pominięte)
 
 **Art. 26.** Wojewoda po raz pierwszy dołącza opinię dotyczącą zgodności zrealizowanych lub podjętych zadań z priorytetami dla regionalnej polityki zdrowotnej, o których mowa w art. 95c ustawy zmienianej w art. 22 , do:
 

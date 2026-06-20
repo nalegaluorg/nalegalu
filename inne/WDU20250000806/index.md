@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ekonomii społecznej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ekonomii społecznej
 
 | Pole | Wartość |
 |---|---|
@@ -37,7 +37,6 @@ poz. 1635),
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 5 sierpnia 2022 r.
 o ekonomii społecznej
-Art. 67–77. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -730,6 +729,8 @@ Art. 67–77. (pominięte)
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych do zachowania ich w poufności.
 
 ### DZIAŁ V Zmiany w przepisach
+
+**Art. 67–77.** (pominięte)
 
 ### DZIAŁ VI Przepisy przejściowe i dostosowujące oraz przepis końcowy
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowym Rejestrze Karnym
+# Ustawa z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym.
 
 *USTAWA z dnia 24 maja 2000 r.*
 
@@ -81,7 +81,7 @@ source: pdf
     - **a)** osoba będąca obywatelem państwa trzeciego lub obywatelem państwa członkowskiego Unii Europejskiej, który posiada także co najmniej jedno obywatelstwo państwa trzeciego, złożyła wniosek o udzielenie informacji z Rejestru,
     - **b)** podmiot, o którym mowa w art. 6 ust. 1 pkt 1–10a, w celach, o których mowa w art. 7 ust. 1 rozporządzenia 2019/816, złożył zapytanie o udzielenie informacji o osobie będącej: – obywatelem państwa trzeciego lub obywatelem państwa członkowskiego Unii Europejskiej, który posiada co najmniej jedno obywatelstwo państwa trzeciego, i nie odstąpił od skorzystania z systemu ECRIS-TCN, – obywatelem państwa członkowskiego Unii Europejskiej i zawnioskował o skorzystanie z systemu ECRIS-TCN;
 
-- **5c)** wysyłanie do systemu ECRIS-TCN zapytania, o którym mowa w art. 7 ust. 4 rozporządzenia 2019/816, jeżeli wystąpił o to podmiot określony w art. 6 ust. 1 pkt 1–10a, wraz z zapytaniem o udzielenie informacji o osobie;>
+- **5c)** wysyłanie do systemu ECRIS-TCN zapytania, o którym mowa w art. 7 ust. 4 rozporządzenia 2019/816, jeżeli wystąpił o to podmiot określony w art. 6 ust. 1 pkt 1–10a, wraz z zapytaniem o udzielenie informacji o osobie;
 - **6)** niezwłoczne przekazywanie ministrowi właściwemu do spraw rozwoju regionalnego, ministrowi właściwemu do spraw rybołówstwa oraz Prezesowi Agencji Restrukturyzacji i Modernizacji Rolnictwa informacji na temat wyroków skazujących, zapadłych wobec:
     - **a)** osób fizycznych i przedsiębiorców będących osobami fizycznymi, jeśli czyn zabroniony został popełniony na szkodę interesów finansowych Wspólnot Europejskich,
     - **b)** osób upoważnionych do reprezentowania podmiotu zbiorowego, podejmowania w jego imieniu decyzji lub sprawowania nadzoru nad jego działalnością, jeśli czyn zabroniony został popełniony na szkodę interesów finansowych Wspólnot Europejskich,
@@ -96,7 +96,7 @@ source: pdf
 
 1a. (uchylony) <1aa. Biuro informacyjne ponadto realizuje zadania określone w art. 9, art. 13 ust. 1, art. 25 ust. 2 i 3, art. 32 ust. 4 i art. 36 ust. 11 rozporządzenia 2019/816.> 1b. Informacje, o których mowa w ust. 1 pkt 6, Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa może przesyłać kierownikom biur powiatowych tej Agencji. <1c. W przypadku, o którym mowa w art. 17 ust. 3 rozporządzenia 2019/816, biuro informacyjne, niezwłocznie po otrzymaniu pytania o udzielenie zgody, udziela zgody na poinformowanie państwa trzeciego lub organizacji międzynarodowej o posiadaniu w Rejestrze informacji dotyczących danej osoby albo odmawia udzielenia takiej zgody.
 
-1d. W przypadku, o którym mowa w art. 25 ust. 4 rozporządzenia 2019/816, Minister Sprawiedliwości wydaje decyzję administracyjną.>
+1d. W przypadku, o którym mowa w art. 25 ust. 4 rozporządzenia 2019/816, Minister Sprawiedliwości wydaje decyzję administracyjną.
 
 2. Minister Sprawiedliwości jest administratorem danych zgromadzonych w Rejestrze.
 
@@ -450,7 +450,7 @@ source: pdf
 
 1c. W przypadku zastrzeżenia przez organ centralny państwa członkowskiego Unii Europejskiej w zawiadomieniu, o którym mowa w art. 11 ust. 1 pkt 4, że przekazana informacja może być wykorzystywana wyłącznie dla celów prowadzonego postępowania karnego, informacja o osobie sporządzona dla celów innych niż postępowanie karne nie zawiera danych o skazaniach, o których mowa w art. 1 ust. 2 pkt 4. W takim przypadku w informacji o osobie, udzielanej właściwym organom państw obcych, wskazuje się fakt zgłoszenia takiego zastrzeżenia, państwo, którego organ centralny zgłosił zastrzeżenie, oraz sąd, który wydał wyrok skazujący, i datę jego wydania, jak również sygnaturę akt sprawy, jeżeli jest znana.
 
-1d. Informacja o osobie sporządzona na wniosek osoby, o której mowa w art. 7 ust. 1, będącej obywatelem państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska zawiera dane zgromadzone w Rejestrze oraz w rejestrze karnym państwa obywatelstwa wnioskodawcy, uzyskane na podstawie art. 4 ust. 1 pkt 5a. <1da. Informacja o osobie sporządzona na wniosek osoby, o której mowa w art. 7 ust. 1, będącej obywatelem państwa trzeciego lub obywatelem państwa członkowskiego Unii Europejskiej, który posiada co najmniej jedno obywatelstwo państwa trzeciego, zawiera dane zgromadzone w Rejestrze oraz w rejestrach karnych państw członkowskich Unii Europejskiej, które posiadają informacje na temat tej osoby, uzyskane na podstawie art. 4 ust. 1 pkt 5b. W przypadku, o którym mowa w art. 7 ust. 8 rozporządzenia 2019/816, biuro informacyjne informuje wnioskodawcę o nieodnalezieniu w systemie ECRIS-TCN wpisów na jego temat. 1db. Przepis ust. 1da stosuje się odpowiednio do udzielanej informacji na zapytanie o udzielenie informacji o osobie w celach, o których mowa w art. 7 ust. 1 rozporządzenia 2019/816, dotyczące osoby będącej obywatelem państwa trzeciego lub obywatelem państwa członkowskiego Unii Europejskiej, który posiada co najmniej jedno obywatelstwo państwa trzeciego, a także na zapytanie o udzielenie informacji o osobie będącej obywatelem państwa członkowskiego Unii Europejskiej w przypadku, o którym mowa w art. 4 ust. 1 pkt 5c.> 1e. Informacji o osobie, wydawanej organom centralnym państw członkowskich Unii Europejskiej, przekazywanej za pośrednictwem systemu ECRIS, nie opatruje się podpisem osoby upoważnionej do jej wydania ani pieczęcią urzędową.
+1d. Informacja o osobie sporządzona na wniosek osoby, o której mowa w art. 7 ust. 1, będącej obywatelem państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska zawiera dane zgromadzone w Rejestrze oraz w rejestrze karnym państwa obywatelstwa wnioskodawcy, uzyskane na podstawie art. 4 ust. 1 pkt 5a. <1da. Informacja o osobie sporządzona na wniosek osoby, o której mowa w art. 7 ust. 1, będącej obywatelem państwa trzeciego lub obywatelem państwa członkowskiego Unii Europejskiej, który posiada co najmniej jedno obywatelstwo państwa trzeciego, zawiera dane zgromadzone w Rejestrze oraz w rejestrach karnych państw członkowskich Unii Europejskiej, które posiadają informacje na temat tej osoby, uzyskane na podstawie art. 4 ust. 1 pkt 5b. W przypadku, o którym mowa w art. 7 ust. 8 rozporządzenia 2019/816, biuro informacyjne informuje wnioskodawcę o nieodnalezieniu w systemie ECRIS-TCN wpisów na jego temat. 1db. Przepis ust. 1da stosuje się odpowiednio do udzielanej informacji na zapytanie o udzielenie informacji o osobie w celach, o których mowa w art. 7 ust. 1 rozporządzenia 2019/816, dotyczące osoby będącej obywatelem państwa trzeciego lub obywatelem państwa członkowskiego Unii Europejskiej, który posiada co najmniej jedno obywatelstwo państwa trzeciego, a także na zapytanie o udzielenie informacji o osobie będącej obywatelem państwa członkowskiego Unii Europejskiej w przypadku, o którym mowa w art. 4 ust. 1 pkt 5c.
 
 1f. W informacji przekazywanej właściwym organom państw trzecich zamieszcza się wzmiankę o tym, że przekazane dane mogą być wykorzystane jedynie do celów, w których się o nie zwrócono.
 
@@ -562,7 +562,9 @@ source: pdf
 
 **Art. 26.** (pominięty)
 
-**Art. 27.** (uchylony) Art. 28–30. (pominięte)
+**Art. 27.** (uchylony)
+
+**Art. 28–30.** (pominięte)
 
 **Art. 31.** Ilekroć w przepisach prawa jest mowa o „Centralnym Rejestrze Skazanych” lub „Centralnym Rejestrze Nieletnich”, należy przez to rozumieć „Krajowy Rejestr Karny”.
 

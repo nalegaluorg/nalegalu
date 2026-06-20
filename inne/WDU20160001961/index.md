@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników
+# Ustawa z dnia 16 listopada 2016 r. o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników
 
 *USTAWA z dnia 16 listopada 2016 r.*
 

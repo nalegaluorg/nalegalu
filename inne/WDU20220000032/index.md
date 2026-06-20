@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o scalaniu i wymianie gruntów, ustawy o utracie mocy prawnej niektórych ksiąg wieczystych oraz ustawy o drogach publicznych
+# Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy o scalaniu i wymianie gruntów, ustawy o utracie mocy prawnej niektórych ksiąg wieczystych oraz ustawy o drogach publicznych
 
 *USTAWA z dnia 2 grudnia 2021 r.*
 

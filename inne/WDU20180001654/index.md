@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz ustawy o Krajowej Administracji Skarbowej
+# Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz ustawy o Krajowej Administracji Skarbowej
 
 *USTAWA z dnia 5 lipca 2018 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy państwa skierowanej do armatorów jednostek pływających w związku z wprowadzeniem zakazu połowu dorsza na Morzu Bałtyckim
+# Ustawa z dnia 26 września 2025 r. o pomocy państwa skierowanej do armatorów jednostek pływających w związku z wprowadzeniem zakazu połowu dorsza na Morzu Bałtyckim
 
 *USTAWA z dnia 26 września 2025 r.*
 

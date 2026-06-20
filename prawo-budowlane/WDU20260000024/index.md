@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym
+# Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym
 
 *USTAWA z dnia 4 grudnia 2025 r.*
 

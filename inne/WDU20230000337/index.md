@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ubezpieczeniu społecznym rolników
+# Ustawa z dnia 13 stycznia 2023 r. o zmianie ustawy o ubezpieczeniu społecznym rolników
 
 *USTAWA z dnia 13 stycznia 2023 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wynikach ponownego głosowania i wyniku wyborów Prezydenta Rzeczypospolitej Polskiej Na podstawie art. 70 ust. 3 ustawy z dnia 27 wrześ- 7) liczba głosów ważnych wyniosła 16 853 021, nia 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2010 r. Nr 72, poz. 467) Państwowa 8) liczba głosów nieważnych wyniosła 197 396.
+# Obwieszczenie Państwowej Komisji Wyborczej z dnia 5 lipca 2010 r. o wynikach ponownego głosowania i wyniku wyborów Prezydenta Rzeczypospolitej Polskiej
 
 *OBWIESZCZENIE PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 5 lipca 2010 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o likwidacji Polskiej Agencji Rozwoju Regionalnego oraz o zmianie ustawy o zasadach wspierania rozwoju regionalnego i ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
+# Ustawa z dnia 8 maja 2002 r. o likwidacji Polskiej Agencji Rozwoju Regionalnego oraz o zmianie ustawy o zasadach wspierania rozwoju regionalnego i ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości.
 
 *USTAWA z dnia 8 maja 2002 r.*
 

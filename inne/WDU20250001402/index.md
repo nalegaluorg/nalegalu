@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi
 
 *USTAWA z dnia 16 września 2011 r.*
 
@@ -429,8 +429,7 @@ source: pdf
 
 - **1)** wszelkie dokumenty oraz zeznania świadków pozwalające na udowodnienie okresów zatrudnienia (ubezpieczenia) oraz czasowej niezdolności do pracy z powodu choroby, macierzyństwa lub sprawowania opieki;
 - **2)** wszelkie dokumenty pozwalające na udowodnienie wysokości ich podstawy wymiaru;
-- **3)** wszelkie dokumenty pozwalające na udowodnienie niepełnosprawności albo stopnia niepełnosprawności, a także wszelkie dokumenty pozwalające na ustalenie poziomu potrzeby wsparcia dla potrzeb świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429 i 2760 oraz z 2025 r. poz.
-- **619)** .
+- **3)** wszelkie dokumenty pozwalające na udowodnienie niepełnosprawności albo stopnia niepełnosprawności, a także wszelkie dokumenty pozwalające na ustalenie poziomu potrzeby wsparcia dla potrzeb świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429 i 2760 oraz z 2025 r. poz. 619).
 
 **Art. 9a.**
 
@@ -1522,7 +1521,13 @@ source: pdf
 
 3. Świadczenia opieki zdrowotnej, o których mowa w ust. 1, są finansowane przez Narodowy Fundusz Zdrowia ze środków pochodzących z budżetu państwa w formie dotacji celowej z części, której dysponentem jest minister właściwy do spraw zdrowia, w szczególności pochodzących z rezerwy celowej przeznaczonej na przeciwdziałanie klęskom żywiołowym i usuwanie ich skutków.
 
-4. Do zgody, o której mowa w ust. 2 pkt 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Art. 40ca. W przypadku przerwy w udzielaniu świadczeń opieki zdrowotnej będącej skutkiem powodzi, do której doszło na obszarze wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, w okresie wskazanym w tych przepisach, przepisu art. 136c ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych nie stosuje się. Art. 40cb. W przypadku przeniesienia pacjenta do objęcia opieką przez innego świadczeniodawcę realizującego umowę zawartą z Narodowym Funduszem Zdrowia będącego skutkiem powodzi, w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych i przepisów wydanych na podstawie tej ustawy dotyczących skierowań oraz list oczekujących na udzielenie świadczenia nie stosuje się. Art. 40cc. Gmina poszkodowana w wyniku wystąpienia powodzi, wskazana w przepisach wydanych na podstawie art. 1 ust. 2, albo gmina z nią sąsiadująca, może przeznaczyć dochody, o których mowa w art. 9 ust. 3 pkt 1, art. 11 , art. 18 lub art. 18 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, na zadania związane z przeciwdziałaniem skutkom powodzi negatywnie wpływającym na realizację gminnych programów profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o których mowa w art. 4 ust. 2 tej ustawy, w szczególności w placówkach wsparcia dziennego, o których mowa w art. 9 pkt 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, i w ośrodkach, o których mowa w art. 3 ust. 1 pkt 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej.
+4. Do zgody, o której mowa w ust. 2 pkt 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+**Art. 40ca.** W przypadku przerwy w udzielaniu świadczeń opieki zdrowotnej będącej skutkiem powodzi, do której doszło na obszarze wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, w okresie wskazanym w tych przepisach, przepisu art. 136c ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych nie stosuje się.
+
+**Art. 40cb.** W przypadku przeniesienia pacjenta do objęcia opieką przez innego świadczeniodawcę realizującego umowę zawartą z Narodowym Funduszem Zdrowia będącego skutkiem powodzi, w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych i przepisów wydanych na podstawie tej ustawy dotyczących skierowań oraz list oczekujących na udzielenie świadczenia nie stosuje się.
+
+**Art. 40cc.** Gmina poszkodowana w wyniku wystąpienia powodzi, wskazana w przepisach wydanych na podstawie art. 1 ust. 2, albo gmina z nią sąsiadująca, może przeznaczyć dochody, o których mowa w art. 9 ust. 3 pkt 1, art. 11 , art. 18 lub art. 18 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, na zadania związane z przeciwdziałaniem skutkom powodzi negatywnie wpływającym na realizację gminnych programów profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o których mowa w art. 4 ust. 2 tej ustawy, w szczególności w placówkach wsparcia dziennego, o których mowa w art. 9 pkt 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, i w ośrodkach, o których mowa w art. 3 ust. 1 pkt 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej.
 
 **Art. 40d.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej
+# Ustawa z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej
 
 *USTAWA z dnia 12 września 2025 r.*
 

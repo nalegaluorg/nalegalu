@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo o stowarzyszeniach
+# Ustawa z dnia 10 stycznia 1996 r. o zmianie ustawy - Prawo o stowarzyszeniach.
 
 *USTAWA z dnia 10 stycznia 1996 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej
+# Ustawa z dnia 11 października 1991 r. o zmianie ustawy o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
+# Ustawa z dnia 13 stycznia 2022 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
 
 *USTAWA z dnia 13 stycznia 2022 r.*
 

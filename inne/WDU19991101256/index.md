@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 23 grudnia 1999 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw.
 
 *USTAWA z dnia 23 grudnia 1999 r.*
 

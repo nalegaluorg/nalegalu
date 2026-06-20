@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+# Ustawa z dnia 29 października 2021 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 *USTAWA z dnia 29 października 2021 r.*
 
@@ -94,18 +94,28 @@ source: pdf
 
 2. Otrzymywanie faktur ustrukturyzowanych przy użyciu Krajowego Systemu e-Faktur wymaga akceptacji odbiorcy faktury.
 
-3. Faktura ustrukturyzowana jest uznana za otrzymaną przy użyciu Krajowego Systemu e-Faktur w dniu przydzielenia w tym systemie numeru identyfikującego tę fakturę. Art. 106nb. Z Krajowego Systemu e-Faktur mogą korzystać:
+3. Faktura ustrukturyzowana jest uznana za otrzymaną przy użyciu Krajowego Systemu e-Faktur w dniu przydzielenia w tym systemie numeru identyfikującego tę fakturę.
+
+**Art. 106nb.** Z Krajowego Systemu e-Faktur mogą korzystać:
 
 - **1)** podatnik,
 - **2)** podmioty wskazane przez podatnika,
 - **3)** podmioty, o których mowa w art. 106c,
 - **4)** osoby fizyczne wskazane przez podmioty, o których mowa w art. 106c,
 - **5)** osoby fizyczne wskazane w zawiadomieniu o nadaniu lub odebraniu uprawnień do korzystania z Krajowego Systemu e-Faktur, którym podatnik lub podmioty, o których mowa w art. 106c, nadali uprawnienia do korzystania z tego systemu,
-- **6)** podmioty inne, niż wymienione w pkt 1–5, wskazane przez osoby fizyczne korzystające z Krajowego Systemu e-Faktur, jeżeli prawo do wskazywania innego podmiotu wynika z uprawnień nadanych tym osobom fizycznym – uwierzytelnieni w sposób określony w przepisach wydanych na podstawie art. 106r pkt 3. Art. 106nc. 1. Faktura ustrukturyzowana jest wystawiana i otrzymywana przy użyciu Krajowego Systemu e-Faktur za pomocą oprogramowania interfejsowego, w postaci elektronicznej i zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+- **6)** podmioty inne, niż wymienione w pkt 1–5, wskazane przez osoby fizyczne korzystające z Krajowego Systemu e-Faktur, jeżeli prawo do wskazywania innego podmiotu wynika z uprawnień nadanych tym osobom fizycznym – uwierzytelnieni w sposób określony w przepisach wydanych na podstawie art. 106r pkt 3.
+
+**Art. 106nc.**
+
+1. Faktura ustrukturyzowana jest wystawiana i otrzymywana przy użyciu Krajowego Systemu e-Faktur za pomocą oprogramowania interfejsowego, w postaci elektronicznej i zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 2. Oprogramowanie interfejsowe, o którym mowa w ust. 1, jest dostępne na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 
-3. Minister właściwy do spraw finansów publicznych udostępnia na elektronicznej platformie usług administracji publicznej wzór faktury ustrukturyzowanej. Art. 106nd. 1. Szef Krajowej Administracji Skarbowej prowadzi Krajowy System e-Faktur i jest administratorem danych w nim zawartych.
+3. Minister właściwy do spraw finansów publicznych udostępnia na elektronicznej platformie usług administracji publicznej wzór faktury ustrukturyzowanej.
+
+**Art. 106nd.**
+
+1. Szef Krajowej Administracji Skarbowej prowadzi Krajowy System e-Faktur i jest administratorem danych w nim zawartych.
 
 2. Krajowy System e-Faktur jest systemem teleinformatycznym służącym do:
 
@@ -123,7 +133,10 @@ source: pdf
     - **b)** dacie i czasie odrzucenia faktury w przypadku jej niezgodności z wzorem, o którym mowa w art. 106nc ust. 3,
     - **c)** braku możliwości wystawienia faktury ustrukturyzowanej – w przypadku niedostępności Krajowego Systemu e-Faktur;
 
-- **11)** powiadamiania podmiotów innych niż określone w art. 106nb o braku uprawnień do korzystania z Krajowego Systemu e-Faktur. Art. 106ne. Minister właściwy do spraw finansów publicznych zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra komunikaty dotyczące niedostępności Krajowego Systemu e-Faktur.”;
+- **11)** powiadamiania podmiotów innych niż określone w art. 106nb o braku uprawnień do korzystania z Krajowego Systemu e-Faktur.
+
+**Art. 106ne.** Minister właściwy do spraw finansów publicznych zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra komunikaty dotyczące niedostępności Krajowego Systemu e-Faktur.”;
+
 - **14)** po art. 106q dodaje się art. 106r w brzmieniu: „Art. 106r. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 - **1)** rodzaje uprawnień do korzystania z Krajowego Systemu e-Faktur,
 - **2)** sposoby nadawania, zmiany lub odbierania uprawnień do korzystania z Krajowego Systemu e-Faktur oraz wzór zawiadomienia o nadaniu lub odebraniu tych uprawnień,

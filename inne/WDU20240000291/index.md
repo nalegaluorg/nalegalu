@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne
 
 *USTAWA z dnia 8 maja 1997 r.*
 
@@ -352,7 +352,12 @@ source: pdf
 - **1)** szczegółowe warunki i tryb udzielania poręczeń i gwarancji;
 - **2)** wysokość, warunki i tryb pobierania opłat prowizyjnych z tytułu udzielonych poręczeń i gwarancji;
 - **3)** warunki i terminy przekazywania środków, o których mowa w art. 34g ust. 3 pkt 5 i art. 34ga ust. 2;
-- **4)** zasady udzielania finansowania, o którym mowa w art. 34ga ust. 2a, oraz zwrotu Bankowi Gospodarstwa Krajowego środków własnych, o których mowa w art. 34ga ust. 2a, wraz z wynagrodzeniem z tytułu tego finansowania. Art. 34ca. 1. Bank Gospodarstwa Krajowego:
+- **4)** zasady udzielania finansowania, o którym mowa w art. 34ga ust. 2a, oraz zwrotu Bankowi Gospodarstwa Krajowego środków własnych, o których mowa w art. 34ga ust. 2a, wraz z wynagrodzeniem z tytułu tego finansowania.
+
+**Art. 34ca.**
+
+1. Bank Gospodarstwa Krajowego:
+
 - **1)** doszczegóławia na poziomie operacyjnym warunki udzielenia poręczeń i gwarancji w ramach programów rządowych, zawarte w umowie, o której mowa w art. 34c;
 - **2)** określa wzory wniosku o udzielenie poręczenia oraz wniosku o udzielenie gwarancji w ramach programów rządowych;
 - **3)** określa wzory umów poręczenia oraz gwarancji, udzielanych w ramach programów rządowych.
@@ -409,7 +414,11 @@ source: pdf
 - **7a)** środków z zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji, o których mowa w art. 34ga ust. 1;
 - **8)** wpływów z innych tytułów.
 
-4. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach. Art. 34ga. 1. Bank Gospodarstwa Krajowego może zaciągać na rzecz Funduszu kredyty, pożyczki lub emitować obligacje w kraju i za granicą.
+4. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
+
+**Art. 34ga.**
+
+1. Bank Gospodarstwa Krajowego może zaciągać na rzecz Funduszu kredyty, pożyczki lub emitować obligacje w kraju i za granicą.
 
 2. Minister właściwy do spraw finansów publicznych przekazuje do Funduszu środki niezbędne do terminowej obsługi zobowiązań z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji, o których mowa w ust. 1, w przypadku gdy poziom środków Funduszu jest niewystarczający do obsługi tych zobowiązań.
 
@@ -618,7 +627,9 @@ source: pdf
 
 **Art. 47.** Poręczenia i gwarancje udzielane przez Skarb Państwa zwalnia się z opłaty skarbowej.
 
-**Art. 47a.** W przypadku zapłaty przez Bank Gospodarstwa Krajowego kwoty z tytułu gwarancji lub poręczenia spłaty kredytu, udzielonych na podstawie art. 34a, Bank Gospodarstwa Krajowego wstępuje, z chwilą zapłaty, w prawa beneficjenta gwarancji lub poręczenia do wysokości dokonanej zapłaty. Art. 48–58. (pominięte)
+**Art. 47a.** W przypadku zapłaty przez Bank Gospodarstwa Krajowego kwoty z tytułu gwarancji lub poręczenia spłaty kredytu, udzielonych na podstawie art. 34a, Bank Gospodarstwa Krajowego wstępuje, z chwilą zapłaty, w prawa beneficjenta gwarancji lub poręczenia do wysokości dokonanej zapłaty.
+
+**Art. 48–58.** (pominięte)
 
 **Art. 59.** Ustawa wchodzi w życie z dniem ogłoszenia .
 

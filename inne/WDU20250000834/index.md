@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Konstytucji Rzeczypospolitej Polskiej obowiązek prowadzenia przez władze publiczne polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli oraz wynikający z art. 5 Konstytucji Rzeczypospolitej Polskiej obowiązek kierowania się zasadą zrównoważonego rozwoju, a także zadania władz publicznych realizowane w szczególności przez wprowadzanie instrumentów zwiększających dostępność mieszkań i kształtowanie stabilnych ram finansowania budownictwa mieszkaniowego, uchwala się niniejszą ustawę.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowym Zasobie Nieruchomości
 
 *USTAWA z dnia 20 lipca 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-06-26 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000834) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/834/text.pdf) |
-
-Art. 112–128. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1461,6 +1459,8 @@ Art. 112–128. (pominięte)
 #### Rozdział 9
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
+
+**Art. 112–128.** (pominięte)
 
 #### Rozdział 11 Przepisy dostosowujące, przejściowe i końcowe
 

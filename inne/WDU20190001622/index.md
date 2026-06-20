@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji
+# Ustawa z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji
 
 *USTAWA z dnia 31 lipca 2019 r.*
 
@@ -159,7 +159,9 @@ source: pdf
 
 2. Koszty obsługi, o których mowa w ust. 1, wynoszą łącznie 2 % kwoty przeznaczonej na wypłatę świadczenia uzupełniającego.
 
-3. W przypadku prawa do świadczeń, o których mowa w art. 2 ust. 2, lub ich zbiegu, wypłacanych przez organy właściwe inne niż Zakład Ubezpieczeń Społecznych lub Kasa Rolniczego Ubezpieczenia Społecznego, świadczenie uzupełniające oraz koszty, o których mowa w ust. 1, są finansowane ze środków budżetu państwa. Art. 12–24. (pominięte)
+3. W przypadku prawa do świadczeń, o których mowa w art. 2 ust. 2, lub ich zbiegu, wypłacanych przez organy właściwe inne niż Zakład Ubezpieczeń Społecznych lub Kasa Rolniczego Ubezpieczenia Społecznego, świadczenie uzupełniające oraz koszty, o których mowa w ust. 1, są finansowane ze środków budżetu państwa.
+
+**Art. 12–24.** (pominięte)
 
 **Art. 25.** Koszty obsługi wypłaty świadczenia uzupełniającego i koszty obsługi wniosku, o których mowa w art. 11 ust. 1, w roku 2019 wynoszą łącznie 2,5 % kwoty przeznaczonej na wypłatę świadczenia uzupełniającego.
 

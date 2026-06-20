@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach prowadzenia zbiórek publicznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 września 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach prowadzenia zbiórek publicznych
 
 | Pole | Wartość |
 |---|---|
@@ -37,7 +37,6 @@ b) pkt 1–3 i 5–7, które wchodzą w życie z dniem 28 maja 2020 r.;
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 14 marca 2014 r.
 o zasadach prowadzenia zbiórek publicznych
-Art. 23–39. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -224,6 +223,8 @@ Art. 23–39. (pominięte)
 **Art. 22.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695 i 1298).
 
 #### Rozdział 3 Przepisy zmieniające
+
+**Art. 23–39.** (pominięte)
 
 #### Rozdział 4 Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych oraz wsparcia przedsiębiorczości
+# Ustawa z dnia 25 lipca 2025 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych oraz wsparcia przedsiębiorczości
 
 *USTAWA z dnia 25 lipca 2025 r.*
 

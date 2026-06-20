@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o utrzymaniu czystości i porządku w gminach
+# Ustawa z dnia 11 września 2015 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach
 
 *USTAWA z dnia 11 września 2015 r.*
 

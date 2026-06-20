@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu
+# Ustawa z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu
 
 *USTAWA z dnia 24 kwietnia 2009 r.*
 
@@ -274,9 +274,7 @@ source: pdf
 
 1. Przepisy o planowaniu i zagospodarowaniu przestrzennym nie mają zastosowania w sprawach określonych w niniejszym rozdziale, z wyjątkiem art. 57 ust. 1 i 4 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, które stosuje się do decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu.
 
-1a. W sprawach określonych w niniejszym rozdziale nie mają zastosowania przepisy ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz.
-
-- **278)** .
+1a. W sprawach określonych w niniejszym rozdziale nie mają zastosowania przepisy ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278).
 
 2. Decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu wiąże właściwe organy przy sporządzaniu planu ogólnego gminy oraz miejscowych planów zagospodarowania przestrzennego. Wojewoda przekazuje niezwłocznie wydane decyzje o ustaleniu lokalizacji inwestycji w zakresie terminalu właściwym wójtom (burmistrzom, prezydentom miasta).
 

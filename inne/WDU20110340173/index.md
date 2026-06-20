@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa
+# Ustawa z dnia 20 stycznia 2011 r. o odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa
 
 *USTAWA z dnia 20 stycznia 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-02-16 |
 | Ostatnia zmiana | 2025-10-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110340173) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/173/text.pdf) |
-
-Art. 11–15. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -117,6 +115,8 @@ Art. 11–15. (pominięte)
 2. Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie, podlega grzywnie albo karze ograniczenia wolności.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 11–15.** (pominięte)
 
 **Art. 16.** Przepisy ustawy stosuje się do działań i zaniechań funkcjonariuszy publicznych, które nastąpiły od dnia wejścia w życie ustawy.
 

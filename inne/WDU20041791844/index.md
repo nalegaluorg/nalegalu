@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Wyższej Szkole Pedagogicznej w Częstochowie nazwy „Akademia im. Jana Długosza w Częstochowie”
+# Ustawa z dnia 1 lipca 2004 r. o nadaniu Wyższej Szkole Pedagogicznej w Częstochowie nazwy "Akademia im. Jana Długosza w Częstochowie"
 
 *USTAWA z dnia 1 lipca 2004 r.*
 

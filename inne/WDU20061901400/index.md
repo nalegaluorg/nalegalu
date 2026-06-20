@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym
+# Ustawa z dnia 22 września 2006 r. o zmianie ustawy - Prawo o ruchu drogowym
 
 *USTAWA z dnia 22 września 2006 r.*
 

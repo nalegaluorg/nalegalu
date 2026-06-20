@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym
+# Ustawa z dnia 9 listopada 2018 r. o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym
 
 *USTAWA z dnia 9 listopada 2018 r.*
 

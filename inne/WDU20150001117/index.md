@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej oraz ustawy o finansach publicznych
+# Ustawa z dnia 10 lipca 2015 r. o zmianie ustawy o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej oraz ustawy o finansach publicznych
 
 *USTAWA z dnia 10 lipca 2015 r.*
 

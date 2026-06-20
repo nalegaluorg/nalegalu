@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
+# Ustawa z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
 
 *USTAWA z dnia 9 marca 2017 r.*
 
@@ -198,9 +198,7 @@ source: pdf
 - **1b)** zawarte w miesięcznych zestawieniach informacji dotyczących okresowych umów, o których mowa w art. 89 ust. 5e albo 5f ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
 - **2)** dotyczące przeprowadzonych kontroli, o których mowa w art. 13.
 
-4a. Analizę danych gromadzonych w rejestrze może prowadzić wyznaczona jednostka sektora finansów publicznych albo instytuty badawcze, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz.
-
-- **534)** .
+4a. Analizę danych gromadzonych w rejestrze może prowadzić wyznaczona jednostka sektora finansów publicznych albo instytuty badawcze, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534).
 
 4b. Podmiot, o którym mowa w ust. 4a, przekazuje Szefowi Krajowej Administracji Skarbowej na bieżąco wyniki analizy danych gromadzonych w rejestrze.
 
@@ -952,7 +950,9 @@ source: pdf
 
 3. Orzekanie w sprawie nałożenia grzywny, o której mowa w ust. 1, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977).
 
-**Art. 32a.** Grzywny, o których mowa w art. 32 ust. 1, pobierane przez organy Inspekcji Transportu Drogowego stanowią wpływy Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402). Art. 33–36. (pominięte)
+**Art. 32a.** Grzywny, o których mowa w art. 32 ust. 1, pobierane przez organy Inspekcji Transportu Drogowego stanowią wpływy Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402).
+
+**Art. 33–36.** (pominięte)
 
 **Art. 37.** Z dniem wejścia w życie ustawy tworzy się rejestr zgłoszeń.
 

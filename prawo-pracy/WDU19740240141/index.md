@@ -3675,7 +3675,11 @@ source: pdf
 
 § 1. Jeżeli pracownik nie dokonał – bez swojej winy – w terminie czynności, o których mowa w art. 97 § 2 i w art. 264, sąd pracy na jego wniosek postanowi przywrócenie uchybionego terminu.
 
-§ 2. Wniosek o przywrócenie terminu wnosi się do sądu pracy w ciągu 7 dni od dnia ustania przyczyny uchybienia terminu. We wniosku należy uprawdopodobnić okoliczności uzasadniające przywrócenie terminu. Art. 266–280. 15)
+§ 2. Wniosek o przywrócenie terminu wnosi się do sądu pracy w ciągu 7 dni od dnia ustania przyczyny uchybienia terminu. We wniosku należy uprawdopodobnić okoliczności uzasadniające przywrócenie terminu.
+
+**Art. 266–280.**
+
+- **15)**
 
 ### DZIAŁ TRZYNASTY Odpowiedzialność za wykroczenia przeciwko prawom pracownika
 
@@ -3683,7 +3687,7 @@ source: pdf
 
 § 1. Kto, będąc pracodawcą lub działając w jego imieniu:
 
-- **1)** zawiera umowę cywilnoprawną w warunkach, w których zgodnie z art. 22 § 1 powinna być zawarta umowa o pracę, 1a) nie zawiadamia właściwego okręgowego inspektora pracy, w formie pisemnej lub elektronicznej, o zawarciu umowy o pracę, o której mowa w art. 25 § 4 pkt 4, wraz ze wskazaniem przyczyn zawarcia takiej umowy, w terminie 5 dni roboczych od dnia jej zawarcia, <1b) narusza zakaz, o którym mowa w art. 34 ust. 2l ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm. ),>
+- **1)** zawiera umowę cywilnoprawną w warunkach, w których zgodnie z art. 22 § 1 powinna być zawarta umowa o pracę, 1a) nie zawiadamia właściwego okręgowego inspektora pracy, w formie pisemnej lub elektronicznej, o zawarciu umowy o pracę, o której mowa w art. 25 § 4 pkt 4, wraz ze wskazaniem przyczyn zawarcia takiej umowy, w terminie 5 dni roboczych od dnia jej zawarcia, <1b) narusza zakaz, o którym mowa w art. 34 ust. 2l ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm. ),
 - **2)** nie potwierdza na piśmie zawartej z pracownikiem umowy o pracę przed dopuszczeniem go do pracy, 2a) nie informuje pracownika w terminie o warunkach jego zatrudnienia, naruszając w sposób rażący przepisy art. 29 § 3, 3 i 3 oraz art. 29 § 2 i 4, 2b) nie udziela pracownikowi w terminie w postaci papierowej lub elektronicznej odpowiedzi na wniosek lub nie informuje o przyczynie odmowy uwzględnienia wniosku, o których mowa w art. 29 § 3,
 - **3)** wypowiada lub rozwiązuje z pracownikiem stosunek pracy bez wypowiedzenia, naruszając w sposób rażący przepisy prawa pracy,
 - **4)** stosuje wobec pracowników inne kary niż przewidziane w przepisach prawa pracy o odpowiedzialności porządkowej pracowników,

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o samorządach zawodowych architektów oraz inżynierów budownictwa
+# Ustawa z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 *USTAWA z dnia 15 grudnia 2000 r.*
 

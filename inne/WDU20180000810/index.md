@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o mikroorganizmach i organizmach genetycznie zmodyfikowanych oraz niektórych innych ustaw
+# Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o mikroorganizmach i organizmach genetycznie zmodyfikowanych oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 marca 2018 r.*
 

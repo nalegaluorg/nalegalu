@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej
+# Ustawa z dnia 24 lutego 2022 r. o zmianie ustawy o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej
 
 *USTAWA z dnia 24 lutego 2022 r.*
 

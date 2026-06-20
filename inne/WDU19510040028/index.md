@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dniach wolnych od pracy
+# Ustawa z dnia 18 stycznia 1951 r. o dniach wolnych od pracy.
 
 *USTAWA z dnia 18 stycznia 1951 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw związanych z funkcjonowaniem systemu ubezpieczeń społecznych
+# Ustawa z dnia 25 marca 2011 r. o zmianie niektórych ustaw związanych z funkcjonowaniem systemu ubezpieczeń społecznych
 
 *USTAWA z dnia 25 marca 2011 r.*
 

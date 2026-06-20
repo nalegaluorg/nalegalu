@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Narodowej Strategii Onkologicznej Parlament Rzeczypospolitej Polskiej, mając na względzie obecny i prognozowany wzrost zachorowań na choroby nowotworowe oraz wynikające z tego skutki w postaci dużej śmiertelności, poważnych konsekwencji społecznych, w tym pogorszenia jakości życia chorych i ich rodzin, oraz znacznych obciążeń finansowych związanych z leczeniem tych chorób dla obywateli i finansów publicznych, uznaje za konieczne przyjęcie strategii w obszarze onkologii dla Rzeczypospolitej Polskiej, w związku z czym uchwala niniejszą ustawę.
+# Ustawa z dnia 26 kwietnia 2019 r. o Narodowej Strategii Onkologicznej
 
 *USTAWA z dnia 26 kwietnia 2019 r.*
 

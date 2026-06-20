@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o infrastrukturze informacji przestrzennej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o infrastrukturze informacji przestrzennej
 
 | Pole | Wartość |
 |---|---|
@@ -34,7 +34,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 4 marca 2010 r.
 o infrastrukturze informacji przestrzennej
-Art. 23–28. (pominięte)
 1) systemy odniesienia za pomocą współrzędnych, rozumiane jako systemy do jednoznacznego przestrzennego odnoszenia informacji przestrzennej za pomocą współrzędnych x, y, z lub za pomocą szerokości i długości geograficznej oraz wysokości na podstawie geodezyjnego poziomego i pionowego układu odniesienia;
 2) systemy siatek georeferencyjnych, rozumiane jako systemy tworzone na podstawie zharmonizowanej wielorozdzielczej siatki o znormalizowanym położeniu i wielkości oczek oraz wspólnym punkcie początkowym;
 3) nazwy geograficzne, rozumiane jako nazwy obszarów, regionów, miejscowości, miast, przedmieść lub osiedli, a także nazwy innych obiektów geograficznych lub topograficznych o znaczeniu publicznym lub historycznym;
@@ -333,6 +332,8 @@ Art. 23–28. (pominięte)
 - **2)** wysokość wynagrodzenia członków Rady, o których mowa w ust. 1 pkt 10, mając na uwadze zakres zadań określonych w art. 21 ust. 2 oraz znaczenie tych zadań dla procesu tworzenia infrastruktury informacji przestrzennej, a także przyjmując, że wynagrodzenie członka Rady za udział w posiedzeniu Rady nie może przekroczyć 50 % kwoty bazowej dla osób zajmujących kierownicze stanowiska państwowe, ustalanej corocznie w ustawie budżetowej.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 23–28.** (pominięte)
 
 #### Rozdział 8 Przepisy dostosowujące, przejściowe i końcowe
 

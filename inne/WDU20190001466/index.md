@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz ustawy o transporcie drogowym
+# Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o transporcie drogowym
 
 *USTAWA z dnia 13 czerwca 2019 r.*
 
@@ -58,7 +58,11 @@ source: pdf
 - **6)** w art. 100ah w ust. 1 pkt 9 otrzymuje brzmienie: „9) Komendantowi Służby Ochrony Państwa;”;
 - **7)** po art. 129f dodaje się art. 129fa–129fc w brzmieniu: „Art. 129fa. 1. Pojazd wytypowany przez kontrolującego do sprawdzenia stanu technicznego w ramach kontroli ruchu drogowego podlega wstępnej drogowej kontroli technicznej, która jest przeprowadzana zgodnie z przepisami wydanymi na podstawie art. 131 ust. 1.
 
-2. Główny Inspektor Transportu Drogowego w porozumieniu z Komendantem Głównym Policji planują i organizują wstępne drogowe kontrole techniczne pojazdów kategorii M , M , N i N i przyczep kategorii O i O w taki sposób, aby łączna liczba tych kontroli obejmowała w każdym roku kalendarzowym co najmniej 5% łącznej liczby takich pojazdów zarejestrowanych na terytorium Rzeczypospolitej Polskiej. Art. 129fb. 1. W przypadku pojazdu kategorii M , M , N i N , przyczepy kategorii O i O i ciągnika kołowego kategorii T użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy kontrolujący, na podstawie wyników wstępnej drogowej kontroli technicznej, może skierować ten pojazd na szczegółową drogową kontrolę techniczną. Kierując pojazd na szczegółową drogową kontrolę techniczną, uwzględnia się w szczególności potrzebę ustalenia, czy pojazd ten zagraża bezpieczeństwu ruchu drogowego lub narusza wymagania ochrony środowiska.
+2. Główny Inspektor Transportu Drogowego w porozumieniu z Komendantem Głównym Policji planują i organizują wstępne drogowe kontrole techniczne pojazdów kategorii M , M , N i N i przyczep kategorii O i O w taki sposób, aby łączna liczba tych kontroli obejmowała w każdym roku kalendarzowym co najmniej 5% łącznej liczby takich pojazdów zarejestrowanych na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 129fb.**
+
+1. W przypadku pojazdu kategorii M , M , N i N , przyczepy kategorii O i O i ciągnika kołowego kategorii T użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy kontrolujący, na podstawie wyników wstępnej drogowej kontroli technicznej, może skierować ten pojazd na szczegółową drogową kontrolę techniczną. Kierując pojazd na szczegółową drogową kontrolę techniczną, uwzględnia się w szczególności potrzebę ustalenia, czy pojazd ten zagraża bezpieczeństwu ruchu drogowego lub narusza wymagania ochrony środowiska.
 
 2. Zakres szczegółowej drogowej kontroli technicznej, która ma być przeprowadzona, określa się w protokole drogowej kontroli technicznej.
 
@@ -71,7 +75,11 @@ source: pdf
 
 5. Wyniki szczegółowej drogowej kontroli technicznej zamieszcza się w protokole drogowej kontroli technicznej.
 
-6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, minimalne wymagania w zakresie wyposażenia mobilnej stacji kontroli drogowej oraz wyznaczonego punktu przeprowadzania kontroli drogowej i przyrządów kontrolno-pomiarowych w nich stosowanych, uwzględniając zakres szczegółowej drogowej kontroli technicznej oraz potrzebę zapewnienia prawidłowej oceny stanu technicznego pojazdów poddawanych tej kontroli. Art. 129fc. 1. Szczegółową drogową kontrolę techniczną przeprowadza kontrolujący, który posiada:
+6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, minimalne wymagania w zakresie wyposażenia mobilnej stacji kontroli drogowej oraz wyznaczonego punktu przeprowadzania kontroli drogowej i przyrządów kontrolno-pomiarowych w nich stosowanych, uwzględniając zakres szczegółowej drogowej kontroli technicznej oraz potrzebę zapewnienia prawidłowej oceny stanu technicznego pojazdów poddawanych tej kontroli.
+
+**Art. 129fc.**
+
+1. Szczegółową drogową kontrolę techniczną przeprowadza kontrolujący, który posiada:
 
 - **1)** uprawnienia, o których mowa w art. 84 ust. 2, albo
 - **2)** wykształcenie i praktykę, o których mowa w art. 84 ust. 2b, oraz odbył szkolenie dla kontrolujących w zakresie przeprowadzania szczegółowych drogowych kontroli technicznych – oraz nie rzadziej niż raz w ciągu 2 kolejnych lat uczestniczy w warsztatach dla kontrolujących przeprowadzających szczegółowe drogowe kontrole techniczne.

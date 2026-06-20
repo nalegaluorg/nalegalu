@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów powszechnych, ustawy – Prawo o ustroju sądów wojskowych oraz ustawy o prokuraturze
+# Ustawa z dnia 14 lipca 2006 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych, ustawy - Prawo o ustroju sądów wojskowych oraz ustawy o prokuraturze
 
 *USTAWA z dnia 14 lipca 2006 r.*
 

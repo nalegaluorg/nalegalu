@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym
+# Ustawa z dnia 16 września 2011 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym funduszu Drogowym
 
 *USTAWA z dnia 16 września 2011 r.*
 

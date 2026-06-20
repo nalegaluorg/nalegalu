@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dokończeniu budowy Zbiornika Wodnego Świnna Poręba
+# Ustawa z dnia 13 maja 2016 r. o dokończeniu budowy Zbiornika Wodnego Świnna Poręba
 
 *USTAWA z dnia 13 maja 2016 r.*
 

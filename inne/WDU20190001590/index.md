@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z wdrażaniem rozwiązań w obszarze e-zdrowia
+# Ustawa z dnia 19 lipca 2019 r. o zmianie niektórych ustaw w związku z wdrażaniem rozwiązań w obszarze e-zdrowia
 
 *USTAWA z dnia 19 lipca 2019 r.*
 

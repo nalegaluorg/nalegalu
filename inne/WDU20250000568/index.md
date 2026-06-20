@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o systemach oceny zgodności i nadzoru rynku
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemach oceny zgodności i nadzoru rynku
 
 | Pole | Wartość |
 |---|---|
@@ -38,7 +38,6 @@ poz. 179), który stanowi: „Art. 33. Ustawa wchodzi w życie po upływie 14 dn
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 13 kwietnia 2016 r.
 o systemach oceny zgodności i nadzoru rynku
-Art. 99–121. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1350,6 +1349,8 @@ Art. 99–121. (pominięte)
 7. Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
+
+**Art. 99–121.** (pominięte)
 
 #### Rozdział 10 Przepisy dostosowujące, przejściowe i końcowe
 

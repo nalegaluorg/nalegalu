@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw
+# Ustawa z dnia 10 czerwca 2011 r. o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 czerwca 2011 r.*
 

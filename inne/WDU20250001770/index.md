@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ubezpieczeniu społecznym rolników
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ubezpieczeniu społecznym rolników
 
 | Pole | Wartość |
 |---|---|

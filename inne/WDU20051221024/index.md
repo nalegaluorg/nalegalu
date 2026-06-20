@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw
+# Ustawa z dnia 3 czerwca 2005 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw
 
 *USTAWA z dnia 3 czerwca 2005 r.*
 

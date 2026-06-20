@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej, Służby Więziennej, Centralnego Biura Antykorupcyjnego i Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu
+# Ustawa z dnia 23 czerwca 2006 r. o zmianie ustawy o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej, Służby Więziennej, Centralnego Biura Antykorupcyjnego i Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu
 
 *USTAWA z dnia 23 czerwca 2006 r.*
 

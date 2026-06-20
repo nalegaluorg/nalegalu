@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
+# Ustawa z dnia 30 maja 2014 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
 
 *USTAWA z dnia 30 maja 2014 r.*
 
@@ -62,7 +62,12 @@ source: pdf
 
 - **5)** po art. 22a dodaje się art. 22aa–22azc w brzmieniu: „Art. 22aa. Nauczyciel może zdecydować o realizacji programu nauczania:
 - **1)** z zastosowaniem podręcznika, materiału edukacyjnego lub materiału ćwiczeniowego lub
-- **2)** bez zastosowania podręcznika lub materiałów, o których mowa w pkt 1. Art. 22ab. 1. Zespół nauczycieli prowadzących nauczanie w klasach I–III szkoły podstawowej oraz zespół nauczycieli prowadzących nauczanie danych zajęć edukacyjnych w klasach IV–VI szkoły podstawowej, w gimnazjum i szkole ponadgimnazjalnej przedstawiają dyrektorowi szkoły propozycję:
+- **2)** bez zastosowania podręcznika lub materiałów, o których mowa w pkt 1.
+
+**Art. 22ab.**
+
+1. Zespół nauczycieli prowadzących nauczanie w klasach I–III szkoły podstawowej oraz zespół nauczycieli prowadzących nauczanie danych zajęć edukacyjnych w klasach IV–VI szkoły podstawowej, w gimnazjum i szkole ponadgimnazjalnej przedstawiają dyrektorowi szkoły propozycję:
+
 - **1)** jednego podręcznika do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej oraz jednego podręcznika do zajęć z zakresu danego języka obcego nowożytnego, lub materiału edukacyjnego, dla uczniów danej klasy – w przypadku klas I–III szkoły podstawowej;
 - **2)** jednego podręcznika do danych zajęć edukacyjnych lub materiału edukacyjnego do danych zajęć edukacyjnych, dla uczniów danej klasy – w przypadku klas IV–VI szkoły podstawowej, gimnazjum i szkoły ponadgimnazjalnej;
 - **3)** materiałów ćwiczeniowych.
@@ -89,15 +94,27 @@ source: pdf
 
 6. Dyrektor szkoły corocznie podaje do publicznej wiadomości zestaw podręczników lub materiałów edukacyjnych oraz materiały ćwiczeniowe obowiązujące w danym roku szkolnym.
 
-7. Przepisy ust. 1–6 stosuje się odpowiednio do szkół artystycznych w zakresie kształcenia ogólnego. Art. 22ac. 1. Uczniowie szkół podstawowych i gimnazjów mają prawo do bezpłatnego dostępu do podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych, przeznaczonych do obowiązkowych zajęć edukacyjnych z zakresu kształcenia ogólnego, określonych w ramowych planach nauczania ustalonych dla tych szkół.
+7. Przepisy ust. 1–6 stosuje się odpowiednio do szkół artystycznych w zakresie kształcenia ogólnego.
 
-2. Przepisu ust. 1 nie stosuje się do szkół dla dorosłych. Art. 22ad. 1. Wyposażenie szkół podstawowych w podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej w klasach I–III zapewnia minister właściwy do spraw oświaty i wychowania. Podręczniki te stają się własnością organu prowadzącego szkołę podstawową z dniem ich przekazania przez ministra właściwego do spraw oświaty i wychowania.
+**Art. 22ac.**
+
+1. Uczniowie szkół podstawowych i gimnazjów mają prawo do bezpłatnego dostępu do podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych, przeznaczonych do obowiązkowych zajęć edukacyjnych z zakresu kształcenia ogólnego, określonych w ramowych planach nauczania ustalonych dla tych szkół.
+
+2. Przepisu ust. 1 nie stosuje się do szkół dla dorosłych.
+
+**Art. 22ad.**
+
+1. Wyposażenie szkół podstawowych w podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej w klasach I–III zapewnia minister właściwy do spraw oświaty i wychowania. Podręczniki te stają się własnością organu prowadzącego szkołę podstawową z dniem ich przekazania przez ministra właściwego do spraw oświaty i wychowania.
 
 2. Dyrektor szkoły podstawowej, za zgodą organu prowadzącego szkołę, może ustalić w zestawie, o którym mowa w art. 22ab ust. 4 pkt 1, inny podręcznik niż podręcznik zapewniony przez ministra właściwego do spraw oświaty i wychowania.
 
 3. W przypadku, o którym mowa w ust. 2, koszt zakupu podręcznika innego niż podręcznik zapewniony przez ministra właściwego do spraw oświaty i wychowania pokrywa organ prowadzący szkołę podstawową.
 
-4. Podręczniki, o których mowa w ust. 1, są dostosowane do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych. Art. 22ae. 1. Wyposażenie:
+4. Podręczniki, o których mowa w ust. 1, są dostosowane do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych.
+
+**Art. 22ae.**
+
+1. Wyposażenie:
 
 - **1)** szkół podstawowych i szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej w podręczniki do zajęć z zakresu danego języka obcego nowożytnego, materiały edukacyjne do zajęć z zakresu danego języka obcego nowożytnego lub materiały ćwiczeniowe, dla klas I– III,
 - **2)** szkół podstawowych i szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe, dla klas IV–VI,
@@ -142,7 +159,11 @@ source: pdf
 
 17. Dotacja celowa, o której mowa w ust. 4, jest przekazywana w terminie 14 dni od dnia otrzymania dotacji celowej, o której mowa w ust. 3, przez jednostkę samorządu terytorialnego.
 
-18. Dotacja celowa może być wykorzystana do końca roku budżetowego, na który została udzielona. Art. 22af. 1. Dyrektor szkoły podstawowej lub gimnazjum oraz szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej lub gimnazjum, prowadzonych przez jednostkę samorządu terytorialnego, przekazuje organowi prowadzącemu informacje niezbędne dla ustalenia wysokości dotacji celowej, o której mowa w art. 22ae ust. 3.
+18. Dotacja celowa może być wykorzystana do końca roku budżetowego, na który została udzielona.
+
+**Art. 22af.**
+
+1. Dyrektor szkoły podstawowej lub gimnazjum oraz szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej lub gimnazjum, prowadzonych przez jednostkę samorządu terytorialnego, przekazuje organowi prowadzącemu informacje niezbędne dla ustalenia wysokości dotacji celowej, o której mowa w art. 22ae ust. 3.
 
 2. Dyrektor szkoły podstawowej lub gimnazjum prowadzonych przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną przekazuje jednostce samorządu terytorialnego, właściwej do udzielenia dotacji celowej, o której mowa w art. 22ae ust. 4, wniosek o udzielenie tej dotacji wraz z informacjami niezbędnymi dla ustalenia wysokości dotacji.
 
@@ -162,13 +183,19 @@ source: pdf
 
 10. Rozliczenie wykorzystania dotacji celowej, o której mowa w art. 22ae ust. 3, przez jednostkę samorządu terytorialnego oraz zwrot niewykorzystanej dotacji następują w terminie do dnia 31 stycznia następnego roku.
 
-11. Wojewoda sporządza i przekazuje ministrowi właściwemu do spraw oświaty i wychowania, w terminie do dnia 15 marca następnego roku, zbiorcze zestawienie wykorzystania dotacji celowej, o której mowa w art. 22ae ust. 3, przez jednostki samorządu terytorialnego w danym roku budżetowym. Art. 22ag. Minister właściwy do spraw oświaty i wychowania, określi, w drodze rozporządzenia:
+11. Wojewoda sporządza i przekazuje ministrowi właściwemu do spraw oświaty i wychowania, w terminie do dnia 15 marca następnego roku, zbiorcze zestawienie wykorzystania dotacji celowej, o której mowa w art. 22ae ust. 3, przez jednostki samorządu terytorialnego w danym roku budżetowym.
+
+**Art. 22ag.** Minister właściwy do spraw oświaty i wychowania, określi, w drodze rozporządzenia:
 
 - **1)** sposób przekazywania przez dyrektora szkoły podstawowej, gimnazjum lub szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej lub gimnazjum, prowadzonych przez jednostki samorządu terytorialnego, oraz dyrektora szkoły podstawowej lub gimnazjum prowadzonych przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną, jednostkom samorządu terytorialnego informacji niezbędnych dla ustalenia wysokości dotacji celowej, o której mowa w art. 22ae ust. 3 i 4, oraz wzór formularza zawierającego te informacje,
 - **2)** wzór wniosku o udzielenie dotacji celowej, o której mowa w art. 22ae ust. 4, szkole podstawowej lub gimnazjum prowadzonych przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną,
 - **3)** sposób przekazywania przez jednostki samorządu terytorialnego wojewodom wniosku o udzielenie dotacji celowej, o której mowa w art. 22ae ust. 3, oraz wzór wniosku o udzielenie tej dotacji,
 - **4)** tryb i terminy udzielania oraz sposób rozliczania wykorzystania dotacji celowej, o której mowa w art. 22ae ust. 3, oraz wzór formularza rozliczenia wykorzystania tej dotacji,
-- **5)** sposób rozliczania wykorzystania dotacji celowej, o której mowa w art. 22ae ust. 4, oraz wzór formularza rozliczenia wykorzystania tej dotacji – biorąc pod uwagę możliwość wykorzystania środków komunikacji elektronicznej i informatycznych nośników danych, a także mając na względzie zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa. Art. 22ah. 1. Na sfinansowanie kosztu zakupu podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych w zakresie, o którym mowa w art. 22ae ust. 1, szkoły artystyczne realizujące kształcenie ogólne w zakresie szkoły podstawowej lub gimnazjum prowadzone przez osoby prawne inne niż jednostki samorządu terytorialnego lub osoby fizyczne otrzymują, na wniosek, dotację celową z budżetu państwa. Przepisy art. 22ae ust. 5–14 stosuje się odpowiednio.
+- **5)** sposób rozliczania wykorzystania dotacji celowej, o której mowa w art. 22ae ust. 4, oraz wzór formularza rozliczenia wykorzystania tej dotacji – biorąc pod uwagę możliwość wykorzystania środków komunikacji elektronicznej i informatycznych nośników danych, a także mając na względzie zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa.
+
+**Art. 22ah.**
+
+1. Na sfinansowanie kosztu zakupu podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych w zakresie, o którym mowa w art. 22ae ust. 1, szkoły artystyczne realizujące kształcenie ogólne w zakresie szkoły podstawowej lub gimnazjum prowadzone przez osoby prawne inne niż jednostki samorządu terytorialnego lub osoby fizyczne otrzymują, na wniosek, dotację celową z budżetu państwa. Przepisy art. 22ae ust. 5–14 stosuje się odpowiednio.
 
 2. Wniosek o udzielenie dotacji celowej, o której mowa w ust. 1, wraz z informacjami niezbędnymi dla ustalenia wysokości dotacji, składa dyrektor szkoły do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, w terminie od dnia 15 marca do dnia 15 września.
 
@@ -185,13 +212,26 @@ source: pdf
 8. W przypadku podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych do szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej lub gimnazjum, prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego lub osoby fizyczne, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, określi, w drodze rozporządzenia:
 
 - **1)** sposób przekazywania przez dyrektora szkoły informacji niezbędnych dla ustalenia wysokości dotacji celowej, o której mowa w ust. 1, wzór formularza zawierającego te informacje oraz wzór wniosku o udzielenie dotacji,
-- **2)** tryb udzielania oraz sposób rozliczania wykorzystania dotacji celowej, o której mowa w ust. 1, oraz wzór formularza rozliczenia wykorzystania tej dotacji – biorąc pod uwagę możliwość wykorzystania środków komunikacji elektronicznej i informatycznych nośników danych, a także mając na względzie zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa. Art. 22ai. 1. Dyrektor szkoły podstawowej lub gimnazjum, za zgodą organu prowadzącego, może ustalić:
+- **2)** tryb udzielania oraz sposób rozliczania wykorzystania dotacji celowej, o której mowa w ust. 1, oraz wzór formularza rozliczenia wykorzystania tej dotacji – biorąc pod uwagę możliwość wykorzystania środków komunikacji elektronicznej i informatycznych nośników danych, a także mając na względzie zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa.
+
+**Art. 22ai.**
+
+1. Dyrektor szkoły podstawowej lub gimnazjum, za zgodą organu prowadzącego, może ustalić:
+
 - **1)** w zestawie, o którym mowa w art. 22ab ust. 4 pkt 1, podręczniki lub materiały edukacyjne, których koszt zakupu dla ucznia przekracza odpowiednio kwoty dotacji celowej, o których mowa w art. 22ae ust. 5 pkt 1, 3 i 5;
 - **2)** materiały ćwiczeniowe, których koszt zakupu dla ucznia przekracza odpowiednio kwoty dotacji celowej, o których mowa w art. 22ae ust. 5 pkt 2, 4 i 6.
 
-2. W przypadku, o którym mowa w ust. 1, różnicę między kosztem zakupu dla ucznia kompletu podręczników lub materiałów edukacyjnych oraz zakupu materiałów ćwiczeniowych a wysokością kwot dotacji celowej, o których mowa w art. 22ae ust. 5, pokrywa organ prowadzący szkołę podstawową lub gimnazjum. Art. 22aj. 1. W bibliotece szkolnej są gromadzone podręczniki, materiały edukacyjne, materiały ćwiczeniowe i inne materiały biblioteczne.
+2. W przypadku, o którym mowa w ust. 1, różnicę między kosztem zakupu dla ucznia kompletu podręczników lub materiałów edukacyjnych oraz zakupu materiałów ćwiczeniowych a wysokością kwot dotacji celowej, o których mowa w art. 22ae ust. 5, pokrywa organ prowadzący szkołę podstawową lub gimnazjum.
 
-2. Czynności związane z zakupem do biblioteki szkolnej podręczników, materiałów edukacyjnych, materiałów ćwiczeniowych i innych materiałów bibliotecznych oraz czynności związane z gospodarowaniem tymi podręcznikami i materiałami wykonuje dyrektor szkoły. Art. 22ak. 1. Szkoła podstawowa i gimnazjum nieodpłatnie:
+**Art. 22aj.**
+
+1. W bibliotece szkolnej są gromadzone podręczniki, materiały edukacyjne, materiały ćwiczeniowe i inne materiały biblioteczne.
+
+2. Czynności związane z zakupem do biblioteki szkolnej podręczników, materiałów edukacyjnych, materiałów ćwiczeniowych i innych materiałów bibliotecznych oraz czynności związane z gospodarowaniem tymi podręcznikami i materiałami wykonuje dyrektor szkoły.
+
+**Art. 22ak.**
+
+1. Szkoła podstawowa i gimnazjum nieodpłatnie:
 
 - **1)** wypożycza uczniom podręczniki lub materiały edukacyjne, mające postać papierową, lub
 - **2)** zapewnia uczniom dostęp do podręczników lub materiałów edukacyjnych, mających postać elektroniczną, lub
@@ -209,13 +249,24 @@ source: pdf
 5. W przypadku gdy uczeń niepełnosprawny przechodzi z jednej szkoły do innej szkoły w trakcie roku szkolnego:
 
 - **1)** podręczniki zapewnione przez ministra właściwego do spraw oświaty i wychowania, o których mowa w art. 22ad ust. 1, lub zakupione z dotacji celowej, o której mowa w art. 22ae ust. 3, lub
-- **2)** materiały edukacyjne zakupione z dotacji celowej, o której mowa w art. 22ae ust. 3 – dostosowane do potrzeb edukacyjnych i możliwości psychofizycznych tego ucznia, z których uczeń korzysta, stają się własnością organu prowadzącego szkołę, do której uczeń przechodzi. Art. 22al. Przepisy art. 22ac, art. 22ad, art. 22ai i art. 22ak stosuje się odpowiednio do szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej lub gimnazjum. Art. 22am. 1. W przypadku likwidacji szkoły podstawowej lub gimnazjum, o której mowa w art. 22ae ust. 2:
+- **2)** materiały edukacyjne zakupione z dotacji celowej, o której mowa w art. 22ae ust. 3 – dostosowane do potrzeb edukacyjnych i możliwości psychofizycznych tego ucznia, z których uczeń korzysta, stają się własnością organu prowadzącego szkołę, do której uczeń przechodzi.
+
+**Art. 22al.** Przepisy art. 22ac, art. 22ad, art. 22ai i art. 22ak stosuje się odpowiednio do szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej lub gimnazjum.
+
+**Art. 22am.**
+
+1. W przypadku likwidacji szkoły podstawowej lub gimnazjum, o której mowa w art. 22ae ust. 2:
+
 - **1)** podręczniki, materiały edukacyjne lub urządzenia, o których mowa w art. 22ae ust. 11, zakupione z dotacji celowej podlegają zwrotowi jednostce samorządu terytorialnego, która udzieliła dotacji;
 - **2)** podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej w klasach I –III szkoły podstawowej, o których mowa w art. 22ad ust. 1, podlegają zwrotowi jednostce samorządu terytorialnego obowiązanej do prowadzenia szkół odpowiedniego typu i rodzaju.
 
 2. W przypadku likwidacji szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej lub gimnazjum, o której mowa w art. 22ah ust. 1, podręczniki, materiały edukacyjne lub urządzenia, o których mowa w art. 22ae ust. 11, zakupione z dotacji celowej oraz podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej w klasach I–III szkoły podstawowej, o których mowa w art. 22ad ust. 1, podlegają zwrotowi ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego.
 
-3. Jeżeli wartość podręczników, materiałów edukacyjnych lub urządzeń, o których mowa w art. 22ae ust. 11, podlegających zwrotowi zgodnie z ust. 1 i 2, przewyższa wartość udzielonej dotacji celowej, organ prowadzący szkołę może zwrócić równowartość otrzymanej dotacji odpowiednio jednostce samorządu terytorialnego lub ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego. Art. 22an. 1. Minister właściwy do spraw oświaty i wychowania, a w przypadku podręczników do kształcenia w zawodach szkolnictwa artystycznego – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, dopuszczają do użytku szkolnego odpowiednio w szkołach lub szkołach artystycznych podręczniki, po uzyskaniu pozytywnych opinii rzeczoznawców wyznaczonych odpowiednio przez ministra właściwego do spraw oświaty i wychowania albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego z list rzeczoznawców prowadzonych przez tych ministrów.
+3. Jeżeli wartość podręczników, materiałów edukacyjnych lub urządzeń, o których mowa w art. 22ae ust. 11, podlegających zwrotowi zgodnie z ust. 1 i 2, przewyższa wartość udzielonej dotacji celowej, organ prowadzący szkołę może zwrócić równowartość otrzymanej dotacji odpowiednio jednostce samorządu terytorialnego lub ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego.
+
+**Art. 22an.**
+
+1. Minister właściwy do spraw oświaty i wychowania, a w przypadku podręczników do kształcenia w zawodach szkolnictwa artystycznego – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, dopuszczają do użytku szkolnego odpowiednio w szkołach lub szkołach artystycznych podręczniki, po uzyskaniu pozytywnych opinii rzeczoznawców wyznaczonych odpowiednio przez ministra właściwego do spraw oświaty i wychowania albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego z list rzeczoznawców prowadzonych przez tych ministrów.
 
 2. Dopuszczenie do użytku szkolnego podręczników do kształcenia w zawodach podstawowych dla żeglugi morskiej i śródlądowej może nastąpić po pozytywnym zaopiniowaniu przez odpowiednio ministra właściwego do spraw gospodarki morskiej i ministra właściwego do spraw transportu, w zakresie zgodności z postanowieniami konwencji, o której mowa w art. 32b.
 
@@ -227,7 +278,11 @@ source: pdf
 
 6. Podręczniki dopuszczone do użytku szkolnego przeznaczone do kształcenia w zawodach powinny być aktualizowane w kolejnych wydaniach, jeżeli aktualizacja jest konieczna ze względu na postęp techniczno-technologiczny.
 
-7. Dopuszczenie i odmowa dopuszczenia podręcznika do użytku szkolnego następuje w drodze decyzji administracyjnej. Art. 22ao. 1. Podręcznik może mieć postać papierową lub elektroniczną.
+7. Dopuszczenie i odmowa dopuszczenia podręcznika do użytku szkolnego następuje w drodze decyzji administracyjnej.
+
+**Art. 22ao.**
+
+1. Podręcznik może mieć postać papierową lub elektroniczną.
 
 2. Podręcznik może być wydawany w częściach, jeżeli jest to uzasadnione ze względu na funkcjonalność używania podręcznika.
 
@@ -246,13 +301,26 @@ source: pdf
 
 - **5)** nie zawiera materiałów i treści o charakterze reklamowym;
 - **6)** w przypadku podręcznika w postaci elektronicznej – jest opracowany w sposób pozwalający na zastosowanie rozwiązań umożliwiających odczyt przez uczniów z różnymi rodzajami niepełnosprawności;
-- **7)** spełnia szczegółowe warunki określone w przepisach wydanych na podstawie art. 22aw. Art. 22ap. Podręczniki dopuszczone do użytku szkolnego są wpisywane do wykazów, które są podawane do publicznej wiadomości na stronie internetowej urzędu obsługującego odpowiednio ministra właściwego do spraw oświaty i wychowania lub ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. Art. 22aq. 1. Minister właściwy do spraw oświaty i wychowania, a w przypadku podręczników do kształcenia w zawodach szkolnictwa artystycznego – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w drodze decyzji administracyjnej, może cofnąć dopuszczenie do użytku szkolnego podręcznika:
+- **7)** spełnia szczegółowe warunki określone w przepisach wydanych na podstawie art. 22aw.
+
+**Art. 22ap.** Podręczniki dopuszczone do użytku szkolnego są wpisywane do wykazów, które są podawane do publicznej wiadomości na stronie internetowej urzędu obsługującego odpowiednio ministra właściwego do spraw oświaty i wychowania lub ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+
+**Art. 22aq.**
+
+1. Minister właściwy do spraw oświaty i wychowania, a w przypadku podręczników do kształcenia w zawodach szkolnictwa artystycznego – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w drodze decyzji administracyjnej, może cofnąć dopuszczenie do użytku szkolnego podręcznika:
+
 - **1)** na wniosek podmiotu, o którym mowa w art. 22an ust. 3;
 - **2)** z urzędu – jeżeli co najmniej dwóch rzeczoznawców wyznaczonych przez odpowiednio ministra właściwego do spraw oświaty i wychowania lub ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego stwierdzi, że podręcznik:
     - **a)** utracił aktualność lub przydatność dydaktyczną, lub
     - **b)** zawiera błędy merytoryczne, z powodu których podręcznik nie powinien być w użytku szkolnym.
 
-2. Minister właściwy do spraw oświaty i wychowania lub minister właściwy do spraw kultury i ochrony dziedzictwa narodowego zamieszcza na stronie internetowej urzędu obsługującego odpowiednio ministra właściwego do spraw oświaty i wychowania lub ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego informację o terminie, po upływie którego podręcznik nie może być uwzględniony w zestawie, o którym mowa w art. 22ab ust. 4 pkt 1. Art. 22ar. Wpis na listę rzeczoznawców jest dokonywany na wniosek osoby zainteresowanej, a w przypadku podręczników do kształcenia w zawodach szkolnictwa artystycznego – również na wniosek specjalistycznej jednostki nadzoru, o której mowa w art. 32a ust. 1, placówki doskonalenia nauczycieli szkół artystycznych lub szkoły wyższej, za zgodą tej osoby. Art. 22as. 1. Na listę rzeczoznawców może być wpisana osoba posiadająca:
+2. Minister właściwy do spraw oświaty i wychowania lub minister właściwy do spraw kultury i ochrony dziedzictwa narodowego zamieszcza na stronie internetowej urzędu obsługującego odpowiednio ministra właściwego do spraw oświaty i wychowania lub ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego informację o terminie, po upływie którego podręcznik nie może być uwzględniony w zestawie, o którym mowa w art. 22ab ust. 4 pkt 1.
+
+**Art. 22ar.** Wpis na listę rzeczoznawców jest dokonywany na wniosek osoby zainteresowanej, a w przypadku podręczników do kształcenia w zawodach szkolnictwa artystycznego – również na wniosek specjalistycznej jednostki nadzoru, o której mowa w art. 32a ust. 1, placówki doskonalenia nauczycieli szkół artystycznych lub szkoły wyższej, za zgodą tej osoby.
+
+**Art. 22as.**
+
+1. Na listę rzeczoznawców może być wpisana osoba posiadająca:
 
 - **1)** wykształcenie wyższe magisterskie, z tym że w przypadku rzeczoznawcy do spraw podręczników przeznaczonych do kształcenia specjalnego – wykształcenie wyższe magisterskie w zakresie specjalności odpowiedniej dla danej niepełnosprawności lub kwalifikacje wymagane do zajmowania stanowiska nauczyciela w szkole specjalnej;
 - **2)** doświadczenie i osiągnięcia w pracy naukowej lub dydaktycznej, z tym że w przypadku:
@@ -269,7 +337,11 @@ source: pdf
 
 3. Na liście rzeczoznawców zamieszcza się imię i nazwisko rzeczoznawcy, stopień lub tytuł naukowy, wskazany przez rzeczoznawcę adres do korespondencji, adres poczty elektronicznej i numer telefonu oraz nazwę instytucji, która udzieliła rekomendacji, o której mowa ust. 1 pkt 4.
 
-4. Listy rzeczoznawców są podawane do publicznej wiadomości na stronie internetowej urzędu obsługującego odpowiednio ministra właściwego do spraw oświaty i wychowania lub ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. Art. 22at. 1. Minister właściwy do spraw oświaty i wychowania lub minister właściwy do spraw kultury i ochrony dziedzictwa narodowego skreśla rzeczoznawcę z listy rzeczoznawców:
+4. Listy rzeczoznawców są podawane do publicznej wiadomości na stronie internetowej urzędu obsługującego odpowiednio ministra właściwego do spraw oświaty i wychowania lub ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+
+**Art. 22at.**
+
+1. Minister właściwy do spraw oświaty i wychowania lub minister właściwy do spraw kultury i ochrony dziedzictwa narodowego skreśla rzeczoznawcę z listy rzeczoznawców:
 
 - **1)** na wniosek rzeczoznawcy, a w przypadku podręczników do kształcenia w zawodach szkolnictwa artystycznego – również na wniosek specjalistycznej jednostki nadzoru, o której mowa w art. 32a ust. 1, placówki doskonalenia nauczycieli szkół artystycznych lub szkoły wyższej, która złożyła wniosek o wpis zainteresowanej osoby na listę rzeczoznawców, za zgodą rzeczoznawcy;
 - **2)** w przypadku ukarania rzeczoznawcy karą dyscyplinarną lub skazania rzeczoznawcy prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
@@ -279,7 +351,12 @@ source: pdf
 
 - **1)** rzeczoznawca dwukrotnie, bez uzasadnienia, odmówił sporządzenia opinii;
 - **2)** rzeczoznawca dwukrotnie, bez uzasadnienia, przekroczył termin wyznaczony na sporządzenie opinii;
-- **3)** opinia sporządzona przez rzeczoznawcę jest niezgodna z wymaganiami określonymi w przepisach wydanych na podstawie art. 22aw lub podręcznik dopuszczony do użytku szkolnego na podstawie pozytywnej opinii rzeczoznawcy zawiera błędy merytoryczne, z powodu których nie powinien być w użytku szkolnym. Art. 22au. 1. Rzeczoznawca nie może opiniować podręcznika, jeżeli:
+- **3)** opinia sporządzona przez rzeczoznawcę jest niezgodna z wymaganiami określonymi w przepisach wydanych na podstawie art. 22aw lub podręcznik dopuszczony do użytku szkolnego na podstawie pozytywnej opinii rzeczoznawcy zawiera błędy merytoryczne, z powodu których nie powinien być w użytku szkolnym.
+
+**Art. 22au.**
+
+1. Rzeczoznawca nie może opiniować podręcznika, jeżeli:
+
 - **1)** jest autorem lub współautorem podręcznika:
     - **a)** który jest przeznaczony do tych samych zajęć edukacyjnych na tym samym etapie edukacyjnym,
     - **b)** przeznaczonego do kształcenia w zawodzie w zakresie tej samej kwalifikacji wyodrębnionej w zawodzie lub tej samej części kwalifikacji wyodrębnionej w zawodzie;
@@ -287,11 +364,18 @@ source: pdf
 - **2)** jest małżonkiem, krewnym lub powinowatym osoby składającej wniosek, o którym mowa w art. 22an ust. 3;
 - **3)** pozostaje z podmiotem składającym wniosek, o którym mowa w art. 22an ust. 3, w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do jego bezstronności.
 
-2. Przed sporządzeniem opinii o podręczniku rzeczoznawca składa odpowiednio ministrowi właściwemu do spraw oświaty i wychowania lub ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego oświadczenie, że nie zachodzą przesłanki, o których mowa w ust. 1. Art. 22av. Wysokość wynagrodzenia rzeczoznawcy ustala odpowiednio minister właściwy do spraw oświaty i wychowania lub minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, biorąc pod uwagę:
+2. Przed sporządzeniem opinii o podręczniku rzeczoznawca składa odpowiednio ministrowi właściwemu do spraw oświaty i wychowania lub ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego oświadczenie, że nie zachodzą przesłanki, o których mowa w ust. 1.
+
+**Art. 22av.** Wysokość wynagrodzenia rzeczoznawcy ustala odpowiednio minister właściwy do spraw oświaty i wychowania lub minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, biorąc pod uwagę:
 
 - **1)** rodzaj i postać opiniowanego podręcznika;
 - **2)** etap edukacyjny, dla którego jest przeznaczony podręcznik;
-- **3)** rodzaj i zakres opinii. Art. 22aw. 1. Minister właściwy do spraw oświaty i wychowania, a w przypadku podręczników do kształcenia w zawodach szkolnictwa artystycznego – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, określi, w drodze rozporządzenia:
+- **3)** rodzaj i zakres opinii.
+
+**Art. 22aw.**
+
+1. Minister właściwy do spraw oświaty i wychowania, a w przypadku podręczników do kształcenia w zawodach szkolnictwa artystycznego – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, określi, w drodze rozporządzenia:
+
 - **1)** szczegółowe warunki, jakie muszą spełniać podręczniki dopuszczone do użytku szkolnego;
 - **2)** rodzaj zajęć edukacyjnych, do których nie dopuszcza się podręczników do użytku szkolnego, z uwagi na specyfikę tych zajęć edukacyjnych;
 - **3)** szczegółowe warunki i tryb dopuszczania podręczników do użytku szkolnego;
@@ -305,9 +389,23 @@ source: pdf
 - **2)** możliwość różnicowania szczegółowych warunków, jakie musi spełnić podręcznik, w zależności od rodzaju zajęć edukacyjnych, do których jest przeznaczony, oraz postaci podręcznika;
 - **3)** rodzaje wykazów podręczników dopuszczonych do użytku szkolnego;
 - **4)** instytucje, których rekomendacja jest wymagana przy ubieganiu się o wpisanie na listę rzeczoznawców;
-- **5)** możliwość różnicowania opłat wnoszonych w postępowaniu o dopuszczenie podręcznika do użytku szkolnego w zależności od rodzaju i postaci podręcznika, zakresu kształcenia, rodzaju zajęć edukacyjnych oraz etapu edukacyjnego. Art. 22ax. W przypadku szkół prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje organu prowadzącego określone w art. 22ad ust. 2 i 3 oraz art. 22ai wykonuje odpowiednio: wójt (burmistrz, prezydent miasta), zarząd powiatu, zarząd województwa. Art. 22ay. 1. Uczniowie szkolnych punktów konsultacyjnych, które umożliwiają tym uczniom uzupełnienie wykształcenia w zakresie szkoły podstawowej lub gimnazjum, zakładanych i prowadzonych przez ministra właściwego do spraw oświaty i wychowania, o których mowa w art. 5 ust. 3b pkt 1 lit. a, mają prawo do bezpłatnego dostępu do podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych, umożliwiających nauczanie obowiązkowych zajęć edukacyjnych, określonych w planie nauczania uzupełniającego, o którym mowa w przepisach wydanych na podstawie art. 22 ust. 1 pkt 3. Przepisy art. 22ad stosuje się odpowiednio.
+- **5)** możliwość różnicowania opłat wnoszonych w postępowaniu o dopuszczenie podręcznika do użytku szkolnego w zależności od rodzaju i postaci podręcznika, zakresu kształcenia, rodzaju zajęć edukacyjnych oraz etapu edukacyjnego.
 
-2. Do szkolnych punktów konsultacyjnych przepisy art. 22aa, art. 22ab ust. 1, 2 pkt 4 i ust. 3–6 oraz art. 22ak stosuje się odpowiednio. Art. 22az. Szkoła, udzielając zamówienia, o którym mowa w art. 4 pkt 8c ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm. ), którego wartość przekracza wyrażoną w złotych równowartość kwoty 30 000 euro, zamieszcza ogłoszenie o udzielanym zamówieniu na stronie internetowej szkoły lub stronie internetowej organu prowadzącego. Art. 22aza. Zamówienie, o którym mowa w art. 22az, jest udzielane w sposób zapewniający przejrzystość, równe traktowanie podmiotów zainteresowanych wykonaniem zamówienia oraz z uwzględnieniem okoliczności mogących mieć wpływ na jego udzielenie. Art. 22azb. Szkoła nie udostępnia informacji związanych z zamówieniem, o którym mowa w art. 22az, stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zawarciem umowy o wykonanie tego zamówienia, zastrzegł, że nie mogą być one udostępniane. Art. 22azc. Szkoła niezwłocznie podaje do publicznej wiadomości, na stronie internetowej szkoły lub stronie internetowej organu prowadzącego, informację o udzieleniu zamówienia, o którym mowa w art. 22az, podając nazwę (firmę) albo imię i nazwisko podmiotu, z którym zawarła umowę o wykonanie zamówienia, albo informację o nieudzieleniu tego zamówienia.”;
+**Art. 22ax.** W przypadku szkół prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje organu prowadzącego określone w art. 22ad ust. 2 i 3 oraz art. 22ai wykonuje odpowiednio: wójt (burmistrz, prezydent miasta), zarząd powiatu, zarząd województwa.
+
+**Art. 22ay.**
+
+1. Uczniowie szkolnych punktów konsultacyjnych, które umożliwiają tym uczniom uzupełnienie wykształcenia w zakresie szkoły podstawowej lub gimnazjum, zakładanych i prowadzonych przez ministra właściwego do spraw oświaty i wychowania, o których mowa w art. 5 ust. 3b pkt 1 lit. a, mają prawo do bezpłatnego dostępu do podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych, umożliwiających nauczanie obowiązkowych zajęć edukacyjnych, określonych w planie nauczania uzupełniającego, o którym mowa w przepisach wydanych na podstawie art. 22 ust. 1 pkt 3. Przepisy art. 22ad stosuje się odpowiednio.
+
+2. Do szkolnych punktów konsultacyjnych przepisy art. 22aa, art. 22ab ust. 1, 2 pkt 4 i ust. 3–6 oraz art. 22ak stosuje się odpowiednio.
+
+**Art. 22az.** Szkoła, udzielając zamówienia, o którym mowa w art. 4 pkt 8c ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm. ), którego wartość przekracza wyrażoną w złotych równowartość kwoty 30 000 euro, zamieszcza ogłoszenie o udzielanym zamówieniu na stronie internetowej szkoły lub stronie internetowej organu prowadzącego.
+
+**Art. 22aza.** Zamówienie, o którym mowa w art. 22az, jest udzielane w sposób zapewniający przejrzystość, równe traktowanie podmiotów zainteresowanych wykonaniem zamówienia oraz z uwzględnieniem okoliczności mogących mieć wpływ na jego udzielenie.
+
+**Art. 22azb.** Szkoła nie udostępnia informacji związanych z zamówieniem, o którym mowa w art. 22az, stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zawarciem umowy o wykonanie tego zamówienia, zastrzegł, że nie mogą być one udostępniane.
+
+**Art. 22azc.** Szkoła niezwłocznie podaje do publicznej wiadomości, na stronie internetowej szkoły lub stronie internetowej organu prowadzącego, informację o udzieleniu zamówienia, o którym mowa w art. 22az, podając nazwę (firmę) albo imię i nazwisko podmiotu, z którym zawarła umowę o wykonanie zamówienia, albo informację o nieudzieleniu tego zamówienia.”;
 
 - **6)** w art. 22c:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw oświaty i wychowania, a w przypadku podręczników do kształcenia w zawodach szkolnictwa artystycznego – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, może zlecić opracowanie i wydanie, w tym dystrybucję, podręcznika lub jego części.”,

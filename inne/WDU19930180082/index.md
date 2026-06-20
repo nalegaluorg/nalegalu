@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw
+# Ustawa z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 3 lutego 1993 r.*
 

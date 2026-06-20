@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od spadków i darowizn
+# Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o podatku od spadków i darowizn
 
 *USTAWA z dnia 21 listopada 2025 r.*
 

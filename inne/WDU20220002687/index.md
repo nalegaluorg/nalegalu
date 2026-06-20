@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu
+# Ustawa z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu
 
 *USTAWA z dnia 15 grudnia 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-12-20 |
 | Ostatnia zmiana | 2025-03-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002687) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2687/text.pdf) |
-
-Art. 32–63. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -735,6 +733,8 @@ Art. 32–63. (pominięte)
 4. Do przeprowadzania kontroli przez Prezesa URE zgodności informacji i oświadczeń złożonych w sprawozdaniach, o których mowa w art. 31c ust. 1, przepisy art. 31 stosuje się odpowiednio.
 
 #### Rozdział 4 Zmiany w przepisach
+
+**Art. 32–63.** (pominięte)
 
 #### Rozdział 5 Przepisy przejściowe i końcowe
 

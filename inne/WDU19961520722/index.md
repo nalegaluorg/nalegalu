@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o obowiązkowych egzemplarzach bibliotecznych
+# Ustawa z dnia 7 listopada 1996 r. o obowiązkowych egzemplarzach bibliotecznych.
 
 *USTAWA z dnia 7 listopada 1996 r.*
 

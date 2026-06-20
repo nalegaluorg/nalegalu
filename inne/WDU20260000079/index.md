@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy osobom uprawnionym do alimentów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy osobom uprawnionym do alimentów
 
 | Pole | Wartość |
 |---|---|
@@ -28,7 +28,6 @@ source: pdf
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2025 r. poz. 438), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U.
 poz. 620) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 stycznia 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 433 ust. 1 i art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), które stanowią:
-Art. 32–40. (pominięte)
 
 **Art. 433.** „1. Postępowania w sprawach indywidualnych, wszczęte i niezakończone decyzją ostateczną do dnia wejścia w życie ustawy, są prowadzone na podstawie dotychczasowych przepisów.” „Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
@@ -733,6 +732,8 @@ Art. 32–40. (pominięte)
 8. Sprawozdania rzeczowo-finansowe z wykonywania zadań z zakresu świadczenia z funduszu alimentacyjnego przekazywane są zgodnie z wzorami udostępnionymi, drogą elektroniczną, przez ministra właściwego do spraw rodziny.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 32–40.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe, uchylające i przepisy o wejściu w życie
 

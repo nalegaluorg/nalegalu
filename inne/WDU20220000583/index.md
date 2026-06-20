@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa
+# Ustawa z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa
 
 *USTAWA z dnia 12 marca 2022 r.*
 
@@ -555,7 +555,9 @@ source: pdf
 
 **Art. 42a.** (uchylony)
 
-**Art. 42b.** (uchylony) <Art. 42c. Obywatelowi Ukrainy, którego pobyt na terytorium Rzeczypospolitej Polskiej uznaje się za legalny na podstawie art. 106 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, wydaje się, na jego wniosek, kartę pobytu, o której mowa w art. 226 pkt 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, jeżeli są spełnione łącznie następujące warunki:
+**Art. 42b.** (uchylony)
+
+**Art. 42c.** Obywatelowi Ukrainy, którego pobyt na terytorium Rzeczypospolitej Polskiej uznaje się za legalny na podstawie art. 106 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, wydaje się, na jego wniosek, kartę pobytu, o której mowa w art. 226 pkt 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, jeżeli są spełnione łącznie następujące warunki:
 
 - **1)** w dniu 4 czerwca 2025 r. posiadał status UKR;
 - **2)** w dniu złożenia wniosku o wydanie karty pobytu posiada status UKR;
@@ -626,7 +628,7 @@ source: pdf
 - **1)** numer telefonu do kontaktu;
 - **2)** adres poczty elektronicznej.
 
-3. Obywatel Ukrainy, składając wniosek o wydanie karty pobytu, w sposób, o którym mowa w ust. 1, dołącza do niego z wykorzystaniem usługi online w systemie teleinformatycznym prowadzonym przez Szefa Urzędu do Spraw Cudzoziemców: [1) fotografię spełniającą wymagania określone w przepisach wydanych na podstawie art. 285 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;] <1) fotografię spełniającą wymagania określone w art. 15 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach oraz w przepisach wydanych na podstawie art. 285 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – zgodnie ze szczegółowymi wymogami dotyczącymi dołączania fotografii do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy określonymi w przepisach wydanych na podstawie art. 107 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;>
+3. Obywatel Ukrainy, składając wniosek o wydanie karty pobytu, w sposób, o którym mowa w ust. 1, dołącza do niego z wykorzystaniem usługi online w systemie teleinformatycznym prowadzonym przez Szefa Urzędu do Spraw Cudzoziemców: [1) fotografię spełniającą wymagania określone w przepisach wydanych na podstawie art. 285 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;] <1) fotografię spełniającą wymagania określone w art. 15 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach oraz w przepisach wydanych na podstawie art. 285 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – zgodnie ze szczegółowymi wymogami dotyczącymi dołączania fotografii do wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy określonymi w przepisach wydanych na podstawie art. 107 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
 
 - **2)** odwzorowanie cyfrowe potwierdzenia uiszczenia opłaty za wydanie karty pobytu;
 - **3)** odwzorowanie cyfrowe potwierdzenia uiszczenia opłaty skarbowej za udzielenie zezwolenia na pobyt czasowy w sposób, o którym mowa w art. 42r ust. 1.
@@ -665,7 +667,7 @@ source: pdf
 - **c)** data urodzenia,
 - **d)** płeć,
 - **e)** obywatelstwo,
-- **f)** seria, numer i data ważności ważnego dokumentu podróży obywatela Ukrainy;>
+- **f)** seria, numer i data ważności ważnego dokumentu podróży obywatela Ukrainy;
 - **2)** w rejestrze, o którym mowa w art. 44c ust. 1 ustawy z dnia 24 września 2010 r. o ewidencji ludności, znajdują się następujące dane i informacje: rok życia, z wyjątkiem osoby, która nie może złożyć podpisu;
     - **a)** odciski palców lub informacja o fizycznej niemożności pobrania odcisków palców, o której mowa w art. 44a ust. 11 pkt 3 ustawy z dnia 24 września 2010 r. o ewidencji ludności, albo informacja o chwilowej niemożności pobrania odcisków palców, o której mowa w art. 44a ust. 11 pkt 2 ustawy z dnia 24 września 2010 r. o ewidencji ludności, o ile podjęto co najmniej dwukrotnie próbę pobrania odcisków palców,
     - **b)** odwzorowanie własnoręcznego podpisu osoby, która ukończyła 12.
@@ -698,7 +700,7 @@ source: pdf
 - **10)** informację o posiadaniu statusu UKR w dniu składania wniosku;
 - **11)** informację o posiadaniu statusu UKR przez nieprzerwany okres 365 dni;
 - **12)** numery PESEL rodziców małoletniego, jeżeli znajdują się w rejestrze PESEL;
-- **13)** informacje o osobie faktycznie sprawującej opiekę nad małoletnim, o których mowa w art. 44a ust. 6 pkt 18 ustawy z dnia 24 września 2010 r. o ewidencji ludności.>
+- **13)** informacje o osobie faktycznie sprawującej opiekę nad małoletnim, o których mowa w art. 44a ust. 6 pkt 18 ustawy z dnia 24 września 2010 r. o ewidencji ludności.
 
 5. Jeżeli wniosek o wydanie karty pobytu jest uznawany za złożony zgodnie z ust. 1, nie jest dopuszczalne ponowne złożenie wniosku o jej wydanie do czasu zakończenia postępowania w sposób inny niż przez wydanie karty pobytu.
 
@@ -788,10 +790,12 @@ source: pdf
 
 **Art. 42v.** Obywatel Ukrainy, któremu udzielono zezwolenia na pobyt czasowy w sposób, o którym mowa w art. 42r ust. 1, jest zwolniony z obowiązku posiadania zezwolenia na pracę.
 
-**Art. 42w.** Obywatel Ukrainy, któremu udzielono zezwolenia na pobyt czasowy w sposób, o którym mowa w art. 42r ust. 1, może podejmować i wykonywać działalność gospodarczą na terytorium Rzeczypospolitej Polskiej na takich samych zasadach jak obywatele polscy.> <Art. 42x. Jeżeli do dnia 4 marca 2027 r. uprawniony obywatel Ukrainy złoży wniosek, o którym mowa w art. 42c lub art. 42d, w trybie przewidzianym w art. 42f ust. 1, pobyt obywatela Ukrainy, dla którego został złożony wniosek, uważa się za legalny na terytorium Rzeczypospolitej Polskiej do dnia:
+**Art. 42w.** Obywatel Ukrainy, któremu udzielono zezwolenia na pobyt czasowy w sposób, o którym mowa w art. 42r ust. 1, może podejmować i wykonywać działalność gospodarczą na terytorium Rzeczypospolitej Polskiej na takich samych zasadach jak obywatele polscy.
+
+**Art. 42x.** Jeżeli do dnia 4 marca 2027 r. uprawniony obywatel Ukrainy złoży wniosek, o którym mowa w art. 42c lub art. 42d, w trybie przewidzianym w art. 42f ust. 1, pobyt obywatela Ukrainy, dla którego został złożony wniosek, uważa się za legalny na terytorium Rzeczypospolitej Polskiej do dnia:
 
 - **1)** odbioru karty pobytu lub jej unieważnienia w trybie art. 42r ust. 2,
-- **2)** w którym decyzja o odmowie wydania karty pobytu lub umorzeniu postępowania w sprawie wydania karty pobytu stanie się ostateczna.>
+- **2)** w którym decyzja o odmowie wydania karty pobytu lub umorzeniu postępowania w sprawie wydania karty pobytu stanie się ostateczna.
 
 **Art. 43.** (uchylony)
 
@@ -829,7 +833,9 @@ source: pdf
 
 **Art. 50a.** (uchylony)
 
-**Art. 50b.** (uchylony) Art. 50ba. (uchylony)
+**Art. 50b.** (uchylony)
+
+**Art. 50ba.** (uchylony)
 
 **Art. 50c.**
 
@@ -1022,40 +1028,7 @@ source: pdf
 
 4. Jednostki ochrony przeciwpożarowej i darczyńcy udzielają pisemnego upoważnienia kierownikowi jednostki organizacyjnej Państwowej Straży Pożarnej do czynności, o których mowa w ust. 3.
 
-5. Przekazywany sprzęt, pojazdy i urządzenia zwolnione są z wszelkich opłat i podatków. [Art. 66a. 1. Rządowa Agencja Rezerw Strategicznych jest uprawniona do prowadzenia wszelkich działań obejmujących przyjęcie w formie darowizny, w tym w ramach Unijnego Mechanizmu Ochrony Ludności, o którym mowa w decyzji Parlamentu Europejskiego i Rady nr 1313/2013/EU z dnia 17 grudnia 2013 r. w sprawie Unijnego Mechanizmu Ochrony Ludności (Dz. Urz. UE L 347 z 20.12.2013, str. 924), albo nabycie oraz transport, przechowywanie i wydanie, a także wywóz na terytorium Ukrainy produktów leczniczych i wyrobów medycznych, w tym niedopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej, które będą przekazane:
-
-- **1)** na terytorium Ukrainy w celu przeciwdziałania skutkom działań wojennych prowadzonych na terytorium tego państwa;
-- **2)** podmiotom leczniczym prowadzącym na terytorium Rzeczypospolitej Polskiej leczenie antyretrowirusowe obywateli Ukrainy w ramach programu polityki zdrowotnej, o którym mowa w art. 5 pkt 29a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, pod nazwą „Leczenie antyretrowirusowe osób żyjących z wirusem HIV w Polsce na lata 2022–2026”;
-- **3)** podmiotom wykonującym działalność leczniczą na terytorium Rzeczypospolitej Polskiej w celu udzielenia świadczeń zdrowotnych.
-
-2. Do działalności, o której mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686 oraz z 2025 r. poz. 129), chyba że niniejsza ustawa stanowi inaczej.
-
-3. Rządowa Agencja Rezerw Strategicznych przekazuje Głównemu Inspektorowi Farmaceutycznemu tygodniowe zestawienie produktów leczniczych lub wyrobów medycznych dopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej, przyjętych w formie darowizny lub nabytych, zawierające nazwę, numer GTIN zgodny z systemem GS1, numer serii oraz liczbę opakowań jednostkowych przyjętego lub nabytego produktu leczniczego lub wyrobu medycznego.
-
-4. Główny Inspektor Farmaceutyczny niezwłocznie, nie później niż 48 godzin od momentu przekazania zestawienia, o którym mowa w ust. 3, dokonuje analizy wpływu ewentualnego wywozu produktów leczniczych lub wyrobów medycznych wskazanych w zestawieniu na ich dostępność na rynku krajowym i w razie ryzyka wystąpienia braku dostępności produktów leczniczych lub wyrobów medycznych będących przedmiotem tego wywozu przekazuje jej wyniki ministrowi właściwemu do spraw zdrowia.
-
-5. Rządowa Agencja Rezerw Strategicznych, nie później niż 24 godziny przed planowanym wywozem, zgłasza Głównemu Inspektorowi Farmaceutycznemu zamiar dokonania wywozu poza granice Rzeczypospolitej Polskiej produktów leczniczych przeznaczonych na pomoc humanitarną na terytorium Ukrainy zawierających w swoim składzie środki odurzające lub substancje psychotropowe określone w przepisach wydanych na podstawie art. 44f ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939).
-
-6. Główny Inspektor Farmaceutyczny niezwłocznie, nie później niż 24 godziny od momentu dokonania zgłoszenia, o którym mowa w ust. 5, zezwala albo odmawia zezwolenia na wywóz produktów leczniczych zawierających środki odurzające lub substancje psychotropowe określone w przepisach wydanych na podstawie art. 44f ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii.
-
-7. Zgłoszenia, zestawienia, analizy i rozstrzygnięcia, o których mowa w ust. 3–6, doręcza się za pomocą środków komunikacji elektronicznej, o których mowa w art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
-
-8. Rządowa Agencja Rezerw Strategicznych może zlecić przechowywanie i transport produktów leczniczych lub wyrobów medycznych przeznaczonych na pomoc humanitarną na terytorium Ukrainy na podstawie umowy zawartej z podmiotem posiadającym zezwolenie, o którym mowa w art. 74 ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, którego zakres pozwala na obrót produktami leczniczymi lub wyrobami medycznymi, takimi jak przekazane na podstawie tej umowy.
-
-9. Zleceniobiorca świadczący usługi przechowywania i transportu produktów leczniczych lub wyrobów medycznych na podstawie umowy, o której mowa w ust. 8, jest zobowiązany do:
-
-- **1)** zapewnienia prawidłowych warunków przechowywania i transportu produktów leczniczych lub wyrobów medycznych;
-- **2)** weryfikowania warunków transportu przyjmowanych produktów leczniczych lub wyrobów medycznych w oparciu o warunki określone przez producenta i przekazania Rządowej Agencji Rezerw Strategicznych informacji o ewentualnych nieprawidłowościach, które mogą mieć wpływ na jakość tych produktów lub wyrobów;
-- **3)** przekazywania Rządowej Agencji Rezerw Strategicznych danych niezbędnych do sporządzenia zestawienia, o którym mowa w ust. 3.
-
-10. Podmioty przekazujące w formie darowizny albo zbywające produkty lecznicze, które będą przekazane na terytorium Ukrainy w celu przeciwdziałania skutkom działań wojennych prowadzonych na terytorium tego państwa, na rzecz Rządowej Agencji Rezerw Strategicznych:
-
-- **1)** przekazują informacje, o których mowa w art. 72a ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, do systemu, o którym mowa w art. 29 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465 oraz z 2024 r. poz. 1897);
-- **2)** dokonują weryfikowania zabezpieczeń, o których mowa w art. 54 lit. o dyrektywy 2001/83/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi (Dz. Urz. WE L 311 z 28.11.2001, str. 67, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 27, str. 69), i wycofania niepowtarzalnego identyfikatora produktu leczniczego, o którym mowa w art. 3 ust. 2 lit. a rozporządzenia delegowanego Komisji (UE) nr 2016/161 z dnia 2 października 2015 r. uzupełniającego dyrektywę 2001/83/WE Parlamentu Europejskiego i Rady przez określenie szczegółowych zasad dotyczących zabezpieczeń umieszczanych na opakowaniach produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 32 z 09.02.2016, str. 1).
-
-11. Do wykonywania obowiązków, o których mowa w ust. 10, przepisy art. 36z ust. 2, art. 42a, art. 72a, art. 73e, art. 78 ust. 1 pkt 3a, 6a i 9 oraz art. 95 ust. 1b ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne stosuje się odpowiednio.
-
-12. W przypadku niedopełnienia obowiązków, o których mowa w ust. 10, przepis art. 127c ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne stosuje się.]
+5. Przekazywany sprzęt, pojazdy i urządzenia zwolnione są z wszelkich opłat i podatków.
 
 **Art. 66b.**
 
@@ -1115,7 +1088,9 @@ source: pdf
 - **1)** art. 189, art. 189a § 2, art. 191 § 1–2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965) – sąd orzeka karę pozbawienia wolności w wysokości nie niższej niż rok, a w wypadku przestępstwa określonego w art. 189 § 3, w wysokości nie niższej niż 5 lat, do górnej granicy ustawowego zagrożenia przewidzianego za przypisane sprawcy przestępstwo zwiększonego o połowę;
 - **2)** art. 204 § 1 i 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny – sąd orzeka karę pozbawienia wolności w wysokości od lat 5 do lat 15;
 - **3)** art. 203 lub art. 204 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny – sąd orzeka karę pozbawienia wolności w wysokości od lat 8 do lat 25;
-- **4)** art. 189a § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny – sąd orzeka karę pozbawienia wolności w wysokości od lat 10 do lat 25. Art. 73–95. (pominięte)
+- **4)** art. 189a § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny – sąd orzeka karę pozbawienia wolności w wysokości od lat 10 do lat 25.
+
+**Art. 73–95.** (pominięte)
 
 **Art. 96.** (uchylony)
 
@@ -1158,7 +1133,9 @@ source: pdf
 - **1)** przepisów o bezczynności organu oraz o obowiązku organu prowadzącego postępowanie w sprawach, o których mowa w ust. 1, do powiadamiania strony lub uczestnika postępowania o niezałatwieniu sprawy w terminie nie stosuje się;
 - **2)** organowi prowadzącemu postępowanie w sprawach, o których mowa w ust. 1, nie wymierza się grzywny ani nie zasądza się od niego sum pieniężnych na rzecz skarżących za niewydanie rozstrzygnięć w terminach określonych przepisami prawa.
 
-4. Zaprzestanie czynności przez organ prowadzący postępowanie w sprawach, o których mowa w ust. 1, lub ich dokonywanie z opóźnieniem, w okresie, o którym mowa w ust. 1, nie może być podstawą wywodzenia środków prawnych dotyczących bezczynności, przewlekłości lub naruszenia prawa strony do rozpoznania sprawy bez zbędnej zwłoki. Art. 100da. (uchylony)
+4. Zaprzestanie czynności przez organ prowadzący postępowanie w sprawach, o których mowa w ust. 1, lub ich dokonywanie z opóźnieniem, w okresie, o którym mowa w ust. 1, nie może być podstawą wywodzenia środków prawnych dotyczących bezczynności, przewlekłości lub naruszenia prawa strony do rozpoznania sprawy bez zbędnej zwłoki.
+
+**Art. 100da.** (uchylony)
 
 **Art. 100e.** (uchylony)
 
@@ -1182,45 +1159,23 @@ source: pdf
 
 **Art. 108.** (uchylony)
 
-**Art. 109.** (uchylony) [Art. 110. 1. Ustalając relację, o której mowa w art. 242 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, planowane wydatki bieżące pomniejsza się o planowane wydatki bieżące ponoszone w celu realizacji zadań związanych z pomocą obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa w części, w jakiej nie są one finansowane środkami publicznymi otrzymanymi przez jednostkę na ten cel. 2. Ocena spełnienia zasady określonej w art. 242 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych następuje z uwzględnieniem wykonanych wydatków bieżących pomniejszonych o wykonane wydatki bieżące poniesione w celu realizacji zadań związanych z pomocą obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa w części, w jakiej nie były one finansowane środkami publicznymi otrzymanymi przez jednostkę na ten cel. 3. Ustalając relację ograniczającą wysokość spłaty długu jednostki samorządu terytorialnego na rok 2023 i lata kolejne, wydatki bieżące budżetu tej jednostki podlegają pomniejszeniu o wydatki bieżące poniesione w celu realizacji zadań związanych z pomocą obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa w części, w jakiej nie są one finansowane środkami publicznymi otrzymanymi przez jednostkę na ten cel.]
+**Art. 109.**
 
 **Art. 111.** (uchylony)
 
-**Art. 112.** (uchylony) [Art. 113. Z budżetu państwa mogą być udzielane właściwym jednostkom samorządu terytorialnego dotacje celowe na finansowanie lub dofinansowanie zadań związanych z pomocą obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa. W przypadku dofinansowania zadań własnych bieżących i inwestycyjnych kwota dotacji może stanowić więcej niż 80 % kosztów realizacji zadania.]
+**Art. 112.**
 
-**Art. 113a.** (uchylony)
+**Art. 113a.**
 
 **Art. 113b.**
 
-1. W roku 2022 Prezes Rady Ministrów może wydać dysponentowi Rządowego Funduszu Rozwoju Dróg, utworzonego na podstawie przepisów ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2022 r. poz. 505, 655, 1561, 1768 i 1846), wiążące polecenie dokonania wpłaty środków pieniężnych do Rządowej Agencji Rezerw Strategicznych, określając jej wysokość oraz termin wpłaty. Wysokość wpłaty jest określana na podstawie informacji dysponenta Rządowego Funduszu Rozwoju Dróg o znanych, na dzień przekazania informacji, zobowiązaniach Rządowego Funduszu Rozwoju Dróg dotyczących 2022 roku. Wysokość wpłaty nie może być wyższa niż 1500 mln zł.
+**Art. 113c.**
 
-2. Wpłaty środków pieniężnych, o których mowa w ust. 1, stanowią koszty Rządowego Funduszu Rozwoju Dróg.
+**Art. 113d.**
 
-3. Środki, o których mowa w ust. 1, stanowią przychód Rządowej Agencji Rezerw Strategicznych. Środki te przeznacza się na finansowanie przez Rządową Agencję Rezerw Strategicznych zadań dotyczących utworzenia na wniosek ministra właściwego do spraw energii, utrzymywania oraz likwidacji rezerw strategicznych zgodnie z ustawą z dnia 17 grudnia 2020 r. o rezerwach strategicznych w celu zapewnienia bezpieczeństwa energetycznego państwa.
+**Art. 114.**
 
-4. W przypadku, o którym mowa w ust. 1, do zmian w planie finansowym Rządowego Funduszu Rozwoju Dróg wymogów określonych w art. 29 ust. 12 oraz art. 52 ust. 2 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się. O dokonanych zmianach informuje się ministra właściwego do spraw finansów publicznych.
+**Art. 115.**
 
-4a. W przypadkach, o których mowa w ust. 1 i 3, do zmiany planu finansowego Rządowej Agencji Rezerw Strategicznych wymogów określonych w przepisach art. 21 ust. 5 i 6 oraz art. 52 ust. 2 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się. O dokonanych zmianach informuje się ministra właściwego do spraw finansów publicznych.
-
-5. W przypadku likwidacji rezerw strategicznych sfinansowanych ze środków Rządowego Funduszu Rozwoju Dróg środki z ich sprzedaży są wpłacane na rachunek tego funduszu w terminie do miesiąca od dnia wpływu środków ze sprzedaży. Wpłata ta stanowi przychód Rządowego Funduszu Rozwoju Dróg.
-
-6. W przypadku likwidacji rezerw strategicznych sfinansowanych ze środków Rządowego Funduszu Rozwoju Dróg Rządowa Agencja Rezerw Strategicznych, w terminie miesiąca od dnia dokonania sprzedaży zlikwidowanych rezerw strategicznych, informuje Prezesa Rady Ministrów, ministra właściwego do spraw transportu oraz ministra właściwego do spraw budżetu o wysokości środków Rządowego Funduszu Rozwoju Dróg przeznaczonych na utworzenie, utrzymywanie oraz likwidację rezerw strategicznych, o których mowa w ust. 3, oraz o wysokości środków finansowych uzyskanych ze sprzedaży tych rezerw w wyniku ich likwidacji.
-
-7. (uchylony)
-
-8. (uchylony)
-
-**Art. 113c.** (uchylony)
-
-**Art. 113d.** (uchylony)
-
-**Art. 114.** (uchylony)
-
-**Art. 115.** (uchylony)
-
-**Art. 116.** Ustawa wchodzi w życie z dniem ogłoszenia , z mocą od dnia 24 lutego 2022 r., z wyjątkiem:
-
-- **1)** art. 12 ust. 10–16, art. 72 oraz art. 89, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 95, który wchodzi w życie z dniem 27 marca 2022 r.
-
+**Art. 116.**
 

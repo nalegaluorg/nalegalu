@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo o ruchu drogowym oraz o zmianie ustawy o zmianie ustawy - Prawo o ruchu drogowym
+# Ustawa z dnia 23 listopada 2002 r. o zmianie ustawy - Prawo o ruchu drogowym oraz o zmianie ustawy o zmianie ustawy - Prawo o ruchu drogowym.
 
 *USTAWA z dnia 23 listopada 2002 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny, ustawy – Kodeks postępowania karnego oraz ustawy – Kodeks karny skarbowy
+# Ustawa z dnia 20 stycznia 2011 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego oraz ustawy - Kodeks karny skarbowy
 
 *USTAWA z dnia 20 stycznia 2011 r.*
 

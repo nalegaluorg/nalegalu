@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o repatriacji, ustawy o Karcie Polaka oraz ustawy o cudzoziemcach
+# Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy o repatriacji, ustawy o Karcie Polaka oraz ustawy o cudzoziemcach
 
 *USTAWA z dnia 24 listopada 2017 r.*
 

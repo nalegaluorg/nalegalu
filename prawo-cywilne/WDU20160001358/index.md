@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o notariacie oraz ustawy o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 22 lipca 2016 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Prawo o notariacie oraz ustawy o zmianie ustawy - Kodeks cywilny, ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 lipca 2016 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o transporcie kolejowym
 
 *USTAWA z dnia 19 sierpnia 2011 r.*
 
@@ -48,7 +48,11 @@ source: pdf
 
 2. Organizator publicznego transportu kolejowego przekazuje Prezesowi UTK projekt planu transportowego przed jego uchwaleniem lub wydaniem wraz z dokumentacją stanowiącą podstawę oceny uwarunkowań, o których mowa w art. 12 ust. 2 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, w zakresie określonym przez Prezesa UTK.
 
-3. Niezajęcie stanowiska w terminie, o którym mowa w ust. 1, uznaje się za pozytywne zaopiniowanie projektu planu transportowego. Art. 28pb. 1. Prezes UTK opiniuje, pod względem zgodności z planem transportowym, projekt umowy o świadczenie usług publicznych w zakresie kolejowych przewozów pasażerskich, w terminie 21 dni od dnia jego doręczenia.
+3. Niezajęcie stanowiska w terminie, o którym mowa w ust. 1, uznaje się za pozytywne zaopiniowanie projektu planu transportowego.
+
+**Art. 28pb.**
+
+1. Prezes UTK opiniuje, pod względem zgodności z planem transportowym, projekt umowy o świadczenie usług publicznych w zakresie kolejowych przewozów pasażerskich, w terminie 21 dni od dnia jego doręczenia.
 
 2. Organizator publicznego transportu kolejowego przekazuje do zaopiniowania Prezesowi UTK projekt umowy, o której mowa w ust. 1, na 30 dni przed wszczęciem postępowania o udzielenie zamówienia w trybie przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759, z późn. zm. ) lub wszczęciem postępowania o zawarcie umowy koncesji w trybie przepisów ustawy z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi (Dz. U. Nr 19, poz. 101, z późn. zm. ) albo przed bezpośrednim zawarciem umowy, o którym mowa w art. 22 ust. 1 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym.
 

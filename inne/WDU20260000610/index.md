@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
 
 | Pole | Wartość |
 |---|---|

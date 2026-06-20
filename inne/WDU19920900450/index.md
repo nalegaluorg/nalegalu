@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o orderach i odznaczeniach
+# Ustawa z dnia 16 października 1992 r. o orderach i odznaczeniach.
 
 *USTAWA z dnia 16 października 1992 r.*
 

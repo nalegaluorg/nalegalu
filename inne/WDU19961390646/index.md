@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 30 sierpnia 1996 r. o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży oraz o zmianie niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|

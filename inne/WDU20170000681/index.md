@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o grobach i cmentarzach wojennych Art 1. 1. Grobami wojennymi w rozumieniu ustawy są groby i miejsca spoczynku:
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 marca 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o grobach i cmentarzach wojennych
 
 *USTAWA z dnia 28 marca 1933 r.*
 

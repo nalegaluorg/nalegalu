@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo atomowe
+# Ustawa z dnia 6 lipca 2016 r. o zmianie ustawy - Prawo atomowe
 
 *USTAWA z dnia 6 lipca 2016 r.*
 

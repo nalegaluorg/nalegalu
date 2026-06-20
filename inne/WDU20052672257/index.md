@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej
+# Ustawa z dnia 16 grudnia 2005 r. zmieniająca ustawę o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej
 
 *USTAWA z dnia 16 grudnia 2005 r.*
 

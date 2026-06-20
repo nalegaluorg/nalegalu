@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
+# Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
 
 *USTAWA z dnia 24 listopada 2017 r.*
 

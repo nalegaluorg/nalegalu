@@ -1197,7 +1197,7 @@ source: pdf
 
 - **1)** dokonywaniu weryfikacji, o której mowa w ust. 5a, ust. 5b pkt 2, ust. 5c i ust. 5d pkt 2, oraz dokumentach poświadczających znajomość języka, w którym odbywa się kształcenie na studiach na określonym kierunku, poziomie i profilu, o których mowa w przepisach wydanych na podstawie ust. 5f, na ustalonym przez uczelnię poziomie biegłości językowej, nie niższym niż B2,
 - **2)** wymogach, o których mowa w ust. 5b pkt 1 i ust. 5d pkt 1,
-- **3)** przeprowadzeniu egzaminów wstępnych, o których mowa w ust. 5b pkt 3, oraz ich zakresie – uczelnia podaje do wiadomości publicznej w terminie, o którym mowa w ust. 1.>
+- **3)** przeprowadzeniu egzaminów wstępnych, o których mowa w ust. 5b pkt 3, oraz ich zakresie – uczelnia podaje do wiadomości publicznej w terminie, o którym mowa w ust. 1.
 
 6. Uczelnia publiczna:
 
@@ -1270,7 +1270,7 @@ source: pdf
 - **1)** dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275) – studentowi posiadającemu numer PESEL;
 - **2)** elektronicznej karty procesorowej:
     - **a)** studentowi nieposiadającemu numeru PESEL,
-    - **b)** na wniosek studenta.>
+    - **b)** na wniosek studenta.
 
 5. Uczelnia może wydać studentowi indeks.
 
@@ -1359,7 +1359,7 @@ source: pdf
 1. Dokumenty wydawane w związku z przebiegiem lub ukończeniem studiów, przeznaczone do obrotu prawnego z zagranicą, są uwierzytelniane na wniosek zainteresowanego. [2. Uwierzytelnienie polega na poświadczeniu autentyczności podpisu i funkcji osoby podpisującej dokument lub tożsamości pieczęci urzędowej uczelni, którą jest opatrzony ten dokument.] <2. Uwierzytelnienie polega na poświadczeniu autentyczności:
 
 - **1)** podpisu i funkcji osoby podpisującej dokument lub tożsamości pieczęci urzędowej uczelni, którą jest opatrzony ten dokument, albo
-- **2)** dokumentu elektronicznego w repozytorium dyplomów elektronicznych.>
+- **2)** dokumentu elektronicznego w repozytorium dyplomów elektronicznych.
 
 3. Dyrektor NAWA uwierzytelnia:
 
@@ -2722,7 +2722,7 @@ source: pdf
     - **a)** naruszenia obowiązków, o których mowa w art. 119 ust. 3 i 4, art. 188, art. 222 oraz art. 358,
     - **b)** niewprowadzenia do systemu, o którym mowa w art. 342 ust. 1, danych, o których mowa w art. 343 ust. 1, art. 343a ust. 1, art. 345 ust. 1, art. 348 ust. 1 lub w przepisach wydanych na podstawie art. 353, a także w przypadku ich niezaktualizowania, niezarchiwizowania lub nieusunięcia z tego systemu;
 
-- **2)** 5000 zł w przypadku naruszenia terminu, o którym mowa w art. 179 ust. 1.>
+- **2)** 5000 zł w przypadku naruszenia terminu, o którym mowa w art. 179 ust. 1.
 
 3. Wpływy z kar, o których mowa w ust. 2, stanowią dochód budżetu państwa.
 
@@ -2777,14 +2777,7 @@ source: pdf
 
 3. W postępowaniach w sprawie nadania stopnia doktora oraz w sprawie nadania stopnia doktora habilitowanego, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy Kpa.
 
-4. Tytuł profesora nadaje Prezydent Rzeczypospolitej Polskiej. [Art. 179. 1. Osoba, której nadano stopień doktora albo stopień doktora habilitowanego, otrzymuje odpowiednio dyplom doktorski albo dyplom habilitacyjny oraz odpis tego dyplomu. Na wniosek tej osoby wydaje się odpis dyplomu w języku angielskim, francuskim, hiszpańskim, niemieckim, rosyjskim lub łacinie.
-
-2. W przypadku, o którym mowa w art. 185 ust. 2, osoba, której nadano stopień doktora, otrzymuje wspólny dyplom doktorski wydany przez podmioty nadające stopień doktora albo dyplom doktorski wydany przez jeden z podmiotów, wskazany w umowie.
-
-3. Jeżeli postępowanie w sprawie nadania stopnia doktora jest prowadzone z udziałem podmiotu zagranicznego, umowa, o której mowa w art. 185 ust. 2, może określać, że osoba, której nadano stopień doktora, otrzymuje dyplom doktorski wydany przez ten podmiot oraz:
-
-- **1)** dyplom doktorski wydany przez podmiot systemu szkolnictwa wyższego i nauki nadający stopień doktora albo
-- **2)** wspólny dyplom doktorski wydany przez podmioty systemu szkolnictwa wyższego i nauki nadające stopień doktora albo dyplom doktorski wydany przez jeden z tych podmiotów, wskazany w umowie.] < Art. 179. 1. W terminie 30 dni od dnia nadania stopnia podmiot systemu szkolnictwa wyższego i nauki wydaje dla osoby, której nadano stopień, nieodpłatnie w postaci elektronicznej dyplom doktorski albo dyplom habilitacyjny.
+4. Tytuł profesora nadaje Prezydent Rzeczypospolitej Polskiej.
 
 2. Osoba ubiegająca się o nadanie stopnia albo osoba, której nadano stopień, może złożyć wniosek o wydanie odpisu dyplomu doktorskiego albo dyplomu habilitacyjnego w postaci elektronicznej w każdym z następujących języków obcych: angielskim, francuskim, hiszpańskim, niemieckim i łacinie.
 
@@ -2814,7 +2807,7 @@ source: pdf
 
 9. W przypadku wydania wspólnego dyplomu doktorskiego po przeprowadzeniu postępowania w sprawie nadania stopnia doktora z udziałem podmiotu zagranicznego przepisu ust. 8 nie stosuje się do dyplomu w postaci papierowej wydanego przez podmiot zagraniczny oraz do wspólnego dyplomu doktorskiego, o którym mowa w ust. 4 pkt 1.
 
-10. Dyplomy doktorskie i dyplomy habilitacyjne oraz odpisy tych dokumentów dla osób będących żołnierzami uczelnia wojskowa wydaje wyłącznie w postaci papierowej.>
+10. Dyplomy doktorskie i dyplomy habilitacyjne oraz odpisy tych dokumentów dla osób będących żołnierzami uczelnia wojskowa wydaje wyłącznie w postaci papierowej.
 
 **Art. 180.**
 
@@ -3178,7 +3171,7 @@ source: pdf
 - **1)** dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, po uwierzytelnieniu doktoranta przy użyciu certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel;
 - **2)** elektronicznej karty procesorowej:
     - **a)** doktorantowi niebędącemu obywatelem polskim,
-    - **b)** na wniosek doktoranta.>
+    - **b)** na wniosek doktoranta.
 
 **Art. 209.**
 
@@ -5165,7 +5158,11 @@ source: pdf
 
 4. Rektor wprowadza treść pracy dyplomowej do repozytorium niezwłocznie po zdaniu przez studenta egzaminu dyplomowego.
 
-5. Dostęp do danych, o których mowa w ust. 1, przysługuje promotorowi pracy dyplomowej oraz PKA, a także ministrowi w zakresie niezbędnym do prawidłowego utrzymania i rozwoju repozytorium oraz systemów informatycznych współpracujących z tym repozytorium. <Art. 347a. 1. Repozytorium dyplomów elektronicznych służy do:
+5. Dostęp do danych, o których mowa w ust. 1, przysługuje promotorowi pracy dyplomowej oraz PKA, a także ministrowi w zakresie niezbędnym do prawidłowego utrzymania i rozwoju repozytorium oraz systemów informatycznych współpracujących z tym repozytorium.
+
+**Art. 347a.**
+
+1. Repozytorium dyplomów elektronicznych służy do:
 
 - **1)** obsługi procesu wydawania w postaci elektronicznej dyplomów ukończenia studiów wraz z suplementami do dyplomów oraz dyplomów doktorskich i dyplomów habilitacyjnych, a także odpisów tych dokumentów w językach obcych;
 - **2)** gromadzenia, udostępniania i weryfikacji dyplomów ukończenia studiów wraz z suplementami do dyplomów oraz dyplomów doktorskich i dyplomów habilitacyjnych, a także odpisów tych dokumentów w językach obcych, objętych obowiązkiem rejestracji w repozytorium, w sposób zapewniający integralność i autentyczność tych dokumentów;
@@ -5227,7 +5224,7 @@ source: pdf
 
 14. Wydruk dyplomu ukończenia studiów wraz z suplementem do dyplomu, dyplomu doktorskiego albo dyplomu habilitacyjnego, pobranego z repozytorium dyplomów elektronicznych w sposób, o którym mowa w ust. 11, nie jest uznawany w obrocie prawnym za równoważny z odpowiednim dyplomem w postaci elektronicznej lub dyplomem w postaci papierowej.
 
-15. Dyplom ukończenia studiów wraz z suplementem do dyplomu, dyplom doktorski i dyplom habilitacyjny mogą być udostępnione absolwentowi i osobie, której nadano stopień, w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, po uwierzytelnieniu tego absolwenta albo tej osoby przy użyciu certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 tej ustawy.>
+15. Dyplom ukończenia studiów wraz z suplementem do dyplomu, dyplom doktorski i dyplom habilitacyjny mogą być udostępnione absolwentowi i osobie, której nadano stopień, w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, po uwierzytelnieniu tego absolwenta albo tej osoby przy użyciu certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 tej ustawy.
 
 **Art. 348.**
 
@@ -5269,7 +5266,7 @@ source: pdf
 1. Baza osób upoważnionych do podpisywania dokumentów, o których mowa w art. 78 ust. 3 i 4, art. 163 ust. 4 oraz art. 180 ust. 1 i 1a, obejmuje:
 
 - **1)** imiona i nazwisko; <1a) stopień albo tytuł profesora;
-- **1b)** zakres upoważnienia;>
+- **1b)** zakres upoważnienia;
 - **2)** informacje o funkcji pełnionej w uczelni, instytucie PAN, instytucie badawczym, instytucie międzynarodowym lub CMKP;
 - **3)** odwzorowanie cyfrowe wzoru podpisu i parafy; <3a) dane certyfikatu kwalifikowanego podpisu elektronicznego;>
 - **4)** informacje o wzorze pieczęci urzędowej uczelni, instytutu PAN, instytutu badawczego, instytutu międzynarodowego lub CMKP;
@@ -5397,7 +5394,7 @@ source: pdf
     - **a)** dyplomu ukończenia studiów, które mogą być wprowadzone do repozytorium dyplomów elektronicznych zgodnie z art. 347a ust. 4,
     - **b)** dyplomu doktorskiego i dyplomu habilitacyjnego, które mogą być wprowadzone do repozytorium dyplomów elektronicznych zgodnie z art. 347a ust. 6, 3c) zakres danych umożliwiających dostęp do:
     - **a)** repozytorium dyplomów elektronicznych – na podstawie art. 347a ust. 12 pkt 6,
-    - **b)** informacji o dyplomach ukończenia studiów, suplementach do tych dyplomów, dyplomach doktorskich i dyplomach habilitacyjnych, zgromadzonych w repozytorium dyplomów elektronicznych – na podstawie art. 347a ust. 13 pkt 2,>
+    - **b)** informacji o dyplomach ukończenia studiów, suplementach do tych dyplomów, dyplomach doktorskich i dyplomach habilitacyjnych, zgromadzonych w repozytorium dyplomów elektronicznych – na podstawie art. 347a ust. 13 pkt 2,
 
 - **4)** tryb i sposób udostępniania danych – mając na uwadze potrzebę zapewnienia kompletności i aktualności zgromadzonych w bazach danych służących właściwej realizacji polityki naukowej państwa i zadań z zakresu szkolnictwa wyższego i nauki oraz odpowiedniego poziomu ochrony przetwarzanych danych.
 

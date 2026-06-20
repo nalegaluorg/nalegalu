@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o referendum ogólnokrajowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum ogólnokrajowym
 
 | Pole | Wartość |
 |---|---|
@@ -34,7 +34,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 14 marca 2003 r.
 o referendum ogólnokrajowym
-Art. 93–95. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -878,6 +877,8 @@ Art. 93–95. (pominięte)
 3. W przypadku przeprowadzenia referendum w tym samym dniu co wybory do Parlamentu Europejskiego, w sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 #### Rozdział 13 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 93–95.** (pominięte)
 
 **Art. 96.** W przypadku pierwszego referendum ogólnokrajowego odbywającego się po dniu wejścia w życie niniejszej ustawy skróceniu ulegają terminy:
 

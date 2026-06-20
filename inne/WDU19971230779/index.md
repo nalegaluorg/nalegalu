@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o strażach gminnych
+# Ustawa z dnia 29 sierpnia 1997 r. o strażach gminnych.
 
 *USTAWA z dnia 29 sierpnia 1997 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1997-10-09 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971230779) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/779/text.pdf) |
-
-Art. 34–37. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -444,6 +442,8 @@ Art. 34–37. (pominięte)
 **Art. 33.** Obowiązki i prawa innych pracowników zatrudnionych w straży reguluje ustawa o pracownikach samorządowych.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 34–37.** (pominięte)
 
 **Art. 38.**
 

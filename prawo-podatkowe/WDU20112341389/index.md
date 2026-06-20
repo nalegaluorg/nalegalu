@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o podatku dochodowym od osób prawnych
+# Ustawa z dnia 16 września 2011 r. o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o podatku dochodowym od osób prawnych
 
 *USTAWA z dnia 16 września 2011 r.*
 

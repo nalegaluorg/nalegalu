@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dokumentach paszportowych oraz ustawy o opłacie skarbowej
+# Ustawa z dnia 4 września 2008 r. o zmianie ustawy o dokumentach paszportowych oraz ustawy o opłacie skarbowej
 
 *USTAWA z dnia 4 września 2008 r.*
 

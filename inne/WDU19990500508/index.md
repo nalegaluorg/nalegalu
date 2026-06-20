@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie przekształceń w Wyższej Szkole Zawodowej w Tarnowie.
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 20 maja 1999 r. w sprawie przekształceń w Wyższej Szkole Zawodowej w Tarnowie.
 
 | Pole | Wartość |
 |---|---|

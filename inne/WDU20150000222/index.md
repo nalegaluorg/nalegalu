@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rybołówstwie morskim
+# Ustawa z dnia 19 grudnia 2014 r. o rybołówstwie morskim
 
 *USTAWA z dnia 19 grudnia 2014 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2015-02-17 |
 | Ostatnia zmiana | 2026-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000222) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/222/text.pdf) |
-
-Art. 132–135. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1709,6 +1707,8 @@ Art. 132–135. (pominięte)
 ### DZIAŁ VI Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
+
+**Art. 132–135.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i końcowe
 

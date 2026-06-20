@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie baz danych
+# Ustawa z dnia 27 lipca 2001 r. o ochronie baz danych.
 
 *USTAWA z dnia 27 lipca 2001 r.*
 

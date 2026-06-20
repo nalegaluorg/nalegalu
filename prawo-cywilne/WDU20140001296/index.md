@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego oraz ustawy o kosztach sądowych w sprawach cywilnych
+# Ustawa z dnia 29 sierpnia 2014 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz ustawy o kosztach sądowych w sprawach cywilnych
 
 *USTAWA z dnia 29 sierpnia 2014 r.*
 

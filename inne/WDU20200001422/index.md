@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wsparciu rynku ubezpieczeń należności handlowych w związku z przeciwdziałaniem skutkom gospodarczym COVID-19
+# Ustawa z dnia 16 lipca 2020 r. o wsparciu rynku ubezpieczeń należności handlowych w związku z przeciwdziałaniem skutkom gospodarczym COVID-19
 
 *USTAWA z dnia 16 lipca 2020 r.*
 

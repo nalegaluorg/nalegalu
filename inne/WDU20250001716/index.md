@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o produktach biobójczych
+# Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy o produktach biobójczych
 
 *USTAWA z dnia 7 listopada 2025 r.*
 

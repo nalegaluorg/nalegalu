@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o miarach oraz ustawy o wojewodzie i administracji rządowej w województwie
+# Ustawa z dnia 23 marca 2017 r. o zmianie ustawy - Prawo o miarach oraz ustawy o wojewodzie i administracji rządowej w województwie
 
 *USTAWA z dnia 23 marca 2017 r.*
 

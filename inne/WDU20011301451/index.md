@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o fundacji – Zakłady Kórnickie Dążąc do umożliwienia kontynuacji tradycji fundacji „Zakłady Kórnickie” ustanowionej ustawą z dnia 30 lipca 1925 r., a powstałej z oddanego Narodowi Polskiemu majątku nieruchomego Jadwigi z Działyńskich Zamoyskiej i Władysława Zamoyskiego, stanowi się, co następuje:
+# Ustawa z dnia 18 września 2001 r. o fundacji - Zakłady Kórnickie.
 
 *USTAWA z dnia 18 września 2001 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania
+# Ustawa z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania
 
 *USTAWA z dnia 8 września 2006 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lutego 2005 r. w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa
 
 *USTAWA z dnia 29 grudnia 1993 r.*
 
@@ -125,7 +125,9 @@ source: pdf
 
 1. W przypadku istnienia obowiązku, określonego w przepisach Unii Europejskiej, ustanowienia zabezpieczenia kwot wynikających z realizacji mechanizmów Wspólnej Polityki Rolnej albo Wspólnej Polityki Rybackiej w formie gwarancji, gwarantem może być wyłącznie instytucja finansowa upoważniona do gwarantowania długu celnego.
 
-2. Do współpracy między instytucjami finansowymi, o których mowa w ust. 1, a Agencją oraz wzorów formularzy gwarancji w celu zabezpieczenia prawidłowej realizacji zadań określonych w ust. 1, stosuje się odpowiednio przepisy wydane na podstawie art. 19 ust. 2 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz.U. Nr 42, poz. 386 i Nr 97, poz. 964 oraz z 2005 r. Nr 14, poz. 115). Art. 3g-3i.(uchylone).
+2. Do współpracy między instytucjami finansowymi, o których mowa w ust. 1, a Agencją oraz wzorów formularzy gwarancji w celu zabezpieczenia prawidłowej realizacji zadań określonych w ust. 1, stosuje się odpowiednio przepisy wydane na podstawie art. 19 ust. 2 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz.U. Nr 42, poz. 386 i Nr 97, poz. 964 oraz z 2005 r. Nr 14, poz. 115).
+
+**Art. 3g-3i.** (uchylone).
 
 **Art. 3j.**
 

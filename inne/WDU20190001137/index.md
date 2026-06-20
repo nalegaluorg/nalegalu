@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu programu wieloletniego „Uniwersytet im. Adama Mickiewicza w Poznaniu 2004–2019”
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 czerwca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu programu wieloletniego "Uniwersytet im. Adama Mickiewicza w Poznaniu 2004-2019"
 
 | Pole | Wartość |
 |---|---|

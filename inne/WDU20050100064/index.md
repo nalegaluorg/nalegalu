@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz o zmianie innych ustaw
+# Ustawa z dnia 18 listopada 2004 r. o zmianie ustawy o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz o zmianie innych ustaw
 
 *USTAWA z dnia 18 listopada 2004 r.*
 

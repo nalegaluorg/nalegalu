@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym oraz o zmianie innych ustaw
+# Ustawa z dnia 16 grudnia 2005 r. o zmianie ustawy o transporcie kolejowym oraz o zmianie innych ustaw
 
 *USTAWA z dnia 16 grudnia 2005 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 grudnia 2008 r.*
 
@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341571) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1571/text.pdf) |
 
-Europejskie postępowanie nakazowe
-Europejskie postępowanie w sprawie drobnych roszczeń
 Zaświadczenie dotyczące orzeczenia wydanego w europejskim postępowaniu w sprawie drobnych roszczeń
 Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanych w europejskim postępowaniu w sprawie drobnych roszczeń
 
@@ -59,7 +57,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 - **11)** w art. 479 § 3 otrzymuje brzmienie: „§ 3. W razie niezłożenia odpisu wezwania do dobrowolnego spełnienia żądania lub reklamacji wraz z dowodem doręczenia albo wysłania go pozwanemu przesyłką poleconą, stosuje się przepis art. 130.”;
 - **12)** w części pierwszej w księdze pierwszej w tytule VII dodaje się dział VII w brzmieniu: „Dział VII Europejskie postępowania w sprawach transgranicznych
 
-#### Rozdział 1.
+#### Rozdział 1. Europejskie postępowanie nakazowe
 
 **Art. 505¹⁵.**
 
@@ -103,7 +101,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 § 4. Na postanowienie sądu w przedmiocie uchylenia europejskiego nakazu zapłaty przysługuje zażalenie.
 
-#### Rozdział 2.
+#### Rozdział 2. Europejskie postępowanie w sprawie drobnych roszczeń
 
 **Art. 505²¹.**
 

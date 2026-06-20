@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu nowej nazwy Akademii Muzycznej im. Fryderyka Chopina w Warszawie
+# Ustawa z dnia 25 kwietnia 2008 r. o nadaniu nowej nazwy Akademii Muzycznej im. Fryderyka Chopina w Warszawie
 
 *USTAWA z dnia 25 kwietnia 2008 r.*
 

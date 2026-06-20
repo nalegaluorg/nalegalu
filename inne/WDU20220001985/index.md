@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu zadań z zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji i Handlu Spółka Akcyjna
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 września 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu zadań z zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji i Handlu Spółka Akcyjna
 
 | Pole | Wartość |
 |---|---|

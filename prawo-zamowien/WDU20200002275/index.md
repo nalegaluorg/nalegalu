@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o umowie koncesji na roboty budowlane lub usługi, ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 27 listopada 2020 r. o zmianie ustawy o umowie koncesji na roboty budowlane lub usługi, ustawy - Prawo zamówień publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 27 listopada 2020 r.*
 

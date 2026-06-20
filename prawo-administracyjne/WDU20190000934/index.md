@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o postępowaniu przed sądami administracyjnymi oraz niektórych innych ustaw
+# Ustawa z dnia 12 kwietnia 2019 r. o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi oraz niektórych innych ustaw
 
 *USTAWA z dnia 12 kwietnia 2019 r.*
 

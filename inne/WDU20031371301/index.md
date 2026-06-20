@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wykonywaniu mandatu posła i senatora
+# Ustawa z dnia 26 czerwca 2003 r. o zmianie ustawy o wykonywaniu mandatu posła i senatora
 
 *USTAWA z dnia 26 czerwca 2003 r.*
 

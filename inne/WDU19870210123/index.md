@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Rzeczniku Praw Obywatelskich
+# Ustawa z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich.
 
 *USTAWA z dnia 15 lipca 1987 r.*
 
@@ -307,7 +307,9 @@ source: pdf
 
 **Art. 21.** Wydatki związane z funkcjonowaniem Rzecznika Praw Obywatelskich pokrywane są z budżetu państwa.
 
-**Art. 22.** Rzecznik, za zgodą Sejmu, może ustanowić swoich pełnomocników terenowych. Art. 23–27. (pominięte)
+**Art. 22.** Rzecznik, za zgodą Sejmu, może ustanowić swoich pełnomocników terenowych.
+
+**Art. 23–27.** (pominięte)
 
 **Art. 28.** Ustawa wchodzi w życie z dniem 1 stycznia 1988 r., z tym że art. 18 ust. 2 i art. 27 wchodzą w życie z dniem ogłoszenia .
 

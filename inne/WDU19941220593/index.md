@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o samorządowych kolegiach odwoławczych
+# Ustawa z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych.
 
 *USTAWA z dnia 12 października 1994 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1994-11-19 |
 | Ostatnia zmiana | 2026-03-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941220593) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/593/text.pdf) |
-
-Art. 25–28. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -379,6 +377,8 @@ Art. 25–28. (pominięte)
 2. Obsługę zgromadzenia zapewnia, każdorazowo, biuro kolegium, w którego siedzibie odbywa się posiedzenie zgromadzenia.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 25–28.** (pominięte)
 
 **Art. 29.**
 

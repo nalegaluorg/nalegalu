@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przekształcaniu jednoosobowych spółek Skarbu Państwa prowadzących działalność z wykorzystaniem dóbr kultury w państwowe instytucje kultury
+# Ustawa z dnia 15 stycznia 2015 r. o przekształcaniu jednoosobowych spółek Skarbu Państwa prowadzących działalność z wykorzystaniem dóbr kultury w państwowe instytucje kultury
 
 *USTAWA z dnia 15 stycznia 2015 r.*
 

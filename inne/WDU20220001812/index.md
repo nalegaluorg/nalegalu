@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ekonomii społecznej
+# Ustawa z dnia 5 sierpnia 2022 r. o ekonomii społecznej
 
 *USTAWA z dnia 5 sierpnia 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-08-29 |
 | Ostatnia zmiana | 2025-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001812) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1812/text.pdf) |
-
-Art. 67–77. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -723,6 +721,8 @@ Art. 67–77. (pominięte)
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych do zachowania ich w poufności.
 
 ### DZIAŁ V Zmiany w przepisach
+
+**Art. 67–77.** (pominięte)
 
 ### DZIAŁ VI Przepisy przejściowe i dostosowujące oraz przepis końcowy
 

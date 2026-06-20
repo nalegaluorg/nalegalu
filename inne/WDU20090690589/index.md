@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Narodowym Banku Polskim oraz ustawy – Prawo dewizowe
+# Ustawa z dnia 5 marca 2009 r. o zmianie ustawy o Narodowym Banku Polskim oraz ustawy - Prawo dewizowe
 
 *USTAWA z dnia 5 marca 2009 r.*
 

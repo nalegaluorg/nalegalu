@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Państwowej Inspekcji Pracy oraz ustawy o postępowaniu egzekucyjnym w administracji
+# Ustawa z dnia 21 czerwca 2001 r. o zmianie ustawy o Państwowej Inspekcji Pracy oraz ustawy o postępowaniu egzekucyjnym w administracji.
 
 *USTAWA z dnia 21 czerwca 2001 r.*
 

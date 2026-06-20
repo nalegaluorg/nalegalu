@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o jednostkach doradztwa rolniczego
+# Ustawa z dnia 22 czerwca 2016 r. o zmianie ustawy o jednostkach doradztwa rolniczego
 
 *USTAWA z dnia 22 czerwca 2016 r.*
 

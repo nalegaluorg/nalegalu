@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi z 2010 r.
+# Ustawa z dnia 24 czerwca 2010 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi z 2010 r.
 
 *USTAWA z dnia 24 czerwca 2010 r.*
 

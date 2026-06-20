@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks pracy oraz ustawy o zakładowym funduszu świadczeń socjalnych
+# Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy - Kodeks pracy oraz ustawy o zakładowym funduszu świadczeń socjalnych
 
 *USTAWA z dnia 4 grudnia 2025 r.*
 

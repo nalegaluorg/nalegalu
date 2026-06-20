@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach dotyczących regulacji stanu prawnego niektórych dróg ogólnodostępnych
+# Ustawa z dnia 13 lipca 2023 r. o szczególnych rozwiązaniach dotyczących regulacji stanu prawnego niektórych dróg ogólnodostępnych
 
 *USTAWA z dnia 13 lipca 2023 r.*
 

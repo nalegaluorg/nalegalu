@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni
 
 | Pole | Wartość |
 |---|---|
@@ -31,7 +31,6 @@ z 2024 r. poz. 449), z uwzględnieniem zmian wprowadzonych ustawą z dnia 6 grud
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 10 stycznia 2018 r.
 o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni
-Art. 12–15. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -159,6 +158,8 @@ Art. 12–15. (pominięte)
 **Art. 11.** Orzekanie w sprawach o czyny, o których mowa w art. 10, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544).
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących i przepis końcowy
+
+**Art. 12–15.** (pominięte)
 
 **Art. 16.**
 

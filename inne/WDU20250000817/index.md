@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Mienia Wojskowego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Mienia Wojskowego
 
 | Pole | Wartość |
 |---|---|
@@ -38,7 +38,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 10 lipca 2015 r.
 o Agencji Mienia Wojskowego
-Art. 102–119. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1285,6 +1284,8 @@ Art. 102–119. (pominięte)
 **Art. 101.** O sposobie zagospodarowania nieruchomości Skarbu Państwa stanowiących lotniska wojskowe, nieujętych w wykazie wydanym na podstawie art. 94 ust. 4, przez inne podmioty niż jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane, decyduje Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw transportu. Przepis stosuje się odpowiednio do lądowisk cywilnych.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 102–119.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe, dostosowujące i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne
 
 *USTAWA z dnia 21 sierpnia 1997 r.*
 
@@ -176,9 +176,7 @@ source: pdf
 
 8. Osoba dokonująca analizy jest uprawniona do porównania treści analizowanego oświadczenia z treścią uprzednio złożonych oświadczeń.
 
-9. Kontroli rzetelności i prawdziwości oświadczeń, o których mowa w art. 8 ust. 1 oraz w ust. 1, 2, 5 i 6, dokonuje Centralne Biuro Antykorupcyjne w trybie i na zasadach określonych w rozdziale 4 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2024 r. poz. 184, 1222 i 1871 oraz z 2025 r. poz.
-
-- **179)** .
+9. Kontroli rzetelności i prawdziwości oświadczeń, o których mowa w art. 8 ust. 1 oraz w ust. 1, 2, 5 i 6, dokonuje Centralne Biuro Antykorupcyjne w trybie i na zasadach określonych w rozdziale 4 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2024 r. poz. 184, 1222 i 1871 oraz z 2025 r. poz. 179).
 
 **Art. 11.** Prezydent Rzeczypospolitej Polskiej określa, w drodze rozporządzenia, wzór formularza oświadczenia, o którym mowa w art. 8 ust. 1 i art. 10 ust. 1.
 
@@ -218,7 +216,9 @@ source: pdf
 
 2. W wypadku mniejszej wagi, sprawca czynu określonego w ust. 1 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-**Art. 15.** Kto zatrudnia osoby, o których mowa w art. 1 oraz w art. 2 pkt 1–3 i 6– 6b, wbrew warunkom określonym w art. 7, podlega karze aresztu albo karze grzywny. Art. 16–25. (pominięte)
+**Art. 15.** Kto zatrudnia osoby, o których mowa w art. 1 oraz w art. 2 pkt 1–3 i 6– 6b, wbrew warunkom określonym w art. 7, podlega karze aresztu albo karze grzywny.
+
+**Art. 16–25.** (pominięte)
 
 **Art. 26.**
 

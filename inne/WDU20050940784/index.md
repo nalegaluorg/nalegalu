@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu programu wieloletniego „Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006–2015”
+# Ustawa z dnia 4 marca 2005 r. o ustanowieniu programu wieloletniego "Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006-2015"
 
 *USTAWA z dnia 4 marca 2005 r.*
 

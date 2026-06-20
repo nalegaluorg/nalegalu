@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o systemie oświaty oraz ustawę o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 5 listopada 2009 r. zmieniająca ustawę o systemie oświaty oraz ustawę o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 5 listopada 2009 r.*
 

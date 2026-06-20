@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o czasie pracy na statkach żeglugi śródlądowej
+# Ustawa z dnia 7 kwietnia 2017 r. o czasie pracy na statkach żeglugi śródlądowej
 
 *USTAWA z dnia 7 kwietnia 2017 r.*
 

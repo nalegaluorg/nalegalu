@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie zasad i trybu ustalania kar naruszenie warunków, jakim powinny odpowiadać ścieki wprowadzane ziemi, oraz współczynników różnicujących wysokość kar pieniężnych.
+# Rozporządzenie Rady Ministrów z dnia 25 czerwca 1999 r. zmieniające rozporządzenie w sprawie zasad i trybu ustalania kar pieniężnych za naruszanie warunków, jakim powinny odpowiadać ścieki wprowadzane do wód lub do ziemi, oraz współczynników różnicujących wysokość kar pieniężnych.
 
 | Pole | Wartość |
 |---|---|

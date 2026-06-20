@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie farmaceuty
+# Ustawa z dnia 10 grudnia 2020 r. o zawodzie farmaceuty
 
 *USTAWA z dnia 10 grudnia 2020 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-01-15 |
 | Ostatnia zmiana | 2025-05-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/97/text.pdf) |
-
-Art. 82–86. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -474,7 +472,7 @@ Art. 82–86. (pominięte)
 
 - **1)** zawiera dane, o których mowa w ust. 2 pkt 1–7 oraz 9; [2) opatrzony jest kwalifikowanym podpisem elektronicznym albo kwalifikowaną pieczęcią elektroniczną.] <2) jest opatrzony kwalifikowanym podpisem elektronicznym, kwalifikowaną pieczęcią elektroniczną albo zaawansowaną pieczęcią elektroniczną.> 3a. Minister właściwy do spraw zdrowia może upoważnić Naczelną Radę Aptekarską do wykonania w jego imieniu zadań określonych w art. 14, art. 18, art. 34 ust. 2 i 3, art. 35, art. 36 ust. 1 i art. 37–39 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i 1863). <3b. Dokument „Prawo wykonywania zawodu farmaceuty” w przypadku osób posiadających obywatelstwo polskie może być udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717).
 
-3c. Dokument „Prawo wykonywania zawodu farmaceuty” udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, zawiera dane, o których mowa w ust. 2 pkt 1–7 i 9.>
+3c. Dokument „Prawo wykonywania zawodu farmaceuty” udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, zawiera dane, o których mowa w ust. 2 pkt 1–7 i 9.
 
 4. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii NRA, określi, w drodze rozporządzenia, wzór dokumentu „Prawo wykonywania zawodu farmaceuty” oraz rodzaje zabezpieczenia przed przerobieniem, podrobieniem lub sfałszowaniem, kierując się koniecznością zapewnienia ochrony danych osobowych oraz uwzględniając sposób użytkowania dokumentu, a także potrzebę zapewnienia przejrzystości dokumentu.
 
@@ -1636,6 +1634,8 @@ Art. 82–86. (pominięte)
 2. Jeżeli sprawca działa nieumyślnie, podlega grzywnie.
 
 #### Rozdział 7 Przepisy zmieniające
+
+**Art. 82–86.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

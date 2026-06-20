@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo wodne oraz ustawy o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw
+# Ustawa z dnia 16 grudnia 2015 r. o zmianie ustawy - Prawo wodne oraz ustawy o zmianie ustawy - Prawo wodne oraz niektórych innych ustaw
 
 *USTAWA z dnia 16 grudnia 2015 r.*
 

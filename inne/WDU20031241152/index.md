@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
+# Ustawa z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
 
 *USTAWA z dnia 22 maja 2003 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2003-07-16 |
 | Ostatnia zmiana | 2026-03-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031241152) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1152/text.pdf) |
-
-Art. 141–158. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -57,7 +55,7 @@ Art. 141–158. (pominięte)
     - **b)** pojazd wolnobieżny w rozumieniu przepisów ustawy – Prawo o ruchu drogowym, z wyłączeniem pojazdów wolnobieżnych będących w posiadaniu rolników posiadających gospodarstwo rolne i użytkowanych w związku z posiadaniem tego gospodarstwa;
 
 - **10a)** pojazd do jazd testowych – niezarejestrowany wcześniej na terytorium Rzeczypospolitej Polskiej lub za granicą pojazd mechaniczny, o którym mowa w pkt 10 lit. a, używany przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, na podstawie decyzji o profesjonalnej rejestracji pojazdów; <10b) pojazd zautomatyzowany – pojazd w rozumieniu art. 2 pkt 88 ustawy – Prawo o ruchu drogowym;
-- **10c)** pojazd w pełni zautomatyzowany – pojazd w rozumieniu art. 2 pkt 89 ustawy – Prawo o ruchu drogowym;>
+- **10c)** pojazd w pełni zautomatyzowany – pojazd w rozumieniu art. 2 pkt 89 ustawy – Prawo o ruchu drogowym;
 - **11)** pojazd historyczny – pojazd mechaniczny, o którym mowa w pkt 10, będący:
     - **a)** pojazdem zabytkowym w rozumieniu przepisów ustawy – Prawo o ruchu drogowym,
     - **b)** pojazdem mającym co najmniej 40 lat,
@@ -426,7 +424,9 @@ Art. 141–158. (pominięte)
 - **8)** z dniem odstąpienia przez ubezpieczającego od umowy w trybie określonym w art. 40 ustawy z dnia 30 maja 2014 r. o prawach konsumenta;
 - **9)** z dniem wydania zaświadczenia, o którym mowa w art. 79 ust. 1 pkt 1 lub 6 ustawy – Prawo o ruchu drogowym, albo równoważnego dokumentu wydanego w innym państwie;
 - **10)** z dniem wypowiedzenia umowy zgodnie z art. 28a ust. 1;
-- **11)** z dniem doręczenia podmiotowi uprawnionemu, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, decyzji o uchyleniu decyzji o profesjonalnej rejestracji pojazdów w odniesieniu do pojazdów do jazd testowych; <12) z dniem odmowy wydania lub cofnięcia zezwolenia, o którym mowa w art. 65l ust. 1 ustawy – Prawo o ruchu drogowym, jeżeli ubezpieczającym jest organizator prac badawczych w rozumieniu art. 2 pkt 90 ustawy – Prawo o ruchu drogowym – w przypadku pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, wykorzystywanych do prac badawczych.> [Art. 33a. Przepisów art. 33 pkt 2–4 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, w odniesieniu do pojazdów do jazd testowych.] <Art. 33a. Przepisów art. 33 pkt 2–4 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, w odniesieniu do pojazdów do jazd testowych oraz w przypadku pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych – do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej przez organizatora prac badawczych w rozumieniu art. 2 pkt 90 ustawy – Prawo o ruchu drogowym, na okres prac badawczych.>
+- **11)** z dniem doręczenia podmiotowi uprawnionemu, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, decyzji o uchyleniu decyzji o profesjonalnej rejestracji pojazdów w odniesieniu do pojazdów do jazd testowych; <12) z dniem odmowy wydania lub cofnięcia zezwolenia, o którym mowa w art. 65l ust. 1 ustawy – Prawo o ruchu drogowym, jeżeli ubezpieczającym jest organizator prac badawczych w rozumieniu art. 2 pkt 90 ustawy – Prawo o ruchu drogowym – w przypadku pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, wykorzystywanych do prac badawczych.>
+
+**Art. 33a.** Przepisów art. 33 pkt 2–4 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, w odniesieniu do pojazdów do jazd testowych oraz w przypadku pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych – do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej przez organizatora prac badawczych w rozumieniu art. 2 pkt 90 ustawy – Prawo o ruchu drogowym, na okres prac badawczych.
 
 **Art. 34.**
 
@@ -2008,6 +2008,8 @@ Art. 141–158. (pominięte)
 4. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia, szczegółowe warunki i tryb składania sprawozdania, o którym mowa w ust. 1, w tym termin jego złożenia oraz niezbędne dane, jakie powinno zawierać, uwzględniając w szczególności zapewnienie prawidłowości i przejrzystości sporządzanych sprawozdań.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
+
+**Art. 141–158.** (pominięte)
 
 #### Rozdział 10 Przepisy epizodyczne, przejściowe i końcowe
 

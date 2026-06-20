@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 28 listopada 2003 r. o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 28 listopada 2003 r.*
 
@@ -798,7 +798,7 @@ własnością gmin, lecz co do których nie zostały wydane ostateczne decyzje p
 
 2. Osoby z wykształceniem średnim mogą ubiegać się o nadanie licencji zawodowej odpowiednio w zakresie pośrednictwa w obrocie nieruchomościami lub zarządzania nieruchomościami, pod warunkiem ukończenia kursu specjalistycznego, którego program został uzgodniony z ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej, oraz jeżeli złożą wniosek o dopuszczenie do postępowania kwalifikacyjnego do dnia 31 grudnia 2007 r. W przypadku osób z wykształceniem wyższym ukończenie kursu, o którym mowa w zdaniu pierwszym, uznaje się za spełnienie warunku ukończenia studiów podyplomowych, o ile złożą wniosek o dopuszczenie do postępowania kwalifikacyjnego do dnia 31 grudnia 2007 r.
 
-**Art. 14.** Uprawnienie, o którym mowa w art. 207 ust. 1 i 1a ustawy wymienionej w art. 1, wygasa, jeżeli żądanie o oddanie nieruchomości w użytkowanie wieczyste w drodze umowy nie zostanie zgłoszone do dnia 31 grudnia 2005 r. [Art. 15. Przepis art. 229a ustawy wymienionej w art. 1 stosuje się również do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy.]
+**Art. 14.** Uprawnienie, o którym mowa w art. 207 ust. 1 i 1a ustawy wymienionej w art. 1, wygasa, jeżeli żądanie o oddanie nieruchomości w użytkowanie wieczyste w drodze umowy nie zostanie zgłoszone do dnia 31 grudnia 2005 r.
 
 **Art. 15.** niezgodny z Konstytucją - wyrok TK (Dz.U. z 2008 r. Nr 59, poz. 369).
 

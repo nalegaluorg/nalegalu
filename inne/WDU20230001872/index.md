@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw
+# Ustawa z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw
 
 *USTAWA z dnia 17 sierpnia 2023 r.*
 

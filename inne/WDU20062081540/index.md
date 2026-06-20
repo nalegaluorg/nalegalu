@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw
+# Ustawa z dnia 18 października 2006 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 18 października 2006 r.*
 

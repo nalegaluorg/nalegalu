@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw.
+# Ustawa z dnia 17 grudnia 2001 o zmianie ustawy o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 17 grudnia 2001 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie fizjoterapeuty
+# Ustawa z dnia 25 września 2015 r. o zawodzie fizjoterapeuty
 
 *USTAWA z dnia 25 września 2015 r.*
 
@@ -343,9 +343,7 @@ source: pdf
 
 1. Na podstawie uchwał o stwierdzeniu lub przyznaniu prawa wykonywania zawodu Krajowa Rada Fizjoterapeutów dokonuje wpisu do Krajowego Rejestru Fizjoterapeutów i wydaje dokument „Prawo wykonywania zawodu fizjoterapeuty”.
 
-1a. Minister właściwy do spraw zdrowia może upoważnić Krajową Radę Fizjoterapeutów do wykonania w jego imieniu zadań określonych w art. 14, art. 18, art. 34 ust. 2 i 3, art. 35, art. 36 ust. 1 i art. 37–39 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i 1863 oraz z 2025 r. poz.
-
-- **1881)** .
+1a. Minister właściwy do spraw zdrowia może upoważnić Krajową Radę Fizjoterapeutów do wykonania w jego imieniu zadań określonych w art. 14, art. 18, art. 34 ust. 2 i 3, art. 35, art. 36 ust. 1 i art. 37–39 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i 1863 oraz z 2025 r. poz. 1881).
 
 1b. Dokument „Prawo wykonywania zawodu fizjoterapeuty” potwierdzający przyznanie prawa, o którym mowa w art. 13 i art. 21, zawiera:
 
@@ -362,7 +360,7 @@ source: pdf
 - **11)** wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej;
 - **12)** elementy zabezpieczające przed przerobieniem, podrobieniem i sfałszowaniem uwzględniające minimalne zabezpieczenia dla dokumentów publicznych kategorii drugiej określone w przepisach wydanych na podstawie art. 7 ust. 5 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych. <1c. Dokument „Prawo wykonywania zawodu fizjoterapeuty” jest wydawany w formie spersonalizowanej dwustronnej karty identyfikacyjnej, a w przypadku osób posiadających obywatelstwo polskie może być udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019).
 
-1d. Dokument „Prawo wykonywania zawodu fizjoterapeuty” udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, zawiera dane, o których mowa w ust. 1b pkt 1, 3, 6, 7, 9 i 10.>
+1d. Dokument „Prawo wykonywania zawodu fizjoterapeuty” udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, zawiera dane, o których mowa w ust. 1b pkt 1, 3, 6, 7, 9 i 10.
 
 2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Krajowej Rady Fizjoterapeutów, określi, w drodze rozporządzenia, wzór dokumentu „Prawo wykonywania zawodu fizjoterapeuty” oraz szczegółowe rodzaje zabezpieczenia go przed przerobieniem, podrobieniem lub użyciem przez osobę nieuprawnioną, kierując się koniecznością zapewnienia ochrony danych osobowych oraz sposobem użytkowania dokumentu.
 

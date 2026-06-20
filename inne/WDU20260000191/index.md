@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od czynności cywilnoprawnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od czynności cywilnoprawnych
 
 | Pole | Wartość |
 |---|---|

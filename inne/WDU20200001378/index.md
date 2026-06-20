@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz niektórych innych ustaw
+# Ustawa z dnia 15 lipca 2020 r. o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 lipca 2020 r.*
 
@@ -220,7 +220,12 @@ source: pdf
     - **a)** ust. 1 otrzymuje brzmienie: „1. W celu zapewnienia koordynacji i monitorowania realizacji umowy partnerstwa, w szczególności programów służących jej realizacji, tworzy się Komitet do spraw Umowy Partnerstwa.”,
     - **b)** uchyla się ust. 4;
 
-- **32)** po rozdziale 2b dodaje się rozdział 2ba w brzmieniu: „Rozdział 2ba Kontrakt programowy i porozumienie terytorialne Art. 14ra. 1. Kontrakt programowy określa w szczególności:
+- **32)** po rozdziale 2b dodaje się rozdział 2ba w brzmieniu: „Rozdział 2ba Kontrakt programowy i porozumienie terytorialne
+
+**Art. 14ra.**
+
+1. Kontrakt programowy określa w szczególności:
+
 - **1)** maksymalną kwotę dofinansowania programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez zarząd województwa, środkami pochodzącymi ze źródeł zagranicznych lub z budżetu państwa;
 - **2)** minimalną kwotę dofinansowania ze źródeł krajowych niezbędną do realizacji programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez zarząd województwa, którą zapewnia samorząd województwa ze środków własnych lub środków beneficjentów tego programu;
 - **3)** kierunki i warunki wsparcia realizowanego w ramach programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez zarząd województwa, oraz przedsięwzięcia priorytetowe;
@@ -239,7 +244,11 @@ source: pdf
 
 6. Po zakończeniu negocjacji, o których mowa w ust. 5, kontrakt programowy może zostać zmieniony tylko w zakresie wynikającym z tych negocjacji.
 
-7. Realizację kontraktu programowego koordynuje minister właściwy do spraw rozwoju regionalnego, a ze strony samorządowej – właściwy zarząd województwa. Art. 14rb. 1. Porozumienie terytorialne może być zawierane przez:
+7. Realizację kontraktu programowego koordynuje minister właściwy do spraw rozwoju regionalnego, a ze strony samorządowej – właściwy zarząd województwa.
+
+**Art. 14rb.**
+
+1. Porozumienie terytorialne może być zawierane przez:
 
 - **1)** zarząd województwa z jednostkami samorządu terytorialnego z obszaru tego województwa lub ich związkami, porozumieniami lub stowarzyszeniami, realizującymi zadania w zakresie polityki rozwoju wynikające ze strategii rozwoju województwa;
 - **2)** ministra właściwego do spraw rozwoju regionalnego, a także właściwego ministra, jeżeli zakres porozumienia terytorialnego tego wymaga, z gminą lub powiatem, lub ich związkami, porozumieniami lub stowarzyszeniami, w przypadku gdy jego zasadność wynika z krajowej strategii rozwoju regionalnego;

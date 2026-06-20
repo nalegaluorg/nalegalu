@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych
 
 | Pole | Wartość |
 |---|---|

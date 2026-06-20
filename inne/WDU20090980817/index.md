@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu lub zmianie niektórych upoważnień do wydawania aktów wykonawczych
+# Ustawa z dnia 7 maja 2009 r. o uchyleniu niektórych upoważnień do wydawania aktów wykonawczych
 
 *USTAWA z dnia 7 maja 2009 r.*
 

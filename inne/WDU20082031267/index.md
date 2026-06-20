@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od spadków i darowizn
+# Ustawa z dnia 10 października 2008 r. o zmianie ustawy o podatku od spadków i darowizn
 
 *USTAWA z dnia 10 października 2008 r.*
 

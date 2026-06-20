@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks postępowania cywilnego, ustawy o kosztach sądowych w sprawach cywilnych oraz ustawy o komornikach sądowych i egzekucji
+# Ustawa z dnia 19 lipca 2001 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy o kosztach sądowych w sprawach cywilnych oraz ustawy o komornikach sądowych i egzekucji.
 
 *USTAWA z dnia 19 lipca 2001 r.*
 

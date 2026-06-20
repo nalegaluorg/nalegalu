@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo ochrony środowiska oraz ustawy o zarządzaniu kryzysowym
+# Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy - Prawo ochrony środowiska oraz ustawy o zarządzaniu kryzysowym
 
 *USTAWA z dnia 13 czerwca 2019 r.*
 

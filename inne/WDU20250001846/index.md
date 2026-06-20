@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych zasadach realizacji zadań związanych z inwestycją w zakresie bezpieczeństwa i obronności realizowaną w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
+# Ustawa z dnia 4 grudnia 2025 r. o szczególnych zasadach realizacji zadań związanych z inwestycją w zakresie bezpieczeństwa i obronności realizowaną w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
 
 *USTAWA z dnia 4 grudnia 2025 r.*
 
@@ -276,13 +276,21 @@ source: pdf
     - **c)** w ust. 5 w pkt 2 wyrazy „art. 14lr pkt 2 i 3” zastępuje się wyrazami „art. 14lr ust. 1 pkt 2 i 3”;
 
 - **5)** w art. 14lr dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Instytucja odpowiedzialna za realizację inwestycji A2.7.1, o której mowa w załączniku do decyzji wykonawczej Rady nr 9590/25 z dnia 17 czerwca 2025 r. zmieniającej decyzję wykonawczą z dnia 17 czerwca 2022 r. w sprawie zatwierdzenia oceny planu odbudowy i zwiększania odporności Polski, wydanej na podstawie art. 20 ust. 1 rozporządzenia 2021/241, przekazuje środki, o których mowa w art. 14ll ust. 2 pkt 3, Bankowi Gospodarstwa Krajowego w złotych, według kursu średniego euro Narodowego Banku Polskiego ogłoszonego dwa dni operacyjne przed datą ich przekazania, zgodnie z umową, o której mowa w art. 8 ustawy z dnia 4 grudnia 2025 r. o szczególnych zasadach realizacji zadań związanych z inwestycją w zakresie bezpieczeństwa i obronności realizowaną w ramach Krajowego Planu Odbudowy i Zwiększania Odporności.”;
-- **6)** po rozdziale 2ab dodaje się rozdział 2ac w brzmieniu: „Rozdział 2ac Plan partnerstwa krajowego i regionalnego Art. 14lzq. 1. Projekt planu partnerstwa krajowego i regionalnego opracowuje minister właściwy do spraw rozwoju regionalnego w porozumieniu z właściwymi ministrami i we współpracy z zarządami województw oraz partnerami społecznymi i gospodarczymi.
+- **6)** po rozdziale 2ab dodaje się rozdział 2ac w brzmieniu: „Rozdział 2ac Plan partnerstwa krajowego i regionalnego
+
+**Art. 14lzq.**
+
+1. Projekt planu partnerstwa krajowego i regionalnego opracowuje minister właściwy do spraw rozwoju regionalnego w porozumieniu z właściwymi ministrami i we współpracy z zarządami województw oraz partnerami społecznymi i gospodarczymi.
 
 2. Plan partnerstwa krajowego i regionalnego jest przyjmowany przez Radę Ministrów, w drodze uchwały, na wniosek ministra właściwego do spraw rozwoju regionalnego.
 
 3. Przy opracowywaniu projektu planu partnerstwa krajowego i regionalnego uwzględnia się strategie rozwoju, o których mowa w art. 9.
 
-4. Przepisy ust. 1–3 stosuje się odpowiednio w przypadku zmiany planu partnerstwa krajowego i regionalnego. Art. 14lzr. 1. Za koordynację realizacji planu partnerstwa krajowego i regionalnego odpowiada minister właściwy do spraw rozwoju regionalnego.
+4. Przepisy ust. 1–3 stosuje się odpowiednio w przypadku zmiany planu partnerstwa krajowego i regionalnego.
+
+**Art. 14lzr.**
+
+1. Za koordynację realizacji planu partnerstwa krajowego i regionalnego odpowiada minister właściwy do spraw rozwoju regionalnego.
 
 2. Koordynacja, o której mowa w ust. 1, polega w szczególności na:
 

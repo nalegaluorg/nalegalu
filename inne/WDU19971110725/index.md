@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie przeciwpożarowej W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz.U. Nr 81, poz. 351, z 1994 r. Nr 27, poz. 96 1 Nr 89, poz. 414 oraz z 1996 r. Nr 106, poz. 496) wprowadza się następujące zmiany:
+# Ustawa z dnia 22 sierpnia 1997 r. o zmianie ustawy o ochronie przeciwpożarowej.
 
 *USTAWA z dnia 22 sierpnia 1997 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
+# Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
 
 *USTAWA z dnia 28 kwietnia 2011 r.*
 

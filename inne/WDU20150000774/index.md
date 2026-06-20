@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku ze wzmocnieniem narzędzi ochrony krajobrazu
+# Ustawa z dnia 24 kwietnia 2015 r. o zmianie niektórych ustaw w związku ze wzmocnieniem narzędzi ochrony krajobrazu
 
 *USTAWA z dnia 24 kwietnia 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 października 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 5 lipca 2002 r.*
 

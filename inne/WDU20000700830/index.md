@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia wykazu specjalności lekarskich oraz zawodów niemedycznych uprawniających do prowadzenia leczenia i rehabilitacji osób uzależnionych.
+# Rozporządzenie Ministra Zdrowia z dnia 4 sierpnia 2000 r. w sprawie określenia wykazu specjalności lekarskich oraz zawodów niemedycznych uprawniających do prowadzenia leczenia i rehabilitacji osób uzależnionych.
 
 *ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 4 sierpnia 2000 r.*
 

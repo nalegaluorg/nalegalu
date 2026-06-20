@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy państwa w oszczędzaniu na cele mieszkaniowe
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe
 
 *USTAWA z dnia 26 maja 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-11-21 |
 | Ostatnia zmiana | 2025-08-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001704) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1704/text.pdf) |
-
-Art. 21–29. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -142,7 +140,7 @@ Art. 21–29. (pominięte)
 - **1)** jednym z miesięcy danego roku kalendarzowego lub jednym z miesięcy okresu liczonego od miesiąca, w którym zawarto umowę, o której mowa w art. 4 ust. 2, do końca roku kalendarzowego lub
 - **2)** miesiącu następującym po upływie 10 lat liczonych od dnia 31 grudnia roku kalendarzowego, w którym zawarto umowę, o której mowa w art. 4 ust. 2. [4. W przypadku gdy wpłata, o której mowa w ust. 2, jest dokonywana z innego rachunku bankowego, dniem dokonania wpłaty jest dzień realizacji przekazania środków wskazany przez oszczędzającego w dyspozycji tego przekazu.] <4. W przypadku gdy wpłata, o której mowa w ust. 2, jest dokonywana z innego rachunku bankowego, wpłaty tej dokonuje się nie później niż ostatniego dnia roboczego danego miesiąca. Za dzień dokonania wpłaty uznaje się:
 - **1)** dzień jej zaksięgowania przez bank prowadzący konto lub
-- **2)** dzień wskazany w dyspozycji, w przypadku gdy oszczędzający w terminie do 7 dni od dnia poinformowania przez bank prowadzący konto o braku wpłaty dostarczy potwierdzenie dyspozycji wpłaty w tym miesiącu, za który stwierdzono brak wpływu środków; bank prowadzący konto informuje oszczędzającego o braku wpłaty w terminie do 10. dnia miesiąca następującego po miesiącu, w którym nie zaksięgowano wpłaty.>
+- **2)** dzień wskazany w dyspozycji, w przypadku gdy oszczędzający w terminie do 7 dni od dnia poinformowania przez bank prowadzący konto o braku wpłaty dostarczy potwierdzenie dyspozycji wpłaty w tym miesiącu, za który stwierdzono brak wpływu środków; bank prowadzący konto informuje oszczędzającego o braku wpłaty w terminie do 10. dnia miesiąca następującego po miesiącu, w którym nie zaksięgowano wpłaty.
 
 5. Wypłaty zgromadzonych na koncie środków pieniężnych dokonuje się do kwoty tych środków pomniejszonej o kwotę podatku dochodowego niepobranego w okresie prowadzenia konta zgodnie ze zwolnieniem, o którym mowa w art. 21 ust. 1 pkt 159 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, 232, 854, 858, 859 i 863), chyba że wypłata tych środków jest dokonywana na zasadach, o których mowa w rozdziale 3. <6. Pierwsza z wpłat, o których mowa w ust. 2, jest dokonywana nie później niż ostatniego dnia roboczego miesiąca, w którym rozpoczęto prowadzenie konta.>
 
@@ -227,7 +225,7 @@ Art. 21–29. (pominięte)
 - **7)** wniesieniem kwoty partycypacji, o której mowa w art. 29a ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2024 r. poz. 1440),
 - **8)** remontem lub przebudową lokalu mieszkalnego albo domu jednorodzinnego, wyłączonego z użytkowania na podstawie decyzji organu nadzoru budowlanego, o której mowa w art. 68 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, <9) remontem lub przebudową lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w:
     - **a)** art. 3 ust. 3 pkt 1 albo 2 – w przypadku gdy szacowany koszt tego remontu lub tej przebudowy przewyższa kwotę środków wypłacanych z konta albo lokaty, albo
-    - **b)** art. 3 ust. 4 pkt 1 albo 2 – w przypadku gdy szacowany koszt tego remontu lub tej przebudowy przewyższa kwotę środków wypłacanych z konta albo lokaty> – oszczędzającemu przysługuje premia mieszkaniowa.
+    - **b)** art. 3 ust. 4 pkt 1 albo 2 – w przypadku gdy szacowany koszt tego remontu lub tej przebudowy przewyższa kwotę środków wypłacanych z konta albo lokaty
 
 2. Prawo do premii mieszkaniowej nie podlega dziedziczeniu.
 
@@ -392,6 +390,8 @@ Art. 21–29. (pominięte)
 2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu lub interesie innej osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
 #### Rozdział 6 Zmiany w przepisach
+
+**Art. 21–29.** (pominięte)
 
 #### Rozdział 7 Przepis epizodyczny, przepisy przejściowe, przepisy dostosowujące oraz przepis końcowy
 

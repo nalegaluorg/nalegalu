@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw określających warunki prowadzenia działalności innowacyjnej
+# Ustawa z dnia 4 listopada 2016 r. o zmianie niektórych ustaw określających warunki prowadzenia działalności innowacyjnej
 
 *USTAWA z dnia 4 listopada 2016 r.*
 

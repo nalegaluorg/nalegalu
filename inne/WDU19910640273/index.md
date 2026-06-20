@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu ustawy o Narodowej Radzie Kultury
+# Ustawa z dnia 28 czerwca 1991 r. o uchyleniu ustawy o Narodowej Radzie Kultury.
 
 *USTAWA z dnia 28 czerwca 1991 r.*
 

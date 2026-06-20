@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 24 października 2008 r. o zmianie ustawy o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 24 października 2008 r.*
 

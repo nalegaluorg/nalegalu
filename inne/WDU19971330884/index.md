@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych
+# Ustawa z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych
 
 *USTAWA z dnia 29 sierpnia 1997 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1997-10-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971330884) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/884/text.pdf) |
-
-Art. 46–48. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -533,6 +531,8 @@ Art. 46–48. (pominięte)
 #### Rozdział 5a
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 46–48.** (pominięte)
 
 **Art. 49.**
 

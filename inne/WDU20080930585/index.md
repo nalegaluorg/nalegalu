@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej oraz ustawy o podatkach i opłatach lokalnych
+# Ustawa z dnia 25 kwietnia 2008 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej oraz ustawy o podatkach i opłatach lokalnych
 
 *USTAWA z dnia 25 kwietnia 2008 r.*
 

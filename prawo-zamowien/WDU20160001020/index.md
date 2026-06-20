@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 22 czerwca 2016 r. o zmianie ustawy - Prawo zamówień publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 czerwca 2016 r.*
 
@@ -1322,9 +1322,17 @@ source: pdf
     - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Jeżeli zamówienie w dziedzinach obronności i bezpieczeństwa obejmuje usługi określone w przepisach wydanych na podstawie art. 131bb ust. 2 oraz inne usługi albo usługi i dostawy, do udzielenia zamówienia stosuje się przepisy dotyczące tych usług lub dostaw, których szacowana wartość jest większa.”,
     - **d)** dodaje się ust. 5 w brzmieniu: „5. Ilekroć w przepisach niniejszego rozdziału jest mowa o umowie o podwykonawstwo, należy przez to rozumieć umowę w formie pisemnej o charakterze odpłatnym, zawieraną w celu wykonania zamówienia w dziedzinach obronności i bezpieczeństwa między wybranym przez zamawiającego wykonawcą a co najmniej jednym innym podmiotem.”;
 
-- **119)** po art. 131b dodaje się art. 131ba–131bc w brzmieniu: „Art. 131ba. Zamawiający może odstąpić od uwzględnienia postępowania o udzielenie zamówienia w planie postępowania, o którym mowa w art. 13a, jeżeli przemawiają za tym względy obronności lub bezpieczeństwa państwa. Art. 131bb. 1. Do postępowań o udzielenie zamówień, których przedmiotem są usługi o charakterze niepriorytetowym określone w przepisach wydanych na podstawie ust. 2, nie stosuje się przepisów ustawy dotyczących terminów składania wniosków o dopuszczenie do udziału w postępowaniu lub terminów składania ofert, obowiązku żądania wadium, obowiązku żądania dokumentów potwierdzających spełnianie warunków udziału w postępowaniu, zakazu ustalania kryteriów oceny ofert na podstawie właściwości wykonawcy oraz przesłanek wyboru trybu negocjacji z ogłoszeniem, dialogu konkurencyjnego oraz licytacji elektronicznej.
+- **119)** po art. 131b dodaje się art. 131ba–131bc w brzmieniu: „Art. 131ba. Zamawiający może odstąpić od uwzględnienia postępowania o udzielenie zamówienia w planie postępowania, o którym mowa w art. 13a, jeżeli przemawiają za tym względy obronności lub bezpieczeństwa państwa.
 
-2. Prezes Rady Ministrów określi, w drodze rozporządzenia, wykaz usług o charakterze priorytetowym i niepriorytetowym, z uwzględnieniem postanowień dyrektywy Parlamentu Europejskiego i Rady 2009/81/WE z dnia 13 lipca 2009 r. w sprawie koordynacji procedur udzielania niektórych zamówień na roboty budowlane, dostawy i usługi przez instytucje lub podmioty zamawiające w dziedzinach obronności i bezpieczeństwa i zmieniającej dyrektywy 2004/17/WE i 2004/18/WE. Art. 131bc. 1. W postępowaniach o udzielenie zamówienia w dziedzinach obronności i bezpieczeństwa komunikacja między zamawiającym a wykonawcami odbywa się, zgodnie z wyborem zamawiającego, za pośrednictwem operatora pocztowego, w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, osobiście lub przy użyciu środków komunikacji elektronicznej.
+**Art. 131bb.**
+
+1. Do postępowań o udzielenie zamówień, których przedmiotem są usługi o charakterze niepriorytetowym określone w przepisach wydanych na podstawie ust. 2, nie stosuje się przepisów ustawy dotyczących terminów składania wniosków o dopuszczenie do udziału w postępowaniu lub terminów składania ofert, obowiązku żądania wadium, obowiązku żądania dokumentów potwierdzających spełnianie warunków udziału w postępowaniu, zakazu ustalania kryteriów oceny ofert na podstawie właściwości wykonawcy oraz przesłanek wyboru trybu negocjacji z ogłoszeniem, dialogu konkurencyjnego oraz licytacji elektronicznej.
+
+2. Prezes Rady Ministrów określi, w drodze rozporządzenia, wykaz usług o charakterze priorytetowym i niepriorytetowym, z uwzględnieniem postanowień dyrektywy Parlamentu Europejskiego i Rady 2009/81/WE z dnia 13 lipca 2009 r. w sprawie koordynacji procedur udzielania niektórych zamówień na roboty budowlane, dostawy i usługi przez instytucje lub podmioty zamawiające w dziedzinach obronności i bezpieczeństwa i zmieniającej dyrektywy 2004/17/WE i 2004/18/WE.
+
+**Art. 131bc.**
+
+1. W postępowaniach o udzielenie zamówienia w dziedzinach obronności i bezpieczeństwa komunikacja między zamawiającym a wykonawcami odbywa się, zgodnie z wyborem zamawiającego, za pośrednictwem operatora pocztowego, w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, osobiście lub przy użyciu środków komunikacji elektronicznej.
 
 2. Wybrane środki komunikacji muszą być ogólnie dostępne i nie mogą ograniczać dostępu wykonawców do postępowania o udzielenie zamówienia w dziedzinach obronności i bezpieczeństwa.
 

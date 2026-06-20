@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw
+# Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 czerwca 2011 r.*
 

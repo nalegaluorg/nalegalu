@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców
+# Ustawa z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców
 
 *USTAWA z dnia 16 lipca 2020 r.*
 

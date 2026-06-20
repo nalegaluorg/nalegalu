@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
+# Ustawa z dnia 27 listopada 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
 
 *USTAWA z dnia 27 listopada 2020 r.*
 
@@ -31,7 +31,9 @@ source: pdf
 
 - **1)** po art. 4h dodaje się art. 4ha i art. 4hb w brzmieniu: „Art. 4ha. 1. W okresie ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii pracownicy i inne osoby zatrudnione, poddane obowiązkowej izolacji w warunkach domowych, mogą, za zgodą pracodawcy albo zatrudniającego, świadczyć w trybie pracy zdalnej pracę określoną w umowie i otrzymywać z tego tytułu wynagrodzenie. Do warunków świadczenia pracy stosuje się przepisy art. 3 ust. 3–8.
 
-2. W przypadku świadczenia pracy w trakcie izolacji w warunkach domowych, o której mowa w ust. 1, nie przysługuje wynagrodzenie, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, ani świadczenie pieniężne z tytułu choroby. Art. 4hb. Za okres nieświadczenia pracy w trakcie kwarantanny albo izolacji w warunkach domowych przysługuje wynagrodzenie, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, albo świadczenie pieniężne z tytułu choroby.”;
+2. W przypadku świadczenia pracy w trakcie izolacji w warunkach domowych, o której mowa w ust. 1, nie przysługuje wynagrodzenie, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, ani świadczenie pieniężne z tytułu choroby.
+
+**Art. 4hb.** Za okres nieświadczenia pracy w trakcie kwarantanny albo izolacji w warunkach domowych przysługuje wynagrodzenie, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, albo świadczenie pieniężne z tytułu choroby.”;
 
 - **2)** w art. 12a w ust. 1 uchyla się pkt 3;
 - **3)** art. 15zzzy otrzymuje brzmienie: „Art. 15zzzy. 1. W okresie stanu zagrożenia epidemicznego albo stanu epidemii, jednak nie dłużej niż do dnia 31 stycznia 2021 r., zawiesza się przeprowadzanie badań lekarskich i psychologicznych:

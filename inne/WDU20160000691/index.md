@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy, ustawy o Państwowej Inspekcji Pracy oraz ustawy o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania
+# Ustawa z dnia 29 kwietnia 2016 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy, ustawy o Państwowej Inspekcji Pracy oraz ustawy o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania
 
 *USTAWA z dnia 29 kwietnia 2016 r.*
 

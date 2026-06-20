@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie monitorowania i kontrolowania jakości paliw
+# Ustawa z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw
 
 *USTAWA z dnia 25 sierpnia 2006 r.*
 
@@ -343,7 +343,11 @@ source: pdf
 
 1. Dystrybutory używane na stacjach paliwowych do paliw ciekłych zawierających dodatki metaliczne należy oznakować, umieszczając na nich widoczną i czytelną informację o następującej treści: „Zawiera dodatki metaliczne”.
 
-2. Wymóg oznakowania dystrybutorów, o którym mowa w ust. 1, dotyczy także dystrybutorów używanych na stacjach zakładowych. Art. 9ca. 1. Przedsiębiorcy wykonujący działalność gospodarczą w zakresie wprowadzania do obrotu paliw ciekłych na stacjach paliwowych oraz stacjach zakładowych są obowiązani do oznakowania pistoletów wydawczych i dystrybutorów w sposób określający rodzaj wydawanego paliwa ciekłego.
+2. Wymóg oznakowania dystrybutorów, o którym mowa w ust. 1, dotyczy także dystrybutorów używanych na stacjach zakładowych.
+
+**Art. 9ca.**
+
+1. Przedsiębiorcy wykonujący działalność gospodarczą w zakresie wprowadzania do obrotu paliw ciekłych na stacjach paliwowych oraz stacjach zakładowych są obowiązani do oznakowania pistoletów wydawczych i dystrybutorów w sposób określający rodzaj wydawanego paliwa ciekłego.
 
 2. Informacja o rodzaju paliwa ciekłego wykorzystywanego do napędu pojazdu samochodowego jest umieszczana:
 
@@ -800,83 +804,36 @@ source: pdf
 
 **Art. 30g.** (uchylony)
 
-**Art. 30h.** (uchylony) Art. 30ha. (uchylony)
+**Art. 30h.** (uchylony)
+
+**Art. 30ha.** (uchylony)
 
 **Art. 30i.** (uchylony)
 
-**Art. 30j.** (uchylony) [Art. 30k. Prezes Urzędu Regulacji Energetyki może żądać od podmiotu realizującego Narodowy Cel Redukcyjny przedstawienia dokumentów lub informacji dotyczących realizacji Narodowego Celu Redukcyjnego, z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.]
+**Art. 30j.**
 
 #### Rozdział 3 Przepisy karne
 
 **Art. 31.**
 
-1. Kto wytwarza, transportuje, magazynuje lub wprowadza do obrotu paliwa ciekłe, biopaliwa ciekłe lub inne paliwa odnawialne, gaz skroplony (LPG), sprężony gaz ziemny (CNG), skroplony gaz ziemny (LNG), lekki olej opałowy lub wodór niespełniające wymagań jakościowych określonych w ustawie, podlega grzywnie od 50 000 zł do 500 000 zł lub karze pozbawienia wolności do lat 3.
-
-2. Tej samej karze podlega ten, kto w stacji zakładowej gromadzi paliwa wymienione w ust. 1 niespełniające wymagań jakościowych określonych w ustawie.
-
-3. Jeżeli paliwa, o których mowa w ust. 1 lub 2, stanowią mienie znacznej wartości, sprawca podlega grzywnie od 100 000 zł do 1 000 000 zł lub karze pozbawienia wolności od 3 miesięcy do 5 lat.
-
-4. W przypadku mniejszej wagi sprawca podlega grzywnie od 10 000 zł do 25 000 zł.
-
-5. Jeżeli sprawca czynu określonego w ust. 1–3 działa nieumyślnie, podlega grzywnie od 25 000 zł do 250 000 zł.
-
-**Art. 31a.** (uchylony)
+**Art. 31a.**
 
 **Art. 31b.**
 
-1. Przedsiębiorca, który prowadzi hurtownię wodoru lub transportuje, magazynuje, wprowadza do obrotu lub gromadzi w stacjach zakładowych wodór, który nie posiada certyfikatu jakości wodoru, podlega grzywnie od 50 000 zł do 500 000 zł.
-
-2. Karze, o której mowa w ust. 1, nie podlega ten, kto prowadzi hurtownię wodoru lub transportuje, magazynuje, wprowadza do obrotu lub gromadzi w stacjach zakładowych wodór, który posiada certyfikat jakości wodoru, jeżeli nie jest świadomy, że certyfikat ten poświadcza nieprawdę.
-
-**Art. 32.** Kto, będąc rolnikiem, wytwarza na własny użytek biopaliwo ciekłe niespełniające wymagań jakościowych określonych w ustawie, podlega grzywnie.
+**Art. 32.**
 
 **Art. 33.**
 
-1. Kto, będąc właścicielem lub użytkownikiem wybranej floty, wprowadza do obrotu biopaliwo ciekłe stosowane w tej flocie, podlega grzywnie.
-
-2. Kto, będąc właścicielem lub użytkownikiem wybranej floty, stosuje bez zgłoszenia biopaliwo ciekłe niespełniające wymagań jakościowych, o których mowa w art. 3 ust. 2 pkt 2, podlega grzywnie.
-
-3. (uchylony)
-
-4. Kto wprowadza do obrotu biopaliwa ciekłe, o których mowa w art. 4 ust. 1, przeznaczone do stosowania przez podmioty inne niż właściciel lub użytkownik wybranej floty, podlega grzywnie.
-
-5. (uchylony)
-
-6. (uchylony)
-
 **Art. 34.**
-
-1. Kto wbrew przepisom stosuje ciężki olej opałowy, niespełniający wymagań jakościowych określonych w ustawie, podlega grzywnie.
-
-2. Kto stosuje olej do silników statków żeglugi śródlądowej, niespełniający wymagań jakościowych określonych w ustawie, podlega grzywnie.
 
 **Art. 34a.**
 
-1. Kto wprowadza do obrotu paliwa stałe niezgodnie z art. 7 ust. 7a pkt 1–4, podlega grzywnie od 50 000 zł do 500 000 zł lub karze pozbawienia wolności do lat 3.
-
-2. Jeżeli paliwa stałe stanowią mienie znacznej wartości, sprawca podlega grzywnie od 100 000 zł do 1 000 000 zł lub karze pozbawienia wolności od 3 miesięcy do 5 lat.
-
-3. W przypadku mniejszej wagi sprawca podlega grzywnie od 10 000 zł do 25 000 zł.
-
-4. Jeżeli sprawca czynu określonego w ust. 1 i 2 działa nieumyślnie, podlega grzywnie od 25 000 zł do 250 000 zł.
-
 **Art. 35.**
-
-1. Kto uniemożliwia lub utrudnia inspektorowi przeprowadzenie kontroli lub usuwa paliwo z wyłączeniem wodoru, zabezpieczone w wyniku kontroli, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-2. Kto uniemożliwia lub utrudnia inspektorowi przeprowadzenie kontroli lub usuwa paliwa stałe zabezpieczone w wyniku kontroli, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 #### Rozdział 3a Kary pieniężne
 
-**Art. 35a.** Karze pieniężnej podlega:
+**Art. 35a.**
 
-- **1)** przedsiębiorca wykonujący działalność gospodarczą w zakresie wytwarzania, magazynowania lub wprowadzania do obrotu biopaliw ciekłych przeznaczonych do stosowania w wybranej flocie, który magazynuje to biopaliwo w zbiorniku nieoznakowanym w sposób określony w art. 8 ust. 1 pkt 3;
-- **2)** przedsiębiorca wykonujący działalność gospodarczą w zakresie wytwarzania, magazynowania lub wprowadzania do obrotu biopaliw ciekłych przeznaczonych do stosowania w wybranej flocie, który zaopatruje tę flotę w to biopaliwo z dystrybutora nieoznakowanego w sposób określony w art. 8 ust. 2 pkt 4;
-- **3)** właściciel lub użytkownik wybranej floty, który nie wykonuje obowiązku informowania Prezesa Urzędu Ochrony Konkurencji i Konsumentów o zmianie danych zawartych w zgłoszeniu, o którym mowa w art. 9 ust. 1;
-- **4)** (uchylony)
-- **5)** (uchylony)
-- **6)** przedsiębiorca, który nie oznakowuje dystrybutora na stacji paliwowej lub stacji zakładowej w sposób określony w art. 9c; [7) podmiot realizujący Narodowy Cel Redukcyjny, który nie wykonał obowiązku, o którym mowa w art. 30b ust. 1 i 2;
-- **8)** podmiot realizujący Narodowy Cel Redukcyjny, który nie przekazał w terminie sprawozdania rocznego, o którym mowa w art. 30i ust. 1, lub podał w tym sprawozdaniu nieprawdziwe dane;]
 - **9)** przedsiębiorca wprowadzający do obrotu paliwo stałe, który wbrew obowiązkowi:
     - **a)** nie wystawia świadectwa jakości albo
     - **b)** wystawia świadectwo jakości, w którym wartości parametrów paliwa stałego są niezgodne ze stanem faktycznym, albo
@@ -885,9 +842,7 @@ source: pdf
 - **10)** przedsiębiorca wprowadzający do obrotu paliwo stałe z przeznaczeniem, o którym mowa w art. 1 ust. 2, oraz z przeznaczeniem innym niż określone w art. 1 ust. 2, który wbrew obowiązkowi nie przechowuje kopii dokumentów, o których mowa w art. 6b ust. 1;
 - **11)** przedsiębiorca, który nie przestrzega obowiązków, o których mowa w art. 9ca ust. 1–3; [12) podmiot realizujący Narodowy Cel Redukcyjny, który odmawia przedstawienia dokumentów lub informacji, o których mowa w art. 30k;
 - **13)** podmiot realizujący Narodowy Cel Redukcyjny, który wprowadza w błąd Prezesa Urzędu Regulacji Energetyki w zakresie przedstawianych dokumentów lub informacji, o których mowa w art. 30k;]
-- **14)** przedsiębiorca wytwarzający, transportujący, magazynujący, wprowadzający do obrotu lub gromadzący w stacji zakładowej wodór, a także przedsiębiorca prowadzący hurtownię wodoru, który nie przekazał w terminie informacji, o której mowa w art. 27b ust. 1 lub 2, lub podał w tej informacji nieprawdziwe dane. [Art. 35b. 1. W przypadku niewykonania obowiązku, o którym mowa w art. 30b ust. 1 i 2, przez podmioty wspólnie realizujące ten obowiązek, karze pieniężnej podlegają te podmioty, które nie zrealizowały tego obowiązku w przypadku rozliczania samodzielnej jego realizacji.
-
-2. (uchylony)]
+- **14)** przedsiębiorca wytwarzający, transportujący, magazynujący, wprowadzający do obrotu lub gromadzący w stacji zakładowej wodór, a także przedsiębiorca prowadzący hurtownię wodoru, który nie przekazał w terminie informacji, o której mowa w art. 27b ust. 1 lub 2, lub podał w tej informacji nieprawdziwe dane.
 
 **Art. 35c.** [1. Wysokość kary pieniężnej wymierzonej w przypadkach, o których mowa w art. 35a pkt 1–3, 6, 8 i 11–14, wynosi 5000 zł.] <1. Wysokość kary pieniężnej wymierzonej w przypadkach, o których mowa w art. 35a pkt 1–3, 6, 11 i 14, wynosi 5000 zł.> 2. (uchylony) [3. Wysokość kary pieniężnej wymierzonej w przypadku, o którym mowa w art. 35a pkt 7, oblicza się według wzoru: K= S × O × W, gdzie poszczególne symbole oznaczają: K – wysokość kary pieniężnej, wyrażoną w złotych [zł], S – 215,00 złotych za tonę ekwiwalentu dwutlenku węgla [zł/tCO ], O – wartość niewykonanego obowiązku, o którym mowa w art. 30b ust. 1 i 2, wyrażoną w tonach ekwiwalentu dwutlenku węgla w przeliczeniu na jednostkę energii [tCO /MJ], z dokładnością do dziesięciu miejsc po przecinku, W – odpowiednio wartość opałową lub energetyczną paliw ciekłych, biopaliw ciekłych, gazu skroplonego (LPG), sprężonego gazu ziemnego (CNG), skroplonego gazu ziemnego (LNG) lub wodoru, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych paliw na terytorium Rzeczypospolitej Polskiej lub zużytych na potrzeby własne na tym terytorium, oraz energii elektrycznej sprzedawanej odbiorcy końcowemu lub zużywanej na potrzeby własne, liczoną za rok, w którym podmiot ten nie wykonał obowiązku, o którym mowa w art. 30b ust. 1 i 2, wyrażoną w jednostkach energii [MJ]. 4. Wysokość kary pieniężnej, o której mowa w ust. 3, nie może przekroczyć 15 % przychodu ukaranego podmiotu realizującego Narodowy Cel Redukcyjny, osiągniętego w poprzednim roku podatkowym, a jeżeli kara pieniężna związana jest z działalnością prowadzoną na podstawie koncesji, wysokość kary nie może przekroczyć 15 % przychodu ukaranego podmiotu realizującego Narodowy Cel Redukcyjny, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym.] 5. Wysokość kary pieniężnej wymierzanej w przypadkach, o których mowa w art. 35a pkt 9 i 10, wynosi:
 

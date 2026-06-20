@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego
+# Ustawa z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego
 
 *USTAWA z dnia 11 sierpnia 2021 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001641) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1641/text.pdf) |
-
-Art. 45–57. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -509,6 +507,8 @@ Art. 45–57. (pominięte)
 **Art. 44.** Przepisów niniejszego rozdziału nie stosuje się do informacji sektora publicznego będących w posiadaniu podmiotów, o których mowa w art. 3 pkt 5, oraz danych badawczych, o których mowa w art. 22.
 
 #### Rozdział 10 Zmiany w przepisach
+
+**Art. 45–57.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe, dostosowujące i przepisy końcowe
 

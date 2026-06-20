@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rynku mocy
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rynku mocy
 
 *USTAWA z dnia 8 grudnia 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-05-08 |
 | Ostatnia zmiana | 2025-10-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000610) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/610/text.pdf) |
-
-Art. 86–89. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1838,6 +1836,8 @@ Art. 86–89. (pominięte)
 11. Karę pieniężną, o której mowa w ust. 1–3, uiszcza się na rachunek Urzędu Regulacji Energetyki.
 
 ### DZIAŁ VI Przepisy zmieniające
+
+**Art. 86–89.** (pominięte)
 
 ### DZIAŁ VIA Przepisy epizodyczne
 

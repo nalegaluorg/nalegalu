@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Uniwersytetu Medycznego w Łodzi
+# Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o izbach aptekarskich oraz ustawy - Prawo farmaceutyczne.
 
 *USTAWA z dnia 27 lipca 2002 r.*
 

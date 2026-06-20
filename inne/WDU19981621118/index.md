@@ -290,7 +290,7 @@ source: pdf
 - **2)** trwałości lub przewidywanego okresu niezdolności do pracy,
 - **3)** związku przyczynowego niezdolności do pracy lub śmierci z określonymi okolicznościami,
 - **4)** trwałości lub przewidywanego okresu niezdolności do samodzielnej egzystencji,
-- **5)** celowości przekwalifikowania zawodowego – jest dokonywana w formie orzeczenia wydanego na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.>
+- **5)** celowości przekwalifikowania zawodowego – jest dokonywana w formie orzeczenia wydanego na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
 2. Jeżeli nie ma możliwości ustalenia daty powstania niezdolności do pracy, natomiast ustalono okres, w którym niezdolność do pracy powstała, za datę powstania niezdolności przyjmuje się datę końcową tego okresu. Jeżeli nie ma możliwości ustalenia ani daty, ani okresu powstania niezdolności do pracy, za datę powstania niezdolności przyjmuje się datę zgłoszenia wniosku o świadczenie. [2a. Od orzeczenia lekarza orzecznika osobie zainteresowanej przysługuje sprzeciw do komisji lekarskiej Zakładu, zwanej dalej „komisją lekarską”, w ciągu 14 dni od dnia doręczenia tego orzeczenia.
 

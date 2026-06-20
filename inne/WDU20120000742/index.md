@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw
+# Ustawa z dnia 14 czerwca 2012 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 czerwca 2012 r.*
 

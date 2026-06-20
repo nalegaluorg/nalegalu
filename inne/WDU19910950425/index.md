@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie oświaty Preambuła (uchylona)
+# Ustawa z dnia 7 września 1991 r. o systemie oświaty.
 
 *USTAWA z dnia 7 września 1991 r.*
 
@@ -27,583 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-05-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910950425) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/425/text.pdf) |
 
-Art. 44zs. Egzamin ósmoklasisty jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego dla szkoły podstawowej, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. b ustawy – Prawo oświatowe, oraz sprawdza, w jakim stopniu uczeń lub słuchacz spełnia te wymagania.
-Art. 44zt. Egzamin ósmoklasisty jest przeprowadzany:
-1) w terminie głównym:
-a) w szkołach dla dzieci i młodzieży oraz w szkołach dla dorosłych, w których nauka kończy się w semestrze wiosennym – w maju,
-b) w szkołach dla dorosłych, w których nauka kończy się w semestrze jesiennym – w styczniu, oraz
-2) w terminie dodatkowym:
-a) w szkołach dla dzieci i młodzieży oraz w szkołach dla dorosłych, w których nauka kończy się w semestrze wiosennym – w czerwcu,
-b) w szkołach dla dorosłych, w których nauka kończy się w semestrze jesiennym – w maju – zgodnie z komunikatem, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze.
-Art. 44zu. 1. Egzamin ósmoklasisty jest przeprowadzany w formie pisemnej.
-2. (uchylony)
-3. Egzamin ósmoklasisty obejmuje następujące przedmioty obowiązkowe:
-1) język polski;
-2) matematykę;
-3) język obcy nowożytny.
-4) (uchylony)
-4. Uczeń lub słuchacz przystępuje do egzaminu ósmoklasisty z języka obcego nowożytnego, którego uczy się w szkole w ramach obowiązkowych zajęć edukacyjnych.
-4a. Egzamin ósmoklasisty z języka obcego nowożytnego jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego dla języka obcego nowożytnego nauczanego od klasy IV szkoły podstawowej, stanowiącego kontynuację nauczania tego języka w klasach I–III.
-5. (uchylony)
-6. (uchylony)
-7. (uchylony)
-Art. 44zv. Uczeń szkoły lub oddziału, w którym zajęcia edukacyjne są prowadzone w języku mniejszości narodowej, mniejszości etnicznej lub języku regionalnym, przystępuje do egzaminu ósmoklasisty z matematyki w języku polskim albo w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
-Art. 44zw. 1. Uczeń posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym lub niepełnosprawności sprzężone, gdy jedną z niepełnosprawności jest niepełnosprawność intelektualna w stopniu umiarkowanym lub znacznym, nie przystępuje do egzaminu ósmoklasisty.
-2. Uczeń posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawności sprzężone inne niż wymienione w ust. 1 może być zwolniony przez dyrektora okręgowej komisji egzaminacyjnej z obowiązku przystąpienia do egzaminu ósmoklasisty, na wniosek rodziców pozytywnie zaopiniowany przez dyrektora szkoły.
-3. (uchylony)
-4. W szczególnych przypadkach zdrowotnych, uniemożliwiających uczniowi lub słuchaczowi przystąpienie do egzaminu ósmoklasisty, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić ucznia lub słuchacza z obowiązku przystąpienia do tego egzaminu. Dyrektor szkoły składa wniosek w porozumieniu z rodzicami ucznia lub ze słuchaczem.
-Art. 44zx. 1. Laureat i finalista olimpiady przedmiotowej wymienionej w wykazie, o którym mowa w art. 44zzzw, oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzanego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, organizowanych z zakresu jednego z przedmiotów objętych egzaminem ósmoklasisty, są zwolnieni z egzaminu ósmoklasisty z tego przedmiotu.
-2. Zwolnienie, o którym mowa w ust. 1, następuje na podstawie zaświadczenia stwierdzającego uzyskanie odpowiednio przez ucznia lub słuchacza szkoły podstawowej lub ucznia szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej tytułu odpowiednio laureata lub finalisty. Zaświadczenie przedkłada się przewodniczącemu zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3.
-3. Zwolnienie, o którym mowa w ust. 1, jest równoznaczne z uzyskaniem z egzaminu ósmoklasisty z danego przedmiotu najwyższego wyniku.
-4. W przypadku gdy uczeń lub słuchacz uzyskał tytuł laureata lub finalisty, o których mowa w ust. 1, z innego języka obcego nowożytnego niż ten, który został zadeklarowany, dyrektor szkoły, na wniosek rodziców ucznia lub na wniosek słuchacza, złożony nie później niż na 2 tygodnie przed terminem egzaminu ósmoklasisty, informuje okręgową komisję egzaminacyjną o zmianie języka obcego nowożytnego, jeżeli języka tego uczeń lub słuchacz uczy się w ramach obowiązkowych zajęć edukacyjnych. Przepisy ust. 3 stosuje się odpowiednio.
-Art. 44zy. 1. Rodzice ucznia lub słuchacz składają dyrektorowi szkoły, nie później niż do dnia 30 września roku szkolnego, w którym jest przeprowadzany egzamin ósmoklasisty, pisemną deklarację:
-1) wskazującą język obcy nowożytny, z którego uczeń lub słuchacz przystąpi do egzaminu ósmoklasisty;
-2) (uchylony)
-3) informującą o zamiarze przystąpienia do egzaminu ósmoklasisty z matematyki w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
-2. Rodzice ucznia lub słuchacz mogą złożyć dyrektorowi szkoły, nie później niż na 3 miesiące przed terminem egzaminu ósmoklasisty, z zastrzeżeniem art. 44zx ust. 4, pisemną informację o:
-1) zmianie języka obcego nowożytnego wskazanego w deklaracji;
-2) (uchylony)
-3) rezygnacji z przystąpienia do egzaminu ósmoklasisty z matematyki w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
-Art. 44zz. 1. Uczeń lub słuchacz, który z przyczyn losowych lub zdrowotnych, w terminie głównym:
-1) nie przystąpił do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów albo
-2) przerwał egzamin ósmoklasisty z danego przedmiotu lub przedmiotów – przystępuje do egzaminu z tego przedmiotu lub przedmiotów w terminie dodatkowym w szkole, której jest uczniem lub słuchaczem.
-2. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających przystąpienie do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów w terminie dodatkowym, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić ucznia lub słuchacza z obowiązku przystąpienia do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów. Dyrektor szkoły składa wniosek w porozumieniu z rodzicami ucznia lub ze słuchaczem.
-Art. 44zza. 1. Wyniki egzaminu ósmoklasisty są przedstawiane w procentach i na skali centylowej.
-2. Wyniki egzaminu ósmoklasisty w procentach ustala dyrektor okręgowej komisji egzaminacyjnej na podstawie:
-1) liczby punktów przyznanych przez egzaminatorów sprawdzających prace egzaminacyjne oraz
-2) elektronicznego odczytu karty odpowiedzi – w przypadku wykorzystania do sprawdzania prac egzaminacyjnych narzędzi elektronicznych.
-3. (uchylony)
-4. Wyniki egzaminu ósmoklasisty obejmują:
-1) wynik z języka polskiego;
-2) wynik z matematyki;
-3) wynik z języka obcego nowożytnego.
-4) (uchylony)
-5. Wyniki egzaminu ósmoklasisty na skali centylowej opracowuje Centralna Komisja Egzaminacyjna na podstawie wyników ustalonych przez dyrektorów okręgowych komisji egzaminacyjnych.
-6. (utracił moc)
-7. Wyniki egzaminu ósmoklasisty nie wpływają na ukończenie szkoły, a w przypadku szkoły artystycznej realizującej kształcenie ogólne z zakresu szkoły podstawowej, w której klasa odpowiadająca klasie VIII szkoły podstawowej nie jest ostatnią klasą w cyklu kształcenia – również na promocję do klasy programowo wyższej.
-8. Dyrektor szkoły przekazuje uczniowi lub jego rodzicom albo słuchaczowi:
-1) zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty, wydane przez okręgową komisję egzaminacyjną, w terminie określonym w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze – w przypadku gdy uczeń lub słuchacz spełnił warunki określone odpowiednio w art. 44q ust. 1 lub 1a, art. 44za ust. 1, art. 44zl ust. 1 lub art. 44zm ust. 1 pkt 2 lub ust. 1a pkt 2, albo
-2) informację o szczegółowych wynikach egzaminu ósmoklasisty, opracowaną przez okręgową komisję egzaminacyjną – w przypadku gdy uczeń lub słuchacz nie spełnił warunków określonych w art. 44q ust. 1 lub 1a, art. 44za ust. 1, art. 44zl ust. 1 lub art. 44zm ust. 1 pkt 2 lub ust. 1a pkt 2.
-Art. 44zzb. Egzamin maturalny jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. c i d ustawy – Prawo oświatowe, oraz sprawdza, w jakim stopniu absolwent spełnia te wymagania.
-Art. 44zzc. Egzamin maturalny jest przeprowadzany jeden raz w ciągu roku, w okresie od maja do września, w terminie głównym, dodatkowym i poprawkowym, zgodnie z komunikatem, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze.
-Art. 44zzd. 1. Egzamin maturalny jest przeprowadzany z przedmiotów obowiązkowych oraz przedmiotów dodatkowych i składa się z części ustnej oraz z części pisemnej.
-2. Egzamin maturalny obejmuje następujące przedmioty obowiązkowe:
-1) w części ustnej:
-a) język polski,
-b) język obcy nowożytny,
-c) język mniejszości narodowej – dla absolwentów szkół lub oddziałów z nauczaniem języka danej mniejszości narodowej;
-2) w części pisemnej:
-a) język polski,
-b) język obcy nowożytny albo język łaciński,
-c) matematykę,
-d) język mniejszości narodowej – dla absolwentów szkół lub oddziałów z nauczaniem języka danej mniejszości narodowej.
-3. Przedmioty dodatkowe, z których jest przeprowadzany egzamin maturalny w części ustnej i w części pisemnej, określają przepisy wydane na podstawie art. 44zzza.
-4. Absolwent przystępuje do egzaminu maturalnego z przedmiotów obowiązkowych oraz do części pisemnej egzaminu maturalnego z jednego przedmiotu dodatkowego.
-4a. Absolwent szkoły lub oddziału dwujęzycznego przystępuje do części pisemnej egzaminu maturalnego z języka obcego nowożytnego, którego uczył się w szkole na poziomie dwujęzycznym i z którego jest przeprowadzany egzamin maturalny, na poziomie dwujęzycznym, o którym mowa w art. 44zze ust. 3 pkt 2, jako przedmiotu dodatkowego, o którym mowa w ust. 4. Przepis art. 44zze ust. 4 stosuje się odpowiednio.
-4b. Obowiązek przystąpienia do części pisemnej egzaminu maturalnego z jednego przedmiotu dodatkowego, o którym mowa w ust. 4, nie dotyczy absolwenta posiadającego:
-1) dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika albo
-2) dyplom zawodowy w zawodzie nauczanym na poziomie technika, albo
-3) świadectwa potwierdzające kwalifikacje w zawodzie ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika, albo
-4) certyfikaty kwalifikacji zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika, albo
-5) świadectwa potwierdzające kwalifikacje w zawodzie i certyfikaty kwalifikacji zawodowych, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika, z uwzględnieniem przepisów wydanych na podstawie art. 11b ust. 8.
-4c. Przepisu ust. 4b nie stosuje się do absolwenta szkoły lub oddziału dwujęzycznego.
-5. Absolwent może w danym roku przystąpić do egzaminu maturalnego z nie więcej niż pięciu przedmiotów dodatkowych oprócz przedmiotu, o którym mowa w ust. 4.
-5a. Absolwent, o którym mowa w ust. 4b, może w danym roku przystąpić do egzaminu maturalnego z nie więcej niż pięciu przedmiotów dodatkowych.
-6. W przypadku przedmiotów dodatkowych, z których egzamin maturalny jest przeprowadzany w części ustnej i w części pisemnej, absolwent może przystąpić do egzaminu maturalnego z tego przedmiotu w części pisemnej albo w części pisemnej i w części ustnej.
-7. Egzamin maturalny z języka obcego nowożytnego jako przedmiotu obowiązkowego jest zdawany w części ustnej i w części pisemnej z tego samego języka.
-8. Absolwent szkoły lub oddziału z nauczaniem języka danej mniejszości narodowej nie może wybrać języka danej mniejszości narodowej na egzaminie maturalnym z języka obcego nowożytnego jako przedmiotu obowiązkowego.
-9. W przypadku gdy absolwent wybrał na egzaminie maturalnym w części pisemnej jako przedmiot dodatkowy ten sam język obcy nowożytny lub ten sam język mniejszości narodowej, który zdawał jako przedmiot obowiązkowy, zdaje ten język tylko w części pisemnej, z zastrzeżeniem art. 44zze ust. 3 i 4.
-10. W przypadku gdy absolwent wybrał na egzaminie maturalnym jako przedmiot dodatkowy język polski, zdaje ten przedmiot tylko w części pisemnej.
-11. Wybór języka obcego nowożytnego jako przedmiotu obowiązkowego i wybór przedmiotu dodatkowego, do których absolwent przystępuje na egzaminie maturalnym, nie jest zależny od typu szkoły, do której absolwent uczęszczał, ani od przedmiotów, których uczył się w tej szkole, z uwzględnieniem ust. 4a.
-Art. 44zze. 1. Egzamin maturalny w części pisemnej z przedmiotów obowiązkowych jest przeprowadzany na poziomie podstawowym i obejmuje wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego. Dla egzaminu maturalnego w części ustnej z przedmiotów obowiązkowych nie określa się poziomu egzaminu.
-2. Egzamin maturalny w części pisemnej z przedmiotów dodatkowych jest przeprowadzany na poziomie rozszerzonym i obejmuje wymagania określone w podstawie programowej kształcenia ogólnego dla:
-1) zakresu podstawowego i rozszerzonego z jednego przedmiotu;
-2) zakresu rozszerzonego z jednego przedmiotu;
-3) zakresu podstawowego z jednego przedmiotu i zakresu rozszerzonego z drugiego przedmiotu.
-2a. Dla egzaminu maturalnego w części ustnej z przedmiotów dodatkowych nie określa się poziomu egzaminu.
-2b. Zakres wymagań określonych w podstawie programowej kształcenia ogólnego dla jednego lub dwóch przedmiotów, na podstawie których jest przeprowadzany egzamin maturalny z danego przedmiotu dodatkowego, określają przepisy wydane na podstawie art. 44zzza.
-3. Egzamin maturalny w części pisemnej z języka obcego nowożytnego jako przedmiotu dodatkowego jest przeprowadzany na:
-1) poziomie rozszerzonym i obejmuje wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego i rozszerzonego albo
-2) poziomie dwujęzycznym i obejmuje wymagania określone w podstawie programowej kształcenia ogólnego dla oddziałów dwujęzycznych.
-4. W przypadku gdy absolwent wybrał na egzaminie maturalnym w części pisemnej jako przedmiot dodatkowy język obcy nowożytny na poziomie dwujęzycznym, o którym mowa w ust. 3 pkt 2, może przystąpić do egzaminu maturalnego z tego języka na poziomie dwujęzycznym również w części ustnej.
-Art. 44zzf. 1. Absolwent szkoły lub oddziału z językiem nauczania mniejszości narodowej, mniejszości etnicznej lub językiem regionalnym, w których zajęcia są prowadzone w tych językach, oraz absolwent szkoły lub oddziału dwujęzycznego, w których język mniejszości narodowej, mniejszości etnicznej lub język regionalny jest drugim językiem nauczania, może zdawać na egzaminie maturalnym przedmioty w języku polskim lub – z wyjątkiem języka polskiego oraz treści dotyczących historii Polski i geografii Polski – w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
-2. Absolwent szkoły ponadpodstawowej dwujęzycznej lub oddziału dwujęzycznego w szkole ponadpodstawowej ogólnodostępnej na egzaminie maturalnym z matematyki, zdawanej jako przedmiot obowiązkowy, rozwiązuje w języku polskim zadania egzaminacyjne przygotowane dla absolwentów zdających egzamin maturalny w języku polskim oraz może rozwiązać w języku obcym nowożytnym, którego uczył się w szkole na poziomie dwujęzycznym i z którego jest przeprowadzany egzamin maturalny, dodatkowe zadania egzaminacyjne przygotowane w tym języku. Dodatkowe zadania egzaminacyjne obejmują wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego.
-3. Absolwent szkoły ponadpodstawowej dwujęzycznej lub oddziału dwujęzycznego w szkole ponadpodstawowej ogólnodostępnej na egzaminie maturalnym z przedmiotów: biologia, chemia, fizyka, geografia i historia, zdawanych jako przedmioty dodatkowe, rozwiązuje w języku polskim zadania egzaminacyjne przygotowane dla absolwentów zdających egzamin maturalny w języku polskim oraz może rozwiązać w języku obcym nowożytnym, którego uczył się w szkole na poziomie dwujęzycznym i z którego jest przeprowadzany egzamin maturalny, dodatkowe zadania egzaminacyjne przygotowane w tym języku. Dodatkowe zadania egzaminacyjne obejmują wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego i rozszerzonego.
-4. W przypadku zgłoszenia w deklaracji, o której mowa w art. 44zzi, zamiaru rozwiązywania dodatkowych zadań egzaminacyjnych, o których mowa w ust. 2 i 3, i nieprzystąpienia do rozwiązywania tych zadań, absolwent otrzymuje z dodatkowych zadań egzaminacyjnych wynik „0 %”.
-Art. 44zzg. 1. Absolwent niesłyszący jest zwolniony z części ustnej egzaminu maturalnego z języka obcego nowożytnego.
-2. Absolwent, który ze względu na niepełnosprawność lub stan zdrowia trwale nie posługuje się mową, jest zwolniony z części ustnej egzaminu maturalnego.
-Art. 44zzh. 1. Laureat i finalista olimpiady przedmiotowej wymienionej w wykazie, o którym mowa w art. 44zzzw, są zwolnieni z egzaminu maturalnego z danego przedmiotu.
-2. Zwolnienie, o którym mowa w ust. 1, następuje na podstawie zaświadczenia stwierdzającego uzyskanie przez ucznia lub słuchacza szkoły ponadpodstawowej lub ucznia szkoły artystycznej realizującej kształcenie ogólne w zakresie liceum ogólnokształcącego tytułu odpowiednio laureata lub finalisty. Zaświadczenie przedkłada się przewodniczącemu zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3.
-3. W przypadku absolwenta szkoły ponadpodstawowej dwujęzycznej lub oddziału dwujęzycznego w szkole ponadpodstawowej ogólnodostępnej, który uzyskał tytuł laureata lub finalisty olimpiady przedmiotowej z przedmiotu nauczanego w języku obcym nowożytnym będącym drugim językiem nauczania, zwolnienie z egzaminu maturalnego z danego przedmiotu nie obejmuje dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3.
-4. Laureatowi i finaliście olimpiady przedmiotowej uprawnienie wymienione w ust. 1 przysługuje także wtedy, gdy nie uczestniczyli w zajęciach edukacyjnych z danego przedmiotu w szkole.
-5. W przypadku gdy uczeń lub słuchacz uzyskał tytuł laureata lub finalisty olimpiady przedmiotowej z danego przedmiotu, w tym z danego języka obcego nowożytnego albo języka łacińskiego, przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3, na wniosek ucznia lub słuchacza, złożony nie później niż na 2 tygodnie przed terminem egzaminu maturalnego, informuje okręgową komisję egzaminacyjną o zmianie przedmiotu lub wyborze nowego przedmiotu, w tym o zmianie języka obcego nowożytnego albo języka łacińskiego, lub o zmianie poziomu egzaminu z języka obcego nowożytnego, wskazanych w deklaracji, o której mowa w art. 44zzi.
-6. Zwolnienie laureata lub finalisty olimpiady przedmiotowej z egzaminu maturalnego z:
-1) przedmiotu obowiązkowego zdawanego w części ustnej – jest równoznaczne z uzyskaniem z tego przedmiotu w części ustnej egzaminu maturalnego najwyższego wyniku;
-2) przedmiotu obowiązkowego zdawanego w części pisemnej – jest równoznaczne z uzyskaniem z tego przedmiotu w części pisemnej egzaminu maturalnego najwyższego wyniku na poziomie podstawowym;
-3) języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części ustnej – jest równoznaczne z uzyskaniem z tego języka w części ustnej egzaminu maturalnego najwyższego wyniku, z zastrzeżeniem pkt 4;
-4) języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części ustnej na poziomie dwujęzycznym – jest równoznaczne z uzyskaniem z tego języka w części ustnej egzaminu maturalnego najwyższego wyniku na poziomie dwujęzycznym;
-5) przedmiotu dodatkowego, z wyjątkiem języka obcego nowożytnego, zdawanego w części pisemnej – jest równoznaczne z uzyskaniem z tego przedmiotu w części pisemnej egzaminu maturalnego najwyższego wyniku na poziomie rozszerzonym;
-6) języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części pisemnej – jest równoznaczne z uzyskaniem z tego języka w części pisemnej egzaminu maturalnego najwyższego wyniku na poziomie:
-a) wskazanym w deklaracji, o której mowa w art. 44zzi,
-b) dwujęzycznym – w przypadku absolwenta, o którym mowa w art. 44zzd ust. 4a.
-Art. 44zzi. Zdający, który zamierza przystąpić do egzaminu maturalnego, składa pisemną deklarację przystąpienia do tego egzaminu.
-Art. 44zzia. Zdający, który wskazał w deklaracji, o której mowa w art. 44zzi, przedmiot dodatkowy, o którym mowa w art. 44zzd ust. 4, lub przedmioty dodatkowe, o których mowa w art. 44zzd ust. 5, oraz który spełnił warunek, o którym mowa w art. 44zzd ust. 4b, może złożyć dyrektorowi szkoły, nie później niż na 2 tygodnie przed terminem egzaminu maturalnego, pisemną informację o rezygnacji z przystąpienia do egzaminu maturalnego z tego przedmiotu dodatkowego lub tych przedmiotów dodatkowych. Dyrektor szkoły niezwłocznie przesyła tę informację do dyrektora okręgowej komisji egzaminacyjnej.
-Art. 44zzj. 1. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających przystąpienie do egzaminu maturalnego z danego przedmiotu lub przedmiotów w części ustnej lub części pisemnej w terminie głównym, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek absolwenta lub rodziców niepełnoletniego absolwenta, może wyrazić zgodę na przystąpienie przez absolwenta do egzaminu maturalnego z tego przedmiotu lub przedmiotów w terminie dodatkowym.
-2. Wniosek, o którym mowa w ust. 1, absolwent lub rodzice niepełnoletniego absolwenta składają do dyrektora szkoły, w której absolwent przystępuje do egzaminu maturalnego, nie później niż w dniu, w którym odbywa się egzamin maturalny z danego przedmiotu. Dyrektor szkoły przekazuje wniosek wraz z załączonymi do niego dokumentami dyrektorowi okręgowej komisji egzaminacyjnej nie później niż następnego dnia po otrzymaniu wniosku.
-3. Dyrektor okręgowej komisji egzaminacyjnej rozpatruje wniosek, o którym mowa w ust. 1, w terminie 2 dni od dnia jego otrzymania. Rozstrzygnięcie dyrektora okręgowej komisji egzaminacyjnej jest ostateczne.
-4. Do absolwentów, którzy nie przystąpili do egzaminu maturalnego z danego przedmiotu lub przedmiotów w terminie głównym albo w terminie dodatkowym, stosuje się odpowiednio art. 44zzn.
-Art. 44zzk. 1. Wyniki egzaminu maturalnego są przedstawiane:
-1) w części ustnej – w procentach;
-2) w części pisemnej – w procentach i na skali centylowej, z tym że wyniki z egzaminu maturalnego z dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3, są przedstawiane wyłącznie w procentach.
-2. Wyniki egzaminu maturalnego w procentach ustala dyrektor okręgowej komisji egzaminacyjnej na podstawie:
-1) liczby punktów przyznanych przez zespół przedmiotowy, o którym mowa w art. 44zzs ust. 4 pkt 2 – w części ustnej egzaminu maturalnego;
-2) liczby punktów przyznanych przez egzaminatorów sprawdzających prace egzaminacyjne oraz elektronicznego odczytu karty odpowiedzi w przypadku wykorzystania do sprawdzania prac egzaminacyjnych narzędzi elektronicznych – w części pisemnej egzaminu maturalnego.
-3. Wyniki części pisemnej egzaminu maturalnego z poszczególnych przedmiotów na skali centylowej opracowuje Centralna Komisja Egzaminacyjna na podstawie wyników ustalonych przez dyrektorów okręgowych komisji egzaminacyjnych.
-4. (uchylony)
-Art. 44zzl. 1. Absolwent zdał egzamin maturalny, jeżeli:
-1) z każdego przedmiotu obowiązkowego w części ustnej i w części pisemnej otrzymał co najmniej 30 % punktów możliwych do uzyskania, oraz
-2) z co najmniej jednego przedmiotu dodatkowego w części pisemnej otrzymał co najmniej 30 % punktów możliwych do uzyskania – z zastrzeżeniem ust. 1a.
-1a. Absolwent, o którym mowa w art. 44zzd ust. 4b, zdał egzamin maturalny, jeżeli z każdego przedmiotu obowiązkowego w części ustnej i w części pisemnej otrzymał co najmniej 30 % punktów możliwych do uzyskania.
-2. (uchylony)
-3. Niezdanie lub nieprzystąpienie do egzaminu maturalnego z:
-1) przedmiotu lub przedmiotów obowiązkowych w części ustnej lub w części pisemnej, albo
-2) przedmiotu lub przedmiotów dodatkowych w części ustnej lub części pisemnej – nie stanowi przeszkody w przystępowaniu do egzaminu maturalnego z pozostałych przedmiotów.
-4. Absolwent, który zdał egzamin maturalny, otrzymuje świadectwo dojrzałości wydane przez okręgową komisję egzaminacyjną.
-5. Absolwent, który nie zdał egzaminu maturalnego, otrzymuje informację o wynikach tego egzaminu opracowaną przez okręgową komisję egzaminacyjną.
-Art. 44zzm. 1. Absolwent, który przystąpił do egzaminu maturalnego ze wszystkich przedmiotów obowiązkowych w części ustnej i w części pisemnej oraz do co najmniej jednego przedmiotu dodatkowego w części pisemnej i nie zdał egzaminu maturalnego wyłącznie z jednego przedmiotu obowiązkowego w części ustnej albo w części pisemnej albo nie zdał egzaminu z co najmniej jednego przedmiotu dodatkowego w części pisemnej, może w tym samym roku przystąpić do egzaminu maturalnego z tego samego przedmiotu obowiązkowego odpowiednio w części ustnej albo w części pisemnej albo tego samego przedmiotu dodatkowego w części pisemnej, w terminie poprawkowym, z zastrzeżeniem ust. 1a.
-1a. Absolwent, o którym mowa w art. 44zzd ust. 4b, który przystąpił do egzaminu maturalnego ze wszystkich przedmiotów obowiązkowych w części ustnej i w części pisemnej i nie zdał egzaminu maturalnego wyłącznie z jednego przedmiotu obowiązkowego w części ustnej albo w części pisemnej, może w tym samym roku przystąpić do egzaminu maturalnego z tego samego przedmiotu obowiązkowego odpowiednio w części ustnej albo w części pisemnej, w terminie poprawkowym.
-2. Przepisów ust. 1 i 1a nie stosuje się w przypadku gdy egzamin maturalny z przedmiotu lub przedmiotów, o których mowa w ust. 1 lub 1a, został unieważniony.
-3. Absolwent, o którym mowa w ust. 1 lub 1a, w terminie 7 dni od dnia ogłoszenia wyników egzaminu maturalnego, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze, składa przewodniczącemu zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3, pisemne oświadczenie o zamiarze przystąpienia do egzaminu maturalnego z danego przedmiotu w terminie poprawkowym.
-Art. 44zzn. 1. Absolwent, który nie zdał egzaminu maturalnego z danego przedmiotu lub przedmiotów obowiązkowych w części ustnej lub w części pisemnej, może przystąpić ponownie do części ustnej lub części pisemnej egzaminu maturalnego z tego przedmiotu lub przedmiotów, zgodnie z przepisami obowiązującymi w roku, w którym przystępował do egzaminu maturalnego po raz pierwszy, w okresie 5 lat od pierwszego egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy.
-2. Absolwent, który nie zdał egzaminu maturalnego z co najmniej jednego przedmiotu dodatkowego w części pisemnej, może przystąpić ponownie do egzaminu maturalnego z dowolnego przedmiotu dodatkowego, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego, w okresie 5 lat od pierwszego egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, z zastrzeżeniem art. 44zzd ust. 4a.
-3. Absolwent, o którym mowa w ust. 1 i 2, ma prawo przystąpić do egzaminu maturalnego, zarówno w części ustnej, jak i w części pisemnej, z przedmiotu lub przedmiotów dodatkowych, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego.
-4. Absolwent, o którym mowa w ust. 1 i 2, ma prawo ponownie przystąpić do egzaminu maturalnego, zarówno w części ustnej, jak i w części pisemnej, z przedmiotu lub przedmiotów obowiązkowych, z których uzyskał wynik określony w art. 44zzl ust. 1 lub 1a, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego.
-5. Absolwent, o którym mowa w ust. 1, przystępujący ponownie do egzaminu maturalnego może wybrać jako przedmiot obowiązkowy:
-1) inny język obcy nowożytny niż język obcy nowożytny, który zdawał poprzednio, albo język łaciński – w przypadku gdy poprzednio przystępował do egzaminu maturalnego z języka obcego nowożytnego jako przedmiotu obowiązkowego;
-2) język obcy nowożytny – jeżeli poprzednio przystępował do egzaminu maturalnego z języka łacińskiego jako przedmiotu obowiązkowego.
-5a. W przypadku, o którym mowa w ust. 5 pkt 1, gdy absolwent, o którym mowa w ust. 1, przystępując ponownie do egzaminu maturalnego, wybierze jako przedmiot obowiązkowy język łaciński i zda ten egzamin, na świadectwie dojrzałości wpisuje się tylko wynik części pisemnej egzaminu maturalnego z języka łacińskiego.
-5b. W przypadku, o którym mowa w ust. 5 pkt 2, gdy absolwent, o którym mowa w ust. 1, przystępując ponownie do egzaminu maturalnego, wybierze jako przedmiot obowiązkowy język obcy nowożytny, przystępuje do tego egzaminu zarówno w części ustnej, jak i w części pisemnej.
-6. Absolwent, o którym mowa w ust. 1, przystępujący ponownie do egzaminu maturalnego, nie może wybrać jako przedmiotu obowiązkowego języka obcego nowożytnego, z którego poprzednio przystąpił do egzaminu maturalnego jako przedmiotu dodatkowego w części ustnej bez określania poziomu egzaminu.
-7. Po upływie 5 lat od daty pierwszego przystąpienia do egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, absolwent, o którym mowa w ust. 1 i 2, przystępuje do egzaminu maturalnego w pełnym zakresie, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego.
-8. W przypadku zgłoszenia w deklaracji, o której mowa w art. 44zzi, zamiaru przystąpienia do egzaminu maturalnego z przedmiotu dodatkowego, o którym mowa w art. 44zzd ust. 5 lub 5a, i nieprzystąpienia do egzaminu maturalnego z tego przedmiotu, absolwent otrzymuje z egzaminu maturalnego z tego przedmiotu wynik „0 %”.
-Art. 44zzna. 1. Absolwent, który nie zdał egzaminu maturalnego z co najmniej jednego przedmiotu dodatkowego w części pisemnej, może otrzymać świadectwo dojrzałości wydane przez okręgową komisję egzaminacyjną, jeżeli w okresie 5 lat od pierwszego egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, spełnił warunek, o którym mowa w art. 44zzd ust. 4b.
-2. Po upływie 5 lat od daty pierwszego przystąpienia do egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, absolwent, o którym mowa w ust. 1, przystępuje do egzaminu maturalnego w pełnym zakresie, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego.
-Art. 44zzo. 1. Absolwent, który uzyskał świadectwo dojrzałości po zdaniu egzaminu maturalnego, ma prawo ponownie przystąpić do egzaminu maturalnego, w części pisemnej albo w części pisemnej i w części ustnej, z wybranego przedmiotu albo wybranych przedmiotów, z których jest przeprowadzany egzamin maturalny, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego, w tym do rozwiązywania dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3.
-2. Absolwent, o którym mowa w ust. 1, który:
-1) podwyższył wynik egzaminu maturalnego z danego przedmiotu lub przedmiotów,
-2) podwyższył wynik egzaminu maturalnego z dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3,
-3) przystąpił do egzaminu maturalnego z przedmiotu lub przedmiotów dodatkowych, z których wcześniej nie zdawał egzaminu maturalnego,
-4) przystąpił do egzaminu maturalnego z dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3, z których wcześniej nie zdawał egzaminu maturalnego – otrzymuje aneks do świadectwa dojrzałości wydany przez okręgową komisję egzaminacyjną.
-Art. 44zzp. 1. Absolwent, który posiada:
-1) świadectwo dojrzałości uzyskane po zdaniu egzaminu dojrzałości przeprowadzanego dla absolwentów ponadpodstawowych szkół średnich,
-2) dyplom IB (International Baccalaureate) wydany przez organizację International Baccalaureate Organization w Genewie i uzyskany po zakończeniu kształcenia w oddziale międzynarodowym, o którym mowa w art. 4 pkt 12 ustawy – Prawo oświatowe – ma prawo przystąpić do egzaminu maturalnego, w części pisemnej albo w części pisemnej i w części ustnej, z wybranego przedmiotu albo wybranych przedmiotów, z których jest przeprowadzany egzamin maturalny, zgodnie z przepisami obowiązującymi w roku, w którym przystępuje do egzaminu maturalnego.
-2. Absolwent, o którym mowa w ust. 1, otrzymuje zaświadczenie o wynikach egzaminu maturalnego z przedmiotu lub przedmiotów, do których przystąpił, wydane przez okręgową komisję egzaminacyjną.
-3. Absolwent, o którym mowa w ust. 1, ma prawo ponownie przystąpić do egzaminu maturalnego w części ustnej albo w części pisemnej, albo w obu tych częściach, z tych samych przedmiotów, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego. Absolwent, który podwyższył wynik egzaminu maturalnego z danego przedmiotu lub przedmiotów, otrzymuje zaświadczenie o wynikach egzaminu maturalnego z przedmiotu lub przedmiotów, do których przystąpił, wydane przez okręgową komisję egzaminacyjną.
-Art. 44zzq. 1. Egzamin maturalny z każdego przedmiotu obowiązkowego i przedmiotu dodatkowego, zarówno w części ustnej, jak i w części pisemnej, jest odpłatny dla:
-1) absolwentów, którzy po raz trzeci i kolejny przystępują do egzaminu maturalnego z tego samego przedmiotu obowiązkowego lub z tego samego przedmiotu dodatkowego;
-2) absolwentów, którzy przystępują do egzaminu maturalnego z tego samego przedmiotu dodatkowego, który w poprzednim roku lub w poprzednich latach zgłaszali w deklaracji, o której mowa w art. 44zzi, ale nie przystąpili do egzaminu maturalnego z tego przedmiotu.
-1a. Opłata za egzamin maturalny, o której mowa w ust. 1, jest wnoszona wyłącznie za przystąpienie do egzaminu maturalnego w terminie głównym.
-2. Opłata za egzamin maturalny, o której mowa w ust. 1, stanowi dochód budżetu państwa. Opłata nie podlega zwrotowi. Jeżeli absolwent wniósł opłatę za egzamin maturalny, a następnie dyrektor okręgowej komisji egzaminacyjnej zwolnił absolwenta z tej opłaty na podstawie ust. 3b, dyrektor okręgowej komisji egzaminacyjnej zwraca absolwentowi tę opłatę.
-3. Opłatę za egzamin maturalny, o której mowa w ust. 1, wnosi się w terminie od dnia 1 stycznia do dnia 7 marca roku kalendarzowego, w którym absolwent zamierza przystąpić do egzaminu maturalnego, na rachunek bankowy wskazany przez dyrektora okręgowej komisji egzaminacyjnej. Niewniesienie w tym terminie opłaty za egzamin maturalny, o której mowa w ust. 1, skutkuje brakiem możliwości przystąpienia do tego egzaminu.
-3a. W szczególnych przypadkach losowych lub zdrowotnych dyrektor okręgowej komisji egzaminacyjnej w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, na udokumentowany wniosek absolwenta, może wyrazić zgodę na wniesienie przez absolwenta opłaty, o której mowa w ust. 1, po terminie określonym w ust. 3, jednakże nie później niż do dnia 31 marca.
-3b. W przypadku absolwenta, o którym mowa w art. 44zzia, dyrektor okręgowej komisji egzaminacyjnej zwalnia z urzędu absolwenta z opłaty, o której mowa w ust. 1 pkt 2.
-4. Dyrektor okręgowej komisji egzaminacyjnej może zwolnić z opłaty, o której mowa w ust. 1, osobę o niskim dochodzie, na jej wniosek, jeżeli ten dochód nie jest większy niż kwota, o której mowa w art. 5 ust. 1 ustawy z dnia 28 listopada 2003 r.
-o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871 oraz z 2025 r. poz. 619 i 620).
-Art. 44zzr. 1. Uczeń lub absolwent posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach i formie dostosowanych do rodzaju niepełnosprawności, na podstawie tego orzeczenia.
-2. Uczeń lub absolwent posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, wynikających odpowiednio z niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym, na podstawie tego orzeczenia.
-3. Uczeń posiadający orzeczenie o potrzebie indywidualnego nauczania lub absolwent, który w roku szkolnym, w którym przystępuje do egzaminu maturalnego, posiadał orzeczenie o potrzebie indywidualnego nauczania, może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z jego stanu zdrowia, na podstawie tego orzeczenia.
-4. Uczeń, słuchacz albo absolwent chory lub niesprawny czasowo może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach odpowiednich ze względu na jego stan zdrowia, na podstawie zaświadczenia o stanie zdrowia wydanego przez lekarza.
-5. Uczeń, słuchacz albo absolwent posiadający opinię poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, o specyficznych trudnościach w uczeniu się, wydaną zgodnie z przepisami wydanymi na podstawie art. 44zb, może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z rodzaju tych trudności, na podstawie tej opinii.
-6. Uczeń, słuchacz albo absolwent, który w roku szkolnym, w którym przystępuje do egzaminu ósmoklasisty lub egzaminu maturalnego, był objęty pomocą psychologiczno-pedagogiczną w szkole ze względu na trudności adaptacyjne związane z wcześniejszym kształceniem za granicą, zaburzenia komunikacji językowej lub sytuację kryzysową lub traumatyczną, może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających odpowiednio z rodzaju tych trudności, zaburzeń lub sytuacji kryzysowej lub traumatycznej, na podstawie pozytywnej opinii rady pedagogicznej.
-7. Uczeń albo absolwent, o którym mowa w art. 165 ust. 1 i 2 ustawy – Prawo oświatowe, któremu ograniczona znajomość języka polskiego utrudnia zrozumienie czytanego tekstu, może przystąpić do:
-1) egzaminu ósmoklasisty, z wyjątkiem egzaminu ósmoklasisty z języka obcego nowożytnego w warunkach i formie dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z tego ograniczenia, na podstawie pozytywnej opinii rady pedagogicznej;
-2) egzaminu maturalnego, z wyjątkiem egzaminu maturalnego z języka obcego nowożytnego, języka łacińskiego, języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego – w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z tego ograniczenia, na podstawie pozytywnej opinii rady pedagogicznej.
-8. Dostosowanie formy egzaminu ósmoklasisty i egzaminu maturalnego, o którym mowa w ust. 1, polega na przygotowaniu odrębnych arkuszy egzaminacyjnych dostosowanych do rodzaju niepełnosprawności ucznia lub absolwenta niepełnosprawnego, z tym że nie przygotowuje się odrębnych arkuszy egzaminacyjnych dla absolwentów posiadających orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu lekkim.
-9. Dostosowanie formy egzaminu ósmoklasisty, o którym mowa w ust. 7 pkt 1, polega na przygotowaniu odrębnych arkuszy egzaminacyjnych dostosowanych do potrzeb ucznia, któremu ograniczona znajomość języka polskiego utrudnia zrozumienie czytanego tekstu.
-10. Dostosowanie warunków przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego, o których mowa w ust. 1–7, polega odpowiednio na:
-1) zminimalizowaniu ograniczeń wynikających z niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym ucznia, słuchacza albo absolwenta;
-2) zapewnieniu uczniowi, słuchaczowi albo absolwentowi miejsca pracy odpowiedniego do jego potrzeb edukacyjnych oraz możliwości psychofizycznych;
-3) wykorzystaniu odpowiedniego sprzętu specjalistycznego, aplikacji mobilnej służącej do monitorowania stanu zdrowia ucznia, słuchacza albo absolwenta i środków dydaktycznych;
-4) odpowiednim przedłużeniu czasu przewidzianego na przeprowadzenie egzaminu ósmoklasisty i egzaminu maturalnego;
-5) ustaleniu zasad oceniania rozwiązań zadań wykorzystywanych do przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego, o których mowa w art. 9a ust. 2 pkt 2, uwzględniających potrzeby edukacyjne oraz możliwości psychofizyczne ucznia, słuchacza albo absolwenta;
-6) zapewnieniu obecności i pomocy w czasie egzaminu ósmoklasisty i egzaminu maturalnego nauczyciela wspomagającego ucznia lub absolwenta w czytaniu lub pisaniu lub specjalisty odpowiednio z zakresu danego rodzaju niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym, jeżeli jest to niezbędne do uzyskania właściwego kontaktu z uczniem lub absolwentem lub pomocy w obsłudze sprzętu specjalistycznego, aplikacji mobilnej służącej do monitorowania stanu zdrowia ucznia lub absolwenta i środków dydaktycznych.
-11. Dla ucznia, słuchacza albo absolwenta, o którym mowa w ust. 2–6, nie przygotowuje się odrębnych arkuszy egzaminacyjnych.
-12. Rada pedagogiczna, spośród możliwych sposobów dostosowania warunków i form przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego, wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, wskazuje sposób lub sposoby dostosowania warunków lub formy przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego dla ucznia, słuchacza albo absolwenta, o którym mowa w ust. 1–7.
-13. Dyrektor szkoły lub upoważniony przez niego nauczyciel informuje na piśmie ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców, o wskazanych sposobach dostosowania warunków i form przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego do jego potrzeb edukacyjnych i możliwości psychofizycznych.
-14. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, składają oświadczenie o korzystaniu albo niekorzystaniu ze wskazanych sposobów dostosowania, o których mowa w ust. 13, w terminie 3 dni roboczych od dnia otrzymania informacji, o której mowa w ust. 13.
-15. W przypadku absolwenta, o którym mowa w ust. 4 i 5, który ukończył szkołę we wcześniejszych latach, sposób lub sposoby dostosowania warunków przeprowadzania egzaminu maturalnego do potrzeb i możliwości absolwenta, spośród możliwych sposobów dostosowania warunków przeprowadzania egzaminu maturalnego, wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, wskazuje przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3. Przepisy ust. 13 i 14 stosuje się odpowiednio.
-16. Przystąpienie do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach i formie dostosowanych do potrzeb i możliwości ucznia, słuchacza albo absolwenta, o którym mowa w ust. 1–7, zapewnia przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3.
-17. W szczególnych przypadkach losowych lub zdrowotnych dyrektor szkoły, na wniosek rady pedagogicznej, może wystąpić do dyrektora okręgowej komisji egzaminacyjnej z wnioskiem o wyrażenie zgody na przystąpienie ucznia, słuchacza albo absolwenta do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, nieujętych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie.
-Art. 44zzra. (uchylony)
-Art. 44zzs. 1. Za organizację i przebieg egzaminu ósmoklasisty lub egzaminu maturalnego w danej szkole odpowiada dyrektor tej szkoły.
-2. Do przeprowadzenia egzaminu ósmoklasisty lub egzaminu maturalnego w danej szkole dyrektor szkoły powołuje zespół egzaminacyjny.
-3. Dyrektor szkoły jest przewodniczącym zespołu egzaminacyjnego.
-W przypadku choroby przewodniczącego zespołu egzaminacyjnego lub innych ważnych przyczyn uniemożliwiających jego udział w egzaminie ósmoklasisty lub egzaminie maturalnym albo wynikających z konieczności zapewnienia właściwej organizacji tych egzaminów, przewodniczącym zespołu egzaminacyjnego może być osoba wskazana przez dyrektora okręgowej komisji egzaminacyjnej.
-4. Przewodniczący zespołu egzaminacyjnego, spośród członków zespołu egzaminacyjnego, powołuje odpowiednio:
-1) zespoły nadzorujące przebieg egzaminu ósmoklasisty lub części pisemnej egzaminu maturalnego w poszczególnych salach egzaminacyjnych oraz wyznacza przewodniczących tych zespołów;
-2) zespoły przedmiotowe do przeprowadzenia części ustnej egzaminu maturalnego z poszczególnych przedmiotów oraz wyznacza przewodniczących tych zespołów.
-5. Przewodniczący zespołu egzaminacyjnego organizuje i nadzoruje przebieg w danej szkole odpowiednio egzaminu ósmoklasisty lub egzaminu maturalnego, w tym:
-1) informuje uczniów, słuchaczy albo absolwentów, którzy zamierzają przystąpić do egzaminu maturalnego, odpowiednio o egzaminie ósmoklasisty i egzaminie maturalnym;
-2) zapewnia przekazanie do okręgowej komisji egzaminacyjnej informacji niezbędnych do przeprowadzenia egzaminu ósmoklasisty lub egzaminu maturalnego;
-3) zapewnia warunki do samodzielnej pracy uczniów, słuchaczy i absolwentów podczas odpowiednio egzaminu ósmoklasisty lub egzaminu maturalnego;
-4) zabezpiecza przed nieuprawnionym ujawnieniem materiały egzaminacyjne niezbędne do przeprowadzenia egzaminu ósmoklasisty lub egzaminu maturalnego od momentu odbioru materiałów egzaminacyjnych do momentu ich przekazania dyrektorowi okręgowej komisji egzaminacyjnej.
-6. Przebieg egzaminu ósmoklasisty i egzaminu maturalnego jest dokumentowany w protokołach tych egzaminów.
-Art. 44zzsa. 1. W przeprowadzaniu egzaminu maturalnego z informatyki może brać udział operator pracowni informatycznej.
-2. Operatorem pracowni informatycznej może być nauczyciel lub osoba pełnoletnia niebędąca nauczycielem i niebędąca uczniem szkoły, w której jest przeprowadzany egzamin maturalny, posiadający kwalifikacje lub umiejętności właściwe dla wykonania zadań, o których mowa w ust. 3, wskazani przez dyrektora szkoły.
-3. Do zadań operatora pracowni informatycznej należy:
-1) przygotowanie wyposażenia stanowisk komputerowych, w tym w materiały i przybory pomocnicze oraz systemy operacyjne, programy użytkowe i języki programowania, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie;
-2) zapewnienie prawidłowego funkcjonowania stanowisk komputerowych, w tym usuwanie awarii występujących na stanowiskach komputerowych w czasie trwania egzaminu maturalnego z informatyki;
-3) zapewnienie warunków do samodzielnej pracy zdających, z uwzględnieniem bezpiecznych i higienicznych warunków w miejscu przeprowadzania egzaminu maturalnego z informatyki;
-4) przeprowadzenie, na polecenie przewodniczącego zespołu nadzorującego, instruktażu stanowiskowego dla zdających;
-5) zabezpieczenie, w sposób trwały, rozwiązań zadań egzaminacyjnych zdających w sposób wskazany w informacji, o której mowa w art. 9a ust. 2 pkt 10 lit. b, do dnia przekazania szkołom świadectw dojrzałości, aneksów do świadectw dojrzałości i zaświadczeń o wynikach egzaminu maturalnego, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze podwójne tiret drugie.
-Art. 44zzt. 1. W czasie trwania egzaminu ósmoklasisty i egzaminu maturalnego każdy uczeń, słuchacz albo absolwent pracuje przy osobnym stoliku, w odległości zapewniającej samodzielność pracy.
-2. Do sali egzaminacyjnej, w której jest przeprowadzany egzamin ósmoklasisty i egzamin maturalny, nie można wnosić materiałów i przyborów pomocniczych niewymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie, oraz żadnych urządzeń telekomunikacyjnych, ani korzystać z nich w tej sali.
-2a. Przepis ust. 2 nie dotyczy urządzenia telekomunikacyjnego wyposażonego w aplikację mobilną służącą do monitorowania stanu zdrowia ucznia, słuchacza albo absolwenta, które można wnieść i z którego można korzystać na warunkach określonych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie.
-3. Uczeń, słuchacz albo absolwent samodzielnie rozwiązuje zadania zawarte w arkuszu egzaminacyjnym, w szczególności tworzy własny tekst lub własne rozwiązania zadań w czasie trwania egzaminu ósmoklasisty lub egzaminu maturalnego.
-Art. 44zzu. 1. Prace egzaminacyjne uczniów, słuchaczy albo absolwentów sprawdzają i przyznają punkty egzaminatorzy wpisani do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, wyznaczeni przez dyrektora okręgowej komisji egzaminacyjnej. Egzaminatorzy stosują zasady oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2.
-2. Prace egzaminacyjne uczniów, słuchaczy albo absolwentów mogą być sprawdzane z wykorzystaniem narzędzi elektronicznych.
-3. Egzaminatorzy, o których mowa w ust. 1, tworzą odpowiednio zespół egzaminatorów w zakresie danego przedmiotu objętego egzaminem ósmoklasisty lub egzaminem maturalnym. W przypadku egzaminu ósmoklasisty z języka obcego nowożytnego egzaminatorzy tworzą zespół egzaminatorów w zakresie danego języka obcego nowożytnego.
-4. Dyrektor okręgowej komisji egzaminacyjnej, spośród członków zespołu egzaminatorów, o którym mowa w ust. 3, wyznacza przewodniczącego tego zespołu i egzaminatorów-weryfikatorów.
-5. Część ustną egzaminu maturalnego z poszczególnych przedmiotów przeprowadzają i przyznają punkty zespoły przedmiotowe, o których mowa w art. 44zzs ust. 4 pkt 2.
-6. Funkcję egzaminatora-weryfikatora może pełnić egzaminator, który w ostatnich 3 latach co najmniej jednokrotnie był egzaminatorem odpowiednio egzaminu ósmoklasisty z danego przedmiotu albo egzaminu maturalnego z danego przedmiotu.
-7. Do zadań egzaminatora-weryfikatora należy sprawdzenie i ocenienie prac egzaminacyjnych wskazanych przez przewodniczącego zespołu egzaminatorów poprzednio sprawdzonych i ocenionych przez egzaminatorów wchodzących w skład danego zespołu egzaminatorów, w celu zweryfikowania poprawności sprawdzenia i ocenienia prac egzaminacyjnych przez tych egzaminatorów.
-8. W przypadku różnicy między liczbą punktów przyznaną przez egzaminatora a liczbą punktów przyznaną przez egzaminatora-weryfikatora o liczbie przyznanych punktów rozstrzyga przewodniczący zespołu egzaminatorów.
-Art. 44zzv. W przypadku:
-1) stwierdzenia niesamodzielnego rozwiązywania zadań przez ucznia, słuchacza albo absolwenta lub
-2) wniesienia lub korzystania przez ucznia, słuchacza albo absolwenta w sali egzaminacyjnej z materiałów lub przyborów pomocniczych niewymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie, albo z urządzenia telekomunikacyjnego, z zastrzeżeniem art. 44zzt ust. 2a, lub
-3) zakłócania przez ucznia, słuchacza albo absolwenta prawidłowego przebiegu egzaminu ósmoklasisty z danego przedmiotu albo części ustnej lub części pisemnej egzaminu maturalnego, w sposób utrudniający pracę pozostałym uczniom, słuchaczom albo absolwentom – przewodniczący zespołu egzaminacyjnego przerywa i unieważnia temu uczniowi, słuchaczowi albo absolwentowi odpowiednio egzamin ósmoklasisty z danego przedmiotu albo egzamin maturalny z danego przedmiotu odpowiednio w części ustnej lub w części pisemnej. Informację o przerwaniu i unieważnieniu zamieszcza się w protokole przebiegu odpowiednio egzaminu ósmoklasisty i egzaminu maturalnego.
-Art. 44zzw. 1. W przypadku stwierdzenia podczas sprawdzania pracy egzaminacyjnej przez egzaminatora:
-1) niesamodzielnego rozwiązania zadania lub zadań przez ucznia, słuchacza albo absolwenta,
-2) występowania w pracy egzaminacyjnej ucznia, słuchacza albo absolwenta jednakowych sformułowań wskazujących na udostępnienie rozwiązań innemu uczniowi, słuchaczowi albo absolwentowi lub korzystanie z rozwiązań innego ucznia, słuchacza albo absolwenta – dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, pisemną informację o zamiarze unieważnienia temu uczniowi, słuchaczowi albo absolwentowi odpowiednio egzaminu ósmoklasisty z danego przedmiotu albo egzaminu maturalnego z danego przedmiotu w części pisemnej. Dyrektor szkoły niezwłocznie przekazuje tę informację uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom.
-2. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mają prawo złożyć wniosek o wgląd do dokumentacji, na podstawie której dyrektor okręgowej komisji egzaminacyjnej zamierza unieważnić odpowiednio egzamin ósmoklasisty z danego przedmiotu albo egzamin maturalny z danego przedmiotu w części pisemnej. Wniosek składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia otrzymania pisemnej informacji, o której mowa w ust. 1.
-3. W terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 2, dyrektor okręgowej komisji egzaminacyjnej umożliwia uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, zapoznanie się z dokumentacją oraz złożenie wyjaśnień, we wskazanym miejscu i czasie.
-4. Dyrektor okręgowej komisji egzaminacyjnej rozstrzyga o unieważnieniu odpowiednio egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej, w terminie 14 dni od dnia:
-1) otrzymania wniosku, o którym mowa w ust. 2, albo
-2) upływu terminu do złożenia wniosku, o którym mowa w ust. 2.
-5. Dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, pisemną informację o unieważnieniu odpowiednio egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej, wraz z uzasadnieniem.
-6. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, w terminie 3 dni roboczych od dnia otrzymania informacji o unieważnieniu, o której mowa w ust. 5, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
-7. Zastrzeżenia, o których mowa w ust. 6, wraz z dokumentacją niezbędną do ich rozpatrzenia, dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców.
-8. Dyrektor Centralnej Komisji Egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 6, w terminie 7 dni od dnia otrzymania zastrzeżeń wraz z dokumentacją niezbędną do ich rozpatrzenia. Rozstrzygnięcie dyrektora Centralnej Komisji Egzaminacyjnej jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
-9. W przypadku braku możliwości przekazania uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, pisemnej informacji, o której mowa w ust. 1, dyrektor szkoły niezwłocznie informuje o tym dyrektora okręgowej komisji egzaminacyjnej, który, w terminie 7 dni od dnia otrzymania informacji od dyrektora szkoły, rozstrzyga o unieważnieniu egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, pisemną informację o tym unieważnieniu wraz z uzasadnieniem uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom. Przepisy ust. 2 i 3 stosuje się odpowiednio.
-10. W przypadku, o którym mowa w ust. 9, uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej, w terminie 3 dni roboczych od dnia:
-1) otrzymania informacji o unieważnieniu, o której mowa w ust. 9, albo
-2) zapoznania się z dokumentacją oraz złożenia wyjaśnień, o których mowa w ust. 2 i 3.
-11. Do zastrzeżeń, o których mowa w ust. 10, przepisy ust. 7 i 8 stosuje się odpowiednio.
-12. Zaświadczenie, o którym mowa w art. 44zza ust. 8 pkt 1, dyrektor okręgowej komisji egzaminacyjnej wydaje po rozstrzygnięciu w sprawie unieważnienia.
-13. Świadectwo dojrzałości, o którym mowa w art. 44zzl ust. 4, dyrektor okręgowej komisji egzaminacyjnej wydaje po rozstrzygnięciu w sprawie unieważnienia, jeżeli w wyniku tego rozstrzygnięcia absolwent spełnia warunki, o których mowa w art. 44zzl ust. 1 lub 1a.
-14. Aneks do świadectwa dojrzałości, o którym mowa w art. 44zzo ust. 2, lub zaświadczenie, o którym mowa w art. 44zzp ust. 2, dyrektor okręgowej komisji egzaminacyjnej wydaje po rozstrzygnięciu w sprawie unieważnienia, jeżeli w wyniku tego rozstrzygnięcia absolwent podwyższył wynik z egzaminu maturalnego z danego przedmiotu w części pisemnej.
-15. Uczeń lub słuchacz, któremu unieważniono egzamin ósmoklasisty z danego przedmiotu, przystępuje ponownie do egzaminu ósmoklasisty z tego przedmiotu w dodatkowym terminie w szkole, której jest uczniem lub słuchaczem.
-16. W przypadku unieważnienia egzaminu maturalnego danego absolwenta z przedmiotu dodatkowego, o którym mowa w art. 44zzd ust. 5 i 5a, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu maturalnego z tego przedmiotu dodatkowego jako „0 %”.
-Art. 44zzx. W przypadku unieważnienia z przyczyn, o których mowa w art. 44zzv lub art. 44zzw ust. 1, egzaminu ósmoklasisty z danego przedmiotu, przeprowadzonego w terminie dodatkowym, w sytuacjach określonych w art. 44zz ust. 1 i art. 44zzw ust. 15, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu ósmoklasisty z danego przedmiotu jako „0 %”.
-Art. 44zzy. 1. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mogą, w terminie 2 dni roboczych od dnia przeprowadzenia egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części ustnej lub części pisemnej, zgłosić zastrzeżenia wraz z uzasadnieniem do dyrektora okręgowej komisji egzaminacyjnej, jeżeli uznają, że w trakcie egzaminu zostały naruszone przepisy dotyczące jego przeprowadzania.
-2. W przypadku zgłoszenia zastrzeżeń, o których mowa w ust. 1, do egzaminu maturalnego z danego przedmiotu w części ustnej dyrektor okręgowej komisji egzaminacyjnej zwraca się do przewodniczącego zespołu egzaminacyjnego o przedstawienie wyjaśnień dotyczących wniesionego zastrzeżenia.
-3. Dyrektor okręgowej komisji egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 1, w terminie 7 dni od dnia ich otrzymania i informuje pisemnie ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców, o wyniku rozstrzygnięcia.
-4. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, w terminie 3 dni roboczych od dnia otrzymania informacji o wyniku rozstrzygnięcia, o której mowa w ust. 3, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
-5. Zastrzeżenia, o których mowa w ust. 4, wraz z dokumentacją niezbędną do ich rozpatrzenia dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców.
-6. Dyrektor Centralnej Komisji Egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 4, w terminie 7 dni od dnia ich wniesienia. Rozstrzygnięcie dyrektora Centralnej Komisji Egzaminacyjnej jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
-7. W przypadku stwierdzenia naruszenia przepisów dotyczących przeprowadzania egzaminu ósmoklasisty lub egzaminu maturalnego, na skutek zastrzeżeń, o których mowa w ust. 1, lub z urzędu, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, może unieważnić egzamin ósmoklasisty z danego przedmiotu lub egzamin maturalny z danego przedmiotu w części ustnej lub części pisemnej i zarządzić ich ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik tego egzaminu.
-8. W przypadku, o którym mowa w ust. 6, dyrektor Centralnej Komisji Egzaminacyjnej może unieważnić egzamin ósmoklasisty z danego przedmiotu lub egzamin maturalny z danego przedmiotu w części ustnej lub części pisemnej i zarządzić ich ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik egzaminu. O rozstrzygnięciu w sprawie unieważnienia dyrektor Centralnej Komisji Egzaminacyjnej informuje dyrektora okręgowej komisji egzaminacyjnej.
-9. W przypadkach, o których mowa w ust. 7 i 8, unieważnienie może nastąpić w stosunku do wszystkich uczniów, słuchaczy albo absolwentów, uczniów, słuchaczy albo absolwentów w poszczególnych szkołach, a także w stosunku do poszczególnych uczniów, słuchaczy albo absolwentów.
-10. W przypadku niemożności ustalenia wyników egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej z powodu zaginięcia lub zniszczenia prac egzaminacyjnych, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, unieważnia egzamin ósmoklasisty z danego przedmiotu lub egzamin maturalny z danego przedmiotu w części pisemnej danego ucznia, słuchacza albo absolwenta i zarządza jego ponowne przeprowadzenie.
-11. Termin ponownego egzaminu ósmoklasisty lub egzaminu maturalnego ustala dyrektor Centralnej Komisji Egzaminacyjnej.
-Art. 44zzz. 1. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mają prawo wglądu do sprawdzonej i ocenionej pracy egzaminacyjnej tego ucznia, słuchacza albo absolwenta, w miejscu i czasie wskazanym przez dyrektora okręgowej komisji egzaminacyjnej, w terminie 6 miesięcy od dnia wydania przez okręgową komisję egzaminacyjną:
-1) zaświadczenia, o którym mowa w art. 44zza ust. 8 pkt 1;
-2) świadectwa dojrzałości, o którym mowa w art. 44zzl ust. 4;
-3) aneksu do świadectwa dojrzałości, o którym mowa w art. 44zzo ust. 2;
-4) zaświadczenia, o którym mowa w art. 44zzp ust. 2;
-5) informacji o szczegółowych wynikach egzaminu ósmoklasisty albo informacji o wynikach egzaminu maturalnego – w przypadkach, o których mowa odpowiednio w art. 44zza ust. 8 pkt 2 i art. 44zzl ust. 5.
-2. Podczas dokonywania wglądu, o którym mowa w ust. 1, uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, zapewnia się możliwość zapoznania się z zasadami oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2.
-2a. Podczas dokonywania wglądu, o którym mowa w ust. 1, uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mogą sporządzać notatki i wykonywać fotografie pracy egzaminacyjnej.
-3. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mogą zwrócić się z wnioskiem o weryfikację sumy punktów, o których mowa w art. 44zza ust. 2 lub art. 44zzk ust. 2.
-Wniosek wraz z uzasadnieniem składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia dokonania wglądu.
-4. Weryfikacji sumy punktów dokonuje się w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 3. Dyrektor okręgowej komisji egzaminacyjnej do weryfikacji sumy punktów wyznacza egzaminatora wpisanego do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, innego niż egzaminator, który sprawdzał i oceniał pracę egzaminacyjną, której dotyczy wniosek, o którym mowa w ust. 3.
-5. Dyrektor okręgowej komisji egzaminacyjnej informuje pisemnie ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców, o wyniku weryfikacji sumy punktów, w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 3.
-6. Jeżeli w wyniku przeprowadzonej weryfikacji suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowe wyniki odpowiednio:
-1) egzaminu ósmoklasisty oraz anuluje dotychczasowe zaświadczenie, o którym mowa w art. 44zza ust. 8 pkt 1, i wydaje nowe zaświadczenie;
-2) egzaminu maturalnego oraz:
-a) wydaje świadectwo dojrzałości, jeżeli absolwent spełnił warunki określone w art. 44zzl ust. 1 lub 1a, lub
-b) anuluje dotychczasowe świadectwo dojrzałości, aneks do świadectwa dojrzałości, o którym mowa w art. 44zzo ust. 2, lub zaświadczenie, o którym mowa w art. 44zzp ust. 2, i wydaje nowe świadectwo dojrzałości, aneks do świadectwa dojrzałości lub zaświadczenie.
-7. Absolwent może wnieść odwołanie od wyniku weryfikacji sumy punktów z części pisemnej egzaminu maturalnego, o którym mowa w ust. 5, do Kolegium Arbitrażu Egzaminacyjnego, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, w terminie 7 dni od dnia otrzymania informacji, o której mowa w ust. 5.
-8. Absolwent w odwołaniu wskazuje zadanie lub zadania egzaminacyjne, co do których nie zgadza się z przyznaną liczbą punktów, wraz z uzasadnieniem, w którym wykazuje, że rozwiązanie tego zadania lub zadań egzaminacyjnych przez niego:
-1) jest merytorycznie poprawne oraz
-2) spełnia warunki określone w poleceniu do danego zadania egzaminacyjnego oraz instrukcji dla zdającego zamieszczonej w arkuszu egzaminacyjnym.
-9. Dyrektor okręgowej komisji egzaminacyjnej może w wyniku wniesionego odwołania dokonać ponownej weryfikacji sumy punktów.
-10. Jeżeli dyrektor okręgowej komisji egzaminacyjnej uzna, że odwołanie zasługuje na uwzględnienie w całości, ustala nowy wynik części pisemnej egzaminu maturalnego z danego przedmiotu w terminie 7 dni od dnia otrzymania odwołania.
-Przepis ust. 6 pkt 2 stosuje się odpowiednio.
-11. Jeżeli dyrektor okręgowej komisji egzaminacyjnej uzna, że odwołanie zasługuje na uwzględnienie w części, przekazuje do dyrektora Centralnej Komisji Egzaminacyjnej odwołanie wraz z uzasadnieniem w terminie 7 dni od dnia otrzymania odwołania. Do odwołania dołącza się:
-1) pisemną informację, w jakim zakresie odwołanie zostało uwzględnione;
-2) kopię rozwiązania zadania lub zadań egzaminacyjnych, które zostały wskazane w odwołaniu;
-3) kopię informacji, o której mowa w ust. 5.
-12. Jeżeli dyrektor okręgowej komisji egzaminacyjnej uzna, że odwołanie nie zasługuje na uwzględnienie, przekazuje do dyrektora Centralnej Komisji Egzaminacyjnej odwołanie wraz z uzasadnieniem w terminie 7 dni od dnia otrzymania odwołania. Do odwołania dołącza się:
-1) kopię rozwiązania zadania lub zadań egzaminacyjnych, które zostały wskazane w odwołaniu;
-2) kopię informacji, o której mowa w ust. 5.
-13. O przekazaniu odwołania, o którym mowa w ust. 11 i 12, dyrektor okręgowej komisji egzaminacyjnej niezwłocznie informuje absolwenta, który wniósł odwołanie.
-14. Dyrektor Centralnej Komisji Egzaminacyjnej przekazuje Kolegium Arbitrażu Egzaminacyjnego odwołanie wraz z uzasadnieniem i dołączonymi dokumentami, o których mowa w ust. 11 i 12, w postaci zanonimizowanej, uniemożliwiającej identyfikację absolwenta, który wniósł odwołanie.
-15. W przypadku, o którym mowa w ust. 11, Kolegium Arbitrażu Egzaminacyjnego rozpatruje odwołanie wyłącznie w zakresie nieuwzględnionym przez dyrektora okręgowej komisji egzaminacyjnej.
-16. Kolegium Arbitrażu Egzaminacyjnego może zwrócić się do Centralnej Komisji Egzaminacyjnej z wnioskiem o opinię dotyczącą rozwiązania danego zadania lub zadań egzaminacyjnych. Opinia nie jest wiążąca dla Kolegium Arbitrażu Egzaminacyjnego.
-17. Odwołanie rozpatruje się w terminie 21 dni od dnia przekazania odwołania przez dyrektora okręgowej komisji egzaminacyjnej do dyrektora Centralnej Komisji Egzaminacyjnej. Termin może być jednokrotnie przedłużony, nie więcej jednak niż o 7 dni.
-18. Kolegium Arbitrażu Egzaminacyjnego, w terminie określonym przez dyrektora Centralnej Komisji Egzaminacyjnej, nie krótszym niż 10 dni, podejmuje rozstrzygnięcie w odniesieniu do zadania lub zadań egzaminacyjnych, przestrzegając zasad oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2, i sporządza pisemne uzasadnienie zawierające w szczególności ocenę zasadności argumentów podniesionych w odwołaniu. Rozstrzygnięcie Kolegium Arbitrażu Egzaminacyjnego jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
-19. Kolegium Arbitrażu Egzaminacyjnego przekazuje dyrektorowi Centralnej Komisji Egzaminacyjnej rozstrzygnięcie i uzasadnienie, o których mowa w ust. 18.
-20. Dyrektor Centralnej Komisji Egzaminacyjnej przekazuje niezwłocznie informację o rozstrzygnięciu i treść uzasadnienia, o których mowa w ust. 18, dyrektorowi okręgowej komisji egzaminacyjnej oraz absolwentowi, który wniósł odwołanie.
-21. Jeżeli w wyniku:
-1) rozstrzygnięcia, o którym mowa w ust. 18, lub
-2) uwzględnienia w części odwołania, o którym mowa w ust. 11 – suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowy wynik części pisemnej egzaminu maturalnego. Przepis ust. 6 pkt 2 stosuje się odpowiednio.
-Art. 44zzza. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i sposób przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego, w tym:
-1) wykaz języków obcych nowożytnych, z których jest przeprowadzany egzamin ósmoklasisty i egzamin maturalny,
-2) wykaz przedmiotów dodatkowych, z których jest przeprowadzany egzamin maturalny, wraz ze wskazaniem zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla jednego lub dwóch przedmiotów, na podstawie których jest przeprowadzany egzamin maturalny z danego przedmiotu dodatkowego,
-3) zakres danych, które powinna zawierać deklaracja o przystąpieniu do egzaminu maturalnego, oraz tryb i sposób składania tej deklaracji,
-4) zakres i terminy przekazywania dyrektorowi okręgowej komisji egzaminacyjnej informacji niezbędnych do przeprowadzenia egzaminu ósmoklasisty i egzaminu maturalnego, w tym informacji zawartych w deklaracjach, o których mowa w art. 44zy i art. 44zzi,
-5) tryb wydawania opinii, o których mowa w art. 44zzr ust. 6 i 7,
-6) skład zespołów, o których mowa w art. 44zzs ust. 4,
-7) szczegółowe zadania przewodniczącego zespołu egzaminacyjnego oraz zespołów, o których mowa w art. 44zzs ust. 4,
-8) zakres informacji, które zamieszcza się w protokołach, o których mowa w art. 44zzs ust. 6,
-9) sposób postępowania z materiałami egzaminacyjnymi dostarczanymi do szkół, w tym tryb zgłaszania nieprawidłowości w tym zakresie,
-10) czas trwania, sposób organizacji i przeprowadzania egzaminu ósmoklasisty z poszczególnych przedmiotów oraz części ustnej i części pisemnej egzaminu maturalnego z danego przedmiotu, sposób postępowania w sytuacjach zagrożenia lub nagłego zakłócenia przebiegu egzaminu ósmoklasisty i egzaminu maturalnego, przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego w miejscu innym niż szkoła ze względu na stan zdrowia ucznia, słuchacza lub jego niepełnosprawność,
-11) termin przechowywania prac uczniów, słuchaczy i absolwentów oraz dokumentacji egzaminu ósmoklasisty i egzaminu maturalnego,
-12) osoby, które nie wchodzą w skład zespołu egzaminacyjnego i nie biorą udziału w przeprowadzaniu egzaminu ósmoklasisty i egzaminu maturalnego, które mogą przebywać w sali egzaminacyjnej podczas tych egzaminów, w tym osoby, które mogą występować w charakterze obserwatorów podczas egzaminu ósmoklasisty i egzaminu maturalnego,
-13) wysokość opłat pobieranych za egzamin maturalny w przypadkach określonych w art. 44zzq ust. 1 oraz tryb i termin złożenia wniosku o zwolnienie z opłaty za egzamin maturalny – z uwzględnieniem konieczności zapewnienia właściwej organizacji i przebiegu oraz właściwego dokumentowania egzaminu ósmoklasisty i egzaminu maturalnego, zapewnienia w składzie zespołów, o których mowa w art. 44zzs ust. 4, co najmniej jednej osoby zatrudnionej w innej szkole lub w placówce, zapewnienia możliwości wglądu, o którym mowa w art. 44zzz ust. 1, oraz że egzamin maturalny w części pisemnej z przedmiotu dodatkowego w przypadku, o którym mowa w art. 44zze ust. 2 pkt 3, będzie dotyczył przedmiotów należących do tej samej lub zbliżonej dziedziny nauk, a także że wysokość opłaty za dany egzamin maturalny nie może być wyższa niż średni koszt przeprowadzania egzaminu maturalnego z poszczególnych przedmiotów w części pisemnej.
-Art. 44zzzb. 1. Egzamin zawodowy jest formą oceny poziomu opanowania przez osoby, o których mowa w ust. 3, wiadomości i umiejętności z zakresu jednej kwalifikacji wyodrębnionej w zawodzie, ustalonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego.
-2. Egzamin zawodowy jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego.
-3. Do egzaminu zawodowego:
-1) przystępują uczniowie branżowych szkół I stopnia niebędący młodocianymi pracownikami oraz uczniowie będący młodocianymi pracownikami zatrudnionymi w celu przygotowania zawodowego u pracodawcy niebędącego rzemieślnikiem i uczniowie techników oraz słuchacze branżowych szkół II stopnia i szkół policealnych,
-2) mogą przystąpić uczniowie branżowych szkół I stopnia będący młodocianymi pracownikami zatrudnionymi w celu przygotowania zawodowego u pracodawcy będącego rzemieślnikiem,
-3) mogą przystąpić absolwenci branżowych szkół I stopnia, branżowych szkół II stopnia, techników i szkół policealnych oraz absolwenci szkół ponadgimnazjalnych: zasadniczych szkół zawodowych i techników,
-4) mogą przystąpić osoby, które ukończyły kwalifikacyjny kurs zawodowy,
-5) mogą przystąpić osoby, które ukończyły staż, o którym mowa w art. 119 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), jeżeli program stażu uwzględniał wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego,
-6) mogą przystąpić osoby spełniające warunki dopuszczenia do egzaminu eksternistycznego zawodowego określone w przepisach wydanych na podstawie art. 10 ust. 5 – zwane dalej „zdającymi”.
-4. Dyrektor szkoły, o której mowa w ust. 3 pkt 1, informuje uczniów i słuchaczy o obowiązku przystąpienia do egzaminu zawodowego odpowiednio w danym roku szkolnym lub danym semestrze.
-Art. 44zzzc. 1. Egzamin zawodowy jest przeprowadzany w ciągu całego roku szkolnego, a w przypadku części praktycznej tego egzaminu – w szczególności w okresie ferii letnich lub zimowych, w terminach ustalonych przez dyrektora okręgowej komisji egzaminacyjnej, na podstawie harmonogramu ogłoszonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze.
-2. Termin egzaminu zawodowego dyrektor okręgowej komisji egzaminacyjnej ogłasza na stronie internetowej okręgowej komisji egzaminacyjnej, nie później niż na 5 miesięcy przed terminem egzaminu zawodowego.
-Art. 44zzzd. 1. Egzamin zawodowy składa się z części pisemnej i części praktycznej.
-1a. (uchylony) 1b. (uchylony)
-2. Część pisemna jest przeprowadzana w formie testu pisemnego, a część praktyczna w formie zadania lub zadań praktycznych.
-3. Część pisemna jest przeprowadzana z wykorzystaniem Systemu Informatycznego Obsługującego Egzaminy Zawodowe, zwanego dalej „SIOEZ”, po uzyskaniu upoważnienia, o którym mowa w art. 44zzzl ust. 1.
-3a. Zadania egzaminacyjne w części pisemnej egzaminu zawodowego są wybierane losowo dla każdego zdającego z bazy zadań egzaminacyjnych prowadzonej przez Centralną Komisję Egzaminacyjną, z wykorzystaniem algorytmu ustalonego przez Centralną Komisję Egzaminacyjną.
-3b. Zadania egzaminacyjne w bazie zadań egzaminacyjnych i algorytm, o którym mowa w ust. 3a, nie są podawane do publicznej wiadomości.
-4. Część praktyczna polega na wykonaniu zadania lub zadań egzaminacyjnych, których rezultatem jest wyrób, usługa lub dokumentacja.
-4a. Część praktyczna może być przeprowadzana z wykorzystaniem SIOEZ, po uzyskaniu upoważnienia, o którym mowa w art. 44zzzl ust. 1.
-5. (uchylony)
-Art. 44zzze. 1. Laureat i finalista turnieju lub olimpiady tematycznej związanych z wybraną dziedziną wiedzy, wymienionych w wykazie, o którym mowa w art. 44zzzw, są zwolnieni z części pisemnej egzaminu zawodowego.
-2. Zwolnienie, o którym mowa w ust. 1, następuje na podstawie zaświadczenia stwierdzającego uzyskanie tytułu odpowiednio laureata lub finalisty. Zaświadczenie przedkłada się przewodniczącemu zespołu egzaminacyjnego, o którym mowa w art. 44zzzi ust. 3.
-3. Zwolnienie, o którym mowa w ust. 1, jest równoznaczne z uzyskaniem z części pisemnej egzaminu zawodowego najwyższego wyniku.
-Art. 44zzzf. 1. Uczeń, słuchacz albo absolwent posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność może przystąpić do egzaminu zawodowego w warunkach i formie dostosowanych do rodzaju niepełnosprawności, na podstawie tego orzeczenia.
-2. Uczeń, słuchacz albo absolwent posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym może przystąpić do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, wynikających odpowiednio z niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym, na podstawie tego orzeczenia.
-3. Uczeń albo słuchacz posiadający orzeczenie o potrzebie indywidualnego nauczania lub absolwent, który w roku szkolnym, w którym przystępuje do egzaminu zawodowego, posiadał orzeczenie o potrzebie indywidualnego nauczania, może przystąpić do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, wynikających z jego stanu zdrowia, na podstawie tego orzeczenia.
-4. Zdający chory lub niesprawny czasowo może przystąpić do egzaminu zawodowego w warunkach odpowiednich ze względu na jego stan zdrowia, na podstawie zaświadczenia o stanie zdrowia wydanego przez lekarza.
-5. Uczeń, słuchacz albo absolwent posiadający opinię poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, o specyficznych trudnościach w uczeniu się, wydaną zgodnie z przepisami wydanymi na podstawie art. 44zb, może przystąpić do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z rodzaju tych trudności, na podstawie tej opinii.
-6. Uczeń, słuchacz albo absolwent, który w roku szkolnym, w którym przystępuje do egzaminu zawodowego, był objęty pomocą psychologiczno-pedagogiczną w szkole ze względu na trudności adaptacyjne związane z wcześniejszym kształceniem za granicą, zaburzenia komunikacji językowej lub sytuację kryzysową lub traumatyczną, może przystąpić do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających odpowiednio z rodzaju tych trudności, zaburzeń lub sytuacji kryzysowej lub traumatycznej, na podstawie pozytywnej opinii rady pedagogicznej.
-7. Dostosowanie formy egzaminu zawodowego, o którym mowa w ust. 1, polega na przygotowaniu odrębnych arkuszy egzaminacyjnych dla ucznia, słuchacza lub absolwenta niewidomego albo słabowidzącego.
-8. Dostosowanie warunków przeprowadzania egzaminu zawodowego, o których mowa w ust. 1–6, polega odpowiednio na:
-1) zminimalizowaniu ograniczeń wynikających z niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym ucznia, słuchacza albo absolwenta;
-2) zapewnieniu uczniowi, słuchaczowi albo absolwentowi miejsca pracy odpowiedniego do jego potrzeb edukacyjnych oraz możliwości psychofizycznych;
-3) wykorzystaniu odpowiedniego sprzętu specjalistycznego, aplikacji mobilnej służącej do monitorowania stanu zdrowia zdającego i środków dydaktycznych;
-4) odpowiednim przedłużeniu czasu przewidzianego na przeprowadzenie egzaminu zawodowego;
-5) zapewnieniu obecności i pomocy w czasie egzaminu zawodowego specjalisty odpowiednio z zakresu danego rodzaju niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym, jeżeli jest to niezbędne do uzyskania właściwego kontaktu z uczniem lub absolwentem lub pomocy w obsłudze sprzętu specjalistycznego, aplikacji mobilnej służącej do monitorowania stanu zdrowia ucznia lub absolwenta i środków dydaktycznych.
-9. Dla ucznia, słuchacza albo absolwenta, o którym mowa w ust. 2–6, nie przygotowuje się odrębnych arkuszy egzaminacyjnych.
-10. Rada pedagogiczna, spośród możliwych sposobów dostosowania warunków i form przeprowadzania egzaminu zawodowego, wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, wskazuje sposób lub sposoby dostosowania warunków lub formy przeprowadzania egzaminu zawodowego dla ucznia, słuchacza albo absolwenta, o którym mowa w ust. 1–6.
-11. Dyrektor szkoły lub upoważniony przez niego nauczyciel informuje na piśmie ucznia, słuchacza, a w przypadku niepełnoletniego ucznia lub słuchacza – jego rodziców, albo absolwenta o wskazanych sposobach dostosowania warunków i form przeprowadzania egzaminu zawodowego do jego potrzeb edukacyjnych i możliwości psychofizycznych.
-12. Uczeń, słuchacz, a w przypadku niepełnoletniego ucznia lub słuchacza – jego rodzice, albo absolwent składają oświadczenie o korzystaniu albo niekorzystaniu ze wskazanych sposobów dostosowania, o których mowa w ust. 11, w terminie 3 dni roboczych od dnia otrzymania informacji, o której mowa w ust. 11.
-13. W przypadku absolwenta, o którym mowa w ust. 4 i 5, który ukończył szkołę we wcześniejszych latach, sposób lub sposoby dostosowania warunków przeprowadzania egzaminu zawodowego do potrzeb i możliwości absolwenta, spośród możliwych sposobów dostosowania warunków przeprowadzania egzaminu zawodowego, wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, wskazuje przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzzi ust. 3. Przepisy ust. 11 i 12 stosuje się odpowiednio.
-14. Przystąpienie do egzaminu zawodowego w warunkach i formie dostosowanych do potrzeb i możliwości ucznia, słuchacza albo absolwenta, o którym mowa w ust. 1–6, zapewnia przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzzi ust. 3.
-15. W szczególnych przypadkach losowych lub zdrowotnych dyrektor szkoły, na wniosek rady pedagogicznej, może wystąpić do dyrektora okręgowej komisji egzaminacyjnej z wnioskiem o wyrażenie zgody na przystąpienie ucznia, słuchacza albo absolwenta do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, nieujętych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie.
-Art. 44zzzfa. Uczeń, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, który kształci się w zawodzie, dla którego w przepisach wydanych na podstawie art. 46 ust. 1 ustawy – Prawo oświatowe, przewidziano zawód o charakterze pomocniczym, może przystąpić do egzaminu zawodowego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego dla:
-1) zawodu, w którym się kształci albo
-2) zawodu o charakterze pomocniczym przewidzianego dla zawodu, w którym się kształci.
-Art. 44zzzg. Zdający, który zamierza przystąpić do egzaminu zawodowego, składa pisemną deklarację przystąpienia do tego egzaminu.
-Art. 44zzzga. 1. Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, który z przyczyn losowych lub zdrowotnych, w terminie głównym:
-1) nie przystąpił do części pisemnej lub części praktycznej egzaminu zawodowego albo
-2) przerwał egzamin zawodowy z części pisemnej lub części praktycznej – przystępuje do części pisemnej lub części praktycznej tego egzaminu w terminie dodatkowym na udokumentowany wniosek ucznia lub słuchacza, a w przypadku niepełnoletniego ucznia lub słuchacza – jego rodziców.
-2. Wniosek, o którym mowa w ust. 1, składa się do dyrektora szkoły, do której uczeń lub słuchacz uczęszcza, nie później niż w dniu, w którym odbywa się część pisemna lub część praktyczna egzaminu zawodowego. Dyrektor szkoły przekazuje wniosek wraz z załączonymi do niego dokumentami dyrektorowi okręgowej komisji egzaminacyjnej nie później niż następnego dnia po otrzymaniu wniosku.
-3. Dyrektor okręgowej komisji egzaminacyjnej rozpatruje wniosek, o którym mowa w ust. 1, w terminie 2 dni od dnia jego otrzymania. Rozstrzygnięcie dyrektora okręgowej komisji egzaminacyjnej jest ostateczne.
-4. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających przystąpienie do części pisemnej lub części praktycznej egzaminu zawodowego w terminie dodatkowym, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić ucznia lub słuchacza z obowiązku przystąpienia do egzaminu zawodowego lub jego części. Dyrektor szkoły składa wniosek w porozumieniu z uczniem lub słuchaczem, a w przypadku niepełnoletniego ucznia lub słuchacza – z jego rodzicami.
-Art. 44zzzgb. W szczególnych przypadkach zdrowotnych, uniemożliwiających uczniowi lub słuchaczowi, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, przystąpienie do egzaminu zawodowego, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić tego ucznia lub słuchacza z obowiązku przystąpienia do egzaminu zawodowego lub jego części.
-Dyrektor szkoły składa wniosek w porozumieniu z uczniem lub ze słuchaczem, a w przypadku niepełnoletniego ucznia lub słuchacza – z jego rodzicami.
-Art. 44zzzh. 1. Zdający, o których mowa w art. 44zzzb ust. 3 pkt 4–6: niewidomi, słabowidzący, niesłyszący, słabosłyszący, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną w stopniu lekkim lub z autyzmem, w tym z zespołem Aspergera, przystępują do egzaminu zawodowego w warunkach i formie dostosowanych do rodzaju ich niepełnosprawności, na podstawie zaświadczenia potwierdzającego występowanie danej dysfunkcji, wydanego przez lekarza. Przepisy art. 44zzzf ust. 7, 8 i 14 stosuje się odpowiednio.
-2. Na podstawie zaświadczenia, o którym mowa w ust. 1, oraz komunikatu, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, dyrektor okręgowej komisji egzaminacyjnej lub upoważniona przez niego osoba wskazuje sposób lub sposoby dostosowania warunków i formy przeprowadzania egzaminu zawodowego dla zdających, o których mowa w ust. 1.
-Art. 44zzzi. 1. Za organizację i przebieg egzaminu zawodowego w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, odpowiada dyrektor tej szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, ten pracodawca lub upoważniony przez niego pracownik lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, lub upoważniony przez niego pracownik.
-2. Do przeprowadzenia egzaminu zawodowego dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, powołuje zespół egzaminacyjny.
-3. Dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub upoważniony przez niego pracownik lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, lub upoważniony przez niego pracownik jest przewodniczącym zespołu egzaminacyjnego. W przypadku choroby przewodniczącego zespołu egzaminacyjnego lub innych ważnych przyczyn uniemożliwiających jego udział w egzaminie zawodowym albo wynikających z konieczności zapewnienia właściwej organizacji tego egzaminu, przewodniczącym zespołu egzaminacyjnego może być osoba wskazana przez dyrektora okręgowej komisji egzaminacyjnej.
-4. Przewodniczący zespołu egzaminacyjnego, spośród członków zespołu egzaminacyjnego, powołuje zespoły nadzorujące przebieg części pisemnej egzaminu zawodowego w poszczególnych salach egzaminacyjnych oraz zespoły nadzorujące przebieg części praktycznej tego egzaminu w poszczególnych salach egzaminacyjnych i wyznacza przewodniczących tych zespołów.
-5. Przewodniczący zespołu egzaminacyjnego organizuje i nadzoruje przebieg w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, egzaminu zawodowego, w tym:
-1) informuje zdających, którzy zamierzają przystąpić do egzaminu zawodowego, o tym egzaminie;
-2) zapewnia przekazanie do okręgowej komisji egzaminacyjnej informacji niezbędnych do przeprowadzenia egzaminu zawodowego;
-3) zapewnia warunki do samodzielnej pracy zdających podczas egzaminu zawodowego;
-4) zabezpiecza przed nieuprawnionym ujawnieniem materiały egzaminacyjne niezbędne do przeprowadzenia egzaminu zawodowego od momentu odbioru materiałów egzaminacyjnych do momentu ich przekazania dyrektorowi okręgowej komisji egzaminacyjnej.
-6. Przebieg egzaminu zawodowego jest dokumentowany w protokole tego egzaminu.
-Art. 44zzzia. 1. W przeprowadzaniu części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, może brać udział asystent techniczny.
-2. Asystentem technicznym może być nauczyciel lub osoba niebędąca nauczycielem, wskazana przez odpowiednio dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcę lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe.
-Art. 44zzzib. 1. W przeprowadzaniu części pisemnej oraz części praktycznej egzaminu zawodowego, w której do wykonania zadania lub zadań egzaminacyjnych jest niezbędne wykorzystanie komputera, może brać udział operator pracowni informatycznej.
-2. Operatorem pracowni informatycznej może być nauczyciel lub osoba pełnoletnia niebędąca nauczycielem i niebędąca uczniem szkoły, w której jest przeprowadzany egzamin zawodowy, albo słuchaczem kwalifikacyjnego kursu zawodowego prowadzonego w podmiocie, w którym jest przeprowadzany egzamin zawodowy, posiadający kwalifikacje lub umiejętności właściwe dla wykonania zadań, o których mowa w ust. 3, wskazani przez odpowiednio dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcę lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe.
-3. Do zadań operatora pracowni informatycznej należy:
-1) przygotowanie wyposażenia stanowisk egzaminacyjnych, w tym w materiały i przybory pomocnicze, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie;
-2) zapewnienie prawidłowego funkcjonowania stanowisk egzaminacyjnych, w tym usuwanie awarii występujących na stanowiskach egzaminacyjnych w czasie trwania części pisemnej lub części praktycznej egzaminu zawodowego;
-3) zapewnienie warunków do samodzielnej pracy zdających, z uwzględnieniem bezpiecznych i higienicznych warunków w miejscu przeprowadzania części pisemnej lub części praktycznej egzaminu zawodowego;
-4) przeprowadzenie, na polecenie przewodniczącego zespołu nadzorującego, instruktażu stanowiskowego dla zdających;
-5) zabezpieczenie, w sposób trwały, efektów pracy zdających w sposób wskazany w informacji, o której mowa w art. 9a ust. 2 pkt 10 lit. b, do dnia przekazania szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, i pracodawcom certyfikatów kwalifikacji zawodowych albo przekazania szkołom dyplomów zawodowych, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze podwójne tiret trzecie.
-Art. 44zzzj. 1. W czasie trwania egzaminu zawodowego każdy zdający pracuje w warunkach zapewniających samodzielność pracy.
-2. Do sali egzaminacyjnej, w której jest przeprowadzany egzamin zawodowy, nie można wnosić materiałów i przyborów pomocniczych niewymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie, oraz żadnych urządzeń telekomunikacyjnych, ani korzystać z nich w tej sali.
-2a. Przepis ust. 2 nie dotyczy urządzenia telekomunikacyjnego wyposażonego w aplikację mobilną służącą do monitorowania stanu zdrowia zdającego, które można wnieść i z którego można korzystać na warunkach określonych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie.
-3. Zdający samodzielnie wykonuje zadania egzaminacyjne w czasie trwania części pisemnej i części praktycznej egzaminu zawodowego.
-Art. 44zzzk. 1. Egzamin zawodowy przeprowadza się w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy albo w miejscu wskazanym przez pracodawcę, w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, albo w miejscu wskazanym przez ten podmiot.
-2. Dla osób, o których mowa w art. 44zzzb ust. 3 pkt 4, egzamin zawodowy organizuje podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe.
-3. Przepisu ust. 2 nie stosuje się do słuchaczy branżowej szkoły II stopnia.
-Art. 44zzzl. 1. Część praktyczną egzaminu zawodowego oraz część pisemną tego egzaminu przeprowadza się w szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u pracodawcy lub w podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, posiadających upoważnienie wydane przez dyrektora okręgowej komisji egzaminacyjnej.
-2. Upoważnienie, o którym mowa w ust. 1, potwierdza, że szkoła, placówka lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, posiada warunki zapewniające prawidłowy przebieg egzaminu zawodowego:
-1) w przypadku części praktycznej:
-a) zapewnia warunki do realizacji kształcenia w danym zawodzie, określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego,
-b) zapewnia warunki do samodzielnego wykonywania przez zdających zadań egzaminacyjnych zawartych w arkuszu egzaminacyjnym, z uwzględnieniem bezpieczeństwa i higieny pracy, oraz warunki socjalne,
-c) zapewnia zdającym przystąpienie do egzaminu zawodowego w warunkach dostosowanych do ich potrzeb i możliwości,
-d) zapewnia zdającym pierwszą pomoc medyczną,
-e) posiada odpowiednie wyposażenie indywidualnych stanowisk egzaminacyjnych wspomaganych elektronicznie – w przypadku gdy część praktyczna egzaminu zawodowego jest przeprowadzana z wykorzystaniem SIOEZ;
-2) w przypadku części pisemnej:
-a) posiada odpowiednie wyposażenie indywidualnych stanowisk egzaminacyjnych wspomaganych elektronicznie,
-b) zapewnia warunki do samodzielnego wykonywania zadań egzaminacyjnych przez zdających.
-3. Upoważnienia, o którym mowa w ust. 1, udziela się na okres nie dłuższy niż 3 lata.
-4. Upoważnienia, o którym mowa w ust. 1, udziela się na wniosek szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe.
-5. Upoważnienie może zostać przedłużone na kolejne okresy nie dłuższe niż 3 lata. Przepisy ust. 2–4 stosuje się odpowiednio.
-Art. 44zzzm. 1. Część pisemna egzaminu zawodowego trwa nie krócej niż 45 minut i nie dłużej niż 90 minut.
-2. Część praktyczna egzaminu zawodowego trwa nie krócej niż 120 minut i nie dłużej niż 240 minut.
-3. Czas trwania części pisemnej i części praktycznej egzaminu zawodowego określa się w informatorze, o którym mowa w art. 9a ust. 2 pkt 3.
-Art. 44zzzn. 1. Prace egzaminacyjne zdających w części pisemnej egzaminu zawodowego są sprawdzane z wykorzystaniem narzędzi elektronicznych. Prace egzaminacyjne zdających w części praktycznej egzaminu zawodowego mogą być sprawdzane z wykorzystaniem narzędzi elektronicznych.
-2. Część praktyczną egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, obserwują i oceniają obecni w sali egzaminacyjnej egzaminatorzy wpisani do ewidencji egzaminatorów w zakresie przeprowadzania egzaminu zawodowego, o której mowa w art. 9c ust. 2 pkt 7, wyznaczeni przez dyrektora okręgowej komisji egzaminacyjnej.
-2a. Egzaminatorzy, o których mowa w ust. 2, wchodzą w skład zespołów egzaminacyjnych, o których mowa w art. 44zzzi ust. 2.
-3. Część praktyczną egzaminu zawodowego, której rezultatem końcowym jest dokumentacja, sprawdzają i oceniają egzaminatorzy wpisani do ewidencji egzaminatorów w zakresie przeprowadzania egzaminu zawodowego, o której mowa w art. 9c ust. 2 pkt 7, wyznaczeni przez dyrektora okręgowej komisji egzaminacyjnej.
-4. Egzaminatorzy stosują zasady oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2.
-5. Egzaminatorzy, o których mowa w ust. 3, z zakresu danej kwalifikacji tworzą zespół egzaminatorów.
-6. Dyrektor okręgowej komisji egzaminacyjnej, spośród członków zespołu egzaminatorów, o którym mowa w ust. 5, wyznacza przewodniczącego tego zespołu i egzaminatorów-weryfikatorów.
-7. Funkcję egzaminatora-weryfikatora może pełnić egzaminator, który w ostatnich 3 latach co najmniej jednokrotnie był egzaminatorem egzaminu zawodowego.
-8. Do zadań egzaminatora-weryfikatora należy sprawdzenie i ocenienie dokumentacji będącej rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych wskazanej przez przewodniczącego zespołu egzaminatorów poprzednio sprawdzonej i ocenionej przez egzaminatorów wchodzących w skład danego zespołu egzaminatorów, w celu zweryfikowania poprawności sprawdzenia i ocenienia tej dokumentacji przez tych egzaminatorów.
-9. W przypadku różnicy między liczbą punktów przyznaną przez egzaminatora a liczbą punktów przyznaną przez egzaminatora-weryfikatora o liczbie przyznanych punktów rozstrzyga przewodniczący zespołu egzaminatorów.
-Art. 44zzzo. 1. Wynik z części pisemnej oraz wynik z części praktycznej egzaminu zawodowego ustala dyrektor okręgowej komisji egzaminacyjnej na podstawie liczby punktów uzyskanych przez zdającego:
-1) w części pisemnej – po odczytaniu odpowiedzi zapisanych i zarchiwizowanych w SIOEZ;
-2) w części praktycznej – po elektronicznym odczytaniu karty oceny.
-2. Zdający zdał egzamin zawodowy, jeżeli uzyskał:
-1) z części pisemnej – co najmniej 50 % punktów możliwych do uzyskania oraz
-2) z części praktycznej – co najmniej 75 % punktów możliwych do uzyskania.
-3. Dla zdającego, który zdał egzamin zawodowy, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu zawodowego według wzoru: W = 0,3×Wp+0,7×Wpr w którym poszczególne symbole oznaczają: W – wynik z egzaminu zawodowego, Wp – wynik z części pisemnej egzaminu zawodowego, Wpr – wynik z części praktycznej egzaminu zawodowego.
-4. Zdający, który zdał egzamin zawodowy, otrzymuje certyfikat kwalifikacji zawodowej wydany przez okręgową komisję egzaminacyjną.
-5. Zdający, który nie zdał egzaminu zawodowego, otrzymuje informację o wynikach z poszczególnych części tego egzaminu opracowaną przez okręgową komisję egzaminacyjną.
-6. Dla zdających, którzy zdali egzaminy zawodowe ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, dyrektor okręgowej komisji egzaminacyjnej ustala końcowy wynik egzaminów zawodowych według wzoru: ∑Kn Wk = n w którym poszczególne symbole oznaczają: Wk – wynik końcowy z egzaminów zawodowych, Kn – wynik z egzaminu zawodowego z kwalifikacji wyodrębnionej w zawodzie, n – liczba kwalifikacji wyodrębnionych w danym zawodzie.
-7. W przypadku gdy uczeń lub słuchacz, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, został zwolniony z obowiązku przystąpienia do części pisemnej lub części praktycznej egzaminu zawodowego w przypadku, o którym mowa w art. 44zzzga ust. 4 lub art. 44zzzgb, dyrektor szkoły przekazuje uczniowi lub słuchaczowi, a w przypadku niepełnoletniego ucznia lub słuchacza – jego rodzicom, informację o szczegółowych wynikach egzaminu zawodowego opracowaną przez okręgową komisję egzaminacyjną.
-Art. 44zzzp. 1. W przypadku:
-1) stwierdzenia niesamodzielnego wykonywania zadań egzaminacyjnych przez zdającego lub
-2) wniesienia lub korzystania przez zdającego w sali egzaminacyjnej z materiałów lub przyborów pomocniczych niewymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie, albo z urządzenia telekomunikacyjnego, z zastrzeżeniem art. 44zzzj ust. 2a, lub
-3) zakłócania przez zdającego prawidłowego przebiegu części pisemnej lub części praktycznej egzaminu zawodowego w sposób utrudniający pracę pozostałym zdającym – przewodniczący zespołu egzaminacyjnego przerywa i unieważnia temu zdającemu odpowiednią część egzaminu zawodowego. Informację o przerwaniu i unieważnieniu zamieszcza się w protokole przebiegu egzaminu zawodowego.
-2. W przypadku unieważnienia części pisemnej lub części praktycznej egzaminu zawodowego danego zdającego, dyrektor okręgowej komisji egzaminacyjnej ustala wynik uzyskany z części pisemnej lub części praktycznej tego egzaminu jako „0 %”.
-Art. 44zzzq. 1. W przypadku stwierdzenia podczas sprawdzania i oceniania zadania lub zadań egzaminacyjnych przez egzaminatora, jeżeli rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest dokumentacja:
-1) niesamodzielnego wykonania zadania lub zadań przez zdającego w części praktycznej egzaminu zawodowego,
-2) występowania w pracy zdającego jednakowych sformułowań wskazujących na udostępnienie rozwiązań innemu zdającemu lub korzystanie z rozwiązań innego zdającego – dyrektor okręgowej komisji egzaminacyjnej przekazuje zdającemu lub rodzicom niepełnoletniego zdającego pisemną informację o zamiarze unieważnienia temu zdającemu części praktycznej egzaminu zawodowego.
-2. W przypadku zdających, o których mowa w art. 44zzzb ust. 3 pkt 1–4, informację, o której mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej przekazuje za pośrednictwem dyrektora szkoły, dyrektora placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe. Dyrektor szkoły, dyrektor placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca albo podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, niezwłocznie przekazuje tę informację zdającemu lub rodzicom niepełnoletniego zdającego.
-3. Zdający lub rodzice niepełnoletniego zdającego mają prawo złożyć wniosek o wgląd do dokumentacji, na podstawie której dyrektor okręgowej komisji egzaminacyjnej zamierza unieważnić część praktyczną egzaminu zawodowego.
-Wniosek składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia otrzymania pisemnej informacji, o której mowa w ust. 1.
-4. W terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 3, dyrektor okręgowej komisji egzaminacyjnej umożliwia zdającemu lub rodzicom niepełnoletniego zdającego, zapoznanie się z dokumentacją oraz złożenie wyjaśnień w tej sprawie, we wskazanym miejscu i czasie.
-5. Dyrektor okręgowej komisji egzaminacyjnej rozstrzyga o unieważnieniu części praktycznej egzaminu zawodowego, w terminie 14 dni od dnia:
-1) otrzymania wniosku, o którym mowa w ust. 3, albo
-2) upływu terminu do złożenia wniosku, o którym mowa w ust. 3.
-6. Dyrektor okręgowej komisji egzaminacyjnej przekazuje zdającemu lub rodzicom niepełnoletniego zdającego pisemną informację o unieważnieniu części praktycznej egzaminu zawodowego. Przepis ust. 2 stosuje się odpowiednio.
-7. Zdający lub rodzice niepełnoletniego zdającego, w terminie 3 dni roboczych od dnia otrzymania informacji o unieważnieniu, o której mowa w ust. 6, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
-8. Zastrzeżenia, o których mowa w ust. 7, wraz z dokumentacją niezbędną do ich rozpatrzenia, dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez zdającego lub rodziców niepełnoletniego zdającego.
-9. Dyrektor Centralnej Komisji Egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 7, w terminie 7 dni od dnia otrzymania zastrzeżeń wraz z dokumentacją niezbędną do ich rozpatrzenia. Rozstrzygnięcie dyrektora Centralnej Komisji Egzaminacyjnej jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
-10. W przypadku braku możliwości przekazania zdającemu, o którym mowa w art. 44zzzb ust. 3 pkt 1–4, lub rodzicom niepełnoletniego zdającego informacji, o której mowa w ust. 1, dyrektor szkoły, dyrektor placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca albo podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, niezwłocznie informuje o tym dyrektora okręgowej komisji egzaminacyjnej, który, w terminie 7 dni od dnia otrzymania tej informacji, rozstrzyga o unieważnieniu części praktycznej egzaminu zawodowego. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, dyrektora placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, pisemną informację o unieważnieniu wraz z uzasadnieniem, zdającemu lub rodzicom niepełnoletniego zdającego. Przepisy ust. 3 i 4 stosuje się odpowiednio.
-11. W przypadku braku potwierdzenia otrzymania przez zdającego, o którym mowa w art. 44zzzb ust. 3 pkt 5 i 6, informacji, o której mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej rozstrzyga o unieważnieniu części praktycznej egzaminu zawodowego. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje pisemną informację o unieważnieniu temu zdającemu.
-Przepisy ust. 3 i 4 stosuje się odpowiednio.
-12. W przypadku, o którym mowa w ust. 10, zdający lub rodzice niepełnoletniego zdającego, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej, w terminie 3 dni roboczych od dnia:
-1) otrzymania informacji o unieważnieniu, o której mowa w ust. 10, albo
-2) zapoznania się z dokumentacją oraz złożenia wyjaśnień, o których mowa w ust. 3 i 4.
-13. Do zastrzeżeń, o których mowa w ust. 12, przepisy ust. 8 i 9 stosuje się odpowiednio.
-14. Dyrektor okręgowej komisji egzaminacyjnej po dokonaniu rozstrzygnięcia w sprawie unieważnienia wydaje:
-1) certyfikat kwalifikacji zawodowej, o którym mowa w art. 44zzzo ust. 4, jeżeli w wyniku tego rozstrzygnięcia nie została unieważniona część praktyczna egzaminu zawodowego tego zdającego i zdający spełnił warunki, o których mowa w art. 44zzzo ust. 2, lub
-2) informację, o której mowa w art. 44zzzo ust. 5, jeżeli zdający w wyniku tego rozstrzygnięcia nie spełnił warunków, o których mowa w art. 44zzzo ust. 2.
-15. W przypadku unieważnienia części praktycznej egzaminu zawodowego danego zdającego, dyrektor okręgowej komisji egzaminacyjnej ustala wynik uzyskany z części praktycznej tego egzaminu jako „0 %”.
-Art. 44zzzr. 1. Zdający lub rodzice niepełnoletniego zdającego, w terminie 2 dni roboczych od dnia przeprowadzenia:
-1) części pisemnej egzaminu zawodowego,
-2) części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest dokumentacja – mogą zgłosić zastrzeżenia wraz z uzasadnieniem do dyrektora okręgowej komisji egzaminacyjnej, jeżeli uznają, że w trakcie egzaminu zostały naruszone przepisy dotyczące jego przeprowadzania.
-2. Dyrektor okręgowej komisji egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 1, w terminie 7 dni od dnia ich otrzymania i informuje pisemnie zdającego lub rodziców niepełnoletniego zdającego, o wyniku rozstrzygnięcia.
-3. Zdający lub rodzice niepełnoletniego zdającego, w terminie 3 dni roboczych od dnia otrzymania informacji o wyniku rozstrzygnięcia, o której mowa w ust. 2, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
-4. Zastrzeżenia, o których mowa w ust. 3, wraz z dokumentacją niezbędną do ich rozpatrzenia dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez zdającego lub rodziców niepełnoletniego zdającego.
-5. Dyrektor Centralnej Komisji Egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 3, w terminie 7 dni od dnia ich wniesienia. Rozstrzygnięcie dyrektora Centralnej Komisji Egzaminacyjnej jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
-6. W przypadku stwierdzenia naruszenia przepisów dotyczących przeprowadzania egzaminu zawodowego, na skutek zastrzeżeń, o których mowa w ust. 1, lub z urzędu, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, może unieważnić daną część egzaminu zawodowego i zarządzić jej ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik tego egzaminu.
-7. W przypadku, o którym mowa w ust. 5, dyrektor Centralnej Komisji Egzaminacyjnej może unieważnić daną część egzaminu zawodowego i zarządzić jej ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik egzaminu. O rozstrzygnięciu dyrektor Centralnej Komisji Egzaminacyjnej informuje dyrektora okręgowej komisji egzaminacyjnej.
-8. W przypadkach, o których mowa w ust. 6 i 7, unieważnienie może nastąpić w stosunku do wszystkich zdających, zdających w poszczególnych szkołach, placówkach lub centrach, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u pracodawców lub w podmiotach prowadzących kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, a także w stosunku do poszczególnych zdających.
-9. W przypadku niemożności ustalenia wyników danej części egzaminu zawodowego, z powodu zaginięcia lub zniszczenia kart oceny, prac egzaminacyjnych lub awarii SIOEZ, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, unieważnia daną część egzaminu zawodowego danego zdającego i zarządza jego ponowne przeprowadzenie.
-10. Termin ponownego przeprowadzenia egzaminu zawodowego ustala dyrektor Centralnej Komisji Egzaminacyjnej.
-Art. 44zzzs. 1. W przypadku części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, zdający lub rodzice niepełnoletniego zdającego, mogą zgłosić do dyrektora okręgowej komisji egzaminacyjnej zastrzeżenia wraz z uzasadnieniem, jeżeli uznają, że w trakcie części praktycznej egzaminu zawodowego zostały naruszone przepisy dotyczące jej przeprowadzania. Zastrzeżenia wraz z uzasadnieniem zgłasza się w terminie 2 dni roboczych od dnia przeprowadzenia części praktycznej egzaminu zawodowego.
-2. W przypadku, o którym mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej zwraca się do przewodniczącego zespołu egzaminacyjnego o przedstawienie wyjaśnień dotyczących wniesionych zastrzeżeń.
-3. Przepisy art. 44zzzr ust. 2–8 i 10 stosuje się odpowiednio.
-Art. 44zzzt. 1. Zdający lub rodzice niepełnoletniego zdającego mają prawo wglądu do:
-1) zadań i udzielonych odpowiedzi – w przypadku części pisemnej egzaminu zawodowego,
-2) karty oceny – w przypadku części praktycznej egzaminu zawodowego – w miejscu i czasie wskazanym przez dyrektora okręgowej komisji egzaminacyjnej, w terminie 3 miesięcy od dnia wydania przez okręgową komisję egzaminacyjną certyfikatu kwalifikacji zawodowej lub informacji o wynikach egzaminu zawodowego, o których mowa w art. 44zzzo ust. 5. Jeżeli rezultatem końcowym wykonania zadania egzaminacyjnego w części praktycznej egzaminu zawodowego jest dokumentacja, zdający lub rodzice niepełnoletniego zdającego, mają prawo wglądu także do tej dokumentacji.
-2. Podczas dokonywania wglądu, o którym mowa w ust. 1, zdającemu lub rodzicom niepełnoletniego zdającego, zapewnia się możliwość zapoznania się z zasadami oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2.
-2a. Podczas dokonywania wglądu, o którym mowa w ust. 1, zdający lub rodzice niepełnoletniego zdającego, mogą sporządzać notatki i wykonywać fotografie zadań egzaminacyjnych wraz z udzieloną odpowiedzią, karty oceny lub dokumentacji, o których mowa w ust. 1.
-3. Zdający lub rodzice niepełnoletniego zdającego, mogą zwrócić się z wnioskiem o weryfikację sumy punktów, o których mowa w art. 44zzzo ust. 1.
-Wniosek wraz z uzasadnieniem składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia dokonania wglądu.
-4. Weryfikacji sumy punktów dokonuje się w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 3. W przypadku części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania egzaminacyjnego jest dokumentacja, dyrektor okręgowej komisji egzaminacyjnej do weryfikacji sumy punktów wyznacza egzaminatora wpisanego do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, innego niż egzaminator, który sprawdzał i oceniał tę część egzaminu zdającego.
-5. Dyrektor okręgowej komisji egzaminacyjnej informuje pisemnie zdającego lub rodziców niepełnoletniego zdającego, o wyniku weryfikacji sumy punktów, w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 3.
-6. Jeżeli w wyniku przeprowadzonej weryfikacji suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowy wynik egzaminu zawodowego oraz:
-1) anuluje dotychczasowy certyfikat kwalifikacji zawodowej oraz wydaje nowy certyfikat kwalifikacji zawodowej albo
-2) anuluje informację, o której mowa w art. 44zzzo ust. 5, oraz wydaje certyfikat kwalifikacji zawodowej, jeżeli zdający spełnił warunki określone w art. 44zzzo ust. 2, albo
-3) anuluje dotychczasową informację, o której mowa w art. 44zzzo ust. 5, oraz wydaje nową informację, jeżeli zdający nie spełnił warunków określonych w art. 44zzzo ust. 2.
-7. Zdający lub rodzice niepełnoletniego zdającego, mogą wnieść odwołanie od wyniku weryfikacji sumy punktów z części pisemnej egzaminu zawodowego, o którym mowa w ust. 5, do Kolegium Arbitrażu Egzaminacyjnego, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, w terminie 7 dni od dnia otrzymania informacji, o której mowa w ust. 5.
-8. Zdający lub rodzice niepełnoletniego zdającego w odwołaniu wskazują zadanie lub zadania egzaminacyjne, co do których nie zgadzają się z przyznaną liczbą punktów, wraz z uzasadnieniem, w którym wykazują, że rozwiązanie tego zadania lub zadań egzaminacyjnych przez zdającego:
-1) jest merytorycznie poprawne oraz
-2) spełnia warunki określone w poleceniu do danego zadania egzaminacyjnego.
-9. Dyrektor okręgowej komisji egzaminacyjnej może w wyniku wniesionego odwołania dokonać ponownej weryfikacji sumy punktów.
-10. Jeżeli dyrektor okręgowej komisji egzaminacyjnej uzna, że odwołanie zasługuje na uwzględnienie w całości, ustala nowy wynik części pisemnej egzaminu zawodowego w terminie 7 dni od dnia otrzymania odwołania. Przepis ust. 6 stosuje się odpowiednio.
-11. Jeżeli dyrektor okręgowej komisji egzaminacyjnej uzna, że odwołanie zasługuje na uwzględnienie w części, przekazuje do dyrektora Centralnej Komisji Egzaminacyjnej odwołanie wraz z uzasadnieniem w terminie 7 dni od dnia otrzymania odwołania. Do odwołania dołącza się:
-1) pisemną informację, w jakim zakresie odwołanie zostało uwzględnione;
-2) wydruk zadań, które rozwiązywał zdający, wraz z udzielonymi odpowiedziami;
-3) kopię informacji, o której mowa w ust. 5.
-12. Jeżeli dyrektor okręgowej komisji egzaminacyjnej uzna, że odwołanie nie zasługuje na uwzględnienie, przekazuje do dyrektora Centralnej Komisji Egzaminacyjnej odwołanie wraz z uzasadnieniem w terminie 7 dni od dnia otrzymania odwołania. Do odwołania dołącza się:
-1) wydruk zadań, które rozwiązywał zdający, wraz z udzielonymi odpowiedziami;
-2) kopię informacji, o której mowa w ust. 5.
-13. O przekazaniu odwołania, o którym mowa w ust. 11 i 12, dyrektor okręgowej komisji egzaminacyjnej niezwłocznie informuje zdającego lub rodziców niepełnoletniego zdającego, którzy wnieśli odwołanie.
-14. Dyrektor Centralnej Komisji Egzaminacyjnej przekazuje Kolegium Arbitrażu Egzaminacyjnego odwołanie wraz z uzasadnieniem i dołączonymi dokumentami, o których mowa w ust. 11 i 12, w postaci zanonimizowanej, uniemożliwiającej identyfikację zdającego lub rodziców niepełnoletniego zdającego, którzy wnieśli odwołanie.
-15. W przypadku, o którym mowa w ust. 11, Kolegium Arbitrażu Egzaminacyjnego rozpatruje odwołanie wyłącznie w zakresie nieuwzględnionym przez dyrektora okręgowej komisji egzaminacyjnej.
-16. Kolegium Arbitrażu Egzaminacyjnego może zwrócić się do Centralnej Komisji Egzaminacyjnej z wnioskiem o opinię dotyczącą rozwiązania danego zadania lub zadań egzaminacyjnych. Opinia nie jest wiążąca dla Kolegium Arbitrażu Egzaminacyjnego.
-17. Odwołanie rozpatruje się w terminie 21 dni od dnia przekazania odwołania przez dyrektora okręgowej komisji egzaminacyjnej do dyrektora Centralnej Komisji Egzaminacyjnej. Termin może być jednokrotnie przedłużony, nie więcej jednak niż o 7 dni.
-18. Kolegium Arbitrażu Egzaminacyjnego, w terminie określonym przez dyrektora Centralnej Komisji Egzaminacyjnej, nie krótszym niż 10 dni, podejmuje rozstrzygnięcie w odniesieniu do zadania lub zadań egzaminacyjnych, przestrzegając zasad oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2, i sporządza pisemne uzasadnienie zawierające w szczególności ocenę zasadności argumentów podniesionych w odwołaniu. Rozstrzygnięcie Kolegium Arbitrażu Egzaminacyjnego jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
-19. Kolegium Arbitrażu Egzaminacyjnego przekazuje dyrektorowi Centralnej Komisji Egzaminacyjnej rozstrzygnięcie i uzasadnienie, o których mowa w ust. 18.
-20. Dyrektor Centralnej Komisji Egzaminacyjnej przekazuje niezwłocznie informację o rozstrzygnięciu i treść uzasadnienia, o których mowa w ust. 18, dyrektorowi okręgowej komisji egzaminacyjnej oraz zdającemu lub rodzicom niepełnoletniego zdającego, którzy wnieśli odwołanie.
-21. Jeżeli w wyniku:
-1) rozstrzygnięcia, o którym mowa w ust. 18, lub
-2) uwzględnienia w części odwołania, o którym mowa w ust. 11 – suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowy wynik części pisemnej egzaminu zawodowego. Przepis ust. 6 stosuje się odpowiednio.
-Art. 44zzzu. 1. Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 1:
-1) który był zwolniony z przystąpienia do egzaminu zawodowego lub odpowiedniej części tego egzaminu na podstawie art. 44zzzga ust. 4 lub art. 44zzzgb albo
-2) którego część pisemna lub część praktyczna egzaminu zawodowego została unieważniona, albo
-3) który nie uzyskał wymaganej do zdania egzaminu zawodowego liczby punktów z danej części tego egzaminu – ma prawo przystąpić do egzaminu zawodowego lub odpowiedniej części tego egzaminu w kolejnych terminach głównych jego przeprowadzania w trakcie nauki.
-2. Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 3 i 4:
-1) który nie przystąpił do egzaminu zawodowego lub odpowiedniej części tego egzaminu w wyznaczonym terminie albo
-2) którego część pisemna lub część praktyczna egzaminu zawodowego została unieważniona, albo
-3) który nie uzyskał wymaganej do zdania egzaminu zawodowego liczby punktów z danej części tego egzaminu – ma prawo przystąpić do egzaminu zawodowego lub odpowiedniej części tego egzaminu w kolejnych terminach głównych jego przeprowadzania, z tym że w przypadku gdy przystępuje do egzaminu zawodowego lub jego części po raz trzeci lub kolejny, zdaje ten egzamin lub jego część na zasadach określonych dla egzaminu eksternistycznego zawodowego, z tym że tego zdającego nie dotyczy wykaz zawodów, o którym mowa w art. 10 ust. 6.
-3. Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 5 i 6, który przystąpił do egzaminu zawodowego i nie uzyskał z jednej części tego egzaminu wymaganej do zdania liczby punktów, ma prawo przystąpić do tej części egzaminu zawodowego w kolejnych terminach jego przeprowadzania przez okres 5 lat, licząc od dnia, w którym przystąpił do tego egzaminu po raz pierwszy.
-4. Po upływie 5 lat, licząc od dnia zakończenia roku szkolnego, w którym zdający po raz pierwszy:
-1) przystąpił do egzaminu zawodowego i nie uzyskał z jednej lub obu części tego egzaminu wymaganej do zdania liczby punktów albo
-2) przystąpił do egzaminu zawodowego, którego część pisemna lub część praktyczna egzaminu zawodowego została unieważniona, albo
-3) nie przystąpił do części pisemnej lub części praktycznej egzaminu zawodowego w wyznaczonym terminie – zdający ten przystępuje do egzaminu zawodowego w pełnym zakresie.
-Art. 44zzzua. (uchylony)
-Art. 44zzzv. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i sposób przeprowadzania egzaminu zawodowego, w tym:
-1) zakres danych, które powinna zawierać deklaracja o przystąpieniu do egzaminu zawodowego, oraz tryb składania tej deklaracji,
-2) zakres i terminy przekazywania dyrektorowi okręgowej komisji egzaminacyjnej informacji niezbędnych do przeprowadzenia egzaminu zawodowego, w tym informacji zawartych w deklaracjach, o których mowa w art. 44zzzg,
-3) tryb wydawania opinii, o której mowa w art. 44zzzf ust. 6,
-4) skład zespołów, o których mowa w art. 44zzzi ust. 4,
-5) szczegółowe zadania przewodniczącego zespołu egzaminacyjnego oraz zespołów nadzorujących, o których mowa w art. 44zzzi, egzaminatorów i zespołów egzaminatorów w zakresie części praktycznej egzaminu zawodowego, a także nauczycieli biorących udział w przeprowadzaniu egzaminu zawodowego,
-6) wymagania jakie musi spełnić asystent techniczny, o którym mowa w art. 44zzzia ust. 1, oraz zadania asystenta technicznego,
-7) zakres informacji, które zamieszcza się w protokołach, o których mowa w art. 44zzzi ust. 6,
-8) sposób postępowania z materiałami egzaminacyjnymi dostarczanymi do szkół, placówek lub centrów, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawców, podmiotów prowadzących kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, w tym tryb zgłaszania nieprawidłowości w tym zakresie,
-9) sposób organizacji i przeprowadzania każdej części egzaminu zawodowego, sposób postępowania w sytuacjach zagrożenia lub nagłego zakłócenia przebiegu egzaminu zawodowego, przeprowadzania egzaminu zawodowego w miejscu innym niż szkoła, placówka lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, ze względu na stan zdrowia zdającego lub jego niepełnosprawność,
-10) termin przechowywania prac zdających oraz dokumentacji egzaminu zawodowego,
-11) zakres informacji zawartych we wniosku, o którym mowa w art. 44zzzl ust. 4, termin złożenia tego wniosku oraz tryb udzielania i przedłużania upoważnienia szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcom oraz podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe,
-12) osoby, które nie wchodzą w skład zespołu egzaminacyjnego i nie biorą udziału w przeprowadzaniu egzaminu zawodowego, które mogą przebywać w sali egzaminacyjnej podczas tego egzaminu, w tym osoby, które mogą występować w charakterze obserwatorów podczas egzaminu zawodowego,
-13) wysokość opłat pobieranych za egzamin zawodowy przeprowadzany dla uczniów będących młodocianymi pracownikami zatrudnionymi w celu przygotowania zawodowego u pracodawcy niebędącego rzemieślnikiem oraz dla osób dorosłych, o których mowa w art. 44zzzb ust. 3 pkt 5, oraz możliwość zwalniania osób o niskich dochodach z całości lub części opłat za egzamin zawodowy oraz tryb tego zwalniania – z uwzględnieniem konieczności zapewnienia właściwej organizacji i przebiegu oraz właściwego dokumentowania egzaminu zawodowego, zapewnienia w składzie zespołów, o których mowa w art. 44zzzi ust. 4, co najmniej jednej osoby zatrudnionej w innej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, zapewnienia możliwości wglądu, o którym mowa w art. 44zzzt ust. 1, oraz że wysokość opłaty za egzamin zawodowy nie może być wyższa niż koszt przeprowadzania tego egzaminu.
-Art. 44zzzw. 1. Minister właściwy do spraw oświaty i wychowania ogłasza w Biuletynie Informacji Publicznej komunikat w sprawie wykazu olimpiad przedmiotowych przeprowadzanych z przedmiotu lub przedmiotów objętych egzaminem ósmoklasisty lub egzaminem maturalnym, turniejów lub olimpiad tematycznych związanych z wybranym przedmiotem lub dziedziną wiedzy, a także konkursów dla uczniów szkół i placówek artystycznych, uprawniających odpowiednio do:
-1) zwolnienia z przystąpienia do egzaminu ósmoklasisty z danego przedmiotu, egzaminu maturalnego z danego przedmiotu albo części pisemnej egzaminu zawodowego,
-2) przyjmowania laureatów i finalistów tych olimpiad lub laureatów tych konkursów, w pierwszej kolejności do szkół wymienionych w art. 132 ustawy – Prawo oświatowe – nie później niż na 2 lata przed terminem ich przeprowadzania.
-2. W uzasadnionych przypadkach minister właściwy do spraw oświaty i wychowania może dokonać zmian w wykazie, o którym mowa w ust. 1. Wykaz wraz ze zmianami jest ogłaszany w Biuletynie Informacji Publicznej.
-Art. 44zzzx. Przepisów rozdziału 3b nie stosuje się do dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu głębokim.
-Art. 44zzzy. Wyniki egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego ustalone w trybie przepisów ustawy są ostateczne i nie służy na nie skarga do sądu administracyjnego.
-Art. 44zzzz. 1. W przypadku niewykonania przez nauczyciela lub radę pedagogiczną zadań i kompetencji w zakresie przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego, o których mowa w rozdziale 3b oraz w przepisach wydanych na podstawie art. 44zzza i art. 44zzzv, te zadania i kompetencje wykonuje dyrektor szkoły lub upoważniony przez niego nauczyciel.
-2. W przypadku gdy dyrektor szkoły lub upoważniony przez niego nauczyciel nie wykonuje zadań i kompetencji, o których mowa w ust. 1, te zadania i kompetencje wykonuje nauczyciel wyznaczony przez organ prowadzący szkołę.
-3. W przypadku szkół prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje organu prowadzącego, określone w ust. 2, wykonuje odpowiednio wójt (burmistrz, prezydent miasta), zarząd powiatu, zarząd województwa.
 Art. 44zzzza. Przeprowadzanie:
 1) egzaminu ósmoklasisty, egzaminu maturalnego i egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i ust. 3 pkt 2 lit. b i c, następuje z wykorzystaniem Systemu Informatycznego Obsługującego Egzaminy Ogólnokształcące, zwanego dalej „SIOEO”;
 2) egzaminu zawodowego i egzaminu eksternistycznego zawodowego, o którym mowa w art. 10 ust. 3 pkt 1, następuje z wykorzystaniem SIOEZ.
@@ -832,7 +255,6 @@ Art. 44zzzzl. 1. Dyrektor Instytutu Badań Edukacyjnych w Warszawie może, na wn
 3) w przypadku wniosku dotyczącego zdających: imię (imiona), nazwisko i numer PESEL zdającego, którego wniosek dotyczy, a w przypadku zdającego nieposiadającego numeru PESEL – imię (imiona), nazwisko i datę urodzenia lub wskazanie kategorii osób, których wniosek dotyczy;
 4) w przypadku wniosku dotyczącego egzaminatorów: płeć i rok urodzenia lub wskazanie kategorii osób, których wniosek dotyczy.
 3. Wniosek składa się do współadministratora SIOEO lub SIOEZ.
-Art. 97–103. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1044,7 +466,11 @@ Art. 97–103. (pominięte)
 
 12. Nauczyciele, w tym nauczyciele będący egzaminatorami, biorący udział w przeprowadzaniu części ustnej egzaminu maturalnego, wykonują czynności związane z przeprowadzaniem tej części egzaminu w ramach zajęć, o których mowa w art. 42 ust. 2 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela. W przypadku wykonywania tych czynności w wymiarze przekraczającym tygodniowy obowiązkowy wymiar godzin zajęć, o których mowa w art. 42 ust. 2 pkt 1 ustawy – Karta Nauczyciela, nauczycielowi przysługuje wynagrodzenie za godziny ponadwymiarowe na zasadach określonych w art. 35 ust. 3 ustawy – Karta Nauczyciela.
 
-13. Nauczyciele będący egzaminatorami, asystentami technicznymi, o których mowa w art. 44zzzia ust. 1, albo operatorami pracowni informatycznej, o których mowa w art. 44zzzib ust. 1, z którymi dyrektor okręgowej komisji egzaminacyjnej zawarł umowy, o których mowa odpowiednio w ust. 10 lub 10a, są zwolnieni od pracy w szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, w której są zatrudnieni, na czas niezbędny do przeprowadzenia tego egzaminu, z zachowaniem prawa do wynagrodzenia. Art. 9ca. 1. Minister właściwy do spraw oświaty i wychowania prowadzi:
+13. Nauczyciele będący egzaminatorami, asystentami technicznymi, o których mowa w art. 44zzzia ust. 1, albo operatorami pracowni informatycznej, o których mowa w art. 44zzzib ust. 1, z którymi dyrektor okręgowej komisji egzaminacyjnej zawarł umowy, o których mowa odpowiednio w ust. 10 lub 10a, są zwolnieni od pracy w szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, w której są zatrudnieni, na czas niezbędny do przeprowadzenia tego egzaminu, z zachowaniem prawa do wynagrodzenia.
+
+**Art. 9ca.**
+
+1. Minister właściwy do spraw oświaty i wychowania prowadzi:
 
 - **1)** listę arbitrów w zakresie egzaminu maturalnego do rozpatrywania odwołań, o których mowa w art. 44zzz ust. 7;
 - **2)** listę arbitrów w zakresie egzaminu zawodowego do rozpatrywania odwołań, o których mowa w art. 44zzzt ust. 7.
@@ -1103,7 +529,11 @@ Art. 97–103. (pominięte)
 - **2)** arbiter dwukrotnie, bez uzasadnienia, przekroczył termin wyznaczony przez dyrektora Centralnej Komisji Egzaminacyjnej na rozpatrzenie odwołania, o którym mowa w art. 44zzz ust. 7 albo art. 44zzzt ust. 7;
 - **3)** arbiter, podejmując rozstrzygnięcie w odniesieniu do zadania lub zadań egzaminacyjnych, nie przestrzega zasad oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2.
 
-11. Listy arbitrów są podawane do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania. Art. 9cb. 1. Odwołania, o których mowa w art. 44zzz ust. 7 albo art. 44zzzt ust. 7, rozpatruje Kolegium Arbitrażu Egzaminacyjnego przy dyrektorze Centralnej Komisji Egzaminacyjnej w składzie dwuosobowym.
+11. Listy arbitrów są podawane do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania.
+
+**Art. 9cb.**
+
+1. Odwołania, o których mowa w art. 44zzz ust. 7 albo art. 44zzzt ust. 7, rozpatruje Kolegium Arbitrażu Egzaminacyjnego przy dyrektorze Centralnej Komisji Egzaminacyjnej w składzie dwuosobowym.
 
 2. Skład Kolegium Arbitrażu Egzaminacyjnego wyznacza dyrektor Centralnej Komisji Egzaminacyjnej.
 
@@ -1137,7 +567,9 @@ Art. 97–103. (pominięte)
 
 9. Dyrektor Centralnej Komisji Egzaminacyjnej zawiera z arbitrami oraz egzaminatorami, o których mowa w ust. 6, umowy określające zakres ich obowiązków, stopień złożoności rozwiązania każdego zadania egzaminacyjnego rozpatrywanego w ramach odwołania oraz wysokość wynagrodzenia.
 
-10. Obsługę administracyjną i finansową Kolegium Arbitrażu Egzaminacyjnego zapewnia Centralna Komisja Egzaminacyjna. Art. 9cc. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+10. Obsługę administracyjną i finansową Kolegium Arbitrażu Egzaminacyjnego zapewnia Centralna Komisja Egzaminacyjna.
+
+**Art. 9cc.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
 - **1)** tryb wyznaczania składu Kolegium Arbitrażu Egzaminacyjnego do rozpatrzenia odwołania, biorąc pod uwagę konieczność równomiernego rozłożenia pracy pomiędzy arbitrów;
 - **2)** tryb i sposób działania Kolegium Arbitrażu Egzaminacyjnego, biorąc pod uwagę konieczność zapewnienia sprawnego rozpatrywania odwołań oraz wykorzystywania w pracach tego kolegium przede wszystkim środków komunikacji elektronicznej;
@@ -1189,7 +621,11 @@ Art. 97–103. (pominięte)
 
 14. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, staż pracy wymagany od osoby zajmującej stanowisko dyrektora Centralnej Komisji Egzaminacyjnej i dyrektora okręgowej komisji egzaminacyjnej, sposób i tryb przeprowadzania konkursu na stanowisko dyrektora Centralnej Komisji Egzaminacyjnej i dyrektora okręgowej komisji egzaminacyjnej oraz skład i tryb pracy komisji konkursowej, uwzględniając sposób ogłaszania konkursu, sposób wyłaniania kandydata, sposób sprawowania nadzoru nad prawidłowością postępowania konkursowego oraz tryb unieważnienia konkursu.
 
-15. W rozporządzeniu, o którym mowa w ust. 14, minister właściwy do spraw oświaty i wychowania może określić dodatkowe wymagania, jakim powinna odpowiadać osoba zajmująca stanowisko odpowiednio dyrektora Centralnej Komisji Egzaminacyjnej i dyrektora okręgowej komisji egzaminacyjnej, uwzględniając specyfikę zadań wykonywanych przez odpowiednio Centralną Komisję Egzaminacyjną i okręgową komisję egzaminacyjną. Art. 9da. 1. Dyrektor Centralnej Komisji Egzaminacyjnej może zlecić dyrektorowi okręgowej komisji egzaminacyjnej przeprowadzenie badań, o których mowa w art. 9a ust. 2 pkt 8a, w zakresie określonym przez dyrektora Centralnej Komisji Egzaminacyjnej, w warunkach zapewniających ochronę materiałów służących do przeprowadzania tych badań przed nieuprawnionym ujawnieniem. W celu przeprowadzenia tych badań okręgowa komisja egzaminacyjna pozyskuje następujące dane ucznia albo zdającego: numer PESEL, a w przypadku ucznia albo zdającego nieposiadającego numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, klasę, oddział, do którego uczeń albo zdający odpowiednio uczęszcza lub uczęszczał, oraz informację o rodzaju niepełnosprawności określonej w orzeczeniu o potrzebie kształcenia specjalnego.
+15. W rozporządzeniu, o którym mowa w ust. 14, minister właściwy do spraw oświaty i wychowania może określić dodatkowe wymagania, jakim powinna odpowiadać osoba zajmująca stanowisko odpowiednio dyrektora Centralnej Komisji Egzaminacyjnej i dyrektora okręgowej komisji egzaminacyjnej, uwzględniając specyfikę zadań wykonywanych przez odpowiednio Centralną Komisję Egzaminacyjną i okręgową komisję egzaminacyjną.
+
+**Art. 9da.**
+
+1. Dyrektor Centralnej Komisji Egzaminacyjnej może zlecić dyrektorowi okręgowej komisji egzaminacyjnej przeprowadzenie badań, o których mowa w art. 9a ust. 2 pkt 8a, w zakresie określonym przez dyrektora Centralnej Komisji Egzaminacyjnej, w warunkach zapewniających ochronę materiałów służących do przeprowadzania tych badań przed nieuprawnionym ujawnieniem. W celu przeprowadzenia tych badań okręgowa komisja egzaminacyjna pozyskuje następujące dane ucznia albo zdającego: numer PESEL, a w przypadku ucznia albo zdającego nieposiadającego numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, klasę, oddział, do którego uczeń albo zdający odpowiednio uczęszcza lub uczęszczał, oraz informację o rodzaju niepełnosprawności określonej w orzeczeniu o potrzebie kształcenia specjalnego.
 
 2. Dane ucznia albo zdającego, o których mowa w ust. 1, są przechowywane przez okres 6 miesięcy.
 
@@ -1203,7 +639,11 @@ Art. 97–103. (pominięte)
 
 4. Przepisów ust. 1–3 nie stosuje się do zadań egzaminacyjnych w części praktycznej egzaminu zawodowego, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret czwarte, oraz zadań egzaminacyjnych w części ustnej egzaminu maturalnego, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret piąte.
 
-**Art. 9f.** (uchylony) Art. 9fa. 1. W roku 2019 ze środków Funduszu Pracy dofinansowuje się koszty przygotowania i przeprowadzenia egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego, związane odpowiednio z:
+**Art. 9f.** (uchylony)
+
+**Art. 9fa.**
+
+1. W roku 2019 ze środków Funduszu Pracy dofinansowuje się koszty przygotowania i przeprowadzenia egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego, związane odpowiednio z:
 
 - **1)** wynagrodzeniami egzaminatorów sprawdzających i oceniających część praktyczną egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., oraz egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r.,
 - **2)** wynagrodzeniami przewodniczących zespołów egzaminatorów sprawdzających i oceniających część praktyczną egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., oraz egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r.,
@@ -1465,12 +905,20 @@ Art. 97–103. (pominięte)
 
 10. Programy nauczania zawodów podstawowych dla żeglugi śródlądowej mogą być dopuszczone do użytku w danej szkole po uzyskaniu pozytywnej opinii ministra właściwego do spraw żeglugi śródlądowej.
 
-11. Programy nauczania zawodów podstawowych dla rybołówstwa mogą być dopuszczone do użytku w danej szkole po uzyskaniu pozytywnej opinii ministra właściwego do spraw rybołówstwa w zakresie zgodności z postanowieniami konwencji dotyczących wymagań w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht. Art. 22aa. 1. Nauczyciel może zdecydować o realizacji programu nauczania:
+11. Programy nauczania zawodów podstawowych dla rybołówstwa mogą być dopuszczone do użytku w danej szkole po uzyskaniu pozytywnej opinii ministra właściwego do spraw rybołówstwa w zakresie zgodności z postanowieniami konwencji dotyczących wymagań w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht.
+
+**Art. 22aa.**
+
+1. Nauczyciel może zdecydować o realizacji programu nauczania:
 
 - **1)** z zastosowaniem podręcznika, materiału edukacyjnego lub materiału ćwiczeniowego lub
 - **2)** bez zastosowania podręcznika lub materiałów, o których mowa w pkt 1.
 
-2. Program nauczania może być realizowany również z wykorzystaniem w szczególności urządzeń, sprzętu lub oprogramowania, przydatnych do realizacji tego programu, z uwzględnieniem potrzeb edukacyjnych i możliwości psychofizycznych uczniów. Art. 22ab. 1. Zespół nauczycieli prowadzących nauczanie w klasach I–III szkoły podstawowej oraz zespół nauczycieli prowadzących nauczanie danych zajęć edukacyjnych w klasach IV–VIII szkoły podstawowej i szkole ponadpodstawowej przedstawiają dyrektorowi szkoły propozycję:
+2. Program nauczania może być realizowany również z wykorzystaniem w szczególności urządzeń, sprzętu lub oprogramowania, przydatnych do realizacji tego programu, z uwzględnieniem potrzeb edukacyjnych i możliwości psychofizycznych uczniów.
+
+**Art. 22ab.**
+
+1. Zespół nauczycieli prowadzących nauczanie w klasach I–III szkoły podstawowej oraz zespół nauczycieli prowadzących nauczanie danych zajęć edukacyjnych w klasach IV–VIII szkoły podstawowej i szkole ponadpodstawowej przedstawiają dyrektorowi szkoły propozycję:
 
 - **1)** jednego podręcznika do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej oraz jednego podręcznika do zajęć z zakresu danego języka obcego nowożytnego, lub materiału edukacyjnego, dla uczniów danej klasy – w przypadku klas I–III szkoły podstawowej;
 - **2)** jednego podręcznika do danych zajęć edukacyjnych lub materiału edukacyjnego do danych zajęć edukacyjnych, dla uczniów danej klasy – w przypadku klas IV– VIII szkoły podstawowej i szkoły ponadpodstawowej;
@@ -1498,9 +946,39 @@ Art. 97–103. (pominięte)
 
 6. Dyrektor szkoły corocznie podaje do publicznej wiadomości zestaw podręczników lub materiałów edukacyjnych oraz materiały ćwiczeniowe obowiązujące w danym roku szkolnym.
 
-7. Przepisy ust. 1–6 stosuje się odpowiednio do szkół artystycznych w zakresie kształcenia ogólnego. Art. 22ac. (uchylony) Art. 22ad. (uchylony) Art. 22ae. (uchylony) Art. 22af. (uchylony) Art. 22ag. (uchylony) Art. 22aga. (uchylony) Art. 22ah. (uchylony) Art. 22ai. (uchylony) Art. 22aj. 1. W bibliotece szkolnej są gromadzone podręczniki, materiały edukacyjne, materiały ćwiczeniowe i inne materiały biblioteczne.
+7. Przepisy ust. 1–6 stosuje się odpowiednio do szkół artystycznych w zakresie kształcenia ogólnego.
 
-2. Czynności związane z zakupem do biblioteki szkolnej podręczników, materiałów edukacyjnych, materiałów ćwiczeniowych i innych materiałów bibliotecznych oraz czynności związane z gospodarowaniem tymi podręcznikami i materiałami wykonuje dyrektor szkoły. Art. 22ak. (uchylony) Art. 22al. (uchylony) Art. 22am. (uchylony) Art. 22an. 1. Minister właściwy do spraw oświaty i wychowania dopuszcza do użytku szkolnego podręczniki, po uzyskaniu pozytywnych opinii rzeczoznawców wyznaczonych przez ministra właściwego do spraw oświaty i wychowania z listy rzeczoznawców prowadzonej przez tego ministra.
+**Art. 22ac.** (uchylony)
+
+**Art. 22ad.** (uchylony)
+
+**Art. 22ae.** (uchylony)
+
+**Art. 22af.** (uchylony)
+
+**Art. 22ag.** (uchylony)
+
+**Art. 22aga.** (uchylony)
+
+**Art. 22ah.** (uchylony)
+
+**Art. 22ai.** (uchylony)
+
+**Art. 22aj.**
+
+1. W bibliotece szkolnej są gromadzone podręczniki, materiały edukacyjne, materiały ćwiczeniowe i inne materiały biblioteczne.
+
+2. Czynności związane z zakupem do biblioteki szkolnej podręczników, materiałów edukacyjnych, materiałów ćwiczeniowych i innych materiałów bibliotecznych oraz czynności związane z gospodarowaniem tymi podręcznikami i materiałami wykonuje dyrektor szkoły.
+
+**Art. 22ak.** (uchylony)
+
+**Art. 22al.** (uchylony)
+
+**Art. 22am.** (uchylony)
+
+**Art. 22an.**
+
+1. Minister właściwy do spraw oświaty i wychowania dopuszcza do użytku szkolnego podręczniki, po uzyskaniu pozytywnych opinii rzeczoznawców wyznaczonych przez ministra właściwego do spraw oświaty i wychowania z listy rzeczoznawców prowadzonej przez tego ministra.
 
 2. (uchylony) 2a. (uchylony) 2b. (uchylony)
 
@@ -1512,7 +990,11 @@ Art. 97–103. (pominięte)
 
 7. Dopuszczenie i odmowa dopuszczenia podręcznika do użytku szkolnego następuje w drodze decyzji administracyjnej.
 
-8. Stroną postępowania w sprawie dopuszczenia podręcznika do użytku szkolnego jest wyłącznie wnioskodawca występujący z wnioskiem o dopuszczenie podręcznika. Przepisu art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) nie stosuje się. Art. 22ao. 1. Podręcznik może mieć postać papierową lub elektroniczną.
+8. Stroną postępowania w sprawie dopuszczenia podręcznika do użytku szkolnego jest wyłącznie wnioskodawca występujący z wnioskiem o dopuszczenie podręcznika. Przepisu art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) nie stosuje się.
+
+**Art. 22ao.**
+
+1. Podręcznik może mieć postać papierową lub elektroniczną.
 
 2. Podręcznik może być wydawany w częściach, jeżeli jest to uzasadnione ze względu na funkcjonalność używania podręcznika.
 
@@ -1528,13 +1010,26 @@ Art. 97–103. (pominięte)
 - **5)** nie zawiera materiałów i treści o charakterze reklamowym;
 - **6)** w przypadku podręcznika w postaci elektronicznej – jest opracowany w sposób pozwalający na zastosowanie rozwiązań umożliwiających odczyt przez uczniów z różnymi rodzajami niepełnosprawności;
 - **6a)** w przypadku podręcznika w postaci papierowej – jest opracowany w postaci papierowej i ponadto jego cyfrowe odzwierciedlenie jest zamieszczone na informatycznym nośniku danych lub w Internecie;
-- **7)** spełnia szczegółowe warunki określone w przepisach wydanych na podstawie art. 22aw. Art. 22ap. Podręczniki dopuszczone do użytku szkolnego są wpisywane do wykazu, który jest podawany do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania. Art. 22aq. 1. Minister właściwy do spraw oświaty i wychowania, w drodze decyzji administracyjnej, może cofnąć dopuszczenie do użytku szkolnego podręcznika:
+- **7)** spełnia szczegółowe warunki określone w przepisach wydanych na podstawie art. 22aw.
+
+**Art. 22ap.** Podręczniki dopuszczone do użytku szkolnego są wpisywane do wykazu, który jest podawany do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania.
+
+**Art. 22aq.**
+
+1. Minister właściwy do spraw oświaty i wychowania, w drodze decyzji administracyjnej, może cofnąć dopuszczenie do użytku szkolnego podręcznika:
+
 - **1)** na wniosek podmiotu, o którym mowa w art. 22an ust. 3;
 - **2)** z urzędu – jeżeli co najmniej dwóch rzeczoznawców wyznaczonych przez ministra właściwego do spraw oświaty i wychowania stwierdzi, że podręcznik:
     - **a)** utracił aktualność lub przydatność dydaktyczną, lub
     - **b)** zawiera błędy merytoryczne, z powodu których podręcznik nie powinien być w użytku szkolnym.
 
-2. Minister właściwy do spraw oświaty i wychowania zamieszcza na stronie internetowej urzędu obsługującego tego ministra informację o terminie, po upływie którego podręcznik nie może być uwzględniony w zestawie, o którym mowa w art. 22ab ust. 4 pkt 1. Art. 22ar. Wpis na listę rzeczoznawców jest dokonywany na wniosek osoby zainteresowanej. Art. 22as. 1. Na listę rzeczoznawców może być wpisana osoba posiadająca:
+2. Minister właściwy do spraw oświaty i wychowania zamieszcza na stronie internetowej urzędu obsługującego tego ministra informację o terminie, po upływie którego podręcznik nie może być uwzględniony w zestawie, o którym mowa w art. 22ab ust. 4 pkt 1.
+
+**Art. 22ar.** Wpis na listę rzeczoznawców jest dokonywany na wniosek osoby zainteresowanej.
+
+**Art. 22as.**
+
+1. Na listę rzeczoznawców może być wpisana osoba posiadająca:
 
 - **1)** wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny, z tym że w przypadku rzeczoznawcy do spraw podręczników przeznaczonych do kształcenia specjalnego – wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny, w zakresie specjalności odpowiedniej dla danej niepełnosprawności lub kwalifikacje wymagane do zajmowania stanowiska nauczyciela w szkole specjalnej;
 - **2)** doświadczenie i osiągnięcia w pracy naukowej lub dydaktycznej;
@@ -1550,7 +1045,11 @@ Art. 97–103. (pominięte)
 
 3. Na liście rzeczoznawców zamieszcza się imię i nazwisko rzeczoznawcy, stopień lub tytuł naukowy, wskazany przez rzeczoznawcę adres do korespondencji, adres poczty elektronicznej i numer telefonu oraz nazwę instytucji, która udzieliła rekomendacji, o której mowa w ust. 1 pkt 4.
 
-4. Lista rzeczoznawców jest podawana do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania. Art. 22at. 1. Minister właściwy do spraw oświaty i wychowania skreśla rzeczoznawcę z listy rzeczoznawców:
+4. Lista rzeczoznawców jest podawana do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania.
+
+**Art. 22at.**
+
+1. Minister właściwy do spraw oświaty i wychowania skreśla rzeczoznawcę z listy rzeczoznawców:
 
 - **1)** na wniosek rzeczoznawcy;
 - **2)** w przypadku ukarania rzeczoznawcy karą dyscyplinarną lub skazania rzeczoznawcy prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
@@ -1567,17 +1066,28 @@ Art. 97–103. (pominięte)
 - **2a)** rzeczoznawca trzykrotnie przekroczył termin wyznaczony na sporządzenie opinii;
 - **3)** opinia sporządzona przez rzeczoznawcę jest niezgodna z wymaganiami określonymi w przepisach wydanych na podstawie art. 22aw lub podręcznik dopuszczony do użytku szkolnego na podstawie pozytywnej opinii rzeczoznawcy zawiera błędy merytoryczne, z powodu których nie powinien być w użytku szkolnym.
 
-3. Minister właściwy do spraw oświaty i wychowania zawiesza rzeczoznawcę w wykonywaniu jego zadań, w przypadku, gdy przeciwko rzeczoznawcy toczy się postępowanie dyscyplinarne, postępowanie karne o umyślne przestępstwo ścigane z oskarżenia publicznego lub postępowanie karne skarbowe o umyślne przestępstwo skarbowe. Art. 22au. 1. Rzeczoznawca nie może opiniować podręcznika, jeżeli:
+3. Minister właściwy do spraw oświaty i wychowania zawiesza rzeczoznawcę w wykonywaniu jego zadań, w przypadku, gdy przeciwko rzeczoznawcy toczy się postępowanie dyscyplinarne, postępowanie karne o umyślne przestępstwo ścigane z oskarżenia publicznego lub postępowanie karne skarbowe o umyślne przestępstwo skarbowe.
+
+**Art. 22au.**
+
+1. Rzeczoznawca nie może opiniować podręcznika, jeżeli:
 
 - **1)** jest autorem lub współautorem podręcznika, który jest przeznaczony do tych samych zajęć edukacyjnych na tym samym etapie edukacyjnym;
 - **2)** jest małżonkiem, krewnym lub powinowatym osoby składającej wniosek, o którym mowa w art. 22an ust. 3;
 - **3)** pozostaje z podmiotem składającym wniosek, o którym mowa w art. 22an ust. 3, w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do jego bezstronności.
 
-2. Przed sporządzeniem opinii o podręczniku rzeczoznawca składa ministrowi właściwemu do spraw oświaty i wychowania oświadczenie, że nie zachodzą przesłanki, o których mowa w ust. 1. Art. 22av. Wysokość wynagrodzenia rzeczoznawcy ustala minister właściwy do spraw oświaty i wychowania, biorąc pod uwagę:
+2. Przed sporządzeniem opinii o podręczniku rzeczoznawca składa ministrowi właściwemu do spraw oświaty i wychowania oświadczenie, że nie zachodzą przesłanki, o których mowa w ust. 1.
+
+**Art. 22av.** Wysokość wynagrodzenia rzeczoznawcy ustala minister właściwy do spraw oświaty i wychowania, biorąc pod uwagę:
 
 - **1)** rodzaj i postać opiniowanego podręcznika;
 - **2)** etap edukacyjny, dla którego jest przeznaczony podręcznik;
-- **3)** rodzaj i zakres opinii. Art. 22aw. 1. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+- **3)** rodzaj i zakres opinii.
+
+**Art. 22aw.**
+
+1. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
 - **1)** szczegółowe warunki, jakie muszą spełniać podręczniki dopuszczone do użytku szkolnego;
 - **2)** rodzaj zajęć edukacyjnych, do których nie dopuszcza się podręczników do użytku szkolnego, z uwagi na specyfikę tych zajęć edukacyjnych;
 - **3)** szczegółowe warunki i tryb dopuszczania podręczników do użytku szkolnego;
@@ -1591,9 +1101,23 @@ Art. 97–103. (pominięte)
 - **2)** możliwość różnicowania szczegółowych warunków, jakie musi spełnić podręcznik, w zależności od rodzaju zajęć edukacyjnych, do których jest przeznaczony, oraz postaci podręcznika;
 - **3)** rodzaje wykazów podręczników dopuszczonych do użytku szkolnego;
 - **4)** instytucje, których rekomendacja jest wymagana przy ubieganiu się o wpisanie na listę rzeczoznawców;
-- **5)** możliwość różnicowania opłat wnoszonych w postępowaniu o dopuszczenie podręcznika do użytku szkolnego w zależności od rodzaju i postaci podręcznika, zakresu kształcenia, rodzaju zajęć edukacyjnych oraz etapu edukacyjnego. Art. 22ax. (uchylony) Art. 22ay. 1. (uchylony)
+- **5)** możliwość różnicowania opłat wnoszonych w postępowaniu o dopuszczenie podręcznika do użytku szkolnego w zależności od rodzaju i postaci podręcznika, zakresu kształcenia, rodzaju zajęć edukacyjnych oraz etapu edukacyjnego.
 
-2. Do szkół polskich, o których mowa w art. 4 pkt 29d ustawy – Prawo oświatowe przepisy art. 22aa i art. 22ab ust. 1, 2 pkt 4 i ust. 3–6 stosuje się odpowiednio. Art. 22az. (uchylony) Art. 22aza. (uchylony) Art. 22azb. (uchylony) Art. 22azc. (uchylony)
+**Art. 22ax.** (uchylony)
+
+**Art. 22ay.**
+
+1. (uchylony)
+
+2. Do szkół polskich, o których mowa w art. 4 pkt 29d ustawy – Prawo oświatowe przepisy art. 22aa i art. 22ab ust. 1, 2 pkt 4 i ust. 3–6 stosuje się odpowiednio.
+
+**Art. 22az.** (uchylony)
+
+**Art. 22aza.** (uchylony)
+
+**Art. 22azb.** (uchylony)
+
+**Art. 22azc.** (uchylony)
 
 **Art. 22b.** Dyrektor szkoły podejmuje działania organizacyjne umożliwiające obrót używanymi podręcznikami na terenie szkoły.
 
@@ -1975,7 +1499,11 @@ Art. 97–103. (pominięte)
 
 1. Do słuchaczy szkoły dla dorosłych, branżowej szkoły II stopnia i szkoły policealnej przepisy art. 44b ust. 1 pkt 1, ust. 3, 5 i 10 oraz art. 44j stosuje się odpowiednio.
 
-2. W szkole dla dorosłych, branżowej szkole II stopnia i szkole policealnej nie ocenia się zachowania słuchacza. Art. 44sa. 1. W szkole dla dorosłych, branżowej szkole II stopnia i szkole policealnej ocenianie wewnątrzszkolne obejmuje:
+2. W szkole dla dorosłych, branżowej szkole II stopnia i szkole policealnej nie ocenia się zachowania słuchacza.
+
+**Art. 44sa.**
+
+1. W szkole dla dorosłych, branżowej szkole II stopnia i szkole policealnej ocenianie wewnątrzszkolne obejmuje:
 
 - **1)** formułowanie przez nauczycieli wymagań edukacyjnych niezbędnych do otrzymania przez słuchacza poszczególnych semestralnych ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3;
 - **2)** ustalanie bieżących i semestralnych ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3;
@@ -1987,7 +1515,11 @@ Art. 97–103. (pominięte)
 
 - **1)** wymaganiach edukacyjnych niezbędnych do otrzymania przez słuchacza poszczególnych semestralnych ocen klasyfikacyjnych z zajęć edukacyjnych, wynikających z realizowanego przez siebie programu nauczania;
 - **2)** sposobu sprawdzania osiągnięć edukacyjnych słuchaczy.
-- **3)** (uchylony) Art. 44sb. 1. Nauczyciel jest obowiązany indywidualizować pracę ze słuchaczem na zajęciach edukacyjnych odpowiednio do potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych słuchacza.
+- **3)** (uchylony)
+
+**Art. 44sb.**
+
+1. Nauczyciel jest obowiązany indywidualizować pracę ze słuchaczem na zajęciach edukacyjnych odpowiednio do potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych słuchacza.
 
 2. Nauczyciel jest obowiązany dostosować wymagania edukacyjne, o których mowa w art. 44sa ust. 2 pkt 1, do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych słuchacza, w przypadkach określonych w przepisach wydanych na podstawie art. 44zb.
 
@@ -2046,7 +1578,11 @@ Art. 97–103. (pominięte)
 
 5. Słuchacz, który z przyczyn losowych lub zdrowotnych nie przystąpił do egzaminu semestralnego w terminie, o którym mowa w ust. 3, zdaje ten egzamin w terminie dodatkowym, wyznaczonym przez dyrektora szkoły.
 
-6. Ustalona w wyniku egzaminu semestralnego semestralna ocena klasyfikacyjna z obowiązkowych zajęć edukacyjnych jest ostateczna, z zastrzeżeniem art. 44y i art. 44ya. Art. 44wa. 1. Egzamin klasyfikacyjny, o którym mowa w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy – Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej.
+6. Ustalona w wyniku egzaminu semestralnego semestralna ocena klasyfikacyjna z obowiązkowych zajęć edukacyjnych jest ostateczna, z zastrzeżeniem art. 44y i art. 44ya.
+
+**Art. 44wa.**
+
+1. Egzamin klasyfikacyjny, o którym mowa w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy – Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej.
 
 2. Egzamin klasyfikacyjny przeprowadza się nie później niż w dniu poprzedzającym dzień zakończenia semestralnych zajęć dydaktycznych. Termin egzaminu klasyfikacyjnego uzgadnia się ze słuchaczem, a w przypadku niepełnoletniego słuchacza – również z jego rodzicami.
 
@@ -2070,7 +1606,11 @@ Art. 97–103. (pominięte)
 
 3. Semestralna ocena klasyfikacyjna z obowiązkowych zajęć edukacyjnych ustalona w wyniku egzaminu poprawkowego jest ostateczna, z zastrzeżeniem art. 44ya ust. 6.
 
-4. Słuchacz, który nie zdał egzaminu poprawkowego, nie otrzymuje promocji na semestr programowo wyższy. Art. 44ya. 1. Słuchacz, a w przypadku niepełnoletniego słuchacza – również jego rodzice, mogą zgłosić zastrzeżenia do dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej, jeżeli uznają, że semestralna ocena klasyfikacyjna z zajęć edukacyjnych została ustalona niezgodnie z przepisami dotyczącymi trybu ustalania tej oceny.
+4. Słuchacz, który nie zdał egzaminu poprawkowego, nie otrzymuje promocji na semestr programowo wyższy.
+
+**Art. 44ya.**
+
+1. Słuchacz, a w przypadku niepełnoletniego słuchacza – również jego rodzice, mogą zgłosić zastrzeżenia do dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej, jeżeli uznają, że semestralna ocena klasyfikacyjna z zajęć edukacyjnych została ustalona niezgodnie z przepisami dotyczącymi trybu ustalania tej oceny.
 
 2. Zastrzeżenia, o których mowa w ust. 1, zgłasza się od dnia ustalenia semestralnej oceny klasyfikacyjnej z zajęć edukacyjnych, nie później jednak niż w terminie 2 dni roboczych od dnia zakończenia semestralnych zajęć dydaktycznych.
 
@@ -2097,7 +1637,11 @@ Art. 97–103. (pominięte)
 
 4. Wniosek, o którym mowa w ust. 3, słuchacz składa do dyrektora szkoły, nie później niż w terminie 7 dni od dnia podjęcia przez radę pedagogiczną uchwały w sprawie klasyfikacji i promocji słuchaczy.
 
-5. Niepełnoletni słuchacz, który nie otrzymał promocji na semestr programowo wyższy, powtarza ten semestr. Art. 44za. 1. Słuchacz kończy szkołę dla dorosłych, jeżeli:
+5. Niepełnoletni słuchacz, który nie otrzymał promocji na semestr programowo wyższy, powtarza ten semestr.
+
+**Art. 44za.**
+
+1. Słuchacz kończy szkołę dla dorosłych, jeżeli:
 
 - **1)** w wyniku klasyfikacji końcowej otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych pozytywne końcowe oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb;
 - **2)** w przypadku szkoły podstawowej dla dorosłych – przystąpił ponadto do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2.
@@ -2109,7 +1653,9 @@ Art. 97–103. (pominięte)
 - **1)** w wyniku klasyfikacji końcowej otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych pozytywne końcowe oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb, oraz
 - **2)** przystąpił do egzaminu zawodowego ze wszystkich kwalifikacji wyodrębnionych w zawodzie, z zastrzeżeniem art. 44zzzga i art. 44zzzgb.
 
-4. Niepełnoletni słuchacz branżowej szkoły II stopnia lub szkoły policealnej, który nie spełnił warunków, o których mowa w ust. 3, powtarza ostatni semestr. Art. 44zb. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i sposób oceniania, klasyfikowania i promowania uczniów w szkołach publicznych, w tym:
+4. Niepełnoletni słuchacz branżowej szkoły II stopnia lub szkoły policealnej, który nie spełnił warunków, o których mowa w ust. 3, powtarza ostatni semestr.
+
+**Art. 44zb.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i sposób oceniania, klasyfikowania i promowania uczniów w szkołach publicznych, w tym:
 
 - **1)** przypadki, w których dostosowuje się wymagania edukacyjne, o których mowa odpowiednio w art. 44b ust. 8 pkt 1 i art. 44sa ust. 2 pkt 1, do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych uczniów i słuchaczy oraz podstawę tego dostosowania, z uwzględnieniem konieczności właściwego zapewnienia procesu kształcenia uczniów i słuchaczy, w tym słuchaczy szkół dla dorosłych, branżowych szkół II stopnia i szkół policealnych funkcjonujących w zakładach karnych lub aresztach śledczych;
 - **2)** rodzaje obowiązkowych zajęć edukacyjnych, z których realizacji uczeń może być zwolniony, przypadki, w których to zwolnienie może nastąpić, rodzaje dokumentów będących podstawą zwolnienia oraz tryb i okres zwolnienia, uwzględniając indywidualne możliwości psychofizyczne ucznia, specyfikę danych zajęć edukacyjnych oraz celowość realizacji przez ucznia niektórych treści nauczania;
@@ -2120,7 +1666,14 @@ Art. 97–103. (pominięte)
 - **7)** tryb i formę przeprowadzania egzaminu poprawkowego, skład komisji powołanej do przeprowadzenia egzaminu poprawkowego, z uwzględnieniem konieczności zapewnienia prawidłowości przeprowadzenia tego egzaminu oraz odpowiedniego udokumentowania jego przebiegu;
 - **8)** tryb i formę przeprowadzania sprawdzianu wiadomości i umiejętności ucznia, o którym mowa w art. 44n ust. 4 pkt 1 lub art. 44ya ust. 3, oraz ustalania rocznej oceny klasyfikacyjnej zachowania, o której mowa w art. 44n ust. 4 pkt 2, skład komisji, o których mowa w art. 44n ust. 4 lub art. 44ya ust. 3, z uwzględnieniem konieczności zapewnienia prawidłowości przeprowadzania tego sprawdzianu lub prawidłowości ustalania rocznej oceny klasyfikacyjnej zachowania oraz odpowiedniego udokumentowania pracy komisji;
 - **9)** warunki promocji ucznia do klasy programowo wyższej lub ukończenia szkoły z wyróżnieniem, z uwzględnieniem rocznych ocen klasyfikacyjnych z zajęć edukacyjnych, które wlicza się do średniej ocen, oraz rocznej oceny klasyfikacyjnej zachowania;
-- **10)** tryb i formę przeprowadzania egzaminu semestralnego, z uwzględnieniem konieczności zapewnienia prawidłowości przeprowadzenia tego egzaminu oraz odpowiedniego udokumentowania jego przebiegu. Art. 44zc. Ocenianie, klasyfikowanie i promowanie uczniów w szkole artystycznej odbywa się zgodnie z zasadami określonymi w art. 44zd–44zp oraz przepisami wydanymi na podstawie art. 44zq. Art. 44zd. 1. Ocenianiu w szkole artystycznej realizującej kształcenie artystyczne i kształcenie ogólne podlegają:
+- **10)** tryb i formę przeprowadzania egzaminu semestralnego, z uwzględnieniem konieczności zapewnienia prawidłowości przeprowadzenia tego egzaminu oraz odpowiedniego udokumentowania jego przebiegu.
+
+**Art. 44zc.** Ocenianie, klasyfikowanie i promowanie uczniów w szkole artystycznej odbywa się zgodnie z zasadami określonymi w art. 44zd–44zp oraz przepisami wydanymi na podstawie art. 44zq.
+
+**Art. 44zd.**
+
+1. Ocenianiu w szkole artystycznej realizującej kształcenie artystyczne i kształcenie ogólne podlegają:
+
 - **1)** osiągnięcia edukacyjne ucznia w zakresie zajęć edukacyjnych ogólnokształcących;
 - **2)** osiągnięcia edukacyjne ucznia w zakresie zajęć edukacyjnych artystycznych;
 - **3)** zachowanie ucznia.
@@ -2173,7 +1726,11 @@ Art. 97–103. (pominięte)
 
 10. Nauczyciel jest obowiązany indywidualizować pracę z uczniem na zajęciach edukacyjnych odpowiednio do potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych ucznia.
 
-11. Nauczyciel jest obowiązany dostosować wymagania edukacyjne, o których mowa w ust. 6 pkt 1, do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych ucznia, w przypadkach określonych w przepisach wydanych na podstawie art. 44zq. Art. 44zda. 1. Uczeń w trakcie nauki w szkole artystycznej otrzymuje oceny:
+11. Nauczyciel jest obowiązany dostosować wymagania edukacyjne, o których mowa w ust. 6 pkt 1, do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych ucznia, w przypadkach określonych w przepisach wydanych na podstawie art. 44zq.
+
+**Art. 44zda.**
+
+1. Uczeń w trakcie nauki w szkole artystycznej otrzymuje oceny:
 
 - **1)** bieżące;
 - **2)** klasyfikacyjne:
@@ -2195,7 +1752,11 @@ Art. 97–103. (pominięte)
 
 6. W artystycznej szkole policealnej dokumentacja, o której mowa w ust. 5, jest udostępniana uczniowi do wglądu na jego wniosek.
 
-7. Sposób udostępniania dokumentacji, o której mowa w ust. 4 i 5, określa statut szkoły artystycznej. Art. 44ze. 1. Uczeń szkoły artystycznej podlega klasyfikacji:
+7. Sposób udostępniania dokumentacji, o której mowa w ust. 4 i 5, określa statut szkoły artystycznej.
+
+**Art. 44ze.**
+
+1. Uczeń szkoły artystycznej podlega klasyfikacji:
 
 - **1)** śródrocznej i rocznej, a w artystycznej szkole policealnej – semestralnej;
 - **2)** końcowej.
@@ -2223,9 +1784,17 @@ Art. 97–103. (pominięte)
 8. Ocena klasyfikacyjna zachowania nie wpływa na:
 
 - **1)** oceny klasyfikacyjne z zajęć edukacyjnych;
-- **2)** promocję do klasy programowo wyższej lub ukończenie szkoły artystycznej. Art. 44zf. 1. Przed rocznym klasyfikacyjnym zebraniem rady pedagogicznej nauczyciele prowadzący poszczególne zajęcia edukacyjne oraz wychowawca oddziału informują ucznia i jego rodziców o przewidywanych dla niego rocznych ocenach klasyfikacyjnych z zajęć edukacyjnych i przewidywanej rocznej ocenie klasyfikacyjnej zachowania, w terminie i formie określonych w statucie szkoły artystycznej.
+- **2)** promocję do klasy programowo wyższej lub ukończenie szkoły artystycznej.
 
-2. W artystycznej szkole policealnej przed semestralnym klasyfikacyjnym zebraniem rady pedagogicznej nauczyciele prowadzący poszczególne zajęcia edukacyjne informują ucznia o przewidywanych dla niego semestralnych ocenach klasyfikacyjnych z zajęć edukacyjnych, w terminie i formie określonych w statucie szkoły artystycznej. Art. 44zg. 1. Śródroczne i roczne, a w artystycznej szkole policealnej – semestralne, oceny klasyfikacyjne z zajęć edukacyjnych ustalają nauczyciele prowadzący poszczególne zajęcia, z wyjątkiem zajęć edukacyjnych, z których ocena jest ustalana w trybie egzaminu promocyjnego lub końcowego.
+**Art. 44zf.**
+
+1. Przed rocznym klasyfikacyjnym zebraniem rady pedagogicznej nauczyciele prowadzący poszczególne zajęcia edukacyjne oraz wychowawca oddziału informują ucznia i jego rodziców o przewidywanych dla niego rocznych ocenach klasyfikacyjnych z zajęć edukacyjnych i przewidywanej rocznej ocenie klasyfikacyjnej zachowania, w terminie i formie określonych w statucie szkoły artystycznej.
+
+2. W artystycznej szkole policealnej przed semestralnym klasyfikacyjnym zebraniem rady pedagogicznej nauczyciele prowadzący poszczególne zajęcia edukacyjne informują ucznia o przewidywanych dla niego semestralnych ocenach klasyfikacyjnych z zajęć edukacyjnych, w terminie i formie określonych w statucie szkoły artystycznej.
+
+**Art. 44zg.**
+
+1. Śródroczne i roczne, a w artystycznej szkole policealnej – semestralne, oceny klasyfikacyjne z zajęć edukacyjnych ustalają nauczyciele prowadzący poszczególne zajęcia, z wyjątkiem zajęć edukacyjnych, z których ocena jest ustalana w trybie egzaminu promocyjnego lub końcowego.
 
 2. Roczna i końcowa ocena klasyfikacyjna z wybranych zajęć edukacyjnych artystycznych określonych w przepisach wydanych na podstawie art. 44zq jest ustalana odpowiednio w trybie egzaminu promocyjnego lub końcowego, który ma na celu sprawdzenie wiedzy i umiejętności ucznia w zakresie tych zajęć.
 
@@ -2245,7 +1814,11 @@ Art. 97–103. (pominięte)
 
 10. Oceny ustalone zgodnie z ust. 1, 7 i 8 są ostateczne, z zastrzeżeniem art. 44zk i art. 44zla.
 
-11. Oceny ustalone zgodnie z ust. 2 są ostateczne, z zastrzeżeniem art. 44zla. Art. 44zga. 1. W klasach odpowiadających klasom I–III szkoły podstawowej w szkole artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej:
+11. Oceny ustalone zgodnie z ust. 2 są ostateczne, z zastrzeżeniem art. 44zla.
+
+**Art. 44zga.**
+
+1. W klasach odpowiadających klasom I–III szkoły podstawowej w szkole artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej:
 
 - **1)** oceny bieżące z obowiązkowych i dodatkowych zajęć edukacyjnych ogólnokształcących oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, są ustalane w sposób określony w statucie szkoły;
 - **2)** śródroczne i roczne oceny klasyfikacyjne z obowiązkowych i dodatkowych zajęć edukacyjnych ogólnokształcących oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, a także śródroczna i roczna ocena klasyfikacyjna zachowania są ocenami opisowymi.
@@ -2259,21 +1832,43 @@ Art. 97–103. (pominięte)
 
 4. W klasach, o których mowa w ust. 3, oceny bieżące oraz śródroczne oceny klasyfikacyjne ze wszystkich albo wybranych obowiązkowych lub dodatkowych zajęć edukacyjnych ogólnokształcących oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, a także śródroczna ocena klasyfikacyjna zachowania mogą być ocenami opisowymi, jeżeli statut szkoły tak przewiduje.
 
-5. Końcowe i roczne, a w artystycznej szkole policealnej – semestralne, oceny klasyfikacyjne z zajęć edukacyjnych oraz końcowa i roczna ocena klasyfikacyjna zachowania są wyrażane według skali określonej w przepisach wydanych na podstawie art. 44zq. Art. 44zh. 1. Laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, lub laureat przeglądu plastycznego, o którym mowa w art. 53 ust. 1b ustawy – Prawo oświatowe, otrzymuje odpowiednio z danych zajęć edukacyjnych artystycznych najwyższą pozytywną roczną ocenę klasyfikacyjną, a w artystycznej szkole policealnej – najwyższą pozytywną semestralną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. W przypadku zajęć edukacyjnych artystycznych, z których ocena jest ustalana w trybie egzaminu promocyjnego lub końcowego, laureat jest jednocześnie zwolniony z tego egzaminu.
+5. Końcowe i roczne, a w artystycznej szkole policealnej – semestralne, oceny klasyfikacyjne z zajęć edukacyjnych oraz końcowa i roczna ocena klasyfikacyjna zachowania są wyrażane według skali określonej w przepisach wydanych na podstawie art. 44zq.
 
-2. Laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim oraz laureat lub finalista ogólnopolskiej olimpiady przedmiotowej, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, a także laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, otrzymuje z danych zajęć edukacyjnych z zakresu kształcenia ogólnego najwyższą pozytywną roczną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. Uczeń, który tytuł laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim lub tytuł laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej lub tytuł laureata konkursu dla uczniów szkół i placówek artystycznych uzyskał po ustaleniu rocznej oceny klasyfikacyjnej z zajęć edukacyjnych, otrzymuje z tych zajęć edukacyjnych najwyższą pozytywną końcową ocenę klasyfikacyjną. Art. 44zi. 1. Dyrektor szkoły artystycznej zwalnia ucznia z realizacji niektórych obowiązkowych zajęć edukacyjnych artystycznych ze względu na stan zdrowia, specyficzne trudności w uczeniu się lub niepełnosprawność, w przypadkach i na okres określonych w przepisach wydanych na podstawie art. 44zq.
+**Art. 44zh.**
 
-2. Dyrektor szkoły artystycznej realizującej kształcenie ogólne zwalnia ucznia z realizacji niektórych obowiązkowych zajęć edukacyjnych ogólnokształcących ze względu na stan zdrowia, specyficzne trudności w uczeniu się, niepełnosprawność, posiadane kwalifikacje lub zrealizowanie danych obowiązkowych zajęć edukacyjnych na wcześniejszym etapie edukacyjnym, w przypadkach i na okres określonych w przepisach wydanych na podstawie art. 44zq. Art. 44zia. 1. Uczeń szkoły artystycznej może nie być klasyfikowany z jednego, kilku albo wszystkich zajęć edukacyjnych, jeżeli brak jest podstaw do ustalenia śródrocznej lub rocznej, a w artystycznej szkole policealnej – semestralnej, oceny klasyfikacyjnej z powodu nieobecności ucznia na tych zajęciach przekraczającej połowę czasu przeznaczonego na te zajęcia odpowiednio w okresie lub semestrze, za który przeprowadzana jest klasyfikacja.
+1. Laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, lub laureat przeglądu plastycznego, o którym mowa w art. 53 ust. 1b ustawy – Prawo oświatowe, otrzymuje odpowiednio z danych zajęć edukacyjnych artystycznych najwyższą pozytywną roczną ocenę klasyfikacyjną, a w artystycznej szkole policealnej – najwyższą pozytywną semestralną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. W przypadku zajęć edukacyjnych artystycznych, z których ocena jest ustalana w trybie egzaminu promocyjnego lub końcowego, laureat jest jednocześnie zwolniony z tego egzaminu.
+
+2. Laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim oraz laureat lub finalista ogólnopolskiej olimpiady przedmiotowej, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, a także laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, otrzymuje z danych zajęć edukacyjnych z zakresu kształcenia ogólnego najwyższą pozytywną roczną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. Uczeń, który tytuł laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim lub tytuł laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej lub tytuł laureata konkursu dla uczniów szkół i placówek artystycznych uzyskał po ustaleniu rocznej oceny klasyfikacyjnej z zajęć edukacyjnych, otrzymuje z tych zajęć edukacyjnych najwyższą pozytywną końcową ocenę klasyfikacyjną.
+
+**Art. 44zi.**
+
+1. Dyrektor szkoły artystycznej zwalnia ucznia z realizacji niektórych obowiązkowych zajęć edukacyjnych artystycznych ze względu na stan zdrowia, specyficzne trudności w uczeniu się lub niepełnosprawność, w przypadkach i na okres określonych w przepisach wydanych na podstawie art. 44zq.
+
+2. Dyrektor szkoły artystycznej realizującej kształcenie ogólne zwalnia ucznia z realizacji niektórych obowiązkowych zajęć edukacyjnych ogólnokształcących ze względu na stan zdrowia, specyficzne trudności w uczeniu się, niepełnosprawność, posiadane kwalifikacje lub zrealizowanie danych obowiązkowych zajęć edukacyjnych na wcześniejszym etapie edukacyjnym, w przypadkach i na okres określonych w przepisach wydanych na podstawie art. 44zq.
+
+**Art. 44zia.**
+
+1. Uczeń szkoły artystycznej może nie być klasyfikowany z jednego, kilku albo wszystkich zajęć edukacyjnych, jeżeli brak jest podstaw do ustalenia śródrocznej lub rocznej, a w artystycznej szkole policealnej – semestralnej, oceny klasyfikacyjnej z powodu nieobecności ucznia na tych zajęciach przekraczającej połowę czasu przeznaczonego na te zajęcia odpowiednio w okresie lub semestrze, za który przeprowadzana jest klasyfikacja.
 
 2. Uczeń nieklasyfikowany z powodu usprawiedliwionej nieobecności może zdawać egzamin klasyfikacyjny.
 
-3. Uczeń nieklasyfikowany z powodu nieusprawiedliwionej nieobecności może zdawać egzamin klasyfikacyjny za zgodą rady pedagogicznej. Art. 44zib. 1. Egzamin klasyfikacyjny, o którym mowa w art. 44zia ust. 2 i 3, a także w art. 37 ust. 4 i art. 115 ust. 3 ustawy – Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły artystycznej.
+3. Uczeń nieklasyfikowany z powodu nieusprawiedliwionej nieobecności może zdawać egzamin klasyfikacyjny za zgodą rady pedagogicznej.
+
+**Art. 44zib.**
+
+1. Egzamin klasyfikacyjny, o którym mowa w art. 44zia ust. 2 i 3, a także w art. 37 ust. 4 i art. 115 ust. 3 ustawy – Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły artystycznej.
 
 2. Egzamin klasyfikacyjny przeprowadza się nie później niż w dniu poprzedzającym dzień zakończenia rocznych, a w artystycznej szkole policealnej – semestralnych, zajęć dydaktyczno-wychowawczych. Termin egzaminu klasyfikacyjnego uzgadnia się z uczniem i jego rodzicami, a w artystycznej szkole policealnej – z uczniem.
 
 3. Uczeń, który z przyczyn usprawiedliwionych nie przystąpił do egzaminu klasyfikacyjnego w terminie ustalonym zgodnie z ust. 2, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły artystycznej.
 
-4. Ocena ustalona w wyniku egzaminu klasyfikacyjnego jest ostateczna, z zastrzeżeniem art. 44zk i art. 44zla. Art. 44zj. (uchylony) Art. 44zk. 1. Uczeń, który w wyniku klasyfikacji rocznej, a w artystycznej szkole policealnej – semestralnej, otrzymał negatywną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq, z jednego albo dwóch obowiązkowych zajęć edukacyjnych, może przystąpić do egzaminu poprawkowego z tych zajęć.
+4. Ocena ustalona w wyniku egzaminu klasyfikacyjnego jest ostateczna, z zastrzeżeniem art. 44zk i art. 44zla.
+
+**Art. 44zj.** (uchylony)
+
+**Art. 44zk.**
+
+1. Uczeń, który w wyniku klasyfikacji rocznej, a w artystycznej szkole policealnej – semestralnej, otrzymał negatywną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq, z jednego albo dwóch obowiązkowych zajęć edukacyjnych, może przystąpić do egzaminu poprawkowego z tych zajęć.
 
 2. Egzaminu poprawkowego nie przeprowadza się w przypadku uzyskania przez ucznia negatywnej oceny klasyfikacyjnej z zajęć edukacyjnych, z których ocena jest ustalana w trybie egzaminu promocyjnego lub końcowego.
 
@@ -2291,14 +1886,22 @@ Art. 97–103. (pominięte)
 
 9. W ciągu cyklu kształcenia w danym typie szkoły artystycznej uczeń może powtarzać daną klasę, a w artystycznej szkole policealnej – dany semestr, tylko jeden raz.
 
-10. W przypadku szkoły artystycznej realizującej wyłącznie kształcenie artystyczne rada pedagogiczna może wyrazić zgodę na realizowanie obowiązkowych zajęć edukacyjnych z zakresu danej klasy w ciągu dwóch kolejnych lat, biorąc pod uwagę dotychczasowe osiągnięcia ucznia. Art. 44zl. 1. Uczeń szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej lub liceum ogólnokształcącego otrzymuje promocję do klasy programowo wyższej, jeżeli:
+10. W przypadku szkoły artystycznej realizującej wyłącznie kształcenie artystyczne rada pedagogiczna może wyrazić zgodę na realizowanie obowiązkowych zajęć edukacyjnych z zakresu danej klasy w ciągu dwóch kolejnych lat, biorąc pod uwagę dotychczasowe osiągnięcia ucznia.
+
+**Art. 44zl.**
+
+1. Uczeń szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej lub liceum ogólnokształcącego otrzymuje promocję do klasy programowo wyższej, jeżeli:
 
 - **1)** ze wszystkich obowiązkowych zajęć edukacyjnych otrzymał pozytywne roczne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq, z zastrzeżeniem art. 44zk ust. 7, oraz
 - **2)** przystąpił do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2 – w przypadku ucznia klasy, której zakres nauczania odpowiada klasie VIII szkoły podstawowej.
 
 2. (uchylony)
 
-3. Uczeń szkoły artystycznej realizującej wyłącznie kształcenie artystyczne otrzymuje promocję do klasy programowo wyższej, a w artystycznej szkole policealnej – na semestr programowo wyższy, jeżeli ze wszystkich obowiązkowych zajęć edukacyjnych artystycznych odpowiednio w danej klasie lub danym semestrze otrzymał pozytywne roczne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq. Art. 44zla. 1. Uczeń lub jego rodzice mogą zgłosić zastrzeżenia do dyrektora szkoły artystycznej, jeżeli uznają, że roczna ocena klasyfikacyjna z zajęć edukacyjnych lub roczna ocena klasyfikacyjna zachowania zostały ustalone niezgodnie z przepisami dotyczącymi trybu ustalania tych ocen.
+3. Uczeń szkoły artystycznej realizującej wyłącznie kształcenie artystyczne otrzymuje promocję do klasy programowo wyższej, a w artystycznej szkole policealnej – na semestr programowo wyższy, jeżeli ze wszystkich obowiązkowych zajęć edukacyjnych artystycznych odpowiednio w danej klasie lub danym semestrze otrzymał pozytywne roczne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq.
+
+**Art. 44zla.**
+
+1. Uczeń lub jego rodzice mogą zgłosić zastrzeżenia do dyrektora szkoły artystycznej, jeżeli uznają, że roczna ocena klasyfikacyjna z zajęć edukacyjnych lub roczna ocena klasyfikacyjna zachowania zostały ustalone niezgodnie z przepisami dotyczącymi trybu ustalania tych ocen.
 
 2. Uczeń w artystycznej szkole policealnej może zgłosić zastrzeżenia do dyrektora szkoły artystycznej, jeżeli uzna, że semestralna ocena klasyfikacyjna z zajęć edukacyjnych została ustalona niezgodnie z przepisami dotyczącymi trybu ustalania tej oceny.
 
@@ -2313,7 +1916,11 @@ Art. 97–103. (pominięte)
 
 6. Uczeń, który z przyczyn usprawiedliwionych nie przystąpił do sprawdzianu, o którym mowa w ust. 4 pkt 1, w wyznaczonym terminie, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły artystycznej w uzgodnieniu z uczniem i jego rodzicami, a w artystycznej szkole policealnej – w uzgodnieniu z uczniem.
 
-7. Przepisy ust. 1–6 stosuje się odpowiednio w przypadku rocznej, a w artystycznej szkole policealnej – semestralnej, oceny klasyfikacyjnej z zajęć edukacyjnych ustalonej w wyniku egzaminu poprawkowego, z tym że termin do zgłoszenia zastrzeżeń wynosi 5 dni roboczych od dnia przeprowadzenia egzaminu poprawkowego. W tym przypadku ocena ustalona przez komisję, o której mowa w ust. 4, jest ostateczna. Art. 44zm. 1. Uczeń kończy szkołę artystyczną, jeżeli w wyniku klasyfikacji końcowej otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych pozytywne końcowe oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq, oraz:
+7. Przepisy ust. 1–6 stosuje się odpowiednio w przypadku rocznej, a w artystycznej szkole policealnej – semestralnej, oceny klasyfikacyjnej z zajęć edukacyjnych ustalonej w wyniku egzaminu poprawkowego, z tym że termin do zgłoszenia zastrzeżeń wynosi 5 dni roboczych od dnia przeprowadzenia egzaminu poprawkowego. W tym przypadku ocena ustalona przez komisję, o której mowa w ust. 4, jest ostateczna.
+
+**Art. 44zm.**
+
+1. Uczeń kończy szkołę artystyczną, jeżeli w wyniku klasyfikacji końcowej otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych pozytywne końcowe oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq, oraz:
 
 - **1)** w przypadku szkoły artystycznej, w której jest przeprowadzany egzamin dyplomowy – ponadto zdał ten egzamin;
 - **2)** w przypadku szkoły artystycznej realizującej kształcenie ogólne, w której ostatni rok nauki odpowiada klasie VIII szkoły podstawowej – ponadto przystąpił do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2.
@@ -2329,7 +1936,11 @@ Art. 97–103. (pominięte)
 
 4. (uchylony)
 
-5. Uzyskanie przez ucznia szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej, w wyniku klasyfikacji w klasie, której zakres nauczania odpowiada ostatniej klasie szkoły podstawowej, ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących pozytywnych ocen klasyfikacyjnych, o których mowa w przepisach wydanych na podstawie art. 44zq, jest równoważne z ukończeniem szkoły podstawowej. Art. 44zn. 1. W klasie programowo najwyższej w szkole artystycznej kształcącej w zawodach artystycznych, a w artystycznej szkole policealnej – w semestrze programowo najwyższym, przeprowadza się egzamin dyplomowy, będący formą komisyjnej oceny poziomu przygotowania zawodowego uczniów.
+5. Uzyskanie przez ucznia szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej, w wyniku klasyfikacji w klasie, której zakres nauczania odpowiada ostatniej klasie szkoły podstawowej, ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących pozytywnych ocen klasyfikacyjnych, o których mowa w przepisach wydanych na podstawie art. 44zq, jest równoważne z ukończeniem szkoły podstawowej.
+
+**Art. 44zn.**
+
+1. W klasie programowo najwyższej w szkole artystycznej kształcącej w zawodach artystycznych, a w artystycznej szkole policealnej – w semestrze programowo najwyższym, przeprowadza się egzamin dyplomowy, będący formą komisyjnej oceny poziomu przygotowania zawodowego uczniów.
 
 2. Egzamin dyplomowy składa się z części praktycznej i części teoretycznej.
 
@@ -2347,19 +1958,29 @@ Art. 97–103. (pominięte)
 
 9. Uczeń zdał egzamin dyplomowy, jeżeli z poszczególnych części tego egzaminu otrzymał pozytywne oceny określone w przepisach wydanych na podstawie art. 44zq.
 
-10. Uczniowie niepełnosprawni przystępują do egzaminu dyplomowego w powszechnie obowiązującym terminie. W uzasadnionych przypadkach przewodniczący państwowej komisji egzaminacyjnej zezwala na przeprowadzenie części teoretycznej lub części praktycznej egzaminu dyplomowego w wydzielonej sali lub w domu ucznia, ustalając warunki i sposób przeprowadzenia egzaminu odpowiednie do możliwości ucznia. Art. 44zo. 1. Uczeń, który z przyczyn nieusprawiedliwionych nie przystąpił do egzaminu dyplomowego albo przerwał egzamin dyplomowy w części praktycznej lub części teoretycznej, podlega skreśleniu z listy uczniów. Ponowne przystąpienie do egzaminu dyplomowego może nastąpić w trybie egzaminu eksternistycznego, o którym mowa w art. 10a.
+10. Uczniowie niepełnosprawni przystępują do egzaminu dyplomowego w powszechnie obowiązującym terminie. W uzasadnionych przypadkach przewodniczący państwowej komisji egzaminacyjnej zezwala na przeprowadzenie części teoretycznej lub części praktycznej egzaminu dyplomowego w wydzielonej sali lub w domu ucznia, ustalając warunki i sposób przeprowadzenia egzaminu odpowiednie do możliwości ucznia.
+
+**Art. 44zo.**
+
+1. Uczeń, który z przyczyn nieusprawiedliwionych nie przystąpił do egzaminu dyplomowego albo przerwał egzamin dyplomowy w części praktycznej lub części teoretycznej, podlega skreśleniu z listy uczniów. Ponowne przystąpienie do egzaminu dyplomowego może nastąpić w trybie egzaminu eksternistycznego, o którym mowa w art. 10a.
 
 2. Uczeń, który z przyczyn usprawiedliwionych nie przystąpił do egzaminu dyplomowego albo przerwał egzamin dyplomowy, może do niego przystąpić w dodatkowym terminie, ustalonym przez przewodniczącego państwowej komisji egzaminacyjnej, nie później niż do dnia 30 września danego roku.
 
 3. Uczeń, który nie zdał egzaminu dyplomowego w całości albo w części teoretycznej lub części praktycznej, może przystąpić do egzaminu poprawkowego odpowiednio z całości lub danej części egzaminu dyplomowego, w terminie ustalonym przez przewodniczącego państwowej komisji egzaminacyjnej, nie później niż do dnia 30 września danego roku.
 
-4. Uczeń, który nie zdał egzaminu poprawkowego, o którym mowa w ust. 3, lub nie przystąpił do egzaminu dyplomowego lub jego części w dodatkowym terminie, może przystąpić do egzaminu dyplomowego wyłącznie w trybie egzaminu eksternistycznego, o którym mowa w art. 10a. Art. 44zp. 1. Przewodniczący państwowej komisji egzaminacyjnej, w przypadku stwierdzenia naruszenia przepisów dotyczących przeprowadzania egzaminu dyplomowego, może zawiesić egzamin dyplomowy, powiadamiając o tym ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+4. Uczeń, który nie zdał egzaminu poprawkowego, o którym mowa w ust. 3, lub nie przystąpił do egzaminu dyplomowego lub jego części w dodatkowym terminie, może przystąpić do egzaminu dyplomowego wyłącznie w trybie egzaminu eksternistycznego, o którym mowa w art. 10a.
+
+**Art. 44zp.**
+
+1. Przewodniczący państwowej komisji egzaminacyjnej, w przypadku stwierdzenia naruszenia przepisów dotyczących przeprowadzania egzaminu dyplomowego, może zawiesić egzamin dyplomowy, powiadamiając o tym ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
 
 2. W przypadku, o którym mowa w ust. 1, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego powołuje komisję w celu wyjaśnienia okoliczności zdarzeń i ustalenia odpowiedzialności uczniów oraz członków państwowej komisji egzaminacyjnej. Na podstawie ustaleń komisji minister właściwy do spraw kultury i ochrony dziedzictwa narodowego zarządza kontynuację egzaminu dyplomowego albo unieważnia egzamin dyplomowy i zarządza jego ponowne przeprowadzenie. Unieważnienie egzaminu dyplomowego może nastąpić zarówno w stosunku do wszystkich, jak i poszczególnych uczniów.
 
 3. Termin ponownego egzaminu dyplomowego, o którym mowa w ust. 2, ustala dyrektor szkoły artystycznej w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego.
 
-4. Kwestie sporne między uczniem a państwową komisją egzaminacyjną, wynikające ze stosowania przepisów dotyczących przeprowadzania egzaminu dyplomowego, rozstrzyga minister właściwy do spraw kultury i ochrony dziedzictwa narodowego. Art. 44zq. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i sposób oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych, w tym:
+4. Kwestie sporne między uczniem a państwową komisją egzaminacyjną, wynikające ze stosowania przepisów dotyczących przeprowadzania egzaminu dyplomowego, rozstrzyga minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
+
+**Art. 44zq.** Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i sposób oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych, w tym:
 
 - **1)** przypadki, w których dostosowuje się wymagania edukacyjne, o których mowa w art. 44zd ust. 6 pkt 1, do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych uczniów, oraz podstawę tego dostosowania, z uwzględnieniem konieczności właściwego zapewnienia procesu kształcenia uczniów;
 - **2)** rodzaje obowiązkowych zajęć edukacyjnych, z których realizacji uczeń może być zwolniony, przypadki, w których to zwolnienie może nastąpić, rodzaje dokumentów będących podstawą zwolnienia oraz tryb i okres zwolnienia, uwzględniając indywidualne możliwości psychofizyczne ucznia, specyfikę danych zajęć edukacyjnych oraz celowość realizacji przez ucznia niektórych treści nauczania;
@@ -2370,13 +1991,980 @@ Art. 97–103. (pominięte)
 - **7)** tryb i formę przeprowadzania sprawdzianu wiadomości i umiejętności ucznia, o którym mowa w art. 44zla ust. 4 pkt 1, oraz ustalania rocznej oceny klasyfikacyjnej zachowania, o której mowa w art. 44zla ust. 4 pkt 2, skład komisji, o których mowa w art. 44zla ust. 4, z uwzględnieniem konieczności zapewnienia prawidłowości przeprowadzenia tego sprawdzianu lub prawidłowości ustalenia rocznej oceny klasyfikacyjnej zachowania oraz odpowiedniego udokumentowania pracy komisji;
 - **8)** warunki promocji ucznia do klasy programowo wyższej lub ukończenia szkoły artystycznej z wyróżnieniem, z uwzględnieniem rocznych ocen klasyfikacyjnych z zajęć edukacyjnych, które wlicza się do średniej ocen, a w przypadku szkoły artystycznej realizującej także kształcenie ogólne – oceny zachowania;
 - **9)** tryb i zakres przeprowadzania egzaminu dyplomowego, a także skład komisji egzaminacyjnej, z uwzględnieniem konieczności zapewnienia prawidłowego przeprowadzenia tego egzaminu oraz udokumentowania jego przebiegu;
-- **10)** warunki i tryb wyrażania przez radę pedagogiczną zgody na powtarzanie przez ucznia klasy lub realizowanie obowiązkowych zajęć edukacyjnych określonych w szkolnym planie nauczania danej klasy w ciągu dwóch kolejnych lat. Art. 44zr. Przepisów rozdziału 3a nie stosuje się do dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu głębokim. Art. 44zra. 1. W przypadku niewykonania przez nauczyciela, wychowawcę oddziału, osobę prowadzącą praktyczną naukę zawodu, o której mowa w przepisach wydanych na podstawie art. 120 ust. 4 ustawy – Prawo oświatowe, lub radę pedagogiczną zadań i kompetencji w zakresie oceniania, klasyfikowania i promowania uczniów, o których mowa w rozdziale 3a oraz w przepisach wydanych na podstawie art. 44zb i art. 44zq, te zadania i kompetencje wykonuje dyrektor szkoły lub upoważniony przez niego nauczyciel.
+- **10)** warunki i tryb wyrażania przez radę pedagogiczną zgody na powtarzanie przez ucznia klasy lub realizowanie obowiązkowych zajęć edukacyjnych określonych w szkolnym planie nauczania danej klasy w ciągu dwóch kolejnych lat.
+
+**Art. 44zr.** Przepisów rozdziału 3a nie stosuje się do dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu głębokim.
+
+**Art. 44zra.**
+
+1. W przypadku niewykonania przez nauczyciela, wychowawcę oddziału, osobę prowadzącą praktyczną naukę zawodu, o której mowa w przepisach wydanych na podstawie art. 120 ust. 4 ustawy – Prawo oświatowe, lub radę pedagogiczną zadań i kompetencji w zakresie oceniania, klasyfikowania i promowania uczniów, o których mowa w rozdziale 3a oraz w przepisach wydanych na podstawie art. 44zb i art. 44zq, te zadania i kompetencje wykonuje dyrektor szkoły lub upoważniony przez niego nauczyciel.
 
 2. W przypadku gdy dyrektor szkoły lub upoważniony przez niego nauczyciel nie wykonuje zadań i kompetencji, o których mowa w ust. 1, te zadania i kompetencje wykonuje nauczyciel wyznaczony przez organ prowadzący szkołę.
 
 3. W przypadku szkół prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje organu prowadzącego, określone w ust. 2, wykonuje odpowiednio wójt (burmistrz, prezydent miasta), zarząd powiatu, zarząd województwa.
 
 #### Rozdział 3b Egzamin ósmoklasisty, egzamin maturalny i egzamin zawodowy
+
+**Art. 44zs.** Egzamin ósmoklasisty jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego dla szkoły podstawowej, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. b ustawy – Prawo oświatowe, oraz sprawdza, w jakim stopniu uczeń lub słuchacz spełnia te wymagania.
+
+**Art. 44zt.** Egzamin ósmoklasisty jest przeprowadzany:
+
+- **1)** w terminie głównym:
+    - **a)** w szkołach dla dzieci i młodzieży oraz w szkołach dla dorosłych, w których nauka kończy się w semestrze wiosennym – w maju,
+    - **b)** w szkołach dla dorosłych, w których nauka kończy się w semestrze jesiennym – w styczniu, oraz
+
+- **2)** w terminie dodatkowym:
+    - **a)** w szkołach dla dzieci i młodzieży oraz w szkołach dla dorosłych, w których nauka kończy się w semestrze wiosennym – w czerwcu,
+    - **b)** w szkołach dla dorosłych, w których nauka kończy się w semestrze jesiennym – w maju – zgodnie z komunikatem, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze.
+
+**Art. 44zu.**
+
+1. Egzamin ósmoklasisty jest przeprowadzany w formie pisemnej.
+
+2. (uchylony)
+
+3. Egzamin ósmoklasisty obejmuje następujące przedmioty obowiązkowe:
+
+- **1)** język polski;
+- **2)** matematykę;
+- **3)** język obcy nowożytny.
+- **4)** (uchylony)
+
+4. Uczeń lub słuchacz przystępuje do egzaminu ósmoklasisty z języka obcego nowożytnego, którego uczy się w szkole w ramach obowiązkowych zajęć edukacyjnych.
+
+4a. Egzamin ósmoklasisty z języka obcego nowożytnego jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego dla języka obcego nowożytnego nauczanego od klasy IV szkoły podstawowej, stanowiącego kontynuację nauczania tego języka w klasach I–III.
+
+5. (uchylony)
+
+6. (uchylony)
+
+7. (uchylony)
+
+**Art. 44zv.** Uczeń szkoły lub oddziału, w którym zajęcia edukacyjne są prowadzone w języku mniejszości narodowej, mniejszości etnicznej lub języku regionalnym, przystępuje do egzaminu ósmoklasisty z matematyki w języku polskim albo w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
+
+**Art. 44zw.**
+
+1. Uczeń posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym lub niepełnosprawności sprzężone, gdy jedną z niepełnosprawności jest niepełnosprawność intelektualna w stopniu umiarkowanym lub znacznym, nie przystępuje do egzaminu ósmoklasisty.
+
+2. Uczeń posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawności sprzężone inne niż wymienione w ust. 1 może być zwolniony przez dyrektora okręgowej komisji egzaminacyjnej z obowiązku przystąpienia do egzaminu ósmoklasisty, na wniosek rodziców pozytywnie zaopiniowany przez dyrektora szkoły.
+
+3. (uchylony)
+
+4. W szczególnych przypadkach zdrowotnych, uniemożliwiających uczniowi lub słuchaczowi przystąpienie do egzaminu ósmoklasisty, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić ucznia lub słuchacza z obowiązku przystąpienia do tego egzaminu. Dyrektor szkoły składa wniosek w porozumieniu z rodzicami ucznia lub ze słuchaczem.
+
+**Art. 44zx.**
+
+1. Laureat i finalista olimpiady przedmiotowej wymienionej w wykazie, o którym mowa w art. 44zzzw, oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzanego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, organizowanych z zakresu jednego z przedmiotów objętych egzaminem ósmoklasisty, są zwolnieni z egzaminu ósmoklasisty z tego przedmiotu.
+
+2. Zwolnienie, o którym mowa w ust. 1, następuje na podstawie zaświadczenia stwierdzającego uzyskanie odpowiednio przez ucznia lub słuchacza szkoły podstawowej lub ucznia szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej tytułu odpowiednio laureata lub finalisty. Zaświadczenie przedkłada się przewodniczącemu zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3.
+
+3. Zwolnienie, o którym mowa w ust. 1, jest równoznaczne z uzyskaniem z egzaminu ósmoklasisty z danego przedmiotu najwyższego wyniku.
+
+4. W przypadku gdy uczeń lub słuchacz uzyskał tytuł laureata lub finalisty, o których mowa w ust. 1, z innego języka obcego nowożytnego niż ten, który został zadeklarowany, dyrektor szkoły, na wniosek rodziców ucznia lub na wniosek słuchacza, złożony nie później niż na 2 tygodnie przed terminem egzaminu ósmoklasisty, informuje okręgową komisję egzaminacyjną o zmianie języka obcego nowożytnego, jeżeli języka tego uczeń lub słuchacz uczy się w ramach obowiązkowych zajęć edukacyjnych. Przepisy ust. 3 stosuje się odpowiednio.
+
+**Art. 44zy.**
+
+1. Rodzice ucznia lub słuchacz składają dyrektorowi szkoły, nie później niż do dnia 30 września roku szkolnego, w którym jest przeprowadzany egzamin ósmoklasisty, pisemną deklarację:
+
+- **1)** wskazującą język obcy nowożytny, z którego uczeń lub słuchacz przystąpi do egzaminu ósmoklasisty;
+- **2)** (uchylony)
+- **3)** informującą o zamiarze przystąpienia do egzaminu ósmoklasisty z matematyki w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
+
+2. Rodzice ucznia lub słuchacz mogą złożyć dyrektorowi szkoły, nie później niż na 3 miesiące przed terminem egzaminu ósmoklasisty, z zastrzeżeniem art. 44zx ust. 4, pisemną informację o:
+
+- **1)** zmianie języka obcego nowożytnego wskazanego w deklaracji;
+- **2)** (uchylony)
+- **3)** rezygnacji z przystąpienia do egzaminu ósmoklasisty z matematyki w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
+
+**Art. 44zz.**
+
+1. Uczeń lub słuchacz, który z przyczyn losowych lub zdrowotnych, w terminie głównym:
+
+- **1)** nie przystąpił do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów albo
+- **2)** przerwał egzamin ósmoklasisty z danego przedmiotu lub przedmiotów – przystępuje do egzaminu z tego przedmiotu lub przedmiotów w terminie dodatkowym w szkole, której jest uczniem lub słuchaczem.
+
+2. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających przystąpienie do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów w terminie dodatkowym, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić ucznia lub słuchacza z obowiązku przystąpienia do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów. Dyrektor szkoły składa wniosek w porozumieniu z rodzicami ucznia lub ze słuchaczem.
+
+**Art. 44zza.**
+
+1. Wyniki egzaminu ósmoklasisty są przedstawiane w procentach i na skali centylowej.
+
+2. Wyniki egzaminu ósmoklasisty w procentach ustala dyrektor okręgowej komisji egzaminacyjnej na podstawie:
+
+- **1)** liczby punktów przyznanych przez egzaminatorów sprawdzających prace egzaminacyjne oraz
+- **2)** elektronicznego odczytu karty odpowiedzi – w przypadku wykorzystania do sprawdzania prac egzaminacyjnych narzędzi elektronicznych.
+
+3. (uchylony)
+
+4. Wyniki egzaminu ósmoklasisty obejmują:
+
+- **1)** wynik z języka polskiego;
+- **2)** wynik z matematyki;
+- **3)** wynik z języka obcego nowożytnego.
+- **4)** (uchylony)
+
+5. Wyniki egzaminu ósmoklasisty na skali centylowej opracowuje Centralna Komisja Egzaminacyjna na podstawie wyników ustalonych przez dyrektorów okręgowych komisji egzaminacyjnych.
+
+6. (utracił moc)
+
+7. Wyniki egzaminu ósmoklasisty nie wpływają na ukończenie szkoły, a w przypadku szkoły artystycznej realizującej kształcenie ogólne z zakresu szkoły podstawowej, w której klasa odpowiadająca klasie VIII szkoły podstawowej nie jest ostatnią klasą w cyklu kształcenia – również na promocję do klasy programowo wyższej.
+
+8. Dyrektor szkoły przekazuje uczniowi lub jego rodzicom albo słuchaczowi:
+
+- **1)** zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty, wydane przez okręgową komisję egzaminacyjną, w terminie określonym w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze – w przypadku gdy uczeń lub słuchacz spełnił warunki określone odpowiednio w art. 44q ust. 1 lub 1a, art. 44za ust. 1, art. 44zl ust. 1 lub art. 44zm ust. 1 pkt 2 lub ust. 1a pkt 2, albo
+- **2)** informację o szczegółowych wynikach egzaminu ósmoklasisty, opracowaną przez okręgową komisję egzaminacyjną – w przypadku gdy uczeń lub słuchacz nie spełnił warunków określonych w art. 44q ust. 1 lub 1a, art. 44za ust. 1, art. 44zl ust. 1 lub art. 44zm ust. 1 pkt 2 lub ust. 1a pkt 2.
+
+**Art. 44zzb.** Egzamin maturalny jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. c i d ustawy – Prawo oświatowe, oraz sprawdza, w jakim stopniu absolwent spełnia te wymagania.
+
+**Art. 44zzc.** Egzamin maturalny jest przeprowadzany jeden raz w ciągu roku, w okresie od maja do września, w terminie głównym, dodatkowym i poprawkowym, zgodnie z komunikatem, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze.
+
+**Art. 44zzd.**
+
+1. Egzamin maturalny jest przeprowadzany z przedmiotów obowiązkowych oraz przedmiotów dodatkowych i składa się z części ustnej oraz z części pisemnej.
+
+2. Egzamin maturalny obejmuje następujące przedmioty obowiązkowe:
+
+- **1)** w części ustnej:
+    - **a)** język polski,
+    - **b)** język obcy nowożytny,
+    - **c)** język mniejszości narodowej – dla absolwentów szkół lub oddziałów z nauczaniem języka danej mniejszości narodowej;
+
+- **2)** w części pisemnej:
+    - **a)** język polski,
+    - **b)** język obcy nowożytny albo język łaciński,
+    - **c)** matematykę,
+    - **d)** język mniejszości narodowej – dla absolwentów szkół lub oddziałów z nauczaniem języka danej mniejszości narodowej.
+
+3. Przedmioty dodatkowe, z których jest przeprowadzany egzamin maturalny w części ustnej i w części pisemnej, określają przepisy wydane na podstawie art. 44zzza.
+
+4. Absolwent przystępuje do egzaminu maturalnego z przedmiotów obowiązkowych oraz do części pisemnej egzaminu maturalnego z jednego przedmiotu dodatkowego.
+
+4a. Absolwent szkoły lub oddziału dwujęzycznego przystępuje do części pisemnej egzaminu maturalnego z języka obcego nowożytnego, którego uczył się w szkole na poziomie dwujęzycznym i z którego jest przeprowadzany egzamin maturalny, na poziomie dwujęzycznym, o którym mowa w art. 44zze ust. 3 pkt 2, jako przedmiotu dodatkowego, o którym mowa w ust. 4. Przepis art. 44zze ust. 4 stosuje się odpowiednio.
+
+4b. Obowiązek przystąpienia do części pisemnej egzaminu maturalnego z jednego przedmiotu dodatkowego, o którym mowa w ust. 4, nie dotyczy absolwenta posiadającego:
+
+- **1)** dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika albo
+- **2)** dyplom zawodowy w zawodzie nauczanym na poziomie technika, albo
+- **3)** świadectwa potwierdzające kwalifikacje w zawodzie ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika, albo
+- **4)** certyfikaty kwalifikacji zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika, albo
+- **5)** świadectwa potwierdzające kwalifikacje w zawodzie i certyfikaty kwalifikacji zawodowych, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika, z uwzględnieniem przepisów wydanych na podstawie art. 11b ust. 8.
+
+4c. Przepisu ust. 4b nie stosuje się do absolwenta szkoły lub oddziału dwujęzycznego.
+
+5. Absolwent może w danym roku przystąpić do egzaminu maturalnego z nie więcej niż pięciu przedmiotów dodatkowych oprócz przedmiotu, o którym mowa w ust. 4.
+
+5a. Absolwent, o którym mowa w ust. 4b, może w danym roku przystąpić do egzaminu maturalnego z nie więcej niż pięciu przedmiotów dodatkowych.
+
+6. W przypadku przedmiotów dodatkowych, z których egzamin maturalny jest przeprowadzany w części ustnej i w części pisemnej, absolwent może przystąpić do egzaminu maturalnego z tego przedmiotu w części pisemnej albo w części pisemnej i w części ustnej.
+
+7. Egzamin maturalny z języka obcego nowożytnego jako przedmiotu obowiązkowego jest zdawany w części ustnej i w części pisemnej z tego samego języka.
+
+8. Absolwent szkoły lub oddziału z nauczaniem języka danej mniejszości narodowej nie może wybrać języka danej mniejszości narodowej na egzaminie maturalnym z języka obcego nowożytnego jako przedmiotu obowiązkowego.
+
+9. W przypadku gdy absolwent wybrał na egzaminie maturalnym w części pisemnej jako przedmiot dodatkowy ten sam język obcy nowożytny lub ten sam język mniejszości narodowej, który zdawał jako przedmiot obowiązkowy, zdaje ten język tylko w części pisemnej, z zastrzeżeniem art. 44zze ust. 3 i 4.
+
+10. W przypadku gdy absolwent wybrał na egzaminie maturalnym jako przedmiot dodatkowy język polski, zdaje ten przedmiot tylko w części pisemnej.
+
+11. Wybór języka obcego nowożytnego jako przedmiotu obowiązkowego i wybór przedmiotu dodatkowego, do których absolwent przystępuje na egzaminie maturalnym, nie jest zależny od typu szkoły, do której absolwent uczęszczał, ani od przedmiotów, których uczył się w tej szkole, z uwzględnieniem ust. 4a.
+
+**Art. 44zze.**
+
+1. Egzamin maturalny w części pisemnej z przedmiotów obowiązkowych jest przeprowadzany na poziomie podstawowym i obejmuje wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego. Dla egzaminu maturalnego w części ustnej z przedmiotów obowiązkowych nie określa się poziomu egzaminu.
+
+2. Egzamin maturalny w części pisemnej z przedmiotów dodatkowych jest przeprowadzany na poziomie rozszerzonym i obejmuje wymagania określone w podstawie programowej kształcenia ogólnego dla:
+
+- **1)** zakresu podstawowego i rozszerzonego z jednego przedmiotu;
+- **2)** zakresu rozszerzonego z jednego przedmiotu;
+- **3)** zakresu podstawowego z jednego przedmiotu i zakresu rozszerzonego z drugiego przedmiotu.
+
+2a. Dla egzaminu maturalnego w części ustnej z przedmiotów dodatkowych nie określa się poziomu egzaminu.
+
+2b. Zakres wymagań określonych w podstawie programowej kształcenia ogólnego dla jednego lub dwóch przedmiotów, na podstawie których jest przeprowadzany egzamin maturalny z danego przedmiotu dodatkowego, określają przepisy wydane na podstawie art. 44zzza.
+
+3. Egzamin maturalny w części pisemnej z języka obcego nowożytnego jako przedmiotu dodatkowego jest przeprowadzany na:
+
+- **1)** poziomie rozszerzonym i obejmuje wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego i rozszerzonego albo
+- **2)** poziomie dwujęzycznym i obejmuje wymagania określone w podstawie programowej kształcenia ogólnego dla oddziałów dwujęzycznych.
+
+4. W przypadku gdy absolwent wybrał na egzaminie maturalnym w części pisemnej jako przedmiot dodatkowy język obcy nowożytny na poziomie dwujęzycznym, o którym mowa w ust. 3 pkt 2, może przystąpić do egzaminu maturalnego z tego języka na poziomie dwujęzycznym również w części ustnej.
+
+**Art. 44zzf.**
+
+1. Absolwent szkoły lub oddziału z językiem nauczania mniejszości narodowej, mniejszości etnicznej lub językiem regionalnym, w których zajęcia są prowadzone w tych językach, oraz absolwent szkoły lub oddziału dwujęzycznego, w których język mniejszości narodowej, mniejszości etnicznej lub język regionalny jest drugim językiem nauczania, może zdawać na egzaminie maturalnym przedmioty w języku polskim lub – z wyjątkiem języka polskiego oraz treści dotyczących historii Polski i geografii Polski – w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
+
+2. Absolwent szkoły ponadpodstawowej dwujęzycznej lub oddziału dwujęzycznego w szkole ponadpodstawowej ogólnodostępnej na egzaminie maturalnym z matematyki, zdawanej jako przedmiot obowiązkowy, rozwiązuje w języku polskim zadania egzaminacyjne przygotowane dla absolwentów zdających egzamin maturalny w języku polskim oraz może rozwiązać w języku obcym nowożytnym, którego uczył się w szkole na poziomie dwujęzycznym i z którego jest przeprowadzany egzamin maturalny, dodatkowe zadania egzaminacyjne przygotowane w tym języku. Dodatkowe zadania egzaminacyjne obejmują wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego.
+
+3. Absolwent szkoły ponadpodstawowej dwujęzycznej lub oddziału dwujęzycznego w szkole ponadpodstawowej ogólnodostępnej na egzaminie maturalnym z przedmiotów: biologia, chemia, fizyka, geografia i historia, zdawanych jako przedmioty dodatkowe, rozwiązuje w języku polskim zadania egzaminacyjne przygotowane dla absolwentów zdających egzamin maturalny w języku polskim oraz może rozwiązać w języku obcym nowożytnym, którego uczył się w szkole na poziomie dwujęzycznym i z którego jest przeprowadzany egzamin maturalny, dodatkowe zadania egzaminacyjne przygotowane w tym języku. Dodatkowe zadania egzaminacyjne obejmują wymagania określone w podstawie programowej kształcenia ogólnego dla zakresu podstawowego i rozszerzonego.
+
+4. W przypadku zgłoszenia w deklaracji, o której mowa w art. 44zzi, zamiaru rozwiązywania dodatkowych zadań egzaminacyjnych, o których mowa w ust. 2 i 3, i nieprzystąpienia do rozwiązywania tych zadań, absolwent otrzymuje z dodatkowych zadań egzaminacyjnych wynik „0 %”.
+
+**Art. 44zzg.**
+
+1. Absolwent niesłyszący jest zwolniony z części ustnej egzaminu maturalnego z języka obcego nowożytnego.
+
+2. Absolwent, który ze względu na niepełnosprawność lub stan zdrowia trwale nie posługuje się mową, jest zwolniony z części ustnej egzaminu maturalnego.
+
+**Art. 44zzh.**
+
+1. Laureat i finalista olimpiady przedmiotowej wymienionej w wykazie, o którym mowa w art. 44zzzw, są zwolnieni z egzaminu maturalnego z danego przedmiotu.
+
+2. Zwolnienie, o którym mowa w ust. 1, następuje na podstawie zaświadczenia stwierdzającego uzyskanie przez ucznia lub słuchacza szkoły ponadpodstawowej lub ucznia szkoły artystycznej realizującej kształcenie ogólne w zakresie liceum ogólnokształcącego tytułu odpowiednio laureata lub finalisty. Zaświadczenie przedkłada się przewodniczącemu zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3.
+
+3. W przypadku absolwenta szkoły ponadpodstawowej dwujęzycznej lub oddziału dwujęzycznego w szkole ponadpodstawowej ogólnodostępnej, który uzyskał tytuł laureata lub finalisty olimpiady przedmiotowej z przedmiotu nauczanego w języku obcym nowożytnym będącym drugim językiem nauczania, zwolnienie z egzaminu maturalnego z danego przedmiotu nie obejmuje dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3.
+
+4. Laureatowi i finaliście olimpiady przedmiotowej uprawnienie wymienione w ust. 1 przysługuje także wtedy, gdy nie uczestniczyli w zajęciach edukacyjnych z danego przedmiotu w szkole.
+
+5. W przypadku gdy uczeń lub słuchacz uzyskał tytuł laureata lub finalisty olimpiady przedmiotowej z danego przedmiotu, w tym z danego języka obcego nowożytnego albo języka łacińskiego, przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3, na wniosek ucznia lub słuchacza, złożony nie później niż na 2 tygodnie przed terminem egzaminu maturalnego, informuje okręgową komisję egzaminacyjną o zmianie przedmiotu lub wyborze nowego przedmiotu, w tym o zmianie języka obcego nowożytnego albo języka łacińskiego, lub o zmianie poziomu egzaminu z języka obcego nowożytnego, wskazanych w deklaracji, o której mowa w art. 44zzi.
+
+6. Zwolnienie laureata lub finalisty olimpiady przedmiotowej z egzaminu maturalnego z:
+
+- **1)** przedmiotu obowiązkowego zdawanego w części ustnej – jest równoznaczne z uzyskaniem z tego przedmiotu w części ustnej egzaminu maturalnego najwyższego wyniku;
+- **2)** przedmiotu obowiązkowego zdawanego w części pisemnej – jest równoznaczne z uzyskaniem z tego przedmiotu w części pisemnej egzaminu maturalnego najwyższego wyniku na poziomie podstawowym;
+- **3)** języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części ustnej – jest równoznaczne z uzyskaniem z tego języka w części ustnej egzaminu maturalnego najwyższego wyniku, z zastrzeżeniem pkt 4;
+- **4)** języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części ustnej na poziomie dwujęzycznym – jest równoznaczne z uzyskaniem z tego języka w części ustnej egzaminu maturalnego najwyższego wyniku na poziomie dwujęzycznym;
+- **5)** przedmiotu dodatkowego, z wyjątkiem języka obcego nowożytnego, zdawanego w części pisemnej – jest równoznaczne z uzyskaniem z tego przedmiotu w części pisemnej egzaminu maturalnego najwyższego wyniku na poziomie rozszerzonym;
+- **6)** języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części pisemnej – jest równoznaczne z uzyskaniem z tego języka w części pisemnej egzaminu maturalnego najwyższego wyniku na poziomie:
+    - **a)** wskazanym w deklaracji, o której mowa w art. 44zzi,
+    - **b)** dwujęzycznym – w przypadku absolwenta, o którym mowa w art. 44zzd ust. 4a.
+
+**Art. 44zzi.** Zdający, który zamierza przystąpić do egzaminu maturalnego, składa pisemną deklarację przystąpienia do tego egzaminu. Art. 44zzia. Zdający, który wskazał w deklaracji, o której mowa w art. 44zzi, przedmiot dodatkowy, o którym mowa w art. 44zzd ust. 4, lub przedmioty dodatkowe, o których mowa w art. 44zzd ust. 5, oraz który spełnił warunek, o którym mowa w art. 44zzd ust. 4b, może złożyć dyrektorowi szkoły, nie później niż na 2 tygodnie przed terminem egzaminu maturalnego, pisemną informację o rezygnacji z przystąpienia do egzaminu maturalnego z tego przedmiotu dodatkowego lub tych przedmiotów dodatkowych. Dyrektor szkoły niezwłocznie przesyła tę informację do dyrektora okręgowej komisji egzaminacyjnej.
+
+**Art. 44zzj.**
+
+1. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających przystąpienie do egzaminu maturalnego z danego przedmiotu lub przedmiotów w części ustnej lub części pisemnej w terminie głównym, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek absolwenta lub rodziców niepełnoletniego absolwenta, może wyrazić zgodę na przystąpienie przez absolwenta do egzaminu maturalnego z tego przedmiotu lub przedmiotów w terminie dodatkowym.
+
+2. Wniosek, o którym mowa w ust. 1, absolwent lub rodzice niepełnoletniego absolwenta składają do dyrektora szkoły, w której absolwent przystępuje do egzaminu maturalnego, nie później niż w dniu, w którym odbywa się egzamin maturalny z danego przedmiotu. Dyrektor szkoły przekazuje wniosek wraz z załączonymi do niego dokumentami dyrektorowi okręgowej komisji egzaminacyjnej nie później niż następnego dnia po otrzymaniu wniosku.
+
+3. Dyrektor okręgowej komisji egzaminacyjnej rozpatruje wniosek, o którym mowa w ust. 1, w terminie 2 dni od dnia jego otrzymania. Rozstrzygnięcie dyrektora okręgowej komisji egzaminacyjnej jest ostateczne.
+
+4. Do absolwentów, którzy nie przystąpili do egzaminu maturalnego z danego przedmiotu lub przedmiotów w terminie głównym albo w terminie dodatkowym, stosuje się odpowiednio art. 44zzn.
+
+**Art. 44zzk.**
+
+1. Wyniki egzaminu maturalnego są przedstawiane:
+
+- **1)** w części ustnej – w procentach;
+- **2)** w części pisemnej – w procentach i na skali centylowej, z tym że wyniki z egzaminu maturalnego z dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3, są przedstawiane wyłącznie w procentach.
+
+2. Wyniki egzaminu maturalnego w procentach ustala dyrektor okręgowej komisji egzaminacyjnej na podstawie:
+
+- **1)** liczby punktów przyznanych przez zespół przedmiotowy, o którym mowa w art. 44zzs ust. 4 pkt 2 – w części ustnej egzaminu maturalnego;
+- **2)** liczby punktów przyznanych przez egzaminatorów sprawdzających prace egzaminacyjne oraz elektronicznego odczytu karty odpowiedzi w przypadku wykorzystania do sprawdzania prac egzaminacyjnych narzędzi elektronicznych – w części pisemnej egzaminu maturalnego.
+
+3. Wyniki części pisemnej egzaminu maturalnego z poszczególnych przedmiotów na skali centylowej opracowuje Centralna Komisja Egzaminacyjna na podstawie wyników ustalonych przez dyrektorów okręgowych komisji egzaminacyjnych.
+
+4. (uchylony)
+
+**Art. 44zzl.**
+
+1. Absolwent zdał egzamin maturalny, jeżeli:
+
+- **1)** z każdego przedmiotu obowiązkowego w części ustnej i w części pisemnej otrzymał co najmniej 30 % punktów możliwych do uzyskania, oraz
+- **2)** z co najmniej jednego przedmiotu dodatkowego w części pisemnej otrzymał co najmniej 30 % punktów możliwych do uzyskania – z zastrzeżeniem ust. 1a.
+
+1a. Absolwent, o którym mowa w art. 44zzd ust. 4b, zdał egzamin maturalny, jeżeli z każdego przedmiotu obowiązkowego w części ustnej i w części pisemnej otrzymał co najmniej 30 % punktów możliwych do uzyskania.
+
+2. (uchylony)
+
+3. Niezdanie lub nieprzystąpienie do egzaminu maturalnego z:
+
+- **1)** przedmiotu lub przedmiotów obowiązkowych w części ustnej lub w części pisemnej, albo
+- **2)** przedmiotu lub przedmiotów dodatkowych w części ustnej lub części pisemnej – nie stanowi przeszkody w przystępowaniu do egzaminu maturalnego z pozostałych przedmiotów.
+
+4. Absolwent, który zdał egzamin maturalny, otrzymuje świadectwo dojrzałości wydane przez okręgową komisję egzaminacyjną.
+
+5. Absolwent, który nie zdał egzaminu maturalnego, otrzymuje informację o wynikach tego egzaminu opracowaną przez okręgową komisję egzaminacyjną.
+
+**Art. 44zzm.**
+
+1. Absolwent, który przystąpił do egzaminu maturalnego ze wszystkich przedmiotów obowiązkowych w części ustnej i w części pisemnej oraz do co najmniej jednego przedmiotu dodatkowego w części pisemnej i nie zdał egzaminu maturalnego wyłącznie z jednego przedmiotu obowiązkowego w części ustnej albo w części pisemnej albo nie zdał egzaminu z co najmniej jednego przedmiotu dodatkowego w części pisemnej, może w tym samym roku przystąpić do egzaminu maturalnego z tego samego przedmiotu obowiązkowego odpowiednio w części ustnej albo w części pisemnej albo tego samego przedmiotu dodatkowego w części pisemnej, w terminie poprawkowym, z zastrzeżeniem ust. 1a.
+
+1a. Absolwent, o którym mowa w art. 44zzd ust. 4b, który przystąpił do egzaminu maturalnego ze wszystkich przedmiotów obowiązkowych w części ustnej i w części pisemnej i nie zdał egzaminu maturalnego wyłącznie z jednego przedmiotu obowiązkowego w części ustnej albo w części pisemnej, może w tym samym roku przystąpić do egzaminu maturalnego z tego samego przedmiotu obowiązkowego odpowiednio w części ustnej albo w części pisemnej, w terminie poprawkowym.
+
+2. Przepisów ust. 1 i 1a nie stosuje się w przypadku gdy egzamin maturalny z przedmiotu lub przedmiotów, o których mowa w ust. 1 lub 1a, został unieważniony.
+
+3. Absolwent, o którym mowa w ust. 1 lub 1a, w terminie 7 dni od dnia ogłoszenia wyników egzaminu maturalnego, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze, składa przewodniczącemu zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3, pisemne oświadczenie o zamiarze przystąpienia do egzaminu maturalnego z danego przedmiotu w terminie poprawkowym.
+
+**Art. 44zzn.**
+
+1. Absolwent, który nie zdał egzaminu maturalnego z danego przedmiotu lub przedmiotów obowiązkowych w części ustnej lub w części pisemnej, może przystąpić ponownie do części ustnej lub części pisemnej egzaminu maturalnego z tego przedmiotu lub przedmiotów, zgodnie z przepisami obowiązującymi w roku, w którym przystępował do egzaminu maturalnego po raz pierwszy, w okresie 5 lat od pierwszego egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy.
+
+2. Absolwent, który nie zdał egzaminu maturalnego z co najmniej jednego przedmiotu dodatkowego w części pisemnej, może przystąpić ponownie do egzaminu maturalnego z dowolnego przedmiotu dodatkowego, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego, w okresie 5 lat od pierwszego egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, z zastrzeżeniem art. 44zzd ust. 4a.
+
+3. Absolwent, o którym mowa w ust. 1 i 2, ma prawo przystąpić do egzaminu maturalnego, zarówno w części ustnej, jak i w części pisemnej, z przedmiotu lub przedmiotów dodatkowych, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego.
+
+4. Absolwent, o którym mowa w ust. 1 i 2, ma prawo ponownie przystąpić do egzaminu maturalnego, zarówno w części ustnej, jak i w części pisemnej, z przedmiotu lub przedmiotów obowiązkowych, z których uzyskał wynik określony w art. 44zzl ust. 1 lub 1a, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego.
+
+5. Absolwent, o którym mowa w ust. 1, przystępujący ponownie do egzaminu maturalnego może wybrać jako przedmiot obowiązkowy:
+
+- **1)** inny język obcy nowożytny niż język obcy nowożytny, który zdawał poprzednio, albo język łaciński – w przypadku gdy poprzednio przystępował do egzaminu maturalnego z języka obcego nowożytnego jako przedmiotu obowiązkowego;
+- **2)** język obcy nowożytny – jeżeli poprzednio przystępował do egzaminu maturalnego z języka łacińskiego jako przedmiotu obowiązkowego.
+
+5a. W przypadku, o którym mowa w ust. 5 pkt 1, gdy absolwent, o którym mowa w ust. 1, przystępując ponownie do egzaminu maturalnego, wybierze jako przedmiot obowiązkowy język łaciński i zda ten egzamin, na świadectwie dojrzałości wpisuje się tylko wynik części pisemnej egzaminu maturalnego z języka łacińskiego.
+
+5b. W przypadku, o którym mowa w ust. 5 pkt 2, gdy absolwent, o którym mowa w ust. 1, przystępując ponownie do egzaminu maturalnego, wybierze jako przedmiot obowiązkowy język obcy nowożytny, przystępuje do tego egzaminu zarówno w części ustnej, jak i w części pisemnej.
+
+6. Absolwent, o którym mowa w ust. 1, przystępujący ponownie do egzaminu maturalnego, nie może wybrać jako przedmiotu obowiązkowego języka obcego nowożytnego, z którego poprzednio przystąpił do egzaminu maturalnego jako przedmiotu dodatkowego w części ustnej bez określania poziomu egzaminu.
+
+7. Po upływie 5 lat od daty pierwszego przystąpienia do egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, absolwent, o którym mowa w ust. 1 i 2, przystępuje do egzaminu maturalnego w pełnym zakresie, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego.
+
+8. W przypadku zgłoszenia w deklaracji, o której mowa w art. 44zzi, zamiaru przystąpienia do egzaminu maturalnego z przedmiotu dodatkowego, o którym mowa w art. 44zzd ust. 5 lub 5a, i nieprzystąpienia do egzaminu maturalnego z tego przedmiotu, absolwent otrzymuje z egzaminu maturalnego z tego przedmiotu wynik „0 %”. Art. 44zzna. 1. Absolwent, który nie zdał egzaminu maturalnego z co najmniej jednego przedmiotu dodatkowego w części pisemnej, może otrzymać świadectwo dojrzałości wydane przez okręgową komisję egzaminacyjną, jeżeli w okresie 5 lat od pierwszego egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, spełnił warunek, o którym mowa w art. 44zzd ust. 4b.
+
+2. Po upływie 5 lat od daty pierwszego przystąpienia do egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, absolwent, o którym mowa w ust. 1, przystępuje do egzaminu maturalnego w pełnym zakresie, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego.
+
+**Art. 44zzo.**
+
+1. Absolwent, który uzyskał świadectwo dojrzałości po zdaniu egzaminu maturalnego, ma prawo ponownie przystąpić do egzaminu maturalnego, w części pisemnej albo w części pisemnej i w części ustnej, z wybranego przedmiotu albo wybranych przedmiotów, z których jest przeprowadzany egzamin maturalny, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego, w tym do rozwiązywania dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3.
+
+2. Absolwent, o którym mowa w ust. 1, który:
+
+- **1)** podwyższył wynik egzaminu maturalnego z danego przedmiotu lub przedmiotów,
+- **2)** podwyższył wynik egzaminu maturalnego z dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3,
+- **3)** przystąpił do egzaminu maturalnego z przedmiotu lub przedmiotów dodatkowych, z których wcześniej nie zdawał egzaminu maturalnego,
+- **4)** przystąpił do egzaminu maturalnego z dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3, z których wcześniej nie zdawał egzaminu maturalnego – otrzymuje aneks do świadectwa dojrzałości wydany przez okręgową komisję egzaminacyjną.
+
+**Art. 44zzp.**
+
+1. Absolwent, który posiada:
+
+- **1)** świadectwo dojrzałości uzyskane po zdaniu egzaminu dojrzałości przeprowadzanego dla absolwentów ponadpodstawowych szkół średnich,
+- **2)** dyplom IB (International Baccalaureate) wydany przez organizację International Baccalaureate Organization w Genewie i uzyskany po zakończeniu kształcenia w oddziale międzynarodowym, o którym mowa w art. 4 pkt 12 ustawy – Prawo oświatowe – ma prawo przystąpić do egzaminu maturalnego, w części pisemnej albo w części pisemnej i w części ustnej, z wybranego przedmiotu albo wybranych przedmiotów, z których jest przeprowadzany egzamin maturalny, zgodnie z przepisami obowiązującymi w roku, w którym przystępuje do egzaminu maturalnego.
+
+2. Absolwent, o którym mowa w ust. 1, otrzymuje zaświadczenie o wynikach egzaminu maturalnego z przedmiotu lub przedmiotów, do których przystąpił, wydane przez okręgową komisję egzaminacyjną.
+
+3. Absolwent, o którym mowa w ust. 1, ma prawo ponownie przystąpić do egzaminu maturalnego w części ustnej albo w części pisemnej, albo w obu tych częściach, z tych samych przedmiotów, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego. Absolwent, który podwyższył wynik egzaminu maturalnego z danego przedmiotu lub przedmiotów, otrzymuje zaświadczenie o wynikach egzaminu maturalnego z przedmiotu lub przedmiotów, do których przystąpił, wydane przez okręgową komisję egzaminacyjną.
+
+**Art. 44zzq.**
+
+1. Egzamin maturalny z każdego przedmiotu obowiązkowego i przedmiotu dodatkowego, zarówno w części ustnej, jak i w części pisemnej, jest odpłatny dla:
+
+- **1)** absolwentów, którzy po raz trzeci i kolejny przystępują do egzaminu maturalnego z tego samego przedmiotu obowiązkowego lub z tego samego przedmiotu dodatkowego;
+- **2)** absolwentów, którzy przystępują do egzaminu maturalnego z tego samego przedmiotu dodatkowego, który w poprzednim roku lub w poprzednich latach zgłaszali w deklaracji, o której mowa w art. 44zzi, ale nie przystąpili do egzaminu maturalnego z tego przedmiotu.
+
+1a. Opłata za egzamin maturalny, o której mowa w ust. 1, jest wnoszona wyłącznie za przystąpienie do egzaminu maturalnego w terminie głównym.
+
+2. Opłata za egzamin maturalny, o której mowa w ust. 1, stanowi dochód budżetu państwa. Opłata nie podlega zwrotowi. Jeżeli absolwent wniósł opłatę za egzamin maturalny, a następnie dyrektor okręgowej komisji egzaminacyjnej zwolnił absolwenta z tej opłaty na podstawie ust. 3b, dyrektor okręgowej komisji egzaminacyjnej zwraca absolwentowi tę opłatę.
+
+3. Opłatę za egzamin maturalny, o której mowa w ust. 1, wnosi się w terminie od dnia 1 stycznia do dnia 7 marca roku kalendarzowego, w którym absolwent zamierza przystąpić do egzaminu maturalnego, na rachunek bankowy wskazany przez dyrektora okręgowej komisji egzaminacyjnej. Niewniesienie w tym terminie opłaty za egzamin maturalny, o której mowa w ust. 1, skutkuje brakiem możliwości przystąpienia do tego egzaminu.
+
+3a. W szczególnych przypadkach losowych lub zdrowotnych dyrektor okręgowej komisji egzaminacyjnej w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, na udokumentowany wniosek absolwenta, może wyrazić zgodę na wniesienie przez absolwenta opłaty, o której mowa w ust. 1, po terminie określonym w ust. 3, jednakże nie później niż do dnia 31 marca.
+
+3b. W przypadku absolwenta, o którym mowa w art. 44zzia, dyrektor okręgowej komisji egzaminacyjnej zwalnia z urzędu absolwenta z opłaty, o której mowa w ust. 1 pkt 2.
+
+4. Dyrektor okręgowej komisji egzaminacyjnej może zwolnić z opłaty, o której mowa w ust. 1, osobę o niskim dochodzie, na jej wniosek, jeżeli ten dochód nie jest większy niż kwota, o której mowa w art. 5 ust. 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871 oraz z 2025 r. poz. 619 i 620).
+
+**Art. 44zzr.**
+
+1. Uczeń lub absolwent posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach i formie dostosowanych do rodzaju niepełnosprawności, na podstawie tego orzeczenia.
+
+2. Uczeń lub absolwent posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, wynikających odpowiednio z niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym, na podstawie tego orzeczenia.
+
+3. Uczeń posiadający orzeczenie o potrzebie indywidualnego nauczania lub absolwent, który w roku szkolnym, w którym przystępuje do egzaminu maturalnego, posiadał orzeczenie o potrzebie indywidualnego nauczania, może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z jego stanu zdrowia, na podstawie tego orzeczenia.
+
+4. Uczeń, słuchacz albo absolwent chory lub niesprawny czasowo może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach odpowiednich ze względu na jego stan zdrowia, na podstawie zaświadczenia o stanie zdrowia wydanego przez lekarza.
+
+5. Uczeń, słuchacz albo absolwent posiadający opinię poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, o specyficznych trudnościach w uczeniu się, wydaną zgodnie z przepisami wydanymi na podstawie art. 44zb, może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z rodzaju tych trudności, na podstawie tej opinii.
+
+6. Uczeń, słuchacz albo absolwent, który w roku szkolnym, w którym przystępuje do egzaminu ósmoklasisty lub egzaminu maturalnego, był objęty pomocą psychologiczno-pedagogiczną w szkole ze względu na trudności adaptacyjne związane z wcześniejszym kształceniem za granicą, zaburzenia komunikacji językowej lub sytuację kryzysową lub traumatyczną, może przystąpić do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających odpowiednio z rodzaju tych trudności, zaburzeń lub sytuacji kryzysowej lub traumatycznej, na podstawie pozytywnej opinii rady pedagogicznej.
+
+7. Uczeń albo absolwent, o którym mowa w art. 165 ust. 1 i 2 ustawy – Prawo oświatowe, któremu ograniczona znajomość języka polskiego utrudnia zrozumienie czytanego tekstu, może przystąpić do:
+
+- **1)** egzaminu ósmoklasisty, z wyjątkiem egzaminu ósmoklasisty z języka obcego nowożytnego w warunkach i formie dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z tego ograniczenia, na podstawie pozytywnej opinii rady pedagogicznej;
+- **2)** egzaminu maturalnego, z wyjątkiem egzaminu maturalnego z języka obcego nowożytnego, języka łacińskiego, języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego – w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z tego ograniczenia, na podstawie pozytywnej opinii rady pedagogicznej.
+
+8. Dostosowanie formy egzaminu ósmoklasisty i egzaminu maturalnego, o którym mowa w ust. 1, polega na przygotowaniu odrębnych arkuszy egzaminacyjnych dostosowanych do rodzaju niepełnosprawności ucznia lub absolwenta niepełnosprawnego, z tym że nie przygotowuje się odrębnych arkuszy egzaminacyjnych dla absolwentów posiadających orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu lekkim.
+
+9. Dostosowanie formy egzaminu ósmoklasisty, o którym mowa w ust. 7 pkt 1, polega na przygotowaniu odrębnych arkuszy egzaminacyjnych dostosowanych do potrzeb ucznia, któremu ograniczona znajomość języka polskiego utrudnia zrozumienie czytanego tekstu.
+
+10. Dostosowanie warunków przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego, o których mowa w ust. 1–7, polega odpowiednio na:
+
+- **1)** zminimalizowaniu ograniczeń wynikających z niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym ucznia, słuchacza albo absolwenta;
+- **2)** zapewnieniu uczniowi, słuchaczowi albo absolwentowi miejsca pracy odpowiedniego do jego potrzeb edukacyjnych oraz możliwości psychofizycznych;
+- **3)** wykorzystaniu odpowiedniego sprzętu specjalistycznego, aplikacji mobilnej służącej do monitorowania stanu zdrowia ucznia, słuchacza albo absolwenta i środków dydaktycznych;
+- **4)** odpowiednim przedłużeniu czasu przewidzianego na przeprowadzenie egzaminu ósmoklasisty i egzaminu maturalnego;
+- **5)** ustaleniu zasad oceniania rozwiązań zadań wykorzystywanych do przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego, o których mowa w art. 9a ust. 2 pkt 2, uwzględniających potrzeby edukacyjne oraz możliwości psychofizyczne ucznia, słuchacza albo absolwenta;
+- **6)** zapewnieniu obecności i pomocy w czasie egzaminu ósmoklasisty i egzaminu maturalnego nauczyciela wspomagającego ucznia lub absolwenta w czytaniu lub pisaniu lub specjalisty odpowiednio z zakresu danego rodzaju niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym, jeżeli jest to niezbędne do uzyskania właściwego kontaktu z uczniem lub absolwentem lub pomocy w obsłudze sprzętu specjalistycznego, aplikacji mobilnej służącej do monitorowania stanu zdrowia ucznia lub absolwenta i środków dydaktycznych.
+
+11. Dla ucznia, słuchacza albo absolwenta, o którym mowa w ust. 2–6, nie przygotowuje się odrębnych arkuszy egzaminacyjnych.
+
+12. Rada pedagogiczna, spośród możliwych sposobów dostosowania warunków i form przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego, wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, wskazuje sposób lub sposoby dostosowania warunków lub formy przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego dla ucznia, słuchacza albo absolwenta, o którym mowa w ust. 1–7.
+
+13. Dyrektor szkoły lub upoważniony przez niego nauczyciel informuje na piśmie ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców, o wskazanych sposobach dostosowania warunków i form przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego do jego potrzeb edukacyjnych i możliwości psychofizycznych.
+
+14. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, składają oświadczenie o korzystaniu albo niekorzystaniu ze wskazanych sposobów dostosowania, o których mowa w ust. 13, w terminie 3 dni roboczych od dnia otrzymania informacji, o której mowa w ust. 13.
+
+15. W przypadku absolwenta, o którym mowa w ust. 4 i 5, który ukończył szkołę we wcześniejszych latach, sposób lub sposoby dostosowania warunków przeprowadzania egzaminu maturalnego do potrzeb i możliwości absolwenta, spośród możliwych sposobów dostosowania warunków przeprowadzania egzaminu maturalnego, wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, wskazuje przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3. Przepisy ust. 13 i 14 stosuje się odpowiednio.
+
+16. Przystąpienie do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach i formie dostosowanych do potrzeb i możliwości ucznia, słuchacza albo absolwenta, o którym mowa w ust. 1–7, zapewnia przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3.
+
+17. W szczególnych przypadkach losowych lub zdrowotnych dyrektor szkoły, na wniosek rady pedagogicznej, może wystąpić do dyrektora okręgowej komisji egzaminacyjnej z wnioskiem o wyrażenie zgody na przystąpienie ucznia, słuchacza albo absolwenta do egzaminu ósmoklasisty i egzaminu maturalnego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, nieujętych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie. Art. 44zzra. (uchylony)
+
+**Art. 44zzs.**
+
+1. Za organizację i przebieg egzaminu ósmoklasisty lub egzaminu maturalnego w danej szkole odpowiada dyrektor tej szkoły.
+
+2. Do przeprowadzenia egzaminu ósmoklasisty lub egzaminu maturalnego w danej szkole dyrektor szkoły powołuje zespół egzaminacyjny.
+
+3. Dyrektor szkoły jest przewodniczącym zespołu egzaminacyjnego. W przypadku choroby przewodniczącego zespołu egzaminacyjnego lub innych ważnych przyczyn uniemożliwiających jego udział w egzaminie ósmoklasisty lub egzaminie maturalnym albo wynikających z konieczności zapewnienia właściwej organizacji tych egzaminów, przewodniczącym zespołu egzaminacyjnego może być osoba wskazana przez dyrektora okręgowej komisji egzaminacyjnej.
+
+4. Przewodniczący zespołu egzaminacyjnego, spośród członków zespołu egzaminacyjnego, powołuje odpowiednio:
+
+- **1)** zespoły nadzorujące przebieg egzaminu ósmoklasisty lub części pisemnej egzaminu maturalnego w poszczególnych salach egzaminacyjnych oraz wyznacza przewodniczących tych zespołów;
+- **2)** zespoły przedmiotowe do przeprowadzenia części ustnej egzaminu maturalnego z poszczególnych przedmiotów oraz wyznacza przewodniczących tych zespołów.
+
+5. Przewodniczący zespołu egzaminacyjnego organizuje i nadzoruje przebieg w danej szkole odpowiednio egzaminu ósmoklasisty lub egzaminu maturalnego, w tym:
+
+- **1)** informuje uczniów, słuchaczy albo absolwentów, którzy zamierzają przystąpić do egzaminu maturalnego, odpowiednio o egzaminie ósmoklasisty i egzaminie maturalnym;
+- **2)** zapewnia przekazanie do okręgowej komisji egzaminacyjnej informacji niezbędnych do przeprowadzenia egzaminu ósmoklasisty lub egzaminu maturalnego;
+- **3)** zapewnia warunki do samodzielnej pracy uczniów, słuchaczy i absolwentów podczas odpowiednio egzaminu ósmoklasisty lub egzaminu maturalnego;
+- **4)** zabezpiecza przed nieuprawnionym ujawnieniem materiały egzaminacyjne niezbędne do przeprowadzenia egzaminu ósmoklasisty lub egzaminu maturalnego od momentu odbioru materiałów egzaminacyjnych do momentu ich przekazania dyrektorowi okręgowej komisji egzaminacyjnej.
+
+6. Przebieg egzaminu ósmoklasisty i egzaminu maturalnego jest dokumentowany w protokołach tych egzaminów. Art. 44zzsa. 1. W przeprowadzaniu egzaminu maturalnego z informatyki może brać udział operator pracowni informatycznej.
+
+2. Operatorem pracowni informatycznej może być nauczyciel lub osoba pełnoletnia niebędąca nauczycielem i niebędąca uczniem szkoły, w której jest przeprowadzany egzamin maturalny, posiadający kwalifikacje lub umiejętności właściwe dla wykonania zadań, o których mowa w ust. 3, wskazani przez dyrektora szkoły.
+
+3. Do zadań operatora pracowni informatycznej należy:
+
+- **1)** przygotowanie wyposażenia stanowisk komputerowych, w tym w materiały i przybory pomocnicze oraz systemy operacyjne, programy użytkowe i języki programowania, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie;
+- **2)** zapewnienie prawidłowego funkcjonowania stanowisk komputerowych, w tym usuwanie awarii występujących na stanowiskach komputerowych w czasie trwania egzaminu maturalnego z informatyki;
+- **3)** zapewnienie warunków do samodzielnej pracy zdających, z uwzględnieniem bezpiecznych i higienicznych warunków w miejscu przeprowadzania egzaminu maturalnego z informatyki;
+- **4)** przeprowadzenie, na polecenie przewodniczącego zespołu nadzorującego, instruktażu stanowiskowego dla zdających;
+- **5)** zabezpieczenie, w sposób trwały, rozwiązań zadań egzaminacyjnych zdających w sposób wskazany w informacji, o której mowa w art. 9a ust. 2 pkt 10 lit. b, do dnia przekazania szkołom świadectw dojrzałości, aneksów do świadectw dojrzałości i zaświadczeń o wynikach egzaminu maturalnego, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze podwójne tiret drugie.
+
+**Art. 44zzt.**
+
+1. W czasie trwania egzaminu ósmoklasisty i egzaminu maturalnego każdy uczeń, słuchacz albo absolwent pracuje przy osobnym stoliku, w odległości zapewniającej samodzielność pracy.
+
+2. Do sali egzaminacyjnej, w której jest przeprowadzany egzamin ósmoklasisty i egzamin maturalny, nie można wnosić materiałów i przyborów pomocniczych niewymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie, oraz żadnych urządzeń telekomunikacyjnych, ani korzystać z nich w tej sali.
+
+2a. Przepis ust. 2 nie dotyczy urządzenia telekomunikacyjnego wyposażonego w aplikację mobilną służącą do monitorowania stanu zdrowia ucznia, słuchacza albo absolwenta, które można wnieść i z którego można korzystać na warunkach określonych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie.
+
+3. Uczeń, słuchacz albo absolwent samodzielnie rozwiązuje zadania zawarte w arkuszu egzaminacyjnym, w szczególności tworzy własny tekst lub własne rozwiązania zadań w czasie trwania egzaminu ósmoklasisty lub egzaminu maturalnego.
+
+**Art. 44zzu.**
+
+1. Prace egzaminacyjne uczniów, słuchaczy albo absolwentów sprawdzają i przyznają punkty egzaminatorzy wpisani do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, wyznaczeni przez dyrektora okręgowej komisji egzaminacyjnej. Egzaminatorzy stosują zasady oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2.
+
+2. Prace egzaminacyjne uczniów, słuchaczy albo absolwentów mogą być sprawdzane z wykorzystaniem narzędzi elektronicznych.
+
+3. Egzaminatorzy, o których mowa w ust. 1, tworzą odpowiednio zespół egzaminatorów w zakresie danego przedmiotu objętego egzaminem ósmoklasisty lub egzaminem maturalnym. W przypadku egzaminu ósmoklasisty z języka obcego nowożytnego egzaminatorzy tworzą zespół egzaminatorów w zakresie danego języka obcego nowożytnego.
+
+4. Dyrektor okręgowej komisji egzaminacyjnej, spośród członków zespołu egzaminatorów, o którym mowa w ust. 3, wyznacza przewodniczącego tego zespołu i egzaminatorów-weryfikatorów.
+
+5. Część ustną egzaminu maturalnego z poszczególnych przedmiotów przeprowadzają i przyznają punkty zespoły przedmiotowe, o których mowa w art. 44zzs ust. 4 pkt 2.
+
+6. Funkcję egzaminatora-weryfikatora może pełnić egzaminator, który w ostatnich 3 latach co najmniej jednokrotnie był egzaminatorem odpowiednio egzaminu ósmoklasisty z danego przedmiotu albo egzaminu maturalnego z danego przedmiotu.
+
+7. Do zadań egzaminatora-weryfikatora należy sprawdzenie i ocenienie prac egzaminacyjnych wskazanych przez przewodniczącego zespołu egzaminatorów poprzednio sprawdzonych i ocenionych przez egzaminatorów wchodzących w skład danego zespołu egzaminatorów, w celu zweryfikowania poprawności sprawdzenia i ocenienia prac egzaminacyjnych przez tych egzaminatorów.
+
+8. W przypadku różnicy między liczbą punktów przyznaną przez egzaminatora a liczbą punktów przyznaną przez egzaminatora-weryfikatora o liczbie przyznanych punktów rozstrzyga przewodniczący zespołu egzaminatorów.
+
+**Art. 44zzv.** W przypadku:
+
+- **1)** stwierdzenia niesamodzielnego rozwiązywania zadań przez ucznia, słuchacza albo absolwenta lub
+- **2)** wniesienia lub korzystania przez ucznia, słuchacza albo absolwenta w sali egzaminacyjnej z materiałów lub przyborów pomocniczych niewymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie, albo z urządzenia telekomunikacyjnego, z zastrzeżeniem art. 44zzt ust. 2a, lub
+- **3)** zakłócania przez ucznia, słuchacza albo absolwenta prawidłowego przebiegu egzaminu ósmoklasisty z danego przedmiotu albo części ustnej lub części pisemnej egzaminu maturalnego, w sposób utrudniający pracę pozostałym uczniom, słuchaczom albo absolwentom – przewodniczący zespołu egzaminacyjnego przerywa i unieważnia temu uczniowi, słuchaczowi albo absolwentowi odpowiednio egzamin ósmoklasisty z danego przedmiotu albo egzamin maturalny z danego przedmiotu odpowiednio w części ustnej lub w części pisemnej. Informację o przerwaniu i unieważnieniu zamieszcza się w protokole przebiegu odpowiednio egzaminu ósmoklasisty i egzaminu maturalnego.
+
+**Art. 44zzw.**
+
+1. W przypadku stwierdzenia podczas sprawdzania pracy egzaminacyjnej przez egzaminatora:
+
+- **1)** niesamodzielnego rozwiązania zadania lub zadań przez ucznia, słuchacza albo absolwenta,
+- **2)** występowania w pracy egzaminacyjnej ucznia, słuchacza albo absolwenta jednakowych sformułowań wskazujących na udostępnienie rozwiązań innemu uczniowi, słuchaczowi albo absolwentowi lub korzystanie z rozwiązań innego ucznia, słuchacza albo absolwenta – dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, pisemną informację o zamiarze unieważnienia temu uczniowi, słuchaczowi albo absolwentowi odpowiednio egzaminu ósmoklasisty z danego przedmiotu albo egzaminu maturalnego z danego przedmiotu w części pisemnej. Dyrektor szkoły niezwłocznie przekazuje tę informację uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom.
+
+2. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mają prawo złożyć wniosek o wgląd do dokumentacji, na podstawie której dyrektor okręgowej komisji egzaminacyjnej zamierza unieważnić odpowiednio egzamin ósmoklasisty z danego przedmiotu albo egzamin maturalny z danego przedmiotu w części pisemnej. Wniosek składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia otrzymania pisemnej informacji, o której mowa w ust. 1.
+
+3. W terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 2, dyrektor okręgowej komisji egzaminacyjnej umożliwia uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, zapoznanie się z dokumentacją oraz złożenie wyjaśnień, we wskazanym miejscu i czasie.
+
+4. Dyrektor okręgowej komisji egzaminacyjnej rozstrzyga o unieważnieniu odpowiednio egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej, w terminie 14 dni od dnia:
+
+- **1)** otrzymania wniosku, o którym mowa w ust. 2, albo
+- **2)** upływu terminu do złożenia wniosku, o którym mowa w ust. 2.
+
+5. Dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, pisemną informację o unieważnieniu odpowiednio egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej, wraz z uzasadnieniem.
+
+6. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, w terminie 3 dni roboczych od dnia otrzymania informacji o unieważnieniu, o której mowa w ust. 5, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
+
+7. Zastrzeżenia, o których mowa w ust. 6, wraz z dokumentacją niezbędną do ich rozpatrzenia, dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców.
+
+8. Dyrektor Centralnej Komisji Egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 6, w terminie 7 dni od dnia otrzymania zastrzeżeń wraz z dokumentacją niezbędną do ich rozpatrzenia. Rozstrzygnięcie dyrektora Centralnej Komisji Egzaminacyjnej jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
+
+9. W przypadku braku możliwości przekazania uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, pisemnej informacji, o której mowa w ust. 1, dyrektor szkoły niezwłocznie informuje o tym dyrektora okręgowej komisji egzaminacyjnej, który, w terminie 7 dni od dnia otrzymania informacji od dyrektora szkoły, rozstrzyga o unieważnieniu egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, pisemną informację o tym unieważnieniu wraz z uzasadnieniem uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+
+10. W przypadku, o którym mowa w ust. 9, uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej, w terminie 3 dni roboczych od dnia:
+
+- **1)** otrzymania informacji o unieważnieniu, o której mowa w ust. 9, albo
+- **2)** zapoznania się z dokumentacją oraz złożenia wyjaśnień, o których mowa w ust. 2 i 3.
+
+11. Do zastrzeżeń, o których mowa w ust. 10, przepisy ust. 7 i 8 stosuje się odpowiednio.
+
+12. Zaświadczenie, o którym mowa w art. 44zza ust. 8 pkt 1, dyrektor okręgowej komisji egzaminacyjnej wydaje po rozstrzygnięciu w sprawie unieważnienia.
+
+13. Świadectwo dojrzałości, o którym mowa w art. 44zzl ust. 4, dyrektor okręgowej komisji egzaminacyjnej wydaje po rozstrzygnięciu w sprawie unieważnienia, jeżeli w wyniku tego rozstrzygnięcia absolwent spełnia warunki, o których mowa w art. 44zzl ust. 1 lub 1a.
+
+14. Aneks do świadectwa dojrzałości, o którym mowa w art. 44zzo ust. 2, lub zaświadczenie, o którym mowa w art. 44zzp ust. 2, dyrektor okręgowej komisji egzaminacyjnej wydaje po rozstrzygnięciu w sprawie unieważnienia, jeżeli w wyniku tego rozstrzygnięcia absolwent podwyższył wynik z egzaminu maturalnego z danego przedmiotu w części pisemnej.
+
+15. Uczeń lub słuchacz, któremu unieważniono egzamin ósmoklasisty z danego przedmiotu, przystępuje ponownie do egzaminu ósmoklasisty z tego przedmiotu w dodatkowym terminie w szkole, której jest uczniem lub słuchaczem.
+
+16. W przypadku unieważnienia egzaminu maturalnego danego absolwenta z przedmiotu dodatkowego, o którym mowa w art. 44zzd ust. 5 i 5a, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu maturalnego z tego przedmiotu dodatkowego jako „0 %”.
+
+**Art. 44zzx.** W przypadku unieważnienia z przyczyn, o których mowa w art. 44zzv lub art. 44zzw ust. 1, egzaminu ósmoklasisty z danego przedmiotu, przeprowadzonego w terminie dodatkowym, w sytuacjach określonych w art. 44zz ust. 1 i art. 44zzw ust. 15, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu ósmoklasisty z danego przedmiotu jako „0 %”.
+
+**Art. 44zzy.**
+
+1. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mogą, w terminie 2 dni roboczych od dnia przeprowadzenia egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części ustnej lub części pisemnej, zgłosić zastrzeżenia wraz z uzasadnieniem do dyrektora okręgowej komisji egzaminacyjnej, jeżeli uznają, że w trakcie egzaminu zostały naruszone przepisy dotyczące jego przeprowadzania.
+
+2. W przypadku zgłoszenia zastrzeżeń, o których mowa w ust. 1, do egzaminu maturalnego z danego przedmiotu w części ustnej dyrektor okręgowej komisji egzaminacyjnej zwraca się do przewodniczącego zespołu egzaminacyjnego o przedstawienie wyjaśnień dotyczących wniesionego zastrzeżenia.
+
+3. Dyrektor okręgowej komisji egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 1, w terminie 7 dni od dnia ich otrzymania i informuje pisemnie ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców, o wyniku rozstrzygnięcia.
+
+4. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, w terminie 3 dni roboczych od dnia otrzymania informacji o wyniku rozstrzygnięcia, o której mowa w ust. 3, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
+
+5. Zastrzeżenia, o których mowa w ust. 4, wraz z dokumentacją niezbędną do ich rozpatrzenia dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców.
+
+6. Dyrektor Centralnej Komisji Egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 4, w terminie 7 dni od dnia ich wniesienia. Rozstrzygnięcie dyrektora Centralnej Komisji Egzaminacyjnej jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
+
+7. W przypadku stwierdzenia naruszenia przepisów dotyczących przeprowadzania egzaminu ósmoklasisty lub egzaminu maturalnego, na skutek zastrzeżeń, o których mowa w ust. 1, lub z urzędu, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, może unieważnić egzamin ósmoklasisty z danego przedmiotu lub egzamin maturalny z danego przedmiotu w części ustnej lub części pisemnej i zarządzić ich ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik tego egzaminu.
+
+8. W przypadku, o którym mowa w ust. 6, dyrektor Centralnej Komisji Egzaminacyjnej może unieważnić egzamin ósmoklasisty z danego przedmiotu lub egzamin maturalny z danego przedmiotu w części ustnej lub części pisemnej i zarządzić ich ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik egzaminu. O rozstrzygnięciu w sprawie unieważnienia dyrektor Centralnej Komisji Egzaminacyjnej informuje dyrektora okręgowej komisji egzaminacyjnej.
+
+9. W przypadkach, o których mowa w ust. 7 i 8, unieważnienie może nastąpić w stosunku do wszystkich uczniów, słuchaczy albo absolwentów, uczniów, słuchaczy albo absolwentów w poszczególnych szkołach, a także w stosunku do poszczególnych uczniów, słuchaczy albo absolwentów.
+
+10. W przypadku niemożności ustalenia wyników egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej z powodu zaginięcia lub zniszczenia prac egzaminacyjnych, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, unieważnia egzamin ósmoklasisty z danego przedmiotu lub egzamin maturalny z danego przedmiotu w części pisemnej danego ucznia, słuchacza albo absolwenta i zarządza jego ponowne przeprowadzenie.
+
+11. Termin ponownego egzaminu ósmoklasisty lub egzaminu maturalnego ustala dyrektor Centralnej Komisji Egzaminacyjnej.
+
+**Art. 44zzz.**
+
+1. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mają prawo wglądu do sprawdzonej i ocenionej pracy egzaminacyjnej tego ucznia, słuchacza albo absolwenta, w miejscu i czasie wskazanym przez dyrektora okręgowej komisji egzaminacyjnej, w terminie 6 miesięcy od dnia wydania przez okręgową komisję egzaminacyjną:
+
+- **1)** zaświadczenia, o którym mowa w art. 44zza ust. 8 pkt 1;
+- **2)** świadectwa dojrzałości, o którym mowa w art. 44zzl ust. 4;
+- **3)** aneksu do świadectwa dojrzałości, o którym mowa w art. 44zzo ust. 2;
+- **4)** zaświadczenia, o którym mowa w art. 44zzp ust. 2;
+- **5)** informacji o szczegółowych wynikach egzaminu ósmoklasisty albo informacji o wynikach egzaminu maturalnego – w przypadkach, o których mowa odpowiednio w art. 44zza ust. 8 pkt 2 i art. 44zzl ust. 5.
+
+2. Podczas dokonywania wglądu, o którym mowa w ust. 1, uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzicom, zapewnia się możliwość zapoznania się z zasadami oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2.
+
+2a. Podczas dokonywania wglądu, o którym mowa w ust. 1, uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mogą sporządzać notatki i wykonywać fotografie pracy egzaminacyjnej.
+
+3. Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodzice, mogą zwrócić się z wnioskiem o weryfikację sumy punktów, o których mowa w art. 44zza ust. 2 lub art. 44zzk ust. 2. Wniosek wraz z uzasadnieniem składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia dokonania wglądu.
+
+4. Weryfikacji sumy punktów dokonuje się w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 3. Dyrektor okręgowej komisji egzaminacyjnej do weryfikacji sumy punktów wyznacza egzaminatora wpisanego do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, innego niż egzaminator, który sprawdzał i oceniał pracę egzaminacyjną, której dotyczy wniosek, o którym mowa w ust. 3.
+
+5. Dyrektor okręgowej komisji egzaminacyjnej informuje pisemnie ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta – jego rodziców, o wyniku weryfikacji sumy punktów, w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 3.
+
+6. Jeżeli w wyniku przeprowadzonej weryfikacji suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowe wyniki odpowiednio:
+
+- **1)** egzaminu ósmoklasisty oraz anuluje dotychczasowe zaświadczenie, o którym mowa w art. 44zza ust. 8 pkt 1, i wydaje nowe zaświadczenie;
+- **2)** egzaminu maturalnego oraz:
+    - **a)** wydaje świadectwo dojrzałości, jeżeli absolwent spełnił warunki określone w art. 44zzl ust. 1 lub 1a, lub
+    - **b)** anuluje dotychczasowe świadectwo dojrzałości, aneks do świadectwa dojrzałości, o którym mowa w art. 44zzo ust. 2, lub zaświadczenie, o którym mowa w art. 44zzp ust. 2, i wydaje nowe świadectwo dojrzałości, aneks do świadectwa dojrzałości lub zaświadczenie.
+
+7. Absolwent może wnieść odwołanie od wyniku weryfikacji sumy punktów z części pisemnej egzaminu maturalnego, o którym mowa w ust. 5, do Kolegium Arbitrażu Egzaminacyjnego, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, w terminie 7 dni od dnia otrzymania informacji, o której mowa w ust. 5.
+
+8. Absolwent w odwołaniu wskazuje zadanie lub zadania egzaminacyjne, co do których nie zgadza się z przyznaną liczbą punktów, wraz z uzasadnieniem, w którym wykazuje, że rozwiązanie tego zadania lub zadań egzaminacyjnych przez niego:
+
+- **1)** jest merytorycznie poprawne oraz
+- **2)** spełnia warunki określone w poleceniu do danego zadania egzaminacyjnego oraz instrukcji dla zdającego zamieszczonej w arkuszu egzaminacyjnym.
+
+9. Dyrektor okręgowej komisji egzaminacyjnej może w wyniku wniesionego odwołania dokonać ponownej weryfikacji sumy punktów.
+
+10. Jeżeli dyrektor okręgowej komisji egzaminacyjnej uzna, że odwołanie zasługuje na uwzględnienie w całości, ustala nowy wynik części pisemnej egzaminu maturalnego z danego przedmiotu w terminie 7 dni od dnia otrzymania odwołania. Przepis ust. 6 pkt 2 stosuje się odpowiednio.
+
+11. Jeżeli dyrektor okręgowej komisji egzaminacyjnej uzna, że odwołanie zasługuje na uwzględnienie w części, przekazuje do dyrektora Centralnej Komisji Egzaminacyjnej odwołanie wraz z uzasadnieniem w terminie 7 dni od dnia otrzymania odwołania. Do odwołania dołącza się:
+
+- **1)** pisemną informację, w jakim zakresie odwołanie zostało uwzględnione;
+- **2)** kopię rozwiązania zadania lub zadań egzaminacyjnych, które zostały wskazane w odwołaniu;
+- **3)** kopię informacji, o której mowa w ust. 5.
+
+12. Jeżeli dyrektor okręgowej komisji egzaminacyjnej uzna, że odwołanie nie zasługuje na uwzględnienie, przekazuje do dyrektora Centralnej Komisji Egzaminacyjnej odwołanie wraz z uzasadnieniem w terminie 7 dni od dnia otrzymania odwołania. Do odwołania dołącza się:
+
+- **1)** kopię rozwiązania zadania lub zadań egzaminacyjnych, które zostały wskazane w odwołaniu;
+- **2)** kopię informacji, o której mowa w ust. 5.
+
+13. O przekazaniu odwołania, o którym mowa w ust. 11 i 12, dyrektor okręgowej komisji egzaminacyjnej niezwłocznie informuje absolwenta, który wniósł odwołanie.
+
+14. Dyrektor Centralnej Komisji Egzaminacyjnej przekazuje Kolegium Arbitrażu Egzaminacyjnego odwołanie wraz z uzasadnieniem i dołączonymi dokumentami, o których mowa w ust. 11 i 12, w postaci zanonimizowanej, uniemożliwiającej identyfikację absolwenta, który wniósł odwołanie.
+
+15. W przypadku, o którym mowa w ust. 11, Kolegium Arbitrażu Egzaminacyjnego rozpatruje odwołanie wyłącznie w zakresie nieuwzględnionym przez dyrektora okręgowej komisji egzaminacyjnej.
+
+16. Kolegium Arbitrażu Egzaminacyjnego może zwrócić się do Centralnej Komisji Egzaminacyjnej z wnioskiem o opinię dotyczącą rozwiązania danego zadania lub zadań egzaminacyjnych. Opinia nie jest wiążąca dla Kolegium Arbitrażu Egzaminacyjnego.
+
+17. Odwołanie rozpatruje się w terminie 21 dni od dnia przekazania odwołania przez dyrektora okręgowej komisji egzaminacyjnej do dyrektora Centralnej Komisji Egzaminacyjnej. Termin może być jednokrotnie przedłużony, nie więcej jednak niż o 7 dni.
+
+18. Kolegium Arbitrażu Egzaminacyjnego, w terminie określonym przez dyrektora Centralnej Komisji Egzaminacyjnej, nie krótszym niż 10 dni, podejmuje rozstrzygnięcie w odniesieniu do zadania lub zadań egzaminacyjnych, przestrzegając zasad oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2, i sporządza pisemne uzasadnienie zawierające w szczególności ocenę zasadności argumentów podniesionych w odwołaniu. Rozstrzygnięcie Kolegium Arbitrażu Egzaminacyjnego jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
+
+19. Kolegium Arbitrażu Egzaminacyjnego przekazuje dyrektorowi Centralnej Komisji Egzaminacyjnej rozstrzygnięcie i uzasadnienie, o których mowa w ust. 18.
+
+20. Dyrektor Centralnej Komisji Egzaminacyjnej przekazuje niezwłocznie informację o rozstrzygnięciu i treść uzasadnienia, o których mowa w ust. 18, dyrektorowi okręgowej komisji egzaminacyjnej oraz absolwentowi, który wniósł odwołanie.
+
+21. Jeżeli w wyniku:
+
+- **1)** rozstrzygnięcia, o którym mowa w ust. 18, lub
+- **2)** uwzględnienia w części odwołania, o którym mowa w ust. 11 – suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowy wynik części pisemnej egzaminu maturalnego. Przepis ust. 6 pkt 2 stosuje się odpowiednio. Art. 44zzza. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i sposób przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego, w tym:
+- **1)** wykaz języków obcych nowożytnych, z których jest przeprowadzany egzamin ósmoklasisty i egzamin maturalny,
+- **2)** wykaz przedmiotów dodatkowych, z których jest przeprowadzany egzamin maturalny, wraz ze wskazaniem zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla jednego lub dwóch przedmiotów, na podstawie których jest przeprowadzany egzamin maturalny z danego przedmiotu dodatkowego,
+- **3)** zakres danych, które powinna zawierać deklaracja o przystąpieniu do egzaminu maturalnego, oraz tryb i sposób składania tej deklaracji,
+- **4)** zakres i terminy przekazywania dyrektorowi okręgowej komisji egzaminacyjnej informacji niezbędnych do przeprowadzenia egzaminu ósmoklasisty i egzaminu maturalnego, w tym informacji zawartych w deklaracjach, o których mowa w art. 44zy i art. 44zzi,
+- **5)** tryb wydawania opinii, o których mowa w art. 44zzr ust. 6 i 7,
+- **6)** skład zespołów, o których mowa w art. 44zzs ust. 4,
+- **7)** szczegółowe zadania przewodniczącego zespołu egzaminacyjnego oraz zespołów, o których mowa w art. 44zzs ust. 4,
+- **8)** zakres informacji, które zamieszcza się w protokołach, o których mowa w art. 44zzs ust. 6,
+- **9)** sposób postępowania z materiałami egzaminacyjnymi dostarczanymi do szkół, w tym tryb zgłaszania nieprawidłowości w tym zakresie,
+- **10)** czas trwania, sposób organizacji i przeprowadzania egzaminu ósmoklasisty z poszczególnych przedmiotów oraz części ustnej i części pisemnej egzaminu maturalnego z danego przedmiotu, sposób postępowania w sytuacjach zagrożenia lub nagłego zakłócenia przebiegu egzaminu ósmoklasisty i egzaminu maturalnego, przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego w miejscu innym niż szkoła ze względu na stan zdrowia ucznia, słuchacza lub jego niepełnosprawność,
+- **11)** termin przechowywania prac uczniów, słuchaczy i absolwentów oraz dokumentacji egzaminu ósmoklasisty i egzaminu maturalnego,
+- **12)** osoby, które nie wchodzą w skład zespołu egzaminacyjnego i nie biorą udziału w przeprowadzaniu egzaminu ósmoklasisty i egzaminu maturalnego, które mogą przebywać w sali egzaminacyjnej podczas tych egzaminów, w tym osoby, które mogą występować w charakterze obserwatorów podczas egzaminu ósmoklasisty i egzaminu maturalnego,
+- **13)** wysokość opłat pobieranych za egzamin maturalny w przypadkach określonych w art. 44zzq ust. 1 oraz tryb i termin złożenia wniosku o zwolnienie z opłaty za egzamin maturalny – z uwzględnieniem konieczności zapewnienia właściwej organizacji i przebiegu oraz właściwego dokumentowania egzaminu ósmoklasisty i egzaminu maturalnego, zapewnienia w składzie zespołów, o których mowa w art. 44zzs ust. 4, co najmniej jednej osoby zatrudnionej w innej szkole lub w placówce, zapewnienia możliwości wglądu, o którym mowa w art. 44zzz ust. 1, oraz że egzamin maturalny w części pisemnej z przedmiotu dodatkowego w przypadku, o którym mowa w art. 44zze ust. 2 pkt 3, będzie dotyczył przedmiotów należących do tej samej lub zbliżonej dziedziny nauk, a także że wysokość opłaty za dany egzamin maturalny nie może być wyższa niż średni koszt przeprowadzania egzaminu maturalnego z poszczególnych przedmiotów w części pisemnej. Art. 44zzzb. 1. Egzamin zawodowy jest formą oceny poziomu opanowania przez osoby, o których mowa w ust. 3, wiadomości i umiejętności z zakresu jednej kwalifikacji wyodrębnionej w zawodzie, ustalonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego.
+
+2. Egzamin zawodowy jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego.
+
+3. Do egzaminu zawodowego:
+
+- **1)** przystępują uczniowie branżowych szkół I stopnia niebędący młodocianymi pracownikami oraz uczniowie będący młodocianymi pracownikami zatrudnionymi w celu przygotowania zawodowego u pracodawcy niebędącego rzemieślnikiem i uczniowie techników oraz słuchacze branżowych szkół II stopnia i szkół policealnych,
+- **2)** mogą przystąpić uczniowie branżowych szkół I stopnia będący młodocianymi pracownikami zatrudnionymi w celu przygotowania zawodowego u pracodawcy będącego rzemieślnikiem,
+- **3)** mogą przystąpić absolwenci branżowych szkół I stopnia, branżowych szkół II stopnia, techników i szkół policealnych oraz absolwenci szkół ponadgimnazjalnych: zasadniczych szkół zawodowych i techników,
+- **4)** mogą przystąpić osoby, które ukończyły kwalifikacyjny kurs zawodowy,
+- **5)** mogą przystąpić osoby, które ukończyły staż, o którym mowa w art. 119 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), jeżeli program stażu uwzględniał wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego,
+- **6)** mogą przystąpić osoby spełniające warunki dopuszczenia do egzaminu eksternistycznego zawodowego określone w przepisach wydanych na podstawie art. 10 ust. 5 – zwane dalej „zdającymi”.
+
+4. Dyrektor szkoły, o której mowa w ust. 3 pkt 1, informuje uczniów i słuchaczy o obowiązku przystąpienia do egzaminu zawodowego odpowiednio w danym roku szkolnym lub danym semestrze. Art. 44zzzc. 1. Egzamin zawodowy jest przeprowadzany w ciągu całego roku szkolnego, a w przypadku części praktycznej tego egzaminu – w szczególności w okresie ferii letnich lub zimowych, w terminach ustalonych przez dyrektora okręgowej komisji egzaminacyjnej, na podstawie harmonogramu ogłoszonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze.
+
+2. Termin egzaminu zawodowego dyrektor okręgowej komisji egzaminacyjnej ogłasza na stronie internetowej okręgowej komisji egzaminacyjnej, nie później niż na 5 miesięcy przed terminem egzaminu zawodowego. Art. 44zzzd. 1. Egzamin zawodowy składa się z części pisemnej i części praktycznej.
+
+1a. (uchylony) 1b. (uchylony)
+
+2. Część pisemna jest przeprowadzana w formie testu pisemnego, a część praktyczna w formie zadania lub zadań praktycznych.
+
+3. Część pisemna jest przeprowadzana z wykorzystaniem Systemu Informatycznego Obsługującego Egzaminy Zawodowe, zwanego dalej „SIOEZ”, po uzyskaniu upoważnienia, o którym mowa w art. 44zzzl ust. 1.
+
+3a. Zadania egzaminacyjne w części pisemnej egzaminu zawodowego są wybierane losowo dla każdego zdającego z bazy zadań egzaminacyjnych prowadzonej przez Centralną Komisję Egzaminacyjną, z wykorzystaniem algorytmu ustalonego przez Centralną Komisję Egzaminacyjną.
+
+3b. Zadania egzaminacyjne w bazie zadań egzaminacyjnych i algorytm, o którym mowa w ust. 3a, nie są podawane do publicznej wiadomości.
+
+4. Część praktyczna polega na wykonaniu zadania lub zadań egzaminacyjnych, których rezultatem jest wyrób, usługa lub dokumentacja.
+
+4a. Część praktyczna może być przeprowadzana z wykorzystaniem SIOEZ, po uzyskaniu upoważnienia, o którym mowa w art. 44zzzl ust. 1.
+
+5. (uchylony) Art. 44zzze. 1. Laureat i finalista turnieju lub olimpiady tematycznej związanych z wybraną dziedziną wiedzy, wymienionych w wykazie, o którym mowa w art. 44zzzw, są zwolnieni z części pisemnej egzaminu zawodowego.
+
+2. Zwolnienie, o którym mowa w ust. 1, następuje na podstawie zaświadczenia stwierdzającego uzyskanie tytułu odpowiednio laureata lub finalisty. Zaświadczenie przedkłada się przewodniczącemu zespołu egzaminacyjnego, o którym mowa w art. 44zzzi ust. 3.
+
+3. Zwolnienie, o którym mowa w ust. 1, jest równoznaczne z uzyskaniem z części pisemnej egzaminu zawodowego najwyższego wyniku. Art. 44zzzf. 1. Uczeń, słuchacz albo absolwent posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność może przystąpić do egzaminu zawodowego w warunkach i formie dostosowanych do rodzaju niepełnosprawności, na podstawie tego orzeczenia.
+
+2. Uczeń, słuchacz albo absolwent posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym może przystąpić do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, wynikających odpowiednio z niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym, na podstawie tego orzeczenia.
+
+3. Uczeń albo słuchacz posiadający orzeczenie o potrzebie indywidualnego nauczania lub absolwent, który w roku szkolnym, w którym przystępuje do egzaminu zawodowego, posiadał orzeczenie o potrzebie indywidualnego nauczania, może przystąpić do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, wynikających z jego stanu zdrowia, na podstawie tego orzeczenia.
+
+4. Zdający chory lub niesprawny czasowo może przystąpić do egzaminu zawodowego w warunkach odpowiednich ze względu na jego stan zdrowia, na podstawie zaświadczenia o stanie zdrowia wydanego przez lekarza.
+
+5. Uczeń, słuchacz albo absolwent posiadający opinię poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, o specyficznych trudnościach w uczeniu się, wydaną zgodnie z przepisami wydanymi na podstawie art. 44zb, może przystąpić do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z rodzaju tych trudności, na podstawie tej opinii.
+
+6. Uczeń, słuchacz albo absolwent, który w roku szkolnym, w którym przystępuje do egzaminu zawodowego, był objęty pomocą psychologiczno-pedagogiczną w szkole ze względu na trudności adaptacyjne związane z wcześniejszym kształceniem za granicą, zaburzenia komunikacji językowej lub sytuację kryzysową lub traumatyczną, może przystąpić do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających odpowiednio z rodzaju tych trudności, zaburzeń lub sytuacji kryzysowej lub traumatycznej, na podstawie pozytywnej opinii rady pedagogicznej.
+
+7. Dostosowanie formy egzaminu zawodowego, o którym mowa w ust. 1, polega na przygotowaniu odrębnych arkuszy egzaminacyjnych dla ucznia, słuchacza lub absolwenta niewidomego albo słabowidzącego.
+
+8. Dostosowanie warunków przeprowadzania egzaminu zawodowego, o których mowa w ust. 1–6, polega odpowiednio na:
+
+- **1)** zminimalizowaniu ograniczeń wynikających z niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym ucznia, słuchacza albo absolwenta;
+- **2)** zapewnieniu uczniowi, słuchaczowi albo absolwentowi miejsca pracy odpowiedniego do jego potrzeb edukacyjnych oraz możliwości psychofizycznych;
+- **3)** wykorzystaniu odpowiedniego sprzętu specjalistycznego, aplikacji mobilnej służącej do monitorowania stanu zdrowia zdającego i środków dydaktycznych;
+- **4)** odpowiednim przedłużeniu czasu przewidzianego na przeprowadzenie egzaminu zawodowego;
+- **5)** zapewnieniu obecności i pomocy w czasie egzaminu zawodowego specjalisty odpowiednio z zakresu danego rodzaju niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym, jeżeli jest to niezbędne do uzyskania właściwego kontaktu z uczniem lub absolwentem lub pomocy w obsłudze sprzętu specjalistycznego, aplikacji mobilnej służącej do monitorowania stanu zdrowia ucznia lub absolwenta i środków dydaktycznych.
+
+9. Dla ucznia, słuchacza albo absolwenta, o którym mowa w ust. 2–6, nie przygotowuje się odrębnych arkuszy egzaminacyjnych.
+
+10. Rada pedagogiczna, spośród możliwych sposobów dostosowania warunków i form przeprowadzania egzaminu zawodowego, wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, wskazuje sposób lub sposoby dostosowania warunków lub formy przeprowadzania egzaminu zawodowego dla ucznia, słuchacza albo absolwenta, o którym mowa w ust. 1–6.
+
+11. Dyrektor szkoły lub upoważniony przez niego nauczyciel informuje na piśmie ucznia, słuchacza, a w przypadku niepełnoletniego ucznia lub słuchacza – jego rodziców, albo absolwenta o wskazanych sposobach dostosowania warunków i form przeprowadzania egzaminu zawodowego do jego potrzeb edukacyjnych i możliwości psychofizycznych.
+
+12. Uczeń, słuchacz, a w przypadku niepełnoletniego ucznia lub słuchacza – jego rodzice, albo absolwent składają oświadczenie o korzystaniu albo niekorzystaniu ze wskazanych sposobów dostosowania, o których mowa w ust. 11, w terminie 3 dni roboczych od dnia otrzymania informacji, o której mowa w ust. 11.
+
+13. W przypadku absolwenta, o którym mowa w ust. 4 i 5, który ukończył szkołę we wcześniejszych latach, sposób lub sposoby dostosowania warunków przeprowadzania egzaminu zawodowego do potrzeb i możliwości absolwenta, spośród możliwych sposobów dostosowania warunków przeprowadzania egzaminu zawodowego, wymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, wskazuje przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzzi ust. 3. Przepisy ust. 11 i 12 stosuje się odpowiednio.
+
+14. Przystąpienie do egzaminu zawodowego w warunkach i formie dostosowanych do potrzeb i możliwości ucznia, słuchacza albo absolwenta, o którym mowa w ust. 1–6, zapewnia przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzzi ust. 3.
+
+15. W szczególnych przypadkach losowych lub zdrowotnych dyrektor szkoły, na wniosek rady pedagogicznej, może wystąpić do dyrektora okręgowej komisji egzaminacyjnej z wnioskiem o wyrażenie zgody na przystąpienie ucznia, słuchacza albo absolwenta do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, nieujętych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie. Art. 44zzzfa. Uczeń, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, który kształci się w zawodzie, dla którego w przepisach wydanych na podstawie art. 46 ust. 1 ustawy – Prawo oświatowe, przewidziano zawód o charakterze pomocniczym, może przystąpić do egzaminu zawodowego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego dla:
+
+- **1)** zawodu, w którym się kształci albo
+- **2)** zawodu o charakterze pomocniczym przewidzianego dla zawodu, w którym się kształci. Art. 44zzzg. Zdający, który zamierza przystąpić do egzaminu zawodowego, składa pisemną deklarację przystąpienia do tego egzaminu. Art. 44zzzga. 1. Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, który z przyczyn losowych lub zdrowotnych, w terminie głównym:
+- **1)** nie przystąpił do części pisemnej lub części praktycznej egzaminu zawodowego albo
+- **2)** przerwał egzamin zawodowy z części pisemnej lub części praktycznej – przystępuje do części pisemnej lub części praktycznej tego egzaminu w terminie dodatkowym na udokumentowany wniosek ucznia lub słuchacza, a w przypadku niepełnoletniego ucznia lub słuchacza – jego rodziców.
+
+2. Wniosek, o którym mowa w ust. 1, składa się do dyrektora szkoły, do której uczeń lub słuchacz uczęszcza, nie później niż w dniu, w którym odbywa się część pisemna lub część praktyczna egzaminu zawodowego. Dyrektor szkoły przekazuje wniosek wraz z załączonymi do niego dokumentami dyrektorowi okręgowej komisji egzaminacyjnej nie później niż następnego dnia po otrzymaniu wniosku.
+
+3. Dyrektor okręgowej komisji egzaminacyjnej rozpatruje wniosek, o którym mowa w ust. 1, w terminie 2 dni od dnia jego otrzymania. Rozstrzygnięcie dyrektora okręgowej komisji egzaminacyjnej jest ostateczne.
+
+4. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających przystąpienie do części pisemnej lub części praktycznej egzaminu zawodowego w terminie dodatkowym, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić ucznia lub słuchacza z obowiązku przystąpienia do egzaminu zawodowego lub jego części. Dyrektor szkoły składa wniosek w porozumieniu z uczniem lub słuchaczem, a w przypadku niepełnoletniego ucznia lub słuchacza – z jego rodzicami. Art. 44zzzgb. W szczególnych przypadkach zdrowotnych, uniemożliwiających uczniowi lub słuchaczowi, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, przystąpienie do egzaminu zawodowego, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić tego ucznia lub słuchacza z obowiązku przystąpienia do egzaminu zawodowego lub jego części. Dyrektor szkoły składa wniosek w porozumieniu z uczniem lub ze słuchaczem, a w przypadku niepełnoletniego ucznia lub słuchacza – z jego rodzicami. Art. 44zzzh. 1. Zdający, o których mowa w art. 44zzzb ust. 3 pkt 4–6: niewidomi, słabowidzący, niesłyszący, słabosłyszący, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną w stopniu lekkim lub z autyzmem, w tym z zespołem Aspergera, przystępują do egzaminu zawodowego w warunkach i formie dostosowanych do rodzaju ich niepełnosprawności, na podstawie zaświadczenia potwierdzającego występowanie danej dysfunkcji, wydanego przez lekarza. Przepisy art. 44zzzf ust. 7, 8 i 14 stosuje się odpowiednio.
+
+2. Na podstawie zaświadczenia, o którym mowa w ust. 1, oraz komunikatu, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie, dyrektor okręgowej komisji egzaminacyjnej lub upoważniona przez niego osoba wskazuje sposób lub sposoby dostosowania warunków i formy przeprowadzania egzaminu zawodowego dla zdających, o których mowa w ust. 1. Art. 44zzzi. 1. Za organizację i przebieg egzaminu zawodowego w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, odpowiada dyrektor tej szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, ten pracodawca lub upoważniony przez niego pracownik lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, lub upoważniony przez niego pracownik.
+
+2. Do przeprowadzenia egzaminu zawodowego dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, powołuje zespół egzaminacyjny.
+
+3. Dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub upoważniony przez niego pracownik lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, lub upoważniony przez niego pracownik jest przewodniczącym zespołu egzaminacyjnego. W przypadku choroby przewodniczącego zespołu egzaminacyjnego lub innych ważnych przyczyn uniemożliwiających jego udział w egzaminie zawodowym albo wynikających z konieczności zapewnienia właściwej organizacji tego egzaminu, przewodniczącym zespołu egzaminacyjnego może być osoba wskazana przez dyrektora okręgowej komisji egzaminacyjnej.
+
+4. Przewodniczący zespołu egzaminacyjnego, spośród członków zespołu egzaminacyjnego, powołuje zespoły nadzorujące przebieg części pisemnej egzaminu zawodowego w poszczególnych salach egzaminacyjnych oraz zespoły nadzorujące przebieg części praktycznej tego egzaminu w poszczególnych salach egzaminacyjnych i wyznacza przewodniczących tych zespołów.
+
+5. Przewodniczący zespołu egzaminacyjnego organizuje i nadzoruje przebieg w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, egzaminu zawodowego, w tym:
+
+- **1)** informuje zdających, którzy zamierzają przystąpić do egzaminu zawodowego, o tym egzaminie;
+- **2)** zapewnia przekazanie do okręgowej komisji egzaminacyjnej informacji niezbędnych do przeprowadzenia egzaminu zawodowego;
+- **3)** zapewnia warunki do samodzielnej pracy zdających podczas egzaminu zawodowego;
+- **4)** zabezpiecza przed nieuprawnionym ujawnieniem materiały egzaminacyjne niezbędne do przeprowadzenia egzaminu zawodowego od momentu odbioru materiałów egzaminacyjnych do momentu ich przekazania dyrektorowi okręgowej komisji egzaminacyjnej.
+
+6. Przebieg egzaminu zawodowego jest dokumentowany w protokole tego egzaminu. Art. 44zzzia. 1. W przeprowadzaniu części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, może brać udział asystent techniczny.
+
+2. Asystentem technicznym może być nauczyciel lub osoba niebędąca nauczycielem, wskazana przez odpowiednio dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcę lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe. Art. 44zzzib. 1. W przeprowadzaniu części pisemnej oraz części praktycznej egzaminu zawodowego, w której do wykonania zadania lub zadań egzaminacyjnych jest niezbędne wykorzystanie komputera, może brać udział operator pracowni informatycznej.
+
+2. Operatorem pracowni informatycznej może być nauczyciel lub osoba pełnoletnia niebędąca nauczycielem i niebędąca uczniem szkoły, w której jest przeprowadzany egzamin zawodowy, albo słuchaczem kwalifikacyjnego kursu zawodowego prowadzonego w podmiocie, w którym jest przeprowadzany egzamin zawodowy, posiadający kwalifikacje lub umiejętności właściwe dla wykonania zadań, o których mowa w ust. 3, wskazani przez odpowiednio dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcę lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe.
+
+3. Do zadań operatora pracowni informatycznej należy:
+
+- **1)** przygotowanie wyposażenia stanowisk egzaminacyjnych, w tym w materiały i przybory pomocnicze, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie;
+- **2)** zapewnienie prawidłowego funkcjonowania stanowisk egzaminacyjnych, w tym usuwanie awarii występujących na stanowiskach egzaminacyjnych w czasie trwania części pisemnej lub części praktycznej egzaminu zawodowego;
+- **3)** zapewnienie warunków do samodzielnej pracy zdających, z uwzględnieniem bezpiecznych i higienicznych warunków w miejscu przeprowadzania części pisemnej lub części praktycznej egzaminu zawodowego;
+- **4)** przeprowadzenie, na polecenie przewodniczącego zespołu nadzorującego, instruktażu stanowiskowego dla zdających;
+- **5)** zabezpieczenie, w sposób trwały, efektów pracy zdających w sposób wskazany w informacji, o której mowa w art. 9a ust. 2 pkt 10 lit. b, do dnia przekazania szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, i pracodawcom certyfikatów kwalifikacji zawodowych albo przekazania szkołom dyplomów zawodowych, określonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze podwójne tiret trzecie. Art. 44zzzj. 1. W czasie trwania egzaminu zawodowego każdy zdający pracuje w warunkach zapewniających samodzielność pracy.
+
+2. Do sali egzaminacyjnej, w której jest przeprowadzany egzamin zawodowy, nie można wnosić materiałów i przyborów pomocniczych niewymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie, oraz żadnych urządzeń telekomunikacyjnych, ani korzystać z nich w tej sali.
+
+2a. Przepis ust. 2 nie dotyczy urządzenia telekomunikacyjnego wyposażonego w aplikację mobilną służącą do monitorowania stanu zdrowia zdającego, które można wnieść i z którego można korzystać na warunkach określonych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret trzecie.
+
+3. Zdający samodzielnie wykonuje zadania egzaminacyjne w czasie trwania części pisemnej i części praktycznej egzaminu zawodowego. Art. 44zzzk. 1. Egzamin zawodowy przeprowadza się w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy albo w miejscu wskazanym przez pracodawcę, w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, albo w miejscu wskazanym przez ten podmiot.
+
+2. Dla osób, o których mowa w art. 44zzzb ust. 3 pkt 4, egzamin zawodowy organizuje podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe.
+
+3. Przepisu ust. 2 nie stosuje się do słuchaczy branżowej szkoły II stopnia. Art. 44zzzl. 1. Część praktyczną egzaminu zawodowego oraz część pisemną tego egzaminu przeprowadza się w szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u pracodawcy lub w podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, posiadających upoważnienie wydane przez dyrektora okręgowej komisji egzaminacyjnej.
+
+2. Upoważnienie, o którym mowa w ust. 1, potwierdza, że szkoła, placówka lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, posiada warunki zapewniające prawidłowy przebieg egzaminu zawodowego:
+
+- **1)** w przypadku części praktycznej:
+    - **a)** zapewnia warunki do realizacji kształcenia w danym zawodzie, określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego,
+    - **b)** zapewnia warunki do samodzielnego wykonywania przez zdających zadań egzaminacyjnych zawartych w arkuszu egzaminacyjnym, z uwzględnieniem bezpieczeństwa i higieny pracy, oraz warunki socjalne,
+    - **c)** zapewnia zdającym przystąpienie do egzaminu zawodowego w warunkach dostosowanych do ich potrzeb i możliwości,
+    - **d)** zapewnia zdającym pierwszą pomoc medyczną,
+    - **e)** posiada odpowiednie wyposażenie indywidualnych stanowisk egzaminacyjnych wspomaganych elektronicznie – w przypadku gdy część praktyczna egzaminu zawodowego jest przeprowadzana z wykorzystaniem SIOEZ;
+
+- **2)** w przypadku części pisemnej:
+    - **a)** posiada odpowiednie wyposażenie indywidualnych stanowisk egzaminacyjnych wspomaganych elektronicznie,
+    - **b)** zapewnia warunki do samodzielnego wykonywania zadań egzaminacyjnych przez zdających.
+
+3. Upoważnienia, o którym mowa w ust. 1, udziela się na okres nie dłuższy niż 3 lata.
+
+4. Upoważnienia, o którym mowa w ust. 1, udziela się na wniosek szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe.
+
+5. Upoważnienie może zostać przedłużone na kolejne okresy nie dłuższe niż 3 lata. Przepisy ust. 2–4 stosuje się odpowiednio. Art. 44zzzm. 1. Część pisemna egzaminu zawodowego trwa nie krócej niż 45 minut i nie dłużej niż 90 minut.
+
+2. Część praktyczna egzaminu zawodowego trwa nie krócej niż 120 minut i nie dłużej niż 240 minut.
+
+3. Czas trwania części pisemnej i części praktycznej egzaminu zawodowego określa się w informatorze, o którym mowa w art. 9a ust. 2 pkt 3. Art. 44zzzn. 1. Prace egzaminacyjne zdających w części pisemnej egzaminu zawodowego są sprawdzane z wykorzystaniem narzędzi elektronicznych. Prace egzaminacyjne zdających w części praktycznej egzaminu zawodowego mogą być sprawdzane z wykorzystaniem narzędzi elektronicznych.
+
+2. Część praktyczną egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, obserwują i oceniają obecni w sali egzaminacyjnej egzaminatorzy wpisani do ewidencji egzaminatorów w zakresie przeprowadzania egzaminu zawodowego, o której mowa w art. 9c ust. 2 pkt 7, wyznaczeni przez dyrektora okręgowej komisji egzaminacyjnej.
+
+2a. Egzaminatorzy, o których mowa w ust. 2, wchodzą w skład zespołów egzaminacyjnych, o których mowa w art. 44zzzi ust. 2.
+
+3. Część praktyczną egzaminu zawodowego, której rezultatem końcowym jest dokumentacja, sprawdzają i oceniają egzaminatorzy wpisani do ewidencji egzaminatorów w zakresie przeprowadzania egzaminu zawodowego, o której mowa w art. 9c ust. 2 pkt 7, wyznaczeni przez dyrektora okręgowej komisji egzaminacyjnej.
+
+4. Egzaminatorzy stosują zasady oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2.
+
+5. Egzaminatorzy, o których mowa w ust. 3, z zakresu danej kwalifikacji tworzą zespół egzaminatorów.
+
+6. Dyrektor okręgowej komisji egzaminacyjnej, spośród członków zespołu egzaminatorów, o którym mowa w ust. 5, wyznacza przewodniczącego tego zespołu i egzaminatorów-weryfikatorów.
+
+7. Funkcję egzaminatora-weryfikatora może pełnić egzaminator, który w ostatnich 3 latach co najmniej jednokrotnie był egzaminatorem egzaminu zawodowego.
+
+8. Do zadań egzaminatora-weryfikatora należy sprawdzenie i ocenienie dokumentacji będącej rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych wskazanej przez przewodniczącego zespołu egzaminatorów poprzednio sprawdzonej i ocenionej przez egzaminatorów wchodzących w skład danego zespołu egzaminatorów, w celu zweryfikowania poprawności sprawdzenia i ocenienia tej dokumentacji przez tych egzaminatorów.
+
+9. W przypadku różnicy między liczbą punktów przyznaną przez egzaminatora a liczbą punktów przyznaną przez egzaminatora-weryfikatora o liczbie przyznanych punktów rozstrzyga przewodniczący zespołu egzaminatorów. Art. 44zzzo. 1. Wynik z części pisemnej oraz wynik z części praktycznej egzaminu zawodowego ustala dyrektor okręgowej komisji egzaminacyjnej na podstawie liczby punktów uzyskanych przez zdającego:
+
+- **1)** w części pisemnej – po odczytaniu odpowiedzi zapisanych i zarchiwizowanych w SIOEZ;
+- **2)** w części praktycznej – po elektronicznym odczytaniu karty oceny.
+
+2. Zdający zdał egzamin zawodowy, jeżeli uzyskał:
+
+- **1)** z części pisemnej – co najmniej 50 % punktów możliwych do uzyskania oraz
+- **2)** z części praktycznej – co najmniej 75 % punktów możliwych do uzyskania.
+
+3. Dla zdającego, który zdał egzamin zawodowy, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu zawodowego według wzoru: W = 0,3×Wp+0,7×Wpr w którym poszczególne symbole oznaczają: W – wynik z egzaminu zawodowego, Wp – wynik z części pisemnej egzaminu zawodowego, Wpr – wynik z części praktycznej egzaminu zawodowego.
+
+4. Zdający, który zdał egzamin zawodowy, otrzymuje certyfikat kwalifikacji zawodowej wydany przez okręgową komisję egzaminacyjną.
+
+5. Zdający, który nie zdał egzaminu zawodowego, otrzymuje informację o wynikach z poszczególnych części tego egzaminu opracowaną przez okręgową komisję egzaminacyjną.
+
+6. Dla zdających, którzy zdali egzaminy zawodowe ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, dyrektor okręgowej komisji egzaminacyjnej ustala końcowy wynik egzaminów zawodowych według wzoru: ∑Kn Wk = n w którym poszczególne symbole oznaczają: Wk – wynik końcowy z egzaminów zawodowych, Kn – wynik z egzaminu zawodowego z kwalifikacji wyodrębnionej w zawodzie, n – liczba kwalifikacji wyodrębnionych w danym zawodzie.
+
+7. W przypadku gdy uczeń lub słuchacz, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, został zwolniony z obowiązku przystąpienia do części pisemnej lub części praktycznej egzaminu zawodowego w przypadku, o którym mowa w art. 44zzzga ust. 4 lub art. 44zzzgb, dyrektor szkoły przekazuje uczniowi lub słuchaczowi, a w przypadku niepełnoletniego ucznia lub słuchacza – jego rodzicom, informację o szczegółowych wynikach egzaminu zawodowego opracowaną przez okręgową komisję egzaminacyjną. Art. 44zzzp. 1. W przypadku:
+
+- **1)** stwierdzenia niesamodzielnego wykonywania zadań egzaminacyjnych przez zdającego lub
+- **2)** wniesienia lub korzystania przez zdającego w sali egzaminacyjnej z materiałów lub przyborów pomocniczych niewymienionych w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret drugie, albo z urządzenia telekomunikacyjnego, z zastrzeżeniem art. 44zzzj ust. 2a, lub
+- **3)** zakłócania przez zdającego prawidłowego przebiegu części pisemnej lub części praktycznej egzaminu zawodowego w sposób utrudniający pracę pozostałym zdającym – przewodniczący zespołu egzaminacyjnego przerywa i unieważnia temu zdającemu odpowiednią część egzaminu zawodowego. Informację o przerwaniu i unieważnieniu zamieszcza się w protokole przebiegu egzaminu zawodowego.
+
+2. W przypadku unieważnienia części pisemnej lub części praktycznej egzaminu zawodowego danego zdającego, dyrektor okręgowej komisji egzaminacyjnej ustala wynik uzyskany z części pisemnej lub części praktycznej tego egzaminu jako „0 %”. Art. 44zzzq. 1. W przypadku stwierdzenia podczas sprawdzania i oceniania zadania lub zadań egzaminacyjnych przez egzaminatora, jeżeli rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest dokumentacja:
+
+- **1)** niesamodzielnego wykonania zadania lub zadań przez zdającego w części praktycznej egzaminu zawodowego,
+- **2)** występowania w pracy zdającego jednakowych sformułowań wskazujących na udostępnienie rozwiązań innemu zdającemu lub korzystanie z rozwiązań innego zdającego – dyrektor okręgowej komisji egzaminacyjnej przekazuje zdającemu lub rodzicom niepełnoletniego zdającego pisemną informację o zamiarze unieważnienia temu zdającemu części praktycznej egzaminu zawodowego.
+
+2. W przypadku zdających, o których mowa w art. 44zzzb ust. 3 pkt 1–4, informację, o której mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej przekazuje za pośrednictwem dyrektora szkoły, dyrektora placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe. Dyrektor szkoły, dyrektor placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca albo podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, niezwłocznie przekazuje tę informację zdającemu lub rodzicom niepełnoletniego zdającego.
+
+3. Zdający lub rodzice niepełnoletniego zdającego mają prawo złożyć wniosek o wgląd do dokumentacji, na podstawie której dyrektor okręgowej komisji egzaminacyjnej zamierza unieważnić część praktyczną egzaminu zawodowego. Wniosek składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia otrzymania pisemnej informacji, o której mowa w ust. 1.
+
+4. W terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 3, dyrektor okręgowej komisji egzaminacyjnej umożliwia zdającemu lub rodzicom niepełnoletniego zdającego, zapoznanie się z dokumentacją oraz złożenie wyjaśnień w tej sprawie, we wskazanym miejscu i czasie.
+
+5. Dyrektor okręgowej komisji egzaminacyjnej rozstrzyga o unieważnieniu części praktycznej egzaminu zawodowego, w terminie 14 dni od dnia:
+
+- **1)** otrzymania wniosku, o którym mowa w ust. 3, albo
+- **2)** upływu terminu do złożenia wniosku, o którym mowa w ust. 3.
+
+6. Dyrektor okręgowej komisji egzaminacyjnej przekazuje zdającemu lub rodzicom niepełnoletniego zdającego pisemną informację o unieważnieniu części praktycznej egzaminu zawodowego. Przepis ust. 2 stosuje się odpowiednio.
+
+7. Zdający lub rodzice niepełnoletniego zdającego, w terminie 3 dni roboczych od dnia otrzymania informacji o unieważnieniu, o której mowa w ust. 6, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
+
+8. Zastrzeżenia, o których mowa w ust. 7, wraz z dokumentacją niezbędną do ich rozpatrzenia, dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez zdającego lub rodziców niepełnoletniego zdającego.
+
+9. Dyrektor Centralnej Komisji Egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 7, w terminie 7 dni od dnia otrzymania zastrzeżeń wraz z dokumentacją niezbędną do ich rozpatrzenia. Rozstrzygnięcie dyrektora Centralnej Komisji Egzaminacyjnej jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
+
+10. W przypadku braku możliwości przekazania zdającemu, o którym mowa w art. 44zzzb ust. 3 pkt 1–4, lub rodzicom niepełnoletniego zdającego informacji, o której mowa w ust. 1, dyrektor szkoły, dyrektor placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca albo podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, niezwłocznie informuje o tym dyrektora okręgowej komisji egzaminacyjnej, który, w terminie 7 dni od dnia otrzymania tej informacji, rozstrzyga o unieważnieniu części praktycznej egzaminu zawodowego. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, dyrektora placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, pisemną informację o unieważnieniu wraz z uzasadnieniem, zdającemu lub rodzicom niepełnoletniego zdającego. Przepisy ust. 3 i 4 stosuje się odpowiednio.
+
+11. W przypadku braku potwierdzenia otrzymania przez zdającego, o którym mowa w art. 44zzzb ust. 3 pkt 5 i 6, informacji, o której mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej rozstrzyga o unieważnieniu części praktycznej egzaminu zawodowego. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje pisemną informację o unieważnieniu temu zdającemu. Przepisy ust. 3 i 4 stosuje się odpowiednio.
+
+12. W przypadku, o którym mowa w ust. 10, zdający lub rodzice niepełnoletniego zdającego, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej, w terminie 3 dni roboczych od dnia:
+
+- **1)** otrzymania informacji o unieważnieniu, o której mowa w ust. 10, albo
+- **2)** zapoznania się z dokumentacją oraz złożenia wyjaśnień, o których mowa w ust. 3 i 4.
+
+13. Do zastrzeżeń, o których mowa w ust. 12, przepisy ust. 8 i 9 stosuje się odpowiednio.
+
+14. Dyrektor okręgowej komisji egzaminacyjnej po dokonaniu rozstrzygnięcia w sprawie unieważnienia wydaje:
+
+- **1)** certyfikat kwalifikacji zawodowej, o którym mowa w art. 44zzzo ust. 4, jeżeli w wyniku tego rozstrzygnięcia nie została unieważniona część praktyczna egzaminu zawodowego tego zdającego i zdający spełnił warunki, o których mowa w art. 44zzzo ust. 2, lub
+- **2)** informację, o której mowa w art. 44zzzo ust. 5, jeżeli zdający w wyniku tego rozstrzygnięcia nie spełnił warunków, o których mowa w art. 44zzzo ust. 2.
+
+15. W przypadku unieważnienia części praktycznej egzaminu zawodowego danego zdającego, dyrektor okręgowej komisji egzaminacyjnej ustala wynik uzyskany z części praktycznej tego egzaminu jako „0 %”. Art. 44zzzr. 1. Zdający lub rodzice niepełnoletniego zdającego, w terminie 2 dni roboczych od dnia przeprowadzenia:
+
+- **1)** części pisemnej egzaminu zawodowego,
+- **2)** części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest dokumentacja – mogą zgłosić zastrzeżenia wraz z uzasadnieniem do dyrektora okręgowej komisji egzaminacyjnej, jeżeli uznają, że w trakcie egzaminu zostały naruszone przepisy dotyczące jego przeprowadzania.
+
+2. Dyrektor okręgowej komisji egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 1, w terminie 7 dni od dnia ich otrzymania i informuje pisemnie zdającego lub rodziców niepełnoletniego zdającego, o wyniku rozstrzygnięcia.
+
+3. Zdający lub rodzice niepełnoletniego zdającego, w terminie 3 dni roboczych od dnia otrzymania informacji o wyniku rozstrzygnięcia, o której mowa w ust. 2, mogą wnieść do dyrektora Centralnej Komisji Egzaminacyjnej, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, zastrzeżenia do rozstrzygnięcia dyrektora okręgowej komisji egzaminacyjnej.
+
+4. Zastrzeżenia, o których mowa w ust. 3, wraz z dokumentacją niezbędną do ich rozpatrzenia dyrektor okręgowej komisji egzaminacyjnej przekazuje, nie później niż następnego dnia roboczego od dnia otrzymania zastrzeżeń, dyrektorowi Centralnej Komisji Egzaminacyjnej, chyba że dyrektor okręgowej komisji egzaminacyjnej uwzględni zastrzeżenia złożone przez zdającego lub rodziców niepełnoletniego zdającego.
+
+5. Dyrektor Centralnej Komisji Egzaminacyjnej rozpatruje zastrzeżenia, o których mowa w ust. 3, w terminie 7 dni od dnia ich wniesienia. Rozstrzygnięcie dyrektora Centralnej Komisji Egzaminacyjnej jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
+
+6. W przypadku stwierdzenia naruszenia przepisów dotyczących przeprowadzania egzaminu zawodowego, na skutek zastrzeżeń, o których mowa w ust. 1, lub z urzędu, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, może unieważnić daną część egzaminu zawodowego i zarządzić jej ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik tego egzaminu.
+
+7. W przypadku, o którym mowa w ust. 5, dyrektor Centralnej Komisji Egzaminacyjnej może unieważnić daną część egzaminu zawodowego i zarządzić jej ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik egzaminu. O rozstrzygnięciu dyrektor Centralnej Komisji Egzaminacyjnej informuje dyrektora okręgowej komisji egzaminacyjnej.
+
+8. W przypadkach, o których mowa w ust. 6 i 7, unieważnienie może nastąpić w stosunku do wszystkich zdających, zdających w poszczególnych szkołach, placówkach lub centrach, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u pracodawców lub w podmiotach prowadzących kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, a także w stosunku do poszczególnych zdających.
+
+9. W przypadku niemożności ustalenia wyników danej części egzaminu zawodowego, z powodu zaginięcia lub zniszczenia kart oceny, prac egzaminacyjnych lub awarii SIOEZ, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, unieważnia daną część egzaminu zawodowego danego zdającego i zarządza jego ponowne przeprowadzenie.
+
+10. Termin ponownego przeprowadzenia egzaminu zawodowego ustala dyrektor Centralnej Komisji Egzaminacyjnej. Art. 44zzzs. 1. W przypadku części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, zdający lub rodzice niepełnoletniego zdającego, mogą zgłosić do dyrektora okręgowej komisji egzaminacyjnej zastrzeżenia wraz z uzasadnieniem, jeżeli uznają, że w trakcie części praktycznej egzaminu zawodowego zostały naruszone przepisy dotyczące jej przeprowadzania. Zastrzeżenia wraz z uzasadnieniem zgłasza się w terminie 2 dni roboczych od dnia przeprowadzenia części praktycznej egzaminu zawodowego.
+
+2. W przypadku, o którym mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej zwraca się do przewodniczącego zespołu egzaminacyjnego o przedstawienie wyjaśnień dotyczących wniesionych zastrzeżeń.
+
+3. Przepisy art. 44zzzr ust. 2–8 i 10 stosuje się odpowiednio. Art. 44zzzt. 1. Zdający lub rodzice niepełnoletniego zdającego mają prawo wglądu do:
+
+- **1)** zadań i udzielonych odpowiedzi – w przypadku części pisemnej egzaminu zawodowego,
+- **2)** karty oceny – w przypadku części praktycznej egzaminu zawodowego – w miejscu i czasie wskazanym przez dyrektora okręgowej komisji egzaminacyjnej, w terminie 3 miesięcy od dnia wydania przez okręgową komisję egzaminacyjną certyfikatu kwalifikacji zawodowej lub informacji o wynikach egzaminu zawodowego, o których mowa w art. 44zzzo ust. 5. Jeżeli rezultatem końcowym wykonania zadania egzaminacyjnego w części praktycznej egzaminu zawodowego jest dokumentacja, zdający lub rodzice niepełnoletniego zdającego, mają prawo wglądu także do tej dokumentacji.
+
+2. Podczas dokonywania wglądu, o którym mowa w ust. 1, zdającemu lub rodzicom niepełnoletniego zdającego, zapewnia się możliwość zapoznania się z zasadami oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2.
+
+2a. Podczas dokonywania wglądu, o którym mowa w ust. 1, zdający lub rodzice niepełnoletniego zdającego, mogą sporządzać notatki i wykonywać fotografie zadań egzaminacyjnych wraz z udzieloną odpowiedzią, karty oceny lub dokumentacji, o których mowa w ust. 1.
+
+3. Zdający lub rodzice niepełnoletniego zdającego, mogą zwrócić się z wnioskiem o weryfikację sumy punktów, o których mowa w art. 44zzzo ust. 1. Wniosek wraz z uzasadnieniem składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia dokonania wglądu.
+
+4. Weryfikacji sumy punktów dokonuje się w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 3. W przypadku części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania egzaminacyjnego jest dokumentacja, dyrektor okręgowej komisji egzaminacyjnej do weryfikacji sumy punktów wyznacza egzaminatora wpisanego do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7, innego niż egzaminator, który sprawdzał i oceniał tę część egzaminu zdającego.
+
+5. Dyrektor okręgowej komisji egzaminacyjnej informuje pisemnie zdającego lub rodziców niepełnoletniego zdającego, o wyniku weryfikacji sumy punktów, w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 3.
+
+6. Jeżeli w wyniku przeprowadzonej weryfikacji suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowy wynik egzaminu zawodowego oraz:
+
+- **1)** anuluje dotychczasowy certyfikat kwalifikacji zawodowej oraz wydaje nowy certyfikat kwalifikacji zawodowej albo
+- **2)** anuluje informację, o której mowa w art. 44zzzo ust. 5, oraz wydaje certyfikat kwalifikacji zawodowej, jeżeli zdający spełnił warunki określone w art. 44zzzo ust. 2, albo
+- **3)** anuluje dotychczasową informację, o której mowa w art. 44zzzo ust. 5, oraz wydaje nową informację, jeżeli zdający nie spełnił warunków określonych w art. 44zzzo ust. 2.
+
+7. Zdający lub rodzice niepełnoletniego zdającego, mogą wnieść odwołanie od wyniku weryfikacji sumy punktów z części pisemnej egzaminu zawodowego, o którym mowa w ust. 5, do Kolegium Arbitrażu Egzaminacyjnego, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, w terminie 7 dni od dnia otrzymania informacji, o której mowa w ust. 5.
+
+8. Zdający lub rodzice niepełnoletniego zdającego w odwołaniu wskazują zadanie lub zadania egzaminacyjne, co do których nie zgadzają się z przyznaną liczbą punktów, wraz z uzasadnieniem, w którym wykazują, że rozwiązanie tego zadania lub zadań egzaminacyjnych przez zdającego:
+
+- **1)** jest merytorycznie poprawne oraz
+- **2)** spełnia warunki określone w poleceniu do danego zadania egzaminacyjnego.
+
+9. Dyrektor okręgowej komisji egzaminacyjnej może w wyniku wniesionego odwołania dokonać ponownej weryfikacji sumy punktów.
+
+10. Jeżeli dyrektor okręgowej komisji egzaminacyjnej uzna, że odwołanie zasługuje na uwzględnienie w całości, ustala nowy wynik części pisemnej egzaminu zawodowego w terminie 7 dni od dnia otrzymania odwołania. Przepis ust. 6 stosuje się odpowiednio.
+
+11. Jeżeli dyrektor okręgowej komisji egzaminacyjnej uzna, że odwołanie zasługuje na uwzględnienie w części, przekazuje do dyrektora Centralnej Komisji Egzaminacyjnej odwołanie wraz z uzasadnieniem w terminie 7 dni od dnia otrzymania odwołania. Do odwołania dołącza się:
+
+- **1)** pisemną informację, w jakim zakresie odwołanie zostało uwzględnione;
+- **2)** wydruk zadań, które rozwiązywał zdający, wraz z udzielonymi odpowiedziami;
+- **3)** kopię informacji, o której mowa w ust. 5.
+
+12. Jeżeli dyrektor okręgowej komisji egzaminacyjnej uzna, że odwołanie nie zasługuje na uwzględnienie, przekazuje do dyrektora Centralnej Komisji Egzaminacyjnej odwołanie wraz z uzasadnieniem w terminie 7 dni od dnia otrzymania odwołania. Do odwołania dołącza się:
+
+- **1)** wydruk zadań, które rozwiązywał zdający, wraz z udzielonymi odpowiedziami;
+- **2)** kopię informacji, o której mowa w ust. 5.
+
+13. O przekazaniu odwołania, o którym mowa w ust. 11 i 12, dyrektor okręgowej komisji egzaminacyjnej niezwłocznie informuje zdającego lub rodziców niepełnoletniego zdającego, którzy wnieśli odwołanie.
+
+14. Dyrektor Centralnej Komisji Egzaminacyjnej przekazuje Kolegium Arbitrażu Egzaminacyjnego odwołanie wraz z uzasadnieniem i dołączonymi dokumentami, o których mowa w ust. 11 i 12, w postaci zanonimizowanej, uniemożliwiającej identyfikację zdającego lub rodziców niepełnoletniego zdającego, którzy wnieśli odwołanie.
+
+15. W przypadku, o którym mowa w ust. 11, Kolegium Arbitrażu Egzaminacyjnego rozpatruje odwołanie wyłącznie w zakresie nieuwzględnionym przez dyrektora okręgowej komisji egzaminacyjnej.
+
+16. Kolegium Arbitrażu Egzaminacyjnego może zwrócić się do Centralnej Komisji Egzaminacyjnej z wnioskiem o opinię dotyczącą rozwiązania danego zadania lub zadań egzaminacyjnych. Opinia nie jest wiążąca dla Kolegium Arbitrażu Egzaminacyjnego.
+
+17. Odwołanie rozpatruje się w terminie 21 dni od dnia przekazania odwołania przez dyrektora okręgowej komisji egzaminacyjnej do dyrektora Centralnej Komisji Egzaminacyjnej. Termin może być jednokrotnie przedłużony, nie więcej jednak niż o 7 dni.
+
+18. Kolegium Arbitrażu Egzaminacyjnego, w terminie określonym przez dyrektora Centralnej Komisji Egzaminacyjnej, nie krótszym niż 10 dni, podejmuje rozstrzygnięcie w odniesieniu do zadania lub zadań egzaminacyjnych, przestrzegając zasad oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2, i sporządza pisemne uzasadnienie zawierające w szczególności ocenę zasadności argumentów podniesionych w odwołaniu. Rozstrzygnięcie Kolegium Arbitrażu Egzaminacyjnego jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
+
+19. Kolegium Arbitrażu Egzaminacyjnego przekazuje dyrektorowi Centralnej Komisji Egzaminacyjnej rozstrzygnięcie i uzasadnienie, o których mowa w ust. 18.
+
+20. Dyrektor Centralnej Komisji Egzaminacyjnej przekazuje niezwłocznie informację o rozstrzygnięciu i treść uzasadnienia, o których mowa w ust. 18, dyrektorowi okręgowej komisji egzaminacyjnej oraz zdającemu lub rodzicom niepełnoletniego zdającego, którzy wnieśli odwołanie.
+
+21. Jeżeli w wyniku:
+
+- **1)** rozstrzygnięcia, o którym mowa w ust. 18, lub
+- **2)** uwzględnienia w części odwołania, o którym mowa w ust. 11 – suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowy wynik części pisemnej egzaminu zawodowego. Przepis ust. 6 stosuje się odpowiednio. Art. 44zzzu. 1. Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 1:
+- **1)** który był zwolniony z przystąpienia do egzaminu zawodowego lub odpowiedniej części tego egzaminu na podstawie art. 44zzzga ust. 4 lub art. 44zzzgb albo
+- **2)** którego część pisemna lub część praktyczna egzaminu zawodowego została unieważniona, albo
+- **3)** który nie uzyskał wymaganej do zdania egzaminu zawodowego liczby punktów z danej części tego egzaminu – ma prawo przystąpić do egzaminu zawodowego lub odpowiedniej części tego egzaminu w kolejnych terminach głównych jego przeprowadzania w trakcie nauki.
+
+2. Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 3 i 4:
+
+- **1)** który nie przystąpił do egzaminu zawodowego lub odpowiedniej części tego egzaminu w wyznaczonym terminie albo
+- **2)** którego część pisemna lub część praktyczna egzaminu zawodowego została unieważniona, albo
+- **3)** który nie uzyskał wymaganej do zdania egzaminu zawodowego liczby punktów z danej części tego egzaminu – ma prawo przystąpić do egzaminu zawodowego lub odpowiedniej części tego egzaminu w kolejnych terminach głównych jego przeprowadzania, z tym że w przypadku gdy przystępuje do egzaminu zawodowego lub jego części po raz trzeci lub kolejny, zdaje ten egzamin lub jego część na zasadach określonych dla egzaminu eksternistycznego zawodowego, z tym że tego zdającego nie dotyczy wykaz zawodów, o którym mowa w art. 10 ust. 6.
+
+3. Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 5 i 6, który przystąpił do egzaminu zawodowego i nie uzyskał z jednej części tego egzaminu wymaganej do zdania liczby punktów, ma prawo przystąpić do tej części egzaminu zawodowego w kolejnych terminach jego przeprowadzania przez okres 5 lat, licząc od dnia, w którym przystąpił do tego egzaminu po raz pierwszy.
+
+4. Po upływie 5 lat, licząc od dnia zakończenia roku szkolnego, w którym zdający po raz pierwszy:
+
+- **1)** przystąpił do egzaminu zawodowego i nie uzyskał z jednej lub obu części tego egzaminu wymaganej do zdania liczby punktów albo
+- **2)** przystąpił do egzaminu zawodowego, którego część pisemna lub część praktyczna egzaminu zawodowego została unieważniona, albo
+- **3)** nie przystąpił do części pisemnej lub części praktycznej egzaminu zawodowego w wyznaczonym terminie – zdający ten przystępuje do egzaminu zawodowego w pełnym zakresie. Art. 44zzzua. (uchylony) Art. 44zzzv. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i sposób przeprowadzania egzaminu zawodowego, w tym:
+- **1)** zakres danych, które powinna zawierać deklaracja o przystąpieniu do egzaminu zawodowego, oraz tryb składania tej deklaracji,
+- **2)** zakres i terminy przekazywania dyrektorowi okręgowej komisji egzaminacyjnej informacji niezbędnych do przeprowadzenia egzaminu zawodowego, w tym informacji zawartych w deklaracjach, o których mowa w art. 44zzzg,
+- **3)** tryb wydawania opinii, o której mowa w art. 44zzzf ust. 6,
+- **4)** skład zespołów, o których mowa w art. 44zzzi ust. 4,
+- **5)** szczegółowe zadania przewodniczącego zespołu egzaminacyjnego oraz zespołów nadzorujących, o których mowa w art. 44zzzi, egzaminatorów i zespołów egzaminatorów w zakresie części praktycznej egzaminu zawodowego, a także nauczycieli biorących udział w przeprowadzaniu egzaminu zawodowego,
+- **6)** wymagania jakie musi spełnić asystent techniczny, o którym mowa w art. 44zzzia ust. 1, oraz zadania asystenta technicznego,
+- **7)** zakres informacji, które zamieszcza się w protokołach, o których mowa w art. 44zzzi ust. 6,
+- **8)** sposób postępowania z materiałami egzaminacyjnymi dostarczanymi do szkół, placówek lub centrów, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawców, podmiotów prowadzących kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, w tym tryb zgłaszania nieprawidłowości w tym zakresie,
+- **9)** sposób organizacji i przeprowadzania każdej części egzaminu zawodowego, sposób postępowania w sytuacjach zagrożenia lub nagłego zakłócenia przebiegu egzaminu zawodowego, przeprowadzania egzaminu zawodowego w miejscu innym niż szkoła, placówka lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, ze względu na stan zdrowia zdającego lub jego niepełnosprawność,
+- **10)** termin przechowywania prac zdających oraz dokumentacji egzaminu zawodowego,
+- **11)** zakres informacji zawartych we wniosku, o którym mowa w art. 44zzzl ust. 4, termin złożenia tego wniosku oraz tryb udzielania i przedłużania upoważnienia szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcom oraz podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe,
+- **12)** osoby, które nie wchodzą w skład zespołu egzaminacyjnego i nie biorą udziału w przeprowadzaniu egzaminu zawodowego, które mogą przebywać w sali egzaminacyjnej podczas tego egzaminu, w tym osoby, które mogą występować w charakterze obserwatorów podczas egzaminu zawodowego,
+- **13)** wysokość opłat pobieranych za egzamin zawodowy przeprowadzany dla uczniów będących młodocianymi pracownikami zatrudnionymi w celu przygotowania zawodowego u pracodawcy niebędącego rzemieślnikiem oraz dla osób dorosłych, o których mowa w art. 44zzzb ust. 3 pkt 5, oraz możliwość zwalniania osób o niskich dochodach z całości lub części opłat za egzamin zawodowy oraz tryb tego zwalniania – z uwzględnieniem konieczności zapewnienia właściwej organizacji i przebiegu oraz właściwego dokumentowania egzaminu zawodowego, zapewnienia w składzie zespołów, o których mowa w art. 44zzzi ust. 4, co najmniej jednej osoby zatrudnionej w innej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, zapewnienia możliwości wglądu, o którym mowa w art. 44zzzt ust. 1, oraz że wysokość opłaty za egzamin zawodowy nie może być wyższa niż koszt przeprowadzania tego egzaminu. Art. 44zzzw. 1. Minister właściwy do spraw oświaty i wychowania ogłasza w Biuletynie Informacji Publicznej komunikat w sprawie wykazu olimpiad przedmiotowych przeprowadzanych z przedmiotu lub przedmiotów objętych egzaminem ósmoklasisty lub egzaminem maturalnym, turniejów lub olimpiad tematycznych związanych z wybranym przedmiotem lub dziedziną wiedzy, a także konkursów dla uczniów szkół i placówek artystycznych, uprawniających odpowiednio do:
+- **1)** zwolnienia z przystąpienia do egzaminu ósmoklasisty z danego przedmiotu, egzaminu maturalnego z danego przedmiotu albo części pisemnej egzaminu zawodowego,
+- **2)** przyjmowania laureatów i finalistów tych olimpiad lub laureatów tych konkursów, w pierwszej kolejności do szkół wymienionych w art. 132 ustawy – Prawo oświatowe – nie później niż na 2 lata przed terminem ich przeprowadzania.
+
+2. W uzasadnionych przypadkach minister właściwy do spraw oświaty i wychowania może dokonać zmian w wykazie, o którym mowa w ust. 1. Wykaz wraz ze zmianami jest ogłaszany w Biuletynie Informacji Publicznej. Art. 44zzzx. Przepisów rozdziału 3b nie stosuje się do dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu głębokim. Art. 44zzzy. Wyniki egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego ustalone w trybie przepisów ustawy są ostateczne i nie służy na nie skarga do sądu administracyjnego. Art. 44zzzz. 1. W przypadku niewykonania przez nauczyciela lub radę pedagogiczną zadań i kompetencji w zakresie przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego, o których mowa w rozdziale 3b oraz w przepisach wydanych na podstawie art. 44zzza i art. 44zzzv, te zadania i kompetencje wykonuje dyrektor szkoły lub upoważniony przez niego nauczyciel.
+
+2. W przypadku gdy dyrektor szkoły lub upoważniony przez niego nauczyciel nie wykonuje zadań i kompetencji, o których mowa w ust. 1, te zadania i kompetencje wykonuje nauczyciel wyznaczony przez organ prowadzący szkołę.
+
+3. W przypadku szkół prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje organu prowadzącego, określone w ust. 2, wykonuje odpowiednio wójt (burmistrz, prezydent miasta), zarząd powiatu, zarząd województwa.
 
 #### Rozdział 3c Systemy teleinformatyczne wykorzystywane do przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego i egzaminów eksternistycznych
 
@@ -2603,7 +3191,13 @@ Art. 97–103. (pominięte)
 
 **Art. 90r.** (uchylony)
 
-**Art. 90s.** (uchylony) Art. 90sa. 1. Uczniom szkół i placówek prowadzonych przez Ministra Obrony Narodowej, o których mowa w przepisach wydanych na podstawie art. 49 ustawy – Prawo oświatowe, mogą być przyznane świadczenia w postaci bezpłatnego wyżywienia, zakwaterowania, umundurowania i pomocy lekarskiej. 2. Minister Obrony Narodowej określi, w drodze rozporządzenia, szkoły i placówki, w których uczniowie mogą otrzymać świadczenia, o których mowa w ust. 1, zakres tych świadczeń, a także warunki korzystania z tych świadczeń, uwzględniając specyfikę nauczania w szkołach i placówkach prowadzonych przez Ministra Obrony Narodowej oraz konieczność właściwego zabezpieczenia procesu dydaktycznego.
+**Art. 90s.** (uchylony)
+
+**Art. 90sa.**
+
+1. Uczniom szkół i placówek prowadzonych przez Ministra Obrony Narodowej, o których mowa w przepisach wydanych na podstawie art. 49 ustawy – Prawo oświatowe, mogą być przyznane świadczenia w postaci bezpłatnego wyżywienia, zakwaterowania, umundurowania i pomocy lekarskiej.
+
+2. Minister Obrony Narodowej określi, w drodze rozporządzenia, szkoły i placówki, w których uczniowie mogą otrzymać świadczenia, o których mowa w ust. 1, zakres tych świadczeń, a także warunki korzystania z tych świadczeń, uwzględniając specyfikę nauczania w szkołach i placówkach prowadzonych przez Ministra Obrony Narodowej oraz konieczność właściwego zabezpieczenia procesu dydaktycznego.
 
 **Art. 90t.**
 
@@ -3246,7 +3840,9 @@ Art. 97–103. (pominięte)
 
 **Art. 94.** (uchylony)
 
-**Art. 94a.** (uchylony) Art. 94aa. (uchylony)
+**Art. 94a.** (uchylony)
+
+**Art. 94aa.** (uchylony)
 
 **Art. 94b.**
 
@@ -3259,7 +3855,11 @@ Art. 97–103. (pominięte)
 - **1)** art. 29 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/817 z dnia 20 maja 2021 r. ustanawiającego „Erasmus+”: unijny program na rzecz kształcenia i szkolenia, młodzieży i sportu oraz uchylającego rozporządzenie (UE) nr 1288/2013 (Dz. Urz. UE L 189 z 28.05.2021, str. 1–33);
 - **2)** art. 26 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/888 z dnia 20 maja 2021 r. ustanawiającego program „Europejski Korpus Solidarności” oraz uchylającego rozporządzenia (UE) 2018/1475 i (UE) nr 375/2014 (Dz. Urz. UE L 202 z 08.06.2021, str. 32–54).
 
-3. Szef Krajowej Administracji Skarbowej prowadzi audyt programów, o których mowa w ust. 2, na zasadach określonych w przepisach ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ). Art. 94ba. 1. Minister właściwy do spraw oświaty i wychowania może zlecić Instytutowi Badań Edukacyjnych w Warszawie realizację zadań z zakresu oświaty i wychowania o charakterze badawczym, badawczo-wdrożeniowym lub statystycznym, w zakresie działalności statutowej tej jednostki, w szczególności badań edukacyjnych, analiz, ekspertyz, raportów lub not, których przygotowanie wynika z konieczności dokonania analizy i ewaluacji jakości kształcenia w systemie oświaty lub z krajowych lub międzynarodowych zobowiązań tego ministra.
+3. Szef Krajowej Administracji Skarbowej prowadzi audyt programów, o których mowa w ust. 2, na zasadach określonych w przepisach ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ).
+
+**Art. 94ba.**
+
+1. Minister właściwy do spraw oświaty i wychowania może zlecić Instytutowi Badań Edukacyjnych w Warszawie realizację zadań z zakresu oświaty i wychowania o charakterze badawczym, badawczo-wdrożeniowym lub statystycznym, w zakresie działalności statutowej tej jednostki, w szczególności badań edukacyjnych, analiz, ekspertyz, raportów lub not, których przygotowanie wynika z konieczności dokonania analizy i ewaluacji jakości kształcenia w systemie oświaty lub z krajowych lub międzynarodowych zobowiązań tego ministra.
 
 2. Na realizację zadań, o których mowa w ust. 1, Instytut Badań Edukacyjnych w Warszawie otrzymuje dotację celową z części budżetu państwa, której dysponentem jest minister właściwy do spraw oświaty i wychowania.
 
@@ -3326,6 +3926,8 @@ Art. 97–103. (pominięte)
 - **621)** .
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
+
+**Art. 97–103.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i końcowe
 

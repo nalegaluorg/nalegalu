@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o samorządzie pielęgniarek i położnych
+# Ustawa z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych
 
 *USTAWA z dnia 1 lipca 2011 r.*
 

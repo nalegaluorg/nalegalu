@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o stopniach górniczych, honorowych szpadach górniczych i mundurach górniczych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stopniach górniczych, honorowych szpadach górniczych i mundurach górniczych
 
 | Pole | Wartość |
 |---|---|

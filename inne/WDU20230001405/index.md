@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o weteranach działań poza granicami państwa
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o weteranach działań poza granicami państwa
 
 *USTAWA z dnia 7 lipca 2023 r.*
 

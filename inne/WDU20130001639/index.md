@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie informacji oświatowej
+# Ustawa z dnia 22 listopada 2013 r. o zmianie ustawy o systemie informacji oświatowej
 
 *USTAWA z dnia 22 listopada 2013 r.*
 

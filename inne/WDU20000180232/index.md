@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie wyborów przedterminowych do Rady Gminy Pszczółki.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 17 marca 2000 r. w sprawie wyborów przedterminowych do Rady Gminy Pszczółki.
 
 *ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 17 marca 2000 r.*
 

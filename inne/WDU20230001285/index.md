@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o konsumenckiej pożyczce lombardowej
+# Ustawa z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej
 
 *USTAWA z dnia 14 kwietnia 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-07-06 |
 | Ostatnia zmiana | 2024-07-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1285/text.pdf) |
-
-Art. 51–56. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -469,6 +467,8 @@ Art. 51–56. (pominięte)
 **Art. 50.** Orzekanie w sprawach o czyny, o których mowa w art. 45–49, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977).
 
 #### Rozdział 7 Zmiany w przepisach
+
+**Art. 51–56.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i przepis końcowy
 

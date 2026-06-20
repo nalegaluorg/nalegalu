@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2017
+# Ustawa z dnia 6 grudnia 2017 r. o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2017
 
 *USTAWA z dnia 6 grudnia 2017 r.*
 

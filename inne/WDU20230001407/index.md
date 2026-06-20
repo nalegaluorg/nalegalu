@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów
+# Ustawa z dnia 26 maja 2023 r. o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów
 
 *USTAWA z dnia 26 maja 2023 r.*
 
@@ -143,7 +143,9 @@ source: pdf
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich poufności.
 
-3. Pozyskiwanie danych osobowych, o którym mowa w ust. 1, następuje za pośrednictwem systemu teleinformatycznego. Art. 15–20. (pominięte)
+3. Pozyskiwanie danych osobowych, o którym mowa w ust. 1, następuje za pośrednictwem systemu teleinformatycznego.
+
+**Art. 15–20.** (pominięte)
 
 **Art. 21.** W 2023 r., w celu wypłaty dodatkowego świadczenia, minister właściwy do spraw finansów publicznych, na wniosek właściwego dysponenta części budżetowej, może dokonywać przeniesień wydatków budżetowych między działami, rozdziałami i paragrafami klasyfikacji wydatków budżetu państwa, a w przypadku ministrów będących dysponentami więcej niż jednej części budżetowej również między tymi częściami budżetowymi.
 

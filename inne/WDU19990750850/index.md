@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie współpracy urzędów morskich z marynarką Wojenną i Strażą Graniczną.
+# Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 20 sierpnia 1999 r. w sprawie współpracy urzędów morskich z Marynarką Wojenną i Strażą Graniczną.
 
 | Pole | Wartość |
 |---|---|

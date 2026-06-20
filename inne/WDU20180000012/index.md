@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 8 grudnia 2017 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 8 grudnia 2017 r.*
 
@@ -150,7 +150,11 @@ source: pdf
 
 9. Główny Inspektor Transportu Drogowego nie udostępnia informacji związanych z zamówieniem, o którym mowa w ust. 6, stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm. ), jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zleceniem, o którym mowa w ust. 3, albo zawarciem porozumienia, o którym mowa w ust. 5, zastrzegł, że nie mogą być one udostępniane.
 
-10. Główny Inspektor Transportu Drogowego niezwłocznie podaje do publicznej wiadomości, w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, informację o udzieleniu zamówienia, o którym mowa w ust. 6, podając nazwę (firmę) albo imię i nazwisko podmiotu, któremu zlecono wykonywanie czynności, o których mowa w ust. 3, lub z którym zawarto porozumienie, o którym mowa w ust. 5, albo informację o nieudzieleniu tego zamówienia. Art. 37gc. 1. Generalny Dyrektor Dróg Krajowych i Autostrad użycza Głównemu Inspektorowi Transportu Drogowego grunty na cele związane z realizacją zadania, o którym mowa w art. 37a ust. 1a pkt 1, wraz z wzniesionymi na nich budynkami, budowlami i innymi urządzeniami.
+10. Główny Inspektor Transportu Drogowego niezwłocznie podaje do publicznej wiadomości, w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, informację o udzieleniu zamówienia, o którym mowa w ust. 6, podając nazwę (firmę) albo imię i nazwisko podmiotu, któremu zlecono wykonywanie czynności, o których mowa w ust. 3, lub z którym zawarto porozumienie, o którym mowa w ust. 5, albo informację o nieudzieleniu tego zamówienia.
+
+**Art. 37gc.**
+
+1. Generalny Dyrektor Dróg Krajowych i Autostrad użycza Głównemu Inspektorowi Transportu Drogowego grunty na cele związane z realizacją zadania, o którym mowa w art. 37a ust. 1a pkt 1, wraz z wzniesionymi na nich budynkami, budowlami i innymi urządzeniami.
 
 2. Warunki korzystania z gruntów, o których mowa w ust. 1, oraz wzniesionych na nich budynków, budowli i innych urządzeń określa umowa pomiędzy Głównym Inspektorem Transportu Drogowego oraz Generalnym Dyrektorem Dróg Krajowych i Autostrad.”;
 

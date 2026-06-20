@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zakładowym funduszu świadczeń socjalnych
+# Ustawa z dnia 28 marca 2008 r. o zmianie ustawy o zakładowym funduszu świadczeń socjalnych
 
 *USTAWA z dnia 28 marca 2008 r.*
 

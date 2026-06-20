@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o normalizacji
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 września 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o normalizacji
 
 | Pole | Wartość |
 |---|---|

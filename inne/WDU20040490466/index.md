@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o nabywaniu nieruchomości przez cudzoziemców oraz ustawy o opłacie skarbowej
+# Ustawa z dnia 20 lutego 2004 r. o zmianie ustawy o nabywaniu nieruchomości przez cudzoziemców oraz ustawy o opłacie skarbowej
 
 *USTAWA z dnia 20 lutego 2004 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego ,,Polskie Koleje Państwowe”
+# Ustawa z dnia 10 czerwca 2011 r. o zmianie ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego "Polskie Koleje Państwowe"
 
 *USTAWA z dnia 10 czerwca 2011 r.*
 

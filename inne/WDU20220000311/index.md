@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 grudnia 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej
 
 *USTAWA z dnia 29 czerwca 2007 r.*
 

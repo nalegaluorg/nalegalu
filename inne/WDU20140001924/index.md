@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw
+# Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 28 listopada 2014 r.*
 

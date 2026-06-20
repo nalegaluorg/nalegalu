@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki
+# Ustawa z dnia 20 marca 2009 r. o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki
 
 *USTAWA z dnia 20 marca 2009 r.*
 

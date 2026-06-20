@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze
+# Ustawa z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze
 
 *USTAWA z dnia 2 września 2022 r.*
 
@@ -188,7 +188,9 @@ source: pdf
 
 **Art. 21.** Zakład udostępnia stronom postępowania, na ich wniosek, oraz organom uprawnionym dokumentację zgromadzoną w sprawie jednorazowego świadczenia w formie wydruków z systemu teleinformatycznego Zakładu lub w formie elektronicznej określonej przez Zakład, o ile strona postępowania lub inny organ ma techniczne możliwości odczytania tej dokumentacji. Tak udostępniona dokumentacja nie wymaga uwierzytelnienia.
 
-**Art. 22.** Wydruki dokumentów z systemu teleinformatycznego Zakładu, w szczególności decyzje, wnioski oraz wezwania, mają moc równoważną z dokumentami elektronicznymi zgromadzonymi w systemie teleinformatycznym Zakładu i nie wymagają uwierzytelnienia w postępowaniach administracyjnych oraz w postępowaniach sądowych. Art. 23–26. (pominięte)
+**Art. 22.** Wydruki dokumentów z systemu teleinformatycznego Zakładu, w szczególności decyzje, wnioski oraz wezwania, mają moc równoważną z dokumentami elektronicznymi zgromadzonymi w systemie teleinformatycznym Zakładu i nie wymagają uwierzytelnienia w postępowaniach administracyjnych oraz w postępowaniach sądowych.
+
+**Art. 23–26.** (pominięte)
 
 **Art. 27.** Pomoc udzielana na podstawie niniejszej ustawy stanowi pomoc de minimis i może być udzielana w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis.
 

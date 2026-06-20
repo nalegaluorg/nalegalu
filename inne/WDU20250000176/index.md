@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o podatku leśnym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku leśnym
 
 | Pole | Wartość |
 |---|---|

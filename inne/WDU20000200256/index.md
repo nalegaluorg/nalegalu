@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utracie mocy obowiązującej art. 22 ust. 4 ustawy z dnia 24 kwietnia 1997 r. o przeciwdziałaniu narkomanii.
+# Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 5 maja 1999 r. o utracie mocy obowiązującej art. 22 ust. 4 ustawy z dnia 24 kwietnia 1997 r. o przeciwdziałaniu narkomanii.
 
 *OBWIESZCZENIE PREZESA TRYBUNAŁU KONSTYTUCYJNEGO z dnia 5 maja 1999 r.*
 

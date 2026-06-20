@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o łączności oraz niektórych innych ustaw W ustawie z dnia 23 listopada 1990 r. o łączności (Dz.U. Nr 86, poz. 504, z 1991r.
+# Ustawa z dnia 12 maja 1995 r. o zmianie ustawy o łączności oraz niektórych innych ustaw.
 
 *USTAWA z dnia 12 maja 1995 r.*
 

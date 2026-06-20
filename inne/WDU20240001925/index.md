@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2025
+# Ustawa z dnia 21 listopada 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2025
 
 *USTAWA z dnia 21 listopada 2024 r.*
 

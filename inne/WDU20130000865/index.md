@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o nasiennictwie
+# Ustawa z dnia 13 czerwca 2013 r. o zmianie ustawy o nasiennictwie
 
 *USTAWA z dnia 13 czerwca 2013 r.*
 

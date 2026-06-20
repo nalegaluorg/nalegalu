@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-06-24 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000819) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/819/text.pdf) |
-
-Art. 65–80. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -72,7 +70,7 @@ Art. 65–80. (pominięte)
 - **14)** rozporządzeniu 1093/2010 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z późn. zm.);
 - **14a)** rozporządzeniu 806/2014 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 806/2014 z dnia 15 lipca 2014 r. ustanawiające jednolite zasady i jednolitą procedurę restrukturyzacji i uporządkowanej likwidacji instytucji kredytowych i niektórych firm inwestycyjnych w ramach jednolitego mechanizmu restrukturyzacji i uporządkowanej likwidacji oraz jednolitego funduszu restrukturyzacji i uporządkowanej likwidacji oraz zmieniające rozporządzenie (UE) nr 1093/2010 (Dz. Urz. UE L 225 z 30.07.2014, str. 1, z późn. zm. );
 - **14b)** rozporządzeniu 2017/2402 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/2402 z dnia 12 grudnia 2017 r. w sprawie ustanowienia ogólnych ram dla sekurytyzacji oraz utworzenia szczególnych ram dla prostych, przejrzystych i standardowych sekurytyzacji, a także zmieniające dyrektywy 2009/65/WE, 2009/138/WE i 2011/61/UE oraz rozporządzenia (WE) nr 1060/2009 i (UE) nr 648/2012 (Dz. Urz. UE L 347 z 28.12.2017, str. 35, z późn. zm. );
-- **14c)** rozporządzeniu 2016/1011 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniające dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, z późn. zm. ); <14d) rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );>
+- **14c)** rozporządzeniu 2016/1011 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniające dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, z późn. zm. ); <14d) rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );
 - **15)** ryzyku systemowym – rozumie się przez to ryzyko zakłócenia w funkcjonowaniu systemu finansowego, które w razie jego materializacji zaburza działanie systemu finansowego i gospodarki narodowej jako całości, którego źródłem mogą być w szczególności tendencje związane z nadmierną dynamiką akcji kredytowej lub zadłużenia i związane z nimi nierównowagi w zakresie cen aktywów, niestabilne modele finansowania, rozkład ryzyka w systemie finansowym, powiązania pomiędzy instytucjami finansowymi lub nierównowagi makroekonomiczne i sektorowe;
 - **16)** systemie finansowym – rozumie się przez to system finansowy, o którym mowa w art. 2 lit. b rozporządzenia 1092/2010;
 - **17)** unijnej dominującej finansowej spółce holdingowej – rozumie się przez to unijną dominującą finansową spółkę holdingową, o której mowa w art. 4 ust. 1 pkt 31 rozporządzenia 575/2013;
@@ -494,7 +492,7 @@ Art. 65–80. (pominięte)
 - **1)** nazwą zidentyfikowanej globalnej instytucji o znaczeniu systemowym lub innej instytucji o znaczeniu systemowym;
 - **2)** identyfikatorem podmiotu prawnego zidentyfikowanej globalnej instytucji o znaczeniu systemowym lub innej instytucji o znaczeniu systemowym, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji Nadzoru Finansowego;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 3. Komisja Nadzoru Finansowego powiadamia, za pośrednictwem Komitetu, Europejską Radę do spraw Ryzyka Systemowego o zamiarze nałożenia bufora innej instytucji o znaczeniu systemowym co najmniej:
 
@@ -851,6 +849,8 @@ Art. 65–80. (pominięte)
 2. Minister właściwy do spraw instytucji finansowych może określić, w drodze rozporządzenia, środki, o których mowa w art. 458 rozporządzenia 575/2013, ustalone w innym państwie członkowskim, wobec oddziałów instytucji zlokalizowanych w tym państwie, biorąc pod uwagę rekomendację Komitetu dotyczącą uznania wysokości wskaźnika bufora ryzyka systemowego, ustalonego w innym państwie członkowskim niż Rzeczpospolita Polska dla tego państwa, oraz zalecenie Europejskiej Rady do spraw Ryzyka Systemowego skierowane do Rzeczypospolitej Polskiej, dotyczące uznania wskaźnika bufora systemowego ustalonego w innym państwie członkowskim.
 
 #### Rozdział 13 Zmiany w przepisach obowiązujących
+
+**Art. 65–80.** (pominięte)
 
 #### Rozdział 14 Przepisy przejściowe i końcowe
 

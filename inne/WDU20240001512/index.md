@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Karcie Dużej Rodziny
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 października 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Karcie Dużej Rodziny
 
 | Pole | Wartość |
 |---|---|
@@ -34,7 +34,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 5 grudnia 2014 r.
 o Karcie Dużej Rodziny
-Art. 31–35. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -451,6 +450,8 @@ Art. 31–35. (pominięte)
 4. Pierwszą waloryzację przeprowadza się 1 marca 2016 r.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 31–35.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

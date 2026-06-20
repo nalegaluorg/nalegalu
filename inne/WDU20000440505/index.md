@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie liczby członków Rady do Spraw Badań i Certyfikacji przy Polskim Centrum Badań i Certyfikacji oraz regulaminu jej działania.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 29 maja 2000 r. w sprawie liczby członków Rady do Spraw Badań i Certyfikacji przy Polskim Centrum Badań i Certyfikacji oraz regulaminu jej działania.
 
 *ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 29 maja 2000 r.*
 

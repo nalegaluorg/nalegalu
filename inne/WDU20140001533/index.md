@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Polskiej Agencji Kosmicznej
+# Ustawa z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej
 
 *USTAWA z dnia 26 września 2014 r.*
 

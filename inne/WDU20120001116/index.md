@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo celne
+# Ustawa z dnia 31 sierpnia 2012 r. o zmianie ustawy - Prawo celne
 
 *USTAWA z dnia 31 sierpnia 2012 r.*
 

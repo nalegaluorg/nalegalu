@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|

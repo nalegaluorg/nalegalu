@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wyposażeniu morskim
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wyposażeniu morskim
 
 | Pole | Wartość |
 |---|---|
@@ -315,7 +315,9 @@ o wyposażeniu morskim
 
 4. Kary pieniężnej nie pobiera się po upływie 3 lat od dnia wydania ostatecznej decyzji o nałożeniu kary.
 
-5. Środki finansowe pochodzące z kar pieniężnych stanowią dochód budżetu państwa. Art. 28–33. (pominięte)
+5. Środki finansowe pochodzące z kar pieniężnych stanowią dochód budżetu państwa.
+
+**Art. 28–33.** (pominięte)
 
 **Art. 34.** Minister właściwy do spraw gospodarki morskiej może notyfikować bez wcześniejszej autoryzacji jednostki oceniające zgodność wyposażenia morskiego, w zakresie odpowiadającym zakresowi ich notyfikacji w dniu wejścia w życie niniejszej ustawy oraz zakresowi posiadanej akredytacji, do czasu uzyskania autoryzacji zgodnie z niniejszą ustawą, na okres nie dłuższy niż sześć miesięcy od dnia wejścia w życie niniejszej ustawy. Przepis art. 28 ust. 3 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542, 1228 i 1579) stosuje się.
 

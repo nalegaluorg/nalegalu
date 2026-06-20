@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o izbach aptekarskich
+# Ustawa z dnia 10 stycznia 2008 r. o zmianie ustawy o izbach aptekarskich
 
 *USTAWA z dnia 10 stycznia 2008 r.*
 

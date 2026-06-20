@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw
+# Ustawa z dnia 26 kwietnia 2007 r. o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw
 
 *USTAWA z dnia 26 kwietnia 2007 r.*
 

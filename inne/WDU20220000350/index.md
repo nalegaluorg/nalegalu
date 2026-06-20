@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dokumentach paszportowych
+# Ustawa z dnia 27 stycznia 2022 r. o dokumentach paszportowych
 
 *USTAWA z dnia 27 stycznia 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-02-10 |
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000350) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/350/text.pdf) |
-
-Art. 97–103. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1211,6 +1209,8 @@ Art. 97–103. (pominięte)
 2. Dostęp do usługi jest rejestrowany i nieodpłatny.
 
 #### Rozdział 9 Zmiany w przepisach
+
+**Art. 97–103.** (pominięte)
 
 #### Rozdział 10 Przepisy przejściowe, dostosowujące i końcowe
 

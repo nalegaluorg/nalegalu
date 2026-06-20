@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw
+# Ustawa z dnia 13 marca 2026 r. o zmianie ustawy - Prawo lotnicze oraz niektórych innych ustaw
 
 *USTAWA z dnia 13 marca 2026 r.*
 
@@ -170,25 +170,43 @@ source: pdf
 - **9)** w art. 28ea ust. 2 otrzymuje brzmienie: „2. Zakaz, o którym mowa w ust. 1, nie dotyczy podmiotów realizujących Narodowy Cel Wskaźnikowy, w przypadku poświadczeń wystawianych dla biokomponentów:
 - **1)** wytworzonych w procesie współuwodornienia;
 - **2)** wykorzystywanych przez dostawcę paliw lotniczych do realizacji obowiązków, o których mowa w art. 4 ust. 1 lub 7 rozporządzenia 2023/2405.”;
-- **10)** po rozdziale 4b dodaje się rozdział 4ba w brzmieniu: „Rozdział 4ba Obowiązki dotyczące SAF Art. 28ya. Prezes Urzędu Regulacji Energetyki jest odpowiedzialny za:
+- **10)** po rozdziale 4b dodaje się rozdział 4ba w brzmieniu: „Rozdział 4ba Obowiązki dotyczące SAF
+
+**Art. 28ya.** Prezes Urzędu Regulacji Energetyki jest odpowiedzialny za:
+
 - **1)** wykonywanie zadań, obowiązków oraz korzystanie z uprawnień określonych w sposób wiążący dla organu właściwego, o którym mowa w art. 11 ust. 1 rozporządzenia 2023/2405, odnoszących się do dostawców paliw lotniczych;
 - **2)** zarządzanie dostępem dostawców paliw lotniczych niebędących podmiotem certyfikowanym do unijnej bazy danych;
 - **3)** weryfikację poprawności informacji, o których mowa w art. 30c, oraz informacji wynikających z obowiązków sprawozdawczych, o których mowa w art. 10 rozporządzenia 2023/2405, wprowadzanych do unijnej bazy danych przez podmioty wytwarzające, importujące lub nabywające wewnątrzwspólnotowo SAF lub paliwa lotnicze z dodatkiem SAF oraz dostawców paliw lotniczych;
 - **4)** współpracę z Komisją Europejską i Agencją Unii Europejskiej ds. Bezpieczeństwa Lotniczego w zakresie niezbędnym do wykonywania obowiązków określonych w rozporządzeniu 2023/2405 odnoszących się do dostawców paliw lotniczych;
-- **5)** współpracę z Komisją Europejską w zakresie funkcjonowania unijnej bazy danych w odniesieniu do podmiotów, dostawców i informacji, o których mowa w pkt 3. Art. 28yb. 1. Minister właściwy do spraw klimatu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
+- **5)** współpracę z Komisją Europejską w zakresie funkcjonowania unijnej bazy danych w odniesieniu do podmiotów, dostawców i informacji, o których mowa w pkt 3.
+
+**Art. 28yb.**
+
+1. Minister właściwy do spraw klimatu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
+
 - **1)** roczną średnią cenę paliw lotniczych za tonę,
 - **2)** roczną średnią cenę SAF za tonę,
 - **3)** roczną średnią cenę syntetycznych paliw lotniczych za tonę,
 - **4)** różnicę między roczną średnią ceną SAF za tonę a roczną średnią ceną paliw lotniczych za tonę,
 - **5)** różnicę między roczną średnią ceną syntetycznych paliw lotniczych za tonę a roczną średnią ceną paliw lotniczych za tonę – na podstawie informacji podawanych przez Agencję Unii Europejskiej ds. Bezpieczeństwa Lotniczego zgodnie z art. 13 ust. 1 rozporządzenia 2023/2405, w terminie do dnia 31 grudnia każdego roku, za poprzedni rok kalendarzowy.
 
-2. Ceny, o których mowa w ust. 1 pkt 1–3, ustala się w złotych według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień 31 stycznia każdego roku, a w przypadku gdy w tym roku Narodowy Bank Polski nie ogłasza średniego kursu euro w dniu 31 stycznia – według średniego kursu euro ogłoszonego w najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego, w roku ogłoszenia obwieszczenia. Art. 28yc. SAF może być zaliczony dostawcy paliw lotniczych na poczet realizacji obowiązków, o których mowa w art. 4 ust. 1 i 7 rozporządzenia 2023/2405, wyłącznie wtedy, gdy nie został wcześniej zaliczony na poczet realizacji tych obowiązków przez tego lub innego dostawcę paliw lotniczych oraz:
+2. Ceny, o których mowa w ust. 1 pkt 1–3, ustala się w złotych według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień 31 stycznia każdego roku, a w przypadku gdy w tym roku Narodowy Bank Polski nie ogłasza średniego kursu euro w dniu 31 stycznia – według średniego kursu euro ogłoszonego w najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego, w roku ogłoszenia obwieszczenia.
+
+**Art. 28yc.** SAF może być zaliczony dostawcy paliw lotniczych na poczet realizacji obowiązków, o których mowa w art. 4 ust. 1 i 7 rozporządzenia 2023/2405, wyłącznie wtedy, gdy nie został wcześniej zaliczony na poczet realizacji tych obowiązków przez tego lub innego dostawcę paliw lotniczych oraz:
 
 - **1)** spełnia kryteria zrównoważonego rozwoju określone w art. 28ba–28bcb i art. 28bcc ust. 1 oraz kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b – w przypadku biopaliw lotniczych;
 - **2)** spełnia kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b – w przypadku syntetycznych paliw lotniczych;
-- **3)** spełnia kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b – w przypadku pochodzących z recyklingu węglowych paliw lotniczych w rozumieniu art. 3 pkt 9 rozporządzenia 2023/2405 będących ciekłymi paliwami węglowymi pochodzącymi z recyklingu lub gazowymi paliwami węglowymi pochodzącymi z recyklingu. Art. 28yd. Dokumentami potwierdzającymi spełnienie kryteriów, o których mowa w art. 28yc, są:
+- **3)** spełnia kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b – w przypadku pochodzących z recyklingu węglowych paliw lotniczych w rozumieniu art. 3 pkt 9 rozporządzenia 2023/2405 będących ciekłymi paliwami węglowymi pochodzącymi z recyklingu lub gazowymi paliwami węglowymi pochodzącymi z recyklingu.
+
+**Art. 28yd.** Dokumentami potwierdzającymi spełnienie kryteriów, o których mowa w art. 28yc, są:
+
 - **1)** dokumenty, o których mowa w art. 28c ust. 1 pkt 1, 2 i 4, lub
-- **2)** dokument wystawiony przez podmiot realizujący Narodowy Cel Wskaźnikowy na podstawie dokumentów określonych w pkt 1. Art. 28ye. Prezes Urzędu Regulacji Energetyki może żądać przedstawienia dokumentów i informacji dotyczących realizacji obowiązków, o których mowa w art. 4 ust. 1 i 7, art. 9 ust. 2 i 3 oraz art. 10 rozporządzenia 2023/2405, oraz w art. 30c, odpowiednio przez podmioty wytwarzające, importujące lub nabywające wewnątrzwspólnotowo SAF lub paliwa lotnicze z dodatkiem SAF oraz dostawców paliw lotniczych, z uwzględnieniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych. Art. 28yf. Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405, są przekazywane zarządzającemu lotniskiem będącym unijnym portem lotniczym przez dostawcę paliw lotniczych, na wniosek tego zarządzającego lotniskiem, w terminie 14 dni od dnia doręczenia tego wniosku.”;
+- **2)** dokument wystawiony przez podmiot realizujący Narodowy Cel Wskaźnikowy na podstawie dokumentów określonych w pkt 1.
+
+**Art. 28ye.** Prezes Urzędu Regulacji Energetyki może żądać przedstawienia dokumentów i informacji dotyczących realizacji obowiązków, o których mowa w art. 4 ust. 1 i 7, art. 9 ust. 2 i 3 oraz art. 10 rozporządzenia 2023/2405, oraz w art. 30c, odpowiednio przez podmioty wytwarzające, importujące lub nabywające wewnątrzwspólnotowo SAF lub paliwa lotnicze z dodatkiem SAF oraz dostawców paliw lotniczych, z uwzględnieniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
+
+**Art. 28yf.** Informacje, o których mowa w art. 6 ust. 4 rozporządzenia 2023/2405, są przekazywane zarządzającemu lotniskiem będącym unijnym portem lotniczym przez dostawcę paliw lotniczych, na wniosek tego zarządzającego lotniskiem, w terminie 14 dni od dnia doręczenia tego wniosku.”;
+
 - **11)** art. 30c otrzymuje brzmienie: „Art. 30c. Wytwórcy, przetwórcy, pośrednicy, podmioty sprowadzające, podmioty realizujące Narodowy Cel Wskaźnikowy, podmioty wytwarzające, importujące lub nabywające wewnątrzwspólnotowo SAF lub paliwa lotnicze z dodatkiem SAF oraz dostawcy paliw lotniczych wprowadzają do unijnej bazy danych informacje umożliwiające nadzór nad rynkiem biokomponentów, ciekłych paliw węglowych pochodzących z recyklingu, gazowych paliw węglowych pochodzących z recyklingu lub innych paliw odnawialnych, które zawierają dane określone w załączniku I do rozporządzenia wykonawczego Komisji (UE) 2022/996 z dnia 14 czerwca 2022 r. w sprawie zasad weryfikacji kryteriów zrównoważonego rozwoju i ograniczania emisji gazów cieplarnianych oraz kryteriów niskiego ryzyka spowodowania pośredniej zmiany użytkowania gruntów.”;
 - **12)** po art. 30c dodaje się art. 30d i art. 30e w brzmieniu: „Art. 30d. Prezes Urzędu Regulacji Energetyki jest odpowiedzialny za:
 - **1)** zarządzanie dostępem podmiotów realizujących Narodowy Cel Wskaźnikowy niebędących podmiotem certyfikowanym do unijnej bazy danych;

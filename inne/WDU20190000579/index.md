@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o izbach gospodarczych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 marca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o izbach gospodarczych
 
 | Pole | Wartość |
 |---|---|

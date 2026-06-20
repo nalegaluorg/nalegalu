@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# l) w art.l i w art.2 w ust.2 wyrazy "Polskiej Rzeczypospolitej Ludowej" zastępuje się wyrazami "Rzeczypospolitej Polskiej";
+# Ustawa z dnia 23 lutego 1991 r. o zmianie ustawy o fundacjach.
 
 *USTAWA W ustawie z dnia 6 kwietnia 1984 r. o fundacjach (Dz.U. Nr 21, poz.97) wprowadza się następujące zmiany:*
 

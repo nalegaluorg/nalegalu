@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Agencji Mienia Wojskowego
+# Ustawa z dnia 14 października 2021 r. o zmianie ustawy o Agencji Mienia Wojskowego
 
 *USTAWA z dnia 14 października 2021 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych
 
 | Pole | Wartość |
 |---|---|
@@ -31,7 +31,6 @@ source: pdf
 3. Akta spraw, rejestry, ewidencje, listy i bazy danych, prowadzone przed dniem wejścia w życie niniejszej ustawy przez organ, który utracił zadania i kompetencje na podstawie niniejszej ustawy, przejmuje organ, który przejął od niego w tym zakresie zadania i kompetencje na podstawie niniejszej ustawy.
 4. Organ, który utracił zadania i kompetencje na podstawie niniejszej ustawy, przekazuje niezwłocznie organowi, który przejął od niego zadania i kompetencje na podstawie niniejszej ustawy, dokumentację związaną z wykonywaniem przejętych zadań i kompetencji, w tym także w postaci informatycznych nośników danych.
 5. Z czynności, o których mowa w ust. 3 i 4, sporządza się protokół.
-Art. 29–32. (pominięte)
 
 **Art. 62.** Dyrektorzy generalni urzędów obsługujących organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy, przekażą sprawy wszczęte i niezakończone dyrektorom generalnym urzędów obsługujących organy, które przejęły te zadania i kompetencje. Z czynności przekazania sporządza się protokół.
 
@@ -811,6 +810,8 @@ Art. 29–32. (pominięte)
 5. Jeżeli budowa drogi wymaga przełożenia podziemnych liniowych obiektów budowlanych, o których mowa w ust. 1, koszt ich przełożenia ponosi ich właściciel, w przypadku gdy nie upłynęło 10 lat od daty wydania zgody, o której mowa w ust. 1.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 29–32.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego
+# Ustawa z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego
 
 *USTAWA z dnia 3 kwietnia 2009 r.*
 

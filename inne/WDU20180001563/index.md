@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw
+# Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy - Prawo geologiczne i górnicze oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 czerwca 2018 r.*
 
@@ -67,7 +67,12 @@ source: pdf
 - **11)** w art. 49c w ust. 3 uchyla się pkt 2;
 - **12)** art. 49d otrzymuje brzmienie: „Art. 49d. Decyzja o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego uprawnia podmiot, na rzecz którego została wydana, do złożenia oferty w postępowaniu przetargowym o udzielenie koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż lub koncesji na wydobywanie węglowodorów ze złóż oraz wniosku, o którym mowa w art. 49e.”;
 - **13)** art. 49e otrzymuje brzmienie: „Art. 49e. Udzielenie koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż lub koncesji na wydobywanie węglowodorów ze złóż następuje w wyniku przeprowadzenia postępowania przetargowego albo na wniosek zainteresowanego podmiotu.”;
-- **14)** po art. 49e dodaje się art. 49ea–49ee w brzmieniu: „Art. 49ea. Udzielenie koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż lub koncesji na wydobywanie węglowodorów ze złóż może nastąpić na wniosek zainteresowanego podmiotu, jeżeli obszar, którego wniosek dotyczy, nie jest objęty aktualnym ogłoszeniem, o którym mowa w art. 49f ust. 1, albo nie zostało wszczęte postępowanie przetargowe dotyczące tego obszaru. Art. 49eb. 1. We wniosku o udzielenie koncesji, poza wymaganiami przewidzianymi przepisami z zakresu ochrony środowiska i działalności gospodarczej, określa się:
+- **14)** po art. 49e dodaje się art. 49ea–49ee w brzmieniu: „Art. 49ea. Udzielenie koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż lub koncesji na wydobywanie węglowodorów ze złóż może nastąpić na wniosek zainteresowanego podmiotu, jeżeli obszar, którego wniosek dotyczy, nie jest objęty aktualnym ogłoszeniem, o którym mowa w art. 49f ust. 1, albo nie zostało wszczęte postępowanie przetargowe dotyczące tego obszaru.
+
+**Art. 49eb.**
+
+1. We wniosku o udzielenie koncesji, poza wymaganiami przewidzianymi przepisami z zakresu ochrony środowiska i działalności gospodarczej, określa się:
+
 - **1)** właścicieli (użytkowników wieczystych) nieruchomości, w granicach których ma być wykonywana zamierzona działalność, oraz oznaczenie tych nieruchomości zgodnie z ewidencją gruntów i budynków;
 - **2)** prawa wnioskodawcy do nieruchomości (przestrzeni), w granicach której ma być wykonywana zamierzona działalność, lub prawo, o ustanowienie którego ubiega się wnioskodawca;
 - **3)** czas, na jaki koncesja ma być udzielona, ze wskazaniem terminu rozpoczęcia działalności, a w przypadku wniosku o udzielenie koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – dodatkowo czas trwania fazy poszukiwania i rozpoznawania oraz fazy wydobywania;
@@ -100,7 +105,11 @@ source: pdf
 - **5)** w przypadku wniosku o udzielenie koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – 2 egzemplarze projektu robót geologicznych, o którym mowa w art. 79;
 - **6)** w przypadku wniosku o udzielenie koncesji na wydobywanie węglowodorów ze złoża – dowody istnienia prawa do korzystania z informacji geologicznej, jakie w zakresie niezbędnym do prowadzenia zamierzonej działalności przysługuje wnioskodawcy, oraz kopię decyzji zatwierdzającej dokumentację geologiczną.
 
-3. Dokumenty sporządzone w języku obcym składa się wraz z tłumaczeniem na język polski dokonanym przez tłumacza przysięgłego. Art. 49ec. 1. Informację o złożeniu pierwszego wniosku o udzielenie koncesji przez zainteresowany podmiot, o którym mowa w art. 49ea, organ koncesyjny ogłasza w Dzienniku Urzędowym Unii Europejskiej. Informację o opublikowaniu ogłoszenia w Dzienniku Urzędowym Unii Europejskiej zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego organ koncesyjny.
+3. Dokumenty sporządzone w języku obcym składa się wraz z tłumaczeniem na język polski dokonanym przez tłumacza przysięgłego.
+
+**Art. 49ec.**
+
+1. Informację o złożeniu pierwszego wniosku o udzielenie koncesji przez zainteresowany podmiot, o którym mowa w art. 49ea, organ koncesyjny ogłasza w Dzienniku Urzędowym Unii Europejskiej. Informację o opublikowaniu ogłoszenia w Dzienniku Urzędowym Unii Europejskiej zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego organ koncesyjny.
 
 2. Ogłoszenie zawiera:
 
@@ -120,7 +129,11 @@ source: pdf
 
 7. Złożone wnioski o udzielenie koncesji nie podlegają zmianom mogącym wpłynąć na ocenę kryteriów, o których mowa w ust. 2 pkt 5.
 
-8. Do porównania wniosków o udzielenie koncesji przepisy art. 49m ust. 1a–4 stosuje się odpowiednio. Art. 49ed. 1. W przypadku gdy najwyższą ocenę uzyskał wniosek o udzielenie koncesji, o którym mowa w art. 49ea, złożony wspólnie przez kilka podmiotów, organ koncesyjny niezwłocznie wzywa operatora do przekazania temu organowi, w terminie 30 dni od dnia otrzymania wezwania, projektu umowy o współpracy.
+8. Do porównania wniosków o udzielenie koncesji przepisy art. 49m ust. 1a–4 stosuje się odpowiednio.
+
+**Art. 49ed.**
+
+1. W przypadku gdy najwyższą ocenę uzyskał wniosek o udzielenie koncesji, o którym mowa w art. 49ea, złożony wspólnie przez kilka podmiotów, organ koncesyjny niezwłocznie wzywa operatora do przekazania temu organowi, w terminie 30 dni od dnia otrzymania wezwania, projektu umowy o współpracy.
 
 2. W przypadku stwierdzenia przez organ koncesyjny niezgodności projektu umowy o współpracy ze złożonym wnioskiem o udzielenie koncesji lub ustawą organ koncesyjny wyznacza dodatkowy termin 14 dni na usunięcie niezgodności.
 
@@ -131,7 +144,12 @@ source: pdf
 5. Organ koncesyjny umarza postępowanie, w przypadku gdy:
 
 - **1)** nie zostanie przekazana organowi koncesyjnemu umowa o współpracy;
-- **2)** w terminie, o którym mowa w ust. 2, nie usunięto niezgodności. Art. 49ee. 1. Organ koncesyjny, po uzyskaniu wymaganych ustawą opinii lub uzgodnień, udziela koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesji na wydobywanie węglowodorów ze złoża:
+- **2)** w terminie, o którym mowa w ust. 2, nie usunięto niezgodności.
+
+**Art. 49ee.**
+
+1. Organ koncesyjny, po uzyskaniu wymaganych ustawą opinii lub uzgodnień, udziela koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesji na wydobywanie węglowodorów ze złoża:
+
 - **1)** na rzecz podmiotu, którego wniosek o udzielenie koncesji uzyskał najwyższą ocenę, albo
 - **2)** w przypadku gdy najwyższą ocenę uzyskał wniosek o udzielenie koncesji złożony wspólnie przez kilka podmiotów – po przekazaniu organowi koncesyjnemu umowy o współpracy – na rzecz stron tej umowy – i jednocześnie odmawia udzielenia koncesji innym podmiotom.
 
@@ -321,7 +339,7 @@ source: pdf
 - **58)** w art. 207 dodaje się ust. 3 w brzmieniu: „3. W przypadku gdy podmiot, który nabył prawo do informacji geologicznej, został zlikwidowany bez rozstrzygnięcia o sukcesji prawa do informacji geologicznej lub nie jest możliwe ustalenie podmiotu, któremu przysługuje to prawo, Skarb Państwa może rozporządzać tym prawem.”;
 - **59)** w załączniku do ustawy w tabeli:
     - **a)** po lp. 10 dodaje się lp. 10a w brzmieniu: 10a Gazy szlachetne tys. m 40
-    - **b)** po lp. 12a dodaje się lp. 12b i 12c w brzmieniu: 12b Gaz ziemny z zawartością helu > 0,2%, którego wydobycie tys. m 23,40 w okresie rozliczeniowym przekracza 2500 tys. m 12c Gaz ziemny z zawartością helu > 0,2%, którego wydobycie tys. m 6,07 w okresie rozliczeniowym nie przekracza 2500 tys. m
+    - **b)** po lp. 12a dodaje się lp. 12b i 12c w brzmieniu: 12b Gaz ziemny z zawartością helu
     - **c)** po lp. 34 dodaje się lp. 34a w brzmieniu: 34a Pierwiastki ziem rzadkich kg 500
 
 **Art. 2.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2017 r. poz. 2205 oraz z 2018 r. poz. 317 i 1338) wprowadza się następujące zmiany:

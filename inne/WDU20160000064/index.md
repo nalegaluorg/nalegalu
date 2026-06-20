@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Zintegrowanym Systemie Kwalifikacji
+# Ustawa z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji
 
 *USTAWA z dnia 22 grudnia 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2016-01-14 |
 | Ostatnia zmiana | 2026-06-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000064) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/64/text.pdf) |
-
-Art. 97–103. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1389,6 +1387,8 @@ Art. 97–103. (pominięte)
 - **3)** zasady i procedury przygotowywania przez Radę Interesariuszy opinii, o której mowa w art. 11 ust. 3 pkt 6, z uwzględnieniem udziału w procesie porównywania Sektorowych Ram Kwalifikacji z Polską Ramą Kwalifikacji ekspertów spoza danej branży lub sektora.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
+
+**Art. 97–103.** (pominięte)
 
 #### Rozdział 10 Przepisy przejściowe i końcowe
 

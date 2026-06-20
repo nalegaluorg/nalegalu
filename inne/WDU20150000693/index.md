@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych Uznając szczególne zasługi dla Polski tych jej obywateli, którzy w latach 1956– 1989 z narażeniem własnego życia, wolności, majątku lub praw pracowniczych angażowali się w działalność antykomunistyczną zmierzającą do odzyskania suwerenności i niepodległości Ojczyzny lub byli z tych powodów represjonowani, uchwala się, co następuje:
+# Ustawa z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych
 
 *USTAWA z dnia 20 marca 2015 r.*
 
@@ -344,7 +344,9 @@ source: pdf
 
 7. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, organizację i tryb pracy rady, uwzględniając efektywność działania rady, w tym biorąc pod uwagę, aby częstotliwość posiedzeń rady uzależniona była od liczby przekazanych wniosków oraz konieczności ich terminowego zaopiniowania.
 
-**Art. 16.** Wypłata świadczenia pieniężnego, pomocy pieniężnej oraz zwrot kosztów przejazdów dla członków wojewódzkich rad konsultacyjnych do spraw działaczy opozycji antykomunistycznej oraz osób represjonowanych z powodów politycznych następują z części budżetu państwa, której dysponentem jest Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych. Art. 17–21. (pominięte)
+**Art. 16.** Wypłata świadczenia pieniężnego, pomocy pieniężnej oraz zwrot kosztów przejazdów dla członków wojewódzkich rad konsultacyjnych do spraw działaczy opozycji antykomunistycznej oraz osób represjonowanych z powodów politycznych następują z części budżetu państwa, której dysponentem jest Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych.
+
+**Art. 17–21.** (pominięte)
 
 **Art. 22.** Ustawa wchodzi w życie z dniem 31 sierpnia 2015 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zwierząt
+# Ustawa z dnia 15 listopada 2016 r. o zmianie ustawy o ochronie zwierząt
 
 *USTAWA z dnia 15 listopada 2016 r.*
 

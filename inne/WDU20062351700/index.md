@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
+# Ustawa z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
 
 *USTAWA z dnia 17 listopada 2006 r.*
 

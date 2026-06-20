@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach związanych z ochroną miejsc pracy
+# Ustawa z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy
 
 *USTAWA z dnia 11 października 2013 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dokumentach publicznych oraz ustawy o podatku akcyzowym
+# Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy o dokumentach publicznych oraz ustawy o podatku akcyzowym
 
 *USTAWA z dnia 4 grudnia 2025 r.*
 

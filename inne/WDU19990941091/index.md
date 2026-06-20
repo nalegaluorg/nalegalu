@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie przekształceń w Wyższej Szkole Zawodowej Administracji Publicznej w Sulechowie.
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 10 listopada 1999 r. w sprawie przekształceń w Wyższej Szkole Zawodowej Administracji Publicznej w Sulechowie.
 
 | Pole | Wartość |
 |---|---|

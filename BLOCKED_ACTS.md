@@ -2,7 +2,7 @@
 
 Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów z jakością ekstrakcji tekstu z PDF. Pracujemy nad ich naprawą.
 
-**Łącznie:** 411 aktów
+**Łącznie:** 409 aktów
 
 | Adres | Tytuł | Problem |
 |-------|-------|---------|
@@ -41,7 +41,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19940530215 | Ustawa z dnia 4 marca 1994 r. o zmianie ustawy o systemie oś… | missing article structure — act type requires Art. markers b |
 | WDU19940620265 | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 9 maj… | missing Polish diacritics — only 8 in 1634 letters (0.49%) — |
 | WDU19941360704 | Ustawa z dnia 2 grudnia 1994 r. o zmianie ustawy o pracownik… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU19950500261 | Ustawa z dnia 21 kwietnia 1995 r. o zmianie ustawy o uprawni… | missing article structure — act type requires Art. markers b |
 | WDU19950660335 | Ustawa z dnia 30 marca 1995 r. o zmianie ustawy o radiofonii… | missing article structure — act type requires Art. markers b |
 | WDU19950850426 | Ustawa z dnia 22 czerwca 1995 r. o zmianie ustawy o organiza… | missing article structure — act type requires Art. markers b |
 | WDU19951110539 | Uchwała Trybunału Konstytucyjnego z dnia 5 września 1995 r. … | character-spaced text — 1 line(s) with >30% single-letter wo |
@@ -53,7 +52,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19970430271 | Ustawa z dnia 20 lutego 1997 r. o zmianie ustawy o ochronie … | missing article structure — act type requires Art. markers b |
 | WDU19970800508 | Ustawa z dnia 17 lipca 1997 r. o zmianie ustawy o pomocy pań… | missing article structure — act type requires Art. markers b |
 | WDU19971020642 | Ustawa z dnia 19 czerwca 1997 r. o utworzeniu Uniwersytetu w… | character-spaced text — 2 line(s) with >30% single-letter wo… |
-| WDU19971100715 | Ustawa z dnia 27 sierpnia 1997 r. o zmianie ustawy - Prawo ł… | missing article structure — act type requires Art. markers b |
 | WDU19971110726 | Ustawa z dnia 22 sierpnia 1997 r. o zmianie ustawy - Prawo b… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19980460293 | Wyrok Trybunału Konstytucyjnego z dnia 31 marca 1998 r. - sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19981060668 | Ustawa z dnia 24 lipca 1998 r. o zmianie niektórych ustaw ok… | rendered round-trip failed: AST=237 rendered=237 dup_rendere… |
@@ -89,7 +87,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20081180746 | Ustawa z dnia 30 maja 2008 r. o zmianie ustawy o specjalnych… | source article inventory failed: eli-html=0 AST=7 dup_ast=1 … |
 | WDU20082161369 | Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o izbach … | rendered round-trip failed: AST=3 rendered=4 extra_rendered= |
 | WDU20092011542 | Ustawa z dnia 23 października 2009 r. zmieniająca ustawę o z… | PostScript CE garbled diacritics — unrepaired encoding (3 oc |
-| WDU20100110066 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | character-spaced text — 2 line(s) with >30% single-letter wo… |
+| WDU20100110066 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20100210109 | Wyrok Trybunału Konstytucyjnego z dnia 26 stycznia 2010 r. s… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20101250852 | Wyrok Trybunału Konstytucyjnego z dnia 22 czerwca 2010 r. sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20102441636 | Wyrok Trybunału Konstytucyjnego z dnia 14 grudnia 2010 r. sy… | character-spaced text — 1 line(s) with >30% single-letter wo |

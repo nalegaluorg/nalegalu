@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zwierząt oraz ustawy – Kodeks karny
+# Ustawa z dnia 6 marca 2018 r. o zmianie ustawy o ochronie zwierząt oraz ustawy - Kodeks karny
 
 *USTAWA z dnia 6 marca 2018 r.*
 

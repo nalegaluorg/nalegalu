@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo budowlane
+# Ustawa z dnia 18 czerwca 1999 r. o zmianie ustawy - Prawo budowlane.
 
 *USTAWA z dnia 18 czerwca 1999 r.*
 

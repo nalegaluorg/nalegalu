@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów wojskowych
+# Ustawa z dnia 12 grudnia 2013 r. o zmianie ustawy - Prawo o ustroju sądów wojskowych
 
 *USTAWA z dnia 12 grudnia 2013 r.*
 

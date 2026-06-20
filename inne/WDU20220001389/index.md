@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo o zgromadzeniach
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 czerwca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o zgromadzeniach
 
 | Pole | Wartość |
 |---|---|
@@ -32,7 +32,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 24 lipca 2015 r.
 Prawo o zgromadzeniach
-Art. 29–33. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -299,6 +298,8 @@ Art. 29–33. (pominięte)
 2. Rozwiązanie zgromadzenia spontanicznego na podstawie ust. 1 następuje przez wydanie decyzji ustnej podlegającej natychmiastowemu wykonaniu, poprzedzonej dwukrotnym ostrzeżeniem uczestników zgromadzenia spontanicznego o możliwości jego rozwiązania, a następnie ogłoszonej publicznie uczestnikom tego zgromadzenia.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 29–33.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
 

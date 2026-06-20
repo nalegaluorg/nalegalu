@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o pracy na statkach rybackich
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pracy na statkach rybackich
 
 | Pole | Wartość |
 |---|---|
@@ -32,7 +32,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 11 września 2019 r.
 o pracy na statkach rybackich
-Art. 65–68. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -845,6 +844,8 @@ Art. 65–68. (pominięte)
 2. Orzekanie w sprawach o czyny, o których mowa w art. 59–63, następuje na podstawie wniosku o ukaranie składanego przez dyrektora urzędu morskiego lub inspektora pracy, w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
+
+**Art. 65–68.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i przepis końcowy
 

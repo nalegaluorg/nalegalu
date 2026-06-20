@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy państwa w wychowywaniu dzieci
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o pomocy państwa w wychowywaniu dzieci
 
 *USTAWA z dnia 7 lipca 2023 r.*
 

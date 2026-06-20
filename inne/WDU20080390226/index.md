@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Akademii Medycznej w Warszawie nazwy „Warszawski Uniwersytet Medyczny”
+# Ustawa z dnia 23 stycznia 2008 r. o nadaniu Akademii Medycznej w Warszawie nazwy "Warszawski Uniwersytet Medyczny"
 
 *USTAWA z dnia 23 stycznia 2008 r.*
 

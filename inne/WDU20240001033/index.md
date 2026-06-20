@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu Akademii Katolickiej w Warszawie z budżetu państwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej dnia 10 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu Akademii Katolickiej w Warszawie z budżetu państwa
 
 | Pole | Wartość |
 |---|---|

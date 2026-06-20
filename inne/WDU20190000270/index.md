@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarce nieruchomościami oraz ustawy o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów
+# Ustawa z dnia 31 stycznia 2019 r. o zmianie ustawy o gospodarce nieruchomościami oraz ustawy o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów
 
 *USTAWA z dnia 31 stycznia 2019 r.*
 

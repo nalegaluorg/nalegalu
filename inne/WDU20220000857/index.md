@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie dziedzictwa narodowego związanego z nazwami obiektów przestrzeni publicznej oraz pomnikami
+# Ustawa z dnia 24 lutego 2022 r. o ochronie dziedzictwa narodowego związanego z nazwami obiektów przestrzeni publicznej oraz pomnikami
 
 *USTAWA z dnia 24 lutego 2022 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 lipca 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego
 
 | Pole | Wartość |
 |---|---|
@@ -45,7 +45,6 @@ UE L 60 z 28.02.2014, str. 34, Dz. Urz. UE L 246 z 23.09.2015, str. 11 oraz Dz. 
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 15 kwietnia 2005 r.
 o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego
-Art. 65–72. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -561,6 +560,8 @@ Art. 65–72. (pominięte)
 **Art. 64.** W przypadku stwierdzenia naruszeń przepisów prawa lub innych nieprawidłowości na poziomie konglomeratu finansowego koordynator informuje zagraniczne organy nadzoru o potrzebie podjęcia odpowiednich działań w stosunku do podmiotów wchodzących w skład konglomeratu finansowego, mających siedziby w państwach członkowskich.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 65–72.** (pominięte)
 
 **Art. 73.** Do postępowań w sprawach objętych przepisami ustaw zmienianych niniejszą ustawą, wszczętych, a niezakończonych przed dniem jej wejścia w życie, stosuje się przepisy tych ustaw, w brzmieniu nadanym niniejszą ustawą.
 

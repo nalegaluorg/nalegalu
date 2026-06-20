@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o grach hazardowych
+# Ustawa z dnia 5 grudnia 2024 r. zmieniająca ustawę o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o grach hazardowych
 
 *USTAWA z dnia 5 grudnia 2024 r.*
 

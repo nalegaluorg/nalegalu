@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o spółdzielniach mieszkaniowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielniach mieszkaniowych
 
 *USTAWA z dnia 15 grudnia 2000 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-04-12 |
 | Ostatnia zmiana | 2026-01-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000558) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/558/text.pdf) |
-
-Art. 28–34. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -62,9 +60,7 @@ Art. 28–34. (pominięte)
 
 **Art. 2.**
 
-1. Lokalem w rozumieniu ustawy jest samodzielny lokal mieszkalny, a także lokal o innym przeznaczeniu, o których mowa w przepisach ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz.
-
-- **1688)** .
+1. Lokalem w rozumieniu ustawy jest samodzielny lokal mieszkalny, a także lokal o innym przeznaczeniu, o których mowa w przepisach ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688).
 
 2. Lokalem mieszkalnym w rozumieniu ustawy jest również pracownia twórcy przeznaczona do prowadzenia działalności w dziedzinie kultury i sztuki.
 
@@ -655,6 +651,8 @@ Art. 28–34. (pominięte)
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących
 
+**Art. 28–34.** (pominięte)
+
 #### Rozdział 5 Przepisy przejściowe i końcowe
 
 **Art. 35.**
@@ -677,7 +675,9 @@ Art. 28–34. (pominięte)
 
 5. Jeżeli spółdzielnia mieszkaniowa nie wystąpiła z żądaniem przeniesienia na nią własności działek budowlanych, o których mowa w ust. 1, nabycia przez spółdzielnię mieszkaniową własności tych działek za wynagrodzeniem, ustalonym zgodnie z ust. 3, mogą żądać ich właściciele.
 
-**Art. 36.** Ustanowienie odrębnej własności lokali położonych w budynkach usytuowanych na gruntach, o których mowa w art. 35 ust. 1, może nastąpić po nabyciu przez spółdzielnię mieszkaniową własności lub prawa użytkowania wieczystego działek budowlanych, na których wybudowano te budynki. Art. 37–38. (uchylone)
+**Art. 36.** Ustanowienie odrębnej własności lokali położonych w budynkach usytuowanych na gruntach, o których mowa w art. 35 ust. 1, może nastąpić po nabyciu przez spółdzielnię mieszkaniową własności lub prawa użytkowania wieczystego działek budowlanych, na których wybudowano te budynki.
+
+**Art. 37–38.** (uchylone)
 
 **Art. 39.**
 
@@ -819,7 +819,9 @@ Art. 28–34. (pominięte)
 
 2. Postępowanie toczy się według przepisów Kodeksu postępowania cywilnego o zniesieniu współwłasności, z wyjątkiem art. 625. Koszty sądowe postępowania ponosi spółdzielnia.
 
-**Art. 49¹.** Jeżeli spółdzielnia uchyla się jedynie od złożenia oświadczenia woli o ustanowieniu albo przeniesieniu odrębnej własności lokalu na rzecz osoby, o której mowa w art. 49 ust. 1, osoba ta może wystąpić do sądu z powództwem o zobowiązanie spółdzielni do złożenia odpowiedniego oświadczenia woli. Art. 50–51. (uchylone)
+**Art. 49¹.** Jeżeli spółdzielnia uchyla się jedynie od złożenia oświadczenia woli o ustanowieniu albo przeniesieniu odrębnej własności lokalu na rzecz osoby, o której mowa w art. 49 ust. 1, osoba ta może wystąpić do sądu z powództwem o zobowiązanie spółdzielni do złożenia odpowiedniego oświadczenia woli.
+
+**Art. 50–51.** (uchylone)
 
 **Art. 52.** Do istniejących w dniu wejścia ustawy w życie praw do domów jednorodzinnych i lokali mieszkalnych budowanych w celu przeniesienia ich własności na rzecz członków stosuje się odpowiednio przepisy rozdziału 2 ustawy. Do czasu przeniesienia własności na rzecz członka spółdzielni mają zastosowanie zasady:
 

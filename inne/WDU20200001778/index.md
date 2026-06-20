@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 17 września 2020 r. o zmianie ustawy o transporcie kolejowym
 
 *USTAWA z dnia 17 września 2020 r.*
 
@@ -74,7 +74,17 @@ source: pdf
 
 3. Jednostka notyfikowana stosuje wytyczne opracowane przez Agencję, uwzględniające wyniki pracy grupy ds. ERTMS.
 
-4. W przypadku gdy jednostka notyfikowana uzna wytyczne, o których mowa w ust. 3, za niewłaściwe lub niemożliwe do stosowania, przekazuje swoje uwagi grupie ds. ERTMS odpowiedzialnej za stałą poprawę jakości tych wytycznych celem ich omówienia i nie stosuje tych wytycznych do czasu rozstrzygnięcia w zakresie przekazanych uwag w ramach grupy ds. ERTMS. Art. 25ib. Wynagrodzenie kierownictwa jednostki notyfikowanej oraz jej pracowników wykonujących ocenę zgodności nie może być uzależnione od liczby wykonanych ocen zgodności ani od wyników tych ocen. Art. 25ic. Jednostka notyfikowana przekazuje Agencji certyfikaty weryfikacji WE podsystemów, certyfikaty WE zgodności składników interoperacyjności oraz certyfikaty WE przydatności do stosowania składników interoperacyjności niezwłocznie po ich wydaniu. Art. 25id. Jednostki notyfikowane są obowiązane uczestniczyć w pracach sektorowej grupy jednostek notyfikowanych ustanowionej przez Komisję Europejską. Art. 25ie. 1. Prezes UTK, w drodze decyzji, wyznacza podmiot do wykonywania zadań jednostki wyznaczonej, jeżeli podmiot wnioskujący:
+4. W przypadku gdy jednostka notyfikowana uzna wytyczne, o których mowa w ust. 3, za niewłaściwe lub niemożliwe do stosowania, przekazuje swoje uwagi grupie ds. ERTMS odpowiedzialnej za stałą poprawę jakości tych wytycznych celem ich omówienia i nie stosuje tych wytycznych do czasu rozstrzygnięcia w zakresie przekazanych uwag w ramach grupy ds. ERTMS.
+
+**Art. 25ib.** Wynagrodzenie kierownictwa jednostki notyfikowanej oraz jej pracowników wykonujących ocenę zgodności nie może być uzależnione od liczby wykonanych ocen zgodności ani od wyników tych ocen.
+
+**Art. 25ic.** Jednostka notyfikowana przekazuje Agencji certyfikaty weryfikacji WE podsystemów, certyfikaty WE zgodności składników interoperacyjności oraz certyfikaty WE przydatności do stosowania składników interoperacyjności niezwłocznie po ich wydaniu.
+
+**Art. 25id.** Jednostki notyfikowane są obowiązane uczestniczyć w pracach sektorowej grupy jednostek notyfikowanych ustanowionej przez Komisję Europejską.
+
+**Art. 25ie.**
+
+1. Prezes UTK, w drodze decyzji, wyznacza podmiot do wykonywania zadań jednostki wyznaczonej, jeżeli podmiot wnioskujący:
 
 - **1)** posiada osobowość prawną;
 - **2)** spełnia wymagania określone w art. 28 ust. 1 pkt 2–6 i 9 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku;

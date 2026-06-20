@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw
+# Ustawa z dnia 17 grudnia 2020 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw
 
 *USTAWA z dnia 17 grudnia 2020 r.*
 

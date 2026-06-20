@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych
+# Ustawa z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych
 
 *USTAWA z dnia 16 października 2019 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-11-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002200) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2200/text.pdf) |
-
-Art. 108–120. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1039,6 +1037,8 @@ Art. 108–120. (pominięte)
 ### DZIAŁ IV Zmiany w przepisach, przepisy przejściowe i przepis końcowy
 
 #### Rozdział 1 Zmiany w przepisach
+
+**Art. 108–120.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i przepis końcowy
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pracowniczych planach kapitałowych, ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustawy – Prawo bankowe
+# Ustawa z dnia 16 maja 2019 r. o zmianie ustawy o pracowniczych planach kapitałowych, ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustawy - Prawo bankowe
 
 *USTAWA z dnia 16 maja 2019 r.*
 

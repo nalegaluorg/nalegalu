@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rynku mocy
+# Ustawa z dnia 24 stycznia 2025 r. o zmianie ustawy o rynku mocy
 
 *USTAWA z dnia 24 stycznia 2025 r.*
 

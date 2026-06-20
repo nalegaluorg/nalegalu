@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie granicy państwowej
+# Ustawa z dnia 5 stycznia 2011 r. o zmianie ustawy o ochronie granicy państwowej
 
 *USTAWA z dnia 5 stycznia 2011 r.*
 

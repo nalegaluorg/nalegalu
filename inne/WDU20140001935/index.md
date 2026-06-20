@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o składkach na ubezpieczenie zdrowotne rolników za lata 2012–2014
+# Ustawa z dnia 5 grudnia 2014 r. o zmianie ustawy o składkach na ubezpieczenie zdrowotne rolników za lata 2012-2014
 
 *USTAWA z dnia 5 grudnia 2014 r.*
 

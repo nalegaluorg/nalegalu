@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku rolnym
+# Ustawa z dnia 10 maja 2013 r. o zmianie ustawy o podatku rolnym
 
 *USTAWA z dnia 10 maja 2013 r.*
 

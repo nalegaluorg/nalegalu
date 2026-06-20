@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
+# Ustawa z dnia 25 lutego 2011 r. o zmianie ustawy o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
 
 *USTAWA z dnia 25 lutego 2011 r.*
 

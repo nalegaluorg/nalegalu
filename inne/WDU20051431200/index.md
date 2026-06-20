@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu programu wieloletniego „Narodowy program zwalczania chorób nowotworowych”
+# Ustawa z dnia 1 lipca 2005 r. o ustanowieniu programu wieloletniego "Narodowy program zwalczania chorób nowotworowych"
 
 *USTAWA z dnia 1 lipca 2005 r.*
 

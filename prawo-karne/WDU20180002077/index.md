@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks wykroczeń oraz niektórych innych ustaw
+# Ustawa z dnia 4 października 2018 r. o zmianie ustawy - Kodeks wykroczeń oraz niektórych innych ustaw
 
 *USTAWA z dnia 4 października 2018 r.*
 

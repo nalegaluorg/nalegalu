@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo wodne
+# Ustawa z dnia 7 kwietnia 2022 r. o zmianie ustawy - Prawo wodne
 
 *USTAWA z dnia 7 kwietnia 2022 r.*
 

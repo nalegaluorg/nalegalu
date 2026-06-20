@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Wyższej Szkole Morskiej w Szczecinie nazwy Akademia Morska w Szczecinie
+# Ustawa z dnia 9 stycznia 2004 r. o nadaniu Wyższej Szkole Morskiej w Szczecinie nazwy Akademia Morska w Szczecinie
 
 *USTAWA z dnia 9 stycznia 2004 r.*
 

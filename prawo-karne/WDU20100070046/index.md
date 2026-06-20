@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks karny oraz ustawy - Kodeks postępowania karnego
+# Ustawa z dnia 17 grudnia 2009 r. o zmianie ustawy - Kodeks karny oraz ustawy - Kodeks postępowania karnego
 
 *USTAWA Opracowano z dnia 17 grudnia 2009 r. stawie: r.*
 

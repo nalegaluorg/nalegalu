@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Agencji Badań Medycznych
+# Ustawa z dnia 21 lutego 2019 r. o Agencji Badań Medycznych
 
 *USTAWA z dnia 21 lutego 2019 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-03-07 |
 | Ostatnia zmiana | 2025-03-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000447) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/447/text.pdf) |
-
-Art. 34–40. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -649,6 +647,8 @@ Art. 34–40. (pominięte)
 3. Dokumenty, informacje lub wyjaśnienia, o których mowa w ust. 2 pkt 5, przedstawia się w terminie wskazanym w żądaniu, nie później niż w terminie 30 dni od dnia zgłoszenia żądania.
 
 #### Rozdział 6 Przepisy zmieniające
+
+**Art. 34–40.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe, dostosowujące i przepis końcowy
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo ochrony środowiska oraz ustawy o odpadach
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy - Prawo ochrony środowiska oraz ustawy o odpadach
 
 *USTAWA z dnia 20 lipca 2018 r.*
 

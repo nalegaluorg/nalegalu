@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowych zasad sprawowania nadzoru nad samodzielnymi publicznymi zakładami opieki zdrowotnej i nad jednostkami transportu sanitarnego.
+# Rozporządzenie Ministra Zdrowia z dnia 18 listopada 1999 r. w sprawie szczegółowych zasad sprawowania nadzoru nad samodzielnymi publicznymi zakładami opieki zdrowotnej i nad jednostkami transportu sanitarnego.
 
 | Pole | Wartość |
 |---|---|

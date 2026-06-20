@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o fundacji – Zakład Narodowy imienia Ossolińskich Zakład Narodowy imienia Ossolińskich znajdował i znajduje inspirację w oświadczeniu Józefa Maksymiliana Ossolińskiego z dnia 17 lipca 1804 r., zgodnie z którym cały majątek po śmierci Fundatora stał się „publiczną własnością Kraju i Narodu”. Uznając, że Zakład – skarbnica polskiego dziedzictwa kulturalnego – kontynuuje działalność w celach wskazanych w Ustanowieniu Narodowym, w tym w aktach, które obejmują Ustanowienie Familijne z dnia 18 października 1816 r., Umowę Józefa Maksymiliana Ossolińskiego z Henrykiem Lubomirskim z dnia 25 grudnia 1823 r. oraz Akt dodatkowy do Ustawy Fundacyjnej z dnia 15 stycznia 1824 r., stanowi się, co następuje:
+# Ustawa z dnia 5 stycznia 1995 r. o fundacji - Zakład Narodowy imienia Ossolińskich.
 
 *USTAWA z dnia 5 stycznia 1995 r.*
 

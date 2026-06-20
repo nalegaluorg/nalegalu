@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie nazw niektórych wyższych szkół inżynierskich
+# Ustawa z dnia 4 lipca 1996 r. o zmianie nazw niektórych wyższych szkół inżynierskich.
 
 *USTAWA z dnia 4 lipca 1996 r.*
 

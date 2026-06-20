@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie Komisji Heraldycznej.
+# Rozporządzenie Rady Ministrów z dnia 27 lipca 1999 r. w sprawie Komisji Heraldycznej.
 
 | Pole | Wartość |
 |---|---|

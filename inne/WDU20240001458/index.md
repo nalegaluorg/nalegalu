@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o komornikach sądowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 września 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o komornikach sądowych
 
 *USTAWA z dnia 22 marca 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-10-02 |
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1458/text.pdf) |
-
-Art. 261–279. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -399,7 +397,9 @@ Art. 261–279. (pominięte)
 
 1. Komornik jest obowiązany postępować zgodnie z przepisami prawa, orzeczeniami sądu wydanymi w trybie nadzoru judykacyjnego, zarządzeniami lub zaleceniami uprawnionych organów nadzoru administracyjnego, złożonym ślubowaniem i zasadami etyki zawodowej oraz podnosić kwalifikacje zawodowe.
 
-2. Minister Sprawiedliwości, po zasięgnięciu opinii Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury oraz Krajowej Rady Komorniczej, określi, w drodze rozporządzenia, minimum szkoleniowe komorników i asesorów oraz sposób dokumentowania wykonywania przez nich obowiązku podnoszenia kwalifikacji zawodowych, uwzględniając efektywność wykonywania tego obowiązku oraz funkcjonujące systemy punktowe. [Art. 26. Minister Sprawiedliwości, prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować komornika na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków komornika. Koszty badania pokrywa podmiot kierujący na badanie.] <Art. 26. Minister Sprawiedliwości, prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować komornika na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków komornika. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ). Koszty badania pokrywa podmiot kierujący na badanie.>
+2. Minister Sprawiedliwości, po zasięgnięciu opinii Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury oraz Krajowej Rady Komorniczej, określi, w drodze rozporządzenia, minimum szkoleniowe komorników i asesorów oraz sposób dokumentowania wykonywania przez nich obowiązku podnoszenia kwalifikacji zawodowych, uwzględniając efektywność wykonywania tego obowiązku oraz funkcjonujące systemy punktowe.
+
+**Art. 26.** Minister Sprawiedliwości, prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować komornika na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków komornika. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ). Koszty badania pokrywa podmiot kierujący na badanie.
 
 **Art. 27.**
 
@@ -1093,7 +1093,7 @@ Art. 261–279. (pominięte)
 - **1)** uczestniczenie w przewidzianych ramowym programem aplikacji zajęciach seminaryjnych oraz praktykach;
 - **2)** samodzielne pogłębianie wiedzy prawniczej i praktycznych umiejętności niezbędnych do zajmowania stanowiska komornika;
 - **3)** przestrzeganie dyscypliny szkolenia i pracy;
-- **4)** przystępowanie, w wyznaczonym terminie, do kolokwium oraz sprawdzianów wiedzy przeprowadzanych w czasie aplikacji. [2. Prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować aplikanta na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków aplikanta. Koszty badania pokrywa podmiot kierujący na badanie.] <2. Prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować aplikanta na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków aplikanta. Orzeczenie lekarza orzecznika jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Koszty badania pokrywa podmiot kierujący na badanie.>
+- **4)** przystępowanie, w wyznaczonym terminie, do kolokwium oraz sprawdzianów wiedzy przeprowadzanych w czasie aplikacji. [2. Prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować aplikanta na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków aplikanta. Koszty badania pokrywa podmiot kierujący na badanie.] <2. Prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować aplikanta na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków aplikanta. Orzeczenie lekarza orzecznika jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Koszty badania pokrywa podmiot kierujący na badanie.
 
 **Art. 98.**
 
@@ -1546,7 +1546,9 @@ Art. 261–279. (pominięte)
 
 2. Zlecenie do wykonywania innych czynności wystawia się na piśmie i określa w nim zakres czynności, do których asesor został upoważniony.
 
-**Art. 140.** Komornik w każdym stanie sprawy ma obowiązek badania prawidłowości czynności podjętych przez asesora oraz, w przypadku stwierdzenia uchybień, podejmowania niezbędnych czynności – w zakresie przewidzianym przepisami prawa – mających na celu uchylenie lub zmianę wadliwie dokonanych czynności. [Art. 141. Prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować asesora na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków asesora. Koszty badania pokrywa podmiot kierujący na badanie.] <Art. 141. Prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować asesora na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków asesora. Orzeczenie lekarza orzecznika jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Koszty badania pokrywa podmiot kierujący na badanie.>
+**Art. 140.** Komornik w każdym stanie sprawy ma obowiązek badania prawidłowości czynności podjętych przez asesora oraz, w przypadku stwierdzenia uchybień, podejmowania niezbędnych czynności – w zakresie przewidzianym przepisami prawa – mających na celu uchylenie lub zmianę wadliwie dokonanych czynności.
+
+**Art. 141.** Prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować asesora na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków asesora. Orzeczenie lekarza orzecznika jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Koszty badania pokrywa podmiot kierujący na badanie.
 
 **Art. 142.**
 
@@ -2781,6 +2783,8 @@ Art. 261–279. (pominięte)
 8. Kontrolę wykonania kary zakazu przyjmowania spraw z wyboru wierzyciela sprawuje prezes właściwego sądu rejonowego.
 
 #### Rozdział 12 Zmiany w przepisach
+
+**Art. 261–279.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i dostosowujące
 

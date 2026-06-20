@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki oraz niektórych innych ustaw
+# Ustawa z dnia 21 kwietnia 2017 r. o zmianie ustawy o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki oraz niektórych innych ustaw
 
 *USTAWA z dnia 21 kwietnia 2017 r.*
 

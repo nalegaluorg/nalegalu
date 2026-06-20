@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe
+# Ustawa z dnia 5 września 2008 r. o zmianie ustawy o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe
 
 *USTAWA z dnia 5 września 2008 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 11 maja 2012 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 11 maja 2012 r.*
 
@@ -561,7 +561,7 @@ source: pdf
 
 3. Podstawą wymiaru składki, o której mowa w ust. 1, jest kwota świadczenia pielęgnacyjnego obowiązująca w dniu opłacenia składki.
 
-**Art. 20.** Do dnia 31 grudnia 2013 r. minister właściwy do spraw pracy przygotuje program na zasadach określonych w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712 i Nr 157, poz. 1241 oraz z 2011 r. Nr 279, poz. 1644), dotyczący wspierania zatrudnienia i aktywizacji zawodowej osób powyżej 60 roku życia oraz wspierania równości płci na rynku pracy. [Art. 21. 1. Rada Ministrów dokonuje przeglądu funkcjonowania systemu emerytalnego po wejściu w życie ustawy i przedkłada Sejmowi informację o skutkach jej obowiązywania nie rzadziej niż co 4 lata. 2. Pierwszego przeglądu funkcjonowania systemu emerytalnego po wejściu w życie ustawy i przedłożenia Sejmowi informacji o skutkach jej obowiązywania Rada Ministrów dokona nie później niż do dnia 31 grudnia 2016 r.]
+**Art. 20.** Do dnia 31 grudnia 2013 r. minister właściwy do spraw pracy przygotuje program na zasadach określonych w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712 i Nr 157, poz. 1241 oraz z 2011 r. Nr 279, poz. 1644), dotyczący wspierania zatrudnienia i aktywizacji zawodowej osób powyżej 60 roku życia oraz wspierania równości płci na rynku pracy.
 
 **Art. 22.** Ustawa wchodzi w życie z dniem 1 stycznia 2013 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# z dnia 25 maja 1998 r.
+# Wyrok Trybunału Konstytucyjnego z dnia 25 maja 1998 r. - sygn. akt U. 19/97.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o sposobie obliczania wartości rocznego produktu krajowego brutto
+# Ustawa z dnia 7 maja 2020 r. o zmianie ustawy o sposobie obliczania wartości rocznego produktu krajowego brutto
 
 *USTAWA z dnia 7 maja 2020 r.*
 

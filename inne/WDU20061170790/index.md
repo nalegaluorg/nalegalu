@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o diagnostyce laboratoryjnej oraz ustawy o zawodach lekarza i lekarza dentysty
+# Ustawa z dnia 23 czerwca 2006 r. o zmianie ustawy o diagnostyce laboratoryjnej oraz ustawy o zawodach lekarz i lekarza dentysty
 
 *USTAWA z dnia 23 czerwca 2006 r.*
 

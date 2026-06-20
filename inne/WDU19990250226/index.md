@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie bezpieczeństwa i higieny pracy przy uboju zwierząt i przetwórstwie mięsa.
+# Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 10 marca 1999 r. w sprawie bezpieczeństwa i higieny pracy przy uboju zwierząt i przetwórstwie mięsa.
 
 | Pole | Wartość |
 |---|---|

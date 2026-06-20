@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Sądzie Najwyższym
+# Ustawa z dnia 30 marca 2021 r. o zmianie ustawy o Sądzie Najwyższym
 
 *USTAWA z dnia 30 marca 2021 r.*
 

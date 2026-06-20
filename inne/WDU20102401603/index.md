@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
+# Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
 
 *USTAWA z dnia 3 grudnia 2010 r.*
 

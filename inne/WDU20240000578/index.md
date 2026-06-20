@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie
 
 | Pole | Wartość |
 |---|---|
@@ -29,7 +29,6 @@ source: pdf
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 52–57 ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie (Dz. U. poz. 1551), które stanowią: „Art. 52. W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, 1163 i 1243) w art. 26 w ust. 1 w pkt 9 w lit. d dodaje się przecinek i lit. e w brzmieniu: „e) określone w art. 7 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie (Dz. U.
 poz. 1551)”.
-Art. 52–57. (pominięte)
 
 **Art. 53.** W ustawie z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe Spółki Skarbu Państwa (Dz. U. z 2020 r. poz. 16) w art. 7 w pkt 2 w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie (Dz. U. poz. 1551).”.
 
@@ -695,6 +694,8 @@ Art. 52–57. (pominięte)
 **Art. 51.** Wojewoda Mazowiecki jest organem egzekucyjnym prowadzącym egzekucję obowiązków o charakterze niepieniężnym wynikających z decyzji, o których mowa w art. 16 ust. 1, art. 28 ust. 1, art. 32 ust. 1 oraz art. 43 ust. 3.
 
 #### Rozdział 7 Przepisy zmieniające i przepis końcowy
+
+**Art. 52–57.** (pominięte)
 
 **Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

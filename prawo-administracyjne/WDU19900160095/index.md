@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o samorządzie gminnym
+# Ustawa z dnia 8 marca 1990 r. o samorządzie gminnym
 
 *USTAWA z dnia 8 marca 1990 r.*
 
@@ -122,7 +122,11 @@ source: pdf
 
 2. Do czasu połączenia gmin lub utworzenia nowej gminy zadaniem pełnomocnika, o którym mowa w ust. 1, jest przygotowanie organizacyjne i prawne gminy do wykonywania zadań publicznych, w tym przygotowanie projektu uchwały budżetowej gminy w trybie i na zasadach określonych w przepisach o finansach publicznych.
 
-3. Z dniem połączenia gmin lub utworzenia nowej gminy pełnomocnik, o którym mowa w ust. 1, przejmuje wykonywanie zadań i kompetencji ich organów do dnia wyboru nowych organów gminy, a w przypadku, o którym mowa w art. 390a § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2025 r. poz. 365 i 1792 oraz z 2026 r. poz. 178) – do dnia pierwszej sesji rady gminy zwołanej w trybie art. 20 ust. 2ba. Art. 4ea. 1. Gmina powstała w wyniku połączenia gmin wstępuje we wszystkie prawa i obowiązki połączonych gmin, w tym prawa i obowiązki wynikające z zezwoleń, koncesji oraz innych aktów administracyjnych.
+3. Z dniem połączenia gmin lub utworzenia nowej gminy pełnomocnik, o którym mowa w ust. 1, przejmuje wykonywanie zadań i kompetencji ich organów do dnia wyboru nowych organów gminy, a w przypadku, o którym mowa w art. 390a § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2025 r. poz. 365 i 1792 oraz z 2026 r. poz. 178) – do dnia pierwszej sesji rady gminy zwołanej w trybie art. 20 ust. 2ba.
+
+**Art. 4ea.**
+
+1. Gmina powstała w wyniku połączenia gmin wstępuje we wszystkie prawa i obowiązki połączonych gmin, w tym prawa i obowiązki wynikające z zezwoleń, koncesji oraz innych aktów administracyjnych.
 
 2. Organy gminy powstałej w wyniku połączenia gmin stają się organami właściwymi lub stronami wszczętych i niezakończonych postępowań administracyjnych i sądowych.
 
@@ -130,7 +134,11 @@ source: pdf
 
 4. W przypadku gdy rozporządzenie w sprawie połączenia gmin zostało wydane na wniosek poparty przez wszystkie zainteresowane rady gmin, gminy te zawierają porozumienie, o którym mowa w art. 44 pkt 2.
 
-5. Akty prawa miejscowego ustanowione przez organy gmin przed połączeniem gmin stają się aktami prawa miejscowego gminy powstałej w wyniku połączenia gmin, obowiązującymi na obszarze działania organów, które je ustanowiły, do dnia wejścia w życie nowych aktów prawa miejscowego ustanowionych przez organ gminy powstałej w wyniku połączenia gmin, jednak niedłużej niż przez okres 3 lat od dnia połączenia. Art. 4eb. 1. W przypadku zmiany granic gmin polegającej na wyłączeniu części obszaru gminy i jego włączeniu do sąsiedniej gminy, gmina, do której został włączony ten obszar, wstępuje we wszystkie prawa i obowiązki gminy na tym obszarze, w tym prawa i obowiązki wynikające z zezwoleń, koncesji oraz innych aktów administracyjnych.
+5. Akty prawa miejscowego ustanowione przez organy gmin przed połączeniem gmin stają się aktami prawa miejscowego gminy powstałej w wyniku połączenia gmin, obowiązującymi na obszarze działania organów, które je ustanowiły, do dnia wejścia w życie nowych aktów prawa miejscowego ustanowionych przez organ gminy powstałej w wyniku połączenia gmin, jednak niedłużej niż przez okres 3 lat od dnia połączenia.
+
+**Art. 4eb.**
+
+1. W przypadku zmiany granic gmin polegającej na wyłączeniu części obszaru gminy i jego włączeniu do sąsiedniej gminy, gmina, do której został włączony ten obszar, wstępuje we wszystkie prawa i obowiązki gminy na tym obszarze, w tym prawa i obowiązki wynikające z zezwoleń, koncesji oraz innych aktów administracyjnych.
 
 2. Akty prawa miejscowego z zakresu planowania i zagospodarowania przestrzennego ustanowione przez organ gminy przed zmianą granic:
 
@@ -741,7 +749,11 @@ source: pdf
 
 5. Radni nie mogą posiadać pakietu większego niż 10 % udziałów lub akcji w spółkach prawa handlowego z udziałem gminnych osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby. Udziały lub akcje przekraczające ten pakiet powinny być zbyte przez radnego przed pierwszą sesją rady gminy, a w razie niezbycia ich nie uczestniczą one przez okres sprawowania mandatu i dwóch lat po jego wygaśnięciu w wykonywaniu przysługujących im uprawnień (prawa głosu, prawa do dywidendy, prawa do podziału majątku, prawa poboru).
 
-6. (uchylony) Art. 24fa. 1. Wójtowie, zastępcy wójtów, radni, małżonkowie wójtów, zastępców wójtów, radnych, a także osoby pozostające we wspólnym pożyciu z wójtami, zastępcami wójtów, radnymi, nie mogą:
+6. (uchylony)
+
+**Art. 24fa.**
+
+1. Wójtowie, zastępcy wójtów, radni, małżonkowie wójtów, zastępców wójtów, radnych, a także osoby pozostające we wspólnym pożyciu z wójtami, zastępcami wójtów, radnymi, nie mogą:
 
 - **1)** zawierać umów najmu lokali mieszkalnych stanowiących mieszkaniowy zasób gminy, w której wójt lub zastępca wójta pełni funkcję lub radny uzyskał mandat, ani umów najmu lokali mieszkalnych utworzonych w wyniku realizacji przedsięwzięcia inwestycyjno-budowlanego przez społeczną inicjatywę mieszkaniową, o której mowa w art. 23 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2025 r. poz. 1273 oraz z 2026 r. poz. 39), w której gmina dysponuje ponad 50 % głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu;
 - **2)** nabywać własności lokali mieszkalnych stanowiących mieszkaniowy zasób gminy, w której wójt lub zastępca wójta pełni funkcję lub radny uzyskał mandat, ani własności lokali mieszkalnych utworzonych w wyniku realizacji przedsięwzięcia inwestycyjno-budowlanego przez społeczną inicjatywę mieszkaniową będącą samorządową osobą prawną.
@@ -910,7 +922,11 @@ source: pdf
 
 4. Przed podjęciem uchwały, o której mowa w ust. 3, rada gminy zapoznaje się z opinią regionalnej izby obrachunkowej w sprawie uchwały rady gminy o nieudzieleniu wójtowi absolutorium oraz wysłuchuje wyjaśnień wójta.
 
-5. Uchwałę, o której mowa w ust. 3, rada gminy podejmuje bezwzględną większością głosów ustawowego składu rady, w głosowaniu imiennym. Art. 28aa. 1. Wójt co roku do dnia 31 maja przedstawia radzie gminy raport o stanie gminy.
+5. Uchwałę, o której mowa w ust. 3, rada gminy podejmuje bezwzględną większością głosów ustawowego składu rady, w głosowaniu imiennym.
+
+**Art. 28aa.**
+
+1. Wójt co roku do dnia 31 maja przedstawia radzie gminy raport o stanie gminy.
 
 2. Raport obejmuje podsumowanie działalności wójta w roku poprzednim, w szczególności realizację polityk, programów i strategii, uchwał rady gminy i budżetu obywatelskiego.
 
@@ -1060,7 +1076,9 @@ source: pdf
 
 **Art. 31.** Wójt kieruje bieżącymi sprawami gminy oraz reprezentuje ją na zewnątrz.
 
-**Art. 31a.** Wójt opracowuje plan operacyjny ochrony przed powodzią oraz ogłasza i odwołuje pogotowie i alarm przeciwpowodziowy. Art. 31aa. Wójt wykonuje zadania organu ochrony ludności i obrony cywilnej określone w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej.
+**Art. 31a.** Wójt opracowuje plan operacyjny ochrony przed powodzią oraz ogłasza i odwołuje pogotowie i alarm przeciwpowodziowy.
+
+**Art. 31aa.** Wójt wykonuje zadania organu ochrony ludności i obrony cywilnej określone w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej.
 
 **Art. 31b.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o opiniodawczych zespołach sądowych specjalistów
+# Ustawa z dnia 5 sierpnia 2015 r. o opiniodawczych zespołach sądowych specjalistów
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 
@@ -202,7 +202,9 @@ source: pdf
 - **1)** prawomocnego skazania za przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
 - **2)** prawomocnego orzeczenia ubezwłasnowolnienia częściowego lub całkowitego.
 
-**Art. 18.** W sprawach nieuregulowanych w ustawie do kierownika zespołu i specjalistów stosuje się odpowiednio przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 108, 4, 138, 305 i 357). Art. 19–24. (pominięte)
+**Art. 18.** W sprawach nieuregulowanych w ustawie do kierownika zespołu i specjalistów stosuje się odpowiednio przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 108, 4, 138, 305 i 357).
+
+**Art. 19–24.** (pominięte)
 
 **Art. 25.**
 

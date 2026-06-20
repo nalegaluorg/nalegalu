@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw - Prawo o ustroju sądów powszechnych, o Sądzie Najwyższym, o prokuraturze, o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe
+# Ustawa z dnia 16 października 1991 r. o zmianie ustaw - Prawo o ustroju sądów powszechnych, o Sądzie Najwyższym, o prokuraturze, o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe.
 
 | Pole | Wartość |
 |---|---|

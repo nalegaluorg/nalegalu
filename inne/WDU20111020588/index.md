@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks wyborczy oraz ustawy – Przepisy wprowadzające ustawę – Kodeks wyborczy
+# Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy - Kodeks wyborczy oraz ustawy - Przepisy wprowadzające ustawę - Kodeks wyborczy
 
 *USTAWA z dnia 15 kwietnia 2011 r.*
 

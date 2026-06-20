@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kinematografii oraz niektórych innych ustaw
+# Ustawa z dnia 21 kwietnia 2017 r. o zmianie ustawy o kinematografii oraz niektórych innych ustaw
 
 *USTAWA z dnia 21 kwietnia 2017 r.*
 

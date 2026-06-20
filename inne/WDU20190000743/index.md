@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r.
+# Ustawa z dnia 4 kwietnia 2019 r. o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r.
 
 *USTAWA z dnia 4 kwietnia 2019 r.*
 

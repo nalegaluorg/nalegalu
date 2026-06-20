@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o inwestycjach w zakresie budowy strzelnic realizowanych przez uczelnie
+# Ustawa z dnia 7 lipca 2023 r. o inwestycjach w zakresie budowy strzelnic realizowanych przez uczelnie
 
 *USTAWA z dnia 7 lipca 2023 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji i prywatyzacji oraz ustawy – Przepisy wprowadzające ustawę o finansach publicznych
+# Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy o komercjalizacji i prywatyzacji oraz ustawy - Przepisy wprowadzające ustawę o finansach publicznych
 
 *USTAWA z dnia 29 kwietnia 2010 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie zasad wynagradzania kwalifikacyjnych pracowników Rządowego Centrum Studiów Na podstawie art. 6 ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Rządowym Strategicznych (Dz.U. Nr 106, poz. 495 i z 1998 r. Nr 106, poz.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 2 czerwca 1999 r. zmieniające rozporządzenie w sprawie zasad wynagradzania oraz wymagań kwalifikacyjnych pracowników Rządowego Centrum Studiów Strategicznych.
 
 | Pole | Wartość |
 |---|---|

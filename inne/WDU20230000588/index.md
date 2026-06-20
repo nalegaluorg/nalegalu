@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych
+# Ustawa z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych
 
 *USTAWA z dnia 9 marca 2023 r.*
 

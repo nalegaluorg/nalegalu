@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw - Prawo o ustroju sądów powszechnych, o prokuraturze, o Sądzie Najwyższym, o Trybunale Konstytucyjnym, o Krajowej Radzie Sądownictwa i o powołaniu sądów apelacyjnych
+# Ustawa z dnia 15 maja 1993 r. o zmianie ustaw - Prawo o ustroju sądów powszechnych, o prokuraturze, o Sądzie Najwyższym, o Trybunale Konstytucyjnym, o Krajowej Radzie Sądownictwa i o powołaniu sądów apelacyjnych.
 
 | Pole | Wartość |
 |---|---|

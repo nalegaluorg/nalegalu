@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządowych kolegiach odwoławczych, ustawy o działach administracji rządowej oraz ustawy o administracji rządowej w województwie
+# Ustawa z dnia 25 listopada 2004 r. o zmianie ustawy o samorządowych kolegiach odwoławczych, ustawy o działach administracji rządowej oraz ustawy o administracji rządowej w województwie
 
 *USTAWA z dnia 25 listopada 2004 r.*
 

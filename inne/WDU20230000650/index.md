@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowej Sieci Onkologicznej
+# Ustawa z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej
 
 *USTAWA z dnia 9 marca 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-04-05 |
 | Ostatnia zmiana | 2025-08-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000650) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/650/text.pdf) |
-
-Art. 41–45. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -647,6 +645,8 @@ Art. 41–45. (pominięte)
 7. Dane, o których mowa w przepisach wydanych na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, dotyczące diagnostyki onkologicznej lub leczenia onkologicznego przekazywane przez świadczeniodawców Funduszowi na podstawie karty diagnostyki i leczenia onkologicznego w przypadku świadczenia zakończonego wydaniem karty diagnostyki i leczenia onkologicznego oraz w przypadku świadczeń z zakresu diagnostyki onkologicznej lub leczenia onkologicznego udzielanych zgodnie z art. 39 są na bieżąco przekazywane do systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w celu weryfikacji uprawnień świadczeniobiorców, którym wydano kartę diagnostyki i leczenia onkologicznego.
 
 #### Rozdział 7 Zmiany w przepisach
+
+**Art. 41–45.** (pominięte)
 
 #### Rozdział 8 Przepisy dostosowujące i przejściowe oraz przepis końcowy
 

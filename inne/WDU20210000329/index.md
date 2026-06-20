@@ -98,6 +98,5 @@ Domowe koktajle oraz Alkohol.
 smoothies (bez cukru).
 Lekkie napary, słabe herbaty, herbatki owocowe.
 III. Wzór formularza weryfikacji organoleptycznej podstawowych parametrów
-
-##### Oddział …………… data ……………… sprawdził: …………… (wyznaczona osoba wskazana przez świadczeniodawcę) śniadanie II śniadanie obiad podwieczorek kolacja
+Oddział …………… data ……………… sprawdził: …………… (wyznaczona osoba wskazana przez świadczeniodawcę) śniadanie II śniadanie obiad podwieczorek kolacja
 

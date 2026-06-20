@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o odznakach i mundurach
+# Ustawa z dnia 21 grudnia 1978 r. o odznakach i mundurach.
 
 *USTAWA z dnia 21 grudnia 1978 r.*
 

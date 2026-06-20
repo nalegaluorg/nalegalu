@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu przedsiębiorców dotkniętych skutkami powodzi z 2010 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu przedsiębiorców dotkniętych skutkami powodzi z 2010 r.
 
 | Pole | Wartość |
 |---|---|

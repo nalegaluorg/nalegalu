@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zatrudnianiu pracowników tymczasowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zatrudnianiu pracowników tymczasowych
 
 | Pole | Wartość |
 |---|---|

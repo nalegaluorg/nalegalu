@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o rewitalizacji
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rewitalizacji
 
 | Pole | Wartość |
 |---|---|
@@ -56,7 +56,6 @@ poz. 28), który stanowi: „Art. 39. Ustawa wchodzi w życie z dniem 1 marca 20
 9. Do dnia 31 grudnia 2025 r. ilekroć w ustawie zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą jest mowa o ponowieniu czynności polegającej na udostępnieniu dokumentu w Rejestrze Urbanistycznym, należy przez to rozumieć udostępnienie, o którym mowa w ust. 2–5.” „Art. 64. 1. Do dnia wejścia w życie planu ogólnego gminy w danej gminie do opłaty skarbowej stosuje się przepisy ustawy zmienianej w art. 26 w brzmieniu dotychczasowym.
 2. Do dnia wejścia w życie planu ogólnego gminy w danej gminie, w przepisach ustaw zmienianych niniejszą ustawą, z wyjątkiem ustawy zmienianej w art. 26, odnoszących się do planu ogólnego gminy, przez plan ogólny gminy należy rozumieć studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, z wyjątkiem spraw uchwalania planów ogólnych gminy.
 3. Do dnia utraty mocy studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy w danej gminie, w przepisach ustawy zmienianej w art. 15, art. 19 oraz w art. 12 ustawy zmienianej w art. 37 odnoszących się do strategii rozwoju gminy lub strategii rozwoju ponadlokalnego, przez strategię rozwoju gminy lub strategię rozwoju ponadlokalnego należy rozumieć studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy.
-Art. 37–51. (pominięte)
 
 **Art. 65.**
 
@@ -472,6 +471,8 @@ Art. 37–51. (pominięte)
 6. (uchylony)
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 37–51.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

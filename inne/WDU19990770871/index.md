@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie wzoru wniosku o dokonanie zwrotu lub umorzenia należności celnych oraz dokumentów, które należy do niego dołączyć.
+# Rozporządzenie Ministra Finansów z dnia 15 września 1999 r. w sprawie wzoru wniosku o dokonanie zwrotu lub umorzenia należności celnych oraz dokumentów, które należy do niego dołączyć.
 
 | Pole | Wartość |
 |---|---|

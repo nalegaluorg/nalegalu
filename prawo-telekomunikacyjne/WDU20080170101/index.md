@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym
+# Ustawa z dnia 11 stycznia 2008 r. o zmianie ustawy - Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym
 
 *USTAWA z dnia 11 stycznia 2008 r.*
 

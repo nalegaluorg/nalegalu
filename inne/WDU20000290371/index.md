@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia wykroczeń, za które funkcjonariusze organów administracji żeglugi śródlądowej są upoważnieni do nakładania grzywien w drodze mandatu karnego, oraz zasad i sposobu wydawania upoważnień.
+# Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 10 kwietnia 2000 r. w sprawie określenia wykroczeń, za które funkcjonariusze organów administracji żeglugi śródlądowej są upoważnieni do nakładania grzywien w drodze mandatu karnego, oraz zasad i sposobu wydawania upoważnień.
 
 *ROZPORZĄDZENIE MINISTRA TRANSPORTU I GOSPODARKI MORSKIEJ z dnia 10 kwietnia 2000 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw
+# Ustawa z dnia 10 września 2015 r. o zmianie ustawy - Ordynacja podatkowa oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 września 2015 r.*
 

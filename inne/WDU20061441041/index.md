@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o grobach i cmentarzach wojennych
+# Ustawa z dnia 23 czerwca 2006 r. o zmianie ustawy o grobach i cmentarzach wojennych
 
 *USTAWA z dnia 23 czerwca 2006 r.*
 

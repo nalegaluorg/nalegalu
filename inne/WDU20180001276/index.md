@@ -789,7 +789,7 @@ o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych usta
 - **2)** instalacji, dla których uzyskano pozwolenie na użytkowanie – jako ostatni prowadził eksploatację danej elektrowni wiatrowej.”;
 - **4)** w art. 81 w ust. 1 po pkt 2a dodaje się pkt 2b w brzmieniu: „2b) nadzór nad użytkowaniem elektrowni wiatrowych w zakresie oceny stanu technicznego tych elektrowni;”;
 - **5)** w art. 83 ust. 3 otrzymuje brzmienie: „3. Do właściwości wojewódzkiego inspektora nadzoru budowlanego, jako organu pierwszej instancji, należą zadania i kompetencje określone w ust. 1, w sprawach, o których mowa w art. 82 ust. 3 i 4, oraz zadania i kompetencje określone w art. 7b ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych.”;
-- **6)** w załączniku do ustawy wiersz „Kategoria XXIX – wolno stojące kominy i maszty oraz elektrownie wiatrowe” otrzymuje brzmienie: Współczynnik wielkości obiektu (w) (wysokość w m) ≤ 20 > 20–50 > 50–100 > 100 Kategoria XXIX – wolno 10,0 1,0 1,5 2,0 2,5 stojące kominy i maszty oraz części budowlane elektrowni wiatrowych
+- **6)** w załączniku do ustawy wiersz „Kategoria XXIX – wolno stojące kominy i maszty oraz elektrownie wiatrowe” otrzymuje brzmienie: Współczynnik wielkości obiektu (w) (wysokość w m) ≤ 20
 
 **Art. 3.** W ustawie z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. poz. 961) wprowadza się następujące zmiany:
 

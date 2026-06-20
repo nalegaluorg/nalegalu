@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej
+# Ustawa z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 13 czerwca 2003 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2003-07-21 |
 | Ostatnia zmiana | 2026-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031281176) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1176/text.pdf) |
-
-Art. 127–136. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1620,7 +1618,11 @@ Art. 127–136. (pominięte)
 
 5. Szef Urzędu zawiadamia właściwy organ państwa członkowskiego, z którego terytorium miała nastąpić relokacja, że cudzoziemiec nie został zakwalifikowany do relokacji.
 
-6. Szef Urzędu nie występuje z wnioskiem, o którym mowa w ust. 1, jeżeli cudzoziemiec nie ukończył 13. roku życia. Art. 86fa. 1. W przypadku gdy Rzeczpospolita Polska jest odpowiedzialna za przewóz przesiedlanych lub relokowanych cudzoziemców, Komendant Główny Straży Granicznej zapewnia cudzoziemcowi podczas jego przesiedlenia lub relokacji transport do granicy.
+6. Szef Urzędu nie występuje z wnioskiem, o którym mowa w ust. 1, jeżeli cudzoziemiec nie ukończył 13. roku życia.
+
+**Art. 86fa.**
+
+1. W przypadku gdy Rzeczpospolita Polska jest odpowiedzialna za przewóz przesiedlanych lub relokowanych cudzoziemców, Komendant Główny Straży Granicznej zapewnia cudzoziemcowi podczas jego przesiedlenia lub relokacji transport do granicy.
 
 2. W przypadku gdy cudzoziemiec, który został przesiedlony lub relokowany, złoży wniosek o udzielenie ochrony międzynarodowej, organ Straży Granicznej zapewnia mu transport do ośrodka recepcyjnego.
 
@@ -1746,13 +1748,19 @@ Art. 127–136. (pominięte)
 
 5. Do postępowania w sprawie odwołania od decyzji, o której mowa w ust. 3, stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46) o postępowaniu w sprawie zażalenia na postanowienie w przedmiocie środka zapobiegawczego, przy czym funkcję oskarżyciela publicznego wykonuje Szef Urzędu.
 
-**Art. 89c.** Wnioskodawcy lub osobie, w której imieniu wnioskodawca występuje, zwolnionym ze strzeżonego ośrodka lub z aresztu dla cudzoziemców na podstawie decyzji, o której mowa w art. 89b ust. 1 i 2, albo nieumieszczonym w strzeżonym ośrodku lub areszcie dla cudzoziemców z przyczyn określonych w art. 400 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, Szef Urzędu może, w drodze decyzji, nakazać przebywanie w określonym miejscu pobytu lub określonej miejscowości, których bez jego zezwolenia nie mogą opuszczać, do dnia, w którym decyzja w postępowaniu w sprawie nadania statusu uchodźcy stanie się ostateczna, oraz zobowiązać do zgłaszania się w określonych odstępach czasu do organu wskazanego w decyzji. Art. 89ca. Organ Straży Granicznej przekazuje wnioskodawcy lub osobie, w imieniu której wnioskodawca występuje, w języku dla nich zrozumiałym, informację o adresie ośrodka recepcyjnego, w którym mają się stawić w terminie 2 dni od dnia zwolnienia ze strzeżonego ośrodka lub aresztu dla cudzoziemców, gdy postępowanie w sprawie udzielenia ochrony międzynarodowej nie zostało zakończone decyzją ostateczną. Art. 89cb. W przypadku gdy osoba zwalniana ze strzeżonego ośrodka lub aresztu dla cudzoziemców, której dotyczy wniosek o udzielenie ochrony międzynarodowej, jest osobą niepełnosprawną, w podeszłym wieku, samotnie wychowującą dziecko lub kobietą ciężarną, organ Straży Granicznej właściwy ze względu na miejsce pobytu tej osoby zapewnia jej transport do ośrodka recepcyjnego oraz, w uzasadnionych przypadkach, wyżywienie podczas tego transportu.
+**Art. 89c.** Wnioskodawcy lub osobie, w której imieniu wnioskodawca występuje, zwolnionym ze strzeżonego ośrodka lub z aresztu dla cudzoziemców na podstawie decyzji, o której mowa w art. 89b ust. 1 i 2, albo nieumieszczonym w strzeżonym ośrodku lub areszcie dla cudzoziemców z przyczyn określonych w art. 400 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, Szef Urzędu może, w drodze decyzji, nakazać przebywanie w określonym miejscu pobytu lub określonej miejscowości, których bez jego zezwolenia nie mogą opuszczać, do dnia, w którym decyzja w postępowaniu w sprawie nadania statusu uchodźcy stanie się ostateczna, oraz zobowiązać do zgłaszania się w określonych odstępach czasu do organu wskazanego w decyzji.
+
+**Art. 89ca.** Organ Straży Granicznej przekazuje wnioskodawcy lub osobie, w imieniu której wnioskodawca występuje, w języku dla nich zrozumiałym, informację o adresie ośrodka recepcyjnego, w którym mają się stawić w terminie 2 dni od dnia zwolnienia ze strzeżonego ośrodka lub aresztu dla cudzoziemców, gdy postępowanie w sprawie udzielenia ochrony międzynarodowej nie zostało zakończone decyzją ostateczną.
+
+**Art. 89cb.** W przypadku gdy osoba zwalniana ze strzeżonego ośrodka lub aresztu dla cudzoziemców, której dotyczy wniosek o udzielenie ochrony międzynarodowej, jest osobą niepełnosprawną, w podeszłym wieku, samotnie wychowującą dziecko lub kobietą ciężarną, organ Straży Granicznej właściwy ze względu na miejsce pobytu tej osoby zapewnia jej transport do ośrodka recepcyjnego oraz, w uzasadnionych przypadkach, wyżywienie podczas tego transportu.
 
 #### Rozdział 7 Prawa i obowiązki cudzoziemca, który posiada status uchodźcy lub korzysta z ochrony uzupełniającej
 
 **Art. 89d.** Szef Urzędu informuje niezwłocznie na piśmie cudzoziemca, któremu nadano status uchodźcy lub udzielono ochrony uzupełniającej, w języku dla niego zrozumiałym, o jego prawach i obowiązkach.
 
-**Art. 89e.** Cudzoziemcowi, który posiada status uchodźcy lub korzysta z ochrony uzupełniającej, udziela się pomocy w celu wspierania procesu jego integracji ze społeczeństwem, w trybie i na zasadach określonych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej. Art. 89ea. W przypadku gdy status uchodźcy nadano małoletniemu bez opieki lub udzielono mu ochrony uzupełniającej, Szef Urzędu, uwzględniając zakaz określony w art. 9, podejmuje działania mające na celu odnalezienie krewnych tego małoletniego, a w szczególności:
+**Art. 89e.** Cudzoziemcowi, który posiada status uchodźcy lub korzysta z ochrony uzupełniającej, udziela się pomocy w celu wspierania procesu jego integracji ze społeczeństwem, w trybie i na zasadach określonych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej.
+
+**Art. 89ea.** W przypadku gdy status uchodźcy nadano małoletniemu bez opieki lub udzielono mu ochrony uzupełniającej, Szef Urzędu, uwzględniając zakaz określony w art. 9, podejmuje działania mające na celu odnalezienie krewnych tego małoletniego, a w szczególności:
 
 - **1)** informuje małoletniego o możliwości poszukiwania jego krewnych za pośrednictwem międzynarodowych organizacji pozarządowych;
 - **2)** udziela małoletniemu pomocy w nawiązaniu kontaktu z międzynarodowymi organizacjami pozarządowymi;
@@ -1782,7 +1790,13 @@ Art. 127–136. (pominięte)
 
 5. W dokumentach podróży przewidzianych w Konwencji Genewskiej wydawanych cudzoziemcom, od których pobranie odcisków linii papilarnych jest fizycznie niemożliwe, nie zamieszcza się obrazu linii papilarnych.
 
-6. Kartę pobytu wydaje się po dostarczeniu przez cudzoziemca 3 fotografii. Art. 89ia. W dokumencie podróży przewidzianym w Konwencji Genewskiej zamieszcza się dane i informacje, o których mowa w załączniku do Konwencji Genewskiej, oraz dane biometryczne. Art. 89ib. 1. Cudzoziemiec odbiera dokument podróży przewidziany w Konwencji Genewskiej osobiście, co potwierdza własnoręcznym podpisem.
+6. Kartę pobytu wydaje się po dostarczeniu przez cudzoziemca 3 fotografii.
+
+**Art. 89ia.** W dokumencie podróży przewidzianym w Konwencji Genewskiej zamieszcza się dane i informacje, o których mowa w załączniku do Konwencji Genewskiej, oraz dane biometryczne.
+
+**Art. 89ib.**
+
+1. Cudzoziemiec odbiera dokument podróży przewidziany w Konwencji Genewskiej osobiście, co potwierdza własnoręcznym podpisem.
 
 2. Dokument podróży przewidziany w Konwencji Genewskiej dla małoletniego może odebrać jeden z rodziców lub opiekunów. Małoletni, który ukończył 13 lat, lub osoba ubezwłasnowolniona, odbierają ten dokument osobiście, w obecności przynajmniej jednego z rodziców lub opiekunów.
 
@@ -1828,7 +1842,11 @@ Art. 127–136. (pominięte)
 
 3. Po wydaniu karty pobytu, jej wymianie lub wydaniu kolejnej karty pobytu Szef Urzędu usuwa w terminie 5 dni roboczych od dnia wydania lub wymiany karty pobytu dane cudzoziemca zarejestrowane w Systemie Wjazdu/Wyjazdu, zwanym dalej „EES”, zgodnie z art. 35 ust. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2226 z dnia 30 listopada 2017 r. ustanawiającego system wjazdu/wyjazdu (EES) w celu rejestrowania danych dotyczących wjazdu i wyjazdu obywateli państw trzecich przekraczających granice zewnętrzne państw członkowskich i danych dotyczących odmowy wjazdu w odniesieniu do takich obywateli oraz określającego warunki dostępu do EES na potrzeby ochrony porządku publicznego i zmieniającego konwencję wykonawczą do układu z Schengen i rozporządzenia (WE) nr 767/2008 i (UE) nr 1077/2011 (Dz. Urz. UE L 327 z
 
-09. 12.2017, str. 20, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2017/2226”. Art. 89na. 1. W przypadku gdy cudzoziemiec:
+09. 12.2017, str. 20, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2017/2226”.
+
+**Art. 89na.**
+
+1. W przypadku gdy cudzoziemiec:
 
 - **1)** nie zwrócił dokumentu podróży przewidzianego w Konwencji Genewskiej, gdy był do tego zobowiązany, lub
 - **2)** zawiadomił o utracie dokumentu podróży przewidzianego w Konwencji Genewskiej – Szef Urzędu umieszcza informacje o takim dokumencie w Systemie Informacyjnym Schengen w celu jego zajęcia.
@@ -1927,9 +1945,17 @@ Art. 127–136. (pominięte)
 
 6. W przypadku gdy Rada zamierza nadać cudzoziemcowi status uchodźcy lub udzielić ochrony uzupełniającej, może zwrócić się do komendanta oddziału Straży Granicznej, komendanta wojewódzkiego Policji, Szefa Agencji Bezpieczeństwa Wewnętrznego, a w razie potrzeby – także do innych organów, o przekazanie informacji, czy wobec wnioskodawcy lub osoby, w imieniu której wnioskodawca występuje, zachodzą okoliczności, o których mowa w art. 19 ust. 1 pkt 3 lub ust. 2 lub art. 20 ust. 1 pkt 2 lub ust. 2 lub 3. Do uzyskiwania informacji przez Radę stosuje się przepisy art. 45 ust. 2–4 i ust. 5.
 
-7. Przewodniczący przekazuje Szefowi Urzędu akta spraw w postępowaniach administracyjnych w celu archiwizacji, nie później niż w terminie 6 miesięcy od dnia zakończenia postępowania. Art. 89za. 1. Przewodniczący, wiceprzewodniczący i członkowie Rady otrzymują wynagrodzenie, a także diety, zwrot kosztów podróży i zakwaterowania na zasadach określonych w przepisach dotyczących wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju, wydanych na podstawie art. 77 § 2 Kodeksu pracy.
+7. Przewodniczący przekazuje Szefowi Urzędu akta spraw w postępowaniach administracyjnych w celu archiwizacji, nie później niż w terminie 6 miesięcy od dnia zakończenia postępowania.
 
-2. Prezes Rady Ministrów określi, w drodze rozporządzenia, wysokość wynagrodzenia przewodniczącego, wiceprzewodniczącego oraz pozostałych członków Rady, uwzględniając ryczałt miesięczny za udział w posiedzeniach Rady, wynagrodzenie za udział w składach orzekających oraz za udział w postępowaniach przed sądem administracyjnym. Wysokość wynagrodzenia uzależnia się od funkcji pełnionych przez członków Rady. Art. 89zb. 1. Obsługę administracyjną i kancelaryjną Rady zapewnia Kancelaria Prezesa Rady Ministrów.
+**Art. 89za.**
+
+1. Przewodniczący, wiceprzewodniczący i członkowie Rady otrzymują wynagrodzenie, a także diety, zwrot kosztów podróży i zakwaterowania na zasadach określonych w przepisach dotyczących wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju, wydanych na podstawie art. 77 § 2 Kodeksu pracy.
+
+2. Prezes Rady Ministrów określi, w drodze rozporządzenia, wysokość wynagrodzenia przewodniczącego, wiceprzewodniczącego oraz pozostałych członków Rady, uwzględniając ryczałt miesięczny za udział w posiedzeniach Rady, wynagrodzenie za udział w składach orzekających oraz za udział w postępowaniach przed sądem administracyjnym. Wysokość wynagrodzenia uzależnia się od funkcji pełnionych przez członków Rady.
+
+**Art. 89zb.**
+
+1. Obsługę administracyjną i kancelaryjną Rady zapewnia Kancelaria Prezesa Rady Ministrów.
 
 2. Działalność Rady jest finansowana z budżetu państwa, z rozdziału dotyczącego Rady do Spraw Uchodźców, z części dotyczącej Kancelarii Prezesa Rady Ministrów.
 
@@ -2695,6 +2721,8 @@ Art. 127–136. (pominięte)
 ### DZIAŁ VI Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
+
+**Art. 127–136.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i końcowe
 

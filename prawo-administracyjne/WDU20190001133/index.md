@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania administracyjnego
+# Ustawa z dnia 16 maja 2019 r. o zmianie ustawy - Kodeks postępowania administracyjnego
 
 *USTAWA z dnia 16 maja 2019 r.*
 

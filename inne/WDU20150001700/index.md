@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ustanowieniu programu wieloletniego „Program ochrony brzegów morskich”
+# Ustawa z dnia 25 września 2015 r. o zmianie ustawy o ustanowieniu programu wieloletniego "Program ochrony brzegów morskich"
 
 *USTAWA z dnia 25 września 2015 r.*
 

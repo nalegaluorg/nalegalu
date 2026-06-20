@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o leśnym materiale rozmnożeniowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 maja 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o leśnym materiale rozmnożeniowym
 
 | Pole | Wartość |
 |---|---|

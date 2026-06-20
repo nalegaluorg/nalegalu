@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wojewódzkich zespołach koordynacji do spraw polityki umiejętności
+# Ustawa z dnia 27 lutego 2026 r. o wojewódzkich zespołach koordynacji do spraw polityki umiejętności
 
 *USTAWA z dnia 27 lutego 2026 r.*
 

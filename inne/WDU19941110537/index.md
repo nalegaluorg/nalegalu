@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych Uznając, że przymusowe zatrudnianie żołnierzy zastępczej służby wojskowej w kopalniach węgla, kamieniołomach, zakładach wydobywania rud uranu i batalionach budowlanych stanowiło szczególny rodzaj represji z przyczyn politycznych, uchwala się, co następuje:
+# Ustawa z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych
 
 *USTAWA z dnia 2 września 1994 r.*
 

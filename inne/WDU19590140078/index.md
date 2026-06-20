@@ -25,7 +25,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19590140078) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1959/78/text.pdf) |
 
 o uwłaszczeniu i o uregulowaniu innych spraw, związanych z reformą rolną i osadnictwem rolnym
-Uregulowanie własności gospodarstw opuszczonych
 
 #### Rozdział 1 Uwłaszczenie dzierżawców
 
@@ -116,7 +115,7 @@ Uregulowanie własności gospodarstw opuszczonych
 
 **Art. 14.** O zwolnieniu od obowiązku uiszczenia ceny nabycia orzeka starosta.
 
-#### Rozdział 4.
+#### Rozdział 4. Uregulowanie własności gospodarstw opuszczonych
 
 **Art. 15.** (uchylony).
 

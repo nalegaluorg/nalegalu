@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz ustawy o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa
+# Ustawa z dnia 26 listopada 2010 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz ustawy o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa
 
 *USTAWA z dnia 26 listopada 2010 r.*
 

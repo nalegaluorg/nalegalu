@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o niektórych zawodach medycznych
+# Ustawa z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych
 
 *USTAWA z dnia 17 sierpnia 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-09-25 |
 | Ostatnia zmiana | 2025-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001972) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1972/text.pdf) |
-
-Art. 86–96. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1166,6 +1164,8 @@ Art. 86–96. (pominięte)
 **Art. 85.** Orzekanie w sprawach o czyny, o których mowa w art. 84, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
 
 #### Rozdział 7 Zmiany w przepisach
+
+**Art. 86–96.** (pominięte)
 
 #### Rozdział 8 Przepisy dostosowujące, przejściowe i końcowe
 

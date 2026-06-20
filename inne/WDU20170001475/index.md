@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2017 r. o zmianie ustawy o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 lipca 2017 r.*
 

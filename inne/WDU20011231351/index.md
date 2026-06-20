@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami
+# Ustawa z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami.
 
 *USTAWA z dnia 24 sierpnia 2001 r.*
 

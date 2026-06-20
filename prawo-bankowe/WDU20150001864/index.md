@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw
+# Ustawa z dnia 9 października 2015 r. o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 października 2015 r.*
 
@@ -58,11 +58,23 @@ source: pdf
 - **3)** rachunkach posiadacza rachunku bankowego prowadzonych w spółdzielczej kasie oszczędnościowo-kredytowej, w tym rachunkach wspólnych – bez wskazania danych współposiadacza;
 - **4)** umowach rachunków posiadacza rachunku bankowego prowadzonych w spółdzielczej kasie oszczędnościowo-kredytowej rozwiązanych albo wygasłych z przyczyn, o których mowa w art. 13a ust. 1–3 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2013 r. poz. 1450, z późn. zm. ).
 
-2. W zbiorczej informacji wskazuje się podmiot, który prowadzi albo prowadził rachunek, numery rachunków wynikające z umowy rachunku oraz informację, czy rachunki są nadal prowadzone. Art. 92bb. 1. Banki są obowiązane prowadzić centralną informację o rachunkach, zwaną dalej „Centralną informacją”. Banki mogą utworzyć w tym celu spółkę handlową.
+2. W zbiorczej informacji wskazuje się podmiot, który prowadzi albo prowadził rachunek, numery rachunków wynikające z umowy rachunku oraz informację, czy rachunki są nadal prowadzone.
 
-2. Centralną informację może prowadzić izba rozliczeniowa, o której mowa w art. 67. Art. 92bc. 1. Zbiorczą informację bank jest obowiązany pozyskać z Centralnej informacji niezwłocznie po otrzymaniu pisemnego żądania od osoby, o której mowa w art. 92ba ust. 1, i zweryfikowaniu jej tytułu prawnego. Zbiorczą informację bank jest obowiązany dostarczyć osobie, która wystąpiła z żądaniem, niezwłocznie po jej pozyskaniu z Centralnej informacji.
+**Art. 92bb.**
 
-2. Zbiorcza informacja może być dostarczona odpłatnie, przy czym opłata nie może być wyższa niż koszt wygenerowania takiej informacji. Art. 92bd. 1. Bank prowadzący rachunek bankowy jest obowiązany nieodpłatnie udzielić informacji, o których mowa w art. 92ba ust. 1, Centralnej informacji. Bank spółdzielczy może udzielić informacji za pośrednictwem banku zrzeszającego.
+1. Banki są obowiązane prowadzić centralną informację o rachunkach, zwaną dalej „Centralną informacją”. Banki mogą utworzyć w tym celu spółkę handlową.
+
+2. Centralną informację może prowadzić izba rozliczeniowa, o której mowa w art. 67.
+
+**Art. 92bc.**
+
+1. Zbiorczą informację bank jest obowiązany pozyskać z Centralnej informacji niezwłocznie po otrzymaniu pisemnego żądania od osoby, o której mowa w art. 92ba ust. 1, i zweryfikowaniu jej tytułu prawnego. Zbiorczą informację bank jest obowiązany dostarczyć osobie, która wystąpiła z żądaniem, niezwłocznie po jej pozyskaniu z Centralnej informacji.
+
+2. Zbiorcza informacja może być dostarczona odpłatnie, przy czym opłata nie może być wyższa niż koszt wygenerowania takiej informacji.
+
+**Art. 92bd.**
+
+1. Bank prowadzący rachunek bankowy jest obowiązany nieodpłatnie udzielić informacji, o których mowa w art. 92ba ust. 1, Centralnej informacji. Bank spółdzielczy może udzielić informacji za pośrednictwem banku zrzeszającego.
 
 2. Informacji, o których mowa w art. 92ba ust. 1, bank udziela niezwłocznie, ale nie później niż w terminie 3 dni roboczych od dnia otrzymania zapytania od Centralnej informacji.”;
 

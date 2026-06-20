@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 września 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|

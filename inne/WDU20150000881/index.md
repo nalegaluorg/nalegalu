@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych
+# Ustawa z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych
 
 *USTAWA z dnia 15 maja 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2015-06-25 |
 | Ostatnia zmiana | 2026-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000881) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/881/text.pdf) |
-
-Art. 54–59. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1167,6 +1165,8 @@ Art. 54–59. (pominięte)
 **Art. 53.** Kto, nie będąc do tego uprawnionym, wydaje certyfikat dla personelu lub certyfikat dla przedsiębiorców, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
+
+**Art. 54–59.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i końcowe
 

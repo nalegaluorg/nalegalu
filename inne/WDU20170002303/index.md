@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego
+# Ustawa z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego
 
 *USTAWA z dnia 9 listopada 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2017-12-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2303/text.pdf) |
-
-Art. 16–18. (pominięte)
 
 #### Rozdział I Przepisy ogólne
 
@@ -258,6 +256,8 @@ Art. 16–18. (pominięte)
 2. Minister określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania oraz pozbawiania stypendiów, o których mowa w ust. 1, a także rodzaje i wysokość stypendiów, uwzględniając potrzebę wsparcia działań najpełniej służących realizacji celów Instytutu.
 
 #### Rozdział IV Zmiany w przepisach
+
+**Art. 16–18.** (pominięte)
 
 #### Rozdział V Przepisy dostosowujące, przejściowe i końcowe
 

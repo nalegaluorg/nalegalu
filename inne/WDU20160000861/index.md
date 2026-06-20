@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o europejskiej inicjatywie obywatelskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 czerwca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o europejskiej inicjatywie obywatelskiej
 
 | Pole | Wartość |
 |---|---|

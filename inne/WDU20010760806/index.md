@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o narodowym zasobie archiwalnym i archiwach
+# Ustawa z dnia 8 czerwca 2001 r. o zmianie ustawy o narodowym zasobie archiwalnym i archiwach.
 
 *USTAWA z dnia 8 czerwca 2001 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przedsiębiorstwach mieszanych
+# Ustawa z dnia 10 lipca 1985 r. o przedsiębiorstwach mieszanych.
 
 *USTAWA z dnia 10 lipca 1985 r.*
 

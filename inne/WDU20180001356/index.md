@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
+# Ustawa z dnia 6 czerwca 2018 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
 
 *USTAWA z dnia 6 czerwca 2018 r.*
 
@@ -64,14 +64,21 @@ source: pdf
 
 3. Zarządzanie Funduszem powierza się NFOŚiGW.
 
-4. Bank Gospodarstwa Krajowego, zwany dalej „BGK”, prowadzi obsługę bankową Funduszu oraz świadczy na rzecz tego Funduszu usługi konsultacyjno-doradcze w sprawach finansowych. Art. 28za. Do zadań dysponenta Funduszu należy w szczególności:
+4. Bank Gospodarstwa Krajowego, zwany dalej „BGK”, prowadzi obsługę bankową Funduszu oraz świadczy na rzecz tego Funduszu usługi konsultacyjno-doradcze w sprawach finansowych.
+
+**Art. 28za.** Do zadań dysponenta Funduszu należy w szczególności:
 
 - **1)** nadzór nad wykonywaniem przez NFOŚiGW zadań, o których mowa w art. 28zb ust. 1;
 - **2)** sporządzanie rocznego planu finansowego Funduszu;
 - **3)** zatwierdzanie przedłożonego przez NFOŚiGW sprawozdania z wykonania rocznego planu finansowego Funduszu;
 - **4)** wskazywanie trybu wyboru projektów do wsparcia;
 - **5)** pisemne zatwierdzanie projektów do wsparcia;
-- **6)** prowadzenie działalności informacyjnej i promocyjnej w zakresie zadań realizowanych przez Fundusz. Art. 28zb. 1. Do zadań NFOŚiGW w zakresie zarządzania Funduszem należy:
+- **6)** prowadzenie działalności informacyjnej i promocyjnej w zakresie zadań realizowanych przez Fundusz.
+
+**Art. 28zb.**
+
+1. Do zadań NFOŚiGW w zakresie zarządzania Funduszem należy:
+
 - **1)** przeprowadzanie postępowania w zakresie wyboru projektów do wsparcia w trybie konkursowym albo pozakonkursowym;
 - **2)** rekomendowanie dysponentowi Funduszu projektów do wsparcia;
 - **3)** zawieranie umów o wsparcie oraz wykonywanie praw i obowiązków wynikających z tych umów, z wyłączeniem umów o wsparcie udzielane w formie, o której mowa w art. 28ze ust. 3 pkt 3;
@@ -83,9 +90,17 @@ source: pdf
 
 2. Szczegółowe zasady współpracy NFOŚiGW oraz dysponenta Funduszu w zakresie zarządzania Funduszem określa umowa.
 
-3. Szczegółowe zasady współpracy NFOŚiGW i BGK określa umowa. Art. 28zc. 1. Szczegółowe zasady współpracy BGK oraz dysponenta Funduszu w zakresie wykonywania zadań wymienionych w art. 28z ust. 4 określa umowa.
+3. Szczegółowe zasady współpracy NFOŚiGW i BGK określa umowa.
 
-2. Wysokość wynagrodzenia BGK za prowadzenie obsługi bankowej Funduszu nie może przekroczyć średniej wysokości wynagrodzenia pobieranego przez BGK za obsługę bankową innych państwowych funduszy celowych. Art. 28zd. 1. Przychodami Funduszu są:
+**Art. 28zc.**
+
+1. Szczegółowe zasady współpracy BGK oraz dysponenta Funduszu w zakresie wykonywania zadań wymienionych w art. 28z ust. 4 określa umowa.
+
+2. Wysokość wynagrodzenia BGK za prowadzenie obsługi bankowej Funduszu nie może przekroczyć średniej wysokości wynagrodzenia pobieranego przez BGK za obsługę bankową innych państwowych funduszy celowych.
+
+**Art. 28zd.**
+
+1. Przychodami Funduszu są:
 
 - **1)** dotacje celowe z budżetu państwa w wysokości do 1,5% planowanych w poprzednim roku budżetowym wpływów z podatku akcyzowego od paliw silnikowych; wysokość dotacji celowej określa ustawa budżetowa w części budżetowej, której dysponentem jest minister właściwy do spraw energii;
 - **2)** odsetki od wolnych środków Funduszu przekazanych w zarządzanie zgodnie z przepisami o finansach publicznych;
@@ -94,7 +109,11 @@ source: pdf
 - **5)** wpływy z tytułu opłaty emisyjnej, o której mowa w art. 321a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799 i 1356), w części przypadającej Funduszowi;
 - **6)** inne przychody.
 
-2. Środki, o których mowa w ust. 1 pkt 3, operator systemu przesyłowego elektroenergetycznego przekazuje na Fundusz do dnia 30 czerwca każdego roku budżetowego. Art. 28ze. 1. Środki Funduszu przeznacza się na:
+2. Środki, o których mowa w ust. 1 pkt 3, operator systemu przesyłowego elektroenergetycznego przekazuje na Fundusz do dnia 30 czerwca każdego roku budżetowego.
+
+**Art. 28ze.**
+
+1. Środki Funduszu przeznacza się na:
 
 - **1)** wsparcie inwestycji w zakresie wytwarzania biokomponentów, biopaliw ciekłych lub innych paliw odnawialnych;
 - **2)** wsparcie budowy lub rozbudowy infrastruktury dla dystrybucji lub sprzedaży sprężonego gazu ziemnego (CNG) lub skroplonego gazu ziemnego (LNG), w tym pochodzącego z biometanu, lub wodoru lub budowy lub rozbudowy infrastruktury do ładowania pojazdów energią elektryczną, wykorzystywanych w transporcie;
@@ -133,7 +152,11 @@ source: pdf
 
 5. W przypadku terminowego wykonania przedsięwzięcia objętego wsparciem Funduszu oraz osiągnięcia planowanych efektów określonych w umowie, o której mowa w art. 28zp ust. 1, pożyczki, o których mowa w ust. 3 pkt 2, mogą być umarzane w części.
 
-6. Umorzenia, o którym mowa w ust. 5, dokonuje NFOŚiGW, w formie pisemnej na podstawie przepisów prawa cywilnego, na wniosek podmiotu, któremu udzielono pożyczki. Art. 28zf. 1. W zakresie, w jakim wsparcie, o którym mowa w art. 28ze ust. 1, stanowi pomoc publiczną w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, zastosowanie mają szczegółowe warunki udzielania tej pomocy lub pomocy de minimis.
+6. Umorzenia, o którym mowa w ust. 5, dokonuje NFOŚiGW, w formie pisemnej na podstawie przepisów prawa cywilnego, na wniosek podmiotu, któremu udzielono pożyczki.
+
+**Art. 28zf.**
+
+1. W zakresie, w jakim wsparcie, o którym mowa w art. 28ze ust. 1, stanowi pomoc publiczną w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, zastosowanie mają szczegółowe warunki udzielania tej pomocy lub pomocy de minimis.
 
 2. Wsparcie, o którym mowa w art. 28ze ust. 1, może być udzielone na działania określone w:
 
@@ -162,7 +185,12 @@ source: pdf
 5. Minister właściwy do spraw energii w porozumieniu z ministrem właściwym do spraw finansów publicznych, ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe warunki udzielania wsparcia ze środków Funduszu,
-- **2)** szczegółowy sposób rozliczania wsparcia udzielonego ze środków Funduszu – mając na względzie skuteczność wsparcia niskoemisyjnego transportu, rynku biokomponentów i biopaliw ciekłych oraz prawidłowe wykorzystanie udzielonego wsparcia. Art. 28zg. 1. Wybór projektów do wsparcia ze środków Funduszu jest dokonywany w trybie:
+- **2)** szczegółowy sposób rozliczania wsparcia udzielonego ze środków Funduszu – mając na względzie skuteczność wsparcia niskoemisyjnego transportu, rynku biokomponentów i biopaliw ciekłych oraz prawidłowe wykorzystanie udzielonego wsparcia.
+
+**Art. 28zg.**
+
+1. Wybór projektów do wsparcia ze środków Funduszu jest dokonywany w trybie:
+
 - **1)** konkursowym;
 - **2)** pozakonkursowym.
 
@@ -186,7 +214,11 @@ source: pdf
 
 5. Wsparcia udziela się projektom, które uzyskały najwyższą ocenę w postępowaniu w zakresie wyboru projektów do wsparcia, aż do wyczerpania środków finansowych przeznaczonych na wsparcie w tym postępowaniu.
 
-6. Minister właściwy do spraw energii w porozumieniu z ministrem właściwym do spraw finansów publicznych, ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, szczegółowe kryteria wyboru projektów do wsparcia, kierując się koniecznością zapewnienia efektywnej realizacji celów wspieranych ze środków Funduszu oraz prawidłowego przebiegu wyboru projektów w toku postępowania w zakresie wyboru projektów do wsparcia. Art. 28zh. 1. Wsparcia ze środków Funduszu w trybie konkursowym oraz pozakonkursowym udziela się na wniosek.
+6. Minister właściwy do spraw energii w porozumieniu z ministrem właściwym do spraw finansów publicznych, ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, szczegółowe kryteria wyboru projektów do wsparcia, kierując się koniecznością zapewnienia efektywnej realizacji celów wspieranych ze środków Funduszu oraz prawidłowego przebiegu wyboru projektów w toku postępowania w zakresie wyboru projektów do wsparcia.
+
+**Art. 28zh.**
+
+1. Wsparcia ze środków Funduszu w trybie konkursowym oraz pozakonkursowym udziela się na wniosek.
 
 2. Wniosek o wsparcie składa się do NFOŚiGW, z wyjątkiem wniosku o wsparcie w formie, o której mowa w art. 28ze ust. 3 pkt 3, który składa się do dysponenta Funduszu.
 
@@ -210,7 +242,11 @@ source: pdf
 - **4)** efektu ekologicznego realizacji projektu;
 - **5)** sytuacji finansowej wnioskodawcy oraz planowanych źródeł finansowania projektu, w tym oświadczenie o niezaleganiu z podatkami, opłatami i składkami na ubezpieczenie społeczne i zdrowotne.
 
-5. Do dokumentów w języku obcym, o których mowa w ust. 4, załącza się ich tłumaczenie na język polski dokonane przez tłumacza przysięgłego. Art. 28zi. 1. Warunkiem zastosowania trybu pozakonkursowego jest realizacja działania, o którym mowa w art. 28ze ust. 1 pkt 2, 4 i 7, a przedsięwzięcie może zrealizować jeden podmiot albo ograniczona liczba podmiotów, którym mogłoby być udzielone wsparcie.
+5. Do dokumentów w języku obcym, o których mowa w ust. 4, załącza się ich tłumaczenie na język polski dokonane przez tłumacza przysięgłego.
+
+**Art. 28zi.**
+
+1. Warunkiem zastosowania trybu pozakonkursowego jest realizacja działania, o którym mowa w art. 28ze ust. 1 pkt 2, 4 i 7, a przedsięwzięcie może zrealizować jeden podmiot albo ograniczona liczba podmiotów, którym mogłoby być udzielone wsparcie.
 
 2. Dodatkowym warunkiem zastosowania trybu pozakonkursowego jest realizacja przedsięwzięcia:
 
@@ -231,7 +267,11 @@ source: pdf
 - **2)** wskazanie potencjalnego wnioskodawcy;
 - **3)** maksymalną wysokość lub poziom wsparcia;
 - **4)** kryteria wyboru projektu do wsparcia, o których mowa w art. 28zg ust. 4;
-- **5)** termin i miejsce złożenia wniosku o wsparcie. Art. 28zj. 1. Informację o postępowaniu prowadzonym w trybie konkursowym NFOŚiGW ogłasza na swojej stronie internetowej.
+- **5)** termin i miejsce złożenia wniosku o wsparcie.
+
+**Art. 28zj.**
+
+1. Informację o postępowaniu prowadzonym w trybie konkursowym NFOŚiGW ogłasza na swojej stronie internetowej.
 
 2. Informacja, o której mowa w ust. 1, zawiera w szczególności:
 
@@ -239,7 +279,11 @@ source: pdf
 - **2)** określenie podmiotów, które mogą ubiegać się o wsparcie;
 - **3)** maksymalną wysokość lub poziom wsparcia przewidywane na jeden projekt;
 - **4)** kryteria wyboru projektów do wsparcia, o których mowa w art. 28zg ust. 4;
-- **5)** termin i miejsce składania wniosków o udzielenie wsparcia. Art. 28zk. 1. Postępowanie w zakresie wyboru projektów do wsparcia przeprowadza NFOŚiGW.
+- **5)** termin i miejsce składania wniosków o udzielenie wsparcia.
+
+**Art. 28zk.**
+
+1. Postępowanie w zakresie wyboru projektów do wsparcia przeprowadza NFOŚiGW.
 
 2. W celu przeprowadzenia postępowania, o którym mowa w ust. 1, NFOŚiGW powołuje Komisję do Oceny Projektów, zwaną dalej „Komisją”.
 
@@ -250,7 +294,11 @@ source: pdf
 - **1)** ocena wniosków o wsparcie złożonych w postępowaniu, o którym mowa w ust. 1;
 - **2)** przygotowanie dla dysponenta Funduszu rekomendacji dotyczącej projektów do wsparcia ze środków Funduszu.
 
-5. Tryb pracy Komisji określa regulamin ustalany przez NFOŚiGW. Regulamin jest zatwierdzany przez dysponenta Funduszu i ogłaszany na stronie internetowej NFOŚiGW. Art. 28zl. 1. Komisja dokonuje oceny złożonych wniosków o wsparcie i przekazuje ją dysponentowi Funduszu wraz z uzasadnieniem i rekomendacją projektów, do zatwierdzenia.
+5. Tryb pracy Komisji określa regulamin ustalany przez NFOŚiGW. Regulamin jest zatwierdzany przez dysponenta Funduszu i ogłaszany na stronie internetowej NFOŚiGW.
+
+**Art. 28zl.**
+
+1. Komisja dokonuje oceny złożonych wniosków o wsparcie i przekazuje ją dysponentowi Funduszu wraz z uzasadnieniem i rekomendacją projektów, do zatwierdzenia.
 
 2. NFOŚiGW przekazuje niezwłocznie wnioskodawcom pisemną informację o zakończeniu oceny ich wniosków i wynikach tej oceny wraz z jej uzasadnieniem. Do doręczenia informacji o zakończeniu oceny wniosku i jej wyniku stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
@@ -258,7 +306,11 @@ source: pdf
 
 - **1)** termin do wniesienia protestu;
 - **2)** miejsce wniesienia protestu;
-- **3)** wymogi formalne protestu, o których mowa w art. 28zm ust. 2. Art. 28zm. 1. Wnioskodawca może wnieść protest w terminie 14 dni, licząc od dnia doręczenia informacji, o której mowa w art. 28zl ust. 2.
+- **3)** wymogi formalne protestu, o których mowa w art. 28zm ust. 2.
+
+**Art. 28zm.**
+
+1. Wnioskodawca może wnieść protest w terminie 14 dni, licząc od dnia doręczenia informacji, o której mowa w art. 28zl ust. 2.
 
 2. Protest jest wnoszony do dysponenta Funduszu za pośrednictwem NFOŚiGW, w formie pisemnej, i zawiera:
 
@@ -276,19 +328,35 @@ source: pdf
 
 5. Wezwanie, o którym mowa w ust. 3, wstrzymuje bieg terminu, o którym mowa w art. 28zn ust. 1. Bieg tego terminu ulega zawieszeniu na czas uzupełnienia lub poprawienia protestu, o którym mowa w ust. 3.
 
-6. Na prawo wnioskodawcy do wniesienia protestu nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa w art. 28zl ust. 3. Art. 28zn. 1. Komisja weryfikuje prawidłowość oceny projektu w zakresie zarzutów zawartych w proteście oraz sporządza w tym zakresie opinię i przekazuje ją dysponentowi Funduszu wraz z dokumentacją postępowania, w terminie 10 dni, licząc od dnia otrzymania protestu.
+6. Na prawo wnioskodawcy do wniesienia protestu nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa w art. 28zl ust. 3.
+
+**Art. 28zn.**
+
+1. Komisja weryfikuje prawidłowość oceny projektu w zakresie zarzutów zawartych w proteście oraz sporządza w tym zakresie opinię i przekazuje ją dysponentowi Funduszu wraz z dokumentacją postępowania, w terminie 10 dni, licząc od dnia otrzymania protestu.
 
 2. Dysponent Funduszu rozpatruje protest w terminie 14 dni, licząc od dnia otrzymania opinii Komisji.
 
 3. W uzasadnionych przypadkach, w szczególności gdy w trakcie rozpatrywania protestu konieczne jest skorzystanie z pomocy osób posiadających specjalistyczną wiedzę w danej dziedzinie, termin rozpatrzenia protestu przez dysponenta Funduszu może być przedłużony, o czym informuje się na piśmie wnioskodawcę. Termin rozpatrzenia protestu przez dysponenta Funduszu nie może przekroczyć łącznie 30 dni roboczych od dnia otrzymania opinii Komisji.
 
-4. Dysponent Funduszu podtrzymuje negatywną ocenę wniosku o wsparcie albo zmienia tę ocenę. Art. 28zo. 1. Dysponent Funduszu zatwierdza projekty do wsparcia lub odmawia ich zatwierdzenia, w formie pisemnej, o czym informuje Komisję oraz NFOŚiGW.
+4. Dysponent Funduszu podtrzymuje negatywną ocenę wniosku o wsparcie albo zmienia tę ocenę.
 
-2. Po otrzymaniu informacji, o której mowa w ust. 1, Komisja sporządza protokół z przeprowadzonego postępowania, o którym mowa w art. 28zj ust. 1. Art. 28zp. 1. Podstawę wsparcia projektu stanowi umowa o udzielenie wsparcia.
+**Art. 28zo.**
+
+1. Dysponent Funduszu zatwierdza projekty do wsparcia lub odmawia ich zatwierdzenia, w formie pisemnej, o czym informuje Komisję oraz NFOŚiGW.
+
+2. Po otrzymaniu informacji, o której mowa w ust. 1, Komisja sporządza protokół z przeprowadzonego postępowania, o którym mowa w art. 28zj ust. 1.
+
+**Art. 28zp.**
+
+1. Podstawę wsparcia projektu stanowi umowa o udzielenie wsparcia.
 
 2. Umowa o udzielenie wsparcia może zostać zawarta, jeżeli projekt spełnia wszystkie kryteria wyboru projektów do wsparcia, na podstawie których został wybrany.
 
-3. Umowa o udzielenie wsparcia może zostać zmieniona, w przypadku gdy zmiany nie wpływają na spełnianie kryteriów wyboru projektu do wsparcia w sposób, który skutkowałby negatywną oceną tego projektu. Art. 28zr. 1. Fundusz prowadzi gospodarkę finansową na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077 oraz z 2018 r. poz. 62 i 1000).
+3. Umowa o udzielenie wsparcia może zostać zmieniona, w przypadku gdy zmiany nie wpływają na spełnianie kryteriów wyboru projektu do wsparcia w sposób, który skutkowałby negatywną oceną tego projektu.
+
+**Art. 28zr.**
+
+1. Fundusz prowadzi gospodarkę finansową na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077 oraz z 2018 r. poz. 62 i 1000).
 
 2. Projekt rocznego planu finansowego przygotowuje NFOŚiGW z uwzględnieniem trybu i terminów określonych w przepisach wydanych na podstawie art. 138 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 

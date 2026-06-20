@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kołach gospodyń wiejskich
+# Ustawa z dnia 24 czerwca 2021 r. o zmianie ustawy o kołach gospodyń wiejskich
 
 *USTAWA z dnia 24 czerwca 2021 r.*
 

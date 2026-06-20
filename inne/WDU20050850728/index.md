@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o opłatach abonamentowych
+# Ustawa z dnia 21 kwietnia 2005 r. o opłatach abonamentowych
 
 *USTAWA z dnia 21 kwietnia 2005 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz ustawy - Prawo budowlane
+# Ustawa z dnia 11 października 1996 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz ustawy - Prawo budowlane.
 
 *USTAWA z dnia 11 października 1996 r.*
 

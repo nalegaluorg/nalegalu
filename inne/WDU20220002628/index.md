@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 listopada 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi
 
 | Pole | Wartość |
 |---|---|
@@ -34,7 +34,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 27 września 2013 r.
 o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi
-Art. 27–31. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -458,6 +457,8 @@ Art. 27–31. (pominięte)
 **Art. 26.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 27–31.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
 

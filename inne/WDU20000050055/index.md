@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie przekształcenia Powszechnej Kasy Oszczędności banku państwowego w jednoosobową spółkę akcyjną Skarbu Państwa pod nazwą Powszechna Kasa Oszczędności Bank Państwowy Spółka Akcyjna.
+# Rozporządzenie Rady Ministrów z dnia 18 stycznia 2000 r. w sprawie przekształcenia Powszechnej Kasy Oszczędności banku państwowego w jednoosobową spółkę akcyjną Skarbu Państwa pod nazwą Powszechna Kasa Oszczędności Bank Państwowy Spółka Akcyjna.
 
 *ROZPORZĄDZENIE RADY MINISTRÓW z dnia 18 stycznia 2000 r.*
 

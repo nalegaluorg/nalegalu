@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych
 
 | Pole | Wartość |
 |---|---|
@@ -200,7 +200,11 @@ z 2024 r. poz. 262), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 21 maj
 
 1. Przedsiębiorca, wobec którego wydano decyzję o zakazie wykonywania działalności, o której mowa w art. 7 ust. 1, może uzyskać wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji.
 
-2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru działalności regulowanej. Nie dotyczy to sytuacji określonej w art. 6a ust. 2. Art. 7ba. 1. W razie śmierci, rozwiązania albo przekształcenia przedsiębiorcy wpisanego do rejestru, o którym mowa w art. 3 ust. 1 lub 2, albo w przypadku zbycia całości lub części przedsiębiorstwa lub wystąpienia innego zdarzenia prawnego, w wyniku których nastąpiło następstwo prawne, Dyrektor Generalny KOWR dokonuje zmiany wpisu w danym rejestrze na wniosek następcy prawnego tego przedsiębiorcy, jeżeli ten następca prawny złoży:
+2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru działalności regulowanej. Nie dotyczy to sytuacji określonej w art. 6a ust. 2.
+
+**Art. 7ba.**
+
+1. W razie śmierci, rozwiązania albo przekształcenia przedsiębiorcy wpisanego do rejestru, o którym mowa w art. 3 ust. 1 lub 2, albo w przypadku zbycia całości lub części przedsiębiorstwa lub wystąpienia innego zdarzenia prawnego, w wyniku których nastąpiło następstwo prawne, Dyrektor Generalny KOWR dokonuje zmiany wpisu w danym rejestrze na wniosek następcy prawnego tego przedsiębiorcy, jeżeli ten następca prawny złoży:
 
 - **1)** wniosek o zmianę wpisu w rejestrze, o którym mowa w art. 3 ust. 1 lub 2, oraz przeniesienie na niego uprawnień wynikających z wpisu do danego rejestru;
 - **2)** oświadczenie w zakresie, o którym mowa w art. 5 ust. 2 pkt 6 oraz:

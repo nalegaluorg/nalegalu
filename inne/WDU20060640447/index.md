@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dodatkach mieszkaniowych
+# Ustawa z dnia 17 lutego 2006 r. o zmianie ustawy o dodatkach mieszkaniowych
 
 *USTAWA z dnia 17 lutego 2006 r.*
 

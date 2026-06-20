@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw
+# Ustawa z dnia 20 maja 2021 r. o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw
 
 *USTAWA z dnia 20 maja 2021 r.*
 
@@ -217,7 +217,11 @@ source: pdf
 
 2. W celu realizacji obowiązków, o których mowa w ust. 1, operator systemu przesyłowego gazowego, operator systemu przesyłowego elektroenergetycznego i działające w formie spółki akcyjnej przedsiębiorstwo energetyczne zajmujące się przesyłaniem paliw ciekłych, o którym mowa w art. 3 pkt 4 lit. b, którego jedynym akcjonariuszem jest Skarb Państwa, tworzą wspólnie, wraz z instytutem badawczym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2020 r. poz. 1383), centrum naukowo-przemysłowe, o którym mowa w art. 38 tej ustawy.
 
-3. Koszty realizacji obowiązków, o których mowa w ust. 1, w tym koszty centrum naukowo-przemysłowego utworzonego zgodnie z ust. 2, ponoszone przez operatora systemu przesyłowego gazowego i operatora systemu przesyłowego elektroenergetycznego nie stanowią kosztów uzasadnionych, o których mowa w art. 45 ust. 1 pkt 2. Art. 9cb. 1. Podmiot odpowiedzialny za prognozowanie, o którym mowa w art. 39 ust. 5 rozporządzenia Komisji (UE) nr 312/2014 z dnia 26 marca 2014 r. ustanawiającego kodeks sieci dotyczący bilansowania gazu w sieciach przesyłowych (Dz. Urz. UE L 91 z 27.03.2014, str. 15), zwany dalej „podmiotem odpowiedzialnym za prognozowanie”, opracowuje metodę sporządzania prognoz dotyczących mierzonych rzadziej niż codziennie ilości paliw gazowych odbieranych przez użytkowników systemu gazowego.
+3. Koszty realizacji obowiązków, o których mowa w ust. 1, w tym koszty centrum naukowo-przemysłowego utworzonego zgodnie z ust. 2, ponoszone przez operatora systemu przesyłowego gazowego i operatora systemu przesyłowego elektroenergetycznego nie stanowią kosztów uzasadnionych, o których mowa w art. 45 ust. 1 pkt 2.
+
+**Art. 9cb.**
+
+1. Podmiot odpowiedzialny za prognozowanie, o którym mowa w art. 39 ust. 5 rozporządzenia Komisji (UE) nr 312/2014 z dnia 26 marca 2014 r. ustanawiającego kodeks sieci dotyczący bilansowania gazu w sieciach przesyłowych (Dz. Urz. UE L 91 z 27.03.2014, str. 15), zwany dalej „podmiotem odpowiedzialnym za prognozowanie”, opracowuje metodę sporządzania prognoz dotyczących mierzonych rzadziej niż codziennie ilości paliw gazowych odbieranych przez użytkowników systemu gazowego.
 
 2. Podmiot odpowiedzialny za prognozowanie opracowuje metodę, o której mowa w ust. 1, przy wykorzystaniu mechanizmów, które w największym stopniu ograniczą rozbieżności pomiędzy prognozowaną wielkością i faktycznym zużyciem mierzonych rzadziej niż codziennie ilości paliw gazowych odbieranych przez użytkowników systemu gazowego, ustalonym na podstawie odczytów urządzeń pomiarowo-rozliczeniowych.
 
@@ -242,9 +246,17 @@ source: pdf
 
 2. W decyzji, o której mowa w ust. 1, Prezes Urzędu Regulacji Energetyki określa obszar zamkniętego systemu dystrybucyjnego.
 
-3. Decyzja, o której mowa w ust. 1, wydawana jest na czas oznaczony, nie dłuższy niż 10 lat. W przypadku gdy koncesja na prowadzenie działalności gospodarczej w zakresie dystrybucji energii elektrycznej lub paliw gazowych lub decyzja o wyznaczeniu operatora, dotycząca operatora, o którym mowa w ust. 1, została wydana na czas krótszy – decyzję, o której mowa w ust. 1, wydaje się na czas nie dłuższy niż okres obowiązywania takiej decyzji. Art. 9db. 1. Prezes Urzędu Regulacji Energetyki uchyla z urzędu decyzję, o której mowa w art. 9da ust. 1, jeżeli system dystrybucyjny przestał spełniać co najmniej jeden z warunków określonych w art. 9da ust. 1 lub mimo wezwania operator systemu dystrybucyjnego nie dokonał zmian pozwalających na spełnienie warunków lub obowiązków, o których mowa w art. 9dc ust. 2–4.
+3. Decyzja, o której mowa w ust. 1, wydawana jest na czas oznaczony, nie dłuższy niż 10 lat. W przypadku gdy koncesja na prowadzenie działalności gospodarczej w zakresie dystrybucji energii elektrycznej lub paliw gazowych lub decyzja o wyznaczeniu operatora, dotycząca operatora, o którym mowa w ust. 1, została wydana na czas krótszy – decyzję, o której mowa w ust. 1, wydaje się na czas nie dłuższy niż okres obowiązywania takiej decyzji.
 
-2. Operator systemu dystrybucyjnego jest obowiązany poinformować Prezesa Urzędu Regulacji Energetyki o okolicznościach, w wyniku których system dystrybucyjny przestał spełniać warunki, o których mowa w art. 9da ust. 1, w terminie miesiąca od dnia zaistnienia tych okoliczności. Art. 9dc. 1. Operator systemu dystrybucyjnego, który uzyskał decyzję, o której mowa w art. 9da ust. 1, w zakresie prowadzenia działalności w systemie objętym decyzją jest zwolniony z obowiązku:
+**Art. 9db.**
+
+1. Prezes Urzędu Regulacji Energetyki uchyla z urzędu decyzję, o której mowa w art. 9da ust. 1, jeżeli system dystrybucyjny przestał spełniać co najmniej jeden z warunków określonych w art. 9da ust. 1 lub mimo wezwania operator systemu dystrybucyjnego nie dokonał zmian pozwalających na spełnienie warunków lub obowiązków, o których mowa w art. 9dc ust. 2–4.
+
+2. Operator systemu dystrybucyjnego jest obowiązany poinformować Prezesa Urzędu Regulacji Energetyki o okolicznościach, w wyniku których system dystrybucyjny przestał spełniać warunki, o których mowa w art. 9da ust. 1, w terminie miesiąca od dnia zaistnienia tych okoliczności.
+
+**Art. 9dc.**
+
+1. Operator systemu dystrybucyjnego, który uzyskał decyzję, o której mowa w art. 9da ust. 1, w zakresie prowadzenia działalności w systemie objętym decyzją jest zwolniony z obowiązku:
 
 - **1)** przedkładania do zatwierdzenia taryf;
 - **2)** sporządzania planów rozwoju, o których mowa w art. 16.
@@ -494,7 +506,13 @@ source: pdf
 - **1)** sposób realizacji procesów rynku energii, z uwzględnieniem zależności między tymi procesami;
 - **2)** komunikaty dotyczące procesów rynku energii wysyłane i odbierane przez centralny system informacji rynku energii.
 
-5. Procesy rynku energii nie dotyczą działań realizowanych w ramach centralnego mechanizmu bilansowania handlowego ani działań realizowanych na giełdach towarowych w rozumieniu art. 2 pkt 1 ustawy z dnia 26 października 2000 r. o giełdach towarowych, na rynku organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany lub na zorganizowanej platformie obrotu prowadzonej przez spółkę prowadzącą na terytorium Rzeczypospolitej Polskiej taką giełdę towarową lub w ramach jednolitego łączenia rynków dnia następnego i dnia bieżącego prowadzonych przez wyznaczonych operatorów rynku energii elektrycznej. Art. 11za. Sprzedawca energii elektrycznej, operator systemu dystrybucyjnego elektroenergetycznego, operator systemu przesyłowego elektroenergetycznego, operator ogólnodostępnej stacji ładowania oraz inne podmioty w celu realizacji procesów rynku energii i wymiany informacji rynku energii za pośrednictwem centralnego systemu informacji rynku energii w zakresie realizacji tych procesów wykorzystują systemy informacyjne współpracujące z centralnym systemem informacji rynku energii w sposób określony w instrukcji, o której mowa w art. 9g ust. 5c. Art. 11zb. 1. Operator systemu elektroenergetycznego lub właściciel urządzeń, instalacji lub sieci, w przypadku gdy odbiorcom jest dostarczana energia elektryczna z urządzeń, instalacji lub sieci, na których nie wyznaczono operatora systemu elektroenergetycznego, przekazuje w postaci elektronicznej informacje rynku energii do centralnego systemu informacji rynku energii, w szczególności:
+5. Procesy rynku energii nie dotyczą działań realizowanych w ramach centralnego mechanizmu bilansowania handlowego ani działań realizowanych na giełdach towarowych w rozumieniu art. 2 pkt 1 ustawy z dnia 26 października 2000 r. o giełdach towarowych, na rynku organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany lub na zorganizowanej platformie obrotu prowadzonej przez spółkę prowadzącą na terytorium Rzeczypospolitej Polskiej taką giełdę towarową lub w ramach jednolitego łączenia rynków dnia następnego i dnia bieżącego prowadzonych przez wyznaczonych operatorów rynku energii elektrycznej.
+
+**Art. 11za.** Sprzedawca energii elektrycznej, operator systemu dystrybucyjnego elektroenergetycznego, operator systemu przesyłowego elektroenergetycznego, operator ogólnodostępnej stacji ładowania oraz inne podmioty w celu realizacji procesów rynku energii i wymiany informacji rynku energii za pośrednictwem centralnego systemu informacji rynku energii w zakresie realizacji tych procesów wykorzystują systemy informacyjne współpracujące z centralnym systemem informacji rynku energii w sposób określony w instrukcji, o której mowa w art. 9g ust. 5c.
+
+**Art. 11zb.**
+
+1. Operator systemu elektroenergetycznego lub właściciel urządzeń, instalacji lub sieci, w przypadku gdy odbiorcom jest dostarczana energia elektryczna z urządzeń, instalacji lub sieci, na których nie wyznaczono operatora systemu elektroenergetycznego, przekazuje w postaci elektronicznej informacje rynku energii do centralnego systemu informacji rynku energii, w szczególności:
 
 - **1)** informacje o:
     - **a)** punkcie poboru energii lub punkcie pomiarowym, po każdej zmianie informacji ich dotyczących,
@@ -515,7 +533,11 @@ source: pdf
 
 4. Sprzedawca energii elektrycznej, operator systemu dystrybucyjnego elektroenergetycznego, operator systemu przesyłowego elektroenergetycznego lub właściciel urządzeń, instalacji lub sieci, w przypadku gdy użytkownik systemu przyłączony jest do urządzeń, instalacji lub sieci, na których nie wyznaczono operatora systemu elektroenergetycznego, podmiot odpowiedzialny za bilansowanie handlowe oraz inne podmioty, realizujące procesy rynku energii lub wymieniające informacje za pośrednictwem centralnego systemu informacji rynku energii, zapewniają poprawność i kompletność informacji przekazywanych przez nich do centralnego systemu informacji rynku energii.
 
-5. Sprzedawca energii elektrycznej, operator systemu dystrybucyjnego elektroenergetycznego, operator systemu przesyłowego elektroenergetycznego lub właściciel urządzeń, instalacji lub sieci, w przypadku gdy użytkownik systemu przyłączony jest do urządzeń, instalacji lub sieci, na których nie wyznaczono operatora systemu elektroenergetycznego, mogą prowadzić własny rejestr odbiorców lub punktów pomiarowych, przechowywać informacje rynku energii i przetwarzać je w celu wykonywania obowiązków ustawowych, z wyłączeniem prowadzenia rozliczeń zgodnie z art. 4k. Art. 11zc. 1. Operator informacji rynku energii udostępnia informacje rynku energii w postaci elektronicznej za pośrednictwem centralnego systemu informacji rynku energii:
+5. Sprzedawca energii elektrycznej, operator systemu dystrybucyjnego elektroenergetycznego, operator systemu przesyłowego elektroenergetycznego lub właściciel urządzeń, instalacji lub sieci, w przypadku gdy użytkownik systemu przyłączony jest do urządzeń, instalacji lub sieci, na których nie wyznaczono operatora systemu elektroenergetycznego, mogą prowadzić własny rejestr odbiorców lub punktów pomiarowych, przechowywać informacje rynku energii i przetwarzać je w celu wykonywania obowiązków ustawowych, z wyłączeniem prowadzenia rozliczeń zgodnie z art. 4k.
+
+**Art. 11zc.**
+
+1. Operator informacji rynku energii udostępnia informacje rynku energii w postaci elektronicznej za pośrednictwem centralnego systemu informacji rynku energii:
 
 - **1)** użytkownikowi systemu elektroenergetycznego, w tym odbiorcy końcowemu, wytwórcy, posiadaczowi magazynu energii elektrycznej, którego dane te dotyczą,
 - **2)** podmiotowi upoważnionemu przez użytkownika systemu elektroenergetycznego, którego dane te dotyczą ‒ w zakresie wskazanym w tym upoważnieniu,
@@ -557,13 +579,21 @@ source: pdf
 - **8)** Głównemu Urzędowi Statystycznemu;
 - **9)** innym podmiotom na podstawie odrębnych przepisów lub podmiotom, które wykazały interes prawny.
 
-6. Dostęp uprawnionych użytkowników systemu do informacji zgromadzonych w centralnym systemie informacji rynku energii, przekazywanie do niego lub odbieranie z niego informacji oraz korzystanie z tego systemu w celu realizacji przez tych użytkowników systemu procesów, o których mowa w przepisach wydanych na podstawie art. 11zh, odbywają się w postaci elektronicznej i są nieodpłatne. Art. 11zd. 1. Podmioty wskazane w art. 11zc ust. 1 pkt 3–5 i 7–9 oraz operator informacji rynku energii, w zakresie, w jakim przetwarzają informacje rynku energii, zapewniają ochronę przed działaniami zagrażającymi poufności, integralności, dostępności i autentyczności przetwarzanych danych.
+6. Dostęp uprawnionych użytkowników systemu do informacji zgromadzonych w centralnym systemie informacji rynku energii, przekazywanie do niego lub odbieranie z niego informacji oraz korzystanie z tego systemu w celu realizacji przez tych użytkowników systemu procesów, o których mowa w przepisach wydanych na podstawie art. 11zh, odbywają się w postaci elektronicznej i są nieodpłatne.
+
+**Art. 11zd.**
+
+1. Podmioty wskazane w art. 11zc ust. 1 pkt 3–5 i 7–9 oraz operator informacji rynku energii, w zakresie, w jakim przetwarzają informacje rynku energii, zapewniają ochronę przed działaniami zagrażającymi poufności, integralności, dostępności i autentyczności przetwarzanych danych.
 
 2. Podmioty, o których mowa w ust. 1, odpowiednio do wykonywanych zadań:
 
 - **1)** ustalają szczegółowe wymagania w zakresie przydzielania uprawnień do dostępu do informacji rynku energii oraz sposób przydzielania tych uprawnień;
 - **2)** zapewniają właściwą ochronę informacji rynku energii;
-- **3)** (uchylony) Art. 11ze. 1. Operator informacji rynku energii wypełnia w stosunku do osób fizycznych, których dane osobowe będą przetwarzane w celach związanych z budową i funkcjonowaniem centralnego systemu informacji rynku energii, obowiązki informacyjne określone w art. 13 i art. 14 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, przez zamieszczenie stosownych informacji na swoich stronach internetowych, a także na stronie Biuletynu Informacji Publicznej.
+- **3)** (uchylony)
+
+**Art. 11ze.**
+
+1. Operator informacji rynku energii wypełnia w stosunku do osób fizycznych, których dane osobowe będą przetwarzane w celach związanych z budową i funkcjonowaniem centralnego systemu informacji rynku energii, obowiązki informacyjne określone w art. 13 i art. 14 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, przez zamieszczenie stosownych informacji na swoich stronach internetowych, a także na stronie Biuletynu Informacji Publicznej.
 
 2. Podmioty obowiązane inne niż operator informacji rynku energii wypełniają w stosunku do osób fizycznych, których dane osobowe będą przetwarzane w centralnym systemie informacji rynku energii obowiązki informacyjne określone w art. 13 i art. 14 rozporządzenia 2016/679, przez zamieszczenie stosownych informacji na swoich stronach internetowych, w Biuletynie Informacji Publicznej, o ile są obowiązane do jego prowadzenia, oraz w swoich siedzibach w widocznym miejscu.
 
@@ -582,9 +612,17 @@ source: pdf
 - **1)** dopuszczeniu do przetwarzania danych osobowych osób posiadających pisemnie lub elektronicznie nadane upoważnienie do ich przetwarzania;
 - **2)** obowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
 
-9. Przy przetwarzaniu danych osobowych w centralnym systemie informacji rynku energii operator informacji rynku energii wdraża odpowiednie zabezpieczenia techniczne i organizacyjne praw i wolności osób fizycznych, których dane osobowe są przetwarzane, zgodnie z rozporządzeniem 2016/679, w szczególności przez nadawanie uprawnień do przetwarzania minimalnej liczbie osób uprawnionych do dostępu do centralnego systemu informacji rynku energii oraz opracowanie procedury określającej sposób zabezpieczenia danych. Art. 11zf. 1. Jednostkowe dane pomiarowe w centralnym systemie informacji rynku energii są przechowywane przez okres 7 lat od dnia, w którym dane te zostały przekazane do centralnego systemu informacji rynku energii.
+9. Przy przetwarzaniu danych osobowych w centralnym systemie informacji rynku energii operator informacji rynku energii wdraża odpowiednie zabezpieczenia techniczne i organizacyjne praw i wolności osób fizycznych, których dane osobowe są przetwarzane, zgodnie z rozporządzeniem 2016/679, w szczególności przez nadawanie uprawnień do przetwarzania minimalnej liczbie osób uprawnionych do dostępu do centralnego systemu informacji rynku energii oraz opracowanie procedury określającej sposób zabezpieczenia danych.
 
-2. Po upływie okresu, o którym mowa w ust. 1, operator informacji rynku energii anonimizuje jednostkowe dane pomiarowe. Art. 11zg. 1. W celu realizacji procesów rynku energii oraz wymiany informacji rynku energii za pośrednictwem centralnego systemu informacji rynku energii:
+**Art. 11zf.**
+
+1. Jednostkowe dane pomiarowe w centralnym systemie informacji rynku energii są przechowywane przez okres 7 lat od dnia, w którym dane te zostały przekazane do centralnego systemu informacji rynku energii.
+
+2. Po upływie okresu, o którym mowa w ust. 1, operator informacji rynku energii anonimizuje jednostkowe dane pomiarowe.
+
+**Art. 11zg.**
+
+1. W celu realizacji procesów rynku energii oraz wymiany informacji rynku energii za pośrednictwem centralnego systemu informacji rynku energii:
 
 - **1)** operator systemu dystrybucyjnego elektroenergetycznego,
 - **2)** w przypadku gdy odbiorcom jest dostarczana energia elektryczna z sieci, instalacji lub urządzeń, na których nie wyznaczono operatora systemu elektroenergetycznego – właściciel sieci, instalacji lub urządzeń,
@@ -593,7 +631,11 @@ source: pdf
 - **5)** (uchylony)
 - **6)** inny podmiot realizujący procesy rynku energii lub wymieniający informacje rynku energii za pośrednictwem centralnego systemu informacji rynku energii – zawiera z operatorem informacji rynku energii umowę.
 
-2. Umowę, o której mowa w ust. 1, zawiera się w formie elektronicznej przy użyciu wzorca umowy określonego w instrukcji, o której mowa w art. 9g ust. 5c. Art. 11zh. 1. Minister właściwy do spraw energii określi, w drodze rozporządzenia:
+2. Umowę, o której mowa w ust. 1, zawiera się w formie elektronicznej przy użyciu wzorca umowy określonego w instrukcji, o której mowa w art. 9g ust. 5c.
+
+**Art. 11zh.**
+
+1. Minister właściwy do spraw energii określi, w drodze rozporządzenia:
 
 - **1)** wykaz procesów rynku energii realizowanych za pośrednictwem centralnego systemu informacji rynku energii;
 - **2)** sposób realizacji procesów, o których mowa w pkt 1;

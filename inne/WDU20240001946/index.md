@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu dostosowania do nomenklatury scalonej
+# Ustawa z dnia 18 grudnia 2024 r. o zmianie niektórych ustaw w celu dostosowania do nomenklatury scalonej
 
 *USTAWA z dnia 18 grudnia 2024 r.*
 

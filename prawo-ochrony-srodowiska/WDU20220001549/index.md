@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy - Prawo wodne oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 lipca 2022 r.*
 

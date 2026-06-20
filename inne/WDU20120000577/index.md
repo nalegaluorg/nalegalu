@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej
+# Ustawa z dnia 30 marca 2012 r. o zmianie ustawy o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej
 
 *USTAWA z dnia 30 marca 2012 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z przekazywaniem informacji do europejskiego pojedynczego punktu dostępu
+# Ustawa z dnia 17 kwietnia 2026 r. o zmianie niektórych ustaw w związku z przekazywaniem informacji do europejskiego pojedynczego punktu dostępu
 
 *USTAWA z dnia 17 kwietnia 2026 r.*
 
@@ -31,10 +31,18 @@ source: pdf
 
 - **1)** w art. 3 w ust. 1h wprowadzenie do wyliczenia otrzymuje brzmienie: „Dla celów ust. 6, art. 7 ust. 2b, art. 28 ust. 4a, art. 28a, art. 28b, art. 32 ust. 7, art. 37 ust. 10, art. 39 ust. 6, art. 45 ust. 3 pkt 1, art. 46 ust. 5 pkt 4 i 5, art. 47 ust. 4 pkt 4 i 5, art. 48 ust. 3 i 4, art. 49 ust. 4–6 oraz art. 56 ust. 1 następujące jednostki traktuje się jak jednostki duże bez względu na ich sumę aktywów bilansu, przychody netto ze sprzedaży towarów i produktów oraz średnioroczne zatrudnienie w roku obrotowym:”;
 - **2)** w art. 45 w ust. 3 w pkt 2 na końcu skreśla się przecinek i uchyla się pkt 3;
-- **3)** po rozdziale 6c dodaje się rozdział 6d w brzmieniu: „Rozdział 6d Informacje przekazywane do europejskiego pojedynczego punktu dostępu Art. 63ze. Ilekroć w niniejszym rozdziale jest mowa o:
+- **3)** po rozdziale 6c dodaje się rozdział 6d w brzmieniu: „Rozdział 6d Informacje przekazywane do europejskiego pojedynczego punktu dostępu
+
+**Art. 63ze.** Ilekroć w niniejszym rozdziale jest mowa o:
+
 - **1)** europejskim pojedynczym punkcie dostępu – rozumie się przez to europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
 - **2)** metadanych – rozumie się przez to metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;
-- **3)** rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ). Art. 63zf. 1. Kierownik jednostki, o której mowa w art. 63r ust. 1, art. 63x ust. 1 oraz art. 63zd ust. 1 pkt 1 i 2, zapewnia przekazywanie do właściwego rejestru sądowego, w celu udostępnienia w europejskim pojedynczym punkcie dostępu, następujących informacji:
+- **3)** rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ).
+
+**Art. 63zf.**
+
+1. Kierownik jednostki, o której mowa w art. 63r ust. 1, art. 63x ust. 1 oraz art. 63zd ust. 1 pkt 1 i 2, zapewnia przekazywanie do właściwego rejestru sądowego, w celu udostępnienia w europejskim pojedynczym punkcie dostępu, następujących informacji:
+
 - **1)** sprawozdania z działalności;
 - **2)** sprawozdania z działalności grupy kapitałowej;
 - **3)** rocznego sprawozdania finansowego;

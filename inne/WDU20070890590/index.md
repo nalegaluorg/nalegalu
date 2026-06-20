@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zarządzaniu kryzysowym
+# Ustawa z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym
 
 *USTAWA z dnia 26 kwietnia 2007 r.*
 
@@ -353,7 +353,15 @@ source: pdf
 
 2. Wykonywanie zadań objętych poleceniem, o którym mowa w art. 7a ust. 2, wydanym w stosunku do podmiotów, o których mowa w art. 7a ust. 2 pkt 3, następuje na podstawie umowy zawartej z podmiotem wskazanym w poleceniu przez ministra wydającego polecenie.
 
-3. W przypadku niezawarcia umowy, o której mowa w ust. 1 lub 2, zadania objęte poleceniem są wykonywane na podstawie polecenia, o którym mowa w art. 7a ust. 1 lub 2. Art. 7ba. (uchylony) Art. 7bb. (uchylony) Art. 7bc. 1. Jeżeli w stosunku do tego samego podmiotu wydano polecenie zarówno na podstawie art. 7a ust. 1, jak i 2, a wykonanie ich obu jest niemożliwe, znacząco utrudnione lub uniemożliwiłoby prawidłowe funkcjonowanie podmiotu będącego adresatem polecenia, wiążące wobec podmiotu jest polecenie wydane na podstawie art. 7a ust. 1.
+3. W przypadku niezawarcia umowy, o której mowa w ust. 1 lub 2, zadania objęte poleceniem są wykonywane na podstawie polecenia, o którym mowa w art. 7a ust. 1 lub 2.
+
+**Art. 7ba.** (uchylony)
+
+**Art. 7bb.** (uchylony)
+
+**Art. 7bc.**
+
+1. Jeżeli w stosunku do tego samego podmiotu wydano polecenie zarówno na podstawie art. 7a ust. 1, jak i 2, a wykonanie ich obu jest niemożliwe, znacząco utrudnione lub uniemożliwiłoby prawidłowe funkcjonowanie podmiotu będącego adresatem polecenia, wiążące wobec podmiotu jest polecenie wydane na podstawie art. 7a ust. 1.
 
 2. W sytuacji, o której mowa w ust. 1, Prezes Rady Ministrów, z własnej inicjatywy lub na wniosek podmiotu będącego adresatem poleceń, uchyla polecenie wydane na podstawie art. 7a ust. 2.
 

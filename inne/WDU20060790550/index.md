@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o informowaniu pracowników i przeprowadzaniu z nimi konsultacji
+# Ustawa z dnia 7 kwietnia 2006 r. o informowaniu pracowników i przeprowadzaniu z nimi konsultacji
 
 *USTAWA z dnia 7 kwietnia 2006 r.*
 

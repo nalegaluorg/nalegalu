@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw
+# Ustawa z dnia 21 października 2016 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw
 
 *USTAWA z dnia 21 października 2016 r.*
 

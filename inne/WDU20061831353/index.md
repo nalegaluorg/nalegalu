@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podatku tonażowym
+# Ustawa z dnia 24 sierpnia 2006 r. o podatku tonażowym
 
 *USTAWA z dnia 24 sierpnia 2006 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2006-10-11 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061831353) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1353/text.pdf) |
-
-Art. 14–18. (pominięte)
 
 #### Rozdział 1 Podmiot i przedmiot opodatkowania
 
@@ -194,6 +192,8 @@ Art. 14–18. (pominięte)
 **Art. 13a.** Wyboru opodatkowania podatkiem tonażowym można dokonać w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności podatku tonażowego z rynkiem wewnętrznym.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 14–18.** (pominięte)
 
 **Art. 19.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r.
 

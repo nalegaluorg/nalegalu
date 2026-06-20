@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nawozach i nawożeniu
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nawozach i nawożeniu
 
 *USTAWA z dnia 10 lipca 2007 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-01-29 |
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000105) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/105/text.pdf) |
-
-Art. 43–47. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -791,6 +789,8 @@ Art. 43–47. (pominięte)
 **Art. 42.** Orzekanie w sprawach określonych w art. 41 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 43–47.** (pominięte)
 
 **Art. 48.**
 

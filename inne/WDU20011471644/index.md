@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Przepisy wprowadzające reformę ustroju szkolnego
+# Ustawa z dnia 7 listopada 2001 r. o zmianie ustawy - Przepisy wprowadzające reformę ustroju szkolnego.
 
 *USTAWA z dnia 7 listopada 2001 r.*
 

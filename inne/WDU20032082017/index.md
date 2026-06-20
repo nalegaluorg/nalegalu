@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodzie felczera
+# Ustawa z dnia 29 października 2003 r. o zmianie ustawy o zawodzie felczera
 
 *USTAWA z dnia 29 października 2003 r.*
 

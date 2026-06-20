@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Agencji Żeglugi Powietrznej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Agencji Żeglugi Powietrznej
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks pracy oraz ustawy o podatku dochodowym od osób fizycznych
+# Ustawa z dnia 20 maja 2010 r. o zmianie ustawy - Kodeks pracy oraz ustawy o podatku dochodowym od osób fizycznych
 
 *USTAWA z dnia 20 maja 2010 r.*
 

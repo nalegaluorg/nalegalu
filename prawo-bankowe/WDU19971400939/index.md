@@ -8,7 +8,7 @@ pos: 939
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo bankowe
@@ -24,16 +24,25 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1997-08-29 |
 | Data wydania | 1997-11-21 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971400939) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/939/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady prowadzenia działalności bankowej, tworzenia i organizacji banków, oddziałów i przedstawicielstw banków zagranicznych, a także oddziałów instytucji kredytowych;
+- **1a)** zasady tworzenia i funkcjonowania systemu ochrony;
+- **2)** zasady postępowania naprawczego, likwidacji i upadłości banków;
+- **3)** niektóre zasady prowadzenia działalności przez finansowe spółki holdingowe i finansowe spółki holdingowe o działalności mieszanej oraz organizacji tych spółek, a także niektóre zasady sprawowania nadzoru nad tymi spółkami;
+- **4)** zasady sprawowania nadzoru bankowego, w tym nadzoru skonsolidowanego.
+
 **Art. 2.** Bank jest osobą prawną utworzoną zgodnie z przepisami ustaw, działającą na podstawie zezwoleń uprawniających do wykonywania czynności bankowych obciążających ryzykiem środki powierzone pod jakimkolwiek tytułem zwrotnym.
 
 **Art. 3.** Wyrazy „bank” lub „kasa” mogą być używane w nazwie oraz dla określenia działalności lub reklamy wyłącznie banku w rozumieniu art. 2, z tym że:
+
+- **1)** nie dotyczy to jednostek organizacyjnych używających wyrazów „bank” lub „kasa”, z których działalności jednoznacznie wynika, że jednostki te nie wykonują czynności bankowych;
+- **2)** wyraz „kasa” może być także używany w nazwie oraz do określenia działalności lub reklamy jednostki organizacyjnej, która na podstawie odrębnej ustawy gromadzi oszczędności oraz udziela pożyczek pieniężnych osobom fizycznym zrzeszonym w tej jednostce.
 
 **Art. 4.**
 
@@ -149,7 +158,11 @@ source: "isap-pdf"
 - **55)** zasada skonsolidowana – zasadę skonsolidowaną, o której mowa w art. 4 ust. 1 pkt 48 rozporządzenia nr 575/2013;
 - **56)** zasada subskonsolidowana – zasadę subskonsolidowaną, o której mowa w art. 4 ust. 1 pkt 49 rozporządzenia nr 575/2013;
 - **57)** ryzyko nadmiernej dźwigni – ryzyko nadmiernej dźwigni w rozumieniu art. 4 ust. 1 pkt 94 rozporządzenia nr 575/2013;
-- **58)** państwo trzecie – państwo niebędące państwem członkowskim.
+- **58)** państwo trzecie – państwo niebędące państwem członkowskim; <59) rozporządzenie 2023/2859 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );
+- **60)** europejski pojedynczy punkt dostępu – europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
+- **61)** metadane – metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;
+- **62)** format umożliwiający ekstrakcję danych – format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;
+- **63)** format nadający się do odczytu maszynowego – format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego.
 
 2. Za wchodzące w skład holdingów, o których mowa w ust. 1 pkt 10–11a, 11b lit. a oraz w pkt 11c, uważa się także podmioty posiadające bliskie powiązania z bankiem krajowym, wchodzącym w skład holdingu.
 
@@ -166,6 +179,11 @@ source: "isap-pdf"
 3. Od decyzji Komisji Nadzoru Finansowego w sprawie oceny, o której mowa w art. 4 ust. 1 pkt 15 lit. b, uprawniony do złożenia wniosku o ponowne rozpatrzenie sprawy lub wniesienia skargi do sądu administracyjnego jest również bank.
 
 **Art. 4b.** Komisja Nadzoru Finansowego może, w drodze decyzji, uznać za bank istotny bank niespełniający warunków, o których mowa w art. 4 ust. 1 pkt 35 lit. a, mając na uwadze:
+
+- **1)** stopień złożoności struktury organizacyjnej banku;
+- **2)** złożoność użytkowanych systemów informatycznych;
+- **3)** złożoność czynności wykonywanych przez bank;
+- **4)** zidentyfikowanie banku jako globalnej instytucji o znaczeniu systemowym albo innej instytucji o znaczeniu systemowym na podstawie przepisów ustawy o nadzorze makroostrożnościowym.
 
 **Art. 4c.**
 
@@ -405,7 +423,13 @@ source: "isap-pdf"
 
 4. (uchylony)
 
-5. Przepis art. 6c stosuje się odpowiednio. Art. 6da. Do powierzania przez bank wykonywania czynności, o których mowa w art. 6a ust. 1, przedsiębiorcy będącemu bankiem krajowym, dostawcą usług płatniczych, o którym mowa w art. 4 ust. 2 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, albo instytucją kredytową, z wyjątkiem przypadku, o którym mowa w art. 6db, przepisu art. 6c ust. 2 pkt 2, a także wymogu zawiadomienia Komisji Nadzoru Finansowego, o którym mowa w art. 6a ust. 1 pkt 1 lit. m, nie stosuje się. Art. 6db. 1. Do powierzenia przez bank hipoteczny wykonywania czynności, o których mowa w art. 6a ust. 1, bankowi krajowemu, który jest jedynym akcjonariuszem tego banku hipotecznego, nie stosuje się przepisu art. 6a ust. 3.
+5. Przepis art. 6c stosuje się odpowiednio.
+
+**Art. 6da.** Do powierzania przez bank wykonywania czynności, o których mowa w art. 6a ust. 1, przedsiębiorcy będącemu bankiem krajowym, dostawcą usług płatniczych, o którym mowa w art. 4 ust. 2 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, albo instytucją kredytową, z wyjątkiem przypadku, o którym mowa w art. 6db, przepisu art. 6c ust. 2 pkt 2, a także wymogu zawiadomienia Komisji Nadzoru Finansowego, o którym mowa w art. 6a ust. 1 pkt 1 lit. m, nie stosuje się.
+
+**Art. 6db.**
+
+1. Do powierzenia przez bank hipoteczny wykonywania czynności, o których mowa w art. 6a ust. 1, bankowi krajowemu, który jest jedynym akcjonariuszem tego banku hipotecznego, nie stosuje się przepisu art. 6a ust. 3.
 
 2. Bank hipoteczny ponosi pełną odpowiedzialność za zobowiązania wynikające z czynności powierzonych w sposób określony w art. 6a ust. 3.
 
@@ -414,7 +438,11 @@ source: "isap-pdf"
 - **1)** bank krajowy, któremu ma zostać powierzone wykonywanie czynności, o których mowa w art. 6a ust. 3, jest w trakcie realizacji planu naprawy lub wystąpiły w tym banku przesłanki, o których mowa w art. 142 ust. 1 i ust. 3 pkt 1;
 - **2)** powierzenie wykonywania czynności, o których mowa w art. 6a ust. 3, zagrażałoby stabilnemu zarządzaniu bankiem hipotecznym, w tym wpływałoby negatywnie na bezpieczne i prawidłowe wykonywanie powierzonych czynności, a także bezpieczeństwo emitowanych listów zastawnych.
 
-4. Komisja Nadzoru Finansowego doręcza bankowi sprzeciw, o którym mowa w ust. 3, w terminie 30 dni roboczych od dnia otrzymania zawiadomienia o zawarciu umowy, o której mowa w ust. 3. Jeżeli sprzeciw nie może być wydany w tym terminie z uwagi na szczególnie skomplikowany charakter sprawy, Komisja Nadzoru Finansowego informuje bank o terminie doręczenia sprzeciwu, nie dłuższym jednak niż 60 dni roboczych od dnia otrzymania zawiadomienia. Bieg terminu ulega zawieszeniu od dnia wezwania do uzupełnienia dokumentów lub złożenia dodatkowych wyjaśnień do dnia doręczenia, uzupełnienia lub złożenia dodatkowych wyjaśnień. Art. 6dc. 1. Zawiadomienia, o których mowa w art. 6a ust. 1 pkt 1 lit. m, art. 6c ust. 2 oraz art. 6d ust. 1 i 1k, wraz z załącznikami oraz dokumenty, o których mowa w art. 6c ust. 4, są wysyłane na adres do doręczeń elektronicznych Urzędu Komisji Nadzoru Finansowego wpisany do bazy adresów elektronicznych.
+4. Komisja Nadzoru Finansowego doręcza bankowi sprzeciw, o którym mowa w ust. 3, w terminie 30 dni roboczych od dnia otrzymania zawiadomienia o zawarciu umowy, o której mowa w ust. 3. Jeżeli sprzeciw nie może być wydany w tym terminie z uwagi na szczególnie skomplikowany charakter sprawy, Komisja Nadzoru Finansowego informuje bank o terminie doręczenia sprzeciwu, nie dłuższym jednak niż 60 dni roboczych od dnia otrzymania zawiadomienia. Bieg terminu ulega zawieszeniu od dnia wezwania do uzupełnienia dokumentów lub złożenia dodatkowych wyjaśnień do dnia doręczenia, uzupełnienia lub złożenia dodatkowych wyjaśnień.
+
+**Art. 6dc.**
+
+1. Zawiadomienia, o których mowa w art. 6a ust. 1 pkt 1 lit. m, art. 6c ust. 2 oraz art. 6d ust. 1 i 1k, wraz z załącznikami oraz dokumenty, o których mowa w art. 6c ust. 4, są wysyłane na adres do doręczeń elektronicznych Urzędu Komisji Nadzoru Finansowego wpisany do bazy adresów elektronicznych.
 
 2. Zawiadomienie wraz z załącznikami oraz dokumenty, o których mowa w art. 6c ust. 4, sporządza się w języku polskim, a w przypadku gdy dokumenty są w języku obcym – tłumaczy się je na język polski. Tłumaczenie powinno być sporządzone przez tłumacza przysięgłego lub właściwego konsula Rzeczypospolitej Polskiej.
 
@@ -494,7 +522,11 @@ source: "isap-pdf"
 
 - **1)** funkcję kontroli mającą za zadanie zapewnienie przestrzegania mechanizmów kontrolnych dotyczących w szczególności zarządzania ryzykiem w banku, która obejmuje stanowiska, grupy ludzi lub jednostki organizacyjne odpowiedzialne za realizację zadań przypisanych tej funkcji;
 - **2)** komórkę do spraw zgodności mającą za zadanie identyfikację, ocenę, kontrolę i monitorowanie ryzyka braku zgodności działalności banku z przepisami prawa, regulacjami wewnętrznymi i standardami rynkowymi oraz przedstawianie raportów w tym zakresie;
-- **3)** niezależną komórkę audytu wewnętrznego mającą za zadanie badanie i ocenę, w sposób niezależny i obiektywny, adekwatności i skuteczności systemu zarządzania ryzykiem i systemu kontroli wewnętrznej, z wyłączeniem komórki audytu wewnętrznego. Art. 9ca. 1. Bank jest obowiązany sporządzić i stosować politykę wynagrodzeń dla poszczególnych kategorii osób, których działalność zawodowa ma istotny wpływ na profil ryzyka banku, obejmującą wynagrodzenia i uznaniowe świadczenia emerytalne w rozumieniu art. 4 ust. 1 pkt 73 rozporządzenia nr 575/2013, zwaną dalej „polityką wynagrodzeń”.
+- **3)** niezależną komórkę audytu wewnętrznego mającą za zadanie badanie i ocenę, w sposób niezależny i obiektywny, adekwatności i skuteczności systemu zarządzania ryzykiem i systemu kontroli wewnętrznej, z wyłączeniem komórki audytu wewnętrznego.
+
+**Art. 9ca.**
+
+1. Bank jest obowiązany sporządzić i stosować politykę wynagrodzeń dla poszczególnych kategorii osób, których działalność zawodowa ma istotny wpływ na profil ryzyka banku, obejmującą wynagrodzenia i uznaniowe świadczenia emerytalne w rozumieniu art. 4 ust. 1 pkt 73 rozporządzenia nr 575/2013, zwaną dalej „polityką wynagrodzeń”.
 
 1a. Osobą, której działalność zawodowa ma istotny wpływ na profil ryzyka banku, jest osoba, która:
 
@@ -535,7 +567,11 @@ source: "isap-pdf"
 - **1)** mających siedzibę na terytorium państwa członkowskiego, jeżeli stosują one szczególne regulacje dotyczące polityki wynagrodzeń określone w obowiązujących w tych państwach przepisach stanowiących implementację innych niż dyrektywa 2013/36/UE przepisów prawa Unii Europejskiej lub w innych niż dyrektywa 2013/36/UE przepisach prawa Unii Europejskiej;
 - **2)** mających siedzibę w państwie trzecim, jeżeli stosowałyby one przepisy dotyczące polityki wynagrodzeń określone w przepisach prawa Unii Europejskiej, gdyby miały siedzibę w państwie członkowskim.
 
-9. Przepisu ust. 8 nie stosuje się do osób świadczących pracę lub realizujących zadania na rzecz podmiotów zależnych banku będących spółką zarządzania aktywami w rozumieniu art. 4 ust. 1 pkt 19 rozporządzenia nr 575/2013 lub firmą inwestycyjną w rozumieniu art. 4 ust. 1 pkt 2 rozporządzenia nr 575/2013 albo zagraniczną osobą prawną z siedzibą na terytorium państwa innego niż państwo członkowskie, nieprowadzącą na terytorium Rzeczypospolitej Polskiej działalności maklerskiej, które świadczą usługi maklerskie, o których mowa w art. 69 ust. 2 pkt 2–4, 6 i 7 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, oraz wywierają bezpośredni, istotny wpływ na profil ryzyka działalności banku. Art. 9cb. 1. W banku istotnym działają:
+9. Przepisu ust. 8 nie stosuje się do osób świadczących pracę lub realizujących zadania na rzecz podmiotów zależnych banku będących spółką zarządzania aktywami w rozumieniu art. 4 ust. 1 pkt 19 rozporządzenia nr 575/2013 lub firmą inwestycyjną w rozumieniu art. 4 ust. 1 pkt 2 rozporządzenia nr 575/2013 albo zagraniczną osobą prawną z siedzibą na terytorium państwa innego niż państwo członkowskie, nieprowadzącą na terytorium Rzeczypospolitej Polskiej działalności maklerskiej, które świadczą usługi maklerskie, o których mowa w art. 69 ust. 2 pkt 2–4, 6 i 7 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, oraz wywierają bezpośredni, istotny wpływ na profil ryzyka działalności banku.
+
+**Art. 9cb.**
+
+1. W banku istotnym działają:
 
 - **1)** komitet do spraw wynagrodzeń,
 - **2)** komitet do spraw ryzyka – w skład których wchodzą osoby powoływane spośród członków rady nadzorczej banku.
@@ -551,7 +587,13 @@ source: "isap-pdf"
 
 4. Bank zapewnia komitetowi do spraw wynagrodzeń dostęp do informacji, zasoby oraz wsparcie, niezbędne do realizacji jego zadań, w tym możliwość korzystania przez komitet z usług ekspertów zewnętrznych.
 
-5. Na wniosek banku niebędącego bankiem istotnym Komisja Nadzoru Finansowego może wyrazić zgodę na połączenie komitetu do spraw ryzyka z komitetem audytu, o którym mowa w art. 128 ust. 1 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2024 r. poz. 1035 i 1863), o ile większość z członków rady nadzorczej banku mających wchodzić w skład połączonego komitetu, w tym przewodniczący połączonego komitetu, spełnia kryteria, o których mowa w art. 129 ust. 3 tej ustawy. Przepisy art. 129 ust. 1, 5 i 6 tej ustawy stosuje się odpowiednio. Art. 9cc. Bank dokumentuje systemy i procesy, o których mowa w przepisach ustawy lub rozporządzenia nr 575/2013, oraz rejestruje transakcje, w sposób umożliwiający Komisji Nadzoru Finansowego sprawowanie nadzoru nad zgodnością działalności banku z tymi przepisami. Art. 9cd. 1. W banku istotnym działa komitet do spraw nominacji, którego członkowie są powołani przez radę nadzorczą spośród swoich członków.
+5. Na wniosek banku niebędącego bankiem istotnym Komisja Nadzoru Finansowego może wyrazić zgodę na połączenie komitetu do spraw ryzyka z komitetem audytu, o którym mowa w art. 128 ust. 1 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2024 r. poz. 1035 i 1863), o ile większość z członków rady nadzorczej banku mających wchodzić w skład połączonego komitetu, w tym przewodniczący połączonego komitetu, spełnia kryteria, o których mowa w art. 129 ust. 3 tej ustawy. Przepisy art. 129 ust. 1, 5 i 6 tej ustawy stosuje się odpowiednio.
+
+**Art. 9cc.** Bank dokumentuje systemy i procesy, o których mowa w przepisach ustawy lub rozporządzenia nr 575/2013, oraz rejestruje transakcje, w sposób umożliwiający Komisji Nadzoru Finansowego sprawowanie nadzoru nad zgodnością działalności banku z tymi przepisami.
+
+**Art. 9cd.**
+
+1. W banku istotnym działa komitet do spraw nominacji, którego członkowie są powołani przez radę nadzorczą spośród swoich członków.
 
 2. Komitet do spraw nominacji, przy realizacji powierzonych mu zadań, uwzględnia, w miarę możliwości, potrzebę zapewnienia, aby proces decyzyjny w zarządzie banku nie został zdominowany przez jedną osobę, co mogłoby wpłynąć w sposób niekorzystny na interes banku.
 
@@ -559,7 +601,9 @@ source: "isap-pdf"
 
 4. Bank zapewnia odpowiednie finansowanie realizacji zadań przez komitet do spraw nominacji.
 
-5. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy zakres zadań komitetu do spraw nominacji, uwzględniając potrzebę zapewnienia skutecznego, prawidłowego i ostrożnego zarządzania bankiem. Art. 9ce. Komitet do spraw nominacji albo rada nadzorcza, jeżeli nie powołano tego komitetu, przyjmuje politykę różnorodności w składzie zarządu banku, uwzględniającą szeroki zestaw cech i kompetencji wymaganych w przypadku osób pełniących funkcję członków zarządu.
+5. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy zakres zadań komitetu do spraw nominacji, uwzględniając potrzebę zapewnienia skutecznego, prawidłowego i ostrożnego zarządzania bankiem.
+
+**Art. 9ce.** Komitet do spraw nominacji albo rada nadzorcza, jeżeli nie powołano tego komitetu, przyjmuje politykę różnorodności w składzie zarządu banku, uwzględniającą szeroki zestaw cech i kompetencji wymaganych w przypadku osób pełniących funkcję członków zarządu.
 
 **Art. 9d.** (uchylony)
 
@@ -659,7 +703,14 @@ source: "isap-pdf"
 - **3)** zagroziłoby prowadzonemu postępowaniu karnemu lub postępowaniu w sprawach o przestępstwa skarbowe;
 - **4)** wyrządziłoby niewspółmierną szkodę tej osobie.
 
-4. Komisja Nadzoru Finansowego przekazuje Europejskiemu Urzędowi Nadzoru Bankowego informacje o zastosowanych sankcjach administracyjnych.
+4. Komisja Nadzoru Finansowego przekazuje Europejskiemu Urzędowi Nadzoru Bankowego informacje o zastosowanych sankcjach administracyjnych. <5. Komisja Nadzoru Finansowego udostępnia informacje, o których mowa w ust. 1 i 1a, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+
+6. Informacje, o których mowa w ust. 1 i 1a, są opatrywane następującymi metadanymi:
+
+- **1)** imieniem i nazwiskiem osoby lub nazwą (firmą) podmiotu, na które nałożono sankcję;
+- **2)** identyfikatorem podmiotu prawnego podmiotu, na który nałożono sankcję, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji Nadzoru Finansowego;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 **Art. 11.**
 
@@ -815,9 +866,13 @@ source: "isap-pdf"
 - **1)** nie mogą być łączone funkcje prezesa zarządu oraz członka zarządu, o którym mowa w ust. 4;
 - **2)** prezesowi zarządu banku nie może być powierzony nadzór nad obszarem działalności banku stwarzającym ryzyko istotne w działalności banku;
 - **3)** członkowi zarządu banku, o którym mowa w ust. 4, nie może być powierzony nadzór nad obszarem działalności banku stwarzającym ryzyko, którym zarządzanie nadzoruje;
-- **4)** poza kompetencjami, o których mowa w ust. 3 i 4, należy przyporządkować kompetencje w zakresie nadzoru nad: Art. 22aa. 1. Członkowie zarządu i rady nadzorczej banku, finansowej spółki holdingowej i finansowej spółki holdingowej o działalności mieszanej powinni mieć wiedzę, umiejętności i doświadczenie, odpowiednie do pełnionych przez nich funkcji i powierzonych im obowiązków, oraz dawać rękojmię należytego wykonywania tych obowiązków. Rękojmia, o której mowa w zdaniu pierwszym, odnosi się w szczególności do reputacji, uczciwości i rzetelności danej osoby oraz zdolności do prowadzenia spraw banku, finansowej spółki holdingowej i finansowej spółki holdingowej o działalności mieszanej w sposób ostrożny i stabilny.
+- **4)** poza kompetencjami, o których mowa w ust. 3 i 4, należy przyporządkować kompetencje w zakresie nadzoru nad:
     - **a)** ryzykiem braku zgodności działalności banku z przepisami prawa, regulacjami wewnętrznymi i standardami rynkowymi,
     - **b)** obszarem rachunkowości i sprawozdawczości finansowej, w tym kontroli finansowej.
+
+**Art. 22aa.**
+
+1. Członkowie zarządu i rady nadzorczej banku, finansowej spółki holdingowej i finansowej spółki holdingowej o działalności mieszanej powinni mieć wiedzę, umiejętności i doświadczenie, odpowiednie do pełnionych przez nich funkcji i powierzonych im obowiązków, oraz dawać rękojmię należytego wykonywania tych obowiązków. Rękojmia, o której mowa w zdaniu pierwszym, odnosi się w szczególności do reputacji, uczciwości i rzetelności danej osoby oraz zdolności do prowadzenia spraw banku, finansowej spółki holdingowej i finansowej spółki holdingowej o działalności mieszanej w sposób ostrożny i stabilny.
 
 2. Liczba funkcji członka zarządu lub rady nadzorczej pełnionych jednocześnie przez członka zarządu lub rady nadzorczej banku, finansowej spółki holdingowej albo finansowej spółki holdingowej o działalności mieszanej powinna być uzależniona od indywidualnych okoliczności oraz charakteru, skali i stopnia złożoności działalności danego podmiotu.
 
@@ -904,7 +959,9 @@ source: "isap-pdf"
 - **3)** imię i nazwisko lub firmę osoby, w imieniu której został zgłoszony wniosek;
 - **4)** rozstrzygnięcie w sprawie wniosku.
 
-2. Protokół, o którym mowa w ust. 1, powinien być przekazany Komisji Nadzoru Finansowego w terminie 14 dni od dnia zakończenia walnego zgromadzenia. Art. 22ca. Komisja Nadzoru Finansowego dokonuje oceny, czy członkowie zarządu i rady nadzorczej spełniają wymogi określone w art. 22aa. W ocenie uwzględnia się w szczególności przypadki uzasadnionego podejrzenia popełnienia przestępstwa, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383), zwanej dalej „Kodeksem karnym”, z wykorzystaniem działalności banku, finansowej spółki holdingowej lub finansowej spółki holdingowej o działalności mieszanej, uzasadnionego podejrzenia usiłowania popełnienia tego przestępstwa lub istnienia podwyższonego ryzyka popełnienia tego przestępstwa.
+2. Protokół, o którym mowa w ust. 1, powinien być przekazany Komisji Nadzoru Finansowego w terminie 14 dni od dnia zakończenia walnego zgromadzenia.
+
+**Art. 22ca.** Komisja Nadzoru Finansowego dokonuje oceny, czy członkowie zarządu i rady nadzorczej spełniają wymogi określone w art. 22aa. W ocenie uwzględnia się w szczególności przypadki uzasadnionego podejrzenia popełnienia przestępstwa, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383), zwanej dalej „Kodeksem karnym”, z wykorzystaniem działalności banku, finansowej spółki holdingowej lub finansowej spółki holdingowej o działalności mieszanej, uzasadnionego podejrzenia usiłowania popełnienia tego przestępstwa lub istnienia podwyższonego ryzyka popełnienia tego przestępstwa.
 
 **Art. 22d.**
 
@@ -1110,7 +1167,9 @@ source: "isap-pdf"
 
 6. Na wniosek akcjonariusza lub podmiotu dominującego Komisja Nadzoru Finansowego uchyla decyzję wydaną na podstawie ust. 1, jeżeli ustały okoliczności uzasadniające wydanie tej decyzji.
 
-7. Przepisy ust. 1–6 stosuje się odpowiednio w przypadku, o którym mowa w art. 25 ust. 7, do podmiotów będących stronami porozumienia, o którym mowa w tym przepisie. Art. 25na. W przypadku zaległej kary pieniężnej, o której mowa w art. 25n ust. 5 lub 5a, Komisja Nadzoru Finansowego może nakazać bankowi, którego akcjonariuszem jest podmiot, na który została nałożona kara, przekazanie na poczet zaległej kary wraz z odsetkami wszelkich płatności dokonywanych przez bank na rzecz tego akcjonariusza, w kwocie odpowiadającej tej karze wraz z odsetkami.
+7. Przepisy ust. 1–6 stosuje się odpowiednio w przypadku, o którym mowa w art. 25 ust. 7, do podmiotów będących stronami porozumienia, o którym mowa w tym przepisie.
+
+**Art. 25na.** W przypadku zaległej kary pieniężnej, o której mowa w art. 25n ust. 5 lub 5a, Komisja Nadzoru Finansowego może nakazać bankowi, którego akcjonariuszem jest podmiot, na który została nałożona kara, przekazanie na poczet zaległej kary wraz z odsetkami wszelkich płatności dokonywanych przez bank na rzecz tego akcjonariusza, w kwocie odpowiadającej tej karze wraz z odsetkami.
 
 **Art. 25o.** Podmiot, który bezpośrednio lub pośrednio nabył albo objął akcje lub prawa z akcji banku krajowego, jeżeli stanowią one wraz z akcjami nabytymi albo objętymi wcześniej pakiet zapewniający osiągnięcie lub przekroczenie progu 5 %, 10 %, 20 %, 25 %, jednej trzeciej, 50 %, 66 % i 75 % ogólnej liczby głosów na walnym zgromadzeniu, albo stał się podmiotem dominującym banku krajowego, jest każdorazowo obowiązany niezwłocznie powiadomić o tym ten bank. Bank zawiadamia Komisję Nadzoru Finansowego o przypadku, o którym mowa w zdaniu pierwszym, niezwłocznie po uzyskaniu takiej informacji. W przypadku gdy statut banku krajowego przewiduje uprzywilejowanie lub ograniczenie akcji co do prawa głosu, powiadomienie powinno również dotyczyć udziału w kapitale zakładowym w wysokości odpowiadającej wielkościom określonym w zdaniu pierwszym i odpowiadającej mu liczbie głosów bez przywilejów i ograniczeń. Przepisy art. 25 ust. 2–7 stosuje się odpowiednio.
 
@@ -1141,11 +1200,7 @@ source: "isap-pdf"
 
 1. Nabycie lub posiadanie akcji przez podmiot zależny uważa się za nabycie lub posiadanie akcji przez podmiot dominujący.
 
-2. Przepisy niniejszej ustawy nie naruszają przepisów rozdziału 4 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych. [Art. 28. 1. Akcje banków, z wyłączeniem akcji zdematerializowanych zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, są akcjami imiennymi. W okresie roku, licząc od daty wpisania banku do rejestru przedsiębiorców, zbycie akcji imiennych przez akcjonariuszy wymaga zezwolenia Komisji Nadzoru Finansowego.
-
-2. W razie wykluczenia lub wycofania akcji banku z obrotu na rynku regulowanym zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi lub ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, akcje na okaziciela podlegają zamianie na akcje imienne.
-
-3. Do akcji banku krajowego objętych przez założyciela w przypadku, o którym mowa w art. 42a, nie stosuje się przepisów art. 336 § 1 i 2 Kodeksu spółek handlowych.]
+2. Przepisy niniejszej ustawy nie naruszają przepisów rozdziału 4 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.
 
 **Art. 29.** (uchylony) D. Postępowanie przy tworzeniu banków
 
@@ -1214,6 +1269,10 @@ source: "isap-pdf"
 **Art. 31a.** Oświadczenia, o których mowa w art. 22b ust. 2 i art. 31 ust. 2 pkt 3, są składane pod rygorem odpowiedzialności karnej. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
 **Art. 31b.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy zakres informacji, o których mowa w art. 22a ust. 2,
+- **2)** dokumenty, które należy załączyć do wniosku, o którym mowa w art. 22b ust. 1, w celu przedstawienia informacji określonych w art. 22b ust. 2,
+- **3)** wykaz dokumentów, o których mowa w art. 31 ust. 2 pkt 3 – kierując się potrzebą zapewnienia Komisji Nadzoru Finansowego dostępu do danych niezbędnych do prawidłowego sprawowania nadzoru, w tym oceny spełniania wymogów ustawowych przez założycieli i członków organów banku, a także badania sytuacji finansowej założycieli.
 
 **Art. 32.**
 
@@ -1430,6 +1489,13 @@ source: "isap-pdf"
 
 **Art. 42b.** Oprócz dokumentów, o których mowa w art. 31 ust. 2, do wniosku o wydanie zezwolenia na utworzenie banku krajowego przez instytucję kredytową, o którym mowa w art. 42a ust. 1, załącza się:
 
+- **1)** zweryfikowane przez firmę audytorską:
+    - **a)** ustalenie wartości majątku oddziału na określony dzień w miesiącu poprzedzającym złożenie wniosku o utworzenie banku krajowego, według dotychczasowych zasad rachunkowości przyjętych przez oddział, bez ujmowania w aktywach dodatkowych składników oraz dokonywania zmian w zasadach ustalania szacunków wpływających na wycenę aktywów i pasywów,
+    - **b)** oświadczenie zawierające informację o stanie księgowym oddziału sporządzoną dla celów utworzenia banku krajowego na dzień, o którym mowa w lit. a, stwierdzające, że wartość wkładu niepieniężnego odpowiada wartości bilansowej przedsiębiorstwa lub zorganizowanej części przedsiębiorstwa oddziału, wycenionych według dotychczasowych zasad rachunkowości przyjętych przez oddział instytucji kredytowej;
+
+- **2)** uwierzytelnioną kopię przekazywanego za pośrednictwem właściwych władz nadzorczych państwa macierzystego zawiadomienia dotyczącego zamiaru zaprzestania działalności na terytorium Rzeczypospolitej Polskiej poprzez oddział;
+- **3)** informację o zezwoleniach, koncesjach oraz ulgach, które zostały przyznane instytucji kredytowej w związku z utworzeniem lub działalnością oddziału, wraz z uwierzytelnioną kopią zawiadomienia innego niż Komisja Nadzoru Finansowego organu, który wydał zezwolenie lub udzielił koncesji, o zamiarze utworzenia banku krajowego i możliwości zgłoszenia sprzeciwu, o którym mowa w art. 42e ust. 2 pkt 3.
+
 **Art. 42c.**
 
 1. Przed wydaniem decyzji w przedmiocie zezwolenia na utworzenie banku krajowego, o którym mowa w art. 42a ust. 1, w oddziale instytucji kredytowej przeprowadza się czynności kontrolne. Do czynności tych przepisy art. 133 ust. 2–4, art. 135 i 136 stosuje się odpowiednio.
@@ -1456,7 +1522,57 @@ source: "isap-pdf"
 
 6. Spółka w organizacji, która ma stać się bankiem, o którym mowa w ust. 1, składa do Komisji Nadzoru Finansowego zawiadomienie, o którym mowa w art. 6a ust. 1 pkt 1 lit. m i art. 6d ust. 1, jeżeli do czynności powierzanych z chwilą wpisu banku do rejestru przedsiębiorców zastosowanie znajdą przepisy art. 6a ust. 1 pkt 1 lit. m i art. 6d ust. 1.
 
-**Art. 42f.** (uchylony) Daa. Przekształcenie domu maklerskiego w bank krajowy Art. 42fa. Dom maklerski spełniający warunki, o których mowa w art. 4 ust. 1 pkt 1 lit. b rozporządzenia nr 575/2013, jest obowiązany przekształcić się w bank krajowy, na zasadach określonych w niniejszym oddziale. Art. 42fb. 1. W zakresie nieuregulowanym w niniejszym oddziale do przekształcenia domu maklerskiego w bank krajowy stosuje się odpowiednio przepisy art. 30–31a, art. 32–38 oraz przepisy wykonawcze wydane na podstawie art. 31b, z tym że:
+**Art. 42f.** (uchylony) Daa. Przekształcenie domu maklerskiego w bank krajowy
+
+**Art. 42fa.** Dom maklerski spełniający warunki, o których mowa w art. 4 ust. 1 pkt 1 lit. b rozporządzenia nr 575/2013, jest obowiązany przekształcić się w bank krajowy, na zasadach określonych w niniejszym oddziale.
+
+**Art. 42fb.**
+
+1. W zakresie nieuregulowanym w niniejszym oddziale do przekształcenia domu maklerskiego w bank krajowy stosuje się odpowiednio przepisy art. 30–31a, art. 32–38 oraz przepisy wykonawcze wydane na podstawie art. 31b, z tym że:
+
+- **1)** bank krajowy, o którym mowa w art. 42fa, może być wyłącznie bankiem w formie spółki akcyjnej;
+- **2)** jeżeli dom maklerski, o którym mowa w art. 42fa, prowadzi działalność w innej formie niż spółka akcyjna, jest obowiązany przekształcić się w spółkę akcyjną przed wystąpieniem o zezwolenia, o których mowa w art. 34 ust. 1 i art. 36;
+- **3)** ilekroć w tych przepisach jest mowa o kapitale założycielskim banku, należy przez to rozumieć fundusze własne domu maklerskiego odpowiadające elementom kapitału podstawowego Tier I, o których mowa w art. 26 ust. 1 lit. a–e rozporządzenia nr 575/2013, spełniające wymagania określone w art. 32;
+- **4)** wniosek o wydanie zezwoleń, o których mowa w art. 34 ust. 1 i art. 36, składa się jednocześnie;
+- **5)** do wniosku o wydanie zezwoleń, o których mowa w art. 34 ust. 1 i art. 36, dołącza się dokumenty określone w art. 31 ust. 2 pkt 1–3 i 3b oraz:
+    - **a)** opinie właściwych władz nadzorczych kraju siedziby akcjonariuszy domu maklerskiego będących podmiotami nadzorowanymi przez te władze, posiadających, bezpośrednio lub pośrednio, akcje lub prawa z akcji w liczbie zapewniającej co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu lub udziału w kapitale zakładowym,
+    - **b)** dokumenty i informacje określone w rozporządzeniu delegowanym Komisji wydanym na podstawie upoważnienia zawartego w art. 8a ust. 6 lit. a dyrektywy 2013/36/UE,
+    - **c)** zweryfikowane przez firmę audytorską sprawozdanie finansowe lub wyciąg z ksiąg rachunkowych pozwalające na ustalenie wartości majątku domu maklerskiego na określony dzień w miesiącu poprzedzającym złożenie wniosku o wydanie zezwoleń, według dotychczasowych zasad rachunkowości przyjętych przez dom maklerski, bez ujmowania w aktywach dodatkowych składników oraz dokonywania zmian w zasadach ustalania szacunków wpływających na wycenę aktywów i pasywów;
+
+- **6)** przepisy art. 30–31a, art. 32–38 oraz przepisy wykonawcze wydane na podstawie art. 31b pkt 3, dotyczące założycieli, stosuje się odpowiednio do podmiotów posiadających, bezpośrednio lub pośrednio, akcje lub prawa z akcji domu maklerskiego w liczbie zapewniającej co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu lub udziału w kapitale zakładowym, albo do domu maklerskiego;
+- **7)** w zezwoleniu, o którym mowa w art. 34 ust. 1, nie określa się warunków, po spełnieniu których Komisja Nadzoru Finansowego zezwoli na rozpoczęcie przez bank działalności;
+- **8)** w sprawie wydania zezwoleń, o których mowa w art. 34 ust. 1 i art. 36, Komisja Nadzoru Finansowego rozstrzyga jednocześnie, wydając jedną decyzję.
+
+2. W przypadku, o którym mowa w ust. 1 pkt 2, przepisy działu III rozdziałów 1 i 4 Kodeksu spółek handlowych stosuje się, z tym że podmioty niebędące udziałowcami takiego domu maklerskiego nie mogą, do dnia przekształcenia, obejmować akcji w powstałej w wyniku przekształcenia spółce akcyjnej.
+
+3. Jeżeli do spełnienia wymogów określonych w ust. 1 pkt 3 konieczne jest zwiększenie funduszy własnych, akcje w podwyższonym kapitale zakładowym mogą zostać objęte wyłącznie przez dotychczasowych akcjonariuszy lub udziałowców domu maklerskiego.
+
+**Art. 42fc.**
+
+1. Dom maklerski, o którym mowa w art. 42fa, występuje do Komisji Nadzoru Finansowego z wnioskiem o wydanie zezwoleń, o których mowa w art. 34 ust. 1 i art. 36:
+
+- **1)** najpóźniej w dniu, w którym miało miejsce jedno z następujących zdarzeń:
+    - **a)** średnia miesięczna całkowita wartość aktywów, obliczona za okres 12 kolejnych miesięcy, jest równa lub wyższa niż równowartość w złotych 30 000 000 000 euro,
+    - **b)** średnia miesięczna całkowita wartość aktywów, obliczona za okres 12 kolejnych miesięcy, jest niższa niż równowartość w złotych 30 000 000 000 euro, a dom maklerski wchodzi w skład grupy, w której całkowita wartość skonsolidowanych aktywów wszystkich przedsiębiorstw należących do grupy, posiadających, każde z osobna, aktywa o całkowitej wartości niższej niż równowartość w złotych 30 000 000 000 euro oraz prowadzących którykolwiek z rodzajów działalności, o których mowa w art. 69 ust. 2 pkt 3 lub 7 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, jest równa lub wyższa niż równowartość w złotych 30 000 000 000 euro, przy czym obie te wartości obliczane są jako średnia za okres 12 kolejnych miesięcy;
+
+- **2)** w terminie 60 dni od dnia otrzymania decyzji, o której mowa w art. 4 ust. 1 pkt 1 lit. b (iii) rozporządzenia nr 575/2013 – w przypadku gdy decyzja taka została wydana.
+
+2. W przypadku, o którym mowa w art. 42fb ust. 1 pkt 2, dom maklerski:
+
+- **1)** niezwłocznie po wystąpieniu jednego ze zdarzeń, o których mowa w ust. 1 pkt 1, albo niezwłocznie po otrzymaniu decyzji, o której mowa w ust. 1 pkt 2, jest obowiązany przekształcić się w spółkę akcyjną;
+- **2)** występuje o zezwolenia, o których mowa w art. 34 ust. 1 i art. 36, niezwłocznie po dniu przekształcenia.
+
+3. Równowartość w złotych kwot, o których mowa w ust. 1 pkt 1, oblicza się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe.
+
+4. Średnie miesięczne wartości aktywów, o których mowa w ust. 1 pkt 1, oblicza się zgodnie z metodą obliczania wartości progowych, określoną w rozporządzeniu delegowanym Komisji wydanym na podstawie upoważnienia zawartego w art. 8a ust. 6 lit. b dyrektywy 2013/36/UE.
+
+**Art. 42fd.** Przed wydaniem zezwoleń, o których mowa w art. 34 ust. 1 i art. 36, w domu maklerskim przeprowadza się czynności kontrolne. Do czynności tych przepisy art. 133 ust. 2–4, art. 135 i art. 136 stosuje się odpowiednio.
+
+**Art. 42fe.**
+
+1. Dom maklerski, o którym mowa w art. 42fa, do dnia zarejestrowania statutu banku, którego projekt zatwierdzono w zezwoleniu, o którym mowa w art. 34 ust. 1, prowadzi działalność maklerską w zakresie ustalonym w zezwoleniu, o którym mowa w art. 69 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+2. Z dniem zarejestrowania statutu banku, którego projekt zatwierdzono w zezwoleniu, o którym mowa w art. 34 ust. 1, zezwolenie, o którym mowa w art. 69 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, udzielone domowi maklerskiemu, o którym mowa w art. 42fa, uznaje się za zezwolenie, o którym mowa w art. 111 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. Db. Pośrednia unijna jednostka dominująca
 
 **Art. 42g.**
 
@@ -1502,6 +1618,9 @@ source: "isap-pdf"
 **Art. 43.** Bank państwowy może być przekształcony w bank w formie spółki akcyjnej.
 
 **Art. 44.** Rada Ministrów na wniosek ministra właściwego do spraw aktywów państwowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego, mając na uwadze konieczność ochrony interesów Skarbu Państwa, w drodze rozporządzenia:
+
+- **1)** przekształca bank państwowy w spółkę akcyjną z udziałem Skarbu Państwa;
+- **2)** określa, w jakim zakresie majątek banku państwowego zostanie wniesiony do spółki akcyjnej na pokrycie kapitału akcyjnego, w jakim zaś nastąpi zbycie tego majątku tworzonej spółce akcyjnej z udziałem Skarbu Państwa.
 
 **Art. 45.** Przekształcenie banku państwowego w spółkę akcyjną nie powoduje zmian w zakresie zawartych przez bank umów i uprawnień z tytułu decyzji administracyjnych. Przekształcenie banku następuje na podstawie bilansu sporządzonego na dzień przekształcenia. Z tym dniem bank w formie spółki akcyjnej wchodzi we wszystkie prawa i obowiązki przekształcanego banku państwowego.
 
@@ -1734,7 +1853,12 @@ source: "isap-pdf"
 
 **Art. 51.** Rachunek bankowy, z wyjątkiem rachunku rodzinnego, może być prowadzony dla kilku osób fizycznych, kilku jednostek samorządu terytorialnego, stron umowy o współpracy w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290 oraz z 2025 r. poz. 769, 1023 i
 
+- **1668)** , kilku dobrowolnych funduszy emerytalnych będących funduszami zdefiniowanej daty w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2024 r. poz. 427 oraz z 2025 r. poz. 1216) zarządzanych przez jedno powszechne towarzystwo emerytalne albo kilku funduszy inwestycyjnych w rozumieniu ustawy o funduszach inwestycyjnych zarządzanych przez jedno towarzystwo funduszy inwestycyjnych, których jednostki uczestnictwa mogą być nabywane w ramach jednego produktu finansowego oferowanego przez to towarzystwo – rachunek wspólny.
+
 **Art. 51a.** W przypadku rachunku wspólnego prowadzonego dla osób fizycznych, o ile umowa rachunku bankowego nie stanowi inaczej:
+
+- **1)** każdy ze współposiadaczy rachunku może dysponować samodzielnie środkami pieniężnymi zgromadzonymi na rachunku;
+- **2)** każdy ze współposiadaczy rachunku może w każdym czasie wypowiedzieć umowę ze skutkiem dla pozostałych współposiadaczy.
 
 **Art. 51b.**
 
@@ -1799,6 +1923,9 @@ source: "isap-pdf"
 2. Środki pieniężne zgromadzone na rachunku oszczędnościowym, rachunku oszczędnościowo-rozliczeniowym oraz na rachunku terminowej lokaty oszczędnościowej prowadzonym dla kilku osób fizycznych są wolne od zajęcia do wysokości określonej w ust. 1, niezależnie od liczby współposiadaczy takiego rachunku.
 
 **Art. 54a.** Środki pieniężne znajdujące się na rachunkach oszczędnościowych, rachunkach oszczędnościowo-rozliczeniowych oraz na rachunkach terminowych lokat oszczędnościowych pochodzące ze świadczeń, dodatków i zasiłków, o których mowa w art. 833 § 6 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego i w art. 10 § 4 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132, 620 i
+
+- **1302)** , oraz świadczeń, dodatków i innych kwot, o których mowa w art. 31 ust. 1, art. 80 ust. 1, art. 81, art. 83 ust. 1 i 4, art. 84 pkt 2 i 3 i art. 140 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49 i 1301), oraz środków finansowych na utrzymanie lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego, o których mowa w art. 83 ust. 2 i art. 84 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, w części przysługującej na umieszczone w rodzinie zastępczej lub rodzinnym domu dziecka dzieci i osoby, które osiągnęły pełnoletność, przebywając w pieczy zastępczej, oraz świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 1649 oraz z 2025 r. poz. 1302), dodatkowego rocznego świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 9 stycznia 2020 r. o dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. z 2024 r. poz. 891), kolejnego w 2021 r. dodatkowego rocznego świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 21 stycznia 2021 r. o kolejnym w 2021 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. z 2022 r. poz. 2235), świadczenia pieniężnego, o którym mowa w art. 13 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337, 620, 621 i 1301), kolejnego w 2022 r. dodatkowego rocznego świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 26 maja 2022 r. o kolejnym w 2022 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1358), oraz kolejnego dodatkowego rocznego świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 26 maja 2023 r. o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. z 2025 r. poz.
+- **183)** , są wolne od zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego.
 
 **Art. 54b.** Środki pieniężne znajdujące się na rachunku będącym przedmiotem blokady rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) nie podlegają zajęciu na podstawie sądowego lub administracyjnego tytułu wykonawczego poza wyjątkami określonymi w przepisach o postępowaniu egzekucyjnym.
 
@@ -2037,6 +2164,14 @@ source: "isap-pdf"
 
 **Art. 62f.** Przepisów niniejszego rozdziału nie stosuje się do:
 
+- **1)** rachunków w systemach płatności prowadzonych przez Narodowy Bank Polski;
+- **2)** rachunków, o których mowa w art. 192 ust. 1, art. 196 ust. 1 pkt 1 i 3 oraz ust. 2a, art. 200 ust. 1, art. 202 oraz art. 208 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
+- **3)** rachunków: o podatku od towarów i usług.
+    - **a)** prowadzonych przez Narodowy Bank Polski innych niż określone w pkt 1 i 2,
+    - **b)** banków prowadzonych przez inne banki,
+    - **c)** banków spółdzielczych prowadzonych przez bank zrzeszający,
+    - **d)** spółdzielczych kas oszczędnościowo-kredytowych prowadzonych przez Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową – które służą wyłącznie rozliczeniom z tytułu wykonania czynności, do których nie mają zastosowania przepisy ustawy z dnia 11 marca 2004 r.
+
 #### Rozdział 4 Rozliczenia pieniężne przeprowadzane za pośrednictwem banków
 
 **Art. 63.**
@@ -2138,6 +2273,12 @@ source: "isap-pdf"
 **Art. 67a.** Środki pieniężne zgromadzone na rachunku rozliczeniowym banku w rozumieniu ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2024 r. poz. 585) są wolne od zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego do wysokości niezbędnej do wykonania obowiązków, wynikających z uczestnictwa banku w systemie płatności lub systemie rozrachunku papierów wartościowych, powstałych przed momentem dokonania zajęcia.
 
 **Art. 68.** Prezes Narodowego Banku Polskiego określa, w drodze zarządzenia:
+
+- **1)** sposób przeprowadzania rozliczeń międzybankowych i rozrachunków międzybankowych, mając na względzie zapewnienie sprawnego i bezpiecznego dokonywania rozliczeń pieniężnych oraz funkcjonowania systemów płatności;
+- **2)** sposób i tryb przeliczania, sortowania, pakowania i oznaczania opakowań banknotów i monet oraz wykonywania czynności związanych z zaopatrywaniem banków w te znaki;
+- **3)** sposób numeracji banków i ich jednostek organizacyjnych;
+- **4)** sposób numeracji rachunków bankowych prowadzonych w bankach;
+- **5)** szczegółowy zakres oraz sposób przekazywania informacji związanych z numeracją banków i ich jednostek organizacyjnych.
 
 #### Rozdział 5 Kredyty i pożyczki pieniężne oraz zasady koncentracji zaangażowań
 
@@ -2253,6 +2394,9 @@ source: "isap-pdf"
 6. Przepisy ust. 1–5 stosuje się odpowiednio do umów pożyczek pieniężnych.
 
 **Art. 76.** Zasady oprocentowania kredytu określa umowa kredytu, z tym że w razie stosowania stopy zmiennej należy:
+
+- **1)** określić w umowie kredytowej warunki zmiany stopy procentowej kredytu;
+- **2)** powiadomić w sposób określony w umowie kredytobiorcę, poręczyciela oraz, jeżeli umowa nie stanowi inaczej, inne osoby będące dłużnikami banku z tytułu zabezpieczenia kredytu o każdej zmianie stopy jego oprocentowania.
 
 **Art. 76a.** Bank jest obowiązany niezwłocznie powiadomić, w sposób określony w umowie, osoby będące dłużnikami banku z tytułu zabezpieczenia kredytu, jeżeli kredytobiorca opóźnia się z jego spłatą.
 
@@ -2581,11 +2725,26 @@ source: "isap-pdf"
 
 13. Bank, który rekomenduje, oferuje, zawiera lub umożliwia zawarcie umowy lokaty strukturyzowanej, uzyskuje od banku, który opracowuje lokatę strukturyzowaną, informacje o rozwiązaniach określonych w ust. 8 oraz inne informacje pozwalające na zrozumienie cech lokaty strukturyzowanej oraz określonej grupy docelowej.
 
-14. Bank, który rekomenduje, oferuje, zawiera lub umożliwia zawarcie umowy lokaty strukturyzowanej, nie jest obowiązany do ponownego określenia grupy docelowej oraz strategii dystrybucji, jeżeli określił grupę docelową lub strategię dystrybucji w związku z opracowaniem lokaty strukturyzowanej. Art. 88ma. 1. Bank, który rekomenduje, oferuje, zawiera lub umożliwia zawarcie umowy lokaty strukturyzowanej na terytorium Rzeczypospolitej Polskiej albo wykonuje te czynności na terytorium innego państwa, jest obowiązany przekazywać Komisji Nadzoru Finansowego informacje dotyczące rozpoczęcia, ograniczenia i zaprzestania prowadzenia tej działalności, istotnego naruszenia przepisów związanych z prowadzeniem tej działalności oraz oferowanych lub zawieranych lokat strukturyzowanych.
+14. Bank, który rekomenduje, oferuje, zawiera lub umożliwia zawarcie umowy lokaty strukturyzowanej, nie jest obowiązany do ponownego określenia grupy docelowej oraz strategii dystrybucji, jeżeli określił grupę docelową lub strategię dystrybucji w związku z opracowaniem lokaty strukturyzowanej.
+
+**Art. 88ma.**
+
+1. Bank, który rekomenduje, oferuje, zawiera lub umożliwia zawarcie umowy lokaty strukturyzowanej na terytorium Rzeczypospolitej Polskiej albo wykonuje te czynności na terytorium innego państwa, jest obowiązany przekazywać Komisji Nadzoru Finansowego informacje dotyczące rozpoczęcia, ograniczenia i zaprzestania prowadzenia tej działalności, istotnego naruszenia przepisów związanych z prowadzeniem tej działalności oraz oferowanych lub zawieranych lokat strukturyzowanych.
 
 2. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy zakres informacji, o których mowa w ust. 1, formę, termin oraz sposób ich przekazywania, z uwzględnieniem konieczności zapewnienia skutecznego wykonywania przez Komisję Nadzoru Finansowego zadań związanych z monitorowaniem rynku lokat strukturyzowanych, o którym mowa w art. 39 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (EU) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, Dz. Urz. UE L 270 z 15.10.2015 str. 4, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 314 z 05.12.2019 str. 1, Dz. Urz. UE L 334 z 27.12.2019 str. 1, Dz. Urz. UE L 22 z 22.01.2021 str. 1, Dz. Urz. UE L 151 z 02.06.2022 str. 1), oraz nadzorem nad tym rynkiem.
 
 **Art. 88n.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+
+- **1)** tryb i warunki postępowania banków świadczących usługi w odniesieniu do lokat strukturyzowanych w zakresie:
+    - **a)** traktowania klientów jak klientów profesjonalnych lub klientów detalicznych zgodnie z art. 88b ust. 1 i 2,
+    - **b)** świadczenia usług w odniesieniu do lokat strukturyzowanych, w tym w zakresie świadczenia usług na rzecz kategorii klientów, o których mowa w art. 88b ust. 4,
+    - **c)** przyjmowania lub przekazywania jakichkolwiek świadczeń pieniężnych lub niepieniężnych w związku z prowadzeniem usług w odniesieniu do lokat strukturyzowanych,
+    - **d)** przekazywania sprawozdań, o których mowa w art. 88j ust. 1, w tym treści tych sprawozdań oraz terminów ich przekazywania klientowi,
+    - **e)** opracowywania, rekomendowania, oferowania, zawierania lub umożliwiania zawarcia umowy lokaty strukturyzowanej,
+
+- **2)** szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 88k ust. 1, wymogów posiadania odpowiedniej wiedzy, kompetencji i doświadczenia,
+- **3)** szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 88l ust. 1, wymogów posiadania odpowiedniej wiedzy i kompetencji,
+- **4)** tryb i warunki postępowania banków świadczących usługi w odniesieniu do lokat strukturyzowanych przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w pkt 2 i 3, stosowanych wobec nich odpowiednich wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia, oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób – w odniesieniu do wykonywania przez banki świadczące usługi w odniesieniu do lokat strukturyzowanych czynności, o których mowa w art. 5 ust. 1 pkt 1 oraz ust. 2 pkt 11 i 12, przy zapewnieniu należytej staranności oraz ochrony klienta, z uwzględnieniem konieczności zapewnienia profesjonalnego, rzetelnego, bezpiecznego i sprawnego świadczenia tych usług przez banki oraz z uwzględnieniem wytycznych w zakresie zasad uznawania posiadania odpowiedniej wiedzy i kompetencji przez osoby wykonujące usługi maklerskie, wydanych przez Europejski Urząd Nadzoru Giełd i Papierów Wartościowych.
 
 #### Rozdział 6b Emisja bankowych praw pochodnych
 
@@ -2709,7 +2868,11 @@ source: "isap-pdf"
 
 2. Wierzytelności, o których mowa w ust. 1, podlegają wpisowi do rejestru z chwilą, w której zobowiązanie wynikające z umowy, o której mowa w art. 92a ust. 1 pkt 2, stało się skuteczne.
 
-3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, sposób prowadzenia oraz wzór rejestru wierzytelności wymienionych w umowie, o której mowa w art. 92a ust. 1 pkt 2, uwzględniając zakres danych wynikających z tej umowy oraz konieczność zapewnienia Komisji Nadzoru Finansowego dostępu do danych niezbędnych do prawidłowego sprawowania nadzoru. Art. 92ba. 1. Bank jest obowiązany udzielić posiadaczowi rachunku bankowego, będącemu osobą fizyczną, osobie, która uzyskała tytuł prawny do spadku po posiadaczu rachunku, oraz zarządcy sukcesyjnemu, zbiorczej informacji o:
+3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, sposób prowadzenia oraz wzór rejestru wierzytelności wymienionych w umowie, o której mowa w art. 92a ust. 1 pkt 2, uwzględniając zakres danych wynikających z tej umowy oraz konieczność zapewnienia Komisji Nadzoru Finansowego dostępu do danych niezbędnych do prawidłowego sprawowania nadzoru.
+
+**Art. 92ba.**
+
+1. Bank jest obowiązany udzielić posiadaczowi rachunku bankowego, będącemu osobą fizyczną, osobie, która uzyskała tytuł prawny do spadku po posiadaczu rachunku, oraz zarządcy sukcesyjnemu, zbiorczej informacji o:
 
 - **1)** rachunkach bankowych posiadacza, w tym rachunkach wspólnych – bez wskazania danych współposiadacza;
 - **2)** umowach rachunku bankowego posiadacza rozwiązanych albo wygasłych z przyczyn, o których mowa w art. 59a ust. 1–3;
@@ -2723,11 +2886,23 @@ source: "isap-pdf"
 - **1)** rachunkach bankowych posiadacza, w tym rachunkach wspólnych – bez wskazania danych współposiadacza;
 - **2)** rachunkach posiadacza rachunku bankowego prowadzonych w spółdzielczej kasie oszczędnościowo-kredytowej, w tym rachunkach wspólnych – bez wskazania danych współposiadacza.
 
-4. W informacji, o której mowa w ust. 3, wskazuje się podmiot, który prowadzi rachunki. Art. 92bb. 1. Banki są obowiązane prowadzić centralną informację o rachunkach, zwaną dalej „Centralną informacją”. Banki mogą utworzyć w tym celu spółkę handlową.
+4. W informacji, o której mowa w ust. 3, wskazuje się podmiot, który prowadzi rachunki.
 
-2. Centralną informację może prowadzić izba rozliczeniowa, o której mowa w art. 67. Art. 92bc. 1. Zbiorczą informację oraz informację, o której mowa w art. 92ba ust. 3, bank jest obowiązany pozyskać z Centralnej informacji niezwłocznie po otrzymaniu pisemnego żądania od osoby, o której mowa w art. 92ba ust. 1, i zweryfikowaniu jej tytułu prawnego lub od dostawcy, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej. Zbiorczą informację oraz informację, o której mowa w art. 92ba ust. 3, bank jest obowiązany dostarczyć osobie, która wystąpiła z żądaniem, lub dostawcy, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, z wyłączeniem Krajowej Spółdzielczej Kasy OszczędnościowoKredytowej, niezwłocznie po jej pozyskaniu z Centralnej informacji.
+**Art. 92bb.**
 
-2. Zbiorcza informacja oraz informacja, o której mowa w art. 92ba ust. 3, może być dostarczona odpłatnie, przy czym opłata nie może być wyższa niż koszt wygenerowania takiej informacji. Art. 92bd. 1. Bank prowadzący rachunek bankowy jest obowiązany nieodpłatnie udzielić informacji, o których mowa w art. 92ba ust. 1 i 3, Centralnej informacji. Bank spółdzielczy może udzielić informacji za pośrednictwem banku zrzeszającego.
+1. Banki są obowiązane prowadzić centralną informację o rachunkach, zwaną dalej „Centralną informacją”. Banki mogą utworzyć w tym celu spółkę handlową.
+
+2. Centralną informację może prowadzić izba rozliczeniowa, o której mowa w art. 67.
+
+**Art. 92bc.**
+
+1. Zbiorczą informację oraz informację, o której mowa w art. 92ba ust. 3, bank jest obowiązany pozyskać z Centralnej informacji niezwłocznie po otrzymaniu pisemnego żądania od osoby, o której mowa w art. 92ba ust. 1, i zweryfikowaniu jej tytułu prawnego lub od dostawcy, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej. Zbiorczą informację oraz informację, o której mowa w art. 92ba ust. 3, bank jest obowiązany dostarczyć osobie, która wystąpiła z żądaniem, lub dostawcy, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, z wyłączeniem Krajowej Spółdzielczej Kasy OszczędnościowoKredytowej, niezwłocznie po jej pozyskaniu z Centralnej informacji.
+
+2. Zbiorcza informacja oraz informacja, o której mowa w art. 92ba ust. 3, może być dostarczona odpłatnie, przy czym opłata nie może być wyższa niż koszt wygenerowania takiej informacji.
+
+**Art. 92bd.**
+
+1. Bank prowadzący rachunek bankowy jest obowiązany nieodpłatnie udzielić informacji, o których mowa w art. 92ba ust. 1 i 3, Centralnej informacji. Bank spółdzielczy może udzielić informacji za pośrednictwem banku zrzeszającego.
 
 2. Informacji, o których mowa w art. 92ba ust. 1 i 3, bank udziela niezwłocznie, ale nie później niż w terminie 3 dni roboczych od dnia otrzymania zapytania od Centralnej informacji.
 
@@ -3153,6 +3328,15 @@ source: "isap-pdf"
 
 **Art. 110.** Bank może pobierać przewidziane w umowie prowizje i opłaty z tytułu wykonywanych czynności bankowych oraz opłaty za wykonywanie innych czynności, w tym także opłaty za przygotowanie, sporządzenie i przekazanie informacji stanowiących tajemnicę bankową uprawnionym przez ustawę osobom, organom i instytucjom, z wyłączeniem przypadków, gdy udzielenie informacji następuje na żądanie:
 
+- **1)** sądu lub prokuratora w toku postępowania karnego lub postępowania w sprawie o przestępstwo skarbowe;
+- **2)** prokuratora w sprawach dotyczących wykorzystywania działalności banków do celów mających związek z przestępstwem, o którym mowa w art. 299 Kodeksu karnego;
+- **3)** osób upoważnionych uchwałą Komisji Nadzoru Finansowego oraz inspektora nadzoru bankowego;
+- **4)** organu Krajowej Administracji Skarbowej w zakresie uregulowanym w odrębnych ustawach;
+- **5)** Zakładu Ubezpieczeń Społecznych w sprawach dotyczących numerów rachunków bankowych płatników składek oraz danych umożliwiających identyfikację posiadaczy tych rachunków;
+- **6)** Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa w związku z postępowaniami, o których mowa w przepisach o ochronie informacji niejawnych;
+- **7)** prokuratora, Policji i innych organów uprawnionych do prowadzenia postępowania przygotowawczego w sprawach o przestępstwa lub czynności wyjaśniających w sprawach o wykroczenia – w zakresie informacji przekazywanych na potrzeby tych postępowań.
+- **8)** (uchylony)
+
 **Art. 111.**
 
 1. Bank obowiązany jest ogłaszać w miejscu wykonywania czynności, w sposób ogólnie dostępny:
@@ -3220,6 +3404,10 @@ source: "isap-pdf"
 - **2)** łączna wysokość środków pieniężnych zgromadzonych przez posiadacza na rachunku lub rachunkach bankowych jest niższa lub równa 10 % minimalnego wynagrodzenia za pracę ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
 
 **Art. 112.** Sprawy sporne wynikające ze stosunków między Narodowym Bankiem Polskim a innymi bankami na tle:
+
+- **1)** rezerwy obowiązkowej,
+- **2)** rozrachunków międzybankowych,
+- **3)** obrotu papierami wartościowymi – rozpoznaje Sąd Okręgowy w Warszawie – Sąd Gospodarczy.
 
 **Art. 112a.** (uchylony)
 
@@ -3427,7 +3615,20 @@ source: "isap-pdf"
 
 3. W przypadku gdy bank państwowy realizuje zadania z zakresu współpracy rozwojowej, o której mowa w ustawie z dnia 16 września 2011 r. o współpracy rozwojowej (Dz. U. z 2025 r. poz. 1460), lub zadania na rzecz rozwoju innych państw lub ich społeczeństw, w szczególności zadania powierzone mu przez Komisję Europejską lub realizowane we współpracy z Europejskim Bankiem Inwestycyjnym, Europejskim Funduszem Inwestycyjnym, Europejskim Bankiem Odbudowy i Rozwoju, Grupą Banku Światowego lub innymi międzynarodowymi i krajowymi instytucjami rozwoju, może on powierzyć innemu bankowi lub instytucji finansowej, mającym siedzibę na terenie państwa członkowskiego lub państwa trzeciego, w drodze umowy, dokonywanie oceny zdolności do spłaty zobowiązania lub analizy ryzyka wypłaty zobowiązania w przypadku wykorzystywania instrumentów w rozumieniu art. 19a ustawy z dnia 16 września 2011 r. o współpracy rozwojowej.
 
-**Art. 128c.** Bank jest obowiązany zgłosić do Komisji Nadzoru Finansowego z 30-dniowym wyprzedzeniem zamiar nabycia pakietu akcji lub udziałów, którego wartość będzie przekraczała 5 % funduszy własnych banku. Art. 128ca. 1. Stosowanie metod wewnętrznych oraz wprowadzenie rozszerzeń lub zmian znacznych w zakresie metod wewnętrznych wymaga uzyskania zezwolenia Komisji Nadzoru Finansowego udzielanego w drodze decyzji. 2. Komisja Nadzoru Finansowego wydaje, w drodze decyzji, zezwolenie na:
+**Art. 128c.** Bank jest obowiązany zgłosić do Komisji Nadzoru Finansowego z 30-dniowym wyprzedzeniem zamiar nabycia pakietu akcji lub udziałów, którego wartość będzie przekraczała 5 % funduszy własnych banku.
+
+**Art. 128ca.**
+
+1. Stosowanie metod wewnętrznych oraz wprowadzenie rozszerzeń lub zmian znacznych w zakresie metod wewnętrznych wymaga uzyskania zezwolenia Komisji Nadzoru Finansowego udzielanego w drodze decyzji.
+
+2. Komisja Nadzoru Finansowego wydaje, w drodze decyzji, zezwolenie na:
+
+- **1)** klasyfikację ekspozycji kredytowych inną niż określona w przepisach wydanych na podstawie art. 81 ust. 2 pkt 8 lit. c ustawy z dnia 29 września 1994 r. o rachunkowości, opartą w szczególności na podstawie wewnętrznych systemów ratingów i metod szacowania oczekiwanych strat, zwanych dalej „modelami ryzyka kredytowego”;
+- **2)** utworzenie rezerw celowych oraz odpisów aktualizujących należności związanych z ekspozycjami kredytowymi w wysokości wynikającej z oszacowań modeli ryzyka kredytowego.
+
+3. Decyzje, o których mowa w ust. 1 i 2, mogą zawierać warunki i terminy.
+
+4. Komisja Nadzoru Finansowego wydaje decyzje, o których mowa w ust. 1 i 2, w terminie sześciu miesięcy od dnia otrzymania kompletnego wniosku.
 
 **Art. 128d.** (uchylony)
 
@@ -4018,7 +4219,9 @@ source: "isap-pdf"
 - **8)** współpracę podmiotu lub osoby z Komisją Nadzoru Finansowego;
 - **9)** stopień naprawienia szkody wyrządzonej wskutek działań podmiotów lub osób.
 
-**Art. 138a.** (uchylony) Art. 138aa. Niezależnie od działań przewidzianych w niniejszej ustawie w przypadku stwierdzenia, że bank hipoteczny dokonuje naruszeń przepisów ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych, Komisja Nadzoru Finansowego stosuje sankcje administracyjne określone w tej ustawie.
+**Art. 138a.** (uchylony)
+
+**Art. 138aa.** Niezależnie od działań przewidzianych w niniejszej ustawie w przypadku stwierdzenia, że bank hipoteczny dokonuje naruszeń przepisów ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych, Komisja Nadzoru Finansowego stosuje sankcje administracyjne określone w tej ustawie.
 
 **Art. 138b.**
 
@@ -4350,7 +4553,11 @@ source: "isap-pdf"
 
 20. Komisja Nadzoru Finansowego, planując i koordynując działania w celu podjęcia decyzji w ramach sprawowania nadzoru skonsolidowanego, uwzględnia zasadność działania właściwych władz nadzorczych, w tym środki nadzoru oraz praktykę ich stosowania, a także jego ewentualny wpływ na stabilność systemów finansowych w zainteresowanych państwach członkowskich.
 
-21. Z zastrzeżeniem obowiązku zachowania tajemnicy zawodowej, Komisja Nadzoru Finansowego informuje Europejski Urząd Nadzoru Bankowego o działaniach kolegium, w szczególności o sytuacjach nadzwyczajnych, oraz przekazuje mu informacje, które są szczególnie istotne dla konwergencji praktyk nadzorczych. Art. 141fa. 1. W przypadku gdy finansowa spółka holdingowa albo finansowa spółka holdingowa o działalności mieszanej prowadzi działalność bez wymaganego zatwierdzenia, o którym mowa w art. 48q ust. 3, albo po uzyskaniu takiego zatwierdzenia przestanie spełniać warunki, o których mowa w art. 48r ust. 1, Komisja Nadzoru Finansowego może, w drodze decyzji:
+21. Z zastrzeżeniem obowiązku zachowania tajemnicy zawodowej, Komisja Nadzoru Finansowego informuje Europejski Urząd Nadzoru Bankowego o działaniach kolegium, w szczególności o sytuacjach nadzwyczajnych, oraz przekazuje mu informacje, które są szczególnie istotne dla konwergencji praktyk nadzorczych.
+
+**Art. 141fa.**
+
+1. W przypadku gdy finansowa spółka holdingowa albo finansowa spółka holdingowa o działalności mieszanej prowadzi działalność bez wymaganego zatwierdzenia, o którym mowa w art. 48q ust. 3, albo po uzyskaniu takiego zatwierdzenia przestanie spełniać warunki, o których mowa w art. 48r ust. 1, Komisja Nadzoru Finansowego może, w drodze decyzji:
 
 - **1)** zawiesić wykonywanie prawa głosu z akcji lub udziałów w podmiotach zależnych będących:
     - **a)** instytucjami w rozumieniu art. 4 ust. 1 pkt 3 rozporządzenia nr 575/2013 lub
@@ -4373,7 +4580,11 @@ source: "isap-pdf"
 
 2. W przypadku gdy finansowa spółka holdingowa lub finansowa spółka holdingowa o działalności mieszanej jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa w ust. 1 pkt 3 lit. a tiret pierwsze, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona w ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym.
 
-3. Jeżeli w ocenie Komisji Nadzoru Finansowego realizacja planu, o którym mowa w ust. 1 pkt 7, przedstawionego przez finansową spółkę holdingową albo finansową spółkę holdingową o działalności mieszanej nie przywróci zgodności z wymogami, o których mowa w art. 48r ust. 1, lub wskazany termin realizacji planu nie zapewnia przywrócenia zgodności z wymogami, o których mowa w art. 48r ust. 1, Komisja Nadzoru Finansowego może wyznaczyć finansowej spółce holdingowej lub finansowej spółce holdingowej o działalności mieszanej termin jego uzupełnienia albo opracowania nowego planu. Art. 141fb. 1. Komisja Nadzoru Finansowego wydaje decyzję, o której mowa w art. 48q ust. 3, na wniosek złożony przez finansową spółkę holdingową lub finansową spółkę holdingową o działalności mieszanej.
+3. Jeżeli w ocenie Komisji Nadzoru Finansowego realizacja planu, o którym mowa w ust. 1 pkt 7, przedstawionego przez finansową spółkę holdingową albo finansową spółkę holdingową o działalności mieszanej nie przywróci zgodności z wymogami, o których mowa w art. 48r ust. 1, lub wskazany termin realizacji planu nie zapewnia przywrócenia zgodności z wymogami, o których mowa w art. 48r ust. 1, Komisja Nadzoru Finansowego może wyznaczyć finansowej spółce holdingowej lub finansowej spółce holdingowej o działalności mieszanej termin jego uzupełnienia albo opracowania nowego planu.
+
+**Art. 141fb.**
+
+1. Komisja Nadzoru Finansowego wydaje decyzję, o której mowa w art. 48q ust. 3, na wniosek złożony przez finansową spółkę holdingową lub finansową spółkę holdingową o działalności mieszanej.
 
 2. Komisja Nadzoru Finansowego, po otrzymaniu wniosku, niezwłocznie podejmuje współpracę z właściwymi władzami nadzorczymi innego państwa, w którym siedzibę ma finansowa spółka holdingowa lub finansowa spółka holdingowa o działalności mieszanej, lub z właściwym koordynatorem zagranicznym, o którym mowa w art. 3 pkt 20 ustawy o nadzorze uzupełniającym, zwanym dalej „koordynatorem zagranicznym”, w celu wydania decyzji, dążąc do osiągnięcia wspólnego stanowiska, zarówno co do samego rozstrzygnięcia, jak i jego przesłanek. Komisja Nadzoru Finansowego niezwłocznie przekazuje wniosek tym władzom lub koordynatorowi zagranicznemu, wraz ze swoim stanowiskiem w sprawie.
 
@@ -4663,9 +4874,26 @@ source: "isap-pdf"
 - **3)** kolegium i kolegium przymusowej restrukturyzacji właściwym dla banku udzielającego wsparcia;
 - **4)** Bankowemu Funduszowi Gwarancyjnemu.
 
-**Art. 141w.** Podmioty należące do jednego z holdingów, o których mowa w art. 4 ust. 1 pkt 10–11c, objęte nadzorem skonsolidowanym, podają do publicznej wiadomości, w szczególności na swojej stronie internetowej, informację o zawarciu umowy dotyczącej wsparcia finansowego w ramach holdingu zgodnie z art. 141t, stronach umowy, jej przedmiocie oraz ponoszonych kosztach, a także aktualizują te informacje w okresach rocznych. Podaniu do publicznej wiadomości i aktualizacji podlega także informacja o niezawarciu takiej umowy.
+**Art. 141w.** Podmioty należące do jednego z holdingów, o których mowa w art. 4 ust. 1 pkt 10–11c, objęte nadzorem skonsolidowanym, przekazują Komisji Nadzoru Finansowego i podają do publicznej wiadomości, w szczególności na swojej stronie internetowej, informacje o zawarciu umowy dotyczącej wsparcia finansowego w ramach holdingu zgodnie z art. 141t, stronach umowy, jej przedmiocie oraz ponoszonych kosztach, a także aktualizują te informacje w okresach rocznych. Przekazaniu do Komisji Nadzoru Finansowego, podaniu do publicznej wiadomości i aktualizacji podlega także informacja o niezawarciu takiej umowy.
 
-**Art. 141x.** Bank ogłasza w sposób ogólnie dostępny, zgodnie z art. 431– 434 rozporządzenia nr 575/2013, informację, czy jest stroną umowy dotyczącej wsparcia finansowego w ramach grupy. W przypadku gdy bank jest stroną takiej umowy, ogłasza w sposób ogólnie dostępny również opis ogólnych warunków umowy oraz wskazuje podmioty powiązane będące stronami umowy. Informacje te podlegają aktualizacji nie rzadziej niż raz do roku. AA. Wczesna interwencja
+**Art. 141x.** Bank przekazuje Komisji Nadzoru Finansowego i ogłasza w sposób ogólnie dostępny, zgodnie z art. 431–434 rozporządzenia nr 575/2013, informację, czy jest stroną umowy dotyczącej wsparcia finansowego w ramach grupy. W przypadku gdy bank jest stroną takiej umowy, przekazuje Komisji Nadzoru Finansowego i ogłasza w sposób ogólnie dostępny również opis ogólnych warunków umowy oraz wskazuje podmioty powiązane będące stronami umowy. Informacje te podlegają aktualizacji nierzadziej niż raz do roku.
+
+**Art. 141y.**
+
+1. Informacje, o których mowa w art. 141w i art. 141x, są przekazywane Komisji Nadzoru Finansowego w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 128a ust. 6 dyrektywy Parlamentu Europejskiego i Rady 2014/59/UE z dnia 15 maja 2014 r. ustanawiającej ramy na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do instytucji kredytowych i firm inwestycyjnych oraz zmieniającej dyrektywę Rady 82/891/EWG i dyrektywy Parlamentu Europejskiego i Rady 2001/24/WE, 2002/47/WE, 2004/25/WE, 2005/56/WE, 2007/36/WE, 2011/35/UE, 2012/30/UE i 2013/36/EU oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 i (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 190, z późn. zm. ).
+
+2. Informacje, o których mowa w art. 141w i art. 141x, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą (firmą) podmiotu, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego podmiotu, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości podmiotu, którego dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 128a ust. 6 dyrektywy Parlamentu Europejskiego i Rady 2014/59/UE z dnia 15 maja 2014 r. ustanawiającej ramy na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do instytucji kredytowych i firm inwestycyjnych oraz zmieniającej dyrektywę Rady 82/891/EWG i dyrektywy Parlamentu Europejskiego i Rady 2001/24/WE, 2002/47/WE, 2004/25/WE, 2005/56/WE, 2007/36/WE, 2011/35/UE, 2012/30/UE i 2013/36/EU oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 i (UE) nr 648/2012.
+
+3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, podmiot występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+4. Komisja Nadzoru Finansowego udostępnia informacje, o których mowa w art. 141w i art. 141x, w europejskim pojedynczym punkcie dostępu.
 
 **Art. 142.**
 
@@ -4807,7 +5035,20 @@ source: "isap-pdf"
 
 11. Jeżeli Komisja Nadzoru Finansowego uzna za niezasadną decyzję podmiotu wnioskującego, o której mowa w ust. 6, lub nie jest możliwe osiągnięcie porozumienia w zakresie koordynacji środków wczesnej interwencji, może przed upływem terminu określonego w ust. 9 skierować sprawę do Europejskiego Urzędu Nadzoru Bankowego celem uzyskania pomocy w osiągnięciu porozumienia. W takim przypadku Komisja Nadzoru Finansowego wstrzymuje się od podjęcia decyzji, o których mowa w ust. 9.
 
-12. Wytyczne Europejskiego Urzędu Nadzoru Bankowego wydane w związku ze skierowaniem sprawy na podstawie ust. 11 są wiążące dla Komisji Nadzoru Finansowego. AB. Przejęcie banku
+12. Wytyczne Europejskiego Urzędu Nadzoru Bankowego wydane w związku ze skierowaniem sprawy na podstawie ust. 11 są wiążące dla Komisji Nadzoru Finansowego.
+
+**Art. 146aa.**
+
+1. Komisja Nadzoru Finansowego udostępnia informacje o podjęciu w ramach wczesnej interwencji decyzji o ustanowieniu kuratora albo zarządu komisarycznego w banku w europejskim pojedynczym punkcie dostępu.
+
+2. Informacje, o których mowa w ust. 1, są udostępniane przez Komisję Nadzoru Finansowego w formacie umożliwiającym ekstrakcję danych.
+
+3. Informacje, o których mowa w ust. 1, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą (firmą) banku, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego banku, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji Nadzoru Finansowego;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 **Art. 146b.**
 
@@ -4890,6 +5131,11 @@ source: "isap-pdf"
 
 **Art. 154.** Likwidacja banku jest prowadzona zgodnie z zasadami obowiązującymi przy likwidacji spółek handlowych, spółdzielni lub stosownie do przepisów, o których mowa w art. 14, z tym że:
 
+- **1)** w okresie likwidacji nie wypłaca się dywidendy ani oprocentowania udziałów;
+- **2)** bilans otwarcia likwidacji, program likwidacji oraz rachunek z przeprowadzonej likwidacji podlegają zatwierdzeniu przez Komisję Nadzoru Finansowego;
+- **3)** likwidator, nie rzadziej niż raz na miesiąc, składa Komisji Nadzoru Finansowego i wierzycielom sprawozdania z przebiegu likwidacji;
+- **4)** podział pomiędzy akcjonariuszy (członków) majątku pozostałego po zaspokojeniu i zabezpieczeniu wierzycieli nie może nastąpić przed upływem roku od daty ostatniego ogłoszenia o otwarciu likwidacji.
+
 **Art. 155.**
 
 1. Likwidatorowi przysługuje prawo żądania zmiany treści zobowiązania, o którym mowa w art. 146g. Może on potrącić z wierzytelności likwidowanego banku dług wynikający z rachunku bankowego także wtedy, gdy terminy jego spłaty jeszcze nie nastąpiły.
@@ -4923,6 +5169,10 @@ source: "isap-pdf"
 2. Osoby, o których mowa w ust. 1, są uprawnione do podejmowania czynności wyłącznie w zakresie określonym w akcie o ich powołaniu. W przypadku gdy akt taki nie zawiera postanowień szczególnych w tym zakresie, Komisja Nadzoru Finansowego każdorazowo określa, w drodze decyzji, zakres czynności, jakie będzie podejmować ona na terytorium Rzeczypospolitej Polskiej. W każdym przypadku osoba ta jest obowiązana ujawnić we właściwych rejestrach prowadzonych dla oddziału instytucji kredytowych fakt wszczęcia likwidacji i jej skutki.
 
 **Art. 157e.** Skutki wszczęcia środków reorganizacyjnych w stosunku do oddziału instytucji kredytowej lub jej likwidacji są oceniane zgodnie z przepisami obowiązującymi w państwie macierzystym, pod warunkiem obowiązywania zasady wzajemności, z następującymi zastrzeżeniami:
+
+- **1)** umowy o pracę i stosunki pracy podlegają prawu państwa członkowskiego, któremu poddana została umowa;
+- **2)** umowy przyznające prawo do nabycia lub korzystania z nieruchomości podlegają ocenie według prawa państwa członkowskiego, w którym nieruchomość jest położona, z tym że również to prawo przesądza o uznaniu danej rzeczy za nieruchomość;
+- **3)** prawa dotyczące nieruchomości, statków morskich lub powietrznych podlegają prawu państwa członkowskiego, w którym prowadzony jest właściwy rejestr.
 
 **Art. 157f.**
 

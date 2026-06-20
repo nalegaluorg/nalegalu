@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” oraz ustawy o transporcie kolejowym
+# Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego "Polskie Koleje Państwowe" oraz ustawy o transporcie kolejowym
 
 *USTAWA z dnia 22 marca 2018 r.*
 

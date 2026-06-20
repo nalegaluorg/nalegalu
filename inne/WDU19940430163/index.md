@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zakładowym funduszu świadczeń socjalnych
+# Ustawa z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych.
 
 *USTAWA z dnia 4 marca 1994 r.*
 

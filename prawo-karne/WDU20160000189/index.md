@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny
+# Ustawa z dnia 15 stycznia 2016 r. o zmianie ustawy - Kodeks karny
 
 *USTAWA z dnia 15 stycznia 2016 r.*
 

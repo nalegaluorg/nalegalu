@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rzeczach znalezionych oraz ustawy – Kodeks cywilny
+# Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy o rzeczach znalezionych oraz ustawy - Kodeks cywilny
 
 *USTAWA z dnia 23 stycznia 2026 r.*
 

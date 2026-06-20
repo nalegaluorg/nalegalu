@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Instytucie imienia Wincentego Witosa
+# Ustawa z dnia 25 lipca 2025 r. o Instytucie imienia Wincentego Witosa
 
 *USTAWA z dnia 25 lipca 2025 r.*
 

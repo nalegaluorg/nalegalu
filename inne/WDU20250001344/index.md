@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o podatku rolnym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku rolnym
 
 | Pole | Wartość |
 |---|---|
@@ -35,7 +35,6 @@ poz. 1635),
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 15 listopada 1984 r.
 o podatku rolnym
-Art. 14–16. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -352,6 +351,8 @@ Art. 14–16. (pominięte)
 2. Ulgi, o których mowa w art. 13c i art. 13e, stanowią pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 14–16.** (pominięte)
 
 **Art. 17.** Ilekroć w odrębnych przepisach jest mowa o podatku gruntowym, rozumie się przez to podatek rolny.
 

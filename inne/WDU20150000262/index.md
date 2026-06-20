@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o aktach stanu cywilnego
+# Ustawa z dnia 6 lutego 2015 r. o zmianie ustawy - Prawo o aktach stanu cywilnego
 
 *USTAWA z dnia 6 lutego 2015 r.*
 

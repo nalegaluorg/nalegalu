@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o stosowaniu szczególnych rozwiązań podatkowych w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r.
+# Ustawa z dnia 27 sierpnia 1997 r. o stosowaniu szczególnych rozwiązań podatkowych w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r.
 
 *USTAWA z dnia 27 sierpnia 1997 r.*
 

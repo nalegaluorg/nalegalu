@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie przyrody
+# Ustawa z dnia 21 maja 2025 r. o zmianie ustawy o ochronie przyrody
 
 *USTAWA z dnia 21 maja 2025 r.*
 

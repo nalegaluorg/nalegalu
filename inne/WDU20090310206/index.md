@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wojewodzie i administracji rządowej w województwie
+# Ustawa z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie
 
 *USTAWA z dnia 23 stycznia 2009 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2009-02-26 |
 | Ostatnia zmiana | 2025-04-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090310206) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/206/text.pdf) |
-
-Art. 65–77. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -245,7 +243,9 @@ Art. 65–77. (pominięte)
 3. Kontrola, o której mowa w ust. 1 i 2, wykonywana jest pod względem:
 
 - **1)** legalności, gospodarności, celowości i rzetelności – w odniesieniu do działalności organów administracji rządowej oraz innych podmiotów;
-- **2)** legalności, gospodarności i rzetelności – w odniesieniu do działalności organów samorządu terytorialnego. Art. 29–50. (uchylone)
+- **2)** legalności, gospodarności i rzetelności – w odniesieniu do działalności organów samorządu terytorialnego.
+
+**Art. 29–50.** (uchylone)
 
 #### Rozdział 4 Rządowa administracja zespolona w województwie
 
@@ -343,6 +343,8 @@ Art. 65–77. (pominięte)
 2. W przypadkach, o których mowa w ust. 1, sąd administracyjny może nakazać organowi nadzoru wykonanie niezbędnych czynności na rzecz skarżącego.
 
 #### Rozdział 7 Przepisy zmieniające
+
+**Art. 65–77.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

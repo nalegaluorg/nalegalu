@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o referendum ogólnokrajowym
+# Ustawa z dnia 19 marca 2009 r. o zmianie ustawy o referendum ogólnokrajowym
 
 *USTAWA z dnia 19 marca 2009 r.*
 

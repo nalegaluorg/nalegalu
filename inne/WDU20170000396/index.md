@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa
+# Ustawa z dnia 10 lutego 2017 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa
 
 *USTAWA z dnia 10 lutego 2017 r.*
 

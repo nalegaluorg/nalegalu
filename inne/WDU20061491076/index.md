@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń
+# Ustawa z dnia 22 lipca 2006 r. o przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń
 
 *USTAWA z dnia 22 lipca 2006 r.*
 

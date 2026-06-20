@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego oraz o zmianie ustawy o związkach zawodowych
+# Ustawa z dnia 10 maja 1996 r. o zmianie ustawy o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego oraz o zmianie ustawy o związkach zawodowych.
 
 *USTAWA z dnia 10 maja 1996 r.*
 

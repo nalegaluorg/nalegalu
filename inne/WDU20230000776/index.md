@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 marca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym
 
 | Pole | Wartość |
 |---|---|

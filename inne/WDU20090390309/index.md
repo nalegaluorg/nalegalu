@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych oraz ustawy o niektórych formach popierania budownictwa mieszkaniowego
+# Ustawa z dnia 12 lutego 2009 r. o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych oraz ustawy o niektórych formach popierania budownictwa mieszkaniowego
 
 *USTAWA z dnia 12 lutego 2009 r.*
 

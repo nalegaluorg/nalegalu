@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19
+# Ustawa z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19
 
 *USTAWA z dnia 19 czerwca 2020 r.*
 

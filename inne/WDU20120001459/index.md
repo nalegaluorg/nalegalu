@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Państwowym Ratownictwie Medycznym
+# Ustawa z dnia 23 listopada 2012 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym
 
 *USTAWA z dnia 23 listopada 2012 r.*
 

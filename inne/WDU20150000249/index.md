@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach finansowania nauki oraz niektórych innych ustaw
+# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o zasadach finansowania nauki oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 stycznia 2015 r.*
 

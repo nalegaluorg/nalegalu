@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji
+# Ustawa z dnia 6 grudnia 2018 r. o zmianie ustawy o Policji
 
 *USTAWA z dnia 6 grudnia 2018 r.*
 

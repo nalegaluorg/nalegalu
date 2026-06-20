@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz ustawy o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+# Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 sierpnia 2025 r.*
 
@@ -37,7 +37,11 @@ source: pdf
 - **27)** w przypadku gdy nabywca towarów lub usług jest podatnikiem, u którego sprzedaż jest zwolniona od podatku na podstawie art. 113a ust. 1 – indywidualny numer identyfikacyjny, o którym mowa w art. 113a ust. 2 pkt 2.”;
 - **3)** w art. 106f ust. 2 otrzymuje brzmienie: „2. Przepisy art. 106e ust. 1 pkt 16–21 i 24–27 oraz ust. 2–6, 10 i 11 stosuje się odpowiednio.”;
 - **4)** w art. 106j ust. 4 otrzymuje brzmienie: „4. Fakturę korygującą fakturę ustrukturyzowaną wystawia się w postaci faktury ustrukturyzowanej albo faktury, o której mowa w art. 106nda ust. 1.”;
-- **5)** w dziale XIII po rozdziale 1c dodaje się rozdział 1ca w brzmieniu: „Rozdział 1ca Przepisy epizodyczne dotyczące systemu kaucyjnego Art. 145ka. 1. Wprowadzający produkty w opakowaniach na napoje, będący podatnikiem, o którym mowa w art. 99 ust. 1, obowiązanym na dzień 31 grudnia 2025 r. do podwyższenia podstawy opodatkowania zgodnie z art. 29a ust. 12c, dokonuje tego podwyższenia w deklaracji podatkowej składanej za luty 2026 r.
+- **5)** w dziale XIII po rozdziale 1c dodaje się rozdział 1ca w brzmieniu: „Rozdział 1ca Przepisy epizodyczne dotyczące systemu kaucyjnego
+
+**Art. 145ka.**
+
+1. Wprowadzający produkty w opakowaniach na napoje, będący podatnikiem, o którym mowa w art. 99 ust. 1, obowiązanym na dzień 31 grudnia 2025 r. do podwyższenia podstawy opodatkowania zgodnie z art. 29a ust. 12c, dokonuje tego podwyższenia w deklaracji podatkowej składanej za luty 2026 r.
 
 2. Płatnik, o którym mowa w art. 17b, jest obowiązany do obliczenia i wpłacenia kwoty podatku za rok 2025 w terminie do dnia 28 lutego 2026 r.”.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Rzeczniku Praw Dziecka
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Rzeczniku Praw Dziecka
 
 | Pole | Wartość |
 |---|---|
@@ -284,7 +284,9 @@ o Rzeczniku Praw Dziecka
 
 4. Rzecznik określa zakres zadań zastępcy Rzecznika.
 
-**Art. 14.** Wydatki związane z funkcjonowaniem Rzecznika są ujmowane w ustawie budżetowej i pokrywane z budżetu państwa. Art. 15–20. (pominięte)
+**Art. 14.** Wydatki związane z funkcjonowaniem Rzecznika są ujmowane w ustawie budżetowej i pokrywane z budżetu państwa.
+
+**Art. 15–20.** (pominięte)
 
 **Art. 21.** Ustawa wchodzi w życie z dniem 1 stycznia 2000 r.
 

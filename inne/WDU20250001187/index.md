@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach w zakresie przechowywania nawozów naturalnych
+# Ustawa z dnia 25 lipca 2025 r. o szczególnych rozwiązaniach w zakresie przechowywania nawozów naturalnych
 
 *USTAWA z dnia 25 lipca 2025 r.*
 

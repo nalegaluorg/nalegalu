@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 21 lipca 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 21 lipca 2016 r.*
 
@@ -280,64 +280,12 @@ source: pdf
 
 1. Postępowania wszczęte na podstawie art. 95d ust. 1 i 2 ustawy zmienianej w art. 1 w jej dotychczasowym brzmieniu, a niezakończone przed dniem wejścia w życie niniejszej ustawy, podlegają umorzeniu. Opłata, o której mowa w art. 95d ust. 7 ustawy zmienianej w art. 1 w jej dotychczasowym brzmieniu, podlega zwrotowi.
 
-2. Do postępowań o zmianę opinii wydanych na podstawie art. 95d ust. 1 i 2 ustawy zmienianej w art. 1 w jej dotychczasowym brzmieniu stosuje się przepisy dotychczasowe. [Art. 6. 1. W latach 2016–2025 maksymalny limit wydatków z budżetu państwa, będących konsekwencją wejścia w życie niniejszej ustawy, wynosi 27 567 000,00 zł, przy czym w kolejnych latach wyniesie maksymalnie:
+2. Do postępowań o zmianę opinii wydanych na podstawie art. 95d ust. 1 i 2 ustawy zmienianej w art. 1 w jej dotychczasowym brzmieniu stosuje się przepisy dotychczasowe.
 
-- **1)** 2016 r. – 0,00 zł;
-- **2)** 2017 r. – 2 606 000,00 zł;
-- **3)** 2018 r. – 2 868 000,00 zł;
-- **4)** 2019 r. – 2 925 000,00 zł;
-- **5)** 2020 r. – 2 999 000,00 zł;
-- **6)** 2021 r. – 3 074 000,00 zł;
-- **7)** 2022 r. – 3 149 000,00 zł;
-- **8)** 2023 r. – 3 240 000,00 zł;
-- **9)** 2024 r. – 3 315 000,00 zł;
-- **10)** 2025 r. – 3 391 000,00 zł.
+**Art. 6.**
 
-2. W ramach limitu, o którym mowa w ust. 1, maksymalny limit wydatków z budżetu państwa:
+1. W latach 2018–2027 maksymalny limit wydatków z budżetu państwa, będących konsekwencją wejścia w życie niniejszej ustawy, wynosi 72 238 254,00 zł, przy czym w kolejnych latach wyniesie maksymalnie:
 
-- **1)** w części pozostającej w dyspozycji ministra właściwego do spraw zdrowia w kolejnych latach wyniesie:
-    - **a)** 2016 r. – 0,00 zł,
-    - **b)** 2017 r. – 366 000,00 zł,
-    - **c)** 2018 r. – 404 000,00 zł,
-    - **d)** 2019 r. – 413 000,00 zł,
-    - **e)** 2020 r. – 423 000,00 zł,
-    - **f)** 2021 r. – 434 000,00 zł,
-    - **g)** 2022 r. – 445 000,00 zł,
-    - **h)** 2023 r. – 456 000,00 zł,
-    - **i)** 2024 r. – 467 000,00 zł,
-    - **j)** 2025 r. – 479 000,00 zł;
-
-- **2)** w części pozostającej w dyspozycji poszczególnych wojewodów w kolejnych latach wyniesie:
-    - **a)** 2016 r. – 0,00 zł,
-    - **b)** 2017 r. – 140 000,00 zł,
-    - **c)** 2018 r. – 154 000,00 zł,
-    - **d)** 2019 r. – 157 000,00 zł,
-    - **e)** 2020 r. – 161 000,00 zł,
-    - **f)** 2021 r. – 165 000,00 zł;
-    - **g)** 2022 r. – 169 000,00 zł;
-    - **h)** 2023 r. – 174 000,00 zł;
-    - **i)** 2024 r. – 178 000,00 zł;
-    - **j)** 2025 r. – 182 000,00 zł.
-
-3. W ramach limitu, o którym mowa w ust. 1, zwiększenie zatrudnienia w urzędach wojewódzkich nie przekroczy 2 etatów na dany urząd, przy czym wzrost zatrudnienia będzie możliwy o:
-
-- **1)** 1 etat, w przypadku złożenia, do danego wojewody, w poprzednim roku kalendarzowym co najmniej 50 wniosków,
-- **2)** 2 etaty, w przypadku złożenia, do danego wojewody, w poprzednim roku kalendarzowym co najmniej 150 wniosków – o których mowa w art. 95d ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
-
-4. W ramach limitu, o którym mowa w ust. 1, zwiększenie zatrudnienia w urzędzie obsługującym ministra właściwego do spraw zdrowia nie przekroczy 5 etatów, przy czym wzrost zatrudnienia będzie możliwy o:
-
-- **1)** 1 etat, w przypadku złożenia w poprzednim roku kalendarzowym łącznie co najmniej 50 wniosków lub protestów,
-- **2)** 2 etaty, w przypadku złożenia w poprzednim roku kalendarzowym łącznie co najmniej 150 wniosków lub protestów,
-- **3)** 3 etaty, w przypadku złożenia w poprzednim roku kalendarzowym łącznie co najmniej 250 wniosków lub protestów,
-- **4)** 4 etaty, w przypadku złożenia w poprzednim roku kalendarzowym łącznie co najmniej 350 wniosków lub protestów,
-- **5)** 5 etatów, w przypadku złożenia w poprzednim roku kalendarzowym łącznie co najmniej 450 wniosków lub protestów – o których mowa w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-
-5. Wojewodowie i minister właściwy do spraw zdrowia monitorują wykorzystanie limitów wydatków, o których mowa w ust. 1, w częściach pozostających odpowiednio w ich dyspozycji.
-
-6. W przypadku gdy liczba złożonych odpowiednio wniosków lub protestów, o których mowa w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, będzie w połowie roku niższa niż w odpowiadającym okresie w roku poprzednim:
-
-- **1)** wojewoda wdraża mechanizm korygujący, polegający na dostosowaniu wydatków z tytułu zwiększenia zatrudnienia, o których mowa w ust. 3, do liczby złożonych w danym roku wniosków;
-- **2)** minister właściwy do spraw zdrowia wdraża mechanizm korygujący, polegający na dostosowaniu wydatków z tytułu zwiększenia zatrudnienia, o których mowa w ust. 4, do liczby złożonych w danym roku wniosków lub protestów.] <Art. 6. 1. W latach 2018–2027 maksymalny limit wydatków z budżetu państwa, będących konsekwencją wejścia w życie niniejszej ustawy, wynosi 72 238 254,00 zł, przy czym w kolejnych latach wyniesie maksymalnie:
 - **1)** 2018 r. – 4 616 441,00 zł;
 - **2)** 2019 r. – 6 657 934,00 zł;
 - **3)** 2020 r. – 6 977 584,00 zł;
@@ -395,7 +343,7 @@ source: pdf
 6. W przypadku gdy liczba złożonych wniosków lub protestów, o których mowa odpowiednio w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, będzie w połowie roku niższa niż w odpowiadającym okresie w roku poprzednim:
 
 - **1)** wojewoda wdraża mechanizm korygujący polegający na ustaleniu wynagrodzenia na poziomie uniemożliwiającym przekroczenie limitu w danym roku, z zastrzeżeniem, że liczba etatów, które już zostały przyznane, nie podlega zmniejszeniu;
-- **2)** minister właściwy do spraw zdrowia wdraża mechanizm korygujący polegający na ustaleniu wynagrodzenia na poziomie uniemożliwiającym przekroczenie limitu w danym roku, z zastrzeżeniem, że liczba etatów, które już zostały przyznane, nie podlega zmniejszeniu.>
+- **2)** minister właściwy do spraw zdrowia wdraża mechanizm korygujący polegający na ustaleniu wynagrodzenia na poziomie uniemożliwiającym przekroczenie limitu w danym roku, z zastrzeżeniem, że liczba etatów, które już zostały przyznane, nie podlega zmniejszeniu.
 
 **Art. 7.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

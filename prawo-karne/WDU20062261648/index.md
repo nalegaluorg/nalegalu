@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
+# Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw
 
 *USTAWA z dnia 16 listopada 2006 r.*
 

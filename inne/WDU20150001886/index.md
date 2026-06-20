@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
+# Ustawa z dnia 25 września 2015 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
 
 *USTAWA z dnia 25 września 2015 r.*
 
@@ -38,7 +38,11 @@ source: pdf
 - **1)** 5 lat – w przypadku legitymacji dokumentujących niepełnosprawność;
 - **2)** 10 lat – w przypadku legitymacji dokumentujących stopień niepełnosprawności wystawionych osobom, które nie ukończyły 60. roku życia.
 
-4. W przypadku gdy osoba niepełnosprawna posiada więcej niż jedno orzeczenie o niepełnosprawności, o stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień, legitymację dokumentującą niepełnosprawność albo legitymację dokumentującą stopień niepełnosprawności wystawia się na podstawie ostatniego orzeczenia. Art. 6cb. 1. Minister właściwy do spraw zabezpieczenia społecznego zapewnia:
+4. W przypadku gdy osoba niepełnosprawna posiada więcej niż jedno orzeczenie o niepełnosprawności, o stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień, legitymację dokumentującą niepełnosprawność albo legitymację dokumentującą stopień niepełnosprawności wystawia się na podstawie ostatniego orzeczenia.
+
+**Art. 6cb.**
+
+1. Minister właściwy do spraw zabezpieczenia społecznego zapewnia:
 
 - **1)** produkcję blankietów legitymacji dokumentujących niepełnosprawność lub stopień niepełnosprawności oraz ich personalizację i dystrybucję;
 - **2)** system teleinformatyczny, za pomocą którego są wykonywane czynności związane z wystawianiem legitymacji dokumentujących niepełnosprawność lub stopień niepełnosprawności.
@@ -47,7 +51,9 @@ source: pdf
 
 3. Minister właściwy do spraw zabezpieczenia społecznego może dokonać wyboru podmiotu odpowiedzialnego za wykonanie zadania, o którym mowa w ust. 1 pkt 2.
 
-4. Wydatki związane z wystawianiem legitymacji, produkcją blankietów, ich personalizacją i dystrybucją pokrywane są z budżetu państwa. Art. 6cc. Za wydanie duplikatu legitymacji, o której mowa w art. 6ca, pobiera się opłatę w wysokości 15 zł. Opłata stanowi dochód budżetu państwa.”;
+4. Wydatki związane z wystawianiem legitymacji, produkcją blankietów, ich personalizacją i dystrybucją pokrywane są z budżetu państwa.
+
+**Art. 6cc.** Za wydanie duplikatu legitymacji, o której mowa w art. 6ca, pobiera się opłatę w wysokości 15 zł. Opłata stanowi dochód budżetu państwa.”;
 
 - **2)** w art. 6d w ust. 4 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) dane dotyczące legitymacji dokumentujących niepełnosprawność lub stopień niepełnosprawności.”;
 - **3)** w art. 21 w ust. 2e po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) zakłady opiekuńczo-lecznicze;”;

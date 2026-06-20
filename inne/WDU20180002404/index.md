@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o podatku akcyzowym
+# Ustawa z dnia 22 listopada 2018 r. zmieniająca ustawę o zmianie ustawy o podatku akcyzowym
 
 *USTAWA z dnia 22 listopada 2018 r.*
 

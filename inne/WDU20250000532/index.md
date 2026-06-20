@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie osób i mienia
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie osób i mienia
 
 | Pole | Wartość |
 |---|---|
@@ -41,7 +41,6 @@ poz. 179), który stanowi: „Art. 33. Ustawa wchodzi w życie po upływie 14 dn
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 22 sierpnia 1997 r.
 o ochronie osób i mienia
-Art. 51–53. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -998,6 +997,8 @@ Art. 51–53. (pominięte)
 **Art. 50b.** Kto osobie upoważnionej do przeprowadzania kontroli działalności gospodarczej wykonywanej w zakresie usług ochrony osób i mienia udaremnia lub utrudnia wykonanie czynności służbowej, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 51–53.** (pominięte)
 
 **Art. 54.** (uchylony)
 

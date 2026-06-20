@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie szczegółowych zasad ustalania podstawy wymiaru i obliczania zasiłków z ubezpieczenia społecznego.
+# Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 15 stycznia 1999 r. zmieniające rozporządzenie w sprawie szczegółowych zasad ustalania podstawy wymiaru i obliczania zasiłków z ubezpieczenia społecznego.
 
 | Pole | Wartość |
 |---|---|

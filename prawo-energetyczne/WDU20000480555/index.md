@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo energetyczne
+# Ustawa z dnia 26 maja 2000 r. o zmianie ustawy - Prawo energetyczne.
 
 *USTAWA z dnia 26 maja 2000 r.*
 

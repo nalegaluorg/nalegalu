@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Ordynacja podatkowa oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 30 czerwca 2005 r. o zmianie ustawy - Ordynacja podatkowa oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 30 czerwca 2005 r.*
 

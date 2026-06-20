@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku ze skróceniem okresu przechowywania akt pracowniczych oraz ich elektronizacją
+# Ustawa z dnia 10 stycznia 2018 r. o zmianie niektórych ustaw w związku ze skróceniem okresu przechowywania akt pracowniczych oraz ich elektronizacją
 
 *USTAWA z dnia 10 stycznia 2018 r.*
 
@@ -99,7 +99,11 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2018 r. poz. 217) wprowadza się następujące zmiany:
 
-- **1)** po art. 51s dodaje się art. 51sa i art. 51sb w brzmieniu: „Art. 51sa. Marszałek województwa, o którym mowa w art. 51b, przeprowadza kontrolę u przedsiębiorcy, który wykonuje działalność gospodarczą w zakresie przechowywania dokumentacji bez uzyskania wpisu do rejestru. Art. 51sb. 1. Przedsiębiorca, który wykonuje działalność gospodarczą w zakresie przechowywania dokumentacji bez uzyskania wpisu do rejestru, podlega administracyjnej karze pieniężnej w wysokości do 100 000 zł.
+- **1)** po art. 51s dodaje się art. 51sa i art. 51sb w brzmieniu: „Art. 51sa. Marszałek województwa, o którym mowa w art. 51b, przeprowadza kontrolę u przedsiębiorcy, który wykonuje działalność gospodarczą w zakresie przechowywania dokumentacji bez uzyskania wpisu do rejestru.
+
+**Art. 51sb.**
+
+1. Przedsiębiorca, który wykonuje działalność gospodarczą w zakresie przechowywania dokumentacji bez uzyskania wpisu do rejestru, podlega administracyjnej karze pieniężnej w wysokości do 100 000 zł.
 
 2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji, marszałek województwa, o którym mowa w art. 51b, na podstawie wyników kontroli.”;
 

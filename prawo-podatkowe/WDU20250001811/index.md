@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług
+# Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy o podatku od towarów i usług
 
 *USTAWA z dnia 7 listopada 2025 r.*
 

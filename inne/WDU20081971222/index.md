@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu nowej nazwy Akademii Pedagogicznej im. Komisji Edukacji Narodowej w Krakowie
+# Ustawa z dnia 3 października 2008 r. o nadaniu nowej nazwy Akademii Pedagogicznej im. Komisji Edukacji Narodowej w Krakowie
 
 *USTAWA z dnia 3 października 2008 r.*
 

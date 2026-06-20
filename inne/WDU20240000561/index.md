@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego "Polskie Koleje Państwowe"
 
 *USTAWA z dnia 8 września 2000 r.*
 
@@ -28,14 +28,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000561) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/561/text.pdf) |
 
 do dnia 30 kwietnia 2004 r.
-Art. 33za. 1. W roku 2020 minister właściwy do spraw aktywów państwowych przekazuje, na wniosek ministra właściwego do spraw transportu, środki z budżetu państwa, w wysokości 850 000 tys. zł, z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
-2. Środki, o których mowa w ust. 1, przeznacza się na inwestycje kapitałowe realizowane przez PLK SA, polegające na podwyższeniu kapitału zakładowego spółek zależnych PLK SA w rozumieniu Kodeksu spółek handlowych i objęciu przez PLK SA nowo utworzonych udziałów w podwyższonym kapitale zakładowym.
-3. Środki pochodzące z podwyższenia kapitału zakładowego, o którym mowa w ust. 2, spółki zależne PLK SA przeznaczają na zakup środków trwałych w postaci maszyn i urządzeń lub nieruchomości w celu zwiększenia potencjału realizowanych przez nie inwestycji.
-Art. 33zb. 1. W roku 2020 minister właściwy do spraw aktywów państwowych przekazuje, na wniosek ministra właściwego do spraw transportu, środki z budżetu państwa, w wysokości 1 000 000 tys. zł, z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
-2. Środki, o których mowa w ust. 1, przeznacza się na zadania w zakresie budowy, przebudowy, rozbudowy lub modernizacji przystanków kolejowych oraz infrastruktury towarzyszącej, realizowane w ramach programów wieloletnich, o których mowa w art. 136 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
-Art. 33zc. 1. Akcje w podwyższonym kapitale zakładowym PLK SA obejmuje Skarb Państwa.
-2. Do podwyższenia kapitału zakładowego PLK SA stosuje się przepisy Kodeksu spółek handlowych.
-Art. 65–73. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -429,7 +421,11 @@ Art. 65–73. (pominięte)
 
 5. Nadwyżka, wynikająca z różnicy zapłaconych zaliczek oraz należnego podatku pomniejszonego o wartość akcji PLK SA przeniesionych na rzecz Skarbu Państwa w trybie art. 24d, podlega zwrotowi PKP SA, jeżeli przeniesienie własności akcji nastąpi nie później, niż do dnia, w którym upływa termin do złożenia zeznania za dany rok podatkowy.
 
-6. Do nadwyżki zaliczek, o której mowa w ust. 5, przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa dotyczące nadpłaty stosuje się odpowiednio. Art. 24ba. 1. Zobowiązania PKP SA z tytułu podatku dochodowego od osób prawnych, powstałe w rozliczeniu za lata 2022–2026, podlegają zapłacie w drodze przeniesienia własności akcji PLK SA, na warunkach określonych w ust. 2 i 4 oraz w art. 24d.
+6. Do nadwyżki zaliczek, o której mowa w ust. 5, przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa dotyczące nadpłaty stosuje się odpowiednio.
+
+**Art. 24ba.**
+
+1. Zobowiązania PKP SA z tytułu podatku dochodowego od osób prawnych, powstałe w rozliczeniu za lata 2022–2026, podlegają zapłacie w drodze przeniesienia własności akcji PLK SA, na warunkach określonych w ust. 2 i 4 oraz w art. 24d.
 
 2. Zobowiązania, o których mowa w ust. 1, podlegają zapłacie do wysokości kwoty odpowiadającej iloczynowi stawki podatku, o której mowa w art. 19 ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, oraz dochodu uzyskanego przez PKP SA w danym roku podatkowym z tytułu:
 
@@ -447,7 +443,9 @@ Art. 65–73. (pominięte)
 
 7. Wnoszenie wkładów niepieniężnych do spółek, o których mowa w ust. 2 pkt 2, wymaga zgody ministra właściwego do spraw transportu. Przepisy art. 18 ust. 2, 2a, 2c–2e, 4 i 7 stosuje się.
 
-**Art. 24c.** Zobowiązania podatkowe PKP SA z tytułu podatku od towarów i usług, powstałe do dnia 31 grudnia 2015 r., do wysokości kwoty odpowiadającej podatkowi należnemu powstałemu w związku z rozliczeniem umowy zawartej między PKP SA i PLK SA na podstawie art. 17 ust. 5, w brzmieniu obowiązującym przed dniem 25 maja 2003 r., podlegają zapłacie w drodze przeniesienia własności akcji PLK SA, na warunkach określonych w art. 24d. Art. 24ca. Zobowiązania podatkowe PKP SA z tytułu podatku od towarów i usług, powstałe do dnia 31 grudnia 2026 r., do wysokości kwoty odpowiadającej podatkowi należnemu powstałemu w związku z rozliczeniem umów zawartych między PKP SA a PLK SA, PKP Linia Hutnicza Szerokotorowa sp. z o.o., PKP Szybka Kolej Miejska w Trójmieście sp. z o.o. na podstawie art. 17 ust. 5, w brzmieniu obowiązującym przed dniem 25 maja 2003 r., podlegają zapłacie w drodze przeniesienia własności akcji PLK SA, na warunkach określonych w art. 24d.
+**Art. 24c.** Zobowiązania podatkowe PKP SA z tytułu podatku od towarów i usług, powstałe do dnia 31 grudnia 2015 r., do wysokości kwoty odpowiadającej podatkowi należnemu powstałemu w związku z rozliczeniem umowy zawartej między PKP SA i PLK SA na podstawie art. 17 ust. 5, w brzmieniu obowiązującym przed dniem 25 maja 2003 r., podlegają zapłacie w drodze przeniesienia własności akcji PLK SA, na warunkach określonych w art. 24d.
+
+**Art. 24ca.** Zobowiązania podatkowe PKP SA z tytułu podatku od towarów i usług, powstałe do dnia 31 grudnia 2026 r., do wysokości kwoty odpowiadającej podatkowi należnemu powstałemu w związku z rozliczeniem umów zawartych między PKP SA a PLK SA, PKP Linia Hutnicza Szerokotorowa sp. z o.o., PKP Szybka Kolej Miejska w Trójmieście sp. z o.o. na podstawie art. 17 ust. 5, w brzmieniu obowiązującym przed dniem 25 maja 2003 r., podlegają zapłacie w drodze przeniesienia własności akcji PLK SA, na warunkach określonych w art. 24d.
 
 **Art. 24d.**
 
@@ -563,7 +561,17 @@ Art. 65–73. (pominięte)
 
 **Art. 33a.** Wszelkie środki finansowe pochodzące z kredytów, pożyczek i obligacji przeznaczone na cele wymienione w art. 32 ust. 2 oraz na spłatę objętych poręczeniami lub gwarancjami Skarbu Państwa zobowiązań wraz z odsetkami oraz innymi kosztami bezpośrednio związanymi z tymi zobowiązaniami, a także środki finansowe gromadzone przez PKP SA na specjalnych rachunkach bankowych przeznaczone na spłatę tych kredytów, pożyczek i wykup obligacji wraz z odsetkami, nie podlegają egzekucji.
 
-**Art. 33b.** (uchylony) Art. 33ba. 1. Wierzytelności Skarbu Państwa wobec PKP SA z tytułu wykonania umów gwarancji podlegają zamianie na akcje PLK SA, przez nabycie przez Skarb Państwa reprezentowany przez ministra właściwego do spraw finansów publicznych w kapitale zakładowym PLK SA akcji o wartości nominalnej odpowiadającej wysokości tych wierzytelności. 2. Na wierzytelności, o których mowa w ust. 1, składają się dokonane przez Skarb Państwa w 2002 r. wypłaty z tytułu umów gwarancji wraz z odsetkami. 3. Szczegółowe warunki zamiany wierzytelności, o których mowa w ust. 1, na akcje PLK SA określi umowa zawarta między PKP SA a ministrem właściwym do spraw finansów publicznych, występującym w imieniu Skarbu Państwa, w porozumieniu z ministrem właściwym do spraw transportu. 4. (uchylony)
+**Art. 33b.** (uchylony)
+
+**Art. 33ba.**
+
+1. Wierzytelności Skarbu Państwa wobec PKP SA z tytułu wykonania umów gwarancji podlegają zamianie na akcje PLK SA, przez nabycie przez Skarb Państwa reprezentowany przez ministra właściwego do spraw finansów publicznych w kapitale zakładowym PLK SA akcji o wartości nominalnej odpowiadającej wysokości tych wierzytelności.
+
+2. Na wierzytelności, o których mowa w ust. 1, składają się dokonane przez Skarb Państwa w 2002 r. wypłaty z tytułu umów gwarancji wraz z odsetkami.
+
+3. Szczegółowe warunki zamiany wierzytelności, o których mowa w ust. 1, na akcje PLK SA określi umowa zawarta między PKP SA a ministrem właściwym do spraw finansów publicznych, występującym w imieniu Skarbu Państwa, w porozumieniu z ministrem właściwym do spraw transportu.
+
+4. (uchylony)
 
 #### Rozdział 4a Restrukturyzacja finansowa zobowiązań cywilnoprawnych
 
@@ -751,7 +759,11 @@ Art. 65–73. (pominięte)
 
 2a. Minister właściwy do spraw finansów publicznych, biorąc pod uwagę wykorzystanie określonego w ustawie budżetowej poziomu limitu skarbowych papierów wartościowych, może w danym roku budżetowym, na wniosek ministra właściwego do spraw transportu, przekazać PLK SA skarbowe papiery wartościowe o wartości nominalnej większej niż określona w ust. 2 dla danego roku budżetowego. Zwiększenie wartości nominalnej skarbowych papierów wartościowych planowanych do przekazania w danym roku budżetowym nie może powodować zwiększenia łącznej wartości nominalnej skarbowych papierów wartościowych wynikającej z ust. 2.
 
-3. Akcje w podwyższonym kapitale zakładowym PLK SA zostaną objęte przez Skarb Państwa. Art. 33wa. 1. W latach 2023–2028 minister właściwy do spraw finansów publicznych może także przekazać PLK SA na wniosek ministra właściwego do spraw transportu, skarbowe papiery wartościowe z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
+3. Akcje w podwyższonym kapitale zakładowym PLK SA zostaną objęte przez Skarb Państwa.
+
+**Art. 33wa.**
+
+1. W latach 2023–2028 minister właściwy do spraw finansów publicznych może także przekazać PLK SA na wniosek ministra właściwego do spraw transportu, skarbowe papiery wartościowe z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
 
 2. Łączna wartość nominalna skarbowych papierów wartościowych, o których mowa w ust. 1, nie może przekroczyć w:
 
@@ -798,6 +810,26 @@ Art. 65–73. (pominięte)
 5. Środki pochodzące z podwyższenia kapitału zakładowego, o którym mowa w ust. 4, Cargotor przeznacza wyłącznie na przygotowanie i realizację inwestycji mającej na celu wykonanie projektu pod nazwą „Modernizacja infrastruktury kolejowej w Rejonie Przeładunkowym Małaszewicze na granicy UE z Białorusią”, w tym na budowę siedziby jednostki ratowniczo-gaśniczej wraz z jej wyposażeniem techniczno-specjalistycznym w kwocie do 37 000 000 zł, oraz finansowanie zobowiązań Cargotor wyłącznie z tytułu podatku od towarów i usług powstałych w związku z realizacją tego projektu.
 
 #### Rozdział 4e Zasady przekazywania PLK SA środków budżetu państwa na podwyższenie kapitału zakładowego PLK SA
+
+**Art. 33za.**
+
+1. W roku 2020 minister właściwy do spraw aktywów państwowych przekazuje, na wniosek ministra właściwego do spraw transportu, środki z budżetu państwa, w wysokości 850 000 tys. zł, z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
+
+2. Środki, o których mowa w ust. 1, przeznacza się na inwestycje kapitałowe realizowane przez PLK SA, polegające na podwyższeniu kapitału zakładowego spółek zależnych PLK SA w rozumieniu Kodeksu spółek handlowych i objęciu przez PLK SA nowo utworzonych udziałów w podwyższonym kapitale zakładowym.
+
+3. Środki pochodzące z podwyższenia kapitału zakładowego, o którym mowa w ust. 2, spółki zależne PLK SA przeznaczają na zakup środków trwałych w postaci maszyn i urządzeń lub nieruchomości w celu zwiększenia potencjału realizowanych przez nie inwestycji.
+
+**Art. 33zb.**
+
+1. W roku 2020 minister właściwy do spraw aktywów państwowych przekazuje, na wniosek ministra właściwego do spraw transportu, środki z budżetu państwa, w wysokości 1 000 000 tys. zł, z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
+
+2. Środki, o których mowa w ust. 1, przeznacza się na zadania w zakresie budowy, przebudowy, rozbudowy lub modernizacji przystanków kolejowych oraz infrastruktury towarzyszącej, realizowane w ramach programów wieloletnich, o których mowa w art. 136 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+**Art. 33zc.**
+
+1. Akcje w podwyższonym kapitale zakładowym PLK SA obejmuje Skarb Państwa.
+
+2. Do podwyższenia kapitału zakładowego PLK SA stosuje się przepisy Kodeksu spółek handlowych.
 
 #### Rozdział 5 Restrukturyzacja majątkowa
 
@@ -1277,6 +1309,8 @@ Art. 65–73. (pominięte)
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
 
+**Art. 65–73.** (pominięte)
+
 #### Rozdział 11 Przepisy przejściowe i końcowe
 
 **Art. 74.**
@@ -1319,7 +1353,9 @@ Art. 65–73. (pominięte)
 
 3. Przepis ust. 1 stosuje się także do spółek powstałych w wyniku restrukturyzacji PKP SA, o których mowa w art. 2 ust. 3 pkt 1, odpowiednio do ustalonego dla nich zakresu i obszaru działalności gospodarczej, jeżeli spełniają one warunki do otrzymania stosownych koncesji.
 
-4. Za przeniesienie uprawnień z koncesji, o których mowa w ust. 1–3, nie pobiera się opłat. Art. 76–78. (pominięte)
+4. Za przeniesienie uprawnień z koncesji, o których mowa w ust. 1–3, nie pobiera się opłat.
+
+**Art. 76–78.** (pominięte)
 
 **Art. 78a.**
 

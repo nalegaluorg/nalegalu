@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Karcie Polaka realizując postanowienia Konstytucji Rzeczypospolitej Polskiej w zakresie udzielania pomocy Polakom zamieszkałym za granicą w zachowaniu ich związków z narodowym dziedzictwem kulturalnym, wypełniając moralny obowiązek wobec Polaków, którzy na skutek zmiennych losów naszej Ojczyzny utracili obywatelstwo polskie, spełniając oczekiwania tych, którzy polskimi obywatelami nigdy wcześniej nie byli, lecz ze względu na swoje poczucie tożsamości narodowej pragną uzyskać potwierdzenie przynależności do Narodu Polskiego, w celu wzmocnienia więzi łączących Polaków z Macierzą oraz wspierając ich starania o zachowanie języka polskiego oraz kultywowanie tradycji narodowej, postanawia się, co następuje:
+# Ustawa z dnia 7 września 2007 r. o Karcie Polaka
 
 *USTAWA z dnia 7 września 2007 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2007-09-28 |
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071801280) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1280/text.pdf) |
-
-Art. 25–29. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -410,6 +408,8 @@ Art. 25–29. (pominięte)
 - **4)** termin przekazywania informacji, o których mowa w art. 24c ust. 3 i 4 – uwzględniając konieczność efektywnego wykorzystania środków rezerwy celowej oraz rozliczania przez jednostki samorządu terytorialnego otrzymanych w formie dotacji środków budżetowych.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących i przepisy końcowe
+
+**Art. 25–29.** (pominięte)
 
 **Art. 30.** (uchylony)
 

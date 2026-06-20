@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Polskiej Organizacji Turystycznej
+# Ustawa z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej.
 
 *USTAWA z dnia 25 czerwca 1999 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1999-07-23 |
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990620689) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/689/text.pdf) |
-
-Art. 21–23. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -346,6 +344,8 @@ Art. 21–23. (pominięte)
 2. Dochód z działalności gospodarczej służy wyłącznie realizacji zadań Polskiej Organizacji Turystycznej określonych w art. 3 ust. 1.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 21–23.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
 

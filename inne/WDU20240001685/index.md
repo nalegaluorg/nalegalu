@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych
+# Ustawa z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych
 
 *USTAWA z dnia 6 listopada 2024 r.*
 
@@ -26,139 +26,6 @@ source: pdf
 | Data wydania | 2024-11-19 |
 | Ostatnia zmiana | 2026-04-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001685) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1685/text.pdf) |
-
-Art. 14zo. § 1. Rada GLOBE jest niezależnym organem, którego zadaniem jest opiniowanie spraw z zakresu przepisów dotyczących opodatkowania wyrównawczego, o którym mowa w ustawie o opodatkowaniu wyrównawczym, w tym ich stosowania w indywidualnych sprawach na gruncie przepisów prawa podatkowego, przepisów o rachunkowości oraz wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy OECD.
-§ 2. Zadaniem Rady GLOBE jest także opiniowanie projektów aktów normatywnych związanych z opodatkowaniem wyrównawczym.
-Art. 14zp. § 1. Radę GLOBE powołuje minister właściwy do spraw finansów publicznych na czteroletnią kadencję. Rada GLOBE działa do dnia powołania Rady GLOBE kolejnej kadencji, nie dłużej jednak niż przez 6 miesięcy od dnia upływu jej kadencji.
-§ 2. Minister właściwy do spraw finansów publicznych powołuje przewodniczącego Rady GLOBE spośród członków Rady GLOBE.
-§ 3. Przewodniczący pełni funkcję do końca kadencji Rady GLOBE.
-W razie złożenia przez niego rezygnacji z funkcji przewodniczącego, wygaśnięcia jego członkostwa lub jego odwołania przepis § 2 stosuje się odpowiednio.
-Art. 14zq. § 1. W skład Rady GLOBE wchodzą:
-1) 4 osoby delegowane przez ministra właściwego do spraw finansów publicznych, będące pracownikami urzędu obsługującego tego ministra;
-2) 2 osoby powołane spośród pracowników uczelni, jednostek organizacyjnych Polskiej Akademii Nauk lub instytutów badawczych w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534);
-3) 2 osoby będące doradcami podatkowymi, delegowane przez Krajową Radę Doradców Podatkowych, będące członkami Krajowej Izby Doradców Podatkowych;
-4) 2 osoby będące biegłymi rewidentami, delegowane przez Krajową Radę Biegłych Rewidentów, będące członkami Polskiej Izby Biegłych Rewidentów;
-5) 1 osoba posiadająca aktywny certyfikat wydany przez Instytut Audytorów Wewnętrznych, zrzeszona w tym Instytucie.
-§ 2. Do Rady GLOBE może być powołana osoba, która:
-1) ma wiedzę oraz co najmniej 5-letnie doświadczenie w zakresie prawa podatkowego, prawa gospodarczego oraz rachunkowości lub wiedzę oraz co najmniej 5-letnie doświadczenie w jednej z następujących dziedzin: systemu finansowego, międzynarodowego prawa gospodarczego, wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy OECD, dające rękojmię prawidłowej realizacji zadań Rady GLOBE;
-2) ma obywatelstwo polskie;
-3) korzysta z pełni praw publicznych;
-4) ma pełną zdolność do czynności prawnych;
-5) nie była prawomocnie skazana za przestępstwo lub przestępstwo skarbowe;
-6) jest nieskazitelnego charakteru.
-§ 3. Podmiot wskazujący członka Rady GLOBE ocenia spełnianie przez niego przesłanek określonych w § 2 pkt 1 i 6. Osoby, o których mowa w § 1 pkt 2–4, minister właściwy do spraw finansów publicznych powołuje po uzyskaniu przedstawionej na piśmie opinii podmiotów zatrudniających lub delegujących te osoby, a w przypadku osoby, o której mowa w § 1 pkt 5, po uzyskaniu na piśmie opinii Instytutu Audytorów Wewnętrznych.
-§ 4. Przed powołaniem w skład Rady GLOBE osoba powoływana składa oświadczenie o spełnieniu przesłanek, o których mowa w § 2 pkt 1–5.
-§ 5. Minister właściwy do spraw finansów publicznych w celu wyłonienia kandydatów na członków Rady GLOBE zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych ogłoszenie o przyjmowaniu zgłoszeń kandydatów na członków Rady GLOBE. Ogłoszenie zawiera w szczególności termin składania zgłoszeń, nie krótszy niż 30 dni od dnia zamieszczenia ogłoszenia, sposób i miejsce składania zgłoszeń.
-Art. 14zr. § 1. Przed upływem kadencji członkostwo w Radzie GLOBE wygasa w razie śmierci członka.
-§ 2. Minister właściwy do spraw finansów publicznych odwołuje członka Rady GLOBE z uwagi na utratę przez niego cechy, o której mowa w art. 14zq § 2 pkt 6, po zasięgnięciu opinii Rady GLOBE. Uchwała w przedmiocie wyrażenia opinii przez Radę GLOBE może zostać podjęta w głosowaniu tajnym, bezwzględną większością głosów w obecności co najmniej połowy składu Rady GLOBE. Członek Rady GLOBE, którego głosowanie dotyczy, nie posiada prawa głosu oraz nie jest zaliczany do składu Rady GLOBE w tym głosowaniu.
-§ 3. Minister właściwy do spraw finansów publicznych odwołuje członka Rady GLOBE w przypadku:
-1) utraty warunków będących podstawą powołania, o których mowa w art. 14zq § 1 i § 2 pkt 2–5;
-2) nieusprawiedliwionego niewykonywania przez niego obowiązków lub nienależytego ich wykonywania;
-3) choroby trwale uniemożliwiającej sprawowanie przez niego funkcji;
-4) złożenia wniosku o odwołanie ze składu Rady GLOBE przez podmiot delegujący;
-5) złożenia przez niego wniosku o odwołanie.
-§ 4. Przez utratę warunków będących podstawą powołania członków Rady GLOBE, o których mowa w art. 14zq § 1 pkt 1 i 2, rozumie się rozwiązanie stosunku pracy z podmiotem zatrudniającym w chwili powołania do pełnienia funkcji członka Rady GLOBE.
-§ 5. W przypadku przeniesienia służbowego członka Rady GLOBE, o którym mowa w art. 14zq § 1 pkt 1, do pracy w jednostkach organizacyjnych Krajowej Administracji Skarbowej lub służby w Służbie Celno-Skarbowej kontynuowanie członkostwa w Radzie GLOBE jest możliwe po wyrażeniu zgody przez ministra właściwego do spraw finansów publicznych.
-§ 6. Przez utratę warunków będących podstawą powołania członków Rady GLOBE, o których mowa w art. 14zq § 1 pkt 3–5, rozumie się odpowiednio skreślenie z listy doradców podatkowych, skreślenie z rejestru biegłych rewidentów i utratę aktywnego certyfikatu wydanego przez Instytut Audytorów Wewnętrznych.
-Art. 14zs. § 1. Wygaśnięcie członkostwa w Radzie GLOBE lub odwołanie członka Rady GLOBE nie wstrzymuje jej prac, chyba że skład Rady GLOBE uległ zmniejszeniu o więcej niż 2 członków.
-§ 2. Osoba powołana w miejsce członka Rady GLOBE, którego członkostwo wygasło lub ustało wskutek odwołania, pełni funkcję do upływu kadencji Rady GLOBE.
-Art. 14zt. § 1. Przewodniczący Rady GLOBE:
-1) kieruje jej pracami;
-2) zwołuje posiedzenia Rady GLOBE;
-3) wyznacza nie więcej niż 5 członków Rady GLOBE, których zadaniem jest sporządzenie projektu opinii Rady GLOBE co do spraw z zakresu przepisów dotyczących opodatkowania wyrównawczego;
-4) informuje ministra właściwego do spraw finansów publicznych o każdym przypadku uchybienia przez Radę GLOBE terminowi określonemu w art. 14zg § 4, podaje przyczyny tego uchybienia oraz wskazuje członków Rady GLOBE, którzy się do tego przyczynili.
-§ 2. Stanowisko co do spraw, o których mowa w art. 14zo § 1 lub 2, Rada GLOBE przyjmuje na posiedzeniu bezwzględną większością głosów w obecności co najmniej połowy składu Rady GLOBE.
-§ 3. Szczegółowy tryb pracy Rady GLOBE jest określony w regulaminie uchwalonym przez nią zwykłą większością głosów w obecności co najmniej połowy jej składu.
-§ 4. Obsługę prac Rady GLOBE zapewnia minister właściwy do spraw finansów publicznych. Wydatki związane z działaniem Rady GLOBE są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw finansów publicznych.
-§ 5. Sekretarz Rady GLOBE jest powoływany i odwoływany przez ministra właściwego do spraw finansów publicznych. Sekretarzem Rady GLOBE może być wyłącznie pracownik urzędu obsługującego tego ministra.
-§ 6. Do zadań sekretarza Rady GLOBE należy organizacja posiedzeń Rady GLOBE, w szczególności zapewnienie obsługi finansowej związanej z funkcjonowaniem Rady GLOBE oraz obsługi administracyjno-biurowej Rady GLOBE.
-§ 7. Sekretarz może uczestniczyć w posiedzeniach Rady GLOBE bez prawa głosu.
-Art. 14zu. Opinie Rady GLOBE są niezwłocznie zamieszczane w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych po usunięciu danych identyfikujących zainteresowanego oraz inne podmioty wskazane w jej treści.
-Art. 14zv. Do wyłączenia członków Rady GLOBE w zakresie wydawania opinii w poszczególnych sprawach stosuje się odpowiednio przepisy art. 130 § 1 i 2.
-Art. 14zw. § 1. Przewodniczącemu, pozostałym członkom Rady GLOBE oraz sekretarzowi Rady GLOBE przysługuje wynagrodzenie za każdy miesiąc, w którym uczestniczyli w posiedzeniu Rady GLOBE.
-§ 2. Członkom Rady GLOBE przysługuje:
-1) wynagrodzenie za sporządzenie opinii Rady GLOBE;
-2) zwrot kosztów podróży i noclegów obejmujący świadczenia przewidziane w przepisach o należnościach przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju, w tym diety i ryczałty.
-§ 3. W przypadku wydania opinii z uchybieniem terminu określonego w art. 14zg § 4 członkowi Rady GLOBE, który przyczynił się do uchybienia temu terminowi, nie przysługuje wynagrodzenie za sporządzenie projektu opinii.
-§ 4. Wysokość wynagrodzeń, o których mowa w § 1 i § 2 pkt 1, nie może przekroczyć dwukrotności kwoty bazowej dla członków korpusu służby cywilnej, której wysokość, ustaloną według odrębnych przepisów, określa ustawa budżetowa.
-§ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
-1) wysokość wynagrodzeń, o których mowa w § 1 i § 2 pkt 1, biorąc pod uwagę zakres obowiązków przewodniczącego, sekretarza Rady GLOBE i pozostałych członków GLOBE oraz szacunkowy nakład ich pracy;
-2) warunki i tryb zwrotu kosztów podróży i noclegów przysługującego członkom Rady GLOBE w związku z poniesieniem tych kosztów w ramach udziału w pracach Rady GLOBE oraz sposób obliczania wysokości albo maksymalną wysokość tego zwrotu, biorąc pod uwagę racjonalność ponoszonych kosztów podróży i noclegów.”;
-5) w art. 20zb po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) opinii w sprawie opodatkowania wyrównawczego;”;
-6) w art. 20zc po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Do porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 1a, przepisy art. 14t, art. 14u § 1, 2 i 10, art. 14w, art. 14z § 1 i 3 oraz art. 14za § 1, 2, 5 i 6 stosuje się odpowiednio, przy czym:
-1) opłaty, o których mowa w art. 14z § 1 i art. 14za, pobiera się po zawarciu porozumienia w wysokości 50 % kwot, o których mowa w art. 14z § 1 i art. 14za;
-2) obowiązek przedstawienia dokumentów lub informacji, o których mowa w art. 14u § 2 i 10, nie dotyczy dokumentów lub informacji przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach realizacji umowy o współdziałanie.”;
-7) w art. 20zd:
-a) w pkt 1 wyrazy „w sprawie, o której mowa w art. 20zb pkt 1” zastępuje się wyrazami „w sprawach, o których mowa w art. 20zb pkt 1 i 1a”,
-b) w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) Rady GLOBE – w przypadku porozumienia podatkowego, o którym mowa w art. 20zb pkt 1a, przy czym przepisy art. 14zf i art. 14zg stosuje się odpowiednio.”;
-8) w art. 20zt po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) opinię w sprawie opodatkowania wyrównawczego, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 14t oraz art. 14u § 1, 2 i 10;”;
-9) w art. 59 w § 1 w pkt 10 po wyrazach „art. 14m” dodaje się wyrazy „lub art. 14zl”;
-10) w art. 70 po § 1a dodaje się § 1b w brzmieniu: „§ 1b. Zobowiązanie podatkowe podatnika podatku dochodowego od osób prawnych podlegającego opodatkowaniu wyrównawczemu na podstawie przepisów ustawy o opodatkowaniu wyrównawczym przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym upłynął termin płatności podatku wynikającego z tego opodatkowania wyrównawczego.”;
-11) w art. 119o w § 1 w pkt 3 wyrazy „szkół wyższych” zastępuje się wyrazem „uczelni”;
-12) w art. 119w § 1 otrzymuje brzmienie: „§ 1. Zainteresowany może zwrócić się do Szefa Krajowej Administracji Skarbowej o wydanie opinii zabezpieczającej, z wyłączeniem opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, o której mowa w rozdziale 6.”;
-13) w art. 119x w § 5 uchyla się zdanie drugie;
-14) w dziale IIIA dodaje się rozdział 6 w brzmieniu: „Rozdział 6 Opinia zabezpieczająca w sprawie opodatkowania wyrównawczego
-Art. 119zfp. § 1. Zainteresowany może zwrócić się do Szefa Krajowej Administracji Skarbowej o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego.
-§ 2. Zainteresowanym, o którym mowa w § 1, jest zainteresowany w rozumieniu art. 14t.
-§ 3. Wniosek o opinię zabezpieczającą w sprawie opodatkowania wyrównawczego może dotyczyć czynności planowanej lub rozpoczętej i niezakończonej.
-Art. 119zfq. § 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego powinien zawierać dane istotne dla określenia podatkowych skutków czynności, o których mowa w art. 119zfp § 3, oraz zastosowania do tych czynności art. 119a § 1, w tym:
-1) dane identyfikujące wnioskodawcę;
-2) wskazanie podmiotów dokonujących czynności, o których mowa w art. 119zfp § 3;
-3) wyczerpujący opis czynności, o których mowa w art. 119zfp § 3, wraz ze wskazaniem występujących pomiędzy podmiotami powiązań w rozumieniu art. 23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r.
-o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
-4) NSP w rozumieniu przepisów działu III rozdziału 11a odnoszący się do uzgodnienia albo wyjaśnienie, z jakich powodów faktycznych lub prawnych uzgodnienie nie podlegało zgłoszeniu w celu nadania NSP;
-5) wskazanie celów, których realizacji mają służyć czynności, o których mowa w art. 119zfp § 3;
-6) wskazanie ekonomicznego lub gospodarczego uzasadnienia czynności, o których mowa w art. 119zfp § 3;
-7) określenie skutków podatkowych, w tym korzyści podatkowych, będących rezultatem czynności, o których mowa w art. 119zfp § 3, objętych wnioskiem;
-8) wskazanie innych niż w pkt 7 korzyści podatkowych, niepodlegających ocenie określonej w art. 119za pkt 2, których osiągnięcie jest uzależnione pośrednio od dokonania czynności, o których mowa w art. 119zfp § 3;
-9) wskazanie innych czynności, o których mowa w art. 119zfp § 3, od których pośrednio jest uzależnione osiągnięcie korzyści podatkowych, o których mowa w pkt 7 i 8;
-10) przedstawienie własnego stanowiska w sprawie;
-11) inne dane, w tym:
-a) dane identyfikacyjne jednostek lub jednostek składowych w rozumieniu odpowiednio art. 2 ust. 1 pkt 11 i 20 ustawy o opodatkowaniu wyrównawczym, uczestniczących w czynnościach, o których mowa w art. 119zfp § 3, w tym: – numery ich identyfikacji podatkowej, a jeżeli te numery nie zostały nadane inne numery identyfikacyjne wraz z określeniem ich rodzaju, – dane dotyczące miejsca ich siedziby lub zarządu, – dane dotyczące przedmiotu prowadzonej przez nie działalności,
-b) wskazanie jurysdykcji w rozumieniu art. 2 ust. 1 pkt 22 ustawy o opodatkowaniu wyrównawczym, w których jednostki lub jednostki składowe uczestniczące w czynnościach, o których mowa w art. 119zfp § 3, są zlokalizowane,
-c) rodzaje jednostek lub jednostek składowych, których dotyczy wniosek,
-d) informację na temat ogólnej struktury korporacyjnej grupy w rozumieniu art. 2 ust. 1 pkt 6 ustawy o opodatkowaniu wyrównawczym, w tym w zakresie udziałów konsolidujących w rozumieniu art. 2 ust. 1 pkt 42 ustawy o opodatkowaniu wyrównawczym w jednostkach składowych tej grupy będących w posiadaniu innych jednostek składowych tej grupy,
-e) opis podstawowej działalności wnioskodawcy, w tym: – wskazanie przedmiotu prowadzonej działalności, – opis strategii gospodarczej,
-f) opis przyjętych zasad lub polityki rachunkowości w zakresie, w jakim mają one zastosowanie do czynności, o których mowa w art. 119zfp § 3, stosowanych przez wnioskodawcę i pozostałe jednostki składowe uczestniczące w tych czynnościach,
-g) wskazanie umów, porozumień wewnątrzgrupowych lub innych dokumentów dotyczących czynności, o których mowa w art. 119zfp § 3,
-h) wskazanie innych dokumentów lub informacji niezbędnych do dokonania oceny stanowiska wnioskodawcy.
-§ 2. Do wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego może być załączona dokumentacja dotycząca czynności, o których mowa w art. 119zfp § 3, w szczególności oryginały lub kopie umów, porozumień wewnątrzgrupowych lub innych dokumentów, lub ich projektów.
-§ 3. Szef Krajowej Administracji Skarbowej wzywa wnoszącego wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, który nie spełnia wymogów określonych w § 1 lub innych wymogów określonych w przepisach prawa, do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania, z pouczeniem, że niewypełnienie tego warunku spowoduje pozostawienie wniosku bez rozpatrzenia.
-§ 4. Szef Krajowej Administracji Skarbowej może zwrócić się do zainteresowanego o wyjaśnienie wątpliwości co do treści wniosku o opinię zabezpieczającą w sprawie opodatkowania wyrównawczego lub zorganizować z zainteresowanym spotkanie uzgodnieniowe w celu wyjaśnienia tych wątpliwości.
-§ 5. Ze spotkania uzgodnieniowego sporządza się protokół.
-Art. 119zfr. § 1. Szef Krajowej Administracji Skarbowej wydaje opinię zabezpieczającą w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, nie ma zastosowania przepis art. 119a § 1.
-§ 2. Szef Krajowej Administracji Skarbowej odmawia wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a § 1. Odmawiając wydania opinii zabezpieczającej, wskazuje się okoliczności świadczące o tym, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a
-§ 1.
-§ 3. Odmowa wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego zawiera pouczenie o prawie wniesienia skargi do sądu administracyjnego.
-Art. 119zfs. Złożenie wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego nie stanowi przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
-Art. 119zft. Opinia zabezpieczająca w sprawie opodatkowania wyrównawczego zawiera w szczególności:
-1) wyczerpujący opis czynności, o których mowa w art. 119zfp § 3, których dotyczył wniosek;
-2) ocenę, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, nie ma zastosowania przepis art. 119a § 1;
-3) pouczenie o prawie wniesienia skargi do sądu administracyjnego.
-Art. 119zfu. § 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego załatwia się bez zbędnej zwłoki, nie później niż w terminie 12 miesięcy od dnia otrzymania wniosku przez Szefa Krajowej Administracji Skarbowej.
-§ 2. Do terminu określonego w § 1 nie wlicza się terminów i okresów, o których mowa w art. 139 § 4.
-Art. 119zfv. § 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego podlega opłacie w wysokości 65 000 zł, którą należy wpłacić w terminie 7 dni od dnia złożenia wniosku.
-§ 2. Opłata podlega zwrotowi w przypadku:
-1) wycofania wniosku w terminie 6 miesięcy od dnia jego złożenia – w połowie;
-2) uiszczenia jej w wysokości większej od należnej – w odpowiedniej części.
-§ 3. W przypadku, o którym mowa w § 2, zwrot opłaty następuje nie później niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego.
-§ 4. Koszty postępowania, o których mowa w art. 265 § 1 pkt 1 i 3, obciążają wnioskodawcę.
-Art. 119zfw. Szef Krajowej Administracji Skarbowej może, z urzędu, zmienić wydaną opinię zabezpieczającą w sprawie opodatkowania wyrównawczego albo odmowę wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli jest ona sprzeczna z orzecznictwem Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
-Art. 119zfx. § 1. Na podstawie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego lub odmowy wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego sporządza się informację, którą niezwłocznie zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-§ 2. Informacja, o której mowa w § 1, zawiera w szczególności zwięzły opis czynności będących przedmiotem opinii zabezpieczającej w sprawie opodatkowania wyrównawczego oraz wyjaśnienie powodów podjętego rozstrzygnięcia. Informacja nie może zawierać danych identyfikujących lub pozwalających na zidentyfikowanie zainteresowanego lub innych podmiotów wskazanych w jej treści.
-Art. 119zfy. § 1. Szef Krajowej Administracji Skarbowej zasięga opinii organu właściwego w sprawie porozumienia inwestycyjnego, jeżeli:
-1) okoliczności przedstawione we wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego świadczą, że do korzyści podatkowej wskazanej we wniosku, wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie zawarte porozumienie inwestycyjne w zakresie, o którym mowa w art. 20zt pkt 2a, albo w zakresie tej korzyści podatkowej organ właściwy w sprawie porozumienia odmówił zawarcia tego porozumienia lub
-2) zainteresowany jest stroną postępowania w przedmiocie zawarcia porozumienia inwestycyjnego w zakresie czynności opisanych we wniosku.
-§ 2. Jeżeli z opinii organu właściwego w sprawie porozumienia inwestycyjnego wynika, że istnieją przeszkody do rozpatrzenia wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, Szef Krajowej Administracji Skarbowej odmawia wszczęcia postępowania w sprawie wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego.
-§ 3. Do zasięgnięcia opinii organu właściwego w sprawie porozumienia inwestycyjnego przepisy art. 209 § 1–4 i 6 stosuje się odpowiednio.
-Art. 119zfz. Jeżeli postępowanie w sprawie wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego stało się bezprzedmiotowe, w szczególności w przypadku wycofania wniosku o jej wydanie albo wydania decyzji z zastosowaniem art. 119a § 1 w zakresie objętym wnioskiem o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, przepisy art. 208 oraz art. 210–212 stosuje się odpowiednio.
-Art. 119zfza. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 119zfq § 1, który zawiera dane określone w tych przepisach oraz oświadczenie wskazane w art. 14u § 3, a także umożliwia wskazanie dokumentacji, o której mowa w art. 119zfq § 2, jak również sposób uiszczenia opłaty, o której mowa w art. 119zfv, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców.
-Art. 119zfzb. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14u § 3 i 4, art. 14y § 2, art. 14za § 5, art. 14zd § 1 pkt 2 i § 4–6, art. 14zi, art. 120, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3, 3b i 9, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 171, art. 187 § 3, art. 189 § 3, art. 197 § 1 i 3, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16 i 23.”;
-15) w art. 239d w § 1 po wyrazach „art. 14m § 3” dodaje się wyrazy „lub art. 14zl § 3”;
-16) w art. 294:
-a) w § 1 pkt 7 otrzymuje brzmienie: „7) członkowie Rady GLOBE i Rady;”,
-b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Radzie”;
-17) w art. 297g pkt 2 otrzymuje brzmienie: „2) Dyrektorowi Krajowej Informacji Skarbowej w zakresie, w jakim jest to niezbędne do wydania przez ministra właściwego do spraw finansów publicznych opinii, o której mowa w art. 14b § 5f pkt 1, i stanowiska, o którym mowa w art. 14u § 9 pkt 1;”.
 
 ### DZIAŁ I Przepisy wstępne
 
@@ -2479,7 +2346,11 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 § 2. Opłata wstępna jest wnoszona na rachunek Krajowej Informacji Skarbowej w terminie 7 dni, licząc od dnia złożenia wniosku. W przypadku nieuiszczenia w terminie opłaty wstępnej wydaje się postanowienie o pozostawieniu wniosku bez rozpatrzenia, na które służy zażalenie.
 
-§ 3. Opłata wstępna podlega zwrotowi wyłącznie w przypadku uiszczenia jej przez podmiot niebędący zainteresowanym w rozumieniu art. 14t § 2. Zwrot opłaty następuje w terminie 30 dni od dnia zakończenia postępowania w sprawie. Art. 14za. § 1. Wysokość opłaty głównej nie może być niższa niż 15 000 zł i nie może przekroczyć 50 000 zł.
+§ 3. Opłata wstępna podlega zwrotowi wyłącznie w przypadku uiszczenia jej przez podmiot niebędący zainteresowanym w rozumieniu art. 14t § 2. Zwrot opłaty następuje w terminie 30 dni od dnia zakończenia postępowania w sprawie.
+
+**Art. 14za.**
+
+§ 1. Wysokość opłaty głównej nie może być niższa niż 15 000 zł i nie może przekroczyć 50 000 zł.
 
 § 2. Przy ustalaniu wysokości opłaty głównej uwzględnia się treść wniosku, w szczególności stopień jego skomplikowania, liczbę poruszonych zagadnień i przedstawionych czynności, a także koszty sporządzenia projektu opinii.
 
@@ -2489,11 +2360,23 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 § 5. W przypadku nieuiszczenia w terminie opłaty głównej wydaje się postanowienie o pozostawieniu wniosku bez rozpatrzenia, na które służy zażalenie.
 
-§ 6. Opłata główna podlega zwrotowi w odpowiedniej części wyłącznie w przypadku uiszczenia jej w wysokości większej od należnej. Zwrot opłaty nienależnej następuje w terminie 30 dni od dnia zakończenia postępowania w sprawie. Art. 14zb. § 1. Opinia w sprawie opodatkowania wyrównawczego jest wydawana bez zbędnej zwłoki, nie później niż w terminie 8 miesięcy od dnia złożenia wniosku.
+§ 6. Opłata główna podlega zwrotowi w odpowiedniej części wyłącznie w przypadku uiszczenia jej w wysokości większej od należnej. Zwrot opłaty nienależnej następuje w terminie 30 dni od dnia zakończenia postępowania w sprawie.
 
-§ 2. Do powyższego terminu nie wlicza się terminów i okresów, o których mowa w art. 14zg § 4, art. 14zh § 3 i art. 139 § 4, oraz dni, w których wystąpiła awaria e-Urzędu Skarbowego w przypadku, o którym mowa w art. 35e ust. 4a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ). Art. 14zc. § 1. Pisma w sprawie opinii w sprawie opodatkowania wyrównawczego składa się i doręcza wyłącznie za pośrednictwem konta w e-Urzędzie Skarbowym, z zastrzeżeniem art. 35e ust. 9 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+**Art. 14zb.**
 
-§ 2. Dokumenty, które nie mogą być doręczone za pośrednictwem konta w e-Urzędzie Skarbowym lub których doręczenie w postaci fizycznej jest niezbędne do rozpatrzenia wniosku o opinię w sprawie opodatkowania wyrównawczego, są doręczane zgodnie z art. 144 § 1b i 1c. Art. 14zd. § 1. Dyrektor Krajowej Informacji Skarbowej może, z urzędu, w okresie ważności opinii w sprawie opodatkowania wyrównawczego, w całości albo w części:
+§ 1. Opinia w sprawie opodatkowania wyrównawczego jest wydawana bez zbędnej zwłoki, nie później niż w terminie 8 miesięcy od dnia złożenia wniosku.
+
+§ 2. Do powyższego terminu nie wlicza się terminów i okresów, o których mowa w art. 14zg § 4, art. 14zh § 3 i art. 139 § 4, oraz dni, w których wystąpiła awaria e-Urzędu Skarbowego w przypadku, o którym mowa w art. 35e ust. 4a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ).
+
+**Art. 14zc.**
+
+§ 1. Pisma w sprawie opinii w sprawie opodatkowania wyrównawczego składa się i doręcza wyłącznie za pośrednictwem konta w e-Urzędzie Skarbowym, z zastrzeżeniem art. 35e ust. 9 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+
+§ 2. Dokumenty, które nie mogą być doręczone za pośrednictwem konta w e-Urzędzie Skarbowym lub których doręczenie w postaci fizycznej jest niezbędne do rozpatrzenia wniosku o opinię w sprawie opodatkowania wyrównawczego, są doręczane zgodnie z art. 144 § 1b i 1c.
+
+**Art. 14zd.**
+
+§ 1. Dyrektor Krajowej Informacji Skarbowej może, z urzędu, w okresie ważności opinii w sprawie opodatkowania wyrównawczego, w całości albo w części:
 
 - **1)** zmienić wydaną opinię w sprawie opodatkowania wyrównawczego, jeżeli stwierdzi jej nieprawidłowość, w szczególności po uwzględnieniu orzecznictwa sądów, Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej;
 - **2)** uchylić wydaną opinię w sprawie opodatkowania wyrównawczego z uwagi na wystąpienie przesłanki wymienionej w art. 14u § 5 i odmówić, w drodze postanowienia, na które służy zażalenie, wydania opinii w sprawie opodatkowania wyrównawczego.
@@ -2506,9 +2389,19 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 § 5. Uchylenie opinii w sprawie opodatkowania wyrównawczego następuje w drodze postanowienia, na które służy zażalenie.
 
-§ 6. Zmianę opinii w sprawie opodatkowania wyrównawczego albo jej uchylenie doręcza się podmiotowi, któremu w danej sprawie została wydana opinia w sprawie opodatkowania wyrównawczego, albo jego następcy prawnemu. Art. 14ze. Opinia w sprawie opodatkowania wyrównawczego wygasa z mocy prawa w przypadku zmiany przepisów prawa dotyczących opodatkowania wyrównawczego zastosowanych w opinii, w zakresie, w jakim opinia staje się niezgodna z tymi przepisami. Wygaśnięcie opinii w sprawie opodatkowania wyrównawczego następuje z dniem wejścia w życie przepisów, z którymi ta opinia stała się niezgodna. Art. 14zf. § 1. Dyrektor Krajowej Informacji Skarbowej może w toku postępowania zasięgnąć opinii Rady do spraw Opodatkowania Wyrównawczego, zwanej dalej „Radą GLOBE”, w szczególności w zakresie stosowania przepisów prawa podatkowego, przepisów o rachunkowości oraz wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy Organizacji Współpracy Gospodarczej i Rozwoju (OECD).
+§ 6. Zmianę opinii w sprawie opodatkowania wyrównawczego albo jej uchylenie doręcza się podmiotowi, któremu w danej sprawie została wydana opinia w sprawie opodatkowania wyrównawczego, albo jego następcy prawnemu.
 
-§ 2. Występując o opinię, Dyrektor Krajowej Informacji Skarbowej przekazuje Radzie GLOBE kopię wniosku o opinię w sprawie opodatkowania wyrównawczego wraz z własnym stanowiskiem w sprawie. O wystąpieniu o opinię Rady GLOBE Dyrektor Krajowej Informacji Skarbowej niezwłocznie informuje zainteresowanego. Art. 14zg. § 1. Rada GLOBE może zwrócić się do zainteresowanego oraz Dyrektora Krajowej Informacji Skarbowej o udzielenie informacji i wyjaśnień dotyczących sprawy, w której Dyrektor Krajowej Informacji Skarbowej zwrócił się do Rady GLOBE o wydanie opinii.
+**Art. 14ze.** Opinia w sprawie opodatkowania wyrównawczego wygasa z mocy prawa w przypadku zmiany przepisów prawa dotyczących opodatkowania wyrównawczego zastosowanych w opinii, w zakresie, w jakim opinia staje się niezgodna z tymi przepisami. Wygaśnięcie opinii w sprawie opodatkowania wyrównawczego następuje z dniem wejścia w życie przepisów, z którymi ta opinia stała się niezgodna.
+
+**Art. 14zf.**
+
+§ 1. Dyrektor Krajowej Informacji Skarbowej może w toku postępowania zasięgnąć opinii Rady do spraw Opodatkowania Wyrównawczego, zwanej dalej „Radą GLOBE”, w szczególności w zakresie stosowania przepisów prawa podatkowego, przepisów o rachunkowości oraz wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy Organizacji Współpracy Gospodarczej i Rozwoju (OECD).
+
+§ 2. Występując o opinię, Dyrektor Krajowej Informacji Skarbowej przekazuje Radzie GLOBE kopię wniosku o opinię w sprawie opodatkowania wyrównawczego wraz z własnym stanowiskiem w sprawie. O wystąpieniu o opinię Rady GLOBE Dyrektor Krajowej Informacji Skarbowej niezwłocznie informuje zainteresowanego.
+
+**Art. 14zg.**
+
+§ 1. Rada GLOBE może zwrócić się do zainteresowanego oraz Dyrektora Krajowej Informacji Skarbowej o udzielenie informacji i wyjaśnień dotyczących sprawy, w której Dyrektor Krajowej Informacji Skarbowej zwrócił się do Rady GLOBE o wydanie opinii.
 
 § 2. Zainteresowany może z własnej inicjatywy przedłożyć Radzie GLOBE swoje stanowisko na piśmie. Zainteresowany może załączyć do pisma dokumenty o charakterze pomocniczym.
 
@@ -2518,19 +2411,37 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 § 5. Opinię doręcza się Dyrektorowi Krajowej Informacji Skarbowej.
 
-§ 6. Dyrektor Krajowej Informacji Skarbowej nie jest związany treścią opinii Rady GLOBE. Art. 14zh. § 1. Dyrektor Krajowej Informacji Skarbowej może w toku postępowania wystąpić z wnioskiem w zakresie, o którym mowa w art. 14u § 1, o przekazanie informacji będących w posiadaniu ministra właściwego do spraw finansów publicznych, Szefa Krajowej Administracji Skarbowej, naczelnika urzędu skarbowego właściwego dla zainteresowanego lub naczelnika urzędu celno-skarbowego.
+§ 6. Dyrektor Krajowej Informacji Skarbowej nie jest związany treścią opinii Rady GLOBE.
+
+**Art. 14zh.**
+
+§ 1. Dyrektor Krajowej Informacji Skarbowej może w toku postępowania wystąpić z wnioskiem w zakresie, o którym mowa w art. 14u § 1, o przekazanie informacji będących w posiadaniu ministra właściwego do spraw finansów publicznych, Szefa Krajowej Administracji Skarbowej, naczelnika urzędu skarbowego właściwego dla zainteresowanego lub naczelnika urzędu celno-skarbowego.
 
 § 2. Dyrektor Krajowej Informacji Skarbowej może wykorzystać informacje uzyskane od organów wskazanych w § 1 na potrzeby rozpatrywania innych wniosków o opinie w sprawie opodatkowania wyrównawczego dotyczących takiego samego zagadnienia.
 
 § 3. Informacje są przekazywane bez zbędnej zwłoki, jednak nie później niż w terminie miesiąca.
 
-§ 4. Do wniosku o przekazanie informacji przepisy art. 209 § 1, 2 i 4 stosuje się odpowiednio. Art. 14zi. § 1. Opinia w sprawie opodatkowania wyrównawczego, zmiana tej opinii, uchylenie tej opinii, uchylenie zmiany tej opinii oraz postanowienie wydane na podstawie art. 14u § 5 wraz z informacją o dacie ich doręczenia są niezwłocznie przekazywane organom podatkowym właściwym ze względu na zakres spraw będących ich przedmiotem.
+§ 4. Do wniosku o przekazanie informacji przepisy art. 209 § 1, 2 i 4 stosuje się odpowiednio.
+
+**Art. 14zi.**
+
+§ 1. Opinia w sprawie opodatkowania wyrównawczego, zmiana tej opinii, uchylenie tej opinii, uchylenie zmiany tej opinii oraz postanowienie wydane na podstawie art. 14u § 5 wraz z informacją o dacie ich doręczenia są niezwłocznie przekazywane organom podatkowym właściwym ze względu na zakres spraw będących ich przedmiotem.
 
 § 2. Opinia w sprawie opodatkowania wyrównawczego, zmiana tej opinii oraz postanowienie wydane na podstawie art. 14u § 5, po usunięciu danych identyfikujących wnioskodawcę i inne podmioty wskazane w treści tej opinii oraz danych objętych tajemnicą przedsiębiorstwa, są niezwłocznie zamieszczane w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych. W Biuletynie Informacji Publicznej zamieszcza się informacje o okresie ważności opinii w sprawie opodatkowania wyrównawczego oraz jej zmiany, jak również informacje o ich uchyleniu.
 
-§ 3. W Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych zamieszcza się informacje o nieprawidłowych opiniach w sprawie opodatkowania wyrównawczego, które z powodu likwidacji lub rozwiązania zainteresowanego, dla którego została wydana opinia w sprawie opodatkowania wyrównawczego, nie mogą zostać zmienione. Art. 14zj. § 1. Zastosowanie się do ważnej opinii w sprawie opodatkowania wyrównawczego przed jej zmianą albo uchyleniem lub przed doręczeniem organowi podatkowemu odpisu prawomocnego orzeczenia sądu administracyjnego uchylającego opinię w sprawie opodatkowania wyrównawczego, a także nieuwzględnienie tej opinii w rozstrzygnięciu sprawy podatkowej nie może szkodzić zainteresowanemu.
+§ 3. W Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych zamieszcza się informacje o nieprawidłowych opiniach w sprawie opodatkowania wyrównawczego, które z powodu likwidacji lub rozwiązania zainteresowanego, dla którego została wydana opinia w sprawie opodatkowania wyrównawczego, nie mogą zostać zmienione.
 
-§ 2. W zakresie związanym z zastosowaniem się do opinii w sprawie opodatkowania wyrównawczego, która została zmieniona albo uchylona, lub opinii w sprawie opodatkowania wyrównawczego nieuwzględnionej w rozstrzygnięciu sprawy podatkowej nie wszczyna się postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe, a postępowania wszczęte w tych sprawach umarza się oraz nie nalicza się odsetek za zwłokę. Art. 14zk. W przypadku gdy skutki podatkowe związane z czynnościami będącymi przedmiotem opinii w sprawie opodatkowania wyrównawczego miały miejsce przed opublikowaniem interpretacji ogólnej lub przed doręczeniem opinii w sprawie opodatkowania wyrównawczego, zastosowanie się do tej opinii lub interpretacji nie zwalnia z obowiązku zapłaty podatku. Art. 14zl. § 1. Zastosowanie się do ważnej opinii w sprawie opodatkowania wyrównawczego, która następnie została zmieniona albo uchylona lub która nie została uwzględniona w rozstrzygnięciu sprawy podatkowej, powoduje zwolnienie z obowiązku zapłaty podatku w zakresie wynikającym z czynności będących przedmiotem opinii w sprawie opodatkowania wyrównawczego, jeżeli:
+**Art. 14zj.**
+
+§ 1. Zastosowanie się do ważnej opinii w sprawie opodatkowania wyrównawczego przed jej zmianą albo uchyleniem lub przed doręczeniem organowi podatkowemu odpisu prawomocnego orzeczenia sądu administracyjnego uchylającego opinię w sprawie opodatkowania wyrównawczego, a także nieuwzględnienie tej opinii w rozstrzygnięciu sprawy podatkowej nie może szkodzić zainteresowanemu.
+
+§ 2. W zakresie związanym z zastosowaniem się do opinii w sprawie opodatkowania wyrównawczego, która została zmieniona albo uchylona, lub opinii w sprawie opodatkowania wyrównawczego nieuwzględnionej w rozstrzygnięciu sprawy podatkowej nie wszczyna się postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe, a postępowania wszczęte w tych sprawach umarza się oraz nie nalicza się odsetek za zwłokę.
+
+**Art. 14zk.** W przypadku gdy skutki podatkowe związane z czynnościami będącymi przedmiotem opinii w sprawie opodatkowania wyrównawczego miały miejsce przed opublikowaniem interpretacji ogólnej lub przed doręczeniem opinii w sprawie opodatkowania wyrównawczego, zastosowanie się do tej opinii lub interpretacji nie zwalnia z obowiązku zapłaty podatku.
+
+**Art. 14zl.**
+
+§ 1. Zastosowanie się do ważnej opinii w sprawie opodatkowania wyrównawczego, która następnie została zmieniona albo uchylona lub która nie została uwzględniona w rozstrzygnięciu sprawy podatkowej, powoduje zwolnienie z obowiązku zapłaty podatku w zakresie wynikającym z czynności będących przedmiotem opinii w sprawie opodatkowania wyrównawczego, jeżeli:
 
 - **1)** zobowiązanie nie zostało prawidłowo wykonane w wyniku zastosowania się do opinii w sprawie opodatkowania wyrównawczego, która została zmieniona albo uchylona, lub opinii w sprawie opodatkowania wyrównawczego nieuwzględnionej w rozstrzygnięciu sprawy podatkowej oraz
 - **2)** skutki podatkowe związane z czynnościami przedstawionymi we wniosku, które odpowiadają czynnościom będącym przedmiotem opinii w sprawie opodatkowania wyrównawczego, miały miejsce po opublikowaniu interpretacji ogólnej albo po doręczeniu opinii w sprawie opodatkowania wyrównawczego.
@@ -2539,14 +2450,248 @@ b) w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Rad
 
 § 3. Na wniosek podatnika, który zastosował się do opinii w sprawie opodatkowania wyrównawczego, w decyzji określającej wysokość zobowiązania podatkowego organ podatkowy określa również wysokość podatku objętego zwolnieniem, o którym mowa w § 1, a w przypadku uiszczenia podatku w zakresie objętym tym zwolnieniem – określa wysokość nadpłaty.
 
-§ 4. Organ podatkowy informuje podatnika na piśmie o dacie doręczenia odpisu orzeczenia, o którym mowa w § 2, podając jednocześnie informację, z jakim dniem kończy się okres zwolnienia z obowiązku zapłaty podatku wynikającego z opinii w sprawie opodatkowania wyrównawczego uchylonej przez orzeczenie. Art. 14zm. § 1. Przepisów art. 14zj–14zl nie stosuje się, jeżeli czynności będące przedmiotem opinii w sprawie opodatkowania wyrównawczego stanowią element czynności będących przedmiotem decyzji wydanej:
+§ 4. Organ podatkowy informuje podatnika na piśmie o dacie doręczenia odpisu orzeczenia, o którym mowa w § 2, podając jednocześnie informację, z jakim dniem kończy się okres zwolnienia z obowiązku zapłaty podatku wynikającego z opinii w sprawie opodatkowania wyrównawczego uchylonej przez orzeczenie.
+
+**Art. 14zm.**
+
+§ 1. Przepisów art. 14zj–14zl nie stosuje się, jeżeli czynności będące przedmiotem opinii w sprawie opodatkowania wyrównawczego stanowią element czynności będących przedmiotem decyzji wydanej:
 
 - **1)** z zastosowaniem art. 119a;
 - **2)** z zastosowaniem środków ograniczających umowne korzyści.
 
-§ 2. Przepisów art. 14zj–14zl nie stosuje się, jeżeli korzyść podatkowa stwierdzona w decyzjach wymienionych w § 1 jest skutkiem zastosowania się do interpretacji ogólnej lub objaśnień podatkowych. Art. 14zn. W sprawach dotyczących opinii w sprawie opodatkowania wyrównawczego stosuje się odpowiednio przepisy art. 120, art. 121 § 1, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3b, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 171, art. 208, art. 213 w zakresie uzupełniania lub sprostowania co do skargi do sądu administracyjnego, art. 214, art. 215 § 1 i 3 oraz przepisy rozdziałów 3a, 5–7, 9, 10, 14, 16 i 23 działu IV.
+§ 2. Przepisów art. 14zj–14zl nie stosuje się, jeżeli korzyść podatkowa stwierdzona w decyzjach wymienionych w § 1 jest skutkiem zastosowania się do interpretacji ogólnej lub objaśnień podatkowych.
+
+**Art. 14zn.** W sprawach dotyczących opinii w sprawie opodatkowania wyrównawczego stosuje się odpowiednio przepisy art. 120, art. 121 § 1, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3b, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 171, art. 208, art. 213 w zakresie uzupełniania lub sprostowania co do skargi do sądu administracyjnego, art. 214, art. 215 § 1 i 3 oraz przepisy rozdziałów 3a, 5–7, 9, 10, 14, 16 i 23 działu IV.
 
 #### Rozdział 1c Rada do spraw Opodatkowania Wyrównawczego
+
+**Art. 14zo.**
+
+§ 1. Rada GLOBE jest niezależnym organem, którego zadaniem jest opiniowanie spraw z zakresu przepisów dotyczących opodatkowania wyrównawczego, o którym mowa w ustawie o opodatkowaniu wyrównawczym, w tym ich stosowania w indywidualnych sprawach na gruncie przepisów prawa podatkowego, przepisów o rachunkowości oraz wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy OECD.
+
+§ 2. Zadaniem Rady GLOBE jest także opiniowanie projektów aktów normatywnych związanych z opodatkowaniem wyrównawczym.
+
+**Art. 14zp.**
+
+§ 1. Radę GLOBE powołuje minister właściwy do spraw finansów publicznych na czteroletnią kadencję. Rada GLOBE działa do dnia powołania Rady GLOBE kolejnej kadencji, nie dłużej jednak niż przez 6 miesięcy od dnia upływu jej kadencji.
+
+§ 2. Minister właściwy do spraw finansów publicznych powołuje przewodniczącego Rady GLOBE spośród członków Rady GLOBE.
+
+§ 3. Przewodniczący pełni funkcję do końca kadencji Rady GLOBE. W razie złożenia przez niego rezygnacji z funkcji przewodniczącego, wygaśnięcia jego członkostwa lub jego odwołania przepis § 2 stosuje się odpowiednio.
+
+**Art. 14zq.**
+
+§ 1. W skład Rady GLOBE wchodzą:
+
+- **1)** 4 osoby delegowane przez ministra właściwego do spraw finansów publicznych, będące pracownikami urzędu obsługującego tego ministra;
+- **2)** 2 osoby powołane spośród pracowników uczelni, jednostek organizacyjnych Polskiej Akademii Nauk lub instytutów badawczych w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534);
+- **3)** 2 osoby będące doradcami podatkowymi, delegowane przez Krajową Radę Doradców Podatkowych, będące członkami Krajowej Izby Doradców Podatkowych;
+- **4)** 2 osoby będące biegłymi rewidentami, delegowane przez Krajową Radę Biegłych Rewidentów, będące członkami Polskiej Izby Biegłych Rewidentów;
+- **5)** 1 osoba posiadająca aktywny certyfikat wydany przez Instytut Audytorów Wewnętrznych, zrzeszona w tym Instytucie.
+
+§ 2. Do Rady GLOBE może być powołana osoba, która:
+
+- **1)** ma wiedzę oraz co najmniej 5-letnie doświadczenie w zakresie prawa podatkowego, prawa gospodarczego oraz rachunkowości lub wiedzę oraz co najmniej 5-letnie doświadczenie w jednej z następujących dziedzin: systemu finansowego, międzynarodowego prawa gospodarczego, wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy OECD, dające rękojmię prawidłowej realizacji zadań Rady GLOBE;
+- **2)** ma obywatelstwo polskie;
+- **3)** korzysta z pełni praw publicznych;
+- **4)** ma pełną zdolność do czynności prawnych;
+- **5)** nie była prawomocnie skazana za przestępstwo lub przestępstwo skarbowe;
+- **6)** jest nieskazitelnego charakteru.
+
+§ 3. Podmiot wskazujący członka Rady GLOBE ocenia spełnianie przez niego przesłanek określonych w § 2 pkt 1 i 6. Osoby, o których mowa w § 1 pkt 2–4, minister właściwy do spraw finansów publicznych powołuje po uzyskaniu przedstawionej na piśmie opinii podmiotów zatrudniających lub delegujących te osoby, a w przypadku osoby, o której mowa w § 1 pkt 5, po uzyskaniu na piśmie opinii Instytutu Audytorów Wewnętrznych.
+
+§ 4. Przed powołaniem w skład Rady GLOBE osoba powoływana składa oświadczenie o spełnieniu przesłanek, o których mowa w § 2 pkt 1–5.
+
+§ 5. Minister właściwy do spraw finansów publicznych w celu wyłonienia kandydatów na członków Rady GLOBE zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych ogłoszenie o przyjmowaniu zgłoszeń kandydatów na członków Rady GLOBE. Ogłoszenie zawiera w szczególności termin składania zgłoszeń, nie krótszy niż 30 dni od dnia zamieszczenia ogłoszenia, sposób i miejsce składania zgłoszeń.
+
+**Art. 14zr.**
+
+§ 1. Przed upływem kadencji członkostwo w Radzie GLOBE wygasa w razie śmierci członka.
+
+§ 2. Minister właściwy do spraw finansów publicznych odwołuje członka Rady GLOBE z uwagi na utratę przez niego cechy, o której mowa w art. 14zq § 2 pkt 6, po zasięgnięciu opinii Rady GLOBE. Uchwała w przedmiocie wyrażenia opinii przez Radę GLOBE może zostać podjęta w głosowaniu tajnym, bezwzględną większością głosów w obecności co najmniej połowy składu Rady GLOBE. Członek Rady GLOBE, którego głosowanie dotyczy, nie posiada prawa głosu oraz nie jest zaliczany do składu Rady GLOBE w tym głosowaniu.
+
+§ 3. Minister właściwy do spraw finansów publicznych odwołuje członka Rady GLOBE w przypadku:
+
+- **1)** utraty warunków będących podstawą powołania, o których mowa w art. 14zq § 1 i § 2 pkt 2–5;
+- **2)** nieusprawiedliwionego niewykonywania przez niego obowiązków lub nienależytego ich wykonywania;
+- **3)** choroby trwale uniemożliwiającej sprawowanie przez niego funkcji;
+- **4)** złożenia wniosku o odwołanie ze składu Rady GLOBE przez podmiot delegujący;
+- **5)** złożenia przez niego wniosku o odwołanie.
+
+§ 4. Przez utratę warunków będących podstawą powołania członków Rady GLOBE, o których mowa w art. 14zq § 1 pkt 1 i 2, rozumie się rozwiązanie stosunku pracy z podmiotem zatrudniającym w chwili powołania do pełnienia funkcji członka Rady GLOBE.
+
+§ 5. W przypadku przeniesienia służbowego członka Rady GLOBE, o którym mowa w art. 14zq § 1 pkt 1, do pracy w jednostkach organizacyjnych Krajowej Administracji Skarbowej lub służby w Służbie Celno-Skarbowej kontynuowanie członkostwa w Radzie GLOBE jest możliwe po wyrażeniu zgody przez ministra właściwego do spraw finansów publicznych.
+
+§ 6. Przez utratę warunków będących podstawą powołania członków Rady GLOBE, o których mowa w art. 14zq § 1 pkt 3–5, rozumie się odpowiednio skreślenie z listy doradców podatkowych, skreślenie z rejestru biegłych rewidentów i utratę aktywnego certyfikatu wydanego przez Instytut Audytorów Wewnętrznych.
+
+**Art. 14zs.**
+
+§ 1. Wygaśnięcie członkostwa w Radzie GLOBE lub odwołanie członka Rady GLOBE nie wstrzymuje jej prac, chyba że skład Rady GLOBE uległ zmniejszeniu o więcej niż 2 członków.
+
+§ 2. Osoba powołana w miejsce członka Rady GLOBE, którego członkostwo wygasło lub ustało wskutek odwołania, pełni funkcję do upływu kadencji Rady GLOBE.
+
+**Art. 14zt.**
+
+§ 1. Przewodniczący Rady GLOBE:
+
+- **1)** kieruje jej pracami;
+- **2)** zwołuje posiedzenia Rady GLOBE;
+- **3)** wyznacza nie więcej niż 5 członków Rady GLOBE, których zadaniem jest sporządzenie projektu opinii Rady GLOBE co do spraw z zakresu przepisów dotyczących opodatkowania wyrównawczego;
+- **4)** informuje ministra właściwego do spraw finansów publicznych o każdym przypadku uchybienia przez Radę GLOBE terminowi określonemu w art. 14zg § 4, podaje przyczyny tego uchybienia oraz wskazuje członków Rady GLOBE, którzy się do tego przyczynili.
+
+§ 2. Stanowisko co do spraw, o których mowa w art. 14zo § 1 lub 2, Rada GLOBE przyjmuje na posiedzeniu bezwzględną większością głosów w obecności co najmniej połowy składu Rady GLOBE.
+
+§ 3. Szczegółowy tryb pracy Rady GLOBE jest określony w regulaminie uchwalonym przez nią zwykłą większością głosów w obecności co najmniej połowy jej składu.
+
+§ 4. Obsługę prac Rady GLOBE zapewnia minister właściwy do spraw finansów publicznych. Wydatki związane z działaniem Rady GLOBE są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw finansów publicznych.
+
+§ 5. Sekretarz Rady GLOBE jest powoływany i odwoływany przez ministra właściwego do spraw finansów publicznych. Sekretarzem Rady GLOBE może być wyłącznie pracownik urzędu obsługującego tego ministra.
+
+§ 6. Do zadań sekretarza Rady GLOBE należy organizacja posiedzeń Rady GLOBE, w szczególności zapewnienie obsługi finansowej związanej z funkcjonowaniem Rady GLOBE oraz obsługi administracyjno-biurowej Rady GLOBE.
+
+§ 7. Sekretarz może uczestniczyć w posiedzeniach Rady GLOBE bez prawa głosu.
+
+**Art. 14zu.** Opinie Rady GLOBE są niezwłocznie zamieszczane w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych po usunięciu danych identyfikujących zainteresowanego oraz inne podmioty wskazane w jej treści.
+
+**Art. 14zv.** Do wyłączenia członków Rady GLOBE w zakresie wydawania opinii w poszczególnych sprawach stosuje się odpowiednio przepisy art. 130 § 1 i 2.
+
+**Art. 14zw.**
+
+§ 1. Przewodniczącemu, pozostałym członkom Rady GLOBE oraz sekretarzowi Rady GLOBE przysługuje wynagrodzenie za każdy miesiąc, w którym uczestniczyli w posiedzeniu Rady GLOBE.
+
+§ 2. Członkom Rady GLOBE przysługuje:
+
+- **1)** wynagrodzenie za sporządzenie opinii Rady GLOBE;
+- **2)** zwrot kosztów podróży i noclegów obejmujący świadczenia przewidziane w przepisach o należnościach przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju, w tym diety i ryczałty.
+
+§ 3. W przypadku wydania opinii z uchybieniem terminu określonego w art. 14zg § 4 członkowi Rady GLOBE, który przyczynił się do uchybienia temu terminowi, nie przysługuje wynagrodzenie za sporządzenie projektu opinii.
+
+§ 4. Wysokość wynagrodzeń, o których mowa w § 1 i § 2 pkt 1, nie może przekroczyć dwukrotności kwoty bazowej dla członków korpusu służby cywilnej, której wysokość, ustaloną według odrębnych przepisów, określa ustawa budżetowa.
+
+§ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** wysokość wynagrodzeń, o których mowa w § 1 i § 2 pkt 1, biorąc pod uwagę zakres obowiązków przewodniczącego, sekretarza Rady GLOBE i pozostałych członków GLOBE oraz szacunkowy nakład ich pracy;
+- **2)** warunki i tryb zwrotu kosztów podróży i noclegów przysługującego członkom Rady GLOBE w związku z poniesieniem tych kosztów w ramach udziału w pracach Rady GLOBE oraz sposób obliczania wysokości albo maksymalną wysokość tego zwrotu, biorąc pod uwagę racjonalność ponoszonych kosztów podróży i noclegów.”;
+- **5)** w art. 20zb po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) opinii w sprawie opodatkowania wyrównawczego;”;
+- **6)** w art. 20zc po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Do porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 1a, przepisy art. 14t, art. 14u § 1, 2 i 10, art. 14w, art. 14z § 1 i 3 oraz art. 14za § 1, 2, 5 i 6 stosuje się odpowiednio, przy czym:
+- **1)** opłaty, o których mowa w art. 14z § 1 i art. 14za, pobiera się po zawarciu porozumienia w wysokości 50 % kwot, o których mowa w art. 14z § 1 i art. 14za;
+- **2)** obowiązek przedstawienia dokumentów lub informacji, o których mowa w art. 14u § 2 i 10, nie dotyczy dokumentów lub informacji przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach realizacji umowy o współdziałanie.”;
+- **7)** w art. 20zd:
+    - **a)** w pkt 1 wyrazy „w sprawie, o której mowa w art. 20zb pkt 1” zastępuje się wyrazami „w sprawach, o których mowa w art. 20zb pkt 1 i 1a”,
+    - **b)** w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) Rady GLOBE – w przypadku porozumienia podatkowego, o którym mowa w art. 20zb pkt 1a, przy czym przepisy art. 14zf i art. 14zg stosuje się odpowiednio.”;
+
+- **8)** w art. 20zt po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) opinię w sprawie opodatkowania wyrównawczego, przy czym w zakresie nieuregulowanym w niniejszym dziale stosuje się odpowiednio przepisy art. 14t oraz art. 14u § 1, 2 i 10;”;
+- **9)** w art. 59 w § 1 w pkt 10 po wyrazach „art. 14m” dodaje się wyrazy „lub art. 14zl”;
+- **10)** w art. 70 po § 1a dodaje się § 1b w brzmieniu: „§ 1b. Zobowiązanie podatkowe podatnika podatku dochodowego od osób prawnych podlegającego opodatkowaniu wyrównawczemu na podstawie przepisów ustawy o opodatkowaniu wyrównawczym przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym upłynął termin płatności podatku wynikającego z tego opodatkowania wyrównawczego.”;
+- **11)** w art. 119o w § 1 w pkt 3 wyrazy „szkół wyższych” zastępuje się wyrazem „uczelni”;
+- **12)** w art. 119w § 1 otrzymuje brzmienie: „§ 1. Zainteresowany może zwrócić się do Szefa Krajowej Administracji Skarbowej o wydanie opinii zabezpieczającej, z wyłączeniem opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, o której mowa w rozdziale 6.”;
+- **13)** w art. 119x w § 5 uchyla się zdanie drugie;
+- **14)** w dziale IIIA dodaje się rozdział 6 w brzmieniu: „Rozdział 6 Opinia zabezpieczająca w sprawie opodatkowania wyrównawczego
+
+**Art. 119zfp.**
+
+§ 1. Zainteresowany może zwrócić się do Szefa Krajowej Administracji Skarbowej o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego.
+
+§ 2. Zainteresowanym, o którym mowa w § 1, jest zainteresowany w rozumieniu art. 14t.
+
+§ 3. Wniosek o opinię zabezpieczającą w sprawie opodatkowania wyrównawczego może dotyczyć czynności planowanej lub rozpoczętej i niezakończonej.
+
+**Art. 119zfq.**
+
+§ 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego powinien zawierać dane istotne dla określenia podatkowych skutków czynności, o których mowa w art. 119zfp § 3, oraz zastosowania do tych czynności art. 119a § 1, w tym:
+
+- **1)** dane identyfikujące wnioskodawcę;
+- **2)** wskazanie podmiotów dokonujących czynności, o których mowa w art. 119zfp § 3;
+- **3)** wyczerpujący opis czynności, o których mowa w art. 119zfp § 3, wraz ze wskazaniem występujących pomiędzy podmiotami powiązań w rozumieniu art. 23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
+- **4)** NSP w rozumieniu przepisów działu III rozdziału 11a odnoszący się do uzgodnienia albo wyjaśnienie, z jakich powodów faktycznych lub prawnych uzgodnienie nie podlegało zgłoszeniu w celu nadania NSP;
+- **5)** wskazanie celów, których realizacji mają służyć czynności, o których mowa w art. 119zfp § 3;
+- **6)** wskazanie ekonomicznego lub gospodarczego uzasadnienia czynności, o których mowa w art. 119zfp § 3;
+- **7)** określenie skutków podatkowych, w tym korzyści podatkowych, będących rezultatem czynności, o których mowa w art. 119zfp § 3, objętych wnioskiem;
+- **8)** wskazanie innych niż w pkt 7 korzyści podatkowych, niepodlegających ocenie określonej w art. 119za pkt 2, których osiągnięcie jest uzależnione pośrednio od dokonania czynności, o których mowa w art. 119zfp § 3;
+- **9)** wskazanie innych czynności, o których mowa w art. 119zfp § 3, od których pośrednio jest uzależnione osiągnięcie korzyści podatkowych, o których mowa w pkt 7 i 8;
+- **10)** przedstawienie własnego stanowiska w sprawie;
+- **11)** inne dane, w tym:
+    - **a)** dane identyfikacyjne jednostek lub jednostek składowych w rozumieniu odpowiednio art. 2 ust. 1 pkt 11 i 20 ustawy o opodatkowaniu wyrównawczym, uczestniczących w czynnościach, o których mowa w art. 119zfp § 3, w tym: – numery ich identyfikacji podatkowej, a jeżeli te numery nie zostały nadane inne numery identyfikacyjne wraz z określeniem ich rodzaju, – dane dotyczące miejsca ich siedziby lub zarządu, – dane dotyczące przedmiotu prowadzonej przez nie działalności,
+    - **b)** wskazanie jurysdykcji w rozumieniu art. 2 ust. 1 pkt 22 ustawy o opodatkowaniu wyrównawczym, w których jednostki lub jednostki składowe uczestniczące w czynnościach, o których mowa w art. 119zfp § 3, są zlokalizowane,
+    - **c)** rodzaje jednostek lub jednostek składowych, których dotyczy wniosek,
+    - **d)** informację na temat ogólnej struktury korporacyjnej grupy w rozumieniu art. 2 ust. 1 pkt 6 ustawy o opodatkowaniu wyrównawczym, w tym w zakresie udziałów konsolidujących w rozumieniu art. 2 ust. 1 pkt 42 ustawy o opodatkowaniu wyrównawczym w jednostkach składowych tej grupy będących w posiadaniu innych jednostek składowych tej grupy,
+    - **e)** opis podstawowej działalności wnioskodawcy, w tym: – wskazanie przedmiotu prowadzonej działalności, – opis strategii gospodarczej,
+    - **f)** opis przyjętych zasad lub polityki rachunkowości w zakresie, w jakim mają one zastosowanie do czynności, o których mowa w art. 119zfp § 3, stosowanych przez wnioskodawcę i pozostałe jednostki składowe uczestniczące w tych czynnościach,
+    - **g)** wskazanie umów, porozumień wewnątrzgrupowych lub innych dokumentów dotyczących czynności, o których mowa w art. 119zfp § 3,
+    - **h)** wskazanie innych dokumentów lub informacji niezbędnych do dokonania oceny stanowiska wnioskodawcy.
+
+§ 2. Do wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego może być załączona dokumentacja dotycząca czynności, o których mowa w art. 119zfp § 3, w szczególności oryginały lub kopie umów, porozumień wewnątrzgrupowych lub innych dokumentów, lub ich projektów.
+
+§ 3. Szef Krajowej Administracji Skarbowej wzywa wnoszącego wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, który nie spełnia wymogów określonych w § 1 lub innych wymogów określonych w przepisach prawa, do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania, z pouczeniem, że niewypełnienie tego warunku spowoduje pozostawienie wniosku bez rozpatrzenia.
+
+§ 4. Szef Krajowej Administracji Skarbowej może zwrócić się do zainteresowanego o wyjaśnienie wątpliwości co do treści wniosku o opinię zabezpieczającą w sprawie opodatkowania wyrównawczego lub zorganizować z zainteresowanym spotkanie uzgodnieniowe w celu wyjaśnienia tych wątpliwości.
+
+§ 5. Ze spotkania uzgodnieniowego sporządza się protokół.
+
+**Art. 119zfr.**
+
+§ 1. Szef Krajowej Administracji Skarbowej wydaje opinię zabezpieczającą w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, nie ma zastosowania przepis art. 119a § 1.
+
+§ 2. Szef Krajowej Administracji Skarbowej odmawia wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli okoliczności przedstawione we wniosku wskazują, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a § 1. Odmawiając wydania opinii zabezpieczającej, wskazuje się okoliczności świadczące o tym, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie przepis art. 119a
+
+§ 1
+
+§ 3. Odmowa wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego zawiera pouczenie o prawie wniesienia skargi do sądu administracyjnego.
+
+**Art. 119zfs.** Złożenie wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego nie stanowi przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
+
+**Art. 119zft.** Opinia zabezpieczająca w sprawie opodatkowania wyrównawczego zawiera w szczególności:
+
+- **1)** wyczerpujący opis czynności, o których mowa w art. 119zfp § 3, których dotyczył wniosek;
+- **2)** ocenę, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności, o których mowa w art. 119zfp § 3, nie ma zastosowania przepis art. 119a § 1;
+- **3)** pouczenie o prawie wniesienia skargi do sądu administracyjnego.
+
+**Art. 119zfu.**
+
+§ 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego załatwia się bez zbędnej zwłoki, nie później niż w terminie 12 miesięcy od dnia otrzymania wniosku przez Szefa Krajowej Administracji Skarbowej.
+
+§ 2. Do terminu określonego w § 1 nie wlicza się terminów i okresów, o których mowa w art. 139 § 4.
+
+**Art. 119zfv.**
+
+§ 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego podlega opłacie w wysokości 65 000 zł, którą należy wpłacić w terminie 7 dni od dnia złożenia wniosku.
+
+§ 2. Opłata podlega zwrotowi w przypadku:
+
+- **1)** wycofania wniosku w terminie 6 miesięcy od dnia jego złożenia – w połowie;
+- **2)** uiszczenia jej w wysokości większej od należnej – w odpowiedniej części.
+
+§ 3. W przypadku, o którym mowa w § 2, zwrot opłaty następuje nie później niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego.
+
+§ 4. Koszty postępowania, o których mowa w art. 265 § 1 pkt 1 i 3, obciążają wnioskodawcę.
+
+**Art. 119zfw.** Szef Krajowej Administracji Skarbowej może, z urzędu, zmienić wydaną opinię zabezpieczającą w sprawie opodatkowania wyrównawczego albo odmowę wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli jest ona sprzeczna z orzecznictwem Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
+
+**Art. 119zfx.**
+
+§ 1. Na podstawie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego lub odmowy wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego sporządza się informację, którą niezwłocznie zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+§ 2. Informacja, o której mowa w § 1, zawiera w szczególności zwięzły opis czynności będących przedmiotem opinii zabezpieczającej w sprawie opodatkowania wyrównawczego oraz wyjaśnienie powodów podjętego rozstrzygnięcia. Informacja nie może zawierać danych identyfikujących lub pozwalających na zidentyfikowanie zainteresowanego lub innych podmiotów wskazanych w jej treści.
+
+**Art. 119zfy.**
+
+§ 1. Szef Krajowej Administracji Skarbowej zasięga opinii organu właściwego w sprawie porozumienia inwestycyjnego, jeżeli:
+
+- **1)** okoliczności przedstawione we wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego świadczą, że do korzyści podatkowej wskazanej we wniosku, wynikającej z czynności, o których mowa w art. 119zfp § 3, może mieć zastosowanie zawarte porozumienie inwestycyjne w zakresie, o którym mowa w art. 20zt pkt 2a, albo w zakresie tej korzyści podatkowej organ właściwy w sprawie porozumienia odmówił zawarcia tego porozumienia lub
+- **2)** zainteresowany jest stroną postępowania w przedmiocie zawarcia porozumienia inwestycyjnego w zakresie czynności opisanych we wniosku.
+
+§ 2. Jeżeli z opinii organu właściwego w sprawie porozumienia inwestycyjnego wynika, że istnieją przeszkody do rozpatrzenia wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, Szef Krajowej Administracji Skarbowej odmawia wszczęcia postępowania w sprawie wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego.
+
+§ 3. Do zasięgnięcia opinii organu właściwego w sprawie porozumienia inwestycyjnego przepisy art. 209 § 1–4 i 6 stosuje się odpowiednio.
+
+**Art. 119zfz.** Jeżeli postępowanie w sprawie wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego stało się bezprzedmiotowe, w szczególności w przypadku wycofania wniosku o jej wydanie albo wydania decyzji z zastosowaniem art. 119a § 1 w zakresie objętym wnioskiem o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, przepisy art. 208 oraz art. 210–212 stosuje się odpowiednio. Art. 119zfza. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 119zfq § 1, który zawiera dane określone w tych przepisach oraz oświadczenie wskazane w art. 14u § 3, a także umożliwia wskazanie dokumentacji, o której mowa w art. 119zfq § 2, jak również sposób uiszczenia opłaty, o której mowa w art. 119zfv, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców. Art. 119zfzb. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14u § 3 i 4, art. 14y § 2, art. 14za § 5, art. 14zd § 1 pkt 2 i § 4–6, art. 14zi, art. 120, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3, 3b i 9, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 171, art. 187 § 3, art. 189 § 3, art. 197 § 1 i 3, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16 i 23.”;
+
+- **15)** w art. 239d w § 1 po wyrazach „art. 14m § 3” dodaje się wyrazy „lub art. 14zl § 3”;
+- **16)** w art. 294:
+    - **a)** w § 1 pkt 7 otrzymuje brzmienie: „7) członkowie Rady GLOBE i Rady;”,
+    - **b)** w § 3 wyrazy „w Radzie” zastępuje się wyrazami „w Radzie GLOBE i Radzie”;
+
+- **17)** w art. 297g pkt 2 otrzymuje brzmienie: „2) Dyrektorowi Krajowej Informacji Skarbowej w zakresie, w jakim jest to niezbędne do wydania przez ministra właściwego do spraw finansów publicznych opinii, o której mowa w art. 14b § 5f pkt 1, i stanowiska, o którym mowa w art. 14u § 9 pkt 1;”.
 
 **Art. 141.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646) w art. 192a wyrazy „do dnia 15 stycznia 2025 r.” zastępuje się wyrazami „do dnia 15 kwietnia 2025 r.”.
 

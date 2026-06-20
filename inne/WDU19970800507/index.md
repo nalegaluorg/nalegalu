@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie niektórych ustaw
+# Ustawa z dnia 17 lipca 1997 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 17 lipca 1997 r.*
 

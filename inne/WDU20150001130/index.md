@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowaniu wspólnej polityki rolnej
+# Ustawa z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej
 
 *USTAWA z dnia 27 maja 2015 r.*
 

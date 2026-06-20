@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
+# Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
 
 *USTAWA z dnia 3 grudnia 2010 r.*
 

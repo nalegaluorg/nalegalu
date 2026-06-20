@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie gminnym, ustawy o samorządzie województwa oraz ustawy o samorządzie powiatowym
+# Ustawa z dnia 17 grudnia 2009 r. o zmianie ustawy o samorządzie gminnym, ustawy o samorządzie województwa oraz ustawy o samorządzie powiatowym
 
 *USTAWA z dnia 17 grudnia 2009 r.*
 

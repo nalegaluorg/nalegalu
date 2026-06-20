@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” oraz o zmianie ustawy o gospodarce nieruchomościami
+# Ustawa z dnia 28 marca 2003 r. o zmianie ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego "Polskie Koleje Państwowe" oraz o zmianie ustawy o gospodarce nieruchomościami
 
 *USTAWA z dnia 28 marca 2003 r.*
 

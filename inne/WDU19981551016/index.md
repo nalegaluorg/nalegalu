@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu Mając na względzie: – zachowanie pamięci o ogromie ofiar, strat i szkód poniesionych przez Naród Polski w latach II wojny światowej i po jej zakończeniu, – patriotyczne tradycje zmagań Narodu Polskiego z okupantami, nazizmem i komunizmem, – czyny obywateli dokonywane na rzecz niepodległego bytu Państwa Polskiego i w obronie wolności oraz godności ludzkiej, – obowiązek ścigania zbrodni przeciwko pokojowi, ludzkości i zbrodni wojennych, – a także powinność zadośćuczynienia przez nasze państwo wszystkim pokrzywdzonym przez państwo łamiące prawa człowieka, jako wyraz naszego przekonania, że żadne bezprawne działania państwa przeciwko obywatelom nie mogą być chronione tajemnicą ani nie mogą ulec zapomnieniu – stanowi się, co następuje:
+# Ustawa z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
 
 *USTAWA z dnia 18 grudnia 1998 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1998-12-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981551016) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/1016/text.pdf) |
-
-Art. 56–67. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -880,7 +878,10 @@ Art. 56–67. (pominięte)
 - **5)** (utracił moc)
 - **6)** przygotowywanie i publikowanie na podstawie dokumentów zgromadzonych w archiwum Instytutu Pamięci katalogów zawierających dane osobowe pracowników, funkcjonariuszy i żołnierzy organów bezpieczeństwa państwa, ze wskazaniem stopnia służbowego zajmowanych stanowisk, oraz organów bezpieczeństwa państwa, w których pełnili służbę lub pracowali;
 - **7)** przygotowywanie i publikowanie katalogów zawierających dane osobowe osób, wobec których zachowały się dokumenty świadczące o tym, że organy bezpieczeństwa państwa zbierały o nich informacje na podstawie celowo gromadzonych danych, w tym w sposób tajny, a wobec osób tych nie stwierdzono istnienia dokumentów świadczących, że byli pracownikami, funkcjonariuszami, żołnierzami organów bezpieczeństwa państwa lub współpracowali z organami bezpieczeństwa państwa; przed umieszczeniem w katalogu należy uzyskać zgodę osoby, której te dane dotyczą, a w przypadku śmierci tej osoby – zgodę osoby najbliższej zmarłego w rozumieniu art. 115 § 11 Kodeksu karnego, od uzyskania zgody odstępuje się, jeżeli od chwili śmierci tej osoby minęło co najmniej 20 lat, a w przypadku bezsprzecznego ustalenia braku osób uprawnionych do wyrażenia zgody, umieszczenie w katalogu następuje na podstawie decyzji Prezesa Instytutu Pamięci;
-- **8)** przygotowywanie i publikowanie katalogów zawierających dane osobowe osób, które zajmowały kierownicze stanowiska w byłej Polskiej Partii Robotniczej i byłej Polskiej Zjednoczonej Partii Robotniczej oraz Zjednoczonym Stronnictwie Ludowym i Stronnictwie Demokratycznym, a także były członkami Rady Ministrów oraz pełniły funkcje sekretarzy i podsekretarza stanu państwa komunistycznego do dnia 23 sierpnia 1989 r. lub były w tym okresie kierownikami i zastępcami kierowników centralnych organów administracji państwowej, centralnych urzędów państwowych. Art. 52aa. Do zadań oddziałowego biura lustracyjnego należy w szczególności:
+- **8)** przygotowywanie i publikowanie katalogów zawierających dane osobowe osób, które zajmowały kierownicze stanowiska w byłej Polskiej Partii Robotniczej i byłej Polskiej Zjednoczonej Partii Robotniczej oraz Zjednoczonym Stronnictwie Ludowym i Stronnictwie Demokratycznym, a także były członkami Rady Ministrów oraz pełniły funkcje sekretarzy i podsekretarza stanu państwa komunistycznego do dnia 23 sierpnia 1989 r. lub były w tym okresie kierownikami i zastępcami kierowników centralnych organów administracji państwowej, centralnych urzędów państwowych.
+
+**Art. 52aa.** Do zadań oddziałowego biura lustracyjnego należy w szczególności:
+
 - **1)** przygotowanie danych do rejestru, o którym mowa w art. 52a pkt 1;
 - **2)** realizacja zadań określonych w art. 52a pkt 2–4;
 - **3)** przygotowywanie katalogów, o których mowa w art. 52a pkt 5–8.
@@ -1169,6 +1170,8 @@ Art. 56–67. (pominięte)
 **Art. 55b.** (uchylony)
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 56–67.** (pominięte)
 
 **Art. 68.**
 

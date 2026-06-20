@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa
+# Ustawa z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa
 
 *USTAWA z dnia 19 października 1991 r.*
 
@@ -324,7 +324,10 @@ source: pdf
 2. Minister właściwy do spraw rozwoju wsi, po zasięgnięciu opinii Dyrektora Generalnego Krajowego Ośrodka, ustali, w drodze rozporządzenia, szczegółowe przesłanki odroczenia, rozłożenia na raty lub umorzenia należności oraz tryb postępowania w tych sprawach. W szczególności, w rozporządzeniu należy określić okoliczności uzasadniające uznanie, że:
 
 - **1)** niemożność terminowego uregulowania należności przez dłużnika Krajowego Ośrodka jest uzasadniona względami, o których mowa w ust. 1;
-- **2)** należność jest nieściągalna. Art. 23aa. W przypadku gdy środki finansowe z gospodarowania mieniem Zasobu przeznaczone na realizację zadań określonych w art. 20 ust. 4 pkt 3 lub art. 32a ust. 1 pkt 1 nie zostały wydatkowane w danym roku albo zostały zwrócone, w szczególności w wyniku nieskutecznego lub nieważnego objęcia lub nabycia akcji lub udziałów w spółkach handlowych albo zmiany lub uchylenia uchwały właściwego organu spółki handlowej, środki te:
+- **2)** należność jest nieściągalna.
+
+**Art. 23aa.** W przypadku gdy środki finansowe z gospodarowania mieniem Zasobu przeznaczone na realizację zadań określonych w art. 20 ust. 4 pkt 3 lub art. 32a ust. 1 pkt 1 nie zostały wydatkowane w danym roku albo zostały zwrócone, w szczególności w wyniku nieskutecznego lub nieważnego objęcia lub nabycia akcji lub udziałów w spółkach handlowych albo zmiany lub uchylenia uchwały właściwego organu spółki handlowej, środki te:
+
 - **1)** nie podlegają wpłacie do budżetu państwa;
 - **2)** nie stanowią podstawy do ustalania nadwyżki, o której mowa w art. 22 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, i nie stosuje się do nich art. 20 ust. 5c;
 - **3)** przeznacza się na zadania określone w:
@@ -1136,7 +1139,9 @@ source: pdf
 
 2. Sprzedaż przez BGŻ SA wierzytelności wobec zlikwidowanych i przejętych przez Agencję państwowych przedsiębiorstw gospodarki rolnej może nastąpić tylko za zgodą Agencji . Brak odpowiedzi ze strony Agencji w ciągu 30 dni od dnia doręczenia zawiadomienia o zamiarze sprzedaży traktuje się jako wyrażenie zgody.
 
-3. W zakresie uregulowanym w ust. 2 nie stosuje się art. 41 pkt 1 ustawy wymienionej w ust. 1. Art. 58–66. (pominięte)
+3. W zakresie uregulowanym w ust. 2 nie stosuje się art. 41 pkt 1 ustawy wymienionej w ust. 1.
+
+**Art. 58–66.** (pominięte)
 
 **Art. 67.** Ustawa wchodzi w życie z dniem 1 stycznia 1992 r., z tym że art. 64 wchodzi w życie z dniem ogłoszenia .
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks postępowania karnego
+# Ustawa z dnia 16 lipca 2009 r. o zmianie ustawy - Kodeks postępowania karnego
 
 *USTAWA Opracowano z dnia 16 lipca 2009 r. stawie: r.*
 

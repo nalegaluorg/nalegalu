@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty
+# Ustawa z dnia 14 maja 2004 r. o zmianie ustawy o systemie oświaty
 
 *USTAWA z dnia 14 maja 2004 r.*
 

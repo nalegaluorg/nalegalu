@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy państwa w spłacie niektórych kredytów mieszkaniowych udzielonych osobom, które utraciły pracę
+# Ustawa z dnia 19 czerwca 2009 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych udzielonych osobom, które utraciły pracę
 
 *USTAWA z dnia 19 czerwca 2009 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych oraz ustawy o Państwowej Inspekcji Sanitarnej
+# Ustawa z dnia 8 kwietnia 2010 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych oraz ustawę o Państwowej Inspekcji Sanitarnej
 
 *USTAWA z dnia 8 kwietnia 2010 r.*
 

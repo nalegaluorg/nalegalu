@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego, ustawy o prawie pomocy w postępowaniu w sprawach cywilnych prowadzonym w państwach członkowskich Unii Europejskiej oraz o prawie pomocy w celu ugodowego załatwienia sporu przed wszczęciem takiego postępowania oraz ustawy o pomocy osobom uprawnionym do alimentów
+# Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy o prawie pomocy w postępowaniu w sprawach cywilnych prowadzonym w państwach członkowskich Unii Europejskiej oraz o prawie pomocy w celu ugodowego załatwienia sporu przed wszczęciem takiego postępowania oraz ustawy o pomocy osobom uprawnionym do alimentów
 
 *USTAWA z dnia 28 kwietnia 2011 r.*
 

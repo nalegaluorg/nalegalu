@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o scalaniu i wymianie gruntów
+# Ustawa z dnia 29 lipca 2011 r. o zmianie ustawy o scalaniu i wymianie gruntów
 
 *USTAWA z dnia 29 lipca 2011 r.*
 

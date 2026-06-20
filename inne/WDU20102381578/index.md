@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw związanych z realizacją ustawy budżetowej
+# Ustawa z dnia 26 listopada 2010 r. o zmianie niektórych ustaw związanych z realizacją ustawy budżetowej
 
 *USTAWA z dnia 26 listopada 2010 r.*
 

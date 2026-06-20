@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych
+# Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych
 
 *USTAWA z dnia 4 kwietnia 2019 r.*
 

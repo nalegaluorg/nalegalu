@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wdrożeniu naziemnej telewizji cyfrowej
+# Ustawa z dnia 30 czerwca 2011 r. o wdrożeniu naziemnej telewizji cyfrowej
 
 *USTAWA z dnia 30 czerwca 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-07-26 |
 | Ostatnia zmiana | 2024-12-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111530903) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/903/text.pdf) |
-
-Art. 20–22. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -203,6 +201,8 @@ Art. 20–22. (pominięte)
 4. Kara pieniężna stanowi dochód budżetu państwa.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 20–22.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe, dostosowujące i końcowe
 

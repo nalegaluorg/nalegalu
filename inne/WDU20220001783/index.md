@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 sierpnia 2022 r.*
 
@@ -107,7 +107,11 @@ source: pdf
 
 3. Z oceny ryzyka zarządca drogi sporządza sprawozdanie, na które składają się w szczególności wyniki oceny ryzyka oraz syntetyczny opis przyjętych założeń do dokonanej oceny ryzyka wraz z ich uzasadnieniem.
 
-4. Zarządca drogi przekazuje sprawozdanie z oceny ryzyka, o którym mowa w ust. 3, do ministra właściwego do spraw transportu co 5 lat, w terminie do dnia 31 lipca danego roku kalendarzowego. Art. 24mb. 1. Na podstawie sprawozdań z ocen ryzyka, o których mowa w art. 24ma ust. 3, minister właściwy do spraw transportu sporządza ocenę bezpieczeństwa, stanowiącą ocenę dróg, o których mowa w art. 24ma ust. 1, pod względem poziomu bezpieczeństwa ruchu drogowego.
+4. Zarządca drogi przekazuje sprawozdanie z oceny ryzyka, o którym mowa w ust. 3, do ministra właściwego do spraw transportu co 5 lat, w terminie do dnia 31 lipca danego roku kalendarzowego.
+
+**Art. 24mb.**
+
+1. Na podstawie sprawozdań z ocen ryzyka, o których mowa w art. 24ma ust. 3, minister właściwy do spraw transportu sporządza ocenę bezpieczeństwa, stanowiącą ocenę dróg, o których mowa w art. 24ma ust. 1, pod względem poziomu bezpieczeństwa ruchu drogowego.
 
 2. Na podstawie oceny bezpieczeństwa minister właściwy do spraw transportu dokonuje klasyfikacji sieci dróg, o których mowa w art. 24ma ust. 1, zgodnie z poziomem bezpieczeństwa ruchu drogowego na tych drogach, przypisując poszczególne drogi lub ich odcinki do jednej z co najmniej trzech kategorii bezpieczeństwa ruchu drogowego.
 
@@ -131,7 +135,11 @@ source: pdf
     - **b)** orientacyjne elementy ocen bezpieczeństwa ruchu drogowego obejmujących całą sieć określone w załączniku III do dyrektywy Parlamentu Europejskiego i Rady 2008/96/WE z dnia 19 listopada 2008 r. w sprawie zarządzania bezpieczeństwem infrastruktury drogowej (Dz. Urz. UE L 319 z 29.11.2008, str. 59), zwanej dalej „dyrektywą 2008/96/WE”,
     - **c)** potrzebę uspójnienia wyników oceny ryzyka;
 
-- **2)** może uwzględnić wytyczne, o których mowa w art. 5 ust. 5 dyrektywy 2008/96/WE, w przypadku ich wydania przez Komisję Europejską. Art. 24mc. 1. Na podstawie wyników klasyfikacji bezpieczeństwa opublikowanych zgodnie z art. 24mb ust. 4 zarządcy dróg, którzy zarządzają poszczególnymi drogami lub ich odcinkami przypisanymi do kategorii o najniższym poziomie bezpieczeństwa oraz kategorii drugiej w kolejności o najniższym poziomie bezpieczeństwa, przeprowadzają na tych drogach lub odcinkach ukierunkowane kontrole bezpieczeństwa ruchu drogowego, z uwzględnieniem potrzeb szczególnie zagrożonych uczestników ruchu drogowego.
+- **2)** może uwzględnić wytyczne, o których mowa w art. 5 ust. 5 dyrektywy 2008/96/WE, w przypadku ich wydania przez Komisję Europejską.
+
+**Art. 24mc.**
+
+1. Na podstawie wyników klasyfikacji bezpieczeństwa opublikowanych zgodnie z art. 24mb ust. 4 zarządcy dróg, którzy zarządzają poszczególnymi drogami lub ich odcinkami przypisanymi do kategorii o najniższym poziomie bezpieczeństwa oraz kategorii drugiej w kolejności o najniższym poziomie bezpieczeństwa, przeprowadzają na tych drogach lub odcinkach ukierunkowane kontrole bezpieczeństwa ruchu drogowego, z uwzględnieniem potrzeb szczególnie zagrożonych uczestników ruchu drogowego.
 
 2. Ukierunkowana kontrola bezpieczeństwa ruchu drogowego ma na celu analizę:
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 października 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami
 
 | Pole | Wartość |
 |---|---|
@@ -255,7 +255,9 @@ o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami
 
 2. Postępowanie w sprawach, o których mowa w ust. 1, toczy się na podstawie przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2020 r. poz. 30, 413, 568, 1086 i 1458).
 
-**Art. 12b.** Do podmiotów, o których mowa w art. 1, stosuje się odpowiednio przepisy art. 15aa ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi. Art. 13–19. (pominięte)
+**Art. 12b.** Do podmiotów, o których mowa w art. 1, stosuje się odpowiednio przepisy art. 15aa ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi.
+
+**Art. 13–19.** (pominięte)
 
 **Art. 20.** Do umów o:
 

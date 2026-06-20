@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym, ustawy o Rządowym Funduszu Rozwoju Dróg oraz ustawy o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej
+# Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy - Prawo o ruchu drogowym, ustawy o Rządowym Funduszu Rozwoju Dróg oraz ustawy o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej
 
 *USTAWA z dnia 17 listopada 2021 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych ustaw
+# Ustawa z dnia 6 maja 1999 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 6 maja 1999 r.*
 

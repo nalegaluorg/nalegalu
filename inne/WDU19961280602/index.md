@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rybactwie śródlądowym
+# Ustawa z dnia 27 września 1996 r. o zmianie ustawy o rybactwie śródlądowym.
 
 *USTAWA z dnia 27 września 1996 r.*
 

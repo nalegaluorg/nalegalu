@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie określenia zasad i harmonogramu programu prywatyzacji Spółek Cukrowych.
+# Rozporządzenie Rady Ministrów z dnia 3 listopada 1999 r. zmieniające rozporządzenie w sprawie określenia zasad i harmonogramu programu prywatyzacji Spółek Cukrowych.
 
 | Pole | Wartość |
 |---|---|

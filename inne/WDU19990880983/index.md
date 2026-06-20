@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie określenia zakresu i form oraz trybu udzielania kobietom w ciąży oraz wychowującym dziecko pomocy w zakresie opieki socjalnej i prawnej.
+# Rozporządzenie Rady Ministrów z dnia 29 października 1999 r. zmieniające rozporządzenie w sprawie określenia zakresu i form oraz trybu udzielania kobietom w ciąży oraz wychowującym dziecko pomocy w zakresie opieki socjalnej i prawnej.
 
 | Pole | Wartość |
 |---|---|

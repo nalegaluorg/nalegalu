@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 stycznia 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów
 
 | Pole | Wartość |
 |---|---|

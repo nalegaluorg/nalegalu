@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw: o broni, amunicji i materiałach wybuchowych, o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, Kodeks karny, Kodeks postępowania karnego, o drogach publicznych, Prawo celne, o ochronie granicy państwowej oraz o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej W celu dostosowania polskiego prawa do zobowiązań Rzeczypospolitej Polskiej wynikających z ratyfikacji Umowy między Państwami-Stronami Traktatu Północnoatlantyckiego a innymi Państwami uczestniczącymi w Partnerstwie dla Pokoju dotyczącej statusu ich sił zbrojnych oraz jej Protokołu dodatkowego, stanowi się, co następuje:
+# Ustawa z dnia 21 listopada 1996 r. o zmianie ustaw: o broni, amunicji i materiałach wybuchowych, o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, Kodeks karny, Kodeks postępowania karnego, o drogach publicznych, Prawo celne, o ochronie granicy państwowej oraz o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 *USTAWA z dnia 21 listopada 1996 r.*
 

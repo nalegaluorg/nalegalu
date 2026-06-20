@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie terenów byłych hitlerowskich obozów zagłady
+# Ustawa z dnia 7 maja 1999 r. o ochronie terenów byłych hitlerowskich obozów zagłady.
 
 *USTAWA z dnia 7 maja 1999 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1999-05-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990410412) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/412/text.pdf) |
-
-Art. 20–25. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -221,6 +219,8 @@ Art. 20–25. (pominięte)
 2. Postępowanie w sprawach, o których mowa w ust. 1, prowadzi się na podstawie przepisów o postępowaniu w sprawach o wykroczenia.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących
+
+**Art. 20–25.** (pominięte)
 
 #### Rozdział 5 Przepisy przejściowe i końcowe
 

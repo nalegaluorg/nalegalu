@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
+# Ustawa z dnia 29 grudnia 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
 
 *USTAWA z dnia 29 grudnia 2015 r.*
 
@@ -217,35 +217,13 @@ source: pdf
 - **2)** dyrektora publicznej szkoły podstawowej innej niż wymieniona w pkt 1 – stosuje się przepisy rozdziału 2a ustawy zmienianej w art. 1;
 - **3)** dyrektora niepublicznej szkoły podstawowej – stosuje się zasady przyjmowania uczniów do szkoły podstawowej ustalone w statucie szkoły zgodnie z art. 84 ustawy zmienianej w art. 1.
 
-4. Dziecko, którego rodzice złożyli wniosek, o którym mowa w ust. 1, w roku szkolnym 2015/2016 kontynuuje naukę w klasie II szkoły podstawowej, z tym że w tym roku szkolnym nie podlega ono klasyfikacji rocznej i promowaniu do klasy III szkoły podstawowej oraz nie otrzymuje świadectwa szkolnego promocyjnego. [Art. 12. 1. Do oddziałów przedszkolnych w szkołach podstawowych stosuje się odpowiednio przepisy:
+4. Dziecko, którego rodzice złożyli wniosek, o którym mowa w ust. 1, w roku szkolnym 2015/2016 kontynuuje naukę w klasie II szkoły podstawowej, z tym że w tym roku szkolnym nie podlega ono klasyfikacji rocznej i promowaniu do klasy III szkoły podstawowej oraz nie otrzymuje świadectwa szkolnego promocyjnego.
 
-- **1)** w okresie od dnia 1 września 2016 r. do dnia 31 sierpnia 2019 r.:
-    - **a)** art. 14 ust. 1 i 3, art. 14a ust. 4, art. 16 ust. 4c i art. 16a ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 6 ust. 4 pkt 3,
-    - **b)** art. 3 pkt 22, art. 6 ust. 2a, art. 14 ust. 4b, 5–5i i 8, art. 14a ust. 4a, art. 14d ust. 4, 6 i 11, art. 20 ust. 2 pkt 1 oraz art. 94a ust. 1 i ust. 6 pkt 1 ustawy zmienianej w art. 1,
-    - **c)** art. 7 ust. 4 pkt 3 ustawy zmienianej w art. 2;
-
-- **2)** w okresie od dnia 1 września 2017 r. do dnia 31 sierpnia 2019 r.:
-    - **a)** art. 14 ust. 3b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą,
-    - **b)** art. 14 ust. 4a ustawy zmienianej w art. 1.
-
-2. Do postępowania rekrutacyjnego na rok szkolny 2016/2017 do oddziałów przedszkolnych w publicznych szkołach podstawowych stosuje się przepisy art. 20a ust. 1, 2, 4, 6 i 7, art. 20b, art. 20c, art. 20s, art. 20t ust. 1, ust. 2 pkt 1–3, ust. 3–10, art. 20v, art. 20w ust. 1 i 2 oraz art. 20z–20ze ustawy zmienianej w art. 1, a także przepisy wydane na podstawie art. 20l ustawy zmienianej w art. 1.
-
-3. W latach szkolnych 2016/2017–2018/2019 do oddziałów przedszkolnych w szkołach podstawowych stosuje się przepisy art. 7 ust. 1 ustawy z dnia 30 maja 2014 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 811 oraz z 2015 r. poz. 357) oraz art. 22a ust. 1 i 4–8 ustawy zmienianej w art. 1.
-
-**Art. 13.** W latach szkolnych 2016/2017–2018/2019 indywidualne obowiązkowe roczne przygotowanie przedszkolne organizuje również dyrektor szkoły podstawowej, w której są zorganizowane oddziały przedszkolne, w porozumieniu z organem prowadzącym.
+**Art. 13.**
 
 **Art. 14.**
 
-1. W latach szkolnych 2016/2017–2018/2019 sieć publicznych przedszkoli wraz z publicznymi innymi formami wychowania przedszkolnego, oddziałami przedszkolnymi zorganizowanymi w publicznych szkołach podstawowych, prowadzonymi przez gminę, publicznymi przedszkolami, oddziałami przedszkolnymi zorganizowanymi w publicznych szkołach podstawowych i publicznymi innymi formami wychowania przedszkolnego, prowadzonymi przez inną osobę prawną lub osobę fizyczną, niepublicznymi przedszkolami, o których mowa w art. 90 ust. 1b ustawy zmienianej w art. 1, oraz niepublicznymi innymi formami wychowania przedszkolnego, o których mowa w art. 90 ust. 1c ustawy zmienianej w art. 1, powinna zapewniać zamieszkałym na obszarze gminy:
-
-- **1)** dzieciom objętym obowiązkiem, o którym mowa w art. 14 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą – możliwość spełniania rocznego obowiązku przygotowania przedszkolnego;
-- **2)** dzieciom czteroletnim i pięcioletnim, a od dnia 1 września 2017 r. także dzieciom trzyletnim – możliwość realizowania wychowania przedszkolnego. Droga dziecka spełniającego obowiązek, o którym mowa w art. 14 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, i dziecka pięcioletniego z domu do publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, oddziału przedszkolnego zorganizowanego w publicznej szkole podstawowej, niepublicznego przedszkola, o którym mowa w art. 90 ust. 1b ustawy zmienianej w art. 1, albo niepublicznej innej formy wychowania przedszkolnego, o której mowa w art. 90 ust. 1c ustawy zmienianej w art. 1, w których organ prowadzący zapewnił tym dzieciom warunki spełniania tego obowiązku oraz realizacji prawa do korzystania z wychowania przedszkolnego, nie powinna przekraczać 3 km.
-
-2. Jeżeli droga, o której mowa w ust. 1, przekracza 3 km, obowiązkiem gminy jest zapewnienie bezpłatnego transportu i opieki w czasie przewozu dziecka albo zwrot kosztów przejazdu dziecka i opiekuna środkami komunikacji publicznej, jeżeli dowożenie zapewniają rodzice.
-
-3. W latach szkolnych 2016/2017–2018/2019 przepisy ust. 1 i 2 stosuje się odpowiednio do dzieci, którym odroczono spełnianie obowiązku szkolnego zgodnie z art. 16 ust. 3 i art. 16a ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 15.** W okresie od dnia wejścia w życie niniejszej ustawy do dnia 31 sierpnia 2019 r. ustalenie sieci, o której mowa w art. 14a ust. 1 i 1a ustawy zmienianej w art. 1, następuje po uzyskaniu pozytywnej opinii kuratora oświaty o zgodności tej sieci z warunkami określonymi odpowiednio w art. 10 ust. 1 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, oraz w art. 14 ust. 1.]
+**Art. 15.**
 
 **Art. 16.**
 

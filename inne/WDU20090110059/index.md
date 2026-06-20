@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie przeciwpożarowej oraz niektórych innych ustaw
+# Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy o ochronie przeciwpożarowej oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 grudnia 2008 r.*
 

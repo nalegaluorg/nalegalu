@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o żegludze śródlądowej oraz ustawy o zmianie ustawy o żegludze śródlądowej
+# Ustawa z dnia 10 czerwca 2011 r. o zmianie ustawy o żegludze śródlądowej oraz ustawy o zmianie ustawy o żegludze śródlądowej
 
 *USTAWA z dnia 10 czerwca 2011 r.*
 

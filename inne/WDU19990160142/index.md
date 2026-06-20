@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie gospodarki finansowej specjalistycznych organów kolejowego dozoru technicznego.
+# Rozporządzenie Rady Ministrów z dnia 9 lutego 1999 r. w sprawie gospodarki finansowej specjalistycznych organów kolejowego dozoru technicznego.
 
 | Pole | Wartość |
 |---|---|

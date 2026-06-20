@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego
+# Ustawa z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego
 
 *USTAWA z dnia 13 kwietnia 2022 r.*
 
@@ -235,7 +235,9 @@ source: pdf
 
 **Art. 6c.** Minister właściwy do spraw wewnętrznych niezwłocznie po otrzymaniu decyzji przekazanych na podstawie art. 6a ust. 6 i art. 6b ust. 7 zamieszcza na liście informacje o środkach finansowych, funduszach lub zasobach gospodarczych w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014 objętych tymi decyzjami.
 
-**Art. 6d.** Osobom lub podmiotom, wobec których zarząd został ustanowiony, nie przysługują roszczenia odszkodowawcze wobec Skarbu Państwa, podmiotu, na rzecz którego następuje zbycie środków finansowych, funduszy lub zasobów gospodarczych w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014 objętych zarządem, podmiotu innego niż Skarb Państwa, na rzecz którego następuje przejęcie własności, lub podmiotu wykonującego zadania zarządcy z tytułu podejmowania działań określonych w art. 6a i art. 6b. Art. 6da. Zbycie środków finansowych, funduszy lub zasobów gospodarczych w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014 objętych zarządem, o którym mowa w art. 6a, lub przejęcie ich własności, o którym mowa w art. 6b, ma skutki sprzedaży egzekucyjnej, o których mowa w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841). Nabywca, Skarb Państwa lub podmiot inny niż Skarb Państwa, na rzecz którego następuje przejęcie własności, nie odpowiada osobiście ani rzeczowo za zobowiązania osoby lub podmiotu, wobec których zarząd został ustanowiony lub wobec których orzeczono o przejęciu własności.
+**Art. 6d.** Osobom lub podmiotom, wobec których zarząd został ustanowiony, nie przysługują roszczenia odszkodowawcze wobec Skarbu Państwa, podmiotu, na rzecz którego następuje zbycie środków finansowych, funduszy lub zasobów gospodarczych w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014 objętych zarządem, podmiotu innego niż Skarb Państwa, na rzecz którego następuje przejęcie własności, lub podmiotu wykonującego zadania zarządcy z tytułu podejmowania działań określonych w art. 6a i art. 6b.
+
+**Art. 6da.** Zbycie środków finansowych, funduszy lub zasobów gospodarczych w rozumieniu rozporządzenia 765/2006 lub rozporządzenia 269/2014 objętych zarządem, o którym mowa w art. 6a, lub przejęcie ich własności, o którym mowa w art. 6b, ma skutki sprzedaży egzekucyjnej, o których mowa w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841). Nabywca, Skarb Państwa lub podmiot inny niż Skarb Państwa, na rzecz którego następuje przejęcie własności, nie odpowiada osobiście ani rzeczowo za zobowiązania osoby lub podmiotu, wobec których zarząd został ustanowiony lub wobec których orzeczono o przejęciu własności.
 
 **Art. 6e.**
 
@@ -476,7 +478,9 @@ source: pdf
 
 1. Zakazuje się stosowania, używania lub propagowania symboli lub nazw wspierających agresję Federacji Rosyjskiej na Ukrainę.
 
-2. Kto narusza zakaz, o którym mowa w ust. 1, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. Art. 17–21. (pominięte)
+2. Kto narusza zakaz, o którym mowa w ust. 1, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+**Art. 17–21.** (pominięte)
 
 **Art. 22.** Przepisy art. 7 oraz środek, o którym mowa w art. 1 pkt 3, stosuje się również do postępowań o udzielenie zamówienia publicznego oraz konkursów wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy, z tym że:
 

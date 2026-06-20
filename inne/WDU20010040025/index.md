@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Inspekcji Handlowej
+# Ustawa z dnia 15 grudnia 2000 r. o Inspekcji Handlowej.
 
 *USTAWA z dnia 15 grudnia 2000 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie ubezpieczeń społecznych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 18 grudnia 2002 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 18 grudnia 2002 r.*
 

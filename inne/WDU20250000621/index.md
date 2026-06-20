@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej
+# Ustawa z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 20 marca 2025 r.*
 
@@ -625,7 +625,7 @@ source: pdf
 2. Poza przypadkami, o których mowa w art. 18 ust. 1, zmiana lub wydanie nowego zezwolenia na pracę na rzecz polskiego podmiotu powierzającego pracę cudzoziemcowi nie są wymagane, jeżeli:
 
 - **1)** nastąpiła zmiana warunków pracy cudzoziemca na zasadach określonych przepisami art. 9 lub art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277) lub art. 4 ustawy z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2025 r. poz. 5 i 620);
-- **2)** zwiększono wymiar czasu pracy określony w zezwoleniu na pracę nie więcej niż do pełnego wymiaru czasu pracy, przy jednoczesnym proporcjonalnym zwiększeniu wynagrodzenia; <3) polski podmiot powierzający pracę cudzoziemcowi i cudzoziemiec zawarli umowę o pracę zamiast umowy cywilnoprawnej albo w decyzji, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm.5 ), stwierdzono istnienie stosunku pracy.>
+- **2)** zwiększono wymiar czasu pracy określony w zezwoleniu na pracę nie więcej niż do pełnego wymiaru czasu pracy, przy jednoczesnym proporcjonalnym zwiększeniu wynagrodzenia; <3) polski podmiot powierzający pracę cudzoziemcowi i cudzoziemiec zawarli umowę o pracę zamiast umowy cywilnoprawnej albo w decyzji, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm.5 ), stwierdzono istnienie stosunku pracy.
 
 **Art. 34.**
 
@@ -1025,7 +1025,7 @@ source: pdf
 - **1)** nastąpiła zmiana siedziby, miejsca stałego pobytu, stałego miejsca prowadzenia działalności gospodarczej, nazwy lub formy prawnej polskiego podmiotu powierzającego pracę cudzoziemcowi lub pracodawcy użytkownika;
 - **2)** nastąpiło przejście zakładu pracy lub jego części na innego pracodawcę;
 - **3)** zwiększono wymiar czasu pracy lub liczbę godzin pracy w tygodniu lub miesiącu określone w oświadczeniu o powierzeniu pracy cudzoziemcowi nie więcej niż do pełnego wymiaru czasu pracy;
-- **4)** nastąpiła zmiana nazwy stanowiska pracy bez zmiany zakresu obowiązków cudzoziemca; <5) polski podmiot powierzający pracę cudzoziemcowi i cudzoziemiec zawarli umowę o pracę zamiast umowy cywilnoprawnej albo w decyzji, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, stwierdzono istnienie stosunku pracy.>
+- **4)** nastąpiła zmiana nazwy stanowiska pracy bez zmiany zakresu obowiązków cudzoziemca; <5) polski podmiot powierzający pracę cudzoziemcowi i cudzoziemiec zawarli umowę o pracę zamiast umowy cywilnoprawnej albo w decyzji, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, stwierdzono istnienie stosunku pracy.
 
 **Art. 70.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ustawy o dokumentach publicznych oraz ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe
+# Ustawa z dnia 28 czerwca 2024 r. o zmianie ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ustawy o dokumentach publicznych oraz ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe
 
 *USTAWA z dnia 28 czerwca 2024 r.*
 

@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1529/text.pdf) |
 
-Art. 131–177. (pominięte)
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
@@ -1735,6 +1733,8 @@ Art. 131–177. (pominięte)
 **Art. 130.** Wpływy z kar pieniężnych stanowią dochód budżetu państwa.
 
 #### Rozdział 13 Zmiany w przepisach obowiązujących
+
+**Art. 131–177.** (pominięte)
 
 #### Rozdział 14 Przepisy przejściowe i końcowe
 

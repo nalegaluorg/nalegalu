@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rynku pracy i służbach zatrudnienia
+# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia
 
 *USTAWA z dnia 20 marca 2025 r.*
 

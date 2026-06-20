@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o prawie pomocy w postępowaniu w sprawach cywilnych prowadzonym w państwach członkowskich Unii Europejskiej oraz o prawie pomocy w celu ugodowego załatwienia sporu przed wszczęciem takiego postępowania
+# Ustawa z dnia 17 grudnia 2004 r. o prawie pomocy w postępowaniu w sprawach cywilnych prowadzonym w państwach członkowskich Unii Europejskiej oraz o prawie pomocy w celu ugodowego załatwienia sporu przed wszczęciem takiego postępowania
 
 *USTAWA z dnia 17 grudnia 2004 r.*
 

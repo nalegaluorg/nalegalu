@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych przepisów prawa karnego, prawa o wykroczeniach i o postępowaniu w sprawach nieletnich.
+# Ustawa z dnia 28 lutego 1992 r. o zmianie niektórych przepisów prawa karnego, prawa o wykroczeniach i o postępowaniu w sprawach nieletnich.
 
 *USTAWA z dnia 28 lutego 1992 r.*
 

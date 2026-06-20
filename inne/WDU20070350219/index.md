@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenie przedemerytalne albo zasiłek przedemerytalny oraz niektórych innych ustaw
+# Ustawa z dnia 16 lutego 2007 r. o zmianie ustawy o dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenie przedemerytalne albo zasiłek przedemerytalny oraz niektórych innych ustaw
 
 *USTAWA z dnia 16 lutego 2007 r.*
 

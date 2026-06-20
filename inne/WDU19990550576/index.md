@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Lesznie.
+# Rozporządzenie Rady Ministrów z dnia 15 czerwca 1999 r. w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Lesznie.
 
 | Pole | Wartość |
 |---|---|

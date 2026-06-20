@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa
+# Ustawa z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa
 
 *USTAWA z dnia 13 lutego 2020 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2020-03-13 |
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000425) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/425/text.pdf) |
-
-Art. 44–47. (pominięte)
 
 #### Rozdział 1 Przepis ogólny
 
@@ -701,6 +699,8 @@ Art. 44–47. (pominięte)
 2. Orzekanie w sprawach o czyny określone w ust. 1 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 #### Rozdział 6 Przepisy zmieniające, epizodyczne, przejściowe, dostosowujące i końcowe
+
+**Art. 44–47.** (pominięte)
 
 **Art. 48.**
 

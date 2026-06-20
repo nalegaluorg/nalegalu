@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zakładowym funduszu świadczeń socjalnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zakładowym funduszu świadczeń socjalnych
 
 *USTAWA z dnia 4 marca 1994 r.*
 

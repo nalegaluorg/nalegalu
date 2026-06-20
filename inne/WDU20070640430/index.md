@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń
+# Ustawa z dnia 7 marca 2007 r. o zmianie ustawy o przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń
 
 *USTAWA z dnia 7 marca 2007 r.*
 

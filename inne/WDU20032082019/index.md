@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kosmetykach
+# Ustawa z dnia 30 października 2003 r. o zmianie ustawy o kosmetykach
 
 *USTAWA z dnia 30 października 2003 r.*
 

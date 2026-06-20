@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie „Zasad techniki prawodawczej” Na podstawie art. 14 ust. 4 pkt 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:
+# Rozporządzenie Prezesa Rady Ministrów z dnia 5 listopada 2015 r. zmieniające rozporządzenie w sprawie "Zasad techniki prawodawczej"
 
 | Pole | Wartość |
 |---|---|

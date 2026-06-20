@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku ze zmianami w organizacji i podziale zadań administracji publicznej w województwie
+# Ustawa z dnia 23 stycznia 2009 r. o zmianie niektórych ustaw w związku ze zmianami w organizacji i podziale zadań administracji publicznej w województwie
 
 *USTAWA z dnia 23 stycznia 2009 r.*
 

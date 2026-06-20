@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ustalenia granicy od strony lądu portu morskiego w Pucku.
+# Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 11 stycznia 1999 r. w sprawie ustalenia granicy od strony lądu portu morskiego w Pucku.
 
 | Pole | Wartość |
 |---|---|

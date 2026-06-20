@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o prawach konsumenta
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o prawach konsumenta
 
 *USTAWA z dnia 30 maja 2014 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-12-06 |
 | Ostatnia zmiana | 2026-03-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001796) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1796/text.pdf) |
-
-Art. 44–50. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -145,9 +143,17 @@ Art. 44–50. (pominięte)
 
 2. Jeżeli przedsiębiorca nie udzielił odpowiedzi na reklamację w terminie, o którym mowa w ust. 1, uważa się, że uznał reklamację.
 
-3. Odpowiedź na reklamację przedsiębiorca przekazuje konsumentowi na papierze lub innym trwałym nośniku. Art. 7aa. 1. Przepisy dotyczące konsumenta zawarte w rozdziałach 4, 5a i 5b stosuje się do osoby fizycznej zawierającej umowę bezpośrednio związaną z jej działalnością gospodarczą, gdy z treści tej umowy wynika, że nie ma ona dla tej osoby charakteru zawodowego, wynikającego w szczególności z przedmiotu wykonywanej przez nią działalności gospodarczej, udostępnionego na podstawie przepisów o Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+3. Odpowiedź na reklamację przedsiębiorca przekazuje konsumentowi na papierze lub innym trwałym nośniku.
 
-2. Jeżeli z treści umowy, która ma być zawarta, nie wynika, czy ma ona charakter zawodowy dla osoby fizycznej, o której mowa w ust. 1, osoba ta najpóźniej w chwili zawarcia umowy może złożyć oświadczenie, że umowa ma dla niej charakter zawodowy albo że nie ma takiego charakteru. Druga strona umowy nie może jednak uzależnić zawarcia umowy od złożenia takiego oświadczenia. Art. 7ab. 1. Umowa dotycząca usług finansowych nie może być zawarta podczas pokazu lub wycieczki.
+**Art. 7aa.**
+
+1. Przepisy dotyczące konsumenta zawarte w rozdziałach 4, 5a i 5b stosuje się do osoby fizycznej zawierającej umowę bezpośrednio związaną z jej działalnością gospodarczą, gdy z treści tej umowy wynika, że nie ma ona dla tej osoby charakteru zawodowego, wynikającego w szczególności z przedmiotu wykonywanej przez nią działalności gospodarczej, udostępnionego na podstawie przepisów o Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+
+2. Jeżeli z treści umowy, która ma być zawarta, nie wynika, czy ma ona charakter zawodowy dla osoby fizycznej, o której mowa w ust. 1, osoba ta najpóźniej w chwili zawarcia umowy może złożyć oświadczenie, że umowa ma dla niej charakter zawodowy albo że nie ma takiego charakteru. Druga strona umowy nie może jednak uzależnić zawarcia umowy od złożenia takiego oświadczenia.
+
+**Art. 7ab.**
+
+1. Umowa dotycząca usług finansowych nie może być zawarta podczas pokazu lub wycieczki.
 
 2. Zakaz, o którym mowa w ust. 1, obejmuje także zawarcie umowy dotyczącej usług finansowych, związanej bezpośrednio z ofertą złożoną podczas pokazu lub wycieczki w celu realizacji umowy sprzedaży.
 
@@ -740,6 +746,8 @@ Art. 44–50. (pominięte)
 3. Przepisu ust. 2 nie stosuje się, jeżeli przedsiębiorca zapewnił konsumentowi uprawnienie do zachowania, bez dodatkowych kosztów, treści cyfrowej lub usługi cyfrowej zgodnych z umową, w stanie niezmienionym.
 
 #### Rozdział 6 Przepisy zmieniające
+
+**Art. 44–50.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

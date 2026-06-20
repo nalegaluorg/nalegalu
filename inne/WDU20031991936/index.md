@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wykonywaniu prac podwodnych
+# Ustawa z dnia 17 października 2003 r. o wykonywaniu prac podwodnych
 
 *USTAWA z dnia 17 października 2003 r.*
 

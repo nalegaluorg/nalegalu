@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kierujących pojazdami
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kierujących pojazdami
 
 *USTAWA z dnia 5 stycznia 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-09-05 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001226) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1226/text.pdf) |
-
-Art. 125–127. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -282,7 +280,7 @@ Art. 125–127. (pominięte)
 
 - **1)** C i C+E wynosi 18 lat; [2) D i D+E wynosi 21 lat.] <2) D i D+E wynosi 18 lat, o ile przewóz drogowy w rozumieniu ustawy z dnia 6 września 2001 r. o transporcie drogowym jest wykonywany na liniach regularnych na terytorium Rzeczypospolitej Polskiej, których trasa nie przekracza 50 km;> <3) D1 i D1+E wynosi 18 lat, o ile przewóz drogowy w rozumieniu ustawy z dnia 6 września 2001 r. o transporcie drogowym jest wykonywany na terytorium Rzeczypospolitej Polskiej;
 - **4)** D i D+E wynosi 20 lat, o ile przewóz drogowy w rozumieniu ustawy z dnia 6 września 2001 r. o transporcie drogowym jest wykonywany na terytorium Rzeczypospolitej Polskiej;
-- **5)** D i D+E wynosi 21 lat.>
+- **5)** D i D+E wynosi 21 lat.
 
 2. Dla osób, które uzyskały kwalifikację wstępną przyśpieszoną, określoną w przepisach rozdziału 7a ustawy z dnia 6 września 2001 r. o transporcie drogowym, minimalny wiek do kierowania pojazdami określonymi w prawie jazdy kategorii D i D+E wynosi 21 lat.
 
@@ -372,7 +370,7 @@ Art. 125–127. (pominięte)
 - **1)** spełnia wymagania, o których mowa w ust. 1 pkt 5;
 - **2)** uprzedzona o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy składa oświadczenie pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że posiada miejsce zamieszkania, o którym mowa w ust. 1 pkt 5.
 
-1b. Składający oświadczenie, o którym mowa w ust. 1a pkt 2, jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 Kodeksu karnego, oświadczam, że posiadam na terytorium Rzeczypospolitej Polskiej miejsce zamieszkania, o którym mowa w art. 11 ust. 1 pkt 5 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.” Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.>
+1b. Składający oświadczenie, o którym mowa w ust. 1a pkt 2, jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 Kodeksu karnego, oświadczam, że posiadam na terytorium Rzeczypospolitej Polskiej miejsce zamieszkania, o którym mowa w art. 11 ust. 1 pkt 5 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.” Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 2. Osoba, która nie ukończyła 18 lat, może uzyskać prawo jazdy kategorii AM, A1, B1, B lub T za pisemną zgodą rodzica lub opiekuna.
 
@@ -589,7 +587,7 @@ Art. 125–127. (pominięte)
 2. Kartę rowerową może uzyskać osoba, która:
 
 - **1)** osiągnęła wymagany minimalny wiek;
-- **2)** wykazała się niezbędnymi umiejętnościami w kierowaniu rowerem odpowiednio podczas zajęć szkolnych, zajęć prowadzonych przez wojewódzki ośrodek ruchu drogowego lub zajęć prowadzonych przez ośrodek szkolenia kierowców posiadający poświadczenie potwierdzające spełnianie dodatkowych wymagań. <3. Karta rowerowa może być udostępniana w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel.>
+- **2)** wykazała się niezbędnymi umiejętnościami w kierowaniu rowerem odpowiednio podczas zajęć szkolnych, zajęć prowadzonych przez wojewódzki ośrodek ruchu drogowego lub zajęć prowadzonych przez ośrodek szkolenia kierowców posiadający poświadczenie potwierdzające spełnianie dodatkowych wymagań. <3. Karta rowerowa może być udostępniana w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel.
 
 **Art. 18.**
 
@@ -2212,9 +2210,13 @@ Art. 125–127. (pominięte)
 
 3a. Wpis lekarza w ewidencji uprawnionych lekarzy w zakresie, o którym mowa w ust. 3 pkt 7, następuje na podstawie potwierdzenia o posiadaniu prawa do przeprowadzania badań lekarskich, o których mowa w przepisach Kodeksu pracy, wydanego przez wojewódzki ośrodek medycyny pracy. <3b. Uprawniony lekarz ma obowiązek przekazania marszałkowi województwa informacji o zmianie danych, o których mowa w ust. 3 pkt 2–7, w terminie 14 dni od dnia ich zmiany.>
 
-4. Opłata, o której mowa w ust. 2 pkt 1, stanowi dochód samorządu województwa. [Art. 78. Osoba podlegająca badaniu lekarskiemu, a w przypadku niepełnoletniego kandydata, ucznia i słuchacza, o których mowa w art. 75 ust. 1 pkt 7 i 8 – rodzic w rozumieniu art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, jest obowiązana wypełnić oświadczenie, w formie ankiety, dotyczące stanu zdrowia, pod rygorem odpowiedzialności karnej wynikającej z art. 233 Kodeksu karnego. Ankietę składa się uprawnionemu lekarzowi.] <Art. 78. 1. Osoba podlegająca badaniu lekarskiemu, a w przypadku niepełnoletniego kandydata, ucznia lub słuchacza, o których mowa w art. 75 ust. 1 pkt 7 i 8 – rodzic w rozumieniu art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, są obowiązani wypełnić oświadczenie dotyczące stanu zdrowia.
+4. Opłata, o której mowa w ust. 2 pkt 1, stanowi dochód samorządu województwa.
 
-2. Oświadczenie, o którym mowa w ust. 1, składa się w formie ankiety uprawnionemu lekarzowi pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 Kodeksu karnego oświadczam, że dane zawarte w ankiecie są zgodne z prawdą”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.>
+**Art. 78.**
+
+1. Osoba podlegająca badaniu lekarskiemu, a w przypadku niepełnoletniego kandydata, ucznia lub słuchacza, o których mowa w art. 75 ust. 1 pkt 7 i 8 – rodzic w rozumieniu art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, są obowiązani wypełnić oświadczenie dotyczące stanu zdrowia.
+
+2. Oświadczenie, o którym mowa w ust. 1, składa się w formie ankiety uprawnionemu lekarzowi pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 Kodeksu karnego oświadczam, że dane zawarte w ankiecie są zgodne z prawdą”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 **Art. 79.**
 
@@ -2594,7 +2596,7 @@ Art. 125–127. (pominięte)
 
 #### Rozdział 14 Okres próbny
 
-**Art. 91.** >1. Okres próbny dla osoby, która po raz pierwszy uzyskała prawo jazdy kategorii B, trwa:
+**Art. 91.**
 
 - **1)** 2 lata, w przypadku osoby, która ukończyła 18 lat,
 - **2)** 3 lata, w przypadku osoby posiadającej prawo jazdy, o którym mowa w art. 8a ust. 1, jednak nie dłużej niż do czasu ukończenia przez nią 20 lat – począwszy od dnia, w którym został jej wydany ten dokument.
@@ -2780,7 +2782,7 @@ Art. 125–127. (pominięte)
 - **1)** przekroczyła liczbę 24 punktów otrzymanych za naruszenia przepisów ruchu drogowego; <2) w okresie próbnym popełniła dwa wykroczenia przeciwko bezpieczeństwu w komunikacji;>
 - **3)** kierując pojazdem, spowodowała wypadek drogowy, w następstwie którego inna osoba poniosła śmierć lub doznała obrażeń, o których mowa w art. 156 § 1 lub art. 157 § 1 Kodeksu karnego. <3. Kierowca lub osoba posiadająca pozwolenie na kierowanie tramwajem jest obowiązana ukończyć kurs reedukacyjny w zakresie bezpieczeństwa ruchu drogowego, jeżeli:
 - **1)** przekroczyła liczbę 24 punktów otrzymanych za naruszenie przepisów ruchu drogowego;
-- **2)** w okresie próbnym popełniła dwa wykroczenia przeciwko bezpieczeństwu w komunikacji.>
+- **2)** w okresie próbnym popełniła dwa wykroczenia przeciwko bezpieczeństwu w komunikacji.
 
 4. Starosta wysyła osobom, o których mowa w ust. 1–3, informację o obowiązku poddania się odpowiednio badaniom lekarskim, badaniom psychologicznym lub o obowiązku ukończenia odpowiednich kursów reedukacyjnych.
 
@@ -2789,7 +2791,7 @@ Art. 125–127. (pominięte)
 - **2)** wyroku sądu – w zakresie, o którym mowa w ust. 1;
 - **3)** wniosku organu kontroli ruchu drogowego – w zakresie, o którym mowa w ust. 2 pkt 1 i 3 oraz ust. 3. <6. Starosta przekazuje administratorowi centralnej ewidencji kierowców informację o:
 - **1)** wysłaniu informacji o obowiązku ukończenia odpowiedniego kursu reedukacyjnego, o którym mowa w ust. 1 pkt 2 i ust. 3, i jego ukończeniu;
-- **2)** wysłaniu informacji o obowiązku odbycia badań, o których mowa w ust. 1 pkt 1 i ust. 2, i przeprowadzeniu badań.>
+- **2)** wysłaniu informacji o obowiązku odbycia badań, o których mowa w ust. 1 pkt 1 i ust. 2, i przeprowadzeniu badań.
 
 7. W przypadku osób, o których mowa w art. 10 ust. 3, informacje, o których mowa odpowiednio w ust. 4 i 6, przekazuje marszałek województwa mazowieckiego.
 
@@ -3099,7 +3101,7 @@ Art. 125–127. (pominięte)
 - **1)** kategorii prawa jazdy posiadanego przez tę osobę, oraz
 - **2)** zakresu badań lekarskich i psychologicznych.
 
-2d. Zakres zezwolenia na kierowanie pojazdem uprzywilejowanym, o którym mowa w ust. 2c, określa się w zezwoleniu poprzez wpisanie kategorii prawa jazdy odpowiadających pojazdom uprzywilejowanym, na które wydawane jest zezwolenie, o których mowa odpowiednio w art. 108 ust. 1.>
+2d. Zakres zezwolenia na kierowanie pojazdem uprzywilejowanym, o którym mowa w ust. 2c, określa się w zezwoleniu poprzez wpisanie kategorii prawa jazdy odpowiadających pojazdom uprzywilejowanym, na które wydawane jest zezwolenie, o których mowa odpowiednio w art. 108 ust. 1.
 
 3. Starosta przedłuża ważność zezwolenia na kierowanie pojazdem uprzywilejowanym, w drodze decyzji administracyjnej, za opłatą, o której mowa w ust. 1, na okres, o którym mowa w ust. 2 pkt 2, po przedstawieniu orzeczenia lekarskiego i orzeczenia psychologicznego wydanych na podstawie badań, o których mowa w art. 75 ust. 1 pkt 6 oraz art. 82 ust. 1 pkt 6.
 
@@ -3115,11 +3117,13 @@ Art. 125–127. (pominięte)
 
 7. Opłata, o której mowa w ust. 1, stanowi dochód powiatu.
 
-8. Decyzje w sprawach zezwoleń, o których mowa w ust. 1, 3, 4 i 5, są ostateczne. <Art. 109a. Zezwolenie na kierowanie pojazdem uprzywilejowanym wydane w trybie art. 109 ust. 1, 5 lub 5a, uprawnia do kierowania dowolnym pojazdem uprzywilejowanym w zakresie kategorii prawa jazdy określonych w zezwoleniu.>
+8. Decyzje w sprawach zezwoleń, o których mowa w ust. 1, 3, 4 i 5, są ostateczne.
+
+**Art. 109a.** Zezwolenie na kierowanie pojazdem uprzywilejowanym wydane w trybie art. 109 ust. 1, 5 lub 5a, uprawnia do kierowania dowolnym pojazdem uprzywilejowanym w zakresie kategorii prawa jazdy określonych w zezwoleniu.
 
 **Art. 110.**
 
-1. Kierować pojazdem przewożącym wartości pieniężne albo inne przedmioty wartościowe lub niebezpieczne, o których mowa w ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2025 r. poz. 532), może osoba posiadająca odpowiedni stan zdrowia, kwalifikacje i umiejętności oraz zezwolenie na kierowanie pojazdem przewożącym wartości pieniężne. Przepisy [art. 106–109] <art. 106–109a> stosuje się odpowiednio.
+1. Kierować pojazdem przewożącym wartości pieniężne albo inne przedmioty wartościowe lub niebezpieczne, o których mowa w ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2025 r. poz. 532), może osoba posiadająca odpowiedni stan zdrowia, kwalifikacje i umiejętności oraz zezwolenie na kierowanie pojazdem przewożącym wartości pieniężne. Przepisy [art. 106–109] <art. 106–109a
 
 2. Decyzja w sprawie zezwolenia, o którym mowa w ust. 1, jest ostateczna.
 
@@ -3500,6 +3504,8 @@ Art. 125–127. (pominięte)
 12. (uchylony)
 
 #### Rozdział 20 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 125–127.** (pominięte)
 
 **Art. 128.**
 

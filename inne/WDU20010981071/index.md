@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kuratorach sądowych
+# Ustawa z dnia 27 lipca 2001 r. o kuratorach sądowych.
 
 *USTAWA z dnia 27 lipca 2001 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2001-09-12 |
 | Ostatnia zmiana | 2026-06-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010981071) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1071/text.pdf) |
-
-Art. 92–97. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1292,6 +1290,8 @@ Art. 92–97. (pominięte)
 3. Ryczałt, o którym mowa w ust. 1 i 2, przysługuje również kuratorowi zawodowemu.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 92–97.** (pominięte)
 
 **Art. 98.**
 

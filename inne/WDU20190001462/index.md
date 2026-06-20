@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o włączeniu Akademii Medycznej im. Mikołaja Kopernika w Krakowie do Uniwersytetu Jagiellońskiego w Krakowie
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o włączeniu Akademii Medycznej im. Mikołaja Kopernika w Krakowie do Uniwersytetu Jagiellońskiego w Krakowie
 
 | Pole | Wartość |
 |---|---|

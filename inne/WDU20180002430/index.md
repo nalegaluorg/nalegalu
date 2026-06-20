@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o paszach
+# Ustawa z dnia 22 listopada 2018 r. o zmianie ustawy o paszach
 
 *USTAWA z dnia 22 listopada 2018 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks spółek handlowych
+# Ustawa z dnia 21 maja 2009 r. o zmianie ustawy - Kodeks spółek handlowych
 
 *USTAWA z dnia 21 maja 2009 r.*
 

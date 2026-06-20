@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o działalności lobbingowej w procesie stanowienia prawa
+# Ustawa z dnia 25 września 2024 r. o zmianie ustawy o działalności lobbingowej w procesie stanowienia prawa
 
 *USTAWA z dnia 25 września 2024 r.*
 

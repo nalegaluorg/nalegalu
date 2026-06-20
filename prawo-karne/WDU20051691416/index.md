@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania karnego
+# Ustawa z dnia 7 lipca 2005 r. o zmianie ustawy - Kodeks postępowania karnego
 
 *USTAWA z dnia 7 lipca 2005 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia systemów i standardów telekomunikacyjnych, zakładanych i używanych na terytorium Rzeczypospolitej Polskiej.
+# Rozporządzenie Ministra Łączności z dnia 29 marca 2000 r. w sprawie określenia systemów i standardów telekomunikacyjnych, zakładanych i używanych na terytorium Rzeczypospolitej Polskiej.
 
 *ROZPORZĄDZENIE MINISTRA ŁĄCZNOŚCI z dnia 29 marca 2000 r.*
 

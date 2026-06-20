@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zatrudnianiu pracowników tymczasowych
+# Ustawa z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych
 
 *USTAWA z dnia 9 lipca 2003 r.*
 

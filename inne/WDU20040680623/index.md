@@ -27,46 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040680623) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/623/text.pdf) |
 
-Art. 6zh. W celu ustalenia zgodności z przepisami prawa przywozu towarów na obszar celny Wspólnoty oraz wywozu towarów z tego obszaru organy celne organizują i realizują czynności operacyjnorozpoznawcze.
-Art. 6zi. 1. Czynności operacyjno-rozpoznawcze organów celnych polegają na uzyskiwaniu, gromadzeniu, przetwarzaniu i sprawdzaniu, w sposób jawny lub niejawny, informacji dotyczących wymiany towarowej z zagranicą, jeżeli zachodzi przypuszczenie narażenia interesów i praw majątkowych Skarbu Państwa albo konieczność uzyskania rozpoznania w tym zakresie.
-2. Organy celne są uprawnione do korzystania z informacji gromadzonych przez organy uprawnione do wykonywania czynności operacyjno-rozpoznawczych na podstawie odrębnych ustaw, w tym również z danych zgromadzonych w formie zapisu informatycznego, z zachowaniem zasad określonych w przepisach o ochronie informacji niejawnych lub informacji stanowiących tajemnicę skarbową.
-3. Zabronione jest udzielanie informacji uzyskanych w wyniku czynności operacyjno-rozpoznawczych osobom i instytucjom innym niż sąd i prokurator lub organy uprawnione na mocy odrębnych ustaw do wykonywania czynności operacyjno-rozpoznawczych albo wykorzystywanie tych informacji w celu innym niż ściganie przestępstw i wykroczeń lub przeprowadzenie kontroli celnej.
-4. Przepisu ust. 3 nie stosuje się, jeżeli zatajenie informacji prowadziłoby do zagrożenia życia, zdrowia lub wolności człowieka albo gdy ustawa lub zawarta przez Rzeczpospolitą Polską umowa międzynarodowa nakłada obowiązek udzielenia takich informacji określonemu organowi.
-5. Minister właściwy do spraw finansów publicznych zapewnia ochronę form i metod wykonywania czynności operacyjnorozpoznawczych.
-Art. 6zj. 1. Przy wykonywaniu czynności operacyjno-rozpoznawczych podejmowanych w celu wykrycia przestępstw:
-1) skarbowych polegających na uszczupleniu należności publicznoprawnej dużej wartości albo gdy wartość przedmiotu czynu zabronionego jest duża,
-2) przeciwko obrotowi gospodarczemu, jeżeli mogą spowodować znaczną szkodę majątkową,
-3) ściganych na mocy umów i porozumień międzynarodowych albo w celu ustalenia tożsamości osób uczestniczących w tych przestępstwach lub przejęcia przedmiotów przestępstwa, minister właściwy do spraw finansów publicznych przed wszczęciem postępowania karnego bądź postępowania w sprawie o przestępstwo skarbowe może zarządzić niejawne nadzorowanie przemieszczania, przechowywania i obrotu przedmiotami przestępstwa, jeżeli nie stworzy to zagrożenia dla życia lub zdrowia ludzkiego.
-2. O wydanym w trybie ust. 1 zarządzeniu należy niezwłocznie poinformować Prokuratora Generalnego, którego także informuje się o przebiegu i wynikach podjętych czynności. Prokurator Generalny może nakazać zaniechanie tych czynności.
-3. Stosownie do zarządzenia, o którym mowa w ust. 1, organy i instytucje państwowe są obowiązane dopuścić do dalszego przewozu przesyłki zawierające przedmioty przestępstwa w stanie nienaruszonym lub po ich usunięciu albo zastąpieniu w całości lub części.
-4. Minister właściwy do spraw finansów publicznych, w porozumieniu z Ministrem Sprawiedliwości, określa, w drodze rozporządzenia, sposób przeprowadzania czynności, o których mowa w ust. 1, oraz sposób dokumentowania czynności operacyjno-rozpoznawczych, uwzględniając zapewnienie zachowania porządku publicznego oraz możliwość podjęcia czynności niejawnych dopiero w wypadku, gdy inne środki okazały się bezskuteczne albo zachodzi wysokie prawdopodobieństwo ich nieskuteczności lub nieprzydatności do ustalenia zgodności z prawem przywozu lub wywozu towarów.
-Art. 6zk. 1. Funkcjonariusze celni przy wykonywaniu czynności operacyjnorozpoznawczych mogą korzystać z pomocy osób niezatrudnionych w administracji celnej.
-2. Dane o osobach, o których mowa w ust. 1, mogą być ujawnione wyłącznie na żądanie sądu w wypadku uzasadnionego podejrzenia popełnienia przez te osoby przestępstwa ściganego z oskarżenia publicznego.
-3. Tworzy się fundusz operacyjny, którym dysponuje minister właściwy do spraw finansów publicznych. Środki na ten fundusz są corocznie zapewniane w budżecie państwa w części, której dysponentem jest minister właściwy do spraw finansów publicznych.
-4. Za udzielenie pomocy, o której mowa w ust. 1, może być przyznane wynagrodzenie z funduszu, o którym mowa w ust. 3.
-5. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określa, w drodze rozporządzenia, formy, metody, tryb i warunki wykonywania czynności operacyjno-rozpoznawczych, mając w szczególności na uwadze zapewnienie możliwie najmniejszej dolegliwości tych czynności oraz sposób pokrywania z funduszu operacyjnego ich kosztów, z uwzględnieniem wynagrodzeń, o których mowa w ust. 4.
-Art. 6zl. 1. Czynności, o których mowa w art. 6zi-6zk, wykonują funkcjonariusze celni zatrudnieni w wyodrębnionych komórkach organizacyjnych administracji celnej.
-2. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określa, w drodze rozporządzenia, wykaz wyodrębnionych komórek organizacyjnych, o których mowa w ust. 1, tryb naboru do nich oraz sposób i zakres szkoleń, uwzględniając potrzeby wynikające z konieczności zapewnienia właściwej realizacji zadań ustawowych.
-Art. 6zm. 1. Funkcjonariusze celni mogą stosować środki przymusu bezpośredniego wobec osób niepodporządkowujących się ich poleceniom wydanym w celu realizacji zadań ustawowych.
-2. Środki przymusu bezpośredniego mogą być użyte wyłącznie w zakresie niezbędnym do osiągnięcia podporządkowania się poleceniom, o których mowa w ust. 1, lub do skutecznego odparcia bezpośredniego i bezprawnego zamachu na funkcjonariusza celnego.
-3. Dopuszczalne jest stosowanie tylko takich środków przymusu bezpośredniego, które odpowiadaj ą potrzebom wynikającym z istniejącej sytuacji, i pod warunkiem, że w inny sposób nie można skutecznie oraz bezpiecznie wykonać czynności służbowych.
-Art. 6zn. 1. Funkcjonariusze celni są uprawnieni do stosowania następujących środków przymusu bezpośredniego:
-1) użycia siły fizycznej,
-2) użycia indywidualnych technicznych i chemicznych środków lub urządzeń przeznaczonych do obezwładniania i konwojowania osób albo do zatrzymywania oraz unieruchamiania pojazdów mechanicznych i innych środków przewozowych.
-2. Rada Ministrów określi, w drodze rozporządzenia, rodzaje oraz warunki i sposoby użycia środków przymusu bezpośredniego, a także sposób wyposażania funkcjonariuszy celnych w środki, o których mowa w ust. 1 pkt 2, uwzględniając zapewnienie możliwie najmniejszej dolegliwości dla osób.”;
-5) w art. 10 uchyla się ust. 5;
-6) tytuł rozdziału 4 otrzymuje brzmienie: „Stanowiska kierownicze w Służbie Celnej”;
-7) w art. 17:
-a) w ust. 1b po wyrazach „funkcjonariuszy celnych” dodaje się wyrazy „oraz sprawuje nadzór nad jednostkami organizacyjnymi Służby Celnej”,
-b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zastępcę powołuje i odwołuje minister właściwy do spraw finansów publicznych.
-11. Naczelnika urzędu celnego powołuje i odwołuje minister właściwy do spraw finansów publicznych na wniosek dyrektora izby celnej.
-12. Zastępcę naczelnika urzędu celnego powołuje i odwołuje dyrektor izby celnej na wniosek naczelnika urzędu celnego.
-13. Stanowiska, które wiążą się z podporządkowaniem służbowym funkcjonariuszy celnych lub pracowników, w szczególności stanowiska: kierownika zmiany, referatu, oddziału oraz naczelnika wydziału w izbie celnej, są stanowiskami kierowniczymi w jednostkach organizacyjnych Służby Celnej.
-14. Do obsadzania i zwalniania stanowisk, o których mowa w ust. 13, stosuje się odpowiednio przepisy dotyczące powoływania i odwoływania zastępcy naczelnika urzędu celnego.”;
-8) po art. 20 dodaje się art. 20a w brzmieniu: „Art. 20a. 1. W wypadku, o którym mowa w art. 20 ust. 1, jeżeli zapewnienie funkcjonariuszowi odpowiednich warunków mieszkaniowych jest niemożliwe lub utrudnione oraz jeżeli on sam lub członkowie jego rodziny nie posiadają lokalu mieszkalnego w miejscu pełnienia służby lub w miejscowości pobliskiej, funkcjonariuszowi celnemu przysługuje równoważnik pieniężny.
-2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość oraz warunki przyznawania i zwracania równoważnika pieniężnego, o którym mowa w ust. 1, wzory wymaganych dokumentów, podmioty właściwe do jego przyznania i wypłaty lub odmowy przyznania oraz sposób postępowania w wypadku wystąpienia zbiegu uprawnień do jego otrzymania.”;
-9) w art. 57 ust. 1 otrzymuje brzmienie: „1. Funkcjonariuszowi celnemu, który na podstawie innych przepisów wykonuje stałe zadania służbowe poza terytorium Rzeczypospolitej Polskiej, przysługuje ryczałt na pokrycie kosztów wyżywienia i innych drobnych wydatków.”.
-
 #### Rozdział 1 Przepis ogólny
 
 **Art. 1.** Ustawa z dnia 19 marca 2004 r. - Prawo celne (Dz.U. Nr 68, poz. 622) wchodzi w życie z dniem 1 maja 2004 r.
@@ -348,9 +308,17 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 
 2. W wypadku, o którym mowa w art. 6y ust. 1 pkt 1, organ celny zamiast konwoju może zarządzić strzeżenie towaru.
 
-3. Przepis art. 6y ust. 3 stosuje się odpowiednio. Art. 6za. 1. Czynności kontroli celnej, wykonywane poza urzędem celnym albo miejscem wyznaczonym lub uznanym przez organ celny, są prowadzone po uzyskaniu pisemnego upoważnienia organu celnego. Upoważnienie powinno określać zakres kontroli celnej.
+3. Przepis art. 6y ust. 3 stosuje się odpowiednio.
 
-2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór upoważnienia, o którym mowa w ust. 1. Art. 6zb. 1. Funkcjonariusz celny lub pracownik organu celnego, zwani dalej „kontrolującym”, są obowiązani okazać kontrolowanemu upoważnienie do przeprowadzenia kontroli oraz legitymację służbową lub dowód osobisty, jeżeli kontrolujący nie ma obowiązku posiadania legitymacji.
+**Art. 6za.**
+
+1. Czynności kontroli celnej, wykonywane poza urzędem celnym albo miejscem wyznaczonym lub uznanym przez organ celny, są prowadzone po uzyskaniu pisemnego upoważnienia organu celnego. Upoważnienie powinno określać zakres kontroli celnej.
+
+2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór upoważnienia, o którym mowa w ust. 1.
+
+**Art. 6zb.**
+
+1. Funkcjonariusz celny lub pracownik organu celnego, zwani dalej „kontrolującym”, są obowiązani okazać kontrolowanemu upoważnienie do przeprowadzenia kontroli oraz legitymację służbową lub dowód osobisty, jeżeli kontrolujący nie ma obowiązku posiadania legitymacji.
 
 2. Jeżeli kontrolowanym jest osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej, upoważnienie oraz legitymacja służbowa okazywane są członkom zarządu, wspólnikowi lub innej osobie upoważnionej do reprezentowania lub prowadzenia spraw kontrolowanego.
 
@@ -360,13 +328,21 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 
 5. Kopię upoważnienia pozostawia się kontrolowanemu.
 
-6. Kontrolujący może wchodzić na grunt oraz do budynków, lokalu lub innych pomieszczeń. Art. 6zc. 1. Czynności kontroli celnej dokonuje się w obecności kontrolowanego lub osoby przez niego wskazanej, chyba że kontrolowany zrezygnuje z prawa uczestniczenia w czynnościach kontroli celnej. Jeżeli kontrolowanym jest osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, czynności kontroli celnej dokonuje się w obecności osób upoważnionych.
+6. Kontrolujący może wchodzić na grunt oraz do budynków, lokalu lub innych pomieszczeń.
+
+**Art. 6zc.**
+
+1. Czynności kontroli celnej dokonuje się w obecności kontrolowanego lub osoby przez niego wskazanej, chyba że kontrolowany zrezygnuje z prawa uczestniczenia w czynnościach kontroli celnej. Jeżeli kontrolowanym jest osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, czynności kontroli celnej dokonuje się w obecności osób upoważnionych.
 
 2. Oświadczenie o rezygnacji z prawa uczestnictwa w czynnościach kontroli celnej składane jest na piśmie. W razie odmowy złożenia oświadczenia kontrolujący dokonuje odpowiedniej adnotacji, dołączając ją do akt sprawy.
 
 3. W wypadku nieobecności kontrolowanego lub osób wymienionych w art. 6zb ust. 2 czynności kontroli celnej dokonywane są w obecności przywołanego świadka, chyba że spełnienie tego warunku uniemożliwiałoby lub znacznie utrudniało wykonywanie czynności kontroli celnej. Świadek nie musi być obecny przy czynnościach kontroli celnej dotyczących przeprowadzenia dowodu z ksiąg, ewidencji, zapisków lub innych dokumentów.
 
-4. Z czynności kontroli celnej dokonywanych podczas nieobecności kontrolowanego lub osób wymienionych w art. 6zb ust. 2 sporządza się protokół, który niezwłocznie doręcza się kontrolowanemu. Art. 6zd. 1. Kontrolowany, osoba upoważniona do reprezentowania lub prowadzenia spraw kontrolowanego, pracownik oraz osoba współdziałająca z kontrolowanym są obowiązani umożliwić wykonywanie czynności kontroli celnej, a w szczególności:
+4. Z czynności kontroli celnej dokonywanych podczas nieobecności kontrolowanego lub osób wymienionych w art. 6zb ust. 2 sporządza się protokół, który niezwłocznie doręcza się kontrolowanemu.
+
+**Art. 6zd.**
+
+1. Kontrolowany, osoba upoważniona do reprezentowania lub prowadzenia spraw kontrolowanego, pracownik oraz osoba współdziałająca z kontrolowanym są obowiązani umożliwić wykonywanie czynności kontroli celnej, a w szczególności:
 
 - **1)** udostępnić towary, dokumenty lub środki transportu oraz zapewnić dostęp do pomieszczeń oraz innych miejsc będących przedmiotem kontroli,
 - **2)** umożliwić pobranie próbek towarów,
@@ -386,7 +362,11 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 
 4. Osoby upoważnione do reprezentowania lub prowadzenia spraw kontrolowanego, pracownicy oraz osoby współdziałające z kontrolowanym są obowiązani udzielać wyjaśnień dotyczących przedmiotu kontroli celnej, wynikających z zakresu wykonywanych czynności lub zadań.
 
-5. Kontrolujący może przesłuchiwać świadków. Art. 6ze. 1. W trakcie przeprowadzania czynności kontroli celnej kontrolujący sporządza protokoły w szczególności:
+5. Kontrolujący może przesłuchiwać świadków.
+
+**Art. 6ze.**
+
+1. W trakcie przeprowadzania czynności kontroli celnej kontrolujący sporządza protokoły w szczególności:
 
 - **1)** kontroli dokumentów i ewidencji,
 - **2)** zabezpieczenia dokumentów i dowodów rzeczowych,
@@ -398,7 +378,11 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 
 3. Protokoły, o których mowa w ust. 1, podpisują kontrolujący i osoby obecne przy czynnościach kontroli celnej. Jeżeli osoba obecna przy czynnościach kontroli celnej odmówi podpisania protokołów, kontrolujący jest obowiązany umieścić w protokołach odpowiednią adnotację.
 
-4. Osoba obecna przy czynnościach kontroli celnej może, w terminie 7 dni od zapoznania jej z treścią protokołów, zgłosić zastrzeżenia. Art. 6zf. 1. Z przeprowadzonych czynności kontroli celnej sporządza się protokół pokontrolny.
+4. Osoba obecna przy czynnościach kontroli celnej może, w terminie 7 dni od zapoznania jej z treścią protokołów, zgłosić zastrzeżenia.
+
+**Art. 6zf.**
+
+1. Z przeprowadzonych czynności kontroli celnej sporządza się protokół pokontrolny.
 
 2. Protokół pokontrolny powinien zawierać:
 
@@ -426,7 +410,11 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 
 10. W razie niezłożenia zastrzeżeń w terminie określonym w ust. 8 przyjmuje się, że kontrolowany nie kwestionuje ustaleń kontroli celnej.
 
-11. Zastrzeżenia, o których mowa w ust. 8, oraz ustosunkowanie się organu celnego do tych zastrzeżeń stanowią integralną część protokołu. Art. 6zg. 1. Jeżeli przepis prawa nie wymaga urzędowego potwierdzenia określonych faktów lub stanu prawnego w drodze zaświadczenia, organ celny w toku kontroli celnej odbiera od strony, na jej wniosek, oświadczenie złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+11. Zastrzeżenia, o których mowa w ust. 8, oraz ustosunkowanie się organu celnego do tych zastrzeżeń stanowią integralną część protokołu.
+
+**Art. 6zg.**
+
+1. Jeżeli przepis prawa nie wymaga urzędowego potwierdzenia określonych faktów lub stanu prawnego w drodze zaświadczenia, organ celny w toku kontroli celnej odbiera od strony, na jej wniosek, oświadczenie złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
 2. Przed odebraniem oświadczenia organ celny uprzedza stronę o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
@@ -436,7 +424,90 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 
 #### Rozdział 1c Czynności operacyjno-rozpoznawcze
 
+**Art. 6zh.** W celu ustalenia zgodności z przepisami prawa przywozu towarów na obszar celny Wspólnoty oraz wywozu towarów z tego obszaru organy celne organizują i realizują czynności operacyjnorozpoznawcze.
+
+**Art. 6zi.**
+
+1. Czynności operacyjno-rozpoznawcze organów celnych polegają na uzyskiwaniu, gromadzeniu, przetwarzaniu i sprawdzaniu, w sposób jawny lub niejawny, informacji dotyczących wymiany towarowej z zagranicą, jeżeli zachodzi przypuszczenie narażenia interesów i praw majątkowych Skarbu Państwa albo konieczność uzyskania rozpoznania w tym zakresie.
+
+2. Organy celne są uprawnione do korzystania z informacji gromadzonych przez organy uprawnione do wykonywania czynności operacyjno-rozpoznawczych na podstawie odrębnych ustaw, w tym również z danych zgromadzonych w formie zapisu informatycznego, z zachowaniem zasad określonych w przepisach o ochronie informacji niejawnych lub informacji stanowiących tajemnicę skarbową.
+
+3. Zabronione jest udzielanie informacji uzyskanych w wyniku czynności operacyjno-rozpoznawczych osobom i instytucjom innym niż sąd i prokurator lub organy uprawnione na mocy odrębnych ustaw do wykonywania czynności operacyjno-rozpoznawczych albo wykorzystywanie tych informacji w celu innym niż ściganie przestępstw i wykroczeń lub przeprowadzenie kontroli celnej.
+
+4. Przepisu ust. 3 nie stosuje się, jeżeli zatajenie informacji prowadziłoby do zagrożenia życia, zdrowia lub wolności człowieka albo gdy ustawa lub zawarta przez Rzeczpospolitą Polską umowa międzynarodowa nakłada obowiązek udzielenia takich informacji określonemu organowi.
+
+5. Minister właściwy do spraw finansów publicznych zapewnia ochronę form i metod wykonywania czynności operacyjnorozpoznawczych.
+
+**Art. 6zj.**
+
+1. Przy wykonywaniu czynności operacyjno-rozpoznawczych podejmowanych w celu wykrycia przestępstw:
+
+- **1)** skarbowych polegających na uszczupleniu należności publicznoprawnej dużej wartości albo gdy wartość przedmiotu czynu zabronionego jest duża,
+- **2)** przeciwko obrotowi gospodarczemu, jeżeli mogą spowodować znaczną szkodę majątkową,
+- **3)** ściganych na mocy umów i porozumień międzynarodowych albo w celu ustalenia tożsamości osób uczestniczących w tych przestępstwach lub przejęcia przedmiotów przestępstwa, minister właściwy do spraw finansów publicznych przed wszczęciem postępowania karnego bądź postępowania w sprawie o przestępstwo skarbowe może zarządzić niejawne nadzorowanie przemieszczania, przechowywania i obrotu przedmiotami przestępstwa, jeżeli nie stworzy to zagrożenia dla życia lub zdrowia ludzkiego.
+
+2. O wydanym w trybie ust. 1 zarządzeniu należy niezwłocznie poinformować Prokuratora Generalnego, którego także informuje się o przebiegu i wynikach podjętych czynności. Prokurator Generalny może nakazać zaniechanie tych czynności.
+
+3. Stosownie do zarządzenia, o którym mowa w ust. 1, organy i instytucje państwowe są obowiązane dopuścić do dalszego przewozu przesyłki zawierające przedmioty przestępstwa w stanie nienaruszonym lub po ich usunięciu albo zastąpieniu w całości lub części.
+
+4. Minister właściwy do spraw finansów publicznych, w porozumieniu z Ministrem Sprawiedliwości, określa, w drodze rozporządzenia, sposób przeprowadzania czynności, o których mowa w ust. 1, oraz sposób dokumentowania czynności operacyjno-rozpoznawczych, uwzględniając zapewnienie zachowania porządku publicznego oraz możliwość podjęcia czynności niejawnych dopiero w wypadku, gdy inne środki okazały się bezskuteczne albo zachodzi wysokie prawdopodobieństwo ich nieskuteczności lub nieprzydatności do ustalenia zgodności z prawem przywozu lub wywozu towarów.
+
+**Art. 6zk.**
+
+1. Funkcjonariusze celni przy wykonywaniu czynności operacyjnorozpoznawczych mogą korzystać z pomocy osób niezatrudnionych w administracji celnej.
+
+2. Dane o osobach, o których mowa w ust. 1, mogą być ujawnione wyłącznie na żądanie sądu w wypadku uzasadnionego podejrzenia popełnienia przez te osoby przestępstwa ściganego z oskarżenia publicznego.
+
+3. Tworzy się fundusz operacyjny, którym dysponuje minister właściwy do spraw finansów publicznych. Środki na ten fundusz są corocznie zapewniane w budżecie państwa w części, której dysponentem jest minister właściwy do spraw finansów publicznych.
+
+4. Za udzielenie pomocy, o której mowa w ust. 1, może być przyznane wynagrodzenie z funduszu, o którym mowa w ust. 3.
+
+5. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określa, w drodze rozporządzenia, formy, metody, tryb i warunki wykonywania czynności operacyjno-rozpoznawczych, mając w szczególności na uwadze zapewnienie możliwie najmniejszej dolegliwości tych czynności oraz sposób pokrywania z funduszu operacyjnego ich kosztów, z uwzględnieniem wynagrodzeń, o których mowa w ust. 4.
+
+**Art. 6zl.**
+
+1. Czynności, o których mowa w art. 6zi-6zk, wykonują funkcjonariusze celni zatrudnieni w wyodrębnionych komórkach organizacyjnych administracji celnej.
+
+2. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określa, w drodze rozporządzenia, wykaz wyodrębnionych komórek organizacyjnych, o których mowa w ust. 1, tryb naboru do nich oraz sposób i zakres szkoleń, uwzględniając potrzeby wynikające z konieczności zapewnienia właściwej realizacji zadań ustawowych.
+
 #### Rozdział 1d Zasady użycia środków przymusu bezpośredniego
+
+**Art. 6zm.**
+
+1. Funkcjonariusze celni mogą stosować środki przymusu bezpośredniego wobec osób niepodporządkowujących się ich poleceniom wydanym w celu realizacji zadań ustawowych.
+
+2. Środki przymusu bezpośredniego mogą być użyte wyłącznie w zakresie niezbędnym do osiągnięcia podporządkowania się poleceniom, o których mowa w ust. 1, lub do skutecznego odparcia bezpośredniego i bezprawnego zamachu na funkcjonariusza celnego.
+
+3. Dopuszczalne jest stosowanie tylko takich środków przymusu bezpośredniego, które odpowiadaj ą potrzebom wynikającym z istniejącej sytuacji, i pod warunkiem, że w inny sposób nie można skutecznie oraz bezpiecznie wykonać czynności służbowych.
+
+**Art. 6zn.**
+
+1. Funkcjonariusze celni są uprawnieni do stosowania następujących środków przymusu bezpośredniego:
+
+- **1)** użycia siły fizycznej,
+- **2)** użycia indywidualnych technicznych i chemicznych środków lub urządzeń przeznaczonych do obezwładniania i konwojowania osób albo do zatrzymywania oraz unieruchamiania pojazdów mechanicznych i innych środków przewozowych.
+
+2. Rada Ministrów określi, w drodze rozporządzenia, rodzaje oraz warunki i sposoby użycia środków przymusu bezpośredniego, a także sposób wyposażania funkcjonariuszy celnych w środki, o których mowa w ust. 1 pkt 2, uwzględniając zapewnienie możliwie najmniejszej dolegliwości dla osób.”;
+
+- **5)** w art. 10 uchyla się ust. 5;
+- **6)** tytuł rozdziału 4 otrzymuje brzmienie: „Stanowiska kierownicze w Służbie Celnej”;
+- **7)** w art. 17:
+    - **a)** w ust. 1b po wyrazach „funkcjonariuszy celnych” dodaje się wyrazy „oraz sprawuje nadzór nad jednostkami organizacyjnymi Służby Celnej”,
+    - **b)** dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zastępcę powołuje i odwołuje minister właściwy do spraw finansów publicznych.
+
+11. Naczelnika urzędu celnego powołuje i odwołuje minister właściwy do spraw finansów publicznych na wniosek dyrektora izby celnej.
+
+12. Zastępcę naczelnika urzędu celnego powołuje i odwołuje dyrektor izby celnej na wniosek naczelnika urzędu celnego.
+
+13. Stanowiska, które wiążą się z podporządkowaniem służbowym funkcjonariuszy celnych lub pracowników, w szczególności stanowiska: kierownika zmiany, referatu, oddziału oraz naczelnika wydziału w izbie celnej, są stanowiskami kierowniczymi w jednostkach organizacyjnych Służby Celnej.
+
+14. Do obsadzania i zwalniania stanowisk, o których mowa w ust. 13, stosuje się odpowiednio przepisy dotyczące powoływania i odwoływania zastępcy naczelnika urzędu celnego.”;
+
+- **8)** po art. 20 dodaje się art. 20a w brzmieniu: „Art. 20a. 1. W wypadku, o którym mowa w art. 20 ust. 1, jeżeli zapewnienie funkcjonariuszowi odpowiednich warunków mieszkaniowych jest niemożliwe lub utrudnione oraz jeżeli on sam lub członkowie jego rodziny nie posiadają lokalu mieszkalnego w miejscu pełnienia służby lub w miejscowości pobliskiej, funkcjonariuszowi celnemu przysługuje równoważnik pieniężny.
+
+2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość oraz warunki przyznawania i zwracania równoważnika pieniężnego, o którym mowa w ust. 1, wzory wymaganych dokumentów, podmioty właściwe do jego przyznania i wypłaty lub odmowy przyznania oraz sposób postępowania w wypadku wystąpienia zbiegu uprawnień do jego otrzymania.”;
+
+- **9)** w art. 57 ust. 1 otrzymuje brzmienie: „1. Funkcjonariuszowi celnemu, który na podstawie innych przepisów wykonuje stałe zadania służbowe poza terytorium Rzeczypospolitej Polskiej, przysługuje ryczałt na pokrycie kosztów wyżywienia i innych drobnych wydatków.”.
 
 **Art. 21.** W ustawie z dnia 10 września 1999 r. - Kodeks karny skarbowy (Dz.U. Nr 83, poz. 930, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -449,7 +520,7 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 - **c)** po § 33 dodaje się § 33a w brzmieniu: „§ 33a. Jeżeli przedmiotem czynu zabronionego określonego w rozdziale 7 kodeksu jest towar wprowadzany na obszar celny Wspólnoty, przez wartość przedmiotu czynu zabronionego rozumie się wartość celną towaru.”;
 - **2)** w art. 85 § 1 otrzymuje brzmienie: „§ 1. Kto wyłudza pozwolenie lub inny podobny dokument, dotyczący warunków obrotu z zagranicą towarami lub usługami, regulowany przez przepisy, o których mowa w art. 53 § 32 lub 33, przez podstępne wprowadzenie w błąd organu uprawnionego do wydania takich dokumentów, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”;
 - **3)** w art. 89 § 1 otrzymuje brzmienie: „§ 1. Kto w użyciu towaru zmienia cel, przeznaczenie lub nie zachowuje innego warunku, od którego uzależnione jest zwolnienie towaru w całości lub w części od należności celnej, w szczególności od cła, albo zastosowanie zerowej, obniżonej lub preferencyjnej stawki celnej, podlega karze grzywny do 720 stawek dziennych.”;
-- **4)** w art. 93: [Art. 22. W ustawie z dnia 10 września 1999 r. - Przepisy wprowadzające Kodeks karny skarbowy (Dz.U. Nr 83, poz. 931) po art. 15 dodaje się art. 15a w brzmieniu: „Art. 15a. Do czynów zabronionych określonych w art. 85-96 § 1 Kodeksu karnego skarbowego, popełnionych przed dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, stosuje się przepisy dotychczasowe.”.] art. 22 niezgodny z Konstytucją - wyrok TK (Dz.U. z 2005 r. Nr 25, poz. 214)
+- **4)** w art. 93:
     - **a)** uchyla się § 1,
     - **b)** w § 3 wyrazy „magazynu celnego” zastępuje się wyrazami „magazynu czasowego składowania”.
 

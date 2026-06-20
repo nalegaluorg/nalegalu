@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych w związku z sytuacją na rynku tych paliw
+# Ustawa z dnia 23 czerwca 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych w związku z sytuacją na rynku tych paliw
 
 *USTAWA z dnia 23 czerwca 2022 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o oznakowaniu produktów wytworzonych bez wykorzystania organizmów genetycznie zmodyfikowanych jako wolnych od tych organizmów
+# Ustawa z dnia 13 czerwca 2019 r. o oznakowaniu produktów wytworzonych bez wykorzystania organizmów genetycznie zmodyfikowanych jako wolnych od tych organizmów
 
 *USTAWA z dnia 13 czerwca 2019 r.*
 

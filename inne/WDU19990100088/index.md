@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie jednorazowego świadczenia pieniężnego z tytułu urodzenia dziecka.
+# Rozporządzenie Ministra Obrony Narodowej z dnia 25 stycznia 1999 r. w sprawie jednorazowego świadczenia pieniężnego z tytułu urodzenia dziecka.
 
 | Pole | Wartość |
 |---|---|

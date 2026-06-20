@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 maja 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie sposobu rozdysponowania środków finansowych przeznaczonych na usprawnienie funkcjonowania Państwowej Inspekcji Ochrony Środowiska i na premie dla jej pracowników oraz zasad przyznawania tej premii.
+# Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 27 kwietnia 1999 r. zmieniające rozporządzenie w sprawie sposobu rozdysponowania środków finansowych przeznaczonych na usprawnienie funkcjonowania Państwowej Inspekcji Ochrony Środowiska i na premie dla jej pracowników oraz zasad przyznawania tej premii.
 
 | Pole | Wartość |
 |---|---|

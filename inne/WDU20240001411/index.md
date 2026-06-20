@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 września 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami
 
 | Pole | Wartość |
 |---|---|
@@ -37,7 +37,6 @@ poz. 1081), który stanowi: „Art. 4. Ustawa wchodzi w życie po upływie 14 dn
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 19 lipca 2019 r.
 o zapewnianiu dostępności osobom ze szczególnymi potrzebami
-Art. 42–55. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -554,6 +553,8 @@ Art. 42–55. (pominięte)
 **Art. 41.** Podstawą gospodarki finansowej Funduszu jest roczny plan finansowy, sporządzany na każdy rok budżetowy, w trybie i na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 #### Rozdział 6 Zmiany w przepisach
+
+**Art. 42–55.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe, dostosowujące i końcowe
 

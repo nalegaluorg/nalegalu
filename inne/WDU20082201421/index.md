@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu nowej nazwy Akademii Ekonomicznej w Poznaniu
+# Ustawa z dnia 23 października 2008 r. o nadaniu nowej nazwy Akademii Ekonomicznej w Poznaniu
 
 *USTAWA z dnia 23 października 2008 r.*
 

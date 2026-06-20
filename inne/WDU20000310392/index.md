@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o działalności ubezpieczeniowej (tekst jednolity z 1996 r. Dz.U. Nr 11, poz. 62; zm.: z 1997 r. Nr 43, poz. 272, Nr 88, poz. 554, Nr 107, poz.
+# Wyrok Trybunału Konstytucyjnego z dnia 18 kwietnia 2000 r. sygn. akt K. 23/99.
 
 | Pole | Wartość |
 |---|---|

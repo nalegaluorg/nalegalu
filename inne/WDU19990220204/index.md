@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie znakowania środków spożywczych, używek i substancji dodatkowych dozwolonych, przeznaczonych do obrotu.
+# Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 5 marca 1999 r. zmieniające rozporządzenie w sprawie znakowania środków spożywczych, używek i substancji dodatkowych dozwolonych, przeznaczonych do obrotu.
 
 | Pole | Wartość |
 |---|---|

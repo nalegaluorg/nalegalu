@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw
+# Ustawa z dnia 21 grudnia 2001 r. o zmianie ustawy o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 21 grudnia 2001 r.*
 
@@ -64,9 +64,7 @@ source: pdf
 
 3. Przez wynagrodzenia, o których mowa w ust. 1 i 2, rozumie się wydatki pieniężne oraz wartość świadczeń w naturze, wypłacane pracownikom zatrudnionym na podstawie stosunku pracy, z wyjątkiem osób kierujących w rozumieniu ustawy o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, zaliczone - według zasad statystyki zatrudnienia i wynagrodzeń określonych przez Główny Urząd Statystyczny - do „wynagrodzeń bez wypłat z zysku”.
 
-**Art. 4.** W podmiotach prawnych sektora finansów publicznych, o których mowa w art. 3 ust. 1, nie stosuje się w 2002 r. przepisów ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz.U. z 1995 r. Nr 1, poz. 2 i Nr 43, poz. 221, z 1997 r. Nr 121, poz. 770, z 1998 r. Nr 162, poz. 1112 oraz z 2001 r. Nr 5, poz. 45 i Nr 100, poz.
-
-- **1080)** .
+**Art. 4.** W podmiotach prawnych sektora finansów publicznych, o których mowa w art. 3 ust. 1, nie stosuje się w 2002 r. przepisów ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz.U. z 1995 r. Nr 1, poz. 2 i Nr 43, poz. 221, z 1997 r. Nr 121, poz. 770, z 1998 r. Nr 162, poz. 1112 oraz z 2001 r. Nr 5, poz. 45 i Nr 100, poz. 1080).
 
 **Art. 5.** W ustawie z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych (Dz.U. z 2001 r. Nr 79, poz. 856) w art. 15 ust. 6 i 7 otrzymują brzmienie: „6. Wynagrodzenie zasadnicze prezesa, wiceprezesa i etatowych członków kolegium stanowi wielokrotność kwoty bazowej, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa. Wysokość wynagrodzenia jest różnicowana ze względu na staż pracy i pełnioną funkcję. 7. Prezes Rady Ministrów określi, w drodze rozporządzenia, wielokrotność kwoty bazowej, o której mowa w ust. 6. Wielokrotność ta nie może być mniejsza niż 3,0.”.
 

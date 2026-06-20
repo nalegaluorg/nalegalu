@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych
+# Ustawa z dnia 18 grudnia 2003 r. o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych
 
 *USTAWA z dnia 18 grudnia 2003 r.*
 

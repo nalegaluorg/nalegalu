@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o funduszu sołeckim
+# Ustawa z dnia 21 lutego 2014 r. o funduszu sołeckim
 
 *USTAWA z dnia 21 lutego 2014 r.*
 

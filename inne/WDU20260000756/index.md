@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej
 
 | Pole | Wartość |
 |---|---|
@@ -51,7 +51,6 @@ poz. 1843).
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 16 maja 2019 r.
 o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej
-Art. 31–43. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -506,6 +505,8 @@ Art. 31–43. (pominięte)
 2. Kwotę dopłaty, o której mowa w ust. 1, stosuje się do dnia 31 grudnia 2024 r.
 
 ### DZIAŁ V Przepisy zmieniające
+
+**Art. 31–43.** (pominięte)
 
 ### DZIAŁ VI Przepisy przejściowe, dostosowujące i końcowe
 

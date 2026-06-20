@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Rzeczniku Praw Obywatelskich oraz ustawy o Rzeczniku Praw Dziecka
+# Ustawa z dnia 15 lipca 2011 r. o zmianie ustawy o Rzeczniku Praw Obywatelskich oraz Rzeczniku Praw Dziecka
 
 *USTAWA z dnia 15 lipca 2011 r.*
 

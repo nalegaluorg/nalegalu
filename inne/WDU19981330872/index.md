@@ -412,9 +412,7 @@ source: pdf
 
 **Art. 32.**
 
-1. Z dniem 1 stycznia 1999 r. tworzy się komendę wojewódzką Policji obejmującą zakresem swojego działania obszar województwa mazowieckiego, z wyłączeniem obszaru, o którym mowa w art. 1 w pkt 2 lit. b) ustawy z dnia 27 lipca 2001 r. o zmianie ustawy o Policji, ustawy o działalności ubezpieczeniowej, ustawy Prawo bankowe, ustawy o samorządzie powiatowym oraz ustawy - Przepisy wprowadzające ustawy reformujące administrcację publiczną (Dz.U. Nr 100, poz.
-
-- **1084)** .
+1. Z dniem 1 stycznia 1999 r. tworzy się komendę wojewódzką Policji obejmującą zakresem swojego działania obszar województwa mazowieckiego, z wyłączeniem obszaru, o którym mowa w art. 1 w pkt 2 lit. b) ustawy z dnia 27 lipca 2001 r. o zmianie ustawy o Policji, ustawy o działalności ubezpieczeniowej, ustawy Prawo bankowe, ustawy o samorządzie powiatowym oraz ustawy - Przepisy wprowadzające ustawy reformujące administrcację publiczną (Dz.U. Nr 100, poz. 1084).
 
 2. Z dniem 1 stycznia 1999 r. Komenda Stołeczna Policji staje się jednostką organizacyjną stanowiącą aparat pomocniczy Komendanta Stołecznego Policji, wykonującą swoje zadania na obszarze, o którym mowa w art. 1 w pkt 2 lit. b) ustawy z dnia 27 lipca 2001 r. o zmianie ustawy o Policji, ustawy o działalności ubezpieczeniowej, ustawy - Prawo bankowe, ustawy o samorządzie powiatowym oraz ustawy - Przepisy wprowadzające ustawy reformujące administrcację publiczną (Dz.U. Nr 100, poz. 1084).
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie drogowym oraz ustawy o drogach publicznych
+# Ustawa z dnia 1 lipca 2011 r. o zmianie ustawy o transporcie drogowym oraz ustawy o drogach publicznych
 
 *USTAWA z dnia 1 lipca 2011 r.*
 

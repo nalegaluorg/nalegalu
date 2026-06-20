@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kontroli skarbowej oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 22 września 2006 r. o zmianie ustawy o kontroli skarbowej oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 22 września 2006 r.*
 

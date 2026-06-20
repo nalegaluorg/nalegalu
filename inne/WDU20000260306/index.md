@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi
+# Ustawa z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi.
 
 *USTAWA z dnia 3 marca 2000 r.*
 
@@ -191,9 +191,13 @@ source: pdf
 
 **Art. 15.** Informacje o wynagrodzeniu osób podlegających przepisom ustawy oraz o nagrodach rocznych, świadczeniach dodatkowych i odprawach są jawne i nie podlegają ochronie danych osobowych ani tajemnicy handlowej.
 
-**Art. 15a.** Ograniczeń wynikających z ustawy nie stosuje się do składek podstawowych wnoszonych do pracowniczych programów emerytalnych. Art. 15aa. Ograniczenia wynikające z ustawy stosuje się do wpłat podstawowych i wpłat dodatkowych oraz wpłaty powitalnej i dopłat rocznych dokonywanych do pracowniczych planów kapitałowych, o których mowa w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. poz. 2215 oraz z 2019 r. poz. 1074 i 1572), w zakresie wynagrodzenia i świadczeń dodatkowych.
+**Art. 15a.** Ograniczeń wynikających z ustawy nie stosuje się do składek podstawowych wnoszonych do pracowniczych programów emerytalnych.
 
-**Art. 15b.** Przepisów art. 5 ust. 1, 3 i 4, art. 8, art. 10 i art. 12 nie stosuje się do podmiotów ujętych w wykazie, o którym mowa w art. 12 ust. 2 ustawy z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U. z 2019 r. poz. 1885). Art. 16–29a. (pominięte)
+**Art. 15aa.** Ograniczenia wynikające z ustawy stosuje się do wpłat podstawowych i wpłat dodatkowych oraz wpłaty powitalnej i dopłat rocznych dokonywanych do pracowniczych planów kapitałowych, o których mowa w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. poz. 2215 oraz z 2019 r. poz. 1074 i 1572), w zakresie wynagrodzenia i świadczeń dodatkowych.
+
+**Art. 15b.** Przepisów art. 5 ust. 1, 3 i 4, art. 8, art. 10 i art. 12 nie stosuje się do podmiotów ujętych w wykazie, o którym mowa w art. 12 ust. 2 ustawy z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U. z 2019 r. poz. 1885).
+
+**Art. 16–29a.** (pominięte)
 
 **Art. 29b.**
 

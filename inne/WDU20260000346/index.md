@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o stowarzyszeniach, ustawy o Krajowym Rejestrze Sądowym oraz ustawy o kosztach sądowych w sprawach cywilnych
+# Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy - Prawo o stowarzyszeniach, ustawy o Krajowym Rejestrze Sądowym oraz ustawy o kosztach sądowych w sprawach cywilnych
 
 *USTAWA z dnia 27 lutego 2026 r.*
 

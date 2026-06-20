@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Biura Ochrony Rządu w latach 2007–2011”
+# Ustawa z dnia 12 stycznia 2007 r. o ustanowieniu "Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Biura Ochrony Rządu w latach 2007-2011"
 
 *USTAWA z dnia 12 stycznia 2007 r.*
 

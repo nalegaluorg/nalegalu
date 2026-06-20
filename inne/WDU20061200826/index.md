@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
+# Ustawa z dnia 27 kwietnia 2006 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
 
 *USTAWA z dnia 27 kwietnia 2006 r.*
 

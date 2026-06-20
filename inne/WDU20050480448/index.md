@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dopłatach do umów na budowę niektórych typów statków morskich
+# Ustawa z dnia 3 marca 2005 r. o dopłatach do umów na budowę niektórych typów statków morskich
 
 *USTAWA z dnia 3 marca 2005 r.*
 

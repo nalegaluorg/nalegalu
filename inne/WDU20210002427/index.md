@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
+# Ustawa z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 grudnia 2021 r.*
 
@@ -214,7 +214,9 @@ source: pdf
 
 3. W przypadku gdy dane zawarte w e-AD i zgłoszeniu celnym nie są zgodne, informacja o błędach jest automatycznie wysyłana z Systemu do właściwych władz państwa członkowskiego Unii Europejskiej, z którego wyroby akcyzowe zostały wysłane.
 
-4. W przypadku gdy wyroby akcyzowe, o których mowa w ust. 1, nie zostaną wyprowadzone z terytorium Unii Europejskiej, naczelnik urzędu celno-skarbowego, o którym mowa w ust. 1, powiadamia o tym władze państwa członkowskiego Unii Europejskiej, o których mowa w ust. 3, za pomocą Systemu. Art. 41bb. Jeżeli System jest niedostępny w momencie rozpoczęcia przemieszczania wyrobów akcyzowych z zastosowaniem procedury zawieszenia poboru akcyzy z terytorium kraju w celu dokonania eksportu z terytorium państwa członkowskiego i nie przywrócono dostępności Systemu do momentu złożenia zgłoszenia celnego do procedury wywozu albo procedury tranzytu zewnętrznego, podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. a, przekazuje zgłaszającemu w rozumieniu przepisów prawa celnego kopię dokumentu zastępującego e-AD.”;
+4. W przypadku gdy wyroby akcyzowe, o których mowa w ust. 1, nie zostaną wyprowadzone z terytorium Unii Europejskiej, naczelnik urzędu celno-skarbowego, o którym mowa w ust. 1, powiadamia o tym władze państwa członkowskiego Unii Europejskiej, o których mowa w ust. 3, za pomocą Systemu.
+
+**Art. 41bb.** Jeżeli System jest niedostępny w momencie rozpoczęcia przemieszczania wyrobów akcyzowych z zastosowaniem procedury zawieszenia poboru akcyzy z terytorium kraju w celu dokonania eksportu z terytorium państwa członkowskiego i nie przywrócono dostępności Systemu do momentu złożenia zgłoszenia celnego do procedury wywozu albo procedury tranzytu zewnętrznego, podmiot wysyłający, o którym mowa w art. 2 ust. 1 pkt 31 lit. a, przekazuje zgłaszającemu w rozumieniu przepisów prawa celnego kopię dokumentu zastępującego e-AD.”;
 
 - **22)** w art. 41c dodaje się ust. 3 w brzmieniu: „3. Przepisy ust. 1 i 2 nie mają zastosowania do przemieszczeń, o których mowa w art. 40 ust. 1 pkt 1 lit. c, pkt 2 lit. b oraz ust. 2 pkt 3–5, pkt 10 lit. d oraz pkt 11 lit. d i e.”;
 - **23)** w art. 41e:
@@ -254,9 +256,16 @@ source: pdf
 - **1)** bezpośrednio po dopuszczeniu do obrotu z zastosowaniem zgłoszenia uproszczonego w rozumieniu przepisów prawa celnego z miejsca importu bezpośrednio do odpowiednio składu podatkowego na terytorium kraju, podmiotu pośredniczącego, podmiotu zużywającego albo zużywającego podmiotu gospodarczego,
 - **2)** ze składu podatkowego na terytorium kraju odpowiednio do podmiotu pośredniczącego, podmiotu zużywającego albo zużywającego podmiotu gospodarczego,
 - **3)** od podmiotu pośredniczącego do podmiotu zużywającego – podmiot wysyłający, o którym mowa odpowiednio w art. 2 ust. 1 pkt 31 lit. b albo f, przesyła do Systemu projekt e-DD niezwłocznie po zakończeniu tłoczenia.”;
-- **31)** w dziale III po rozdziale 1a dodaje się rozdział 1aa w brzmieniu: „Rozdział 1aa Wewnątrzwspólnotowe przemieszczanie wyrobów akcyzowych poza procedurą zawieszenia poboru akcyzy z użyciem Systemu Art. 46pa. Wewnątrzwspólnotowe przemieszczanie wyrobów akcyzowych poza procedurą zawieszenia poboru akcyzy z użyciem Systemu odbywa się na podstawie e-SAD lub dokumentu zastępującego e-SAD, jeżeli wyroby wymienione w załączniku nr 2 do ustawy są przemieszczane w ramach:
+- **31)** w dziale III po rozdziale 1a dodaje się rozdział 1aa w brzmieniu: „Rozdział 1aa Wewnątrzwspólnotowe przemieszczanie wyrobów akcyzowych poza procedurą zawieszenia poboru akcyzy z użyciem Systemu
+
+**Art. 46pa.** Wewnątrzwspólnotowe przemieszczanie wyrobów akcyzowych poza procedurą zawieszenia poboru akcyzy z użyciem Systemu odbywa się na podstawie e-SAD lub dokumentu zastępującego e-SAD, jeżeli wyroby wymienione w załączniku nr 2 do ustawy są przemieszczane w ramach:
+
 - **1)** dostawy wewnątrzwspólnotowej od uprawnionego wysyłającego na terytorium kraju do uprawnionego odbiorcy na terytorium państwa członkowskiego;
-- **2)** nabycia wewnątrzwspólnotowego do uprawnionego odbiorcy na terytorium kraju od uprawnionego wysyłającego na terytorium państwa członkowskiego. Art. 46pb. 1. Przemieszczanie wyrobów akcyzowych w przypadkach, o których mowa w art. 46pa, rozpoczyna się z chwilą wyprowadzenia wyrobów akcyzowych z miejsca wysyłki określonego w e-SAD lub w dokumencie zastępującym e-SAD i kończy się z chwilą odbioru wyrobów akcyzowych przez uprawnionego odbiorcę w miejscu odbioru określonym w e-SAD lub w dokumencie zastępującym e-SAD.
+- **2)** nabycia wewnątrzwspólnotowego do uprawnionego odbiorcy na terytorium kraju od uprawnionego wysyłającego na terytorium państwa członkowskiego.
+
+**Art. 46pb.**
+
+1. Przemieszczanie wyrobów akcyzowych w przypadkach, o których mowa w art. 46pa, rozpoczyna się z chwilą wyprowadzenia wyrobów akcyzowych z miejsca wysyłki określonego w e-SAD lub w dokumencie zastępującym e-SAD i kończy się z chwilą odbioru wyrobów akcyzowych przez uprawnionego odbiorcę w miejscu odbioru określonym w e-SAD lub w dokumencie zastępującym e-SAD.
 
 2. W przypadku, o którym mowa w art. 46pa pkt 1, przemieszczanie wyrobów akcyzowych może być rozpoczęte po:
 
@@ -272,9 +281,17 @@ source: pdf
 6. W przypadku, o którym mowa w art. 46pa pkt 2, jeżeli nabywane wewnątrzwspólnotowo wyroby akcyzowe są objęte na terytorium kraju stawką akcyzy inną niż stawka zerowa, przed wyprowadzeniem tych wyrobów z miejsca wysyłki następuje automatyczne odnotowanie:
 
 - **1)** obciążenia zabezpieczenia generalnego złożonego przez uprawnionego odbiorcę na terytorium kraju kwotą akcyzy albo kwotą akcyzy i opłaty paliwowej, wynikającymi z ilości i rodzaju przemieszczanych wewnątrzwspólnotowo wyrobów akcyzowych, albo
-- **2)** objęcia tych wyrobów zabezpieczeniem ryczałtowym tego podmiotu – po przekazaniu przez ten podmiot złożonego na piśmie oświadczenia w sprawie zabezpieczenia akcyzowego, którym będą objęte nabywane wewnątrzwspólnotowo przez ten podmiot wyroby akcyzowe. Art. 46pc. 1. W przypadku, o którym mowa w art. 46pa pkt 1, jeżeli projekt e-SAD zawiera prawidłowe i kompletne dane, w Systemie jest mu automatycznie nadawany numer referencyjny. Po nadaniu numeru referencyjnego dokument ten jest automatycznie przesyłany do uprawnionego wysyłającego na terytorium kraju oraz do władz państwa członkowskiego Unii Europejskiej właściwych dla uprawnionego odbiorcy na terytorium państwa członkowskiego.
+- **2)** objęcia tych wyrobów zabezpieczeniem ryczałtowym tego podmiotu – po przekazaniu przez ten podmiot złożonego na piśmie oświadczenia w sprawie zabezpieczenia akcyzowego, którym będą objęte nabywane wewnątrzwspólnotowo przez ten podmiot wyroby akcyzowe.
 
-2. W przypadku, o którym mowa w art. 46pa pkt 2, e-SAD jest przekazywany do Systemu przez właściwe dla uprawnionego wysyłającego na terytorium państwa członkowskiego władze państwa członkowskiego Unii Europejskiej, a następnie jest automatycznie przekazywany do uprawnionego odbiorcy na terytorium kraju. Art. 46pd. 1. W przypadku, o którym mowa w art. 46pa pkt 2, jeżeli uprawniony odbiorca na terytorium kraju otrzyma z Systemu informację o zamiarze przeprowadzenia kontroli celno-skarbowej odbieranych wyrobów akcyzowych:
+**Art. 46pc.**
+
+1. W przypadku, o którym mowa w art. 46pa pkt 1, jeżeli projekt e-SAD zawiera prawidłowe i kompletne dane, w Systemie jest mu automatycznie nadawany numer referencyjny. Po nadaniu numeru referencyjnego dokument ten jest automatycznie przesyłany do uprawnionego wysyłającego na terytorium kraju oraz do władz państwa członkowskiego Unii Europejskiej właściwych dla uprawnionego odbiorcy na terytorium państwa członkowskiego.
+
+2. W przypadku, o którym mowa w art. 46pa pkt 2, e-SAD jest przekazywany do Systemu przez właściwe dla uprawnionego wysyłającego na terytorium państwa członkowskiego władze państwa członkowskiego Unii Europejskiej, a następnie jest automatycznie przekazywany do uprawnionego odbiorcy na terytorium kraju.
+
+**Art. 46pd.**
+
+1. W przypadku, o którym mowa w art. 46pa pkt 2, jeżeli uprawniony odbiorca na terytorium kraju otrzyma z Systemu informację o zamiarze przeprowadzenia kontroli celno-skarbowej odbieranych wyrobów akcyzowych:
 
 - **1)** niezwłocznie przesyła do Systemu powiadomienie o ich przybyciu;
 - **2)** nie dokonuje rozładunku wyrobów akcyzowych do momentu przeprowadzenia kontroli celno-skarbowej.
@@ -310,9 +327,17 @@ source: pdf
 
 9. W przypadku gdy raport odbioru potwierdza odbiór większej ilości wyrobów akcyzowych niż ilość określona w e-SAD, w Systemie następuje automatyczne obciążenie zabezpieczenia generalnego uprawnionego odbiorcy na terytorium kraju kwotą akcyzy lub kwotą akcyzy i opłaty paliwowej, wynikającymi z ilości i rodzaju odebranych wyrobów akcyzowych stanowiących nadwyżkę, albo automatyczne odnotowanie objęcia tych wyrobów zabezpieczeniem ryczałtowym.
 
-10. W przypadku, o którym mowa w art. 46pa pkt 1, System otrzymuje od władz państwa członkowskiego Unii Europejskiej właściwych dla uprawnionego odbiorcy na terytorium państwa członkowskiego raport odbioru, który następnie jest automatycznie przesyłany z Systemu do uprawnionego wysyłającego na terytorium kraju. Art. 46pe. 1. W przypadku, o którym mowa w art. 46pa pkt 2, jeżeli w momencie zakończenia przemieszczania System jest niedostępny lub do tego momentu nie uzyskano e-SAD, uprawniony odbiorca na terytorium kraju przedstawia właściwemu naczelnikowi urzędu skarbowego, nie później niż w terminie 5 dni od dnia zakończenia przemieszczania, dokument zastępujący raport odbioru, potwierdzający, że przemieszczanie zostało zakończone.
+10. W przypadku, o którym mowa w art. 46pa pkt 1, System otrzymuje od władz państwa członkowskiego Unii Europejskiej właściwych dla uprawnionego odbiorcy na terytorium państwa członkowskiego raport odbioru, który następnie jest automatycznie przesyłany z Systemu do uprawnionego wysyłającego na terytorium kraju.
 
-2. Właściwy naczelnik urzędu skarbowego po uzyskaniu dokumentu zastępującego raport odbioru przesyła ten dokument władzom państwa członkowskiego Unii Europejskiej właściwym dla uprawnionego wysyłającego na terytorium państwa członkowskiego, chyba że dostępność Systemu zostanie niezwłocznie przywrócona i uprawniony odbiorca na terytorium kraju będzie mógł przesłać do Systemu projekt raportu odbioru. Art. 46pf. W przypadku braku raportu odbioru niebędącego skutkiem niedostępności Systemu zakończenie przemieszczania, o którym mowa w art. 46pa pkt 1, może nastąpić na podstawie alternatywnego dowodu dostawy wyrobów akcyzowych przemieszczanych na podstawie e-SAD. Art. 46pg. Przepisy art. 46pa, art. 46pb ust. 1–3 i 5, art. 46pc, art. 46pd ust. 1–3, ust. 4 pkt 1, ust. 8 pkt 1 i ust. 10, art. 46pe oraz art. 46pf stosuje się odpowiednio do nabycia wewnątrzwspólnotowego lub dostawy wewnątrzwspólnotowej alkoholu etylowego całkowicie skażonego środkiem skażającym dopuszczonym we wszystkich państwach członkowskich Unii Europejskiej lub dodatkowymi środkami skażającymi dopuszczonymi przez państwo członkowskie Unii Europejskiej, w którym skażenie następuje, na podstawie rozporządzenia Komisji (WE) nr 3199/93 z dnia 22 listopada 1993 r. w sprawie wzajemnego uznawania procedur całkowitego skażenia alkoholu etylowego do celów zwolnienia z podatku akcyzowego.”;
+**Art. 46pe.**
+
+1. W przypadku, o którym mowa w art. 46pa pkt 2, jeżeli w momencie zakończenia przemieszczania System jest niedostępny lub do tego momentu nie uzyskano e-SAD, uprawniony odbiorca na terytorium kraju przedstawia właściwemu naczelnikowi urzędu skarbowego, nie później niż w terminie 5 dni od dnia zakończenia przemieszczania, dokument zastępujący raport odbioru, potwierdzający, że przemieszczanie zostało zakończone.
+
+2. Właściwy naczelnik urzędu skarbowego po uzyskaniu dokumentu zastępującego raport odbioru przesyła ten dokument władzom państwa członkowskiego Unii Europejskiej właściwym dla uprawnionego wysyłającego na terytorium państwa członkowskiego, chyba że dostępność Systemu zostanie niezwłocznie przywrócona i uprawniony odbiorca na terytorium kraju będzie mógł przesłać do Systemu projekt raportu odbioru.
+
+**Art. 46pf.** W przypadku braku raportu odbioru niebędącego skutkiem niedostępności Systemu zakończenie przemieszczania, o którym mowa w art. 46pa pkt 1, może nastąpić na podstawie alternatywnego dowodu dostawy wyrobów akcyzowych przemieszczanych na podstawie e-SAD.
+
+**Art. 46pg.** Przepisy art. 46pa, art. 46pb ust. 1–3 i 5, art. 46pc, art. 46pd ust. 1–3, ust. 4 pkt 1, ust. 8 pkt 1 i ust. 10, art. 46pe oraz art. 46pf stosuje się odpowiednio do nabycia wewnątrzwspólnotowego lub dostawy wewnątrzwspólnotowej alkoholu etylowego całkowicie skażonego środkiem skażającym dopuszczonym we wszystkich państwach członkowskich Unii Europejskiej lub dodatkowymi środkami skażającymi dopuszczonymi przez państwo członkowskie Unii Europejskiej, w którym skażenie następuje, na podstawie rozporządzenia Komisji (WE) nr 3199/93 z dnia 22 listopada 1993 r. w sprawie wzajemnego uznawania procedur całkowitego skażenia alkoholu etylowego do celów zwolnienia z podatku akcyzowego.”;
 
 - **32)** w art. 46q:
     - **a)** w ust. 2 po pkt 7 dodaje się pkt 7a–7c w brzmieniu: „7a) uprawnieni wysyłający na terytorium kraju;

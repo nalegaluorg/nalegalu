@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych
+# Ustawa z dnia 4 marca 2005 r. o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych
 
 *USTAWA z dnia 4 marca 2005 r.*
 

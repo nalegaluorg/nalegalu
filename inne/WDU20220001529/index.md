@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie felczera
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie felczera
 
 *USTAWA z dnia 20 lipca 1950 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pracownikach sądów i prokuratury
+# Ustawa z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury.
 
 *USTAWA z dnia 18 grudnia 1998 r.*
 

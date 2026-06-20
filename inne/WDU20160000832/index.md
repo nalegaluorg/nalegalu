@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw
+# Ustawa z dnia 9 czerwca 2016 r. zmieniająca ustawę o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 czerwca 2016 r.*
 

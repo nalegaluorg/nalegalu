@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych
+# Ustawa z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych
 
 *USTAWA z dnia 8 lipca 2010 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2010-08-10 |
 | Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101430963) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/963/text.pdf) |
-
-Art. 32–35. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -467,6 +465,8 @@ Art. 32–35. (pominięte)
 3. Do skarg na decyzje o środowiskowych uwarunkowaniach nie stosuje się terminów, o których mowa w art. 86f ust. 2–4 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 #### Rozdział 4 Przepisy zmieniające, przepis przejściowy i końcowy
+
+**Art. 32–35.** (pominięte)
 
 **Art. 36.** W przypadku gdy lokalizacja inwestycji w zakresie budowli przeciwpowodziowych przewidziana jest w obowiązującym miejscowym planie zagospodarowania przestrzennego, albo wydano dla niej decyzję o ustaleniu lokalizacji inwestycji celu publicznego lub decyzję o warunkach zabudowy, stosuje się przepisy niniejszej ustawy.
 

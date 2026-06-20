@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw
+# Ustawa z dnia 10 maja 2018 r. o zmianie ustawy - Prawo telekomunikacyjne oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|

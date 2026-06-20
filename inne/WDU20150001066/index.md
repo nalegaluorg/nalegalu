@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz niektórych innych ustaw
+# Ustawa z dnia 15 maja 2015 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 maja 2015 r.*
 

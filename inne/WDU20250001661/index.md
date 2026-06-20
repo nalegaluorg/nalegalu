@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o układach zbiorowych pracy i porozumieniach zbiorowych
+# Ustawa z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych
 
 *USTAWA z dnia 5 listopada 2025 r.*
 

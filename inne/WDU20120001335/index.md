@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie zakresu obowiązywania Protokołu fakultatywnego do Konwencji o prawach dziecka w sprawie angażowania dzieci w konflikty zbrojne, przyjętego dnia 25 maja 2000 r. w Nowym Jorku
+# Ustawa z dnia 10 października 2012 r. o zmianie zakresu obowiązywania Protokołu fakultatywnego do Konwencji o prawach dziecka w sprawie angażowania dzieci w konflikty zbrojne, przyjętego dnia 25 maja 2000 r. w Nowym Jorku
 
 *USTAWA z dnia 10 października 2012 r.*
 

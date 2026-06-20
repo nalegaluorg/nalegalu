@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Przepisy wprowadzające ustawę – Kodeks wyborczy
+# Ustawa z dnia 12 października 2012 r. o zmianie ustawy - Przepisy wprowadzające ustawę - Kodeks wyborczy
 
 *USTAWA z dnia 12 października 2012 r.*
 

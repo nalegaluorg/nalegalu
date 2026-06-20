@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego
+# Ustawa z dnia 19 marca 2009 r. o zmianie ustawy - Kodeks postępowania cywilnego
 
 *USTAWA Opracowano stawie: z dnia 19 marca 2009 r. r.*
 

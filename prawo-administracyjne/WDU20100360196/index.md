@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów administracyjnych oraz ustawy – Prawo o postępowaniu przed sądami administracyjnymi
+# Ustawa z dnia 12 lutego 2010 r. o zmianie ustawy - Prawo o ustroju sądów administracyjnych oraz ustawy - Prawo o postępowaniu przed sądami administracyjnymi
 
 *USTAWA z dnia 12 lutego 2010 r.*
 

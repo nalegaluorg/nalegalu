@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie osób i mienia oraz ustawy o Żandarmerii Wojskowej i wojskowych organach porządkowych
+# Ustawa z dnia 21 stycznia 2021 r. o zmianie ustawy o ochronie osób i mienia oraz ustawy o Żandarmerii Wojskowej i wojskowych organach porządkowych
 
 *USTAWA z dnia 21 stycznia 2021 r.*
 

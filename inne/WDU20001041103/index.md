@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kontroli skarbowej i ustawy o Inspekcji Celnej w związku z dostosowaniem do prawa Unii Europejskiej
+# Ustawa z dnia 12 października 2000 r. o zmianie ustawy o kontroli skarbowej i ustawy o Inspekcji Celnej w związku z dostosowaniem do prawa Unii Europejskiej.
 
 *USTAWA z dnia 12 października 2000 r.*
 

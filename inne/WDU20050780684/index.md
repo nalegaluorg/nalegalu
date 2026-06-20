@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej
+# Ustawa z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej
 
 *USTAWA z dnia 15 kwietnia 2005 r.*
 
@@ -600,7 +600,11 @@ source: pdf
 - **3)** numery rachunków bankowych, na które zakład będzie dokonywał spłat należności głównej z tytułu zwiększenia kwoty pożyczki, o którym mowa w ust. 3, i odsetek od tej kwoty oraz wynagrodzenia dla BGK za nadzorowanie wykonania umowy o zmianie umowy o pożyczkę;
 - **4)** rodzaje zabezpieczeń, o których mowa w ust. 1 pkt 4.
 
-8. Do zwiększenia kwoty pożyczki, o którym mowa w ust. 3, stosuje się odpowiednio przepisy art. 35 ust. 6, 7, 11–13 i 16. Art. 35ba. 1. Skarb Państwa udziela pożyczki zakładowi, który w terminie do dnia 1 października 2007 r. złoży wniosek o zwiększenie kwoty pożyczki, o którym mowa w ust. 3, jeżeli zakład ten, w dniu złożenia wniosku, spełnia łącznie następujące warunki:
+8. Do zwiększenia kwoty pożyczki, o którym mowa w ust. 3, stosuje się odpowiednio przepisy art. 35 ust. 6, 7, 11–13 i 16.
+
+**Art. 35ba.**
+
+1. Skarb Państwa udziela pożyczki zakładowi, który w terminie do dnia 1 października 2007 r. złoży wniosek o zwiększenie kwoty pożyczki, o którym mowa w ust. 3, jeżeli zakład ten, w dniu złożenia wniosku, spełnia łącznie następujące warunki:
 
 - **1)** udzielono mu pożyczki w trybie określonym w art. 35;
 - **2)** uzyskał ostateczną decyzję o warunkach restrukturyzacji;

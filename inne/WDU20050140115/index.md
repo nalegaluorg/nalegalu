@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz o zmianie innych ustaw
+# Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz o zmianie innych ustaw
 
 *USTAWA z dnia 22 grudnia 2004 r.*
 

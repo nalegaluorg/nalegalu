@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Polskim Bonie Turystycznym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Polskim Bonie Turystycznym
 
 | Pole | Wartość |
 |---|---|
@@ -42,7 +42,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 15 lipca 2020 r.
 o Polskim Bonie Turystycznym
-Art. 40–43. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -462,6 +461,8 @@ Art. 40–43. (pominięte)
 **Art. 39.** Kto przyjmuje płatność za realizację bonu niezgodnie z przeznaczeniem, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
 
 #### Rozdział 7 Przepisy zmieniające, dostosowujące i końcowe
+
+**Art. 40–43.** (pominięte)
 
 **Art. 44.** Minister właściwy do spraw turystyki poda do publicznej wiadomości w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra informację o terminie możliwości:
 

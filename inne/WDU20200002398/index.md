@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dotacji przeznaczonej dla niektórych podmiotów
+# Ustawa z dnia 27 listopada 2020 r. o zmianie ustawy o dotacji przeznaczonej dla niektórych podmiotów
 
 *USTAWA z dnia 27 listopada 2020 r.*
 

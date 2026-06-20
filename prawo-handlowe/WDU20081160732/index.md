@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości oraz ustawy o swobodzie działalności gospodarczej
+# Ustawa z dnia 30 maja 2008 r. o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości oraz ustawy o swobodzie działalności gospodarczej
 
 *USTAWA z dnia 30 maja 2008 r.*
 

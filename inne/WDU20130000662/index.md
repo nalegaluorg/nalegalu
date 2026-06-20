@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów powszechnych
+# Ustawa z dnia 10 maja 2013 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych
 
 *USTAWA z dnia 10 maja 2013 r.*
 
@@ -44,7 +44,11 @@ source: pdf
 
 § 2. Do czasu ukończenia stażu asystenckiego asystenta sędziego zatrudnia się na podstawie umowy o pracę na czas określony, z możliwością jej wcześniejszego rozwiązania za dwutygodniowym wypowiedzeniem.
 
-§ 3. Z obowiązku odbycia stażu asystenckiego są zwolnione osoby, które ukończyły aplikację ogólną lub zdały egzamin sędziowski, prokuratorski, notarialny, adwokacki lub radcowski. Art. 155cb. § 1. Staż asystencki trwa 12 miesięcy i ma na celu teoretyczne i praktyczne przygotowanie do wykonywania czynności asystenta sędziego.
+§ 3. Z obowiązku odbycia stażu asystenckiego są zwolnione osoby, które ukończyły aplikację ogólną lub zdały egzamin sędziowski, prokuratorski, notarialny, adwokacki lub radcowski.
+
+**Art. 155cb.**
+
+§ 1. Staż asystencki trwa 12 miesięcy i ma na celu teoretyczne i praktyczne przygotowanie do wykonywania czynności asystenta sędziego.
 
 § 2. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, szczegółowe warunki organizacji i trybu odbywania stażu asystenckiego, harmonogram zajęć praktycznych i teoretycznych, zakres programowy stażu asystenckiego oraz wzór dokumentu potwierdzającego odbycie stażu asystenckiego, mając na względzie konieczność zapewnienia odpowiednio wysokiego poziomu przygotowania do wykonywania czynności na stanowisku asystenta sędziego.”.
 

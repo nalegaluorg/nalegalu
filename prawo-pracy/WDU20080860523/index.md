@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw
+# Ustawa z dnia 28 marca 2008 r. zmieniająca ustawę o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw
 
 *USTAWA z dnia 28 marca 2008 r.*
 

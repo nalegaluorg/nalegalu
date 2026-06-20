@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego
+# Ustawa z dnia 13 czerwca 2013 r. o zmianie ustawy - Kodeks postępowania cywilnego
 
 *USTAWA z dnia 13 czerwca 2013 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy społecznej
+# Ustawa z dnia 23 października 2009 r. o zmianie ustawy o pomocy społecznej
 
 *USTAWA z dnia 23 października 2009 r.*
 

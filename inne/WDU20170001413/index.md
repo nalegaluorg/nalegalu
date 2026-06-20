@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi
+# Ustawa z dnia 7 lipca 2017 r. o zmianie ustawy o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi
 
 *USTAWA z dnia 7 lipca 2017 r.*
 

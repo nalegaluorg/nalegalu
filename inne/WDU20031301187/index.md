@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizmach genetycznie zmodyfikowanych oraz ustawy o warunkach zdrowotnych żywności i żywienia
+# Ustawa z dnia 21 maja 2003 r. o zmianie ustawy o organizmach genetycznie zmodyfikowanych oraz ustawy o warunkach zdrowotnych żywności i żywienia
 
 *USTAWA z dnia 21 maja 2003 r.*
 

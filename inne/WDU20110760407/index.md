@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej
+# Ustawa z dnia 3 lutego 2011 r. o zmianie ustawy o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 3 lutego 2011 r.*
 

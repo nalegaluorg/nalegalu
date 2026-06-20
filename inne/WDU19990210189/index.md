@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie nadania statutu Powszechnej Kasie Oszczędności – bankowi państwowemu.
+# Rozporządzenie Ministra Skarbu Państwa z dnia 23 lutego 1999 r. w sprawie nadania statutu Powszechnej Kasie Oszczędności - bankowi państwowemu.
 
 | Pole | Wartość |
 |---|---|

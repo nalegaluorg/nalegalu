@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dystrybucji ubezpieczeń
+# Ustawa z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń
 
 *USTAWA z dnia 15 grudnia 2017 r.*
 
@@ -27,7 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002486) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2486/text.pdf) |
 
-Art. 91–100. (pominięte)
 1) umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej, w tym znajomość warunków, świadczeń gwarantowanych i ryzyk dodatkowych;
 2) podstawowe przepisy regulujące dystrybucję ubezpieczeń, a także z zakresu prawa ochrony konsumentów, ochrony danych osobowych, prawa podatkowego oraz zabezpieczenia społecznego i prawa pracy;
 3) obsługa roszczeń;
@@ -1588,7 +1587,7 @@ i) wypowiadanie umów reasekuracji;
 - **1)** imieniem i nazwiskiem lub nazwą (firmą) ukaranego podmiotu;
 - **2)** identyfikatorem podmiotu prawnego ukaranego podmiotu, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany organowi nadzoru;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 6. Organ nadzoru informuje EIOPA o podaniu do publicznej wiadomości informacji, o której mowa w ust. 1, o odroczeniu lub zaniechaniu podania jej do publicznej wiadomości lub o podaniu jej do publicznej wiadomości z pominięciem danych, o których mowa w ust. 4, oraz o aktualizacji takiej informacji dokonanej zgodnie z ust. 5.
 
@@ -1622,6 +1621,8 @@ i) wypowiadanie umów reasekuracji;
 2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu osoby prawnej.
 
 #### Rozdział 8 Zmiany w przepisach
+
+**Art. 91–100.** (pominięte)
 
 #### Rozdział 9 Przepisy epizodyczne, przejściowe i dostosowujące
 

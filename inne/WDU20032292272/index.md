@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o opłatach w sprawach karnych
+# Ustawa z dnia 27 listopada 2003 r. o zmianie ustawy o opłatach w sprawach karnych
 
 *USTAWA z dnia 27 listopada 2003 r.*
 

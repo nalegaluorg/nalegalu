@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie wewnętrznych służb ochrony.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 listopada 1998 r. w sprawie wewnętrznych służb ochrony.
 
 | Pole | Wartość |
 |---|---|

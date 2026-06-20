@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie instytucji rozwoju
+# Ustawa z dnia 29 października 2021 r. o zmianie ustawy o systemie instytucji rozwoju
 
 *USTAWA z dnia 29 października 2021 r.*
 

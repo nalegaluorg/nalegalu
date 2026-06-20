@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pracy na statkach rybackich
+# Ustawa z dnia 11 września 2019 r. o pracy na statkach rybackich
 
 *USTAWA z dnia 11 września 2019 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-11-13 |
 | Ostatnia zmiana | 2025-10-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002197) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2197/text.pdf) |
-
-Art. 65–68. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -842,6 +840,8 @@ Art. 65–68. (pominięte)
 2. Orzekanie w sprawach o czyny, o których mowa w art. 59–63, następuje na podstawie wniosku o ukaranie składanego przez dyrektora urzędu morskiego lub inspektora pracy, w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
+
+**Art. 65–68.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i przepis końcowy
 

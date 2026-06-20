@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy
 
 *USTAWA z dnia 30 października 2002 r.*
 

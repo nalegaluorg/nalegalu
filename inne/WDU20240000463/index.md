@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Akademii Kopernikańskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Akademii Kopernikańskiej
 
 | Pole | Wartość |
 |---|---|
@@ -28,7 +28,6 @@ source: pdf
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 kwietnia 2022 r. o Akademii Kopernikańskiej (Dz. U. poz. 1459), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 54–58 ustawy z dnia 28 kwietnia 2022 r. o Akademii Kopernikańskiej (Dz. U. poz. 1459), które stanowią: „Art. 54. W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2022 r. poz. 1215) w art. 2 pkt 4 otrzymuje brzmienie: „4) Prezesa Polskiej Akademii Nauk, Sekretarza Akademii Kopernikańskiej, sekretarza stanu, członka Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15, członka Krajowej Rady Radiofonii i Telewizji, pierwszego zastępcy Prezesa Narodowego Banku Polskiego, podsekretarza stanu (wiceministra), wiceprezesa Narodowego Banku Polskiego, Zastępcy Rzecznika Praw Obywatelskich, Zastępcy Rzecznika Praw Dziecka, Zastępcy Prezesa Urzędu Ochrony Danych Osobowych, Zastępcy Rzecznika Finansowego, zastępcy Rzecznika Małych i Średnich Przedsiębiorców, kierownika urzędu centralnego, wiceprezesa Polskiej Akademii Nauk, wojewody, zastępcy kierownika urzędu centralnego, wicewojewody.”.
-Art. 54–58. (pominięte)
 
 **Art. 55.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm. ) w art. 21 w ust. 1 po pkt 39f dodaje się pkt 39g w brzmieniu: „39g) przychody z tytułu nagród, stypendiów i grantów przyznawanych na podstawie ustawy z dnia 28 kwietnia 2022 r. o Akademii Kopernikańskiej (Dz. U. poz. 1459);”.
 
@@ -653,6 +652,8 @@ Art. 54–58. (pominięte)
 2. Kongres organizowany jest w miejscu związanym z życiem lub działalnością Mikołaja Kopernika.
 
 #### Rozdział 12 Przepisy zmieniające oraz dostosowujące i przepis końcowy
+
+**Art. 54–58.** (pominięte)
 
 **Art. 59.** Tworzy się Akademię.
 

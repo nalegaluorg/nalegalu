@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz ustawy o dozorze technicznym
+# Ustawa z dnia 8 listopada 2013 r. o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o dozorze technicznym
 
 *USTAWA z dnia 8 listopada 2013 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowej Szkole Sądownictwa i Prokuratury
+# Ustawa z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury
 
 *USTAWA z dnia 23 stycznia 2009 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2009-02-17 |
 | Ostatnia zmiana | 2026-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090260157) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/157/text.pdf) |
-
-Art. 57–64. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -68,9 +66,7 @@ Art. 57–64. (pominięte)
 
 2c. W przypadku akt mających postać elektroniczną kopie akt przekazuje się Krajowej Szkole na informatycznym nośniku danych. W przypadku protokołu sporządzonego za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk Krajowej Szkole udostępnia się zapis dźwięku albo obrazu i dźwięku przy użyciu urządzenia służącego do odtworzenia zapisu, za pomocą konta w systemie teleinformatycznym albo na informatycznym nośniku danych.
 
-3. Krajowa Szkoła ma prawo używania okrągłej pieczęci z wizerunkiem orła, ustalonym dla godła Rzeczypospolitej Polskiej, oraz nazwą szkoły w otoku na podstawie przepisów ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz.
-
-- **1509)** .
+3. Krajowa Szkoła ma prawo używania okrągłej pieczęci z wizerunkiem orła, ustalonym dla godła Rzeczypospolitej Polskiej, oraz nazwą szkoły w otoku na podstawie przepisów ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509).
 
 **Art. 3.** Minister Sprawiedliwości, w drodze rozporządzenia, nadaje statut Krajowej Szkole, określający jej ustrój, organizację, siedzibę oraz symbole, mając na uwadze konieczność stworzenia odpowiednich warunków organizacyjnych niezbędnych dla prawidłowej realizacji zadań przez Krajową Szkołę.
 
@@ -1152,6 +1148,8 @@ Art. 57–64. (pominięte)
 2. Minister Sprawiedliwości jest administratorem danych osobowych przetwarzanych w celu realizacji jego zadań, obowiązków lub uprawnień wynikających z ustawy.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 57–64.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

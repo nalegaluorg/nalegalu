@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego
+# Ustawa z dnia 3 grudnia 1993 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego.
 
 | Pole | Wartość |
 |---|---|

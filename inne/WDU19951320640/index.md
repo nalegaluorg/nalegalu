@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+# Ustawa z dnia 22 września 1995 r. o zmianie ustawy - Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|

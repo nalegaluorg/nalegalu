@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o doręczeniach elektronicznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o doręczeniach elektronicznych
 
 *USTAWA z dnia 18 listopada 2020 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2026-01-05 |
 | Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/3/text.pdf) |
-
-Art. 61–146. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -578,9 +576,7 @@ Art. 61–146. (pominięte)
 
 6. Wniosek o wykreślenie adresu do doręczeń elektronicznych z bazy adresów elektronicznych, o którym mowa w ust. 1 pkt 4 lit. g, podmiotu niepublicznego korzystającego z kwalifikowanej usługi rejestrowanego doręczenia elektronicznego może zostać złożony za pośrednictwem systemu teleinformatycznego kwalifikowanego dostawcy usług zaufania. Przepis art. 30 ust. 1 pkt 1 stosuje się odpowiednio.
 
-7. Do czynności, o której mowa w ust. 4, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz.
-
-- **1691)** .
+7. Do czynności, o której mowa w ust. 4, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
 **Art. 36.**
 
@@ -911,6 +907,8 @@ Art. 61–146. (pominięte)
 6. Dane, o których mowa w art. 58 ust. 1 pkt 3, są udostępniane operatorowi wyznaczonemu i kwalifikowanym dostawcom usług zaufania świadczącym kwalifikowaną usługę rejestrowanego doręczenia elektronicznego, dysponującym przekazanym przez nadawcę adresem do doręczeń elektronicznych adresata, w celu przekazania wiadomości do operatora wyznaczonego albo kwalifikowanego dostawcy usług zaufania świadczącego kwalifikowaną usługę rejestrowanego doręczenia elektronicznego, obsługującego adresata.
 
 #### Rozdział 7 Zmiany w przepisach
+
+**Art. 61–146.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe, dostosowujące i przepis końcowy
 

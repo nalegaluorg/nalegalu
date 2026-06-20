@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o radcach prawnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o radcach prawnych
 
 *USTAWA z dnia 6 lipca 1982 r.*
 

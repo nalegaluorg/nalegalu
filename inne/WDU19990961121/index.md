@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowego zakresu działania Ministra Skarbu Państwa.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 30 listopada 1999 r. w sprawie szczegółowego zakresu działania Ministra Skarbu Państwa.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
+# Ustawa z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 
 *USTAWA z dnia 9 czerwca 2006 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zwierząt i ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt
+# Ustawa z dnia 8 grudnia 2006 r. o zmianie ustawy o ochronie zwierząt i ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt
 
 *USTAWA z dnia 8 grudnia 2006 r.*
 

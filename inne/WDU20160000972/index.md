@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach rodzinnych oraz ustawy o ustaleniu i wypłacie zasiłków dla opiekunów
+# Ustawa z dnia 20 maja 2016 r. o zmianie ustawy o świadczeniach rodzinnych oraz ustawy o ustaleniu i wypłacie zasiłków dla opiekunów
 
 *USTAWA z dnia 20 maja 2016 r.*
 

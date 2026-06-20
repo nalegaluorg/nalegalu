@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia innych terminów wypełniania obowiązków w zakresie ewidencji oraz w zakresie sporządzenia, zatwierdzenia, udostępnienia i przekazania do właściwego rejestru, jednostki lub organu sprawozdań lub informacji Na podstawie art. 15zzh ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, 567 i 568) zarządza się, co następuje:
+# Rozporządzenie Ministra Finansów z dnia 31 marca 2020 r. w sprawie określenia innych terminów wypełniania obowiązków w zakresie ewidencji oraz w zakresie sporządzenia, zatwierdzenia, udostępnienia i przekazania do właściwego rejestru, jednostki lub organu sprawozdań lub informacji
 
 | Pole | Wartość |
 |---|---|

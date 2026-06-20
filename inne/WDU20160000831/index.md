@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o efektywności energetycznej
+# Ustawa z dnia 20 maja 2016 r. o efektywności energetycznej
 
 *USTAWA z dnia 20 maja 2016 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2016-06-11 |
 | Ostatnia zmiana | 2025-11-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000831) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/831/text.pdf) |
-
-Art. 43–48. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -787,6 +785,8 @@ Art. 43–48. (pominięte)
 3. Do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621 i 622). Kara pieniężna podlega ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 43–48.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe
 

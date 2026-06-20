@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych
+# Ustawa z dnia 21 czerwca 1990 r. o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych.
 
 *USTAWA z dnia 21 czerwca 1990 r.*
 

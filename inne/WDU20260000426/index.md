@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 27 lutego 2026 r.*
 
@@ -150,9 +150,17 @@ source: pdf
 
 8. Dla ustalenia wartości finansowania lub dofinansowania inwestycji, o której mowa w ust. 1, w zakresie, w jakim następuje ono z wykorzystaniem skarbowych papierów wartościowych, przyjmuje się wartość nominalną tych skarbowych papierów wartościowych.
 
-9. Podmiot realizujący inwestycję, o której mowa w ust. 1, nie może w celu uniknięcia stosowania przepisu ust. 1 dzielić inwestycji. Art. 133ab. 1. Jeżeli szacunkowy łączny koszt inwestycji, o której mowa w art. 133aa ust. 1, przekracza 500 000 tys. zł, podmiot, o którym mowa w art. 133aa ust. 4, publikuje ocenę inwestycji w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu go obsługującego.
+9. Podmiot realizujący inwestycję, o której mowa w ust. 1, nie może w celu uniknięcia stosowania przepisu ust. 1 dzielić inwestycji.
 
-2. Przepisu ust. 1 nie stosuje się w przypadku, o którym mowa w art. 133aa ust. 6. Art. 133ac. 1. W przypadku gdy wartość kosztorysowa inwestycji, o której mowa w art. 133aa ust. 1, w odniesieniu do której podjęto decyzję o realizacji, przekracza kwotę 100 000 tys. zł, właściwy dysponent części budżetowej będący ministrem, kierownikiem urzędu centralnego lub wojewodą corocznie sporządza informację o inwestycji.
+**Art. 133ab.**
+
+1. Jeżeli szacunkowy łączny koszt inwestycji, o której mowa w art. 133aa ust. 1, przekracza 500 000 tys. zł, podmiot, o którym mowa w art. 133aa ust. 4, publikuje ocenę inwestycji w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu go obsługującego.
+
+2. Przepisu ust. 1 nie stosuje się w przypadku, o którym mowa w art. 133aa ust. 6.
+
+**Art. 133ac.**
+
+1. W przypadku gdy wartość kosztorysowa inwestycji, o której mowa w art. 133aa ust. 1, w odniesieniu do której podjęto decyzję o realizacji, przekracza kwotę 100 000 tys. zł, właściwy dysponent części budżetowej będący ministrem, kierownikiem urzędu centralnego lub wojewodą corocznie sporządza informację o inwestycji.
 
 2. Informacja, o której mowa w ust. 1, jest sporządzana także w przypadku inwestycji finansowanej lub dofinansowanej z wydatków lub skarbowych papierów wartościowych, o których mowa odpowiednio w art. 133aa ust. 1 pkt 1 lit. b i c i pkt 2.
 

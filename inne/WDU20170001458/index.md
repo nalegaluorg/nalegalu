@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych
+# Ustawa z dnia 7 lipca 2017 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych
 
 *USTAWA z dnia 7 lipca 2017 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów
+# Ustawa z dnia 15 lutego 2002 r. o zmianie ustawy o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów.
 
 *USTAWA z dnia 15 lutego 2002 r.*
 

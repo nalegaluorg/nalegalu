@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wyrobach budowlanych oraz ustawy o systemie oceny zgodności
+# Ustawa z dnia 21 maja 2010 r. o zmianie ustawy o wyrobach budowlanych oraz ustawy o systemie oceny zgodności
 
 *USTAWA z dnia 21 maja 2010 r.*
 

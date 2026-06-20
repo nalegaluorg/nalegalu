@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych
 
 | Pole | Wartość |
 |---|---|
@@ -32,7 +32,6 @@ Czynności podjęte w tych sprawach pozostają w mocy.” „Art. 29. Ustawa wch
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 28 listopada 2014 r.
 o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych
-Art. 50–63. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -541,6 +540,8 @@ Art. 50–63. (pominięte)
 **Art. 49.** Dokumentację komisje lekarskie przechowują i udostępniają na zasadach określonych w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675, 1692 i 1972).
 
 ### DZIAŁ V Zmiany w przepisach obowiązujących
+
+**Art. 50–63.** (pominięte)
 
 ### DZIAŁ VI Przepisy przejściowe, dostosowujące i końcowy
 

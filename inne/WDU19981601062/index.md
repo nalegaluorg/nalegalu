@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o regionalnych izbach obrachunkowych
+# Ustawa z dnia 18 grudnia 1998 r. o zmianie ustawy o regionalnych izbach obrachunkowych.
 
 *USTAWA z dnia 18 grudnia 1998 r.*
 

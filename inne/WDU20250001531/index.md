@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Centralnym Porcie Komunikacyjnym
+# Ustawa z dnia 24 września 2025 r. o zmianie ustawy o Centralnym Porcie Komunikacyjnym
 
 *USTAWA z dnia 24 września 2025 r.*
 

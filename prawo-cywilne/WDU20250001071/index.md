@@ -4515,7 +4515,7 @@ source: pdf
 
 § 2. Umowa spółki powinna być stwierdzona pismem. <§ 3. Jeżeli przepis ustawy tak stanowi, zawarcie umowy spółki lub wykonanie innej czynności dotyczącej spółki może nastąpić także z wykorzystaniem wzoru umowy lub innych wzorów udostępnionych w systemie teleinformatycznym Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
 
-§ 4. Czynności, o których mowa w § 1, są wykonywane w systemie teleinformatycznym Centralnej Ewidencji i Informacji o Działalności Gospodarczej w sposób określony w przepisach o Centralnej Ewidencji i Informacji o Działalności Gospodarczej.>
+§ 4. Czynności, o których mowa w § 1, są wykonywane w systemie teleinformatycznym Centralnej Ewidencji i Informacji o Działalności Gospodarczej w sposób określony w przepisach o Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
 
 **Art. 861.**
 

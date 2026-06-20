@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku tonażowym
+# Ustawa z dnia 8 listopada 2013 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku tonażowym
 
 *USTAWA z dnia 8 listopada 2013 r.*
 

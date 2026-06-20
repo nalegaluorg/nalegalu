@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie Polskiej Klasyfikacji Statystycznej Dotyczącej Działalności i Urządzeń Związanych z Ochroną Środowiska.
+# Rozporządzenie Rady Ministrów z dnia 2 marca 1999 r. w sprawie Polskiej Klasyfikacji Statystycznej Dotyczącej Działalności i Urządzeń Związanych z Ochroną Środowiska.
 
 | Pole | Wartość |
 |---|---|

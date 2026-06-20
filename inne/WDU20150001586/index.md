@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo lotnicze
+# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy - Prawo lotnicze
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 
@@ -45,7 +45,12 @@ source: pdf
 
 4. Uprawniony podmiot, o którym mowa w art. 3 ust. 1 rozporządzenia nr 550/2004/WE, sprawujący swoją funkcję bez ważnego upoważnienia, podlega karze pieniężnej w wysokości 40 000 zł.”;
 
-- **7)** po art. 209u dodaje się art. 209ua–209uc w brzmieniu: „Art. 209ua. Podmiot zarządzający przepływem ruchu lotniczego, o którym mowa w art. 2 pkt 5 rozporządzenia nr 255/2010/UE, który narusza obowiązek określony w art. 67fa ust. 1, podlega karze pieniężnej w wysokości do 50 000 zł. Art. 209ub. Koordynator, o którym mowa w art. 67b, lub zarządzający lotniskiem, który narusza obowiązek określony w art. 67fa ust. 2, podlega karze pieniężnej w wysokości do 50 000 zł. Art. 209uc. Zarządzający lotniskiem, który narusza obowiązek określony w art. 68 ust. 3 pkt 1a, podlega karze pieniężnej w wysokości do 50 000 zł.”;
+- **7)** po art. 209u dodaje się art. 209ua–209uc w brzmieniu: „Art. 209ua. Podmiot zarządzający przepływem ruchu lotniczego, o którym mowa w art. 2 pkt 5 rozporządzenia nr 255/2010/UE, który narusza obowiązek określony w art. 67fa ust. 1, podlega karze pieniężnej w wysokości do 50 000 zł.
+
+**Art. 209ub.** Koordynator, o którym mowa w art. 67b, lub zarządzający lotniskiem, który narusza obowiązek określony w art. 67fa ust. 2, podlega karze pieniężnej w wysokości do 50 000 zł.
+
+**Art. 209uc.** Zarządzający lotniskiem, który narusza obowiązek określony w art. 68 ust. 3 pkt 1a, podlega karze pieniężnej w wysokości do 50 000 zł.”;
+
 - **8)** w art. 209w ust. 1 i 2 otrzymują brzmienie: „1. Kary pieniężne, o których mowa w art. 209a–209uc, nakłada Prezes Urzędu, w drodze decyzji administracyjnej.
 
 2. Nakładając kary pieniężne, o których mowa w art. 209c ust. 2 w zakresie naruszeń, o których mowa w pkt 3.2–3.6, 3.9 i 3.10 załącznika nr 3 do ustawy, art. 209e, art. 209f, art. 209l, art. 209m, art. 209s, art. 209t lub art. 209ua–209uc, Prezes Urzędu bierze pod uwagę stopień naruszenia, okoliczności naruszenia oraz wielkość przedsiębiorstwa.”;

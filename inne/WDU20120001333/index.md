@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie zakresu obowiązywania Konwencji o prawach dziecka, przyjętej dnia 20 listopada 1989 r.
+# Ustawa z dnia 10 października 2012 r. o zmianie zakresu obowiązywania Konwencji o prawach dziecka, przyjętej dnia 20 listopada 1989 r. w Nowym Jorku
 
 *USTAWA z dnia 10 października 2012 r.*
 

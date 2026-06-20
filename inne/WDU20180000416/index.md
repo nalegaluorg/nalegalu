@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wykonywaniu niektórych czynności organu centralnego w sprawach rodzinnych z zakresu obrotu prawnego na podstawie prawa Unii Europejskiej i umów międzynarodowych
+# Ustawa z dnia 26 stycznia 2018 r. o wykonywaniu niektórych czynności organu centralnego w sprawach rodzinnych z zakresu obrotu prawnego na podstawie prawa Unii Europejskiej i umów międzynarodowych
 
 *USTAWA z dnia 26 stycznia 2018 r.*
 
@@ -180,7 +180,9 @@ source: pdf
 
 1. Minister Sprawiedliwości, minister właściwy do spraw zagranicznych oraz właściwy konsul Rzeczypospolitej Polskiej wymieniają informacje niezbędne do wykonania zadań polskiego organu centralnego wskazanych w przepisach konwencji i rozporządzenia, o których mowa w art. 1.
 
-2. Wymiana informacji, o których mowa w ust. 1, obejmuje otrzymane z innych państw informacje na temat toczących się w tych państwach postępowań w sprawie umieszczenia w placówce opiekuńczej lub pieczy zastępczej dziecka, które ma bliskie związki z Rzecząpospolitą Polską, a także obejmuje dane osób spokrewnionych z dzieckiem, które wyraziły gotowość do przejęcia nad nim opieki. Art. 27–30. (pominięte)
+2. Wymiana informacji, o których mowa w ust. 1, obejmuje otrzymane z innych państw informacje na temat toczących się w tych państwach postępowań w sprawie umieszczenia w placówce opiekuńczej lub pieczy zastępczej dziecka, które ma bliskie związki z Rzecząpospolitą Polską, a także obejmuje dane osób spokrewnionych z dzieckiem, które wyraziły gotowość do przejęcia nad nim opieki.
+
+**Art. 27–30.** (pominięte)
 
 **Art. 31.** Do spraw o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką prowadzonych na podstawie konwencji haskiej z 1980 r., wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 

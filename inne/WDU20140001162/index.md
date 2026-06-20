@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo atomowe
+# Ustawa z dnia 25 lipca 2014 r. o zmianie ustawy - Prawo atomowe
 
 *USTAWA z dnia 25 lipca 2014 r.*
 

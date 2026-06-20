@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności oraz niektórych innych ustaw
+# Ustawa z dnia 26 maja 2022 r. o zmianie ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności oraz niektórych innych ustaw
 
 *USTAWA z dnia 26 maja 2022 r.*
 

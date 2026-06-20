@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania
 
 *USTAWA z dnia 3 grudnia 2010 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-10-23 |
 | Ostatnia zmiana | 2026-03-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001452) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1452/text.pdf) |
-
-Art. 24–30. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -218,6 +216,8 @@ Art. 24–30. (pominięte)
 - **3)** raport z realizacji Krajowego Programu Działań na rzecz Równego Traktowania, o którym mowa w art. 22.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 24–30.** (pominięte)
 
 **Art. 31.** Pełnomocnik Rządu do Spraw Równego Traktowania ustanowiony i powołany na podstawie art. 10 ust. 1 i 3 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. poz. 199, z późn. zm. ) staje się Pełnomocnikiem Rządu do Spraw Równego Traktowania w rozumieniu niniejszej ustawy.
 
